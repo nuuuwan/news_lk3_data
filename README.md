@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 07:52:01**
+As of **2024-02-14 08:02:21**
 
 ## Newspaper Stats
 
-*Scraped **6,856** Articles*
+*Scraped **6,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ newsfirstlk | 363
 islandlk | 365
 dailyftlk | 374
 adalk | 582
-tamilmirrorlk | 835
+tamilmirrorlk | 836
 adaderanalk | 838
 virakesarilk | 868
-adaderanasinhalalk | 954
+adaderanasinhalalk | 958
 dailymirrorlk | 1,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,856 (100.0%) of 6,856 articles have been extended.
+6,856 (99.9%) of 6,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### இன்றைய வானிலை முன்னறிவிப்புகள்
+
+*2024-02-14 07:37:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-முன்னறிவிப்புகள்/175-333172) · `ta`
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் பொலநறுவை, மாத்தளை மற்றும் நுவரேலியா மாவட்டங்களிலும் இடைக்கிடையே மழை பெய்யக்கூடுமென  வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது,
+
+சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும், வடக்கு, கிழக்கு, வடமத்திய, வடமேல், தென் மற்றும் ஊவா மாகாணங்களிலும் மணித்தியாலத்திற்கு சுமார் 30 ‐ 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும்.
+
+சப்ரகமுவ மற்றும்  மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+
+திருகோணமலை தொடக்கம் மட்டக்களப்பு ஊடாக ஹம்பாந்தோட்டை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின் பல இடங்களில் மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/44d634a8.json)
+
+---
+
+### සෞඛ්‍ය වර්ජනයේ වෙනසක් නෑ
+
+*2024-02-14 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193351) · `si`
+
+සෞඛ්‍ය වෘත්තීය සමිති ආරම්භ කළ වර්ජනය තවදුරටත් ක්‍රියාත්මක කිරීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/6436e2a0.json)
+
+---
+
+### පාකිස්තාන අගමැති ධුරය ගැන තීරණයක්
+
+*2024-02-14 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193350) · `si`
+
+පාකිස්තානයේ මීළඟ අග්‍රාමාත්‍යවරයා ලෙස නවාස් ෂරීෆ් නම් කිරීමට තීරණය කර තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ, පකිස්තානයේ නවාස් ෂරීෆ් සහ බිලාවල් භූතෝගේ පක්ෂ රජයක් පිහිටුවීම සඳහා ගිවිසුමකට එළැඹ ඇති බවය.
+
+පසුගිය සතියේ පැවති මැතිවරණයෙන් පසු අගමැතිවරයෙකු තෝරා ගැනීමට නවාෆ් ෂරීෆ්ගේ පීඑම්එල්-එන් පක්ෂයට අවශ්‍ය සහාය ලබා දෙන බව භූතෝගේ පීපීපී පක්ෂය සඳහන් කර තිබිණි.
+
+මැතිවරණයේදී නවාෆ් ෂරීෆ්ගේ පීඑම්එල්-එන් පක්ෂයට අසන 75 සහ භූතෝගේ පීපීපී පක්ෂය ආසන 54 බැඟින් ලබා ගෙන තිබේ.
+
+අගමැතිවරයකු තෝරා පත් කර ගැනීමට තම පක්ෂය සහාය දක්වන  බව භූතෝ පවසන අතර, ඔහු මීට පෙර කියා සිටියේ එය කැබිනට් තනතුරු නොගන්නා බවට ඔහු ප්‍රකාශ කර ඇති බවය.
+
+ඉම්රාන් ඛාන් සහ ඔහුගේ පක්ෂය අවධාරණය කර ඇත්තේ මැතිවරණය තමන්ට එරෙහිව දූෂණය සිදුව ඇති බැවින් ප්‍රතිඵලවලට අභියෝග කිරීමට පියවර ගන්නා බවය.
+
+◼️
+
+[Data](articles/00313f2e.json)
+
+---
 
 ### 5G Technology remains uncertain in Sri Lanka
 
@@ -73,6 +127,46 @@ The university administration has said that animals are being raised for meat an
 [Data](articles/076a6550.json)
 
 [Extended Data](ext_articles/076a6550.ext.json)
+
+---
+
+### මෝදර වෙඩිතැබීමක්
+
+*2024-02-14 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193349) · `si`
+
+මෝදර පොලිස් වසමේ දී ඊයේ (13) රාත්‍රියේ වෙඩිතැබීමක් සිදුව තිබේ.
+
+පොලීසිය සඳහන් කළේ, වෙඩිතැබීමෙන් පුද්ගලයෙකු තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කළ බවය.
+
+එලෙස තුවාල ලබා ඇත්තේ අවුරුදු 51 ක්වූ මහවත්ත පටුමඟ, කොළඹ 14 යන ලිපිනයේ පදිංචිකරුවෙකි.
+
+තුවාලකරු මෝදර වීදිය ප්‍රදේශයේ පිහිටි අවන්හලක කළමනාකරු වශයෙන් සේවය කරන අතර, ඔහු එම අවන්හලේ ගේට්ටුව ආසන්නයේ සිටිය දී කාර් රථයකින් පැමිණි නාඳුනන පුද්ගලයින් විසින් මෙම වෙඩිතැබීම සිදුකර තිබේ.
+
+පොලීසිය පැවසුවේ, සැකකරුවන් පළා ගොස් ඇති බවත් වෙඩිතැබීම සඳහා පිස්තෝල අවියක් භාවිත කර ඇති බවට සැක පළ කරන බවය.
+
+◼️
+
+[Data](articles/312dd2fa.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට වැසි වාර කිහිපයක්
+
+*2024-02-14 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193347) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, හම්බන්තොට සහ අනුරාධපුර දිස්ත්‍රික්කවල වැසි ස්වල්පයක් ඇති විය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහමාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40 පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/2d3a5691.json)
 
 ---
 
@@ -1919,95 +2013,5 @@ In the event the accused, Farook Mohommed Ganesanathan, fails to pay the aforeme
 [Data](articles/e4494856.json)
 
 [Extended Data](ext_articles/e4494856.ext.json)
-
----
-
-### Health trade unions to continue strike
-
-*2024-02-13 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97232/health-trade-unions-to-continue-strike) · `en`
-
-Health sector workers have decided to continue its strike launched over disparities in allowances, says the convenor of Health Trade Union Alliance, Chanaka Dharmawickrama.
-
-A collective of 72 health trade unions resorted to a strike this morning (Feb.13) to urge the government to provide them with an allowance similar to that of the DAT (Disturbance, Availability and Transport) allowance given to doctors.
-
-The trade unions representing a wide range of health sector professionals – including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers – have engaged in strikes time and time again over the past few months demanding an allowance hike for them.
-
-The trade union actions stemmed from the Cabinet Ministers’ approval of a proposal tabled by President Ranil Wickremesinghe seeking to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
-
-◼️
-
-[Data](articles/cf644085.json)
-
-[Extended Data](ext_articles/cf644085.ext.json)
-
----
-
-### Sacrifices to Priyantha's relatives for shooting
-
-*2024-02-13 16:20:40* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තැබීමකින්-මියගිය-සැරයන්-ප්‍රියන්තගේ-ඥාතීන්ට-පරිත්‍යාගයක්/11-408062) · `si`
-
-Working Inspector General of Police Sergeant Priyantha Rathnaweera was taken away by the police sergeant at the Tamannaweera, who was trying to arrest a suspect.
-
-The deceased has died as a sub-inspector as a sub-inspector and expressed their regrets for the deceased and over Rs.
-
-◼️
-
-[Data](articles/517426af.json)
-
-[Extended Data](ext_articles/517426af.ext.json)
-
----
-
-### Health strike
-
-*2024-02-13 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193336) · `si`
-
-The Health Trade Unions are informed that tomorrow (14) will be held tomorrow.
-
-72 health trade unions have commenced strike from 06.30 am today (13).
-
-The convener of the Department of Health Trade Ravi Kudmith said that this strike will be the strike asking for the doctors to give them a gift.
-
-Meanwhile, the All Ceylon Nursing Association Secretary SB Mediwauthttu said that a number of demands of the nursing service will not be resolved tomorrow (14).
-
-◼️
-
-[Data](articles/031272c2.json)
-
-[Extended Data](ext_articles/031272c2.ext.json)
-
----
-
-### National & children’s hospitals to be built in Biyagama
-
-*2024-02-13 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97231/national-childrens-hospitals-to-be-built-in-biyagama) · `en`
-
-Plans are afoot to establish a National Hospital and a Children’s Hospital in Biyagama area of Gampaha District due to the high demand for health services in the area, the government says.
-
-As a result of the growing population and industrialization in the Gampaha District, it acts as a major service delivery centre. Accordingly, the government has recognized the need to build a National Hospital and a Children’s Hospital there in order to meet the rising demand for health services.
-
-On that account, the Cabinet of Ministers, at its meeting on Monday (Feb.12), green-lighted a proposal to implement the project after acquiring 2 plots of land, stretching across 7 acres and 3 roods, located in Biyagama North Grama Niladhari Division and providing basic infrastructure.
-
-The proposal was tabled by President Ranil Wickremesinghe and Health Minister Dr. Ramesh Pathirana.
-
-The project is planned to be carried out under a public-private partnership.
-
-◼️
-
-[Data](articles/1a34c1c8.json)
-
-[Extended Data](ext_articles/1a34c1c8.ext.json)
-
----
-
-### Cabinet approval to revise the online bill
-
-*2024-02-13 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193335) · `si`
-
-◼️
-
-[Data](articles/00338d84.json)
-
-[Extended Data](ext_articles/00338d84.ext.json)
 
 ---

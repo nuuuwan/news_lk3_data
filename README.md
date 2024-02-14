@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 08:32:56**
+As of **2024-02-14 08:51:12**
 
 ## Newspaper Stats
 
-*Scraped **6,865** Articles*
+*Scraped **6,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 350
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 374
-adalk | 582
+adalk | 583
 adaderanalk | 838
 tamilmirrorlk | 839
 virakesarilk | 868
@@ -26,7 +26,7 @@ dailymirrorlk | 1,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,865 (100.0%) of 6,865 articles have been extended.
+6,865 (100.0%) of 6,866 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1246,6 +1246,26 @@ The gazette notification has been issued by President Ranil Wickremesinghe by vi
 
 ---
 
+### අටුළුගම දැරිය ඝාතකයා වසර 27 ක් හිරේ ලක්ෂ 30 ක වන්දියක් ගෙවන්නත් නියමවෙයි
+
+*2024-02-13 20:08:25* · [`adalk`](https://www.ada.lk/breaking_news/අටුළුගම-දැරිය-ඝාතකයා-වසර-27-ක්-හිරේ-ලක්ෂ-30-ක-වන්දියක්-ගෙවන්නත්-නියමවෙයි/11-408068) · `si`
+
+බණ්ඩාරගම අටුළුගම ප්‍රදේශයේ දී නව හැව්රිදි දැරියක මඩ වගුරක ගිල්වා ඝාතනය කල විත්තිකරු වරද පිළිගැනීමෙන් පසු පානදුර මහාධිකරණ විනිසුරු විසින් චූදිතටවසර 27 ක බරපතළ වැඩ සහිත සිර දඩුවම් අද (13) නියම කලේය.
+
+බණ්ඩාරගම අටුළුගම ප්‍රදේශයේ පදිංචි මොහොමඩ් ෆාරුක් මොහොමඩ් ගනේෂනාදන් නමැති පුද්ගලයකුට මෙසේ සිරදඩුවම් නියමවිය.
+
+එකී දඩුවමට අමතරව දැරියගේ මවට රුපියල් ලක්ෂ 30 ක වන්දියක් ගෙවන ලෙසටද  මහාධිකරණ විනිසුරුවරයා විසින් නියම කර තිබේ.
+
+එකී වන්දි මුදල නොගෙවන්නේ නම් තවත් වසර හයහමාරක ලිහිල් සිරදඩුවම්ද නියම කර ඇත.
+
+2022 මැයි මස 27 හෝ ඊට ආසන්න දිනක නිවස ආසන්නයේ වෙළද සැලකට ගොස් සිටියදී ඇයව රවටා පැහරගෙන ගොස් අවට ලදු කැලෑවක මඩ වගුරක ඔබා  මනුෂ්‍ය ඝාතනයක් සිදුකිරීමේ  චෝදනා යටතේ පානදුර ප්‍රධාන  මහේස්ත්‍රාත් අධ්කරණයේ මූලික සාක්කි ගොනුකිරීමෙන් පසු නීතිපති වරයා විසින් මහාධිකරණය හමුවේ සැකකරුට එරෙහිව නඩු පවරා තිබුණි.
+
+◼️
+
+[Data](articles/00ac2a96.json)
+
+---
+
 ### Bangladesh recall Mahmudullah, Taijul for Sri Lanka T20Is
 
 *2024-02-13 20:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-recall-Mahmudullah-Taijul-for-Sri-Lanka-T20Is/108-276937) · `en`
@@ -1993,29 +2013,5 @@ Entrepreneurs and industrialists will now have more opportunities to establish i
 [Data](articles/bf84ef10.json)
 
 [Extended Data](ext_articles/bf84ef10.ext.json)
-
----
-
-### Armed forces on duty at the hospital
-
-*2024-02-13 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176282) · `ta`
-
-72 health trade unions across the country have been back in the backyard from Tuesday morning.
-
-In this case, about 1,200 soldiers have been deployed on duty for the hospital's aid.
-
-According to military spokesman Major General Fan Kumara, more than 900 soldiers have been deployed to carry out the operations of 48 hospitals across the country.
-
-More than 200 Air Force and Navy soldiers have been sent to help the hospital's activities.
-
-Military spokesman Major General Fan Kumara said that more soldiers will be sent to hospitals as needed.
-
-However, representatives of health trade unions have noted that health workers working in the emergency department in hospitals are working.
-
-◼️
-
-[Data](articles/15a95179.json)
-
-[Extended Data](ext_articles/15a95179.ext.json)
 
 ---

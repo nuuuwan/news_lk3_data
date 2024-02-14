@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 02:33:17**
+As of **2024-02-15 02:49:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,084 (100.0%) of 7,087 articles have been extended.
+7,087 (100.0%) of 7,087 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The Groupâ€™s healthcare sector emerged as the largest contributor to Sunshineâ€
 
 [Data](articles/8ed1b92f.json)
 
+[Extended Data](ext_articles/8ed1b92f.ext.json)
+
 ---
 
 ### Bingiriya Investment Zone ready for Japanese investors: Dilum
@@ -60,6 +62,8 @@ The Minister conducted his routine progress review meeting held at Bingiriya Exp
 
 [Data](articles/1ed856e9.json)
 
+[Extended Data](ext_articles/1ed856e9.ext.json)
+
 ---
 
 ### Dialog Axiata unveils smart home devices powered by Dialog Smart Home App
@@ -73,6 +77,8 @@ The Dialog Smart Home App serves as a centralised platform, allowing users to ef
 ...
 
 [Data](articles/54802884.json)
+
+[Extended Data](ext_articles/54802884.ext.json)
 
 ---
 

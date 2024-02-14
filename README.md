@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 02:02:33**
+As of **2024-02-15 02:17:28**
 
 ## Newspaper Stats
 
@@ -26,23 +26,27 @@ dailymirrorlk | 1,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,082 (100.0%) of 7,084 articles have been extended.
+7,084 (100.0%) of 7,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### பெருந்தோட்ட மக்களை சிறு தேயிலைத் தோட்ட உரிமையாளர்களாக பலப்படுத்தினால் சமுர்த்தி அஸ்வெசும போன்ற திட்டங்கள் தேவைப்படாது - சஜித் பிரேமதாச
+### If the plantation people are strengthened as small tea plantation owners, Samurdhi Aswesuma will not be required - Sajith Premadasa
 
 *2024-02-15 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176407) · `ta`
 
-தோட்டங்களில் வேலை செய்பவர்களைச் சிறு தோட்ட உரிமையாளர்களாக்கி, பயிரிடப்படாத அரச தரிசு நிலங்களை அந்தந்த பகுதிகளுக்கு ஏற்ப சிறு தேயிலை தோட்டங்களாக மாற்றி, இன்றைய தொழிலாளியை நாளைய தொழில் முனைவோராக்கும் செயல்திட்டம் நிச்சயம் முன்னெடுக்கப்படும். இது தொழிலை விட வாழ்வாதாரம் என்றும் இந்த நிலத்தில் தேயிலைத் தோட்டம் அமைந்து இருப்பது போலவே வீட்டை நிர்மாணித்துச் சிறந்த வருமானத்தை ஈட்டிக்கொள்ளலாம் என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Make the workers in the gardens, make the unprecedented state barren lands into small tea plantations and make today's worker's entrepreneurship program tomorrow.. The Opposition Leader said that this is more than the industry and that the land can be built and the tea garden on this land can be built and earned a better income.
 
-நாட்டின் தேயிலை உற்பத்தியில் 70 வீதமானது சுமார் 40 வீதமான காணிகளை வைத்திருக்கும் சிறு தேயிலைத் தோட்ட உரிமையாளர்களால் வழங்கப்படுவதாகக் கூறப்படுகிறது. 60 சதவீதத்திற்கும் அதிகமான நில உடைமை கொண்ட பெரிய அளவிலான தேயிலை தொழிற்சாலைகள் தேயிலை உற்பத்திக்கு 30 சதவீத பங்களிப்பையே வழங்குகின்றன. சிறிய தேயிலைத் தோட்டங்களை ஊக்குவிப்பது என்பது தேயிலை உற்பத்தியை அதிகரிப்பதாகும் எனவும், அதன் பின்னர் சமுர்த்தி மற்றும் அஸ்வெசும போன்ற திட்டங்களுக்குத் தேவைப்பாடு ஏற்படாது என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+It is said that 70 percent of the country's tea production is supplied by small tea plantation owners holding about 40 percent of the land.. Large -sized tea factories with over 60 percent of land contributes 30 per cent to tea production. The Opposition Leader said that promoting small tea plantations would increase tea production and thereafter there would be no need for projects like Samurdhi and Aswesuma.
+
+They will be given the opportunity to produce tea in their own tea estate and prepare for exports. The opposition leader added that the service will be carried out with a vision and program.
 
 ...
 
 [Data](articles/bef5b471.json)
+
+[Extended Data](ext_articles/bef5b471.ext.json)
 
 ---
 
@@ -106,25 +110,29 @@ With 19 years at Sri Lanka’s National Aquatic Resources Agency, he rose to Dir
 
 ---
 
-### BIMSTEC நீர்நிலை விளையாட்டுப் போட்டியில் இலங்கை 3ஆம் இடம்
+### Sri Lanka 3rd place in BIMSTEC Water Sports Competition
 
 *2024-02-15 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176406) · `ta`
 
-புதுடில்லி, டொக்டர் சியாமா பிரசாத் முக்கேர்ஜி நீச்சல் தடாக விளையாட்டுத் தொகுதியில் அண்மையில் நடைபெற்ற அங்குரார்ப்பண பிம்ஸ்டெக் (BIMSTEC) நீர்நிலை விளையாட்டுப் போட்டியில் இலங்கை 3ஆம் இடத்தைப் பெற்றது.
+New Delhi, Doctor Siyama Prasad Mukherjee was ranked 3rd in the recently held in the BIMSTEC Water Sports Competition held at the Sports Sport.
 
-நீச்சல், டைவிங், வோட்டர் போலோ ஆகிய 3 வகையான நீர்நிலை  விளையாட்டுப்  போட்டிகள் நடைபெற்றதுடன் இலங்கையிலிருந்து 75 போட்டியாளர்கள் பங்குபற்றினர்.
+There were three types of water sports competitions - swimming, diving and voter polo, and 75 competitors from Sri Lanka participated.
 
-அப் போட்டிகளில் ஒரு வெள்ளிப் பதக்கத்தையும் 13 வெண்கலப் பதக்கங்களையும் வென்றெடுத்த இலங்கை பதக்கங்கள் நிலையில் 3ஆம் இடத்தைப் பெற்றது. நீச்சல் போட்டிகளில் 9 பதக்கங்களும் டைவிங் மற்றும் வோட்டர் போலோவில் தலா 2 பதக்களும் இலங்கைக்கு கிடைத்தன.
+Sri Lanka won 3rd place with a silver medal and 13 bronze medals in the upcoming competitions. Sri Lanka received 9 medals in swimming competitions and 2 medals in diving and voter polo.
 
-இந்தியா 19 தங்கப் பதக்கங்களுடன் ஒட்டுமொத்த சம்பியனானதுடன் தாய்லாந்து 2ஆம் இடத்தைப் பெற்றது.
+India became the overall champion with 19 gold medals and Thailand finished 2nd.
 
-இப் போட்டியில் பங்குபற்றிய 75 இலங்கையர்களில் பிஷப் கல்லூரியைச் சேர்ந்த கித்மி மாரம்பே மாத்திரமே வெள்ளிப் பதக்கத்தை வென்று பலத்த பாராட்டைப் பெற்றார்.
+Of the 75 Sri Lankans who participated in the competition, Kithmi Marama, a Bishop College, won the silver medal and won the silver medal.
 
-பெண்களுக்கான 1 மீற்றர் ஸ்ப்ரிங் போர்ட் டைவிங் போட்டியில் 215.15 புள்ளிகளைப் பெற்று கித்மி 2ஆம் இடத்தைப் பெற்றார்.
+Kithmi finished 2nd in the women's 1m Spring Port Diving Tournament with 215.15 points.
+
+Visaka student Vinuthi Khankanamke won the Wenkalab medal with 176.15 points in the women's 3m Spring Port Diving Tournament.
 
 ...
 
 [Data](articles/5feaa84e.json)
+
+[Extended Data](ext_articles/5feaa84e.ext.json)
 
 ---
 

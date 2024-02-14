@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 21:02:39**
+As of **2024-02-14 21:17:19**
 
 ## Newspaper Stats
 
@@ -26,41 +26,45 @@ dailymirrorlk | 1,032
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,039 (99.9%) of 7,046 articles have been extended.
+7,046 (100.0%) of 7,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### බේස්ලයින් දුම්රිය ස්ථානය ආසන්නයේ ගින්නක්
+### Fire nearing Baseline Station
 
 *2024-02-14 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193386) · `si`
 
-බේස්ලයින් දුම්රිය ස්ථානය ආසන්නයේ ඇති හිස් ඉඩමක අද (14) පස්වරුවේ ගින්නක් හටගෙන තිබේ.
+A fire broke out at a blank land near the Baseline Railway Station this afternoon.
 
-අප වාර්තාකරු සඳහන් කළේ ගින්න නිවාදැමීම සඳහා ගිනි නිවන රථ 3ක් යොදවා තිබූ බවය.
+Our correspondent stated that three fire trucks had been deployed to quit the fire.
 
-ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර පොලීසිය පරීක්ෂණ සිදුකරයි.
+The cause of the fire is yet to be determined and the police are conducting further investigations.
 
 ◼️
 
 [Data](articles/e3620b86.json)
 
+[Extended Data](ext_articles/e3620b86.ext.json)
+
 ---
 
-### கிரிமிய கடற்பரப்பில் உக்ரைன் ஆளில்லா விமான தாக்குதல் - ரஸ்யாவின் பாரிய கப்பல்  மூழ்கடிப்பு
+### Ukraine's unmanned air strike in Crimea Sea - Russia's massive ship sink
 
 *2024-02-14 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176397) · `ta`
 
-ரஸ்யா ஆக்கிரமித்துள்ள கிரிமியாவின் கடற்பரப்பில் உக்ரைன் மேற்கொண்ட தாக்குதலில் ரஸ்யாவின் பாரிய தரையிறங்கு கலமொன்று மூழ்கடிக்கப்பட்டுள்ளதாக  பிபிசி தெரிவித்துள்ளது.
+The BBC reports that Russia's massive landing has been submerged in the Ukraine attack on the sea of Crimea occupied by Russia.
 
-யலாட்டா நகரிற்கு தெற்கில் உள்ள பகுதியில் ரஸ்ய கப்பலை உக்ரைன் மூழ்கடித்துள்ளது - இந்த பகுதியில் பாரிய வெடிப்பு சத்தங்கள் கேட்டன என உள்ளுர் ஊடகங்கள் தெரிவித்துள்ளன.
+Ukraine has drowned the Russian ship in the south of Yalata City - local media reports that massive explosions were heard in this area.
 
-மகுராவி5 என்ற ஆளில்லா விமானங்கள்  சீசர் குனிக்கோவ் என்ற கப்பலை தாக்கியதை காண்பிக்கும் வீடியோவை உக்ரைன் வெளியிட்டுள்ளது.
+Ukraine has released a video of the unmanned flights of Maguravi 5, which shows a ship called Caesar Kunikov.
 
 ◼️
 
 [Data](articles/4cadd737.json)
+
+[Extended Data](ext_articles/4cadd737.ext.json)
 
 ---
 
@@ -96,25 +100,29 @@ The ongoing strike, which has left hospitals and clinics grappling with reduced 
 
 [Data](articles/0461e062.json)
 
+[Extended Data](ext_articles/0461e062.ext.json)
+
 ---
 
-### මරණ දඬුවම ලද වරෙන්තුකරුවෙකු අත්අඩංගුවට
+### A warnator made by death
 
 *2024-02-14 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193385) · `si`
 
-2009-05-06 වැනි දින වැලිකන්ද පොලිස් වසමේ සෙවණපිටිය දුම්රිය හරස් මාරගයේ දී ආරක්ෂිත දුම්රිය වැට බිඳගෙන ධාවනය කිරීමෙන් බස් රථයක් දුම්රියක ගැටී අනතුරක් සිදු ව තිබිණි.
+The bus collided with a train collided with a train collided by train and running the safe train fence in Sevanapitiya railway crossing on the Welikanda police division.
 
-අනතුරෙන් මඟීන් 15 දෙනෙකු මිය ගිය අතර, 40 දෙනෙක් තුවාල ලැබූ හ.
+Fifteen passengers were killed and 40 were injured in the accident.
 
-මෙම චෝදනාවලට වරදකරු වූ බස් රථයේ රියදුරු හට 2023-09-22 වැනි දින පොළොන්නරුව මහාධිකරණය මඟින් නඩු තීන්දුවක් ලබා දෙමින් මරණීය දණ්ඩනය නියම කර තිබිණි.
+The driver of the bus was convicted of these allegations on the Polonnaruwa High Court by 2023-2012.
 
-රියදුරා අවසන් වරට 2022-05-05 වැනි දින මහාධිකරණයේ පෙනී සිට ඇති අතර, ඉන් පසු අධිකරණයේ පෙනී සිට නැත.
+The driver was last appeared in the High Court on 2022-05-05 and later.
 
-ඉන් පසු ඔහුට අධිකරණය මඟින් වරෙන්තු නිකුත් කර ඇති අතර, අද (14) වැලිකන්ද පොලීසිය විසින් වරදකරු අත්අඩංගුවට ගෙන තිබේ.
+After that, he had issued warrants to the court and was arrested by the Welikanda Police today (14).
 
 ◼️
 
 [Data](articles/ce032f05.json)
+
+[Extended Data](ext_articles/ce032f05.ext.json)
 
 ---
 
@@ -140,17 +148,19 @@ The scheme is similar to the fuel assistance provided to improve Sri Lanka's hea
 
 ---
 
-### පැතුම්ගෙන් වාර්තාවක්
+### A report from wishes
 
 *2024-02-14 19:50:36* · [`adalk`](https://www.ada.lk/sports/පැතුම්ගෙන්-වාර්තාවක්/9-408088) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ඉතිහාසය තුළ වේගයෙන්ම එක්දින ලකුණු 2000 සීමාවට ළඟා වූ ක්‍රීඩකයා බවට පැතුම් නිශ්ශංක මීට සුළු මොහොතකට පෙර ශ්‍රී ලංකා වාර්තා පොත් අතරට එක්විය.
+Pathsman, as a player that reached 2000 points in the history of Sri Lanka cricket score, joined the Sri Lankan record books.
 
-ඔහුට එක්දින ලකුණු 2000 සීමාව පසුකර යාමට වැය වූයේ එක්දින තරග 52ක් පමණි. මීට පෙර එම වාර්තාවට හිමිකම් කී උපුල් තරංග එක්දින තරග 66කදී ලකුණු 2000 සීමාවට ළගා වී තිබුණි.මේ වන විට පැතුම්ගේ ඉනිමක සාමාන්‍ය 43.4ක් ලෙස දැක්වෙයි.
+Only 52 ODIs were spent on him 42 ODIs. Previously, Upul Tharanga had scored 2000 runs in 66 ODIs.
 
 ◼️
 
 [Data](articles/e24df5c5.json)
+
+[Extended Data](ext_articles/e24df5c5.ext.json)
 
 ---
 
@@ -196,15 +206,17 @@ However, in response to the strike, the Sri Lankan military has sent groups to g
 
 ---
 
-### සෞඛ්‍ය වර්ජනය හෙට අවසන්
+### The health strike is over tomorrow
 
 *2024-02-14 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193384) · `si`
 
-සෞඛ්‍ය වැඩ වර්ජනය හෙට (15) උදෑසන 06.30 සිට අවසන් බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
+The Health Trade Union UPFA says that the health strike has been completed tomorrow (15).
 
 ◼️
 
 [Data](articles/b9039c6a.json)
+
+[Extended Data](ext_articles/b9039c6a.ext.json)
 
 ---
 
@@ -276,25 +288,27 @@ Mohammed Prophet Service has set the record for the first place in the most popu
 
 ---
 
-### ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුවෙන් බරපතළ හෙළිදරව්වක්
+### Department of Census and Statistics is a serious revelation
 
 *2024-02-14 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193383) · `si`
 
-කොවිඩ් - 19 වසංගතයෙන් පසු ආර්ථික අර්බුදයේ බලපෑම් මත ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යාපාරික ස්ථාන දෙලක්ෂ හැට තුන්දහසකට ආසන්න ප්‍රමාණයක් වැසී ගොස් ඇතැයි ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
+The Covid - 19, nearly 2.5,000 microscopic scale and medium scale businesses have been closed down in the influence of the economic crisis.
 
-ඔවුන් මේ බව අනාවරණ කළේ, සිය නවතම සමීක්ෂණ වාර්තාව ප්‍රකාශයට පත්කරමිනි.
+They were revealed by their latest survey report.
 
-ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව කොවිඩ් - 19 වසංගතයෙන් පසු ආර්ථික අර්බුදයේ බලපෑම් මැන බැලීම සඳහා ආයතන මට්ටමේ සමීක්ෂණයක් පසුගිය වසරේ මාර්තු මස සිට ජූනි මස දක්වා සිදු කර තිබේ.
+The Institute level level survey has been carried out from March to June last year to measure the influence of the economic crisis after the Covard - 19 plague.
 
-මෙම සමීක්ෂණය මගින් ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යාපාරික ස්ථාන ආවරණය කර ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+The survey covers micro, small and medium scale businesses, the Department said.
 
-ඒ අනුව එක් එක් වසර තුළ තාවකාලික ව හෝ ස්ථිර ව වැසි ගිය ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යාපාරික ස්ථානවල ප්‍රතිශතයන්හි අගය ද එම දෙපාර්තමේන්තුව විසින් අද හෙළි කරනු ලැබිණි.
+Accordingly, the value of the percentage of the percentage of the percentage of the percentage of the microfinance of musical, small and medium scale businesses during each year was revealed today.
 
-එහි දී 2019 වසරේ සියයට 9.9ක් ද 2020 වසරේ සියයට 33.4 ක් ද 2021 වසරේ දී 27.4ක් හා 2022 වසරේ සියයට 29.3ක් ව්‍යාපාර වැසී ගොස් තිබේ.
+In 2019, 29 percent and 27.4 percent of 2020 and 29.3 percent in 2021 were closed in 2021.
 
 ◼️
 
 [Data](articles/c38d38c3.json)
+
+[Extended Data](ext_articles/c38d38c3.ext.json)
 
 ---
 

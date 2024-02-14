@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 09:17:19**
+As of **2024-02-14 09:33:10**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 1,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,870 (100.0%) of 6,873 articles have been extended.
+6,873 (100.0%) of 6,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### වී මිල ගැන රජයෙන් ප්‍රකාශයක්
+### Government statement on paddy price
 
 *2024-02-14 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193353) · `si`
 
-මෙවර වී මිලදී ගැනීම මුදල් අමාත්‍යාංශයේ මැදිහත් වීමෙන් සිදුකරන බව මහින්ද අමරවීර අමාත්‍යවරයා පවසයි.
+The Minister of Paddy is under the intervention of the Ministry of Finance.
 
-ඔහු සඳහන් කළේ, වී මිල සම්බන්ධයෙන් ගොවීන් තුළ ගැටලුකාරී තත්ත්වයක් පවතින බවය.
+He referred to that farmers have problems in the price of paddy.
 
 ◼️
 
 [Data](articles/11c0edf9.json)
+
+[Extended Data](ext_articles/11c0edf9.ext.json)
 
 ---
 
@@ -386,6 +388,8 @@ In a detailed analysis the HRCSL highlights 30 instances of failure to comply wi
 
 [Data](articles/fc0ab92f.json)
 
+[Extended Data](ext_articles/fc0ab92f.ext.json)
+
 ---
 
 ### Political aspirations with greed for power still continue with our present politicians too
@@ -419,6 +423,8 @@ The long drawn out war commencing from the assassination of the Mayor of Jaffna 
 ...
 
 [Data](articles/8d482139.json)
+
+[Extended Data](ext_articles/8d482139.ext.json)
 
 ---
 

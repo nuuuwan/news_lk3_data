@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 10:17:31**
+As of **2024-02-14 10:33:51**
 
 ## Newspaper Stats
 
-*Scraped **6,881** Articles*
+*Scraped **6,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,56 @@ adalk | 584
 tamilmirrorlk | 839
 adaderanalk | 842
 virakesarilk | 868
-adaderanasinhalalk | 961
+adaderanasinhalalk | 962
 dailymirrorlk | 1,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,880 (100.0%) of 6,881 articles have been extended.
+6,882 (100.0%) of 6,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### මෝදර වෙඩික්කරුවෝ ආ හැටි CCTV කැමරාවේ
+### President and Samantha Power meet
+
+*2024-02-14 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193355) · `si`
+
+Administrator Samantha Power, Administrator Samantha Power, has exchanged views on the economic reform program in Sri Lanka with President Ranil Wickremesinghe.
+
+There is a promise that she has promised to support Sri Lanka's economic challenges.
+
+◼️
+
+[Data](articles/f3b951a5.json)
+
+[Extended Data](ext_articles/f3b951a5.ext.json)
+
+---
+
+### In the CCTV camera, the madara shooter
 
 *2024-02-14 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193354) · `si`
 
-ඊයේ (13) රාත්‍රියේ මෝදර ප්‍රදේශයේ අවන්හලක් ඉදිරිපිට දී සිදුවු වෙඩිතැබීමට අදාළ CCTV දර්ශන පෙළක් මාධ්‍යට නිකුත් කර තිබේ.
+A series of CCTV shows have been issued to the shooting in front of a restaurant in the Modara area last night.
 
-පොලීසිය පැවසුවේ, අවහන්හල ඉදිරිපිට රැඳී සිටි පුද්ගලයෙකුට මෝටර් රථයකින් පැමිණි නාඳුනන පුද්ගලයෙක් විසින් වෙඩිතැබීම සිදුකර ඇති බවය.
+Police said that the shooting had been shot by an unknown man who had come from a car.
 
-වෙඩි තැබීමෙන්  පුද්ගලයෙකු  බරපතළ තුවාල ලබා ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ.
+The shooting has been admitted to the Colombo National Hospital for treatment.
 
-පොලීසිය පැවසුවේ වෙඩි වැදීමෙන් එම පුද්ගලයාගේ දකුණු උරහිසට බෙල්ලට සහ පාදයට දැඩි හානි සිදුව ඇති බවය.
+The police said that the man's right shoulder was severely damaged by the neck and foot.
 
-මෙලෙස වෙඩි ප්‍රහාරයට ලක්ව ඇත්තේ කොළඹ 14 ප්‍රදේශයේ පදිංචි 51 හැවිරිදි අදාළ අවන්හලේ කළමණාකරු‍වෙකු ලෙස සේවය කළ පුද්ගලයෙකි.
+The shooting was a 51-year-old manager, a 51-year-old resident of Colombo 14.
 
-වෙඩි තැබීම සඳහා පිස්තෝලයක් භාවිත කර ඇති බවට පොලීසිය සැක පළ කරන අතර වෙඩිතැබීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව සඳහන්ය.
+The police suspect that the shooting has been used to shoot is yet to be determined.
 
 ◼️
 
 [Data](articles/84dd6c56.json)
+
+[Extended Data](ext_articles/84dd6c56.ext.json)
 
 ---
 
@@ -1993,33 +2011,5 @@ Social activist Oshala Herath filed this appeal before the Supreme Court seeking
 [Data](articles/e6c8deef.json)
 
 [Extended Data](ext_articles/e6c8deef.ext.json)
-
----
-
-### Sri Lanka rupee closes at 313.10/30 to the US dollar
-
-*2024-02-13 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-10-30-to-the-us-dollar-150725/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 313.10/30 to the US dollar Tuesday, from 313.45/75 on Monday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.50/60 percent down from 10.80/90 percent.
-
-A bond maturing on 15.09.2027 closed at 11.40/50 percent from 11.65/75 percent.
-
-A bond maturing on 15.03.2028 closed at 11.70/80 percent from 12.00/10 percent.
-
-A bond maturing on 15.07.2029 closed at 12.00/50 percent from 12.35/75 percent.
-
-A bond maturing on 15.05.2030 closed at 12.25/40 percent down from 12.15/35 percent.
-
-A bond maturing on 15.05.2031 closed at 12.25/75 percent from 12.45/85 percent.
-
-A bond maturing on 01.07.2032 closed at 12.25/75 percent down from 12.45/85 percent. (Colombo/Feb13/2024)
-
-◼️
-
-[Data](articles/2db7f012.json)
-
-[Extended Data](ext_articles/2db7f012.ext.json)
 
 ---

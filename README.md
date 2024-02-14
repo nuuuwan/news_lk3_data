@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 23:51:55**
+As of **2024-02-15 00:02:47**
 
 ## Newspaper Stats
 
-*Scraped **7,071** Articles*
+*Scraped **7,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 376
 adalk | 603
 tamilmirrorlk | 859
 adaderanalk | 868
-virakesarilk | 907
+virakesarilk | 908
 adaderanasinhalalk | 998
 dailymirrorlk | 1,039
 
@@ -26,11 +26,31 @@ dailymirrorlk | 1,039
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,070 (100.0%) of 7,071 articles have been extended.
+7,072 (100.0%) of 7,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Indo -Sri Lanka Alliance
+
+*2024-02-14 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176385) · `ta`
+
+To expedite the economic growth of Sri Lanka, a Indo-Sri Lanka Corporation Program has been implemented to increase the capacity of the public sector in Sri Lanka.
+
+During the recent visit of President Ranil Wickremesinghe, the two leaders agreed to strengthen the two countries for the benefit of the two countries through the new sectors.. Especially focus on improving contacts between the two countries, especially.
+
+Currently, India has launched a massive program to build the capacity of civil services and the Indian-Sri Lanka alliance, which is building the state sector, will give you the opportunity to implement the structure of state institutions in Sri Lanka in a very innovative and effective manner.
+
+The Director General of the National Center for Good Governance for Good Governance for Good Governance, Bharat Lal, recently visited Sri Lanka with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
+
+...
+
+[Data](articles/798ef8b9.json)
+
+[Extended Data](ext_articles/798ef8b9.ext.json)
+
+---
 
 ### Sri Lanka won
 
@@ -219,6 +239,8 @@ Rahmanullah Gurbaz (48) and Rahmat Shah (65) were able to give a good start post
 ...
 
 [Data](articles/7f6ad5c5.json)
+
+[Extended Data](ext_articles/7f6ad5c5.ext.json)
 
 ---
 
@@ -2087,25 +2109,5 @@ Senior Deputy Solicitor General Sanil Kularatne, who appeared for the Attorney G
 [Data](articles/49ff920d.json)
 
 [Extended Data](ext_articles/49ff920d.ext.json)
-
----
-
-### SJB Lawyers Federation launches legal reforms for system change
-
-*2024-02-14 14:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-Lawyers-Federation-launches-legal-reforms-for-system-change/108-277005) · `en`
-
-Clarification: Do not make CC a puppet of Executive: PC Upul Jayasuriya
-
-The following quote of the front page article under the title “Do not make CC a puppet of Executive: PC Upul Jayasuriya,” which was carried on Wednesday, February 14th Dailymirror print edition should be attributed to SJB leader Sajith Premadasa and it has been inadvertently attributed to Upul Jayasuriya PC, who is the head of the Samagi Lawyers Federation. We regret the error.
-
-Former President of the Bar Association of Sri Lanka (BASL) Upul Jayasuriya PC said the President should not make the Constitutional Council a puppet of the executive but let it function independently on its own.
-
-He said the President had made statements on several recent occasions indicating that the Constitutional Council was part of the executive and that it should function under the purview of the latter.
-
-...
-
-[Data](articles/fbc543c3.json)
-
-[Extended Data](ext_articles/fbc543c3.ext.json)
 
 ---

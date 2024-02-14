@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 00:47:21**
+As of **2024-02-15 01:02:34**
 
 ## Newspaper Stats
 
-*Scraped **7,074** Articles*
+*Scraped **7,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,43 @@ tamilmirrorlk | 860
 adaderanalk | 868
 virakesarilk | 909
 adaderanasinhalalk | 998
-dailymirrorlk | 1,039
+dailymirrorlk | 1,041
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,074 (100.0%) of 7,074 articles have been extended.
+7,074 (100.0%) of 7,076 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-15 (Thursday)
+
+### Can We Build a World-Class City with Third-World Public Transport?
+
+*2024-02-15 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Can-We-Build-a-World-Class-City-with-Third-World-Public-Transport/172-277035) · `en`
+
+As I was admiring a  skyscraper, I was jolted back to reality by a rickety old bus pulling up in front of it. Somehow, the blueprint to make Colombo world-class seems to have forgotten all about public transport
+
+Colombo is a city in a hurry. New hotels, shopping malls and highways are mushrooming everywhere, and the skyline keeps growing upwards, promising to take us to a world-class future. I went to Galle Face and Port City recently to soak in the Global City in progress. As I was admiring a brightly-lit skyscraper, I was jolted back to reality by a rickety old bus pulling up in front of it. Somehow, the blueprint to make Colombo world-class seems to have forgotten all about public transport.
+
+...
+
+[Data](articles/4d1cfbe5.json)
+
+---
+
+### Wildlife: 50,000 Species Meet the Needs of Billions Worldwide
+
+*2024-02-15 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Wildlife-50-000-Species-Meet-the-Needs-of-Billions-Worldwide/172-277034) · `en`
+
+Despite widespread criticism especially by some media groups which obviously have some vested interests, President Ranil Wickremesinghe – giving steady leadership to the heavily divided Sri Lanka Podujana Peramuna (SLPP) government – is making  steady progress in pulling Sri Lanka out of its worst ever economic and debt crisis. These moves come in an election year but some critics are alleging that the President might try to put off the elections by changing the Executive Presidential system of government. While these areas are important, the politicians and the people need to focus on areas, which have long-term consequences and add beauty to this paradise island. One such area is wildlife, though most people do not have direct interests or connections with it.
+
+...
+
+[Data](articles/d5d7d03f.json)
+
+---
 
 ### 2024-02-14 (Wednesday)
 
@@ -2065,45 +2093,5 @@ Kremlin considers me to silence me silent, but it will not take place but it wil
 [Data](articles/c2f91988.json)
 
 [Extended Data](ext_articles/c2f91988.ext.json)
-
----
-
-### New program to increase state sector capacity
-
-*2024-02-14 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193369) · `si`
-
-The Indo-Sri Lanka partnership has been implemented by Indo-Sri Lanka partnership to accelerate the economic growth in Sri Lanka by implementing the public sector capacity.
-
-President Ranil Wickremesinghe recently concluded the two leaders of the two countries to strengthen relations between the two countries on the new fields, especially in the public.
-
-It is said that India has launched a massive program to rebuild the capacity of civil service and will have the opportunity to implement the country's government institutional system more efficient and efficient.
-
-According to the Government of Sri Lanka, the Director General of the National Center for the Good Governance of the Government of Sri Lanka has come to Sri Lanka recently to visit the Government of Sri Lanka to the Sri Lankan Government's invitation to implement this program.
-
-As a result of these discussions, Sri Lanka's top delegation has gone to India and further implement an appropriate capacity development cooperation program.
-
-...
-
-[Data](articles/ba73e799.json)
-
-[Extended Data](ext_articles/ba73e799.ext.json)
-
----
-
-### Germany eyes better economic partnerships with India
-
-*2024-02-14 15:00:00* · [`economynextcom`](https://economynext.com/germany-eyes-better-economic-partnerships-with-india-150756/) · `en`
-
-ECONOMYNEXT – With sixty-five per cent of her population under the age of 35 and the world’s fastest growing economy, India is attracting the attention of industrialised nations looking to increase trade relations.
-
-A stumbling block however, is that potential partners must meet tough regulatory standards that are enshrined, for instance in the recently introduced  German Act on Corporate Due Diligence Obligations in Supply Chains that seek to prevent child and forced labour, ensure fair wages and safety of workers etc.
-
-But the Free Democrats parliamentary group spokesman for Mittelstand (Small and Medium Enterprises) and Free Trade, Carl- Julius Cronenberg would like to see a softer approach in the implementation of the Act. Pointing out that India’s small and medium enterprises are not yet geared to meet such standards, he is of the view that the German legislation could be improved.
-
-...
-
-[Data](articles/8beffa6d.json)
-
-[Extended Data](ext_articles/8beffa6d.ext.json)
 
 ---

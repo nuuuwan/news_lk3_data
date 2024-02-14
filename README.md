@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 08:17:16**
+As of **2024-02-14 08:32:56**
 
 ## Newspaper Stats
 
-*Scraped **6,864** Articles*
+*Scraped **6,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,66 +19,88 @@ adalk | 582
 adaderanalk | 838
 tamilmirrorlk | 839
 virakesarilk | 868
-adaderanasinhalalk | 958
+adaderanasinhalalk | 959
 dailymirrorlk | 1,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,861 (100.0%) of 6,864 articles have been extended.
+6,865 (100.0%) of 6,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### கொழும்பின் நீர்நிலைகளில் முதலைகள் நடமாட்டம்
+### 54 national schools crisis
 
-*2024-02-14 07:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பின்-நீர்நிலைகளில்-முதலைகள்-நடமாட்டம்/175-333175) · `ta`
+*2024-02-14 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193352) · `si`
 
-கொழும்பில் உள்ள ஆறுகள், ஏரிகள் மற்றும் கால்வாய்களில் முதலைகள் உலா வருவதற்கான சாத்தியக்கூறுகள் அதிகம் உள்ளதால், அவற்றை பயன்படுத்தும் போது அவதானமாக இருக்குமாறு வனஜீவராசிகள் திணைக்களம் பொதுமக்களை எச்சரித்துள்ளது.
+Minister Susil Premajayantha said that the Public Service Commission was not able to recruit 54 principals for national schools due to the public service commission.
 
-வனஜீவராசிகள் பாதுகாப்பு திணைக்களத்தின் பணிப்பாளர் நாயகம் சந்தன சூரியபண்டார, பொல்கொட ஆற்றில் முதலை காணும் காணொளி தொடர்பில் டெய்லி மிரருக்கு கருத்து தெரிவிக்கும் போதே இதனை தெரிவித்தார்.
+◼️
 
-பொல்கொட ஆறு முதலைகளின் வாழ்விடமாக உள்ளது, மேலும் கொழும்பில் உள்ள ஆறுகள், ஏரிகள் மற்றும் நீரோடைகளில் பெருமளவிலான முதலைகள் வாழலாம். அதன்படி, தியவன்னாவ, போல்கொட ஏரி தெற்கு மற்றும் களனி கங்கை ஆகியவை முதலைகளின் வாழ்விடங்களாகக் காணப்படுகின்றன என்று அவர் கூறினார்.
+[Data](articles/fe6db6fe.json)
 
-இது ஒரு பொதுவான சம்பவம், மக்கள் இதைப் பார்க்கும்போது மட்டுமே இது ஒரு தலைப்பாக வருகிறது. எனவே, இந்த நீரோடைகளில் நடந்து செல்லும் போது மக்கள் மிகவும் அவதானமாகவும் அவதானமாகவும் இருக்குமாறு பணிப்பாளர் நாயகம் கேட்டுக் கொண்டார்.
-
-...
-
-[Data](articles/a427e2a2.json)
+[Extended Data](ext_articles/fe6db6fe.ext.json)
 
 ---
 
-### இன்றும் பணிப்புறக்கணிப்பு
+### Crocodiles move in the waters of Colombo
+
+*2024-02-14 07:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பின்-நீர்நிலைகளில்-முதலைகள்-நடமாட்டம்/175-333175) · `ta`
+
+The Wildlife Department has warned the public to be observed when using the crocodiles in rivers, lakes and canals in Colombo.
+
+The Director General of the Wildlife Defense Department, Chandana Suriyapandara, made this comment while commenting on the Video of the Crocodile in the Polgoda River.
+
+Polgoda is the habitat of six crocodiles and can live in rivers, lakes and streams in Colombo. Accordingly, Diyawannawa, Polgoda Lake South and Kelani Ganga are seen as crocodiles habitat.
+
+This is a common event, it comes only when people see this. So, when walking in these streams, the Director General asked people to be very careful and careful.
+
+"It is not practiced. And the crocodiles have not been used to remove the crocodiles from their habitat. Even if we remove them, they come back to the same habitat. It is not the right thing to do to remove the crocodiles from their habitat, ”he said.
+
+◼️
+
+[Data](articles/a427e2a2.json)
+
+[Extended Data](ext_articles/a427e2a2.ext.json)
+
+---
+
+### Workplace still today
 
 *2024-02-14 07:49:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பணிப்புறக்கணிப்பு/175-333174) · `ta`
 
-தமக்கான உரிய தீர்வு முன்வைக்கப்படும் வரையில் தொடர்ச்சியான பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளதாக சுகாதார தொழிற்சங்கங்கள் கூட்டமைப்பு அறிவித்துள்ளது.
+The Health Trade Unions Federation has announced that it will engage in a continuous workforce until its appropriate solution is presented.
 
-நேற்று மாலை இடம்பெற்ற கலந்துரையாடலின் போது, இந்த தீர்மானம் எடுக்கப்பட்டதாக அதன் இணைப்பாளர் சானக்க தர்மவிக்ம தெரிவித்தார். (a)
+During the discussion held yesterday evening, the decision was taken. (A)
 
 ◼️
 
 [Data](articles/cd50db9e.json)
 
+[Extended Data](ext_articles/cd50db9e.ext.json)
+
 ---
 
-### பாலியல் வன்கொடுமை செய்த பொலிஸூக்கு பிணை
+### Bail
 
 *2024-02-14 07:45:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-வன்கொடுமை-செய்த-பொலிஸூக்கு-பிணை/175-333173) · `ta`
 
-பெண் பொலிஸ் கான்ஸ்டபிளை பாலியல் வன்கொடுமை செய்த குற்றச்சாட்டில் குளியாப்பிட்டி பொலிஸ் நிலையப் பொறுப்பதிகாரி (OIC) நேற்று புத்தளம் நீதிவான் நீதிமன்றில் சரணடைந்தார்.
+The Guliyapitiya Police Station (OIC) surrendered to the Puttalam Magistrate's Court yesterday for allegedly raping a woman police constable.
 
-சம்பவத்தின் பின்னர் குளியாபிட்டிய பிரிவு சிரேஷ்ட பொலிஸ் அத்தியட்சகர் விசாரணைகளை ஆரம்பித்துள்ளதாகவும், பின்னர் இது தொடர்பில் நீதிமன்றில் அறிக்கை செய்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+The Senior Superintendent of Police has commenced investigations after the incident and later reports in court, police said.
 
-நீதவான் அவரை ரூ. 500,000 பிணையில் விடுவித்த துடன் வழக்கின் அடுத்த விசாரணையான மார்ச் 6 ஆம் திகதி வரை ஒவ்வொரு வாரமும் கடைசி ஞாயிற்றுக்கிழமை குளியாப்பிட்டி SSP அலுவலகத்தில் ஆஜராகுமாறு அவருக்கு உத்தரவிட்டார்.
+Magistrate him. The next hearing of the case, which was released on a bail of 500,000, was ordered to appear at the Kuliyapitiya SSP office on the last Sunday until March 6.
 
-சட்ட நடவடிக்கைகள் மட்டுமின்றி, இன்ஸ்பெக்டர் மீது துறை ரீதியாகவும் ஒழுங்கு நடவடிக்கை எடுக்கப்படும் என பொலிஸார் தெரிவித்தனர்.
+In addition to legal proceedings, the Inspector will take disciplinary action, police said.
 
 ◼️
 
 [Data](articles/53ab3967.json)
+
+[Extended Data](ext_articles/53ab3967.ext.json)
 
 ---
 
@@ -1995,27 +2017,5 @@ However, representatives of health trade unions have noted that health workers w
 [Data](articles/15a95179.json)
 
 [Extended Data](ext_articles/15a95179.ext.json)
-
----
-
-### Diana Gamage - Declaration of Differs Declare Free
-
-*2024-02-13 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193337) · `si`
-
-The Supreme Court was postponed to announce its verdict on the verdict of the Court of Appeal.
-
-The petition examination was held in the face of a three-member judge's bag with Gamini Amarasekera and Kumuduni Wickramasinghe and Janaka de Silva.
-
-The appearance of this appeal was presented by a social activist, Mr. Oshala Herath.
-
-Attorney at Law Hafiel Faris, who appeared on behalf of the petitrator Dana Gamage, appeared for the petitioner party.
-
-The Supreme Court then ended the petition exam, was postponed to announce its verdict.
-
-◼️
-
-[Data](articles/198da506.json)
-
-[Extended Data](ext_articles/198da506.ext.json)
 
 ---

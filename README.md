@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 23:33:34**
+As of **2024-02-14 23:51:55**
 
 ## Newspaper Stats
 
-*Scraped **7,070** Articles*
+*Scraped **7,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 370
 dailyftlk | 376
 adalk | 603
 tamilmirrorlk | 859
-adaderanalk | 867
+adaderanalk | 868
 virakesarilk | 907
 adaderanasinhalalk | 998
 dailymirrorlk | 1,039
@@ -26,43 +26,49 @@ dailymirrorlk | 1,039
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,067 (100.0%) of 7,070 articles have been extended.
+7,070 (100.0%) of 7,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### இலங்கை அணி வெற்றி
+### Sri Lanka won
 
 *2024-02-14 23:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அணி-வெற்றி/175-333225) · `ta`
 
-ஆப்கானிஸ்தான் மற்றும் இலங்கை அணிகளுக்கிடையே இன்று (14) நடைபெற்ற மூன்றாவது ஒரு நாள் கிரிக்கெட் போட்டியில் இலங்கை அணி வெற்றி பெற்றுள்ளது.
+Sri Lanka won the third ODI match between Afghanistan and Sri Lanka today (14).
 
-கண்டி பல்லேகல சர்வதேச கிரிக்கெட் மைதானத்தில் நடைபெற்ற இந்த போட்டியில் நாணய சுழற்சியில் வெற்றிப்பெற்ற ஆப்கானிஸ்தான் அணி முதலில் துடுப்பெடுத்தாட தீர்மானித்தது.
+The match was held at the Pallekela International Cricket Ground in Kandy, and Afghanistan won the first round of the currency spin.
 
-அதன்படி முதலில் துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் 48.2 ஓவர்களில் சகல விக்கெட்களையும் இழந்து  266 ஓட்டங்களை பெற்றது.
+Accordingly, Afghanistan scored 266 runs for the loss of all wickets in 48.2 overs.
 
-இந்நிலையில், 267 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை அணி 35.2 ஓவர்களில் 3 விக்கெட்களை இழந்து 267 என்ற வெற்றி இலக்கை அடைந்து வெற்றி பெற்றுள்ளது. R
+In response, the Sri Lankan team won the target of 267 runs and won the target of 267 in 35.2 overs.. Remble
 
 ◼️
 
 [Data](articles/09c03fe8.json)
 
+[Extended Data](ext_articles/09c03fe8.ext.json)
+
 ---
 
-### 'தேனிசைத் தென்றல்' தேவா குரலில் ஸ்ரீகாந்த் தேவா இசையில் கவிஞர் பொத்துவில் அஸ்மின் வரிகளில் "மாமாகுட்டிமா"  பாடல் புரோமோ வெளியானது.
+### In the music of Srikanth Deva in the 'Thenisa Breeze', the song "Mamakuttima" was released in the lyrics of the poet Pottuvil Azmin.
 
 *2024-02-14 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176403) · `ta`
 
-தனியிசை பாடல்கள் மூலமாகவும் தமிழ் திரைப்பட பாடல்கள் வாயிலாகவும் உலகெங்கும் உள்ள தமிழர்கள் மனங்களில் இடம் பிடித்துள்ள இலங்கை கவிஞர் பொத்துவில் அஸ்மின் எழுதிய புதிய அல்பம் பாடல் "மாமாகுட்டிமா" புரோமோ வெளியாகியுள்ளது.
+Sri Lankan poet Pottuvil Azmin, a new Alpam song "Mammakutima" has been released in the minds of Tamils around the world through private songs and Tamil film songs.
 
-லண்டனைச் சேர்ந்த தொழிலதிபரும் சமூக சேவகருமான DR. மாலாகுமார் தனது மாலாகுமார் படைப்பகத்தின் சார்பில் தயாரித்துள்ள இந்த பாடலினை சமீபத்தில் தேசிய விருது பெற்ற இசையமைப்பாளர் ஶ்ரீகாந்த் தேவா இசையமைத்துள்ளார்.  இந்த உற்சாகமிக்க பாடலை அவரது தந்தையும் பிரபல இசையமைப்பாளருமான தேவா தனது காந்த குரலில், பிரத்யேக ஸ்டைலில் பாடியுள்ளார்.
+London -based businessman and social worker Dr. The song, which Malakumar, produced on behalf of his Malakumar creation, recently composed the National Award -winning composer Shrikanth Deva.His father and famous composer Deva sings this exciting song in her magnetic voice and special style.
 
-விஜய் ஆண்டனி நடித்த’ நான்’ திரைப்படத்தில் இடம்பெற்ற 'தப்பெல்லாம் தப்பே இல்லை’ பாடலின் மூலம் தமிழ் சினிமாவில் அறிமுகமான கவிஞர் பொத்துவில் அஸ்மின், சூப்பர் ஸ்டார் ரஜினிகாந்த் நடித்த 'அண்ணாத்த', அஜித் குமார் நடித்த 'விஸ்வாசம்' உள்ளிட்ட படங்களுக்கு எழுதிய புரோமோ பாடல்கள் ரசிகர்களால் கொண்டாடப்பட்டன.
+Promo songs written by Pottuvil Azmin, superstar Rajinikanth and Ajith Kumar starrer 'Viswasam' were celebrated by fans in Tamil cinema with the song 'Tapallam Thappa' starring Vijay Antony.
+
+'Muthu Muthu Karuvaaya', 'Takamdeera Vanaye Idinatadamma,' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '. Also, I have recently been released in Sri Lanka and treated all over the world 'Io Sami you want me.. He wrote the song 'The song' is a lie.
 
 ...
 
 [Data](articles/236cfa99.json)
+
+[Extended Data](ext_articles/236cfa99.ext.json)
 
 ---
 
@@ -195,6 +201,24 @@ He said that the SLAF has submitted requests to the US Air Force for the acquisi
 [Data](articles/16a5a8fc.json)
 
 [Extended Data](ext_articles/16a5a8fc.ext.json)
+
+---
+
+### Sri Lanka thrash Afghanistan in 3rd ODI to complete 3-0 series sweep
+
+*2024-02-14 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97278/sri-lanka-thrash-afghanistan-in-3rd-odi-to-complete-3-0-series-sweep) · `en`
+
+Sri Lanka registered a clean-sweep 3-0 series win against Afghanistan after winning the final and the third ODI by 07 wickets at the Pallekele International Cricket Stadium.
+
+Chasing a target of 267 set by the Afghans, Sri Lanka posted 267/3 in 35.2 overs with the help of the brilliant century hit by Pathum Nissanka.
+
+Afghan captain Hashmatullah Shahidi won the toss and elected to bat first.
+
+Rahmanullah Gurbaz (48) and Rahmat Shah (65) were able to give a good start post Ibrahim Zadran (13) got dismissed. But Afghanistan could not kick on in the next overs. Azmatullah Omarzai (54) and Ikram Alikhil (32) tried their best but in the last overs the batters could not end strong. Afghanistan were bowled out for 266 in 48.2 overs.
+
+...
+
+[Data](articles/7f6ad5c5.json)
 
 ---
 
@@ -421,6 +445,8 @@ The accident occurred when a private bus carrying 70 passengers, including child
 ...
 
 [Data](articles/0a04a6d0.json)
+
+[Extended Data](ext_articles/0a04a6d0.ext.json)
 
 ---
 
@@ -2081,25 +2107,5 @@ He said the President had made statements on several recent occasions indicating
 [Data](articles/fbc543c3.json)
 
 [Extended Data](ext_articles/fbc543c3.ext.json)
-
----
-
-### Health, transport, railment, postal services are essential services
-
-*2024-02-14 14:31:54* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය--ප්‍රවාහනය-දුම්රිය-සේවා-තැපැල්-අත්‍යවශ්‍ය-සේවා-බවට-පත්-කෙරේ/11-408084) · `si`
-
-Two special gazettes have been released today (13), converting health, public transport, traffic, traffic and postal services to maintain the normal people.
-
-Accordingly, one gazette notification has been substantially necessary or done to maintain or accept patients in hospitals, nursing homes, medications and other similar institutions.
-
-The other gazette notification has been issued by the other gazette notification and maintaining passengers or cargo public transport services, maintaining and maintaining railway traffic services and postal service services.
-
-The announcements have been issued by the Secretary to the President EMSB Ekanayake.
-
-◼️
-
-[Data](articles/ddef7137.json)
-
-[Extended Data](ext_articles/ddef7137.ext.json)
 
 ---

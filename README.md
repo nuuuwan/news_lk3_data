@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 08:51:12**
+As of **2024-02-14 09:02:41**
 
 ## Newspaper Stats
 
-*Scraped **6,866** Articles*
+*Scraped **6,870** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
 bbccomsinhala | 92
-dbsjeyarajcom | 148
+dbsjeyarajcom | 149
 economynextcom | 350
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 374
-adalk | 583
-adaderanalk | 838
+adalk | 584
 tamilmirrorlk | 839
+adaderanalk | 840
 virakesarilk | 868
 adaderanasinhalalk | 959
 dailymirrorlk | 1,007
@@ -26,7 +26,7 @@ dailymirrorlk | 1,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,865 (100.0%) of 6,866 articles have been extended.
+6,866 (99.9%) of 6,870 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -127,6 +127,26 @@ Winds from the northeast at 30 - 40 km / h in the sea regions.
 [Data](articles/44d634a8.json)
 
 [Extended Data](ext_articles/44d634a8.ext.json)
+
+---
+
+### Showers expected in parts of the island
+
+*2024-02-14 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97248/showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says several spells of showers will occur in Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara-Eliya districts.
+
+A few showers may occur in Hambantota and Anuradhapura districts, it said.
+
+Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts after 2.00 p.m.
+
+Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-Central, Southern, North-western, Uva and Eastern provinces.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/87274113.json)
 
 ---
 
@@ -231,6 +251,24 @@ Police said the suspects were suspended and suspected that the shooting was used
 [Data](articles/312dd2fa.json)
 
 [Extended Data](ext_articles/312dd2fa.ext.json)
+
+---
+
+### Shehbaz Sharif to be coalition candidate for next Pakistan PM
+
+*2024-02-14 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97247/shehbaz-sharif-to-be-coalition-candidate-for-next-pakistan-pm) · `en`
+
+Former Prime Minister Shehbaz Sharif will be the nominee for Pakistan’s next premier to lead a new coalition alliance formed between different parties, a spokeswoman said on Tuesday after national elections last week returned a hung parliament.
+
+The Pakistan Peoples Party (PPP) on Tuesday said it would support Sharif’s party to form a minority government, ending a stalemate after inconclusive elections in the nuclear-armed nation lead to days of political uncertainty.
+
+A spokesman for Sharif’s party, Marriyam Aurangzeb, said in a post on social media site X, formerly Twitter, that Nawaz Sharif, the elder brother of Shehbaz, had nominated him for the post.
+
+Shehbaz Sharif belongs to his brother’s Pakistan Muslim League-Nawaz (PML-N), the largest recognised party with 80 seats and PPP is second with 54. Together, the two parties have enough for a simple majority in the 264-seat legislature.
+
+...
+
+[Data](articles/d1c91c28.json)
 
 ---
 
@@ -1212,6 +1250,22 @@ The gazette has been issued by the state to declare all the services, work or wo
 
 ---
 
+### බැඳුම්කර ගිවිසුම් කඩකළ නිලධාරීන් 9ක් රජයට කෝටි පහක ණයක්
+
+*2024-02-13 20:25:23* · [`adalk`](https://www.ada.lk/breaking_news/බැඳුම්කර-ගිවිසුම්-කඩකළ-නිලධාරීන්-9ක්-රජයට-කෝටි-පහක-ණයක්/11-408069) · `si`
+
+පොල් පර්යේෂණ මණ්ඩලයේ බැඳුම්කර ගිවිසුම කඩ කළ නිලධාරීන් 09දෙනෙකුගෙන් රුපියල් පන්කෝටි දෙලක්ෂ තිස්නවදහස් හත්සියයක (50,239,770)මුදලක්අය වීමට ඇති බැව් ජාතික විගණන කාර්යාලය මගින් 2024-02-10 දින නිකුත් කොට ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+පොල් පර්යේෂණ මණ්ඩලයේ සේවය කරමින් සිටියද අධ්‍යයන නිවාඩු ලබා විදේශගත වූ නිලධාරීන් 06දෙනෙකු මණ්ඩලය සමග ඇති කර ගත් ගිවිසුම් උල්ලංඝනය කරමින්සේවයට වාර්තා කර නොතිබුණි.
+
+එකී සේවකයන්ගෙන්රජයට අය විය යුතු මුදල එක්කෝටි තිස්පන් ලක්ෂ අසූදෙදහස්  තිස්පහකි. (13,582,035) එමෙන්ම මණ්ඩලයේ අධ්‍යයන නිවාඩු ලබා ගත් පර්යේෂණ නිලධාරීන් තිදෙනෙකු ගිවිසුම් ප්‍රකාරව අධ්‍යයන නිවාඩු අවසන් කර සේවයට වාර්තා කර තිබුණි. එහෙත් වසර 03, 04ක සේවයෙන් පසු ඔවුන් සේවය කළ යුතු අනිවාර්ය සේවා කාලයද ඉක්ම යාමට පෙර මණ්ඩලයේ සේවය හැර ගොස් තිබුණි.
+
+...
+
+[Data](articles/2d6ec04e.json)
+
+---
+
 ### Gazette notification for health services
 
 *2024-02-13 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193342) · `si`
@@ -1246,23 +1300,25 @@ The gazette notification has been issued by President Ranil Wickremesinghe by vi
 
 ---
 
-### අටුළුගම දැරිය ඝාතකයා වසර 27 ක් හිරේ ලක්ෂ 30 ක වන්දියක් ගෙවන්නත් නියමවෙයි
+### The assassin killer is destined to pay for 27 years in jail for 27 years
 
 *2024-02-13 20:08:25* · [`adalk`](https://www.ada.lk/breaking_news/අටුළුගම-දැරිය-ඝාතකයා-වසර-27-ක්-හිරේ-ලක්ෂ-30-ක-වන්දියක්-ගෙවන්නත්-නියමවෙයි/11-408068) · `si`
 
-බණ්ඩාරගම අටුළුගම ප්‍රදේශයේ දී නව හැව්රිදි දැරියක මඩ වගුරක ගිල්වා ඝාතනය කල විත්තිකරු වරද පිළිගැනීමෙන් පසු පානදුර මහාධිකරණ විනිසුරු විසින් චූදිතටවසර 27 ක බරපතළ වැඩ සහිත සිර දඩුවම් අද (13) නියම කලේය.
+Panadura High Court Judge, Panadura High Court Judge, was held in the Athulgama area in the Athulgama area in Bandaragama.
 
-බණ්ඩාරගම අටුළුගම ප්‍රදේශයේ පදිංචි මොහොමඩ් ෆාරුක් මොහොමඩ් ගනේෂනාදන් නමැති පුද්ගලයකුට මෙසේ සිරදඩුවම් නියමවිය.
+Mohamed Farooq Mohamed Ganeshanathan, a resident of Attulgama, Bandaragama, sentenced him.
 
-එකී දඩුවමට අමතරව දැරියගේ මවට රුපියල් ලක්ෂ 30 ක වන්දියක් ගෙවන ලෙසටද  මහාධිකරණ විනිසුරුවරයා විසින් නියම කර තිබේ.
+In addition to this penaliya, the High Court Judge has also set to pay a compensation of the girl's mother.
 
-එකී වන්දි මුදල නොගෙවන්නේ නම් තවත් වසර හයහමාරක ලිහිල් සිරදඩුවම්ද නියම කර ඇත.
+If you do not pay the compensation, another six and a half years are loose prisons.
 
-2022 මැයි මස 27 හෝ ඊට ආසන්න දිනක නිවස ආසන්නයේ වෙළද සැලකට ගොස් සිටියදී ඇයව රවටා පැහරගෙන ගොස් අවට ලදු කැලෑවක මඩ වගුරක ඔබා  මනුෂ්‍ය ඝාතනයක් සිදුකිරීමේ  චෝදනා යටතේ පානදුර ප්‍රධාන  මහේස්ත්‍රාත් අධ්කරණයේ මූලික සාක්කි ගොනුකිරීමෙන් පසු නීතිපති වරයා විසින් මහාධිකරණය හමුවේ සැකකරුට එරෙහිව නඩු පවරා තිබුණි.
+The main magistrate was filed by the Attorney General with the surrounding forest, the Attorney General had filed a murder in the surrounding jungle in the surrounding forest.
 
 ◼️
 
 [Data](articles/00ac2a96.json)
+
+[Extended Data](ext_articles/00ac2a96.ext.json)
 
 ---
 
@@ -1654,6 +1710,22 @@ The sum of tax revenue the Customs would have incurred if the cargo was cleared 
 
 ---
 
+### The Bowser Explosion  in Kaithady that Rocked  the LTTE on Valentine’s day.; 43 Killed 51 Injured.
+
+*2024-02-13 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83620) · `en`
+
+“The best laid schemes  of mice and men often go awry, ”penned the Scottish bard Robert Burns in his poem”to a mouse”. This truth was brought home in an explosive manner to the Liberation Tigers of Tamil Eelam(LTTE)  37 years ago when  a massive explosion rocked the Kaithady area in the Thenmaratchi division of Jaffna peninsula.
+
+February 14th 1987 was a bloody valentine’s day in northern Jaffna. A bold attempt  by the LTTE known popularly as the tigers  to attack the Navatkuli army camp on that day was  aborted due to an accident which killed 43 persons and injured 51 persons. A carefully planned operation by the LTTE with a tremendous chance of success was not implemented  as a result of it.
+
+The casualties included three senior leaders of the LTTE at that time. 14 February 1987  remains  an explosive date in the annals of contemporary military history and is worthy of being recounted as  it’s 34th anniversary draws near.
+
+...
+
+[Data](articles/93896b9f.json)
+
+---
+
 ### Sri Lanka committed to reconciliation through domestic institutions: Minister
 
 *2024-02-13 18:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-committed-to-reconciliation-through-domestic-institutions-minister-150734/) · `en`
@@ -1927,91 +1999,5 @@ The man who sold the stolen phone for Rs 1,000 was caught by the money.
 [Data](articles/cda11439.json)
 
 [Extended Data](ext_articles/cda11439.ext.json)
-
----
-
-### Sexual abuse;7 years in prison for police
-
-*2024-02-13 16:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாலியல்-துஷ்பிரயோகம்-பொலிஸூக்கு-7-வருட-சிறை/76-333151) · `ta`
-
-The Nuwara Eliya High Court has sentenced him to a police officer accused of sexually abusing a 35 -year -old woman.
-
-Seven years of rigorous imprisonment for the accused, ordered to pay a penalty of 20 thousand rupees. The victim has also been ordered to pay a fine of Rs.
-
-The verdict was presented by Nuwara Eliya High Court Judge Viraj Weerasuriya on Tuesday (13).
-
-Lakshaman Saliya Bandara Weerasinghe, who is serving as a police officer at the Kandapalai Hyiforost police station, has sexually abused a 35 -year -old woman. He understood this crime while he was on duty.
-
-In this regard, a case was filed against the police officer in 2019 in the Nuwara Eliya High Court.
-
-Based on the testimony of the case for the past five years, police officer Lakshaman Saliya Bandara Weerasinghe was found guilty of the Nuwara Eliya High Court.
-
-...
-
-[Data](articles/87a9bd19.json)
-
-[Extended Data](ext_articles/87a9bd19.ext.json)
-
----
-
-### Diana Gamage MPs seat: SC indefinitely defers delivery of verdict
-
-*2024-02-13 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97235/diana-gamage-mps-seat-sc-indefinitely-defers-delivery-of-verdict) · `en`
-
-The Supreme Court on Tuesday (Feb.13) concluded the hearing of an appeal filed challenging the Appeals Court’s dismissal of a petition State Minister Diana Gamage’s parliamentary membership.
-
-Appeal was heard before Supreme Court’s three-member bench comprising Justices Gamini Amarasekara, Kumudini Wickramasinghe, and Janak de Silva.
-
-Upon concluding the proceedings, the judge bench decided to defer its verdict indefinitely.
-
-Social activist Oshala Herath had put forward the appeals two weeks after the petition he had filed against the State Minister’s parliamentary seat and citizenship was dismissed by the Appeals Court.
-
-Naming Gamage and several others as the respondents of his appeal, Herath said he had previously filed a petition alleging that the lawmaker is unqualified to hold the position of a member of parliament in Sri Lanka, as she also holds dual citizenship.
-
-...
-
-[Data](articles/2e0c436c.json)
-
-[Extended Data](ext_articles/2e0c436c.ext.json)
-
----
-
-### Diana Gamage’s MP seat: SC defers verdict indefinitely
-
-*2024-02-13 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97235/diana-gamages-mp-seat-sc-defers-verdict-indefinitely) · `en`
-
-The Supreme Court on Tuesday (Feb.13) concluded the hearing of an appeal filed challenging the Appeals Court’s dismissal of a petition State Minister Diana Gamage’s parliamentary membership.
-
-Appeal was heard before Supreme Court’s three-member bench comprising Justices Gamini Amarasekara, Kumudini Wickramasinghe, and Janak de Silva.
-
-Upon concluding the proceedings, the judge bench decided to defer its verdict indefinitely.
-
-Social activist Oshala Herath had put forward the appeals two weeks after the petition he had filed against the State Minister’s parliamentary seat and citizenship was dismissed by the Appeals Court.
-
-Naming Gamage and several others as the respondents of his appeal, Herath said he had previously filed a petition alleging that the lawmaker is unqualified to hold the position of a member of parliament in Sri Lanka, as she also holds dual citizenship.
-
-...
-
-[Data](articles/e34d16d8.json)
-
-[Extended Data](ext_articles/e34d16d8.ext.json)
-
----
-
-### Sri Lanka’s prison inmates officially join labour workforce
-
-*2024-02-13 16:42:00* · [`economynextcom`](https://economynext.com/sri-lankas-prison-inmates-officially-join-labour-workforce-150714/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Department of Prisons and the Industrial Development Board have signed a memorandum of understanding to establish industries in all prisons.
-
-“Through this, the incarcerated person as well as the country will get a big advantage. Inmates will be able to earn some money for the government’s expenses on their behalf during their imprisonment,” Commissioner General of Prisons, Thushara Upuldeniya was quoted in a statement.
-
-Entrepreneurs and industrialists will now have more opportunities to establish industries in all the prisons, and the Industrial Development Board and the Prisons Department will offer certificates to the inmates who are trained in the industries, the statement by the Department of Government Information said.
-
-...
-
-[Data](articles/bf84ef10.json)
-
-[Extended Data](ext_articles/bf84ef10.ext.json)
 
 ---

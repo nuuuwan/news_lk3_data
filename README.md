@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 23:17:31**
+As of **2024-02-14 23:33:34**
 
 ## Newspaper Stats
 
-*Scraped **7,067** Articles*
+*Scraped **7,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 365
 economynextcom | 370
 dailyftlk | 376
 adalk | 603
-tamilmirrorlk | 858
+tamilmirrorlk | 859
 adaderanalk | 867
-virakesarilk | 906
+virakesarilk | 907
 adaderanasinhalalk | 998
-dailymirrorlk | 1,038
+dailymirrorlk | 1,039
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,062 (99.9%) of 7,067 articles have been extended.
+7,067 (100.0%) of 7,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### இலங்கை அணி வெற்றி
+
+*2024-02-14 23:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அணி-வெற்றி/175-333225) · `ta`
+
+ஆப்கானிஸ்தான் மற்றும் இலங்கை அணிகளுக்கிடையே இன்று (14) நடைபெற்ற மூன்றாவது ஒரு நாள் கிரிக்கெட் போட்டியில் இலங்கை அணி வெற்றி பெற்றுள்ளது.
+
+கண்டி பல்லேகல சர்வதேச கிரிக்கெட் மைதானத்தில் நடைபெற்ற இந்த போட்டியில் நாணய சுழற்சியில் வெற்றிப்பெற்ற ஆப்கானிஸ்தான் அணி முதலில் துடுப்பெடுத்தாட தீர்மானித்தது.
+
+அதன்படி முதலில் துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் 48.2 ஓவர்களில் சகல விக்கெட்களையும் இழந்து  266 ஓட்டங்களை பெற்றது.
+
+இந்நிலையில், 267 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை அணி 35.2 ஓவர்களில் 3 விக்கெட்களை இழந்து 267 என்ற வெற்றி இலக்கை அடைந்து வெற்றி பெற்றுள்ளது. R
+
+◼️
+
+[Data](articles/09c03fe8.json)
+
+---
+
+### 'தேனிசைத் தென்றல்' தேவா குரலில் ஸ்ரீகாந்த் தேவா இசையில் கவிஞர் பொத்துவில் அஸ்மின் வரிகளில் "மாமாகுட்டிமா"  பாடல் புரோமோ வெளியானது.
+
+*2024-02-14 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176403) · `ta`
+
+தனியிசை பாடல்கள் மூலமாகவும் தமிழ் திரைப்பட பாடல்கள் வாயிலாகவும் உலகெங்கும் உள்ள தமிழர்கள் மனங்களில் இடம் பிடித்துள்ள இலங்கை கவிஞர் பொத்துவில் அஸ்மின் எழுதிய புதிய அல்பம் பாடல் "மாமாகுட்டிமா" புரோமோ வெளியாகியுள்ளது.
+
+லண்டனைச் சேர்ந்த தொழிலதிபரும் சமூக சேவகருமான DR. மாலாகுமார் தனது மாலாகுமார் படைப்பகத்தின் சார்பில் தயாரித்துள்ள இந்த பாடலினை சமீபத்தில் தேசிய விருது பெற்ற இசையமைப்பாளர் ஶ்ரீகாந்த் தேவா இசையமைத்துள்ளார்.  இந்த உற்சாகமிக்க பாடலை அவரது தந்தையும் பிரபல இசையமைப்பாளருமான தேவா தனது காந்த குரலில், பிரத்யேக ஸ்டைலில் பாடியுள்ளார்.
+
+விஜய் ஆண்டனி நடித்த’ நான்’ திரைப்படத்தில் இடம்பெற்ற 'தப்பெல்லாம் தப்பே இல்லை’ பாடலின் மூலம் தமிழ் சினிமாவில் அறிமுகமான கவிஞர் பொத்துவில் அஸ்மின், சூப்பர் ஸ்டார் ரஜினிகாந்த் நடித்த 'அண்ணாத்த', அஜித் குமார் நடித்த 'விஸ்வாசம்' உள்ளிட்ட படங்களுக்கு எழுதிய புரோமோ பாடல்கள் ரசிகர்களால் கொண்டாடப்பட்டன.
+
+...
+
+[Data](articles/236cfa99.json)
+
+---
 
 ### Fire near Baseline Railway Station
 
@@ -70,51 +104,61 @@ Nissanka had posted an unbeaten 210 in the first game, becoming the first Sri La
 
 [Data](articles/88a5472f.json)
 
+[Extended Data](ext_articles/88a5472f.ext.json)
+
 ---
 
-### பெத்தும் மீண்டும் அபார சதம், தொடரில் 346 ஓட்டங்கள் ; ஆப்கானுடனான தொடரை இலங்கை முழுமையாக சுவீகரித்தது
+### Beth and again 346 runs in the series;Sri Lanka fully acquired the series with Afghan
 
 *2024-02-14 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176402) · `ta`
 
-ஆப்கானிஸ்தானுக்கு எதிராக கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் புதன்கிழமை (14) நடைபெற்ற 3ஆவதும் கடைசியுமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 7 விக்கெட்களால் இலங்கை அமோக வெற்றியீட்டியது.
+Sri Lanka won by 7 wickets in the 3rd and last international ODIs held on Wednesday (14) at the Pallekele International Cricket Stadium in Kandy against Afghanistan.
 
-இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட தொடரை 3 - 0  என்ற ஆட்டக் கணக்கில்  இலங்கை  முழுமையாக சுவீகரித்தது.
+With this victory, Sri Lanka fully acquired the 3 -0 series in the match 3 - 0.
 
-ஆப்கானிஸ்தானினால் நிர்ணயிக்கப்பட்ட 267 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை 35.2 ஓவர்களில் 3 விக்கெட்களை மாத்திரம் இழந்து 267 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+In response to a target of 267 runs for Afghanistan, Sri Lanka won the match with only 3 wickets in 35.2 overs.
 
-பெத்தும் நிஸ்ஸன்கவின் அபார சதம், அவிஷ்க பெர்னாண்டோவின் அரைச் சதம் என்பன இலங்கையின் வெற்றியை இலகுவாக்கின.
+Beth and Nissanka's great century and Avishka Fernando's half -century made Sri Lanka's success.
 
-இந்தத் தொடரில் அபாராமாக துடுப்பெடுத்தாடிய பெத்தும் நிஸ்ஸன்க தனது 52ஆவது போட்டியில் 44ஆவது ஓட்டத்தைப் பெற்றபோது சர்வதேச ஒருநாள் கிரிக்கெட்டில் 2,000 ஓட்டங்களைப் பூர்த்திசெய்தார்.
+Beth and Nissan, who scored a rabbit in the series, completed 2,000 runs in international ODI cricket when he scored 44th runs in his 52nd match.
 
-இதன் மூலம் சர்வதேச ஒருநாள் கிரிக்கெட்டில் இலங்கை வீரர்களில் குறைந்த போட்டிகளில் 2,000 ஓட்டங்களைப் பூர்த்திசெய்த வீரர் என்ற சாதனைக்கு உரித்தானார்.
+With this, he set the record for completing 2,000 runs in Sri Lankan players in international ODI cricket.
+
+In today's last match, Beth, Nissanka and Avishka Fernando played the most effectively and shared 173 runs.
+
+This is the second cent of the series they shared in the series. In the first match, the two shared 182 runs in the opening wicket.
 
 ...
 
 [Data](articles/7b0d9e6f.json)
 
+[Extended Data](ext_articles/7b0d9e6f.ext.json)
+
 ---
 
-### මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ ලොක්කෙකුට වැඩ වරදී
+### Online Passenger Transport Authority in work
 
 *2024-02-14 22:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193392) · `si`
 
-අල්ලස් චෝදනා එල්ලවූ මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ ධාවන කළමනාකරුවෙකුට අධිකරණය විසින් වසර දෙකක බරපතළ සිරදඬුවම් නියම කර එය වසර 5කට අත්හිටුවා තිබේ.
+The Court has been sentenced to two years in prison for two years of prison to a road passenger traffic manager who had bribery charges.
 
-මෙලෙස දඬුවම් නියම කර ඇත්තේ වයඹ පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ ධාවන කළමනාකරුවෙකුටය.
+The punishment has been sentenced to a running manager of the North Western Provincial Road Passenger Transport Authority.
 
-අදාළ නඩුව අද කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා හමුවේ විභාගයට ගත් අවස්ථාවේ මෙම නියෝගය ලබා දී තිබේ.
+The case has been given the case to be heard in front of Colombo High Court Judge Amal Ranaraja.
 
-2019 වර්ෂයේදී අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව විසින් සිදුකළ වැටලීමකට අනුව සැකකරුට චෝදනා 04ක් යටතේ අධිචෝදනා කර තිබුණි.
+The suspect had been imprisoned under four accusations carried out by the Bribery Commission of Bribery or Corruption in 2019.
 
-එහිදී සැකකාර ධාවන කළමනාකරු විසින් අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාවේ උපාය  දූතයෙකු ඉදිරියේ රුපියල් 100,000ක මුදලක් අල්ලස් ලෙස ගෙන ඇත.
+The suspect manager has taken a sum of Rs. 100,000 before a tactic of bribery or corruption.
 
-අධිකරණය සැකකරුට එක් එක් චෝදනාවට රුපියල් 5000 බැගින් රුපියල් 20,000ක දඩයක් ද නියම කර ඇත.
+The suspect is a fine of Rs. 20,000 for the suspect.
 
-දඩය නොගවන්නේ නම් අදාළ වසර 2ට අමතරව තවත් මාස 6ක ලිහිල් සිර දඬුවමක් නියම කර තිබේ.
+If not hunting, a six-month passenger sentence is sentenced to another 6 months.
 
 ◼️
 
 [Data](articles/08708c46.json)
+
+[Extended Data](ext_articles/08708c46.ext.json)
 
 ---
 
@@ -150,6 +194,8 @@ He said that the SLAF has submitted requests to the US Air Force for the acquisi
 
 [Data](articles/16a5a8fc.json)
 
+[Extended Data](ext_articles/16a5a8fc.ext.json)
+
 ---
 
 ### Gaming regulator yet to be established; COPF raises concerns
@@ -167,6 +213,8 @@ Representatives of the Finance Ministry stressed the need for additional experti
 ...
 
 [Data](articles/8a08a8c2.json)
+
+[Extended Data](ext_articles/8a08a8c2.ext.json)
 
 ---
 
@@ -351,6 +399,28 @@ The deceased who was seriously injured in the accident have been admitted to the
 [Data](articles/cd58646e.json)
 
 [Extended Data](ext_articles/cd58646e.ext.json)
+
+---
+
+### Bus driver convicted for fatal train collision in 2009, arrested after evading court
+
+*2024-02-14 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Bus-driver-convicted-for-fatal-train-collision-in-2009-arrested-after-evading-court/155-277029) · `en`
+
+Polonnaruwa, Feb 14 (Daily Mirror) - A bus driver responsible for a tragic accident on May 16, 2009, at the Sevanapitiya Railway Crossing in Welikanda, which claimed the lives of 15 passengers and left 40 others seriously injured, has been arrested.
+
+Police said the Polonnaruwa High Court issued the verdict in the case, sentencing the driver to death on September 22 last year.
+
+The driver, who last appeared before court on August 05, 2022, failed to attend subsequent hearings, leading to the issuing of warrants for his arrest.
+
+The Welikanda Police arrested the accused today while he was avoiding courts.
+
+The arrested individual is identified as a 39-year-old resident of Valaichchenai.
+
+The accident occurred when a private bus carrying 70 passengers, including children from the Al-Hizma nursery in Valaichchenai and their parents, collided with a train at the railway crossing. The driver attempted to bypass the rail gate disregarding signals, resulting in the catastrophic collision.
+
+...
+
+[Data](articles/0a04a6d0.json)
 
 ---
 
@@ -2031,65 +2101,5 @@ The announcements have been issued by the Secretary to the President EMSB Ekanay
 [Data](articles/ddef7137.json)
 
 [Extended Data](ext_articles/ddef7137.ext.json)
-
----
-
-### Introducing the new website of the President's Fund
-
-*2024-02-14 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176363) · `ta`
-
-The new website of the Presidential Fund (https://www.presidentsfund.gov.lk) was officially launched by the President's Secretary Saman Ekanayake at the Presidential Secretariat on Tuesday (13).
-
-With this, the public is able to obtain new information on the services provided by the Presidential Fund and the public will have the ability to download the application for medical assistance.
-
-The event was attended by Sarath Kumara, Senior Additional Secretary of the President and Secretary to the Presidential Fund, Deputy Director of the Presidential Fund, Gayan Moraliyage and the Assistant Director of the Presidential Fund, WDM Bodaju.
-
-◼️
-
-[Data](articles/36eb6afa.json)
-
-[Extended Data](ext_articles/36eb6afa.ext.json)
-
----
-
-### Two of the policemen were given poisonous milk:
-
-*2024-02-14 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176357) · `ta`
-
-The Colombo Additional Magistrate Tharanga Mahawatta has ordered the seven suspects who were arrested on suspicion of poisoning two suspects who were detained at the Colombo Street Street Street Police until the 27th of this month.
-
-The suspects have been arrested by the police while they were hiding in a house in the Galaha Police Division.
-
-Five men and two women were arrested and produced in court and the magistrate has ordered the two suspects to be sent to a march.
-
-◼️
-
-[Data](articles/535ee78e.json)
-
-[Extended Data](ext_articles/535ee78e.ext.json)
-
----
-
-### A / L results at May-JJs
-
-*2024-02-14 14:09:18* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-ප්‍රතිඵල-මැයි--ජුනි-වනවිට/11-408083) · `si`
-
-In January 2024, the 2024 new school term will be held in five weeks, according to the year 20Minister of Education Dr. Susil is the Advanced Level Examination of the year - May - May - 2025 New SchoolsSamanantha said.
-
-The Minister made these comments participating in the National Program of Distribution of School Books and uniforms at St. Anthony's Girls' School.
-
-The Minister said that he had been able to make the State Printing Corporation a profitable institution.
-
-Equipped with new technology and knowledge from preschool education to higher education
-
-Minister of Education, Dr. Susil Premajayantha said that the Ministry of Education is committed to creating their children.
-
-This year's National Ceremony to distribute school textbooks and uniforms for school students including Pirivena Buddhist students and Salamapas.. The government has spent nearly Rs. 12 billion for printing of textbooks.
-
-...
-
-[Data](articles/20d010fd.json)
-
-[Extended Data](ext_articles/20d010fd.ext.json)
 
 ---

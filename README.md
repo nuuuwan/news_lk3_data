@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 01:33:10**
+As of **2024-02-15 01:50:14**
 
 ## Newspaper Stats
 
-*Scraped **7,076** Articles*
+*Scraped **7,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 149
 newsfirstlk | 363
 islandlk | 365
 economynextcom | 370
-dailyftlk | 376
+dailyftlk | 382
 adalk | 603
 tamilmirrorlk | 860
 adaderanalk | 868
@@ -26,11 +26,99 @@ dailymirrorlk | 1,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,076 (100.0%) of 7,076 articles have been extended.
+7,081 (100.0%) of 7,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### Postponing polls would further jeopardise democracy - Bakeer Markar
+
+*2024-02-15 01:18:41* · [`dailyftlk`](https://www.ft.lk/news/Postponing-polls-would-further-jeopardise-democracy-Bakeer-Markar/56-758493) · `en`
+
+Says country is currently facing crises in democracy, foreign and economic policy.
+
+Stresses SL must exercise caution as external forces are attempting to exploit country’s instability and vulnerability
+
+Notes SL must implement policies of successful countries and stay clear of traditional politics and failed propaganda
+
+Admits to presence of differing opinions among members within SJB
+
+Samagi Jana Balawegaya (SJB) MP Imathiaz Bakeer Markar yesterday said the country is currently facing crises in democracy, and foreign and economic policy. The MP expressed concern that if the Government opts to postpone elections, it would further jeopardise the country’s democracy and place it in a precarious position.
+
+The MP made these remarks while speaking to the media in Kandy yesterday.
+
+...
+
+[Data](articles/61b0dbcb.json)
+
+[Extended Data](ext_articles/61b0dbcb.ext.json)
+
+---
+
+### Sabry convenes inaugural meeting of Inter-Ministerial Standing Committee on Human Rights
+
+*2024-02-15 01:15:54* · [`dailyftlk`](https://www.ft.lk/news/Sabry-convenes-inaugural-meeting-of-Inter-Ministerial-Standing-Committee-on-Human-Rights/56-758492) · `en`
+
+Minister of Foreign Affairs Ali Sabry chaired the inaugural meeting of the Inter-Ministerial Standing Committee on Human Rights at the Foreign Ministry on Tuesday, 13 February 2024, with the participation of Foreign Secretary Aruni Wijewardane and Government officials representing 16-line Ministries and agencies.
+
+Foreign Minister Sabry highlighted that the establishment of the Inter-Ministerial Standing Committee on Human Right demonstrates the commitment of the Government of Sri Lanka (GoSL) to upholding human rights, fostering reconciliation, and ensuring the fulfilment of its voluntary international obligations.
+
+Minister Sabry further emphasised that Sri Lanka will continue to engage constructively with the United Nations and remains committed to pursuing tangible progress on reconciliation and human rights through domestic institutions while preserving its sovereignty.
+
+...
+
+[Data](articles/d69b794f.json)
+
+[Extended Data](ext_articles/d69b794f.ext.json)
+
+---
+
+### WNPS monthly lecture today on solutions for wetland pollution and abuse
+
+*2024-02-15 01:13:07* · [`dailyftlk`](https://www.ft.lk/news/WNPS-monthly-lecture-today-on-solutions-for-wetland-pollution-and-abuse/56-758491) · `en`
+
+The Wildlife and Nature Protection Society (WNPS) will hold its monthly lecture titled “Solutions for wetland pollution and abuse” today (15 February) at 6 p.m. at the Cinema Lounge, BMICH.
+
+It will be delivered by Prof. J.M.P.K. Jayasinghe an accomplished biologist, holding a PhD in coastal aquaculture from the University of Stirling, UK.
+
+With 19 years at Sri Lanka’s National Aquatic Resources Agency, he rose to Director and Head roles. Since 2002, he’s been Chair Professor at Wayamba University, contributing as Chair, Senior Professor, and Dean. As an Emeritus Professor, he focuses on aquaculture and fisheries, emphasising curriculum development, research, and program implementation. With 38 publications, 300 abstracts, six books, and 12 book chapters, his work spans health and environmental management in shrimp culture, fisheries impacts, and combating climate change in aquaculture. A key figure in regional programs, Prof. Jayasinghe continues to shape fisheries education in Sri Lanka.
+
+◼️
+
+[Data](articles/43220d51.json)
+
+[Extended Data](ext_articles/43220d51.ext.json)
+
+---
+
+### Requirement for registration of all residents above 18 years with Commissioner General of Inland Revenue
+
+*2024-02-15 01:06:06* · [`dailyftlk`](https://www.ft.lk/columns/Requirement-for-registration-of-all-residents-above-18-years-with-Commissioner-General-of-Inland-Revenue/4-758490) · `en`
+
+The Government is committed to achieving revenue mobilisation efforts in 2024 beyond by introducing further reforms, with the aim of raising the tax-to-GDP ratio to at least 14% by 2025. Sri Lanka has already shown significant commitment with the implementation of substantial tax policy enhancement in 2022 and 2023. Considering the progress of reforming the tax policy, it is necessary to further increase the tax revenue and tax administration measures will play a major role in achieving the desired.
+
+...
+
+[Data](articles/449294d6.json)
+
+[Extended Data](ext_articles/449294d6.ext.json)
+
+---
+
+### Importance of renewable energy for future energy security and economic growth
+
+*2024-02-15 00:05:40* · [`dailyftlk`](https://www.ft.lk/columns/Importance-of-renewable-energy-for-future-energy-security-and-economic-growth/4-758488) · `en`
+
+It is time Sri Lankans considered in depth, the impact of energy on their day to day life and the national economy, as well as the sources of such energy. Leaving such matters entirely to the officials and the politicians to make all the decisions would only cause them to lament later on the hardships passed on to the consumers due to poor decisions, lacking in wisdom or vision for the future. It is increasingly evident that rampant corruption and deal making are in place as per comments made even by the Supreme Court from time to time as well as the findings of the Auditor General. The fact that no pressure is applied to follow up on these allegations and take action to bring the culprits to book, underscores both the lack of understanding and the apathy of the general public, that hitherto seem to believe they have no role to play.
+
+...
+
+[Data](articles/692469dd.json)
+
+[Extended Data](ext_articles/692469dd.ext.json)
+
+---
 
 ### Can We Build a World-Class City with Third-World Public Transport?
 
@@ -101,6 +189,22 @@ The public said that the accident was due to the lack of a railway shopkeeper at
 [Data](articles/f5209a02.json)
 
 [Extended Data](ext_articles/f5209a02.ext.json)
+
+---
+
+### The autocrat, the oligarchy and the postponement plot against generational succession
+
+*2024-02-14 23:19:25* · [`dailyftlk`](https://www.ft.lk/columns/The-autocrat-the-oligarchy-and-the-postponement-plot-against-generational-succession/4-758484) · `en`
+
+“Our economy, initially plummeted with unprecedented speed, has undergone a remarkable turnaround at rocket speed, resembling a V-shaped recovery…unlike other nations, we have managed to rejuvenate our economy swiftly, evading enduring difficulties and pains…”
+
+— President Ranil Wickremesinghe, Address to the Nation, Feb 7th 2024 —
+
+The UNP-led old order fell in 1956 because Sir John Kotelawala was socio-culturally insensitive; tone deaf. Ranil is similarly incapacitated, in the socio-economic dimension. He said that economic recovery was proceeding at “rocket speed”, and “unlike other nations, we have managed to rejuvenate our economy swiftly, evading enduring difficulties and pains…”
+
+...
+
+[Data](articles/965d7213.json)
 
 ---
 
@@ -1969,133 +2073,5 @@ However, I know that these efforts of the elite are not fully cooperated. This p
 [Data](articles/dbb5f922.json)
 
 [Extended Data](ext_articles/dbb5f922.ext.json)
-
----
-
-### Sri Lanka, India forge partnership for economic prosperity through capacity building initiative
-
-*2024-02-14 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97263/sri-lanka-india-forge-partnership-for-economic-prosperity-through-capacity-building-initiative) · `en`
-
-A high-level Sri Lankan delegation has embarked on an official visit to India to gain insights into the neighbour’s recent initiatives for transforming its public service qualitatively and implementing policy improvements successfully.
-
-During their stay from 12-17 February, the 14-member delegation, led by Prime Minister’s Secretary Anura Dissanayake, will seek to prioritize capacity development in Sri Lankan government institutions contributing to the nation’s economic growth.
-
-The President’s Media Division (PMD) said the delegates are expected to engage in extensive discussions with Indian institutions. The program, scheduled to be conducted at India’s National Centre for Good Governance, will cover various aspects such as digitalization, capacity development, anti-corruption measures, and investment facilitation.
-
-...
-
-[Data](articles/1277dc80.json)
-
-[Extended Data](ext_articles/1277dc80.ext.json)
-
----
-
-### Pakistan’s two main parties agree on coalition without allies of ex-PM Khan
-
-*2024-02-14 15:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistans-two-main-parties-agree-on-coalition-without-allies-of-ex-PM-Khan/108-277006) · `en`
-
-With the army-backed Pakistan Muslim League-Nawaz (PML-N) short of votes to win a ruling majority, it said it was partnering with Pakistan Peoples Party (PPP) as well as a handful of smaller parties to form the next government.
-
-Loyalists of Khan, jailed on corruption charges, won the most seats as independent candidates in Thursday's election.
-
-"The parties present here are almost two-thirds of the house that has been elected," said Shehbaz Sharif, president of the PML-N, alongside leaders of the PPP and two other groups, and representatives from two more.
-
-After the press conference, an aide said Sharif would lead the country.
-
-"The PML-N's candidate for prime minister is Shehbaz Sharif," party spokeswoman Marriyum Aurangzeb told Geo News.
-
-Sharif said the PML-N was even willing to talk to Khan to include his Pakistan Tehreek-e-Insaf (PTI) party in the next government.
-
-"Forget and forgive; forgive and forget -- come let's join hands for the betterment of the country," he said.
-
-...
-
-[Data](articles/3f745729.json)
-
-[Extended Data](ext_articles/3f745729.ext.json)
-
----
-
-### The new website of the President's Fund
-
-*2024-02-14 15:23:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்தின்-புதிய-இணையத்தளம்/175-333193) · `ta`
-
-The new website of the President's Fund was officially launched at the Presidential Secretariat by the President's Secretary Saman Ekanayake.
-
-This will enable you to obtain renewed information on the services provided by the Presidential Fund and download the application for medical assistance.
-
-The event was attended by Sarathkumar, Senior Additional Secretary of the President and Secretary to the Presidential Fund, Gayan Moraliyake, Deputy Director of the Presidential Fund and Assistant Director of the Presidential Fund, WDM Bodaju.
-
-◼️
-
-[Data](articles/917b918e.json)
-
-[Extended Data](ext_articles/917b918e.ext.json)
-
----
-
-### Police constable abused a woman
-
-*2024-02-14 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193372) · `si`
-
-A police constable who had sexually abused a unmarried woman has been sentenced to seven serious work.
-
-Nuwara Eliya High Court Judge Viraj Weerasuriya today (13) ordered that the victim to pay a compensation of Rs.
-
-Lakshman Saliya Bandara Bandara Weerama Bandara, who served in the Hiforting Police, who was in the Heiforst Police, who was in the Heiforst Police, who was in the Hiforting Police belonging to the Nuwara Eliya Police Division, was led to a serious workplace.
-
-Failure to pay fines in addition to the prison has been ordered to be sentenced to three years.
-
-In 2019, a case was filed before the Nuwara Eliya High Court against him accused of sexually abuse of the woman during the year 2019.
-
-The Police Department was temporarily suspended by the police constable and had a preliminary investigation and later appealed in the police constable.
-
-◼️
-
-[Data](articles/6c73642f.json)
-
-[Extended Data](ext_articles/6c73642f.ext.json)
-
----
-
-### Nine missing persons with landslide in a gold mine
-
-*2024-02-14 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193371) · `si`
-
-Nine workers have gone missing from a landslide in a golden mine in East Turkey.
-
-Foreign media reports that more than 100 concessions have been attached to the missing persons.
-
-The mine was closed in 2020, taking row in cyanide, water mixing, and the company had also been fined.
-
-However, it has been reopened for two years later.
-
-◼️
-
-[Data](articles/41b33225.json)
-
-[Extended Data](ext_articles/41b33225.ext.json)
-
----
-
-### Russia joined the list of Estonian Prime Minister
-
-*2024-02-14 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176369) · `ta`
-
-Russia has announced that Russia is looking for Prime Minister Kaja Galasin, an avid supporter of Ukraine.
-
-Russia has also added some other key officials, including the Cultural Minister of Estonia.
-
-The Russian media has reported that these allegations have been imposed on the destruction of the monuments of the warriors of the Sovithuni.
-
-He has stated that this has still proven that I am doing the right thing.
-
-Kremlin considers me to silence me silent, but it will not take place but it will strengthen my support for Ukraine.
-
-◼️
-
-[Data](articles/c2f91988.json)
-
-[Extended Data](ext_articles/c2f91988.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 10:02:48**
+As of **2024-02-14 10:17:31**
 
 ## Newspaper Stats
 
-*Scraped **6,880** Articles*
+*Scraped **6,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 584
 tamilmirrorlk | 839
 adaderanalk | 842
 virakesarilk | 868
-adaderanasinhalalk | 960
+adaderanasinhalalk | 961
 dailymirrorlk | 1,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,880 (100.0%) of 6,880 articles have been extended.
+6,880 (100.0%) of 6,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### මෝදර වෙඩික්කරුවෝ ආ හැටි CCTV කැමරාවේ
+
+*2024-02-14 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193354) · `si`
+
+ඊයේ (13) රාත්‍රියේ මෝදර ප්‍රදේශයේ අවන්හලක් ඉදිරිපිට දී සිදුවු වෙඩිතැබීමට අදාළ CCTV දර්ශන පෙළක් මාධ්‍යට නිකුත් කර තිබේ.
+
+පොලීසිය පැවසුවේ, අවහන්හල ඉදිරිපිට රැඳී සිටි පුද්ගලයෙකුට මෝටර් රථයකින් පැමිණි නාඳුනන පුද්ගලයෙක් විසින් වෙඩිතැබීම සිදුකර ඇති බවය.
+
+වෙඩි තැබීමෙන්  පුද්ගලයෙකු  බරපතළ තුවාල ලබා ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ.
+
+පොලීසිය පැවසුවේ වෙඩි වැදීමෙන් එම පුද්ගලයාගේ දකුණු උරහිසට බෙල්ලට සහ පාදයට දැඩි හානි සිදුව ඇති බවය.
+
+මෙලෙස වෙඩි ප්‍රහාරයට ලක්ව ඇත්තේ කොළඹ 14 ප්‍රදේශයේ පදිංචි 51 හැවිරිදි අදාළ අවන්හලේ කළමණාකරු‍වෙකු ලෙස සේවය කළ පුද්ගලයෙකි.
+
+වෙඩි තැබීම සඳහා පිස්තෝලයක් භාවිත කර ඇති බවට පොලීසිය සැක පළ කරන අතර වෙඩිතැබීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/84dd6c56.json)
+
+---
 
 ### Shooting in Modara leaves a man injured
 
@@ -1999,31 +2021,5 @@ A bond maturing on 01.07.2032 closed at 12.25/75 percent down from 12.45/85 perc
 [Data](articles/2db7f012.json)
 
 [Extended Data](ext_articles/2db7f012.ext.json)
-
----
-
-### Sri Lanka stocks close down, capital goods and bank sectors drive turnover
-
-*2024-02-13 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-capital-goods-and-bank-sectors-drive-turnover-150723/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 26.74 points, or 0.25 percent at 10,557, while the S&P SL20 Index close at 3,022 points, down 0.32 percent, or 9.76 points.
-
-Shares of John Keells Holdings Plc saw high share turnover levels (176mn) and the share closed up at 188.00.
-
-Other companies that saw active volumes traded in the day were Commercial Bank of Ceylon Plc (71mn), the share closed flat at 89.50; and Sampath Bank Plc (57mn), the share closed down at 72.00.
-
-Positive contributors to the ASPI in the day included Central Finance Company Plc (up at 109.75), Aitken Spence Plc (up at 116.75), and Vallibel One Plc (up at 39.30).
-
-Cargills Bank Ltd announced it had changed its name to Cargills Bank Plc; the share closed down at 7.80.
-
-Ceylon Cold Stores Plc which announced an interim dividend of 1.426 rupees per share, closed flat at 47.00.
-
-...
-
-[Data](articles/99602a3f.json)
-
-[Extended Data](ext_articles/99602a3f.ext.json)
 
 ---

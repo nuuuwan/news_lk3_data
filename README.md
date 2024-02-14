@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 16:17:23**
+As of **2024-02-14 16:33:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,966 (100.0%) of 6,969 articles have been extended.
+6,969 (100.0%) of 6,969 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,43 +50,47 @@ The President’s Media Division (PMD) said the delegates are expected to engage
 
 ---
 
-### කාන්තාවකට අතවර කළ පොලිස් කොස්තාපල් ව සිරගෙට
+### Police constable abused a woman
 
 *2024-02-14 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193372) · `si`
 
-අවිවාහක කාන්තාවකට ලිංගික අතවර කළ පොලිස් කොස්තාපල්වරයෙකුට වසර 07ක බරපතළ වැඩ සහිත සිර දඩුවමක් නියම කර තිබේ.
+A police constable who had sexually abused a unmarried woman has been sentenced to seven serious work.
 
-එම වින්දිත කාන්තාවට රුපියල් 500,000ක වන්දියක් ගෙවන ලෙසත්, රුපියල් 20,000ක දඩ මුදලක් ගෙවන ලෙසත් එම වරදකරුට නුවරඑළිය මහාධිකරණ විනිසුරු විරාජ් වීරසුරිය මහතා අද (13) නියෝග කළේය.
+Nuwara Eliya High Court Judge Viraj Weerasuriya today (13) ordered that the victim to pay a compensation of Rs.
 
-මෙසේ බරපතළ වැඩ සහිතව සිරදඩුවම් සහ දඩ මුදල් ගෙවන ලෙසට නියම කරනු ලැබුවේ නුවරඑළිය පොලිස් කොට්ඨාශයට අයත් හයිෆොරස්ට් පොලිස් ස්ථානයේ සේවය කළ ලක්ෂ්මන් සාලිය බණ්ඩාර විරසිංහ නැමති අයෙකුට එරෙහිවය.
+Lakshman Saliya Bandara Bandara Weerama Bandara, who served in the Hiforting Police, who was in the Heiforst Police, who was in the Heiforst Police, who was in the Hiforting Police belonging to the Nuwara Eliya Police Division, was led to a serious workplace.
 
-එම සිර දඬුවමට අමතරව දඩ මුදල් ගෙවිමට අපොහොසත් වුවහොත් සිර දඬුවම තවත් වසර තුනකින් දිර්ඝ කිරීමටත් නියෝග කර ඇත.
+Failure to pay fines in addition to the prison has been ordered to be sentenced to three years.
 
-2019 වසරේදී එම පුද්ගලයා හයිෆොරස්ට් පොලිස් ස්ථානයේ සේවය කරන අතරතුර එම කාන්තාවට ලිංගික අතවර කළ බවට චෝදනා කරමින් 2019 වසරේදී ඔහුට එරෙහිව නුවරඑළිය මහාධිකරණය හමුවේ නඩුවක් ගොනු කෙරිණි.
+In 2019, a case was filed before the Nuwara Eliya High Court against him accused of sexually abuse of the woman during the year 2019.
 
-එම චෝදනාව යටතේ පොලිස් දෙපාර්තුමේන්තුව විසින්ද පොලිස් කොස්තාපල්වරයාගේ සේවය තාවකාලිකව අත්හිටුවා මුලික විමර්ශනයක් සිදුකර පසුව එම පොලිස් කොස්තාපල්වරයා ඉදිරිපත් කළ අභියාචනාවක් සලකා බලා ඔහුව එම පොලිස් ස්ථානයේම සේවයේ පිහිටුවා තිබුණි.
+The Police Department was temporarily suspended by the police constable and had a preliminary investigation and later appealed in the police constable.
 
 ◼️
 
 [Data](articles/6c73642f.json)
 
+[Extended Data](ext_articles/6c73642f.ext.json)
+
 ---
 
-### රන් පතලක නායයාමකින් 09 දෙනෙකු අතුරුදන්
+### Nine missing persons with landslide in a gold mine
 
 *2024-02-14 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193371) · `si`
 
-නැගෙනහිර තුර්කියේ රන් පතලක සිදු වූ නායයාමකින් කම්කරුවන් 09 දෙනෙකු අතුරුදන් ව තිබේ.
+Nine workers have gone missing from a landslide in a golden mine in East Turkey.
 
-අතුරුදන් වූවන් මුදාගැනීමේ මෙහෙයුම් සඳහා සියයකට අධික සහන සේවකයින් පිරිසක් අනුයුක්ත කර ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+Foreign media reports that more than 100 concessions have been attached to the missing persons.
 
-සයනයිඩ්, ජලයට මිශ්‍ර වීමේ සිදුවීමක් මුල්කර ගනිමින් 2020 වසරේ මෙම පතල වසා දමා තිබූ අතර, එහි දී අදාළ සමාගමට දඩ නියම කිරිමට ද පියවර ගෙන තිබිණි.
+The mine was closed in 2020, taking row in cyanide, water mixing, and the company had also been fined.
 
-කෙසේ වෙතත් ඉන් වසර දෙකකට පසු එය යළි විවෘත කර ඇති බව විදෙස් වාර්තා සඳහන් කර ඇත.
+However, it has been reopened for two years later.
 
 ◼️
 
 [Data](articles/41b33225.json)
+
+[Extended Data](ext_articles/41b33225.ext.json)
 
 ---
 
@@ -112,21 +116,25 @@ Kremlin considers me to silence me silent, but it will not take place but it wil
 
 ---
 
-### රාජ්‍ය අංශයේ ධාරිතාව ඉහළ නැංවීමේ නව වැඩපිළිවෙළක්
+### New program to increase state sector capacity
 
 *2024-02-14 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193369) · `si`
 
-ශ්‍රී ලංකාවේ ආර්ථික වර්ධනය වේගවත් කිරීම සඳහා ඉන්දු – ශ්‍රී ලංකා හවුල්කාරිත්වය මඟින් මෙරට රාජ්‍ය අංශයේ ධාරිතාව ඉහළ නැංවීමේ වැඩපිළිවෙළ ක්‍රියාවට නංවා ඇති බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කර තිබේ.
+The Indo-Sri Lanka partnership has been implemented by Indo-Sri Lanka partnership to accelerate the economic growth in Sri Lanka by implementing the public sector capacity.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පසුගිය දා සිදු කළ ඉන්දීය නිල සංචාරයේ දී දෙරට අතර සබඳතා නව ක්ෂේත්‍ර ඔස්සේ ශක්තිමත් කර ගැනීමට දෙරටේ නායකයන් එකඟ වූ අතර, විශේෂයෙන් දෙරටේ ජනතාව අතර සබඳතා ප්‍රවර්ධනය කිරීම කෙරෙහි එහි දී ප්‍රමුඛ අවධානයක් යොමු ව තිබිණි.
+President Ranil Wickremesinghe recently concluded the two leaders of the two countries to strengthen relations between the two countries on the new fields, especially in the public.
 
-මේ වන විට ඉන්දියාව සිවිල් සේවාවන්හි ධාරිතාව ගොඩනැංවීම උදෙසා දැවැන්ත වැඩසටහනක් දියත් කර ඇති අතර, රාජ්‍ය අංශයේ ධාරිතාව ගොඩනැංවීමේ ඉන්දු – ශ්‍රී ලංකා හවුල්කාරිත්වය මඟින් මෙරට රාජ්‍ය ආයතන පද්ධතිය වඩාත් නව්‍යකරණයෙන් සහ කාර්යක්ෂම ව ඉදිරියට ක්‍රියාත්මක කිරීමට අවස්ථාව හිමි වනු ඇති බව සඳහන් ය.
+It is said that India has launched a massive program to rebuild the capacity of civil service and will have the opportunity to implement the country's government institutional system more efficient and efficient.
 
-මෙම වැඩසටහන ක්‍රියාත්මක කිරීමට අදාළ ජ්‍යේෂ්ඨ මට්ටමේ සාකච්ඡා සඳහා ශ්‍රී ලංකා රජයේ ආරාධනය පරිදි ඉන්දියාවේ යහපාලනය සඳහා වූ ජාතික මධ්‍යස්ථානයේ අධ්‍යක්ෂ ජනරාල් භාරත් ලාල් මහතා පසුගිය දා මෙරටට පැමිණ ජනාධිපතිවරයා හමු වී සාකච්ඡා පවත්වා තිබිණි.
+According to the Government of Sri Lanka, the Director General of the National Center for the Good Governance of the Government of Sri Lanka has come to Sri Lanka recently to visit the Government of Sri Lanka to the Sri Lankan Government's invitation to implement this program.
+
+As a result of these discussions, Sri Lanka's top delegation has gone to India and further implement an appropriate capacity development cooperation program.
 
 ...
 
 [Data](articles/ba73e799.json)
+
+[Extended Data](ext_articles/ba73e799.ext.json)
 
 ---
 

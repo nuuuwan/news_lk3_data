@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 23:02:26**
+As of **2024-02-14 23:17:31**
 
 ## Newspaper Stats
 
-*Scraped **7,062** Articles*
+*Scraped **7,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,105 @@ dailyftlk | 376
 adalk | 603
 tamilmirrorlk | 858
 adaderanalk | 867
-virakesarilk | 905
-adaderanasinhalalk | 997
-dailymirrorlk | 1,035
+virakesarilk | 906
+adaderanasinhalalk | 998
+dailymirrorlk | 1,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,062 (100.0%) of 7,062 articles have been extended.
+7,062 (99.9%) of 7,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Fire near Baseline Railway Station
+
+*2024-02-14 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176401) · `ta`
+
+A fire broke out on Wednesday afternoon (14) in a vacant land near the Baseline Railway Station.
+
+Police are investigating the cause of the fire.
+
+◼️
+
+[Data](articles/77e77fc1.json)
+
+[Extended Data](ext_articles/77e77fc1.ext.json)
+
+---
+
+### Sri Lanka celebrate 3-0 sweep against Afghanistan
+
+*2024-02-14 22:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-celebrate-3-0-sweep-against-Afghanistan/108-277046) · `en`
+
+Kandy, Feb 14 (AFP) - Sri Lanka completed a sweep of the three-match ODI series against Afghanistan, confidently beating the tourists in the final game by seven wickets Wednesday at Pallekele.
+
+Set a target of 267, Sri Lanka won with 88 balls remaining, as their domination of the opponents continued.
+
+Opening batsman Pathum Nissanka smashed his fifth one-day international hundred and the second in the series for the hosts.
+
+Nissanka finished the series with 346 runs, the most by a Sri Lankan in a three-match series.
+
+Roshan Mahanama had posted 267 runs in three ODIs against Zimbabwe in 1994, but Nissanka's effort is now the highest by a distance.
+
+It is also the fourth highest tally in a three-match series in the world.
+
+Nissanka had posted an unbeaten 210 in the first game, becoming the first Sri Lankan to score a double hundred in ODI cricket.
+
+...
+
+[Data](articles/88a5472f.json)
+
+---
+
+### பெத்தும் மீண்டும் அபார சதம், தொடரில் 346 ஓட்டங்கள் ; ஆப்கானுடனான தொடரை இலங்கை முழுமையாக சுவீகரித்தது
+
+*2024-02-14 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176402) · `ta`
+
+ஆப்கானிஸ்தானுக்கு எதிராக கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் புதன்கிழமை (14) நடைபெற்ற 3ஆவதும் கடைசியுமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 7 விக்கெட்களால் இலங்கை அமோக வெற்றியீட்டியது.
+
+இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட தொடரை 3 - 0  என்ற ஆட்டக் கணக்கில்  இலங்கை  முழுமையாக சுவீகரித்தது.
+
+ஆப்கானிஸ்தானினால் நிர்ணயிக்கப்பட்ட 267 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை 35.2 ஓவர்களில் 3 விக்கெட்களை மாத்திரம் இழந்து 267 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+பெத்தும் நிஸ்ஸன்கவின் அபார சதம், அவிஷ்க பெர்னாண்டோவின் அரைச் சதம் என்பன இலங்கையின் வெற்றியை இலகுவாக்கின.
+
+இந்தத் தொடரில் அபாராமாக துடுப்பெடுத்தாடிய பெத்தும் நிஸ்ஸன்க தனது 52ஆவது போட்டியில் 44ஆவது ஓட்டத்தைப் பெற்றபோது சர்வதேச ஒருநாள் கிரிக்கெட்டில் 2,000 ஓட்டங்களைப் பூர்த்திசெய்தார்.
+
+இதன் மூலம் சர்வதேச ஒருநாள் கிரிக்கெட்டில் இலங்கை வீரர்களில் குறைந்த போட்டிகளில் 2,000 ஓட்டங்களைப் பூர்த்திசெய்த வீரர் என்ற சாதனைக்கு உரித்தானார்.
+
+...
+
+[Data](articles/7b0d9e6f.json)
+
+---
+
+### මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ ලොක්කෙකුට වැඩ වරදී
+
+*2024-02-14 22:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193392) · `si`
+
+අල්ලස් චෝදනා එල්ලවූ මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ ධාවන කළමනාකරුවෙකුට අධිකරණය විසින් වසර දෙකක බරපතළ සිරදඬුවම් නියම කර එය වසර 5කට අත්හිටුවා තිබේ.
+
+මෙලෙස දඬුවම් නියම කර ඇත්තේ වයඹ පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ ධාවන කළමනාකරුවෙකුටය.
+
+අදාළ නඩුව අද කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා හමුවේ විභාගයට ගත් අවස්ථාවේ මෙම නියෝගය ලබා දී තිබේ.
+
+2019 වර්ෂයේදී අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව විසින් සිදුකළ වැටලීමකට අනුව සැකකරුට චෝදනා 04ක් යටතේ අධිචෝදනා කර තිබුණි.
+
+එහිදී සැකකාර ධාවන කළමනාකරු විසින් අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාවේ උපාය  දූතයෙකු ඉදිරියේ රුපියල් 100,000ක මුදලක් අල්ලස් ලෙස ගෙන ඇත.
+
+අධිකරණය සැකකරුට එක් එක් චෝදනාවට රුපියල් 5000 බැගින් රුපියල් 20,000ක දඩයක් ද නියම කර ඇත.
+
+දඩය නොගවන්නේ නම් අදාළ වසර 2ට අමතරව තවත් මාස 6ක ලිහිල් සිර දඬුවමක් නියම කර තිබේ.
+
+◼️
+
+[Data](articles/08708c46.json)
+
+---
 
 ### Suspect arrested for abuse incident
 
@@ -50,19 +136,37 @@ He has been accused of molesting the suspect in a bus traveling from Moneragala 
 
 ---
 
-### Fire near Baseline Railway Station
+### Sri Lanka Air Force reveals ambitious aircraft acquisition plans
 
-*2024-02-14 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176401) · `ta`
+*2024-02-14 22:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Air-Force-reveals-ambitious-aircraft-acquisition-plans/108-277025) · `en`
 
-A fire broke out on Wednesday afternoon (14) in a vacant land near the Baseline Railway Station.
+Colombo, Feb. 14 (Daily Mirror)- Air Force Commander Udeni Rajapaksa said today that the Sri Lanka Air Force (SLAF) has embarked on several programmes aimed at modernizing its fleet and enhancing operational capabilities to meet future challenges effectively.
 
-Police are investigating the cause of the fire.
+During a media briefing, the Commander outlined the Sri Lanka Air Force's comprehensive strategy to bolster its technological prowess and aircraft inventory.
 
-◼️
+He said that the SLAF has submitted requests to the US Air Force for the acquisition of two C130 aircraft, with negotiations underway to secure newer models than those currently in possession. " The SLAF has already procured two new Y12 aircraft of Chinese origin as part of its fleet expansion efforts," the Commander said.
 
-[Data](articles/77e77fc1.json)
+...
 
-[Extended Data](ext_articles/77e77fc1.ext.json)
+[Data](articles/16a5a8fc.json)
+
+---
+
+### Gaming regulator yet to be established; COPF raises concerns
+
+*2024-02-14 21:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gaming-regulator-yet-to-be-established-COPF-raises-concerns/108-277024) · `en`
+
+Parliament, Feb. 14 (Daily Mirror)- The Committee on Public Finance (COPF) summoned the Director-General of Fiscal Policy to inquire into the delay in establishing a gaming regulator which is instrumental in attracting investment and recouping billions of lost revenue.
+
+It was revealed at the COPF meeting that a gaming regulator had not been established before deadline of December 31, 2023., the Communications Department of Parliament said.
+
+Stressing the vital role of a gaming regulator in both attracting investment and recouping billions of lost revenue, COPF members emphasized the urgency of establishing this legislation and highlighted that inadequate regulations result in substantial losses for the government.
+
+Representatives of the Finance Ministry stressed the need for additional expertise to construct a robust revenue model similar to that of Singapore.
+
+...
+
+[Data](articles/8a08a8c2.json)
 
 ---
 
@@ -1987,83 +2091,5 @@ This year's National Ceremony to distribute school textbooks and uniforms for sc
 [Data](articles/20d010fd.json)
 
 [Extended Data](ext_articles/20d010fd.ext.json)
-
----
-
-### To Afghanistan to advantage
-
-*2024-02-14 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193366) · `si`
-
-Afghanistan won the toss of the third and final ODI between Sri Lanka and Afghanistan.
-
-◼️
-
-[Data](articles/bf176b50.json)
-
-[Extended Data](ext_articles/bf176b50.ext.json)
-
----
-
-### President says he had to ‘beg’ from countries for the sake of children’s future
-
-*2024-02-14 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97262/president-says-he-had-to-beg-from-countries-for-the-sake-of-childrens-future) · `en`
-
-President Ranil Wickremesinghe says that he had to beg the other countries for help, against his will, for the sake of the children of the country and their future.
-
-Accordingly, the Head of State acknowledged that, while no one would be willing to regress to the daunting setbacks Sri Lanka experienced during the height of its economic crisis in 2022/23, it was a time where he, as the President, had to appeal to the world so as to provide a future for the country’s children.
-
-“During that period, we had to beg other countries for money. Despite it being against my will, I went ahead and begged, in order to give you a future”, he said.
-
-...
-
-[Data](articles/1580f2ac.json)
-
-[Extended Data](ext_articles/1580f2ac.ext.json)
-
----
-
-### Sri Lanka needs new education system for economic transformation: Pres
-
-*2024-02-14 13:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-new-education-system-for-economic-transformation-pres-150825/) · `en`
-
-ECONOMYNEXT – Sri Lanka needs a new education system that aligns with global standards and can cultivate professionals suited for the competitive world market, President Ranil Wickremesinghe has said.
-
-“I firmly advocate for education reforms and the creation of a new educational paradigm in our country. Our focus should be on nurturing professionals who can thrive in the global arena,” Wickremesinghe was quoted as saying in a statement by his office, at St Anthony Girls’ College, Kollupitiya today (14).
-
-“To drive economic transformation, our education system must align with international standards, equipping students to compete effectively,” Wickremesinghe said after distributing free school textbooks and uniforms to the students.
-
-...
-
-[Data](articles/ea20e2a5.json)
-
-[Extended Data](ext_articles/ea20e2a5.ext.json)
-
----
-
-### Content and subtitle date
-
-*2024-02-14 13:56:07* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළට-හා-උපෙළට-දින-නියම-වෙයි/11-408082) · `si`
-
-Minister of Education Susil Premajayantha said the GCE Ordinary Level Examination for the year 2023 will be held in May and June 2024. The A / L examination will be held in December 2014, the Minister said.
-
-◼️
-
-[Data](articles/2ed41373.json)
-
-[Extended Data](ext_articles/2ed41373.ext.json)
-
----
-
-### The rare moments of the Sri Lankan politician
-
-*2024-02-14 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193365) · `si`
-
-There is a law in a country. There is something that justice and fairness. The law of a country should be punished according to the law of a country when wrong. Is the law above all. The ruler of the ruler, including the Palitha, is the law and judiciary supreme. 'Everything is equal to the law' we enclosed in political science. it. Paddy. The Dialy's law has further expanded the same in the concept of. But German philosopher Marx, however, is mentioned in his essays, is a different concept. He emphasizes that all the people are equal to the law. Khal Mx noted that small animals that are caught in the midst of the law to become a victim of the spider plants.
-
-...
-
-[Data](articles/e2069bac.json)
-
-[Extended Data](ext_articles/e2069bac.ext.json)
 
 ---

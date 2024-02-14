@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 18:08:36**
+As of **2024-02-14 18:20:16**
 
 ## Newspaper Stats
 
-*Scraped **6,992** Articles*
+*Scraped **6,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 597
 tamilmirrorlk | 854
 adaderanalk | 860
 virakesarilk | 891
-adaderanasinhalalk | 984
+adaderanasinhalalk | 985
 dailymirrorlk | 1,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,992 (100.0%) of 6,992 articles have been extended.
+6,992 (100.0%) of 6,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### ළමා පිළිකා රෝග පිළිබඳ විශේෂ දැනුම්වත් කිරීමක්
+
+*2024-02-14 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193379) · `si`
+
+පෙබරවාරි 15ට යෙදෙන ළමා පිළිකා දිනය හා සමගාමී ව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශය විසින් මාධ්‍ය හමුවක් කැඳවා තිබිණි.
+
+එහි දී අදහස් දැක්වූ විශේෂඥ වෛද්‍ය සුරාජ් පෙරේරා මහතා සඳහන් කළේ, 2021 වර්ෂයේ දී පිරිමි දරුවන් 578ක් සහ ගැහැණු දරුවන් 454ක් වාර්තා වී ඇති බවයි.
+
+මහරගම අපේක්ෂා රෝහලේ ළමා පිළිකා රෝග පිළිබඳ විශේෂඥ වෛද්‍ය සංජීව ගුණසේකර මහතා සඳහන් කරන්නේ, වසරකට පිළිකා රෝගී දරුවන් 250 - 300 අතර ප්‍රමාණයක් මිය යන බවයි.
+
+පිළිකා  සහිත දරුවන් මුල් අවස්ථාවේ දී ම අඳුනා ගැනීම ඉතා වැදගත් බව හා නිසි ප්‍රතිකාර ලබාදීම ද වැදගත් බව ඔහු අවධාරණය කර ඇත.
+
+දරුවන් අතර බහුල ව වාර්තා වන පිළිකා වර්ගය ලේ පිළිකාව බව ද ඔහු සඳහන් කරයි.
+
+වැඩිහිටියන්ට පිළිකා වැලඳීම සඳහා ප්‍රධාන වශයෙන් දුම්පානය කිරීම සහ බුලත් විට කෑම හේතු වන නමුත් ළමා පිළිකා සඳහා එවැනි නිශ්චිත හේතුවක් හඳුනාගෙන නොමැති බව ද ඔහු වාර්තා කර ඇත.
+
+වසරකට පිළිකා රෝගී දරුවන් වාර්තා වීම 1,000 සිට 1,200 දක්වා වන බව ද ඔහු සඳහන් කරයි.
+
+◼️
+
+[Data](articles/96ace9b8.json)
+
+---
 
 ### Decision taken by Health Trade Unions
 
@@ -2023,21 +2047,5 @@ Archaeologist Edward Bidulf, an archaeologist from Oxford, said he believed that
 [Data](articles/150dfa39.json)
 
 [Extended Data](ext_articles/150dfa39.ext.json)
-
----
-
-### President and Samantha Power meet
-
-*2024-02-14 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193355) · `si`
-
-Administrator Samantha Power, Administrator Samantha Power, has exchanged views on the economic reform program in Sri Lanka with President Ranil Wickremesinghe.
-
-There is a promise that she has promised to support Sri Lanka's economic challenges.
-
-◼️
-
-[Data](articles/f3b951a5.json)
-
-[Extended Data](ext_articles/f3b951a5.ext.json)
 
 ---

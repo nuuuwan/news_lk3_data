@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 12:33:06**
+As of **2024-02-14 12:49:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,014
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,911 (99.9%) of 6,916 articles have been extended.
+6,916 (100.0%) of 6,916 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,27 @@ Premajayantha revealed that the evaluation of the answer scripts of 2023 G.C.E. 
 
 [Data](articles/e0eb06ec.json)
 
+[Extended Data](ext_articles/e0eb06ec.ext.json)
+
 ---
 
-### පසුගිය වසරේ  මෙරට වන අලි මැරුණ හේතු
+### Reasons Forests killed last year
 
 *2024-02-14 11:53:28* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-වසරේ--මෙරට-වන-අලි-මැරුණ-හේතු/11-408077) · `si`
 
-2023 වසරේ  මෙරට වන අලි  මරණ  470 ක් සිදුව ඇති බවත්,  වෙඩි තැබීම, හක්ක පටස් තැබීම හා විදුලිසැර වැද්දවීම   වැනි මිනිස් ක්‍රියාකාරකම් ‌හේතුවෙන්  පමණක්   වන අලි හා ඇතුන්  196කු මරණයට පත්ව ඇතැයි  වනජීවී සංරක්ෂණ දෙපාර්තුමේන්තු පවසයි.
+The Department of Wildlife Conservation (Wildlife Conservation) says that 470 deaths in Sri Lanka have been killed, such as shooting, hacks, and the clutry of the police.
 
-වෙඩි තැබීම්වලින් 83කු, හක්ක පටස් තැබීමෙන් 47කු, විදුලි සැර වැද්දවීමෙන් 66කු, දුම්රියේ ගැටීමෙන් 23කු, මාර්ග අනතුරුවලින් එක් අයෙකු, විෂ ශරීර ගතවීමෙන් හතර දෙනෙකු, දියේ ගිලීමෙන් එක් අයෙකු, වගා ළිංවලට වැටීමෙන් පස් දෙනෙකු, හදිසි අනතුරුවලින් 15කු, ස්භාවික ලෙස 10කු, කුණු වී ගොස් සිටි 28කු, දිරාපත් වු සිරුරු හතක්, පණු රෝගය ආසාදිතවීමෙන් 15කු, බැක්ටීරියා ආසාදනයෙන් දෙදෙනෙකු, ආසාදිත තුවාල හේතුවෙන් 25කු,  හඳුනානොගත් හා වෙනත්  හේතුන් මත 138කු වශයෙන් මෙම වන අලි ඇත් මරණ සිදුවී ඇතැයි වනජීවී සංරක්ෂණ දෙපාර්තුමේන්තුවේ අධ්‍යක්ෂ (රක්ෂිත ප්‍රදේශ කළමනාකරණ) මංජුල අමරරත්න මහතා පවසයි.
+Five of the fifer shootings, 66 shooting and the collision collision collision with a collision, and rotten 10, rotten 10.Director of the Wildlife Conservation Department (Forest Reserve Management) of the wildlife Conservation (Reserve Development) Managed Managed Manage Amararatne says that the number of two collapses, two bacterial infections, and 138 other reasons..
 
-තොරතුරු දැන ගැනීමේ පනත යටතේ සිදු කරන ලද විමසීමකට පිළිතුරු සපයමින් අමරරත්න මහතා මේ බව සඳහන් කොට තිබේ.
+Mr. Amararatne has made this statement in response to a query carried out under the Information Act.
 
-...
+The highest number of wild elephants reported on 27th of September last year, 11 elephants were killed during the last 3 years.
+
+◼️
 
 [Data](articles/f0452b7e.json)
+
+[Extended Data](ext_articles/f0452b7e.ext.json)
 
 ---
 
@@ -81,6 +87,8 @@ The suspects held in this operation were identified as residents of Silawathura 
 ◼️
 
 [Data](articles/42dfce0c.json)
+
+[Extended Data](ext_articles/42dfce0c.ext.json)
 
 ---
 
@@ -121,6 +129,8 @@ Accordingly, Admiral Nishantha Ulugetenne (Retd) presented his credentials to th
 ◼️
 
 [Data](articles/95bdfb2d.json)
+
+[Extended Data](ext_articles/95bdfb2d.ext.json)
 
 ---
 
@@ -370,21 +380,25 @@ Wildlife Photo Artist AL Muhammad Rasim, who photographed Flamingo legends, said
 
 ---
 
-### පිඳුරුතලාගල සංචාරකයන්ට විවෘත කළ යුතුයි
+### Show open to Pandiyalatota
 
 *2024-02-14 10:21:18* · [`adalk`](https://www.ada.lk/breaking_news/පිඳුරුතලාගල-සංචාරකයන්ට-විවෘත-කළ-යුතුයි/11-408073) · `si`
 
-පිදුරුතලාගල කඳුවැටිය සංචාරකයන්ට නැරඹීම සඳහා  කඩිනමින් යළි විවෘත කිරීමට පියවර ගත යුතු බව මධ්‍යම පළාත් ආණ්ඩුකාර සහ නුවරඑළිය දිස්ත්‍රික් සංවර්ධන කමිටු සම සභාපති නීතිඥ ලලිත් යු. ගමගේ මහතා පැවැසීය.
+Attorney-at-Law Lalith Jan. Mr. Gamage said.
 
-දිවයිනේ උසින් වැඩිම සහ අංශක බින්දුව පිහිටා ඇති නුවරඑළිය දිස්ත්‍රික්කයේ පිදුරුතලාගල කඳුවැටිය නැවත සංචාරකයින් සඳහා විවෘත කිරීමට පියවර ගත යුතුව ඇති බවත්, විශාල වියදමක් දරා මාර්ග පහසුකම් සහිතව සංචාරකයින් සඳහා විවෘත පැවැති පිරුදුරුතලාගල කඳුවැටිය ජනතාවට තහනම් කලාපයක් ලෙස දිගින් දිගටම පවත්වා ගෙනයාම නුසුදුසු ක්‍රියාවක් බවද හෙතම කීය.
+It is not inappropriate to re-opened the Piduruthalagala Mountains of the Nuwara Eliya, the height of the island.
 
-නුවරඑළිය දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පෙරේදා (13) පැවැති නුවරඑළිය දිස්ත්‍රික් සංවර්ධන කමිටු රැස්වීමේදී ආණ්ඩුකාරවරයා මේ බව පැවැසීය.
+The Governor said this at the Nuwara Eliya District Development Committee meeting held on Monday (13) at the Nuwara Eliya District Secretariat.
 
-පිදුරුතලාගල කඳුවැටිය අධ්‍යාපනික මෙන්ම, සංචාරක වශයෙන් ඉහල වටිනාකමක් උසුලන ප්‍රදේශයක් බවත්, එය තවදුරටත් ජනතාවට වසා දමා තිබීම කාලෝචිත නොවන බවද ගමගේ මහතා කීය.
+Gamage said that the Piduruthalagala Mountains is a major value of the tourism as well as a tourist high value.
 
-...
+The Governor of the Central Province Lalith is a timely necessary to monitor the sun rising in the Nuwara Eliya Tourist Zone and to open places with high-tourism attraction.. Mr. Gamage added.
+
+◼️
 
 [Data](articles/ec23065e.json)
+
+[Extended Data](ext_articles/ec23065e.ext.json)
 
 ---
 

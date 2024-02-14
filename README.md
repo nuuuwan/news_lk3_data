@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 05:17:22**
+As of **2024-02-14 05:36:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,838 (99.9%) of 6,846 articles have been extended.
+6,846 (100.0%) of 6,846 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -186,6 +186,8 @@ Through this, the prisoners spend their time serving their punishment more meani
 
 [Data](articles/961854ef.json)
 
+[Extended Data](ext_articles/961854ef.ext.json)
+
 ---
 
 ### Housing loan scheme for migrant workers
@@ -199,6 +201,8 @@ Under the program, migrant workers with housing aspirations can apply for loans 
 ...
 
 [Data](articles/51e0bd20.json)
+
+[Extended Data](ext_articles/51e0bd20.ext.json)
 
 ---
 
@@ -218,6 +222,8 @@ The event, scheduled from 4 to 6 March, at the Shangri La Hotel in Colombo, brin
 
 [Data](articles/820de621.json)
 
+[Extended Data](ext_articles/820de621.ext.json)
+
 ---
 
 ### ‘Sri Lanka Business Drive 2024’ investment roundtable in UK with CWEIC
@@ -233,6 +239,8 @@ The main drive of this event was to foster collaboration, dialogue, and knowledg
 ...
 
 [Data](articles/7f8fe89a.json)
+
+[Extended Data](ext_articles/7f8fe89a.ext.json)
 
 ---
 
@@ -254,6 +262,8 @@ It also added that having passed the Parliament, the provisions of the Online Se
 
 [Data](articles/5de30de5.json)
 
+[Extended Data](ext_articles/5de30de5.ext.json)
+
 ---
 
 ### Accused in Atulugama child murder sentenced to 27 years in prison
@@ -270,6 +280,8 @@ Panadura High Court Judge Saman Kumara who delivered the sentence, also mandated
 
 [Data](articles/f146e627.json)
 
+[Extended Data](ext_articles/f146e627.ext.json)
+
 ---
 
 ### Nawaloka Hospitals issues clarification
@@ -281,6 +293,8 @@ Nawaloka Hospitals PLC marked strong financial performance for the first two qua
 ◼️
 
 [Data](articles/58675483.json)
+
+[Extended Data](ext_articles/58675483.ext.json)
 
 ---
 
@@ -295,6 +309,8 @@ The committee led by its Chairperson retired High Court Judge Sisira Ratnayake h
 ...
 
 [Data](articles/89635081.json)
+
+[Extended Data](ext_articles/89635081.ext.json)
 
 ---
 

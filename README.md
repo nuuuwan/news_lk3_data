@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 21:17:19**
+As of **2024-02-14 21:33:11**
 
 ## Newspaper Stats
 
-*Scraped **7,046** Articles*
+*Scraped **7,050** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,88 @@ adalk | 602
 tamilmirrorlk | 858
 adaderanalk | 865
 virakesarilk | 901
-adaderanasinhalalk | 992
-dailymirrorlk | 1,032
+adaderanasinhalalk | 994
+dailymirrorlk | 1,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,046 (100.0%) of 7,046 articles have been extended.
+7,046 (99.9%) of 7,050 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### දුම්රිය අනතුරකින් ජීවිත දෙකක් අහිමිවෙයි
+
+*2024-02-14 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193388) · `si`
+
+යාපනය ඉනුවිල් ප්‍රදේශයේදී වෑන් රථයක් දුම්රියක ගැටීමෙන් සිදුවූ අනතුරකින් දෙදෙනෙකු මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ 32 හැවිරිදි වියේ පසුවූ පුද්ගලයෙකු සහ ඔහුගේ මාස 06 කුඩා දරුවෙකි.
+
+අනතුරින් බරපතළ තුවාල ලැබූ මියගිය පුද්ගලයාගේ බිරිඳ යාපනය රෝහලේ දැඩිසත්කාර ඒකකයට ඇතුළත් කර ඇත.
+
+◼️
+
+[Data](articles/cd58646e.json)
+
+---
+
+### Bus driver convicted for fatal train collision in 2009, arrested after evading court
+
+*2024-02-14 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bus-driver-convicted-for-fatal-train-collision-in-2009-arrested-after-evading-court/108-277029) · `en`
+
+Polonnaruwa, Feb 14 (Daily Mirror) - A bus driver responsible for a tragic accident on May 16, 2009, at the Sevanapitiya Railway Crossing in Welikanda, which claimed the lives of 15 passengers and left 40 others seriously injured, has been arrested.
+
+Police said the Polonnaruwa High Court issued the verdict in the case, sentencing the driver to death on September 22 last year.
+
+The driver, who last appeared before court on August 05, 2022, failed to attend subsequent hearings, leading to the issuing of warrants for his arrest.
+
+The Welikanda Police arrested the accused today while he was avoiding courts.
+
+The arrested individual is identified as a 39-year-old resident of Valaichchenai.
+
+The accident occurred when a private bus carrying 70 passengers, including children from the Al-Hizma nursery in Valaichchenai and their parents, collided with a train at the railway crossing. The driver attempted to bypass the rail gate disregarding signals, resulting in the catastrophic collision.
+
+...
+
+[Data](articles/a960e805.json)
+
+---
+
+### Chandrika says no decision to support any presidential candidate as yet
+
+*2024-02-14 20:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chandrika-says-no-decision-to-support-any-presidential-candidate-as-yet/108-277023) · `en`
+
+Colombo, Feb. 14 (Daily Mirror)- Former president Chandrika Kumaratunge said she had not decided to support any candidate in the upcoming presidential election as reported by various media and social media platforms.
+
+Office of the former president Kumaratunge said the reports published in mainstream media and social media platforms that she had offered to support various candidates in the upcoming presidential election are false.
+
+"She has not decided to support any candidate so far," a statement issued by Ms. Kumaratunge's office said.
+
+Ms. Kumaratunge also said she had not taken any decision to take up the leadership of the Leadership Council of the United People's Freedom Alliance as reported.
+
+"Even though it was reported that Ms. Kumaratunge is to take up the leadership of the Leadership Council of the United People's Freedom Alliance, she has not taken any decision regarding that either," her office added.
+
+◼️
+
+[Data](articles/eaf0c8f1.json)
+
+---
+
+### පැතුම් නිස්සංකගෙන් ශතකයක්
+
+*2024-02-14 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193387) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර අද (14) පැවැත්වෙන එක්දින තරගයේ පිළිතුරු ඉනිමේ දී ශතකයක් වාර්තා කිරීමට පැතුම් නිස්සංක සමත් විය.
+
+◼️
+
+[Data](articles/8ac2f65e.json)
+
+---
 
 ### Fire nearing Baseline Station
 
@@ -1993,83 +2063,5 @@ This move aims to accommodate the growing interest of Japanese investors eager t
 [Data](articles/c32236ef.json)
 
 [Extended Data](ext_articles/c32236ef.ext.json)
-
----
-
-### Intelligent Course with Microsoft's support
-
-*2024-02-14 12:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைக்ரோசாப்ட்-ஆதரவுடன்-நுண்ணறிவு-பாடநெறிகள்/175-333187) · `ta`
-
-With the support of Microsoft, the Cabinet has approved the introduction of artificial intelligence courses in Sri Lanka's educational system.
-
-The international curriculum, which is currently being implemented by Microsoft, will be amended on the recommendations of the National Education Institute and the pioneering program proposed from the eighth grade in the basic human resources schools will be launched.
-
-It is noteworthy that the government is planning to train 100 teachers through Microsoft as coaches through Microsoft's facilities.
-
-◼️
-
-[Data](articles/8b31720d.json)
-
-[Extended Data](ext_articles/8b31720d.ext.json)
-
----
-
-### Introduction of Intelligence Course with Microsoft Support
-
-*2024-02-14 12:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைக்ரோசாப்ட்-ஆதரவுடன்-நுண்ணறிவு-பாடநெறிகளை-அறிமுகம்/175-333187) · `ta`
-
-With the support of Microsoft, the Cabinet has approved the introduction of artificial intelligence courses in Sri Lanka's educational system.
-
-The international curriculum, which is currently being implemented by Microsoft, will be amended on the recommendations of the National Education Institute and the pioneering program proposed from the eighth grade in the basic human resources schools will be launched.
-
-It is noteworthy that the government is planning to train 100 teachers through Microsoft as coaches through Microsoft's facilities.
-
-◼️
-
-[Data](articles/cb11f652.json)
-
-[Extended Data](ext_articles/cb11f652.ext.json)
-
----
-
-### Two arrested with more than a thousand drugs
-
-*2024-02-14 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176353) · `ta`
-
-Two suspects have been arrested with 1,472 drug pills that were ready for sale in a roundup launched by the Sri Lanka Navy and the Mannar Police Crime Unit on Tuesday.
-
-A three -wheeler used by the suspects has also been seized. The Naval Media Unit said that the suspects have been arrested in Uppukkulam area in Mannar.
-
-Initially seized only a small number of drug pills from the arrested suspects. Subsequently, 1,432 drug pills were seized from a house in Uppukkulam area.
-
-The arrested suspects are from Chilawathurai and Mannar, aged 28 and 29. The Naval Media Unit further stated that the two have been handed over to the Mannar police with drug pills for further investigations.
-
-◼️
-
-[Data](articles/b75dfe80.json)
-
-[Extended Data](ext_articles/b75dfe80.ext.json)
-
----
-
-### Sri Lanka asks for JICA support in CEB reform, renewable energy
-
-*2024-02-14 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-asks-for-jica-support-in-ceb-reform-renewable-energy-150769/) · `en`
-
-ECONOMYNEXT – The Japan International Cooperation Agency (JICA) is assisting the Ceylon Electricity Board reform process with financial and technical assistance, Sri Lanka’s Minister of Power and Energy has said.
-
-“Currently JICA is actively assisting the reform process of CEB with financial and technical assistance in setting up the reform secretariat and extending experts to the secretariat to implement the reforms,” Kanchana Wijesekera said on social media platform X (twitter).
-
-JICA President Dr Tanaka Akihiko and senior officials held a discussion at the Ministry this morning (14), Wijesekera said.
-
-Wijesekera said he “requested continued assistance for reforms, energy efficiency programs, infrastructure development and integration of Renewable Energy.”
-
-“JICA has assisted vital infrastructure development of the electricity sector and energy efficiency programs with grants, concessionary finance facilities and technical assistance.”
-
-...
-
-[Data](articles/7974dd32.json)
-
-[Extended Data](ext_articles/7974dd32.ext.json)
 
 ---

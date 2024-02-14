@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 14:50:09**
+As of **2024-02-14 15:02:35**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 1,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,947 (99.9%) of 6,957 articles have been extended.
+6,957 (100.0%) of 6,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
 
-### பொலிஸ் தடுப்பிலிருந்த இருவருக்கு விஷம் கலந்த பால் வழங்கிய சம்பவம் : 7 பேருக்கு விளக்கமறியல்!
+### Two of the policemen were given poisonous milk:
 
 *2024-02-14 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176357) · `ta`
 
-கொழும்பு, ஆட்டுப்பட்டித் தெரு  பொலிஸில்  தடுத்து வைக்கப்பட்டிருந்த சந்தேக நபர்கள் இருவருக்கு விஷம் கலந்த பால் வழங்கிய சம்பவத்தில் சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட  ஏழு பேரையும்  எதிர்வரும் 27ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு மேலதிக நீதிவான்  தரங்கா மஹவத்த உத்தரவிட்டுள்ளார்.
+The Colombo Additional Magistrate Tharanga Mahawatta has ordered the seven suspects who were arrested on suspicion of poisoning two suspects who were detained at the Colombo Street Street Street Police until the 27th of this month.
 
-சந்தேக நபர்கள் கம்பளை பொலிஸ் பிரிவுக்கு  உட்பட்ட  கலஹா தெல்தோட்டை பிரதேச  தோட்டத்திலுள்ள வீடொன்றில் பதுங்கியிருந்த போதே பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+The suspects have been arrested by the police while they were hiding in a house in the Galaha Police Division.
 
-இவ்வாறு ஐந்து ஆண்களும் இரண்டு பெண்களும் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டதுடன்,  சந்தேக நபர்கள் இருவரை அடையாள  அணிவகுப்புக்கு  அனுப்புமாறு நீதிவான் உத்தரவிட்டுள்ளார்.
+Five men and two women were arrested and produced in court and the magistrate has ordered the two suspects to be sent to a march.
 
 ◼️
 
 [Data](articles/535ee78e.json)
+
+[Extended Data](ext_articles/535ee78e.ext.json)
 
 ---
 
@@ -75,6 +77,8 @@ Accordingly, the Head of State acknowledged that, while no one would be willing 
 ...
 
 [Data](articles/1580f2ac.json)
+
+[Extended Data](ext_articles/1580f2ac.ext.json)
 
 ---
 
@@ -318,15 +322,17 @@ Meanwhile, Israel has also released a video of Israeli soldiers inside a subway 
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-14 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176350) · `ta`
 
-இன்று புதன்கிழமை (பெப்ரவரி 14) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 308.2669 ஆகவும் விற்பனை விலை ரூபா 318.1678 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US $ 308.2669 and the sales price were 318.1678 based on the Central Bank's currency exchange rate on Wednesday (February 14).
 
 ◼️
 
 [Data](articles/17d73e46.json)
+
+[Extended Data](ext_articles/17d73e46.ext.json)
 
 ---
 
@@ -392,19 +398,25 @@ South Korea’s Joint Chiefs of Staff said the South Korean and U.S. militaries 
 
 ---
 
-### மனம் திரும்பி நல்வழியில் வாழ  அழைப்பு விடுக்கும் தவக்காலம்
+### Mind back to live in goodwill
 
 *2024-02-14 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176343) · `ta`
 
-இயே­சுவின் பாடுகள், மரணம், உயிர்ப்பு ஆகி­யவற்றை நினைவு கூரு­வ­துடன் மனிதன்  பாவத்­தி­லி­ருந்து விடு­தலை பெற்று மனந்­தி­ரும்பி வாழ்­வதை தவக்­காலம் உணர்த்­து­கி­றது. விபூதிப் புத­னுடன் ஆரம்­ப­மாகும்.
+Recall Jesus' sufferings, death and life, and the man liberates from sin and repents and lives.. Vibhuti begins with Wednesday.
 
-தவக்­கா­லத்தின் முதல் நாளான இன்­றைய தினத்­தில் கத்­தோ­லிக்­கர்கள் அனை­வரும்  தேவா­லயம் சென்று திருப்­ப­லியில் கலந்­து­கொள்­வது கட்­டா­ய­ மாகும். கத்­தோ­லிக்கத் திருச்­ச­பையில் இன்­றைய தினத்தில் குரு­வா­னவர் மக்­க­ளு­டைய நெற்­றியில் “மனி­தனே நீ மண்­ணாக இருக்­கின்றாய், மண்­ணுக்கே திரும்­புவாய் மற­வாதே” என்று கூறி சாம்­ப­லினால் சிலுவை அடை­யாளம் வரைந்து மர­ணத்‍தை நினை­வு­ப­டுத்­து­கிறார்.
+It is mandatory for all Catholics to go to the church on the first day of the time. In the Catholic Church today, the priest recalls the death of the crucifixion by saying, "You are the soil, you are the soil.
 
-தவக்­கா­லத்தின் முதல் நாள் விபூதிப் புதன், திரு­நீற்றுப் புதன், சாம்பல் புதன் என்­றெல்லாம் அழைக்­கப்­ப­டு­வ­துண்டு. தவக்­காலமானது நாற்­பது நாட்கள் அனு­ச­ரிக்­கப்­ப­டு­கி­றது.
+The first day of the time is called Vibhuti Mercury, Thiruna Mercury, Gray Mercury. Forty days is observed.
+
+During the time of peace of mind, this sacred time has been given to us to make ourselves we know ourselves and take the way of God.
+
+Catholics are compulsory in the 40 days of the period. In addition, it is said that the fasting of fasting, one of the days of the day, and the pseudonym in the days of pure nutrition.
 
 ...
 
 [Data](articles/2a0f9be9.json)
+
+[Extended Data](ext_articles/2a0f9be9.ext.json)
 
 ---
 
@@ -450,21 +462,27 @@ The charges specifically relate to the “destroying monuments of Soviet soldier
 
 ---
 
-### தனது தேர்தல் வெற்றியை ஏற்க மறுத்த பாகிஸ்தான் அரசியல்வாதி : ஆசனத்தை எதிரணி வேட்பாளருக்கு விட்டுக்கொடுப்பதாக அறிவிப்பு
+### Pakistani politician who refused to accept his election victory
 
 *2024-02-14 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176346) · `ta`
 
-பாகிஸ்தானில் சட்டமன்ற உறுப்பினராகத் தெரிவுசெய்யப்பட்ட அரசியல்வாதியொருவர், இத்தேர்தலில் மோசடி இடம்பெற்றதாக குற்றம் சுமத்தியதுடன், தனது ஆசனத்தை எதிரணி வேட்பாளருக்கு விட்டுக்கொடுப்பதாக அறிவித்துள்ளார்.
+A politician elected as a legislator in Pakistan has accused the election of fraud and announced that he would give up his seat to the opposition candidate.
 
-ஜமாத் ஈ-இஸ்லாமி கட்சியின் தலைவரான ஹாபிஸ் நயீமுர் ரெஹ்மான் என்பவரே இவ்வாறு தனது ஆசனத்தை விட்டுக்கொடுக்க முன்வந்துள்ளார்.
+Hafiz Nayimur Rehman, the leader of the Jamaat E-Islami party, has offered to give up his seat.
 
-கடந்த வாரம் நடைபெற்ற, சிந்து மாகாண சட்டமன்றத்துக்கான கராச்சி மத்திய தொகுதி (பி.எஸ்.129) தேர்தலில் நயீமுர் ரெஹ்மான் 26,296 வாக்குகளுடன் முதலிடம் பெற்றதாக அறிவிக்கப்பட்டது. இரண்டாவது இடம்பெற்ற வேட்பாளர் 20,608 வாக்குகளைப் பெற்றிருந்தார்.
+Nayimur Rehman was announced with 26,296 votes in the Karachi Central constituency (BS129) for the Sindh Provincial Legislative Assembly last week.. The second candidate received 20,608 votes.
 
-ஆனால், 11,357 வாக்குகளுடன் 4 ஆவது இடம்பெற்றதாக அறிவிக்கப்பட்ட, இம்ரான் கானின் பாகிஸ்தான் தெஹ்ரீக் -ஈ-இன்சாப் (பி.ரி.ஐ.) கட்சி சார்பான சுயேச்சை வேட்பாளரே இத்தேர்தலில் உண்மையான வெற்றியாளர் என தான் நம்புவதாக நயீமுர் ரெஹ்மான் கூறியுள்ளார்.
+However, Nayimur Rehman has said that Imran Khan's Pakistan Tehreek -E -Innsab (BRI) party's independent candidate, who was declared the fourth with 11,357 votes, believed that he was the real winner of the election.
+
+'As a conscientious man, B.I.. I declare that the pro -candidate won the election. I will not resort to this seat. I am not going to accept the further votes cast for me, ”Nayimur Rehman said.
+
+This is the first time in Pakistan's history, a politician who was declared a victory in the election, refused to accept victory on fraud.
 
 ...
 
 [Data](articles/9e6385ba.json)
+
+[Extended Data](ext_articles/9e6385ba.ext.json)
 
 ---
 
@@ -600,37 +618,43 @@ The highest number of wild elephants reported on 27th of September last year, 11
 
 ---
 
-### ඖෂධ ගේන්න වාර්ශිකව රජයට ඩො.මි. 500ක වැයක්
+### Effective Government DM. 500
 
 *2024-02-14 11:53:10* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-ගේන්න-වාර්ශිකව-රජයට-ඩො-මි--500ක-වැයක්/11-408076) · `si`
 
-ඖෂධ නියාමනය, සෑපයීම, බෙදාහැරීම හා සම්බන්ධ කරුණු පිළිබදව සෞඛ්‍ය අමාත්‍යාංශය යටතේ පාලනය වන වෛද්‍ය සැපයුම් අංශය, රාජ්‍ය ඖෂධ සංස්ථාව, රාජ්‍ය ඖෂධ නිෂ්පාදන නීති‍ගත සංස්ථාව සහ ජාතික ඖෂධ නියාමන අධිකාරිය යන ආයතනවල නිලධාරීන් ‍සමග විශේෂ සාකච්ඡාවක් අද  (14)  සෞඛ්‍ය අමාත්‍යාංශය් දී  පැවත්විනි.
+The Ministry of Health continued a special discussion with the Ministry of Health, State Pharmaceutical Corporation, State Pharmaceutical Corporation and the National Drug Regulatory Authority of the Ministry of Health.
 
-සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් පැවැති මෙම විශේෂ සාකච්ඡවේ දී ටෙන්ඩර් ක්‍රමවේද විධිමත් කිරීම, ගුණාත්මක තත්ත්වයෙන් ඉහළ ඖෂධ රෝහල්වලට අඛණ්ඩව ලබාදීම, ඖෂධ ආනයන ක්‍රමවේදය ක්‍රමවත් කිරීම වැනි කරුණු කෙරෙහි අවධානය යොමු කෙරිනි.
+Special discussions led by Minister of Health and Industry Dr. Ramesh Pathirana, providing the quality techniques and continuously delivering quality drug hospitals, focus on matters of quality techniques, pharmaceutical issues.
 
-වාර්ෂිකව ඩොලර් මිලියන 500 කට අධික මුදලක් ඖෂධ ගෙන්විම සදහා වැය කරන බවත් ඊට හොදම විසදුම මෙරටට අවශ්‍ය ඖෂධ මෙරට තුළ නිෂ්පාදනය කිරීම බව ද අමාත්‍යවරයා මෙහිදී  පෙන්වා දුන් අතර,  මෙරට ජනතාවට ගුණාත්මක තත්වයෙන් ඉහල ඖෂධ රජය විසින් ලබා දෙන ක්‍රමවේදය ශක්තිමත් කිරිමට පියවර ගන්නා ලෙස ද නිලධාරින්ට උපදෙස් ලබාදුනි.
+The Minister also instructs the officials to be produced in Sri Lanka in Sri Lanka annually, and the best solution is to be produced in the country's methods.Were given.
 
-...
+The Minister of Health was also given to take a pre-study on the right study of the Ministry of Health on the prevention of drugs that were required to have no drug shortages in the country.
+
+◼️
 
 [Data](articles/05d3986d.json)
 
+[Extended Data](ext_articles/05d3986d.ext.json)
+
 ---
 
-### சப்ரகமுவ பல்கலைக்கழகத்தில் தாக்குதல் : சரணடைந்த மேலும் 6 மாணவர்கள் கைது!
+### Attack at Sabaragamuwa University: 6 more students arrested
 
 *2024-02-14 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176342) · `ta`
 
-சப்ரகமுவ பல்கலைக்கழக விவசாய பீட மாணவி ஒருவரையும் மேலும் இரு மாணவர்களையும் தாக்கிய சம்பவம் தொடர்பில் மேலும் 6 சிரேஷ்ட மாணவர்களை  சமனலவெவ  பொலிஸார் இன்று புதன்கிழமை (14) கைது செய்துள்ளனர்.
+Samanalawewa police have arrested six more senior students in connection with the attack on a Sabaragamuwa University Faculty student and two students.
 
-கடந்த 9ஆம் திகதி இரவு உணவகத்தில் இந்தத் தாக்குதல்  இடம்பெற்றதாகவும், இதன்போது  ஒரு மாணவி மற்றும் இரண்டு மாணவர்கள் காயமடைந்து வைத்தியசாலைக்கு  அழைத்துச்  செல்லப்பட்டதாகவும் சமனலவெவ பொலிஸார் தெரிவித்தனர்.
+The attack took place at a night restaurant on the 9th and a student and two students were injured and taken to the hospital, Samanalawewa police said.
 
-இந்தச் சம்பவம் தொடர்பில் 7 சிரேஷ்ட மாணவர்கள் முன்னர்  கைது செய்யப்பட்டு பலாங்கொடை நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் விளக்கமறியலில் வைக்கப்பட்டதாக  சமனலவெவ பொலிஸார் தெரிவித்தனர்.
+Samanalawewa police said that 7 senior students were arrested in connection with the incident and produced before the Balangoda court.
 
-இந்த ஆறு சிரேஷ்ட மாணவர்களும் சமனலவெவ பொலிஸில் சரணடைந்த பின்னர் கைது செய்யப்பட்டுள்ளனர்.
+These six senior students have been arrested after surrendering to the Samanalawewa police.
 
 ◼️
 
 [Data](articles/43081002.json)
+
+[Extended Data](ext_articles/43081002.ext.json)
 
 ---
 
@@ -714,17 +738,19 @@ The suspects held in this operation were identified as residents of Silawathura 
 
 ---
 
-### சுகாதார தொழிற்சங்கங்கள் இரண்டாவது நாளாகவும் தொடரும் பணிப்புறக்கணிப்பு
+### Workplace continues for the second day of health trade unions
 
 *2024-02-14 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176339) · `ta`
 
-நாடு பூராகவும் 72 சுகாதார தொழிற்சங்கங்கள் இன்று புதன்கிழமை (14) இரண்டாவது நாளாக தொடரும் பணிப்புறக்கணிப்பு நடவடிக்கை காரணமாக வவுனியா மாவட்ட பொது வைத்தியசாலையில் நோயாளர்கள் பல்வேறு சிரமங்களுக்கு முகம் கொடுத்து வருகின்றனர்.
+72 health trade unions across the country are facing various difficulties at the Vavuniya District General Hospital due to work on the second day on Wednesday (14).
 
-இதேவேளை, இன்றும் பல நோயாளர்கள் திரும்பிச் சென்றதோடு மருந்துகளை பெறுவதிலும் பலர் சிரமங்களை எதிர் கொண்டு இருந்ததை அவதானிக்க முடிந்திருந்தது.
+At the same time, many patients still returned and many people were facing difficulties in getting drugs.
 
 ◼️
 
 [Data](articles/7aac9595.json)
+
+[Extended Data](ext_articles/7aac9595.ext.json)
 
 ---
 
@@ -772,17 +798,19 @@ Farmers say the government has failed to fulfil its 2021 promise of paying more 
 
 ---
 
-### விவசாயிகளின் மானிய உரத்தில் 100 கோடி ரூபா மோசடி : உயர்  அதிகாரிகளைக் கைது செய்ய நடவடிக்கை!
+### 100 crores of fraud in farmers' subsidized fertilizer
 
 *2024-02-14 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176340) · `ta`
 
-விவசாயிகளுக்கு மானியமாக வழங்குவதற்காக  இறக்குமதி செய்யப்பட்ட யூரியா உரத்தை விவசாயிகளுக்கு வழங்காமல் சுமார் 100 கோடி ரூபா மோசடி செய்தமை தொடர்பாக பல உர நிறுவனங்களின் முக்கிய பதவிகளை வகிக்கும் பத்துப் பேரைக் கைது செய்ய குற்றப் புலனாய்வுப் பிரிவினர்  நடவடிக்கை எடுப்பதாக தேசிய உரச் செயலகம் தெரிவித்துள்ளது.
+The National Fertilizer Secretariat has said that the Criminal Investigation Department (CID) has taken steps to arrest ten people who have been promoted to the main posts of several fertilizers in connection with the alleged fraud of about Rs 100 crore without providing the imported urea fertilizer to the farmers.
 
-2018 ஆம் ஆண்டு முதல் விவசாயிகளுக்கு வழங்கப்படவிருந்த மானிய உரம் விவசாயிகளுக்கு வழங்கப்படாமல் ஹொரனை, கேகாலை, மாதம்பை பிரதேசங்களில் உள்ள  பிரதான கைத்தொழில் துறை நிறுவனங்களுக்கு பல்வேறு மோசடி முறைகளில் அதிக விலைக்கு வழங்கப்பட்டுள்ளதாக   தெரிய வந்துள்ளது.
+The subsidized fertilizer for farmers has been given to the farmers since 2018, but the main industrial agencies in Horana, Kegalle and Madambai areas have been given high prices in various fraud.
 
 ◼️
 
 [Data](articles/5383a22a.json)
+
+[Extended Data](ext_articles/5383a22a.ext.json)
 
 ---
 
@@ -808,21 +836,23 @@ He attributed this to “improved services and enhanced management practices wit
 
 ---
 
-### ஊடகவியலாளர்களை இலக்குவைத்து இஸ்ரேல் மீண்டும் தாக்குதல் - அல்ஜசீராவின் இரண்டு ஊடகவியலாளர்கள் படுகாயம்
+### Israel again attacking journalists
 
 *2024-02-14 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176338) · `ta`
 
-அல்ஜசீராவின் செய்தியாளர் இஸ்மாயில்அபு ஓமரும் படப்பிடிப்பாளர் அஹமட் மட்டாரும் படுகாயமடைந்துள்ளனர் என அல்ஜசீரா தெரிவித்துள்ளது.
+Al Jazeera's reporter Ismail Above and shooter Ahmed Matar have been injured, Al Jazeera said.
 
-ஆளில்லா விமானம் மூலம் ஏவப்பட்ட ஏவுகணை இவர்களை நேரடியாக தாக்கியது என தகவல்கள் வெளியாகியுள்ளன.
+According to reports, the missile launched by unmanned aircraft was directly attacked.
 
-படுகாயமடைந்த நிலையில் இரண்டு ஊடகவியலாளர்களும் காசாவின் ஐரோப்பிய மருத்துவமனைக்கு இடமாற்றப்பட்டுள்ளனர் ஒமரின் ஒரு கால் துண்டிக்கப்பட்டுள்ளது என தெரிவித்துள்ள அல்ஜசீரா மட்டாரின் நிலைமை கவலைக்கிடமாக உள்ளது எனவும்தெரிவித்துள்ளது.
+The situation of Al Jazeera Matar, who has been halted by Omar, has been transferred to Gaza's European Hospital.
 
-ஊடகவியலாளர்கள் என தங்களை அடையாளப்படுத்தும் விதத்தில் இரண்டு ஊடகவியலாளர்களும் காணப்பட்டவேளையே அவர்கள் தாக்கப்பட்டுள்ளதை வீடியோக்கள் காணப்பித்துள்ளன.
+Videos have seen that they have been attacked by two journalists to identify themselves as journalists.
 
 ◼️
 
 [Data](articles/e4b3e0de.json)
+
+[Extended Data](ext_articles/e4b3e0de.ext.json)
 
 ---
 

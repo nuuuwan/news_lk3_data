@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 12:17:15**
+As of **2024-02-14 12:33:06**
 
 ## Newspaper Stats
 
-*Scraped **6,913** Articles*
+*Scraped **6,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 353
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
-adalk | 588
+adalk | 590
 tamilmirrorlk | 844
-adaderanalk | 848
+adaderanalk | 849
 virakesarilk | 875
 adaderanasinhalalk | 965
 dailymirrorlk | 1,014
@@ -26,11 +26,43 @@ dailymirrorlk | 1,014
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,911 (100.0%) of 6,913 articles have been extended.
+6,911 (99.9%) of 6,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Edu. Minister hints at 2023 A/L exam results release date
+
+*2024-02-14 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97257/edu-minister-hints-at-2023-al-exam-results-release-date) · `en`
+
+The results of the 2023 G.C.E. Advanced Level examination are planned to be released before commencing the 2023 G.C.E Ordinary Level examination, Minister of Education Susil Premajayantha says.
+
+Premajayantha revealed that the evaluation of the answer scripts of 2023 G.C.E. Advanced Level exam will likely be completed by the end of February.
+
+“The Advanced Level answer sheets are still being evaluated. This will be concluded by the end of February. Then, there are practical tests to be held. After all that, the Department of Examinations hopes to release the [2023 A/L exam] results before the commencement of [2023] Ordinary Level examination”, the Minister added.
+
+◼️
+
+[Data](articles/e0eb06ec.json)
+
+---
+
+### පසුගිය වසරේ  මෙරට වන අලි මැරුණ හේතු
+
+*2024-02-14 11:53:28* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-වසරේ--මෙරට-වන-අලි-මැරුණ-හේතු/11-408077) · `si`
+
+2023 වසරේ  මෙරට වන අලි  මරණ  470 ක් සිදුව ඇති බවත්,  වෙඩි තැබීම, හක්ක පටස් තැබීම හා විදුලිසැර වැද්දවීම   වැනි මිනිස් ක්‍රියාකාරකම් ‌හේතුවෙන්  පමණක්   වන අලි හා ඇතුන්  196කු මරණයට පත්ව ඇතැයි  වනජීවී සංරක්ෂණ දෙපාර්තුමේන්තු පවසයි.
+
+වෙඩි තැබීම්වලින් 83කු, හක්ක පටස් තැබීමෙන් 47කු, විදුලි සැර වැද්දවීමෙන් 66කු, දුම්රියේ ගැටීමෙන් 23කු, මාර්ග අනතුරුවලින් එක් අයෙකු, විෂ ශරීර ගතවීමෙන් හතර දෙනෙකු, දියේ ගිලීමෙන් එක් අයෙකු, වගා ළිංවලට වැටීමෙන් පස් දෙනෙකු, හදිසි අනතුරුවලින් 15කු, ස්භාවික ලෙස 10කු, කුණු වී ගොස් සිටි 28කු, දිරාපත් වු සිරුරු හතක්, පණු රෝගය ආසාදිතවීමෙන් 15කු, බැක්ටීරියා ආසාදනයෙන් දෙදෙනෙකු, ආසාදිත තුවාල හේතුවෙන් 25කු,  හඳුනානොගත් හා වෙනත්  හේතුන් මත 138කු වශයෙන් මෙම වන අලි ඇත් මරණ සිදුවී ඇතැයි වනජීවී සංරක්ෂණ දෙපාර්තුමේන්තුවේ අධ්‍යක්ෂ (රක්ෂිත ප්‍රදේශ කළමනාකරණ) මංජුල අමරරත්න මහතා පවසයි.
+
+තොරතුරු දැන ගැනීමේ පනත යටතේ සිදු කරන ලද විමසීමකට පිළිතුරු සපයමින් අමරරත්න මහතා මේ බව සඳහන් කොට තිබේ.
+
+...
+
+[Data](articles/f0452b7e.json)
+
+---
 
 ### Two men nabbed with over 1,400 capsules of controlled drugs
 
@@ -335,6 +367,24 @@ Wildlife Photo Artist AL Muhammad Rasim, who photographed Flamingo legends, said
 [Data](articles/5ce4bd41.json)
 
 [Extended Data](ext_articles/5ce4bd41.ext.json)
+
+---
+
+### පිඳුරුතලාගල සංචාරකයන්ට විවෘත කළ යුතුයි
+
+*2024-02-14 10:21:18* · [`adalk`](https://www.ada.lk/breaking_news/පිඳුරුතලාගල-සංචාරකයන්ට-විවෘත-කළ-යුතුයි/11-408073) · `si`
+
+පිදුරුතලාගල කඳුවැටිය සංචාරකයන්ට නැරඹීම සඳහා  කඩිනමින් යළි විවෘත කිරීමට පියවර ගත යුතු බව මධ්‍යම පළාත් ආණ්ඩුකාර සහ නුවරඑළිය දිස්ත්‍රික් සංවර්ධන කමිටු සම සභාපති නීතිඥ ලලිත් යු. ගමගේ මහතා පැවැසීය.
+
+දිවයිනේ උසින් වැඩිම සහ අංශක බින්දුව පිහිටා ඇති නුවරඑළිය දිස්ත්‍රික්කයේ පිදුරුතලාගල කඳුවැටිය නැවත සංචාරකයින් සඳහා විවෘත කිරීමට පියවර ගත යුතුව ඇති බවත්, විශාල වියදමක් දරා මාර්ග පහසුකම් සහිතව සංචාරකයින් සඳහා විවෘත පැවැති පිරුදුරුතලාගල කඳුවැටිය ජනතාවට තහනම් කලාපයක් ලෙස දිගින් දිගටම පවත්වා ගෙනයාම නුසුදුසු ක්‍රියාවක් බවද හෙතම කීය.
+
+නුවරඑළිය දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පෙරේදා (13) පැවැති නුවරඑළිය දිස්ත්‍රික් සංවර්ධන කමිටු රැස්වීමේදී ආණ්ඩුකාරවරයා මේ බව පැවැසීය.
+
+පිදුරුතලාගල කඳුවැටිය අධ්‍යාපනික මෙන්ම, සංචාරක වශයෙන් ඉහල වටිනාකමක් උසුලන ප්‍රදේශයක් බවත්, එය තවදුරටත් ජනතාවට වසා දමා තිබීම කාලෝචිත නොවන බවද ගමගේ මහතා කීය.
+
+...
+
+[Data](articles/ec23065e.json)
 
 ---
 
@@ -1967,67 +2017,5 @@ Addressing the media, he highlighted that healthcare workers used to be involved
 [Data](articles/3bfb600a.json)
 
 [Extended Data](ext_articles/3bfb600a.ext.json)
-
----
-
-### Sri Lanka eye clean sweep against Afghanistan
-
-*2024-02-13 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-eye-clean-sweep-against-Afghanistan/108-276942) · `en`
-
-Feb. 13 (Agencies) - Sri Lanka will host Afghanistan for the final and inconsequential One Day International (ODI) match in the three-match series at the Pallekele Stadium in Kandy tomorrow.
-
-With the series already in the Lankan Lions’ pockets after winning the first two matches, the third one will all be about Afghanistan gaining some sort of momentum before the Twenty20 International series begins on Saturday.
-
-In the second ODI, Charith Asalanka scored 97 while Captain Kusal Mendis and Sadeera Samarawickrama chipped in with 61 and 52 respectively. At the tail end, Janith Liyanage scored a 50 of his own as Sri Lanka set a target of 308.
-
-Chasing, Afghanistan’s Ibrahim Zadran and Rahmat Shah were the only ones who could score decent runs but their efforts were in vain with their team getting bundled out for 153.
-
-...
-
-[Data](articles/baf7d9ab.json)
-
-[Extended Data](ext_articles/baf7d9ab.ext.json)
-
----
-
-### Japan to provide anti-corruption policy support for SL to promote economic governance
-
-*2024-02-13 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97243/japan-to-provide-anti-corruption-policy-support-for-sl-to-promote-economic-governance) · `en`
-
-A new project was launched in Sri Lanka to bolster its anti-corruption ecosystem, in tandem with the Government of Japan and the United Nations Development Programme (UNDP).
-
-The new project will work towards strengthening the anti-corruption ecosystem in Sri Lanka, through time-bound national policy reform, inter-stakeholder collaboration, and enhanced institutional capacity to deliver a necessary roadmap for the country to emerge from fragility towards a resilient economy and a trusted democracy.
-
-Ambassador of Japan to Sri Lanka, Hideaki Mizukoshi and Resident Representative of UNDP Sri Lanka, Ms. Azusa Kubota marked the launch of the new project titled ‘The Project for Promoting Economic Governance through Anti-corruption Policy Support’, through an official signing that took place in Colombo today (Feb.13) with the participation of senior government officials.
-
-...
-
-[Data](articles/472b5334.json)
-
-[Extended Data](ext_articles/472b5334.ext.json)
-
----
-
-### Cabinet permits to construct two new hospitals in Gampaha district
-
-*2024-02-13 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176305) · `ta`
-
-The Cabinet has approved the construction of a National Hospital and Child Hospital in Piyagama, Gampaha District.
-
-Due to high population and industrialization, Gampaha district is a major service supply center.
-
-This has increased the demand for health services and the need to construct the National Hospital and the Children's Hospital to meet the need.
-
-Therefore, it has been proposed to construct a National Hospital and Child Hospital under the state -private contribution in Gampaha district.
-
-The scheme will be implemented after providing land and infrastructure in Biyagama.
-
-The Cabinet has approved the proposal submitted to implement the plan put forward by the President and the Minister of Health.
-
-◼️
-
-[Data](articles/b649df13.json)
-
-[Extended Data](ext_articles/b649df13.ext.json)
 
 ---

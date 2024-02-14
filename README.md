@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 20:02:40**
+As of **2024-02-14 20:17:11**
 
 ## Newspaper Stats
 
-*Scraped **7,026** Articles*
+*Scraped **7,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 365
 economynextcom | 369
 dailyftlk | 376
-adalk | 599
-tamilmirrorlk | 855
-adaderanalk | 863
+adalk | 601
+tamilmirrorlk | 857
+adaderanalk | 865
 virakesarilk | 897
 adaderanasinhalalk | 988
 dailymirrorlk | 1,028
@@ -26,11 +26,85 @@ dailymirrorlk | 1,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,026 (100.0%) of 7,026 articles have been extended.
+7,026 (99.9%) of 7,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Health sector trade unions call-off strike
+
+*2024-02-14 19:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97275/health-sector-trade-unions-call-off-strike) · `en`
+
+The collective of health sector trade unions have decided to call off their ongoing strike action, the Health Trade Union Alliance said.
+
+The 72 health sector trade unions have agreed to end the trade union action, launched over disparities in allowances, after Health Minister Dr. Ramesh Pathirana had agreed for a discussion with them on Monday (Feb. 19).
+
+Accordingly, the strike is to be suspended at 6.30 a.m. tomorrow (15), the trade unions said.
+
+◼️
+
+[Data](articles/9dce2f0e.json)
+
+---
+
+### தொடரும் புறக்கணிப்பால் வைத்தியசாலை நடவடிக்கைகள் பாதிப்பு
+
+*2024-02-14 19:46:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடரும்-புறக்கணிப்பால்-வைத்தியசாலை-நடவடிக்கைகள்-பாதிப்பு/175-333211) · `ta`
+
+நாடளாவிய ரீதியில் பணிப்புறக்கணிப்பு போராட்டத்தை தொடர சுகாதார துறையின் தொழிற்சங்கங்கள் தீர்மானித்துள்ளதால், நாடு முழுவதும் சுகாதார சேவைகள் முடங்கியுள்ளதுடன், நோயாளிகள் சிரமத்துக்குள்ளாகியுள்ளனர்.
+
+மேலும், அரச மருந்துக் கூட்டுத்தாபனத்திற்குச் சொந்தமான மருந்தகங்களில் இன்று காலை முதல் மருந்துகள் விநியோகிக்கப்படாமையால் நீண்ட வரிசையில் மக்கள் காத்திருந்தமையை நாடளாவிய ரீதியில் அவதானிக்க முடிந்தது.
+
+நேற்று (13) காலை 6.30 மணி முதல் ஆரம்பிக்கப்பட்ட பணிப்புறக்கணிப்பு, நிதியமைச்சின் அதிகாரிகளுடன் நடத்திய பேச்சுவார்த்தை தோல்வியடைந்ததை அடுத்து தொடர்கிறது.
+
+வேலைநிறுத்த நடவடிக்கையின் பிரதான காரணமானது போக்குவரத்து கொடுப்பனவில் தொடரும் (DAT) நீடித்த மற்றும் சர்ச்சைக்குரிய கருத்து வேறுபாடு ஆகும் என்று சுகாதார வல்லுநர்கள் கூட்டமைப்பின் தலைவர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+
+வைத்தியர்களுக்கு வழங்கப்பட்ட DAT கொடுப்பனவுக்கு நிகரான கொடுப்பனவை வழங்கத் தவறியமைக்காக சுகாதாரப் பணியாளர்கள் இந்த வருடம் இதுவரை மூன்று தொழிற்சங்க நடவடிக்கைகளில் ஈடுபட்டுள்ளனர்.
+
+...
+
+[Data](articles/a844d224.json)
+
+---
+
+### State Minister reveals plans to establish three international universities in Sri Lanka
+
+*2024-02-14 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97274/state-minister-reveals-plans-to-establish-three-international-universities-in-sri-lanka) · `en`
+
+State Minister of Higher Education Dr. Suren Raghavan has announced plans to offer multiple degrees through state universities, in a bid to enhance the educational landscape in Sri Lanka.
+
+Drawing from insights of international education experts, Dr. Raghavan explained that plans are also afoot to establish three international universities within Sri Lanka, adding that that two of these universities are currently in the establishment phase, with the third scheduled to commence operations by May of this year.
+
+Notably, the Indian Institute of Technology is to be opened in Kandy, while the other two universities will have branches affiliated with the United States and the United Kingdom, with anticipated memorandum of understanding signings, the President’s Media Division (PMD) reported.
+
+The State Minister made these remarks at a press briefing held at the Presidential Media Center today (14 Feb.) under the theme of “Collective Path to a Stable Country”.
+
+...
+
+[Data](articles/26d09ddb.json)
+
+---
+
+### பல்கலைக்கழகங்களில் பல்துறை பட்டங்களை வழங்க யோசனை
+
+*2024-02-14 19:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழகங்களில்-பல்துறை-பட்டங்களை-வழங்க-யோசனை/175-333210) · `ta`
+
+கல்வியில் சர்வதேச அனுபவமுள்ள நிபுணர்களின் அவதானத்திற்குப் பின்னர் அரச பல்கலைக்கழகங்கள் மூலம் பல்துறைப் பட்டங்களை வழங்குவதில் கவனம் செலுத்தியுள்ளதாக உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன் தெரிவித்தார்.
+
+இலங்கையில் 03 சர்வதேச பல்கலைக்கழகங்களை ஸ்தாபிப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் இன்று (14) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் சுரேன் ராகவன் இவ்வாறு தெரிவித்தார்.
+
+“03 சர்வதேச பல்கலைக்கழகங்களை இலங்கையில் ஸ்தாபிக்க நடவடிக்கை எடுத்துள்ளோம். இவற்றில் இரண்டு பல்கலைக்கழகங்கள் ஆரம்பிப்பதற்கான பணிகள் ஏற்கனவே ஆரம்பிக்கப்பட்டுள்ளன. இந்த ஆண்டு மே மாதத்திற்குள் மூன்றாவது பல்கலைக்கழகமும் இலங்கையில் ஸ்தாபிக்கப்படும்.
+
+கண்டியில் இந்திய தொழில்நுட்ப நிறுவனம் (indian institutes of technology) ஆரம்பிக்கப்பட உள்ளது. ஏனைய இரண்டு பல்கலைக்கழகங்களும் அமெரிக்கா மற்றும் ஐக்கிய இராச்சியத்தை மையமாக கொண்டு அவற்றின் இரண்டு கிளைகள் திறக்கப்படவுள்ளதுடன் அவை தொடர்பான புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திடவும் தயாராக உள்ளோம்.
+
+...
+
+[Data](articles/31b4d6f0.json)
+
+---
 
 ### A wicketkeeper athletes a mechanic Iakil disorder
 
@@ -72,6 +146,24 @@ COPF granted a two-week extension for this while expecting completion of the leg
 
 ---
 
+### වී අස්වැන්න මිලදී ගන්න ඔඩපණ ණය යෝජනා ක්‍රමය හරහා රු. බි.  09ක්
+
+*2024-02-14 18:56:59* · [`adalk`](https://www.ada.lk/breaking_news/වී-අස්වැන්න-මිලදී-ගන්න-ඔඩපණ-ණය-යෝජනා-ක්‍රමය-හරහා-රු--බි---09ක්/11-408086) · `si`
+
+සුළු හා මධ්‍ය පරිමාණ වී මෝල් හිමියන්, වී ගබඩාකරුවන් හා වී තොග රැස් කරන්නන් තම කර්මාන්තය පවත්වාගෙන යාමේදී මුහුණ දී ඇති මූල්‍ය දුෂ්කරතා මඟහරවා ගනිමින් මෙවර මහ කන්නයේ වී අස්වැන්න මිලදී ගැනීම සඳහා “ඔඩපණ” ණය යෝජනා ක්‍රමය ක්‍රියාත්මක කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් පරිදි පියවර ගෙන තිබෙන බව ජනාධිපති ප්‍රජා කටයුතු අධ්‍යක්ෂ ජනරාල්, රජිත් කීර්ති තෙන්නකෝන් මහතා පැවසීය.
+
+මහජන බැංකුව, ලංකා බැංකුව හා ප්‍රාදේශීය සංවර්ධන බැංකුව වෙතින් මෙම ණය පහසුකම සපයා දී තිබෙන බව ද ඒ මහතා සඳහන් කළේය. .
+
+ජනාධිපති ප්‍රජා කටයුතු අධ්‍යක්ෂ ජනරාල්, රජිත් කීර්ති තෙන්නකෝන් මහතා මේ බව සඳහන් කළේ සුළු හා මධ්‍ය පරිමාණ සහල් කර්මාන්තකරුවන් මුහුණ දී ඇති ගැටලු පිළිබඳ අද (14) ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවකදී ය.
+
+අදාළ ණය යෝජනා ක්‍රමය යටතේ රුපියල් බිලියන 09ක ඔඩපණ ණය නිකුත් කිරීමට අපේක්ෂා කෙරෙන අතර සුළු හා මධ්‍ය පරිමාණ වී මෝල් හිමියන් සඳහා රුපියල් මිලියන 50කද, වී ගබඩා හිමිකරුවන් සහ වී තොග රැස් කරන්නන් සඳහා රුපියල් මිලියන 25කද උපරිම ණය මුදලක් ලබාදෙනු ඇත.
+
+...
+
+[Data](articles/d1ff5518.json)
+
+---
+
 ### COPF summons Fiscal Policy Dept’s DG over gaming regulator delay
 
 *2024-02-14 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97273/copf-summons-fiscal-policy-depts-dg-over-gaming-regulator-delay-) · `en`
@@ -89,6 +181,26 @@ Stressing the vital role of a gaming regulator in both attracting investment and
 [Data](articles/8d0c860e.json)
 
 [Extended Data](ext_articles/8d0c860e.ext.json)
+
+---
+
+### ශක්තිමත් ආර්ථිකයක් නිර්මාණය කිරීමට කටයුතු කරනවා
+
+*2024-02-14 18:48:54* · [`adalk`](https://www.ada.lk/breaking_news/ශක්තිමත්-ආර්ථිකයක්-නිර්මාණය-කිරීමට-කටයුතු-කරනවා/11-408085) · `si`
+
+රට ආර්ථික පරිවර්තනයක් කරා ගෙන යාමට නම් ලොවට ගැළපෙන නව අධ්‍යාපන ක්‍රමවේදයක් අවශ්‍යයි
+
+වෘත්තිකයන් බිහිකළ හැකි අධ්‍යාපන ක්‍රමයක් ඉදිරියේදී ඇති කරනවා – 2024 වර්ෂයට අදාළ පාසල් පෙළ පොත් හා නිල ඇඳුම් රෙදි බෙදාදීමේ ජාතික වැඩසටහනට එක්වෙමින් ජනපති පවසයි.
+
+රට ආර්ථික පරිවර්තනයකට යොමු කිරීමට නම් ලොවට ගැළපෙන නව අධ්‍යාපන ක්‍රමවේදයක් අවශ්‍ය බවත්, එමඟින් තරගකාරී ලෝක වෙළෙඳපොළට අවශ්‍ය වෘත්තිකයන් බිහිකළ හැකි බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පෙන්වා දුන්නේය.
+
+විභාග බර අඩුකර ඉංග්‍රීසි සහ තාක්ෂණ විෂයන් අධ්‍යාපන ක්‍රමයට ඇතුළත් කරමින් රැකියාවට සුදුසු දරුවෙක් බිහි කිරීමට අපේක්ෂා කරන බවත්, නව වෘත්තීය විද්‍යාල හා තාක්ෂණ විශ්වවිද්‍යාල ඇති කිරීමට සැලසුම් කර තිබෙන බවත් ජනාධිපතිවරයා පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ කොල්ලුපිටිය ශාන්ත අන්තෝනි බාලිකා විද්‍යාලයේ අද (14) පෙරවරුවේ පැවති පිරිවෙන් හා පාසල් සිසු සිසුවියන්ට නොමිලේ පාසල් පෙළ පොත් හා පාසල් නිල ඇඳුම් රෙදි බෙදාදීමේ ජාතික වැඩසටහනට එක්වෙමිනි.
+
+...
+
+[Data](articles/b3a40600.json)
 
 ---
 
@@ -1933,117 +2045,5 @@ Therefore, the NFCO has decided to launch a silent protest in front of the BMICH
 [Data](articles/6e1c97ac.json)
 
 [Extended Data](ext_articles/6e1c97ac.ext.json)
-
----
-
-### Sajith says about President's contract
-
-*2024-02-14 12:05:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-කොන්ත්‍රාත්තුවක්-ගැන-සජිත්-කියයි/11-408078) · `si`
-
-The Opposition Leader said that the policy of the executive presidency is the policy of the people, the dictatorship of the country is the rights of the country and will not be allowed to hinder a presidential election.
-
-The Executive Presidency Sajith can be abolished that the government is not able to support the right of the people by the local government or that the government is not able to express the right to an election.Mr. Premadasa said.
-
-The Opposition Leader added that the presidential and groups of various individuals and the president's contract they should abolish the executive presidency and trying to expand their political life, and not to extend private political life.
-
-◼️
-
-[Data](articles/4ff8e3bc.json)
-
-[Extended Data](ext_articles/4ff8e3bc.ext.json)
-
----
-
-### Former STF chief Nimal Lewke joins SJB
-
-*2024-02-14 12:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-STF-chief-Nimal-Lewke-joins-SJB/108-276998) · `en`
-
-Colombo, Feb 14 (Daily Mirror) -  Former STF chief Nimal Lewke has joined the Samagi Jana Balawegaya (SJB), the party office said.
-
-He obtained the party membership from leader Sajith Premadasa today.
-
-He is the third high ranking officer involved in the defence sector to join the SJB.
-
-The SJB leadership is seen welcoming newcomers to the fold despite some members of the party stressing the need to choose newcomers diligently.
-
-◼️
-
-[Data](articles/07509a8a.json)
-
-[Extended Data](ext_articles/07509a8a.ext.json)
-
----
-
-### Edu. Minister hints at 2023 A/L exam results release date
-
-*2024-02-14 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97257/edu-minister-hints-at-2023-al-exam-results-release-date) · `en`
-
-The results of the 2023 G.C.E. Advanced Level examination are planned to be released before commencing the 2023 G.C.E Ordinary Level examination, Minister of Education Susil Premajayantha says.
-
-Premajayantha revealed that the evaluation of the answer scripts of 2023 G.C.E. Advanced Level exam will likely be completed by the end of February.
-
-“The Advanced Level answer sheets are still being evaluated. This will be concluded by the end of February. Then, there are practical tests to be held. After all that, the Department of Examinations hopes to release the [2023 A/L exam] results before the commencement of [2023] Ordinary Level examination”, the Minister added.
-
-◼️
-
-[Data](articles/e0eb06ec.json)
-
-[Extended Data](ext_articles/e0eb06ec.ext.json)
-
----
-
-### 54 principals cannot be incorporated
-
-*2024-02-14 11:55:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/54-அதிபர்களை-இணைத்துக்-கொள்ள-முடியாது/175-333184) · `ta`
-
-Education Minister Dr. Susil Prema Jayantha said that due to the lack of accreditation of the Public Service Commission, 54 principals were not enrolled in national schools.
-
-◼️
-
-[Data](articles/c22f3984.json)
-
-[Extended Data](ext_articles/c22f3984.ext.json)
-
----
-
-### Russia warns Western countries
-
-*2024-02-14 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193361) · `si`
-
-Russia warns that if the US and the European Union countries use their resources for billions of dollars for other purposes.
-
-After the army was sent by Russian President Vladimir Putin in 2022, the US and their allies banned the Russian Central Bank and the Ministry of Finance.
-
-As a result Russia is trapped in the West, which is worth about $ 300 billion in Russia.
-
-The European Union plans to rebuild Ukraine using the wealth of the wealth.
-
-In response, Russia said that it would treat her country as a steal and respond to the thief.
-
-◼️
-
-[Data](articles/286d5fdb.json)
-
-[Extended Data](ext_articles/286d5fdb.ext.json)
-
----
-
-### Reasons Forests killed last year
-
-*2024-02-14 11:53:28* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-වසරේ--මෙරට-වන-අලි-මැරුණ-හේතු/11-408077) · `si`
-
-The Department of Wildlife Conservation (Wildlife Conservation) says that 470 deaths in Sri Lanka have been killed, such as shooting, hacks, and the clutry of the police.
-
-Five of the fifer shootings, 66 shooting and the collision collision collision with a collision, and rotten 10, rotten 10.Director of the Wildlife Conservation Department (Forest Reserve Management) of the wildlife Conservation (Reserve Development) Managed Managed Manage Amararatne says that the number of two collapses, two bacterial infections, and 138 other reasons..
-
-Mr. Amararatne has made this statement in response to a query carried out under the Information Act.
-
-The highest number of wild elephants reported on 27th of September last year, 11 elephants were killed during the last 3 years.
-
-◼️
-
-[Data](articles/f0452b7e.json)
-
-[Extended Data](ext_articles/f0452b7e.ext.json)
 
 ---

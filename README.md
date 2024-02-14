@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-14 15:32:43**
+As of **2024-02-14 15:51:18**
 
 ## Newspaper Stats
 
-*Scraped **6,961** Articles*
+*Scraped **6,965** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
 bbccomsinhala | 93
 dbsjeyarajcom | 149
-economynextcom | 359
+economynextcom | 361
 newsfirstlk | 363
 islandlk | 365
 dailyftlk | 376
 adalk | 594
 tamilmirrorlk | 849
 adaderanalk | 854
-virakesarilk | 885
+virakesarilk | 887
 adaderanasinhalalk | 975
 dailymirrorlk | 1,019
 
@@ -26,11 +26,51 @@ dailymirrorlk | 1,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-6,961 (100.0%) of 6,961 articles have been extended.
+6,965 (100.0%) of 6,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-14 (Wednesday)
+
+### Russia joined the list of Estonian Prime Minister
+
+*2024-02-14 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176369) · `ta`
+
+Russia has announced that Russia is looking for Prime Minister Kaja Galasin, an avid supporter of Ukraine.
+
+Russia has also added some other key officials, including the Cultural Minister of Estonia.
+
+The Russian media has reported that these allegations have been imposed on the destruction of the monuments of the warriors of the Sovithuni.
+
+He has stated that this has still proven that I am doing the right thing.
+
+Kremlin considers me to silence me silent, but it will not take place but it will strengthen my support for Ukraine.
+
+◼️
+
+[Data](articles/c2f91988.json)
+
+[Extended Data](ext_articles/c2f91988.ext.json)
+
+---
+
+### Germany eyes better economic partnerships with India
+
+*2024-02-14 15:00:00* · [`economynextcom`](https://economynext.com/germany-eyes-better-economic-partnerships-with-india-150756/) · `en`
+
+ECONOMYNEXT – With sixty-five per cent of her population under the age of 35 and the world’s fastest growing economy, India is attracting the attention of industrialised nations looking to increase trade relations.
+
+A stumbling block however, is that potential partners must meet tough regulatory standards that are enshrined, for instance in the recently introduced  German Act on Corporate Due Diligence Obligations in Supply Chains that seek to prevent child and forced labour, ensure fair wages and safety of workers etc.
+
+But the Free Democrats parliamentary group spokesman for Mittelstand (Small and Medium Enterprises) and Free Trade, Carl- Julius Cronenberg would like to see a softer approach in the implementation of the Act. Pointing out that India’s small and medium enterprises are not yet geared to meet such standards, he is of the view that the German legislation could be improved.
+
+...
+
+[Data](articles/8beffa6d.json)
+
+[Extended Data](ext_articles/8beffa6d.ext.json)
+
+---
 
 ### 1100 soldiers for hospitals
 
@@ -76,6 +116,42 @@ Senior Deputy Solicitor General Sanil Kularatne, who appeared for the Attorney G
 
 ---
 
+### Introducing the new website of the President's Fund
+
+*2024-02-14 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176363) · `ta`
+
+The new website of the Presidential Fund (https://www.presidentsfund.gov.lk) was officially launched by the President's Secretary Saman Ekanayake at the Presidential Secretariat on Tuesday (13).
+
+With this, the public is able to obtain new information on the services provided by the Presidential Fund and the public will have the ability to download the application for medical assistance.
+
+The event was attended by Sarath Kumara, Senior Additional Secretary of the President and Secretary to the Presidential Fund, Deputy Director of the Presidential Fund, Gayan Moraliyage and the Assistant Director of the Presidential Fund, WDM Bodaju.
+
+◼️
+
+[Data](articles/36eb6afa.json)
+
+[Extended Data](ext_articles/36eb6afa.ext.json)
+
+---
+
+### Two of the policemen were given poisonous milk:
+
+*2024-02-14 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176357) · `ta`
+
+The Colombo Additional Magistrate Tharanga Mahawatta has ordered the seven suspects who were arrested on suspicion of poisoning two suspects who were detained at the Colombo Street Street Street Police until the 27th of this month.
+
+The suspects have been arrested by the police while they were hiding in a house in the Galaha Police Division.
+
+Five men and two women were arrested and produced in court and the magistrate has ordered the two suspects to be sent to a march.
+
+◼️
+
+[Data](articles/535ee78e.json)
+
+[Extended Data](ext_articles/535ee78e.ext.json)
+
+---
+
 ### A / L results at May-JJs
 
 *2024-02-14 14:09:18* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-ප්‍රතිඵල-මැයි--ජුනි-වනවිට/11-408083) · `si`
@@ -100,24 +176,6 @@ This year's National Ceremony to distribute school textbooks and uniforms for sc
 
 ---
 
-### Two of the policemen were given poisonous milk:
-
-*2024-02-14 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176357) · `ta`
-
-The Colombo Additional Magistrate Tharanga Mahawatta has ordered the seven suspects who were arrested on suspicion of poisoning two suspects who were detained at the Colombo Street Street Street Police until the 27th of this month.
-
-The suspects have been arrested by the police while they were hiding in a house in the Galaha Police Division.
-
-Five men and two women were arrested and produced in court and the magistrate has ordered the two suspects to be sent to a march.
-
-◼️
-
-[Data](articles/535ee78e.json)
-
-[Extended Data](ext_articles/535ee78e.ext.json)
-
----
-
 ### To Afghanistan to advantage
 
 *2024-02-14 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193366) · `si`
@@ -132,7 +190,7 @@ Afghanistan won the toss of the third and final ODI between Sri Lanka and Afghan
 
 ---
 
-### President says he had to ‘beg’ from countries for the sake of childrens’ future
+### President says he had to ‘beg’ from countries for the sake of children’s future
 
 *2024-02-14 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97262/president-says-he-had-to-beg-from-countries-for-the-sake-of-childrens-future) · `en`
 
@@ -147,6 +205,24 @@ Accordingly, the Head of State acknowledged that, while no one would be willing 
 [Data](articles/1580f2ac.json)
 
 [Extended Data](ext_articles/1580f2ac.ext.json)
+
+---
+
+### Sri Lanka needs new education system for economic transformation: Pres
+
+*2024-02-14 13:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-new-education-system-for-economic-transformation-pres-150825/) · `en`
+
+ECONOMYNEXT – Sri Lanka needs a new education system that aligns with global standards and can cultivate professionals suited for the competitive world market, President Ranil Wickremesinghe has said.
+
+“I firmly advocate for education reforms and the creation of a new educational paradigm in our country. Our focus should be on nurturing professionals who can thrive in the global arena,” Wickremesinghe was quoted as saying in a statement by his office, at St Anthony Girls’ College, Kollupitiya today (14).
+
+“To drive economic transformation, our education system must align with international standards, equipping students to compete effectively,” Wickremesinghe said after distributing free school textbooks and uniforms to the students.
+
+...
+
+[Data](articles/ea20e2a5.json)
+
+[Extended Data](ext_articles/ea20e2a5.ext.json)
 
 ---
 
@@ -1941,83 +2017,5 @@ Police said the suspects were suspended and suspected that the shooting was used
 [Data](articles/312dd2fa.json)
 
 [Extended Data](ext_articles/312dd2fa.ext.json)
-
----
-
-### Shehbaz Sharif to be coalition candidate for next Pakistan PM
-
-*2024-02-14 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97247/shehbaz-sharif-to-be-coalition-candidate-for-next-pakistan-pm) · `en`
-
-Former Prime Minister Shehbaz Sharif will be the nominee for Pakistan’s next premier to lead a new coalition alliance formed between different parties, a spokeswoman said on Tuesday after national elections last week returned a hung parliament.
-
-The Pakistan Peoples Party (PPP) on Tuesday said it would support Sharif’s party to form a minority government, ending a stalemate after inconclusive elections in the nuclear-armed nation lead to days of political uncertainty.
-
-A spokesman for Sharif’s party, Marriyam Aurangzeb, said in a post on social media site X, formerly Twitter, that Nawaz Sharif, the elder brother of Shehbaz, had nominated him for the post.
-
-Shehbaz Sharif belongs to his brother’s Pakistan Muslim League-Nawaz (PML-N), the largest recognised party with 80 seats and PPP is second with 54. Together, the two parties have enough for a simple majority in the 264-seat legislature.
-
-...
-
-[Data](articles/d1c91c28.json)
-
-[Extended Data](ext_articles/d1c91c28.ext.json)
-
----
-
-### Several times for several areas
-
-*2024-02-14 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193347) · `si`
-
-Several showers in Polonnaruwa, Matale and Nuwara Eliya Districts, Eastern and Uva provinces.
-
-The Department of Meteorology announced that there would be a few showers in Hambantota and Anuradhapura districts.
-
-At the Western and Sabaragamuwa Provincial and Galle and Subducted Districts. Showers or thundershowers will occur at a few places after 2.00.
-
-Northern, North-Central, North Western, Uva and Eastern Provinces. Strong winds can occur at about 30-40 times.
-
-In some places in the Western and Sabaragamuwa Province, some locations are expected in the morning.
-
-◼️
-
-[Data](articles/2d3a5691.json)
-
-[Extended Data](ext_articles/2d3a5691.ext.json)
-
----
-
-### Tri-forces halt general recruitment
-
-*2024-02-14 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Tri-forces-halt-general-recruitment/155-276947) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - Sri Lanka is in the process of downsizing the existing Sri Lanka Army cadre to 135,000 by the end of this year, and the number has already dropped to nearly 150,000 from the existing Sri Lanka Army cadre of 200,783, Daily Mirror learns.
-
-Last year, State Minister of Defence Premitha Bandara Tennakoon announced that Sri Lanka would cut the number of Army personnel by a third to 135,000 by this year and to 100,000 by 2030, as part of the government's efforts to overhaul its finances. He said that the aim of the move is to create a "technically and tactically sound and well-balanced" defence force by 2030.
-
-In addition, Sri Lanka expects to maintain the number of Sri Lanka Air Force personnel and Sri Lanka Navy personnel at 35,000 each by 2030.
-
-...
-
-[Data](articles/11b2beaa.json)
-
-[Extended Data](ext_articles/11b2beaa.ext.json)
-
----
-
-### Tri-forces halt general recruitment
-
-*2024-02-14 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tri-forces-halt-general-recruitment/108-276947) · `en`
-
-Colombo, Feb 13 (Daily Mirror) - Sri Lanka is in the process of downsizing the existing Sri Lanka Army cadre to 135,000 by the end of this year, and the number has already dropped to nearly 150,000 from the existing Sri Lanka Army cadre of 200,783, Daily Mirror learns.
-
-Last year, State Minister of Defence Premitha Bandara Tennakoon announced that Sri Lanka would cut the number of Army personnel by a third to 135,000 by this year and to 100,000 by 2030, as part of the government's efforts to overhaul its finances. He said that the aim of the move is to create a "technically and tactically sound and well-balanced" defence force by 2030.
-
-In addition, Sri Lanka expects to maintain the number of Sri Lanka Air Force personnel and Sri Lanka Navy personnel at 35,000 each by 2030.
-
-...
-
-[Data](articles/48382f58.json)
-
-[Extended Data](ext_articles/48382f58.ext.json)
 
 ---

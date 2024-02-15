@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 14:51:22**
+As of **2024-02-15 15:02:27**
 
 ## Newspaper Stats
 
-*Scraped **7,225** Articles*
+*Scraped **7,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 375
 islandlk | 376
 dailyftlk | 389
-adalk | 614
+adalk | 619
 adaderanalk | 886
 tamilmirrorlk | 889
 virakesarilk | 929
@@ -26,11 +26,25 @@ dailymirrorlk | 1,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,225 (100.0%) of 7,225 articles have been extended.
+7,230 (100.0%) of 7,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### This baby is the baby
+
+*2024-02-15 14:27:25* · [`adalk`](https://www.ada.lk/breaking_news/ළිදේ-දමාගිය-මේ-බිළිඳිය-කාගේදෝ/11-408106) · `si`
+
+Fluo dead body found on a well adjacent to a house in the Kurunegala Police, Kurunegala. The body body is a body of a girl and is placed at the morgue morgue of the Koanor.. One (16) was discovered by who had not been found by the commitment, he was found and said in a statement today.
+
+◼️
+
+[Data](articles/33da338f.json)
+
+[Extended Data](ext_articles/33da338f.ext.json)
+
+---
 
 ### Sri Lanka’s attempt to secure big onions from India fails
 
@@ -177,6 +191,22 @@ Dr. Akihiko elaborated on JICA’s efforts, highlighting the priority of conclud
 [Data](articles/53060506.json)
 
 [Extended Data](ext_articles/53060506.ext.json)
+
+---
+
+### 35000 kg of beeled seeds
+
+*2024-02-15 13:06:35* · [`adalk`](https://www.ada.lk/breaking_news/බීළූණු-බීජ-කිලෝ-එකක්-රුපියල්-35000ක්/11-408102) · `si`
+
+Special program to promote the cultivation of the cultivation for large onion cultivation in Matale District has been established by the Central Province Department of Agriculture. It is reported that 2700 farmers are looking to access the cultivation of the plantation. The following harvest technological knowledge, crop cultivation clinics and cultivation training will be provided.
+
+However, officials also pointed out that a kilo of beauty of the market is about Rs.. Generally, 1 kilo of seedbies is 1 acre acre. In April, the officers say that the farmers will be initiated following technical training to finish technical training by April.
+
+◼️
+
+[Data](articles/3a8daaad.json)
+
+[Extended Data](ext_articles/3a8daaad.ext.json)
 
 ---
 
@@ -350,6 +380,26 @@ Also, President Wickremesinghe was also present at the meeting with Senior Advis
 
 ---
 
+### Jaya has again 'loud'
+
+*2024-02-15 12:07:36* · [`adalk`](https://www.ada.lk/breaking_news/ජයිකා-ආයතනය-යළිත්-ලංකාවේ-’හයියට’-එයි/11-408101) · `si`
+
+JICA, President of the Japan International Cooperation Institute (JICA) says Sri Lanka has continuously support the development and reform agenda of Sri Lanka (JICA).
+
+Prime Minister Dinesh Gunawardena and President of the Japan International Cooperation Agency (JICA) was held at Temple Trees in Colombo on 14.02.2012.
+
+The Prime Minister thanked the Sri Lanka Assistance Association for decades since the meeting of the Sri Lanka Assistance Association. The Prime Minister requested the JICA to consider rural development, rural roads, small and medium-scale farmers and entrepreneurs to empower them.
+
+Dr. Akado said that a grant of a new renewable energy program, including the establishment of solar energy units in Sri Lankan hospitals, will be given a grant of a new renewable energy program.
+
+...
+
+[Data](articles/d115c38e.json)
+
+[Extended Data](ext_articles/d115c38e.ext.json)
+
+---
+
 ### The country's back stain
 
 *2024-02-15 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193413) · `si`
@@ -377,6 +427,22 @@ Accordingly, the suspect had acquired the suspect on November 2, 2023 against th
 [Data](articles/70ea997b.json)
 
 [Extended Data](ext_articles/70ea997b.ext.json)
+
+---
+
+### No decision to support any candidate - 'chair' did not take the lead
+
+*2024-02-15 12:01:59* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-අපේක්ෂකයෙකුට-සහාය-දෙන්න-තීරණයක්-නෑ---’පුටුවේ’-නායකත්වය-ගත්තෙත්-නෑ/11-408100) · `si`
+
+Former Presidential reports say that he has not yet decided to support a candidate and has decided to support the presidential election.
+
+In a statement, she points out that he has not yet decided to seek the leadership of the newly established Civil United Front.
+
+◼️
+
+[Data](articles/5410e336.json)
+
+[Extended Data](ext_articles/5410e336.ext.json)
 
 ---
 
@@ -1035,6 +1101,22 @@ We will request applications for a month. In the first round, 20 lakh applicatio
 [Data](articles/06ba892c.json)
 
 [Extended Data](ext_articles/06ba892c.ext.json)
+
+---
+
+### Minister Ranjith Ranjith from Ranjith to protect cultivation from Riyawan
+
+*2024-02-15 10:55:57* · [`adalk`](https://www.ada.lk/breaking_news/රිලවුන්ගෙන්-වගා-ආරක්ෂා-කරන්න-ඇමති-රංජිත්ගෙන්-වායු-රයිෆල/11-408097) · `si`
+
+State Minister Ranjith Siyambalapitiya says that steps will be taken to provide air rifles to the farmer organizations in the Kegalle district.
+
+The Minister said that the farmers have faced a major problem due to the damages caused by the Riyalaww.. The air rifles are given from their decentralized fund.
+
+◼️
+
+[Data](articles/7cd157da.json)
+
+[Extended Data](ext_articles/7cd157da.ext.json)
 
 ---
 
@@ -2019,95 +2101,5 @@ The Chairman of the National Child Protection, Udaya Kumara Amarasinghe said tha
 [Data](articles/66cb3cc9.json)
 
 [Extended Data](ext_articles/66cb3cc9.ext.json)
-
----
-
-### Man shot dead in US
-
-*2024-02-15 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193396) · `si`
-
-A person was killed in a shooting in Kansas in Kansas, USA.
-
-Foreign media reports that the shooting of a Super Bowl parade in that city has taken place.
-
-However, no organization has been taken responsible for the attack.
-
-◼️
-
-[Data](articles/2bac5695.json)
-
-[Extended Data](ext_articles/2bac5695.ext.json)
-
----
-
-### One dead, children among 21 injured in Super Bowl parade shooting
-
-*2024-02-15 06:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97281/one-dead-children-among-21-injured-in-super-bowl-parade-shooting) · `en`
-
-One person was killed and multiple children were among 21 injured after a mass shooting at the Kansas City Chiefs’ Super Bowl victory rally on Wednesday triggered panic among huge crowds of fans.
-
-Children’s Mercy Hospital in Kansas City, which takes patients up to the age of 17, said it was treating 12 people -- 11 of them children, nine for gunshot wounds -- after the shooting, which unfolded just moments after Chiefs players had addressed a vast crowd of cheering supporters gathered nearby.
-
-Police said three people had been taken into custody after the incident, but the motive and circumstances behind the shooting were still under investigation.
-
-Kansas City fire department chief Ross Grundyson told a press conference that many of the victims had sustained “life-threatening injuries.”
-
-“We had eight what we considered immediately life-threatening patients, we had seven with life-threatening injuries, and had six that had minor injuries,” Grundyson said.
-
-...
-
-[Data](articles/3231ca8e.json)
-
-[Extended Data](ext_articles/3231ca8e.ext.json)
-
----
-
-### Kudu Seygoda's main goal is brought to Sri Lanka
-
-*2024-02-15 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193394) · `si`
-
-Underworld leader Squady Wildlife Squady has been brought to Sri Lanka Sri Lanka.
-
-It is reported that a special team of the Criminal Investigation Department (CID) was brought to Sri Lanka from Dubai this morning (15).
-
-◼️
-
-[Data](articles/6a64e08c.json)
-
-[Extended Data](ext_articles/6a64e08c.ext.json)
-
----
-
-### Underworld figure ‘Piyuma’ brought to Sri Lanka from Dubai
-
-*2024-02-15 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97280/underworld-figure-piyuma-brought-to-sri-lanka-from-dubai) · `en`
-
-Piyum Hasthika alias ‘Piyuma’, the main accomplice of underworld figure Salindu Malshika alias ‘Kudu Salindu’, has been brought to Sri Lanka from Dubai early this morning (15) by a special CID team, according to  Minister of Public Security Tiran Alles.
-
-◼️
-
-[Data](articles/b9030ebe.json)
-
-[Extended Data](ext_articles/b9030ebe.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-02-15 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193393) · `si`
-
-Several spells of showers in Polonnaruwa, Matale, Nuwara Eliya and Hambantota districts, East and Uva provinces.
-
-At the Galle and Matara Districts in the Western, Sabaragamuwa and North Western Provinces. The Department of Meteorology announced that showers could occur at several places shortly after 2.
-
-Northern, North-Central, North Western, Uva and Eastern Provinces. Strong winds can occur at about 30-40 times.
-
-The Department of Meteorology has requested the public to take steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/60b17f43.json)
-
-[Extended Data](ext_articles/60b17f43.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 10:50:31**
+As of **2024-02-15 11:02:50**
 
 ## Newspaper Stats
 
-*Scraped **7,146** Articles*
+*Scraped **7,148** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
-bbccomsinhala | 95
+bbccomsinhala | 96
 dbsjeyarajcom | 150
 newsfirstlk | 363
 economynextcom | 371
@@ -19,18 +19,38 @@ adalk | 605
 tamilmirrorlk | 873
 adaderanalk | 875
 virakesarilk | 915
-adaderanasinhalalk | 1,009
+adaderanasinhalalk | 1,010
 dailymirrorlk | 1,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,146 (100.0%) of 7,146 articles have been extended.
+7,148 (100.0%) of 7,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### 25 Sri Lankans deported
+
+*2024-02-15 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193405) · `si`
+
+The Government has decided to deport 186 foreigners including 25 Sri Lankans accused of illegal activities.
+
+Foreign media reports that the visa violations and drug misconductions have been deported.
+
+Among the deported group, 83 Sri Lankans, 83 Sri Lankans, 46 Indian nationals and eight Nepalians.
+
+However, it is reported that a specific date deported has not been published yet.
+
+◼️
+
+[Data](articles/0e318e21.json)
+
+[Extended Data](ext_articles/0e318e21.ext.json)
+
+---
 
 ### Rohit assigned leadership responsibility
 
@@ -609,6 +629,28 @@ The Petitioner stated that the Constitutional Council’s decision to reject the
 [Data](articles/3e27a843.json)
 
 [Extended Data](ext_articles/3e27a843.ext.json)
+
+---
+
+### Is Sri Lanka part of India?: 'Harin should be sacked from the ministerial'
+
+*2024-02-15 04:21:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72gnjggyzro) · `si`
+
+A well-being of Sri Lanka is part of the Minister of Cabinet, Harin Fernando, a business and entrepreneurship in Mumbai, is in a business and entrepreneur.
+
+"Fuel Tanks Are Taken by the indian companies. Our solar power energies Provided by the indian companies. This is One Reaaseons I Think The Indian Exterional Affeel Affairs Secretary (IF TRAVELING SOMEWHEE, TECAUS Sri Lanka, Actually. "
+
+"Oil tanks from Indian companies. Indian companies provider our solar energy. I think, that is why the Indian Foreign Secretary said that if you travel somewhere, to visit Sri Lanka, and Sri Lanka is a part of India. "
+
+There, he is accused of interpreting Sri Lanka as part of India as part of India, "the constitution of the Constitution of Sri Lanka."
+
+Here are some of the comments published in the social media.
+
+...
+
+[Data](articles/72f33031.json)
+
+[Extended Data](ext_articles/72f33031.ext.json)
 
 ---
 
@@ -2001,47 +2043,5 @@ Only 52 ODIs were spent on him 42 ODIs. Previously, Upul Tharanga had scored 200
 [Data](articles/e24df5c5.json)
 
 [Extended Data](ext_articles/e24df5c5.ext.json)
-
----
-
-### Health sector trade unions call-off strike
-
-*2024-02-14 19:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97275/health-sector-trade-unions-call-off-strike) · `en`
-
-The collective of health sector trade unions have decided to call off their ongoing strike action, the Health Trade Union Alliance said.
-
-The 72 health sector trade unions have agreed to end the trade union action, launched over disparities in allowances, after Health Minister Dr. Ramesh Pathirana had agreed for a discussion with them on Monday (Feb. 19).
-
-Accordingly, the strike is to be suspended at 6.30 a.m. tomorrow (15), the trade unions said.
-
-◼️
-
-[Data](articles/9dce2f0e.json)
-
-[Extended Data](ext_articles/9dce2f0e.ext.json)
-
----
-
-### Hospital activities impact by continuing boycott
-
-*2024-02-14 19:46:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடரும்-புறக்கணிப்பால்-வைத்தியசாலை-நடவடிக்கைகள்-பாதிப்பு/175-333211) · `ta`
-
-The health department's unions have decided to continue the workforce struggle across the country, and health services across the country have been paralyzed and patients are inconvenienced.
-
-Moreover, the people of the state have been waiting for the country to be waiting for a long line of pharmaceuticals from the state pharmaceutical corporation.
-
-The workforce, which began yesterday (13) at 6.30 am, continues following the failure of talks with the Finance Ministry officials.
-
-Ravi Kumudesh, president of the Health Experts Federation, said the main reason for the strike was the continuing and controversial disagreement in transport payments (DAT).
-
-Health workers have been involved in three union activities so far this year to fail to pay the DAT allowance to doctors.
-
-However, in response to the strike, the Sri Lankan military has sent groups to government hospitals in favor of operational operations.
-
-◼️
-
-[Data](articles/a844d224.json)
-
-[Extended Data](ext_articles/a844d224.ext.json)
 
 ---

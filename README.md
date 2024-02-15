@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 01:02:31**
+As of **2024-02-16 01:17:26**
 
 ## Newspaper Stats
 
-*Scraped **7,335** Articles*
+*Scraped **7,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 96
 dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 376
-economynextcom | 386
+economynextcom | 387
 dailyftlk | 389
 adalk | 630
 tamilmirrorlk | 897
@@ -26,7 +26,7 @@ dailymirrorlk | 1,074
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,335 (100.0%) of 7,335 articles have been extended.
+7,335 (100.0%) of 7,336 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -535,6 +535,24 @@ The election we will win. The presidential election we win our candidate. Our ca
 [Data](articles/8ff356fe.json)
 
 [Extended Data](ext_articles/8ff356fe.ext.json)
+
+---
+
+### Sri Lanka recovering amid global risks, IMF deal key to confidence: central bank
+
+*2024-02-15 19:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-recovering-amid-global-risks-imf-deal-key-to-confidence-central-bank-151122/) · `en`
+
+ECONOMYNEXT – Sri Lanka is recovering from an economic crisis amid risks to exports from global slowdown and any derailment of an International Monetary Fund program could create high economic risks, the central bank said.
+
+“A major factor that influences the economic outlook is the continuation of the IMF – Extended Fund Facility (EFF) arrangement and the progression of the envisaged structural reforms,” the central banks Monetary Policy Report issued in February said.
+
+“Any disruption to this programme would create high economic costs to the country due to growth derailment, loss of confidence, and the protraction of negative investor sentiments.”
+
+Sri Lanka has stabilized and economic activity is recovering the central bank said though growth would be subdued in the near term.
+
+...
+
+[Data](articles/24f4cba1.json)
 
 ---
 
@@ -2061,29 +2079,5 @@ Furthermore, he has extended an invitation to all parties to collaborate, not fo
 [Data](articles/91a6658b.json)
 
 [Extended Data](ext_articles/91a6658b.ext.json)
-
----
-
-### Marriage of the World
-
-*2024-02-15 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193417) · `si`
-
-On Valentine's Day, a wonderful engagement has been found in a wonderful engagement that a Prime Minister who knows the world.
-
-The wonderful engagement has been engaged by the Australian Prime Minister Anthony Albanese.
-
-At the year 2020, the 60-year-old Australian Prime Minister Anthony Albacee and 45-year-old Jodie Haydon have met the Anthony Albanes and 45-year-old Japan.
-
-Meanwhile, the engagement is his first Australian Prime Minister while in the patriarch of the Prime Minister.
-
-Anthony Albanes and Jodie Haydon have announced that they were engaged in a photography.
-
-Anthony Albanes was divorced by Carmel Tebbutt a year ago and there is a 23-year-old son.
-
-◼️
-
-[Data](articles/ebc208a3.json)
-
-[Extended Data](ext_articles/ebc208a3.ext.json)
 
 ---

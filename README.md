@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 23:17:20**
+As of **2024-02-15 23:33:20**
 
 ## Newspaper Stats
 
-*Scraped **7,330** Articles*
+*Scraped **7,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 376
 economynextcom | 386
 dailyftlk | 389
 adalk | 630
-tamilmirrorlk | 896
+tamilmirrorlk | 897
 adaderanalk | 897
 virakesarilk | 956
 adaderanasinhalalk | 1,037
@@ -26,11 +26,25 @@ dailymirrorlk | 1,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,330 (100.0%) of 7,330 articles have been extended.
+7,330 (100.0%) of 7,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### கெஹலிய உள்ளிட்ட 7 பேர் விளக்கமறியலில்
+
+*2024-02-15 22:39:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்ட-7-பேர்-விளக்கமறியலில்/175-333296) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல, சுகாதார அமைச்சின் முன்னாள் செயலாளர் உள்ளிட்ட 7 பேரை எதிர்வரும் பெப்ரவரி 29 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு மாளிகாகந்த நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+சர்ச்சைக்குரிய  தரமற்ற தடுப்பூசிகளை இறக்குமதி செய்த சம்பவம் தொடர்பான வழக்கு இன்று (15) மாளிகாகந்த நீதவான் நீதிமன்றில் மீண்டும் அழைக்கப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/cc7bb4b2.json)
+
+---
 
 ### Direct Airline Service Agreement between Israel and Sri Lanka: Minister Nimal
 
@@ -2073,21 +2087,5 @@ Dr. Akihiko elaborated on JICA’s efforts, highlighting the priority of conclud
 [Data](articles/53060506.json)
 
 [Extended Data](ext_articles/53060506.ext.json)
-
----
-
-### Frog at ice cream in Jaffna
-
-*2024-02-15 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176440) · `ta`
-
-An incident took place at the Tondamanaru area in Jaffna.
-
-Thondamanaru Selvachani Murugan Murugan faced the experience of a man who had gone to drink ice cream yesterday (14) at a beverage outlet in the temple environment.
-
-◼️
-
-[Data](articles/565540ba.json)
-
-[Extended Data](ext_articles/565540ba.ext.json)
 
 ---

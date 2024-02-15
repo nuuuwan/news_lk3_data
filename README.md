@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 01:49:27**
+As of **2024-02-16 02:02:26**
 
 ## Newspaper Stats
 
-*Scraped **7,337** Articles*
+*Scraped **7,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 389
 adalk | 630
 tamilmirrorlk | 897
 adaderanalk | 899
-virakesarilk | 956
+virakesarilk | 962
 adaderanasinhalalk | 1,037
 dailymirrorlk | 1,075
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,075
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,336 (100.0%) of 7,337 articles have been extended.
+7,337 (99.9%) of 7,343 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,9 +50,99 @@ Q   How far is the policy of your party in line with the broader vision of Ind
 
 [Data](articles/734e4eab.json)
 
+[Extended Data](ext_articles/734e4eab.ext.json)
+
+---
+
+### காணி தகராறுகளை மத்தியஸ்த சபை முறையில் தீர்க்க நடவடிக்கை - அமைச்சர் விஜேதாச தெரிவிப்பு
+
+*2024-02-16 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176491) · `ta`
+
+வடக்கு கிழக்கில் இடம்பெற்றுவந்த காணிப்பிரச்சினைகளை தீர்ப்பதற்கு மத்தியஸ்த சபை முறைமை ஊடாக நடவடிக்கை எடுத்ததுபோன்று ஏனைய மாவட்டங்களில் இடம்பெறும் காணிப்பிரச்சினைகளை மத்தியஸ்த சபை முறைமையினூடாக தீர்ப்பதற்கு நடவடிக்கை எடுத்து வருகிறோம் என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+
+நீதி, சிறைச்சாலைகள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சில் வியாழக்கிழமை (15) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+1988ஆம் ஆண்டு மத்தியஸ்த சபை சட்டத்தின் ஊடாக மத்தியஸ்த சபை ஆணைக்குழு அமைக்கப்பட்டதன் பின்னர் 2015 ஆம் ஆண்டாகும்போது இலங்கைக்குள் இடம்பெற்று வந்த வழக்கு நடவடிக்கைகளில் சுமார் நூற்றுக்கு 47 வீதம் தீர்த்துக்கொள்ள முடியுமாகியுள்ளது. அத்துடன் மத்தியஸ்த சபை முறைமையில் மேற்கொள்ளப்பட்ட மறுசீரமைப்பின் ஊடாக தற்போது வழக்கு தீர்க்கும் வீதம் சுமார் நூற்றுக்கு 70வீதம் வரை அதிகரித்துள்ளது.
+
+...
+
+[Data](articles/8f358d4d.json)
+
+---
+
+### யாழ். இணுவில் பகுதியில் பாதுகாப்பான புகையிரத கடவையை வலியுறுத்தி போராட்டம்
+
+*2024-02-16 00:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176490) · `ta`
+
+யாழ்ப்பாணம் - இணுவில் பகுதியில் பாதுகாப்பான புகையிரத கடவையை வலியுறுத்தி வியாழக்கிழமை (15) புகையிரதத்தை மறித்து போராட்டமொன்றைப் பொதுமக்கள் முன்னெடுத்தனர்.
+
+குறித்த புகையிரத கடவையில் பாதுகாப்பு ஏற்பாடுகள் இல்லை என தெரிவித்தும் கடவை காப்பாளர் அவ்விடத்தில் தமது கடமையைச் செய்யவில்லை என குறிப்பிட்டும் பிரதேச மக்களால் போராட்டம் முன்னெடுக்கப்பட்டது.
+
+6:45 மணியளவில் யாழ்ப்பாணத்திலிருந்து காங்கேசன்துறை நோக்கி சென்ற புகையிரதத்தை மறித்து போராட்டக்காரர்கள் போராட்டத்தில் ஈடுபட்டனர்.பலத்த கோஷம் எழுப்பி பொலிசாருடன் வாக்குவாதத்தில் ஈடுபட்டனர்.
+
+இதன்போது இறந்த உயிரே இறுதியாகட்டும், எங்கள் உயிரை காவு கொள்ளாதே!, தினம் தினம் பயந்த பயணமா? ஆகிய கோஷங்கள் தாங்கிய பதாதைகள் காட்சிப்படுத்தப்பட்டன.
+
+யாழ்ப்பாணம் இணுவில் பகுதியில் புகையிரதத்துடன் மோதி வானொன்று விபத்துக்குள்ளானதில் இருவர் உயிரிழந்துள்ளதுடன் பெண்ணொருவர் தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வருகிறார்.
+
+◼️
+
+[Data](articles/fcc56948.json)
+
+---
+
+### அச்சுவேலி பிரதேச வைத்தியசாலையில் மது போதையில் உட்புகுந்த சிலர் அட்டகாசம்
+
+*2024-02-16 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176489) · `ta`
+
+வைத்தியசாலைக்கு வியாழக்கிழமை (15) மாலை மது போதையில் வந்த சிலர் கடமையிலிருந்த பாதுகாப்பு உத்தியோகத்தரைப் தலையில் பலமாகத் தாக்கினர்.
+
+பாதுகாப்பு உத்தியோகத்தரின் அலுவலக ஜன்னல் கண்ணாடிகளை உடைத்து சேதப்படுத்தியுள்ளனர். இதனை தடுக்க வந்தவர்களையும் தகாத வார்த்தைகளால் கடுமையாக மிரட்டினர்.
+
+குறித்த தாக்குதல் சம்பவம் தொடர்பாக அச்சுவேலி பொலிசாருக்கு வைத்தியசாலை நிர்வாகத்தால் அறிவிக்கப்பட்ட நிலையில்,பொலிசார் வாக்குமூலங்களைப் பதிவு செய்து, விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/a885e13a.json)
+
 ---
 
 ### 2024-02-15 (Thursday)
+
+### நாட்டின் பொருளாதாரம் வீழ்ச்சியடை மத்திய வங்கியே காரணம் - நீதி அமைச்சர் விஜேதாச குற்றச்சாட்டு
+
+*2024-02-15 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176488) · `ta`
+
+நாடு பொருளாதார ரீதியில் வீழ்ச்சியடைய மத்திய வங்கியே பிரதான காரணமாகும். அஜித் நிவாட் கப்ரால் அளுநராக இருந்த காலத்தில் இருந்து நாட்டின் அன்னிய செலாவனி துஷ்பிரயோகம் செய்யப்பட்டு வந்தது. அதனால் வெளிநாட்டுகளில் இருப்பவர்களுக்கு மத்திய வங்கியின் நடவடிக்கைகளில் நம்பிக்கை இல்லாமல் போனது என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+
+நீதி, சிறைச்சாலைகள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சில் வியாழக்கிழமை (15) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+அரச வங்கிகள் சாதாரண மக்கள் தொடர்பில் கண்டுகொள்வதில்லை. அதனால்தான் அந் மக்கள் கறுப்பு வியாபாரிகளை நாடி, தங்களின் வியாபார நடவடிக்கைகளுக்கு பாரிய வட்டித் தொகைக்கு கடன் பெறுகின்றனர். இதனால் சாராதண வியாபாரிகள் விவசாயிகள் தங்களின் தொழிலில்  நட்டம் ஏற்படும்போது அவர்கள் அந்த தொழிலை விட்டுவிடும் நிலைக்கு செல்கிறனர். அதனால்தான் இன்று நாட்டில் விவசாயம் செய்பவர்களின் வீதம் வீழ்ச்சியடைந்துள்ளது.
+
+...
+
+[Data](articles/fba42652.json)
+
+---
+
+### அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தின் முதற் கட்டம் ஜனாதிபதியால் மக்கள் பாவனைக்கு கையளிப்பு; விவசாயத்தை பாதிக்காது என ஜனாதிபதி உறுதி
+
+*2024-02-15 23:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176486) · `ta`
+
+வட. மத்திய மாகாணத்தை வலுசக்தி மையமாக மாற்றுவது தொடர்பில் அரசாங்கம் கவனம் செலுத்தியுள்ளது.
+
+அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தினால் பிரதேசத்தின் விவசாய நடவடிக்கைகளுக்கு எவ்விதமான பாதிப்புக்களும் ஏற்டாதென ஜனாதிபதி ரணில் விக்ரமசிங்க உறுதியளித்தார்.
+
+அந்த வேலைத்திட்டத்தினால் விவசாய தேவைகளுக்கும், குடிநீர் தேவைகளுக்கும் தீர்வு கிடைக்குமெனவும் தெரிவித்த ஜனாதிபதி அதுகுறித்து அச்சப்பட வேண்டிய அவசியம் இல்லை எனவும் அறிவுறுத்தினார்.
+
+அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தின் முதல் கட்டத்தை வியாழக்கிழமை (15) முற்பகல் மக்கள் பாவனைக்காக கையளித்து உரையாற்றும் போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+நீண்டகாலமாக சிறுநீரக நோயினால் அவதியுறும் மதவச்சி, பதவிய, கெபித்திகொல்லேவ, ஹொரோவபொத்தான, கஹட்டகஸ்திகிலிய பிரதேச மக்களுக்கு தூய குடிநீர் உரிமையை பெற்றுக் கொடுப்பதற்காக, ஜப்பான் சர்வதேச ஒத்துழைப்பு நிறுவனத்தின் நிதியுதவியுடன் நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சின் வழிகாட்டலின் கீழ் 11,515 மில்லியன் ரூபாய் செலவில் இத்திட்டம் நடைமுறைப்படுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/5bc5b462.json)
+
+---
 
 ### No one can bring down hospital system except for doctors, nurses
 
@@ -303,6 +393,24 @@ The Inspector was interdicted following a probe by the Police Department.
 [Data](articles/46cdbe55.json)
 
 [Extended Data](ext_articles/46cdbe55.ext.json)
+
+---
+
+### மாகாண சபைகளுக்கான பொலிஸ் அதிகாரம் முழுமையாக நீக்கப்பட வேண்டும் - கம்மன்பில
+
+*2024-02-15 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176462) · `ta`
+
+மாகாண சபைகளுக்கு பொலிஸ் அதிகாரத்தை வழங்கினால் நாட்டின் தேசிய பாதுகாப்பு அச்சுறுத்தலுக்குள்ளாக்கப்படும். ஆகவே மாகாண சபைகளுக்கு பொலிஸ் அதிகாரங்களை வழங்கும் ஏற்பாடுகள் முழுமையாக இரத்துச் செய்யப்பட வேண்டும்.
+
+வர்த்தமானியில் வெளியிடப்பட்டுள்ள 22ஆவது திருத்த யோசனையை எதிர்வரும் வாரம் பாராளுமன்றத்தில் சமர்ப்பிப்பேன் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+மாகாண சபைகளுக்கு பொலிஸ் அதிகாரங்களை வழங்கும் அதிகாரத்தை இரத்து செய்யும் வகையில் பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில முன்வைத்த இருபத்திரெண்டாவது அரசியலமைப்பு திருத்தம் வர்த்தமானி அறிவித்தலில் வெளியிடப்பட்டுள்ளது.
+
+அரசியலமைப்பின் 13 ஆவது திருத்தத்தின் ஊடாக மாகாண சபைகளுக்கு வழங்கப்பட்டுள்ள பொலிஸ் அதிகாரங்களை நீக்கும் வகையில் அரசியலமைப்பின் 22 ஆவது திருத்தத்தை கொண்டு வருவதற்காக பிவிதுறு ஹெல உறுமய கட்சியின் தலைவர் உதய கம்மன்பில கடந்த ஆண்டு ஜூலை மாதமளவில் பாராளுமன்றத்தில் தனிநபர் பிரேரணை ஒன்றை முன்வைத்திருந்தார்.
+
+...
+
+[Data](articles/ea3f6a8a.json)
 
 ---
 
@@ -1965,127 +2073,5 @@ Maskeliya police went to the scene and took two buses to the Maskeliya police st
 [Data](articles/fdf9a057.json)
 
 [Extended Data](ext_articles/fdf9a057.ext.json)
-
----
-
-### Science teacher arrested for molesting schoolgirls
-
-*2024-02-15 14:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Science-teacher-arrested-for-molesting-schoolgirls/108-277089) · `en`
-
-Hatton, Feb 15 (Daily Mirror) - A science teacher of a Tamil school in Watawala was arrested today during investigations on a complaint that he had attempted to sexually abuse three schoolgirls.
-
-Police said the suspect is alleged to have sent SMSs to the three Grade 10 school girls inducing them to sexual relations. However, when they had restrained his advances, he had written messages on their chairs to woo them.
-
-Investigations revealed that the 44 year old teacher is father of two children.
-
-A police team under OIC Watawala police Chandana Gamage is conducting further investigations.
-
-◼️
-
-[Data](articles/c9c605b4.json)
-
-[Extended Data](ext_articles/c9c605b4.ext.json)
-
----
-
-### The international community has no reliable plan to protect people in Rafa - Australia
-
-*2024-02-15 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176436) · `ta`
-
-Australian Foreign Minister Beniwong has said that the international community has not yet proposed any plans to implement a credible implementation plan to protect the rafa.
-
-Benivong, who has said that Australia is publishing the concerns of the international community, has read the compassion of Australia's close countries.
-
-My comments are based on international humanitarian law, he said.
-
-"I will reiterate our great concern for the massive action of Israel on the part," he said.
-
-He added that millions of people who have taken refuge will be a disaster.
-
-Military action in areas where civilians live can be dangerous to the public;He has revealed.
-
-◼️
-
-[Data](articles/abfced1c.json)
-
-[Extended Data](ext_articles/abfced1c.ext.json)
-
----
-
-### Third school year of 2023 end on Friday
-
-*2024-02-15 13:56:27* · [`adalk`](https://www.ada.lk/breaking_news/2023-වසරේ-තෙවැනි-පාසල්-වාරය-සිකුරාදා-අවසන්/11-408103) · `si`
-
-The third term of government schools and government approved private schools in 2023, the first phase of the first stage of 2024 was commenced on Monday, 2024-024.
-
-◼️
-
-[Data](articles/2ab518e7.json)
-
-[Extended Data](ext_articles/2ab518e7.ext.json)
-
----
-
-### Jaika leader praised Sri Lanka's new economic reforms
-
-*2024-02-15 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176442) · `ta`
-
-A meeting between President Ranil Wickremesinghe and the Chairman of the Japan International Cooperation Organization (JICA), Dr. Tanaka Akihiko, took place at the Presidential Office yesterday afternoon.
-
-Dr. Tanaka Akihiko praised President Ranil Wickremesinghe's commitment to implement economic reforms in Sri Lanka, though new economic reforms are difficult.
-
-President Ranil Wickremesinghe said that the Katunayake Bandaranaike International Airport Extension Project, Light Rail Project and the Central Highway, including the Japanese assistance, have been focused on speeding up the projects that have been launched in the country.
-
-The President thanked the Japanese government and Jaika for continuous support for Sri Lanka during the past economic crisis.
-
-Dr. Akihito further stated that Jaika is ready to resume the projects that have been suspended after the completion of the debt restructuring in Sri Lanka.
-
-...
-
-[Data](articles/df9ce04e.json)
-
-[Extended Data](ext_articles/df9ce04e.ext.json)
-
----
-
-### Sri Lanka’s attempt to secure big onions from India fails
-
-*2024-02-15 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-attempt-to-secure-big-onions-from-India-fails/108-277088) · `en`
-
-Colombo, Feb 15 (Daily Mirror) - Sri Lanka’s attempt to secure an exemption from India on its ban on big onion exports has not materialized resulting in importers looking to other markets for purchases at higher costs, Daily Mirror learns.
-
-India's ban on the export of onions has driven up prices in countries like Sri Lanka. India, the world’s biggest exporter of onions, banned shipments on December 8, 2023 after domestic prices more than doubled in three months following a drop in production. India has taken the policy decision to contain inflation ahead of the parliamentary elections.
-
-However, Sri Lanka sought an exemption to import 100,000 tonnes of big onions from India under special arrangements despite the ban.
-
-Asked about the latest situation, Trade Minister Nalin Fernando told Daily Mirror that the attempt did not materialize and therefore the prices remained high in the local market.
-
-The wholesale price of big onions remains at Rs.350-375 a kilo at the moment.
-
-...
-
-[Data](articles/ded30499.json)
-
-[Extended Data](ext_articles/ded30499.ext.json)
-
----
-
-### Sri Lanka restructuring unit extends Litro Gas bid deadline
-
-*2024-02-15 13:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-restructuring-unit-extends-litro-gas-bid-deadline-151036/) · `en`
-
-ECONOMYNEXT – The bid deadline for Litro Gas Lanka Limited and Litro Gas Terminal Lanka (Private Limited) has been extended, the State Owned Enterprises Restructuring Unit of Sri Lanka’s Ministry of Finance said.
-
-In January, the Government called for expressions of interest for the state-owned gas company to be submitted by February 16. This has been extended to March 1, 2024, SOERU told prospective bidders.
-
-“In relation to the Request for Expression of Interest (“REOI”) dated January 16 2024, to amend certain provisions of the REOI,” the SOERU said on social media platform X (twitter), on Thursday (15), publishing an amendment to the original bid document.
-
-The government has 99.93 percent of the shares of the company, the largest supplier of cooking gas in the country, through Sri Lanka Insurance Corporation, and four workers have the balance. (Colombo/Feb15/2024)
-
-◼️
-
-[Data](articles/ab1c40e9.json)
-
-[Extended Data](ext_articles/ab1c40e9.ext.json)
 
 ---

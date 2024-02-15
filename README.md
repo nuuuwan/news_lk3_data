@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 20:32:57**
+As of **2024-02-15 20:49:54**
 
 ## Newspaper Stats
 
-*Scraped **7,308** Articles*
+*Scraped **7,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 627
 adaderanalk | 894
 tamilmirrorlk | 895
 virakesarilk | 952
-adaderanasinhalalk | 1,031
+adaderanasinhalalk | 1,033
 dailymirrorlk | 1,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,308 (100.0%) of 7,308 articles have been extended.
+7,310 (100.0%) of 7,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### Three arrested for admits
+
+*2024-02-15 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193432) · `si`
+
+The Organization Criminal Investigation Division of the Colombo Crimes Division has arrested three suspects in the Colombo Crimes Division.
+
+One of them is a person who has been exchanged the food parcel and two others who had taken the other two transport facilities to the police.
+
+The incident was held on the 24th of January on the 24th of January, the garden food parcel was given to this person near a restaurant in the Hettivesi area.
+
+Then he will take it to Kotahena and recorded in CCTV cameras.
+
+Later, the person had been given the food parcel near the Kovil in Jampatta near the Kovil of the Jampta Lane.
+
+The main suspect then visited the Locas area of Orugodawatta and two of his friends and recovered a bus.
+
+The police said that the son of Kudu Selvi, who was hiding abroad, was conducted by Palani Rihonne, a son of Kudu Selvi.
+
+Accordingly, the police have arrested the police and the two persons who helped him to flee the parcel
+
+...
+
+[Data](articles/96cb3560.json)
+
+[Extended Data](ext_articles/96cb3560.ext.json)
+
+---
+
+### No alternative routes - go carefully
+
+*2024-02-15 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193431) · `si`
+
+The main road from Udadumbara police division from Udadumbara, Udadumburigiriya Police can be closed from the Mistampe.
+
+Police say that traffic is not clear due to the fog on the road.
+
+The police urge the drivers to run traffic to drive traffic with winding and slopes.
+
+◼️
+
+[Data](articles/45ca5ec1.json)
+
+[Extended Data](ext_articles/45ca5ec1.ext.json)
+
+---
 
 ### CID arrested for a millionaire in Middeniya
 
@@ -2037,39 +2083,5 @@ The police media unit said that the shooters were not identified.
 [Data](articles/e41286df.json)
 
 [Extended Data](ext_articles/e41286df.ext.json)
-
----
-
-### First school term of 2024 to begin next Monday
-
-*2024-02-15 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97290/first-school-term-of-2024-to-begin-next-monday) · `en`
-
-The Ministry of Education has issued a special notice announcing the dates to commence the first term of government and government-approved private schools for 2024.
-
-Accordingly, the first phase of the first term of the 2024 academic year is scheduled to begin next Monday (Feb.19).
-
-The third term of the academic year 2023 will end tomorrow (Feb.16).
-
-◼️
-
-[Data](articles/ab072995.json)
-
-[Extended Data](ext_articles/ab072995.ext.json)
-
----
-
-### The third term ends
-
-*2024-02-15 11:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-முடிவடைகிறது/175-333252) · `ta`
-
-The Ministry of Education has announced that the third installment of state and state -approved private schools will end today (14).
-
-Accordingly, the third term for 2023 will be completed tomorrow.
-
-◼️
-
-[Data](articles/508ccdd4.json)
-
-[Extended Data](ext_articles/508ccdd4.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 19:02:42**
+As of **2024-02-15 19:17:24**
 
 ## Newspaper Stats
 
@@ -139,6 +139,12 @@ This time, the Board will collect details of the applicant’s family members in
 *2024-02-15 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97300/kalpitiya-oic-interdicted-over-alleged-sexual-harassment-of-woman-constable) · `en`
 
 The officer-in-charge (OIC) of the Kalpitiya Police Station has been interdicted by the National Police Commission over the alleged incident of sexually harassing a Woman Police Constable (WPC), the Police Media Spokesman SSP Nihal Thalduwa said.
+
+The suspected police OIC had surrendered to the Puttalam Magistrate’s Court through a lawyer in connection with the incident on Tuesday (13), after the Kuliyapitiya SSP had reported facts to the court and initiated an investigation.
+
+Later, the court had ordered the suspect to be released on a surety bail of Rs. 500,000, and ordered him to report to the Office of Senior Superintendent of Police (SSP) in Kuliyapitiya on every last Sunday of the month.
+
+On Tuesday, Sri Lanka Police announced that necessary disciplinary action will be taken against the Police OIC in question in addition to the relevant legal action.
 
 ◼️
 

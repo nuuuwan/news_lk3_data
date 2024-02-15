@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 18:08:09**
+As of **2024-02-15 18:20:15**
 
 ## Newspaper Stats
 
-*Scraped **7,275** Articles*
+*Scraped **7,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 375
 islandlk | 376
 dailyftlk | 389
 adalk | 623
-adaderanalk | 892
+adaderanalk | 893
 tamilmirrorlk | 893
 virakesarilk | 950
 adaderanasinhalalk | 1,023
@@ -26,11 +26,23 @@ dailymirrorlk | 1,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,275 (100.0%) of 7,275 articles have been extended.
+7,275 (100.0%) of 7,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### Kalpitiya OIC interdicted over alleged sexual harassment of Woman Constable
+
+*2024-02-15 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97300/kalpitiya-oic-interdicted-over-alleged-sexual-harassment-of-woman-constable) · `en`
+
+The officer-in-charge (OIC) of the Kalpitiya Police Station has been interdicted by the National Police Commission over the alleged incident of sexually harassing a Woman Police Constable (WPC), the Police Media Spokesman SSP Nihal Thalduwa said.
+
+◼️
+
+[Data](articles/73c9ee47.json)
+
+---
 
 ### Doctor remanded for selling narcotic tablets
 
@@ -1999,31 +2011,5 @@ The Minister said that the farmers have faced a major problem due to the damages
 [Data](articles/7cd157da.json)
 
 [Extended Data](ext_articles/7cd157da.ext.json)
-
----
-
-### Red announcements for 42 criminals
-
-*2024-02-15 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193406) · `si`
-
-Acting IGP Tennakoon says that 42 international red notices have been issued for underworld and drug crimes.
-
-He was speaking at the opening of a new police post in front of the Colombo National Hospital.
-
-He said the suspects were issued to the country with the assistance of the international police in the future.
-
-The acting IGP emphasized that the President of Kudu Swudu Sialita brought to Sri Lanka this morning (15th) is to be questioned and information about the drug racket is to be questioned and obtained information.
-
-He also said that the police officer who had supported the failed attempt to escape the underworld leader Nadu Chintaka or the Beef Rithaka.
-
-Acting IGP Tennakoon stated that the assistance of the international police is also being supported.
-
-The acting IGP was the last declared that the acting IGP was continuously implementing justice operation.
-
-◼️
-
-[Data](articles/be673551.json)
-
-[Extended Data](ext_articles/be673551.ext.json)
 
 ---

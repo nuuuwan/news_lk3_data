@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 06:16:25**
+As of **2024-02-15 06:53:26**
 
 ## Newspaper Stats
 
-*Scraped **7,104** Articles*
+*Scraped **7,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 369
 economynextcom | 370
 dailyftlk | 389
 adalk | 603
-tamilmirrorlk | 866
-adaderanalk | 868
+tamilmirrorlk | 868
+adaderanalk | 870
 virakesarilk | 912
 adaderanasinhalalk | 998
 dailymirrorlk | 1,043
@@ -26,11 +26,55 @@ dailymirrorlk | 1,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,100 (99.9%) of 7,104 articles have been extended.
+7,104 (99.9%) of 7,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### Underworld figure ‘Piyuma’ brought to Sri Lanka from Dubai
+
+*2024-02-15 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97280/underworld-figure-piyuma-brought-to-sri-lanka-from-dubai) · `en`
+
+Piyum Hasthika alias ‘Piyuma’, the main accomplice of underworld figure Salindu Malshika alias ‘Kudu Salindu’, has been brought to Sri Lanka from Dubai early this morning (15) by a special CID team, according to  Minister of Public Security Tiran Alles.
+
+◼️
+
+[Data](articles/b9030ebe.json)
+
+---
+
+### Main accomplice of “Kudu Salindu” repatriated to Sri Lanka
+
+*2024-02-15 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97279/main-accomplice-of-kudu-salindu-repatriated-to-sri-lanka) · `en`
+
+Criminal gang member Piyum Hasthika alias “Piyuma”, who was in hiding in Dubai, has been repatriated to Sri Lanka in the early hours of Thursday (Feb.15).
+
+A special team of the Criminal Investigation Department (CID) had brought “Piyuma” back to the island, the Public Security Ministry said.
+
+He is reportedly the main accomplice of the notorious underworld figure Salindu Malshika alias “Kudu Salindu”.
+
+◼️
+
+[Data](articles/28562a0c.json)
+
+---
+
+### ’துறைசார்  கல்வி முறை உருவாக்கப்படும்’
+
+*2024-02-15 04:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துறைசார்-கல்வி-முறை-உருவாக்கப்படும்/175-333234) · `ta`
+
+நாட்டை பொருளாதார மாற்றத்திற்கு இட்டுச் செல்வதற்கு, உலகத்திற்கு உகந்த வகையிலான புதிய கல்வி முறைமை அவசியமானது எனவும், அதன் மூலம் போட்டி நிறைந்த உலகச் சந்தைக்குத் தேவையான துறைசார் நிபுணர்களை உருவாக்க முடியும் எனவும் ஜனாதிபதி ரணில் விக்கரமசிங்க தெரிவித்தார்.
+
+பரீட்சை சுமையை குறைத்து, ஆங்கிலம் மற்றும் தொழில்நுட்ப பாடங்களை கல்வி முறையில் உள்ளடக்கி, தொழிலுக்கு ஏற்றவகையிலான மாணவர்களை உருவாக்க எதிர்பார்ப்பதாகவும், புதிய தொழிற்கல்லூரிகள் மற்றும் தொழில்நுட்ப பல்கலைக்கழகங்களை நிறுவுவதற்கு திட்டமிடப்பட்டுள்ளதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+கொள்ளுப்பிட்டி புனித அந்தோனியார் பெண்கள் கல்லூரியில் புதன்கிழமை (14) பாடசாலை மாணவ, மாணவிகளுக்கான இலவச பாடசாலை பாடப் புத்தகங்கள் மற்றும் பாடசாலை சீருடைகள் வழங்கும் தேசிய நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/7c047708.json)
+
+---
 
 ### The Social Agreement was signed
 
@@ -47,6 +91,22 @@ At the headquarters of the United People's Power Party, the Small Agreement was 
 [Data](articles/d7dd1068.json)
 
 [Extended Data](ext_articles/d7dd1068.ext.json)
+
+---
+
+### சூழ்ச்சிகளை முறியடித்து மாநாட்டை நடத்துக
+
+*2024-02-15 04:02:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூழ்ச்சிகளை-முறியடித்து-மாநாட்டை-நடத்துக/175-333232) · `ta`
+
+உட்கட்சி ஜனநாயகத்தைச் சிதைக்கும் வகையில் நடைபெறும் சூழ்ச்சிகளை முறியடித்து, உடனடியாக மாநாட்டை நடாத்துமாறு, இலங்கைத் தமிழரசுக் கட்சியின் பெருந்தலைவரும், பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தன், கட்சியின் புதிய தலைவராகத் தெரிவுசெய்யப்பட்டுள்ள சிவஞானம் ஸ்ரீதரனுக்கு அறிவுறுத்தியுள்ளார்.
+
+பாராளுமன்ற உறுப்பினர்களான சிவஞானம் ஸ்ரீதரன், சார்ள்ஸ் நிர்மலநாதன் ஆகிய இருவரும் இணைந்து,   கொழும்பிலுள்ள   இல்லத்தில் இரா.சம்பந்தனை, செவ்வாய்க்கிழமை (13) சந்தித்துக் கலந்துரையாடியபோதே, அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+கட்சியின் தலைமைப் பொறுப்பை உத்தியோகபூர்வமாக ஏற்றுக்கொள்வதற்கு உடனடி நடவடிக்கைகளை மேற்கொள்ளுமாறும், நிருவாகிகள் தெரிவு தொடர்பில் இணக்க அடிப்படையில் எட்டப்பட்ட முடிவுகளை பொதுச்சபை அங்கீகரிக்காதவிடத்து, அல்லது அத்தெரிவுகளில் குழப்பங்கள் நிலவுமிடத்து,தேர்தல் முறைமை மூலம் தெரிவுகளை நடாத்தி, அன்றையதினமே மாநாட்டையும் நடாத்துமாறு அவர் மேலும் தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a7445232.json)
 
 ---
 
@@ -876,6 +936,8 @@ The Bank said the names of the winners will be published in the Bank’s own soc
 
 [Data](articles/161f71fc.json)
 
+[Extended Data](ext_articles/161f71fc.ext.json)
+
 ---
 
 ### Steps to establish 03 International Universities in Sri Lanka - Suren Raghavan
@@ -913,6 +975,8 @@ The All Share Price Index was down by 22.7 points, while S and P SL20 rose by 25
 ...
 
 [Data](articles/67759d71.json)
+
+[Extended Data](ext_articles/67759d71.ext.json)
 
 ---
 
@@ -1937,91 +2001,5 @@ A bond maturing on 01.07.2032 closed at 12.35/60 percent down from 12.25/75 perc
 [Data](articles/f11e69d4.json)
 
 [Extended Data](ext_articles/f11e69d4.ext.json)
-
----
-
-### Sri Lanka cricketers wear black arm bands for third Afghanistan ODI
-
-*2024-02-14 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cricketers-wear-black-arm-bands-for-third-Afghanistan-ODI/108-277010) · `en`
-
-Sri Lanka's national cricketers wore black arm bands for the third ODI against Afghanistan to pay tribute to the late Trevor Rajaratnam, the former Sri Lanka Cricket (SLC) administrator.
-
-Rajaratnam, who was a former Vice President of SLC, also served as Treasurer.
-
-"Sri Lanka’s cricket fraternity remains indebted to him for the valuable services he rendered for the game in the country," SLC said in a media statement.
-
-"We wish to express our condolences to Trevor’s family, friends, and relatives at this moment of sadness," the statement also read.
-
-◼️
-
-[Data](articles/a6018863.json)
-
-[Extended Data](ext_articles/a6018863.ext.json)
-
----
-
-### A felicitation ceremony of Premasara Epasinghe
-
-*2024-02-14 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193377) · `si`
-
-Ananda - Nalanda Nalanda Nalanda 94th Cricket commentator, Premasara Epasinghe, a former veteran cricket commentator, was organized.
-
-Also, the invitation of Premasara Epasinghe was invited to visit the Navigation Battle.
-
-A former Air Force Commander, a Samaf Chairman, a Samaf Chairman of the Presidency Chairman, Air Chief Marshal Gaggan Bulathsinhala, has been awarded a gift to Premasara Epasinghe.
-
-It is reported that a group of Ananda-Nalanda Vidasi were also present at the occasion.
-
-◼️
-
-[Data](articles/3474bbdb.json)
-
-[Extended Data](ext_articles/3474bbdb.ext.json)
-
----
-
-### One -fifth of the migration creatures is a risk of extinction - the UN. Report
-
-*2024-02-14 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176365) · `ta`
-
-A report on the United Nations Migrant Beasts has reported that one -fifth of the world's displaced creatures are in danger of being destroyed as a result of climate change and human activity.
-
-Every year, 100 crore animals are migrated in search of breeding and food through deserts, plains or oceans.
-
-The report states that the unprecedented stresses imposed on the displaced creatures will reduce their numbers and disrupt food supply and threaten their livelihood.
-
-In 1979, the United Nations Listed at a conference to protect the migrant animals of the United Nations, listed 1,189 species. It has fallen by 44 percent and 22 percent will be completely destroyed.
-
-This data is based on the estimates and data offered by the Living Planet Index (LPI), which synthesizes the number of organisms from 1970 to 5,000 organisms from the International Union (IUCN) and the global biological diversity.
-
-...
-
-[Data](articles/83843588.json)
-
-[Extended Data](ext_articles/83843588.ext.json)
-
----
-
-### The car to shoot shooting
-
-*2024-02-14 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193376) · `si`
-
-The police have recovered the car in Modara and Modaraweera.
-
-Police have found the car in the Ekala Ode Kalliya today (14).
-
-Police also recovered a living bullet in the car.
-
-Police said that Chassis Number of the car had been deleted in the car.
-
-They have also reached fake number plates.
-
-The owner of the Colombo National Hospital is receiving treatment at the Colombo National Hospital with serious injuries in Modara.
-
-◼️
-
-[Data](articles/cc72a125.json)
-
-[Extended Data](ext_articles/cc72a125.ext.json)
 
 ---

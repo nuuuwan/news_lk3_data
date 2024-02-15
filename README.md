@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 18:32:55**
+As of **2024-02-15 18:50:45**
 
 ## Newspaper Stats
 
-*Scraped **7,290** Articles*
+*Scraped **7,297** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 80
+colombotelegraphcom | 82
 bbccomsinhala | 96
 dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 376
 economynextcom | 384
 dailyftlk | 389
-adalk | 623
-adaderanalk | 893
+adalk | 625
 tamilmirrorlk | 893
-virakesarilk | 950
+adaderanalk | 894
+virakesarilk | 952
 adaderanasinhalalk | 1,028
 dailymirrorlk | 1,065
 
@@ -26,25 +26,77 @@ dailymirrorlk | 1,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,276 (99.8%) of 7,290 articles have been extended.
+7,290 (99.9%) of 7,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### කල්පිටිය OICගේ වැඩ තහනම් කරයි
+### CPSTL audit exposes data deletion and ‘massive losses’ in stock holding
+
+*2024-02-15 18:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97301/cpstl-audit-exposes-data-deletion-and-massive-losses-in-stock-holding-) · `en`
+
+Minister of Power and Energy Kanchana Wijesekara says he has received an audit report from KPMG and CPSTL audit investigation officials saying they have found that more than 1.3 million entries on SAP data have been changed or deleted since 2010 and that most have occurred in 2022 during the height of Sri Lanka’s fuel crisis.
+
+In a post on ‘X’, formerly known as Twitter, the minister said that the major findings of the forensic audit conducted by KPMG on the sales and distribution of petroleum products from Ceylon Petroleum Storage Terminals Ltd (CPSTL) was briefed to him this afternoon (15).
+
+Wijesekara stated that the forensic audit was initiated based on a complaint that he made to the CID in August 2022 on irregularities at CPSTL and the Ceylon petroleum Corporation (CPC).
+
+He stated that the Criminal Investigations Department (CID), after their initial investigations, had advised the Ministry of Power and Energy to conduct a full forensic audit to further investigate.
+
+...
+
+[Data](articles/6d73d92e.json)
+
+---
+
+### நிகழ்நிலை காப்பு திருத்தச் சட்டமூலம் விரைவில் பாராளுமன்றத்துக்கு சமர்ப்பிக்கப்படும் - நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ்
+
+*2024-02-15 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176473) · `ta`
+
+நிகழ்நிலை காப்புச்சட்டத்தில் மேற்கொள்ள வேண்டிய திருத்தங்கள் சட்ட வரைபு திணைக்களத்துக்கு அனுப்பப்பட்டுள்ளன. புதிய சட்டமூலம் தயாரிக்கப்பட்டு விரைவில் அதனை பாராளுமன்றத்துக்குச் சமர்ப்பிக்க நடவடிக்கை எடுக்கப்படும் என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+
+நீதி, சிறைச்சாலைகள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சில் வியாழக்கிழமை (15) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+சமூக வலைத்தளங்களைக் கண்காணித்து ஒழுங்குபடுத்துவதற்காக 2017இல் இருந்த அரசாங்கம் நிகழ்நிலை காப்புச் சட்டத்தை கொண்டுவர அன்று நடவடிக்கை எடுத்துவந்தது. குறித்த சட்டம் தொடர்பாக அனைத்து தரப்பினரின் கருத்துக்களைக் கேட்டறிந்து இதற்குத் தேவையான திருத்தங்களை மேற்கொண்டு அதனைப் பாராளுமன்றத்துக்குச் சமர்ப்பிக்கும் பொறுப்பை அன்று ஊடக அமைச்சுக்கு வழங்கப்பட்டிருந்தது.
+
+...
+
+[Data](articles/6c55a15f.json)
+
+---
+
+### இலங்கை - ஆப்கானிஸ்தான் இருபதுக்கு 20 கிரிக்கெட் போட்டி : கிரிக்கெட் ரசிகர்களுக்கு ஒரு அறிவிப்பு
+
+*2024-02-15 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/176472) · `ta`
+
+தம்புள்ளையில் எதிர்வரும் 17 ஆம் திகதி நடைபெறவுள்ள இலங்கை மற்றும் ஆப்கானிஸ்தான் அணிகளுக்கு இடையிலான முதலாவது இருபதுக்கு 20 கிரிக்கெட் போட்டி நடைபெறவுள்ளது.
+
+அதன்படி, போட்டியை காண டிக்கெட் வாங்க வருவதை தவிர்க்குமாறு விளையாட்டு ரசிகர்களிடம் கிரிக்கெட் வாரியம் அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+
+இதேவேளை, தம்புள்ளை விளையாட்டு மைதானத்திற்கு அருகாமையில் இன்று வியாழக்கிழமை (15)  அதிகளவான மக்கள் போட்டிக்கான டிக்கெட்டுகளை பெறுவதற்காக நீண்ட வரிசையில் காத்திருந்ததாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/ea1ef8b5.json)
+
+---
+
+### Atickened OIC's work in Kalpitiya
 
 *2024-02-15 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193427) · `si`
 
-කාන්තා පොලිස් කොස්තාපල්වරියකට ලිංගික අතවර සිදුකළ බවට චෝදනා එල්ලවූ පොලිස් ස්ථානාධිපතිවරයාගේ වැඩ තහනම් කර තිබේ.
+The OIC of the OIC has been suspended for sexually abusing women's constable.
 
-පොලිස් කොමිසමේ තීරණයකට අනුව එලෙස කල්පිටිය පොලීසියේ ස්ථානාධිපතිවරයාගේ වැඩ තහනම් කර ඇත.
+The OIC of the Kalpitiya Police has been suspended as per the decision of the Police Commission.
 
-මීට පෙර ඔහු අධිකරණයට ඉදිරිපත් වීමෙන් පසු ඇප නියම කෙරුණු අතර නඩුව මාර්තු මස 06 වනදා කැඳවීමට නියම කෙරුණි.
+Earlier, he was bailed after he was produced in court and the case was taken to be called on March 6.
 
 ◼️
 
 [Data](articles/ef8a6403.json)
+
+[Extended Data](ext_articles/ef8a6403.ext.json)
 
 ---
 
@@ -68,6 +120,8 @@ This time, the Board will collect details of the applicant’s family members in
 
 [Data](articles/928f1403.json)
 
+[Extended Data](ext_articles/928f1403.ext.json)
+
 ---
 
 ### Kalpitiya OIC interdicted over alleged sexual harassment of Woman Constable
@@ -84,23 +138,29 @@ The officer-in-charge (OIC) of the Kalpitiya Police Station has been interdicted
 
 ---
 
-### දත්ත මකා දැමීම ගැන ඇමති අතට ලැබුණු තොරතුරු
+### The information received by the minister's information about deleting data
 
 *2024-02-15 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193426) · `si`
 
-ලංකා ඛනිජ තෙල් තොග ගබඩා පර්යන්ත සමාගමේ ඉන්ධන ගබඩා කිරීම සහ ඉන්ධන බෙදාහැරීම් සම්බන්ධයෙන් සිදුකළ වෝහාරික විගණනයේ හඳුනාගත් මුලික කරුණු අද (15) සවස තමා වෙත ලැබුණු බව බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+Energy Minister Kanchana Wijesekara says he received the basic issues identified by the Fuel storage of Ceylon Petroleum Storage Terminal and the fuel distribution of fuel distributions.
 
-අමාත්‍යවරයා සඳහන් කරන්නේ 2022 වසරේ තමා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට සිදුකළ පැමිණිල්ලකට අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මෙම වෝහාරික පරීක්ෂණය සිදුකරන ලෙස විදුලිබල හා බලශක්ති අමාත්‍යාංශයට දන්වා තිබුණි බවය.
+The Minister said that the Ministry of Power and Energy had informed the Ministry of Power and Energy to conduct this wheat examination by the CID by 2022.
 
-ඒ අනුව  KPMG නම් අන්තර්ජාතික විගණන ආයතනය සහ ලංකා තෙල් ගබඩා පර්යන්තයේ අභ්‍යන්තර විගණන අංශය විසින් අදාළ පරීක්ෂණය සිදුකර තිබුණි.
+Accordingly, the Internal Audit Division of the International Audit Institute and the Ceylon Oil Storage Terminal was carried out by KPMG.
 
-ඒ අනුව, 2010 වසරේ සිට තොරතුරු දත්ත ලක්ෂ 13ක් ප්‍රධාන පද්ධති යෙදවුමෙන් මකා දමා හෝ වෙනස්කර ඇති බවද, ඉන් බහුතරය 2022 වසරේදී ඉන්ධන අර්බුදය ඇතිවූ අවස්ථාවේ සිදුවී ඇති බවද වාර්තා වෙයි.
+Accordingly, the information data has been deleted or changed from 2010, the majority of information has been deleted or the majority has occurred when the fuel crisis occurred in 2022.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට 2022 වසරේ සිදුකළ පැමිණිල්ලට පසුව 2023 වසර වනවිට එම දත්ත මකා දැමීම් හෝ වෙනස් කිරීම් අඩුවීමක් ඇතිවී තිබෙන බවද ඉන් සඳහන් කර තිබේ.
+The Criminal Investigation Department has reportedly caused a decrease in data or changes by 2023 after 2023.
+
+It is said that the fuel stocks of Rs. 28 billion as the loss of Rs.
+
+It is observed that operations on old circulars and regulations are observed and there is insufficient data and information.
 
 ...
 
 [Data](articles/281a0d7b.json)
+
+[Extended Data](ext_articles/281a0d7b.ext.json)
 
 ---
 
@@ -119,6 +179,8 @@ Japan halted loan funded projects after Sri Lanka defaulted based on their rules
 ◼️
 
 [Data](articles/6364e30d.json)
+
+[Extended Data](ext_articles/6364e30d.ext.json)
 
 ---
 
@@ -146,6 +208,8 @@ A bond maturing on 01.07.2032 closed at 12.50/70 percent up from 12.35/60 percen
 
 [Data](articles/d70f9a17.json)
 
+[Extended Data](ext_articles/d70f9a17.ext.json)
+
 ---
 
 ### Doctor remanded for selling narcotic tablets
@@ -172,27 +236,33 @@ However, the lawyers appearing for the suspect submitted that he had kept the st
 
 ---
 
-### මස්කෙළිය රත්කළ ගුටිකෙළිය
+### Maskeliya heated suit
 
 *2024-02-15 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193425) · `si`
 
-පෞද්ගලික බස් රථ රියදුරෙකුට සහ කොන්දොස්තරවරයෙකුට පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් ශ්‍රී පාද වන්දනාවේ පැමිණි තරුණයින් පිරිසක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested a group of youths in Sri Pada pilgrimage regarding the assault on a private bus driver and conductor.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 22ත් 25ත් අතරේ පසුවන ගාල්ල ප්‍රදේශයේ පදිංචි තරුණයින් පිරිසකි.
+The arrested persons have been arrested by a group of youths in Galle where the age of 22 and 25.
 
-මෙම තරුණයින් පිරිස ගාල්ල ප්‍රදේශයේ සිට ශ්‍රී පාද වන්දනාව සඳහා පැමිණ ඊයේ දින නැවත සිය නිවෙස් බලා යාම සඳහා හැටන් දුම්රිය ස්ථානය වෙත ලංගම බස් රථයකින් ගමන්කරමින් සිට ඇත.
+The youths were traveling from the Galle to Sri Pada pillowing from the Galle area from the Galle area and returned from a SLTB bus to the Hatton Railway Station.
 
-එහිදී එම ලංගම බස් රථයට පසුපසින් පැමිණි මස්කෙළිය සිට හැටන් දක්වා ධාවනය වන පෞද්ගලික බස් මගී ප්‍රවාහන බස් රථයක් එය පසුකර යාමට උත්සාහ දරා ඇත.
+A private bus passenger bus, which was traveling to the SLTB bus, has attempted to pass it through it.
 
-ඒ අතරතුරදී පෞද්ගලික බස් රථයේ කොන්දොස්තරවරයා කුඩා මස්කෙළිය ප්‍රදේශයේදී ලංගම බස් රථයට ගල් ප්‍රහාරයක් එල්ලකර ඇති අතර ඉන් ලංගම බස් රථයේ පසුපස වීදුරුව බිඳී ගොස් තිබේ.
+In the meantime, the private bus on the SLTB bus was attacked in the small Maskeliya area.
 
-එම ගල් ප්‍රහාරයත් සමග මෙලෙස අත්අඩංගුවට ගෙන ඇති තරුණයින් පිරිස අතර සිටි තරුණයෙකුද තුවාල ලබා ඇති බව මේ වනවිට වාර්තා වී ඇත.
+A young man who was arrested along with the stone was also wounded.
 
-ඒ සමගම බස් රථයෙන් බැස අදාළ තරුණයින් පිරිස පසුපසින් පැමිණි බස් රථයේ රියදුරුට සහ කොන්දොස්තරවරයාට පහරදී ඇත.
+At the same time, the bus and the bus driver and the conductor were assaulted by the bus.
 
-...
+The driver and conductor of the private bus was injured in the attack have been admitted to the Dickhya Base Hospital for treatment.
+
+The suspects are to be produced before the Driver and Conductor of the Private Buses and the Conduct of the Private Buses.
+
+◼️
 
 [Data](articles/82a6b940.json)
+
+[Extended Data](ext_articles/82a6b940.ext.json)
 
 ---
 
@@ -219,6 +289,8 @@ Dilmah Ceylon Tea Company Plc which announced a dividend of 10.00 rupees per sha
 ...
 
 [Data](articles/d38dd35c.json)
+
+[Extended Data](ext_articles/d38dd35c.ext.json)
 
 ---
 
@@ -388,37 +460,41 @@ Sri Lanka vs. Afghanistan T20 matches will be played on February 17, 19, and 21 
 
 ---
 
-### අස්වැසුම දෙවැනි අදියරේ අයදුම්පත් බාරගැනීම මාර්තු 15 දක්වා
+### Relating to the second phase of the revenue to March 15
 
 *2024-02-15 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193424) · `si`
 
-අස්වැසුම දෙවැනි අදියර සඳහා අයදුම්පත් බාරගැනීම අද (15) සිට මාර්තු 15 වනදා දක්වා සිදු කෙරෙන බව සුබසාධක ප්‍රතිලාභ මණ්ඩලයේ සභාපති ජයන්ත විජේරත්න මහතා පවසයි.
+The Welfare Board Chairman Jayantha Wijeratne says that the acceptance of applications for the second phase of the revenue will be held from today (15) to March 15.
 
-අස්වැසුම පළමු අදියර සඳහා අයදුම්පත් යොමු කර නොමැති පවුල්වලට මෙන්ම අයදුම්පත් ඉදිරිපත් කළ නමුත් නිවාස තොරතුරු සංගණනයට ලක් නොවූ ඕනෑම පුද්ගලයකුට දෙවැනි අදියර සඳහා අයදුම් කිරීමේ අවස්ථාව හිමිවන බව සඳහන් ය.
+The revenue was submitted to the first phase of the revenue and the applications, but the housing information would be applied to the second phase.
 
-අස්වැසුම දෙවැනි අදියරේදී පවුල් ලක්ෂ 24කට ප්‍රතිලාභ ලබාදීමට අපේක්ෂා කරන අතර එහිදී හැකිතාක් සත්‍ය හා නිවැරදි දත්ත ඇතුළත් අයදුම්පත් ඉදිරිපත් කිරීමෙන් ප්‍රතිලාභ ලබාදීමේ ක්‍රියාවලිය කඩිනම් කළ හැකි බව සුබසාධක ප්‍රතිලාභ මණ්ඩලයේ සභාපතිවරයා වැඩිදුරටත් සදහන් කරයි.
+The Welfare Board Chairman added that the relief is expected to benefit from the second phase of the relief.
 
-දෙවැනි අදියර සඳහා අයදුම්පත් බාරගැනීම පිළිබඳ දැනුවත් කිරීම සඳහා අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් සුබසාධක ප්‍රතිලාභ මණ්ඩලයේ සභාපති ජයන්ත විජේරත්න මහතා මෙම අදහස් පළ කළේය.
+Speaking at a media briefing today, the Welfare Board Chairman Jayantha Wijeratne was speaking at a media briefing held today.
 
 ◼️
 
 [Data](articles/20873ed3.json)
 
+[Extended Data](ext_articles/20873ed3.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩාලෝලීන්ට විශේෂ දැනුම්දීමක්
+### Special notification for Sri Lankan cricket players
 
 *2024-02-15 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193423) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර දඹුල්ලේදී පැවැත්වෙන පළමු විස්සයි විස්ස ක්‍රිකට් තරගයේ ප්‍රවේශපත්‍ර සියල්ල මේ වනවිට විකිණී අවසන් බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පවසයි.
+All tickets of the first Twenty Twenty Twenty Twenty Twenty Twenty20 match between Sri Lanka and Afghanistan have been constructed at Dambulla.
 
-ඒ අනුව ක්‍රිකට් ආයතනය නිවේදනයක් නිකුත් කරමින් ක්‍රීඩා ලෝලීන්ගෙන් ඉල්ලා සිටින්නේ තරගය නැරඹීම සඳහා ප්‍රවේශපත්‍ර ගැනීම සඳහා පැමිණීමෙන් වළකින ලෙසටය.
+Accordingly, SLC has issued an announcement and urges the sports laorin to take tickets to view the match.
 
-මේ අතර ප්‍රවේශපත්‍ර ලබාගැනීම සඳහා විශාල පිරිසක් අද දිනයේ ද දඹුල්ල ක්‍රීඩාංගණය අසළ පෝලිම්වල සිටිනු දැකගත හැකිවිය.
+Meanwhile, a large number of tickets have been found near the Dambulla Stadium.
 
 ◼️
 
 [Data](articles/17c17a7b.json)
+
+[Extended Data](ext_articles/17c17a7b.ext.json)
 
 ---
 
@@ -439,6 +515,8 @@ The audit was done based on a complaint made by Sri Lanka’s Minister of Power 
 ...
 
 [Data](articles/aed45ea8.json)
+
+[Extended Data](ext_articles/aed45ea8.ext.json)
 
 ---
 
@@ -573,6 +651,8 @@ All five companies achieved the full score for transparency in corporate reporti
 ...
 
 [Data](articles/61684cb4.json)
+
+[Extended Data](ext_articles/61684cb4.ext.json)
 
 ---
 
@@ -832,6 +912,26 @@ Sirisena expressed his gratitude to the United States for the continued support 
 
 ---
 
+### අවුරුදු 5කට පසුව දඹුල්ලට එන ක්‍රිකට් බලන්න දැනටමත් පෝලිම්
+
+*2024-02-15 14:58:02* · [`adalk`](https://www.ada.lk/sports/අවුරුදු-5කට-පසුව-දඹුල්ලට-එන-ක්‍රිකට්-බලන්න-දැනටමත්-පෝලිම්/9-408109) · `si`
+
+වසර පහකට පසුව  දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ ජාත්‍යන්තර තරගයක් පැවැත්වෙන  නිසාවෙන් අතිවිශාල ජනතාවක්  ක්‍රිඩා තරගය නැරඹීම සඳහා ප්‍රවේශපත්‍ර ලබා ගැනීම සඳහා පැමිණෙමින් සිටිති.
+
+රංගිරි දඹුල්ල ක්‍රිකට් ක්‍රීඩාංගණය ඉදිරිපිට ප්‍රවේශපත්‍ර කවුළුවෙන් ප්‍රවේශපත්‍ර ලබා ගැනීම සඳහා විශාල පිරිසක් 15 දින දවස පුරා රැඳී සිටින අයුරු දැක ගැනීමට හැකි විය.
+
+කෙසේ වෙතත්  15 දින වන විට  වේශපත්‍ර අවසන් වී රුපියල් තුන්සියේ සහ දහසේ ප්‍රවේශපත්‍ර පමණක් ඉතිරි වී තිබෙන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ නිලධාරීහු පවසති.
+
+ඒම ප්‍රවේශපත්‍ර ලබාගැනීමට ද දඹුල්ල ක්‍රිකට් ක්‍රීඩාංගණයේ ඉදිරිපිට දිගු පෝලින් දක්නට තිබිණි. ක්‍රීඩා ලෝලීන් කියා සිටින්නේ සමහර විට තමන්ට තරගය නැරඹීමට අවස්ථාවක් උදා  නොවනු ඇති බවට සැක සංඛා මතුවන බවය.
+
+රංගිරි  දඹුල්ල ක්‍රිකට් ක්‍රීඩාංගලයේ සුගිය 2018 වසරේ ඔක්තෝම්බර් 13 වන දින ශ්‍රී ලංකාව සහ එංගලන්තය අතරින් පැවති තරඟයෙන් පසුව මේ මස 17 ,19, 21 යන දිනයන්හිදී ශ්‍රී ලංකා කණ්ඩායම සහ ඇෆ්ඝනිස්තාන කණ්ඩායම අතර විස්සයි විස්සේ තරග තුනක් පැවැත්වේ.
+
+...
+
+[Data](articles/504ea5bc.json)
+
+---
+
 ### Red Notification for 42 escaped
 
 *2024-02-15 14:56:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/தப்பிச்-சென்றுள்ள-42-பேருக்கு-சிவப்பு-அறிவித்தல்/52-333269) · `ta`
@@ -891,6 +991,8 @@ The meetings took place in New Delhi today (15) between Secretary, Department of
 ...
 
 [Data](articles/d8d2f50c.json)
+
+[Extended Data](ext_articles/d8d2f50c.ext.json)
 
 ---
 
@@ -973,6 +1075,22 @@ Fluo dead body found on a well adjacent to a house in the Kurunegala Police, Kur
 [Data](articles/33da338f.json)
 
 [Extended Data](ext_articles/33da338f.ext.json)
+
+---
+
+### පළාත් සභාවෙන් පොලිස් බලතල ඉවත් කිරීමට අවස්ථාවක්
+
+*2024-02-15 14:25:47* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-සභාවෙන්-පොලිස්-බලතල-ඉවත්-කිරීමට-අවස්ථාවක්/11-408105) · `si`
+
+වසර 37ක් පුරාවට මෙරට දේශප්‍රේමී ජනතාව තුල පැවති සිහිනයක් සබෑ කරමින් පළාත් සභාවලට ලබා දුන් පොලිස් බලතල ඉන් ඉවත්කිරීමට අවස්ථාව උදාවී ඇතැයි පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+
+පළාත් සභාවලින් පොලිස් බලතල ඉවත් කිරීම සඳහා උදය ගම්මන්පිල මහතා  විසින් ඉදිරිපත් කරන ලද විසිදෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ගැසට් මඟින් ප්‍රකාශයට පත් කර ඇති අතර ඒ සම්බන්දයෙන් මාධ්‍ය දැනුම්වත් කරමින් ඒ මහතා අද දින (2024.02.15) මේ බව සදහන් කර සිටියේය.
+
+"13 වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය හරහා පළාත් සභාවලට ලබා දුන් බලතලවලින් වඩාත් භයානකම බලතලය වන්නේ පොලිස් බලතලයි. එම නිසා පොලිස් බලතල පළාත් සභාවලින් ඉවත් කිරීම වසර 37ක් පුරා ජාතිකවාදීන් තුළ පැවැති දිගුකාලීන සිහිනයක්. ඒ හීනය සැබෑ කරන්න ඉතිහාසයේ ප්‍රථම වතාවට පොලිස් බලතල පළාත් සභාවලින් ඉවත් කිරීමේ 22වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය නමින් පනත් කෙටුම්පතක් ඉදිරිපත් කරන්න අපට හැකියාව ලැබුණා.
+
+...
+
+[Data](articles/459fb2a5.json)
 
 ---
 
@@ -1133,6 +1251,8 @@ The government has 99.93 percent of the shares of the company, the largest suppl
 ◼️
 
 [Data](articles/ab1c40e9.json)
+
+[Extended Data](ext_articles/ab1c40e9.ext.json)
 
 ---
 
@@ -1343,6 +1463,8 @@ The ADB funds will be disbursed through the Mahaweli Authority of Sri Lanka unde
 ...
 
 [Data](articles/775202cf.json)
+
+[Extended Data](ext_articles/775202cf.ext.json)
 
 ---
 
@@ -1909,111 +2031,5 @@ According to Sirisena's office, matters relating to bilateral affairs were discu
 [Data](articles/516757fe.json)
 
 [Extended Data](ext_articles/516757fe.ext.json)
-
----
-
-### Three hundred cock farms at village level to supply eggs to school children
-
-*2024-02-15 11:33:46* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-දරුවන්ගේ-දිවා-ආහාරයට-බිත්තර-සැපයීමට-ගම්-මට්ටමෙන්-කුකුළ්-ගොවිපොළවල්-තුන්සිය-දෙකක්/11-408098) · `si`
-
-The Department of Uva Provincial Department (DM Siriwardena) said that the Department of Uva Provincial Livestock was commenced at the village level to supply eggs to the lunch for children in schools in the Moneragala district.
-
-Facilities will be established in the district with 302 families in the district on the financial provisions of the World Food Organization.
-
-55 chicks will be given to one family.
-
-The necessary financial provisions and equipment will be provided to install a 150 square feet and provides chicken foods free of charge to six months.
-
-The remaining eggs can only be salad after they have paid lunch to the suppliers who provide lunch at the nearest school.
-
-◼️
-
-[Data](articles/3f27077c.json)
-
-[Extended Data](ext_articles/3f27077c.ext.json)
-
----
-
-### Chick farms to supply eggs for school children's lunch
-
-*2024-02-15 11:33:46* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-දරුවන්ගේ-දිවා-ආහාරයට-බිත්තර-සැපයීමට-කුකුළ්-ගොවිපොළවල්/11-408098) · `si`
-
-The Department of Uva Provincial Department (DM Siriwardena) said that the Department of Uva Provincial Livestock was commenced at the village level to supply eggs to the lunch for children in schools in the Moneragala district.
-
-Facilities will be established in the district with 302 families in the district on the financial provisions of the World Food Organization.
-
-55 chicks will be given to one family.
-
-The necessary financial provisions and equipment will be provided to install a 150 square feet and provides chicken foods free of charge to six months.
-
-The remaining eggs can only be salad after they have paid lunch to the suppliers who provide lunch at the nearest school.
-
-◼️
-
-[Data](articles/962a6add.json)
-
-[Extended Data](ext_articles/962a6add.ext.json)
-
----
-
-### Sri Lanka state minister to arm farmers with air rifles for monkey war
-
-*2024-02-15 11:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-minister-to-arm-farmers-with-air-rifles-for-monkey-war-151020/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Minister for Finance Ranjith Siyambalapitiya said he is giving funds for farmers in his district to acquire air rifles to battle torque monkeys.
-
-Moves to export the torque macaques (Macaca sinica) to China met with fierce resistance from animal rights activists who feared they will be eaten.
-
-Minister Siyambalapitiya had said he will not step back from the decision whatever the pressure that is brought to him.
-
-Money has been allocated to farmer organizations in the Kegalle district through his decentralized budget, he said.
-
-Torque monkeys, along with wild boar, peacocks and elephants are considered as pests by farmers who say they are attacking crops. (Colombo/Feb15/2024)
-
-◼️
-
-[Data](articles/8d03ff2e.json)
-
-[Extended Data](ext_articles/8d03ff2e.ext.json)
-
----
-
-### Sri Lanka’s Abans hopes to raise 2bn through debenture sale
-
-*2024-02-15 11:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-abans-hopes-to-raise-2bn-through-debenture-sale-151013/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Abans Plc, a consumer goods retailer, has said the company is planning to raise up to 2 billion rupees through a debenture sale.
-
-Subject to obtaining all necessary regulatory and shareholder approvals, the company will initially issue ten million rated, unsecured, senior, redeemable debentures of hundred (LKR 100.00) each.
-
-“With the option to issue a further ten million of the said debentures in the event of an oversubscription,” their company secretaries said in a Colombo Stock Exchange filing.
-
-“As such a maximum amount of Rupees Two Billion (LKR 2,000,000,000) would be raised by the issue of a maximum of Twenty Million (20,000,000) Debentures each with a Par Value of LKR 100/-.”
-
-...
-
-[Data](articles/a5fb784f.json)
-
-[Extended Data](ext_articles/a5fb784f.ext.json)
-
----
-
-### The rectum fee is up to Rs.
-
-*2024-02-15 11:23:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலசலகூட-கட்டணம்-ரூ-50-ஆக-உயர்வு/175-333249) · `ta`
-
-Passengers say that the fee charged to the users of the public sewage in Bestian Mawatha has been increased by 50 rupees.
-
-The public transport commission has been constructed by the National Transport Commission on the land belonging to the Sri Lanka Railway Department.
-
-In this regard, the Director of the National Transport Commission said:. Maintenance work has been handed over on the basis of a contract with the external parties.
-
-Based on the occasional complaints from travelers, we have taken appropriate action on the price hike. I am not aware of this price rise, and I am in the process of detecting this. He said.
-
-◼️
-
-[Data](articles/34f2969f.json)
-
-[Extended Data](ext_articles/34f2969f.ext.json)
 
 ---

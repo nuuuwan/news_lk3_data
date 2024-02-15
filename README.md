@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 16:33:10**
+As of **2024-02-15 16:49:17**
 
 ## Newspaper Stats
 
-*Scraped **7,254** Articles*
+*Scraped **7,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 620
 adaderanalk | 890
 tamilmirrorlk | 892
 virakesarilk | 943
-adaderanasinhalalk | 1,022
+adaderanasinhalalk | 1,023
 dailymirrorlk | 1,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,251 (100.0%) of 7,254 articles have been extended.
+7,255 (100.0%) of 7,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### MP Gunatilleke Rajapaksa hospitalized
+
+*2024-02-15 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193421) · `si`
+
+Parliamentarian Gunatilleke Rajapaksa has been hospitalized due to a sudden illness.
+
+During the Kandy District Coordinating meeting, the time was hospitalized.
+
+◼️
+
+[Data](articles/c428a66d.json)
+
+[Extended Data](ext_articles/c428a66d.ext.json)
+
+---
 
 ### Japan slips into a recession and loses its spot as the world’s third-largest economy
 
@@ -47,6 +63,8 @@ A weaker Japanese yen was a key factor in the drop to fourth place, since compar
 ...
 
 [Data](articles/78f3f781.json)
+
+[Extended Data](ext_articles/78f3f781.ext.json)
 
 ---
 
@@ -115,6 +133,8 @@ Accordingly, kidney patients and disabled persons’ allowances will be raised f
 ...
 
 [Data](articles/dec02f21.json)
+
+[Extended Data](ext_articles/dec02f21.ext.json)
 
 ---
 
@@ -241,6 +261,8 @@ Sirisena expressed his gratitude to the United States for the continued support 
 ◼️
 
 [Data](articles/2e3f629e.json)
+
+[Extended Data](ext_articles/2e3f629e.ext.json)
 
 ---
 
@@ -2045,33 +2067,5 @@ The accident had occurred when the accident had taken place from Jaffna to Kanka
 [Data](articles/99919a43.json)
 
 [Extended Data](ext_articles/99919a43.ext.json)
-
----
-
-### Rohit assigned leadership responsibility
-
-*2024-02-15 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193404) · `si`
-
-The Indian Cricket Council (BCC)) has stated that Rohit has been given the responsibility of leading the Indian team for the 2024 T20 World Cup.
-
-Speaking to the media at a function in Rajkot, he has said.
-
-This year, Rohit Sharma, who led the 2022 World Cup, is the responsibility of the time.
-
-The tournament in Australia was defeated before England in the semi-finals.
-
-Thereafter, Rohit Sharma did not participate in T20 competitions, and he has not played a single T20 match in 2023.
-
-But in January 2024, he was convened for the leadership of the T20 T20 tournament with Afghanistan.
-
-Rohit was a world of the world with 20 and 20 centuries recorded at the tournament.
-
-Earlier, the Indian Twenty20 team was led by Suriyadu Yadav.
-
-◼️
-
-[Data](articles/8e4a6cf3.json)
-
-[Extended Data](ext_articles/8e4a6cf3.ext.json)
 
 ---

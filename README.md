@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 04:17:24**
+As of **2024-02-16 04:33:07**
 
 ## Newspaper Stats
 
-*Scraped **7,346** Articles*
+*Scraped **7,348** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 82
+colombotelegraphcom | 84
 bbccomsinhala | 96
 dbsjeyarajcom | 150
 newsfirstlk | 363
@@ -26,29 +26,31 @@ dailymirrorlk | 1,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,345 (100.0%) of 7,346 articles have been extended.
+7,346 (100.0%) of 7,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### விவசாயிகளின் பிரச்சினை தொடர்பில் ஜனாதிபதி ஆராய்வு
+### President's review on the issue of farmers
 
 *2024-02-16 03:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளின்-பிரச்சினை-தொடர்பில்-ஜனாதிபதி-ஆராய்வு/175-333297) · `ta`
 
-மஹா கனதராவ குளத்தை நீராதாரமாக கொண்ட அனுராதபுரம் நீர் வேலைத் திட்டத்தை ஜனாதிபதி ரணில் விக்கிரமசிங்க நேற்று மக்கள் பாவனைக்காக கையளித்தார்.
+President Ranil Wickremesinghe yesterday handed over the Anuradhapura Water Program to the people's use of the Maha Kanadarawa pond.
 
-அத்துடன், அதனை அண்மித்த பகுதிகளில் வசிக்கும் மக்கள் எதிர்கொண்டிருக்கும் பிரச்சினைகள் தொடர்பிலும் ஜனாதிபதி ஆராய்தார்.
+The President also examined the problems faced by the people living in the recent areas.
 
-இதன்போது விவசாயிகள் ஜனாதிபதியிடம் தங்களது பிரச்சினைகளை நேரடியாக கூறினர். அதற்கு ஜனாதிபதி சாதகமாக பதிலளித்தார்.
+Farmers told the president directly on their problems. The president responded positively.
 
-வேலைத் திட்டத்திற்கான எதிர்ப்பு தொடர்பில் கவனம் செலுத்திய ஜனாதிபதி, நீர்த்திட்டத்தின் நிர்மாணப் பணிகள் தற்போது நிறைவடைந்துள்ளதால், எதிர்ப்புக்களை கைவிடுமாறும் எதிர்கால நடவடிக்கைகள் குறித்து சிந்துக்குமாறும் கேட்டுக்கொண்டார்.
+Focusing on the opposition to the program, the president urged the government to abandon the protests and sind on future measures as the construction work of the dilution project is currently completed.
 
-அது தொடர்பிலான மக்களின் யோசனைகளை இரண்டு வாரங்களுக்குள் பெற்றுத்தருமாறும், அவற்றில் சாதகமான விடயங்களை விரைவில் நடைமுறைப்படுத்த எதிர்பார்க்கிறேன் என்றும் ஜனாதிபதி தெரிவித்தார். (a)
+The President said that the people's ideas will be obtained within two weeks and I am looking forward to implementing the favorable issues soon.. (A)
 
 ◼️
 
 [Data](articles/c0c4f9c5.json)
+
+[Extended Data](ext_articles/c0c4f9c5.ext.json)
 
 ---
 
@@ -488,6 +490,18 @@ Udaya Kammanpila, the leader of the Pivithuru JHU, presented a personal motion i
 
 ---
 
+### In Tamil Nadu Even As BJP Moves In Spurts, I.N.D.I.A. Wilts Away
+
+*2024-02-15 21:20:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-tamil-nadu-even-as-bjp-moves-in-spurts-i-n-d-i-a-wilts-away/) · `en`
+
+Hardly ever has a single month made such convulsive changes in India, as in the religious and political landmarks of January 2024. The New Year itself was heralded by the inauguration of Maharishi Valkimi International Airport and the eye-catching Bus Station, both by Prime Minister Modi preceded by his lengthy Road Show. Birth of January saw the inauguration of the new Trichy International Airport. It was an occasion to announce a Trichy Development programme for Rs 198 billion. A visit to Sri Rangam Temple by Modi was a religious highlight.
+
+...
+
+[Data](articles/fe178bbc.json)
+
+---
+
 ### Keheliya says he suffers from sleeping slumber at night
 
 *2024-02-15 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193436) · `si`
@@ -553,6 +567,16 @@ Preliminary police investigations have revealed that the crime has been carried 
 [Data](articles/db781864.json)
 
 [Extended Data](ext_articles/db781864.ext.json)
+
+---
+
+### Myths & Delusions Of IHP’s ‘Sri Lanka Opinion Tracker Survey’
+
+*2024-02-15 21:01:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/myths-delusions-of-ihps-sri-lanka-opinion-tracker-survey/) · `en`
+
+...
+
+[Data](articles/54c271d7.json)
 
 ---
 
@@ -2053,41 +2077,5 @@ The farmers were prepared to protested a protest to objection to the declaration
 [Data](articles/3d3f1842.json)
 
 [Extended Data](ext_articles/3d3f1842.ext.json)
-
----
-
-### A gang to extort police
-
-*2024-02-15 14:35:29* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-වෙසින්-කප්පම්-ගන්න-කල්ලියක්/11-408107) · `si`
-
-Moragahahena Police say investigations into the arrest of an organized gang which was arrested in a car derived from a car in the Panadura Walana Central Anti-Corruption Association.
-
-A private sector youth to the Department of Examinations at the Pelagaham Talgahawila to the house was to be taken to the house and drank the car and drank water and decorate the delegation.We have shown two identity cards to the car and the other person's backing on the back of the car, what does it mean to find the ice drugs?The police say that he is willing to be saved from God
-
-According to the police, he had said that he had come to the Department of Examinations, asking for his own bank accounts, asking the executive office from Tharana Savahavila.
-
-"We'll get this to chief, our SSP's Reimans, who can help us to help us, and try it.
-
-The phone has been disconnected and that the person has been disconnected and that he will have no choice but to arrest the law and that he will have to arrest him.
-
-...
-
-[Data](articles/29b761d3.json)
-
-[Extended Data](ext_articles/29b761d3.ext.json)
-
----
-
-### This baby is the baby
-
-*2024-02-15 14:27:25* · [`adalk`](https://www.ada.lk/breaking_news/ළිදේ-දමාගිය-මේ-බිළිඳිය-කාගේදෝ/11-408106) · `si`
-
-Fluo dead body found on a well adjacent to a house in the Kurunegala Police, Kurunegala. The body body is a body of a girl and is placed at the morgue morgue of the Koanor.. One (16) was discovered by who had not been found by the commitment, he was found and said in a statement today.
-
-◼️
-
-[Data](articles/33da338f.json)
-
-[Extended Data](ext_articles/33da338f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 21:17:40**
+As of **2024-02-15 21:32:53**
 
 ## Newspaper Stats
 
-*Scraped **7,315** Articles*
+*Scraped **7,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 376
 economynextcom | 386
 dailyftlk | 389
-adalk | 628
+adalk | 629
 adaderanalk | 894
 tamilmirrorlk | 896
 virakesarilk | 953
-adaderanasinhalalk | 1,033
+adaderanasinhalalk | 1,034
 dailymirrorlk | 1,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,312 (100.0%) of 7,315 articles have been extended.
+7,315 (100.0%) of 7,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### විරෝධය මැද ජල ව්‍යාපෘතිය විවෘත කළ ජනපති කී කතාව
+
+*2024-02-15 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193433) · `si`
+
+ජයිකා ආයතනයේ මූල්‍ය සහාය ඇතිව ක්‍රියාත්මක වූ අනුරාධපුර උතුර ජල සම්පාදන ව්‍යාපෘතියේ පළමු අදියර විවෘත කිරීමේ උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද පැවැත්වුණේ මහකනදරාව ජල පවිත්‍රාගාරයේදීය.
+
+කෙසේවෙතත් ප්‍රදේශවාසීන් පිරිසක් උත්සව භුමිය ඉදිරිපිට විරෝධතාවයක නිරත වුණේ ව්‍යාපෘතිය හේතුවෙන් තම ප්‍රදේශයේ ජල හිඟයක් ඇතිවන බවට චෝදනා කරමිනි.
+
+විරෝධතාවට සහභාගී වූ පිරිස් ඉවත් කිරීමට යාමේදී පොලීසිය සහ විරෝධතාකරුවන් අතර උණුසුම් තත්ත්වයක් හටගත්තේය.
+
+අනතුරුව මෙම ගැටලුව පිළිබඳ ජනාධිපතිවරයා සමග සාකච්ඡා කිරීම සඳහා ගම්වාසීන් පිරිසකට අවස්ථාව හිමිවිය.
+
+...
+
+[Data](articles/cb24acd6.json)
+
+---
 
 ### Better to abolish executive presidency; I have already enjoyed it: Mahinda
 
@@ -49,6 +67,8 @@ Answering a question raised by a journalist about the political situation in the
 ...
 
 [Data](articles/c0432e71.json)
+
+[Extended Data](ext_articles/c0432e71.ext.json)
 
 ---
 
@@ -98,17 +118,19 @@ The police urge the drivers to run traffic to drive traffic with winding and slo
 
 ---
 
-### பெண் பொலிஸ் உத்தியோகத்தருடன் பாலியல் சேஷ்டை : கல்பிட்டி பொலிஸ் நிலைய பொறுப்பதிகாரி பணிநீக்கம்
+### Kalpitiya Police Station
 
 *2024-02-15 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176481) · `ta`
 
-பெண் பொலிஸ் கான்ஸ்டபிளிடம் பாலியல் சேஷ்டை புரிந்த குற்றச்சாட்டின் பேரில் கல்பிட்டி  பொலிஸ் நிலைய பொறுப்பதிகாரி பணிநீக்கம் செய்யப்பட்டுள்ளார்.
+The Kalpitiya Police Station Superintendent has been fired on charges of sexually abusing a woman police constable.
 
-பொலிஸ் ஆணைக்குழுவின் தீர்மானத்தின் பிரகாரம் கல்பிட்டி பொலிஸ் நிலைய பொறுப்பதிகாரி பணி நீக்கம் செய்யப்பட்டுள்ளார்.
+The Kalpitiya Police Station has been sacked as per the resolution of the Police Commission.
 
 ◼️
 
 [Data](articles/bdffe41d.json)
+
+[Extended Data](ext_articles/bdffe41d.ext.json)
 
 ---
 
@@ -127,6 +149,22 @@ Officers confiscated national identity cards, driver's license and mobile phones
 [Data](articles/0000808a.json)
 
 [Extended Data](ext_articles/0000808a.ext.json)
+
+---
+
+### මම භුක්ති විඳලා ඉවරයි අහෝසි කළත් හොඳයි
+
+*2024-02-15 19:21:55* · [`adalk`](https://www.ada.lk/breaking_news/මම-භුක්ති-විඳලා-ඉවරයි-අහෝසි-කළත්-හොඳයි/11-408113) · `si`
+
+විධායක ජනපතිධුරය තමන් භුක්ති විද අවසන් බවත් එය අහෝසි කිරීම හොඳ දෙයක් බවත් හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා කියයි. වැඩසටහනකින් අනතුරුව මාධ්‍ය යොමුකළ ප්‍රශ්නවලට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+
+ඔව් ඔව්. මම හිටපු එකනේ. මම දැන් භුක්ති විඳලා ඉවරයි. හැබැයි ඉතින් අහෝසි කළෝත් හොඳයි. අද රටම කියනවානේ ඒක නැති කරන්න කියලා.
+
+මොන මැතිවරණය තිබුණත් අපි දිනනවා. ජනපතිවරණය වුණත් අපේ අපේක්ෂකයා දිනනවා. මහ මැතිවරණයේ අපේ අපේක්ෂකයෝ දිනනවා.
+
+◼️
+
+[Data](articles/8ff356fe.json)
 
 ---
 
@@ -2019,53 +2057,5 @@ Public sewes have been constructed through the Sri Lanka Transport Board, which 
 [Data](articles/b96beb55.json)
 
 [Extended Data](ext_articles/b96beb55.ext.json)
-
----
-
-### There is no concern for India's expansionism - the JVP leader's comment - the explanation of the reason for India's calling for itself
-
-*2024-02-15 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176431) · `ta`
-
-JVP leader Anura Kumaratisanayake has said that India has called on Sri Lanka because of its concern that it can be used to make India the security of India.
-
-The JVP leader, who said the reason for his invitation to India was, emphasized the JVP's commitment to the national security and global politics.
-
-Anura Kumaradisanayake, who has commented on the reason for India to call its party, said that India may have called on Sri Lanka.
-
-He has accepted that India's invitation to the JVP is a change from traditional activities.
-
-He added that India is concerned about the use of Sri Lanka against India's geopolitical interests.
-
-He said that the JVP would not have a polarized organization and prioritizes the needs of the people and that the JVP is ready to work with any nation.
-
-For Sri Lanka and India;He also stated that the JVP leader and international political circumstances have changed significantly.
-
-...
-
-[Data](articles/9c466125.json)
-
-[Extended Data](ext_articles/9c466125.ext.json)
-
----
-
-### “JICA” president meets president
-
-*2024-02-15 12:09:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/JICA-தலைவர்-ஜனாதிபதியுடன்-சந்திப்பு/175-333253) · `ta`
-
-Dr. Tanaka Akihiko, Chairman of the Japanese International Cooperation Organization (JICA), met President Ranil Wickremesinghe on Wednesday (14).
-
-During the meeting, Dr. Akihiko thanked President Wickremesinghe's commitment to the economic reform program and acknowledged its challenging character.
-
-Responding to this, President Wickremesinghe emphasized his attention to ensuring that investment projects, including the expansion of BIA, LRT and the central highway, have been rapidly recovering.
-
-During the economic crisis, the President praised Sri Lanka for the continued support of the Japanese government and JICA.
-
-Also, President Wickremesinghe was also present at the meeting with Senior Advisor on the National Security and President of the President Sagala Ratnayake and International Affairs Director Dinuk Colombage.
-
-◼️
-
-[Data](articles/f195ffe6.json)
-
-[Extended Data](ext_articles/f195ffe6.ext.json)
 
 ---

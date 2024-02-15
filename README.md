@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 15:32:47**
+As of **2024-02-15 15:51:20**
 
 ## Newspaper Stats
 
-*Scraped **7,244** Articles*
+*Scraped **7,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,136 @@ newsfirstlk | 363
 economynextcom | 375
 islandlk | 376
 dailyftlk | 389
-adalk | 619
+adalk | 620
 adaderanalk | 887
 tamilmirrorlk | 892
-virakesarilk | 939
+virakesarilk | 941
 adaderanasinhalalk | 1,021
-dailymirrorlk | 1,057
+dailymirrorlk | 1,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,242 (100.0%) of 7,244 articles have been extended.
+7,244 (99.9%) of 7,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### பனிக்கூழில் பாயமுடியாது தவித்த தவளை
+### கட்டுப்பாட்டை இழந்த  மோட்டார் சைக்கிள் மின்கம்பதில் மோதி  இளைஞர் உயிரிழப்பு!
+
+*2024-02-15 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176450) · `ta`
+
+களுத்துறை வடக்கு பொலிஸ் பிரிவுக்கு உட்பட்ட மஹதுவேகம  பிரதேசத்தில் மோட்டார் சைக்கிளில் பயணித்த இளைஞர்  மின்கம்பத்தில் மோதி உயிரிழந்துள்ளார்.
+
+குறித்த இளைஞர் தனது வீட்டிலிருந்து அவர் வேலை செய்து கொண்டிருக்கும் கடைக்கு மோட்டார் சைக்கிளில் சென்று கொண்டிருந்தபோது  வீதியிலுள்ள மின்கம்பத்தில் மோதி பலத்த காயமடைந்து சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+
+மோட்டார் சைக்கிளை செலுத்தியவருக்கு வேகத்தை கட்டுப்படுத்த முடியாமல் போனதையடுத்தே விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவித்தனர். உயிரிழந்தவர் 25 வயதான கிஹான் மதுசங்க லக்மால் என்பவராவர்.
+
+◼️
+
+[Data](articles/af700332.json)
+
+---
+
+### Interim ban on holding national conference of Sri Lanka Tamil National Party
+
+*2024-02-15 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176446) · `ta`
+
+The Trincomalee District Court today issued an interim injunction issued by the Trincomalee District Court not to hold the conference for two weeks as the Sri Lanka Tamil National Party's conference was held on the 19th.
+
+The interim order has been issued for 14 days when it was taken up today in the presence of Ganesarajah in the presence of Trincomalee District Judge Manikavasakar Ganesarajah.
+
+President's Attorney Jeffrey Alagaratnam and Attorney -at -Law Panthan appeared with Aishwarya Sivakumar's registered lawyer.
+
+The argument was made that the General Assembly meetings held on the 21st and 27th were contrary to the law and invalid.
+
+The argument, therefore, was proposed that the choices made at the two General Assembly meetings were contrary to the law.
+
+It was also stated in the court that the meeting was legal as the members of the Tamil National Party (TNA) had voted during the election of the General Assembly.
+
+...
+
+[Data](articles/f41826cc.json)
+
+[Extended Data](ext_articles/f41826cc.ext.json)
+
+---
+
+### உத்தேச ஒலிபரப்பு ஒழுங்குபடுத்தல் ஆணைக்குழு சட்டமூலம் - எதிர்கட்சி கடும் அதிருப்தி
+
+*2024-02-15 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176448) · `ta`
+
+இலங்கை அரசாங்கத்தின் உத்தேச ஒலிபரப்பு ஒழுங்குபடுத்தல் ஆணைக்குழு சட்டமூலம் குறித்து எதிர்கட்சி கடும் எதிர்ப்பை வெளியிட்டுள்ளது.
+
+அரசாங்கத்தின் இந்த சட்டமூலத்தினால்  ஊடக சுதந்திரம் கட்டுப்படுத்தப்படலாம்  என ஐக்கிய மக்கள் சக்தி அச்சம் வெளியிட்டுள்ளது.
+
+ஐக்கியமக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் ஹர்ச டி சில்வா உத்தேச சட்டமூலம் குறித்து  அவநம்பிக்கை வெளியிட்டுள்ளார்.
+
+இந்த சட்டமூலத்தினால் நிகழ்நிலை மற்றும் இலத்திரனியல் ஊடகங்கள் கட்டுப்படுத்தப்படும் சூழ்நிலை உருவாகலாம் எனஅவர் தெரிவித்துள்ளார்.
+
+நிகழ்நிலை பாதுகாப்பு சட்டத்தில் அரசாங்கம் திருத்தங்களை மேற்கொள்ளவுள்ளமை குறித்து  நம்பிக்கையின்மையை வெளியிட்டுள்ள ஹர்சடிசில்வா சமூக ஊடகங்களை ஒடுக்குவதே இதன் நோக்கம் எனவும் குறிப்பிட்டுள்ளார்.
+
+இலங்கை அரசாங்கத்தின் உத்தேச ஒலிபரப்பு ஒழுங்குபடுத்தல் ஆணைக்குழு சட்டமூலம் குறிப்பிட்ட குழுவொன்றிற்கு தொலைக்காட்சி உரிமங்களை வழங்குவதற்கு உதவலாம் என அச்சம் வெளியாகியுள்ளது.
+
+...
+
+[Data](articles/24563391.json)
+
+---
+
+### Piss
 
 *2024-02-15 15:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பனிக்கூழில்-பாயமுடியாது-தவித்த-தவளை/71-333270) · `ta`
 
-தவளை என்றால் தாவி,தாவி பாய்ந்து கொண்டிருக்கும் சுபாவம் உடையது. எனினும், பனிக்கூழுக்குள் (ஐஸ் கிரீம்) கிடந்த தவளையொன்று பாயமுடியாது உறைந்து கிடந்த சம்பவமொன்று யாழ்ப்பாணத்தில் இடம்பெற்றுள்ளது.
+The frog means jumping and jumping. However, there is an incident where an ice cream (ice cream) is not covered in an ice cream.
 
-யாழ்ப்பாணத்தில் ஐஸ்கிரீம் விற்பனை நிலையம் ஒன்றில் விற்கப்பட்ட ஐஸ்கிரீமில் தவளை ஒன்று காணப்பட்ட சம்பவம் தொடர்பில் சுகாதார பரிசோதகர்களினால் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளது.
+Investigations have been launched by health inspectors in connection with the incident where a frog was found in an ice cream sold at an ice cream stall in Jaffna.
 
-செல்லவச்சந்நிதி முருகன் கோவிலின் சூழலில் உள்ள ஐஸ்கிரீம் விற்பனை நிலையத்தில், புதன்கிழமை (14) ஒருவர் ஐஸ்கிரீம் ஒன்றினை வாங்கிய வேளை அதனுள் தவளை ஒன்று காணப்பட்டுள்ளது.
+A frog was found in the ice cream outlet at the environment of the Murugan Temple on Wednesday (14) when a man bought an ice cream.
 
-யாழில் தற்போது அதிகளவான வெப்பமான கால நிலை நிலவுவதனால், சந்நிதி ஆலயத்திற்கு செல்வோர் அருகில் உள்ள உணவங்களில் குளிர்பானங்களையும்,ஐஸ்கிரீம் விற்பனை நிலையங்களில் ஐஸ் கிரீம்களையுமு் கொள்வனவு செய்து பருகி வருகின்றனர்.
+Due to the high temperatures of Jaffna, the people who go to the temple are buying soft drinks and ice creams in the ice cream outlets.
 
-இந்ந்நிலையில் குறித்த உணவகங்கள் மற்றும் ஐஸ்கிரீம் விற்பனை நிலையங்களின் சுகாதாரம் மற்றும் நீரின் தூய்மை என்பவை தொடர்பில் சுகாதார பரிசோதகர்கள் கவனம் செலுத்தி , சோதனை நடவடிக்கையில் ஈடுபட வேண்டுமென கோரிக்கை விடுக்கப்பட்டுள்ளது.
+In this case, health inspectors have been asked to focus on the health and water cleanliness of the restaurants and ice cream outlets.
 
 ◼️
 
 [Data](articles/8af94ade.json)
 
+[Extended Data](ext_articles/8af94ade.ext.json)
+
 ---
 
-### தப்பிச் சென்றுள்ள 42 பேருக்கு சிவப்பு அறிவித்தல்!
+### Red Notification for 42 escaped
 
 *2024-02-15 14:56:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/தப்பிச்-சென்றுள்ள-42-பேருக்கு-சிவப்பு-அறிவித்தல்/52-333269) · `ta`
 
-பல்வேறு குற்றச்செயல்கள் மற்றும் போதைப்பொருள் கடத்தலுடன் தொடர்புடைய,  நாட்டை விட்டு தப்பிச் சென்ற 42 சந்தேக நபர்களுக்கு  சர்வதேச சிவப்பு அறிவிப்பு பிறப்பிக்கப்பட்டுள்ளதாக பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தெரிவித்தார்.
+International red announcement has been issued to 42 suspects who fled the country, involved in various crimes and drug trafficking, said Inspector General of Police Deshabandu Tennakoon.
 
-சிவப்பு அறிவிப்பு விடுக்கப்பட்டுள்ள சந்தேக நபர்களை சர்வதேச பொலிஸாரின் உதவியுடன் இலங்கைக்கு அழைத்து வர நடவடிக்கை எடுக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டார்.
+He said that steps have been taken to bring the red announcements to Sri Lanka with the help of the International Police.
 
 ◼️
 
 [Data](articles/ad3fa91c.json)
+
+[Extended Data](ext_articles/ad3fa91c.ext.json)
+
+---
+
+### The President's call again!
+
+*2024-02-15 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176445) · `ta`
+
+President Ranil Wickremesinghe also said that all sides are calling for again.
+
+President Ranil Wickremesinghe said that the country could not be built politically and that all parties would unite to unite to provide a prosperous living standard for the country or for the government or the opposition.
+
+◼️
+
+[Data](articles/cfd01644.json)
+
+[Extended Data](ext_articles/cfd01644.ext.json)
 
 ---
 
@@ -100,27 +182,17 @@ A student of the Sabaragamuwa University Faculty and two students was eating at 
 
 ---
 
-### Interim ban on holding national conference of Sri Lanka Tamil National Party
+### පොලිස් වෙසින් කප්පම් ගන්න කල්ලියක්
 
-*2024-02-15 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176446) · `ta`
+*2024-02-15 14:35:29* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-වෙසින්-කප්පම්-ගන්න-කල්ලියක්/11-408107) · `si`
 
-The Trincomalee District Court today issued an interim injunction issued by the Trincomalee District Court not to hold the conference for two weeks as the Sri Lanka Tamil National Party's conference was held on the 19th.
+පානදුර  වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකයේ නිලධාරීන් ලෙස පෙනී සිටිමින් පුද්ගලයෙකු පදවාගෙන යමින් සිටි  මෝටර් රථයක් තුළ අයිස් මත්ද්‍රව්‍ය තිබූන බවට බියකර රුපියල් 3,60000/= මුදලක් වංචා සහගත ලෙස ලබා ගත් සංවිධානාත්මක කල්ලියක් අත්අඩංගුවට ගැනීම සඳහා  විමර්ශන ආරම්භ කළ බව මොරගහහේන  පොලිසිය කියයි
 
-The interim order has been issued for 14 days when it was taken up today in the presence of Ganesarajah in the presence of Trincomalee District Judge Manikavasakar Ganesarajah.
-
-President's Attorney Jeffrey Alagaratnam and Attorney -at -Law Panthan appeared with Aishwarya Sivakumar's registered lawyer.
-
-The argument was made that the General Assembly meetings held on the 21st and 27th were contrary to the law and invalid.
-
-The argument, therefore, was proposed that the choices made at the two General Assembly meetings were contrary to the law.
-
-It was also stated in the court that the meeting was legal as the members of the Tamil National Party (TNA) had voted during the election of the General Assembly.
+පුද්ගලික අංශයේ තරුණ විධායක නිලධාරීවරයෙකු අවශ්‍යතාවයක් සඳහා පැලවත්ත  විභාග දෙපාර්තමේන්තුවට ගොස් නිවස කරා පැමිණෙමින් සිටියදී  මොරගහහේන  තල්ගහවිල පින් බෙහෙත් ශාලාව අසල මෝටර් රථය නවතා ජලය පානය කර පිටත්වීමට සැරසීමත් සමඟම   සිවිල් ඇඳුමින් සැරසී එම ස්ථානයට පැමිණි පුද්ගලයන් දෙදෙනෙකු  තමන් පානදුර වළාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකයේ පොලිස් නිලධාරීන් බව පවසමින්  හැඳුනුම්පත් දෙකක් පෙන්වා මෝටර් රථය  ඉදිරිපසත් අනෙක් පුද්ගලයා මෝටර් රථයේ පිටුපසත් පරික්ෂා කර ඇති අතර පිටුපස අසුන ආසන්නයේ පරික්ෂා කළ පුද්ගලයා " චිෆ් මේ තීයෙන්නේ බඩු" යැයි පවසමින් කුඩා පාර්සලක් අතට ගෙන තමුන්ගේ වාහනේ තිබිලා අපි අයිස් මත්ද්‍රව්‍ය  හොයාගත්තා ,මොකද කියන්නේ? ගොඩින් බේරලා දෙන්න පුළුවන් කැමතිද යනුවෙන් එම පුද්ගලයාගෙන් විමසා ඇතැයි පොලිසිය කියයි
 
 ...
 
-[Data](articles/f41826cc.json)
-
-[Extended Data](ext_articles/f41826cc.ext.json)
+[Data](articles/29b761d3.json)
 
 ---
 
@@ -135,22 +207,6 @@ Fluo dead body found on a well adjacent to a house in the Kurunegala Police, Kur
 [Data](articles/33da338f.json)
 
 [Extended Data](ext_articles/33da338f.ext.json)
-
----
-
-### The President's call again!
-
-*2024-02-15 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176445) · `ta`
-
-President Ranil Wickremesinghe also said that all sides are calling for again.
-
-President Ranil Wickremesinghe said that the country could not be built politically and that all parties would unite to unite to provide a prosperous living standard for the country or for the government or the opposition.
-
-◼️
-
-[Data](articles/cfd01644.json)
-
-[Extended Data](ext_articles/cfd01644.ext.json)
 
 ---
 
@@ -173,6 +229,24 @@ Maskeliya police went to the scene and took two buses to the Maskeliya police st
 [Data](articles/fdf9a057.json)
 
 [Extended Data](ext_articles/fdf9a057.ext.json)
+
+---
+
+### Science teacher arrested for molesting schoolgirls
+
+*2024-02-15 14:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Science-teacher-arrested-for-molesting-schoolgirls/108-277089) · `en`
+
+Hatton, Feb 15 (Daily Mirror) - A science teacher of a Tamil school in Watawala was arrested today during investigations on a complaint that he had attempted to sexually abuse three schoolgirls.
+
+Police said the suspect is alleged to have sent SMSs to the three Grade 10 school girls inducing them to sexual relations. However, when they had restrained his advances, he had written messages on their chairs to woo them.
+
+Investigations revealed that the 44 year old teacher is father of two children.
+
+A police team under OIC Watawala police Chandana Gamage is conducting further investigations.
+
+◼️
+
+[Data](articles/c9c605b4.json)
 
 ---
 
@@ -1965,103 +2039,5 @@ The Mullay member was taken to the Colombo Criminal Investigation Department Hea
 [Data](articles/208e8e25.json)
 
 [Extended Data](ext_articles/208e8e25.ext.json)
-
----
-
-### Dispute for a desk table concludes with a beaten
-
-*2024-02-15 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193402) · `si`
-
-Investigation into two persons who had been assaulted by a descendant of a table in school have begun an investigation into the arrest of two persons who were assaulted by a schoolgirl.
-
-The attack was held on the evening yesterday (14) in Melsiripura, Malziripura.
-
-The attack is a 15 year old student, a resident of Viharagama in Vijegama.
-
-He has been enjoying the 11th year of Ridigama and Ukumida Maha Vidyalaya.
-
-The school student has told the police that two arrival of two separate heads of motorcycle when he ended and returning home in the school yesterday.
-
-The student had told the police that he had identified two residents of powerful residents of power.
-
-The student who has told the police that a descendant of a table in the school about a week ago, the student had told the police.
-
-The student who was assaulted was told that there were also those who were attacked by him.
-
-A investigation has been launched to arrest the suspects, Melsiripura Police said.
-
-◼️
-
-[Data](articles/175b460e.json)
-
-[Extended Data](ext_articles/175b460e.ext.json)
-
----
-
-### We have signed a deal with Sajith with the aim of raising the quality of life of the plantation people - Velusamy Radhakrishnan
-
-*2024-02-15 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176411) · `ta`
-
-Deputy Leader of the Tamil Progressive Alliance, Dr. Velusamy Radhakrishnan said that the agreement has been signed with the United People's Alliance led by Opposition Leader Sajith Premadasa in our intention of upgrading the quality of life of the plantation.
-
-He further stated that the contract was held at the United People's Power Headquarters on Wednesday (14).
-
-Opposition Leader Sajith Premadasa has been signed by this Memorandum of Understanding on the lives and expectations of plantation workers.
-
-Our aim is to improve the quality of life of the plantation people through this. They have to obtain land rights. They have to be constructed with houses. Sajith Premadasa has agreed to create a special task for that.
-
-He has promised to take action to solve the problems of the people through the Presidential Secretariat on the seizure of the United People's Power.. On the basis of this, we have signed the agreement.
-
-◼️
-
-[Data](articles/2d7e269a.json)
-
-[Extended Data](ext_articles/2d7e269a.ext.json)
-
----
-
-### Russia is close to creating cancer vaccines, says Putin
-
-*2024-02-15 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97283/russia-is-close-to-creating-cancer-vaccines-says-putin) · `en`
-
-President Vladimir Putin said on Wednesday that Russian scientists were close to creating vaccines for cancer that could soon be available to patients.
-
-Putin said in televised comments that “we have come very close to the creation of so-called cancer vaccines and immunomodulatory drugs of a new generation”.
-
-“I hope that soon they will be effectively used as methods of individual therapy,” he added, speaking at a Moscow forum on future technologies.
-
-Putin did not specify which types of cancer the proposed vaccines would target, nor how.
-
-A number of countries and companies are working on cancer vaccines. Last year the UK government signed an agreement with Germany-based BioNTech to launch clinical trials providing “personalised cancer treatments”, aiming to reach 10,000 patients by 2030.
-
-...
-
-[Data](articles/a9517d2f.json)
-
-[Extended Data](ext_articles/a9517d2f.ext.json)
-
----
-
-### Applications for second phase of ‘Aswesuma’ accepted from today
-
-*2024-02-15 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97282/applications-for-second-phase-of-aswesuma-accepted-from-today) · `en`
-
-Accepting applications for the second phase of ‘Aswesuma’ welfare benefits program commences today (Feb.15) to select 400,000 more beneficiaries.
-
-Finance State Minister Shehan Semasinghe said the applications can be submitted online or through the Divisional Secretariats for a period of one month.
-
-Speaking to Ada Derana, the lawmaker said the government intends to increase the total number of ‘Aswesuma’ beneficiaries, which now stands close to 2 million, to as many as 2.4 million people.
-
-The government expects to spend Rs. 205 billion on the provision of welfare this year, he added.
-
-Meanwhile, the monthly allowances paid to disabled persons, kidney patients and elderly citizens are to be retrospectively increased from January 2024.
-
-Accordingly, kidney patients and disabled persons’ allowances will be raised from Rs. 5,000 to Rs. 7,500, while the elderly citizens’ allowance will be increased from Rs. 2,000 to Rs. 3,000.
-
-...
-
-[Data](articles/b28bb0ed.json)
-
-[Extended Data](ext_articles/b28bb0ed.ext.json)
 
 ---

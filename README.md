@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 14:02:29**
+As of **2024-02-15 14:17:17**
 
 ## Newspaper Stats
 
-*Scraped **7,219** Articles*
+*Scraped **7,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 376
 dailyftlk | 389
 adalk | 614
 adaderanalk | 886
-tamilmirrorlk | 888
+tamilmirrorlk | 889
 virakesarilk | 929
 adaderanasinhalalk | 1,017
 dailymirrorlk | 1,056
@@ -26,7 +26,7 @@ dailymirrorlk | 1,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,219 (100.0%) of 7,219 articles have been extended.
+7,219 (100.0%) of 7,220 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,26 @@ Furthermore, he has extended an invitation to all parties to collaborate, not fo
 [Data](articles/91a6658b.json)
 
 [Extended Data](ext_articles/91a6658b.ext.json)
+
+---
+
+### மேசைகளில் எழுதிய விஞ்ஞான ஆசிரியர் கைது
+
+*2024-02-15 13:16:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மேசைகளில்-எழுதிய-விஞ்ஞான-ஆசிரியர்-கைது/76-333259) · `ta`
+
+3 மாணவிகளை துஷ்பிரயோகம் செய்வதற்கு  முயற்சித்தார் என்றக் குற்றச்சாட்டின் பேரில், விஞ்ஞான பாட ஆசிரியர் கைது செய்யப்பட்டுள்ளார்.
+
+ஹட்டன் கல்வி வலயத்துக்கு உட்பட்ட பாடசாலையைச் சேர்ந்த ஆசிரியரே இவ்வாறு, வியாழக்கிழமை (15)  கைது செய்யப்பட்டுள்ளார் என வட்டவளை பொலிஸார் தெரிவித்தனர்.
+
+தரம் 10 இல் கல்விப்பயிலும் மூன்று மாணவிகளை பாலியல் வன்புணர்வுக்கு உட்படுத்த முயற்சித்தார் என்றக் குற்றச்சாட்டின் பேரிலேயே இவர், கைது செய்யப்பட்டுள்ளார் என வட்டவளை பொலிஸ் நிலையத்தின் பொறுப்பதிகாரியான பொலிஸ் பரிசோதகர் சந்தன கமகே தெரிவித்தார்.
+
+சுமார் 5 வருடங்களாக அந்தப் பாடசாலையில் விஞ்ஞான ஆசிரியராக சேவையாற்றும் இந்த ஆசிரியர், இந்த மூன்று மாணவிகளிடமும் பாலியல் அழுத்தத்தை பிரயோகித்து குறுஞ்செய்திகள் பலவற்றை அனுப்பியுள்ளார்.
+
+இதனால் ஆத்திரமடைந்த அந்த ஆசிரியர், மாணவிகளின் வகுப்பறைக்குச் சென்று, அந்த மாணவிகள் அமர்ந்திருக்கும் கதிரைகளுக்கு முன்பாக இருக்கும் மேசைகளின் மேல், “என்னுடைய யோசனைக்கு இணக்கமா?” என எழுதியுள்ளார்.
+
+...
+
+[Data](articles/c6b9394a.json)
 
 ---
 
@@ -2077,23 +2097,5 @@ There are five schools near my house. I learned Royal College and Therston Colle
 [Data](articles/7c047708.json)
 
 [Extended Data](ext_articles/7c047708.ext.json)
-
----
-
-### The Social Agreement was signed
-
-*2024-02-15 04:12:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-உடன்படிக்கை-கைச்சாத்திடப்பட்டது/175-333233) · `ta`
-
-A major social agreement has been made today with the community in the hill country and southern plantation industry to strengthen the social, economic and political structure of the hill and southern plantation community, including the life, livelihood and livelihood of the upcountry and southern plantation community.
-
-Opposition Leader Sajith Premadasa said that a separate Presidential Secretariat has been established under the United People's Power Government and has reached agreement with the compliance with the agitation in the infrastructure sector, including the economic, social development and political issues facing the hill country and southern plantation community.
-
-At the headquarters of the United People's Power Party, the Small Agreement was signed on Wednesday (14) with various plantation political parties and representatives, promising to protect the rights of the upland and southern plantation communities.
-
-...
-
-[Data](articles/d7dd1068.json)
-
-[Extended Data](ext_articles/d7dd1068.ext.json)
 
 ---

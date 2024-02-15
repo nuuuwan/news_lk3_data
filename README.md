@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 11:02:50**
+As of **2024-02-15 11:17:19**
 
 ## Newspaper Stats
 
-*Scraped **7,148** Articles*
+*Scraped **7,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 376
 dailyftlk | 389
 adalk | 605
 tamilmirrorlk | 873
-adaderanalk | 875
+adaderanalk | 876
 virakesarilk | 915
 adaderanasinhalalk | 1,010
 dailymirrorlk | 1,045
@@ -26,7 +26,7 @@ dailymirrorlk | 1,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,148 (100.0%) of 7,148 articles have been extended.
+7,148 (100.0%) of 7,149 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,28 @@ However, it is reported that a specific date deported has not been published yet
 [Data](articles/0e318e21.json)
 
 [Extended Data](ext_articles/0e318e21.ext.json)
+
+---
+
+### Nearly 10,000 child abuse complaints received in 2023 - NCPA
+
+*2024-02-15 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97285/nearly-10000-child-abuse-complaints-received-in-2023-ncpa) · `en`
+
+National Child Protection Authority (NCPA) says it has received close to 10,000 complaints regarding child abuse over the course of 2023.
+
+The NCPA chairman, Udayakumara Amarasinghe said as many as 9,434 complaints were received between 01 January and 31 December last year, as opposed to the 7,466 complaints received in 2022.
+
+Among these are, 2,242 complaints of cruelty, 472 on sexual abuse, 404 on severe sexual abuse, 51 on rape of female children, and 6 on using children for obscene posts, he said.
+
+In addition, complaints were also received with regard to child exploitation, trafficking, domestic abuse, neglect, and kidnapping.
+
+Mr. Amarasinghe said these complaints have been forwarded to respective authorities for onward legal action.
+
+Meanwhile, discussions are in progress to amend certain existing laws to crack down on child abuse, NCPA chairman emphasized.
+
+◼️
+
+[Data](articles/c83b7b45.json)
 
 ---
 
@@ -2027,21 +2049,5 @@ Fish chillies and a kilogram of fish have been sold at Rs. 900 and Rs 900 and a 
 [Data](articles/d80b94fb.json)
 
 [Extended Data](ext_articles/d80b94fb.ext.json)
-
----
-
-### A report from wishes
-
-*2024-02-14 19:50:36* · [`adalk`](https://www.ada.lk/sports/පැතුම්ගෙන්-වාර්තාවක්/9-408088) · `si`
-
-Pathsman, as a player that reached 2000 points in the history of Sri Lanka cricket score, joined the Sri Lankan record books.
-
-Only 52 ODIs were spent on him 42 ODIs. Previously, Upul Tharanga had scored 2000 runs in 66 ODIs.
-
-◼️
-
-[Data](articles/e24df5c5.json)
-
-[Extended Data](ext_articles/e24df5c5.ext.json)
 
 ---

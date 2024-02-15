@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 01:32:52**
+As of **2024-02-16 01:49:27**
 
 ## Newspaper Stats
 
-*Scraped **7,336** Articles*
+*Scraped **7,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,37 @@ tamilmirrorlk | 897
 adaderanalk | 899
 virakesarilk | 956
 adaderanasinhalalk | 1,037
-dailymirrorlk | 1,074
+dailymirrorlk | 1,075
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,336 (100.0%) of 7,336 articles have been extended.
+7,336 (100.0%) of 7,337 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-16 (Friday)
+
+### India-Sri Lanka Security Intertwined - Vijitha Herath
+
+*2024-02-16 01:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/India-Sri-Lanka-Security-Intertwined-Vijitha-Herath/231-277124) · `en`
+
+Also maintaining close contact with the Communist Party of China (CPC) too
+
+Won’t compromise on Indian interests over China and vice versa
+
+Emphasized that Sri Lanka, as a country, would remain committed to regional security
+
+The delegation was led by JVP/NPP leader, Anura Kumara Dissanayake, and had talks with Indian External Affairs Minister, Dr. S. Jaishankar, Foreign Secretary, Vinay Mohan, and National Security Advisor, Ajit Doval. The delegation was afforded a broad overview of India’s growth momentum, industrialization and its security interests in the region.National People’s Power (NPP) MP, Vijitha Herath who was part of the party delegation that visited India shared his thoughts on the outcome.
+
+Q   How far is the policy of your party in line with the broader vision of India for national security in the region?
+
+...
+
+[Data](articles/734e4eab.json)
+
+---
 
 ### 2024-02-15 (Thursday)
 
@@ -2065,21 +2087,5 @@ The government has 99.93 percent of the shares of the company, the largest suppl
 [Data](articles/ab1c40e9.json)
 
 [Extended Data](ext_articles/ab1c40e9.ext.json)
-
----
-
-### President invites all parties to collaborate for national development
-
-*2024-02-15 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97294/president-invites-all-parties-to-collaborate-for-national-development) · `en`
-
-President Ranil Wickremesinghe has emphasized the necessity of unity for national development, stating that political divisions hinder progress, the President’s Media Division (PMD) reported.
-
-Furthermore, he has extended an invitation to all parties to collaborate, not for their respective political affiliations, but to enhance the quality of life for the people of the nation, according to the PMD.
-
-◼️
-
-[Data](articles/91a6658b.json)
-
-[Extended Data](ext_articles/91a6658b.ext.json)
 
 ---

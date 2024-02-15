@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 22:03:23**
+As of **2024-02-15 22:17:35**
 
 ## Newspaper Stats
 
-*Scraped **7,320** Articles*
+*Scraped **7,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 376
 economynextcom | 386
 dailyftlk | 389
-adalk | 629
-adaderanalk | 896
+adalk | 630
 tamilmirrorlk | 896
+adaderanalk | 897
 virakesarilk | 954
 adaderanasinhalalk | 1,034
 dailymirrorlk | 1,069
@@ -26,11 +26,25 @@ dailymirrorlk | 1,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,320 (100.0%) of 7,320 articles have been extended.
+7,320 (100.0%) of 7,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### Keheliya, ex-Health Secretary and 5 others further remanded
+
+*2024-02-15 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97304/keheliya-ex-health-secretary-and-5-others-further-remanded) · `en`
+
+Former Minister of Health Keheliya Rambukwella, former Health Secretary Janaka Chandragupta and five others have been ordered to be further remanded until February 29, over the import of substandard human Immunoglobulin vials.
+
+This order was issued when the case was taken up before the Maligakanda Magistrate’s Court today (15), Ada Derana reporter said.
+
+◼️
+
+[Data](articles/982f4451.json)
+
+---
 
 ### When the wife and daughter went to the religious event, the father who poisoned his son
 
@@ -161,6 +175,26 @@ The police urge the drivers to run traffic to drive traffic with winding and slo
 [Data](articles/45ca5ec1.json)
 
 [Extended Data](ext_articles/45ca5ec1.ext.json)
+
+---
+
+### 2022දී ඛනිජ තෙල් තොග ගබඩා පර්යන්තයට රු.බි. 28ක් අලාභ වූ හැටි එළියට
+
+*2024-02-15 20:00:36* · [`adalk`](https://www.ada.lk/breaking_news/2022දී-ඛනිජ-තෙල්-තොග-ගබඩා-පර්යන්තයට-රු-බි--28ක්-අලාභ-වූ-හැටි-එළියට/11-408114) · `si`
+
+ලංකා ඛනිජ තෙල් තොග ගබඩා පර්යන්ත සමාගමේ ඉන්ධන ගබඩා කිරීම සහ ඉන්ධන බෙදාහැරීම් සම්බන්ධයෙන් KPMG ආයතනය විසින් සිදුකල වෝහාරික විගණනයේ හඳුනාගත් මුලික කරුණු අද සවස තමන් වෙත ඉදිරිපත් කළ බව විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+
+සිය ෆේස්බුක් ගිණුම හරහා නිවේදන්නිකුත් කරමින් ඔහු පවසන්නේ 2022 වසරේදී තමන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට සිදුකල පැමිණිල්ලට අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මෙම වෝහාරික පරීක්ෂණය සිදුකරන ලෙස විදුලිබල හා බලශක්ති අමාත්‍යාංශයට දන්වා තිබිණ බවයි.
+
+KPMG ආයතනය සහ ලංකා තෙල් ගබඩා පර්යන්තයේ අභ්‍යන්තර විගණන අංශය විසින් සිදුකල පරීක්ෂණට අනුව,
+
+1. 2010 වසරේ සිට තොරතුරු දත්ත ලක්ෂ 13ක් ප්‍රධාන පද්ධති යෙදුමේන් මකා දමා හෝ වෙනස්කර ඇති බවද, ඉන් බහුතරය 2022 වසරේදී ඉන්ධන අර්බුදය ඇති වූ අවස්ථාවේ සිදුව ඇති බවද
+
+2. 2022 වසරේ සිදුකල අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැමිණිල්ලට පසුව 2023 වසර වනවිට එම දත්ත මකා දැමීම් හෝ වෙනස් කිරීම් අඩුවීමක් ඇති වී ඇති බවද
+
+...
+
+[Data](articles/61b498fc.json)
 
 ---
 
@@ -2025,43 +2059,5 @@ A meeting between Prime Minister Dinesh Gunawardena and Japan International Coop
 [Data](articles/8062736f.json)
 
 [Extended Data](ext_articles/8062736f.ext.json)
-
----
-
-### “Ready to refund the money” Northern Uni Report
-
-*2024-02-15 12:26:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பணத்தை-திருப்பி-கொடுக்க-தயார்-NORTHERN-UNI-அறிக்கை/71-333257) · `ta`
-
-Background singer Hariharan's concert was held on February 9 in Jaffna, Jaffna.
-
-Celebrities including host DD, KPY Bala, playback singer Shweta Mohan and fame were also present at the event.. Tamanna's dance also impressed fans. And Hariharan's songs touched the mind.
-
-More than one lakh people have come to the event that was well behaved. Some of the things that have been entered into the crowd have been interrupted.
-
-Due to the minor interruption and discomfort at the event, we have decided to recover the entire income and that the money paid for the education of the students under the poverty line, the telephone number 0777315262 will be left. ". Remble
-
-◼️
-
-[Data](articles/fa266785.json)
-
-[Extended Data](ext_articles/fa266785.ext.json)
-
----
-
-### Interpol ‘Red Notices’ issued to 42 Sri Lankan criminal suspects hiding overseas
-
-*2024-02-15 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97291/interpol-red-notices-issued-to-42-sri-lankan-criminal-suspects-hiding-overseas-) · `en`
-
-Acting Inspector General of Police (IGP) Deshabandu Tennakoon states that 42 Interpol ‘Red Notices’ have been issued against criminals who have fled the country and are in connection with underworld activities and drug offences.
-
-Joining the event to declare open a new police checkpoint in front of the Colombo National Hospital, Tennakoon expressed that the relevant criminal suspects would be brought back to the island with the assistance of Interpol.
-
-Furthermore, he mentioned that main accomplice of the notorious underworld figure Salindu Malshika alias “Kudu Salindu,” who was repatriated to Sri Lanka early this morning, will be interrogated further to uncover more details regarding drug syndicates operating in the country.
-
-...
-
-[Data](articles/0fccb22e.json)
-
-[Extended Data](ext_articles/0fccb22e.ext.json)
 
 ---

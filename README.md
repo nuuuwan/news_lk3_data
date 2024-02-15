@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 14:33:57**
+As of **2024-02-15 14:51:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,220 (99.9%) of 7,225 articles have been extended.
+7,225 (100.0%) of 7,225 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The wholesale price of big onions remains at Rs.350-375 a kilo at the moment.
 
 [Data](articles/ded30499.json)
 
+[Extended Data](ext_articles/ded30499.ext.json)
+
 ---
 
 ### President invites all parties to collaborate for national development
@@ -68,45 +70,49 @@ Furthermore, he has extended an invitation to all parties to collaborate, not fo
 
 ---
 
-### ලෝකෙම කතාවූ විවාහ ගිවිසගැනීම
+### Marriage of the World
 
 *2024-02-15 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193417) · `si`
 
-ආදරවන්තයින්ගේ දිනයේදී ලෝකෙම දන්නා අග්‍රාමාත්‍යවරයෙකු කළ අපූරු විවාහ ගිවිසගැනීමක් පිළිබඳව මේ වනවිට විශේෂ කතාබහක් ඇතිවී තිබේ.
+On Valentine's Day, a wonderful engagement has been found in a wonderful engagement that a Prime Minister who knows the world.
 
-මෙම අපූරු විවාහ ගිවිසගැනීම සිදුකර ඇත්තේ ඔස්ට්‍රේලියානු අග්‍රාමාත්‍ය Anthony Albanese විසින්.
+The wonderful engagement has been engaged by the Australian Prime Minister Anthony Albanese.
 
-මේ වනවිට 60 හැවිරිදි වියේ පසුවන ඔස්ට්‍රේලියානු අග්‍රාමාත්‍ය Anthony Albanese සහ 45 හැවිරිදි වියේ පසුවන Jodie Haydon මුණගැසී ඇත්තේ 2020 වසරේදීය.
+At the year 2020, the 60-year-old Australian Prime Minister Anthony Albacee and 45-year-old Jodie Haydon have met the Anthony Albanes and 45-year-old Japan.
 
-මේ අතර මෙම විවාහ ගිවිසගැනීම ඉතිහාසගතවන්නේ අග්‍රාමාත්‍ය ධුරයේ සිටියදී විවාහ ගිවිසගත් පළමු ඔස්ට්‍රේලියානු අග්‍රාමාත්‍යවරයා ලෙසටය.
+Meanwhile, the engagement is his first Australian Prime Minister while in the patriarch of the Prime Minister.
 
-Anthony Albanese සහ Jodie Haydon සෙල්ෆි ඡායාරූපයක් පළකරමින් තමන් විවාහ ගිවිසගත් බව නිවේදනය කර තිබුණි.
+Anthony Albanes and Jodie Haydon have announced that they were engaged in a photography.
 
-Anthony Albanese වසරකට පෙර Carmel Tebbutt දික්කසාද වූ අතර 23 හැවිරිදි වියේ පසුවන පුත්‍රයෙකු ද සිටී.
+Anthony Albanes was divorced by Carmel Tebbutt a year ago and there is a 23-year-old son.
 
 ◼️
 
 [Data](articles/ebc208a3.json)
 
+[Extended Data](ext_articles/ebc208a3.ext.json)
+
 ---
 
-### අධික වේගය මරුවා කැඳවයි
+### Excessive spending calls for killing
 
 *2024-02-15 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193416) · `si`
 
-කළුතර උතුර පොලිස් වසමේ මහදූවේගම උග්ගල්බඩ ප්‍රදේශයේ දී යතුරුපැදියකින් ගමන් කරමින් සිටි තරුණයෙක් විදුලි කණුවක ගැටී ජීවිතක්ෂයට පත්ව තිබේ.
+A youth who was traveling on a motorcycle in Mahadenuwagama, Kalutara North police Division, was hit by a motorbike.
 
-අප වාර්තාකරු පැවසුවේ, ඊයේ (14) රාත්‍රී 11.30ට පමණ අනතුර සිදුව ඇති බවය.
+Our correspondent said that the accident occurred at around 11.30 pm yesterday.
 
-අදාළ තරුණයා ඔහුගේ නිවසේ සිට ඔහු වැඩකරන වෙළෙඳසැලට යතුරුපැදියෙන් ගමන් කරමින් සිටියදී අධික පල්ලමක් සහිත මාර්ගයක තිබූ විදුලි කණුවේ ගැටී බරපතළ තුවාල ලබා එම ස්ථානයේදීම ජීවිතක්ෂයට පත්ව ඇත.
+The young man has been killed and he was seriously injured and injured when he was traveling from his home.
 
-පොලීසිය සඳහන් කළේ, යතුරුපැදිකරුට වේගය පාලනය කරගත නොහැකිව අනතුර සිදුව ඇති බවය.
+The Motorcyclist was unable to control speed.
 
-එලෙස මියගොස් ඇත්තේ, 25 හැවිරිදි ගිහාන් මධුසංක ලක්මාල් නැමති විවාහකයෙකි.
+The deceased has been identified as 25-year-old Gihan Madusanka Lakmal.
 
 ◼️
 
 [Data](articles/c23f870d.json)
+
+[Extended Data](ext_articles/c23f870d.ext.json)
 
 ---
 
@@ -134,19 +140,21 @@ As a result, the three students have lodged a complaint at the Vattawala Police 
 
 ---
 
-### සහයෝගයෙන් කටයුතු කරන්නැයි ජනපතිගෙන් ඉල්ලීමක්
+### President requests to collaborate
 
 *2024-02-15 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193415) · `si`
 
-ජනතාවගේ ජීවන තත්ත්වය ඉහළ නැංවීම සඳහා සහයෝගයෙන් කටයුතු කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කර ඇත.
+President Ranil Wickremesinghe has said to collaborate to improve the quality of life of the people.
 
-දේශපාලන බෙදීම් රටේ ප්‍රගතිය සඳහා බාධාවක් බව ප්‍රකාශ කරන ජනාධිපතිවරයා, ජාතික සංවර්ධනය සඳහා එකමුතුකමේ අවශ්‍යතාව අවධාරණය කරයි.
+The President stresses that political divisions are a hindrance to the progress of the country, emphasizes the need for national development.
 
-දේශපාලන හිතවත්කම් සඳහා නොව, ජාතියේ ජනතාවගේ ජීවන තත්ත්වය ඉහළ නැංවීම සඳහා සහයෝගයෙන් කටයුතු කරන ලෙස ඔහු සඳහන් කර තිබේ.
+He has said to collaborate to improve the living standards of the people of the nation, not for political affiliations.
 
 ◼️
 
 [Data](articles/25c77a7f.json)
+
+[Extended Data](ext_articles/25c77a7f.ext.json)
 
 ---
 
@@ -172,23 +180,25 @@ Dr. Akihiko elaborated on JICA’s efforts, highlighting the priority of conclud
 
 ---
 
-### සිසුවියන් තිදෙනෙකුට අතවර කළ ගුරුවරයා අත්අඩංගුවට
+### Teacher arrested for abusing three students
 
 *2024-02-15 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193414) · `si`
 
-හැටන් කලාප අධ්‍යාපන කාර්යාලය යටතේ පාලනය වන වටවල ප්‍රදේශයේ දෙමළ පාසලක පාසල් සිසුවියන් තිදෙනෙකුට අතවර කිරීමට තැත්කළ එම පාසලේම විද්‍යා විෂය උගන්වන ගුරුවරයාව සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+The school has been arrested on suspicion of three schoolchildren in a Tamil school, which was governed by the Hatton Zonal Education Office.
 
-අප වාර්තාකරු පැවසුවේ, වසර 5ක පමණ කාලයක් එම ගුරුවරයා අදාළ පාසලේ විද්‍යාව ගුරුවරයා ලෙස සේවය කර ඇති බවය.
+Our correspondent said that the teacher had served as the teacher of the school for about five years.
 
-අදාළ ගුරුවරයා විසින් පාසලේ 10 වන ශ්‍රේණියේ සිසුවියන් තිදෙනෙකුට අතවර කිරීමට උත්සාහ ගෙන ඇති බවත් ඔවුන්ට කෙටි පණිවුඩ යොමු කරමින් ඔවුන් අපහසුතාවයට පත්කර ඇති බවත් වාර්තා වේ.
+It is reported that the teacher had attempted to abuse three students of the school and that they had been embarrassed by their SMS.
 
-එම පණිවුඩවලට පිළිතුරු නොයැවීම හේතුවෙන් සිසුවියන් පන්ති කාමරය තුළ වාඩි වී සිටින අවස්ථාවේ දී අනිසි බලපෑම් සිදුකිරීම හේතුවෙන් අදාළ සිසුවියන් වටවල පොලීසියට පැමිණිලි කර තිබේ.
+Answering those messages, the students have lodged a complaint with the girls' police as he was sitting in the classroom.
 
-ඒ අනුව වටවල පොලීසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක චන්දන ගමගේ මහතාගේ මුලිකත්වයෙන් 44 හැවිරිදි සැකකාර ගුරුවරයා අත්අඩංගුවට ගෙන ඇත.
+The 44-year-old suspect teacher was arrested by the OIC Inspector Chandana Gamage of the Watawala Police.
 
 ◼️
 
 [Data](articles/a3030837.json)
+
+[Extended Data](ext_articles/a3030837.ext.json)
 
 ---
 

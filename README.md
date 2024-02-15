@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 20:49:54**
+As of **2024-02-15 21:02:25**
 
 ## Newspaper Stats
 
-*Scraped **7,310** Articles*
+*Scraped **7,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 376
 economynextcom | 386
 dailyftlk | 389
-adalk | 627
+adalk | 628
 adaderanalk | 894
-tamilmirrorlk | 895
+tamilmirrorlk | 896
 virakesarilk | 952
 adaderanasinhalalk | 1,033
 dailymirrorlk | 1,067
@@ -26,7 +26,7 @@ dailymirrorlk | 1,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,310 (100.0%) of 7,310 articles have been extended.
+7,310 (100.0%) of 7,312 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,6 +78,22 @@ The police urge the drivers to run traffic to drive traffic with winding and slo
 
 ---
 
+### ஒன்லைன் மோசடியாளர்கள் இருவர் கைது
+
+*2024-02-15 19:43:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-மோசடியாளர்கள்-இருவர்-கைது/175-333283) · `ta`
+
+சமூக ஊடக தளங்களைப் பயன்படுத்தி பண மோசடி செய்த குற்றச்சாட்டின் பேரில் குற்றப் புலனாய்வுத் திணைக்களத்தின் (CID) கணினி குற்றப் பிரிவினர் கம்பஹாவில் இருவரைக் கைது செய்துள்ளனர்.
+
+பொலிஸ் ஊடகப் பேச்சாளர் நிஹால் தல்துவ கைது செய்யப்பட்டவர்களை உறுதிப்படுத்தினார், சந்தேக நபர்கள் பல நபர்களிடமிருந்து ஆன்லைனில் பணம் பெற்றதாக முறைப்பாடு கிடைத்துள்ளது.
+
+அவர்களிடம் இருந்து தேசிய அடையாள அட்டைகள், ஓட்டுநர் உரிமம் மற்றும் மொபைல் போன்களை அதிகாரிகள் பறிமுதல் செய்தனர். R
+
+◼️
+
+[Data](articles/0000808a.json)
+
+---
+
 ### CID arrested for a millionaire in Middeniya
 
 *2024-02-15 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193430) · `si`
@@ -123,6 +139,24 @@ Speaking to the President's Counsel Directors, Assistant Attorney-at-Arrahera Ve
 [Data](articles/8ccb86ef.json)
 
 [Extended Data](ext_articles/8ccb86ef.ext.json)
+
+---
+
+### මන්ත්‍රී ගුණතිලක රාජපක්ෂ රෝහල් ගත කරයි
+
+*2024-02-15 19:04:16* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-ගුණතිලක-රාජපක්ෂ-රෝහල්-ගත-කරයි/11-408112) · `si`
+
+මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී සහ දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු සභාපති ගුණතිලක රාජපක්ෂ මහතා මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදී ඇතිවූ හදිසි රෝගී තත්ත්වයක් හේතුවෙන් හදිසි ප්‍රතිකාර සඳහා පෞද්ගලික රෝහලකට ඇතුළත් කොට තිබේ .
+
+ඒ මහතා ඊයේ (14) මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාල ශ්‍රවණාගාරයේදී පැවති දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීමට සහභාගි වීමෙන් අනතුරුවඉන් පිටව යන අවස්ථාවේදී ඇති වූ රෝගී තත්ත්වයක් හේතුවෙන් ඒ මහතා වහාම පෞද්ගලික රෝහලකට ඇතුළත් කොට හදිසි ප්‍රතිකාර ලබාදීමට පියවර ගෙන තිබූ අතර ඔහු අද (15) සවස් කාලය වනතුරුත් එහි ප්‍රතිකාර ලබමින් සිටි බව ඔහුගේ සමීපත්කමයකු තහවුරු කළේය .
+
+මහනුවර දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීම ආරම්භ වීමත් සමග එම කමිටු රැස්වීම මාධ්‍යයට තහනම් කිරීම සම්බන්ධයෙන් මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා බණ්ඩාර මහතා ගුණතිලක රාජපක්ෂ මහතාට චෝදනා කර සිටි අතර එහිදී දෙදෙනා අතර විවාදාත්මක තත්ත්වයක් දඇතිවිය .
+
+කෙසේ නමුත් මන්ත්‍රීවරයාගේ සෞඛ්‍ය තත්ත්වය එතරම් බරපතල නොවන බවද වාර්තාවේ.
+
+◼️
+
+[Data](articles/21c7da7b.json)
 
 ---
 
@@ -2045,43 +2079,5 @@ Accordingly, the suspect had acquired the suspect on November 2, 2023 against th
 [Data](articles/70ea997b.json)
 
 [Extended Data](ext_articles/70ea997b.ext.json)
-
----
-
-### No decision to support any candidate - 'chair' did not take the lead
-
-*2024-02-15 12:01:59* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-අපේක්ෂකයෙකුට-සහාය-දෙන්න-තීරණයක්-නෑ---’පුටුවේ’-නායකත්වය-ගත්තෙත්-නෑ/11-408100) · `si`
-
-Former Presidential reports say that he has not yet decided to support a candidate and has decided to support the presidential election.
-
-In a statement, she points out that he has not yet decided to seek the leadership of the newly established Civil United Front.
-
-◼️
-
-[Data](articles/5410e336.json)
-
-[Extended Data](ext_articles/5410e336.ext.json)
-
----
-
-### Firing on a restaurant owner in Cup, Colombo
-
-*2024-02-15 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176430) · `ta`
-
-A man who runs a restaurant in Colombo, Colombo, was shot dead in front of his restaurant on Tuesday night (13).
-
-The white car allegedly used by the suspects to carry out the shooting has been found abandoned in the recent area.
-
-The police media spokesman's office said that the guards were targeted by a manager of a restaurant located on Mondara Road.
-
-A 52 -year -old restaurant owner has been admitted to Colombo National Hospital. It is reported that his right shoulder, neck and leg were shot.
-
-The police media unit said that the shooters were not identified.
-
-◼️
-
-[Data](articles/e41286df.json)
-
-[Extended Data](ext_articles/e41286df.ext.json)
 
 ---

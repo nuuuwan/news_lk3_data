@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 21:02:25**
+As of **2024-02-15 21:17:40**
 
 ## Newspaper Stats
 
-*Scraped **7,312** Articles*
+*Scraped **7,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ dailyftlk | 389
 adalk | 628
 adaderanalk | 894
 tamilmirrorlk | 896
-virakesarilk | 952
+virakesarilk | 953
 adaderanasinhalalk | 1,033
-dailymirrorlk | 1,067
+dailymirrorlk | 1,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,310 (100.0%) of 7,312 articles have been extended.
+7,312 (100.0%) of 7,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### Better to abolish executive presidency; I have already enjoyed it: Mahinda
+
+*2024-02-15 20:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Better-to-abolish-executive-presidency-I-have-already-enjoyed-it-Mahinda/108-277099) · `en`
+
+Colombo, Feb 15 (Daily Mirror) - Former President and MP Mahinda Rajapaksa expressed the opinion that it will be preferable to abolish the Executive Presidency and said that he had enjoyed having held the position.
+
+Answering a question raised by a journalist about the political situation in the country, he said the country's political situation is good and that it is better to abolish the Executive Presidency.
+
+"It should be abolished because the whole country is requesting to abolish it.
+
+"Attempting to postpone the Presidential election might be a trap for the opposition. We know President Ranil Wickremesinghe well," he said.
+
+"Whatever the election, our candidate will be victorious. Our candidate will come to the stage at the correct time. Wait for that," he said.
+
+...
+
+[Data](articles/c0432e71.json)
+
+---
 
 ### Three arrested for admits
 
@@ -78,19 +98,35 @@ The police urge the drivers to run traffic to drive traffic with winding and slo
 
 ---
 
-### ஒன்லைன் மோசடியாளர்கள் இருவர் கைது
+### பெண் பொலிஸ் உத்தியோகத்தருடன் பாலியல் சேஷ்டை : கல்பிட்டி பொலிஸ் நிலைய பொறுப்பதிகாரி பணிநீக்கம்
+
+*2024-02-15 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176481) · `ta`
+
+பெண் பொலிஸ் கான்ஸ்டபிளிடம் பாலியல் சேஷ்டை புரிந்த குற்றச்சாட்டின் பேரில் கல்பிட்டி  பொலிஸ் நிலைய பொறுப்பதிகாரி பணிநீக்கம் செய்யப்பட்டுள்ளார்.
+
+பொலிஸ் ஆணைக்குழுவின் தீர்மானத்தின் பிரகாரம் கல்பிட்டி பொலிஸ் நிலைய பொறுப்பதிகாரி பணி நீக்கம் செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/bdffe41d.json)
+
+---
+
+### Two arrests on online fraudsters
 
 *2024-02-15 19:43:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-மோசடியாளர்கள்-இருவர்-கைது/175-333283) · `ta`
 
-சமூக ஊடக தளங்களைப் பயன்படுத்தி பண மோசடி செய்த குற்றச்சாட்டின் பேரில் குற்றப் புலனாய்வுத் திணைக்களத்தின் (CID) கணினி குற்றப் பிரிவினர் கம்பஹாவில் இருவரைக் கைது செய்துள்ளனர்.
+The Criminal Investigation Department (CID) Computer Crime Unit has arrested two people in Gampaha on charges of defrauding money laundering using social media sites.
 
-பொலிஸ் ஊடகப் பேச்சாளர் நிஹால் தல்துவ கைது செய்யப்பட்டவர்களை உறுதிப்படுத்தினார், சந்தேக நபர்கள் பல நபர்களிடமிருந்து ஆன்லைனில் பணம் பெற்றதாக முறைப்பாடு கிடைத்துள்ளது.
+Police Media Spokesperson Nihal Talduwa confirmed the arrested persons, and the suspects have received complaints from several persons.
 
-அவர்களிடம் இருந்து தேசிய அடையாள அட்டைகள், ஓட்டுநர் உரிமம் மற்றும் மொபைல் போன்களை அதிகாரிகள் பறிமுதல் செய்தனர். R
+Officers confiscated national identity cards, driver's license and mobile phones from them. Remble
 
 ◼️
 
 [Data](articles/0000808a.json)
+
+[Extended Data](ext_articles/0000808a.ext.json)
 
 ---
 
@@ -142,21 +178,23 @@ Speaking to the President's Counsel Directors, Assistant Attorney-at-Arrahera Ve
 
 ---
 
-### මන්ත්‍රී ගුණතිලක රාජපක්ෂ රෝහල් ගත කරයි
+### MP Gunatilleka Rajapaksa hospitalized
 
 *2024-02-15 19:04:16* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-ගුණතිලක-රාජපක්ෂ-රෝහල්-ගත-කරයි/11-408112) · `si`
 
-මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී සහ දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු සභාපති ගුණතිලක රාජපක්ෂ මහතා මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදී ඇතිවූ හදිසි රෝගී තත්ත්වයක් හේතුවෙන් හදිසි ප්‍රතිකාර සඳහා පෞද්ගලික රෝහලකට ඇතුළත් කොට තිබේ .
+Kandy District Parliamentarian and District Coordinating Committee Chairman Gunatilleke Rajapaksa has been admitted to a private hospital for emergency treatment at the Kandy District Secretariat.
 
-ඒ මහතා ඊයේ (14) මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාල ශ්‍රවණාගාරයේදී පැවති දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීමට සහභාගි වීමෙන් අනතුරුවඉන් පිටව යන අවස්ථාවේදී ඇති වූ රෝගී තත්ත්වයක් හේතුවෙන් ඒ මහතා වහාම පෞද්ගලික රෝහලකට ඇතුළත් කොට හදිසි ප්‍රතිකාර ලබාදීමට පියවර ගෙන තිබූ අතර ඔහු අද (15) සවස් කාලය වනතුරුත් එහි ප්‍රතිකාර ලබමින් සිටි බව ඔහුගේ සමීපත්කමයකු තහවුරු කළේය .
+He had immediately admitted to a private hospital, due to a serious hospital when he was attending the District Coordinating Committee meeting at the Kandy District Secretariat meeting yesterday (14).He confirmed his nearest treatment.
 
-මහනුවර දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීම ආරම්භ වීමත් සමග එම කමිටු රැස්වීම මාධ්‍යයට තහනම් කිරීම සම්බන්ධයෙන් මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා බණ්ඩාර මහතා ගුණතිලක රාජපක්ෂ මහතාට චෝදනා කර සිටි අතර එහිදී දෙදෙනා අතර විවාදාත්මක තත්ත්වයක් දඇතිවිය .
+As the Kandy District Coordinating Committee meeting began, the Kandy district MP Wasantha Yapa Bandara has accused Gunatilleke Rajapaksa in the ban the committee meeting and there is controversy among the two.
 
-කෙසේ නමුත් මන්ත්‍රීවරයාගේ සෞඛ්‍ය තත්ත්වය එතරම් බරපතල නොවන බවද වාර්තාවේ.
+However, it is reported that the health condition of the MP is not serious.
 
 ◼️
 
 [Data](articles/21c7da7b.json)
+
+[Extended Data](ext_articles/21c7da7b.ext.json)
 
 ---
 
@@ -332,6 +370,24 @@ Sending Sri Lankans to work in Israel is insensitive: Legislator
 
 ---
 
+### Sri Lanka - Afghanistan Twenty20 Cricket Tournament: An announcement for cricket fans
+
+*2024-02-15 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176472) · `ta`
+
+The first Twenty20 cricket match between Sri Lanka and Afghanistan will be held in Dambulla on the 17th.
+
+Accordingly, the Cricket Board has issued a statement to sports fans to avoid buying tickets to watch the match.
+
+Meanwhile, it is reported that more people were waiting in a long line to get a large number of people's tickets for the competition on Thursday (15) near the Dambulla Playground.
+
+◼️
+
+[Data](articles/ea1ef8b5.json)
+
+[Extended Data](ext_articles/ea1ef8b5.ext.json)
+
+---
+
 ### CPSTL audit exposes data deletion and ‘massive losses’ in stock holding
 
 *2024-02-15 18:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97301/cpstl-audit-exposes-data-deletion-and-massive-losses-in-stock-holding-) · `en`
@@ -371,24 +427,6 @@ However, till 2023, more than 5 thousand complaints were received to the police 
 [Data](articles/6c55a15f.json)
 
 [Extended Data](ext_articles/6c55a15f.ext.json)
-
----
-
-### Sri Lanka - Afghanistan Twenty20 Cricket Tournament: An announcement for cricket fans
-
-*2024-02-15 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/176472) · `ta`
-
-The first Twenty20 cricket match between Sri Lanka and Afghanistan will be held in Dambulla on the 17th.
-
-Accordingly, the Cricket Board has issued a statement to sports fans to avoid buying tickets to watch the match.
-
-Meanwhile, it is reported that more people were waiting in a long line to get a large number of people's tickets for the competition on Thursday (15) near the Dambulla Playground.
-
-◼️
-
-[Data](articles/ea1ef8b5.json)
-
-[Extended Data](ext_articles/ea1ef8b5.ext.json)
 
 ---
 
@@ -552,6 +590,42 @@ However, the lawyers appearing for the suspect submitted that he had kept the st
 
 ---
 
+### A 19 -year -old female cashier arrested for allegedly defrauding 4.5 million rupees in a private company
+
+*2024-02-15 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176468) · `ta`
+
+A 19 -year -old woman who allegedly defrauded 4.5 million rupees while working in a private company has been arrested by the Kalutara Special Fraud Investigation Division.
+
+The suspect has been arrested on a complaint lodged by a private company owner in Ambapitiyagama, Beruwala.
+
+Investigations have revealed that the fraud took place from 2023.06.09 to 2024.02.06.
+
+◼️
+
+[Data](articles/621dcf86.json)
+
+[Extended Data](ext_articles/621dcf86.ext.json)
+
+---
+
+### Snowmade in some places in Nuwara Eliya
+
+*2024-02-15 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176466) · `ta`
+
+Following the inclement weather in many parts of the country, the weather is in the morning and evening in Nuwara Eliya. Also, the drivers are going to burn the home lights due to heavy snowfall.
+
+Especially on the Nuwara Eliya Hatton main road, Ruwan Elijah, Blackpool and Vendiconner, Nanuoya Ratalla Cross Road, Nuwara Eliya - Baduliya, Nuwara Eliya - Kandi -KandyThe traffic police have also asked for the vehicles to pay very careful as they light the home lights of the vehicles on the side.
+
+It is also worth noting that any of the road signals fitted on the streets due to heavy snowfall found on the main streets are invisible.
+
+◼️
+
+[Data](articles/93ca84cb.json)
+
+[Extended Data](ext_articles/93ca84cb.ext.json)
+
+---
+
 ### Maskeliya heated suit
 
 *2024-02-15 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193425) · `si`
@@ -630,24 +704,6 @@ Meet by NextGenSL, an all-party youth organization assisted in organizing this m
 
 ---
 
-### A 19 -year -old female cashier arrested for allegedly defrauding 4.5 million rupees in a private company
-
-*2024-02-15 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176468) · `ta`
-
-A 19 -year -old woman who allegedly defrauded 4.5 million rupees while working in a private company has been arrested by the Kalutara Special Fraud Investigation Division.
-
-The suspect has been arrested on a complaint lodged by a private company owner in Ambapitiyagama, Beruwala.
-
-Investigations have revealed that the fraud took place from 2023.06.09 to 2024.02.06.
-
-◼️
-
-[Data](articles/621dcf86.json)
-
-[Extended Data](ext_articles/621dcf86.ext.json)
-
----
-
 ### Israeli soldiers at Nazer Hospital in Connequin - Hamas
 
 *2024-02-15 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176467) · `ta`
@@ -675,24 +731,6 @@ It is reported that he was suddenly sick and admitted to the hospital during the
 [Data](articles/eb59979e.json)
 
 [Extended Data](ext_articles/eb59979e.ext.json)
-
----
-
-### Snowmade in some places in Nuwara Eliya
-
-*2024-02-15 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176466) · `ta`
-
-Following the inclement weather in many parts of the country, the weather is in the morning and evening in Nuwara Eliya. Also, the drivers are going to burn the home lights due to heavy snowfall.
-
-Especially on the Nuwara Eliya Hatton main road, Ruwan Elijah, Blackpool and Vendiconner, Nanuoya Ratalla Cross Road, Nuwara Eliya - Baduliya, Nuwara Eliya - Kandi -KandyThe traffic police have also asked for the vehicles to pay very careful as they light the home lights of the vehicles on the side.
-
-It is also worth noting that any of the road signals fitted on the streets due to heavy snowfall found on the main streets are invisible.
-
-◼️
-
-[Data](articles/93ca84cb.json)
-
-[Extended Data](ext_articles/93ca84cb.ext.json)
 
 ---
 
@@ -2029,55 +2067,5 @@ Also, President Wickremesinghe was also present at the meeting with Senior Advis
 [Data](articles/f195ffe6.json)
 
 [Extended Data](ext_articles/f195ffe6.ext.json)
-
----
-
-### Jaya has again 'loud'
-
-*2024-02-15 12:07:36* · [`adalk`](https://www.ada.lk/breaking_news/ජයිකා-ආයතනය-යළිත්-ලංකාවේ-’හයියට’-එයි/11-408101) · `si`
-
-JICA, President of the Japan International Cooperation Institute (JICA) says Sri Lanka has continuously support the development and reform agenda of Sri Lanka (JICA).
-
-Prime Minister Dinesh Gunawardena and President of the Japan International Cooperation Agency (JICA) was held at Temple Trees in Colombo on 14.02.2012.
-
-The Prime Minister thanked the Sri Lanka Assistance Association for decades since the meeting of the Sri Lanka Assistance Association. The Prime Minister requested the JICA to consider rural development, rural roads, small and medium-scale farmers and entrepreneurs to empower them.
-
-Dr. Akado said that a grant of a new renewable energy program, including the establishment of solar energy units in Sri Lankan hospitals, will be given a grant of a new renewable energy program.
-
-...
-
-[Data](articles/d115c38e.json)
-
-[Extended Data](ext_articles/d115c38e.ext.json)
-
----
-
-### The country's back stain
-
-*2024-02-15 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193413) · `si`
-
-It has been revealed that Kudu Siyaeli's main disciple is known as the "Prime Father '.
-
-The suspect was arrested by the police with 20 milligrams of heroin in the year 2018.
-
-The court rehabilitated him three months from 31st August 2018.
-
-The suspect was later arrested by the police regarding the charges of having a marijuana cigar in 2019.
-
-The "Prime Minister" was seized on December 12, 2019, a fine of Rs. 10,000.
-
-Meanwhile, two persons from the Panadura on January 25, 201, two were shot dead by a motorcycle.
-
-The motorcycle was driven by a man named the suspect, "Prime Minister" was named the 8th of the murder.
-
-It has been revealed that the police had fled to Dubai on the 9th of February 9, 2021 when the police started investigating and investigating the suspect.
-
-Accordingly, the suspect had acquired the suspect on November 2, 2023 against the suspect in the assistance of the incident on the assistance of the international police.
-
-...
-
-[Data](articles/70ea997b.json)
-
-[Extended Data](ext_articles/70ea997b.ext.json)
 
 ---

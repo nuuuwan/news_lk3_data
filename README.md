@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 18:20:15**
+As of **2024-02-15 18:32:55**
 
 ## Newspaper Stats
 
-*Scraped **7,276** Articles*
+*Scraped **7,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,63 @@ colombotelegraphcom | 80
 bbccomsinhala | 96
 dbsjeyarajcom | 150
 newsfirstlk | 363
-economynextcom | 375
 islandlk | 376
+economynextcom | 384
 dailyftlk | 389
 adalk | 623
 adaderanalk | 893
 tamilmirrorlk | 893
 virakesarilk | 950
-adaderanasinhalalk | 1,023
+adaderanasinhalalk | 1,028
 dailymirrorlk | 1,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,275 (100.0%) of 7,276 articles have been extended.
+7,276 (99.8%) of 7,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### කල්පිටිය OICගේ වැඩ තහනම් කරයි
+
+*2024-02-15 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193427) · `si`
+
+කාන්තා පොලිස් කොස්තාපල්වරියකට ලිංගික අතවර සිදුකළ බවට චෝදනා එල්ලවූ පොලිස් ස්ථානාධිපතිවරයාගේ වැඩ තහනම් කර තිබේ.
+
+පොලිස් කොමිසමේ තීරණයකට අනුව එලෙස කල්පිටිය පොලීසියේ ස්ථානාධිපතිවරයාගේ වැඩ තහනම් කර ඇත.
+
+මීට පෙර ඔහු අධිකරණයට ඉදිරිපත් වීමෙන් පසු ඇප නියම කෙරුණු අතර නඩුව මාර්තු මස 06 වනදා කැඳවීමට නියම කෙරුණි.
+
+◼️
+
+[Data](articles/ef8a6403.json)
+
+---
+
+### Sri Lanka makes identification mandatory for Aswesuma II amidst welfare fraud
+
+*2024-02-15 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-makes-identification-mandatory-for-aswesuma-ii-amidst-welfare-fraud-151099/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Welfare Benefits Board said the national identification card will be mandatory for those applying for the second phase of its Aswesuma program due to widespread welfare fraud.
+
+“One of the changes we are making from the first phase is making identification compulsory,” Chairman of the Welfare Benefits Board, Jayantha Wijerathne, said at a press briefing Thursday (15).
+
+“We could not prioritize this in the first phrase. Therefore, we had a lot of inconveniences and many people have claimed benefits multiple times.”
+
+Welfare Benefits Board Member Kumar Dunusinghe said that in one instance, an individual had registered for benefits 109 times.
+
+This time, the Board will collect details of the applicant’s family members including their ID numbers to prevent the same family applying for benefits multiple times.
+
+“There have also been instances where people sell the application form,” Wijerathne said.
+
+...
+
+[Data](articles/928f1403.json)
+
+---
 
 ### Kalpitiya OIC interdicted over alleged sexual harassment of Woman Constable
 
@@ -41,6 +79,72 @@ The officer-in-charge (OIC) of the Kalpitiya Police Station has been interdicted
 ◼️
 
 [Data](articles/73c9ee47.json)
+
+[Extended Data](ext_articles/73c9ee47.ext.json)
+
+---
+
+### දත්ත මකා දැමීම ගැන ඇමති අතට ලැබුණු තොරතුරු
+
+*2024-02-15 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193426) · `si`
+
+ලංකා ඛනිජ තෙල් තොග ගබඩා පර්යන්ත සමාගමේ ඉන්ධන ගබඩා කිරීම සහ ඉන්ධන බෙදාහැරීම් සම්බන්ධයෙන් සිදුකළ වෝහාරික විගණනයේ හඳුනාගත් මුලික කරුණු අද (15) සවස තමා වෙත ලැබුණු බව බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+
+අමාත්‍යවරයා සඳහන් කරන්නේ 2022 වසරේ තමා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට සිදුකළ පැමිණිල්ලකට අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මෙම වෝහාරික පරීක්ෂණය සිදුකරන ලෙස විදුලිබල හා බලශක්ති අමාත්‍යාංශයට දන්වා තිබුණි බවය.
+
+ඒ අනුව  KPMG නම් අන්තර්ජාතික විගණන ආයතනය සහ ලංකා තෙල් ගබඩා පර්යන්තයේ අභ්‍යන්තර විගණන අංශය විසින් අදාළ පරීක්ෂණය සිදුකර තිබුණි.
+
+ඒ අනුව, 2010 වසරේ සිට තොරතුරු දත්ත ලක්ෂ 13ක් ප්‍රධාන පද්ධති යෙදවුමෙන් මකා දමා හෝ වෙනස්කර ඇති බවද, ඉන් බහුතරය 2022 වසරේදී ඉන්ධන අර්බුදය ඇතිවූ අවස්ථාවේ සිදුවී ඇති බවද වාර්තා වෙයි.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට 2022 වසරේ සිදුකළ පැමිණිල්ලට පසුව 2023 වසර වනවිට එම දත්ත මකා දැමීම් හෝ වෙනස් කිරීම් අඩුවීමක් ඇතිවී තිබෙන බවද ඉන් සඳහන් කර තිබේ.
+
+...
+
+[Data](articles/281a0d7b.json)
+
+---
+
+### Sri Lanka President seeks swift resumption of Japan funded projects
+
+*2024-02-15 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-seeks-swift-resumption-of-japan-funded-projects-151091/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has sought a “swift resumption” of Japan funded projects which have been halted following a default, at a meeting with the President of the Japan International Co-operation Agency.
+
+Wickremesinghe has discussed resuming the project on expanding the main airport, a light rail project and the central expressway, during a meeting with JICA President Tanaka Akihiko in Colombo, a statement said.
+
+Akihiko had highlighted “the priority of concluding debt restructuring while also aiming for the resumption of stalled projects” the statement said.
+
+Japan halted loan funded projects after Sri Lanka defaulted based on their rules and gave grants for humanitarian assistance and to support some reforms. (Colombo/Feb15/2024)
+
+◼️
+
+[Data](articles/6364e30d.json)
+
+---
+
+### Sri Lanka rupee closes at 313.70/90 to the US dollar
+
+*2024-02-15 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-70-90-to-the-us-dollar-151085/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 313.70/90 to the US dollar Thursday, from 313.00/10 on Wednesday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.50/60 percent up from 10.35/45 percent.
+
+A bond maturing on 15.09.2027 closed at 11.45/65 percent from 11.30/45 percent.
+
+A bond maturing on 15.03.2028 closed at 11.95/12.10 percent from 11.80/85 percent.
+
+A bond maturing on 15.07.2029 closed at 12.20/50 percent from 12.05/20 percent.
+
+A bond maturing on 15.05.2030 closed at 12.20/50 percent up from 12.05/20 percent.
+
+A bond maturing on 15.05.2031 closed at 12.20/70 percent from 12.25/45 percent.
+
+A bond maturing on 01.07.2032 closed at 12.50/70 percent up from 12.35/60 percent. (Colombo/Feb15/2024)
+
+◼️
+
+[Data](articles/d70f9a17.json)
 
 ---
 
@@ -65,6 +169,56 @@ However, the lawyers appearing for the suspect submitted that he had kept the st
 [Data](articles/c8335fc4.json)
 
 [Extended Data](ext_articles/c8335fc4.ext.json)
+
+---
+
+### මස්කෙළිය රත්කළ ගුටිකෙළිය
+
+*2024-02-15 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193425) · `si`
+
+පෞද්ගලික බස් රථ රියදුරෙකුට සහ කොන්දොස්තරවරයෙකුට පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් ශ්‍රී පාද වන්දනාවේ පැමිණි තරුණයින් පිරිසක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 22ත් 25ත් අතරේ පසුවන ගාල්ල ප්‍රදේශයේ පදිංචි තරුණයින් පිරිසකි.
+
+මෙම තරුණයින් පිරිස ගාල්ල ප්‍රදේශයේ සිට ශ්‍රී පාද වන්දනාව සඳහා පැමිණ ඊයේ දින නැවත සිය නිවෙස් බලා යාම සඳහා හැටන් දුම්රිය ස්ථානය වෙත ලංගම බස් රථයකින් ගමන්කරමින් සිට ඇත.
+
+එහිදී එම ලංගම බස් රථයට පසුපසින් පැමිණි මස්කෙළිය සිට හැටන් දක්වා ධාවනය වන පෞද්ගලික බස් මගී ප්‍රවාහන බස් රථයක් එය පසුකර යාමට උත්සාහ දරා ඇත.
+
+ඒ අතරතුරදී පෞද්ගලික බස් රථයේ කොන්දොස්තරවරයා කුඩා මස්කෙළිය ප්‍රදේශයේදී ලංගම බස් රථයට ගල් ප්‍රහාරයක් එල්ලකර ඇති අතර ඉන් ලංගම බස් රථයේ පසුපස වීදුරුව බිඳී ගොස් තිබේ.
+
+එම ගල් ප්‍රහාරයත් සමග මෙලෙස අත්අඩංගුවට ගෙන ඇති තරුණයින් පිරිස අතර සිටි තරුණයෙකුද තුවාල ලබා ඇති බව මේ වනවිට වාර්තා වී ඇත.
+
+ඒ සමගම බස් රථයෙන් බැස අදාළ තරුණයින් පිරිස පසුපසින් පැමිණි බස් රථයේ රියදුරුට සහ කොන්දොස්තරවරයාට පහරදී ඇත.
+
+...
+
+[Data](articles/82a6b940.json)
+
+---
+
+### Sri Lanka stocks close up, trades in banking shares drive turnover
+
+*2024-02-15 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-trades-in-banking-shares-drive-turnover-151081/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 36.98 points, or 0.35 percent at 10,568, while the S&P SL20 Index closed up at 3,035 points, up 0.37 percent, or 11.09 points.
+
+Turnover was at 961 million. Trades in the Banks sector (283mn) added the most to the day’s turnover.
+
+Sampath Bank Plc saw large volumes traded in the day, contributing 122mn to the day’s turnover. The bank announced a cash dividend of 5.85 per share. The share closed up at 73.10.
+
+Commercial Bank of Ceylon Plc also saw active volumes traded in the day, contributing 106mn to the turnover, and the share closed up at 89.50.
+
+Other sectors that attracted investor interest were Capital Goods (158mn), and Food, Beverage and Tobacco (112mn).
+
+Shares of HNB Assurance Plc which announced a dividend of 3.90 rupees per share closed up at 56.00.
+
+Dilmah Ceylon Tea Company Plc which announced a dividend of 10.00 rupees per share closed flat at 999.75.
+
+...
+
+[Data](articles/d38dd35c.json)
 
 ---
 
@@ -234,6 +388,60 @@ Sri Lanka vs. Afghanistan T20 matches will be played on February 17, 19, and 21 
 
 ---
 
+### අස්වැසුම දෙවැනි අදියරේ අයදුම්පත් බාරගැනීම මාර්තු 15 දක්වා
+
+*2024-02-15 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193424) · `si`
+
+අස්වැසුම දෙවැනි අදියර සඳහා අයදුම්පත් බාරගැනීම අද (15) සිට මාර්තු 15 වනදා දක්වා සිදු කෙරෙන බව සුබසාධක ප්‍රතිලාභ මණ්ඩලයේ සභාපති ජයන්ත විජේරත්න මහතා පවසයි.
+
+අස්වැසුම පළමු අදියර සඳහා අයදුම්පත් යොමු කර නොමැති පවුල්වලට මෙන්ම අයදුම්පත් ඉදිරිපත් කළ නමුත් නිවාස තොරතුරු සංගණනයට ලක් නොවූ ඕනෑම පුද්ගලයකුට දෙවැනි අදියර සඳහා අයදුම් කිරීමේ අවස්ථාව හිමිවන බව සඳහන් ය.
+
+අස්වැසුම දෙවැනි අදියරේදී පවුල් ලක්ෂ 24කට ප්‍රතිලාභ ලබාදීමට අපේක්ෂා කරන අතර එහිදී හැකිතාක් සත්‍ය හා නිවැරදි දත්ත ඇතුළත් අයදුම්පත් ඉදිරිපත් කිරීමෙන් ප්‍රතිලාභ ලබාදීමේ ක්‍රියාවලිය කඩිනම් කළ හැකි බව සුබසාධක ප්‍රතිලාභ මණ්ඩලයේ සභාපතිවරයා වැඩිදුරටත් සදහන් කරයි.
+
+දෙවැනි අදියර සඳහා අයදුම්පත් බාරගැනීම පිළිබඳ දැනුවත් කිරීම සඳහා අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් සුබසාධක ප්‍රතිලාභ මණ්ඩලයේ සභාපති ජයන්ත විජේරත්න මහතා මෙම අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/20873ed3.json)
+
+---
+
+### ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩාලෝලීන්ට විශේෂ දැනුම්දීමක්
+
+*2024-02-15 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193423) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර දඹුල්ලේදී පැවැත්වෙන පළමු විස්සයි විස්ස ක්‍රිකට් තරගයේ ප්‍රවේශපත්‍ර සියල්ල මේ වනවිට විකිණී අවසන් බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පවසයි.
+
+ඒ අනුව ක්‍රිකට් ආයතනය නිවේදනයක් නිකුත් කරමින් ක්‍රීඩා ලෝලීන්ගෙන් ඉල්ලා සිටින්නේ තරගය නැරඹීම සඳහා ප්‍රවේශපත්‍ර ගැනීම සඳහා පැමිණීමෙන් වළකින ලෙසටය.
+
+මේ අතර ප්‍රවේශපත්‍ර ලබාගැනීම සඳහා විශාල පිරිසක් අද දිනයේ ද දඹුල්ල ක්‍රීඩාංගණය අසළ පෝලිම්වල සිටිනු දැකගත හැකිවිය.
+
+◼️
+
+[Data](articles/17c17a7b.json)
+
+---
+
+### KPMG audit of Ceylon Petroleum Storage Terminals finds data deleted, stock losses
+
+*2024-02-15 16:37:00* · [`economynextcom`](https://economynext.com/kpmg-audit-of-ceylon-petroleum-storage-terminals-finds-data-deleted-stock-losses-151071/) · `en`
+
+ECONOMYNEXT – A forensic audit conducted by KPMG on irregularities at Ceylon Petroleum Corporation and Ceylon Petroleum Storage Terminals (CPSTL) has found massive stock losses, and entries on the ERP software plaform have been have been changed or deleted, Sri Lanka’s energy minister has said.
+
+The audit was done based on a complaint made by Sri Lanka’s Minister of Power and Energy to the Criminal Investigations Department in August 2022.
+
+“The major findings of the forensic audit conducted by KPMG on the sales and distribution of petroleum products from Ceylon Petroleum Storage Terminals Ltd (CPSTL) was briefed to me this afternoon,” Energy Minister Kanchana Wijesekera said on  X (twitter).
+
+“KPMG and CPSTL audit investigation officials briefed me today that they have found that:
+
+1. More than 1.3 Million entries on SAP data has been changed or deleted since 2010 and most has occurred in 2022 during the height of the fuel crisis
+
+...
+
+[Data](articles/aed45ea8.json)
+
+---
+
 ### Thennakoon says 42 International red notices issued for wanted criminals
 
 *2024-02-15 16:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thennakoon-says-42-International-red-notices-issued-for-wanted-criminals/108-277093) · `en`
@@ -349,6 +557,22 @@ Accordingly, the suspect was arrested on the orders of Inspector Chandana Kamage
 [Data](articles/73061f30.json)
 
 [Extended Data](ext_articles/73061f30.ext.json)
+
+---
+
+### JKH, Teejay, CTC, Dialog and Dilmah score in transparency in corporate reporting
+
+*2024-02-15 16:01:00* · [`economynextcom`](https://economynext.com/jkh-teejay-ctc-dialog-and-dilmah-score-in-transparency-in-corporate-reporting-151057/) · `en`
+
+ECONOMYNEXT – John Keells Holdings Plc, Teejay Lanka Plc, Ceylon Tobacco Company Plc, Dialog Axiata Plc, and Dilmah Ceylon Tea Company Plc tied first in Transparency in Corporate Reporting (TRAC) assessment by Transparency International Sri Lanka (TISL).
+
+All five companies achieved the full score for transparency in corporate reporting, while 27 companies are considered ‘Significantly Transparent’ in corporate reporting as per the latest assessment. The Report assessed companies on their corporate disclosure practices in preventing corruption.
+
+“Assessing corporate transparency through TRAC assessments will not address all grand corruption cases in Sri Lanka. Nevertheless, corporate transparency is one step that companies can take to reduce the risk of corruption within their organisations,” said Nadishani Perera, Executive Director, TISL said in a statement.
+
+...
+
+[Data](articles/61684cb4.json)
 
 ---
 
@@ -654,6 +878,22 @@ The first phase of the Anuradhapura Northern Water Supply Scheme, which was fund
 
 ---
 
+### India-Sri Lanka officials discuss capacity building for civil servants
+
+*2024-02-15 14:50:00* · [`economynextcom`](https://economynext.com/india-sri-lanka-officials-discuss-capacity-building-for-civil-servants-151052/) · `en`
+
+ECONOMYNEXT – A Sri Lankan delegation in India have held bilateral talks with Indian officials on collaboration in personnel administration and governance.
+
+“Both sides discussed on the modalities of a proposed Memorandum of Understanding between Sri Lanka Institute of Development Administration (SLIDA) and NCGG [National Centre for Good Governance, India] with a view to conduct Capacity Building Programmes (CBP) for senior and mid-level civil servants of Sri Lanka by NCGG,” a statement by the High Commission of India in Colombo said.
+
+The meetings took place in New Delhi today (15) between Secretary, Department of Administrative Reforms and Public Grievances (DAR&PG), Shri V Srinivas and Secretary to the Prime Minister of Sri Lanka, Anura Dissanayake.
+
+...
+
+[Data](articles/d8d2f50c.json)
+
+---
+
 ### Bail for university students
 
 *2024-02-15 14:41:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மாணவர்களுக்கு-பிணை/175-333263) · `ta`
@@ -878,6 +1118,24 @@ The wholesale price of big onions remains at Rs.350-375 a kilo at the moment.
 
 ---
 
+### Sri Lanka restructuring unit extends Litro Gas bid deadline
+
+*2024-02-15 13:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-restructuring-unit-extends-litro-gas-bid-deadline-151036/) · `en`
+
+ECONOMYNEXT – The bid deadline for Litro Gas Lanka Limited and Litro Gas Terminal Lanka (Private Limited) has been extended, the State Owned Enterprises Restructuring Unit of Sri Lanka’s Ministry of Finance said.
+
+In January, the Government called for expressions of interest for the state-owned gas company to be submitted by February 16. This has been extended to March 1, 2024, SOERU told prospective bidders.
+
+“In relation to the Request for Expression of Interest (“REOI”) dated January 16 2024, to amend certain provisions of the REOI,” the SOERU said on social media platform X (twitter), on Thursday (15), publishing an amendment to the original bid document.
+
+The government has 99.93 percent of the shares of the company, the largest supplier of cooking gas in the country, through Sri Lanka Insurance Corporation, and four workers have the balance. (Colombo/Feb15/2024)
+
+◼️
+
+[Data](articles/ab1c40e9.json)
+
+---
+
 ### President invites all parties to collaborate for national development
 
 *2024-02-15 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97294/president-invites-all-parties-to-collaborate-for-national-development) · `en`
@@ -1067,6 +1325,24 @@ The US dollar purchasing price was Rs 308.2195 and the sales price were 318.0679
 [Data](articles/75f6494d.json)
 
 [Extended Data](ext_articles/75f6494d.ext.json)
+
+---
+
+### ADB US$8mn to develop smart agriculture in Sri Lanka Mahaweli
+
+*2024-02-15 12:47:00* · [`economynextcom`](https://economynext.com/adb-us8mn-to-develop-smart-agriculture-in-sri-lanka-mahaweli-151024/) · `en`
+
+ECONOMYNEXT – The Asian Development Bank will provide 8 million dollars to develop smart agriculture practices using modern technology in the Mahaweli region agriculture and animal husbandry sectors.
+
+“Younger people in the Mahaweli zones have shown a high tendency to engage in agricultural activities with smart technology. By developing the necessary facilities for this, the income of Mahaweli farmers can be increased by 200 percent,” Minister of Irrigation, Wildlife and Forest Conservation Pavithra Wanniarachchi was quoted as saying in a statement by the Department of Government Information.
+
+Wanniarachchi said that she had asked the ADB for financial support and expert knowledge to do this, at a meeting with senior officials of the Mahaweli Authority on Wednesday (14).
+
+The ADB funds will be disbursed through the Mahaweli Authority of Sri Lanka under its Water Security Investment Program, which has introduced a work plan on how the money will be spent, according to the statement.
+
+...
+
+[Data](articles/775202cf.json)
 
 ---
 
@@ -1739,277 +2015,5 @@ Based on the occasional complaints from travelers, we have taken appropriate act
 [Data](articles/34f2969f.json)
 
 [Extended Data](ext_articles/34f2969f.ext.json)
-
----
-
-### Red announcement against 42 people who fled the country!
-
-*2024-02-15 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176424) · `ta`
-
-In response to 42 international red announcements have been issued to the culprits who fled the country for crimes such as underworld and drug trafficking, police chief Deshand Pandu Tennakoon said.
-
-He was speaking at the inauguration of the new police station in front of the Colombo National Hospital.
-
-He said the suspects involved in these red announcements would be brought to Sri Lanka with the help of the International Police.
-
-He also said that the police officer who allegedly helped Harakatta escaped from the Criminal Investigation Department would soon be brought to Sri Lanka.
-
-◼️
-
-[Data](articles/29c60f59.json)
-
-[Extended Data](ext_articles/29c60f59.ext.json)
-
----
-
-### Notice of the start of the new school term
-
-*2024-02-15 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193409) · `si`
-
-The Ministry of Education has issued a statement regarding the new school term.
-
-Accordingly, the third school in government and government approved private schools end on Friday 16th.
-
-The first phase of the new first first first first school is scheduled to begin on Monday, 19th February.
-
-◼️
-
-[Data](articles/3e6b1e88.json)
-
-[Extended Data](ext_articles/3e6b1e88.ext.json)
-
----
-
-### Customs jumping into the work
-
-*2024-02-15 11:13:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டப்படி-வேலை-போராட்டத்தில்-குதித்த-சுங்கம்/175-333248) · `ta`
-
-The Customs' Trade Union Federation has decided to engage in a 'legal work' struggle.
-
-The decision of the Customs Workers Union has made this decision on various demands.
-
-It is reported that the union has decided to launch the trade union from 9 am today.
-
-◼️
-
-[Data](articles/f81c0a2a.json)
-
-[Extended Data](ext_articles/f81c0a2a.ext.json)
-
----
-
-### Increasing divorce cases
-
-*2024-02-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176415) · `ta`
-
-Minister of Justice Vijayadasa Rajapakse said that 48,391 divorce cases have been taken up in courts from January 2022 to December 31st.
-
-Meanwhile, 37 and 514 cases of alimony for spouse or children have been taken up for hearing during the period.
-
-He added that this is considered a large sum for a small country like Sri Lanka.
-
-◼️
-
-[Data](articles/ab88528a.json)
-
-[Extended Data](ext_articles/ab88528a.ext.json)
-
----
-
-### 25 Sri Lankans to be deported
-
-*2024-02-15 11:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-கடத்தப்படவுள்ள-25-இலங்கையர்கள்/175-333246) · `ta`
-
-The Maldivian government has decided to deport 186 foreigners, including 25 Sri Lankans accused of illegal activities.
-
-Foreign media reports that a group involved in a visa violation and drug offenses has been deported from the country.
-
-25 Sri Lankans, 83 citizens, 46 Indian citizens and 08 Nepal citizens will be deported.
-
-◼️
-
-[Data](articles/e16d796a.json)
-
-[Extended Data](ext_articles/e16d796a.ext.json)
-
----
-
-### Continuing strategy: 656 arrested within 24 hours!
-
-*2024-02-15 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176423) · `ta`
-
-656 people were arrested on suspicion of 24 hours after the end of this morning (15).
-
-535 suspects in connection with drug offenses and 121 suspects in the list of crimes have been arrested.
-
-Of the 535 suspects involved in drug offenses, 16 are on the list of the Police Drug Eradication Bureau and the Special Bureau of Police.
-
-Of the 121 suspects, 121 are reported to have been issued by six opened drug crimes.
-
-◼️
-
-[Data](articles/97bf341b.json)
-
-[Extended Data](ext_articles/97bf341b.ext.json)
-
----
-
-### Sri Lanka exporters optimistic over 2024, want political stability and energy: survey
-
-*2024-02-15 11:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-exporters-optimistic-over-2024-want-political-stability-and-energy-survey-151015/) · `en`
-
-ECONOMYNEXT – Sri Lanka exporters have expressed optimism about the economic and growth prospects for 2024, despite challenges, with service exporters seeing a lack of skilled labour, a survey by the Ceylon Chamber of Commerce has found.
-
-Political stability and consistent energy were identified as key facilitators.
-
-About 53 percent of the respondents to CCC’s Exporter Barometer Survey had expanded their workforce, with 21 percent saying they had “significantly” expanded.
-
-About 26 percent said they had not expanded the workforce and had seen falling demand and worker migration.
-
-“Service-oriented exporters grappled with a lack of skilled labour, highlighting a sector-specific challenge that warrants attention,” the chamber said.
-
-“However, most exporters identified new business opportunities, leading to workforce expansion to meet growing production demands.”
-
-About 39 percent of the respondents expected moderate economic growth in 2024, one percent high growth and 13 percent no change.
-
-...
-
-[Data](articles/cd1a7185.json)
-
-[Extended Data](ext_articles/cd1a7185.ext.json)
-
----
-
-### Maldives deports 25 Sri Lankans over illegal activities
-
-*2024-02-15 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97287/maldives-deports-25-sri-lankans-over-illegal-activities) · `en`
-
-The Government of Maldives has deported 186 foreign nationals including 25 Sri Lankans accusing them of committing crimes such as visa violations and drug offences.
-
-Among the deportees, the highest number of individuals were from Bangladesh (83), followed by India (43), Sri Lanka (25) and Nepal (08).
-
-However, the date of the deportation of these foreigners is still unknown, as per sources.
-
-The news of the deportation comes amid diplomatic an ongoing India-Maldives diplomatic row, after the Maldivian home ministry said they have undertaken efforts to shut down businesses operating illegally in the country with earnings deposited to bank accounts held by foreigners.
-
-The Maldives’ homeland security minister Ali Ihusan said his office is working with the finance ministry operating against ‘illegal businesses’ operating under various names. He said businesses operated by a foreigner instead of the registered owner also comes under the ambit of the so-called ‘illegal businesses’.
-
-...
-
-[Data](articles/b7fe4ad8.json)
-
-[Extended Data](ext_articles/b7fe4ad8.ext.json)
-
----
-
-### 656 arrested in 24 hours
-
-*2024-02-15 11:03:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-656-பேர்-கைது/175-333244) · `ta`
-
-Police said 656 suspects have been arrested in the last 24 hours in the country.
-
-535 suspects in connection with drug offenses and 121 suspects from the list mentioned in the criminal category have been arrested.
-
-Of the 535 suspects involved in drug offenses, 16 are on the list of the Police Drug Eradication Bureau and the Special Bureau of Police.
-
-Meanwhile, the police have seized 241 grams of heroin, 139 grams of ice, 1 kilogram of cannabis and 1,521 tablets.
-
-◼️
-
-[Data](articles/04130373.json)
-
-[Extended Data](ext_articles/04130373.ext.json)
-
----
-
-### Customs fade
-
-*2024-02-15 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193408) · `si`
-
-The Customs Trade Union Alliance has decided to come to a professional program of fracting.
-
-The Customs Trade Union Alliance has taken this decision based on several demands.
-
-They say that this trade union action has been decided from 9 am today.
-
-◼️
-
-[Data](articles/741f9737.json)
-
-[Extended Data](ext_articles/741f9737.ext.json)
-
----
-
-### Following are the first stage of the Anuradhapura North Water Supply Project
-
-*2024-02-15 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193407) · `si`
-
-The first phase of the North Water Supply Project was given to the public shortly before the President.
-
-The project is being implemented with financial assistance of the Japan International Cooperation Institute (JICA).
-
-Jaya Chiefsi headed by Dr. Tanaka Akokoo was also present at the occasion.
-
-◼️
-
-[Data](articles/3522f07e.json)
-
-[Extended Data](ext_articles/3522f07e.ext.json)
-
----
-
-### Air Rifle gun to control "Tok" monkeys in Kegalle
-
-*2024-02-15 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176414) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya has said that the funds will be allocated to the farmers to buy high -quality air rifle guns in order to control the Doki monkeys in Kegalle district.
-
-The threat of monkeys has increased in the country, especially in the Kegalle district. Because of this, even school children are unable to keep the food in their hands.
-
-I have personally intervened to resolve the issue while engaged in repeated discussions with veterinary authorities over the implementation of contraceptive surgery to control the number of monkeys. Whatever the impacts, my resolution has not changed.
-
-I will provide air rifle guns to 600 agricultural organizations in Kegalle district. He said that the purpose of the effort is to empower these organizations to take immediate action to control the number of monkeys.
-
-◼️
-
-[Data](articles/e6fbec0b.json)
-
-[Extended Data](ext_articles/e6fbec0b.ext.json)
-
----
-
-### The second phase application from today
-
-*2024-02-15 10:57:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டாம்-கட்ட-விண்ணப்பம்-இன்று-முதல்/175-333242) · `ta`
-
-Finance Minister Shehan Semasinghe said that steps to accept applications for the second phase of Az Vesuma will be launched from Thursday (15).
-
-The Minister of State has stated that he expects those applications for a month.
-
-The Minister of Finance said, “All those who wish to apply for applications can apply through the online system.. In addition, special divisions in the Divisional Secretariats can be provided.
-
-We will request applications for a month. In the first round, 20 lakh applications will be issued as Assembly Payment. We expect to increase it up to 24 lakhs in the second round. We expect them to be provided with the necessary welfare assistance in July. Overall, the government is expected to spend 205 billion rupees on welfare schemes this year. ”
-
-◼️
-
-[Data](articles/06ba892c.json)
-
-[Extended Data](ext_articles/06ba892c.ext.json)
-
----
-
-### Minister Ranjith Ranjith from Ranjith to protect cultivation from Riyawan
-
-*2024-02-15 10:55:57* · [`adalk`](https://www.ada.lk/breaking_news/රිලවුන්ගෙන්-වගා-ආරක්ෂා-කරන්න-ඇමති-රංජිත්ගෙන්-වායු-රයිෆල/11-408097) · `si`
-
-State Minister Ranjith Siyambalapitiya says that steps will be taken to provide air rifles to the farmer organizations in the Kegalle district.
-
-The Minister said that the farmers have faced a major problem due to the damages caused by the Riyalaww.. The air rifles are given from their decentralized fund.
-
-◼️
-
-[Data](articles/7cd157da.json)
-
-[Extended Data](ext_articles/7cd157da.ext.json)
 
 ---

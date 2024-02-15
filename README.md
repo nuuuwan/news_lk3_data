@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 02:17:30**
+As of **2024-02-16 02:33:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,343 (100.0%) of 7,345 articles have been extended.
+7,345 (100.0%) of 7,345 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ We can see hordes of teachers entering the teaching profession and being unhappy
 
 [Data](articles/e68b6439.json)
 
+[Extended Data](ext_articles/e68b6439.ext.json)
+
 ---
 
 ### Israel’s genocide juggernaut to hit Rafah, despite global appeals
@@ -63,6 +65,8 @@ And never has a United States government been as weak in its diplomatic coercion
 ...
 
 [Data](articles/9f884df1.json)
+
+[Extended Data](ext_articles/9f884df1.ext.json)
 
 ---
 

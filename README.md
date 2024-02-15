@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 16:17:34**
+As of **2024-02-15 16:33:10**
 
 ## Newspaper Stats
 
-*Scraped **7,251** Articles*
+*Scraped **7,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 375
 islandlk | 376
 dailyftlk | 389
 adalk | 620
-adaderanalk | 887
+adaderanalk | 890
 tamilmirrorlk | 892
 virakesarilk | 943
 adaderanasinhalalk | 1,022
@@ -26,65 +26,113 @@ dailymirrorlk | 1,058
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,248 (100.0%) of 7,251 articles have been extended.
+7,251 (100.0%) of 7,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### ඉන්දුනීසියාවේ නව පාලකයා ?
+### Japan slips into a recession and loses its spot as the world’s third-largest economy
+
+*2024-02-15 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97297/japan-slips-into-a-recession-and-loses-its-spot-as-the-worlds-third-largest-economy) · `en`
+
+Japan’s economy is now the world’s fourth-largest after it contracted in the last quarter of 2023 and fell behind Germany.
+
+The government reported the economy shrank at an annual rate of 0.4% in October to December, according to Cabinet Office data on real GDP released Thursday, though it grew 1.9% for all of 2023. It contracted 2.9% in July-September. Two straight quarters of contraction are considered an indicator an economy is in a technical recession.
+
+Japan’s economy was the second largest until 2010, when it was overtaken by China’s. Japan’s nominal GDP totaled $4.2 trillion last year, while Germany’s was $4.4 trillion, or $4.5 trillion, depending on the currency conversion.
+
+A weaker Japanese yen was a key factor in the drop to fourth place, since comparisons of nominal GDP are in dollar terms. But Japan’s relative weakness also reflects a decline in its population and lagging productivity and competitiveness, economists say.
+
+...
+
+[Data](articles/78f3f781.json)
+
+---
+
+### New ruler of Indonesia?
 
 *2024-02-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193419) · `si`
 
-ඒ, රටට ජනාධිපතිවරයෙක්, උප ජනාධිපතිවරයෙක්, පාර්ලිමේන්තු සහ ප්‍රාදේශීය මන්ත්‍රීවරුන් තෝරාගැනීමේ අපේක්ෂාවෙනි.
+It is the prospect for a president, a vice president, a vice president, parliament and local MPs.
 
-එහිදී සියලුදෙනාගේ වැඩි අවධානයට ලක්වූයේ ඉන්දුනීසියාවේ මීළඟ පාලකයා කවරෙක්ද යන්න සම්බන්ධයෙනි.
+All the attention of everyone was involved in the next ruler of Indonesia.
 
-මෙවර ඉන්දුනීසියානු ජනාධිපතිවරණ සටන වඩාත් තරගකාරී වූ අතර, ඊට ඉදිරිපත්ව සිටින්නේ එරට දේශපාලනයේ කැපී පෙනෙන චරිත කිහිපයක් වීම ඊට හේතුවය.
+This time the Indonesian presidential presidential election was more competitive and was the reason for being a few significant characters in politics.
 
-වසර 10ක් රට පාලනය කළ ජනාධිපති ජෝකෝ විඩෝඩෝගෙන් පසු රටේ නව දිශානතිය කුමක්ද යන්නත් ජනතාව දැඩි අවධානයෙන් පසුවීමත් මෙවර මැතිවරණය වඩාත් තීරණාත්මක වීමට හේතු වුණි.
+The public was too many decisive, and the people of the country were more critical to the people who ruled the country for 10 years.
 
-ලොව එක් දිනක පැවැත්වෙන විශාලතම මැතිවරණය වන ඉන්දුනීසියානු මැතිවරණය ඊයේ අවසන් වුණේ එවන් වාතාවරණයක ය.
+In such an environment that the world's largest electoral Indonesian election was ended yesterday.
 
-රටේ ජනාධිපති තනතුර වෙනුවෙන් සටන් වැදුණු ප්‍රධාන අපේක්ෂකයින් අතරට, හිටපු ආරක්ෂක ඇමති ප්‍රබෝවෝ සුබියන්තෝ, ජාවා හි හිටපු ආණ්ඩුකාර ගැන්ජර් ප්‍රානොවෝ සහ හිටපු අධ්‍යාපන ඇමතිවරයෙක් වන ජකර්තා ආණ්ඩුකාර ආනීස් බස්වෙදාන් අයත් වුණි.
+Former Defense Minister Probavo Subiyano and former Minister of Defense Jakratha, Jakarta, who fought for the president of the country, belongs to former Defense Minister Praboda and former Education Minister Jakartha, a former Governor Honor Jakrah, Jakartha.
 
-මැතිවරණයේ ප්‍රතිඵල ඊයේ රාත්‍රියේ සිටම නිකුත්වීමට පටන් ගත්තේ, ඉන්දුනීසියාවට අවේණික වූ පූර්ව ප්‍රතිඵල ලබාදීමේ ක්‍රමවේදය යටතේය.
+The results of the elections began to be released from last night, under the methodology adopted to deliver the pre-results for Indonesia.
 
 ...
 
 [Data](articles/a977241e.json)
 
+[Extended Data](ext_articles/a977241e.ext.json)
+
 ---
 
-### அஸ்வெசும இரண்டாம் கட்டம் : இன்றுமுதல் விண்ணப்பிக்கலாம் - நலன்புரி நன்மைகள் சபையின் தலைவர்
+### Ashemum Second Stage: Apply Today - Head of Welfare Benefits Council
 
 *2024-02-15 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176453) · `ta`
 
-அஸ்வெசும இரண்டாம் கட்டத்திற்காக விண்ணப்பங்கள் ஏற்றுக்கொள்ளும் பணி இன்று (15) முதல் மார்ச் 15 ஆம் திகதி வரை நடைபெறவுள்ளதாகவும், தகுதிபெறும் அனைவருக்கும் எவ்வித தடங்கலும் இன்றி அஸ்வெசும பலன்கள் கிடைக்குமெனவும் நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன தெரிவித்தார்.
+Welfare Benefits Council Chairman Jayantha Wijeratne said that the process of accepting applications for the second phase of the second phase will be held from today (15th) to March 15th and that all those who are eligible will get the benefits without any obstacles.
 
-அஸ்வெசும முதற்கட்டத்தில்  விண்ணப்பங்களை சமர்ப்பிக்காத குடும்பங்களுக்கும்  விண்ணப்பங்களைச் சமர்ப்பித்தும்  வீட்டுத் தகவல் கணக்கெடுப்புக்கு உட்படுத்தப்படாத எந்தவொரு நபர்களும் இரண்டாம் கட்டத்திற்கு விண்ணப்பிக்க வாய்ப்பு இருப்பதாகவும் அவர் குறிப்பிட்டார்.
+He said that families who did not submit applications in the preliminary first phase would have the opportunity to apply for the second phase of any persons who did not submit their applications and submit their home information.
 
-அஸ்வெசும இரண்டாம் கட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்வது தொடர்பாக விளக்கமளிக்கும்  ஊடகவியலாளர் சந்திப்பு இன்று வியாழக்கிழமை (15) ஜனாதிபதி ஊடக மையத்தில் நடைபெற்றது. இங்கு கருத்துத் தெரிவிக்கும் போதே நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன மேற்கண்டவாறு தெரிவித்தார்.
+A media briefing to explain applications for the second phase of the second phase was held today (15) at the Presidential Media Center at the Presidential Media Center. Commenting on here, the President of the Welfare Benefits Council Jayantha Wijeratne said the above.
+
+Under the second phase of the second phase, 24 lakhs of families are expected to be benefited.
 
 ...
 
 [Data](articles/d926f289.json)
 
+[Extended Data](ext_articles/d926f289.ext.json)
+
 ---
 
-### யாழ். வட்டுக்கோட்டையில் விபத்து ; இருவர் காயம்
+### Eligible individuals to receive ‘Aswesuma’ benefits without repercussions: WBB
+
+*2024-02-15 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97296/eligible-individuals-to-receive-aswesuma-benefits-without-repercussions-wbb) · `en`
+
+The Welfare Benefits Board (WBB) chairman has announced the commencement of applications for the second phase of ‘Aswesuma’ program on Thursday (Feb.15).
+
+Accordingly, new applications are accepted for a period of one month until March 15.
+
+Eligible individuals will receive the benefits without repercussions, WBB Chairman Jayantha Wijeratne noted.
+
+The families that could not submit applications during the first phase or did not participate in the housing information census can apply during the new phase, he explained.
+
+Meanwhile, the monthly allowances paid to disabled persons, kidney patients and elderly citizens are to be retrospectively increased from January 2024.
+
+Accordingly, kidney patients and disabled persons’ allowances will be raised from Rs. 5,000 to Rs. 7,500, while the elderly citizens’ allowance will be increased from Rs. 2,000 to Rs. 3,000.
+
+...
+
+[Data](articles/dec02f21.json)
+
+---
+
+### Yall. Accident in Vaddukoddai;Two people injured
 
 *2024-02-15 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176451) · `ta`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை பொலிஸ் பிரிவிற்குட்பட்ட, வட்டுக்கோட்டை சந்திக்கு அண்மித்த பகுதியில் இன்று வியாழக்கிழமை (15) காலை இரண்டு முச்சக்கர வண்டிகள் ஒன்றுடன் ஒன்று மோதி விபத்து இடம்பெற்றுள்ளது.
+Two -wheelers collided with two -wheelers on Thursday morning at the Vaddukoddai junction, which belongs to the Vaddukoddai police division in Jaffna.
 
-இதன்போது, இருவர் படுகாயமடைந்த நிலையில் அவசர நோயாளர் காவுவண்டி மூலம் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு அழைத்துச் செல்லப்பட்டு அங்கு சிகிச்சை பெற்று வருகின்றனர்.
+In the meantime, two persons have been taken to the Jaffna Teaching Hospital by the emergency patient Kavuwandi and are being treated there.
 
-அதிக வேகம் காரணமாக இந்த விபத்து சம்பவித்துள்ளதாக கூறப்படுகிறது. இச்சம்பவம் குறித்து வட்டுக்கோட்டை பொலிஸ் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+The accident is said to have occurred due to high speed. Vaddukoddai police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/e4fa8fcc.json)
+
+[Extended Data](ext_articles/e4fa8fcc.ext.json)
 
 ---
 
@@ -175,6 +223,24 @@ In this case, health inspectors have been asked to focus on the health and water
 [Data](articles/8af94ade.json)
 
 [Extended Data](ext_articles/8af94ade.ext.json)
+
+---
+
+### Ex-President Sirisena calls on top official of US State Dept.
+
+*2024-02-15 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97295/ex-president-sirisena-calls-on-top-official-of-us-state-dept) · `en`
+
+Former President Maithripala Sirisena has called on Afreen Akhter, the Deputy Assistant Secretary to the Bureau of South Central Asian Affairs of the US State Department in Washington DC.
+
+During the encounter, the former Sri Lankan leader exchanged views with Akhter on further strengthening bilateral relations between the two countries.
+
+The two sides also discussed the island nation’s political situation at length.
+
+Sirisena expressed his gratitude to the United States for the continued support extended to Sri Lanka.
+
+◼️
+
+[Data](articles/2e3f629e.json)
 
 ---
 
@@ -2007,55 +2073,5 @@ Earlier, the Indian Twenty20 team was led by Suriyadu Yadav.
 [Data](articles/8e4a6cf3.json)
 
 [Extended Data](ext_articles/8e4a6cf3.ext.json)
-
----
-
-### The newest of justice
-
-*2024-02-15 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193403) · `si`
-
-Police have arrested 656 suspects in the 24 hours in the country today (15).
-
-◼️
-
-[Data](articles/7486280f.json)
-
-[Extended Data](ext_articles/7486280f.ext.json)
-
----
-
-### Sri Lanka was brought from Dubai's close colleague of "Kudu Salindu"!
-
-*2024-02-15 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176413) · `ta`
-
-One of the leaders of the underworld, Salinda Malshika, a 'Kudu Salinda', has been brought to Sri Lanka from Dubai.
-
-Public Security Ministry said that Gudu Salindu's close colleague, Pi and Hastika, were brought from Dubai to the country on Thursday morning.
-
-Investigations have also revealed that it is also a key person who distributes drugs from Dubai to Sri Lanka.
-
-◼️
-
-[Data](articles/315fbb6a.json)
-
-[Extended Data](ext_articles/315fbb6a.ext.json)
-
----
-
-### Chandrika's special announcement on party leadership
-
-*2024-02-15 09:27:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சித்-தலைமை-குறித்து-சந்திரிகா-விசேட-அறிவிப்பு/175-333240) · `ta`
-
-Former President Chandrika Bandaranaike Kumaratunga has said that no decision has been taken so far on the seizure of the leadership of the PA.
-
-He pointed out in his statement that he has not yet decided to support any candidate in the upcoming presidential election.
-
-Chandrika Bandaranaike said in her announcement that the media reports that they have decided to support various presidential candidates in the presidential election.
-
-◼️
-
-[Data](articles/9453c39e.json)
-
-[Extended Data](ext_articles/9453c39e.ext.json)
 
 ---

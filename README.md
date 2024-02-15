@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 10:17:23**
+As of **2024-02-15 10:33:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,144 (100.0%) of 7,146 articles have been extended.
+7,146 (100.0%) of 7,146 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,19 +74,21 @@ Police have arrested 656 suspects in the 24 hours in the country today (15).
 
 ---
 
-### “குடு சலிந்து”வின் நெருங்கிய சகா டுபாயிலிருந்து இலங்கை அழைத்துவரப்பட்டார் !
+### Sri Lanka was brought from Dubai's close colleague of "Kudu Salindu"!
 
 *2024-02-15 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176413) · `ta`
 
-பாதாள உலகக்குழுவின் தலைவர்களில் ஒருவரான 'குடு சலிந்து' எனப்படும் சலிந்து மல்ஷிகவின் நெருங்கிய சகா ஒருவர் டுபாயிலிருந்து இலங்கைக்கு அழைத்து வரப்பட்டுள்ளார்.
+One of the leaders of the underworld, Salinda Malshika, a 'Kudu Salinda', has been brought to Sri Lanka from Dubai.
 
-குடு சலிந்துவின் நெருங்கிய சகாவான பியும் ஹஸ்திக என்பவர் டுபாயிலிருந்து இன்று வியாழக்கிழமை (15)  காலை நாட்டுக்கு அழைத்துவரப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+Public Security Ministry said that Gudu Salindu's close colleague, Pi and Hastika, were brought from Dubai to the country on Thursday morning.
 
-டுபாயிலிருந்து இலங்கைக்கு போதைப்பொருட்களை விநியோகிக்கும் முக்கிய நபர் எனவும் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+Investigations have also revealed that it is also a key person who distributes drugs from Dubai to Sri Lanka.
 
 ◼️
 
 [Data](articles/315fbb6a.json)
+
+[Extended Data](ext_articles/315fbb6a.ext.json)
 
 ---
 
@@ -121,6 +123,8 @@ PM Gunawardena thanked Dr Akihito for the support extended to Sri Lanka for deca
 ...
 
 [Data](articles/b8ec3cb0.json)
+
+[Extended Data](ext_articles/b8ec3cb0.ext.json)
 
 ---
 

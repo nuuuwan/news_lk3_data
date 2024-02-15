@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 08:03:03**
+As of **2024-02-15 08:17:22**
 
 ## Newspaper Stats
 
-*Scraped **7,124** Articles*
+*Scraped **7,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 371
 islandlk | 376
 dailyftlk | 389
 adalk | 603
-tamilmirrorlk | 870
+tamilmirrorlk | 872
 adaderanalk | 872
 virakesarilk | 913
 adaderanasinhalalk | 998
@@ -26,67 +26,111 @@ dailymirrorlk | 1,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,118 (99.9%) of 7,124 articles have been extended.
+7,124 (100.0%) of 7,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### பேராசிரியர் ஜயந்த ஜயவர்தன மீள் நியமனம்
+### ’குடு சலிந்து’ வின் சகா கைது
 
-*2024-02-15 07:37:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-ஜயந்த-ஜயவர்தன-மீள்-நியமனம்/175-333236) · `ta`
+*2024-02-15 07:51:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடு-சலிந்து-வின்-சகா-கைது/175-333238) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவினால் உரிய காரணமின்றி நீக்கப்பட்ட இலங்கை மருத்துவ சபையின் (SLMC) முன்னாள் உறுப்பினர் பேராசிரியர் ஜயந்த ஜயவர்தன மீண்டும் SLMC உறுப்பினராக சேர்க்கப்பட்டுள்ளார்.
+பாதாள உலக குழுக்களின் தலைவர்களில் ஒருவரான 'குடு சலிந்து' எனப்படும் சலிந்து மல்ஷிகவின் பிரதான சகா ஒருவர் இலங்கைக்கு அழைத்து வரப்பட்டுள்ளார்.
 
-அதன்படி, மீண்டும் நியமனம் செய்யப்பட்ட உறுப்பினருக்கான பதவிக் காலம், தானாக முன்வந்து ராஜினாமா செய்தாலோ அல்லது அவசரச் சட்டத்தின்படி நீக்கப்பட்டாலோ தவிர, ஐந்து ஆண்டுகளுக்கு செல்லுபடியாகும்.
+குடு சலிந்துவின் பிரதான சகாவான பியும் ஹஸ்திக குற்றப் புலனாய்வு திணைக்களத்தின் விசேட குழுவினால் இன்று (15) அதிகாலை டுபாயில் இருந்து இலங்கைக்கு அழைத்து வரப்பட்டதாக தெரிவிக்கப்படுகிறது.R
 
-மீண்டும் பணியில் அமர்த்தப்பட்டதற்கு நன்றி தெரிவித்த பேராசிரியர் ஜெயவர்தன, தனது முந்தைய பணிநீக்கத்தின் சட்டவிரோத மற்றும் தன்னிச்சையான தன்மையை எடுத்துக்காட்டியதுடன் அவர் நேற்று (14) பதவியேற்றார்.
+◼️
 
-கடந்த ஒக்டோபர் மாதம் SLMC உப தலைவர் பதவியில் இருந்து பேராசிரியர் ஜெயவர்தன நியாயமான காரணமின்றி நீக்கப்பட்டார்.
-
-முன்னாள் சுகாதார அமைச்சரின் இந்த முடிவு சரியான பகுத்தறிவின்மை மற்றும் இயற்கை நீதியின் கொள்கைகளை மீறுவதாக விமர்சிக்கப்பட்டது.
-
-...
-
-[Data](articles/04e31b03.json)
+[Data](articles/94425705.json)
 
 ---
 
-### இன்றைய வானிலை நிலவரங்கள்
+### ”ஜனாதிபதி தேர்தலை ஒத்திவைக்க இடமில்லை”
+
+*2024-02-15 07:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலை-ஒத்திவைக்க-இடமில்லை/175-333237) · `ta`
+
+ஜனாதிபதித் தேர்தலை ஒத்திவைப்பதற்கு அரசியலமைப்புச் சட்டத்தில் இடமில்லை என முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க நேற்று ஊடகவியலாளர்களிடம் தெரிவித்தார்.
+
+ஐக்கிய குடியரசு முன்னணி நேற்று மாலை கொழும்பில் ஏற்பாடு செய்திருந்த நிகழ்வொன்றின் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே திருமதி குமாரதுங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+எவ்வாறாயினும், நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமை நீக்கப்படும் என்ற ஊகங்களுக்கு மத்தியிலும் ஜனாதிபதி தேர்தல் நடத்தப்படும் என அண்மையில் ஜனாதிபதி அலுவலகம் வழங்கிய உறுதிமொழி தொடர்பில் ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு அவர் விளக்கமளிக்க மறுத்துவிட்டார்.
+
+"ஜனாதிபதித் தேர்தலை ஒத்திவைக்க முடியாது என்றுதான் என்னால் கூற முடியும்," என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/19fa9b16.json)
+
+---
+
+### Re -appointment of Professor Jayantha Jayawardena
+
+*2024-02-15 07:37:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-ஜயந்த-ஜயவர்தன-மீள்-நியமனம்/175-333236) · `ta`
+
+Former Health Minister Keheliya Rambukwella, a former member of the Sri Lanka Medical Council (SLMC), has been re -elected as a member of the SLMC.
+
+Accordingly, the tenure for the re -appointed member is valid for five years except if he voluntarily resigned or abolished the Emergency Act.
+
+Professor Jayawardena thanked him for his re -employment and highlighted the illegal and spontaneous nature of his previous dismissal and was sworn in yesterday (14).
+
+Professor Jayawardene was removed from the post of SLMC vice president last October without a reasonable reason.
+
+This decision of the former Minister of Health was criticized for violating the principles of proper rationality and natural justice.
+
+It is noteworthy that Professor Jayawardena's credentials reflect extensive experience and leadership roles in the field of obstetricity and gynecology, as well as in the medical education and administration of Sri Lanka's Medical Education and Health Organization.
+
+◼️
+
+[Data](articles/04e31b03.json)
+
+[Extended Data](ext_articles/04e31b03.ext.json)
+
+---
+
+### Today's weather conditions
 
 *2024-02-15 07:28:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-நிலவரங்கள்/175-333235) · `ta`
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை,  பொலநறுவை, மாத்தளை மற்றும் நுவரேலியா மாவட்டங்களிலும் இடைக்கிடையே மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவத்துள்ளது.
+The Department of Meteorology has noted that rainfall will occur in the Eastern and Uva provinces as well as Hambantota, Polonnaruwa, Matale and Nuwaralia districts.
 
-சப்ரகமுவ, மேல் மற்றும் வடமேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+Showers or thunderstorms are likely to occur after two o'clock in the afternoon.
 
-மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும், வடக்கு, கிழக்கு, வடமத்திய, வடமேல், மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மாவட்டத்திலும்  மணித்தியாலத்திற்கு சுமார் 30 ‐ 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும்.
+Heavy winds can be frequent at speeds of 30 - 40 km / h in the Eastern Stoets of the Central Highlands, the North, Eastern, North, North Western and Uva provinces as well as in the Hambantota district.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+The public is asked to act with vigilance in the events of strong winds and lightning.
 
-திருகோணமலை தொடக்கம் மட்டக்களப்பு ஊடாக ஹம்பாந்தோட்டை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின் பல இடங்களில் மழை பெய்யக்கூடும்.
+Rainfall is likely to occur in many parts of the sea regions beyond the coast of Trincomalee to Batticaloa to Hambantota.
+
+Showers or thunderstorms are expected in the evening or night in some parts of the sea regions from Puttalam to Colombo and Galle.
+
+Winds from the northeast at 30 - 40 km / h in the sea regions.
 
 ...
 
 [Data](articles/7bee04a1.json)
 
+[Extended Data](ext_articles/7bee04a1.ext.json)
+
 ---
 
-### அமெரிக்காவின் கன்சாஸ் நகரத்தில்;  பெருமளவு மக்கள் கலந்துகொண்ட நிகழ்வில் துப்பாக்கி சூடு- 1 பலி 22 பேர் காயம்
+### In the city of Kansas, USA;22 killed in a large number of people
 
 *2024-02-15 07:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/176410) · `ta`
 
-அமெரிக்காவின் கன்சாஸ் நகரில் இடம்றெ;ற துப்பாக்கி சூட்டு சம்பவத்தில் ஒருவர் கொல்லப்பட்டுள்ளதுடன் 21 பேர் காயமடைந்துள்ளனர்.
+One person was killed and 21 injured in a shooting incident in Kansas, USA.
 
-கன்சாஸ் நகரத்தில் இடம்பெற்ற சுப்பர் பெவ்ல் வெற்றிஅணிவகுப்பின் இறுதியிலேயே துப்பாக்கி சூட்டுசம்பவம் இடம்பெற்றுள்ளது.
+The firing incident took place at the end of the Super Bevl Success in Kansas.
 
-ஒருமில்லியனிற்கும் மேற்பட்டவர்கள் கலந்துகொள்வார்கள் என எதிர்பார்க்கப்பட்ட இந்த நிகழ்வில் இறுதியில் இடம்பெற்ற வன்முறையை தொடர்ந்து மக்கள் அச்சத்தில் அங்கிருந்து தப்பியோட முயன்றுள்ளனர்.
+The event, which was expected to attend more than the Ansilion, was eventually attempting to flee in fear of the event.
 
-துப்பாக்கி சூட்டு சம்பவத்தினை தொடர்ந்து 22 பேர் காயமடைந்துள்ளனர் இவர்களில் பல சிறுவர்கள் உள்ளனர்
+22 people were injured following the shooting incident.
 
 ◼️
 
 [Data](articles/2bef9d19.json)
+
+[Extended Data](ext_articles/2bef9d19.ext.json)
 
 ---
 
@@ -109,6 +153,8 @@ The decision by the former Minister of Health was criticized for its lack of val
 ...
 
 [Data](articles/51193bd7.json)
+
+[Extended Data](ext_articles/51193bd7.ext.json)
 
 ---
 
@@ -201,6 +247,8 @@ The Petitioner stated that the Constitutional Council’s decision to reject the
 ...
 
 [Data](articles/3e27a843.json)
+
+[Extended Data](ext_articles/3e27a843.ext.json)
 
 ---
 
@@ -975,6 +1023,8 @@ Anura Bandaranaike born on 15 February 1949 was regarded as  the  crown prince o
 ...
 
 [Data](articles/ac4d1649.json)
+
+[Extended Data](ext_articles/ac4d1649.ext.json)
 
 ---
 
@@ -1957,43 +2007,5 @@ Pramod Madushan took three wickets.
 [Data](articles/fa7514f8.json)
 
 [Extended Data](ext_articles/fa7514f8.ext.json)
-
----
-
-### Facebook was paralyzed
-
-*2024-02-14 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176392) · `ta`
-
-Does Facebook Disable?It is noteworthy that the computer is complaining of 8L without access.
-
-◼️
-
-[Data](articles/c31cbc42.json)
-
-[Extended Data](ext_articles/c31cbc42.ext.json)
-
----
-
-### Police recover vehicle used in Modara shooting
-
-*2024-02-14 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97271/police-recover-vehicle-used-in-modara-shooting-) · `en`
-
-Police have reportedly recovered the vehicle suspected to have been used in the shooting incident reported from Modara on Tuesday night (13 Feb.).
-
-According to police the car was found abandoned in a forest area in Ekala.
-
-Police further reported that a bullet was also found inside the vehicle, while the chassis and engine numbers of the vehicle in question had been scratched off. It is also believed that the suspects had used a forged number plate.
-
-A 51-year-old sustained injuries after being shot in the Modara area last night, and is currently receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital, Ada Derana learns.
-
-The shooters had arrived in a car and opened fire at the victim near the entrance to a restaurant where he is employed as a manager, according to police.
-
-While the motive behind the shooting has not been ascertained yet, investigations have been launched by Modara Police to apprehend the perpetrators.
-
-◼️
-
-[Data](articles/44a11ebf.json)
-
-[Extended Data](ext_articles/44a11ebf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 13:51:53**
+As of **2024-02-15 14:02:29**
 
 ## Newspaper Stats
 
-*Scraped **7,218** Articles*
+*Scraped **7,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 375
 islandlk | 376
 dailyftlk | 389
 adalk | 614
-adaderanalk | 885
+adaderanalk | 886
 tamilmirrorlk | 888
 virakesarilk | 929
 adaderanasinhalalk | 1,017
@@ -26,11 +26,27 @@ dailymirrorlk | 1,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,218 (100.0%) of 7,218 articles have been extended.
+7,219 (100.0%) of 7,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### President invites all parties to collaborate for national development
+
+*2024-02-15 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97294/president-invites-all-parties-to-collaborate-for-national-development) · `en`
+
+President Ranil Wickremesinghe has emphasized the necessity of unity for national development, stating that political divisions hinder progress, the President’s Media Division (PMD) reported.
+
+Furthermore, he has extended an invitation to all parties to collaborate, not for their respective political affiliations, but to enhance the quality of life for the people of the nation, according to the PMD.
+
+◼️
+
+[Data](articles/91a6658b.json)
+
+[Extended Data](ext_articles/91a6658b.ext.json)
+
+---
 
 ### JICA chief and President Ranil discuss economic reforms, investment projects
 
@@ -1968,17 +1984,17 @@ The Department of Meteorology has requested the public to take steps to reduce t
 
 *2024-02-15 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97279/main-accomplice-of-kudu-salindu-repatriated-from-dubai) · `en`
 
-Criminal gang member Piyum Hasthika alias “Piyuma”, who was in hiding in Dubai, was repatriated to Sri Lanka in the early hours of Thursday (Feb.15).
+Criminal gang member Piyum Hasthika alias “Piyuma”, who was in hiding in Dubai, UAE, was repatriated to Sri Lanka in the early hours of Thursday (Feb.15).
 
-A special team of the Criminal Investigation Department (CID) had brought “Piyuma” back to the island, the Public Security Ministry said.
+He is reportedly the main accomplice of the notorious underworld figure and drug trafficker Salindu Malshika Gunaratne alias “Kudu Salindu,” who is also currently in the custody of the CID.
 
-He is reportedly the main accomplice of the notorious underworld figure Salindu Malshika alias “Kudu Salindu,” who is also currently in the custody of the CID.
+According to the Public Security Ministry, “Piyuma” was brought back to the island by a special team of the Criminal Investigation Department (CID).
 
-A team of officers from the CID had left for Madagascar on 11 March 2023 to repatriate Sri Lankan drug kingpin Nadun Chinthaka alias ‘Harak Kata’ and his infamous accomplice Salindu Malshitha Gunaratne, alias ‘Kudu Salindu’, who were arrested while on a visit to the island off the southeastern coast of Africa.
+The CID sleuths and the deportee reached the Bandaranaike International Airport (BIA) in Katunayake around 4.50 a.m. via a SriLankan Airlines flight. Three hours later, “Piyuma” was escorted to the CID headquarters for onward interrogations.
 
-The CID officers later returned to Sri Lanka with the notorious drug dealers on 15 March, and obtained an order under the Prevention of Terrorism Act (PTA) to detain the duo for 90 days.
+According to Sri Lanka Police, “Piyuma” was first arrested in 2018 for the possession of 20g of heroin and was referred to a rehabilitation centre for three months.
 
-◼️
+...
 
 [Data](articles/10d92ef2.json)
 
@@ -2079,23 +2095,5 @@ At the headquarters of the United People's Power Party, the Small Agreement was 
 [Data](articles/d7dd1068.json)
 
 [Extended Data](ext_articles/d7dd1068.ext.json)
-
----
-
-### Take up the convention to overcome maneuvers
-
-*2024-02-15 04:02:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூழ்ச்சிகளை-முறியடித்து-மாநாட்டை-நடத்துக/175-333232) · `ta`
-
-Sivagnanam Sridharan, the new leader of the party, has advised Sivagnanam Sampanthan, the leader of the Sri Lanka Tamil National Alliance (TNA), and the new leader of the party, to overcome the intrigue of internal democracy and immediately hold the conference.
-
-He was speaking at a meeting with MPs Sivagnanam Sridharan and Charles Nirmalanathan at the residence in Colombo on Tuesday (13).
-
-He further stated that the convention would be held on the day of the party to take immediate steps to officially accept the party's leadership, and that the decision was not recognized by the General Assembly, or the confusion in the election system, and the election system.
-
-◼️
-
-[Data](articles/a7445232.json)
-
-[Extended Data](ext_articles/a7445232.ext.json)
 
 ---

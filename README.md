@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 09:51:48**
+As of **2024-02-15 10:02:39**
 
 ## Newspaper Stats
 
-*Scraped **7,141** Articles*
+*Scraped **7,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ economynextcom | 371
 islandlk | 376
 dailyftlk | 389
 adalk | 605
-tamilmirrorlk | 872
+tamilmirrorlk | 873
 adaderanalk | 874
 virakesarilk | 914
-adaderanasinhalalk | 1,007
+adaderanasinhalalk | 1,009
 dailymirrorlk | 1,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,141 (100.0%) of 7,141 articles have been extended.
+7,141 (100.0%) of 7,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### නායකත්ව වගකීම රෝහිත්ට පැවරෙයි
+
+*2024-02-15 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193404) · `si`
+
+2024 T20 ක්‍රිකට් ලෝක කුසලානය සඳහා ඉන්දීය කණ්ඩායම මෙහෙයවීමේ වගකීම රෝහිත් ශර්මා වෙත ලබා දී ඇති බව ඉන්දීය ක්‍රිකට් කවුන්සිලයේ (BCCI) ලේකම් ජේ ශා සඳහන් කර ඇත.
+
+රාජ්කොට්හි පැවති උත්සවයක දී මාධ්‍යය වෙත අදහස් දක්වමින් ඔහු මේ බව අවධාරණය කර තිබේ.
+
+2022 T20 ලෝක කුසලානය සඳහා ද ඉන්දීය කණ්ඩායමට නායකත්වය දුන් රෝහිත් ශර්මා මෙවර එම වගකීම දරන්නේ දෙවැනි වතාවට ය.
+
+ඔස්ට්‍රේලියාවේ පැවැති එම තරගාවලියේ දී ඉන්දියාව අවසන් පූර්ව වටයේ දී එංගලන්තය හමුවේ පරාජයට පත් විය.
+
+ඉන් පසු ව රෝහිත් ශර්මා T20 තරගවලට සහභාගි නොවූ අතර, ඔහු 2023 දී එකදු T20 තරගයක් වත් ක්‍රීඩා කර නැත.
+
+නමුත් 2024 ජනවාරි මාසයේ දී ඇෆ්ගනිස්තානය සමඟ පැවති T20 තරගාවලියේ නායකත්වය සඳහා ඔහුව කැඳවා තිබිණි.
+
+එම තරගාවලියේ දී වාර්තා කළ ශතකයත් සමඟ 20යි 20 ශතක 05ක් වාර්තා කළ ලොව එක ම ක්‍රීඩකයා බවට රෝහිත් ශර්මා පත් විය.
+
+මීට පෙර ඉන්දීය විස්සයි විස්ස කණ්ඩායම මෙහෙයවූයේ සූරියකුමාර් යාදව් විසිනි.
+
+◼️
+
+[Data](articles/8e4a6cf3.json)
+
+---
+
+### යුක්තියට කොටු වූ අලුත්ම පිරිස
+
+*2024-02-15 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193403) · `si`
+
+දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (15) අලුයම අවසන් වූ පැය 24 තුළ සැකකරුවන් 656 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/7486280f.json)
+
+---
+
+### கட்சித் தலைமை குறித்து சந்திரிகா விசேட அறிவிப்பு
+
+*2024-02-15 09:27:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சித்-தலைமை-குறித்து-சந்திரிகா-விசேட-அறிவிப்பு/175-333240) · `ta`
+
+பொதுஜன ஐக்கிய முன்னணியின் தலைமைத்துவத்தை கைப்பற்றுவது தொடர்பில் இதுவரையில் எவ்வித தீர்மானமும் எடுக்கப்படவில்லை என முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க தெரிவித்துள்ளார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் எந்தவொரு வேட்பாளருக்கும் ஆதரவளிக்க தாம் இன்னும் தீர்மானிக்கவில்லை என அவர் விடுத்துள்ள அறிக்கையில் சுட்டிக்காட்டியுள்ளார்.
+
+ஜனாதிபதி தேர்தலில் பல்வேறு ஜனாதிபதி வேட்பாளர்களுக்கு ஆதரவளிக்க தீர்மானித்துள்ளதாக ஊடகங்களில் வெளியாகியுள்ள தகவல்கள், முற்றிலும் தவறானவை என சந்திரிக்கா பண்டாரநாயக்க தனது அறிவிப்பில் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/9453c39e.json)
+
+---
 
 ### Dispute for a desk table concludes with a beaten
 
@@ -1981,77 +2035,5 @@ The State Minister made these remarks at a press briefing held at the Presidenti
 [Data](articles/26d09ddb.json)
 
 [Extended Data](ext_articles/26d09ddb.ext.json)
-
----
-
-### The idea of providing versatile titles in universities
-
-*2024-02-14 19:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழகங்களில்-பல்துறை-பட்டங்களை-வழங்க-யோசனை/175-333210) · `ta`
-
-Higher Education Minister Dr. Suren Raghavan said that after the observation of internationally experienced experts in education, the focus of a variety of degrees through state universities.
-
-The Minister of State also stated that steps have been taken to establish three international universities in Sri Lanka.
-
-State Minister Suren Raghavan said this at a media briefing held at the Presidential Media Center today (14).
-
-“We have taken steps to establish 03 international universities in Sri Lanka. Two of these universities have already begun. The third university will be established in Sri Lanka by May this year.
-
-Indian Institutes of Technology. The other two universities will open their two branches focusing on the United States and the United Kingdom and are ready to sign a Memorandum of Understanding on them.
-
-...
-
-[Data](articles/31b4d6f0.json)
-
-[Extended Data](ext_articles/31b4d6f0.ext.json)
-
----
-
-### The Prophet concluded the domination of Shakib in the international one -day cricket stage rankings
-
-*2024-02-14 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176395) · `ta`
-
-Afghan player Mohammed Prophet Mohammed has jumped to the top of the ICC all -rounder rankings at the ODI.
-
-The Prophet has topped the rankings for all -rounder after scoring a century in the first ODI against Sri Lanka.
-
-Mohammed Prophet Mohammed has ended the domination of Shakib al -Hasan, as it topped the number 1739 days from May 7, 2019 to February 9, 2019 in the rankings for the best all -rounder in international ODI cricket.
-
-Mohammad Prophet Muhammad has scored 314 ranking points and is 4 points more than Shakib Al Hasan.
-
-Prior to Shakib Al Hassan, Afghanistan's spinning star Rashid Khan topped the list.
-
-39 -year -old Mohammed Prophet Mohammed has topped the rankings for all -rounder cricket in international ODIs by scoring 136 runs in the first ODI in Pallekele against Sri Lanka.
-
-Mohammed Prophet Service has set the record for the first place in the most popular age (39 years, one day).
-
-...
-
-[Data](articles/3a7f282d.json)
-
-[Extended Data](ext_articles/3a7f282d.ext.json)
-
----
-
-### Department of Census and Statistics is a serious revelation
-
-*2024-02-14 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193383) · `si`
-
-The Covid - 19, nearly 2.5,000 microscopic scale and medium scale businesses have been closed down in the influence of the economic crisis.
-
-They were revealed by their latest survey report.
-
-The Institute level level survey has been carried out from March to June last year to measure the influence of the economic crisis after the Covard - 19 plague.
-
-The survey covers micro, small and medium scale businesses, the Department said.
-
-Accordingly, the value of the percentage of the percentage of the percentage of the percentage of the microfinance of musical, small and medium scale businesses during each year was revealed today.
-
-In 2019, 29 percent and 27.4 percent of 2020 and 29.3 percent in 2021 were closed in 2021.
-
-◼️
-
-[Data](articles/c38d38c3.json)
-
-[Extended Data](ext_articles/c38d38c3.ext.json)
 
 ---

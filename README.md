@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 15:17:11**
+As of **2024-02-15 15:32:47**
 
 ## Newspaper Stats
 
-*Scraped **7,242** Articles*
+*Scraped **7,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 376
 dailyftlk | 389
 adalk | 619
 adaderanalk | 887
-tamilmirrorlk | 890
+tamilmirrorlk | 892
 virakesarilk | 939
 adaderanasinhalalk | 1,021
 dailymirrorlk | 1,057
@@ -26,59 +26,101 @@ dailymirrorlk | 1,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,230 (99.8%) of 7,242 articles have been extended.
+7,242 (100.0%) of 7,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தின் முதலாம் கட்டம் திறப்பு !
+### பனிக்கூழில் பாயமுடியாது தவித்த தவளை
+
+*2024-02-15 15:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பனிக்கூழில்-பாயமுடியாது-தவித்த-தவளை/71-333270) · `ta`
+
+தவளை என்றால் தாவி,தாவி பாய்ந்து கொண்டிருக்கும் சுபாவம் உடையது. எனினும், பனிக்கூழுக்குள் (ஐஸ் கிரீம்) கிடந்த தவளையொன்று பாயமுடியாது உறைந்து கிடந்த சம்பவமொன்று யாழ்ப்பாணத்தில் இடம்பெற்றுள்ளது.
+
+யாழ்ப்பாணத்தில் ஐஸ்கிரீம் விற்பனை நிலையம் ஒன்றில் விற்கப்பட்ட ஐஸ்கிரீமில் தவளை ஒன்று காணப்பட்ட சம்பவம் தொடர்பில் சுகாதார பரிசோதகர்களினால் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளது.
+
+செல்லவச்சந்நிதி முருகன் கோவிலின் சூழலில் உள்ள ஐஸ்கிரீம் விற்பனை நிலையத்தில், புதன்கிழமை (14) ஒருவர் ஐஸ்கிரீம் ஒன்றினை வாங்கிய வேளை அதனுள் தவளை ஒன்று காணப்பட்டுள்ளது.
+
+யாழில் தற்போது அதிகளவான வெப்பமான கால நிலை நிலவுவதனால், சந்நிதி ஆலயத்திற்கு செல்வோர் அருகில் உள்ள உணவங்களில் குளிர்பானங்களையும்,ஐஸ்கிரீம் விற்பனை நிலையங்களில் ஐஸ் கிரீம்களையுமு் கொள்வனவு செய்து பருகி வருகின்றனர்.
+
+இந்ந்நிலையில் குறித்த உணவகங்கள் மற்றும் ஐஸ்கிரீம் விற்பனை நிலையங்களின் சுகாதாரம் மற்றும் நீரின் தூய்மை என்பவை தொடர்பில் சுகாதார பரிசோதகர்கள் கவனம் செலுத்தி , சோதனை நடவடிக்கையில் ஈடுபட வேண்டுமென கோரிக்கை விடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/8af94ade.json)
+
+---
+
+### தப்பிச் சென்றுள்ள 42 பேருக்கு சிவப்பு அறிவித்தல்!
+
+*2024-02-15 14:56:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/தப்பிச்-சென்றுள்ள-42-பேருக்கு-சிவப்பு-அறிவித்தல்/52-333269) · `ta`
+
+பல்வேறு குற்றச்செயல்கள் மற்றும் போதைப்பொருள் கடத்தலுடன் தொடர்புடைய,  நாட்டை விட்டு தப்பிச் சென்ற 42 சந்தேக நபர்களுக்கு  சர்வதேச சிவப்பு அறிவிப்பு பிறப்பிக்கப்பட்டுள்ளதாக பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தெரிவித்தார்.
+
+சிவப்பு அறிவிப்பு விடுக்கப்பட்டுள்ள சந்தேக நபர்களை சர்வதேச பொலிஸாரின் உதவியுடன் இலங்கைக்கு அழைத்து வர நடவடிக்கை எடுக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/ad3fa91c.json)
+
+---
+
+### Opening the first phase of the Northern Water Supply Scheme of Anuradhapura
 
 *2024-02-15 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176443) · `ta`
 
-மக்களுக்கு சுத்தமான குடிநீரை வழங்கும் நோக்கில் ஜெய்கா (JICA) நிதியுதவியுடன் முன்னெடுக்கப்பட்ட அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தின் முதலாம் கட்டம் ,அமைச்சர் ஜீவன் தொண்டமானின் அழைப்பின் பேரில் ஜனாதிபதி ரணில் விக்ரமசிங்க , JICA தலைவர்  டனகா அகிஹிக்கோ ஆகியோரினால் சற்றுமுன்னர் திறந்துவைக்கப்பட்டது.
+The first phase of the Anuradhapura Northern Water Supply Scheme, which was funded by JICA, was opened by President Ranil Wickremesinghe and JICA President Danaka Akihiko at the invitation of Minister Jeevan Thondaman.
 
 ◼️
 
 [Data](articles/658dcd70.json)
 
+[Extended Data](ext_articles/658dcd70.ext.json)
+
 ---
 
-### பல்கலைக்கழக மாணவர்களுக்கு பிணை
+### Bail for university students
 
 *2024-02-15 14:41:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மாணவர்களுக்கு-பிணை/175-333263) · `ta`
 
-சப்ரகமுவ பல்கலைக்கழக மாணவி ஒருவரையும் இரண்டு மாணவர்களையும் தாக்கியதாக சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்ட மாணவர்கள் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+Students arrested and interrogated on suspicion of assaulting a student of Sabaragamuwa University and two students have been released on bail.
 
-விளக்கமறியலில் வைக்கப்பட்டிருந்த பதின்மூன்று மாணவர்களுக்கும் பலாங்கொடை நீதவான் நீதிமன்றம் இன்று (15) பிணை வழங்கியது.
+The Balangoda Magistrate's Court today (15) granted bail to thirteen students.
 
-கடந்த 12ஆம் திகதி ஏழு மாணவர்களை கைது செய்யப்பட்டதுடன், 14ஆம் திகதி மேலும் 6 மாணவர்கள் கைது செய்யப்பட்டனர்.
+Seven students were arrested on the 12th and 6 more students were arrested on the 14th.
 
-கடந்த 09 ஆம் திகதி இரவு சப்ரகமுவ பல்கலைக்கழக விவசாய பீடத்தின் மாணவி ஒருவரும் இரண்டு மாணவர்களும் சிற்றுண்டிச்சாலையில் சாப்பிட்டுக் கொண்டிருந்த போது சிரேஷ்ட மாணவர்கள், மின்சாரத்தை துண்டித்து தடிகளை பயன்படுத்தி தாக்குதல் நடத்தியதாக முறைப்பாடு செய்யப்பட்டது.
+A student of the Sabaragamuwa University Faculty and two students was eating at the snack on the night of the 9th of this month.
 
 ◼️
 
 [Data](articles/72aa1312.json)
 
+[Extended Data](ext_articles/72aa1312.ext.json)
+
 ---
 
-### இலங்கை தமிழரசுக் கட்சியின் தேசிய மாநாட்டை நடத்த இடைக்கால தடை!
+### Interim ban on holding national conference of Sri Lanka Tamil National Party
 
 *2024-02-15 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176446) · `ta`
 
-இலங்கை தமிழரசி கட்சியின் மாநாடு எதிர்வரும் 19ஆம் திகதி நடைபெற இருந்த நிலையில் இரண்டு வாரங்களுக்கு இம்மாநாட்டை நடாத்த வேண்டாம் என திருகோணமலை மாவட்ட நீதிமன்றம் இன்று (15) இடைக்கால தடை விதித்து கட்டானையொன்றினை  பிறப்பித்துள்ளது.
+The Trincomalee District Court today issued an interim injunction issued by the Trincomalee District Court not to hold the conference for two weeks as the Sri Lanka Tamil National Party's conference was held on the 19th.
 
-திருகோணமலை மாவட்ட நீதிபதி மாணிக்கவாசகர்  கணேசராஜா முன்னிலையில் இன்றைய தினம் இவ்வழக்கு எடுத்துக்கொள்ளப்பட்டபோது  14 நாட்களுக்கு செயற்படும் வகையில் மேற்கு குறித்த இடைக்கால கட்டளை பிறப்பிக்கப்பட்டுள்ளது.
+The interim order has been issued for 14 days when it was taken up today in the presence of Ganesarajah in the presence of Trincomalee District Judge Manikavasakar Ganesarajah.
 
-இவ்வழக்கின் மனுதாரரின் பதிவு செய்யப்பட்ட சட்டத்தரணி  ஐஸ்வர்யா சிவக்குமாருடன் ஜனாதிபதி சட்டத்தரணி ஜெப்ரி அழகரட்ணம் மற்றும் சட்டத்தரணி புரந்தன் ஆகியோர் ஆஜராகினர்.
+President's Attorney Jeffrey Alagaratnam and Attorney -at -Law Panthan appeared with Aishwarya Sivakumar's registered lawyer.
 
-கடந்த 21 மற்றும் 27ம் திகதிகளில்  நடைபெற்ற பொதுச் சபை கூட்டங்கள்  சட்டத்துக்கு முரணானதும், செல்லுபடியற்றதும்  என வாதம் முன்வைக்கப்பட்டது.
+The argument was made that the General Assembly meetings held on the 21st and 27th were contrary to the law and invalid.
 
-எனவே குறித்த இரண்டு பொதுச் சபை கூட்டங்களிலும் மேற்கொள்ளப்பட்ட தெரிவுகள் சட்டத்திற்கு முரணானதும் செல்லுபடியற்றது எனவும் வாதம் முன்வைக்கப்பட்டது.
+The argument, therefore, was proposed that the choices made at the two General Assembly meetings were contrary to the law.
+
+It was also stated in the court that the meeting was legal as the members of the Tamil National Party (TNA) had voted during the election of the General Assembly.
 
 ...
 
 [Data](articles/f41826cc.json)
+
+[Extended Data](ext_articles/f41826cc.ext.json)
 
 ---
 
@@ -96,75 +138,87 @@ Fluo dead body found on a well adjacent to a house in the Kurunegala Police, Kur
 
 ---
 
-### ஜனாதிபதி மீண்டும் விடுத்துள்ள அழைப்பு !
+### The President's call again!
 
 *2024-02-15 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176445) · `ta`
 
-அனைத்து தரப்பினரையும் ஒன்றிணையுமாறு மீண்டும் அழைப்பு விடுப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe also said that all sides are calling for again.
 
-அரசியல் ரீதியாக பிரிந்து நாட்டைக் கட்டியெழுப்ப முடியாது எனவும், அரசாங்கத்திற்காகவோ எதிர்க்கட்சிக்காகவோ அல்லாது  நாட்டு மக்களுக்கு வளமான வாழ்க்கைத் தரத்தை வழங்குவதற்கு அனைத்து தரப்பினரையும் ஒன்றிணையுமாறு மீண்டும் அழைப்பு விடுப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe said that the country could not be built politically and that all parties would unite to unite to provide a prosperous living standard for the country or for the government or the opposition.
 
 ◼️
 
 [Data](articles/cfd01644.json)
 
+[Extended Data](ext_articles/cfd01644.ext.json)
+
 ---
 
-### மஸ்கெலியா சம்பவம் தொடர்பில் 5 இளைஞர்கள் கைது :  இரு பஸ்களும் பொலிஸ் நிலையத்தில்!
+### Five youth arrested in Maskeliya incident: two buses at police station!
 
 *2024-02-15 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176444) · `ta`
 
-மஸ்கெலியா பிரதேசத்தில் நேற்று (14)  இடம்பெற்ற சம்பவத்தின்போது, தனியார் பஸ்ஸின் சாரதி மற்றும் நடத்துனரை தாக்கிய சந்தேகத்தில் ஐந்து இளைஞர்கள் கைது செய்யப்பட்டதாக மஸ்கெலியா பொலிஸார் தெரிவித்தனர்.
+Maskeliya police said that five youths were arrested on suspicion of assaulting a private bus driver and conductor during the incident in Maskeliya yesterday (14).
 
-சிவனொளிபாத  மலையை தரிசிக்கச் சென்ற யாத்ரீகர்கள் குழுவை ஹட்டன் டிப்போவுக்குச் சொந்தமான பஸ்ஸில் ஏற்றிக் கொண்டு ஹட்டன் ரயில் நிலையத்துக்கு சென்றபோது, மஸ்கெலியாவிலிருந்து ஹட்டன் நோக்கிச் சென்ற தனியார் பஸ் ஒன்று  இ.போ.ச  பஸ்ஸை முந்திச் செல்ல பல தடவைகள் முயற்சித்த நிலையில் இ.போ.ச பஸ்ஸின் மீது  கல் வீச்சுத் தாக்குதல் நடத்தப்பட்டுள்ளது. இதன்போது அதிலிருந்த  இளைஞர் ஒருவர் காயமடைந்துள்ளார்.
+A private bus traveling from Maskeliya to Hatton to Hatton has been hit by a pilgrims' bus -owned bus -owned bus to Hatton Depot and a group of pilgrims who went to visit the Sivanolipada mountain.. A young man was injured.
 
-இளைஞர் படுகாயமடைந்ததையடுத்து, இ.போ.ச பஸ்ஸிலிருந்த  ஐந்து இளைஞர்கள்  கீழே இறங்கி பின்னால் வந்த தனியார்  பஸ்ஸின்  சாரதி மற்றும் நடத்துனரை தாக்கியுள்ளனர்.
+After the youth was injured, five youths from the EBS bus got down and attacked the driver and conductor of the private bus.
 
-இந்த மோதல் காரணமாக மஸ்கெலியா - ஹட்டன் பிரதான வீதியின் போக்குவரத்து சுமார் ஒரு மணித்தியாலம் முற்றாக தடைப்பட்டது.
+Due to this confrontation, traffic on the Maskeliya -Hatton main road has been completely blocked for about an hour.
 
-...
+Maskeliya police went to the scene and took two buses to the Maskeliya police station and arrested five youths on suspicion.
+
+◼️
 
 [Data](articles/fdf9a057.json)
 
+[Extended Data](ext_articles/fdf9a057.ext.json)
+
 ---
 
-### ரஃபாவில் மக்களை பாதுகாப்பதற்கான நம்பகத்தன்மை மிக்க திட்டம் எதுவும் சர்வதேச சமூகத்திடம் இல்லை - அவுஸ்திரேலியா
+### The international community has no reliable plan to protect people in Rafa - Australia
 
 *2024-02-15 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176436) · `ta`
 
-ரஃபாவில்தஞ்சமடைந்துள்ள மக்களை பாதுகாப்பதற்கான நம்பகதன்மை மிக்க நடைமுறைப்படுத்தக்கூடிய திட்டம் எதனையும் சர்வதேச சமூகம்  இதுவரை முன்வைக்கவில்லை என அவுஸ்திரேலிய  வெளிவிவகார அமைச்சர் பெனிவொங் தெரிவித்துள்ளார்.
+Australian Foreign Minister Beniwong has said that the international community has not yet proposed any plans to implement a credible implementation plan to protect the rafa.
 
-சர்வதேச சமூகத்தின் கரிசனைகளையே  அவுஸ்திரேலியா வெளியிடுவதாக தெரிவித்துள்ள பெனிவொங் அவுஸ்திரேலியாவின் நெருங்கிய நாடுகளின் கரிசனைகளை நாடாளுமன்றத்தில் வாசித்துள்ளார்.
+Benivong, who has said that Australia is publishing the concerns of the international community, has read the compassion of Australia's close countries.
 
-எனது கருத்துக்கள் சர்வதேச சட்டத்தின் கொள்கைகள்  சர்வதேச மனிதாபிமான சட்டத்தின் அடிப்படையிலானவை எனவும் அவர் தெரிவித்துள்ளார்.
+My comments are based on international humanitarian law, he said.
 
-பகுதி மீது இஸ்ரேல் முன்னெடுக்ககூடிய பாரிய நடவடிக்கை குறித்த எங்கள்ஆழ்ந்த கரிசனைகளை மீண்டும் வலியுறுத்தவிரும்புகின்றேன் எனவும் அவர் தெரிவித்துள்ளார்.
+"I will reiterate our great concern for the massive action of Israel on the part," he said.
 
-அங்கு தஞ்சமடைந்துள்ள மில்லியன் கணக்காண மக்களிற்கு பேரழிவு  ஏற்படும் எனவும் அவர் தெரிவித்துள்ளார்.
+He added that millions of people who have taken refuge will be a disaster.
 
-பொதுமக்கள் நெரிசலாக  வாழும் பகுதிகளில் இராணுவநடவடிக்கை என்பது ஆபத்தானது பொதுமக்களிற்கு இழப்புகள் ஏற்படலாம் எனவும்; அவர்தெரிவித்துள்ளார்.
+Military action in areas where civilians live can be dangerous to the public;He has revealed.
 
 ◼️
 
 [Data](articles/abfced1c.json)
 
+[Extended Data](ext_articles/abfced1c.ext.json)
+
 ---
 
-### இலங்கையின் புதிய பொருளாதார சீர்திருத்தங்களுக்கு ஜெய்கா தலைவர் பாராட்டு
+### Jaika leader praised Sri Lanka's new economic reforms
 
 *2024-02-15 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176442) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் ஜப்பான் சர்வதேச ஒத்துழைப்பு நிறுவனத்தின் (JICA) தலைவர் கலாநிதி தனக்கா அகிஹிக்கோவிற்கும் இடையிலான சந்திப்பொன்று நேற்று (14) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+A meeting between President Ranil Wickremesinghe and the Chairman of the Japan International Cooperation Organization (JICA), Dr. Tanaka Akihiko, took place at the Presidential Office yesterday afternoon.
 
-புதிய பொருளாதார சீர்திருத்தங்களை மேற்கொள்வது கடினமான செயலாக இருந்தாலும் இலங்கையில் பொருளாதார சீர்திருத்தங்களை அமுல்படுத்துவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அர்ப்பணிப்பை கலாநிதி தனக்கா அகிஹிக்கோ பாராட்டினார்
+Dr. Tanaka Akihiko praised President Ranil Wickremesinghe's commitment to implement economic reforms in Sri Lanka, though new economic reforms are difficult.
 
-கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலைய விஸ்தரிப்புத் திட்டம், இலகு ரயில் திட்டம் மற்றும் மத்திய அதிவேக நெடுஞ்சாலை உள்ளிட்ட ஜப்பானிய உதவியின் கீழ் இந்நாட்டில் ஆரம்பிக்கப்பட்டு தற்போது இடைநிறுத்தப்பட்டுள்ள திட்டங்களை துரிதமாக மீள ஆரம்பிப்பது தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க இங்கு தெரிவித்தார்.
+President Ranil Wickremesinghe said that the Katunayake Bandaranaike International Airport Extension Project, Light Rail Project and the Central Highway, including the Japanese assistance, have been focused on speeding up the projects that have been launched in the country.
 
-கடந்த கால பொருளாதார நெருக்கடியின்போது,  இலங்கைக்கு வழங்கிய தொடர்ச்சியான ஆதரவிற்காக ஜப்பானிய அரசாங்கம் மற்றும் ஜெய்காவிற்கும் ஜனாதிபதி நன்றி தெரிவித்தார்.
+The President thanked the Japanese government and Jaika for continuous support for Sri Lanka during the past economic crisis.
+
+Dr. Akihito further stated that Jaika is ready to resume the projects that have been suspended after the completion of the debt restructuring in Sri Lanka.
 
 ...
 
 [Data](articles/df9ce04e.json)
+
+[Extended Data](ext_articles/df9ce04e.ext.json)
 
 ---
 
@@ -316,17 +370,19 @@ Dr. Akihiko elaborated on JICA’s efforts, highlighting the priority of conclud
 
 ---
 
-### யாழில் ஐஸ் கிரீமில் தவளை
+### Frog at ice cream in Jaffna
 
 *2024-02-15 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176440) · `ta`
 
-யாழ்ப்பாணம் தொண்டமானாறு பகுதியில் உள்ள  விற்பனை நிலையத்தில் தவளையுடன் ஐஸ் கிரீம் வழங்கப்பட்ட சம்பவமொன்று இடம்பெற்றுள்ளது.
+An incident took place at the Tondamanaru area in Jaffna.
 
-தொண்டமானாறு செல்வச்சந்நிதி முருகன் ஆலய சூழலில் உள்ள குளிர்பான விற்பனை நிலையமொன்றிலே நேற்று (14) ஐஸ் கிரீம் குடிக்க சென்றவருக்கே குறித்த அனுபவத்தை எதிர்கொண்டுள்ளார்.
+Thondamanaru Selvachani Murugan Murugan faced the experience of a man who had gone to drink ice cream yesterday (14) at a beverage outlet in the temple environment.
 
 ◼️
 
 [Data](articles/565540ba.json)
+
+[Extended Data](ext_articles/565540ba.ext.json)
 
 ---
 
@@ -346,33 +402,37 @@ However, officials also pointed out that a kilo of beauty of the market is about
 
 ---
 
-### பால்புதுமையின சமூகப் பிரதிநிதிகள் சபாநாயகரை சந்தித்தனர்
+### Social representatives met Speaker
 
 *2024-02-15 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176433) · `ta`
 
-பால்புதுமையினர் (LGBTIQ+) சமூகப் பிரதிநிதிகள் குழு சபாநாயகர் மஹித்த யாப்பா அபேவர்தனவை திங்கட்கிழமை (12) சந்தித்து கலந்துரையாடியுள்ளனர்.
+The Social Representatives Committee of the LGBTIQ+met Speaker Maita Yapa Abeywardena on Monday (12).
 
-பாராளுமன்ற உறுப்பினர் பிரேம்நாத் சி தொலவத்தவினால் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள இலங்கையில் LGBTQ+ உரிமைகளை அங்கீகரிப்பதற்காக குற்றவியல் சட்டத்தில் திருத்தம் செய்வதற்கான  சட்டமூலம் குறித்து கவனம் செலுத்துமாறு சபாநாயகரை வலியுறுத்துவதே இச்சந்திப்பின் நோக்கமாகும்.
+The purpose of the meeting is to urge the Speaker to focus on the amendment to the Criminal Act to recognize LGBTQ+ rights in Sri Lanka, which was submitted to Parliament by Member of Parliament Premnath C. Tholawatta.
 
-மேலும், இலங்கையில் வாழும் LGBTIQ+ சமூகம் எதிர்நோக்கும் பிரச்சினைகள் தொடர்பாக LGBTIQ+ சமூகப் பிரதிநிதிகள் மற்றும் சபாநாயகர் ஆகியோர்  நீண்ட நேரம் கலந்துரையாடினர்.
+In addition, LGBTIQ+ Social Representatives and Speaker of the LGBTIQ+ community in Sri Lanka have long discussed the issues facing the community.
 
-Meet by NextGenSL என்ற சபாநாயகர் உடனான இந்த சந்திப்பை ஏற்பாடு செய்வதற்கு அனைத்து கட்சி இளைஞர் அமைப்பு உதவியளித்தது, இதில் பாராளுமன்ற பதில் செயலாளர் நாயகம் ஹன்ச அபேரத்னவும் கலந்துகொண்டார்.
+The All Party Youth Organization assisted the meeting with the Speaker of the Speaker of Meet by Nextgensl, which was also present at the event.
 
 ◼️
 
 [Data](articles/6365b323.json)
 
+[Extended Data](ext_articles/6365b323.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-15 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176438) · `ta`
 
-இன்று வியாழக்கிழமை (பெப்ரவரி 15) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 308.2195 ஆகவும் விற்பனை விலை ரூபா 318.0679 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was Rs 308.2195 and the sales price were 318.0679 based on the currency exchange rate released by the Central Bank on Thursday (February 15).
 
 ◼️
 
 [Data](articles/75f6494d.json)
+
+[Extended Data](ext_articles/75f6494d.ext.json)
 
 ---
 
@@ -398,17 +458,19 @@ The 44-year-old suspect teacher was arrested by the OIC Inspector Chandana Gamag
 
 ---
 
-### புதிய பாடசாலை தவணை தொடர்பான கல்வி அமைச்சின் அறிவிப்பு!
+### Ministry of Education on the new school installment
 
 *2024-02-15 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176434) · `ta`
 
-இதன்படி, அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் மூன்றாம் பாடசாலை தவணை நாளை 16 ஆம் திகதி வெள்ளிக்கிழமையுடன் நிறைவடைகிறது.
+Accordingly, the third school installment of state and state -approved private schools ends on Friday 16th.
 
-2024 ஆம் ஆண்டுக்கான புதிய முதல் பாடசாலை தவணை  பெப்ரவரி 19 ஆம் திகதி திங்கட்கிழமை ஆரம்பமாகவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+The new school installment for the year 2024 will commence on Monday 19th February.
 
 ◼️
 
 [Data](articles/280045ef.json)
+
+[Extended Data](ext_articles/280045ef.ext.json)
 
 ---
 
@@ -495,6 +557,8 @@ Furthermore, he mentioned that main accomplice of the notorious underworld figur
 ...
 
 [Data](articles/78fe052b.json)
+
+[Extended Data](ext_articles/78fe052b.ext.json)
 
 ---
 
@@ -1999,41 +2063,5 @@ Accordingly, kidney patients and disabled persons’ allowances will be raised f
 [Data](articles/b28bb0ed.json)
 
 [Extended Data](ext_articles/b28bb0ed.ext.json)
-
----
-
-### New school term of 2025 will begin in January as usual
-
-*2024-02-15 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-school-term-of-2025-will-begin-in-January-as-usual/108-277058) · `en`
-
-Colombo, Feb 15 (Daily Mirror) - All measures have been taken to start the new school term of 2025 at the beginning of January as usual, and the A/L examination relating to this year will be held before 2025, Education Minister Susil Premajayantha said.
-
-During a national event held yesterday at St. Anthony's Balika Maha Vidyalaya, where textbooks and school uniform materials were distributed among schoolchildren, the minister said that the A/L examination, originally scheduled for the previous year, had been postponed by five weeks. Subsequently, the examination took place in January 2024.
-
-Preparations are underway to release the 2023 Advanced Level (A/L) examination results between May and June this year, preceding the scheduled Ordinary Level (O/L) examination later in the year, the Minister said.
-
-However, arrangements have been made to update all examinations while holding the 2024 A/L examination in the year 2025.
-
-...
-
-[Data](articles/6ac7e291.json)
-
-[Extended Data](ext_articles/6ac7e291.ext.json)
-
----
-
-### Air rifles to manage toque monkey population in Kegalle
-
-*2024-02-15 08:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Air-rifles-to-manage-toque-monkey-population-in-Kegalle/108-277057) · `en`
-
-Kegalle, Feb 15 (Daily Mirror) - Finance State Minister Ranjith Siambalapitiya said funds will be allocated for the procurement of high-quality air rifles for farmers' organizations in the Kegalle district for the purpose of managing the toque monkey population.
-
-The Minister told the media that his decision remains unchanged despite any potential impacts. He said that decentralized funds will be allocated for the procurement of air rifles for farmers' organizations.
-
-...
-
-[Data](articles/a86dbdd6.json)
-
-[Extended Data](ext_articles/a86dbdd6.ext.json)
 
 ---

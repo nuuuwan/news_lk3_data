@@ -1,36 +1,116 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 07:52:26**
+As of **2024-02-15 08:03:03**
 
 ## Newspaper Stats
 
-*Scraped **7,118** Articles*
+*Scraped **7,124** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
 bbccomsinhala | 94
-dbsjeyarajcom | 149
+dbsjeyarajcom | 150
 newsfirstlk | 363
 economynextcom | 371
 islandlk | 376
 dailyftlk | 389
 adalk | 603
-tamilmirrorlk | 868
+tamilmirrorlk | 870
 adaderanalk | 872
-virakesarilk | 912
+virakesarilk | 913
 adaderanasinhalalk | 998
-dailymirrorlk | 1,043
+dailymirrorlk | 1,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,118 (100.0%) of 7,118 articles have been extended.
+7,118 (99.9%) of 7,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### பேராசிரியர் ஜயந்த ஜயவர்தன மீள் நியமனம்
+
+*2024-02-15 07:37:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-ஜயந்த-ஜயவர்தன-மீள்-நியமனம்/175-333236) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவினால் உரிய காரணமின்றி நீக்கப்பட்ட இலங்கை மருத்துவ சபையின் (SLMC) முன்னாள் உறுப்பினர் பேராசிரியர் ஜயந்த ஜயவர்தன மீண்டும் SLMC உறுப்பினராக சேர்க்கப்பட்டுள்ளார்.
+
+அதன்படி, மீண்டும் நியமனம் செய்யப்பட்ட உறுப்பினருக்கான பதவிக் காலம், தானாக முன்வந்து ராஜினாமா செய்தாலோ அல்லது அவசரச் சட்டத்தின்படி நீக்கப்பட்டாலோ தவிர, ஐந்து ஆண்டுகளுக்கு செல்லுபடியாகும்.
+
+மீண்டும் பணியில் அமர்த்தப்பட்டதற்கு நன்றி தெரிவித்த பேராசிரியர் ஜெயவர்தன, தனது முந்தைய பணிநீக்கத்தின் சட்டவிரோத மற்றும் தன்னிச்சையான தன்மையை எடுத்துக்காட்டியதுடன் அவர் நேற்று (14) பதவியேற்றார்.
+
+கடந்த ஒக்டோபர் மாதம் SLMC உப தலைவர் பதவியில் இருந்து பேராசிரியர் ஜெயவர்தன நியாயமான காரணமின்றி நீக்கப்பட்டார்.
+
+முன்னாள் சுகாதார அமைச்சரின் இந்த முடிவு சரியான பகுத்தறிவின்மை மற்றும் இயற்கை நீதியின் கொள்கைகளை மீறுவதாக விமர்சிக்கப்பட்டது.
+
+...
+
+[Data](articles/04e31b03.json)
+
+---
+
+### இன்றைய வானிலை நிலவரங்கள்
+
+*2024-02-15 07:28:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-நிலவரங்கள்/175-333235) · `ta`
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை,  பொலநறுவை, மாத்தளை மற்றும் நுவரேலியா மாவட்டங்களிலும் இடைக்கிடையே மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவத்துள்ளது.
+
+சப்ரகமுவ, மேல் மற்றும் வடமேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும், வடக்கு, கிழக்கு, வடமத்திய, வடமேல், மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மாவட்டத்திலும்  மணித்தியாலத்திற்கு சுமார் 30 ‐ 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும்.
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+திருகோணமலை தொடக்கம் மட்டக்களப்பு ஊடாக ஹம்பாந்தோட்டை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின் பல இடங்களில் மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/7bee04a1.json)
+
+---
+
+### அமெரிக்காவின் கன்சாஸ் நகரத்தில்;  பெருமளவு மக்கள் கலந்துகொண்ட நிகழ்வில் துப்பாக்கி சூடு- 1 பலி 22 பேர் காயம்
+
+*2024-02-15 07:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/176410) · `ta`
+
+அமெரிக்காவின் கன்சாஸ் நகரில் இடம்றெ;ற துப்பாக்கி சூட்டு சம்பவத்தில் ஒருவர் கொல்லப்பட்டுள்ளதுடன் 21 பேர் காயமடைந்துள்ளனர்.
+
+கன்சாஸ் நகரத்தில் இடம்பெற்ற சுப்பர் பெவ்ல் வெற்றிஅணிவகுப்பின் இறுதியிலேயே துப்பாக்கி சூட்டுசம்பவம் இடம்பெற்றுள்ளது.
+
+ஒருமில்லியனிற்கும் மேற்பட்டவர்கள் கலந்துகொள்வார்கள் என எதிர்பார்க்கப்பட்ட இந்த நிகழ்வில் இறுதியில் இடம்பெற்ற வன்முறையை தொடர்ந்து மக்கள் அச்சத்தில் அங்கிருந்து தப்பியோட முயன்றுள்ளனர்.
+
+துப்பாக்கி சூட்டு சம்பவத்தினை தொடர்ந்து 22 பேர் காயமடைந்துள்ளனர் இவர்களில் பல சிறுவர்கள் உள்ளனர்
+
+◼️
+
+[Data](articles/2bef9d19.json)
+
+---
+
+### Pathirana reverts Keheliya’s decision
+
+*2024-02-15 07:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pathirana-reverts-Keheliyas-decision/108-277055) · `en`
+
+Colombo, Feb 15 (Daily Mirror) - Prof. Jayantha Jayawardana, a former member of the Sri Lanka Medical Council (SLMC) has been reinstated as an SLMC member after being removed by former Minister of Health Keheliya Rambukwella without due cause.
+
+The reappointment has been made by Minister of Health Dr. Ramesh Pathirana.
+
+Accordingly, the term of office for the reappointed member, is set for five years, unless voluntarily resigned or removed as per the ordinance.
+
+Expressing gratitude for the reinstatement, Prof. Jayawardana highlighted the unlawful and arbitrary nature of his previous termination. He assumed duties yesterday, February 14, 2024.
+
+Prof Jayawardana was removed as the SLMC Vice President last October without citing reasonable reasons.
+
+The decision by the former Minister of Health was criticized for its lack of valid reasoning and its violation of the principles of natural justice.
+
+...
+
+[Data](articles/51193bd7.json)
+
+---
 
 ### One dead, children among 21 injured in Super Bowl parade shooting
 
@@ -105,6 +185,22 @@ He is reportedly the main accomplice of the notorious underworld figure Salindu 
 [Data](articles/28562a0c.json)
 
 [Extended Data](ext_articles/28562a0c.ext.json)
+
+---
+
+### Constitutional Council’s decision to reject President’s nomination challenged in SC
+
+*2024-02-15 05:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Constitutional-Councils-decision-to-reject-Presidents-nomination-challenged-in-SC/108-277054) · `en`
+
+Colombo, FEb 15 (Daily Mirror) - A Fundamental Rights petition has been filed in the Supreme Court seeking an order directing the Constitutional Council to approve the recommendation made by the President to appoint incumbent President of the Court of Appeal Nissanka Bandula Karunaratne as a Supreme Court judge.
+
+The petitioner Sarith Maheeputhra Pathirathne an Attorney-at-Law by profession filed a petition naming the members of the Constitutional Council including Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, Opposition Leader Sajith Premadasa, Nimal Siripala de Silva, Sagara Kariyawasam and several others as the respondents.
+
+The Petitioner stated that the Constitutional Council’s decision to reject the recommendation of the President to fill a vacancy in the Supreme Court with the senior most judge of the Court of Appeal who had also been endorsed by the Chief Justice is arbitrary and unreasonable.
+
+...
+
+[Data](articles/3e27a843.json)
 
 ---
 
@@ -865,6 +961,20 @@ He said that the SLAF has submitted requests to the US Air Force for the acquisi
 [Data](articles/16a5a8fc.json)
 
 [Extended Data](ext_articles/16a5a8fc.ext.json)
+
+---
+
+### 
+
+*2024-02-14 22:04:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83628) · `en`
+
+What do Ranil Wickremesinghe, Dinesh Gunawardena and Anura Bandaranaike have in common? They were born a year after independence in 1949 and were classmates together at Royal Colege, Colombo. All three   were from illustrious families involved in politics and went on to be brightly shining  stars in the Island nation’s political firmament.
+
+Anura Bandaranaike born on 15 February 1949 was regarded as  the  crown prince of Lankan politics due to the fact that he was the son of SWRD e and Sirimavo Bandaranaike. Both of them served as Prime Ministers. Despite this impressive political pedigree, Anura was never a Prime Minister or President. That honour went to his elder sister Chandrika Kumaratunge who was both premier and president. Anura however held many posts like MP, Leader of the Opposition, Cabinet minister and speaker but was never “crowned as a King.” Anura passed away 16 years ago  at the age of 59 in 2008.
+
+...
+
+[Data](articles/ac4d1649.json)
 
 ---
 
@@ -1885,129 +1995,5 @@ While the motive behind the shooting has not been ascertained yet, investigation
 [Data](articles/44a11ebf.json)
 
 [Extended Data](ext_articles/44a11ebf.ext.json)
-
----
-
-### Sri Lanka house builders should look for the sun: SEA officials
-
-*2024-02-14 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-house-builders-should-look-for-the-sun-sea-officials-150867/) · `en`
-
-ECONOMYNEXT – Sri Lankans building their new home should focus on the direction of the sun, and not just auspicious directions, officials at a Sectoral Oversight Committee on Energy have said.
-
-Many Sri Lankans consult astrologers and mystics before building anything new, who advise on which direction a building must not face (ma-ru si-ti-na di-sha-va).
-
-But house owners should also focus on the direction of the sun (hi-ru si-ti-na di-sha-va), officials of the Sri Lanka Sustainable Energy Authority (SLSEA) said.
-
-“When building, constructors should consider a place to install solar panels in a new house,” a statement by the Department of Government Information quoted the officials as saying.
-
-The officials pointed out that although people are concerned about the ‘direction of death’ based on occult science, they are not concerned about the direction of the sun. This has become a problem in the installation of solar panels, they said.
-
-...
-
-[Data](articles/e09c072f.json)
-
-[Extended Data](ext_articles/e09c072f.ext.json)
-
----
-
-### Plans to offer multiple degrees through state universities: Suren Raghavan
-
-*2024-02-14 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-to-offer-multiple-degrees-through-state-universities-Suren-Raghavan/108-277016) · `en`
-
-Colombo, Feb. 14 (Daily Mirror)- Discussions are underway to provide multiple degrees through state universities based on the observation of experts with international experience in education, State Minister of Higher Education Dr. Suren Raghavan said today.
-
-He told a media briefing held at the Presidential Media Center today (14) under the theme “Collective Path to a Stable Country”, that regulation of the private higher education sector is deemed necessary.
-
-"However, it is important to clarify that there are no intentions to commercialize education," he added.
-
-The Minister said steps have been initiated to establish three international universities within Sri Lanka and outlined that two of these universities are currently in the establishment phase, with the third scheduled to commence operations by May this year.
-
-...
-
-[Data](articles/44666795.json)
-
-[Extended Data](ext_articles/44666795.ext.json)
-
----
-
-### Demonstration in Amparai demanding the cancellation of teacher transfer list
-
-*2024-02-14 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176389) · `ta`
-
-A massive rally was held today (14) in front of the Ampara District Secretariat by the Teachers of the Kalmunai and Samanthurai Education Zone demanding the cancellation of the Teachers' Transfer List released by the Eastern Provincial Department of Education.
-
-As the Ampara District Development Committee meeting is being held today at the Ampara Concert,
-
-Teachers met with HMM Haris, a member of the Digamadulla district parliamentarian today and took up their problems. In view of that, MP Haris promised to find a reasonable solution to the issue.
-
-◼️
-
-[Data](articles/cd8ee2e2.json)
-
-[Extended Data](ext_articles/cd8ee2e2.ext.json)
-
----
-
-### Special notice of child cancer disease
-
-*2024-02-14 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193379) · `si`
-
-The Health Promotion Bureau was summoned by a media bureau of the Child Cancer Day, February 15.
-
-Specialist Dr. Suraj Perera said that 578 boys and 454 girls were reported in 2021.
-
-Dr. Sanjeewa Gunasekera, Specialist of Child Cancer Diseases of the Maharagama Hospital, Dr. Sanjeewa Gunasekera said that the number of cancer patients die per year.
-
-He emphasized that it is important that the children with cancer is important and proper treatment is important.
-
-He said that the variety of cure among children is blood cancer.
-
-He has reported that the elderly to cater to the elderly, but has not identified such a specific cause of child cancer.
-
-He said that the reporting of cancer patients per year will be reported from 1,000 to 1,200.
-
-◼️
-
-[Data](articles/96ace9b8.json)
-
-[Extended Data](ext_articles/96ace9b8.ext.json)
-
----
-
-### Treat the conference and hold the conference - Sampanthan's instruction
-
-*2024-02-14 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176387) · `ta`
-
-Sivagnanam Sampanthan, the leader of the Sri Lanka Tamil National Alliance (TNA), has advised Sivagnanam Sridharan as the new leader of the party, to defeat the intrigue of internal democracy and immediately hold the conference.
-
-He was speaking at a meeting with MPs Sivagnanam Sreedharan and Charles Nirmalanathan at his residence in Colombo on Tuesday (13).
-
-He further stated that the conference was held on the day of the party to take immediate steps to officially accept the leadership of the party, and that the General Assembly did not recognize the conclusions on the basis of the selection of administrators, or confused the election system.
-
-◼️
-
-[Data](articles/3ebd78b7.json)
-
-[Extended Data](ext_articles/3ebd78b7.ext.json)
-
----
-
-### Sri Lanka food products showcased at International Green Week in Berlin
-
-*2024-02-14 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-food-products-showcased-at-international-green-week-in-berlin-150860/) · `en`
-
-ECONOMYNEXT – Sri Lankan food products were showcased at the International Green Week in Berlin, a top trade fair in Europe which drew more than 400,000 visitors, with the support of the Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka).
-
-AHK had organized the Sri Lanka Pavilion at the IGW for the fourth year.
-
-Exporters specializing in tea, coconut and coconut-based products, spices, fruit and fruit-related items, and authentic ready-to-eat Sri Lankan food products were represented, AHK Sri Lanka said in a statement.
-
-Apart from showcasing their product ranges to buyers, the exhibitors benefitted from interacting with consumers, observing new developments and offerings from other countries, and thereby broadening their experiences, AHK Sri Lanka said.
-
-...
-
-[Data](articles/7954b856.json)
-
-[Extended Data](ext_articles/7954b856.ext.json)
 
 ---

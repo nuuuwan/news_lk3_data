@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 17:17:22**
+As of **2024-02-15 17:33:13**
 
 ## Newspaper Stats
 
-*Scraped **7,266** Articles*
+*Scraped **7,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 375
 islandlk | 376
 dailyftlk | 389
 adalk | 623
-adaderanalk | 890
+adaderanalk | 892
 tamilmirrorlk | 893
 virakesarilk | 947
 adaderanasinhalalk | 1,023
@@ -26,39 +26,79 @@ dailymirrorlk | 1,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,261 (99.9%) of 7,266 articles have been extended.
+7,266 (100.0%) of 7,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### “பிரிந்திருந்து நாட்டை கட்டியெழுப்ப முடியாது”
+### Sri Lanka’s LGBTIQ+ community representatives meet Speaker
 
-*2024-02-15 16:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரிந்திருந்து-நாட்டை-கட்டியெழுப்ப-முடியாது/175-333274) · `ta`
+*2024-02-15 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97299/sri-lankas-lgbtiq-community-representatives-meet-speaker) · `en`
 
-அரசியல் ரீதியாக பிரிந்து நாட்டைக் கட்டியெழுப்ப முடியாது எனவும், அரசாங்கத்திற்காகவோ எதிர்க்கட்சிக்காகவோ அல்லாது  நாட்டு மக்களுக்கு வளமான வாழ்க்கைத் தரத்தை வழங்குவதற்கு அனைத்து தரப்பினரையும் ஒன்றிணையுமாறு மீண்டும் அழைப்பு விடுப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+A group of Sri Lankan LGBTIQ+ community representatives met with the Speaker of the Parliament Mahinda Yapa Abeywardana on Monday (12).
 
-அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தின் முதற்கட்ட திறப்பு விழா,வியாழக்கிழமை (15) நடைபெற்றது. இதில் கலந்துகொண்டு கருத்துரைத்த போதே மேற்கண்டவாறு தெரிவித்தார்.
+The objective of this meeting was to draw the attention of the Speaker regarding the Private Member Bill brought in by the Member of Parliament Premnath C. Dolawatte to amend Sections 365 and 365A of the Penal Code of Sri Lanka, the Parliamentary Communications Department said in a statement.
 
-அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தினால் பிரதேசத்தின் விவசாய நடவடிக்கைகளுக்கும் குடிநீர் தேவைக்கும் தீர்வு கிடைக்கும் எனவும்  பல்வேறு தரப்பினர் எதிர்ப்பு நடவடிக்கையில் ஈடுபட்டபோதும் இந்த திட்டத்தினால் விவசாயத்திற்கு எந்தப் பாதிப்பும் ஏற்படாது என தான் உறுதியளிப்பதாகவும்  ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்
+Moreover, the LGBTIQ+ community representatives and the Speaker had a discussion at length regarding the issues faced by the LGBTIQ+ community living in Sri Lanka, it added.
 
-இங்கு கருத்துரைத்த நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான்,
+Meet by NextGenSL, an all-party youth organization assisted in organizing this meeting with the Speaker to which the Assistant Secretary General of Parliament Hansa Abeyratne was also present.
 
-...
+◼️
 
-[Data](articles/cd9c102f.json)
+[Data](articles/5ec3d845.json)
 
 ---
 
-### கூட்டத்தில் கலந்து கொண்டிருந்த குணதிலக ராஜபக்க்ஷ எம்.பி திடீர் சுகயீனமடைந்து வைத்தியசாலையில் அனுமதி!
+### Sri Lanka, India hold talks on collaboration in personnel administration & governance
+
+*2024-02-15 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97298/sri-lanka-india-hold-talks-on-collaboration-in-personnel-administration-governance) · `en`
+
+Sri Lanka and India kicked off bilateral delegation-level talks on Wednesday (Feb.14) in New Delhi for collaboration in personnel administration and governance.
+
+The discussion was chaired by Secretary to India’s Department of Administrative Reforms & Public Grievances (DARPG), Shri V. Srinivas and Secretary to the Prime Minister of Sri Lanka, Anura Dissanayake.
+
+The Sri Lankan delegation included Dr. Dharmasri Kumaratunga, Secretary to Ministry of Technology; Pradeep Yasarathna, Secretary to Ministry of Public Administration, Home Affairs, Provincial Councils & Local Government; Nalaka Kaluwewe, Director General of Sri Lanka Institute of Development Administration (SLIDA). Senior officials of India’s DARPG Shri NBS Rajput, Shri Puneet Yadav and Smt. Jaya Dubey participated in the discussions.
+
+...
+
+[Data](articles/7142de1b.json)
+
+---
+
+### “Can't break the country”
+
+*2024-02-15 16:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரிந்திருந்து-நாட்டை-கட்டியெழுப்ப-முடியாது/175-333274) · `ta`
+
+President Ranil Wickremesinghe said that the country could not be built politically and that all parties would come together to unite to provide prosperous living standards for the country or for the government or the opposition.
+
+The first inauguration of the Anuradhapura North Water Supply Project was held on Thursday (15). He said this while participating in the event.
+
+President Ranil Wickremesinghe urged the Anuradhapura Northern Water Supply Scheme to provide solutions to the agricultural activities and drinking water needs of the area and that the project will not affect agriculture despite various parties.
+
+Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman
+
+President Ranil Wickremesinghe has assumed the responsibility of the country without hesitation when the country is in a state of crisis, and he said that the president should be praised for taking the economy on the right path without allowing the country to be re -made.
+
+◼️
+
+[Data](articles/cd9c102f.json)
+
+[Extended Data](ext_articles/cd9c102f.ext.json)
+
+---
+
+### Gunathilaka Rajapakse MP suddenly sick and admitted to hospital
 
 *2024-02-15 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176463) · `ta`
 
-கண்டி மாவட்ட ஒருங்கிணைப்புக் கூட்டத்தின்போதே அவர் திடீரென சுகயீனமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+It is reported that he was suddenly sick and admitted to the hospital during the Kandy District Coordinating Meeting.
 
 ◼️
 
 [Data](articles/eb59979e.json)
+
+[Extended Data](ext_articles/eb59979e.ext.json)
 
 ---
 
@@ -86,37 +126,41 @@ Tennakoon also mentioned that the assistance of the International Police will be
 
 ---
 
-### இலங்கை தமி்ழ் அரசு கட்சியின் மாநாட்டுக்கு யாழிலும் தடை
+### Sri Lanka's Tamil Nadu Party Convention
 
 *2024-02-15 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176456) · `ta`
 
-தமிழரசுக் கட்சியின் மாநாட்டை நடாத்துவதற்கு எதிராக தடை உத்தரவு வழங்கக் கோரி யாழ்ப்பாணம் மாவட்ட நீதிமன்றில் தாக்கல் செய்யப்பட்ட வழக்கின் பிரகாரம் மாநாட்டை நடத்த நீதிமன்றால் இடைக்கால தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+An interim injunction has been issued by the court to hold a conference in the Jaffna District Court seeking an injunction against the TNA convention.
 
-தமிழரசுக் கட்சியின் மாநாட்டை நடாத்துவதற்கு எதிராக யாழ்ப்பாணம் மாவட்ட நீதிமன்றில் இன்று வியாழக்கிழமை (15) வழக்குதாக்கல் செய்யப்பட்டது.
+A case was filed in the Jaffna District Court on Thursday (15) against the TNA convention.
 
-இது தொடர்பான விசாரணைகளை அடுத்து எதிர்வரும் 19ஆம் திகதி நடைபெறவிருந்த தமிழரசுக் கட்சியின் மாநாட்டை நடத்த யாழ்ப்பாணம் மாவட்ட நீதிமன்றம் இடைக்கால தடைஉத்தரவு பிறப்பித்துள்ளது.
+The Jaffna District Court has issued an interim injunction to hold a conference to be held on the 19th of this month.
 
-இதேவேளை திருகோணமலை மாவட்ட நீதிமன்றில் தொடரப்பட்ட வழக்கினை தொடர்ந்து, திருகோணமலை மாவட்ட நீதிமன்றமும் மாநாட்டிற்கு தடை விதித்து உள்ளமை குறிப்பிடத்தக்கது.
+Meanwhile, the Trincomalee District Court has also banned the convention following the case in the Trincomalee District Court.
 
 ◼️
 
 [Data](articles/1f112c00.json)
 
+[Extended Data](ext_articles/1f112c00.ext.json)
+
 ---
 
-### கசிப்பு  அருந்திய மாணவன் பாடசாலையில் சுகயீனமுற்றதால் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டார்!
+### The student who had been drunk was taken to the hospital because he was sick at the school!
 
 *2024-02-15 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176459) · `ta`
 
-பசறை பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் கசிப்பு அருந்திய நிலையில் ஏற்பட்ட சுகவீனம் காரணமாக மாணவன் ஒருவன் பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+A student was admitted to the Badulla Teaching Hospital due to a sickness in a school in Pasarai area.
 
-நேற்று  (14)  இந்த மாணவனுக்கு  திடீரென உடல்நலக்குறைவு ஏற்பட்டு வாந்தி எடுத்தார். இதுகுறித்து ஆசிரியர்கள் அவரிடம் கேட்டபோது, பாடசாலைக்கு அருகே உள்ள பிரதான  வீதியில் வைத்து தான்  கசிப்பு அருந்தியதாக கூறினார்.
+Yesterday (14), the student suddenly vomited due to ill health. When the teachers asked him about this, he said that he had been drinking on the main road near the school.
 
-தான்  கசிப்பு அருந்தியதனை குறித்த மாணவன்  வைத்தியசாலையில் கூறியதன் அடிப்படையில் மேலதிக சிகிச்சைக்காக பதுளை போதனா வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டதாக பசறை ஆதார வைத்தியசாலையில் வட்டாரங்கள் தெரிவித்தன.
+According to sources at the Badulla Teaching Hospital for further treatment, the student told the hospital for further treatment.
 
 ◼️
 
 [Data](articles/651a7e9c.json)
+
+[Extended Data](ext_articles/651a7e9c.ext.json)
 
 ---
 
@@ -136,21 +180,23 @@ During the Kandy District Coordinating meeting, the time was hospitalized.
 
 ---
 
-### 3 மாணவிகளுக்கு தொல்லை கொடுத்த பாடசாலை ஆசிரியர் ஹட்டன் பொலிஸாரால் கைது!
+### School teacher Hatton police arrested for harassing 3 students
 
 *2024-02-15 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176457) · `ta`
 
-ஹட்டன் பிராந்திய கல்வி அலுவலகத்துக்கு உட்பட்ட  பிரதேச   பாடசாலை ஒன்றில் பாடசாலை மாணவிகள் மூவருக்கு  தொல்லை கொடுத்த குற்றச்சாட்டில்  அதே பாடசாலையின்  ஆசிரியர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளார்.
+The teacher of the same school has been arrested on suspicion of allegedly harassing three school students at a regional school under the Hatton Regional Education Office.
 
-குறித்த ஆசிரியர் பாடசாலையில் பத்தாம் வகுப்பு கற்கும்  மூன்று மாணவிகள் மீது தொல்லைகளைப் பிரயோகிக் முயற்சித்ததாகவும் அவர்களுக்கு குறுஞ்செய்தி அனுப்பி அசௌகரியம் ஏற்படுத்தியதாகவும் தெரிவிக்கப்படுகிறது.
+It is reported that the teacher has tried to get rid of the three students who have been learning at the school and sent a short message to them.
 
-சந்தேக நபரின் குறுஞ்செய்திகளுக்கு பதில் அளிக்காததால், வகுப்பறையில் அமர்ந்திருந்த அந்த  மாணவிகள் மீது தேவையற்ற அழுத்தங்கள் பிரயோகித்தால் சம்பந்தப்பட்ட மாணவிகள் வட்டவளை பொலிஸில் முறைப்பாடு செய்துள்ளனர்.
+The students involved have lodged a complaint with the Vattawala police if unnecessary pressures are applied to the students sitting in the classroom as they do not respond to the suspect's SMS.
 
-இதன்படி, வட்டவளை பொலிஸ் நிலையப் பொறுப்பதிகாரி இன்ஸ்பெக்டர் சந்தன கமகேவின் உத்தரவில்  சந்தேகநபர் கைது செய்யப்பட்டார்.
+Accordingly, the suspect was arrested on the orders of Inspector Chandana Kamage, the Superintendent of the Vattawala Police Station.
 
 ◼️
 
 [Data](articles/73061f30.json)
+
+[Extended Data](ext_articles/73061f30.ext.json)
 
 ---
 
@@ -1985,57 +2031,5 @@ It is also worth noting that the Gazette was issued on the orders of President R
 [Data](articles/ee5adf72.json)
 
 [Extended Data](ext_articles/ee5adf72.ext.json)
-
----
-
-### Large scale drug dealer arrested with drugs
-
-*2024-02-15 10:20:03* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-මත්ද්‍රව්‍ය-ජාවාරම්කරණයකු-ලක්ෂ-පනහක-මත්ද්‍රව්‍ය-සමඟ-අත්අඩංගුවට/11-408096) · `si`
-
-The STF personnel said that a large number of narcotics worth Rs.
-
-The operation was launched following information received by the Special Task Force to the Special Task Force to the Special Task Force of Justice under the operation of the Acting Inspector General of Deshabandu Tennakoon.
-
-A group of officers including the Special Task Intelligence Intelligence Gunasoma has been taken into custody in his possession (dycadailmorofin) or 700 grams of ice..
-
-Accordingly, when the suspect and the livelihood of the new path was arrested and stopped at the adjoining new path, he was hidden at the cabhills, which was hidden (ICEMMaming), and an electricity used to measure the milk and 17,000 rupees.Taken into the seized.
-
-The luxury jeep of the Kia Spatage is also taken into custody.
-
-Police suspect that the suspect has been distributing the drug belonging to a larger drug network and will be handed over to the Police Narcotics Bureau.
-
-It is said that the stock of narcotics was arrested.
-
-...
-
-[Data](articles/1df030bf.json)
-
-[Extended Data](ext_articles/1df030bf.ext.json)
-
----
-
-### Man arrested with fifty drug
-
-*2024-02-15 10:20:03* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-පනහක-මත්ද්‍රව්‍ය-සමඟ-පුද්ගලයෙකු-අත්අඩංගුවට/11-408096) · `si`
-
-The STF personnel said that a large number of narcotics worth Rs.
-
-The operation was launched following information received by the Special Task Force to the Special Task Force to the Special Task Force of Justice under the operation of the Acting Inspector General of Deshabandu Tennakoon.
-
-A group of officers including the Special Task Intelligence Intelligence Gunasoma has been taken into custody in his possession (dycadailmorofin) or 700 grams of ice..
-
-Accordingly, when the suspect and the livelihood of the new path was arrested and stopped at the adjoining new path, he was hidden at the cabhills, which was hidden (ICEMMaming), and an electricity used to measure the milk and 17,000 rupees.Taken into the seized.
-
-The luxury jeep of the Kia Spatage is also taken into custody.
-
-Police suspect that the suspect has been distributing the drug belonging to a larger drug network and will be handed over to the Police Narcotics Bureau.
-
-It is said that the stock of narcotics was arrested.
-
-...
-
-[Data](articles/e34aa566.json)
-
-[Extended Data](ext_articles/e34aa566.ext.json)
 
 ---

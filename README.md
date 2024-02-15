@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 09:17:24**
+As of **2024-02-15 09:32:56**
 
 ## Newspaper Stats
 
-*Scraped **7,135** Articles*
+*Scraped **7,138** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 80
-bbccomsinhala | 94
+bbccomsinhala | 95
 dbsjeyarajcom | 150
 newsfirstlk | 363
 economynextcom | 371
@@ -18,19 +18,61 @@ dailyftlk | 389
 adalk | 604
 tamilmirrorlk | 872
 adaderanalk | 872
-virakesarilk | 913
-adaderanasinhalalk | 1,006
+virakesarilk | 914
+adaderanasinhalalk | 1,007
 dailymirrorlk | 1,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,134 (100.0%) of 7,135 articles have been extended.
+7,135 (100.0%) of 7,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### ලියන මේසයකට ඇති වූ ආරවුල ගුටි කෙළියකින් නිමා වෙයි
+
+*2024-02-15 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193402) · `si`
+
+පාසලේ දී ලියන මේසයක් සම්බන්ධයෙන් ඇති වූ බහින්බස් වීමක් හේතුවෙන් පාසල් සිසුවෙකුට පහර දුන් බව කියන පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගැනීම සඳහා විමර්ශනයක් ආරම්භ කර ඇති බව මැල්සිරිපුර පොලීසිය පවසයි.
+
+ඊයේ (14) වැනි දා සවස මැල්සිරිපුර - උදම්පිට ප්‍රදේශයේ දී මෙම පහර දීම සිදු වී ඇත.
+
+පහර කෑමට ලක් ව ඇත්තේ, මැල්සිරිපුර - කැන්දලව - විහාරගම ප්‍රදේශයේ පදිංචිකරුවෙකු වන වයස අවුරුදු 15ක සිසුවෙකි.
+
+ඔහු රිදීගම - උදම්මිට මහා විද්‍යාලයේ 11 වැනි වසරේ ඉගෙනුම ලබමින් සිට තිබේ.
+
+ඊයේ තමන් පාසලේ පැවති වාර විභාගය අවසන් වී නිවස බලා යමින් සිටින විට යතුරු පැදියකින් පැමිණි දෙදෙනෙකු ආරක්ෂිත හිස් වැසුමකින් සහ උණ බටයකින් තමන්ට පහර දුන් බව පාසල් සිසුවා පොලීසියට පවසා ඇත.
+
+පහර දීම සිදු කරන ලද්දේ ගොකරැල්ල - බලවත්වල පදිංචිකරුවන් දෙදෙනෙකු බවට තමා හඳුනාගත් බව ද සිසුවා පොලීසියට පවසා තිබේ.
+
+මීට සතියකට පමණ පෙර පාසලේ දී ලියන මේසයක් සම්බන්ධයෙන් තවත් සිසුවෙකු සමඟ ආරවුලක් ඇති වූ බවත් එම අවස්ථාවේ තමා සමඟ ආරවුල ඇති කර ගත් සිසුවාගේ මිතුරෙකු තමන්ට දුරකථනයෙන් තර්ජනය කළ බවත් සිද්ධියට මුහුණ දී ඇති සිසුවා පොලීසියට පවසා ඇත.
+
+...
+
+[Data](articles/175b460e.json)
+
+---
+
+### பெருந்தோட்ட மக்களின் வாழ்க்கை தரத்தை உயர்த்தும் நோக்கத்துடனேயே சஜித்துடன் ஒப்பந்தம் செய்துள்ளோம் - வேலுசாமி இராதாகிருஷ்ணன்
+
+*2024-02-15 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176411) · `ta`
+
+பெருந்தோட்ட மக்களின் வாழ்க்கை தரம் உயர்த்தப்பட வேண்டும் என்ற எமது நோக்கத்திலேயே எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் கூட்டணியுடன் ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளதாக தமிழ் முற்போக்கு கூட்டணியின் பிரதி தலைவர் கலாநிதி வேலுசாமி இராதாகிருஷ்ணன் தெரிவித்தார்.
+
+ஐக்கிய மக்கள் சக்தி தலைமை அலுவலகத்தில் நேற்று புதன்கிழமை (14) ஒப்பந்தம் கைசாத்திடும் நிகழ்வில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+பெருந்தோட்டத் தொழிலாளர்களின் வாழ்க்கை, அவர்களின் எதிர்பார்ப்பு என்பவை தொடர்பில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவுக்கு எடுத்துரைக்கப்பட்டு அதன் மூலமாக இந்த புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளோம்.
+
+இதன் மூலம் பெருந்தோட்ட மக்களின் வாழ்க்கை தரம் உயர்த்தப்பட வேண்டும் என்பதே எமது நோக்கமாகும். அவர்கள் காணி உரிமையைப் பெற்றுக் கொள்ள வேண்டும். அவர்களுக்கு வீடுகள் நிர்மாணித்துக் கொடுக்கப்பட வேண்டும். அதற்காக ஒரு விசேட செயலணியை உருவாக்குவதற்கு சஜித் பிரேமதாச இணக்கம் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/2d7e269a.json)
+
+---
 
 ### Man dies and killed
 
@@ -597,6 +639,26 @@ Addressing the top officials at the Ministry yesterday she said the ADB aid is a
 [Data](articles/ed4b2d05.json)
 
 [Extended Data](ext_articles/ed4b2d05.ext.json)
+
+---
+
+### වසරකට දෙවරක් ගල්ඔය සිට කුමනට සිදුවන අලි සංක්‍රමණය ඔබ දැක තිබේ ද?
+
+*2024-02-15 02:39:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gewn4y8vvo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "අලි-මිනිස් ගැටුම : වසරකට දෙවරක් ගල්ඔය සිට කුමනට සිදුවන අලි සංක්‍රමණය ඔබ දැක තිබෙනවා ද?", ධාවන කාලය 2,2802:28වීඩියෝ ශීර්ෂ වැකිය, බුද්ධංගල හරහා පෙබරවාරි මාසයේ දී කුමන දෙසට සංක්‍රමණය වන අලි  අප්‍රේල් මාසයේ නැවත පැමිණෙති. යළිත් අගෝස්තු සහ නොවැම්බර් අතර මේ සංක්‍රමණය සිදු වේ.
+
+වසරකට දෙවරක් ගල්ඔය සිට කුමනට සිදුවන අලි සංක්‍රමණය ඔබ දැක තිබේ ද?
+
+ගල්ඔය සිට කුමන දෙසට වසරකට දෙවරක් අලි සංක්‍රමණයක් සිදුවේ. එම මාර්ගයේ පළමු අලි සංක්‍රමණය පෙබරවාරි 20 වැනිදා විට ආරම්භ වීමට නියමිතව තිබේ.
+
+පෙබරවාරි 20ට පෙර වී අස්වැන්න නෙලා අවසන් කරන්නැයි බලධාරීන් ගොවීන්ට දැනුම් දී ඇත. එදිනට පසුව වලතාපිටිය වැව වටා ඇති විදුලි වැටෙහි විදුලිය සැපයුම අක්‍රීය කර බුද්ධංගල අභය භූමියේ රැඳී සිටින අලින්ට කුඹුරු හරහා ගමන් කිරීමට ඉඩ ලබාදෙනු ලැබේ.
+
+බුද්ධංගල අභය භූමියේ සිටින අලි ගම් වැදීම වැළැක්වීම සඳහා ගොවීන්ගේ මුදලින් දිනකට එක් අයෙකුට රුපියල් 2000 බැගින් ගෙවා දිනපතා 25 දෙනෙකු සේවයට යොදවා ඇත. මීට අමතරව අලි වැට මුර කිරීම වනජීවී නිලධාරීන්, ගම්වාසීන් සහ සිවිල් ආරක්ෂක බලකාය විසින් සිදු කරනු ලබයි.
+
+...
+
+[Data](articles/b181690f.json)
 
 ---
 
@@ -1580,23 +1642,27 @@ Wimal for a century in the ODI welcomes between Sri Lanka and Afghanistan today 
 
 ---
 
-### ජාත්‍යන්තර විශ්වවිද්‍යාල 03ක් ශ්‍රී ලංකාවේ ස්ථාපිත කිරීමට පියවර
+### Steps to establish 3 international universities in Sri Lanka
 
 *2024-02-14 20:28:20* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-විශ්වවිද්‍යාල-03ක්-ශ්‍රී-ලංකාවේ-ස්ථාපිත-කිරීමට-පියවර/11-408091) · `si`
 
-අධ්‍යාපනය සම්බන්ධ ජාත්‍යන්තර අත්දැකීම් ඇති විශේෂඥයන් මෙරටට පැමිණ නිරීක්ෂණයෙන් පසුව රාජ්‍ය විශ්වවිද්‍යාල හරහා බහුවිධ උපාධි ලබාදීමට අවධානය යොමු කර ඇති බව උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා පැවසීය.
+State Minister of Higher Education Dr. Suren Sanghava said that the experts with international experience in education came to Sri Lanka and have paid multiple degrees through state universities.
 
-එසේම ජාත්‍යන්තර විශ්වවිද්‍යාල 03ක් ශ්‍රී ලංකාවේ ඉදිකිරීමට මේ වන විට පියවර ගෙන තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+The State Minister also said that steps have been taken to construct three international universities in Sri Lanka.
 
-උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (14) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Minister of Higher Education Dr. Suren Sanghajeew made this statement participating at a press conference held at the Presidential Media Center today (14).
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා මෙසේ ද පැවසීය,
+State Minister of Higher Education Dr. Suren Saggehavan said:
 
-විදෙස් විශ්වවිද්‍යාල 03ක් ශ්‍රී ලංකාවේ ස්ථාපිත කිරීමට අප මේ වන විට පියවර ගෙන තිබෙනවා. ඉන් විශ්වවිද්‍යාල දෙකක්ම ස්ථාපිත වෙමින් පවතිනවා. මෙම වසරේ මැයි මාසය වන විට තුන්වන විශ්වවිද්‍යාලය ද ලංකාවේ ස්ථාපිත කෙරෙනවා.
+We have already taken steps to establish three foreign universities in Sri Lanka. Two universities are being established. By May this year, the third university is also established in Sri Lanka.
+
+Indian Institutes of Technology is to be opened in Kandy. The other two universities are to be opened as two branches in the United States and the UK as two branches.
 
 ...
 
 [Data](articles/8cbe4cb1.json)
+
+[Extended Data](ext_articles/8cbe4cb1.ext.json)
 
 ---
 
@@ -1957,73 +2023,5 @@ COPF granted a two-week extension for this while expecting completion of the leg
 [Data](articles/39e11adc.json)
 
 [Extended Data](ext_articles/39e11adc.ext.json)
-
----
-
-### Buy paddy yield Buying Rs.. B. 09
-
-*2024-02-14 18:56:59* · [`adalk`](https://www.ada.lk/breaking_news/වී-අස්වැන්න-මිලදී-ගන්න-ඔඩපණ-ණය-යෝජනා-ක්‍රමය-හරහා-රු--බි---09ක්/11-408086) · `si`
-
-Steps to implement the financial difficulty in the Maha season, using the financial difficulties in the Maha season, to purchase the financial difficulties in the Maha season, small and medium scale and medium-sized paddy and paddy.The Director General of the Presidential Community Affairs, Rajith Keerthi Tennakoon said.
-
-The loan facility has been provided by People's Bank and the Regional Development Bank of Ceylon and Regional Development Bank.. .
-
-The Director General of the Presidential Community Affairs, Rajith Keerthi Tennakoon said this at a meeting held at the Presidential Secretariat today (14).
-
-The loan loan amount of Rs.
-
-The debt represents an 180 days. 4% of the annual interest rate of 15% will be given to the relevant banks to the relevant banks. Accordingly, the credit buyers should be paid only an annual interest rate of 11%.
-
-Rajith Keerthi Tennakoon said that the aim is to provide consumers to the consumers and the opportunity to obtain rice at reasonable prices.
-
-...
-
-[Data](articles/d1ff5518.json)
-
-[Extended Data](ext_articles/d1ff5518.ext.json)
-
----
-
-### COPF summons Fiscal Policy Dept’s DG over gaming regulator delay
-
-*2024-02-14 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97273/copf-summons-fiscal-policy-depts-dg-over-gaming-regulator-delay-) · `en`
-
-The Committee on Public Finance (COPF) has summoned the Director General of the Fiscal Policy Department of the Finance Ministry to inquire into the delays in establishing a gaming regulator.
-
-The inaugural COPF meeting of the 5th session of the 9th Parliament was held on Tuesday (Feb.13), chaired by MP Dr. Harsha de Silva, who was re-appointed to the position.
-
-Despite the agreed-upon deadline of December 31, 2023 for the regulator’s establishment, it remains unresolved, the COPF observed during the meeting. It was also revealed that the committee has received no responses to its follow-up inquiries.
-
-Stressing the vital role of a gaming regulator in both attracting investment and recouping billions of lost revenue, COPF members emphasized the urgency of this legislation.
-
-...
-
-[Data](articles/8d0c860e.json)
-
-[Extended Data](ext_articles/8d0c860e.ext.json)
-
----
-
-### Work to create a strong economy
-
-*2024-02-14 18:48:54* · [`adalk`](https://www.ada.lk/breaking_news/ශක්තිමත්-ආර්ථිකයක්-නිර්මාණය-කිරීමට-කටයුතු-කරනවා/11-408085) · `si`
-
-If the country is to reach an economic transformation, a new education system that suits the world needs
-
-President Mahinda Rajapaksa, hosts the education system that can create professionals - 2024.
-
-President Ranil Wickremesinghe pointed out that to be a new educational procedure to the world to be put into an economic transformation, President Ranil Wickremesinghe said.
-
-The President said that the new trade and technology universities are planning to create an acquainted child, which reduces the weighs of examination and incorporate English and technology to the education system.
-
-President Ranil Wickremesinghe made this statement participating in the National Program of Pirivenas and school uniforms to Pirivenas and School students from St. Anthony's Girls' College today (14).
-
-Parade books and uniforms will be provided with students of 10,126 students of the island and the students of 822 students of the island to provide these school text books and uniforms.
-
-...
-
-[Data](articles/b3a40600.json)
-
-[Extended Data](ext_articles/b3a40600.ext.json)
 
 ---

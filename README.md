@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 12:32:47**
+As of **2024-02-15 12:48:41**
 
 ## Newspaper Stats
 
-*Scraped **7,192** Articles*
+*Scraped **7,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 375
 islandlk | 376
 dailyftlk | 389
-adalk | 612
-tamilmirrorlk | 875
-adaderanalk | 882
-virakesarilk | 928
+adalk | 614
+adaderanalk | 883
+tamilmirrorlk | 886
+virakesarilk | 929
 adaderanasinhalalk | 1,010
 dailymirrorlk | 1,056
 
@@ -26,11 +26,103 @@ dailymirrorlk | 1,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,182 (99.9%) of 7,192 articles have been extended.
+7,192 (99.8%) of 7,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### Interpol ‘Red Notices’ issued to 42 Sri Lankan criminal suspects hiding overseas
+
+*2024-02-15 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97291/interpol-red-notices-issued-to-42-sri-lankan-criminal-suspects-hiding-overseas-) · `en`
+
+Acting Inspector General of Police (IGP) Deshabandu Tennakoon states that 42 Interpol ‘Red Notices’ have been issued against criminals who have fled the country and are in connection with underworld activities and drug offences.
+
+Joining the event to declare open a new police checkpoint in front of the Colombo National Hospital, Tennakoon expressed that the relevant criminal suspects would be brought back to the island with the assistance of Interpol.
+
+Furthermore, he mentioned that main accomplice of the notorious underworld figure Salindu Malshika alias “Kudu Salindu,” who was repatriated to Sri Lanka early this morning, will be interrogated further to uncover more details regarding drug syndicates operating in the country.
+
+...
+
+[Data](articles/0fccb22e.json)
+
+---
+
+### கரப்பான்பூச்சிக்கு காதலர் பெயர்
+
+*2024-02-15 12:18:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கரப்பான்பூச்சிக்கு-காதலர்-பெயர்/53-333255) · `ta`
+
+பெப்ரவரி 14 ஆம் திகதி உலகம் முழுவதும் காதலர் தினம் சிறப்பாக கொண்டாடப்பட்டு வருகிறது. அந்நாளில் காதலர்கள், காதலை வெளிப்படுத்த பரிசு கொடுப்பது, சுற்றுலா செல்வது அல்லது இருவருக்கும் பிடித்ததை செய்வது போன்ற காரியங்களில் ஈடுபடுவர். இது வழக்கமாக இருக்கும் நிலையில், ஒரு புதுவிதமான அறிவிப்பை அமெரிக்காவில் இருக்கும் ஒரு பூங்கா வெளியிட்டுள்ளது.
+
+முன்னாள் காதலர் மீது இருக்கும் வன்மத்தை தீர்க்கும் வகையில் இந்த பூங்கா ஒரு திட்டத்தை கொண்டுவந்துள்ளது. அதாவது இந்த பூங்காவில் இருக்கும் மடகாஸ்கர் என்னும் கரப்பான்பூச்சிக்கு முன்னாள் காதலரின் பெயரை வைக்கலாம்.
+
+முன்னாள் காதலரின் பெயரை கரப்பான்பூச்சிக்கு வைப்பதன் மூலம் ஒருவர் அவர் மீது இருக்கும் வன்மத்தையும், உணர்ச்சிகளையும் வெளியேற்ற ஒரு வாய்ப்பாக அமையும் என கூறப்படுகிறது.
+
+இந்த புதுவிதமான அறிவிப்பை அமெரிக்காவில் உள்ள பிராங்க்ஸ் உயிரியல் பூங்கா வெளியிடப்பட்டுள்ளது. இதற்கு கட்டணமாக $15 அதாவது இலங்கை மதிப்பு படி ரூ. 4688 வசூலிக்கப்படுகிறது.
+
+...
+
+[Data](articles/ca4a1bb9.json)
+
+---
+
+### மலசலக்கூட கட்டணம் சதம் அடித்தது
+
+*2024-02-15 12:15:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலசலக்கூட-கட்டணம்-சதம்-அடித்தது/175-333254) · `ta`
+
+தூர பிரதேசங்களில் இருந்து கொழும்புக்கு வருகைதருவோர், தங்களுடைய வேலைகளை முடித்துக்கொண்டு, பொது போக்குவரத்தின் ஊடாக தங்களுடைய வீடுகளுக்குச் திரும்புவதற்கு முன்னர், அவசர தேவைகளுக்காக பொது மலசலக்கூடத்தையே பயன்படுத்துவர்.
+
+புறக்கோட்டை பெஸ்டியன் மாவத்தையில் உள்ள பொது மலசலக்கூடத்தை பயன்படுத்துவோரிடம், அறவிடப்படும் கட்டணம் திடீரென 50 ரூபாயாக அதிகரிக்கப்பட்டுள்ளது என பயணிகள் விசனம் தெரிவிக்கின்றனர்.
+
+இலங்கை ரயில் திணைக்களத்துக்கு உரித்துடைய காணியில், இலங்கை போக்குவரத்து சபையின் ஊடாக, பொது மலசலக்கூடங்கள் நிர்மாணிக்கப்பட்டுள்ளன.
+
+“இந்த பொது மலசலக்கூட தொகுதி, எங்களுடைய ஆணைக்குழுவுக்கு உரித்துடையது என்றாலும், வெளியாருடன் செய்துககொள்ளப்பட்ட ஒப்பந்தத்தின் அடிப்படையில், பாரமரிப்பதற்கு ஒப்படைக்கப்பட்டுள்ளது. அங்கு அறவிடப்படும் கட்டணங்கள் தொடர்பில் ​பொதுமக்களால் அவ்வப்போது முறைப்பாடுகள் செய்யப்பட்டுள்ளன. நாங்கள் விசாரணைகளை முன்னெடுத்து, நடவடிக்கைகளையும் எடுத்துள்ளோம். எனினும், தற்போது கட்டணம் அதிகரிக்கப்பட்டமை தொடர்பில் அறிந்திருக்கவில்லை. இது தொடர்பில் தேடியறிந்து நடவடிக்கை எடுப்பேன்” என்றார்.
+
+◼️
+
+[Data](articles/b96beb55.json)
+
+---
+
+### இந்தியாவின் விஸ்தரிப்புவாதம் குறித்து எந்த கவலையுமில்லை - ஜேவிபி தலைவர் கருத்து - இந்தியா தன்னை அழைத்தமைக்கான காரணம் குறித்தும் விளக்கம்
+
+*2024-02-15 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176431) · `ta`
+
+இலங்கையை இந்தியாவின் பாதுகாப்பிற்கு குந்தகம் ஏற்படுத்தக்கூடிய விதத்தில் பயன்படுத்தலாம் என்ற கரிசனை காரணமாகவே இந்தியா தன்னை அழைத்தது என ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க தெரிவித்துள்ளார்.
+
+இந்தியாவிற்கு தான் அழைக்கப்பட்டமைக்கான காரணம் எதுவாகயிருக்கலாம் என்பதை தெரிவித்துள்ள ஜேவிபி தலைவர் தேசியபாதுகாப்பு  பொறுப்புணர்வுமிக்க பூகோள அரசியல் ஆகியவற்றிற்கான ஜேவிபியின் உறுதிப்பாட்டை வலியுறுத்தியுள்ளார்.
+
+இந்தியா தனது கட்சியை அழைத்தமைக்கான காரணம் என்னவாகயிருக்கலாம் என்பது குறித்து கருத்துதெரிவித்துள்ள அனுரகுமாரதிசநாயக்க இலங்கையின் தற்போது காணப்படும் நிலைமை காரணமாகவே இந்தியா தன்னை அழைத்திருக்கலாம் எனவும் குறிப்பிட்டுள்ளார்.
+
+ஜேவிபியை இந்தியா அழைத்ததை பாரம்பரிய செயற்பாடுகளில் இருந்து ஒரு மாற்றம் என்பதை அவர் ஏற்றுக்கொண்டுள்ளார்.
+
+இந்தியாவின் புவிசார்அரசியல் நலன்களிற்கு எதிராக இலங்கை பயன்படுத்தப்படலாம் என்பது குறித்து இந்தியா கரிசனை கொண்டுள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/9c466125.json)
+
+---
+
+### ” JICA” தலைவர் ஜனாதிபதியுடன் சந்திப்பு
+
+*2024-02-15 12:09:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/JICA-தலைவர்-ஜனாதிபதியுடன்-சந்திப்பு/175-333253) · `ta`
+
+ஜப்பான் சர்வதேச ஒத்துழைப்பு அமைப்பின் (JICA) தலைவர் கலாநிதி தனகா அகிஹிகோ, ஜனாதிபதி ரணில் விக்கிரமசிங்கவை புதன்கிழமை (14) சந்தித்துள்ளார்.
+
+குறித்த சந்திப்பின் போது, கலாநிதி அகிஹிகோ, பொருளாதார சீர்திருத்த வேலைத்திட்டத்திற்கான ஜனாதிபதி விக்கிரமசிங்கவின் அர்ப்பணிப்புக்கு நன்றி தெரிவித்ததுடன், அதன் சவாலான தன்மையை ஒப்புக்கொண்டார்.
+
+இதற்குப் பதிலளித்த ஜனாதிபதி விக்கிரமசிங்க, BIA, LRT மற்றும் மத்திய அதிவேக நெடுஞ்சாலையின் விரிவாக்கம் உட்பட முதலீட்டுத் திட்டங்களை விரைவாக மீளத் தொடங்குவதை உறுதி செய்வதில் தனது கவனத்தை வலியுறுத்தினார்.
+
+பொருளாதார நெருக்கடியின் போது இலங்கைக்கு ஜப்பான் அரசாங்கம் மற்றும் JICA வழங்கும் தொடர்ச்சியான ஆதரவிற்காக ஜனாதிபதி பாராட்டினார்.
+
+மேலும், இந்த சந்திப்பின் போது ஜனாதிபதி விக்ரமசிங்கவுடன் ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகர் மற்றும் ஜனாதிபதியின் தலைமை அதிகாரி சாகல ரத்நாயக்க மற்றும் சர்வதேச அலுவல்கள் பணிப்பாளர் டினூக் கொலம்பகே ஆகியோர் கலந்துக்கொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/f195ffe6.json)
+
+---
 
 ### First school term of 2024 to begin next Monday
 
@@ -45,6 +137,38 @@ The third term of the academic year 2023 will end tomorrow (Feb.16).
 ◼️
 
 [Data](articles/ab072995.json)
+
+[Extended Data](ext_articles/ab072995.ext.json)
+
+---
+
+### மூன்றாம் தவணை முடிவடைகிறது
+
+*2024-02-15 11:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-முடிவடைகிறது/175-333252) · `ta`
+
+அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் மூன்றாம் தவணை இன்றுடன் (14) முடிவடைவதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+
+அதன்படி, 2023ஆம் ஆண்டுக்கான மூன்றாம் தவணை நாளைய தினம் வௌ்ளிக்கழமை (16) நிறைவடையவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/508ccdd4.json)
+
+---
+
+### අධික වේගය නිසා තරුණයකු  මාරයාට බිලී
+
+*2024-02-15 11:53:58* · [`adalk`](https://www.ada.lk/breaking_news/අධික-වේගය-නිසා-තරුණයකු--මාරයාට-බිලී/11-408099) · `si`
+
+අධික වේගයෙන් තරුණයෙකු විසින් පැදවූ යතුරුපැදිය වේගය  පාලනය කරගැනීමට නොහැකිවීමෙන් ඊයේ රාත්‍රී සිදුවූ අනතුරකින් එම යතුරුපැදිකරු මියගොස් ඇති බව කළුතර උතුර පොලිසිය පවසයි.
+
+මෙලෙස මියගොස් ඇත්තේ උග්ගල්බඩ, මහවේදුගම ප්‍රදේශයේ පදිංචි 25 හැවිරිදි ජී.එම්.ලක්මාල් නැමති තරුණයෙකි. කළුතර උතුර පොලිස් වසමේ උග්ගල්බඩ ගල්දෙක මාර්ගය ඔස්සේ මහදුවේගම සිට ජනරජ මාවත දෙසට ධාවනය වූ මෙම යතුරුපැදිය උග්ගල්බඩ ප්‍රදේශයේදී මාර්ගයෙන් ඉවතට පැන දුරකතන රැහැන් කණුවක ගැටීමෙන් අනතුර සිදුව තිබූ බවවිමර්ශන වලදී අනාවරණය වී ඇත.
+
+අනතුරින් බලපතළ තුවාල ලැබූ යතුරුපැදිකරු නාගොඩ රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මරණයට පත්ව ඇත. කළුතර උතුර පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දමිත් ජයතිලක මහතාගේ උපදෙස් පරිදි රථවාහන අංශයේස්ථානාධිපති උප පොලිස් පරීක්ෂක හර්ෂ කුමාර ඇතුළු නිලධාරීහු විසින් වැඩිදුර පරීක්ෂණ මෙහෙයවනු ලැබේ.
+
+◼️
+
+[Data](articles/36307a9f.json)
 
 ---
 
@@ -67,6 +191,24 @@ The police media unit said that the shooters were not identified.
 [Data](articles/e41286df.json)
 
 [Extended Data](ext_articles/e41286df.ext.json)
+
+---
+
+### காதலர் தினத்தில் முன்னாள் காதலனுக்கு காதலி கொடுத்த பரிசு
+
+*2024-02-15 11:47:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலர்-தினத்தில்-முன்னாள்-காதலனுக்கு-காதலி-கொடுத்த-பரிசு/175-333251) · `ta`
+
+காதலர் தினமான பெப்ரவரி 14ஆம் திகதியன்று பெண்ணொருவர் தன்னுடைய முன்னாள் காதலுக்கு மறக்கமுடியாத வகையில் பரிசு கொடுத்துள்ள சம்பவம் தெற்கில் இடம்பெற்றுள்ளது.
+
+அந்த பெண்  தனது கணவனை அழைத்து தனது முன்னாள் காதலனை நிர்வாணமாக்கி இரண்டு கால்களையும் துண்டித்துள்ளார் என காலி பொலிஸார் தெரிவித்துள்ளனர்.
+
+தொடநடுவ பிரதேசத்தைச் சேர்ந்த யுவதி ஒருவர் கடந்த 10 வருடங்களுக்கு முன்னர் காலி தொழில்நுட்பக் கல்லூரியில் கல்வி கற்கும் போது ஹிக்கடுவ களுபே பிரதேசத்தைச் சேர்ந்த இளைஞன் ஒருவருடன் காதல் உறவை வளர்த்துக் கொண்டுள்ளார். தொழிற்கல்வியில் பட்டம் பெற்ற பிறகும் அவர்கள் சில காலம் காதல் உறவில் இருந்ததாக கூறப்படுகிறது.
+
+பின்னர் அப்பெண் வேறொருவரை திருமணம் செய்து கொண்டார்,   அவரது பழைய காதலரும் அவளுடன் உறவைப் பேணி வந்தார். எனினும், முன்னாள் காதலன், அப்பெண்ணுக்கு தொலைபேசி அலைப்பை எடுத்துள்ளார். அவளுக்கு அடிக்கடி தொலைபேசி அழைப்புகள் வருவது பின்னாளில் தொல்லையாக மாறியுள்ளதாகவும், அதேவேளை, தனது முன்னாள் காதலனிடம் இருந்து வரும் தொலைபேசி அழைப்புகளை கணவனும் செவிமடுத்துள்ளதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/247d3db8.json)
 
 ---
 
@@ -101,6 +243,8 @@ The first phase of the first school term for 2024 will begin on Monday (19 Febru
 ◼️
 
 [Data](articles/ab4182dc.json)
+
+[Extended Data](ext_articles/ab4182dc.ext.json)
 
 ---
 
@@ -194,6 +338,8 @@ According to Sirisena's office, matters relating to bilateral affairs were discu
 
 [Data](articles/516757fe.json)
 
+[Extended Data](ext_articles/516757fe.ext.json)
+
 ---
 
 ### Three hundred cock farms at village level to supply eggs to school children
@@ -218,23 +364,25 @@ The remaining eggs can only be salad after they have paid lunch to the suppliers
 
 ---
 
-### පාසල් දරුවන්ගේ දිවා ආහාරයට බිත්තර සැපයීමට කුකුළ් ගොවිපොළවල්
+### Chick farms to supply eggs for school children's lunch
 
 *2024-02-15 11:33:46* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-දරුවන්ගේ-දිවා-ආහාරයට-බිත්තර-සැපයීමට-කුකුළ්-ගොවිපොළවල්/11-408098) · `si`
 
-මොනරාගල දිස්ත්‍රික්කයේ පාසල් වල ඉගෙනුම ලබන දරුදැරියන්ගේ දිවා ආහාරයට බිත්තර සැපයීමට ගම් මට්ටමෙන් කුකුළ් ගොවිපොළවල් තුන්සියදෙකක් ආරම්භකිරීමට ඌව පළාත් පශුසම්පත් දෙපාර්තමේන්තුව කටයුතුයොදා ඇතැයි මොනරාගල පශුසම්පත් නියෝජ්‍ය අධ්‍යක්ෂක ඩී.එම් සිරිවර්ධන මහතා පැවසීය.
+The Department of Uva Provincial Department (DM Siriwardena) said that the Department of Uva Provincial Livestock was commenced at the village level to supply eggs to the lunch for children in schools in the Moneragala district.
 
-ලෝක ආහාර සංවිධානයේ මූල්‍ය ප්‍රතිපාදන මත ක්‍රියාත්මක මෙම වැඩසටහනේදී දිස්ත්‍රික්කය තුළ පවුල් 302 සම්බන්ධ කරගෙන ගොවිපොළවල් ඇතිකිරීමට නියමිතය.
+Facilities will be established in the district with 302 families in the district on the financial provisions of the World Food Organization.
 
-එක් පවුලක් සඳහා මසක් වයසැති කිකිළි පැටව් 55 දෙනෙකු ලබාදීමට නියමිතය.
+55 chicks will be given to one family.
 
-වර්ග අඩි 150 කින් යුත් කුකුළ් කූඩුවක් ඉඳිකිරීම සඳහා අවශ්‍ය මූල්‍ය ප්‍රතිපාදන සහ උපකරණ ලබාදෙන අතර මාස 06 යනතුරු අවශ්‍ය කුකුළ් කෑම නොමිලේ ලබාදෙනු ලබයි.
+The necessary financial provisions and equipment will be provided to install a 150 square feet and provides chicken foods free of charge to six months.
 
-නිෂ්පාදිත බිත්තර ලඟම පිහිටි පාසලේ දරුවන්ට දිවා ආහාරය සපයන සැපයුම්කරුවන්ට සාධාරණ මිලකට ලබාදීමෙන් අනතුරුව ඉතිරිවන බිත්තර පමණක් පිටස්තර පාරිභෝගිකයින්ට අලෙවිකිරීමට පුළුවන.
+The remaining eggs can only be salad after they have paid lunch to the suppliers who provide lunch at the nearest school.
 
 ◼️
 
 [Data](articles/962a6add.json)
+
+[Extended Data](ext_articles/962a6add.ext.json)
 
 ---
 
@@ -256,6 +404,8 @@ Torque monkeys, along with wild boar, peacocks and elephants are considered as p
 
 [Data](articles/8d03ff2e.json)
 
+[Extended Data](ext_articles/8d03ff2e.ext.json)
+
 ---
 
 ### Sri Lanka’s Abans hopes to raise 2bn through debenture sale
@@ -273,6 +423,26 @@ Subject to obtaining all necessary regulatory and shareholder approvals, the com
 ...
 
 [Data](articles/a5fb784f.json)
+
+[Extended Data](ext_articles/a5fb784f.ext.json)
+
+---
+
+### மலசலகூட கட்டணம் ரூ.50 ஆக உயர்வு
+
+*2024-02-15 11:23:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலசலகூட-கட்டணம்-ரூ-50-ஆக-உயர்வு/175-333249) · `ta`
+
+பெஸ்டியன் மாவத்தையில் உள்ள பொது மலசலகூடத்தை பயன்படுத்துபவரிடம் அறவிடப்படும் கட்டணம் 50 ரூபாவாக அதிகரிக்கப்பட்டுள்ளதாக பயணிகள் தெரிவிக்கின்றனர்.
+
+இலங்கை புகையிரத திணைக்களத்திற்கு சொந்தமான காணியில் தேசிய போக்குவரத்து ஆணைக்குழுவினால் இந்த பொது மலசலகூடம் நிர்மாணிக்கப்பட்டுள்ளது.
+
+இது தொடர்பில் தேசிய போக்குவரத்து ஆணைக்குழுவின் செயற்பாட்டு பணிப்பாளர் தெரிவிக்கையில்:  ​​இது தொடர்பான பொது மலசலகூடம் அமைப்பு எமது ஆணைக்குழுவிற்கு சொந்தமானது. வெளி தரப்பினருடன் செய்து கொண்ட ஒப்பந்தத்தின் அடிப்படையில் பராமரிப்பு பணிகள் ஒப்படைக்கப்பட்டுள்ளது.
+
+பயணிகளிடம் இருந்து அவ்வப்போது வரும் புகார்களின் அடிப்படையில், விலைவாசி உயர்வு குறித்து ஆய்வு செய்து, உரிய நடவடிக்கை எடுத்துள்ளோம். இந்த விலையேற்றம் குறித்து எனக்கு தெரியாது, மேலும் இதுபற்றி கண்டறியும் பணியில் ஈடுபட்டுள்ளேன். என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/34f2969f.json)
 
 ---
 
@@ -296,6 +466,22 @@ He also said that the police officer who allegedly helped Harakatta escaped from
 
 ---
 
+### ’சட்டப்படி வேலை’ போராட்டத்தில் குதித்த சுங்கம்
+
+*2024-02-15 11:13:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டப்படி-வேலை-போராட்டத்தில்-குதித்த-சுங்கம்/175-333248) · `ta`
+
+சுங்கத் ஊழியர்களின் தொழிற்சங்க கூட்டமைப்பு 'சட்டப்படி வேலை' போராட்டத்தில் ஈடுபட முடிவு செய்துள்ளது.
+
+பல்வேறு கோரிக்கைகளை முன்வைத்து சுங்க ஊழியர்களின் தொழிற்சங்க ஒன்றியம் இந்த முடிவை எடுத்துள்ளது.
+
+இன்று காலை 9 மணி முதல் இந்த தொழிற்சங்க நடவடிக்கையை ஆரம்பிக்க தீர்மானித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/f81c0a2a.json)
+
+---
+
 ### Increasing divorce cases
 
 *2024-02-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176415) · `ta`
@@ -311,6 +497,22 @@ He added that this is considered a large sum for a small country like Sri Lanka.
 [Data](articles/ab88528a.json)
 
 [Extended Data](ext_articles/ab88528a.ext.json)
+
+---
+
+### நாடு கடத்தப்படவுள்ள 25 இலங்கையர்கள்
+
+*2024-02-15 11:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-கடத்தப்படவுள்ள-25-இலங்கையர்கள்/175-333246) · `ta`
+
+சட்டவிரோத நடவடிக்கைகளில் ஈடுபட்டதாக குற்றம் சுமத்தப்பட்டுள்ள 25 இலங்கையர்கள் உட்பட 186 வெளிநாட்டவர்களை நாடு கடத்துவதற்கு மாலைதீவு அரசாங்கம் தீர்மானித்துள்ளது.
+
+வீசா மீறல் மற்றும் போதைப்பொருள் குற்றங்களில் ஈடுபட்ட குழுவொன்று நாட்டிலிருந்து நாடு கடத்தப்பட்டுள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+25 இலங்கையர்கள், 83 பங்களாதேஷ் பிரஜைகள், 46 இந்திய பிரஜைகள் மற்றும் 08 நேபாள பிரஜைகள் நாடு கடத்தப்படவுள்ளனர்.
+
+◼️
+
+[Data](articles/e16d796a.json)
 
 ---
 
@@ -356,6 +558,8 @@ About 39 percent of the respondents expected moderate economic growth in 2024, o
 
 [Data](articles/cd1a7185.json)
 
+[Extended Data](ext_articles/cd1a7185.ext.json)
+
 ---
 
 ### Maldives deports 25 Sri Lankans over illegal activities
@@ -377,6 +581,24 @@ The Maldives’ homeland security minister Ali Ihusan said his office is working
 [Data](articles/b7fe4ad8.json)
 
 [Extended Data](ext_articles/b7fe4ad8.ext.json)
+
+---
+
+### 24 மணித்தியாலங்களில் 656 பேர் கைது
+
+*2024-02-15 11:03:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-656-பேர்-கைது/175-333244) · `ta`
+
+நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட யுக்திய நடவடிக்கையில், கடந்த 24 மணித்தியாலங்களில் 656 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 535 சந்தேக நபர்களும் குற்றப் பிரிவில் குறிப்பிடப்பட்ட பட்டியலில் இருந்த 121 சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 535 சந்தேக நபர்களில் 16 சந்தேக நபர்கள் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பணியகம் மற்றும் பொலிஸ் விசேட பணியகம் ஆகியவற்றின் பட்டியலில் உள்ளனர்.
+
+இதேவேளை, 241 கிராம் ஹெரோயின், 139 கிராம் ஐஸ், 1 கிலோகிராம் கஞ்சா மற்றும் 1,521 மாத்திரைகள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/04130373.json)
 
 ---
 
@@ -592,6 +814,24 @@ It is said that the stock of narcotics was arrested.
 
 ---
 
+### ලක්ෂ පනහක මත්ද්‍රව්‍ය සමඟ පුද්ගලයෙකු අත්අඩංගුවට
+
+*2024-02-15 10:20:03* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-පනහක-මත්ද්‍රව්‍ය-සමඟ-පුද්ගලයෙකු-අත්අඩංගුවට/11-408096) · `si`
+
+මෝදර අලුත් මාවත ප්‍රදේශයේදී සිදුකළ හදිසි මෙහෙයුමක දී රුපියල් ලක්ෂ පනහකට අධික වටිනාකමින් යුත් මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගත් බව විශේෂ කාර්ය කාර්යය බලකාය පවසයි.
+
+වැඩ බලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මත ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ විශේෂ කාර්ය බළකායේ බුද්ධි කොට්ඨාශයට ලද තොරතුරකට අනුව මෙම මෙහෙයුම දියත් කර තිබුණි.
+
+එහිදී විශේෂ කාර්යය බලකායේ  බුද්ධි කොට්ඨාසයේ උප පොලිස් පරීක්ෂක ගුණසෝම මහතා ඇතුළු නිලධාරී කණ්ඩායමක් මෝදර අලුත් මාවත අසල රැඳී සිටි පුද්ගලයකු පරීක්ෂා කිරීමේදී ඔහු සන්තකයේ තිබී (ඩයිසැටයිල්මෝර්ෆින්) නොහොත් හෙරොයින් ග්‍රෑම් 112 මිලිග්‍රෑම් 690 සහ (මෙත්ඇම්පිටමින්) නොහොත් අයිස් ග්‍රෑම් 25 මිලි ග්‍රෑම් 700 භාරයට ගත් බව පැවසේ.
+
+ඒ අනුව සැකකරු සහ මත්ද්‍රව්‍ය තොගය අත්අඩංගුවට ගෙන ඔහු පැමිණි බවට සැක කෙරෙන යාබද අලුත් මාවතේ නවතා තිබූ සුඛෝපභෝගී ජීප් රථය පරීක්ෂා කිරීමේදී එහි කැබිහෝල්හී සඟවා තිබූ (මෙත්ඇම්පිටමින්) නොහොත් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 25 මිලිග්‍රෑම් 850, ඒවා කිර මැනීමට භාවිතා කරන විද්‍යුත් තරාදියක් හා රුපියල් 170,000 මුදලක් පොලිස් භාරයට ගෙන තිබේ.
+
+...
+
+[Data](articles/e34aa566.json)
+
+---
+
 ### 19 Divisional Secretariat Divisions of Kandy District at a cost of Rs 1,900 million
 
 *2024-02-15 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176412) · `ta`
@@ -610,19 +850,21 @@ At the Kandy District Coordinating Committee meeting held at the Kandy District 
 
 ---
 
-### බදුල්ල වායුගෝලයේ ගැටලුවක්
+### The Badulla atmosphere is a problem
 
 *2024-02-15 10:05:05* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-වායුගෝලයේ-ගැටලුවක්/11-408095) · `si`
 
-දිවයින තුලට බාහිරින්  හමාඑන සුළං සමඟ කුඩා ප්‍රමාණයේ දූවිලි අංශු (මීදුම වැනි) මේ දිනවල බදුල්ල දිස්ත්‍රික්කය පුරා වායූගෝලයේ ව්‍යාප්ත වී ඇති හෙයින් ජනතාවගේ සෞඛ්‍ය  තත්ත්වය ට එය  බලපාන හෙයින් ජනතාවට ප්‍රවේශමෙන් සිටින්නැයි ආපදා කළමනාකරණ මධ්‍යස්ථානයේ බදුල්ල දිස්ත්‍රික් සහකාර අධ්‍යක්ෂ ඊ.එම්.එල් උදයකුමාර මහතා අද (15) පැවැසීය.
+Small size dust particles (such as the fog) is covered with the health conditions of the Badulla district.15) said.
 
-ඉකුත් දින දෙක තුල හා අද (15) දින බදුල්ල දිස්ත්‍රික්කයේ වායු ගෝලයේ දූවිලි අංශු සාන්ද්‍රනය පැවතිය යුතු මට්ටම ට වඩා (Air quality index) වැඩි ප්‍රමාණයක් දිස්ත්‍රික්කය පුරා පැතිර පවතින බවත් , එය ජනතාවගේ සාමාන්‍ය  සෞඛ්‍ය තත්වයට බලපෑම් කරන බවද හෙතෙම කීය .
+He said that more than the level of the Kandy-Dust particle concentration of the oarly in Badulla District today (15), he said.
 
-විශේෂයෙන් ශ්වසන රෝග, ශ්වසන ආබාධ ඇති අය මෙන්ම වයෝවෘද්ධ , වැඩිහිටියන් මින් ප්‍රවේශම් විය යුතු බවත් පවසන උදයකුමාර මහතා හුස්ම ගැනීමේ අපහසුතා ඇති විය හැකි හෙයින් මුඛ ආවරණ පැලදීම , විවෘත පරිසරය තුළ හැසිරීමෙන් වැලකී සිටීම තුලින් මේ තත්වයෙන්  මිදීමට හැකි බවද සදහන් කළේය .
+It is said that the elders of breathing, the elderly, and the elderly, and the elders should be cautious, and the oral covering is possible to get rid of this situation by abstaining in the open environment.
 
 ◼️
 
 [Data](articles/7fd3e543.json)
+
+[Extended Data](ext_articles/7fd3e543.ext.json)
 
 ---
 
@@ -667,6 +909,8 @@ The Colombo stock market opened up; the All Share Price Index was up 0.35 percen
 ◼️
 
 [Data](articles/3b123a99.json)
+
+[Extended Data](ext_articles/3b123a99.ext.json)
 
 ---
 
@@ -737,6 +981,8 @@ Sri Lanka’s tourism sector is gearing up for a major transformation, as the au
 ...
 
 [Data](articles/7bf75f42.json)
+
+[Extended Data](ext_articles/7bf75f42.ext.json)
 
 ---
 
@@ -1596,6 +1842,22 @@ The 35 -year -old man, a 35 -year -old man from Valappanai, was found guilty of 
 
 ---
 
+### 3மாணவிகள் துஷ்பிரயோகம்;  ஆசிரியர்கள் இருவர், ஓடோ சாரதிக்கு சிறை
+
+*2024-02-15 03:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/3மாணவிகள்-துஷ்பிரயோகம்-ஆசிரியர்கள்-இருவர்-ஓடோ-சாரதிக்கு-சிறை/76-333231) · `ta`
+
+வெவ்வேறு பாடசாலைகளைச் சேர்ந்த மூன்று மாணவிகளை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினர் என்றக் குற்றச்சாட்டின் பேரில், கைது செய்யப்பட்ட இரண்டு ஆசிரியர்கள், ஓட்டோ சாரதி ஆகிய மூவரையும், குற்றவாளிகளாக இனங்கண்ட நுவரெலியா மேல் நீதிமன்றம் அந்த மூவருக்கும் மொத்தமாக 37 வருடங்கள் கடூழிய சிறைத்தண்டனை விதித்து தீர்ப்பளித்துள்ளது.
+
+இதில், இரண்டு சம்பவங்களுக்கான தீர்ப்பு, நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரியவால் புதன்கிழமை (14) வழங்கப்பட்டது மற்றுமொரு சம்பவத்துக்கான தீர்ப்பு, ஜனவரி 31ஆம் திகதி, , நுவரெலியா மேல் நீதிமன்றத்தால் வழங்கப்பட்டுள்ளது.
+
+பாடசாலை மாணவி ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினார் என்ற குற்றச்சாட்டப்பட்டிருந்த கொட்டக்கலை பகுதியை சேர்ந்த (43) வயதுடைய பாடசாலை ஆசிரியரை 2 குற்றச்சாட்டுகளில் குற்றவாளியாக இனங்கண்ட நீதிமன்றம் அவருக்கு 17 வருட கடூழிய சிறை தண்டனை விதித்துள்ளது. முதலாவது குற்றச்சாட்டில் இருந்து அவர் விடுதலை செய்யப்பட்டார்.
+
+...
+
+[Data](articles/bcf1700f.json)
+
+---
+
 ### Two teachers, Odo driver
 
 *2024-02-15 03:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்கள்-இருவர்-ஓடோ-சாரதிக்கு-சிறை/175-333231) · `ta`
@@ -1680,6 +1942,24 @@ It is noteworthy that employees of 72 health trade unions have been involved in 
 
 ---
 
+### 1,600 போதை குளிசைகளுடன் வைத்தியர் கைது
+
+*2024-02-15 02:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/1-600-போதை-குளிசைகளுடன்-வைத்தியர்-கைது/76-333228) · `ta`
+
+ஆயிரத்து 600 போதை மாத்திரைகளுடன் வைத்தியர் ஒருவர் கம்பளை, ஏத்கால பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+பேராதனை வைத்தியசாலையில் சேவையாற்றும் 49 வயதான வைத்தியர் ஒருவரே, செவ்வாய்க்கிழமை (12) இரவு 11 மணியளவில் இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+பேராதனை பகுதியில் இருந்து, கம்பளை ,ஜயமாலபுர பகுதிக்கு போதை மாத்திரைகளை எடுத்துவந்த வேளையிலேயே, ஏத்கால பொலிஸ் நிலைய பொறுப்பதிகாரி தம்மிக்க கெக்குலந்தர தலைமையிலான பொலிஸ் குழுவினரால் குறித்த வைத்தியர் கைது செய்யப்பட்டுள்ளார்.
+
+அவரிடமிருந்த போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளன, வைத்தியருக்குரிய அடையாள சின்னத்துடன் அவர் பயணித்த வாகனமும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது. விசாரணைகளின் பின்னர் அவர் நீதிமன்றத்தில் முற்படுத்தப்படவுள்ளார் என தெரிவித்த கம்பளை ஏத்கால பொலிஸார், மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/76b33492.json)
+
+---
+
 ### Doctors arrested with 1,600 drugs
 
 *2024-02-15 02:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-600-போதை-குளிசைகளுடன்-வைத்தியர்-கைது/175-333228) · `ta`
@@ -1757,287 +2037,5 @@ Digital transformation, often seen as the domain of ICT professionals, frequentl
 [Data](articles/14493030.json)
 
 [Extended Data](ext_articles/14493030.ext.json)
-
----
-
-### Kanchana calls on JICA for continued assistance to develop sector, including CEB reform process
-
-*2024-02-15 02:35:48* · [`dailyftlk`](https://www.ft.lk/business/Kanchana-calls-on-JICA-for-continued-assistance-to-develop-sector-including-CEB-reform-process/34-758509) · `en`
-
-Expresses gratitude for constant support extended in numerous ways to boost sector
-
-Power and Energy Minister Kanchana Wijesekera yesterday announced that he requested the Japan International Cooperation Agency (JICA) for continued assistance to develop the industry including the reform process of Ceylon Electricity Board (CEB).
-
-Taking to ‘X’ he made this announcement following a meeting held with the JICA President Tanaka Akihito and other senior officials of the institution at the Ministry premises yesterday.
-
-“I thanked the JICA President and the country representatives for their assistance and requested for continued assistance for reforms, energy efficiency programs, infrastructure development and integration of renewable energy,” he added.
-
-He also noted that JICA has assisted vital infrastructure development of the electricity sector, energy efficiency programs with grants, concessionary finance facilities and technical assistance.
-
-...
-
-[Data](articles/011c4ea3.json)
-
-[Extended Data](ext_articles/011c4ea3.ext.json)
-
----
-
-### Ocean Lanka wins Raw Material Supplier Cost Efficiency Award setting new benchmark in Sri Lanka
-
-*2024-02-15 02:31:57* · [`dailyftlk`](https://www.ft.lk/business/Ocean-Lanka-wins-Raw-Material-Supplier-Cost-Efficiency-Award-setting-new-benchmark-in-Sri-Lanka/34-758508) · `en`
-
-From left: Victoria’s Secret Materials VP Frances Bau, Victoria’s Secret and PINK President Greg Unis, Ocean Lanka Managing Director Dr.Austin Au, Sales and Marketing Senior Manager Sudath Fernando, Sales and Marketing Assistant General Manager Ruwan Mudalpath, Victoria’s Secret Chief Supply Chain Officer Chris Callieri
-
-Ocean Lanka Ltd., Sri Lanka’s leading weft-knitted fabric manufacturer, celebrated a momentous occasion at the recent Victoria’s Secret and Co Partner Summit 2024 in Hong Kong, becoming the first fabric mill in Sri Lanka to be recognised with the prestigious Raw Material Supplier Cost Efficiency Award. This distinguished honour underscores Ocean Lanka’s unwavering commitment to cost-effectiveness and operational excellence, solidifying its position as a trusted partner for global brands.
-
-...
-
-[Data](articles/4b91349b.json)
-
-[Extended Data](ext_articles/4b91349b.ext.json)
-
----
-
-### Strong sector performances propel Sunshine Holdings’ earnings by 44.2% to Rs. 5.5 b
-
-*2024-02-15 01:50:39* · [`dailyftlk`](https://www.ft.lk/business/Strong-sector-performances-propel-Sunshine-Holdings-earnings-by-44-2-to-Rs-5-5-b/34-758499) · `en`
-
-Diversified Sri Lankan conglomerate Sunshine Holdings PLC (CSE: SUN) has recorded a consolidated revenue of Rs. 42.4 billion during the first nine months of the current financial year (9MFY24). Amidst the backdrop of a moderately stable macroeconomic conditions, the Group has reported solid top-line and bottom-line growth of 10% and 44% YoY with Profit after tax (PAT) increased to Rs. 5.5 billion as a result of business growth and lower finance costs during the period.
-
-The Group’s healthcare sector emerged as the largest contributor to Sunshine’s top-line, accounting for 50% of total revenue, with consumer at 35%, and agribusiness 15% of the total revenue.
-
-...
-
-[Data](articles/8ed1b92f.json)
-
-[Extended Data](ext_articles/8ed1b92f.ext.json)
-
----
-
-### Bingiriya Investment Zone ready for Japanese investors: Dilum
-
-*2024-02-15 01:45:43* · [`dailyftlk`](https://www.ft.lk/business/Bingiriya-Investment-Zone-ready-for-Japanese-investors-Dilum/34-758498) · `en`
-
-State Minister for Investment Promotion Dilum Amunugama recently instructed the officials of the Sri Lanka Board of Investment to facilitate and execute the second and third phases of the Bingiriya Investment Zone as soon as possible, targeting high-net-worth Japanese investors.
-
-After the President visited Japan, a large number of Japanese investors were looking forward to investing in this country. Minister Amunugama also informed the officials to provide the necessary facilities to start their projects as soon as they arrive in Sri Lanka.
-
-The Minister conducted his routine progress review meeting held at Bingiriya Export Processing Zone recently, Ministry of Investment Promotion Secretary M. M. Naimudeen, Sri Lanka Board of Investment Director-General Renuka Weerakoon, Divisional Secretary, officials representing institutions such as highways, electricity, water supply participated in this meeting.
-
-...
-
-[Data](articles/1ed856e9.json)
-
-[Extended Data](ext_articles/1ed856e9.ext.json)
-
----
-
-### Dialog Axiata unveils smart home devices powered by Dialog Smart Home App
-
-*2024-02-15 01:45:13* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Axiata-unveils-smart-home-devices-powered-by-Dialog-Smart-Home-App/34-758497) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, unveiled a holistic Smart Home App, revolutionizing smart living and empowering users to effortlessly control their entire suite of Dialog Smart Home devices with a single platform, regardless of their location.
-
-The Dialog Smart Home App serves as a centralised platform, allowing users to effortlessly manage and monitor a range of smart devices from the categories of Surveillance, Automation, and Connectivity. With a diverse array of products, including the Smart Indoor Cameras, Smart Outdoor Cameras, Wi-Fi Mesh (featuring WiFi 6 connectivity for an enhanced experience), Smart Wall Plugs, Smart Wall Sockets, Smart Switches, Smart Extension Cords, and Tedi Alexa, the app creates a truly interconnected home ecosystem.
-
-...
-
-[Data](articles/54802884.json)
-
-[Extended Data](ext_articles/54802884.ext.json)
-
----
-
-### We will soon reduce the increased tax - United National Party
-
-*2024-02-15 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176408) · `ta`
-
-The government will take steps to reduce the increased number of people in a few months to provide relief to the people. Former United National Party (UNP) parliamentarian Ashu Marasinghe said that the challenge of the people is whether to change the current regime or to make a change.
-
-He was speaking at a press conference held at the United National Party headquarters Sirikotha on Wednesday (14).
-
-It is inevitable to make some strict decisions when steps to rebuild the country's economy. This has affected all the people of the country somehow. We are realizing that there is a huge crisis for people economically. The government is gradually taking action to solve these problems.
-
-...
-
-[Data](articles/bcb5cda3.json)
-
-[Extended Data](ext_articles/bcb5cda3.ext.json)
-
----
-
-### Poisoning in milk: 7 others
-
-*2024-02-15 01:41:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலில்-விஷம்-7-பேருக்கும்-விளக்கமறியல்/175-333227) · `ta`
-
-Seven persons arrested on suspicion of giving poisonous milk sides of the two Sandesanapas detained in the Colombo Street Police Station cage have been detained until the 27th of this month.
-
-Seven persons arrested in Kalaha were present in the presence of the Colombo Additional Magistrate on Wednesday (14). Meanwhile, Additional Magistrate Tharanga Mahawatta has ordered the above.
-
-Seven people have been arrested by a group of police in Colombo, Ambatti Street, in a house in Galaha, Telltota Greedwali estate.Of the seven arrested, there are five men and women.
-
-They have been arrested in connection with the killing of a man in the Jindupitiya area in Colombo.
-
-Cyanite poison was found in the milk packets taken to the cage at the police station. Subsequent investigations have also been caught by CCTV footage of the suspect and the purchase of milk packets.
-
-...
-
-[Data](articles/89be9c09.json)
-
-[Extended Data](ext_articles/89be9c09.ext.json)
-
----
-
-### If the plantation people are strengthened as small tea plantation owners, Samurdhi Aswesuma will not be required - Sajith Premadasa
-
-*2024-02-15 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176407) · `ta`
-
-Make the workers in the gardens, make the unprecedented state barren lands into small tea plantations and make today's worker's entrepreneurship program tomorrow.. The Opposition Leader said that this is more than the industry and that the land can be built and the tea garden on this land can be built and earned a better income.
-
-It is said that 70 percent of the country's tea production is supplied by small tea plantation owners holding about 40 percent of the land.. Large -sized tea factories with over 60 percent of land contributes 30 per cent to tea production. The Opposition Leader said that promoting small tea plantations would increase tea production and thereafter there would be no need for projects like Samurdhi and Aswesuma.
-
-They will be given the opportunity to produce tea in their own tea estate and prepare for exports. The opposition leader added that the service will be carried out with a vision and program.
-
-...
-
-[Data](articles/bef5b471.json)
-
-[Extended Data](ext_articles/bef5b471.ext.json)
-
----
-
-### Postponing polls would further jeopardise democracy - Bakeer Markar
-
-*2024-02-15 01:18:41* · [`dailyftlk`](https://www.ft.lk/news/Postponing-polls-would-further-jeopardise-democracy-Bakeer-Markar/56-758493) · `en`
-
-Says country is currently facing crises in democracy, foreign and economic policy.
-
-Stresses SL must exercise caution as external forces are attempting to exploit country’s instability and vulnerability
-
-Notes SL must implement policies of successful countries and stay clear of traditional politics and failed propaganda
-
-Admits to presence of differing opinions among members within SJB
-
-Samagi Jana Balawegaya (SJB) MP Imathiaz Bakeer Markar yesterday said the country is currently facing crises in democracy, and foreign and economic policy. The MP expressed concern that if the Government opts to postpone elections, it would further jeopardise the country’s democracy and place it in a precarious position.
-
-The MP made these remarks while speaking to the media in Kandy yesterday.
-
-...
-
-[Data](articles/61b0dbcb.json)
-
-[Extended Data](ext_articles/61b0dbcb.ext.json)
-
----
-
-### Sabry convenes inaugural meeting of Inter-Ministerial Standing Committee on Human Rights
-
-*2024-02-15 01:15:54* · [`dailyftlk`](https://www.ft.lk/news/Sabry-convenes-inaugural-meeting-of-Inter-Ministerial-Standing-Committee-on-Human-Rights/56-758492) · `en`
-
-Minister of Foreign Affairs Ali Sabry chaired the inaugural meeting of the Inter-Ministerial Standing Committee on Human Rights at the Foreign Ministry on Tuesday, 13 February 2024, with the participation of Foreign Secretary Aruni Wijewardane and Government officials representing 16-line Ministries and agencies.
-
-Foreign Minister Sabry highlighted that the establishment of the Inter-Ministerial Standing Committee on Human Right demonstrates the commitment of the Government of Sri Lanka (GoSL) to upholding human rights, fostering reconciliation, and ensuring the fulfilment of its voluntary international obligations.
-
-Minister Sabry further emphasised that Sri Lanka will continue to engage constructively with the United Nations and remains committed to pursuing tangible progress on reconciliation and human rights through domestic institutions while preserving its sovereignty.
-
-...
-
-[Data](articles/d69b794f.json)
-
-[Extended Data](ext_articles/d69b794f.ext.json)
-
----
-
-### The price of a fresh red rose reduced to Rs.300 on Valentines day
-
-*2024-02-15 01:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/The-price-of-a-fresh-red-rose-reduced-to-Rs-300-on-Valentines-day/108-277027) · `en`
-
-Colombo, Feb 14 (Daily Mirror) - Florists from various areas from the country yesterday claimed that they had received more customers to buy roses for Valentine's Day and they used to receive more income.
-
-The shop owners claimed that the prices of fresh flowers have come down in comparison to the past year. Last year, the price of a single red rose was Rs. 600.
-
-Meanwhile, florists at Ven. Baddegama Wimalawansa Mawatha in Colombo, claimed that a single fresh red rose cost Rs.300.
-
-A single red rose wrapped costs Rs.350, while a bouquet of red roses costs Rs. 6,000. Certain bouquets with several roses cost more than Rs. 2,000," the sellers said.
-
-Flower sellers claimed that they had a brisk sales during Valentine's Day and that more people visited their shops.
-
-◼️
-
-[Data](articles/faa9c641.json)
-
-[Extended Data](ext_articles/faa9c641.ext.json)
-
----
-
-### WNPS monthly lecture today on solutions for wetland pollution and abuse
-
-*2024-02-15 01:13:07* · [`dailyftlk`](https://www.ft.lk/news/WNPS-monthly-lecture-today-on-solutions-for-wetland-pollution-and-abuse/56-758491) · `en`
-
-The Wildlife and Nature Protection Society (WNPS) will hold its monthly lecture titled “Solutions for wetland pollution and abuse” today (15 February) at 6 p.m. at the Cinema Lounge, BMICH.
-
-It will be delivered by Prof. J.M.P.K. Jayasinghe an accomplished biologist, holding a PhD in coastal aquaculture from the University of Stirling, UK.
-
-With 19 years at Sri Lanka’s National Aquatic Resources Agency, he rose to Director and Head roles. Since 2002, he’s been Chair Professor at Wayamba University, contributing as Chair, Senior Professor, and Dean. As an Emeritus Professor, he focuses on aquaculture and fisheries, emphasising curriculum development, research, and program implementation. With 38 publications, 300 abstracts, six books, and 12 book chapters, his work spans health and environmental management in shrimp culture, fisheries impacts, and combating climate change in aquaculture. A key figure in regional programs, Prof. Jayasinghe continues to shape fisheries education in Sri Lanka.
-
-◼️
-
-[Data](articles/43220d51.json)
-
-[Extended Data](ext_articles/43220d51.ext.json)
-
----
-
-### Sri Lanka 3rd place in BIMSTEC Water Sports Competition
-
-*2024-02-15 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176406) · `ta`
-
-New Delhi, Doctor Siyama Prasad Mukherjee was ranked 3rd in the recently held in the BIMSTEC Water Sports Competition held at the Sports Sport.
-
-There were three types of water sports competitions - swimming, diving and voter polo, and 75 competitors from Sri Lanka participated.
-
-Sri Lanka won 3rd place with a silver medal and 13 bronze medals in the upcoming competitions. Sri Lanka received 9 medals in swimming competitions and 2 medals in diving and voter polo.
-
-India became the overall champion with 19 gold medals and Thailand finished 2nd.
-
-Of the 75 Sri Lankans who participated in the competition, Kithmi Marama, a Bishop College, won the silver medal and won the silver medal.
-
-Kithmi finished 2nd in the women's 1m Spring Port Diving Tournament with 215.15 points.
-
-Visaka student Vinuthi Khankanamke won the Wenkalab medal with 176.15 points in the women's 3m Spring Port Diving Tournament.
-
-...
-
-[Data](articles/5feaa84e.json)
-
-[Extended Data](ext_articles/5feaa84e.ext.json)
-
----
-
-### Requirement for registration of all residents above 18 years with Commissioner General of Inland Revenue
-
-*2024-02-15 01:06:06* · [`dailyftlk`](https://www.ft.lk/columns/Requirement-for-registration-of-all-residents-above-18-years-with-Commissioner-General-of-Inland-Revenue/4-758490) · `en`
-
-The Government is committed to achieving revenue mobilisation efforts in 2024 beyond by introducing further reforms, with the aim of raising the tax-to-GDP ratio to at least 14% by 2025. Sri Lanka has already shown significant commitment with the implementation of substantial tax policy enhancement in 2022 and 2023. Considering the progress of reforming the tax policy, it is necessary to further increase the tax revenue and tax administration measures will play a major role in achieving the desired.
-
-...
-
-[Data](articles/449294d6.json)
-
-[Extended Data](ext_articles/449294d6.ext.json)
-
----
-
-### Importance of renewable energy for future energy security and economic growth
-
-*2024-02-15 00:05:40* · [`dailyftlk`](https://www.ft.lk/columns/Importance-of-renewable-energy-for-future-energy-security-and-economic-growth/4-758488) · `en`
-
-It is time Sri Lankans considered in depth, the impact of energy on their day to day life and the national economy, as well as the sources of such energy. Leaving such matters entirely to the officials and the politicians to make all the decisions would only cause them to lament later on the hardships passed on to the consumers due to poor decisions, lacking in wisdom or vision for the future. It is increasingly evident that rampant corruption and deal making are in place as per comments made even by the Supreme Court from time to time as well as the findings of the Auditor General. The fact that no pressure is applied to follow up on these allegations and take action to bring the culprits to book, underscores both the lack of understanding and the apathy of the general public, that hitherto seem to believe they have no role to play.
-
-...
-
-[Data](articles/692469dd.json)
-
-[Extended Data](ext_articles/692469dd.ext.json)
 
 ---

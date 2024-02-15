@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 11:17:19**
+As of **2024-02-15 11:33:04**
 
 ## Newspaper Stats
 
-*Scraped **7,149** Articles*
+*Scraped **7,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 371
 islandlk | 376
 dailyftlk | 389
-adalk | 605
-tamilmirrorlk | 873
-adaderanalk | 876
-virakesarilk | 915
+adalk | 608
+tamilmirrorlk | 875
+adaderanalk | 878
+virakesarilk | 922
 adaderanasinhalalk | 1,010
 dailymirrorlk | 1,045
 
@@ -26,11 +26,211 @@ dailymirrorlk | 1,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,148 (100.0%) of 7,149 articles have been extended.
+7,149 (99.8%) of 7,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### தொடரும் யுக்திய நடவடிக்கை : 656 பேர்  24 மணி நேரத்துக்குள் கைது!
+
+*2024-02-15 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176423) · `ta`
+
+நாடளாவிய ரீதியில்  இன்று (15) அதிகாலை முடிவடைந்த 24 மணித்தியாலங்களில் மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கைகளின்போது  656 பேர் சந்தேகத்தில்  கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 535 சந்தேக நபர்களும் குற்றப் பிரிவில் குறிப்பிடப்பட்ட பட்டியலில் காணப்படும்  121 சந்தேக நபர்களும்  கைது செய்யப்பட்டுள்ளனர்.
+
+போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 535 சந்தேக நபர்களில் 16 பேர் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பணியகம் மற்றும் பொலிஸ் விசேட பணியகம் ஆகியவற்றின் பட்டியலில் உள்ளனர்.
+
+சந்தேகத்தில் கைது செய்யபட்டவர்களில் 121 பேரில்  போதைப்பொருள் குற்றங்கள் தொடர்பான திறந்த பிடியாணை பிறப்பிக்கப்பட்ட  6 பேரும் அடங்குவதாகத் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/97bf341b.json)
+
+---
+
+### Maldives deports 25 Sri Lankans over illegal activities
+
+*2024-02-15 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97287/maldives-deports-25-sri-lankans-over-illegal-activities) · `en`
+
+The Government of Maldives has deported 186 foreign nationals including 25 Sri Lankans accusing them of committing crimes such as visa violations and drug offences.
+
+Among the deportees, the highest number of individuals were from Bangladesh (83), followed by India (43), Sri Lanka (25) and Nepal (08).
+
+However, the date of the deportation of these foreigners is still unknown, as per sources.
+
+The news of the deportation comes amid diplomatic an ongoing India-Maldives diplomatic row, after the Maldivian home ministry said they have undertaken efforts to shut down businesses operating illegally in the country with earnings deposited to bank accounts held by foreigners.
+
+The Maldives’ homeland security minister Ali Ihusan said his office is working with the finance ministry operating against ‘illegal businesses’ operating under various names. He said businesses operated by a foreigner instead of the registered owner also comes under the ambit of the so-called ‘illegal businesses’.
+
+...
+
+[Data](articles/b7fe4ad8.json)
+
+---
+
+### கேகாலையில் "டோக்" குரங்குகளை கட்டுப்படுத்த  ஏர் ரைபிள் துப்பாக்கி
+
+*2024-02-15 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176414) · `ta`
+
+கேகாலை மாவட்டத்தில் டோக் இன குரங்குகளை கட்டுப்படுத்தும் நோக்கில் விவசாயிகளுக்கு உயர்தர ஏர் ரைபிள் துப்பாக்கிகளை கொள்வனவு செய்வதற்கு நிதி ஒதுக்கப்படும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்துள்ளார்.
+
+நாட்டில் குறிப்பாக கேகாலை மாவட்டத்தில் குரங்குகளின் அச்சுறுத்தல் அதிகரித்துள்ளது. இதன் காரணமாக பாடசாலை சிறுவர்கள் கூட உணவை கைகளில் வைத்திருக்க முடியாத நிலையேற்பட்டுள்ளது.
+
+குரங்குகளின் எண்ணிக்கையை கட்டுப்படுத்த கருத்தடை அறுவை சிகிச்சைகளை நடைமுறைப்படுத்துவது தொடர்பாக கால்நடை அதிகாரிகளுடன் பலமுறை கலந்துரையாடலில் ஈடுபட்ட நிலையில் பிரச்சினைக்குத் தீர்வுகாண நான் தனிப்பட்ட முறையில் தலையிட்டுள்ளேன். எவ்வாறான பாதிப்புகள் ஏற்பட்டாலும் எனது தீர்மானத்தில் மாற்றம் இல்லை.
+
+கேகாலை மாவட்டத்தில் உள்ள  600 விவசாய அமைப்புகளுக்கு ஏர் ரைபிள் துப்பாக்கிகளை வழங்கவுள்ளேன். டோக் குரங்குகளின் எண்ணிக்கையைக் கட்டுப்படுத்த உடனடியாக நடவடிக்கை எடுக்க இந்த அமைப்புகளுக்கு அதிகாரம் அளிப்பதையே இந்த முயற்சியின் நோக்கமாகக் கொண்டுள்ளது என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e6fbec0b.json)
+
+---
+
+### இரண்டாம் கட்ட விண்ணப்பம் இன்று முதல்
+
+*2024-02-15 10:57:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டாம்-கட்ட-விண்ணப்பம்-இன்று-முதல்/175-333242) · `ta`
+
+அஸ்​வெசும இரண்டாம் கட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் நடவடிக்கைகள் வியாழக்கிழமை (15) முதல் ஆரம்பிக்கப்படும் என நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
+
+ஒரு மாத காலத்திற்கு அந்த விண்ணப்பங்களை ஏற்றுக் கொள்வதற்கு எதிர்பார்ப்பதாக இராஜாங்க அமைச்சர் குறிப்பிட்டுள்ளார்.
+
+இரண்டாம் கட்டத்தின் கீழ் சுமார் 4 இலட்சம் குடும்பங்களுக்கு நிவாரணம் வழங்கப்படவுள்ளதாக நிதி இராஜாங்க அமைச்சர் தெரிவிக்கையில் , “விண்ணப்பங்களை விண்ணப்பிக்க விரும்பும் அனைவரும் ஒன்லைன் முறையின் மூலம் விண்ணப்பிக்கலாம். மேலதிகமாக, பிரதேச செயலகங்களில் உள்ள சிறப்பு பிரிவுகளுக்கும் வழங்கலாம்.
+
+ஒரு மாதத்திற்கு விண்ணப்பங்களை கோருவோம். முதல் சுற்றில், 20 லட்சம் விண்ணப்பங்களுக்கு அஸ்வெசும கொடுப்பனவு வழங்கப்படும். இரண்டாம் சுற்றில் அதனை 24 லட்சம் வரை அதிகரிக்க எதிர்பார்க்கிறோம். அவர்களுக்கு ஜூலை மாதம் தேவையான நலத்திட்ட உதவிகள் வழங்கப்படும் என எதிர்பார்க்கிறோம். மொத்தத்தில், இந்த ஆண்டு நலத்திட்டங்களுக்கு அரசாங்கம் 205 பில்லியன் ரூபாய் செலவழிக்கும் என்று எதிர்பார்க்கப்படுகிறது” என தெரிவித்தார்.
+
+◼️
+
+[Data](articles/06ba892c.json)
+
+---
+
+### Phase 1 of Anuradhapura North Water Supply project declared open
+
+*2024-02-15 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97286/phase-1-of-anuradhapura-north-water-supply-project-inaugurated) · `en`
+
+The initial stage of the Anuradhapura North Water Supply project, aimed at delivering clean drinking water to the local population, was declared open on Thursday morning (Feb.15).
+
+President Ranil Wickremesinghe and the President of Japan International Cooperation Agency (JICA), Dr. Tanaka Akihito graced the event, at the invitation of Minister Jeevan Thondaman.
+
+JICA provided funding to construct water supply facilities in Anuradhapura North where the people depend on unsafe ground water which causes dental fluorosis.
+
+This water supply project is expected to contribute to improving living standards, hygienic status and health conditions in the area.
+
+◼️
+
+[Data](articles/7f952e9c.json)
+
+---
+
+### சட்டவிரோத நடவடிக்கைகளில் ஈடுபட்ட 25 இலங்கையர்களை நாடு கடத்தும் மாலைதீவு!
+
+*2024-02-15 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176421) · `ta`
+
+சட்டவிரோத நடவடிக்கைகளில் ஈடுபட்டதாகக் குற்றம் சுமத்தப்பட்டுள்ள 25 இலங்கையர்கள் உட்பட 186 வெளிநாட்டவர்களை நாடு கடத்துவதற்கு மாலைதீவு அரசாங்கம் தீர்மானித்துள்ளது.
+
+வீசா மீறல் மற்றும் போதைப்பொருள் குற்றங்களில் ஈடுபட்ட குழுவொன்றே  நாடு கடத்தப்பட்டுள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+25 இலங்கையர்களுக்கு மேலதிகமாக, 83 பங்களாதேஷ் பிரஜைகள், 46 இந்திய பிரஜைகள் மற்றும் 8 நேபாள பிரஜைகள் நாடு கடத்தப்படவுள்ளவர்களில் அடங்குவர்.
+
+எவ்வாறாயினும், குறித்த வெளிநாட்டினரை நாடு கடத்துவதற்கான திகதி இன்னும் அறிவிக்கப்படவில்லை எனத் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/55d7af22.json)
+
+---
+
+### புறக்கோட்டை பஸ்ரியன் மாவத்தை  கழிப்பறைக் கட்டணம் அதிகரிப்பு!
+
+*2024-02-15 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176419) · `ta`
+
+கொழும்பு புறக்கோட்டை பஸ்ரியன்  மாவத்தை  தனியார் பஸ் நிலையத்தில்  உள்ள கழிவறைகளுக்கான   கட்டணம் ரூபா 50 ஆக அதிகரிக்கப்பட்டுள்ளது.
+
+முன்பு இந்த பொதுக் கழிப்பறையில் சிறுநீர் கழித்தல் உள்ளிட்ட உடல் தேவைகளை பூர்த்தி செய்ய ஒரு நபருக்கு 40 ரூபா கட்டணம் வசூலிக்கப்பட்டது.
+
+கடந்த ஜனவரி மாதம் தேசிய போக்குவரத்து ஆணைக்குழுவுடன் கைச்சாத்திடப்பட்ட உடன்படிக்கையின் பிரகாரம் பொதுக் கழிவறையின் கட்டணம் அதிகரிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/50454a7d.json)
+
+---
+
+### இலங்கைக்கு வெளியிலிருந்து வீசும் காற்றின் தூசித் துகள்கள் பதுளை மாவட்டத்தை சூழ்ந்தது : சுகாதாரம் பாதிக்கப்படலாம் என எச்சரிக்கை!
+
+*2024-02-15 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176418) · `ta`
+
+பதுளை மாவட்டத்தில் வளிமண்டலத்தில் வழமைக்கு மாறாக  தூசித் துகள்களின் செறிவு அதிகரித்துள்ளமை தெரிய வந்துள்ளதாக  பதுளை அனர்த்த முகாமைத்துவ நிலையத்தின் பிரதிப் பணிப்பாளர் ஈ.எம்.எல்.உதய குமார தெரிவித்தார்.
+
+இந்த நாட்களில் இலங்கைக்கு வெளியிலிருந்து வீசும் காற்றில் உள்ள சிறிய தூசித்  துகள்கள் உள்நாட்டுக்கு வந்து பதுளை மாவட்டம் முழுவதும் வளிமண்டலத்தில் பரவியுள்ளது.
+
+மலை அமைப்பின் தொலைதூரக் காட்சியைப் பார்க்கும்போது, கருமையான மூடுபனி தெரியும் என்றும் கூறப்படுகிறது.
+
+இது சாதாரண வளிமண்டலத்தில் இருக்க வேண்டிய தூசி அடர்த்தியை விட அதிக அடர்த்தியாக உள்ளதாக தகவல்கள் தெரிவிக்கின்றன என்றார்.
+
+இதன் காரணமாக பொதுச் சுகாதாரம் பாதிக்கப்படலாம் எனவும் குறிப்பாக இந்த நிலையில் சுவாசக் கோளாறு உள்ள சிறு குழந்தைகள் முதல் பெரியவர்கள் வரை அவதானமாக இருக்க வேண்டியது அவசியம் எனவும் சுகாதார திணைக்களங்களும் இது தொடர்பில் விசேட கவனம் செலுத்தியுள்ளது எனவும் அவர் தெரிவித்தார்.
+
+இது தொடர்பில் தேசிய கட்டிட  ஆராய்ச்சி நிறுவனம் விசேட கவனம் செலுத்தியுள்ளதாகவும் உதய குமார மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/786b346a.json)
+
+---
+
+### நிறைவுக்கு வந்தது இரு தினங்களாக தொடர்ந்த சுகாதார தொழிற்சங்கங்களின் பணிப்பகிஷ்கரிப்பு !
+
+*2024-02-15 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176417) · `ta`
+
+கடந்த இரு தினங்களாக தொடர்ந்த சுகாதார தொழிற்சங்கங்களின் பணிப்பகிஷ்கரிப்பு இன்று வியாழக்கிழமை (15) காலை 6.30 மணியுடன் நிறைவுக்கு கொண்டுவரப்பட்டுள்ளது.
+
+வைத்தியர்களுக்கு வழங்கப்படும் மேலதிக கொடுப்பனவான DAT ஐ தமக்கும் வழங்குமாறு கோரி 72 சுகாதார தொழிற்சங்கங்கள் 13 ஆம் திகதி செவ்வாய்க்கிழமை காலை 6 மணி முதல்  தொழிற்சங்க நடவடிக்கையை முன்னெடுத்து வந்தன.
+
+இந்நிலையில், சுகாதார தொழிற்சங்கங்களின் பிரச்சினைகள் குறித்து எதிர்வரும் திங்கட்கிழமை கலந்துரையாடப்படுமென சுகாதார அமைச்சர் ரமேஸ் பத்திரன அறிவித்ததையடுத்து குறித்த பணிப்புறக்கணிப்பு கைவிடப்பட்டுள்ளது.
+
+அத்துடன் சுகாதாரத்துடன் தொடர்புடைய சில சேவைகளை அத்தியாவசிய சேவைகளாகப் பிரகடனப்படுத்தி ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் உத்தரவுக்கமைய அதிவிசேட வர்த்தமானி வெளியிடப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ee5adf72.json)
+
+---
+
+### මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරණයකු ලක්ෂ පනහක මත්ද්‍රව්‍ය සමඟ අත්අඩංගුවට
+
+*2024-02-15 10:20:03* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-මත්ද්‍රව්‍ය-ජාවාරම්කරණයකු-ලක්ෂ-පනහක-මත්ද්‍රව්‍ය-සමඟ-අත්අඩංගුවට/11-408096) · `si`
+
+මෝදර අලුත් මාවත ප්‍රදේශයේදී සිදුකළ හදිසි මෙහෙයුමක දී රුපියල් ලක්ෂ පනහකට අධික වටිනාකමින් යුත් මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගත් බව විශේෂ කාර්ය කාර්යය බලකාය පවසයි.
+
+වැඩ බලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මත ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ විශේෂ කාර්ය බළකායේ බුද්ධි කොට්ඨාශයට ලද තොරතුරකට අනුව මෙම මෙහෙයුම දියත් කර තිබුණි.
+
+එහිදී විශේෂ කාර්යය බලකායේ  බුද්ධි කොට්ඨාසයේ උප පොලිස් පරීක්ෂක ගුණසෝම මහතා ඇතුළු නිලධාරී කණ්ඩායමක් මෝදර අලුත් මාවත අසල රැඳී සිටි පුද්ගලයකු පරීක්ෂා කිරීමේදී ඔහු සන්තකයේ තිබී (ඩයිසැටයිල්මෝර්ෆින්) නොහොත් හෙරොයින් ග්‍රෑම් 112 මිලිග්‍රෑම් 690 සහ (මෙත්ඇම්පිටමින්) නොහොත් අයිස් ග්‍රෑම් 25 මිලි ග්‍රෑම් 700 භාරයට ගත් බව පැවසේ.
+
+ඒ අනුව සැකකරු සහ මත්ද්‍රව්‍ය තොගය අත්අඩංගුවට ගෙන ඔහු පැමිණි බවට සැක කෙරෙන යාබද අලුත් මාවතේ නවතා තිබූ සුඛෝපභෝගී ජීප් රථය පරීක්ෂා කිරීමේදී එහි කැබිහෝල්හී සඟවා තිබූ (මෙත්ඇම්පිටමින්) නොහොත් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 25 මිලිග්‍රෑම් 850, ඒවා කිර මැනීමට භාවිතා කරන විද්‍යුත් තරාදියක් හා රුපියල් 170,000 මුදලක් පොලිස් භාරයට ගෙන තිබේ.
+
+...
+
+[Data](articles/1df030bf.json)
+
+---
+
+### கண்டி மாவட்டத்தின் 19 பிரதேச செயலகப் பிரிவுகள் 1,900 மில்லியன் ரூபா செலவில்  அபிவிருத்தி - பிரசன்ன ரணதுங்க
+
+*2024-02-15 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176412) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பேரில் நடைமுறைப்படுத்தப்படும் மலையக தசாப்த விசேட ஒருங்கிணைந்த கிராம அபிவிருத்தி வேலைத்திட்டத்தின் கீழ் கண்டி மாவட்டத்தின் 19 பிரதேச செயலகப் பிரிவுகள் 1,900 மில்லியன் ரூபாவில் அபிவிருத்தி செய்யப்படவுள்ளன.
+
+வாழ்வாதாரம் மற்றும் உணவுப் பாதுகாப்பு, சந்தை மேம்பாடு, கல்வி, குடிநீர் விநியோகம், வீதி அபிவிருத்தி  வசதி, விவசாயம் மற்றும் சிறு நீர்ப்பாசனம், மின்சாரம் மற்றும் புதுப்பிக்கத்தக்க எரிசக்தி, சுகாதாரம் உள்ளிட்ட  பணிகள் இந்த மலையக தசாப்த திட்டம் செயல்படுத்தப்படும் என்று நகர அபிவிருத்தி  மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க  தெரிவித்தார்.
+
+கண்டி மாவட்டச் செயலகத்தில் புதன்கிழமை  (14) நடைபெற்ற கண்டி மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில், மலையக   தசாப்த அபிவிருத்தித் திட்டத்தின் கீழ் கண்டி மாவட்டத்தில் நடைமுறைப்படுத்த உத்தேசிக்கப்பட்டுள்ள திட்டங்கள் குறித்து தெரிவிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/21b39c17.json)
+
+---
 
 ### 25 Sri Lankans deported
 
@@ -71,6 +271,22 @@ Meanwhile, discussions are in progress to amend certain existing laws to crack d
 ◼️
 
 [Data](articles/c83b7b45.json)
+
+[Extended Data](ext_articles/c83b7b45.ext.json)
+
+---
+
+### පියා හා දියණිය දුම්රියට බිලි
+
+*2024-02-15 09:43:41* · [`adalk`](https://www.ada.lk/breaking_news/පියා-හා-දියණිය-දුම්රියට-බිලි/11-408093) · `si`
+
+චුන්නනාම් පොලිස් වසමේ ඉණුවිල් කරුණාකරපිල්යලයාර් කෝවිල් මාර්ගයේ සිවුමං න්නදිය අසල අනාරක්ෂිත සුම්රිය හරස් මාරගය හරහා ගමන් කළ වෑන් රථයක් දුම්රියක ගැටීමෙන් සිදුවූ අනතුරකින් වෑන් රථයේ ගමන් කළ පියෙක් හා දියණියක් ජීවිත්ක්ෂයට පත්ව තිබේ.
+
+ඊයෙ සවස මෙම අනතුර සිදුව ඇති අතර යාපනය සිට කන්කසන්තරය බලා ධාවනය වූ දුම්රියේ ගැටීමෙන් මෙම අනතුර සිදුව තිබේ. අවුරුදු 32ක් වන පියා අවුරුදු 03ක් වන දැරියක් ජීවිතක්ෂයට පත්ව ඇති අතර අනතුරින් තුවාල ලැබූ බිරිඳ යාපනය රෝහලේ ප්‍රතිකාර ලබමින් පසුවෙයි.
+
+◼️
+
+[Data](articles/99919a43.json)
 
 ---
 
@@ -167,6 +383,24 @@ PM Gunawardena thanked Dr Akihito for the support extended to Sri Lanka for deca
 [Data](articles/b8ec3cb0.json)
 
 [Extended Data](ext_articles/b8ec3cb0.ext.json)
+
+---
+
+### කුඩු සළිඳුගේ ප්‍රධානම ගෝලයා ඩුබායිහිදී අල්ලයි
+
+*2024-02-15 09:11:19* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සළිඳුගේ-ප්‍රධානම-ගෝලයා-ඩුබායිහිදී-අල්ලයි/11-408092) · `si`
+
+දැනට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු  අත්අඩංගුවේ පසුවන සළිදු මල්ෂික කුඩු සළිදු නැමැති සංවිධානාත්මක අපරාධ කල්ලි නායකයාගේ ප්‍රධානතම ගෝලයා ලෙස  හැදින්වෙන පියුම් හස්තික නොහොත්  "පියුමා "  නැමැති අපරාධ කල්ලි සාමාජිකයෙකු ඩුබායි හී දී විශේෂ  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන 02/15 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබේ.
+
+මොහු කුඩු සළිදු වෙනුවෙන් ඩුබායි හි රැදී සිට මෙරට කුඩු ජවාරම මෙහෙයවා ඇති බව මහජන ආරක්ෂක අමාත්‍යාංශයේ උසස් නිලධාරීවරයෙකු මේ පිළිබඳ විමසීමක දී පැවසීය.
+
+මොහු 02/15 දින අලුයම 04.50 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබුණි .
+
+එසේ රැගෙන ආ මෙම අපරාධ කල්ලි සාමාජිකයා කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු පරිශ්‍රයේ රදවා තබා ගෙන අවශ්‍ය මූලික විමර්ශන සිදු කර 02/15 දින උදෑසන 08.00 ට පමණ දැඩි රැකවල් මධ්‍යයයේ කොළඹ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු මූලස්ථාන කාර්යාලය වෙත රැගෙන ගියහ.
+
+◼️
+
+[Data](articles/208e8e25.json)
 
 ---
 
@@ -729,6 +963,22 @@ He further stated that the convention would be held on the day of the party to t
 [Data](articles/a7445232.json)
 
 [Extended Data](ext_articles/a7445232.ext.json)
+
+---
+
+### 3மாணவிகள் துஷ்பிரயோகம்;  ஆசிரியர்கள் இருவர், ஓடோ சாரதிக்கு சிறை
+
+*2024-02-15 03:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3மாணவிகள்-துஷ்பிரயோகம்-ஆசிரியர்கள்-இருவர்-ஓடோ-சாரதிக்கு-சிறை/175-333231) · `ta`
+
+வெவ்வேறு பாடசாலைகளைச் சேர்ந்த மூன்று மாணவிகளை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினர் என்றக் குற்றச்சாட்டின் பேரில், கைது செய்யப்பட்ட இரண்டு ஆசிரியர்கள், ஓட்டோ சாரதி ஆகிய மூவரையும், குற்றவாளிகளாக இனங்கண்ட நுவரெலியா மேல் நீதிமன்றம் அந்த மூவருக்கும் மொத்தமாக 37 வருடங்கள் கடூழிய சிறைத்தண்டனை விதித்து தீர்ப்பளித்துள்ளது.
+
+இதில், இரண்டு சம்பவங்களுக்கான தீர்ப்பு, நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரியவால் புதன்கிழமை (14) வழங்கப்பட்டது மற்றுமொரு சம்பவத்துக்கான தீர்ப்பு, ஜனவரி 31ஆம் திகதி, , நுவரெலியா மேல் நீதிமன்றத்தால் வழங்கப்பட்டுள்ளது.
+
+பாடசாலை மாணவி ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினார் என்ற குற்றச்சாட்டப்பட்டிருந்த கொட்டக்கலை பகுதியை சேர்ந்த (43) வயதுடைய பாடசாலை ஆசிரியரை 2 குற்றச்சாட்டுகளில் குற்றவாளியாக இனங்கண்ட நீதிமன்றம் அவருக்கு 17 வருட கடூழிய சிறை தண்டனை விதித்துள்ளது. முதலாவது குற்றச்சாட்டில் இருந்து அவர் விடுதலை செய்யப்பட்டார்.
+
+...
+
+[Data](articles/b7686bd9.json)
 
 ---
 
@@ -1751,303 +2001,5 @@ The deceased who was seriously injured in the accident have been admitted to the
 [Data](articles/cd58646e.json)
 
 [Extended Data](ext_articles/cd58646e.ext.json)
-
----
-
-### Bus driver convicted for fatal train collision in 2009, arrested after evading court
-
-*2024-02-14 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Bus-driver-convicted-for-fatal-train-collision-in-2009-arrested-after-evading-court/155-277029) · `en`
-
-Polonnaruwa, Feb 14 (Daily Mirror) - A bus driver responsible for a tragic accident on May 16, 2009, at the Sevanapitiya Railway Crossing in Welikanda, which claimed the lives of 15 passengers and left 40 others seriously injured, has been arrested.
-
-Police said the Polonnaruwa High Court issued the verdict in the case, sentencing the driver to death on September 22 last year.
-
-The driver, who last appeared before court on August 05, 2022, failed to attend subsequent hearings, leading to the issuing of warrants for his arrest.
-
-The Welikanda Police arrested the accused today while he was avoiding courts.
-
-The arrested individual is identified as a 39-year-old resident of Valaichchenai.
-
-The accident occurred when a private bus carrying 70 passengers, including children from the Al-Hizma nursery in Valaichchenai and their parents, collided with a train at the railway crossing. The driver attempted to bypass the rail gate disregarding signals, resulting in the catastrophic collision.
-
-...
-
-[Data](articles/0a04a6d0.json)
-
-[Extended Data](ext_articles/0a04a6d0.ext.json)
-
----
-
-### Bus driver convicted for fatal train collision in 2009, arrested after evading court
-
-*2024-02-14 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bus-driver-convicted-for-fatal-train-collision-in-2009-arrested-after-evading-court/108-277029) · `en`
-
-Polonnaruwa, Feb 14 (Daily Mirror) - A bus driver responsible for a tragic accident on May 16, 2009, at the Sevanapitiya Railway Crossing in Welikanda, which claimed the lives of 15 passengers and left 40 others seriously injured, has been arrested.
-
-Police said the Polonnaruwa High Court issued the verdict in the case, sentencing the driver to death on September 22 last year.
-
-The driver, who last appeared before court on August 05, 2022, failed to attend subsequent hearings, leading to the issuing of warrants for his arrest.
-
-The Welikanda Police arrested the accused today while he was avoiding courts.
-
-The arrested individual is identified as a 39-year-old resident of Valaichchenai.
-
-The accident occurred when a private bus carrying 70 passengers, including children from the Al-Hizma nursery in Valaichchenai and their parents, collided with a train at the railway crossing. The driver attempted to bypass the rail gate disregarding signals, resulting in the catastrophic collision.
-
-...
-
-[Data](articles/a960e805.json)
-
-[Extended Data](ext_articles/a960e805.ext.json)
-
----
-
-### Sri Lanka Treasuries yields fall across maturities
-
-*2024-02-14 20:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-fall-across-maturities-150922/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction with all 135 billion rupees of bills sold, data from the state debt office showed.
-
-The 3-month yield fell 117 basis points to 9.79 percent with 30 billion rupees in bills offered and 38.35 billion sold.
-
-The 6-month yield fell 121 basis points to 9.86 percent with 45 billion rupees in bills offered 48 billion sold.
-
-The 12-month yield fell 71 basis points to 10.02 percent, with 60 billion rupees of bills offered and 48 billion rupees sold.
-
-Sri Lanka’s central bank has been selling down its Treasury bill stock to build forex reserves in recent months while fiscal corrections have helped moderate borrowings.
-
-The central bank after selling bills outright at auctions is injecting money overnight and through term reverse repo auctions, in a policy that alters rupee reserves in individual banks and possibly encouraging them to overtrade, analysts say.
-
-...
-
-[Data](articles/0affecb1.json)
-
-[Extended Data](ext_articles/0affecb1.ext.json)
-
----
-
-### Chandrika says no decision to support any presidential candidate as yet
-
-*2024-02-14 20:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chandrika-says-no-decision-to-support-any-presidential-candidate-as-yet/108-277023) · `en`
-
-Colombo, Feb. 14 (Daily Mirror)- Former president Chandrika Kumaratunge said she had not decided to support any candidate in the upcoming presidential election as reported by various media and social media platforms.
-
-Office of the former president Kumaratunge said the reports published in mainstream media and social media platforms that she had offered to support various candidates in the upcoming presidential election are false.
-
-"She has not decided to support any candidate so far," a statement issued by Ms. Kumaratunge's office said.
-
-Ms. Kumaratunge also said she had not taken any decision to take up the leadership of the Leadership Council of the United People's Freedom Alliance as reported.
-
-"Even though it was reported that Ms. Kumaratunge is to take up the leadership of the Leadership Council of the United People's Freedom Alliance, she has not taken any decision regarding that either," her office added.
-
-◼️
-
-[Data](articles/eaf0c8f1.json)
-
-[Extended Data](ext_articles/eaf0c8f1.ext.json)
-
----
-
-### A century from wishes Nissanka
-
-*2024-02-14 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193387) · `si`
-
-Wimal for a century in the ODI welcomes between Sri Lanka and Afghanistan today (14).
-
-◼️
-
-[Data](articles/8ac2f65e.json)
-
-[Extended Data](ext_articles/8ac2f65e.ext.json)
-
----
-
-### Steps to establish 3 international universities in Sri Lanka
-
-*2024-02-14 20:28:20* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-විශ්වවිද්‍යාල-03ක්-ශ්‍රී-ලංකාවේ-ස්ථාපිත-කිරීමට-පියවර/11-408091) · `si`
-
-State Minister of Higher Education Dr. Suren Sanghava said that the experts with international experience in education came to Sri Lanka and have paid multiple degrees through state universities.
-
-The State Minister also said that steps have been taken to construct three international universities in Sri Lanka.
-
-Minister of Higher Education Dr. Suren Sanghajeew made this statement participating at a press conference held at the Presidential Media Center today (14).
-
-State Minister of Higher Education Dr. Suren Saggehavan said:
-
-We have already taken steps to establish three foreign universities in Sri Lanka. Two universities are being established. By May this year, the third university is also established in Sri Lanka.
-
-Indian Institutes of Technology is to be opened in Kandy. The other two universities are to be opened as two branches in the United States and the UK as two branches.
-
-...
-
-[Data](articles/8cbe4cb1.json)
-
-[Extended Data](ext_articles/8cbe4cb1.ext.json)
-
----
-
-### Fire nearing Baseline Station
-
-*2024-02-14 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193386) · `si`
-
-A fire broke out at a blank land near the Baseline Railway Station this afternoon.
-
-Our correspondent stated that three fire trucks had been deployed to quit the fire.
-
-The cause of the fire is yet to be determined and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/e3620b86.json)
-
-[Extended Data](ext_articles/e3620b86.ext.json)
-
----
-
-### Ukraine's unmanned air strike in Crimea Sea - Russia's massive ship sink
-
-*2024-02-14 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176397) · `ta`
-
-The BBC reports that Russia's massive landing has been submerged in the Ukraine attack on the sea of Crimea occupied by Russia.
-
-Ukraine has drowned the Russian ship in the south of Yalata City - local media reports that massive explosions were heard in this area.
-
-Ukraine has released a video of the unmanned flights of Maguravi 5, which shows a ship called Caesar Kunikov.
-
-◼️
-
-[Data](articles/4cadd737.json)
-
-[Extended Data](ext_articles/4cadd737.ext.json)
-
----
-
-### Van crashed into a train in JaffnaInjury
-
-*2024-02-14 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176396) · `ta`
-
-Two persons were killed and one person was injured in a van collision with a train in Jaffna.
-
-Three persons, including a child, were injured in the van and were admitted to the Jaffna Teaching Hospital.. Another is reported to have been injured.
-
-◼️
-
-[Data](articles/881d7216.json)
-
-[Extended Data](ext_articles/881d7216.ext.json)
-
----
-
-### If Ranil comes to Prasanna
-
-*2024-02-14 20:10:56* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-ආවොත්-ප්‍රසන්න-සහායට/11-408090) · `si`
-
-Chief organizer Urban Development and Housing Minister Prasanna Ranatunga says that if President Ranil Wickremesinghe presented to the next presidential election, he said.
-
-The Minister emphasized that Ranil Wickremesinghe should support the support of President Ranil Wickremesinghe at the moment a duty of all parties who love the country.
-
-The Minister said that the Sri Lanka General Front is always a party that has taken about the country and has decided that his party will take that decision at the right moment.
-
-Minister Prasanna Ranatunga made this statement after attending the Kandy District Coordinating Committee today (14) after attending the Kandy District Coordinating Committee.
-
-A. Not yet. There is a presidential election in the future. Discussed it in the future.
-
-...
-
-[Data](articles/de128f04.json)
-
-[Extended Data](ext_articles/de128f04.ext.json)
-
----
-
-### Ongoing health strike to be called off
-
-*2024-02-14 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ongoing-health-strike-to-be-called-off/108-277026) · `en`
-
-Colombo, Feb 14 (Daily Mirror) - After days of tense negotiations and widespread disruptions in healthcare services, all 72 health sector trade unions have opted to call off their ongoing strike.
-
-Accordingly, the strike will be called off at 6.30 am tomorrow (15).
-
-This decision follows Health Minister Dr. Ramesh Pathirana's agreement to engage in a discussion slated for next Monday.
-
-The ongoing strike, which has left hospitals and clinics grappling with reduced staff and limited services raised concerns about the impact on patient care nationwide.
-
-◼️
-
-[Data](articles/0461e062.json)
-
-[Extended Data](ext_articles/0461e062.ext.json)
-
----
-
-### A warnator made by death
-
-*2024-02-14 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193385) · `si`
-
-The bus collided with a train collided with a train collided by train and running the safe train fence in Sevanapitiya railway crossing on the Welikanda police division.
-
-Fifteen passengers were killed and 40 were injured in the accident.
-
-The driver of the bus was convicted of these allegations on the Polonnaruwa High Court by 2023-2012.
-
-The driver was last appeared in the High Court on 2022-05-05 and later.
-
-After that, he had issued warrants to the court and was arrested by the Welikanda Police today (14).
-
-◼️
-
-[Data](articles/ce032f05.json)
-
-[Extended Data](ext_articles/ce032f05.ext.json)
-
----
-
-### Japanese assist to project for standard power supply
-
-*2024-02-14 19:56:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலையான-மின்-விநியோகத்துக்கான-திட்டத்திற்கு-ஜப்பான்-உதவி/175-333212) · `ta`
-
-1.23 Bill for “Standard Power Distribution Scheme Using Renewable Strength in Hospitals”. Japan has provided Yen.
-
-Japanese Ambassador to Sri Lanka Miss Koshoshi Hidegi and Secretary to the Ministry of Finance, Economic Constration and National Policies. Siriwardena had signed.
-
-Through this aid, the Sri Jayawardenapura General Hospital, the Ratnapura Teaching Hospital and the Kurunegala Teaching Hospital are expected to reduce the exposure of carbon and to alleviate the crisis caused by electricity costs.
-
-With this help, solar power structures will be installed in these hospitals and will ensure continuous power supply, and it is expected to contribute to the target of more than 70%of the electricity demand by 2030.
-
-The scheme is similar to the fuel assistance provided to improve Sri Lanka's health care infrastructure. The solar power generation facilities are set to improve the recovery of these health care centers and contribute to the welfare of the people of Sri Lanka.
-
-...
-
-[Data](articles/1cdd02f4.json)
-
-[Extended Data](ext_articles/1cdd02f4.ext.json)
-
----
-
-### Carrot's kilogram of Rs. 600
-
-*2024-02-14 19:54:23* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-කිලෝව-රු-600ට-බසියි/11-408089) · `si`
-
-The retail price of a kilogram rose to Rs. 2,500 has increased to Rs.
-
-In addition, the price of several rice is less than Rs.. The experts say that due to an existing deficit, a pack of Rs.
-
-Five kilo of Kiri Samba, which have been mentioned in the packets of Rs 1,300, is 5 kilograms of Rs. 1,800 kilograms and Rs. 1,600 kilors.
-
-A kilo of nadu rice has fallen to Rs.
-
-According to rice control prices, a kilo of Keiris de-sail is sold at Rs.Have become apart.
-
-In addition, a kilo of Kiari Kolkotu sells a kilo of rupees between Rs.
-
-Under the download of vegetable prices, the retail of a kilogram of beans, a kilogram of cabbage and a kilorie to Rs. 450 and Rs.A kilo of Dambala, Markalal, Pumpkin were sold for between Rs. 350 and Rs. 300.
-
-Fish chillies and a kilogram of fish have been sold at Rs. 900 and Rs 900 and a kilo of tomatoes have been sold at Rs.
-
-◼️
-
-[Data](articles/d80b94fb.json)
-
-[Extended Data](ext_articles/d80b94fb.ext.json)
 
 ---

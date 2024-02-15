@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 15:02:27**
+As of **2024-02-15 15:17:11**
 
 ## Newspaper Stats
 
-*Scraped **7,230** Articles*
+*Scraped **7,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 375
 islandlk | 376
 dailyftlk | 389
 adalk | 619
-adaderanalk | 886
-tamilmirrorlk | 889
-virakesarilk | 929
+adaderanalk | 887
+tamilmirrorlk | 890
+virakesarilk | 939
 adaderanasinhalalk | 1,021
 dailymirrorlk | 1,057
 
@@ -26,11 +26,61 @@ dailymirrorlk | 1,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,230 (100.0%) of 7,230 articles have been extended.
+7,230 (99.8%) of 7,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தின் முதலாம் கட்டம் திறப்பு !
+
+*2024-02-15 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176443) · `ta`
+
+மக்களுக்கு சுத்தமான குடிநீரை வழங்கும் நோக்கில் ஜெய்கா (JICA) நிதியுதவியுடன் முன்னெடுக்கப்பட்ட அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தின் முதலாம் கட்டம் ,அமைச்சர் ஜீவன் தொண்டமானின் அழைப்பின் பேரில் ஜனாதிபதி ரணில் விக்ரமசிங்க , JICA தலைவர்  டனகா அகிஹிக்கோ ஆகியோரினால் சற்றுமுன்னர் திறந்துவைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/658dcd70.json)
+
+---
+
+### பல்கலைக்கழக மாணவர்களுக்கு பிணை
+
+*2024-02-15 14:41:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மாணவர்களுக்கு-பிணை/175-333263) · `ta`
+
+சப்ரகமுவ பல்கலைக்கழக மாணவி ஒருவரையும் இரண்டு மாணவர்களையும் தாக்கியதாக சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்ட மாணவர்கள் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+
+விளக்கமறியலில் வைக்கப்பட்டிருந்த பதின்மூன்று மாணவர்களுக்கும் பலாங்கொடை நீதவான் நீதிமன்றம் இன்று (15) பிணை வழங்கியது.
+
+கடந்த 12ஆம் திகதி ஏழு மாணவர்களை கைது செய்யப்பட்டதுடன், 14ஆம் திகதி மேலும் 6 மாணவர்கள் கைது செய்யப்பட்டனர்.
+
+கடந்த 09 ஆம் திகதி இரவு சப்ரகமுவ பல்கலைக்கழக விவசாய பீடத்தின் மாணவி ஒருவரும் இரண்டு மாணவர்களும் சிற்றுண்டிச்சாலையில் சாப்பிட்டுக் கொண்டிருந்த போது சிரேஷ்ட மாணவர்கள், மின்சாரத்தை துண்டித்து தடிகளை பயன்படுத்தி தாக்குதல் நடத்தியதாக முறைப்பாடு செய்யப்பட்டது.
+
+◼️
+
+[Data](articles/72aa1312.json)
+
+---
+
+### இலங்கை தமிழரசுக் கட்சியின் தேசிய மாநாட்டை நடத்த இடைக்கால தடை!
+
+*2024-02-15 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176446) · `ta`
+
+இலங்கை தமிழரசி கட்சியின் மாநாடு எதிர்வரும் 19ஆம் திகதி நடைபெற இருந்த நிலையில் இரண்டு வாரங்களுக்கு இம்மாநாட்டை நடாத்த வேண்டாம் என திருகோணமலை மாவட்ட நீதிமன்றம் இன்று (15) இடைக்கால தடை விதித்து கட்டானையொன்றினை  பிறப்பித்துள்ளது.
+
+திருகோணமலை மாவட்ட நீதிபதி மாணிக்கவாசகர்  கணேசராஜா முன்னிலையில் இன்றைய தினம் இவ்வழக்கு எடுத்துக்கொள்ளப்பட்டபோது  14 நாட்களுக்கு செயற்படும் வகையில் மேற்கு குறித்த இடைக்கால கட்டளை பிறப்பிக்கப்பட்டுள்ளது.
+
+இவ்வழக்கின் மனுதாரரின் பதிவு செய்யப்பட்ட சட்டத்தரணி  ஐஸ்வர்யா சிவக்குமாருடன் ஜனாதிபதி சட்டத்தரணி ஜெப்ரி அழகரட்ணம் மற்றும் சட்டத்தரணி புரந்தன் ஆகியோர் ஆஜராகினர்.
+
+கடந்த 21 மற்றும் 27ம் திகதிகளில்  நடைபெற்ற பொதுச் சபை கூட்டங்கள்  சட்டத்துக்கு முரணானதும், செல்லுபடியற்றதும்  என வாதம் முன்வைக்கப்பட்டது.
+
+எனவே குறித்த இரண்டு பொதுச் சபை கூட்டங்களிலும் மேற்கொள்ளப்பட்ட தெரிவுகள் சட்டத்திற்கு முரணானதும் செல்லுபடியற்றது எனவும் வாதம் முன்வைக்கப்பட்டது.
+
+...
+
+[Data](articles/f41826cc.json)
+
+---
 
 ### This baby is the baby
 
@@ -43,6 +93,78 @@ Fluo dead body found on a well adjacent to a house in the Kurunegala Police, Kur
 [Data](articles/33da338f.json)
 
 [Extended Data](ext_articles/33da338f.ext.json)
+
+---
+
+### ஜனாதிபதி மீண்டும் விடுத்துள்ள அழைப்பு !
+
+*2024-02-15 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176445) · `ta`
+
+அனைத்து தரப்பினரையும் ஒன்றிணையுமாறு மீண்டும் அழைப்பு விடுப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அரசியல் ரீதியாக பிரிந்து நாட்டைக் கட்டியெழுப்ப முடியாது எனவும், அரசாங்கத்திற்காகவோ எதிர்க்கட்சிக்காகவோ அல்லாது  நாட்டு மக்களுக்கு வளமான வாழ்க்கைத் தரத்தை வழங்குவதற்கு அனைத்து தரப்பினரையும் ஒன்றிணையுமாறு மீண்டும் அழைப்பு விடுப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+◼️
+
+[Data](articles/cfd01644.json)
+
+---
+
+### மஸ்கெலியா சம்பவம் தொடர்பில் 5 இளைஞர்கள் கைது :  இரு பஸ்களும் பொலிஸ் நிலையத்தில்!
+
+*2024-02-15 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176444) · `ta`
+
+மஸ்கெலியா பிரதேசத்தில் நேற்று (14)  இடம்பெற்ற சம்பவத்தின்போது, தனியார் பஸ்ஸின் சாரதி மற்றும் நடத்துனரை தாக்கிய சந்தேகத்தில் ஐந்து இளைஞர்கள் கைது செய்யப்பட்டதாக மஸ்கெலியா பொலிஸார் தெரிவித்தனர்.
+
+சிவனொளிபாத  மலையை தரிசிக்கச் சென்ற யாத்ரீகர்கள் குழுவை ஹட்டன் டிப்போவுக்குச் சொந்தமான பஸ்ஸில் ஏற்றிக் கொண்டு ஹட்டன் ரயில் நிலையத்துக்கு சென்றபோது, மஸ்கெலியாவிலிருந்து ஹட்டன் நோக்கிச் சென்ற தனியார் பஸ் ஒன்று  இ.போ.ச  பஸ்ஸை முந்திச் செல்ல பல தடவைகள் முயற்சித்த நிலையில் இ.போ.ச பஸ்ஸின் மீது  கல் வீச்சுத் தாக்குதல் நடத்தப்பட்டுள்ளது. இதன்போது அதிலிருந்த  இளைஞர் ஒருவர் காயமடைந்துள்ளார்.
+
+இளைஞர் படுகாயமடைந்ததையடுத்து, இ.போ.ச பஸ்ஸிலிருந்த  ஐந்து இளைஞர்கள்  கீழே இறங்கி பின்னால் வந்த தனியார்  பஸ்ஸின்  சாரதி மற்றும் நடத்துனரை தாக்கியுள்ளனர்.
+
+இந்த மோதல் காரணமாக மஸ்கெலியா - ஹட்டன் பிரதான வீதியின் போக்குவரத்து சுமார் ஒரு மணித்தியாலம் முற்றாக தடைப்பட்டது.
+
+...
+
+[Data](articles/fdf9a057.json)
+
+---
+
+### ரஃபாவில் மக்களை பாதுகாப்பதற்கான நம்பகத்தன்மை மிக்க திட்டம் எதுவும் சர்வதேச சமூகத்திடம் இல்லை - அவுஸ்திரேலியா
+
+*2024-02-15 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176436) · `ta`
+
+ரஃபாவில்தஞ்சமடைந்துள்ள மக்களை பாதுகாப்பதற்கான நம்பகதன்மை மிக்க நடைமுறைப்படுத்தக்கூடிய திட்டம் எதனையும் சர்வதேச சமூகம்  இதுவரை முன்வைக்கவில்லை என அவுஸ்திரேலிய  வெளிவிவகார அமைச்சர் பெனிவொங் தெரிவித்துள்ளார்.
+
+சர்வதேச சமூகத்தின் கரிசனைகளையே  அவுஸ்திரேலியா வெளியிடுவதாக தெரிவித்துள்ள பெனிவொங் அவுஸ்திரேலியாவின் நெருங்கிய நாடுகளின் கரிசனைகளை நாடாளுமன்றத்தில் வாசித்துள்ளார்.
+
+எனது கருத்துக்கள் சர்வதேச சட்டத்தின் கொள்கைகள்  சர்வதேச மனிதாபிமான சட்டத்தின் அடிப்படையிலானவை எனவும் அவர் தெரிவித்துள்ளார்.
+
+பகுதி மீது இஸ்ரேல் முன்னெடுக்ககூடிய பாரிய நடவடிக்கை குறித்த எங்கள்ஆழ்ந்த கரிசனைகளை மீண்டும் வலியுறுத்தவிரும்புகின்றேன் எனவும் அவர் தெரிவித்துள்ளார்.
+
+அங்கு தஞ்சமடைந்துள்ள மில்லியன் கணக்காண மக்களிற்கு பேரழிவு  ஏற்படும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+பொதுமக்கள் நெரிசலாக  வாழும் பகுதிகளில் இராணுவநடவடிக்கை என்பது ஆபத்தானது பொதுமக்களிற்கு இழப்புகள் ஏற்படலாம் எனவும்; அவர்தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/abfced1c.json)
+
+---
+
+### இலங்கையின் புதிய பொருளாதார சீர்திருத்தங்களுக்கு ஜெய்கா தலைவர் பாராட்டு
+
+*2024-02-15 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176442) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் ஜப்பான் சர்வதேச ஒத்துழைப்பு நிறுவனத்தின் (JICA) தலைவர் கலாநிதி தனக்கா அகிஹிக்கோவிற்கும் இடையிலான சந்திப்பொன்று நேற்று (14) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+புதிய பொருளாதார சீர்திருத்தங்களை மேற்கொள்வது கடினமான செயலாக இருந்தாலும் இலங்கையில் பொருளாதார சீர்திருத்தங்களை அமுல்படுத்துவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அர்ப்பணிப்பை கலாநிதி தனக்கா அகிஹிக்கோ பாராட்டினார்
+
+கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலைய விஸ்தரிப்புத் திட்டம், இலகு ரயில் திட்டம் மற்றும் மத்திய அதிவேக நெடுஞ்சாலை உள்ளிட்ட ஜப்பானிய உதவியின் கீழ் இந்நாட்டில் ஆரம்பிக்கப்பட்டு தற்போது இடைநிறுத்தப்பட்டுள்ள திட்டங்களை துரிதமாக மீள ஆரம்பிப்பது தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க இங்கு தெரிவித்தார்.
+
+கடந்த கால பொருளாதார நெருக்கடியின்போது,  இலங்கைக்கு வழங்கிய தொடர்ச்சியான ஆதரவிற்காக ஜப்பானிய அரசாங்கம் மற்றும் ஜெய்காவிற்கும் ஜனாதிபதி நன்றி தெரிவித்தார்.
+
+...
+
+[Data](articles/df9ce04e.json)
 
 ---
 
@@ -194,6 +316,20 @@ Dr. Akihiko elaborated on JICA’s efforts, highlighting the priority of conclud
 
 ---
 
+### யாழில் ஐஸ் கிரீமில் தவளை
+
+*2024-02-15 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176440) · `ta`
+
+யாழ்ப்பாணம் தொண்டமானாறு பகுதியில் உள்ள  விற்பனை நிலையத்தில் தவளையுடன் ஐஸ் கிரீம் வழங்கப்பட்ட சம்பவமொன்று இடம்பெற்றுள்ளது.
+
+தொண்டமானாறு செல்வச்சந்நிதி முருகன் ஆலய சூழலில் உள்ள குளிர்பான விற்பனை நிலையமொன்றிலே நேற்று (14) ஐஸ் கிரீம் குடிக்க சென்றவருக்கே குறித்த அனுபவத்தை எதிர்கொண்டுள்ளார்.
+
+◼️
+
+[Data](articles/565540ba.json)
+
+---
+
 ### 35000 kg of beeled seeds
 
 *2024-02-15 13:06:35* · [`adalk`](https://www.ada.lk/breaking_news/බීළූණු-බීජ-කිලෝ-එකක්-රුපියල්-35000ක්/11-408102) · `si`
@@ -207,6 +343,36 @@ However, officials also pointed out that a kilo of beauty of the market is about
 [Data](articles/3a8daaad.json)
 
 [Extended Data](ext_articles/3a8daaad.ext.json)
+
+---
+
+### பால்புதுமையின சமூகப் பிரதிநிதிகள் சபாநாயகரை சந்தித்தனர்
+
+*2024-02-15 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176433) · `ta`
+
+பால்புதுமையினர் (LGBTIQ+) சமூகப் பிரதிநிதிகள் குழு சபாநாயகர் மஹித்த யாப்பா அபேவர்தனவை திங்கட்கிழமை (12) சந்தித்து கலந்துரையாடியுள்ளனர்.
+
+பாராளுமன்ற உறுப்பினர் பிரேம்நாத் சி தொலவத்தவினால் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள இலங்கையில் LGBTQ+ உரிமைகளை அங்கீகரிப்பதற்காக குற்றவியல் சட்டத்தில் திருத்தம் செய்வதற்கான  சட்டமூலம் குறித்து கவனம் செலுத்துமாறு சபாநாயகரை வலியுறுத்துவதே இச்சந்திப்பின் நோக்கமாகும்.
+
+மேலும், இலங்கையில் வாழும் LGBTIQ+ சமூகம் எதிர்நோக்கும் பிரச்சினைகள் தொடர்பாக LGBTIQ+ சமூகப் பிரதிநிதிகள் மற்றும் சபாநாயகர் ஆகியோர்  நீண்ட நேரம் கலந்துரையாடினர்.
+
+Meet by NextGenSL என்ற சபாநாயகர் உடனான இந்த சந்திப்பை ஏற்பாடு செய்வதற்கு அனைத்து கட்சி இளைஞர் அமைப்பு உதவியளித்தது, இதில் பாராளுமன்ற பதில் செயலாளர் நாயகம் ஹன்ச அபேரத்னவும் கலந்துகொண்டார்.
+
+◼️
+
+[Data](articles/6365b323.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-15 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176438) · `ta`
+
+இன்று வியாழக்கிழமை (பெப்ரவரி 15) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 308.2195 ஆகவும் விற்பனை விலை ரூபா 318.0679 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/75f6494d.json)
 
 ---
 
@@ -232,6 +398,20 @@ The 44-year-old suspect teacher was arrested by the OIC Inspector Chandana Gamag
 
 ---
 
+### புதிய பாடசாலை தவணை தொடர்பான கல்வி அமைச்சின் அறிவிப்பு!
+
+*2024-02-15 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176434) · `ta`
+
+இதன்படி, அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் மூன்றாம் பாடசாலை தவணை நாளை 16 ஆம் திகதி வெள்ளிக்கிழமையுடன் நிறைவடைகிறது.
+
+2024 ஆம் ஆண்டுக்கான புதிய முதல் பாடசாலை தவணை  பெப்ரவரி 19 ஆம் திகதி திங்கட்கிழமை ஆரம்பமாகவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/280045ef.json)
+
+---
+
 ### Ex-Indonesian general linked to human rights abuses claims victory in presidential election
 
 *2024-02-15 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97292/ex-indonesian-general-linked-to-human-rights-abuses-claims-victory-in-presidential-election) · `en`
@@ -247,6 +427,20 @@ There was no declaration by election officials, and the two former provincial go
 [Data](articles/10a8590f.json)
 
 [Extended Data](ext_articles/10a8590f.ext.json)
+
+---
+
+### Head of Japan International Cooperation Organization met Prime Minister
+
+*2024-02-15 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176425) · `ta`
+
+A meeting between Prime Minister Dinesh Gunawardena and Japan International Cooperation Organization (JICA) Chairman Dr. Tanaka Akihito.
+
+◼️
+
+[Data](articles/8062736f.json)
+
+[Extended Data](ext_articles/8062736f.ext.json)
 
 ---
 
@@ -285,6 +479,22 @@ Furthermore, he mentioned that main accomplice of the notorious underworld figur
 [Data](articles/0fccb22e.json)
 
 [Extended Data](ext_articles/0fccb22e.ext.json)
+
+---
+
+### Interpol ‘Red Notices’ issued on 42 Sri Lankan criminal suspects hiding overseas
+
+*2024-02-15 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97291/interpol-red-notices-issued-on-42-sri-lankan-criminal-suspects-hiding-overseas) · `en`
+
+Acting Inspector General of Police (IGP) Deshabandu Tennakoon states that 42 Interpol ‘Red Notices’ have been issued against criminals who have fled the country and are in connection with underworld activities and drug offences.
+
+Joining the event to declare open a new police checkpoint in front of the Colombo National Hospital, Tennakoon expressed that the relevant criminal suspects would be brought back to the island with the assistance of Interpol.
+
+Furthermore, he mentioned that main accomplice of the notorious underworld figure Salindu Malshika alias “Kudu Salindu,” who was repatriated to Sri Lanka early this morning, will be interrogated further to uncover more details regarding drug syndicates operating in the country.
+
+...
+
+[Data](articles/78fe052b.json)
 
 ---
 
@@ -446,6 +656,28 @@ In a statement, she points out that he has not yet decided to seek the leadershi
 
 ---
 
+### Firing on a restaurant owner in Cup, Colombo
+
+*2024-02-15 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176430) · `ta`
+
+A man who runs a restaurant in Colombo, Colombo, was shot dead in front of his restaurant on Tuesday night (13).
+
+The white car allegedly used by the suspects to carry out the shooting has been found abandoned in the recent area.
+
+The police media spokesman's office said that the guards were targeted by a manager of a restaurant located on Mondara Road.
+
+A 52 -year -old restaurant owner has been admitted to Colombo National Hospital. It is reported that his right shoulder, neck and leg were shot.
+
+The police media unit said that the shooters were not identified.
+
+◼️
+
+[Data](articles/e41286df.json)
+
+[Extended Data](ext_articles/e41286df.ext.json)
+
+---
+
 ### First school term of 2024 to begin next Monday
 
 *2024-02-15 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97290/first-school-term-of-2024-to-begin-next-monday) · `en`
@@ -543,28 +775,6 @@ The motorcyclist who has been injured in the accident has been admitted to Nagod
 [Data](articles/36307a9f.json)
 
 [Extended Data](ext_articles/36307a9f.ext.json)
-
----
-
-### Firing on a restaurant owner in Cup, Colombo
-
-*2024-02-15 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176430) · `ta`
-
-A man who runs a restaurant in Colombo, Colombo, was shot dead in front of his restaurant on Tuesday night (13).
-
-The white car allegedly used by the suspects to carry out the shooting has been found abandoned in the recent area.
-
-The police media spokesman's office said that the guards were targeted by a manager of a restaurant located on Mondara Road.
-
-A 52 -year -old restaurant owner has been admitted to Colombo National Hospital. It is reported that his right shoulder, neck and leg were shot.
-
-The police media unit said that the shooters were not identified.
-
-◼️
-
-[Data](articles/e41286df.json)
-
-[Extended Data](ext_articles/e41286df.ext.json)
 
 ---
 
@@ -689,20 +899,6 @@ SLFP Foreign Party Foreign Affairs Secretary Sajinda Vaas Gunawardena and Chairm
 [Data](articles/7977c3c9.json)
 
 [Extended Data](ext_articles/7977c3c9.ext.json)
-
----
-
-### Head of Japan International Cooperation Organization met Prime Minister
-
-*2024-02-15 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176425) · `ta`
-
-A meeting between Prime Minister Dinesh Gunawardena and Japan International Cooperation Organization (JICA) Chairman Dr. Tanaka Akihito.
-
-◼️
-
-[Data](articles/8062736f.json)
-
-[Extended Data](ext_articles/8062736f.ext.json)
 
 ---
 
@@ -1839,267 +2035,5 @@ The Minister told the media that his decision remains unchanged despite any pote
 [Data](articles/a86dbdd6.json)
 
 [Extended Data](ext_articles/a86dbdd6.ext.json)
-
----
-
-### Man dies and killed
-
-*2024-02-15 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193401) · `si`
-
-A person has been killed when a shot in the Mullaitivu police Division in the Mullaitivu Police Division in the Mullaitivu police division.
-
-The deceased, with his Son and three other people, was collecting honey in a platewater in the Teslewa.
-
-There he fell into a firearm where they had been taken to a firearm in the plane.
-
-He was injured in the victim of the lawn shot and he was injured in hospitalization.
-
-◼️
-
-[Data](articles/ee4b0516.json)
-
-[Extended Data](ext_articles/ee4b0516.ext.json)
-
----
-
-### Arrest
-
-*2024-02-15 07:51:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடு-சலிந்து-வின்-சகா-கைது/175-333238) · `ta`
-
-One of the leaders of the underworld groups has been brought to Sri Lanka, a chief of Salinda Malshika, a 'Kudu Salinda'.
-
-It is reported that the main colleague of Kudu Salindu, Bi and the Hastika Criminal Investigation Department, were brought to Sri Lanka from Dubai this morning (15).
-
-◼️
-
-[Data](articles/94425705.json)
-
-[Extended Data](ext_articles/94425705.ext.json)
-
----
-
-### “There is no place to postpone the presidential election”
-
-*2024-02-15 07:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலை-ஒத்திவைக்க-இடமில்லை/175-333237) · `ta`
-
-Former President Chandrika Bandaranaike Kumaratunga told the media yesterday that there is no place in the constitution to postpone the presidential election.
-
-In response to a question raised by journalists after an event in Colombo yesterday evening, Mrs. Kumaratunga said this.
-
-However, he refused to explain the question raised by journalists on the recent pledge of the President's Office that the presidential election would be held despite the speculation that the executive presidency would be abolished.
-
-“I can say that the presidential election cannot be postponed,” he added.
-
-◼️
-
-[Data](articles/19fa9b16.json)
-
-[Extended Data](ext_articles/19fa9b16.ext.json)
-
----
-
-### Re -appointment of Professor Jayantha Jayawardena
-
-*2024-02-15 07:37:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-ஜயந்த-ஜயவர்தன-மீள்-நியமனம்/175-333236) · `ta`
-
-Former Health Minister Keheliya Rambukwella, a former member of the Sri Lanka Medical Council (SLMC), has been re -elected as a member of the SLMC.
-
-Accordingly, the tenure for the re -appointed member is valid for five years except if he voluntarily resigned or abolished the Emergency Act.
-
-Professor Jayawardena thanked him for his re -employment and highlighted the illegal and spontaneous nature of his previous dismissal and was sworn in yesterday (14).
-
-Professor Jayawardene was removed from the post of SLMC vice president last October without a reasonable reason.
-
-This decision of the former Minister of Health was criticized for violating the principles of proper rationality and natural justice.
-
-It is noteworthy that Professor Jayawardena's credentials reflect extensive experience and leadership roles in the field of obstetricity and gynecology, as well as in the medical education and administration of Sri Lanka's Medical Education and Health Organization.
-
-◼️
-
-[Data](articles/04e31b03.json)
-
-[Extended Data](ext_articles/04e31b03.ext.json)
-
----
-
-### In the city of Kansas, USA;22 killed in a large number of people
-
-*2024-02-15 07:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176410) · `ta`
-
-One person was killed and 21 injured in a shooting incident in Kansas, USA.
-
-The firing incident took place at the end of the Super Bevl Success in Kansas.
-
-The event, which was expected to attend more than the Ansilion, was eventually attempting to flee in fear of the event.
-
-22 people were injured following the shooting incident.
-
-◼️
-
-[Data](articles/2bef9d19.json)
-
-[Extended Data](ext_articles/2bef9d19.ext.json)
-
----
-
-### Today's weather conditions
-
-*2024-02-15 07:28:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-நிலவரங்கள்/175-333235) · `ta`
-
-The Department of Meteorology has noted that rainfall will occur in the Eastern and Uva provinces as well as Hambantota, Polonnaruwa, Matale and Nuwaralia districts.
-
-Showers or thunderstorms are likely to occur after two o'clock in the afternoon.
-
-Heavy winds can be frequent at speeds of 30 - 40 km / h in the Eastern Stoets of the Central Highlands, the North, Eastern, North, North Western and Uva provinces as well as in the Hambantota district.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Rainfall is likely to occur in many parts of the sea regions beyond the coast of Trincomalee to Batticaloa to Hambantota.
-
-Showers or thunderstorms are expected in the evening or night in some parts of the sea regions from Puttalam to Colombo and Galle.
-
-Winds from the northeast at 30 - 40 km / h in the sea regions.
-
-...
-
-[Data](articles/7bee04a1.json)
-
-[Extended Data](ext_articles/7bee04a1.ext.json)
-
----
-
-### Chandrika a special announcement of party leadership
-
-*2024-02-15 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193400) · `si`
-
-Former President Chandrika Bandaranaike Kumaratunga says that no decision has been taken to take over the leadership of the Leadership Council of the National Leadership Council.
-
-In a statement, she pointed out that no candidate has yet to support any candidate for the next presidential election.
-
-Chandrika Bandaranaike Kumarannatunga has been instructed by his statement that the members of the media has decided to support various presidential election.
-
-Following is the full announcement issued by Chandrika Bandaranaike Kumaranattenda.
-
-Meanwhile, MP Emmitias Bakeher Makar said that the government should hold elections on the due date.
-
-The Sri Lanka General Mannel Prasanna Ranatunga said that a candidate would not be offered to contest for the next presidential election.
-
-◼️
-
-[Data](articles/3477dd9d.json)
-
-[Extended Data](ext_articles/3477dd9d.ext.json)
-
----
-
-### Pathirana reverts Keheliya’s decision
-
-*2024-02-15 07:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Pathirana-reverts-Keheliyas-decision/155-277055) · `en`
-
-Colombo, Feb 15 (Daily Mirror) - Prof. Jayantha Jayawardana, a former member of the Sri Lanka Medical Council (SLMC) has been reinstated as an SLMC member after being removed by former Minister of Health Keheliya Rambukwella without due cause.
-
-The reappointment has been made by Minister of Health Dr. Ramesh Pathirana.
-
-Accordingly, the term of office for the reappointed member, is set for five years, unless voluntarily resigned or removed as per the ordinance.
-
-Expressing gratitude for the reinstatement, Prof. Jayawardana highlighted the unlawful and arbitrary nature of his previous termination. He assumed duties yesterday, February 14, 2024.
-
-Prof Jayawardana was removed as the SLMC Vice President last October without citing reasonable reasons.
-
-The decision by the former Minister of Health was criticized for its lack of valid reasoning and its violation of the principles of natural justice.
-
-...
-
-[Data](articles/01b4af0a.json)
-
-[Extended Data](ext_articles/01b4af0a.ext.json)
-
----
-
-### Pathirana reverts Keheliya’s decision
-
-*2024-02-15 07:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pathirana-reverts-Keheliyas-decision/108-277055) · `en`
-
-Colombo, Feb 15 (Daily Mirror) - Prof. Jayantha Jayawardana, a former member of the Sri Lanka Medical Council (SLMC) has been reinstated as an SLMC member after being removed by former Minister of Health Keheliya Rambukwella without due cause.
-
-The reappointment has been made by Minister of Health Dr. Ramesh Pathirana.
-
-Accordingly, the term of office for the reappointed member, is set for five years, unless voluntarily resigned or removed as per the ordinance.
-
-Expressing gratitude for the reinstatement, Prof. Jayawardana highlighted the unlawful and arbitrary nature of his previous termination. He assumed duties yesterday, February 14, 2024.
-
-Prof Jayawardana was removed as the SLMC Vice President last October without citing reasonable reasons.
-
-The decision by the former Minister of Health was criticized for its lack of valid reasoning and its violation of the principles of natural justice.
-
-...
-
-[Data](articles/51193bd7.json)
-
-[Extended Data](ext_articles/51193bd7.ext.json)
-
----
-
-### State Minister solution to Kegalle trouble
-
-*2024-02-15 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193399) · `si`
-
-State Minister Ranjith Siyambalapitiya says that steps will be taken to provide air rifles from its decentralized fund from the Kegalle district to reduce the damage to Rhilavan's farming.
-
-He says that due to the harm caused by Rilaron, he is dushed to maintain its cultivation.
-
-He was speaking to the media in the Kegalle area.
-
-◼️
-
-[Data](articles/df1d959b.json)
-
-[Extended Data](ext_articles/df1d959b.ext.json)
-
----
-
-### Towards the second stage of accepting applications from today
-
-*2024-02-15 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193398) · `si`
-
-State Minister Shehan Semasinghe says that the acceptance of applications for the second phase of the revenue will commence today (15).
-
-The applications are expected to be accepted for a month, the State Minister said.
-
-State Minister Shehan Semasinghe said that he was responding to 'Ada Derana that it would be given to the Ada Derana that the 2 million families will be reformed under the second phase.
-
-The State Minister also explained:
-
-"All who wish to apply for applications can apply through online system. In addition, special units available at Divisional Secretariats can also be provided. We hope to call for the relief applications for a month. The first round was saved for 20 lakhs. Looking forward to up to 24 lakhs in the second round. Hope to ensure the welfare allowances they need in July. Overall, the government is expecting a sum of Rs.
-
-◼️
-
-[Data](articles/0e216d41.json)
-
-[Extended Data](ext_articles/0e216d41.ext.json)
-
----
-
-### 10,000 complaints related to child abuse
-
-*2024-02-15 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193397) · `si`
-
-Nearly 10,000 complaints have been received by the National Child Protection Authority regarding child abuse incidents.
-
-The Chairman of the Senior Lecturer, Udaya Kumara Amarasinghe, said that 9,434 complaints have been received from January 1 to December 31, last year.
-
-Of the 2,242 complaints of sexual abuse of children, 64 complaints of sexual abuse, 64 complaints of sexual abuse, 61 complaints of raping of girls and children were taken to the use of children.
-
-In addition, the use of children, dysfunction, marketing, marketing, marketing, marketing, marketing, marketing, marketing, marketing, has been received by domestic violence, has received complaints.
-
-In 2022, the National Child Protection Authority received 7,466 complaints regarding child abuse.
-
-The Chairman of the National Child Protection, Udaya Kumara Amarasinghe said that the relevant divisions have been forwarded to the relevant divisions to take further action on these child abuse complaints.
-
-...
-
-[Data](articles/66cb3cc9.json)
-
-[Extended Data](ext_articles/66cb3cc9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 23:02:27**
+As of **2024-02-15 23:17:20**
 
 ## Newspaper Stats
 
@@ -26,29 +26,31 @@ dailymirrorlk | 1,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,328 (100.0%) of 7,330 articles have been extended.
+7,330 (100.0%) of 7,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### இஸ்ரேலுக்கும் இலங்கைக்கும் இடையே நேரடி விமான சேவை ஒப்பந்தம் கைச்சாத்து : அமைச்சர் நிமல்
+### Direct Airline Service Agreement between Israel and Sri Lanka: Minister Nimal
 
 *2024-02-15 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176484) · `ta`
 
-இஸ்ரேலுக்கும் இலங்கைக்கும் இடையிலான நேரடி விமான சேவை ஒப்பந்தம் வியாழக்கிழமை (15) முற்பகல் கைச்சாத்திடப்பட்டதாக துறைமுகங்கள், கப்பற்றுறை மற்றும் விமான சேவைகள் அமைச்சர் நிமல் சிறிபால டி சில்வா தெரிவித்தார்.
+Ports, Shipping and Aviation Minister Nimal Siripala de Silva said the direct flight agreement between Israel and Sri Lanka was signed on Thursday (15).
 
-இலங்கைப் பணியாளர்கள் வெளிநாடுகளுக்குச் செல்வதில் ஏற்படும் தாமதங்களைத் தடுப்பது இந்த ஒப்பந்தத்தின் முக்கிய நோக்கங்களில் ஒன்றாகும் என்றும் அமைச்சர் குறிப்பிட்டார்.
+The Minister said that one of the main objectives of the agreement is to prevent delays in Sri Lankan employees abroad.
 
-ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (15) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் நிமல் சிறிபால  டி சில்வா இவ்வாறு தெரிவித்தார்.
+Minister Nimal Siripala de Silva said this at a media briefing held at the Presidential Media Center on Thursday (15).
 
-இங்கு மேலும் கருத்துத் தெரிவித்த அமைச்சர் நிமல் சிறிபால  டி சில்வா ,
+Minister Nimal Siripala de Silva said more.
 
-இஸ்ரேலுக்கும் இலங்கைக்கும் இடையில் நேரடி விமான சேவை ஒப்பந்தம் இன்று காலை கைச்சாத்திடப்பட்டது. இஸ்ரேல் போக்குவரத்து அமைச்சு மற்றும் துறைமுகங்கள், கப்பற்றுறை மற்றும் விமான சேவைகள் அமைச்சுக்கும் இடையே கைச்சாத்திடப்பட்ட ஒப்பந்தத்தின்படி, இரு நாடுகளுக்கும் இடையே நேரடி விமான சேவைகள் ஆரம்பிக்கப்படவுள்ளன. இதன் மூலம் பயணிகளுக்கு வசதியை ஏற்படுத்துவதே எமது நோக்கமாகும்.
+The Direct Airline Service Agreement between Israel and Sri Lanka was signed this morning. According to the Agreement signed between the Ministry of Transport and the Ports, the Ministry of Ports, the Ministry of Airlines, direct flights will be launched between the two countries.. Our aim is to facilitate travelers.
 
 ...
 
 [Data](articles/bf5367e5.json)
+
+[Extended Data](ext_articles/bf5367e5.ext.json)
 
 ---
 
@@ -67,6 +69,8 @@ Dr. Jayatissa said the PUCSL should not take decisions solely based on the CEB's
 ...
 
 [Data](articles/181b95a4.json)
+
+[Extended Data](ext_articles/181b95a4.ext.json)
 
 ---
 

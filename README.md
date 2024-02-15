@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 14:17:17**
+As of **2024-02-15 14:33:57**
 
 ## Newspaper Stats
 
-*Scraped **7,220** Articles*
+*Scraped **7,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 614
 adaderanalk | 886
 tamilmirrorlk | 889
 virakesarilk | 929
-adaderanasinhalalk | 1,017
-dailymirrorlk | 1,056
+adaderanasinhalalk | 1,021
+dailymirrorlk | 1,057
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,219 (100.0%) of 7,220 articles have been extended.
+7,220 (99.9%) of 7,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### Sri Lanka’s attempt to secure big onions from India fails
+
+*2024-02-15 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-attempt-to-secure-big-onions-from-India-fails/108-277088) · `en`
+
+Colombo, Feb 15 (Daily Mirror) - Sri Lanka’s attempt to secure an exemption from India on its ban on big onion exports has not materialized resulting in importers looking to other markets for purchases at higher costs, Daily Mirror learns.
+
+India's ban on the export of onions has driven up prices in countries like Sri Lanka. India, the world’s biggest exporter of onions, banned shipments on December 8, 2023 after domestic prices more than doubled in three months following a drop in production. India has taken the policy decision to contain inflation ahead of the parliamentary elections.
+
+However, Sri Lanka sought an exemption to import 100,000 tonnes of big onions from India under special arrangements despite the ban.
+
+Asked about the latest situation, Trade Minister Nalin Fernando told Daily Mirror that the attempt did not materialize and therefore the prices remained high in the local market.
+
+The wholesale price of big onions remains at Rs.350-375 a kilo at the moment.
+
+...
+
+[Data](articles/ded30499.json)
+
+---
 
 ### President invites all parties to collaborate for national development
 
@@ -48,23 +68,85 @@ Furthermore, he has extended an invitation to all parties to collaborate, not fo
 
 ---
 
-### மேசைகளில் எழுதிய விஞ்ஞான ஆசிரியர் கைது
+### ලෝකෙම කතාවූ විවාහ ගිවිසගැනීම
+
+*2024-02-15 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193417) · `si`
+
+ආදරවන්තයින්ගේ දිනයේදී ලෝකෙම දන්නා අග්‍රාමාත්‍යවරයෙකු කළ අපූරු විවාහ ගිවිසගැනීමක් පිළිබඳව මේ වනවිට විශේෂ කතාබහක් ඇතිවී තිබේ.
+
+මෙම අපූරු විවාහ ගිවිසගැනීම සිදුකර ඇත්තේ ඔස්ට්‍රේලියානු අග්‍රාමාත්‍ය Anthony Albanese විසින්.
+
+මේ වනවිට 60 හැවිරිදි වියේ පසුවන ඔස්ට්‍රේලියානු අග්‍රාමාත්‍ය Anthony Albanese සහ 45 හැවිරිදි වියේ පසුවන Jodie Haydon මුණගැසී ඇත්තේ 2020 වසරේදීය.
+
+මේ අතර මෙම විවාහ ගිවිසගැනීම ඉතිහාසගතවන්නේ අග්‍රාමාත්‍ය ධුරයේ සිටියදී විවාහ ගිවිසගත් පළමු ඔස්ට්‍රේලියානු අග්‍රාමාත්‍යවරයා ලෙසටය.
+
+Anthony Albanese සහ Jodie Haydon සෙල්ෆි ඡායාරූපයක් පළකරමින් තමන් විවාහ ගිවිසගත් බව නිවේදනය කර තිබුණි.
+
+Anthony Albanese වසරකට පෙර Carmel Tebbutt දික්කසාද වූ අතර 23 හැවිරිදි වියේ පසුවන පුත්‍රයෙකු ද සිටී.
+
+◼️
+
+[Data](articles/ebc208a3.json)
+
+---
+
+### අධික වේගය මරුවා කැඳවයි
+
+*2024-02-15 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193416) · `si`
+
+කළුතර උතුර පොලිස් වසමේ මහදූවේගම උග්ගල්බඩ ප්‍රදේශයේ දී යතුරුපැදියකින් ගමන් කරමින් සිටි තරුණයෙක් විදුලි කණුවක ගැටී ජීවිතක්ෂයට පත්ව තිබේ.
+
+අප වාර්තාකරු පැවසුවේ, ඊයේ (14) රාත්‍රී 11.30ට පමණ අනතුර සිදුව ඇති බවය.
+
+අදාළ තරුණයා ඔහුගේ නිවසේ සිට ඔහු වැඩකරන වෙළෙඳසැලට යතුරුපැදියෙන් ගමන් කරමින් සිටියදී අධික පල්ලමක් සහිත මාර්ගයක තිබූ විදුලි කණුවේ ගැටී බරපතළ තුවාල ලබා එම ස්ථානයේදීම ජීවිතක්ෂයට පත්ව ඇත.
+
+පොලීසිය සඳහන් කළේ, යතුරුපැදිකරුට වේගය පාලනය කරගත නොහැකිව අනතුර සිදුව ඇති බවය.
+
+එලෙස මියගොස් ඇත්තේ, 25 හැවිරිදි ගිහාන් මධුසංක ලක්මාල් නැමති විවාහකයෙකි.
+
+◼️
+
+[Data](articles/c23f870d.json)
+
+---
+
+### Arrest
 
 *2024-02-15 13:16:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மேசைகளில்-எழுதிய-விஞ்ஞான-ஆசிரியர்-கைது/76-333259) · `ta`
 
-3 மாணவிகளை துஷ்பிரயோகம் செய்வதற்கு  முயற்சித்தார் என்றக் குற்றச்சாட்டின் பேரில், விஞ்ஞான பாட ஆசிரியர் கைது செய்யப்பட்டுள்ளார்.
+The science teacher has been arrested on charges of attempting to abuse 3 students.
 
-ஹட்டன் கல்வி வலயத்துக்கு உட்பட்ட பாடசாலையைச் சேர்ந்த ஆசிரியரே இவ்வாறு, வியாழக்கிழமை (15)  கைது செய்யப்பட்டுள்ளார் என வட்டவளை பொலிஸார் தெரிவித்தனர்.
+The school teacher from the Hatton Educational Zone has been arrested on Thursday (15), the Vattawala police said.
 
-தரம் 10 இல் கல்விப்பயிலும் மூன்று மாணவிகளை பாலியல் வன்புணர்வுக்கு உட்படுத்த முயற்சித்தார் என்றக் குற்றச்சாட்டின் பேரிலேயே இவர், கைது செய்யப்பட்டுள்ளார் என வட்டவளை பொலிஸ் நிலையத்தின் பொறுப்பதிகாரியான பொலிஸ் பரிசோதகர் சந்தன கமகே தெரிவித்தார்.
+He has been arrested on charges of attempting to rape three students in Grade 10 education, said Santana Kamage, Superintendent of Police at the Vattawala Police Station.
 
-சுமார் 5 வருடங்களாக அந்தப் பாடசாலையில் விஞ்ஞான ஆசிரியராக சேவையாற்றும் இந்த ஆசிரியர், இந்த மூன்று மாணவிகளிடமும் பாலியல் அழுத்தத்தை பிரயோகித்து குறுஞ்செய்திகள் பலவற்றை அனுப்பியுள்ளார்.
+The teacher, who has been serving as a science teacher in the school for nearly 5 years, has sent a number of texts to the three students.
 
-இதனால் ஆத்திரமடைந்த அந்த ஆசிரியர், மாணவிகளின் வகுப்பறைக்குச் சென்று, அந்த மாணவிகள் அமர்ந்திருக்கும் கதிரைகளுக்கு முன்பாக இருக்கும் மேசைகளின் மேல், “என்னுடைய யோசனைக்கு இணக்கமா?” என எழுதியுள்ளார்.
+Furious, the teacher went to the students' classroom and on the tables in front of the rays sitting in front of the students, "Is it compatible with my idea?"Written.
+
+As a result, the three students have lodged a complaint at the Vattawala Police Station. Accordingly, the scientific teacher has been arrested.
 
 ...
 
 [Data](articles/c6b9394a.json)
+
+[Extended Data](ext_articles/c6b9394a.ext.json)
+
+---
+
+### සහයෝගයෙන් කටයුතු කරන්නැයි ජනපතිගෙන් ඉල්ලීමක්
+
+*2024-02-15 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193415) · `si`
+
+ජනතාවගේ ජීවන තත්ත්වය ඉහළ නැංවීම සඳහා සහයෝගයෙන් කටයුතු කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කර ඇත.
+
+දේශපාලන බෙදීම් රටේ ප්‍රගතිය සඳහා බාධාවක් බව ප්‍රකාශ කරන ජනාධිපතිවරයා, ජාතික සංවර්ධනය සඳහා එකමුතුකමේ අවශ්‍යතාව අවධාරණය කරයි.
+
+දේශපාලන හිතවත්කම් සඳහා නොව, ජාතියේ ජනතාවගේ ජීවන තත්ත්වය ඉහළ නැංවීම සඳහා සහයෝගයෙන් කටයුතු කරන ලෙස ඔහු සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/25c77a7f.json)
 
 ---
 
@@ -87,6 +169,26 @@ Dr. Akihiko elaborated on JICA’s efforts, highlighting the priority of conclud
 [Data](articles/53060506.json)
 
 [Extended Data](ext_articles/53060506.ext.json)
+
+---
+
+### සිසුවියන් තිදෙනෙකුට අතවර කළ ගුරුවරයා අත්අඩංගුවට
+
+*2024-02-15 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193414) · `si`
+
+හැටන් කලාප අධ්‍යාපන කාර්යාලය යටතේ පාලනය වන වටවල ප්‍රදේශයේ දෙමළ පාසලක පාසල් සිසුවියන් තිදෙනෙකුට අතවර කිරීමට තැත්කළ එම පාසලේම විද්‍යා විෂය උගන්වන ගුරුවරයාව සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+අප වාර්තාකරු පැවසුවේ, වසර 5ක පමණ කාලයක් එම ගුරුවරයා අදාළ පාසලේ විද්‍යාව ගුරුවරයා ලෙස සේවය කර ඇති බවය.
+
+අදාළ ගුරුවරයා විසින් පාසලේ 10 වන ශ්‍රේණියේ සිසුවියන් තිදෙනෙකුට අතවර කිරීමට උත්සාහ ගෙන ඇති බවත් ඔවුන්ට කෙටි පණිවුඩ යොමු කරමින් ඔවුන් අපහසුතාවයට පත්කර ඇති බවත් වාර්තා වේ.
+
+එම පණිවුඩවලට පිළිතුරු නොයැවීම හේතුවෙන් සිසුවියන් පන්ති කාමරය තුළ වාඩි වී සිටින අවස්ථාවේ දී අනිසි බලපෑම් සිදුකිරීම හේතුවෙන් අදාළ සිසුවියන් වටවල පොලීසියට පැමිණිලි කර තිබේ.
+
+ඒ අනුව වටවල පොලීසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක චන්දන ගමගේ මහතාගේ මුලිකත්වයෙන් 44 හැවිරිදි සැකකාර ගුරුවරයා අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/a3030837.json)
 
 ---
 
@@ -1997,105 +2099,5 @@ The Department of Meteorology has requested the public to take steps to reduce t
 [Data](articles/60b17f43.json)
 
 [Extended Data](ext_articles/60b17f43.ext.json)
-
----
-
-### Main accomplice of “Kudu Salindu” repatriated from Dubai
-
-*2024-02-15 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97279/main-accomplice-of-kudu-salindu-repatriated-from-dubai) · `en`
-
-Criminal gang member Piyum Hasthika alias “Piyuma”, who was in hiding in Dubai, UAE, was repatriated to Sri Lanka in the early hours of Thursday (Feb.15).
-
-He is reportedly the main accomplice of the notorious underworld figure and drug trafficker Salindu Malshika Gunaratne alias “Kudu Salindu,” who is also currently in the custody of the CID.
-
-According to the Public Security Ministry, “Piyuma” was brought back to the island by a special team of the Criminal Investigation Department (CID).
-
-The CID sleuths and the deportee reached the Bandaranaike International Airport (BIA) in Katunayake around 4.50 a.m. via a SriLankan Airlines flight. Three hours later, “Piyuma” was escorted to the CID headquarters for onward interrogations.
-
-According to Sri Lanka Police, “Piyuma” was first arrested in 2018 for the possession of 20g of heroin and was referred to a rehabilitation centre for three months.
-
-...
-
-[Data](articles/10d92ef2.json)
-
-[Extended Data](ext_articles/10d92ef2.ext.json)
-
----
-
-### Main accomplice of “Kudu Salindu” repatriated to Sri Lanka
-
-*2024-02-15 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97279/main-accomplice-of-kudu-salindu-repatriated-to-sri-lanka) · `en`
-
-Criminal gang member Piyum Hasthika alias “Piyuma”, who was in hiding in Dubai, has been repatriated to Sri Lanka in the early hours of Thursday (Feb.15).
-
-A special team of the Criminal Investigation Department (CID) had brought “Piyuma” back to the island, the Public Security Ministry said.
-
-He is reportedly the main accomplice of the notorious underworld figure Salindu Malshika alias “Kudu Salindu”.
-
-◼️
-
-[Data](articles/28562a0c.json)
-
-[Extended Data](ext_articles/28562a0c.ext.json)
-
----
-
-### Constitutional Council’s decision to reject President’s nomination challenged in SC
-
-*2024-02-15 05:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Constitutional-Councils-decision-to-reject-Presidents-nomination-challenged-in-SC/108-277054) · `en`
-
-Colombo, FEb 15 (Daily Mirror) - A Fundamental Rights petition has been filed in the Supreme Court seeking an order directing the Constitutional Council to approve the recommendation made by the President to appoint incumbent President of the Court of Appeal Nissanka Bandula Karunaratne as a Supreme Court judge.
-
-The petitioner Sarith Maheeputhra Pathirathne an Attorney-at-Law by profession filed a petition naming the members of the Constitutional Council including Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, Opposition Leader Sajith Premadasa, Nimal Siripala de Silva, Sagara Kariyawasam and several others as the respondents.
-
-The Petitioner stated that the Constitutional Council’s decision to reject the recommendation of the President to fill a vacancy in the Supreme Court with the senior most judge of the Court of Appeal who had also been endorsed by the Chief Justice is arbitrary and unreasonable.
-
-...
-
-[Data](articles/3e27a843.json)
-
-[Extended Data](ext_articles/3e27a843.ext.json)
-
----
-
-### Is Sri Lanka part of India?: 'Harin should be sacked from the ministerial'
-
-*2024-02-15 04:21:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72gnjggyzro) · `si`
-
-A well-being of Sri Lanka is part of the Minister of Cabinet, Harin Fernando, a business and entrepreneurship in Mumbai, is in a business and entrepreneur.
-
-"Fuel Tanks Are Taken by the indian companies. Our solar power energies Provided by the indian companies. This is One Reaaseons I Think The Indian Exterional Affeel Affairs Secretary (IF TRAVELING SOMEWHEE, TECAUS Sri Lanka, Actually. "
-
-"Oil tanks from Indian companies. Indian companies provider our solar energy. I think, that is why the Indian Foreign Secretary said that if you travel somewhere, to visit Sri Lanka, and Sri Lanka is a part of India. "
-
-There, he is accused of interpreting Sri Lanka as part of India as part of India, "the constitution of the Constitution of Sri Lanka."
-
-Here are some of the comments published in the social media.
-
-...
-
-[Data](articles/72f33031.json)
-
-[Extended Data](ext_articles/72f33031.ext.json)
-
----
-
-### The telephone departmental education system is created
-
-*2024-02-15 04:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துறைசார்-கல்வி-முறை-உருவாக்கப்படும்/175-333234) · `ta`
-
-President Ranil Wickremesinghe said that a new education system is essential for the world to lead the country to economic change and thereby creating a competitive world market.
-
-The President said that it is expected to reduce the exam load, educate English and technical subjects, and create students who are entertaining professionalism and are planning to establish new vocational colleges and technical universities.
-
-President Ranil Wickremesinghe said this while addressing a national event at St. Anthony's College of St. Anthony's Girls' College, Kaluppitti, on Wednesday (14).
-
-There are five schools near my house. I learned Royal College and Therston College, Women's College, Mahanama College and St. Anthony's College. So I have been able to focus more on the education sector. During the reign of President JR Jayawardene, we focused on the development of these schools.
-
-...
-
-[Data](articles/7c047708.json)
-
-[Extended Data](ext_articles/7c047708.ext.json)
 
 ---

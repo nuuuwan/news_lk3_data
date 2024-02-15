@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 13:02:25**
+As of **2024-02-15 13:17:24**
 
 ## Newspaper Stats
 
-*Scraped **7,216** Articles*
+*Scraped **7,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 375
 islandlk | 376
 dailyftlk | 389
 adalk | 614
-adaderanalk | 883
+adaderanalk | 884
 tamilmirrorlk | 888
 virakesarilk | 929
 adaderanasinhalalk | 1,017
@@ -26,27 +26,45 @@ dailymirrorlk | 1,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,207 (99.9%) of 7,216 articles have been extended.
+7,216 (100.0%) of 7,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### “பணத்தை திருப்பி கொடுக்க தயார்” NORTHERN UNI அறிக்கை
+### Ex-Indonesian general linked to human rights abuses claims victory in presidential election
+
+*2024-02-15 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97292/ex-indonesian-general-linked-to-human-rights-abuses-claims-victory-in-presidential-election) · `en`
+
+A former general linked to past human rights abuses claimed victory Wednesday in Indonesia’s presidential election, a result that would raise questions about the commitment to democratic values in the sprawling island nation that is the world’s third-largest democracy.
+
+Defense Minister Prabowo Subianto, 72, presented himself as an heir to immensely popular sitting President Joko Widodo, whose son was his running mate. Citing unofficial results, Subianto told thousands of supporters in the capital, Jakarta, that his victory was “the victory of all Indonesians.”
+
+There was no declaration by election officials, and the two former provincial governors who also competed in the balloting did not concede defeat.
+
+...
+
+[Data](articles/10a8590f.json)
+
+---
+
+### “Ready to refund the money” Northern Uni Report
 
 *2024-02-15 12:26:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பணத்தை-திருப்பி-கொடுக்க-தயார்-NORTHERN-UNI-அறிக்கை/71-333257) · `ta`
 
-இலங்கையில் யாழ்ப்பாணத்தில் கடந்த பிப்ரவரி 9ஆம் திகதி மிகவும் பிரம்மாண்டமாக பின்னணி பாடகர் ஹரிஹரனின் இசை நிகழ்ச்சி நடந்தது.
+Background singer Hariharan's concert was held on February 9 in Jaffna, Jaffna.
 
-இந்த நிகழ்ச்சிக்கு தொகுப்பாளினி டிடி, KPY பாலா, பின்னணி பாடகி ஸ்வேதா மோகன், புகழ் உள்ளிட்ட பிரபலங்களும் கலந்துகொண்டனர். இதில் தமன்னாவின் நடனமும் ரசிகர்களை கவர்ந்தது. மேலும் ஹரிஹரனின் பாடல்கள் மனதை தொட்டது.
+Celebrities including host DD, KPY Bala, playback singer Shweta Mohan and fame were also present at the event.. Tamanna's dance also impressed fans. And Hariharan's songs touched the mind.
 
-நன்றாக நடந்துகொண்டிருந்த இந்த நிகழ்ச்சிக்கு ஒரு லட்சத்திற்கும் மேல் மக்கள் வந்ததுள்ளனர். இதில் விசமிகள் கூட்டத்திற்குள் புகுந்து செய்த சில விஷயங்கள் காரணமாக தடங்கல் ஏற்பட்டுள்ளது.
+More than one lakh people have come to the event that was well behaved. Some of the things that have been entered into the crowd have been interrupted.
 
-இதில் 'இந்நிகழ்வில் ஏற்பட்ட சிறு தடங்கல் மற்றும் அசௌகரியம் காரணமாக, கிடைக்கப்பெற்ற வருவாய் முழுவதையும் மீளளிப்பதற்கு முடிவு செய்துள்ளோம் என்றும் தங்களால் செலுத்தப்பட்ட பணம் வறுமை கோட்டிற்கு கீழுள்ள மாணவர்களின் கல்விச் செயற்பாட்டுக்கு பயன்படுத்த எண்ணுவோர் அவ்வாறே விட்டு விட, பணத்தினை மீளப் பெற விரும்புபவர்கள் தரப்பட்டுள்ள தொலைபேசி இலக்கத்தை 0777315262 தொடர்பு கொள்ளுங்கள்' என்றும் தெரிவித்துள்ளனர். R
+Due to the minor interruption and discomfort at the event, we have decided to recover the entire income and that the money paid for the education of the students under the poverty line, the telephone number 0777315262 will be left. ". Remble
 
 ◼️
 
 [Data](articles/fa266785.json)
+
+[Extended Data](ext_articles/fa266785.ext.json)
 
 ---
 
@@ -160,27 +178,33 @@ Also, President Wickremesinghe was also present at the meeting with Senior Advis
 
 ---
 
-### රටම කතාවෙන පාතාලේ
+### The country's back stain
 
 *2024-02-15 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193413) · `si`
 
-කුඩු සලිඳුගේ ප්‍රධාන ගෝලයා බවට සැළකෙන "පියුමා" නැමැත්තාගේ පෙර වැරදි රැසක් සම්බන්ධයෙන් මේ වනවිට තොරතුරු රැසක් අනාවරණය වී තිබේ.
+It has been revealed that Kudu Siyaeli's main disciple is known as the "Prime Father '.
 
-එහි දැක්වෙන්නේ සැකකරු 2018 වර්ෂයේදී හෙරොයින් මිලිග්‍රෑම් 20ක් සමග පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති බවය.
+The suspect was arrested by the police with 20 milligrams of heroin in the year 2018.
 
-එහිදී අධිකරණය විසින් ඔහුව 2018 වර්ෂයේ අගෝස්තු මස 31 වනදා සිට මාස තුනක කාලසීමාවක් පුනුරුත්ථාපනය කර ඇත.
+The court rehabilitated him three months from 31st August 2018.
 
-අනතුරුව යළිත් සැකකාර "පියුමා" නැමැත්තා 2019 වර්ෂයේ ගංජා සුරුට්ටුවක් ළඟ තබාගැනීමේ චෝදනාව සම්බන්ධයෙන් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති බවය.
+The suspect was later arrested by the police regarding the charges of having a marijuana cigar in 2019.
 
-2019 වර්ෂයේ දෙසැම්බර් මස 12 වනදා එළෙස අත්අඩංගුවට ගෙන ඇති "පියුමා" නැමැත්තාව පසුදින (2019.12.13) අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසුව රුපියල් 10,000ක දඩයක් පනවා තිබේ.
+The "Prime Minister" was seized on December 12, 2019, a fine of Rs. 10,000.
 
-මේ අතර 2021 වර්ෂයේ ජනවාරි මස 25 වනදා පානදුර ප්‍රදේශයේදී යතුරු පැදියකින් පැමිණි දෙදෙනෙකු විසින් මාවතගේ ලක්ෂාන් සඳරුවන් නමැති අයෙකු වෙඩිතබා ඝාතනය කර තිබුණි.
+Meanwhile, two persons from the Panadura on January 25, 201, two were shot dead by a motorcycle.
 
-එම යතුරුපැදිය පදවාගෙන පැමිණ ඇත්තේ සැකකාර "පියුමා" නැමැත්තා බවට අනාවරණය වීමත් සමග 2023 වර්ෂයේ අගෝස්තු මස 23 වනදා ඔහුව එම ඝාතන සිද්ධියේ 08 වන සැකකරු ලෙස නම්කර තිබුණි.
+The motorcycle was driven by a man named the suspect, "Prime Minister" was named the 8th of the murder.
+
+It has been revealed that the police had fled to Dubai on the 9th of February 9, 2021 when the police started investigating and investigating the suspect.
+
+Accordingly, the suspect had acquired the suspect on November 2, 2023 against the suspect in the assistance of the incident on the assistance of the international police.
 
 ...
 
 [Data](articles/70ea997b.json)
+
+[Extended Data](ext_articles/70ea997b.ext.json)
 
 ---
 
@@ -218,41 +242,51 @@ Accordingly, the third term for 2023 will be completed tomorrow.
 
 ---
 
-### 2023 மூன்றாம் தவணை முடிவடைகிறது
+### 2023 ends the third installment
 
 *2024-02-15 11:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2023-மூன்றாம்-தவணை-முடிவடைகிறது/175-333252) · `ta`
 
-அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் 2023ஆம் ஆண்டுக்கான மூன்றாம் தவணை, வௌ்ளிக்கிழமையுடன் (16) முடிவடையும் என்று கல்வியமைச்சு அறிவித்துள்ளது.
+The Ministry of Education has announced that the third term of 2023 of state and state -approved private schools will be completed with the Valli (16).
 
-அதன்படி, 2024ஆம் ஆண்டுக்கான முதலாம் தவணை, பெப்ரவரி 19ஆம் திகதி திங்கட்கிழமை ஆரம்பமாகும் என்றும் அறிவித்துள்ளது.
+Accordingly, the first installment of 2024 will begin on Monday 19th February.
 
 ◼️
 
 [Data](articles/acbce539.json)
 
+[Extended Data](ext_articles/acbce539.ext.json)
+
 ---
 
-### පැතුම් ඉටු කළ පැතුම්ගේ පිත්තෙන් වාර්තා රැසක්
+### A number of records from the giant wishes
 
 *2024-02-15 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193412) · `si`
 
-ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන එක්දින ක්‍රිකට් තරගාවලිය ඊයේ (14) අවසන් වූයේ, ශ්‍රී ලංකාවට පූර්ණ තරගාවලි ජයග්‍රහණයක් (Whitewash) අත් කර දෙමිනි.
+Sri Lanka-Afghanistan ODI series yesterday ended yesterday (14), whitewash.
 
-වසර ගණනාවක පසුබෑමකට පසු ශ්‍රී ලංකාව ලබා ගත් මෙම ජයග්‍රහණය ශ්‍රී ලංකා ක්‍රිකට් ලෝලින්ට මහත් වූ අස්වැසිල්ලක් වූ බව නොරහසකි.
+It is no secret that this achievement of Sri Lanka after many years, Sri Lanka was a great relief to Len.
 
-කෙසේ වෙතත් මෙම එක්දින තරගාවලිය තුළ වඩාත් කතාබහට ලක් වූයේ, පැතුම් නිස්සංකගේ විශිෂ්ට පිතිකරණය යි.
+However, the best batting of the wishes of the ODIs was the most talked about.
 
-නිස්සංකට අමතර ව සෙසු පිතිකරුවන්ගේ කුසලතා ද ඉතා විශිෂ්ට මට්ටමක පැවති බව හඳුනාගත හැකි ය.
+In addition to an extraordinary, the skills of other batsmen were very great.
 
-කෙසේ වෙතත් නිමා වූ තරගාවලිය තුළ වාර්තා කිහිපයක් ද අලුත් වූ අතර, ඒ අතර පැතුම් නිස්සංක තැබූ වාර්තා කිහිපයක් ම හඳුනාගත හැකි ය.
+However, several records were also new in the final tournament, and several reports were identified.
 
-ශ්‍රී ලංකාව වෙනුවෙන් ද්විත්ව ශතකයක් වාර්තා කළ පළමු සහ එක ම ක්‍රීඩකයා බවට පත් වීමට පල්ලෙකැලේ අන්තර්ජාතික ක්‍රිකට් ක්‍රීඩාංගණයේ පැවති පළමු එක්දින තරගයේ දී පැතුම් නිස්සංකට හැකි විය.
+Wishing was able to become the first and only player of the Pallekele International Cricket Stadium to become the first and only player recorded for Sri Lanka.
 
-මෙම දස්කම දැක්වූ ලොව පස් වැනියා වන්නේ ද පැතුම් නිස්සංක වන අතර, ලෝකයට ම ඇත්තේ, එක්දින ද්විත්ව ශතක 12ක් පමණි.
+The world's soil is also the world's world, and the world is only 12 ODI double centuries.
+
+The highest number of marks for Sri Lanka, the highest number of marks were collecting the highest number of marks for Sri Lanka at October 2000.
+
+He collapsed a Sri Lankan report in the name of Sanath Jayasuriya for 23 years.
+
+He scored 210 runs in his innings, and he spent only 136 balls.
 
 ...
 
 [Data](articles/53a4489c.json)
+
+[Extended Data](ext_articles/53a4489c.ext.json)
 
 ---
 
@@ -398,23 +432,25 @@ Furthermore, the former president has refuted the media reports published in thi
 
 ---
 
-### අෆ්රීන් අක්තර් හමුවූ මෛත්‍රී
+### Maithri, who met Afrrin Akler
 
 *2024-02-15 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193410) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සහ අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුවේ දකුණු හා මධ්‍යම ආසියානු කටයුතු භාර නියෝජ්‍ය සහකාර ලේකම් අෆ්රීන් අක්තර් මහත්මිය අතර හමුවක් සිදුව තිබේ.
+Former President Maithripala Sirisena, the Deputy Secretary to the Southern and Central Asian Affairs, has reportedly taken place.
 
-ශ්‍රී ලංකාවේ දේශපාලන තත්වයන් පිළිබඳව එහිදී දීර්ඝ සාකච්ඡාවක නිරත වී ඇති අතර ශ්‍රී ලංකා නිදහස් පක්ෂය මූලික වී සකස් කරන සන්ධානය සම්බන්ධයෙන් සහ ද්විපාර්ශවික කරුණු සම්බන්ධයෙන් ඉතා සාර්ථක සාකච්ඡාවක නිරත වී තිබේ.
+The Sri Lanka Freedom Party (SLFP) has held a long discussion on political conditions and the SLFP has been a successful discussion on the main and bilateral issues.
 
-එම සාකච්ඡාවේ ඉදිරි පියවර ගණනාවක් ඉදිරි මාස කිහිපය ඇතුළත ක්‍රියාවට නැංවීමට නියමිතය.
+A number of steps will be implemented within the next few months.
 
-රාජ්‍ය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සහකාර ලේකම් අෆ්රීන් අක්තර් මහත්මිය සමඟ ඵලදායී සාකච්ඡාවක නිරත වූ හිටපු ජනාධිපතිතුමා ශ්‍රී ලංකාවට දක්වන නොමසුරු සහයෝගය පිළිබඳව ද සිය ප්‍රසාදය පළ කළේ ය.
+The former President who was engaged in an effective discussion with the Deputy Assistant Secretary of State Department Afrrin Akler expressed his commendation of the generous support of Sri Lanka.
 
-මෙම සාකච්ඡාව සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂයේ විදේශ කටයුතු ලේකම් සජින්ද වාස් ගුණවර්ධන මහතා, ශ්‍රීලනිප මධ්‍යම කාරක සභික, ශ්‍රී ලංකා වෘත්තීයවේදීන්ගේ සංවිධානයේ සභාපති ආචාර්ය චමිල ලියනගේ මහතා සහභාගී වූහ.
+SLFP Foreign Party Foreign Affairs Secretary Sajinda Vaas Gunawardena and Chairman of the SLFP Central Committee and Sri Lanka Institute of Professionals Organized by Dr. Chamila Liyanage.
 
 ◼️
 
 [Data](articles/7977c3c9.json)
+
+[Extended Data](ext_articles/7977c3c9.ext.json)
 
 ---
 
@@ -594,19 +630,21 @@ He also said that the police officer who allegedly helped Harakatta escaped from
 
 ---
 
-### නව පාසල් වාරයේ ආරම්භය ගැන දැනුම්දීමක්
+### Notice of the start of the new school term
 
 *2024-02-15 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193409) · `si`
 
-නව පාසල් වාරය සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කර තිබේ.
+The Ministry of Education has issued a statement regarding the new school term.
 
-ඒ අනුව රජයේ සහ රජයේ අනුමත පෞද්ගලික පාසල්වල තෙවන පාසල්වාරය 16 වන සිකුරාදා දින අවසන් වේ.
+Accordingly, the third school in government and government approved private schools end on Friday 16th.
 
-2024 නව පළමු පාසල් වාරයේ පළමු අදියර පෙබරවාරි මස 19 වන සඳුදා ආරම්භ වීමට නියමිතය.
+The first phase of the new first first first first school is scheduled to begin on Monday, 19th February.
 
 ◼️
 
 [Data](articles/3e6b1e88.json)
+
+[Extended Data](ext_articles/3e6b1e88.ext.json)
 
 ---
 
@@ -752,35 +790,39 @@ Meanwhile, the police have seized 241 grams of heroin, 139 grams of ice, 1 kilog
 
 ---
 
-### රේගුව අකුරට වැඩ
+### Customs fade
 
 *2024-02-15 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193408) · `si`
 
-රේගු වෘත්තීය සමිති සන්ධානය අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයකට එළැඹීමට තීරණය කර තිබේ.
+The Customs Trade Union Alliance has decided to come to a professional program of fracting.
 
-ඉල්ලීම් කිහිපයක් මුල්කරගනිමින් රේගු වෘත්තීය සමිති සන්ධානය මෙම තීරණය ගෙන ඇත.
+The Customs Trade Union Alliance has taken this decision based on several demands.
 
-ඔවුන් පවසන්නේ අද පෙරවරු 9 සිට මෙම වෘත්තීය සමිති ක්‍රියාමාර්ගයට එළැඹීමට තීරණය කළ බවය.
+They say that this trade union action has been decided from 9 am today.
 
 ◼️
 
 [Data](articles/741f9737.json)
 
+[Extended Data](ext_articles/741f9737.ext.json)
+
 ---
 
-### අනුරාධපුර උතුර ජල සම්පාදන ව්‍යාපෘතියේ පළමු අදියර ජන සතු කෙරේ
+### Following are the first stage of the Anuradhapura North Water Supply Project
 
 *2024-02-15 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193407) · `si`
 
-අනුරාධපුර උතුර ජල සැපයුම් ව්‍යාපෘතියේ පළමු අදියර ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් මීට සුළු මොහොතකට පෙර ජනතා අයිතියට පත්කර තිබේ.
+The first phase of the North Water Supply Project was given to the public shortly before the President.
 
-මෙම ව්‍යාපෘතිය ජපන් ජාත්‍යන්තර සහයෝගීතා ආයතනය (JICA) මූල්‍ය ආධාර යටතේ ක්‍රියාත්මක කෙරේ.
+The project is being implemented with financial assistance of the Japan International Cooperation Institute (JICA).
 
-එම අවස්ථාවට ජයිකා ප්‍රධානී ආචාර්ය ටනාකා අකීහිකෝ මහතා ද එක්විය.
+Jaya Chiefsi headed by Dr. Tanaka Akokoo was also present at the occasion.
 
 ◼️
 
 [Data](articles/3522f07e.json)
+
+[Extended Data](ext_articles/3522f07e.ext.json)
 
 ---
 
@@ -824,27 +866,29 @@ We will request applications for a month. In the first round, 20 lakh applicatio
 
 ---
 
-### රටින් පළා ගිය අපරාධකරුවන් 42කට රතු නිවේදන
+### Red announcements for 42 criminals
 
 *2024-02-15 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193406) · `si`
 
-පාතාල සහ මත්ද්‍රව්‍ය අපරාධවලට සම්බන්ධ ව මෙරටින් පැන ගිය අපරාධකරුවන් සඳහා ජාත්‍යන්තර රතු නිවේදන 42ක් මේ වන විට නිකුත් කර ඇති බව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+Acting IGP Tennakoon says that 42 international red notices have been issued for underworld and drug crimes.
 
-කොළඹ ජාතික රෝහල ඉදිරිපිට නව පොලිස් මුරපොළක් විවෘත කිරීමේ අවස්ථාවකට එක්වෙමින් ඔහු මේ බව සඳහන් කළේ ය.
+He was speaking at the opening of a new police post in front of the Colombo National Hospital.
 
-ඉදිරියේ දී ජාත්‍යන්තර පොලීසියේ සහාය ඇති ව මෙම රතු නිවේදන නිකුත් කළ සැකකරුවන් මෙරටට ගෙන්වීමට නියමිත බව ද ඔහු පැවසීය.
+He said the suspects were issued to the country with the assistance of the international police in the future.
 
-අද (15) උදෑසන මෙරටට රැගෙන ආ කුඩු සලිඳුගේ ප්‍රධාන ගෝලයාගෙන් ද මෙරට කුඩු ජාවාරම පිළිබඳ ප්‍රශ්න කර තොරතුරු ලබා ගැනීමට නියමිත බව වැඩබලන පොලිස්පතිවරයා අවධාරණය කළේ ය.
+The acting IGP emphasized that the President of Kudu Swudu Sialita brought to Sri Lanka this morning (15th) is to be questioned and information about the drug racket is to be questioned and obtained information.
 
-එසේම පාතාල නායක නදුන් චින්තක හෙවත් හරක් කටා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් පැන යාමට දැරූ අසාර්ථක උත්සාහයට සහාය දුන් පොලිස් නිලධාරියා ද කඩිනමින් මෙරටට ගෙන්වීමට කටයුතු කරන බව ඔහු පැවසීය.
+He also said that the police officer who had supported the failed attempt to escape the underworld leader Nadu Chintaka or the Beef Rithaka.
 
-ඒ සඳහා ජාත්‍යන්තර පොලීසියේ සහාය ලබාගන්නා බව ද වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සඳහන් කළේ ය.
+Acting IGP Tennakoon stated that the assistance of the international police is also being supported.
 
-මේ අතර, යුක්තිය මෙහෙයුම ද නොනවත්වා ක්‍රියාත්මක කරන බව වැඩබලන පොලිස්පතිවරයා අවසන් වරට ප්‍රකාශ කළේ ය.
+The acting IGP was the last declared that the acting IGP was continuously implementing justice operation.
 
 ◼️
 
 [Data](articles/be673551.json)
+
+[Extended Data](ext_articles/be673551.ext.json)
 
 ---
 
@@ -2053,29 +2097,5 @@ The 35 -year -old man, a 35 -year -old man from Valappanai, was found guilty of 
 [Data](articles/b7686bd9.json)
 
 [Extended Data](ext_articles/b7686bd9.ext.json)
-
----
-
-### 3 students abuse;Two teachers, Odo driver
-
-*2024-02-15 03:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/3மாணவிகள்-துஷ்பிரயோகம்-ஆசிரியர்கள்-இருவர்-ஓடோ-சாரதிக்கு-சிறை/76-333231) · `ta`
-
-The Nuwara Eliya High Court has sentenced the three arrested, Otto driver, two arrested teachers and Otto driver on charges of sexually abusing three students from different schools.
-
-The verdict for two incidents was issued by the Nuwara Eliya High Court Judge Viraj Weerasuriya on Wednesday (14) by the Nuwara Eliya High Court on January 31.
-
-The court has sentenced him to 17 years' imprisonment for allegedly accused of sexually abusing a schoolgirl three times.. He was released from the first charge.
-
-He was filed in the Nuwara Eliya High Court in 2019. In investigations carried out for the past five years, the court has given him the verdict.
-
-The victim should be given a compensation of Rs.. It has also been ordered to pay 25 thousand rupees as penalty. If this is not the case, he should be sentenced to 3 years of postponed six months in prison.
-
-The 35 -year -old man, a 35 -year -old man from Valappanai, was found guilty of allegedly sexually abusing his relative child.
-
-...
-
-[Data](articles/bcf1700f.json)
-
-[Extended Data](ext_articles/bcf1700f.ext.json)
 
 ---

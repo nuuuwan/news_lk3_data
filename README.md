@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 16:02:48**
+As of **2024-02-15 16:17:34**
 
 ## Newspaper Stats
 
-*Scraped **7,248** Articles*
+*Scraped **7,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailyftlk | 389
 adalk | 620
 adaderanalk | 887
 tamilmirrorlk | 892
-virakesarilk | 941
-adaderanasinhalalk | 1,021
+virakesarilk | 943
+adaderanasinhalalk | 1,022
 dailymirrorlk | 1,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,248 (100.0%) of 7,248 articles have been extended.
+7,248 (100.0%) of 7,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### ඉන්දුනීසියාවේ නව පාලකයා ?
+
+*2024-02-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193419) · `si`
+
+ඒ, රටට ජනාධිපතිවරයෙක්, උප ජනාධිපතිවරයෙක්, පාර්ලිමේන්තු සහ ප්‍රාදේශීය මන්ත්‍රීවරුන් තෝරාගැනීමේ අපේක්ෂාවෙනි.
+
+එහිදී සියලුදෙනාගේ වැඩි අවධානයට ලක්වූයේ ඉන්දුනීසියාවේ මීළඟ පාලකයා කවරෙක්ද යන්න සම්බන්ධයෙනි.
+
+මෙවර ඉන්දුනීසියානු ජනාධිපතිවරණ සටන වඩාත් තරගකාරී වූ අතර, ඊට ඉදිරිපත්ව සිටින්නේ එරට දේශපාලනයේ කැපී පෙනෙන චරිත කිහිපයක් වීම ඊට හේතුවය.
+
+වසර 10ක් රට පාලනය කළ ජනාධිපති ජෝකෝ විඩෝඩෝගෙන් පසු රටේ නව දිශානතිය කුමක්ද යන්නත් ජනතාව දැඩි අවධානයෙන් පසුවීමත් මෙවර මැතිවරණය වඩාත් තීරණාත්මක වීමට හේතු වුණි.
+
+ලොව එක් දිනක පැවැත්වෙන විශාලතම මැතිවරණය වන ඉන්දුනීසියානු මැතිවරණය ඊයේ අවසන් වුණේ එවන් වාතාවරණයක ය.
+
+රටේ ජනාධිපති තනතුර වෙනුවෙන් සටන් වැදුණු ප්‍රධාන අපේක්ෂකයින් අතරට, හිටපු ආරක්ෂක ඇමති ප්‍රබෝවෝ සුබියන්තෝ, ජාවා හි හිටපු ආණ්ඩුකාර ගැන්ජර් ප්‍රානොවෝ සහ හිටපු අධ්‍යාපන ඇමතිවරයෙක් වන ජකර්තා ආණ්ඩුකාර ආනීස් බස්වෙදාන් අයත් වුණි.
+
+මැතිවරණයේ ප්‍රතිඵල ඊයේ රාත්‍රියේ සිටම නිකුත්වීමට පටන් ගත්තේ, ඉන්දුනීසියාවට අවේණික වූ පූර්ව ප්‍රතිඵල ලබාදීමේ ක්‍රමවේදය යටතේය.
+
+...
+
+[Data](articles/a977241e.json)
+
+---
+
+### அஸ்வெசும இரண்டாம் கட்டம் : இன்றுமுதல் விண்ணப்பிக்கலாம் - நலன்புரி நன்மைகள் சபையின் தலைவர்
+
+*2024-02-15 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176453) · `ta`
+
+அஸ்வெசும இரண்டாம் கட்டத்திற்காக விண்ணப்பங்கள் ஏற்றுக்கொள்ளும் பணி இன்று (15) முதல் மார்ச் 15 ஆம் திகதி வரை நடைபெறவுள்ளதாகவும், தகுதிபெறும் அனைவருக்கும் எவ்வித தடங்கலும் இன்றி அஸ்வெசும பலன்கள் கிடைக்குமெனவும் நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன தெரிவித்தார்.
+
+அஸ்வெசும முதற்கட்டத்தில்  விண்ணப்பங்களை சமர்ப்பிக்காத குடும்பங்களுக்கும்  விண்ணப்பங்களைச் சமர்ப்பித்தும்  வீட்டுத் தகவல் கணக்கெடுப்புக்கு உட்படுத்தப்படாத எந்தவொரு நபர்களும் இரண்டாம் கட்டத்திற்கு விண்ணப்பிக்க வாய்ப்பு இருப்பதாகவும் அவர் குறிப்பிட்டார்.
+
+அஸ்வெசும இரண்டாம் கட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்வது தொடர்பாக விளக்கமளிக்கும்  ஊடகவியலாளர் சந்திப்பு இன்று வியாழக்கிழமை (15) ஜனாதிபதி ஊடக மையத்தில் நடைபெற்றது. இங்கு கருத்துத் தெரிவிக்கும் போதே நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/d926f289.json)
+
+---
+
+### யாழ். வட்டுக்கோட்டையில் விபத்து ; இருவர் காயம்
+
+*2024-02-15 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176451) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை பொலிஸ் பிரிவிற்குட்பட்ட, வட்டுக்கோட்டை சந்திக்கு அண்மித்த பகுதியில் இன்று வியாழக்கிழமை (15) காலை இரண்டு முச்சக்கர வண்டிகள் ஒன்றுடன் ஒன்று மோதி விபத்து இடம்பெற்றுள்ளது.
+
+இதன்போது, இருவர் படுகாயமடைந்த நிலையில் அவசர நோயாளர் காவுவண்டி மூலம் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு அழைத்துச் செல்லப்பட்டு அங்கு சிகிச்சை பெற்று வருகின்றனர்.
+
+அதிக வேகம் காரணமாக இந்த விபத்து சம்பவித்துள்ளதாக கூறப்படுகிறது. இச்சம்பவம் குறித்து வட்டுக்கோட்டை பொலிஸ் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/e4fa8fcc.json)
+
+---
 
 ### Youth killed in motorcycle
 
@@ -2001,59 +2057,5 @@ Chandrika Bandaranaike said in her announcement that the media reports that they
 [Data](articles/9453c39e.json)
 
 [Extended Data](ext_articles/9453c39e.ext.json)
-
----
-
-### Sri Lanka is a centre of gravity for economic development - JICA President
-
-*2024-02-15 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97284/sri-lanka-is-a-centre-of-gravity-for-economic-development-jica-president-) · `en`
-
-Sri Lanka is a centre of gravity of global economic development, President of Japan International Cooperation Agency (JICA), Dr. Tanaka Akihito has said, reiterating that JICA would continuously assist the development and reform agenda of the island nation.
-
-His remark came during a discussion with Sri Lankan Prime Minister Dinesh Gunawardena at the Temple Trees in Colombo on Wednesday (Feb.14), the PM’s Office said in a press release.
-
-PM Gunawardena thanked Dr Akihito for the support extended to Sri Lanka for decades since JICA became a member of Sri Lanka Aid Consortium in 1968. He urged JICA to consider new projects for rural development, rural road construction, and empowerment of small- and medium-sector farmers and entrepreneurs.
-
-...
-
-[Data](articles/b8ec3cb0.json)
-
-[Extended Data](ext_articles/b8ec3cb0.ext.json)
-
----
-
-### Kudu Salindu’s main accomplice ’Piyuma’ arrested in Dubai
-
-*2024-02-15 09:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kudu-Salindus-main-accomplice-Piyuma-arrested-in-Dubai/108-277060) · `en`
-
-Colombo, Feb 15 (Daily Mirror) - Piyum Hastika, alias 'Piyuma,' identified as a primary accomplice of the notorious drug trafficker Salidu Malshika, also known as 'Kudu Salidu,' was arrested in Dubai and brought to Sri Lanka this morning.
-
-Police said 'Piyuma' had been overseeing a drug network from Dubai. A specialized team from the Criminal Investigation Department (CID) arrested him in Dubai and brought him back to Sri Lanka for further interrogation.
-
-◼️
-
-[Data](articles/feb183ca.json)
-
-[Extended Data](ext_articles/feb183ca.ext.json)
-
----
-
-### Kudu Wasu seized from Dubai
-
-*2024-02-15 09:11:19* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සළිඳුගේ-ප්‍රධානම-ගෝලයා-ඩුබායිහිදී-අල්ලයි/11-408092) · `si`
-
-A group of criminal inquiries called the main criminal inquiry, a group of criminal inquiry into other criminal criminal group, who is currently in custody in custody.Have been taken.
-
-A higher officer of the Ministry of Defense said that the drug was taken from Dubai for heroi.
-
-He was 4:30 am to 4 am to 4 am, from Dubai to SriLankan Airlines. The airplane was taken to the Katunayake airport.
-
-The Mullay member was taken to the Colombo Criminal Investigation Department Headquarters in the Katunayake airport criminal investigation into the premises of the Katunayake airport.
-
-◼️
-
-[Data](articles/208e8e25.json)
-
-[Extended Data](ext_articles/208e8e25.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 00:32:51**
+As of **2024-02-16 00:48:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,074
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,333 (100.0%) of 7,335 articles have been extended.
+7,335 (100.0%) of 7,335 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Addressing the media, he said that the leaders of these trade unions were affili
 
 [Data](articles/4d0333b3.json)
 
+[Extended Data](ext_articles/4d0333b3.ext.json)
+
 ---
 
 ### LGBTIQ+ community representatives meet Speaker
@@ -63,6 +65,8 @@ A private member's Bill to amend the penal code in favour of the LGBT Q plus peo
 ◼️
 
 [Data](articles/72164632.json)
+
+[Extended Data](ext_articles/72164632.ext.json)
 
 ---
 

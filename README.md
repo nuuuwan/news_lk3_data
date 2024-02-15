@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 18:50:45**
+As of **2024-02-15 19:02:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,290 (99.9%) of 7,297 articles have been extended.
+7,297 (100.0%) of 7,297 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,37 +48,47 @@ He stated that the Criminal Investigations Department (CID), after their initial
 
 [Data](articles/6d73d92e.json)
 
+[Extended Data](ext_articles/6d73d92e.ext.json)
+
 ---
 
-### நிகழ்நிலை காப்பு திருத்தச் சட்டமூலம் விரைவில் பாராளுமன்றத்துக்கு சமர்ப்பிக்கப்படும் - நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ்
+### The Ceremony Backup Bill will be presented to Parliament soon -Justice Minister Wijeyadasa Rajapaksa
 
 *2024-02-15 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176473) · `ta`
 
-நிகழ்நிலை காப்புச்சட்டத்தில் மேற்கொள்ள வேண்டிய திருத்தங்கள் சட்ட வரைபு திணைக்களத்துக்கு அனுப்பப்பட்டுள்ளன. புதிய சட்டமூலம் தயாரிக்கப்பட்டு விரைவில் அதனை பாராளுமன்றத்துக்குச் சமர்ப்பிக்க நடவடிக்கை எடுக்கப்படும் என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+Amendments to the Ceremony Backup Act have been sent to the Department of Law. Minister of Justice Wijeyadasa Rajapaksa said that the new Bill will be prepared and that it will be presented to Parliament soon.
 
-நீதி, சிறைச்சாலைகள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சில் வியாழக்கிழமை (15) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking at a press conference held at the Ministry of Justice, Prison and the Constitutional Reform on Thursday (15).
 
-சமூக வலைத்தளங்களைக் கண்காணித்து ஒழுங்குபடுத்துவதற்காக 2017இல் இருந்த அரசாங்கம் நிகழ்நிலை காப்புச் சட்டத்தை கொண்டுவர அன்று நடவடிக்கை எடுத்துவந்தது. குறித்த சட்டம் தொடர்பாக அனைத்து தரப்பினரின் கருத்துக்களைக் கேட்டறிந்து இதற்குத் தேவையான திருத்தங்களை மேற்கொண்டு அதனைப் பாராளுமன்றத்துக்குச் சமர்ப்பிக்கும் பொறுப்பை அன்று ஊடக அமைச்சுக்கு வழங்கப்பட்டிருந்தது.
+In 2017, the government took steps to bring in the Faculty Backup Act to monitor and regulate social websites. The Media Ministry was given the responsibility of listening to the views of all parties on the law and making amendments to it and submitting it to Parliament.
+
+Later, when our parties went to Singapore to discuss the matter with the headquarters of the social networks, they were also in the process of compliance with the two sides to go to self -control without legal restrictions.
+
+However, till 2023, more than 5 thousand complaints were received to the police computer criminal category.
 
 ...
 
 [Data](articles/6c55a15f.json)
 
+[Extended Data](ext_articles/6c55a15f.ext.json)
+
 ---
 
-### இலங்கை - ஆப்கானிஸ்தான் இருபதுக்கு 20 கிரிக்கெட் போட்டி : கிரிக்கெட் ரசிகர்களுக்கு ஒரு அறிவிப்பு
+### Sri Lanka - Afghanistan Twenty20 Cricket Tournament: An announcement for cricket fans
 
 *2024-02-15 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/176472) · `ta`
 
-தம்புள்ளையில் எதிர்வரும் 17 ஆம் திகதி நடைபெறவுள்ள இலங்கை மற்றும் ஆப்கானிஸ்தான் அணிகளுக்கு இடையிலான முதலாவது இருபதுக்கு 20 கிரிக்கெட் போட்டி நடைபெறவுள்ளது.
+The first Twenty20 cricket match between Sri Lanka and Afghanistan will be held in Dambulla on the 17th.
 
-அதன்படி, போட்டியை காண டிக்கெட் வாங்க வருவதை தவிர்க்குமாறு விளையாட்டு ரசிகர்களிடம் கிரிக்கெட் வாரியம் அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+Accordingly, the Cricket Board has issued a statement to sports fans to avoid buying tickets to watch the match.
 
-இதேவேளை, தம்புள்ளை விளையாட்டு மைதானத்திற்கு அருகாமையில் இன்று வியாழக்கிழமை (15)  அதிகளவான மக்கள் போட்டிக்கான டிக்கெட்டுகளை பெறுவதற்காக நீண்ட வரிசையில் காத்திருந்ததாக தெரிவிக்கப்படுகிறது.
+Meanwhile, it is reported that more people were waiting in a long line to get a large number of people's tickets for the competition on Thursday (15) near the Dambulla Playground.
 
 ◼️
 
 [Data](articles/ea1ef8b5.json)
+
+[Extended Data](ext_articles/ea1ef8b5.ext.json)
 
 ---
 
@@ -912,23 +922,29 @@ Sirisena expressed his gratitude to the United States for the continued support 
 
 ---
 
-### අවුරුදු 5කට පසුව දඹුල්ලට එන ක්‍රිකට් බලන්න දැනටමත් පෝලිම්
+### Queue to see cricket to Dambulla after 5 years
 
 *2024-02-15 14:58:02* · [`adalk`](https://www.ada.lk/sports/අවුරුදු-5කට-පසුව-දඹුල්ලට-එන-ක්‍රිකට්-බලන්න-දැනටමත්-පෝලිම්/9-408109) · `si`
 
-වසර පහකට පසුව  දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ ජාත්‍යන්තර තරගයක් පැවැත්වෙන  නිසාවෙන් අතිවිශාල ජනතාවක්  ක්‍රිඩා තරගය නැරඹීම සඳහා ප්‍රවේශපත්‍ර ලබා ගැනීම සඳහා පැමිණෙමින් සිටිති.
+An international competition at the Dambulla International Cricket Stadium five years later is coming to obtain tickets to watch sports competition.
 
-රංගිරි දඹුල්ල ක්‍රිකට් ක්‍රීඩාංගණය ඉදිරිපිට ප්‍රවේශපත්‍ර කවුළුවෙන් ප්‍රවේශපත්‍ර ලබා ගැනීම සඳහා විශාල පිරිසක් 15 දින දවස පුරා රැඳී සිටින අයුරු දැක ගැනීමට හැකි විය.
+A large number of people were able to see the 15 day a large group of 15 days to obtain tickets in front of the Rangiri Dambulla cricket stadium.
 
-කෙසේ වෙතත්  15 දින වන විට  වේශපත්‍ර අවසන් වී රුපියල් තුන්සියේ සහ දහසේ ප්‍රවේශපත්‍ර පමණක් ඉතිරි වී තිබෙන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ නිලධාරීහු පවසති.
+However, SLC officials say that the vehicles have ended on the 15th of the 15th of the 15th.
 
-ඒම ප්‍රවේශපත්‍ර ලබාගැනීමට ද දඹුල්ල ක්‍රිකට් ක්‍රීඩාංගණයේ ඉදිරිපිට දිගු පෝලින් දක්නට තිබිණි. ක්‍රීඩා ලෝලීන් කියා සිටින්නේ සමහර විට තමන්ට තරගය නැරඹීමට අවස්ථාවක් උදා  නොවනු ඇති බවට සැක සංඛා මතුවන බවය.
+There were long polin in front of the Dambulla cricket stadium to obtain tickets.The lovers of the sports are that they are suspected that they will not have the opportunity to watch the match.
 
-රංගිරි  දඹුල්ල ක්‍රිකට් ක්‍රීඩාංගලයේ සුගිය 2018 වසරේ ඔක්තෝම්බර් 13 වන දින ශ්‍රී ලංකාව සහ එංගලන්තය අතරින් පැවති තරඟයෙන් පසුව මේ මස 17 ,19, 21 යන දිනයන්හිදී ශ්‍රී ලංකා කණ්ඩායම සහ ඇෆ්ඝනිස්තාන කණ්ඩායම අතර විස්සයි විස්සේ තරග තුනක් පැවැත්වේ.
+The Sri Lankan team and the Afghanunistan will play three matches between Sri Lanka and the Afghanistan of Sri Lanka and the Afghanistan.
+
+Modernization of the Dambulla Stadium is the first match under the new lights, and the Sri Lanka Cricket Sujeewa Ledu is said to see sports sports competitions.
+
+How to be prepared for the competition at the stadium
 
 ...
 
 [Data](articles/504ea5bc.json)
+
+[Extended Data](ext_articles/504ea5bc.ext.json)
 
 ---
 
@@ -1078,19 +1094,21 @@ Fluo dead body found on a well adjacent to a house in the Kurunegala Police, Kur
 
 ---
 
-### පළාත් සභාවෙන් පොලිස් බලතල ඉවත් කිරීමට අවස්ථාවක්
+### An opportunity to remove police powers from the Provincial Council
 
 *2024-02-15 14:25:47* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-සභාවෙන්-පොලිස්-බලතල-ඉවත්-කිරීමට-අවස්ථාවක්/11-408105) · `si`
 
-වසර 37ක් පුරාවට මෙරට දේශප්‍රේමී ජනතාව තුල පැවති සිහිනයක් සබෑ කරමින් පළාත් සභාවලට ලබා දුන් පොලිස් බලතල ඉන් ඉවත්කිරීමට අවස්ථාව උදාවී ඇතැයි පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+Leader of the JHU Leader Legal Gammanpila says that the police powers of the Patriotic people in Sri Lanka for 37 years have been reduced to the provincial councils.
 
-පළාත් සභාවලින් පොලිස් බලතල ඉවත් කිරීම සඳහා උදය ගම්මන්පිල මහතා  විසින් ඉදිරිපත් කරන ලද විසිදෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ගැසට් මඟින් ප්‍රකාශයට පත් කර ඇති අතර ඒ සම්බන්දයෙන් මාධ්‍ය දැනුම්වත් කරමින් ඒ මහතා අද දින (2024.02.15) මේ බව සදහන් කර සිටියේය.
+The two-day constitutional amendment presented by Udaya Gammanpila has been announced to the removal of police powers from provincial councils.
 
-"13 වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය හරහා පළාත් සභාවලට ලබා දුන් බලතලවලින් වඩාත් භයානකම බලතලය වන්නේ පොලිස් බලතලයි. එම නිසා පොලිස් බලතල පළාත් සභාවලින් ඉවත් කිරීම වසර 37ක් පුරා ජාතිකවාදීන් තුළ පැවැති දිගුකාලීන සිහිනයක්. ඒ හීනය සැබෑ කරන්න ඉතිහාසයේ ප්‍රථම වතාවට පොලිස් බලතල පළාත් සභාවලින් ඉවත් කිරීමේ 22වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය නමින් පනත් කෙටුම්පතක් ඉදිරිපත් කරන්න අපට හැකියාව ලැබුණා.
+"The most dangerous force is the most dangerous force from the powers to the Provincial Councils through the 13th Amendment.. Therefore, a long-term dream of the nationalists for 37 years to remove police powers. For the first time in the history of the history, we were able to submit a Bill by the 22nd Constitutional Revision of the 22nd.
 
 ...
 
 [Data](articles/459fb2a5.json)
+
+[Extended Data](ext_articles/459fb2a5.ext.json)
 
 ---
 

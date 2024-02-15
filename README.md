@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 21:32:53**
+As of **2024-02-15 21:51:44**
 
 ## Newspaper Stats
 
-*Scraped **7,317** Articles*
+*Scraped **7,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 376
 economynextcom | 386
 dailyftlk | 389
 adalk | 629
-adaderanalk | 894
+adaderanalk | 896
 tamilmirrorlk | 896
 virakesarilk | 953
 adaderanasinhalalk | 1,034
@@ -26,27 +26,49 @@ dailymirrorlk | 1,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,315 (100.0%) of 7,317 articles have been extended.
+7,319 (100.0%) of 7,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### විරෝධය මැද ජල ව්‍යාපෘතිය විවෘත කළ ජනපති කී කතාව
+### Three arrested over ‘poisoning’ of two suspects in police custody
 
-*2024-02-15 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193433) · `si`
+*2024-02-15 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97303/three-arrested-over-poisoning-of-two-suspects-in-police-custody) · `en`
 
-ජයිකා ආයතනයේ මූල්‍ය සහාය ඇතිව ක්‍රියාත්මක වූ අනුරාධපුර උතුර ජල සම්පාදන ව්‍යාපෘතියේ පළමු අදියර විවෘත කිරීමේ උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද පැවැත්වුණේ මහකනදරාව ජල පවිත්‍රාගාරයේදීය.
+The Colombo Crimes Division (CCD) has arrested three suspects for allegedly aiding and abetting the incident of a visitor poisoning two suspects who were detained in a cell at the Aduruppuveediya police station recently.
 
-කෙසේවෙතත් ප්‍රදේශවාසීන් පිරිසක් උත්සව භුමිය ඉදිරිපිට විරෝධතාවයක නිරත වුණේ ව්‍යාපෘතිය හේතුවෙන් තම ප්‍රදේශයේ ජල හිඟයක් ඇතිවන බවට චෝදනා කරමිනි.
+The apprehensions have been carried out in the Kotahena and Orugodawatta areas this afternoon (15). Police said that the arrested individuals were identified to be aged 22, 24 and 26 and are the residents of Kotahena, Orugodawatta and Colombo 13 areas.
 
-විරෝධතාවට සහභාගී වූ පිරිස් ඉවත් කිරීමට යාමේදී පොලීසිය සහ විරෝධතාකරුවන් අතර උණුසුම් තත්ත්වයක් හටගත්තේය.
-
-අනතුරුව මෙම ගැටලුව පිළිබඳ ජනාධිපතිවරයා සමග සාකච්ඡා කිරීම සඳහා ගම්වාසීන් පිරිසකට අවස්ථාව හිමිවිය.
+Preliminary police investigations have revealed that the crime has been carried out based on the directive of a notorious criminal who is currently hiding overseas. The Colombo Crimes Division is conducting further investigations regarding the incident.
 
 ...
 
+[Data](articles/db781864.json)
+
+[Extended Data](ext_articles/db781864.ext.json)
+
+---
+
+### President to open the center of the middle water project
+
+*2024-02-15 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193433) · `si`
+
+President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe at the Mahakanadadarawa Water Pavoli.
+
+Residents, however, accused of protest in front of the festive land, accusing of a shortage of water in their area due to the project.
+
+The police and protesters occurred when they were to remove the protest.
+
+Thereafter, a group of villagers were present to discuss the issue.
+
+"Some people come and protest and move home. The wife is listening to why how can I take water?. We both resolve the problem and drink drinking water, so that the economy cannot do anything that the economy is worth the water.The ownership of the licenses are also given to Colombo flats and a good future in a new economy, if there is a surplus, to sell a new economy, if there is a surplus. "
+
+◼️
+
 [Data](articles/cb24acd6.json)
+
+[Extended Data](ext_articles/cb24acd6.ext.json)
 
 ---
 
@@ -118,6 +140,26 @@ The police urge the drivers to run traffic to drive traffic with winding and slo
 
 ---
 
+### OnmaxDT director has secretly left the country, court told
+
+*2024-02-15 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97302/onmaxdt-director-has-secretly-left-the-country-court-told) · `en`
+
+One of the six directors of the company ‘OnmaxDT’, who were arrested and later granted bail over allegations concerning the operating of a Pyramid scheme, has secretly fled the country.
+
+The investigation officers had revealed this to court when the case pertaining to the alleged financial fraud was taken up before the Colombo Magistrate’s Court today (15).
+
+Thus, the investigation officers have pointed out that the sixth suspect of the case, Dhananjaya Jayan Chamara had secretly left the country in this manner, and that investigations are underway with the assistance of Interpol, in order to trace and apprehend the suspect.
+
+Colombo Chief Magistrate Prasanna Alwis ordered the case to be postponed until May 02, 2024.
+
+...
+
+[Data](articles/381d50bb.json)
+
+[Extended Data](ext_articles/381d50bb.ext.json)
+
+---
+
 ### Kalpitiya Police Station
 
 *2024-02-15 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176481) · `ta`
@@ -152,19 +194,21 @@ Officers confiscated national identity cards, driver's license and mobile phones
 
 ---
 
-### මම භුක්ති විඳලා ඉවරයි අහෝසි කළත් හොඳයි
+### I enjoyed the enjoyment but good
 
 *2024-02-15 19:21:55* · [`adalk`](https://www.ada.lk/breaking_news/මම-භුක්ති-විඳලා-ඉවරයි-අහෝසි-කළත්-හොඳයි/11-408113) · `si`
 
-විධායක ජනපතිධුරය තමන් භුක්ති විද අවසන් බවත් එය අහෝසි කිරීම හොඳ දෙයක් බවත් හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා කියයි. වැඩසටහනකින් අනතුරුව මාධ්‍ය යොමුකළ ප්‍රශ්නවලට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+Former President Mahinda Rajapaksa says that the Executive Committee is finished and abolished. He was responding to media issues after a program.
 
-ඔව් ඔව්. මම හිටපු එකනේ. මම දැන් භුක්ති විඳලා ඉවරයි. හැබැයි ඉතින් අහෝසි කළෝත් හොඳයි. අද රටම කියනවානේ ඒක නැති කරන්න කියලා.
+Yeah yeah. I'm on the one. I've just enjoyed. But the undones are good. People say to lose it.
 
-මොන මැතිවරණය තිබුණත් අපි දිනනවා. ජනපතිවරණය වුණත් අපේ අපේක්ෂකයා දිනනවා. මහ මැතිවරණයේ අපේ අපේක්ෂකයෝ දිනනවා.
+The election we will win. The presidential election we win our candidate. Our candidates in general elections win.
 
 ◼️
 
 [Data](articles/8ff356fe.json)
+
+[Extended Data](ext_articles/8ff356fe.ext.json)
 
 ---
 
@@ -2013,49 +2057,5 @@ Furthermore, he mentioned that main accomplice of the notorious underworld figur
 [Data](articles/78fe052b.json)
 
 [Extended Data](ext_articles/78fe052b.ext.json)
-
----
-
-### Valentine's name for the cockroach
-
-*2024-02-15 12:18:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கரப்பான்பூச்சிக்கு-காதலர்-பெயர்/53-333255) · `ta`
-
-Valentine's Day is being celebrated around the world on February 14th. On that day, lovers will be giving gifts to express love, traveling or doing what they like both. While this is customary, a park in the United States has issued a new announcement.
-
-The park has come up with a plan to solve the violence on the ex -boyfriend. That is, the name of the former lover can be named Madagascar, a cockroach in the park.
-
-It is said that putting the name of the ex -boyfriend into the cockroach will be an opportunity to expel the violence and emotions on him.
-
-The Franks Zoo in the United States has been issued this new announcement. The fee for this is $ 15, according to the value of Rs.. 4688 is charged.
-
-This information will be sent to the former boyfriend by e -mail, if the cockroach is paid to the name of the former lover.
-
-Also, if you pay an additional $ 20, many gifts will be sent to the ex -valentine's home in the form of cockroach toy, and cockroach, the Franks Zoo said.
-
-...
-
-[Data](articles/ca4a1bb9.json)
-
-[Extended Data](ext_articles/ca4a1bb9.ext.json)
-
----
-
-### The fees were scored
-
-*2024-02-15 12:15:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலசலக்கூட-கட்டணம்-சதம்-அடித்தது/175-333254) · `ta`
-
-Those who visit Colombo from distant areas will finish their work and use the public sewage for emergencies before returning to their homes through public transport.
-
-Travelers say that the public sewage in Pattikottai Pastiyan Mawatha has suddenly increased to 50 rupees.
-
-Public sewes have been constructed through the Sri Lanka Transport Board, which is based on the Sri Lankan Railway Department.
-
-“Although this public sewage constituency belongs to our Commission, it has been handed over to the contract with the outsiders.. There have been complaints from time to time regarding the fees charged there. We have carried out the investigation and taken action. However, it is currently unaware of the increase in fee. I will search for this and take action. ”
-
-◼️
-
-[Data](articles/b96beb55.json)
-
-[Extended Data](ext_articles/b96beb55.ext.json)
 
 ---

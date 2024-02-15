@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 22:17:35**
+As of **2024-02-15 22:33:05**
 
 ## Newspaper Stats
 
-*Scraped **7,322** Articles*
+*Scraped **7,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,45 @@ dailyftlk | 389
 adalk | 630
 tamilmirrorlk | 896
 adaderanalk | 897
-virakesarilk | 954
-adaderanasinhalalk | 1,034
-dailymirrorlk | 1,069
+virakesarilk | 955
+adaderanasinhalalk | 1,036
+dailymirrorlk | 1,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,320 (100.0%) of 7,322 articles have been extended.
+7,322 (99.9%) of 7,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### முன்னாள் சுகாதார அமைச்சர் கெஹலிய உள்ளிட்ட 7  பேருக்கு மீண்டும் விளக்கமறியல்
+
+*2024-02-15 22:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/176483) · `ta`
+
+தரமற்ற இம்யூனோகுளோபுலின் குப்பிகளை இறக்குமதி செய்த குற்றச்சாட்டில் கைதுசெய்யப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல மற்றும் முன்னாள் சுகாதார அமைச்சின் செயலாளர் ஜானக சந்திரகுப்தா உள்ளிட்ட 7 பேரையும் எதிர்வரும் பெப்ரவரி மாதம் 29ஆம் திகதி வரை மீண்டும் விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+குறித்த வழக்கு இன்று 15 ஆம் திகதி வியாழக்கிழமை மாளிகாகந்த நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ec825cfa.json)
+
+---
+
+### Keheliya Rambukwella re-remanded until February 29
+
+*2024-02-15 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-Rambukwella-re-remanded-until-February-29/108-277101) · `en`
+
+Colombo, Feb 15 (Daily Mirror) -  Former Health Minister Keheliya Rambukwella who was arrested by the Criminal Investigation Department (CID) over the importation of substandard Immunoglobulin injections, was further remanded until February 29.
+
+◼️
+
+[Data](articles/306cf1e7.json)
+
+---
 
 ### Keheliya, ex-Health Secretary and 5 others further remanded
 
@@ -43,6 +69,64 @@ This order was issued when the case was taken up before the Maligakanda Magistra
 ◼️
 
 [Data](articles/982f4451.json)
+
+[Extended Data](ext_articles/982f4451.ext.json)
+
+---
+
+### කෙහෙළිය ඇතුළු 7 දෙනා යළිත් රිමාන්ඩ්
+
+*2024-02-15 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193437) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සැකකරුවන් 07 දෙනා එළඹෙන 29 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධයෙන් වූ නඩුව අද (15) මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී යළි කැඳවනු ලැබූ අවස්ථාවේදී මෙම නියෝගය නිකුත් කෙරුණි.
+
+◼️
+
+[Data](articles/a76b6837.json)
+
+---
+
+### Kalpitiya OIC interdicted over sexual assault on police woman
+
+*2024-02-15 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kalpitiya-OIC-interdicted-over-sexual-assault-on-police-woman/108-277100) · `en`
+
+Kalpitiya, Feb 15 (Daily Mirror) -  The Officer-in-Charge (OIC) of the Kalpitiya Police Station who was charged over sexually assaulting a female police constable, has been interdicted by the National Police Commission with immediate effect.
+
+The Kuliyapitiya Division Senior Superintendent of Police launched an investigation after the alleged incident and subsequently reported the matter to courts.
+
+Police said the OIC surrendered to the Puttalam Magistrate's Court on February 13 over the allegations and was granted bail.
+
+The OIC, an inspector, represented by a lawyer, appeared before the Magistrate and was granted bail on a bond of Rs. 500,000 and ordered to report to the Kuliyapitiya SSP's office on the last Sunday of every month until the case's next hearing on March 6.
+
+The Inspector was interdicted following a probe by the Police Department.
+
+◼️
+
+[Data](articles/46cdbe55.json)
+
+---
+
+### කෙහෙළිය රෑට නින්දෙන් හුස්ම හිරවෙන රෝගයකින් පෙළෙන බව කියයි
+
+*2024-02-15 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193436) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා නින්දෙන් හුස්ම හිරවීමේ රෝගී තත්ත්වයකින් පෙළෙන බව අද (15) අධිකරණයේදී ඔහුගේ නීතීඥයා කරුණු ඉදිරිපත් කළේය.
+
+ජනාධිපති නීතිඥ අනුජ ප්‍රේමරත්න මහතා එහිදී සඳහන් කළේ එම සුවිශේෂී රෝගී තත්ත්වයෙන් පෙළෙන තම සේවාදායකයාට එවැනි අවස්ථාවකදී කෘතිම ව ඔක්සිජන් ලබාදිය යුතු බවය.
+
+ඒ අනුව හිටපු සෞඛ්‍ය අමාත්‍යවරයා වෙනුවෙන් ජනාධිපති නීතීඥ අනුජ ප්‍රේමරත්න මහතා ඇප ඉල්ලීම් ඉදිරිපත් කළේය.
+
+"මගේ සේවාදායකයා මේ වෙද්දී රෝග ගණනාවකින් පෙළෙනවා. විශේෂයෙන්ම ස්වාමීනි... ඔහුව බන්ධනාගාරගත කළාට පස්සේ.. ඔහුගේ රුධිර පීඩනය විචලනය වෙලා. උදරයේ බඩවැල්වල ව්‍යාකූල තත්ත්වයකින් පෙළෙනවා. ඔහුට වකුගඩුවල රෝගී තත්ත්වයකුත් තිබෙනවා. ඒ වගේම ඔහු දියවැඩියා රෝගයෙන් පීඩා විඳින්නෙක්."
+
+"ස්වාමීනි, ඔහුට තිබෙන රෝග අතර ඔහුට තිබෙන සුවිශේෂීම රෝගී තත්ත්වය තමයි රෑට නින්දෙන් හුස්ම හිරවීම. එය රෝගී තත්ත්වයක්. ඔහුට නොදැනුවත්වම ඔහු ලබා ගන්නා ඔක්සිජන් ප්‍රමාණය අඩු වෙනවා. අන්න ඒ වෙලාවට ඔහුට කෘතිමව ඔක්සිජන් සපයන්න ඕනේ."
+
+"ස්වාමීනි, මේ වෙලාවේ බන්ධනාගාරයේ ඔය කියන රෝගී තත්ත්වයට ලබාදෙන්න ඕන ප්‍රතිකාර නැහැ."
+
+...
+
+[Data](articles/5cbad843.json)
 
 ---
 
@@ -178,23 +262,27 @@ The police urge the drivers to run traffic to drive traffic with winding and slo
 
 ---
 
-### 2022දී ඛනිජ තෙල් තොග ගබඩා පර්යන්තයට රු.බි. 28ක් අලාභ වූ හැටි එළියට
+### In 2022, the Petroleum Consignment Terminal. 28888
 
 *2024-02-15 20:00:36* · [`adalk`](https://www.ada.lk/breaking_news/2022දී-ඛනිජ-තෙල්-තොග-ගබඩා-පර්යන්තයට-රු-බි--28ක්-අලාභ-වූ-හැටි-එළියට/11-408114) · `si`
 
-ලංකා ඛනිජ තෙල් තොග ගබඩා පර්යන්ත සමාගමේ ඉන්ධන ගබඩා කිරීම සහ ඉන්ධන බෙදාහැරීම් සම්බන්ධයෙන් KPMG ආයතනය විසින් සිදුකල වෝහාරික විගණනයේ හඳුනාගත් මුලික කරුණු අද සවස තමන් වෙත ඉදිරිපත් කළ බව විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+The Minister of Power and Energy Kanchana Wijesekara says that the basic issues identified by KPMG was submitted to him this evening regarding the fuel storage and fuel distribution of Ceylon Petroleum Storage Terminal.
 
-සිය ෆේස්බුක් ගිණුම හරහා නිවේදන්නිකුත් කරමින් ඔහු පවසන්නේ 2022 වසරේදී තමන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට සිදුකල පැමිණිල්ලට අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මෙම වෝහාරික පරීක්ෂණය සිදුකරන ලෙස විදුලිබල හා බලශක්ති අමාත්‍යාංශයට දන්වා තිබිණ බවයි.
+The Ministry of Power and Energy has informed the Ministry of Power and Energy to conduct this wheat examination by the Criminal Investigations Department (CID) by the CID in 2022.
 
-KPMG ආයතනය සහ ලංකා තෙල් ගබඩා පර්යන්තයේ අභ්‍යන්තර විගණන අංශය විසින් සිදුකල පරීක්ෂණට අනුව,
+Investigations carried out by the Internal Audit Division of KPMG and Ceylon Oil Stores Terminal,
 
-1. 2010 වසරේ සිට තොරතුරු දත්ත ලක්ෂ 13ක් ප්‍රධාන පද්ධති යෙදුමේන් මකා දමා හෝ වෙනස්කර ඇති බවද, ඉන් බහුතරය 2022 වසරේදී ඉන්ධන අර්බුදය ඇති වූ අවස්ථාවේ සිදුව ඇති බවද
+1. The majority system apparatus have been deleted or changed from 2010, the majority has taken place at the time of the fuel crisis in 2022
 
-2. 2022 වසරේ සිදුකල අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැමිණිල්ලට පසුව 2023 වසර වනවිට එම දත්ත මකා දැමීම් හෝ වෙනස් කිරීම් අඩුවීමක් ඇති වී ඇති බවද
+2. The Criminal Investigations Department of the Criminal Investigation Department (CID) has decreased by 2023 after 2023
+
+3. Rs. 28 billion has been recorded in 2022 and the loss of Rs. 28 billion has been reduced to Rs. 4 billion as at 2023
 
 ...
 
 [Data](articles/61b498fc.json)
+
+[Extended Data](ext_articles/61b498fc.ext.json)
 
 ---
 
@@ -1969,95 +2057,5 @@ The US dollar purchasing price was Rs 308.2195 and the sales price were 318.0679
 [Data](articles/75f6494d.json)
 
 [Extended Data](ext_articles/75f6494d.ext.json)
-
----
-
-### ADB US$8mn to develop smart agriculture in Sri Lanka Mahaweli
-
-*2024-02-15 12:47:00* · [`economynextcom`](https://economynext.com/adb-us8mn-to-develop-smart-agriculture-in-sri-lanka-mahaweli-151024/) · `en`
-
-ECONOMYNEXT – The Asian Development Bank will provide 8 million dollars to develop smart agriculture practices using modern technology in the Mahaweli region agriculture and animal husbandry sectors.
-
-“Younger people in the Mahaweli zones have shown a high tendency to engage in agricultural activities with smart technology. By developing the necessary facilities for this, the income of Mahaweli farmers can be increased by 200 percent,” Minister of Irrigation, Wildlife and Forest Conservation Pavithra Wanniarachchi was quoted as saying in a statement by the Department of Government Information.
-
-Wanniarachchi said that she had asked the ADB for financial support and expert knowledge to do this, at a meeting with senior officials of the Mahaweli Authority on Wednesday (14).
-
-The ADB funds will be disbursed through the Mahaweli Authority of Sri Lanka under its Water Security Investment Program, which has introduced a work plan on how the money will be spent, according to the statement.
-
-...
-
-[Data](articles/775202cf.json)
-
-[Extended Data](ext_articles/775202cf.ext.json)
-
----
-
-### Teacher arrested for abusing three students
-
-*2024-02-15 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193414) · `si`
-
-The school has been arrested on suspicion of three schoolchildren in a Tamil school, which was governed by the Hatton Zonal Education Office.
-
-Our correspondent said that the teacher had served as the teacher of the school for about five years.
-
-It is reported that the teacher had attempted to abuse three students of the school and that they had been embarrassed by their SMS.
-
-Answering those messages, the students have lodged a complaint with the girls' police as he was sitting in the classroom.
-
-The 44-year-old suspect teacher was arrested by the OIC Inspector Chandana Gamage of the Watawala Police.
-
-◼️
-
-[Data](articles/a3030837.json)
-
-[Extended Data](ext_articles/a3030837.ext.json)
-
----
-
-### Ministry of Education on the new school installment
-
-*2024-02-15 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176434) · `ta`
-
-Accordingly, the third school installment of state and state -approved private schools ends on Friday 16th.
-
-The new school installment for the year 2024 will commence on Monday 19th February.
-
-◼️
-
-[Data](articles/280045ef.json)
-
-[Extended Data](ext_articles/280045ef.ext.json)
-
----
-
-### Ex-Indonesian general linked to human rights abuses claims victory in presidential election
-
-*2024-02-15 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97292/ex-indonesian-general-linked-to-human-rights-abuses-claims-victory-in-presidential-election) · `en`
-
-A former general linked to past human rights abuses claimed victory Wednesday in Indonesia’s presidential election, a result that would raise questions about the commitment to democratic values in the sprawling island nation that is the world’s third-largest democracy.
-
-Defense Minister Prabowo Subianto, 72, presented himself as an heir to immensely popular sitting President Joko Widodo, whose son was his running mate. Citing unofficial results, Subianto told thousands of supporters in the capital, Jakarta, that his victory was “the victory of all Indonesians.”
-
-There was no declaration by election officials, and the two former provincial governors who also competed in the balloting did not concede defeat.
-
-...
-
-[Data](articles/10a8590f.json)
-
-[Extended Data](ext_articles/10a8590f.ext.json)
-
----
-
-### Head of Japan International Cooperation Organization met Prime Minister
-
-*2024-02-15 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176425) · `ta`
-
-A meeting between Prime Minister Dinesh Gunawardena and Japan International Cooperation Organization (JICA) Chairman Dr. Tanaka Akihito.
-
-◼️
-
-[Data](articles/8062736f.json)
-
-[Extended Data](ext_articles/8062736f.ext.json)
 
 ---

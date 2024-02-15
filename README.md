@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 00:17:18**
+As of **2024-02-16 00:32:51**
 
 ## Newspaper Stats
 
-*Scraped **7,333** Articles*
+*Scraped **7,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ tamilmirrorlk | 897
 adaderanalk | 899
 virakesarilk | 956
 adaderanasinhalalk | 1,037
-dailymirrorlk | 1,072
+dailymirrorlk | 1,074
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,333 (100.0%) of 7,333 articles have been extended.
+7,333 (100.0%) of 7,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### No one can bring down hospital system except for doctors, nurses
+
+*2024-02-15 23:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-one-can-bring-down-hospital-system-except-for-doctors-nurses/108-277103) · `en`
+
+Colombo, Feb 15 (Daily Mirror) - Apart from medical professionals such as doctors and nurses, no one has the capability to collapse the hospital system. If such an occurrence does happen for two days, the subsequent consequences are unpredictable, Government Medical Officers' Forum (GMOF) president Dr. Rukshan Bellana said.
+
+Addressing the media, he said that the leaders of these trade unions were affiliated with higher officials attached to the Trade Union Division of the President's office.
+
+"We have repeatedly said that the services of healthcare workers are no longer needed in hospitals. Another unsuccessful strike has been concluded. Hospitals only need the expertise of professionals from health trade unions, including doctors, nurses, and administrative staff. These ineffective trade unions cannot overthrow the government," he stated.
+
+...
+
+[Data](articles/4d0333b3.json)
+
+---
+
+### LGBTIQ+ community representatives meet Speaker
+
+*2024-02-15 23:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LGBTIQ-community-representatives-meet-Speaker/108-277105) · `en`
+
+Colombo, Feb. 15 (Daily Mirror)- The LGBTIQ+ community representatives breifed Speaker Mahinda Yapa Abeywardana on the issues faced by the LGBTIQ+ community in Sri Lanka.
+
+A group of Sri Lankan LGBTIQ+ community representatives met with Speaker Mahinda Yapa Abeywardana recently in Parliament, the Communications Department of Parliament said.
+
+They had drawn the attention of the Speaker regarding the Private Member's Bill brought in by MP Premnath C. Dolawatte to amend Sections 365 and 365A of the Penal Code of Sri Lanka.
+
+A private member's Bill to amend the penal code in favour of the LGBT Q plus people was presented to Parliament by MP Premanath Dolawatta in April last year, which seeks to amend the penal code in support of the lesbian, gay, bisexual, transgender, queer and others.
+
+◼️
+
+[Data](articles/72164632.json)
+
+---
 
 ### 7 people, including Keheliya, in the interrogation
 
@@ -76,7 +110,7 @@ The Direct Airline Service Agreement between Israel and Sri Lanka was signed thi
 
 Colombo, Feb. 15 (Daily Mirror)- Claiming that the proposed electricity tariff revision by about 3 percent is not at all sufficient, the National People's Power (NPP) said the tariffs should be reduced by at least 28 to 33 percent.
 
-Making submissions during the public hearing at the Public Utilities Commission of Sri Lanka (PCUSL) with regard to the proposed electricity tariff revision, former NPP member Dr. Nalinda Jayatissa said people must receive an electricity tariff revision of at least 28 to 33 percent.
+Making submissions during the public hearing at the Public Utilities Commission of Sri Lanka (PCUSL) with regard to the proposed electricity tariff revision, former NPP MP Dr. Nalinda Jayatissa said people must receive an electricity tariff revision of at least 28 to 33 percent.
 
 He said the CEB's new proposal to reduce electricity tariff by some 3 percent is not at all satisfactory and added that the CEB in its new proposal had submitted some unacceptable increase in expenditure.
 
@@ -2047,51 +2081,5 @@ Anthony Albanes was divorced by Carmel Tebbutt a year ago and there is a 23-year
 [Data](articles/ebc208a3.json)
 
 [Extended Data](ext_articles/ebc208a3.ext.json)
-
----
-
-### Excessive spending calls for killing
-
-*2024-02-15 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193416) · `si`
-
-A youth who was traveling on a motorcycle in Mahadenuwagama, Kalutara North police Division, was hit by a motorbike.
-
-Our correspondent said that the accident occurred at around 11.30 pm yesterday.
-
-The young man has been killed and he was seriously injured and injured when he was traveling from his home.
-
-The Motorcyclist was unable to control speed.
-
-The deceased has been identified as 25-year-old Gihan Madusanka Lakmal.
-
-◼️
-
-[Data](articles/c23f870d.json)
-
-[Extended Data](ext_articles/c23f870d.ext.json)
-
----
-
-### Arrest
-
-*2024-02-15 13:16:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மேசைகளில்-எழுதிய-விஞ்ஞான-ஆசிரியர்-கைது/76-333259) · `ta`
-
-The science teacher has been arrested on charges of attempting to abuse 3 students.
-
-The school teacher from the Hatton Educational Zone has been arrested on Thursday (15), the Vattawala police said.
-
-He has been arrested on charges of attempting to rape three students in Grade 10 education, said Santana Kamage, Superintendent of Police at the Vattawala Police Station.
-
-The teacher, who has been serving as a science teacher in the school for nearly 5 years, has sent a number of texts to the three students.
-
-Furious, the teacher went to the students' classroom and on the tables in front of the rays sitting in front of the students, "Is it compatible with my idea?"Written.
-
-As a result, the three students have lodged a complaint at the Vattawala Police Station. Accordingly, the scientific teacher has been arrested.
-
-...
-
-[Data](articles/c6b9394a.json)
-
-[Extended Data](ext_articles/c6b9394a.ext.json)
 
 ---

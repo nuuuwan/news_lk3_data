@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 13:33:00**
+As of **2024-02-15 13:51:53**
 
 ## Newspaper Stats
 
-*Scraped **7,217** Articles*
+*Scraped **7,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 375
 islandlk | 376
 dailyftlk | 389
 adalk | 614
-adaderanalk | 884
+adaderanalk | 885
 tamilmirrorlk | 888
 virakesarilk | 929
 adaderanasinhalalk | 1,017
@@ -26,11 +26,33 @@ dailymirrorlk | 1,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,217 (100.0%) of 7,217 articles have been extended.
+7,218 (100.0%) of 7,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### JICA chief and President Ranil discuss economic reforms, investment projects
+
+*2024-02-15 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97293/jica-chief-and-president-ranil-discuss-economic-reforms-investment-projects) · `en`
+
+The President of Japan International Cooperation Agency (JICA) has commended President Ranil Wickremesinghe’s commitment to the program aimed at implementing economic reforms in Sri Lanka, acknowledging its challenging nature.
+
+Dr. Tanaka Akihiko made these remarks when he called on the Sri Lankan leader on Thursday (Feb.14), according to the President’s Media Division (PMD).
+
+In response, President Wickremesinghe emphasized his focus on ensuring the swift resumption of the investment projects, including the expansion of the Bandaranaike International Airport (BIA) in Katunayake, the Light Rail Transit (LRT), and the central expressway.
+
+The Head of State also conveyed appreciation for the continued support provided by the Government of Japan and JICA towards Sri Lanka during the economic crisis.
+
+Dr. Akihiko elaborated on JICA’s efforts, highlighting the priority of concluding debt restructuring while also aiming for the resumption of stalled projects.
+
+...
+
+[Data](articles/53060506.json)
+
+[Extended Data](ext_articles/53060506.ext.json)
+
+---
 
 ### Ex-Indonesian general linked to human rights abuses claims victory in presidential election
 
@@ -2075,29 +2097,5 @@ He further stated that the convention would be held on the day of the party to t
 [Data](articles/a7445232.json)
 
 [Extended Data](ext_articles/a7445232.ext.json)
-
----
-
-### 3 students abuse;Two teachers, Odo driver
-
-*2024-02-15 03:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3மாணவிகள்-துஷ்பிரயோகம்-ஆசிரியர்கள்-இருவர்-ஓடோ-சாரதிக்கு-சிறை/175-333231) · `ta`
-
-The Nuwara Eliya High Court has sentenced the three arrested, Otto driver, two arrested teachers and Otto driver on charges of sexually abusing three students from different schools.
-
-The verdict for two incidents was issued by the Nuwara Eliya High Court Judge Viraj Weerasuriya on Wednesday (14) by the Nuwara Eliya High Court on January 31.
-
-The court has sentenced him to 17 years' imprisonment for allegedly accused of sexually abusing a schoolgirl three times.. He was released from the first charge.
-
-He was filed in the Nuwara Eliya High Court in 2019. In investigations carried out for the past five years, the court has given him the verdict.
-
-The victim should be given a compensation of Rs.. It has also been ordered to pay 25 thousand rupees as penalty. If this is not the case, he should be sentenced to 3 years of postponed six months in prison.
-
-The 35 -year -old man, a 35 -year -old man from Valappanai, was found guilty of allegedly sexually abusing his relative child.
-
-...
-
-[Data](articles/b7686bd9.json)
-
-[Extended Data](ext_articles/b7686bd9.ext.json)
 
 ---

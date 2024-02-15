@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 12:17:25**
+As of **2024-02-15 12:32:47**
 
 ## Newspaper Stats
 
-*Scraped **7,182** Articles*
+*Scraped **7,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,43 +12,61 @@ colombotelegraphcom | 80
 bbccomsinhala | 96
 dbsjeyarajcom | 150
 newsfirstlk | 363
-economynextcom | 371
+economynextcom | 375
 islandlk | 376
 dailyftlk | 389
-adalk | 610
+adalk | 612
 tamilmirrorlk | 875
-adaderanalk | 881
+adaderanalk | 882
 virakesarilk | 928
 adaderanasinhalalk | 1,010
-dailymirrorlk | 1,053
+dailymirrorlk | 1,056
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,174 (99.9%) of 7,182 articles have been extended.
+7,182 (99.9%) of 7,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### கொழும்பு, மோதரையில் உணவக உரிமையாளர் மீது துப்பாக்கிப் பிரயோகம் : சந்தேக நபர்கள் பயணித்த கார் கண்டுபிடிக்கப்பட்டது!
+### First school term of 2024 to begin next Monday
+
+*2024-02-15 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97290/first-school-term-of-2024-to-begin-next-monday) · `en`
+
+The Ministry of Education has issued a special notice announcing the dates to commence the first term of government and government-approved private schools for 2024.
+
+Accordingly, the first phase of the first term of the 2024 academic year is scheduled to begin next Monday (Feb.19).
+
+The third term of the academic year 2023 will end tomorrow (Feb.16).
+
+◼️
+
+[Data](articles/ab072995.json)
+
+---
+
+### Firing on a restaurant owner in Cup, Colombo
 
 *2024-02-15 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176430) · `ta`
 
-கொழும்பு, மோதரையில் உணவகம் ஒன்றை நடத்தும் நபர் ஒருவர், நேற்று முன்தினம் செவ்வாய்க்கிழமை (13) இரவு அவரது உணவகத்துக்கு முன்பாக துப்பாக்கிச் சூட்டுக்கு இலக்காகியுள்ளார்.
+A man who runs a restaurant in Colombo, Colombo, was shot dead in front of his restaurant on Tuesday night (13).
 
-இந்தத் துப்பாக்கிப் பிரயோகத்தை மேற்கொள்வதற்காக சந்தேக நபர்கள் பயன்படுத்தியதாக கூறப்படும் வெள்ளை நிற கார்  ஜா-எலவை அண்மித்த  பகுதியில் கைவிடப்பட்ட நிலையில் கண்டெடுக்கப்பட்டுள்ளது.
+The white car allegedly used by the suspects to carry out the shooting has been found abandoned in the recent area.
 
-மோதர வீதியில் அமைந்துள்ள  உணவகம் ஒன்றின் முகாமையாளரை இலக்கு வைத்தே  இந்த துப்பாக்ககிப் பிரயோகம்  மேற்கொள்ளப்பட்டுள்ளதாக  பொலிஸ் ஊடகப் பேச்சாளர் அலுவலகம் தெரிவித்துள்ளது.
+The police media spokesman's office said that the guards were targeted by a manager of a restaurant located on Mondara Road.
 
-துப்பாக்கிச் சூடடுக்கு இலக்கான 52 வயதான உணவக உரிமையாளர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். அவரது வலது தோள்பட்டை, கழுத்து மற்றும் கால் ஆகிய பகுதிகளில் துப்பாக்கிச் சூடு நடத்தப்பட்டதாக தெரிவிக்கப்படுகிறது.
+A 52 -year -old restaurant owner has been admitted to Colombo National Hospital. It is reported that his right shoulder, neck and leg were shot.
 
-துப்பாக்கிச் சூடு நடத்தியவர்கள் அடையாளம் காணப்படவில்லை என்றும் பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+The police media unit said that the shooters were not identified.
 
 ◼️
 
 [Data](articles/e41286df.json)
+
+[Extended Data](ext_articles/e41286df.ext.json)
 
 ---
 
@@ -66,25 +84,47 @@ Accordingly, the Customs Trade Union Alliance has vowed to continue their work-t
 
 [Data](articles/cc782717.json)
 
+[Extended Data](ext_articles/cc782717.ext.json)
+
 ---
 
-### சிறுவர் துஷ்பிரயோகம் தொடர்பாக 2023 இல் 10 ஆயிரம் முறைப்பாடுகள்!
+### Schools third term ends tomorrow
+
+*2024-02-15 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schools-third-term-ends-tomorrow/108-277086) · `en`
+
+The Education Ministry today announced the end of the third term of government and government approved private schools.
+
+Accordingly, the third term for 2023 is scheduled to end tomorrow (16).
+
+The first phase of the first school term for 2024 will begin on Monday (19 February).
+
+◼️
+
+[Data](articles/ab4182dc.json)
+
+---
+
+### 10 thousand complaints in 2023 regarding child abuse!
 
 *2024-02-15 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176420) · `ta`
 
-சிறுவர் துஷ்பிரயோகம் தொடர்பாக கடந்த 2023ஆம் ஆண்டு 10 ஆயிரம் முறைப்பாடுகள் தேசிய சிறுவர் பாதுகாப்பு அதிகார சபைக்கு கிடைத்துள்ளன.
+The National Child Protection Authority has received 10 thousand complaints in 2023 regarding child abuse.
 
-இது தொடர்பில் தேசிய சிறுவர் பாதுகாப்பு அதிகார சபையின் தலைவர் உதய குமார அமரசிங்க தெரிவிக்கையில்,
+Udaya Kumara Amarasinghe, Chairman of the National Child Protection Authority, said in this regard.
 
-2023 ஜனவரி முதலாம் திகதி முதல் டிசம்பர் 31ஆம் திகதி வரையிலான காலத்தில் 9,434 முறைப்பாடுகள் தேசிய சிறுவர் பாதுகாப்பு அதிகார சபைக்கு கிடைத்துள்ளன.
+From January 1, 2023 to December 31, 9,434 complaints have been received by the National Child Protection Authority.
 
-அவற்றில் குறிப்பாக, 2,242 முறைப்பாடுகள் சிறுவர் துஷ்பிரயோகம் தொடர்பானவை. 472 முறைப்பாடுகள் பாலியல் துஷ்பிரயோகம் தொடர்பானவை. 404 முறைப்பாடுகள் பாரதூரமான பாலியல் துஷ்பிரயோகம் தொடர்பானவை. 51 முறைப்பாடுகள் சிறுமிகள் மீதான வன்முறைகள் தொடர்பானவை. 6 முறைப்பாடுகள் சிறுவர்களை ஆபாசத்துக்கு பயன்படுத்தியமை தொடர்பானவை.
+In particular, 2,242 complaints are related to child abuse. 472 complaints are related to sexual abuse. 404 complaints are related to serious sexual abuse. 51 complaints related to violence on girls. 6 complaints are related to the use of children for pornography.
 
-இவை தவிர, சிறுவர்களை போதைப்பொருள் கடத்தலுக்கு பயன்படுத்துதல், தொழில்களுக்கு அமர்த்துதல், குடும்ப வன்முறையை பிரயோகித்து துன்புறுத்தல், புறக்கணித்தல், கடத்தல், காயப்படுத்துதல், சிறுவர்களை விற்பனை செய்தல், பாடசாலை கல்வியை பெற்றுத் தராதிருத்தல் போன்றவை தொடர்பிலும் பல்வேறு முறைப்பாடுகள் கிடைத்துள்ளன.
+In addition, there are various complaints about drug trafficking, employment of employment, use of family violence, harassment, boycotting, abduction, injuring, selling children, and not getting school education.
+
+Meanwhile, the National Child Protection Authority has received 7,466 complaints regarding child abuse in 2022.
 
 ...
 
 [Data](articles/b0b8973f.json)
+
+[Extended Data](ext_articles/b0b8973f.ext.json)
 
 ---
 
@@ -104,39 +144,83 @@ Furthermore, the former president has refuted the media reports published in thi
 
 [Data](articles/49b54fd8.json)
 
+[Extended Data](ext_articles/49b54fd8.ext.json)
+
 ---
 
-### பிரதமரை சந்தித்தார் ஜப்பான் சர்வதேச ஒத்துழைப்பு நிறுவனத்தின் தலைவர்
+### Head of Japan International Cooperation Organization met Prime Minister
 
 *2024-02-15 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176425) · `ta`
 
-பிரதமர் தினேஷ் குணவர்தனவுக்கும் ஜப்பான் சர்வதேச ஒத்துழைப்பு நிறுவனத்தின் (JICA) தலைவர் கலாநிதி தனாகா அகிஹிட்டோவுக்கும் இடையிலான சந்திப்பொன்று இடம்பெற்றுள்ளது.
+A meeting between Prime Minister Dinesh Gunawardena and Japan International Cooperation Organization (JICA) Chairman Dr. Tanaka Akihito.
 
 ◼️
 
 [Data](articles/8062736f.json)
 
+[Extended Data](ext_articles/8062736f.ext.json)
+
 ---
 
-### அமெரிக்க இராஜாங்கத் திணைக்களத்தின் பிரதி உதவிச் செயலாளரைச்  சந்தித்த மைத்திரிபால!
+### Maithripala met Deputy Assistant Secretary of the US State Department!
 
 *2024-02-15 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176426) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கும் அமெரிக்க இராஜாங்கத் திணைக்களத்தின் தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்குப் பொறுப்பான பிரதி உதவிச் செயலாளர் அஃப்ரின் அக்தருக்குமிடையிலான சந்திப்பு நேற்று (14) அமெரிக்க இராஜாங்கத் திணைக்களத்தில் இடம்பெற்றது.
+A meeting between former President Maithripala Sirisena and Deputy Assistant Secretary of State for South and Central Asian Affairs of the US State Department, Afrin Akhtar, took place yesterday (14) at the US State Department.
 
-இலங்கையின் அரசியல் நிலவரங்கள் குறித்து நீண்ட கலந்துரையாடல் இடம்பெற்றதுடன் ஸ்ரீலங்கா சுதந்திரக் கட்சியினால் உருவாக்கப்பட்ட கூட்டணி மற்றும் இருதரப்பு விடயங்கள் தொடர்பிலும் கலந்துரையாடப்பட்டது.
+A long discussion was held on the political situation of Sri Lanka and the coalition and bilateral issues formed by the Sri Lanka Freedom Party.
 
-இலங்கைக்கு வழங்கிய ஆதரவுக்கும்  தனது பாராட்டுகளை முன்னாள் ஜனாதிபதி மைத்தரிபால சிறிசேன தெரிவித்தார்.
+Former President Maithripala Sirisena expressed his congratulations to Sri Lanka's support.
 
 ◼️
 
 [Data](articles/423e88c0.json)
 
+[Extended Data](ext_articles/423e88c0.ext.json)
+
 ---
 
-### පාසල් දරුවන්ගේ දිවා ආහාරයට බිත්තර සැපයීමට ගම් මට්ටමෙන් කුකුළ් ගොවිපොළවල් තුන්සිය දෙකක්
+### Maithripala Sirisena meets key US official in Washington DC
+
+*2024-02-15 11:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-Sirisena-meets-key-US-official-in-Washington-DC/108-277085) · `en`
+
+USA, Feb 15 (Daily Mirror) Former President Maithripala Sirisena who is on a visit to the United States held talks with US Deputy Assistant Secretary of State at the State Department Afreen Akhter.
+
+The visit took place ahead of a political alliance to be formed by his Sri Lanka Freedom Party prior to the Presidential election.
+
+According to Sirisena's office, matters relating to bilateral affairs were discussed.
+
+◼️
+
+[Data](articles/516757fe.json)
+
+---
+
+### Three hundred cock farms at village level to supply eggs to school children
 
 *2024-02-15 11:33:46* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-දරුවන්ගේ-දිවා-ආහාරයට-බිත්තර-සැපයීමට-ගම්-මට්ටමෙන්-කුකුළ්-ගොවිපොළවල්-තුන්සිය-දෙකක්/11-408098) · `si`
+
+The Department of Uva Provincial Department (DM Siriwardena) said that the Department of Uva Provincial Livestock was commenced at the village level to supply eggs to the lunch for children in schools in the Moneragala district.
+
+Facilities will be established in the district with 302 families in the district on the financial provisions of the World Food Organization.
+
+55 chicks will be given to one family.
+
+The necessary financial provisions and equipment will be provided to install a 150 square feet and provides chicken foods free of charge to six months.
+
+The remaining eggs can only be salad after they have paid lunch to the suppliers who provide lunch at the nearest school.
+
+◼️
+
+[Data](articles/3f27077c.json)
+
+[Extended Data](ext_articles/3f27077c.ext.json)
+
+---
+
+### පාසල් දරුවන්ගේ දිවා ආහාරයට බිත්තර සැපයීමට කුකුළ් ගොවිපොළවල්
+
+*2024-02-15 11:33:46* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-දරුවන්ගේ-දිවා-ආහාරයට-බිත්තර-සැපයීමට-කුකුළ්-ගොවිපොළවල්/11-408098) · `si`
 
 මොනරාගල දිස්ත්‍රික්කයේ පාසල් වල ඉගෙනුම ලබන දරුදැරියන්ගේ දිවා ආහාරයට බිත්තර සැපයීමට ගම් මට්ටමෙන් කුකුළ් ගොවිපොළවල් තුන්සියදෙකක් ආරම්භකිරීමට ඌව පළාත් පශුසම්පත් දෙපාර්තමේන්තුව කටයුතුයොදා ඇතැයි මොනරාගල පශුසම්පත් නියෝජ්‍ය අධ්‍යක්ෂක ඩී.එම් සිරිවර්ධන මහතා පැවසීය.
 
@@ -150,7 +234,45 @@ Furthermore, the former president has refuted the media reports published in thi
 
 ◼️
 
-[Data](articles/3f27077c.json)
+[Data](articles/962a6add.json)
+
+---
+
+### Sri Lanka state minister to arm farmers with air rifles for monkey war
+
+*2024-02-15 11:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-minister-to-arm-farmers-with-air-rifles-for-monkey-war-151020/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Minister for Finance Ranjith Siyambalapitiya said he is giving funds for farmers in his district to acquire air rifles to battle torque monkeys.
+
+Moves to export the torque macaques (Macaca sinica) to China met with fierce resistance from animal rights activists who feared they will be eaten.
+
+Minister Siyambalapitiya had said he will not step back from the decision whatever the pressure that is brought to him.
+
+Money has been allocated to farmer organizations in the Kegalle district through his decentralized budget, he said.
+
+Torque monkeys, along with wild boar, peacocks and elephants are considered as pests by farmers who say they are attacking crops. (Colombo/Feb15/2024)
+
+◼️
+
+[Data](articles/8d03ff2e.json)
+
+---
+
+### Sri Lanka’s Abans hopes to raise 2bn through debenture sale
+
+*2024-02-15 11:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-abans-hopes-to-raise-2bn-through-debenture-sale-151013/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Abans Plc, a consumer goods retailer, has said the company is planning to raise up to 2 billion rupees through a debenture sale.
+
+Subject to obtaining all necessary regulatory and shareholder approvals, the company will initially issue ten million rated, unsecured, senior, redeemable debentures of hundred (LKR 100.00) each.
+
+“With the option to issue a further ten million of the said debentures in the event of an oversubscription,” their company secretaries said in a Colombo Stock Exchange filing.
+
+“As such a maximum amount of Rupees Two Billion (LKR 2,000,000,000) would be raised by the issue of a maximum of Twenty Million (20,000,000) Debentures each with a Par Value of LKR 100/-.”
+
+...
+
+[Data](articles/a5fb784f.json)
 
 ---
 
@@ -209,6 +331,30 @@ Of the 121 suspects, 121 are reported to have been issued by six opened drug cri
 [Data](articles/97bf341b.json)
 
 [Extended Data](ext_articles/97bf341b.ext.json)
+
+---
+
+### Sri Lanka exporters optimistic over 2024, want political stability and energy: survey
+
+*2024-02-15 11:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-exporters-optimistic-over-2024-want-political-stability-and-energy-survey-151015/) · `en`
+
+ECONOMYNEXT – Sri Lanka exporters have expressed optimism about the economic and growth prospects for 2024, despite challenges, with service exporters seeing a lack of skilled labour, a survey by the Ceylon Chamber of Commerce has found.
+
+Political stability and consistent energy were identified as key facilitators.
+
+About 53 percent of the respondents to CCC’s Exporter Barometer Survey had expanded their workforce, with 21 percent saying they had “significantly” expanded.
+
+About 26 percent said they had not expanded the workforce and had seen falling demand and worker migration.
+
+“Service-oriented exporters grappled with a lack of skilled labour, highlighting a sector-specific challenge that warrants attention,” the chamber said.
+
+“However, most exporters identified new business opportunities, leading to workforce expansion to meet growing production demands.”
+
+About 39 percent of the respondents expected moderate economic growth in 2024, one percent high growth and 13 percent no change.
+
+...
+
+[Data](articles/cd1a7185.json)
 
 ---
 
@@ -464,6 +610,22 @@ At the Kandy District Coordinating Committee meeting held at the Kandy District 
 
 ---
 
+### බදුල්ල වායුගෝලයේ ගැටලුවක්
+
+*2024-02-15 10:05:05* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-වායුගෝලයේ-ගැටලුවක්/11-408095) · `si`
+
+දිවයින තුලට බාහිරින්  හමාඑන සුළං සමඟ කුඩා ප්‍රමාණයේ දූවිලි අංශු (මීදුම වැනි) මේ දිනවල බදුල්ල දිස්ත්‍රික්කය පුරා වායූගෝලයේ ව්‍යාප්ත වී ඇති හෙයින් ජනතාවගේ සෞඛ්‍ය  තත්ත්වය ට එය  බලපාන හෙයින් ජනතාවට ප්‍රවේශමෙන් සිටින්නැයි ආපදා කළමනාකරණ මධ්‍යස්ථානයේ බදුල්ල දිස්ත්‍රික් සහකාර අධ්‍යක්ෂ ඊ.එම්.එල් උදයකුමාර මහතා අද (15) පැවැසීය.
+
+ඉකුත් දින දෙක තුල හා අද (15) දින බදුල්ල දිස්ත්‍රික්කයේ වායු ගෝලයේ දූවිලි අංශු සාන්ද්‍රනය පැවතිය යුතු මට්ටම ට වඩා (Air quality index) වැඩි ප්‍රමාණයක් දිස්ත්‍රික්කය පුරා පැතිර පවතින බවත් , එය ජනතාවගේ සාමාන්‍ය  සෞඛ්‍ය තත්වයට බලපෑම් කරන බවද හෙතෙම කීය .
+
+විශේෂයෙන් ශ්වසන රෝග, ශ්වසන ආබාධ ඇති අය මෙන්ම වයෝවෘද්ධ , වැඩිහිටියන් මින් ප්‍රවේශම් විය යුතු බවත් පවසන උදයකුමාර මහතා හුස්ම ගැනීමේ අපහසුතා ඇති විය හැකි හෙයින් මුඛ ආවරණ පැලදීම , විවෘත පරිසරය තුළ හැසිරීමෙන් වැලකී සිටීම තුලින් මේ තත්වයෙන්  මිදීමට හැකි බවද සදහන් කළේය .
+
+◼️
+
+[Data](articles/7fd3e543.json)
+
+---
+
 ### 25 Sri Lankans deported
 
 *2024-02-15 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193405) · `si`
@@ -481,6 +643,30 @@ However, it is reported that a specific date deported has not been published yet
 [Data](articles/0e318e21.json)
 
 [Extended Data](ext_articles/0e318e21.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 313.00/30 to the US dollar
+
+*2024-02-15 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-313-00-30-to-the-us-dollar-150997/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 313.00/30 to the US dollar Thursday, from 313.00/10 on Wednesday, dealers said.
+
+Demand for dollars for oil imports is still muted dealers say, despite hydro power generation easing, as Sinopec does not buy dollars in the market.
+
+Bond yields were down. Treasury bill yields fell across maturities at Wednesday’s auction.
+
+A bond maturing on 01.08.2026 was quoted at 10.65/85 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.40/60 percent from 11.30/45 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.85/90 percent from 11.80/85 percent.
+
+The Colombo stock market opened up; the All Share Price Index was up 0.35 percent at 10,568; and the S&P SL20 was up 0.60 percent at 3,042. (Colombo/Feb15/2024)
+
+◼️
+
+[Data](articles/3b123a99.json)
 
 ---
 
@@ -532,6 +718,28 @@ Sri Lanka’s tourism sector is gearing up for a major transformation, as the au
 
 ---
 
+### Ambitious plans underway to make SL a ‘happening’ tourist destination
+
+*2024-02-15 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ambitious-plans-underway-to-make-SL-a-happening-tourist-destination/155-277052) · `en`
+
+Authorities of Sri Lanka Tourism address the media to share plans to make the island nation more attractive for international visitors
+
+SLTPB set to enter into agreements with a consortium of global brands, both foreign and domestic
+
+Objective is to significantly boost tourism activities, with goal of increasing average daily spend of tourists
+
+Plans afoot to collaborate with European Union to launch a wellness tourism campaign
+
+‘‘We will make it a more happening destination; 2024 is going to be a very positive year”
+
+Sri Lanka’s tourism sector is gearing up for a major transformation, as the authorities unveil an ambitious plan to make the country one of the world’s most dynamic and sought-after destinations.
+
+...
+
+[Data](articles/7bf75f42.json)
+
+---
+
 ### One dead and 21 injured near Super Bowl parade
 
 *2024-02-15 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/One-dead-and-21-injured-near-Super-Bowl-parade/107-277078) · `en`
@@ -572,21 +780,25 @@ The National Front of Civil Organizations (NFCO) today staged a protest in front
 
 ---
 
-### යුක්තියට 656ක් කොටුවෙයි
+### 656 justice falls into
 
 *2024-02-15 09:48:50* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තියට-656ක්-කොටුවෙයි/11-408094) · `si`
 
-යුක්තිය මෙහෙයුම යටතේ සිදුකළ මත්ද්‍රව්‍ය වැටලීම්වලින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන්  535  අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 121 ඇතුළු සැකකරුවන් 656 දෙනෙකු අත්අඩංගුවට ගත් බව පොලිස් මූලස්ථානය පවසයි.
+The 121 suspects including 121 suspects were arrested in the list of drugs carried out by drug rays carried out under the operation carried out.
 
-ඒ සමග හෙරොයින් ග්‍රෑම් 241 මිලි ග්‍රෑම් 913  , අයිස් ග්‍රෑම් 139  මිලි ග්‍රෑම් 892  ,ගංජා  කිලෝ 01 ග්‍රෑම් 744 ,ගංජා පැල 27,780 , මාවා  ග්‍රෑම් 10  , මත්පෙති 1521 , මදන මෝදක ග්‍රෑම්  73 , තුල් ග්‍රැම් 35 මිලිග්‍රෑම් 600 අත්අඩංගුවට ගෙන තිබේ.
+The 600 g of march, 1521 garments, 73 garn, 1521 guns, 1521 garn, 73 garments, 73 garments, 73, 73 garments, 73 garments, 73 m, 944 g of heroin.
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් 535 දෙනා අතර, පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය සහ පොලිස් විශේෂ කාර්යංශයේ ලැයිස්තුවේ සිටි සැකකරුවන් 16 දෙනෙකු සිටින බව පැවසේ.
+There are also 16 suspects in the list of police narcotics bunker and the Police Special Secretariat.
 
-ඒ අතරින් සැකකරුවන් එක් අයෙකු රැදවුම් නියෝග මත රඳවා ගෙන විමර්ශනය සිදුකිරීමට නියමිත අතර තුන්  දෙනෙකු  පුනරුත්තාපන මධ්‍යස්ථාන වෙත යොමු කෙරේ.
+The suspects are to be detained and investigated on detention orders and three will be referred to rehabilitation centers.
 
-...
+Also, among the 121 suspects arrested on the list of the list of the suspects arrested for the Criminal Sector, the police headquarters says that there are 13 suspects who have been released on drugs and non-drug errors in various crimes.
+
+◼️
 
 [Data](articles/1f0ab5ab.json)
+
+[Extended Data](ext_articles/1f0ab5ab.ext.json)
 
 ---
 
@@ -1827,197 +2039,5 @@ It is time Sri Lankans considered in depth, the impact of energy on their day to
 [Data](articles/692469dd.json)
 
 [Extended Data](ext_articles/692469dd.ext.json)
-
----
-
-### Can We Build a World-Class City with Third-World Public Transport?
-
-*2024-02-15 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Can-We-Build-a-World-Class-City-with-Third-World-Public-Transport/172-277035) · `en`
-
-As I was admiring a  skyscraper, I was jolted back to reality by a rickety old bus pulling up in front of it. Somehow, the blueprint to make Colombo world-class seems to have forgotten all about public transport
-
-Colombo is a city in a hurry. New hotels, shopping malls and highways are mushrooming everywhere, and the skyline keeps growing upwards, promising to take us to a world-class future. I went to Galle Face and Port City recently to soak in the Global City in progress. As I was admiring a brightly-lit skyscraper, I was jolted back to reality by a rickety old bus pulling up in front of it. Somehow, the blueprint to make Colombo world-class seems to have forgotten all about public transport.
-
-...
-
-[Data](articles/4d1cfbe5.json)
-
-[Extended Data](ext_articles/4d1cfbe5.ext.json)
-
----
-
-### Wildlife: 50,000 Species Meet the Needs of Billions Worldwide
-
-*2024-02-15 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Wildlife-50-000-Species-Meet-the-Needs-of-Billions-Worldwide/172-277034) · `en`
-
-Despite widespread criticism especially by some media groups which obviously have some vested interests, President Ranil Wickremesinghe – giving steady leadership to the heavily divided Sri Lanka Podujana Peramuna (SLPP) government – is making  steady progress in pulling Sri Lanka out of its worst ever economic and debt crisis. These moves come in an election year but some critics are alleging that the President might try to put off the elections by changing the Executive Presidential system of government. While these areas are important, the politicians and the people need to focus on areas, which have long-term consequences and add beauty to this paradise island. One such area is wildlife, though most people do not have direct interests or connections with it.
-
-...
-
-[Data](articles/d5d7d03f.json)
-
-[Extended Data](ext_articles/d5d7d03f.ext.json)
-
----
-
-### 2024-02-14 (Wednesday)
-
-### Most members of the opposition will unite with the government - Piyal Nishantha de Silva
-
-*2024-02-14 23:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/176404) · `ta`
-
-No one can bring down the Sri Lanka PA. Fisheries Minister Piel Nishantha de Silva said that most members of the opposition party will unite with the government through a widespread political coalition.
-
-He made this statement during a media briefing held at the PA office in Kalutara on Wednesday (14);
-
-Opposition leader Sajith Premadasa and Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayake, who are currently vocal for the government to take charge of the government, did not come forward to take over the government when the economic crisis intensified in 2022.
-
-The leader of the Janatha Vimukthi Peramuna, including the Leader of the Opposition, was talking about the government without taking responsibility for the government, as the government would take charge of the government in a crisis.
-
-...
-
-[Data](articles/9d68de32.json)
-
-[Extended Data](ext_articles/9d68de32.ext.json)
-
----
-
-### Accident in Jaffna
-
-*2024-02-14 23:20:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-கோர-விபத்து-குழந்தை-உட்பட-இருவர்-மரணம்/71-333226) · `ta`
-
-Two people, including a child, were killed when a train collided with a train in Jaffna
-
-Three people were admitted to the Jaffna Teaching Hospital after being injured.
-
-The 32 -year -old Sayanthan and his daughter, Absara, a 6 -month -old baby Absara from the area.
-
-The public said that the accident was due to the lack of a railway shopkeeper at the site of the accident. Remble
-
-◼️
-
-[Data](articles/f5209a02.json)
-
-[Extended Data](ext_articles/f5209a02.ext.json)
-
----
-
-### The autocrat, the oligarchy and the postponement plot against generational succession
-
-*2024-02-14 23:19:25* · [`dailyftlk`](https://www.ft.lk/columns/The-autocrat-the-oligarchy-and-the-postponement-plot-against-generational-succession/4-758484) · `en`
-
-“Our economy, initially plummeted with unprecedented speed, has undergone a remarkable turnaround at rocket speed, resembling a V-shaped recovery…unlike other nations, we have managed to rejuvenate our economy swiftly, evading enduring difficulties and pains…”
-
-— President Ranil Wickremesinghe, Address to the Nation, Feb 7th 2024 —
-
-The UNP-led old order fell in 1956 because Sir John Kotelawala was socio-culturally insensitive; tone deaf. Ranil is similarly incapacitated, in the socio-economic dimension. He said that economic recovery was proceeding at “rocket speed”, and “unlike other nations, we have managed to rejuvenate our economy swiftly, evading enduring difficulties and pains…”
-
-...
-
-[Data](articles/965d7213.json)
-
-[Extended Data](ext_articles/965d7213.ext.json)
-
----
-
-### Indo -Sri Lanka Alliance
-
-*2024-02-14 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176385) · `ta`
-
-To expedite the economic growth of Sri Lanka, a Indo-Sri Lanka Corporation Program has been implemented to increase the capacity of the public sector in Sri Lanka.
-
-During the recent visit of President Ranil Wickremesinghe, the two leaders agreed to strengthen the two countries for the benefit of the two countries through the new sectors.. Especially focus on improving contacts between the two countries, especially.
-
-Currently, India has launched a massive program to build the capacity of civil services and the Indian-Sri Lanka alliance, which is building the state sector, will give you the opportunity to implement the structure of state institutions in Sri Lanka in a very innovative and effective manner.
-
-The Director General of the National Center for Good Governance for Good Governance for Good Governance, Bharat Lal, recently visited Sri Lanka with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
-
-...
-
-[Data](articles/798ef8b9.json)
-
-[Extended Data](ext_articles/798ef8b9.ext.json)
-
----
-
-### Sri Lanka won
-
-*2024-02-14 23:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அணி-வெற்றி/175-333225) · `ta`
-
-Sri Lanka won the third ODI match between Afghanistan and Sri Lanka today (14).
-
-The match was held at the Pallekela International Cricket Ground in Kandy, and Afghanistan won the first round of the currency spin.
-
-Accordingly, Afghanistan scored 266 runs for the loss of all wickets in 48.2 overs.
-
-In response, the Sri Lankan team won the target of 267 runs and won the target of 267 in 35.2 overs.. Remble
-
-◼️
-
-[Data](articles/09c03fe8.json)
-
-[Extended Data](ext_articles/09c03fe8.ext.json)
-
----
-
-### In the music of Srikanth Deva in the 'Thenisa Breeze', the song "Mamakuttima" was released in the lyrics of the poet Pottuvil Azmin.
-
-*2024-02-14 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176403) · `ta`
-
-Sri Lankan poet Pottuvil Azmin, a new Alpam song "Mammakutima" has been released in the minds of Tamils around the world through private songs and Tamil film songs.
-
-London -based businessman and social worker Dr. The song, which Malakumar, produced on behalf of his Malakumar creation, recently composed the National Award -winning composer Shrikanth Deva.His father and famous composer Deva sings this exciting song in her magnetic voice and special style.
-
-Promo songs written by Pottuvil Azmin, superstar Rajinikanth and Ajith Kumar starrer 'Viswasam' were celebrated by fans in Tamil cinema with the song 'Tapallam Thappa' starring Vijay Antony.
-
-'Muthu Muthu Karuvaaya', 'Takamdeera Vanaye Idinatadamma,' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '. Also, I have recently been released in Sri Lanka and treated all over the world 'Io Sami you want me.. He wrote the song 'The song' is a lie.
-
-...
-
-[Data](articles/236cfa99.json)
-
-[Extended Data](ext_articles/236cfa99.ext.json)
-
----
-
-### Fire near Baseline Railway Station
-
-*2024-02-14 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176401) · `ta`
-
-A fire broke out on Wednesday afternoon (14) in a vacant land near the Baseline Railway Station.
-
-Police are investigating the cause of the fire.
-
-◼️
-
-[Data](articles/77e77fc1.json)
-
-[Extended Data](ext_articles/77e77fc1.ext.json)
-
----
-
-### Sri Lanka celebrate 3-0 sweep against Afghanistan
-
-*2024-02-14 22:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-celebrate-3-0-sweep-against-Afghanistan/108-277046) · `en`
-
-Kandy, Feb 14 (AFP) - Sri Lanka completed a sweep of the three-match ODI series against Afghanistan, confidently beating the tourists in the final game by seven wickets Wednesday at Pallekele.
-
-Set a target of 267, Sri Lanka won with 88 balls remaining, as their domination of the opponents continued.
-
-Opening batsman Pathum Nissanka smashed his fifth one-day international hundred and the second in the series for the hosts.
-
-Nissanka finished the series with 346 runs, the most by a Sri Lankan in a three-match series.
-
-Roshan Mahanama had posted 267 runs in three ODIs against Zimbabwe in 1994, but Nissanka's effort is now the highest by a distance.
-
-It is also the fourth highest tally in a three-match series in the world.
-
-Nissanka had posted an unbeaten 210 in the first game, becoming the first Sri Lankan to score a double hundred in ODI cricket.
-
-...
-
-[Data](articles/88a5472f.json)
-
-[Extended Data](ext_articles/88a5472f.ext.json)
 
 ---

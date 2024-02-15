@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 12:02:36**
+As of **2024-02-15 12:17:25**
 
 ## Newspaper Stats
 
-*Scraped **7,174** Articles*
+*Scraped **7,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 371
 islandlk | 376
 dailyftlk | 389
-adalk | 608
+adalk | 610
 tamilmirrorlk | 875
-adaderanalk | 879
-virakesarilk | 924
+adaderanalk | 881
+virakesarilk | 928
 adaderanasinhalalk | 1,010
 dailymirrorlk | 1,053
 
@@ -26,11 +26,133 @@ dailymirrorlk | 1,053
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,174 (100.0%) of 7,174 articles have been extended.
+7,174 (99.9%) of 7,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### கொழும்பு, மோதரையில் உணவக உரிமையாளர் மீது துப்பாக்கிப் பிரயோகம் : சந்தேக நபர்கள் பயணித்த கார் கண்டுபிடிக்கப்பட்டது!
+
+*2024-02-15 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176430) · `ta`
+
+கொழும்பு, மோதரையில் உணவகம் ஒன்றை நடத்தும் நபர் ஒருவர், நேற்று முன்தினம் செவ்வாய்க்கிழமை (13) இரவு அவரது உணவகத்துக்கு முன்பாக துப்பாக்கிச் சூட்டுக்கு இலக்காகியுள்ளார்.
+
+இந்தத் துப்பாக்கிப் பிரயோகத்தை மேற்கொள்வதற்காக சந்தேக நபர்கள் பயன்படுத்தியதாக கூறப்படும் வெள்ளை நிற கார்  ஜா-எலவை அண்மித்த  பகுதியில் கைவிடப்பட்ட நிலையில் கண்டெடுக்கப்பட்டுள்ளது.
+
+மோதர வீதியில் அமைந்துள்ள  உணவகம் ஒன்றின் முகாமையாளரை இலக்கு வைத்தே  இந்த துப்பாக்ககிப் பிரயோகம்  மேற்கொள்ளப்பட்டுள்ளதாக  பொலிஸ் ஊடகப் பேச்சாளர் அலுவலகம் தெரிவித்துள்ளது.
+
+துப்பாக்கிச் சூடடுக்கு இலக்கான 52 வயதான உணவக உரிமையாளர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். அவரது வலது தோள்பட்டை, கழுத்து மற்றும் கால் ஆகிய பகுதிகளில் துப்பாக்கிச் சூடு நடத்தப்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+துப்பாக்கிச் சூடு நடத்தியவர்கள் அடையாளம் காணப்படவில்லை என்றும் பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/e41286df.json)
+
+---
+
+### Customs trade unions launch work-to-rule campaign
+
+*2024-02-15 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97289/customs-trade-unions-launch-work-to-rule-campaign) · `en`
+
+The Sri Lanka Customs Trade Union Alliance has decided to launch a work-to-rule campaign starting today (Feb. 15).
+
+This decision has been arrived at over several demands including solutions to their issues such as stalled promotions and discrepancies in wages.
+
+Accordingly, the Customs Trade Union Alliance has vowed to continue their work-to-rule campaign, which was launched at 9.00 a.m. today, until their demands are met.
+
+◼️
+
+[Data](articles/cc782717.json)
+
+---
+
+### சிறுவர் துஷ்பிரயோகம் தொடர்பாக 2023 இல் 10 ஆயிரம் முறைப்பாடுகள்!
+
+*2024-02-15 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176420) · `ta`
+
+சிறுவர் துஷ்பிரயோகம் தொடர்பாக கடந்த 2023ஆம் ஆண்டு 10 ஆயிரம் முறைப்பாடுகள் தேசிய சிறுவர் பாதுகாப்பு அதிகார சபைக்கு கிடைத்துள்ளன.
+
+இது தொடர்பில் தேசிய சிறுவர் பாதுகாப்பு அதிகார சபையின் தலைவர் உதய குமார அமரசிங்க தெரிவிக்கையில்,
+
+2023 ஜனவரி முதலாம் திகதி முதல் டிசம்பர் 31ஆம் திகதி வரையிலான காலத்தில் 9,434 முறைப்பாடுகள் தேசிய சிறுவர் பாதுகாப்பு அதிகார சபைக்கு கிடைத்துள்ளன.
+
+அவற்றில் குறிப்பாக, 2,242 முறைப்பாடுகள் சிறுவர் துஷ்பிரயோகம் தொடர்பானவை. 472 முறைப்பாடுகள் பாலியல் துஷ்பிரயோகம் தொடர்பானவை. 404 முறைப்பாடுகள் பாரதூரமான பாலியல் துஷ்பிரயோகம் தொடர்பானவை. 51 முறைப்பாடுகள் சிறுமிகள் மீதான வன்முறைகள் தொடர்பானவை. 6 முறைப்பாடுகள் சிறுவர்களை ஆபாசத்துக்கு பயன்படுத்தியமை தொடர்பானவை.
+
+இவை தவிர, சிறுவர்களை போதைப்பொருள் கடத்தலுக்கு பயன்படுத்துதல், தொழில்களுக்கு அமர்த்துதல், குடும்ப வன்முறையை பிரயோகித்து துன்புறுத்தல், புறக்கணித்தல், கடத்தல், காயப்படுத்துதல், சிறுவர்களை விற்பனை செய்தல், பாடசாலை கல்வியை பெற்றுத் தராதிருத்தல் போன்றவை தொடர்பிலும் பல்வேறு முறைப்பாடுகள் கிடைத்துள்ளன.
+
+...
+
+[Data](articles/b0b8973f.json)
+
+---
+
+### No presidential candidate from SLPP?
+
+*2024-02-15 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97288/no-presidential-candidate-from-slpp) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) MP Prasanna Ranatunga says that no candidate from his party will likely vie for presidency in the upcoming election.
+
+Meanwhile, former President Chandrika Bandaranaike Kumaratunga clarified that she has not taken any decision yet to head the leadership board of Podujana Eksath Peramuna.
+
+Issuing a statement, Kumaratunga also pointed out that she has yet to take a decision on supporting a candidate in the upcoming presidential election.
+
+Furthermore, the former president has refuted the media reports published in this regard.
+
+◼️
+
+[Data](articles/49b54fd8.json)
+
+---
+
+### பிரதமரை சந்தித்தார் ஜப்பான் சர்வதேச ஒத்துழைப்பு நிறுவனத்தின் தலைவர்
+
+*2024-02-15 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176425) · `ta`
+
+பிரதமர் தினேஷ் குணவர்தனவுக்கும் ஜப்பான் சர்வதேச ஒத்துழைப்பு நிறுவனத்தின் (JICA) தலைவர் கலாநிதி தனாகா அகிஹிட்டோவுக்கும் இடையிலான சந்திப்பொன்று இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/8062736f.json)
+
+---
+
+### அமெரிக்க இராஜாங்கத் திணைக்களத்தின் பிரதி உதவிச் செயலாளரைச்  சந்தித்த மைத்திரிபால!
+
+*2024-02-15 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176426) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கும் அமெரிக்க இராஜாங்கத் திணைக்களத்தின் தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்குப் பொறுப்பான பிரதி உதவிச் செயலாளர் அஃப்ரின் அக்தருக்குமிடையிலான சந்திப்பு நேற்று (14) அமெரிக்க இராஜாங்கத் திணைக்களத்தில் இடம்பெற்றது.
+
+இலங்கையின் அரசியல் நிலவரங்கள் குறித்து நீண்ட கலந்துரையாடல் இடம்பெற்றதுடன் ஸ்ரீலங்கா சுதந்திரக் கட்சியினால் உருவாக்கப்பட்ட கூட்டணி மற்றும் இருதரப்பு விடயங்கள் தொடர்பிலும் கலந்துரையாடப்பட்டது.
+
+இலங்கைக்கு வழங்கிய ஆதரவுக்கும்  தனது பாராட்டுகளை முன்னாள் ஜனாதிபதி மைத்தரிபால சிறிசேன தெரிவித்தார்.
+
+◼️
+
+[Data](articles/423e88c0.json)
+
+---
+
+### පාසල් දරුවන්ගේ දිවා ආහාරයට බිත්තර සැපයීමට ගම් මට්ටමෙන් කුකුළ් ගොවිපොළවල් තුන්සිය දෙකක්
+
+*2024-02-15 11:33:46* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-දරුවන්ගේ-දිවා-ආහාරයට-බිත්තර-සැපයීමට-ගම්-මට්ටමෙන්-කුකුළ්-ගොවිපොළවල්-තුන්සිය-දෙකක්/11-408098) · `si`
+
+මොනරාගල දිස්ත්‍රික්කයේ පාසල් වල ඉගෙනුම ලබන දරුදැරියන්ගේ දිවා ආහාරයට බිත්තර සැපයීමට ගම් මට්ටමෙන් කුකුළ් ගොවිපොළවල් තුන්සියදෙකක් ආරම්භකිරීමට ඌව පළාත් පශුසම්පත් දෙපාර්තමේන්තුව කටයුතුයොදා ඇතැයි මොනරාගල පශුසම්පත් නියෝජ්‍ය අධ්‍යක්ෂක ඩී.එම් සිරිවර්ධන මහතා පැවසීය.
+
+ලෝක ආහාර සංවිධානයේ මූල්‍ය ප්‍රතිපාදන මත ක්‍රියාත්මක මෙම වැඩසටහනේදී දිස්ත්‍රික්කය තුළ පවුල් 302 සම්බන්ධ කරගෙන ගොවිපොළවල් ඇතිකිරීමට නියමිතය.
+
+එක් පවුලක් සඳහා මසක් වයසැති කිකිළි පැටව් 55 දෙනෙකු ලබාදීමට නියමිතය.
+
+වර්ග අඩි 150 කින් යුත් කුකුළ් කූඩුවක් ඉඳිකිරීම සඳහා අවශ්‍ය මූල්‍ය ප්‍රතිපාදන සහ උපකරණ ලබාදෙන අතර මාස 06 යනතුරු අවශ්‍ය කුකුළ් කෑම නොමිලේ ලබාදෙනු ලබයි.
+
+නිෂ්පාදිත බිත්තර ලඟම පිහිටි පාසලේ දරුවන්ට දිවා ආහාරය සපයන සැපයුම්කරුවන්ට සාධාරණ මිලකට ලබාදීමෙන් අනතුරුව ඉතිරිවන බිත්තර පමණක් පිටස්තර පාරිභෝගිකයින්ට අලෙවිකිරීමට පුළුවන.
+
+◼️
+
+[Data](articles/3f27077c.json)
+
+---
 
 ### Red announcement against 42 people who fled the country!
 
@@ -447,6 +569,24 @@ The National Front of Civil Organizations (NFCO) today staged a protest in front
 [Data](articles/e2e825e8.json)
 
 [Extended Data](ext_articles/e2e825e8.ext.json)
+
+---
+
+### යුක්තියට 656ක් කොටුවෙයි
+
+*2024-02-15 09:48:50* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තියට-656ක්-කොටුවෙයි/11-408094) · `si`
+
+යුක්තිය මෙහෙයුම යටතේ සිදුකළ මත්ද්‍රව්‍ය වැටලීම්වලින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන්  535  අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 121 ඇතුළු සැකකරුවන් 656 දෙනෙකු අත්අඩංගුවට ගත් බව පොලිස් මූලස්ථානය පවසයි.
+
+ඒ සමග හෙරොයින් ග්‍රෑම් 241 මිලි ග්‍රෑම් 913  , අයිස් ග්‍රෑම් 139  මිලි ග්‍රෑම් 892  ,ගංජා  කිලෝ 01 ග්‍රෑම් 744 ,ගංජා පැල 27,780 , මාවා  ග්‍රෑම් 10  , මත්පෙති 1521 , මදන මෝදක ග්‍රෑම්  73 , තුල් ග්‍රැම් 35 මිලිග්‍රෑම් 600 අත්අඩංගුවට ගෙන තිබේ.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් 535 දෙනා අතර, පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය සහ පොලිස් විශේෂ කාර්යංශයේ ලැයිස්තුවේ සිටි සැකකරුවන් 16 දෙනෙකු සිටින බව පැවසේ.
+
+ඒ අතරින් සැකකරුවන් එක් අයෙකු රැදවුම් නියෝග මත රඳවා ගෙන විමර්ශනය සිදුකිරීමට නියමිත අතර තුන්  දෙනෙකු  පුනරුත්තාපන මධ්‍යස්ථාන වෙත යොමු කෙරේ.
+
+...
+
+[Data](articles/1f0ab5ab.json)
 
 ---
 
@@ -1879,177 +2019,5 @@ Nissanka had posted an unbeaten 210 in the first game, becoming the first Sri La
 [Data](articles/88a5472f.json)
 
 [Extended Data](ext_articles/88a5472f.ext.json)
-
----
-
-### Beth and again 346 runs in the series;Sri Lanka fully acquired the series with Afghan
-
-*2024-02-14 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176402) · `ta`
-
-Sri Lanka won by 7 wickets in the 3rd and last international ODIs held on Wednesday (14) at the Pallekele International Cricket Stadium in Kandy against Afghanistan.
-
-With this victory, Sri Lanka fully acquired the 3 -0 series in the match 3 - 0.
-
-In response to a target of 267 runs for Afghanistan, Sri Lanka won the match with only 3 wickets in 35.2 overs.
-
-Beth and Nissanka's great century and Avishka Fernando's half -century made Sri Lanka's success.
-
-Beth and Nissan, who scored a rabbit in the series, completed 2,000 runs in international ODI cricket when he scored 44th runs in his 52nd match.
-
-With this, he set the record for completing 2,000 runs in Sri Lankan players in international ODI cricket.
-
-In today's last match, Beth, Nissanka and Avishka Fernando played the most effectively and shared 173 runs.
-
-This is the second cent of the series they shared in the series. In the first match, the two shared 182 runs in the opening wicket.
-
-...
-
-[Data](articles/7b0d9e6f.json)
-
-[Extended Data](ext_articles/7b0d9e6f.ext.json)
-
----
-
-### Online Passenger Transport Authority in work
-
-*2024-02-14 22:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193392) · `si`
-
-The Court has been sentenced to two years in prison for two years of prison to a road passenger traffic manager who had bribery charges.
-
-The punishment has been sentenced to a running manager of the North Western Provincial Road Passenger Transport Authority.
-
-The case has been given the case to be heard in front of Colombo High Court Judge Amal Ranaraja.
-
-The suspect had been imprisoned under four accusations carried out by the Bribery Commission of Bribery or Corruption in 2019.
-
-The suspect manager has taken a sum of Rs. 100,000 before a tactic of bribery or corruption.
-
-The suspect is a fine of Rs. 20,000 for the suspect.
-
-If not hunting, a six-month passenger sentence is sentenced to another 6 months.
-
-◼️
-
-[Data](articles/08708c46.json)
-
-[Extended Data](ext_articles/08708c46.ext.json)
-
----
-
-### Suspect arrested for abuse incident
-
-*2024-02-14 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193391) · `si`
-
-A person has been arrested by the police on charges that a girl was abused at a bus.
-
-The arrested has been arrested for a 36-year-old married couple.
-
-He has been accused of molesting the suspect in a bus traveling from Moneragala to Kandy.
-
-◼️
-
-[Data](articles/c8ced00d.json)
-
-[Extended Data](ext_articles/c8ced00d.ext.json)
-
----
-
-### Sri Lanka Air Force reveals ambitious aircraft acquisition plans
-
-*2024-02-14 22:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Air-Force-reveals-ambitious-aircraft-acquisition-plans/108-277025) · `en`
-
-Colombo, Feb. 14 (Daily Mirror)- Air Force Commander Udeni Rajapaksa said today that the Sri Lanka Air Force (SLAF) has embarked on several programmes aimed at modernizing its fleet and enhancing operational capabilities to meet future challenges effectively.
-
-During a media briefing, the Commander outlined the Sri Lanka Air Force's comprehensive strategy to bolster its technological prowess and aircraft inventory.
-
-He said that the SLAF has submitted requests to the US Air Force for the acquisition of two C130 aircraft, with negotiations underway to secure newer models than those currently in possession. " The SLAF has already procured two new Y12 aircraft of Chinese origin as part of its fleet expansion efforts," the Commander said.
-
-...
-
-[Data](articles/16a5a8fc.json)
-
-[Extended Data](ext_articles/16a5a8fc.ext.json)
-
----
-
-### Sri Lanka thrash Afghanistan in 3rd ODI to complete 3-0 series sweep
-
-*2024-02-14 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97278/sri-lanka-thrash-afghanistan-in-3rd-odi-to-complete-3-0-series-sweep) · `en`
-
-Sri Lanka registered a clean-sweep 3-0 series win against Afghanistan after winning the final and the third ODI by 07 wickets at the Pallekele International Cricket Stadium.
-
-Chasing a target of 267 set by the Afghans, Sri Lanka posted 267/3 in 35.2 overs with the help of the brilliant century hit by Pathum Nissanka.
-
-Afghan captain Hashmatullah Shahidi won the toss and elected to bat first.
-
-Rahmanullah Gurbaz (48) and Rahmat Shah (65) were able to give a good start post Ibrahim Zadran (13) got dismissed. But Afghanistan could not kick on in the next overs. Azmatullah Omarzai (54) and Ikram Alikhil (32) tried their best but in the last overs the batters could not end strong. Afghanistan were bowled out for 266 in 48.2 overs.
-
-...
-
-[Data](articles/7f6ad5c5.json)
-
-[Extended Data](ext_articles/7f6ad5c5.ext.json)
-
----
-
-### Gaming regulator yet to be established; COPF raises concerns
-
-*2024-02-14 21:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gaming-regulator-yet-to-be-established-COPF-raises-concerns/108-277024) · `en`
-
-Parliament, Feb. 14 (Daily Mirror)- The Committee on Public Finance (COPF) summoned the Director-General of Fiscal Policy to inquire into the delay in establishing a gaming regulator which is instrumental in attracting investment and recouping billions of lost revenue.
-
-It was revealed at the COPF meeting that a gaming regulator had not been established before deadline of December 31, 2023., the Communications Department of Parliament said.
-
-Stressing the vital role of a gaming regulator in both attracting investment and recouping billions of lost revenue, COPF members emphasized the urgency of establishing this legislation and highlighted that inadequate regulations result in substantial losses for the government.
-
-Representatives of the Finance Ministry stressed the need for additional expertise to construct a robust revenue model similar to that of Singapore.
-
-...
-
-[Data](articles/8a08a8c2.json)
-
-[Extended Data](ext_articles/8a08a8c2.ext.json)
-
----
-
-### Increase in tourist arrivals
-
-*2024-02-14 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193390) · `si`
-
-Meanwhile, the Sri Lanka Tourism Promotion Bureau has held a news conference today, a number of tourist arrivals from the 1st of the year 2024 to this day.
-
-The number of tourists arrived in the island in the first 13 days of February, 98,455.
-
-At the time of January, 3,08,708 tourists visited Sri Lanka to date.
-
-◼️
-
-[Data](articles/18e90d21.json)
-
-[Extended Data](ext_articles/18e90d21.ext.json)
-
----
-
-### Sri Lanka can boost passport strength, draw investors: consultancy
-
-*2024-02-14 21:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-boost-passport-strength-draw-investors-consultancy-150885/) · `en`
-
-ECONOMYNEXT – Arton Capital, a Canadian-based financial consultancy that offers advice and services to improve mobility and draw foreign investors says Sri Lanka can boost the strength of its passport, and also draw investors through residency programs.
-
-Sri Lanka ranks 84 on the Arton Capital Global Passport Power Ranking, along with Nigeria, Ethiopia and Iran. Sri Lanka requires visas for 143 countries, compared to 34 for Singapore and 19 for Dubai.
-
-Sri Lanka is 10 ranks above Syria, which is at the bottom at 94.
-
-“Sri Lanka is not visa free to Europe, to the UK, to Canada and the US,” Armand Arton, Founder and Chief Executive of Arton Capital, told Economy Next.
-
-“It doesn’t rank in the top tier of passports. However, that could increase the power of the passport.
-
-“This is something that we assist many countries with, to achieve our shared goal.”
-
-...
-
-[Data](articles/5d91e423.json)
-
-[Extended Data](ext_articles/5d91e423.ext.json)
 
 ---

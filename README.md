@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 10:02:39**
+As of **2024-02-15 10:17:23**
 
 ## Newspaper Stats
 
-*Scraped **7,144** Articles*
+*Scraped **7,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 376
 dailyftlk | 389
 adalk | 605
 tamilmirrorlk | 873
-adaderanalk | 874
-virakesarilk | 914
+adaderanalk | 875
+virakesarilk | 915
 adaderanasinhalalk | 1,009
 dailymirrorlk | 1,045
 
@@ -26,63 +26,101 @@ dailymirrorlk | 1,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,141 (100.0%) of 7,144 articles have been extended.
+7,144 (100.0%) of 7,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### නායකත්ව වගකීම රෝහිත්ට පැවරෙයි
+### Rohit assigned leadership responsibility
 
 *2024-02-15 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193404) · `si`
 
-2024 T20 ක්‍රිකට් ලෝක කුසලානය සඳහා ඉන්දීය කණ්ඩායම මෙහෙයවීමේ වගකීම රෝහිත් ශර්මා වෙත ලබා දී ඇති බව ඉන්දීය ක්‍රිකට් කවුන්සිලයේ (BCCI) ලේකම් ජේ ශා සඳහන් කර ඇත.
+The Indian Cricket Council (BCC)) has stated that Rohit has been given the responsibility of leading the Indian team for the 2024 T20 World Cup.
 
-රාජ්කොට්හි පැවති උත්සවයක දී මාධ්‍යය වෙත අදහස් දක්වමින් ඔහු මේ බව අවධාරණය කර තිබේ.
+Speaking to the media at a function in Rajkot, he has said.
 
-2022 T20 ලෝක කුසලානය සඳහා ද ඉන්දීය කණ්ඩායමට නායකත්වය දුන් රෝහිත් ශර්මා මෙවර එම වගකීම දරන්නේ දෙවැනි වතාවට ය.
+This year, Rohit Sharma, who led the 2022 World Cup, is the responsibility of the time.
 
-ඔස්ට්‍රේලියාවේ පැවැති එම තරගාවලියේ දී ඉන්දියාව අවසන් පූර්ව වටයේ දී එංගලන්තය හමුවේ පරාජයට පත් විය.
+The tournament in Australia was defeated before England in the semi-finals.
 
-ඉන් පසු ව රෝහිත් ශර්මා T20 තරගවලට සහභාගි නොවූ අතර, ඔහු 2023 දී එකදු T20 තරගයක් වත් ක්‍රීඩා කර නැත.
+Thereafter, Rohit Sharma did not participate in T20 competitions, and he has not played a single T20 match in 2023.
 
-නමුත් 2024 ජනවාරි මාසයේ දී ඇෆ්ගනිස්තානය සමඟ පැවති T20 තරගාවලියේ නායකත්වය සඳහා ඔහුව කැඳවා තිබිණි.
+But in January 2024, he was convened for the leadership of the T20 T20 tournament with Afghanistan.
 
-එම තරගාවලියේ දී වාර්තා කළ ශතකයත් සමඟ 20යි 20 ශතක 05ක් වාර්තා කළ ලොව එක ම ක්‍රීඩකයා බවට රෝහිත් ශර්මා පත් විය.
+Rohit was a world of the world with 20 and 20 centuries recorded at the tournament.
 
-මීට පෙර ඉන්දීය විස්සයි විස්ස කණ්ඩායම මෙහෙයවූයේ සූරියකුමාර් යාදව් විසිනි.
+Earlier, the Indian Twenty20 team was led by Suriyadu Yadav.
 
 ◼️
 
 [Data](articles/8e4a6cf3.json)
 
+[Extended Data](ext_articles/8e4a6cf3.ext.json)
+
 ---
 
-### යුක්තියට කොටු වූ අලුත්ම පිරිස
+### The newest of justice
 
 *2024-02-15 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193403) · `si`
 
-දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (15) අලුයම අවසන් වූ පැය 24 තුළ සැකකරුවන් 656 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Police have arrested 656 suspects in the 24 hours in the country today (15).
 
 ◼️
 
 [Data](articles/7486280f.json)
 
+[Extended Data](ext_articles/7486280f.ext.json)
+
 ---
 
-### கட்சித் தலைமை குறித்து சந்திரிகா விசேட அறிவிப்பு
+### “குடு சலிந்து”வின் நெருங்கிய சகா டுபாயிலிருந்து இலங்கை அழைத்துவரப்பட்டார் !
+
+*2024-02-15 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176413) · `ta`
+
+பாதாள உலகக்குழுவின் தலைவர்களில் ஒருவரான 'குடு சலிந்து' எனப்படும் சலிந்து மல்ஷிகவின் நெருங்கிய சகா ஒருவர் டுபாயிலிருந்து இலங்கைக்கு அழைத்து வரப்பட்டுள்ளார்.
+
+குடு சலிந்துவின் நெருங்கிய சகாவான பியும் ஹஸ்திக என்பவர் டுபாயிலிருந்து இன்று வியாழக்கிழமை (15)  காலை நாட்டுக்கு அழைத்துவரப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+டுபாயிலிருந்து இலங்கைக்கு போதைப்பொருட்களை விநியோகிக்கும் முக்கிய நபர் எனவும் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/315fbb6a.json)
+
+---
+
+### Chandrika's special announcement on party leadership
 
 *2024-02-15 09:27:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சித்-தலைமை-குறித்து-சந்திரிகா-விசேட-அறிவிப்பு/175-333240) · `ta`
 
-பொதுஜன ஐக்கிய முன்னணியின் தலைமைத்துவத்தை கைப்பற்றுவது தொடர்பில் இதுவரையில் எவ்வித தீர்மானமும் எடுக்கப்படவில்லை என முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க தெரிவித்துள்ளார்.
+Former President Chandrika Bandaranaike Kumaratunga has said that no decision has been taken so far on the seizure of the leadership of the PA.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் எந்தவொரு வேட்பாளருக்கும் ஆதரவளிக்க தாம் இன்னும் தீர்மானிக்கவில்லை என அவர் விடுத்துள்ள அறிக்கையில் சுட்டிக்காட்டியுள்ளார்.
+He pointed out in his statement that he has not yet decided to support any candidate in the upcoming presidential election.
 
-ஜனாதிபதி தேர்தலில் பல்வேறு ஜனாதிபதி வேட்பாளர்களுக்கு ஆதரவளிக்க தீர்மானித்துள்ளதாக ஊடகங்களில் வெளியாகியுள்ள தகவல்கள், முற்றிலும் தவறானவை என சந்திரிக்கா பண்டாரநாயக்க தனது அறிவிப்பில் தெரிவித்துள்ளார்.
+Chandrika Bandaranaike said in her announcement that the media reports that they have decided to support various presidential candidates in the presidential election.
 
 ◼️
 
 [Data](articles/9453c39e.json)
+
+[Extended Data](ext_articles/9453c39e.ext.json)
+
+---
+
+### Sri Lanka is a centre of gravity for economic development - JICA President
+
+*2024-02-15 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97284/sri-lanka-is-a-centre-of-gravity-for-economic-development-jica-president-) · `en`
+
+Sri Lanka is a centre of gravity of global economic development, President of Japan International Cooperation Agency (JICA), Dr. Tanaka Akihito has said, reiterating that JICA would continuously assist the development and reform agenda of the island nation.
+
+His remark came during a discussion with Sri Lankan Prime Minister Dinesh Gunawardena at the Temple Trees in Colombo on Wednesday (Feb.14), the PM’s Office said in a press release.
+
+PM Gunawardena thanked Dr Akihito for the support extended to Sri Lanka for decades since JICA became a member of Sri Lanka Aid Consortium in 1968. He urged JICA to consider new projects for rural development, rural road construction, and empowerment of small- and medium-sector farmers and entrepreneurs.
+
+...
+
+[Data](articles/b8ec3cb0.json)
 
 ---
 
@@ -2001,39 +2039,5 @@ However, in response to the strike, the Sri Lankan military has sent groups to g
 [Data](articles/a844d224.json)
 
 [Extended Data](ext_articles/a844d224.ext.json)
-
----
-
-### The health strike is over tomorrow
-
-*2024-02-14 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193384) · `si`
-
-The Health Trade Union UPFA says that the health strike has been completed tomorrow (15).
-
-◼️
-
-[Data](articles/b9039c6a.json)
-
-[Extended Data](ext_articles/b9039c6a.ext.json)
-
----
-
-### State Minister reveals plans to establish three international universities in Sri Lanka
-
-*2024-02-14 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97274/state-minister-reveals-plans-to-establish-three-international-universities-in-sri-lanka) · `en`
-
-State Minister of Higher Education Dr. Suren Raghavan has announced plans to offer multiple degrees through state universities, in a bid to enhance the educational landscape in Sri Lanka.
-
-Drawing from insights of international education experts, Dr. Raghavan explained that plans are also afoot to establish three international universities within Sri Lanka, adding that that two of these universities are currently in the establishment phase, with the third scheduled to commence operations by May of this year.
-
-Notably, the Indian Institute of Technology is to be opened in Kandy, while the other two universities will have branches affiliated with the United States and the United Kingdom, with anticipated memorandum of understanding signings, the President’s Media Division (PMD) reported.
-
-The State Minister made these remarks at a press briefing held at the Presidential Media Center today (14 Feb.) under the theme of “Collective Path to a Stable Country”.
-
-...
-
-[Data](articles/26d09ddb.json)
-
-[Extended Data](ext_articles/26d09ddb.ext.json)
 
 ---

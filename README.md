@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 05:55:27**
+As of **2024-02-15 06:16:25**
 
 ## Newspaper Stats
 
-*Scraped **7,100** Articles*
+*Scraped **7,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 80
 bbccomsinhala | 94
 dbsjeyarajcom | 149
 newsfirstlk | 363
-islandlk | 365
+islandlk | 369
 economynextcom | 370
 dailyftlk | 389
 adalk | 603
@@ -26,7 +26,7 @@ dailymirrorlk | 1,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,100 (100.0%) of 7,100 articles have been extended.
+7,100 (99.9%) of 7,104 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -860,6 +860,24 @@ The Minister also emphasized that the independence has been given to each distri
 
 ---
 
+### Rs 4 million in cash prizes from ComBank RemitPlus ‘Pita Rata Wasi’ remittance promo
+
+*2024-02-14 21:24:00* · [`islandlk`](http://island.lk/rs-4-million-in-cash-prizes-from-combank-remitplus-pita-rata-wasi-remittance-promo/) · `en`
+
+160 recipients of ‘RemitPlus’ remittances to win Rs 25,000 each from February to April
+
+Cash rewards totaling Rs 4 million are to be showered on Commercial Bank’s remittance customers in an early countdown to the Sinhala and Tamil New Year and Ramadan.
+
+Over eight weeks commencing February and ending on 9th April, Sri Lanka’s benchmark private sector bank will select 160 recipients of remittances routed via the bank’s ‘RemitPlus’ money transfer service for cash prizes of Rs 25,000 each, rewarding 20 lucky winners per week at a promotion titled ComBank RemitPlus ‘Pita Rata Wasi.’
+
+The Bank said the names of the winners will be published in the Bank’s own social media channels, and on the RemitPlus App from 19th February onwards.
+
+...
+
+[Data](articles/161f71fc.json)
+
+---
+
 ### Steps to establish 03 International Universities in Sri Lanka - Suren Raghavan
 
 *2024-02-14 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176399) · `ta`
@@ -879,6 +897,22 @@ Indian Institutes of Technology. The other two universities will open their two 
 [Data](articles/93b6d307.json)
 
 [Extended Data](ext_articles/93b6d307.ext.json)
+
+---
+
+### Absence of market-driven activities stalls CSE; negative conditions manifest in politics
+
+*2024-02-14 21:18:00* · [`islandlk`](http://island.lk/absence-of-market-driven-activities-stalls-cse-negative-conditions-manifest-in-politics/) · `en`
+
+Foreign and local investor participation in the CSE showed significant improvement yesterday due to a decline in Treasury bill yields, market analysts said.
+
+However, stock market activities were not strong due to depressing conditions in the political arena and because of the absence of market- driven activities, analysts said.
+
+The All Share Price Index was down by 22.7 points, while S and P SL20 rose by 25.3 points. Turnover stood at Rs 695 million with two crossings. Those crossings were reported in Commercial Bank, which crossed 1.4 million shares to the tune of Rs 131.7 million; its shares traded at Rs 89.50 and Expolanka Holdings 185,000 shares crossed for Rs 24.9 million; its shares traded at Rs 134.
+
+...
+
+[Data](articles/67759d71.json)
 
 ---
 
@@ -1989,47 +2023,5 @@ The owner of the Colombo National Hospital is receiving treatment at the Colombo
 [Data](articles/cc72a125.json)
 
 [Extended Data](ext_articles/cc72a125.ext.json)
-
----
-
-### Indonesia election quick tallies indicate Prabowo headed for first round win
-
-*2024-02-14 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97269/indonesia-election-quick-tallies-indicate-prabowo-headed-for-first-round-win) · `en`
-
-Unofficial tallies in Indonesia’s presidential election on Wednesday showed Defence Minister Prabowo Subianto taking a commanding lead that could see him win in a single round if sustained.
-
-Prabowo had about 58% of votes according to four pollsters, based on ballots counted in a sample of voting stations nationwide. The number of votes they had tallied ranged from about 52% to 67% as of 0912 GMT.
-
-Rivals Anies Baswedan and Ganjar Pranowo had about 25% and 17% respectively, according to the independent pollsters that were conducting “quick counts” at the close of voting.
-
-Counts by reputable outlets have proven to be accurate in previous elections. An official result is not expected until several weeks after the vote.
-
-The pattern could signal a first round win for Prabowo. To win in a single round, a candidate needs more than 50% of votes cast and 20% of the ballot in half of the country’s provinces.
-
-If no candidate wins a majority, a runoff between the top two finishers will be held in June.
-
-...
-
-[Data](articles/c677203e.json)
-
-[Extended Data](ext_articles/c677203e.ext.json)
-
----
-
-### 14 Days of Explanation for Woman
-
-*2024-02-14 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176380) · `ta`
-
-The Kalmunai Magistrate has ordered the postponement of the case to be remanded for 14 days, and the case was postponed until February 28.
-
-Kalmunai Magistrate MSM Samsudheen was again ordered to appear again on Wednesday (14) after the suspect was arrested by the headquarters of the Kalmunai headquarters in connection with the death of a boy who was placed in the Children's Probation School in the Kalmunai Headquarters Division of the Ampara District.
-
-The applications of the police and the defendant's lawyer have been investigated as the case has been taken up and ordered to be remanded again, Supervisor of the 28 -year -old school.
-
-◼️
-
-[Data](articles/f8d81de8.json)
-
-[Extended Data](ext_articles/f8d81de8.ext.json)
 
 ---

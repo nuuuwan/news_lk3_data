@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 22:33:05**
+As of **2024-02-15 22:50:20**
 
 ## Newspaper Stats
 
-*Scraped **7,327** Articles*
+*Scraped **7,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,60 @@ adalk | 630
 tamilmirrorlk | 896
 adaderanalk | 897
 virakesarilk | 955
-adaderanasinhalalk | 1,036
+adaderanasinhalalk | 1,037
 dailymirrorlk | 1,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,322 (99.9%) of 7,327 articles have been extended.
+7,328 (100.0%) of 7,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### முன்னாள் சுகாதார அமைச்சர் கெஹலிய உள்ளிட்ட 7  பேருக்கு மீண்டும் விளக்கமறியல்
+### Is the film a "The Day After Tomorrow"?
+
+*2024-02-15 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193438) · `si`
+
+Scientists pointed out that with the meltdown on the rapidly meltdown on the world, the ocean can be lost in the gulf stream.
+
+They point out that the meltdown on Earth can take place in the face of rising carbon emissions and climate change.
+
+According to the "The Guardian", "The Guardian" indicates that the Gulf can eradicate the streams of 2025 and 2095.
+
+The Gulf Waterfall plays a significant role for the climate control of the North Atlantic region.
+
+The Gulf is highly contributing to maintain the cooster of ocean temperature, which is the process of transporting heat.
+
+Residents pointed out that the temperature in the North America, Asia, Asia, Asia, and Europe, can reduce its 10 degrees Celsius within a few decades.
+
+That is, severe storms that may take place such as the rising of sea water levels.
+
+They had further pointed out that the 2004 screened 'The Day After Tomorrow' was a process similar to the fierce natural disasters.
+
+◼️
+
+[Data](articles/0d45dd68.json)
+
+[Extended Data](ext_articles/0d45dd68.ext.json)
+
+---
+
+### Re -explanation for 7 persons, including former health minister Keheliya
 
 *2024-02-15 22:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/176483) · `ta`
 
-தரமற்ற இம்யூனோகுளோபுலின் குப்பிகளை இறக்குமதி செய்த குற்றச்சாட்டில் கைதுசெய்யப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல மற்றும் முன்னாள் சுகாதார அமைச்சின் செயலாளர் ஜானக சந்திரகுப்தா உள்ளிட்ட 7 பேரையும் எதிர்வரும் பெப்ரவரி மாதம் 29ஆம் திகதி வரை மீண்டும் விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Former Health Minister Keheliya Rambukwella and former Health Secretary Janaka Chandragupta, who have been arrested on charges of importing substandard immunoglobulin vials, have been remanded until February 29.
 
-குறித்த வழக்கு இன்று 15 ஆம் திகதி வியாழக்கிழமை மாளிகாகந்த நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The order was issued when the case was taken up for hearing at the Magistrate's Court on Thursday 15th.
 
 ◼️
 
 [Data](articles/ec825cfa.json)
+
+[Extended Data](ext_articles/ec825cfa.ext.json)
 
 ---
 
@@ -55,6 +85,8 @@ Colombo, Feb 15 (Daily Mirror) -  Former Health Minister Keheliya Rambukwella w
 ◼️
 
 [Data](articles/306cf1e7.json)
+
+[Extended Data](ext_articles/306cf1e7.ext.json)
 
 ---
 
@@ -74,17 +106,19 @@ This order was issued when the case was taken up before the Maligakanda Magistra
 
 ---
 
-### කෙහෙළිය ඇතුළු 7 දෙනා යළිත් රිමාන්ඩ්
+### Survey and seven including Keheliya remanded again
 
 *2024-02-15 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193437) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සැකකරුවන් 07 දෙනා එළඹෙන 29 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Former Minister of Health Keheliya Rambukwella and the seven suspects have been remanded until 29th.
 
-ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධයෙන් වූ නඩුව අද (15) මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී යළි කැඳවනු ලැබූ අවස්ථාවේදී මෙම නියෝගය නිකුත් කෙරුණි.
+The order was issued at the time of the questionable antibodies in the Maligakanda Magistrate's Court today (15).
 
 ◼️
 
 [Data](articles/a76b6837.json)
+
+[Extended Data](ext_articles/a76b6837.ext.json)
 
 ---
 
@@ -106,27 +140,33 @@ The Inspector was interdicted following a probe by the Police Department.
 
 [Data](articles/46cdbe55.json)
 
+[Extended Data](ext_articles/46cdbe55.ext.json)
+
 ---
 
-### කෙහෙළිය රෑට නින්දෙන් හුස්ම හිරවෙන රෝගයකින් පෙළෙන බව කියයි
+### Keheliya says he suffers from sleeping slumber at night
 
 *2024-02-15 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193436) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා නින්දෙන් හුස්ම හිරවීමේ රෝගී තත්ත්වයකින් පෙළෙන බව අද (15) අධිකරණයේදී ඔහුගේ නීතීඥයා කරුණු ඉදිරිපත් කළේය.
+His lawyer said in court today that former Minister of Health, Keheliya Rambukwella is suffering from sleeping sickness today (15).
 
-ජනාධිපති නීතිඥ අනුජ ප්‍රේමරත්න මහතා එහිදී සඳහන් කළේ එම සුවිශේෂී රෝගී තත්ත්වයෙන් පෙළෙන තම සේවාදායකයාට එවැනි අවස්ථාවකදී කෘතිම ව ඔක්සිජන් ලබාදිය යුතු බවය.
+President's Counsel Angel Varraratne said that his client should be given artificial oxygen in such a case.
 
-ඒ අනුව හිටපු සෞඛ්‍ය අමාත්‍යවරයා වෙනුවෙන් ජනාධිපති නීතීඥ අනුජ ප්‍රේමරත්න මහතා ඇප ඉල්ලීම් ඉදිරිපත් කළේය.
+Accordingly, President's Counsel A lawyer.
 
-"මගේ සේවාදායකයා මේ වෙද්දී රෝග ගණනාවකින් පෙළෙනවා. විශේෂයෙන්ම ස්වාමීනි... ඔහුව බන්ධනාගාරගත කළාට පස්සේ.. ඔහුගේ රුධිර පීඩනය විචලනය වෙලා. උදරයේ බඩවැල්වල ව්‍යාකූල තත්ත්වයකින් පෙළෙනවා. ඔහුට වකුගඩුවල රෝගී තත්ත්වයකුත් තිබෙනවා. ඒ වගේම ඔහු දියවැඩියා රෝගයෙන් පීඩා විඳින්නෙක්."
+"My client is suffering from a number of diseases. Especially the Lord.. After he was imprisoned.. His blood pressure has been varied. Suffering from a confusion of the stomaching of the abdomen. He has a disease of kidney. And he is suffering from diabetes. "
 
-"ස්වාමීනි, ඔහුට තිබෙන රෝග අතර ඔහුට තිබෙන සුවිශේෂීම රෝගී තත්ත්වය තමයි රෑට නින්දෙන් හුස්ම හිරවීම. එය රෝගී තත්ත්වයක්. ඔහුට නොදැනුවත්වම ඔහු ලබා ගන්නා ඔක්සිජන් ප්‍රමාණය අඩු වෙනවා. අන්න ඒ වෙලාවට ඔහුට කෘතිමව ඔක්සිජන් සපයන්න ඕනේ."
+"Lord, he has the unique illness that he has his unique illness is sleeping at night. It is a condition. He is unwittingly reduce the oxygen of oxygen. He should be artificially supplied oxygen at the time. "
 
-"ස්වාමීනි, මේ වෙලාවේ බන්ධනාගාරයේ ඔය කියන රෝගී තත්ත්වයට ලබාදෙන්න ඕන ප්‍රතිකාර නැහැ."
+"Lord, there is no treatment that should be given to you in the prison at this time."
+
+The President's Counsel was presented to the Magistrate how to sleep when the lawyer had to sleep.
 
 ...
 
 [Data](articles/5cbad843.json)
+
+[Extended Data](ext_articles/5cbad843.ext.json)
 
 ---
 
@@ -2043,19 +2083,5 @@ The All Party Youth Organization assisted the meeting with the Speaker of the Sp
 [Data](articles/6365b323.json)
 
 [Extended Data](ext_articles/6365b323.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-15 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176438) · `ta`
-
-The US dollar purchasing price was Rs 308.2195 and the sales price were 318.0679 based on the currency exchange rate released by the Central Bank on Thursday (February 15).
-
-◼️
-
-[Data](articles/75f6494d.json)
-
-[Extended Data](ext_articles/75f6494d.ext.json)
 
 ---

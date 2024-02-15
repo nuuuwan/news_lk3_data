@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 16:49:17**
+As of **2024-02-15 17:02:38**
 
 ## Newspaper Stats
 
-*Scraped **7,255** Articles*
+*Scraped **7,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ newsfirstlk | 363
 economynextcom | 375
 islandlk | 376
 dailyftlk | 389
-adalk | 620
+adalk | 623
 adaderanalk | 890
 tamilmirrorlk | 892
 virakesarilk | 943
 adaderanasinhalalk | 1,023
-dailymirrorlk | 1,058
+dailymirrorlk | 1,061
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,255 (100.0%) of 7,255 articles have been extended.
+7,255 (99.9%) of 7,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### Thennakoon says 42 International red notices issued for wanted criminals
+
+*2024-02-15 16:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thennakoon-says-42-International-red-notices-issued-for-wanted-criminals/108-277093) · `en`
+
+Colombo, Feb 15 (Daily Mirror) - Acting Inspector General of Police Deshabandu Tennakoon said 42 international red notices have been issued so far for criminals who have fled the country after underworld and drug crimes.
+
+He made these remarks while attending the opening of a new police post in front of the National Hospital in Colombo.
+
+Thennakoon said the suspects on whom these red notices will be brought to Sri Lanka with the help of the International Police.
+
+The Acting IGP emphasized that the main accomplice of drug trafficker Kudu Salindu was brought to Sri Lanka on Thursday morning and he will be interrogated  by the CID.
+
+Meanwhile, the IGP said that the police officer who helped underworld leader Nadun Chinthaka alias 'Harak Kata' in his failed attempt to escape from the Criminal Investigation Department, will also be brought back to Sri Lanka as soon as possible.
+
+Tennakoon also mentioned that the assistance of the International Police will be sought for this.
+
+◼️
+
+[Data](articles/b8c541bf.json)
+
+---
 
 ### MP Gunatilleke Rajapaksa hospitalized
 
@@ -114,27 +136,61 @@ Under the second phase of the second phase, 24 lakhs of families are expected to
 
 ---
 
+### Sri Lanka could lose US$ 50 bn from extreme weather conditions: Ruwan
+
+*2024-02-15 15:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-could-lose-US-50-bn-from-extreme-weather-conditions-Ruwan/108-277091) · `en`
+
+Feb 15 (Daily Mirror) - Sri Lanka is slated to lose US$ 50 billion with 87 percent of its population potentially facing extreme weather conditions within the next two decades, Presidential Advisor on climate change Ruwan Wijewardene told a top gathering.
+
+Speaking during the South Asia Hydromet Forum, Wijewardene said Sri Lanka is a country which is significantly affected by weather related losses.
+
+“Sri Lanka, significantly affected by weather-related losses and had incurred damages nearing US$7 billion from 1990 to 2018. Looking ahead, we face an even starker reality: by 2050, an expected 7.7% GDP decline in Sri Lanka could translate to a loss of US$50 billion, with 87% of our population potentially facing extreme weather conditions,” he said.
+
+◼️
+
+[Data](articles/185f03a3.json)
+
+---
+
 ### Eligible individuals to receive ‘Aswesuma’ benefits without repercussions: WBB
 
 *2024-02-15 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97296/eligible-individuals-to-receive-aswesuma-benefits-without-repercussions-wbb) · `en`
 
-The Welfare Benefits Board (WBB) chairman has announced the commencement of applications for the second phase of ‘Aswesuma’ program on Thursday (Feb.15).
+The Welfare Benefits Board (WBB) chairman on Thursday (Feb.15) announced the commencement of applications for the second phase of ‘Aswesuma’ program.
 
-Accordingly, new applications are accepted for a period of one month until March 15.
+Accordingly, new applications will be accepted for a period of one month until March 15.
 
-Eligible individuals will receive the benefits without repercussions, WBB Chairman Jayantha Wijeratne noted.
+Eligible individuals will receive the benefits without repercussions, WBB Chairman Jayantha Wijeratne noted while addressing a press conference at the Presidential Media Centre (PMC).
 
 The families that could not submit applications during the first phase or did not participate in the housing information census can apply during the new phase, he explained.
 
-Meanwhile, the monthly allowances paid to disabled persons, kidney patients and elderly citizens are to be retrospectively increased from January 2024.
+During the second phase of ‘Aswesuma’, benefits are anticipated to be extended to 2.4 million families.
 
-Accordingly, kidney patients and disabled persons’ allowances will be raised from Rs. 5,000 to Rs. 7,500, while the elderly citizens’ allowance will be increased from Rs. 2,000 to Rs. 3,000.
+It was emphasized that expediting the benefits process requires submitting applications with accurate and truthful information.
 
 ...
 
 [Data](articles/dec02f21.json)
 
 [Extended Data](ext_articles/dec02f21.ext.json)
+
+---
+
+### Japan no longer world’s third-largest economy as it slips into recession
+
+*2024-02-15 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japan-no-longer-worlds-third-largest-economy-as-it-slips-into-recession/108-277092) · `en`
+
+TOKYO (AP) — Japan’s economy is now the world’s fourth-largest after it contracted in the last quarter of 2023 and fell behind Germany.
+
+The government reported the economy shrank at an annual rate of 0.4% in October to December, according to Cabinet Office data on real GDP released Thursday, though it grew 1.9% for all of 2023. It contracted 2.9% in July-September. Two straight quarters of contraction are considered an indicator an economy is in a technical recession.
+
+Japan’s economy was the second largest until 2010, when it was overtaken by China’s. Japan’s nominal GDP totaled $4.2 trillion last year, while Germany’s was $4.4 trillion, or $4.5 trillion, depending on the currency conversion.
+
+A weaker Japanese yen was a key factor in the drop to fourth place, since comparisons of nominal GDP are in dollar terms. But Japan’s relative weakness also reflects a decline in its population and lagging productivity and competitiveness, economists say.
+
+◼️
+
+[Data](articles/3c14de98.json)
 
 ---
 
@@ -332,6 +388,24 @@ A student of the Sabaragamuwa University Faculty and two students was eating at 
 
 ---
 
+### ජනපති ආපු උත්සවයට ගම්මුන්ගෙන් විරෝධයක්
+
+*2024-02-15 14:37:30* · [`adalk`](https://www.ada.lk/uncategorized/ජනපති-ආපු-උත්සවයට-ගම්මුන්ගෙන්-විරෝධයක්/1-408108) · `si`
+
+අනුරාධපුර උතුරු ජල සම්පාදන පානීය ජල ව්‍යාපෘතියේ පළමු අදියර අද (15දා) ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු ජපන් දූත පිරිසක් අතින් විවෘත කෙරුණු  අතර ඊට විරෝධය පල කරමින් දේශවාසීහු පිරිසක්  එම ජල පවිත්‍රාගාරය ඉදිරිපිටට පැමිණ ඔවුන්ගේ දැඩි විරෝධය පල කලහ.
+
+මෙම විවෘත කිරීම සඳහා ජපන් තානාපති ඇතුළු ජපන් ජාත්‍යන්තර සහයෝගිතා (ජයිකා) ආයතනයේ  දූත පිරිසක් ද එක්ව සිටියහ.
+
+මෙහිදී විරෝධතාවයේ යෙදුණු පිරිස් පැවසුවේ, මෙම පානීය ජල ව්‍යාපෘතියේ ජලය යාපනයට හෝ රැගෙන ගියත් තමන්ගේ කිසිදු අකමැත්තක් නොමැති බවත් , මෙම ජල ව්‍යාපෘතිය සඳහා ජලය ලබා ගන්නා මහ කනදරාව ජලාශයට වතුර ලැබෙන ක්‍රමයක් සකස් කරන්නේ නැතිව මෙය විවෘත කිරීමෙන් මහා කනදරාව  ව්‍යාපාරයේ ගොවීහු අන්ත අසරණ භාවයට පත්වන බවය.
+
+දැනට අහස් වැස්සෙන් පමණක් ලැබෙන ජලයෙන් මහ කන දරාව ජලාශය යටතේ අක්කර 9000ක කුඹුරු ප්‍රමාණයක් අස්වද්දන බවත්, මෙම ජල ව්‍යාපෘතිය විවෘත කිරීම හේතුවෙන් දැඩි නියගෙන්  පසු ලැබුණු වැස්සෙන්  පිරී ගිය කනදරාව  ජලාශය සතියක් යාමට මත්තෙන් සිඳී යන බව එම පිරිස් මෙහිදී  පැවසූහ.
+
+...
+
+[Data](articles/3d3f1842.json)
+
+---
+
 ### A gang to extort police
 
 *2024-02-15 14:35:29* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-වෙසින්-කප්පම්-ගන්න-කල්ලියක්/11-408107) · `si`
@@ -365,6 +439,22 @@ Fluo dead body found on a well adjacent to a house in the Kurunegala Police, Kur
 [Data](articles/33da338f.json)
 
 [Extended Data](ext_articles/33da338f.ext.json)
+
+---
+
+### ගුරුවරියන්ගේ සංඛ්‍යාව ගුරුවරුන්ගේ සංඛ්‍යාව මෙන් තුන් ගුණයක්
+
+*2024-02-15 14:18:48* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරියන්ගේ-සංඛ්‍යාව-ගුරුවරුන්ගේ-සංඛ්‍යාව-මෙන්-තුන්-ගුණයක්/11-408104) · `si`
+
+දිවයිනේ රජයේ පාසල්වල සේවය කරන ගුරුවරියන්ගේ සංඛ්‍යාව ගුරුවරුන්ගේ සංඛ්‍යාව මෙන් තුන් ගුණයක් වේ.
+
+දිවයින පුරා ජාතික පාසල් 396 ක් හා පළාත් පාසල් 9730 ක් වශයෙන්  මුළු  පාසල් සංඛ්‍යාව  10126 කි. ඒවායේ  සේවය කරන මුළු ගුරු සඛ්‍යාව 236,738 කි.එයින් 56,817 ක් ගුරුවරු වන අතර ගුරුවරියන් ගණන 179,921 කි.එය මුළු ගුරු සංඛ්‍යාවෙන් සියයට 76 ක ප්‍රතිශතයකි.
+
+අධ්‍යාපන අමාත්‍යාංශය මගින්   2022 වසරට අදාලව සකස් කළ පාසල් පද්ධතියේ නවතම සංඛ්‍යා දත්ත වාර්තාව මගින් මෙම තොරතුරු අනාවරණය කර ඇති අතර දිවයිනේ  සිසුන් සංඛ්‍යාව 50 ට අඩු පාසල් 1473 ක් හා සිසුන් 4000 ට වැඩි පාසල් 34 ක්  තිබෙන බව ද එම  දත්ත වාර්තාවේ  සඳහන්වේ.
+
+◼️
+
+[Data](articles/5fd18567.json)
 
 ---
 
@@ -431,6 +521,18 @@ Military action in areas where civilians live can be dangerous to the public;He 
 [Data](articles/abfced1c.json)
 
 [Extended Data](ext_articles/abfced1c.ext.json)
+
+---
+
+### 2023 වසරේ තෙවැනි පාසල් වාරය සිකුරාදා අවසන්
+
+*2024-02-15 13:56:27* · [`adalk`](https://www.ada.lk/breaking_news/2023-වසරේ-තෙවැනි-පාසල්-වාරය-සිකුරාදා-අවසන්/11-408103) · `si`
+
+2023 වර්ෂයේ රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල තෙවන පාසල් වාරය 2024-02-16 වන සිකුරාදා දින අවසන් වන අතර, 2024 වර්ෂයේ පළමු පාසල් වාරයේ පළමුවන අදියර 2024-02-19 වන සඳුදා දින ආරම්භ කරන බව අධ්‍යාපන අමාත්‍යාංශය දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/2ab518e7.json)
 
 ---
 
@@ -1928,7 +2030,7 @@ National Child Protection Authority (NCPA) says it has received close to 10,000 
 
 The NCPA chairman, Udayakumara Amarasinghe said as many as 9,434 complaints were received between 01 January and 31 December last year, as opposed to the 7,466 complaints received in 2022.
 
-Among these are, 2,242 complaints of cruelty, 472 on sexual abuse, 404 on severe sexual abuse, 51 on rape of female children, and 6 on using children for obscene posts, he said.
+Among these are, 2,242 complaints related to cruelty, 472 on sexual abuse, 404 on severe sexual abuse, 51 on rape of female children, and 6 on using children for obscene posts, he said.
 
 In addition, complaints were also received with regard to child exploitation, trafficking, domestic abuse, neglect, and kidnapping.
 
@@ -1941,131 +2043,5 @@ Meanwhile, discussions are in progress to amend certain existing laws to crack d
 [Data](articles/c83b7b45.json)
 
 [Extended Data](ext_articles/c83b7b45.ext.json)
-
----
-
-### Ambitious plans underway to make SL a ‘happening’ tourist destination
-
-*2024-02-15 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ambitious-plans-underway-to-make-SL-a-happening-tourist-destination/108-277052) · `en`
-
-Authorities of Sri Lanka Tourism address the media to share plans to make the island nation more attractive for international visitors
-
-SLTPB set to enter into agreements with a consortium of global brands, both foreign and domestic
-
-Objective is to significantly boost tourism activities, with goal of increasing average daily spend of tourists
-
-Plans afoot to collaborate with European Union to launch a wellness tourism campaign
-
-‘‘We will make it a more happening destination; 2024 is going to be a very positive year”
-
-Sri Lanka’s tourism sector is gearing up for a major transformation, as the authorities unveil an ambitious plan to make the country one of the world’s most dynamic and sought-after destinations.
-
-...
-
-[Data](articles/32668376.json)
-
-[Extended Data](ext_articles/32668376.ext.json)
-
----
-
-### Ambitious plans underway to make SL a ‘happening’ tourist destination
-
-*2024-02-15 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ambitious-plans-underway-to-make-SL-a-happening-tourist-destination/155-277052) · `en`
-
-Authorities of Sri Lanka Tourism address the media to share plans to make the island nation more attractive for international visitors
-
-SLTPB set to enter into agreements with a consortium of global brands, both foreign and domestic
-
-Objective is to significantly boost tourism activities, with goal of increasing average daily spend of tourists
-
-Plans afoot to collaborate with European Union to launch a wellness tourism campaign
-
-‘‘We will make it a more happening destination; 2024 is going to be a very positive year”
-
-Sri Lanka’s tourism sector is gearing up for a major transformation, as the authorities unveil an ambitious plan to make the country one of the world’s most dynamic and sought-after destinations.
-
-...
-
-[Data](articles/7bf75f42.json)
-
-[Extended Data](ext_articles/7bf75f42.ext.json)
-
----
-
-### One dead and 21 injured near Super Bowl parade
-
-*2024-02-15 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/One-dead-and-21-injured-near-Super-Bowl-parade/107-277078) · `en`
-
-Feb 15, (BBC) - One person has died and 21 people were wounded in a shooting in Missouri at the end of the Kansas City Chiefs' Super Bowl victory parade.
-
-Officials said they treated eight victims who were in immediately life-threatening condition and seven others who had suffered injuries that could prove life-threatening.
-
-Nine children were among the wounded - all are expected to recover.
-
-Police said they have arrested three suspects in connection to the shooting.
-
-The shots were fired west of Union Station, the train station in downtown Kansas City, which was where the parade ended at around 14:00 local time (20:00 GMT) and thousands of fans had gathered to watch the festivities.
-
-Local reports said Kansas City Chiefs players were still on a stage there when the first shots rang out.
-
-The gunfire caused the watching crowd, including the city's mayor and his family members, to run for cover.
-
-...
-
-[Data](articles/0e0db28e.json)
-
-[Extended Data](ext_articles/0e0db28e.ext.json)
-
----
-
-### Against electricity tariff revision...
-
-*2024-02-15 09:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-electricity-tariff-revision/110-277082) · `en`
-
-The National Front of Civil Organizations (NFCO) today staged a protest in front of the Bandaranaike Memorial International Conference Hall (BMICH) premises to express opposition to the Public Utilities Commission of Sri Lanka (PUCSL), which is set to finalize the collection of public opinions for the upcoming electricity tariff revision. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/e2e825e8.json)
-
-[Extended Data](ext_articles/e2e825e8.ext.json)
-
----
-
-### 656 justice falls into
-
-*2024-02-15 09:48:50* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තියට-656ක්-කොටුවෙයි/11-408094) · `si`
-
-The 121 suspects including 121 suspects were arrested in the list of drugs carried out by drug rays carried out under the operation carried out.
-
-The 600 g of march, 1521 garments, 73 garn, 1521 guns, 1521 garn, 73 garments, 73 garments, 73, 73 garments, 73 garments, 73 m, 944 g of heroin.
-
-There are also 16 suspects in the list of police narcotics bunker and the Police Special Secretariat.
-
-The suspects are to be detained and investigated on detention orders and three will be referred to rehabilitation centers.
-
-Also, among the 121 suspects arrested on the list of the list of the suspects arrested for the Criminal Sector, the police headquarters says that there are 13 suspects who have been released on drugs and non-drug errors in various crimes.
-
-◼️
-
-[Data](articles/1f0ab5ab.json)
-
-[Extended Data](ext_articles/1f0ab5ab.ext.json)
-
----
-
-### Father and daughter Billy
-
-*2024-02-15 09:43:41* · [`adalk`](https://www.ada.lk/breaking_news/පියා-හා-දියණිය-දුම්රියට-බිලි/11-408093) · `si`
-
-A father and daughter in a train connected to Savnamylar Kovil on the Chudunamil Police Division was a father and daughter in an accident.
-
-The accident had occurred when the accident had taken place from Jaffna to Kankashan. The father of 32 years died, a 3-year-old girl was receiving treatment at the Jaffna Hospital.
-
-◼️
-
-[Data](articles/99919a43.json)
-
-[Extended Data](ext_articles/99919a43.ext.json)
 
 ---

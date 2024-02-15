@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 09:32:56**
+As of **2024-02-15 09:51:48**
 
 ## Newspaper Stats
 
-*Scraped **7,138** Articles*
+*Scraped **7,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 371
 islandlk | 376
 dailyftlk | 389
-adalk | 604
+adalk | 605
 tamilmirrorlk | 872
-adaderanalk | 872
+adaderanalk | 874
 virakesarilk | 914
 adaderanasinhalalk | 1,007
 dailymirrorlk | 1,045
@@ -26,51 +26,107 @@ dailymirrorlk | 1,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,135 (100.0%) of 7,138 articles have been extended.
+7,141 (100.0%) of 7,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### ලියන මේසයකට ඇති වූ ආරවුල ගුටි කෙළියකින් නිමා වෙයි
+### Dispute for a desk table concludes with a beaten
 
 *2024-02-15 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193402) · `si`
 
-පාසලේ දී ලියන මේසයක් සම්බන්ධයෙන් ඇති වූ බහින්බස් වීමක් හේතුවෙන් පාසල් සිසුවෙකුට පහර දුන් බව කියන පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගැනීම සඳහා විමර්ශනයක් ආරම්භ කර ඇති බව මැල්සිරිපුර පොලීසිය පවසයි.
+Investigation into two persons who had been assaulted by a descendant of a table in school have begun an investigation into the arrest of two persons who were assaulted by a schoolgirl.
 
-ඊයේ (14) වැනි දා සවස මැල්සිරිපුර - උදම්පිට ප්‍රදේශයේ දී මෙම පහර දීම සිදු වී ඇත.
+The attack was held on the evening yesterday (14) in Melsiripura, Malziripura.
 
-පහර කෑමට ලක් ව ඇත්තේ, මැල්සිරිපුර - කැන්දලව - විහාරගම ප්‍රදේශයේ පදිංචිකරුවෙකු වන වයස අවුරුදු 15ක සිසුවෙකි.
+The attack is a 15 year old student, a resident of Viharagama in Vijegama.
 
-ඔහු රිදීගම - උදම්මිට මහා විද්‍යාලයේ 11 වැනි වසරේ ඉගෙනුම ලබමින් සිට තිබේ.
+He has been enjoying the 11th year of Ridigama and Ukumida Maha Vidyalaya.
 
-ඊයේ තමන් පාසලේ පැවති වාර විභාගය අවසන් වී නිවස බලා යමින් සිටින විට යතුරු පැදියකින් පැමිණි දෙදෙනෙකු ආරක්ෂිත හිස් වැසුමකින් සහ උණ බටයකින් තමන්ට පහර දුන් බව පාසල් සිසුවා පොලීසියට පවසා ඇත.
+The school student has told the police that two arrival of two separate heads of motorcycle when he ended and returning home in the school yesterday.
 
-පහර දීම සිදු කරන ලද්දේ ගොකරැල්ල - බලවත්වල පදිංචිකරුවන් දෙදෙනෙකු බවට තමා හඳුනාගත් බව ද සිසුවා පොලීසියට පවසා තිබේ.
+The student had told the police that he had identified two residents of powerful residents of power.
 
-මීට සතියකට පමණ පෙර පාසලේ දී ලියන මේසයක් සම්බන්ධයෙන් තවත් සිසුවෙකු සමඟ ආරවුලක් ඇති වූ බවත් එම අවස්ථාවේ තමා සමඟ ආරවුල ඇති කර ගත් සිසුවාගේ මිතුරෙකු තමන්ට දුරකථනයෙන් තර්ජනය කළ බවත් සිද්ධියට මුහුණ දී ඇති සිසුවා පොලීසියට පවසා ඇත.
+The student who has told the police that a descendant of a table in the school about a week ago, the student had told the police.
 
-...
+The student who was assaulted was told that there were also those who were attacked by him.
+
+A investigation has been launched to arrest the suspects, Melsiripura Police said.
+
+◼️
 
 [Data](articles/175b460e.json)
 
+[Extended Data](ext_articles/175b460e.ext.json)
+
 ---
 
-### பெருந்தோட்ட மக்களின் வாழ்க்கை தரத்தை உயர்த்தும் நோக்கத்துடனேயே சஜித்துடன் ஒப்பந்தம் செய்துள்ளோம் - வேலுசாமி இராதாகிருஷ்ணன்
+### We have signed a deal with Sajith with the aim of raising the quality of life of the plantation people - Velusamy Radhakrishnan
 
 *2024-02-15 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176411) · `ta`
 
-பெருந்தோட்ட மக்களின் வாழ்க்கை தரம் உயர்த்தப்பட வேண்டும் என்ற எமது நோக்கத்திலேயே எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் கூட்டணியுடன் ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளதாக தமிழ் முற்போக்கு கூட்டணியின் பிரதி தலைவர் கலாநிதி வேலுசாமி இராதாகிருஷ்ணன் தெரிவித்தார்.
+Deputy Leader of the Tamil Progressive Alliance, Dr. Velusamy Radhakrishnan said that the agreement has been signed with the United People's Alliance led by Opposition Leader Sajith Premadasa in our intention of upgrading the quality of life of the plantation.
 
-ஐக்கிய மக்கள் சக்தி தலைமை அலுவலகத்தில் நேற்று புதன்கிழமை (14) ஒப்பந்தம் கைசாத்திடும் நிகழ்வில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated that the contract was held at the United People's Power Headquarters on Wednesday (14).
 
-பெருந்தோட்டத் தொழிலாளர்களின் வாழ்க்கை, அவர்களின் எதிர்பார்ப்பு என்பவை தொடர்பில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவுக்கு எடுத்துரைக்கப்பட்டு அதன் மூலமாக இந்த புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளோம்.
+Opposition Leader Sajith Premadasa has been signed by this Memorandum of Understanding on the lives and expectations of plantation workers.
 
-இதன் மூலம் பெருந்தோட்ட மக்களின் வாழ்க்கை தரம் உயர்த்தப்பட வேண்டும் என்பதே எமது நோக்கமாகும். அவர்கள் காணி உரிமையைப் பெற்றுக் கொள்ள வேண்டும். அவர்களுக்கு வீடுகள் நிர்மாணித்துக் கொடுக்கப்பட வேண்டும். அதற்காக ஒரு விசேட செயலணியை உருவாக்குவதற்கு சஜித் பிரேமதாச இணக்கம் தெரிவித்துள்ளார்.
+Our aim is to improve the quality of life of the plantation people through this. They have to obtain land rights. They have to be constructed with houses. Sajith Premadasa has agreed to create a special task for that.
+
+He has promised to take action to solve the problems of the people through the Presidential Secretariat on the seizure of the United People's Power.. On the basis of this, we have signed the agreement.
+
+◼️
+
+[Data](articles/2d7e269a.json)
+
+[Extended Data](ext_articles/2d7e269a.ext.json)
+
+---
+
+### Russia is close to creating cancer vaccines, says Putin
+
+*2024-02-15 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97283/russia-is-close-to-creating-cancer-vaccines-says-putin) · `en`
+
+President Vladimir Putin said on Wednesday that Russian scientists were close to creating vaccines for cancer that could soon be available to patients.
+
+Putin said in televised comments that “we have come very close to the creation of so-called cancer vaccines and immunomodulatory drugs of a new generation”.
+
+“I hope that soon they will be effectively used as methods of individual therapy,” he added, speaking at a Moscow forum on future technologies.
+
+Putin did not specify which types of cancer the proposed vaccines would target, nor how.
+
+A number of countries and companies are working on cancer vaccines. Last year the UK government signed an agreement with Germany-based BioNTech to launch clinical trials providing “personalised cancer treatments”, aiming to reach 10,000 patients by 2030.
 
 ...
 
-[Data](articles/2d7e269a.json)
+[Data](articles/a9517d2f.json)
+
+[Extended Data](ext_articles/a9517d2f.ext.json)
+
+---
+
+### Applications for second phase of ‘Aswesuma’ accepted from today
+
+*2024-02-15 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97282/applications-for-second-phase-of-aswesuma-accepted-from-today) · `en`
+
+Accepting applications for the second phase of ‘Aswesuma’ welfare benefits program commences today (Feb.15) to select 400,000 more beneficiaries.
+
+Finance State Minister Shehan Semasinghe said the applications can be submitted online or through the Divisional Secretariats for a period of one month.
+
+Speaking to Ada Derana, the lawmaker said the government intends to increase the total number of ‘Aswesuma’ beneficiaries, which now stands close to 2 million, to as many as 2.4 million people.
+
+The government expects to spend Rs. 205 billion on the provision of welfare this year, he added.
+
+Meanwhile, the monthly allowances paid to disabled persons, kidney patients and elderly citizens are to be retrospectively increased from January 2024.
+
+Accordingly, kidney patients and disabled persons’ allowances will be raised from Rs. 5,000 to Rs. 7,500, while the elderly citizens’ allowance will be increased from Rs. 2,000 to Rs. 3,000.
+
+...
+
+[Data](articles/b28bb0ed.json)
+
+[Extended Data](ext_articles/b28bb0ed.ext.json)
 
 ---
 
@@ -642,23 +698,27 @@ Addressing the top officials at the Ministry yesterday she said the ADB aid is a
 
 ---
 
-### වසරකට දෙවරක් ගල්ඔය සිට කුමනට සිදුවන අලි සංක්‍රමණය ඔබ දැක තිබේ ද?
+### Have you seen the elephant migration from the Galoya twice a year?
 
 *2024-02-15 02:39:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gewn4y8vvo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "අලි-මිනිස් ගැටුම : වසරකට දෙවරක් ගල්ඔය සිට කුමනට සිදුවන අලි සංක්‍රමණය ඔබ දැක තිබෙනවා ද?", ධාවන කාලය 2,2802:28වීඩියෝ ශීර්ෂ වැකිය, බුද්ධංගල හරහා පෙබරවාරි මාසයේ දී කුමන දෙසට සංක්‍රමණය වන අලි  අප්‍රේල් මාසයේ නැවත පැමිණෙති. යළිත් අගෝස්තු සහ නොවැම්බර් අතර මේ සංක්‍රමණය සිදු වේ.
+There is nothing here. Play Video, "Ali-human conflict: What is the alias that will take place in the Galoya twice a year?"Returns the month. This migration is between August and November again.
 
-වසරකට දෙවරක් ගල්ඔය සිට කුමනට සිදුවන අලි සංක්‍රමණය ඔබ දැක තිබේ ද?
+Have you seen the elephant migration from the Galoya twice a year?
 
-ගල්ඔය සිට කුමන දෙසට වසරකට දෙවරක් අලි සංක්‍රමණයක් සිදුවේ. එම මාර්ගයේ පළමු අලි සංක්‍රමණය පෙබරවාරි 20 වැනිදා විට ආරම්භ වීමට නියමිතව තිබේ.
+Elephant migration is twice a year from the Galoya. The first elephant transition on the road is due to start on February 20.
 
-පෙබරවාරි 20ට පෙර වී අස්වැන්න නෙලා අවසන් කරන්නැයි බලධාරීන් ගොවීන්ට දැනුම් දී ඇත. එදිනට පසුව වලතාපිටිය වැව වටා ඇති විදුලි වැටෙහි විදුලිය සැපයුම අක්‍රීය කර බුද්ධංගල අභය භූමියේ රැඳී සිටින අලින්ට කුඹුරු හරහා ගමන් කිරීමට ඉඩ ලබාදෙනු ලැබේ.
+Authorities have informed farmers to reach the harvest before February 20. Elean will be allowed to travel across the Buddhosalana Sanctuary after that date on that date on that date on the date.
 
-බුද්ධංගල අභය භූමියේ සිටින අලි ගම් වැදීම වැළැක්වීම සඳහා ගොවීන්ගේ මුදලින් දිනකට එක් අයෙකුට රුපියල් 2000 බැගින් ගෙවා දිනපතා 25 දෙනෙකු සේවයට යොදවා ඇත. මීට අමතරව අලි වැට මුර කිරීම වනජීවී නිලධාරීන්, ගම්වාසීන් සහ සිවිල් ආරක්ෂක බලකාය විසින් සිදු කරනු ලබයි.
+The farmers have paid 25,000 to Rs.. In addition, the ali fence guard is carried out by wildlife officials, villagers and civilian security force.
 
-...
+Elephants that migrate in February in February were returning back in April. This migration is between August and November again.
+
+◼️
 
 [Data](articles/b181690f.json)
+
+[Extended Data](ext_articles/b181690f.ext.json)
 
 ---
 
@@ -1804,6 +1864,34 @@ The scheme is similar to the fuel assistance provided to improve Sri Lanka's hea
 
 ---
 
+### Carrot's kilogram of Rs. 600
+
+*2024-02-14 19:54:23* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-කිලෝව-රු-600ට-බසියි/11-408089) · `si`
+
+The retail price of a kilogram rose to Rs. 2,500 has increased to Rs.
+
+In addition, the price of several rice is less than Rs.. The experts say that due to an existing deficit, a pack of Rs.
+
+Five kilo of Kiri Samba, which have been mentioned in the packets of Rs 1,300, is 5 kilograms of Rs. 1,800 kilograms and Rs. 1,600 kilors.
+
+A kilo of nadu rice has fallen to Rs.
+
+According to rice control prices, a kilo of Keiris de-sail is sold at Rs.Have become apart.
+
+In addition, a kilo of Kiari Kolkotu sells a kilo of rupees between Rs.
+
+Under the download of vegetable prices, the retail of a kilogram of beans, a kilogram of cabbage and a kilorie to Rs. 450 and Rs.A kilo of Dambala, Markalal, Pumpkin were sold for between Rs. 350 and Rs. 300.
+
+Fish chillies and a kilogram of fish have been sold at Rs. 900 and Rs 900 and a kilo of tomatoes have been sold at Rs.
+
+◼️
+
+[Data](articles/d80b94fb.json)
+
+[Extended Data](ext_articles/d80b94fb.ext.json)
+
+---
+
 ### A report from wishes
 
 *2024-02-14 19:50:36* · [`adalk`](https://www.ada.lk/sports/පැතුම්ගෙන්-වාර්තාවක්/9-408088) · `si`
@@ -1965,63 +2053,5 @@ In 2019, 29 percent and 27.4 percent of 2020 and 29.3 percent in 2021 were close
 [Data](articles/c38d38c3.json)
 
 [Extended Data](ext_articles/c38d38c3.ext.json)
-
----
-
-### A wicketkeeper athletes a mechanic Iakil disorder
-
-*2024-02-14 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193382) · `si`
-
-The Afghanistan wicket-wicket rank was a meant to leave the playground due to a barcil disorder.
-
-Fiscelhak Ferkey, the fifth ball focused on the fifth ball, turned to wicketkeeper.
-
-At the end of the attempt to protect it, Ikilil's finger was inactive, and he decided to be alienated.
-
-◼️
-
-[Data](articles/38b963fd.json)
-
-[Extended Data](ext_articles/38b963fd.ext.json)
-
----
-
-### The Facebook site turned to usual
-
-*2024-02-14 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176394) · `ta`
-
-Internationally, the popular Facebook on social media has returned to normal.
-
-Does Facebook Disable?Users posted records on the X site as they could not access the computer.
-
-However, Facebook's homeland company Meta has not issued an official announcement regarding the freeze.
-
-◼️
-
-[Data](articles/bbf07e7d.json)
-
-[Extended Data](ext_articles/bbf07e7d.ext.json)
-
----
-
-### Sri Lanka parliament panel questions gaming regulator delay
-
-*2024-02-14 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-panel-questions-gaming-regulator-delay-150833/) · `en`
-
-ECONOMYNEXT – Sri Lanka parliament’s Committee on Public Finance (COPF) has questioned a delay in setting up a regulator for the gaming industry, a statement said.
-
-The government had earlier promised to set up the regulator by December 31, 2023.
-
-The COPF had summoned director general of fiscal policy and sought details of physical and online casinos, including tax amounts, and requested a proposed plan to recover outstanding taxes.
-
-“Stressing the vital role of a gaming regulator in both attracting investment and recouping billions of lost revenue, COPF members emphasized the urgency of this legislation. They highlighted that inadequate regulations result in substantial losses for the government. Consequently, the MOF representative indicated a need for additional expertise to construct a robust revenue model similar to Singapore’s,” the Parliament statement read.
-
-COPF granted a two-week extension for this while expecting completion of the legislation by March 31. (Colombo/Feb14/2024)
-
-◼️
-
-[Data](articles/39e11adc.json)
-
-[Extended Data](ext_articles/39e11adc.ext.json)
 
 ---

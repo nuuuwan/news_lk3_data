@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 11:52:01**
+As of **2024-02-15 12:02:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,053
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,172 (100.0%) of 7,174 articles have been extended.
+7,174 (100.0%) of 7,174 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -902,6 +902,8 @@ The decision by the former Minister of Health was criticized for its lack of val
 
 [Data](articles/01b4af0a.json)
 
+[Extended Data](ext_articles/01b4af0a.ext.json)
+
 ---
 
 ### Pathirana reverts Keheliya’s decision
@@ -1218,19 +1220,27 @@ He further stated that the convention would be held on the day of the party to t
 
 ---
 
-### 3மாணவிகள் துஷ்பிரயோகம்;  ஆசிரியர்கள் இருவர், ஓடோ சாரதிக்கு சிறை
+### 3 students abuse;Two teachers, Odo driver
 
 *2024-02-15 03:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3மாணவிகள்-துஷ்பிரயோகம்-ஆசிரியர்கள்-இருவர்-ஓடோ-சாரதிக்கு-சிறை/175-333231) · `ta`
 
-வெவ்வேறு பாடசாலைகளைச் சேர்ந்த மூன்று மாணவிகளை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினர் என்றக் குற்றச்சாட்டின் பேரில், கைது செய்யப்பட்ட இரண்டு ஆசிரியர்கள், ஓட்டோ சாரதி ஆகிய மூவரையும், குற்றவாளிகளாக இனங்கண்ட நுவரெலியா மேல் நீதிமன்றம் அந்த மூவருக்கும் மொத்தமாக 37 வருடங்கள் கடூழிய சிறைத்தண்டனை விதித்து தீர்ப்பளித்துள்ளது.
+The Nuwara Eliya High Court has sentenced the three arrested, Otto driver, two arrested teachers and Otto driver on charges of sexually abusing three students from different schools.
 
-இதில், இரண்டு சம்பவங்களுக்கான தீர்ப்பு, நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரியவால் புதன்கிழமை (14) வழங்கப்பட்டது மற்றுமொரு சம்பவத்துக்கான தீர்ப்பு, ஜனவரி 31ஆம் திகதி, , நுவரெலியா மேல் நீதிமன்றத்தால் வழங்கப்பட்டுள்ளது.
+The verdict for two incidents was issued by the Nuwara Eliya High Court Judge Viraj Weerasuriya on Wednesday (14) by the Nuwara Eliya High Court on January 31.
 
-பாடசாலை மாணவி ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினார் என்ற குற்றச்சாட்டப்பட்டிருந்த கொட்டக்கலை பகுதியை சேர்ந்த (43) வயதுடைய பாடசாலை ஆசிரியரை 2 குற்றச்சாட்டுகளில் குற்றவாளியாக இனங்கண்ட நீதிமன்றம் அவருக்கு 17 வருட கடூழிய சிறை தண்டனை விதித்துள்ளது. முதலாவது குற்றச்சாட்டில் இருந்து அவர் விடுதலை செய்யப்பட்டார்.
+The court has sentenced him to 17 years' imprisonment for allegedly accused of sexually abusing a schoolgirl three times.. He was released from the first charge.
+
+He was filed in the Nuwara Eliya High Court in 2019. In investigations carried out for the past five years, the court has given him the verdict.
+
+The victim should be given a compensation of Rs.. It has also been ordered to pay 25 thousand rupees as penalty. If this is not the case, he should be sentenced to 3 years of postponed six months in prison.
+
+The 35 -year -old man, a 35 -year -old man from Valappanai, was found guilty of allegedly sexually abusing his relative child.
 
 ...
 
 [Data](articles/b7686bd9.json)
+
+[Extended Data](ext_articles/b7686bd9.ext.json)
 
 ---
 

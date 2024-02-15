@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 15:51:20**
+As of **2024-02-15 16:02:48**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 1,058
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,244 (99.9%) of 7,248 articles have been extended.
+7,248 (100.0%) of 7,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### கட்டுப்பாட்டை இழந்த  மோட்டார் சைக்கிள் மின்கம்பதில் மோதி  இளைஞர் உயிரிழப்பு!
+### Youth killed in motorcycle
 
 *2024-02-15 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176450) · `ta`
 
-களுத்துறை வடக்கு பொலிஸ் பிரிவுக்கு உட்பட்ட மஹதுவேகம  பிரதேசத்தில் மோட்டார் சைக்கிளில் பயணித்த இளைஞர்  மின்கம்பத்தில் மோதி உயிரிழந்துள்ளார்.
+A youth who was traveling on a motorcycle in Mahaduwegama area belonging to the Kalutara North Police Division
 
-குறித்த இளைஞர் தனது வீட்டிலிருந்து அவர் வேலை செய்து கொண்டிருக்கும் கடைக்கு மோட்டார் சைக்கிளில் சென்று கொண்டிருந்தபோது  வீதியிலுள்ள மின்கம்பத்தில் மோதி பலத்த காயமடைந்து சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+The young man was riding a motorbike to the shop where he was working from his home and was severely injured when he was seriously injured.
 
-மோட்டார் சைக்கிளை செலுத்தியவருக்கு வேகத்தை கட்டுப்படுத்த முடியாமல் போனதையடுத்தே விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவித்தனர். உயிரிழந்தவர் 25 வயதான கிஹான் மதுசங்க லக்மால் என்பவராவர்.
+Police said the accident occurred after the motorcycle driver could not control the speed. The deceased is 25 -year -old Kihan Madusanga Lakmal.
 
 ◼️
 
 [Data](articles/af700332.json)
+
+[Extended Data](ext_articles/af700332.ext.json)
 
 ---
 
@@ -72,25 +74,29 @@ It was also stated in the court that the meeting was legal as the members of the
 
 ---
 
-### உத்தேச ஒலிபரப்பு ஒழுங்குபடுத்தல் ஆணைக்குழு சட்டமூலம் - எதிர்கட்சி கடும் அதிருப்தி
+### Proposed Broadcasting Regulatory Commission Bill - Opposition Dissatisfaction
 
 *2024-02-15 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176448) · `ta`
 
-இலங்கை அரசாங்கத்தின் உத்தேச ஒலிபரப்பு ஒழுங்குபடுத்தல் ஆணைக்குழு சட்டமூலம் குறித்து எதிர்கட்சி கடும் எதிர்ப்பை வெளியிட்டுள்ளது.
+The Opposition has issued strong opposition to the Sri Lankan government's proposed Broadcasting Regulatory Commission Bill.
 
-அரசாங்கத்தின் இந்த சட்டமூலத்தினால்  ஊடக சுதந்திரம் கட்டுப்படுத்தப்படலாம்  என ஐக்கிய மக்கள் சக்தி அச்சம் வெளியிட்டுள்ளது.
+The United People's Power has expressed fears that media freedom can be controlled by this bill by the government.
 
-ஐக்கியமக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் ஹர்ச டி சில்வா உத்தேச சட்டமூலம் குறித்து  அவநம்பிக்கை வெளியிட்டுள்ளார்.
+Harsha de Silva, a united power parliamentarian, has expressed distrust of the proposed Bill.
 
-இந்த சட்டமூலத்தினால் நிகழ்நிலை மற்றும் இலத்திரனியல் ஊடகங்கள் கட்டுப்படுத்தப்படும் சூழ்நிலை உருவாகலாம் எனஅவர் தெரிவித்துள்ளார்.
+He said the bill could create a situation and electronic media controlled.
 
-நிகழ்நிலை பாதுகாப்பு சட்டத்தில் அரசாங்கம் திருத்தங்களை மேற்கொள்ளவுள்ளமை குறித்து  நம்பிக்கையின்மையை வெளியிட்டுள்ள ஹர்சடிசில்வா சமூக ஊடகங்களை ஒடுக்குவதே இதன் நோக்கம் எனவும் குறிப்பிட்டுள்ளார்.
+Harsadisilva, who has expressed confidence in the government's amendment to the Ceylon Protection Act, said it was to suppress social media.
 
-இலங்கை அரசாங்கத்தின் உத்தேச ஒலிபரப்பு ஒழுங்குபடுத்தல் ஆணைக்குழு சட்டமூலம் குறிப்பிட்ட குழுவொன்றிற்கு தொலைக்காட்சி உரிமங்களை வழங்குவதற்கு உதவலாம் என அச்சம் வெளியாகியுள்ளது.
+There are fears that the Sri Lankan government's proposed broadcast regulatory commission can help a particular panel of television licenses.
 
-...
+Harsa de Silva said the Sri Lankan media world could become a black world if the Sri Lankan government's proposed Broadcasting Regulatory Commission Bill was implemented.
+
+◼️
 
 [Data](articles/24563391.json)
+
+[Extended Data](ext_articles/24563391.ext.json)
 
 ---
 
@@ -182,17 +188,25 @@ A student of the Sabaragamuwa University Faculty and two students was eating at 
 
 ---
 
-### පොලිස් වෙසින් කප්පම් ගන්න කල්ලියක්
+### A gang to extort police
 
 *2024-02-15 14:35:29* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-වෙසින්-කප්පම්-ගන්න-කල්ලියක්/11-408107) · `si`
 
-පානදුර  වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකයේ නිලධාරීන් ලෙස පෙනී සිටිමින් පුද්ගලයෙකු පදවාගෙන යමින් සිටි  මෝටර් රථයක් තුළ අයිස් මත්ද්‍රව්‍ය තිබූන බවට බියකර රුපියල් 3,60000/= මුදලක් වංචා සහගත ලෙස ලබා ගත් සංවිධානාත්මක කල්ලියක් අත්අඩංගුවට ගැනීම සඳහා  විමර්ශන ආරම්භ කළ බව මොරගහහේන  පොලිසිය කියයි
+Moragahahena Police say investigations into the arrest of an organized gang which was arrested in a car derived from a car in the Panadura Walana Central Anti-Corruption Association.
 
-පුද්ගලික අංශයේ තරුණ විධායක නිලධාරීවරයෙකු අවශ්‍යතාවයක් සඳහා පැලවත්ත  විභාග දෙපාර්තමේන්තුවට ගොස් නිවස කරා පැමිණෙමින් සිටියදී  මොරගහහේන  තල්ගහවිල පින් බෙහෙත් ශාලාව අසල මෝටර් රථය නවතා ජලය පානය කර පිටත්වීමට සැරසීමත් සමඟම   සිවිල් ඇඳුමින් සැරසී එම ස්ථානයට පැමිණි පුද්ගලයන් දෙදෙනෙකු  තමන් පානදුර වළාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකයේ පොලිස් නිලධාරීන් බව පවසමින්  හැඳුනුම්පත් දෙකක් පෙන්වා මෝටර් රථය  ඉදිරිපසත් අනෙක් පුද්ගලයා මෝටර් රථයේ පිටුපසත් පරික්ෂා කර ඇති අතර පිටුපස අසුන ආසන්නයේ පරික්ෂා කළ පුද්ගලයා " චිෆ් මේ තීයෙන්නේ බඩු" යැයි පවසමින් කුඩා පාර්සලක් අතට ගෙන තමුන්ගේ වාහනේ තිබිලා අපි අයිස් මත්ද්‍රව්‍ය  හොයාගත්තා ,මොකද කියන්නේ? ගොඩින් බේරලා දෙන්න පුළුවන් කැමතිද යනුවෙන් එම පුද්ගලයාගෙන් විමසා ඇතැයි පොලිසිය කියයි
+A private sector youth to the Department of Examinations at the Pelagaham Talgahawila to the house was to be taken to the house and drank the car and drank water and decorate the delegation.We have shown two identity cards to the car and the other person's backing on the back of the car, what does it mean to find the ice drugs?The police say that he is willing to be saved from God
+
+According to the police, he had said that he had come to the Department of Examinations, asking for his own bank accounts, asking the executive office from Tharana Savahavila.
+
+"We'll get this to chief, our SSP's Reimans, who can help us to help us, and try it.
+
+The phone has been disconnected and that the person has been disconnected and that he will have no choice but to arrest the law and that he will have to arrest him.
 
 ...
 
 [Data](articles/29b761d3.json)
+
+[Extended Data](ext_articles/29b761d3.ext.json)
 
 ---
 
@@ -247,6 +261,8 @@ A police team under OIC Watawala police Chandana Gamage is conducting further in
 ◼️
 
 [Data](articles/c9c605b4.json)
+
+[Extended Data](ext_articles/c9c605b4.ext.json)
 
 ---
 

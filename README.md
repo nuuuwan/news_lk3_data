@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 06:53:26**
+As of **2024-02-15 07:16:10**
 
 ## Newspaper Stats
 
-*Scraped **7,108** Articles*
+*Scraped **7,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 370
 dailyftlk | 389
 adalk | 603
 tamilmirrorlk | 868
-adaderanalk | 870
+adaderanalk | 872
 virakesarilk | 912
 adaderanasinhalalk | 998
 dailymirrorlk | 1,043
@@ -26,11 +26,31 @@ dailymirrorlk | 1,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,104 (99.9%) of 7,108 articles have been extended.
+7,108 (100.0%) of 7,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### One dead, children among 21 injured in Super Bowl parade shooting
+
+*2024-02-15 06:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97281/one-dead-children-among-21-injured-in-super-bowl-parade-shooting) · `en`
+
+One person was killed and multiple children were among 21 injured after a mass shooting at the Kansas City Chiefs’ Super Bowl victory rally on Wednesday triggered panic among huge crowds of fans.
+
+Children’s Mercy Hospital in Kansas City, which takes patients up to the age of 17, said it was treating 12 people -- 11 of them children, nine for gunshot wounds -- after the shooting, which unfolded just moments after Chiefs players had addressed a vast crowd of cheering supporters gathered nearby.
+
+Police said three people had been taken into custody after the incident, but the motive and circumstances behind the shooting were still under investigation.
+
+Kansas City fire department chief Ross Grundyson told a press conference that many of the victims had sustained “life-threatening injuries.”
+
+“We had eight what we considered immediately life-threatening patients, we had seven with life-threatening injuries, and had six that had minor injuries,” Grundyson said.
+
+...
+
+[Data](articles/3231ca8e.json)
+
+---
 
 ### Underworld figure ‘Piyuma’ brought to Sri Lanka from Dubai
 
@@ -41,6 +61,28 @@ Piyum Hasthika alias ‘Piyuma’, the main accomplice of underworld figure Sali
 ◼️
 
 [Data](articles/b9030ebe.json)
+
+[Extended Data](ext_articles/b9030ebe.ext.json)
+
+---
+
+### Main accomplice of “Kudu Salindu” repatriated from Dubai
+
+*2024-02-15 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97279/main-accomplice-of-kudu-salindu-repatriated-from-dubai) · `en`
+
+Criminal gang member Piyum Hasthika alias “Piyuma”, who was in hiding in Dubai, was repatriated to Sri Lanka in the early hours of Thursday (Feb.15).
+
+A special team of the Criminal Investigation Department (CID) had brought “Piyuma” back to the island, the Public Security Ministry said.
+
+He is reportedly the main accomplice of the notorious underworld figure Salindu Malshika alias “Kudu Salindu,” who is also currently in the custody of the CID.
+
+A team of officers from the CID had left for Madagascar on 11 March 2023 to repatriate Sri Lankan drug kingpin Nadun Chinthaka alias ‘Harak Kata’ and his infamous accomplice Salindu Malshitha Gunaratne, alias ‘Kudu Salindu’, who were arrested while on a visit to the island off the southeastern coast of Africa.
+
+The CID officers later returned to Sri Lanka with the notorious drug dealers on 15 March, and obtained an order under the Prevention of Terrorism Act (PTA) to detain the duo for 90 days.
+
+◼️
+
+[Data](articles/10d92ef2.json)
 
 ---
 
@@ -58,21 +100,27 @@ He is reportedly the main accomplice of the notorious underworld figure Salindu 
 
 [Data](articles/28562a0c.json)
 
+[Extended Data](ext_articles/28562a0c.ext.json)
+
 ---
 
-### ’துறைசார்  கல்வி முறை உருவாக்கப்படும்’
+### The telephone departmental education system is created
 
 *2024-02-15 04:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துறைசார்-கல்வி-முறை-உருவாக்கப்படும்/175-333234) · `ta`
 
-நாட்டை பொருளாதார மாற்றத்திற்கு இட்டுச் செல்வதற்கு, உலகத்திற்கு உகந்த வகையிலான புதிய கல்வி முறைமை அவசியமானது எனவும், அதன் மூலம் போட்டி நிறைந்த உலகச் சந்தைக்குத் தேவையான துறைசார் நிபுணர்களை உருவாக்க முடியும் எனவும் ஜனாதிபதி ரணில் விக்கரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe said that a new education system is essential for the world to lead the country to economic change and thereby creating a competitive world market.
 
-பரீட்சை சுமையை குறைத்து, ஆங்கிலம் மற்றும் தொழில்நுட்ப பாடங்களை கல்வி முறையில் உள்ளடக்கி, தொழிலுக்கு ஏற்றவகையிலான மாணவர்களை உருவாக்க எதிர்பார்ப்பதாகவும், புதிய தொழிற்கல்லூரிகள் மற்றும் தொழில்நுட்ப பல்கலைக்கழகங்களை நிறுவுவதற்கு திட்டமிடப்பட்டுள்ளதாகவும் ஜனாதிபதி தெரிவித்தார்.
+The President said that it is expected to reduce the exam load, educate English and technical subjects, and create students who are entertaining professionalism and are planning to establish new vocational colleges and technical universities.
 
-கொள்ளுப்பிட்டி புனித அந்தோனியார் பெண்கள் கல்லூரியில் புதன்கிழமை (14) பாடசாலை மாணவ, மாணவிகளுக்கான இலவச பாடசாலை பாடப் புத்தகங்கள் மற்றும் பாடசாலை சீருடைகள் வழங்கும் தேசிய நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இவ்வாறு தெரிவித்தார்.
+President Ranil Wickremesinghe said this while addressing a national event at St. Anthony's College of St. Anthony's Girls' College, Kaluppitti, on Wednesday (14).
+
+There are five schools near my house. I learned Royal College and Therston College, Women's College, Mahanama College and St. Anthony's College. So I have been able to focus more on the education sector. During the reign of President JR Jayawardene, we focused on the development of these schools.
 
 ...
 
 [Data](articles/7c047708.json)
+
+[Extended Data](ext_articles/7c047708.ext.json)
 
 ---
 
@@ -94,19 +142,21 @@ At the headquarters of the United People's Power Party, the Small Agreement was 
 
 ---
 
-### சூழ்ச்சிகளை முறியடித்து மாநாட்டை நடத்துக
+### Take up the convention to overcome maneuvers
 
 *2024-02-15 04:02:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூழ்ச்சிகளை-முறியடித்து-மாநாட்டை-நடத்துக/175-333232) · `ta`
 
-உட்கட்சி ஜனநாயகத்தைச் சிதைக்கும் வகையில் நடைபெறும் சூழ்ச்சிகளை முறியடித்து, உடனடியாக மாநாட்டை நடாத்துமாறு, இலங்கைத் தமிழரசுக் கட்சியின் பெருந்தலைவரும், பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தன், கட்சியின் புதிய தலைவராகத் தெரிவுசெய்யப்பட்டுள்ள சிவஞானம் ஸ்ரீதரனுக்கு அறிவுறுத்தியுள்ளார்.
+Sivagnanam Sridharan, the new leader of the party, has advised Sivagnanam Sampanthan, the leader of the Sri Lanka Tamil National Alliance (TNA), and the new leader of the party, to overcome the intrigue of internal democracy and immediately hold the conference.
 
-பாராளுமன்ற உறுப்பினர்களான சிவஞானம் ஸ்ரீதரன், சார்ள்ஸ் நிர்மலநாதன் ஆகிய இருவரும் இணைந்து,   கொழும்பிலுள்ள   இல்லத்தில் இரா.சம்பந்தனை, செவ்வாய்க்கிழமை (13) சந்தித்துக் கலந்துரையாடியபோதே, அவர் இவ்வாறு தெரிவித்துள்ளார்.
+He was speaking at a meeting with MPs Sivagnanam Sridharan and Charles Nirmalanathan at the residence in Colombo on Tuesday (13).
 
-கட்சியின் தலைமைப் பொறுப்பை உத்தியோகபூர்வமாக ஏற்றுக்கொள்வதற்கு உடனடி நடவடிக்கைகளை மேற்கொள்ளுமாறும், நிருவாகிகள் தெரிவு தொடர்பில் இணக்க அடிப்படையில் எட்டப்பட்ட முடிவுகளை பொதுச்சபை அங்கீகரிக்காதவிடத்து, அல்லது அத்தெரிவுகளில் குழப்பங்கள் நிலவுமிடத்து,தேர்தல் முறைமை மூலம் தெரிவுகளை நடாத்தி, அன்றையதினமே மாநாட்டையும் நடாத்துமாறு அவர் மேலும் தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+He further stated that the convention would be held on the day of the party to take immediate steps to officially accept the party's leadership, and that the decision was not recognized by the General Assembly, or the confusion in the election system, and the election system.
 
 ◼️
 
 [Data](articles/a7445232.json)
+
+[Extended Data](ext_articles/a7445232.ext.json)
 
 ---
 
@@ -1953,53 +2003,5 @@ Police had launched a search operation after the relatives had complained that t
 [Data](articles/91403c5d.json)
 
 [Extended Data](ext_articles/91403c5d.ext.json)
-
----
-
-### Ali Sabry to attend Munich Security Conference in Germany
-
-*2024-02-14 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ali-Sabry-to-attend-Munich-Security-Conference-in-Germany/108-277011) · `en`
-
-Colombo, Feb 14 (Daily Mirror) - Foreign Affairs Minister M.U.M. Ali Sabry is to participate in the 60th edition of the prestigious Munich Security Conference (MSC) in Germany on Friday (16), the Ministry said.
-
-The objective of participating in the conference is to help build trust and contribute to the peaceful resolution of conflicts by fostering continuous, curated and informal dialogues within the international security community.
-
-Minister Sabry will address the conference session on “Protecting Global Commons” on Saturday (17).
-
-During the visit, Minister Sabry will engage in meetings with his counterparts from a number of countries, parliamentarians, and business leaders as well.
-
-◼️
-
-[Data](articles/672a2e92.json)
-
-[Extended Data](ext_articles/672a2e92.ext.json)
-
----
-
-### Sri Lanka rupee closes at 313.00/10 to the US dollar
-
-*2024-02-14 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-00-10-to-the-us-dollar-150854/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 313.00/10 to the US dollar Wednesday, from 313.10/30 on Tuesday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.35/45 percent down from 10.50/60 percent.
-
-A bond maturing on 15.09.2027 closed at 11.30/45 percent from 11.40/50 percent.
-
-A bond maturing on 15.03.2028 closed at 11.80/85 percent from 11.70/80 percent.
-
-A bond maturing on 15.07.2029 closed at 12.05/20 percent from 12.00/50 percent.
-
-A bond maturing on 15.05.2030 closed at 12.05/20 percent down from 12.25/40 percent.
-
-A bond maturing on 15.05.2031 closed at 12.25/45 percent from 12.25/75 percent.
-
-A bond maturing on 01.07.2032 closed at 12.35/60 percent down from 12.25/75 percent. (Colombo/Feb14/2024)
-
-◼️
-
-[Data](articles/f11e69d4.json)
-
-[Extended Data](ext_articles/f11e69d4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 11:33:04**
+As of **2024-02-15 11:52:01**
 
 ## Newspaper Stats
 
-*Scraped **7,163** Articles*
+*Scraped **7,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,76 @@ islandlk | 376
 dailyftlk | 389
 adalk | 608
 tamilmirrorlk | 875
-adaderanalk | 878
-virakesarilk | 922
+adaderanalk | 879
+virakesarilk | 924
 adaderanasinhalalk | 1,010
-dailymirrorlk | 1,045
+dailymirrorlk | 1,053
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,149 (99.8%) of 7,163 articles have been extended.
+7,172 (100.0%) of 7,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### தொடரும் யுக்திய நடவடிக்கை : 656 பேர்  24 மணி நேரத்துக்குள் கைது!
+### Red announcement against 42 people who fled the country!
+
+*2024-02-15 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176424) · `ta`
+
+In response to 42 international red announcements have been issued to the culprits who fled the country for crimes such as underworld and drug trafficking, police chief Deshand Pandu Tennakoon said.
+
+He was speaking at the inauguration of the new police station in front of the Colombo National Hospital.
+
+He said the suspects involved in these red announcements would be brought to Sri Lanka with the help of the International Police.
+
+He also said that the police officer who allegedly helped Harakatta escaped from the Criminal Investigation Department would soon be brought to Sri Lanka.
+
+◼️
+
+[Data](articles/29c60f59.json)
+
+[Extended Data](ext_articles/29c60f59.ext.json)
+
+---
+
+### Increasing divorce cases
+
+*2024-02-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176415) · `ta`
+
+Minister of Justice Vijayadasa Rajapakse said that 48,391 divorce cases have been taken up in courts from January 2022 to December 31st.
+
+Meanwhile, 37 and 514 cases of alimony for spouse or children have been taken up for hearing during the period.
+
+He added that this is considered a large sum for a small country like Sri Lanka.
+
+◼️
+
+[Data](articles/ab88528a.json)
+
+[Extended Data](ext_articles/ab88528a.ext.json)
+
+---
+
+### Continuing strategy: 656 arrested within 24 hours!
 
 *2024-02-15 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176423) · `ta`
 
-நாடளாவிய ரீதியில்  இன்று (15) அதிகாலை முடிவடைந்த 24 மணித்தியாலங்களில் மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கைகளின்போது  656 பேர் சந்தேகத்தில்  கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+656 people were arrested on suspicion of 24 hours after the end of this morning (15).
 
-போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 535 சந்தேக நபர்களும் குற்றப் பிரிவில் குறிப்பிடப்பட்ட பட்டியலில் காணப்படும்  121 சந்தேக நபர்களும்  கைது செய்யப்பட்டுள்ளனர்.
+535 suspects in connection with drug offenses and 121 suspects in the list of crimes have been arrested.
 
-போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 535 சந்தேக நபர்களில் 16 பேர் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பணியகம் மற்றும் பொலிஸ் விசேட பணியகம் ஆகியவற்றின் பட்டியலில் உள்ளனர்.
+Of the 535 suspects involved in drug offenses, 16 are on the list of the Police Drug Eradication Bureau and the Special Bureau of Police.
 
-சந்தேகத்தில் கைது செய்யபட்டவர்களில் 121 பேரில்  போதைப்பொருள் குற்றங்கள் தொடர்பான திறந்த பிடியாணை பிறப்பிக்கப்பட்ட  6 பேரும் அடங்குவதாகத் தெரிவிக்கப்படுகிறது.
+Of the 121 suspects, 121 are reported to have been issued by six opened drug crimes.
 
 ◼️
 
 [Data](articles/97bf341b.json)
+
+[Extended Data](ext_articles/97bf341b.ext.json)
 
 ---
 
@@ -68,41 +108,67 @@ The Maldives’ homeland security minister Ali Ihusan said his office is working
 
 [Data](articles/b7fe4ad8.json)
 
+[Extended Data](ext_articles/b7fe4ad8.ext.json)
+
 ---
 
-### கேகாலையில் "டோக்" குரங்குகளை கட்டுப்படுத்த  ஏர் ரைபிள் துப்பாக்கி
+### Air Rifle gun to control "Tok" monkeys in Kegalle
 
 *2024-02-15 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176414) · `ta`
 
-கேகாலை மாவட்டத்தில் டோக் இன குரங்குகளை கட்டுப்படுத்தும் நோக்கில் விவசாயிகளுக்கு உயர்தர ஏர் ரைபிள் துப்பாக்கிகளை கொள்வனவு செய்வதற்கு நிதி ஒதுக்கப்படும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya has said that the funds will be allocated to the farmers to buy high -quality air rifle guns in order to control the Doki monkeys in Kegalle district.
 
-நாட்டில் குறிப்பாக கேகாலை மாவட்டத்தில் குரங்குகளின் அச்சுறுத்தல் அதிகரித்துள்ளது. இதன் காரணமாக பாடசாலை சிறுவர்கள் கூட உணவை கைகளில் வைத்திருக்க முடியாத நிலையேற்பட்டுள்ளது.
+The threat of monkeys has increased in the country, especially in the Kegalle district. Because of this, even school children are unable to keep the food in their hands.
 
-குரங்குகளின் எண்ணிக்கையை கட்டுப்படுத்த கருத்தடை அறுவை சிகிச்சைகளை நடைமுறைப்படுத்துவது தொடர்பாக கால்நடை அதிகாரிகளுடன் பலமுறை கலந்துரையாடலில் ஈடுபட்ட நிலையில் பிரச்சினைக்குத் தீர்வுகாண நான் தனிப்பட்ட முறையில் தலையிட்டுள்ளேன். எவ்வாறான பாதிப்புகள் ஏற்பட்டாலும் எனது தீர்மானத்தில் மாற்றம் இல்லை.
+I have personally intervened to resolve the issue while engaged in repeated discussions with veterinary authorities over the implementation of contraceptive surgery to control the number of monkeys. Whatever the impacts, my resolution has not changed.
 
-கேகாலை மாவட்டத்தில் உள்ள  600 விவசாய அமைப்புகளுக்கு ஏர் ரைபிள் துப்பாக்கிகளை வழங்கவுள்ளேன். டோக் குரங்குகளின் எண்ணிக்கையைக் கட்டுப்படுத்த உடனடியாக நடவடிக்கை எடுக்க இந்த அமைப்புகளுக்கு அதிகாரம் அளிப்பதையே இந்த முயற்சியின் நோக்கமாகக் கொண்டுள்ளது என தெரிவித்துள்ளார்.
+I will provide air rifle guns to 600 agricultural organizations in Kegalle district. He said that the purpose of the effort is to empower these organizations to take immediate action to control the number of monkeys.
 
 ◼️
 
 [Data](articles/e6fbec0b.json)
 
+[Extended Data](ext_articles/e6fbec0b.ext.json)
+
 ---
 
-### இரண்டாம் கட்ட விண்ணப்பம் இன்று முதல்
+### The second phase application from today
 
 *2024-02-15 10:57:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டாம்-கட்ட-விண்ணப்பம்-இன்று-முதல்/175-333242) · `ta`
 
-அஸ்​வெசும இரண்டாம் கட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் நடவடிக்கைகள் வியாழக்கிழமை (15) முதல் ஆரம்பிக்கப்படும் என நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
+Finance Minister Shehan Semasinghe said that steps to accept applications for the second phase of Az Vesuma will be launched from Thursday (15).
 
-ஒரு மாத காலத்திற்கு அந்த விண்ணப்பங்களை ஏற்றுக் கொள்வதற்கு எதிர்பார்ப்பதாக இராஜாங்க அமைச்சர் குறிப்பிட்டுள்ளார்.
+The Minister of State has stated that he expects those applications for a month.
 
-இரண்டாம் கட்டத்தின் கீழ் சுமார் 4 இலட்சம் குடும்பங்களுக்கு நிவாரணம் வழங்கப்படவுள்ளதாக நிதி இராஜாங்க அமைச்சர் தெரிவிக்கையில் , “விண்ணப்பங்களை விண்ணப்பிக்க விரும்பும் அனைவரும் ஒன்லைன் முறையின் மூலம் விண்ணப்பிக்கலாம். மேலதிகமாக, பிரதேச செயலகங்களில் உள்ள சிறப்பு பிரிவுகளுக்கும் வழங்கலாம்.
+The Minister of Finance said, “All those who wish to apply for applications can apply through the online system.. In addition, special divisions in the Divisional Secretariats can be provided.
 
-ஒரு மாதத்திற்கு விண்ணப்பங்களை கோருவோம். முதல் சுற்றில், 20 லட்சம் விண்ணப்பங்களுக்கு அஸ்வெசும கொடுப்பனவு வழங்கப்படும். இரண்டாம் சுற்றில் அதனை 24 லட்சம் வரை அதிகரிக்க எதிர்பார்க்கிறோம். அவர்களுக்கு ஜூலை மாதம் தேவையான நலத்திட்ட உதவிகள் வழங்கப்படும் என எதிர்பார்க்கிறோம். மொத்தத்தில், இந்த ஆண்டு நலத்திட்டங்களுக்கு அரசாங்கம் 205 பில்லியன் ரூபாய் செலவழிக்கும் என்று எதிர்பார்க்கப்படுகிறது” என தெரிவித்தார்.
+We will request applications for a month. In the first round, 20 lakh applications will be issued as Assembly Payment. We expect to increase it up to 24 lakhs in the second round. We expect them to be provided with the necessary welfare assistance in July. Overall, the government is expected to spend 205 billion rupees on welfare schemes this year. ”
 
 ◼️
 
 [Data](articles/06ba892c.json)
+
+[Extended Data](ext_articles/06ba892c.ext.json)
+
+---
+
+### Phase 1 of Anuradhapura North Water Supply project declared open
+
+*2024-02-15 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97286/phase-1-of-anuradhapura-north-water-supply-project-declared-open) · `en`
+
+The initial stage of the Anuradhapura North Water Supply project, aimed at delivering clean drinking water to the local population, was declared open on Thursday morning (Feb.15).
+
+President Ranil Wickremesinghe and the President of Japan International Cooperation Agency (JICA), Dr. Tanaka Akihito graced the event, at the invitation of Water Supply Minister Jeevan Thondaman.
+
+Through the project, funded by JICA and implemented by the National Water Supply Drainage Board (NWSDB), water supply facilities are constructed in Anuradhapura North where the people depend on unsafe ground water which causes dental fluorosis.
+
+This water supply project is expected to contribute to improving living standards, hygienic status and health conditions in the area.
+
+◼️
+
+[Data](articles/46c1876d.json)
+
+[Extended Data](ext_articles/46c1876d.ext.json)
 
 ---
 
@@ -122,113 +188,157 @@ This water supply project is expected to contribute to improving living standard
 
 [Data](articles/7f952e9c.json)
 
+[Extended Data](ext_articles/7f952e9c.ext.json)
+
 ---
 
-### சட்டவிரோத நடவடிக்கைகளில் ஈடுபட்ட 25 இலங்கையர்களை நாடு கடத்தும் மாலைதீவு!
+### Maldives deported 25 Sri Lankans engaged in illegal activities
 
 *2024-02-15 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176421) · `ta`
 
-சட்டவிரோத நடவடிக்கைகளில் ஈடுபட்டதாகக் குற்றம் சுமத்தப்பட்டுள்ள 25 இலங்கையர்கள் உட்பட 186 வெளிநாட்டவர்களை நாடு கடத்துவதற்கு மாலைதீவு அரசாங்கம் தீர்மானித்துள்ளது.
+The Maldivian government has decided to deport 186 foreigners, including 25 Sri Lankans accused of illegal activities.
 
-வீசா மீறல் மற்றும் போதைப்பொருள் குற்றங்களில் ஈடுபட்ட குழுவொன்றே  நாடு கடத்தப்பட்டுள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Foreign media reports that a group involved in a visa violation and drug offenses has been deported.
 
-25 இலங்கையர்களுக்கு மேலதிகமாக, 83 பங்களாதேஷ் பிரஜைகள், 46 இந்திய பிரஜைகள் மற்றும் 8 நேபாள பிரஜைகள் நாடு கடத்தப்படவுள்ளவர்களில் அடங்குவர்.
+In addition to 25 Sri Lankans, there are 83 Bangladeshi citizens, 46 Indian citizens and 8 Nepal citizens to be deported.
 
-எவ்வாறாயினும், குறித்த வெளிநாட்டினரை நாடு கடத்துவதற்கான திகதி இன்னும் அறிவிக்கப்படவில்லை எனத் தெரிவிக்கப்படுகிறது.
+However, the date of deportation of foreigners has not yet been announced.
 
 ◼️
 
 [Data](articles/55d7af22.json)
 
+[Extended Data](ext_articles/55d7af22.ext.json)
+
 ---
 
-### புறக்கோட்டை பஸ்ரியன் மாவத்தை  கழிப்பறைக் கட்டணம் அதிகரிப்பு!
+### Toilet fee increase
 
 *2024-02-15 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176419) · `ta`
 
-கொழும்பு புறக்கோட்டை பஸ்ரியன்  மாவத்தை  தனியார் பஸ் நிலையத்தில்  உள்ள கழிவறைகளுக்கான   கட்டணம் ரூபா 50 ஆக அதிகரிக்கப்பட்டுள்ளது.
+The toilets at the Basrian Mawatha Private Bus Stand at Pettah, Colombo, have been increased to 50 rupees.
 
-முன்பு இந்த பொதுக் கழிப்பறையில் சிறுநீர் கழித்தல் உள்ளிட்ட உடல் தேவைகளை பூர்த்தி செய்ய ஒரு நபருக்கு 40 ரூபா கட்டணம் வசூலிக்கப்பட்டது.
+Previously, this public toilet was charged 40 rupees per person to meet the body needs, including urination.
 
-கடந்த ஜனவரி மாதம் தேசிய போக்குவரத்து ஆணைக்குழுவுடன் கைச்சாத்திடப்பட்ட உடன்படிக்கையின் பிரகாரம் பொதுக் கழிவறையின் கட்டணம் அதிகரிக்கப்பட்டுள்ளது.
+According to the agreement signed with the National Transport Commission last January, the public toilet fee has been increased.
 
 ◼️
 
 [Data](articles/50454a7d.json)
 
+[Extended Data](ext_articles/50454a7d.ext.json)
+
 ---
 
-### இலங்கைக்கு வெளியிலிருந்து வீசும் காற்றின் தூசித் துகள்கள் பதுளை மாவட்டத்தை சூழ்ந்தது : சுகாதாரம் பாதிக்கப்படலாம் என எச்சரிக்கை!
+### Badulla district surrounds the Badulla district
 
 *2024-02-15 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176418) · `ta`
 
-பதுளை மாவட்டத்தில் வளிமண்டலத்தில் வழமைக்கு மாறாக  தூசித் துகள்களின் செறிவு அதிகரித்துள்ளமை தெரிய வந்துள்ளதாக  பதுளை அனர்த்த முகாமைத்துவ நிலையத்தின் பிரதிப் பணிப்பாளர் ஈ.எம்.எல்.உதய குமார தெரிவித்தார்.
+Deputy Director of the Badulla Disaster Management Center, EML Udaya Kumara said that the concentration of dust particles has increased in the atmosphere in the Badulla district.
 
-இந்த நாட்களில் இலங்கைக்கு வெளியிலிருந்து வீசும் காற்றில் உள்ள சிறிய தூசித்  துகள்கள் உள்நாட்டுக்கு வந்து பதுளை மாவட்டம் முழுவதும் வளிமண்டலத்தில் பரவியுள்ளது.
+These days, small dust particles in the air that blows from Sri Lanka have come to the home and spread throughout the Badulla district.
 
-மலை அமைப்பின் தொலைதூரக் காட்சியைப் பார்க்கும்போது, கருமையான மூடுபனி தெரியும் என்றும் கூறப்படுகிறது.
+It is also said that the dark fog is visible when looking at the distant scene of the mountain system.
 
-இது சாதாரண வளிமண்டலத்தில் இருக்க வேண்டிய தூசி அடர்த்தியை விட அதிக அடர்த்தியாக உள்ளதாக தகவல்கள் தெரிவிக்கின்றன என்றார்.
+According to reports, it is more dense than the dust to be in the normal atmosphere.
 
-இதன் காரணமாக பொதுச் சுகாதாரம் பாதிக்கப்படலாம் எனவும் குறிப்பாக இந்த நிலையில் சுவாசக் கோளாறு உள்ள சிறு குழந்தைகள் முதல் பெரியவர்கள் வரை அவதானமாக இருக்க வேண்டியது அவசியம் எனவும் சுகாதார திணைக்களங்களும் இது தொடர்பில் விசேட கவனம் செலுத்தியுள்ளது எனவும் அவர் தெரிவித்தார்.
+He said that public health can be affected, especially in this situation, especially in this situation, and that the health department has paid special attention to this.
 
-இது தொடர்பில் தேசிய கட்டிட  ஆராய்ச்சி நிறுவனம் விசேட கவனம் செலுத்தியுள்ளதாகவும் உதய குமார மேலும் தெரிவித்தார்.
+Udaya Kumara added that the National Building Research Institute has paid special attention to this.
 
 ◼️
 
 [Data](articles/786b346a.json)
 
+[Extended Data](ext_articles/786b346a.ext.json)
+
 ---
 
-### நிறைவுக்கு வந்தது இரு தினங்களாக தொடர்ந்த சுகாதார தொழிற்சங்கங்களின் பணிப்பகிஷ்கரிப்பு !
+### Public lavatory facility charges increased to Rs. 50 per person
+
+*2024-02-15 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-lavatory-facility-charges-increased-to-Rs-50-per-person/108-277084) · `en`
+
+Colombo, Feb 15 (Daily Mirror) - The fees for utilizing the public restroom facilities at Bastian Mawatha Bus Stand have been raised to Rs. 50 per person.
+
+Previously, the lavatory usage fee was Rs. 20 per person, according to its maintenance personnel.
+
+Subsequent to an agreement with the National Transport Commission office, the charges for lavatory facilities at Bastian Mawatha have been increased.
+
+With the increase in the water tariff, the monthly water bill has increased to Rs. 175,000, and therefore, the lavatory facility charges have also been increased, they said.
+
+Accordingly, the water bill has been increased by Rs. 60,000.
+
+However, the public lavatory facilities maintained by the Colombo Municipal Council (CMC) at Bastian Mawatha have not been revised, and the current charges are at Rs. 40 per person.
+
+◼️
+
+[Data](articles/10953ed9.json)
+
+[Extended Data](ext_articles/10953ed9.ext.json)
+
+---
+
+### The work of the health trade unions that followed for two days!
 
 *2024-02-15 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176417) · `ta`
 
-கடந்த இரு தினங்களாக தொடர்ந்த சுகாதார தொழிற்சங்கங்களின் பணிப்பகிஷ்கரிப்பு இன்று வியாழக்கிழமை (15) காலை 6.30 மணியுடன் நிறைவுக்கு கொண்டுவரப்பட்டுள்ளது.
+The work of the health trade unions that have been continued for the past two days have been completed today (15) at 6.30 am.
 
-வைத்தியர்களுக்கு வழங்கப்படும் மேலதிக கொடுப்பனவான DAT ஐ தமக்கும் வழங்குமாறு கோரி 72 சுகாதார தொழிற்சங்கங்கள் 13 ஆம் திகதி செவ்வாய்க்கிழமை காலை 6 மணி முதல்  தொழிற்சங்க நடவடிக்கையை முன்னெடுத்து வந்தன.
+The 72 health trade unions have been carrying out trade union action from 6 am on Tuesday, 13th, demanding that the DAT for the doctors DAT.
 
-இந்நிலையில், சுகாதார தொழிற்சங்கங்களின் பிரச்சினைகள் குறித்து எதிர்வரும் திங்கட்கிழமை கலந்துரையாடப்படுமென சுகாதார அமைச்சர் ரமேஸ் பத்திரன அறிவித்ததையடுத்து குறித்த பணிப்புறக்கணிப்பு கைவிடப்பட்டுள்ளது.
+In this backdrop, the workshop has been abandoned after Health Minister Rames Pathirana announced that the issues of the health trade unions will be discussed next Monday.
 
-அத்துடன் சுகாதாரத்துடன் தொடர்புடைய சில சேவைகளை அத்தியாவசிய சேவைகளாகப் பிரகடனப்படுத்தி ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் உத்தரவுக்கமைய அதிவிசேட வர்த்தமானி வெளியிடப்பட்டமை குறிப்பிடத்தக்கது.
+It is also worth noting that the Gazette was issued on the orders of President Ranil Wickremesinghe, who declared some of the health related services as essential services.
 
 ◼️
 
 [Data](articles/ee5adf72.json)
 
+[Extended Data](ext_articles/ee5adf72.ext.json)
+
 ---
 
-### මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරණයකු ලක්ෂ පනහක මත්ද්‍රව්‍ය සමඟ අත්අඩංගුවට
+### Large scale drug dealer arrested with drugs
 
 *2024-02-15 10:20:03* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-මත්ද්‍රව්‍ය-ජාවාරම්කරණයකු-ලක්ෂ-පනහක-මත්ද්‍රව්‍ය-සමඟ-අත්අඩංගුවට/11-408096) · `si`
 
-මෝදර අලුත් මාවත ප්‍රදේශයේදී සිදුකළ හදිසි මෙහෙයුමක දී රුපියල් ලක්ෂ පනහකට අධික වටිනාකමින් යුත් මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගත් බව විශේෂ කාර්ය කාර්යය බලකාය පවසයි.
+The STF personnel said that a large number of narcotics worth Rs.
 
-වැඩ බලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මත ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ විශේෂ කාර්ය බළකායේ බුද්ධි කොට්ඨාශයට ලද තොරතුරකට අනුව මෙම මෙහෙයුම දියත් කර තිබුණි.
+The operation was launched following information received by the Special Task Force to the Special Task Force to the Special Task Force of Justice under the operation of the Acting Inspector General of Deshabandu Tennakoon.
 
-එහිදී විශේෂ කාර්යය බලකායේ  බුද්ධි කොට්ඨාසයේ උප පොලිස් පරීක්ෂක ගුණසෝම මහතා ඇතුළු නිලධාරී කණ්ඩායමක් මෝදර අලුත් මාවත අසල රැඳී සිටි පුද්ගලයකු පරීක්ෂා කිරීමේදී ඔහු සන්තකයේ තිබී (ඩයිසැටයිල්මෝර්ෆින්) නොහොත් හෙරොයින් ග්‍රෑම් 112 මිලිග්‍රෑම් 690 සහ (මෙත්ඇම්පිටමින්) නොහොත් අයිස් ග්‍රෑම් 25 මිලි ග්‍රෑම් 700 භාරයට ගත් බව පැවසේ.
+A group of officers including the Special Task Intelligence Intelligence Gunasoma has been taken into custody in his possession (dycadailmorofin) or 700 grams of ice..
 
-ඒ අනුව සැකකරු සහ මත්ද්‍රව්‍ය තොගය අත්අඩංගුවට ගෙන ඔහු පැමිණි බවට සැක කෙරෙන යාබද අලුත් මාවතේ නවතා තිබූ සුඛෝපභෝගී ජීප් රථය පරීක්ෂා කිරීමේදී එහි කැබිහෝල්හී සඟවා තිබූ (මෙත්ඇම්පිටමින්) නොහොත් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 25 මිලිග්‍රෑම් 850, ඒවා කිර මැනීමට භාවිතා කරන විද්‍යුත් තරාදියක් හා රුපියල් 170,000 මුදලක් පොලිස් භාරයට ගෙන තිබේ.
+Accordingly, when the suspect and the livelihood of the new path was arrested and stopped at the adjoining new path, he was hidden at the cabhills, which was hidden (ICEMMaming), and an electricity used to measure the milk and 17,000 rupees.Taken into the seized.
+
+The luxury jeep of the Kia Spatage is also taken into custody.
+
+Police suspect that the suspect has been distributing the drug belonging to a larger drug network and will be handed over to the Police Narcotics Bureau.
+
+It is said that the stock of narcotics was arrested.
 
 ...
 
 [Data](articles/1df030bf.json)
 
+[Extended Data](ext_articles/1df030bf.ext.json)
+
 ---
 
-### கண்டி மாவட்டத்தின் 19 பிரதேச செயலகப் பிரிவுகள் 1,900 மில்லியன் ரூபா செலவில்  அபிவிருத்தி - பிரசன்ன ரணதுங்க
+### 19 Divisional Secretariat Divisions of Kandy District at a cost of Rs 1,900 million
 
 *2024-02-15 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176412) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பேரில் நடைமுறைப்படுத்தப்படும் மலையக தசாப்த விசேட ஒருங்கிணைந்த கிராம அபிவிருத்தி வேலைத்திட்டத்தின் கீழ் கண்டி மாவட்டத்தின் 19 பிரதேச செயலகப் பிரிவுகள் 1,900 மில்லியன் ரூபாவில் அபிவிருத்தி செய்யப்படவுள்ளன.
+The 19 Divisional Secretariat of Kandy District will be developed at a cost of Rs 1,900 million under the Hill Daddy Special Integrated Rural Development Program implemented on the directive of President Ranil Wickremesinghe.
 
-வாழ்வாதாரம் மற்றும் உணவுப் பாதுகாப்பு, சந்தை மேம்பாடு, கல்வி, குடிநீர் விநியோகம், வீதி அபிவிருத்தி  வசதி, விவசாயம் மற்றும் சிறு நீர்ப்பாசனம், மின்சாரம் மற்றும் புதுப்பிக்கத்தக்க எரிசக்தி, சுகாதாரம் உள்ளிட்ட  பணிகள் இந்த மலையக தசாப்த திட்டம் செயல்படுத்தப்படும் என்று நகர அபிவிருத்தி  மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க  தெரிவித்தார்.
+Minister of Urban Development and Housing Prasanna Ranatunga said that this upcountry decades will be implemented, including livelihood and food safety, market development, education, drinking water supply, road development, agriculture and small irrigation, electricity and renewable energy and health.
 
-கண்டி மாவட்டச் செயலகத்தில் புதன்கிழமை  (14) நடைபெற்ற கண்டி மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில், மலையக   தசாப்த அபிவிருத்தித் திட்டத்தின் கீழ் கண்டி மாவட்டத்தில் நடைமுறைப்படுத்த உத்தேசிக்கப்பட்டுள்ள திட்டங்கள் குறித்து தெரிவிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+At the Kandy District Coordinating Committee meeting held at the Kandy District Secretariat on Wednesday (14), the Minister said this while informing the projects proposed to implement in the Kandy district under the Upcountry Development Development Program.
 
 ...
 
 [Data](articles/21b39c17.json)
+
+[Extended Data](ext_articles/21b39c17.ext.json)
 
 ---
 
@@ -276,17 +386,83 @@ Meanwhile, discussions are in progress to amend certain existing laws to crack d
 
 ---
 
-### පියා හා දියණිය දුම්රියට බිලි
+### Ambitious plans underway to make SL a ‘happening’ tourist destination
+
+*2024-02-15 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ambitious-plans-underway-to-make-SL-a-happening-tourist-destination/108-277052) · `en`
+
+Authorities of Sri Lanka Tourism address the media to share plans to make the island nation more attractive for international visitors
+
+SLTPB set to enter into agreements with a consortium of global brands, both foreign and domestic
+
+Objective is to significantly boost tourism activities, with goal of increasing average daily spend of tourists
+
+Plans afoot to collaborate with European Union to launch a wellness tourism campaign
+
+‘‘We will make it a more happening destination; 2024 is going to be a very positive year”
+
+Sri Lanka’s tourism sector is gearing up for a major transformation, as the authorities unveil an ambitious plan to make the country one of the world’s most dynamic and sought-after destinations.
+
+...
+
+[Data](articles/32668376.json)
+
+[Extended Data](ext_articles/32668376.ext.json)
+
+---
+
+### One dead and 21 injured near Super Bowl parade
+
+*2024-02-15 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/One-dead-and-21-injured-near-Super-Bowl-parade/107-277078) · `en`
+
+Feb 15, (BBC) - One person has died and 21 people were wounded in a shooting in Missouri at the end of the Kansas City Chiefs' Super Bowl victory parade.
+
+Officials said they treated eight victims who were in immediately life-threatening condition and seven others who had suffered injuries that could prove life-threatening.
+
+Nine children were among the wounded - all are expected to recover.
+
+Police said they have arrested three suspects in connection to the shooting.
+
+The shots were fired west of Union Station, the train station in downtown Kansas City, which was where the parade ended at around 14:00 local time (20:00 GMT) and thousands of fans had gathered to watch the festivities.
+
+Local reports said Kansas City Chiefs players were still on a stage there when the first shots rang out.
+
+The gunfire caused the watching crowd, including the city's mayor and his family members, to run for cover.
+
+...
+
+[Data](articles/0e0db28e.json)
+
+[Extended Data](ext_articles/0e0db28e.ext.json)
+
+---
+
+### Against electricity tariff revision...
+
+*2024-02-15 09:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-electricity-tariff-revision/110-277082) · `en`
+
+The National Front of Civil Organizations (NFCO) today staged a protest in front of the Bandaranaike Memorial International Conference Hall (BMICH) premises to express opposition to the Public Utilities Commission of Sri Lanka (PUCSL), which is set to finalize the collection of public opinions for the upcoming electricity tariff revision. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/e2e825e8.json)
+
+[Extended Data](ext_articles/e2e825e8.ext.json)
+
+---
+
+### Father and daughter Billy
 
 *2024-02-15 09:43:41* · [`adalk`](https://www.ada.lk/breaking_news/පියා-හා-දියණිය-දුම්රියට-බිලි/11-408093) · `si`
 
-චුන්නනාම් පොලිස් වසමේ ඉණුවිල් කරුණාකරපිල්යලයාර් කෝවිල් මාර්ගයේ සිවුමං න්නදිය අසල අනාරක්ෂිත සුම්රිය හරස් මාරගය හරහා ගමන් කළ වෑන් රථයක් දුම්රියක ගැටීමෙන් සිදුවූ අනතුරකින් වෑන් රථයේ ගමන් කළ පියෙක් හා දියණියක් ජීවිත්ක්ෂයට පත්ව තිබේ.
+A father and daughter in a train connected to Savnamylar Kovil on the Chudunamil Police Division was a father and daughter in an accident.
 
-ඊයෙ සවස මෙම අනතුර සිදුව ඇති අතර යාපනය සිට කන්කසන්තරය බලා ධාවනය වූ දුම්රියේ ගැටීමෙන් මෙම අනතුර සිදුව තිබේ. අවුරුදු 32ක් වන පියා අවුරුදු 03ක් වන දැරියක් ජීවිතක්ෂයට පත්ව ඇති අතර අනතුරින් තුවාල ලැබූ බිරිඳ යාපනය රෝහලේ ප්‍රතිකාර ලබමින් පසුවෙයි.
+The accident had occurred when the accident had taken place from Jaffna to Kankashan. The father of 32 years died, a 3-year-old girl was receiving treatment at the Jaffna Hospital.
 
 ◼️
 
 [Data](articles/99919a43.json)
+
+[Extended Data](ext_articles/99919a43.ext.json)
 
 ---
 
@@ -386,21 +562,39 @@ PM Gunawardena thanked Dr Akihito for the support extended to Sri Lanka for deca
 
 ---
 
-### කුඩු සළිඳුගේ ප්‍රධානම ගෝලයා ඩුබායිහිදී අල්ලයි
+### Kudu Salindu’s main accomplice ’Piyuma’ arrested in Dubai
+
+*2024-02-15 09:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kudu-Salindus-main-accomplice-Piyuma-arrested-in-Dubai/108-277060) · `en`
+
+Colombo, Feb 15 (Daily Mirror) - Piyum Hastika, alias 'Piyuma,' identified as a primary accomplice of the notorious drug trafficker Salidu Malshika, also known as 'Kudu Salidu,' was arrested in Dubai and brought to Sri Lanka this morning.
+
+Police said 'Piyuma' had been overseeing a drug network from Dubai. A specialized team from the Criminal Investigation Department (CID) arrested him in Dubai and brought him back to Sri Lanka for further interrogation.
+
+◼️
+
+[Data](articles/feb183ca.json)
+
+[Extended Data](ext_articles/feb183ca.ext.json)
+
+---
+
+### Kudu Wasu seized from Dubai
 
 *2024-02-15 09:11:19* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සළිඳුගේ-ප්‍රධානම-ගෝලයා-ඩුබායිහිදී-අල්ලයි/11-408092) · `si`
 
-දැනට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු  අත්අඩංගුවේ පසුවන සළිදු මල්ෂික කුඩු සළිදු නැමැති සංවිධානාත්මක අපරාධ කල්ලි නායකයාගේ ප්‍රධානතම ගෝලයා ලෙස  හැදින්වෙන පියුම් හස්තික නොහොත්  "පියුමා "  නැමැති අපරාධ කල්ලි සාමාජිකයෙකු ඩුබායි හී දී විශේෂ  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන 02/15 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබේ.
+A group of criminal inquiries called the main criminal inquiry, a group of criminal inquiry into other criminal criminal group, who is currently in custody in custody.Have been taken.
 
-මොහු කුඩු සළිදු වෙනුවෙන් ඩුබායි හි රැදී සිට මෙරට කුඩු ජවාරම මෙහෙයවා ඇති බව මහජන ආරක්ෂක අමාත්‍යාංශයේ උසස් නිලධාරීවරයෙකු මේ පිළිබඳ විමසීමක දී පැවසීය.
+A higher officer of the Ministry of Defense said that the drug was taken from Dubai for heroi.
 
-මොහු 02/15 දින අලුයම 04.50 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබුණි .
+He was 4:30 am to 4 am to 4 am, from Dubai to SriLankan Airlines. The airplane was taken to the Katunayake airport.
 
-එසේ රැගෙන ආ මෙම අපරාධ කල්ලි සාමාජිකයා කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු පරිශ්‍රයේ රදවා තබා ගෙන අවශ්‍ය මූලික විමර්ශන සිදු කර 02/15 දින උදෑසන 08.00 ට පමණ දැඩි රැකවල් මධ්‍යයයේ කොළඹ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු මූලස්ථාන කාර්යාලය වෙත රැගෙන ගියහ.
+The Mullay member was taken to the Colombo Criminal Investigation Department Headquarters in the Katunayake airport criminal investigation into the premises of the Katunayake airport.
 
 ◼️
 
 [Data](articles/208e8e25.json)
+
+[Extended Data](ext_articles/208e8e25.ext.json)
 
 ---
 
@@ -499,6 +693,42 @@ Accordingly, kidney patients and disabled persons’ allowances will be raised f
 [Data](articles/b28bb0ed.json)
 
 [Extended Data](ext_articles/b28bb0ed.ext.json)
+
+---
+
+### New school term of 2025 will begin in January as usual
+
+*2024-02-15 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-school-term-of-2025-will-begin-in-January-as-usual/108-277058) · `en`
+
+Colombo, Feb 15 (Daily Mirror) - All measures have been taken to start the new school term of 2025 at the beginning of January as usual, and the A/L examination relating to this year will be held before 2025, Education Minister Susil Premajayantha said.
+
+During a national event held yesterday at St. Anthony's Balika Maha Vidyalaya, where textbooks and school uniform materials were distributed among schoolchildren, the minister said that the A/L examination, originally scheduled for the previous year, had been postponed by five weeks. Subsequently, the examination took place in January 2024.
+
+Preparations are underway to release the 2023 Advanced Level (A/L) examination results between May and June this year, preceding the scheduled Ordinary Level (O/L) examination later in the year, the Minister said.
+
+However, arrangements have been made to update all examinations while holding the 2024 A/L examination in the year 2025.
+
+...
+
+[Data](articles/6ac7e291.json)
+
+[Extended Data](ext_articles/6ac7e291.ext.json)
+
+---
+
+### Air rifles to manage toque monkey population in Kegalle
+
+*2024-02-15 08:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Air-rifles-to-manage-toque-monkey-population-in-Kegalle/108-277057) · `en`
+
+Kegalle, Feb 15 (Daily Mirror) - Finance State Minister Ranjith Siambalapitiya said funds will be allocated for the procurement of high-quality air rifles for farmers' organizations in the Kegalle district for the purpose of managing the toque monkey population.
+
+The Minister told the media that his decision remains unchanged despite any potential impacts. He said that decentralized funds will be allocated for the procurement of air rifles for farmers' organizations.
+
+...
+
+[Data](articles/a86dbdd6.json)
+
+[Extended Data](ext_articles/a86dbdd6.ext.json)
 
 ---
 
@@ -649,6 +879,28 @@ The Sri Lanka General Mannel Prasanna Ranatunga said that a candidate would not 
 [Data](articles/3477dd9d.json)
 
 [Extended Data](ext_articles/3477dd9d.ext.json)
+
+---
+
+### Pathirana reverts Keheliya’s decision
+
+*2024-02-15 07:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Pathirana-reverts-Keheliyas-decision/155-277055) · `en`
+
+Colombo, Feb 15 (Daily Mirror) - Prof. Jayantha Jayawardana, a former member of the Sri Lanka Medical Council (SLMC) has been reinstated as an SLMC member after being removed by former Minister of Health Keheliya Rambukwella without due cause.
+
+The reappointment has been made by Minister of Health Dr. Ramesh Pathirana.
+
+Accordingly, the term of office for the reappointed member, is set for five years, unless voluntarily resigned or removed as per the ordinance.
+
+Expressing gratitude for the reinstatement, Prof. Jayawardana highlighted the unlawful and arbitrary nature of his previous termination. He assumed duties yesterday, February 14, 2024.
+
+Prof Jayawardana was removed as the SLMC Vice President last October without citing reasonable reasons.
+
+The decision by the former Minister of Health was criticized for its lack of valid reasoning and its violation of the principles of natural justice.
+
+...
+
+[Data](articles/01b4af0a.json)
 
 ---
 
@@ -1789,217 +2041,5 @@ Sri Lanka is 10 ranks above Syria, which is at the bottom at 94.
 [Data](articles/5d91e423.json)
 
 [Extended Data](ext_articles/5d91e423.ext.json)
-
----
-
-### The government's policy is to improve every village - Minister Prasanna Ranatunga
-
-*2024-02-14 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176400) · `ta`
-
-Minister of Urban Development and Housing Prasanna Ranatunga said that there is no current government from the policy of carrying out development projects from the refrigerated rooms.
-
-He emphasized that development projects are being carried out in view of the needs of the people.
-
-The Minister said that the government's policy is to develop every village accordingly.
-
-Minister Prasanna Ranatunga made this observation at a function to announce to the authorities on the "Mountain Rise Decade" Development Program held today (14) at the Kegalle District Coordinating Committee meeting. Held at the Kegalle District Secretariat.
-
-The Kegalle District Coordinating Committee was chaired by its Chairman Rajika Wickremesinghe and Sabaragamuwa Provincial Governor Naveen Dissanayake.
-
-The Minister also emphasized that the independence has been given to each district to implement its own development projects.
-
-...
-
-[Data](articles/3e196d23.json)
-
-[Extended Data](ext_articles/3e196d23.ext.json)
-
----
-
-### Vogue Jewellers presents offers in February
-
-*2024-02-14 21:25:00* · [`islandlk`](http://island.lk/vogue-jewellers-presents-offers-in-february/) · `en`
-
-As the month of love and romance unfolds, Vogue Jewellers is delighted to unveil exceptional promotions and a new collection that are sure to satisfy your taste for luxury and timeless elegance this Valentine’s Day. Vogue Jewellers will also be bringing back its old gold Promotion in February, by popular demand.
-
-Accordingly, from 7th to the 14th of February 2024, Vogue Jewellers presents a dazzling celebration of diamonds and precious stones. Enjoy an irresistible 45% off on exquisite items adorned with these timeless gems, each radiating with a brilliance and sophistication that will stay with you forever. Whether it is a token of affection for a loved one, something for yourself, or an investment for the future, this limited-time offer is an opportunity not to be missed.
-
-...
-
-[Data](articles/fa417bf5.json)
-
-[Extended Data](ext_articles/fa417bf5.ext.json)
-
----
-
-### Rs 4 million in cash prizes from ComBank RemitPlus ‘Pita Rata Wasi’ remittance promo
-
-*2024-02-14 21:24:00* · [`islandlk`](http://island.lk/rs-4-million-in-cash-prizes-from-combank-remitplus-pita-rata-wasi-remittance-promo/) · `en`
-
-160 recipients of ‘RemitPlus’ remittances to win Rs 25,000 each from February to April
-
-Cash rewards totaling Rs 4 million are to be showered on Commercial Bank’s remittance customers in an early countdown to the Sinhala and Tamil New Year and Ramadan.
-
-Over eight weeks commencing February and ending on 9th April, Sri Lanka’s benchmark private sector bank will select 160 recipients of remittances routed via the bank’s ‘RemitPlus’ money transfer service for cash prizes of Rs 25,000 each, rewarding 20 lucky winners per week at a promotion titled ComBank RemitPlus ‘Pita Rata Wasi.’
-
-The Bank said the names of the winners will be published in the Bank’s own social media channels, and on the RemitPlus App from 19th February onwards.
-
-...
-
-[Data](articles/161f71fc.json)
-
-[Extended Data](ext_articles/161f71fc.ext.json)
-
----
-
-### Steps to establish 03 International Universities in Sri Lanka - Suren Raghavan
-
-*2024-02-14 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176399) · `ta`
-
-Higher Education Minister Dr. Suren Raghavan said that after the observation of internationally experienced experts in education, the focus of a variety of degrees through state universities.
-
-The Minister of State also stated that steps have been taken to establish three international universities in Sri Lanka.
-
-State Minister Suren Raghavan said this at a media briefing held at the Presidential Media Center on Wednesday (14).
-
-“We have taken steps to establish 03 international universities in Sri Lanka. Two of these universities have already begun.The third university will be established in Sri Lanka by May this year.
-
-Indian Institutes of Technology. The other two universities will open their two branches focusing on the United States and the United Kingdom and are ready to sign a Memorandum of Understanding on them.
-
-...
-
-[Data](articles/93b6d307.json)
-
-[Extended Data](ext_articles/93b6d307.ext.json)
-
----
-
-### Dialog Axiata Unveils Smart Home Devices Powered by Dialog Smart Home App
-
-*2024-02-14 21:22:00* · [`islandlk`](http://island.lk/dialog-axiata-unveils-smart-home-devices-powered-by-dialog-smart-home-app/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, unveiled a holistic Smart Home App, revolutionizing smart living and empowering users to effortlessly control their entire suite of Dialog Smart Home devices with a single platform, regardless of their location.
-
-The Dialog Smart Home App serves as a centralised platform, allowing users to effortlessly manage and monitor a range of smart devices from the categories of Surveillance, Automation, and Connectivity. With a diverse array of products, including the Smart Indoor Cameras, Smart Outdoor Cameras, Wi-Fi Mesh (featuring WiFi 6 connectivity for an enhanced experience), Smart Wall Plugs, Smart Wall Sockets, Smart Switches, Smart Extension Cords, and Tedi Alexa, the app creates a truly interconnected home ecosystem.
-
-...
-
-[Data](articles/7d474024.json)
-
-[Extended Data](ext_articles/7d474024.ext.json)
-
----
-
-### Absence of market-driven activities stalls CSE; negative conditions manifest in politics
-
-*2024-02-14 21:18:00* · [`islandlk`](http://island.lk/absence-of-market-driven-activities-stalls-cse-negative-conditions-manifest-in-politics/) · `en`
-
-Foreign and local investor participation in the CSE showed significant improvement yesterday due to a decline in Treasury bill yields, market analysts said.
-
-However, stock market activities were not strong due to depressing conditions in the political arena and because of the absence of market- driven activities, analysts said.
-
-The All Share Price Index was down by 22.7 points, while S and P SL20 rose by 25.3 points. Turnover stood at Rs 695 million with two crossings. Those crossings were reported in Commercial Bank, which crossed 1.4 million shares to the tune of Rs 131.7 million; its shares traded at Rs 89.50 and Expolanka Holdings 185,000 shares crossed for Rs 24.9 million; its shares traded at Rs 134.
-
-...
-
-[Data](articles/67759d71.json)
-
-[Extended Data](ext_articles/67759d71.ext.json)
-
----
-
-### Sri Lanka beat Sri Lanka by 07 wickets
-
-*2024-02-14 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193389) · `si`
-
-Sri Lanka wins 07 wickets from the third and final ODI between Sri Lanka and Afghanistan.
-
-Afghanistan captain Hashmatulla, who won the toss and elected to bat Shahi Shahi first.
-
-Accordingly, they were able to create 266 runs for the loss of all the players for Afghanistan.
-
-The Sri Lankan team who reached the field for reply to the target of the end of the target.
-
-Wiming Nissankanka and Tischka Fernando won a great start and was unfortunately for 91 runs.
-
-The wishes reported 118 runs with a century, was elevented by 16 fours and two sixes.
-
-Kusal Mendis scored 40 runs with four sixes.
-
-Sri Lanka won the one-day tournament with three and 0 matches.
-
-◼️
-
-[Data](articles/60a3ab4e.json)
-
-[Extended Data](ext_articles/60a3ab4e.ext.json)
-
----
-
-### Fire breaks out near Baseline Railway Station
-
-*2024-02-14 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97277/fire-breaks-out-near-baseline-railway-station) · `en`
-
-A sudden fire has broken out in a vacant plot of land near the Baseline Railway Station this evening (Feb. 14).
-
-The firefighting brigade has dispatched three fire trucks in order to extinguish the flames, Ada Derana reporter said.
-
-The cause of the fire has not been revealed yet, and police are conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/3017416d.json)
-
-[Extended Data](ext_articles/3017416d.ext.json)
-
----
-
-### Loan scheme implemented to support small- and medium-scale rice industry
-
-*2024-02-14 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97276/loan-scheme-implemented-to-support-small-and-medium-scale-rice-industry) · `en`
-
-Measures are afoot to initiate the “Odapana” loan scheme to support small- and medium-scale rice industry, Rajith Keerthi Thennakoon, the President Director General (Community Affairs) announced during a meeting held at the President’s Office today (14).
-
-This loan scheme, implemented in response to President Ranil Wickremesinghe’s directives, aims to address the financial challenges encountered by small- and medium-scale rice mill owners, rice storekeepers and rice hoarders, particularly exacerbated by the economic crisis and the COVID-19 pandemic, the President’s Media Division (PMD) said.
-
-Thennakoon highlighted the pressing issues faced by small- and medium-scale rice producers, attributing their difficulties to the economic downturn and pandemic-related disruptions. Central to the discussion was the objective of ensuring a stable market for rice and alleviating financial burdens within the industry.
-
-...
-
-[Data](articles/7bdde223.json)
-
-[Extended Data](ext_articles/7bdde223.ext.json)
-
----
-
-### Key Battles ahead of CR-Kandy Blockbuster
-
-*2024-02-14 21:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Key-Battles-ahead-of-CR-Kandy-Blockbuster/108-277030) · `en`
-
-Feb. 14 (Daily Mirror) - Kandy Sports Club are heading into another final day of a league tournament knowing that a victory would ensure them yet another title, but unlike any other occasion, they are going in as clear underdogs this time around.
-
-...
-
-[Data](articles/271910db.json)
-
-[Extended Data](ext_articles/271910db.ext.json)
-
----
-
-### Two lives lost in train accident
-
-*2024-02-14 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193388) · `si`
-
-Two people were killed in a train accident in the Inuvil area in Jaffna.
-
-The deceased has been a 32-year-old man and his six months old.
-
-The deceased who was seriously injured in the accident have been admitted to the White Unit of Jaffna Hospital.
-
-◼️
-
-[Data](articles/cd58646e.json)
-
-[Extended Data](ext_articles/cd58646e.ext.json)
 
 ---

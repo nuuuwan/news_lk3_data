@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 22:50:20**
+As of **2024-02-15 23:02:27**
 
 ## Newspaper Stats
 
-*Scraped **7,328** Articles*
+*Scraped **7,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailyftlk | 389
 adalk | 630
 tamilmirrorlk | 896
 adaderanalk | 897
-virakesarilk | 955
+virakesarilk | 956
 adaderanasinhalalk | 1,037
-dailymirrorlk | 1,071
+dailymirrorlk | 1,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,328 (100.0%) of 7,328 articles have been extended.
+7,328 (100.0%) of 7,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### இஸ்ரேலுக்கும் இலங்கைக்கும் இடையே நேரடி விமான சேவை ஒப்பந்தம் கைச்சாத்து : அமைச்சர் நிமல்
+
+*2024-02-15 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176484) · `ta`
+
+இஸ்ரேலுக்கும் இலங்கைக்கும் இடையிலான நேரடி விமான சேவை ஒப்பந்தம் வியாழக்கிழமை (15) முற்பகல் கைச்சாத்திடப்பட்டதாக துறைமுகங்கள், கப்பற்றுறை மற்றும் விமான சேவைகள் அமைச்சர் நிமல் சிறிபால டி சில்வா தெரிவித்தார்.
+
+இலங்கைப் பணியாளர்கள் வெளிநாடுகளுக்குச் செல்வதில் ஏற்படும் தாமதங்களைத் தடுப்பது இந்த ஒப்பந்தத்தின் முக்கிய நோக்கங்களில் ஒன்றாகும் என்றும் அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (15) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் நிமல் சிறிபால  டி சில்வா இவ்வாறு தெரிவித்தார்.
+
+இங்கு மேலும் கருத்துத் தெரிவித்த அமைச்சர் நிமல் சிறிபால  டி சில்வா ,
+
+இஸ்ரேலுக்கும் இலங்கைக்கும் இடையில் நேரடி விமான சேவை ஒப்பந்தம் இன்று காலை கைச்சாத்திடப்பட்டது. இஸ்ரேல் போக்குவரத்து அமைச்சு மற்றும் துறைமுகங்கள், கப்பற்றுறை மற்றும் விமான சேவைகள் அமைச்சுக்கும் இடையே கைச்சாத்திடப்பட்ட ஒப்பந்தத்தின்படி, இரு நாடுகளுக்கும் இடையே நேரடி விமான சேவைகள் ஆரம்பிக்கப்படவுள்ளன. இதன் மூலம் பயணிகளுக்கு வசதியை ஏற்படுத்துவதே எமது நோக்கமாகும்.
+
+...
+
+[Data](articles/bf5367e5.json)
+
+---
+
+### Electricity tariff must be reduced by 28 to 33%: NPP tells PUCSL
+
+*2024-02-15 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-tariff-must-be-reduced-by-28-to-33-NPP-tells-PUCSL/108-277102) · `en`
+
+Colombo, Feb. 15 (Daily Mirror)- Claiming that the proposed electricity tariff revision by about 3 percent is not at all sufficient, the National People's Power (NPP) said the tariffs should be reduced by at least 28 to 33 percent.
+
+Making submissions during the public hearing at the Public Utilities Commission of Sri Lanka (PCUSL) with regard to the proposed electricity tariff revision, former NPP member Dr. Nalinda Jayatissa said people must receive an electricity tariff revision of at least 28 to 33 percent.
+
+He said the CEB's new proposal to reduce electricity tariff by some 3 percent is not at all satisfactory and added that the CEB in its new proposal had submitted some unacceptable increase in expenditure.
+
+Dr. Jayatissa said the PUCSL should not take decisions solely based on the CEB's information and that the Commission should take steps to ensure justice to the consumers.
+
+...
+
+[Data](articles/181b95a4.json)
+
+---
 
 ### Is the film a "The Day After Tomorrow"?
 
@@ -2047,41 +2085,5 @@ Thondamanaru Selvachani Murugan Murugan faced the experience of a man who had go
 [Data](articles/565540ba.json)
 
 [Extended Data](ext_articles/565540ba.ext.json)
-
----
-
-### 35000 kg of beeled seeds
-
-*2024-02-15 13:06:35* · [`adalk`](https://www.ada.lk/breaking_news/බීළූණු-බීජ-කිලෝ-එකක්-රුපියල්-35000ක්/11-408102) · `si`
-
-Special program to promote the cultivation of the cultivation for large onion cultivation in Matale District has been established by the Central Province Department of Agriculture. It is reported that 2700 farmers are looking to access the cultivation of the plantation. The following harvest technological knowledge, crop cultivation clinics and cultivation training will be provided.
-
-However, officials also pointed out that a kilo of beauty of the market is about Rs.. Generally, 1 kilo of seedbies is 1 acre acre. In April, the officers say that the farmers will be initiated following technical training to finish technical training by April.
-
-◼️
-
-[Data](articles/3a8daaad.json)
-
-[Extended Data](ext_articles/3a8daaad.ext.json)
-
----
-
-### Social representatives met Speaker
-
-*2024-02-15 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176433) · `ta`
-
-The Social Representatives Committee of the LGBTIQ+met Speaker Maita Yapa Abeywardena on Monday (12).
-
-The purpose of the meeting is to urge the Speaker to focus on the amendment to the Criminal Act to recognize LGBTQ+ rights in Sri Lanka, which was submitted to Parliament by Member of Parliament Premnath C. Tholawatta.
-
-In addition, LGBTIQ+ Social Representatives and Speaker of the LGBTIQ+ community in Sri Lanka have long discussed the issues facing the community.
-
-The All Party Youth Organization assisted the meeting with the Speaker of the Speaker of Meet by Nextgensl, which was also present at the event.
-
-◼️
-
-[Data](articles/6365b323.json)
-
-[Extended Data](ext_articles/6365b323.ext.json)
 
 ---

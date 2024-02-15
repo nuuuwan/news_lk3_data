@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 23:33:20**
+As of **2024-02-15 23:51:53**
 
 ## Newspaper Stats
 
-*Scraped **7,331** Articles*
+*Scraped **7,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 386
 dailyftlk | 389
 adalk | 630
 tamilmirrorlk | 897
-adaderanalk | 897
+adaderanalk | 899
 virakesarilk | 956
 adaderanasinhalalk | 1,037
 dailymirrorlk | 1,072
@@ -26,23 +26,25 @@ dailymirrorlk | 1,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,330 (100.0%) of 7,331 articles have been extended.
+7,333 (100.0%) of 7,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### கெஹலிய உள்ளிட்ட 7 பேர் விளக்கமறியலில்
+### 7 people, including Keheliya, in the interrogation
 
 *2024-02-15 22:39:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்ட-7-பேர்-விளக்கமறியலில்/175-333296) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல, சுகாதார அமைச்சின் முன்னாள் செயலாளர் உள்ளிட்ட 7 பேரை எதிர்வரும் பெப்ரவரி 29 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு மாளிகாகந்த நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Former Health Minister Keheliya Rambukwella and the former Secretary of the Ministry of Health, including the Magistrate's Magistrate's Court has ordered the remand of seven persons, until February 29.
 
-சர்ச்சைக்குரிய  தரமற்ற தடுப்பூசிகளை இறக்குமதி செய்த சம்பவம் தொடர்பான வழக்கு இன்று (15) மாளிகாகந்த நீதவான் நீதிமன்றில் மீண்டும் அழைக்கப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+The order was issued when the case of importing controversial vaccines was re -summoned at the Magistrate's Court today (15).. Remble
 
 ◼️
 
 [Data](articles/cc7bb4b2.json)
+
+[Extended Data](ext_articles/cc7bb4b2.ext.json)
 
 ---
 
@@ -85,6 +87,46 @@ Dr. Jayatissa said the PUCSL should not take decisions solely based on the CEB's
 [Data](articles/181b95a4.json)
 
 [Extended Data](ext_articles/181b95a4.ext.json)
+
+---
+
+### Israel and Sri Lanka ink direct air service agreement
+
+*2024-02-15 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97306/israel-and-sri-lanka-ink-direct-air-service-agreement) · `en`
+
+Ports, Shipping, and Aviation Minister Nimal Siripala de Silva announced the signing of a direct air service agreement between Israel and Sri Lanka today (15).
+
+Speaking at a press briefing themed “Collective Path to a Stable Country” at the President’s Media Centre, Minister de Silva highlighted the agreement’s focus on preventing delays in Sri Lankan workers’ migration abroad.
+
+“The agreement, signed between the Israeli Ministry of Transport and our Ministry of Ports, Shipping, and Aviation, marks the beginning of direct flights between Israel and Sri Lanka, aiming to enhance passenger convenience,” Minister de Silva stated.
+
+He further elaborated on the agreement’s objective of facilitating prompt overseas employment for Sri Lankan workers and noted the interest of many Israelis in visiting Sri Lanka.
+
+...
+
+[Data](articles/cd2608e2.json)
+
+[Extended Data](ext_articles/cd2608e2.ext.json)
+
+---
+
+### Sri Lanka’s inflation expected to hit 5% in medium term, report says
+
+*2024-02-15 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97305/sri-lankas-inflation-expected-to-hit-5-in-medium-term-report-says) · `en`
+
+Sri Lanka’s spike in inflation is expected to be short-lived and will return to the targeted 5% in the medium term, a monetary policy report released by the central bank said on Thursday as the island nation’s economy stabilises from a crippling financial crisis.
+
+Sri Lanka’s economy is seeing glimmers of recovery, helped by a $2.9 billion International Monetary Fund (IMF) programme, after it went into freefall in 2022 due to a severe foreign exchange shortage.
+
+At the start of 2024, Sri Lanka raised its value added tax (VAT) to 18% from 15% to meet revenue targets under the IMF programme, sparking a renewed rise in its key inflation rate, which rose to 6.4% at the end of last month from 4% in December.
+
+The Central Bank of Sri Lanka (CBSL), which committed to maintaining inflation at 5% under a new law introduced last year, said price increases from the tax hike in January were unlikely to persist due to subdued demand and the economy operating below its full capacity.
+
+...
+
+[Data](articles/f1c71d7a.json)
+
+[Extended Data](ext_articles/f1c71d7a.ext.json)
 
 ---
 
@@ -154,7 +196,11 @@ Former Minister of Health Keheliya Rambukwella, former Health Secretary Janaka C
 
 This order was issued when the case was taken up before the Maligakanda Magistrate’s Court today (15), Ada Derana reporter said.
 
-◼️
+However, the former Health Minister did not appear before the court today owing to medical reasons, and the Prison Commissioner and Spokesperson Gamini B. Dissanayake had confirmed that the parliamentarian was unable to attend court proceedings due to him being ill.
+
+Meanwhile, President’s Counsel Anuja Premaratne, who appeared on behalf of Rambukwella, stated before the court that his client is suffering from a specific respiratory disorder which leads to sleep apnea. The President’s Counsel also claimed that oxygen should be provided to Rambukwella in such a case.
+
+...
 
 [Data](articles/982f4451.json)
 
@@ -2047,45 +2093,5 @@ As a result, the three students have lodged a complaint at the Vattawala Police 
 [Data](articles/c6b9394a.json)
 
 [Extended Data](ext_articles/c6b9394a.ext.json)
-
----
-
-### President requests to collaborate
-
-*2024-02-15 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193415) · `si`
-
-President Ranil Wickremesinghe has said to collaborate to improve the quality of life of the people.
-
-The President stresses that political divisions are a hindrance to the progress of the country, emphasizes the need for national development.
-
-He has said to collaborate to improve the living standards of the people of the nation, not for political affiliations.
-
-◼️
-
-[Data](articles/25c77a7f.json)
-
-[Extended Data](ext_articles/25c77a7f.ext.json)
-
----
-
-### JICA chief and President Ranil discuss economic reforms, investment projects
-
-*2024-02-15 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97293/jica-chief-and-president-ranil-discuss-economic-reforms-investment-projects) · `en`
-
-The President of Japan International Cooperation Agency (JICA) has commended President Ranil Wickremesinghe’s commitment to the program aimed at implementing economic reforms in Sri Lanka, acknowledging its challenging nature.
-
-Dr. Tanaka Akihiko made these remarks when he called on the Sri Lankan leader on Thursday (Feb.14), according to the President’s Media Division (PMD).
-
-In response, President Wickremesinghe emphasized his focus on ensuring the swift resumption of the investment projects, including the expansion of the Bandaranaike International Airport (BIA) in Katunayake, the Light Rail Transit (LRT), and the central expressway.
-
-The Head of State also conveyed appreciation for the continued support provided by the Government of Japan and JICA towards Sri Lanka during the economic crisis.
-
-Dr. Akihiko elaborated on JICA’s efforts, highlighting the priority of concluding debt restructuring while also aiming for the resumption of stalled projects.
-
-...
-
-[Data](articles/53060506.json)
-
-[Extended Data](ext_articles/53060506.ext.json)
 
 ---

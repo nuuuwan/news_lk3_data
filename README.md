@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 08:17:22**
+As of **2024-02-15 08:33:04**
 
 ## Newspaper Stats
 
-*Scraped **7,126** Articles*
+*Scraped **7,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,70 @@ adalk | 603
 tamilmirrorlk | 872
 adaderanalk | 872
 virakesarilk | 913
-adaderanasinhalalk | 998
+adaderanasinhalalk | 1,006
 dailymirrorlk | 1,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,124 (100.0%) of 7,126 articles have been extended.
+7,126 (99.9%) of 7,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### ’குடு சலிந்து’ வின் சகா கைது
+### වෙඩිල්ලක් පත්තු වී පුද්ගලයෙකු ජීවිතක්ෂයට
+
+*2024-02-15 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193401) · `si`
+
+ඊයේ (14) උදෑසන කාලයේ මුලතිව් පොලිස් වසමේ තන්නිමුරුප්පු කැලෑබද ප්‍රදේශයක දී වෙඩිල්ලක් පත්තු වීමෙන් පුද්ගලයෙකු ජීවිතක්ෂයට පත් ව තිබේ.
+
+මරණකරු, සිය පුත්‍රයා සහ තවත් පුද්ගලයන් තිදෙනෙකු සමඟ තන්නිමුරුප්පු ප්‍රදේශයේ වෙල්‍ යායක පිහිටි පැලක රැඳී සිටිමින් කෑලෑව තුළ පැණි එකතු කිරීම සිදු කර ඇත.
+
+එහි දී ඔවුන් සිටි පැලේ තිබූ ගිනි මැලයකට ඔවුන් රැගෙන ගිය ගිනි අවිය වැටී එය ක්‍රියාත්මක වී තිබේ.
+
+පත්තු වූ වෙඩිල්ල මරණකරුට එල්ල වී ඔහු තුවාල ලබා ඇති අතර, රෝහල්ගත කිරීමට රැගෙන යාමේ දී ජීවිතක්ෂයට පත් ව ඇත.
+
+◼️
+
+[Data](articles/ee4b0516.json)
+
+---
+
+### Arrest
 
 *2024-02-15 07:51:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடு-சலிந்து-வின்-சகா-கைது/175-333238) · `ta`
 
-பாதாள உலக குழுக்களின் தலைவர்களில் ஒருவரான 'குடு சலிந்து' எனப்படும் சலிந்து மல்ஷிகவின் பிரதான சகா ஒருவர் இலங்கைக்கு அழைத்து வரப்பட்டுள்ளார்.
+One of the leaders of the underworld groups has been brought to Sri Lanka, a chief of Salinda Malshika, a 'Kudu Salinda'.
 
-குடு சலிந்துவின் பிரதான சகாவான பியும் ஹஸ்திக குற்றப் புலனாய்வு திணைக்களத்தின் விசேட குழுவினால் இன்று (15) அதிகாலை டுபாயில் இருந்து இலங்கைக்கு அழைத்து வரப்பட்டதாக தெரிவிக்கப்படுகிறது.R
+It is reported that the main colleague of Kudu Salindu, Bi and the Hastika Criminal Investigation Department, were brought to Sri Lanka from Dubai this morning (15).
 
 ◼️
 
 [Data](articles/94425705.json)
 
+[Extended Data](ext_articles/94425705.ext.json)
+
 ---
 
-### ”ஜனாதிபதி தேர்தலை ஒத்திவைக்க இடமில்லை”
+### “There is no place to postpone the presidential election”
 
 *2024-02-15 07:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலை-ஒத்திவைக்க-இடமில்லை/175-333237) · `ta`
 
-ஜனாதிபதித் தேர்தலை ஒத்திவைப்பதற்கு அரசியலமைப்புச் சட்டத்தில் இடமில்லை என முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க நேற்று ஊடகவியலாளர்களிடம் தெரிவித்தார்.
+Former President Chandrika Bandaranaike Kumaratunga told the media yesterday that there is no place in the constitution to postpone the presidential election.
 
-ஐக்கிய குடியரசு முன்னணி நேற்று மாலை கொழும்பில் ஏற்பாடு செய்திருந்த நிகழ்வொன்றின் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே திருமதி குமாரதுங்க மேற்கண்டவாறு தெரிவித்தார்.
+In response to a question raised by journalists after an event in Colombo yesterday evening, Mrs. Kumaratunga said this.
 
-எவ்வாறாயினும், நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமை நீக்கப்படும் என்ற ஊகங்களுக்கு மத்தியிலும் ஜனாதிபதி தேர்தல் நடத்தப்படும் என அண்மையில் ஜனாதிபதி அலுவலகம் வழங்கிய உறுதிமொழி தொடர்பில் ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு அவர் விளக்கமளிக்க மறுத்துவிட்டார்.
+However, he refused to explain the question raised by journalists on the recent pledge of the President's Office that the presidential election would be held despite the speculation that the executive presidency would be abolished.
 
-"ஜனாதிபதித் தேர்தலை ஒத்திவைக்க முடியாது என்றுதான் என்னால் கூற முடியும்," என்று அவர் மேலும் கூறினார்.
+“I can say that the presidential election cannot be postponed,” he added.
 
 ◼️
 
 [Data](articles/19fa9b16.json)
+
+[Extended Data](ext_articles/19fa9b16.ext.json)
 
 ---
 
@@ -134,6 +156,28 @@ The event, which was expected to attend more than the Ansilion, was eventually a
 
 ---
 
+### පක්ෂ නායකත්වය ගැන චන්ද්‍රිකාගෙන් විශේෂ නිවේදනයක්
+
+*2024-02-15 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193400) · `si`
+
+පොදුජන එක්සත් පෙරමුණේ නායකත්ව මණ්ඩලයේ නායකත්වය භාරගැනීමට මෙතෙක් කිසිදු තීරණයක් ගෙන නොමැති බව හිටපු ජනාධිපති චන්ද්‍රිකා බණ්ඩාරනායක කුමාරනතුංග මහත්මිය පවසන්නීය.
+
+නිවේදනයක් නිකුත් කරමින් ඇය පෙන්වාදෙන්නේ, ඉදිරි ජනාධිපතිවරණය සඳහා කිසිදු අපේක්ෂකයෙකුට සහාය ලබාදීමට මෙතෙක් තීරණය කර නොමැති බවය.
+
+විවිධ ජනපති අපේක්ෂකවරුන්ට ජනාධිපතිවරණයේ දී සහාය ලබාදීමට තීරණය කර ඇති බවට ජනමාධ්‍යවල පවතින වාර්තා සම්පුර්ණයෙන්ම අසත්‍යය බව සිය නිවේදනය මඟින් චන්ද්‍රිකා බණ්ඩාරනායක කුමාරනතුංග මහත්මිය දැනුම් දී තිබේ.
+
+චන්ද්‍රිකා බණ්ඩාරනායක කුමාරනතුංග මහත්මිය නිකුත් කළ සම්පූර්ණ නිවේදනය පහතින් දැක්වේ.
+
+මේ අතර මැතිවරණ නියමිත දිනයන්හි දී පැවැත්වීමට ආණ්ඩුව කටයුතු කළ යුතු බව පාර්ලිමේන්තු මන්ත්‍රී ඉමිතියාස් බාකිර් මාකර් මහතා සඳහන් කළේය.
+
+ඉදිරි ජනාධිපතිවරණය සඳහා තරග කිරීමට සිය පක්ෂයෙන් අපේක්ෂකයෙකු ඉදිරිපත් නොවනු ඇති බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ප්‍රසන්න රණතුංග මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/3477dd9d.json)
+
+---
+
 ### Pathirana reverts Keheliya’s decision
 
 *2024-02-15 07:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pathirana-reverts-Keheliyas-decision/108-277055) · `en`
@@ -155,6 +199,78 @@ The decision by the former Minister of Health was criticized for its lack of val
 [Data](articles/51193bd7.json)
 
 [Extended Data](ext_articles/51193bd7.ext.json)
+
+---
+
+### කෑගල්ලේ රිලා කරදරේට රාජ්‍ය ඇමතිගෙන් විසඳුමක්
+
+*2024-02-15 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193399) · `si`
+
+රිලවුන්ගේ ගොවිතැනට සිදුවන හානී අවම කිරීම සඳහා කෑගල්ල දිස්ත්‍රික්කයේ  ලියාපදිංචි ගොවි සංවිධාන වෙත සිය විමධ්‍යගත අරමුදලින් වායු රයිෆල ලබාදීමට පියවර ගන්නා බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+ඔහු පවසන්නේ රිලවුන්ගෙන් සිදුවන හානී හේතුවෙන් ගොවි ජනතාවට සිය වගා කටයුතු පවත්වාගෙන යාම දූෂ්කර වී ඇති බවය.
+
+කෑගල්ල ප්‍රදේශයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/df1d959b.json)
+
+---
+
+### අස්වැසුම දෙවන අදියරට අයදුම්පත් භාරගැනීම අද සිට
+
+*2024-02-15 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193398) · `si`
+
+අස්වැසුම දෙවන අදියර සඳහා ඉල්ලුම්පත් භාර ගැනීමේ කටයුතු අද (15) සිට ආරම්භ කරන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+මාසයක කාලයක් එම අයදුම්පත්‍ර භාරගැනීමට අපේක්ෂා කරන බව රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+දෙවන අදියර යටතේ පවුල් ලක්ෂ 04කට පමණ අස්වැසුම ලබාදීමට කටයුතු කරන බව "අද දෙරණ" කළ විමසීමකට පිළිතුරු දෙමින් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසුවේය.
+
+අස්වැසුම අයදුම්පත් ඉල්ලුම් කිරීම සම්බන්ධයෙන් ද ශෙහාන් සේමසිංහ රාජ්‍ය අමාත්‍යවරයා මෙසේ පැහැදිලි කළේය.
+
+"අයදුම්පත්‍ර ඉල්ලුම් කිරීමට බලාපොරොත්තු වෙන සියලුදෙනාටම මාර්ගගත ක්‍රමය ඔස්සේ ඉල්ලුම් කළ හැකියි. ඊට අමතරව ප්‍රාදේශීය ලේකම් කාර්යාලවල ඇති විශේෂ ඒකකවලටත් ලබාදිය හැකියි. අපි බලාපොරොත්තු වෙනවා මාසයක කාලයක් අස්වැසුම අයදුම්පත්‍ර කැඳවීමට. පළමු වටයේ ලක්ෂ 20ක් සඳහා අස්වැසුම ලබාදුන්නා. දෙවැනි වටයේ දී එය ලක්ෂ 24ක් දක්වා ඉහළ නැංවීමට බලාපොරොත්තු වෙනවා. ජූලි මාසයේ දී සහතික කරලා ඔවුන්ට අවශ්‍ය සුබසාධන දීමනා ලබාදීමට බලාපොරොත්තු වෙනවා. සමස්තයක් ලෙස මේ වසර තුළ රු බි 205ක මුදලක් රජය විසින් සුබ සාධනය සඳහා වැය කිරීමට බලාපොරොත්තු වෙනවා."
+
+◼️
+
+[Data](articles/0e216d41.json)
+
+---
+
+### වසරක් තුළ ළමා අපයෝජන සම්බන්ධ පැමිණිලි 10,000ක්
+
+*2024-02-15 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193397) · `si`
+
+ළමා අපයෝජන සිද්ධීන් සම්බන්ධයෙන් පැමිණිලි 10,000කට ආසන්න සංඛ්‍යාවක් පසුගිය වසරේ දී ජාතික ළමා ආරක්ෂක අධිකාරිය වෙත ලැබී තිබේ.
+
+එහි සභාපති ජ්‍යෙෂ්ඨ කථිකාචාර්ය උදය කුමාර අමරසිංහ මහතා පැවසුවේ, පසුගිය වසරේ ජනවාරි පළමු දින සිට දෙසැම්බර් 31 දක්වා කාලය තුළ ළමා ආරක්ෂක අධිකාරිය වෙත පැමිණිලි 9,434ක් ලැබී ඇති බවය.
+
+ළමයින් ක්‍රෑරත්වයට භාජනය කිරීම සම්බන්ධයෙන් පැමිණිලි 2,242, ලිංගික අතවරයට ලක් කිරීම් සම්බන්ධ පැමිණිලි 472ක්, බරපතළ ලිංගික අතවර කිරීම් සම්බන්ධයෙන් පැමිණිලි 404ක්, ගැහැනු ළමුන් දූෂණය කිරීම් සම්බන්ධ පැමිණිලි 51ක් සහ  අසභ්‍ය පළ කිරීම්වලට ළමුන් යොදා ගැනීම් සම්බන්ධ පැමිණිලි 06ක් ඒ අතර වන බව සඳහන්ය.
+
+ඊට අමතරව මත්ද්‍රව්‍ය ප්‍රවාහනය සඳහා ළමුන් යොදා ගැනීම, ශ්‍රමිකයින් ලෙස යොදා ගැනීම්, ගෘහස්ථ හිංසනය මඟින් පීඩාවට පත් කිරීම්, නොසලකා හැරීම, පැහැරගෙන යාම, තුවාල සිදුකිරීම, ළමුන් අලෙවිකිරීම, පාසල් අධ්‍යාපනය ලබානොදීම සම්බන්ධයෙන් පැමිණිලි ලැබී ඇති බව උදය කුමාර අමරසිංහ මහතා පැවසුවේය.
+
+2022 වසරේ දී  ළමා අපයෝජන සම්බන්ධයෙන් ජාතික ළමා ආරක්ෂක අධිකාරිය වෙත පැමිණිලි 7,466ක් ලැබී තිබිණි.
+
+...
+
+[Data](articles/66cb3cc9.json)
+
+---
+
+### අමෙරිකාවේ වෙඩි තැබීමකින් පුද්ගලයෙකු මරුට
+
+*2024-02-15 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193396) · `si`
+
+අමෙරිකාවේ කැන්සාස් නගරයේ සිදු වූ වෙඩි තැබීමකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත් ව තිබේ.
+
+එම නගරයේ පැවති සුපර් බෝල් පෙළපාලි උත්සවයක දී වෙඩිතැබීම සිදු ව ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+කෙසේ වෙතත් ප්‍රහාරයේ වගකීම මෙතෙක් කිසිදු සංවිධානයක් විසින් භාරගෙන නොමැති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/2bac5695.json)
 
 ---
 
@@ -180,6 +296,20 @@ Kansas City fire department chief Ross Grundyson told a press conference that ma
 
 ---
 
+### කුඩු සලිඳුගේ ප්‍රධාන ගෝලයා ශ්‍රී ලංකාවට රැගෙන එයි
+
+*2024-02-15 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193394) · `si`
+
+පාතාල නායක සලිඳු මල්ෂික හෙවත් කුඩු සලිඳුගේ ප්‍රධාන ගෝලයා ශ්‍රී ලංකාවට රැගෙනවිත් තිබේ.
+
+පියුම් හස්තික නමැති සැකකරු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ කණ්ඩායමක් විසින් අද (15) අලුයම ඩුබායි සිට ශ්‍රී ලංකාවට රැගෙන ආ බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/6a64e08c.json)
+
+---
+
 ### Underworld figure ‘Piyuma’ brought to Sri Lanka from Dubai
 
 *2024-02-15 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97280/underworld-figure-piyuma-brought-to-sri-lanka-from-dubai) · `en`
@@ -191,6 +321,24 @@ Piyum Hasthika alias ‘Piyuma’, the main accomplice of underworld figure Sali
 [Data](articles/b9030ebe.json)
 
 [Extended Data](ext_articles/b9030ebe.ext.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-02-15 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193393) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ, නුවරඑළිය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසු ස්ථාන ස්වල්පයක  වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේය.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40 පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/60b17f43.json)
 
 ---
 
@@ -1855,157 +2003,5 @@ Parade books and uniforms will be provided with students of 10,126 students of t
 [Data](articles/b3a40600.json)
 
 [Extended Data](ext_articles/b3a40600.ext.json)
-
----
-
-### Long queues at Osu Sala...
-
-*2024-02-14 18:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Long-queues-at-Osu-Sala/110-277022) · `en`
-
-People waiting in long queques outside the Osu Sala at Town Hall to purchase medicines due to the ongoing health strike. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/a078ab6b.json)
-
-[Extended Data](ext_articles/a078ab6b.ext.json)
-
----
-
-### A story to see the Valentine's day
-
-*2024-02-14 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193381) · `si`
-
-The oddest talk of Valentine is a Kenbima, a Kenbima, Kenbima, University of Hanthana, University of Peradeniya.
-
-For a rose, the third year evidence of the victims of life without confines to a greeting.
-
-Nuwan and Udayangi finds a way to overcome life.
-
-The food outlet started in a small shed in a small piece of land, which was built in a small space built in a small space built in a small space in a small space built in a small space in the Peradeniya road, found money and was a comfort to his families.
-
-With the acting of the two Diriya Story University university, the two cases, there is a significance that the two people have been able to run a restaurant in the university.
-
-The admonition of this different romantic speech is among the love story of the Peradeniya University as well as the love story of this different love story.
-
-◼️
-
-[Data](articles/2216aac4.json)
-
-[Extended Data](ext_articles/2216aac4.ext.json)
-
----
-
-### T-bills weighted average enter single digits for first time in over 22 months
-
-*2024-02-14 18:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97272/t-bills-weighted-average-enter-single-digits-for-first-time-in-over-22-months) · `en`
-
-The Weighted Average Yield Rates (WAYR) of Treasury Bills with a maturity period of both, 91 days and 182 days, have come down to single-digits at the Treasury Bill auction held today (14 Feb), according to the Central Bank of Sri Lanka (CBSL).
-
-Accordingly, the WAYR of Treasury Bills have dropped down to single digit levels for the first time since 04 March 2022.
-
-◼️
-
-[Data](articles/f9d5a54a.json)
-
-[Extended Data](ext_articles/f9d5a54a.ext.json)
-
----
-
-### Sri Lanka Air Force initiates ’’Wings of Friendship’’ projects worth Rs 125 Mn in North
-
-*2024-02-14 18:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Air-Force-initiates-Wings-of-Friendship-projects-worth-Rs-125-Mn-in-North/108-277014) · `en`
-
-Colombo, Feb 14 (Daily Mirror) - Moving away from the Colombo and Southern Province, the Sri Lanka Air Force (SLAF) has made arrangements to initiate a series of projects under the theme "Wings of Friendship," coinciding with the 73rd anniversary of the Sri Lanka Air Force in the North from March 2.
-
-As part of this initiative, community development programmes will be executed, focusing on the northern province, with a financial value exceeding Rs 125 million.
-
-Air Force Commander Air Marshal Udeni Rajapaksa said that in the northern province of Jaffna, Kilinochchi, Mannar, Vavuniya, and Mullaitivu areas, 73 schools have been identified for development/renovation. The commencement of these projects has already begun, with an estimated total cost of about Rs 100 million.
-
-Moreover, a donation of 73,000 school books will be made to selected schools under the program "Magen Pothak Uthurata," with an estimated cost of Rs 25 million.
-
-...
-
-[Data](articles/c7fc89d3.json)
-
-[Extended Data](ext_articles/c7fc89d3.ext.json)
-
----
-
-### Motorcycle - State Bus Accident on A9 Road, Jaffna
-
-*2024-02-14 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176393) · `ta`
-
-The incident took place at around 4.15 pm on Wednesday (14) at Navatkuli area, Jaffna - Thenmarachchi - A 9 Road.
-
-When a motorcycle traveling on the A9 road tried to return to the road, the state bus that was traveling behind it was pushed into the land.
-
-Despite the damage to the motorcycle, the two passengers were not injured.
-
-◼️
-
-[Data](articles/ee5b109e.json)
-
-[Extended Data](ext_articles/ee5b109e.ext.json)
-
----
-
-### Shah, Omarzai propel Afghanistan to 266
-
-*2024-02-14 18:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shah-Omarzai-propel-Afghanistan-to-266/108-277019) · `en`
-
-Two fine half centuries from Rahamat Shah and Azmatullah Omarzai spearheaded Afghanistan to 266 in the third and final One Day International (ODI) against Sri Lanka at the Pallekele Stadium in Kandy.
-
-Rahamat hammered 65 from 77 deliveries with the help of one six and seven boundaries and also added 57 runs for the second wicket along with opener Rahmanullah Gurbaz.
-
-Gurbaz provided Afghanistan a flying start as he smashed four successive boundaries in the first over off Dilshan Madushanka after the visitors had won the toss and elected to bat first.
-
-Gurbaz fell just three runs short of his half century while Skipper Hashmatullah Shahidi fell cheaply as Afghanistan suffered a mini collapse losing two wickets in successive overs.
-
-However, Omarzai regained the momentum for Afghanistan with a 53-ball half century that included four boundaries and was sixth out with five overs left in the innings.
-
-...
-
-[Data](articles/021aed58.json)
-
-[Extended Data](ext_articles/021aed58.ext.json)
-
----
-
-### After Nas Daily success, Sri Lanka tourism focuses more on influencer marketing
-
-*2024-02-14 18:17:00* · [`economynextcom`](https://economynext.com/after-nas-daily-success-sri-lanka-tourism-focuses-more-on-influencer-marketing-150882/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s Tourism Promotion Bureau (SLTPB) is in the process of bringing down 30 wellness influencers and Canada-based culinary influencer Luke Martin  to promote the island nation’s tourism with effect from February 14, its chairman said, after success in social media influencer Nas Daily’s posts.
-
-Popular international vlogger ‘Nas Daily’ has already released his video promoting Sri Lanka tourism. His videos have reached more than 25 million people in two months, SLTPB Chairman Chalaka Gajabahu said.
-
-“We are going to be more category-specific in our influencer marketing and target categories such as culinary, adventure and wellness,” Gajabahu told reporters at a media briefing in Colombo.
-
-“We are welcoming 30 wellness influencers from France and Germany. This is a project between the European Union and the Sri Lanka Tourism Promotion Bureau.”
-
-...
-
-[Data](articles/7c26e43a.json)
-
-[Extended Data](ext_articles/7c26e43a.ext.json)
-
----
-
-### Sri Lanka a target of 267 runs
-
-*2024-02-14 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193380) · `si`
-
-The Third and the ODIs between Sri Lanka and Afghanistan scored 266 runs for the loss of all the players.
-
-Rhehmat scored 65 runs in front of Afghanistan, and Aimethuthumla Omazai scored 54 runs.
-
-Pramod Madushan took three wickets.
-
-◼️
-
-[Data](articles/fa7514f8.json)
-
-[Extended Data](ext_articles/fa7514f8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 05:17:25**
+As of **2024-02-15 05:37:09**
 
 ## Newspaper Stats
 
-*Scraped **7,096** Articles*
+*Scraped **7,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 365
 economynextcom | 370
 dailyftlk | 389
 adalk | 603
-tamilmirrorlk | 862
+tamilmirrorlk | 866
 adaderanalk | 868
 virakesarilk | 912
 adaderanasinhalalk | 998
@@ -26,11 +26,61 @@ dailymirrorlk | 1,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,094 (100.0%) of 7,096 articles have been extended.
+7,096 (99.9%) of 7,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### சமூக உடன்படிக்கை கைச்சாத்திடப்பட்டது
+
+*2024-02-15 04:12:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-உடன்படிக்கை-கைச்சாத்திடப்பட்டது/175-333233) · `ta`
+
+எமது நாட்டிற்கு பெரும் வளமாக காணப்படும் மலையக மற்றும் தென் பகுதி தோட்ட சமூகத்தினரின் வாழ்க்கை, வாழ்வாதாரம், ஜீவனோபாயம் உள்ளிட்ட சமூக, பொருளாதார, அரசியல் கட்டமைப்பை வலுப்படுத்துவதற்காக, மலையகம் மற்றும் தென் பகுதிய பெருந்தோட்டத் துறையில் உள்ள சமூகத்துடன் இன்று ஒரு முக்கியமான சமூக உடன்படிக்கையை மேற்கொள்ள முடிந்துள்ளது.
+
+ஐக்கிய மக்கள் சக்தி அரசாங்கத்தின் கீழ் இதற்கென தனியான ஜனாதிபதி செயலகம் ஸ்தாபிக்கப்பட்டு, மலையக மற்றும் தென் பகுதி தோட்ட சமூகத்தினர் எதிர்நோக்கும் பொருளாதார,சமூக ரீதியான  அபிவிருத்தி மற்றும் அரசியல் பிரச்சினைகள் உள்ளிட்ட உட்கட்டமைப்புத் துறையில் உள்ள பிரச்சினைகளுக்கு தீர்வுகளை வழங்கும் இணக்கப்பாட்டுடன் உடன்படிக்கை எட்டப்பட்டதாகவும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+ஐக்கிய மக்கள் சக்தி கட்சியின் தலைமை அலுவலகத்தில், மலையக, தென்பகுதி பெருந்தோட்ட சமூகங்களின் உரிமைகளை பாதுகாப்பதற்கான உறுதிமொழியை வழங்கி, பல்வேறு தோட்ட அரசியல் கட்சிகள் மற்றும் பிரதிநிதிகளுடன், சுமூக உடன்படிக்கை, புதன்கிழமை (14) கைச்சாத்திடப்பட்டது.
+
+...
+
+[Data](articles/d7dd1068.json)
+
+---
+
+### ஆசிரியர்கள் இருவர், ஓடோ சாரதிக்கு சிறை
+
+*2024-02-15 03:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்கள்-இருவர்-ஓடோ-சாரதிக்கு-சிறை/175-333231) · `ta`
+
+வெவ்வேறு பாடசாலைகளைச் சேர்ந்த மூன்று மாணவிகளை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினர் என்றக் குற்றச்சாட்டின் பேரில், கைது செய்யப்பட்ட இரண்டு ஆசிரியர்கள், ஓட்டோ சாரதி ஆகிய மூவரையும், குற்றவாளிகளாக இனங்கண்ட நுவரெலியா மேல் நீதிமன்றம் அந்த மூவருக்கும் மொத்தமாக 37 வருடங்கள் கடூழிய சிறைத்தண்டனை விதித்து தீர்ப்பளித்துள்ளது.
+
+இதில், இரண்டு சம்பவங்களுக்கான தீர்ப்பு, நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரியவால் புதன்கிழமை (14) வழங்கப்பட்டது மற்றுமொரு சம்பவத்துக்கான தீர்ப்பு, ஜனவரி 31ஆம் திகதி, , நுவரெலியா மேல் நீதிமன்றத்தால் வழங்கப்பட்டுள்ளது.
+
+பாடசாலை மாணவி ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினார் என்ற குற்றச்சாட்டப்பட்டிருந்த கொட்டக்கலை பகுதியை சேர்ந்த (43) வயதுடைய பாடசாலை ஆசிரியரை 2 குற்றச்சாட்டுகளில் குற்றவாளியாக இனங்கண்ட நீதிமன்றம் அவருக்கு 17 வருட கடூழிய சிறை தண்டனை விதித்துள்ளது. முதலாவது குற்றச்சாட்டில் இருந்து அவர் விடுதலை செய்யப்பட்டார்.
+
+...
+
+[Data](articles/ca078980.json)
+
+---
+
+### பூட்டை உடைத்த 2 தேரர்களுக்கும் விளக்கமறியல்
+
+*2024-02-15 03:44:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூட்டை-உடைத்த-2-தேரர்களுக்கும்-விளக்கமறியல்/175-333230) · `ta`
+
+பல கோடி ரூபாய் பெறுமதியான, பம்பலப்பிட்டி ஃபரிட் பிளேஸில் உள்ள பழைய இரண்டுமாடிகளைக் கொண்ட வீட்டுக்கு போடப்பட்டிருந்த பூட்டை உடைத்துக்கொண்டு, சட்டவிரோதமான முறையில், உள்நுழைந்தனர் என்றக் குற்றச்சாட்டின் கீழ், கைது செய்யப்பட்ட பௌத்த தேரர்கள் இருவரும் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+பம்பலப்பிட்டி பொலிஸாரால் கைது செய்யப்பட்ட இவ்விருவரும், கொழும்பு மேலதிக நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டனர். இதன்போதே, மேலதிக நீதவான் பண்டார இளங்கசிங்க, அவ்விருவரையும் எதிர்வரும் 19ஆம் திகதி வரையிலும் விளக்கமறியலில் வைக்குமாறு உத்தரவிட்டார்.
+
+இந்த தேரரர்களில் ஒருவர், வயது குறைந்தவர் என்பதனால், அவரை நன்னடத்தை நிலையத்தில் தடுத்துவைக்குமாறும் மேலதிக நீதவான் உத்தரவிட்டார்.
+
+மாலபே பிரதேசத்தில் உள்ள விஹாரையைச் சேர்ந்த தேரர்கள் இருவரே இவ்வாறு கைது செய்யப்பட்டு, நீதிமன்ற உத்தரவின் பேரில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/36bb5bf9.json)
+
+---
 
 ### There is no constitutional provision to postpone Presidential election: CBK
 
@@ -47,6 +97,24 @@ However, she did declined to elaborate to a question raised by journalists on th
 ◼️
 
 [Data](articles/d873daee.json)
+
+[Extended Data](ext_articles/d873daee.ext.json)
+
+---
+
+### விமானப் படையினரும் களத்தில் குதித்தனர்
+
+*2024-02-15 03:06:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானப்-படையினரும்-களத்தில்-குதித்தனர்/175-333229) · `ta`
+
+நாடளாவிய ரீதியில் இரண்டாவது நாளாகவும் புதன்கிழமை (14),  மேற்கொள்ளப்பட்ட சுகாதார பணியாளர்களின் பணி பகிஷ்கரிப்பு போராட்டம் யாழ்ப்பாணம் போதனா வைத்தியசாலையிலும் இடம்பெற்றது.
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையில் இலங்கை விமானப்படையினர், நோயாளர் உதவிப் பணிகளுக்காக கடமையில் ஈடுபட்டனர்.
+
+72 சுகாதார தொழிற்சங்கங்களைச் சேர்ந்த  ஊழியர்கள் செவ்வாய்க்கிழமை (13) காலை 6.30 முதல் தொடர் பணிப்பகிஷ்கரிப்பில் ஈடுபட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e25dafbc.json)
 
 ---
 
@@ -311,6 +379,8 @@ Flower sellers claimed that they had a brisk sales during Valentine's Day and th
 ◼️
 
 [Data](articles/faa9c641.json)
+
+[Extended Data](ext_articles/faa9c641.ext.json)
 
 ---
 
@@ -1945,75 +2015,5 @@ The applications of the police and the defendant's lawyer have been investigated
 [Data](articles/f8d81de8.json)
 
 [Extended Data](ext_articles/f8d81de8.ext.json)
-
----
-
-### Love is in full bloom....
-
-*2024-02-14 16:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Love-is-in-full-bloom/110-277009) · `en`
-
-Valentine's Day shoppers rejoice as florists along Ven. Baddegama Wimalawansa Mawatha in Town Hall, Colombo, report a delightful drop in prices of roses compared to last year. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/b6c36d4f.json)
-
-[Extended Data](ext_articles/b6c36d4f.ext.json)
-
----
-
-### Minister Sabry to attend global security conference in Munich
-
-*2024-02-14 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97268/minister-sabry-to-attend-global-security-conference-in-munich) · `en`
-
-Foreign Affairs Minister Ali Sabry has been invited to attend the 60th edition of the prestigious Munich Security Conference (MSC) in Germany from February 16 - 18.
-
-Founded in 1963, the MSC stands as one of the world’s premier platforms for deliberating international security policies. Its objective is to build trust and contributing to the peaceful resolution of conflicts by fostering continuous, curated, and informal dialogues within the international security community.
-
-The lawmaker is slated to address the conference session on “Protecting Global Commons” on Saturday (Feb.17), the Foreign Affairs Ministry said in a statement.
-
-During the visit, Minister Sabry will engage in meetings with his counterparts from a number of countries, parliamentarians and business leaders as well.
-
-◼️
-
-[Data](articles/bf980714.json)
-
-[Extended Data](ext_articles/bf980714.ext.json)
-
----
-
-### Cannabis Recovery in Nainadivu!
-
-*2024-02-14 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176376) · `ta`
-
-It has been reported that 20 kg and 140 grams of gramkancha have been recovered in Nainadivu on Monday (12).
-
-It is also revealed that the Mullaitivu district special troopers rushed to the scene of the incident to the Mullaitivu District Special Task Force (STF).
-
-◼️
-
-[Data](articles/dcbd3329.json)
-
-[Extended Data](ext_articles/dcbd3329.ext.json)
-
----
-
-### Mohammed is coming together
-
-*2024-02-14 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193375) · `si`
-
-Former Afghanista leader Mohammed has been able to reach the first place to the first place for the one-day faurgerators in the latest rankings.
-
-Accordingly, Bangladesh three-year-old Shakib Al Hasani, who has stayed in the first place, has been placed second.
-
-He was in the forefront of the rankings of Mohammed in the first ODI recorded at the Pallekele Stadium in the Pallekele Stadium in the Pallekele Stadium in Kandy and Afghanistan.
-
-He scored 136 runs, and Aimethuthla built a record recording with Omasai.
-
-◼️
-
-[Data](articles/2b5c9727.json)
-
-[Extended Data](ext_articles/2b5c9727.ext.json)
 
 ---

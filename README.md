@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 17:02:38**
+As of **2024-02-15 17:17:22**
 
 ## Newspaper Stats
 
-*Scraped **7,261** Articles*
+*Scraped **7,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 376
 dailyftlk | 389
 adalk | 623
 adaderanalk | 890
-tamilmirrorlk | 892
-virakesarilk | 943
+tamilmirrorlk | 893
+virakesarilk | 947
 adaderanasinhalalk | 1,023
 dailymirrorlk | 1,061
 
@@ -26,11 +26,41 @@ dailymirrorlk | 1,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,255 (99.9%) of 7,261 articles have been extended.
+7,261 (99.9%) of 7,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### “பிரிந்திருந்து நாட்டை கட்டியெழுப்ப முடியாது”
+
+*2024-02-15 16:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரிந்திருந்து-நாட்டை-கட்டியெழுப்ப-முடியாது/175-333274) · `ta`
+
+அரசியல் ரீதியாக பிரிந்து நாட்டைக் கட்டியெழுப்ப முடியாது எனவும், அரசாங்கத்திற்காகவோ எதிர்க்கட்சிக்காகவோ அல்லாது  நாட்டு மக்களுக்கு வளமான வாழ்க்கைத் தரத்தை வழங்குவதற்கு அனைத்து தரப்பினரையும் ஒன்றிணையுமாறு மீண்டும் அழைப்பு விடுப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தின் முதற்கட்ட திறப்பு விழா,வியாழக்கிழமை (15) நடைபெற்றது. இதில் கலந்துகொண்டு கருத்துரைத்த போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தினால் பிரதேசத்தின் விவசாய நடவடிக்கைகளுக்கும் குடிநீர் தேவைக்கும் தீர்வு கிடைக்கும் எனவும்  பல்வேறு தரப்பினர் எதிர்ப்பு நடவடிக்கையில் ஈடுபட்டபோதும் இந்த திட்டத்தினால் விவசாயத்திற்கு எந்தப் பாதிப்பும் ஏற்படாது என தான் உறுதியளிப்பதாகவும்  ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்
+
+இங்கு கருத்துரைத்த நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான்,
+
+...
+
+[Data](articles/cd9c102f.json)
+
+---
+
+### கூட்டத்தில் கலந்து கொண்டிருந்த குணதிலக ராஜபக்க்ஷ எம்.பி திடீர் சுகயீனமடைந்து வைத்தியசாலையில் அனுமதி!
+
+*2024-02-15 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176463) · `ta`
+
+கண்டி மாவட்ட ஒருங்கிணைப்புக் கூட்டத்தின்போதே அவர் திடீரென சுகயீனமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/eb59979e.json)
+
+---
 
 ### Thennakoon says 42 International red notices issued for wanted criminals
 
@@ -52,6 +82,42 @@ Tennakoon also mentioned that the assistance of the International Police will be
 
 [Data](articles/b8c541bf.json)
 
+[Extended Data](ext_articles/b8c541bf.ext.json)
+
+---
+
+### இலங்கை தமி்ழ் அரசு கட்சியின் மாநாட்டுக்கு யாழிலும் தடை
+
+*2024-02-15 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176456) · `ta`
+
+தமிழரசுக் கட்சியின் மாநாட்டை நடாத்துவதற்கு எதிராக தடை உத்தரவு வழங்கக் கோரி யாழ்ப்பாணம் மாவட்ட நீதிமன்றில் தாக்கல் செய்யப்பட்ட வழக்கின் பிரகாரம் மாநாட்டை நடத்த நீதிமன்றால் இடைக்கால தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+தமிழரசுக் கட்சியின் மாநாட்டை நடாத்துவதற்கு எதிராக யாழ்ப்பாணம் மாவட்ட நீதிமன்றில் இன்று வியாழக்கிழமை (15) வழக்குதாக்கல் செய்யப்பட்டது.
+
+இது தொடர்பான விசாரணைகளை அடுத்து எதிர்வரும் 19ஆம் திகதி நடைபெறவிருந்த தமிழரசுக் கட்சியின் மாநாட்டை நடத்த யாழ்ப்பாணம் மாவட்ட நீதிமன்றம் இடைக்கால தடைஉத்தரவு பிறப்பித்துள்ளது.
+
+இதேவேளை திருகோணமலை மாவட்ட நீதிமன்றில் தொடரப்பட்ட வழக்கினை தொடர்ந்து, திருகோணமலை மாவட்ட நீதிமன்றமும் மாநாட்டிற்கு தடை விதித்து உள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1f112c00.json)
+
+---
+
+### கசிப்பு  அருந்திய மாணவன் பாடசாலையில் சுகயீனமுற்றதால் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டார்!
+
+*2024-02-15 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176459) · `ta`
+
+பசறை பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் கசிப்பு அருந்திய நிலையில் ஏற்பட்ட சுகவீனம் காரணமாக மாணவன் ஒருவன் பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+
+நேற்று  (14)  இந்த மாணவனுக்கு  திடீரென உடல்நலக்குறைவு ஏற்பட்டு வாந்தி எடுத்தார். இதுகுறித்து ஆசிரியர்கள் அவரிடம் கேட்டபோது, பாடசாலைக்கு அருகே உள்ள பிரதான  வீதியில் வைத்து தான்  கசிப்பு அருந்தியதாக கூறினார்.
+
+தான்  கசிப்பு அருந்தியதனை குறித்த மாணவன்  வைத்தியசாலையில் கூறியதன் அடிப்படையில் மேலதிக சிகிச்சைக்காக பதுளை போதனா வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டதாக பசறை ஆதார வைத்தியசாலையில் வட்டாரங்கள் தெரிவித்தன.
+
+◼️
+
+[Data](articles/651a7e9c.json)
+
 ---
 
 ### MP Gunatilleke Rajapaksa hospitalized
@@ -67,6 +133,24 @@ During the Kandy District Coordinating meeting, the time was hospitalized.
 [Data](articles/c428a66d.json)
 
 [Extended Data](ext_articles/c428a66d.ext.json)
+
+---
+
+### 3 மாணவிகளுக்கு தொல்லை கொடுத்த பாடசாலை ஆசிரியர் ஹட்டன் பொலிஸாரால் கைது!
+
+*2024-02-15 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176457) · `ta`
+
+ஹட்டன் பிராந்திய கல்வி அலுவலகத்துக்கு உட்பட்ட  பிரதேச   பாடசாலை ஒன்றில் பாடசாலை மாணவிகள் மூவருக்கு  தொல்லை கொடுத்த குற்றச்சாட்டில்  அதே பாடசாலையின்  ஆசிரியர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த ஆசிரியர் பாடசாலையில் பத்தாம் வகுப்பு கற்கும்  மூன்று மாணவிகள் மீது தொல்லைகளைப் பிரயோகிக் முயற்சித்ததாகவும் அவர்களுக்கு குறுஞ்செய்தி அனுப்பி அசௌகரியம் ஏற்படுத்தியதாகவும் தெரிவிக்கப்படுகிறது.
+
+சந்தேக நபரின் குறுஞ்செய்திகளுக்கு பதில் அளிக்காததால், வகுப்பறையில் அமர்ந்திருந்த அந்த  மாணவிகள் மீது தேவையற்ற அழுத்தங்கள் பிரயோகித்தால் சம்பந்தப்பட்ட மாணவிகள் வட்டவளை பொலிஸில் முறைப்பாடு செய்துள்ளனர்.
+
+இதன்படி, வட்டவளை பொலிஸ் நிலையப் பொறுப்பதிகாரி இன்ஸ்பெக்டர் சந்தன கமகேவின் உத்தரவில்  சந்தேகநபர் கைது செய்யப்பட்டார்.
+
+◼️
+
+[Data](articles/73061f30.json)
 
 ---
 
@@ -150,6 +234,8 @@ Speaking during the South Asia Hydromet Forum, Wijewardene said Sri Lanka is a c
 
 [Data](articles/185f03a3.json)
 
+[Extended Data](ext_articles/185f03a3.ext.json)
+
 ---
 
 ### Eligible individuals to receive ‘Aswesuma’ benefits without repercussions: WBB
@@ -191,6 +277,8 @@ A weaker Japanese yen was a key factor in the drop to fourth place, since compar
 ◼️
 
 [Data](articles/3c14de98.json)
+
+[Extended Data](ext_articles/3c14de98.ext.json)
 
 ---
 
@@ -388,21 +476,29 @@ A student of the Sabaragamuwa University Faculty and two students was eating at 
 
 ---
 
-### ජනපති ආපු උත්සවයට ගම්මුන්ගෙන් විරෝධයක්
+### Villagers objected to President's festival
 
 *2024-02-15 14:37:30* · [`adalk`](https://www.ada.lk/uncategorized/ජනපති-ආපු-උත්සවයට-ගම්මුන්ගෙන්-විරෝධයක්/1-408108) · `si`
 
-අනුරාධපුර උතුරු ජල සම්පාදන පානීය ජල ව්‍යාපෘතියේ පළමු අදියර අද (15දා) ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු ජපන් දූත පිරිසක් අතින් විවෘත කෙරුණු  අතර ඊට විරෝධය පල කරමින් දේශවාසීහු පිරිසක්  එම ජල පවිත්‍රාගාරය ඉදිරිපිටට පැමිණ ඔවුන්ගේ දැඩි විරෝධය පල කලහ.
+The first phase of the Northern Water Supply Drinking Drinking Drinking Water Project was opened by President Ranil Wickremesinghe.
 
-මෙම විවෘත කිරීම සඳහා ජපන් තානාපති ඇතුළු ජපන් ජාත්‍යන්තර සහයෝගිතා (ජයිකා) ආයතනයේ  දූත පිරිසක් ද එක්ව සිටියහ.
+Japanese Ambassador and Japanese Ambassador and Japanese International Cooperation (Jayasika) were also present.
 
-මෙහිදී විරෝධතාවයේ යෙදුණු පිරිස් පැවසුවේ, මෙම පානීය ජල ව්‍යාපෘතියේ ජලය යාපනයට හෝ රැගෙන ගියත් තමන්ගේ කිසිදු අකමැත්තක් නොමැති බවත් , මෙම ජල ව්‍යාපෘතිය සඳහා ජලය ලබා ගන්නා මහ කනදරාව ජලාශයට වතුර ලැබෙන ක්‍රමයක් සකස් කරන්නේ නැතිව මෙය විවෘත කිරීමෙන් මහා කනදරාව  ව්‍යාපාරයේ ගොවීහු අන්ත අසරණ භාවයට පත්වන බවය.
+The protest said that the water of the drinking water was carried out to Jaffna or that the waters of the water would be provided with a system of water.
 
-දැනට අහස් වැස්සෙන් පමණක් ලැබෙන ජලයෙන් මහ කන දරාව ජලාශය යටතේ අක්කර 9000ක කුඹුරු ප්‍රමාණයක් අස්වද්දන බවත්, මෙම ජල ව්‍යාපෘතිය විවෘත කිරීම හේතුවෙන් දැඩි නියගෙන්  පසු ලැබුණු වැස්සෙන්  පිරී ගිය කනදරාව  ජලාශය සතියක් යාමට මත්තෙන් සිඳී යන බව එම පිරිස් මෙහිදී  පැවසූහ.
+They said that the ownership of the rains filled with a week after the opening of the water was reduced due to the opening of the water in the water alone.
+
+Residents say that the Maha Porround is due to be obtained from the reservoir of the Great Launger due to this water scheme.
+
+The project was a promise to open the water supply water scheme, even when the water was on the Moratuwa Kanda Reservoir to the reservoir, but the water project was given to the farmers..
+
+The farmers were prepared to protested a protest to objection to the declaration of this water project.
 
 ...
 
 [Data](articles/3d3f1842.json)
+
+[Extended Data](ext_articles/3d3f1842.ext.json)
 
 ---
 
@@ -442,19 +538,21 @@ Fluo dead body found on a well adjacent to a house in the Kurunegala Police, Kur
 
 ---
 
-### ගුරුවරියන්ගේ සංඛ්‍යාව ගුරුවරුන්ගේ සංඛ්‍යාව මෙන් තුන් ගුණයක්
+### The number of teachers is three times the number of teachers
 
 *2024-02-15 14:18:48* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරියන්ගේ-සංඛ්‍යාව-ගුරුවරුන්ගේ-සංඛ්‍යාව-මෙන්-තුන්-ගුණයක්/11-408104) · `si`
 
-දිවයිනේ රජයේ පාසල්වල සේවය කරන ගුරුවරියන්ගේ සංඛ්‍යාව ගුරුවරුන්ගේ සංඛ්‍යාව මෙන් තුන් ගුණයක් වේ.
+The number of teachers working in government schools in the island is three times the number of teachers.
 
-දිවයින පුරා ජාතික පාසල් 396 ක් හා පළාත් පාසල් 9730 ක් වශයෙන්  මුළු  පාසල් සංඛ්‍යාව  10126 කි. ඒවායේ  සේවය කරන මුළු ගුරු සඛ්‍යාව 236,738 කි.එයින් 56,817 ක් ගුරුවරු වන අතර ගුරුවරියන් ගණන 179,921 කි.එය මුළු ගුරු සංඛ්‍යාවෙන් සියයට 76 ක ප්‍රතිශතයකි.
+396 national schools and 9730 provincial schools is 10126. The total number of teachers serving in them is 296,738 km and the number of teachers is 179,921.
 
-අධ්‍යාපන අමාත්‍යාංශය මගින්   2022 වසරට අදාලව සකස් කළ පාසල් පද්ධතියේ නවතම සංඛ්‍යා දත්ත වාර්තාව මගින් මෙම තොරතුරු අනාවරණය කර ඇති අතර දිවයිනේ  සිසුන් සංඛ්‍යාව 50 ට අඩු පාසල් 1473 ක් හා සිසුන් 4000 ට වැඩි පාසල් 34 ක්  තිබෙන බව ද එම  දත්ත වාර්තාවේ  සඳහන්වේ.
+The data report revealed that the latest statistical data report has revealed that the school system has been prepared by the Ministry of Education 2022.
 
 ◼️
 
 [Data](articles/5fd18567.json)
+
+[Extended Data](ext_articles/5fd18567.ext.json)
 
 ---
 
@@ -524,15 +622,17 @@ Military action in areas where civilians live can be dangerous to the public;He 
 
 ---
 
-### 2023 වසරේ තෙවැනි පාසල් වාරය සිකුරාදා අවසන්
+### Third school year of 2023 end on Friday
 
 *2024-02-15 13:56:27* · [`adalk`](https://www.ada.lk/breaking_news/2023-වසරේ-තෙවැනි-පාසල්-වාරය-සිකුරාදා-අවසන්/11-408103) · `si`
 
-2023 වර්ෂයේ රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල තෙවන පාසල් වාරය 2024-02-16 වන සිකුරාදා දින අවසන් වන අතර, 2024 වර්ෂයේ පළමු පාසල් වාරයේ පළමුවන අදියර 2024-02-19 වන සඳුදා දින ආරම්භ කරන බව අධ්‍යාපන අමාත්‍යාංශය දැනුම් දෙයි.
+The third term of government schools and government approved private schools in 2023, the first phase of the first stage of 2024 was commenced on Monday, 2024-024.
 
 ◼️
 
 [Data](articles/2ab518e7.json)
+
+[Extended Data](ext_articles/2ab518e7.ext.json)
 
 ---
 
@@ -1937,111 +2037,5 @@ It is said that the stock of narcotics was arrested.
 [Data](articles/e34aa566.json)
 
 [Extended Data](ext_articles/e34aa566.ext.json)
-
----
-
-### 19 Divisional Secretariat Divisions of Kandy District at a cost of Rs 1,900 million
-
-*2024-02-15 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176412) · `ta`
-
-The 19 Divisional Secretariat of Kandy District will be developed at a cost of Rs 1,900 million under the Hill Daddy Special Integrated Rural Development Program implemented on the directive of President Ranil Wickremesinghe.
-
-Minister of Urban Development and Housing Prasanna Ranatunga said that this upcountry decades will be implemented, including livelihood and food safety, market development, education, drinking water supply, road development, agriculture and small irrigation, electricity and renewable energy and health.
-
-At the Kandy District Coordinating Committee meeting held at the Kandy District Secretariat on Wednesday (14), the Minister said this while informing the projects proposed to implement in the Kandy district under the Upcountry Development Development Program.
-
-...
-
-[Data](articles/21b39c17.json)
-
-[Extended Data](ext_articles/21b39c17.ext.json)
-
----
-
-### The Badulla atmosphere is a problem
-
-*2024-02-15 10:05:05* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-වායුගෝලයේ-ගැටලුවක්/11-408095) · `si`
-
-Small size dust particles (such as the fog) is covered with the health conditions of the Badulla district.15) said.
-
-He said that more than the level of the Kandy-Dust particle concentration of the oarly in Badulla District today (15), he said.
-
-It is said that the elders of breathing, the elderly, and the elderly, and the elders should be cautious, and the oral covering is possible to get rid of this situation by abstaining in the open environment.
-
-◼️
-
-[Data](articles/7fd3e543.json)
-
-[Extended Data](ext_articles/7fd3e543.ext.json)
-
----
-
-### 25 Sri Lankans deported
-
-*2024-02-15 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193405) · `si`
-
-The Government has decided to deport 186 foreigners including 25 Sri Lankans accused of illegal activities.
-
-Foreign media reports that the visa violations and drug misconductions have been deported.
-
-Among the deported group, 83 Sri Lankans, 83 Sri Lankans, 46 Indian nationals and eight Nepalians.
-
-However, it is reported that a specific date deported has not been published yet.
-
-◼️
-
-[Data](articles/0e318e21.json)
-
-[Extended Data](ext_articles/0e318e21.ext.json)
-
----
-
-### Sri Lanka rupee opens at 313.00/30 to the US dollar
-
-*2024-02-15 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-313-00-30-to-the-us-dollar-150997/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 313.00/30 to the US dollar Thursday, from 313.00/10 on Wednesday, dealers said.
-
-Demand for dollars for oil imports is still muted dealers say, despite hydro power generation easing, as Sinopec does not buy dollars in the market.
-
-Bond yields were down. Treasury bill yields fell across maturities at Wednesday’s auction.
-
-A bond maturing on 01.08.2026 was quoted at 10.65/85 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.40/60 percent from 11.30/45 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.85/90 percent from 11.80/85 percent.
-
-The Colombo stock market opened up; the All Share Price Index was up 0.35 percent at 10,568; and the S&P SL20 was up 0.60 percent at 3,042. (Colombo/Feb15/2024)
-
-◼️
-
-[Data](articles/3b123a99.json)
-
-[Extended Data](ext_articles/3b123a99.ext.json)
-
----
-
-### Nearly 10,000 child abuse complaints received in 2023 - NCPA
-
-*2024-02-15 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97285/nearly-10000-child-abuse-complaints-received-in-2023-ncpa) · `en`
-
-National Child Protection Authority (NCPA) says it has received close to 10,000 complaints regarding child abuse over the course of 2023.
-
-The NCPA chairman, Udayakumara Amarasinghe said as many as 9,434 complaints were received between 01 January and 31 December last year, as opposed to the 7,466 complaints received in 2022.
-
-Among these are, 2,242 complaints related to cruelty, 472 on sexual abuse, 404 on severe sexual abuse, 51 on rape of female children, and 6 on using children for obscene posts, he said.
-
-In addition, complaints were also received with regard to child exploitation, trafficking, domestic abuse, neglect, and kidnapping.
-
-Mr. Amarasinghe said these complaints have been forwarded to respective authorities for onward legal action.
-
-Meanwhile, discussions are in progress to amend certain existing laws to crack down on child abuse, NCPA chairman emphasized.
-
-◼️
-
-[Data](articles/c83b7b45.json)
-
-[Extended Data](ext_articles/c83b7b45.ext.json)
 
 ---

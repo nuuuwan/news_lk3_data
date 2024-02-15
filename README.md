@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 07:31:33**
+As of **2024-02-15 07:52:26**
 
 ## Newspaper Stats
 
-*Scraped **7,110** Articles*
+*Scraped **7,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 80
 bbccomsinhala | 94
 dbsjeyarajcom | 149
 newsfirstlk | 363
-islandlk | 369
-economynextcom | 370
+economynextcom | 371
+islandlk | 376
 dailyftlk | 389
 adalk | 603
 tamilmirrorlk | 868
@@ -26,7 +26,7 @@ dailymirrorlk | 1,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,110 (100.0%) of 7,110 articles have been extended.
+7,118 (100.0%) of 7,118 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -974,6 +974,22 @@ The Minister also emphasized that the independence has been given to each distri
 
 ---
 
+### Vogue Jewellers presents offers in February
+
+*2024-02-14 21:25:00* · [`islandlk`](http://island.lk/vogue-jewellers-presents-offers-in-february/) · `en`
+
+As the month of love and romance unfolds, Vogue Jewellers is delighted to unveil exceptional promotions and a new collection that are sure to satisfy your taste for luxury and timeless elegance this Valentine’s Day. Vogue Jewellers will also be bringing back its old gold Promotion in February, by popular demand.
+
+Accordingly, from 7th to the 14th of February 2024, Vogue Jewellers presents a dazzling celebration of diamonds and precious stones. Enjoy an irresistible 45% off on exquisite items adorned with these timeless gems, each radiating with a brilliance and sophistication that will stay with you forever. Whether it is a token of affection for a loved one, something for yourself, or an investment for the future, this limited-time offer is an opportunity not to be missed.
+
+...
+
+[Data](articles/fa417bf5.json)
+
+[Extended Data](ext_articles/fa417bf5.ext.json)
+
+---
+
 ### Rs 4 million in cash prizes from ComBank RemitPlus ‘Pita Rata Wasi’ remittance promo
 
 *2024-02-14 21:24:00* · [`islandlk`](http://island.lk/rs-4-million-in-cash-prizes-from-combank-remitplus-pita-rata-wasi-remittance-promo/) · `en`
@@ -1013,6 +1029,22 @@ Indian Institutes of Technology. The other two universities will open their two 
 [Data](articles/93b6d307.json)
 
 [Extended Data](ext_articles/93b6d307.ext.json)
+
+---
+
+### Dialog Axiata Unveils Smart Home Devices Powered by Dialog Smart Home App
+
+*2024-02-14 21:22:00* · [`islandlk`](http://island.lk/dialog-axiata-unveils-smart-home-devices-powered-by-dialog-smart-home-app/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, unveiled a holistic Smart Home App, revolutionizing smart living and empowering users to effortlessly control their entire suite of Dialog Smart Home devices with a single platform, regardless of their location.
+
+The Dialog Smart Home App serves as a centralised platform, allowing users to effortlessly manage and monitor a range of smart devices from the categories of Surveillance, Automation, and Connectivity. With a diverse array of products, including the Smart Indoor Cameras, Smart Outdoor Cameras, Wi-Fi Mesh (featuring WiFi 6 connectivity for an enhanced experience), Smart Wall Plugs, Smart Wall Sockets, Smart Switches, Smart Extension Cords, and Tedi Alexa, the app creates a truly interconnected home ecosystem.
+
+...
+
+[Data](articles/7d474024.json)
+
+[Extended Data](ext_articles/7d474024.ext.json)
 
 ---
 
@@ -1175,6 +1207,30 @@ The accident occurred when a private bus carrying 70 passengers, including child
 [Data](articles/a960e805.json)
 
 [Extended Data](ext_articles/a960e805.ext.json)
+
+---
+
+### Sri Lanka Treasuries yields fall across maturities
+
+*2024-02-14 20:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-fall-across-maturities-150922/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction with all 135 billion rupees of bills sold, data from the state debt office showed.
+
+The 3-month yield fell 117 basis points to 9.79 percent with 30 billion rupees in bills offered and 38.35 billion sold.
+
+The 6-month yield fell 121 basis points to 9.86 percent with 45 billion rupees in bills offered 48 billion sold.
+
+The 12-month yield fell 71 basis points to 10.02 percent, with 60 billion rupees of bills offered and 48 billion rupees sold.
+
+Sri Lanka’s central bank has been selling down its Treasury bill stock to build forex reserves in recent months while fiscal corrections have helped moderate borrowings.
+
+The central bank after selling bills outright at auctions is injecting money overnight and through term reverse repo auctions, in a policy that alters rupee reserves in individual banks and possibly encouraging them to overtrade, analysts say.
+
+...
+
+[Data](articles/0affecb1.json)
+
+[Extended Data](ext_articles/0affecb1.ext.json)
 
 ---
 
@@ -1953,59 +2009,5 @@ Apart from showcasing their product ranges to buyers, the exhibitors benefitted 
 [Data](articles/7954b856.json)
 
 [Extended Data](ext_articles/7954b856.ext.json)
-
----
-
-### Decision taken by Health Trade Unions
-
-*2024-02-14 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193378) · `si`
-
-Health union says that the strike continues to be carried out by the Minister of Health in relation to discussing his problem.
-
-Speaking to the media, the co-convener of the UPFA Ravi Kumuduyhi made this statement.
-
-The trade union action commenced 72 health unions yesterday (13) at 6.30 am yesterday (13).
-
-◼️
-
-[Data](articles/e2baf07a.json)
-
-[Extended Data](ext_articles/e2baf07a.ext.json)
-
----
-
-### A day for love
-
-*2024-02-14 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176386) · `ta`
-
-Today, most of the people around the world are celebrating Valentine's Day.A day that is for love. But we can't solve love in one day. Love created by the Lord. There is no one in this world that no one is in love. No life can be. Even before we are born, we have been in love with this earth. Even though everything changed, love never changed ever. Love continues to be the era.
-
-There is no one who celebrates love.. Even after the mustache sprouting and the mustache falls into the mustache, it is love to fly our minds as an insect.
-
-No one can tell us where we will fall in love with when.. The classic of life in the inside of life.
-
-...
-
-[Data](articles/284e8b64.json)
-
-[Extended Data](ext_articles/284e8b64.ext.json)
-
----
-
-### Two killed after canoe capsizes in Kinniya
-
-*2024-02-14 17:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-after-canoe-capsizes-in-Kinniya/108-277012) · `en`
-
-Kinniya, Feb. 14 (Daily Mirror)- Two individuals who were fishing in the Upparu lagoon in Kinniya drowned after their canoe capsized, Police said.
-
-Their bodies were recovered while floating on the lagoon today.
-
-Police had launched a search operation after the relatives had complained that the two individuals who had gone fishing in the Upparu lagoon in a canoe the previous night had not returned.
-
-◼️
-
-[Data](articles/91403c5d.json)
-
-[Extended Data](ext_articles/91403c5d.ext.json)
 
 ---

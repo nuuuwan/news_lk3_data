@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 02:02:26**
+As of **2024-02-16 02:17:30**
 
 ## Newspaper Stats
 
-*Scraped **7,343** Articles*
+*Scraped **7,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ tamilmirrorlk | 897
 adaderanalk | 899
 virakesarilk | 962
 adaderanasinhalalk | 1,037
-dailymirrorlk | 1,075
+dailymirrorlk | 1,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,337 (99.9%) of 7,343 articles have been extended.
+7,343 (100.0%) of 7,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Thinking Beyond a Profession and Entering the Market - EDITORIAL
+
+*2024-02-16 01:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Thinking-Beyond-a-Profession-and-Entering-the-Market-EDITORIAL/172-277129) · `en`
+
+There was a popular breakfast show on television a few days ago where singers Bathiya and Santhush shared their ideas about being successful in music; the business that’s close to their hearts.
+
+What the duo underscored was the fact that they didn’t merely enter the music industry, but created a space for themselves in the music market. In other words, the duo had ‘selling’ in mind, whenever they came up with a new album.
+
+There are many talent shows in this country which serve in finding the next generation of performance artistes. Bathiya maintained that during these live shows, coaches can only focus on improving skills of budding singers, but cannot teach them marketing.
+
+We can see hordes of teachers entering the teaching profession and being unhappy after a few years in the industry. On the contrary, we also see the tuition masters rule the roost; enjoying the time spent with children and minting money.
+
+...
+
+[Data](articles/e68b6439.json)
+
+---
+
+### Israel’s genocide juggernaut to hit Rafah, despite global appeals
+
+*2024-02-16 01:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Israels-genocide-juggernaut-to-hit-Rafah-despite-global-appeals/172-277128) · `en`
+
+Children sit inside a vehicle loaded with items secured by rope as people flee the southern city of Rafah toward the centre of the Gaza Strip to escape Israel’s ground war in the city
+
+Never has an Israeli government been as cruel or malicious as Benjamin Netanyahu’s hardline government, which is planning to unleash what is feared as the worst phase of Israel’s genocidal campaign in the Gaza Strip. With 1.5 million starving and suffering Palestinians crammed into the southern Gaza city of Rafah, Israel has pledged to launch a massive ground, air, and sea offensive.
+
+And never has a United States government been as weak in its diplomatic coercion as the present Joe Biden administration is. Diplomatic power is seen not only when a nation uses its diplomatic clout to tame a hostile nation but also in the ability to coax or coerce a friend.
+
+...
+
+[Data](articles/9f884df1.json)
+
+---
 
 ### India-Sri Lanka Security Intertwined - Vijitha Herath
 
@@ -54,93 +88,107 @@ Q   How far is the policy of your party in line with the broader vision of Ind
 
 ---
 
-### காணி தகராறுகளை மத்தியஸ்த சபை முறையில் தீர்க்க நடவடிக்கை - அமைச்சர் விஜேதாச தெரிவிப்பு
+### Minister Wijeyadasa
 
 *2024-02-16 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176491) · `ta`
 
-வடக்கு கிழக்கில் இடம்பெற்றுவந்த காணிப்பிரச்சினைகளை தீர்ப்பதற்கு மத்தியஸ்த சபை முறைமை ஊடாக நடவடிக்கை எடுத்ததுபோன்று ஏனைய மாவட்டங்களில் இடம்பெறும் காணிப்பிரச்சினைகளை மத்தியஸ்த சபை முறைமையினூடாக தீர்ப்பதற்கு நடவடிக்கை எடுத்து வருகிறோம் என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+Minister of Justice Wijeyadasa Rajapakse said that we are taking steps to resolve the land issues in other districts through the Arbitration Council system, as the Arbitration Council has taken steps to resolve the land issues in the North and East.
 
-நீதி, சிறைச்சாலைகள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சில் வியாழக்கிழமை (15) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking at a press conference held at the Ministry of Justice, Prison and the Constitutional Reform on Thursday (15).
 
-1988ஆம் ஆண்டு மத்தியஸ்த சபை சட்டத்தின் ஊடாக மத்தியஸ்த சபை ஆணைக்குழு அமைக்கப்பட்டதன் பின்னர் 2015 ஆம் ஆண்டாகும்போது இலங்கைக்குள் இடம்பெற்று வந்த வழக்கு நடவடிக்கைகளில் சுமார் நூற்றுக்கு 47 வீதம் தீர்த்துக்கொள்ள முடியுமாகியுள்ளது. அத்துடன் மத்தியஸ்த சபை முறைமையில் மேற்கொள்ளப்பட்ட மறுசீரமைப்பின் ஊடாக தற்போது வழக்கு தீர்க்கும் வீதம் சுமார் நூற்றுக்கு 70வீதம் வரை அதிகரித்துள்ளது.
+After the formation of the Commission of Arbitration in 1988, the Arbitration Commission has been able to resolve about 47 percent of the lawsuits in Sri Lanka during the year 2015.. In addition, the case of the case has now increased by about 70 per cent by the rehabilitation of the medium council system.
+
+In addition, delaying the ongoing trial in courts is one of the reasons for the decline in the court's confidence. Therefore, the need for the medium council system is the need to expand the system as a move to avoid delaying the trial.
 
 ...
 
 [Data](articles/8f358d4d.json)
 
+[Extended Data](ext_articles/8f358d4d.ext.json)
+
 ---
 
-### யாழ். இணுவில் பகுதியில் பாதுகாப்பான புகையிரத கடவையை வலியுறுத்தி போராட்டம்
+### Yall. Struggle urging a safe railway crossing in the area
 
 *2024-02-16 00:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176490) · `ta`
 
-யாழ்ப்பாணம் - இணுவில் பகுதியில் பாதுகாப்பான புகையிரத கடவையை வலியுறுத்தி வியாழக்கிழமை (15) புகையிரதத்தை மறித்து போராட்டமொன்றைப் பொதுமக்கள் முன்னெடுத்தனர்.
+The public launched a protest on Thursday (15), demanding a safe railway crossing in the Jaffna -Awil area.
 
-குறித்த புகையிரத கடவையில் பாதுகாப்பு ஏற்பாடுகள் இல்லை என தெரிவித்தும் கடவை காப்பாளர் அவ்விடத்தில் தமது கடமையைச் செய்யவில்லை என குறிப்பிட்டும் பிரதேச மக்களால் போராட்டம் முன்னெடுக்கப்பட்டது.
+The protest was carried out by the people of the area, saying that there were no security arrangements in the railway crossing and that the sailor did not do his duty.
 
-6:45 மணியளவில் யாழ்ப்பாணத்திலிருந்து காங்கேசன்துறை நோக்கி சென்ற புகையிரதத்தை மறித்து போராட்டக்காரர்கள் போராட்டத்தில் ஈடுபட்டனர்.பலத்த கோஷம் எழுப்பி பொலிசாருடன் வாக்குவாதத்தில் ஈடுபட்டனர்.
+At 6:45 pm, the protesters were protesting against the train from Jaffna to Kankesanthurai.
 
-இதன்போது இறந்த உயிரே இறுதியாகட்டும், எங்கள் உயிரை காவு கொள்ளாதே!, தினம் தினம் பயந்த பயணமா? ஆகிய கோஷங்கள் தாங்கிய பதாதைகள் காட்சிப்படுத்தப்பட்டன.
+Lastly, do not save our lives!The slogans were exhibited.
 
-யாழ்ப்பாணம் இணுவில் பகுதியில் புகையிரதத்துடன் மோதி வானொன்று விபத்துக்குள்ளானதில் இருவர் உயிரிழந்துள்ளதுடன் பெண்ணொருவர் தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வருகிறார்.
+Two people have died in a collision with a train in the Jaffna area and a woman is being treated in the intensive care unit.
 
 ◼️
 
 [Data](articles/fcc56948.json)
 
+[Extended Data](ext_articles/fcc56948.ext.json)
+
 ---
 
-### அச்சுவேலி பிரதேச வைத்தியசாலையில் மது போதையில் உட்புகுந்த சிலர் அட்டகாசம்
+### Achuveli Divisional Hospital
 
 *2024-02-16 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176489) · `ta`
 
-வைத்தியசாலைக்கு வியாழக்கிழமை (15) மாலை மது போதையில் வந்த சிலர் கடமையிலிருந்த பாதுகாப்பு உத்தியோகத்தரைப் தலையில் பலமாகத் தாக்கினர்.
+On Thursday evening (15), some people who had been in alcohol attacked the security officer on their heads.
 
-பாதுகாப்பு உத்தியோகத்தரின் அலுவலக ஜன்னல் கண்ணாடிகளை உடைத்து சேதப்படுத்தியுள்ளனர். இதனை தடுக்க வந்தவர்களையும் தகாத வார்த்தைகளால் கடுமையாக மிரட்டினர்.
+The security officer's office window mirrors are damaged and damaged. Those who came to prevent this were also severely intimidated with inappropriate words.
 
-குறித்த தாக்குதல் சம்பவம் தொடர்பாக அச்சுவேலி பொலிசாருக்கு வைத்தியசாலை நிர்வாகத்தால் அறிவிக்கப்பட்ட நிலையில்,பொலிசார் வாக்குமூலங்களைப் பதிவு செய்து, விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+As the hospital administration has been informed by the hospital administration regarding the incident, the police are registering the affidavits and are conducting investigations.
 
 ◼️
 
 [Data](articles/a885e13a.json)
 
+[Extended Data](ext_articles/a885e13a.ext.json)
+
 ---
 
 ### 2024-02-15 (Thursday)
 
-### நாட்டின் பொருளாதாரம் வீழ்ச்சியடை மத்திய வங்கியே காரணம் - நீதி அமைச்சர் விஜேதாச குற்றச்சாட்டு
+### Central Bank is responsible for the fall of the country's economy - Justice Minister Wijeyadasa
 
 *2024-02-15 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176488) · `ta`
 
-நாடு பொருளாதார ரீதியில் வீழ்ச்சியடைய மத்திய வங்கியே பிரதான காரணமாகும். அஜித் நிவாட் கப்ரால் அளுநராக இருந்த காலத்தில் இருந்து நாட்டின் அன்னிய செலாவனி துஷ்பிரயோகம் செய்யப்பட்டு வந்தது. அதனால் வெளிநாட்டுகளில் இருப்பவர்களுக்கு மத்திய வங்கியின் நடவடிக்கைகளில் நம்பிக்கை இல்லாமல் போனது என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+The main reason for the central bank of the country is economically declining. The country's foreign currency has been abused since Ajith Niwad Cabral was a great. Minister of Justice Wijeyadasa Rajapakse said that those who are abroad have been left faith in the actions of the Central Bank.
 
-நீதி, சிறைச்சாலைகள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சில் வியாழக்கிழமை (15) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking at a press conference held at the Ministry of Justice, Prison and the Constitutional Reform on Thursday (15).
 
-அரச வங்கிகள் சாதாரண மக்கள் தொடர்பில் கண்டுகொள்வதில்லை. அதனால்தான் அந் மக்கள் கறுப்பு வியாபாரிகளை நாடி, தங்களின் வியாபார நடவடிக்கைகளுக்கு பாரிய வட்டித் தொகைக்கு கடன் பெறுகின்றனர். இதனால் சாராதண வியாபாரிகள் விவசாயிகள் தங்களின் தொழிலில்  நட்டம் ஏற்படும்போது அவர்கள் அந்த தொழிலை விட்டுவிடும் நிலைக்கு செல்கிறனர். அதனால்தான் இன்று நாட்டில் விவசாயம் செய்பவர்களின் வீதம் வீழ்ச்சியடைந்துள்ளது.
+State banks do not find out about ordinary people. That is why people seek black merchants and borrow for a massive interest on their business activities. Thus, when the farmers are lost in their career, they leave the industry to leave. That is why today the rate of farming in the country has fallen.
 
 ...
 
 [Data](articles/fba42652.json)
 
+[Extended Data](ext_articles/fba42652.ext.json)
+
 ---
 
-### அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தின் முதற் கட்டம் ஜனாதிபதியால் மக்கள் பாவனைக்கு கையளிப்பு; விவசாயத்தை பாதிக்காது என ஜனாதிபதி உறுதி
+### The first phase of the Anuradhapura Northern Water Supply Scheme is handed over by the President to the People's Use;The president is sure not to affect agriculture
 
 *2024-02-15 23:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176486) · `ta`
 
-வட. மத்திய மாகாணத்தை வலுசக்தி மையமாக மாற்றுவது தொடர்பில் அரசாங்கம் கவனம் செலுத்தியுள்ளது.
+North. The government has focused on transforming the central province into a powerful center.
 
-அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தினால் பிரதேசத்தின் விவசாய நடவடிக்கைகளுக்கு எவ்விதமான பாதிப்புக்களும் ஏற்டாதென ஜனாதிபதி ரணில் விக்ரமசிங்க உறுதியளித்தார்.
+President Ranil Wickremesinghe has assured that the Anuradhapura Northern Water Supply Project will not have any effect on the area's agricultural activities.
 
-அந்த வேலைத்திட்டத்தினால் விவசாய தேவைகளுக்கும், குடிநீர் தேவைகளுக்கும் தீர்வு கிடைக்குமெனவும் தெரிவித்த ஜனாதிபதி அதுகுறித்து அச்சப்பட வேண்டிய அவசியம் இல்லை எனவும் அறிவுறுத்தினார்.
+The President advised that the program would provide a solution to agricultural needs and drinking water needs.
 
-அநுராதபுரம் வடக்கு நீர் வழங்கல் திட்டத்தின் முதல் கட்டத்தை வியாழக்கிழமை (15) முற்பகல் மக்கள் பாவனைக்காக கையளித்து உரையாற்றும் போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+The President made this statement while addressing the first phase of the Anuradhapura North Water Supply Scheme on Thursday (15).
 
-நீண்டகாலமாக சிறுநீரக நோயினால் அவதியுறும் மதவச்சி, பதவிய, கெபித்திகொல்லேவ, ஹொரோவபொத்தான, கஹட்டகஸ்திகிலிய பிரதேச மக்களுக்கு தூய குடிநீர் உரிமையை பெற்றுக் கொடுப்பதற்காக, ஜப்பான் சர்வதேச ஒத்துழைப்பு நிறுவனத்தின் நிதியுதவியுடன் நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சின் வழிகாட்டலின் கீழ் 11,515 மில்லியன் ரூபாய் செலவில் இத்திட்டம் நடைமுறைப்படுத்தப்பட்டுள்ளது.
+The project has been implemented at a cost of Rs.
+
+The first phase of this is that the Anuradhapura Maha Kanadarawa pond has been implemented as the main source of water and the drinking water needs of 25,000 families of the 75 Grama Niladhari Divisions of the Rambewa and Madhavachi Divisional Secretariat will be met.
 
 ...
 
 [Data](articles/5bc5b462.json)
+
+[Extended Data](ext_articles/5bc5b462.ext.json)
 
 ---
 
@@ -396,21 +444,23 @@ The Inspector was interdicted following a probe by the Police Department.
 
 ---
 
-### மாகாண சபைகளுக்கான பொலிஸ் அதிகாரம் முழுமையாக நீக்கப்பட வேண்டும் - கம்மன்பில
+### Police authority for provincial councils should be completely removed - Kammanpila
 
 *2024-02-15 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176462) · `ta`
 
-மாகாண சபைகளுக்கு பொலிஸ் அதிகாரத்தை வழங்கினால் நாட்டின் தேசிய பாதுகாப்பு அச்சுறுத்தலுக்குள்ளாக்கப்படும். ஆகவே மாகாண சபைகளுக்கு பொலிஸ் அதிகாரங்களை வழங்கும் ஏற்பாடுகள் முழுமையாக இரத்துச் செய்யப்பட வேண்டும்.
+If the provincial councils are given police authority, the country's national security will be threatened. Therefore, arrangements to provide police powers to provincial councils must be fully canceled.
 
-வர்த்தமானியில் வெளியிடப்பட்டுள்ள 22ஆவது திருத்த யோசனையை எதிர்வரும் வாரம் பாராளுமன்றத்தில் சமர்ப்பிப்பேன் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) and Member of Parliament, said that he would submit the 22nd Amendment to the Gazette in the coming week.
 
-மாகாண சபைகளுக்கு பொலிஸ் அதிகாரங்களை வழங்கும் அதிகாரத்தை இரத்து செய்யும் வகையில் பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில முன்வைத்த இருபத்திரெண்டாவது அரசியலமைப்பு திருத்தம் வர்த்தமானி அறிவித்தலில் வெளியிடப்பட்டுள்ளது.
+The twentieth constitutional amendment, presented by Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) leader and Member of Parliament, has been issued in the Gazette notification to cancel the power to provide police powers to provincial councils.
 
-அரசியலமைப்பின் 13 ஆவது திருத்தத்தின் ஊடாக மாகாண சபைகளுக்கு வழங்கப்பட்டுள்ள பொலிஸ் அதிகாரங்களை நீக்கும் வகையில் அரசியலமைப்பின் 22 ஆவது திருத்தத்தை கொண்டு வருவதற்காக பிவிதுறு ஹெல உறுமய கட்சியின் தலைவர் உதய கம்மன்பில கடந்த ஆண்டு ஜூலை மாதமளவில் பாராளுமன்றத்தில் தனிநபர் பிரேரணை ஒன்றை முன்வைத்திருந்தார்.
+Udaya Kammanpila, the leader of the Pivithuru JHU, presented a personal motion in Parliament in July last year to bring about the 22nd Amendment to the Constitution to eliminate the police powers given to the Provincial Councils through the 13th Amendment to the Constitution.
 
 ...
 
 [Data](articles/ea3f6a8a.json)
+
+[Extended Data](ext_articles/ea3f6a8a.ext.json)
 
 ---
 
@@ -2033,45 +2083,5 @@ The two-day constitutional amendment presented by Udaya Gammanpila has been anno
 [Data](articles/459fb2a5.json)
 
 [Extended Data](ext_articles/459fb2a5.ext.json)
-
----
-
-### The number of teachers is three times the number of teachers
-
-*2024-02-15 14:18:48* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරියන්ගේ-සංඛ්‍යාව-ගුරුවරුන්ගේ-සංඛ්‍යාව-මෙන්-තුන්-ගුණයක්/11-408104) · `si`
-
-The number of teachers working in government schools in the island is three times the number of teachers.
-
-396 national schools and 9730 provincial schools is 10126. The total number of teachers serving in them is 296,738 km and the number of teachers is 179,921.
-
-The data report revealed that the latest statistical data report has revealed that the school system has been prepared by the Ministry of Education 2022.
-
-◼️
-
-[Data](articles/5fd18567.json)
-
-[Extended Data](ext_articles/5fd18567.ext.json)
-
----
-
-### Five youth arrested in Maskeliya incident: two buses at police station!
-
-*2024-02-15 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176444) · `ta`
-
-Maskeliya police said that five youths were arrested on suspicion of assaulting a private bus driver and conductor during the incident in Maskeliya yesterday (14).
-
-A private bus traveling from Maskeliya to Hatton to Hatton has been hit by a pilgrims' bus -owned bus -owned bus to Hatton Depot and a group of pilgrims who went to visit the Sivanolipada mountain.. A young man was injured.
-
-After the youth was injured, five youths from the EBS bus got down and attacked the driver and conductor of the private bus.
-
-Due to this confrontation, traffic on the Maskeliya -Hatton main road has been completely blocked for about an hour.
-
-Maskeliya police went to the scene and took two buses to the Maskeliya police station and arrested five youths on suspicion.
-
-◼️
-
-[Data](articles/fdf9a057.json)
-
-[Extended Data](ext_articles/fdf9a057.ext.json)
 
 ---

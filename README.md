@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 12:48:41**
+As of **2024-02-15 13:02:25**
 
 ## Newspaper Stats
 
-*Scraped **7,207** Articles*
+*Scraped **7,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 376
 dailyftlk | 389
 adalk | 614
 adaderanalk | 883
-tamilmirrorlk | 886
+tamilmirrorlk | 888
 virakesarilk | 929
-adaderanasinhalalk | 1,010
+adaderanasinhalalk | 1,017
 dailymirrorlk | 1,056
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,192 (99.8%) of 7,207 articles have been extended.
+7,207 (99.9%) of 7,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### “பணத்தை திருப்பி கொடுக்க தயார்” NORTHERN UNI அறிக்கை
+
+*2024-02-15 12:26:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பணத்தை-திருப்பி-கொடுக்க-தயார்-NORTHERN-UNI-அறிக்கை/71-333257) · `ta`
+
+இலங்கையில் யாழ்ப்பாணத்தில் கடந்த பிப்ரவரி 9ஆம் திகதி மிகவும் பிரம்மாண்டமாக பின்னணி பாடகர் ஹரிஹரனின் இசை நிகழ்ச்சி நடந்தது.
+
+இந்த நிகழ்ச்சிக்கு தொகுப்பாளினி டிடி, KPY பாலா, பின்னணி பாடகி ஸ்வேதா மோகன், புகழ் உள்ளிட்ட பிரபலங்களும் கலந்துகொண்டனர். இதில் தமன்னாவின் நடனமும் ரசிகர்களை கவர்ந்தது. மேலும் ஹரிஹரனின் பாடல்கள் மனதை தொட்டது.
+
+நன்றாக நடந்துகொண்டிருந்த இந்த நிகழ்ச்சிக்கு ஒரு லட்சத்திற்கும் மேல் மக்கள் வந்ததுள்ளனர். இதில் விசமிகள் கூட்டத்திற்குள் புகுந்து செய்த சில விஷயங்கள் காரணமாக தடங்கல் ஏற்பட்டுள்ளது.
+
+இதில் 'இந்நிகழ்வில் ஏற்பட்ட சிறு தடங்கல் மற்றும் அசௌகரியம் காரணமாக, கிடைக்கப்பெற்ற வருவாய் முழுவதையும் மீளளிப்பதற்கு முடிவு செய்துள்ளோம் என்றும் தங்களால் செலுத்தப்பட்ட பணம் வறுமை கோட்டிற்கு கீழுள்ள மாணவர்களின் கல்விச் செயற்பாட்டுக்கு பயன்படுத்த எண்ணுவோர் அவ்வாறே விட்டு விட, பணத்தினை மீளப் பெற விரும்புபவர்கள் தரப்பட்டுள்ள தொலைபேசி இலக்கத்தை 0777315262 தொடர்பு கொள்ளுங்கள்' என்றும் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/fa266785.json)
+
+---
 
 ### Interpol ‘Red Notices’ issued to 42 Sri Lankan criminal suspects hiding overseas
 
@@ -46,81 +64,123 @@ Furthermore, he mentioned that main accomplice of the notorious underworld figur
 
 [Data](articles/0fccb22e.json)
 
+[Extended Data](ext_articles/0fccb22e.ext.json)
+
 ---
 
-### கரப்பான்பூச்சிக்கு காதலர் பெயர்
+### Valentine's name for the cockroach
 
 *2024-02-15 12:18:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கரப்பான்பூச்சிக்கு-காதலர்-பெயர்/53-333255) · `ta`
 
-பெப்ரவரி 14 ஆம் திகதி உலகம் முழுவதும் காதலர் தினம் சிறப்பாக கொண்டாடப்பட்டு வருகிறது. அந்நாளில் காதலர்கள், காதலை வெளிப்படுத்த பரிசு கொடுப்பது, சுற்றுலா செல்வது அல்லது இருவருக்கும் பிடித்ததை செய்வது போன்ற காரியங்களில் ஈடுபடுவர். இது வழக்கமாக இருக்கும் நிலையில், ஒரு புதுவிதமான அறிவிப்பை அமெரிக்காவில் இருக்கும் ஒரு பூங்கா வெளியிட்டுள்ளது.
+Valentine's Day is being celebrated around the world on February 14th. On that day, lovers will be giving gifts to express love, traveling or doing what they like both. While this is customary, a park in the United States has issued a new announcement.
 
-முன்னாள் காதலர் மீது இருக்கும் வன்மத்தை தீர்க்கும் வகையில் இந்த பூங்கா ஒரு திட்டத்தை கொண்டுவந்துள்ளது. அதாவது இந்த பூங்காவில் இருக்கும் மடகாஸ்கர் என்னும் கரப்பான்பூச்சிக்கு முன்னாள் காதலரின் பெயரை வைக்கலாம்.
+The park has come up with a plan to solve the violence on the ex -boyfriend. That is, the name of the former lover can be named Madagascar, a cockroach in the park.
 
-முன்னாள் காதலரின் பெயரை கரப்பான்பூச்சிக்கு வைப்பதன் மூலம் ஒருவர் அவர் மீது இருக்கும் வன்மத்தையும், உணர்ச்சிகளையும் வெளியேற்ற ஒரு வாய்ப்பாக அமையும் என கூறப்படுகிறது.
+It is said that putting the name of the ex -boyfriend into the cockroach will be an opportunity to expel the violence and emotions on him.
 
-இந்த புதுவிதமான அறிவிப்பை அமெரிக்காவில் உள்ள பிராங்க்ஸ் உயிரியல் பூங்கா வெளியிடப்பட்டுள்ளது. இதற்கு கட்டணமாக $15 அதாவது இலங்கை மதிப்பு படி ரூ. 4688 வசூலிக்கப்படுகிறது.
+The Franks Zoo in the United States has been issued this new announcement. The fee for this is $ 15, according to the value of Rs.. 4688 is charged.
+
+This information will be sent to the former boyfriend by e -mail, if the cockroach is paid to the name of the former lover.
+
+Also, if you pay an additional $ 20, many gifts will be sent to the ex -valentine's home in the form of cockroach toy, and cockroach, the Franks Zoo said.
 
 ...
 
 [Data](articles/ca4a1bb9.json)
 
+[Extended Data](ext_articles/ca4a1bb9.ext.json)
+
 ---
 
-### மலசலக்கூட கட்டணம் சதம் அடித்தது
+### The fees were scored
 
 *2024-02-15 12:15:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலசலக்கூட-கட்டணம்-சதம்-அடித்தது/175-333254) · `ta`
 
-தூர பிரதேசங்களில் இருந்து கொழும்புக்கு வருகைதருவோர், தங்களுடைய வேலைகளை முடித்துக்கொண்டு, பொது போக்குவரத்தின் ஊடாக தங்களுடைய வீடுகளுக்குச் திரும்புவதற்கு முன்னர், அவசர தேவைகளுக்காக பொது மலசலக்கூடத்தையே பயன்படுத்துவர்.
+Those who visit Colombo from distant areas will finish their work and use the public sewage for emergencies before returning to their homes through public transport.
 
-புறக்கோட்டை பெஸ்டியன் மாவத்தையில் உள்ள பொது மலசலக்கூடத்தை பயன்படுத்துவோரிடம், அறவிடப்படும் கட்டணம் திடீரென 50 ரூபாயாக அதிகரிக்கப்பட்டுள்ளது என பயணிகள் விசனம் தெரிவிக்கின்றனர்.
+Travelers say that the public sewage in Pattikottai Pastiyan Mawatha has suddenly increased to 50 rupees.
 
-இலங்கை ரயில் திணைக்களத்துக்கு உரித்துடைய காணியில், இலங்கை போக்குவரத்து சபையின் ஊடாக, பொது மலசலக்கூடங்கள் நிர்மாணிக்கப்பட்டுள்ளன.
+Public sewes have been constructed through the Sri Lanka Transport Board, which is based on the Sri Lankan Railway Department.
 
-“இந்த பொது மலசலக்கூட தொகுதி, எங்களுடைய ஆணைக்குழுவுக்கு உரித்துடையது என்றாலும், வெளியாருடன் செய்துககொள்ளப்பட்ட ஒப்பந்தத்தின் அடிப்படையில், பாரமரிப்பதற்கு ஒப்படைக்கப்பட்டுள்ளது. அங்கு அறவிடப்படும் கட்டணங்கள் தொடர்பில் ​பொதுமக்களால் அவ்வப்போது முறைப்பாடுகள் செய்யப்பட்டுள்ளன. நாங்கள் விசாரணைகளை முன்னெடுத்து, நடவடிக்கைகளையும் எடுத்துள்ளோம். எனினும், தற்போது கட்டணம் அதிகரிக்கப்பட்டமை தொடர்பில் அறிந்திருக்கவில்லை. இது தொடர்பில் தேடியறிந்து நடவடிக்கை எடுப்பேன்” என்றார்.
+“Although this public sewage constituency belongs to our Commission, it has been handed over to the contract with the outsiders.. There have been complaints from time to time regarding the fees charged there. We have carried out the investigation and taken action. However, it is currently unaware of the increase in fee. I will search for this and take action. ”
 
 ◼️
 
 [Data](articles/b96beb55.json)
 
+[Extended Data](ext_articles/b96beb55.ext.json)
+
 ---
 
-### இந்தியாவின் விஸ்தரிப்புவாதம் குறித்து எந்த கவலையுமில்லை - ஜேவிபி தலைவர் கருத்து - இந்தியா தன்னை அழைத்தமைக்கான காரணம் குறித்தும் விளக்கம்
+### There is no concern for India's expansionism - the JVP leader's comment - the explanation of the reason for India's calling for itself
 
 *2024-02-15 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176431) · `ta`
 
-இலங்கையை இந்தியாவின் பாதுகாப்பிற்கு குந்தகம் ஏற்படுத்தக்கூடிய விதத்தில் பயன்படுத்தலாம் என்ற கரிசனை காரணமாகவே இந்தியா தன்னை அழைத்தது என ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க தெரிவித்துள்ளார்.
+JVP leader Anura Kumaratisanayake has said that India has called on Sri Lanka because of its concern that it can be used to make India the security of India.
 
-இந்தியாவிற்கு தான் அழைக்கப்பட்டமைக்கான காரணம் எதுவாகயிருக்கலாம் என்பதை தெரிவித்துள்ள ஜேவிபி தலைவர் தேசியபாதுகாப்பு  பொறுப்புணர்வுமிக்க பூகோள அரசியல் ஆகியவற்றிற்கான ஜேவிபியின் உறுதிப்பாட்டை வலியுறுத்தியுள்ளார்.
+The JVP leader, who said the reason for his invitation to India was, emphasized the JVP's commitment to the national security and global politics.
 
-இந்தியா தனது கட்சியை அழைத்தமைக்கான காரணம் என்னவாகயிருக்கலாம் என்பது குறித்து கருத்துதெரிவித்துள்ள அனுரகுமாரதிசநாயக்க இலங்கையின் தற்போது காணப்படும் நிலைமை காரணமாகவே இந்தியா தன்னை அழைத்திருக்கலாம் எனவும் குறிப்பிட்டுள்ளார்.
+Anura Kumaradisanayake, who has commented on the reason for India to call its party, said that India may have called on Sri Lanka.
 
-ஜேவிபியை இந்தியா அழைத்ததை பாரம்பரிய செயற்பாடுகளில் இருந்து ஒரு மாற்றம் என்பதை அவர் ஏற்றுக்கொண்டுள்ளார்.
+He has accepted that India's invitation to the JVP is a change from traditional activities.
 
-இந்தியாவின் புவிசார்அரசியல் நலன்களிற்கு எதிராக இலங்கை பயன்படுத்தப்படலாம் என்பது குறித்து இந்தியா கரிசனை கொண்டுள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+He added that India is concerned about the use of Sri Lanka against India's geopolitical interests.
+
+He said that the JVP would not have a polarized organization and prioritizes the needs of the people and that the JVP is ready to work with any nation.
+
+For Sri Lanka and India;He also stated that the JVP leader and international political circumstances have changed significantly.
 
 ...
 
 [Data](articles/9c466125.json)
 
+[Extended Data](ext_articles/9c466125.ext.json)
+
 ---
 
-### ” JICA” தலைவர் ஜனாதிபதியுடன் சந்திப்பு
+### “JICA” president meets president
 
 *2024-02-15 12:09:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/JICA-தலைவர்-ஜனாதிபதியுடன்-சந்திப்பு/175-333253) · `ta`
 
-ஜப்பான் சர்வதேச ஒத்துழைப்பு அமைப்பின் (JICA) தலைவர் கலாநிதி தனகா அகிஹிகோ, ஜனாதிபதி ரணில் விக்கிரமசிங்கவை புதன்கிழமை (14) சந்தித்துள்ளார்.
+Dr. Tanaka Akihiko, Chairman of the Japanese International Cooperation Organization (JICA), met President Ranil Wickremesinghe on Wednesday (14).
 
-குறித்த சந்திப்பின் போது, கலாநிதி அகிஹிகோ, பொருளாதார சீர்திருத்த வேலைத்திட்டத்திற்கான ஜனாதிபதி விக்கிரமசிங்கவின் அர்ப்பணிப்புக்கு நன்றி தெரிவித்ததுடன், அதன் சவாலான தன்மையை ஒப்புக்கொண்டார்.
+During the meeting, Dr. Akihiko thanked President Wickremesinghe's commitment to the economic reform program and acknowledged its challenging character.
 
-இதற்குப் பதிலளித்த ஜனாதிபதி விக்கிரமசிங்க, BIA, LRT மற்றும் மத்திய அதிவேக நெடுஞ்சாலையின் விரிவாக்கம் உட்பட முதலீட்டுத் திட்டங்களை விரைவாக மீளத் தொடங்குவதை உறுதி செய்வதில் தனது கவனத்தை வலியுறுத்தினார்.
+Responding to this, President Wickremesinghe emphasized his attention to ensuring that investment projects, including the expansion of BIA, LRT and the central highway, have been rapidly recovering.
 
-பொருளாதார நெருக்கடியின் போது இலங்கைக்கு ஜப்பான் அரசாங்கம் மற்றும் JICA வழங்கும் தொடர்ச்சியான ஆதரவிற்காக ஜனாதிபதி பாராட்டினார்.
+During the economic crisis, the President praised Sri Lanka for the continued support of the Japanese government and JICA.
 
-மேலும், இந்த சந்திப்பின் போது ஜனாதிபதி விக்ரமசிங்கவுடன் ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகர் மற்றும் ஜனாதிபதியின் தலைமை அதிகாரி சாகல ரத்நாயக்க மற்றும் சர்வதேச அலுவல்கள் பணிப்பாளர் டினூக் கொலம்பகே ஆகியோர் கலந்துக்கொண்டிருந்தனர்.
+Also, President Wickremesinghe was also present at the meeting with Senior Advisor on the National Security and President of the President Sagala Ratnayake and International Affairs Director Dinuk Colombage.
 
 ◼️
 
 [Data](articles/f195ffe6.json)
+
+[Extended Data](ext_articles/f195ffe6.ext.json)
+
+---
+
+### රටම කතාවෙන පාතාලේ
+
+*2024-02-15 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193413) · `si`
+
+කුඩු සලිඳුගේ ප්‍රධාන ගෝලයා බවට සැළකෙන "පියුමා" නැමැත්තාගේ පෙර වැරදි රැසක් සම්බන්ධයෙන් මේ වනවිට තොරතුරු රැසක් අනාවරණය වී තිබේ.
+
+එහි දැක්වෙන්නේ සැකකරු 2018 වර්ෂයේදී හෙරොයින් මිලිග්‍රෑම් 20ක් සමග පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති බවය.
+
+එහිදී අධිකරණය විසින් ඔහුව 2018 වර්ෂයේ අගෝස්තු මස 31 වනදා සිට මාස තුනක කාලසීමාවක් පුනුරුත්ථාපනය කර ඇත.
+
+අනතුරුව යළිත් සැකකාර "පියුමා" නැමැත්තා 2019 වර්ෂයේ ගංජා සුරුට්ටුවක් ළඟ තබාගැනීමේ චෝදනාව සම්බන්ධයෙන් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති බවය.
+
+2019 වර්ෂයේ දෙසැම්බර් මස 12 වනදා එළෙස අත්අඩංගුවට ගෙන ඇති "පියුමා" නැමැත්තාව පසුදින (2019.12.13) අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසුව රුපියල් 10,000ක දඩයක් පනවා තිබේ.
+
+මේ අතර 2021 වර්ෂයේ ජනවාරි මස 25 වනදා පානදුර ප්‍රදේශයේදී යතුරු පැදියකින් පැමිණි දෙදෙනෙකු විසින් මාවතගේ ලක්ෂාන් සඳරුවන් නමැති අයෙකු වෙඩිතබා ඝාතනය කර තිබුණි.
+
+එම යතුරුපැදිය පදවාගෙන පැමිණ ඇත්තේ සැකකාර "පියුමා" නැමැත්තා බවට අනාවරණය වීමත් සමග 2023 වර්ෂයේ අගෝස්තු මස 23 වනදා ඔහුව එම ඝාතන සිද්ධියේ 08 වන සැකකරු ලෙස නම්කර තිබුණි.
+
+...
+
+[Data](articles/70ea997b.json)
 
 ---
 
@@ -142,33 +202,75 @@ The third term of the academic year 2023 will end tomorrow (Feb.16).
 
 ---
 
-### மூன்றாம் தவணை முடிவடைகிறது
+### The third term ends
 
 *2024-02-15 11:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-முடிவடைகிறது/175-333252) · `ta`
 
-அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் மூன்றாம் தவணை இன்றுடன் (14) முடிவடைவதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+The Ministry of Education has announced that the third installment of state and state -approved private schools will end today (14).
 
-அதன்படி, 2023ஆம் ஆண்டுக்கான மூன்றாம் தவணை நாளைய தினம் வௌ்ளிக்கழமை (16) நிறைவடையவுள்ளமை குறிப்பிடத்தக்கது.
+Accordingly, the third term for 2023 will be completed tomorrow.
 
 ◼️
 
 [Data](articles/508ccdd4.json)
 
+[Extended Data](ext_articles/508ccdd4.ext.json)
+
 ---
 
-### අධික වේගය නිසා තරුණයකු  මාරයාට බිලී
+### 2023 மூன்றாம் தவணை முடிவடைகிறது
+
+*2024-02-15 11:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2023-மூன்றாம்-தவணை-முடிவடைகிறது/175-333252) · `ta`
+
+அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் 2023ஆம் ஆண்டுக்கான மூன்றாம் தவணை, வௌ்ளிக்கிழமையுடன் (16) முடிவடையும் என்று கல்வியமைச்சு அறிவித்துள்ளது.
+
+அதன்படி, 2024ஆம் ஆண்டுக்கான முதலாம் தவணை, பெப்ரவரி 19ஆம் திகதி திங்கட்கிழமை ஆரம்பமாகும் என்றும் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/acbce539.json)
+
+---
+
+### පැතුම් ඉටු කළ පැතුම්ගේ පිත්තෙන් වාර්තා රැසක්
+
+*2024-02-15 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193412) · `si`
+
+ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන එක්දින ක්‍රිකට් තරගාවලිය ඊයේ (14) අවසන් වූයේ, ශ්‍රී ලංකාවට පූර්ණ තරගාවලි ජයග්‍රහණයක් (Whitewash) අත් කර දෙමිනි.
+
+වසර ගණනාවක පසුබෑමකට පසු ශ්‍රී ලංකාව ලබා ගත් මෙම ජයග්‍රහණය ශ්‍රී ලංකා ක්‍රිකට් ලෝලින්ට මහත් වූ අස්වැසිල්ලක් වූ බව නොරහසකි.
+
+කෙසේ වෙතත් මෙම එක්දින තරගාවලිය තුළ වඩාත් කතාබහට ලක් වූයේ, පැතුම් නිස්සංකගේ විශිෂ්ට පිතිකරණය යි.
+
+නිස්සංකට අමතර ව සෙසු පිතිකරුවන්ගේ කුසලතා ද ඉතා විශිෂ්ට මට්ටමක පැවති බව හඳුනාගත හැකි ය.
+
+කෙසේ වෙතත් නිමා වූ තරගාවලිය තුළ වාර්තා කිහිපයක් ද අලුත් වූ අතර, ඒ අතර පැතුම් නිස්සංක තැබූ වාර්තා කිහිපයක් ම හඳුනාගත හැකි ය.
+
+ශ්‍රී ලංකාව වෙනුවෙන් ද්විත්ව ශතකයක් වාර්තා කළ පළමු සහ එක ම ක්‍රීඩකයා බවට පත් වීමට පල්ලෙකැලේ අන්තර්ජාතික ක්‍රිකට් ක්‍රීඩාංගණයේ පැවති පළමු එක්දින තරගයේ දී පැතුම් නිස්සංකට හැකි විය.
+
+මෙම දස්කම දැක්වූ ලොව පස් වැනියා වන්නේ ද පැතුම් නිස්සංක වන අතර, ලෝකයට ම ඇත්තේ, එක්දින ද්විත්ව ශතක 12ක් පමණි.
+
+...
+
+[Data](articles/53a4489c.json)
+
+---
+
+### Billy for a young man due to high speed
 
 *2024-02-15 11:53:58* · [`adalk`](https://www.ada.lk/breaking_news/අධික-වේගය-නිසා-තරුණයකු--මාරයාට-බිලී/11-408099) · `si`
 
-අධික වේගයෙන් තරුණයෙකු විසින් පැදවූ යතුරුපැදිය වේගය  පාලනය කරගැනීමට නොහැකිවීමෙන් ඊයේ රාත්‍රී සිදුවූ අනතුරකින් එම යතුරුපැදිකරු මියගොස් ඇති බව කළුතර උතුර පොලිසිය පවසයි.
+The motorcyclist was killed in an accident last night, the motorcyclist was unable to control his motorcycle speed.
 
-මෙලෙස මියගොස් ඇත්තේ උග්ගල්බඩ, මහවේදුගම ප්‍රදේශයේ පදිංචි 25 හැවිරිදි ජී.එම්.ලක්මාල් නැමති තරුණයෙකි. කළුතර උතුර පොලිස් වසමේ උග්ගල්බඩ ගල්දෙක මාර්ගය ඔස්සේ මහදුවේගම සිට ජනරජ මාවත දෙසට ධාවනය වූ මෙම යතුරුපැදිය උග්ගල්බඩ ප්‍රදේශයේදී මාර්ගයෙන් ඉවතට පැන දුරකතන රැහැන් කණුවක ගැටීමෙන් අනතුර සිදුව තිබූ බවවිමර්ශන වලදී අනාවරණය වී ඇත.
+The deceased has been identified as a 25 year old GMLakmal, a resident of Uggalbada, Uggalbada, Mahawitharaya. It was revealed that the motorcycle was running out of the Uggaldbada road from the Uggaldboda area from the Uggaldboda area in Kalutara North police division.
 
-අනතුරින් බලපතළ තුවාල ලැබූ යතුරුපැදිකරු නාගොඩ රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මරණයට පත්ව ඇත. කළුතර උතුර පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දමිත් ජයතිලක මහතාගේ උපදෙස් පරිදි රථවාහන අංශයේස්ථානාධිපති උප පොලිස් පරීක්ෂක හර්ෂ කුමාර ඇතුළු නිලධාරීහු විසින් වැඩිදුර පරීක්ෂණ මෙහෙයවනු ලැබේ.
+The motorcyclist who has been injured in the accident has been admitted to Nagoda Hospital. The OIC of the Traffic Inspector Damith Jayatilleka is conducting further investigations.
 
 ◼️
 
 [Data](articles/36307a9f.json)
+
+[Extended Data](ext_articles/36307a9f.ext.json)
 
 ---
 
@@ -194,21 +296,25 @@ The police media unit said that the shooters were not identified.
 
 ---
 
-### காதலர் தினத்தில் முன்னாள் காதலனுக்கு காதலி கொடுத்த பரிசு
+### The gift given to the ex -boyfriend on Valentine's Day
 
 *2024-02-15 11:47:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலர்-தினத்தில்-முன்னாள்-காதலனுக்கு-காதலி-கொடுத்த-பரிசு/175-333251) · `ta`
 
-காதலர் தினமான பெப்ரவரி 14ஆம் திகதியன்று பெண்ணொருவர் தன்னுடைய முன்னாள் காதலுக்கு மறக்கமுடியாத வகையில் பரிசு கொடுத்துள்ள சம்பவம் தெற்கில் இடம்பெற்றுள்ளது.
+On Valentine's Day, February 14, a woman has been gifted to her ex -love in the south.
 
-அந்த பெண்  தனது கணவனை அழைத்து தனது முன்னாள் காதலனை நிர்வாணமாக்கி இரண்டு கால்களையும் துண்டித்துள்ளார் என காலி பொலிஸார் தெரிவித்துள்ளனர்.
+Galle police said that the woman called her husband and made her ex -boyfriend naked and cut off both legs.
 
-தொடநடுவ பிரதேசத்தைச் சேர்ந்த யுவதி ஒருவர் கடந்த 10 வருடங்களுக்கு முன்னர் காலி தொழில்நுட்பக் கல்லூரியில் கல்வி கற்கும் போது ஹிக்கடுவ களுபே பிரதேசத்தைச் சேர்ந்த இளைஞன் ஒருவருடன் காதல் உறவை வளர்த்துக் கொண்டுள்ளார். தொழிற்கல்வியில் பட்டம் பெற்ற பிறகும் அவர்கள் சில காலம் காதல் உறவில் இருந்ததாக கூறப்படுகிறது.
+A young man from Hikkaduwa Kalube has developed a romantic relationship when a young woman from Thottuwa area was studying at Galle Technology College 10 years ago.. They are said to have been in love for some time after graduating from vocational education.
 
-பின்னர் அப்பெண் வேறொருவரை திருமணம் செய்து கொண்டார்,   அவரது பழைய காதலரும் அவளுடன் உறவைப் பேணி வந்தார். எனினும், முன்னாள் காதலன், அப்பெண்ணுக்கு தொலைபேசி அலைப்பை எடுத்துள்ளார். அவளுக்கு அடிக்கடி தொலைபேசி அழைப்புகள் வருவது பின்னாளில் தொல்லையாக மாறியுள்ளதாகவும், அதேவேளை, தனது முன்னாள் காதலனிடம் இருந்து வரும் தொலைபேசி அழைப்புகளை கணவனும் செவிமடுத்துள்ளதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+Then the woman married someone else, and her old boyfriend maintained her relationship with her. However, the ex -boyfriend has taken a telephone wave to her. Police say that her husband has later became numerous, while her husband has listened to her former boyfriend's phone calls.
+
+Her husband advised how to stop these calls, and she responded lovingly to her ex -boyfriend's phone call. Okay you come to Tadalla Beach and I come to Tadalla beach and then smashed her feet with Kundantadi. As well as naked.
 
 ...
 
 [Data](articles/247d3db8.json)
+
+[Extended Data](ext_articles/247d3db8.ext.json)
 
 ---
 
@@ -289,6 +395,26 @@ Furthermore, the former president has refuted the media reports published in thi
 [Data](articles/49b54fd8.json)
 
 [Extended Data](ext_articles/49b54fd8.ext.json)
+
+---
+
+### අෆ්රීන් අක්තර් හමුවූ මෛත්‍රී
+
+*2024-02-15 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193410) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සහ අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුවේ දකුණු හා මධ්‍යම ආසියානු කටයුතු භාර නියෝජ්‍ය සහකාර ලේකම් අෆ්රීන් අක්තර් මහත්මිය අතර හමුවක් සිදුව තිබේ.
+
+ශ්‍රී ලංකාවේ දේශපාලන තත්වයන් පිළිබඳව එහිදී දීර්ඝ සාකච්ඡාවක නිරත වී ඇති අතර ශ්‍රී ලංකා නිදහස් පක්ෂය මූලික වී සකස් කරන සන්ධානය සම්බන්ධයෙන් සහ ද්විපාර්ශවික කරුණු සම්බන්ධයෙන් ඉතා සාර්ථක සාකච්ඡාවක නිරත වී තිබේ.
+
+එම සාකච්ඡාවේ ඉදිරි පියවර ගණනාවක් ඉදිරි මාස කිහිපය ඇතුළත ක්‍රියාවට නැංවීමට නියමිතය.
+
+රාජ්‍ය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සහකාර ලේකම් අෆ්රීන් අක්තර් මහත්මිය සමඟ ඵලදායී සාකච්ඡාවක නිරත වූ හිටපු ජනාධිපතිතුමා ශ්‍රී ලංකාවට දක්වන නොමසුරු සහයෝගය පිළිබඳව ද සිය ප්‍රසාදය පළ කළේ ය.
+
+මෙම සාකච්ඡාව සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂයේ විදේශ කටයුතු ලේකම් සජින්ද වාස් ගුණවර්ධන මහතා, ශ්‍රීලනිප මධ්‍යම කාරක සභික, ශ්‍රී ලංකා වෘත්තීයවේදීන්ගේ සංවිධානයේ සභාපති ආචාර්ය චමිල ලියනගේ මහතා සහභාගී වූහ.
+
+◼️
+
+[Data](articles/7977c3c9.json)
 
 ---
 
@@ -428,21 +554,23 @@ Subject to obtaining all necessary regulatory and shareholder approvals, the com
 
 ---
 
-### மலசலகூட கட்டணம் ரூ.50 ஆக உயர்வு
+### The rectum fee is up to Rs.
 
 *2024-02-15 11:23:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலசலகூட-கட்டணம்-ரூ-50-ஆக-உயர்வு/175-333249) · `ta`
 
-பெஸ்டியன் மாவத்தையில் உள்ள பொது மலசலகூடத்தை பயன்படுத்துபவரிடம் அறவிடப்படும் கட்டணம் 50 ரூபாவாக அதிகரிக்கப்பட்டுள்ளதாக பயணிகள் தெரிவிக்கின்றனர்.
+Passengers say that the fee charged to the users of the public sewage in Bestian Mawatha has been increased by 50 rupees.
 
-இலங்கை புகையிரத திணைக்களத்திற்கு சொந்தமான காணியில் தேசிய போக்குவரத்து ஆணைக்குழுவினால் இந்த பொது மலசலகூடம் நிர்மாணிக்கப்பட்டுள்ளது.
+The public transport commission has been constructed by the National Transport Commission on the land belonging to the Sri Lanka Railway Department.
 
-இது தொடர்பில் தேசிய போக்குவரத்து ஆணைக்குழுவின் செயற்பாட்டு பணிப்பாளர் தெரிவிக்கையில்:  ​​இது தொடர்பான பொது மலசலகூடம் அமைப்பு எமது ஆணைக்குழுவிற்கு சொந்தமானது. வெளி தரப்பினருடன் செய்து கொண்ட ஒப்பந்தத்தின் அடிப்படையில் பராமரிப்பு பணிகள் ஒப்படைக்கப்பட்டுள்ளது.
+In this regard, the Director of the National Transport Commission said:. Maintenance work has been handed over on the basis of a contract with the external parties.
 
-பயணிகளிடம் இருந்து அவ்வப்போது வரும் புகார்களின் அடிப்படையில், விலைவாசி உயர்வு குறித்து ஆய்வு செய்து, உரிய நடவடிக்கை எடுத்துள்ளோம். இந்த விலையேற்றம் குறித்து எனக்கு தெரியாது, மேலும் இதுபற்றி கண்டறியும் பணியில் ஈடுபட்டுள்ளேன். என அவர் தெரிவித்துள்ளார்.
+Based on the occasional complaints from travelers, we have taken appropriate action on the price hike. I am not aware of this price rise, and I am in the process of detecting this. He said.
 
 ◼️
 
 [Data](articles/34f2969f.json)
+
+[Extended Data](ext_articles/34f2969f.ext.json)
 
 ---
 
@@ -466,19 +594,37 @@ He also said that the police officer who allegedly helped Harakatta escaped from
 
 ---
 
-### ’சட்டப்படி வேலை’ போராட்டத்தில் குதித்த சுங்கம்
+### නව පාසල් වාරයේ ආරම්භය ගැන දැනුම්දීමක්
+
+*2024-02-15 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193409) · `si`
+
+නව පාසල් වාරය සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව රජයේ සහ රජයේ අනුමත පෞද්ගලික පාසල්වල තෙවන පාසල්වාරය 16 වන සිකුරාදා දින අවසන් වේ.
+
+2024 නව පළමු පාසල් වාරයේ පළමු අදියර පෙබරවාරි මස 19 වන සඳුදා ආරම්භ වීමට නියමිතය.
+
+◼️
+
+[Data](articles/3e6b1e88.json)
+
+---
+
+### Customs jumping into the work
 
 *2024-02-15 11:13:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டப்படி-வேலை-போராட்டத்தில்-குதித்த-சுங்கம்/175-333248) · `ta`
 
-சுங்கத் ஊழியர்களின் தொழிற்சங்க கூட்டமைப்பு 'சட்டப்படி வேலை' போராட்டத்தில் ஈடுபட முடிவு செய்துள்ளது.
+The Customs' Trade Union Federation has decided to engage in a 'legal work' struggle.
 
-பல்வேறு கோரிக்கைகளை முன்வைத்து சுங்க ஊழியர்களின் தொழிற்சங்க ஒன்றியம் இந்த முடிவை எடுத்துள்ளது.
+The decision of the Customs Workers Union has made this decision on various demands.
 
-இன்று காலை 9 மணி முதல் இந்த தொழிற்சங்க நடவடிக்கையை ஆரம்பிக்க தீர்மானித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that the union has decided to launch the trade union from 9 am today.
 
 ◼️
 
 [Data](articles/f81c0a2a.json)
+
+[Extended Data](ext_articles/f81c0a2a.ext.json)
 
 ---
 
@@ -500,19 +646,21 @@ He added that this is considered a large sum for a small country like Sri Lanka.
 
 ---
 
-### நாடு கடத்தப்படவுள்ள 25 இலங்கையர்கள்
+### 25 Sri Lankans to be deported
 
 *2024-02-15 11:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-கடத்தப்படவுள்ள-25-இலங்கையர்கள்/175-333246) · `ta`
 
-சட்டவிரோத நடவடிக்கைகளில் ஈடுபட்டதாக குற்றம் சுமத்தப்பட்டுள்ள 25 இலங்கையர்கள் உட்பட 186 வெளிநாட்டவர்களை நாடு கடத்துவதற்கு மாலைதீவு அரசாங்கம் தீர்மானித்துள்ளது.
+The Maldivian government has decided to deport 186 foreigners, including 25 Sri Lankans accused of illegal activities.
 
-வீசா மீறல் மற்றும் போதைப்பொருள் குற்றங்களில் ஈடுபட்ட குழுவொன்று நாட்டிலிருந்து நாடு கடத்தப்பட்டுள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Foreign media reports that a group involved in a visa violation and drug offenses has been deported from the country.
 
-25 இலங்கையர்கள், 83 பங்களாதேஷ் பிரஜைகள், 46 இந்திய பிரஜைகள் மற்றும் 08 நேபாள பிரஜைகள் நாடு கடத்தப்படவுள்ளனர்.
+25 Sri Lankans, 83 citizens, 46 Indian citizens and 08 Nepal citizens will be deported.
 
 ◼️
 
 [Data](articles/e16d796a.json)
+
+[Extended Data](ext_articles/e16d796a.ext.json)
 
 ---
 
@@ -584,21 +732,55 @@ The Maldives’ homeland security minister Ali Ihusan said his office is working
 
 ---
 
-### 24 மணித்தியாலங்களில் 656 பேர் கைது
+### 656 arrested in 24 hours
 
 *2024-02-15 11:03:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-656-பேர்-கைது/175-333244) · `ta`
 
-நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட யுக்திய நடவடிக்கையில், கடந்த 24 மணித்தியாலங்களில் 656 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police said 656 suspects have been arrested in the last 24 hours in the country.
 
-போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 535 சந்தேக நபர்களும் குற்றப் பிரிவில் குறிப்பிடப்பட்ட பட்டியலில் இருந்த 121 சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+535 suspects in connection with drug offenses and 121 suspects from the list mentioned in the criminal category have been arrested.
 
-போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 535 சந்தேக நபர்களில் 16 சந்தேக நபர்கள் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பணியகம் மற்றும் பொலிஸ் விசேட பணியகம் ஆகியவற்றின் பட்டியலில் உள்ளனர்.
+Of the 535 suspects involved in drug offenses, 16 are on the list of the Police Drug Eradication Bureau and the Special Bureau of Police.
 
-இதேவேளை, 241 கிராம் ஹெரோயின், 139 கிராம் ஐஸ், 1 கிலோகிராம் கஞ்சா மற்றும் 1,521 மாத்திரைகள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+Meanwhile, the police have seized 241 grams of heroin, 139 grams of ice, 1 kilogram of cannabis and 1,521 tablets.
 
 ◼️
 
 [Data](articles/04130373.json)
+
+[Extended Data](ext_articles/04130373.ext.json)
+
+---
+
+### රේගුව අකුරට වැඩ
+
+*2024-02-15 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193408) · `si`
+
+රේගු වෘත්තීය සමිති සන්ධානය අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයකට එළැඹීමට තීරණය කර තිබේ.
+
+ඉල්ලීම් කිහිපයක් මුල්කරගනිමින් රේගු වෘත්තීය සමිති සන්ධානය මෙම තීරණය ගෙන ඇත.
+
+ඔවුන් පවසන්නේ අද පෙරවරු 9 සිට මෙම වෘත්තීය සමිති ක්‍රියාමාර්ගයට එළැඹීමට තීරණය කළ බවය.
+
+◼️
+
+[Data](articles/741f9737.json)
+
+---
+
+### අනුරාධපුර උතුර ජල සම්පාදන ව්‍යාපෘතියේ පළමු අදියර ජන සතු කෙරේ
+
+*2024-02-15 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193407) · `si`
+
+අනුරාධපුර උතුර ජල සැපයුම් ව්‍යාපෘතියේ පළමු අදියර ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් මීට සුළු මොහොතකට පෙර ජනතා අයිතියට පත්කර තිබේ.
+
+මෙම ව්‍යාපෘතිය ජපන් ජාත්‍යන්තර සහයෝගීතා ආයතනය (JICA) මූල්‍ය ආධාර යටතේ ක්‍රියාත්මක කෙරේ.
+
+එම අවස්ථාවට ජයිකා ප්‍රධානී ආචාර්ය ටනාකා අකීහිකෝ මහතා ද එක්විය.
+
+◼️
+
+[Data](articles/3522f07e.json)
 
 ---
 
@@ -639,6 +821,30 @@ We will request applications for a month. In the first round, 20 lakh applicatio
 [Data](articles/06ba892c.json)
 
 [Extended Data](ext_articles/06ba892c.ext.json)
+
+---
+
+### රටින් පළා ගිය අපරාධකරුවන් 42කට රතු නිවේදන
+
+*2024-02-15 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193406) · `si`
+
+පාතාල සහ මත්ද්‍රව්‍ය අපරාධවලට සම්බන්ධ ව මෙරටින් පැන ගිය අපරාධකරුවන් සඳහා ජාත්‍යන්තර රතු නිවේදන 42ක් මේ වන විට නිකුත් කර ඇති බව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+කොළඹ ජාතික රෝහල ඉදිරිපිට නව පොලිස් මුරපොළක් විවෘත කිරීමේ අවස්ථාවකට එක්වෙමින් ඔහු මේ බව සඳහන් කළේ ය.
+
+ඉදිරියේ දී ජාත්‍යන්තර පොලීසියේ සහාය ඇති ව මෙම රතු නිවේදන නිකුත් කළ සැකකරුවන් මෙරටට ගෙන්වීමට නියමිත බව ද ඔහු පැවසීය.
+
+අද (15) උදෑසන මෙරටට රැගෙන ආ කුඩු සලිඳුගේ ප්‍රධාන ගෝලයාගෙන් ද මෙරට කුඩු ජාවාරම පිළිබඳ ප්‍රශ්න කර තොරතුරු ලබා ගැනීමට නියමිත බව වැඩබලන පොලිස්පතිවරයා අවධාරණය කළේ ය.
+
+එසේම පාතාල නායක නදුන් චින්තක හෙවත් හරක් කටා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් පැන යාමට දැරූ අසාර්ථක උත්සාහයට සහාය දුන් පොලිස් නිලධාරියා ද කඩිනමින් මෙරටට ගෙන්වීමට කටයුතු කරන බව ඔහු පැවසීය.
+
+ඒ සඳහා ජාත්‍යන්තර පොලීසියේ සහාය ලබාගන්නා බව ද වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සඳහන් කළේ ය.
+
+මේ අතර, යුක්තිය මෙහෙයුම ද නොනවත්වා ක්‍රියාත්මක කරන බව වැඩබලන පොලිස්පතිවරයා අවසන් වරට ප්‍රකාශ කළේ ය.
+
+◼️
+
+[Data](articles/be673551.json)
 
 ---
 
@@ -814,21 +1020,29 @@ It is said that the stock of narcotics was arrested.
 
 ---
 
-### ලක්ෂ පනහක මත්ද්‍රව්‍ය සමඟ පුද්ගලයෙකු අත්අඩංගුවට
+### Man arrested with fifty drug
 
 *2024-02-15 10:20:03* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-පනහක-මත්ද්‍රව්‍ය-සමඟ-පුද්ගලයෙකු-අත්අඩංගුවට/11-408096) · `si`
 
-මෝදර අලුත් මාවත ප්‍රදේශයේදී සිදුකළ හදිසි මෙහෙයුමක දී රුපියල් ලක්ෂ පනහකට අධික වටිනාකමින් යුත් මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගත් බව විශේෂ කාර්ය කාර්යය බලකාය පවසයි.
+The STF personnel said that a large number of narcotics worth Rs.
 
-වැඩ බලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මත ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ විශේෂ කාර්ය බළකායේ බුද්ධි කොට්ඨාශයට ලද තොරතුරකට අනුව මෙම මෙහෙයුම දියත් කර තිබුණි.
+The operation was launched following information received by the Special Task Force to the Special Task Force to the Special Task Force of Justice under the operation of the Acting Inspector General of Deshabandu Tennakoon.
 
-එහිදී විශේෂ කාර්යය බලකායේ  බුද්ධි කොට්ඨාසයේ උප පොලිස් පරීක්ෂක ගුණසෝම මහතා ඇතුළු නිලධාරී කණ්ඩායමක් මෝදර අලුත් මාවත අසල රැඳී සිටි පුද්ගලයකු පරීක්ෂා කිරීමේදී ඔහු සන්තකයේ තිබී (ඩයිසැටයිල්මෝර්ෆින්) නොහොත් හෙරොයින් ග්‍රෑම් 112 මිලිග්‍රෑම් 690 සහ (මෙත්ඇම්පිටමින්) නොහොත් අයිස් ග්‍රෑම් 25 මිලි ග්‍රෑම් 700 භාරයට ගත් බව පැවසේ.
+A group of officers including the Special Task Intelligence Intelligence Gunasoma has been taken into custody in his possession (dycadailmorofin) or 700 grams of ice..
 
-ඒ අනුව සැකකරු සහ මත්ද්‍රව්‍ය තොගය අත්අඩංගුවට ගෙන ඔහු පැමිණි බවට සැක කෙරෙන යාබද අලුත් මාවතේ නවතා තිබූ සුඛෝපභෝගී ජීප් රථය පරීක්ෂා කිරීමේදී එහි කැබිහෝල්හී සඟවා තිබූ (මෙත්ඇම්පිටමින්) නොහොත් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 25 මිලිග්‍රෑම් 850, ඒවා කිර මැනීමට භාවිතා කරන විද්‍යුත් තරාදියක් හා රුපියල් 170,000 මුදලක් පොලිස් භාරයට ගෙන තිබේ.
+Accordingly, when the suspect and the livelihood of the new path was arrested and stopped at the adjoining new path, he was hidden at the cabhills, which was hidden (ICEMMaming), and an electricity used to measure the milk and 17,000 rupees.Taken into the seized.
+
+The luxury jeep of the Kia Spatage is also taken into custody.
+
+Police suspect that the suspect has been distributing the drug belonging to a larger drug network and will be handed over to the Police Narcotics Bureau.
+
+It is said that the stock of narcotics was arrested.
 
 ...
 
 [Data](articles/e34aa566.json)
+
+[Extended Data](ext_articles/e34aa566.ext.json)
 
 ---
 
@@ -1842,33 +2056,17 @@ The 35 -year -old man, a 35 -year -old man from Valappanai, was found guilty of 
 
 ---
 
-### 3மாணவிகள் துஷ்பிரயோகம்;  ஆசிரியர்கள் இருவர், ஓடோ சாரதிக்கு சிறை
+### 3 students abuse;Two teachers, Odo driver
 
 *2024-02-15 03:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/3மாணவிகள்-துஷ்பிரயோகம்-ஆசிரியர்கள்-இருவர்-ஓடோ-சாரதிக்கு-சிறை/76-333231) · `ta`
 
-வெவ்வேறு பாடசாலைகளைச் சேர்ந்த மூன்று மாணவிகளை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினர் என்றக் குற்றச்சாட்டின் பேரில், கைது செய்யப்பட்ட இரண்டு ஆசிரியர்கள், ஓட்டோ சாரதி ஆகிய மூவரையும், குற்றவாளிகளாக இனங்கண்ட நுவரெலியா மேல் நீதிமன்றம் அந்த மூவருக்கும் மொத்தமாக 37 வருடங்கள் கடூழிய சிறைத்தண்டனை விதித்து தீர்ப்பளித்துள்ளது.
-
-இதில், இரண்டு சம்பவங்களுக்கான தீர்ப்பு, நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரியவால் புதன்கிழமை (14) வழங்கப்பட்டது மற்றுமொரு சம்பவத்துக்கான தீர்ப்பு, ஜனவரி 31ஆம் திகதி, , நுவரெலியா மேல் நீதிமன்றத்தால் வழங்கப்பட்டுள்ளது.
-
-பாடசாலை மாணவி ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினார் என்ற குற்றச்சாட்டப்பட்டிருந்த கொட்டக்கலை பகுதியை சேர்ந்த (43) வயதுடைய பாடசாலை ஆசிரியரை 2 குற்றச்சாட்டுகளில் குற்றவாளியாக இனங்கண்ட நீதிமன்றம் அவருக்கு 17 வருட கடூழிய சிறை தண்டனை விதித்துள்ளது. முதலாவது குற்றச்சாட்டில் இருந்து அவர் விடுதலை செய்யப்பட்டார்.
-
-...
-
-[Data](articles/bcf1700f.json)
-
----
-
-### Two teachers, Odo driver
-
-*2024-02-15 03:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்கள்-இருவர்-ஓடோ-சாரதிக்கு-சிறை/175-333231) · `ta`
-
-The Nuwara Eliya High Court has sentenced the three arrested and the two arrested teachers and Otto driver on charges of sexually abusing three students from different schools.
+The Nuwara Eliya High Court has sentenced the three arrested, Otto driver, two arrested teachers and Otto driver on charges of sexually abusing three students from different schools.
 
 The verdict for two incidents was issued by the Nuwara Eliya High Court Judge Viraj Weerasuriya on Wednesday (14) by the Nuwara Eliya High Court on January 31.
 
 The court has sentenced him to 17 years' imprisonment for allegedly accused of sexually abusing a schoolgirl three times.. He was released from the first charge.
 
-He was filed in the Nuwara Eliya High Court in 2019. The court, which has been convicted of investigations for the past five years, has given him the verdict.
+He was filed in the Nuwara Eliya High Court in 2019. In investigations carried out for the past five years, the court has given him the verdict.
 
 The victim should be given a compensation of Rs.. It has also been ordered to pay 25 thousand rupees as penalty. If this is not the case, he should be sentenced to 3 years of postponed six months in prison.
 
@@ -1876,166 +2074,8 @@ The 35 -year -old man, a 35 -year -old man from Valappanai, was found guilty of 
 
 ...
 
-[Data](articles/ca078980.json)
+[Data](articles/bcf1700f.json)
 
-[Extended Data](ext_articles/ca078980.ext.json)
-
----
-
-### Explanation for the 2 Thera who broke the lock
-
-*2024-02-15 03:44:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூட்டை-உடைத்த-2-தேரர்களுக்கும்-விளக்கமறியல்/175-333230) · `ta`
-
-Both Buddhist Theri have been kept in interrogation on charges of illegally logging in a lock that had been placed on the old two -dimensional house in the Bambalapitiya Farit Place, worth several crores of rupees.
-
-The two were arrested by the Bambalapitiya Police and produced before the Colombo Additional Magistrate's Court. Meanwhile, Additional Magistrate Bandara Ilangasinghe ordered the two to be kept in remand until the 19th.
-
-The Additional Magistrate also ordered that one of these Thera be detained at the ethnicity station because he was old.
-
-Two of the Vihara Thera in the Malabe area have been arrested and placed on a court order.
-
-The woman who was allegedly owned by the house, who was allegedly owned by the house, had been forcibly staying in the house, breaking the lock of her house and forcibly staying in the house.
-
-...
-
-[Data](articles/36bb5bf9.json)
-
-[Extended Data](ext_articles/36bb5bf9.ext.json)
-
----
-
-### There is no constitutional provision to postpone Presidential election: CBK
-
-*2024-02-15 03:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/There-is-no-constitutional-provision-to-postpone-Presidential-election-CBK/108-277028) · `en`
-
-Colombo, Feb 14 (Daily Mirror) - There is no constitutional provision to postpone Presidential elections, former President Chandrika Bandaranaike Kumaratunga told journalists yesterday.
-
-Ms. Kumaratunga said this in response to a question raised by journalists after an event organized by the United Republic Front in Colombo last evening.
-
-However, she did declined to elaborate to a question raised by journalists on the assurance given by the President’s office recently that Presidential elections will be held despite speculation that the Executive Presidency is to be scrapped.
-
-“All I can say is that Presidential elections cannot be postponed at all,” she added.
-
-◼️
-
-[Data](articles/d873daee.json)
-
-[Extended Data](ext_articles/d873daee.ext.json)
-
----
-
-### Air soldiers also jumped on the field
-
-*2024-02-15 03:06:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானப்-படையினரும்-களத்தில்-குதித்தனர்/175-333229) · `ta`
-
-The second day of the country was held on Wednesday (14) at the Jaffna Teaching Hospital in Jaffna.
-
-The Sri Lankan Air Force at the Jaffna Teaching Hospital was on duty for patient assistance.
-
-It is noteworthy that employees of 72 health trade unions have been involved in a series of workshops from 6.30 am on Tuesday (13).
-
-◼️
-
-[Data](articles/e25dafbc.json)
-
-[Extended Data](ext_articles/e25dafbc.ext.json)
-
----
-
-### 1,600 போதை குளிசைகளுடன் வைத்தியர் கைது
-
-*2024-02-15 02:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/1-600-போதை-குளிசைகளுடன்-வைத்தியர்-கைது/76-333228) · `ta`
-
-ஆயிரத்து 600 போதை மாத்திரைகளுடன் வைத்தியர் ஒருவர் கம்பளை, ஏத்கால பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-பேராதனை வைத்தியசாலையில் சேவையாற்றும் 49 வயதான வைத்தியர் ஒருவரே, செவ்வாய்க்கிழமை (12) இரவு 11 மணியளவில் இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
-
-பேராதனை பகுதியில் இருந்து, கம்பளை ,ஜயமாலபுர பகுதிக்கு போதை மாத்திரைகளை எடுத்துவந்த வேளையிலேயே, ஏத்கால பொலிஸ் நிலைய பொறுப்பதிகாரி தம்மிக்க கெக்குலந்தர தலைமையிலான பொலிஸ் குழுவினரால் குறித்த வைத்தியர் கைது செய்யப்பட்டுள்ளார்.
-
-அவரிடமிருந்த போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளன, வைத்தியருக்குரிய அடையாள சின்னத்துடன் அவர் பயணித்த வாகனமும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது. விசாரணைகளின் பின்னர் அவர் நீதிமன்றத்தில் முற்படுத்தப்படவுள்ளார் என தெரிவித்த கம்பளை ஏத்கால பொலிஸார், மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/76b33492.json)
-
----
-
-### Doctors arrested with 1,600 drugs
-
-*2024-02-15 02:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-600-போதை-குளிசைகளுடன்-வைத்தியர்-கைது/175-333228) · `ta`
-
-A doctor with a thousand 600 drugs has been arrested by the police.
-
-A 49 -year -old doctor, who is serving at the Peradeniya Hospital, was arrested at around 11 pm on Tuesday (12).
-
-The doctor has been arrested by a police team led by Dhammika Kekulandra, a police officer in charge of the police station, while taking drug pills from the Peradeniya area to the Jayamalapura area.
-
-The drug pills have been seized, and the vehicle he was traveling with the doctor's mark was also seized by the police.. Gampolai police said that he would be produced in court after investigations.
-
-◼️
-
-[Data](articles/94612bb0.json)
-
-[Extended Data](ext_articles/94612bb0.ext.json)
-
----
-
-### ADB to help develop smart agriculture in Mahaweli Zones
-
-*2024-02-15 02:41:24* · [`dailyftlk`](https://www.ft.lk/business/ADB-to-help-develop-smart-agriculture-in-Mahaweli-Zones/34-758511) · `en`
-
-Asian Development Bank has pledged to assist develop smart agriculture in Mahaweli Zones, following a request made by Irrigation, Wildlife and Forestry Minister Pavithra Wanniarachchi.
-
-She said the ADB has pledged to provide $ 8 million to introduce modern technology in the field of agriculture and livestock.
-
-During a recent discussion with the ADB Country Director Takafumi Kadona officials held at her office, Minister Wanniarachchi requested ADB to assist financial and new technology to the youth as they are keen on a smart agricultural industry.
-
-Subsequently, ADB pledged to assist in this venture as it would increase productivity.
-
-Addressing the top officials at the Ministry yesterday she said the ADB aid is a victory for the Mahaweli farming community.
-
-...
-
-[Data](articles/ed4b2d05.json)
-
-[Extended Data](ext_articles/ed4b2d05.ext.json)
-
----
-
-### Have you seen the elephant migration from the Galoya twice a year?
-
-*2024-02-15 02:39:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gewn4y8vvo) · `si`
-
-There is nothing here. Play Video, "Ali-human conflict: What is the alias that will take place in the Galoya twice a year?"Returns the month. This migration is between August and November again.
-
-Have you seen the elephant migration from the Galoya twice a year?
-
-Elephant migration is twice a year from the Galoya. The first elephant transition on the road is due to start on February 20.
-
-Authorities have informed farmers to reach the harvest before February 20. Elean will be allowed to travel across the Buddhosalana Sanctuary after that date on that date on that date on the date.
-
-The farmers have paid 25,000 to Rs.. In addition, the ali fence guard is carried out by wildlife officials, villagers and civilian security force.
-
-Elephants that migrate in February in February were returning back in April. This migration is between August and November again.
-
-◼️
-
-[Data](articles/b181690f.json)
-
-[Extended Data](ext_articles/b181690f.ext.json)
-
----
-
-### Leading digital transformation: Empowering business leaders for success
-
-*2024-02-15 02:38:45* · [`dailyftlk`](https://www.ft.lk/business/Leading-digital-transformation-Empowering-business-leaders-for-success/34-758510) · `en`
-
-Digital transformation, often seen as the domain of ICT professionals, frequently falls short due to a lack of comprehensive business understanding among these experts. A study by Harvard Business School emphasised that digital transformation is not about technology and IT professionals in Sri Lanka declared at a conference that they could contribute only up to 20% to the success of such initiatives. When IT professionals lead, they excel in technology but may overlook broader business implications. Thus, non-IT managers must step into leadership roles for digital transformation projects, although they may face knowledge gaps in ICT.
-
-...
-
-[Data](articles/14493030.json)
-
-[Extended Data](ext_articles/14493030.ext.json)
+[Extended Data](ext_articles/bcf1700f.ext.json)
 
 ---

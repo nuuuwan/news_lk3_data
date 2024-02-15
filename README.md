@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 19:50:07**
+As of **2024-02-15 20:02:30**
 
 ## Newspaper Stats
 
@@ -26,51 +26,57 @@ dailymirrorlk | 1,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,299 (99.9%) of 7,308 articles have been extended.
+7,308 (100.0%) of 7,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### මිද්දෙණියේ කෝටිපතියෙක් CID අත්අඩංගුවට
+### CID arrested for a millionaire in Middeniya
 
 *2024-02-15 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193430) · `si`
 
-නීතිවිරෝධීව වත්කම් උපයා ගත් බවට සැකපිට මිද්දෙණිය මීගස්ආර ප්‍රදේශයේ පදිංචිකරුවෙකු ඊයේ (14) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ විමර්ශන අංක 01හි නිලධාරීන් පිරිසක් විසින් අත්අඩංගුවට ගෙන තිබේ.
+A group of officials of the Illegal Asset Investigation Division of the Criminal Investigation Division has been arrested yesterday (14), a resident of the CID yesterday.
 
-ඔහු සන්තකයේ තිබූ රුපියල් කෝටි තුනක් පමණ වටිනා මෝටර් රථ 02 ක්, මීගස්ආර ප්‍රදේශයේ සැකකරු විසින් ඉදිකොට ඇති වායු සමීකරණය කරන ලද තෙමහල් නිවසක් සහ මිද්දෙණිය නගරයේ ඇති දෙමහල් ගොඩනැගිල්ලක් එහිදී නිලධාරීන් විසින් සිය භාරයට ගෙන ඇත.
+The air-conditioned house and a two storied house in the Meegasara area, two crores were Rs.
 
-පොලීසිය සඳහන් කරන්නේ වසර දහයක පමණ කාලයක සිට සැකකරු තණමල්විල ප්‍රදේශයේ කංසා වගා කරමින් ඒවා බෙදාහැරීමේ ජාවාරමක යෙදී ඇති බවය.
+Police said that the suspect was produced in the Thanamalwila area for about ten years.
 
-ඉන් උපයා ගත් මුදලින් පොලිස් භාරයට ගත් දේපළ උපයාගන්නට ඇතැයි පොලිසිය සැක කරයි.
+Police suspect that the property has been taken into custody by the money earned.
 
-සැකකරුට අයත් බව සැලකෙන වත්කම්වල වටිනාකම රුපියල් කෝටි 12ක් පමණ වන බවද පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+The assets considered that the suspect belongs to about Rs. 12 million.
 
 ◼️
 
 [Data](articles/1894efde.json)
 
+[Extended Data](ext_articles/1894efde.ext.json)
+
 ---
 
-### ONMAXDT ලොක්කන්ට අධිකරණය ඉදිරිපිටදී ලොකු විරෝධයක්
+### A large opposition in front of the onmaxdt boss
 
 *2024-02-15 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193429) · `si`
 
-නීති විරෝධී පිරමීඩාකාර ගනුදෙනු සිදුකර තැන්පත්කරුවන්ගේ මුදල් වංචා කළ බවට චෝදනා ලත් ONMAXDT පෞද්ගලික සමාගමේ අධ්‍යක්ෂවරයෙකු ඇප ලබාගැනීමෙන් පසු රහසිගතව විදේශගතව ඇති බවට විමර්ශන නිලධාරීන් අද අධිකරණයට කරුණු වාර්තා කළේය.
+Investigations have been taken to the court today that a director of the Amaxd Private Company has been secretly abroad as a director of the OMAXDT has been released after being accused of defrauding depositors.
 
-ඒ අදාළ සමාගමට එරෙහි නීති කෘත්‍ය අද කොළඹ මහේස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදීය.
+The Law function against the company was taken up before the Colombo Magistrate's Court today.
 
-නඩුවේ 6වන සැකකරු වන ONMAXDT පෞද්ගලික සමාගමේ අධ්‍යක්ෂවරයෙකු වන ධනංජය ජයාන් චාමර නැමැත්තා ඇප ලබාගැනීමෙන් පසුව මෙලෙස  රහසිගතව විදේශ ගතව ඇති බවත් ඔහු පිළිබඳ තොරතුරු සෙවීම සඳහා ජාත්‍යන්තර පොලිසියේ සහාය ඇතිව විමර්ශන ආරම්භ කර ඇති බවත් විමර්ශන නිලධාරීන් පෙන්වාදී තිබේ.
+The Investigations Officer has shown that the 6th suspect, the director of the 6th suspect.
 
-මේ අතර ONMAXDT ගනුදෙනුකරුවන් අද (15) අධිකරණය ඉදිරිපිට නිහඬ විරෝධතාවක නිරත වෙමින් සිටියේය.
+Meanwhile, ONMAXDT customers were silent protest in front of the court today (15).
 
-චෝදනා ලත් අධ්‍යක්ෂවරුන් අධිකරණයෙන් පිටව යද්දී ගනුදෙනුකරුවන් පැමිණ ඔවුන් ගමන්කරමින් තිබූ මෝටර් රථයේ මග හරස් කර විරෝධය පළකළේය.
+As the accused directors left the court, customers came to the car and protesting the car they were traveling.
 
-නීතිවිරෝධී පිරමීඩාකාර ගනුදෙනු සිදුකර තැම්පත්කරුවන්ගෙන් මුදල් වංචා කළ බවට චෝදනා ලත් ONMAXDT පෞද්ගලික සමාගමේ අධ්‍යක්ෂවරුන් 6 දෙනෙකුට එරෙහි නඩුව අද කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා ඉදිරියේ කැඳවනු ලැබීය.
+The case against 6 directors who were accused of defrauding money from illegal pyramidara transactions were invited before Colombo Chief Magistrate Prasanna Alwis.
+
+Speaking to the President's Counsel Directors, Assistant Attorney-at-Arrahera Velleraratu stated that 58 bank accounts belonging to the respective directors have been suspended by the Court of Reference.
 
 ...
 
 [Data](articles/8ccb86ef.json)
+
+[Extended Data](ext_articles/8ccb86ef.ext.json)
 
 ---
 
@@ -90,17 +96,21 @@ JICA will be funding a renewable energy program which includes the establishment
 
 [Data](articles/466b69db.json)
 
+[Extended Data](ext_articles/466b69db.ext.json)
+
 ---
 
-### ලංවිම රු. කෝටි 112ක් පාරිභෝගියන්ට ගෙවලා
+### CEB Rs. 112 million crores to customers
 
 *2024-02-15 18:58:33* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-රු--කෝටි-112ක්-පාරිභෝගියන්ට-ගෙවලා/11-408111) · `si`
 
-2023 වර්ෂයේ දී ලංකා විදුලිබල මණ්ඩලය විසින් නව විදුලි සැපයුමක් ලබාදීමේදී අයකර ගනු ලබන පාරිභෝගික තැන්පතු මුදල වෙනුවෙන් රුපියල් කෝටි 112 කට ආසන්න මුදලක් පොලී ලෙස ගෙවා ඇති බව ලංකා විදුලි බල මණ්ඩලයට නිවේදනය කරයි.
+In 2023, the Ceylon Electricity Board (CEB) has paid a new electricity supply to Rs.
 
 ◼️
 
 [Data](articles/ac3cebed.json)
+
+[Extended Data](ext_articles/ac3cebed.ext.json)
 
 ---
 
@@ -122,65 +132,79 @@ The discussion was about the resumption of the construction of this second termi
 
 ---
 
-### ”டிக்கெட் வாங்க யாரும் வர வேண்டாம்”
+### "Don't come to anyone to buy tickets"
 
 *2024-02-15 18:42:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்கெட்-வாங்க-யாரும்-வர-வேண்டாம்/175-333282) · `ta`
 
-ரங்கிரி தம்புள்ளை சர்வதேச கிரிக்கெட் மைதானத்தில் சனிக்கிழமை (17) நடைபெறவுள்ள முதல் டி20 போட்டிக்கான டிக்கெட்டுகள் விற்றுத் தீர்ந்துவிட்டன.
+Tickets for the first T20 match will be sold at the Rangiri Dambulla International Cricket Ground on Saturday (17).
 
-முதல் டி20 போட்டிக்கான போட்டி டிக்கெட்டுகளை கோரி கருமபீடங்களுக்கு செல்ல வேண்டாம் என இலங்கை கிரிக்கெட் பொதுமக்களுக்கு அறிவுறுத்தியுள்ளது.
+Sri Lanka Cricket has advised the public not to go to blacksmiths demanding match tickets for the first T20 match.
 
-இதற்கிடையில், முதல் டி20 போட்டிக்கான டிக்கெட்டுகளை வாங்க கிரிக்கெட் ரசிகர்கள் அதிக அளவில் குவிந்துள்ளனர்.
+Meanwhile, cricket fans have been increasingly accumulated to buy tickets for the first T20 match.
 
-ஐந்து வருடங்களின் பின்னர் தம்புள்ளையில் இடம்பெறும் போட்டியை காணும் சந்தர்ப்பம் இதுவே முதல் தடவை என ரசிகர்கள் தெரிவித்துள்ளனர்.
+Fans have said that this is the first time the match will be held in Dambulla after five years.
 
-இலங்கை மற்றும் ஆப்கானிஸ்தான் டி20 போட்டிகள் பிப்ரவரி 17, 19, 21 ஆகிய திகதிகளில் தம்புள்ளை மைதானத்தில் நடைபெற உள்ளமை குறிப்பிடத்தக்கது.
+Sri Lanka and Afghanistan T20 matches will be held on February 17, 19 and 21 at Dambulla Ground.
 
 ◼️
 
 [Data](articles/09166873.json)
 
+[Extended Data](ext_articles/09166873.ext.json)
+
 ---
 
-### පොලිස් නිලධාරීන් තිදෙනෙකු පුරවැසියෙකු ඉදිරියේ දණ ගසා සමාව ගනී
+### Three policemen knock in front of a citizen and apologizes
 
 *2024-02-15 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193428) · `si`
 
-පොලිස් නිලධාරීන් තිදෙනෙකු සාමාන්‍ය පුරවැසියෙකු ඉදිරියේ දණ ගසා සමාව ඉල්ලූ පුවතක් අධිකරණයෙන් වාර්තාවෙයි.
+Three police officers kneel before an ordinary citizen and an apologized.
 
-මෙලෙස සමාව ගෙන ඇත්තේ වයස අවුරුදු 81ක් වයසැති ගොඩ්වින් පෙරේරා නමැති ජ්‍යේෂ්ඨ පුරවැසියෙකුගෙනි.
+The 81-year-old Godwin Perera has been identified as a senior citizen.
 
-එලෙස පොලිස් නිලධාරීන් තිදෙනා සමාව ගෙන ඇත්තේ විජිත් කේ මලල්ගොඩ, අචල වෙංගප්පුලි සහ අර්ජුන ඔබේසේකර යන විනිසුරු මඩුල්ල ඉදිරියේදී පෙත්සම්කරු සහ වගඋත්තරකාර පොලිස් නිලධාරීන් අතර ඇතිවූ සමතයක් අනුවය.
+The three police officers have been forgiven by Vidith K Malalgoda, Achala Wingulgoda and Arjuna Oyajuna and Arjuna Obeysekara.
 
-2017 වසරේදී ගොඩ්වින් පෙරේරා මහතා කොළඹ පෞද්ගලික රෝහලක් වෙත යමින් සිටියදී මාර්ගයක් අසළ අනතුරකට පත්ව සිටි කම්කරුවෙකු සම්බන්ධයෙන් පොලීසියට දැනුම්දීමක් සිදුකර ඔහුව රෝහල්ගතකිරීමට පියවර ගෙන තිබුණි.
+In 2017, Mr. Godwin Perera was informed to a private hospital in 2017 and had taken steps to hospital with a road accident.
 
-අනතුරුව වගඋත්තරකාර පොලිස් නිලධාරීන් විසින් ගොඩ්වින් පෙරේරා මහතාව රැගෙන ගොස් පොලිස් සිරමැදිරියට දමා ඇති බව පැමිණිල්ලේ සඳහන්ව තිබේ.
+The complaint states that the respondents were taken to the police cell by respondents.
 
-එහිදී තමන් විසින් නීතිය ක්‍රියාත්මක කරන්නේ මෙසේදැයි විමසූ බවත් එයට එම නිලධාරීන් අයහපත් ප්‍රතිචාරයක් දැක්වූ බවත් ඒ මහතා සිය පැමිණිල්ලේ වැඩිදුරටත් සඳහන් කර තිබේ.
+He further stated that he has asked the law and asked the same as the officials.
+
+Mr. Godwin Perera, who was prejudiced against him, had filed a fundamental government petition in the Supreme Court and was his lawyer.
+
+However, due to the respondents with respondents, Petitiography Minister Godwin Perera agreed to the court in the Supreme Court.
+
+The case was taken up before the petitioner Perera appeared before the court.
 
 ...
 
 [Data](articles/33c13741.json)
 
+[Extended Data](ext_articles/33c13741.ext.json)
+
 ---
 
-### போதை மருந்து விற்ற வைத்தியர் கைது
+### Doctor arrested for selling drugs
 
 *2024-02-15 18:35:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மருந்து-விற்ற-வைத்தியர்-கைது/175-333281) · `ta`
 
-போதை மாத்திரைகள் விற்பனையில் ஈடுபட்டதாக சந்தேகத்தின் பேரில் கம்பளை ஜயமலாபுர பகுதியில் எத்கல பொலிஸாரினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது கைது செய்யப்பட்ட பேராதனை சிறுவர் வைத்தியசாலையின் வைத்தியர் பெப்ரவரி 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+The doctor of the Peradeniya Children's Hospital, who was arrested during a raid carried out by the Ethgala Police in the Gampola Jayamalapura area on suspicion of selling drug pills, has been kept in detention until February 19.
 
-கம்பளை பிரதான நீதவான் வாசன நவரத்தன முன்னிலையில் ஆஜர்படுத்தப்பட்ட பின்னர் அவர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+He has been kept in detention after being produced in the presence of Chief Magistrate Vasana Navarathana, Gampola.
 
-கோனரத்ன முதியன்சேலாகே வர்தன கும்புரேகெதர மத்தும பண்டா வர்தன கும்புர என்ற வைத்தியரான குறித்த சந்தேக நபர் கெலிஓயாவில் உள்ள கரமடை பகுதியைச் சேர்ந்தவர்.
+The suspect, a doctor, a doctor named Kumburekethra Mathuma Banda Vardhana Kumbura, is from Karadai in Keliiya.
 
-இரவு 11 மணியளவில் ஜயமாலாபுரவிற்கு 1600 மாத்திரைகள் கையிருப்புடன் மோட்டார் காரில் வந்த சந்தேகநபரிடம் மாத்திரைகளை போலியாக கொள்வனவு செய்த உதவியாளர் ஒருவரின் உதவியுடன் சந்தேகநபர் கைது செய்யப்பட்டதாக எத்கல பொலிஸ் நிலைய பொறுப்பதிகாரி செனரத் கெகுலந்தர நீதிமன்றில் தெரிவித்தார்.
+The suspect was arrested with the help of an assistant who had bought the pills to Jayamalapurapura with 1600 pills to Jayamalapura, with 1600 pills.
 
-பேராதனை போதனா வைத்தியசாலையில் கடமையாற்றும் சந்தேகநபர் கெலி ஓயாவில் தனியார் மருத்துவ நிலையமொன்றை நடத்தி வந்துள்ளதாக அவர் நீதிமன்றில் அறிவித்துள்ளார்.
+The suspect, who works at the Peradeniya Teaching Hospital, has been operating a private medical center in Kelly Oya, he said in court.
 
-...
+However, lawyers appearing on behalf of the suspect have said that they had pills to protect from drug users and thieves.
+
+◼️
 
 [Data](articles/60e73970.json)
+
+[Extended Data](ext_articles/60e73970.ext.json)
 
 ---
 
@@ -223,6 +247,8 @@ Sending Sri Lankans to work in Israel is insensitive: Legislator
 ...
 
 [Data](articles/48021bc4.json)
+
+[Extended Data](ext_articles/48021bc4.ext.json)
 
 ---
 
@@ -1012,23 +1038,25 @@ The accident is said to have occurred due to high speed. Vaddukoddai police are 
 
 ---
 
-### සැහැල්ලු දුම්රිය ව්‍යාපෘතියට ජපානයෙන් කොළ එළියක්
+### Japan leaves a green light from Japan
 
 *2024-02-15 15:09:14* · [`adalk`](https://www.ada.lk/breaking_news/සැහැල්ලු-දුම්රිය-ව්‍යාපෘතියට-ජපානයෙන්-කොළ-එළියක්/11-408110) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ජපාන ජාත්‍යන්තර සහයෝගීතා ආයතනයේ (JICA) සභාපති ආචාර්ය අකිහිකෝ මහතා අතර හමුවක් ඊයේ (14) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී සිදුවිය.
+President Ranil Wickremesinghe and the President of the Japan International Cooperation Agency (JICA) was held at the Presidential Secretariat yesterday (14).
 
-නව ආර්ථික ප්‍රතිසංස්කරණ සිදු කිරීම දුෂ්කර ක්‍රියාවලියක් වුවද ශ්‍රී ලංකාවේ ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ කැපවීම මෙහිදී ආචාර්ය ටනකා අකිහිතෝ මහතාගේ ඇගයීමට ලක් විය.
+Despite the difficult process to carry out new economic reforms, Dr. Tanca Akito was assessed by President Ranil Wickremesinghe to implement economic reforms in Sri Lanka.
 
-කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළ පුළුල් කිරීමේ ව්‍යාපෘතිය, සැහැල්ලු දුම්රිය ව්‍යාපෘතිය සහ මධ්‍යම අධිවේගී මාර්ගය ඇතුළු ජපාන ආධාර යටතේ මෙරට ක්‍රියාත්මක, දැනට අතරමඟ නැවතී ඇති ව්‍යාපෘති කඩිනමින් නැවත ආරම්භ කිරීමට තම අවධානය යොමුව ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී පැවසීය.
+President Ranil Wickremesinghe said that the projects stopped under the operation of the Bandaranaike International Airport and the Central Expressway, the Donation of the Katunayake Railway and the Central Expressway.
 
-පසුගිය ආර්ථික අර්බුදය හමුවේ ජපාන රජය සහ ජයිකා ආයතනය විසින් ශ්‍රී ලංකාවට ලබාදුන් අඛණ්ඩ සහය වෙනුවෙන් ස්තූතිය පිරිනැමීමට ද ජනාධිපතිවරයා මෙහිදී කටයුතු කළේය.
+The President also supported the continued support given to Sri Lanka by the Japanese government and JICA to Sri Lanka in the face of the last economic crisis.
 
-ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීමේ කටයුතු අවසන් වූ පසු දැනට අත්හිටුවා ඇති ව්‍යාපෘති නැවත ආරම්භ කිරීමට ජයිකා ආයතනය සූදානමින් සිටින බව ආචාර්ය අකිහිතෝ මහතා මෙහිදී වැඩිදුරටත් සඳහන් කළේය.
+Jayawica is ready to resume the projects that have been suspended after the restructuring of the debts of Sri Lanka.
 
 ...
 
 [Data](articles/82d974b9.json)
+
+[Extended Data](ext_articles/82d974b9.ext.json)
 
 ---
 

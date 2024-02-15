@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 09:02:21**
+As of **2024-02-15 09:17:24**
 
 ## Newspaper Stats
 
-*Scraped **7,134** Articles*
+*Scraped **7,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 371
 islandlk | 376
 dailyftlk | 389
-adalk | 603
+adalk | 604
 tamilmirrorlk | 872
 adaderanalk | 872
 virakesarilk | 913
@@ -26,7 +26,7 @@ dailymirrorlk | 1,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,134 (100.0%) of 7,134 articles have been extended.
+7,134 (100.0%) of 7,135 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -112,6 +112,26 @@ It is noteworthy that Professor Jayawardena's credentials reflect extensive expe
 
 ---
 
+### In the city of Kansas, USA;22 killed in a large number of people
+
+*2024-02-15 07:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176410) · `ta`
+
+One person was killed and 21 injured in a shooting incident in Kansas, USA.
+
+The firing incident took place at the end of the Super Bevl Success in Kansas.
+
+The event, which was expected to attend more than the Ansilion, was eventually attempting to flee in fear of the event.
+
+22 people were injured following the shooting incident.
+
+◼️
+
+[Data](articles/2bef9d19.json)
+
+[Extended Data](ext_articles/2bef9d19.ext.json)
+
+---
+
 ### Today's weather conditions
 
 *2024-02-15 07:28:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-நிலவரங்கள்/175-333235) · `ta`
@@ -135,26 +155,6 @@ Winds from the northeast at 30 - 40 km / h in the sea regions.
 [Data](articles/7bee04a1.json)
 
 [Extended Data](ext_articles/7bee04a1.ext.json)
-
----
-
-### In the city of Kansas, USA;22 killed in a large number of people
-
-*2024-02-15 07:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/176410) · `ta`
-
-One person was killed and 21 injured in a shooting incident in Kansas, USA.
-
-The firing incident took place at the end of the Super Bevl Success in Kansas.
-
-The event, which was expected to attend more than the Ansilion, was eventually attempting to flee in fear of the event.
-
-22 people were injured following the shooting incident.
-
-◼️
-
-[Data](articles/2bef9d19.json)
-
-[Extended Data](ext_articles/2bef9d19.ext.json)
 
 ---
 
@@ -1580,6 +1580,26 @@ Wimal for a century in the ODI welcomes between Sri Lanka and Afghanistan today 
 
 ---
 
+### ජාත්‍යන්තර විශ්වවිද්‍යාල 03ක් ශ්‍රී ලංකාවේ ස්ථාපිත කිරීමට පියවර
+
+*2024-02-14 20:28:20* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-විශ්වවිද්‍යාල-03ක්-ශ්‍රී-ලංකාවේ-ස්ථාපිත-කිරීමට-පියවර/11-408091) · `si`
+
+අධ්‍යාපනය සම්බන්ධ ජාත්‍යන්තර අත්දැකීම් ඇති විශේෂඥයන් මෙරටට පැමිණ නිරීක්ෂණයෙන් පසුව රාජ්‍ය විශ්වවිද්‍යාල හරහා බහුවිධ උපාධි ලබාදීමට අවධානය යොමු කර ඇති බව උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා පැවසීය.
+
+එසේම ජාත්‍යන්තර විශ්වවිද්‍යාල 03ක් ශ්‍රී ලංකාවේ ඉදිකිරීමට මේ වන විට පියවර ගෙන තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (14) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා මෙසේ ද පැවසීය,
+
+විදෙස් විශ්වවිද්‍යාල 03ක් ශ්‍රී ලංකාවේ ස්ථාපිත කිරීමට අප මේ වන විට පියවර ගෙන තිබෙනවා. ඉන් විශ්වවිද්‍යාල දෙකක්ම ස්ථාපිත වෙමින් පවතිනවා. මෙම වසරේ මැයි මාසය වන විට තුන්වන විශ්වවිද්‍යාලය ද ලංකාවේ ස්ථාපිත කෙරෙනවා.
+
+...
+
+[Data](articles/8cbe4cb1.json)
+
+---
+
 ### Fire nearing Baseline Station
 
 *2024-02-14 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193386) · `si`
@@ -2005,19 +2025,5 @@ Parade books and uniforms will be provided with students of 10,126 students of t
 [Data](articles/b3a40600.json)
 
 [Extended Data](ext_articles/b3a40600.ext.json)
-
----
-
-### Long queues at Osu Sala...
-
-*2024-02-14 18:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Long-queues-at-Osu-Sala/110-277022) · `en`
-
-People waiting in long queques outside the Osu Sala at Town Hall to purchase medicines due to the ongoing health strike. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/a078ab6b.json)
-
-[Extended Data](ext_articles/a078ab6b.ext.json)
 
 ---

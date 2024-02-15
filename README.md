@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 08:51:22**
+As of **2024-02-15 09:02:21**
 
 ## Newspaper Stats
 
@@ -1178,22 +1178,6 @@ He said that the SLAF has submitted requests to the US Air Force for the acquisi
 
 ---
 
-### 
-
-*2024-02-14 22:04:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83628) · `en`
-
-What do Ranil Wickremesinghe, Dinesh Gunawardena and Anura Bandaranaike have in common? They were born a year after independence in 1949 and were classmates together at Royal Colege, Colombo. All three   were from illustrious families involved in politics and went on to be brightly shining  stars in the Island nation’s political firmament.
-
-Anura Bandaranaike born on 15 February 1949 was regarded as  the  crown prince of Lankan politics due to the fact that he was the son of SWRD e and Sirimavo Bandaranaike. Both of them served as Prime Ministers. Despite this impressive political pedigree, Anura was never a Prime Minister or President. That honour went to his elder sister Chandrika Kumaratunge who was both premier and president. Anura however held many posts like MP, Leader of the Opposition, Cabinet minister and speaker but was never “crowned as a King.” Anura passed away 16 years ago  at the age of 59 in 2008.
-
-...
-
-[Data](articles/ac4d1649.json)
-
-[Extended Data](ext_articles/ac4d1649.ext.json)
-
----
-
 ### Sri Lanka thrash Afghanistan in 3rd ODI to complete 3-0 series sweep
 
 *2024-02-14 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97278/sri-lanka-thrash-afghanistan-in-3rd-odi-to-complete-3-0-series-sweep) · `en`
@@ -2021,5 +2005,19 @@ Parade books and uniforms will be provided with students of 10,126 students of t
 [Data](articles/b3a40600.json)
 
 [Extended Data](ext_articles/b3a40600.ext.json)
+
+---
+
+### Long queues at Osu Sala...
+
+*2024-02-14 18:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Long-queues-at-Osu-Sala/110-277022) · `en`
+
+People waiting in long queques outside the Osu Sala at Town Hall to purchase medicines due to the ongoing health strike. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/a078ab6b.json)
+
+[Extended Data](ext_articles/a078ab6b.ext.json)
 
 ---

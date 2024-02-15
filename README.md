@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 05:37:09**
+As of **2024-02-15 05:55:27**
 
 ## Newspaper Stats
 
@@ -26,59 +26,73 @@ dailymirrorlk | 1,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,096 (99.9%) of 7,100 articles have been extended.
+7,100 (100.0%) of 7,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### சமூக உடன்படிக்கை கைச்சாத்திடப்பட்டது
+### The Social Agreement was signed
 
 *2024-02-15 04:12:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-உடன்படிக்கை-கைச்சாத்திடப்பட்டது/175-333233) · `ta`
 
-எமது நாட்டிற்கு பெரும் வளமாக காணப்படும் மலையக மற்றும் தென் பகுதி தோட்ட சமூகத்தினரின் வாழ்க்கை, வாழ்வாதாரம், ஜீவனோபாயம் உள்ளிட்ட சமூக, பொருளாதார, அரசியல் கட்டமைப்பை வலுப்படுத்துவதற்காக, மலையகம் மற்றும் தென் பகுதிய பெருந்தோட்டத் துறையில் உள்ள சமூகத்துடன் இன்று ஒரு முக்கியமான சமூக உடன்படிக்கையை மேற்கொள்ள முடிந்துள்ளது.
+A major social agreement has been made today with the community in the hill country and southern plantation industry to strengthen the social, economic and political structure of the hill and southern plantation community, including the life, livelihood and livelihood of the upcountry and southern plantation community.
 
-ஐக்கிய மக்கள் சக்தி அரசாங்கத்தின் கீழ் இதற்கென தனியான ஜனாதிபதி செயலகம் ஸ்தாபிக்கப்பட்டு, மலையக மற்றும் தென் பகுதி தோட்ட சமூகத்தினர் எதிர்நோக்கும் பொருளாதார,சமூக ரீதியான  அபிவிருத்தி மற்றும் அரசியல் பிரச்சினைகள் உள்ளிட்ட உட்கட்டமைப்புத் துறையில் உள்ள பிரச்சினைகளுக்கு தீர்வுகளை வழங்கும் இணக்கப்பாட்டுடன் உடன்படிக்கை எட்டப்பட்டதாகவும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said that a separate Presidential Secretariat has been established under the United People's Power Government and has reached agreement with the compliance with the agitation in the infrastructure sector, including the economic, social development and political issues facing the hill country and southern plantation community.
 
-ஐக்கிய மக்கள் சக்தி கட்சியின் தலைமை அலுவலகத்தில், மலையக, தென்பகுதி பெருந்தோட்ட சமூகங்களின் உரிமைகளை பாதுகாப்பதற்கான உறுதிமொழியை வழங்கி, பல்வேறு தோட்ட அரசியல் கட்சிகள் மற்றும் பிரதிநிதிகளுடன், சுமூக உடன்படிக்கை, புதன்கிழமை (14) கைச்சாத்திடப்பட்டது.
+At the headquarters of the United People's Power Party, the Small Agreement was signed on Wednesday (14) with various plantation political parties and representatives, promising to protect the rights of the upland and southern plantation communities.
 
 ...
 
 [Data](articles/d7dd1068.json)
 
+[Extended Data](ext_articles/d7dd1068.ext.json)
+
 ---
 
-### ஆசிரியர்கள் இருவர், ஓடோ சாரதிக்கு சிறை
+### Two teachers, Odo driver
 
 *2024-02-15 03:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்கள்-இருவர்-ஓடோ-சாரதிக்கு-சிறை/175-333231) · `ta`
 
-வெவ்வேறு பாடசாலைகளைச் சேர்ந்த மூன்று மாணவிகளை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினர் என்றக் குற்றச்சாட்டின் பேரில், கைது செய்யப்பட்ட இரண்டு ஆசிரியர்கள், ஓட்டோ சாரதி ஆகிய மூவரையும், குற்றவாளிகளாக இனங்கண்ட நுவரெலியா மேல் நீதிமன்றம் அந்த மூவருக்கும் மொத்தமாக 37 வருடங்கள் கடூழிய சிறைத்தண்டனை விதித்து தீர்ப்பளித்துள்ளது.
+The Nuwara Eliya High Court has sentenced the three arrested and the two arrested teachers and Otto driver on charges of sexually abusing three students from different schools.
 
-இதில், இரண்டு சம்பவங்களுக்கான தீர்ப்பு, நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரியவால் புதன்கிழமை (14) வழங்கப்பட்டது மற்றுமொரு சம்பவத்துக்கான தீர்ப்பு, ஜனவரி 31ஆம் திகதி, , நுவரெலியா மேல் நீதிமன்றத்தால் வழங்கப்பட்டுள்ளது.
+The verdict for two incidents was issued by the Nuwara Eliya High Court Judge Viraj Weerasuriya on Wednesday (14) by the Nuwara Eliya High Court on January 31.
 
-பாடசாலை மாணவி ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினார் என்ற குற்றச்சாட்டப்பட்டிருந்த கொட்டக்கலை பகுதியை சேர்ந்த (43) வயதுடைய பாடசாலை ஆசிரியரை 2 குற்றச்சாட்டுகளில் குற்றவாளியாக இனங்கண்ட நீதிமன்றம் அவருக்கு 17 வருட கடூழிய சிறை தண்டனை விதித்துள்ளது. முதலாவது குற்றச்சாட்டில் இருந்து அவர் விடுதலை செய்யப்பட்டார்.
+The court has sentenced him to 17 years' imprisonment for allegedly accused of sexually abusing a schoolgirl three times.. He was released from the first charge.
+
+He was filed in the Nuwara Eliya High Court in 2019. The court, which has been convicted of investigations for the past five years, has given him the verdict.
+
+The victim should be given a compensation of Rs.. It has also been ordered to pay 25 thousand rupees as penalty. If this is not the case, he should be sentenced to 3 years of postponed six months in prison.
+
+The 35 -year -old man, a 35 -year -old man from Valappanai, was found guilty of allegedly sexually abusing his relative child.
 
 ...
 
 [Data](articles/ca078980.json)
 
+[Extended Data](ext_articles/ca078980.ext.json)
+
 ---
 
-### பூட்டை உடைத்த 2 தேரர்களுக்கும் விளக்கமறியல்
+### Explanation for the 2 Thera who broke the lock
 
 *2024-02-15 03:44:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூட்டை-உடைத்த-2-தேரர்களுக்கும்-விளக்கமறியல்/175-333230) · `ta`
 
-பல கோடி ரூபாய் பெறுமதியான, பம்பலப்பிட்டி ஃபரிட் பிளேஸில் உள்ள பழைய இரண்டுமாடிகளைக் கொண்ட வீட்டுக்கு போடப்பட்டிருந்த பூட்டை உடைத்துக்கொண்டு, சட்டவிரோதமான முறையில், உள்நுழைந்தனர் என்றக் குற்றச்சாட்டின் கீழ், கைது செய்யப்பட்ட பௌத்த தேரர்கள் இருவரும் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Both Buddhist Theri have been kept in interrogation on charges of illegally logging in a lock that had been placed on the old two -dimensional house in the Bambalapitiya Farit Place, worth several crores of rupees.
 
-பம்பலப்பிட்டி பொலிஸாரால் கைது செய்யப்பட்ட இவ்விருவரும், கொழும்பு மேலதிக நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டனர். இதன்போதே, மேலதிக நீதவான் பண்டார இளங்கசிங்க, அவ்விருவரையும் எதிர்வரும் 19ஆம் திகதி வரையிலும் விளக்கமறியலில் வைக்குமாறு உத்தரவிட்டார்.
+The two were arrested by the Bambalapitiya Police and produced before the Colombo Additional Magistrate's Court. Meanwhile, Additional Magistrate Bandara Ilangasinghe ordered the two to be kept in remand until the 19th.
 
-இந்த தேரரர்களில் ஒருவர், வயது குறைந்தவர் என்பதனால், அவரை நன்னடத்தை நிலையத்தில் தடுத்துவைக்குமாறும் மேலதிக நீதவான் உத்தரவிட்டார்.
+The Additional Magistrate also ordered that one of these Thera be detained at the ethnicity station because he was old.
 
-மாலபே பிரதேசத்தில் உள்ள விஹாரையைச் சேர்ந்த தேரர்கள் இருவரே இவ்வாறு கைது செய்யப்பட்டு, நீதிமன்ற உத்தரவின் பேரில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Two of the Vihara Thera in the Malabe area have been arrested and placed on a court order.
+
+The woman who was allegedly owned by the house, who was allegedly owned by the house, had been forcibly staying in the house, breaking the lock of her house and forcibly staying in the house.
 
 ...
 
 [Data](articles/36bb5bf9.json)
+
+[Extended Data](ext_articles/36bb5bf9.ext.json)
 
 ---
 
@@ -102,19 +116,21 @@ However, she did declined to elaborate to a question raised by journalists on th
 
 ---
 
-### விமானப் படையினரும் களத்தில் குதித்தனர்
+### Air soldiers also jumped on the field
 
 *2024-02-15 03:06:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானப்-படையினரும்-களத்தில்-குதித்தனர்/175-333229) · `ta`
 
-நாடளாவிய ரீதியில் இரண்டாவது நாளாகவும் புதன்கிழமை (14),  மேற்கொள்ளப்பட்ட சுகாதார பணியாளர்களின் பணி பகிஷ்கரிப்பு போராட்டம் யாழ்ப்பாணம் போதனா வைத்தியசாலையிலும் இடம்பெற்றது.
+The second day of the country was held on Wednesday (14) at the Jaffna Teaching Hospital in Jaffna.
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் இலங்கை விமானப்படையினர், நோயாளர் உதவிப் பணிகளுக்காக கடமையில் ஈடுபட்டனர்.
+The Sri Lankan Air Force at the Jaffna Teaching Hospital was on duty for patient assistance.
 
-72 சுகாதார தொழிற்சங்கங்களைச் சேர்ந்த  ஊழியர்கள் செவ்வாய்க்கிழமை (13) காலை 6.30 முதல் தொடர் பணிப்பகிஷ்கரிப்பில் ஈடுபட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that employees of 72 health trade unions have been involved in a series of workshops from 6.30 am on Tuesday (13).
 
 ◼️
 
 [Data](articles/e25dafbc.json)
+
+[Extended Data](ext_articles/e25dafbc.ext.json)
 
 ---
 

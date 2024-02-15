@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 08:33:04**
+As of **2024-02-15 08:51:22**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 1,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,126 (99.9%) of 7,134 articles have been extended.
+7,134 (100.0%) of 7,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
 
-### වෙඩිල්ලක් පත්තු වී පුද්ගලයෙකු ජීවිතක්ෂයට
+### Man dies and killed
 
 *2024-02-15 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193401) · `si`
 
-ඊයේ (14) උදෑසන කාලයේ මුලතිව් පොලිස් වසමේ තන්නිමුරුප්පු කැලෑබද ප්‍රදේශයක දී වෙඩිල්ලක් පත්තු වීමෙන් පුද්ගලයෙකු ජීවිතක්ෂයට පත් ව තිබේ.
+A person has been killed when a shot in the Mullaitivu police Division in the Mullaitivu Police Division in the Mullaitivu police division.
 
-මරණකරු, සිය පුත්‍රයා සහ තවත් පුද්ගලයන් තිදෙනෙකු සමඟ තන්නිමුරුප්පු ප්‍රදේශයේ වෙල්‍ යායක පිහිටි පැලක රැඳී සිටිමින් කෑලෑව තුළ පැණි එකතු කිරීම සිදු කර ඇත.
+The deceased, with his Son and three other people, was collecting honey in a platewater in the Teslewa.
 
-එහි දී ඔවුන් සිටි පැලේ තිබූ ගිනි මැලයකට ඔවුන් රැගෙන ගිය ගිනි අවිය වැටී එය ක්‍රියාත්මක වී තිබේ.
+There he fell into a firearm where they had been taken to a firearm in the plane.
 
-පත්තු වූ වෙඩිල්ල මරණකරුට එල්ල වී ඔහු තුවාල ලබා ඇති අතර, රෝහල්ගත කිරීමට රැගෙන යාමේ දී ජීවිතක්ෂයට පත් ව ඇත.
+He was injured in the victim of the lawn shot and he was injured in hospitalization.
 
 ◼️
 
 [Data](articles/ee4b0516.json)
+
+[Extended Data](ext_articles/ee4b0516.ext.json)
 
 ---
 
@@ -156,25 +158,27 @@ The event, which was expected to attend more than the Ansilion, was eventually a
 
 ---
 
-### පක්ෂ නායකත්වය ගැන චන්ද්‍රිකාගෙන් විශේෂ නිවේදනයක්
+### Chandrika a special announcement of party leadership
 
 *2024-02-15 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193400) · `si`
 
-පොදුජන එක්සත් පෙරමුණේ නායකත්ව මණ්ඩලයේ නායකත්වය භාරගැනීමට මෙතෙක් කිසිදු තීරණයක් ගෙන නොමැති බව හිටපු ජනාධිපති චන්ද්‍රිකා බණ්ඩාරනායක කුමාරනතුංග මහත්මිය පවසන්නීය.
+Former President Chandrika Bandaranaike Kumaratunga says that no decision has been taken to take over the leadership of the Leadership Council of the National Leadership Council.
 
-නිවේදනයක් නිකුත් කරමින් ඇය පෙන්වාදෙන්නේ, ඉදිරි ජනාධිපතිවරණය සඳහා කිසිදු අපේක්ෂකයෙකුට සහාය ලබාදීමට මෙතෙක් තීරණය කර නොමැති බවය.
+In a statement, she pointed out that no candidate has yet to support any candidate for the next presidential election.
 
-විවිධ ජනපති අපේක්ෂකවරුන්ට ජනාධිපතිවරණයේ දී සහාය ලබාදීමට තීරණය කර ඇති බවට ජනමාධ්‍යවල පවතින වාර්තා සම්පුර්ණයෙන්ම අසත්‍යය බව සිය නිවේදනය මඟින් චන්ද්‍රිකා බණ්ඩාරනායක කුමාරනතුංග මහත්මිය දැනුම් දී තිබේ.
+Chandrika Bandaranaike Kumarannatunga has been instructed by his statement that the members of the media has decided to support various presidential election.
 
-චන්ද්‍රිකා බණ්ඩාරනායක කුමාරනතුංග මහත්මිය නිකුත් කළ සම්පූර්ණ නිවේදනය පහතින් දැක්වේ.
+Following is the full announcement issued by Chandrika Bandaranaike Kumaranattenda.
 
-මේ අතර මැතිවරණ නියමිත දිනයන්හි දී පැවැත්වීමට ආණ්ඩුව කටයුතු කළ යුතු බව පාර්ලිමේන්තු මන්ත්‍රී ඉමිතියාස් බාකිර් මාකර් මහතා සඳහන් කළේය.
+Meanwhile, MP Emmitias Bakeher Makar said that the government should hold elections on the due date.
 
-ඉදිරි ජනාධිපතිවරණය සඳහා තරග කිරීමට සිය පක්ෂයෙන් අපේක්ෂකයෙකු ඉදිරිපත් නොවනු ඇති බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ප්‍රසන්න රණතුංග මහතා පැවසුවේය.
+The Sri Lanka General Mannel Prasanna Ranatunga said that a candidate would not be offered to contest for the next presidential election.
 
 ◼️
 
 [Data](articles/3477dd9d.json)
+
+[Extended Data](ext_articles/3477dd9d.ext.json)
 
 ---
 
@@ -202,75 +206,85 @@ The decision by the former Minister of Health was criticized for its lack of val
 
 ---
 
-### කෑගල්ලේ රිලා කරදරේට රාජ්‍ය ඇමතිගෙන් විසඳුමක්
+### State Minister solution to Kegalle trouble
 
 *2024-02-15 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193399) · `si`
 
-රිලවුන්ගේ ගොවිතැනට සිදුවන හානී අවම කිරීම සඳහා කෑගල්ල දිස්ත්‍රික්කයේ  ලියාපදිංචි ගොවි සංවිධාන වෙත සිය විමධ්‍යගත අරමුදලින් වායු රයිෆල ලබාදීමට පියවර ගන්නා බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Ranjith Siyambalapitiya says that steps will be taken to provide air rifles from its decentralized fund from the Kegalle district to reduce the damage to Rhilavan's farming.
 
-ඔහු පවසන්නේ රිලවුන්ගෙන් සිදුවන හානී හේතුවෙන් ගොවි ජනතාවට සිය වගා කටයුතු පවත්වාගෙන යාම දූෂ්කර වී ඇති බවය.
+He says that due to the harm caused by Rilaron, he is dushed to maintain its cultivation.
 
-කෑගල්ල ප්‍රදේශයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා මේ බව සඳහන් කළේය.
+He was speaking to the media in the Kegalle area.
 
 ◼️
 
 [Data](articles/df1d959b.json)
 
+[Extended Data](ext_articles/df1d959b.ext.json)
+
 ---
 
-### අස්වැසුම දෙවන අදියරට අයදුම්පත් භාරගැනීම අද සිට
+### Towards the second stage of accepting applications from today
 
 *2024-02-15 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193398) · `si`
 
-අස්වැසුම දෙවන අදියර සඳහා ඉල්ලුම්පත් භාර ගැනීමේ කටයුතු අද (15) සිට ආරම්භ කරන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+State Minister Shehan Semasinghe says that the acceptance of applications for the second phase of the revenue will commence today (15).
 
-මාසයක කාලයක් එම අයදුම්පත්‍ර භාරගැනීමට අපේක්ෂා කරන බව රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+The applications are expected to be accepted for a month, the State Minister said.
 
-දෙවන අදියර යටතේ පවුල් ලක්ෂ 04කට පමණ අස්වැසුම ලබාදීමට කටයුතු කරන බව "අද දෙරණ" කළ විමසීමකට පිළිතුරු දෙමින් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසුවේය.
+State Minister Shehan Semasinghe said that he was responding to 'Ada Derana that it would be given to the Ada Derana that the 2 million families will be reformed under the second phase.
 
-අස්වැසුම අයදුම්පත් ඉල්ලුම් කිරීම සම්බන්ධයෙන් ද ශෙහාන් සේමසිංහ රාජ්‍ය අමාත්‍යවරයා මෙසේ පැහැදිලි කළේය.
+The State Minister also explained:
 
-"අයදුම්පත්‍ර ඉල්ලුම් කිරීමට බලාපොරොත්තු වෙන සියලුදෙනාටම මාර්ගගත ක්‍රමය ඔස්සේ ඉල්ලුම් කළ හැකියි. ඊට අමතරව ප්‍රාදේශීය ලේකම් කාර්යාලවල ඇති විශේෂ ඒකකවලටත් ලබාදිය හැකියි. අපි බලාපොරොත්තු වෙනවා මාසයක කාලයක් අස්වැසුම අයදුම්පත්‍ර කැඳවීමට. පළමු වටයේ ලක්ෂ 20ක් සඳහා අස්වැසුම ලබාදුන්නා. දෙවැනි වටයේ දී එය ලක්ෂ 24ක් දක්වා ඉහළ නැංවීමට බලාපොරොත්තු වෙනවා. ජූලි මාසයේ දී සහතික කරලා ඔවුන්ට අවශ්‍ය සුබසාධන දීමනා ලබාදීමට බලාපොරොත්තු වෙනවා. සමස්තයක් ලෙස මේ වසර තුළ රු බි 205ක මුදලක් රජය විසින් සුබ සාධනය සඳහා වැය කිරීමට බලාපොරොත්තු වෙනවා."
+"All who wish to apply for applications can apply through online system. In addition, special units available at Divisional Secretariats can also be provided. We hope to call for the relief applications for a month. The first round was saved for 20 lakhs. Looking forward to up to 24 lakhs in the second round. Hope to ensure the welfare allowances they need in July. Overall, the government is expecting a sum of Rs.
 
 ◼️
 
 [Data](articles/0e216d41.json)
 
+[Extended Data](ext_articles/0e216d41.ext.json)
+
 ---
 
-### වසරක් තුළ ළමා අපයෝජන සම්බන්ධ පැමිණිලි 10,000ක්
+### 10,000 complaints related to child abuse
 
 *2024-02-15 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193397) · `si`
 
-ළමා අපයෝජන සිද්ධීන් සම්බන්ධයෙන් පැමිණිලි 10,000කට ආසන්න සංඛ්‍යාවක් පසුගිය වසරේ දී ජාතික ළමා ආරක්ෂක අධිකාරිය වෙත ලැබී තිබේ.
+Nearly 10,000 complaints have been received by the National Child Protection Authority regarding child abuse incidents.
 
-එහි සභාපති ජ්‍යෙෂ්ඨ කථිකාචාර්ය උදය කුමාර අමරසිංහ මහතා පැවසුවේ, පසුගිය වසරේ ජනවාරි පළමු දින සිට දෙසැම්බර් 31 දක්වා කාලය තුළ ළමා ආරක්ෂක අධිකාරිය වෙත පැමිණිලි 9,434ක් ලැබී ඇති බවය.
+The Chairman of the Senior Lecturer, Udaya Kumara Amarasinghe, said that 9,434 complaints have been received from January 1 to December 31, last year.
 
-ළමයින් ක්‍රෑරත්වයට භාජනය කිරීම සම්බන්ධයෙන් පැමිණිලි 2,242, ලිංගික අතවරයට ලක් කිරීම් සම්බන්ධ පැමිණිලි 472ක්, බරපතළ ලිංගික අතවර කිරීම් සම්බන්ධයෙන් පැමිණිලි 404ක්, ගැහැනු ළමුන් දූෂණය කිරීම් සම්බන්ධ පැමිණිලි 51ක් සහ  අසභ්‍ය පළ කිරීම්වලට ළමුන් යොදා ගැනීම් සම්බන්ධ පැමිණිලි 06ක් ඒ අතර වන බව සඳහන්ය.
+Of the 2,242 complaints of sexual abuse of children, 64 complaints of sexual abuse, 64 complaints of sexual abuse, 61 complaints of raping of girls and children were taken to the use of children.
 
-ඊට අමතරව මත්ද්‍රව්‍ය ප්‍රවාහනය සඳහා ළමුන් යොදා ගැනීම, ශ්‍රමිකයින් ලෙස යොදා ගැනීම්, ගෘහස්ථ හිංසනය මඟින් පීඩාවට පත් කිරීම්, නොසලකා හැරීම, පැහැරගෙන යාම, තුවාල සිදුකිරීම, ළමුන් අලෙවිකිරීම, පාසල් අධ්‍යාපනය ලබානොදීම සම්බන්ධයෙන් පැමිණිලි ලැබී ඇති බව උදය කුමාර අමරසිංහ මහතා පැවසුවේය.
+In addition, the use of children, dysfunction, marketing, marketing, marketing, marketing, marketing, marketing, marketing, marketing, has been received by domestic violence, has received complaints.
 
-2022 වසරේ දී  ළමා අපයෝජන සම්බන්ධයෙන් ජාතික ළමා ආරක්ෂක අධිකාරිය වෙත පැමිණිලි 7,466ක් ලැබී තිබිණි.
+In 2022, the National Child Protection Authority received 7,466 complaints regarding child abuse.
+
+The Chairman of the National Child Protection, Udaya Kumara Amarasinghe said that the relevant divisions have been forwarded to the relevant divisions to take further action on these child abuse complaints.
 
 ...
 
 [Data](articles/66cb3cc9.json)
 
+[Extended Data](ext_articles/66cb3cc9.ext.json)
+
 ---
 
-### අමෙරිකාවේ වෙඩි තැබීමකින් පුද්ගලයෙකු මරුට
+### Man shot dead in US
 
 *2024-02-15 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193396) · `si`
 
-අමෙරිකාවේ කැන්සාස් නගරයේ සිදු වූ වෙඩි තැබීමකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත් ව තිබේ.
+A person was killed in a shooting in Kansas in Kansas, USA.
 
-එම නගරයේ පැවති සුපර් බෝල් පෙළපාලි උත්සවයක දී වෙඩිතැබීම සිදු ව ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+Foreign media reports that the shooting of a Super Bowl parade in that city has taken place.
 
-කෙසේ වෙතත් ප්‍රහාරයේ වගකීම මෙතෙක් කිසිදු සංවිධානයක් විසින් භාරගෙන නොමැති බව සඳහන් ය.
+However, no organization has been taken responsible for the attack.
 
 ◼️
 
 [Data](articles/2bac5695.json)
+
+[Extended Data](ext_articles/2bac5695.ext.json)
 
 ---
 
@@ -296,17 +310,19 @@ Kansas City fire department chief Ross Grundyson told a press conference that ma
 
 ---
 
-### කුඩු සලිඳුගේ ප්‍රධාන ගෝලයා ශ්‍රී ලංකාවට රැගෙන එයි
+### Kudu Seygoda's main goal is brought to Sri Lanka
 
 *2024-02-15 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193394) · `si`
 
-පාතාල නායක සලිඳු මල්ෂික හෙවත් කුඩු සලිඳුගේ ප්‍රධාන ගෝලයා ශ්‍රී ලංකාවට රැගෙනවිත් තිබේ.
+Underworld leader Squady Wildlife Squady has been brought to Sri Lanka Sri Lanka.
 
-පියුම් හස්තික නමැති සැකකරු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ කණ්ඩායමක් විසින් අද (15) අලුයම ඩුබායි සිට ශ්‍රී ලංකාවට රැගෙන ආ බව වාර්තා වේ.
+It is reported that a special team of the Criminal Investigation Department (CID) was brought to Sri Lanka from Dubai this morning (15).
 
 ◼️
 
 [Data](articles/6a64e08c.json)
+
+[Extended Data](ext_articles/6a64e08c.ext.json)
 
 ---
 
@@ -324,21 +340,23 @@ Piyum Hasthika alias ‘Piyuma’, the main accomplice of underworld figure Sali
 
 ---
 
-### අදත් ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-02-15 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193393) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ, නුවරඑළිය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+Several spells of showers in Polonnaruwa, Matale, Nuwara Eliya and Hambantota districts, East and Uva provinces.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසු ස්ථාන ස්වල්පයක  වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේය.
+At the Galle and Matara Districts in the Western, Sabaragamuwa and North Western Provinces. The Department of Meteorology announced that showers could occur at several places shortly after 2.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40 පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+Northern, North-Central, North Western, Uva and Eastern Provinces. Strong winds can occur at about 30-40 times.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/60b17f43.json)
+
+[Extended Data](ext_articles/60b17f43.ext.json)
 
 ---
 

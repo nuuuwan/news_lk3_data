@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 07:16:10**
+As of **2024-02-15 07:31:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,108 (100.0%) of 7,110 articles have been extended.
+7,110 (100.0%) of 7,110 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Kansas City fire department chief Ross Grundyson told a press conference that ma
 ...
 
 [Data](articles/3231ca8e.json)
+
+[Extended Data](ext_articles/3231ca8e.ext.json)
 
 ---
 
@@ -83,6 +85,8 @@ The CID officers later returned to Sri Lanka with the notorious drug dealers on 
 ◼️
 
 [Data](articles/10d92ef2.json)
+
+[Extended Data](ext_articles/10d92ef2.ext.json)
 
 ---
 

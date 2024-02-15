@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 19:32:49**
+As of **2024-02-15 19:50:07**
 
 ## Newspaper Stats
 
-*Scraped **7,299** Articles*
+*Scraped **7,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,96 @@ bbccomsinhala | 96
 dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 376
-economynextcom | 384
+economynextcom | 386
 dailyftlk | 389
-adalk | 625
-tamilmirrorlk | 893
+adalk | 627
 adaderanalk | 894
+tamilmirrorlk | 895
 virakesarilk | 952
-adaderanasinhalalk | 1,028
+adaderanasinhalalk | 1,031
 dailymirrorlk | 1,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,297 (100.0%) of 7,299 articles have been extended.
+7,299 (99.9%) of 7,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### මිද්දෙණියේ කෝටිපතියෙක් CID අත්අඩංගුවට
+
+*2024-02-15 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193430) · `si`
+
+නීතිවිරෝධීව වත්කම් උපයා ගත් බවට සැකපිට මිද්දෙණිය මීගස්ආර ප්‍රදේශයේ පදිංචිකරුවෙකු ඊයේ (14) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ විමර්ශන අංක 01හි නිලධාරීන් පිරිසක් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඔහු සන්තකයේ තිබූ රුපියල් කෝටි තුනක් පමණ වටිනා මෝටර් රථ 02 ක්, මීගස්ආර ප්‍රදේශයේ සැකකරු විසින් ඉදිකොට ඇති වායු සමීකරණය කරන ලද තෙමහල් නිවසක් සහ මිද්දෙණිය නගරයේ ඇති දෙමහල් ගොඩනැගිල්ලක් එහිදී නිලධාරීන් විසින් සිය භාරයට ගෙන ඇත.
+
+පොලීසිය සඳහන් කරන්නේ වසර දහයක පමණ කාලයක සිට සැකකරු තණමල්විල ප්‍රදේශයේ කංසා වගා කරමින් ඒවා බෙදාහැරීමේ ජාවාරමක යෙදී ඇති බවය.
+
+ඉන් උපයා ගත් මුදලින් පොලිස් භාරයට ගත් දේපළ උපයාගන්නට ඇතැයි පොලිසිය සැක කරයි.
+
+සැකකරුට අයත් බව සැලකෙන වත්කම්වල වටිනාකම රුපියල් කෝටි 12ක් පමණ වන බවද පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/1894efde.json)
+
+---
+
+### ONMAXDT ලොක්කන්ට අධිකරණය ඉදිරිපිටදී ලොකු විරෝධයක්
+
+*2024-02-15 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193429) · `si`
+
+නීති විරෝධී පිරමීඩාකාර ගනුදෙනු සිදුකර තැන්පත්කරුවන්ගේ මුදල් වංචා කළ බවට චෝදනා ලත් ONMAXDT පෞද්ගලික සමාගමේ අධ්‍යක්ෂවරයෙකු ඇප ලබාගැනීමෙන් පසු රහසිගතව විදේශගතව ඇති බවට විමර්ශන නිලධාරීන් අද අධිකරණයට කරුණු වාර්තා කළේය.
+
+ඒ අදාළ සමාගමට එරෙහි නීති කෘත්‍ය අද කොළඹ මහේස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදීය.
+
+නඩුවේ 6වන සැකකරු වන ONMAXDT පෞද්ගලික සමාගමේ අධ්‍යක්ෂවරයෙකු වන ධනංජය ජයාන් චාමර නැමැත්තා ඇප ලබාගැනීමෙන් පසුව මෙලෙස  රහසිගතව විදේශ ගතව ඇති බවත් ඔහු පිළිබඳ තොරතුරු සෙවීම සඳහා ජාත්‍යන්තර පොලිසියේ සහාය ඇතිව විමර්ශන ආරම්භ කර ඇති බවත් විමර්ශන නිලධාරීන් පෙන්වාදී තිබේ.
+
+මේ අතර ONMAXDT ගනුදෙනුකරුවන් අද (15) අධිකරණය ඉදිරිපිට නිහඬ විරෝධතාවක නිරත වෙමින් සිටියේය.
+
+චෝදනා ලත් අධ්‍යක්ෂවරුන් අධිකරණයෙන් පිටව යද්දී ගනුදෙනුකරුවන් පැමිණ ඔවුන් ගමන්කරමින් තිබූ මෝටර් රථයේ මග හරස් කර විරෝධය පළකළේය.
+
+නීතිවිරෝධී පිරමීඩාකාර ගනුදෙනු සිදුකර තැම්පත්කරුවන්ගෙන් මුදල් වංචා කළ බවට චෝදනා ලත් ONMAXDT පෞද්ගලික සමාගමේ අධ්‍යක්ෂවරුන් 6 දෙනෙකුට එරෙහි නඩුව අද කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+...
+
+[Data](articles/8ccb86ef.json)
+
+---
+
+### Global growth shifts to Asia, Sri Lanka an attractive center: JICA president
+
+*2024-02-15 19:00:00* · [`economynextcom`](https://economynext.com/global-growth-shifts-to-asia-sri-lanka-an-attractive-center-jica-president-151105/) · `en`
+
+ECONOMYNEXT – Sri Lanka is an attractive center for economic growth, and the Japan International Cooperation Agency (JICA) will continue to partner in the country’s progress, JICA President Tanaka Akihiko has said.
+
+“Global growth has shifted to the Asia Pacific region and Sri Lanka is an attractive center of global economic growth,” he said, adding that JICA will continue to be a partner in the country’s progress, according to a statement by the Department of Government Information.
+
+“JICA continues to support Sri Lanka’s development and reform agenda,” Akihito was quoted as saying when he met Sri Lanka’s Prime Minister Dinesh Gunwardena.
+
+JICA will be funding a renewable energy program which includes the establishment of solar energy units in Sri Lanka’s hospitals, Minister Bandula Gunawardena said last week.
+
+...
+
+[Data](articles/466b69db.json)
+
+---
+
+### ලංවිම රු. කෝටි 112ක් පාරිභෝගියන්ට ගෙවලා
+
+*2024-02-15 18:58:33* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-රු--කෝටි-112ක්-පාරිභෝගියන්ට-ගෙවලා/11-408111) · `si`
+
+2023 වර්ෂයේ දී ලංකා විදුලිබල මණ්ඩලය විසින් නව විදුලි සැපයුමක් ලබාදීමේදී අයකර ගනු ලබන පාරිභෝගික තැන්පතු මුදල වෙනුවෙන් රුපියල් කෝටි 112 කට ආසන්න මුදලක් පොලී ලෙස ගෙවා ඇති බව ලංකා විදුලි බල මණ්ඩලයට නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/ac3cebed.json)
+
+---
 
 ### JICA to resume construction of second terminal of Katunayake airport
 
@@ -45,6 +117,70 @@ The discussion was about the resumption of the construction of this second termi
 ...
 
 [Data](articles/5aa4a9f0.json)
+
+[Extended Data](ext_articles/5aa4a9f0.ext.json)
+
+---
+
+### ”டிக்கெட் வாங்க யாரும் வர வேண்டாம்”
+
+*2024-02-15 18:42:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்கெட்-வாங்க-யாரும்-வர-வேண்டாம்/175-333282) · `ta`
+
+ரங்கிரி தம்புள்ளை சர்வதேச கிரிக்கெட் மைதானத்தில் சனிக்கிழமை (17) நடைபெறவுள்ள முதல் டி20 போட்டிக்கான டிக்கெட்டுகள் விற்றுத் தீர்ந்துவிட்டன.
+
+முதல் டி20 போட்டிக்கான போட்டி டிக்கெட்டுகளை கோரி கருமபீடங்களுக்கு செல்ல வேண்டாம் என இலங்கை கிரிக்கெட் பொதுமக்களுக்கு அறிவுறுத்தியுள்ளது.
+
+இதற்கிடையில், முதல் டி20 போட்டிக்கான டிக்கெட்டுகளை வாங்க கிரிக்கெட் ரசிகர்கள் அதிக அளவில் குவிந்துள்ளனர்.
+
+ஐந்து வருடங்களின் பின்னர் தம்புள்ளையில் இடம்பெறும் போட்டியை காணும் சந்தர்ப்பம் இதுவே முதல் தடவை என ரசிகர்கள் தெரிவித்துள்ளனர்.
+
+இலங்கை மற்றும் ஆப்கானிஸ்தான் டி20 போட்டிகள் பிப்ரவரி 17, 19, 21 ஆகிய திகதிகளில் தம்புள்ளை மைதானத்தில் நடைபெற உள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/09166873.json)
+
+---
+
+### පොලිස් නිලධාරීන් තිදෙනෙකු පුරවැසියෙකු ඉදිරියේ දණ ගසා සමාව ගනී
+
+*2024-02-15 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193428) · `si`
+
+පොලිස් නිලධාරීන් තිදෙනෙකු සාමාන්‍ය පුරවැසියෙකු ඉදිරියේ දණ ගසා සමාව ඉල්ලූ පුවතක් අධිකරණයෙන් වාර්තාවෙයි.
+
+මෙලෙස සමාව ගෙන ඇත්තේ වයස අවුරුදු 81ක් වයසැති ගොඩ්වින් පෙරේරා නමැති ජ්‍යේෂ්ඨ පුරවැසියෙකුගෙනි.
+
+එලෙස පොලිස් නිලධාරීන් තිදෙනා සමාව ගෙන ඇත්තේ විජිත් කේ මලල්ගොඩ, අචල වෙංගප්පුලි සහ අර්ජුන ඔබේසේකර යන විනිසුරු මඩුල්ල ඉදිරියේදී පෙත්සම්කරු සහ වගඋත්තරකාර පොලිස් නිලධාරීන් අතර ඇතිවූ සමතයක් අනුවය.
+
+2017 වසරේදී ගොඩ්වින් පෙරේරා මහතා කොළඹ පෞද්ගලික රෝහලක් වෙත යමින් සිටියදී මාර්ගයක් අසළ අනතුරකට පත්ව සිටි කම්කරුවෙකු සම්බන්ධයෙන් පොලීසියට දැනුම්දීමක් සිදුකර ඔහුව රෝහල්ගතකිරීමට පියවර ගෙන තිබුණි.
+
+අනතුරුව වගඋත්තරකාර පොලිස් නිලධාරීන් විසින් ගොඩ්වින් පෙරේරා මහතාව රැගෙන ගොස් පොලිස් සිරමැදිරියට දමා ඇති බව පැමිණිල්ලේ සඳහන්ව තිබේ.
+
+එහිදී තමන් විසින් නීතිය ක්‍රියාත්මක කරන්නේ මෙසේදැයි විමසූ බවත් එයට එම නිලධාරීන් අයහපත් ප්‍රතිචාරයක් දැක්වූ බවත් ඒ මහතා සිය පැමිණිල්ලේ වැඩිදුරටත් සඳහන් කර තිබේ.
+
+...
+
+[Data](articles/33c13741.json)
+
+---
+
+### போதை மருந்து விற்ற வைத்தியர் கைது
+
+*2024-02-15 18:35:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மருந்து-விற்ற-வைத்தியர்-கைது/175-333281) · `ta`
+
+போதை மாத்திரைகள் விற்பனையில் ஈடுபட்டதாக சந்தேகத்தின் பேரில் கம்பளை ஜயமலாபுர பகுதியில் எத்கல பொலிஸாரினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது கைது செய்யப்பட்ட பேராதனை சிறுவர் வைத்தியசாலையின் வைத்தியர் பெப்ரவரி 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+கம்பளை பிரதான நீதவான் வாசன நவரத்தன முன்னிலையில் ஆஜர்படுத்தப்பட்ட பின்னர் அவர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+கோனரத்ன முதியன்சேலாகே வர்தன கும்புரேகெதர மத்தும பண்டா வர்தன கும்புர என்ற வைத்தியரான குறித்த சந்தேக நபர் கெலிஓயாவில் உள்ள கரமடை பகுதியைச் சேர்ந்தவர்.
+
+இரவு 11 மணியளவில் ஜயமாலாபுரவிற்கு 1600 மாத்திரைகள் கையிருப்புடன் மோட்டார் காரில் வந்த சந்தேகநபரிடம் மாத்திரைகளை போலியாக கொள்வனவு செய்த உதவியாளர் ஒருவரின் உதவியுடன் சந்தேகநபர் கைது செய்யப்பட்டதாக எத்கல பொலிஸ் நிலைய பொறுப்பதிகாரி செனரத் கெகுலந்தர நீதிமன்றில் தெரிவித்தார்.
+
+பேராதனை போதனா வைத்தியசாலையில் கடமையாற்றும் சந்தேகநபர் கெலி ஓயாவில் தனியார் மருத்துவ நிலையமொன்றை நடத்தி வந்துள்ளதாக அவர் நீதிமன்றில் அறிவித்துள்ளார்.
+
+...
+
+[Data](articles/60e73970.json)
 
 ---
 
@@ -63,6 +199,30 @@ Dr. Pathirana highlighted the necessity of bolstering the domestic production of
 ...
 
 [Data](articles/bd90a6ee.json)
+
+[Extended Data](ext_articles/bd90a6ee.ext.json)
+
+---
+
+### Israel and Sri Lanka sign direct flights deal
+
+*2024-02-15 18:27:00* · [`economynextcom`](https://economynext.com/israel-and-sri-lanka-sign-direct-flights-deal-151108/) · `en`
+
+ECONOMYNEXT – Sri Lanka has signed a direct air service agreement with Israel, its Ports, Shipping, and Aviation Minister Nimal Siripala de Silva has said.
+
+The agreement’s focus was on preventing delays in Sri Lankan workers’ migration abroad, de Silva said at a press briefing on Thursday (15).
+
+“The agreement, signed between the Israeli Ministry of Transport and our Ministry of Ports, Shipping, and Aviation, marks the beginning of direct flights between Israel and Sri Lanka, aiming to enhance passenger convenience,” de Silva said.
+
+He added that the agreement’s objective was facilitating prompt overseas employment for Sri Lankan workers and noted the interest of many Israelis in visiting Sri Lanka.
+
+Last year Sri Lanka signed a deal to send 10,000 workers to Israel amid an ongoing war.
+
+Sending Sri Lankans to work in Israel is insensitive: Legislator
+
+...
+
+[Data](articles/48021bc4.json)
 
 ---
 
@@ -849,6 +1009,26 @@ The accident is said to have occurred due to high speed. Vaddukoddai police are 
 [Data](articles/e4fa8fcc.json)
 
 [Extended Data](ext_articles/e4fa8fcc.ext.json)
+
+---
+
+### සැහැල්ලු දුම්රිය ව්‍යාපෘතියට ජපානයෙන් කොළ එළියක්
+
+*2024-02-15 15:09:14* · [`adalk`](https://www.ada.lk/breaking_news/සැහැල්ලු-දුම්රිය-ව්‍යාපෘතියට-ජපානයෙන්-කොළ-එළියක්/11-408110) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ජපාන ජාත්‍යන්තර සහයෝගීතා ආයතනයේ (JICA) සභාපති ආචාර්ය අකිහිකෝ මහතා අතර හමුවක් ඊයේ (14) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී සිදුවිය.
+
+නව ආර්ථික ප්‍රතිසංස්කරණ සිදු කිරීම දුෂ්කර ක්‍රියාවලියක් වුවද ශ්‍රී ලංකාවේ ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ කැපවීම මෙහිදී ආචාර්ය ටනකා අකිහිතෝ මහතාගේ ඇගයීමට ලක් විය.
+
+කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළ පුළුල් කිරීමේ ව්‍යාපෘතිය, සැහැල්ලු දුම්රිය ව්‍යාපෘතිය සහ මධ්‍යම අධිවේගී මාර්ගය ඇතුළු ජපාන ආධාර යටතේ මෙරට ක්‍රියාත්මක, දැනට අතරමඟ නැවතී ඇති ව්‍යාපෘති කඩිනමින් නැවත ආරම්භ කිරීමට තම අවධානය යොමුව ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී පැවසීය.
+
+පසුගිය ආර්ථික අර්බුදය හමුවේ ජපාන රජය සහ ජයිකා ආයතනය විසින් ශ්‍රී ලංකාවට ලබාදුන් අඛණ්ඩ සහය වෙනුවෙන් ස්තූතිය පිරිනැමීමට ද ජනාධිපතිවරයා මෙහිදී කටයුතු කළේය.
+
+ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීමේ කටයුතු අවසන් වූ පසු දැනට අත්හිටුවා ඇති ව්‍යාපෘති නැවත ආරම්භ කිරීමට ජයිකා ආයතනය සූදානමින් සිටින බව ආචාර්ය අකිහිතෝ මහතා මෙහිදී වැඩිදුරටත් සඳහන් කළේය.
+
+...
+
+[Data](articles/82d974b9.json)
 
 ---
 
@@ -1863,195 +2043,5 @@ Accordingly, the third term for 2023 will be completed tomorrow.
 [Data](articles/508ccdd4.json)
 
 [Extended Data](ext_articles/508ccdd4.ext.json)
-
----
-
-### 2023 ends the third installment
-
-*2024-02-15 11:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2023-மூன்றாம்-தவணை-முடிவடைகிறது/175-333252) · `ta`
-
-The Ministry of Education has announced that the third term of 2023 of state and state -approved private schools will be completed with the Valli (16).
-
-Accordingly, the first installment of 2024 will begin on Monday 19th February.
-
-◼️
-
-[Data](articles/acbce539.json)
-
-[Extended Data](ext_articles/acbce539.ext.json)
-
----
-
-### A number of records from the giant wishes
-
-*2024-02-15 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193412) · `si`
-
-Sri Lanka-Afghanistan ODI series yesterday ended yesterday (14), whitewash.
-
-It is no secret that this achievement of Sri Lanka after many years, Sri Lanka was a great relief to Len.
-
-However, the best batting of the wishes of the ODIs was the most talked about.
-
-In addition to an extraordinary, the skills of other batsmen were very great.
-
-However, several records were also new in the final tournament, and several reports were identified.
-
-Wishing was able to become the first and only player of the Pallekele International Cricket Stadium to become the first and only player recorded for Sri Lanka.
-
-The world's soil is also the world's world, and the world is only 12 ODI double centuries.
-
-The highest number of marks for Sri Lanka, the highest number of marks were collecting the highest number of marks for Sri Lanka at October 2000.
-
-He collapsed a Sri Lankan report in the name of Sanath Jayasuriya for 23 years.
-
-He scored 210 runs in his innings, and he spent only 136 balls.
-
-...
-
-[Data](articles/53a4489c.json)
-
-[Extended Data](ext_articles/53a4489c.ext.json)
-
----
-
-### Billy for a young man due to high speed
-
-*2024-02-15 11:53:58* · [`adalk`](https://www.ada.lk/breaking_news/අධික-වේගය-නිසා-තරුණයකු--මාරයාට-බිලී/11-408099) · `si`
-
-The motorcyclist was killed in an accident last night, the motorcyclist was unable to control his motorcycle speed.
-
-The deceased has been identified as a 25 year old GMLakmal, a resident of Uggalbada, Uggalbada, Mahawitharaya. It was revealed that the motorcycle was running out of the Uggaldbada road from the Uggaldboda area from the Uggaldboda area in Kalutara North police division.
-
-The motorcyclist who has been injured in the accident has been admitted to Nagoda Hospital. The OIC of the Traffic Inspector Damith Jayatilleka is conducting further investigations.
-
-◼️
-
-[Data](articles/36307a9f.json)
-
-[Extended Data](ext_articles/36307a9f.ext.json)
-
----
-
-### The gift given to the ex -boyfriend on Valentine's Day
-
-*2024-02-15 11:47:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலர்-தினத்தில்-முன்னாள்-காதலனுக்கு-காதலி-கொடுத்த-பரிசு/175-333251) · `ta`
-
-On Valentine's Day, February 14, a woman has been gifted to her ex -love in the south.
-
-Galle police said that the woman called her husband and made her ex -boyfriend naked and cut off both legs.
-
-A young man from Hikkaduwa Kalube has developed a romantic relationship when a young woman from Thottuwa area was studying at Galle Technology College 10 years ago.. They are said to have been in love for some time after graduating from vocational education.
-
-Then the woman married someone else, and her old boyfriend maintained her relationship with her. However, the ex -boyfriend has taken a telephone wave to her. Police say that her husband has later became numerous, while her husband has listened to her former boyfriend's phone calls.
-
-Her husband advised how to stop these calls, and she responded lovingly to her ex -boyfriend's phone call. Okay you come to Tadalla Beach and I come to Tadalla beach and then smashed her feet with Kundantadi. As well as naked.
-
-...
-
-[Data](articles/247d3db8.json)
-
-[Extended Data](ext_articles/247d3db8.ext.json)
-
----
-
-### Customs trade unions launch work-to-rule campaign
-
-*2024-02-15 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97289/customs-trade-unions-launch-work-to-rule-campaign) · `en`
-
-The Sri Lanka Customs Trade Union Alliance has decided to launch a work-to-rule campaign starting today (Feb. 15).
-
-This decision has been arrived at over several demands including solutions to their issues such as stalled promotions and discrepancies in wages.
-
-Accordingly, the Customs Trade Union Alliance has vowed to continue their work-to-rule campaign, which was launched at 9.00 a.m. today, until their demands are met.
-
-◼️
-
-[Data](articles/cc782717.json)
-
-[Extended Data](ext_articles/cc782717.ext.json)
-
----
-
-### Schools third term ends tomorrow
-
-*2024-02-15 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schools-third-term-ends-tomorrow/108-277086) · `en`
-
-The Education Ministry today announced the end of the third term of government and government approved private schools.
-
-Accordingly, the third term for 2023 is scheduled to end tomorrow (16).
-
-The first phase of the first school term for 2024 will begin on Monday (19 February).
-
-◼️
-
-[Data](articles/ab4182dc.json)
-
-[Extended Data](ext_articles/ab4182dc.ext.json)
-
----
-
-### 10 thousand complaints in 2023 regarding child abuse!
-
-*2024-02-15 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/176420) · `ta`
-
-The National Child Protection Authority has received 10 thousand complaints in 2023 regarding child abuse.
-
-Udaya Kumara Amarasinghe, Chairman of the National Child Protection Authority, said in this regard.
-
-From January 1, 2023 to December 31, 9,434 complaints have been received by the National Child Protection Authority.
-
-In particular, 2,242 complaints are related to child abuse. 472 complaints are related to sexual abuse. 404 complaints are related to serious sexual abuse. 51 complaints related to violence on girls. 6 complaints are related to the use of children for pornography.
-
-In addition, there are various complaints about drug trafficking, employment of employment, use of family violence, harassment, boycotting, abduction, injuring, selling children, and not getting school education.
-
-Meanwhile, the National Child Protection Authority has received 7,466 complaints regarding child abuse in 2022.
-
-...
-
-[Data](articles/b0b8973f.json)
-
-[Extended Data](ext_articles/b0b8973f.ext.json)
-
----
-
-### No presidential candidate from SLPP?
-
-*2024-02-15 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97288/no-presidential-candidate-from-slpp) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) MP Prasanna Ranatunga says that no candidate from his party will likely vie for presidency in the upcoming election.
-
-Meanwhile, former President Chandrika Bandaranaike Kumaratunga clarified that she has not taken any decision yet to head the leadership board of Podujana Eksath Peramuna.
-
-Issuing a statement, Kumaratunga also pointed out that she has yet to take a decision on supporting a candidate in the upcoming presidential election.
-
-Furthermore, the former president has refuted the media reports published in this regard.
-
-◼️
-
-[Data](articles/49b54fd8.json)
-
-[Extended Data](ext_articles/49b54fd8.ext.json)
-
----
-
-### Maithri, who met Afrrin Akler
-
-*2024-02-15 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193410) · `si`
-
-Former President Maithripala Sirisena, the Deputy Secretary to the Southern and Central Asian Affairs, has reportedly taken place.
-
-The Sri Lanka Freedom Party (SLFP) has held a long discussion on political conditions and the SLFP has been a successful discussion on the main and bilateral issues.
-
-A number of steps will be implemented within the next few months.
-
-The former President who was engaged in an effective discussion with the Deputy Assistant Secretary of State Department Afrrin Akler expressed his commendation of the generous support of Sri Lanka.
-
-SLFP Foreign Party Foreign Affairs Secretary Sajinda Vaas Gunawardena and Chairman of the SLFP Central Committee and Sri Lanka Institute of Professionals Organized by Dr. Chamila Liyanage.
-
-◼️
-
-[Data](articles/7977c3c9.json)
-
-[Extended Data](ext_articles/7977c3c9.ext.json)
 
 ---

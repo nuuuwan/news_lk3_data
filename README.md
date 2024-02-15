@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 04:02:25**
+As of **2024-02-16 04:17:24**
 
 ## Newspaper Stats
 
-*Scraped **7,345** Articles*
+*Scraped **7,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 376
 economynextcom | 387
 dailyftlk | 389
 adalk | 630
-tamilmirrorlk | 897
+tamilmirrorlk | 898
 adaderanalk | 899
 virakesarilk | 962
 adaderanasinhalalk | 1,037
@@ -26,11 +26,31 @@ dailymirrorlk | 1,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,345 (100.0%) of 7,345 articles have been extended.
+7,345 (100.0%) of 7,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### விவசாயிகளின் பிரச்சினை தொடர்பில் ஜனாதிபதி ஆராய்வு
+
+*2024-02-16 03:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளின்-பிரச்சினை-தொடர்பில்-ஜனாதிபதி-ஆராய்வு/175-333297) · `ta`
+
+மஹா கனதராவ குளத்தை நீராதாரமாக கொண்ட அனுராதபுரம் நீர் வேலைத் திட்டத்தை ஜனாதிபதி ரணில் விக்கிரமசிங்க நேற்று மக்கள் பாவனைக்காக கையளித்தார்.
+
+அத்துடன், அதனை அண்மித்த பகுதிகளில் வசிக்கும் மக்கள் எதிர்கொண்டிருக்கும் பிரச்சினைகள் தொடர்பிலும் ஜனாதிபதி ஆராய்தார்.
+
+இதன்போது விவசாயிகள் ஜனாதிபதியிடம் தங்களது பிரச்சினைகளை நேரடியாக கூறினர். அதற்கு ஜனாதிபதி சாதகமாக பதிலளித்தார்.
+
+வேலைத் திட்டத்திற்கான எதிர்ப்பு தொடர்பில் கவனம் செலுத்திய ஜனாதிபதி, நீர்த்திட்டத்தின் நிர்மாணப் பணிகள் தற்போது நிறைவடைந்துள்ளதால், எதிர்ப்புக்களை கைவிடுமாறும் எதிர்கால நடவடிக்கைகள் குறித்து சிந்துக்குமாறும் கேட்டுக்கொண்டார்.
+
+அது தொடர்பிலான மக்களின் யோசனைகளை இரண்டு வாரங்களுக்குள் பெற்றுத்தருமாறும், அவற்றில் சாதகமான விடயங்களை விரைவில் நடைமுறைப்படுத்த எதிர்பார்க்கிறேன் என்றும் ஜனாதிபதி தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/c0c4f9c5.json)
+
+---
 
 ### Thinking Beyond a Profession and Entering the Market - EDITORIAL
 
@@ -2069,23 +2089,5 @@ Fluo dead body found on a well adjacent to a house in the Kurunegala Police, Kur
 [Data](articles/33da338f.json)
 
 [Extended Data](ext_articles/33da338f.ext.json)
-
----
-
-### An opportunity to remove police powers from the Provincial Council
-
-*2024-02-15 14:25:47* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-සභාවෙන්-පොලිස්-බලතල-ඉවත්-කිරීමට-අවස්ථාවක්/11-408105) · `si`
-
-Leader of the JHU Leader Legal Gammanpila says that the police powers of the Patriotic people in Sri Lanka for 37 years have been reduced to the provincial councils.
-
-The two-day constitutional amendment presented by Udaya Gammanpila has been announced to the removal of police powers from provincial councils.
-
-"The most dangerous force is the most dangerous force from the powers to the Provincial Councils through the 13th Amendment.. Therefore, a long-term dream of the nationalists for 37 years to remove police powers. For the first time in the history of the history, we were able to submit a Bill by the 22nd Constitutional Revision of the 22nd.
-
-...
-
-[Data](articles/459fb2a5.json)
-
-[Extended Data](ext_articles/459fb2a5.ext.json)
 
 ---

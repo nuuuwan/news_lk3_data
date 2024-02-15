@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 19:17:24**
+As of **2024-02-15 19:32:49**
 
 ## Newspaper Stats
 
-*Scraped **7,297** Articles*
+*Scraped **7,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ tamilmirrorlk | 893
 adaderanalk | 894
 virakesarilk | 952
 adaderanasinhalalk | 1,028
-dailymirrorlk | 1,065
+dailymirrorlk | 1,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,297 (100.0%) of 7,297 articles have been extended.
+7,297 (100.0%) of 7,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### JICA to resume construction of second terminal of Katunayake airport
+
+*2024-02-15 18:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/JICA-to-resume-construction-of-second-terminal-of-Katunayake-airport/108-277098) · `en`
+
+Colombo, Feb 15 (Daily Mirror) - Since Sri Lanka's economy is showing growth, the Japan International Cooperation Agency (JICA) said they will support the construction of the second terminal of the Katunayake Airport after the financial restructuring process is implemented by the International Monetary Fund.
+
+The decision was announced during a discussion between Ports, Shipping and Aviation Minister Nimal Siripala de Silva and a group of representatives, including JICA Institute Chairman Akihiko Tanaka at the Ministry.
+
+The discussion was about the resumption of the construction of this second terminal at Katunayake Airport. The construction of the second terminal of the Katunayake Airport was started in 2020 at a cost of Rs. 145 billion under the JICA soft loan scheme, and the project was stopped in 2022 due to the economic recession in the country by March 2022.
+
+...
+
+[Data](articles/5aa4a9f0.json)
+
+---
+
+### Minister calls for domestic medicine production to curtail USD 500 Mn imports
+
+*2024-02-15 18:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-calls-for-domestic-medicine-production-to-curtail-USD-500-Mn-imports/108-277097) · `en`
+
+Colombo, Feb 15 (Daily Mirror) - In a bid to address the substantial financial outlay of over USD 500 million spent annually on importing medicines, Minister of Health and Industry, Dr. Ramesh Pathirana, underscored the need for domestic production.
+
+He said this during a special discussion held with key officials from the Medical Supplies Division, the State Pharmaceutical Corporation and the National Medicines Regulatory Authority.
+
+The discussion, chaired by Dr. Pathirana, delved into critical issues surrounding the regulation, supply and distribution of medicines. Emphasis was placed on the need to streamline tender procedures, ensre the continuous provision of high-quality drugs to hospitals, and optimizing the drug import system.
+
+Dr. Pathirana highlighted the necessity of bolstering the domestic production of medicines as the most viable solution to mitigate the hefty import expenditure.
+
+...
+
+[Data](articles/bd90a6ee.json)
+
+---
 
 ### CPSTL audit exposes data deletion and ‘massive losses’ in stock holding
 
@@ -2019,41 +2053,5 @@ SLFP Foreign Party Foreign Affairs Secretary Sajinda Vaas Gunawardena and Chairm
 [Data](articles/7977c3c9.json)
 
 [Extended Data](ext_articles/7977c3c9.ext.json)
-
----
-
-### Maithripala met Deputy Assistant Secretary of the US State Department!
-
-*2024-02-15 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176426) · `ta`
-
-A meeting between former President Maithripala Sirisena and Deputy Assistant Secretary of State for South and Central Asian Affairs of the US State Department, Afrin Akhtar, took place yesterday (14) at the US State Department.
-
-A long discussion was held on the political situation of Sri Lanka and the coalition and bilateral issues formed by the Sri Lanka Freedom Party.
-
-Former President Maithripala Sirisena expressed his congratulations to Sri Lanka's support.
-
-◼️
-
-[Data](articles/423e88c0.json)
-
-[Extended Data](ext_articles/423e88c0.ext.json)
-
----
-
-### Maithripala Sirisena meets key US official in Washington DC
-
-*2024-02-15 11:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-Sirisena-meets-key-US-official-in-Washington-DC/108-277085) · `en`
-
-USA, Feb 15 (Daily Mirror) Former President Maithripala Sirisena who is on a visit to the United States held talks with US Deputy Assistant Secretary of State at the State Department Afreen Akhter.
-
-The visit took place ahead of a political alliance to be formed by his Sri Lanka Freedom Party prior to the Presidential election.
-
-According to Sirisena's office, matters relating to bilateral affairs were discussed.
-
-◼️
-
-[Data](articles/516757fe.json)
-
-[Extended Data](ext_articles/516757fe.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 17:33:13**
+As of **2024-02-15 17:53:11**
 
 ## Newspaper Stats
 
-*Scraped **7,268** Articles*
+*Scraped **7,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,43 @@ dailyftlk | 389
 adalk | 623
 adaderanalk | 892
 tamilmirrorlk | 893
-virakesarilk | 947
+virakesarilk | 950
 adaderanasinhalalk | 1,023
-dailymirrorlk | 1,061
+dailymirrorlk | 1,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,266 (100.0%) of 7,268 articles have been extended.
+7,275 (100.0%) of 7,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### Doctor remanded for selling narcotic tablets
+
+*2024-02-15 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Doctor-remanded-for-selling-narcotic-tablets/108-277096) · `en`
+
+Gampola, Feb 15 (Daily Mirror) -  A doctor of the Peradeniya Children’s Hospital who was arrested by the Ethgala police during a raid in Jayamalapura, Gampola on suspicion being involved in the selling of intoxicant tablets, was remanded till February 19.
+
+He was remanded after being produced before Gampola Chief Magistrate Wasana Navartne.
+
+The suspect Dr. Konaratne Mudiyanselage Wardana Kumburegedara Madduma Banda Wardana Kumbura is a resident of Karamada in Gelioya.
+
+OIC Ethgala Police Senerat Kekulandara told court that the suspect was arrested with the help of a decoy who purchased tablets from the suspect who arrived by motorcar, with a stock of 1,600 tablets to Jayamalapura at about 11pm.
+
+He informed court that the suspect attached to the Peradeniya Teaching Hospital had been running a private medical centre in Gelioya.
+
+However, the lawyers appearing for the suspect submitted that he had kept the stock of tablets in his custody to protect them from drug addicts and thieves.
+
+◼️
+
+[Data](articles/c8335fc4.json)
+
+[Extended Data](ext_articles/c8335fc4.ext.json)
+
+---
 
 ### Sri Lanka’s LGBTIQ+ community representatives meet Speaker
 
@@ -48,6 +72,74 @@ Meet by NextGenSL, an all-party youth organization assisted in organizing this m
 
 [Data](articles/5ec3d845.json)
 
+[Extended Data](ext_articles/5ec3d845.ext.json)
+
+---
+
+### A 19 -year -old female cashier arrested for allegedly defrauding 4.5 million rupees in a private company
+
+*2024-02-15 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176468) · `ta`
+
+A 19 -year -old woman who allegedly defrauded 4.5 million rupees while working in a private company has been arrested by the Kalutara Special Fraud Investigation Division.
+
+The suspect has been arrested on a complaint lodged by a private company owner in Ambapitiyagama, Beruwala.
+
+Investigations have revealed that the fraud took place from 2023.06.09 to 2024.02.06.
+
+◼️
+
+[Data](articles/621dcf86.json)
+
+[Extended Data](ext_articles/621dcf86.ext.json)
+
+---
+
+### Israeli soldiers at Nazer Hospital in Connequin - Hamas
+
+*2024-02-15 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176467) · `ta`
+
+The Israeli military has revealed that Hamas has been detained at Nazer Hospital in Tenkasa.
+
+It has been reported that the Israeli army, which has forcibly evicted patients from the hospital, has demolished parts of the building using the Bulldozers.
+
+◼️
+
+[Data](articles/8129e081.json)
+
+[Extended Data](ext_articles/8129e081.ext.json)
+
+---
+
+### Gunathilaka Rajapakse MP suddenly sick and admitted to hospital
+
+*2024-02-15 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176463) · `ta`
+
+It is reported that he was suddenly sick and admitted to the hospital during the Kandy District Coordinating Meeting.
+
+◼️
+
+[Data](articles/eb59979e.json)
+
+[Extended Data](ext_articles/eb59979e.ext.json)
+
+---
+
+### Snowmade in some places in Nuwara Eliya
+
+*2024-02-15 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176466) · `ta`
+
+Following the inclement weather in many parts of the country, the weather is in the morning and evening in Nuwara Eliya. Also, the drivers are going to burn the home lights due to heavy snowfall.
+
+Especially on the Nuwara Eliya Hatton main road, Ruwan Elijah, Blackpool and Vendiconner, Nanuoya Ratalla Cross Road, Nuwara Eliya - Baduliya, Nuwara Eliya - Kandi -KandyThe traffic police have also asked for the vehicles to pay very careful as they light the home lights of the vehicles on the side.
+
+It is also worth noting that any of the road signals fitted on the streets due to heavy snowfall found on the main streets are invisible.
+
+◼️
+
+[Data](articles/93ca84cb.json)
+
+[Extended Data](ext_articles/93ca84cb.ext.json)
+
 ---
 
 ### Sri Lanka, India hold talks on collaboration in personnel administration & governance
@@ -63,6 +155,26 @@ The Sri Lankan delegation included Dr. Dharmasri Kumaratunga, Secretary to Minis
 ...
 
 [Data](articles/7142de1b.json)
+
+[Extended Data](ext_articles/7142de1b.ext.json)
+
+---
+
+### UK based cricketer handed 17 ½ year ban over match-fixing
+
+*2024-02-15 16:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-based-cricketer-handed-17-½-year-ban-over-match-fixing/108-277095) · `en`
+
+Feb. 15 (ICC) - UK based club cricketer Rizwan Javed has been banned from all cricket for 17 ½ years after he was found guilty of five different breaches of the Emirates Cricket Board (ECB) Anti-Corruption Code for Participants (the ‘Code’).
+
+Rizwan was among eight players and officials charged by the ICC on behalf of the ECB (in its capacity as the Designated Anti-Corruption Official under the Code) in September last year in relation to the 2021 Abu Dhabi T10 Cricket League and attempts to corrupt matches in that tournament, which attempts were disrupted.
+
+Michael J Beloff KC, Chair of the ICC Code of Conduct Committee (acting as the ECB’s Disciplinary Panel), came to the decision after Rizwan failed to respond to the charges and was therefore deemed to have admitted that he has committed the offences charged, to have waived his right to a hearing and to have acceded to the imposition of a sanction.
+
+...
+
+[Data](articles/a2fd1170.json)
+
+[Extended Data](ext_articles/a2fd1170.ext.json)
 
 ---
 
@@ -88,17 +200,25 @@ President Ranil Wickremesinghe has assumed the responsibility of the country wit
 
 ---
 
-### Gunathilaka Rajapakse MP suddenly sick and admitted to hospital
+### Tickets for the first T20 game, 'Sold Out'
 
-*2024-02-15 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176463) · `ta`
+*2024-02-15 16:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tickets-for-the-first-T20-game-Sold-Out/108-277094) · `en`
 
-It is reported that he was suddenly sick and admitted to the hospital during the Kandy District Coordinating Meeting.
+Colombo, Feb. 15 (Daily Mirror) - Tickets for the first T20I match to be played at Rangiri Dambulla International Cricket Stadium on Saturday (17) have been sold out.
+
+Sri Lanka Cricket has advised the general public not to visit ticket counters seeking match tickets for the first T20I.
+
+Meanwhile, a heavy influx of cricket fans rushing to buy tickets for the first T20I match has been experienced today.
+
+The fans claimed that it was the first time in five years that they had the opportunity to see a match played in Dambulla.
+
+Sri Lanka vs. Afghanistan T20 matches will be played on February 17, 19, and 21 in Dambulla Stadium. (Pix:  Kanchana Kumara)
 
 ◼️
 
-[Data](articles/eb59979e.json)
+[Data](articles/145a2eea.json)
 
-[Extended Data](ext_articles/eb59979e.ext.json)
+[Extended Data](ext_articles/145a2eea.ext.json)
 
 ---
 
@@ -161,6 +281,26 @@ According to sources at the Badulla Teaching Hospital for further treatment, the
 [Data](articles/651a7e9c.json)
 
 [Extended Data](ext_articles/651a7e9c.ext.json)
+
+---
+
+### Ashemum Second Stage: Apply Today - Head of Welfare Benefits Council
+
+*2024-02-15 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176453) · `ta`
+
+Welfare Benefits Council Chairman Jayantha Wijeratne said that the process of accepting applications for the second phase of the second phase will be held from today (15th) to March 15th and that all those who are eligible will get the benefits without any obstacles.
+
+He said that families who did not submit applications in the preliminary first phase would have the opportunity to apply for the second phase of any persons who did not submit their applications and submit their home information.
+
+A media briefing to explain applications for the second phase of the second phase was held today (15) at the Presidential Media Center at the Presidential Media Center. Commenting on here, the President of the Welfare Benefits Council Jayantha Wijeratne said the above.
+
+Under the second phase of the second phase, 24 lakhs of families are expected to be benefited.
+
+...
+
+[Data](articles/d926f289.json)
+
+[Extended Data](ext_articles/d926f289.ext.json)
 
 ---
 
@@ -246,26 +386,6 @@ The results of the elections began to be released from last night, under the met
 
 ---
 
-### Ashemum Second Stage: Apply Today - Head of Welfare Benefits Council
-
-*2024-02-15 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176453) · `ta`
-
-Welfare Benefits Council Chairman Jayantha Wijeratne said that the process of accepting applications for the second phase of the second phase will be held from today (15th) to March 15th and that all those who are eligible will get the benefits without any obstacles.
-
-He said that families who did not submit applications in the preliminary first phase would have the opportunity to apply for the second phase of any persons who did not submit their applications and submit their home information.
-
-A media briefing to explain applications for the second phase of the second phase was held today (15) at the Presidential Media Center at the Presidential Media Center. Commenting on here, the President of the Welfare Benefits Council Jayantha Wijeratne said the above.
-
-Under the second phase of the second phase, 24 lakhs of families are expected to be benefited.
-
-...
-
-[Data](articles/d926f289.json)
-
-[Extended Data](ext_articles/d926f289.ext.json)
-
----
-
 ### Sri Lanka could lose US$ 50 bn from extreme weather conditions: Ruwan
 
 *2024-02-15 15:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-could-lose-US-50-bn-from-extreme-weather-conditions-Ruwan/108-277091) · `en`
@@ -325,6 +445,26 @@ A weaker Japanese yen was a key factor in the drop to fourth place, since compar
 [Data](articles/3c14de98.json)
 
 [Extended Data](ext_articles/3c14de98.ext.json)
+
+---
+
+### Japan no longer world’s third-largest economy as it slips into recession
+
+*2024-02-15 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Japan-no-longer-worlds-third-largest-economy-as-it-slips-into-recession/107-277092) · `en`
+
+TOKYO (AP) — Japan’s economy is now the world’s fourth-largest after it contracted in the last quarter of 2023 and fell behind Germany.
+
+The government reported the economy shrank at an annual rate of 0.4% in October to December, according to Cabinet Office data on real GDP released Thursday, though it grew 1.9% for all of 2023. It contracted 2.9% in July-September. Two straight quarters of contraction are considered an indicator an economy is in a technical recession.
+
+Japan’s economy was the second largest until 2010, when it was overtaken by China’s. Japan’s nominal GDP totaled $4.2 trillion last year, while Germany’s was $4.4 trillion, or $4.5 trillion, depending on the currency conversion.
+
+A weaker Japanese yen was a key factor in the drop to fourth place, since comparisons of nominal GDP are in dollar terms. But Japan’s relative weakness also reflects a decline in its population and lagging productivity and competitiveness, economists say.
+
+◼️
+
+[Data](articles/414721e4.json)
+
+[Extended Data](ext_articles/414721e4.ext.json)
 
 ---
 
@@ -1885,151 +2025,5 @@ The acting IGP was the last declared that the acting IGP was continuously implem
 [Data](articles/be673551.json)
 
 [Extended Data](ext_articles/be673551.ext.json)
-
----
-
-### Phase 1 of Anuradhapura North Water Supply project declared open
-
-*2024-02-15 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97286/phase-1-of-anuradhapura-north-water-supply-project-declared-open) · `en`
-
-The initial stage of the Anuradhapura North Water Supply project, aimed at delivering clean drinking water to the local population, was declared open on Thursday morning (Feb.15).
-
-President Ranil Wickremesinghe and the President of Japan International Cooperation Agency (JICA), Dr. Tanaka Akihito graced the event, at the invitation of Water Supply Minister Jeevan Thondaman.
-
-Through the project, funded by JICA and implemented by the National Water Supply Drainage Board (NWSDB), water supply facilities are constructed in Anuradhapura North where the people depend on unsafe ground water which causes dental fluorosis.
-
-This water supply project is expected to contribute to improving living standards, hygienic status and health conditions in the area.
-
-◼️
-
-[Data](articles/46c1876d.json)
-
-[Extended Data](ext_articles/46c1876d.ext.json)
-
----
-
-### Phase 1 of Anuradhapura North Water Supply project declared open
-
-*2024-02-15 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97286/phase-1-of-anuradhapura-north-water-supply-project-inaugurated) · `en`
-
-The initial stage of the Anuradhapura North Water Supply project, aimed at delivering clean drinking water to the local population, was declared open on Thursday morning (Feb.15).
-
-President Ranil Wickremesinghe and the President of Japan International Cooperation Agency (JICA), Dr. Tanaka Akihito graced the event, at the invitation of Minister Jeevan Thondaman.
-
-JICA provided funding to construct water supply facilities in Anuradhapura North where the people depend on unsafe ground water which causes dental fluorosis.
-
-This water supply project is expected to contribute to improving living standards, hygienic status and health conditions in the area.
-
-◼️
-
-[Data](articles/7f952e9c.json)
-
-[Extended Data](ext_articles/7f952e9c.ext.json)
-
----
-
-### Maldives deported 25 Sri Lankans engaged in illegal activities
-
-*2024-02-15 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176421) · `ta`
-
-The Maldivian government has decided to deport 186 foreigners, including 25 Sri Lankans accused of illegal activities.
-
-Foreign media reports that a group involved in a visa violation and drug offenses has been deported.
-
-In addition to 25 Sri Lankans, there are 83 Bangladeshi citizens, 46 Indian citizens and 8 Nepal citizens to be deported.
-
-However, the date of deportation of foreigners has not yet been announced.
-
-◼️
-
-[Data](articles/55d7af22.json)
-
-[Extended Data](ext_articles/55d7af22.ext.json)
-
----
-
-### Toilet fee increase
-
-*2024-02-15 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176419) · `ta`
-
-The toilets at the Basrian Mawatha Private Bus Stand at Pettah, Colombo, have been increased to 50 rupees.
-
-Previously, this public toilet was charged 40 rupees per person to meet the body needs, including urination.
-
-According to the agreement signed with the National Transport Commission last January, the public toilet fee has been increased.
-
-◼️
-
-[Data](articles/50454a7d.json)
-
-[Extended Data](ext_articles/50454a7d.ext.json)
-
----
-
-### Badulla district surrounds the Badulla district
-
-*2024-02-15 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176418) · `ta`
-
-Deputy Director of the Badulla Disaster Management Center, EML Udaya Kumara said that the concentration of dust particles has increased in the atmosphere in the Badulla district.
-
-These days, small dust particles in the air that blows from Sri Lanka have come to the home and spread throughout the Badulla district.
-
-It is also said that the dark fog is visible when looking at the distant scene of the mountain system.
-
-According to reports, it is more dense than the dust to be in the normal atmosphere.
-
-He said that public health can be affected, especially in this situation, especially in this situation, and that the health department has paid special attention to this.
-
-Udaya Kumara added that the National Building Research Institute has paid special attention to this.
-
-◼️
-
-[Data](articles/786b346a.json)
-
-[Extended Data](ext_articles/786b346a.ext.json)
-
----
-
-### Public lavatory facility charges increased to Rs. 50 per person
-
-*2024-02-15 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-lavatory-facility-charges-increased-to-Rs-50-per-person/108-277084) · `en`
-
-Colombo, Feb 15 (Daily Mirror) - The fees for utilizing the public restroom facilities at Bastian Mawatha Bus Stand have been raised to Rs. 50 per person.
-
-Previously, the lavatory usage fee was Rs. 20 per person, according to its maintenance personnel.
-
-Subsequent to an agreement with the National Transport Commission office, the charges for lavatory facilities at Bastian Mawatha have been increased.
-
-With the increase in the water tariff, the monthly water bill has increased to Rs. 175,000, and therefore, the lavatory facility charges have also been increased, they said.
-
-Accordingly, the water bill has been increased by Rs. 60,000.
-
-However, the public lavatory facilities maintained by the Colombo Municipal Council (CMC) at Bastian Mawatha have not been revised, and the current charges are at Rs. 40 per person.
-
-◼️
-
-[Data](articles/10953ed9.json)
-
-[Extended Data](ext_articles/10953ed9.ext.json)
-
----
-
-### The work of the health trade unions that followed for two days!
-
-*2024-02-15 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176417) · `ta`
-
-The work of the health trade unions that have been continued for the past two days have been completed today (15) at 6.30 am.
-
-The 72 health trade unions have been carrying out trade union action from 6 am on Tuesday, 13th, demanding that the DAT for the doctors DAT.
-
-In this backdrop, the workshop has been abandoned after Health Minister Rames Pathirana announced that the issues of the health trade unions will be discussed next Monday.
-
-It is also worth noting that the Gazette was issued on the orders of President Ranil Wickremesinghe, who declared some of the health related services as essential services.
-
-◼️
-
-[Data](articles/ee5adf72.json)
-
-[Extended Data](ext_articles/ee5adf72.ext.json)
 
 ---

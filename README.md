@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 04:33:07**
+As of **2024-02-16 04:50:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,346 (100.0%) of 7,348 articles have been extended.
+7,348 (100.0%) of 7,348 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -500,6 +500,8 @@ Hardly ever has a single month made such convulsive changes in India, as in the 
 
 [Data](articles/fe178bbc.json)
 
+[Extended Data](ext_articles/fe178bbc.ext.json)
+
 ---
 
 ### Keheliya says he suffers from sleeping slumber at night
@@ -577,6 +579,8 @@ Preliminary police investigations have revealed that the crime has been carried 
 ...
 
 [Data](articles/54c271d7.json)
+
+[Extended Data](ext_articles/54c271d7.ext.json)
 
 ---
 

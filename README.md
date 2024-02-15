@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-15 21:51:44**
+As of **2024-02-15 22:03:23**
 
 ## Newspaper Stats
 
-*Scraped **7,319** Articles*
+*Scraped **7,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 389
 adalk | 629
 adaderanalk | 896
 tamilmirrorlk | 896
-virakesarilk | 953
+virakesarilk | 954
 adaderanasinhalalk | 1,034
 dailymirrorlk | 1,069
 
@@ -26,11 +26,35 @@ dailymirrorlk | 1,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,319 (100.0%) of 7,319 articles have been extended.
+7,320 (100.0%) of 7,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-15 (Thursday)
+
+### When the wife and daughter went to the religious event, the father who poisoned his son
+
+*2024-02-15 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176482) · `ta`
+
+The father has poisoned his son who is mentally ill, and he has drank it and drank it.
+
+The 50 -year -old father and a 25 -year -old son died, the Angunukolapalasa police said.
+
+The son has been mentally ill for some time. Due to this, the father has returned home after taking her son to the Karapitiya Teaching Hospital in Galle.
+
+In this case, the father and daughter had poisoned his son while he had gone out for a religious event.
+
+When the wife and daughter came home, the husband and son were admitted to the Angunukolapalasa Hospital with the help of neighbors to learn that the husband and son had poisoned, but the two had already died, doctors said.
+
+Senior Superintendent of Police KP in charge of the Tangalle Police Division. According to Keerthi Ratna's work, Angunukolapalasa police are conducting further investigations.
+
+◼️
+
+[Data](articles/08f950fe.json)
+
+[Extended Data](ext_articles/08f950fe.ext.json)
+
+---
 
 ### Three arrested over ‘poisoning’ of two suspects in police custody
 
@@ -2039,23 +2063,5 @@ Furthermore, he mentioned that main accomplice of the notorious underworld figur
 [Data](articles/0fccb22e.json)
 
 [Extended Data](ext_articles/0fccb22e.ext.json)
-
----
-
-### Interpol ‘Red Notices’ issued on 42 Sri Lankan criminal suspects hiding overseas
-
-*2024-02-15 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97291/interpol-red-notices-issued-on-42-sri-lankan-criminal-suspects-hiding-overseas) · `en`
-
-Acting Inspector General of Police (IGP) Deshabandu Tennakoon states that 42 Interpol ‘Red Notices’ have been issued against criminals who have fled the country and are in connection with underworld activities and drug offences.
-
-Joining the event to declare open a new police checkpoint in front of the Colombo National Hospital, Tennakoon expressed that the relevant criminal suspects would be brought back to the island with the assistance of Interpol.
-
-Furthermore, he mentioned that main accomplice of the notorious underworld figure Salindu Malshika alias “Kudu Salindu,” who was repatriated to Sri Lanka early this morning, will be interrogated further to uncover more details regarding drug syndicates operating in the country.
-
-...
-
-[Data](articles/78fe052b.json)
-
-[Extended Data](ext_articles/78fe052b.ext.json)
 
 ---

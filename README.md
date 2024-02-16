@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 14:49:29**
+As of **2024-02-16 15:02:25**
 
 ## Newspaper Stats
 
-*Scraped **7,463** Articles*
+*Scraped **7,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ bbccomsinhala | 99
 dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 385
-economynextcom | 390
+economynextcom | 393
 dailyftlk | 402
-adalk | 637
-tamilmirrorlk | 912
+adalk | 638
+tamilmirrorlk | 913
 adaderanalk | 914
 virakesarilk | 979
-adaderanasinhalalk | 1,058
+adaderanasinhalalk | 1,059
 dailymirrorlk | 1,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,463 (100.0%) of 7,463 articles have been extended.
+7,463 (99.9%) of 7,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### පවුල් ආරවුල ඝාතනයකින් කෙළවර වෙයි
+
+*2024-02-16 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193466) · `si`
+
+ස්වාමි පුරුෂයා විසින් සිය බිරිඳව ඝාතනය කිරීමේ පුවතක් මිහින්තලය ප්‍රදේශයෙන් වාර්තා විය.
+
+පොලීසිය පැවසුවේ පවුල් ආරවුලක් හේතුවෙන් එම පුද්ගලයා සිය බිරිඳට මොට ආයුධයකින් පහරදී ඝාතනය කර ඇති බවය.
+
+මිහින්තලය, කැලෑ තිරප්පනය, ඉහළගම ප්‍රදේශයේ නිවසක් තුළදී එම ඝාතනය සිදුකර තිබුණි.
+
+ඝාතනය සම්බන්ධයෙන් එම කාන්තාවගේ 32 හැවිරිදි ස්වාමි පුරුෂයාව අත්අඩංගුවට ගෙන ඇති අතර මිහින්තලය පොලීසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/7f413dfa.json)
+
+---
 
 ### 16 hours water cut
 
@@ -46,6 +64,24 @@ The water supply and drainage board says that the water cut will be imposed from
 
 ---
 
+### Sri Lanka consumer confidence drops to lowest levels since IMF agreement: IHP
+
+*2024-02-16 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-confidence-drops-to-lowest-levels-since-imf-agreement-ihp-151177/) · `en`
+
+ECONOMYNEXT — Consumer confidence in Sri Lanka continued to decline in January 2024, reaching the lowest levels since entering the International Monetary Fund (IMF) programme, according to a survey by the Institute for Health Policy (IHP).
+
+The IHP said in a statement on Friday February 16 that the Index of Consumer Sentiment (ICS), the broadest measure of the public’s view of their personal economic status and the national economy, fell 5 points to 16 points in January.
+
+The Index of Consumer Expectations (ICE), which tracks future perceptions, decreased 5 points to 21 points, while the Index of Current Conditions (ICC), a measure of perceptions of current conditions, also decreased 5 points to 10 points, the IHP said.
+
+“Consumer confidence has been falling for nine months since it recovered after the announcement of the March 2023 IMF extended fund facility (EFF) agreement. Levels are now back to where they were before the IMF EFF,” the institute said.
+
+...
+
+[Data](articles/1f2e0d55.json)
+
+---
+
 ### Minor workers prisoner
 
 *2024-02-16 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193463) · `si`
@@ -57,6 +93,24 @@ The Deputy Director of the Colombo National Hospital Rukshan Bellana has been fo
 [Data](articles/59d7d46d.json)
 
 [Extended Data](ext_articles/59d7d46d.ext.json)
+
+---
+
+### 5 மாதத்திற்குள் நிறைவேற்றி விட்டார் செந்தில் தொண்டமான்
+
+*2024-02-16 13:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/5-மாதத்திற்குள்-நிறைவேற்றி-விட்டார்-செந்தில்-தொண்டமான்/74-333312) · `ta`
+
+யுத்தத்தால் பாதிக்கப்பட்ட அம்பாறை மாவட்டத்தின் திருக்கோவில் பிரதேசத்தைச் சேர்ந்த மக்களுக்கு ஐந்து மாதக் காலத்தில்  கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால்  வீடுகள் நிர்மாணிக்கப்பட்டு கையளிக்கப்பட்டது.
+
+யுத்தத்தால் பாதிக்கப்பட்ட அம்பாறை மாவட்டம் திருக்கோவில் பிரதேசத்தை சேர்ந்த  மக்கள், வீடுகள் இன்றி இன்னல்களுக்கு முகம்கொடுத்து வந்த நிலையில், இவ்விடயம் தொடர்பாக   அம்பாறை மாவட்ட அரச அதிபர், திருக்கோயில் பிரதேச செயலாளர், அரச உத்தியோகஸ்தர்கள் மற்றும் பொதுமக்களால் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானின் கவனத்திற்கு கொண்டு வரப்பட்டது.
+
+ஆளுநர் செந்தில் தொண்டமான் அம்பாறை மாவட்டத்தில் திருக்கோவில் பிரதேசத்திற்கு விஜயம் மேற்கொண்டு, மக்களின் குறைகளை கேட்டறிந்து மக்களின் கோரிக்கையை ஏற்று ஐந்து மாதக் காலத்திற்குள் அவர்களுக்கான வீடுகளை நிர்மாணித்து அம்மக்களிடம் கையளித்துள்ளார்.
+
+திருக்கோவில் மாவட்ட  மக்கள் தங்களது கோரிக்கையை குறுகிய காலத்தில் நிறைவேற்றியமைக்காக கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானுக்கும் திருக்கோயில் பிரதேச செயலாளருக்கும் தங்களது நன்றிகளை தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/8c6372c1.json)
 
 ---
 
@@ -143,6 +197,26 @@ Poison has been mixed in the case of two suspects in connection with the shootin
 [Data](articles/be815862.json)
 
 [Extended Data](ext_articles/be815862.ext.json)
+
+---
+
+### Sri Lanka president meets Israeli minister
+
+*2024-02-16 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-israeli-minister-151190/) · `en`
+
+ECONOMYNEXT – Israel’s Minister of Transport and Road Safety, Brig Gen Miri Regev has met with Sri Lanka’s President Ranil Wickremesinghe.
+
+“Highlighting Sri Lanka’s stance on the Israeli-Palestinian conflict, President Wickremesinghe reiterated the nation’s support for the establishment of a Palestinian State,” a statement by the president’s media office said.
+
+“He also emphasized the significance of ensuring Israel’s security, fostering a balanced approach to regional peace.”
+
+Amidst the ongoing hostilities in Gaza, the President called for an immediate cessation of violence, underscoring the paramount importance of peace and stability in the region, the statement continued.
+
+Ports, Shipping, and Aviation Minister Nimal Siripala de Silva announced the signing of a direct air service agreement between Israel and Sri Lanka yesterday (15) which will facilitate a previous agreement with Israel to send Sri Lankan workers to the country engaged in war.
+
+...
+
+[Data](articles/75d19cb5.json)
 
 ---
 
@@ -333,6 +407,24 @@ Furthermore, the former President expressed confidence in his party’s victory 
 [Data](articles/e8771bbe.json)
 
 [Extended Data](ext_articles/e8771bbe.ext.json)
+
+---
+
+### Sri Lanka’s rubber workers get certified, coconut pluckers and toddy tappers to follow
+
+*2024-02-16 12:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-rubber-workers-get-certified-coconut-pluckers-and-toddy-tappers-to-follow-151178/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s National Apprentice and Industrial Training Authority is working with the Ministry of Agriculture and Plantation Industry to upskill informal sector workers in the country.
+
+169 rubber workers, or those who harvest the sap, were awarded NVQ-3 certificates by NAITA in a first for the country, on Thursday (15) at the Agalawatta Rubber Research Institute.
+
+“Today these rubber harvesters were given nationally and internationally recognised competency certificates. We will also provide this qualification to palmyrah, kithul, cocount toddy tappers and pluckers,” Minister of Agriculture and Plantation Industries Mahinda Amaraweera was quoted as saying at the event.
+
+“So they get an opportunity to even earn income abroad,” Amaraweera said, according to a statement by the Department of Government Information.
+
+...
+
+[Data](articles/d2c870af.json)
 
 ---
 
@@ -611,6 +703,28 @@ The body of the girl has been recovered early morning (16) during the search for
 [Data](articles/b9ea468f.json)
 
 [Extended Data](ext_articles/b9ea468f.ext.json)
+
+---
+
+### ගුවන් හමුදා නිලධාරියා දුම්රියට බිලි
+
+*2024-02-16 11:22:54* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-නිලධාරියා-දුම්රියට-බිලි/11-408123) · `si`
+
+බම්බලපිටිය දුම්රිය ස්ථානයේ දී ගුවන් හමුදා නිලධාරියකු දුම්රියක ගැටීමෙන් ඊයේ 15 සවස මියගිය බව බම්බලපිටිය පොලිසිය කියයි.
+
+අනතුරින් මිය ගොස් ඇත්තේ මණ්ඩාවල ඉහළ ලුණුගම පදිංචිව සිටි, මාරවිල රාළලාගේ සමීර පියදර්ශන බණ්ඩාර නමැති (36) හැවිරිදි  අයෙකි.
+
+මියගිය අය බම්බලපිටිය දුම්රිය ස්ථානයේ වැල්ලවත්ත දෙසට පිහිටි දුම්රිය පදික වේදිකාව අවසාන වෙන ස්ථානයේදී බෙලිඅත්ත සිට මරදාන දක්වා  ධාවනය වූ දුම්රියේ ගැටීමෙන් අනතුර වී ඇතැයි පොලිසිය කියයි.
+
+බරපතල තුවාල ලද නිලධාරියාව බම්බලපිටිය පොලිසියේ ජංගම පොලිස් සංචාරක ජීප් රථයෙන්  රැගෙන ගොස් කොළඹ ජාතික රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇත.
+
+අනතුරින් මියගිය  එම නිලධාරියා යම් ශාරීරික අවශ්‍යතාවයක් සිදු කිරීමට ගොස් යළි දුම්රිය මාර්ගය හරහා පැමිණීමේදී මෙම මාරක අනතුරට වන්නට ඇතැයි පොලිසිය සැක කරයි.
+
+බම්බලපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සම්පත් පත්මලාල් මහතාගේ උපදෙස් මත පර්යේෂණ පැවැත්වේ.
+
+◼️
+
+[Data](articles/bd4b7e62.json)
 
 ---
 
@@ -1935,139 +2049,5 @@ The petition has named the Speaker and Attorney General Sanjay Rajaratnam as the
 [Data](articles/e7552c13.json)
 
 [Extended Data](ext_articles/e7552c13.ext.json)
-
----
-
-### Is the government dressing to silence NGO?
-
-*2024-02-16 04:58:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck79wrwl4gko) · `si`
-
-There are mixed parties in various parties regarding NGOs (NGO) in Sri Lanka.
-
-Some NGOs accused NGOs and accused of 'money', and some say that 'NGO fulfills a number of responsibilities to the government of Sri Lanka.'
-
-In different time, NGOs emerge about the performance of NGOs. The NGOs are protesting against the government role of the government.
-
-That is against the registration and supervision of NGOs to bring the government.
-
-A group of members representing NGOs and NGOs to educate the 'Registration of NGO registration and supervision'.
-
-The Director General of NGO of NGO was also present at the meeting of the Secretary General of the Secretariat.
-
-The NGOs allege that the relevant Bill requested the public in English, Sinhala and Tamil.
-
-However, during the discussion, an English copy of the draft was given.
-
-The Director General of the NGO to the Secretary General of the Secretary General to the BBC told the Sinhala work, which can be prepared in English to submit the Sinhala and Tamil.
-
-...
-
-[Data](articles/05244df7.json)
-
-[Extended Data](ext_articles/05244df7.ext.json)
-
----
-
-### Buddhist trail in the works to boost tourism
-
-*2024-02-16 04:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Buddhist-trail-in-the-works-to-boost-tourism/108-277122) · `en`
-
-Tourism authorities are in the process of creating a Buddhist trail in Sri Lanka, a fresh effort towards luring religious travellers.
-
-The trail will target the South East Asia segment but promotional efforts will also extend to Europe, US, and Australia, Sri Lanka Tourism Promotion Bureau (SLTPB) Chairman Chalaka Gajabahu said this week.
-
-“Sri Lanka, as a Buddhist country, holds immense potential to establish a unique tourism brand that resonates globally,” he said.
-
-“With rich heritage, breath-taking landscapes and profound spiritual significance, Sri Lanka can emerge as a leading destination for Buddhist pilgrimages and cultural exploration on the global tourism map,” Gajabahu added.
-
-When compared to the Ramayana trail, he opined that the proposed Buddhist Trail can gain more traction from a broader section of travellers from South East Asian countries to East Asian countries such as China to European countries.
-
-...
-
-[Data](articles/acab1b5c.json)
-
-[Extended Data](ext_articles/acab1b5c.ext.json)
-
----
-
-### Israel - Sri Lanka Direct Airline Service Agreement
-
-*2024-02-16 03:45:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேல்-இலங்கை-நேரடி-விமான-சேவை-ஒப்பந்தம்/175-333300) · `ta`
-
-Ports, Shipping and Aviation Minister Nimal Siripala de Silva said the direct airline agreement between Israel and Sri Lanka was signed yesterday morning.
-
-He added that one of the main objectives of the agreement is to prevent delays in Sri Lankan employees abroad.
-
-Minister Nimal Siripala de Silva said this at a media briefing held at the Presidential Media Center yesterday. (A)
-
-◼️
-
-[Data](articles/ce208438.json)
-
-[Extended Data](ext_articles/ce208438.ext.json)
-
----
-
-### Eradication of fuel delivery data
-
-*2024-02-16 03:38:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விநியோக-தரவுகள்-அழிப்பு/175-333299) · `ta`
-
-13 lakhs of information related to the fuel repository and fuel supply of the Sri Lanka Petroleum Corporation's repository terminal company, from the main data structure or the SAP.Minister of Power and Energy Kanjana Wijesekera said that the site has been destroyed or replaced.
-
-He posted on his social website page that the data eradication process has been carried out since 2010.
-
-He also said that there was a large number of data eradication operations in 2022 of the fuel crisis.
-
-KPMG. Based on the study conducted by the company, the Minister has revealed these issues. (A)
-
-◼️
-
-[Data](articles/9dd4af7c.json)
-
-[Extended Data](ext_articles/9dd4af7c.ext.json)
-
----
-
-### Can apply for Aswesum until March 15
-
-*2024-02-16 03:30:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசுமவுக்கு-மார்ச்-15-வரை-விண்ணப்பிக்கலாம்/175-333298) · `ta`
-
-It has been announced that the acceptance of applications for the second phase of the Aswezuma will take place from March 15 to March 15.
-
-Chairman of the Welfare Council, Jayantha Wijeratne, said that the benefits of all qualifications will be available without any obstacles.
-
-He said that any persons who did not submit applications to the families who did not submit applications in the preliminary first phase, and any persons who did not submit their home information, they would be likely to apply for the second phase.
-
-A media briefing to explain the second phase of the Ashemusuma was held at the Presidential Media Center yesterday.
-
-The Chairman of the Welfare Benefits Council, Jayantha Wijeratne, stated these issues while participating in the event.. (A)
-
-◼️
-
-[Data](articles/8fef189d.json)
-
-[Extended Data](ext_articles/8fef189d.ext.json)
-
----
-
-### President's review on the issue of farmers
-
-*2024-02-16 03:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளின்-பிரச்சினை-தொடர்பில்-ஜனாதிபதி-ஆராய்வு/175-333297) · `ta`
-
-President Ranil Wickremesinghe yesterday handed over the Anuradhapura Water Program to the people's use of the Maha Kanadarawa pond.
-
-The President also examined the problems faced by the people living in the recent areas.
-
-Farmers told the president directly on their problems. The president responded positively.
-
-Focusing on the opposition to the program, the president urged the government to abandon the protests and sind on future measures as the construction work of the dilution project is currently completed.
-
-The President said that the people's ideas will be obtained within two weeks and I am looking forward to implementing the favorable issues soon.. (A)
-
-◼️
-
-[Data](articles/c0c4f9c5.json)
-
-[Extended Data](ext_articles/c0c4f9c5.ext.json)
 
 ---

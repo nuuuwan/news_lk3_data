@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 16:47:47**
+As of **2024-02-16 17:02:42**
 
 ## Newspaper Stats
 
-*Scraped **7,495** Articles*
+*Scraped **7,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 393
 dailyftlk | 402
 adalk | 639
 tamilmirrorlk | 915
-adaderanalk | 918
-virakesarilk | 982
+adaderanalk | 919
+virakesarilk | 983
 adaderanasinhalalk | 1,065
 dailymirrorlk | 1,100
 
@@ -26,11 +26,77 @@ dailymirrorlk | 1,100
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,495 (100.0%) of 7,495 articles have been extended.
+7,495 (100.0%) of 7,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Parliament to meet three days next week
+
+*2024-02-16 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97328/parliament-to-meet-three-days-next-week-) · `en`
+
+The Committee on Parliamentary Business which met on Thursday (Feb. 15) under the chairmanship of Speaker Mahinda Yapa Abeywardana has decided to convene the parliamentary sittings on three days next week – 20, 21 and 22 February.
+
+However, the Parliament will not meet on Friday (Feb.23), as it is Poya Day.
+
+Accordingly, on Tuesday, the Parliament will meet at 9.30 a.m. and the Second Reading of the Secured Transactions, Trust Receipts (Amendment), Mortgage (Amendment), Finance Leasing (Amendment), Inland Trust Receipts (Amendment), Companies (Amendment), Registration of Documents (Amendment) Bills have been scheduled to be taken up for debate, the Parliamentary Communications Department said in a statement.
+
+Moreover, Orders under the Strategic Development Act published under the Extraordinary Gazette No. 2360/36 and Regulations under the Imports and Exports (Control) Act published under the Extraordinary Gazette No. 2366/19 have also been scheduled to be taken up for debate.
+
+...
+
+[Data](articles/5086cc98.json)
+
+---
+
+### Frog ice cream sold in Jaffna 5 thousand rupees
+
+*2024-02-16 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176550) · `ta`
+
+The court has sentenced the seller to a further 5 thousand rupees for the alleged crime in the case of the frog in the Ice Chrim, which was sold in the Jaffna -Selvam temple environment.
+
+Last Wednesday, a frog was found in the ice cream of a person who bought it, who was involved in the sale of ice cream in the temple environment last Wednesday.
+
+Following the announcement of the health unit, the Valvettithurai Health Inspector filed a case against the Point Pedro Magistrate's Court against the Ice Cream solder.
+
+When the case was taken up for hearing on Friday (16), he said that the solder who sold ice cream was selling to the Ice Cream Manufacturer in the Chunnakam area and selling it in the temple environment.
+
+Meanwhile, a restaurant owner has been fined Rs 36,000 in the case against a restaurant in the temple environment.
+
+Hundreds of people visit the Historical Sabha Temple daily for worship and for wedding ceremonies at the temple.
+
+...
+
+[Data](articles/dfe309b9.json)
+
+[Extended Data](ext_articles/dfe309b9.ext.json)
+
+---
+
+### சோரா ; எழுத்துரு ஆவணத்தை கொண்டு காணொளி
+
+*2024-02-16 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176542) · `ta`
+
+எழுத்துரு ஆவணத்தை கொண்டு காணொளியை உருவாக்கும் கருவியை சட் ஜிபிடியை (ChatGPT) உருவாக்கி ஓபன் ஏஐ நிறுவனம் வியாழக்கிழமை அறிமுகப்படுத்தியுள்ளது.
+
+இதற்கு சோரா என யெரிடப்பட்டுள்ளது. சோரா என்ற  ஜப்பானிய சொல்லுக்கு வானம் என அர்த்தம்.
+
+இதன்மூலம், எழுத்துரு ஆவணத்தில் வழங்கப்படும் விடயம் மற்றும்  வடிவம்  தொடர்பான அறிவுறுத்தல்களுக்கு இணங்க ஒரு நிமிடத்தில் யதார்த்தபூர்வமான காட்சிகளை உருவாக்க முடியும்.
+
+மனதிலுள்ள ஒரு படத்தின் அடிப்படையில் ஒரு காணொளியை உருவாக்கலாம் அல்லது புதிய உள்ளடக்கத்துடன் இருக்கும் காட்சிகளை நீடிக்க முடியும் என தெரிவிக்கப்படுகிறது.
+
+சோராவை ஒரு சில ஆராய்ச்சியாளர்கள் மற்றும் காணொளி படைப்பாளர்கள்  மட்டுமே பயன்படுத்த முடியும் என நிறுவனம் அறிவித்துள்ளது.
+
+ஓபன் ஏஐ சேவை விதிமுறைகளை மீறும் செயற்பாடுகளை சோராவின் பின்புலத்தில் இருந்து "சிவப்பு குழு" வல்லுநர்கள் சோதனை செய்வார்கள்.
+
+அதாவது, "தீவிர வன்முறை, பாலியல் உள்ளடக்கம், வெறுக்கத்தக்க படங்கள், பிரபலங்களின் தோற்றம் அல்லது மற்றவர்களின் ஐபி" போன்றவற்றை தடைசெய்யும்.
+
+...
+
+[Data](articles/e05f2887.json)
+
+---
 
 ### No one is talking today of restoring my civic rights: Ranjan
 
@@ -65,30 +131,6 @@ Our correspondent said doctors are checking their status.
 [Data](articles/77354da1.json)
 
 [Extended Data](ext_articles/77354da1.ext.json)
-
----
-
-### Frog ice cream sold in Jaffna 5 thousand rupees
-
-*2024-02-16 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176550) · `ta`
-
-The court has sentenced the seller to a further 5 thousand rupees for the alleged crime in the case of the frog in the Ice Chrim, which was sold in the Jaffna -Selvam temple environment.
-
-Last Wednesday, a frog was found in the ice cream of a person who bought it, who was involved in the sale of ice cream in the temple environment last Wednesday.
-
-Following the announcement of the health unit, the Valvettithurai Health Inspector filed a case against the Point Pedro Magistrate's Court against the Ice Cream solder.
-
-When the case was taken up for hearing on Friday (16), he said that the solder who sold ice cream was selling to the Ice Cream Manufacturer in the Chunnakam area and selling it in the temple environment.
-
-Meanwhile, a restaurant owner has been fined Rs 36,000 in the case against a restaurant in the temple environment.
-
-Hundreds of people visit the Historical Sabha Temple daily for worship and for wedding ceremonies at the temple.
-
-...
-
-[Data](articles/dfe309b9.json)
-
-[Extended Data](ext_articles/dfe309b9.ext.json)
 
 ---
 
@@ -2009,45 +2051,5 @@ Western Province North Criminal Division is conducting further investigations.
 [Data](articles/2fe0bef7.json)
 
 [Extended Data](ext_articles/2fe0bef7.ext.json)
-
----
-
-### Commonwealth Enterprise chief in Colombo next week
-
-*2024-02-16 07:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Commonwealth-Enterprise-chief-in-Colombo-next-week/108-277114) · `en`
-
-Sri Lanka’s private sector and government are to get fresh insights from a chief of a Commonwealth trade and investment organisation next week besides opportunities to expand businesses across the 56 Member States of the Commonwealth.
-
-Commonwealth Enterprise and Investment Council (CWEIC) Chairman Lord Marland will meet President Ranil Wickremesinghe during his visit to Sri Lanka from February 19 to 21, 2024, as part of his larger trip to South and South East Asia.
-
-On February 19, along with Wickremesinghe, he will be meeting Investment Promotion State Minister Dilum Amunugama. In the evening, CWEIC Strategic Partner Port City Colombo is hosting him with prominent government and business leaders.
-
-On February 20, Marland will meet with British High Commissioner Andrew Patrick.
-
-Throughout the two days, he will meet with the CWEIC’s current Strategic Partners, including Capital Maharaja Group Group Director Niro Cooke, who also serves on the statutory board of the CWEIC.
-
-...
-
-[Data](articles/ec6da29a.json)
-
-[Extended Data](ext_articles/ec6da29a.ext.json)
-
----
-
-### Disclosure of many houses
-
-*2024-02-16 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193441) · `si`
-
-The Kiribathgoda Police arrested a suspect who was arrested last 13 and interrogation.
-
-The suspect was 37 years old, Kiribathgoda, Peliyagoda, Kadawatha, Boralesgamuwa and Wattala Police Divisions.
-
-According to information received from the suspect, another suspect and a suspect was arrested in the Grandpass Police Division.
-
-◼️
-
-[Data](articles/75f85b30.json)
-
-[Extended Data](ext_articles/75f85b30.ext.json)
 
 ---

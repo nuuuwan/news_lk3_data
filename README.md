@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 13:02:28**
+As of **2024-02-16 13:17:27**
 
 ## Newspaper Stats
 
-*Scraped **7,436** Articles*
+*Scraped **7,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 387
 dailyftlk | 402
 adalk | 635
 tamilmirrorlk | 906
-adaderanalk | 907
+adaderanalk | 913
 virakesarilk | 974
 adaderanasinhalalk | 1,054
 dailymirrorlk | 1,090
@@ -26,11 +26,65 @@ dailymirrorlk | 1,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,436 (100.0%) of 7,436 articles have been extended.
+7,436 (99.9%) of 7,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Detention orders issued against “Piyuma” under PTA
+
+*2024-02-16 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97321/detention-orders-issued-against-piyuma-under-pta) · `en`
+
+The Criminal Investigations Department (CID) has secured detentions orders against criminal gang member Piyum Hasthika alias “Piyuma”, who was repatriated to Sri Lanka from Dubai, UAE last morning (Feb. 15).
+
+Thus, the Colombo Fort Magistrate’s Court has issued a 72-hour detention order under the Prevention of Terrorism Act (PTA) to interrogate the suspect, after the CID reported facts to the courts regarding the repatriation of “Piyuma”.
+
+However, the Colombo Fort Magistrate has also ordered that the 72 hours be counted from the day he was brought back to the island.
+
+◼️
+
+[Data](articles/14bbab5b.json)
+
+---
+
+### Mahinda Rajapaksa backs abolishing executive presidency
+
+*2024-02-16 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97320/mahinda-rajapaksa-backs-abolishing-executive-presidency) · `en`
+
+Former President Mahinda Rajapaksa says that he will support abolishing the executive presidency.
+
+Speaking to the media, Rajapaksa said he realized that this was also the demand of the people.
+
+“I’ve held office [as the president]. I’ve already enjoyed it… It is good to abolish the executive presidency”, Rajapaksa added.
+
+In response to a question raised by a Journalist, he stated that the efforts to abolish the executive presidency may be a conspiracy to postpone the elections as well. “[…] That is possible, we know who Ranil [Wickremesinghe] is”, he said.
+
+Furthermore, the former President expressed confidence in his party’s victory in any of the upcoming elections, whether it is the presidential election or the general election.
+
+◼️
+
+[Data](articles/e8771bbe.json)
+
+---
+
+### Colombo - Wellawaya main road blocked due to protest
+
+*2024-02-16 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97319/colombo-wellawaya-main-road-blocked-due-to-protest) · `en`
+
+The Colombo - Wellawaya main road has been completely blocked due to a public demonstration staged this morning, Ada Derana reporter said.
+
+The locals of the area have launched the protest, obstructing vehicular movement on the road at the Weherayaya area of Wellawaya, demanding solutions to the human-elephant conflict in the area.
+
+As a result, traffic congestion ensued in the section of the Colombo - Wellawaya main road blocked by the protesters, according to the reporter.
+
+However, the protesting local residents stated that they will continue the demonstration until a positive solution is received to their issues.
+
+◼️
+
+[Data](articles/ad57256f.json)
+
+---
 
 ### Court order about Pharaya
 
@@ -67,6 +121,38 @@ Colombo, Feb. 16 (Daily Mirror)- Israel's Minister of Transport and Road Safety 
 [Data](articles/0aa11fa2.json)
 
 [Extended Data](ext_articles/0aa11fa2.ext.json)
+
+---
+
+### Customs work-to-rule action called off
+
+*2024-02-16 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97318/customs-work-to-rule-action-called-off) · `en`
+
+The Customs trade unions have decided to call of their work-to-rule action today (Feb. 16).
+
+On Thursday (15), the Trade Union Alliance of Sri Lanka Customs had launched the work-to-rule campaign over several demands including solutions to their issues such as stalled promotions and discrepancies in wages.
+
+However, the work-to-rule action was called-off after the discussions held with the State Minister of Finance Ranjith Siyambalapitiya and President’s Secretary Saman Ekanayake ended on a positive note, as per the trade unions.
+
+◼️
+
+[Data](articles/69e1e963.json)
+
+---
+
+### Two more SLFP members join SJB
+
+*2024-02-16 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97317/two-more-slfp-members-join-sjb) · `en`
+
+Two more members of Sri Lanka Freedom Party (SLFP) have crossed over to the main opposition Samagi Jaba Balawegaya (SJB).
+
+As such, SLFP’s former provincial council members Gamini Thilakasiri and Gamini Silva have joined hands with the main opposition.
+
+Reportedly, the duo has attended the 100th edition of Opposition Leader Sajith Premadasa’s ‘Sakwala’ smart classroom program held at the Boralesgamuwa Maha Vidyalaya in Kesbewa on Friday (Feb.16).
+
+◼️
+
+[Data](articles/4fa73e27.json)
 
 ---
 
@@ -129,6 +215,22 @@ Discussions on water supply to be carried out in the Kilinochchi district in Jaf
 [Data](articles/edaff461.json)
 
 [Extended Data](ext_articles/edaff461.ext.json)
+
+---
+
+### Saman Ekanayake’s petition against PCoI on political victimization heard before SC
+
+*2024-02-16 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97316/saman-ekanayakes-petition-against-pcoi-on-political-victimization-heard-before-sc) · `en`
+
+The Supreme Court has heard the petition challenging the decisions and recommendations made against the current President’s Secretary Saman Ekanayake by the Presidential Commission of Inquiry (PCoI) appointed by former President Gotabaya Rajapaksa to investigate alleged incidents of political victimisation.
+
+A group of individuals including the then-Prime Minister’s Secretary and current Secretary to the President Saman Ekanayake had filed the petition requesting to invalidate the decisions and recommendations made against him by the PCoI headed by retired Supreme Court Judge Upali Abeyratne.
+
+The petition was taken up for hearing before a three-member Supreme Court judge bench comprising Vijith Malalgoda, Achala Vengappuli and Arjuna Obeysekara, Ada Derana reporter said.
+
+...
+
+[Data](articles/d7b58b12.json)
 
 ---
 
@@ -1969,111 +2071,5 @@ The order was issued when the case was taken up for hearing at the Magistrate's 
 [Data](articles/ec825cfa.json)
 
 [Extended Data](ext_articles/ec825cfa.ext.json)
-
----
-
-### Keheliya Rambukwella re-remanded until February 29
-
-*2024-02-15 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-Rambukwella-re-remanded-until-February-29/108-277101) · `en`
-
-Colombo, Feb 15 (Daily Mirror) -  Former Health Minister Keheliya Rambukwella who was arrested by the Criminal Investigation Department (CID) over the importation of substandard Immunoglobulin injections, was further remanded until February 29.
-
-◼️
-
-[Data](articles/306cf1e7.json)
-
-[Extended Data](ext_articles/306cf1e7.ext.json)
-
----
-
-### Keheliya, ex-Health Secretary and 5 others further remanded
-
-*2024-02-15 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97304/keheliya-ex-health-secretary-and-5-others-further-remanded) · `en`
-
-Former Minister of Health Keheliya Rambukwella, former Health Secretary Janaka Chandragupta and five others have been ordered to be further remanded until February 29, over the import of substandard human Immunoglobulin vials.
-
-This order was issued when the case was taken up before the Maligakanda Magistrate’s Court today (15), Ada Derana reporter said.
-
-However, the former Health Minister did not appear before the court today owing to medical reasons, and the Prison Commissioner and Spokesperson Gamini B. Dissanayake had confirmed that the parliamentarian was unable to attend court proceedings due to him being ill.
-
-Meanwhile, President’s Counsel Anuja Premaratne, who appeared on behalf of Rambukwella, stated before the court that his client is suffering from a specific respiratory disorder which leads to sleep apnea. The President’s Counsel also claimed that oxygen should be provided to Rambukwella in such a case.
-
-...
-
-[Data](articles/982f4451.json)
-
-[Extended Data](ext_articles/982f4451.ext.json)
-
----
-
-### Survey and seven including Keheliya remanded again
-
-*2024-02-15 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193437) · `si`
-
-Former Minister of Health Keheliya Rambukwella and the seven suspects have been remanded until 29th.
-
-The order was issued at the time of the questionable antibodies in the Maligakanda Magistrate's Court today (15).
-
-◼️
-
-[Data](articles/a76b6837.json)
-
-[Extended Data](ext_articles/a76b6837.ext.json)
-
----
-
-### Kalpitiya OIC interdicted over sexual assault on police woman
-
-*2024-02-15 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kalpitiya-OIC-interdicted-over-sexual-assault-on-police-woman/108-277100) · `en`
-
-Kalpitiya, Feb 15 (Daily Mirror) -  The Officer-in-Charge (OIC) of the Kalpitiya Police Station who was charged over sexually assaulting a female police constable, has been interdicted by the National Police Commission with immediate effect.
-
-The Kuliyapitiya Division Senior Superintendent of Police launched an investigation after the alleged incident and subsequently reported the matter to courts.
-
-Police said the OIC surrendered to the Puttalam Magistrate's Court on February 13 over the allegations and was granted bail.
-
-The OIC, an inspector, represented by a lawyer, appeared before the Magistrate and was granted bail on a bond of Rs. 500,000 and ordered to report to the Kuliyapitiya SSP's office on the last Sunday of every month until the case's next hearing on March 6.
-
-The Inspector was interdicted following a probe by the Police Department.
-
-◼️
-
-[Data](articles/46cdbe55.json)
-
-[Extended Data](ext_articles/46cdbe55.ext.json)
-
----
-
-### Police authority for provincial councils should be completely removed - Kammanpila
-
-*2024-02-15 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176462) · `ta`
-
-If the provincial councils are given police authority, the country's national security will be threatened. Therefore, arrangements to provide police powers to provincial councils must be fully canceled.
-
-Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) and Member of Parliament, said that he would submit the 22nd Amendment to the Gazette in the coming week.
-
-The twentieth constitutional amendment, presented by Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) leader and Member of Parliament, has been issued in the Gazette notification to cancel the power to provide police powers to provincial councils.
-
-Udaya Kammanpila, the leader of the Pivithuru JHU, presented a personal motion in Parliament in July last year to bring about the 22nd Amendment to the Constitution to eliminate the police powers given to the Provincial Councils through the 13th Amendment to the Constitution.
-
-...
-
-[Data](articles/ea3f6a8a.json)
-
-[Extended Data](ext_articles/ea3f6a8a.ext.json)
-
----
-
-### In Tamil Nadu Even As BJP Moves In Spurts, I.N.D.I.A. Wilts Away
-
-*2024-02-15 21:20:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-tamil-nadu-even-as-bjp-moves-in-spurts-i-n-d-i-a-wilts-away/) · `en`
-
-Hardly ever has a single month made such convulsive changes in India, as in the religious and political landmarks of January 2024. The New Year itself was heralded by the inauguration of Maharishi Valkimi International Airport and the eye-catching Bus Station, both by Prime Minister Modi preceded by his lengthy Road Show. Birth of January saw the inauguration of the new Trichy International Airport. It was an occasion to announce a Trichy Development programme for Rs 198 billion. A visit to Sri Rangam Temple by Modi was a religious highlight.
-
-...
-
-[Data](articles/fe178bbc.json)
-
-[Extended Data](ext_articles/fe178bbc.ext.json)
 
 ---

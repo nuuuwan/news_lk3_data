@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 22:17:29**
+As of **2024-02-16 22:32:44**
 
 ## Newspaper Stats
 
-*Scraped **7,546** Articles*
+*Scraped **7,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 643
 tamilmirrorlk | 919
 adaderanalk | 925
 virakesarilk | 991
-adaderanasinhalalk | 1,075
+adaderanasinhalalk | 1,076
 dailymirrorlk | 1,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,544 (100.0%) of 7,546 articles have been extended.
+7,546 (100.0%) of 7,547 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,6 +58,8 @@ Accordingly, the following historical shrines have been declared as sacred sites
 
 [Data](articles/d9ca223c.json)
 
+[Extended Data](ext_articles/d9ca223c.ext.json)
+
 ---
 
 ### Quetta Gladiators await NOC for Hasaranga for PSL 9
@@ -75,6 +77,28 @@ Similar to the previous edition, PSL 9 will be held in two legs. Lahore and Mult
 ◼️
 
 [Data](articles/3f7ddca7.json)
+
+[Extended Data](ext_articles/3f7ddca7.ext.json)
+
+---
+
+### පානදුර - රත්නපුර ප්‍රධාන මාර්ගයේ රථවාහන ධාවනය සීමාකෙරේ
+
+*2024-02-16 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193483) · `si`
+
+හොරණ රජමහා විහාරස්ථානයේ රයිගම්පුර නවම් මහ පෙරහැර හේතුවෙන් පානදුර - රත්නපුර ප්‍රධාන මාර්ගයේ රථවාහන ගමනාගමනය සීමා කිරීමට සිදුවන බව පොලීසිය දැනුම් දෙයි.
+
+ඒ අනුව හෙට (17) රාත්‍රියේ නවම් පෙරහැර වීථි සංචාරය කිරීමට නියමිතය.
+
+පෙරහැර සඳහා අලිඇතුන් 40ක් හා ශාස්ත්‍රීය නර්තන කණ්ඩායම් 85ක් එකතු වේ.
+
+ඒ අනුව හොරණ රජමහා විහාරස්ථානයේ අසල සිට පානදුර - රත්නපුර ප්‍රධාන මාර්ගයේ කොටසක් වන විද්‍යාරතන හන්දිය සිට හොරණ පොලීසියට හැරෙන හංදිය දක්වා කොටසේ වාහන ගමනාගමනය සීමා කෙරේ.
+
+පහත සඳහන් විකල්ප මාර්ග භාවිත කරන්නැයි පොලීසිය මහජනතාවට දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/1baa4c77.json)
 
 ---
 
@@ -2073,23 +2097,5 @@ Indian High Commissioner to Sri Lanka Sri Santosh Ja visits the North. He visite
 [Data](articles/0d92a849.json)
 
 [Extended Data](ext_articles/0d92a849.ext.json)
-
----
-
-### Israeli Minister meets President; discusses hostages, Gaza conflict
-
-*2024-02-16 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Israeli-Minister-meets-President-discusses-hostages-Gaza-conflict/108-277167) · `en`
-
-Colombo, Feb. 16 (Daily Mirror)- Israel's Minister of Transport and Road Safety Brig. Gen. Miri Regev met President Ranil Wickremesinghe and discussed matters concerning the safe return of Israeli hostages.
-
-"The meeting delved into crucial matters concerning the safe return of Israeli hostages, with President Wickremesinghe affirming Sri Lanka's unwavering commitment to advocating for their safety. Furthermore, amidst the ongoing hostilities in Gaza, the President called for an immediate cessation of violence, underscoring the paramount importance of peace and stability in the region," the President's Media Division (PMD) said.
-
-"Highlighting Sri Lanka's stance on the Israeli-Palestinian conflict, President Wickremesinghe reiterated the nation's support for the establishment of a Palestinian State. He also emphasized the significance of ensuring Israel's security, fostering a balanced approach to regional peace," the PMD said.
-
-◼️
-
-[Data](articles/0aa11fa2.json)
-
-[Extended Data](ext_articles/0aa11fa2.ext.json)
 
 ---

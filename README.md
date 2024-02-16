@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 01:17:18**
+As of **2024-02-17 01:33:13**
 
 ## Newspaper Stats
 
-*Scraped **7,562** Articles*
+*Scraped **7,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 402
 adalk | 645
 tamilmirrorlk | 920
 adaderanalk | 926
-virakesarilk | 996
+virakesarilk | 998
 adaderanasinhalalk | 1,077
 dailymirrorlk | 1,116
 
@@ -26,11 +26,49 @@ dailymirrorlk | 1,116
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,562 (100.0%) of 7,562 articles have been extended.
+7,562 (100.0%) of 7,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### சுகாதார அமைச்சர் மட்டக்களப்பு போதனா வைத்தியசாலைக்கு விஜயம்
+
+*2024-02-17 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176584) · `ta`
+
+மட்டக்களப்பு மாவட்டத்திற்கு வெள்ளிக்கிழமை(16) விஜயம் ஒன்றினை மேற்கொண்டுள்ள சுகாதார அமைச்சர் வைத்தியர் ரமேஷ் பத்திரண அவர்கள் மட்டக்களப்பு போதனா வைத்தியசாலைக்கு விஜயம் செய்திருந்தார்.
+
+இதன்போது வைத்தியசாலையின் பணிப்பாளர்  வைத்தியர் கே.கலாரஞ்சனி தலைமையில் போதனா வைத்தியசாலை கேட்போர் கூடத்தில்  நடைபெறும் கலந்துரையாடல் ஒன்றும் இடம்பெற்றிருந்தது.
+
+இதில் மாவட்டத்தின் நாடாளுமன்ற உறுப்பினர்களான அலி சாஹிர் மௌலானா, இராஜாங்க அமைச்சர்களான சி.சந்திரகாந்தன் மற்றும் ச.வியாளேந்திரன்,  சுகாதார அமைச்சின் செயலாளர் வைத்தியர் மஹிபால, சுகாதார சேவைகள் பணிப்பாளர் வைத்தியர் அசேல குணவர்தன உட்பட சுகாதாரத்துறை அதிகாரிகள், வைத்திய நிபுணர்கள் எனப் பலரும் கலந்து கொண்டிருந்தனர்.
+
+து வைத்தியசாலையின் குறைபாடுகள், மற்றும் தேவைகள் குறித்து அமைச்சர் குழாம் கேட்டறிந்து கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/b9afacd4.json)
+
+---
+
+### வவுனியா - வீரபுரம் பகுதியில் கிணற்றிலிருந்து இளம் குடும்பஸ்தரின் சடலம் மீட்பு
+
+*2024-02-17 00:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176583) · `ta`
+
+வவுனியா, வீரபுரம் பகுதியில் உள்ள கிணறு ஒன்றிலிருந்து இளம் குடும்பஸ்தரின் சடலம் வெள்ளிக்கிழமை (15) காலை மீட்கப்பட்டுள்ளதாக செட்டிகுளம் பொலிசார் தெரிவித்துள்ளனர்.
+
+வவுனியா, செட்டிகுளம், வீரபுரம் பகுதியில் வசிக்கும் இளம் குடும்பம் ஒன்றுக்குள் ஏற்பட்ட வாய்தர்க்கத்தையடுத்து கணவனான இளம் குடும்பஸ்தர் வீட்டில் இருந்த கிணற்றுக்குள் குதித்துள்ளார்.
+
+இதனையடுத்து, மனைவியும், பிள்ளைகளும் அயலில் உள்ளவர்களை அழைத்து மீட்க முயற்சித்தனர். இதன்போது கிராம அலுவலர் மற்றும் பொலிசாருக்கும் அயலவர்கள் முறைப்பாடு செய்தனர்.
+
+அப் பகுதி மக்களின் துணையுடன் அவர் மீட்கப்பட்ட போதும், அவர் உயிரிழந்த நிலையிலேயே மீட்கப்பட்டுள்ளார். இதனையடுத்து சடலம் செட்டிகுளம் வைத்தியசாலையில் பொலிசாரால் ஒப்படைக்கப்பட்டதுடன், அங்கிருந்து வவுனியா வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டது.
+
+சம்பவத்தில் மூன்று பிள்ளைகளின் தந்தையான 33 வயதுடைய செபமாலை மொரிசன் என்பவரே மரணமடைந்தவராவார். சம்பவம் தொடர்பில் செட்டிகுளம் பொலிசார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/db698307.json)
+
+---
 
 ### Rocking the Cradle while Pinching the Baby
 
@@ -2073,47 +2111,5 @@ Poison has been mixed in the case of two suspects in connection with the shootin
 [Data](articles/be815862.json)
 
 [Extended Data](ext_articles/be815862.ext.json)
-
----
-
-### Sri Lanka president meets Israeli minister
-
-*2024-02-16 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-israeli-minister-151190/) · `en`
-
-ECONOMYNEXT – Israel’s Minister of Transport and Road Safety, Brig Gen Miri Regev has met with Sri Lanka’s President Ranil Wickremesinghe.
-
-“Highlighting Sri Lanka’s stance on the Israeli-Palestinian conflict, President Wickremesinghe reiterated the nation’s support for the establishment of a Palestinian State,” a statement by the president’s media office said.
-
-“He also emphasized the significance of ensuring Israel’s security, fostering a balanced approach to regional peace.”
-
-Amidst the ongoing hostilities in Gaza, the President called for an immediate cessation of violence, underscoring the paramount importance of peace and stability in the region, the statement continued.
-
-Ports, Shipping, and Aviation Minister Nimal Siripala de Silva announced the signing of a direct air service agreement between Israel and Sri Lanka yesterday (15) which will facilitate a previous agreement with Israel to send Sri Lankan workers to the country engaged in war.
-
-...
-
-[Data](articles/75d19cb5.json)
-
-[Extended Data](ext_articles/75d19cb5.ext.json)
-
----
-
-### India’s Congress claims its bank accounts frozen ahead of elections
-
-*2024-02-16 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97322/indias-congress-claims-its-bank-accounts-frozen-ahead-of-elections) · `en`
-
-India’s main opposition political party - the Congress claimed on Friday (Feb 16) that all its bank accounts have been frozen. Addressing a press conference, Congress treasurer Ajay Maken said the accounts have been frozen ahead of the Lok Sabha elections.
-
-“You will be surprised to know that democracy has completely ended in India. The Congress received information the day before yesterday that the party’s bank cheques issued were not being honoured,” Maken said.
-
-“When we started probing this matter, we were told that all the bank accounts of the party were frozen,” Maken said, adding that not just bank accounts (of Congress) were frozen but the country’s democracy has also been frozen. He pointed out that the Youth Congress’ bank accounts have also been frozen.
-
-“Just a few weeks are left for the announcement of the election dates and the bank accounts of the main opposition party have been frozen. What does the central government want to prove?” the party treasurer further said.
-
-...
-
-[Data](articles/3cf88d3c.json)
-
-[Extended Data](ext_articles/3cf88d3c.ext.json)
 
 ---

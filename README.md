@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 16:17:16**
+As of **2024-02-16 16:33:07**
 
 ## Newspaper Stats
 
-*Scraped **7,482** Articles*
+*Scraped **7,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,88 @@ economynextcom | 393
 dailyftlk | 402
 adalk | 639
 tamilmirrorlk | 915
-adaderanalk | 917
-virakesarilk | 981
+adaderanalk | 918
+virakesarilk | 982
 adaderanasinhalalk | 1,064
-dailymirrorlk | 1,090
+dailymirrorlk | 1,099
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,481 (100.0%) of 7,482 articles have been extended.
+7,482 (99.9%) of 7,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### ලබන සතියේ පාර්ලිමේන්තුව දින 3ක්
+### யாழில் தவளை ஐஸ் கிறீம் விற்றவருக்கு 5 ஆயிரம் ரூபாய் தண்டம்
+
+*2024-02-16 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176550) · `ta`
+
+யாழ்ப்பாணம் - செல்வ சந்நிதி ஆலய சூழலில் விற்பனை செய்யப்பட்ட ஐஸ் கிறீமில் தவளை காணப்பட்டமை தொடர்பிலான வழக்கில் குற்றத்தை ஒப்புக்கொண்ட , விற்பனையாளருக்கு நீதிமன்றம் 5 ஆயிரம் ரூபாய் தண்டம் விதித்துள்ளது.
+
+கடந்த புதன்கிழமை ஆலய சூழலில் ஐஸ் கிறீம் விற்பனையில் ஈடுபட்டவரிடம், அதனை வாங்கிய நபர் ஒருவரின் ஐஸ் கிறீமில் தவளை ஒன்று காணப்பட்டது.
+
+அது தொடர்பில் சுகாதார பிரிவினருக்கு அறிவிக்கப்பட்டதை அடுத்து , விசாரணைகளை முன்னெடுத்த வல்வெட்டித்துறை சுகாதார பரிசோதகர் ஐஸ் கிறீம் விற்றவருக்கு எதிராக பருத்தித்துறை நீதவான் நீதிமன்றில் வழக்கு தொடர்ந்தார்.
+
+குறித்த வழக்கு இன்று வெள்ளிக்கிழமை (16) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது , ஐஸ் கிறீமியை விற்பனை செய்தவர் , சுன்னாகம் பகுதியில் இயங்கும் ஐஸ் கிறீம் தயாரிப்பு நிறுவனத்திடம் கொள்வனவு செய்தே , ஆலய சூழலில் விற்பனை செய்வதாக தெரிவித்துள்ளார்.
+
+இதேவேளை, சந்நிதி ஆலய சூழலில் சுகாதார சீர்கேட்டுடன் நடாத்தி செல்லப்பட்ட உணவகம் ஒன்றிற்கு எதிராக தொடரப்பட்ட வழக்கில் உணவக உரிமையாளருக்கு 36 ஆயிரம் ரூபாய் தண்டப்பணம் விதிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/dfe309b9.json)
+
+---
+
+### Man arrested on suspicion of murdering 23-year-old wife
+
+*2024-02-16 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97327/man-arrested-on-suspicion-of-murdering-23-year-old-wife) · `en`
+
+A man has reportedly attacked his 23-year-old wife to death with a blunt weapon in the Mihintale area.
+
+Police said that the attack had been carried out owing to a family dispute.
+
+The murder has been committed inside a house in the Ihalagama area of Kele Thirappanaya, Mihintale, as per the police report.
+
+Thus, the 32-year-old husband has been arrested by the police.
+
+◼️
+
+[Data](articles/62d37bba.json)
+
+---
+
+### Parliament for three days next week
 
 *2024-02-16 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193471) · `si`
 
-එළඹෙන 20, 21 සහ 22 යන දිනවල පාර්ලිමේන්තුව රැස්වීමට ඊයේ (15) රැස්වූ පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය කර ඇත.
+The Committee on Parliamentary Affairs was held yesterday (15th and 22) at the Committee on Parliamentary Affairs.
 
-පෙබරවාරි 22 වන බ්‍රහස්පතින්දා පෙරවරු 9.30 සිට පස්වරු 5.30 දක්වා අභාවප්‍රාප්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා වෙනුවෙන් ශෝකය පළ කිරීමේ යෝජනාව ඉදිරිපත් කිරීමට නියමිතය.
+The proposal to condemn the late Hon. Sanath Nishantha, the late Hon.
 
 ◼️
 
 [Data](articles/819a4560.json)
+
+[Extended Data](ext_articles/819a4560.ext.json)
+
+---
+
+### Three arrested for gang raping teenage girl in Meegoda
+
+*2024-02-16 15:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-arrested-for-gang-raping-teenage-girl-in-Meegoda/108-277178) · `en`
+
+Colombo, Feb. 16 (Daily Mirror)- Three individuals including a 61-year-old mason were arrested for gang raping a 12-year-old girl in Meegoda, Police said.
+
+Police said the girl had been raped by the three individuals on several occasions from December last year.
+
+The suspects were arrested by the Meegoda police yesterday following a complaint.
+
+◼️
+
+[Data](articles/d56c3e07.json)
 
 ---
 
@@ -206,6 +262,38 @@ Accordingly, the tournament will be held from July 1 to July 21.
 
 ---
 
+### Dr. Bellana taken hostage by minor staff workers
+
+*2024-02-16 14:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dr-Bellana-taken-hostage-by-minor-staff-workers/108-277174) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - The minor staff workers of the Naional Hospital in Colombo are currently holding its Deputy Director, Dr. Rukshan Bellana, hostage in his office, hospital sources said.
+
+◼️
+
+[Data](articles/3ed10505.json)
+
+---
+
+### A 16-hour water cut in Colombo
+
+*2024-02-16 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-16-hour-water-cut-in-Colombo/108-277176) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - Colombo residents are set to experience a 16-hour water cut today as the National Water Supply and Drainage Board (NWSDB) announced that water supply to several areas in the city will be suspended.
+
+The NWSDB reported that the water cut will apply to the Colombo 11, 12, 13, 14, and 15 areas beginning at 5 pm tomorrow (17), and end at 9 am on Sunday (18).
+
+According to the Water Board, the water cut is necessary as part of the ongoing essential maintenance work under the Ambatale Water Supply System Improvements and Energy Saving Project.
+
+The NWSDB has advised residents in the affected areas to make necessary arrangements to store water during the water cut period.
+
+Further, the NWS&DB has requested the cooperation of the public to conserve water during and after the water cut.
+
+◼️
+
+[Data](articles/d0a30c67.json)
+
+---
+
 ### The family dispute ends
 
 *2024-02-16 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193466) · `si`
@@ -226,6 +314,70 @@ The woman's 32-year-old husband has been arrested and the Mihintale police are c
 
 ---
 
+### Lanka Premier League 2024 set for July
+
+*2024-02-16 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lanka-Premier-League-2024-set-for-July/108-277173) · `en`
+
+Colombo, Feb. 16 (Daily Mirror) - The 5th edition of the Lanka Premier League 2024 will be held from July 1st to 21st this year, the Sri Lanka Cricket said.
+
+The five-team competition will feature a total of 24 games, with the first round comprising 20 matches and the final round consisting of 4 matches, including qualifier 1 & 2 and the eliminator.
+
+Each team will be comprised of a minimum of 20 players and a maximum of 24 players, including up to 6 overseas players.
+
+◼️
+
+[Data](articles/e18bebe0.json)
+
+---
+
+### Young woman falls into Upper Kotmale reservoir
+
+*2024-02-16 14:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Young-woman-falls-into-Upper-Kotmale-reservoir/108-277175) · `en`
+
+Kotmale, Feb. 16 (Daily Mirror)- A young woman who fell into the Upper Kotmale reservoir in Thalawakele, was rescued by the police with the help of the residents of the area.
+
+The public  who noticed the young woman falling into the reservoir had taken prompt action to rescue her till the police arrived. Several of them had jumped into the water and helped her while  others had lifted  her with the help of ropes.
+
+The 24 year old woman from the Agarapathana area told police that she was obsessed with difficulties for want of employment and that she had felt dizzy when walking along the bank of the reservoir.
+
+She was admitted to the Lindula divisional hospital and transferred to the Nuwara Eliya General Hospital.
+
+Chief Medical Officer of the Lindula hospital Dr. Asela Suranjith said she  had not sustained any external injuries and that she would be referred to a phychiatrist at the Nuwara  Eliya General Hospital.
+
+◼️
+
+[Data](articles/6ee8511b.json)
+
+---
+
+### Wedding Show 2024 at BMICH
+
+*2024-02-16 14:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Wedding-Show-2024-at-BMICH/110-277172) · `en`
+
+'Wedding Show 2024', the most prestigious and exclusive wedding exhibition of the year, was lauched at the Bandaranaike Memorial International Conference Hall (BMICH) today. The exhibition will continue till Sunday (18). Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/8f6ca71e.json)
+
+---
+
+### FR application by retired HC judge against PCoI fixed for argument
+
+*2024-02-16 14:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FR-application-by-retired-HC-judge-against-PCoI-fixed-for-argument/108-277171) · `en`
+
+Colombo, Feb. 16 (Daily Mirror)- A fundamental rights application filed by retired High Court Judge Padmini Ranawaka challenging the findings of the Presidential Commission of Inquiry relating to the controversial telephone conversations with former Deputy Minister Ranjan Ramanayake has been fixed for further argument by the Supreme Court on February 26.
+
+The petitioner, retired High Court Judge Padmini Ranawaka was a member of the three-judge-bench which handed down the death sentence to five accused, including former Parliamentarian Duminda Silva for the murder of Bharatha Lakshman Premachandra.
+
+A majority judgment of the petitioner and High Court Judge M.C.B.S. Moraes found Duminda Silva and the other accused guilty of the murder of Bharatha Lakshman Premachandra and four of his associates on October 08, 2011.
+
+...
+
+[Data](articles/271e7b3a.json)
+
+---
+
 ### 16 hours water cut
 
 *2024-02-16 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193465) · `si`
@@ -237,6 +389,28 @@ The water supply and drainage board says that the water cut will be imposed from
 [Data](articles/1421d4ee.json)
 
 [Extended Data](ext_articles/1421d4ee.ext.json)
+
+---
+
+### Body of missing girl found half naked in Talaimannar
+
+*2024-02-16 14:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Body-of-missing-girl-found-half-naked-in-Talaimannar/108-277169) · `en`
+
+Mannar, Feb 16 (Daily Mirror) - The Talaimannat Police have launched an investigation after the body of a 10-year-old girl, who had been reported missing, was found half naked.
+
+Police said the girl's grandmother lodged a complaint with the Talaimannar Police on Thursday night, reporting that her grand daughter had gone missing from their village.
+
+This morning, police found the body of the missing girl approximately 300 metres away from her home.
+
+When the body was found, the girl was wearing a dress and her lower body was naked. Police suspect that the girl has been raped.
+
+The Mannar Magistrate and the Judicial Medical Officer of Mannar examined the body, which has since been transferred to the Mannar Hospital mortuary for a post-mortem examination.
+
+Police said investigations are focused on a suspicious person residing in the area, and the Talaimannar police are conducting further investigations.
+
+◼️
+
+[Data](articles/4320feb3.json)
 
 ---
 
@@ -557,6 +731,28 @@ The water tank, which was insecurely fitted on the top floor, fell into the roof
 [Data](articles/63cf66dd.json)
 
 [Extended Data](ext_articles/63cf66dd.ext.json)
+
+---
+
+### India’s Congress claims its bank accounts frozen on “flimsy grounds”
+
+*2024-02-16 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indias-Congress-claims-its-bank-accounts-frozen-on-flimsy-grounds/108-277168) · `en`
+
+India, Feb. 16 (Hindustan Times)- The Congress party on Friday alleged that four of its main bank accounts have been frozen by the Income Tax department on “flimsy grounds”.
+
+The accounts, including that of the Indian Youth Congress, were frozen on an Income Tax demand of ₹210 crore for 2018-19, an election year, Congress treasurer Ajay Maken said.
+
+Discover the thrill of cricket like never before, exclusively on HT. Explore now!
+
+Maken added that Congress had filed its Income Tax return for the concerned year a “few days late” and that is why this action, according to PTI.
+
+“Democracy has completely ended in India. All the accounts of the country's main opposition party have been frozen,” Maken said in a press conference.
+
+Maken said that the party was informed on Thursday that banks are not honouring the cheques issued by the party.
+
+...
+
+[Data](articles/60bdefb4.json)
 
 ---
 
@@ -1839,203 +2035,5 @@ Commenting on the JVP leader's visit to India, Mahinda Rajapaksa said that the J
 [Data](articles/37dad217.json)
 
 [Extended Data](ext_articles/37dad217.ext.json)
-
----
-
-### Elimination of illegal buildings constructed - Lalit Yu Kamage
-
-*2024-02-16 06:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176494) · `ta`
-
-Central Province Governor Lalith Yu Kamage has been announced on Thursday (15) to take steps to remove illegal buildings that have been constructed in the Matale Municipal Council area.
-
-The Governor made the announcement while addressing the Matale District Coordinating Committee.
-
-The Governor has urged the governor to pay attention to the news in the media on the illegal building in front of the Municipal Service Center on the Higola Road, a relative of a former city man.
-
-The Matale Municipal Commissioner has denied that there are no unauthorized construction on the Matale city border.
-
-◼️
-
-[Data](articles/66e89f37.json)
-
-[Extended Data](ext_articles/66e89f37.ext.json)
-
----
-
-### Country gun is "permanent solution" to control monkeys - Center for Environmental Justice
-
-*2024-02-16 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176493) · `ta`
-
-The Sri Lankan government has opposed the decision of the Sri Lankan government to allow farmers to use the country's rifle to curb the monkeys in Sri Lanka as the monkeys are increasing day by day.
-
-“Once the practice of using a nation rifle has begun to drive or control monkey and wood squares, it will severely affect other animals. The little bomb used in the gun can cause a huge damage to other animals, and sometimes the animals are likely to die, ”said Janaka Vidanage, the policy and activist officer of the Center for Environmental Justice.
-
-Finance Minister Ranjith Siyambalapitiya yesterday (14) said that funds will be allocated to the farmers to buy high -quality rifles for farmers in the Kegalle district.
-
-“I will provide country guns to 600 agricultural organizations in Kegalle district. The purpose of this effort is to empower these organizations to take immediate action to control the number of monkeys. ”
-
-...
-
-[Data](articles/d09992ca.json)
-
-[Extended Data](ext_articles/d09992ca.ext.json)
-
----
-
-### Recommended to provide land to the intelligence unit:;Opposition at the Vavuniya District Coordinating Committee meeting
-
-*2024-02-16 06:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176495) · `ta`
-
-The Northern Province Governor has recommended that the Northern Province Governor recommended space to the National Intelligence Office in the Vavuniya Park.
-
-In the meantime, the Government Department of State Osusala, Geological Survey, Coconut Development Council, Palm Development Council, Social Water Resources Department, National Intelligence Office, and Public OrganizationsIt was reported that the request had been made
-
-The District Coordinating Committee today requested permission to separate the area located at the Vavuniya Park and the Thirunavakkulam Paravoorthy Title.
-
-It was reported that the Governor had been recommended to provide the Land National Intelligence Agency located on the park.
-
-Subsequently, District Coordinating Committee Chairman Delipan and Parliamentarian Charles Nirmalanathan had protested to provide them with the land.
-
-...
-
-[Data](articles/96b70f92.json)
-
-[Extended Data](ext_articles/96b70f92.ext.json)
-
----
-
-### Accident in Aladeniya: One person dies on the spot
-
-*2024-02-16 06:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176497) · `ta`
-
-A man who was traveling with his wife on a motorbike with his wife was injured in an accident in Aladeniya area for treatment at the Kandy National Hospital.
-
-The accident occurred on Thursday morning (15) and a 43 -year -old Keerthi Bandara from Melsiripura, Kurunegala, died.
-
-Police investigations have revealed that the accident occurred when a jeep traveling from Kandy to Kurunegala could not control the speed of the road.
-
-◼️
-
-[Data](articles/0e44134a.json)
-
-[Extended Data](ext_articles/0e44134a.ext.json)
-
----
-
-### Adora Cosmetic Centre by Hemas Hospitals celebrates 5 years of excellence
-
-*2024-02-16 06:19:00* · [`islandlk`](http://island.lk/adora-cosmetic-centre-by-hemas-hospitals-celebrates-5-years-of-excellence/) · `en`
-
-Adora Cosmetic Centre, a distinguished independent cosmetic centre, operating with the reputed clinical backing of Hemas Hospitals, marks its 5th anniversary in 2024. Since its inception on 14th February 2019, Adora has solidified its position as Sri Lanka’s premier destination for cosmetic enhancements. With a comprehensive range of surgical and non-surgical procedures, performed using the latest and most cutting-edge technologies and treatments available in Sri Lanka, Adora Cosmetic Centre has built a reputation for its commitment to exceptional service, positive outcomes and patient-centric care.
-
-Dr Malith B. Atapattu – Director Medical Services and Quality Hemas Hospitals and Laboratory Chain, commented saying, “Our unwavering commitment to transformative results has enabled us to emerge as the one-stop-shop for cosmetic transformations, backed by the prestige and clinical expertise of Hemas Hospitals.
-
-...
-
-[Data](articles/2f77965f.json)
-
-[Extended Data](ext_articles/2f77965f.ext.json)
-
----
-
-### “Eco Label: One Step, Great Change – Join the Transformation”
-
-*2024-02-16 06:19:00* · [`islandlk`](http://island.lk/eco-label-one-step-great-change-join-the-transformation/) · `en`
-
-National Cleaner Production Center (NCPC), Sri Lanka, which was established by UNIDO and UNEP, a member of RECP Net with the collaboration of Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH organized a high -level forum: “Eco Label: One Step, Great Change – Join the Transformation”.
-
-...
-
-[Data](articles/ef58aea0.json)
-
-[Extended Data](ext_articles/ef58aea0.ext.json)
-
----
-
-### $100m FDI BOI project to establish industrial site in Puttalam sabotaged
-
-*2024-02-16 06:17:01* · [`dailyftlk`](https://www.ft.lk/columns/100m-FDI-BOI-project-to-establish-industrial-site-in-Puttalam-sabotaged/4-758548) · `en`
-
-I make the following clarifications in relation to the article “SJB’s reply to President’s policy statement” in the Daily Financial Times of 9 February 2024. Particularly, with reference to Sri Lanka Cement Corporation (not Sri Lanka Insurance Corporation) and providing clarity on Puttalam Ilmenite Ltd.
-
-The Sri Lanka Cement Corporation (SLCC) entered into a 30-year agreement with Asha Minerals Ltd. on 10 April 2023 without due process and in violation of a multitude of protocols. At the time of entering into the agreement it is believed, Asha’s share capital was Rs 1,000; 100% owned by one individual; no mineral licences from GSMB; no track record in the minerals sector. The only non-political appointee of Sri Lanka Cement Corporation board, Treasury representative W.A. Walpita had voted against entering into the agreement with Asha. Leasehold rights holder Siam City Cement was not aware of the agreement with Asha Minerals Ltd. and had lodged a complaint with the relevant authorities.
-
-...
-
-[Data](articles/8d37c635.json)
-
-[Extended Data](ext_articles/8d37c635.ext.json)
-
----
-
-### Thundershowers possible in several areas including Western Province
-
-*2024-02-16 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97309/thundershowers-possible-in-several-areas-including-western-province) · `en`
-
-Several spells of showers will occur in Eastern and Uva provinces and Polonnaruwa, Matale and Nuwara-Eliya districts, according to the Department of Meteorology.
-
-Showers or thundershowers may occur at a few places in Western, Sabaragamuwa and North-western provinces and Galle and Matara districts after 2.00 p.m.
-
-Fairly strong winds of about (30-40) kmph can be expected at times in the eastern slopes of the central hills and Northern, North-central, North-western, Uva and Eastern provinces and Hambantota district.
-
-The public is requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/c3e5deee.json)
-
-[Extended Data](ext_articles/c3e5deee.ext.json)
-
----
-
-### Great economic crisis may be created if the IMF's project is disrupted - the central bank
-
-*2024-02-16 06:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176498) · `ta`
-
-The Central Bank said it could lead to a huge economic risk if the IMF's plan was unable to carry out the project.
-
-The Sri Lanka Central Bank of Sri Lanka has said that the Sri Lankan Central Bank of India (IMF) program has said that the major risk of exports is likely to be in danger of exports due to the danger of export due to the decline in the global economic downturn.
-
-The Central Bank of Sri Lanka has said that the development of the International Monetary Fund's project would have to face major economic losses due to the negative feelings of investors.
-
-Sri Lanka has stabilized its economy and economic activities are recovered, but the central bank said it would have grown short for a short period of time.
-
-◼️
-
-[Data](articles/f31f10ef.json)
-
-[Extended Data](ext_articles/f31f10ef.ext.json)
-
----
-
-### AKD’s diplomatic odyssey: NPP’s foray into India and the road ahead
-
-*2024-02-16 06:14:34* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-diplomatic-odyssey-NPP-s-foray-into-India-and-the-road-ahead/4-758547) · `en`
-
-This move by India is not merely diplomatic; it symbolises a calculated strategy to position the NPP as a significant regional player
-
-The recent five-day sojourn of Anura Kumara Dissanayake, leader of the National People’s Power (NPP), and his delegation to India has become a focal point in Sri Lanka’s political discourse. In an unprecedented move, the Indian Government extended an official invitation to NPP leaders, signalling a departure from conventional diplomatic interactions. As the visit unfolded, it not only deepened bilateral ties but also shed light on the evolving political dynamics within Sri Lanka, presenting both challenges and opportunities for the NPP.
-
-...
-
-[Data](articles/2085d065.json)
-
-[Extended Data](ext_articles/2085d065.ext.json)
-
----
-
-### AKD’s diplomatic odyssey: NPP’s foray into India and the road ahead
-
-*2024-02-16 06:14:34* · [`dailyftlk`](https://www.ft.lk/opinion/AKD-s-diplomatic-odyssey-NPP-s-foray-into-India-and-the-road-ahead/14-758547) · `en`
-
-This move by India is not merely diplomatic; it symbolises a calculated strategy to
-
-The recent five-day sojourn of Anura Kumara Dissanayake, leader of the National People’s Power (NPP), and his delegation to India has become a focal point in Sri Lanka’s political discourse. In an unprecedented move, the Indian Government extended an official invitation to NPP leaders, signalling a departure from conventional diplomatic interactions. As the visit unfolded, it not only deepened bilateral ties but also shed light on the evolving political dynamics within Sri Lanka, presenting both challenges and opportunities for the NPP.
-
-...
-
-[Data](articles/d4a197c8.json)
-
-[Extended Data](ext_articles/d4a197c8.ext.json)
 
 ---

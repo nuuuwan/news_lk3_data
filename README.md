@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 15:02:25**
+As of **2024-02-16 15:17:28**
 
 ## Newspaper Stats
 
-*Scraped **7,469** Articles*
+*Scraped **7,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 393
 dailyftlk | 402
 adalk | 638
 tamilmirrorlk | 913
-adaderanalk | 914
+adaderanalk | 916
 virakesarilk | 979
 adaderanasinhalalk | 1,059
 dailymirrorlk | 1,090
@@ -26,27 +26,29 @@ dailymirrorlk | 1,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,463 (99.9%) of 7,469 articles have been extended.
+7,469 (100.0%) of 7,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### පවුල් ආරවුල ඝාතනයකින් කෙළවර වෙයි
+### The family dispute ends
 
 *2024-02-16 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193466) · `si`
 
-ස්වාමි පුරුෂයා විසින් සිය බිරිඳව ඝාතනය කිරීමේ පුවතක් මිහින්තලය ප්‍රදේශයෙන් වාර්තා විය.
+The Mihintale recorded a news of assassinating his wife by the husband.
 
-පොලීසිය පැවසුවේ පවුල් ආරවුලක් හේතුවෙන් එම පුද්ගලයා සිය බිරිඳට මොට ආයුධයකින් පහරදී ඝාතනය කර ඇති බවය.
+The police said that the person had been attacked with a blunt instrument in a family dispute.
 
-මිහින්තලය, කැලෑ තිරප්පනය, ඉහළගම ප්‍රදේශයේ නිවසක් තුළදී එම ඝාතනය සිදුකර තිබුණි.
+Mihintale, jungle triumph was carried out in a house in the Upgradu area.
 
-ඝාතනය සම්බන්ධයෙන් එම කාන්තාවගේ 32 හැවිරිදි ස්වාමි පුරුෂයාව අත්අඩංගුවට ගෙන ඇති අතර මිහින්තලය පොලීසිය පරීක්ෂණ පවත්වයි.
+The woman's 32-year-old husband has been arrested and the Mihintale police are conducting further investigations.
 
 ◼️
 
 [Data](articles/7f413dfa.json)
+
+[Extended Data](ext_articles/7f413dfa.ext.json)
 
 ---
 
@@ -80,6 +82,20 @@ The Index of Consumer Expectations (ICE), which tracks future perceptions, decre
 
 [Data](articles/1f2e0d55.json)
 
+[Extended Data](ext_articles/1f2e0d55.ext.json)
+
+---
+
+### NHSL deputy director forcibly held inside office by hospital’s minor staff
+
+*2024-02-16 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97325/nhsl-deputy-director-forcibly-held-inside-office-by-hospitals-minor-staff) · `en`
+
+The Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana is currently being held hostage in his office by the minor staff of the hospital, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/f91df931.json)
+
 ---
 
 ### Minor workers prisoner
@@ -96,21 +112,39 @@ The Deputy Director of the Colombo National Hospital Rukshan Bellana has been fo
 
 ---
 
-### 5 மாதத்திற்குள் நிறைவேற்றி விட்டார் செந்தில் தொண்டமான்
+### Financial Intelligence Unit, Excise Dept. ink agreement to exchange info on criminal matters
+
+*2024-02-16 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97324/financial-intelligence-unit-excise-dept-ink-agreement-to-exchange-info-on-criminal-matters) · `en`
+
+The Financial Intelligence Unit (FIU) has entered into a Memorandum of Understanding (MoU) with the Excise Department to exchange information related to investigations and prosecutions of money laundering, terrorist financing and other related crimes.
+
+The agreement was inked last month in terms of the provisions of the Financial Transactions Reporting Act, No. 6 of 2006 (FTRA), the Central Bank said in a press release published on Friday (Feb.16).
+
+J. M. S. N. Jayasinghe, Commissioner General of Excise and E. H. Mohotty, then-Director of FIU signed the MOU on behalf of the respective institutions in the presence of Dr. Nandalal Weerasinghe, the Central Bank Governor, who is also the Chairman of the Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT) National Coordinating Committee.
+
+...
+
+[Data](articles/8066866f.json)
+
+---
+
+### Senthil Thondaman has passed within 5 months
 
 *2024-02-16 13:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/5-மாதத்திற்குள்-நிறைவேற்றி-விட்டார்-செந்தில்-தொண்டமான்/74-333312) · `ta`
 
-யுத்தத்தால் பாதிக்கப்பட்ட அம்பாறை மாவட்டத்தின் திருக்கோவில் பிரதேசத்தைச் சேர்ந்த மக்களுக்கு ஐந்து மாதக் காலத்தில்  கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால்  வீடுகள் நிர்மாணிக்கப்பட்டு கையளிக்கப்பட்டது.
+The houses were constructed and handed over by the Governor of the Eastern Province Senthil Thondaman for five months.
 
-யுத்தத்தால் பாதிக்கப்பட்ட அம்பாறை மாவட்டம் திருக்கோவில் பிரதேசத்தை சேர்ந்த  மக்கள், வீடுகள் இன்றி இன்னல்களுக்கு முகம்கொடுத்து வந்த நிலையில், இவ்விடயம் தொடர்பாக   அம்பாறை மாவட்ட அரச அதிபர், திருக்கோயில் பிரதேச செயலாளர், அரச உத்தியோகஸ்தர்கள் மற்றும் பொதுமக்களால் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானின் கவனத்திற்கு கொண்டு வரப்பட்டது.
+The people of the Ampara district, who were affected by the war, were brought to the notice of the Eastern Province Governor Senthil Thondaman by the Government Agent, Tirukoil Divisional Secretary, Government Officers and the public.
 
-ஆளுநர் செந்தில் தொண்டமான் அம்பாறை மாவட்டத்தில் திருக்கோவில் பிரதேசத்திற்கு விஜயம் மேற்கொண்டு, மக்களின் குறைகளை கேட்டறிந்து மக்களின் கோரிக்கையை ஏற்று ஐந்து மாதக் காலத்திற்குள் அவர்களுக்கான வீடுகளை நிர்மாணித்து அம்மக்களிடம் கையளித்துள்ளார்.
+Governor Senthil Thondaman visited the Tirukovil area in the Ampara district and heard the grievances of the people and handed over their houses within five months.
 
-திருக்கோவில் மாவட்ட  மக்கள் தங்களது கோரிக்கையை குறுகிய காலத்தில் நிறைவேற்றியமைக்காக கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானுக்கும் திருக்கோயில் பிரதேச செயலாளருக்கும் தங்களது நன்றிகளை தெரிவித்துள்ளனர். R
+The people of Tirukovil district have expressed their gratitude to the Governor of the Eastern Province Senthil Thondaman and the Divisional Secretary of the Eastern Province for fulfilling their demands in a short time.. Remble
 
 ◼️
 
 [Data](articles/8c6372c1.json)
+
+[Extended Data](ext_articles/8c6372c1.ext.json)
 
 ---
 
@@ -217,6 +251,8 @@ Ports, Shipping, and Aviation Minister Nimal Siripala de Silva announced the sig
 ...
 
 [Data](articles/75d19cb5.json)
+
+[Extended Data](ext_articles/75d19cb5.ext.json)
 
 ---
 
@@ -425,6 +461,8 @@ ECONOMYNEXT – Sri Lanka’s National Apprentice and Industrial Training Author
 ...
 
 [Data](articles/d2c870af.json)
+
+[Extended Data](ext_articles/d2c870af.ext.json)
 
 ---
 
@@ -706,25 +744,27 @@ The body of the girl has been recovered early morning (16) during the search for
 
 ---
 
-### ගුවන් හමුදා නිලධාරියා දුම්රියට බිලි
+### SLAF officer Biliya
 
 *2024-02-16 11:22:54* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-නිලධාරියා-දුම්රියට-බිලි/11-408123) · `si`
 
-බම්බලපිටිය දුම්රිය ස්ථානයේ දී ගුවන් හමුදා නිලධාරියකු දුම්රියක ගැටීමෙන් ඊයේ 15 සවස මියගිය බව බම්බලපිටිය පොලිසිය කියයි.
+Bambalapitiya Police say that the Air Force officer was hit by train at the Bambalapitiya Railway Station.
 
-අනතුරින් මිය ගොස් ඇත්තේ මණ්ඩාවල ඉහළ ලුණුගම පදිංචිව සිටි, මාරවිල රාළලාගේ සමීර පියදර්ශන බණ්ඩාර නමැති (36) හැවිරිදි  අයෙකි.
+The deceased has been identified as Marawila Piyalage Samela Piyadhanda Bandara (36).
 
-මියගිය අය බම්බලපිටිය දුම්රිය ස්ථානයේ වැල්ලවත්ත දෙසට පිහිටි දුම්රිය පදික වේදිකාව අවසාන වෙන ස්ථානයේදී බෙලිඅත්ත සිට මරදාන දක්වා  ධාවනය වූ දුම්රියේ ගැටීමෙන් අනතුර වී ඇතැයි පොලිසිය කියයි.
+The deceased has been hit by the train from Bambalapitiya to Wellawatte to the Wellawatte train, police said.
 
-බරපතල තුවාල ලද නිලධාරියාව බම්බලපිටිය පොලිසියේ ජංගම පොලිස් සංචාරක ජීප් රථයෙන්  රැගෙන ගොස් කොළඹ ජාතික රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇත.
+The seriously injured officer was taken by the mobile police tourist jeep of the Bambalapitiya Police.
 
-අනතුරින් මියගිය  එම නිලධාරියා යම් ශාරීරික අවශ්‍යතාවයක් සිදු කිරීමට ගොස් යළි දුම්රිය මාර්ගය හරහා පැමිණීමේදී මෙම මාරක අනතුරට වන්නට ඇතැයි පොලිසිය සැක කරයි.
+The police suspect that the officer died in the accident had to be crashed into the railway line.
 
-බම්බලපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සම්පත් පත්මලාල් මහතාගේ උපදෙස් මත පර්යේෂණ පැවැත්වේ.
+Research on the instructions of Chief Inspector Sampath Sampath Sampath Sampath Pathmalal
 
 ◼️
 
 [Data](articles/bd4b7e62.json)
+
+[Extended Data](ext_articles/bd4b7e62.ext.json)
 
 ---
 
@@ -1997,57 +2037,5 @@ Facilitated by GLX Alchemist Arj Wignaraja, it offered participants a deep dive 
 [Data](articles/66ab1e78.json)
 
 [Extended Data](ext_articles/66ab1e78.ext.json)
-
----
-
-### 'How I write': Ruya Sriyani Ekanayake
-
-*2024-02-16 05:19:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g03q9zl8po) · `si`
-
-Ruya Sriyani Ekanayake is a novelist in Sinhala literature.
-
-She was written by the historical novels, such as Vijaya Kuvenu, Sentond Casis, such as Vijaya and Singdaggala Mahabiso, Senkadagala Mahabhys, Skarards, and the New Tharundagala nest.
-
-When she talked to her as a novel, she to understand her feelings and writing when she was in a note.
-
-The questions I hear in this discussion is currently published by the 'History of Nimna' (2019) and the novels of this secret wind.
-
-It is well known for all writer's writing process.
-
-Where writing, writing, how to write and writing the writer, belongs to the writer's abundance. The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-Easice: As usual, I ask you to the inauguration of a novel. Can you say something about how your novels write the first sentence?
-
-...
-
-[Data](articles/f556170c.json)
-
-[Extended Data](ext_articles/f556170c.ext.json)
-
----
-
-### Sumanthiran files FR against Speaker’s endorsement of OSA
-
-*2024-02-16 05:19:50* · [`dailyftlk`](https://www.ft.lk/news/Sumanthiran-files-FR-against-Speaker-s-endorsement-of-OSA/56-758526) · `en`
-
-Petitioner maintains OSA was certified by Speaker Mahinda Yapa Abeywardena in contravention of constitutional provisions
-
-Highlights several disparities between Act and SC’s determination on it requiring amendments
-
-Petitioner requests SC to declare Speaker has violated FRs of citizens by endorsing the Act
-
-Seeks court order declaring AG has also violated FRs by failing to correctly advise Speaker and Parliament
-
-Tamil National Alliance (TNA) MP M.A. Sumanthiran filed a Fundamental Rights (FRs) petition against the certification of the Online Safety Act No. 9 of 2024 by Speaker Mahinda Yapa Abeywardena on 1 February.
-
-The petition has named the Speaker and Attorney General Sanjay Rajaratnam as the respondents.
-
-...
-
-[Data](articles/e7552c13.json)
-
-[Extended Data](ext_articles/e7552c13.ext.json)
 
 ---

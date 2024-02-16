@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 20:50:22**
+As of **2024-02-16 21:02:30**
 
 ## Newspaper Stats
 
@@ -26,51 +26,61 @@ dailymirrorlk | 1,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,531 (99.9%) of 7,537 articles have been extended.
+7,537 (100.0%) of 7,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### බීමත් පාපතරයා කළ අපරාධය
+### The crime of drunk
 
 *2024-02-16 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193481) · `si`
 
-තලෛමන්නාරම ප්‍රදේශයේදී දස හැවිරිදි දැරියකට අතවර කර ඝාතනය කිරීම සම්බන්ධයෙන් අසල්වැසි පුද්ගලයෙක්ව අත්අඩංගුවට ගෙන තිබේ.
+A ten-year-old girl was arrested in the Talayamanahuwara area.
 
-තලෛමන්නාරම උතුර ප්‍රදේශයේ පදිංචිව සිටි දස හැවිරිදි දැරියක් අතුරුදන්ව ඇති බවට ඇගේ මිත්තණිය තලෛමන්නාරම පොලිසියට ඊයේ (15) පැමිණිල්ලක් කර තිබුණි.
+Her grandmother had lodged a complaint with her grandmother had a number of a resident of Thalagamunnar North yesterday (15).
 
-ඒ අනුව විමර්ශන ඇරඹූ පොලීසිය දැරියගේ මෘත ශරීරය අද උදෑසන සොයාගත්තේය.
+Accordingly, the police found the girl's body this morning.
 
-සිරුර සොයාගන්නා අවස්ථාවේදී දැරිය ගවුමක් හැඳ සිට ඇති අතර යටිකය නිරුවත්ව තිබී ඇති බව පොලීසිය පැවසුවේය.
+The girl had been wear a device when the body was found, and the belly has been naked.
 
-එහිදී සැකකරු එම අපරාධය සම්බන්ධයෙන් පාපොච්චාරණයක් කළ බව පොලීසිය පවසයි.
+The suspect was confessed in the crime, police said.
 
-සැකකරු පවසා ඇත්තේ මියගිය දැරිය සිය සහෝදරයා සමග සෙල්ලම් කරමින් නිවස අසල සිටින විට තමා දැරියගේ සහෝදරයාට රුපියල් 150ක මුදලක් දී කෑම රැගෙන එන ලෙස පවසා ඔහු පිටත් කළ බවයි.
+The suspect has said that he sent the girl's brother 150 rupees to bring the girl's brother to the girl's brother 150 rupees.
 
-පසුව දැරියව නිවස තුළට රැගෙන ගොස් තමා මෙම අපරාධය සිදුකළ බවට සැකකරු පැවසූ බව පොලිස් ආරංචිමාර්ග සඳහන් කළේය.
+According to police sources, the suspect said that he had committed this crime later.
 
-පොලීසිය පැවසුවේ, දැරියගේ සිරුර හමුවූයේ ඔහුගේ නිවසට යාබද වත්තේ තිබියදී බවයි.
+Police said the girl's body was found in the adjacent to his house.
 
-සැකකරු එම අවස්ථාවේදී අධික ලෙස බීමත්ව සිට ඇතැයි පැවසෙන අතර අත්අඩංගුවට ගැනුණු අවස්ථාවේදීත් ඔහු බීමතින් සිටි බව පොලීසිය පැවසුවේය.
+The suspect is overwhelmed at the time and he was drunk when he was arrested.
 
-...
+He also conducted two marriages and live separately.
+
+The girl's mother and father were fishing and she was careful by the grandmother.
+
+The residents of the area campaigned today demanding a fair investigation into the incident today.
+
+◼️
 
 [Data](articles/63ed487a.json)
 
+[Extended Data](ext_articles/63ed487a.ext.json)
+
 ---
 
-### வாரியப்பொலவில் வீதியை விட்டு விலகி மரத்துடன் மோதிய வேன் : 12 பேர் காயம்
+### Van crashed into a tree by leaving the street in Wariyapola
 
 *2024-02-16 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176577) · `ta`
 
-வாரியப்பொல, பமுனகொட்டுவ பகுதியில், கலுகமுவ வீதியில் இடம்பெற்ற விபத்தில் 12 பேர் காயமடைந்துள்ளனர்.
+At least 12 people were injured in an accident at Kalugamuwa Road in Bamunagotuwa, Wariyapola.
 
-கலுகமுவ வீதியில் பயணித்த வேன் வீதியை விட்டு விலகி அருகில் இருந்த மரத்துடன் மோதியே குறித்த விபத்து சம்பவித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said that the accident occurred when the van, who was traveling on the Kalugamuwa road, left the road and collided with a nearby tree.
 
 ◼️
 
 [Data](articles/dae83521.json)
+
+[Extended Data](ext_articles/dae83521.ext.json)
 
 ---
 
@@ -100,21 +110,25 @@ The Magistrate, Deputy Solicitor General, Lakhahagama Girihagama, the Magistrate
 
 ---
 
-### மக்கள் பிரதிநிதிகளை தூற்றுவதால் மாத்திரம் நாட்டை முன்கொண்டு செல்ல முடியாது -  ஜகத் குமார சுமித்ராராச்சி
+### Jagath Kumara Sumitrarachi is not the only one who can move the country as people's representatives
 
 *2024-02-16 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176576) · `ta`
 
-பொருளாதார நெருக்கடிகளுக்கு மத்தியிலும் அரச ஊழியர்களுக்கு 10,000 ரூபா வாழ்வாதார கொடுப்பனவை அரசாங்கம் வழங்கியுள்ளது. எனவே சுகாதார தொழிற்சங்கங்களின் வேலைநிறுத்தம் நியாயமற்றது என பகிரங்க மற்றும் பொறுப்புக்கூறலுக்கான பாராளுமன்ற துறைசார் மேற்பார்வைக்குழுவின் தலைவர் பாராளுமன்ற உறுப்பினர் ஜகத் குமார சுமித்ராராச்சி தெரிவித்தார்.
+The government has paid a livelihood of 10,000 rupees to civil servants despite the economic crisis. Therefore, the strike of the health trade unions is unreasonable, said Parliamentarian Jagath Kumara Sumitrarachchi, Chairman of the Parliamentary Supervisory Committee for Public and Liability.
 
-அத்துடன், மக்களை நெருக்கடிக்குள் தள்ளும் வகையில் வேலை நிறுத்தங்களை மேற்கொள்வது நியாயமற்ற செயல் எனவும் அவர் மேலும் குறிப்பிட்டார்.
+He added that it was unfair to carry out strikes so that the people would be pushed into crisis.
 
-மக்கள் பிரதிநிதிகளை தூற்றுவதால் மாத்திரம் நாட்டை கொண்டுச் செல்ல முடியாதெனவும்,  அரச அதிகாரிகள் செயல்திறனுடன் மக்களுக்கு சேவை வழங்க கடமைப்பட்டுள்ளனர் என்றும் தெரிவித்தார்.
+He said that the country was not the only one who would not be able to carry the country because of the dismantling of the people's representatives.
 
-ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (16) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+He said this at a media briefing held at the Presidential Media Center on Friday (16).
+
+"A large number of officials are providing excellent services to the people, but some officials are working recklessly. It is also seen that the services of the people are not provided.
 
 ...
 
 [Data](articles/d04e28c9.json)
+
+[Extended Data](ext_articles/d04e28c9.ext.json)
 
 ---
 
@@ -136,25 +150,27 @@ The girl was abused in December, and she had complained to the Meegoda Police si
 
 ---
 
-### கிணற்றில் குதித்த இளம் குடும்பஸ்தர் மரணம்
+### Death of young family jumping in well
 
 *2024-02-16 19:37:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிணற்றில்-குதித்த-இளம்-குடும்பஸ்தர்-மரணம்/72-333318) · `ta`
 
-வவுனியா, வீரபுரம் பகுதியில் உள்ள கிணறு ஒன்றில் இருந்து இன்று (16) காலை இளம் குடும்பஸ்தரின் சடலம்  மீட்கப்பட்டுள்ளதாக செட்டிகுளம் பொலிஸார் தெரிவித்துள்ளனர்.
+Chettikulam police said that the body of a young family member has been recovered from a well in Veerapuram area in Vavuniya this morning.
 
-மனைவியுடன் ஏற்பட்ட தகராறு காரணமாக இளம் குடும்பஸ்தர் வீட்டில் இருந்த கிணற்றுக்குள் குதித்துள்ளார்.
+Due to a dispute with his wife, the young family has jumped into the well in the house.
 
-இதனையடுத்து, மனைவியும், பிள்ளைகளும் அயலில் உள்ளவர்களை அழைத்து மீட்க முயற்சித்தனர். இதன்போது கிராம அலுவலர் மற்றும் பொலிஸாருக்கும் அயலவர்கள் முறைப்பாடு செய்தனர்.
+Subsequently, the spouse and the children tried to rescue the neighbors. Neighbors lodged a complaint with the Grama Niladhari and the police.
 
-அப் பகுதி மக்களின் துணையுடன் அவர் மீட்கப்பட்ட போதும், அவர் உயிரிழந்த நிலையிலேயே மீட்கப்பட்டுள்ளார்.
+Although he was rescued with the help of the people of the area, he was rescued while he died.
 
-இதனையடுத்து சடலம் செட்டிகுளம் வைத்தியசாலையில் ஒப்படைக்கப்பட்டதுடன், அங்கிருந்து வவுனியா வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டது.
+The body was subsequently handed over to the Chettikulam Hospital and sent to the Vavuniya Hospital.
 
-சம்பவத்தில் மூன்று பிள்ளைகளின் தந்தையான 33 வயதுடைய செபமாலை மொரிசன் என்பவரே மரணமடைந்தவராவார்.
+The 33 -year -old Sepamalai Morrison, the father of three children in the incident, was the deceased.
 
 ◼️
 
 [Data](articles/59ee97c7.json)
+
+[Extended Data](ext_articles/59ee97c7.ext.json)
 
 ---
 
@@ -167,6 +183,8 @@ Tensions escalated outside the National Hospital in Colombo today as minor staff
 ◼️
 
 [Data](articles/c613a9f4.json)
+
+[Extended Data](ext_articles/c613a9f4.ext.json)
 
 ---
 
@@ -859,6 +877,8 @@ The suspects were arrested by the Meegoda police yesterday following a complaint
 ◼️
 
 [Data](articles/c614d880.json)
+
+[Extended Data](ext_articles/c614d880.ext.json)
 
 ---
 

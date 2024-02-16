@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 10:33:06**
+As of **2024-02-16 10:50:25**
 
 ## Newspaper Stats
 
-*Scraped **7,403** Articles*
+*Scraped **7,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 385
 economynextcom | 387
 dailyftlk | 400
-adalk | 631
+adalk | 633
 tamilmirrorlk | 902
 adaderanalk | 905
-virakesarilk | 969
+virakesarilk | 972
 adaderanasinhalalk | 1,045
 dailymirrorlk | 1,085
 
@@ -26,11 +26,35 @@ dailymirrorlk | 1,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,403 (100.0%) of 7,403 articles have been extended.
+7,408 (100.0%) of 7,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Thera shot dead in Vihara;Another person arrested
+
+*2024-02-16 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176507) · `ta`
+
+Police have arrested another suspect who was complicit in the murder of a Thera in a Vihara in a Vihara in the Gampaha Malwathuhiripitiya area.
+
+He was arrested on Thursday (15) in Malwana during a raid carried out by the Northern Province Northern Provincial Crime Unit.
+
+The man has been arrested with locally manufactured handguned and more than 10 grams of ice.
+
+In the early hours of January 23, a gang of four people arrived in a car in the Gampaha Malwathuhiripitiya area and opened fire on Thera.
+
+In this case, 45 -year -old Kalapaluwe, who was injured in the shooting, was admitted to the Dammarathara Thera Gampaha Hospital and died without treatment.
+
+Five suspects were arrested in connection with the incident.Meanwhile, the T-56 gun, allegedly used by the culprits, has been rescued from the fourth suspect.
+
+...
+
+[Data](articles/a66aebe5.json)
+
+[Extended Data](ext_articles/a66aebe5.ext.json)
+
+---
 
 ### CBSL says annual economic growth expected to turn positive in 2024
 
@@ -69,6 +93,74 @@ The island nation successfully reduced its inflation rate to single-digit levels
 [Data](articles/8bbcd63f.json)
 
 [Extended Data](ext_articles/8bbcd63f.ext.json)
+
+---
+
+### Three arrested for poisoning two suspects in police custody
+
+*2024-02-16 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176502) · `ta`
+
+The Colombo Criminal Investigation Division has arrested three suspects on charges of assisting a visitor to two suspects who were detained at the Colombo Street Street Police Station.
+
+The arrested persons were aged 22, 24 and 26, and they were from Kottanchenai, Okodawatte and Colombo 13 areas, police said.
+
+Preliminary investigations by the police revealed that the crime was committed on the orders of a famous accused who is currently in hiding abroad.. The Colombo Crime Branch is conducting further investigations into the incident.
+
+On January 24, they were arrested in connection with the shooting of a man in Jindupitiya, Colombo.
+
+Cyanite poison was found in the milk sides taken into the prison at the police station. In the subsequent investigations, CCTV footage of the suspect and the purchase of milk pages has been caught.
+
+...
+
+[Data](articles/de5f6a84.json)
+
+[Extended Data](ext_articles/de5f6a84.ext.json)
+
+---
+
+### Gnanasaraderera
+
+*2024-02-16 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176503) · `ta`
+
+The BBS's Gnanasaraderera has apologized to the Muslim community for his comments at the 2016 Voice Temple.
+
+Gnanasaraderera has informed the Colombo High Court that I have apologized to the Muslim community of the country for a sense of disgust due to the controversial comments I made eight years ago.
+
+Gnanasaraderera said that he is ready to inform the Muslims in the country for my actions.
+
+The judge said the verdict would be announced on March 28 as investigations into Gnanasaradere's controversial comments were completed.
+
+The lawmaker had filed a lawsuit at the temple on March 30, 2016, saying that Gnanasaraderer's comments and Gnanasara Thera's comments are affecting the unity of ethnicity.
+
+◼️
+
+[Data](articles/035425eb.json)
+
+[Extended Data](ext_articles/035425eb.ext.json)
+
+---
+
+### Opening of Police Police at Colombo National Hospital
+
+*2024-02-16 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176501) · `ta`
+
+The new police police station was opened yesterday near the outpatient unit of the Colombo National Hospital.
+
+The event was held on Thursday (15) under the patronage of Inspector General of Police Deshabandu Thennakoon.
+
+Speaking at the event, the Inspector General of Police Deshabandu Tennakoon said,
+
+Colombo National Hospital is a massive place in the country's hospital structure. Patients from various places around the country visit here to get treatment. We have to protect them.
+
+Meanwhile, a prominent activist in the world has been arrested. We are looking forward to investigating planned criminal activity and drug trade and ending it in the future.
+
+In addition, we have taken steps to arrest the suspects involved in the planned crime and drug trade that fled the country and abroad abroad.. A red warning has been issued against 42 criminals. We are in talks with the international police to arrest them.
+
+◼️
+
+[Data](articles/0a6fd0b6.json)
+
+[Extended Data](ext_articles/0a6fd0b6.ext.json)
 
 ---
 
@@ -149,30 +241,6 @@ The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustai
 [Data](articles/d9479463.json)
 
 [Extended Data](ext_articles/d9479463.ext.json)
-
----
-
-### Opening of Police Police at Colombo National Hospital
-
-*2024-02-16 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176501) · `ta`
-
-The new police police station was opened yesterday near the outpatient unit of the Colombo National Hospital.
-
-The event was held on Thursday (15) under the patronage of Inspector General of Police Deshabandu Thennakoon.
-
-Speaking at the event, the Inspector General of Police Deshabandu Tennakoon said,
-
-Colombo National Hospital is a massive place in the country's hospital structure. Patients from various places around the country visit here to get treatment. We have to protect them.
-
-Meanwhile, a prominent activist in the world has been arrested. We are looking forward to investigating planned criminal activity and drug trade and ending it in the future.
-
-In addition, we have taken steps to arrest the suspects involved in the planned crime and drug trade that fled the country and abroad abroad.. A red warning has been issued against 42 criminals. We are in talks with the international police to arrest them.
-
-◼️
-
-[Data](articles/0a6fd0b6.json)
-
-[Extended Data](ext_articles/0a6fd0b6.ext.json)
 
 ---
 
@@ -1546,6 +1614,46 @@ Answering a question raised by a journalist about the political situation in the
 
 ---
 
+### A suggestion to restructure small and medium scale business loans
+
+*2024-02-15 20:29:35* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-හා-මධ්‍ය-පරිමාණ-ව්‍යාපාරික-ණය-ප්‍රතිව්‍යුහ-ගත-කිරීමට-යෝජනාවක්/11-408118) · `si`
+
+If small and medium scale businessmen are not restructured by the loans obtained for industries, Sri Lankan micro, small, small and the Meditial Commerce that financial institutions are being acquired by financial institutions.
+
+According to the Vasabhaletes President of the Association, the law of the Association also said that the law should be acquired by the Paradise law and that the law should be prepared and the law should be prepared to suit the present.
+
+He said that thousands of businessmen were helpless to pay the loans obtained due to the existing economy crisis.
+
+He said that two three-three businessmen have been informed of the takeover of property under the Parade Law last year, he said.
+
+He has taken over the unemployment to employers and to pay the jobs in the country due to the acquisition of property.Said.
+
+...
+
+[Data](articles/4f8ec3bd.json)
+
+[Extended Data](ext_articles/4f8ec3bd.ext.json)
+
+---
+
+### Red announcements for 42 criminals
+
+*2024-02-15 20:24:15* · [`adalk`](https://www.ada.lk/breaking_news/අපරාධකරුවන්-42කට-රතු-නිවේදන/11-408117) · `si`
+
+Acting IGP Deshanayake Tennakoon said that 42 international red notices have been issued to arrest the criminal crime and the drug delegation.
+
+The Pushaky or "Pusha 'was taken as a disciple of the drug, which was brought to Sri Lanka and be taken to Sri Lanka by obtaining the assistance of the international police.He said.
+
+Speaking at the opening of a new police post in front of the Colombo National Hospital yesterday (SLM), allegedly supporting the plans to escape the CID to escape Criminal Investigations DepartmentThe police officer who is currently underway is to be taken to the country and the assistance of the international police are being taken to bring about it.
+
+◼️
+
+[Data](articles/4ce451e4.json)
+
+[Extended Data](ext_articles/4ce451e4.ext.json)
+
+---
+
 ### Three arrested for admits
 
 *2024-02-15 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193432) · `si`
@@ -1939,107 +2047,5 @@ Dr. Pathirana highlighted the necessity of bolstering the domestic production of
 [Data](articles/bd90a6ee.json)
 
 [Extended Data](ext_articles/bd90a6ee.ext.json)
-
----
-
-### Israel and Sri Lanka sign direct flights deal
-
-*2024-02-15 18:27:00* · [`economynextcom`](https://economynext.com/israel-and-sri-lanka-sign-direct-flights-deal-151108/) · `en`
-
-ECONOMYNEXT – Sri Lanka has signed a direct air service agreement with Israel, its Ports, Shipping, and Aviation Minister Nimal Siripala de Silva has said.
-
-The agreement’s focus was on preventing delays in Sri Lankan workers’ migration abroad, de Silva said at a press briefing on Thursday (15).
-
-“The agreement, signed between the Israeli Ministry of Transport and our Ministry of Ports, Shipping, and Aviation, marks the beginning of direct flights between Israel and Sri Lanka, aiming to enhance passenger convenience,” de Silva said.
-
-He added that the agreement’s objective was facilitating prompt overseas employment for Sri Lankan workers and noted the interest of many Israelis in visiting Sri Lanka.
-
-Last year Sri Lanka signed a deal to send 10,000 workers to Israel amid an ongoing war.
-
-Sending Sri Lankans to work in Israel is insensitive: Legislator
-
-...
-
-[Data](articles/48021bc4.json)
-
-[Extended Data](ext_articles/48021bc4.ext.json)
-
----
-
-### Sri Lanka - Afghanistan Twenty20 Cricket Tournament: An announcement for cricket fans
-
-*2024-02-15 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176472) · `ta`
-
-The first Twenty20 cricket match between Sri Lanka and Afghanistan will be held in Dambulla on the 17th.
-
-Accordingly, the Cricket Board has issued a statement to sports fans to avoid buying tickets to watch the match.
-
-Meanwhile, it is reported that more people were waiting in a long line to get a large number of people's tickets for the competition on Thursday (15) near the Dambulla Playground.
-
-◼️
-
-[Data](articles/ea1ef8b5.json)
-
-[Extended Data](ext_articles/ea1ef8b5.ext.json)
-
----
-
-### CPSTL audit exposes data deletion and ‘massive losses’ in stock holding
-
-*2024-02-15 18:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97301/cpstl-audit-exposes-data-deletion-and-massive-losses-in-stock-holding-) · `en`
-
-Minister of Power and Energy Kanchana Wijesekara says he has received an audit report from KPMG and CPSTL audit investigation officials saying they have found that more than 1.3 million entries on SAP data have been changed or deleted since 2010 and that most have occurred in 2022 during the height of Sri Lanka’s fuel crisis.
-
-In a post on ‘X’, formerly known as Twitter, the minister said that the major findings of the forensic audit conducted by KPMG on the sales and distribution of petroleum products from Ceylon Petroleum Storage Terminals Ltd (CPSTL) was briefed to him this afternoon (15).
-
-Wijesekara stated that the forensic audit was initiated based on a complaint that he made to the CID in August 2022 on irregularities at CPSTL and the Ceylon petroleum Corporation (CPC).
-
-He stated that the Criminal Investigations Department (CID), after their initial investigations, had advised the Ministry of Power and Energy to conduct a full forensic audit to further investigate.
-
-...
-
-[Data](articles/6d73d92e.json)
-
-[Extended Data](ext_articles/6d73d92e.ext.json)
-
----
-
-### The Ceremony Backup Bill will be presented to Parliament soon -Justice Minister Wijeyadasa Rajapaksa
-
-*2024-02-15 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176473) · `ta`
-
-Amendments to the Ceremony Backup Act have been sent to the Department of Law. Minister of Justice Wijeyadasa Rajapaksa said that the new Bill will be prepared and that it will be presented to Parliament soon.
-
-He was speaking at a press conference held at the Ministry of Justice, Prison and the Constitutional Reform on Thursday (15).
-
-In 2017, the government took steps to bring in the Faculty Backup Act to monitor and regulate social websites. The Media Ministry was given the responsibility of listening to the views of all parties on the law and making amendments to it and submitting it to Parliament.
-
-Later, when our parties went to Singapore to discuss the matter with the headquarters of the social networks, they were also in the process of compliance with the two sides to go to self -control without legal restrictions.
-
-However, till 2023, more than 5 thousand complaints were received to the police computer criminal category.
-
-...
-
-[Data](articles/6c55a15f.json)
-
-[Extended Data](ext_articles/6c55a15f.ext.json)
-
----
-
-### Atickened OIC's work in Kalpitiya
-
-*2024-02-15 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193427) · `si`
-
-The OIC of the OIC has been suspended for sexually abusing women's constable.
-
-The OIC of the Kalpitiya Police has been suspended as per the decision of the Police Commission.
-
-Earlier, he was bailed after he was produced in court and the case was taken to be called on March 6.
-
-◼️
-
-[Data](articles/ef8a6403.json)
-
-[Extended Data](ext_articles/ef8a6403.ext.json)
 
 ---

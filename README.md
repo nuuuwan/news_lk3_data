@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 21:17:20**
+As of **2024-02-16 21:33:26**
 
 ## Newspaper Stats
 
@@ -26,39 +26,43 @@ dailymirrorlk | 1,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,537 (100.0%) of 7,539 articles have been extended.
+7,539 (100.0%) of 7,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### கிளிநொச்சி பரந்தன் வீதியில் விபத்து : எருமை மாடுகளுடன் மோதிய பேருந்து
+### Accident on Kilinochchi Paranthan Road: Bus collided with buffalo cows
 
 *2024-02-16 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176574) · `ta`
 
-கிளிநொச்சி பரந்தன் ஏ -35 வீதியில் இன்று வெள்ளிக்கிழமை (16) காலை இடம் பெற்ற விபத்தில் ஒருவர் காயமடைந்துள்ளார்.
+One person was injured in an accident on Friday morning on the A -35 road in Kilinochchi.
 
-பரந்தன் முல்லைத்தீவு ஏ 35 வீதியின் புளியம்பொக்கணை பகுதியிலிருந்து மிதிவெடி அகற்றும் பணியாளர்களை ஏற்றிச்சென்ற பேருந்து ஒன்று வீதியில் நின்ற எருமை மாடுகளுடன் மோதிய போதே இந்த விபத்து இடம் பெற்றுள்ளது.
+The accident occurred when a bus carrying bicycle removal from the Paradhan Mullaitivu A35 road collided with buffaloes on the road.
 
-இதே வேளை எதிரே வந்த மோட்டார் சைக்கிள் ஒன்று பேருந்துடன் மோதிய எருமை மாட்டுடன் மோதியதால் நபர் ஒருவர் காயமடைந்துள்ளார்.
+At the same time, a man was injured when a motorcycle collided with a buffalo.
 
 ◼️
 
 [Data](articles/b531d67b.json)
 
+[Extended Data](ext_articles/b531d67b.ext.json)
+
 ---
 
-### கிழக்குப் பல்கலைக்கழக மாணவர் ஒன்றியத்தினர் ஆர்ப்பாட்டம்!
+### Eastern University Student Union demonstration
 
 *2024-02-16 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/176575) · `ta`
 
-குறித்த ஆர்ப்பாட்டம் கிழக்குப் பல்கலைக்கழகத்துக்கு முன்பாக வெள்ளிக்கிழமை (16) பிற்பகல் 5.00 மணியளவில் நடைபெற்றுள்ளது.
+The demonstration took place in front of the Eastern University at 5.00 pm on Friday (16).
 
-ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்த பல்கலைக்கழக மாணவர்கள் புதிய விடுதி வளாகத்தை உடனே தாருங்கள்...!, தனித்தனியாக மானியங்கள், ஆய்வகப் பொருட்கள் மற்றும் உபகரணங்கள் வழங்குங்கள், அனைத்து மாணவர்களுக்கும் WI-FI வசதிகளை செய்து கொடுங்கள்...!, தாமதமான மகாபொல மாணவர் உதவித் தவணைகள் உடனே வழங்க ஆவண செய்யுங்கள்...! போன்ற கோஷங்களை எழுப்பியவாறு ஆர்ப்பாட்டத்தில் ஈடுபட்டதன் பின்னர் கண்டன பேரணியிலும் ஈடுபட்டிருந்தனர்.
+Give the university students involved in the demonstration immediately ...!, Provide subsidies, laboratories and equipment, provide Wi-Fi facilities to all students ...!They were also involved in the rally after the demonstration was raised.
 
 ◼️
 
 [Data](articles/6b5f8db0.json)
+
+[Extended Data](ext_articles/6b5f8db0.ext.json)
 
 ---
 

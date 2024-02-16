@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 10:02:29**
+As of **2024-02-16 10:17:19**
 
 ## Newspaper Stats
 
-*Scraped **7,401** Articles*
+*Scraped **7,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 387
 dailyftlk | 400
 adalk | 631
 tamilmirrorlk | 902
-adaderanalk | 903
+adaderanalk | 904
 virakesarilk | 969
 adaderanasinhalalk | 1,045
 dailymirrorlk | 1,085
@@ -26,11 +26,29 @@ dailymirrorlk | 1,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,401 (100.0%) of 7,401 articles have been extended.
+7,401 (100.0%) of 7,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Sri Lanka’s annual economic growth to turn positive in 2024 - CBSL
+
+*2024-02-16 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97313/sri-lankas-annual-economic-growth-to-turn-positive-in-2024-cbsl) · `en`
+
+Sri Lanka’s annual economic growth is expected to remain positive in 2024 and gradually reach its potential over the medium term, the Central Bank said in its latest monetary policy report.
+
+The document, published on Thursday (Feb.15), provides forward-looking insights about the economy, particularly in terms of inflation and economic growth.
+
+It also aims to provide an assessment of risks to the projections on inflation and economic growth, considering the ongoing and expected developments on domestic and global fronts.
+
+The island nation successfully reduced its inflation rate to single-digit levels in 2023 and restored price stability, after containing the historically highest inflation observed in 2022, the Central Bank said, adding that inflation is projected to stabilise around the targeted level of 5% (year-on-year) over the medium term.
+
+...
+
+[Data](articles/8bbcd63f.json)
+
+---
 
 ### US concerned about reports of intimidation, voter suppression in Pakistan election
 
@@ -2025,25 +2043,5 @@ This time, the Board will collect details of the applicant’s family members in
 [Data](articles/928f1403.json)
 
 [Extended Data](ext_articles/928f1403.ext.json)
-
----
-
-### Kalpitiya OIC interdicted over alleged sexual harassment of Woman Constable
-
-*2024-02-15 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97300/kalpitiya-oic-interdicted-over-alleged-sexual-harassment-of-woman-constable) · `en`
-
-The officer-in-charge (OIC) of the Kalpitiya Police Station has been interdicted by the National Police Commission over the alleged incident of sexually harassing a Woman Police Constable (WPC), the Police Media Spokesman SSP Nihal Thalduwa said.
-
-The suspected police OIC had surrendered to the Puttalam Magistrate’s Court through a lawyer in connection with the incident on Tuesday (13), after the Kuliyapitiya SSP had reported facts to the court and initiated an investigation.
-
-Later, the court had ordered the suspect to be released on a surety bail of Rs. 500,000, and ordered him to report to the Office of Senior Superintendent of Police (SSP) in Kuliyapitiya on every last Sunday of the month.
-
-On Tuesday, Sri Lanka Police announced that necessary disciplinary action will be taken against the Police OIC in question in addition to the relevant legal action.
-
-◼️
-
-[Data](articles/73c9ee47.json)
-
-[Extended Data](ext_articles/73c9ee47.ext.json)
 
 ---

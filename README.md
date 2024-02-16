@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 02:02:26**
+As of **2024-02-17 02:17:17**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ dailymirrorlk | 1,116
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,564 (100.0%) of 7,565 articles have been extended.
+7,565 (100.0%) of 7,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த 250 கிலோ பதப்படுத்தப்பட்ட கடல் அட்டைகள் ஆற்றங்கரை அருகே பறிமுதல்: ஒருவர் கைது
+### 250 kg of processed sea cards seized near the river
 
 *2024-02-17 01:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176585) · `ta`
 
-ராமேஸ்வரம் ஆற்றங்கரை கடற்கரை அருகே அம்மன் கோவில் குடியிருப்பு பகுதியில் உள்ள தோப்பில் இலங்கைக்குக் கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த  5 லட்சம் மதிப்பிலான 250 கிலோ பதப்படுத்தப்பட்ட கடல் அட்டைகளை மெரைன் பொலிசார் பறிமுதல் செய்ததுடன், தோப்பின் உரிமையாளர் கைது செய்யப்பட்டார்.
+Marine police have confiscated 250 kg of processed sea cards worth Rs 5 lakh for smuggling to Sri Lanka in the Amman temple residential area near the Rameshwaram River Beach and the owner of the grove was arrested.
 
-ராமநாதபுரம் மாவட்டம் இலங்கைக்கு மிக அருகே இருப்பதால் தனுஷ்கோடி கடல் வழியாக இலங்கைக்குச் சமீபகாலமாகக் கடல் அட்டை, கஞ்சா, ஏலக்காய், அழகு சாதன பொருட்கள்,பூச்சிக்கொல்லி மருந்து உள்ளிட்டவைகள் அதிக அளவு கடத்தப்பட்டு வருகிறது.
+Since Ramanathapuram district is very close to Sri Lanka, Dhanushkodi has recently been transported to Sri Lanka by sea card, cannabis, cardamom, cosmetics and pesticides.
 
-இந்நிலையில் வெள்ளிக்கிழமை (16) காலை பனைக்குளம் அடுத்த ஆற்றங்கரை அம்மன் கோயில் பகுதியில் உள்ள ஒரு தோப்பில் தடை செய்யப்பட்ட கடல் அட்டைகள் பதப்படுத்தி வருவதாக மெரன் பொலிசாருக்கு கிடைத்த ரகசிய தகவலின் அடிப்படையில் ஆற்றங்கரை மெரைன் காவல் நிலைய சார்பு ஆய்வாளர் தாரிக் தலைமையிலான மெரைன் பொலிசார் அப்பகுதியில் அதிரடி சோதனை நடத்தினர்.
+On Friday morning (16), the Marine Police, led by Tariq, raided the area, based on the confidential information received by Meran Police that the banned sea cards were being processed in a grove in the Amman temple area next to the Pannaikulam.
+
+It was then revealed that about 250 kg of processed sea cards were smuggled into Sri Lanka at a grove in the Amman temple residential area.
+
+Marine police then confiscated sea cards and arrested Jakaruddin, the owner of the grove, and confiscated a two -wheeler used for the smuggling of the sea card and the logistics used.
 
 ...
 
 [Data](articles/f068145b.json)
+
+[Extended Data](ext_articles/f068145b.ext.json)
 
 ---
 

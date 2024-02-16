@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 23:17:36**
+As of **2024-02-16 23:33:32**
 
 ## Newspaper Stats
 
-*Scraped **7,548** Articles*
+*Scraped **7,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 385
 economynextcom | 398
 dailyftlk | 402
-adalk | 643
-tamilmirrorlk | 919
+adalk | 645
+tamilmirrorlk | 920
 adaderanalk | 925
 virakesarilk | 991
 adaderanasinhalalk | 1,077
@@ -26,7 +26,7 @@ dailymirrorlk | 1,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,548 (100.0%) of 7,548 articles have been extended.
+7,548 (100.0%) of 7,551 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,38 @@ Address: The Matha 40, Yaya 4, Tambuttegama. No. 84, Galrolas, Cooper.
 [Data](articles/864893c0.json)
 
 [Extended Data](ext_articles/864893c0.ext.json)
+
+---
+
+### யாழ் இசை நிகழ்வுகள் குறித்து அமைச்சர் அதிரடி
+
+*2024-02-16 22:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-இசை-நிகழ்வுகள்-குறித்து-அமைச்சர்-அதிரடி/71-333331) · `ta`
+
+யாழ்ப்பாணத்தில் நடைபெற்ற இசை நிகழ்வில் ஏற்பட்ட குழப்பங்களுக்கு தமது நெறிப்படுத்தல்கள் இல்லாமையும் ஒரு காரணம் என கடற்தொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+
+நிகழ்வு தொடர்பில் யாழ்.மாநகர சபை மற்றும் யாழ்ப்பாண பொலிஸார் கூடிய கவனம் செலுத்தி இருக்க வேண்டும். நானும் அதனை பார்த்து இருக்க வேண்டும். நானும் அது தொடர்பில் கரிசனை இல்லாமல் இருந்து விட்டேன்.
+
+இனிவரும் காலங்களில் இப்படியான நிகழ்ச்சிகள் நடைபெறுமாக இருந்தால் , மக்கள் பிரச்சனைகள் இன்றி சந்தோசமாக நிகழ்வுகளைக் கண்டு களிக்க கூடியவாறான ஏற்பாடுகளைச் செய்வோம் எனத் தெரிவித்தார்.  R
+
+◼️
+
+[Data](articles/0a1e6547.json)
+
+---
+
+### මුහුදු මහා විහාරය ඇතුළු ඓතිහාසික සිද්ධස්ථාන 11ක් පූජා භූමි ලෙස නම් කෙරේ
+
+*2024-02-16 21:58:55* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදු-මහා-විහාරය-ඇතුළු-ඓතිහාසික-සිද්ධස්ථාන-11ක්-පූජා-භූමි-ලෙස-නම්-කෙරේ/11-408131) · `si`
+
+බුද්ධ ශාසනය ආරක්ෂා කරමින්, එය සුරක්ෂිත කිරීමට ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුවම ජනපති කැපවී සිටිනවා- ජනාධිපති ලේකම්.
+
+ජාතික භෞතික සැලසුම් දෙපාර්තමේන්තුව විසින් රජයේ ගැසට් පත්‍රය මඟින් ප්‍රකාශයට පත් කරන ලද පුරාවිද්‍යාත්මක, ඓතිහාසික සහ පූජනීය වටිනාකමකින් යුත් විහාරස්ථාන 11ක් පූජා භූමි ලෙස ප්‍රකාශයට පත් කෙරේ.
+
+එම භූමි ප්‍රදේශ පූජා භූමි ලෙස නම් කරමින් ඊට අදාළ සන්නස් පත්‍ර පිළිගැන්වීම ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (15) ජනාධිපති කාර්යාලයේ දී සිදු විය.
+
+...
+
+[Data](articles/8fb96126.json)
 
 ---
 
@@ -123,6 +155,24 @@ The police informs the public to use the following alternative routes.
 [Data](articles/1baa4c77.json)
 
 [Extended Data](ext_articles/1baa4c77.ext.json)
+
+---
+
+### රේගුව අකුරට වැඩ කිරීම නවත්වයි
+
+*2024-02-16 21:18:23* · [`adalk`](https://www.ada.lk/breaking_news/රේගුව-අකුරට-වැඩ-කිරීම-නවත්වයි/11-408130) · `si`
+
+රේගු නිලධාරීන් විසින් ඉල්ලීම් කීපයක් මුල් කර ගනිමින්  02/15 දින ආරම්භ කරනු ලැබූ " අකුරට වැඩ කිරීමේ "
+
+වෘත්තීය ක්‍රියාමාර්ගය 02/16 දින මුදල් අමාත්‍යාංශය විසින් ලිඛිතව ලබා දුන් සාධනීය විසදුම් නිසා අත්හිටුවීමට පියවර ගත් බව ජ්‍යෙෂ්ඨ රේගු නිලධාරීන්ගේ සංගමයේ සභාපති එන්.එස්.කුමානායක මහතා සහ රේගු නිලධාරීන්ගේ සංගමයේ සභාපති අමිල සංජීව මහතා පැවසීය .
+
+ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගේ මැදිහත් වීම මත මුදල් අමාත්‍යාංශය විසින් රේගු නිලධාරීන් විසින් සිදු කළ ඉල්ලීම් සියල්ලටම පිළිගත හැකි සාධනීය විසදුමක් ලිඛිතව ලබා දීමට එකග වූ බව එම අමාත්‍යාංශයේ අතිරේක ලේකම් නිමාලි පුල්ලෙපෙරුම මහත්මිය විසින් රේගු අධ්‍යක්ෂ ජනරාල්වරයා වෙත ලිපියක් මගින් දැනුම් දී ඇති බව ද රේගු වෘත්තීය සමිති සංගම් වල සභාපතිවරු පැවසීය .
+
+එම ලිපියට අනුව රේගු නිලධාරීන් විසින් ආරම්භ කර ක්‍රියාත්මක කළ   " අකුරට වැඩ කිරීමේ "  වෘත්තීය ක්‍රියාමාර්ගය 02/16 දින අත්හිටුවීම තම වෘත්තීය සමිති රැස් වී සාකච්ඡා කර එකගතාවයට පත් වූ බව ද එම සභාපතිවරුන් වැඩිදුරටත් පැවසීය .
+
+◼️
+
+[Data](articles/ea19fd9e.json)
 
 ---
 
@@ -2039,73 +2089,5 @@ ECONOMYNEXT – Sri Lanka’s National Apprentice and Industrial Training Author
 [Data](articles/d2c870af.json)
 
 [Extended Data](ext_articles/d2c870af.ext.json)
-
----
-
-### Colombo - Wellawaya main road blocked due to protest
-
-*2024-02-16 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97319/colombo-wellawaya-main-road-blocked-due-to-protest) · `en`
-
-The Colombo - Wellawaya main road has been completely blocked due to a public demonstration staged this morning, Ada Derana reporter said.
-
-The locals of the area have launched the protest, obstructing vehicular movement on the road at the Weherayaya area of Wellawaya, demanding solutions to the human-elephant conflict in the area.
-
-As a result, traffic congestion ensued in the section of the Colombo - Wellawaya main road blocked by the protesters, according to the reporter.
-
-However, the protesting local residents stated that they will continue the demonstration until a positive solution is received to their issues.
-
-◼️
-
-[Data](articles/ad57256f.json)
-
-[Extended Data](ext_articles/ad57256f.ext.json)
-
----
-
-### Chinese Marathon Flow for the first time in Sri Lanka
-
-*2024-02-16 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176516) · `ta`
-
-For the first time in Sri Lanka, the Great Chinese Marathon Flow will be held in May.
-
-More than 2000 to 3,000 Chinese athletes will be participating in Sri Lanka under the Ni Hao Zhong Guo program.
-
-Shiratha Peiris, President of Tourism and Hotel Management, said this.
-
-Shiranda Peiris, who recently visited Chonging, China, has signed the Ni Hao Chong Guo project to bring more Chinese tourists to Sri Lanka within two years.
-
-Accordingly, the Marathon flow is scheduled to be held from the 1st to the 3rd of May this year.
-
-Following this, a seafood festival is to be held in the Unavattuna Kagadarakarai area.
-
-Sri Lanka Tourism Promotion Bureau Chairman Salaka Gajabahu says that the seafood is planned annually.
-
-Under the Ni Hao Chong Guo scheme, it is expected to attract 10 million tourists over the next two years and earn an income of Rs 225 billion.
-
-◼️
-
-[Data](articles/ac4aad5a.json)
-
-[Extended Data](ext_articles/ac4aad5a.ext.json)
-
----
-
-### Court order about Pharaya
-
-*2024-02-16 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193459) · `si`
-
-The Prime Minister has been granted permission to the Department of Investigation and the Criminal Investigation Department to detaine the detainees of the Under Bandara and Bandaranaike.
-
-The Criminal Investigation Department (CID) has reported to the Fort Magistrate's Court under the Prevention of Terrorism Act.
-
-The Lirm Shaddic, Is Pushite is considered the main goal of the drug dealer named Kudu Sialiage.
-
-It was revealed that he had fled to Dubai in February 9, 2021.
-
-◼️
-
-[Data](articles/46a014fb.json)
-
-[Extended Data](ext_articles/46a014fb.ext.json)
 
 ---

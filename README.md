@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 01:33:13**
+As of **2024-02-17 01:50:06**
 
 ## Newspaper Stats
 
@@ -26,47 +26,51 @@ dailymirrorlk | 1,116
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,562 (100.0%) of 7,564 articles have been extended.
+7,564 (100.0%) of 7,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### சுகாதார அமைச்சர் மட்டக்களப்பு போதனா வைத்தியசாலைக்கு விஜயம்
+### Health Minister visits Batticaloa Teaching Hospital
 
 *2024-02-17 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176584) · `ta`
 
-மட்டக்களப்பு மாவட்டத்திற்கு வெள்ளிக்கிழமை(16) விஜயம் ஒன்றினை மேற்கொண்டுள்ள சுகாதார அமைச்சர் வைத்தியர் ரமேஷ் பத்திரண அவர்கள் மட்டக்களப்பு போதனா வைத்தியசாலைக்கு விஜயம் செய்திருந்தார்.
+Health Minister Ramesh Pathirana, who was on a visit to the Batticaloa district on Friday (16), visited the Batticaloa Teaching Hospital.
 
-இதன்போது வைத்தியசாலையின் பணிப்பாளர்  வைத்தியர் கே.கலாரஞ்சனி தலைமையில் போதனா வைத்தியசாலை கேட்போர் கூடத்தில்  நடைபெறும் கலந்துரையாடல் ஒன்றும் இடம்பெற்றிருந்தது.
+A discussion was held at the Teaching Hospital auditorium headed by Dr. K. Kalaranjani, Director of the Hospital.
 
-இதில் மாவட்டத்தின் நாடாளுமன்ற உறுப்பினர்களான அலி சாஹிர் மௌலானா, இராஜாங்க அமைச்சர்களான சி.சந்திரகாந்தன் மற்றும் ச.வியாளேந்திரன்,  சுகாதார அமைச்சின் செயலாளர் வைத்தியர் மஹிபால, சுகாதார சேவைகள் பணிப்பாளர் வைத்தியர் அசேல குணவர்தன உட்பட சுகாதாரத்துறை அதிகாரிகள், வைத்திய நிபுணர்கள் எனப் பலரும் கலந்து கொண்டிருந்தனர்.
+Health officials and medical experts were present at the event, including MPs of the district, Ali Zahir Maulana, diplomatic ministers C. Chandrakanthan and C.Vayalendran, Secretary to the Ministry of Health, Dr. Maibala, Director of Health Services, Dr. Asela Gunawardena.
 
-து வைத்தியசாலையின் குறைபாடுகள், மற்றும் தேவைகள் குறித்து அமைச்சர் குழாம் கேட்டறிந்து கொண்டுள்ளனர்.
+The minister's panel has been asked about the shortcomings and needs of the hospital.
 
 ◼️
 
 [Data](articles/b9afacd4.json)
 
+[Extended Data](ext_articles/b9afacd4.ext.json)
+
 ---
 
-### வவுனியா - வீரபுரம் பகுதியில் கிணற்றிலிருந்து இளம் குடும்பஸ்தரின் சடலம் மீட்பு
+### Recovery of young family from well from Veerapuram area
 
 *2024-02-17 00:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176583) · `ta`
 
-வவுனியா, வீரபுரம் பகுதியில் உள்ள கிணறு ஒன்றிலிருந்து இளம் குடும்பஸ்தரின் சடலம் வெள்ளிக்கிழமை (15) காலை மீட்கப்பட்டுள்ளதாக செட்டிகுளம் பொலிசார் தெரிவித்துள்ளனர்.
+The body of a young family member has been recovered from a well in Veerapuram area in Vavuniya on Friday morning, Chettikulam police said.
 
-வவுனியா, செட்டிகுளம், வீரபுரம் பகுதியில் வசிக்கும் இளம் குடும்பம் ஒன்றுக்குள் ஏற்பட்ட வாய்தர்க்கத்தையடுத்து கணவனான இளம் குடும்பஸ்தர் வீட்டில் இருந்த கிணற்றுக்குள் குதித்துள்ளார்.
+A young family in Vavuniya, Chettikulam and Veerapuram area has jumped into the well at the home of a young family.
 
-இதனையடுத்து, மனைவியும், பிள்ளைகளும் அயலில் உள்ளவர்களை அழைத்து மீட்க முயற்சித்தனர். இதன்போது கிராம அலுவலர் மற்றும் பொலிசாருக்கும் அயலவர்கள் முறைப்பாடு செய்தனர்.
+Subsequently, the wife and the children tried to recover the neighbors. Neighbors lodged a complaint with the Grama Niladhari and the police.
 
-அப் பகுதி மக்களின் துணையுடன் அவர் மீட்கப்பட்ட போதும், அவர் உயிரிழந்த நிலையிலேயே மீட்கப்பட்டுள்ளார். இதனையடுத்து சடலம் செட்டிகுளம் வைத்தியசாலையில் பொலிசாரால் ஒப்படைக்கப்பட்டதுடன், அங்கிருந்து வவுனியா வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டது.
+Although he was rescued with the help of the people, he was rescued while he died. The body was subsequently handed over to the Chettikulam Hospital and sent to the Vavuniya Hospital.
 
-சம்பவத்தில் மூன்று பிள்ளைகளின் தந்தையான 33 வயதுடைய செபமாலை மொரிசன் என்பவரே மரணமடைந்தவராவார். சம்பவம் தொடர்பில் செட்டிகுளம் பொலிசார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+The 33 -year -old Sepamalai Morrison, the father of three children in the incident. Chettikulam police are conducting investigations into the incident.
 
 ◼️
 
 [Data](articles/db698307.json)
+
+[Extended Data](ext_articles/db698307.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 23:33:32**
+As of **2024-02-16 23:51:51**
 
 ## Newspaper Stats
 
-*Scraped **7,551** Articles*
+*Scraped **7,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 920
 adaderanalk | 925
 virakesarilk | 991
 adaderanasinhalalk | 1,077
-dailymirrorlk | 1,111
+dailymirrorlk | 1,113
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,548 (100.0%) of 7,551 articles have been extended.
+7,553 (100.0%) of 7,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Police release photos of three Beliatta shooting suspects
+
+*2024-02-16 22:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-release-photos-of-three-Beliatta-shooting-suspects/108-277206) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - Police today released photographs of three suspects wanted over the shooting in Beliatta, where five persons were killed on January 22.
+
+Police said the Beliatta Police are investigating into the incident and three wanted suspects over the shooting are absconding.
+
+One of the suspects has been identified as Mahagamage Dinesh Priyankara alias 'Chootiya,' a 35-year-old resident of Waragoda, Kahawa in Ambalangoda.
+
+Police said another suspect has been identified as 50-year-old Nishantha Saman Kumara Dias, a resident of Yaya 4 Thambuththegama and Galpatha in Anguruwella, while the third suspect is 41-year-old Ranmuni Mahesh Hemantha Silva, a resident of Puwakgahawatta, Makandana in Uragaha.
+
+Police urged any informants who are aware of the whereabouts of these suspects to contact SSP Tangalle Division through telephone number 071-8591488 or OIC Beliatta through telephone number 071-859497.
+
+...
+
+[Data](articles/fa417205.json)
+
+[Extended Data](ext_articles/fa417205.ext.json)
+
+---
 
 ### Three suspects of the five suspects have been revealed
 
@@ -54,35 +76,63 @@ Address: The Matha 40, Yaya 4, Tambuttegama. No. 84, Galrolas, Cooper.
 
 ---
 
-### யாழ் இசை நிகழ்வுகள் குறித்து அமைச்சர் அதிரடி
+### Minister Action on Jaffna Music Events
 
 *2024-02-16 22:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-இசை-நிகழ்வுகள்-குறித்து-அமைச்சர்-அதிரடி/71-333331) · `ta`
 
-யாழ்ப்பாணத்தில் நடைபெற்ற இசை நிகழ்வில் ஏற்பட்ட குழப்பங்களுக்கு தமது நெறிப்படுத்தல்கள் இல்லாமையும் ஒரு காரணம் என கடற்தொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+Minister of Fisheries Douglas Devananda said that the lack of their regulations at the music event in Jaffna is one of the reasons.
 
-நிகழ்வு தொடர்பில் யாழ்.மாநகர சபை மற்றும் யாழ்ப்பாண பொலிஸார் கூடிய கவனம் செலுத்தி இருக்க வேண்டும். நானும் அதனை பார்த்து இருக்க வேண்டும். நானும் அது தொடர்பில் கரிசனை இல்லாமல் இருந்து விட்டேன்.
+The Jaffna Municipal Council and the Jaffna Police should be focused on the event. I too have to look at it too. I too have been without concern about it.
 
-இனிவரும் காலங்களில் இப்படியான நிகழ்ச்சிகள் நடைபெறுமாக இருந்தால் , மக்கள் பிரச்சனைகள் இன்றி சந்தோசமாக நிகழ்வுகளைக் கண்டு களிக்க கூடியவாறான ஏற்பாடுகளைச் செய்வோம் எனத் தெரிவித்தார்.  R
+If such events are taking place in the future, we will make arrangements that will be able to find events without problems.R
 
 ◼️
 
 [Data](articles/0a1e6547.json)
 
+[Extended Data](ext_articles/0a1e6547.ext.json)
+
 ---
 
-### මුහුදු මහා විහාරය ඇතුළු ඓතිහාසික සිද්ධස්ථාන 11ක් පූජා භූමි ලෙස නම් කෙරේ
+### 27 students injured after being attacked by wasps in Mawanella
+
+*2024-02-16 22:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/27-students-injured-after-being-attacked-by-wasps-in-Mawanella/108-277188) · `en`
+
+Mawanella, Feb 16 (Daily Mirror) - Thirty individuals, including 27 students attending an extracurricular boxing class in Mawanella, were attacked by wasps, a senior official at the Hospital said.
+
+The attack occurred near an abandoned ten-storey building known for housing multiple wasps' nests, a recurring hazard that has plagued the vicinity for some time.
+
+Locals have repeatedly alerted authorities to the presence of these nests, expressing concerns over the safety of residents and visitors to Mawanella town. However, no action has been taken by authorities to address the issue, residents lament.
+
+The mishap occurred during an additional boxing session held today near the aforementioned building, where the students, accompanied by three parents, fell victim to a swarm of wasps.
+
+Following the attack, all 27 children, accompanied by three parents, were rushed to the  Mawanella Hospital and are currently receiving treatment. All the affected children are under the age of 15.
+
+◼️
+
+[Data](articles/7b15e768.json)
+
+[Extended Data](ext_articles/7b15e768.ext.json)
+
+---
+
+### 11 historical shrines including the seawater temple
 
 *2024-02-16 21:58:55* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදු-මහා-විහාරය-ඇතුළු-ඓතිහාසික-සිද්ධස්ථාන-11ක්-පූජා-භූමි-ලෙස-නම්-කෙරේ/11-408131) · `si`
 
-බුද්ධ ශාසනය ආරක්ෂා කරමින්, එය සුරක්ෂිත කිරීමට ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුවම ජනපති කැපවී සිටිනවා- ජනාධිපති ලේකම්.
+President is committed to the Constitution to defend the Buddha Sasana and safeguard the Buddha - Secretary to the President.
 
-ජාතික භෞතික සැලසුම් දෙපාර්තමේන්තුව විසින් රජයේ ගැසට් පත්‍රය මඟින් ප්‍රකාශයට පත් කරන ලද පුරාවිද්‍යාත්මක, ඓතිහාසික සහ පූජනීය වටිනාකමකින් යුත් විහාරස්ථාන 11ක් පූජා භූමි ලෙස ප්‍රකාශයට පත් කෙරේ.
+The National Physical Planning Department declared 11 temples, an archaeological, historic and sacred value, announced by the National Physical Planning Department.
 
-එම භූමි ප්‍රදේශ පූජා භූමි ලෙස නම් කරමින් ඊට අදාළ සන්නස් පත්‍ර පිළිගැන්වීම ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (15) ජනාධිපති කාර්යාලයේ දී සිදු විය.
+The president was held at the Presidential Secretariat yesterday under the patronage of the Secretary to the Presidential Secretariat yesterday (15).
+
+Mawaduwa Poya Maha Viharaya in the Ampara District in the Ampara District in the Ampara District in the Ampara District in the Ampara District in the Ampara District in the Ampara District Division of the Ampara District in the Ampara District in the Ampara District in the Ampara District.Under the Ugamaha Viharaya belonging to the Secretariat Division is Sri Saddharmar enabled in the Kuchchaveli Divisional Secretariat Division of Trincomalee District,
 
 ...
 
 [Data](articles/8fb96126.json)
+
+[Extended Data](ext_articles/8fb96126.ext.json)
 
 ---
 
@@ -158,21 +208,23 @@ The police informs the public to use the following alternative routes.
 
 ---
 
-### රේගුව අකුරට වැඩ කිරීම නවත්වයි
+### Customs stop working to letter
 
 *2024-02-16 21:18:23* · [`adalk`](https://www.ada.lk/breaking_news/රේගුව-අකුරට-වැඩ-කිරීම-නවත්වයි/11-408130) · `si`
 
-රේගු නිලධාරීන් විසින් ඉල්ලීම් කීපයක් මුල් කර ගනිමින්  02/15 දින ආරම්භ කරනු ලැබූ " අකුරට වැඩ කිරීමේ "
+Customs personnel operate on 02/15 on 02/15
 
-වෘත්තීය ක්‍රියාමාර්ගය 02/16 දින මුදල් අමාත්‍යාංශය විසින් ලිඛිතව ලබා දුන් සාධනීය විසදුම් නිසා අත්හිටුවීමට පියවර ගත් බව ජ්‍යෙෂ්ඨ රේගු නිලධාරීන්ගේ සංගමයේ සභාපති එන්.එස්.කුමානායක මහතා සහ රේගු නිලධාරීන්ගේ සංගමයේ සභාපති අමිල සංජීව මහතා පැවසීය .
+The Chairman of the Senior Custom Officers Association NS The President of the Senior Customs Association NS Mr. Sanjeewa said that the Ministry of Finance had taken steps to be suspended by the Ministry of Finance on Deadline.
 
-ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගේ මැදිහත් වීම මත මුදල් අමාත්‍යාංශය විසින් රේගු නිලධාරීන් විසින් සිදු කළ ඉල්ලීම් සියල්ලටම පිළිගත හැකි සාධනීය විසදුමක් ලිඛිතව ලබා දීමට එකග වූ බව එම අමාත්‍යාංශයේ අතිරේක ලේකම් නිමාලි පුල්ලෙපෙරුම මහත්මිය විසින් රේගු අධ්‍යක්ෂ ජනරාල්වරයා වෙත ලිපියක් මගින් දැනුම් දී ඇති බව ද රේගු වෘත්තීය සමිති සංගම් වල සභාපතිවරු පැවසීය .
+Customs Trade Unions have informed the Director General of Customs, Nimali Pululama, that the Ministry of Finance has agreed to provide a positive solution by Customs Officers in writing due to the intervention of the Secretary to the Presidential Secretary.Chairmen of the Associations said.
 
-එම ලිපියට අනුව රේගු නිලධාරීන් විසින් ආරම්භ කර ක්‍රියාත්මක කළ   " අකුරට වැඩ කිරීමේ "  වෘත්තීය ක්‍රියාමාර්ගය 02/16 දින අත්හිටුවීම තම වෘත්තීය සමිති රැස් වී සාකච්ඡා කර එකගතාවයට පත් වූ බව ද එම සභාපතිවරුන් වැඩිදුරටත් පැවසීය .
+According to the letter, customs officers initiated and conducted the trade union action on 02/16 to discuss their trade unions and agreed to the suspension of their trade unions.
 
 ◼️
 
 [Data](articles/ea19fd9e.json)
+
+[Extended Data](ext_articles/ea19fd9e.ext.json)
 
 ---
 
@@ -2047,47 +2099,5 @@ The US dollar purchasing price was Rs.
 [Data](articles/4cbcb3f1.json)
 
 [Extended Data](ext_articles/4cbcb3f1.ext.json)
-
----
-
-### Mahinda Rajapaksa backs abolishing executive presidency
-
-*2024-02-16 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97320/mahinda-rajapaksa-backs-abolishing-executive-presidency) · `en`
-
-Former President Mahinda Rajapaksa says that he will support abolishing the executive presidency.
-
-Speaking to the media, Rajapaksa said he realized that this was also the demand of the people.
-
-“I’ve held office [as the president]. I’ve already enjoyed it… It is good to abolish the executive presidency”, Rajapaksa added.
-
-In response to a question raised by a Journalist, he stated that the efforts to abolish the executive presidency may be a conspiracy to postpone the elections as well. “[…] That is possible, we know who Ranil [Wickremesinghe] is”, he said.
-
-Furthermore, the former President expressed confidence in his party’s victory in any of the upcoming elections, whether it is the presidential election or the general election.
-
-◼️
-
-[Data](articles/e8771bbe.json)
-
-[Extended Data](ext_articles/e8771bbe.ext.json)
-
----
-
-### Sri Lanka’s rubber workers get certified, coconut pluckers and toddy tappers to follow
-
-*2024-02-16 12:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-rubber-workers-get-certified-coconut-pluckers-and-toddy-tappers-to-follow-151178/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s National Apprentice and Industrial Training Authority is working with the Ministry of Agriculture and Plantation Industry to upskill informal sector workers in the country.
-
-169 rubber workers, or those who harvest the sap, were awarded NVQ-3 certificates by NAITA in a first for the country, on Thursday (15) at the Agalawatta Rubber Research Institute.
-
-“Today these rubber harvesters were given nationally and internationally recognised competency certificates. We will also provide this qualification to palmyrah, kithul, cocount toddy tappers and pluckers,” Minister of Agriculture and Plantation Industries Mahinda Amaraweera was quoted as saying at the event.
-
-“So they get an opportunity to even earn income abroad,” Amaraweera said, according to a statement by the Department of Government Information.
-
-...
-
-[Data](articles/d2c870af.json)
-
-[Extended Data](ext_articles/d2c870af.ext.json)
 
 ---

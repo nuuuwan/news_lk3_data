@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 09:17:16**
+As of **2024-02-16 09:32:47**
 
 ## Newspaper Stats
 
-*Scraped **7,395** Articles*
+*Scraped **7,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 400
 adalk | 631
 adaderanalk | 901
 tamilmirrorlk | 902
-virakesarilk | 968
+virakesarilk | 969
 adaderanasinhalalk | 1,044
 dailymirrorlk | 1,083
 
@@ -26,11 +26,31 @@ dailymirrorlk | 1,083
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,393 (100.0%) of 7,395 articles have been extended.
+7,395 (100.0%) of 7,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### கொழும்பு தேசிய வைத்தியசாலையில் பொலிஸ் காவல் அரண் திறந்து வைப்பு - பதில் பொலிஸ் மா அதிபர் நடவடிக்கை
+
+*2024-02-16 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176501) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையின் வெளிநோயாளர் பிரிவுக்கு அருகில் புதிய பொலிஸ் காவல் அரண் நேற்று திறந்து வைக்கப்பட்டது.
+
+பொதுமக்கள் பாதுகாப்பு அமைச்சின் பணிப்புரைக்கு அமைய  பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் தலைமையில் நேற்று வியாழக்கிழமை (15)  இந்நிகழ்வு நடைபெற்றது.
+
+இந்நிகழ்வில்  கலந்து கொண்டு கருத்து தெரிவித்த பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் கூறுகையில்,
+
+நாட்டின் வைத்தியசாலை கட்டமைப்பில் கொழும்பு தேசிய வைத்தியசாலை பாரிய இடம் வகிக்கிறது. நாடளாவிய ரீதியில் பல்வேறு இடங்களிலிருந்தும் நோயாளர்கள் சிகிச்சையைப் பெற்றுக்கொள்வதற்காக இங்கு வருகை தருகின்றனர். எனவே நாம் அவர்களுக்கு பாதுகாப்பளிக்க வேண்டும்.மேலும் தேசிய வைத்தியசாலையின் அண்மித்த பகுதியில் இன்று (நேற்று) முதல் விசேட போக்குவரத்து நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன.
+
+இதேவேளை பாதாளக்குழு உலகின் முக்கிய செயற்பாட்டாளர் ஒருவர் கைது செய்யப்பட்டுள்ளார். திட்டமிட்ட குற்ற செயல்கள் மற்றும் போதைப்பொருள் வர்த்தகம் தொடர்பில் விசாரணை நடத்தி அதனை எதிர்காலத்தில் முடிவுக்கு கொண்டு வர எதிர்பார்த்துள்ளோம்.
+
+...
+
+[Data](articles/0a6fd0b6.json)
+
+---
 
 ### Learning another life is submerged
 
@@ -63,6 +83,8 @@ MP Fonseka has been openly critical of the SJB and its leadership despite warnin
 ◼️
 
 [Data](articles/e9117771.json)
+
+[Extended Data](ext_articles/e9117771.ext.json)
 
 ---
 
@@ -1412,19 +1434,21 @@ Accordingly, the police have arrested the police and the two persons who helped 
 
 ---
 
-### කල්පිටිය පොලිස් ස්ථානාධිපතිවරයාගේ වැඩ තහනම්
+### Kalpitiya Police Station suspended
 
 *2024-02-15 20:08:13* · [`adalk`](https://www.ada.lk/breaking_news/කල්පිටිය-පොලිස්-ස්ථානාධිපතිවරයාගේ-වැඩ-තහනම්/11-408115) · `si`
 
-කාන්තා පොලිස් කොස්තාපල්වරියට ලිංගික අතරව කළ බවට ඉදිරිපත් වී ඇති චෝදනා අනුව කල්පිටිය පොලිස් ස්ථානාධිපතිවරයාගේ රාජකාරී වැඩ තහනම් කළ බව පොලිස් මූලස්ථානය නිවේදනය කරයි.
+Police Headquarters announces that the duties of the Kalpitiya Police Headquarters said that the duties of the Kalpitiya Police said that the duties of the Kalpitiya Police have banned the women's constable.
 
-මෙම සැකකරුට එරෙහිව වයඹ පළාත භා ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයාගේ නියෝගය පරිදි, කුලියාපිටිය කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරයා විසින් විමර්ශනයක් ආරම්භ කර ඒ පිළිබ ඳව පුත්තලම අධිකරණයට කරුණු වාර්තා කර තිබේ.
+The Kuliyapitiya Divisional Senior Superintendent (SSP) Senior Superintendent of the North Western Province has commenced investigations into the matter.
 
-ඒ අනුව මෙම  පොලිස් පරීක්ෂකවරයා පසුගිය 13 දා පුත්තලම මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ඇප මත මුදා හැර තිබේ. මේ පිළිබඳව පොලිස් මූලස්ථානය ඉදිරිපත් කළ කරුණු සලකා බලා පොලිස් කොමිෂන් සභාව මගින් පොලිස් පරීක්ෂකවරයාගේ රාජකාරී තහනම් කළ බව පොලිස් මූලස්ථානය  පවසයි.
+Accordingly, the Inspector of Police has been produced before the Puttalam Magistrate's Court on Tuesday and released on bail. Police Officers say that the police inspector has banned the duties of the Police Headquarters regarding the matter.
 
 ◼️
 
 [Data](articles/28b435f1.json)
+
+[Extended Data](ext_articles/28b435f1.ext.json)
 
 ---
 
@@ -2037,23 +2061,5 @@ However, the lawyers appearing for the suspect submitted that he had kept the st
 [Data](articles/c8335fc4.json)
 
 [Extended Data](ext_articles/c8335fc4.ext.json)
-
----
-
-### A 19 -year -old female cashier arrested for allegedly defrauding 4.5 million rupees in a private company
-
-*2024-02-15 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176468) · `ta`
-
-A 19 -year -old woman who allegedly defrauded 4.5 million rupees while working in a private company has been arrested by the Kalutara Special Fraud Investigation Division.
-
-The suspect has been arrested on a complaint lodged by a private company owner in Ambapitiyagama, Beruwala.
-
-Investigations have revealed that the fraud took place from 2023.06.09 to 2024.02.06.
-
-◼️
-
-[Data](articles/621dcf86.json)
-
-[Extended Data](ext_articles/621dcf86.ext.json)
 
 ---

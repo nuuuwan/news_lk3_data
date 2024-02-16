@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 14:02:37**
+As of **2024-02-16 14:17:12**
 
 ## Newspaper Stats
 
-*Scraped **7,460** Articles*
+*Scraped **7,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 637
 tamilmirrorlk | 912
 adaderanalk | 914
 virakesarilk | 979
-adaderanasinhalalk | 1,055
+adaderanasinhalalk | 1,057
 dailymirrorlk | 1,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,450 (99.9%) of 7,460 articles have been extended.
+7,460 (100.0%) of 7,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### සුළු සේවකයින් බෙල්ලනව සිරකරයි
+
+*2024-02-16 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193463) · `si`
+
+කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ රුක්ෂාන් බෙල්ලන මහතාව සුළු කාර්ය මණ්ඩලයේ සේවකයින් පිරිසක් විසින් බලහත්කාරයෙන් ඔහුගේ කාර්යාලයේ රඳවාගෙන ඇතැයි වාර්තා වේ.
+
+◼️
+
+[Data](articles/59d7d46d.json)
+
+---
+
+### 10 හැවිරිදි දැරියකගේ මළසිරුරක් හමුවෙයි
+
+*2024-02-16 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193462) · `si`
+
+තලෛමන්නාරම, ප්‍රදේශයේ 10 හැවිරිදි දැරියක් සැකකටයුතු ලෙස මියගොස් ඇති බව පොලීසිය පවසයි.
+
+පොලීසිය පැවසූවේ දැරිය සිය නිවස ආසන්නයේ වෙළෙඳසැළකට ගොස් නැවත නිවසට නොපැමිණීම සම්බන්ධයෙන් දැරියගේ ඥාතීන් සිදුකළ සොයා බැලීමකදී සිරුර සොයාගත් බවය.
+
+ඊයේ (15) සවස හෝ රාත්‍රි කාලයේදී දැරියට මෙම අපරාධය සිදුවන්නට ඇති බව තලෛමන්නාරම පොලීසිය සැක කරයි.
+
+දැරියගේ මරණය සම්බන්ධයෙන් සිදුකළ විමර්ශන මත පුද්ගලයෙකු සැකපිට අත්අඩංගුවට ගෙන ඇත.
+
+පොලීසිය වැඩිදුරටත් පැවසුවේ දැරිය කිසියම් ලිංගික හිංසනයකට ලක්වී ඇත්ද යන්න සම්බන්ධයෙන් අධිකරණ වෛද්‍ය නිලධාරියා විසින් පරීක්ෂා කිරීමට නියමිත බවය.
+
+◼️
+
+[Data](articles/7f3ea367.json)
+
+---
 
 ### 'Parakkuwad' Nasini fan fire for Machakarai in Mayilathamadu, Madhavan
 
@@ -56,7 +88,7 @@ The farmers are worried that our livelihood is systematically destroyed, and the
 
 ### Sri Lanka supports Israel's defense and set up a Palestinian government
 
-*2024-02-16 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176530) · `ta`
+*2024-02-16 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176530) · `ta`
 
 President Ranil Wickremesinghe and Israel's Transport and Road Protection Minister Brigadier General Miri Rekave (Brig. Gena. A meeting between Miri Regev was held at the Presidential Office.
 
@@ -74,23 +106,25 @@ Senior Advisor to the President's National Security and President of the Preside
 
 ---
 
-### பாலில் விஷம்: மேலும் இருவர் கைது
+### Poison in Pal: Two more arrested
 
 *2024-02-16 13:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலில்-விஷம்-மேலும்-இருவர்-கைது/175-333311) · `ta`
 
-கொழும்பு, ஆட்டுப்பட்டி​ தெரு பொலிஸ் நிலையத்தில் தடுத்துவைக்கப்பட்டிருந்த இருவருக்கு பக்கற் பாலில் விஷத்தை கலந்து கொடுத்த சம்பவத்துடன் தொடர்புடைய பிரதான சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
+Two main suspects have been arrested in connection with the incident in which two persons detained at the Street Police Station in Colombo, Colombo.
 
-கொழும்பு குற்றப்பிரிவினரால் கைது செய்யப்பட்ட இருவரில் ஒருவர், பாமசியில் முன்னாள் பணியாற்றியவர் என்று ​கொழும்பு குற்றப் பிரிவினர் தெரிவித்தனர்.
+The Colombo Criminal Investigation Department said that one of the two arrested by the Colombo Criminal Investigation was formerly served in Bamasi.
 
-பிரதான சந்தேகநபரான 26 வயதானவர் 12,524மில்லிகிராம் ஐஸ் போதைப்பொருளுடன் வத்தளையில் வைத்தும், 32 வயதான மற்றையவர், 11,393 மில்லிகிராம் ஐஸ் போதைப்பொருளுடன் கொட்டாஞ்சேனையில் வைத்தும் கைது செய்யப்பட்டுள்ளனர்.
+The main suspect, 26 -year -old, has been arrested in Kottanchenai with 12,524 milligrams of ice in Wettah and the other 32 -year -old, 11,393 milligrams of ice.
 
-இந்த விஷபால் விவகாரம் தொடர்பில், இரண்டு பெண்கள் உட்பட ஏழுபேர் கலஹாவில் மறைந்திருந்த போது, ஏற்கெனவே கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that seven people, including two women, have already been arrested in connection with this poisoning affair.
 
-ஜிந்துப்பிட்டி பிரதேசத்தில் ஜனவரி 24 ஆம் திகதி மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூடு சம்பவத்துடன் தொடர்புடையவர்கள் என்ற சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு, பொலிஸ் கூண்டில் அடைத்து வைக்கப்பட்டிருந்த இருவருகே, பாலில் விஷம் கலந்து வழங்கப்பட்டுள்ளது.
+Poison has been mixed in the case of two suspects in connection with the shooting incident in Jindupitiya on January 24, and two were detained in a police cage.
 
 ◼️
 
 [Data](articles/be815862.json)
+
+[Extended Data](ext_articles/be815862.ext.json)
 
 ---
 
@@ -142,47 +176,53 @@ So we rely on Palestinian journalists who are hosting their lives to uncover the
 
 ---
 
-### சஜித் அணிக்கு தாவிய இருவர்
+### Sajith's team
 
 *2024-02-16 12:59:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-அணிக்கு-தாவிய-இருவர்/175-333310) · `ta`
 
-காமினி திலகசிறி மற்றும் காமினி சில்வா ஆகியோர் இவ்வாறு சஜித் பிரேமதாசவுக்கு தமது ஆதரவைத் தெரிவித்து கட்சியில் இணைந்துள்ளனர். (N)
+Gamini Tilakasiri and Gamini Silva have thus joined the party to express their support for Sajith Premadasa. (Of)
 
 ◼️
 
 [Data](articles/6a5f77c8.json)
 
+[Extended Data](ext_articles/6a5f77c8.ext.json)
+
 ---
 
-### சமையல் அறைக்குள் தண்ணீர்; பெண் பலி
+### Water in the kitchen;Woman killed
 
 *2024-02-16 12:57:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமையல்-அறைக்குள்-தண்ணீர்-பெண்-பலி/175-333309) · `ta`
 
-மேல் தளத்தில் பாதுகாப்பற்ற முறையில் பொருத்தப்பட்டிருந்த தண்ணீர் தொட்டி கூரையை உடைத்துக்கொண்டு விழுந்துள்ளது.
+The water tank, which was insecurely fitted on the top floor, fell into the roof.
 
 ◼️
 
 [Data](articles/63cf66dd.json)
 
+[Extended Data](ext_articles/63cf66dd.ext.json)
+
 ---
 
-### பியூமாவை தடுத்து வைத்து விசாரிக்க அனுமதி
+### Allowed to detain the puma
 
 *2024-02-16 12:47:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமாவை-தடுத்து-வைத்து-விசாரிக்க-அனுமதி/175-333308) · `ta`
 
-டுபாயில் கைது செய்யப்பட்டு நேற்று (15) இலங்கைக்கு அழைத்து வரப்பட்ட பாதாள உலகக் குழு உறுப்பினர் என சந்தேகிக்கப்படும் "பியுமா"வை தடுத்து வைத்து விசாரணை நடத்த குற்றப் புலனாய்வுப் பிரிவினருக்கு நீதிமன்றம் அனுமதி வழங்கியுள்ளது.
+The court has granted permission to the Criminal Investigation Department (CID) to detain "Puma" suspected of being a member of the underworld group who was arrested and brought to Sri Lanka yesterday.
 
-பயங்கரவாதத் தடைச் சட்டத்தின் கீழ், குற்றப் புலனாய்வுப் பிரிவினர் கோட்டை நீதவான் நீதிமன்றில் இது தொடர்பில் அறிக்கை தாக்கல் செய்திருந்தனர்.
+Under the Prevention of Terrorism Act, the Criminal Investigation Department had filed a report at the Fort Magistrate's Court.
 
-இதனையடுத்து, கைது செய்யப்பட்டது முதல்  72 மணிநேரம்  அவரை தடுத்து வைத்து விசாரிக்க அனுமதி அளிக்கப்பட்டுள்ளது.
+Subsequently, he was allowed to detain him for 72 hours from the arrest.
 
-பியும் ஹஸ்திக அல்லது பியூமா,  போதைப்பொருள் வியாபாரியான குடு சலிந்துவின் முக்கிய உதவியாளராக கருதப்படுகிறார்.
+Payi Hastika or Buma is considered the main assistant of the drug dealer, Kudu Salindu.
 
-அவர்  09 பிப்ரவரி 2021 அன்று துபாய்க்க தப்பிச் சென்றதாக தெரிவிக்கப்படுகின்றது. (N)
+It is reported that he fled the Dubai on 09 February 2021. (Of)
 
 ◼️
 
 [Data](articles/25f8a82f.json)
+
+[Extended Data](ext_articles/25f8a82f.ext.json)
 
 ---
 
@@ -204,17 +244,19 @@ It is reported that she was renting in the day.
 
 ---
 
-### வழமைக்கு திரும்பியது சுங்கம்
+### Customs returned to usual
 
 *2024-02-16 12:43:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழமைக்கு-திரும்பியது-சுங்கம்/175-333306) · `ta`
 
-சுங்கத் திணைக்கள ஊழியர்கள் முன்னெடுத்த சட்டபடி வேலை செய்யும் தொழிற்சங்க நடவடிக்கை நிறைவுக்கு வந்துள்ளது.
+The union action of the Customs Department has been completed.
 
-நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய மற்றும் ஜனாதிபதியின் செயலாளர்  சமன் ஏக்கநாயக்க ஆகியோருடன் இடம்பெற்ற பேச்சு வாரத்தையின் பின்னர் தொழிற்சங்க நடவடிக்கை கைவிடப்பட்டுள்ளது.(N)
+Finance Minister Ranjith Siyambalapitiya and President's Secretary Saman Ekanayake have been abandoned after a week's speech.
 
 ◼️
 
 [Data](articles/bbf5543d.json)
+
+[Extended Data](ext_articles/bbf5543d.ext.json)
 
 ---
 
@@ -344,15 +386,17 @@ It was revealed that he had fled to Dubai in February 9, 2021.
 
 ---
 
-### ராமர் சேதுவில் ஸ்ரீ சந்தோஷ் ஜா வழிபாடு
+### Sri Santosh Jha worship in Rama Sethu
 
 *2024-02-16 12:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமர்-சேதுவில்-ஸ்ரீ-சந்தோஷ்-ஜா-வழிபாடு/175-333305) · `ta`
 
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் ஸ்ரீ சந்தோஷ் ஜா, வடக்குக்கு விஜயம் செய்துள்ளார். அவர், ராமர் ​சேதுவுக்கு விஜயம் செய்து, இந்தியா-இலங்கை உறவுகளின் நல்வாழ்வுக்காக பிரார்த்தனை செய்தார். அத்துடன் திருகேதீஸ்வரத்திலும் வழிபாடுகளில் ஈடுபட்டார். அத்துடன், மன்னார் மடு தேவாலயத்துக்கும் விஜயம் செய்தார்.
+Indian High Commissioner to Sri Lanka Sri Santosh Ja visits the North. He visited Rama Sethu and prayed for the well-being of India-Sri Lankan relations. As well as the worship of Thirukadeeswaram. He also visited the Mannar Madhu Church.
 
 ◼️
 
 [Data](articles/0d92a849.json)
+
+[Extended Data](ext_articles/0d92a849.ext.json)
 
 ---
 
@@ -568,6 +612,8 @@ A high level delegation from the Japan Fair Trade Commission (JFTC) joined the s
 
 [Data](articles/52f528f4.json)
 
+[Extended Data](ext_articles/52f528f4.ext.json)
+
 ---
 
 ### A road blocked by public opposition
@@ -722,19 +768,25 @@ It is well known that India and China are involved in the World Wide Competition
 
 ---
 
-### ඔක්සිජන් ගන්න තිබුණ මුදල්වලින් බාල බෙහෙත් ගෙන්වලා
+### The fascinations of the money he had to take oxygen
 
 *2024-02-16 10:55:49* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්සිජන්-ගන්න-තිබුණ-මුදල්වලින්-බාල-බෙහෙත්-ගෙන්වලා/11-408122) · `si`
 
-සෞඛ්‍ය අමාත්‍යංශයට ඔක්සිජන් ලබාගැනීමට තිබූ මුදල්වලින් රුපියල් කෝටි 14 1/2ක් මෙම ඖෂධ මිලදී ගැනීමට සඳහා සැපයුම්කරුට දී ඇතැයි නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මහත්මිය මාලිගාක්නද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මියට ඊයේ (15) දැනුම් දුන්නාය.
+Deputy Solicitor General Lakhakana Giriamkana Magazine Lakdani Giriusena has told Maligaikaman Weerasinghe yesterday (14).
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා කැබිනට් මණ්ඩලයට ඉදිරිපත් කළ කැබිනට් සංදේශවල ඇති අස්සන් සහ තවත් ලේඛණවල ඇති අස්සන් සමඟ ඔහුගේ අත්අකුරු සැසදීමට රජයේ සැකකටයුතු ලේඛණ පරීක්‍ෂවරයාට නියම කළ ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මිය ඒ සඳහා කෙහෙළිය රඹුක්වැල්ල මහතාගෙන් ආදර්ශ අස්සන් ලබාගැනීමටද නියම කළාය.
+Luchan Abeywickrama Weerasinghe, who was presented to the Cabinet Memorandum presented to the Cabinet Memorandum of Cabinet Memoranda to the Cabinet Memoranda, the government's handwriting was to the inspector.
 
-මෙම සිද්ධියට අදාල සැකකරුවන් ලබන 29 වැනිදා තෙක් තවදුරටත් රිමාන්ඩ් භාරයේ රඳවා තැබීමට නියම කළ මහේස්ත්‍රාත්වරිය සිද්ධියට අදලාව කරන විමර්ශනවල ප්‍රගතිය එදින අධිකරණයට වාර්තා කිරීමටද රහස් පොලිසියට වැඩිදුරටත් නියම කළාය.
+The suspects have been appointed to the Magistrate's investigation until the 29th of this month.
+
+Sugath Janaka Fernando, who is said to be remanded in relation to the complaint, said: "Assistant Director of Medical Supply (Suppliers) Collateral (Supplies)Dr. Herath Mudiyasalage Dharmasalage Dharmasalage Dharmasalage Dharmasalage Dharmasalage, Dr. Herath Mudiyanselage Dharmasalage, who has been released on the Secretary to the Ministry of Health.
+
+The Director of the Medical Supplies Unit of the Medical Skills Unit of the Colombo National Hospital was taken into court with a condition at the time of the incident.The case was heard without him.
 
 ...
 
 [Data](articles/492a286c.json)
+
+[Extended Data](ext_articles/492a286c.ext.json)
 
 ---
 
@@ -911,6 +963,8 @@ The Colombo stock market opened up: The All Share was up 0.30 percent at 10,599,
 ◼️
 
 [Data](articles/fdeee0a6.json)
+
+[Extended Data](ext_articles/fdeee0a6.ext.json)
 
 ---
 
@@ -1259,6 +1313,8 @@ Delivery times had lengthened with the disruption in shipping through the Red Se
 ...
 
 [Data](articles/7fe161b8.json)
+
+[Extended Data](ext_articles/7fe161b8.ext.json)
 
 ---
 
@@ -2021,49 +2077,5 @@ Meanwhile, police spokesman, Nihal Talduwa told Sinhala that the other police of
 [Data](articles/cb2b9c84.json)
 
 [Extended Data](ext_articles/cb2b9c84.ext.json)
-
----
-
-### Ambitious plans underway to make SL a ‘happening’ tourist destination
-
-*2024-02-16 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ambitious-plans-underway-to-make-SL-a-happening-tourist-destination/108-277123) · `en`
-
-SLTPB set to enter into agreements with consortium of global brands, both foreign and domestic
-
-Objective is to significantly boost tourism activities, with goal of increasing average daily spend of tourists
-
-Plans afoot to collaborate with European Union to launch a wellness tourism campaign
-
-Sri Lanka’s tourism sector is gearing up for a major transformation, as the authorities unveil an ambitious plan to make the country one of the world’s most dynamic and sought-after destinations.
-
-Sri Lanka Tourism Promotion Bureau (SLTPB) Chairman Chalaka Gajabahu announced on Wednesday that the SLTPB is set to enter into agreements with a consortium of global brands, both foreign and domestic, to sponsor and promote a series of exciting events. This move comes as part of a larger strategy to boost tourism and make 2024 the best year yet for Sri Lanka’s tourism industry.
-
-“We will make it a more happening destination; 2024 is going to be a very positive year,” Gajabahu added.
-
-...
-
-[Data](articles/ad2c24db.json)
-
-[Extended Data](ext_articles/ad2c24db.ext.json)
-
----
-
-### Thinking Beyond a Profession and Entering the Market - EDITORIAL
-
-*2024-02-16 01:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Thinking-Beyond-a-Profession-and-Entering-the-Market-EDITORIAL/172-277129) · `en`
-
-There was a popular breakfast show on television a few days ago where singers Bathiya and Santhush shared their ideas about being successful in music; the business that’s close to their hearts.
-
-What the duo underscored was the fact that they didn’t merely enter the music industry, but created a space for themselves in the music market. In other words, the duo had ‘selling’ in mind, whenever they came up with a new album.
-
-There are many talent shows in this country which serve in finding the next generation of performance artistes. Bathiya maintained that during these live shows, coaches can only focus on improving skills of budding singers, but cannot teach them marketing.
-
-We can see hordes of teachers entering the teaching profession and being unhappy after a few years in the industry. On the contrary, we also see the tuition masters rule the roost; enjoying the time spent with children and minting money.
-
-...
-
-[Data](articles/e68b6439.json)
-
-[Extended Data](ext_articles/e68b6439.ext.json)
 
 ---

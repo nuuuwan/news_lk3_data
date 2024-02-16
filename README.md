@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 12:03:08**
+As of **2024-02-16 12:17:33**
 
 ## Newspaper Stats
 
-*Scraped **7,424** Articles*
+*Scraped **7,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 633
 tamilmirrorlk | 904
 adaderanalk | 907
 virakesarilk | 974
-adaderanasinhalalk | 1,051
+adaderanasinhalalk | 1,053
 dailymirrorlk | 1,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,424 (100.0%) of 7,424 articles have been extended.
+7,424 (100.0%) of 7,426 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### තවත් දෙදෙනෙක් සජබය ට
+
+*2024-02-16 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193458) · `si`
+
+තවත් දේශපාලන ක්‍රියාකාරීන් දෙදෙනෙක් සමගි ජන බලවේගය සමග එක්වී තිබේ.
+
+ගාමිණී තිලකසිරි සහ ගාමිණී සිල්වා එලෙස සජිත් ප්‍රේමදාස මහතාට සහාය පළ කරමින් සමගි ජන බලවේගය සමග එක්වී ඇත.
+
+සජිත් ප්‍රේමදාස මහතාගේ 100 වන සක්වළ වැඩසටහනේදී මෙලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ හිටපු පළාත් සභා මන්ත්‍රීවරුන් වන ගාමිණී තිලකසිරි සහ ගාමිණි සිල්වා යන මහත්වරුන් සජබ ය සමග එක්වී තිබේ.
+
+◼️
+
+[Data](articles/57c00e5f.json)
+
+---
 
 ### 10 -year -old girl murdered
 
@@ -53,6 +69,22 @@ The body of the girl has been recovered early morning (16) during the search for
 [Data](articles/b9ea468f.json)
 
 [Extended Data](ext_articles/b9ea468f.ext.json)
+
+---
+
+### ජනතා විරෝධයකින් පාරක් අවහිර වෙයි
+
+*2024-02-16 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193457) · `si`
+
+ජනතා විරෝධයක් හේතුවෙන් මේ වනවිට කොළඹ - වැල්ලවාය ප්‍රධාන මාර්ගය සම්පූර්ණයෙන්ම අවහිර වී තිබේ.
+
+අප වාර්තාකරු පැවසුවේ වැල්ලවාය වෙහෙරයාය ප්‍රදේශයේ පවතින වනඅලි ගැටලුවලට විසඳුමක් ඉල්ලා මේ වනවිට වැල්ලවාය තණමල්විල ප්‍රධාන මාර්ගය වැල්ලවාය වෙහෙරයාය ප්‍රදේශයෙන් සම්පූර්ණයෙන් අවහිර කරමින් විරෝධය පැවැත්වෙන බවය.
+
+ඒ හේතුවෙන් කිලෝමීටර් ගණනක මාර්ග තදබදයක් හටගෙන ඇති බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/5ddc62b1.json)
 
 ---
 
@@ -2039,47 +2071,5 @@ Accordingly, the Inspector of Police has been produced before the Puttalam Magis
 [Data](articles/28b435f1.json)
 
 [Extended Data](ext_articles/28b435f1.ext.json)
-
----
-
-### No alternative routes - go carefully
-
-*2024-02-15 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193431) · `si`
-
-The main road from Udadumbara police division from Udadumbara, Udadumburigiriya Police can be closed from the Mistampe.
-
-Police say that traffic is not clear due to the fog on the road.
-
-The police urge the drivers to run traffic to drive traffic with winding and slopes.
-
-◼️
-
-[Data](articles/45ca5ec1.json)
-
-[Extended Data](ext_articles/45ca5ec1.ext.json)
-
----
-
-### In 2022, the Petroleum Consignment Terminal. 28888
-
-*2024-02-15 20:00:36* · [`adalk`](https://www.ada.lk/breaking_news/2022දී-ඛනිජ-තෙල්-තොග-ගබඩා-පර්යන්තයට-රු-බි--28ක්-අලාභ-වූ-හැටි-එළියට/11-408114) · `si`
-
-The Minister of Power and Energy Kanchana Wijesekara says that the basic issues identified by KPMG was submitted to him this evening regarding the fuel storage and fuel distribution of Ceylon Petroleum Storage Terminal.
-
-The Ministry of Power and Energy has informed the Ministry of Power and Energy to conduct this wheat examination by the Criminal Investigations Department (CID) by the CID in 2022.
-
-Investigations carried out by the Internal Audit Division of KPMG and Ceylon Oil Stores Terminal,
-
-1. The majority system apparatus have been deleted or changed from 2010, the majority has taken place at the time of the fuel crisis in 2022
-
-2. The Criminal Investigations Department of the Criminal Investigation Department (CID) has decreased by 2023 after 2023
-
-3. Rs. 28 billion has been recorded in 2022 and the loss of Rs. 28 billion has been reduced to Rs. 4 billion as at 2023
-
-...
-
-[Data](articles/61b498fc.json)
-
-[Extended Data](ext_articles/61b498fc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 08:51:03**
+As of **2024-02-16 09:02:33**
 
 ## Newspaper Stats
 
-*Scraped **7,388** Articles*
+*Scraped **7,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 84
 bbccomsinhala | 97
 dbsjeyarajcom | 150
 newsfirstlk | 363
-islandlk | 382
+islandlk | 385
 economynextcom | 387
 dailyftlk | 400
 adalk | 630
-tamilmirrorlk | 900
 adaderanalk | 901
+tamilmirrorlk | 902
 virakesarilk | 968
 adaderanasinhalalk | 1,044
 dailymirrorlk | 1,082
@@ -26,7 +26,7 @@ dailymirrorlk | 1,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,384 (99.9%) of 7,388 articles have been extended.
+7,388 (99.9%) of 7,393 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -287,6 +287,34 @@ Police investigations have revealed that the accident occurred when a jeep trave
 [Data](articles/0e44134a.json)
 
 [Extended Data](ext_articles/0e44134a.ext.json)
+
+---
+
+### Adora Cosmetic Centre by Hemas Hospitals celebrates 5 years of excellence
+
+*2024-02-16 06:19:00* · [`islandlk`](http://island.lk/adora-cosmetic-centre-by-hemas-hospitals-celebrates-5-years-of-excellence/) · `en`
+
+Adora Cosmetic Centre, a distinguished independent cosmetic centre, operating with the reputed clinical backing of Hemas Hospitals, marks its 5th anniversary in 2024. Since its inception on 14th February 2019, Adora has solidified its position as Sri Lanka’s premier destination for cosmetic enhancements. With a comprehensive range of surgical and non-surgical procedures, performed using the latest and most cutting-edge technologies and treatments available in Sri Lanka, Adora Cosmetic Centre has built a reputation for its commitment to exceptional service, positive outcomes and patient-centric care.
+
+Dr Malith B. Atapattu – Director Medical Services and Quality Hemas Hospitals and Laboratory Chain, commented saying, “Our unwavering commitment to transformative results has enabled us to emerge as the one-stop-shop for cosmetic transformations, backed by the prestige and clinical expertise of Hemas Hospitals.
+
+...
+
+[Data](articles/2f77965f.json)
+
+[Extended Data](ext_articles/2f77965f.ext.json)
+
+---
+
+### “Eco Label: One Step, Great Change – Join the Transformation”
+
+*2024-02-16 06:19:00* · [`islandlk`](http://island.lk/eco-label-one-step-great-change-join-the-transformation/) · `en`
+
+National Cleaner Production Center (NCPC), Sri Lanka, which was established by UNIDO and UNEP, a member of RECP Net with the collaboration of Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH organized a high -level forum: “Eco Label: One Step, Great Change – Join the Transformation”.
+
+...
+
+[Data](articles/ef58aea0.json)
 
 ---
 
@@ -566,6 +594,8 @@ Facilitated by GLX Alchemist Arj Wignaraja, it offered participants a deep dive 
 
 [Data](articles/66ab1e78.json)
 
+[Extended Data](ext_articles/66ab1e78.ext.json)
+
 ---
 
 ### Sumanthiran files FR against Speaker’s endorsement of OSA
@@ -587,6 +617,8 @@ The petition has named the Speaker and Attorney General Sanjay Rajaratnam as the
 ...
 
 [Data](articles/e7552c13.json)
+
+[Extended Data](ext_articles/e7552c13.ext.json)
 
 ---
 
@@ -612,21 +644,39 @@ When compared to the Ramayana trail, he opined that the proposed Buddhist Trail 
 
 ---
 
-### எரிபொருள் விநியோக தரவுகள் அழிப்பு
+### இஸ்ரேல் - இலங்கை நேரடி விமான சேவை ஒப்பந்தம்
+
+*2024-02-16 03:45:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேல்-இலங்கை-நேரடி-விமான-சேவை-ஒப்பந்தம்/175-333300) · `ta`
+
+இஸ்ரேலுக்கும் இலங்கைக்கும் இடையிலான நேரடி விமான சேவை ஒப்பந்தம் நேற்று முற்பகல் கைச்சாத்திடப்பட்டதாக துறைமுகங்கள், கப்பற்றுறை மற்றும் விமான சேவைகள் அமைச்சர் நிமல் சிறிபால டி சில்வா தெரிவித்தார்.
+
+இலங்கைப் பணியாளர்கள் வெளிநாடுகளுக்குச் செல்வதில் ஏற்படும் தாமதங்களைத் தடுப்பது இந்த ஒப்பந்தத்தின் முக்கிய நோக்கங்களில் ஒன்றாகும் என்றும்  அவர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் நிமல் சிறிபால டி சில்வா இவ்வாறு  தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/ce208438.json)
+
+---
+
+### Eradication of fuel delivery data
 
 *2024-02-16 03:38:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விநியோக-தரவுகள்-அழிப்பு/175-333299) · `ta`
 
-இலங்கை பெட்ரோலியக் கூட்டுத்தாபனத்தின் களஞ்சிய முனைய நிறுவனத்தின் எரிபொருள் களஞ்சியப்படுத்தல் மற்றும் எரிபொருள் விநியோகம் என்பனவற்றுடன் தொடர்புடைய 13 லட்சம் தகவல்கள்  பிரதான தரவுக் கட்டமைப்பிலிருந்து அல்லது எஸ்.ஏ.பி.  தளத்திலிருந்து அழிக்கப்பட்டு அல்லது மாற்றப்பட்டுள்ளன என மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+13 lakhs of information related to the fuel repository and fuel supply of the Sri Lanka Petroleum Corporation's repository terminal company, from the main data structure or the SAP.Minister of Power and Energy Kanjana Wijesekera said that the site has been destroyed or replaced.
 
-2010 ஆம் ஆண்டிலிருந்து தரவு அழிப்பு செயற்பாடு முன்னெடுக்கப்பட்டுள்ளது என அவர் தனது சமூக வலைத்தளத்தில் பக்கத்தில் பதிவிட்டுள்ளார்.
+He posted on his social website page that the data eradication process has been carried out since 2010.
 
-எரிபொருள் நெருக்கடி நிலவிய 2022 ஆம் ஆண்டிலேயே பெருமளவான தரவு அழிப்பு செயற்பாடு இடம்பெற்றுள்ளதாகவும் அவர் கூறியுள்ளார்.
+He also said that there was a large number of data eradication operations in 2022 of the fuel crisis.
 
-கே.பி.எம்.ஜி. நிறுவனத்தால் நடத்தப்பட்ட ஆய்வின் அடிப்படையில், அமைச்சர் இந்த விடயங்களை வெளிக்கொணர்ந்துள்ளார். (a)
+KPMG. Based on the study conducted by the company, the Minister has revealed these issues. (A)
 
 ◼️
 
 [Data](articles/9dd4af7c.json)
+
+[Extended Data](ext_articles/9dd4af7c.ext.json)
 
 ---
 
@@ -674,21 +724,29 @@ The President said that the people's ideas will be obtained within two weeks and
 
 ---
 
-### නාරම්මල පොලිස් වෙඩි තැබීම: 'ලක්ෂ 10ක් දීලා අපි ගැන කිසිම දෙයක් හොයා බැලුවේ නැහැ'
+### Narammala Police Shoot: 'The 10 lakhs were not found out of us'
 
 *2024-02-16 02:03:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp3erlmr3j1o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "නාරම්මල පොලිස් වෙඩි තැබීම : 'ලක්ෂ 10ක් දීලා අපි ගැන කිසිම දෙයක් හොයා බැලුවේ නැහැ'", ධාවන කාලය 5,0005:00වීඩියෝ ශීර්ෂ වැකිය, මේ සිදුවීම වන අවස්ථාවේදී පොලිස් නිලධාරීන් දෙදෙනෙකු එම ස්ථානයේ සිටිය ද පොලීසිය සැකකරුවෙකු ලෙස එක් අයෙකු පමණක් අධිකරණයට ඉදිරිපත් කිරීම සහ විමර්ශන කටයුතු සිදු කෙරෙන අකාරය ගැන සෑහීමකට පත්විය නොහැකි බව අගතියට පත් පාර්ශවයේ නීතිඥයෝ පවසති.
+It contains nothing here. Play Video, "Narammala Police Shooting:" The Running Time 5,0005: 00 Video Head, Police Officers at the same timeAs a suspect, the aggrieved party lawyers say that only one person is being taken to court and investigating.
 
-නාරම්මල පොලිස් වෙඩි තැබීම: 'ලක්ෂ 10ක් දීලා අපි ගැන කිසිම දෙයක් හොයා බැලුවේ නැහැ'
+Narammala Police Shoot: 'The 10 lakhs were not found out of us'
 
-පොලිස් වෙඩි තැබීමෙන් තම සැමියා මිය යෑමෙන් පසු රුපියල් ලක්ෂ 10ක් ලබා දුන්න ද පොලිස් දෙපාර්තමේන්තුවේ ප්‍රධානීන් පොරොන්දු වූ පරිදි ඒ වෙනුවෙන් කිසිඳු සහයෝගයක් මේ දක්වා ලබා නොදීම නිසා තම දරුවන්ගේ අධ්‍යාපන කටයුතු වලට ද බාධා එල්ල වී ඇතැයි මිය ගිය රොෂාන් කුමාරසිරිගේ බිරිඳ BBC සිංහල සේවයට පැවසුවාය.
+Roshan Kumarasiri's wife, who had died due to the death of her husband, had also been disturbed by the police department as promised by the police firing.
 
-''දේශබන්දු මහත්තයා ඇවිල්ලා ඒ වෙලාවේ මගේ අතට ලක්ෂ 10ක් දීලා මහත්තයගේ වටිනාකම තීරණය කළා එයා ඒ වෙලාවේ.ඉන් පස්සේ කිසිම දෙයක් අපි ගැන හොයලා බැලුවේ නැහැ.'' යනුවෙන් කමනි රූපිකා පැවසුවාය.
+"Mr. Deshabandu came and decided that my hand was given the value of Mr. Mother at the time."
 
-...
+The shooting took place in Narammala, Narammala, Narammala, Narammala, Narammala.
+
+At the time, two policemen were present at the same time, but the police are not satisfied with the suspects.
+
+Meanwhile, police spokesman, Nihal Talduwa told Sinhala that the other police officer needs to be named a suspect.
+
+◼️
 
 [Data](articles/cb2b9c84.json)
+
+[Extended Data](ext_articles/cb2b9c84.ext.json)
 
 ---
 
@@ -1247,22 +1305,6 @@ Preliminary police investigations have revealed that the crime has been carried 
 [Data](articles/db781864.json)
 
 [Extended Data](ext_articles/db781864.ext.json)
-
----
-
-### Adora Cosmetic Centre by Hemas Hospitals celebrates 5 years of excellence
-
-*2024-02-15 21:06:00* · [`islandlk`](http://island.lk/adora-cosmetic-centre-by-hemas-hospitals-celebrates-5-years-of-excellence/) · `en`
-
-Adora Cosmetic Centre, a distinguished independent cosmetic centre, operating with the reputed clinical backing of Hemas Hospitals, marks its 5th anniversary in 2024. Since its inception on 14th February 2019, Adora has solidified its position as Sri Lanka’s premier destination for cosmetic enhancements. With a comprehensive range of surgical and non-surgical procedures, performed using the latest and most cutting-edge technologies and treatments available in Sri Lanka, Adora Cosmetic Centre has built a reputation for its commitment to exceptional service, positive outcomes and patient-centric care.
-
-Dr Malith B. Atapattu – Director Medical Services and Quality Hemas Hospitals and Laboratory Chain, commented saying, “Our unwavering commitment to transformative results has enabled us to emerge as the one-stop-shop for cosmetic transformations, backed by the prestige and clinical expertise of Hemas Hospitals.
-
-...
-
-[Data](articles/2f77965f.json)
-
-[Extended Data](ext_articles/2f77965f.ext.json)
 
 ---
 
@@ -1920,6 +1962,20 @@ A bond maturing on 01.07.2032 closed at 12.50/70 percent up from 12.35/60 percen
 
 ---
 
+### “3 வீதமான பிள்ளைகள் கல்வியை இழந்துள்ளனர்”
+
+*2024-02-15 17:16:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வீதமான-பிள்ளைகள்-கல்வியை-இழந்துள்ளனர்/175-333277) · `ta`
+
+தொகை மதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் கூறும் பிரகாரம், வங்குரோத்து நிலை நாட்டில் 54% பாடசாலை மாணவர்களின் கல்வியில் தாக்கத்தை ஏற்பட்டுத்தியுள்ளது. பாடசாலை செல்லும் மாணவ மாணவிகளில் 3% ஆனோர் பாடசாலை செல்வதை நிறுத்திவிட்டனர். மேலும் பல மாணவ மாணவிகள் பாடசாலை உபகரணங்களை பெற்றுக் கொள்ள முடியாமல் மிகவும் சிரமத்திற்கு உள்ளாகியுள்ளனர் என எதிர்க்கட்சித் தலைவர்  சஜித் பிரேமதாச தெரிவித்தார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத் திட்டத்தின் 98 ஆவது கட்டமாக 10 இலட்சம் ரூபாய் பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள் இரத்தினபுரி, பெல்படுல்ல விஜயபா மகா வித்தியாலயத்திற்கு வழங்கி வைக்கும் நிகழ்வில் வியாழக்கிழமை (15) கலந்து கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/2ae4b87d.json)
+
+---
+
 ### Doctor remanded for selling narcotic tablets
 
 *2024-02-15 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Doctor-remanded-for-selling-narcotic-tablets/108-277096) · `en`
@@ -2007,69 +2063,5 @@ The suspects are to be produced before the Driver and Conductor of the Private B
 [Data](articles/82a6b940.json)
 
 [Extended Data](ext_articles/82a6b940.ext.json)
-
----
-
-### Sri Lanka stocks close up, trades in banking shares drive turnover
-
-*2024-02-15 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-trades-in-banking-shares-drive-turnover-151081/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 36.98 points, or 0.35 percent at 10,568, while the S&P SL20 Index closed up at 3,035 points, up 0.37 percent, or 11.09 points.
-
-Turnover was at 961 million. Trades in the Banks sector (283mn) added the most to the day’s turnover.
-
-Sampath Bank Plc saw large volumes traded in the day, contributing 122mn to the day’s turnover. The bank announced a cash dividend of 5.85 per share. The share closed up at 73.10.
-
-Commercial Bank of Ceylon Plc also saw active volumes traded in the day, contributing 106mn to the turnover, and the share closed up at 89.50.
-
-Other sectors that attracted investor interest were Capital Goods (158mn), and Food, Beverage and Tobacco (112mn).
-
-Shares of HNB Assurance Plc which announced a dividend of 3.90 rupees per share closed up at 56.00.
-
-Dilmah Ceylon Tea Company Plc which announced a dividend of 10.00 rupees per share closed flat at 999.75.
-
-...
-
-[Data](articles/d38dd35c.json)
-
-[Extended Data](ext_articles/d38dd35c.ext.json)
-
----
-
-### Sri Lanka’s LGBTIQ+ community representatives meet Speaker
-
-*2024-02-15 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97299/sri-lankas-lgbtiq-community-representatives-meet-speaker) · `en`
-
-A group of Sri Lankan LGBTIQ+ community representatives met with the Speaker of the Parliament Mahinda Yapa Abeywardana on Monday (12).
-
-The objective of this meeting was to draw the attention of the Speaker regarding the Private Member Bill brought in by the Member of Parliament Premnath C. Dolawatte to amend Sections 365 and 365A of the Penal Code of Sri Lanka, the Parliamentary Communications Department said in a statement.
-
-Moreover, the LGBTIQ+ community representatives and the Speaker had a discussion at length regarding the issues faced by the LGBTIQ+ community living in Sri Lanka, it added.
-
-Meet by NextGenSL, an all-party youth organization assisted in organizing this meeting with the Speaker to which the Assistant Secretary General of Parliament Hansa Abeyratne was also present.
-
-◼️
-
-[Data](articles/5ec3d845.json)
-
-[Extended Data](ext_articles/5ec3d845.ext.json)
-
----
-
-### Israeli soldiers at Nazer Hospital in Connequin - Hamas
-
-*2024-02-15 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176467) · `ta`
-
-The Israeli military has revealed that Hamas has been detained at Nazer Hospital in Tenkasa.
-
-It has been reported that the Israeli army, which has forcibly evicted patients from the hospital, has demolished parts of the building using the Bulldozers.
-
-◼️
-
-[Data](articles/8129e081.json)
-
-[Extended Data](ext_articles/8129e081.ext.json)
 
 ---

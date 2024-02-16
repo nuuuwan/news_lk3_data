@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 07:53:43**
+As of **2024-02-16 08:02:25**
 
 ## Newspaper Stats
 
-*Scraped **7,362** Articles*
+*Scraped **7,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,98 @@ adalk | 630
 tamilmirrorlk | 899
 adaderanalk | 901
 virakesarilk | 962
-adaderanasinhalalk | 1,038
+adaderanasinhalalk | 1,043
 dailymirrorlk | 1,081
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,362 (100.0%) of 7,362 articles have been extended.
+7,362 (99.9%) of 7,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### ජනාධිපති ලේකම් ගෙන් පෙත්සමක්
+
+*2024-02-16 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193445) · `si`
+
+හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා විසින් දේශපාලන පළිගැනීම් පිළිබඳව සොයාබැලීම සඳහා පත්කරන ලද ජනාධිපති පරීක්ෂණ කොමිසම විසින්  වත්මන් ජනාධිපති ලේකම් සමන් ඒකනායක මහතාට එරෙහිව සිදුකර ඇති නිර්දේශ සම්පූර්ණයෙන්ම  නීතියට පටහැනි බවට ඉදිරිපත් කර ඇති පෙත්සම ශ්‍රේෂ්ඨාධිකරණය හමුවේ විභාගයට ගෙන තිබේ.
+
+විශ්‍රාමික ශ්‍රේෂ්ඨාධිකරණ විනිසුරු උපාලි අබේරත්න මහතාගේ ප්‍රධානත්වයෙන් යුත් අදාළ කොමිසම විසින් තමන්ට එරෙහිව සිදු කරන ලද තීරණ සහ නිර්දේශ බලරහිත කරන ලෙස ඉල්ලා එවකට අගමැති ලේකම් ලෙස කටයුතු කළ වර්තමාන ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ඇතුළු පිරිසක් විසින් පෙත්සම ගොනු කර තිබුණි.
+
+ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල හමුවේ මෙම පෙත්සම් විභාගය පැවැත්වූ බව අද දෙරණ අධිකරණ වාර්තාකරු සඳහන් කළේය.
+
+...
+
+[Data](articles/a260bb70.json)
+
+---
+
+### විධායක ජනපති ක්‍රමය අහෝසි කිරීමට මහින්දගේ සහාය
+
+*2024-02-16 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193444) · `si`
+
+විධායක ජනාධිපති ක්‍රමය අහෝසි කිරීම සඳහා තම සහාය හිමිවන බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+
+"අවුලක් නැහැ. නැති කළොත් හොඳයි. මම හිටපු එකනේ. අද රටම කියන්නේ නැති කරන්න කියලනේ. "
+
+◼️
+
+[Data](articles/486f29c7.json)
+
+---
+
+### ඊශ්‍රායලය සහ ශ්‍රී ලංකාව අතර සෘජු ගුවන් ගමන් පිළිබඳ සම්මුතියක්
+
+*2024-02-16 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193443) · `si`
+
+ඊශ්‍රායලය සහ ශ්‍රී ලංකාව අතර සෘජු ගුවන් සේවා සම්මුතියකට අත්සන් තැබු බව වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පවසයි.
+
+ඔහු සඳහන් කළේ මෙරට ශ්‍රමිකයන් විදෙස්ගත කිරීමේදී සිදුවන ප්‍රමාදය වැළැක්වීම මෙම ගිවිසුමේ ප්‍රධාන අරමුණක් වන බවය.
+
+එමෙන්ම කොළඹ වරාය සම්බන්ධයෙන් අදහස් දක්වමින් ඔහු සඳහන් කළේ එහි පුළුල් කිරීම් ද ක්‍රියාත්මක කරන බවය.
+
+◼️
+
+[Data](articles/7c5117a2.json)
+
+---
+
+### හිමිනම ඝාතනයේ තවත් සැකකරුවෙකු කොටු වෙයි
+
+*2024-02-16 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193442) · `si`
+
+මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයකදී හිමිනමක් වෙඩි තබා ඝාතනය කිරීමේ  සිද්ධියට අදාළව සැකකරුවෙකු බියගමබ මල්වාන ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු සන්තකයේ මෙරට නිෂ්පාදිත අත්බෝම්බයක් සහ අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 10 ක් පමණ තිබූ බවද පොලීසිය පැවසීය.
+
+පොලීසිය සඳහන් කළේ අදාළ සැකකරු එම අපරාධයට සෘජුවම සම්බන්ධ බවට සැක කරන බවය.
+
+සිද්ධිය සම්බන්ධයෙන් බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/2fe0bef7.json)
+
+---
+
+### ගෙවල් බිඳුම් රැසක් ගැන අනාවරණයක්
+
+*2024-02-16 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193441) · `si`
+
+කිරිබත්ගොඩ පොලීසිය විසින් ඉකුත් 13 වනදා අත්අඩංගුවට ගත් සැකකරුවෙකු රඳවාගෙන ප්‍රශ්න කිරීමේදී අපරාධ රැසක් සම්බන්ධයෙන් තොරතුරු හෙළිවී තිබේ.
+
+37 හැවිරිදි සැකකරු කිරිබත්ගොඩ, පෑලියගොඩ, කඩවත, කිරුළපන, බොරලැස්ගමුව හා වත්තල යන පොලිස් වසම් තුළ සිදුකළ ගෙවල් බිඳුම් රැසක් පිළිබඳ තොරතුරු හෙළිකර ඇත.
+
+සැකකරුගෙන් ලද තොරතුරු අනුව ඊයේ (15) තවත් සැකකරුවෙකු සහ සැකකාරියක ග්‍රෑන්ඩ්පාස් පොලිස් වසමේදී අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/75f85b30.json)
+
+---
 
 ### Greece legalises same sex marriage in landmark change
 
@@ -1975,113 +2055,5 @@ A weaker Japanese yen was a key factor in the drop to fourth place, since compar
 [Data](articles/414721e4.json)
 
 [Extended Data](ext_articles/414721e4.ext.json)
-
----
-
-### Yall. Accident in Vaddukoddai;Two people injured
-
-*2024-02-15 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176451) · `ta`
-
-Two -wheelers collided with two -wheelers on Thursday morning at the Vaddukoddai junction, which belongs to the Vaddukoddai police division in Jaffna.
-
-In the meantime, two persons have been taken to the Jaffna Teaching Hospital by the emergency patient Kavuwandi and are being treated there.
-
-The accident is said to have occurred due to high speed. Vaddukoddai police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/e4fa8fcc.json)
-
-[Extended Data](ext_articles/e4fa8fcc.ext.json)
-
----
-
-### Japan leaves a green light from Japan
-
-*2024-02-15 15:09:14* · [`adalk`](https://www.ada.lk/breaking_news/සැහැල්ලු-දුම්රිය-ව්‍යාපෘතියට-ජපානයෙන්-කොළ-එළියක්/11-408110) · `si`
-
-President Ranil Wickremesinghe and the President of the Japan International Cooperation Agency (JICA) was held at the Presidential Secretariat yesterday (14).
-
-Despite the difficult process to carry out new economic reforms, Dr. Tanca Akito was assessed by President Ranil Wickremesinghe to implement economic reforms in Sri Lanka.
-
-President Ranil Wickremesinghe said that the projects stopped under the operation of the Bandaranaike International Airport and the Central Expressway, the Donation of the Katunayake Railway and the Central Expressway.
-
-The President also supported the continued support given to Sri Lanka by the Japanese government and JICA to Sri Lanka in the face of the last economic crisis.
-
-Jayawica is ready to resume the projects that have been suspended after the restructuring of the debts of Sri Lanka.
-
-...
-
-[Data](articles/82d974b9.json)
-
-[Extended Data](ext_articles/82d974b9.ext.json)
-
----
-
-### Youth killed in motorcycle
-
-*2024-02-15 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176450) · `ta`
-
-A youth who was traveling on a motorcycle in Mahaduwegama area belonging to the Kalutara North Police Division
-
-The young man was riding a motorbike to the shop where he was working from his home and was severely injured when he was seriously injured.
-
-Police said the accident occurred after the motorcycle driver could not control the speed. The deceased is 25 -year -old Kihan Madusanga Lakmal.
-
-◼️
-
-[Data](articles/af700332.json)
-
-[Extended Data](ext_articles/af700332.ext.json)
-
----
-
-### Interim ban on holding national conference of Sri Lanka Tamil National Party
-
-*2024-02-15 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176446) · `ta`
-
-The Trincomalee District Court today issued an interim injunction issued by the Trincomalee District Court not to hold the conference for two weeks as the Sri Lanka Tamil National Party's conference was held on the 19th.
-
-The interim order has been issued for 14 days when it was taken up today in the presence of Ganesarajah in the presence of Trincomalee District Judge Manikavasakar Ganesarajah.
-
-President's Attorney Jeffrey Alagaratnam and Attorney -at -Law Panthan appeared with Aishwarya Sivakumar's registered lawyer.
-
-The argument was made that the General Assembly meetings held on the 21st and 27th were contrary to the law and invalid.
-
-The argument, therefore, was proposed that the choices made at the two General Assembly meetings were contrary to the law.
-
-It was also stated in the court that the meeting was legal as the members of the Tamil National Party (TNA) had voted during the election of the General Assembly.
-
-...
-
-[Data](articles/f41826cc.json)
-
-[Extended Data](ext_articles/f41826cc.ext.json)
-
----
-
-### Proposed Broadcasting Regulatory Commission Bill - Opposition Dissatisfaction
-
-*2024-02-15 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176448) · `ta`
-
-The Opposition has issued strong opposition to the Sri Lankan government's proposed Broadcasting Regulatory Commission Bill.
-
-The United People's Power has expressed fears that media freedom can be controlled by this bill by the government.
-
-Harsha de Silva, a united power parliamentarian, has expressed distrust of the proposed Bill.
-
-He said the bill could create a situation and electronic media controlled.
-
-Harsadisilva, who has expressed confidence in the government's amendment to the Ceylon Protection Act, said it was to suppress social media.
-
-There are fears that the Sri Lankan government's proposed broadcast regulatory commission can help a particular panel of television licenses.
-
-Harsa de Silva said the Sri Lankan media world could become a black world if the Sri Lankan government's proposed Broadcasting Regulatory Commission Bill was implemented.
-
-◼️
-
-[Data](articles/24563391.json)
-
-[Extended Data](ext_articles/24563391.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 15:17:28**
+As of **2024-02-16 15:32:51**
 
 ## Newspaper Stats
 
-*Scraped **7,471** Articles*
+*Scraped **7,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 393
 dailyftlk | 402
 adalk | 638
 tamilmirrorlk | 913
-adaderanalk | 916
+adaderanalk | 917
 virakesarilk | 979
 adaderanasinhalalk | 1,059
 dailymirrorlk | 1,090
@@ -26,11 +26,27 @@ dailymirrorlk | 1,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,469 (100.0%) of 7,471 articles have been extended.
+7,471 (100.0%) of 7,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### 16-hour water cut to be imposed in parts of Colombo
+
+*2024-02-16 14:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97326/16-hour-water-cut-to-be-imposed-in-parts-of-colombo) · `en`
+
+The water supply for parts of Colombo will be suspended tomorrow (Feb.17) for a period of 16 hours, the National Water Supply & Drainage Board (NWSDB) says.
+
+Water cut will be in place from 5.00 p.m. tomorrow until 9.00 a.m. on Sunday (Feb.18).
+
+According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be affected by the water cut, which is being imposed due to essential maintenance work planned under the Ambatale Water Supply System Improvements and Energy Saving Project.
+
+◼️
+
+[Data](articles/48cccc3b.json)
+
+---
 
 ### The family dispute ends
 
@@ -96,6 +112,8 @@ The Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana is cur
 
 [Data](articles/f91df931.json)
 
+[Extended Data](ext_articles/f91df931.ext.json)
+
 ---
 
 ### Minor workers prisoner
@@ -125,6 +143,8 @@ J. M. S. N. Jayasinghe, Commissioner General of Excise and E. H. Mohotty, then-D
 ...
 
 [Data](articles/8066866f.json)
+
+[Extended Data](ext_articles/8066866f.ext.json)
 
 ---
 
@@ -2021,21 +2041,5 @@ TISL said all have achieved the full score for transparency in corporate reporti
 [Data](articles/92c224c0.json)
 
 [Extended Data](ext_articles/92c224c0.ext.json)
-
----
-
-### Good Life X kicks off inaugural Thrive Canvas Masterclass
-
-*2024-02-16 05:21:39* · [`dailyftlk`](https://www.ft.lk/business/Good-Life-X-kicks-off-inaugural-Thrive-Canvas-Masterclass/34-758527) · `en`
-
-Following the successful launch of the Thrive Canvas last year and its integration into all our accelerator and garage programs, Good Life X (GLX) conducted its debut Thrive Canvas Masterclass in January 2024.
-
-Facilitated by GLX Alchemist Arj Wignaraja, it offered participants a deep dive into the genesis of the canvas, its critical importance as a way of breaking the cyclical nature of the economic, social and environmental crisis we are facing locally and globally, combined with an in-depth exploration of each of the nine pillars the canvas consists of. The session was at full capacity with 30 participants and these attendees were offered insights into practical strategies for implementing these pillars across diverse industries.
-
-...
-
-[Data](articles/66ab1e78.json)
-
-[Extended Data](ext_articles/66ab1e78.ext.json)
 
 ---

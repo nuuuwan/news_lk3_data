@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 00:02:46**
+As of **2024-02-17 00:17:44**
 
 ## Newspaper Stats
 
-*Scraped **7,553** Articles*
+*Scraped **7,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 402
 adalk | 645
 tamilmirrorlk | 920
 adaderanalk | 925
-virakesarilk | 991
+virakesarilk | 995
 adaderanasinhalalk | 1,077
 dailymirrorlk | 1,113
 
@@ -26,11 +26,65 @@ dailymirrorlk | 1,113
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,553 (100.0%) of 7,553 articles have been extended.
+7,553 (99.9%) of 7,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### அதிக டெங்கு நோயாளர்கள் உள்ள மாவட்டங்களாக யாழ்ப்பாணம், கொழும்பு மற்றும் கம்பஹா மாவட்டங்கள் தெரிவு
+
+*2024-02-16 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/176581) · `ta`
+
+கண்டி மாவட்டத்தில் பதிவாகும் டெங்கு நோயாளர்களின் வீதம் தற்போது குறைவடைந்துள்ளதாக கண்டி மாவட்ட தொற்றுநோய் நிபுணர் வைத்தியர்  கிருஷான் மசாராச்சி தெரிவித்துள்ளார்.
+
+நாட்டிலேயே அதிகூடிய டெங்கு நோயாளர்கள் கண்டி தேசிய பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகத் தெரிவித்த  வைத்தியர் தற்போது அது 5வது இடத்திற்கு குறைந்துள்ளதாகவும் தெரிவித்தார்.
+
+கண்டி  மாவட்ட செயலக அலுவலகத்தில் வெள்ளிக்கிழமை (15) நடைபெற்ற மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+அவர் மேலும் கருத்து தெரிவிக்கையில், கடந்த சில வருடங்களாக டெங்கு ஒழிப்பு வேலைத்திட்டங்கள் வெற்றியடைந்தமையே டெங்கு நோயாளர்களின் எண்ணிக்கை குறைவதற்கு காரணம் என தெரிவித்தார்.
+
+...
+
+[Data](articles/e833ad04.json)
+
+---
+
+### கடுவெல நீதிமன்றத்தில் சிறையிலிருந்து அழைத்துவரப்பட்ட இரு குழுக்களுக்கிடையில் வாக்குவாதம்
+
+*2024-02-16 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176579) · `ta`
+
+கடுவெல நீதிமன்றத்திற்கு அழைத்து வரப்பட்ட இரண்டு குழுக்கள் நீதிமன்ற சிறைக்கூடத்திற்குள் வாக்குவாதத்தில் ஈடுபட்டதால் அங்கு பதற்றமான நிலை தோற்றம் பெற்றது.
+
+3 பஸ்களில் சுமார் 150 சந்தேகநபர்கள் சிறைச்சாலையிலிருந்து கடுவெல நீதிமன்றத்திற்கு அழைத்துவரப்பட்டதாகவும் இதன்போதே  அவர்களுக்குள் வாக்குவாதம் இடம்பெற்றதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+அப்போது சிறை அதிகாரிகள் பலர் சிறைக்கூடத்திற்குள் சென்று மோதலை தடுக்கும் பணியில் ஈடுபட்டனர்.
+
+பின்னர், மதிய உணவுக்காக நீதிமன்றம் ஒத்திவைக்கப்படும் வரை, நீதிமன்றத்திற்கு வந்திருந்த வெளியாட்களை நீதிமன்றத்திலிருந்து வெளியேற்றி, சிறைச்சாலையில் இருந்து அழைத்து வரப்பட்ட சந்தேகநபர்களிடம் விசாரணை நடத்தப்பட்டது.
+
+இதன்படி, விளக்கமறியலில் வைக்கப்பட்டுள்ள சந்தேகநபர்கள் குழுவை விரைவாக சிறைச்சாலைக்கு அழைத்துச் செல்ல சிறைச்சாலை அதிகாரிகள் ஏற்பாடு செய்ததாகவும், மதிய உணவிற்குப் பிறகு, நீதிமன்ற நடவடிக்கைகள் வழமை போன்று இடம்பெற்றதாகவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/351d7a1e.json)
+
+---
+
+### இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா யாழ் விஜயம்
+
+*2024-02-16 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176580) · `ta`
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா 16 ஆம் திகதி வெள்ளிக்கிழமை யாழ்ப்பாணத்திற்கு விஜயம் செய்தார்.
+
+நயினாதீவுக்கு சென்ற உயர்ஸ்தானிகர் நயினாதீவு நாகபூசணி அம்மன் கோவில், நயினாதீவு நாகவிகாரைக்கு சென்று வழிபாட்டில் ஈடுபட்டதுடன் இந்திய திட்டத்தில் மேற்கொள்ளப்படவுள்ள கலப்பு மின் திட்ட இடங்களையும் பார்வையிட்டு ஆராய்ந்தார்.
+
+தொடர்ந்து காங்கேசன் துறை துறைமுகம், யாழ்ப்பாணம் சர்வதேச விமான நிலையத்திற்குச் சென்ற உயர்ஸ்தானிகர் அங்குள்ள நிலைமைகளை ஆராய்ந்தார்.
+
+◼️
+
+[Data](articles/f579be0a.json)
+
+---
 
 ### Police release photos of three Beliatta shooting suspects
 
@@ -113,6 +167,24 @@ Following the attack, all 27 children, accompanied by three parents, were rushed
 [Data](articles/7b15e768.json)
 
 [Extended Data](ext_articles/7b15e768.ext.json)
+
+---
+
+### சிற்றூழிர்களால் சிறைப்பிடிக்கப்பட்ட கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் விடுவிப்பு
+
+*2024-02-16 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176578) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லனவை இன்று (16) பிற்பகல் சிற்றூழியர்கள் குழுவொன்று அவரது அலுவலகத்தில் சிறைப்பிடித்து தடுத்து வைத்து குழப்பத்தில் ஈடுபட்டனர்.
+
+இந்நிலையில், சிற்றூழியர்களால் சுமார் 6 மணித்தியாலங்களாக அலுவலகத்தில் சிறைப்பிடிக்கப்பட்டிருந்த கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர்  வைத்தியர் ருக்ஷான் பெல்லன அங்கிருந்து விடுவிக்கப்பட்டுள்ளதாக சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+போராட்டத்தில் ஈடுபட்ட ஊழியர்களிடமிருந்து பெரும் பிரயத்தனத்தை மேற்கொண்ட பின்னரே வைத்தியர் ருக்ஷான் பெல்லனவை மீட்டு வைத்தியசாலைக்கு வெளியே கொண்டு வர முடிந்ததாகவும் அதன்பின்னர் போராட்டத்தில் ஈடுபட்ட ஊழியர்கள் கலைந்து சென்றதாகவும் சிரேஷ்ட பொலிஸ் அதிகாரி  மேலும்  தெரிவித்தார்.
+
+வைத்தியர் ருக்ஷான் பெல்லானாவின் அலுவலகத்தை இன்று வெள்ளிக்கிழமை பிற்பகல் 1.15 மணியளவில் வைத்தியசாலை சிற்றூழியர்கள் குழுவொன்று முற்றுகையிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/f9bfcc9b.json)
 
 ---
 
@@ -2029,75 +2101,5 @@ It is reported that he fled the Dubai on 09 February 2021. (Of)
 [Data](articles/25f8a82f.json)
 
 [Extended Data](ext_articles/25f8a82f.ext.json)
-
----
-
-### The water tank falls down on the kitchen
-
-*2024-02-16 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193460) · `si`
-
-A woman was killed in the collapse of an unsafe water tank in the upper necklace.
-
-A water tank with a capacity of 1000 liters of water has collapsed on the head.
-
-It is reported that she was renting in the day.
-
-◼️
-
-[Data](articles/1698ba8f.json)
-
-[Extended Data](ext_articles/1698ba8f.ext.json)
-
----
-
-### Customs returned to usual
-
-*2024-02-16 12:43:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழமைக்கு-திரும்பியது-சுங்கம்/175-333306) · `ta`
-
-The union action of the Customs Department has been completed.
-
-Finance Minister Ranjith Siyambalapitiya and President's Secretary Saman Ekanayake have been abandoned after a week's speech.
-
-◼️
-
-[Data](articles/bbf5543d.json)
-
-[Extended Data](ext_articles/bbf5543d.ext.json)
-
----
-
-### Detention orders issued against “Piyuma” under PTA
-
-*2024-02-16 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97321/detention-orders-issued-against-piyuma-under-pta) · `en`
-
-The Criminal Investigations Department (CID) has secured detentions orders against criminal gang member Piyum Hasthika alias “Piyuma”, who was repatriated to Sri Lanka from Dubai, UAE last morning (Feb. 15).
-
-Thus, the Colombo Fort Magistrate’s Court has issued a 72-hour detention order under the Prevention of Terrorism Act (PTA) to interrogate the suspect, after the CID reported facts to the courts regarding the repatriation of “Piyuma”.
-
-However, the Colombo Fort Magistrate has also ordered that the 72 hours be counted retrospectively from Feb.15, the day he was brought back to the island.
-
-“Piyuma” is reportedly the main accomplice of the notorious underworld figure and drug trafficker Salindu Malshika Gunaratne alias “Kudu Salindu,” who is also currently in the custody of the CID.
-
-According to the Public Security Ministry, the criminal suspect was brought back to the island by a special team of the CID.
-
-...
-
-[Data](articles/14bbab5b.json)
-
-[Extended Data](ext_articles/14bbab5b.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-16 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176525) · `ta`
-
-The US dollar purchasing price was Rs.
-
-◼️
-
-[Data](articles/4cbcb3f1.json)
-
-[Extended Data](ext_articles/4cbcb3f1.ext.json)
 
 ---

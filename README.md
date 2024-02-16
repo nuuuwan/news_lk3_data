@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 20:17:37**
+As of **2024-02-16 20:33:07**
 
 ## Newspaper Stats
 
-*Scraped **7,529** Articles*
+*Scraped **7,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 642
 tamilmirrorlk | 918
 adaderanalk | 923
 virakesarilk | 987
-adaderanasinhalalk | 1,071
+adaderanasinhalalk | 1,073
 dailymirrorlk | 1,106
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,527 (100.0%) of 7,529 articles have been extended.
+7,529 (100.0%) of 7,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### කෙහෙළිය ගේ රෝගී තත්ත්වය ගැන විමර්ශනයක් ඉල්ලා අධිකරණයට මෝසමක්
+
+*2024-02-16 20:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193480) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍යවරයා ඊයේ (15) අධිකරණයට ඉදිරිපත් නොකිරීමට තරම් රෝගී තත්ත්වයක පසුවූයේදැයි සම්බන්ධයෙන් විමර්ශනයක් සිදුකරන්නැයි ඉල්ලා රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණී ගිරිහාගම මෙනවිය සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට අද මෝසමක් ගොනු කළේය.
+
+එමගින් පැමිණිලි පාර්ශ්වය අධිකරණයෙන් ඉල්ලා සිටින්නේ විමර්ශනයට අදාළ ප්‍රශ්නාවලිය බන්ධනාගාර වෛද්‍යවරයා වෙත යොමු කරන ලෙසට ය.
+
+මේ අතර ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සැකකරුවන් 07දෙනා ඊයේ ලබන 29 වනදා තෙක් යළි රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+
+සැකකාර අමාත්‍යවරයා නඩු වාරය සඳහා අධිකරණයට නොපැමිණි අතර ඔහුගේ නීතිඥයින් දැනුම්දුන්නේ කෙහෙළිය රඹුක්වැල්ල මහතා නින්දේදී හුස්ම හිරවීම ඇතුළු රෝග ගණනාවකින් පීඩා විඳිමින් සිටින බවයි.
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් සම්බන්ධ නඩුව ඊයේ මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී යළි කැඳවූ අතර එම අවස්ථාවේ හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල අධිකරණයට ඉදිරිපත් නොකළේය.
+
+...
+
+[Data](articles/00690ce2.json)
+
+---
+
+### බාලවයස්කාර දැරිය ට අතවර කළ තිදෙනා
+
+*2024-02-16 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193479) · `si`
+
+මීගොඩ ගල්වලමුල්ල ප්‍රදේශයේ පදිංචි 12 හැවිරිදි පාසල් ශිෂ්‍යාවක් අපයෝජනය කළැයි චෝදනා මත සැකපිට දැරියගේ අසල්වාසී තරුණයෙකු සහ ඥාති පියපුතු දෙපොළක් මීගොඩ පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පසුව එම සැකකරුවන්ව ලබන 29 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට අධිකරණය නියෝග කර තිබුණි.
+
+ඉකුත් දෙසැම්බර් මාසයේදී එම දැරිය අපයෝජනයට ලක්වී ඇති අතර ඇය එම සිද්ධිය සඟවාගෙන සිට ඇති අතර පෙරේදා දිනයේදි ඇය ඒ පිළිබඳ මවට පැවසීමෙන් පසු මව මේ සම්බන්ධයෙන් මීගොඩ පොලීසියට පැමිණිලි කර ඇති බව වාර්තා විය.
+
+◼️
+
+[Data](articles/4af18ce6.json)
+
+---
 
 ### Sri Lanka needs more support from Washington, former president says
 
@@ -68,19 +104,23 @@ The petitioner Kamani Rupika Priyangani stated that she entered into marriage wi
 
 ---
 
-### சங்காவைப் போன்று உயர்வதற்கு கடும் உழைப்பு அவசியம் என்கிறார் 'குட்டி சங்கா' ஷாருஜன்
+### 'Kutti Sanga' Sharujan says that hard work is needed to rise like Sanga
 
 *2024-02-16 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176573) · `ta`
 
-'குட்டி சங்கா' (Little Sanga) என எனக்கு புனைப் பெயர் சூட்டபட்டதையிட்டு பெருமை அடைகிறேன். ஆனால், அவரைப் போன்று உயர்வதாக இருந்தால் கிரிக்கெட் அரங்கில் கடுமையாக உழைக்க வேண்டிவரும் என வீரகேசரி ஒன்லைனுக்கு கொட்டாஞ்சேனை புனித ஆசீர்வாதப்பர் கல்லூரி கிரிக்கெட் அணித் தலைவர் ஷாருஜன் சண்முகநாதன் தெரிவித்தார்.
+I am proud to have been named as 'Little Sanga'. However, if he is like him, he will have to work hard in the cricket arena, said St. Blessed by St. Blessed by St.
 
-விண்ணகத்தில் ஏற்பாடு செய்யப்பட்ட  பென்ஸ் -வெஸ்லி போட்டி தொடர்பான ஊடக சந்திப்பின் பின்னர் ஷாருஜனிடம் பிரத்தியேகமாக எழுப்பிய கேள்வி ஒன்றுக்கு பதிலளிக்கையிலேயே அவர் இதனைத் தெரிவித்தார்.
+He made this statement in response to a question raised exclusively to Shah Rujan after a media briefing on the Benz -Wesley Tournament organized in the sky.
 
-'எனக்கு குட்டி சங்கா என பெயர் சூட்டப்பட்டபோது நான் சிறுவனாக இருந்தேன். அதன் பெருமையை இப்போது உணர்கிறேன். அவர் ஒரு கிரிக்கெட் மேதை. சங்காவைப் (குமார் சங்கக்கார) போன்று உயரிய நிலைக்கு வருவதென்பது இலகுவானதல்ல. அதற்காக கிரிக்கெட் அரங்கில் நான் கடுமையாக உழைக்க வேண்டும். எத்தனையோ படிகளைக் கடக்க வேண்டும். அந்த இடத்தை அடைவதற்கு நான் சரியான நிலையில் இருக்கின்றேனா என்பது எனக்கு தெரியாது.
+'I was a boy when I was named Kutty Sanga. I feel its pride now. He is a cricket genius. It is not easy for Sanga (Kumar Sangakkara). I have to work hard at the cricket arena for that. How many steps should be overcome. I don't know if I am in the right position to reach that place.
+
+'I will try to reach the next stage though. I must work hard and follow the process formally. If the fortunes go back to the better the process, I get a chance to achieve good condition. I will play diligently, ”said Sarujan Shanmuganathan.
 
 ...
 
 [Data](articles/33983fac.json)
+
+[Extended Data](ext_articles/33983fac.ext.json)
 
 ---
 
@@ -128,21 +168,23 @@ The Nuwara Eliya Police are also reporting to take light signals to light light 
 
 ---
 
-### யாழில் இனிமேல் நடைபெறும் இசை நிகழ்வுகளுக்கு தமது நெறிப்படுத்தல் இருக்கும் - டக்ளஸ் தேவானந்தா
+### Douglas Devananda will be the ongoing music events in Jaffna
 
 *2024-02-16 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176569) · `ta`
 
-யாழ்ப்பாணத்தில் நடைபெற்ற இசை நிகழ்வில் ஏற்பட்ட குழப்பங்களுக்கு தமது நெறிப்படுத்தல்கள் இல்லாமையும் ஒரு காரணம் என கடற்தொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+Minister of Fisheries Douglas Devananda said that the lack of their regulations at the music event in Jaffna is one of the reasons.
 
-இசை நிகழ்வில் ஏற்பட்ட குழப்பங்களுக்கு எங்களுடைய இளைஞர்களைப் பலரும் குறை கூறுகின்றனர். நிகழ்வில் இளைஞர்கள் சிலர் தாக்குதலுக்கு இலக்காகியதாகவும் அறிந்து கொண்டேன்.
+Many of our young people criticize the chaos at the music event. At the event, I learned that some of the young people were targeted for the attack.
 
-நிகழ்வு தொடர்பில் யாழ்.மாநகர சபை மற்றும் யாழ்ப்பாண பொலிஸார் கூடிய கவனம் செலுத்தி இருக்க வேண்டும். நானும் அதனை பார்த்து இருக்க வேண்டும். நானும் அது தொடர்பில் கரிசனை இல்லாமல் இருந்து விட்டேன்.
+The Jaffna Municipal Council and the Jaffna Police should be focused on the event. I too have to look at it too. I too have been without concern about it.
 
-இனிவரும் காலங்களில் இப்படியான நிகழ்ச்சிகள் நடைபெறுமாக இருந்தால் , மக்கள் பிரச்சனைகள் இன்றி சந்தோசமாக நிகழ்வுகளைக் கண்டு களிக்க கூடியவாறான ஏற்பாடுகளைச் செய்வோம் எனத் தெரிவித்தார்.
+If such events are taking place in the future, we will make arrangements that will be able to find events without problems.
 
 ◼️
 
 [Data](articles/29064cba.json)
+
+[Extended Data](ext_articles/29064cba.ext.json)
 
 ---
 
@@ -2021,45 +2063,5 @@ He said Sri Lanka has to pay 37 percent of external debt within the next five to
 [Data](articles/60f76180.json)
 
 [Extended Data](ext_articles/60f76180.ext.json)
-
----
-
-### Rubber tappers awarded with NVQ-3
-
-*2024-02-16 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rubber-tappers-awarded-with-NVQ-3/108-277162) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - A total of 169 rubber harvesting assistants were awarded the NVQ-3 certificates for the first time in Sri Lanka at the Agalawatta Rubber Research Institute after two weeks of intensive training.
-
-The National Apprenticeship Board has taken steps to provide national vocational skills certificates to rubber harvesting assistants in the rubber industry, following a request from the Ministry of Agriculture and Plantation Industries.
-
-They were designated as Rubber Harvesting Assistants in order to protect the dignity of the rubber tapper. The Rubber Research Institute had taken steps to present the certificates to the rubber harvesting assistants wearing a graduation cloak during the presentation of the National Vocational Skills Certificates.
-
-...
-
-[Data](articles/cabcd5b3.json)
-
-[Extended Data](ext_articles/cabcd5b3.ext.json)
-
----
-
-### Putin urges Russians to have more kids, says ethnic survival at stake
-
-*2024-02-16 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97315/putin-urges-russians-to-have-more-kids-says-ethnic-survival-at-stake) · `en`
-
-Russian families must produce at least two children for the sake of the nation’s ethnic survival, and three or more if it is to develop and thrive, President Vladimir Putin said on Thursday.
-
-Russia has suffered heavy but undisclosed casualties since launching its war in Ukraine nearly two years ago, and hundreds of thousands of people have fled the country out of opposition to the conflict or fear of being called up to fight.
-
-Putin told employees at a tank factory in the Urals region that two children per family was the minimum number if the peoples of Russia were to preserve their identities.
-
-“If we want to survive as an ethnic group - well, or as ethnic groups inhabiting Russia - there must be at least two children,” he said.
-
-If each family had just one child, the population would shrink, he said. “And in order to expand and develop, you need at least three children.”
-
-...
-
-[Data](articles/8954f44a.json)
-
-[Extended Data](ext_articles/8954f44a.ext.json)
 
 ---

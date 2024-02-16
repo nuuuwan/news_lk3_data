@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 05:17:37**
+As of **2024-02-16 05:36:55**
 
 ## Newspaper Stats
 
-*Scraped **7,348** Articles*
+*Scraped **7,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 84
 bbccomsinhala | 96
 dbsjeyarajcom | 150
 newsfirstlk | 363
-islandlk | 376
+islandlk | 382
 economynextcom | 387
 dailyftlk | 389
 adalk | 630
@@ -26,7 +26,7 @@ dailymirrorlk | 1,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,348 (100.0%) of 7,348 articles have been extended.
+7,348 (99.9%) of 7,354 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -569,6 +569,20 @@ Preliminary police investigations have revealed that the crime has been carried 
 [Data](articles/db781864.json)
 
 [Extended Data](ext_articles/db781864.ext.json)
+
+---
+
+### Adora Cosmetic Centre by Hemas Hospitals celebrates 5 years of excellence
+
+*2024-02-15 21:06:00* · [`islandlk`](http://island.lk/adora-cosmetic-centre-by-hemas-hospitals-celebrates-5-years-of-excellence/) · `en`
+
+Adora Cosmetic Centre, a distinguished independent cosmetic centre, operating with the reputed clinical backing of Hemas Hospitals, marks its 5th anniversary in 2024. Since its inception on 14th February 2019, Adora has solidified its position as Sri Lanka’s premier destination for cosmetic enhancements. With a comprehensive range of surgical and non-surgical procedures, performed using the latest and most cutting-edge technologies and treatments available in Sri Lanka, Adora Cosmetic Centre has built a reputation for its commitment to exceptional service, positive outcomes and patient-centric care.
+
+Dr Malith B. Atapattu – Director Medical Services and Quality Hemas Hospitals and Laboratory Chain, commented saying, “Our unwavering commitment to transformative results has enabled us to emerge as the one-stop-shop for cosmetic transformations, backed by the prestige and clinical expertise of Hemas Hospitals.
+
+...
+
+[Data](articles/2f77965f.json)
 
 ---
 
@@ -2055,31 +2069,5 @@ A student of the Sabaragamuwa University Faculty and two students was eating at 
 [Data](articles/72aa1312.json)
 
 [Extended Data](ext_articles/72aa1312.ext.json)
-
----
-
-### Villagers objected to President's festival
-
-*2024-02-15 14:37:30* · [`adalk`](https://www.ada.lk/uncategorized/ජනපති-ආපු-උත්සවයට-ගම්මුන්ගෙන්-විරෝධයක්/1-408108) · `si`
-
-The first phase of the Northern Water Supply Drinking Drinking Drinking Water Project was opened by President Ranil Wickremesinghe.
-
-Japanese Ambassador and Japanese Ambassador and Japanese International Cooperation (Jayasika) were also present.
-
-The protest said that the water of the drinking water was carried out to Jaffna or that the waters of the water would be provided with a system of water.
-
-They said that the ownership of the rains filled with a week after the opening of the water was reduced due to the opening of the water in the water alone.
-
-Residents say that the Maha Porround is due to be obtained from the reservoir of the Great Launger due to this water scheme.
-
-The project was a promise to open the water supply water scheme, even when the water was on the Moratuwa Kanda Reservoir to the reservoir, but the water project was given to the farmers..
-
-The farmers were prepared to protested a protest to objection to the declaration of this water project.
-
-...
-
-[Data](articles/3d3f1842.json)
-
-[Extended Data](ext_articles/3d3f1842.ext.json)
 
 ---

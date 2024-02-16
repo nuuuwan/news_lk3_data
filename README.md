@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 09:51:23**
+As of **2024-02-16 10:02:29**
 
 ## Newspaper Stats
 
-*Scraped **7,399** Articles*
+*Scraped **7,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 385
 economynextcom | 387
 dailyftlk | 400
 adalk | 631
-adaderanalk | 901
 tamilmirrorlk | 902
+adaderanalk | 903
 virakesarilk | 969
 adaderanasinhalalk | 1,045
 dailymirrorlk | 1,085
@@ -26,11 +26,33 @@ dailymirrorlk | 1,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,399 (100.0%) of 7,399 articles have been extended.
+7,401 (100.0%) of 7,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### US concerned about reports of intimidation, voter suppression in Pakistan election
+
+*2024-02-16 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97312/us-concerned-about-reports-of-intimidation-voter-suppression-in-pakistan-election) · `en`
+
+The United States is concerned about reports of intimidation and voter suppression in Pakistan’s election, the White House said on Thursday after reports of protests in some parts of the country.
+
+Pakistan’s election last week did not return a clear majority for anyone but independent candidates backed by jailed former Prime Minister Imran Khan won 92 out of 264 seats, making them the largest group.
+
+Questions have been raised about the fairness of the Feb. 8 election both inside Pakistan as well as in major foreign capitals, with Washington having previously said there were “undue restrictions” on freedoms of expression and assembly.
+
+“We are watching this very, very closely,” White House spokesperson John Kirby told reporters on Thursday, expressing concern about “intimidation and voter suppression.”
+
+“International monitors are still taking a look at those tallies, I’m not going to get ahead of that process,” he added about the vote count.
+
+◼️
+
+[Data](articles/a0a3d392.json)
+
+[Extended Data](ext_articles/a0a3d392.ext.json)
+
+---
 
 ### Two soldiers killed in two locations
 
@@ -63,6 +85,30 @@ A case has been filed in the Supreme Court challenging the CC’s rejection. In 
 [Data](articles/5662f48f.json)
 
 [Extended Data](ext_articles/5662f48f.ext.json)
+
+---
+
+### Another suspect arrested over murder of Buddhist monk at temple
+
+*2024-02-16 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97311/another-suspect-arrested-over-murder-of-buddhist-monk-at-temple) · `en`
+
+The police have arrested another suspect who was complicit in the murder of a Buddhist monk at a temple in the Malwathuhiripitiya area last month.
+
+Arrest was made during an operation conducted by Western Province North Crimes Division in Malwana on Thursday (Feb.15).
+
+The 23-year-old is reportedly a resident of the Aralaganwila area.
+
+He was apprehended with a locally manufactured hand grenade and more than 10 grams of methamphetamine (‘Ice’).
+
+In the early hours of January 23, a group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha.
+
+The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. But he later succumbed to injuries while receiving treatment.
+
+...
+
+[Data](articles/d9479463.json)
+
+[Extended Data](ext_articles/d9479463.ext.json)
 
 ---
 
@@ -1999,51 +2045,5 @@ On Tuesday, Sri Lanka Police announced that necessary disciplinary action will b
 [Data](articles/73c9ee47.json)
 
 [Extended Data](ext_articles/73c9ee47.ext.json)
-
----
-
-### The information received by the minister's information about deleting data
-
-*2024-02-15 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193426) · `si`
-
-Energy Minister Kanchana Wijesekara says he received the basic issues identified by the Fuel storage of Ceylon Petroleum Storage Terminal and the fuel distribution of fuel distributions.
-
-The Minister said that the Ministry of Power and Energy had informed the Ministry of Power and Energy to conduct this wheat examination by the CID by 2022.
-
-Accordingly, the Internal Audit Division of the International Audit Institute and the Ceylon Oil Storage Terminal was carried out by KPMG.
-
-Accordingly, the information data has been deleted or changed from 2010, the majority of information has been deleted or the majority has occurred when the fuel crisis occurred in 2022.
-
-The Criminal Investigation Department has reportedly caused a decrease in data or changes by 2023 after 2023.
-
-It is said that the fuel stocks of Rs. 28 billion as the loss of Rs.
-
-It is observed that operations on old circulars and regulations are observed and there is insufficient data and information.
-
-...
-
-[Data](articles/281a0d7b.json)
-
-[Extended Data](ext_articles/281a0d7b.ext.json)
-
----
-
-### Sri Lanka President seeks swift resumption of Japan funded projects
-
-*2024-02-15 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-seeks-swift-resumption-of-japan-funded-projects-151091/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has sought a “swift resumption” of Japan funded projects which have been halted following a default, at a meeting with the President of the Japan International Co-operation Agency.
-
-Wickremesinghe has discussed resuming the project on expanding the main airport, a light rail project and the central expressway, during a meeting with JICA President Tanaka Akihiko in Colombo, a statement said.
-
-Akihiko had highlighted “the priority of concluding debt restructuring while also aiming for the resumption of stalled projects” the statement said.
-
-Japan halted loan funded projects after Sri Lanka defaulted based on their rules and gave grants for humanitarian assistance and to support some reforms. (Colombo/Feb15/2024)
-
-◼️
-
-[Data](articles/6364e30d.json)
-
-[Extended Data](ext_articles/6364e30d.ext.json)
 
 ---

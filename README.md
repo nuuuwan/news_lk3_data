@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 18:08:30**
+As of **2024-02-16 18:20:15**
 
 ## Newspaper Stats
 
-*Scraped **7,507** Articles*
+*Scraped **7,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 99
 dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 385
-economynextcom | 393
+economynextcom | 398
 dailyftlk | 402
 adalk | 642
 tamilmirrorlk | 915
-adaderanalk | 919
+adaderanalk | 922
 virakesarilk | 985
 adaderanasinhalalk | 1,069
 dailymirrorlk | 1,100
@@ -26,11 +26,51 @@ dailymirrorlk | 1,100
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,507 (100.0%) of 7,507 articles have been extended.
+7,507 (99.9%) of 7,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Anti-riot squad deployed as tense situation emerges in front of NHSL
+
+*2024-02-16 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97331/anti-riot-squad-deployed-as-tense-situation-emerges-in-front-of-nhsl) · `en`
+
+A tense situation arose in front of the National Hospital of Sri Lanka (NHSL) in Colombo this evening (16), as the minor staff of the hospital commenced a demonstration against the Deputy Director of the hospital Dr. Rukshan Bellana.
+
+Thus, police anti-riot squad had also been deployed to beef up the security of the hospital premises, Ada Derana reporter said.
+
+Earlier today, it was reported that Dr. Bellana was forcibly held inside his office by the minor staff of the hospital.
+
+A collective of 72 health sector trade unions recently carried out an island-wide strike action over disparities in allowances, which was heavily criticized by Dr. Bellana.
+
+However on Wednesday (14), the health trade unions decided to call off their strike after Health Minister Dr. Ramesh Pathirana had agreed to a discussion with them.
+
+...
+
+[Data](articles/ada05e7f.json)
+
+---
+
+### Sri Lanka exporters confident about growth prospects: Chamber survey
+
+*2024-02-16 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-exporters-confident-about-growth-prospects-chamber-survey-151219/) · `en`
+
+ECONOMYNEXT – Sri Lankan exporters have said political stability and a consistent energy supply were crucial facilitators for export growth in 2024, according to a survey by The Ceylon Chamber of Commerce.
+
+“Exporters stressed that increasing utility prices and the cost of transport and logistics posed significant challenges during 2023,” the Export Barometer Survey by The Ceylon Chamber of Commerce showed, the chamber said on X (twitter).
+
+In the survey covering 2023 and forecasting 2024, exporters expressed confidence in their growth prospects.
+
+“Service-oriented exporters grappled with a lack of skilled labour, highlighting a sector-specific challenge that warrants attention. However, most exporters identified new business opportunities, leading to workforce expansion to meet growing production demands.”
+
+Amidst economic dynamics, the export sector exhibited robust growth in 2023, the report found.
+
+...
+
+[Data](articles/9aec96bb.json)
+
+---
 
 ### Russia Opposition Leader Alexe Navalni's sudden death
 
@@ -49,6 +89,24 @@ Attempts to save him have not been successful, he died, hospital sources said.
 [Data](articles/ca0d0b6c.json)
 
 [Extended Data](ext_articles/ca0d0b6c.ext.json)
+
+---
+
+### Russian opposition leader Alexei Navalny dies in prison
+
+*2024-02-16 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97330/russian-opposition-leader-alexei-navalny-dies-in-prison) · `en`
+
+Russian opposition leader Alexei Navalny has died in prison, the country’s state media reported Friday, ending a yearslong fight against corruption and the Kremlin that saw him survive several poisoning attempts.
+
+A prominent critic of President Vladimir Putin, Navalny spent his final months behind bars as the Russian leader reshaped the country to rally behind his war in Ukraine.
+
+“On February 16, 2024, in penal colony No. 3, convict A.A. Navalny felt unwell after a walk, almost immediately losing consciousness,” news agency Interfax reported, citing the country’s orison service.
+
+“The facility’s medical workers immediately arrived at the scene and an emergency medical team was called in. All necessary resuscitation measures have been carried out, but they did not yield positive results. Emergency medics confirmed the death of the convict,” it added.
+
+...
+
+[Data](articles/37d01f1d.json)
 
 ---
 
@@ -94,6 +152,30 @@ As a result, the doctor was forcibly held by minor workers in their office premi
 
 ---
 
+### Sri Lanka rupee closes at 312.20/35 to the US dollar
+
+*2024-02-16 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-312-20-35-to-the-us-dollar-151217/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 312.20/35 to the US dollar Friday, from 313.70/90 on Thursday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.60/70 percent up from 10.50/60 percent.
+
+A bond maturing on 15.09.2027 closed at 11.55/75 percent from 11.45/65 percent.
+
+A bond maturing on 15.03.2028 closed at 11.90/12.05 percent from 11.95/12.10 percent.
+
+A bond maturing on 15.07.2029 closed at 12.20/45 percent from 12.20/50 percent.
+
+A bond maturing on 15.05.2030 closed at 12.30/50 percent up from 12.20/50 percent.
+
+A bond maturing on 01.07.2032 closed at 12.55/75 percent up from 12.50/70 percent. (Colombo/Feb16/2024)
+
+◼️
+
+[Data](articles/d5d9b8db.json)
+
+---
+
 ### A group of suspects in court in court
 
 *2024-02-16 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193474) · `si`
@@ -117,6 +199,48 @@ Accordingly, prison officials have taken measures to be taken to the prison soon
 [Data](articles/0af9d646.json)
 
 [Extended Data](ext_articles/0af9d646.ext.json)
+
+---
+
+### Israeli minister calls on President Ranil, discusses Gaza conflict
+
+*2024-02-16 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97329/israeli-minister-calls-on-president-ranil-discusses-gaza-conflict) · `en`
+
+President Ranil Wickremesinghe, during a significant discussion with an Israeli minister, has called for an armistice in the besieged Palestinian enclave Gaza.
+
+Israel’s Minister of Transport and Road Safety Brig. Gen. Miri Regev called on the Sri Lankan leader on Friday (Feb.16) and discussed crucial matters concerning the safe return of Israeli hostages, according to the President’s Media Division (PMD).
+
+During the diplomatic encounter, President Wickremesinghe has reaffirmed Sri Lanka’s unwavering commitment to advocating for the safety of the hostages.
+
+However, he went on to call for an immediate cessation of violence, while underscoring that peace and stability in the region are of paramount importance.
+
+Highlighting Sri Lanka’s stance on the Israeli-Palestinian conflict, President Wickremesinghe reiterated the nation’s support for the establishment of a Palestinian State.
+
+He also emphasized the significance of ensuring Israel’s security, fostering a balanced approach to regional peace.
+
+...
+
+[Data](articles/4324e0e7.json)
+
+---
+
+### Gammanpila to present private bill to remove police powers from Sri Lanka’s provinces
+
+*2024-02-16 16:50:00* · [`economynextcom`](https://economynext.com/gammanpila-to-present-private-bill-to-remove-police-powers-from-sri-lankas-provinces-151182/) · `en`
+
+ECONOMYNEXT — Former minister Udaya Gammanpila plans to present a private member’s bill to parliament seeking a ’22nd amendment’ to Sri Lanka’s constitution seeking the removal of police powers devolved to the provinces by the 13th amendment.
+
+Gammanpila told reporters that devolving police powers to the provincial councils could pose a threat to national security.
+
+“If there is a separatist war in the future, that war will be fought between the provincial police of the north and the Sri Lanka Army. Both will be official armies,” the former minister who now sits in the opposition said.
+
+“Countries that work against Sri Lanka could openly, without hesitation, provide aid to that separatist armed movement, or in the other words, the northern police army,” he said.
+
+Asked if his bill could get a two-thirds majority in parliament, Gammanpila said it would test parliament’s resolve.
+
+...
+
+[Data](articles/194f6a56.json)
 
 ---
 
@@ -155,6 +279,22 @@ Moreover, Orders under the Strategic Development Act published under the Extraor
 [Data](articles/5086cc98.json)
 
 [Extended Data](ext_articles/5086cc98.ext.json)
+
+---
+
+### Sri Lanka Financial Intelligence Unit, Excise Dept unite to fight money laundering
+
+*2024-02-16 16:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-financial-intelligence-unit-excise-dept-unite-to-fight-money-laundering-151208/) · `en`
+
+ECONOMYNEXT – The Financial Intelligence Unit of the Central Bank of Sri Lanka has entered into a memorandum of understanding with the Excise Department to exchange information related to investigations and prosecutions of money laundering, terrorist financing and other related crimes.
+
+“Money laundering and terrorist financing are financial crimes with a global presence, which could threaten the stability of national and global economic and financial systems. The MOU between the Excise Department of Sri Lanka and the FIU would enable both institutions to exchange information which is vital for prevention, detection and prosecution of such offences,” CBSL said in a statement.
+
+The agreement was signed under the provisions of the Financial Transactions Reporting Act, No. 6 of 2006 (FTRA), on January 9, at the Central Bank of Sri Lanka (CBSL).
+
+...
+
+[Data](articles/d6372ef3.json)
 
 ---
 
@@ -305,6 +445,30 @@ The proposal to condemn the late Hon. Sanath Nishantha, the late Hon.
 [Data](articles/819a4560.json)
 
 [Extended Data](ext_articles/819a4560.ext.json)
+
+---
+
+### Sri Lanka stocks close up, NDB trade pushes turnover past 1bn
+
+*2024-02-16 15:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-ndb-trade-pushes-turnover-past-1bn-151201/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 17.65 points, or 0.17 percent at 10,586 while the S&P SL20 Index closed up at 3,048 points, up 0.44 percent, or 13.28 points.
+
+Turnover was at 1.3 billion. A crossing on National Development Bank Plc contributed 640mn to the day’s turnover, and the share closed up at 65.10.
+
+The market was up mostly because of trades in the Banks sector (769mn), a market participant said. “This is dividend season for the banks. So there is some interest there.”
+
+“Also with the rates coming down, interest in the equity market is returning.”
+
+The bigger banks all closed up: Sampath Bank Plc (73.20), Commercial Bank of Ceylon Plc (89.50), DFCC Bank Plc (78.80), and Hatton National Bank Plc (up at 163.00).
+
+Other sectors that attracted investor interest were Capital Goods (110mn), and Food, Beverage and Tobacco (108mn).
+
+...
+
+[Data](articles/1198964b.json)
 
 ---
 
@@ -1897,181 +2061,5 @@ The country successfully reduced its inflation rate to single-digit levels in 20
 [Data](articles/187642b8.json)
 
 [Extended Data](ext_articles/187642b8.ext.json)
-
----
-
-### Sri Lanka’s annual economic growth to turn positive in 2024 - CBSL
-
-*2024-02-16 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97313/sri-lankas-annual-economic-growth-to-turn-positive-in-2024-cbsl) · `en`
-
-Sri Lanka’s annual economic growth is expected to remain positive in 2024 and gradually reach its potential over the medium term, the Central Bank said in its latest monetary policy report.
-
-The document, published on Thursday (Feb.15), provides forward-looking insights about the economy, particularly in terms of inflation and economic growth.
-
-It also aims to provide an assessment of risks to the projections on inflation and economic growth, considering the ongoing and expected developments on domestic and global fronts.
-
-The island nation successfully reduced its inflation rate to single-digit levels in 2023 and restored price stability, after containing the historically highest inflation observed in 2022, the Central Bank said, adding that inflation is projected to stabilise around the targeted level of 5% (year-on-year) over the medium term.
-
-...
-
-[Data](articles/8bbcd63f.json)
-
-[Extended Data](ext_articles/8bbcd63f.ext.json)
-
----
-
-### February 2024 Money policy report released
-
-*2024-02-16 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193451) · `si`
-
-The Central Bank of Sri Lanka has published the Monetary Policy Report for February 2024.
-
-The content of this report is based on the Monetary Policy Board of Sri Lanka for decisions regarding the Cash Policy Review Round of 2024.
-
-This is, this is the second Money policy report published by the Central Bank to provide anticipation of economic growth and inflation.
-
-The report also provides an evaluation of the risks for inflation and economic growth forecasts, taking into account local and globally in the global and globally desired trends.
-
-The report states that the Central Bank is trying to improve the transparency and accountability of the Central Bank by communicating the main background for recent financial policy decisions.
-
-February 2024 Money policy report released by Poornima On Scribd
-
-◼️
-
-[Data](articles/24d954de.json)
-
-[Extended Data](ext_articles/24d954de.ext.json)
-
----
-
-### Man arrested a man arrested
-
-*2024-02-16 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193450) · `si`
-
-A lorry driver has been arrested in an accident in the Aralaganwila area in Aralaganwila.
-
-Police have commenced investigations into the incident according to information that a person was on the road.
-
-The man had died on the spot due to the serious injury.
-
-A person who purchased paddy has been launched in the area and has found the hair and clothing of the deceased to check his lorry.
-
-The accident had occurred on the night of the night of the night and the details of the incident on the evening.
-
-◼️
-
-[Data](articles/2f8704dd.json)
-
-[Extended Data](ext_articles/2f8704dd.ext.json)
-
----
-
-### Money allocated for Oxygen used to buy substandard drugs
-
-*2024-02-16 09:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Money-allocated-for-Oxygen-used-to-buy-substandard-drugs/155-277160) · `en`
-
-Colombo, Feb 16 (Daily Mirror)- Rs. 14.5 million was given to the supplier to purchase substandard human immunoglobulin injections, which was intended to be used for purchasing oxygen, Deputy Solicitor General Mrs. Lakmini Girihagama informed Maligaknada Magistrate Mrs. Lochani Abeywickrama.
-
-Judge also directed to match the signature of former Health Minister Keheliya Rambukwella with the signatures of the cabinet memoranda and other documents submitted to the Cabinet.
-
-When the complaints related to this incident were called, Dr. Kapila Wickramanayake, the Director of the Medical Supply Unit, who was being treated at the Colombo National Hospital for an illness, was brought to the court in an ambulance.
-
-A report from the Prison Hospital Superintendent presented to the court stated that the former Minister of Health, Keheliya Rambukwella, is in a medical condition that he cannot be presented to the court and because of that the case was tried without him.
-
-...
-
-[Data](articles/22e5c769.json)
-
-[Extended Data](ext_articles/22e5c769.ext.json)
-
----
-
-### Three arrested for poisoning two suspects in police custody
-
-*2024-02-16 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176502) · `ta`
-
-The Colombo Criminal Investigation Division has arrested three suspects on charges of assisting a visitor to two suspects who were detained at the Colombo Street Street Police Station.
-
-The arrested persons were aged 22, 24 and 26, and they were from Kottanchenai, Okodawatte and Colombo 13 areas, police said.
-
-Preliminary investigations by the police revealed that the crime was committed on the orders of a famous accused who is currently in hiding abroad.. The Colombo Crime Branch is conducting further investigations into the incident.
-
-On January 24, they were arrested in connection with the shooting of a man in Jindupitiya, Colombo.
-
-Cyanite poison was found in the milk sides taken into the prison at the police station. In the subsequent investigations, CCTV footage of the suspect and the purchase of milk pages has been caught.
-
-...
-
-[Data](articles/de5f6a84.json)
-
-[Extended Data](ext_articles/de5f6a84.ext.json)
-
----
-
-### Gnanasaraderera
-
-*2024-02-16 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176503) · `ta`
-
-The BBS's Gnanasaraderera has apologized to the Muslim community for his comments at the 2016 Voice Temple.
-
-Gnanasaraderera has informed the Colombo High Court that I have apologized to the Muslim community of the country for a sense of disgust due to the controversial comments I made eight years ago.
-
-Gnanasaraderera said that he is ready to inform the Muslims in the country for my actions.
-
-The judge said the verdict would be announced on March 28 as investigations into Gnanasaradere's controversial comments were completed.
-
-The lawmaker had filed a lawsuit at the temple on March 30, 2016, saying that Gnanasaraderer's comments and Gnanasara Thera's comments are affecting the unity of ethnicity.
-
-◼️
-
-[Data](articles/035425eb.json)
-
-[Extended Data](ext_articles/035425eb.ext.json)
-
----
-
-### Opening of Police Police at Colombo National Hospital
-
-*2024-02-16 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176501) · `ta`
-
-The new police police station was opened yesterday near the outpatient unit of the Colombo National Hospital.
-
-The event was held on Thursday (15) under the patronage of Inspector General of Police Deshabandu Thennakoon.
-
-Speaking at the event, the Inspector General of Police Deshabandu Tennakoon said,
-
-Colombo National Hospital is a massive place in the country's hospital structure. Patients from various places around the country visit here to get treatment. We have to protect them.
-
-Meanwhile, a prominent activist in the world has been arrested. We are looking forward to investigating planned criminal activity and drug trade and ending it in the future.
-
-In addition, we have taken steps to arrest the suspects involved in the planned crime and drug trade that fled the country and abroad abroad.. A red warning has been issued against 42 criminals. We are in talks with the international police to arrest them.
-
-◼️
-
-[Data](articles/0a6fd0b6.json)
-
-[Extended Data](ext_articles/0a6fd0b6.ext.json)
-
----
-
-### US concerned about reports of intimidation, voter suppression in Pakistan election
-
-*2024-02-16 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97312/us-concerned-about-reports-of-intimidation-voter-suppression-in-pakistan-election) · `en`
-
-The United States is concerned about reports of intimidation and voter suppression in Pakistan’s election, the White House said on Thursday after reports of protests in some parts of the country.
-
-Pakistan’s election last week did not return a clear majority for anyone but independent candidates backed by jailed former Prime Minister Imran Khan won 92 out of 264 seats, making them the largest group.
-
-Questions have been raised about the fairness of the Feb. 8 election both inside Pakistan as well as in major foreign capitals, with Washington having previously said there were “undue restrictions” on freedoms of expression and assembly.
-
-“We are watching this very, very closely,” White House spokesperson John Kirby told reporters on Thursday, expressing concern about “intimidation and voter suppression.”
-
-“International monitors are still taking a look at those tallies, I’m not going to get ahead of that process,” he added about the vote count.
-
-◼️
-
-[Data](articles/a0a3d392.json)
-
-[Extended Data](ext_articles/a0a3d392.ext.json)
 
 ---

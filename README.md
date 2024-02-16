@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 19:02:33**
+As of **2024-02-16 19:17:30**
 
 ## Newspaper Stats
 
-*Scraped **7,519** Articles*
+*Scraped **7,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 642
 tamilmirrorlk | 918
 adaderanalk | 922
 virakesarilk | 985
-adaderanasinhalalk | 1,070
-dailymirrorlk | 1,100
+adaderanasinhalalk | 1,071
+dailymirrorlk | 1,106
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,519 (100.0%) of 7,519 articles have been extended.
+7,519 (99.9%) of 7,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Carpenter’s widow demands Rs. 200 million from police
+
+*2024-02-16 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Carpenters-widow-demands-Rs-200-million-from-police/108-277184) · `en`
+
+Colombo, Feb 16 (Daily Mirror) -  The widow of the carpenter who died in the Narammala police shooting incident today filed a Fundamental Rights petition before the Supreme Court seeking a compensation of Rs. 200 million from the police officers including Acting IGP Deshabandu Tennakoon.
+
+The deceased Roshan Kumarasiri was shot dead by Sub Inspector Gunawardena who was on duty in civvies when the deceased was returning home after work.
+
+The petitioner Kamani Rupika Priyangani stated that she entered into marriage with the deceased Roshan Kumarasiri in 2007, and they have three children. She said the two elder girls are twins who are presently 16 years of age and they are expecting to sit for the G.C.E. (O/L) Examinations this year. The petitioner states that the younger child is a son who is eight years of age an is studying in Grade three of the school.
+
+...
+
+[Data](articles/abf603af.json)
+
+---
+
+### NLB සුපිරි ත්‍යාග මුදල ජනපති අතින්
+
+*2024-02-16 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193478) · `si`
+
+ජාතික ලොතරැයි මණ්ඩලය විසින් 2023 වර්ෂයේ අලෙවි කරන ලද ලොතරැයි ටිකට්පත්වල සුපිරි ත්‍යාග සහ රුපියල් මිලියනයේ මුදල් ත්‍යාගවලට අදාළ චෙක්පත් සහ වාහන ත්‍යාග ජයග්‍රාහකයන් වෙත පිරිනැමීමේ උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මුදල් අමාත්‍යාංශ ශ්‍රවණාගාරයේදී අද (16) පැවැත්විණි.
+
+ගොවිසෙත, මෙගා පවර් සහ මෙගා පවර් 60 යන ලොතරැයිවල සුපිරි ත්‍යාග ජයග්‍රාහකයන් වෙත ඊට අදාළ මුදල් ත්‍යාග සහ වාහන ත්‍යාග පිරිනැමීම සහ ජයග්‍රාහී ලොතරැයි පත් අලෙවි නියෝජිතයන් වෙත ඇගයීම් සහතික හා ත්‍යාග පිරිනැමීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ අතින් මෙහිදී සිදුවිය.
+
+මීට අමතරව ජාතික ලොතරැයි මණ්ඩලය විසින් අලුතින් හඳුන්වාදෙන “අද සම්පත” නව ලොතරැයි ටිකට් පත එළිදැක්වීම ද සිදු වූ අතර එම ලොතරැයියෙහි පළමු ටිකට්පත ජාතික ලොතරැයි මණ්ඩලයේ සභාපති වෛද්‍ය චමීර සී. යාපා අබේවර්ධන මහතා විසින් ජනාධිපතිවරයා වෙත පිළිගන්වනු ලැබීය.
+
+...
+
+[Data](articles/cdc33361.json)
+
+---
 
 ### Police notice to drivers in Nuwara Eliya
 
@@ -147,6 +179,26 @@ Amidst economic dynamics, the export sector exhibited robust growth in 2023, the
 [Data](articles/9aec96bb.json)
 
 [Extended Data](ext_articles/9aec96bb.ext.json)
+
+---
+
+### Russian opposition leader Navalny dies in prison
+
+*2024-02-16 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-opposition-leader-Navalny-dies-in-prison/108-277183) · `en`
+
+MOSCOW, Feb 16 (Reuters) - Russian opposition leader Alexei Navalny died on Friday after collapsing and losing consciousness at the penal colony north of the Arctic Circle where he was serving a long jail term, the Russian prison service said.
+
+Navalny, by far Russia's most famous opposition leader, rose to prominence more than a decade ago by lampooning the elite class round President Vladimir Putin and voicing allegations of corruption on a vast scale. He was 47.
+
+The Federal Penitentiary Service of the Yamalo-Nenets Autonomous District said in a statement that Navalny "felt unwell" after a walk at the IK-3 penal colony in Kharp, about 1,900 km (1,200 miles) north east of Moscow.
+
+Navalny, the prison service said, had lost consciousness almost immediately.
+
+"The medical staff of the institution arrived immediately, and an ambulance team was called," the prison service said.
+
+...
+
+[Data](articles/96907240.json)
 
 ---
 
@@ -345,6 +397,28 @@ In this move, many civilians, school alumni, teachers, students and students fro
 [Data](articles/1bc3f0c4.json)
 
 [Extended Data](ext_articles/1bc3f0c4.ext.json)
+
+---
+
+### Direct flights between Sri Lanka and Israel from March
+
+*2024-02-16 16:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Direct-flights-between-Sri-Lanka-and-Israel-from-March/108-277182) · `en`
+
+Colombo, Feb 16 (Daily Mirror)- Agreements have been signed to initiate direct flights between Bandaranaike International Airport (BIA) and Tel Aviv in Israel, the Ports, Shipping and Aviation Ministry said.
+
+It said diplomatic agreements were signed today between Minister Nimal Siripala de Silva, and Israeli Transport and Road Safety Minister Ms. Miri Regive.
+
+According to Ministry sources, the new service will commence from March this year on a scheduled timetable.
+
+Since last December, five chartered aircraft belonging to Arkia Israeli Airlines have already operated air services to BIA.
+
+These A321 aircraft have the capacity to carry almost 300 passengers at a time.
+
+Minister Nimal Siripala de Silva said that several other airlines in Israel have also expressed their consent to start air services between the two airports.
+
+...
+
+[Data](articles/1205232e.json)
 
 ---
 
@@ -860,13 +934,21 @@ The woman's 32-year-old husband has been arrested and the Mihintale police are c
 
 *2024-02-16 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lanka-Premier-League-2024-set-for-July/108-277173) · `en`
 
-Colombo, Feb. 16 (Daily Mirror) - The 5th edition of the Lanka Premier League 2024 will be held from July 1st to 21st this year, the Sri Lanka Cricket said.
+Colombo, Feb. 16 (Daily Mirror) - The fifth edition of the Lanka Premier League (LPL) 2024 will be held from July 1 to 21, Sri Lanka Cricket (SLC) announced today.
 
-The five-team competition will feature a total of 24 games, with the first round comprising 20 matches and the final round consisting of 4 matches, including qualifier 1 & 2 and the eliminator.
+The five-team competition will feature a total of 24 games, with the first round comprising 20 matches and the final round consisting of four matches, including Qualifier-1 and 2 and the Eliminator.
 
-Each team will be comprised of a minimum of 20 players and a maximum of 24 players, including up to 6 overseas players.
+Each team will be comprised of a minimum of 20 players and a maximum of 24 players, including up to six overseas players.
 
-◼️
+The inaugural edition of the LPL in 2020 saw five franchises; Colombo Kings, Dambulla Viikings, Galle Gladiators, Jaffna Stallions, and Kandy Tuskers.
+
+Jaffna Stallions, later renamed Jaffna Kings emerged victorious defeating Galle Gladiators by 53 runs in the final.
+
+The format remained the same with five teams in the second edition in 2021 but the Dambulla Viikings rebranded as Dambulla Giants.
+
+Jaffna Kings led by Thisara Perera defended their title defeating Galle Gladiators by 23 runs in the final.
+
+...
 
 [Data](articles/e18bebe0.json)
 
@@ -1047,6 +1129,32 @@ The Deputy Director of the Colombo National Hospital Rukshan Bellana has been fo
 [Data](articles/59d7d46d.json)
 
 [Extended Data](ext_articles/59d7d46d.ext.json)
+
+---
+
+### Greece legalises same-sex marriage
+
+*2024-02-16 13:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Greece-legalises-same-sex-marriage/108-277181) · `en`
+
+Feb 16 - Greece has become the first Christian Orthodox-majority country to legalise same-sex marriage.
+
+Same-sex couples will now also be legally allowed to adopt children after Thursday's 176-76 vote in parliament.
+
+Prime Minister Kyriakos Mitsotakis said the new law would "boldly abolish a serious inequality".
+
+But it has divided the country, with fierce resistance led by the powerful Orthodox Church. Its supporters held a protest rally in Athens.
+
+Many displayed banners, held crosses, read prayers and sang passages from the Bible in the capital's Syntagma Square.
+
+The head of the Orthodox Church, Archbishop Ieronymos, said the measure would "corrupt the homeland's social cohesion".
+
+The bill needed a simple majority to pass through the 300-member parliament.
+
+Mr Mitsotakis had championed the bill but required the support of opposition parties to get it over the line, with dozens of MPs from his centre-right governing party opposed.
+
+...
+
+[Data](articles/ac4112b7.json)
 
 ---
 
@@ -1610,6 +1718,26 @@ A 24 -year -old woman from Akarapathana. While going to the reservoir, he fell i
 
 ### Forensic audit reveals frauds at Ceylon Petroleum Corporation
 
+*2024-02-16 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Forensic-audit-reveals-frauds-at-Ceylon-Petroleum-Corporation/155-277165) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - KPMG's forensic audit into discrepancies at Ceylon Petroleum Corporation (CPC) and Ceylon Petroleum Storage Terminals (CPSTL) has revealed substantial losses attributed to alterations and deletions in SAP data related to stock holdings.
+
+The forensic audit was initiated in response to a complaint filed by the Power and Energy Minister with the Criminal Investigations Department (CID) in August 2022.
+
+The major findings of the forensic audit conducted by KPMG on the sales and distribution of petroleum products from the CPSTL was briefed to Minister Kanchana Wijesekera last afternoon.
+
+Accordingly, the KPMG and CPSTL audit investigation officials have found that more than 1.3 million entries on SAP data have been changed or deleted since 2010 and most have occurred in 2022 during the height of the fuel crisis.
+
+After the complaint was lodged in August 2022 the number had significantly reduced in 2023.
+
+...
+
+[Data](articles/7bd3c594.json)
+
+---
+
+### Forensic audit reveals frauds at Ceylon Petroleum Corporation
+
 *2024-02-16 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Forensic-audit-reveals-frauds-at-Ceylon-Petroleum-Corporation/108-277165) · `en`
 
 Colombo, Feb 16 (Daily Mirror) - KPMG's forensic audit into discrepancies at Ceylon Petroleum Corporation (CPC) and Ceylon Petroleum Storage Terminals (CPSTL) has revealed substantial losses attributed to alterations and deletions in SAP data related to stock holdings.
@@ -1937,137 +2065,5 @@ It is well known that India and China are involved in the World Wide Competition
 [Data](articles/1b2c43af.json)
 
 [Extended Data](ext_articles/1b2c43af.ext.json)
-
----
-
-### The fascinations of the money he had to take oxygen
-
-*2024-02-16 10:55:49* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්සිජන්-ගන්න-තිබුණ-මුදල්වලින්-බාල-බෙහෙත්-ගෙන්වලා/11-408122) · `si`
-
-Deputy Solicitor General Lakhakana Giriamkana Magazine Lakdani Giriusena has told Maligaikaman Weerasinghe yesterday (14).
-
-Luchan Abeywickrama Weerasinghe, who was presented to the Cabinet Memorandum presented to the Cabinet Memorandum of Cabinet Memoranda to the Cabinet Memoranda, the government's handwriting was to the inspector.
-
-The suspects have been appointed to the Magistrate's investigation until the 29th of this month.
-
-Sugath Janaka Fernando, who is said to be remanded in relation to the complaint, said: "Assistant Director of Medical Supply (Suppliers) Collateral (Supplies)Dr. Herath Mudiyasalage Dharmasalage Dharmasalage Dharmasalage Dharmasalage Dharmasalage, Dr. Herath Mudiyanselage Dharmasalage, who has been released on the Secretary to the Ministry of Health.
-
-The Director of the Medical Supplies Unit of the Medical Skills Unit of the Colombo National Hospital was taken into court with a condition at the time of the incident.The case was heard without him.
-
-...
-
-[Data](articles/492a286c.json)
-
-[Extended Data](ext_articles/492a286c.ext.json)
-
----
-
-### Make more kids - Putin asks
-
-*2024-02-16 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193454) · `si`
-
-Vladimir Putin has requested his public to make more children.
-
-He says that it is important to be at least two children in every family.
-
-In 2022, the Russian army invaded Ukraine in 2022, and a large number of Russians have died and a large number of Russians have died due to the war.
-
-"We must have two children in at least two children in one family for us to be a nation. If only a child is making one child, our population is closed ..., "Addressing a group of employees of a factory, the Russian President said.
-
-At the beginning of 2023, the population of Russia was 146.4 million.
-
-◼️
-
-[Data](articles/8d3c5e7b.json)
-
-[Extended Data](ext_articles/8d3c5e7b.ext.json)
-
----
-
-### Two more arrested over ‘poisoning’ of two suspects in police custody
-
-*2024-02-16 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97314/two-more-arrested-over-poisoning-of-two-suspects-in-police-custody) · `en`
-
-The main suspect and another have been arrested for allegedly aiding and abetting the recent ‘poisoning’ of two suspects who were detained in a cell at the Aduruppuveediya police station.
-
-The arrests were made by the Colombo Crimes Division (CCD) in the areas of Wattala and Kotahena on Thursday afternoon (Feb.15).
-
-The duo was apprehended with more than 23 grams of methamphetamine (‘Ice’). They were identified as residents of Wattala and Colombo 13, aged 25 and 32 years, respectively.
-
-Preliminary police investigations have revealed that the crime was carried out based on the directive of a notorious criminal who is currently hiding overseas. The CCD is probing the incident further.
-
-On February 07, two suspects who were held in a cell at the Aduruppuveediya police station had fallen critically ill after consuming a packet of milk handed to them by a visitor. The suspects in question had been arrested by the police over a recent shooting incident that took place in Jinthupitiya.
-
-...
-
-[Data](articles/418b39b7.json)
-
-[Extended Data](ext_articles/418b39b7.ext.json)
-
----
-
-### Two arrested for police poisoning police
-
-*2024-02-16 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193452) · `si`
-
-Two more suspects have been arrested in connection with the gift of two suspects in the Devil.
-
-Police said the main suspect involved in the incident and another suspect was arrested.
-
-A person outside the police had given a mixed milk by a person who came to see the suspects on the 7th.
-
-The two suspects have been arrested in Wattala and Kotahena yesterday afternoon.
-
-Police said the suspects were 25 and 32.
-
-◼️
-
-[Data](articles/f78cc140.json)
-
-[Extended Data](ext_articles/f78cc140.ext.json)
-
----
-
-### The girl was sexually abused and murdered in Mannar
-
-*2024-02-16 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176510) · `ta`
-
-A 10 -year -old girl in the Mannar village of Talaimannar was shocked by the incident of sexually abused and murdered on Thursday night.
-
-It is suspected that the girl may have been murdered by a person who was hired to maintain a garden in the Mannar Talaimannar village.
-
-The man and his wife lived in Talaimannar area and the wife had split up with a drug addict.
-
-In this case, a nearby elderly woman has been friendly with the suspect.
-
-It is reported that the suspect was taken to the shop yesterday evening.
-
-The body of the girl has been recovered this morning (16) during the search for the help of the nearby Sisirvi cameras and the help of the people of the town.
-
-◼️
-
-[Data](articles/5886f451.json)
-
-[Extended Data](ext_articles/5886f451.ext.json)
-
----
-
-### It cannot interfere with illegal
-
-*2024-02-16 10:28:57* · [`adalk`](https://www.ada.lk/breaking_news/සහාය-දුන්නා-කියලා-නීති-විරෝධී-දේ-වලට-මැදිහත්-වෙන්න-බෑ/11-408121) · `si`
-
-Prime Minister Dinesh Gunawardena said that he was not waiting for the decentralized funds for minor work.
-
-He was speaking at the patronage of the Maharagama Divisional Coordinating Committee yesterday (15) under the patronage of Prime Minister Prime Minister Dinesh Gunawardena.
-
-"Today the country has been very bad in drugs. The special unit of the special unit can be arrested, but you can be arrested. There's not a temporary consequences.As public servants, perform their duties for the future of the people. The government has already begun to implement all the decisions taken in this regard.
-
-The IGP and the Minister is looking at the progress of the operation to operate daily through a special unit. We don't bad names. Given me, he supported the government and support the president that the drug and what was involved in drug and other illegal doctors were involved in the President. Such should be the first part of the police.
-
-...
-
-[Data](articles/b68a8f7f.json)
-
-[Extended Data](ext_articles/b68a8f7f.ext.json)
 
 ---

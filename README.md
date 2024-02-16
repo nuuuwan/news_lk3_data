@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 06:53:12**
+As of **2024-02-16 07:15:41**
 
 ## Newspaper Stats
 
-*Scraped **7,360** Articles*
+*Scraped **7,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 387
 dailyftlk | 389
 adalk | 630
 tamilmirrorlk | 899
-adaderanalk | 899
+adaderanalk | 901
 virakesarilk | 962
 adaderanasinhalalk | 1,038
 dailymirrorlk | 1,081
@@ -26,27 +26,67 @@ dailymirrorlk | 1,081
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,354 (99.9%) of 7,360 articles have been extended.
+7,360 (100.0%) of 7,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### දිස්ත්‍රික්ක කිහිපයකට තද වැසි
+### Greece legalises same sex marriage in landmark change
+
+*2024-02-16 06:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97310/greece-legalises-same-sex-marriage-in-landmark-change) · `en`
+
+Greece’s parliament approved a bill allowing same-sex civil marriage on Thursday, a landmark victory for supporters of LGBT rights that was greeted with cheers by onlookers in parliament and dozens gathered on the streets of Athens.
+
+The law gives same-sex couples the right to wed and adopt children and comes after decades of campaigning by the LGBT community for marriage equality in the socially conservative country.
+
+Greece is one of the first Orthodox Christian countries to allow such unions.
+
+“This is a historic moment,” Stella Belia, the head of same-sex parents group Rainbow Families, told Reuters. “This is a day of joy.”
+
+The bill was approved by 176 lawmakers in the 300-seat parliament and will become law when its published in the official government gazette.
+
+...
+
+[Data](articles/48a44bbf.json)
+
+---
+
+### Thundershowers possible in several areas including Western Province
+
+*2024-02-16 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97309/thundershowers-possible-in-several-areas-including-western-province) · `en`
+
+Several spells of showers will occur in Eastern and Uva provinces and Polonnaruwa, Matale and Nuwara-Eliya districts, according to the Department of Meteorology.
+
+Showers or thundershowers may occur at a few places in Western, Sabaragamuwa and North-western provinces and Galle and Matara districts after 2.00 p.m.
+
+Fairly strong winds of about (30-40) kmph can be expected at times in the eastern slopes of the central hills and Northern, North-central, North-western, Uva and Eastern provinces and Hambantota district.
+
+The public is requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/c3e5deee.json)
+
+---
+
+### Heavy rains into several districts
 
 *2024-02-16 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193439) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (16) දිනයේ වැසි වාර කිහිපයක් ඇති වෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Several spells of showers in Polonnaruwa, Matale and Nuwara Eliya districts will experience the Eastern and Uva provinces.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද සවස 2න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Province and in the Galle and Matara districts.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30ත් 40ත් පමණ තරමක තද සුළං ද ඇතිවිය හැකි බව දැනුම්දෙයි.
+Northern, North-Central, North Western, Uva and Eastern Provinces. It is informed that some 30 and 40 can cause strong winds.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/b13c4254.json)
+
+[Extended Data](ext_articles/b13c4254.ext.json)
 
 ---
 
@@ -63,6 +103,8 @@ Accordingly, it has been proposed to organise a marathon for the Chinese athlete
 ...
 
 [Data](articles/6714a84e.json)
+
+[Extended Data](ext_articles/6714a84e.ext.json)
 
 ---
 
@@ -84,25 +126,29 @@ When compared to the Ramayana trail, he opined that the proposed Buddhist Trail 
 
 [Data](articles/acab1b5c.json)
 
+[Extended Data](ext_articles/acab1b5c.ext.json)
+
 ---
 
-### அஸ்வெசுமவுக்கு மார்ச் 15 வரை விண்ணப்பிக்கலாம்
+### Can apply for Aswesum until March 15
 
 *2024-02-16 03:30:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசுமவுக்கு-மார்ச்-15-வரை-விண்ணப்பிக்கலாம்/175-333298) · `ta`
 
-அஸ்வெசும இரண்டாம் கட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் நடவடிக்கைகள் நேற்று முதல் மார்ச் 15 ஆம் திகதி வரை இடம்பெறவுள்ளன என அறிவிக்கப்பட்டுள்ளது.
+It has been announced that the acceptance of applications for the second phase of the Aswezuma will take place from March 15 to March 15.
 
-தகுதி பெறும் அனைவருக்கும் எவ்வித தடங்கலும் இன்றி அஸ்வெசும பலன்கள் கிடைக்குமெனவும் நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன தெரிவித்துள்ளார்.
+Chairman of the Welfare Council, Jayantha Wijeratne, said that the benefits of all qualifications will be available without any obstacles.
 
-அஸ்வெசும முதற்கட்டத்தில் விண்ணப்பங்களை சமர்ப்பிக்காத குடும்பங்களுக்கும் விண்ணப்பங்களை சமர்ப்பித்தும் வீட்டுத் தகவல் கணக்கெடுப்பிற்கு  உட்படுத்தப்படாத எந்தவொரு நபர்களும் இரண்டாம் கட்டத்திற்கு விண்ணப்பிக்க வாய்ப்பு உள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+He said that any persons who did not submit applications to the families who did not submit applications in the preliminary first phase, and any persons who did not submit their home information, they would be likely to apply for the second phase.
 
-அஸ்வெசும இரண்டாம் கட்டம் தொடர்பாக விளக்கமளிக்கும் ஊடகவியலாளர் சந்திப்பு நேற்று ஜனாதிபதி ஊடக மையத்தில் நடைபெற்றது.
+A media briefing to explain the second phase of the Ashemusuma was held at the Presidential Media Center yesterday.
 
-இதில் கலந்துகொண்டு கருத்து வெளியிட்ட போதே  நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன இந்த விடயங்களை தெரிவித்தார். (a)
+The Chairman of the Welfare Benefits Council, Jayantha Wijeratne, stated these issues while participating in the event.. (A)
 
 ◼️
 
 [Data](articles/8fef189d.json)
+
+[Extended Data](ext_articles/8fef189d.ext.json)
 
 ---
 
@@ -147,6 +193,8 @@ Sri Lanka Tourism Promotion Bureau (SLTPB) Chairman Chalaka Gajabahu announced o
 ...
 
 [Data](articles/ad2c24db.json)
+
+[Extended Data](ext_articles/ad2c24db.ext.json)
 
 ---
 
@@ -281,6 +329,8 @@ In his petition, Sumanthiran is seeking a declaration that the Speaker’s certi
 ...
 
 [Data](articles/a6bc45a5.json)
+
+[Extended Data](ext_articles/a6bc45a5.ext.json)
 
 ---
 
@@ -2029,47 +2079,5 @@ Harsa de Silva said the Sri Lankan media world could become a black world if the
 [Data](articles/24563391.json)
 
 [Extended Data](ext_articles/24563391.ext.json)
-
----
-
-### Piss
-
-*2024-02-15 15:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பனிக்கூழில்-பாயமுடியாது-தவித்த-தவளை/71-333270) · `ta`
-
-The frog means jumping and jumping. However, there is an incident where an ice cream (ice cream) is not covered in an ice cream.
-
-Investigations have been launched by health inspectors in connection with the incident where a frog was found in an ice cream sold at an ice cream stall in Jaffna.
-
-A frog was found in the ice cream outlet at the environment of the Murugan Temple on Wednesday (14) when a man bought an ice cream.
-
-Due to the high temperatures of Jaffna, the people who go to the temple are buying soft drinks and ice creams in the ice cream outlets.
-
-In this case, health inspectors have been asked to focus on the health and water cleanliness of the restaurants and ice cream outlets.
-
-◼️
-
-[Data](articles/8af94ade.json)
-
-[Extended Data](ext_articles/8af94ade.ext.json)
-
----
-
-### Ex-President Sirisena calls on top official of US State Dept.
-
-*2024-02-15 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97295/ex-president-sirisena-calls-on-top-official-of-us-state-dept) · `en`
-
-Former President Maithripala Sirisena has called on Afreen Akhter, the Deputy Assistant Secretary to the Bureau of South Central Asian Affairs of the US State Department in Washington DC.
-
-During the encounter, the former Sri Lankan leader exchanged views with Akhter on further strengthening bilateral relations between the two countries.
-
-The two sides also discussed the island nation’s political situation at length.
-
-Sirisena expressed his gratitude to the United States for the continued support extended to Sri Lanka.
-
-◼️
-
-[Data](articles/2e3f629e.json)
-
-[Extended Data](ext_articles/2e3f629e.ext.json)
 
 ---

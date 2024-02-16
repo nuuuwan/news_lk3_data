@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 09:32:47**
+As of **2024-02-16 09:51:23**
 
 ## Newspaper Stats
 
-*Scraped **7,396** Articles*
+*Scraped **7,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,74 @@ adalk | 631
 adaderanalk | 901
 tamilmirrorlk | 902
 virakesarilk | 969
-adaderanasinhalalk | 1,044
-dailymirrorlk | 1,083
+adaderanasinhalalk | 1,045
+dailymirrorlk | 1,085
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,395 (100.0%) of 7,396 articles have been extended.
+7,399 (100.0%) of 7,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### கொழும்பு தேசிய வைத்தியசாலையில் பொலிஸ் காவல் அரண் திறந்து வைப்பு - பதில் பொலிஸ் மா அதிபர் நடவடிக்கை
+### Two soldiers killed in two locations
 
-*2024-02-16 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176501) · `ta`
+*2024-02-16 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193448) · `si`
 
-கொழும்பு தேசிய வைத்தியசாலையின் வெளிநோயாளர் பிரிவுக்கு அருகில் புதிய பொலிஸ் காவல் அரண் நேற்று திறந்து வைக்கப்பட்டது.
+A 26-year-old soldier drowned to the Settikulam in Pattunalankulam Periyankulam Periyakulatu area yesterday (15).
 
-பொதுமக்கள் பாதுகாப்பு அமைச்சின் பணிப்புரைக்கு அமைய  பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் தலைமையில் நேற்று வியாழக்கிழமை (15)  இந்நிகழ்வு நடைபெற்றது.
+A 35-year-old Navy soldier was killed while collision with a train near the Bambalapitiya Railway Station.
 
-இந்நிகழ்வில்  கலந்து கொண்டு கருத்து தெரிவித்த பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் கூறுகையில்,
+The deceased has been hit by a train traveling from Beliatta to Maradana.
 
-நாட்டின் வைத்தியசாலை கட்டமைப்பில் கொழும்பு தேசிய வைத்தியசாலை பாரிய இடம் வகிக்கிறது. நாடளாவிய ரீதியில் பல்வேறு இடங்களிலிருந்தும் நோயாளர்கள் சிகிச்சையைப் பெற்றுக்கொள்வதற்காக இங்கு வருகை தருகின்றனர். எனவே நாம் அவர்களுக்கு பாதுகாப்பளிக்க வேண்டும்.மேலும் தேசிய வைத்தியசாலையின் அண்மித்த பகுதியில் இன்று (நேற்று) முதல் விசேட போக்குவரத்து நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன.
+◼️
 
-இதேவேளை பாதாளக்குழு உலகின் முக்கிய செயற்பாட்டாளர் ஒருவர் கைது செய்யப்பட்டுள்ளார். திட்டமிட்ட குற்ற செயல்கள் மற்றும் போதைப்பொருள் வர்த்தகம் தொடர்பில் விசாரணை நடத்தி அதனை எதிர்காலத்தில் முடிவுக்கு கொண்டு வர எதிர்பார்த்துள்ளோம்.
+[Data](articles/3dc8ce72.json)
+
+[Extended Data](ext_articles/3dc8ce72.ext.json)
+
+---
+
+### President, parliament clash heightens with judiciary coming into play
+
+*2024-02-16 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-parliament-clash-heightens-with-judiciary-coming-into-play/108-277134) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - The crisis involving the Executive and the Legislature has heightened to a new level with the judiciary also coming into play over the Constitutional Council’s (CC) rejection of appointment of Court of Appeal President Nissanka Bandula Karunaratne as a Supreme Court judge and Speaker Mahinda Yapa Abeywardena informing President Ranil Wickremesinghe that the lack of majority support resulted in the stalemate.
+
+A case has been filed in the Supreme Court challenging the CC’s rejection. In the meantime, the Speaker is reported to have informed the President that five out of the nine members of the CC excluding himself were opposed to the proposed appointment and therefore he, as the Chairman of the body, could not proceed.
 
 ...
 
+[Data](articles/5662f48f.json)
+
+[Extended Data](ext_articles/5662f48f.ext.json)
+
+---
+
+### Opening of Police Police at Colombo National Hospital
+
+*2024-02-16 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176501) · `ta`
+
+The new police police station was opened yesterday near the outpatient unit of the Colombo National Hospital.
+
+The event was held on Thursday (15) under the patronage of Inspector General of Police Deshabandu Thennakoon.
+
+Speaking at the event, the Inspector General of Police Deshabandu Tennakoon said,
+
+Colombo National Hospital is a massive place in the country's hospital structure. Patients from various places around the country visit here to get treatment. We have to protect them.
+
+Meanwhile, a prominent activist in the world has been arrested. We are looking forward to investigating planned criminal activity and drug trade and ending it in the future.
+
+In addition, we have taken steps to arrest the suspects involved in the planned crime and drug trade that fled the country and abroad abroad.. A red warning has been issued against 42 criminals. We are in talks with the international police to arrest them.
+
+◼️
+
 [Data](articles/0a6fd0b6.json)
+
+[Extended Data](ext_articles/0a6fd0b6.ext.json)
 
 ---
 
@@ -949,6 +987,22 @@ In his petition, Sumanthiran is seeking a declaration that the Speaker’s certi
 [Data](articles/a6bc45a5.json)
 
 [Extended Data](ext_articles/a6bc45a5.ext.json)
+
+---
+
+### Speaker’s act of certifying Online Safety Bill challenged in SC by Sumanthiran
+
+*2024-02-16 00:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Speakers-act-of-certifying-Online-Safety-Bill-challenged-in-SC-by-Sumanthiran/155-277130) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - Parliamentarian M.A. Sumanthiran has filed a fundamental rights application before the Supreme Court, challenging the Speaker's act of certifying the Online Safety Bill as enacted into law.
+
+In his petition, Sumanthiran is seeking a declaration that the Speaker’s certification of the Online Safety Act is not valid in law. The petitioner is further seeking a declaration that the fundamental rights guaranteed by Article 12(1) and 14 of the constitution to the petitioner and the citizens have been infringed by the Attorney General by failing to advise the Speaker and the Parliament that the committee stage amendments did not make the Online Safety Bill compliant with the Supreme Court’s determination. The petitioner has cited Speaker Mahinda Yapa Abeywardana and the Attorney General as respondents.
+
+...
+
+[Data](articles/e8731eff.json)
+
+[Extended Data](ext_articles/e8731eff.ext.json)
 
 ---
 
@@ -1991,75 +2045,5 @@ Japan halted loan funded projects after Sri Lanka defaulted based on their rules
 [Data](articles/6364e30d.json)
 
 [Extended Data](ext_articles/6364e30d.ext.json)
-
----
-
-### Sri Lanka rupee closes at 313.70/90 to the US dollar
-
-*2024-02-15 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-313-70-90-to-the-us-dollar-151085/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 313.70/90 to the US dollar Thursday, from 313.00/10 on Wednesday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.50/60 percent up from 10.35/45 percent.
-
-A bond maturing on 15.09.2027 closed at 11.45/65 percent from 11.30/45 percent.
-
-A bond maturing on 15.03.2028 closed at 11.95/12.10 percent from 11.80/85 percent.
-
-A bond maturing on 15.07.2029 closed at 12.20/50 percent from 12.05/20 percent.
-
-A bond maturing on 15.05.2030 closed at 12.20/50 percent up from 12.05/20 percent.
-
-A bond maturing on 15.05.2031 closed at 12.20/70 percent from 12.25/45 percent.
-
-A bond maturing on 01.07.2032 closed at 12.50/70 percent up from 12.35/60 percent. (Colombo/Feb15/2024)
-
-◼️
-
-[Data](articles/d70f9a17.json)
-
-[Extended Data](ext_articles/d70f9a17.ext.json)
-
----
-
-### “3 percent of children have lost education”
-
-*2024-02-15 17:16:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வீதமான-பிள்ளைகள்-கல்வியை-இழந்துள்ளனர்/175-333277) · `ta`
-
-According to the Department of Value and Statistics, 54% of school students have had an impact on the education of school students.. 3% of students who go to school have stopped going to school. Opposition leader Sajith Premadasa said that many students have been very inconvenienced from getting school equipment.
-
-Opposition Leader Sajith Premadasa said this while addressing a function to provide smart classroom equipment worth Rs 10 lakh to the Belpadulla Vijayabha Maha Vidyalaya on Thursday (15).
-
-The main task of the government should be to protect the children and mothers and protect the citizens.. He said that it is the responsibility of the government to prepare a social security zone and ensure social security so that they take care of all the affected parties.
-
-...
-
-[Data](articles/2ae4b87d.json)
-
-[Extended Data](ext_articles/2ae4b87d.ext.json)
-
----
-
-### Doctor remanded for selling narcotic tablets
-
-*2024-02-15 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Doctor-remanded-for-selling-narcotic-tablets/108-277096) · `en`
-
-Gampola, Feb 15 (Daily Mirror) -  A doctor of the Peradeniya Children’s Hospital who was arrested by the Ethgala police during a raid in Jayamalapura, Gampola on suspicion being involved in the selling of intoxicant tablets, was remanded till February 19.
-
-He was remanded after being produced before Gampola Chief Magistrate Wasana Navartne.
-
-The suspect Dr. Konaratne Mudiyanselage Wardana Kumburegedara Madduma Banda Wardana Kumbura is a resident of Karamada in Gelioya.
-
-OIC Ethgala Police Senerat Kekulandara told court that the suspect was arrested with the help of a decoy who purchased tablets from the suspect who arrived by motorcar, with a stock of 1,600 tablets to Jayamalapura at about 11pm.
-
-He informed court that the suspect attached to the Peradeniya Teaching Hospital had been running a private medical centre in Gelioya.
-
-However, the lawyers appearing for the suspect submitted that he had kept the stock of tablets in his custody to protect them from drug addicts and thieves.
-
-◼️
-
-[Data](articles/c8335fc4.json)
-
-[Extended Data](ext_articles/c8335fc4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 01:50:06**
+As of **2024-02-17 02:02:26**
 
 ## Newspaper Stats
 
-*Scraped **7,564** Articles*
+*Scraped **7,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 402
 adalk | 645
 tamilmirrorlk | 920
 adaderanalk | 926
-virakesarilk | 998
+virakesarilk | 999
 adaderanasinhalalk | 1,077
 dailymirrorlk | 1,116
 
@@ -26,11 +26,27 @@ dailymirrorlk | 1,116
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,564 (100.0%) of 7,564 articles have been extended.
+7,564 (100.0%) of 7,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த 250 கிலோ பதப்படுத்தப்பட்ட கடல் அட்டைகள் ஆற்றங்கரை அருகே பறிமுதல்: ஒருவர் கைது
+
+*2024-02-17 01:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176585) · `ta`
+
+ராமேஸ்வரம் ஆற்றங்கரை கடற்கரை அருகே அம்மன் கோவில் குடியிருப்பு பகுதியில் உள்ள தோப்பில் இலங்கைக்குக் கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த  5 லட்சம் மதிப்பிலான 250 கிலோ பதப்படுத்தப்பட்ட கடல் அட்டைகளை மெரைன் பொலிசார் பறிமுதல் செய்ததுடன், தோப்பின் உரிமையாளர் கைது செய்யப்பட்டார்.
+
+ராமநாதபுரம் மாவட்டம் இலங்கைக்கு மிக அருகே இருப்பதால் தனுஷ்கோடி கடல் வழியாக இலங்கைக்குச் சமீபகாலமாகக் கடல் அட்டை, கஞ்சா, ஏலக்காய், அழகு சாதன பொருட்கள்,பூச்சிக்கொல்லி மருந்து உள்ளிட்டவைகள் அதிக அளவு கடத்தப்பட்டு வருகிறது.
+
+இந்நிலையில் வெள்ளிக்கிழமை (16) காலை பனைக்குளம் அடுத்த ஆற்றங்கரை அம்மன் கோயில் பகுதியில் உள்ள ஒரு தோப்பில் தடை செய்யப்பட்ட கடல் அட்டைகள் பதப்படுத்தி வருவதாக மெரன் பொலிசாருக்கு கிடைத்த ரகசிய தகவலின் அடிப்படையில் ஆற்றங்கரை மெரைன் காவல் நிலைய சார்பு ஆய்வாளர் தாரிக் தலைமையிலான மெரைன் பொலிசார் அப்பகுதியில் அதிரடி சோதனை நடத்தினர்.
+
+...
+
+[Data](articles/f068145b.json)
+
+---
 
 ### Health Minister visits Batticaloa Teaching Hospital
 
@@ -2093,27 +2109,5 @@ Senior Advisor to the President's National Security and President of the Preside
 [Data](articles/23f847c3.json)
 
 [Extended Data](ext_articles/23f847c3.ext.json)
-
----
-
-### Poison in Pal: Two more arrested
-
-*2024-02-16 13:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலில்-விஷம்-மேலும்-இருவர்-கைது/175-333311) · `ta`
-
-Two main suspects have been arrested in connection with the incident in which two persons detained at the Street Police Station in Colombo, Colombo.
-
-The Colombo Criminal Investigation Department said that one of the two arrested by the Colombo Criminal Investigation was formerly served in Bamasi.
-
-The main suspect, 26 -year -old, has been arrested in Kottanchenai with 12,524 milligrams of ice in Wettah and the other 32 -year -old, 11,393 milligrams of ice.
-
-It is noteworthy that seven people, including two women, have already been arrested in connection with this poisoning affair.
-
-Poison has been mixed in the case of two suspects in connection with the shooting incident in Jindupitiya on January 24, and two were detained in a police cage.
-
-◼️
-
-[Data](articles/be815862.json)
-
-[Extended Data](ext_articles/be815862.ext.json)
 
 ---

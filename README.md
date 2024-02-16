@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 08:32:59**
+As of **2024-02-16 08:51:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,378 (99.9%) of 7,388 articles have been extended.
+7,384 (99.9%) of 7,388 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -422,6 +422,8 @@ On 31 January the President’s Media Division (PMD) released a public document.
 
 [Data](articles/d7d9049a.json)
 
+[Extended Data](ext_articles/d7d9049a.ext.json)
+
 ---
 
 ### Arguments against VAT on books irrefutable
@@ -439,6 +441,8 @@ I have just come from the fabulous Galle Literary Festival, an annual event desc
 ...
 
 [Data](articles/ac3e9c31.json)
+
+[Extended Data](ext_articles/ac3e9c31.ext.json)
 
 ---
 
@@ -478,6 +482,8 @@ Taking to ‘X’ he noted that the audit’s revelations shed light on irregula
 
 [Data](articles/451d475d.json)
 
+[Extended Data](ext_articles/451d475d.ext.json)
+
 ---
 
 ### JICA Chief calls President to discuss economic reforms and investment projects
@@ -499,6 +505,8 @@ Dr. Akihiko elaborated on JICA’s efforts, highlighting the priority of conclud
 ...
 
 [Data](articles/b933c733.json)
+
+[Extended Data](ext_articles/b933c733.ext.json)
 
 ---
 
@@ -522,6 +530,8 @@ Former Janatha Vimukthi Peramuna (JVP) MP Dr. Nalinda Jayatissa yesterday said t
 
 [Data](articles/a52a0a96.json)
 
+[Extended Data](ext_articles/a52a0a96.ext.json)
+
 ---
 
 ### Five-way tie for 1st place in Transparency in Corporate Reporting Assessment 2023 by TISL
@@ -539,6 +549,8 @@ TISL said all have achieved the full score for transparency in corporate reporti
 ...
 
 [Data](articles/92c224c0.json)
+
+[Extended Data](ext_articles/92c224c0.ext.json)
 
 ---
 

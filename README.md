@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 13:51:43**
+As of **2024-02-16 14:02:37**
 
 ## Newspaper Stats
 
-*Scraped **7,450** Articles*
+*Scraped **7,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 99
 dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 385
-economynextcom | 387
+economynextcom | 390
 dailyftlk | 402
-adalk | 636
-tamilmirrorlk | 906
+adalk | 637
+tamilmirrorlk | 912
 adaderanalk | 914
 virakesarilk | 979
 adaderanasinhalalk | 1,055
@@ -26,7 +26,7 @@ dailymirrorlk | 1,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,450 (100.0%) of 7,450 articles have been extended.
+7,450 (99.9%) of 7,460 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,11 +74,31 @@ Senior Advisor to the President's National Security and President of the Preside
 
 ---
 
+### பாலில் விஷம்: மேலும் இருவர் கைது
+
+*2024-02-16 13:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலில்-விஷம்-மேலும்-இருவர்-கைது/175-333311) · `ta`
+
+கொழும்பு, ஆட்டுப்பட்டி​ தெரு பொலிஸ் நிலையத்தில் தடுத்துவைக்கப்பட்டிருந்த இருவருக்கு பக்கற் பாலில் விஷத்தை கலந்து கொடுத்த சம்பவத்துடன் தொடர்புடைய பிரதான சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+கொழும்பு குற்றப்பிரிவினரால் கைது செய்யப்பட்ட இருவரில் ஒருவர், பாமசியில் முன்னாள் பணியாற்றியவர் என்று ​கொழும்பு குற்றப் பிரிவினர் தெரிவித்தனர்.
+
+பிரதான சந்தேகநபரான 26 வயதானவர் 12,524மில்லிகிராம் ஐஸ் போதைப்பொருளுடன் வத்தளையில் வைத்தும், 32 வயதான மற்றையவர், 11,393 மில்லிகிராம் ஐஸ் போதைப்பொருளுடன் கொட்டாஞ்சேனையில் வைத்தும் கைது செய்யப்பட்டுள்ளனர்.
+
+இந்த விஷபால் விவகாரம் தொடர்பில், இரண்டு பெண்கள் உட்பட ஏழுபேர் கலஹாவில் மறைந்திருந்த போது, ஏற்கெனவே கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+ஜிந்துப்பிட்டி பிரதேசத்தில் ஜனவரி 24 ஆம் திகதி மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூடு சம்பவத்துடன் தொடர்புடையவர்கள் என்ற சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு, பொலிஸ் கூண்டில் அடைத்து வைக்கப்பட்டிருந்த இருவருகே, பாலில் விஷம் கலந்து வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/be815862.json)
+
+---
+
 ### India’s Congress claims its bank accounts frozen ahead of elections
 
 *2024-02-16 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97322/indias-congress-claims-its-bank-accounts-frozen-ahead-of-elections) · `en`
 
-India’s main opposition political party- the Congress claimed on Friday (Feb 16) that all its bank accounts have been frozen. Addressing a press conference, Congress treasurer Ajay Maken said the accounts have been frozen ahead of the Lok Sabha elections.
+India’s main opposition political party - the Congress claimed on Friday (Feb 16) that all its bank accounts have been frozen. Addressing a press conference, Congress treasurer Ajay Maken said the accounts have been frozen ahead of the Lok Sabha elections.
 
 “You will be surprised to know that democracy has completely ended in India. The Congress received information the day before yesterday that the party’s bank cheques issued were not being honoured,” Maken said.
 
@@ -122,6 +142,50 @@ So we rely on Palestinian journalists who are hosting their lives to uncover the
 
 ---
 
+### சஜித் அணிக்கு தாவிய இருவர்
+
+*2024-02-16 12:59:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-அணிக்கு-தாவிய-இருவர்/175-333310) · `ta`
+
+காமினி திலகசிறி மற்றும் காமினி சில்வா ஆகியோர் இவ்வாறு சஜித் பிரேமதாசவுக்கு தமது ஆதரவைத் தெரிவித்து கட்சியில் இணைந்துள்ளனர். (N)
+
+◼️
+
+[Data](articles/6a5f77c8.json)
+
+---
+
+### சமையல் அறைக்குள் தண்ணீர்; பெண் பலி
+
+*2024-02-16 12:57:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமையல்-அறைக்குள்-தண்ணீர்-பெண்-பலி/175-333309) · `ta`
+
+மேல் தளத்தில் பாதுகாப்பற்ற முறையில் பொருத்தப்பட்டிருந்த தண்ணீர் தொட்டி கூரையை உடைத்துக்கொண்டு விழுந்துள்ளது.
+
+◼️
+
+[Data](articles/63cf66dd.json)
+
+---
+
+### பியூமாவை தடுத்து வைத்து விசாரிக்க அனுமதி
+
+*2024-02-16 12:47:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமாவை-தடுத்து-வைத்து-விசாரிக்க-அனுமதி/175-333308) · `ta`
+
+டுபாயில் கைது செய்யப்பட்டு நேற்று (15) இலங்கைக்கு அழைத்து வரப்பட்ட பாதாள உலகக் குழு உறுப்பினர் என சந்தேகிக்கப்படும் "பியுமா"வை தடுத்து வைத்து விசாரணை நடத்த குற்றப் புலனாய்வுப் பிரிவினருக்கு நீதிமன்றம் அனுமதி வழங்கியுள்ளது.
+
+பயங்கரவாதத் தடைச் சட்டத்தின் கீழ், குற்றப் புலனாய்வுப் பிரிவினர் கோட்டை நீதவான் நீதிமன்றில் இது தொடர்பில் அறிக்கை தாக்கல் செய்திருந்தனர்.
+
+இதனையடுத்து, கைது செய்யப்பட்டது முதல்  72 மணிநேரம்  அவரை தடுத்து வைத்து விசாரிக்க அனுமதி அளிக்கப்பட்டுள்ளது.
+
+பியும் ஹஸ்திக அல்லது பியூமா,  போதைப்பொருள் வியாபாரியான குடு சலிந்துவின் முக்கிய உதவியாளராக கருதப்படுகிறார்.
+
+அவர்  09 பிப்ரவரி 2021 அன்று துபாய்க்க தப்பிச் சென்றதாக தெரிவிக்கப்படுகின்றது. (N)
+
+◼️
+
+[Data](articles/25f8a82f.json)
+
+---
+
 ### The water tank falls down on the kitchen
 
 *2024-02-16 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193460) · `si`
@@ -140,6 +204,20 @@ It is reported that she was renting in the day.
 
 ---
 
+### வழமைக்கு திரும்பியது சுங்கம்
+
+*2024-02-16 12:43:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழமைக்கு-திரும்பியது-சுங்கம்/175-333306) · `ta`
+
+சுங்கத் திணைக்கள ஊழியர்கள் முன்னெடுத்த சட்டபடி வேலை செய்யும் தொழிற்சங்க நடவடிக்கை நிறைவுக்கு வந்துள்ளது.
+
+நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய மற்றும் ஜனாதிபதியின் செயலாளர்  சமன் ஏக்கநாயக்க ஆகியோருடன் இடம்பெற்ற பேச்சு வாரத்தையின் பின்னர் தொழிற்சங்க நடவடிக்கை கைவிடப்பட்டுள்ளது.(N)
+
+◼️
+
+[Data](articles/bbf5543d.json)
+
+---
+
 ### Detention orders issued against “Piyuma” under PTA
 
 *2024-02-16 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97321/detention-orders-issued-against-piyuma-under-pta) · `en`
@@ -148,9 +226,13 @@ The Criminal Investigations Department (CID) has secured detentions orders again
 
 Thus, the Colombo Fort Magistrate’s Court has issued a 72-hour detention order under the Prevention of Terrorism Act (PTA) to interrogate the suspect, after the CID reported facts to the courts regarding the repatriation of “Piyuma”.
 
-However, the Colombo Fort Magistrate has also ordered that the 72 hours be counted from the day he was brought back to the island.
+However, the Colombo Fort Magistrate has also ordered that the 72 hours be counted retrospectively from Feb.15, the day he was brought back to the island.
 
-◼️
+“Piyuma” is reportedly the main accomplice of the notorious underworld figure and drug trafficker Salindu Malshika Gunaratne alias “Kudu Salindu,” who is also currently in the custody of the CID.
+
+According to the Public Security Ministry, the criminal suspect was brought back to the island by a special team of the CID.
+
+...
 
 [Data](articles/14bbab5b.json)
 
@@ -259,6 +341,18 @@ It was revealed that he had fled to Dubai in February 9, 2021.
 [Data](articles/46a014fb.json)
 
 [Extended Data](ext_articles/46a014fb.ext.json)
+
+---
+
+### ராமர் சேதுவில் ஸ்ரீ சந்தோஷ் ஜா வழிபாடு
+
+*2024-02-16 12:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமர்-சேதுவில்-ஸ்ரீ-சந்தோஷ்-ஜா-வழிபாடு/175-333305) · `ta`
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் ஸ்ரீ சந்தோஷ் ஜா, வடக்குக்கு விஜயம் செய்துள்ளார். அவர், ராமர் ​சேதுவுக்கு விஜயம் செய்து, இந்தியா-இலங்கை உறவுகளின் நல்வாழ்வுக்காக பிரார்த்தனை செய்தார். அத்துடன் திருகேதீஸ்வரத்திலும் வழிபாடுகளில் ஈடுபட்டார். அத்துடன், மன்னார் மடு தேவாலயத்துக்கும் விஜயம் செய்தார்.
+
+◼️
+
+[Data](articles/0d92a849.json)
 
 ---
 
@@ -458,6 +552,24 @@ The body of the girl has been recovered early morning (16) during the search for
 
 ---
 
+### Sri Lanka anti-monopoly provisions scattered among 37-laws: Japan study
+
+*2024-02-16 11:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-anti-monopoly-provisions-scattered-among-37-laws-japan-study-151165/) · `en`
+
+ECONOMYNEXT – Sri Lanka does not have a comprehensive regime to stop ant-competitive behaviour but there are provisions to promote competition scattered among 37 pieces of legislation, according to an assessment by the Japan International Cooperation Agency.
+
+Harsha Fernando, President’s Counsel, had presented some of the findings at a recent forum had said Sri Lanka does not have a comprehensive competition law regime.
+
+There were both legal and regulatory provisions for promotion of competition and prevention of anti-competitive practices in as many as 37 enactments, with the purview and enforcement responsibilities distributed among both regulatory agencies as well as service providers.
+
+A high level delegation from the Japan Fair Trade Commission (JFTC) joined the seminar to share their insight on the background and key aspects of the competition laws the agency’s role in securing a transparent and competitive business climate in Japan.
+
+...
+
+[Data](articles/52f528f4.json)
+
+---
+
 ### A road blocked by public opposition
 
 *2024-02-16 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193457) · `si`
@@ -607,6 +719,22 @@ It is well known that India and China are involved in the World Wide Competition
 [Data](articles/1b2c43af.json)
 
 [Extended Data](ext_articles/1b2c43af.ext.json)
+
+---
+
+### ඔක්සිජන් ගන්න තිබුණ මුදල්වලින් බාල බෙහෙත් ගෙන්වලා
+
+*2024-02-16 10:55:49* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්සිජන්-ගන්න-තිබුණ-මුදල්වලින්-බාල-බෙහෙත්-ගෙන්වලා/11-408122) · `si`
+
+සෞඛ්‍ය අමාත්‍යංශයට ඔක්සිජන් ලබාගැනීමට තිබූ මුදල්වලින් රුපියල් කෝටි 14 1/2ක් මෙම ඖෂධ මිලදී ගැනීමට සඳහා සැපයුම්කරුට දී ඇතැයි නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මහත්මිය මාලිගාක්නද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මියට ඊයේ (15) දැනුම් දුන්නාය.
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා කැබිනට් මණ්ඩලයට ඉදිරිපත් කළ කැබිනට් සංදේශවල ඇති අස්සන් සහ තවත් ලේඛණවල ඇති අස්සන් සමඟ ඔහුගේ අත්අකුරු සැසදීමට රජයේ සැකකටයුතු ලේඛණ පරීක්‍ෂවරයාට නියම කළ ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මිය ඒ සඳහා කෙහෙළිය රඹුක්වැල්ල මහතාගෙන් ආදර්ශ අස්සන් ලබාගැනීමටද නියම කළාය.
+
+මෙම සිද්ධියට අදාල සැකකරුවන් ලබන 29 වැනිදා තෙක් තවදුරටත් රිමාන්ඩ් භාරයේ රඳවා තැබීමට නියම කළ මහේස්ත්‍රාත්වරිය සිද්ධියට අදලාව කරන විමර්ශනවල ප්‍රගතිය එදින අධිකරණයට වාර්තා කිරීමටද රහස් පොලිසියට වැඩිදුරටත් නියම කළාය.
+
+...
+
+[Data](articles/492a286c.json)
 
 ---
 
@@ -765,6 +893,24 @@ Five suspects were arrested in connection with the incident.Meanwhile, the T-56 
 [Data](articles/a66aebe5.json)
 
 [Extended Data](ext_articles/a66aebe5.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 312.50/60 to the US dollar
+
+*2024-02-16 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-312-50-60-to-the-us-dollar-151157/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 312.50/60 to the US dollar Friday, from 313.70/90 on Thursday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted at 10.90/11.05 percent up from 10.50/60 percent.
+
+A bond maturing on 15.03.2028 was quoted at 12.00/10 percent from 11.95/12.10 percent.
+
+The Colombo stock market opened up: The All Share was up 0.30 percent at 10,599, and the S&P SL20 was up 0.44 percent at 3,048. (Colombo/Feb16/2024)
+
+◼️
+
+[Data](articles/fdeee0a6.json)
 
 ---
 
@@ -1091,6 +1237,28 @@ Former President Mahinda Rajapaksa says he will support the abolition of the Exe
 [Data](articles/486f29c7.json)
 
 [Extended Data](ext_articles/486f29c7.ext.json)
+
+---
+
+### Sri Lanka manufacturing, services expand in Jan 2024: PMI
+
+*2024-02-16 07:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-services-expand-in-jan-2024-pmi-151141/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s manufacturing continued to expand in January 2024 with a pick-up in apparels while services also moved forward despite concerns over a hike in value added tax, according to a Purchasing Managers’ Index compiled by the central bank.
+
+The PMI for Manufacturing was above 50 at 55.6 in January 2024, up from 52.7 in December.
+
+“The expansion in New Orders and Production was largely driven by the manufacture of textiles & apparel sector,” the statement said.
+
+“However, New Orders and Production in the manufacture of food & beverages sector decreased on a month-on-month basis due to the decline in demand with the end of December festival season.
+
+“Meanwhile, Employment and Stock of Purchases expanded during the month in line with the New Orders and Production.”
+
+Delivery times had lengthened with the disruption in shipping through the Red Sea.
+
+...
+
+[Data](articles/7fe161b8.json)
 
 ---
 
@@ -1897,199 +2065,5 @@ We can see hordes of teachers entering the teaching profession and being unhappy
 [Data](articles/e68b6439.json)
 
 [Extended Data](ext_articles/e68b6439.ext.json)
-
----
-
-### Israel’s genocide juggernaut to hit Rafah, despite global appeals
-
-*2024-02-16 01:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Israels-genocide-juggernaut-to-hit-Rafah-despite-global-appeals/172-277128) · `en`
-
-Children sit inside a vehicle loaded with items secured by rope as people flee the southern city of Rafah toward the centre of the Gaza Strip to escape Israel’s ground war in the city
-
-Never has an Israeli government been as cruel or malicious as Benjamin Netanyahu’s hardline government, which is planning to unleash what is feared as the worst phase of Israel’s genocidal campaign in the Gaza Strip. With 1.5 million starving and suffering Palestinians crammed into the southern Gaza city of Rafah, Israel has pledged to launch a massive ground, air, and sea offensive.
-
-And never has a United States government been as weak in its diplomatic coercion as the present Joe Biden administration is. Diplomatic power is seen not only when a nation uses its diplomatic clout to tame a hostile nation but also in the ability to coax or coerce a friend.
-
-...
-
-[Data](articles/9f884df1.json)
-
-[Extended Data](ext_articles/9f884df1.ext.json)
-
----
-
-### India-Sri Lanka Security Intertwined - Vijitha Herath
-
-*2024-02-16 01:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/India-Sri-Lanka-Security-Intertwined-Vijitha-Herath/231-277124) · `en`
-
-Also maintaining close contact with the Communist Party of China (CPC) too
-
-Won’t compromise on Indian interests over China and vice versa
-
-Emphasized that Sri Lanka, as a country, would remain committed to regional security
-
-The delegation was led by JVP/NPP leader, Anura Kumara Dissanayake, and had talks with Indian External Affairs Minister, Dr. S. Jaishankar, Foreign Secretary, Vinay Mohan, and National Security Advisor, Ajit Doval. The delegation was afforded a broad overview of India’s growth momentum, industrialization and its security interests in the region.National People’s Power (NPP) MP, Vijitha Herath who was part of the party delegation that visited India shared his thoughts on the outcome.
-
-Q   How far is the policy of your party in line with the broader vision of India for national security in the region?
-
-...
-
-[Data](articles/734e4eab.json)
-
-[Extended Data](ext_articles/734e4eab.ext.json)
-
----
-
-### Minister Wijeyadasa
-
-*2024-02-16 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176491) · `ta`
-
-Minister of Justice Wijeyadasa Rajapakse said that we are taking steps to resolve the land issues in other districts through the Arbitration Council system, as the Arbitration Council has taken steps to resolve the land issues in the North and East.
-
-He was speaking at a press conference held at the Ministry of Justice, Prison and the Constitutional Reform on Thursday (15).
-
-After the formation of the Commission of Arbitration in 1988, the Arbitration Commission has been able to resolve about 47 percent of the lawsuits in Sri Lanka during the year 2015.. In addition, the case of the case has now increased by about 70 per cent by the rehabilitation of the medium council system.
-
-In addition, delaying the ongoing trial in courts is one of the reasons for the decline in the court's confidence. Therefore, the need for the medium council system is the need to expand the system as a move to avoid delaying the trial.
-
-...
-
-[Data](articles/8f358d4d.json)
-
-[Extended Data](ext_articles/8f358d4d.ext.json)
-
----
-
-### Yall. Struggle urging a safe railway crossing in the area
-
-*2024-02-16 00:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176490) · `ta`
-
-The public launched a protest on Thursday (15), demanding a safe railway crossing in the Jaffna -Awil area.
-
-The protest was carried out by the people of the area, saying that there were no security arrangements in the railway crossing and that the sailor did not do his duty.
-
-At 6:45 pm, the protesters were protesting against the train from Jaffna to Kankesanthurai.
-
-Lastly, do not save our lives!The slogans were exhibited.
-
-Two people have died in a collision with a train in the Jaffna area and a woman is being treated in the intensive care unit.
-
-◼️
-
-[Data](articles/fcc56948.json)
-
-[Extended Data](ext_articles/fcc56948.ext.json)
-
----
-
-### Achuveli Divisional Hospital
-
-*2024-02-16 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176489) · `ta`
-
-On Thursday evening (15), some people who had been in alcohol attacked the security officer on their heads.
-
-The security officer's office window mirrors are damaged and damaged. Those who came to prevent this were also severely intimidated with inappropriate words.
-
-As the hospital administration has been informed by the hospital administration regarding the incident, the police are registering the affidavits and are conducting investigations.
-
-◼️
-
-[Data](articles/a885e13a.json)
-
-[Extended Data](ext_articles/a885e13a.ext.json)
-
----
-
-### Speaker’s act of certifying Online Safety Bill challenged in SC by Sumanthiran
-
-*2024-02-16 00:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speakers-act-of-certifying-Online-Safety-Bill-challenged-in-SC-by-Sumanthiran/108-277130) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - Parliamentarian M.A. Sumanthiran has filed a fundamental rights application before the Supreme Court, challenging the Speaker's act of certifying the Online Safety Bill as enacted into law.
-
-In his petition, Sumanthiran is seeking a declaration that the Speaker’s certification of the Online Safety Act is not valid in law. The petitioner is further seeking a declaration that the fundamental rights guaranteed by Article 12(1) and 14 of the constitution to the petitioner and the citizens have been infringed by the Attorney General by failing to advise the Speaker and the Parliament that the committee stage amendments did not make the Online Safety Bill compliant with the Supreme Court’s determination. The petitioner has cited Speaker Mahinda Yapa Abeywardana and the Attorney General as respondents.
-
-...
-
-[Data](articles/a6bc45a5.json)
-
-[Extended Data](ext_articles/a6bc45a5.ext.json)
-
----
-
-### Speaker’s act of certifying Online Safety Bill challenged in SC by Sumanthiran
-
-*2024-02-16 00:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Speakers-act-of-certifying-Online-Safety-Bill-challenged-in-SC-by-Sumanthiran/155-277130) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - Parliamentarian M.A. Sumanthiran has filed a fundamental rights application before the Supreme Court, challenging the Speaker's act of certifying the Online Safety Bill as enacted into law.
-
-In his petition, Sumanthiran is seeking a declaration that the Speaker’s certification of the Online Safety Act is not valid in law. The petitioner is further seeking a declaration that the fundamental rights guaranteed by Article 12(1) and 14 of the constitution to the petitioner and the citizens have been infringed by the Attorney General by failing to advise the Speaker and the Parliament that the committee stage amendments did not make the Online Safety Bill compliant with the Supreme Court’s determination. The petitioner has cited Speaker Mahinda Yapa Abeywardana and the Attorney General as respondents.
-
-...
-
-[Data](articles/e8731eff.json)
-
-[Extended Data](ext_articles/e8731eff.ext.json)
-
----
-
-### 2024-02-15 (Thursday)
-
-### Central Bank is responsible for the fall of the country's economy - Justice Minister Wijeyadasa
-
-*2024-02-15 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176488) · `ta`
-
-The main reason for the central bank of the country is economically declining. The country's foreign currency has been abused since Ajith Niwad Cabral was a great. Minister of Justice Wijeyadasa Rajapakse said that those who are abroad have been left faith in the actions of the Central Bank.
-
-He was speaking at a press conference held at the Ministry of Justice, Prison and the Constitutional Reform on Thursday (15).
-
-State banks do not find out about ordinary people. That is why people seek black merchants and borrow for a massive interest on their business activities. Thus, when the farmers are lost in their career, they leave the industry to leave. That is why today the rate of farming in the country has fallen.
-
-...
-
-[Data](articles/fba42652.json)
-
-[Extended Data](ext_articles/fba42652.ext.json)
-
----
-
-### The first phase of the Anuradhapura Northern Water Supply Scheme is handed over by the President to the People's Use;The president is sure not to affect agriculture
-
-*2024-02-15 23:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176486) · `ta`
-
-North. The government has focused on transforming the central province into a powerful center.
-
-President Ranil Wickremesinghe has assured that the Anuradhapura Northern Water Supply Project will not have any effect on the area's agricultural activities.
-
-The President advised that the program would provide a solution to agricultural needs and drinking water needs.
-
-The President made this statement while addressing the first phase of the Anuradhapura North Water Supply Scheme on Thursday (15).
-
-The project has been implemented at a cost of Rs.
-
-The first phase of this is that the Anuradhapura Maha Kanadarawa pond has been implemented as the main source of water and the drinking water needs of 25,000 families of the 75 Grama Niladhari Divisions of the Rambewa and Madhavachi Divisional Secretariat will be met.
-
-...
-
-[Data](articles/5bc5b462.json)
-
-[Extended Data](ext_articles/5bc5b462.ext.json)
-
----
-
-### No one can bring down hospital system except for doctors, nurses
-
-*2024-02-15 23:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-one-can-bring-down-hospital-system-except-for-doctors-nurses/108-277103) · `en`
-
-Colombo, Feb 15 (Daily Mirror) - Apart from medical professionals such as doctors and nurses, no one has the capability to collapse the hospital system. If such an occurrence does happen for two days, the subsequent consequences are unpredictable, Government Medical Officers' Forum (GMOF) president Dr. Rukshan Bellana said.
-
-Addressing the media, he said that the leaders of these trade unions were affiliated with higher officials attached to the Trade Union Division of the President's office.
-
-"We have repeatedly said that the services of healthcare workers are no longer needed in hospitals. Another unsuccessful strike has been concluded. Hospitals only need the expertise of professionals from health trade unions, including doctors, nurses, and administrative staff. These ineffective trade unions cannot overthrow the government," he stated.
-
-...
-
-[Data](articles/4d0333b3.json)
-
-[Extended Data](ext_articles/4d0333b3.ext.json)
 
 ---

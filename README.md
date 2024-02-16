@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 02:32:47**
+As of **2024-02-17 02:48:13**
 
 ## Newspaper Stats
 
-*Scraped **7,565** Articles*
+*Scraped **7,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,75 @@ dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 385
 economynextcom | 398
-dailyftlk | 402
+dailyftlk | 403
 adalk | 645
-tamilmirrorlk | 920
+tamilmirrorlk | 921
 adaderanalk | 926
 virakesarilk | 999
 adaderanasinhalalk | 1,077
-dailymirrorlk | 1,116
+dailymirrorlk | 1,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,565 (100.0%) of 7,565 articles have been extended.
+7,565 (100.0%) of 7,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### SL-Russia set to enhance transport cooperation via MoU
+
+*2024-02-17 02:11:42* · [`dailyftlk`](https://www.ft.lk/news/SL-Russia-set-to-enhance-transport-cooperation-via-MoU/56-758576) · `en`
+
+The Cabinet of Ministers approved signing a Memorandum of Understanding (MoU) between the Transport and Highways Ministry in Sri Lanka and Transport Ministry of Russia to improve transport staff training and development.
+
+The said agreement which aims to enhance staff training and development within the transport industry is pending clearance from the Attorney General’s Department for the draft MoU.
+
+Discussions surrounding the importance of establishing the MoU between the two Ministries gained momentum during the recent official visit of the Transport and Highways Minister Banduala Gunawardena to Russia.
+
+“Both countries acknowledged the significance of enhancing greater cooperation to advance mutual interests in transport-related endeavours,” Cabinet Co-Spokesman and Minister Gunawardena said at the post-Cabinet meeting media briefing on Tuesday.
+
+The proposal put forth by Transport and Highways Minister Gunawardena was approved by the Cabinet of Ministers at its meeting on Monday.
+
+◼️
+
+[Data](articles/7ffa0f8b.json)
+
+---
+
+### மாணவர்கள் இருவர் கடலில் மூழ்கி மாயம்
+
+*2024-02-17 02:10:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-இருவர்-கடலில்-மூழ்கி-மாயம்/175-333332) · `ta`
+
+அம்பாறை, மாளிகைக்காடு - சாய்ந்தமருது பிரதேசத்தைச் சேர்ந்த இரண்டு மாணவர்கள் நிந்தவூர் பிரதேச கடலில் படம் எடுத்து விளையாடிக் கொண்டிருந்தபோது கடலில் அடித்துச் செல்லப்பட்டுக் காணாமல்போயுள்ளனர்.
+
+மாளிகைக்காடு - சாய்ந்தமருது எல்லை வீதியில் அமைந்துள்ள பிரபல பாடசாலையில் கல்வி கற்கும் 13 - 15 வயதுக்குட்பட்ட 8 மாணவர்கள் நேற்று ஜும்மா தொழுகையை முடித்துக்கொண்டு சைக்கிள்களில் நிந்தவூர் - ஒலுவில் எல்லை கடற்கரைக்குச் சென்று படம் எடுத்து விளையாடிக் கொண்டிருந்தபோது மாலை 4.20 மணியளவில் அதில் இருவரைக் கடலலை உள்ளிழுத்துச் சென்றுவிட்டது என்று முதற்கட்ட விசாரணையில் தெரியவந்தது.
+
+கடலில் இழுத்துச் செல்லப்பட்டுக் காணாமல்போன மாணவர்கள் இருவரையும் மீனவர்களும், பொதுமக்களும் இயந்திரப் படகுகளைக் கொண்டு தேடியும் இரவு 9 மணி வரை அந்த மாணவர்களின் உடல்களைக் கண்டுபிடிக்க முடியாமல் இருள் காரணமாக தேடுதல் நடவடிக்கைகள் நிறுத்தப்பட்டன. (a)
+
+◼️
+
+[Data](articles/d992f176.json)
+
+---
+
+### Upali Wijewardene, Free Trade Zone and “The Island”
+
+*2024-02-17 01:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Upali-Wijewardene-Free-Trade-Zone-and-The-Island/172-277224) · `en`
+
+Upali also went into aviation and began local helicopter and airline services
+
+When working for a Tamil newspaper, I have come across many Sinhala persons who simply did not care a hoot about the Tamil media. I have also come across many Sinhalese who were extremely concerned about what appeared in the Tamil newspapers. Upali belonged to the latter group. Though he could not read Tamil he got his Tamil employees at the Upali Group to inform him about what was appearing in the Virakesari.
+
+Today (Feb 17) is the birthday of Sri Lanka’s popular business magnate Philip Upali Wijewardene. If Upali Wijewardene were among the living now, he would have celebrated his 86th birthday this year.  Alas, this was not to be as the Lear Jet he was travelling in disappeared on 13 February 1983, just 4 days before his 45th birthday.
+
+...
+
+[Data](articles/553fadb6.json)
+
+---
 
 ### 250 kg of processed sea cards seized near the river
 
@@ -2051,69 +2103,5 @@ The people of Tirukovil district have expressed their gratitude to the Governor 
 [Data](articles/dee43b63.json)
 
 [Extended Data](ext_articles/dee43b63.ext.json)
-
----
-
-### A 10-year-old girl meets a bodies
-
-*2024-02-16 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193462) · `si`
-
-The 10-year-old girl in the area has died in the area.
-
-The police said the girl was found in a search for girl's relatives in search of the girl near his house.
-
-The Talagamanamaduwara police suspect that the crime has been reported yesterday evening or night.
-
-A person has been arrested on suspicion regarding the death of the girl.
-
-Police further stated that the Judicial Medical Officer is to be inspected to whether the girl has been subjected to sexual violence.
-
-◼️
-
-[Data](articles/7f3ea367.json)
-
-[Extended Data](ext_articles/7f3ea367.ext.json)
-
----
-
-### 'Parakkuwad' Nasini fan fire for Machakarai in Mayilathamadu, Madhavan
-
-*2024-02-16 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176523) · `ta`
-
-Livestock farmers have said that the majority of the people in the Batticaloa - Madhavan, Mayilathamadu area are setting fire to cattle -like weeds.
-
-Land occupants are cultivating the land in which they have taken away, and are setting fire and destroying the land and forests with the aim of extortion.
-
-The incident has been taking place on Wednesday 14th. It does not appear to have taken steps to stop the Department of Wildlife and Wildlife.
-
-Farmers say that some cows are sick because their cattle graze on the ground of the Parakwad Weeded Fan.
-
-The farmers are worried that our livelihood is systematically destroyed, and there is no one to hear these injustices and no one to see.
-
-◼️
-
-[Data](articles/08eb108d.json)
-
-[Extended Data](ext_articles/08eb108d.ext.json)
-
----
-
-### Sri Lanka supports Israel's defense and set up a Palestinian government
-
-*2024-02-16 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176530) · `ta`
-
-President Ranil Wickremesinghe and Israel's Transport and Road Protection Minister Brigadier General Miri Rekave (Brig. Gena. A meeting between Miri Regev was held at the Presidential Office.
-
-The President has stated that Sri Lanka will continue to cooperate to rescue the Israelis who have been held hostage by Hamas militants and that the clashes in the Gaza area should be stopped immediately.
-
-President Ranil Wickremesinghe said Sri Lanka would support the safety of Israel and establish the Palestinian state.
-
-Senior Advisor to the President's National Security and President of the President, Sagala Ratnayake, President's Secretary Saman Ekanayake and International Affairs Director Dinuk Koombage were also present.
-
-◼️
-
-[Data](articles/23f847c3.json)
-
-[Extended Data](ext_articles/23f847c3.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 07:15:41**
+As of **2024-02-16 07:31:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,081
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,360 (100.0%) of 7,362 articles have been extended.
+7,362 (100.0%) of 7,362 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The bill was approved by 176 lawmakers in the 300-seat parliament and will becom
 
 [Data](articles/48a44bbf.json)
 
+[Extended Data](ext_articles/48a44bbf.ext.json)
+
 ---
 
 ### Thundershowers possible in several areas including Western Province
@@ -67,6 +69,8 @@ The public is requested to take adequate precautions to minimize damages caused 
 ◼️
 
 [Data](articles/c3e5deee.json)
+
+[Extended Data](ext_articles/c3e5deee.ext.json)
 
 ---
 

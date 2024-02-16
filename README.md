@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 00:48:10**
+As of **2024-02-17 01:02:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,116
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,558 (99.9%) of 7,562 articles have been extended.
+7,562 (100.0%) of 7,562 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Again, at a function to mark the inauguration of the Anuradhapura North Water Su
 
 [Data](articles/cdf6bb04.json)
 
+[Extended Data](ext_articles/cdf6bb04.ext.json)
+
 ---
 
 ### The Health Sector and a Nation held to Ransom
@@ -66,23 +68,27 @@ Calling off the strike, union authorities declared they called off their action 
 
 [Data](articles/a9fbebb1.json)
 
+[Extended Data](ext_articles/a9fbebb1.ext.json)
+
 ---
 
-### வவுனியாவில் 06 குளங்களுக்கு 235,000 இறால் குஞ்சு விடும் நிகழ்வு
+### 235,000 shrimp chicks for 06 ponds in Vavuniya
 
 *2024-02-17 00:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176582) · `ta`
 
-வவுனியா ஆசிக்குளம் கிராம சேவகர் பிரிவில் உள்ள 06 குளங்களுக்கு 235,000 இறால் குஞ்சு விடும் நிகழ்வு வெள்ளிக்கிழமை (15) இடம்பெற்றது.
+235,000 shrimp chicks were held on Friday (15) for 06 ponds in the Vavuniya Asikkulam Grama Niladhari Division.
 
-கமத்தொழில் மற்றும் பெருந்தோட்டத்துறை அமைச்சினால் முன்னெடுக்கப்பட்டு வரும் சிறியளவிலான விவசா, வணிக மீண்டெளல் திட்டத்தின் கீழ் ஆசிகுளம் கிராம சேவையாளர் பிரிவிற்குட்பட்ட 06 குளங்களில் இறால் குஞ்சுகள் விடும் செயற்பாடு முன்னெடுக்கப்படவுள்ளது.
+Shrimp chicks will be carried out in six ponds under the Asikkulam Grama Niladhari Division under the Small Vivasa and Business Recovery Scheme.
 
-இதன் அங்குரார்ப்பண நிகழ்வானது வவுனியா கோமரசன்குளத்தில் இடம்பெற்றிருந்தது. இதன்போது கோமரசன்குளத்திலே ஐம்பதாயிரம் இறால் குஞ்சுகளை பிரதம விருந்தினர்களால் விடப்பட்டிருந்தது.
+The inaugural event was held at Komarasankulam, Vavuniya. Fifty thousand shrimp chicks were left by the chief guests at Komarasankulam.
 
-இத்திட்டத்தின் இணைப்பாளர் எஸ். ஏச். ஏ. அஸ்ரவ் தலைமையில் இடம்பெற்ற இந்நிகழ்வில் வவுனியா மாவட்ட அரசாங்க அதிபர் பீ.ஏ.சரத்சந்திர, மேலதிக அரசாங்க அதிபர் தி.திரேஸ்குமார், மாவட்ட விவசாய பணிப்பாளர் திருமதி ஈஸ்வரன், மாவட்ட திட்டமிடல் பணிப்பாளர் வி. முகுந்தன், மாகாண பிரதி விவசாய பணிப்பாளர் அற்புதச்சந்திரன், தேசிய நீர் உயிரினச் செய்கை அபிவிருத்தி அதிகார சபையின் அதிகாரி யோ.நிசாந்தன் மற்றும் பொதுமக்கள் எனப் பலரும் கலந்து கொண்டனர்.
+The Coordinator of the Scheme. Asch. A.. Vavuniya District Government Agent PA Sarathchandra, Additional Government Agent D. Darskumar, District Agriculture Director Mrs. Eswaran, District Planning Director V.. Mukundan, Provincial Deputy Director of Agriculture, Mikthachandran, National Water Life Development Authority Officer Yo Nisanthan and many others were present.
 
 ◼️
 
 [Data](articles/923263bb.json)
+
+[Extended Data](ext_articles/923263bb.ext.json)
 
 ---
 
@@ -97,6 +103,8 @@ The Dansala program, initiated by Naga Vihara Kotte under the theme 'Pansale Dan
 ◼️
 
 [Data](articles/be28d063.json)
+
+[Extended Data](ext_articles/be28d063.ext.json)
 
 ---
 

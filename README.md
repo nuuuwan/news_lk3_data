@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 19:17:30**
+As of **2024-02-16 19:33:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,519 (99.9%) of 7,526 articles have been extended.
+7,526 (100.0%) of 7,526 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,31 @@ The petitioner Kamani Rupika Priyangani stated that she entered into marriage wi
 
 [Data](articles/abf603af.json)
 
+[Extended Data](ext_articles/abf603af.ext.json)
+
 ---
 
-### NLB සුපිරි ත්‍යාග මුදල ජනපති අතින්
+### President of NLB Success
 
 *2024-02-16 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193478) · `si`
 
-ජාතික ලොතරැයි මණ්ඩලය විසින් 2023 වර්ෂයේ අලෙවි කරන ලද ලොතරැයි ටිකට්පත්වල සුපිරි ත්‍යාග සහ රුපියල් මිලියනයේ මුදල් ත්‍යාගවලට අදාළ චෙක්පත් සහ වාහන ත්‍යාග ජයග්‍රාහකයන් වෙත පිරිනැමීමේ උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මුදල් අමාත්‍යාංශ ශ්‍රවණාගාරයේදී අද (16) පැවැත්විණි.
+President Ranil Wickremesinghe was held today (16) at the Minister of Finance Ranil Wickremesinghe at the Ministry of Finance today (16).
 
-ගොවිසෙත, මෙගා පවර් සහ මෙගා පවර් 60 යන ලොතරැයිවල සුපිරි ත්‍යාග ජයග්‍රාහකයන් වෙත ඊට අදාළ මුදල් ත්‍යාග සහ වාහන ත්‍යාග පිරිනැමීම සහ ජයග්‍රාහී ලොතරැයි පත් අලෙවි නියෝජිතයන් වෙත ඇගයීම් සහතික හා ත්‍යාග පිරිනැමීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ අතින් මෙහිදී සිදුවිය.
+President Ranil Wickremesinghe was presented to the winners of the prize gifs and vehicle gifts of the prize gifts and vehicle gifts to the winning Lottery Appointment.
 
-මීට අමතරව ජාතික ලොතරැයි මණ්ඩලය විසින් අලුතින් හඳුන්වාදෙන “අද සම්පත” නව ලොතරැයි ටිකට් පත එළිදැක්වීම ද සිදු වූ අතර එම ලොතරැයියෙහි පළමු ටිකට්පත ජාතික ලොතරැයි මණ්ඩලයේ සභාපති වෛද්‍ය චමීර සී. යාපා අබේවර්ධන මහතා විසින් ජනාධිපතිවරයා වෙත පිළිගන්වනු ලැබීය.
+In addition, the new lottery ticket was introduced by the National Lotteries Board.. Yapa Abeywardena was presented to the President.
+
+President's Counsel Ronald C.. President Ranil Wickremesinghe was presented to the National Lotteriation Board in appreciation of the National Lotterity Board.
+
+The National Lotteries Board contribution to the State Consolidal Companies. Yapa Abeywardena handed over to President Ranil Wickremesinghe.
+
+Government Ministers Ranjith Siyambalapitiya and Shehan Siyambalapitiya and Shehan Semasinghe were handed over to awarding awards and gifts to the dealership winners from various parts of the island.
 
 ...
 
 [Data](articles/cdc33361.json)
+
+[Extended Data](ext_articles/cdc33361.ext.json)
 
 ---
 
@@ -199,6 +209,8 @@ Navalny, the prison service said, had lost consciousness almost immediately.
 ...
 
 [Data](articles/96907240.json)
+
+[Extended Data](ext_articles/96907240.ext.json)
 
 ---
 
@@ -419,6 +431,8 @@ Minister Nimal Siripala de Silva said that several other airlines in Israel have
 ...
 
 [Data](articles/1205232e.json)
+
+[Extended Data](ext_articles/1205232e.ext.json)
 
 ---
 
@@ -1156,6 +1170,8 @@ Mr Mitsotakis had championed the bill but required the support of opposition par
 
 [Data](articles/ac4112b7.json)
 
+[Extended Data](ext_articles/ac4112b7.ext.json)
+
 ---
 
 ### Financial Intelligence Unit, Excise Dept. ink agreement to exchange info on criminal matters
@@ -1733,6 +1749,8 @@ After the complaint was lodged in August 2022 the number had significantly reduc
 ...
 
 [Data](articles/7bd3c594.json)
+
+[Extended Data](ext_articles/7bd3c594.ext.json)
 
 ---
 

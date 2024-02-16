@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 09:02:33**
+As of **2024-02-16 09:17:16**
 
 ## Newspaper Stats
 
-*Scraped **7,393** Articles*
+*Scraped **7,395** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 385
 economynextcom | 387
 dailyftlk | 400
-adalk | 630
+adalk | 631
 adaderanalk | 901
 tamilmirrorlk | 902
 virakesarilk | 968
 adaderanasinhalalk | 1,044
-dailymirrorlk | 1,082
+dailymirrorlk | 1,083
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,388 (99.9%) of 7,393 articles have been extended.
+7,393 (100.0%) of 7,395 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,22 @@ Police said that two people who had cut the tree have been arrested regarding th
 [Data](articles/168665bb.json)
 
 [Extended Data](ext_articles/168665bb.ext.json)
+
+---
+
+### Sarath Fonseka to be axed from SJB chairmanship
+
+*2024-02-16 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sarath-Fonseka-to-be-axed-from-SJB-chairmanship/108-277133) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - Samagi Jana Balawegaya (SJB) is to expel its MP Sarath Fonseka from the post of party chairman shortly over his latest remarks affecting the party politically, a source said.
+
+A source close to party leader Sajith Premadasa, said expulsion will be done very soon. Asked whether he will be removed from the party, he said it will lead to a process involving litigation but the party leader has the discretion to expel him from chairmanship.
+
+MP Fonseka has been openly critical of the SJB and its leadership despite warnings. Recently, Mr. Fonseka held talks with President Ranil Wickremesinghe triggering speculation that he will join the government at any time.
+
+◼️
+
+[Data](articles/e9117771.json)
 
 ---
 
@@ -315,6 +331,8 @@ National Cleaner Production Center (NCPC), Sri Lanka, which was established by U
 ...
 
 [Data](articles/ef58aea0.json)
+
+[Extended Data](ext_articles/ef58aea0.ext.json)
 
 ---
 
@@ -644,19 +662,21 @@ When compared to the Ramayana trail, he opined that the proposed Buddhist Trail 
 
 ---
 
-### இஸ்ரேல் - இலங்கை நேரடி விமான சேவை ஒப்பந்தம்
+### Israel - Sri Lanka Direct Airline Service Agreement
 
 *2024-02-16 03:45:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேல்-இலங்கை-நேரடி-விமான-சேவை-ஒப்பந்தம்/175-333300) · `ta`
 
-இஸ்ரேலுக்கும் இலங்கைக்கும் இடையிலான நேரடி விமான சேவை ஒப்பந்தம் நேற்று முற்பகல் கைச்சாத்திடப்பட்டதாக துறைமுகங்கள், கப்பற்றுறை மற்றும் விமான சேவைகள் அமைச்சர் நிமல் சிறிபால டி சில்வா தெரிவித்தார்.
+Ports, Shipping and Aviation Minister Nimal Siripala de Silva said the direct airline agreement between Israel and Sri Lanka was signed yesterday morning.
 
-இலங்கைப் பணியாளர்கள் வெளிநாடுகளுக்குச் செல்வதில் ஏற்படும் தாமதங்களைத் தடுப்பது இந்த ஒப்பந்தத்தின் முக்கிய நோக்கங்களில் ஒன்றாகும் என்றும்  அவர் குறிப்பிட்டார்.
+He added that one of the main objectives of the agreement is to prevent delays in Sri Lankan employees abroad.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் நிமல் சிறிபால டி சில்வா இவ்வாறு  தெரிவித்தார். (a)
+Minister Nimal Siripala de Silva said this at a media briefing held at the Presidential Media Center yesterday. (A)
 
 ◼️
 
 [Data](articles/ce208438.json)
+
+[Extended Data](ext_articles/ce208438.ext.json)
 
 ---
 
@@ -1392,6 +1412,22 @@ Accordingly, the police have arrested the police and the two persons who helped 
 
 ---
 
+### කල්පිටිය පොලිස් ස්ථානාධිපතිවරයාගේ වැඩ තහනම්
+
+*2024-02-15 20:08:13* · [`adalk`](https://www.ada.lk/breaking_news/කල්පිටිය-පොලිස්-ස්ථානාධිපතිවරයාගේ-වැඩ-තහනම්/11-408115) · `si`
+
+කාන්තා පොලිස් කොස්තාපල්වරියට ලිංගික අතරව කළ බවට ඉදිරිපත් වී ඇති චෝදනා අනුව කල්පිටිය පොලිස් ස්ථානාධිපතිවරයාගේ රාජකාරී වැඩ තහනම් කළ බව පොලිස් මූලස්ථානය නිවේදනය කරයි.
+
+මෙම සැකකරුට එරෙහිව වයඹ පළාත භා ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයාගේ නියෝගය පරිදි, කුලියාපිටිය කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරයා විසින් විමර්ශනයක් ආරම්භ කර ඒ පිළිබ ඳව පුත්තලම අධිකරණයට කරුණු වාර්තා කර තිබේ.
+
+ඒ අනුව මෙම  පොලිස් පරීක්ෂකවරයා පසුගිය 13 දා පුත්තලම මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ඇප මත මුදා හැර තිබේ. මේ පිළිබඳව පොලිස් මූලස්ථානය ඉදිරිපත් කළ කරුණු සලකා බලා පොලිස් කොමිෂන් සභාව මගින් පොලිස් පරීක්ෂකවරයාගේ රාජකාරී තහනම් කළ බව පොලිස් මූලස්ථානය  පවසයි.
+
+◼️
+
+[Data](articles/28b435f1.json)
+
+---
+
 ### No alternative routes - go carefully
 
 *2024-02-15 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193431) · `si`
@@ -1962,17 +1998,21 @@ A bond maturing on 01.07.2032 closed at 12.50/70 percent up from 12.35/60 percen
 
 ---
 
-### “3 வீதமான பிள்ளைகள் கல்வியை இழந்துள்ளனர்”
+### “3 percent of children have lost education”
 
 *2024-02-15 17:16:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வீதமான-பிள்ளைகள்-கல்வியை-இழந்துள்ளனர்/175-333277) · `ta`
 
-தொகை மதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் கூறும் பிரகாரம், வங்குரோத்து நிலை நாட்டில் 54% பாடசாலை மாணவர்களின் கல்வியில் தாக்கத்தை ஏற்பட்டுத்தியுள்ளது. பாடசாலை செல்லும் மாணவ மாணவிகளில் 3% ஆனோர் பாடசாலை செல்வதை நிறுத்திவிட்டனர். மேலும் பல மாணவ மாணவிகள் பாடசாலை உபகரணங்களை பெற்றுக் கொள்ள முடியாமல் மிகவும் சிரமத்திற்கு உள்ளாகியுள்ளனர் என எதிர்க்கட்சித் தலைவர்  சஜித் பிரேமதாச தெரிவித்தார்.
+According to the Department of Value and Statistics, 54% of school students have had an impact on the education of school students.. 3% of students who go to school have stopped going to school. Opposition leader Sajith Premadasa said that many students have been very inconvenienced from getting school equipment.
 
-பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத் திட்டத்தின் 98 ஆவது கட்டமாக 10 இலட்சம் ரூபாய் பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள் இரத்தினபுரி, பெல்படுல்ல விஜயபா மகா வித்தியாலயத்திற்கு வழங்கி வைக்கும் நிகழ்வில் வியாழக்கிழமை (15) கலந்து கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said this while addressing a function to provide smart classroom equipment worth Rs 10 lakh to the Belpadulla Vijayabha Maha Vidyalaya on Thursday (15).
+
+The main task of the government should be to protect the children and mothers and protect the citizens.. He said that it is the responsibility of the government to prepare a social security zone and ensure social security so that they take care of all the affected parties.
 
 ...
 
 [Data](articles/2ae4b87d.json)
+
+[Extended Data](ext_articles/2ae4b87d.ext.json)
 
 ---
 
@@ -2015,53 +2055,5 @@ Investigations have revealed that the fraud took place from 2023.06.09 to 2024.0
 [Data](articles/621dcf86.json)
 
 [Extended Data](ext_articles/621dcf86.ext.json)
-
----
-
-### Snowmade in some places in Nuwara Eliya
-
-*2024-02-15 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176466) · `ta`
-
-Following the inclement weather in many parts of the country, the weather is in the morning and evening in Nuwara Eliya. Also, the drivers are going to burn the home lights due to heavy snowfall.
-
-Especially on the Nuwara Eliya Hatton main road, Ruwan Elijah, Blackpool and Vendiconner, Nanuoya Ratalla Cross Road, Nuwara Eliya - Baduliya, Nuwara Eliya - Kandi -KandyThe traffic police have also asked for the vehicles to pay very careful as they light the home lights of the vehicles on the side.
-
-It is also worth noting that any of the road signals fitted on the streets due to heavy snowfall found on the main streets are invisible.
-
-◼️
-
-[Data](articles/93ca84cb.json)
-
-[Extended Data](ext_articles/93ca84cb.ext.json)
-
----
-
-### Maskeliya heated suit
-
-*2024-02-15 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193425) · `si`
-
-Police have arrested a group of youths in Sri Pada pilgrimage regarding the assault on a private bus driver and conductor.
-
-The arrested persons have been arrested by a group of youths in Galle where the age of 22 and 25.
-
-The youths were traveling from the Galle to Sri Pada pillowing from the Galle area from the Galle area and returned from a SLTB bus to the Hatton Railway Station.
-
-A private bus passenger bus, which was traveling to the SLTB bus, has attempted to pass it through it.
-
-In the meantime, the private bus on the SLTB bus was attacked in the small Maskeliya area.
-
-A young man who was arrested along with the stone was also wounded.
-
-At the same time, the bus and the bus driver and the conductor were assaulted by the bus.
-
-The driver and conductor of the private bus was injured in the attack have been admitted to the Dickhya Base Hospital for treatment.
-
-The suspects are to be produced before the Driver and Conductor of the Private Buses and the Conduct of the Private Buses.
-
-◼️
-
-[Data](articles/82a6b940.json)
-
-[Extended Data](ext_articles/82a6b940.ext.json)
 
 ---

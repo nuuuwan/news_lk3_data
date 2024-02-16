@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 00:32:49**
+As of **2024-02-17 00:48:10**
 
 ## Newspaper Stats
 
-*Scraped **7,558** Articles*
+*Scraped **7,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailyftlk | 402
 adalk | 645
 tamilmirrorlk | 920
 adaderanalk | 926
-virakesarilk | 995
+virakesarilk | 996
 adaderanasinhalalk | 1,077
-dailymirrorlk | 1,113
+dailymirrorlk | 1,116
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,557 (100.0%) of 7,558 articles have been extended.
+7,558 (99.9%) of 7,562 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-02-17 (Saturday)
+
+### Rocking the Cradle while Pinching the Baby
+
+*2024-02-17 00:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Rocking-the-Cradle-while-Pinching-the-Baby/172-277214) · `en`
+
+The President, in his policy statement said “However, contentment with this progress alone is not sufficient… By September 2023 our total debt burden was US $ 91 billion
+
+One of the main points that were highlighted by the media from the policy statement presented by President Ranil Wickremesinghe on February 7 after opening of the new session of the Parliament was the need for unity among major political parties in Parliament.
+
+He questioned as to why the Samagi Jana Balawegaya (SJB) cannot join the government if the Sri Lanka Podujana Permuna (SLPP) can do so in the interest of the country. He also questioned as to why the Janatha Vimukthi Peramuna (JVP) could not join hands with his government if they could work with his party in 2015 with a view to eradicate corruption.
+
+Again, at a function to mark the inauguration of the Anuradhapura North Water Supply Project on Thursday, the President reiterated his call for unity among political parties.
+
+...
+
+[Data](articles/cdf6bb04.json)
+
+---
+
+### The Health Sector and a Nation held to Ransom
+
+*2024-02-17 00:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Health-Sector-and-a-Nation-held-to-Ransom/172-277213) · `en`
+
+The health sector is one of the most important departments in any country. Recently, we had a Health Minister who dumped drugs unfit for human consumption on an unsuspecting population. Trade unions demanded his prosecution, and they were right.
+
+Now these self-same unions are attempting to hold the nation to ransom via unreasonable demands for what amounts to a huge Rs. 35,000 travel allowance.
+
+Two days ago, striking health workers once again called off their trade union action. This has been the second time within a week, these workers have taken trade union action demanding a Disturbance, Availability and Transport (DAT) allowance of Rs. 35,000.
+
+Calling off the strike, union authorities declared they called off their action further to the Health Ministry promising to discuss their grievances. What is strange about the sudden about turn however is that these TUs were days earlier in discussion with the health authorities regarding this very demand.
+
+...
+
+[Data](articles/a9fbebb1.json)
+
+---
+
+### வவுனியாவில் 06 குளங்களுக்கு 235,000 இறால் குஞ்சு விடும் நிகழ்வு
+
+*2024-02-17 00:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176582) · `ta`
+
+வவுனியா ஆசிக்குளம் கிராம சேவகர் பிரிவில் உள்ள 06 குளங்களுக்கு 235,000 இறால் குஞ்சு விடும் நிகழ்வு வெள்ளிக்கிழமை (15) இடம்பெற்றது.
+
+கமத்தொழில் மற்றும் பெருந்தோட்டத்துறை அமைச்சினால் முன்னெடுக்கப்பட்டு வரும் சிறியளவிலான விவசா, வணிக மீண்டெளல் திட்டத்தின் கீழ் ஆசிகுளம் கிராம சேவையாளர் பிரிவிற்குட்பட்ட 06 குளங்களில் இறால் குஞ்சுகள் விடும் செயற்பாடு முன்னெடுக்கப்படவுள்ளது.
+
+இதன் அங்குரார்ப்பண நிகழ்வானது வவுனியா கோமரசன்குளத்தில் இடம்பெற்றிருந்தது. இதன்போது கோமரசன்குளத்திலே ஐம்பதாயிரம் இறால் குஞ்சுகளை பிரதம விருந்தினர்களால் விடப்பட்டிருந்தது.
+
+இத்திட்டத்தின் இணைப்பாளர் எஸ். ஏச். ஏ. அஸ்ரவ் தலைமையில் இடம்பெற்ற இந்நிகழ்வில் வவுனியா மாவட்ட அரசாங்க அதிபர் பீ.ஏ.சரத்சந்திர, மேலதிக அரசாங்க அதிபர் தி.திரேஸ்குமார், மாவட்ட விவசாய பணிப்பாளர் திருமதி ஈஸ்வரன், மாவட்ட திட்டமிடல் பணிப்பாளர் வி. முகுந்தன், மாகாண பிரதி விவசாய பணிப்பாளர் அற்புதச்சந்திரன், தேசிய நீர் உயிரினச் செய்கை அபிவிருத்தி அதிகார சபையின் அதிகாரி யோ.நிசாந்தன் மற்றும் பொதுமக்கள் எனப் பலரும் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/923263bb.json)
+
+---
+
 ### 2024-02-16 (Friday)
+
+### 'Pansale Dansala'
+
+*2024-02-16 23:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Pansale-Dansala/110-277177) · `en`
+
+The Dansala program, initiated by Naga Vihara Kotte under the theme 'Pansale Dansala,' amid the COVID-19 pandemic, perseveres to this day, taking place every Friday. Individuals are observed receiving sustenance at the Dansala, a testament to the ongoing dedication to serving the community during these challenging times. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/be28d063.json)
+
+---
 
 ### Body of missing 10-year-old recovered; suspect confesses to rape, murder
 
@@ -53,6 +121,8 @@ According to the police, the suspect had been under the influence of alcohol at 
 ◼️
 
 [Data](articles/94496ed6.json)
+
+[Extended Data](ext_articles/94496ed6.ext.json)
 
 ---
 
@@ -2037,85 +2107,5 @@ India’s main opposition political party - the Congress claimed on Friday (Feb 
 [Data](articles/3cf88d3c.json)
 
 [Extended Data](ext_articles/3cf88d3c.ext.json)
-
----
-
-### Kill 99 journalists in 2023 - 72 Palestinians - Committee Report to Protect Journalists
-
-*2024-02-16 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176527) · `ta`
-
-Of these, 99 journalists were killed in 2023, 72 of them were Palestinians.
-
-The number of journalists killed in the world last year will be less than the previous years, if the journalists were not murdered in Gaza, it has been reported to protect journalists.
-
-We have already stated that more journalists have been killed than one year in the first three months of the Gaza-Israel war, ”the team said.
-
-Of the 77 journalists killed in Gaza, 72 are from Palestinians and two from Lebanon, CPJ said.
-
-The Gaza War has been seen as an unprecedented unprecedented aspect of the threat to journalists.
-
-In the wake of the war, CPJ's leader has said that the news that Gaza is only going to report what is going on inside Gaza is allowed to go into Gaza.
-
-He added that international journalists can only go there if the Israeli military is taken.
-
-So we rely on Palestinian journalists who are hosting their lives to uncover the news, ”the couple said.
-
-...
-
-[Data](articles/e0bd1b73.json)
-
-[Extended Data](ext_articles/e0bd1b73.ext.json)
-
----
-
-### Sajith's team
-
-*2024-02-16 12:59:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-அணிக்கு-தாவிய-இருவர்/175-333310) · `ta`
-
-Gamini Tilakasiri and Gamini Silva have thus joined the party to express their support for Sajith Premadasa. (Of)
-
-◼️
-
-[Data](articles/6a5f77c8.json)
-
-[Extended Data](ext_articles/6a5f77c8.ext.json)
-
----
-
-### Water in the kitchen;Woman killed
-
-*2024-02-16 12:57:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமையல்-அறைக்குள்-தண்ணீர்-பெண்-பலி/175-333309) · `ta`
-
-The water tank, which was insecurely fitted on the top floor, fell into the roof.
-
-◼️
-
-[Data](articles/63cf66dd.json)
-
-[Extended Data](ext_articles/63cf66dd.ext.json)
-
----
-
-### India’s Congress claims its bank accounts frozen on “flimsy grounds”
-
-*2024-02-16 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indias-Congress-claims-its-bank-accounts-frozen-on-flimsy-grounds/108-277168) · `en`
-
-India, Feb. 16 (Hindustan Times)- The Congress party on Friday alleged that four of its main bank accounts have been frozen by the Income Tax department on “flimsy grounds”.
-
-The accounts, including that of the Indian Youth Congress, were frozen on an Income Tax demand of ₹210 crore for 2018-19, an election year, Congress treasurer Ajay Maken said.
-
-Discover the thrill of cricket like never before, exclusively on HT. Explore now!
-
-Maken added that Congress had filed its Income Tax return for the concerned year a “few days late” and that is why this action, according to PTI.
-
-“Democracy has completely ended in India. All the accounts of the country's main opposition party have been frozen,” Maken said in a press conference.
-
-Maken said that the party was informed on Thursday that banks are not honouring the cheques issued by the party.
-
-...
-
-[Data](articles/60bdefb4.json)
-
-[Extended Data](ext_articles/60bdefb4.ext.json)
 
 ---

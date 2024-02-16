@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 14:33:06**
+As of **2024-02-16 14:49:29**
 
 ## Newspaper Stats
 
-*Scraped **7,462** Articles*
+*Scraped **7,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 637
 tamilmirrorlk | 912
 adaderanalk | 914
 virakesarilk | 979
-adaderanasinhalalk | 1,057
+adaderanasinhalalk | 1,058
 dailymirrorlk | 1,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,462 (100.0%) of 7,462 articles have been extended.
+7,463 (100.0%) of 7,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### 16 hours water cut
+
+*2024-02-16 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193465) · `si`
+
+The water supply and drainage board says that the water cut will be imposed from 5 am to 9 pm tomorrow (17).
+
+◼️
+
+[Data](articles/1421d4ee.json)
+
+[Extended Data](ext_articles/1421d4ee.ext.json)
+
+---
 
 ### Minor workers prisoner
 
@@ -2055,31 +2069,5 @@ The President said that the people's ideas will be obtained within two weeks and
 [Data](articles/c0c4f9c5.json)
 
 [Extended Data](ext_articles/c0c4f9c5.ext.json)
-
----
-
-### Narammala Police Shoot: 'The 10 lakhs were not found out of us'
-
-*2024-02-16 02:03:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp3erlmr3j1o) · `si`
-
-It contains nothing here. Play Video, "Narammala Police Shooting:" The Running Time 5,0005: 00 Video Head, Police Officers at the same timeAs a suspect, the aggrieved party lawyers say that only one person is being taken to court and investigating.
-
-Narammala Police Shoot: 'The 10 lakhs were not found out of us'
-
-Roshan Kumarasiri's wife, who had died due to the death of her husband, had also been disturbed by the police department as promised by the police firing.
-
-"Mr. Deshabandu came and decided that my hand was given the value of Mr. Mother at the time."
-
-The shooting took place in Narammala, Narammala, Narammala, Narammala, Narammala.
-
-At the time, two policemen were present at the same time, but the police are not satisfied with the suspects.
-
-Meanwhile, police spokesman, Nihal Talduwa told Sinhala that the other police officer needs to be named a suspect.
-
-◼️
-
-[Data](articles/cb2b9c84.json)
-
-[Extended Data](ext_articles/cb2b9c84.ext.json)
 
 ---

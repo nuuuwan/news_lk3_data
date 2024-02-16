@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 21:33:26**
+As of **2024-02-16 21:51:59**
 
 ## Newspaper Stats
 
-*Scraped **7,539** Articles*
+*Scraped **7,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,68 @@ adalk | 642
 tamilmirrorlk | 919
 adaderanalk | 923
 virakesarilk | 991
-adaderanasinhalalk | 1,074
-dailymirrorlk | 1,108
+adaderanasinhalalk | 1,075
+dailymirrorlk | 1,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,539 (100.0%) of 7,539 articles have been extended.
+7,542 (100.0%) of 7,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### How to poisoning the two in police cage
+
+*2024-02-16 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193482) · `si`
+
+The Colombo Crimes Division was arrested by the Colombo Crimes Division.
+
+The suspects were retained for seven days after the suspects were submitted to Welisara and Maligakanda Magistrate's Court today (16).
+
+Two suspects in custody in the police custody in custody of the Adrappiri were arrested by a person who visited them.
+
+The person who was hospitalized and hospitalized has been recovered and three suspects who have been arrested and handed over to the incident have been arrested by the Colombo Crimes Division for further investigations.
+
+Meanwhile, the organized criminal investigation unit of the Colombo Crimes Division was arrested by the organized criminal investigation unit of the Colombo Crimes Division yesterday afternoon.
+
+The main suspect is a 26 year old resident of Wattala.
+
+The preliminary investigation was revealed that the son of Kudu Selvi and Kajipani Imran has asked him to call him over the phone.
+
+More than 10 grams of ice drugs in the suspect have been found.
+
+...
+
+[Data](articles/f37882b3.json)
+
+[Extended Data](ext_articles/f37882b3.ext.json)
+
+---
+
+### Two Iranian Navy ships in Colombo
+
+*2024-02-16 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Iranian-Navy-ships-in-Colombo/108-277187) · `en`
+
+Colombo, Feb 16 (Daily Mirror) -  The Iranian Navy Ship (IRINS) Bushehr and Tonb arrived at the port of Colombo on a formal visit this morning.
+
+IRINS Bushehr is a 107 metre long ship manned by 270 crew members and is commanded by Commander Mahdi Balvardi. IRINS Tonb is a 94.94 metre long platform with a crew of 250. It is commanded by Commander Mohammed Haji Zadeh.
+
+Meanwhile, the Commanding Officers of the ships are scheduled to call on Commander Western Naval Area and Director General Operations of the Sri Lanka Navy during their stay in the country.
+
+In addition, naval personnel from both nations are anticipated to participate in various programmes aimed at fostering cooperation.
+
+Moreover, Officer Cadets and personnel from the Sri Lanka Navy will visit the Iranian Navy Ships in Colombo, and reciprocally, Officer Cadets and personnel from the Iranian ships will visit Sri Lanka Navy ships. The duo of Iranian Navy ships are scheduled to depart the island on 19 February.
+
+◼️
+
+[Data](articles/1ac79ac2.json)
+
+[Extended Data](ext_articles/1ac79ac2.ext.json)
+
+---
 
 ### Accident on Kilinochchi Paranthan Road: Bus collided with buffalo cows
 
@@ -237,6 +287,24 @@ Mr. Sirisena, who was president from 2015 to 2019, emphasized during a meeting w
 [Data](articles/84795075.json)
 
 [Extended Data](ext_articles/84795075.ext.json)
+
+---
+
+### Carpenter’s widow demands Rs. 200 million from police
+
+*2024-02-16 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Carpenters-widow-demands-Rs-200-million-from-police/155-277184) · `en`
+
+Colombo, Feb 16 (Daily Mirror) -  The widow of the carpenter who died in the Narammala police shooting incident today filed a Fundamental Rights petition before the Supreme Court seeking a compensation of Rs. 200 million from the police officers including Acting IGP Deshabandu Tennakoon.
+
+The deceased Roshan Kumarasiri was shot dead by Sub Inspector Gunawardena who was on duty in civvies when the deceased was returning home after work.
+
+The petitioner Kamani Rupika Priyangani stated that she entered into marriage with the deceased Roshan Kumarasiri in 2007, and they have three children. She said the two elder girls are twins who are presently 16 years of age and they are expecting to sit for the G.C.E. (O/L) Examinations this year. The petitioner states that the younger child is a son who is eight years of age an is studying in Grade three of the school.
+
+...
+
+[Data](articles/3b477c16.json)
+
+[Extended Data](ext_articles/3b477c16.ext.json)
 
 ---
 
@@ -2017,63 +2085,5 @@ After the complaint was lodged in August 2022 the number had significantly reduc
 [Data](articles/7bd3c594.json)
 
 [Extended Data](ext_articles/7bd3c594.ext.json)
-
----
-
-### Forensic audit reveals frauds at Ceylon Petroleum Corporation
-
-*2024-02-16 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Forensic-audit-reveals-frauds-at-Ceylon-Petroleum-Corporation/108-277165) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - KPMG's forensic audit into discrepancies at Ceylon Petroleum Corporation (CPC) and Ceylon Petroleum Storage Terminals (CPSTL) has revealed substantial losses attributed to alterations and deletions in SAP data related to stock holdings.
-
-The forensic audit was initiated in response to a complaint filed by the Power and Energy Minister with the Criminal Investigations Department (CID) in August 2022.
-
-The major findings of the forensic audit conducted by KPMG on the sales and distribution of petroleum products from the CPSTL was briefed to Minister Kanchana Wijesekera last afternoon.
-
-Accordingly, the KPMG and CPSTL audit investigation officials have found that more than 1.3 million entries on SAP data have been changed or deleted since 2010 and most have occurred in 2022 during the height of the fuel crisis.
-
-After the complaint was lodged in August 2022 the number had significantly reduced in 2023.
-
-...
-
-[Data](articles/c6a7f64b.json)
-
-[Extended Data](ext_articles/c6a7f64b.ext.json)
-
----
-
-### Sridharan met Jeevan
-
-*2024-02-16 11:40:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜீவனை-சந்தித்தார்-ஸ்ரீதரன்/71-333303) · `ta`
-
-Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress, has met with Sivagnanam Sridharan, who has been elected as the leader of the Sri Lanka Tamil National Alliance (TNA).
-
-Jeevan Thondaman congratulated Sivagnanam Sridharan, who was elected as the leader of the Sri Lankan Tamil party.
-
-Discussions on water supply to be carried out in the Kilinochchi district in Jaffna were also discussed.
-
-◼️
-
-[Data](articles/edaff461.json)
-
-[Extended Data](ext_articles/edaff461.ext.json)
-
----
-
-### Saman Ekanayake’s petition against PCoI on political victimization heard before SC
-
-*2024-02-16 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97316/saman-ekanayakes-petition-against-pcoi-on-political-victimization-heard-before-sc) · `en`
-
-The Supreme Court has heard the petition challenging the decisions and recommendations made against the current President’s Secretary Saman Ekanayake by the Presidential Commission of Inquiry (PCoI) appointed by former President Gotabaya Rajapaksa to investigate alleged incidents of political victimisation.
-
-A group of individuals including the then-Prime Minister’s Secretary and current Secretary to the President Saman Ekanayake had filed the petition requesting to invalidate the decisions and recommendations made against him by the PCoI headed by retired Supreme Court Judge Upali Abeyratne.
-
-The petition was taken up for hearing before a three-member Supreme Court judge bench comprising Vijith Malalgoda, Achala Vengappuli and Arjuna Obeysekara, Ada Derana reporter said.
-
-...
-
-[Data](articles/d7b58b12.json)
-
-[Extended Data](ext_articles/d7b58b12.ext.json)
 
 ---

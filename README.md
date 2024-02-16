@@ -1,114 +1,162 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 08:02:25**
+As of **2024-02-16 08:17:31**
 
 ## Newspaper Stats
 
-*Scraped **7,367** Articles*
+*Scraped **7,388** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 84
-bbccomsinhala | 96
+bbccomsinhala | 97
 dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 382
 economynextcom | 387
-dailyftlk | 389
+dailyftlk | 400
 adalk | 630
-tamilmirrorlk | 899
+tamilmirrorlk | 900
 adaderanalk | 901
-virakesarilk | 962
-adaderanasinhalalk | 1,043
-dailymirrorlk | 1,081
+virakesarilk | 968
+adaderanasinhalalk | 1,044
+dailymirrorlk | 1,082
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,362 (99.9%) of 7,367 articles have been extended.
+7,367 (99.7%) of 7,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### ජනාධිපති ලේකම් ගෙන් පෙත්සමක්
+### ගසකට යටවී තවත් ජීවිතයක් අහිමි වෙයි
+
+*2024-02-16 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193446) · `si`
+
+ගමන් කරමින් සිටි පුද්ගලයෙකුගේ ඇඟ මතට කපන ලද කිතුල් ගසක් වැටීමෙන් එම පුද්ගලයා ජීවිතක්ෂයට පත්වී තිබේ.
+
+හඟුරන්කෙත කැටිල්ලවල ප්‍රදේශයේදී ඊයේ (15) සවස් කාලයේදී මෙම අනතුර සිදුවී ඇති අතර බරපතළ තුවාල ලද එම පුද්ගලයා රිකිල්ලගස්කඩ රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+
+පොලීසිය සඳහන් කළේ එම මරණය සම්බන්ධයෙන් ගස කපන ලද පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/168665bb.json)
+
+---
+
+### Petition from the Secretary to the President
 
 *2024-02-16 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193445) · `si`
 
-හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා විසින් දේශපාලන පළිගැනීම් පිළිබඳව සොයාබැලීම සඳහා පත්කරන ලද ජනාධිපති පරීක්ෂණ කොමිසම විසින්  වත්මන් ජනාධිපති ලේකම් සමන් ඒකනායක මහතාට එරෙහිව සිදුකර ඇති නිර්දේශ සම්පූර්ණයෙන්ම  නීතියට පටහැනි බවට ඉදිරිපත් කර ඇති පෙත්සම ශ්‍රේෂ්ඨාධිකරණය හමුවේ විභාගයට ගෙන තිබේ.
+The petition filed by the Presidential Commission of Investigation Commission (Presidential Commission) appointed by former President Gotabhaya Rajapaksa has taken the recommendations made against the Presidential Secretary to the President Saman Ekanayake has taken the Supreme Court in the case.
 
-විශ්‍රාමික ශ්‍රේෂ්ඨාධිකරණ විනිසුරු උපාලි අබේරත්න මහතාගේ ප්‍රධානත්වයෙන් යුත් අදාළ කොමිසම විසින් තමන්ට එරෙහිව සිදු කරන ලද තීරණ සහ නිර්දේශ බලරහිත කරන ලෙස ඉල්ලා එවකට අගමැති ලේකම් ලෙස කටයුතු කළ වර්තමාන ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ඇතුළු පිරිසක් විසින් පෙත්සම ගොනු කර තිබුණි.
+The petition was filed by the present President of the Presidential Secretary to the President, asking the Secretary to the Prime Minister at the time asking for the use of decisions and recommendations made by retired Supreme Court Judge Upali Akarawa.
 
-ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල හමුවේ මෙම පෙත්සම් විභාගය පැවැත්වූ බව අද දෙරණ අධිකරණ වාර්තාකරු සඳහන් කළේය.
+The petition reporter said that the petition was taken by the three-member Supreme Court Bench.
+
+President's Counsel Upul Kumarapperuma has been accused of illegal to a NGO of the Secretary of the Assistant Committee of the Secretary to the Presidential Secretary to the Presidential Secretary Saman Ekanayake.Did.
 
 ...
 
 [Data](articles/a260bb70.json)
 
+[Extended Data](ext_articles/a260bb70.ext.json)
+
 ---
 
-### විධායක ජනපති ක්‍රමය අහෝසි කිරීමට මහින්දගේ සහාය
+### Mahinda's help to abolish executive presidency
 
 *2024-02-16 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193444) · `si`
 
-විධායක ජනාධිපති ක්‍රමය අහෝසි කිරීම සඳහා තම සහාය හිමිවන බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+Former President Mahinda Rajapaksa says he will support the abolition of the Executive Presidency.
 
-"අවුලක් නැහැ. නැති කළොත් හොඳයි. මම හිටපු එකනේ. අද රටම කියන්නේ නැති කරන්න කියලනේ. "
+"There is no mess. Well done if it is. I'm on the one. The country's country is told to be lost. "
 
 ◼️
 
 [Data](articles/486f29c7.json)
 
+[Extended Data](ext_articles/486f29c7.ext.json)
+
 ---
 
-### ඊශ්‍රායලය සහ ශ්‍රී ලංකාව අතර සෘජු ගුවන් ගමන් පිළිබඳ සම්මුතියක්
+### Convention on direct flights between Israel and Sri Lanka
 
 *2024-02-16 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193443) · `si`
 
-ඊශ්‍රායලය සහ ශ්‍රී ලංකාව අතර සෘජු ගුවන් සේවා සම්මුතියකට අත්සන් තැබු බව වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පවසයි.
+Minister of Ports, Naval and Aviation, says that a direct aviation compromise between Israel and Sri Lanka were signed between Sri Lanka.
 
-ඔහු සඳහන් කළේ මෙරට ශ්‍රමිකයන් විදෙස්ගත කිරීමේදී සිදුවන ප්‍රමාදය වැළැක්වීම මෙම ගිවිසුමේ ප්‍රධාන අරමුණක් වන බවය.
+He referred to the main objective of this agreement to prevent the delay in foreign workers.
 
-එමෙන්ම කොළඹ වරාය සම්බන්ධයෙන් අදහස් දක්වමින් ඔහු සඳහන් කළේ එහි පුළුල් කිරීම් ද ක්‍රියාත්මක කරන බවය.
+Speaking on the Colombo Port, he stated that the expansion is being implemented.
 
 ◼️
 
 [Data](articles/7c5117a2.json)
 
+[Extended Data](ext_articles/7c5117a2.ext.json)
+
 ---
 
-### හිමිනම ඝාතනයේ තවත් සැකකරුවෙකු කොටු වෙයි
+### Another suspect in monk is trapped
 
 *2024-02-16 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193442) · `si`
 
-මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයකදී හිමිනමක් වෙඩි තබා ඝාතනය කිරීමේ  සිද්ධියට අදාළව සැකකරුවෙකු බියගමබ මල්වාන ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+A suspect has been arrested in connection with the killing of a monk shooting at a temple in Malwathuhiripitiya.
 
-සැකකරු සන්තකයේ මෙරට නිෂ්පාදිත අත්බෝම්බයක් සහ අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 10 ක් පමණ තිබූ බවද පොලීසිය පැවසීය.
+The suspect was about 10 milligrams of manufactured manufactured and ice drugs in the possession of the suspect.
 
-පොලීසිය සඳහන් කළේ අදාළ සැකකරු එම අපරාධයට සෘජුවම සම්බන්ධ බවට සැක කරන බවය.
+Police said the suspect would be directly involved in the crime.
 
-සිද්ධිය සම්බන්ධයෙන් බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසය වැඩිදුර විමර්ශන සිදුකරයි.
+Western Province North Criminal Division is conducting further investigations.
 
 ◼️
 
 [Data](articles/2fe0bef7.json)
 
+[Extended Data](ext_articles/2fe0bef7.ext.json)
+
 ---
 
-### ගෙවල් බිඳුම් රැසක් ගැන අනාවරණයක්
+### Commonwealth Enterprise chief in Colombo next week
+
+*2024-02-16 07:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Commonwealth-Enterprise-chief-in-Colombo-next-week/108-277114) · `en`
+
+Sri Lanka’s private sector and government are to get fresh insights from a chief of a Commonwealth trade and investment organisation next week besides opportunities to expand businesses across the 56 Member States of the Commonwealth.
+
+Commonwealth Enterprise and Investment Council (CWEIC) Chairman Lord Marland will meet President Ranil Wickremesinghe during his visit to Sri Lanka from February 19 to 21, 2024, as part of his larger trip to South and South East Asia.
+
+On February 19, along with Wickremesinghe, he will be meeting Investment Promotion State Minister Dilum Amunugama. In the evening, CWEIC Strategic Partner Port City Colombo is hosting him with prominent government and business leaders.
+
+On February 20, Marland will meet with British High Commissioner Andrew Patrick.
+
+Throughout the two days, he will meet with the CWEIC’s current Strategic Partners, including Capital Maharaja Group Group Director Niro Cooke, who also serves on the statutory board of the CWEIC.
+
+...
+
+[Data](articles/ec6da29a.json)
+
+---
+
+### Disclosure of many houses
 
 *2024-02-16 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193441) · `si`
 
-කිරිබත්ගොඩ පොලීසිය විසින් ඉකුත් 13 වනදා අත්අඩංගුවට ගත් සැකකරුවෙකු රඳවාගෙන ප්‍රශ්න කිරීමේදී අපරාධ රැසක් සම්බන්ධයෙන් තොරතුරු හෙළිවී තිබේ.
+The Kiribathgoda Police arrested a suspect who was arrested last 13 and interrogation.
 
-37 හැවිරිදි සැකකරු කිරිබත්ගොඩ, පෑලියගොඩ, කඩවත, කිරුළපන, බොරලැස්ගමුව හා වත්තල යන පොලිස් වසම් තුළ සිදුකළ ගෙවල් බිඳුම් රැසක් පිළිබඳ තොරතුරු හෙළිකර ඇත.
+The suspect was 37 years old, Kiribathgoda, Peliyagoda, Kadawatha, Boralesgamuwa and Wattala Police Divisions.
 
-සැකකරුගෙන් ලද තොරතුරු අනුව ඊයේ (15) තවත් සැකකරුවෙකු සහ සැකකාරියක ග්‍රෑන්ඩ්පාස් පොලිස් වසමේදී අත්අඩංගුවට ගෙන තිබේ.
+According to information received from the suspect, another suspect and a suspect was arrested in the Grandpass Police Division.
 
 ◼️
 
 [Data](articles/75f85b30.json)
+
+[Extended Data](ext_articles/75f85b30.ext.json)
 
 ---
 
@@ -134,6 +182,104 @@ The bill was approved by 176 lawmakers in the 300-seat parliament and will becom
 
 ---
 
+### நிறைவேற்று அதிகாரஜனாதிபதிமுறையை நீக்குவது சரியான விடயம் - நான் ஏற்கனவே அதனை அனுபவித்துவிட்டேன் – மகிந்த
+
+*2024-02-16 06:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176500) · `ta`
+
+நிறைவேற்று அதிகாரமுறையை நீக்குவது சரியான நடவடிக்கை என தெரிவித்துள்ள முன்னாள்  ஜனாதிபதி மகிந்த ராஜபக்ச தான் ஏற்கனவே நிறைவேற்று அதிகார ஜனாதிபதிமுறையை அனுபவித்துவிட்டதாக தெரிவித்துள்ளார்.
+
+நாட்டின் அரசியல் நிலைமை எவ்வாறு உள்ளது என்ற செய்தியாளர் ஒருவரின் கேள்விக்கு நாட்டின் அரசியல் நிலைசிறப்பானதாக உள்ளது நிறைவேற்று அதிகார முறையை நீக்குவது நல்லது  என மகிந்த ராஜபக்ச தெரிவித்துள்ளார்.
+
+முழுநாடும் நிறைவேற்று அதிகார ஜனாதிபதிமுறையை நீக்கவேண்டும் என வேண்டுகோள் விடுப்பதால் அதனை நீக்கவேண்டும் என முன்னாள் ஜனாதிபதி தெரிவித்துள்ளார்.
+
+ஜனாதிபதி தேர்தலை பிற்போட முயல்வது எதிர்கட்சியினருக்கான பொறியாக அமையலாம் எங்களிற்கு ஜனாதிபதி ரணில்விக்கிரமசிங்க குறித்து நன்கு தெரியும் என மகிந்தராஜபக்ச தெரிவித்துள்ளார்.
+
+எந்ததேர்தல் என்றாலும் எங்கள் வேட்பாளர்கள் வெற்றிபெறுவார்கள் சரியான தருணத்தில் அவர்கள் மேடைக்கு வருவார்கள் அதுவரை பொறுத்திருங்கள் என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/37dad217.json)
+
+---
+
+### அனுமதியற்ற முறையில் நிர்மாணிக்கப்பட்டுள்ள சட்டவிரோத கட்டிடங்களை அகற்ற நடவடிக்கை - லலித் யு கமகே
+
+*2024-02-16 06:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176494) · `ta`
+
+மாத்தளை மாநகர சபைக்குட்பட்ட பகுதியில் அனுமதியற்ற முறையில் நிர்மாணிக்கப்பட்டுள்ள சட்டவிரோத கட்டிடங்களை அகற்ற நடவடிக்கை எடுக்குமாறு மத்திய மாகாண ஆளுநர் லலித் யு கமகேவினால்  மாத்தளை மாநகர ஆணையாளருக்கு வியாழக்கிழமை (15) அதிரடியான  அறிவிப்பு செய்யப்பட்டுள்ளது
+
+மாத்தளை மாவட்ட ஒருங்கிணைப்புக் குழுவில் கலந்து கொண்டு  உரையாற்றுகையில் ஆளுநர் மேற்படி அறிவிப்பினை செய்துள்ளார்.
+
+முன்னாள் நகரபிதா ஒருவரின் உறவினர்    ஹிக்கொல்ல வீதியில் மாநகர சேவை நிலையத்திற்கு முன்பாக உள்ள பகுதியில் நிர்மாணிக்கப்பட்டுள்ள  சட்டவிரோத கட்டிட  நிர்மாணம் தொடர்பாக,  ஊடகங்களில் வெளியான செய்திகள் குறித்து, ஆளுநர் அவதானம் செலுத்தி வருவதாகவும் அவ்வாறான  சட்டவிரோத கட்டுமானங்களை உடனடியாக அகற்ற வேண்டும் எனவும் ஆளுநர் வலியுறுத்தியுள்ளார்.
+
+...
+
+[Data](articles/66e89f37.json)
+
+---
+
+### குரங்குகளை கட்டுப்படுத்த நாட்டு துப்பாக்கி "நிரந்தர தீர்வாக அமையாது" - சுற்றுச்சூழல் நீதிக்கான மையம்
+
+*2024-02-16 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176493) · `ta`
+
+இலங்கையில் குரங்குகளின் தொல்லை நாளுக்கு நாள் அதிகரித்து விவசாயத்திற்கும், மனிதர்களுக்கும் கடும் பாதிப்புகளை ஏற்படுத்தி வருவதால், அவற்றை கட்டுப்படுத்த விவசாயிகளுக்கு நாட்டுத் துப்பாக்கியின் பயன்பாட்டை அனுமதிப்பது என்ற இலங்கை அரசாங்கத்தின் தீர்மானத்திற்கு எதிர்ப்பு வெளியிடப்பட்டுள்ளது.
+
+“குரங்கு மற்றும் மர அணில்களை விரட்ட அல்லது கட்டுப்படுத்த நாட்டுத் துப்பாக்கியை பயன்படுத்துவது என்ற நடைமுறை தொடங்கிவிட்டால், அது இதர விலங்குகளை கடுமையாக பாதிக்கும். அந்த துப்பாக்கியில் பயன்படுத்தப்படும் ஈயத்தினால் ஆன சிறிய குண்டு ஏனைய விலங்கினங்களுக்கு பாரிய பாதிப்பை ஏற்படுத்தும், சில சமயங்களில் அந்த விலங்குகள் உயிரிழக்கவும் வாய்ப்பு உள்ளது” என சுற்றுச்சூழல் நீதிக்கான மையத்தின், கொள்கை மற்றும் செயற்பாட்டு அதிகாரி ஜனக விதானகே தெரிவிக்கின்றார்.
+
+கேகாலை மாவட்டத்தில் விவசாயத்திற்கு பாதிப்பினை ஏற்படுத்தும் குரங்குகளை கட்டுப்படுத்தும் நோக்கில் விவசாயிகளுக்கு உயர்தர நாட்டுத் துப்பாக்கிகளை கொள்வனவு செய்வதற்கு நிதி ஒதுக்கப்படுமென, நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய நேற்று (14) தெரிவித்திருந்தார்.
+
+...
+
+[Data](articles/d09992ca.json)
+
+---
+
+### புலனாய்வு பிரிவிற்கு காணி வழங்குமாறு பரிந்துரை :; வவுனியா மாவட்ட ஒருங்கிணைப்புகுழு கூட்டத்தில் எதிர்ப்பு
+
+*2024-02-16 06:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176495) · `ta`
+
+வவுனியா பூங்காவீதியில் அமைந்துள்ள காணியில்  தேசிய புலனாய்வு அலுவலகத்திற்கு இடம் வழங்குவதற்கு வடமாகாண ஆளுநர் பரிந்துரைத்துள்ள நிலையில் மாவட்ட ஒருங்கிணைப்பு குழுக்கூட்டத்தில் அதற்கு எதிர்ப்பு வெளியிடப்பட்டது.
+
+இதன்போது காணியற்ற அரச திணைக்களங்களான அரச ஒசுசல, புவிச்சரிதவியல் திணைக்களம்,தெங்கு அபிவிருத்திசபை,பனை அபிவிருத்திசபை, சமூக நீர்வழங்கல் திணைக்களம், தேசிய புலனாய்வு அலுவலகம், மற்றும் பொது அமைப்புக்களான முச்சகரவண்டி உரிமையாளர் சங்கம், சிகை அலங்கரிப்பாளர் சங்கம், பேருந்து உரிமையாளர் சங்கம், பாரவூர்திசங்கம், ஓய்வூதியர் சங்கம் ஆகியன தமக்கு நகரப்பகுதியில் காணி ஒதுக்கித்தருமாறு வவுனியாபிரதேச செயலகத்திடம் கோரிக்கை விடுத்திருந்ததாக தெரிவிக்கப்பட்டது
+
+அதற்கமைய குறித்த அமைப்புக்களுக்கு வவுனியா பூங்காவீதியில் அமைந்துள்ள பகுதி மற்றும் திருநாவற்குளம் பாரவூர்தி தரிப்பிடம் ஆகியவற்றை பிரித்து வழங்குவதற்கு மாவட்ட ஒருங்கிணைப்பு குழுவிடம் இன்று அனுமதி கோரப்பட்டிருந்தது.
+
+...
+
+[Data](articles/96b70f92.json)
+
+---
+
+### அலதெனியவில் விபத்து : ஸ்தலத்திலேயே ஒருவர் உயிரிழப்பு
+
+*2024-02-16 06:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176497) · `ta`
+
+கண்டி தேசிய வைத்தியசாலையில் சிகிச்சை பெறுவதற்காக (கிளினிக்) தனது மனைவியுடன் மோட்டார் சைக்கிளில் பயணித்த ஒருவர் அலதெனிய பிரதேசத்தில் இடம்பெற்ற விபத்தில் படுகாயமடைந்து ஸ்தலத்திலேயே உயிரிழந்துள்ளார்.
+
+வியாழக்கிழமை (15) காலை இந்த விபத்து இடம்பெற்றுள்ளதுடன், குருநாகல், மெல்சிறிபுர பகுதியைச் சேர்ந்த கீர்த்தி பண்டார என்ற 43 வயதுடைய நபரே  இவ்வாறு உயிரிழந்துள்ளார்.
+
+கண்டியில் இருந்து குருநாகல் நோக்கி பயணித்த ஜீப் ஒன்று வேகத்தை கட்டுப்படுத்த முடியாமல் வீதியை விட்டு விலகி கல்வெட்டில் மோதி மீண்டும் வீதியை நோக்கி வந்ததில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/0e44134a.json)
+
+---
+
+### $100m FDI BOI project to establish industrial site in Puttalam sabotaged
+
+*2024-02-16 06:17:01* · [`dailyftlk`](https://www.ft.lk/columns/100m-FDI-BOI-project-to-establish-industrial-site-in-Puttalam-sabotaged/4-758548) · `en`
+
+I make the following clarifications in relation to the article “SJB’s reply to President’s policy statement” in the Daily Financial Times of 9 February 2024. Particularly, with reference to Sri Lanka Cement Corporation (not Sri Lanka Insurance Corporation) and providing clarity on Puttalam Ilmenite Ltd.
+
+The Sri Lanka Cement Corporation (SLCC) entered into a 30-year agreement with Asha Minerals Ltd. on 10 April 2023 without due process and in violation of a multitude of protocols. At the time of entering into the agreement it is believed, Asha’s share capital was Rs 1,000; 100% owned by one individual; no mineral licences from GSMB; no track record in the minerals sector. The only non-political appointee of Sri Lanka Cement Corporation board, Treasury representative W.A. Walpita had voted against entering into the agreement with Asha. Leasehold rights holder Siam City Cement was not aware of the agreement with Asha Minerals Ltd. and had lodged a complaint with the relevant authorities.
+
+...
+
+[Data](articles/8d37c635.json)
+
+---
+
 ### Thundershowers possible in several areas including Western Province
 
 *2024-02-16 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97309/thundershowers-possible-in-several-areas-including-western-province) · `en`
@@ -151,6 +297,38 @@ The public is requested to take adequate precautions to minimize damages caused 
 [Data](articles/c3e5deee.json)
 
 [Extended Data](ext_articles/c3e5deee.ext.json)
+
+---
+
+### சர்வதேச நாணயநிதியத்தின் திட்டத்திற்கு இடையூறு ஏற்பட்டால் பெரும் பொருளாதார நெருக்கடி உருவாகலாம் - மத்திய வங்கி
+
+*2024-02-16 06:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176498) · `ta`
+
+சர்வதேச நாணயநிதியத்தின் திட்டத்தினை முன்னெடுக்கமுடியாத நிலையேற்பட்டால் பெரும் பொருளாதார ஆபத்து ஏற்படலாம் என மத்திய வங்கி தெரிவித்துள்ளது.
+
+உலகப்பொருளாதார வீழ்ச்சி காரணமாக ஏற்றுமதிக்கு ஏற்பட்டுள்ள ஆபத்துகளிற்கு மத்தியில் இலங்கை பொருளாதார நெருக்கடியிலிருந்து மீண்டுவருகின்றது என தெரிவித்துள்ள இலங்கை மத்திய வங்கி சர்வதேச நாணயநிதியத்தின் திட்டம் தடம்புரண்டால் பெரும்பொருளாதார ஆபத்து ஏற்படலாம் என தெரிவித்துள்ளது.
+
+சர்வதேச நாணயநிதியத்தின் திட்டத்திற்கு ஏதேனும் இடையூறுஏற்பட்டால் வளர்ச்சிபாதிக்கப்பட்டமை,நம்பிக்கையின்மை முதலீட்டாளர்களின் எதிர்மறை உணர்வுகள் காரணமாக பெரும் பொருளாதார இழப்புகளை எதிர்கொள்ளவேண்டியிருக்கும் என இலங்கை மத்திய வங்கி தெரிவித்துள்ளது.
+
+இலங்கை தனது பொருளாதாரத்தை ஸ்திரப்படுத்தியுள்ளது பொருளாதார நடவடிக்கைகள் மீட்டெடுக்கப்படுகின்றன எனினும் குறுகிய காலத்திற்கு வளர்ச்சி குறைவானதாகவே காணப்படும் என மத்திய வங்கி தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/f31f10ef.json)
+
+---
+
+### AKD’s diplomatic odyssey: NPP’s foray into India and the road ahead
+
+*2024-02-16 06:14:34* · [`dailyftlk`](https://www.ft.lk/opinion/AKD-s-diplomatic-odyssey-NPP-s-foray-into-India-and-the-road-ahead/14-758547) · `en`
+
+This move by India is not merely diplomatic; it symbolises a calculated strategy to
+
+The recent five-day sojourn of Anura Kumara Dissanayake, leader of the National People’s Power (NPP), and his delegation to India has become a focal point in Sri Lanka’s political discourse. In an unprecedented move, the Indian Government extended an official invitation to NPP leaders, signalling a departure from conventional diplomatic interactions. As the visit unfolded, it not only deepened bilateral ties but also shed light on the evolving political dynamics within Sri Lanka, presenting both challenges and opportunities for the NPP.
+
+...
+
+[Data](articles/d4a197c8.json)
 
 ---
 
@@ -174,6 +352,64 @@ The public requests the public to take steps to reduce the damages caused by tem
 
 ---
 
+### Open letter to Education Ministry Secretary over Royal College anti-secular activities
+
+*2024-02-16 06:09:23* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-Education-Ministry-Secretary-over-Royal-College-anti-secular-activities/14-758546) · `en`
+
+Padmasena  Dissanayake, an old boy and a parent, has written an open letter to Education Ministry Secretary Wasantha Perera raising concerns over multiple anti-secular activities in Royal College. Following are excerpts.
+
+As per internal communications I am privy to, Royal College is about to embark on an extravaganza costing its parents over Rs. 7 million. It is a pirith ceremony, a recent phenomenon, which is scheduled to happen on 1 March.
+
+I would like to draw your attention to an article published in Financial Times a year ago https://www.ft.lk/columns/Erosion-of-unique-and-priceless-secularism-of-Royal-College/4-745480.
+
+Following is the message sent to each class teacher urging them to collect money from the students.
+
+How much would 186 Atapirikara cost? At a minimum cost of Rs. 5,000, a total of Rs. 930,000 is expected to be raised.
+
+Dinner for 2,500 pax would garner Rs. 5,580,000 (2,232 per pax).
+
+...
+
+[Data](articles/7c0a0105.json)
+
+---
+
+### Judicial power of the people and a Presidential interpretation of our Constitution?
+
+*2024-02-16 06:06:43* · [`dailyftlk`](https://www.ft.lk/opinion/Judicial-power-of-the-people-and-a-Presidential-interpretation-of-our-Constitution/14-758545) · `en`
+
+The time has come for us as citizens to demand that the abolition of the Executive Presidency is realised as a
+
+“Since 1972 this country has known no monarch and the President has not inherited that mantle. All his powers are limited by the provisions of the constitution.” – Dissolution of Parliament Case (2018)
+
+We as citizens of the country have witnessed in the past weeks some grave political developments that impact the governance of our country.
+
+On 31 January the President’s Media Division (PMD) released a public document. This document indicates that it is meant to be the Secretariat’s interpretation of the President’s powers under our Constitution.
+
+...
+
+[Data](articles/d7d9049a.json)
+
+---
+
+### Arguments against VAT on books irrefutable
+
+*2024-02-16 06:05:33* · [`dailyftlk`](https://www.ft.lk/opinion/Arguments-against-VAT-on-books-irrefutable/14-758544) · `en`
+
+President Ranil Wickremesinghe reading a book at the Galle Literary Festival 2024 held in January – File photo
+
+I applaud your front-page article on 3 February “Book industry makes clarion call for VAT exemption” (https://www.ft.lk/top-story/Book-industry-makes-clarion-call-for-VAT-exemption/26-758119) and add my voice to those calling for this measure.
+
+The arguments against VAT on books, including the negative impact on education, culture, intellectual progress, literary aesthetics, the knowledge economy and social mobility, are irrefutable.
+
+I have just come from the fabulous Galle Literary Festival, an annual event described by many of the internationally renowned authors attending as the “best literary festival in the world” which attracts a huge influx of tourists and is a massive boon to the economy. What message does this send to the international publishing community?
+
+...
+
+[Data](articles/ac3e9c31.json)
+
+---
+
 ### Sri Lanka to host first-ever Chinese marathon in May
 
 *2024-02-16 06:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-host-first-ever-Chinese-marathon-in-May/108-277121) · `en`
@@ -189,6 +425,124 @@ Accordingly, it has been proposed to organise a marathon for the Chinese athlete
 [Data](articles/6714a84e.json)
 
 [Extended Data](ext_articles/6714a84e.ext.json)
+
+---
+
+### CPSTL forensic audit reveals alarming irregularities in product sales, distribution
+
+*2024-02-16 05:26:29* · [`dailyftlk`](https://www.ft.lk/news/CPSTL-forensic-audit-reveals-alarming-irregularities-in-product-sales-distribution/56-758531) · `en`
+
+Power and Energy Minister Kanchana Wijesekera notes report shed light on irregularities in the manipulation of SAP data, massive losses, outdated procedures and data management
+
+Full report to be handed over by KPMG next week for further investigation by CID and legal action
+
+Pledges to share report with Cabinet, Parliament, Auditor General, Attorney General’s Department for next steps
+
+Power and Energy Minister Kanchana Wijesekera revealed yesterday the findings of a forensic audit conducted by KPMG on the sales and distribution of petroleum products from Ceylon Petroleum Storage Terminals Ltd. (CPSTL).
+
+Taking to ‘X’ he noted that the audit’s revelations shed light on irregularities within the system on manipulation of SAP data, massive losses and outdated procedures and data management.
+
+...
+
+[Data](articles/451d475d.json)
+
+---
+
+### JICA Chief calls President to discuss economic reforms and investment projects
+
+*2024-02-16 05:25:15* · [`dailyftlk`](https://www.ft.lk/news/JICA-Chief-calls-President-to-discuss-economic-reforms-and-investment-projects/56-758530) · `en`
+
+Govt. says JICA focuses on debt restructuring alongside project resumption
+
+Japan International Cooperation Agency (JICA) President Dr. Tanaka Akihiko on Wednesday called on President Ranil Wickremesinghe and discussed economic reforms and investment projects.
+
+President’s Media Division said yesterday during the meeting, Dr. Akihiko expressed gratitude for President Wickremesinghe’s commitment to the economic reform program, acknowledging its challenging nature.
+
+In response, President Wickremesinghe emphasised his focus on ensuring the swift resumption of the investment projects, including the expansion of the BIA, the LRT, and the central expressway.
+
+The President also conveyed appreciation for continues support provided by the Government of Japan and JICA towards Sri Lanka during the economic crisis.
+
+Dr. Akihiko elaborated on JICA’s efforts, highlighting the priority of concluding debt restructuring while also aiming for the resumption of stalled projects.
+
+...
+
+[Data](articles/b933c733.json)
+
+---
+
+### Ex-JVP MP Nalinda slams CEB’s tariff proposal as inadequate
+
+*2024-02-16 05:24:10* · [`dailyftlk`](https://www.ft.lk/news/Ex-JVP-MP-Nalinda-slams-CEB-s-tariff-proposal-as-inadequate/56-758529) · `en`
+
+Says 3% decrease is unsatisfactory and advocates for a reduction between 28% - 33%
+
+Urges PUCSL not base its decision on new revision proposal on CEB data alone
+
+Raises doubts on reliability of CEB data and questions unusual three-fold projected hike in generation and transmission costs for 2024
+
+Asks PUCSL to look into reasons behind this increase to determine if they are reasonable
+
+Stresses that notion of ‘reasonable costs’ noted in law can only hold meaning if fairness to citizens is ensured
+
+Former Janatha Vimukthi Peramuna (JVP) MP Dr. Nalinda Jayatissa yesterday said the new electricity tariff revision proposed by the CEB is unacceptable, and a mere 3% decrease is unsatisfactory and inadequate. Instead, he advocated for a reduction of electricity tariffs ranging between 28% to 33%. “I am not simply throwing out numbers but presenting them through thorough analysis,” he asserted.
+
+...
+
+[Data](articles/a52a0a96.json)
+
+---
+
+### Five-way tie for 1st place in Transparency in Corporate Reporting Assessment 2023 by TISL
+
+*2024-02-16 05:22:45* · [`dailyftlk`](https://www.ft.lk/business/Five-way-tie-for-1st-place-in-Transparency-in-Corporate-Reporting-Assessment-2023-by-TISL/34-758528) · `en`
+
+From left: TISL Program Officer (Private Sector) Fredrick Winslaw, TISL Executive Director Nadishani Perera and TISL Program Manager (Private Sector) Nicole Elias at press briefing of Transparency in Corporate Reporting (TRAC) 2023 – Pic by Ruwan Walpola
+
+The Transparency International Sri Lanka (TISL) yesterday announced findings of the assessment of transparency in corporate reporting.
+
+It said John Keells Holdings PLC and Teejay Lanka PLC who ranked first in previous Transparency in Corporate Reporting Assessments (TRAC) were joined this year by Ceylon Tobacco Company PLC, Dialog Axiata PLC, and Dilmah Ceylon Tea Company PLC.
+
+TISL said all have achieved the full score for transparency in corporate reporting, while 27 companies are considered ‘Significantly Transparent’ in corporate reporting.
+
+...
+
+[Data](articles/92c224c0.json)
+
+---
+
+### Good Life X kicks off inaugural Thrive Canvas Masterclass
+
+*2024-02-16 05:21:39* · [`dailyftlk`](https://www.ft.lk/business/Good-Life-X-kicks-off-inaugural-Thrive-Canvas-Masterclass/34-758527) · `en`
+
+Following the successful launch of the Thrive Canvas last year and its integration into all our accelerator and garage programs, Good Life X (GLX) conducted its debut Thrive Canvas Masterclass in January 2024.
+
+Facilitated by GLX Alchemist Arj Wignaraja, it offered participants a deep dive into the genesis of the canvas, its critical importance as a way of breaking the cyclical nature of the economic, social and environmental crisis we are facing locally and globally, combined with an in-depth exploration of each of the nine pillars the canvas consists of. The session was at full capacity with 30 participants and these attendees were offered insights into practical strategies for implementing these pillars across diverse industries.
+
+...
+
+[Data](articles/66ab1e78.json)
+
+---
+
+### Sumanthiran files FR against Speaker’s endorsement of OSA
+
+*2024-02-16 05:19:50* · [`dailyftlk`](https://www.ft.lk/news/Sumanthiran-files-FR-against-Speaker-s-endorsement-of-OSA/56-758526) · `en`
+
+Petitioner maintains OSA was certified by Speaker Mahinda Yapa Abeywardena in contravention of constitutional provisions
+
+Highlights several disparities between Act and SC’s determination on it requiring amendments
+
+Petitioner requests SC to declare Speaker has violated FRs of citizens by endorsing the Act
+
+Seeks court order declaring AG has also violated FRs by failing to correctly advise Speaker and Parliament
+
+Tamil National Alliance (TNA) MP M.A. Sumanthiran filed a Fundamental Rights (FRs) petition against the certification of the Online Safety Act No. 9 of 2024 by Speaker Mahinda Yapa Abeywardena on 1 February.
+
+The petition has named the Speaker and Attorney General Sanjay Rajaratnam as the respondents.
+
+...
+
+[Data](articles/e7552c13.json)
 
 ---
 
@@ -211,6 +565,24 @@ When compared to the Ramayana trail, he opined that the proposed Buddhist Trail 
 [Data](articles/acab1b5c.json)
 
 [Extended Data](ext_articles/acab1b5c.ext.json)
+
+---
+
+### எரிபொருள் விநியோக தரவுகள் அழிப்பு
+
+*2024-02-16 03:38:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விநியோக-தரவுகள்-அழிப்பு/175-333299) · `ta`
+
+இலங்கை பெட்ரோலியக் கூட்டுத்தாபனத்தின் களஞ்சிய முனைய நிறுவனத்தின் எரிபொருள் களஞ்சியப்படுத்தல் மற்றும் எரிபொருள் விநியோகம் என்பனவற்றுடன் தொடர்புடைய 13 லட்சம் தகவல்கள்  பிரதான தரவுக் கட்டமைப்பிலிருந்து அல்லது எஸ்.ஏ.பி.  தளத்திலிருந்து அழிக்கப்பட்டு அல்லது மாற்றப்பட்டுள்ளன என மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+2010 ஆம் ஆண்டிலிருந்து தரவு அழிப்பு செயற்பாடு முன்னெடுக்கப்பட்டுள்ளது என அவர் தனது சமூக வலைத்தளத்தில் பக்கத்தில் பதிவிட்டுள்ளார்.
+
+எரிபொருள் நெருக்கடி நிலவிய 2022 ஆம் ஆண்டிலேயே பெருமளவான தரவு அழிப்பு செயற்பாடு இடம்பெற்றுள்ளதாகவும் அவர் கூறியுள்ளார்.
+
+கே.பி.எம்.ஜி. நிறுவனத்தால் நடத்தப்பட்ட ஆய்வின் அடிப்படையில், அமைச்சர் இந்த விடயங்களை வெளிக்கொணர்ந்துள்ளார். (a)
+
+◼️
+
+[Data](articles/9dd4af7c.json)
 
 ---
 
@@ -255,6 +627,24 @@ The President said that the people's ideas will be obtained within two weeks and
 [Data](articles/c0c4f9c5.json)
 
 [Extended Data](ext_articles/c0c4f9c5.ext.json)
+
+---
+
+### නාරම්මල පොලිස් වෙඩි තැබීම: 'ලක්ෂ 10ක් දීලා අපි ගැන කිසිම දෙයක් හොයා බැලුවේ නැහැ'
+
+*2024-02-16 02:03:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp3erlmr3j1o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "නාරම්මල පොලිස් වෙඩි තැබීම : 'ලක්ෂ 10ක් දීලා අපි ගැන කිසිම දෙයක් හොයා බැලුවේ නැහැ'", ධාවන කාලය 5,0005:00වීඩියෝ ශීර්ෂ වැකිය, මේ සිදුවීම වන අවස්ථාවේදී පොලිස් නිලධාරීන් දෙදෙනෙකු එම ස්ථානයේ සිටිය ද පොලීසිය සැකකරුවෙකු ලෙස එක් අයෙකු පමණක් අධිකරණයට ඉදිරිපත් කිරීම සහ විමර්ශන කටයුතු සිදු කෙරෙන අකාරය ගැන සෑහීමකට පත්විය නොහැකි බව අගතියට පත් පාර්ශවයේ නීතිඥයෝ පවසති.
+
+නාරම්මල පොලිස් වෙඩි තැබීම: 'ලක්ෂ 10ක් දීලා අපි ගැන කිසිම දෙයක් හොයා බැලුවේ නැහැ'
+
+පොලිස් වෙඩි තැබීමෙන් තම සැමියා මිය යෑමෙන් පසු රුපියල් ලක්ෂ 10ක් ලබා දුන්න ද පොලිස් දෙපාර්තමේන්තුවේ ප්‍රධානීන් පොරොන්දු වූ පරිදි ඒ වෙනුවෙන් කිසිඳු සහයෝගයක් මේ දක්වා ලබා නොදීම නිසා තම දරුවන්ගේ අධ්‍යාපන කටයුතු වලට ද බාධා එල්ල වී ඇතැයි මිය ගිය රොෂාන් කුමාරසිරිගේ බිරිඳ BBC සිංහල සේවයට පැවසුවාය.
+
+''දේශබන්දු මහත්තයා ඇවිල්ලා ඒ වෙලාවේ මගේ අතට ලක්ෂ 10ක් දීලා මහත්තයගේ වටිනාකම තීරණය කළා එයා ඒ වෙලාවේ.ඉන් පස්සේ කිසිම දෙයක් අපි ගැන හොයලා බැලුවේ නැහැ.'' යනුවෙන් කමනි රූපිකා පැවසුවාය.
+
+...
+
+[Data](articles/cb2b9c84.json)
 
 ---
 
@@ -1637,423 +2027,5 @@ It has been reported that the Israeli army, which has forcibly evicted patients 
 [Data](articles/8129e081.json)
 
 [Extended Data](ext_articles/8129e081.ext.json)
-
----
-
-### Gunathilaka Rajapakse MP suddenly sick and admitted to hospital
-
-*2024-02-15 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176463) · `ta`
-
-It is reported that he was suddenly sick and admitted to the hospital during the Kandy District Coordinating Meeting.
-
-◼️
-
-[Data](articles/eb59979e.json)
-
-[Extended Data](ext_articles/eb59979e.ext.json)
-
----
-
-### Sri Lanka, India hold talks on collaboration in personnel administration & governance
-
-*2024-02-15 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97298/sri-lanka-india-hold-talks-on-collaboration-in-personnel-administration-governance) · `en`
-
-Sri Lanka and India kicked off bilateral delegation-level talks on Wednesday (Feb.14) in New Delhi for collaboration in personnel administration and governance.
-
-The discussion was chaired by Secretary to India’s Department of Administrative Reforms & Public Grievances (DARPG), Shri V. Srinivas and Secretary to the Prime Minister of Sri Lanka, Anura Dissanayake.
-
-The Sri Lankan delegation included Dr. Dharmasri Kumaratunga, Secretary to Ministry of Technology; Pradeep Yasarathna, Secretary to Ministry of Public Administration, Home Affairs, Provincial Councils & Local Government; Nalaka Kaluwewe, Director General of Sri Lanka Institute of Development Administration (SLIDA). Senior officials of India’s DARPG Shri NBS Rajput, Shri Puneet Yadav and Smt. Jaya Dubey participated in the discussions.
-
-...
-
-[Data](articles/7142de1b.json)
-
-[Extended Data](ext_articles/7142de1b.ext.json)
-
----
-
-### UK based cricketer handed 17 ½ year ban over match-fixing
-
-*2024-02-15 16:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-based-cricketer-handed-17-½-year-ban-over-match-fixing/108-277095) · `en`
-
-Feb. 15 (ICC) - UK based club cricketer Rizwan Javed has been banned from all cricket for 17 ½ years after he was found guilty of five different breaches of the Emirates Cricket Board (ECB) Anti-Corruption Code for Participants (the ‘Code’).
-
-Rizwan was among eight players and officials charged by the ICC on behalf of the ECB (in its capacity as the Designated Anti-Corruption Official under the Code) in September last year in relation to the 2021 Abu Dhabi T10 Cricket League and attempts to corrupt matches in that tournament, which attempts were disrupted.
-
-Michael J Beloff KC, Chair of the ICC Code of Conduct Committee (acting as the ECB’s Disciplinary Panel), came to the decision after Rizwan failed to respond to the charges and was therefore deemed to have admitted that he has committed the offences charged, to have waived his right to a hearing and to have acceded to the imposition of a sanction.
-
-...
-
-[Data](articles/a2fd1170.json)
-
-[Extended Data](ext_articles/a2fd1170.ext.json)
-
----
-
-### “Can't break the country”
-
-*2024-02-15 16:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரிந்திருந்து-நாட்டை-கட்டியெழுப்ப-முடியாது/175-333274) · `ta`
-
-President Ranil Wickremesinghe said that the country could not be built politically and that all parties would come together to unite to provide prosperous living standards for the country or for the government or the opposition.
-
-The first inauguration of the Anuradhapura North Water Supply Project was held on Thursday (15). He said this while participating in the event.
-
-President Ranil Wickremesinghe urged the Anuradhapura Northern Water Supply Scheme to provide solutions to the agricultural activities and drinking water needs of the area and that the project will not affect agriculture despite various parties.
-
-Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman
-
-President Ranil Wickremesinghe has assumed the responsibility of the country without hesitation when the country is in a state of crisis, and he said that the president should be praised for taking the economy on the right path without allowing the country to be re -made.
-
-◼️
-
-[Data](articles/cd9c102f.json)
-
-[Extended Data](ext_articles/cd9c102f.ext.json)
-
----
-
-### Tickets for the first T20 game, 'Sold Out'
-
-*2024-02-15 16:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tickets-for-the-first-T20-game-Sold-Out/108-277094) · `en`
-
-Colombo, Feb. 15 (Daily Mirror) - Tickets for the first T20I match to be played at Rangiri Dambulla International Cricket Stadium on Saturday (17) have been sold out.
-
-Sri Lanka Cricket has advised the general public not to visit ticket counters seeking match tickets for the first T20I.
-
-Meanwhile, a heavy influx of cricket fans rushing to buy tickets for the first T20I match has been experienced today.
-
-The fans claimed that it was the first time in five years that they had the opportunity to see a match played in Dambulla.
-
-Sri Lanka vs. Afghanistan T20 matches will be played on February 17, 19, and 21 in Dambulla Stadium. (Pix:  Kanchana Kumara)
-
-◼️
-
-[Data](articles/145a2eea.json)
-
-[Extended Data](ext_articles/145a2eea.ext.json)
-
----
-
-### Relating to the second phase of the revenue to March 15
-
-*2024-02-15 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193424) · `si`
-
-The Welfare Board Chairman Jayantha Wijeratne says that the acceptance of applications for the second phase of the revenue will be held from today (15) to March 15.
-
-The revenue was submitted to the first phase of the revenue and the applications, but the housing information would be applied to the second phase.
-
-The Welfare Board Chairman added that the relief is expected to benefit from the second phase of the relief.
-
-Speaking at a media briefing today, the Welfare Board Chairman Jayantha Wijeratne was speaking at a media briefing held today.
-
-◼️
-
-[Data](articles/20873ed3.json)
-
-[Extended Data](ext_articles/20873ed3.ext.json)
-
----
-
-### Special notification for Sri Lankan cricket players
-
-*2024-02-15 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193423) · `si`
-
-All tickets of the first Twenty Twenty Twenty Twenty Twenty Twenty20 match between Sri Lanka and Afghanistan have been constructed at Dambulla.
-
-Accordingly, SLC has issued an announcement and urges the sports laorin to take tickets to view the match.
-
-Meanwhile, a large number of tickets have been found near the Dambulla Stadium.
-
-◼️
-
-[Data](articles/17c17a7b.json)
-
-[Extended Data](ext_articles/17c17a7b.ext.json)
-
----
-
-### KPMG audit of Ceylon Petroleum Storage Terminals finds data deleted, stock losses
-
-*2024-02-15 16:37:00* · [`economynextcom`](https://economynext.com/kpmg-audit-of-ceylon-petroleum-storage-terminals-finds-data-deleted-stock-losses-151071/) · `en`
-
-ECONOMYNEXT – A forensic audit conducted by KPMG on irregularities at Ceylon Petroleum Corporation and Ceylon Petroleum Storage Terminals (CPSTL) has found massive stock losses, and entries on the ERP software plaform have been have been changed or deleted, Sri Lanka’s energy minister has said.
-
-The audit was done based on a complaint made by Sri Lanka’s Minister of Power and Energy to the Criminal Investigations Department in August 2022.
-
-“The major findings of the forensic audit conducted by KPMG on the sales and distribution of petroleum products from Ceylon Petroleum Storage Terminals Ltd (CPSTL) was briefed to me this afternoon,” Energy Minister Kanchana Wijesekera said on  X (twitter).
-
-“KPMG and CPSTL audit investigation officials briefed me today that they have found that:
-
-1. More than 1.3 Million entries on SAP data has been changed or deleted since 2010 and most has occurred in 2022 during the height of the fuel crisis
-
-...
-
-[Data](articles/aed45ea8.json)
-
-[Extended Data](ext_articles/aed45ea8.ext.json)
-
----
-
-### Thennakoon says 42 International red notices issued for wanted criminals
-
-*2024-02-15 16:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thennakoon-says-42-International-red-notices-issued-for-wanted-criminals/108-277093) · `en`
-
-Colombo, Feb 15 (Daily Mirror) - Acting Inspector General of Police Deshabandu Tennakoon said 42 international red notices have been issued so far for criminals who have fled the country after underworld and drug crimes.
-
-He made these remarks while attending the opening of a new police post in front of the National Hospital in Colombo.
-
-Thennakoon said the suspects on whom these red notices will be brought to Sri Lanka with the help of the International Police.
-
-The Acting IGP emphasized that the main accomplice of drug trafficker Kudu Salindu was brought to Sri Lanka on Thursday morning and he will be interrogated  by the CID.
-
-Meanwhile, the IGP said that the police officer who helped underworld leader Nadun Chinthaka alias 'Harak Kata' in his failed attempt to escape from the Criminal Investigation Department, will also be brought back to Sri Lanka as soon as possible.
-
-Tennakoon also mentioned that the assistance of the International Police will be sought for this.
-
-◼️
-
-[Data](articles/b8c541bf.json)
-
-[Extended Data](ext_articles/b8c541bf.ext.json)
-
----
-
-### Sri Lanka's Tamil Nadu Party Convention
-
-*2024-02-15 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176456) · `ta`
-
-An interim injunction has been issued by the court to hold a conference in the Jaffna District Court seeking an injunction against the TNA convention.
-
-A case was filed in the Jaffna District Court on Thursday (15) against the TNA convention.
-
-The Jaffna District Court has issued an interim injunction to hold a conference to be held on the 19th of this month.
-
-Meanwhile, the Trincomalee District Court has also banned the convention following the case in the Trincomalee District Court.
-
-◼️
-
-[Data](articles/1f112c00.json)
-
-[Extended Data](ext_articles/1f112c00.ext.json)
-
----
-
-### The student who had been drunk was taken to the hospital because he was sick at the school!
-
-*2024-02-15 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176459) · `ta`
-
-A student was admitted to the Badulla Teaching Hospital due to a sickness in a school in Pasarai area.
-
-Yesterday (14), the student suddenly vomited due to ill health. When the teachers asked him about this, he said that he had been drinking on the main road near the school.
-
-According to sources at the Badulla Teaching Hospital for further treatment, the student told the hospital for further treatment.
-
-◼️
-
-[Data](articles/651a7e9c.json)
-
-[Extended Data](ext_articles/651a7e9c.ext.json)
-
----
-
-### Ashemum Second Stage: Apply Today - Head of Welfare Benefits Council
-
-*2024-02-15 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176453) · `ta`
-
-Welfare Benefits Council Chairman Jayantha Wijeratne said that the process of accepting applications for the second phase of the second phase will be held from today (15th) to March 15th and that all those who are eligible will get the benefits without any obstacles.
-
-He said that families who did not submit applications in the preliminary first phase would have the opportunity to apply for the second phase of any persons who did not submit their applications and submit their home information.
-
-A media briefing to explain applications for the second phase of the second phase was held today (15) at the Presidential Media Center at the Presidential Media Center. Commenting on here, the President of the Welfare Benefits Council Jayantha Wijeratne said the above.
-
-Under the second phase of the second phase, 24 lakhs of families are expected to be benefited.
-
-...
-
-[Data](articles/d926f289.json)
-
-[Extended Data](ext_articles/d926f289.ext.json)
-
----
-
-### MP Gunatilleke Rajapaksa hospitalized
-
-*2024-02-15 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193421) · `si`
-
-Parliamentarian Gunatilleke Rajapaksa has been hospitalized due to a sudden illness.
-
-During the Kandy District Coordinating meeting, the time was hospitalized.
-
-◼️
-
-[Data](articles/c428a66d.json)
-
-[Extended Data](ext_articles/c428a66d.ext.json)
-
----
-
-### School teacher Hatton police arrested for harassing 3 students
-
-*2024-02-15 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176457) · `ta`
-
-The teacher of the same school has been arrested on suspicion of allegedly harassing three school students at a regional school under the Hatton Regional Education Office.
-
-It is reported that the teacher has tried to get rid of the three students who have been learning at the school and sent a short message to them.
-
-The students involved have lodged a complaint with the Vattawala police if unnecessary pressures are applied to the students sitting in the classroom as they do not respond to the suspect's SMS.
-
-Accordingly, the suspect was arrested on the orders of Inspector Chandana Kamage, the Superintendent of the Vattawala Police Station.
-
-◼️
-
-[Data](articles/73061f30.json)
-
-[Extended Data](ext_articles/73061f30.ext.json)
-
----
-
-### JKH, Teejay, CTC, Dialog and Dilmah score in transparency in corporate reporting
-
-*2024-02-15 16:01:00* · [`economynextcom`](https://economynext.com/jkh-teejay-ctc-dialog-and-dilmah-score-in-transparency-in-corporate-reporting-151057/) · `en`
-
-ECONOMYNEXT – John Keells Holdings Plc, Teejay Lanka Plc, Ceylon Tobacco Company Plc, Dialog Axiata Plc, and Dilmah Ceylon Tea Company Plc tied first in Transparency in Corporate Reporting (TRAC) assessment by Transparency International Sri Lanka (TISL).
-
-All five companies achieved the full score for transparency in corporate reporting, while 27 companies are considered ‘Significantly Transparent’ in corporate reporting as per the latest assessment. The Report assessed companies on their corporate disclosure practices in preventing corruption.
-
-“Assessing corporate transparency through TRAC assessments will not address all grand corruption cases in Sri Lanka. Nevertheless, corporate transparency is one step that companies can take to reduce the risk of corruption within their organisations,” said Nadishani Perera, Executive Director, TISL said in a statement.
-
-...
-
-[Data](articles/61684cb4.json)
-
-[Extended Data](ext_articles/61684cb4.ext.json)
-
----
-
-### Japan slips into a recession and loses its spot as the world’s third-largest economy
-
-*2024-02-15 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97297/japan-slips-into-a-recession-and-loses-its-spot-as-the-worlds-third-largest-economy) · `en`
-
-Japan’s economy is now the world’s fourth-largest after it contracted in the last quarter of 2023 and fell behind Germany.
-
-The government reported the economy shrank at an annual rate of 0.4% in October to December, according to Cabinet Office data on real GDP released Thursday, though it grew 1.9% for all of 2023. It contracted 2.9% in July-September. Two straight quarters of contraction are considered an indicator an economy is in a technical recession.
-
-Japan’s economy was the second largest until 2010, when it was overtaken by China’s. Japan’s nominal GDP totaled $4.2 trillion last year, while Germany’s was $4.4 trillion, or $4.5 trillion, depending on the currency conversion.
-
-A weaker Japanese yen was a key factor in the drop to fourth place, since comparisons of nominal GDP are in dollar terms. But Japan’s relative weakness also reflects a decline in its population and lagging productivity and competitiveness, economists say.
-
-...
-
-[Data](articles/78f3f781.json)
-
-[Extended Data](ext_articles/78f3f781.ext.json)
-
----
-
-### New ruler of Indonesia?
-
-*2024-02-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193419) · `si`
-
-It is the prospect for a president, a vice president, a vice president, parliament and local MPs.
-
-All the attention of everyone was involved in the next ruler of Indonesia.
-
-This time the Indonesian presidential presidential election was more competitive and was the reason for being a few significant characters in politics.
-
-The public was too many decisive, and the people of the country were more critical to the people who ruled the country for 10 years.
-
-In such an environment that the world's largest electoral Indonesian election was ended yesterday.
-
-Former Defense Minister Probavo Subiyano and former Minister of Defense Jakratha, Jakarta, who fought for the president of the country, belongs to former Defense Minister Praboda and former Education Minister Jakartha, a former Governor Honor Jakrah, Jakartha.
-
-The results of the elections began to be released from last night, under the methodology adopted to deliver the pre-results for Indonesia.
-
-...
-
-[Data](articles/a977241e.json)
-
-[Extended Data](ext_articles/a977241e.ext.json)
-
----
-
-### Sri Lanka could lose US$ 50 bn from extreme weather conditions: Ruwan
-
-*2024-02-15 15:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-could-lose-US-50-bn-from-extreme-weather-conditions-Ruwan/108-277091) · `en`
-
-Feb 15 (Daily Mirror) - Sri Lanka is slated to lose US$ 50 billion with 87 percent of its population potentially facing extreme weather conditions within the next two decades, Presidential Advisor on climate change Ruwan Wijewardene told a top gathering.
-
-Speaking during the South Asia Hydromet Forum, Wijewardene said Sri Lanka is a country which is significantly affected by weather related losses.
-
-“Sri Lanka, significantly affected by weather-related losses and had incurred damages nearing US$7 billion from 1990 to 2018. Looking ahead, we face an even starker reality: by 2050, an expected 7.7% GDP decline in Sri Lanka could translate to a loss of US$50 billion, with 87% of our population potentially facing extreme weather conditions,” he said.
-
-◼️
-
-[Data](articles/185f03a3.json)
-
-[Extended Data](ext_articles/185f03a3.ext.json)
-
----
-
-### Eligible individuals to receive ‘Aswesuma’ benefits without repercussions: WBB
-
-*2024-02-15 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97296/eligible-individuals-to-receive-aswesuma-benefits-without-repercussions-wbb) · `en`
-
-The Welfare Benefits Board (WBB) chairman on Thursday (Feb.15) announced the commencement of applications for the second phase of ‘Aswesuma’ program.
-
-Accordingly, new applications will be accepted for a period of one month until March 15.
-
-Eligible individuals will receive the benefits without repercussions, WBB Chairman Jayantha Wijeratne noted while addressing a press conference at the Presidential Media Centre (PMC).
-
-The families that could not submit applications during the first phase or did not participate in the housing information census can apply during the new phase, he explained.
-
-During the second phase of ‘Aswesuma’, benefits are anticipated to be extended to 2.4 million families.
-
-It was emphasized that expediting the benefits process requires submitting applications with accurate and truthful information.
-
-...
-
-[Data](articles/dec02f21.json)
-
-[Extended Data](ext_articles/dec02f21.ext.json)
-
----
-
-### Japan no longer world’s third-largest economy as it slips into recession
-
-*2024-02-15 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japan-no-longer-worlds-third-largest-economy-as-it-slips-into-recession/108-277092) · `en`
-
-TOKYO (AP) — Japan’s economy is now the world’s fourth-largest after it contracted in the last quarter of 2023 and fell behind Germany.
-
-The government reported the economy shrank at an annual rate of 0.4% in October to December, according to Cabinet Office data on real GDP released Thursday, though it grew 1.9% for all of 2023. It contracted 2.9% in July-September. Two straight quarters of contraction are considered an indicator an economy is in a technical recession.
-
-Japan’s economy was the second largest until 2010, when it was overtaken by China’s. Japan’s nominal GDP totaled $4.2 trillion last year, while Germany’s was $4.4 trillion, or $4.5 trillion, depending on the currency conversion.
-
-A weaker Japanese yen was a key factor in the drop to fourth place, since comparisons of nominal GDP are in dollar terms. But Japan’s relative weakness also reflects a decline in its population and lagging productivity and competitiveness, economists say.
-
-◼️
-
-[Data](articles/3c14de98.json)
-
-[Extended Data](ext_articles/3c14de98.ext.json)
-
----
-
-### Japan no longer world’s third-largest economy as it slips into recession
-
-*2024-02-15 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Japan-no-longer-worlds-third-largest-economy-as-it-slips-into-recession/107-277092) · `en`
-
-TOKYO (AP) — Japan’s economy is now the world’s fourth-largest after it contracted in the last quarter of 2023 and fell behind Germany.
-
-The government reported the economy shrank at an annual rate of 0.4% in October to December, according to Cabinet Office data on real GDP released Thursday, though it grew 1.9% for all of 2023. It contracted 2.9% in July-September. Two straight quarters of contraction are considered an indicator an economy is in a technical recession.
-
-Japan’s economy was the second largest until 2010, when it was overtaken by China’s. Japan’s nominal GDP totaled $4.2 trillion last year, while Germany’s was $4.4 trillion, or $4.5 trillion, depending on the currency conversion.
-
-A weaker Japanese yen was a key factor in the drop to fourth place, since comparisons of nominal GDP are in dollar terms. But Japan’s relative weakness also reflects a decline in its population and lagging productivity and competitiveness, economists say.
-
-◼️
-
-[Data](articles/414721e4.json)
-
-[Extended Data](ext_articles/414721e4.ext.json)
 
 ---

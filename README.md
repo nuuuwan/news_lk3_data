@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 18:32:52**
+As of **2024-02-16 18:50:59**
 
 ## Newspaper Stats
 
@@ -26,75 +26,83 @@ dailymirrorlk | 1,100
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,515 (99.9%) of 7,519 articles have been extended.
+7,519 (100.0%) of 7,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### නුවරඑළියේ යන රියදුරන්ට පොලීසියෙන් දැනුම්දීමක්
+### Police notice to drivers in Nuwara Eliya
 
 *2024-02-16 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193477) · `si`
 
-නුවරඑළිය ප්‍රදේශය පුරා ඝන මීදුම් තත්ත්වයක් පවතින බැවින් එම ප්‍රදේශයේ ගමන් ගන්නා රියදුරන්ට දැඩි විමසිල්ලෙන් රිය ධාවනය කරන්නැයි නුවරඑළිය පොලීසිය දැනුම්දෙයි.
+The Nuwara Eliya Police are notable drivers to drive the drivers traveling in the area as there is a thick mist in the Nuwara Eliya area.
 
-එම ප්‍රදේශයට පතිත වන සුළු වර්ෂාවත් සමඟ මෙලෙස ඝණ මීදුම් තත්ත්වයක් පවතින බව වාර්තා වේ.
+There is a solid mist in the area.
 
-නුවරඑළිය නගර සීමාව,  හාවාඑළිය, බොරලන්ද, උඩපුස්සැල්ලාව ප්‍රධාන මාර්ගය, නානුඔය, තලවාකැලේ, හැටන් ප්‍රධාන මාර්ගය, නානුඔය, රැදැල්ල කෙටි මාර්ගය, නුවරඑළිය, මීපිළිමාන, පට්ටිපොළ, ලෝකාන්තය පිවිසුම් මාර්ගයන්හි මෙම ඝන මීදුම් තත්ත්වය පවතින බැවින් එම ප්‍රදේශවල දැඩි විමසිල්ලෙන් රිය ධාවනය කළ යුතුය.
+Since the Nuwara Eliya Town Limit, Havariya, Boralanda, Udapuja, Talawakele, Nuwara Eliya, Talpima, Pattipola, Pattipola and Pattipola should be driven in those areas.
 
-තවද ඉදිරියෙන් පැමිණෙන වාහන නොපෙනීමේ තත්ත්වයක් පවතින බැවින් සෑම වාහනයකම ආලෝක සංඥා දල්වාගෙන යෑමට කටයුතු කරන ලෙස ද නුවරඑළිය පොලීසිය රියදුරන්ට වැඩිදුරටත් දැනුම්දෙයි.
+The Nuwara Eliya Police are also reporting to take light signals to light light signals, as there is no abundance of vehicles.
 
 ◼️
 
 [Data](articles/91602a31.json)
 
+[Extended Data](ext_articles/91602a31.ext.json)
+
 ---
 
-### கொழும்பு மக்களுக்கு முக்கிய அறிவிப்பு
+### Key notice of Colombo people
 
 *2024-02-16 17:59:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மக்களுக்கு-முக்கிய-அறிவிப்பு/175-333317) · `ta`
 
-கொழும்பின் சில பகுதிகளுக்கு நீர்வெட்டு அமுல்படுத்தப்படவுள்ளதாக நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+The Water Supply and Drainage Board has said that the water will be implemented in parts of Colombo.
 
-அதன்படி, நாளை (17) மாலை 5 மணி முதல் 18 ஆம் திகதி ஞாயிற்றுக்கிழமை காலை 9 மணி வரை 16 மணித்தியாலங்களுக்கு நீர்வெட்டு அமுல்ப்படுத்தப்படவுள்ளது.
+Accordingly, the water will be implemented for 16 hours from 5 pm to 9 am tomorrow (17).
 
-அதன்படி, கொழும்பின் 11, 12, 13, 14 மற்றும் 15 ஆகிய பிரதேசங்களுக்கு இவ்வாறு நீர்வெட்டு அமுல்ப்படுத்தப்பட்டுள்ளதாக அந்த சபை தெரிவித்துள்ளது. R
+Accordingly, the waterfront has been implemented to the 11, 12, 13, 14 and 15 of Colombo, the council said that the area has been implemented.. Remble
 
 ◼️
 
 [Data](articles/b9f1ca3d.json)
 
+[Extended Data](ext_articles/b9f1ca3d.ext.json)
+
 ---
 
-### ரஷ்யா எதிர்க் கட்சித் தலைவர் காலமானார்
+### Russia Opposition Leader has passed away
 
 *2024-02-16 17:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யா-எதிர்க்-கட்சித்-தலைவர்-காலமானார்/50-333316) · `ta`
 
-புடினை கடுமையாக விமர்சித்து வந்த நவால்னி, அறக்கட்டளை மூலமாக பணத்தை கையாடல் செய்த வழக்கில் கைது செய்யப்பட்டார்.
+Navalni, who was severely criticized by Putin, was arrested in connection with the money laundering.
 
-நவால்னிக்கு 19 ஆண்டுகள் சிறை தண்டனை விதிக்கப்பட்டிருந்த நிலையில், உடல் நலக்குறைவு காரணமாக சிறையில் உயிரிழந்ததாக ரஷ்யா அரசு தெரிவித்துள்ளது.
+The Russian government has said that Navalni was sentenced to 19 years in prison and died in prison due to ill health.
 
-மேலும், அலெக்ஸ் நவால்னி உயிரிழப்புக்கான காரணம் குறித்த தகவல் எதுவும் தற்போது வரை வெளியிடப்படவில்லை.
+Moreover, no information on the cause of the death of Alex Navalney has been released until now.
 
 ◼️
 
 [Data](articles/e351955c.json)
 
+[Extended Data](ext_articles/e351955c.ext.json)
+
 ---
 
-### கொழும்பு தேசிய வைத்தியசாலையில் பதற்றம்
+### Tension at the Colombo National Hospital
 
 *2024-02-16 17:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-தேசிய-வைத்தியசாலையில்-பதற்றம்/175-333315) · `ta`
 
-கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லன  வைத்தியசாலையின் சிற்றூழியர்களினால் சிறைவைக்கப்பட்டதாக தெரிவிக்கப்படுகின்றது.
+The Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana Hospital, has been imprisoned by the minority of the Hospital.
 
-குறித்த வைத்தியர்  அவரது அலுவலகத்தில் பணயக் கைதியாகப் பிடிக்கப்பட்டுள்ளதாக செய்திகள் வெளியாகி உள்ளன.
+It is reported that the doctor has been held hostage in his office.
 
-அவரை மருத்துவமனையில் இருந்து உடனடியாக அகற்றக் கோரி, ஊழியர்கள் நிர்வாகக் கட்டிடத்தை முற்றுகையிட்டனர், இதனால் மருத்துவ சேவைகள் நிறுத்தப்பட்டன, செவிலியர்கள் உட்பட ஊழியர்கள் வெளிநடப்பு செய்தனர்
+The staff blockaded the administrative building, demanding the immediate removal of the hospital, so that the medical services were stopped, employees, including nurses, walked out.
 
 ◼️
 
 [Data](articles/109e2101.json)
+
+[Extended Data](ext_articles/109e2101.ext.json)
 
 ---
 
@@ -1014,7 +1022,13 @@ The Index of Consumer Expectations (ICE), which tracks future perceptions, decre
 
 The Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana is currently being held hostage in his office by the minor staff of the hospital, Ada Derana reporter said.
 
-◼️
+A collective of 72 health sector trade unions recently carried out an island-wide strike action over disparities in allowances, a move heavily criticized by Dr. Bellana.
+
+However on Wednesday (14), the health trade unions decided to call off their strike after Health Minister Dr. Ramesh Pathirana had agreed to a discussion with them.
+
+The trade unions representing a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers have engaged in strikes over the past few months demanding an allowance hike.
+
+...
 
 [Data](articles/f91df931.json)
 

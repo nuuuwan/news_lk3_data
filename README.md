@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 12:32:48**
+As of **2024-02-16 13:02:28**
 
 ## Newspaper Stats
 
-*Scraped **7,433** Articles*
+*Scraped **7,436** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 84
-bbccomsinhala | 98
+bbccomsinhala | 99
 dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 385
@@ -19,36 +19,76 @@ adalk | 635
 tamilmirrorlk | 906
 adaderanalk | 907
 virakesarilk | 974
-adaderanasinhalalk | 1,053
-dailymirrorlk | 1,089
+adaderanasinhalalk | 1,054
+dailymirrorlk | 1,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,426 (99.9%) of 7,433 articles have been extended.
+7,436 (100.0%) of 7,436 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### கயிற்றில் யுவதி தொங்கவில்லை
+### Court order about Pharaya
+
+*2024-02-16 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193459) · `si`
+
+The Prime Minister has been granted permission to the Department of Investigation and the Criminal Investigation Department to detaine the detainees of the Under Bandara and Bandaranaike.
+
+The Criminal Investigation Department (CID) has reported to the Fort Magistrate's Court under the Prevention of Terrorism Act.
+
+The Lirm Shaddic, Is Pushite is considered the main goal of the drug dealer named Kudu Sialiage.
+
+It was revealed that he had fled to Dubai in February 9, 2021.
+
+◼️
+
+[Data](articles/46a014fb.json)
+
+[Extended Data](ext_articles/46a014fb.ext.json)
+
+---
+
+### Israeli Minister meets President; discusses hostages, Gaza conflict
+
+*2024-02-16 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Israeli-Minister-meets-President-discusses-hostages-Gaza-conflict/108-277167) · `en`
+
+Colombo, Feb. 16 (Daily Mirror)- Israel's Minister of Transport and Road Safety Brig. Gen. Miri Regev met President Ranil Wickremesinghe and discussed matters concerning the safe return of Israeli hostages.
+
+"The meeting delved into crucial matters concerning the safe return of Israeli hostages, with President Wickremesinghe affirming Sri Lanka's unwavering commitment to advocating for their safety. Furthermore, amidst the ongoing hostilities in Gaza, the President called for an immediate cessation of violence, underscoring the paramount importance of peace and stability in the region," the President's Media Division (PMD) said.
+
+"Highlighting Sri Lanka's stance on the Israeli-Palestinian conflict, President Wickremesinghe reiterated the nation's support for the establishment of a Palestinian State. He also emphasized the significance of ensuring Israel's security, fostering a balanced approach to regional peace," the PMD said.
+
+◼️
+
+[Data](articles/0aa11fa2.json)
+
+[Extended Data](ext_articles/0aa11fa2.ext.json)
+
+---
+
+### Youvu did not hang on the rope
 
 *2024-02-16 11:50:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கயிற்றில்-யுவதி-தொங்கவில்லை/76-333304) · `ta`
 
-படத்தை பார்க்கும் போது, யுவதியொருவர் தொங்கிக்கொண்டிருப்பதை போல தெரியும் எனினும், கதை வேறாகும்.
+The story is different, however, however, as a young woman hangs.
 
-தலவாக்கலை, மேல் கொத்மலை நீர்த்தேக்கத்தில் தவறி விழுந்த யுவதியொருவர் தலவாக்கலை பிரதேச மக்கள் மற்றும் பொலிஸாரால் பெரும் பிரயத்தனத்து பின்னர் மீட்கப்பட்டுள்ளார்.
+A young woman who fell into the Talawakelle, Talawakelle reservoir has been rescued by the people of Talawakelle and the police.
 
-மேல் கொத்மலை நீர்த்தேக்கத்தில் தலவாக்கலை கூட்டுறவு தலைமை அலுவலகத்துக்கு அருகாமையில் மிகவும் ஆழமான இடத்தில் இளம் பெண் வீழ்ந்துள்ளார், மேலும் அவர் நீர்த்தேக்கத்தில் தத்தளித்ததைக் கண்ட  மக்கள் எடுத்த உடனடி நடவடிக்கையால் அவரது உயிரைக் காப்பாற்ற முடிந்தது.
+The young woman fell in a deep place near the Talawakelle Co -operative Headquarters in the Western Kotmale reservoir, and the immediate action of the people who saw that she was drowned in the reservoir.
 
-ஒரு சிலர் நீர்த்தேக்கத்தில் குதித்து அவளைப் பிடித்தனர், நீர்த்தேக்கத்துக்கு மேலே நின்றிருந்தவர்கள் கயிறுகளை போட்டு, மிகவும் சிரமப்பட்டு கரைக்கு இழுத்தனர், பின்னர் அவர் சிகிச்சைக்காக லிந்துலை பிராந்திய மருத்துவமனையில் அனுமதிக்கப்பட்டார்.
+A few jumped into the reservoir and grabbed her, and those standing above the reservoir put the ropes and pulled it to the shore with great difficulty, and she was taken to Lindula Regional Hospital for treatment.
 
-அக்கரபத்தன பிரதேசத்தைச் சேர்ந்த 24 வயதுடைய யுவதி ஒருவர் நீர்த்தேக்கத்தில் தவறி விழுந்து மீட்கப்பட்டுள்ளார். வேலை ஒன்று இல்லையே என யோசித்துகொண்டே நீர்த்தேக்கத்துக்கு ஓரமாக சென்று கொண்டிருந்த போதே, நீர்த்தேக்கத்துக்குள் தவறி விழுந்துள்ளார்.
+A 24 -year -old woman from Akarapathana. While going to the reservoir, he fell into the reservoir, thinking that there was no job.
 
 ◼️
 
 [Data](articles/bc020e7e.json)
+
+[Extended Data](ext_articles/bc020e7e.ext.json)
 
 ---
 
@@ -70,37 +110,45 @@ After the complaint was lodged in August 2022 the number had significantly reduc
 
 [Data](articles/c6a7f64b.json)
 
+[Extended Data](ext_articles/c6a7f64b.ext.json)
+
 ---
 
-### ஜீவனை சந்தித்தார் ஸ்ரீதரன்
+### Sridharan met Jeevan
 
 *2024-02-16 11:40:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜீவனை-சந்தித்தார்-ஸ்ரீதரன்/71-333303) · `ta`
 
-இலங்கை தமிழரசுக் கட்சியின் தலைவராக தெரிவாகியிருக்கும் சிவஞானம் ஸ்ரீதரனை மரியாதை நிமித்தம் இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரும் அமைச்சருமான ஜீவன் தொண்டமான் சந்தித்து கலந்துரையாடியுள்ளார்.
+Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress, has met with Sivagnanam Sridharan, who has been elected as the leader of the Sri Lanka Tamil National Alliance (TNA).
 
-இதன்போது இலங்கை தமிழரசுக்கட்சியின் தலைவராக தெரிவாகியிருக்கும் சிவஞானம் ஸ்ரீதரனுக்கு, ஜீவன் தொண்டமான் வாழ்த்துகளை தெரிவித்து கொண்டார்.
+Jeevan Thondaman congratulated Sivagnanam Sridharan, who was elected as the leader of the Sri Lankan Tamil party.
 
-யாழ்ப்பாணம் கிளிநொச்சி மாவட்டத்தில் மேற்கொள்ளப்பட உள்ள  நீர் வழங்கல் தொடர்பிலான விடயங்கள் தொடர்பிலும் இதன்போது கலந்துரையாடப்பட்டது.
+Discussions on water supply to be carried out in the Kilinochchi district in Jaffna were also discussed.
 
 ◼️
 
 [Data](articles/edaff461.json)
 
+[Extended Data](ext_articles/edaff461.ext.json)
+
 ---
 
-### මේ තරුණිය කෙත්මලා ජලාශයට වැටුනේ කොහොමද?
+### How did this girl fall into the reservoir?
 
 *2024-02-16 11:37:26* · [`adalk`](https://www.ada.lk/breaking_news/මේ-තරුණිය-කෙත්මලා-ජලාශයට-වැටුනේ-කොහොමද-/11-408124) · `si`
 
-ඉහළ කොත්මලා ජලාශයේ තලවකැලේ සමුපකාර ප්‍රධාන කාර්යාලය ආශ්‍රිත දැඩි ගැඹුරකින් යුත් ස්ථානයකට මෙම තරුණිය වැටී  ඇති අතර, ඇය ජලාශයේ දලගමින් සිටින අයුරු දැක ඇති නගර වැසියන් ක්ෂණිකව ක්‍රියාත්මකවීම හේතුවෙන් ඇයගේ ජීවිතය ගලවා ගැනීමට හැකි වී තිබේ.
+The girl has fallen into a deep depth of the Thalawakele Co-operative Head Office in Thalawakele, the Talawakele Co-operative Head Office in Talawakele.
 
-නගරය වැසියන් කීපදෙනෙකු ජලාශයට පැන ඇය අල්ලා ගෙන සිටියදී අනෙකුත් පිරිස ලණු දමා දැඩි අසීරුවෙන්ගො ඩට ගෙන ඇති අතර, පසුව ඇය ප්‍රතිකාර සඳහා ලිඳුල ප්‍රාදේශීය රෝහලට ඇතුළත් කොට තිබේ. වයස අවුරුදු 24 ක ආගරපතන ප්‍රදේශයේ තරුණියක්මෙ සේ ජලාශයට වැටී සිටියදී ගොඩ ගෙන ඇති බවත්, රැකියාවක් නොමැතිව ඒ පිළිබඳව සිතමින් ජලාශය ආසන්නයෙන් ගමන් කරමින් සිටියදි ක්ලාන්ත ගතියක් ඇති වී ජලාශයට ඇද වැටුණු බව මෙම තරුණිය ප්‍රකාශ කොට ඇතැයි පොලීසිය පවසයි. කෙසේ වෙතත් මෙම ස්ථානයේ ආරක්ශිත වැටක්ද පවතියි.
+Several people jumped into the reservoir, they were adhered to wisely, and later she was admitted to the Lindula Divisional Hospital for treatment.. Police say that the girl has said that the reservoir has been recovered as a young woman in the 24-year-old Agarpane area.. However, there is a safe fence in this place.
 
-රෝහලට ඇතුලත් කරන ලද තරුණියගේ භාහිර තුවාල කිසිවක් නොතිබුණු බවත්, මානසික වෛද්‍යවරයෙකුට යොමු කිරීම උදෙසා නුවරඑළිය දිස්ත්‍රික් මහ රෝහල වෙත එම තරුණිය යොමු කිරීමට පියවර ගෙන ඇතැයි ලිඳුල ප්‍රාදේශීය රෝහලේ ප්‍රධාන වෛද්‍ය නිලධාරි අසේල සුරංජිත්ම හතා පැවැසීය.
+Asela Surajunt said that the young girl was admitted to the Nuwara Eliya District General Hospital for a psychiature doctor said.
 
-...
+Talawakele police are conducting further investigations.
+
+◼️
 
 [Data](articles/e5cb2fec.json)
+
+[Extended Data](ext_articles/e5cb2fec.ext.json)
 
 ---
 
@@ -180,6 +228,8 @@ He said Sri Lanka has to pay 37 percent of external debt within the next five to
 
 [Data](articles/60f76180.json)
 
+[Extended Data](ext_articles/60f76180.ext.json)
+
 ---
 
 ### Rubber tappers awarded with NVQ-3
@@ -195,6 +245,8 @@ They were designated as Rubber Harvesting Assistants in order to protect the dig
 ...
 
 [Data](articles/cabcd5b3.json)
+
+[Extended Data](ext_articles/cabcd5b3.ext.json)
 
 ---
 
@@ -384,25 +436,27 @@ The body of the girl has been recovered this morning (16) during the search for 
 
 ---
 
-### ඊශ්‍රායලය සහ ශ්‍රී ලංකාව අතර සෘජු ගුවන් සේවා
+### Direct airlines between Israel and Sri Lanka
 
 *2024-02-16 10:10:00* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායලය-සහ-ශ්‍රී-ලංකාව-අතර-සෘජු-ගුවන්-සේවා/11-408119) · `si`
 
-ඊශ්‍රායලය සහ ශ්‍රී ලංකාව අතර සෘජු ගුවන් සේවා සම්මුතියකට අත්සන් තැබුණු බව වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
+Minister of Ports, Naval and Aviation said that there was a direct aviation compromise between Israel and Sri Lanka.
 
-මෙරට ශ්‍රමිකයන් විදෙස් ගත කිරීමේදී සිදුවන ප්‍රමාදය වැළැක්වීම ද මෙම ගිවිසුමේ ප්‍රධාන අරමුණක් වන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+The main objective of the agreement is also a major purpose of preventing the delay in foreign workers.
 
-වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Minister Nimal Siripala de Silva, Minister of Ports, Naval and Aviation, is said to be a press conference held at the Catinic Media Center for a stable country.
 
-එමෙන්ම නාවික ක්ෂේත්‍රයේ ඇති බහාලුම් ප්‍රවාහනය කිරීමේ ප්‍රමාණය 32%කින් පමණ වර්ධනය වී අති බව ද අමාත්‍යවරයා සඳහන් කළේය.
+He also increased by 32% to the shipping of containers in the naval field.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා මෙසේ ද පැවසීය,
+Minister Nimal Siripala de Silva said:
 
-ඊශ්‍රායලය සහ ශ්‍රී ලංකාව අතර සෘජු ගුවන් සේවා සම්මුතියකට අද පෙරවරුවේ අත්සන් තැබුණා. ඊශ්‍රායල ගමනාගමන අමාත්‍යවරිය සහ වරාය, නාවික හා ගුවන් සේවා අමාත්‍යාංශය අතර අත්සන් කෙරුණු ගිවිසුමට අනුව දෙරට අතර සෘජු ගුවන් සේවා ආරම්භ කිරීමට නියමිතයි. ඒ සමඟ මගීන්ට අවශ්‍යතාව පහසුකම් සැපයීම අපගේ අරමුණයි.
+Israel and Sri Lanka signed a direct airline convention this morning. According to the agreement signed between the Ministry of Israeli Transport and the Ministry of Ports, Naval and Aviation, is to be started between the two countries. With this, our aim is to facilitate passengers.
 
 ...
 
 [Data](articles/214b5949.json)
+
+[Extended Data](ext_articles/214b5949.ext.json)
 
 ---
 
@@ -1306,6 +1360,34 @@ Facilitated by GLX Alchemist Arj Wignaraja, it offered participants a deep dive 
 
 ---
 
+### 'How I write': Ruya Sriyani Ekanayake
+
+*2024-02-16 05:19:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g03q9zl8po) · `si`
+
+Ruya Sriyani Ekanayake is a novelist in Sinhala literature.
+
+She was written by the historical novels, such as Vijaya Kuvenu, Sentond Casis, such as Vijaya and Singdaggala Mahabiso, Senkadagala Mahabhys, Skarards, and the New Tharundagala nest.
+
+When she talked to her as a novel, she to understand her feelings and writing when she was in a note.
+
+The questions I hear in this discussion is currently published by the 'History of Nimna' (2019) and the novels of this secret wind.
+
+It is well known for all writer's writing process.
+
+Where writing, writing, how to write and writing the writer, belongs to the writer's abundance. The conversation is seeking to pointer to that secret site of the newcomers.
+
+The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
+
+Easice: As usual, I ask you to the inauguration of a novel. Can you say something about how your novels write the first sentence?
+
+...
+
+[Data](articles/f556170c.json)
+
+[Extended Data](ext_articles/f556170c.ext.json)
+
+---
+
 ### Sumanthiran files FR against Speaker’s endorsement of OSA
 
 *2024-02-16 05:19:50* · [`dailyftlk`](https://www.ft.lk/news/Sumanthiran-files-FR-against-Speaker-s-endorsement-of-OSA/56-758526) · `en`
@@ -1993,73 +2075,5 @@ Hardly ever has a single month made such convulsive changes in India, as in the 
 [Data](articles/fe178bbc.json)
 
 [Extended Data](ext_articles/fe178bbc.ext.json)
-
----
-
-### Keheliya says he suffers from sleeping slumber at night
-
-*2024-02-15 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193436) · `si`
-
-His lawyer said in court today that former Minister of Health, Keheliya Rambukwella is suffering from sleeping sickness today (15).
-
-President's Counsel Angel Varraratne said that his client should be given artificial oxygen in such a case.
-
-Accordingly, President's Counsel A lawyer.
-
-"My client is suffering from a number of diseases. Especially the Lord.. After he was imprisoned.. His blood pressure has been varied. Suffering from a confusion of the stomaching of the abdomen. He has a disease of kidney. And he is suffering from diabetes. "
-
-"Lord, he has the unique illness that he has his unique illness is sleeping at night. It is a condition. He is unwittingly reduce the oxygen of oxygen. He should be artificially supplied oxygen at the time. "
-
-"Lord, there is no treatment that should be given to you in the prison at this time."
-
-The President's Counsel was presented to the Magistrate how to sleep when the lawyer had to sleep.
-
-...
-
-[Data](articles/5cbad843.json)
-
-[Extended Data](ext_articles/5cbad843.ext.json)
-
----
-
-### When the wife and daughter went to the religious event, the father who poisoned his son
-
-*2024-02-15 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176482) · `ta`
-
-The father has poisoned his son who is mentally ill, and he has drank it and drank it.
-
-The 50 -year -old father and a 25 -year -old son died, the Angunukolapalasa police said.
-
-The son has been mentally ill for some time. Due to this, the father has returned home after taking her son to the Karapitiya Teaching Hospital in Galle.
-
-In this case, the father and daughter had poisoned his son while he had gone out for a religious event.
-
-When the wife and daughter came home, the husband and son were admitted to the Angunukolapalasa Hospital with the help of neighbors to learn that the husband and son had poisoned, but the two had already died, doctors said.
-
-Senior Superintendent of Police KP in charge of the Tangalle Police Division. According to Keerthi Ratna's work, Angunukolapalasa police are conducting further investigations.
-
-◼️
-
-[Data](articles/08f950fe.json)
-
-[Extended Data](ext_articles/08f950fe.ext.json)
-
----
-
-### Three arrested over ‘poisoning’ of two suspects in police custody
-
-*2024-02-15 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97303/three-arrested-over-poisoning-of-two-suspects-in-police-custody) · `en`
-
-The Colombo Crimes Division (CCD) has arrested three suspects for allegedly aiding and abetting the incident of a visitor poisoning two suspects who were detained in a cell at the Aduruppuveediya police station recently.
-
-The apprehensions have been carried out in the Kotahena and Orugodawatta areas this afternoon (15). Police said that the arrested individuals were identified to be aged 22, 24 and 26 and are the residents of Kotahena, Orugodawatta and Colombo 13 areas.
-
-Preliminary police investigations have revealed that the crime has been carried out based on the directive of a notorious criminal who is currently hiding overseas. The Colombo Crimes Division is conducting further investigations regarding the incident.
-
-...
-
-[Data](articles/db781864.json)
-
-[Extended Data](ext_articles/db781864.ext.json)
 
 ---

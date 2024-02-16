@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 15:32:51**
+As of **2024-02-16 15:51:15**
 
 ## Newspaper Stats
 
-*Scraped **7,472** Articles*
+*Scraped **7,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,116 @@ newsfirstlk | 363
 islandlk | 385
 economynextcom | 393
 dailyftlk | 402
-adalk | 638
-tamilmirrorlk | 913
+adalk | 639
+tamilmirrorlk | 915
 adaderanalk | 917
-virakesarilk | 979
-adaderanasinhalalk | 1,059
+virakesarilk | 981
+adaderanasinhalalk | 1,063
 dailymirrorlk | 1,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,471 (100.0%) of 7,472 articles have been extended.
+7,472 (99.9%) of 7,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### සෞඛ්‍ය ක්ෂේත්‍රයේ ගැටලු විසඳීමට ජනපති ගේ මැදිහත්වීම ඉල්ලයි
+
+*2024-02-16 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193470) · `si`
+
+සෞඛ්‍ය ක්ෂේත්‍රයේ මතු ව ඇති ගැටලු විසඳීමට, දුෂණ සහ වංචාවලට සම්බන්ධ දේශපාලනඥයින්ට සහ නිලධාරීන්ට නිසි දඬුවම් ලබාදීමට විශේෂ ජනාධිපති කොමිසමක් පත් කළ යුතු බව විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා පවසයි.
+
+වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපතිවරයා පවසන්නේ ඒ සඳහා වහාම ජනාධිපතිවරයා මැදිහත් විය යුතු බවයි.
+
+අද (16) කොළඹ දී මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවසුවේය.
+
+මෙරට ඖෂධ සැපයුම් ජාලය බරපතළ අර්බුදයකට මුහුණ දී ඇති බවත් ඒ සඳහා කඩිනමින් නිසි විසඳුම් නොලැබුණහොත් ඉදිරි මාස ‍කිහිපය තුළ සෞඛ්‍ය පද්ධතියේ ගැටලු නැවත විසඳිය නොහැකි තත්ත්වයකට පත්විය හැකි බවද වෛද්‍යවරයා අවධාරණය කළේය.
+
+එ‍මෙන්ම සෞඛ්‍ය අමාත්‍යාංශය, රාජ්‍ය ඖෂධ නීතිගත සංස්ථාව, වෛද්‍ය සැපයුම් ඒකකය, ඖෂධ නියාමන අධිකාරිය සහ රාජ්‍ය ඖෂධ නිෂ්පාදන සංස්ථාව අතර අනෝන්‍ය සම්බන්ධයක් නොමැති වීම හේතු‍වෙන් පවතින ඖෂධ හිඟය සම්බන්ධ සත්‍ය තොරතුරු දැනගැනීමට නොහැකි වී තිබෙන බව ද ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/4f8ef961.json)
+
+---
+
+### தவளை ஐஸ்கிறீம்: 5 ஆயிரம் ரூபாய் அபராதம்
+
+*2024-02-16 15:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தவளை-ஐஸ்கிறீம்-5-ஆயிரம்-ரூபாய்-அபராதம்/71-333313) · `ta`
+
+யாழ்ப்பாணம் - செல்வ சந்நிதி ஆலய சூழலில் விற்பனை செய்யப்பட்ட குளிர்களிக்குள் (ஐஸ் கிறீம்) தவளை காணப்பட்டமை தொடர்பிலான வழக்கில் குற்றத்தை ஒப்புக்கொண்ட , விற்பனையாளருக்கு நீதிமன்றம் 5 ஆயிரம் ரூபாய் தண்டம் விதித்துள்ளது
+
+ஆலய சூழலில் கடந்த புதன்கிழமை (14) குளிர்களி விற்பனையில் ஈடுபட்டவரிடம், அதனை வாங்கிய நபர் ஒருவரின் குளிர்களிக்குள் தவளை ஒன்று காணப்பட்டது.
+
+அது தொடர்பில் சுகாதார பிரிவினருக்கு அறிவிக்கப்பட்டதை அடுத்து , விசாரணைகளை முன்னெடுத்த வல்வெட்டித்துறை சுகாதார பரிசோதகர் ஐஸ் கிறீம் விற்றவருக்கு எதிராக பருத்தித்துறை நீதவான் நீதிமன்றில் வழக்கு தொடர்ந்தார்.
+
+குறித்த வழக்கு இன்றைய தினம் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது , குளிர்களியை விற்பனை செய்தவர் , சுன்னாகம் பகுதியில் இயங்கும் குளிர்களி தயாரிப்பு நிறுவனத்திடம் கொள்வனவு செய்தே , ஆலய சூழலில் விற்பனை செய்வதாக தெரிவித்துள்ளார்.
+
+இதேவேளை, சந்நிதி ஆலய சூழலில் சுகாதார சீர்கேட்டுடன் நடாத்தி செல்லப்பட்ட உணவகம் ஒன்றிற்கு எதிராக தொடரப்பட்ட வழக்கில் உணவக உரிமையாளருக்கு 36 ஆயிரம் ரூபாய் தண்டப்பணம் விதிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/87a0a001.json)
+
+---
+
+### ඉන්ධන ගැන ආරංචියක්
+
+*2024-02-16 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193469) · `si`
+
+ඛනිජ තෙල් සඳහා පවතින ගෝලීය ඉල්ලුමේ වර්ධනය මන්දගාමී වී ඇති බව ජාත්‍යන්තර බලශක්ති ඒජන්සිය පවසයි.
+
+◼️
+
+[Data](articles/dc071d62.json)
+
+---
+
+### ලොරෙන්සෝ පුතාගෙන් ඇහෙන කඳුළු කතාව
+
+*2024-02-16 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193468) · `si`
+
+"ලොරේන්සෝ පුතා 04" බහුදින ධීවර යාත්‍රාවේ ධීවරයින් සයදෙනා කඩිනමින් දිවයිනට ගෙන්වා ගන්නා ලෙස ධීවරයින් සහ ඔවුන්ගේ ඥාතීන් බලධාරීන්ගෙන් ඉල්ලීමක් කරයි.
+
+සෝමාලියානු මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයෙන් ඉකුත් 29 වැනිදා ධිවරයින් පිරිස මුදාගැනුණු ද නීතිමය කටයුතු හේතුවෙන් එම පිරිස තවමත් පසුවන්නේ සීෂෙල්ස් ආරක්ෂක අංශ භාරයේය.
+
+දික්ඕවිට ධීවර වරායෙන් ධීවරයින් 06 දෙනෙකු සමඟින් ගමන් ඇරඹු "ලොරේන්සෝ පුතා 04" බහුදින ධීවර යාත්‍රාව පසුගිය 27 වනදා අරාබි මුහුදේදී සෝමාලියානු මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්ව තිබිණි.
+
+ඉන් දින දෙකකට පසුව එම යාත්‍රාව ධීවරයින් 6 දෙනා ද සමඟ නිරුපද්‍රිතව මුදාගැනීමට සීෂෙල්ස් නාවික හමුදාව සමත්වුණි.
+
+එලෙස සීෂෙල්ස් නාවික හමුදාව භාරයට පත්වූ මෙරට ධීවරයින් 06 දෙනා සීෂෙල්ස්හි වික්ටෝරියා අගනුවර වරාය වෙත ආරක්ෂිතව රැගෙන යාමට පියවර ගැනුණි.
+
+කෙසේවෙතත් එම ධීවරයින් තවමත් එම වරායේ ආරක්ෂක අංශ භාරයේ පසුවන අතර තමන් කඩිනමින් දිවයිනට ගෙන්වා ගන්නා ලෙස ඔවුන් බලධාරීන්ගෙන් ඉල්ලීමක් කරයි.
+
+මේ අතර "ලොරේන්සෝ පුතා 04" යාත්‍රාවේ ධීවරයින් මෙරටට ගෙන්වාගැනීම සම්බන්ධයෙන් ධීවර දෙපාර්තමේන්තුවෙන් අප විමසීමක් කළේය.
+
+...
+
+[Data](articles/5841496f.json)
+
+---
+
+### ஒக்சிசன் கொள்வனவிற்காக வழங்கப்பட்ட நிதியில் தரம்குறைந்த மருந்துகள் கொள்வனவு - நீதிமன்றில் தகவல்
+
+*2024-02-16 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176540) · `ta`
+
+ஒக்சிசன் கொள்வனவு செய்வதற்கு வழங்கப்பட்ட நிதியை பயன்படுத்தி  தரம்குறைந்த மருந்து கொள்வனவு செய்யப்பட்டமை  தெரியவந்துள்ளது.
+
+ஒக்சிசன் கொள்வனவிற்காக வழங்கப்பட்ட 14.5 மில்லியன் ரூபாயினை தரம்குறைந்த இம்யுனோகுளோபுலின் ஊசியை கொள்வனவு செய்வதற்காக குறிப்பிட்ட விநியோகஸ்தரிடம் சுகாதார அமைச்சு வழங்கியுள்ளதாக பிரதிசொலிசிட்ட ஜெனரல் லக்மினி கிரிஹாகம மாளிகாகந்த நீதவான் முன்னிலையில் தெரிவித்துள்ளார்.
+
+சுகாதார அமைச்சராக பணியாற்றியவேளை 8வது சந்தேகநபர்  மருந்து தட்டுப்பாடு காரணமாக நாட்டில் சுகாதாரதுறை வீழ்ச்சியடையும் என தெரிவித்து  அவசரஅவசரமாக மருந்துகளை கொண்டுவருவதற்காக சில கட்டுப்பாடுகளை ஏன் தளர்த்தினார் என்பது குறித்து விசாரணைகளை சிஐடியினர் முன்னெடுத்துள்ளனர் எனவும் பிரதிசொலிசிட்டர் ஜெனரல் தெரிவித்துள்ளார்.
+
+இதேவேளை அமைச்சரவைக்கு சமர்ப்பிக்கப்பட்டுள்ள ஆவணங்களில் உள்ள கையெழுத்துக்களுடன் முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெலவின் கையெழுத்துக்கள் பொருந்துகின்றனவா என ஆராயுமாறு நீதவான் உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/e4a58f3a.json)
+
+---
 
 ### 16-hour water cut to be imposed in parts of Colombo
 
@@ -45,6 +139,22 @@ According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be a
 ◼️
 
 [Data](articles/48cccc3b.json)
+
+[Extended Data](ext_articles/48cccc3b.ext.json)
+
+---
+
+### 2024 LPL පැවැත්වෙන්නේ මෙහෙමයි
+
+*2024-02-16 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193467) · `si`
+
+2024 LPL තරගාවලිය එළඹෙන ජුලි මාසයේදී පැවැත්වෙන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි.
+
+ඒ අනුව ජුලි 01 වනදා සිට ජුලි 21 වනදා දක්වා එම තරගාවලිය පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/41faeeb1.json)
 
 ---
 
@@ -79,6 +189,32 @@ The water supply and drainage board says that the water cut will be imposed from
 [Data](articles/1421d4ee.json)
 
 [Extended Data](ext_articles/1421d4ee.ext.json)
+
+---
+
+### හෙදියන්ටත් රු25000 ක් ?
+
+*2024-02-16 14:10:14* · [`adalk`](https://www.ada.lk/breaking_news/හෙදියන්ටත්-රු25000-ක්--/11-408125) · `si`
+
+සෞඛ්‍යය සේවාවේ වෘතීය සමිති 72ක් ඒකාබද්ධවී සිදුකල වැඩවර්ජනය පසුගියදා තාවකාලිකව නවතා දැමුනා. සෞඛය අමාත්‍යවරයා හා මුදල් අමාත්‍යංශ නිලධාරීන් සමග සිදුකල සාකච්ඡාවේදී ඊට අදාල වෘතීය සමිති සංගම් නියොජිතයන් කිසිදු එකඟතාවයකට පත්ව තිබුනේ නැහැ.
+
+එක්සත් හෙඳ සංගමයට අයත් හෙද සේවයේ නියුතුවූවන් මෙම වර්ජනයට එක් නොවූවද අදාල දීමනා ලබා ගැනීම සඳහා සාඛච්චා සඳහා එක්ව තිබුනා. එක්සත් හෙඳ සංගමයේ සභාපති පූජ්‍ය මුරුත්තෙට්ටුවේ  ආනන්ද හිමියන් පවසන පරිදි තමන්ට මේසඳහා සාධනීය ප්‍රතිචාර ලැබී ඇති බවත්, එළඹෙන 19වැනි සඳදා දින ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමග සාකච්ඡාවෙදී එම දීමනාව ලෙස රු25000ක් ඉල්ලා සිටින බවත් පැවසූහ. ඒ්සඳහාද තමන්ට යහපත් ප්‍රථිචාර ලැබෙනු ඇතැයි උන්වහවහන්සේ වැඩිදුරටත් පවසා සිටියහ.
+
+◼️
+
+[Data](articles/45c9c2c8.json)
+
+---
+
+### கொழும்பு தேசிய வைத்தியசாலையின் பிரதி பணிப்பாளரின் அலுவலகத்தை முற்றுகையிட்ட ஊழியர்கள்
+
+*2024-02-16 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176533) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையின் பிரதி பணிப்பாளர் வைத்தியர் ருக்ஷான்பெல்லன அவரது அலுவலக வளாகத்தில்  ஊழியர்களால் பலவந்தமாக தடுத்துவைக்கபட்டுள்ளதாக கூறப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2511169f.json)
 
 ---
 
@@ -165,6 +301,24 @@ The people of Tirukovil district have expressed their gratitude to the Governor 
 [Data](articles/8c6372c1.json)
 
 [Extended Data](ext_articles/8c6372c1.ext.json)
+
+---
+
+### 5 மாதத்திற்குள் நிறைவேற்றி விட்டார் செந்தில்
+
+*2024-02-16 13:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/5-மாதத்திற்குள்-நிறைவேற்றி-விட்டார்-செந்தில்/74-333312) · `ta`
+
+யுத்தத்தால் பாதிக்கப்பட்ட அம்பாறை மாவட்டத்தின் திருக்கோவில் பிரதேசத்தைச் சேர்ந்த மக்களுக்கு ஐந்து மாதக் காலத்தில்  கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால்  வீடுகள் நிர்மாணிக்கப்பட்டு கையளிக்கப்பட்டது.
+
+யுத்தத்தால் பாதிக்கப்பட்ட அம்பாறை மாவட்டம் திருக்கோவில் பிரதேசத்தை சேர்ந்த  மக்கள், வீடுகள் இன்றி இன்னல்களுக்கு முகம்கொடுத்து வந்த நிலையில், இவ்விடயம் தொடர்பாக   அம்பாறை மாவட்ட அரச அதிபர், திருக்கோயில் பிரதேச செயலாளர், அரச உத்தியோகஸ்தர்கள் மற்றும் பொதுமக்களால் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானின் கவனத்திற்கு கொண்டு வரப்பட்டது.
+
+ஆளுநர் செந்தில் தொண்டமான் அம்பாறை மாவட்டத்தில் திருக்கோவில் பிரதேசத்திற்கு விஜயம் மேற்கொண்டு, மக்களின் குறைகளை கேட்டறிந்து மக்களின் கோரிக்கையை ஏற்று ஐந்து மாதக் காலத்திற்குள் அவர்களுக்கான வீடுகளை நிர்மாணித்து அம்மக்களிடம் கையளித்துள்ளார்.
+
+திருக்கோவில் மாவட்ட  மக்கள் தங்களது கோரிக்கையை குறுகிய காலத்தில் நிறைவேற்றியமைக்காக கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானுக்கும் திருக்கோயில் பிரதேச செயலாளருக்கும் தங்களது நன்றிகளை தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/dee43b63.json)
 
 ---
 
@@ -1849,197 +2003,5 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/b13c4254.json)
 
 [Extended Data](ext_articles/b13c4254.ext.json)
-
----
-
-### Open letter to Education Ministry Secretary over Royal College anti-secular activities
-
-*2024-02-16 06:09:23* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-Education-Ministry-Secretary-over-Royal-College-anti-secular-activities/14-758546) · `en`
-
-Padmasena  Dissanayake, an old boy and a parent, has written an open letter to Education Ministry Secretary Wasantha Perera raising concerns over multiple anti-secular activities in Royal College. Following are excerpts.
-
-As per internal communications I am privy to, Royal College is about to embark on an extravaganza costing its parents over Rs. 7 million. It is a pirith ceremony, a recent phenomenon, which is scheduled to happen on 1 March.
-
-I would like to draw your attention to an article published in Financial Times a year ago https://www.ft.lk/columns/Erosion-of-unique-and-priceless-secularism-of-Royal-College/4-745480.
-
-Following is the message sent to each class teacher urging them to collect money from the students.
-
-How much would 186 Atapirikara cost? At a minimum cost of Rs. 5,000, a total of Rs. 930,000 is expected to be raised.
-
-Dinner for 2,500 pax would garner Rs. 5,580,000 (2,232 per pax).
-
-...
-
-[Data](articles/7c0a0105.json)
-
-[Extended Data](ext_articles/7c0a0105.ext.json)
-
----
-
-### Judicial power of the people and a Presidential interpretation of our Constitution?
-
-*2024-02-16 06:06:43* · [`dailyftlk`](https://www.ft.lk/columns/Judicial-power-of-the-people-and-a-Presidential-interpretation-of-our-Constitution/4-758545) · `en`
-
-The time has come for us as citizens to demand that the abolition of the Executive Presidency is realised as a
-
-“Since 1972 this country has known no monarch and the President has not inherited that mantle. All his powers are limited by the provisions of the constitution.” – Dissolution of Parliament Case (2018)
-
-We as citizens of the country have witnessed in the past weeks some grave political developments that impact the governance of our country.
-
-On 31 January the President’s Media Division (PMD) released a public document. This document indicates that it is meant to be the Secretariat’s interpretation of the President’s powers under our Constitution.
-
-...
-
-[Data](articles/21c2aec0.json)
-
-[Extended Data](ext_articles/21c2aec0.ext.json)
-
----
-
-### Judicial power of the people and a Presidential interpretation of our Constitution?
-
-*2024-02-16 06:06:43* · [`dailyftlk`](https://www.ft.lk/opinion/Judicial-power-of-the-people-and-a-Presidential-interpretation-of-our-Constitution/14-758545) · `en`
-
-The time has come for us as citizens to demand that the abolition of the Executive Presidency is realised as a
-
-“Since 1972 this country has known no monarch and the President has not inherited that mantle. All his powers are limited by the provisions of the constitution.” – Dissolution of Parliament Case (2018)
-
-We as citizens of the country have witnessed in the past weeks some grave political developments that impact the governance of our country.
-
-On 31 January the President’s Media Division (PMD) released a public document. This document indicates that it is meant to be the Secretariat’s interpretation of the President’s powers under our Constitution.
-
-...
-
-[Data](articles/d7d9049a.json)
-
-[Extended Data](ext_articles/d7d9049a.ext.json)
-
----
-
-### Arguments against VAT on books irrefutable
-
-*2024-02-16 06:05:33* · [`dailyftlk`](https://www.ft.lk/opinion/Arguments-against-VAT-on-books-irrefutable/14-758544) · `en`
-
-President Ranil Wickremesinghe reading a book at the Galle Literary Festival 2024 held in January – File photo
-
-I applaud your front-page article on 3 February “Book industry makes clarion call for VAT exemption” (https://www.ft.lk/top-story/Book-industry-makes-clarion-call-for-VAT-exemption/26-758119) and add my voice to those calling for this measure.
-
-The arguments against VAT on books, including the negative impact on education, culture, intellectual progress, literary aesthetics, the knowledge economy and social mobility, are irrefutable.
-
-I have just come from the fabulous Galle Literary Festival, an annual event described by many of the internationally renowned authors attending as the “best literary festival in the world” which attracts a huge influx of tourists and is a massive boon to the economy. What message does this send to the international publishing community?
-
-...
-
-[Data](articles/ac3e9c31.json)
-
-[Extended Data](ext_articles/ac3e9c31.ext.json)
-
----
-
-### Sri Lanka to host first-ever Chinese marathon in May
-
-*2024-02-16 06:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-host-first-ever-Chinese-marathon-in-May/108-277121) · `en`
-
-Sri Lanka will host the first-ever Chinese marathon this May, where over 2000-3000 Chinese athletes will arrive under the ‘Ni Hao Zhong Guo’ programme, Sri Lanka Institute of Tourism and Hotel Management Chairman Shirantha Peiris announced.
-
-Peiris recently visited the municipality of Chongqing in China to finalise an agreement under the Ni Hao Zhong Guo programme to bring in additional Chinese tourists to Sri Lanka over the next two-year period.
-
-Accordingly, it has been proposed to organise a marathon for the Chinese athletes from May 1 to 3, this year. This is to be followed by a seafood festival organised on the Unwatuna beach strip. Sri Lanka Tourism Promotion Bureau Chairman Chalaka Gajabahu revealed plans to make this an annual event.
-
-...
-
-[Data](articles/6714a84e.json)
-
-[Extended Data](ext_articles/6714a84e.ext.json)
-
----
-
-### CPSTL forensic audit reveals alarming irregularities in product sales, distribution
-
-*2024-02-16 05:26:29* · [`dailyftlk`](https://www.ft.lk/news/CPSTL-forensic-audit-reveals-alarming-irregularities-in-product-sales-distribution/56-758531) · `en`
-
-Power and Energy Minister Kanchana Wijesekera notes report shed light on irregularities in the manipulation of SAP data, massive losses, outdated procedures and data management
-
-Full report to be handed over by KPMG next week for further investigation by CID and legal action
-
-Pledges to share report with Cabinet, Parliament, Auditor General, Attorney General’s Department for next steps
-
-Power and Energy Minister Kanchana Wijesekera revealed yesterday the findings of a forensic audit conducted by KPMG on the sales and distribution of petroleum products from Ceylon Petroleum Storage Terminals Ltd. (CPSTL).
-
-Taking to ‘X’ he noted that the audit’s revelations shed light on irregularities within the system on manipulation of SAP data, massive losses and outdated procedures and data management.
-
-...
-
-[Data](articles/451d475d.json)
-
-[Extended Data](ext_articles/451d475d.ext.json)
-
----
-
-### JICA Chief calls President to discuss economic reforms and investment projects
-
-*2024-02-16 05:25:15* · [`dailyftlk`](https://www.ft.lk/news/JICA-Chief-calls-President-to-discuss-economic-reforms-and-investment-projects/56-758530) · `en`
-
-Govt. says JICA focuses on debt restructuring alongside project resumption
-
-Japan International Cooperation Agency (JICA) President Dr. Tanaka Akihiko on Wednesday called on President Ranil Wickremesinghe and discussed economic reforms and investment projects.
-
-President’s Media Division said yesterday during the meeting, Dr. Akihiko expressed gratitude for President Wickremesinghe’s commitment to the economic reform program, acknowledging its challenging nature.
-
-In response, President Wickremesinghe emphasised his focus on ensuring the swift resumption of the investment projects, including the expansion of the BIA, the LRT, and the central expressway.
-
-The President also conveyed appreciation for continues support provided by the Government of Japan and JICA towards Sri Lanka during the economic crisis.
-
-Dr. Akihiko elaborated on JICA’s efforts, highlighting the priority of concluding debt restructuring while also aiming for the resumption of stalled projects.
-
-...
-
-[Data](articles/b933c733.json)
-
-[Extended Data](ext_articles/b933c733.ext.json)
-
----
-
-### Ex-JVP MP Nalinda slams CEB’s tariff proposal as inadequate
-
-*2024-02-16 05:24:10* · [`dailyftlk`](https://www.ft.lk/news/Ex-JVP-MP-Nalinda-slams-CEB-s-tariff-proposal-as-inadequate/56-758529) · `en`
-
-Says 3% decrease is unsatisfactory and advocates for a reduction between 28% - 33%
-
-Urges PUCSL not base its decision on new revision proposal on CEB data alone
-
-Raises doubts on reliability of CEB data and questions unusual three-fold projected hike in generation and transmission costs for 2024
-
-Asks PUCSL to look into reasons behind this increase to determine if they are reasonable
-
-Stresses that notion of ‘reasonable costs’ noted in law can only hold meaning if fairness to citizens is ensured
-
-Former Janatha Vimukthi Peramuna (JVP) MP Dr. Nalinda Jayatissa yesterday said the new electricity tariff revision proposed by the CEB is unacceptable, and a mere 3% decrease is unsatisfactory and inadequate. Instead, he advocated for a reduction of electricity tariffs ranging between 28% to 33%. “I am not simply throwing out numbers but presenting them through thorough analysis,” he asserted.
-
-...
-
-[Data](articles/a52a0a96.json)
-
-[Extended Data](ext_articles/a52a0a96.ext.json)
-
----
-
-### Five-way tie for 1st place in Transparency in Corporate Reporting Assessment 2023 by TISL
-
-*2024-02-16 05:22:45* · [`dailyftlk`](https://www.ft.lk/business/Five-way-tie-for-1st-place-in-Transparency-in-Corporate-Reporting-Assessment-2023-by-TISL/34-758528) · `en`
-
-From left: TISL Program Officer (Private Sector) Fredrick Winslaw, TISL Executive Director Nadishani Perera and TISL Program Manager (Private Sector) Nicole Elias at press briefing of Transparency in Corporate Reporting (TRAC) 2023 – Pic by Ruwan Walpola
-
-The Transparency International Sri Lanka (TISL) yesterday announced findings of the assessment of transparency in corporate reporting.
-
-It said John Keells Holdings PLC and Teejay Lanka PLC who ranked first in previous Transparency in Corporate Reporting Assessments (TRAC) were joined this year by Ceylon Tobacco Company PLC, Dialog Axiata PLC, and Dilmah Ceylon Tea Company PLC.
-
-TISL said all have achieved the full score for transparency in corporate reporting, while 27 companies are considered ‘Significantly Transparent’ in corporate reporting.
-
-...
-
-[Data](articles/92c224c0.json)
-
-[Extended Data](ext_articles/92c224c0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 12:17:33**
+As of **2024-02-16 12:32:48**
 
 ## Newspaper Stats
 
-*Scraped **7,426** Articles*
+*Scraped **7,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,110 @@ newsfirstlk | 363
 islandlk | 385
 economynextcom | 387
 dailyftlk | 402
-adalk | 633
-tamilmirrorlk | 904
+adalk | 635
+tamilmirrorlk | 906
 adaderanalk | 907
 virakesarilk | 974
 adaderanasinhalalk | 1,053
-dailymirrorlk | 1,086
+dailymirrorlk | 1,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,424 (100.0%) of 7,426 articles have been extended.
+7,426 (99.9%) of 7,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### තවත් දෙදෙනෙක් සජබය ට
+### கயிற்றில் யுவதி தொங்கவில்லை
+
+*2024-02-16 11:50:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கயிற்றில்-யுவதி-தொங்கவில்லை/76-333304) · `ta`
+
+படத்தை பார்க்கும் போது, யுவதியொருவர் தொங்கிக்கொண்டிருப்பதை போல தெரியும் எனினும், கதை வேறாகும்.
+
+தலவாக்கலை, மேல் கொத்மலை நீர்த்தேக்கத்தில் தவறி விழுந்த யுவதியொருவர் தலவாக்கலை பிரதேச மக்கள் மற்றும் பொலிஸாரால் பெரும் பிரயத்தனத்து பின்னர் மீட்கப்பட்டுள்ளார்.
+
+மேல் கொத்மலை நீர்த்தேக்கத்தில் தலவாக்கலை கூட்டுறவு தலைமை அலுவலகத்துக்கு அருகாமையில் மிகவும் ஆழமான இடத்தில் இளம் பெண் வீழ்ந்துள்ளார், மேலும் அவர் நீர்த்தேக்கத்தில் தத்தளித்ததைக் கண்ட  மக்கள் எடுத்த உடனடி நடவடிக்கையால் அவரது உயிரைக் காப்பாற்ற முடிந்தது.
+
+ஒரு சிலர் நீர்த்தேக்கத்தில் குதித்து அவளைப் பிடித்தனர், நீர்த்தேக்கத்துக்கு மேலே நின்றிருந்தவர்கள் கயிறுகளை போட்டு, மிகவும் சிரமப்பட்டு கரைக்கு இழுத்தனர், பின்னர் அவர் சிகிச்சைக்காக லிந்துலை பிராந்திய மருத்துவமனையில் அனுமதிக்கப்பட்டார்.
+
+அக்கரபத்தன பிரதேசத்தைச் சேர்ந்த 24 வயதுடைய யுவதி ஒருவர் நீர்த்தேக்கத்தில் தவறி விழுந்து மீட்கப்பட்டுள்ளார். வேலை ஒன்று இல்லையே என யோசித்துகொண்டே நீர்த்தேக்கத்துக்கு ஓரமாக சென்று கொண்டிருந்த போதே, நீர்த்தேக்கத்துக்குள் தவறி விழுந்துள்ளார்.
+
+◼️
+
+[Data](articles/bc020e7e.json)
+
+---
+
+### Forensic audit reveals frauds at Ceylon Petroleum Corporation
+
+*2024-02-16 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Forensic-audit-reveals-frauds-at-Ceylon-Petroleum-Corporation/108-277165) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - KPMG's forensic audit into discrepancies at Ceylon Petroleum Corporation (CPC) and Ceylon Petroleum Storage Terminals (CPSTL) has revealed substantial losses attributed to alterations and deletions in SAP data related to stock holdings.
+
+The forensic audit was initiated in response to a complaint filed by the Power and Energy Minister with the Criminal Investigations Department (CID) in August 2022.
+
+The major findings of the forensic audit conducted by KPMG on the sales and distribution of petroleum products from the CPSTL was briefed to Minister Kanchana Wijesekera last afternoon.
+
+Accordingly, the KPMG and CPSTL audit investigation officials have found that more than 1.3 million entries on SAP data have been changed or deleted since 2010 and most have occurred in 2022 during the height of the fuel crisis.
+
+After the complaint was lodged in August 2022 the number had significantly reduced in 2023.
+
+...
+
+[Data](articles/c6a7f64b.json)
+
+---
+
+### ஜீவனை சந்தித்தார் ஸ்ரீதரன்
+
+*2024-02-16 11:40:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜீவனை-சந்தித்தார்-ஸ்ரீதரன்/71-333303) · `ta`
+
+இலங்கை தமிழரசுக் கட்சியின் தலைவராக தெரிவாகியிருக்கும் சிவஞானம் ஸ்ரீதரனை மரியாதை நிமித்தம் இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரும் அமைச்சருமான ஜீவன் தொண்டமான் சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இதன்போது இலங்கை தமிழரசுக்கட்சியின் தலைவராக தெரிவாகியிருக்கும் சிவஞானம் ஸ்ரீதரனுக்கு, ஜீவன் தொண்டமான் வாழ்த்துகளை தெரிவித்து கொண்டார்.
+
+யாழ்ப்பாணம் கிளிநொச்சி மாவட்டத்தில் மேற்கொள்ளப்பட உள்ள  நீர் வழங்கல் தொடர்பிலான விடயங்கள் தொடர்பிலும் இதன்போது கலந்துரையாடப்பட்டது.
+
+◼️
+
+[Data](articles/edaff461.json)
+
+---
+
+### මේ තරුණිය කෙත්මලා ජලාශයට වැටුනේ කොහොමද?
+
+*2024-02-16 11:37:26* · [`adalk`](https://www.ada.lk/breaking_news/මේ-තරුණිය-කෙත්මලා-ජලාශයට-වැටුනේ-කොහොමද-/11-408124) · `si`
+
+ඉහළ කොත්මලා ජලාශයේ තලවකැලේ සමුපකාර ප්‍රධාන කාර්යාලය ආශ්‍රිත දැඩි ගැඹුරකින් යුත් ස්ථානයකට මෙම තරුණිය වැටී  ඇති අතර, ඇය ජලාශයේ දලගමින් සිටින අයුරු දැක ඇති නගර වැසියන් ක්ෂණිකව ක්‍රියාත්මකවීම හේතුවෙන් ඇයගේ ජීවිතය ගලවා ගැනීමට හැකි වී තිබේ.
+
+නගරය වැසියන් කීපදෙනෙකු ජලාශයට පැන ඇය අල්ලා ගෙන සිටියදී අනෙකුත් පිරිස ලණු දමා දැඩි අසීරුවෙන්ගො ඩට ගෙන ඇති අතර, පසුව ඇය ප්‍රතිකාර සඳහා ලිඳුල ප්‍රාදේශීය රෝහලට ඇතුළත් කොට තිබේ. වයස අවුරුදු 24 ක ආගරපතන ප්‍රදේශයේ තරුණියක්මෙ සේ ජලාශයට වැටී සිටියදී ගොඩ ගෙන ඇති බවත්, රැකියාවක් නොමැතිව ඒ පිළිබඳව සිතමින් ජලාශය ආසන්නයෙන් ගමන් කරමින් සිටියදි ක්ලාන්ත ගතියක් ඇති වී ජලාශයට ඇද වැටුණු බව මෙම තරුණිය ප්‍රකාශ කොට ඇතැයි පොලීසිය පවසයි. කෙසේ වෙතත් මෙම ස්ථානයේ ආරක්ශිත වැටක්ද පවතියි.
+
+රෝහලට ඇතුලත් කරන ලද තරුණියගේ භාහිර තුවාල කිසිවක් නොතිබුණු බවත්, මානසික වෛද්‍යවරයෙකුට යොමු කිරීම උදෙසා නුවරඑළිය දිස්ත්‍රික් මහ රෝහල වෙත එම තරුණිය යොමු කිරීමට පියවර ගෙන ඇතැයි ලිඳුල ප්‍රාදේශීය රෝහලේ ප්‍රධාන වෛද්‍ය නිලධාරි අසේල සුරංජිත්ම හතා පැවැසීය.
+
+...
+
+[Data](articles/e5cb2fec.json)
+
+---
+
+### Two others to the animation
 
 *2024-02-16 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193458) · `si`
 
-තවත් දේශපාලන ක්‍රියාකාරීන් දෙදෙනෙක් සමගි ජන බලවේගය සමග එක්වී තිබේ.
+Two other political activists have joined the reconciliation.
 
-ගාමිණී තිලකසිරි සහ ගාමිණී සිල්වා එලෙස සජිත් ප්‍රේමදාස මහතාට සහාය පළ කරමින් සමගි ජන බලවේගය සමග එක්වී ඇත.
+Gamini Thilakasiri and Gamini Silva have joined the reconciliation to support Sajith Premadasa.
 
-සජිත් ප්‍රේමදාස මහතාගේ 100 වන සක්වළ වැඩසටහනේදී මෙලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ හිටපු පළාත් සභා මන්ත්‍රීවරුන් වන ගාමිණී තිලකසිරි සහ ගාමිණි සිල්වා යන මහත්වරුන් සජබ ය සමග එක්වී තිබේ.
+Former Sri Lanka Freedom Party (SLFP) councilor Gamini Thilakasiri and Gamini Silva, the SLFP Provincial Councilors.
 
 ◼️
 
 [Data](articles/57c00e5f.json)
+
+[Extended Data](ext_articles/57c00e5f.ext.json)
 
 ---
 
@@ -72,19 +146,55 @@ The body of the girl has been recovered early morning (16) during the search for
 
 ---
 
-### ජනතා විරෝධයකින් පාරක් අවහිර වෙයි
+### A road blocked by public opposition
 
 *2024-02-16 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193457) · `si`
 
-ජනතා විරෝධයක් හේතුවෙන් මේ වනවිට කොළඹ - වැල්ලවාය ප්‍රධාන මාර්ගය සම්පූර්ණයෙන්ම අවහිර වී තිබේ.
+The Colombo Wellawaya main road has been completely blocked due to a popular opposition.
 
-අප වාර්තාකරු පැවසුවේ වැල්ලවාය වෙහෙරයාය ප්‍රදේශයේ පවතින වනඅලි ගැටලුවලට විසඳුමක් ඉල්ලා මේ වනවිට වැල්ලවාය තණමල්විල ප්‍රධාන මාර්ගය වැල්ලවාය වෙහෙරයාය ප්‍රදේශයෙන් සම්පූර්ණයෙන් අවහිර කරමින් විරෝධය පැවැත්වෙන බවය.
+Our correspondent said that Wellawaya Thaniyalawalwila main road in Wellawaya, Wellawaya Taamalwila main road in Wellawaya, Wellawaya was completely blocked by Wellawaya, Wellawaya.
 
-ඒ හේතුවෙන් කිලෝමීටර් ගණනක මාර්ග තදබදයක් හටගෙන ඇති බවද වාර්තා වෙයි.
+As a result, a number of traffic was reported.
 
 ◼️
 
 [Data](articles/5ddc62b1.json)
+
+[Extended Data](ext_articles/5ddc62b1.ext.json)
+
+---
+
+### Current economic stability due to non-payment of external debt: Bandula
+
+*2024-02-16 11:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Current-economic-stability-due-to-non-payment-of-external-debt-Bandula/108-277166) · `en`
+
+The government has been able to ensure continuous supply of gas, fuel and other necessities right now as Sri Lanka had suspended repaying external debt, Minister Bandula Gunawardena said yesterday.
+
+Speaking at a workshop for journalists in Colombo, he said Sri Lanka had defaulted USD 36 million external debt and that the government has been able to obtain moratorium on debt repayment after diplomatic negotiations.
+
+Colombo, Feb. 16 (Daily Mirror)- The Minister said Sri Lanka had been able to come to an agreement with the creditors and prevented legal action being taken against Sri Lanka for non-payment of external loans while in some cases Sri Lanka had to face law suits.
+
+He said Sri Lanka has to pay 37 percent of external debt within the next five to six years while 51 percent of loans are required to be paid between 6 and 21 years and the other 12 percent is to be paid after 20 years.
+
+...
+
+[Data](articles/60f76180.json)
+
+---
+
+### Rubber tappers awarded with NVQ-3
+
+*2024-02-16 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rubber-tappers-awarded-with-NVQ-3/108-277162) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - A total of 169 rubber harvesting assistants were awarded the NVQ-3 certificates for the first time in Sri Lanka at the Agalawatta Rubber Research Institute after two weeks of intensive training.
+
+The National Apprenticeship Board has taken steps to provide national vocational skills certificates to rubber harvesting assistants in the rubber industry, following a request from the Ministry of Agriculture and Plantation Industries.
+
+They were designated as Rubber Harvesting Assistants in order to protect the dignity of the rubber tapper. The Rubber Research Institute had taken steps to present the certificates to the rubber harvesting assistants wearing a graduation cloak during the presentation of the National Vocational Skills Certificates.
+
+...
+
+[Data](articles/cabcd5b3.json)
 
 ---
 
@@ -154,31 +264,9 @@ The two suspects have been handed over to the Peliyagoda Police for further inve
 
 ---
 
-### Make more kids - Putin asks
-
-*2024-02-16 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193454) · `si`
-
-Vladimir Putin has requested his public to make more children.
-
-He says that it is important to be at least two children in every family.
-
-In 2022, the Russian army invaded Ukraine in 2022, and a large number of Russians have died and a large number of Russians have died due to the war.
-
-"We must have two children in at least two children in one family for us to be a nation. If only a child is making one child, our population is closed ..., "Addressing a group of employees of a factory, the Russian President said.
-
-At the beginning of 2023, the population of Russia was 146.4 million.
-
-◼️
-
-[Data](articles/8d3c5e7b.json)
-
-[Extended Data](ext_articles/8d3c5e7b.ext.json)
-
----
-
 ### The international community realizes that we will win the elections - for the reason we have been invited to India - India's security is the security of Sri Lanka.
 
-*2024-02-16 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176511) · `ta`
+*2024-02-16 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176511) · `ta`
 
 The visit to India is really special, and at home and abroad, people understand that people are with us.
 
@@ -203,6 +291,28 @@ It is well known that India and China are involved in the World Wide Competition
 [Data](articles/1b2c43af.json)
 
 [Extended Data](ext_articles/1b2c43af.ext.json)
+
+---
+
+### Make more kids - Putin asks
+
+*2024-02-16 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193454) · `si`
+
+Vladimir Putin has requested his public to make more children.
+
+He says that it is important to be at least two children in every family.
+
+In 2022, the Russian army invaded Ukraine in 2022, and a large number of Russians have died and a large number of Russians have died due to the war.
+
+"We must have two children in at least two children in one family for us to be a nation. If only a child is making one child, our population is closed ..., "Addressing a group of employees of a factory, the Russian President said.
+
+At the beginning of 2023, the population of Russia was 146.4 million.
+
+◼️
+
+[Data](articles/8d3c5e7b.json)
+
+[Extended Data](ext_articles/8d3c5e7b.ext.json)
 
 ---
 
@@ -271,6 +381,28 @@ The body of the girl has been recovered this morning (16) during the search for 
 [Data](articles/5886f451.json)
 
 [Extended Data](ext_articles/5886f451.ext.json)
+
+---
+
+### ඊශ්‍රායලය සහ ශ්‍රී ලංකාව අතර සෘජු ගුවන් සේවා
+
+*2024-02-16 10:10:00* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායලය-සහ-ශ්‍රී-ලංකාව-අතර-සෘජු-ගුවන්-සේවා/11-408119) · `si`
+
+ඊශ්‍රායලය සහ ශ්‍රී ලංකාව අතර සෘජු ගුවන් සේවා සම්මුතියකට අත්සන් තැබුණු බව වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
+
+මෙරට ශ්‍රමිකයන් විදෙස් ගත කිරීමේදී සිදුවන ප්‍රමාදය වැළැක්වීම ද මෙම ගිවිසුමේ ප්‍රධාන අරමුණක් වන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+එමෙන්ම නාවික ක්ෂේත්‍රයේ ඇති බහාලුම් ප්‍රවාහනය කිරීමේ ප්‍රමාණය 32%කින් පමණ වර්ධනය වී අති බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා මෙසේ ද පැවසීය,
+
+ඊශ්‍රායලය සහ ශ්‍රී ලංකාව අතර සෘජු ගුවන් සේවා සම්මුතියකට අද පෙරවරුවේ අත්සන් තැබුණා. ඊශ්‍රායල ගමනාගමන අමාත්‍යවරිය සහ වරාය, නාවික හා ගුවන් සේවා අමාත්‍යාංශය අතර අත්සන් කෙරුණු ගිවිසුමට අනුව දෙරට අතර සෘජු ගුවන් සේවා ආරම්භ කිරීමට නියමිතයි. ඒ සමඟ මගීන්ට අවශ්‍යතාව පහසුකම් සැපයීම අපගේ අරමුණයි.
+
+...
+
+[Data](articles/214b5949.json)
 
 ---
 
@@ -1929,147 +2061,5 @@ Preliminary police investigations have revealed that the crime has been carried 
 [Data](articles/db781864.json)
 
 [Extended Data](ext_articles/db781864.ext.json)
-
----
-
-### Myths & Delusions Of IHP’s ‘Sri Lanka Opinion Tracker Survey’
-
-*2024-02-15 21:01:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/myths-delusions-of-ihps-sri-lanka-opinion-tracker-survey/) · `en`
-
-...
-
-[Data](articles/54c271d7.json)
-
-[Extended Data](ext_articles/54c271d7.ext.json)
-
----
-
-### President to open the center of the middle water project
-
-*2024-02-15 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193433) · `si`
-
-President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe at the Mahakanadadarawa Water Pavoli.
-
-Residents, however, accused of protest in front of the festive land, accusing of a shortage of water in their area due to the project.
-
-The police and protesters occurred when they were to remove the protest.
-
-Thereafter, a group of villagers were present to discuss the issue.
-
-"Some people come and protest and move home. The wife is listening to why how can I take water?. We both resolve the problem and drink drinking water, so that the economy cannot do anything that the economy is worth the water.The ownership of the licenses are also given to Colombo flats and a good future in a new economy, if there is a surplus, to sell a new economy, if there is a surplus. "
-
-◼️
-
-[Data](articles/cb24acd6.json)
-
-[Extended Data](ext_articles/cb24acd6.ext.json)
-
----
-
-### Better to abolish executive presidency; I have already enjoyed it: Mahinda
-
-*2024-02-15 20:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Better-to-abolish-executive-presidency-I-have-already-enjoyed-it-Mahinda/108-277099) · `en`
-
-Colombo, Feb 15 (Daily Mirror) - Former President and MP Mahinda Rajapaksa expressed the opinion that it will be preferable to abolish the Executive Presidency and said that he had enjoyed having held the position.
-
-Answering a question raised by a journalist about the political situation in the country, he said the country's political situation is good and that it is better to abolish the Executive Presidency.
-
-"It should be abolished because the whole country is requesting to abolish it.
-
-"Attempting to postpone the Presidential election might be a trap for the opposition. We know President Ranil Wickremesinghe well," he said.
-
-"Whatever the election, our candidate will be victorious. Our candidate will come to the stage at the correct time. Wait for that," he said.
-
-...
-
-[Data](articles/c0432e71.json)
-
-[Extended Data](ext_articles/c0432e71.ext.json)
-
----
-
-### A suggestion to restructure small and medium scale business loans
-
-*2024-02-15 20:29:35* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-හා-මධ්‍ය-පරිමාණ-ව්‍යාපාරික-ණය-ප්‍රතිව්‍යුහ-ගත-කිරීමට-යෝජනාවක්/11-408118) · `si`
-
-If small and medium scale businessmen are not restructured by the loans obtained for industries, Sri Lankan micro, small, small and the Meditial Commerce that financial institutions are being acquired by financial institutions.
-
-According to the Vasabhaletes President of the Association, the law of the Association also said that the law should be acquired by the Paradise law and that the law should be prepared and the law should be prepared to suit the present.
-
-He said that thousands of businessmen were helpless to pay the loans obtained due to the existing economy crisis.
-
-He said that two three-three businessmen have been informed of the takeover of property under the Parade Law last year, he said.
-
-He has taken over the unemployment to employers and to pay the jobs in the country due to the acquisition of property.Said.
-
-...
-
-[Data](articles/4f8ec3bd.json)
-
-[Extended Data](ext_articles/4f8ec3bd.ext.json)
-
----
-
-### Red announcements for 42 criminals
-
-*2024-02-15 20:24:15* · [`adalk`](https://www.ada.lk/breaking_news/අපරාධකරුවන්-42කට-රතු-නිවේදන/11-408117) · `si`
-
-Acting IGP Deshanayake Tennakoon said that 42 international red notices have been issued to arrest the criminal crime and the drug delegation.
-
-The Pushaky or "Pusha 'was taken as a disciple of the drug, which was brought to Sri Lanka and be taken to Sri Lanka by obtaining the assistance of the international police.He said.
-
-Speaking at the opening of a new police post in front of the Colombo National Hospital yesterday (SLM), allegedly supporting the plans to escape the CID to escape Criminal Investigations DepartmentThe police officer who is currently underway is to be taken to the country and the assistance of the international police are being taken to bring about it.
-
-◼️
-
-[Data](articles/4ce451e4.json)
-
-[Extended Data](ext_articles/4ce451e4.ext.json)
-
----
-
-### Three arrested for admits
-
-*2024-02-15 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193432) · `si`
-
-The Organization Criminal Investigation Division of the Colombo Crimes Division has arrested three suspects in the Colombo Crimes Division.
-
-One of them is a person who has been exchanged the food parcel and two others who had taken the other two transport facilities to the police.
-
-The incident was held on the 24th of January on the 24th of January, the garden food parcel was given to this person near a restaurant in the Hettivesi area.
-
-Then he will take it to Kotahena and recorded in CCTV cameras.
-
-Later, the person had been given the food parcel near the Kovil in Jampatta near the Kovil of the Jampta Lane.
-
-The main suspect then visited the Locas area of Orugodawatta and two of his friends and recovered a bus.
-
-The police said that the son of Kudu Selvi, who was hiding abroad, was conducted by Palani Rihonne, a son of Kudu Selvi.
-
-Accordingly, the police have arrested the police and the two persons who helped him to flee the parcel
-
-...
-
-[Data](articles/96cb3560.json)
-
-[Extended Data](ext_articles/96cb3560.ext.json)
-
----
-
-### Kalpitiya Police Station suspended
-
-*2024-02-15 20:08:13* · [`adalk`](https://www.ada.lk/breaking_news/කල්පිටිය-පොලිස්-ස්ථානාධිපතිවරයාගේ-වැඩ-තහනම්/11-408115) · `si`
-
-Police Headquarters announces that the duties of the Kalpitiya Police Headquarters said that the duties of the Kalpitiya Police said that the duties of the Kalpitiya Police have banned the women's constable.
-
-The Kuliyapitiya Divisional Senior Superintendent (SSP) Senior Superintendent of the North Western Province has commenced investigations into the matter.
-
-Accordingly, the Inspector of Police has been produced before the Puttalam Magistrate's Court on Tuesday and released on bail. Police Officers say that the police inspector has banned the duties of the Police Headquarters regarding the matter.
-
-◼️
-
-[Data](articles/28b435f1.json)
-
-[Extended Data](ext_articles/28b435f1.ext.json)
 
 ---

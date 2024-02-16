@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 16:33:07**
+As of **2024-02-16 16:47:47**
 
 ## Newspaper Stats
 
-*Scraped **7,493** Articles*
+*Scraped **7,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,76 @@ adalk | 639
 tamilmirrorlk | 915
 adaderanalk | 918
 virakesarilk | 982
-adaderanasinhalalk | 1,064
-dailymirrorlk | 1,099
+adaderanasinhalalk | 1,065
+dailymirrorlk | 1,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,482 (99.9%) of 7,493 articles have been extended.
+7,495 (100.0%) of 7,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### யாழில் தவளை ஐஸ் கிறீம் விற்றவருக்கு 5 ஆயிரம் ரூபாய் தண்டம்
+### No one is talking today of restoring my civic rights: Ranjan
+
+*2024-02-16 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-one-is-talking-today-of-restoring-my-civic-rights-Ranjan/108-277179) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - No one is talking today of restoring my lost civic rights, former Samagi Jana Balawegaya (SJB) MP Ranjan Ramanayake said today.
+
+"I have lost my civic rights for seven years. I cannot speak on politics as per the conditional pardon offered by the President. Therefore, I abide by the conditions laid out when the President Ranil Wickremesinghe offered to release me from jail," he added.
+
+Ramanayake who was found guilty of contempt of court in 2021 was released by the incumbent President in 2022.
+
+◼️
+
+[Data](articles/605f21b2.json)
+
+[Extended Data](ext_articles/605f21b2.ext.json)
+
+---
+
+### Wasp attack on students who class supporters
+
+*2024-02-16 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193472) · `si`
+
+A group of students who participated in a tuition class in Mawanella have attacked.
+
+According to our correspondent, about 30 children who were attacked by wasp attack have been admitted to the Mawanella Base Hospital.
+
+Our correspondent said doctors are checking their status.
+
+◼️
+
+[Data](articles/77354da1.json)
+
+[Extended Data](ext_articles/77354da1.ext.json)
+
+---
+
+### Frog ice cream sold in Jaffna 5 thousand rupees
 
 *2024-02-16 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176550) · `ta`
 
-யாழ்ப்பாணம் - செல்வ சந்நிதி ஆலய சூழலில் விற்பனை செய்யப்பட்ட ஐஸ் கிறீமில் தவளை காணப்பட்டமை தொடர்பிலான வழக்கில் குற்றத்தை ஒப்புக்கொண்ட , விற்பனையாளருக்கு நீதிமன்றம் 5 ஆயிரம் ரூபாய் தண்டம் விதித்துள்ளது.
+The court has sentenced the seller to a further 5 thousand rupees for the alleged crime in the case of the frog in the Ice Chrim, which was sold in the Jaffna -Selvam temple environment.
 
-கடந்த புதன்கிழமை ஆலய சூழலில் ஐஸ் கிறீம் விற்பனையில் ஈடுபட்டவரிடம், அதனை வாங்கிய நபர் ஒருவரின் ஐஸ் கிறீமில் தவளை ஒன்று காணப்பட்டது.
+Last Wednesday, a frog was found in the ice cream of a person who bought it, who was involved in the sale of ice cream in the temple environment last Wednesday.
 
-அது தொடர்பில் சுகாதார பிரிவினருக்கு அறிவிக்கப்பட்டதை அடுத்து , விசாரணைகளை முன்னெடுத்த வல்வெட்டித்துறை சுகாதார பரிசோதகர் ஐஸ் கிறீம் விற்றவருக்கு எதிராக பருத்தித்துறை நீதவான் நீதிமன்றில் வழக்கு தொடர்ந்தார்.
+Following the announcement of the health unit, the Valvettithurai Health Inspector filed a case against the Point Pedro Magistrate's Court against the Ice Cream solder.
 
-குறித்த வழக்கு இன்று வெள்ளிக்கிழமை (16) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது , ஐஸ் கிறீமியை விற்பனை செய்தவர் , சுன்னாகம் பகுதியில் இயங்கும் ஐஸ் கிறீம் தயாரிப்பு நிறுவனத்திடம் கொள்வனவு செய்தே , ஆலய சூழலில் விற்பனை செய்வதாக தெரிவித்துள்ளார்.
+When the case was taken up for hearing on Friday (16), he said that the solder who sold ice cream was selling to the Ice Cream Manufacturer in the Chunnakam area and selling it in the temple environment.
 
-இதேவேளை, சந்நிதி ஆலய சூழலில் சுகாதார சீர்கேட்டுடன் நடாத்தி செல்லப்பட்ட உணவகம் ஒன்றிற்கு எதிராக தொடரப்பட்ட வழக்கில் உணவக உரிமையாளருக்கு 36 ஆயிரம் ரூபாய் தண்டப்பணம் விதிக்கப்பட்டுள்ளது.
+Meanwhile, a restaurant owner has been fined Rs 36,000 in the case against a restaurant in the temple environment.
+
+Hundreds of people visit the Historical Sabha Temple daily for worship and for wedding ceremonies at the temple.
 
 ...
 
 [Data](articles/dfe309b9.json)
+
+[Extended Data](ext_articles/dfe309b9.ext.json)
 
 ---
 
@@ -67,6 +107,8 @@ Thus, the 32-year-old husband has been arrested by the police.
 ◼️
 
 [Data](articles/62d37bba.json)
+
+[Extended Data](ext_articles/62d37bba.ext.json)
 
 ---
 
@@ -99,6 +141,8 @@ The suspects were arrested by the Meegoda police yesterday following a complaint
 ◼️
 
 [Data](articles/d56c3e07.json)
+
+[Extended Data](ext_articles/d56c3e07.ext.json)
 
 ---
 
@@ -272,6 +316,8 @@ Colombo, Feb 16 (Daily Mirror) - The minor staff workers of the Naional Hospital
 
 [Data](articles/3ed10505.json)
 
+[Extended Data](ext_articles/3ed10505.ext.json)
+
 ---
 
 ### A 16-hour water cut in Colombo
@@ -291,6 +337,8 @@ Further, the NWS&DB has requested the cooperation of the public to conserve wate
 ◼️
 
 [Data](articles/d0a30c67.json)
+
+[Extended Data](ext_articles/d0a30c67.ext.json)
 
 ---
 
@@ -328,6 +376,8 @@ Each team will be comprised of a minimum of 20 players and a maximum of 24 playe
 
 [Data](articles/e18bebe0.json)
 
+[Extended Data](ext_articles/e18bebe0.ext.json)
+
 ---
 
 ### Young woman falls into Upper Kotmale reservoir
@@ -348,6 +398,8 @@ Chief Medical Officer of the Lindula hospital Dr. Asela Suranjith said she  had
 
 [Data](articles/6ee8511b.json)
 
+[Extended Data](ext_articles/6ee8511b.ext.json)
+
 ---
 
 ### Wedding Show 2024 at BMICH
@@ -359,6 +411,8 @@ Chief Medical Officer of the Lindula hospital Dr. Asela Suranjith said she  had
 ◼️
 
 [Data](articles/8f6ca71e.json)
+
+[Extended Data](ext_articles/8f6ca71e.ext.json)
 
 ---
 
@@ -375,6 +429,8 @@ A majority judgment of the petitioner and High Court Judge M.C.B.S. Moraes found
 ...
 
 [Data](articles/271e7b3a.json)
+
+[Extended Data](ext_articles/271e7b3a.ext.json)
 
 ---
 
@@ -411,6 +467,8 @@ Police said investigations are focused on a suspicious person residing in the ar
 ◼️
 
 [Data](articles/4320feb3.json)
+
+[Extended Data](ext_articles/4320feb3.ext.json)
 
 ---
 
@@ -753,6 +811,8 @@ Maken said that the party was informed on Thursday that banks are not honouring 
 ...
 
 [Data](articles/60bdefb4.json)
+
+[Extended Data](ext_articles/60bdefb4.ext.json)
 
 ---
 
@@ -1989,51 +2049,5 @@ According to information received from the suspect, another suspect and a suspec
 [Data](articles/75f85b30.json)
 
 [Extended Data](ext_articles/75f85b30.ext.json)
-
----
-
-### Greece legalises same sex marriage in landmark change
-
-*2024-02-16 06:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97310/greece-legalises-same-sex-marriage-in-landmark-change) · `en`
-
-Greece’s parliament approved a bill allowing same-sex civil marriage on Thursday, a landmark victory for supporters of LGBT rights that was greeted with cheers by onlookers in parliament and dozens gathered on the streets of Athens.
-
-The law gives same-sex couples the right to wed and adopt children and comes after decades of campaigning by the LGBT community for marriage equality in the socially conservative country.
-
-Greece is one of the first Orthodox Christian countries to allow such unions.
-
-“This is a historic moment,” Stella Belia, the head of same-sex parents group Rainbow Families, told Reuters. “This is a day of joy.”
-
-The bill was approved by 176 lawmakers in the 300-seat parliament and will become law when its published in the official government gazette.
-
-...
-
-[Data](articles/48a44bbf.json)
-
-[Extended Data](ext_articles/48a44bbf.ext.json)
-
----
-
-### It is the right thing to remove the Executive Committee - I have already experienced it - Mahinda
-
-*2024-02-16 06:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176500) · `ta`
-
-Former President Mahinda Rajapaksa has said that it is the right step to eliminating the executive authority.
-
-Mahinda Rajapaksa said that it is better to abolish the executive power of the country.
-
-The former president has said that the entire country should be removed as the executive presidency be removed.
-
-Mahinda Rajapaksa said that trying to overcome the presidential election may be a trap for the opposition.
-
-Whatever the election, our candidates will win. They will come to the stage at the right moment, ”he said.
-
-Commenting on the JVP leader's visit to India, Mahinda Rajapaksa said that the JVP has finally felt the need to establish ties with countries like India.
-
-◼️
-
-[Data](articles/37dad217.json)
-
-[Extended Data](ext_articles/37dad217.ext.json)
 
 ---

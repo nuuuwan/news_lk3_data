@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 17:33:37**
+As of **2024-02-16 17:53:05**
 
 ## Newspaper Stats
 
-*Scraped **7,501** Articles*
+*Scraped **7,504** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 84
+colombotelegraphcom | 85
 bbccomsinhala | 99
 dbsjeyarajcom | 150
 newsfirstlk | 363
@@ -19,40 +19,84 @@ adalk | 641
 tamilmirrorlk | 915
 adaderanalk | 919
 virakesarilk | 983
-adaderanasinhalalk | 1,067
+adaderanasinhalalk | 1,069
 dailymirrorlk | 1,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,500 (100.0%) of 7,501 articles have been extended.
+7,504 (100.0%) of 7,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### අධිකරණය තුළදී සැකකරුවන් පිරිසක් ගුටි බැට හුවමාරුවක
+### Russian opposition leader suddenly dies
+
+*2024-02-16 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193476) · `si`
+
+The Russian opposition leader Alexi Navalni, who was imprisoned, had died of the death toll, "foreign media states.
+
+The Russian media states that he is walking for physical wellness and he has become sick.
+
+He was later fainted and died a short time later.
+
+◼️
+
+[Data](articles/58b2e291.json)
+
+[Extended Data](ext_articles/58b2e291.ext.json)
+
+---
+
+### Riot Groups Calls to National Hospital
+
+*2024-02-16 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193475) · `si`
+
+Police riot unit was convened to handle the agitation at the Colombo National Hospital.
+
+It was revealed that the Deputy Director of the Colombo National Hospital Dr. Rukshan Bellana was forcibly conducted by a group of minority staff.
+
+As a result of this, the police ruthless situation was created and the police riot unit was convened to control it.
+
+72 health unions have been working on a two-day health unions from the 13th for two days from the 13 days.
+
+At the same time, Dr. Rukshan Bellana has been blamed for minor employees.
+
+As a result, the doctor was forcibly held by minor workers in their office premises.
+
+◼️
+
+[Data](articles/6d6b6f3e.json)
+
+[Extended Data](ext_articles/6d6b6f3e.ext.json)
+
+---
+
+### A group of suspects in court in court
 
 *2024-02-16 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193474) · `si`
 
-කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය ට අද (16) දින බන්ධනාගාරයේ සිට රැගෙන ආ සැකකරුවන් දෙපිරිසක් අධිකරණයේ සිරමැදිරිය තුළදී ගුටි බැට හුවමාරුකරගෙන ඇති බව වාර්තා වෙයි.
+It is reported that Kaduwela Magistrate's Court today (16), reports say.
 
-ඒ හේතුවෙන් අධිකරණය තුළ ඇතිවූ නොසන්සුන්තාවය මත එහි කටයුතු වලට බාධා ඇතිවී ඇතැයි වාර්තා වෙයි.
+As a result, it was reported that there was a hindrance to the unrest in the courts.
 
-බන්ධනාගාරයේ සිට බස් රථ තුනකින් සැකකරුවන් 150කට ආසන්න පිරිසක් රැගෙනවිත් සිර මැදිරිය තුළ රඳවා සිටියදී එලෙස ඔවුන් අතර ගුටි බැට හුවමාරුවක් සිදුව ඇතැයි පොලීසිය පැවසීය.
+Police said that nearly 150 suspects were held in the prison buses from the prison.
 
-එම අවස්ථාවේදී බන්ධනාගාර නිලධාරීන් කිහිපදෙනෙකු සිර මැදිරිය තුළට ගොස් එම ගැටුම වළක්වාලීමට කටයුතු කර ඇත.
+Several prison officials went into the cell and prevent the conflict.
 
-ඒ හේතුවෙන් අධිකරණයේ කටයුතු විනාඩි කිහිපයකට නවතා දැමීමට ද සිදුව ඇති බව වාර්තා විය.
+As a result, the court had been stopped for several minutes.
 
-පසුව දහවල් ආහාරය සඳහා අධිකරණ කටයුතු නවත්වන තෙක් අධිකරණය වෙත පැමිණි සිටි බාහිර පිරිස් අධිකරණයෙන් පිටතට යොමුකර බන්ධනාගාරයෙන් රැගෙන පැමිණි සැකකරුවන් පිළිබඳ නඩු විභාගයට ගැනීම සිදුකර තිබුණි.
+The external people who arrived in court remained in court until the courts were stopped at the courts and taken to the suspects from the prison.
 
-ඒ අනුව නැවත රක්ෂිත බන්ධනාගාර ගතකළ සැකකරුවන් පිරිසක් ඉක්මණින් බන්ධනාගාරය වෙත රැගෙන යාමට බන්ධනාගාර නිලධාරීන් කටයුතු කළ බවත් පසුව දිවා ආහාරයෙන් අනතුරුව සාමාන්‍ය පරිදි අධිකරණ කටයුතු සිදුකර ඇති බවත් වාර්තා වේ.
+Accordingly, prison officials have taken measures to be taken to the prison soon and after lunch, reports say.
 
 ◼️
 
 [Data](articles/0af9d646.json)
+
+[Extended Data](ext_articles/0af9d646.ext.json)
 
 ---
 
@@ -1338,6 +1382,22 @@ Former Sri Lanka Freedom Party (SLFP) councilor Gamini Thilakasiri and Gamini Si
 
 ---
 
+### MP Gary Anandasangaree’s Hypocrisy & Political Cowardice On Israel-Palestine
+
+*2024-02-16 11:31:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/mp-gary-anandasangarees-hypocrisy-political-cowardice-on-israel-palestine/) · `en`
+
+There are striking parallels between Israel’s offensive on Gaza starting October 7th, 2023, and the Sri Lankan government’s actions in the final stages of the war, where shelling by the government led to the loss of thousands of civilians in their bid to defeat the LTTE. According to Human Rights Watch, during the final stages of the war, “the Sri Lankan armed forces indiscriminately shelled densely populated areas, including hospitals, in violation of the laws of war.” This mirrors exactly what Israel has been doing in its latest offensive on Gaza.
+
+MP Gary Anandasangaree has rightly condemned the Sri Lankan government’s war crimes, and successfully led efforts for Canada to sanction former President Mahinda Rajapaksa and former Defense Secretary Gotabaya Rajapaksa for credible war crimes allegations. However, questions arise about Anandasangaree’s human rights commitment given his silence on Israel’s recent Gaza offensive, which mirrors Sri Lanka’s actions in 2009.
+
+...
+
+[Data](articles/55d13b25.json)
+
+[Extended Data](ext_articles/55d13b25.ext.json)
+
+---
+
 ### 10 -year -old girl murdered
 
 *2024-02-16 11:29:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/10-வயது-சிறுமியை-வன்புணர்ந்து-படுகொலை/72-333301) · `ta`
@@ -2009,61 +2069,5 @@ The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustai
 [Data](articles/d9479463.json)
 
 [Extended Data](ext_articles/d9479463.ext.json)
-
----
-
-### Learning another life is submerged
-
-*2024-02-16 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193446) · `si`
-
-The man was killed when the man falls into a bitul tree that was moving.
-
-The accident had occurred in the Katilwala area in Hanguranketha. The victim was admitted to the Rikillagaskada Hospital.
-
-Police said that two people who had cut the tree have been arrested regarding the death.
-
-◼️
-
-[Data](articles/168665bb.json)
-
-[Extended Data](ext_articles/168665bb.ext.json)
-
----
-
-### Sarath Fonseka to be axed from SJB chairmanship
-
-*2024-02-16 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sarath-Fonseka-to-be-axed-from-SJB-chairmanship/108-277133) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - Samagi Jana Balawegaya (SJB) is to expel its MP Sarath Fonseka from the post of party chairman shortly over his latest remarks affecting the party politically, a source said.
-
-A source close to party leader Sajith Premadasa, said expulsion will be done very soon. Asked whether he will be removed from the party, he said it will lead to a process involving litigation but the party leader has the discretion to expel him from chairmanship.
-
-MP Fonseka has been openly critical of the SJB and its leadership despite warnings. Recently, Mr. Fonseka held talks with President Ranil Wickremesinghe triggering speculation that he will join the government at any time.
-
-◼️
-
-[Data](articles/e9117771.json)
-
-[Extended Data](ext_articles/e9117771.ext.json)
-
----
-
-### Petition from the Secretary to the President
-
-*2024-02-16 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193445) · `si`
-
-The petition filed by the Presidential Commission of Investigation Commission (Presidential Commission) appointed by former President Gotabhaya Rajapaksa has taken the recommendations made against the Presidential Secretary to the President Saman Ekanayake has taken the Supreme Court in the case.
-
-The petition was filed by the present President of the Presidential Secretary to the President, asking the Secretary to the Prime Minister at the time asking for the use of decisions and recommendations made by retired Supreme Court Judge Upali Akarawa.
-
-The petition reporter said that the petition was taken by the three-member Supreme Court Bench.
-
-President's Counsel Upul Kumarapperuma has been accused of illegal to a NGO of the Secretary of the Assistant Committee of the Secretary to the Presidential Secretary to the Presidential Secretary Saman Ekanayake.Did.
-
-...
-
-[Data](articles/a260bb70.json)
-
-[Extended Data](ext_articles/a260bb70.ext.json)
 
 ---

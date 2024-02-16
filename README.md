@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 20:33:07**
+As of **2024-02-16 20:50:22**
 
 ## Newspaper Stats
 
-*Scraped **7,531** Articles*
+*Scraped **7,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,157 @@ islandlk | 385
 economynextcom | 398
 dailyftlk | 402
 adalk | 642
-tamilmirrorlk | 918
+tamilmirrorlk | 919
 adaderanalk | 923
-virakesarilk | 987
-adaderanasinhalalk | 1,073
-dailymirrorlk | 1,106
+virakesarilk | 989
+adaderanasinhalalk | 1,074
+dailymirrorlk | 1,108
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,529 (100.0%) of 7,531 articles have been extended.
+7,531 (99.9%) of 7,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### කෙහෙළිය ගේ රෝගී තත්ත්වය ගැන විමර්ශනයක් ඉල්ලා අධිකරණයට මෝසමක්
+### බීමත් පාපතරයා කළ අපරාධය
+
+*2024-02-16 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193481) · `si`
+
+තලෛමන්නාරම ප්‍රදේශයේදී දස හැවිරිදි දැරියකට අතවර කර ඝාතනය කිරීම සම්බන්ධයෙන් අසල්වැසි පුද්ගලයෙක්ව අත්අඩංගුවට ගෙන තිබේ.
+
+තලෛමන්නාරම උතුර ප්‍රදේශයේ පදිංචිව සිටි දස හැවිරිදි දැරියක් අතුරුදන්ව ඇති බවට ඇගේ මිත්තණිය තලෛමන්නාරම පොලිසියට ඊයේ (15) පැමිණිල්ලක් කර තිබුණි.
+
+ඒ අනුව විමර්ශන ඇරඹූ පොලීසිය දැරියගේ මෘත ශරීරය අද උදෑසන සොයාගත්තේය.
+
+සිරුර සොයාගන්නා අවස්ථාවේදී දැරිය ගවුමක් හැඳ සිට ඇති අතර යටිකය නිරුවත්ව තිබී ඇති බව පොලීසිය පැවසුවේය.
+
+එහිදී සැකකරු එම අපරාධය සම්බන්ධයෙන් පාපොච්චාරණයක් කළ බව පොලීසිය පවසයි.
+
+සැකකරු පවසා ඇත්තේ මියගිය දැරිය සිය සහෝදරයා සමග සෙල්ලම් කරමින් නිවස අසල සිටින විට තමා දැරියගේ සහෝදරයාට රුපියල් 150ක මුදලක් දී කෑම රැගෙන එන ලෙස පවසා ඔහු පිටත් කළ බවයි.
+
+පසුව දැරියව නිවස තුළට රැගෙන ගොස් තමා මෙම අපරාධය සිදුකළ බවට සැකකරු පැවසූ බව පොලිස් ආරංචිමාර්ග සඳහන් කළේය.
+
+පොලීසිය පැවසුවේ, දැරියගේ සිරුර හමුවූයේ ඔහුගේ නිවසට යාබද වත්තේ තිබියදී බවයි.
+
+සැකකරු එම අවස්ථාවේදී අධික ලෙස බීමත්ව සිට ඇතැයි පැවසෙන අතර අත්අඩංගුවට ගැනුණු අවස්ථාවේදීත් ඔහු බීමතින් සිටි බව පොලීසිය පැවසුවේය.
+
+...
+
+[Data](articles/63ed487a.json)
+
+---
+
+### வாரியப்பொலவில் வீதியை விட்டு விலகி மரத்துடன் மோதிய வேன் : 12 பேர் காயம்
+
+*2024-02-16 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176577) · `ta`
+
+வாரியப்பொல, பமுனகொட்டுவ பகுதியில், கலுகமுவ வீதியில் இடம்பெற்ற விபத்தில் 12 பேர் காயமடைந்துள்ளனர்.
+
+கலுகமுவ வீதியில் பயணித்த வேன் வீதியை விட்டு விலகி அருகில் இருந்த மரத்துடன் மோதியே குறித்த விபத்து சம்பவித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/dae83521.json)
+
+---
+
+### Monastery sentenced to death in Keheliya's illness
 
 *2024-02-16 20:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193480) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍යවරයා ඊයේ (15) අධිකරණයට ඉදිරිපත් නොකිරීමට තරම් රෝගී තත්ත්වයක පසුවූයේදැයි සම්බන්ධයෙන් විමර්ශනයක් සිදුකරන්නැයි ඉල්ලා රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණී ගිරිහාගම මෙනවිය සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට අද මෝසමක් ගොනු කළේය.
+The Deputy Solicitor General General Lakithga Girihagama and the Criminal Investigation Department (CID) filmed to be investigated by the former Health Minister yesterday (15).
 
-එමගින් පැමිණිලි පාර්ශ්වය අධිකරණයෙන් ඉල්ලා සිටින්නේ විමර්ශනයට අදාළ ප්‍රශ්නාවලිය බන්ධනාගාර වෛද්‍යවරයා වෙත යොමු කරන ලෙසට ය.
+It also requests the court to refer to the court to the prison doctor.
 
-මේ අතර ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සැකකරුවන් 07දෙනා ඊයේ ලබන 29 වනදා තෙක් යළි රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+Meanwhile, former Health Minister Keheliya Rambukwella and the seven suspects were remanded until 29th of this month.
 
-සැකකාර අමාත්‍යවරයා නඩු වාරය සඳහා අධිකරණයට නොපැමිණි අතර ඔහුගේ නීතිඥයින් දැනුම්දුන්නේ කෙහෙළිය රඹුක්වැල්ල මහතා නින්දේදී හුස්ම හිරවීම ඇතුළු රෝග ගණනාවකින් පීඩා විඳිමින් සිටින බවයි.
+The suspect was not taken into court for the cases and his lawyers informed Keheliya Rambukwella said that he was suffering from a number of diseases, including breathing in sleep.
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් සම්බන්ධ නඩුව ඊයේ මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී යළි කැඳවූ අතර එම අවස්ථාවේ හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල අධිකරණයට ඉදිරිපත් නොකළේය.
+The case was recalled from the Maligakanda Magistrate yesterday and was recalled in court yesterday. Former Health Minister Keheliya Rambukwella was produced before the court.
+
+Prison officials informed the court that he was on a condition that was suffering.
+
+The Magistrate, Deputy Solicitor General, Lakhahagama Girihagama, the Magistrate made the progress of investigations.
 
 ...
 
 [Data](articles/00690ce2.json)
 
+[Extended Data](ext_articles/00690ce2.ext.json)
+
 ---
 
-### බාලවයස්කාර දැරිය ට අතවර කළ තිදෙනා
+### மக்கள் பிரதிநிதிகளை தூற்றுவதால் மாத்திரம் நாட்டை முன்கொண்டு செல்ல முடியாது -  ஜகத் குமார சுமித்ராராச்சி
+
+*2024-02-16 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176576) · `ta`
+
+பொருளாதார நெருக்கடிகளுக்கு மத்தியிலும் அரச ஊழியர்களுக்கு 10,000 ரூபா வாழ்வாதார கொடுப்பனவை அரசாங்கம் வழங்கியுள்ளது. எனவே சுகாதார தொழிற்சங்கங்களின் வேலைநிறுத்தம் நியாயமற்றது என பகிரங்க மற்றும் பொறுப்புக்கூறலுக்கான பாராளுமன்ற துறைசார் மேற்பார்வைக்குழுவின் தலைவர் பாராளுமன்ற உறுப்பினர் ஜகத் குமார சுமித்ராராச்சி தெரிவித்தார்.
+
+அத்துடன், மக்களை நெருக்கடிக்குள் தள்ளும் வகையில் வேலை நிறுத்தங்களை மேற்கொள்வது நியாயமற்ற செயல் எனவும் அவர் மேலும் குறிப்பிட்டார்.
+
+மக்கள் பிரதிநிதிகளை தூற்றுவதால் மாத்திரம் நாட்டை கொண்டுச் செல்ல முடியாதெனவும்,  அரச அதிகாரிகள் செயல்திறனுடன் மக்களுக்கு சேவை வழங்க கடமைப்பட்டுள்ளனர் என்றும் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (16) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/d04e28c9.json)
+
+---
+
+### The three abused girl girl
 
 *2024-02-16 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193479) · `si`
 
-මීගොඩ ගල්වලමුල්ල ප්‍රදේශයේ පදිංචි 12 හැවිරිදි පාසල් ශිෂ්‍යාවක් අපයෝජනය කළැයි චෝදනා මත සැකපිට දැරියගේ අසල්වාසී තරුණයෙකු සහ ඥාති පියපුතු දෙපොළක් මීගොඩ පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The girl was arrested by the Meegoda police and a cousin underwriting of a neighborhood of the suspect in the suspect.
 
-පසුව එම සැකකරුවන්ව ලබන 29 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට අධිකරණය නියෝග කර තිබුණි.
+The suspects were later remanded until the 29th of this month.
 
-ඉකුත් දෙසැම්බර් මාසයේදී එම දැරිය අපයෝජනයට ලක්වී ඇති අතර ඇය එම සිද්ධිය සඟවාගෙන සිට ඇති අතර පෙරේදා දිනයේදි ඇය ඒ පිළිබඳ මවට පැවසීමෙන් පසු මව මේ සම්බන්ධයෙන් මීගොඩ පොලීසියට පැමිණිලි කර ඇති බව වාර්තා විය.
+The girl was abused in December, and she had complained to the Meegoda Police since she had told the mother on the occasion.
 
 ◼️
 
 [Data](articles/4af18ce6.json)
+
+[Extended Data](ext_articles/4af18ce6.ext.json)
+
+---
+
+### கிணற்றில் குதித்த இளம் குடும்பஸ்தர் மரணம்
+
+*2024-02-16 19:37:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிணற்றில்-குதித்த-இளம்-குடும்பஸ்தர்-மரணம்/72-333318) · `ta`
+
+வவுனியா, வீரபுரம் பகுதியில் உள்ள கிணறு ஒன்றில் இருந்து இன்று (16) காலை இளம் குடும்பஸ்தரின் சடலம்  மீட்கப்பட்டுள்ளதாக செட்டிகுளம் பொலிஸார் தெரிவித்துள்ளனர்.
+
+மனைவியுடன் ஏற்பட்ட தகராறு காரணமாக இளம் குடும்பஸ்தர் வீட்டில் இருந்த கிணற்றுக்குள் குதித்துள்ளார்.
+
+இதனையடுத்து, மனைவியும், பிள்ளைகளும் அயலில் உள்ளவர்களை அழைத்து மீட்க முயற்சித்தனர். இதன்போது கிராம அலுவலர் மற்றும் பொலிஸாருக்கும் அயலவர்கள் முறைப்பாடு செய்தனர்.
+
+அப் பகுதி மக்களின் துணையுடன் அவர் மீட்கப்பட்ட போதும், அவர் உயிரிழந்த நிலையிலேயே மீட்கப்பட்டுள்ளார்.
+
+இதனையடுத்து சடலம் செட்டிகுளம் வைத்தியசாலையில் ஒப்படைக்கப்பட்டதுடன், அங்கிருந்து வவுனியா வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டது.
+
+சம்பவத்தில் மூன்று பிள்ளைகளின் தந்தையான 33 வயதுடைய செபமாலை மொரிசன் என்பவரே மரணமடைந்தவராவார்.
+
+◼️
+
+[Data](articles/59ee97c7.json)
+
+---
+
+### Tension flares at National Hospital...
+
+*2024-02-16 19:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Tension-flares-at-National-Hospital/110-277185) · `en`
+
+Tensions escalated outside the National Hospital in Colombo today as minor staff staged a demonstration targeting Deputy Director Dr. Rukshan Bellana. Authorities also deployed an anti-riot squad to bolster security in the hospital premises. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/c613a9f4.json)
 
 ---
 
@@ -741,6 +843,22 @@ Other sectors that attracted investor interest were Capital Goods (110mn), and F
 [Data](articles/1198964b.json)
 
 [Extended Data](ext_articles/1198964b.ext.json)
+
+---
+
+### Three arrested for gang raping child in Meegoda
+
+*2024-02-16 15:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-arrested-for-gang-raping-child-in-Meegoda/108-277178) · `en`
+
+Colombo, Feb. 16 (Daily Mirror)- Three individuals including a 61-year-old mason were arrested for gang raping a 12-year-old girl in Meegoda, Police said.
+
+Police said the girl had been raped by the three individuals on several occasions from December last year.
+
+The suspects were arrested by the Meegoda police yesterday following a complaint.
+
+◼️
+
+[Data](articles/c614d880.json)
 
 ---
 
@@ -1941,127 +2059,5 @@ Former Sri Lanka Freedom Party (SLFP) councilor Gamini Thilakasiri and Gamini Si
 [Data](articles/57c00e5f.json)
 
 [Extended Data](ext_articles/57c00e5f.ext.json)
-
----
-
-### MP Gary Anandasangaree’s Hypocrisy & Political Cowardice On Israel-Palestine
-
-*2024-02-16 11:31:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/mp-gary-anandasangarees-hypocrisy-political-cowardice-on-israel-palestine/) · `en`
-
-There are striking parallels between Israel’s offensive on Gaza starting October 7th, 2023, and the Sri Lankan government’s actions in the final stages of the war, where shelling by the government led to the loss of thousands of civilians in their bid to defeat the LTTE. According to Human Rights Watch, during the final stages of the war, “the Sri Lankan armed forces indiscriminately shelled densely populated areas, including hospitals, in violation of the laws of war.” This mirrors exactly what Israel has been doing in its latest offensive on Gaza.
-
-MP Gary Anandasangaree has rightly condemned the Sri Lankan government’s war crimes, and successfully led efforts for Canada to sanction former President Mahinda Rajapaksa and former Defense Secretary Gotabaya Rajapaksa for credible war crimes allegations. However, questions arise about Anandasangaree’s human rights commitment given his silence on Israel’s recent Gaza offensive, which mirrors Sri Lanka’s actions in 2009.
-
-...
-
-[Data](articles/55d13b25.json)
-
-[Extended Data](ext_articles/55d13b25.ext.json)
-
----
-
-### 10 -year -old girl murdered
-
-*2024-02-16 11:29:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/10-வயது-சிறுமியை-வன்புணர்ந்து-படுகொலை/72-333301) · `ta`
-
-A 10 -year -old girl was raped and murdered on Thursday night (15) at the village of Talaimannar.
-
-It is suspected that the little girl may have been raped and assassinated by a person who was employed to maintain a garden in the village of Talaimannar.
-
-The person lives with his wife in Talaimannar area. His wife has split because the husband is addicted to drugs.
-
-In this case, a nearby mother has been friendly with the suspect.
-
-It is reported that the suspect took her to the shop on Thursday evening when the girl was taken to the shop.
-
-The body of the girl has been recovered early morning (16) during the search for the help of the nearby CCTV cameras and the help of the people of the town.
-
-◼️
-
-[Data](articles/b9ea468f.json)
-
-[Extended Data](ext_articles/b9ea468f.ext.json)
-
----
-
-### SLAF officer Biliya
-
-*2024-02-16 11:22:54* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-නිලධාරියා-දුම්රියට-බිලි/11-408123) · `si`
-
-Bambalapitiya Police say that the Air Force officer was hit by train at the Bambalapitiya Railway Station.
-
-The deceased has been identified as Marawila Piyalage Samela Piyadhanda Bandara (36).
-
-The deceased has been hit by the train from Bambalapitiya to Wellawatte to the Wellawatte train, police said.
-
-The seriously injured officer was taken by the mobile police tourist jeep of the Bambalapitiya Police.
-
-The police suspect that the officer died in the accident had to be crashed into the railway line.
-
-Research on the instructions of Chief Inspector Sampath Sampath Sampath Sampath Pathmalal
-
-◼️
-
-[Data](articles/bd4b7e62.json)
-
-[Extended Data](ext_articles/bd4b7e62.ext.json)
-
----
-
-### Sri Lanka anti-monopoly provisions scattered among 37-laws: Japan study
-
-*2024-02-16 11:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-anti-monopoly-provisions-scattered-among-37-laws-japan-study-151165/) · `en`
-
-ECONOMYNEXT – Sri Lanka does not have a comprehensive regime to stop ant-competitive behaviour but there are provisions to promote competition scattered among 37 pieces of legislation, according to an assessment by the Japan International Cooperation Agency.
-
-Harsha Fernando, President’s Counsel, had presented some of the findings at a recent forum had said Sri Lanka does not have a comprehensive competition law regime.
-
-There were both legal and regulatory provisions for promotion of competition and prevention of anti-competitive practices in as many as 37 enactments, with the purview and enforcement responsibilities distributed among both regulatory agencies as well as service providers.
-
-A high level delegation from the Japan Fair Trade Commission (JFTC) joined the seminar to share their insight on the background and key aspects of the competition laws the agency’s role in securing a transparent and competitive business climate in Japan.
-
-...
-
-[Data](articles/52f528f4.json)
-
-[Extended Data](ext_articles/52f528f4.ext.json)
-
----
-
-### A road blocked by public opposition
-
-*2024-02-16 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193457) · `si`
-
-The Colombo Wellawaya main road has been completely blocked due to a popular opposition.
-
-Our correspondent said that Wellawaya Thaniyalawalwila main road in Wellawaya, Wellawaya Taamalwila main road in Wellawaya, Wellawaya was completely blocked by Wellawaya, Wellawaya.
-
-As a result, a number of traffic was reported.
-
-◼️
-
-[Data](articles/5ddc62b1.json)
-
-[Extended Data](ext_articles/5ddc62b1.ext.json)
-
----
-
-### Current economic stability due to non-payment of external debt: Bandula
-
-*2024-02-16 11:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Current-economic-stability-due-to-non-payment-of-external-debt-Bandula/108-277166) · `en`
-
-The government has been able to ensure continuous supply of gas, fuel and other necessities right now as Sri Lanka had suspended repaying external debt, Minister Bandula Gunawardena said yesterday.
-
-Speaking at a workshop for journalists in Colombo, he said Sri Lanka had defaulted USD 36 million external debt and that the government has been able to obtain moratorium on debt repayment after diplomatic negotiations.
-
-Colombo, Feb. 16 (Daily Mirror)- The Minister said Sri Lanka had been able to come to an agreement with the creditors and prevented legal action being taken against Sri Lanka for non-payment of external loans while in some cases Sri Lanka had to face law suits.
-
-He said Sri Lanka has to pay 37 percent of external debt within the next five to six years while 51 percent of loans are required to be paid between 6 and 21 years and the other 12 percent is to be paid after 20 years.
-
-...
-
-[Data](articles/60f76180.json)
-
-[Extended Data](ext_articles/60f76180.ext.json)
 
 ---

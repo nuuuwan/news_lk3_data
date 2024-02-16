@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 13:17:27**
+As of **2024-02-16 13:33:12**
 
 ## Newspaper Stats
 
-*Scraped **7,442** Articles*
+*Scraped **7,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 387
 dailyftlk | 402
 adalk | 635
 tamilmirrorlk | 906
-adaderanalk | 913
+adaderanalk | 914
 virakesarilk | 974
 adaderanasinhalalk | 1,054
 dailymirrorlk | 1,090
@@ -26,11 +26,29 @@ dailymirrorlk | 1,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,436 (99.9%) of 7,442 articles have been extended.
+7,442 (100.0%) of 7,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### India’s Congress claims its bank accounts frozen ahead of elections
+
+*2024-02-16 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97322/indias-congress-claims-its-bank-accounts-frozen-ahead-of-elections) · `en`
+
+India’s main opposition political party- the Congress claimed on Friday (Feb 16) that all its bank accounts have been frozen. Addressing a press conference, Congress treasurer Ajay Maken said the accounts have been frozen ahead of the Lok Sabha elections.
+
+“You will be surprised to know that democracy has completely ended in India. The Congress received information the day before yesterday that the party’s bank cheques issued were not being honoured,” Maken said.
+
+“When we started probing this matter, we were told that all the bank accounts of the party were frozen,” Maken said, adding that not just bank accounts (of Congress) were frozen but the country’s democracy has also been frozen. He pointed out that the Youth Congress’ bank accounts have also been frozen.
+
+“Just a few weeks are left for the announcement of the election dates and the bank accounts of the main opposition party have been frozen. What does the central government want to prove?” the party treasurer further said.
+
+...
+
+[Data](articles/3cf88d3c.json)
+
+---
 
 ### Detention orders issued against “Piyuma” under PTA
 
@@ -45,6 +63,8 @@ However, the Colombo Fort Magistrate has also ordered that the 72 hours be count
 ◼️
 
 [Data](articles/14bbab5b.json)
+
+[Extended Data](ext_articles/14bbab5b.ext.json)
 
 ---
 
@@ -66,6 +86,8 @@ Furthermore, the former President expressed confidence in his party’s victory 
 
 [Data](articles/e8771bbe.json)
 
+[Extended Data](ext_articles/e8771bbe.ext.json)
+
 ---
 
 ### Colombo - Wellawaya main road blocked due to protest
@@ -83,6 +105,8 @@ However, the protesting local residents stated that they will continue the demon
 ◼️
 
 [Data](articles/ad57256f.json)
+
+[Extended Data](ext_articles/ad57256f.ext.json)
 
 ---
 
@@ -138,6 +162,8 @@ However, the work-to-rule action was called-off after the discussions held with 
 
 [Data](articles/69e1e963.json)
 
+[Extended Data](ext_articles/69e1e963.ext.json)
+
 ---
 
 ### Two more SLFP members join SJB
@@ -153,6 +179,8 @@ Reportedly, the duo has attended the 100th edition of Opposition Leader Sajith P
 ◼️
 
 [Data](articles/4fa73e27.json)
+
+[Extended Data](ext_articles/4fa73e27.ext.json)
 
 ---
 
@@ -231,6 +259,8 @@ The petition was taken up for hearing before a three-member Supreme Court judge 
 ...
 
 [Data](articles/d7b58b12.json)
+
+[Extended Data](ext_articles/d7b58b12.ext.json)
 
 ---
 
@@ -2055,21 +2085,5 @@ They had further pointed out that the 2004 screened 'The Day After Tomorrow' was
 [Data](articles/0d45dd68.json)
 
 [Extended Data](ext_articles/0d45dd68.ext.json)
-
----
-
-### Re -explanation for 7 persons, including former health minister Keheliya
-
-*2024-02-15 22:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/176483) · `ta`
-
-Former Health Minister Keheliya Rambukwella and former Health Secretary Janaka Chandragupta, who have been arrested on charges of importing substandard immunoglobulin vials, have been remanded until February 29.
-
-The order was issued when the case was taken up for hearing at the Magistrate's Court on Thursday 15th.
-
-◼️
-
-[Data](articles/ec825cfa.json)
-
-[Extended Data](ext_articles/ec825cfa.ext.json)
 
 ---

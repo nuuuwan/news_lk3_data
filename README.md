@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 08:17:31**
+As of **2024-02-16 08:32:59**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 1,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,367 (99.7%) of 7,388 articles have been extended.
+7,378 (99.9%) of 7,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### ගසකට යටවී තවත් ජීවිතයක් අහිමි වෙයි
+### Learning another life is submerged
 
 *2024-02-16 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193446) · `si`
 
-ගමන් කරමින් සිටි පුද්ගලයෙකුගේ ඇඟ මතට කපන ලද කිතුල් ගසක් වැටීමෙන් එම පුද්ගලයා ජීවිතක්ෂයට පත්වී තිබේ.
+The man was killed when the man falls into a bitul tree that was moving.
 
-හඟුරන්කෙත කැටිල්ලවල ප්‍රදේශයේදී ඊයේ (15) සවස් කාලයේදී මෙම අනතුර සිදුවී ඇති අතර බරපතළ තුවාල ලද එම පුද්ගලයා රිකිල්ලගස්කඩ රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+The accident had occurred in the Katilwala area in Hanguranketha. The victim was admitted to the Rikillagaskada Hospital.
 
-පොලීසිය සඳහන් කළේ එම මරණය සම්බන්ධයෙන් ගස කපන ලද පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇති බවය.
+Police said that two people who had cut the tree have been arrested regarding the death.
 
 ◼️
 
 [Data](articles/168665bb.json)
+
+[Extended Data](ext_articles/168665bb.ext.json)
 
 ---
 
@@ -140,6 +142,8 @@ Throughout the two days, he will meet with the CWEIC’s current Strategic Partn
 
 [Data](articles/ec6da29a.json)
 
+[Extended Data](ext_articles/ec6da29a.ext.json)
+
 ---
 
 ### Disclosure of many houses
@@ -182,87 +186,107 @@ The bill was approved by 176 lawmakers in the 300-seat parliament and will becom
 
 ---
 
-### நிறைவேற்று அதிகாரஜனாதிபதிமுறையை நீக்குவது சரியான விடயம் - நான் ஏற்கனவே அதனை அனுபவித்துவிட்டேன் – மகிந்த
+### It is the right thing to remove the Executive Committee - I have already experienced it - Mahinda
 
 *2024-02-16 06:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176500) · `ta`
 
-நிறைவேற்று அதிகாரமுறையை நீக்குவது சரியான நடவடிக்கை என தெரிவித்துள்ள முன்னாள்  ஜனாதிபதி மகிந்த ராஜபக்ச தான் ஏற்கனவே நிறைவேற்று அதிகார ஜனாதிபதிமுறையை அனுபவித்துவிட்டதாக தெரிவித்துள்ளார்.
+Former President Mahinda Rajapaksa has said that it is the right step to eliminating the executive authority.
 
-நாட்டின் அரசியல் நிலைமை எவ்வாறு உள்ளது என்ற செய்தியாளர் ஒருவரின் கேள்விக்கு நாட்டின் அரசியல் நிலைசிறப்பானதாக உள்ளது நிறைவேற்று அதிகார முறையை நீக்குவது நல்லது  என மகிந்த ராஜபக்ச தெரிவித்துள்ளார்.
+Mahinda Rajapaksa said that it is better to abolish the executive power of the country.
 
-முழுநாடும் நிறைவேற்று அதிகார ஜனாதிபதிமுறையை நீக்கவேண்டும் என வேண்டுகோள் விடுப்பதால் அதனை நீக்கவேண்டும் என முன்னாள் ஜனாதிபதி தெரிவித்துள்ளார்.
+The former president has said that the entire country should be removed as the executive presidency be removed.
 
-ஜனாதிபதி தேர்தலை பிற்போட முயல்வது எதிர்கட்சியினருக்கான பொறியாக அமையலாம் எங்களிற்கு ஜனாதிபதி ரணில்விக்கிரமசிங்க குறித்து நன்கு தெரியும் என மகிந்தராஜபக்ச தெரிவித்துள்ளார்.
+Mahinda Rajapaksa said that trying to overcome the presidential election may be a trap for the opposition.
 
-எந்ததேர்தல் என்றாலும் எங்கள் வேட்பாளர்கள் வெற்றிபெறுவார்கள் சரியான தருணத்தில் அவர்கள் மேடைக்கு வருவார்கள் அதுவரை பொறுத்திருங்கள் என அவர் தெரிவித்துள்ளார்.
+Whatever the election, our candidates will win. They will come to the stage at the right moment, ”he said.
 
-...
+Commenting on the JVP leader's visit to India, Mahinda Rajapaksa said that the JVP has finally felt the need to establish ties with countries like India.
+
+◼️
 
 [Data](articles/37dad217.json)
 
+[Extended Data](ext_articles/37dad217.ext.json)
+
 ---
 
-### அனுமதியற்ற முறையில் நிர்மாணிக்கப்பட்டுள்ள சட்டவிரோத கட்டிடங்களை அகற்ற நடவடிக்கை - லலித் யு கமகே
+### Elimination of illegal buildings constructed - Lalit Yu Kamage
 
 *2024-02-16 06:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176494) · `ta`
 
-மாத்தளை மாநகர சபைக்குட்பட்ட பகுதியில் அனுமதியற்ற முறையில் நிர்மாணிக்கப்பட்டுள்ள சட்டவிரோத கட்டிடங்களை அகற்ற நடவடிக்கை எடுக்குமாறு மத்திய மாகாண ஆளுநர் லலித் யு கமகேவினால்  மாத்தளை மாநகர ஆணையாளருக்கு வியாழக்கிழமை (15) அதிரடியான  அறிவிப்பு செய்யப்பட்டுள்ளது
+Central Province Governor Lalith Yu Kamage has been announced on Thursday (15) to take steps to remove illegal buildings that have been constructed in the Matale Municipal Council area.
 
-மாத்தளை மாவட்ட ஒருங்கிணைப்புக் குழுவில் கலந்து கொண்டு  உரையாற்றுகையில் ஆளுநர் மேற்படி அறிவிப்பினை செய்துள்ளார்.
+The Governor made the announcement while addressing the Matale District Coordinating Committee.
 
-முன்னாள் நகரபிதா ஒருவரின் உறவினர்    ஹிக்கொல்ல வீதியில் மாநகர சேவை நிலையத்திற்கு முன்பாக உள்ள பகுதியில் நிர்மாணிக்கப்பட்டுள்ள  சட்டவிரோத கட்டிட  நிர்மாணம் தொடர்பாக,  ஊடகங்களில் வெளியான செய்திகள் குறித்து, ஆளுநர் அவதானம் செலுத்தி வருவதாகவும் அவ்வாறான  சட்டவிரோத கட்டுமானங்களை உடனடியாக அகற்ற வேண்டும் எனவும் ஆளுநர் வலியுறுத்தியுள்ளார்.
+The Governor has urged the governor to pay attention to the news in the media on the illegal building in front of the Municipal Service Center on the Higola Road, a relative of a former city man.
 
-...
+The Matale Municipal Commissioner has denied that there are no unauthorized construction on the Matale city border.
+
+◼️
 
 [Data](articles/66e89f37.json)
 
+[Extended Data](ext_articles/66e89f37.ext.json)
+
 ---
 
-### குரங்குகளை கட்டுப்படுத்த நாட்டு துப்பாக்கி "நிரந்தர தீர்வாக அமையாது" - சுற்றுச்சூழல் நீதிக்கான மையம்
+### Country gun is "permanent solution" to control monkeys - Center for Environmental Justice
 
 *2024-02-16 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176493) · `ta`
 
-இலங்கையில் குரங்குகளின் தொல்லை நாளுக்கு நாள் அதிகரித்து விவசாயத்திற்கும், மனிதர்களுக்கும் கடும் பாதிப்புகளை ஏற்படுத்தி வருவதால், அவற்றை கட்டுப்படுத்த விவசாயிகளுக்கு நாட்டுத் துப்பாக்கியின் பயன்பாட்டை அனுமதிப்பது என்ற இலங்கை அரசாங்கத்தின் தீர்மானத்திற்கு எதிர்ப்பு வெளியிடப்பட்டுள்ளது.
+The Sri Lankan government has opposed the decision of the Sri Lankan government to allow farmers to use the country's rifle to curb the monkeys in Sri Lanka as the monkeys are increasing day by day.
 
-“குரங்கு மற்றும் மர அணில்களை விரட்ட அல்லது கட்டுப்படுத்த நாட்டுத் துப்பாக்கியை பயன்படுத்துவது என்ற நடைமுறை தொடங்கிவிட்டால், அது இதர விலங்குகளை கடுமையாக பாதிக்கும். அந்த துப்பாக்கியில் பயன்படுத்தப்படும் ஈயத்தினால் ஆன சிறிய குண்டு ஏனைய விலங்கினங்களுக்கு பாரிய பாதிப்பை ஏற்படுத்தும், சில சமயங்களில் அந்த விலங்குகள் உயிரிழக்கவும் வாய்ப்பு உள்ளது” என சுற்றுச்சூழல் நீதிக்கான மையத்தின், கொள்கை மற்றும் செயற்பாட்டு அதிகாரி ஜனக விதானகே தெரிவிக்கின்றார்.
+“Once the practice of using a nation rifle has begun to drive or control monkey and wood squares, it will severely affect other animals. The little bomb used in the gun can cause a huge damage to other animals, and sometimes the animals are likely to die, ”said Janaka Vidanage, the policy and activist officer of the Center for Environmental Justice.
 
-கேகாலை மாவட்டத்தில் விவசாயத்திற்கு பாதிப்பினை ஏற்படுத்தும் குரங்குகளை கட்டுப்படுத்தும் நோக்கில் விவசாயிகளுக்கு உயர்தர நாட்டுத் துப்பாக்கிகளை கொள்வனவு செய்வதற்கு நிதி ஒதுக்கப்படுமென, நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய நேற்று (14) தெரிவித்திருந்தார்.
+Finance Minister Ranjith Siyambalapitiya yesterday (14) said that funds will be allocated to the farmers to buy high -quality rifles for farmers in the Kegalle district.
+
+“I will provide country guns to 600 agricultural organizations in Kegalle district. The purpose of this effort is to empower these organizations to take immediate action to control the number of monkeys. ”
 
 ...
 
 [Data](articles/d09992ca.json)
 
+[Extended Data](ext_articles/d09992ca.ext.json)
+
 ---
 
-### புலனாய்வு பிரிவிற்கு காணி வழங்குமாறு பரிந்துரை :; வவுனியா மாவட்ட ஒருங்கிணைப்புகுழு கூட்டத்தில் எதிர்ப்பு
+### Recommended to provide land to the intelligence unit:;Opposition at the Vavuniya District Coordinating Committee meeting
 
 *2024-02-16 06:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176495) · `ta`
 
-வவுனியா பூங்காவீதியில் அமைந்துள்ள காணியில்  தேசிய புலனாய்வு அலுவலகத்திற்கு இடம் வழங்குவதற்கு வடமாகாண ஆளுநர் பரிந்துரைத்துள்ள நிலையில் மாவட்ட ஒருங்கிணைப்பு குழுக்கூட்டத்தில் அதற்கு எதிர்ப்பு வெளியிடப்பட்டது.
+The Northern Province Governor has recommended that the Northern Province Governor recommended space to the National Intelligence Office in the Vavuniya Park.
 
-இதன்போது காணியற்ற அரச திணைக்களங்களான அரச ஒசுசல, புவிச்சரிதவியல் திணைக்களம்,தெங்கு அபிவிருத்திசபை,பனை அபிவிருத்திசபை, சமூக நீர்வழங்கல் திணைக்களம், தேசிய புலனாய்வு அலுவலகம், மற்றும் பொது அமைப்புக்களான முச்சகரவண்டி உரிமையாளர் சங்கம், சிகை அலங்கரிப்பாளர் சங்கம், பேருந்து உரிமையாளர் சங்கம், பாரவூர்திசங்கம், ஓய்வூதியர் சங்கம் ஆகியன தமக்கு நகரப்பகுதியில் காணி ஒதுக்கித்தருமாறு வவுனியாபிரதேச செயலகத்திடம் கோரிக்கை விடுத்திருந்ததாக தெரிவிக்கப்பட்டது
+In the meantime, the Government Department of State Osusala, Geological Survey, Coconut Development Council, Palm Development Council, Social Water Resources Department, National Intelligence Office, and Public OrganizationsIt was reported that the request had been made
 
-அதற்கமைய குறித்த அமைப்புக்களுக்கு வவுனியா பூங்காவீதியில் அமைந்துள்ள பகுதி மற்றும் திருநாவற்குளம் பாரவூர்தி தரிப்பிடம் ஆகியவற்றை பிரித்து வழங்குவதற்கு மாவட்ட ஒருங்கிணைப்பு குழுவிடம் இன்று அனுமதி கோரப்பட்டிருந்தது.
+The District Coordinating Committee today requested permission to separate the area located at the Vavuniya Park and the Thirunavakkulam Paravoorthy Title.
+
+It was reported that the Governor had been recommended to provide the Land National Intelligence Agency located on the park.
+
+Subsequently, District Coordinating Committee Chairman Delipan and Parliamentarian Charles Nirmalanathan had protested to provide them with the land.
 
 ...
 
 [Data](articles/96b70f92.json)
 
+[Extended Data](ext_articles/96b70f92.ext.json)
+
 ---
 
-### அலதெனியவில் விபத்து : ஸ்தலத்திலேயே ஒருவர் உயிரிழப்பு
+### Accident in Aladeniya: One person dies on the spot
 
 *2024-02-16 06:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176497) · `ta`
 
-கண்டி தேசிய வைத்தியசாலையில் சிகிச்சை பெறுவதற்காக (கிளினிக்) தனது மனைவியுடன் மோட்டார் சைக்கிளில் பயணித்த ஒருவர் அலதெனிய பிரதேசத்தில் இடம்பெற்ற விபத்தில் படுகாயமடைந்து ஸ்தலத்திலேயே உயிரிழந்துள்ளார்.
+A man who was traveling with his wife on a motorbike with his wife was injured in an accident in Aladeniya area for treatment at the Kandy National Hospital.
 
-வியாழக்கிழமை (15) காலை இந்த விபத்து இடம்பெற்றுள்ளதுடன், குருநாகல், மெல்சிறிபுர பகுதியைச் சேர்ந்த கீர்த்தி பண்டார என்ற 43 வயதுடைய நபரே  இவ்வாறு உயிரிழந்துள்ளார்.
+The accident occurred on Thursday morning (15) and a 43 -year -old Keerthi Bandara from Melsiripura, Kurunegala, died.
 
-கண்டியில் இருந்து குருநாகல் நோக்கி பயணித்த ஜீப் ஒன்று வேகத்தை கட்டுப்படுத்த முடியாமல் வீதியை விட்டு விலகி கல்வெட்டில் மோதி மீண்டும் வீதியை நோக்கி வந்ததில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+Police investigations have revealed that the accident occurred when a jeep traveling from Kandy to Kurunegala could not control the speed of the road.
 
 ◼️
 
 [Data](articles/0e44134a.json)
+
+[Extended Data](ext_articles/0e44134a.ext.json)
 
 ---
 
@@ -277,6 +301,8 @@ The Sri Lanka Cement Corporation (SLCC) entered into a 30-year agreement with As
 ...
 
 [Data](articles/8d37c635.json)
+
+[Extended Data](ext_articles/8d37c635.ext.json)
 
 ---
 
@@ -300,21 +326,23 @@ The public is requested to take adequate precautions to minimize damages caused 
 
 ---
 
-### சர்வதேச நாணயநிதியத்தின் திட்டத்திற்கு இடையூறு ஏற்பட்டால் பெரும் பொருளாதார நெருக்கடி உருவாகலாம் - மத்திய வங்கி
+### Great economic crisis may be created if the IMF's project is disrupted - the central bank
 
 *2024-02-16 06:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176498) · `ta`
 
-சர்வதேச நாணயநிதியத்தின் திட்டத்தினை முன்னெடுக்கமுடியாத நிலையேற்பட்டால் பெரும் பொருளாதார ஆபத்து ஏற்படலாம் என மத்திய வங்கி தெரிவித்துள்ளது.
+The Central Bank said it could lead to a huge economic risk if the IMF's plan was unable to carry out the project.
 
-உலகப்பொருளாதார வீழ்ச்சி காரணமாக ஏற்றுமதிக்கு ஏற்பட்டுள்ள ஆபத்துகளிற்கு மத்தியில் இலங்கை பொருளாதார நெருக்கடியிலிருந்து மீண்டுவருகின்றது என தெரிவித்துள்ள இலங்கை மத்திய வங்கி சர்வதேச நாணயநிதியத்தின் திட்டம் தடம்புரண்டால் பெரும்பொருளாதார ஆபத்து ஏற்படலாம் என தெரிவித்துள்ளது.
+The Sri Lanka Central Bank of Sri Lanka has said that the Sri Lankan Central Bank of India (IMF) program has said that the major risk of exports is likely to be in danger of exports due to the danger of export due to the decline in the global economic downturn.
 
-சர்வதேச நாணயநிதியத்தின் திட்டத்திற்கு ஏதேனும் இடையூறுஏற்பட்டால் வளர்ச்சிபாதிக்கப்பட்டமை,நம்பிக்கையின்மை முதலீட்டாளர்களின் எதிர்மறை உணர்வுகள் காரணமாக பெரும் பொருளாதார இழப்புகளை எதிர்கொள்ளவேண்டியிருக்கும் என இலங்கை மத்திய வங்கி தெரிவித்துள்ளது.
+The Central Bank of Sri Lanka has said that the development of the International Monetary Fund's project would have to face major economic losses due to the negative feelings of investors.
 
-இலங்கை தனது பொருளாதாரத்தை ஸ்திரப்படுத்தியுள்ளது பொருளாதார நடவடிக்கைகள் மீட்டெடுக்கப்படுகின்றன எனினும் குறுகிய காலத்திற்கு வளர்ச்சி குறைவானதாகவே காணப்படும் என மத்திய வங்கி தெரிவித்துள்ளது.
+Sri Lanka has stabilized its economy and economic activities are recovered, but the central bank said it would have grown short for a short period of time.
 
 ◼️
 
 [Data](articles/f31f10ef.json)
+
+[Extended Data](ext_articles/f31f10ef.ext.json)
 
 ---
 
@@ -329,6 +357,8 @@ The recent five-day sojourn of Anura Kumara Dissanayake, leader of the National 
 ...
 
 [Data](articles/d4a197c8.json)
+
+[Extended Data](ext_articles/d4a197c8.ext.json)
 
 ---
 
@@ -371,6 +401,8 @@ Dinner for 2,500 pax would garner Rs. 5,580,000 (2,232 per pax).
 ...
 
 [Data](articles/7c0a0105.json)
+
+[Extended Data](ext_articles/7c0a0105.ext.json)
 
 ---
 

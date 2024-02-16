@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 00:17:44**
+As of **2024-02-17 00:32:49**
 
 ## Newspaper Stats
 
-*Scraped **7,557** Articles*
+*Scraped **7,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 398
 dailyftlk | 402
 adalk | 645
 tamilmirrorlk | 920
-adaderanalk | 925
+adaderanalk | 926
 virakesarilk | 995
 adaderanasinhalalk | 1,077
 dailymirrorlk | 1,113
@@ -26,63 +26,97 @@ dailymirrorlk | 1,113
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,553 (99.9%) of 7,557 articles have been extended.
+7,557 (100.0%) of 7,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### அதிக டெங்கு நோயாளர்கள் உள்ள மாவட்டங்களாக யாழ்ப்பாணம், கொழும்பு மற்றும் கம்பஹா மாவட்டங்கள் தெரிவு
+### Body of missing 10-year-old recovered; suspect confesses to rape, murder
+
+*2024-02-16 23:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97335/body-of-missing-10-year-old-recovered-suspect-confesses-to-rape-murder) · `en`
+
+The body of a 10-year-old girl who was reported missing from Talaimannar North on Thursday (Feb.15) was recovered by the police this morning.
+
+A search operation was mounted after her grandmother had lodged a complaint with the Talaimannar Police.
+
+Accordingly, the body of the girl was found on a plot of land located around 300m away from her home.
+
+A man from the girl’s neighbourhood, who was arrested on suspicion, had later confessed to rape and murder of the 10-year-old.
+
+The suspect told the police that he had seen the girl playing with her brother in the vicinity of his house, and given the boy Rs. 150 to buy some snacks.
+
+He then admitted to bringing the girl into his house and sexually abusing her while being drunk.
+
+According to the police, the suspect had been under the influence of alcohol at the time of the arrest as well.
+
+◼️
+
+[Data](articles/94496ed6.json)
+
+---
+
+### Jaffna, Colombo and Gampaha districts are the most dengue patients
 
 *2024-02-16 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/176581) · `ta`
 
-கண்டி மாவட்டத்தில் பதிவாகும் டெங்கு நோயாளர்களின் வீதம் தற்போது குறைவடைந்துள்ளதாக கண்டி மாவட்ட தொற்றுநோய் நிபுணர் வைத்தியர்  கிருஷான் மசாராச்சி தெரிவித்துள்ளார்.
+Kandy district epidemic specialist doctor Krishan Masarachchi said that the rate of dengue patients in the Kandy district has now declined.
 
-நாட்டிலேயே அதிகூடிய டெங்கு நோயாளர்கள் கண்டி தேசிய பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகத் தெரிவித்த  வைத்தியர் தற்போது அது 5வது இடத்திற்கு குறைந்துள்ளதாகவும் தெரிவித்தார்.
+The doctor said that the highest number of dengue patients in the country has been admitted to the Kandy National General Hospital.
 
-கண்டி  மாவட்ட செயலக அலுவலகத்தில் வெள்ளிக்கிழமை (15) நடைபெற்ற மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+He was speaking at a meeting of the District Coordinating Committee held at the Kandy District Secretariat office on Friday (15).
 
-அவர் மேலும் கருத்து தெரிவிக்கையில், கடந்த சில வருடங்களாக டெங்கு ஒழிப்பு வேலைத்திட்டங்கள் வெற்றியடைந்தமையே டெங்கு நோயாளர்களின் எண்ணிக்கை குறைவதற்கு காரணம் என தெரிவித்தார்.
+He added that the number of dengue patients was due to the decline in the number of dengue eradication programs over the past few years.
+
+According to a weekly report issued by the National Dengue Control Division in Colombo, 10 sections from Kandy have reported that the country has declined to 2, and it has now declined to 12%, with 20% of dengue patients reported last year.
+
+According to these reports, Jaffna, Colombo and Gampaha districts have been selected as the most dengue patients in the country.
 
 ...
 
 [Data](articles/e833ad04.json)
 
+[Extended Data](ext_articles/e833ad04.ext.json)
+
 ---
 
-### கடுவெல நீதிமன்றத்தில் சிறையிலிருந்து அழைத்துவரப்பட்ட இரு குழுக்களுக்கிடையில் வாக்குவாதம்
+### Between two groups brought from jail in Kaduwela court
 
 *2024-02-16 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176579) · `ta`
 
-கடுவெல நீதிமன்றத்திற்கு அழைத்து வரப்பட்ட இரண்டு குழுக்கள் நீதிமன்ற சிறைக்கூடத்திற்குள் வாக்குவாதத்தில் ஈடுபட்டதால் அங்கு பதற்றமான நிலை தோற்றம் பெற்றது.
+The two groups brought to the Kaduwela court were involved in an argument within the court jail.
 
-3 பஸ்களில் சுமார் 150 சந்தேகநபர்கள் சிறைச்சாலையிலிருந்து கடுவெல நீதிமன்றத்திற்கு அழைத்துவரப்பட்டதாகவும் இதன்போதே  அவர்களுக்குள் வாக்குவாதம் இடம்பெற்றதாகவும் பொலிஸார் தெரிவித்தனர்.
+About 150 suspects in 3 buses have been brought from the prison to the Kaduwela court and have been arguing among them, police said.
 
-அப்போது சிறை அதிகாரிகள் பலர் சிறைக்கூடத்திற்குள் சென்று மோதலை தடுக்கும் பணியில் ஈடுபட்டனர்.
+Many prison officials then went into the prison and were in the process of preventing the conflict.
 
-பின்னர், மதிய உணவுக்காக நீதிமன்றம் ஒத்திவைக்கப்படும் வரை, நீதிமன்றத்திற்கு வந்திருந்த வெளியாட்களை நீதிமன்றத்திலிருந்து வெளியேற்றி, சிறைச்சாலையில் இருந்து அழைத்து வரப்பட்ட சந்தேகநபர்களிடம் விசாரணை நடத்தப்பட்டது.
+Later, until the court was adjourned for lunch, the suspects who had come to the court had been evicted from the court and brought from the prison.
 
-இதன்படி, விளக்கமறியலில் வைக்கப்பட்டுள்ள சந்தேகநபர்கள் குழுவை விரைவாக சிறைச்சாலைக்கு அழைத்துச் செல்ல சிறைச்சாலை அதிகாரிகள் ஏற்பாடு செய்ததாகவும், மதிய உணவிற்குப் பிறகு, நீதிமன்ற நடவடிக்கைகள் வழமை போன்று இடம்பெற்றதாகவும் தெரிவிக்கப்படுகிறது.
+Accordingly, the prison authorities have arranged that the group of suspects who have been interrogated to the prison quickly have been arranged and that after lunch, court proceedings took place as usual.
 
 ◼️
 
 [Data](articles/351d7a1e.json)
 
+[Extended Data](ext_articles/351d7a1e.ext.json)
+
 ---
 
-### இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா யாழ் விஜயம்
+### Indian High Commissioner Santosh Ja Jaffna visit
 
 *2024-02-16 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176580) · `ta`
 
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா 16 ஆம் திகதி வெள்ளிக்கிழமை யாழ்ப்பாணத்திற்கு விஜயம் செய்தார்.
+Indian High Commissioner to Sri Lanka Santosh Ja visited Jaffna on Friday the 16th.
 
-நயினாதீவுக்கு சென்ற உயர்ஸ்தானிகர் நயினாதீவு நாகபூசணி அம்மன் கோவில், நயினாதீவு நாகவிகாரைக்கு சென்று வழிபாட்டில் ஈடுபட்டதுடன் இந்திய திட்டத்தில் மேற்கொள்ளப்படவுள்ள கலப்பு மின் திட்ட இடங்களையும் பார்வையிட்டு ஆராய்ந்தார்.
+The Nayanadivu Nagabhushani Amman Temple, who went to Nainadivu, visited the Nayanadivu Nagavikara and visited the Indian project.
 
-தொடர்ந்து காங்கேசன் துறை துறைமுகம், யாழ்ப்பாணம் சர்வதேச விமான நிலையத்திற்குச் சென்ற உயர்ஸ்தானிகர் அங்குள்ள நிலைமைகளை ஆராய்ந்தார்.
+Subsequently, the High Commissioner who went to the Kankesan sector port, Jaffna International Airport examined the conditions.
 
 ◼️
 
 [Data](articles/f579be0a.json)
+
+[Extended Data](ext_articles/f579be0a.ext.json)
 
 ---
 
@@ -170,21 +204,25 @@ Following the attack, all 27 children, accompanied by three parents, were rushed
 
 ---
 
-### சிற்றூழிர்களால் சிறைப்பிடிக்கப்பட்ட கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் விடுவிப்பு
+### Deputy Director of Colombo National Hospital
 
 *2024-02-16 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176578) · `ta`
 
-கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லனவை இன்று (16) பிற்பகல் சிற்றூழியர்கள் குழுவொன்று அவரது அலுவலகத்தில் சிறைப்பிடித்து தடுத்து வைத்து குழப்பத்தில் ஈடுபட்டனர்.
+Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana, was confused by a group of small people held at his office this afternoon.
 
-இந்நிலையில், சிற்றூழியர்களால் சுமார் 6 மணித்தியாலங்களாக அலுவலகத்தில் சிறைப்பிடிக்கப்பட்டிருந்த கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர்  வைத்தியர் ருக்ஷான் பெல்லன அங்கிருந்து விடுவிக்கப்பட்டுள்ளதாக சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+According to a senior police officer, Dr. Rukshan Bellana, the Deputy Director of the Colombo National Hospital, who had been captured in the office for about 6 hours by the minority, has been released.
 
-போராட்டத்தில் ஈடுபட்ட ஊழியர்களிடமிருந்து பெரும் பிரயத்தனத்தை மேற்கொண்ட பின்னரே வைத்தியர் ருக்ஷான் பெல்லனவை மீட்டு வைத்தியசாலைக்கு வெளியே கொண்டு வர முடிந்ததாகவும் அதன்பின்னர் போராட்டத்தில் ஈடுபட்ட ஊழியர்கள் கலைந்து சென்றதாகவும் சிரேஷ்ட பொலிஸ் அதிகாரி  மேலும்  தெரிவித்தார்.
+The Senior Police Officer added that Dr. Rukshan Bellana was able to recover from the hospital after making a great deal of effort from the protesters.
 
-வைத்தியர் ருக்ஷான் பெல்லானாவின் அலுவலகத்தை இன்று வெள்ளிக்கிழமை பிற்பகல் 1.15 மணியளவில் வைத்தியசாலை சிற்றூழியர்கள் குழுவொன்று முற்றுகையிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தமை குறிப்பிடத்தக்கது.
+It is noteworthy that a team of hospitals staged a protest at 1.15 pm on Friday afternoon.
 
-...
+72 health societies have been on strike since the 13th of this month, demanding that they be paid to doctors.
+
+◼️
 
 [Data](articles/f9bfcc9b.json)
+
+[Extended Data](ext_articles/f9bfcc9b.ext.json)
 
 ---
 
@@ -2079,27 +2117,5 @@ Maken said that the party was informed on Thursday that banks are not honouring 
 [Data](articles/60bdefb4.json)
 
 [Extended Data](ext_articles/60bdefb4.ext.json)
-
----
-
-### Allowed to detain the puma
-
-*2024-02-16 12:47:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமாவை-தடுத்து-வைத்து-விசாரிக்க-அனுமதி/175-333308) · `ta`
-
-The court has granted permission to the Criminal Investigation Department (CID) to detain "Puma" suspected of being a member of the underworld group who was arrested and brought to Sri Lanka yesterday.
-
-Under the Prevention of Terrorism Act, the Criminal Investigation Department had filed a report at the Fort Magistrate's Court.
-
-Subsequently, he was allowed to detain him for 72 hours from the arrest.
-
-Payi Hastika or Buma is considered the main assistant of the drug dealer, Kudu Salindu.
-
-It is reported that he fled the Dubai on 09 February 2021. (Of)
-
-◼️
-
-[Data](articles/25f8a82f.json)
-
-[Extended Data](ext_articles/25f8a82f.ext.json)
 
 ---

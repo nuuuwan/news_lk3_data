@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 13:33:12**
+As of **2024-02-16 13:51:43**
 
 ## Newspaper Stats
 
-*Scraped **7,443** Articles*
+*Scraped **7,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ newsfirstlk | 363
 islandlk | 385
 economynextcom | 387
 dailyftlk | 402
-adalk | 635
+adalk | 636
 tamilmirrorlk | 906
 adaderanalk | 914
-virakesarilk | 974
-adaderanasinhalalk | 1,054
+virakesarilk | 979
+adaderanasinhalalk | 1,055
 dailymirrorlk | 1,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,442 (100.0%) of 7,443 articles have been extended.
+7,450 (100.0%) of 7,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### 'Parakkuwad' Nasini fan fire for Machakarai in Mayilathamadu, Madhavan
+
+*2024-02-16 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176523) · `ta`
+
+Livestock farmers have said that the majority of the people in the Batticaloa - Madhavan, Mayilathamadu area are setting fire to cattle -like weeds.
+
+Land occupants are cultivating the land in which they have taken away, and are setting fire and destroying the land and forests with the aim of extortion.
+
+The incident has been taking place on Wednesday 14th. It does not appear to have taken steps to stop the Department of Wildlife and Wildlife.
+
+Farmers say that some cows are sick because their cattle graze on the ground of the Parakwad Weeded Fan.
+
+The farmers are worried that our livelihood is systematically destroyed, and there is no one to hear these injustices and no one to see.
+
+◼️
+
+[Data](articles/08eb108d.json)
+
+[Extended Data](ext_articles/08eb108d.ext.json)
+
+---
+
+### Sri Lanka supports Israel's defense and set up a Palestinian government
+
+*2024-02-16 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176530) · `ta`
+
+President Ranil Wickremesinghe and Israel's Transport and Road Protection Minister Brigadier General Miri Rekave (Brig. Gena. A meeting between Miri Regev was held at the Presidential Office.
+
+The President has stated that Sri Lanka will continue to cooperate to rescue the Israelis who have been held hostage by Hamas militants and that the clashes in the Gaza area should be stopped immediately.
+
+President Ranil Wickremesinghe said Sri Lanka would support the safety of Israel and establish the Palestinian state.
+
+Senior Advisor to the President's National Security and President of the President, Sagala Ratnayake, President's Secretary Saman Ekanayake and International Affairs Director Dinuk Koombage were also present.
+
+◼️
+
+[Data](articles/23f847c3.json)
+
+[Extended Data](ext_articles/23f847c3.ext.json)
+
+---
 
 ### India’s Congress claims its bank accounts frozen ahead of elections
 
@@ -47,6 +89,54 @@ India’s main opposition political party- the Congress claimed on Friday (Feb 1
 ...
 
 [Data](articles/3cf88d3c.json)
+
+[Extended Data](ext_articles/3cf88d3c.ext.json)
+
+---
+
+### Kill 99 journalists in 2023 - 72 Palestinians - Committee Report to Protect Journalists
+
+*2024-02-16 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176527) · `ta`
+
+Of these, 99 journalists were killed in 2023, 72 of them were Palestinians.
+
+The number of journalists killed in the world last year will be less than the previous years, if the journalists were not murdered in Gaza, it has been reported to protect journalists.
+
+We have already stated that more journalists have been killed than one year in the first three months of the Gaza-Israel war, ”the team said.
+
+Of the 77 journalists killed in Gaza, 72 are from Palestinians and two from Lebanon, CPJ said.
+
+The Gaza War has been seen as an unprecedented unprecedented aspect of the threat to journalists.
+
+In the wake of the war, CPJ's leader has said that the news that Gaza is only going to report what is going on inside Gaza is allowed to go into Gaza.
+
+He added that international journalists can only go there if the Israeli military is taken.
+
+So we rely on Palestinian journalists who are hosting their lives to uncover the news, ”the couple said.
+
+...
+
+[Data](articles/e0bd1b73.json)
+
+[Extended Data](ext_articles/e0bd1b73.ext.json)
+
+---
+
+### The water tank falls down on the kitchen
+
+*2024-02-16 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193460) · `si`
+
+A woman was killed in the collapse of an unsafe water tank in the upper necklace.
+
+A water tank with a capacity of 1000 liters of water has collapsed on the head.
+
+It is reported that she was renting in the day.
+
+◼️
+
+[Data](articles/1698ba8f.json)
+
+[Extended Data](ext_articles/1698ba8f.ext.json)
 
 ---
 
@@ -65,6 +155,20 @@ However, the Colombo Fort Magistrate has also ordered that the 72 hours be count
 [Data](articles/14bbab5b.json)
 
 [Extended Data](ext_articles/14bbab5b.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-02-16 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176525) · `ta`
+
+The US dollar purchasing price was Rs.
+
+◼️
+
+[Data](articles/4cbcb3f1.json)
+
+[Extended Data](ext_articles/4cbcb3f1.ext.json)
 
 ---
 
@@ -107,6 +211,34 @@ However, the protesting local residents stated that they will continue the demon
 [Data](articles/ad57256f.json)
 
 [Extended Data](ext_articles/ad57256f.ext.json)
+
+---
+
+### Chinese Marathon Flow for the first time in Sri Lanka
+
+*2024-02-16 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176516) · `ta`
+
+For the first time in Sri Lanka, the Great Chinese Marathon Flow will be held in May.
+
+More than 2000 to 3,000 Chinese athletes will be participating in Sri Lanka under the Ni Hao Zhong Guo program.
+
+Shiratha Peiris, President of Tourism and Hotel Management, said this.
+
+Shiranda Peiris, who recently visited Chonging, China, has signed the Ni Hao Chong Guo project to bring more Chinese tourists to Sri Lanka within two years.
+
+Accordingly, the Marathon flow is scheduled to be held from the 1st to the 3rd of May this year.
+
+Following this, a seafood festival is to be held in the Unavattuna Kagadarakarai area.
+
+Sri Lanka Tourism Promotion Bureau Chairman Salaka Gajabahu says that the seafood is planned annually.
+
+Under the Ni Hao Chong Guo scheme, it is expected to attract 10 million tourists over the next two years and earn an income of Rs 225 billion.
+
+◼️
+
+[Data](articles/ac4aad5a.json)
+
+[Extended Data](ext_articles/ac4aad5a.ext.json)
 
 ---
 
@@ -565,6 +697,26 @@ The body of the girl has been recovered this morning (16) during the search for 
 [Data](articles/5886f451.json)
 
 [Extended Data](ext_articles/5886f451.ext.json)
+
+---
+
+### It cannot interfere with illegal
+
+*2024-02-16 10:28:57* · [`adalk`](https://www.ada.lk/breaking_news/සහාය-දුන්නා-කියලා-නීති-විරෝධී-දේ-වලට-මැදිහත්-වෙන්න-බෑ/11-408121) · `si`
+
+Prime Minister Dinesh Gunawardena said that he was not waiting for the decentralized funds for minor work.
+
+He was speaking at the patronage of the Maharagama Divisional Coordinating Committee yesterday (15) under the patronage of Prime Minister Prime Minister Dinesh Gunawardena.
+
+"Today the country has been very bad in drugs. The special unit of the special unit can be arrested, but you can be arrested. There's not a temporary consequences.As public servants, perform their duties for the future of the people. The government has already begun to implement all the decisions taken in this regard.
+
+The IGP and the Minister is looking at the progress of the operation to operate daily through a special unit. We don't bad names. Given me, he supported the government and support the president that the drug and what was involved in drug and other illegal doctors were involved in the President. Such should be the first part of the police.
+
+...
+
+[Data](articles/b68a8f7f.json)
+
+[Extended Data](ext_articles/b68a8f7f.ext.json)
 
 ---
 
@@ -1939,151 +2091,5 @@ Addressing the media, he said that the leaders of these trade unions were affili
 [Data](articles/4d0333b3.json)
 
 [Extended Data](ext_articles/4d0333b3.ext.json)
-
----
-
-### LGBTIQ+ community representatives meet Speaker
-
-*2024-02-15 23:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LGBTIQ-community-representatives-meet-Speaker/108-277105) · `en`
-
-Colombo, Feb. 15 (Daily Mirror)- The LGBTIQ+ community representatives breifed Speaker Mahinda Yapa Abeywardana on the issues faced by the LGBTIQ+ community in Sri Lanka.
-
-A group of Sri Lankan LGBTIQ+ community representatives met with Speaker Mahinda Yapa Abeywardana recently in Parliament, the Communications Department of Parliament said.
-
-They had drawn the attention of the Speaker regarding the Private Member's Bill brought in by MP Premnath C. Dolawatte to amend Sections 365 and 365A of the Penal Code of Sri Lanka.
-
-A private member's Bill to amend the penal code in favour of the LGBT Q plus people was presented to Parliament by MP Premanath Dolawatta in April last year, which seeks to amend the penal code in support of the lesbian, gay, bisexual, transgender, queer and others.
-
-◼️
-
-[Data](articles/72164632.json)
-
-[Extended Data](ext_articles/72164632.ext.json)
-
----
-
-### 7 people, including Keheliya, in the interrogation
-
-*2024-02-15 22:39:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்ட-7-பேர்-விளக்கமறியலில்/175-333296) · `ta`
-
-Former Health Minister Keheliya Rambukwella and the former Secretary of the Ministry of Health, including the Magistrate's Magistrate's Court has ordered the remand of seven persons, until February 29.
-
-The order was issued when the case of importing controversial vaccines was re -summoned at the Magistrate's Court today (15).. Remble
-
-◼️
-
-[Data](articles/cc7bb4b2.json)
-
-[Extended Data](ext_articles/cc7bb4b2.ext.json)
-
----
-
-### Direct Airline Service Agreement between Israel and Sri Lanka: Minister Nimal
-
-*2024-02-15 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176484) · `ta`
-
-Ports, Shipping and Aviation Minister Nimal Siripala de Silva said the direct flight agreement between Israel and Sri Lanka was signed on Thursday (15).
-
-The Minister said that one of the main objectives of the agreement is to prevent delays in Sri Lankan employees abroad.
-
-Minister Nimal Siripala de Silva said this at a media briefing held at the Presidential Media Center on Thursday (15).
-
-Minister Nimal Siripala de Silva said more.
-
-The Direct Airline Service Agreement between Israel and Sri Lanka was signed this morning. According to the Agreement signed between the Ministry of Transport and the Ports, the Ministry of Ports, the Ministry of Airlines, direct flights will be launched between the two countries.. Our aim is to facilitate travelers.
-
-...
-
-[Data](articles/bf5367e5.json)
-
-[Extended Data](ext_articles/bf5367e5.ext.json)
-
----
-
-### Electricity tariff must be reduced by 28 to 33%: NPP tells PUCSL
-
-*2024-02-15 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-tariff-must-be-reduced-by-28-to-33-NPP-tells-PUCSL/108-277102) · `en`
-
-Colombo, Feb. 15 (Daily Mirror)- Claiming that the proposed electricity tariff revision by about 3 percent is not at all sufficient, the National People's Power (NPP) said the tariffs should be reduced by at least 28 to 33 percent.
-
-Making submissions during the public hearing at the Public Utilities Commission of Sri Lanka (PCUSL) with regard to the proposed electricity tariff revision, former NPP MP Dr. Nalinda Jayatissa said people must receive an electricity tariff revision of at least 28 to 33 percent.
-
-He said the CEB's new proposal to reduce electricity tariff by some 3 percent is not at all satisfactory and added that the CEB in its new proposal had submitted some unacceptable increase in expenditure.
-
-Dr. Jayatissa said the PUCSL should not take decisions solely based on the CEB's information and that the Commission should take steps to ensure justice to the consumers.
-
-...
-
-[Data](articles/181b95a4.json)
-
-[Extended Data](ext_articles/181b95a4.ext.json)
-
----
-
-### Israel and Sri Lanka ink direct air service agreement
-
-*2024-02-15 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97306/israel-and-sri-lanka-ink-direct-air-service-agreement) · `en`
-
-Ports, Shipping, and Aviation Minister Nimal Siripala de Silva announced the signing of a direct air service agreement between Israel and Sri Lanka today (15).
-
-Speaking at a press briefing themed “Collective Path to a Stable Country” at the President’s Media Centre, Minister de Silva highlighted the agreement’s focus on preventing delays in Sri Lankan workers’ migration abroad.
-
-“The agreement, signed between the Israeli Ministry of Transport and our Ministry of Ports, Shipping, and Aviation, marks the beginning of direct flights between Israel and Sri Lanka, aiming to enhance passenger convenience,” Minister de Silva stated.
-
-He further elaborated on the agreement’s objective of facilitating prompt overseas employment for Sri Lankan workers and noted the interest of many Israelis in visiting Sri Lanka.
-
-...
-
-[Data](articles/cd2608e2.json)
-
-[Extended Data](ext_articles/cd2608e2.ext.json)
-
----
-
-### Sri Lanka’s inflation expected to hit 5% in medium term, report says
-
-*2024-02-15 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97305/sri-lankas-inflation-expected-to-hit-5-in-medium-term-report-says) · `en`
-
-Sri Lanka’s spike in inflation is expected to be short-lived and will return to the targeted 5% in the medium term, a monetary policy report released by the central bank said on Thursday as the island nation’s economy stabilises from a crippling financial crisis.
-
-Sri Lanka’s economy is seeing glimmers of recovery, helped by a $2.9 billion International Monetary Fund (IMF) programme, after it went into freefall in 2022 due to a severe foreign exchange shortage.
-
-At the start of 2024, Sri Lanka raised its value added tax (VAT) to 18% from 15% to meet revenue targets under the IMF programme, sparking a renewed rise in its key inflation rate, which rose to 6.4% at the end of last month from 4% in December.
-
-The Central Bank of Sri Lanka (CBSL), which committed to maintaining inflation at 5% under a new law introduced last year, said price increases from the tax hike in January were unlikely to persist due to subdued demand and the economy operating below its full capacity.
-
-...
-
-[Data](articles/f1c71d7a.json)
-
-[Extended Data](ext_articles/f1c71d7a.ext.json)
-
----
-
-### Is the film a "The Day After Tomorrow"?
-
-*2024-02-15 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193438) · `si`
-
-Scientists pointed out that with the meltdown on the rapidly meltdown on the world, the ocean can be lost in the gulf stream.
-
-They point out that the meltdown on Earth can take place in the face of rising carbon emissions and climate change.
-
-According to the "The Guardian", "The Guardian" indicates that the Gulf can eradicate the streams of 2025 and 2095.
-
-The Gulf Waterfall plays a significant role for the climate control of the North Atlantic region.
-
-The Gulf is highly contributing to maintain the cooster of ocean temperature, which is the process of transporting heat.
-
-Residents pointed out that the temperature in the North America, Asia, Asia, Asia, and Europe, can reduce its 10 degrees Celsius within a few decades.
-
-That is, severe storms that may take place such as the rising of sea water levels.
-
-They had further pointed out that the 2004 screened 'The Day After Tomorrow' was a process similar to the fierce natural disasters.
-
-◼️
-
-[Data](articles/0d45dd68.json)
-
-[Extended Data](ext_articles/0d45dd68.ext.json)
 
 ---

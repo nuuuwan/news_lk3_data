@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 10:50:25**
+As of **2024-02-16 11:02:34**
 
 ## Newspaper Stats
 
-*Scraped **7,408** Articles*
+*Scraped **7,410** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 84
-bbccomsinhala | 97
+bbccomsinhala | 98
 dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 385
@@ -20,13 +20,13 @@ tamilmirrorlk | 902
 adaderanalk | 905
 virakesarilk | 972
 adaderanasinhalalk | 1,045
-dailymirrorlk | 1,085
+dailymirrorlk | 1,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,408 (100.0%) of 7,408 articles have been extended.
+7,408 (100.0%) of 7,410 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -93,6 +93,24 @@ The island nation successfully reduced its inflation rate to single-digit levels
 [Data](articles/8bbcd63f.json)
 
 [Extended Data](ext_articles/8bbcd63f.ext.json)
+
+---
+
+### Money allocated for Oxygen used to buy substandard drugs
+
+*2024-02-16 09:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Money-allocated-for-Oxygen-used-to-buy-substandard-drugs/155-277160) · `en`
+
+Colombo, Feb 16 (Daily Mirror)- Rs. 14.5 million was given to the supplier to purchase substandard human immunoglobulin injections, which was intended to be used for purchasing oxygen, Deputy Solicitor General Mrs. Lakmini Girihagama informed Maligaknada Magistrate Mrs. Lochani Abeywickrama.
+
+Judge also directed to match the signature of former Health Minister Keheliya Rambukwella with the signatures of the cabinet memoranda and other documents submitted to the Cabinet.
+
+When the complaints related to this incident were called, Dr. Kapila Wickramanayake, the Director of the Medical Supply Unit, who was being treated at the Colombo National Hospital for an illness, was brought to the court in an ambulance.
+
+A report from the Prison Hospital Superintendent presented to the court stated that the former Minister of Health, Keheliya Rambukwella, is in a medical condition that he cannot be presented to the court and because of that the case was tried without him.
+
+...
+
+[Data](articles/22e5c769.json)
 
 ---
 
@@ -851,6 +869,26 @@ The petition has named the Speaker and Attorney General Sanjay Rajaratnam as the
 [Data](articles/e7552c13.json)
 
 [Extended Data](ext_articles/e7552c13.ext.json)
+
+---
+
+### ආණ්ඩුව මේ සැරසෙන්නේ NGO 'නිහඬ කිරීමට' ද?
+
+*2024-02-16 04:58:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck79wrwl4gko) · `si`
+
+ශ්‍රී ලංකාවේ ක්‍රියාත්මක රාජ්‍ය නොවන සංවිධාන (NGO) සම්බන්ධයෙන් විවිධ පාර්ශවවල මිශ්‍ර අදහස් පවතී.
+
+ඇතැමෙකු රාජ්‍ය නොවන සංවිධාන යනු 'සල්ලි හම්බ කරන ව්‍යාපාරයක්' බවට චෝදනා කරන අතර, ඇතැමෙකු පවසන්නේ, 'ශ්‍රී ලංකාවේ රජයට ඉටු කළ නොහැකි වගකීම් රැසක් රාජ්‍ය නොවන සංවිධානය විසින් ඉටු කරනු ලබන' බව ය.
+
+විවිධ කාලවලදී රාජ්‍ය නොවන සංවිධානවල ක්‍රියාකාරීත්වය පිළිබඳව විවිධ අදහස් මතු වෙයි. බොහෝ විට රාජ්‍ය නොවන සංවිධානවලට එරෙහිව මත ඉදිරිපත් වුව ද, මෙවර රාජ්‍ය නොවන සංවිධාන රජයේ ක්‍රියාකලාපය කෙරෙහි විරෝධය පළ කරමින් සිටී.
+
+ඒ, රජය ගෙන ඒමට සැරසෙන 'රාජ්‍ය නොවන සංවිධාන ලියාපදිංචි කිරීම සහ සුපරීක්ෂණය කිරීමේ පනත් කෙටුම්පත'ට එරෙහිව ය.
+
+'රාජ්‍ය නොවන සංවිධාන ලියාපදිංචි කිරීම සහ සුපරීක්ෂණය කිරීමේ පනත් කෙටුම්පත' පිළිබඳව දැනුවත් කිරීම සඳහා රාජ්‍ය නොවන සංවිධාන සමූහය නියෝජනය කරන සාමාජිකයින් පිරිසක් සහ රාජ්‍ය නොවන සංවිධාන මහ ලේකම් කාර්යාලය අතර හමුවක් ජනවාරි 30 වන දා පැවැත්විණි.
+
+...
+
+[Data](articles/05244df7.json)
 
 ---
 
@@ -2003,49 +2041,5 @@ The case was taken up before the petitioner Perera appeared before the court.
 [Data](articles/33c13741.json)
 
 [Extended Data](ext_articles/33c13741.ext.json)
-
----
-
-### Doctor arrested for selling drugs
-
-*2024-02-15 18:35:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மருந்து-விற்ற-வைத்தியர்-கைது/175-333281) · `ta`
-
-The doctor of the Peradeniya Children's Hospital, who was arrested during a raid carried out by the Ethgala Police in the Gampola Jayamalapura area on suspicion of selling drug pills, has been kept in detention until February 19.
-
-He has been kept in detention after being produced in the presence of Chief Magistrate Vasana Navarathana, Gampola.
-
-The suspect, a doctor, a doctor named Kumburekethra Mathuma Banda Vardhana Kumbura, is from Karadai in Keliiya.
-
-The suspect was arrested with the help of an assistant who had bought the pills to Jayamalapurapura with 1600 pills to Jayamalapura, with 1600 pills.
-
-The suspect, who works at the Peradeniya Teaching Hospital, has been operating a private medical center in Kelly Oya, he said in court.
-
-However, lawyers appearing on behalf of the suspect have said that they had pills to protect from drug users and thieves.
-
-◼️
-
-[Data](articles/60e73970.json)
-
-[Extended Data](ext_articles/60e73970.ext.json)
-
----
-
-### Minister calls for domestic medicine production to curtail USD 500 Mn imports
-
-*2024-02-15 18:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-calls-for-domestic-medicine-production-to-curtail-USD-500-Mn-imports/108-277097) · `en`
-
-Colombo, Feb 15 (Daily Mirror) - In a bid to address the substantial financial outlay of over USD 500 million spent annually on importing medicines, Minister of Health and Industry, Dr. Ramesh Pathirana, underscored the need for domestic production.
-
-He said this during a special discussion held with key officials from the Medical Supplies Division, the State Pharmaceutical Corporation and the National Medicines Regulatory Authority.
-
-The discussion, chaired by Dr. Pathirana, delved into critical issues surrounding the regulation, supply and distribution of medicines. Emphasis was placed on the need to streamline tender procedures, ensre the continuous provision of high-quality drugs to hospitals, and optimizing the drug import system.
-
-Dr. Pathirana highlighted the necessity of bolstering the domestic production of medicines as the most viable solution to mitigate the hefty import expenditure.
-
-...
-
-[Data](articles/bd90a6ee.json)
-
-[Extended Data](ext_articles/bd90a6ee.ext.json)
 
 ---

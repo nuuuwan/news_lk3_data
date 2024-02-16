@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 19:33:26**
+As of **2024-02-16 19:50:16**
 
 ## Newspaper Stats
 
-*Scraped **7,526** Articles*
+*Scraped **7,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 398
 dailyftlk | 402
 adalk | 642
 tamilmirrorlk | 918
-adaderanalk | 922
+adaderanalk | 923
 virakesarilk | 985
 adaderanasinhalalk | 1,071
 dailymirrorlk | 1,106
@@ -26,11 +26,29 @@ dailymirrorlk | 1,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,526 (100.0%) of 7,526 articles have been extended.
+7,527 (100.0%) of 7,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Sri Lanka needs more support from Washington, former president says
+
+*2024-02-16 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97332/sri-lanka-needs-more-support-from-washington-former-president-says) · `en`
+
+Sri Lanka is back in the geopolitical spotlight ahead of elections slated for later this year, and former President Maithripala Sirisena says Washington should be paying attention.
+
+Outside powers — specifically China — are exerting influence amid what Mr. Sirisena says is a moment of “great instability” for his country, a teardrop-shaped island just off India’s southeastern coast that has become entangled in great power politics between Washington and Beijing in recent years.
+
+Mr. Sirisena, who was president from 2015 to 2019, emphasized during a meeting with The Washington Times that his country’s citizens are enduring “abject poverty” trying to recover from a crippling foreign debt crisis, soaring inflation, a contracting economy and shortages of food, fuel and other basics.
+
+...
+
+[Data](articles/84795075.json)
+
+[Extended Data](ext_articles/84795075.ext.json)
+
+---
 
 ### Carpenter’s widow demands Rs. 200 million from police
 
@@ -2053,35 +2071,5 @@ The two suspects have been handed over to the Peliyagoda Police for further inve
 [Data](articles/5b675c9b.json)
 
 [Extended Data](ext_articles/5b675c9b.ext.json)
-
----
-
-### The international community realizes that we will win the elections - for the reason we have been invited to India - India's security is the security of Sri Lanka.
-
-*2024-02-16 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176511) · `ta`
-
-The visit to India is really special, and at home and abroad, people understand that people are with us.
-
-In this context, we have been invited to realize who is going to win the international community.
-
-In an interview with JVP parliamentarian Vijitheerath Dailymir, we are happy about this.
-
-Answer - Regional Security is a common thing in Sri Lanka and we must ensure that National Security Sovereignty is the integrity of the National Security Sovereignty.
-
-It is our policy that is dedicated to regional security on the basis of Sri Lanka as a country.
-
-However, we are not talking about special measures to be taken on this issue.
-
-You met the Indian National Security Advisor -Once an Indian representative expressed Sri Lanka's security as Sri Lanka's security in Sri Lanka -how far is this comment?
-
-We will definitely accept this.
-
-It is well known that India and China are involved in the World Wide Competition.
-
-...
-
-[Data](articles/1b2c43af.json)
-
-[Extended Data](ext_articles/1b2c43af.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 20:02:30**
+As of **2024-02-16 20:17:37**
 
 ## Newspaper Stats
 
-*Scraped **7,527** Articles*
+*Scraped **7,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 402
 adalk | 642
 tamilmirrorlk | 918
 adaderanalk | 923
-virakesarilk | 985
+virakesarilk | 987
 adaderanasinhalalk | 1,071
 dailymirrorlk | 1,106
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,106
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,527 (100.0%) of 7,527 articles have been extended.
+7,527 (100.0%) of 7,529 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,22 @@ The petitioner Kamani Rupika Priyangani stated that she entered into marriage wi
 [Data](articles/abf603af.json)
 
 [Extended Data](ext_articles/abf603af.ext.json)
+
+---
+
+### சங்காவைப் போன்று உயர்வதற்கு கடும் உழைப்பு அவசியம் என்கிறார் 'குட்டி சங்கா' ஷாருஜன்
+
+*2024-02-16 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176573) · `ta`
+
+'குட்டி சங்கா' (Little Sanga) என எனக்கு புனைப் பெயர் சூட்டபட்டதையிட்டு பெருமை அடைகிறேன். ஆனால், அவரைப் போன்று உயர்வதாக இருந்தால் கிரிக்கெட் அரங்கில் கடுமையாக உழைக்க வேண்டிவரும் என வீரகேசரி ஒன்லைனுக்கு கொட்டாஞ்சேனை புனித ஆசீர்வாதப்பர் கல்லூரி கிரிக்கெட் அணித் தலைவர் ஷாருஜன் சண்முகநாதன் தெரிவித்தார்.
+
+விண்ணகத்தில் ஏற்பாடு செய்யப்பட்ட  பென்ஸ் -வெஸ்லி போட்டி தொடர்பான ஊடக சந்திப்பின் பின்னர் ஷாருஜனிடம் பிரத்தியேகமாக எழுப்பிய கேள்வி ஒன்றுக்கு பதிலளிக்கையிலேயே அவர் இதனைத் தெரிவித்தார்.
+
+'எனக்கு குட்டி சங்கா என பெயர் சூட்டப்பட்டபோது நான் சிறுவனாக இருந்தேன். அதன் பெருமையை இப்போது உணர்கிறேன். அவர் ஒரு கிரிக்கெட் மேதை. சங்காவைப் (குமார் சங்கக்கார) போன்று உயரிய நிலைக்கு வருவதென்பது இலகுவானதல்ல. அதற்காக கிரிக்கெட் அரங்கில் நான் கடுமையாக உழைக்க வேண்டும். எத்தனையோ படிகளைக் கடக்க வேண்டும். அந்த இடத்தை அடைவதற்கு நான் சரியான நிலையில் இருக்கின்றேனா என்பது எனக்கு தெரியாது.
+
+...
+
+[Data](articles/33983fac.json)
 
 ---
 
@@ -109,6 +125,24 @@ The Nuwara Eliya Police are also reporting to take light signals to light light 
 [Data](articles/91602a31.json)
 
 [Extended Data](ext_articles/91602a31.ext.json)
+
+---
+
+### யாழில் இனிமேல் நடைபெறும் இசை நிகழ்வுகளுக்கு தமது நெறிப்படுத்தல் இருக்கும் - டக்ளஸ் தேவானந்தா
+
+*2024-02-16 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176569) · `ta`
+
+யாழ்ப்பாணத்தில் நடைபெற்ற இசை நிகழ்வில் ஏற்பட்ட குழப்பங்களுக்கு தமது நெறிப்படுத்தல்கள் இல்லாமையும் ஒரு காரணம் என கடற்தொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+
+இசை நிகழ்வில் ஏற்பட்ட குழப்பங்களுக்கு எங்களுடைய இளைஞர்களைப் பலரும் குறை கூறுகின்றனர். நிகழ்வில் இளைஞர்கள் சிலர் தாக்குதலுக்கு இலக்காகியதாகவும் அறிந்து கொண்டேன்.
+
+நிகழ்வு தொடர்பில் யாழ்.மாநகர சபை மற்றும் யாழ்ப்பாண பொலிஸார் கூடிய கவனம் செலுத்தி இருக்க வேண்டும். நானும் அதனை பார்த்து இருக்க வேண்டும். நானும் அது தொடர்பில் கரிசனை இல்லாமல் இருந்து விட்டேன்.
+
+இனிவரும் காலங்களில் இப்படியான நிகழ்ச்சிகள் நடைபெறுமாக இருந்தால் , மக்கள் பிரச்சனைகள் இன்றி சந்தோசமாக நிகழ்வுகளைக் கண்டு களிக்க கூடியவாறான ஏற்பாடுகளைச் செய்வோம் எனத் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/29064cba.json)
 
 ---
 
@@ -210,6 +244,26 @@ Amidst economic dynamics, the export sector exhibited robust growth in 2023, the
 
 ---
 
+### Russia Opposition Leader Alexe Navalni's sudden death
+
+*2024-02-16 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176567) · `ta`
+
+According to reports, Russian opposition leader and Vladimir Putin, who criticized Vladimir Putin, has died in Alexe Navalni jail.
+
+He died in a prison in Arctic, Russia Prison sources said.
+
+Russia Prison sources said that Navalni suddenly suffered a sudden illness on Friday.
+
+Attempts to save him have not been successful, he died, hospital sources said.
+
+◼️
+
+[Data](articles/ca0d0b6c.json)
+
+[Extended Data](ext_articles/ca0d0b6c.ext.json)
+
+---
+
 ### Russian opposition leader Navalny dies in prison
 
 *2024-02-16 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-opposition-leader-Navalny-dies-in-prison/108-277183) · `en`
@@ -229,26 +283,6 @@ Navalny, the prison service said, had lost consciousness almost immediately.
 [Data](articles/96907240.json)
 
 [Extended Data](ext_articles/96907240.ext.json)
-
----
-
-### Russia Opposition Leader Alexe Navalni's sudden death
-
-*2024-02-16 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176567) · `ta`
-
-According to reports, Russian opposition leader and Vladimir Putin, who criticized Vladimir Putin, has died in Alexe Navalni jail.
-
-He died in a prison in Arctic, Russia Prison sources said.
-
-Russia Prison sources said that Navalni suddenly suffered a sudden illness on Friday.
-
-Attempts to save him have not been successful, he died, hospital sources said.
-
-◼️
-
-[Data](articles/ca0d0b6c.json)
-
-[Extended Data](ext_articles/ca0d0b6c.ext.json)
 
 ---
 
@@ -2027,49 +2061,5 @@ If each family had just one child, the population would shrink, he said. “And 
 [Data](articles/8954f44a.json)
 
 [Extended Data](ext_articles/8954f44a.ext.json)
-
----
-
-### Working procedure for Customs Code is over
-
-*2024-02-16 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193456) · `si`
-
-The trade union action has been completed by the Customs Department's trade unions.
-
-The trade union action was initiated, including promotions and the trade union action had begun.
-
-Customer Trade Union Representatives said that the trade union representative was suspended after a discussion with Minister of State, Ranjith Siyambalapitiya and Presidential Secretary Saman Ekanayake.
-
-◼️
-
-[Data](articles/29575dde.json)
-
-[Extended Data](ext_articles/29575dde.ext.json)
-
----
-
-### Two drugs in Ganeja's drug network
-
-*2024-02-16 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193455) · `si`
-
-Two major colleagues of Ganejawa's main colleagues, "Peliyagoda Shakthi" and their drug dealer has been arrested.
-
-Sanjeewa is currently in police custody as an organized criminal criminal leader and a drug dealer.
-
-The two suspects have been arrested by the STF officer in the Kelaniya junction in the Kelaniya Junction yesterday (15) under justice.
-
-The three-wheeler was taken by the police, 62g, a 900mm, an electronic and drug department, was taken into custody.
-
-The suspects are 32-year-old and 34-year-old residents of Kelaniya and Wattala.
-
-In further interrogation, one suspect is said to be arrested on charges of supporting the murder in 2022 and released on bail.
-
-The two suspects have been handed over to the Peliyagoda Police for further investigations.
-
-◼️
-
-[Data](articles/5b675c9b.json)
-
-[Extended Data](ext_articles/5b675c9b.ext.json)
 
 ---

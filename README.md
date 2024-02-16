@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 11:02:34**
+As of **2024-02-16 11:17:33**
 
 ## Newspaper Stats
 
-*Scraped **7,410** Articles*
+*Scraped **7,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,101 @@ dailyftlk | 400
 adalk | 633
 tamilmirrorlk | 902
 adaderanalk | 905
-virakesarilk | 972
-adaderanasinhalalk | 1,045
+virakesarilk | 974
+adaderanasinhalalk | 1,049
 dailymirrorlk | 1,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,408 (100.0%) of 7,410 articles have been extended.
+7,410 (99.9%) of 7,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### වැඩි වැඩියෙන් ළමයි හදන්න - පුටින් ඉල්ලයි
+
+*2024-02-16 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193454) · `si`
+
+වැඩි වැඩියෙන් දරුවන් හදන ලෙස රුසියානු ජනපති ව්ලැඩිමීර් පුටින් සිය ජනතාවගෙන් ඉල්ලීමක් කර තිබේ.
+
+ඔහු පවසන්නේ සෑම පවුලකම අවම වශයෙන් දරුවන් දෙදෙනෙක් වත් සිටීම වැදගත් බවය.
+
+2022 වසරේදී රුසියානු හමුදාව තම අසල්වැසි යුක්‍රේනය ආක්‍රමණය කළ අතර මේ වනවිට එම යුද්ධය හේතුවෙන් රුසියානුවන් විශාල ගණනක් මියගොස් ඇති අතර එසේම විශාල පිරිසක් රට හැරගොස් තිබේ.
+
+"අපිට ජාතියක් වශයෙන් පැවැත්ම සඳහා අවම වශයෙන් එක් පවුලක දරුවන් දෙදෙනෙක් වත් සිටිය යුතුයි. එක දරුවෙක් පමණක් හැදුවොත් අපේ ජනගහනය අඩුවෙයි...," කර්මාන්ත ශාලාවක සේවකයින් පිරිසක් අමතමින් රුසියානු ජනාධිපතිවරයා පැවසීය.
+
+2023 වසර ආරම්භයේදී රුසියාවේ ජනගහනය මිලියන 146.4ක් ලෙස සඳහන් විය.
+
+◼️
+
+[Data](articles/8d3c5e7b.json)
+
+---
+
+### தேர்தல்களில் நாங்களே வெற்றிபெறுவோம் என்பதை சர்வதேச சமூகம் உணர்ந்துள்ளது - அதன்காரணமாகவே இந்தியாவிற்கு அழைக்கப்பட்டோம் - இந்தியாவின் பாதுகாப்பே இலங்கையின் பாதுகாப்பு- விஜிதஹேரத்
+
+*2024-02-16 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176511) · `ta`
+
+இந்தியாவிற்கான விஜயம் உண்மையாகவே  விசேடமானது,உள்நாட்டிலும் வெளிநாட்டிலும் அனைவரும்  மக்கள் எங்களுடன் இருக்கின்றார்கள் என்பதை புரிந்துகொண்டுள்ளனர்,
+
+சர்வதேச சமூகம் தேர்தலில் யார் வெற்றிபெறப்போகின்றார்கள் என்பதை உணர்ந்துள்ளது இந்த சூழமைவிலேயே எங்களிற்கு அழைப்பு விடுக்கப்பட்டது.
+
+இது குறித்து நாங்கள் மகிழ்ச்சியடைந்துள்ளோம்என ஜேவிபியின் நாடாளுமன்ற உறுப்பினர் விஜிதஹேரத் டெய்லிமிரருக்கு வழங்கிய பேட்டியில் தெரிவித்துள்ளார்
+
+பதில் - பிராந்திய பாதுகாப்பு என்பது இலங்கைக்கும் பொதுவான விடயம் நாங்கள் தேசிய பாதுகாப்பு இறைமை ஆள்புல ஒருமைப்பாடுஎன்பனவற்றை உறுதி செய்யவேண்டும் - பிராந்தியத்தில் மோதல் வெடித்தால் அதன் தாக்கம் இலங்கையிலும் உணரப்படும் இதன்காரணமாக நாங்கள் மிக உயர்மட்டத்தில் பிராந்திய பாதுகாப்பு என்ற விடயத்திற்குதயாராகவுள்ளோம்.
+
+இலங்கை ஒருநாடு என்ற அடிப்படையில் பிராந்திய பாதுகாப்பு குறித்து அர்ப்பணிப்புடன் விளங்கும் அது எங்களின் கொள்கை.
+
+எனினும் இந்த விடயத்தில் எடுக்கப்படவேண்டிய விசேடமான நடவடிக்கைகள் குறித்து நாங்கள் எதனையும் பேசவில்லை.
+
+...
+
+[Data](articles/1b2c43af.json)
+
+---
+
+### පොලීසිය තුළදී වස දුන් සිද්ධියට තවත් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-02-16 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193452) · `si`
+
+ආදුරුප්පුවීදිය පොලීසිය තුළදී සැකකරුවන් දෙදෙනෙකුට වස මිශ්‍ර පානයක් ලබාදීමේ සිද්ධිය සම්බන්ධයෙන් තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+
+පොලීසිය සඳහන් කළේ සිද්ධියට සම්බන්ධ ප්‍රධාන සැකකරුවෙකු සහ තවත් සැකකරුවෙක් එළෙස අත්අඩංගුවට ගත් බවය.
+
+පසුගිය 07 වනදා පොලීසිය තුළ රඳවා සිටි සැකකරුවන් බැලීමට පිටතින් පැමිණි පුද්ගලයෙකු විසින් මෙම වස මිශ්‍ර කිරි පානයක් ලබාදී තිබුණි.
+
+ඊයේ (15) දහවල් කාලයේදී වත්තල සහ කොටහේන ප්‍රදේශවලදී සිද්ධියට සම්බන්ධ සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ සැකකරුවන් 25 සහ 32 යන වයස්වල පසුවන්නන් බවය.
+
+◼️
+
+[Data](articles/f78cc140.json)
+
+---
+
+### தலை மன்னாரில் சிறுமி பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு கொலை
+
+*2024-02-16 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176510) · `ta`
+
+மன்னார் தலைமன்னார் கிராமத்தில் 10 வயதான சிறுமி ஒருவர் நேற்று வியாழக்கிழமை (15) இரவு பாலியல் துஷ்பிரயோகத்திற்குட்படுத்தப்பட்டு கொலை செய்யப்பட்ட சம்பவம் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+மன்னார் தலைமன்னார் கிராமம் பகுதியில் தோட்டம் ஒன்றை பராமறிப்பதற்காக பணியமர்த்தப்பட்ட நபர் ஒருவராலேயே குறித்த சிறுமி கொலை செய்யப்பட்டிருக்கலாம் என சந்தேகிக்கப்படுகின்றது.
+
+குறித்த நபர் மற்றும் அவரது மனைவி தலைமன்னார் பகுதியில் வசித்து வந்த நிலையில் கணவன் போதைக்கு அடிமையான நிலையில் மனைவி பிரிந்து சென்றுள்ளார் .
+
+இந்நிலையில் அருகில் இருக்கும் வயோதிப பெண் ஒருவர் குறித்த சந்தேக நபருக்கு உணவு வழங்கி வந்த நிலையில் அவர்களுடன் நட்பாக பழகி வந்துள்ளார்.
+
+இந்நிலையில் சந்தேக நபர் நேற்றைய தினம் மாலை உணவு வழங்கும் வயோதிப பெண்ணின் பேத்தியான குறித்த சிறுமியை கடைக்கு அழைத்து சென்ற நிலையில் சம்பம் இடம் பெற்றுள்ளதாக தெரிவிக்கப்ப்டுகின்றது.
+
+...
+
+[Data](articles/5886f451.json)
+
+---
 
 ### Thera shot dead in Vihara;Another person arrested
 
@@ -96,6 +178,48 @@ The island nation successfully reduced its inflation rate to single-digit levels
 
 ---
 
+### 2024 පෙබරවාරි මුදල් ප්‍රතිපත්ති වාර්තාව නිකුත් කෙරේ
+
+*2024-02-16 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193451) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුව 2024 පෙබරවාරි මාසය සඳහා මුදල් ප්‍රතිපත්ති වාර්තාව ප්‍රකාශයට පත්කර ඇත.
+
+මෙම වාර්තාවේ අන්තර්ගතය, ප්‍රධාන වශයෙන් ම 2024 ජනවාරි මාසයේ මුදල් ප්‍රතිපත්ති සමාලෝචන වටයට අදාළ තීරණ සඳහා ශ්‍රී ලංකා මහ බැංකුවේ මුදල් ප්‍රතිපත්ති මණ්ඩලය විසින් සැලකිල්ලට ගනු ලැබූ තොරතුරු මත පදනම් වේ.
+
+විශේෂයෙන් ම, ආර්ථික වර්ධනය සහ උද්ධමනයට අදාළව ඉදිරි දැක්මක් සැපයීම සඳහා මහ බැංකුව විසින් ප්‍රකාශයට පත් කරනු ලබන දෙවන මුදල් ප්‍රතිපත්ති වාර්තාව මෙය බව මහ බැංකුව පවසයි.
+
+දේශීය සහ ගෝලීය වශයෙන් දැනට පවතින මෙන්ම අපේක්ෂිත ප්‍රවණතා සැලකිල්ලට ගනිමින්, උද්ධමන සහ ආර්ථික වර්ධන පුරෝකථන සඳහා පවතින අවදානම් පිළිබඳව ඇගයීමක් ඉදිරිපත් කිරීම ද මෙම වාර්තාවෙන් අපේක්ෂා කරයි.
+
+මෙම වාර්තාව මගින් මෑත කාලීන මුදල් ප්‍රතිපත්ති තීරණ සඳහා මූලික වූ පසුබිම සන්නිවේදනය කිරීම තුළින් මහ බැංකුවේ විනිවිදභාවය සහ වගවීම වැඩි දියුණු කිරීමට මහ බැංකුව ප්‍රයත්න දරන බවද එම නිවේදනයේ දැක්වෙයි.
+
+2024 පෙබරවාරි මුදල් ප්‍රතිපත්ති වාර්තාව නිකුත් කෙරේ by poornima on Scribd
+
+◼️
+
+[Data](articles/24d954de.json)
+
+---
+
+### පුද්ගලයෙකු හප්පා පළාගිය රියදුරෙක් අත්අඩංගුවට
+
+*2024-02-16 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193450) · `si`
+
+අරලගංවිල අළුත්වැව කැටේහංදිය ප්‍රදේශයේදී රිය අනතුරක් සිදුකර පළා ගිය ලොරි රථ රියදුරෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මාර්ගයේ පුද්ගලයෙකු වැටී සිටින බවට ලද තොරතුරකට අනුව පොලීසිය එම සිද්ධිය ගැන විමර්ශන ආරම්භ කර තිබුණි.
+
+හිසට බරපතළ තුවාල සිදුවීම හේතුවෙන් එම පුද්ගලයා එම ස්ථානයේදීම මියගොස් ඇත.
+
+එම ප්‍රදේශයේ වී මිලදී ගන්නා පුද්ගලයෙකු මෙම අනතුර සිදුකර පළා ගොස් ඇති අතර ඔහුගේ ලොරි රථය පරීක්ෂා කිරීමේදී මියගිය පුද්ගලයාගේ හිසකෙස් හා ඇඳුම් කොටස් එහි තැවරී තිබී සොයාගෙන ඇත.
+
+ඉකුත් 14 වනදා රාත්‍රී කාලයේදී මෙම අනතුර සිදුවී ඇති අතර 15 වනදා සවස් කාලයේදී සිද්ධිය පිළිබඳව තොරතුරු පොලීසියට වාර්තා වී තිබුණි.
+
+◼️
+
+[Data](articles/2f8704dd.json)
+
+---
+
 ### Money allocated for Oxygen used to buy substandard drugs
 
 *2024-02-16 09:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Money-allocated-for-Oxygen-used-to-buy-substandard-drugs/155-277160) · `en`
@@ -111,6 +235,8 @@ A report from the Prison Hospital Superintendent presented to the court stated t
 ...
 
 [Data](articles/22e5c769.json)
+
+[Extended Data](ext_articles/22e5c769.ext.json)
 
 ---
 
@@ -872,23 +998,33 @@ The petition has named the Speaker and Attorney General Sanjay Rajaratnam as the
 
 ---
 
-### ආණ්ඩුව මේ සැරසෙන්නේ NGO 'නිහඬ කිරීමට' ද?
+### Is the government dressing to silence NGO?
 
 *2024-02-16 04:58:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck79wrwl4gko) · `si`
 
-ශ්‍රී ලංකාවේ ක්‍රියාත්මක රාජ්‍ය නොවන සංවිධාන (NGO) සම්බන්ධයෙන් විවිධ පාර්ශවවල මිශ්‍ර අදහස් පවතී.
+There are mixed parties in various parties regarding NGOs (NGO) in Sri Lanka.
 
-ඇතැමෙකු රාජ්‍ය නොවන සංවිධාන යනු 'සල්ලි හම්බ කරන ව්‍යාපාරයක්' බවට චෝදනා කරන අතර, ඇතැමෙකු පවසන්නේ, 'ශ්‍රී ලංකාවේ රජයට ඉටු කළ නොහැකි වගකීම් රැසක් රාජ්‍ය නොවන සංවිධානය විසින් ඉටු කරනු ලබන' බව ය.
+Some NGOs accused NGOs and accused of 'money', and some say that 'NGO fulfills a number of responsibilities to the government of Sri Lanka.'
 
-විවිධ කාලවලදී රාජ්‍ය නොවන සංවිධානවල ක්‍රියාකාරීත්වය පිළිබඳව විවිධ අදහස් මතු වෙයි. බොහෝ විට රාජ්‍ය නොවන සංවිධානවලට එරෙහිව මත ඉදිරිපත් වුව ද, මෙවර රාජ්‍ය නොවන සංවිධාන රජයේ ක්‍රියාකලාපය කෙරෙහි විරෝධය පළ කරමින් සිටී.
+In different time, NGOs emerge about the performance of NGOs. The NGOs are protesting against the government role of the government.
 
-ඒ, රජය ගෙන ඒමට සැරසෙන 'රාජ්‍ය නොවන සංවිධාන ලියාපදිංචි කිරීම සහ සුපරීක්ෂණය කිරීමේ පනත් කෙටුම්පත'ට එරෙහිව ය.
+That is against the registration and supervision of NGOs to bring the government.
 
-'රාජ්‍ය නොවන සංවිධාන ලියාපදිංචි කිරීම සහ සුපරීක්ෂණය කිරීමේ පනත් කෙටුම්පත' පිළිබඳව දැනුවත් කිරීම සඳහා රාජ්‍ය නොවන සංවිධාන සමූහය නියෝජනය කරන සාමාජිකයින් පිරිසක් සහ රාජ්‍ය නොවන සංවිධාන මහ ලේකම් කාර්යාලය අතර හමුවක් ජනවාරි 30 වන දා පැවැත්විණි.
+A group of members representing NGOs and NGOs to educate the 'Registration of NGO registration and supervision'.
+
+The Director General of NGO of NGO was also present at the meeting of the Secretary General of the Secretariat.
+
+The NGOs allege that the relevant Bill requested the public in English, Sinhala and Tamil.
+
+However, during the discussion, an English copy of the draft was given.
+
+The Director General of the NGO to the Secretary General of the Secretary General to the BBC told the Sinhala work, which can be prepared in English to submit the Sinhala and Tamil.
 
 ...
 
 [Data](articles/05244df7.json)
+
+[Extended Data](ext_articles/05244df7.ext.json)
 
 ---
 
@@ -1917,129 +2053,5 @@ Speaking to the President's Counsel Directors, Assistant Attorney-at-Arrahera Ve
 [Data](articles/8ccb86ef.json)
 
 [Extended Data](ext_articles/8ccb86ef.ext.json)
-
----
-
-### MP Gunatilleka Rajapaksa hospitalized
-
-*2024-02-15 19:04:16* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-ගුණතිලක-රාජපක්ෂ-රෝහල්-ගත-කරයි/11-408112) · `si`
-
-Kandy District Parliamentarian and District Coordinating Committee Chairman Gunatilleke Rajapaksa has been admitted to a private hospital for emergency treatment at the Kandy District Secretariat.
-
-He had immediately admitted to a private hospital, due to a serious hospital when he was attending the District Coordinating Committee meeting at the Kandy District Secretariat meeting yesterday (14).He confirmed his nearest treatment.
-
-As the Kandy District Coordinating Committee meeting began, the Kandy district MP Wasantha Yapa Bandara has accused Gunatilleke Rajapaksa in the ban the committee meeting and there is controversy among the two.
-
-However, it is reported that the health condition of the MP is not serious.
-
-◼️
-
-[Data](articles/21c7da7b.json)
-
-[Extended Data](ext_articles/21c7da7b.ext.json)
-
----
-
-### Global growth shifts to Asia, Sri Lanka an attractive center: JICA president
-
-*2024-02-15 19:00:00* · [`economynextcom`](https://economynext.com/global-growth-shifts-to-asia-sri-lanka-an-attractive-center-jica-president-151105/) · `en`
-
-ECONOMYNEXT – Sri Lanka is an attractive center for economic growth, and the Japan International Cooperation Agency (JICA) will continue to partner in the country’s progress, JICA President Tanaka Akihiko has said.
-
-“Global growth has shifted to the Asia Pacific region and Sri Lanka is an attractive center of global economic growth,” he said, adding that JICA will continue to be a partner in the country’s progress, according to a statement by the Department of Government Information.
-
-“JICA continues to support Sri Lanka’s development and reform agenda,” Akihito was quoted as saying when he met Sri Lanka’s Prime Minister Dinesh Gunwardena.
-
-JICA will be funding a renewable energy program which includes the establishment of solar energy units in Sri Lanka’s hospitals, Minister Bandula Gunawardena said last week.
-
-...
-
-[Data](articles/466b69db.json)
-
-[Extended Data](ext_articles/466b69db.ext.json)
-
----
-
-### CEB Rs. 112 million crores to customers
-
-*2024-02-15 18:58:33* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-රු--කෝටි-112ක්-පාරිභෝගියන්ට-ගෙවලා/11-408111) · `si`
-
-In 2023, the Ceylon Electricity Board (CEB) has paid a new electricity supply to Rs.
-
-◼️
-
-[Data](articles/ac3cebed.json)
-
-[Extended Data](ext_articles/ac3cebed.ext.json)
-
----
-
-### JICA to resume construction of second terminal of Katunayake airport
-
-*2024-02-15 18:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/JICA-to-resume-construction-of-second-terminal-of-Katunayake-airport/108-277098) · `en`
-
-Colombo, Feb 15 (Daily Mirror) - Since Sri Lanka's economy is showing growth, the Japan International Cooperation Agency (JICA) said they will support the construction of the second terminal of the Katunayake Airport after the financial restructuring process is implemented by the International Monetary Fund.
-
-The decision was announced during a discussion between Ports, Shipping and Aviation Minister Nimal Siripala de Silva and a group of representatives, including JICA Institute Chairman Akihiko Tanaka at the Ministry.
-
-The discussion was about the resumption of the construction of this second terminal at Katunayake Airport. The construction of the second terminal of the Katunayake Airport was started in 2020 at a cost of Rs. 145 billion under the JICA soft loan scheme, and the project was stopped in 2022 due to the economic recession in the country by March 2022.
-
-...
-
-[Data](articles/5aa4a9f0.json)
-
-[Extended Data](ext_articles/5aa4a9f0.ext.json)
-
----
-
-### "Don't come to anyone to buy tickets"
-
-*2024-02-15 18:42:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்கெட்-வாங்க-யாரும்-வர-வேண்டாம்/175-333282) · `ta`
-
-Tickets for the first T20 match will be sold at the Rangiri Dambulla International Cricket Ground on Saturday (17).
-
-Sri Lanka Cricket has advised the public not to go to blacksmiths demanding match tickets for the first T20 match.
-
-Meanwhile, cricket fans have been increasingly accumulated to buy tickets for the first T20 match.
-
-Fans have said that this is the first time the match will be held in Dambulla after five years.
-
-Sri Lanka and Afghanistan T20 matches will be held on February 17, 19 and 21 at Dambulla Ground.
-
-◼️
-
-[Data](articles/09166873.json)
-
-[Extended Data](ext_articles/09166873.ext.json)
-
----
-
-### Three policemen knock in front of a citizen and apologizes
-
-*2024-02-15 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193428) · `si`
-
-Three police officers kneel before an ordinary citizen and an apologized.
-
-The 81-year-old Godwin Perera has been identified as a senior citizen.
-
-The three police officers have been forgiven by Vidith K Malalgoda, Achala Wingulgoda and Arjuna Oyajuna and Arjuna Obeysekara.
-
-In 2017, Mr. Godwin Perera was informed to a private hospital in 2017 and had taken steps to hospital with a road accident.
-
-The complaint states that the respondents were taken to the police cell by respondents.
-
-He further stated that he has asked the law and asked the same as the officials.
-
-Mr. Godwin Perera, who was prejudiced against him, had filed a fundamental government petition in the Supreme Court and was his lawyer.
-
-However, due to the respondents with respondents, Petitiography Minister Godwin Perera agreed to the court in the Supreme Court.
-
-The case was taken up before the petitioner Perera appeared before the court.
-
-...
-
-[Data](articles/33c13741.json)
-
-[Extended Data](ext_articles/33c13741.ext.json)
 
 ---

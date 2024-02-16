@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 06:16:14**
+As of **2024-02-16 06:53:12**
 
 ## Newspaper Stats
 
-*Scraped **7,354** Articles*
+*Scraped **7,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 382
 economynextcom | 387
 dailyftlk | 389
 adalk | 630
-tamilmirrorlk | 898
+tamilmirrorlk | 899
 adaderanalk | 899
 virakesarilk | 962
-adaderanasinhalalk | 1,037
-dailymirrorlk | 1,077
+adaderanasinhalalk | 1,038
+dailymirrorlk | 1,081
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,354 (100.0%) of 7,354 articles have been extended.
+7,354 (99.9%) of 7,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### දිස්ත්‍රික්ක කිහිපයකට තද වැසි
+
+*2024-02-16 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193439) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (16) දිනයේ වැසි වාර කිහිපයක් ඇති වෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද සවස 2න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30ත් 40ත් පමණ තරමක තද සුළං ද ඇතිවිය හැකි බව දැනුම්දෙයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/b13c4254.json)
+
+---
+
+### Sri Lanka to host first-ever Chinese marathon in May
+
+*2024-02-16 06:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-host-first-ever-Chinese-marathon-in-May/108-277121) · `en`
+
+Sri Lanka will host the first-ever Chinese marathon this May, where over 2000-3000 Chinese athletes will arrive under the ‘Ni Hao Zhong Guo’ programme, Sri Lanka Institute of Tourism and Hotel Management Chairman Shirantha Peiris announced.
+
+Peiris recently visited the municipality of Chongqing in China to finalise an agreement under the Ni Hao Zhong Guo programme to bring in additional Chinese tourists to Sri Lanka over the next two-year period.
+
+Accordingly, it has been proposed to organise a marathon for the Chinese athletes from May 1 to 3, this year. This is to be followed by a seafood festival organised on the Unwatuna beach strip. Sri Lanka Tourism Promotion Bureau Chairman Chalaka Gajabahu revealed plans to make this an annual event.
+
+...
+
+[Data](articles/6714a84e.json)
+
+---
+
+### Buddhist trail in the works to boost tourism
+
+*2024-02-16 04:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Buddhist-trail-in-the-works-to-boost-tourism/108-277122) · `en`
+
+Tourism authorities are in the process of creating a Buddhist trail in Sri Lanka, a fresh effort towards luring religious travellers.
+
+The trail will target the South East Asia segment but promotional efforts will also extend to Europe, US, and Australia, Sri Lanka Tourism Promotion Bureau (SLTPB) Chairman Chalaka Gajabahu said this week.
+
+“Sri Lanka, as a Buddhist country, holds immense potential to establish a unique tourism brand that resonates globally,” he said.
+
+“With rich heritage, breath-taking landscapes and profound spiritual significance, Sri Lanka can emerge as a leading destination for Buddhist pilgrimages and cultural exploration on the global tourism map,” Gajabahu added.
+
+When compared to the Ramayana trail, he opined that the proposed Buddhist Trail can gain more traction from a broader section of travellers from South East Asian countries to East Asian countries such as China to European countries.
+
+...
+
+[Data](articles/acab1b5c.json)
+
+---
+
+### அஸ்வெசுமவுக்கு மார்ச் 15 வரை விண்ணப்பிக்கலாம்
+
+*2024-02-16 03:30:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசுமவுக்கு-மார்ச்-15-வரை-விண்ணப்பிக்கலாம்/175-333298) · `ta`
+
+அஸ்வெசும இரண்டாம் கட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் நடவடிக்கைகள் நேற்று முதல் மார்ச் 15 ஆம் திகதி வரை இடம்பெறவுள்ளன என அறிவிக்கப்பட்டுள்ளது.
+
+தகுதி பெறும் அனைவருக்கும் எவ்வித தடங்கலும் இன்றி அஸ்வெசும பலன்கள் கிடைக்குமெனவும் நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன தெரிவித்துள்ளார்.
+
+அஸ்வெசும முதற்கட்டத்தில் விண்ணப்பங்களை சமர்ப்பிக்காத குடும்பங்களுக்கும் விண்ணப்பங்களை சமர்ப்பித்தும் வீட்டுத் தகவல் கணக்கெடுப்பிற்கு  உட்படுத்தப்படாத எந்தவொரு நபர்களும் இரண்டாம் கட்டத்திற்கு விண்ணப்பிக்க வாய்ப்பு உள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+
+அஸ்வெசும இரண்டாம் கட்டம் தொடர்பாக விளக்கமளிக்கும் ஊடகவியலாளர் சந்திப்பு நேற்று ஜனாதிபதி ஊடக மையத்தில் நடைபெற்றது.
+
+இதில் கலந்துகொண்டு கருத்து வெளியிட்ட போதே  நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன இந்த விடயங்களை தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/8fef189d.json)
+
+---
 
 ### President's review on the issue of farmers
 
@@ -51,6 +125,28 @@ The President said that the people's ideas will be obtained within two weeks and
 [Data](articles/c0c4f9c5.json)
 
 [Extended Data](ext_articles/c0c4f9c5.ext.json)
+
+---
+
+### Ambitious plans underway to make SL a ‘happening’ tourist destination
+
+*2024-02-16 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ambitious-plans-underway-to-make-SL-a-happening-tourist-destination/108-277123) · `en`
+
+SLTPB set to enter into agreements with consortium of global brands, both foreign and domestic
+
+Objective is to significantly boost tourism activities, with goal of increasing average daily spend of tourists
+
+Plans afoot to collaborate with European Union to launch a wellness tourism campaign
+
+Sri Lanka’s tourism sector is gearing up for a major transformation, as the authorities unveil an ambitious plan to make the country one of the world’s most dynamic and sought-after destinations.
+
+Sri Lanka Tourism Promotion Bureau (SLTPB) Chairman Chalaka Gajabahu announced on Wednesday that the SLTPB is set to enter into agreements with a consortium of global brands, both foreign and domestic, to sponsor and promote a series of exciting events. This move comes as part of a larger strategy to boost tourism and make 2024 the best year yet for Sri Lanka’s tourism industry.
+
+“We will make it a more happening destination; 2024 is going to be a very positive year,” Gajabahu added.
+
+...
+
+[Data](articles/ad2c24db.json)
 
 ---
 
@@ -171,6 +267,20 @@ As the hospital administration has been informed by the hospital administration 
 [Data](articles/a885e13a.json)
 
 [Extended Data](ext_articles/a885e13a.ext.json)
+
+---
+
+### Speaker’s act of certifying Online Safety Bill challenged in SC by Sumanthiran
+
+*2024-02-16 00:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speakers-act-of-certifying-Online-Safety-Bill-challenged-in-SC-by-Sumanthiran/108-277130) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - Parliamentarian M.A. Sumanthiran has filed a fundamental rights application before the Supreme Court, challenging the Speaker's act of certifying the Online Safety Bill as enacted into law.
+
+In his petition, Sumanthiran is seeking a declaration that the Speaker’s certification of the Online Safety Act is not valid in law. The petitioner is further seeking a declaration that the fundamental rights guaranteed by Article 12(1) and 14 of the constitution to the petitioner and the citizens have been infringed by the Attorney General by failing to advise the Speaker and the Parliament that the committee stage amendments did not make the Online Safety Bill compliant with the Supreme Court’s determination. The petitioner has cited Speaker Mahinda Yapa Abeywardana and the Attorney General as respondents.
+
+...
+
+[Data](articles/a6bc45a5.json)
 
 ---
 
@@ -1961,115 +2071,5 @@ Sirisena expressed his gratitude to the United States for the continued support 
 [Data](articles/2e3f629e.json)
 
 [Extended Data](ext_articles/2e3f629e.ext.json)
-
----
-
-### Queue to see cricket to Dambulla after 5 years
-
-*2024-02-15 14:58:02* · [`adalk`](https://www.ada.lk/sports/අවුරුදු-5කට-පසුව-දඹුල්ලට-එන-ක්‍රිකට්-බලන්න-දැනටමත්-පෝලිම්/9-408109) · `si`
-
-An international competition at the Dambulla International Cricket Stadium five years later is coming to obtain tickets to watch sports competition.
-
-A large number of people were able to see the 15 day a large group of 15 days to obtain tickets in front of the Rangiri Dambulla cricket stadium.
-
-However, SLC officials say that the vehicles have ended on the 15th of the 15th of the 15th.
-
-There were long polin in front of the Dambulla cricket stadium to obtain tickets.The lovers of the sports are that they are suspected that they will not have the opportunity to watch the match.
-
-The Sri Lankan team and the Afghanunistan will play three matches between Sri Lanka and the Afghanistan of Sri Lanka and the Afghanistan.
-
-Modernization of the Dambulla Stadium is the first match under the new lights, and the Sri Lanka Cricket Sujeewa Ledu is said to see sports sports competitions.
-
-How to be prepared for the competition at the stadium
-
-...
-
-[Data](articles/504ea5bc.json)
-
-[Extended Data](ext_articles/504ea5bc.ext.json)
-
----
-
-### Red Notification for 42 escaped
-
-*2024-02-15 14:56:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/தப்பிச்-சென்றுள்ள-42-பேருக்கு-சிவப்பு-அறிவித்தல்/52-333269) · `ta`
-
-International red announcement has been issued to 42 suspects who fled the country, involved in various crimes and drug trafficking, said Inspector General of Police Deshabandu Tennakoon.
-
-He said that steps have been taken to bring the red announcements to Sri Lanka with the help of the International Police.
-
-◼️
-
-[Data](articles/ad3fa91c.json)
-
-[Extended Data](ext_articles/ad3fa91c.ext.json)
-
----
-
-### The President's call again!
-
-*2024-02-15 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176445) · `ta`
-
-President Ranil Wickremesinghe also said that all sides are calling for again.
-
-President Ranil Wickremesinghe said that the country could not be built politically and that all parties would unite to unite to provide a prosperous living standard for the country or for the government or the opposition.
-
-◼️
-
-[Data](articles/cfd01644.json)
-
-[Extended Data](ext_articles/cfd01644.ext.json)
-
----
-
-### Opening the first phase of the Northern Water Supply Scheme of Anuradhapura
-
-*2024-02-15 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176443) · `ta`
-
-The first phase of the Anuradhapura Northern Water Supply Scheme, which was funded by JICA, was opened by President Ranil Wickremesinghe and JICA President Danaka Akihiko at the invitation of Minister Jeevan Thondaman.
-
-◼️
-
-[Data](articles/658dcd70.json)
-
-[Extended Data](ext_articles/658dcd70.ext.json)
-
----
-
-### India-Sri Lanka officials discuss capacity building for civil servants
-
-*2024-02-15 14:50:00* · [`economynextcom`](https://economynext.com/india-sri-lanka-officials-discuss-capacity-building-for-civil-servants-151052/) · `en`
-
-ECONOMYNEXT – A Sri Lankan delegation in India have held bilateral talks with Indian officials on collaboration in personnel administration and governance.
-
-“Both sides discussed on the modalities of a proposed Memorandum of Understanding between Sri Lanka Institute of Development Administration (SLIDA) and NCGG [National Centre for Good Governance, India] with a view to conduct Capacity Building Programmes (CBP) for senior and mid-level civil servants of Sri Lanka by NCGG,” a statement by the High Commission of India in Colombo said.
-
-The meetings took place in New Delhi today (15) between Secretary, Department of Administrative Reforms and Public Grievances (DAR&PG), Shri V Srinivas and Secretary to the Prime Minister of Sri Lanka, Anura Dissanayake.
-
-...
-
-[Data](articles/d8d2f50c.json)
-
-[Extended Data](ext_articles/d8d2f50c.ext.json)
-
----
-
-### Bail for university students
-
-*2024-02-15 14:41:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மாணவர்களுக்கு-பிணை/175-333263) · `ta`
-
-Students arrested and interrogated on suspicion of assaulting a student of Sabaragamuwa University and two students have been released on bail.
-
-The Balangoda Magistrate's Court today (15) granted bail to thirteen students.
-
-Seven students were arrested on the 12th and 6 more students were arrested on the 14th.
-
-A student of the Sabaragamuwa University Faculty and two students was eating at the snack on the night of the 9th of this month.
-
-◼️
-
-[Data](articles/72aa1312.json)
-
-[Extended Data](ext_articles/72aa1312.ext.json)
 
 ---

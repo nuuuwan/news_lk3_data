@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 18:20:15**
+As of **2024-02-16 18:32:52**
 
 ## Newspaper Stats
 
-*Scraped **7,515** Articles*
+*Scraped **7,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 385
 economynextcom | 398
 dailyftlk | 402
 adalk | 642
-tamilmirrorlk | 915
+tamilmirrorlk | 918
 adaderanalk | 922
 virakesarilk | 985
-adaderanasinhalalk | 1,069
+adaderanasinhalalk | 1,070
 dailymirrorlk | 1,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,507 (99.9%) of 7,515 articles have been extended.
+7,515 (99.9%) of 7,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### නුවරඑළියේ යන රියදුරන්ට පොලීසියෙන් දැනුම්දීමක්
+
+*2024-02-16 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193477) · `si`
+
+නුවරඑළිය ප්‍රදේශය පුරා ඝන මීදුම් තත්ත්වයක් පවතින බැවින් එම ප්‍රදේශයේ ගමන් ගන්නා රියදුරන්ට දැඩි විමසිල්ලෙන් රිය ධාවනය කරන්නැයි නුවරඑළිය පොලීසිය දැනුම්දෙයි.
+
+එම ප්‍රදේශයට පතිත වන සුළු වර්ෂාවත් සමඟ මෙලෙස ඝණ මීදුම් තත්ත්වයක් පවතින බව වාර්තා වේ.
+
+නුවරඑළිය නගර සීමාව,  හාවාඑළිය, බොරලන්ද, උඩපුස්සැල්ලාව ප්‍රධාන මාර්ගය, නානුඔය, තලවාකැලේ, හැටන් ප්‍රධාන මාර්ගය, නානුඔය, රැදැල්ල කෙටි මාර්ගය, නුවරඑළිය, මීපිළිමාන, පට්ටිපොළ, ලෝකාන්තය පිවිසුම් මාර්ගයන්හි මෙම ඝන මීදුම් තත්ත්වය පවතින බැවින් එම ප්‍රදේශවල දැඩි විමසිල්ලෙන් රිය ධාවනය කළ යුතුය.
+
+තවද ඉදිරියෙන් පැමිණෙන වාහන නොපෙනීමේ තත්ත්වයක් පවතින බැවින් සෑම වාහනයකම ආලෝක සංඥා දල්වාගෙන යෑමට කටයුතු කරන ලෙස ද නුවරඑළිය පොලීසිය රියදුරන්ට වැඩිදුරටත් දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/91602a31.json)
+
+---
+
+### கொழும்பு மக்களுக்கு முக்கிய அறிவிப்பு
+
+*2024-02-16 17:59:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மக்களுக்கு-முக்கிய-அறிவிப்பு/175-333317) · `ta`
+
+கொழும்பின் சில பகுதிகளுக்கு நீர்வெட்டு அமுல்படுத்தப்படவுள்ளதாக நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+
+அதன்படி, நாளை (17) மாலை 5 மணி முதல் 18 ஆம் திகதி ஞாயிற்றுக்கிழமை காலை 9 மணி வரை 16 மணித்தியாலங்களுக்கு நீர்வெட்டு அமுல்ப்படுத்தப்படவுள்ளது.
+
+அதன்படி, கொழும்பின் 11, 12, 13, 14 மற்றும் 15 ஆகிய பிரதேசங்களுக்கு இவ்வாறு நீர்வெட்டு அமுல்ப்படுத்தப்பட்டுள்ளதாக அந்த சபை தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/b9f1ca3d.json)
+
+---
+
+### ரஷ்யா எதிர்க் கட்சித் தலைவர் காலமானார்
+
+*2024-02-16 17:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யா-எதிர்க்-கட்சித்-தலைவர்-காலமானார்/50-333316) · `ta`
+
+புடினை கடுமையாக விமர்சித்து வந்த நவால்னி, அறக்கட்டளை மூலமாக பணத்தை கையாடல் செய்த வழக்கில் கைது செய்யப்பட்டார்.
+
+நவால்னிக்கு 19 ஆண்டுகள் சிறை தண்டனை விதிக்கப்பட்டிருந்த நிலையில், உடல் நலக்குறைவு காரணமாக சிறையில் உயிரிழந்ததாக ரஷ்யா அரசு தெரிவித்துள்ளது.
+
+மேலும், அலெக்ஸ் நவால்னி உயிரிழப்புக்கான காரணம் குறித்த தகவல் எதுவும் தற்போது வரை வெளியிடப்படவில்லை.
+
+◼️
+
+[Data](articles/e351955c.json)
+
+---
+
+### கொழும்பு தேசிய வைத்தியசாலையில் பதற்றம்
+
+*2024-02-16 17:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-தேசிய-வைத்தியசாலையில்-பதற்றம்/175-333315) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லன  வைத்தியசாலையின் சிற்றூழியர்களினால் சிறைவைக்கப்பட்டதாக தெரிவிக்கப்படுகின்றது.
+
+குறித்த வைத்தியர்  அவரது அலுவலகத்தில் பணயக் கைதியாகப் பிடிக்கப்பட்டுள்ளதாக செய்திகள் வெளியாகி உள்ளன.
+
+அவரை மருத்துவமனையில் இருந்து உடனடியாக அகற்றக் கோரி, ஊழியர்கள் நிர்வாகக் கட்டிடத்தை முற்றுகையிட்டனர், இதனால் மருத்துவ சேவைகள் நிறுத்தப்பட்டன, செவிலியர்கள் உட்பட ஊழியர்கள் வெளிநடப்பு செய்தனர்
+
+◼️
+
+[Data](articles/109e2101.json)
+
+---
 
 ### Anti-riot squad deployed as tense situation emerges in front of NHSL
 
@@ -49,6 +115,8 @@ However on Wednesday (14), the health trade unions decided to call off their str
 ...
 
 [Data](articles/ada05e7f.json)
+
+[Extended Data](ext_articles/ada05e7f.ext.json)
 
 ---
 
@@ -69,6 +137,8 @@ Amidst economic dynamics, the export sector exhibited robust growth in 2023, the
 ...
 
 [Data](articles/9aec96bb.json)
+
+[Extended Data](ext_articles/9aec96bb.ext.json)
 
 ---
 
@@ -107,6 +177,8 @@ A prominent critic of President Vladimir Putin, Navalny spent his final months b
 ...
 
 [Data](articles/37d01f1d.json)
+
+[Extended Data](ext_articles/37d01f1d.ext.json)
 
 ---
 
@@ -174,6 +246,8 @@ A bond maturing on 01.07.2032 closed at 12.55/75 percent up from 12.50/70 percen
 
 [Data](articles/d5d9b8db.json)
 
+[Extended Data](ext_articles/d5d9b8db.ext.json)
+
 ---
 
 ### A group of suspects in court in court
@@ -222,6 +296,8 @@ He also emphasized the significance of ensuring Israel’s security, fostering a
 
 [Data](articles/4324e0e7.json)
 
+[Extended Data](ext_articles/4324e0e7.ext.json)
+
 ---
 
 ### Gammanpila to present private bill to remove police powers from Sri Lanka’s provinces
@@ -241,6 +317,8 @@ Asked if his bill could get a two-thirds majority in parliament, Gammanpila said
 ...
 
 [Data](articles/194f6a56.json)
+
+[Extended Data](ext_articles/194f6a56.ext.json)
 
 ---
 
@@ -295,6 +373,8 @@ The agreement was signed under the provisions of the Financial Transactions Repo
 ...
 
 [Data](articles/d6372ef3.json)
+
+[Extended Data](ext_articles/d6372ef3.ext.json)
 
 ---
 
@@ -469,6 +549,8 @@ Other sectors that attracted investor interest were Capital Goods (110mn), and F
 ...
 
 [Data](articles/1198964b.json)
+
+[Extended Data](ext_articles/1198964b.ext.json)
 
 ---
 
@@ -1973,93 +2055,5 @@ The IGP and the Minister is looking at the progress of the operation to operate 
 [Data](articles/b68a8f7f.json)
 
 [Extended Data](ext_articles/b68a8f7f.ext.json)
-
----
-
-### Direct airlines between Israel and Sri Lanka
-
-*2024-02-16 10:10:00* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායලය-සහ-ශ්‍රී-ලංකාව-අතර-සෘජු-ගුවන්-සේවා/11-408119) · `si`
-
-Minister of Ports, Naval and Aviation said that there was a direct aviation compromise between Israel and Sri Lanka.
-
-The main objective of the agreement is also a major purpose of preventing the delay in foreign workers.
-
-Minister Nimal Siripala de Silva, Minister of Ports, Naval and Aviation, is said to be a press conference held at the Catinic Media Center for a stable country.
-
-He also increased by 32% to the shipping of containers in the naval field.
-
-Minister Nimal Siripala de Silva said:
-
-Israel and Sri Lanka signed a direct airline convention this morning. According to the agreement signed between the Ministry of Israeli Transport and the Ministry of Ports, Naval and Aviation, is to be started between the two countries. With this, our aim is to facilitate passengers.
-
-...
-
-[Data](articles/214b5949.json)
-
-[Extended Data](ext_articles/214b5949.ext.json)
-
----
-
-### Thera shot dead in Vihara;Another person arrested
-
-*2024-02-16 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176507) · `ta`
-
-Police have arrested another suspect who was complicit in the murder of a Thera in a Vihara in a Vihara in the Gampaha Malwathuhiripitiya area.
-
-He was arrested on Thursday (15) in Malwana during a raid carried out by the Northern Province Northern Provincial Crime Unit.
-
-The man has been arrested with locally manufactured handguned and more than 10 grams of ice.
-
-In the early hours of January 23, a gang of four people arrived in a car in the Gampaha Malwathuhiripitiya area and opened fire on Thera.
-
-In this case, 45 -year -old Kalapaluwe, who was injured in the shooting, was admitted to the Dammarathara Thera Gampaha Hospital and died without treatment.
-
-Five suspects were arrested in connection with the incident.Meanwhile, the T-56 gun, allegedly used by the culprits, has been rescued from the fourth suspect.
-
-...
-
-[Data](articles/a66aebe5.json)
-
-[Extended Data](ext_articles/a66aebe5.ext.json)
-
----
-
-### Sri Lanka rupee opens at 312.50/60 to the US dollar
-
-*2024-02-16 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-312-50-60-to-the-us-dollar-151157/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 312.50/60 to the US dollar Friday, from 313.70/90 on Thursday, dealers said.
-
-A bond maturing on 01.08.2026 was quoted at 10.90/11.05 percent up from 10.50/60 percent.
-
-A bond maturing on 15.03.2028 was quoted at 12.00/10 percent from 11.95/12.10 percent.
-
-The Colombo stock market opened up: The All Share was up 0.30 percent at 10,599, and the S&P SL20 was up 0.44 percent at 3,048. (Colombo/Feb16/2024)
-
-◼️
-
-[Data](articles/fdeee0a6.json)
-
-[Extended Data](ext_articles/fdeee0a6.ext.json)
-
----
-
-### CBSL says annual economic growth expected to turn positive in 2024
-
-*2024-02-16 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97313/cbsl-says-annual-economic-growth-expected-to-turn-positive-in-2024) · `en`
-
-Sri Lanka’s annual economic growth is expected to remain positive in 2024 and gradually reach its potential over the medium term, the Central Bank said in its latest monetary policy report.
-
-The document, published on Thursday (Feb.15), provides forward-looking insights about the economy, particularly in terms of inflation and economic growth.
-
-It also aims to provide an assessment of risks to the projections on inflation and economic growth, considering the ongoing and expected developments on domestic and global fronts.
-
-The country successfully reduced its inflation rate to single-digit levels in 2023 and restored price stability, after containing the historically highest inflation observed in 2022, the Central Bank said, adding that inflation is projected to stabilise around the targeted level of 5% (year-on-year) over the medium term.
-
-...
-
-[Data](articles/187642b8.json)
-
-[Extended Data](ext_articles/187642b8.ext.json)
 
 ---

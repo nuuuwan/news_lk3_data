@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 22:32:44**
+As of **2024-02-16 22:49:47**
 
 ## Newspaper Stats
 
-*Scraped **7,547** Articles*
+*Scraped **7,548** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 643
 tamilmirrorlk | 919
 adaderanalk | 925
 virakesarilk | 991
-adaderanasinhalalk | 1,076
+adaderanasinhalalk | 1,077
 dailymirrorlk | 1,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,546 (100.0%) of 7,547 articles have been extended.
+7,548 (100.0%) of 7,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Three suspects of the five suspects have been revealed
+
+*2024-02-16 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193484) · `si`
+
+The police are published by the police and information about three suspects.
+
+The suspects are to be arrested on the criminal of shooting five persons near the Kahawatta expressway on the Kahawatta expressway on the Kahawatta expressway.
+
+It is revealed that they are hiding and that they are still informed of the following information and photographs of the suspects as soon as possible.
+
+01. Name - Mahagamage's Dinesh Priyanka alias 'Churia' or Mahagamage
+
+Address: The Matha 40, Yaya 4, Tambuttegama. No. 84, Galrolas, Cooper.
+
+◼️
+
+[Data](articles/864893c0.json)
+
+[Extended Data](ext_articles/864893c0.ext.json)
+
+---
 
 ### Several historical shrines designated as sacred sites
 
@@ -82,23 +104,25 @@ Similar to the previous edition, PSL 9 will be held in two legs. Lahore and Mult
 
 ---
 
-### පානදුර - රත්නපුර ප්‍රධාන මාර්ගයේ රථවාහන ධාවනය සීමාකෙරේ
+### Traffic on traffic on the Panadura - Ratnapura main road is restricted
 
 *2024-02-16 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193483) · `si`
 
-හොරණ රජමහා විහාරස්ථානයේ රයිගම්පුර නවම් මහ පෙරහැර හේතුවෙන් පානදුර - රත්නපුර ප්‍රධාන මාර්ගයේ රථවාහන ගමනාගමනය සීමා කිරීමට සිදුවන බව පොලීසිය දැනුම් දෙයි.
+Motor Traffic will be restricted due to the Raigampura Navam Maha Perahera of the Horana Rajamaha Viharaya.
 
-ඒ අනුව හෙට (17) රාත්‍රියේ නවම් පෙරහැර වීථි සංචාරය කිරීමට නියමිතය.
+Accordingly, Navam Perahera is to visit the streets tomorrow.
 
-පෙරහැර සඳහා අලිඇතුන් 40ක් හා ශාස්ත්‍රීය නර්තන කණ්ඩායම් 85ක් එකතු වේ.
+The procession adds 85 elephants and 85 academic dance groups for the procession.
 
-ඒ අනුව හොරණ රජමහා විහාරස්ථානයේ අසල සිට පානදුර - රත්නපුර ප්‍රධාන මාර්ගයේ කොටසක් වන විද්‍යාරතන හන්දිය සිට හොරණ පොලීසියට හැරෙන හංදිය දක්වා කොටසේ වාහන ගමනාගමනය සීමා කෙරේ.
+Accordingly, traffic is restricted from the Kurunegala Raja Maha Viharaya from Raja Maha Viharaya.
 
-පහත සඳහන් විකල්ප මාර්ග භාවිත කරන්නැයි පොලීසිය මහජනතාවට දැනුම් දෙයි.
+The police informs the public to use the following alternative routes.
 
 ◼️
 
 [Data](articles/1baa4c77.json)
+
+[Extended Data](ext_articles/1baa4c77.ext.json)
 
 ---
 
@@ -2083,19 +2107,5 @@ It was revealed that he had fled to Dubai in February 9, 2021.
 [Data](articles/46a014fb.json)
 
 [Extended Data](ext_articles/46a014fb.ext.json)
-
----
-
-### Sri Santosh Jha worship in Rama Sethu
-
-*2024-02-16 12:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமர்-சேதுவில்-ஸ்ரீ-சந்தோஷ்-ஜா-வழிபாடு/175-333305) · `ta`
-
-Indian High Commissioner to Sri Lanka Sri Santosh Ja visits the North. He visited Rama Sethu and prayed for the well-being of India-Sri Lankan relations. As well as the worship of Thirukadeeswaram. He also visited the Mannar Madhu Church.
-
-◼️
-
-[Data](articles/0d92a849.json)
-
-[Extended Data](ext_articles/0d92a849.ext.json)
 
 ---

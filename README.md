@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 10:17:19**
+As of **2024-02-16 10:33:06**
 
 ## Newspaper Stats
 
-*Scraped **7,402** Articles*
+*Scraped **7,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 387
 dailyftlk | 400
 adalk | 631
 tamilmirrorlk | 902
-adaderanalk | 904
+adaderanalk | 905
 virakesarilk | 969
 adaderanasinhalalk | 1,045
 dailymirrorlk | 1,085
@@ -26,11 +26,31 @@ dailymirrorlk | 1,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,401 (100.0%) of 7,402 articles have been extended.
+7,403 (100.0%) of 7,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### CBSL says annual economic growth expected to turn positive in 2024
+
+*2024-02-16 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97313/cbsl-says-annual-economic-growth-expected-to-turn-positive-in-2024) · `en`
+
+Sri Lanka’s annual economic growth is expected to remain positive in 2024 and gradually reach its potential over the medium term, the Central Bank said in its latest monetary policy report.
+
+The document, published on Thursday (Feb.15), provides forward-looking insights about the economy, particularly in terms of inflation and economic growth.
+
+It also aims to provide an assessment of risks to the projections on inflation and economic growth, considering the ongoing and expected developments on domestic and global fronts.
+
+The country successfully reduced its inflation rate to single-digit levels in 2023 and restored price stability, after containing the historically highest inflation observed in 2022, the Central Bank said, adding that inflation is projected to stabilise around the targeted level of 5% (year-on-year) over the medium term.
+
+...
+
+[Data](articles/187642b8.json)
+
+[Extended Data](ext_articles/187642b8.ext.json)
+
+---
 
 ### Sri Lanka’s annual economic growth to turn positive in 2024 - CBSL
 
@@ -47,6 +67,8 @@ The island nation successfully reduced its inflation rate to single-digit levels
 ...
 
 [Data](articles/8bbcd63f.json)
+
+[Extended Data](ext_articles/8bbcd63f.ext.json)
 
 ---
 
@@ -2019,29 +2041,5 @@ Earlier, he was bailed after he was produced in court and the case was taken to 
 [Data](articles/ef8a6403.json)
 
 [Extended Data](ext_articles/ef8a6403.ext.json)
-
----
-
-### Sri Lanka makes identification mandatory for Aswesuma II amidst welfare fraud
-
-*2024-02-15 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-makes-identification-mandatory-for-aswesuma-ii-amidst-welfare-fraud-151099/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Welfare Benefits Board said the national identification card will be mandatory for those applying for the second phase of its Aswesuma program due to widespread welfare fraud.
-
-“One of the changes we are making from the first phase is making identification compulsory,” Chairman of the Welfare Benefits Board, Jayantha Wijerathne, said at a press briefing Thursday (15).
-
-“We could not prioritize this in the first phrase. Therefore, we had a lot of inconveniences and many people have claimed benefits multiple times.”
-
-Welfare Benefits Board Member Kumar Dunusinghe said that in one instance, an individual had registered for benefits 109 times.
-
-This time, the Board will collect details of the applicant’s family members including their ID numbers to prevent the same family applying for benefits multiple times.
-
-“There have also been instances where people sell the application form,” Wijerathne said.
-
-...
-
-[Data](articles/928f1403.json)
-
-[Extended Data](ext_articles/928f1403.ext.json)
 
 ---

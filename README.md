@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 14:17:12**
+As of **2024-02-16 14:33:06**
 
 ## Newspaper Stats
 
@@ -26,41 +26,45 @@ dailymirrorlk | 1,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,460 (100.0%) of 7,462 articles have been extended.
+7,462 (100.0%) of 7,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### සුළු සේවකයින් බෙල්ලනව සිරකරයි
+### Minor workers prisoner
 
 *2024-02-16 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193463) · `si`
 
-කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ රුක්ෂාන් බෙල්ලන මහතාව සුළු කාර්ය මණ්ඩලයේ සේවකයින් පිරිසක් විසින් බලහත්කාරයෙන් ඔහුගේ කාර්යාලයේ රඳවාගෙන ඇතැයි වාර්තා වේ.
+The Deputy Director of the Colombo National Hospital Rukshan Bellana has been forcibly detained by a group of employees of the minority staff.
 
 ◼️
 
 [Data](articles/59d7d46d.json)
 
+[Extended Data](ext_articles/59d7d46d.ext.json)
+
 ---
 
-### 10 හැවිරිදි දැරියකගේ මළසිරුරක් හමුවෙයි
+### A 10-year-old girl meets a bodies
 
 *2024-02-16 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193462) · `si`
 
-තලෛමන්නාරම, ප්‍රදේශයේ 10 හැවිරිදි දැරියක් සැකකටයුතු ලෙස මියගොස් ඇති බව පොලීසිය පවසයි.
+The 10-year-old girl in the area has died in the area.
 
-පොලීසිය පැවසූවේ දැරිය සිය නිවස ආසන්නයේ වෙළෙඳසැළකට ගොස් නැවත නිවසට නොපැමිණීම සම්බන්ධයෙන් දැරියගේ ඥාතීන් සිදුකළ සොයා බැලීමකදී සිරුර සොයාගත් බවය.
+The police said the girl was found in a search for girl's relatives in search of the girl near his house.
 
-ඊයේ (15) සවස හෝ රාත්‍රි කාලයේදී දැරියට මෙම අපරාධය සිදුවන්නට ඇති බව තලෛමන්නාරම පොලීසිය සැක කරයි.
+The Talagamanamaduwara police suspect that the crime has been reported yesterday evening or night.
 
-දැරියගේ මරණය සම්බන්ධයෙන් සිදුකළ විමර්ශන මත පුද්ගලයෙකු සැකපිට අත්අඩංගුවට ගෙන ඇත.
+A person has been arrested on suspicion regarding the death of the girl.
 
-පොලීසිය වැඩිදුරටත් පැවසුවේ දැරිය කිසියම් ලිංගික හිංසනයකට ලක්වී ඇත්ද යන්න සම්බන්ධයෙන් අධිකරණ වෛද්‍ය නිලධාරියා විසින් පරීක්ෂා කිරීමට නියමිත බවය.
+Police further stated that the Judicial Medical Officer is to be inspected to whether the girl has been subjected to sexual violence.
 
 ◼️
 
 [Data](articles/7f3ea367.json)
+
+[Extended Data](ext_articles/7f3ea367.ext.json)
 
 ---
 

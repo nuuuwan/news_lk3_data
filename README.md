@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 21:51:59**
+As of **2024-02-16 22:03:30**
 
 ## Newspaper Stats
 
-*Scraped **7,542** Articles*
+*Scraped **7,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 385
 economynextcom | 398
 dailyftlk | 402
-adalk | 642
+adalk | 643
 tamilmirrorlk | 919
-adaderanalk | 923
+adaderanalk | 924
 virakesarilk | 991
 adaderanasinhalalk | 1,075
 dailymirrorlk | 1,110
@@ -26,7 +26,7 @@ dailymirrorlk | 1,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,542 (100.0%) of 7,542 articles have been extended.
+7,542 (100.0%) of 7,544 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,22 @@ More than 10 grams of ice drugs in the suspect have been found.
 [Data](articles/f37882b3.json)
 
 [Extended Data](ext_articles/f37882b3.ext.json)
+
+---
+
+### Climate change fuelling domestic violence against women in Sri Lanka - report
+
+*2024-02-16 20:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97333/climate-change-fuelling-domestic-violence-against-women-in-sri-lanka-report) · `en`
+
+Sri Lanka, like many other island nations, continues to suffer from the devastation that is climate change. As extreme weather events become more frequent and intense, the nation’s farmers are struggling to cope with crop failures and lost income.
+
+Unfortunately for the women in the country, this tragedy is increasingly turning them into the victims of domestic violence at the hands of their own frustrated families, a Reuters report reveals.
+
+The feature elaborates on the miseries of female Sri Lankan farmers such as Renuka Karunarathna. Years of scant rainfall and extreme droughts have led to failed harvests, pushing her family into extreme poverty. Renuka’s husband, like many other partners discontented by their economic hardships, takes his anger out on his wife, often in the form of physical abuse.
+
+...
+
+[Data](articles/57c7d3a5.json)
 
 ---
 
@@ -1146,6 +1162,24 @@ Meanwhile, the magistrate has ordered that the signatures of former Health Minis
 
 ---
 
+### දෙහිවලට හොඳ කලක්
+
+*2024-02-16 14:59:51* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවලට-හොඳ-කලක්/11-408128) · `si`
+
+දෙහිවල සත්වෝද්‍යානයට ජනවාරි මාසයේ සිට දින හතලිහකදී ලැබුණු ටිකට්පත් ආදායම මිලියන පනස්දෙකක් බවත් නැරඹීමට පැමිණි නරඹන්නන් සංඛ්‍යාව එක්ලක්ෂ හැටදහසක් බවත් දෙහිවල සත්වෝද්‍යාන ගිණුම් වාර්ථා සඳහන්කර සිටී.
+
+එමෙන්ම 2023 වර්ෂයේ පැමිණි නරඹන්නන් සංඛ්‍යාව මිලියන එකයි දශම තුනක් වන අතර ලැබු ආදායම රුපියල් මිලියන 341 ක් බවද වාර්තා වී ඇත.
+
+සත්වෝද්‍යාන දෙපාර්ථමේන්ත අධ්‍යක්ෂ මෙහෙයුම් එච්.ඒ අනෝමා ප්‍රියදර්ශනී මහත්මියගෙන්  මේ පිළිබඳව විමසා සිටි අතර එම මහත්මය පැවසූයේ මේ වන විට දෙහිවල සත්වයෝද්‍යානයේ අධ්‍යාපනික දැනුවත් කිරීම් නරඹන්නන්ගේ සුව පහසුව වැඩි කිරීමත් සමඟ නරඹන්නන් පැමිණීම වැඩි වශයෙන් දක්නට ලැබෙන බවයි.
+
+උදෑසන 8.30න් ඇරඹෙන සත්වෝද්‍යාන වැඩ කටයුතු හවස හය දක්වා පැවැත්වෙන අතර  අලි මිතුරු හමුව ශීබා සංදර්ශනය, සිංහ පැටියාගේ දෛනික ක්‍රියාකාරකම්, සහ සතුන්ට ආහාර ලබාදීමේ වැඩසටහන් සත්වෝද්‍යානයේ ක්‍රියාත්මකව පවතින බව එම මහත්මිය පැවසීය.
+
+...
+
+[Data](articles/7606be24.json)
+
+---
+
 ### Chief suspect arrested for collaboration with police cell
 
 *2024-02-16 14:51:59* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-සිර-මැදිරියේ-සිටි-පුද්ගලයන්-දෙදෙනාට-වස-දුන්-ප්‍රධාන-සැකකරු-අත්අඩංගුවට/11-408127) · `si`
@@ -2041,49 +2075,5 @@ Reportedly, the duo has attended the 100th edition of Opposition Leader Sajith P
 [Data](articles/4fa73e27.json)
 
 [Extended Data](ext_articles/4fa73e27.ext.json)
-
----
-
-### Youvu did not hang on the rope
-
-*2024-02-16 11:50:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கயிற்றில்-யுவதி-தொங்கவில்லை/76-333304) · `ta`
-
-The story is different, however, however, as a young woman hangs.
-
-A young woman who fell into the Talawakelle, Talawakelle reservoir has been rescued by the people of Talawakelle and the police.
-
-The young woman fell in a deep place near the Talawakelle Co -operative Headquarters in the Western Kotmale reservoir, and the immediate action of the people who saw that she was drowned in the reservoir.
-
-A few jumped into the reservoir and grabbed her, and those standing above the reservoir put the ropes and pulled it to the shore with great difficulty, and she was taken to Lindula Regional Hospital for treatment.
-
-A 24 -year -old woman from Akarapathana. While going to the reservoir, he fell into the reservoir, thinking that there was no job.
-
-◼️
-
-[Data](articles/bc020e7e.json)
-
-[Extended Data](ext_articles/bc020e7e.ext.json)
-
----
-
-### Forensic audit reveals frauds at Ceylon Petroleum Corporation
-
-*2024-02-16 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Forensic-audit-reveals-frauds-at-Ceylon-Petroleum-Corporation/155-277165) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - KPMG's forensic audit into discrepancies at Ceylon Petroleum Corporation (CPC) and Ceylon Petroleum Storage Terminals (CPSTL) has revealed substantial losses attributed to alterations and deletions in SAP data related to stock holdings.
-
-The forensic audit was initiated in response to a complaint filed by the Power and Energy Minister with the Criminal Investigations Department (CID) in August 2022.
-
-The major findings of the forensic audit conducted by KPMG on the sales and distribution of petroleum products from the CPSTL was briefed to Minister Kanchana Wijesekera last afternoon.
-
-Accordingly, the KPMG and CPSTL audit investigation officials have found that more than 1.3 million entries on SAP data have been changed or deleted since 2010 and most have occurred in 2022 during the height of the fuel crisis.
-
-After the complaint was lodged in August 2022 the number had significantly reduced in 2023.
-
-...
-
-[Data](articles/7bd3c594.json)
-
-[Extended Data](ext_articles/7bd3c594.ext.json)
 
 ---

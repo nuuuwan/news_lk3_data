@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 05:36:55**
+As of **2024-02-16 06:16:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,348 (99.9%) of 7,354 articles have been extended.
+7,354 (100.0%) of 7,354 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -583,6 +583,8 @@ Dr Malith B. Atapattu – Director Medical Services and Quality Hemas Hospitals
 ...
 
 [Data](articles/2f77965f.json)
+
+[Extended Data](ext_articles/2f77965f.ext.json)
 
 ---
 

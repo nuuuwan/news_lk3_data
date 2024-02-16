@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 11:17:33**
+As of **2024-02-16 11:33:04**
 
 ## Newspaper Stats
 
-*Scraped **7,416** Articles*
+*Scraped **7,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,103 +14,157 @@ dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 385
 economynextcom | 387
-dailyftlk | 400
+dailyftlk | 402
 adalk | 633
-tamilmirrorlk | 902
+tamilmirrorlk | 903
 adaderanalk | 905
 virakesarilk | 974
-adaderanasinhalalk | 1,049
+adaderanasinhalalk | 1,051
 dailymirrorlk | 1,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,410 (99.9%) of 7,416 articles have been extended.
+7,416 (99.9%) of 7,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### වැඩි වැඩියෙන් ළමයි හදන්න - පුටින් ඉල්ලයි
+### රේගු අකුරට වැඩකිරීමේ වෘත්තීය ක්‍රියාමාර්ගය අවසන්
+
+*2024-02-16 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193456) · `si`
+
+රේගු දෙපාර්තමේන්තුවේ වෘත්තීය සමිති මගින් ක්‍රියාවට නංවා තිබූ අකුරට වැඩ කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගය අවසන් කර තිබේ.
+
+උසස්වීම් ඇතුළු ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් මෙම වෘත්තීය සමිති ක්‍රියාමාර්ගය ආරම්භ කර තිබුණි.
+
+මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා සහ ජනාධිපති ලේකම් සමන් ඒකනායක මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුව වෘත්තීය ක්‍රියාමාර්ගය අත්හිටවූ බව රේගු වෘත්තීය සමිති නියෝජිතයින් පවසයි.
+
+◼️
+
+[Data](articles/29575dde.json)
+
+---
+
+### ගණේමුල්ල සංජීවගේ මත්ද්‍රව්‍ය ජාලයේ දෙදෙනෙක් කොටුවෙති
+
+*2024-02-16 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193455) · `si`
+
+ගණේමුල්ල සංජීවගේ ප්‍රධාන සගයන් දෙදෙනෙකු වන "පෑලියගොඩ ශක්ති" හා "දිප්පිටිගොඩ ළහිරු" යන දෙදෙනා සමඟ සමීප සම්බන්ධතා පවත්වමින් ඔවුන්ගේ මත්ද්‍රව්‍ය ජාවාරම් කළ බවට සැකපිට පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙස සැකකෙරෙන ගණේමුල්ල සංජීව මේ වනවිට පොලිස් අත්අඩංගුවේ පසුවෙයි.
+
+යුක්තිය මෙහෙයුම යටතේ ඊයේ  (15) බුළුගහ හන්දිය, කැලණිය ප්‍ර‍දේශයේ සිදුකළ වැටලීමක දී මෙම සැකකරුවන් දෙදෙනා පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරී කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන ඇත.
+
+ඔවුන් පැමිණි ත්‍රීරෝද රථය පරීක්ෂා කිරීමේදී එහි තිබී අයිස් මත්ද්‍රව්‍ය  62gයි 900mgක්, විද්‍යුත් තරාදියක් හා මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් රුපියල් 38,330ක් පොලිස් භාරයට ගෙන තිබුණි.
+
+සැකකරුවන් කැලණිය සහ වත්තල ප්‍රදේශවල පදිංචිව සිටින 32 හැවිරිදි සහ 34 හැවිරිදි  පුද්ගලයන් දෙදෙනෙකි.
+
+වැඩිදුර ප්‍රශ්න කිරීමේ දී අනාවරණය වී ඇත්තේ එක් සැකකරුවෙකු 2022 වර්ෂයේදී "පොලිස් අත්තනායක" යන පුද්ගලයාව වෙඩිතබා ඝාතනයට ආධාර අනුබලදීමේ චෝදනාව මත අත්අඩංගුවට ගෙන ඇප මත මුදා හැර සිටින පුද්ගලයෙකු බවයි.
+
+...
+
+[Data](articles/5b675c9b.json)
+
+---
+
+### Make more kids - Putin asks
 
 *2024-02-16 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193454) · `si`
 
-වැඩි වැඩියෙන් දරුවන් හදන ලෙස රුසියානු ජනපති ව්ලැඩිමීර් පුටින් සිය ජනතාවගෙන් ඉල්ලීමක් කර තිබේ.
+Vladimir Putin has requested his public to make more children.
 
-ඔහු පවසන්නේ සෑම පවුලකම අවම වශයෙන් දරුවන් දෙදෙනෙක් වත් සිටීම වැදගත් බවය.
+He says that it is important to be at least two children in every family.
 
-2022 වසරේදී රුසියානු හමුදාව තම අසල්වැසි යුක්‍රේනය ආක්‍රමණය කළ අතර මේ වනවිට එම යුද්ධය හේතුවෙන් රුසියානුවන් විශාල ගණනක් මියගොස් ඇති අතර එසේම විශාල පිරිසක් රට හැරගොස් තිබේ.
+In 2022, the Russian army invaded Ukraine in 2022, and a large number of Russians have died and a large number of Russians have died due to the war.
 
-"අපිට ජාතියක් වශයෙන් පැවැත්ම සඳහා අවම වශයෙන් එක් පවුලක දරුවන් දෙදෙනෙක් වත් සිටිය යුතුයි. එක දරුවෙක් පමණක් හැදුවොත් අපේ ජනගහනය අඩුවෙයි...," කර්මාන්ත ශාලාවක සේවකයින් පිරිසක් අමතමින් රුසියානු ජනාධිපතිවරයා පැවසීය.
+"We must have two children in at least two children in one family for us to be a nation. If only a child is making one child, our population is closed ..., "Addressing a group of employees of a factory, the Russian President said.
 
-2023 වසර ආරම්භයේදී රුසියාවේ ජනගහනය මිලියන 146.4ක් ලෙස සඳහන් විය.
+At the beginning of 2023, the population of Russia was 146.4 million.
 
 ◼️
 
 [Data](articles/8d3c5e7b.json)
 
+[Extended Data](ext_articles/8d3c5e7b.ext.json)
+
 ---
 
-### தேர்தல்களில் நாங்களே வெற்றிபெறுவோம் என்பதை சர்வதேச சமூகம் உணர்ந்துள்ளது - அதன்காரணமாகவே இந்தியாவிற்கு அழைக்கப்பட்டோம் - இந்தியாவின் பாதுகாப்பே இலங்கையின் பாதுகாப்பு- விஜிதஹேரத்
+### The international community realizes that we will win the elections - for the reason we have been invited to India - India's security is the security of Sri Lanka.
 
 *2024-02-16 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176511) · `ta`
 
-இந்தியாவிற்கான விஜயம் உண்மையாகவே  விசேடமானது,உள்நாட்டிலும் வெளிநாட்டிலும் அனைவரும்  மக்கள் எங்களுடன் இருக்கின்றார்கள் என்பதை புரிந்துகொண்டுள்ளனர்,
+The visit to India is really special, and at home and abroad, people understand that people are with us.
 
-சர்வதேச சமூகம் தேர்தலில் யார் வெற்றிபெறப்போகின்றார்கள் என்பதை உணர்ந்துள்ளது இந்த சூழமைவிலேயே எங்களிற்கு அழைப்பு விடுக்கப்பட்டது.
+In this context, we have been invited to realize who is going to win the international community.
 
-இது குறித்து நாங்கள் மகிழ்ச்சியடைந்துள்ளோம்என ஜேவிபியின் நாடாளுமன்ற உறுப்பினர் விஜிதஹேரத் டெய்லிமிரருக்கு வழங்கிய பேட்டியில் தெரிவித்துள்ளார்
+In an interview with JVP parliamentarian Vijitheerath Dailymir, we are happy about this.
 
-பதில் - பிராந்திய பாதுகாப்பு என்பது இலங்கைக்கும் பொதுவான விடயம் நாங்கள் தேசிய பாதுகாப்பு இறைமை ஆள்புல ஒருமைப்பாடுஎன்பனவற்றை உறுதி செய்யவேண்டும் - பிராந்தியத்தில் மோதல் வெடித்தால் அதன் தாக்கம் இலங்கையிலும் உணரப்படும் இதன்காரணமாக நாங்கள் மிக உயர்மட்டத்தில் பிராந்திய பாதுகாப்பு என்ற விடயத்திற்குதயாராகவுள்ளோம்.
+Answer - Regional Security is a common thing in Sri Lanka and we must ensure that National Security Sovereignty is the integrity of the National Security Sovereignty.
 
-இலங்கை ஒருநாடு என்ற அடிப்படையில் பிராந்திய பாதுகாப்பு குறித்து அர்ப்பணிப்புடன் விளங்கும் அது எங்களின் கொள்கை.
+It is our policy that is dedicated to regional security on the basis of Sri Lanka as a country.
 
-எனினும் இந்த விடயத்தில் எடுக்கப்படவேண்டிய விசேடமான நடவடிக்கைகள் குறித்து நாங்கள் எதனையும் பேசவில்லை.
+However, we are not talking about special measures to be taken on this issue.
+
+You met the Indian National Security Advisor -Once an Indian representative expressed Sri Lanka's security as Sri Lanka's security in Sri Lanka -how far is this comment?
+
+We will definitely accept this.
+
+It is well known that India and China are involved in the World Wide Competition.
 
 ...
 
 [Data](articles/1b2c43af.json)
 
+[Extended Data](ext_articles/1b2c43af.ext.json)
+
 ---
 
-### පොලීසිය තුළදී වස දුන් සිද්ධියට තවත් දෙදෙනෙක් අත්අඩංගුවට
+### Two arrested for police poisoning police
 
 *2024-02-16 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193452) · `si`
 
-ආදුරුප්පුවීදිය පොලීසිය තුළදී සැකකරුවන් දෙදෙනෙකුට වස මිශ්‍ර පානයක් ලබාදීමේ සිද්ධිය සම්බන්ධයෙන් තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+Two more suspects have been arrested in connection with the gift of two suspects in the Devil.
 
-පොලීසිය සඳහන් කළේ සිද්ධියට සම්බන්ධ ප්‍රධාන සැකකරුවෙකු සහ තවත් සැකකරුවෙක් එළෙස අත්අඩංගුවට ගත් බවය.
+Police said the main suspect involved in the incident and another suspect was arrested.
 
-පසුගිය 07 වනදා පොලීසිය තුළ රඳවා සිටි සැකකරුවන් බැලීමට පිටතින් පැමිණි පුද්ගලයෙකු විසින් මෙම වස මිශ්‍ර කිරි පානයක් ලබාදී තිබුණි.
+A person outside the police had given a mixed milk by a person who came to see the suspects on the 7th.
 
-ඊයේ (15) දහවල් කාලයේදී වත්තල සහ කොටහේන ප්‍රදේශවලදී සිද්ධියට සම්බන්ධ සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන තිබේ.
+The two suspects have been arrested in Wattala and Kotahena yesterday afternoon.
 
-පොලීසිය සඳහන් කළේ සැකකරුවන් 25 සහ 32 යන වයස්වල පසුවන්නන් බවය.
+Police said the suspects were 25 and 32.
 
 ◼️
 
 [Data](articles/f78cc140.json)
 
+[Extended Data](ext_articles/f78cc140.ext.json)
+
 ---
 
-### தலை மன்னாரில் சிறுமி பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு கொலை
+### The girl was sexually abused and murdered in Mannar
 
 *2024-02-16 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176510) · `ta`
 
-மன்னார் தலைமன்னார் கிராமத்தில் 10 வயதான சிறுமி ஒருவர் நேற்று வியாழக்கிழமை (15) இரவு பாலியல் துஷ்பிரயோகத்திற்குட்படுத்தப்பட்டு கொலை செய்யப்பட்ட சம்பவம் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+A 10 -year -old girl in the Mannar village of Talaimannar was shocked by the incident of sexually abused and murdered on Thursday night.
 
-மன்னார் தலைமன்னார் கிராமம் பகுதியில் தோட்டம் ஒன்றை பராமறிப்பதற்காக பணியமர்த்தப்பட்ட நபர் ஒருவராலேயே குறித்த சிறுமி கொலை செய்யப்பட்டிருக்கலாம் என சந்தேகிக்கப்படுகின்றது.
+It is suspected that the girl may have been murdered by a person who was hired to maintain a garden in the Mannar Talaimannar village.
 
-குறித்த நபர் மற்றும் அவரது மனைவி தலைமன்னார் பகுதியில் வசித்து வந்த நிலையில் கணவன் போதைக்கு அடிமையான நிலையில் மனைவி பிரிந்து சென்றுள்ளார் .
+The man and his wife lived in Talaimannar area and the wife had split up with a drug addict.
 
-இந்நிலையில் அருகில் இருக்கும் வயோதிப பெண் ஒருவர் குறித்த சந்தேக நபருக்கு உணவு வழங்கி வந்த நிலையில் அவர்களுடன் நட்பாக பழகி வந்துள்ளார்.
+In this case, a nearby elderly woman has been friendly with the suspect.
 
-இந்நிலையில் சந்தேக நபர் நேற்றைய தினம் மாலை உணவு வழங்கும் வயோதிப பெண்ணின் பேத்தியான குறித்த சிறுமியை கடைக்கு அழைத்து சென்ற நிலையில் சம்பம் இடம் பெற்றுள்ளதாக தெரிவிக்கப்ப்டுகின்றது.
+It is reported that the suspect was taken to the shop yesterday evening.
 
-...
+The body of the girl has been recovered this morning (16) during the search for the help of the nearby Sisirvi cameras and the help of the people of the town.
+
+◼️
 
 [Data](articles/5886f451.json)
+
+[Extended Data](ext_articles/5886f451.ext.json)
 
 ---
 
@@ -178,45 +232,49 @@ The island nation successfully reduced its inflation rate to single-digit levels
 
 ---
 
-### 2024 පෙබරවාරි මුදල් ප්‍රතිපත්ති වාර්තාව නිකුත් කෙරේ
+### February 2024 Money policy report released
 
 *2024-02-16 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193451) · `si`
 
-ශ්‍රී ලංකා මහ බැංකුව 2024 පෙබරවාරි මාසය සඳහා මුදල් ප්‍රතිපත්ති වාර්තාව ප්‍රකාශයට පත්කර ඇත.
+The Central Bank of Sri Lanka has published the Monetary Policy Report for February 2024.
 
-මෙම වාර්තාවේ අන්තර්ගතය, ප්‍රධාන වශයෙන් ම 2024 ජනවාරි මාසයේ මුදල් ප්‍රතිපත්ති සමාලෝචන වටයට අදාළ තීරණ සඳහා ශ්‍රී ලංකා මහ බැංකුවේ මුදල් ප්‍රතිපත්ති මණ්ඩලය විසින් සැලකිල්ලට ගනු ලැබූ තොරතුරු මත පදනම් වේ.
+The content of this report is based on the Monetary Policy Board of Sri Lanka for decisions regarding the Cash Policy Review Round of 2024.
 
-විශේෂයෙන් ම, ආර්ථික වර්ධනය සහ උද්ධමනයට අදාළව ඉදිරි දැක්මක් සැපයීම සඳහා මහ බැංකුව විසින් ප්‍රකාශයට පත් කරනු ලබන දෙවන මුදල් ප්‍රතිපත්ති වාර්තාව මෙය බව මහ බැංකුව පවසයි.
+This is, this is the second Money policy report published by the Central Bank to provide anticipation of economic growth and inflation.
 
-දේශීය සහ ගෝලීය වශයෙන් දැනට පවතින මෙන්ම අපේක්ෂිත ප්‍රවණතා සැලකිල්ලට ගනිමින්, උද්ධමන සහ ආර්ථික වර්ධන පුරෝකථන සඳහා පවතින අවදානම් පිළිබඳව ඇගයීමක් ඉදිරිපත් කිරීම ද මෙම වාර්තාවෙන් අපේක්ෂා කරයි.
+The report also provides an evaluation of the risks for inflation and economic growth forecasts, taking into account local and globally in the global and globally desired trends.
 
-මෙම වාර්තාව මගින් මෑත කාලීන මුදල් ප්‍රතිපත්ති තීරණ සඳහා මූලික වූ පසුබිම සන්නිවේදනය කිරීම තුළින් මහ බැංකුවේ විනිවිදභාවය සහ වගවීම වැඩි දියුණු කිරීමට මහ බැංකුව ප්‍රයත්න දරන බවද එම නිවේදනයේ දැක්වෙයි.
+The report states that the Central Bank is trying to improve the transparency and accountability of the Central Bank by communicating the main background for recent financial policy decisions.
 
-2024 පෙබරවාරි මුදල් ප්‍රතිපත්ති වාර්තාව නිකුත් කෙරේ by poornima on Scribd
+February 2024 Money policy report released by Poornima On Scribd
 
 ◼️
 
 [Data](articles/24d954de.json)
 
+[Extended Data](ext_articles/24d954de.ext.json)
+
 ---
 
-### පුද්ගලයෙකු හප්පා පළාගිය රියදුරෙක් අත්අඩංගුවට
+### Man arrested a man arrested
 
 *2024-02-16 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193450) · `si`
 
-අරලගංවිල අළුත්වැව කැටේහංදිය ප්‍රදේශයේදී රිය අනතුරක් සිදුකර පළා ගිය ලොරි රථ රියදුරෙකු අත්අඩංගුවට ගෙන තිබේ.
+A lorry driver has been arrested in an accident in the Aralaganwila area in Aralaganwila.
 
-මාර්ගයේ පුද්ගලයෙකු වැටී සිටින බවට ලද තොරතුරකට අනුව පොලීසිය එම සිද්ධිය ගැන විමර්ශන ආරම්භ කර තිබුණි.
+Police have commenced investigations into the incident according to information that a person was on the road.
 
-හිසට බරපතළ තුවාල සිදුවීම හේතුවෙන් එම පුද්ගලයා එම ස්ථානයේදීම මියගොස් ඇත.
+The man had died on the spot due to the serious injury.
 
-එම ප්‍රදේශයේ වී මිලදී ගන්නා පුද්ගලයෙකු මෙම අනතුර සිදුකර පළා ගොස් ඇති අතර ඔහුගේ ලොරි රථය පරීක්ෂා කිරීමේදී මියගිය පුද්ගලයාගේ හිසකෙස් හා ඇඳුම් කොටස් එහි තැවරී තිබී සොයාගෙන ඇත.
+A person who purchased paddy has been launched in the area and has found the hair and clothing of the deceased to check his lorry.
 
-ඉකුත් 14 වනදා රාත්‍රී කාලයේදී මෙම අනතුර සිදුවී ඇති අතර 15 වනදා සවස් කාලයේදී සිද්ධිය පිළිබඳව තොරතුරු පොලීසියට වාර්තා වී තිබුණි.
+The accident had occurred on the night of the night of the night and the details of the incident on the evening.
 
 ◼️
 
 [Data](articles/2f8704dd.json)
+
+[Extended Data](ext_articles/2f8704dd.ext.json)
 
 ---
 
@@ -752,6 +810,20 @@ Sri Lanka has stabilized its economy and economic activities are recovered, but 
 
 ### AKD’s diplomatic odyssey: NPP’s foray into India and the road ahead
 
+*2024-02-16 06:14:34* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-diplomatic-odyssey-NPP-s-foray-into-India-and-the-road-ahead/4-758547) · `en`
+
+This move by India is not merely diplomatic; it symbolises a calculated strategy to
+
+The recent five-day sojourn of Anura Kumara Dissanayake, leader of the National People’s Power (NPP), and his delegation to India has become a focal point in Sri Lanka’s political discourse. In an unprecedented move, the Indian Government extended an official invitation to NPP leaders, signalling a departure from conventional diplomatic interactions. As the visit unfolded, it not only deepened bilateral ties but also shed light on the evolving political dynamics within Sri Lanka, presenting both challenges and opportunities for the NPP.
+
+...
+
+[Data](articles/2085d065.json)
+
+---
+
+### AKD’s diplomatic odyssey: NPP’s foray into India and the road ahead
+
 *2024-02-16 06:14:34* · [`dailyftlk`](https://www.ft.lk/opinion/AKD-s-diplomatic-odyssey-NPP-s-foray-into-India-and-the-road-ahead/14-758547) · `en`
 
 This move by India is not merely diplomatic; it symbolises a calculated strategy to
@@ -807,6 +879,24 @@ Dinner for 2,500 pax would garner Rs. 5,580,000 (2,232 per pax).
 [Data](articles/7c0a0105.json)
 
 [Extended Data](ext_articles/7c0a0105.ext.json)
+
+---
+
+### Judicial power of the people and a Presidential interpretation of our Constitution?
+
+*2024-02-16 06:06:43* · [`dailyftlk`](https://www.ft.lk/columns/Judicial-power-of-the-people-and-a-Presidential-interpretation-of-our-Constitution/4-758545) · `en`
+
+The time has come for us as citizens to demand that the abolition of the Executive Presidency is realised as a
+
+“Since 1972 this country has known no monarch and the President has not inherited that mantle. All his powers are limited by the provisions of the constitution.” – Dissolution of Parliament Case (2018)
+
+We as citizens of the country have witnessed in the past weeks some grave political developments that impact the governance of our country.
+
+On 31 January the President’s Media Division (PMD) released a public document. This document indicates that it is meant to be the Secretariat’s interpretation of the President’s powers under our Constitution.
+
+...
+
+[Data](articles/21c2aec0.json)
 
 ---
 
@@ -1967,91 +2057,5 @@ Officers confiscated national identity cards, driver's license and mobile phones
 [Data](articles/0000808a.json)
 
 [Extended Data](ext_articles/0000808a.ext.json)
-
----
-
-### I enjoyed the enjoyment but good
-
-*2024-02-15 19:21:55* · [`adalk`](https://www.ada.lk/breaking_news/මම-භුක්ති-විඳලා-ඉවරයි-අහෝසි-කළත්-හොඳයි/11-408113) · `si`
-
-Former President Mahinda Rajapaksa says that the Executive Committee is finished and abolished. He was responding to media issues after a program.
-
-Yeah yeah. I'm on the one. I've just enjoyed. But the undones are good. People say to lose it.
-
-The election we will win. The presidential election we win our candidate. Our candidates in general elections win.
-
-◼️
-
-[Data](articles/8ff356fe.json)
-
-[Extended Data](ext_articles/8ff356fe.ext.json)
-
----
-
-### Sri Lanka recovering amid global risks, IMF deal key to confidence: central bank
-
-*2024-02-15 19:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-recovering-amid-global-risks-imf-deal-key-to-confidence-central-bank-151122/) · `en`
-
-ECONOMYNEXT – Sri Lanka is recovering from an economic crisis amid risks to exports from global slowdown and any derailment of an International Monetary Fund program could create high economic risks, the central bank said.
-
-“A major factor that influences the economic outlook is the continuation of the IMF – Extended Fund Facility (EFF) arrangement and the progression of the envisaged structural reforms,” the central banks Monetary Policy Report issued in February said.
-
-“Any disruption to this programme would create high economic costs to the country due to growth derailment, loss of confidence, and the protraction of negative investor sentiments.”
-
-Sri Lanka has stabilized and economic activity is recovering the central bank said though growth would be subdued in the near term.
-
-...
-
-[Data](articles/24f4cba1.json)
-
-[Extended Data](ext_articles/24f4cba1.ext.json)
-
----
-
-### CID arrested for a millionaire in Middeniya
-
-*2024-02-15 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193430) · `si`
-
-A group of officials of the Illegal Asset Investigation Division of the Criminal Investigation Division has been arrested yesterday (14), a resident of the CID yesterday.
-
-The air-conditioned house and a two storied house in the Meegasara area, two crores were Rs.
-
-Police said that the suspect was produced in the Thanamalwila area for about ten years.
-
-Police suspect that the property has been taken into custody by the money earned.
-
-The assets considered that the suspect belongs to about Rs. 12 million.
-
-◼️
-
-[Data](articles/1894efde.json)
-
-[Extended Data](ext_articles/1894efde.ext.json)
-
----
-
-### A large opposition in front of the onmaxdt boss
-
-*2024-02-15 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193429) · `si`
-
-Investigations have been taken to the court today that a director of the Amaxd Private Company has been secretly abroad as a director of the OMAXDT has been released after being accused of defrauding depositors.
-
-The Law function against the company was taken up before the Colombo Magistrate's Court today.
-
-The Investigations Officer has shown that the 6th suspect, the director of the 6th suspect.
-
-Meanwhile, ONMAXDT customers were silent protest in front of the court today (15).
-
-As the accused directors left the court, customers came to the car and protesting the car they were traveling.
-
-The case against 6 directors who were accused of defrauding money from illegal pyramidara transactions were invited before Colombo Chief Magistrate Prasanna Alwis.
-
-Speaking to the President's Counsel Directors, Assistant Attorney-at-Arrahera Velleraratu stated that 58 bank accounts belonging to the respective directors have been suspended by the Court of Reference.
-
-...
-
-[Data](articles/8ccb86ef.json)
-
-[Extended Data](ext_articles/8ccb86ef.ext.json)
 
 ---

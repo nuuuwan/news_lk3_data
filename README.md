@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 17:53:05**
+As of **2024-02-16 18:08:30**
 
 ## Newspaper Stats
 
-*Scraped **7,504** Articles*
+*Scraped **7,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 385
 economynextcom | 393
 dailyftlk | 402
-adalk | 641
+adalk | 642
 tamilmirrorlk | 915
 adaderanalk | 919
-virakesarilk | 983
+virakesarilk | 985
 adaderanasinhalalk | 1,069
 dailymirrorlk | 1,100
 
@@ -26,11 +26,31 @@ dailymirrorlk | 1,100
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,504 (100.0%) of 7,504 articles have been extended.
+7,507 (100.0%) of 7,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Russia Opposition Leader Alexe Navalni's sudden death
+
+*2024-02-16 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176567) · `ta`
+
+According to reports, Russian opposition leader and Vladimir Putin, who criticized Vladimir Putin, has died in Alexe Navalni jail.
+
+He died in a prison in Arctic, Russia Prison sources said.
+
+Russia Prison sources said that Navalni suddenly suffered a sudden illness on Friday.
+
+Attempts to save him have not been successful, he died, hospital sources said.
+
+◼️
+
+[Data](articles/ca0d0b6c.json)
+
+[Extended Data](ext_articles/ca0d0b6c.ext.json)
+
+---
 
 ### Russian opposition leader suddenly dies
 
@@ -97,6 +117,24 @@ Accordingly, prison officials have taken measures to be taken to the prison soon
 [Data](articles/0af9d646.json)
 
 [Extended Data](ext_articles/0af9d646.ext.json)
+
+---
+
+### Hunting in Nuwara Eliya
+
+*2024-02-16 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176557) · `ta`
+
+Older students have taken steps to sign the lands in front of the school from 11:30 am today (16) at 11:30 am, demanding the redemption of the lands found in the school.
+
+The signature collection process was organized from 11.30 am to 4 pm.
+
+In this move, many civilians, school alumni, teachers, students and students from other schools have signed support for the collection.
+
+◼️
+
+[Data](articles/1bc3f0c4.json)
+
+[Extended Data](ext_articles/1bc3f0c4.ext.json)
 
 ---
 
@@ -429,6 +467,30 @@ Meanwhile, the magistrate has ordered that the signatures of former Health Minis
 [Data](articles/e4a58f3a.json)
 
 [Extended Data](ext_articles/e4a58f3a.ext.json)
+
+---
+
+### Chief suspect arrested for collaboration with police cell
+
+*2024-02-16 14:51:59* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-සිර-මැදිරියේ-සිටි-පුද්ගලයන්-දෙදෙනාට-වස-දුන්-ප්‍රධාන-සැකකරු-අත්අඩංගුවට/11-408127) · `si`
+
+Two suspects in a murder held at Kotarapitiya Police Station PoliceColombo Crimes Division says that the main suspect and former palmic employees were arrested
+
+(26) The main suspect, the main suspect, the police officer was arrested in Wattala area with 12524 migrants, the other 12524 muscotar (32) in Kotahena.
+
+Four suspects have been arrested along with the two suspects have been arrested by a senior police officer
+
+The main suspect arrested in Kotahena has been identified as the person who has been identified as a person who has been identified by a public shopkeeper.
+
+The suspect was arrested in Kotahena and a relative of the murdered organized criminal crimes and drug Kudu Selvi
+
+On the 24th of the 24th of the night, the Seremunu Vieiya (27), Videitha Fernando (29) in Jidupuwara, who was arrested in Jidupitiya, was arrested in Jeduvu Street (27).The sick was admitted to the Cosmetics Unit of the Colombo National Hospital
+
+...
+
+[Data](articles/882b7374.json)
+
+[Extended Data](ext_articles/882b7374.ext.json)
 
 ---
 
@@ -2011,63 +2073,5 @@ Questions have been raised about the fairness of the Feb. 8 election both inside
 [Data](articles/a0a3d392.json)
 
 [Extended Data](ext_articles/a0a3d392.ext.json)
-
----
-
-### Two soldiers killed in two locations
-
-*2024-02-16 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193448) · `si`
-
-A 26-year-old soldier drowned to the Settikulam in Pattunalankulam Periyankulam Periyakulatu area yesterday (15).
-
-A 35-year-old Navy soldier was killed while collision with a train near the Bambalapitiya Railway Station.
-
-The deceased has been hit by a train traveling from Beliatta to Maradana.
-
-◼️
-
-[Data](articles/3dc8ce72.json)
-
-[Extended Data](ext_articles/3dc8ce72.ext.json)
-
----
-
-### President, parliament clash heightens with judiciary coming into play
-
-*2024-02-16 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-parliament-clash-heightens-with-judiciary-coming-into-play/108-277134) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - The crisis involving the Executive and the Legislature has heightened to a new level with the judiciary also coming into play over the Constitutional Council’s (CC) rejection of appointment of Court of Appeal President Nissanka Bandula Karunaratne as a Supreme Court judge and Speaker Mahinda Yapa Abeywardena informing President Ranil Wickremesinghe that the lack of majority support resulted in the stalemate.
-
-A case has been filed in the Supreme Court challenging the CC’s rejection. In the meantime, the Speaker is reported to have informed the President that five out of the nine members of the CC excluding himself were opposed to the proposed appointment and therefore he, as the Chairman of the body, could not proceed.
-
-...
-
-[Data](articles/5662f48f.json)
-
-[Extended Data](ext_articles/5662f48f.ext.json)
-
----
-
-### Another suspect arrested over murder of Buddhist monk at temple
-
-*2024-02-16 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97311/another-suspect-arrested-over-murder-of-buddhist-monk-at-temple) · `en`
-
-The police have arrested another suspect who was complicit in the murder of a Buddhist monk at a temple in the Malwathuhiripitiya area last month.
-
-Arrest was made during an operation conducted by Western Province North Crimes Division in Malwana on Thursday (Feb.15).
-
-The 23-year-old is reportedly a resident of the Aralaganwila area.
-
-He was apprehended with a locally manufactured hand grenade and more than 10 grams of methamphetamine (‘Ice’).
-
-In the early hours of January 23, a group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha.
-
-The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. But he later succumbed to injuries while receiving treatment.
-
-...
-
-[Data](articles/d9479463.json)
-
-[Extended Data](ext_articles/d9479463.ext.json)
 
 ---

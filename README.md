@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 22:03:30**
+As of **2024-02-16 22:17:29**
 
 ## Newspaper Stats
 
-*Scraped **7,544** Articles*
+*Scraped **7,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 398
 dailyftlk | 402
 adalk | 643
 tamilmirrorlk | 919
-adaderanalk | 924
+adaderanalk | 925
 virakesarilk | 991
 adaderanasinhalalk | 1,075
-dailymirrorlk | 1,110
+dailymirrorlk | 1,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,542 (100.0%) of 7,544 articles have been extended.
+7,544 (100.0%) of 7,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### Several historical shrines designated as sacred sites
+
+*2024-02-16 21:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97334/several-historical-shrines-designated-as-sacred-sites) · `en`
+
+The National Physical Planning Department has designated 11 temples of significant archaeological, historical, and sacred importance as Sacred Sites in the Government Gazette.
+
+These areas, now recognized as sacred sites, had their respective documents submitted to the Presidential Secretariat on Thursday (Feb.15), presided over by Presidential Secretary Saman Ekanayake.
+
+Accordingly, the following historical shrines have been declared as sacred sites:
+
+1. Ambagaswewa Purana Rajamaha Vihara – Horowpathana Divisional Secretariat Division (DSD) of the Anuradhapura District)
+
+2. Pothuvatawana Maha Vihara – Dankotuwa DSD of Puttalam District
+
+3. Ampara Muhudu Maha Vihara – Pottuvil DSD of Ampara District
+
+4. Maddegama Raja Maha Vihara – Dompe DSD of Gampaha District
+
+5. Uddhakandara Rajamaha Vihara – Tissamaharamaya DSD of Hambantota District
+
+6. Sri Saddharma Yuktika Vana Senasuna (Monastery) – Kuchchaveli DSD of Trincomalee District
+
+...
+
+[Data](articles/d9ca223c.json)
+
+---
+
+### Quetta Gladiators await NOC for Hasaranga for PSL 9
+
+*2024-02-16 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Quetta-Gladiators-await-NOC-for-Hasaranga-for-PSL-9/108-277204) · `en`
+
+Feb. 16 (cricketpakistan) - Quetta Gladiators issued an update regarding the status of their foreign players ahead of the ninth season of the Pakistan Super League (PSL) on Friday.
+
+Gladiators' head of player acquisition, Nabeel Hashmi, confirmed through his social media account that originally slated for the first five matches, Hasaranga may miss more due to scheduling issues with the Afghanistan vs. Sri Lanka series. Despite efforts, Quetta is still awaiting his No Objection Certificate.
+
+On the coaching front, mentor Sir Vivian Richards and bowling coach Shaun Tait have already arrived in Pakistan ahead of the tournament.
+
+Similar to the previous edition, PSL 9 will be held in two legs. Lahore and Multan will host 14 matches from February 17 to 27, followed by 16 matches in Rawalpindi and Karachi from February 28 to March 12. The playoffs will then be held entirely in Karachi.
+
+◼️
+
+[Data](articles/3f7ddca7.json)
+
+---
 
 ### How to poisoning the two in police cage
 
@@ -73,6 +119,8 @@ The feature elaborates on the miseries of female Sri Lankan farmers such as Renu
 ...
 
 [Data](articles/57c7d3a5.json)
+
+[Extended Data](ext_articles/57c7d3a5.ext.json)
 
 ---
 
@@ -1162,21 +1210,25 @@ Meanwhile, the magistrate has ordered that the signatures of former Health Minis
 
 ---
 
-### දෙහිවලට හොඳ කලක්
+### A good time for the two and
 
 *2024-02-16 14:59:51* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවලට-හොඳ-කලක්/11-408128) · `si`
 
-දෙහිවල සත්වෝද්‍යානයට ජනවාරි මාසයේ සිට දින හතලිහකදී ලැබුණු ටිකට්පත් ආදායම මිලියන පනස්දෙකක් බවත් නැරඹීමට පැමිණි නරඹන්නන් සංඛ්‍යාව එක්ලක්ෂ හැටදහසක් බවත් දෙහිවල සත්වෝද්‍යාන ගිණුම් වාර්ථා සඳහන්කර සිටී.
+The Dehiwala Zoo receives the ticket revenue from January to four million ticket from January and the Dehiwala Zoo account reports.
 
-එමෙන්ම 2023 වර්ෂයේ පැමිණි නරඹන්නන් සංඛ්‍යාව මිලියන එකයි දශම තුනක් වන අතර ලැබු ආදායම රුපියල් මිලියන 341 ක් බවද වාර්තා වී ඇත.
+The number of visitors in the year 2023 were three million rupees and the revenue was Rs. 341 million.
 
-සත්වෝද්‍යාන දෙපාර්ථමේන්ත අධ්‍යක්ෂ මෙහෙයුම් එච්.ඒ අනෝමා ප්‍රියදර්ශනී මහත්මියගෙන්  මේ පිළිබඳව විමසා සිටි අතර එම මහත්මය පැවසූයේ මේ වන විට දෙහිවල සත්වයෝද්‍යානයේ අධ්‍යාපනික දැනුවත් කිරීම් නරඹන්නන්ගේ සුව පහසුව වැඩි කිරීමත් සමඟ නරඹන්නන් පැමිණීම වැඩි වශයෙන් දක්නට ලැබෙන බවයි.
+The Director of the Department of Dr. Anoma Priyadarshani said that the gentleman said that the attendance was most of the increasing the educational awareness of the winter's comfort.
 
-උදෑසන 8.30න් ඇරඹෙන සත්වෝද්‍යාන වැඩ කටයුතු හවස හය දක්වා පැවැත්වෙන අතර  අලි මිතුරු හමුව ශීබා සංදර්ශනය, සිංහ පැටියාගේ දෛනික ක්‍රියාකාරකම්, සහ සතුන්ට ආහාර ලබාදීමේ වැඩසටහන් සත්වෝද්‍යානයේ ක්‍රියාත්මකව පවතින බව එම මහත්මිය පැවසීය.
+The zoo's work will be held at 8.30 am and the elephant Meet Sampa Show, Lion Phick, and the food gifts in the zoo.
 
-...
+Ms. Anoma Priyadarshani said that the views of the zoological fishermen have been given fish to the zoo and elephants to provide food to the zoologicals.
+
+◼️
 
 [Data](articles/7606be24.json)
+
+[Extended Data](ext_articles/7606be24.ext.json)
 
 ---
 
@@ -2039,41 +2091,5 @@ Colombo, Feb. 16 (Daily Mirror)- Israel's Minister of Transport and Road Safety 
 [Data](articles/0aa11fa2.json)
 
 [Extended Data](ext_articles/0aa11fa2.ext.json)
-
----
-
-### Customs work-to-rule action called off
-
-*2024-02-16 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97318/customs-work-to-rule-action-called-off) · `en`
-
-The Customs trade unions have decided to call of their work-to-rule action today (Feb. 16).
-
-On Thursday (15), the Trade Union Alliance of Sri Lanka Customs had launched the work-to-rule campaign over several demands including solutions to their issues such as stalled promotions and discrepancies in wages.
-
-However, the work-to-rule action was called-off after the discussions held with the State Minister of Finance Ranjith Siyambalapitiya and President’s Secretary Saman Ekanayake ended on a positive note, as per the trade unions.
-
-◼️
-
-[Data](articles/69e1e963.json)
-
-[Extended Data](ext_articles/69e1e963.ext.json)
-
----
-
-### Two more SLFP members join SJB
-
-*2024-02-16 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97317/two-more-slfp-members-join-sjb) · `en`
-
-Two more members of Sri Lanka Freedom Party (SLFP) have crossed over to the main opposition Samagi Jaba Balawegaya (SJB).
-
-As such, SLFP’s former provincial council members Gamini Thilakasiri and Gamini Silva have joined hands with the main opposition.
-
-Reportedly, the duo has attended the 100th edition of Opposition Leader Sajith Premadasa’s ‘Sakwala’ smart classroom program held at the Boralesgamuwa Maha Vidyalaya in Kesbewa on Friday (Feb.16).
-
-◼️
-
-[Data](articles/4fa73e27.json)
-
-[Extended Data](ext_articles/4fa73e27.ext.json)
 
 ---

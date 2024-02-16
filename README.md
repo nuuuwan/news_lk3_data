@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 02:48:13**
+As of **2024-02-17 03:02:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,565 (100.0%) of 7,568 articles have been extended.
+7,568 (100.0%) of 7,568 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,25 @@ The proposal put forth by Transport and Highways Minister Gunawardena was approv
 
 [Data](articles/7ffa0f8b.json)
 
+[Extended Data](ext_articles/7ffa0f8b.ext.json)
+
 ---
 
-### மாணவர்கள் இருவர் கடலில் மூழ்கி மாயம்
+### Two students drown in the sea
 
 *2024-02-17 02:10:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-இருவர்-கடலில்-மூழ்கி-மாயம்/175-333332) · `ta`
 
-அம்பாறை, மாளிகைக்காடு - சாய்ந்தமருது பிரதேசத்தைச் சேர்ந்த இரண்டு மாணவர்கள் நிந்தவூர் பிரதேச கடலில் படம் எடுத்து விளையாடிக் கொண்டிருந்தபோது கடலில் அடித்துச் செல்லப்பட்டுக் காணாமல்போயுள்ளனர்.
+Two students from Ampara, Malikaikkadu - Sainthamaruthu area have been hit by the sea while playing in the Nintavur area.
 
-மாளிகைக்காடு - சாய்ந்தமருது எல்லை வீதியில் அமைந்துள்ள பிரபல பாடசாலையில் கல்வி கற்கும் 13 - 15 வயதுக்குட்பட்ட 8 மாணவர்கள் நேற்று ஜும்மா தொழுகையை முடித்துக்கொண்டு சைக்கிள்களில் நிந்தவூர் - ஒலுவில் எல்லை கடற்கரைக்குச் சென்று படம் எடுத்து விளையாடிக் கொண்டிருந்தபோது மாலை 4.20 மணியளவில் அதில் இருவரைக் கடலலை உள்ளிழுத்துச் சென்றுவிட்டது என்று முதற்கட்ட விசாரணையில் தெரியவந்தது.
+Investigations revealed that 8 students from 13 to 15 years of age at a popular school located on the Malikaikkadu - Sainthamaruthu border road were completing the Jumma Prayer yesterday and playing on the bicycles on the bicycle and playing the shooting of the two men at 4.20 pm.
 
-கடலில் இழுத்துச் செல்லப்பட்டுக் காணாமல்போன மாணவர்கள் இருவரையும் மீனவர்களும், பொதுமக்களும் இயந்திரப் படகுகளைக் கொண்டு தேடியும் இரவு 9 மணி வரை அந்த மாணவர்களின் உடல்களைக் கண்டுபிடிக்க முடியாமல் இருள் காரணமாக தேடுதல் நடவடிக்கைகள் நிறுத்தப்பட்டன. (a)
+Fishermen and civilians searched the two students who were dragged into the sea and searched for machine boats and till 9 pm. (A)
 
 ◼️
 
 [Data](articles/d992f176.json)
+
+[Extended Data](ext_articles/d992f176.ext.json)
 
 ---
 
@@ -81,6 +85,8 @@ Today (Feb 17) is the birthday of Sri Lanka’s popular business magnate Philip 
 ...
 
 [Data](articles/553fadb6.json)
+
+[Extended Data](ext_articles/553fadb6.ext.json)
 
 ---
 

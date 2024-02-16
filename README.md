@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 15:51:15**
+As of **2024-02-16 16:03:03**
 
 ## Newspaper Stats
 
@@ -26,103 +26,135 @@ dailymirrorlk | 1,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,472 (99.9%) of 7,481 articles have been extended.
+7,481 (100.0%) of 7,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### සෞඛ්‍ය ක්ෂේත්‍රයේ ගැටලු විසඳීමට ජනපති ගේ මැදිහත්වීම ඉල්ලයි
+### President calls for intervention to solve health care issues
 
 *2024-02-16 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193470) · `si`
 
-සෞඛ්‍ය ක්ෂේත්‍රයේ මතු ව ඇති ගැටලු විසඳීමට, දුෂණ සහ වංචාවලට සම්බන්ධ දේශපාලනඥයින්ට සහ නිලධාරීන්ට නිසි දඬුවම් ලබාදීමට විශේෂ ජනාධිපති කොමිසමක් පත් කළ යුතු බව විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා පවසයි.
+Special President Dr. Chamal Sanjeewa says that a special Presidential Presidential Commission should be appointed to address the problems of the health sector, politicians and officials.
 
-වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපතිවරයා පවසන්නේ ඒ සඳහා වහාම ජනාධිපතිවරයා මැදිහත් විය යුතු බවයි.
+The Chairman of the Doctors' Trade Union Alliance on Medical and Civil Rights says the President should immediately intervene.
 
-අද (16) කොළඹ දී මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවසුවේය.
+Speaking to the media in Colombo today (16), he said.
 
-මෙරට ඖෂධ සැපයුම් ජාලය බරපතළ අර්බුදයකට මුහුණ දී ඇති බවත් ඒ සඳහා කඩිනමින් නිසි විසඳුම් නොලැබුණහොත් ඉදිරි මාස ‍කිහිපය තුළ සෞඛ්‍ය පද්ධතියේ ගැටලු නැවත විසඳිය නොහැකි තත්ත්වයකට පත්විය හැකි බවද වෛද්‍යවරයා අවධාරණය කළේය.
+The doctor emphasized that the local pharmaceutical network has faced a serious crisis and is not resolved in the next few months.
 
-එ‍මෙන්ම සෞඛ්‍ය අමාත්‍යාංශය, රාජ්‍ය ඖෂධ නීතිගත සංස්ථාව, වෛද්‍ය සැපයුම් ඒකකය, ඖෂධ නියාමන අධිකාරිය සහ රාජ්‍ය ඖෂධ නිෂ්පාදන සංස්ථාව අතර අනෝන්‍ය සම්බන්ධයක් නොමැති වීම හේතු‍වෙන් පවතින ඖෂධ හිඟය සම්බන්ධ සත්‍ය තොරතුරු දැනගැනීමට නොහැකි වී තිබෙන බව ද ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+He also said that the truth about the shortage of drugs, the Ministry of Health, State Pharmaceutical Corporation, Medical Supplies Authority and the State Pharmaceutical Production Corporation have not been able to know.
 
 ◼️
 
 [Data](articles/4f8ef961.json)
 
+[Extended Data](ext_articles/4f8ef961.ext.json)
+
 ---
 
-### தவளை ஐஸ்கிறீம்: 5 ஆயிரம் ரூபாய் அபராதம்
+### Frog ice cream: a fine of 5 thousand rupees
 
 *2024-02-16 15:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தவளை-ஐஸ்கிறீம்-5-ஆயிரம்-ரூபாய்-அபராதம்/71-333313) · `ta`
 
-யாழ்ப்பாணம் - செல்வ சந்நிதி ஆலய சூழலில் விற்பனை செய்யப்பட்ட குளிர்களிக்குள் (ஐஸ் கிறீம்) தவளை காணப்பட்டமை தொடர்பிலான வழக்கில் குற்றத்தை ஒப்புக்கொண்ட , விற்பனையாளருக்கு நீதிமன்றம் 5 ஆயிரம் ரூபாய் தண்டம் விதித்துள்ளது
+The court has sentenced a seller to a seller who pleaded guilty in a case of ice cream in the Jaffna -Selvam temple environment.
 
-ஆலய சூழலில் கடந்த புதன்கிழமை (14) குளிர்களி விற்பனையில் ஈடுபட்டவரிடம், அதனை வாங்கிய நபர் ஒருவரின் குளிர்களிக்குள் தவளை ஒன்று காணப்பட்டது.
+In the temple environment last Wednesday (14), a frog was found in the cold of a person who bought it.
 
-அது தொடர்பில் சுகாதார பிரிவினருக்கு அறிவிக்கப்பட்டதை அடுத்து , விசாரணைகளை முன்னெடுத்த வல்வெட்டித்துறை சுகாதார பரிசோதகர் ஐஸ் கிறீம் விற்றவருக்கு எதிராக பருத்தித்துறை நீதவான் நீதிமன்றில் வழக்கு தொடர்ந்தார்.
+Following the announcement of the health unit, the Valvettithurai Health Inspector, who was conducting investigations, filed a case against the Point Pedro Magistrate's Court against the Ice Cream soldier.
 
-குறித்த வழக்கு இன்றைய தினம் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது , குளிர்களியை விற்பனை செய்தவர் , சுன்னாகம் பகுதியில் இயங்கும் குளிர்களி தயாரிப்பு நிறுவனத்திடம் கொள்வனவு செய்தே , ஆலய சூழலில் விற்பனை செய்வதாக தெரிவித்துள்ளார்.
+When the case was taken up for hearing today, the man who sold the colder and sold it to the colder manufacturer in the Chunnakam area, he said.
 
-இதேவேளை, சந்நிதி ஆலய சூழலில் சுகாதார சீர்கேட்டுடன் நடாத்தி செல்லப்பட்ட உணவகம் ஒன்றிற்கு எதிராக தொடரப்பட்ட வழக்கில் உணவக உரிமையாளருக்கு 36 ஆயிரம் ரூபாய் தண்டப்பணம் விதிக்கப்பட்டுள்ளது.
+Meanwhile, a restaurant owner has been fined Rs 36,000 in the case against a restaurant in the temple environment.
+
+Hundreds of people visit the Historical Sabha Temple daily for worship and for wedding ceremonies at the temple.
 
 ...
 
 [Data](articles/87a0a001.json)
 
+[Extended Data](ext_articles/87a0a001.ext.json)
+
 ---
 
-### ඉන්ධන ගැන ආරංචියක්
+### News about fuel
 
 *2024-02-16 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193469) · `si`
 
-ඛනිජ තෙල් සඳහා පවතින ගෝලීය ඉල්ලුමේ වර්ධනය මන්දගාමී වී ඇති බව ජාත්‍යන්තර බලශක්ති ඒජන්සිය පවසයි.
+The development of global demand for petroleum has slowed down, says the International Energy Agency.
+
+They also said that due to the increase in production in outside the OPEC, they have had a surplus.
+
+The International Energy Agency has revealed that the global fuel consumption has fallen by 35% in the fourth quarter of 2023.
+
+The main reason for this deviation is considered to be considered slowly as slow.
+
+According to the International Energy Agency, the top 2024 global fuel demand per day is about 1.2 million barrels per day.
+
+It also pointed out that it was half of last year's growth, and the International Energy Agency.
+
+OPEC Plus UPFA has increased by about 1.6 million barrels per day.
+
+Those major countries are the United States, Brazil, Canada, and Guana.
+
+The International Energy Agency expects that global oil prices will remain stable throughout the year 2024.
+
+The price of a barrel of Brent in the world market is recorded today as $ 82 and 51 cents.
 
 ◼️
 
 [Data](articles/dc071d62.json)
 
+[Extended Data](ext_articles/dc071d62.ext.json)
+
 ---
 
-### ලොරෙන්සෝ පුතාගෙන් ඇහෙන කඳුළු කතාව
+### Tears that hear lorenso son
 
 *2024-02-16 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193468) · `si`
 
-"ලොරේන්සෝ පුතා 04" බහුදින ධීවර යාත්‍රාවේ ධීවරයින් සයදෙනා කඩිනමින් දිවයිනට ගෙන්වා ගන්නා ලෙස ධීවරයින් සහ ඔවුන්ගේ ඥාතීන් බලධාරීන්ගෙන් ඉල්ලීමක් කරයි.
+"Fishermen and their relatives request the authorities to bring six fishermen on the island soon.
 
-සෝමාලියානු මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයෙන් ඉකුත් 29 වැනිදා ධිවරයින් පිරිස මුදාගැනුණු ද නීතිමය කටයුතු හේතුවෙන් එම පිරිස තවමත් පසුවන්නේ සීෂෙල්ස් ආරක්ෂක අංශ භාරයේය.
+The ceasinghe is still in custody by the legal proposals of the Somali pirates.
 
-දික්ඕවිට ධීවර වරායෙන් ධීවරයින් 06 දෙනෙකු සමඟින් ගමන් ඇරඹු "ලොරේන්සෝ පුතා 04" බහුදින ධීවර යාත්‍රාව පසුගිය 27 වනදා අරාබි මුහුදේදී සෝමාලියානු මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්ව තිබිණි.
+"Lorcenso Son, son of Lorcesso," the 4-month-old fishing vessel began in Arabic on the 27th of the April.
 
-ඉන් දින දෙකකට පසුව එම යාත්‍රාව ධීවරයින් 6 දෙනා ද සමඟ නිරුපද්‍රිතව මුදාගැනීමට සීෂෙල්ස් නාවික හමුදාව සමත්වුණි.
+Seychelles, the Navy, was released with the six fishermen after two days.
 
-එලෙස සීෂෙල්ස් නාවික හමුදාව භාරයට පත්වූ මෙරට ධීවරයින් 06 දෙනා සීෂෙල්ස්හි වික්ටෝරියා අගනුවර වරාය වෙත ආරක්ෂිතව රැගෙන යාමට පියවර ගැනුණි.
+Six of the Sri Lankan fishermen who were seized by the Navy in Sri Lanka were taken to the port of Seychelles to the Port of Seychelles.
 
-කෙසේවෙතත් එම ධීවරයින් තවමත් එම වරායේ ආරක්ෂක අංශ භාරයේ පසුවන අතර තමන් කඩිනමින් දිවයිනට ගෙන්වා ගන්නා ලෙස ඔවුන් බලධාරීන්ගෙන් ඉල්ලීමක් කරයි.
+However, the fishermen are still in the custody of the security forces and they requested the authorities to bring them to the island soon.
 
-මේ අතර "ලොරේන්සෝ පුතා 04" යාත්‍රාවේ ධීවරයින් මෙරටට ගෙන්වාගැනීම සම්බන්ධයෙන් ධීවර දෙපාර්තමේන්තුවෙන් අප විමසීමක් කළේය.
+Meanwhile, we inquired from the Fisheries Department to bring the Lorcenso son 04.
+
+Director General of the Fisheries and Aquatic Resources Department,
 
 ...
 
 [Data](articles/5841496f.json)
 
+[Extended Data](ext_articles/5841496f.ext.json)
+
 ---
 
-### ஒக்சிசன் கொள்வனவிற்காக வழங்கப்பட்ட நிதியில் தரம்குறைந்த மருந்துகள் கொள்வனவு - நீதிமன்றில் தகவல்
+### Purchase of Quality Drugs in Funds provided for Oxisan Purchase - Information in court
 
 *2024-02-16 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176540) · `ta`
 
-ஒக்சிசன் கொள்வனவு செய்வதற்கு வழங்கப்பட்ட நிதியை பயன்படுத்தி  தரம்குறைந்த மருந்து கொள்வனவு செய்யப்பட்டமை  தெரியவந்துள்ளது.
+It has been revealed that the low -quality drug has been used using the funds provided for the purchase of oxygen.
 
-ஒக்சிசன் கொள்வனவிற்காக வழங்கப்பட்ட 14.5 மில்லியன் ரூபாயினை தரம்குறைந்த இம்யுனோகுளோபுலின் ஊசியை கொள்வனவு செய்வதற்காக குறிப்பிட்ட விநியோகஸ்தரிடம் சுகாதார அமைச்சு வழங்கியுள்ளதாக பிரதிசொலிசிட்ட ஜெனரல் லக்மினி கிரிஹாகம மாளிகாகந்த நீதவான் முன்னிலையில் தெரிவித்துள்ளார்.
+General Lakhmini Girihagama Malikakanda said that the Ministry of Health has given a specific distributor to purchase the injection of Immunoglobulin injected by a low -level immunoglobulin injection of Rs.
 
-சுகாதார அமைச்சராக பணியாற்றியவேளை 8வது சந்தேகநபர்  மருந்து தட்டுப்பாடு காரணமாக நாட்டில் சுகாதாரதுறை வீழ்ச்சியடையும் என தெரிவித்து  அவசரஅவசரமாக மருந்துகளை கொண்டுவருவதற்காக சில கட்டுப்பாடுகளை ஏன் தளர்த்தினார் என்பது குறித்து விசாரணைகளை சிஐடியினர் முன்னெடுத்துள்ளனர் எனவும் பிரதிசொலிசிட்டர் ஜெனரல் தெரிவித்துள்ளார்.
+The Deputy Stool Commissioner said that the 8th suspect was working as a Health Minister and the CIT was carrying out investigations as to why the health sector would fall in the country due to the shortage of drugs.
 
-இதேவேளை அமைச்சரவைக்கு சமர்ப்பிக்கப்பட்டுள்ள ஆவணங்களில் உள்ள கையெழுத்துக்களுடன் முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெலவின் கையெழுத்துக்கள் பொருந்துகின்றனவா என ஆராயுமாறு நீதவான் உத்தரவிட்டுள்ளார்.
+Meanwhile, the magistrate has ordered that the signatures of former Health Minister Keheliya Rambukwella fit into the signatures of the documents submitted to the Cabinet.
 
 ◼️
 
 [Data](articles/e4a58f3a.json)
+
+[Extended Data](ext_articles/e4a58f3a.ext.json)
 
 ---
 
@@ -144,17 +176,19 @@ According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be a
 
 ---
 
-### 2024 LPL පැවැත්වෙන්නේ මෙහෙමයි
+### 2024 LPL will be held
 
 *2024-02-16 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193467) · `si`
 
-2024 LPL තරගාවලිය එළඹෙන ජුලි මාසයේදී පැවැත්වෙන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි.
+Sri Lanka Cricket announced that the 2024 LPL tournament will be held in July.
 
-ඒ අනුව ජුලි 01 වනදා සිට ජුලි 21 වනදා දක්වා එම තරගාවලිය පැවැත්වෙයි.
+Accordingly, the tournament will be held from July 1 to July 21.
 
 ◼️
 
 [Data](articles/41faeeb1.json)
+
+[Extended Data](ext_articles/41faeeb1.ext.json)
 
 ---
 
@@ -192,29 +226,33 @@ The water supply and drainage board says that the water cut will be imposed from
 
 ---
 
-### හෙදියන්ටත් රු25000 ක් ?
+### Nurses too?
 
 *2024-02-16 14:10:14* · [`adalk`](https://www.ada.lk/breaking_news/හෙදියන්ටත්-රු25000-ක්--/11-408125) · `si`
 
-සෞඛ්‍යය සේවාවේ වෘතීය සමිති 72ක් ඒකාබද්ධවී සිදුකල වැඩවර්ජනය පසුගියදා තාවකාලිකව නවතා දැමුනා. සෞඛය අමාත්‍යවරයා හා මුදල් අමාත්‍යංශ නිලධාරීන් සමග සිදුකල සාකච්ඡාවේදී ඊට අදාල වෘතීය සමිති සංගම් නියොජිතයන් කිසිදු එකඟතාවයකට පත්ව තිබුනේ නැහැ.
+The strike was conquered by 72 Vocational Societies in Health Service recently. In the discussion with the Minister of Health and the Ministry of Finance, the various professional union associations have not been agreed.
 
-එක්සත් හෙඳ සංගමයට අයත් හෙද සේවයේ නියුතුවූවන් මෙම වර්ජනයට එක් නොවූවද අදාල දීමනා ලබා ගැනීම සඳහා සාඛච්චා සඳහා එක්ව තිබුනා. එක්සත් හෙඳ සංගමයේ සභාපති පූජ්‍ය මුරුත්තෙට්ටුවේ  ආනන්ද හිමියන් පවසන පරිදි තමන්ට මේසඳහා සාධනීය ප්‍රතිචාර ලැබී ඇති බවත්, එළඹෙන 19වැනි සඳදා දින ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමග සාකච්ඡාවෙදී එම දීමනාව ලෙස රු25000ක් ඉල්ලා සිටින බවත් පැවසූහ. ඒ්සඳහාද තමන්ට යහපත් ප්‍රථිචාර ලැබෙනු ඇතැයි උන්වහවහන්සේ වැඩිදුරටත් පවසා සිටියහ.
+Those who have been in the nurses in the United States Union have participated in the number of persons to obtain relevant allowances. According to the President of the United Association Ven.. He further stated that they would have good results.
 
 ◼️
 
 [Data](articles/45c9c2c8.json)
 
+[Extended Data](ext_articles/45c9c2c8.ext.json)
+
 ---
 
-### கொழும்பு தேசிய வைத்தியசாலையின் பிரதி பணிப்பாளரின் அலுவலகத்தை முற்றுகையிட்ட ஊழியர்கள்
+### Employees who blocked the office of the Deputy Director of the Colombo National Hospital
 
 *2024-02-16 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176533) · `ta`
 
-கொழும்பு தேசிய வைத்தியசாலையின் பிரதி பணிப்பாளர் வைத்தியர் ருக்ஷான்பெல்லன அவரது அலுவலக வளாகத்தில்  ஊழியர்களால் பலவந்தமாக தடுத்துவைக்கபட்டுள்ளதாக கூறப்பட்டுள்ளது.
+Deputy Director of the Colombo National Hospital, Dr. Rukshanbellna, has been forcibly detained by staff at his office premises.
 
 ◼️
 
 [Data](articles/2511169f.json)
+
+[Extended Data](ext_articles/2511169f.ext.json)
 
 ---
 
@@ -304,21 +342,23 @@ The people of Tirukovil district have expressed their gratitude to the Governor 
 
 ---
 
-### 5 மாதத்திற்குள் நிறைவேற்றி விட்டார் செந்தில்
+### Senthil has passed within 5 months
 
 *2024-02-16 13:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/5-மாதத்திற்குள்-நிறைவேற்றி-விட்டார்-செந்தில்/74-333312) · `ta`
 
-யுத்தத்தால் பாதிக்கப்பட்ட அம்பாறை மாவட்டத்தின் திருக்கோவில் பிரதேசத்தைச் சேர்ந்த மக்களுக்கு ஐந்து மாதக் காலத்தில்  கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால்  வீடுகள் நிர்மாணிக்கப்பட்டு கையளிக்கப்பட்டது.
+The houses were constructed and handed over by the Governor of the Eastern Province Senthil Thondaman for five months.
 
-யுத்தத்தால் பாதிக்கப்பட்ட அம்பாறை மாவட்டம் திருக்கோவில் பிரதேசத்தை சேர்ந்த  மக்கள், வீடுகள் இன்றி இன்னல்களுக்கு முகம்கொடுத்து வந்த நிலையில், இவ்விடயம் தொடர்பாக   அம்பாறை மாவட்ட அரச அதிபர், திருக்கோயில் பிரதேச செயலாளர், அரச உத்தியோகஸ்தர்கள் மற்றும் பொதுமக்களால் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானின் கவனத்திற்கு கொண்டு வரப்பட்டது.
+The people of the Ampara district, who were affected by the war, were brought to the notice of the Eastern Province Governor Senthil Thondaman by the Government Agent, Tirukoil Divisional Secretary, Government Officers and the public.
 
-ஆளுநர் செந்தில் தொண்டமான் அம்பாறை மாவட்டத்தில் திருக்கோவில் பிரதேசத்திற்கு விஜயம் மேற்கொண்டு, மக்களின் குறைகளை கேட்டறிந்து மக்களின் கோரிக்கையை ஏற்று ஐந்து மாதக் காலத்திற்குள் அவர்களுக்கான வீடுகளை நிர்மாணித்து அம்மக்களிடம் கையளித்துள்ளார்.
+Governor Senthil Thondaman visited the Tirukovil area in the Ampara district and heard the grievances of the people and handed over their houses within five months.
 
-திருக்கோவில் மாவட்ட  மக்கள் தங்களது கோரிக்கையை குறுகிய காலத்தில் நிறைவேற்றியமைக்காக கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானுக்கும் திருக்கோயில் பிரதேச செயலாளருக்கும் தங்களது நன்றிகளை தெரிவித்துள்ளனர். R
+The people of Tirukovil district have expressed their gratitude to the Governor of the Eastern Province Senthil Thondaman and the Divisional Secretary of the Eastern Province for fulfilling their demands in a short time.. Remble
 
 ◼️
 
 [Data](articles/dee43b63.json)
+
+[Extended Data](ext_articles/dee43b63.ext.json)
 
 ---
 

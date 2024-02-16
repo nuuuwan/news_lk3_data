@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 11:33:04**
+As of **2024-02-16 11:52:00**
 
 ## Newspaper Stats
 
@@ -26,47 +26,53 @@ dailymirrorlk | 1,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,416 (99.9%) of 7,421 articles have been extended.
+7,421 (100.0%) of 7,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
 
-### රේගු අකුරට වැඩකිරීමේ වෘත්තීය ක්‍රියාමාර්ගය අවසන්
+### Working procedure for Customs Code is over
 
 *2024-02-16 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193456) · `si`
 
-රේගු දෙපාර්තමේන්තුවේ වෘත්තීය සමිති මගින් ක්‍රියාවට නංවා තිබූ අකුරට වැඩ කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගය අවසන් කර තිබේ.
+The trade union action has been completed by the Customs Department's trade unions.
 
-උසස්වීම් ඇතුළු ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් මෙම වෘත්තීය සමිති ක්‍රියාමාර්ගය ආරම්භ කර තිබුණි.
+The trade union action was initiated, including promotions and the trade union action had begun.
 
-මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා සහ ජනාධිපති ලේකම් සමන් ඒකනායක මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුව වෘත්තීය ක්‍රියාමාර්ගය අත්හිටවූ බව රේගු වෘත්තීය සමිති නියෝජිතයින් පවසයි.
+Customer Trade Union Representatives said that the trade union representative was suspended after a discussion with Minister of State, Ranjith Siyambalapitiya and Presidential Secretary Saman Ekanayake.
 
 ◼️
 
 [Data](articles/29575dde.json)
 
+[Extended Data](ext_articles/29575dde.ext.json)
+
 ---
 
-### ගණේමුල්ල සංජීවගේ මත්ද්‍රව්‍ය ජාලයේ දෙදෙනෙක් කොටුවෙති
+### Two drugs in Ganeja's drug network
 
 *2024-02-16 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193455) · `si`
 
-ගණේමුල්ල සංජීවගේ ප්‍රධාන සගයන් දෙදෙනෙකු වන "පෑලියගොඩ ශක්ති" හා "දිප්පිටිගොඩ ළහිරු" යන දෙදෙනා සමඟ සමීප සම්බන්ධතා පවත්වමින් ඔවුන්ගේ මත්ද්‍රව්‍ය ජාවාරම් කළ බවට සැකපිට පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Two major colleagues of Ganejawa's main colleagues, "Peliyagoda Shakthi" and their drug dealer has been arrested.
 
-සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙස සැකකෙරෙන ගණේමුල්ල සංජීව මේ වනවිට පොලිස් අත්අඩංගුවේ පසුවෙයි.
+Sanjeewa is currently in police custody as an organized criminal criminal leader and a drug dealer.
 
-යුක්තිය මෙහෙයුම යටතේ ඊයේ  (15) බුළුගහ හන්දිය, කැලණිය ප්‍ර‍දේශයේ සිදුකළ වැටලීමක දී මෙම සැකකරුවන් දෙදෙනා පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරී කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන ඇත.
+The two suspects have been arrested by the STF officer in the Kelaniya junction in the Kelaniya Junction yesterday (15) under justice.
 
-ඔවුන් පැමිණි ත්‍රීරෝද රථය පරීක්ෂා කිරීමේදී එහි තිබී අයිස් මත්ද්‍රව්‍ය  62gයි 900mgක්, විද්‍යුත් තරාදියක් හා මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් රුපියල් 38,330ක් පොලිස් භාරයට ගෙන තිබුණි.
+The three-wheeler was taken by the police, 62g, a 900mm, an electronic and drug department, was taken into custody.
 
-සැකකරුවන් කැලණිය සහ වත්තල ප්‍රදේශවල පදිංචිව සිටින 32 හැවිරිදි සහ 34 හැවිරිදි  පුද්ගලයන් දෙදෙනෙකි.
+The suspects are 32-year-old and 34-year-old residents of Kelaniya and Wattala.
 
-වැඩිදුර ප්‍රශ්න කිරීමේ දී අනාවරණය වී ඇත්තේ එක් සැකකරුවෙකු 2022 වර්ෂයේදී "පොලිස් අත්තනායක" යන පුද්ගලයාව වෙඩිතබා ඝාතනයට ආධාර අනුබලදීමේ චෝදනාව මත අත්අඩංගුවට ගෙන ඇප මත මුදා හැර සිටින පුද්ගලයෙකු බවයි.
+In further interrogation, one suspect is said to be arrested on charges of supporting the murder in 2022 and released on bail.
 
-...
+The two suspects have been handed over to the Peliyagoda Police for further investigations.
+
+◼️
 
 [Data](articles/5b675c9b.json)
+
+[Extended Data](ext_articles/5b675c9b.ext.json)
 
 ---
 
@@ -812,13 +818,15 @@ Sri Lanka has stabilized its economy and economic activities are recovered, but 
 
 *2024-02-16 06:14:34* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-diplomatic-odyssey-NPP-s-foray-into-India-and-the-road-ahead/4-758547) · `en`
 
-This move by India is not merely diplomatic; it symbolises a calculated strategy to
+This move by India is not merely diplomatic; it symbolises a calculated strategy to position the NPP as a significant regional player
 
 The recent five-day sojourn of Anura Kumara Dissanayake, leader of the National People’s Power (NPP), and his delegation to India has become a focal point in Sri Lanka’s political discourse. In an unprecedented move, the Indian Government extended an official invitation to NPP leaders, signalling a departure from conventional diplomatic interactions. As the visit unfolded, it not only deepened bilateral ties but also shed light on the evolving political dynamics within Sri Lanka, presenting both challenges and opportunities for the NPP.
 
 ...
 
 [Data](articles/2085d065.json)
+
+[Extended Data](ext_articles/2085d065.ext.json)
 
 ---
 
@@ -897,6 +905,8 @@ On 31 January the President’s Media Division (PMD) released a public document.
 ...
 
 [Data](articles/21c2aec0.json)
+
+[Extended Data](ext_articles/21c2aec0.ext.json)
 
 ---
 

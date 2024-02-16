@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 16:03:03**
+As of **2024-02-16 16:17:16**
 
 ## Newspaper Stats
 
-*Scraped **7,481** Articles*
+*Scraped **7,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 639
 tamilmirrorlk | 915
 adaderanalk | 917
 virakesarilk | 981
-adaderanasinhalalk | 1,063
+adaderanasinhalalk | 1,064
 dailymirrorlk | 1,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,481 (100.0%) of 7,481 articles have been extended.
+7,481 (100.0%) of 7,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### ලබන සතියේ පාර්ලිමේන්තුව දින 3ක්
+
+*2024-02-16 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193471) · `si`
+
+එළඹෙන 20, 21 සහ 22 යන දිනවල පාර්ලිමේන්තුව රැස්වීමට ඊයේ (15) රැස්වූ පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය කර ඇත.
+
+පෙබරවාරි 22 වන බ්‍රහස්පතින්දා පෙරවරු 9.30 සිට පස්වරු 5.30 දක්වා අභාවප්‍රාප්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා වෙනුවෙන් ශෝකය පළ කිරීමේ යෝජනාව ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/819a4560.json)
+
+---
 
 ### President calls for intervention to solve health care issues
 
@@ -2023,25 +2037,5 @@ The recent five-day sojourn of Anura Kumara Dissanayake, leader of the National 
 [Data](articles/d4a197c8.json)
 
 [Extended Data](ext_articles/d4a197c8.ext.json)
-
----
-
-### Heavy rains into several districts
-
-*2024-02-16 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193439) · `si`
-
-Several spells of showers in Polonnaruwa, Matale and Nuwara Eliya districts will experience the Eastern and Uva provinces.
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Province and in the Galle and Matara districts.
-
-Northern, North-Central, North Western, Uva and Eastern Provinces. It is informed that some 30 and 40 can cause strong winds.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/b13c4254.json)
-
-[Extended Data](ext_articles/b13c4254.ext.json)
 
 ---

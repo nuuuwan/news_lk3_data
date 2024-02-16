@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 17:02:42**
+As of **2024-02-16 17:17:25**
 
 ## Newspaper Stats
 
-*Scraped **7,497** Articles*
+*Scraped **7,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 385
 economynextcom | 393
 dailyftlk | 402
-adalk | 639
+adalk | 641
 tamilmirrorlk | 915
 adaderanalk | 919
 virakesarilk | 983
-adaderanasinhalalk | 1,065
+adaderanasinhalalk | 1,066
 dailymirrorlk | 1,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,495 (100.0%) of 7,497 articles have been extended.
+7,497 (100.0%) of 7,500 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,28 @@ Moreover, Orders under the Strategic Development Act published under the Extraor
 ...
 
 [Data](articles/5086cc98.json)
+
+[Extended Data](ext_articles/5086cc98.ext.json)
+
+---
+
+### නාරම්මල පොලිස් වෙඩිල්ල - මියගිය රොෂාන්ගේ බිරිඳ රු මි 200ක වන්දියක් ඉල්ලයි
+
+*2024-02-16 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193473) · `si`
+
+ඉකුත්දා මහත් ආන්දෝලනයකට තුඩු දුන් නාරම්මල පොලීසියේ නිලධාරීයෙකු විසින් ලොරි රථ රියදුරෙකු වෙඩි තබා මරා දැමීම තුළින් සිදුවූ මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කිරීම වෙනුවෙන් වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් ඇතුළු වග උත්තරකරුවන්ගෙන් රුපියල් මිලියන 200ක වන්දියක් අයකර දෙන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+එම සිද්ධියෙන් මියගිය රොෂාන් කුමාරසිරි නමැත්තා වෙනුවෙන් ඔහුගේ බිරිඳ වන කමනි රූපිකා ප්‍රියංගනී මහත්මිය විසින් මෙම පෙත්සම ඉදිරිපත් කළේය.
+
+එහි වග උත්තරකරුවන් ලෙස නාරම්මල පොලීසියේ උප පොලිස් පරීක්ෂක කේ. ගුණවර්ධන,  පොලිස් කොස්තාපල් කේ.එම්. චමුදිත බණ්ඩාර කුළසේකර නාරම්මල පොලීසියේ ස්ථානාධිපතිවරයා, වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් සහ නීතිපතිවරයා නම් කර තිබේ.
+
+ඉකුත් ජනවාරි මස තම සැමියා ලොරියකින් ගමන් කරමින් සිටියදී "යුක්තිය" මෙහෙයුමේ නිරතව සිටි නාරම්මල පොලිසියේ උප පොලිස් පරීක්ෂක කේ. ගුණවර්ධන විසින් එල්ල කළ වෙඩි ප්‍රහාරයෙන්  ඔහු මරණයට පත් වූ බවය.
+
+මීට අදාළව සිදුකෙරුණු පශ්චාත් මරණ පරීක්ෂණයේ දී තම සැමියා වෙඩි පහරකින් මියගිය බව අනාවරණය වූ බවත් එහි සඳහන් වෙයි.
+
+...
+
+[Data](articles/e0cd4279.json)
 
 ---
 
@@ -74,27 +96,31 @@ Hundreds of people visit the Historical Sabha Temple daily for worship and for w
 
 ---
 
-### சோரா ; எழுத்துரு ஆவணத்தை கொண்டு காணொளி
+### Sora;Video with the font document
 
 *2024-02-16 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176542) · `ta`
 
-எழுத்துரு ஆவணத்தை கொண்டு காணொளியை உருவாக்கும் கருவியை சட் ஜிபிடியை (ChatGPT) உருவாக்கி ஓபன் ஏஐ நிறுவனம் வியாழக்கிழமை அறிமுகப்படுத்தியுள்ளது.
+Open AI launched the ChatGPT on Thursday with a font document.
 
-இதற்கு சோரா என யெரிடப்பட்டுள்ளது. சோரா என்ற  ஜப்பானிய சொல்லுக்கு வானம் என அர்த்தம்.
+This is called Sora. The Japanese word Sora means the sky.
 
-இதன்மூலம், எழுத்துரு ஆவணத்தில் வழங்கப்படும் விடயம் மற்றும்  வடிவம்  தொடர்பான அறிவுறுத்தல்களுக்கு இணங்க ஒரு நிமிடத்தில் யதார்த்தபூர்வமான காட்சிகளை உருவாக்க முடியும்.
+Thereby, a realistic scenes can be created in a minute in accordance with the instructions and form of the form of the font document.
 
-மனதிலுள்ள ஒரு படத்தின் அடிப்படையில் ஒரு காணொளியை உருவாக்கலாம் அல்லது புதிய உள்ளடக்கத்துடன் இருக்கும் காட்சிகளை நீடிக்க முடியும் என தெரிவிக்கப்படுகிறது.
+It is reported that a video can be created based on a picture of the mind, or the new contents can be prolonged.
 
-சோராவை ஒரு சில ஆராய்ச்சியாளர்கள் மற்றும் காணொளி படைப்பாளர்கள்  மட்டுமே பயன்படுத்த முடியும் என நிறுவனம் அறிவித்துள்ளது.
+The company has announced that only a few researchers and video creators can use Sora.
 
-ஓபன் ஏஐ சேவை விதிமுறைகளை மீறும் செயற்பாடுகளை சோராவின் பின்புலத்தில் இருந்து "சிவப்பு குழு" வல்லுநர்கள் சோதனை செய்வார்கள்.
+Experts will test the "red group" from Sorah's background to violate the Open AI Service.
 
-அதாவது, "தீவிர வன்முறை, பாலியல் உள்ளடக்கம், வெறுக்கத்தக்க படங்கள், பிரபலங்களின் தோற்றம் அல்லது மற்றவர்களின் ஐபி" போன்றவற்றை தடைசெய்யும்.
+That is, "serious violence, sexual content, hateful images, the appearance of celebrities or the IP of others".
 
-...
+Sora can only be used for researchers, visual artists and filmmakers. "There is a Watermark to ensure that videos were created by AI," said Sam Altman, chief executive officer of the company.
+
+◼️
 
 [Data](articles/e05f2887.json)
+
+[Extended Data](ext_articles/e05f2887.ext.json)
 
 ---
 
@@ -185,6 +211,22 @@ The suspects were arrested by the Meegoda police yesterday following a complaint
 [Data](articles/d56c3e07.json)
 
 [Extended Data](ext_articles/d56c3e07.ext.json)
+
+---
+
+### රනිල්ගේ සහාය ඊශ්‍රායලට
+
+*2024-02-16 15:31:32* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-සහාය-ඊශ්‍රායලට/11-408129) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඊශ්‍රායලයේ ප්‍රවාහන හා මාර්ග ආරක්ෂාව පිළිබඳ අමාත්‍ය බ්‍රිගේඩියර් ජෙනරල් මිරි රෙගෙව් (Brig. Gen. Miri Regev) මහත්මිය අතර හමුවක් අද (16) ජනාධිපති කාර්යාලයේ දී සිදුවුනා.
+
+හමාස් සටන්කාමීන් විසින් ප්‍රාණ ඇපයට ගත් ඊශ්‍රායල ජාතිකයන් ආපසු ගෙන්වා ගැනීමට ඊශ්‍රායලයට ශ්‍රී ලංකාවේ සහාය අඛණ්ඩව හිමිවන බවත්, ගාසා තීරයේ ගැටුම් වහා නැවැත්විය යුතු බවත් ජනාධිපතිවරයා මෙහිදී සඳහන් කෙරුනා.
+
+රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් මෙහිදී කියාසිටියේ  ඊශ්‍රායල රාජ්‍යයේ ආරක්ෂාව තහවුරු කරමින් පලස්තීන රාජ්‍ය පිහිටුවීම සඳහා ශ්‍රී ලංකාව සහාය පළ කරන බවයි.
+
+◼️
+
+[Data](articles/3113a319.json)
 
 ---
 
@@ -345,6 +387,22 @@ Accordingly, the tournament will be held from July 1 to July 21.
 [Data](articles/41faeeb1.json)
 
 [Extended Data](ext_articles/41faeeb1.ext.json)
+
+---
+
+### බීමත්ව රාජකාරී කළ උප පොලිස් පරික්ෂකට වැඩ වරදියි
+
+*2024-02-16 14:42:49* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-රාජකාරී-කළ-උප-පොලිස්-පරික්ෂකට-වැඩ-වරදියි/11-408126) · `si`
+
+බීමත්ව  රාජකාරියේ නිරතව  සිටි බවට  නිකවැරටිය  මූලස්ථාන පොලීසියේ  නිලධාරීයෙකුගේ වැඩ තහනම් කර තිබේ.
+
+නිකවැරටිය මූලස්ථාන පොලීසියට  අනුයුක්තව  සේවය කරණ  උප පොලිස් පරීක්ෂකවරයෙකු පෙර දින රාත්‍රියේ  බීමත්ව  පොලීසිය  තුල  මෙලෙස රාජකාරියේ  නිරනව සිටීම හේතුවෙන් මෙම වැඩතහනමට ලක්කර තිබේ.
+
+අදාල  නිලධාරීයා වෛද්‍ය පරීක්ෂණ සඳහා  නිකවැරටිය මූලික රෝහලට  ඉදිරිපත් කිරීමෙන් අනතුරුව නිකවැරටිය කොට්ඨාශ බාර පොලිස් අධිකාරි වසන්ත කුමාර මහතා විසින් මෙම  වැඩතහනම ක්‍රියාත්මක කර තිබේ.
+
+◼️
+
+[Data](articles/6a91ee2a.json)
 
 ---
 
@@ -1989,67 +2047,5 @@ Former President Mahinda Rajapaksa says he will support the abolition of the Exe
 [Data](articles/486f29c7.json)
 
 [Extended Data](ext_articles/486f29c7.ext.json)
-
----
-
-### Sri Lanka manufacturing, services expand in Jan 2024: PMI
-
-*2024-02-16 07:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-services-expand-in-jan-2024-pmi-151141/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s manufacturing continued to expand in January 2024 with a pick-up in apparels while services also moved forward despite concerns over a hike in value added tax, according to a Purchasing Managers’ Index compiled by the central bank.
-
-The PMI for Manufacturing was above 50 at 55.6 in January 2024, up from 52.7 in December.
-
-“The expansion in New Orders and Production was largely driven by the manufacture of textiles & apparel sector,” the statement said.
-
-“However, New Orders and Production in the manufacture of food & beverages sector decreased on a month-on-month basis due to the decline in demand with the end of December festival season.
-
-“Meanwhile, Employment and Stock of Purchases expanded during the month in line with the New Orders and Production.”
-
-Delivery times had lengthened with the disruption in shipping through the Red Sea.
-
-...
-
-[Data](articles/7fe161b8.json)
-
-[Extended Data](ext_articles/7fe161b8.ext.json)
-
----
-
-### Convention on direct flights between Israel and Sri Lanka
-
-*2024-02-16 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193443) · `si`
-
-Minister of Ports, Naval and Aviation, says that a direct aviation compromise between Israel and Sri Lanka were signed between Sri Lanka.
-
-He referred to the main objective of this agreement to prevent the delay in foreign workers.
-
-Speaking on the Colombo Port, he stated that the expansion is being implemented.
-
-◼️
-
-[Data](articles/7c5117a2.json)
-
-[Extended Data](ext_articles/7c5117a2.ext.json)
-
----
-
-### Another suspect in monk is trapped
-
-*2024-02-16 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193442) · `si`
-
-A suspect has been arrested in connection with the killing of a monk shooting at a temple in Malwathuhiripitiya.
-
-The suspect was about 10 milligrams of manufactured manufactured and ice drugs in the possession of the suspect.
-
-Police said the suspect would be directly involved in the crime.
-
-Western Province North Criminal Division is conducting further investigations.
-
-◼️
-
-[Data](articles/2fe0bef7.json)
-
-[Extended Data](ext_articles/2fe0bef7.ext.json)
 
 ---

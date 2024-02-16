@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 11:52:00**
+As of **2024-02-16 12:03:08**
 
 ## Newspaper Stats
 
-*Scraped **7,421** Articles*
+*Scraped **7,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 385
 economynextcom | 387
 dailyftlk | 402
 adalk | 633
-tamilmirrorlk | 903
-adaderanalk | 905
+tamilmirrorlk | 904
+adaderanalk | 907
 virakesarilk | 974
 adaderanasinhalalk | 1,051
 dailymirrorlk | 1,086
@@ -26,11 +26,57 @@ dailymirrorlk | 1,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,421 (100.0%) of 7,421 articles have been extended.
+7,424 (100.0%) of 7,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### 10 -year -old girl murdered
+
+*2024-02-16 11:29:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/10-வயது-சிறுமியை-வன்புணர்ந்து-படுகொலை/72-333301) · `ta`
+
+A 10 -year -old girl was raped and murdered on Thursday night (15) at the village of Talaimannar.
+
+It is suspected that the little girl may have been raped and assassinated by a person who was employed to maintain a garden in the village of Talaimannar.
+
+The person lives with his wife in Talaimannar area. His wife has split because the husband is addicted to drugs.
+
+In this case, a nearby mother has been friendly with the suspect.
+
+It is reported that the suspect took her to the shop on Thursday evening when the girl was taken to the shop.
+
+The body of the girl has been recovered early morning (16) during the search for the help of the nearby CCTV cameras and the help of the people of the town.
+
+◼️
+
+[Data](articles/b9ea468f.json)
+
+[Extended Data](ext_articles/b9ea468f.ext.json)
+
+---
+
+### Putin urges Russians to have more kids, says ethnic survival at stake
+
+*2024-02-16 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97315/putin-urges-russians-to-have-more-kids-says-ethnic-survival-at-stake) · `en`
+
+Russian families must produce at least two children for the sake of the nation’s ethnic survival, and three or more if it is to develop and thrive, President Vladimir Putin said on Thursday.
+
+Russia has suffered heavy but undisclosed casualties since launching its war in Ukraine nearly two years ago, and hundreds of thousands of people have fled the country out of opposition to the conflict or fear of being called up to fight.
+
+Putin told employees at a tank factory in the Urals region that two children per family was the minimum number if the peoples of Russia were to preserve their identities.
+
+“If we want to survive as an ethnic group - well, or as ethnic groups inhabiting Russia - there must be at least two children,” he said.
+
+If each family had just one child, the population would shrink, he said. “And in order to expand and develop, you need at least three children.”
+
+...
+
+[Data](articles/8954f44a.json)
+
+[Extended Data](ext_articles/8954f44a.ext.json)
+
+---
 
 ### Working procedure for Customs Code is over
 
@@ -125,6 +171,28 @@ It is well known that India and China are involved in the World Wide Competition
 [Data](articles/1b2c43af.json)
 
 [Extended Data](ext_articles/1b2c43af.ext.json)
+
+---
+
+### Two more arrested over ‘poisoning’ of two suspects in police custody
+
+*2024-02-16 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97314/two-more-arrested-over-poisoning-of-two-suspects-in-police-custody) · `en`
+
+The main suspect and another have been arrested for allegedly aiding and abetting the recent ‘poisoning’ of two suspects who were detained in a cell at the Aduruppuveediya police station.
+
+The arrests were made by the Colombo Crimes Division (CCD) in the areas of Wattala and Kotahena on Thursday afternoon (Feb.15).
+
+The duo was apprehended with more than 23 grams of methamphetamine (‘Ice’). They were identified as residents of Wattala and Colombo 13, aged 25 and 32 years, respectively.
+
+Preliminary police investigations have revealed that the crime was carried out based on the directive of a notorious criminal who is currently hiding overseas. The CCD is probing the incident further.
+
+On February 07, two suspects who were held in a cell at the Aduruppuveediya police station had fallen critically ill after consuming a packet of milk handed to them by a visitor. The suspects in question had been arrested by the police over a recent shooting incident that took place in Jinthupitiya.
+
+...
+
+[Data](articles/418b39b7.json)
+
+[Extended Data](ext_articles/418b39b7.ext.json)
 
 ---
 
@@ -2013,59 +2081,5 @@ Investigations carried out by the Internal Audit Division of KPMG and Ceylon Oil
 [Data](articles/61b498fc.json)
 
 [Extended Data](ext_articles/61b498fc.ext.json)
-
----
-
-### OnmaxDT director has secretly left the country, court told
-
-*2024-02-15 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97302/onmaxdt-director-has-secretly-left-the-country-court-told) · `en`
-
-One of the six directors of the company ‘OnmaxDT’, who were arrested and later granted bail over allegations concerning the operating of a Pyramid scheme, has secretly fled the country.
-
-The investigation officers had revealed this to court when the case pertaining to the alleged financial fraud was taken up before the Colombo Magistrate’s Court today (15).
-
-Thus, the investigation officers have pointed out that the sixth suspect of the case, Dhananjaya Jayan Chamara had secretly left the country in this manner, and that investigations are underway with the assistance of Interpol, in order to trace and apprehend the suspect.
-
-Colombo Chief Magistrate Prasanna Alwis ordered the case to be postponed until May 02, 2024.
-
-...
-
-[Data](articles/381d50bb.json)
-
-[Extended Data](ext_articles/381d50bb.ext.json)
-
----
-
-### Kalpitiya Police Station
-
-*2024-02-15 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176481) · `ta`
-
-The Kalpitiya Police Station Superintendent has been fired on charges of sexually abusing a woman police constable.
-
-The Kalpitiya Police Station has been sacked as per the resolution of the Police Commission.
-
-◼️
-
-[Data](articles/bdffe41d.json)
-
-[Extended Data](ext_articles/bdffe41d.ext.json)
-
----
-
-### Two arrests on online fraudsters
-
-*2024-02-15 19:43:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-மோசடியாளர்கள்-இருவர்-கைது/175-333283) · `ta`
-
-The Criminal Investigation Department (CID) Computer Crime Unit has arrested two people in Gampaha on charges of defrauding money laundering using social media sites.
-
-Police Media Spokesperson Nihal Talduwa confirmed the arrested persons, and the suspects have received complaints from several persons.
-
-Officers confiscated national identity cards, driver's license and mobile phones from them. Remble
-
-◼️
-
-[Data](articles/0000808a.json)
-
-[Extended Data](ext_articles/0000808a.ext.json)
 
 ---

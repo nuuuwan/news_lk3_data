@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-16 17:17:25**
+As of **2024-02-16 17:33:37**
 
 ## Newspaper Stats
 
-*Scraped **7,500** Articles*
+*Scraped **7,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 641
 tamilmirrorlk | 915
 adaderanalk | 919
 virakesarilk | 983
-adaderanasinhalalk | 1,066
+adaderanasinhalalk | 1,067
 dailymirrorlk | 1,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,497 (100.0%) of 7,500 articles have been extended.
+7,500 (100.0%) of 7,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-16 (Friday)
+
+### අධිකරණය තුළදී සැකකරුවන් පිරිසක් ගුටි බැට හුවමාරුවක
+
+*2024-02-16 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193474) · `si`
+
+කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය ට අද (16) දින බන්ධනාගාරයේ සිට රැගෙන ආ සැකකරුවන් දෙපිරිසක් අධිකරණයේ සිරමැදිරිය තුළදී ගුටි බැට හුවමාරුකරගෙන ඇති බව වාර්තා වෙයි.
+
+ඒ හේතුවෙන් අධිකරණය තුළ ඇතිවූ නොසන්සුන්තාවය මත එහි කටයුතු වලට බාධා ඇතිවී ඇතැයි වාර්තා වෙයි.
+
+බන්ධනාගාරයේ සිට බස් රථ තුනකින් සැකකරුවන් 150කට ආසන්න පිරිසක් රැගෙනවිත් සිර මැදිරිය තුළ රඳවා සිටියදී එලෙස ඔවුන් අතර ගුටි බැට හුවමාරුවක් සිදුව ඇතැයි පොලීසිය පැවසීය.
+
+එම අවස්ථාවේදී බන්ධනාගාර නිලධාරීන් කිහිපදෙනෙකු සිර මැදිරිය තුළට ගොස් එම ගැටුම වළක්වාලීමට කටයුතු කර ඇත.
+
+ඒ හේතුවෙන් අධිකරණයේ කටයුතු විනාඩි කිහිපයකට නවතා දැමීමට ද සිදුව ඇති බව වාර්තා විය.
+
+පසුව දහවල් ආහාරය සඳහා අධිකරණ කටයුතු නවත්වන තෙක් අධිකරණය වෙත පැමිණි සිටි බාහිර පිරිස් අධිකරණයෙන් පිටතට යොමුකර බන්ධනාගාරයෙන් රැගෙන පැමිණි සැකකරුවන් පිළිබඳ නඩු විභාගයට ගැනීම සිදුකර තිබුණි.
+
+ඒ අනුව නැවත රක්ෂිත බන්ධනාගාර ගතකළ සැකකරුවන් පිරිසක් ඉක්මණින් බන්ධනාගාරය වෙත රැගෙන යාමට බන්ධනාගාර නිලධාරීන් කටයුතු කළ බවත් පසුව දිවා ආහාරයෙන් අනතුරුව සාමාන්‍ය පරිදි අධිකරණ කටයුතු සිදුකර ඇති බවත් වාර්තා වේ.
+
+◼️
+
+[Data](articles/0af9d646.json)
+
+---
 
 ### Parliament to meet three days next week
 
@@ -52,23 +76,29 @@ Moreover, Orders under the Strategic Development Act published under the Extraor
 
 ---
 
-### නාරම්මල පොලිස් වෙඩිල්ල - මියගිය රොෂාන්ගේ බිරිඳ රු මි 200ක වන්දියක් ඉල්ලයි
+### Narammala Police Wella - Dead Roshan's wife asks for Rs 200 million
 
 *2024-02-16 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193473) · `si`
 
-ඉකුත්දා මහත් ආන්දෝලනයකට තුඩු දුන් නාරම්මල පොලීසියේ නිලධාරීයෙකු විසින් ලොරි රථ රියදුරෙකු වෙඩි තබා මරා දැමීම තුළින් සිදුවූ මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කිරීම වෙනුවෙන් වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් ඇතුළු වග උත්තරකරුවන්ගෙන් රුපියල් මිලියන 200ක වන්දියක් අයකර දෙන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+A Narammala police officer who had recently led to the violent human rights officer, a fundamental rights petition has been filed in the Supreme Court to hold a larler's driver.
 
-එම සිද්ධියෙන් මියගිය රොෂාන් කුමාරසිරි නමැත්තා වෙනුවෙන් ඔහුගේ බිරිඳ වන කමනි රූපිකා ප්‍රියංගනී මහත්මිය විසින් මෙම පෙත්සම ඉදිරිපත් කළේය.
+Ms. Kamani Tithika Priyangani, his wife, was his wife, was his wife, for the victim of Roshan Kumarasiri.
 
-එහි වග උත්තරකරුවන් ලෙස නාරම්මල පොලීසියේ උප පොලිස් පරීක්ෂක කේ. ගුණවර්ධන,  පොලිස් කොස්තාපල් කේ.එම්. චමුදිත බණ්ඩාර කුළසේකර නාරම්මල පොලීසියේ ස්ථානාධිපතිවරයා, වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් සහ නීතිපතිවරයා නම් කර තිබේ.
+Narammala Police Visitor General as the respondents. Gunawardena, Police Constable K.M. Chamuditha Bandara Card, OIC, Acting Inspector General of Police, has been named Design Tennakoon and the Attorney General.
 
-ඉකුත් ජනවාරි මස තම සැමියා ලොරියකින් ගමන් කරමින් සිටියදී "යුක්තිය" මෙහෙයුමේ නිරතව සිටි නාරම්මල පොලිසියේ උප පොලිස් පරීක්ෂක කේ. ගුණවර්ධන විසින් එල්ල කළ වෙඩි ප්‍රහාරයෙන්  ඔහු මරණයට පත් වූ බවය.
+Narammala Police Sub Inspector, Narammala Police. He was killed by Gunawardena.
 
-මීට අදාළව සිදුකෙරුණු පශ්චාත් මරණ පරීක්ෂණයේ දී තම සැමියා වෙඩි පහරකින් මියගිය බව අනාවරණය වූ බවත් එහි සඳහන් වෙයි.
+It says that the husband had died in a shot at the post mortem examination.
+
+The petitioner has requested the court to prosecute his husband's death by the shooting of the husband of the police without any reasonable reason.
+
+The Supreme Court has requested the Supreme Court to issue an order to prepare a series of guidelines to be prepared by police officers to issue an order to issue a commander of Rs. 200 million.
 
 ...
 
 [Data](articles/e0cd4279.json)
+
+[Extended Data](ext_articles/e0cd4279.ext.json)
 
 ---
 
@@ -214,19 +244,21 @@ The suspects were arrested by the Meegoda police yesterday following a complaint
 
 ---
 
-### රනිල්ගේ සහාය ඊශ්‍රායලට
+### Ranil's support to Israel
 
 *2024-02-16 15:31:32* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-සහාය-ඊශ්‍රායලට/11-408129) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඊශ්‍රායලයේ ප්‍රවාහන හා මාර්ග ආරක්ෂාව පිළිබඳ අමාත්‍ය බ්‍රිගේඩියර් ජෙනරල් මිරි රෙගෙව් (Brig. Gen. Miri Regev) මහත්මිය අතර හමුවක් අද (16) ජනාධිපති කාර්යාලයේ දී සිදුවුනා.
+President Ranil Wickremesinghe and Israelite Transport and Road Safety Minister Brigadier General Miri Rule (BRIG. Gen. A meeting between Miri Regev was held at the Presidential Secretariat today (16).
 
-හමාස් සටන්කාමීන් විසින් ප්‍රාණ ඇපයට ගත් ඊශ්‍රායල ජාතිකයන් ආපසු ගෙන්වා ගැනීමට ඊශ්‍රායලයට ශ්‍රී ලංකාවේ සහාය අඛණ්ඩව හිමිවන බවත්, ගාසා තීරයේ ගැටුම් වහා නැවැත්විය යුතු බවත් ජනාධිපතිවරයා මෙහිදී සඳහන් කෙරුනා.
+The President also said that Israeli support continues to repatriate the Israeli nationals who were taken hostage to Hamas militants and that it should be stopped at Gaza.
 
-රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් මෙහිදී කියාසිටියේ  ඊශ්‍රායල රාජ්‍යයේ ආරක්ෂාව තහවුරු කරමින් පලස්තීන රාජ්‍ය පිහිටුවීම සඳහා ශ්‍රී ලංකාව සහාය පළ කරන බවයි.
+Ranil Wickremesinghe further stated that Sri Lanka is supporting the establishment of the Palestinian State to ensure the protection of the Israeli state.
 
 ◼️
 
 [Data](articles/3113a319.json)
+
+[Extended Data](ext_articles/3113a319.ext.json)
 
 ---
 
@@ -390,19 +422,21 @@ Accordingly, the tournament will be held from July 1 to July 21.
 
 ---
 
-### බීමත්ව රාජකාරී කළ උප පොලිස් පරික්ෂකට වැඩ වරදියි
+### Sub-inspection of drunken duties
 
 *2024-02-16 14:42:49* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-රාජකාරී-කළ-උප-පොලිස්-පරික්ෂකට-වැඩ-වරදියි/11-408126) · `si`
 
-බීමත්ව  රාජකාරියේ නිරතව  සිටි බවට  නිකවැරටිය  මූලස්ථාන පොලීසියේ  නිලධාරීයෙකුගේ වැඩ තහනම් කර තිබේ.
+The work of a headquarters police officer was suspended that he was on duty.
 
-නිකවැරටිය මූලස්ථාන පොලීසියට  අනුයුක්තව  සේවය කරණ  උප පොලිස් පරීක්ෂකවරයෙකු පෙර දින රාත්‍රියේ  බීමත්ව  පොලීසිය  තුල  මෙලෙස රාජකාරියේ  නිරනව සිටීම හේතුවෙන් මෙම වැඩතහනමට ලක්කර තිබේ.
+A sub-inspector attached to the Nikaweratiya Headquarters Police has been deployed as a result of the drunken police night.
 
-අදාල  නිලධාරීයා වෛද්‍ය පරීක්ෂණ සඳහා  නිකවැරටිය මූලික රෝහලට  ඉදිරිපත් කිරීමෙන් අනතුරුව නිකවැරටිය කොට්ඨාශ බාර පොලිස් අධිකාරි වසන්ත කුමාර මහතා විසින් මෙම  වැඩතහනම ක්‍රියාත්මක කර තිබේ.
+The officer was produced at the Nikaweratiya Base Hospital for medical examination and the program was implemented by Superintendent of Police Wasantha Kumara.
 
 ◼️
 
 [Data](articles/6a91ee2a.json)
+
+[Extended Data](ext_articles/6a91ee2a.ext.json)
 
 ---
 
@@ -2031,21 +2065,5 @@ President's Counsel Upul Kumarapperuma has been accused of illegal to a NGO of t
 [Data](articles/a260bb70.json)
 
 [Extended Data](ext_articles/a260bb70.ext.json)
-
----
-
-### Mahinda's help to abolish executive presidency
-
-*2024-02-16 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193444) · `si`
-
-Former President Mahinda Rajapaksa says he will support the abolition of the Executive Presidency.
-
-"There is no mess. Well done if it is. I'm on the one. The country's country is told to be lost. "
-
-◼️
-
-[Data](articles/486f29c7.json)
-
-[Extended Data](ext_articles/486f29c7.ext.json)
 
 ---

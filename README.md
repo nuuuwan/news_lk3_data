@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 17:33:11**
+As of **2024-02-17 17:52:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,677 (100.0%) of 7,679 articles have been extended.
+7,679 (100.0%) of 7,679 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -146,6 +146,8 @@ The deal is also to help pave the way towards Ukraine’s future integration int
 
 [Data](articles/22387b18.json)
 
+[Extended Data](ext_articles/22387b18.ext.json)
+
 ---
 
 ### Four primary schoolchildren hospitalized after consuming intoxicating pills
@@ -161,6 +163,8 @@ The students have been admitted to Kurunegala General Hospital due to an allergi
 ◼️
 
 [Data](articles/d267de6d.json)
+
+[Extended Data](ext_articles/d267de6d.ext.json)
 
 ---
 

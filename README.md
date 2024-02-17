@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 07:52:14**
+As of **2024-02-17 08:02:23**
 
 ## Newspaper Stats
 
-*Scraped **7,592** Articles*
+*Scraped **7,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 394
 economynextcom | 398
 dailyftlk | 415
 adalk | 645
-tamilmirrorlk | 922
-adaderanalk | 926
-virakesarilk | 999
+tamilmirrorlk | 923
+adaderanalk | 929
+virakesarilk | 1,000
 adaderanasinhalalk | 1,079
 dailymirrorlk | 1,117
 
@@ -26,11 +26,33 @@ dailymirrorlk | 1,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,592 (100.0%) of 7,592 articles have been extended.
+7,592 (99.9%) of 7,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### Afternoon thundershowers likely in some areas today
+
+*2024-02-17 07:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97338/afternoon-thundershowers-likely-in-some-areas-today) · `en`
+
+Several spells of light showers will occur in Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara-Eliya districts, says the Department of Meteorology.
+
+Showers or thundershowers may occur in parts of Western and Sabaragamuwa provinces and Galle and Matara districts after 2.00 p.m.
+
+Fairly strong winds of about 30-40 kmph can be expected at times in the eastern slopes of the central hills and Northern, North-central, North-western, Uva and Eastern provinces and Hambantota and Kandy districts.
+
+The public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers can occur at several places in the sea areas off the coast extending from Pottuvil to Galle via Hambantota.
+
+Winds will be north-easterly and wind speed will be 25-35 kmph.
+
+...
+
+[Data](articles/91746712.json)
+
+---
 
 ### Representatives of 37 countries to visit the island
 
@@ -53,6 +75,64 @@ The Agriculture Ministers of Agriculture will attend the summit in several other
 [Data](articles/e3f4d685.json)
 
 [Extended Data](ext_articles/e3f4d685.ext.json)
+
+---
+
+### Trump ordered to pay $354mn in New York civil fraud case
+
+*2024-02-17 07:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97337/trump-ordered-to-pay-354mn-in-new-york-civil-fraud-case) · `en`
+
+Former President Donald Trump must pay nearly $355 million (£281 million) to New York state for lying about the values of his properties, a judge has ruled.
+
+Judge Arthur Engoron also banned him from serving as a company director or taking out loans from banks in the state for three years.
+
+The New York real estate mogul escaped having some of his companies dissolved, which could have meant bankruptcy.
+
+Speaking from his Florida estate, Mr Trump said he would appeal the ruling.
+
+“A crooked New York state judge just ruled I have to pay a fine for $350 million for having built a perfect company,” the former president said from Mar-a-Lago on Friday, calling the ruling a political witch hunt.
+
+In the ruling on Friday, Judge Engoron referred to previous allegations of wrongdoing in justifying the large amounts he ordered the defendants to pay, writing that they “are likely to continue their fraudulent ways” unless he imposed a “significant” penalty.
+
+...
+
+[Data](articles/8e94774e.json)
+
+---
+
+### SLT-MOBITEL Nebula Institute of Technology receives dual honours at Pearson BTEC Higher Education Forum 2023
+
+*2024-02-17 06:42:00* · [`islandlk`](http://island.lk/slt-mobitel-nebula-institute-of-technology-receives-dual-honours-at-pearson-btec-higher-education-forum-2023/) · `en`
+
+During the Pearson BTEC Higher Education Forum 2023 at the Colombo Kingsbury Hotel, the spotlight was on SLT-MOBITEL’s education arm, the Sri Lanka Telecom Training Centre (SLTTC), now known as the SLT-MOBITEL Nebula Institute of Technology.
+
+The institute, the education arm of SLT-MOBITEL, received significant recognition at the event securing two prestigious honours. Senior representatives from Pearson including Jane Baker, Vice President, Business Development UK and International Workforce Skills, Premila Paulraj, Director, Employability and Qualifications, Pearson South Asia and Suriya Bibile, DGM, BTEC, PTE and HEd Courseware Pearson, attended the event.
+
+SLTTC received the Pearson awards to honour its track record, before transitioning to the new chapter. Additionally, since the SLT-MOBITEL Nebula Institute of Technology was established, it has accomplished several key achievements including the successful introduction of two new programmes.
+
+...
+
+[Data](articles/efc60e97.json)
+
+[Extended Data](ext_articles/efc60e97.ext.json)
+
+---
+
+### தேர்தல்களிற்கு முன்னதாக புவிசார் அரசியல்ரீதியில் கவனத்தை  மீண்டும் பெற்றுள்ள இலங்கை குறித்து அமெரிக்கா கவனம் செலுத்தவேண்டும் - வோசிங்டன் டைம்ஸிற்கு சிறிசேன கருத்து
+
+*2024-02-17 06:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176586) · `ta`
+
+இலங்கை இந்தவருடம் தேர்தல்களிற்கு முன்னதாக புவிசார் அரசியல்ரீதியில் முக்கியத்துவத்தை மீண்டும் பெற்றுள்ள நிலையில் ; இலங்கை குறித்து அமெரிக்கா கவனம் செலுத்தவேண்டும் என இலங்கையின் முன்னாள் ஜனாதிபதி மைத்திரிபாலசிறிசேன வேண்டுகோள் விடுத்துள்ளார்.
+
+இலங்கை மிகவும் ஸ்திரமற்ற நிலையில் காணப்படுகின்ற ஒரு தருணத்தில் வெளிசக்திகள் அழுத்தங்களை கொடுக்கின்றன  குறிப்பாக சீனா என மைத்திரிபாலசிறிசேன தெரிவித்துள்ளார்.
+
+இந்தியாவின் தென்கிழக்குகரையில் உள்ள இலங்கை அமெரிக்காவிற்கும் சீனாவிற்கும் இடையிலான பெரும் அரசியல்போட்டியில் சமீபகாலங்களில் சிக்குண்டுள்ளது.
+
+2015 முதல் 2019 வரை இலங்கை ஜனாதிபதியாக பதவி வகித்த சிறிசேன தனது நாட்டின் மக்கள் மிகமோசமான வறுமையை அதிகரிக்கும் பணவீக்கம்  வீழ்ச்சியடைந்த பொருளாதாரம்  எரிபொருள் தட்டுப்பாடு போன்றவற்றை எதிர்கொண்டு அதிலிருந்து மீள முயல்கின்றனர் என வோசிங்டன் டைம்ஸ் உடனான சந்திப்பின்போது தெரிவித்தார்.
+
+...
+
+[Data](articles/0c638418.json)
 
 ---
 
@@ -298,6 +378,24 @@ A few days later former SLFP MP Dayasritha Tissera also joined the SJB. Tissera 
 
 ---
 
+### ’இலங்கை பின்னோக்கிச் செல்கிறது’
+
+*2024-02-17 02:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பின்னோக்கிச்-செல்கிறது/175-333334) · `ta`
+
+மனித உரிமைகள் மற்றும் சமூக நீதி தொடர்பான தரத்தில் இலங்கை பின்னோக்கிச் செல்வதாக மனித உரிமைகள் கண்காணிப்பகம் எச்சரிக்கை விடுத்துள்ளது.
+
+இலங்கை தொடர்ந்தும் தவறான நிர்வாகம் மற்றும் பொறுப்புக்கூறல் குறைபாடு காரணமாக ஏற்பட்ட பொருளாதார நெருக்கடியினால் சிரமத்திற்குள்ளாகி வருவதாக மனித உரிமைகள் கண்காணிப்பகம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+சமூக நீதி மற்றும் உரிமைகள் தொடர்பில் அவதானம் செலுத்துவதற்கு பதிலாக, கருத்து வேறுபாடுகளை ஒடுக்குவதிலும், மனித உரிமைகள் மீதான சர்வதேச கவனத்தை மட்டுப்படுத்துவதிலும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையிலான புதிய அரசாங்கம் அவதானம் செலுத்தியுள்ளது என மனித உரிமைகள் கண்காணிப்பகம் சுட்டிக்காட்டியுள்ளது.
+
+ரணில் விக்கிரமசிங்கவின் நிர்வாகத்தின் கீழ் இலங்கை வேகமாக பின்னோக்கிச் செல்வதாக மனித உரிமைகள் கண்காணிப்பகத்தின் பிரதி ஆசிய பணிப்பாளர் மீனாக்ஷி கங்குலி குறித்த அறிக்கையில் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/7223493f.json)
+
+---
+
 ### Youth arrested for stealing gold ornaments
 
 *2024-02-17 02:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-ஆபரணங்களை-திருடிய-இளைஞர்-கைது/175-333333) · `ta`
@@ -501,6 +599,24 @@ The Coordinator of the Scheme. Asch. A.. Vavuniya District Government Agent PA S
 ---
 
 ### 2024-02-16 (Friday)
+
+### Beliatta mass shooting: Police seek public assistance to arrest 3 suspects
+
+*2024-02-16 23:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97336/beliatta-mass-shooting-police-seek-public-assistance-to-arrest-3-suspects) · `en`
+
+Sri Lanka Police are seeking public assistance to arrest three suspects wanted over the mass shooting in Beliatta in which five people, including the leader of “Ape Jana Bala Pakshaya” (Our Power of People Party or OPPP) Saman Perera, were killed.
+
+The mass shooting took place on January 23 near the Beliatta interchange of the Southern Expressway.
+
+A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The fifth person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly after.
+
+As many as 14 suspects have thus far been arrested in connection with the quintuple murder. The police are now seeking the assistance of the members of the public to apprehend three others suspected to be complicit in the mass shooting.
+
+...
+
+[Data](articles/7fd7cf9f.json)
+
+---
 
 ### 'Pansale Dansala'
 
@@ -885,24 +1001,6 @@ A crossing in National Development Bank shares contributed Rs 626 million to the
 [Data](articles/11faf171.json)
 
 [Extended Data](ext_articles/11faf171.ext.json)
-
----
-
-### SLT-MOBITEL Nebula Institute of Technology receives dual honours at Pearson BTEC Higher Education Forum 2023
-
-*2024-02-16 20:49:00* · [`islandlk`](http://island.lk/slt-mobitel-nebula-institute-of-technology-receives-dual-honours-at-pearson-btec-higher-education-forum-2023/) · `en`
-
-During the Pearson BTEC Higher Education Forum 2023 at the Colombo Kingsbury Hotel, the spotlight was on SLT-MOBITEL’s education arm, the Sri Lanka Telecom Training Centre (SLTTC), now known as the SLT-MOBITEL Nebula Institute of Technology.
-
-The institute, the education arm of SLT-MOBITEL, received significant recognition at the event securing two prestigious honours. Senior representatives from Pearson including Jane Baker, Vice President, Business Development UK and International Workforce Skills, Premila Paulraj, Director, Employability and Qualifications, Pearson South Asia and Suriya Bibile, DGM, BTEC, PTE and HEd Courseware Pearson, attended the event.
-
-SLTTC received the Pearson awards to honour its track record, before transitioning to the new chapter. Additionally, since the SLT-MOBITEL Nebula Institute of Technology was established, it has accomplished several key achievements including the successful introduction of two new programmes.
-
-...
-
-[Data](articles/efc60e97.json)
-
-[Extended Data](ext_articles/efc60e97.ext.json)
 
 ---
 
@@ -1999,105 +2097,5 @@ Director General of the Fisheries and Aquatic Resources Department,
 [Data](articles/5841496f.json)
 
 [Extended Data](ext_articles/5841496f.ext.json)
-
----
-
-### Purchase of Quality Drugs in Funds provided for Oxisan Purchase - Information in court
-
-*2024-02-16 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176540) · `ta`
-
-It has been revealed that the low -quality drug has been used using the funds provided for the purchase of oxygen.
-
-General Lakhmini Girihagama Malikakanda said that the Ministry of Health has given a specific distributor to purchase the injection of Immunoglobulin injected by a low -level immunoglobulin injection of Rs.
-
-The Deputy Stool Commissioner said that the 8th suspect was working as a Health Minister and the CIT was carrying out investigations as to why the health sector would fall in the country due to the shortage of drugs.
-
-Meanwhile, the magistrate has ordered that the signatures of former Health Minister Keheliya Rambukwella fit into the signatures of the documents submitted to the Cabinet.
-
-◼️
-
-[Data](articles/e4a58f3a.json)
-
-[Extended Data](ext_articles/e4a58f3a.ext.json)
-
----
-
-### A good time for the two and
-
-*2024-02-16 14:59:51* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවලට-හොඳ-කලක්/11-408128) · `si`
-
-The Dehiwala Zoo receives the ticket revenue from January to four million ticket from January and the Dehiwala Zoo account reports.
-
-The number of visitors in the year 2023 were three million rupees and the revenue was Rs. 341 million.
-
-The Director of the Department of Dr. Anoma Priyadarshani said that the gentleman said that the attendance was most of the increasing the educational awareness of the winter's comfort.
-
-The zoo's work will be held at 8.30 am and the elephant Meet Sampa Show, Lion Phick, and the food gifts in the zoo.
-
-Ms. Anoma Priyadarshani said that the views of the zoological fishermen have been given fish to the zoo and elephants to provide food to the zoologicals.
-
-◼️
-
-[Data](articles/7606be24.json)
-
-[Extended Data](ext_articles/7606be24.ext.json)
-
----
-
-### Chief suspect arrested for collaboration with police cell
-
-*2024-02-16 14:51:59* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-සිර-මැදිරියේ-සිටි-පුද්ගලයන්-දෙදෙනාට-වස-දුන්-ප්‍රධාන-සැකකරු-අත්අඩංගුවට/11-408127) · `si`
-
-Two suspects in a murder held at Kotarapitiya Police Station PoliceColombo Crimes Division says that the main suspect and former palmic employees were arrested
-
-(26) The main suspect, the main suspect, the police officer was arrested in Wattala area with 12524 migrants, the other 12524 muscotar (32) in Kotahena.
-
-Four suspects have been arrested along with the two suspects have been arrested by a senior police officer
-
-The main suspect arrested in Kotahena has been identified as the person who has been identified as a person who has been identified by a public shopkeeper.
-
-The suspect was arrested in Kotahena and a relative of the murdered organized criminal crimes and drug Kudu Selvi
-
-On the 24th of the 24th of the night, the Seremunu Vieiya (27), Videitha Fernando (29) in Jidupuwara, who was arrested in Jidupitiya, was arrested in Jeduvu Street (27).The sick was admitted to the Cosmetics Unit of the Colombo National Hospital
-
-...
-
-[Data](articles/882b7374.json)
-
-[Extended Data](ext_articles/882b7374.ext.json)
-
----
-
-### 16-hour water cut to be imposed in parts of Colombo
-
-*2024-02-16 14:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97326/16-hour-water-cut-to-be-imposed-in-parts-of-colombo) · `en`
-
-The water supply for parts of Colombo will be suspended tomorrow (Feb.17) for a period of 16 hours, the National Water Supply & Drainage Board (NWSDB) says.
-
-Water cut will be in place from 5.00 p.m. tomorrow until 9.00 a.m. on Sunday (Feb.18).
-
-According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be affected by the water cut, which is being imposed due to essential maintenance work planned under the Ambatale Water Supply System Improvements and Energy Saving Project.
-
-◼️
-
-[Data](articles/48cccc3b.json)
-
-[Extended Data](ext_articles/48cccc3b.ext.json)
-
----
-
-### 2024 LPL will be held
-
-*2024-02-16 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193467) · `si`
-
-Sri Lanka Cricket announced that the 2024 LPL tournament will be held in July.
-
-Accordingly, the tournament will be held from July 1 to July 21.
-
-◼️
-
-[Data](articles/41faeeb1.json)
-
-[Extended Data](ext_articles/41faeeb1.ext.json)
 
 ---

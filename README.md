@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 07:41:41**
+As of **2024-02-17 07:52:14**
 
 ## Newspaper Stats
 
@@ -26,31 +26,33 @@ dailymirrorlk | 1,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,591 (100.0%) of 7,592 articles have been extended.
+7,592 (100.0%) of 7,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### රටවල් 37ක නියෝජිතයන් දිවයිනට
+### Representatives of 37 countries to visit the island
 
 *2024-02-17 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193486) · `si`
 
-එක්සත් ජාතින්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ 37 වැනි ආසියා පැසිෆික් කලාපීය සමුළුවට සහභාගි වීම සඳහා රටවල් 35ක නියෝජිතයන් අද (17) දිවයිනට පැමිණීමට නියමිත ව තිබේ.
+Representatives from 35 countries are due to attend the island today (17) to attend the 37th Asia Pacific Seminar of the United Nations Food and Agriculture Organization.
 
-එක්සත් ජාතින්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ 37 වැනි ආසියා - පැසිෆික් කලාපීය සමුළුව ලබන 19 වැනි දා සිට 22 වැනි දා දක්වා කොළඹ දී පැවැත්වීමට නියමිත බව කෘෂිකර්ම අමාත්‍යාංශය සඳහන් කරයි.
+The 37th Asia-Pacific Regional Conference of the United Nations will be held in Colombo from 19th to 22nd to 22nd.
 
-මෙම සමුළුවේ සංවිධාන කටයුතු පිළිබඳ අවසන් සාකච්ඡාව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (16) පැවැත්විණි.
+The final discussion on the organizations of the conference was held yesterday (16) under the patronage of Minister of Agriculture and Plantation Industries Mahinda Amaraweera.
 
-මෙම සමුළුවට ආසියා පැසිෆික් කලාපයේ රටවල් 35ක කෘෂිකර්ම අමාත්‍යවරුන්, නියෝජ්‍ය අමාත්‍යවරුන් මෙන්ම නිලධාරින් 300කට අධික පිරිසක් සහභාගි වීමට නියමිත ව තිබේ.
+More than 35 Deputy Ministers, Deputy Ministers, as well as 300 officials are to attend the conference at the conference.
 
-මීට සමගාමී ව එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ අධ්‍යක්ෂ ජනරාල්වරයා ද හෙට මෙරටට පැමිණීමට නියමිතයි.
+The Director General of the United Nations and Agriculture Organization is to be returning to Sri Lanka tomorrow.
 
-චීනය, මැලේසියාව, ජපානය, පාකිස්තානය, බංග්ලාදේශය ආදි රටවල් රැසක කෘෂිකර්ම අමාත්‍යවරුන් මෙම සමුළුවට සහභාගි වීමට නියමිත බව ද සඳහන් ය.
+The Agriculture Ministers of Agriculture will attend the summit in several other countries, China, Malaysia, Japan, Japan, Pakistan and Bangladesh.
 
 ...
 
 [Data](articles/e3f4d685.json)
+
+[Extended Data](ext_articles/e3f4d685.ext.json)
 
 ---
 

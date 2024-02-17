@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 20:02:25**
+As of **2024-02-17 20:17:25**
 
 ## Newspaper Stats
 
-*Scraped **7,690** Articles*
+*Scraped **7,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 394
 economynextcom | 399
 dailyftlk | 415
 adalk | 649
-tamilmirrorlk | 934
+tamilmirrorlk | 935
 adaderanalk | 946
 virakesarilk | 1,015
-adaderanasinhalalk | 1,103
-dailymirrorlk | 1,135
+adaderanasinhalalk | 1,105
+dailymirrorlk | 1,138
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,690 (100.0%) of 7,690 articles have been extended.
+7,690 (99.9%) of 7,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### கச்சத்தீவு திருவிழாவை புறக்கணிக்க முடிவு
+
+*2024-02-17 19:44:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சத்தீவு-திருவிழாவை-புறக்கணிக்க-முடிவு/175-333346) · `ta`
+
+வரும் 23ஆம் திகதி நடைபெற உள்ள கச்சத்தீவு திருவிழாவை புறக்கணிக்க இந்திய மீனவர்கள் முடிவு செய்துள்ளனர்.
+
+இராமேஸ்வரம் மீன்பிடி துறைமுகத்தில் இருந்து கடந்த 4ஆம் திகதி மீன்பிடிப்பதற்கான அனுமதிச்சீட்டைப் பெற்று சுமார் 400க்கும் மேற்பட்ட விசைப்படகுகளில் மீனவர்கள் மீன்பிடிக்க கடலுக்குச் சென்றனர்.
+
+இந்நிலையில் அவர்கள் காங்கேசன் கடல் எல்லைப் பகுதியில் மீன் பிடித்துக் கொண்டிருந்தபோது, அப்பகுதியில் ரோந்து வந்த இலங்கை கடற்படையினர் எல்லை தாண்டி மீன்பிடித்ததாகக் கூறி 23 மீனவர்களை கைது செய்ததோடு, 2 விசைப்படகுகளையும் பறிமுதல் செய்தனர்.
+
+இதைத் தொடர்ந்து இலங்கை சிறையில் அடைக்கப்பட்ட மீனவர்கள், நேற்றைய தினம் இலங்கை நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டனர். இதில் 20 பேரை விடுதலை செய்த இலங்கை நீதிமன்றம், 2 விசைப்படகுகளின் உரிமையாளர்களுக்கு 6 மாத சிறை தண்டனையும், ஒருவர் 2ஆவது முறையாக எல்லை தாண்டி மீன்பிடித்த குற்றச்சாட்டில் கைது செய்யப்பட்டதால் அவருக்கு 1 வருட சிறை தண்டனையும் வழங்கி தீர்ப்பளித்தது.
+
+...
+
+[Data](articles/a684ba4b.json)
+
+---
 
 ### Chief Prelates raise concerns with President on state assets privatisation
 
@@ -45,6 +63,40 @@ They communicated this in a letter addressed to President Ranil Wickremesinghe.
 [Data](articles/7b83ac7d.json)
 
 [Extended Data](ext_articles/7b83ac7d.ext.json)
+
+---
+
+### ත්‍රෛනිකායික මහනාහිමිවරුන්ගෙන් ජනපතිට ලිපියක්
+
+*2024-02-17 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193515) · `si`
+
+ත්‍රෛනිකායික මහානායක හිමිවරුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ලිපියක් යොමුකර තිබේ.
+
+ඉන් ඔවුන් අනතුරු අඟවා ඇත්තේ රාජ්‍ය සම්පත් පෞද්ගලීකරණ කිරීම හේතුවෙන් සමාජ අනාරක්ෂිතතාවක් නිර්මාණය වීමේ අවදානමක් මතුව ඇති බවයි.
+
+◼️
+
+[Data](articles/9b2081ce.json)
+
+---
+
+### සේවයෙන් ඉවත් වෙන්නේ නැහැ - වෛද්‍ය බෙල්ලන
+
+*2024-02-17 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193514) · `si`
+
+තමා කිසිඳු අවස්ථාවක ජාතික රෝහල තුළ කාර්යාල අඩස්සියට පත් නොවු බව එම රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පවසයි.
+
+සේවකයින් කිහිප දෙනෙකු උද්ඝෝෂණය කළ පමණින් තමන් සේවයෙන් ඉවත් වීමට කිසිදු අවස්ථාවක සුදානම් නොමැති බවද නියෝජ්‍ය අධ්‍යක්ෂකවරයා සඳහන් කළේය.
+
+වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා කොළඹ ජාතික රෝහලේ කණිෂ්ඨ කාර්ය මණ්ඩලය සම්බන්ධයෙන් සිදුකළ ප්‍රකාශයක් හේතුවෙන් මේ වනවිට එම සේවකයින් අතර නොසන්සුන්කාරී තත්ත්වයක් හටගෙන තිබේ.
+
+ඒ අනුව එම ප්‍රකාශයට විරෝධය පළ කරමින් වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පැය 06ක පමණ කාලයක් කාර්යාල අඩස්සියේ තබා ගැනීමට සේවකයින් කටයුතු කළ අතර අද දිනයේත් විරෝධතා ක්‍රියාමාර්ගයක් ජාතික රෝහල තුළ ක්‍රියාත්මක වුණි.
+
+මෙහිදී කණිෂ්ඨ කාර්ය මණ්ඩල සේවකයින් සඳහන් කළේ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා ජාතික රෝහලේ සේවයට වාර්තා කළහොත් තමන් වෘත්තීය ක්‍රියාමාර්ග ගන්නා බවය.
+
+◼️
+
+[Data](articles/8edb29e1.json)
 
 ---
 
@@ -70,6 +122,26 @@ Meanwhile, U.S. Deputy Secretary of State for Management and Resources Richard R
 
 ---
 
+### Prison hospital congestion reaches critical levels
+
+*2024-02-17 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prison-hospital-congestion-reaches-critical-levels/108-277242) · `en`
+
+Colombo, Feb 17 (Daily Mirror) - It has been revealed that the current capacity at the prison hospital has reached unprecedented levels, raising grave concerns among authorities.
+
+Speaking to the Daily Mirror, media spokesperson of the Prisons Department Gamini B. Dissanayake said the current inmate count at the facility stands at 350, significantly exceeding its capacity of 185.
+
+The matter has sparked serious concerns among the authorities and measures are underway to mitigate congestion.
+
+However, Dissanayake asserted that there is no possibility of expanding the hospital capacity but the overcrowding will be eased as patients get discharged on a regular basis.
+
+According to reports, this dire situation has forced authorities to accommodate two patients in a single bed due to the lack of space.
+
+◼️
+
+[Data](articles/2456d91a.json)
+
+---
+
 ### To Afghanistan to advantage
 
 *2024-02-17 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193513) · `si`
@@ -83,6 +155,18 @@ Accordingly, they decided to give the Sri Lankan team first to bat first.
 [Data](articles/a7f4435a.json)
 
 [Extended Data](ext_articles/a7f4435a.ext.json)
+
+---
+
+### Meeting tourists...
+
+*2024-02-17 18:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Meeting-tourists/110-277241) · `en`
+
+President Ranil Wickremesinghe embarked on an observation tour in the Tangalle and Galle areas today, underscoring the government's commitment to enhancing tourist facilities. The President visited tourist hotspots such as Seenimodara, Dikwella,  Nilwella, Hiriketiya, Weligama, and Habaraduwa, as well as the Weligama Surf School along the south coast, where he assessed their activities firsthand. President Wickremesinghe engaged in brief conversations with foreign tourists, soliciting their perspectives on measures to further promote the tourism industry. He interacted with local tourists at Tangalle and Galle beaches during the weekend holidays.
+
+◼️
+
+[Data](articles/bc500a95.json)
 
 ---
 
@@ -343,6 +427,24 @@ The deal is also to help pave the way towards Ukraine’s future integration int
 [Data](articles/22387b18.json)
 
 [Extended Data](ext_articles/22387b18.ext.json)
+
+---
+
+### Students hospitalized after suspected drug ingestion, one in critical condition
+
+*2024-02-17 16:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Students-hospitalized-after-suspected-drug-ingestion-one-in-critical-condition/155-277238) · `en`
+
+Ibbagamuwa, Feb 17 (Daily Mirror) - The Maduragoda Police have initiated an inquiry into an incident where four primary school students from the Ibbagamuwa region fell unconscious, suggesting a possible connection to the consumption of an unidentified type of pill.
+
+Following the incident, the four intoxicated school students were rushed to the Rambadagalla hospital and transferred to the Kurunegala Teaching Hospital
+
+According to reports from local authorities, one of the students was found to be heavily intoxicated, prompting immediate medical attention.
+
+Hospital sources indicated that the students' sudden loss of consciousness raised concerns of possible drug ingestion.
+
+◼️
+
+[Data](articles/db5db35d.json)
 
 ---
 
@@ -1963,123 +2065,5 @@ The former president said that his intention was to request the US Department of
 [Data](articles/0c638418.json)
 
 [Extended Data](ext_articles/0c638418.ext.json)
-
----
-
-### Few thin rain
-
-*2024-02-17 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193485) · `si`
-
-The Department of Meteorology announces a few thin specks in the Polonnaruwa, Matale and Nuwara Eliya districts, the Eastern and Uva provinces.
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Province and in the Galle and Matara Districts.
-
-Strong winds can range from the North, North-Central, Uva and Eastern Provinces, Hambantota and Kandy districts, the North, North-Central, Uva and Eastern Provinces.
-
-The Meteorological Department urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/34d75a43.json)
-
-[Extended Data](ext_articles/34d75a43.ext.json)
-
----
-
-### India-Sri Lanka officials discuss collaboration
-
-*2024-02-17 05:38:11* · [`dailyftlk`](https://www.ft.lk/news/India-Sri-Lanka-officials-discuss-collaboration/56-758590) · `en`
-
-Bilateral delegation-level talks took place in New Delhi this week between India’s Secretary, Department of Administrative Reforms and Public Grievances (DAR&PG) V. Srinivas and Secretary to the Prime Minister of Sri Lanka Anura Dissanayake for collaboration in Personnel Administration and Governance.
-
-The Sri Lankan delegation included Ministry of Technology Secretary Dr. Dharmasri Kumaratunga, Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government Secretary Pradeep Yasarathna, and Sri Lanka Institute of Development Administration (SLIDA) Director General Nalaka Kaluwewe. DARPG senior officials NBS Rajput, Puneet Yadav and Jaya Dubey participated in the discussions.
-
-...
-
-[Data](articles/31ec814a.json)
-
-[Extended Data](ext_articles/31ec814a.ext.json)
-
----
-
-### Vistas of opportunity for Sri Lankan children with “Suhuru” classrooms
-
-*2024-02-17 05:37:16* · [`dailyftlk`](https://www.ft.lk/news/Vistas-of-opportunity-for-Sri-Lankan-children-with-Suhuru-classrooms/56-758589) · `en`
-
-“Knowledge is power. Information is liberating. Education is the premise of progress in every society, in every family.” — Kofi Annan
-
-A group of children crowded around a big board that had been set up in a classroom at Ratnapura Pelmadulla Bambarabotuwa Vishaka Maha Vidyalaya.
-
-They were joined by teachers and even the school principal. Their eyes beamed with amazement and joy. As the board was transformed with the press of a button, the magical world of information and opportunity unfurled before them.
-
-This landmark event in the lives of the children and staff of Ratnapura Pelmadulla Bambarabotuwa Vishaka Maha Vidyalaya took place on 15 February.
-
-They were the recipients of a “Suhuru” classroom of the “Sakwala” program that is being implanted island-wide under the leadership of Opposition Leader Sajith Premadasa. The Suhuru classrooms are designed to empower children from underprivileged homes with modern education.
-
-...
-
-[Data](articles/51321ea5.json)
-
-[Extended Data](ext_articles/51321ea5.ext.json)
-
----
-
-### Japan provides Yen 1.2 b grant to power 3 hospitals with renewable energy
-
-*2024-02-17 05:35:58* · [`dailyftlk`](https://www.ft.lk/news/Japan-provides-Yen-1-2-b-grant-to-power-3-hospitals-with-renewable-energy/56-758588) · `en`
-
-Japanese Ambassador Mizukoshi Hideaki and Treasury Secretary K.M.M. Siriwardana this week signed an Exchange of Note for providing JPY 1.23 billion in order to improve power supply vulnerability at hospitals.
-
-This signing ceremony was held in the presence of JICA President Dr. Tanaka Akihiko and Health Secretary Dr. P.G. Mahipala.
-
-This grant aims to reduce carbon footprint and ease the financial burden on energy costs at Sri Jayewardenepura General Hospital, Teaching Hospital Ratnapura, and Teaching Hospital Kurunegala. With this assistance, the recipient hospitals will be equipped with solar power facilities, ensuring reliable electricity supply and contributing to achieving Sri Lanka’s goal of over 70% of electricity from renewable sources by 2030.
-
-...
-
-[Data](articles/0c8bed71.json)
-
-[Extended Data](ext_articles/0c8bed71.ext.json)
-
----
-
-### 106th Lithuanian National Day celebrations in Sri Lanka
-
-*2024-02-17 05:33:53* · [`dailyftlk`](https://www.ft.lk/news/106th-Lithuanian-National-Day-celebrations-in-Sri-Lanka/56-758587) · `en`
-
-The Honorary Consulate of Lithuania in Sri Lanka has announced the commemoration of the 106th Lithuanian National Day on 16 February 2024.
-
-This momentous occasion marks the restoration of Lithuania’s independent statehood on 16 February 1918, following over a century of Russian Empire rule.
-
-In 1918, under the leadership of Jonas Basanavičius, the Council of Lithuania boldly signed the Act of Independence, proclaiming Lithuania as a sovereign and democratic nation. This declaration was the culmination of relentless endeavours by Lithuanian activists and intellectuals striving for liberty and self-governance.
-
-The journey to independence was arduous, as Lithuania had endured subjugation under the Russian Empire, suppressing its cultural and national identity. Nevertheless, the Lithuanian spirit remained resolute, fuelling the persistent struggle for
-
-...
-
-[Data](articles/2c509e67.json)
-
-[Extended Data](ext_articles/2c509e67.ext.json)
-
----
-
-### Iranian naval ships arrive in Colombo
-
-*2024-02-17 05:32:59* · [`dailyftlk`](https://www.ft.lk/news/Iranian-naval-ships-arrive-in-Colombo/56-758586) · `en`
-
-The Iranian naval ships (IRINS) Bushehr and Tonb arrived at the port of Colombo on a formal visit yesterday.
-
-The visiting ships were welcomed by the Sri Lanka Navy in compliance with naval traditions.
-
-IRINS Bushehr is a 107 metre long ship manned by 270 crew members and she is commanded by Commander Mahdi Balvardi. IRINS Tonb is a 94.94 metre long platform with a crew of 250. It is commanded by Commander Mohammad Haji Zadeh.
-
-The Commanding Officers of the ships are scheduled to call on Commander Western Naval Area and Director General Operations of the Navy, during their stay in the country.
-
-Additionally, naval personnel from both nations are anticipated to participate in various programs aimed at fostering cooperation. Furthermore, the crew members of the Iranian ships will have the opportunity to visit several tourist attractions in Sri Lanka.
-
-...
-
-[Data](articles/26caff3c.json)
-
-[Extended Data](ext_articles/26caff3c.ext.json)
 
 ---

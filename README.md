@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 22:02:40**
+As of **2024-02-17 22:17:21**
 
 ## Newspaper Stats
 
-*Scraped **7,701** Articles*
+*Scraped **7,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 394
 economynextcom | 399
 dailyftlk | 415
 adalk | 649
-tamilmirrorlk | 935
-adaderanalk | 947
+tamilmirrorlk | 936
+adaderanalk | 948
 virakesarilk | 1,015
 adaderanasinhalalk | 1,109
 dailymirrorlk | 1,138
@@ -26,11 +26,45 @@ dailymirrorlk | 1,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,701 (100.0%) of 7,701 articles have been extended.
+7,701 (100.0%) of 7,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### அஸ்வெசுமவுக்கு விண்ணப்பிக்க உள்ளவர்களுக்கான அறிவிப்பு
+
+*2024-02-17 21:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசுமவுக்கு-விண்ணப்பிக்க-உள்ளவர்களுக்கான-அறிவிப்பு/175-333359) · `ta`
+
+அஸ்வெசும இரண்டாம் கட்டத்திற்கான விண்ணப்பங்களில் அடையாள அட்டை (NIC) கட்டாயமாக்கப்பட்டுள்ளதாக நலன்புரி நன்மைகள் சபை தெரிவித்துள்ளது.
+
+முதல் கட்ட விண்ணப்பம் கோரலின் போது, அடையாள அட்டை கட்டாயமாக்கப்படவில்லை. இம்முறை விண்ணப்பிக்கும் போது அடையாள அட்டை இலக்கத்தை கட்டாயம் குறிப்பிடுதல் வேண்டும் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+
+அஸ்வெசும இரண்டாம் கட்ட விண்ணப்பங்கள் எதிர்வரும் மார்ச் மாதம் 15 ஆம் திகதி வரை ஏற்றுக் கொள்ளப்படவுள்ளதாக நலன்புரி நன்மைகள் சபை தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/9245494f.json)
+
+---
+
+### President conducts observation tour of southern coastal areas, interacts with tourists
+
+*2024-02-17 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97357/president-conducts-observation-tour-of-southern-coastal-areas-interacts-with-tourists) · `en`
+
+Amid a rejuvenated focus on revitalizing Sri Lanka’s tourism industry, President Ranil Wickremesinghe embarked on an observation tour in the Tangalle and Galle areas today (17 Feb.), underscoring the government’s commitment to enhancing tourist facilities.
+
+During the tour, President Wickremesinghe visited several tourist hotels, engaging with owners to understand their challenges first hand.
+
+Swift action was taken as the President addressed the concerns raised by the business community, liaising with relevant officials over the phone to devise solutions and gather input on industry development strategies, the President’s Media Division (PMD) reported.
+
+The tourism sector in Sri Lanka faced a rapid downturn due to the COVID-19 pandemic and economic challenges. However, with the government’s new initiatives, there has been a significant surge in tourist arrivals.
+
+...
+
+[Data](articles/25ce840b.json)
+
+---
 
 ### The Senegal is a military page asking for a day
 
@@ -2043,53 +2077,5 @@ Winds will be north-easterly and wind speed will be 25-35 kmph.
 [Data](articles/91746712.json)
 
 [Extended Data](ext_articles/91746712.ext.json)
-
----
-
-### Representatives of 37 countries to visit the island
-
-*2024-02-17 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193486) · `si`
-
-Representatives from 35 countries are due to attend the island today (17) to attend the 37th Asia Pacific Seminar of the United Nations Food and Agriculture Organization.
-
-The 37th Asia-Pacific Regional Conference of the United Nations will be held in Colombo from 19th to 22nd to 22nd.
-
-The final discussion on the organizations of the conference was held yesterday (16) under the patronage of Minister of Agriculture and Plantation Industries Mahinda Amaraweera.
-
-More than 35 Deputy Ministers, Deputy Ministers, as well as 300 officials are to attend the conference at the conference.
-
-The Director General of the United Nations and Agriculture Organization is to be returning to Sri Lanka tomorrow.
-
-The Agriculture Ministers of Agriculture will attend the summit in several other countries, China, Malaysia, Japan, Japan, Pakistan and Bangladesh.
-
-...
-
-[Data](articles/e3f4d685.json)
-
-[Extended Data](ext_articles/e3f4d685.ext.json)
-
----
-
-### Trump ordered to pay $354mn in New York civil fraud case
-
-*2024-02-17 07:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97337/trump-ordered-to-pay-354mn-in-new-york-civil-fraud-case) · `en`
-
-Former President Donald Trump must pay nearly $355 million (£281 million) to New York state for lying about the values of his properties, a judge has ruled.
-
-Judge Arthur Engoron also banned him from serving as a company director or taking out loans from banks in the state for three years.
-
-The New York real estate mogul escaped having some of his companies dissolved, which could have meant bankruptcy.
-
-Speaking from his Florida estate, Mr Trump said he would appeal the ruling.
-
-“A crooked New York state judge just ruled I have to pay a fine for $350 million for having built a perfect company,” the former president said from Mar-a-Lago on Friday, calling the ruling a political witch hunt.
-
-In the ruling on Friday, Judge Engoron referred to previous allegations of wrongdoing in justifying the large amounts he ordered the defendants to pay, writing that they “are likely to continue their fraudulent ways” unless he imposed a “significant” penalty.
-
-...
-
-[Data](articles/8e94774e.json)
-
-[Extended Data](ext_articles/8e94774e.ext.json)
 
 ---

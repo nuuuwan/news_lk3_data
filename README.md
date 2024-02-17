@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 12:32:44**
+As of **2024-02-17 12:48:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,639 (100.0%) of 7,640 articles have been extended.
+7,640 (100.0%) of 7,640 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The railway engine and the colour signal system had been extensively damaged in 
 ...
 
 [Data](articles/77e6e6fb.json)
+
+[Extended Data](ext_articles/77e6e6fb.ext.json)
 
 ---
 
@@ -72,27 +74,9 @@ Meanwhile, foreign security reports have also taken into custody over 100 people
 
 ---
 
-### Three Indian fishermen arrested in Sri Lanka sentenced to prison, 20 others released
-
-*2024-02-17 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97344/three-indian-fishermen-arrested-in-sri-lanka-sentenced-to-prison-20-others-released) · `en`
-
-In a major relief to the fishing community in Tamil Nadu, 20 fishermen from Rameswaram were released, while two boatmen and a fisherman were directed to undergo a jail term of six months and one year respectively, for repeating the offence of poaching, a court in Sri Lanka has ruled.
-
-According to fishermen leader Jesu Raja, 42 fishermen were arrested, in two incidents: one of 23 arrests and the second of 19 arrests, on charges of poaching by the Sri Lankan Navy earlier this month, while they were engaged in fishing along the Palk Bay. Two boats were also impounded.
-
-After the fishermen staged agitation and stayed away from venturing into the sea for a day, political parties in Tamil Nadu condemned the arrest and urged the Union government to intervene in the issue immediately. T.N. CM M.K. Stalin also wrote to Prime Minister Narendra Modi requesting him to make diplomatic efforts to secure the release of the Tamil Nadu fishermen.
-
-...
-
-[Data](articles/088f64a2.json)
-
-[Extended Data](ext_articles/088f64a2.ext.json)
-
----
-
 ### The body of a student who was rushed in the sea wave
 
-*2024-02-17 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176599) · `ta`
+*2024-02-17 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176599) · `ta`
 
 The body of one of the students who disappeared in the sea wave in Nintavur, which belongs to the Nintavur police division of the Ampara district.
 
@@ -111,6 +95,24 @@ In addition, Nintavur police are conducting further investigations to six other 
 [Data](articles/6f289030.json)
 
 [Extended Data](ext_articles/6f289030.ext.json)
+
+---
+
+### Three Indian fishermen arrested in Sri Lanka sentenced to prison, 20 others released
+
+*2024-02-17 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97344/three-indian-fishermen-arrested-in-sri-lanka-sentenced-to-prison-20-others-released) · `en`
+
+In a major relief to the fishing community in Tamil Nadu, 20 fishermen from Rameswaram were released, while two boatmen and a fisherman were directed to undergo a jail term of six months and one year respectively, for repeating the offence of poaching, a court in Sri Lanka has ruled.
+
+According to fishermen leader Jesu Raja, 42 fishermen were arrested, in two incidents: one of 23 arrests and the second of 19 arrests, on charges of poaching by the Sri Lankan Navy earlier this month, while they were engaged in fishing along the Palk Bay. Two boats were also impounded.
+
+After the fishermen staged agitation and stayed away from venturing into the sea for a day, political parties in Tamil Nadu condemned the arrest and urged the Union government to intervene in the issue immediately. T.N. CM M.K. Stalin also wrote to Prime Minister Narendra Modi requesting him to make diplomatic efforts to secure the release of the Tamil Nadu fishermen.
+
+...
+
+[Data](articles/088f64a2.json)
+
+[Extended Data](ext_articles/088f64a2.ext.json)
 
 ---
 

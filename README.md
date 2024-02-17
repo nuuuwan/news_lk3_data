@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 08:17:31**
+As of **2024-02-17 08:33:32**
 
 ## Newspaper Stats
 
-*Scraped **7,597** Articles*
+*Scraped **7,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,116 @@ adalk | 645
 tamilmirrorlk | 923
 adaderanalk | 929
 virakesarilk | 1,000
-adaderanasinhalalk | 1,079
-dailymirrorlk | 1,117
+adaderanasinhalalk | 1,083
+dailymirrorlk | 1,120
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,597 (100.0%) of 7,597 articles have been extended.
+7,597 (99.9%) of 7,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### President assures support for Israeli security
+
+*2024-02-17 08:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-assures-support-for-Israeli-security/108-277228) · `en`
+
+Colombo, Feb 17 (Daily Mirror) - In what appeared to be a balanced approach to the Israeli-Palestine conflict, President Ranil Wickremesinghe reiterated support for the establishment of a Palestinian state and emphasised the significance of ensuring Israel’s security, fostering a balanced approach to regional peace.
+
+In a significant diplomatic encounter, Israel’s Minister of Transport and Road Safety, Brig. Gen. Miri Regev, convened with President Ranil Wickremesinghe.
+
+The meeting delved into crucial matters concerning the safe return of Israeli hostages, with President Wickremesinghe affirming Sri Lanka’s unwavering commitment to advocating for their safety.
+
+Furthermore, amidst the ongoing hostilities in Gaza, the President called for an immediate cessation of violence, underscoring the paramount importance of peace and stability in the region.
+
+...
+
+[Data](articles/afd0517f.json)
+
+---
+
+### ශිරාන් බාෂික්ගේ ගෝලයෙකු අත්අඩංගුවට
+
+*2024-02-17 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193490) · `si`
+
+මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙස සැලකෙන ශිරාන් බාෂික් නැමැත්තාගේ ගෝලයකු හෙරොයින් සමඟ පොලිස් විශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගෙන ඇත.
+
+ඊයේ (16) වැල්ලවත්ත, හැව්ලොක්සිටි නිවාස සංකීර්ණයේ රථ ගාලේ  සිදු කළ වැටලීමක දී මෙම සැකකරු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+වැල්ලවත්ත ප්‍රදේශයේ පිහිටි හැව්ලොක් සිටි නිවාස සංකීර්ණයේ ඉදිරිපිට මාර්ගයේ රාජකාරියේ නියුතු නිලධාරියෙකු විසින් මාර්ගයේ ගමන් ගත් මෝටර් රථයක් නැවැත්වීමට සංඥා කර ඇති අතර, එහි දී එම මෝටර් රථය එම නිලධාරියාව අනතුරට ලක් කර හැව්ලොක් සිටි නිවාස සංකීර්ණයේ රථ වාහන අංගනය දෙසට නොනවත්වා ධාවනය කර තිබේ.
+
+පසු ව එහි සිටි පුද්ගලයින් දෙදෙනෙකු පළා යාමට තැත් කර ඇති අතර, එහි දී එක් සැකකරුවෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+එලෙස අත්අඩංගුවට ගෙන ඇත්තේ කුඩාබුද්ගමුව - අංගොඩ ප්‍රදේශයේ පදිංචි 41 හැවිරිදි පුද්ගලයෙකි.
+
+ඔහු සතු ව තිබී මෝටර් රථ 03ක යතුරු හමු ව ඇති අතර, පසුව එම මෝටර් රථ තුන පරීක්ෂා කිරීමේ දී හෙරොයින් ග්‍රෑම් 19ක් ජංගම දුරකථනයක්, ලැප්ටොප් පරිගණකයක්, රුපියල් 29,000ක්, ඩිරාම් 535ක් සහ ඩොලර් 161ක් සොයාගෙන ඇත.
+
+...
+
+[Data](articles/ff1da59a.json)
+
+---
+
+### කොළඹ ප්‍රදේශ කිහිපයක ජලය කැපෙයි
+
+*2024-02-17 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193489) · `si`
+
+ජල සැපයුම් පද්ධතියේ අත්‍යවශ්‍ය වැඩි දියුණු කිරීමේ කටයුත්තක් හේතුවෙන් කොළඹ ප්‍රදේශ කිහිපයකට අද (17) පැය 16ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජලසම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+
+ඒ අනුව අද පස්වරු 05 සිට ඉරිදා පෙරවරු 09 දක්වා කොළඹ 11, 12, 13, 14 සහ 15 යන ප්‍රදේශවලට ජල සැපයුම අත්හිටුවීමට නියමිත බව එම මණ්ඩලය සඳහන් කරයි.
+
+අඹතලේ ජල සැපයුම වැඩිදියුණු කිරිමේ බලශක්ති සංරක්ෂණ ව්‍යාපෘතිය මගින් සිදු කරන අත්‍යවශ්‍ය වැඩිදියුණු කිරිමේ කටයුත්තක් හේතුවෙන් මෙම ජල කප්පාදුව සිදු කරන බව ජාතික ජලසම්පාදන හා ජලාපවහන මණ්ඩලය නිවේදනය කර ඇත.
+
+◼️
+
+[Data](articles/cb32e039.json)
+
+---
+
+### අධ්‍යාපනයේ ගැටලු ගැන විශේෂ සාකච්ඡාවක්
+
+*2024-02-17 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193488) · `si`
+
+අධ්‍යාපන ක්ෂේත්‍රයේ පවත්නා ගැටලු සහ අභියෝග මෙන්ම ඉදිරි අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් වූ විශේෂ සාකච්ඡාවක් ඊයේ (16) පවත්වා තිබේ.
+
+අධ්‍යාපන අමාත්‍යවරයා සහ සියලු‍ ආණ්ඩුකාරවරුන්, පළාත් අධ්‍යාපන බලධාරින් සහ වෘත්තීය සමිති නියෝජිතයන්ගේ සහභාගිත්වයෙන් මෙම සාකච්ඡාව පවත්වා ඇති බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+පළාත් නවය ඒකාබද්ධ කරමින් අධ්‍යාපන අමාත්‍යාංශය තුළ ඒ සඳහා වෙනම ඒකකයක් ස්ථාපනය කිරීමට මෙහි දී යෝජනා වී තිබේ.
+
+එමෙන්ම පළාත් බලධාරින් සහ රේඛීය අමාත්‍යාංශ නිලධාරින් අතර පවතින බෙදීම් හේතුවෙන් මතු ව ඇති ගැටලු සම්බන්ධයෙන් වෘත්තීය සමිති මෙහි දී කරුණු දක්වා ඇති බව සඳහන් ය.
+
+සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ මධ්‍යම පළාත් ආණ්ඩුකාර ලලිත් යු.ගමගේ මහතා පැවසුවේ, වෘත්තීය සමිති සිය අයිතිවාසිකම් දිනාගැනීම සඳහා පමණක් කතා කිරිම නුසුදුසු බවයි.
+
+ගැටලු සාකච්ඡා කිරිම පමණක් ප්‍රමාණවත් නොවන බව ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා එහි දී සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/a18aa4fa.json)
+
+---
+
+### පොදුවැසිකිළි ගාස්තු ගැන දැනුම්දීමක්
+
+*2024-02-17 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193487) · `si`
+
+කොළඹ බැස්ටියන් මාවත පෞද්ගලික බස් නැවතුම්පොළේ වැසිකිළි භාවිත කිරීමේ දී අය කරනු ලබන ගාස්තු යළි සංශෝධනය කර තිබේ.
+
+එම වැසිකිලි භාවිත කිරිමේ දී අය කළ රුපියල් 20ක් ව පැවති ගාස්තුව රුපියල් 50ක් දක්වා ඉහළ දැමීමට බලධාරින් පියවර ගෙන ඇති බවට ජනතාව චෝදනා ක‍රයි.
+
+මේ සම්බන්ධයෙන් අද දෙරණ කළ විමසීමක දී ජාතික ගමනාගමන කොමිශන් සභාවේ සභාපති ශෂී වෙල්ගම මහතා පැවසුවේ, වැසිකිළි ගාස්තු ඉහළ නැංවීම සඳහා කිසිදු තීරණයක් ගෙන නොමැති බවයි.
+
+ඒ අනුව ඉහළ නැංවු ගාස්තු පෙර පැවැති මිල ගණන් දක්වා යළි සංශෝධනය කරන ලෙස ජාතික ගමනාගමන කොමිශන් සභාව විසින් එම වැසිකිළි නඩත්තු කරන පාර්ශව වෙත දැනුම් දීමක් සිදු කර තිබේ.
+
+ඒ අනුව ඊයේ පස්වරුවේ සිට පෙර පැවැති රුපියල් 20 ගාස්තු යටතේ ආදාළ අය කිරිම් සිදු කරන බව ජාතික ගමනාගමන කොමිශන් සභාව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/ce80877c.json)
+
+---
 
 ### Afternoon thundershowers likely in some areas today
 
@@ -101,6 +199,42 @@ In the ruling on Friday, Judge Engoron referred to previous allegations of wrong
 [Data](articles/8e94774e.json)
 
 [Extended Data](ext_articles/8e94774e.ext.json)
+
+---
+
+### Sri Lanka busts oil spill using satellite surveillance for first time
+
+*2024-02-17 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-busts-oil-spill-using-satellite-surveillance-for-first-time/108-277225) · `en`
+
+Colombo, Feb 17 (Daily Mirror) - Following the initiative with the French government to detect oil spills in Sri Lankan waters using satellite surveillance, Sri Lanka has detected the first such incident and fined Rs. 15 million to the responsible company, the Marine Environment Protection Authority (MEPA) said.
+
+According to the MEPA, on February 5, the CLS analysts (The French Company) reported the detection of significant oil pollution off their coasts, by an illegal discharge of the Global Crest, a 120-metre tanker cruising from Malaysia to the UAE.
+
+Action was taken immediately against the vessel and an onboard inspection was conducted, which revealed clear evidence of the illegal discharge. The ship was detained until the owner admitted the offence and acknowledged the maximum fine of Rs. 15 million pursuant to national regulations.
+
+...
+
+[Data](articles/aad6fb9a.json)
+
+---
+
+### Sri Lanka unchanged for Afghan T20I opener
+
+*2024-02-17 07:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-unchanged-for-Afghan-T20I-opener/108-277205) · `en`
+
+Colombo, Feb 16 (Daily Mirror) - Riding a wave of confidence after their convincing One Day International (ODI) series win in Kandy, Sri Lanka gears up to face Afghanistan in a three-match Twenty20 International (T20I) series starting at the Rangiri Dambulla International Cricket Stadium today.
+
+Sri Lanka is likely to retain the same line-up that played in the last T20I game against Zimbabwe, except for the injured Dushmantha Chameera, Daily Mirror learns.
+
+Sri Lanka have brought in left-arm fast bowler Binura Fernando in place of Chameera for this series against Afghanistan.
+
+The 16-member squad is otherwise unchanged from the one that faced Zimbabwe last month. Wanindu Hasaranga will lead the side with Charith Asalanka serving as his deputy.
+
+Despite Binura Fernando being included in the Sri Lanka T20I Squad in place of Dushmantha, Matheesha Pathirana is likely to be included in the playing 11, according to SLC sources.
+
+...
+
+[Data](articles/8293a12c.json)
 
 ---
 
@@ -1951,165 +2085,5 @@ Other sectors that attracted investor interest were Capital Goods (110mn), and F
 [Data](articles/1198964b.json)
 
 [Extended Data](ext_articles/1198964b.ext.json)
-
----
-
-### Three arrested for gang raping child in Meegoda
-
-*2024-02-16 15:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-arrested-for-gang-raping-child-in-Meegoda/108-277178) · `en`
-
-Colombo, Feb. 16 (Daily Mirror)- Three individuals including a 61-year-old mason were arrested for gang raping a 12-year-old girl in Meegoda, Police said.
-
-Police said the girl had been raped by the three individuals on several occasions from December last year.
-
-The suspects were arrested by the Meegoda police yesterday following a complaint.
-
-◼️
-
-[Data](articles/c614d880.json)
-
-[Extended Data](ext_articles/c614d880.ext.json)
-
----
-
-### Three arrested for gang raping teenage girl in Meegoda
-
-*2024-02-16 15:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-arrested-for-gang-raping-teenage-girl-in-Meegoda/108-277178) · `en`
-
-Colombo, Feb. 16 (Daily Mirror)- Three individuals including a 61-year-old mason were arrested for gang raping a 12-year-old girl in Meegoda, Police said.
-
-Police said the girl had been raped by the three individuals on several occasions from December last year.
-
-The suspects were arrested by the Meegoda police yesterday following a complaint.
-
-◼️
-
-[Data](articles/d56c3e07.json)
-
-[Extended Data](ext_articles/d56c3e07.ext.json)
-
----
-
-### Ranil's support to Israel
-
-*2024-02-16 15:31:32* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-සහාය-ඊශ්‍රායලට/11-408129) · `si`
-
-President Ranil Wickremesinghe and Israelite Transport and Road Safety Minister Brigadier General Miri Rule (BRIG. Gen. A meeting between Miri Regev was held at the Presidential Secretariat today (16).
-
-The President also said that Israeli support continues to repatriate the Israeli nationals who were taken hostage to Hamas militants and that it should be stopped at Gaza.
-
-Ranil Wickremesinghe further stated that Sri Lanka is supporting the establishment of the Palestinian State to ensure the protection of the Israeli state.
-
-◼️
-
-[Data](articles/3113a319.json)
-
-[Extended Data](ext_articles/3113a319.ext.json)
-
----
-
-### President calls for intervention to solve health care issues
-
-*2024-02-16 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193470) · `si`
-
-Special President Dr. Chamal Sanjeewa says that a special Presidential Presidential Commission should be appointed to address the problems of the health sector, politicians and officials.
-
-The Chairman of the Doctors' Trade Union Alliance on Medical and Civil Rights says the President should immediately intervene.
-
-Speaking to the media in Colombo today (16), he said.
-
-The doctor emphasized that the local pharmaceutical network has faced a serious crisis and is not resolved in the next few months.
-
-He also said that the truth about the shortage of drugs, the Ministry of Health, State Pharmaceutical Corporation, Medical Supplies Authority and the State Pharmaceutical Production Corporation have not been able to know.
-
-◼️
-
-[Data](articles/4f8ef961.json)
-
-[Extended Data](ext_articles/4f8ef961.ext.json)
-
----
-
-### Frog ice cream: a fine of 5 thousand rupees
-
-*2024-02-16 15:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தவளை-ஐஸ்கிறீம்-5-ஆயிரம்-ரூபாய்-அபராதம்/71-333313) · `ta`
-
-The court has sentenced a seller to a seller who pleaded guilty in a case of ice cream in the Jaffna -Selvam temple environment.
-
-In the temple environment last Wednesday (14), a frog was found in the cold of a person who bought it.
-
-Following the announcement of the health unit, the Valvettithurai Health Inspector, who was conducting investigations, filed a case against the Point Pedro Magistrate's Court against the Ice Cream soldier.
-
-When the case was taken up for hearing today, the man who sold the colder and sold it to the colder manufacturer in the Chunnakam area, he said.
-
-Meanwhile, a restaurant owner has been fined Rs 36,000 in the case against a restaurant in the temple environment.
-
-Hundreds of people visit the Historical Sabha Temple daily for worship and for wedding ceremonies at the temple.
-
-...
-
-[Data](articles/87a0a001.json)
-
-[Extended Data](ext_articles/87a0a001.ext.json)
-
----
-
-### News about fuel
-
-*2024-02-16 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193469) · `si`
-
-The development of global demand for petroleum has slowed down, says the International Energy Agency.
-
-They also said that due to the increase in production in outside the OPEC, they have had a surplus.
-
-The International Energy Agency has revealed that the global fuel consumption has fallen by 35% in the fourth quarter of 2023.
-
-The main reason for this deviation is considered to be considered slowly as slow.
-
-According to the International Energy Agency, the top 2024 global fuel demand per day is about 1.2 million barrels per day.
-
-It also pointed out that it was half of last year's growth, and the International Energy Agency.
-
-OPEC Plus UPFA has increased by about 1.6 million barrels per day.
-
-Those major countries are the United States, Brazil, Canada, and Guana.
-
-The International Energy Agency expects that global oil prices will remain stable throughout the year 2024.
-
-The price of a barrel of Brent in the world market is recorded today as $ 82 and 51 cents.
-
-◼️
-
-[Data](articles/dc071d62.json)
-
-[Extended Data](ext_articles/dc071d62.ext.json)
-
----
-
-### Tears that hear lorenso son
-
-*2024-02-16 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193468) · `si`
-
-"Fishermen and their relatives request the authorities to bring six fishermen on the island soon.
-
-The ceasinghe is still in custody by the legal proposals of the Somali pirates.
-
-"Lorcenso Son, son of Lorcesso," the 4-month-old fishing vessel began in Arabic on the 27th of the April.
-
-Seychelles, the Navy, was released with the six fishermen after two days.
-
-Six of the Sri Lankan fishermen who were seized by the Navy in Sri Lanka were taken to the port of Seychelles to the Port of Seychelles.
-
-However, the fishermen are still in the custody of the security forces and they requested the authorities to bring them to the island soon.
-
-Meanwhile, we inquired from the Fisheries Department to bring the Lorcenso son 04.
-
-Director General of the Fisheries and Aquatic Resources Department,
-
-...
-
-[Data](articles/5841496f.json)
-
-[Extended Data](ext_articles/5841496f.ext.json)
 
 ---

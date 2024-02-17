@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 22:33:00**
+As of **2024-02-17 22:50:21**
 
 ## Newspaper Stats
 
-*Scraped **7,709** Articles*
+*Scraped **7,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 399
 dailyftlk | 415
 adalk | 654
 tamilmirrorlk | 936
-adaderanalk | 948
+adaderanalk | 949
 virakesarilk | 1,015
 adaderanasinhalalk | 1,109
 dailymirrorlk | 1,139
@@ -26,11 +26,27 @@ dailymirrorlk | 1,139
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,703 (99.9%) of 7,709 articles have been extended.
+7,709 (100.0%) of 7,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### US Under Secretary discusses strengthening people-to-people ties, Diaspora outreach
+
+*2024-02-17 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97358/us-under-secretary-discusses-strengthening-people-to-people-ties-diaspora-outreach) · `en`
+
+US Under Secretary for Public Diplomacy and Public Affairs Elizabeth Allen met with Sri Lanka’s Foreign Secretary Aruni Wijewardane on Saturday (17 Feb.), and discussed several recent positive developments between Sri Lanka and the US in the 75th anniversary year of diplomatic relations.
+
+During their meeting at the Ministry of Foreign Affairs, the Under Secretary assured the continuous US assistance to the Government of Sri Lanka towards realizing economic stability, and discussed ways to strengthen people-to-people ties and Diaspora outreach.
+
+Meanwhile, Foreign Secretary Wijewardane welcomed the development assistance extended by the US International Development Finance Corporation in November 2023 to the Colombo West International Terminal Private Limited and appreciated the humanitarian and emergency aid extended to Sri Lanka to overcome the economic challenges of the country.
+
+...
+
+[Data](articles/fa45dcd8.json)
+
+---
 
 ### Notification for those who are applying for Aswez
 
@@ -90,21 +106,25 @@ For Afghanistan, Fazalhaq Farooqi was the pick of the bowlers, picking up three 
 
 [Data](articles/85533ea6.json)
 
+[Extended Data](ext_articles/85533ea6.ext.json)
+
 ---
 
-### හත්වන නාවික හමුදාපති බැසිල් සමුගනියි
+### Basil commands the Seventh Navy
 
 *2024-02-17 21:03:10* · [`adalk`](https://www.ada.lk/breaking_news/හත්වන-නාවික-හමුදාපති-බැසිල්-සමුගනියි/11-408140) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාවේ හත්වන (07) නාවික හමුදාධිපති වශයෙන් කටයුතු කල කීර්තිමත් ජ්‍යේෂ්ඨ  නිලධාරියෙකු වූ අද්මිරාල් බැසිල් ගුණසේකර, අද දින (2024 පෙබරවාරි 17) අභාවප්‍රාප්ත විය.
+The Sri Lanka Navy's Seventh (07) of the Sri Lanka Navy, Admiral Basil Gunasekera, who was commander, passed away today (Feb 17, 2024).
 
-1951 වර්ෂයේ ජූලි මස 23 වන දින රාජකීය ලංකා නාවික හමුදාවේ උප ලුතිනන් වරයෙක් ලෙස අධිකාරියට පත්ව ඇති අද්මිරාල් බැසිල් ගුණසේකර, 1973  ජුනි මස 01 වන දින සිට 1979 මැයි මස 31 වන දින දක්වා ශ්‍රී ලංකා නාවික හමුදාවේ හත්වන (07) නාවික හමුදාධිපති ලෙස කටයුතු කර ඇත.
+Admiral Basil Gunasekera, who was appointed as a Vice Lieutenant of July 23, 1951, was appointed as the Seventh (07) of the Sri Lanka Navy in June 1979 to 31st March 1979..
 
-1929 වර්ෂයේ දී උපත ලබා ඇති දැයෙන් සමුගත් අද්මිරාල් බැසිල් ගුණසේකර ගේ දේහයට අවසන් ගෞරව දැක්වීම සඳහා 2024 පෙබරවාරි මස 18 වන දින දක්වා  අංක 50/06, අනුලා මාවත, කොළඹ 06 පිහිටි නිවසේ තැම්පත් කර ඇති අතර, දේහය පිළිබඳ අවසන් කටයුතු පූර්ණ නාවික හමුදා ගෞරව හා උත්තමාචාර සහිතව 2024 පෙබරවාරි මස 18 වන දින බොරැල්ල පොදු සුසාන භූමියේදී සිදුකිරීමට නියමිතව ඇත.
+In 1929, the last respected of birth was placed in the home of 50/06, Anula Mawatha, Anula Mawatha, No. 50/06, Anula Mawatha.The Borella is scheduled to be held on 18 February on February 18, 2024 with salt.
 
 ◼️
 
 [Data](articles/5bab0a2b.json)
+
+[Extended Data](ext_articles/5bab0a2b.ext.json)
 
 ---
 
@@ -124,19 +144,23 @@ But the President has suspended the President of the President in the country.
 
 ---
 
-### සාම විනිසුරු සුදුසුකම් පහල දමයි
+### Peace judges down
 
 *2024-02-17 20:59:53* · [`adalk`](https://www.ada.lk/breaking_news/සාම-විනිසුරු-සුදුසුකම්-පහල-දමයි/11-408139) · `si`
 
-සාම විනිසුරු පත්වීම් ලබා ගැනීම සඳහා තිබිය යුතු අධ්‍යාපන  සුදුසුකම  ලෙස  නියමකර තිබූ අ.පො.ස උසස් පෙළ විභාගයෙන් විෂයන් තුනක් සමත් වීමේ කොන්දේසිය අ.පො.ස සාමාන්‍ය පෙළ දක්වා අඩුකර තිබේ.
+The approval of three subjects to pass the GCE Advanced Level examination is specified in the Educational A / L examination.
 
-අධිකරණ ,බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ආචාර්ය විජේදාස රාජපක්ෂ මහතා විසින් ඉකුත් නොවැම්බර් 27 දා නිකුත් කළ අතිවිශේෂ ගැසට් පත්‍රයකින් සාම විනිසුරු පත්වීමක් දීමේ අධ්‍යාපන සුදුසුකම ලෙස උසස් පෙළ විෂයන් තුනක් සමත් විය යුතු බව නියම කර තිබිණි .
+Dr. Wijedasa Rajapakse, Minister of Justice and Constitutional Reforms, Minister Dr. Wijedasa Rajapakse should be able to pass three A / L appointment as the educational qualification of the educational gazette issued on November 27.
 
-එම  නියමය සංශෝධනය කරමින් අධිකරණ අමාත්‍යවරයා විසින් තවත් අති විශේෂ ගැසට් නිවේදයක් ඉකුත් 13 දිනයෙන්  නිකුත් කරමින්   සාම විනිසුරු පත්වීම් දීමේදී අධ්‍යාපන සුදුසුකම ලෙස අ.පො.ස සාමාන්‍ය පෙළ විභාගයෙන් වාර දෙකකට නොවැඩි වාර ගණනකදී සම්මාන සාමාර්ථ දෙකක් සහිතව විෂයන් හයක් සමත් විය යුතුබව  නියමකර තිබේ.
+The Minister of Justice will be appointed as the Educational Assessment in the GCE Ordinary Level examination at the GCE Ordinary Level examination at the GCE Ordinary Level examination.
 
-...
+Nevertheless, if a renowned religious leader or union chairman is eligible to be appointed as a peace judiciary, he is able to appoint it as a Justice of the Simath.
+
+◼️
 
 [Data](articles/74855c8b.json)
+
+[Extended Data](ext_articles/74855c8b.ext.json)
 
 ---
 
@@ -166,19 +190,21 @@ He told the AFP news agency there was “no room for error any longer” and ele
 
 ---
 
-### අන්තර්ජාලයේ යන කොරියානු විභාග අයදුම්පත්‍රය ව්‍යාජයි
+### The Korean examination application form on the Internet is fake
 
 *2024-02-17 20:52:48* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාලයේ-යන-කොරියානු-විභාග-අයදුම්පත්‍රය-ව්‍යාජයි/11-408138) · `si`
 
-2024 වර් ෂයේ කොරියානු භාෂාව විභාගයට අදාළ අයදුම් පත්‍රයක් මේ වන විට අන්තර් ජාලය සංසරණය වන අතර එම අයදුම් පත්‍රය කොරියානු භාෂා විභාගයට කිසිදු සම්බන්ධයක් නොමැති ව්‍යාජ අයදුම් පත්‍රයක් බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ අවධාරණය කර සිටියි.
+The application to the Korean Language Examination, which is relevant to the Commission, is aimed at a false application form that has nothing to do with the Korean language examination.
 
-එසේම මෙම විභාග අයදුම්පත්‍රය සම්පූර්ණයෙන් ව්‍යාජ එකක් බව කොරියානු HRDK ආයතනය නිල වශයෙන් ව්‍යාජ තහවුරු කර ඇත. එම ව්‍යාජ google form වෙත ඔබගේ තොරතුරු ලබා දීමෙන් වලකින ලෙස කාර්යාංශය දන්වයි.
+The Korean HRDK has officially affirmed that this examination application is completely fake. The Bureau informs the Bureau as providing your information to that fake Google Form.
 
-2024 කොරියානු විභාගයට පෙනී සිටීමට බලාපොරොත්තු වන අපේක්ෂකයින් විදේශ සේවා නියුක්ති කාර්යාංශයේ වෙබ් අඩවිය වන www.slbfe.lk වෙබ් අඩවියේ පල කර ඇති කොරියානු EPS විභාගය සම්බන්ධ උපදෙස් විස්තර මත පමණක් පදනම්ව කටයුතු කරන්න. එහි පළකර ඇත්තේ අයදුම්පත්‍රයට අදාල උපදෙස් පමණක් වන අතර නිල අයදුම් පත්‍රය  පෙබරවාරි  26 සිට 29 දක්වා www.slbfe.lk හි පමණක් පළකෙරේ. වැඩි විස්තර 1989 අමතා ලබා ගන්නා ලෙස කාර්යාංශය මහජනතාවගෙන් ඉල්ලයි.
+2024 Candidates who wish to sit for the Korean Examination Blue Based on the Korean EPS Examination published on the Foreign Employment Bureau www.slbfe.lk. Its posted only the instructions for the application and the official application form from February 26 to 29 www.slbfe.lk. The Bureau requests the public to obtain more information in 1989.
 
 ◼️
 
 [Data](articles/6b3f594f.json)
+
+[Extended Data](ext_articles/6b3f594f.ext.json)
 
 ---
 
@@ -200,19 +226,21 @@ The Secretary of the International Chamber of Commerce was organized by the Secr
 
 ---
 
-### දකුණු පළාත් සභාවේ රාජ්‍ය සේවකයන්ගේ ස්ථානමාරු නවතියි
+### Stop the public servants of the Southern Provincial Council
 
 *2024-02-17 20:47:23* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාත්-සභාවේ-රාජ්‍ය-සේවකයන්ගේ-ස්ථානමාරු-නවතියි/11-408137) · `si`
 
-දකුණු පළාත් සභාව යටතේ පවතින අමාත්‍යාංශයන්හි 2024 වර්ෂය සඳහා ඉදිරි දිනවල  ක්‍රියාත්මක කිරීමට යෝජිතව තිබූ  පළාත් රාජ්‍ය  නිලධාරින්ගේ ස්ථාන මාරු ක්‍රියාවලිය  නැවත දැනුම්දෙනතුරු තාවකාලිකව  අත් හිටුවීමට දකුණු පළාත් ආන්ඩුකාරවර ආචාර්ය විලී ගමගේ මහතා නියෝග  කර තිබේ.
+Dr. Wilika Gamage has ordered the temporarily abuse the transfer of the provincial government officials to the proposed provincial government officials for the year 2024 in the Southern Provincial Council.
 
-පවතින ආර්ථික දුෂ්කරතා  හා දිගින් දිගටම තමන් වෙත   ලැබෙන අභියාචනා  සලකා මෙම තීරණය ගත් බව ආන්ඩුකාරවරයා සඳහන් කරයි.
+The governor said that the decision was taken into consideration the appeals and appeals of existing economic hardship.
 
-එසේ වුවද යම් පුරප්පාඩුවක් ඇති තැනකට ස්ව කැමැත්තෙන් යාමට හා ස්ථාන දෙකක් අතර එකඟතාව මත ස්ථාන මාරුවීමට මෙම තීරණය බලනොපාන බවද  ආන්ඩුකාරවරයා මේ නියෝගය   සම්බන්ධයෙන් සියලු අමාත්‍යාංශ ලේකම්වරුන් දැනුවත් කරන ලෙස දන්වමින්  දකුණු පළාත් ප්‍රධාන  ලේකම්වරයා වෙත යොමුකළ ලිපියේ සඳහන් කර තිබේ.
+However, the governor does not seek to inform the Secretary of the Southern Province to inform all the Ministry Secretaries regarding the agreement between two vacancies.
 
 ◼️
 
 [Data](articles/56dc5de7.json)
+
+[Extended Data](ext_articles/56dc5de7.ext.json)
 
 ---
 
@@ -880,19 +908,23 @@ Most of the elephant casualties were reported on the 27th of September last year
 
 ---
 
-### රෝගී තදබදය අවම කිරීමට ප්‍රාථමික සෞඛ්‍ය ශක්තිමත් කළ යුතුයි
+### Primary health should be strengthened to reduce the sick congestion
 
 *2024-02-17 14:24:57* · [`adalk`](https://www.ada.lk/breaking_news/රෝගී-තදබදය-අවම-කිරීමට-ප්‍රාථමික-සෞඛ්‍ය-ශක්තිමත්-කළ-යුතුයි/11-408134) · `si`
 
-මෙරට රජයේ රෝහල් වල පවතින රෝගී තදබදය අඩුකරීමට නම්, ප්‍රාථමික සෞඛ්‍යය සංරක්ෂණ වැඩසටහන් සේම,  ප්‍රාථමික සෞඛ්‍යය සේවාව ශක්තිමත් කල යුතු බවත් ,එය සිදු කිරීමට හැකිබවට දැඩි විශ්වාසයක් තමන් තුළ පවතින බවත්, එම තදබදය ද්විතීක රෝහල් වලින් ක්‍රමානුකූලව  අඩු කර ගැනීමට  හැකිවුවහොත් එය විශාල  ජයග්‍රහණයක් බව සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා සදහන් කලේය .
+If the primary health conservation programs in the government hospitals in the country's government hospitals, the health conservation programs should be strengthened, healthy can be a huge achievement if it is a great victory in secondary hospitalsAnd Industry, Dr. Ramesh Pathirana said.
 
-අමාත්‍යවරයා මේ බව සදහන් කලේ ඊයේ දින (16) නැගෙනහිර පළාතේ,  අම්පාර  මහ රෝහලේ සහ මඩකලපුව ශික්ෂණ රෝහලේ සිදු කල විශේෂ නිරික්ෂණ චාරිකාවකින් අනතුරුව රෝහල් කාර්ය මණ්ඩලය සමඟ පැවති  විශේෂ සාකච්ජාමය අවස්ථාවේ දී  අදහස් දක්වමින්ය.
+The Minister was speaking at a special discussion with the hospital staff at the Ampara General Hospital and the Batticaloa General Hospital yesterday (16).
 
-රජයේ රෝහල් පද්ධතිය වඩාත් විධිමත්ව හා ඉහල පහසුකම් වලින් සමන්විත රෝගී සත්කාර සේවා සමගින් පවත්වා ගෙන යාම මුලික අරමුණ කරගනිමින් දිස්ත්‍රික් මට්ටමින් එම  රෝහල් වල පවතින අඩුපාඩු සොයා බලමින් එයට කඩිනම් විසදුම් ලබා දෙමින් මෙරට ජනතාවට ගුණාත්මක විධිමත් සෞඛ්‍ය සේවාවක් ලබා දීමට සෞඛ්‍ය අමාත්‍යංශය විසින් ආරම්භ කර ඇති  විශේෂ වැඩපිලිවෙලට සමගාමීව අමාත්‍යවරයා ප්‍රමුඛ අමාත්‍යංශ නිලධාරීන් මෙම විශේෂ නිරීක්ෂණ චාරිකාව සිදු කරන ලදී.
+Special programs for the people of the Ministry of Health at the district level have been identified as a promotional solution to maintain the shortcomings in the district level with the main objective of maintaining the government's hospitality services.Parallel to ministries, the minister, officials were conducting the special inspection tour.
+
+The Minister and other officials were monitored by the Minister, Wards, Wards, Wards, Ward of theater, Ward, Ward, Wards, Wards, Venue Wounders, and the Primary Treatment of Primary Treatment.
 
 ...
 
 [Data](articles/80f29697.json)
+
+[Extended Data](ext_articles/80f29697.ext.json)
 
 ---
 
@@ -2023,27 +2055,5 @@ Donald Trump is also banned by the courts for three years in New York.
 [Data](articles/f4f2cf4d.json)
 
 [Extended Data](ext_articles/f4f2cf4d.ext.json)
-
----
-
-### 470 wild elephant deaths reported in 2023
-
-*2024-02-17 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/470-wild-elephant-deaths-reported-in-2023/108-277226) · `en`
-
-The death toll of wild elephants has increased in a large proportion, much to the anxiety of the wildlife conservators. Director of Wildlife Conservation Department (Protected Area Management) Manjula Amararathe said the death of 470 wild elephants had been reported for 2023 and that 200 of them, including tuskers, had died due to human activities.
-
-He said 83 wild elephants had been shot dead: 47 killed by laying the explosive device “Hakka Patas,"  66 by laying electric traps, and another four by poisoning.
-
-The official said 70 wild elephants had died of illnesses, natural causes or met with accidents.
-
-It included 23 wild elephants that had been run over by train.
-
-He said eleven wild elephants had been run over by train and shot dead on September 27, which was the highest ever reported on a day.
-
-◼️
-
-[Data](articles/49be9489.json)
-
-[Extended Data](ext_articles/49be9489.ext.json)
 
 ---

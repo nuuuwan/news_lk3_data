@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 23:33:10**
+As of **2024-02-17 23:51:25**
 
 ## Newspaper Stats
 
-*Scraped **7,711** Articles*
+*Scraped **7,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 394
 economynextcom | 399
 dailyftlk | 415
-adalk | 655
+adalk | 656
 tamilmirrorlk | 936
 adaderanalk | 949
-virakesarilk | 1,015
+virakesarilk | 1,017
 adaderanasinhalalk | 1,109
 dailymirrorlk | 1,139
 
@@ -26,11 +26,69 @@ dailymirrorlk | 1,139
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,710 (100.0%) of 7,711 articles have been extended.
+7,711 (100.0%) of 7,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### ஆப்கானிஸ்தானுடனான பரபரப்பான முதலாவது ரி20யில் இலங்கை 4 ஓட்டங்களால் வெற்றி
+
+*2024-02-17 23:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176645) · `ta`
+
+ரங்கிரி தம்புள்ளை சர்வதேச விளையாட்டரங்கில் இன்று சனிக்கிழமை (17) நடைபெற்ற இலங்கைக்கும் ஆப்கானிஸ்தானுக்கும் இடையிலான வரலாற்று முக்கியம் வாய்ந்த முதலாவது இருதரப்பு ரி20 தொடரின் ஆரம்பப் போட்டியில் 4 ஓட்டங்களால் இலங்கை பரபரப்பான வெற்றியை ஈட்டியது.
+
+இலங்கையினால் நிர்ணயிக்கப்பட்ட 161 ஓட்டங்கள் வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் 20 ஓவர்களில் 9 விக்கெட்களை இழந்து 156 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+
+இலங்கை அணித் தலைவர் வனிந்து ஹசரங்கவின் அதிரடி அரைச் சதம், மதீஷ பத்திரணவின் 4 விக்கெட் குவியல், பினுர பெர்னாண்டோவின் கட்டுப்பாடான கடைசி ஓவர் என்பன இலங்கையின் வெற்றியை உறுதிசெய்தன.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இலங்கை 19 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 160 ஓட்டங்களைப் பெற்றது.
+
+ஆப்கானிஸ்தானுடனான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டிகளில் இலங்கையின் முன்வரிசை வீரர்கள் துடுப்பாட்டத்தில் அசத்திய போதிலும் இந்தப் போட்டியில் அவர்களது ஜம்பம் பலிக்கவில்லை.
+
+போட்டியின் 8ஆவது ஓவரில் இலங்கை 4 முன்னணி வீரர்களை இழந்து 55 ஓட்டங்களை மாத்திரம் பெற்றிருந்தது.
+
+...
+
+[Data](articles/81a22e9a.json)
+
+---
+
+### පොඩි මාලි ලංකාවට ජය ගෙනෙයි
+
+*2024-02-17 23:03:34* · [`adalk`](https://www.ada.lk/sports/පොඩි-මාලි-ලංකාවට-ජය-ගෙනෙයි/9-408141) · `si`
+
+සංචාරක ඇෆ්ගනිස්ථාන කණ්ඩායම හා ශ්‍රි ලංකා කණ්ඩායම අතර දඹුල්ලේ පැවැති පළමු විස්සයි 20 තරගයෙන් ලකුණු 4ක තියුණු ජයක් වාර්තා කිරීමට ශ්‍රි ලංකා කණ්ඩායම සමත්විය.
+
+මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 19කදී සියලු දෙනා දැවී ලකුණු 160ක් රැස් කළේය. නායක වනිඳු හසරංග පන්දු 32කදී වේගවත් ලකුණු 67ක් වාර්තා කිරීමට සමත්වූ අතර අනෙක් කිසිම පිතිකරුවෙකුට ලකුණු 30 සීමාව ඉක්මවා යාමට නොහැකි විය.
+
+ලකුණු 161ක ජයග්‍රාහී ඉලක්කයක් හඹා ගිය ඇෆ්ගනිස්ථාන කණ්ඩායමට පන්දුවාර 20 අවසානයේදි කඩුලු 9ක් දැවී රැස්කළ හැකිවූයේ ලකුණු 156ක් පමණි.
+
+ඇෆ්ගනිස්ථාන මුල්පෙළ පිතිරුවන් ලංකාවට අභියෝගයක් වෙමින් වේගයෙන් ලකුණු රැස්කිරිමට කටයුතු කළේය. කෙසේ වෙතත් ශ්‍රී ලංකා පන්දු යවන්නෝ ඇෆ්ගනිස්ථානයට අභියෝගයක් වෙමින් කඩුලු ලබා ගැනීමට කටයුතු කළේය.
+
+ආරම්භක පිතිකරු මෙන්ම නායක ඊබ්‍රහිම් පන්දුවාර 20 අවසන් වන තෙක් ක්‍රීඩා කරමින් ඇෆ්ගනිස්ථාන කණ්ඩායම ජයග්‍රහණයට කැඳවා ගෙන යාමට උත්සාහ කළත් එයද ව්‍යවර්ථ විය.
+
+...
+
+[Data](articles/bd19822b.json)
+
+---
+
+### அரசாங்கம் விகாரைகளின் மின்சாரத்தைக் கூட துண்டித்து தேரர்களைக் கூட இழிவுபடுத்தி வருகிறது - எதிர்க்கட்சித் தலைவர்
+
+*2024-02-17 22:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176616) · `ta`
+
+பௌத்த மதத்திற்கு முன்னுரிமை வழங்கப்பட்டு ஏனைய மதங்களுக்கும் பொருத்தமான இடம் வழங்கப்பட வேண்டும் என அரசியலமைப்பில் கூறப்பட்டுள்ள போதிலும், மிஹிந்தலை புனித பூமியில் அமைந்துள்ள மிஹிந்தலை ரஜ மகா விகாரையின் மின்சாரம் கூட துண்டிக்கப்பட்டுள்ளது. பௌத்த பிக்குகள் மேற்கொள்ளும் சமய சேவைகள் உட்பட ஏனைய சேவைகளையும் சூட்சமமாக நிறுத்த அரச கட்டமைப்பு  செயற்பட்டு வருவதாகவும், மதப்பணிகளை ஒவ்வொன்றாக நிறுத்தி வருவதாகவும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+அனுராதபுரத்தில் சனிக்கிழமை (17) இடம்பெற்ற பிக்குகள் ஆலோசனை பேரவையின் மாவட்ட மாநாட்டில் உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+
+சாசன கல்வியுடன் பிரிவெனாக் கல்வியை ஊக்குவிப்பதன் மூலம், இந்த நிறுவனங்கள் புத்திஜீவிகளின் மையங்களாக மாற்றப்படும். சசுனட அருண ஊடாக பல பணிகளை செய்திருந்தாலும், அந்த திட்டங்களுக்கும் பல்வேறு பொய்யான சேறுபூசும் கதைகள் கூறப்பட்டு வருகின்றன. இதனை பொருட்படுத்தாது, ஐக்கிய மக்கள் சக்தி அமைக்கும் அரசாங்கத்தில் சம்புத்த சாசனத்தைப் பாதுகாக்க நடவடிக்கை எடுக்கப்படும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/87911b7c.json)
+
+---
 
 ### US Under Secretary discusses strengthening people-to-people ties, Diaspora outreach
 
@@ -266,19 +324,21 @@ Wanindu Hasarangan scored 67 off 32 balls.
 
 ---
 
-### රත්කිඳ ජලාශයේ වාන් ගේට්ටු හතම විවෘත කරයි
+### Steam of spines of the Hetakanda Reservoir
 
 *2024-02-17 20:30:03* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-ගේට්ටු-හතම-විවෘත-කරයි/11-408136) · `si`
 
-උල්හිටිය රත්කිද ජලාශයේ ජල මට්ටම ඉහළ යාම නිසාවෙන් අද (17) දින රාත්‍රි  මීට සුලු මොහොතකට පෙර උල්හිටිය රත්කිද ජලාශයේ පිටවානේ ගේට්ටු හතම විවෘත කල හෙයින් ජලාශය ට පහළ ජනතාවට දැඩි විමසිල්ලෙන් අවධානයෙන් ආරක්ෂිතව සිටින්නැයි උල්හිටිය රත්කිද ජලාශය භාර නිළධාරි දීප්ත ජයසේකර මහතා දැනුම් දෙයි .
+Ulhupitiya Ratakara, Ulhpitiya Ratakara, Ulhiyadha Reservoir, Ulhiyadha Reservoir informs the people below the reservoir of the reservoir today (17) before the increase in the water level of the reservoir today (17) were opened due to the increase in the water level of the water level.
 
-ඉකුත් දින කීපය මුලුල්ලේ පතිත වූ වර්ෂාවත් සමඟ උල්හිටිය රත්කිද ජලාශයේ ජල මට්ටම සීග්‍රයෙන් ඉහළ ගිය බවත් , ජලාශයේ රදවා ගත යුතු  ප්‍රමාණයට වඩා ජල මට්ටම ඉහළ යාම නිසාවෙන් මෙසේ මීටර් 0.1 බැගින් ජලාශයේ පිටවානේ ගේට්ටු හතම විවෘත කල බවත් හෙතෙම කීය .
+He said that the water level of the reservoir of the reservoir, he said that the water level of the reservoir was increasingly due to the increase in the reservoir.
 
-ගිරාදුරුකෝට්ට  රත්කිද මාර්ගයේ රත්කිද කෝසුව ද මෙම ජල පහරින් යටවී යන හෙයින් එම ජනතාවට විකල්ප මාර්ග භාවිතා කරන ලෙසට උල්හිටිය රත්කිද ජලාශය භාර නිළධාරි දීප්ත ජයසේකර මහතා වැඩිදුරටත් දැනුම් දී සිටි .
+He was informed of Ulhiyadha Reservoir to use alternative routes as the water is also underway as the water is also underwater.
 
 ◼️
 
 [Data](articles/1e5b30ac.json)
+
+[Extended Data](ext_articles/1e5b30ac.ext.json)
 
 ---
 
@@ -1991,71 +2051,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. (Of)
 [Data](articles/d2c01a4c.json)
 
 [Extended Data](ext_articles/d2c01a4c.ext.json)
-
----
-
-### Dambulla City spring begins
-
-*2024-02-17 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193492) · `si`
-
-The Twenty20 cricket tournament between the Afghan group and Sri Lanka team will commence today.
-
-The first match is scheduled to be held at Dambulla International Cricket Stadium today at 07.00 pm.
-
-Leader of the Twenty Twenty Twenty team said that the Sri Lankan team will be a good mentality to win the Test and ODI series.
-
-◼️
-
-[Data](articles/d81b2b67.json)
-
-[Extended Data](ext_articles/d81b2b67.ext.json)
-
----
-
-### Public toilet fee;Release announcement
-
-*2024-02-17 08:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-கழிப்பறை-கட்டணம்-வெளியான-அறிவிப்பு/175-333336) · `ta`
-
-It has been announced that there is no change in the fee for use of toilets at a private bus station in Bestian Mawatha, Colombo.
-
-People allege that the fee charged for using toilets there has been increased from 20 rupees to 50 rupees.
-
-At this juncture, the National Transport Commission Chairman Shashi Welgama said that no decision has been taken regarding the increase in toilet fee.
-
-Accordingly, the National Transport Commission has issued a notice to replace the raised fee for the toilets.
-
-According to the National Transport Commission, the fee will be charged from yesterday afternoon.. (Of)
-
-◼️
-
-[Data](articles/5d6028b7.json)
-
-[Extended Data](ext_articles/5d6028b7.ext.json)
-
----
-
-### Sri Lanka’s HNB group profits up 3-pct in Dec, amid lower provisions
-
-*2024-02-17 08:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-group-profits-up-3-pct-in-dec-amid-lower-provisions-151231/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Hatton National Bank group, which also has an insurance unit was up 3 percent to 4.43 billion rupees with a fall in net interest income offset by lower provisions, interim account show.
-
-The HNB group reported earnings of 7.93 rupees per share for the December quarter. For the year to December earnings were 40.68 rupees, on total profits of 22.7 billion rupees, up 49 percent from a year earlier.
-
-Net fee and commission income was down 1 percent to 4.1 billion rupees. Trading gains were a negative 1.9 billion rupees.
-
-Interest income at bank level was down 12 percent to 63.4 billion rupees, interest expense was up 5 percent to 42.29 billion rupees, leading to a 34 percent fall in interest income.
-
-During the year loans contracted 2 percent to 954 billion rupees.
-
-Impairment charges were down to 8.2 billion rupees from 30.1 billion rupees last year.
-
-The bond portfolio was up 23 percent to 549 billion rupees during the year to December.
-
-...
-
-[Data](articles/1eaca4fd.json)
-
-[Extended Data](ext_articles/1eaca4fd.ext.json)
 
 ---

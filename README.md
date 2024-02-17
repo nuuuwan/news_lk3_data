@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 16:47:17**
+As of **2024-02-17 17:02:17**
 
 ## Newspaper Stats
 
-*Scraped **7,671** Articles*
+*Scraped **7,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ dailyftlk | 415
 adalk | 648
 tamilmirrorlk | 933
 adaderanalk | 940
-virakesarilk | 1,011
-adaderanasinhalalk | 1,099
+virakesarilk | 1,014
+adaderanasinhalalk | 1,100
 dailymirrorlk | 1,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,671 (100.0%) of 7,671 articles have been extended.
+7,671 (99.9%) of 7,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### ව්‍යාජ අයදුම් පත්‍රයක් ගැන දැනුම්දීමක්
+
+*2024-02-17 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193509) · `si`
+
+අන්තර් ජාලයේ සංසරණය වෙන ව්‍යාජ කොරියානු භාෂා අයදුම් පත්‍රයට නොරැවටෙන ලෙස ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය ජනතාවගෙන් ඉල්ලා සිටී.
+
+අයදුම් පත්‍රයක් කාර්යාංශ වෙබ් අඩවියේ මෙතෙක් පළකර නොමැති අතර එහි ඇත්තේ තොරතුරු විස්තරයක් පමණක් බවද එම කාර්යාංශය අවධාරණය කරයි.
+
+2024 වර්ෂයේ කොරියානු භාෂා විභාගයට අදාළ අයදුම් පත්‍රයක් මේ වනවිට අන්තර්ජාලය සංසරණය වන අතර එම අයදුම් පත්‍රය කොරියානු භාෂා විභාගයට කිසිදු සම්බන්ධයක් නොමැති ව්‍යාජ අයදුම් පත්‍රයක් බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ තවදුරටත් අවධාරණය කර තිබේ.
+
+එසේම මෙම විභාග අයදුම්පත්‍රය සම්පූර්ණයෙන් ව්‍යාජ එකක් බව කොරියානු HRDK ආයතනය ද නිල වශයෙන් තහවුරු කර ඇති බවද කාර්යාංශය පෙන්වා දෙයි.
+
+එම ව්‍යාජ Google Forms වෙත ඔබගේ තොරතුරු ලබාදීමෙන් වළකින ලෙස ද ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය ජනතාවගෙන් ඉල්ලා සිටී.
+
+2024 කොරියානු විභාගයට පෙනී සිටීමට බලාපොරොත්තු වන අපේක්ෂකයින් විදේශ සේවා නියුක්ති කාර්යාංශයේ වෙබ් අඩවිය වන www.slbfe.lk වෙබ් අඩවියේ පල කර ඇති කොරියානු EPS විභාගය සම්බන්ධ උපදෙස් විස්තර මත පමණක් පදනම්ව කටයුතු කරන ලෙස කාර්යාංශය පවසයි.
+
+...
+
+[Data](articles/c75b88fa.json)
+
+---
+
+### யாழில் இரும்பு பெட்டியால் பரபரப்பு
+
+*2024-02-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176629) · `ta`
+
+யாழ்ப்பாண நகர்பகுதியில் இன்று சனிக்கிழமை (17) காலை இரும்பு பெட்டியொன்று அனாதரவாக காணப்பட்டதால் அதில் வெடிகுண்டு இருக்கலாம் என்ற அச்சம் காணப்பட்டு பரபரப்பான சூழல் உருவானது.
+
+இதனையடுத்து, அங்கிருந்தவர்கள் யாழ்ப்பாணம் பொலிஸ் நிலையத்திற்கு தகவலளித்த நிலையில் பொலிஸார், பொலிஸ் விசேட அதிரடிப் படையினர் குறித்த இடத்துக்கு விரைந்து பெட்டியை சோதனையிட்டனர்.
+
+◼️
+
+[Data](articles/bf89c878.json)
+
+---
+
+### மன்னார் சிறுமி துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு, கழுத்து நெரித்து கொலை ; வெளியானது பிரேத பரிசோதனை அறிக்கை
+
+*2024-02-17 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176628) · `ta`
+
+மன்னாரில் 10 வயது சிறுமி ஒருவர் பாலியல் வல்லுறவுக்குட்படுத்தப்பட்டு கழுத்து நெரிக்கப்பட்டு கொலை செய்யப்பட்டுள்ளதாக பிரேத பரிசோதனையில்  அறிக்கையிடப்பட்டுள்ளது.
+
+தலைமன்னார் ஊர்மனை கிராமத்தில் 10 வயது சிறுமியொருவர் நேற்றைய தினம் வெள்ளிக்கிழமை சடலமாக மீட்கப்பட்டநிலையில், இன்று  சனிக்கிழமை யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிறுமியின் சடலம் உடற்கூற்று பரிசோதனைக்கு உள்ளாக்கப்பட்டது.
+
+அதன் போதே , சிறுமி வன்புணர்வுக்கு உட்படுத்தப்பட்ட பின்னர் கழுத்து நெரித்து கொலை செய்யப்பட்டுள்ளார் என கண்டறியப்பட்டுள்ளது.
+
+சம்பவம் தொடர்பில் சிறுமியின் வீட்டிற்கு அருகிலுள்ள தென்னந்தோப்பில் வேலை செய்த 52 வயதான திருகோணமலை - குச்சவெளியைச் சேர்ந்த ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த சிறுமி நேற்று முன்தினம் வியாழக்கிழமை மாலை காணாமற்போயுள்ளதாக பொலிஸில் முறைப்பாடு செய்யப்பட்டது.
+
+இதனையடுத்து, பிரதேச மக்கள் தேடுதலில் ஈடுபட்ட போது, தென்னந்தோட்டத்தில் இருந்து நேற்றைய தினம் வெள்ளிக்கிழமை காலை சிறுமியின் சடலம் மீட்கப்பட்டது.
+
+...
+
+[Data](articles/fcf071c7.json)
+
+---
 
 ### Officers involved in bus fraud suspended
 
@@ -99,6 +157,22 @@ Subsequently, he will meet with civil society leaders to hear their perspective 
 [Data](articles/95b563a8.json)
 
 [Extended Data](ext_articles/95b563a8.ext.json)
+
+---
+
+### தேசிய அரசுக்கான முயற்சி ஒன்றின்  மூலமே நாட்டின் பொருளாதாரத்தை கட்டியெழுப்ப முடியும் - ரவூப் ஹக்கீம்
+
+*2024-02-17 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176619) · `ta`
+
+ஒரு தேசிய அரசின் தோரணையில் அதாவது எதிர்க்கட்சி இல்லாத ஒரு பாராளுமன்றத்தை உருவாக்கி  அங்கு, ஆளும் கட்சி மற்றும்  எதிர்க்கட்சி என்பன   ஒன்றிணைந்து,  இந்த நாட்டை  கட்டியெழுப்புவதற்கான முயற்சிகள்  மேற்கொள்ளபடுமாயின் அதற்கு  எங்களது ஆதரவு கிடைக்கும் எனவும்  முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப்  ஹக்கீம்  தெரிவித்துள்ளார்.
+
+சர்வதேச விளையாட்டு வீரர்களை உருவாக்கிய கண்டி, மடவளை பஸார்  பிரதேசத்தில் தனியார் அமைப்பினால் நிர்மாணிக் கப்பட்டுள்ள  'எக்சன்'  உள்ளக விளையாட்டரங்கின் திறப்பு விழாவுக்கு பிரதம அதிதியாக  பிசன்னமாயிருந்த  பின்னர்  ஊடகவியலாளர்களின் கேள்விகளுக்கு பதிலளித்து பேசுகையில்   ஸ்ரீல. மு.கா  தலைவர்  மேற்கண்டவாறு தெரிவித்தார்.
+
+நேற்று வெள்ளிக்கிழமை (16) மாலை இடம்பெற்ற இந்த நிகழ்விற்கு கண்டி மாவட்ட  பாராளுமன்ற உறுப்பினர் வேலுகுமார், மத்திய மாகாண சபை முன்னாள் உறுப்பினர்கள்  திலின பண்டார தென்னகோன், ஹிதாயத் சத்தார் அகில இலங்கை  மொத்த மற்றும் சில்லறை வியாபார சங்கத்தின் தலைவர் டபிள்யு.எம். நஜீம்   உள்ளிட்ட  பல அதிதிகள் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/2d463a8a.json)
 
 ---
 
@@ -1979,83 +2053,5 @@ Marine police then confiscated sea cards and arrested Jakaruddin, the owner of t
 [Data](articles/f068145b.json)
 
 [Extended Data](ext_articles/f068145b.ext.json)
-
----
-
-### Health Minister visits Batticaloa Teaching Hospital
-
-*2024-02-17 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176584) · `ta`
-
-Health Minister Ramesh Pathirana, who was on a visit to the Batticaloa district on Friday (16), visited the Batticaloa Teaching Hospital.
-
-A discussion was held at the Teaching Hospital auditorium headed by Dr. K. Kalaranjani, Director of the Hospital.
-
-Health officials and medical experts were present at the event, including MPs of the district, Ali Zahir Maulana, diplomatic ministers C. Chandrakanthan and C.Vayalendran, Secretary to the Ministry of Health, Dr. Maibala, Director of Health Services, Dr. Asela Gunawardena.
-
-The minister's panel has been asked about the shortcomings and needs of the hospital.
-
-◼️
-
-[Data](articles/b9afacd4.json)
-
-[Extended Data](ext_articles/b9afacd4.ext.json)
-
----
-
-### Jaffna  District Parliamentarian MA Sumanthiran  PC Challenges Online Safety Bill’s Purported Enactment by Filing FR Petition in SC against Speaker and A-G for Alleged Breach of Trust
-
-*2024-02-17 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83637) · `en`
-
-Tamil National Alliance Opposition Parliamentarian, President’s Counsel (PC) M.A. Sumanthiran has filed a Fundamental Rights (FR) petition in the Supreme Court (SC) against Speaker of the Parliament Mahinda Yapa Abeywardana and Attorney General (AG) Sanjay Rajaratnam PC, respectively, over the Speaker’s purported certification of the Online Safety Bill (OSB) and the AG’s alleged wrongful and negligent advice to the Speaker and the Parliament regarding the same.
-
-The petitioner notes that the SC has determined that several clauses of the said Bill were inconsistent and would require a two thirds majority vote of the entire Parliament to be enacted, while if the specified amendments (proposed by the State to be moved at the Committee Stage of the Bill in the Parliament) were incorporated into the Bill, the Bill could be passed with a simple majority.
-
-...
-
-[Data](articles/b959eac2.json)
-
-[Extended Data](ext_articles/b959eac2.ext.json)
-
----
-
-### Recovery of young family from well from Veerapuram area
-
-*2024-02-17 00:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176583) · `ta`
-
-The body of a young family member has been recovered from a well in Veerapuram area in Vavuniya on Friday morning, Chettikulam police said.
-
-A young family in Vavuniya, Chettikulam and Veerapuram area has jumped into the well at the home of a young family.
-
-Subsequently, the wife and the children tried to recover the neighbors. Neighbors lodged a complaint with the Grama Niladhari and the police.
-
-Although he was rescued with the help of the people, he was rescued while he died. The body was subsequently handed over to the Chettikulam Hospital and sent to the Vavuniya Hospital.
-
-The 33 -year -old Sepamalai Morrison, the father of three children in the incident. Chettikulam police are conducting investigations into the incident.
-
-◼️
-
-[Data](articles/db698307.json)
-
-[Extended Data](ext_articles/db698307.ext.json)
-
----
-
-### Rocking the Cradle while Pinching the Baby
-
-*2024-02-17 00:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Rocking-the-Cradle-while-Pinching-the-Baby/172-277214) · `en`
-
-The President, in his policy statement said “However, contentment with this progress alone is not sufficient… By September 2023 our total debt burden was US $ 91 billion
-
-One of the main points that were highlighted by the media from the policy statement presented by President Ranil Wickremesinghe on February 7 after opening of the new session of the Parliament was the need for unity among major political parties in Parliament.
-
-He questioned as to why the Samagi Jana Balawegaya (SJB) cannot join the government if the Sri Lanka Podujana Permuna (SLPP) can do so in the interest of the country. He also questioned as to why the Janatha Vimukthi Peramuna (JVP) could not join hands with his government if they could work with his party in 2015 with a view to eradicate corruption.
-
-Again, at a function to mark the inauguration of the Anuradhapura North Water Supply Project on Thursday, the President reiterated his call for unity among political parties.
-
-...
-
-[Data](articles/cdf6bb04.json)
-
-[Extended Data](ext_articles/cdf6bb04.ext.json)
 
 ---

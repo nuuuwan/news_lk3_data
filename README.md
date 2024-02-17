@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 20:17:25**
+As of **2024-02-17 20:32:47**
 
 ## Newspaper Stats
 
@@ -26,27 +26,31 @@ dailymirrorlk | 1,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,690 (99.9%) of 7,696 articles have been extended.
+7,696 (100.0%) of 7,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### கச்சத்தீவு திருவிழாவை புறக்கணிக்க முடிவு
+### Decision to boycott the Kachchativu festival
 
 *2024-02-17 19:44:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சத்தீவு-திருவிழாவை-புறக்கணிக்க-முடிவு/175-333346) · `ta`
 
-வரும் 23ஆம் திகதி நடைபெற உள்ள கச்சத்தீவு திருவிழாவை புறக்கணிக்க இந்திய மீனவர்கள் முடிவு செய்துள்ளனர்.
+Indian fishermen have decided to boycott the Kachchativu festival on the 23rd.
 
-இராமேஸ்வரம் மீன்பிடி துறைமுகத்தில் இருந்து கடந்த 4ஆம் திகதி மீன்பிடிப்பதற்கான அனுமதிச்சீட்டைப் பெற்று சுமார் 400க்கும் மேற்பட்ட விசைப்படகுகளில் மீனவர்கள் மீன்பிடிக்க கடலுக்குச் சென்றனர்.
+More than 400 fishermen went to sea for fishing from Rameswaram fishing port on the 4th of last month.
 
-இந்நிலையில் அவர்கள் காங்கேசன் கடல் எல்லைப் பகுதியில் மீன் பிடித்துக் கொண்டிருந்தபோது, அப்பகுதியில் ரோந்து வந்த இலங்கை கடற்படையினர் எல்லை தாண்டி மீன்பிடித்ததாகக் கூறி 23 மீனவர்களை கைது செய்ததோடு, 2 விசைப்படகுகளையும் பறிமுதல் செய்தனர்.
+While they were fishing in the Kankesan Sea border, the Sri Lankan navy patrolled the area arrested 23 fishermen and confiscated 2 boats.
 
-இதைத் தொடர்ந்து இலங்கை சிறையில் அடைக்கப்பட்ட மீனவர்கள், நேற்றைய தினம் இலங்கை நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டனர். இதில் 20 பேரை விடுதலை செய்த இலங்கை நீதிமன்றம், 2 விசைப்படகுகளின் உரிமையாளர்களுக்கு 6 மாத சிறை தண்டனையும், ஒருவர் 2ஆவது முறையாக எல்லை தாண்டி மீன்பிடித்த குற்றச்சாட்டில் கைது செய்யப்பட்டதால் அவருக்கு 1 வருட சிறை தண்டனையும் வழங்கி தீர்ப்பளித்தது.
+Following this, the fishermen who were detained in Sri Lankan jails were produced before the Sri Lankan court yesterday. The Sri Lankan court released 20 of them and sentenced the owners of the two boys to 6 months in prison and one for the 2nd time after a 2 -year -old fishing charge.
+
+Sri Lankan court ruling caused great turmoil among Rameswaram fishermen. Subsequently, fishermen held an emergency consultation at the Rameswaram fishing port today (17). They have decided to boycott the Kachchativu festival on the 23rd.
 
 ...
 
 [Data](articles/a684ba4b.json)
+
+[Extended Data](ext_articles/a684ba4b.ext.json)
 
 ---
 
@@ -66,37 +70,41 @@ They communicated this in a letter addressed to President Ranil Wickremesinghe.
 
 ---
 
-### ත්‍රෛනිකායික මහනාහිමිවරුන්ගෙන් ජනපතිට ලිපියක්
+### Thirtricancy Mahanayake
 
 *2024-02-17 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193515) · `si`
 
-ත්‍රෛනිකායික මහානායක හිමිවරුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ලිපියක් යොමුකර තිබේ.
+The Chief Prelate has written to President Ranil Wickremesinghe.
 
-ඉන් ඔවුන් අනතුරු අඟවා ඇත්තේ රාජ්‍ය සම්පත් පෞද්ගලීකරණ කිරීම හේතුවෙන් සමාජ අනාරක්ෂිතතාවක් නිර්මාණය වීමේ අවදානමක් මතුව ඇති බවයි.
+They warned that the privatization of state resources has been a risk of creating a social inconstruction.
 
 ◼️
 
 [Data](articles/9b2081ce.json)
 
+[Extended Data](ext_articles/9b2081ce.ext.json)
+
 ---
 
-### සේවයෙන් ඉවත් වෙන්නේ නැහැ - වෛද්‍ය බෙල්ලන
+### Does Not Get Service - Dr. Bellana
 
 *2024-02-17 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193514) · `si`
 
-තමා කිසිඳු අවස්ථාවක ජාතික රෝහල තුළ කාර්යාල අඩස්සියට පත් නොවු බව එම රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පවසයි.
+Deputy Director of the Hospital Dr. Rukshan Bellana, said that he was not outfit at the national hospital.
 
-සේවකයින් කිහිප දෙනෙකු උද්ඝෝෂණය කළ පමණින් තමන් සේවයෙන් ඉවත් වීමට කිසිදු අවස්ථාවක සුදානම් නොමැති බවද නියෝජ්‍ය අධ්‍යක්ෂකවරයා සඳහන් කළේය.
+The Deputy Director said that just because of several employees agitated, they have not yet been prepared to leave.
 
-වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා කොළඹ ජාතික රෝහලේ කණිෂ්ඨ කාර්ය මණ්ඩලය සම්බන්ධයෙන් සිදුකළ ප්‍රකාශයක් හේතුවෙන් මේ වනවිට එම සේවකයින් අතර නොසන්සුන්කාරී තත්ත්වයක් හටගෙන තිබේ.
+Dr. Rukshan Bellana has resulted in a tense situation due to a statement made by the Colombo National Hospital Junior staff.
 
-ඒ අනුව එම ප්‍රකාශයට විරෝධය පළ කරමින් වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පැය 06ක පමණ කාලයක් කාර්යාල අඩස්සියේ තබා ගැනීමට සේවකයින් කටයුතු කළ අතර අද දිනයේත් විරෝධතා ක්‍රියාමාර්ගයක් ජාතික රෝහල තුළ ක්‍රියාත්මක වුණි.
+According to the expulsion of the statement, Dr. Rukshan Bellana took place for about six hours at the office.
 
-මෙහිදී කණිෂ්ඨ කාර්ය මණ්ඩල සේවකයින් සඳහන් කළේ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා ජාතික රෝහලේ සේවයට වාර්තා කළහොත් තමන් වෘත්තීය ක්‍රියාමාර්ග ගන්නා බවය.
+The Junior staff employees stated that if Dr. Rukshan Bellana is reported to work in the National Hospital, he will take career action.
 
 ◼️
 
 [Data](articles/8edb29e1.json)
+
+[Extended Data](ext_articles/8edb29e1.ext.json)
 
 ---
 
@@ -140,6 +148,8 @@ According to reports, this dire situation has forced authorities to accommodate 
 
 [Data](articles/2456d91a.json)
 
+[Extended Data](ext_articles/2456d91a.ext.json)
+
 ---
 
 ### To Afghanistan to advantage
@@ -167,6 +177,8 @@ President Ranil Wickremesinghe embarked on an observation tour in the Tangalle a
 ◼️
 
 [Data](articles/bc500a95.json)
+
+[Extended Data](ext_articles/bc500a95.ext.json)
 
 ---
 
@@ -445,6 +457,8 @@ Hospital sources indicated that the students' sudden loss of consciousness raise
 ◼️
 
 [Data](articles/db5db35d.json)
+
+[Extended Data](ext_articles/db5db35d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 06:52:47**
+As of **2024-02-17 07:15:12**
 
 ## Newspaper Stats
 
-*Scraped **7,590** Articles*
+*Scraped **7,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 645
 tamilmirrorlk | 922
 adaderanalk | 926
 virakesarilk | 999
-adaderanasinhalalk | 1,077
+adaderanasinhalalk | 1,078
 dailymirrorlk | 1,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,574 (99.8%) of 7,590 articles have been extended.
+7,584 (99.9%) of 7,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### සිහින් වැසි වාර කිහිපයක්
+
+*2024-02-17 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193485) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් පස්වරු 02.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට සහ මහනුවර  දිස්ත්‍රික්කවලත් විටින් විට හමන පැයට කිලෝ මීටර් 30ක 40ක පමණ තරමක තද සුළං ඇති විය හැක.
+
+ගිගුරුම් සහිත වැසි සමඟ ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/34d75a43.json)
+
+---
 
 ### India-Sri Lanka officials discuss collaboration
 
@@ -160,6 +178,8 @@ He spent a few hours discussing in English with the Indian External Affairs Mini
 
 [Data](articles/8aad0bd4.json)
 
+[Extended Data](ext_articles/8aad0bd4.ext.json)
+
 ---
 
 ### Sri Lanka conducts “Ceylon-Persia” tourism awareness program in Iran
@@ -173,6 +193,8 @@ Over 35 tour companies, outbound tour operators and representatives from the med
 ...
 
 [Data](articles/3d7b1ca6.json)
+
+[Extended Data](ext_articles/3d7b1ca6.ext.json)
 
 ---
 
@@ -188,6 +210,8 @@ Sithara Ltd., the pioneer printing ink manufacturing company in Sri Lanka, has b
 
 [Data](articles/1c892902.json)
 
+[Extended Data](ext_articles/1c892902.ext.json)
+
 ---
 
 ### “Best of Sri Lanka” product promotion at LuLu Hypermarket in Dubai
@@ -201,6 +225,8 @@ The product promotion campaign was held over one week from 2 to 9 February and t
 ...
 
 [Data](articles/0a000ac2.json)
+
+[Extended Data](ext_articles/0a000ac2.ext.json)
 
 ---
 
@@ -219,6 +245,8 @@ He also emphasised the significance of ensuring Israel’s security, fostering a
 ...
 
 [Data](articles/4942dd60.json)
+
+[Extended Data](ext_articles/4942dd60.ext.json)
 
 ---
 
@@ -240,23 +268,27 @@ A few days later former SLFP MP Dayasritha Tissera also joined the SJB. Tissera 
 
 [Data](articles/359a0f02.json)
 
+[Extended Data](ext_articles/359a0f02.ext.json)
+
 ---
 
-### தங்க ஆபரணங்களை திருடிய இளைஞர் கைது
+### Youth arrested for stealing gold ornaments
 
 *2024-02-17 02:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-ஆபரணங்களை-திருடிய-இளைஞர்-கைது/175-333333) · `ta`
 
-வவுனியா நகர சபை மைதானத்தில் நடைப் பயிற்சிக்கு வருகை தந்தவரின் நகைகளைத் திருடிய சம்பவம் தொடர்பில் 32 வயது இளைஞர் ஒருவர் நேற்று கைது செய்யப்பட்டுள்ளார் என்று வவுனியா பொலிஸார் தெரிவித்தனர்.
+A 32 -year -old youth has been arrested yesterday in connection with theft of jewelery of a man who was trained at the Vavuniya City Council ground, Vavuniya police said.
 
-வவுனியா, தோணிக்கல் பகுதியைச் சேர்ந்த பெண் ஒருவர் நடைப் பயிற்சிக்காகக் கடந்த சில நாட்களாக வவுனியா நகர சபை மைதானத்துக்கு வந்து சென்றுள்ளார். வழமை போன்று நேற்றுமுன்தினம் மாலையும் நகர சபைக்கு அவர் வந்துள்ளார்.
+A woman from Dhonikkal, Vavuniya has visited the Vavuniya City Council ground for a walk for the past few days. As usual, he came to the city council yesterday evening.
 
-இதன்போது தான் அணிந்திருந்த சங்கிலி, காப்பு உள்ளிட்ட 4 பவுண் தங்க ஆபரணங்களை நகர சபை வளாகத்தில் உள்ள மோட்டடார் சைக்கிள் தரிப்பிடத்தில் நிறுத்தப்பட்ட தனது மோட்டார் சைக்கிள் இருக்கைக்குள் வைத்து பூட்டி விட்டு நடைப் பயிற்சிக்குச் சென்றுள்ளார்.
+At the time, he was locked up in his motorcycle seat in the Motor Cycle Motor Bicycle at the City Council premises, including the chain and insulation he was wearing.
 
-நடைப் பயிற்சி முடிந்த பின்னர் தனது மோட்டார் சைக்கிளை எடுப்பதற்காக அந்தப் பெண் வந்தபோது அவரது மோட்டார் சைக்கிள் இருக்கை உடைக்கப்பட்டு அதில் இருந்த நகைகள் திருடப்பட்டிருந்தன என்பது குறிப்பிடத்தக்கது. (a)
+It is noteworthy that when the woman arrived to take her motorcycle after the walk, her motorcycle was broken and the jewelery was stolen in it.. (A)
 
 ◼️
 
 [Data](articles/cb6b242b.json)
+
+[Extended Data](ext_articles/cb6b242b.ext.json)
 
 ---
 
@@ -826,6 +858,8 @@ A crossing in National Development Bank shares contributed Rs 626 million to the
 
 [Data](articles/11faf171.json)
 
+[Extended Data](ext_articles/11faf171.ext.json)
+
 ---
 
 ### SLT-MOBITEL Nebula Institute of Technology receives dual honours at Pearson BTEC Higher Education Forum 2023
@@ -841,6 +875,8 @@ SLTTC received the Pearson awards to honour its track record, before transitioni
 ...
 
 [Data](articles/efc60e97.json)
+
+[Extended Data](ext_articles/efc60e97.ext.json)
 
 ---
 
@@ -877,6 +913,8 @@ At the heart of TikTok’s charm is its vast spectrum of content, covering an ar
 ...
 
 [Data](articles/90337589.json)
+
+[Extended Data](ext_articles/90337589.ext.json)
 
 ---
 
@@ -2051,19 +2089,5 @@ The officer was produced at the Nikaweratiya Base Hospital for medical examinati
 [Data](articles/6a91ee2a.json)
 
 [Extended Data](ext_articles/6a91ee2a.ext.json)
-
----
-
-### Dr. Bellana taken hostage by minor staff workers
-
-*2024-02-16 14:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dr-Bellana-taken-hostage-by-minor-staff-workers/108-277174) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - The minor staff workers of the Naional Hospital in Colombo are currently holding its Deputy Director, Dr. Rukshan Bellana, hostage in his office, hospital sources said.
-
-◼️
-
-[Data](articles/3ed10505.json)
-
-[Extended Data](ext_articles/3ed10505.ext.json)
 
 ---

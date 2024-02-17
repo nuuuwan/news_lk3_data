@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 06:16:14**
+As of **2024-02-17 06:52:47**
 
 ## Newspaper Stats
 
-*Scraped **7,580** Articles*
+*Scraped **7,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 85
 bbccomsinhala | 99
 dbsjeyarajcom | 150
 newsfirstlk | 363
-islandlk | 385
+islandlk | 394
 economynextcom | 398
 dailyftlk | 415
 adalk | 645
-tamilmirrorlk | 921
+tamilmirrorlk | 922
 adaderanalk | 926
 virakesarilk | 999
 adaderanasinhalalk | 1,077
@@ -26,7 +26,7 @@ dailymirrorlk | 1,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,568 (99.8%) of 7,580 articles have been extended.
+7,574 (99.8%) of 7,590 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The Sri Lankan delegation included Ministry of Technology Secretary Dr. Dharmasr
 ...
 
 [Data](articles/31ec814a.json)
+
+[Extended Data](ext_articles/31ec814a.ext.json)
 
 ---
 
@@ -64,6 +66,8 @@ They were the recipients of a “Suhuru” classroom of the “Sakwala” progra
 
 [Data](articles/51321ea5.json)
 
+[Extended Data](ext_articles/51321ea5.ext.json)
+
 ---
 
 ### Japan provides Yen 1.2 b grant to power 3 hospitals with renewable energy
@@ -79,6 +83,8 @@ This grant aims to reduce carbon footprint and ease the financial burden on ener
 ...
 
 [Data](articles/0c8bed71.json)
+
+[Extended Data](ext_articles/0c8bed71.ext.json)
 
 ---
 
@@ -97,6 +103,8 @@ The journey to independence was arduous, as Lithuania had endured subjugation un
 ...
 
 [Data](articles/2c509e67.json)
+
+[Extended Data](ext_articles/2c509e67.ext.json)
 
 ---
 
@@ -118,6 +126,8 @@ Additionally, naval personnel from both nations are anticipated to participate i
 
 [Data](articles/26caff3c.json)
 
+[Extended Data](ext_articles/26caff3c.ext.json)
+
 ---
 
 ### Waning hegemony
@@ -133,6 +143,8 @@ By the 19th century, Britain became a global hegemon. This was inaugurated by th
 ...
 
 [Data](articles/f4056eee.json)
+
+[Extended Data](ext_articles/f4056eee.ext.json)
 
 ---
 
@@ -227,6 +239,24 @@ A few days later former SLFP MP Dayasritha Tissera also joined the SJB. Tissera 
 ◼️
 
 [Data](articles/359a0f02.json)
+
+---
+
+### தங்க ஆபரணங்களை திருடிய இளைஞர் கைது
+
+*2024-02-17 02:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-ஆபரணங்களை-திருடிய-இளைஞர்-கைது/175-333333) · `ta`
+
+வவுனியா நகர சபை மைதானத்தில் நடைப் பயிற்சிக்கு வருகை தந்தவரின் நகைகளைத் திருடிய சம்பவம் தொடர்பில் 32 வயது இளைஞர் ஒருவர் நேற்று கைது செய்யப்பட்டுள்ளார் என்று வவுனியா பொலிஸார் தெரிவித்தனர்.
+
+வவுனியா, தோணிக்கல் பகுதியைச் சேர்ந்த பெண் ஒருவர் நடைப் பயிற்சிக்காகக் கடந்த சில நாட்களாக வவுனியா நகர சபை மைதானத்துக்கு வந்து சென்றுள்ளார். வழமை போன்று நேற்றுமுன்தினம் மாலையும் நகர சபைக்கு அவர் வந்துள்ளார்.
+
+இதன்போது தான் அணிந்திருந்த சங்கிலி, காப்பு உள்ளிட்ட 4 பவுண் தங்க ஆபரணங்களை நகர சபை வளாகத்தில் உள்ள மோட்டடார் சைக்கிள் தரிப்பிடத்தில் நிறுத்தப்பட்ட தனது மோட்டார் சைக்கிள் இருக்கைக்குள் வைத்து பூட்டி விட்டு நடைப் பயிற்சிக்குச் சென்றுள்ளார்.
+
+நடைப் பயிற்சி முடிந்த பின்னர் தனது மோட்டார் சைக்கிளை எடுப்பதற்காக அந்தப் பெண் வந்தபோது அவரது மோட்டார் சைக்கிள் இருக்கை உடைக்கப்பட்டு அதில் இருந்த நகைகள் திருடப்பட்டிருந்தன என்பது குறிப்பிடத்தக்கது. (a)
+
+◼️
+
+[Data](articles/cb6b242b.json)
 
 ---
 
@@ -782,6 +812,38 @@ The feature elaborates on the miseries of female Sri Lankan farmers such as Renu
 
 ---
 
+### Bourse turns positive in the wake of CBSL’s February 2024, Monetary Policy Report release
+
+*2024-02-16 20:49:00* · [`islandlk`](http://island.lk/bourse-turns-positive-in-the-wake-of-cbsls-february-2024-monetary-policy-report-release/) · `en`
+
+Stock market activities turned positive yesterday subsequent to the release of the Central Bank’s Monetary Policy Report – February 2024, which revealed that Sri Lanka is heading for stability in the coming months, thus creating a bullish sentiment in the market, market analysts said.Consequently, both market indices moved upwards.
+
+A crossing in National Development Bank shares contributed Rs 626 million to the day’s turnover and a share closed up at Rs. 65.10. The market was up mainly because of trades in the banking sector (Rs 769 million), a market participant said. “This is dividend season for the banks. So there is some interest there, market analysts said.
+
+“Also with interest rates coming down, interest in the equity market is returning, market sources said. The bigger banks all closed up: Sampath Bank (Rs 73.20), Commercial Bank of Ceylon (Rs 89.50), DFCC Bank (Rs 78.80), and HNB (up at Rs 163.00).
+
+...
+
+[Data](articles/11faf171.json)
+
+---
+
+### SLT-MOBITEL Nebula Institute of Technology receives dual honours at Pearson BTEC Higher Education Forum 2023
+
+*2024-02-16 20:49:00* · [`islandlk`](http://island.lk/slt-mobitel-nebula-institute-of-technology-receives-dual-honours-at-pearson-btec-higher-education-forum-2023/) · `en`
+
+During the Pearson BTEC Higher Education Forum 2023 at the Colombo Kingsbury Hotel, the spotlight was on SLT-MOBITEL’s education arm, the Sri Lanka Telecom Training Centre (SLTTC), now known as the SLT-MOBITEL Nebula Institute of Technology.
+
+The institute, the education arm of SLT-MOBITEL, received significant recognition at the event securing two prestigious honours. Senior representatives from Pearson including Jane Baker, Vice President, Business Development UK and International Workforce Skills, Premila Paulraj, Director, Employability and Qualifications, Pearson South Asia and Suriya Bibile, DGM, BTEC, PTE and HEd Courseware Pearson, attended the event.
+
+SLTTC received the Pearson awards to honour its track record, before transitioning to the new chapter. Additionally, since the SLT-MOBITEL Nebula Institute of Technology was established, it has accomplished several key achievements including the successful introduction of two new programmes.
+
+...
+
+[Data](articles/efc60e97.json)
+
+---
+
 ### Two Iranian Navy ships in Colombo
 
 *2024-02-16 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Iranian-Navy-ships-in-Colombo/108-277187) · `en`
@@ -801,6 +863,32 @@ Moreover, Officer Cadets and personnel from the Sri Lanka Navy will visit the Ir
 [Data](articles/1ac79ac2.json)
 
 [Extended Data](ext_articles/1ac79ac2.ext.json)
+
+---
+
+### TikTok ignites love and creative expression on #ValentinesDay
+
+*2024-02-16 20:31:00* · [`islandlk`](http://island.lk/tiktok-ignites-love-and-creative-expression-on-valentinesday/) · `en`
+
+As Cupid’s arrow takes aim, TikTok stands at the forefront of a digital love fest, bringing users together to celebrate #ValentinesDay in style. From versatile features to a diverse array of content, TikTok’s commitment to promoting a safe and harmonious online community creates an ideal space for content creators, including couples, to thrive. The platform also allows users to effortlessly navigate and explore a variety of rich content, whether they are on the hunt to find an ideal date spot, planning a romantic getaway, or deciding on an outfit for the occasion.
+
+At the heart of TikTok’s charm is its vast spectrum of content, covering an array of categories in bite-sized videos. From the funny moments by ‘Eric & Mani Heinrichs’, breathtaking travel escapades of “Travel with Wife” to the lifestyle musings of Eshi Dias, TikTok has become a hub where users can access a wealth of information, entertainment, and inspiration in easily digestible snippets.
+
+...
+
+[Data](articles/90337589.json)
+
+---
+
+### British Council launches Youth-Led Green and Inclusive Initiatives in Businesses project in Sri Lanka
+
+*2024-02-16 20:30:00* · [`islandlk`](http://island.lk/british-council-launches-youth-led-green-and-inclusive-initiatives-in-businesses-project-in-sri-lanka/) · `en`
+
+Youth-led businesses can be a vital catalyst for change, sparking multiple positive ripple effects. This month, the British Council Sri Lanka launched a new project, ‘Youth-Led Green and Inclusive Initiatives in Businesses’, to harness the enthusiasm and energy of young business leaders and spearhead green and inclusive transitions in small and medium enterprises (SMEs) in Sri Lanka.
+
+...
+
+[Data](articles/5637033b.json)
 
 ---
 
@@ -1977,109 +2065,5 @@ Colombo, Feb 16 (Daily Mirror) - The minor staff workers of the Naional Hospital
 [Data](articles/3ed10505.json)
 
 [Extended Data](ext_articles/3ed10505.ext.json)
-
----
-
-### A 16-hour water cut in Colombo
-
-*2024-02-16 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-16-hour-water-cut-in-Colombo/108-277176) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - Colombo residents are set to experience a 16-hour water cut today as the National Water Supply and Drainage Board (NWSDB) announced that water supply to several areas in the city will be suspended.
-
-The NWSDB reported that the water cut will apply to the Colombo 11, 12, 13, 14, and 15 areas beginning at 5 pm tomorrow (17), and end at 9 am on Sunday (18).
-
-According to the Water Board, the water cut is necessary as part of the ongoing essential maintenance work under the Ambatale Water Supply System Improvements and Energy Saving Project.
-
-The NWSDB has advised residents in the affected areas to make necessary arrangements to store water during the water cut period.
-
-Further, the NWS&DB has requested the cooperation of the public to conserve water during and after the water cut.
-
-◼️
-
-[Data](articles/d0a30c67.json)
-
-[Extended Data](ext_articles/d0a30c67.ext.json)
-
----
-
-### The family dispute ends
-
-*2024-02-16 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193466) · `si`
-
-The Mihintale recorded a news of assassinating his wife by the husband.
-
-The police said that the person had been attacked with a blunt instrument in a family dispute.
-
-Mihintale, jungle triumph was carried out in a house in the Upgradu area.
-
-The woman's 32-year-old husband has been arrested and the Mihintale police are conducting further investigations.
-
-◼️
-
-[Data](articles/7f413dfa.json)
-
-[Extended Data](ext_articles/7f413dfa.ext.json)
-
----
-
-### Lanka Premier League 2024 set for July
-
-*2024-02-16 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lanka-Premier-League-2024-set-for-July/108-277173) · `en`
-
-Colombo, Feb. 16 (Daily Mirror) - The fifth edition of the Lanka Premier League (LPL) 2024 will be held from July 1 to 21, Sri Lanka Cricket (SLC) announced today.
-
-The five-team competition will feature a total of 24 games, with the first round comprising 20 matches and the final round consisting of four matches, including Qualifier-1 and 2 and the Eliminator.
-
-Each team will be comprised of a minimum of 20 players and a maximum of 24 players, including up to six overseas players.
-
-The inaugural edition of the LPL in 2020 saw five franchises; Colombo Kings, Dambulla Viikings, Galle Gladiators, Jaffna Stallions, and Kandy Tuskers.
-
-Jaffna Stallions, later renamed Jaffna Kings emerged victorious defeating Galle Gladiators by 53 runs in the final.
-
-The format remained the same with five teams in the second edition in 2021 but the Dambulla Viikings rebranded as Dambulla Giants.
-
-Jaffna Kings led by Thisara Perera defended their title defeating Galle Gladiators by 23 runs in the final.
-
-...
-
-[Data](articles/e18bebe0.json)
-
-[Extended Data](ext_articles/e18bebe0.ext.json)
-
----
-
-### Young woman falls into Upper Kotmale reservoir
-
-*2024-02-16 14:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Young-woman-falls-into-Upper-Kotmale-reservoir/108-277175) · `en`
-
-Kotmale, Feb. 16 (Daily Mirror)- A young woman who fell into the Upper Kotmale reservoir in Thalawakele, was rescued by the police with the help of the residents of the area.
-
-The public  who noticed the young woman falling into the reservoir had taken prompt action to rescue her till the police arrived. Several of them had jumped into the water and helped her while  others had lifted  her with the help of ropes.
-
-The 24 year old woman from the Agarapathana area told police that she was obsessed with difficulties for want of employment and that she had felt dizzy when walking along the bank of the reservoir.
-
-She was admitted to the Lindula divisional hospital and transferred to the Nuwara Eliya General Hospital.
-
-Chief Medical Officer of the Lindula hospital Dr. Asela Suranjith said she  had not sustained any external injuries and that she would be referred to a phychiatrist at the Nuwara  Eliya General Hospital.
-
-◼️
-
-[Data](articles/6ee8511b.json)
-
-[Extended Data](ext_articles/6ee8511b.ext.json)
-
----
-
-### Wedding Show 2024 at BMICH
-
-*2024-02-16 14:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Wedding-Show-2024-at-BMICH/110-277172) · `en`
-
-'Wedding Show 2024', the most prestigious and exclusive wedding exhibition of the year, was lauched at the Bandaranaike Memorial International Conference Hall (BMICH) today. The exhibition will continue till Sunday (18). Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/8f6ca71e.json)
-
-[Extended Data](ext_articles/8f6ca71e.ext.json)
 
 ---

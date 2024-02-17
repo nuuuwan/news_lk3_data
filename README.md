@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 11:17:37**
+As of **2024-02-17 11:33:00**
 
 ## Newspaper Stats
 
-*Scraped **7,630** Articles*
+*Scraped **7,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 398
 dailyftlk | 415
 adalk | 645
 tamilmirrorlk | 926
-adaderanalk | 932
-virakesarilk | 1,004
+adaderanalk | 935
+virakesarilk | 1,005
 adaderanasinhalalk | 1,092
 dailymirrorlk | 1,127
 
@@ -26,11 +26,47 @@ dailymirrorlk | 1,127
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,630 (100.0%) of 7,630 articles have been extended.
+7,630 (99.9%) of 7,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### கடல் அலையில் அள்ளுண்டு செல்லப்பட்ட மாணவனின் சடலம் மீட்பு
+
+*2024-02-17 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176599) · `ta`
+
+அம்பாறை மாவட்டம் நிந்தவூர் பொலிஸ் பிரிவிற்குட்பட்ட ஓலுவில் நிந்தவூரில் கடல் அலையில் அள்ளுண்டு செல்லப்பட்டு காணாமல் போன மாணவர்களில் ஒருவரின் சடலம் கரையொதுங்கியுள்ளார்.
+
+நேற்று வெள்ளிக்கிழமை (16) கடலோரங்களில் விளையாட்டில் ஈடுபட்ட 8 மாணவர்களில் இருவர் கடல் அலையில் அள்ளுண்டு செல்லப்பட்டனர்.
+
+இந்நிலையில், கடல் அலையில் அள்ளுண்டு செல்லப்பட்ட சூர்தின் முஹம்மட் முன்சிப் என்ற மாணவனின் உடல் இன்று  சனிக்கிழமை (17) காலை  ஒலுவில் பகுதியில்  கரையோதுங்கியுள்ளது. மற்றுமொரு மாணவன் தொடர்பான தேடுதல் நடவடிக்கை மேற்கொள்ளப்பட்டு வருகின்றது.
+
+சம்பவதினம் மாளிகைக்காடு - சாய்ந்தமருது பகுதியைச் சேர்ந்த இரண்டு மாணவர்களே பிரதேச கடலில் புகைப்படம் எடுத்து விளையாடிக் கொண்டிருந்தபோது கடலில் அடித்துச் செல்லப்பட்டு காணாமல் சென்றிருந்தமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/6f289030.json)
+
+---
+
+### Biden says ‘Putin and his thugs’ caused opposition leader Navalny’s death
+
+*2024-02-17 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97343/biden-says-putin-and-his-thugs-caused-opposition-leader-navalnys-death-) · `en`
+
+U.S. President Joe Biden on Friday blamed Russian President Vladimir Putin for Alexei Navalny’s death and warned there could be consequences, saying he was “not surprised” but “outraged” by the opposition leader’s passing.
+
+“We don’t know exactly what happened, but there is no doubt that the death of Nalvany was a consequence of something that Putin and his thugs did,” Biden said at the White House after Russian prison officials announced that Navalny had died.
+
+“Russian authorities are going to tell their own story,” Biden said. “But make no mistake. Make no mistake: Putin is responsible for Navalny’s death.”
+
+He also said he was “contemplating” additional steps to punish Russia in the aftermath of Navalny’s death, paying tribute to the opposition leader for “bravely” standing up to Putin’s government’s “corruption” and “violence.”
+
+...
+
+[Data](articles/d2dd8597.json)
+
+---
 
 ### Three killed in a supermarket
 
@@ -156,6 +192,26 @@ After a visit to Jordan, Alan, who is visiting Sri Lanka, will re-confirm US sup
 
 ---
 
+### Former Minister Gamini Jayawickrama Perera passes away
+
+*2024-02-17 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97342/former-minister-gamini-jayawickrama-perera-passes-away) · `en`
+
+Former Minister Gamini Jayawickrama Perera passed away at the age of 83 this morning (Feb.17), family sources told Ada Derana.
+
+Born in 1941, Perera was educated at Nalanda College in Colombo. He was a politician and a Member of Parliament representing the United National Party (UNP) from Kurunegala electoral district. He was first elected to the Parliament in 1994.
+
+During his political career, Perera has held ministerial portfolios for sustainable development, wildlife, Buddha Sasana, food protection, water management and irrigation.
+
+He was elected as the chairman of ESCAP (Economic and Social Commission for Asia and the Pacific) in 2016 and served as the chairman of UNP until 2013.
+
+The former minister’s passing comes just 7 days after President Ranil Wickremesinghe visited him at his home in Katugampala, and engaged in a brief conversation with him to check up on his well-being.
+
+◼️
+
+[Data](articles/b7ec4042.json)
+
+---
+
 ### Ilmanite cannot be allowed to start the sheep from the start of the sheep;Charles MP
 
 *2024-02-17 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176590) · `ta`
@@ -227,6 +283,26 @@ The Deputy Secretary of State is due to observe the western container terminal a
 [Data](articles/b2721a4c.json)
 
 [Extended Data](ext_articles/b2721a4c.ext.json)
+
+---
+
+### Sri Lanka to host 37th session of Asia Pacific Regional Conference next week
+
+*2024-02-17 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97341/sri-lanka-to-host-37th-session-of-asia-pacific-regional-conference-next-week) · `en`
+
+The 37th session of the Asia Pacific Regional Conference (APRC) of Food and Agriculture Organization of the United Nations (FAO) is scheduled to be held as a high-level Ministerial in-person event in Colombo from 19 - 22 February.
+
+It was preceded by the Senior Officers Meeting (SOM) virtually held from 31 January to 02 February 2024.
+
+The state of food and agriculture in the region; agrifood systems transformation; and solutions particularly for smallholders and family farmers are slated to be deliberated during the conference.
+
+The inaugural session of the 37th session of APRC will be presided over by President Ranil Wickremesinghe on 20 February.
+
+By hosting the 37th APRC, Sri Lanka demonstrates the country’s dedication to the growth of sustainable agriculture, not just at home but across the region, and showcases its commitment to being partners in sustainable agricultural development.
+
+...
+
+[Data](articles/b4d7cd87.json)
 
 ---
 
@@ -1328,11 +1404,11 @@ The body of a 10-year-old girl who was reported missing from Talaimannar North o
 
 A search operation was mounted after her grandmother had lodged a complaint with the Talaimannar Police.
 
-Accordingly, the body of the girl was found on a plot of land located around 300m away from her home.
+Accordingly, the body of the girl was found on a plot of land located around 300m from her home.
 
 A man from the girl’s neighbourhood, who was arrested on suspicion, had later confessed to rape and murder of the 10-year-old.
 
-The suspect told the police that he had seen the girl playing with her brother in the vicinity of his house, and given the boy Rs. 150 to buy some snacks.
+The 55-year-old told the police that he had seen the girl playing with her brother in the vicinity of his house, and given the boy Rs. 150 to buy some snacks.
 
 He then admitted to bringing the girl into his house and sexually abusing her while being drunk.
 
@@ -1985,89 +2061,5 @@ The petitioner Kamani Rupika Priyangani stated that she entered into marriage wi
 [Data](articles/abf603af.json)
 
 [Extended Data](ext_articles/abf603af.ext.json)
-
----
-
-### 'Kutti Sanga' Sharujan says that hard work is needed to rise like Sanga
-
-*2024-02-16 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176573) · `ta`
-
-I am proud to have been named as 'Little Sanga'. However, if he is like him, he will have to work hard in the cricket arena, said St. Blessed by St. Blessed by St.
-
-He made this statement in response to a question raised exclusively to Shah Rujan after a media briefing on the Benz -Wesley Tournament organized in the sky.
-
-'I was a boy when I was named Kutty Sanga. I feel its pride now. He is a cricket genius. It is not easy for Sanga (Kumar Sangakkara). I have to work hard at the cricket arena for that. How many steps should be overcome. I don't know if I am in the right position to reach that place.
-
-'I will try to reach the next stage though. I must work hard and follow the process formally. If the fortunes go back to the better the process, I get a chance to achieve good condition. I will play diligently, ”said Sarujan Shanmuganathan.
-
-...
-
-[Data](articles/33983fac.json)
-
-[Extended Data](ext_articles/33983fac.ext.json)
-
----
-
-### President of NLB Success
-
-*2024-02-16 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193478) · `si`
-
-President Ranil Wickremesinghe was held today (16) at the Minister of Finance Ranil Wickremesinghe at the Ministry of Finance today (16).
-
-President Ranil Wickremesinghe was presented to the winners of the prize gifs and vehicle gifts of the prize gifts and vehicle gifts to the winning Lottery Appointment.
-
-In addition, the new lottery ticket was introduced by the National Lotteries Board.. Yapa Abeywardena was presented to the President.
-
-President's Counsel Ronald C.. President Ranil Wickremesinghe was presented to the National Lotteriation Board in appreciation of the National Lotterity Board.
-
-The National Lotteries Board contribution to the State Consolidal Companies. Yapa Abeywardena handed over to President Ranil Wickremesinghe.
-
-Government Ministers Ranjith Siyambalapitiya and Shehan Siyambalapitiya and Shehan Semasinghe were handed over to awarding awards and gifts to the dealership winners from various parts of the island.
-
-...
-
-[Data](articles/cdc33361.json)
-
-[Extended Data](ext_articles/cdc33361.ext.json)
-
----
-
-### Police notice to drivers in Nuwara Eliya
-
-*2024-02-16 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193477) · `si`
-
-The Nuwara Eliya Police are notable drivers to drive the drivers traveling in the area as there is a thick mist in the Nuwara Eliya area.
-
-There is a solid mist in the area.
-
-Since the Nuwara Eliya Town Limit, Havariya, Boralanda, Udapuja, Talawakele, Nuwara Eliya, Talpima, Pattipola, Pattipola and Pattipola should be driven in those areas.
-
-The Nuwara Eliya Police are also reporting to take light signals to light light signals, as there is no abundance of vehicles.
-
-◼️
-
-[Data](articles/91602a31.json)
-
-[Extended Data](ext_articles/91602a31.ext.json)
-
----
-
-### Douglas Devananda will be the ongoing music events in Jaffna
-
-*2024-02-16 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176569) · `ta`
-
-Minister of Fisheries Douglas Devananda said that the lack of their regulations at the music event in Jaffna is one of the reasons.
-
-Many of our young people criticize the chaos at the music event. At the event, I learned that some of the young people were targeted for the attack.
-
-The Jaffna Municipal Council and the Jaffna Police should be focused on the event. I too have to look at it too. I too have been without concern about it.
-
-If such events are taking place in the future, we will make arrangements that will be able to find events without problems.
-
-◼️
-
-[Data](articles/29064cba.json)
-
-[Extended Data](ext_articles/29064cba.ext.json)
 
 ---

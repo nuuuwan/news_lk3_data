@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 21:33:01**
+As of **2024-02-17 21:51:44**
 
 ## Newspaper Stats
 
-*Scraped **7,700** Articles*
+*Scraped **7,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 399
 dailyftlk | 415
 adalk | 649
 tamilmirrorlk | 935
-adaderanalk | 946
+adaderanalk | 947
 virakesarilk | 1,015
 adaderanasinhalalk | 1,109
 dailymirrorlk | 1,138
@@ -26,23 +26,51 @@ dailymirrorlk | 1,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,699 (100.0%) of 7,700 articles have been extended.
+7,701 (100.0%) of 7,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### ජනාධිපතිවරණය ට දිනයක් ඉල්ලා සෙනගාලය යුද පිටියක් වෙයි
+### The Senegal is a military page asking for a day
 
 *2024-02-17 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193519) · `si`
 
-ජනාධිපතිවරණය සඳහා ඉක්මණින් දිනයක් ප්‍රකාශයට පත්කරන ලෙස බලකරමින් සෙනගාලයේ උද්ඝෝෂණ ආරම්භ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Foreign media reports that the protests of the Senegal has commenced the protests of the presence as soon as he is to announce a date for the presidential election.
 
-එහෙත් එය කල් දැමීමට එරට ජනාධිපතිවරයා ගත් උත්සාහය එරට ශ්‍රේෂ්ඨාධිකරණය විසින් අත්හිටුවීය.
+But the President has suspended the President of the President in the country.
 
 ◼️
 
 [Data](articles/b4ee492d.json)
+
+[Extended Data](ext_articles/b4ee492d.ext.json)
+
+---
+
+### Senegal election: Opposition supporters march in Dakar calling for swift vote
+
+*2024-02-17 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97356/senegal-election-opposition-supporters-march-in-dakar-calling-for-swift-vote) · `en`
+
+Thousands of demonstrators have gathered in Senegal’s capital, Dakar, demanding swift presidential elections.
+
+It comes after the country’s top court blocked President Macky Sall’s attempt to postpone the election, originally scheduled for this month.
+
+Mr Sall’s last minute decree, backed by parliament, had triggered a political crisis in Senegal, once regarded as a bastion of democracy in West Africa.
+
+On Saturday, opposition supporters held signs demanding a “Free Senegal”.
+
+It is the first rally allowed by authorities since Mr Sall’s announcement two weeks ago.
+
+“Today’s watchword is mobilisation,” said presidential candidate Malick Gakou on the march.
+
+He told the AFP news agency there was “no room for error any longer” and elections must be organised in March in order for the handover of power between President Sall and his successor on 2 April - when the president’s second term in office is set to expire.
+
+...
+
+[Data](articles/cf1664a0.json)
+
+[Extended Data](ext_articles/cf1664a0.ext.json)
 
 ---
 
@@ -2063,23 +2091,5 @@ In the ruling on Friday, Judge Engoron referred to previous allegations of wrong
 [Data](articles/8e94774e.json)
 
 [Extended Data](ext_articles/8e94774e.ext.json)
-
----
-
-### Sri Lanka busts oil spill using satellite surveillance for first time
-
-*2024-02-17 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-busts-oil-spill-using-satellite-surveillance-for-first-time/108-277225) · `en`
-
-Colombo, Feb 17 (Daily Mirror) - Following the initiative with the French government to detect oil spills in Sri Lankan waters using satellite surveillance, Sri Lanka has detected the first such incident and fined Rs. 15 million to the responsible company, the Marine Environment Protection Authority (MEPA) said.
-
-According to the MEPA, on February 5, the CLS analysts (The French Company) reported the detection of significant oil pollution off their coasts, by an illegal discharge of the Global Crest, a 120-metre tanker cruising from Malaysia to the UAE.
-
-Action was taken immediately against the vessel and an onboard inspection was conducted, which revealed clear evidence of the illegal discharge. The ship was detained until the owner admitted the offence and acknowledged the maximum fine of Rs. 15 million pursuant to national regulations.
-
-...
-
-[Data](articles/aad6fb9a.json)
-
-[Extended Data](ext_articles/aad6fb9a.ext.json)
 
 ---

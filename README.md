@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 12:17:25**
+As of **2024-02-17 12:32:44**
 
 ## Newspaper Stats
 
-*Scraped **7,639** Articles*
+*Scraped **7,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,55 @@ tamilmirrorlk | 926
 adaderanalk | 936
 virakesarilk | 1,005
 adaderanasinhalalk | 1,094
-dailymirrorlk | 1,129
+dailymirrorlk | 1,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,637 (100.0%) of 7,639 articles have been extended.
+7,639 (100.0%) of 7,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### ඇලෙක්සි නවල්නිගේ මරණය ගැන අමෙරිකාවෙන් චෝදනාවක්
+### Russian tourist fined Rs. 1.78Mn for damaging train in railway crossing mishap
+
+*2024-02-17 11:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-tourist-fined-Rs-1-78Mn-for-damaging-train-in-railway-crossing-mishap/108-277231) · `en`
+
+A Russian tourist who haphazardly entered his motorcar into the railway level crossing regardless of the approaching train was ordered yesterday by Galle Additional Magistrate Lakmini Vidanagamage to pay Rs. 1.78 million to the Railways Department to compensate for damages to the train and a fine of Rs. 56,000 for the traffic offence.
+
+The suspect, Loskotu Alexander, attempted to drive his motorcar with another passenger on board through the level crossing on January 23, 2023 and hit the Maho-bound express from Beliatta.
+
+He and the other passenger who received injuries had been admitted to the Karapitiya Teaching Hospital.
+
+The railway engine and the colour signal system had been extensively damaged in the incident. Police had filed action against the tourist under the motor traffic regulations, while the department claimed compensation for damages to the railway property.
+
+...
+
+[Data](articles/77e6e6fb.json)
+
+---
+
+### US accusations of death, Alexi Navalni
 
 *2024-02-17 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193501) · `si`
 
-බන්ධනාගාරගත ව සිටි රුසියානු විපක්ෂ නායක ඇලෙක්සි නවල්නි හදිසියේ මරණයට පත් වීම සම්බන්ධයෙන් බටහිර රටවල් කිහිපයකම නායකයින් රුසියානු රජයට චෝදනා කර ඇති අතර, එම මරණය සම්බන්ධයෙන් ජනාධිපති පුටින් වගකිව යුතු බව අමෙරිකානු ජනාධිපති ජෝ බයිඩ්න් ප්‍රකාශ කර ඇත.
+US President Mahinda Rajapaksa has stated that the leaders of several Western countries have accused the Russian government regarding the death of the Russian opposition leader Alexi Navalni.
 
-ඇලෙක්සි නවල්නිගේ හදිසි මරණය සම්බන්ධයෙන් පූර්ණ හා විනිවිදභාවයකින් යුතු පරීක්ෂණයක් සිදු කළ යුතු බව එක්සත් ජාතීන්ගේ සංවිධානය පවසයි.
+The United Nations says that a full and transparent investigation should be conducted regarding the emergency death of Alexi Navalni.
 
-එක්සත් ජාතීන්ගේ සංවිධානයේ මහලේකම් ඇන්තෝනියෝ ගුටේරස් ප්‍රකාශ කර ඇත්තේ, නවල්නිගේ මරණය පිළිබඳ පුවතෙන් තමා දැඩි කම්පනයට පත් වූ බවයි.
+United Nations Secretary-General Anthonio Gutriel has said that he was deeply shocked with the story of Navalney's death.
 
-රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් දැඩි ව විවේචනයට ලක් කළ අයෙකු වූ 47 හැවිරිදි ඇලෙක්ස් නවල්නි ඊයේ (16) දිනයේ එරට බන්ධනාගාරයක දී මිය ගොස් තිබිණි.
+Alex Navalni, who was severely criticized by the Russian President Vladmini Putin, died yesterday (16).
 
-මේ අතර, මෙම සිදුවීම මුල් කරගනිමින් විරෝධතාවල නිරත වූ පුද්ගලයන් 100කට වැඩි පිරිසක් රුසියානු ආරක්ෂක අංශ භාරයට ගෙන ඇති බව ද විදෙස් මාධ්‍යය වාර්තා කළා.
+Meanwhile, foreign security reports have also taken into custody over 100 people who have protesting over the incident.
 
 ◼️
 
 [Data](articles/9363d02e.json)
+
+[Extended Data](ext_articles/9363d02e.ext.json)
 
 ---
 
@@ -108,23 +128,25 @@ Former Minister Gamini Jayawickrama Perera has passed away this morning at the a
 
 ---
 
-### දස හැවිරිදි දැරියගේ ඝාතනයට සැකපිට අයෙකු අත්අඩංගුවට
+### Ten year's murder suspect arrested
 
 *2024-02-17 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193500) · `si`
 
-තලෙයිමන්නාරම ප්‍රදේශයේ දී දස හැවිරිදි දැරියක් ඝාතනය කිරීමේ සිද්ධියට සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A person has been arrested on suspicion of murder of a ten-year-old girl in Talaimannar.
 
-දැරියගේ මළ සිරුර හමු වූ පොල් ඉඩමේ මුරකරු ලෙස කටයුතු කළ 55 හැවිරිදි පුද්ගලයෙකු මෙලෙස අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+The victim was arrested as a 55 year old man who was found to be the coconut land found in the coconut land.
 
-දුෂණයට ලක් කර ඝාතනය කළ බවට සැක කෙරෙන දැරියගේ මළ සිරුර ඊයේ (16) පෙරවරුවේ දැරියගේ නිවස ආසන්නයේ පිහිටි පොල් ඉඩමක තිබී සොයාගෙන තිබිණි.
+The body of the girl suspected of rape was found in coconut land near the girl's house yesterday (16).
 
-පසුගිය 15 වැනි දා නිවස ආසන්නයේ පිහිටි වෙළෙඳසලකට ගිය දැරිය යළි නොපැමිණීම සම්බන්ධයෙන් ඇයගේ මිත්තණිය තලෙයිමන්නාරම පොලීසියට පැමිණිල්ලක් සිදු කර තිබූ බව සඳහන් ය.
+Her grandmother had lodged a complaint with the Talaimannar Police about the return of the girl who went to the house on the 15th.
 
-ඒ අනුව පොලීසිය සිදු කළ විමර්ශනයක දී ඝාතනයට ලක් වූ දැරියගේ මළ සිරුර සොයාගෙන තිබිණි.
+Accordingly, the body of the murdered girl was found in a police investigation.
 
 ◼️
 
 [Data](articles/b69f60d6.json)
+
+[Extended Data](ext_articles/b69f60d6.ext.json)
 
 ---
 
@@ -2055,23 +2077,5 @@ He said this at a media briefing held at the Presidential Media Center on Friday
 [Data](articles/d04e28c9.json)
 
 [Extended Data](ext_articles/d04e28c9.ext.json)
-
----
-
-### The three abused girl girl
-
-*2024-02-16 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193479) · `si`
-
-The girl was arrested by the Meegoda police and a cousin underwriting of a neighborhood of the suspect in the suspect.
-
-The suspects were later remanded until the 29th of this month.
-
-The girl was abused in December, and she had complained to the Meegoda Police since she had told the mother on the occasion.
-
-◼️
-
-[Data](articles/4af18ce6.json)
-
-[Extended Data](ext_articles/4af18ce6.ext.json)
 
 ---

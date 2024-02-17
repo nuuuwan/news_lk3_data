@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 18:49:53**
+As of **2024-02-17 19:02:39**
 
 ## Newspaper Stats
 
-*Scraped **7,686** Articles*
+*Scraped **7,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,22 +19,36 @@ adalk | 649
 tamilmirrorlk | 934
 adaderanalk | 944
 virakesarilk | 1,015
-adaderanasinhalalk | 1,101
+adaderanasinhalalk | 1,103
 dailymirrorlk | 1,135
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,686 (100.0%) of 7,686 articles have been extended.
+7,686 (100.0%) of 7,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
+### කාසියේ වාසිය ඇෆ්ගනිස්තානය ට
+
+*2024-02-17 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193513) · `si`
+
+සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පැවැත්වෙන පළමු විස්සයි විස්ස ක්‍රිකට් තරගය අද (17) පැවැත්වෙයි.
+
+ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ශ්‍රී ලංකා කණ්ඩායමට ලබාදීමටය.
+
+◼️
+
+[Data](articles/a7f4435a.json)
+
+---
+
 ### 1.78 million rupees for a Russian passenger who damaged the train
 
-*2024-02-17 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176627) · `ta`
+*2024-02-17 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176627) · `ta`
 
 The Russian tourist Lakmini Vidanagamage has been fined for a Russian tourist who tried to cross the train and cross the railway crossing, regardless of the arrival of the train.
 
@@ -53,6 +67,26 @@ Ahangama Police Station Superintendent Nalaka Jayaweera and Euadhavipa Police In
 [Data](articles/92f42411.json)
 
 [Extended Data](ext_articles/92f42411.ext.json)
+
+---
+
+### 10 හැවිරිදි දැරියගේ පශ්චාත් මරණ පරීක්ෂණයේදී තොරතුරු රැසක් හෙළිවෙයි
+
+*2024-02-17 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193512) · `si`
+
+තලෛමන්නාරම උතුර ප්‍රදේශයේදී මියගිය දැරිය දුෂණයට ලක්කර ගෙල සිරකර ඝාතනය කර ඇති බවට පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණයවී තිබේ.
+
+දැරියගේ දේහය සම්බන්ධයෙන් වන පශ්චාත් මරණ පරීක්ෂණ කටයුතු අද (17) පෙරවරුවේ යාපනය ශික්ෂණ රෝහලේදී සිදුකෙරුණි.
+
+කෙසේවෙතත් දැරියගේ ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරු රඳවා තබාගෙන ප්‍රශ්න කිරීමට මන්නාරම මහෙස්ත්‍රාත්වරයා අද පොලීසියට අවසර ලබාදී තිබුණි.
+
+තලෛමන්නාරම උතුර ප්‍රදේශයේ පදිංචිව සිටි 10 හැවිරිදි මෙම දැරිය පසුගියදා සිය නිවස ආසන්නයේ පිහිටි වෙළෙඳසැලකට ගොස් යළි නොපැමිණීම හේතුවෙන් පවුලේ ඥාතීන් විසින් ඒ සම්බන්ධයෙන් පොලීසියට දැනුම් දී තිබුණි.
+
+අනතුරුව දැරියගේ මළ සිරුර ප්‍රදේශයේ පොල් ඉඩමක තිබී සොයාගනු ලැබීය.
+
+◼️
+
+[Data](articles/83118d5e.json)
 
 ---
 
@@ -2039,37 +2073,5 @@ He spent a few hours discussing in English with the Indian External Affairs Mini
 [Data](articles/8aad0bd4.json)
 
 [Extended Data](ext_articles/8aad0bd4.ext.json)
-
----
-
-### Sri Lanka conducts “Ceylon-Persia” tourism awareness program in Iran
-
-*2024-02-17 05:15:56* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-conducts-Ceylon-Persia-tourism-awareness-program-in-Iran/34-758581) · `en`
-
-The Embassy of Sri Lanka in Iran, in collaboration with the Sri Lanka Tourism Promotion Bureau (SLTPB), Association of Air Transport and Tourists Agencies of Iran, and Aitken Spence Travels, organised “Ceylon-Persia” Tourism Awareness Program 2024 at the chancery premises in Tehran on 5 February.
-
-Over 35 tour companies, outbound tour operators and representatives from the media and airlines were in attendance. The objective of the event was to make awareness of the recent developments in tourism industry in Sri Lanka and Iran among travel agents, tour operators, other tourism stakeholders and the general public of both countries with a focus of expanding two-way tourism.
-
-...
-
-[Data](articles/3d7b1ca6.json)
-
-[Extended Data](ext_articles/3d7b1ca6.ext.json)
-
----
-
-### Sithara awarded with ‘Merit’ at National Quality Awards
-
-*2024-02-17 05:12:59* · [`dailyftlk`](https://www.ft.lk/business/Sithara-awarded-with-Merit-at-National-Quality-Awards/34-758580) · `en`
-
-Seated: Director Chayanka Wickremasinghe (left) and Chairman/Managing Director Channa Wickremasinghe. Standing (from left): Asst. Manager – Quality Assurance Gayantha Perera, Production Manager Mahesh Abeysinghe, General Manager H.B. Anandaratne, Chief Marketing and Technical Officer Malinda Tennakoon, and Factory Engineer Pubudu Madhushan
-
-Sithara Ltd., the pioneer printing ink manufacturing company in Sri Lanka, has been awarded with a ‘Merit’ at the recently concluded National Quality Awards (2022), conducted by the Sri Lanka Standards Institute.
-
-...
-
-[Data](articles/1c892902.json)
-
-[Extended Data](ext_articles/1c892902.ext.json)
 
 ---

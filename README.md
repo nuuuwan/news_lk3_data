@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 09:03:31**
+As of **2024-02-17 09:17:14**
 
 ## Newspaper Stats
 
-*Scraped **7,607** Articles*
+*Scraped **7,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 398
 dailyftlk | 415
 adalk | 645
 tamilmirrorlk | 926
-adaderanalk | 929
+adaderanalk | 930
 virakesarilk | 1,000
 adaderanasinhalalk | 1,083
 dailymirrorlk | 1,120
@@ -26,47 +26,67 @@ dailymirrorlk | 1,120
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,605 (100.0%) of 7,607 articles have been extended.
+7,607 (100.0%) of 7,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### இன்றைய வானிலை தொடர்பில் வெளியான தகவல்
+### Water supply suspended for 16 hours in parts of Colombo today
+
+*2024-02-17 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97339/water-supply-suspended-for-16-hours-in-parts-of-colombo-today) · `en`
+
+Water supply for parts of Colombo will be suspended this evening (Feb.17) for 16 hours, the National Water Supply & Drainage Board (NWSDB) says.
+
+The water cut will be in place from 5.00 p.m. today until 9.00 a.m. tomorrow (Feb.18).
+
+According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be affected by the water cut imposed due to essential maintenance work planned under the Ambatale Water Supply System Improvements and Energy Saving Project.
+
+◼️
+
+[Data](articles/79e932e4.json)
+
+---
+
+### Information about today's weather
 
 *2024-02-17 08:33:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-தொடர்பில்-வெளியான-தகவல்/175-333337) · `ta`
 
-நாட்டில், கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை, மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களிலும் பல தடவை மழை பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has said that rainfall is likely in the country, the Eastern and the Uva provinces and in Polonnaruwa, Matale and Nuwara Eliya districts.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+In some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts. Rain or thunderstorms are possible after 2.00 pm.
 
-மத்திய மலைநாட்டின் கிழக்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, வடமேல், ஊவா மற்றும் கிழக்கு மாகாணங்களிலும் ஹம்பாந்தோட்டை மற்றும் கண்டி மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
+Heavy winds are expected to blow up to 30-40 km / h from time to time in the Eastern Slips of the Central Highlands and in the North, North Central, North Western, Uva and Eastern Provinces and Hambantota and Kandy districts.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். (N)
+Thundershowers may be temporarily blowing in the up -and -coming areas. (Of)
 
 ◼️
 
 [Data](articles/d2c01a4c.json)
 
+[Extended Data](ext_articles/d2c01a4c.ext.json)
+
 ---
 
-### பொது கழிப்பறை கட்டணம்; வெளியான அறிவிப்பு
+### Public toilet fee;Release announcement
 
 *2024-02-17 08:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-கழிப்பறை-கட்டணம்-வெளியான-அறிவிப்பு/175-333336) · `ta`
 
-கொழும்பு, பெஸ்டியன் மாவத்தையில் உள்ள தனியார் பஸ் நிலையத்தில் கழிப்பறைகளை பயன்படுத்துவதற்கு அறவிடப்படும் கட்டணத்தில் மாற்றமில்லை என்று அறிவிக்கப்பட்டுள்ளது.
+It has been announced that there is no change in the fee for use of toilets at a private bus station in Bestian Mawatha, Colombo.
 
-அங்கு கழிப்பறைகளை பயன்படுத்துவதற்கு வசூலிக்கப்பட்ட கட்டணம் 20 ரூபாயில் இருந்து 50 ரூபாயாக அதிகரிக்கப்பட்டதாக மக்கள் குற்றம் சுமத்துகின்றனர்.
+People allege that the fee charged for using toilets there has been increased from 20 rupees to 50 rupees.
 
-இந்த நிலையில், கழிப்பறை கட்டணத்தை அதிகரிப்பது தொடர்பில் எவ்வித தீர்மானமும் எடுக்கப்படவில்லை என தேசிய போக்குவரத்து ஆணைக்குழுவின் தலைவர் ஷஷி வெல்கம தெரிவித்தார்.
+At this juncture, the National Transport Commission Chairman Shashi Welgama said that no decision has been taken regarding the increase in toilet fee.
 
-அதன்படி, கழிப்பறைகளை பராமரிக்கும் தரப்பினருக்கு, உயர்த்தப்பட்ட கட்டணத்தை முந்தைய விலைக்கு மாற்றியமைக்க தேசிய போக்குவரத்து ஆணைக்குழு நோட்டீஸ் அனுப்பியுள்ளது.
+Accordingly, the National Transport Commission has issued a notice to replace the raised fee for the toilets.
 
-அதன்படி நேற்று பிற்பகல் முதல் 20 ரூபாய் கட்டணம் அறவிடப்படும் என தேசிய போக்குவரத்து ஆணைக்குழு தெரிவித்துள்ளது. (N)
+According to the National Transport Commission, the fee will be charged from yesterday afternoon.. (Of)
 
 ◼️
 
 [Data](articles/5d6028b7.json)
+
+[Extended Data](ext_articles/5d6028b7.ext.json)
 
 ---
 
@@ -2083,23 +2103,5 @@ Ramanayake who was found guilty of contempt of court in 2021 was released by the
 [Data](articles/605f21b2.json)
 
 [Extended Data](ext_articles/605f21b2.ext.json)
-
----
-
-### Wasp attack on students who class supporters
-
-*2024-02-16 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193472) · `si`
-
-A group of students who participated in a tuition class in Mawanella have attacked.
-
-According to our correspondent, about 30 children who were attacked by wasp attack have been admitted to the Mawanella Base Hospital.
-
-Our correspondent said doctors are checking their status.
-
-◼️
-
-[Data](articles/77354da1.json)
-
-[Extended Data](ext_articles/77354da1.ext.json)
 
 ---

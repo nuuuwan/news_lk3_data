@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 19:32:47**
+As of **2024-02-17 19:49:54**
 
 ## Newspaper Stats
 
-*Scraped **7,688** Articles*
+*Scraped **7,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 399
 dailyftlk | 415
 adalk | 649
 tamilmirrorlk | 934
-adaderanalk | 944
+adaderanalk | 945
 virakesarilk | 1,015
 adaderanasinhalalk | 1,103
 dailymirrorlk | 1,135
@@ -26,11 +26,33 @@ dailymirrorlk | 1,135
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,688 (100.0%) of 7,688 articles have been extended.
+7,689 (100.0%) of 7,689 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### U.S. Under Secretary Liz Allen arrives in Sri Lanka
+
+*2024-02-17 18:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97353/us-under-secretary-liz-allen-arrives-in-sri-lanka) · `en`
+
+The U.S. Under Secretary of State for Public Diplomacy, Elizabeth M. Allen has arrived in Sri Lanka for an official visit.
+
+Upon her arrival, the Under Secretary was cordially welcomed by the U.S. Ambassador in Colombo, Julie Chung. “Pleased to welcome @UnderSecPD Liz Allen, the first visit from an U.S. Under Secretary for Public Diplomacy to Sri Lanka,” the envoy said in a post on her X handle (formerly Twitter).
+
+During her stay here, Allen will meet with government officials, media representatives, digital content creators and youth leaders to discuss the partnership between the two nations and the safeguarding of Sri Lanka’s information and media space, and to explore ways to work together to promote prosperity on the island nation, Chung said further.
+
+Following her Sri Lanka tour, Allen will embark on a visit to India.
+
+Meanwhile, U.S. Deputy Secretary of State for Management and Resources Richard R. Verma is also slated to travel to the island nation.
+
+...
+
+[Data](articles/af8f1375.json)
+
+[Extended Data](ext_articles/af8f1375.ext.json)
+
+---
 
 ### To Afghanistan to advantage
 
@@ -2061,21 +2083,5 @@ By the 19th century, Britain became a global hegemon. This was inaugurated by th
 [Data](articles/f4056eee.json)
 
 [Extended Data](ext_articles/f4056eee.ext.json)
-
----
-
-### NPP deserves fairness from critics
-
-*2024-02-17 05:22:13* · [`dailyftlk`](https://www.ft.lk/columns/NPP-deserves-fairness-from-critics/4-758584) · `en`
-
-With increasing grassroot support for NPP and its leader Anura Kumara Dissanayake (AKD) those two have become enemy No. 1 to champions of and campaigners for the corrupt system that is currently in vogue. All signs point towards a national mood for radical change led by AKD and his NPP. It is in that context that the recent visit to Delhi by AKD at the invitation of India is significant.
-
-He spent a few hours discussing in English with the Indian External Affairs Minister S. Jaishankar and India’s National Security Adviser Ajit Doval. This invitation would not have been issued without advice from India’s Research and Analysis Wing (RAW) in Colombo. RAW must have been closely watching and doing its own home work about the rapidly changing political scenario to convince itself of the winning chances to AKD at the next Presidential election. Hence their message to Delhi and the invitation followed.
-
-...
-
-[Data](articles/8aad0bd4.json)
-
-[Extended Data](ext_articles/8aad0bd4.ext.json)
 
 ---

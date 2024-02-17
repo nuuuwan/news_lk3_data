@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 17:02:17**
+As of **2024-02-17 17:17:29**
 
 ## Newspaper Stats
 
-*Scraped **7,675** Articles*
+*Scraped **7,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 394
 economynextcom | 399
 dailyftlk | 415
-adalk | 648
-tamilmirrorlk | 933
+adalk | 649
+tamilmirrorlk | 934
 adaderanalk | 940
 virakesarilk | 1,014
 adaderanasinhalalk | 1,100
@@ -26,67 +26,75 @@ dailymirrorlk | 1,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,671 (99.9%) of 7,675 articles have been extended.
+7,675 (100.0%) of 7,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### ව්‍යාජ අයදුම් පත්‍රයක් ගැන දැනුම්දීමක්
+### Notice of a fake application
 
 *2024-02-17 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193509) · `si`
 
-අන්තර් ජාලයේ සංසරණය වෙන ව්‍යාජ කොරියානු භාෂා අයදුම් පත්‍රයට නොරැවටෙන ලෙස ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය ජනතාවගෙන් ඉල්ලා සිටී.
+The Sri Lanka Bureau of Foreign Employment has requested the public to not be deceived by the circulation of the Internet.
 
-අයදුම් පත්‍රයක් කාර්යාංශ වෙබ් අඩවියේ මෙතෙක් පළකර නොමැති අතර එහි ඇත්තේ තොරතුරු විස්තරයක් පමණක් බවද එම කාර්යාංශය අවධාරණය කරයි.
+The Bureau emphasizes that an application has not yet been published on the Bureau website and is only a description of the information.
 
-2024 වර්ෂයේ කොරියානු භාෂා විභාගයට අදාළ අයදුම් පත්‍රයක් මේ වනවිට අන්තර්ජාලය සංසරණය වන අතර එම අයදුම් පත්‍රය කොරියානු භාෂා විභාගයට කිසිදු සම්බන්ධයක් නොමැති ව්‍යාජ අයදුම් පත්‍රයක් බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ තවදුරටත් අවධාරණය කර තිබේ.
+An application pertaining to the Korean Language Examination in 2024 is still stressed that the application form is a false application form that has nothing to do with the Korean language examination.
 
-එසේම මෙම විභාග අයදුම්පත්‍රය සම්පූර්ණයෙන් ව්‍යාජ එකක් බව කොරියානු HRDK ආයතනය ද නිල වශයෙන් තහවුරු කර ඇති බවද කාර්යාංශය පෙන්වා දෙයි.
+The Bureau is also officially established that the examination application is fake.
 
-එම ව්‍යාජ Google Forms වෙත ඔබගේ තොරතුරු ලබාදීමෙන් වළකින ලෙස ද ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය ජනතාවගෙන් ඉල්ලා සිටී.
+The Sri Lanka Bureau of Foreign Employment has requested the public to avoid providing information to those fake Google Forms.
 
-2024 කොරියානු විභාගයට පෙනී සිටීමට බලාපොරොත්තු වන අපේක්ෂකයින් විදේශ සේවා නියුක්ති කාර්යාංශයේ වෙබ් අඩවිය වන www.slbfe.lk වෙබ් අඩවියේ පල කර ඇති කොරියානු EPS විභාගය සම්බන්ධ උපදෙස් විස්තර මත පමණක් පදනම්ව කටයුතු කරන ලෙස කාර්යාංශය පවසයි.
+The Bureau says that the candidates who wish to sit for the Korean examination at the Korean Examination will be based on the instruction of the Foreign Employment Bureau website www.slbfe.lk.
 
 ...
 
 [Data](articles/c75b88fa.json)
 
+[Extended Data](ext_articles/c75b88fa.ext.json)
+
 ---
 
-### யாழில் இரும்பு பெட்டியால் பரபரப்பு
+### Iron box in Jaffna
 
 *2024-02-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176629) · `ta`
 
-யாழ்ப்பாண நகர்பகுதியில் இன்று சனிக்கிழமை (17) காலை இரும்பு பெட்டியொன்று அனாதரவாக காணப்பட்டதால் அதில் வெடிகுண்டு இருக்கலாம் என்ற அச்சம் காணப்பட்டு பரபரப்பான சூழல் உருவானது.
+The iron box was seen as an orphanage in the Jaffna city on Saturday morning, fearing that there was a bomb.
 
-இதனையடுத்து, அங்கிருந்தவர்கள் யாழ்ப்பாணம் பொலிஸ் நிலையத்திற்கு தகவலளித்த நிலையில் பொலிஸார், பொலிஸ் விசேட அதிரடிப் படையினர் குறித்த இடத்துக்கு விரைந்து பெட்டியை சோதனையிட்டனர்.
+Subsequently, the police informed the Jaffna Police Station and the police rushed to the spot and searched the box.
 
 ◼️
 
 [Data](articles/bf89c878.json)
 
+[Extended Data](ext_articles/bf89c878.ext.json)
+
 ---
 
-### மன்னார் சிறுமி துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு, கழுத்து நெரித்து கொலை ; வெளியானது பிரேத பரிசோதனை அறிக்கை
+### Mannar girl abused, strangled and murdered;Autopsy report
 
 *2024-02-17 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176628) · `ta`
 
-மன்னாரில் 10 வயது சிறுமி ஒருவர் பாலியல் வல்லுறவுக்குட்படுத்தப்பட்டு கழுத்து நெரிக்கப்பட்டு கொலை செய்யப்பட்டுள்ளதாக பிரேத பரிசோதனையில்  அறிக்கையிடப்பட்டுள்ளது.
+An autopsy has reported that a 10 -year -old girl in Mannar has been raped and strangled.
 
-தலைமன்னார் ஊர்மனை கிராமத்தில் 10 வயது சிறுமியொருவர் நேற்றைய தினம் வெள்ளிக்கிழமை சடலமாக மீட்கப்பட்டநிலையில், இன்று  சனிக்கிழமை யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிறுமியின் சடலம் உடற்கூற்று பரிசோதனைக்கு உள்ளாக்கப்பட்டது.
+The body of a 10 -year -old girl was found dead yesterday at the village of Talaannar Urmani, who was found dead on Friday.
 
-அதன் போதே , சிறுமி வன்புணர்வுக்கு உட்படுத்தப்பட்ட பின்னர் கழுத்து நெரித்து கொலை செய்யப்பட்டுள்ளார் என கண்டறியப்பட்டுள்ளது.
+It was found that the girl was strangled and murdered after being raped.
 
-சம்பவம் தொடர்பில் சிறுமியின் வீட்டிற்கு அருகிலுள்ள தென்னந்தோப்பில் வேலை செய்த 52 வயதான திருகோணமலை - குச்சவெளியைச் சேர்ந்த ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளார்.
+A 52 -year -old man from Trincomalee - Kuchchaveli, who was working in the South, near the girl's home, has been arrested on suspicion.
 
-குறித்த சிறுமி நேற்று முன்தினம் வியாழக்கிழமை மாலை காணாமற்போயுள்ளதாக பொலிஸில் முறைப்பாடு செய்யப்பட்டது.
+The girl was reported missing on Thursday evening.
 
-இதனையடுத்து, பிரதேச மக்கள் தேடுதலில் ஈடுபட்ட போது, தென்னந்தோட்டத்தில் இருந்து நேற்றைய தினம் வெள்ளிக்கிழமை காலை சிறுமியின் சடலம் மீட்கப்பட்டது.
+Subsequently, the body of the girl was recovered from the south of the area on Friday morning when the people of the area were searching.
 
-...
+The girl's mother and father were living in the village of Puttalam - Pukkulam village and the girl and her two elderly sisters were living with her brother's mother at the home of Ammamma.
+
+◼️
 
 [Data](articles/fcf071c7.json)
+
+[Extended Data](ext_articles/fcf071c7.ext.json)
 
 ---
 
@@ -138,6 +146,24 @@ The Navy and Police have commenced operations in search of the missing officer.
 
 ---
 
+### கெஹலியவுக்கு மேலதிக மருத்துவ சிகிச்சைகள்
+
+*2024-02-17 15:23:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-மேலதிக-மருத்துவ-சிகிச்சைகள்/175-333344) · `ta`
+
+கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்லவுக்கு மேலதிக மருத்துவ சிகிச்சைகளை வழங்குவதற்கு வைத்தியர்கள் பரிந்துரைத்துள்ளனர்.
+
+அவர் தொடர்ந்தும் சிறைச்சாலை வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாக சிறைச்சாலைகள் பேச்சாளர் காமினி பி. திஸாநாயக்க தெரிவித்துள்ளார்.
+
+நீதிமன்ற உத்தரவுக்கமைய இது தொடர்பான மருத்துவ அறிக்கைகள் நீதிமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ளதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+
+தரமற்ற இம்யூனோகுளோபுலின் தடுப்பூசியை இறக்குமதி செய்த குற்றச்சாட்டில் முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெல்ல உள்ளிட்ட 7 பேர் எதிர்வரும் 29 ஆம் திகதி வரையில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/55cc9c9c.json)
+
+---
+
 ### Another top U.S. State Dept. official to visit Sri Lanka next week
 
 *2024-02-17 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97348/another-top-us-state-dept-official-to-visit-sri-lanka-next-week) · `en`
@@ -160,19 +186,39 @@ Subsequently, he will meet with civil society leaders to hear their perspective 
 
 ---
 
-### தேசிய அரசுக்கான முயற்சி ஒன்றின்  மூலமே நாட்டின் பொருளாதாரத்தை கட்டியெழுப்ப முடியும் - ரவூப் ஹக்கீம்
+### The country's economy can be built only through an effort for the national government - Rauf Hakeem
 
 *2024-02-17 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176619) · `ta`
 
-ஒரு தேசிய அரசின் தோரணையில் அதாவது எதிர்க்கட்சி இல்லாத ஒரு பாராளுமன்றத்தை உருவாக்கி  அங்கு, ஆளும் கட்சி மற்றும்  எதிர்க்கட்சி என்பன   ஒன்றிணைந்து,  இந்த நாட்டை  கட்டியெழுப்புவதற்கான முயற்சிகள்  மேற்கொள்ளபடுமாயின் அதற்கு  எங்களது ஆதரவு கிடைக்கும் எனவும்  முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப்  ஹக்கீம்  தெரிவித்துள்ளார்.
+Muslim Congress leader Rauf Hakeem has said that if the ruling party and the opposition are trying to build this country in the posture of a nationwide government, we will get our support.
 
-சர்வதேச விளையாட்டு வீரர்களை உருவாக்கிய கண்டி, மடவளை பஸார்  பிரதேசத்தில் தனியார் அமைப்பினால் நிர்மாணிக் கப்பட்டுள்ள  'எக்சன்'  உள்ளக விளையாட்டரங்கின் திறப்பு விழாவுக்கு பிரதம அதிதியாக  பிசன்னமாயிருந்த  பின்னர்  ஊடகவியலாளர்களின் கேள்விகளுக்கு பதிலளித்து பேசுகையில்   ஸ்ரீல. மு.கா  தலைவர்  மேற்கண்டவாறு தெரிவித்தார்.
+Responding to the questions of journalists after becoming the chief guest at the inauguration of the 'Exan' Indoor Stadium, which was built by a private organization in Madawala Bazar, Kandy, who created international athletes. The MU leader said the above.
 
-நேற்று வெள்ளிக்கிழமை (16) மாலை இடம்பெற்ற இந்த நிகழ்விற்கு கண்டி மாவட்ட  பாராளுமன்ற உறுப்பினர் வேலுகுமார், மத்திய மாகாண சபை முன்னாள் உறுப்பினர்கள்  திலின பண்டார தென்னகோன், ஹிதாயத் சத்தார் அகில இலங்கை  மொத்த மற்றும் சில்லறை வியாபார சங்கத்தின் தலைவர் டபிள்யு.எம். நஜீம்   உள்ளிட்ட  பல அதிதிகள் கலந்து கொண்டனர்.
+The event was held on Friday evening (16) evening (16), Kandy District Parliamentarian Velukumar, former members of the Central Provincial Council Tilina Bandara Tennakoon. Many guests, including Najim, attended.
 
 ...
 
 [Data](articles/2d463a8a.json)
+
+[Extended Data](ext_articles/2d463a8a.ext.json)
+
+---
+
+### කායවර්ධන ශිල්පියාගේ මරණය ගැන පරීක්ෂණයක් අරඹයි
+
+*2024-02-17 14:40:57* · [`adalk`](https://www.ada.lk/breaking_news/කායවර්ධන-ශිල්පියාගේ-මරණය-ගැන-පරීක්ෂණයක්-අරඹයි/11-408135) · `si`
+
+එප්පාවල කටියාව ප්‍රදේශයේ පදිංචි 34 හැවිරිදි  කායවර්ධන ශිල්පියකුගේ හදිසි මරණය සම්බන්ධයෙන් එප්පාවල, ප්‍රියංකරගම පොලීසිය පරීක්ෂණ ආරම්භ කර ඇත. මෙලෙස ජීවිතක්ෂය‌ට පත්ව ඇත්තේ එප්පාවල කටියාව යාය 06 පදිංචි ඩී.එම්  විරාජ් ඉමංක නම් 34 හැවිරිදි දෙදරු පියෙකි.
+
+පසුගිය සතියේ සෙනසුරාදා (10) දින පස්වරුවේ 6.30 ට පමණ  මෙම කායවර්ධන ශිල්පියා නිවස ඉදිරිපිට වැටී සිටියදී ඔහුගේ බාල සොයුරා විසින් කටියාව යාය 09 රෝහලට ඇතුළත් කර ඇති අතර, ඉන් අනතුරුව ඔහු වැඩිදුර ප්‍රථ්කාර සඳහා අනුරාධපුර ශීක්ෂණ රෝහලට ඇතුළත් කර ඇත.
+
+අනුරාධපුර ශික්ෂණ රෝහලේ 61 වාට්ටුවේ දැඩිසත්කාර  ඒ්කකයේ ප්‍රථිකාර ලබමින් සිටියදී පෙරේදා (15) පස්වරු 6.30 ට පමණ ජීවිතක්ෂයට පත්ව ඇත.
+
+කායවර්ධන ශිල්පියාගේ  මරණය සැලවීමත් සමඟින් ඔහුගේ පියාද, සිත් තැවුලට පත්ව  වස පානය කර රෝහල් ගත කර ඇති අතර, ඔහු අනුරාධපුර ශික්ෂණ රෝහලේ මේ වන විට ප්‍රථිකාර ලබයි.ඔහුගේ තත්වය බරපතල නොවන බව රෝහල් ආරංචි මාර්ග පවසයි.‍‍
+
+...
+
+[Data](articles/d027ce30.json)
 
 ---
 
@@ -2013,45 +2059,5 @@ Fishermen and civilians searched the two students who were dragged into the sea 
 [Data](articles/d992f176.json)
 
 [Extended Data](ext_articles/d992f176.ext.json)
-
----
-
-### Upali Wijewardene, Free Trade Zone and “The Island”
-
-*2024-02-17 01:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Upali-Wijewardene-Free-Trade-Zone-and-The-Island/172-277224) · `en`
-
-Upali also went into aviation and began local helicopter and airline services
-
-When working for a Tamil newspaper, I have come across many Sinhala persons who simply did not care a hoot about the Tamil media. I have also come across many Sinhalese who were extremely concerned about what appeared in the Tamil newspapers. Upali belonged to the latter group. Though he could not read Tamil he got his Tamil employees at the Upali Group to inform him about what was appearing in the Virakesari.
-
-Today (Feb 17) is the birthday of Sri Lanka’s popular business magnate Philip Upali Wijewardene. If Upali Wijewardene were among the living now, he would have celebrated his 86th birthday this year.  Alas, this was not to be as the Lear Jet he was travelling in disappeared on 13 February 1983, just 4 days before his 45th birthday.
-
-...
-
-[Data](articles/553fadb6.json)
-
-[Extended Data](ext_articles/553fadb6.ext.json)
-
----
-
-### 250 kg of processed sea cards seized near the river
-
-*2024-02-17 01:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176585) · `ta`
-
-Marine police have confiscated 250 kg of processed sea cards worth Rs 5 lakh for smuggling to Sri Lanka in the Amman temple residential area near the Rameshwaram River Beach and the owner of the grove was arrested.
-
-Since Ramanathapuram district is very close to Sri Lanka, Dhanushkodi has recently been transported to Sri Lanka by sea card, cannabis, cardamom, cosmetics and pesticides.
-
-On Friday morning (16), the Marine Police, led by Tariq, raided the area, based on the confidential information received by Meran Police that the banned sea cards were being processed in a grove in the Amman temple area next to the Pannaikulam.
-
-It was then revealed that about 250 kg of processed sea cards were smuggled into Sri Lanka at a grove in the Amman temple residential area.
-
-Marine police then confiscated sea cards and arrested Jakaruddin, the owner of the grove, and confiscated a two -wheeler used for the smuggling of the sea card and the logistics used.
-
-...
-
-[Data](articles/f068145b.json)
-
-[Extended Data](ext_articles/f068145b.ext.json)
 
 ---

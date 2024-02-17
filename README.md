@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 13:17:14**
+As of **2024-02-17 13:32:56**
 
 ## Newspaper Stats
 
-*Scraped **7,649** Articles*
+*Scraped **7,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 647
 tamilmirrorlk | 931
 adaderanalk | 936
 virakesarilk | 1,006
-adaderanasinhalalk | 1,094
+adaderanasinhalalk | 1,095
 dailymirrorlk | 1,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,649 (100.0%) of 7,649 articles have been extended.
+7,649 (100.0%) of 7,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### ජාතික රෝහලේ කනිෂ්ඨ කාර්‍ය මණ්ඩලයෙන් දැඩි තීරණයක්
+
+*2024-02-17 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193502) · `si`
+
+කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා එම ධුරයෙන් ඉවත් කරන තෙක් සිය විරෝධතා ක්‍රියාමාර්ග අත්නොහරින බව එම රෝහලේ කනිෂ්ඨ කාර්ය මණ්ඩල සේවකයෝ පවසති.
+
+පසුගිය දා ක්‍රියාත්මක කළ වැඩවර්ජනය අතරතුර කනිෂ්ඨ කාර්ය මණ්ඩල සේවකයන් සම්බන්ධයෙන් වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා සිදු කළ ප්‍රකාශවලට එරෙහි ව ඔවුන් මෙම ක්‍රියාමාර්ගය ආරම්භ කර තිබේ.
+
+ජාතික රෝහලේ කනිෂ්ඨ කාර්ය මණ්ඩල සේවකයන් ඊයේ (16) දිනයේ දී වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා ඔහුගේ කාර්යාලයේ බලහත්කාරයෙන් රඳවා ගත් අතර, පැය 06කට ආසන්න කාලයකට පසු ඔහු එම කාර්යාලයෙන් ඉවත් වූයේ, ආරක්ෂක අංශවල මැදිහත් වීමෙනි.
+
+◼️
+
+[Data](articles/5f96cf8b.json)
+
+---
 
 ### Putin is responsible for Navalney's death - Bidan
 
@@ -2063,27 +2079,5 @@ A crossing in National Development Bank shares contributed Rs 626 million to the
 [Data](articles/11faf171.json)
 
 [Extended Data](ext_articles/11faf171.ext.json)
-
----
-
-### Two Iranian Navy ships in Colombo
-
-*2024-02-16 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Iranian-Navy-ships-in-Colombo/108-277187) · `en`
-
-Colombo, Feb 16 (Daily Mirror) -  The Iranian Navy Ship (IRINS) Bushehr and Tonb arrived at the port of Colombo on a formal visit this morning.
-
-IRINS Bushehr is a 107 metre long ship manned by 270 crew members and is commanded by Commander Mahdi Balvardi. IRINS Tonb is a 94.94 metre long platform with a crew of 250. It is commanded by Commander Mohammed Haji Zadeh.
-
-Meanwhile, the Commanding Officers of the ships are scheduled to call on Commander Western Naval Area and Director General Operations of the Sri Lanka Navy during their stay in the country.
-
-In addition, naval personnel from both nations are anticipated to participate in various programmes aimed at fostering cooperation.
-
-Moreover, Officer Cadets and personnel from the Sri Lanka Navy will visit the Iranian Navy Ships in Colombo, and reciprocally, Officer Cadets and personnel from the Iranian ships will visit Sri Lanka Navy ships. The duo of Iranian Navy ships are scheduled to depart the island on 19 February.
-
-◼️
-
-[Data](articles/1ac79ac2.json)
-
-[Extended Data](ext_articles/1ac79ac2.ext.json)
 
 ---

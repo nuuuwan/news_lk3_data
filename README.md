@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 13:51:20**
+As of **2024-02-17 14:02:35**
 
 ## Newspaper Stats
 
-*Scraped **7,656** Articles*
+*Scraped **7,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 931
 adaderanalk | 938
 virakesarilk | 1,009
 adaderanasinhalalk | 1,095
-dailymirrorlk | 1,130
+dailymirrorlk | 1,131
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,656 (100.0%) of 7,656 articles have been extended.
+7,656 (100.0%) of 7,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### Policy framework sent to Parliament for transformational change in education sector: Minister
+
+*2024-02-17 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Policy-framework-sent-to-Parliament-for-transformational-change-in-education-sector-Minister/108-277233) · `en`
+
+Colombo, Feb 17 (Daily Mirror) - A policy framework has been sent to Parliament for a transformational change in the education sector in the country, which has been discussed for many years, Education Minister Susil Premajayantha said.
+
+While attending a meeting held at the National Institute of Education to discuss the current problems and challenges in the education sector as well as future education reforms, the Minister said that actions taken for a transformational change in the education sector should be implemented step by step and there should be a strong foundation for that.
+
+The Minister further stated that if any change is made, the structure should be prepared to withstand the change and that the necessary steps are being taken to prepare the structure correctly.
+
+...
+
+[Data](articles/2f0ce35b.json)
+
+---
 
 ### Two teenagers charged over shooting at Kansas City Super Bowl parade
 
@@ -1540,7 +1556,7 @@ A few days later former SLFP MP Dayasritha Tissera also joined the SJB. Tissera 
 
 ---
 
-### Memories of Interactinf with Upali Wijewardene as a Journalist.
+### Memories of Interacting with Upali Wijewardene as a Journalist.
 
 *2024-02-17 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83632) · `en`
 
@@ -2049,35 +2065,5 @@ Mawaduwa Poya Maha Viharaya in the Ampara District in the Ampara District in the
 [Data](articles/8fb96126.json)
 
 [Extended Data](ext_articles/8fb96126.ext.json)
-
----
-
-### Several historical shrines designated as sacred sites
-
-*2024-02-16 21:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97334/several-historical-shrines-designated-as-sacred-sites) · `en`
-
-The National Physical Planning Department has designated 11 temples of significant archaeological, historical, and sacred importance as Sacred Sites in the Government Gazette.
-
-These areas, now recognized as sacred sites, had their respective documents submitted to the Presidential Secretariat on Thursday (Feb.15), presided over by Presidential Secretary Saman Ekanayake.
-
-Accordingly, the following historical shrines have been declared as sacred sites:
-
-1. Ambagaswewa Purana Rajamaha Vihara – Horowpathana Divisional Secretariat Division (DSD) of the Anuradhapura District)
-
-2. Pothuvatawana Maha Vihara – Dankotuwa DSD of Puttalam District
-
-3. Ampara Muhudu Maha Vihara – Pottuvil DSD of Ampara District
-
-4. Maddegama Raja Maha Vihara – Dompe DSD of Gampaha District
-
-5. Uddhakandara Rajamaha Vihara – Tissamaharamaya DSD of Hambantota District
-
-6. Sri Saddharma Yuktika Vana Senasuna (Monastery) – Kuchchaveli DSD of Trincomalee District
-
-...
-
-[Data](articles/d9ca223c.json)
-
-[Extended Data](ext_articles/d9ca223c.ext.json)
 
 ---

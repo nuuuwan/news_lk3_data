@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 18:07:11**
+As of **2024-02-17 18:19:32**
 
 ## Newspaper Stats
 
-*Scraped **7,682** Articles*
+*Scraped **7,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 399
 dailyftlk | 415
 adalk | 649
 tamilmirrorlk | 934
-adaderanalk | 942
+adaderanalk | 944
 virakesarilk | 1,014
 adaderanasinhalalk | 1,101
 dailymirrorlk | 1,134
@@ -26,11 +26,43 @@ dailymirrorlk | 1,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,682 (100.0%) of 7,682 articles have been extended.
+7,682 (100.0%) of 7,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### Ampara SLTB depot officers interdicted over bus license plate switching
+
+*2024-02-17 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97352/ampara-sltb-depot-officers-interdicted-over-bus-license-plate-switching) · `en`
+
+All individuals implicated in the deceptive act of switching license plates on two buses at the Sri Lanka Transport Board (SLTB) Bus Depot in Ampara have been interdicted, as announced by Minister of Transport Bandula Gunawardena.
+
+The scandal unfolded during the second phase of the project aimed at renovating 200 out-of-service buses and reintegrating them into passenger transport services. This initiative, held on February 9, 2024, was graced by the presence of Prime Minister Dinesh Gunawardena and Minister Gunawardena. The government had reportedly allocated a substantial sum of Rs. 270 million for the renovation, with the Ampara SLTB Bus Depot receiving Rs. 2 million for its refurbishment activities.
+
+...
+
+[Data](articles/bfa09082.json)
+
+---
+
+### Two Iranian naval ships dock at Colombo Port
+
+*2024-02-17 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97351/two-iranian-naval-ships-dock-at-colombo-port) · `en`
+
+Two Iranian naval ships - IRINS Bushehr and IRINS Tonb - docked at the Colombo Port on Friday morning (Feb.16) on a formal visit. The visiting ships were welcomed by the Sri Lanka Navy, in compliance with naval traditions.
+
+IRINS Bushehr is a 107-meter-long ship manned by 270 crew members and it is commanded by Commander MAHDI BALVARDI. IRINS Tonb is a 95-meter-long platform with a crew of 250. It is commanded by Commander MOHAMMAD HAJI ZADEH.
+
+Meanwhile, the Commanding Officers of the ships are scheduled to call on Commander Western Naval Area and Director General Operations of the Navy, during their stay in the country.
+
+Sri Lanka Navy said both sides will be participating in various programmes aimed at fostering cooperation, adding that the crew members of the Iranian ships will have the opportunity to visit several tourist attractions on the island nation.
+
+...
+
+[Data](articles/9fd86768.json)
+
+---
 
 ### The Samuritan amends eligibility
 
@@ -51,6 +83,32 @@ However, though, a respected religious leader or union chairman will be able to 
 [Data](articles/aae9576b.json)
 
 [Extended Data](ext_articles/aae9576b.ext.json)
+
+---
+
+### Mannar girl abused, strangled and murdered;Autopsy report
+
+*2024-02-17 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176628) · `ta`
+
+An autopsy has reported that a 10 -year -old girl in Mannar has been raped and strangled.
+
+The body of a 10 -year -old girl was found dead yesterday at the village of Talaannar Urmani, who was found dead on Friday.
+
+It was found that the girl was strangled and murdered after being raped.
+
+A 52 -year -old man from Trincomalee - Kuchchaveli, who was working in the South, near the girl's home, has been arrested on suspicion.
+
+The girl was reported missing on Thursday evening.
+
+Subsequently, the body of the girl was recovered from the south of the area on Friday morning when the people of the area were searching.
+
+The girl's mother and father were living in the village of Puttalam - Pukkulam village and the girl and her two elderly sisters were living with her brother's mother at the home of Ammamma.
+
+◼️
+
+[Data](articles/fcf071c7.json)
+
+[Extended Data](ext_articles/fcf071c7.ext.json)
 
 ---
 
@@ -91,32 +149,6 @@ Subsequently, the police informed the Jaffna Police Station and the police rushe
 [Data](articles/bf89c878.json)
 
 [Extended Data](ext_articles/bf89c878.ext.json)
-
----
-
-### Mannar girl abused, strangled and murdered;Autopsy report
-
-*2024-02-17 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176628) · `ta`
-
-An autopsy has reported that a 10 -year -old girl in Mannar has been raped and strangled.
-
-The body of a 10 -year -old girl was found dead yesterday at the village of Talaannar Urmani, who was found dead on Friday.
-
-It was found that the girl was strangled and murdered after being raped.
-
-A 52 -year -old man from Trincomalee - Kuchchaveli, who was working in the South, near the girl's home, has been arrested on suspicion.
-
-The girl was reported missing on Thursday evening.
-
-Subsequently, the body of the girl was recovered from the south of the area on Friday morning when the people of the area were searching.
-
-The girl's mother and father were living in the village of Puttalam - Pukkulam village and the girl and her two elderly sisters were living with her brother's mother at the home of Ammamma.
-
-◼️
-
-[Data](articles/fcf071c7.json)
-
-[Extended Data](ext_articles/fcf071c7.ext.json)
 
 ---
 
@@ -2029,45 +2061,5 @@ He also emphasised the significance of ensuring Israel’s security, fostering a
 [Data](articles/4942dd60.json)
 
 [Extended Data](ext_articles/4942dd60.ext.json)
-
----
-
-### Two more SLFP members switch to SJB
-
-*2024-02-17 05:07:45* · [`dailyftlk`](https://www.ft.lk/news/Two-more-SLFP-members-switch-to-SJB/56-758577) · `en`
-
-Two more Sri Lanka Freedom Party (SLFP) stalwarts crossed over to the main opposition party, the Samagi Jana Balawegaya (SJB) yesterday following a series of similar crossovers since the beginning of 2024.
-
-Accordingly, former SLFP provincial council members have now joined hands with the main opposition party. Thilakasiri is also the Homagama electorate organiser for the SLFP.
-
-The duo met with SJB leader Sajith Premadasa and expressed their support to the party. They joined Premadasa at the 100th phase of the SJB’s ‘Sakwala’ Program, which involves donating digital screens and computers to State schools. This event took place at Boralesgamuwa Maha Vidyalaya.
-
-The first crossover took place in January when SLFP MP Shan Wijayalal de Silva joined the SJB. He was appointed as its Ambalangoda Electoral Organiser.
-
-A few days later former SLFP MP Dayasritha Tissera also joined the SJB. Tissera was appointed as SJB Chief Organiser for the Nattandiya electorate in the Puttalam district.
-
-◼️
-
-[Data](articles/359a0f02.json)
-
-[Extended Data](ext_articles/359a0f02.ext.json)
-
----
-
-### Memories of Interacting with Upali Wijewardene as a Journalist.
-
-*2024-02-17 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83632) · `en`
-
-Today (Feb 17) is the birthday of Sri Lanka’s popular business magnate Philip Upali Wijewardene. If Upali Wijewardene  were among the living now, he would have celebrated his 86th birthday this year.  Alas, this was not to be as the Lear Jet he was travelling in  disappeared on 13 February 1983  just 4 days before his 45th birthday .
-
-It was my privilege to be associated with Upali Wijewardene slightly and briefly during the years 1978 to 1983. As a journalist on the Tamil Daily “Virakesari” I covered the Greater Colombo Economic Commission (GCEC) or “free trade Zone” from 1978 to 1981. Upali was the first Director -General of the GCEC.
-
-Later in 1981 I began working as a staff reporter on the English daily “The Island” published by Upali newspapers Ltd of which he was the proprietor. I was at “The Island” in 1983 when Upali went missing 41 years ago .The Island of Tuesday, February 15 broke the sad news with a banner headline “Plane carrying Upali Wijewardene feared lost.”
-
-...
-
-[Data](articles/665b4fb4.json)
-
-[Extended Data](ext_articles/665b4fb4.ext.json)
 
 ---

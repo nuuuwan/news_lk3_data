@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 23:17:20**
+As of **2024-02-17 23:33:10**
 
 ## Newspaper Stats
 
-*Scraped **7,710** Articles*
+*Scraped **7,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 394
 economynextcom | 399
 dailyftlk | 415
-adalk | 654
+adalk | 655
 tamilmirrorlk | 936
 adaderanalk | 949
 virakesarilk | 1,015
@@ -26,7 +26,7 @@ dailymirrorlk | 1,139
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,710 (100.0%) of 7,710 articles have been extended.
+7,710 (100.0%) of 7,711 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -263,6 +263,22 @@ Wanindu Hasarangan scored 67 off 32 balls.
 [Data](articles/52118b86.json)
 
 [Extended Data](ext_articles/52118b86.ext.json)
+
+---
+
+### රත්කිඳ ජලාශයේ වාන් ගේට්ටු හතම විවෘත කරයි
+
+*2024-02-17 20:30:03* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-ගේට්ටු-හතම-විවෘත-කරයි/11-408136) · `si`
+
+උල්හිටිය රත්කිද ජලාශයේ ජල මට්ටම ඉහළ යාම නිසාවෙන් අද (17) දින රාත්‍රි  මීට සුලු මොහොතකට පෙර උල්හිටිය රත්කිද ජලාශයේ පිටවානේ ගේට්ටු හතම විවෘත කල හෙයින් ජලාශය ට පහළ ජනතාවට දැඩි විමසිල්ලෙන් අවධානයෙන් ආරක්ෂිතව සිටින්නැයි උල්හිටිය රත්කිද ජලාශය භාර නිළධාරි දීප්ත ජයසේකර මහතා දැනුම් දෙයි .
+
+ඉකුත් දින කීපය මුලුල්ලේ පතිත වූ වර්ෂාවත් සමඟ උල්හිටිය රත්කිද ජලාශයේ ජල මට්ටම සීග්‍රයෙන් ඉහළ ගිය බවත් , ජලාශයේ රදවා ගත යුතු  ප්‍රමාණයට වඩා ජල මට්ටම ඉහළ යාම නිසාවෙන් මෙසේ මීටර් 0.1 බැගින් ජලාශයේ පිටවානේ ගේට්ටු හතම විවෘත කල බවත් හෙතෙම කීය .
+
+ගිරාදුරුකෝට්ට  රත්කිද මාර්ගයේ රත්කිද කෝසුව ද මෙම ජල පහරින් යටවී යන හෙයින් එම ජනතාවට විකල්ප මාර්ග භාවිතා කරන ලෙසට උල්හිටිය රත්කිද ජලාශය භාර නිළධාරි දීප්ත ජයසේකර මහතා වැඩිදුරටත් දැනුම් දී සිටි .
+
+◼️
+
+[Data](articles/1e5b30ac.json)
 
 ---
 
@@ -2041,21 +2057,5 @@ The bond portfolio was up 23 percent to 549 billion rupees during the year to De
 [Data](articles/1eaca4fd.json)
 
 [Extended Data](ext_articles/1eaca4fd.ext.json)
-
----
-
-### Trump is order to pay a compensation of 354 million
-
-*2024-02-17 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193491) · `si`
-
-A New York President has ordered a New York President Donald Trump to pay $ 354 million for a fraud.
-
-Donald Trump is also banned by the courts for three years in New York.
-
-◼️
-
-[Data](articles/f4f2cf4d.json)
-
-[Extended Data](ext_articles/f4f2cf4d.ext.json)
 
 ---

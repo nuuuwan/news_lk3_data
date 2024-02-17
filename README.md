@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 08:02:23**
+As of **2024-02-17 08:17:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,592 (99.9%) of 7,597 articles have been extended.
+7,597 (100.0%) of 7,597 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Winds will be north-easterly and wind speed will be 25-35 kmph.
 ...
 
 [Data](articles/91746712.json)
+
+[Extended Data](ext_articles/91746712.ext.json)
 
 ---
 
@@ -98,6 +100,8 @@ In the ruling on Friday, Judge Engoron referred to previous allegations of wrong
 
 [Data](articles/8e94774e.json)
 
+[Extended Data](ext_articles/8e94774e.ext.json)
+
 ---
 
 ### SLT-MOBITEL Nebula Institute of Technology receives dual honours at Pearson BTEC Higher Education Forum 2023
@@ -118,21 +122,27 @@ SLTTC received the Pearson awards to honour its track record, before transitioni
 
 ---
 
-### தேர்தல்களிற்கு முன்னதாக புவிசார் அரசியல்ரீதியில் கவனத்தை  மீண்டும் பெற்றுள்ள இலங்கை குறித்து அமெரிக்கா கவனம் செலுத்தவேண்டும் - வோசிங்டன் டைம்ஸிற்கு சிறிசேன கருத்து
+### The US should focus on Sri Lanka, which has returned to the geopolitical political attention ahead of the elections - Sirisena's comment on Washington Times
 
 *2024-02-17 06:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176586) · `ta`
 
-இலங்கை இந்தவருடம் தேர்தல்களிற்கு முன்னதாக புவிசார் அரசியல்ரீதியில் முக்கியத்துவத்தை மீண்டும் பெற்றுள்ள நிலையில் ; இலங்கை குறித்து அமெரிக்கா கவனம் செலுத்தவேண்டும் என இலங்கையின் முன்னாள் ஜனாதிபதி மைத்திரிபாலசிறிசேன வேண்டுகோள் விடுத்துள்ளார்.
+While Sri Lanka has regained the importance of geopolitical importance ahead of the elections this year;Former President of Sri Lanka Maithripalasirisena has appealed to the US to focus on Sri Lanka.
 
-இலங்கை மிகவும் ஸ்திரமற்ற நிலையில் காணப்படுகின்ற ஒரு தருணத்தில் வெளிசக்திகள் அழுத்தங்களை கொடுக்கின்றன  குறிப்பாக சீனா என மைத்திரிபாலசிறிசேன தெரிவித்துள்ளார்.
+Maithripalasirisena said that in a moment when Sri Lanka is very instability, the outsiders are putting pressure on China, especially China.
 
-இந்தியாவின் தென்கிழக்குகரையில் உள்ள இலங்கை அமெரிக்காவிற்கும் சீனாவிற்கும் இடையிலான பெரும் அரசியல்போட்டியில் சமீபகாலங்களில் சிக்குண்டுள்ளது.
+Sri Lanka, on the southeast of India, has recently been in a major politics match between the US and China.
 
-2015 முதல் 2019 வரை இலங்கை ஜனாதிபதியாக பதவி வகித்த சிறிசேன தனது நாட்டின் மக்கள் மிகமோசமான வறுமையை அதிகரிக்கும் பணவீக்கம்  வீழ்ச்சியடைந்த பொருளாதாரம்  எரிபொருள் தட்டுப்பாடு போன்றவற்றை எதிர்கொண்டு அதிலிருந்து மீள முயல்கின்றனர் என வோசிங்டன் டைம்ஸ் உடனான சந்திப்பின்போது தெரிவித்தார்.
+During the meeting with Washington Times, Sirisena, who was the President of Sri Lanka from 2015 to 2019, is trying to recover from the inflation that has fallen to increase inflation to increase the poor poverty.
+
+The former president said he had visited the United States this week, aimed at establishing deep bilateral relations between Sri Lanka and the United States and gaining much support for Sri Lanka.
+
+The former president said that his intention was to request the US Department of Ira Jangadan to save Sri Lanka from the current state.
 
 ...
 
 [Data](articles/0c638418.json)
+
+[Extended Data](ext_articles/0c638418.ext.json)
 
 ---
 
@@ -378,21 +388,23 @@ A few days later former SLFP MP Dayasritha Tissera also joined the SJB. Tissera 
 
 ---
 
-### ’இலங்கை பின்னோக்கிச் செல்கிறது’
+### Sri Lanka is backwards
 
 *2024-02-17 02:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பின்னோக்கிச்-செல்கிறது/175-333334) · `ta`
 
-மனித உரிமைகள் மற்றும் சமூக நீதி தொடர்பான தரத்தில் இலங்கை பின்னோக்கிச் செல்வதாக மனித உரிமைகள் கண்காணிப்பகம் எச்சரிக்கை விடுத்துள்ளது.
+Human Rights Watch has warned that Sri Lanka is backwards in the quality of human rights and social justice.
 
-இலங்கை தொடர்ந்தும் தவறான நிர்வாகம் மற்றும் பொறுப்புக்கூறல் குறைபாடு காரணமாக ஏற்பட்ட பொருளாதார நெருக்கடியினால் சிரமத்திற்குள்ளாகி வருவதாக மனித உரிமைகள் கண்காணிப்பகம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+The Human Rights Watch said that Sri Lanka continues to be inconvenienced by the economic crisis caused by misconduct and responsibility.
 
-சமூக நீதி மற்றும் உரிமைகள் தொடர்பில் அவதானம் செலுத்துவதற்கு பதிலாக, கருத்து வேறுபாடுகளை ஒடுக்குவதிலும், மனித உரிமைகள் மீதான சர்வதேச கவனத்தை மட்டுப்படுத்துவதிலும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையிலான புதிய அரசாங்கம் அவதானம் செலுத்தியுள்ளது என மனித உரிமைகள் கண்காணிப்பகம் சுட்டிக்காட்டியுள்ளது.
+Instead of paying attention to social justice and rights, the Human Rights Watch has pointed out that the new government led by President Ranil Wickremesinghe has focused on suppressing disagreements and limiting international attention on human rights.
 
-ரணில் விக்கிரமசிங்கவின் நிர்வாகத்தின் கீழ் இலங்கை வேகமாக பின்னோக்கிச் செல்வதாக மனித உரிமைகள் கண்காணிப்பகத்தின் பிரதி ஆசிய பணிப்பாளர் மீனாக்ஷி கங்குலி குறித்த அறிக்கையில் தெரிவித்துள்ளார். (a)
+Deputy Director of Human Rights Watch Meenakshi Ganguly said in a statement that Sri Lanka is backwards under the administration of Ranil Wickremesinghe. (A)
 
 ◼️
 
 [Data](articles/7223493f.json)
+
+[Extended Data](ext_articles/7223493f.ext.json)
 
 ---
 
@@ -615,6 +627,8 @@ As many as 14 suspects have thus far been arrested in connection with the quintu
 ...
 
 [Data](articles/7fd7cf9f.json)
+
+[Extended Data](ext_articles/7fd7cf9f.ext.json)
 
 ---
 

@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 14:32:48**
+As of **2024-02-17 14:48:56**
 
 ## Newspaper Stats
 
-*Scraped **7,658** Articles*
+*Scraped **7,664** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 85
+colombotelegraphcom | 86
 bbccomsinhala | 99
-dbsjeyarajcom | 151
+dbsjeyarajcom | 152
 newsfirstlk | 363
 islandlk | 394
 economynextcom | 399
 dailyftlk | 415
 adalk | 647
-tamilmirrorlk | 931
+tamilmirrorlk | 932
 adaderanalk | 939
-virakesarilk | 1,009
-adaderanasinhalalk | 1,095
+virakesarilk | 1,010
+adaderanasinhalalk | 1,097
 dailymirrorlk | 1,131
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,658 (100.0%) of 7,658 articles have been extended.
+7,658 (99.9%) of 7,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### நிந்தவூர் கடலில் மூழ்கி உயிரிழந்த இரு மாணவர்களின் சடலங்களும் மீட்பு : ஒருமித்தே விடைபெற்ற நண்பர்கள்
+
+*2024-02-17 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176612) · `ta`
+
+மாளிகைக்காடு - சாய்ந்தமருது பிரதேசத்தைச் சேர்ந்த இரண்டு மாணவர்கள் நிந்தவூர் பிரதேச கடலில் நேற்று வெள்ளிக்கிழமை மாலை புகைப்படம் எடுத்து விளையாடிக் கொண்டிருந்தபோது கடலில் அடித்துச் செல்லப்பட்டு காணாமல் போயிருந்தனர்.
+
+அதில் சூர்தீன் முஹம்மட் முன்சிப் (வயது 15) எனும் மாளிகைக்காடு பிரதேசத்தை சேர்ந்த மாணவனின் ஜனாஸா இன்று சனிக்கிழமை காலை மீட்கப்பட்டது. அதனை தொடர்ந்து சாய்ந்தமருதைச் சேர்ந்த ரிஸ்வான் முஹம்மட் இல்ஹம் (வயது 15) எனும் மாணவனின் ஜனாஸா இன்று மதியம் மீட்கப்பட்டது.
+
+சம்பவம் தொடர்பில் தெரியவருவதாவது, சாய்ந்தமருதின் பிரபல பாடசாலை மாணவர்களான 13 மற்றும் 15 வயதுக்குட்பட்ட 08 மாணவர்கள் நேற்று வெள்ளிக்கிழமை ஜும்மா தொழுகையை முடித்துக்கொண்டு துவிச்சக்கர வண்டியில் நிந்தவூர்- ஒலுவில் எல்லை கடற்கரைக்கு சென்றனர்.
+
+அங்கு புகைப்படம் எடுத்து விளையாடிக் கொண்டிருந்த போது அன்று மாலை 04.20 மணி அளவில் அதில் இருவரை கடலலையில் அள்ளுண்டு சென்றுவிட்டதாக விசாரணையில் தெரியவந்தது.
+
+கடலலையில் அள்ளுண்டு சென்று காணாமல் போன மாணவர்களை  மீனவர்களும், பொதுமக்களும் தேடி அலைந்த நிலையில் சடலமாக மீட்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/0063a511.json)
+
+---
+
+### சிற்றூழியர்களின் அதிரடி முடிவு
+
+*2024-02-17 14:09:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிற்றூழியர்களின்-அதிரடி-முடிவு/175-333343) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் டொக்டர் ருக்ஷான் பெல்லனவை அந்தப் பதவியில் இருந்து நீக்கும் வரையில் தமது போராட்டத்தை கைவிடப் போவதில்லை என கொழும்பு தேசிய வைத்தியசாலையின் சிற்றூழியர்கள் தெரிவித்துள்ளனர்.
+
+அண்மையில் முன்னெடுக்கப்பட்டுள்ள பணிப்புறக்கணிப்பின் போது டொக்டர் ருக்ஷான் பெல்லான சிற்றூழியர்கள் தொடர்பில் தெரிவித்த கருத்துக்களுக்கு எதிராகவே அவர்கள் இந்த நடவடிக்கையை ஆரம்பித்துள்ளனர்.
+
+இதேவேளை, தேசிய வைத்தியசாலையின் சிற்றூழியர்கள் நேற்று (16) டொக்டர் ருக்ஷான் பெல்லனவை அவரது அலுவலகத்தில் வைத்து பலவந்தமாகத் தடுத்து வைத்து, சுமார் 6 மணித்தியாலங்களின் பின்னர் அவர் பாதுகாப்புப் படையினரின் தலையீட்டுடன் அலுவலகத்தை விட்டு வெளியேறியமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/5bcf944b.json)
+
+---
 
 ### NHSL junior staff to continue protests until Dr. Bellana is removed
 
@@ -51,6 +87,42 @@ A collective of 72 health sector trade unions recently carried out an island-wid
 [Data](articles/f03729fc.json)
 
 [Extended Data](ext_articles/f03729fc.ext.json)
+
+---
+
+### මත් පෙති වර්ගයක් පානය කළ සිසුන් සිව් දෙනෙකු රෝහල්ගත කෙරේ
+
+*2024-02-17 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193505) · `si`
+
+කුරුණෑගල - මාදුරාගොඩ ප්‍රදේශයේ ප්‍රාථමික විද්‍යාලයක 05 ශ්‍රේණියේ ඉගෙනුම ලබන සිසුන් සිව් දෙනෙකු මත් පෙති වර්ගයක් පානය කිරීම හේතුවෙන් රෝහල්ගත කර තිබේ.
+
+රෝහල්ගත කර සිටින සිසුවෙක් තම පියා විසින් සඟවා තිබූ කිසියම් පෙති වර්ගයක් පාසලට ගෙන ගොස් සෙසු සිසුන් තිදෙනා සමඟ පානය කිරීම නිසා ඇති වූ අසාත්මිකතාවක් හේතුවෙන් ඔවුන් කුරුණෑගල මහ රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පැවසුවේය.
+
+පොලීසිය සඳහන් කළේ, මත්පෙති පාසලට රැගෙන ගිය දරුවාගේ පියා හෙරොයින් මත්ද්‍රව්‍යයට තදින් ඇබ්බැහි වූවෙකු වන අතර, ඔහුට මත්ද්‍රව්‍ය නඩු කිහිපයක් ද පවතින බවයි.
+
+සිද්ධිය සම්බන්ධයෙන් මාදුරාගොඩ පොලිස් ස්ථානය මගින් වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/9bde245b.json)
+
+---
+
+### දැවැන්ත වෘත්තීය ක්‍රියාමාර්ගයක් ගැන දැනුම්දීමක්
+
+*2024-02-17 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193504) · `si`
+
+ගුරු විදුහල්පතිවරුන්ගේ වැටුප් විෂමතාව සම්බන්ධයෙන් පැන නැඟී ඇති ගැටලු විසඳීමට ආණ්ඩුව අපොහොසත් වන්නේ නම්, එළැඹෙන 20 වැනි දා මධ්‍යම පළාත කේන්ද්‍ර කරගනිමින් දැවැන්ත වෘත්තීය ක්‍රියාමාර්ගයක් ආරම්භ කරන බව ලංකා ගුරු සේවා සංගමය පවසයි.
+
+අධ්‍යාපන ක්ෂේත්‍රයේ පවතින ගැටලු සම්බන්ධයෙන් විෂයභාර අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේම්යන්ත්, පළාත් ආණ්ඩුකාරවරුන් සහ අධ්‍යාපන වෘත්තීය සමිති අතර ඊයේ (16) පැවති සාකච්ඡාවෙන් අනතුරුව ඔවුන් මේ බව සඳහන් කළේ ය.
+
+පළාත් අධ්‍යාපන ක්ෂේත්‍රයේ පැන නැඟී ඇති ගැටලු සම්බන්ධයෙන් මෙම හමුවේ දී දීර්ඝ වශයෙන් සාකච්ඡා කර ඇති අතර, ගුරු වැටුප් විෂමතාව සම්බන්ධයෙන් ද අවධානය යොමු ව තිබේ.
+
+එමෙන්ම පාසල් ගොඩනැගිලි සඳහා දේශපාලනඥයන්ගේ නම් යෙදීම නවතා දැමීමට වෘත්තීය සමිති විසින් කළ ඉල්ලීම පිළිබඳව ද මෙහි දී අමාත්‍යවරයාගේ අවදානය යොමු වූ බව වෘත්තීය සමිති නියෝජිතයෝ ප්‍රකාශ කළ හ.
+
+◼️
+
+[Data](articles/9438a53b.json)
 
 ---
 
@@ -912,6 +984,20 @@ According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be a
 
 ---
 
+### What Is Necessary In Gaza? Ceasefire Or Peace Keeping, Or Both?
+
+*2024-02-17 08:40:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/what-is-necessary-in-gaza-ceasefire-or-peace-keeping-or-both/) · `en`
+
+It is extremely distressing to hear news from Gaza and about Palestinians. Within the last four months, over 28, 000 Palestinians have been killed, and over 50,000 people have been terribly injured. Earlier the Israeli Prime Minister, Benjamin Netanyahu, ordered the Palestinians to go South. Now he is asking them to leave the South! To where? There is no answer.
+
+The ceasefire discussions held in Cairo recently failed as the Israeli delegation adamantly left the discussions without listening to the other side or the mediators. ‘War, War and War’ seems to be their slogan.
+
+...
+
+[Data](articles/3a36ca57.json)
+
+---
+
 ### Trump ordered to pay $355 million in NY civil fraud trial ruling
 
 *2024-02-17 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trump-ordered-to-pay-355-million-in-NY-civil-fraud-trial-ruling/108-277232) · `en`
@@ -1758,6 +1844,20 @@ The minister's panel has been asked about the shortcomings and needs of the hosp
 
 ---
 
+### Jaffna  District Parliamentarian MA Sumanthiran  PC Challenges Online Safety Bill’s Purported Enactment by Filing FR Petition in SC against Speaker and A-G for Alleged Breach of Trust
+
+*2024-02-17 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83637) · `en`
+
+Tamil National Alliance Opposition Parliamentarian, President’s Counsel (PC) M.A. Sumanthiran has filed a Fundamental Rights (FR) petition in the Supreme Court (SC) against Speaker of the Parliament Mahinda Yapa Abeywardana and Attorney General (AG) Sanjay Rajaratnam PC, respectively, over the Speaker’s purported certification of the Online Safety Bill (OSB) and the AG’s alleged wrongful and negligent advice to the Speaker and the Parliament regarding the same.
+
+The petitioner notes that the SC has determined that several clauses of the said Bill were inconsistent and would require a two thirds majority vote of the entire Parliament to be enacted, while if the specified amendments (proposed by the State to be moved at the Committee Stage of the Bill in the Parliament) were incorporated into the Bill, the Bill could be passed with a simple majority.
+
+...
+
+[Data](articles/b959eac2.json)
+
+---
+
 ### Recovery of young family from well from Veerapuram area
 
 *2024-02-17 00:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176583) · `ta`
@@ -1945,129 +2045,5 @@ Accordingly, the prison authorities have arranged that the group of suspects who
 [Data](articles/351d7a1e.json)
 
 [Extended Data](ext_articles/351d7a1e.ext.json)
-
----
-
-### Indian High Commissioner Santosh Ja Jaffna visit
-
-*2024-02-16 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176580) · `ta`
-
-Indian High Commissioner to Sri Lanka Santosh Ja visited Jaffna on Friday the 16th.
-
-The Nayanadivu Nagabhushani Amman Temple, who went to Nainadivu, visited the Nayanadivu Nagavikara and visited the Indian project.
-
-Subsequently, the High Commissioner who went to the Kankesan sector port, Jaffna International Airport examined the conditions.
-
-◼️
-
-[Data](articles/f579be0a.json)
-
-[Extended Data](ext_articles/f579be0a.ext.json)
-
----
-
-### Police release photos of three Beliatta shooting suspects
-
-*2024-02-16 22:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-release-photos-of-three-Beliatta-shooting-suspects/108-277206) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - Police today released photographs of three suspects wanted over the shooting in Beliatta, where five persons were killed on January 22.
-
-Police said the Beliatta Police are investigating into the incident and three wanted suspects over the shooting are absconding.
-
-One of the suspects has been identified as Mahagamage Dinesh Priyankara alias 'Chootiya,' a 35-year-old resident of Waragoda, Kahawa in Ambalangoda.
-
-Police said another suspect has been identified as 50-year-old Nishantha Saman Kumara Dias, a resident of Yaya 4 Thambuththegama and Galpatha in Anguruwella, while the third suspect is 41-year-old Ranmuni Mahesh Hemantha Silva, a resident of Puwakgahawatta, Makandana in Uragaha.
-
-Police urged any informants who are aware of the whereabouts of these suspects to contact SSP Tangalle Division through telephone number 071-8591488 or OIC Beliatta through telephone number 071-859497.
-
-...
-
-[Data](articles/fa417205.json)
-
-[Extended Data](ext_articles/fa417205.ext.json)
-
----
-
-### Three suspects of the five suspects have been revealed
-
-*2024-02-16 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193484) · `si`
-
-The police are published by the police and information about three suspects.
-
-The suspects are to be arrested on the criminal of shooting five persons near the Kahawatta expressway on the Kahawatta expressway on the Kahawatta expressway.
-
-It is revealed that they are hiding and that they are still informed of the following information and photographs of the suspects as soon as possible.
-
-01. Name - Mahagamage's Dinesh Priyanka alias 'Churia' or Mahagamage
-
-Address: The Matha 40, Yaya 4, Tambuttegama. No. 84, Galrolas, Cooper.
-
-◼️
-
-[Data](articles/864893c0.json)
-
-[Extended Data](ext_articles/864893c0.ext.json)
-
----
-
-### Minister Action on Jaffna Music Events
-
-*2024-02-16 22:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-இசை-நிகழ்வுகள்-குறித்து-அமைச்சர்-அதிரடி/71-333331) · `ta`
-
-Minister of Fisheries Douglas Devananda said that the lack of their regulations at the music event in Jaffna is one of the reasons.
-
-The Jaffna Municipal Council and the Jaffna Police should be focused on the event. I too have to look at it too. I too have been without concern about it.
-
-If such events are taking place in the future, we will make arrangements that will be able to find events without problems.R
-
-◼️
-
-[Data](articles/0a1e6547.json)
-
-[Extended Data](ext_articles/0a1e6547.ext.json)
-
----
-
-### 27 students injured after being attacked by wasps in Mawanella
-
-*2024-02-16 22:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/27-students-injured-after-being-attacked-by-wasps-in-Mawanella/108-277188) · `en`
-
-Mawanella, Feb 16 (Daily Mirror) - Thirty individuals, including 27 students attending an extracurricular boxing class in Mawanella, were attacked by wasps, a senior official at the Hospital said.
-
-The attack occurred near an abandoned ten-storey building known for housing multiple wasps' nests, a recurring hazard that has plagued the vicinity for some time.
-
-Locals have repeatedly alerted authorities to the presence of these nests, expressing concerns over the safety of residents and visitors to Mawanella town. However, no action has been taken by authorities to address the issue, residents lament.
-
-The mishap occurred during an additional boxing session held today near the aforementioned building, where the students, accompanied by three parents, fell victim to a swarm of wasps.
-
-Following the attack, all 27 children, accompanied by three parents, were rushed to the  Mawanella Hospital and are currently receiving treatment. All the affected children are under the age of 15.
-
-◼️
-
-[Data](articles/7b15e768.json)
-
-[Extended Data](ext_articles/7b15e768.ext.json)
-
----
-
-### Deputy Director of Colombo National Hospital
-
-*2024-02-16 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176578) · `ta`
-
-Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana, was confused by a group of small people held at his office this afternoon.
-
-According to a senior police officer, Dr. Rukshan Bellana, the Deputy Director of the Colombo National Hospital, who had been captured in the office for about 6 hours by the minority, has been released.
-
-The Senior Police Officer added that Dr. Rukshan Bellana was able to recover from the hospital after making a great deal of effort from the protesters.
-
-It is noteworthy that a team of hospitals staged a protest at 1.15 pm on Friday afternoon.
-
-72 health societies have been on strike since the 13th of this month, demanding that they be paid to doctors.
-
-◼️
-
-[Data](articles/f9bfcc9b.json)
-
-[Extended Data](ext_articles/f9bfcc9b.ext.json)
 
 ---

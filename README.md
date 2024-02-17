@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 12:02:26**
+As of **2024-02-17 12:17:25**
 
 ## Newspaper Stats
 
-*Scraped **7,637** Articles*
+*Scraped **7,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 645
 tamilmirrorlk | 926
 adaderanalk | 936
 virakesarilk | 1,005
-adaderanasinhalalk | 1,092
+adaderanasinhalalk | 1,094
 dailymirrorlk | 1,129
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,637 (100.0%) of 7,637 articles have been extended.
+7,637 (100.0%) of 7,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### ඇලෙක්සි නවල්නිගේ මරණය ගැන අමෙරිකාවෙන් චෝදනාවක්
+
+*2024-02-17 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193501) · `si`
+
+බන්ධනාගාරගත ව සිටි රුසියානු විපක්ෂ නායක ඇලෙක්සි නවල්නි හදිසියේ මරණයට පත් වීම සම්බන්ධයෙන් බටහිර රටවල් කිහිපයකම නායකයින් රුසියානු රජයට චෝදනා කර ඇති අතර, එම මරණය සම්බන්ධයෙන් ජනාධිපති පුටින් වගකිව යුතු බව අමෙරිකානු ජනාධිපති ජෝ බයිඩ්න් ප්‍රකාශ කර ඇත.
+
+ඇලෙක්සි නවල්නිගේ හදිසි මරණය සම්බන්ධයෙන් පූර්ණ හා විනිවිදභාවයකින් යුතු පරීක්ෂණයක් සිදු කළ යුතු බව එක්සත් ජාතීන්ගේ සංවිධානය පවසයි.
+
+එක්සත් ජාතීන්ගේ සංවිධානයේ මහලේකම් ඇන්තෝනියෝ ගුටේරස් ප්‍රකාශ කර ඇත්තේ, නවල්නිගේ මරණය පිළිබඳ පුවතෙන් තමා දැඩි කම්පනයට පත් වූ බවයි.
+
+රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් දැඩි ව විවේචනයට ලක් කළ අයෙකු වූ 47 හැවිරිදි ඇලෙක්ස් නවල්නි ඊයේ (16) දිනයේ එරට බන්ධනාගාරයක දී මිය ගොස් තිබිණි.
+
+මේ අතර, මෙම සිදුවීම මුල් කරගනිමින් විරෝධතාවල නිරත වූ පුද්ගලයන් 100කට වැඩි පිරිසක් රුසියානු ආරක්ෂක අංශ භාරයට ගෙන ඇති බව ද විදෙස් මාධ්‍යය වාර්තා කළා.
+
+◼️
+
+[Data](articles/9363d02e.json)
+
+---
 
 ### Three Indian fishermen arrested in Sri Lanka sentenced to prison, 20 others released
 
@@ -85,6 +105,26 @@ Former Minister Gamini Jayawickrama Perera has passed away this morning at the a
 [Data](articles/d2546ea3.json)
 
 [Extended Data](ext_articles/d2546ea3.ext.json)
+
+---
+
+### දස හැවිරිදි දැරියගේ ඝාතනයට සැකපිට අයෙකු අත්අඩංගුවට
+
+*2024-02-17 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193500) · `si`
+
+තලෙයිමන්නාරම ප්‍රදේශයේ දී දස හැවිරිදි දැරියක් ඝාතනය කිරීමේ සිද්ධියට සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+දැරියගේ මළ සිරුර හමු වූ පොල් ඉඩමේ මුරකරු ලෙස කටයුතු කළ 55 හැවිරිදි පුද්ගලයෙකු මෙලෙස අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+
+දුෂණයට ලක් කර ඝාතනය කළ බවට සැක කෙරෙන දැරියගේ මළ සිරුර ඊයේ (16) පෙරවරුවේ දැරියගේ නිවස ආසන්නයේ පිහිටි පොල් ඉඩමක තිබී සොයාගෙන තිබිණි.
+
+පසුගිය 15 වැනි දා නිවස ආසන්නයේ පිහිටි වෙළෙඳසලකට ගිය දැරිය යළි නොපැමිණීම සම්බන්ධයෙන් ඇයගේ මිත්තණිය තලෙයිමන්නාරම පොලීසියට පැමිණිල්ලක් සිදු කර තිබූ බව සඳහන් ය.
+
+ඒ අනුව පොලීසිය සිදු කළ විමර්ශනයක දී ඝාතනයට ලක් වූ දැරියගේ මළ සිරුර සොයාගෙන තිබිණි.
+
+◼️
+
+[Data](articles/b69f60d6.json)
 
 ---
 
@@ -2033,43 +2073,5 @@ The girl was abused in December, and she had complained to the Meegoda Police si
 [Data](articles/4af18ce6.json)
 
 [Extended Data](ext_articles/4af18ce6.ext.json)
-
----
-
-### Death of young family jumping in well
-
-*2024-02-16 19:37:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிணற்றில்-குதித்த-இளம்-குடும்பஸ்தர்-மரணம்/72-333318) · `ta`
-
-Chettikulam police said that the body of a young family member has been recovered from a well in Veerapuram area in Vavuniya this morning.
-
-Due to a dispute with his wife, the young family has jumped into the well in the house.
-
-Subsequently, the spouse and the children tried to rescue the neighbors. Neighbors lodged a complaint with the Grama Niladhari and the police.
-
-Although he was rescued with the help of the people of the area, he was rescued while he died.
-
-The body was subsequently handed over to the Chettikulam Hospital and sent to the Vavuniya Hospital.
-
-The 33 -year -old Sepamalai Morrison, the father of three children in the incident, was the deceased.
-
-◼️
-
-[Data](articles/59ee97c7.json)
-
-[Extended Data](ext_articles/59ee97c7.ext.json)
-
----
-
-### Tension flares at National Hospital...
-
-*2024-02-16 19:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Tension-flares-at-National-Hospital/110-277185) · `en`
-
-Tensions escalated outside the National Hospital in Colombo today as minor staff staged a demonstration targeting Deputy Director Dr. Rukshan Bellana. Authorities also deployed an anti-riot squad to bolster security in the hospital premises. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/c613a9f4.json)
-
-[Extended Data](ext_articles/c613a9f4.ext.json)
 
 ---

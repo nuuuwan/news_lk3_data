@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 10:49:59**
+As of **2024-02-17 11:02:18**
 
 ## Newspaper Stats
 
-*Scraped **7,625** Articles*
+*Scraped **7,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,95 @@ dailyftlk | 415
 adalk | 645
 tamilmirrorlk | 926
 adaderanalk | 932
-virakesarilk | 1,002
-adaderanasinhalalk | 1,090
-dailymirrorlk | 1,126
+virakesarilk | 1,004
+adaderanasinhalalk | 1,092
+dailymirrorlk | 1,127
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,625 (100.0%) of 7,625 articles have been extended.
+7,625 (99.9%) of 7,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### සුපිරි වෙළෙඳසලක අනතුරකින් තිදෙනෙකු ජීවිතක්ෂයට
+
+*2024-02-17 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193499) · `si`
+
+ඉතාලියේ ෆ්ලොරන්ස් නගරයේ සුපිරි වෙළෙඳසලක ඉදිකිරීම් සිදු කරන ස්ථානයක සිදු වූ අනතුරකින් කම්කරුවන් තිදෙනෙකු මිය ගොස් තිබේ.
+
+අනතුරින් තවත් කම්කරුවන් තිදෙනෙකු අතුරුදන් ව ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+ඉදිකරමින් පවතින සුපිරි වෙළෙඳසලේ එක් කොටසක් කම්කරුවන් මතට කඩා වැටීමෙන් මෙම අනතුර සිදු ව ඇත.
+
+අතුරුදන් වු කම්කරුවන් මුදාගැනීම සඳහා ගලවා ගැනීමේ කණ්ඩායම් මේ වන විට මෙහෙයුම් ආරම්භ කර ඇති බව සඳහන් වේ.
+
+අනතුර සිදුවන අවස්ථාවේ එම ස්ථානයේ කම්කරුවන් අට දෙනෙකු ඇතුළු පුද්ගලයින් 50 දෙනෙකු පමණ සිට ඇති බවද විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/2d123dfe.json)
+
+---
+
+### முல்லைத்தீவுக் கடற்பரப்பிற்குள் இந்திய இழுவைப்படகு வருகை அதிகரிப்பு ; கைதுசெய்து கரைக்குகொண்டுவந்தால் வழக்குத்தொடரலாம் ; நீரியல் வளத் திணைக்களம்
+
+*2024-02-17 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176595) · `ta`
+
+தற்போது இறால் பிடிப்பதற்குரிய பருவகாலம் ஆரம்பித்துள்ள நிலையில், முல்லைத்தீவு கடற்பரப்பிற்குள் இந்திய இழுவைப்படகுகளின் வருகை அதிகரித்துள்ளதாக முல்லைத்தீவு மீனவர்கள் கவலை தெரிவித்துள்ளனர்.
+
+வெள்ளிக்கிழமை (16) இடம்பெற்ற முல்லைத்தீவு மாவட்ட அபிவிருத்தி ஒருங்கிணைப்புக்குழுக் கூட்டத்திலேயே முல்லைத்தீவு மீனவர்கள் இவ்வாறு கவலை வெளியிட்டுள்ளனர்.
+
+இந்நிலையில் இவ்வாறு அத்துமீறி முல்லைத்தீவுக் கடற்பரப்பிற்குள் நுழைகின்ற இந்திய மீனவர்களைக் கைதுசெய்து, அவர்களுடைய இழுவைப் படகுகளையும் கைப்பற்றி கரைக்கு கொண்டுவந்தாலே தம்மால் வழக்குத் தொடரமுடியுமென முல்லைத்தீவு கடற்றொழில் நீரியல்வளத் திணைக்கள உதவிப்பணிப்பாளர் கா.மோகனகுமார் தெரிவித்துள்ளார்.
+
+இவ்வாறு அத்துமீறி முல்லைத்தீவு கடற்பரப்பிற்குள் நுழையும் இந்திய மீனவர்களைக் கைதுசெய்து, அவர்களுடைய இழுவைப்படகுகளைக் கைப்பற்றி கரைக்குகெிண்டுவருவதிலேயே சிக்கலுள்ளது.
+
+அவ்வாறு இந்திய மீனவர்களைக் கைதுசெய்து, அவர்களது இழுவைப்படகுகளையும் கைதுசெய்து கரைக்குக் கொண்டுவந்தால் எம்மால் வழக்குத்தொடரமுடியும்.
+
+...
+
+[Data](articles/2620c291.json)
+
+---
+
+### යුක්තියෙන් ඇල්ලූ වාහන ගැන නියෝගයක්
+
+*2024-02-17 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193498) · `si`
+
+යුක්තිය මෙහෙයුම යටතේ අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුව භාරයේ තබා ඇති රපියල් කෝටි දහයක පමණ වටිනාකමකින් යුත් රථ වාහන එහි ලියාපදිංචි අයිතිකරු වෙත ලබාදෙන ලෙස කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+තවදුරටත් අදාළ රථ වාහන රඳවාගෙන වැඩිදුර විමර්ශන කටයුතු වෙනුවෙන් අවස්ථාව ලබා දෙන ලෙස සිදු කළ ඉල්ලීම ප්‍රතික්ෂේප කරමින් කඩුවෙල මහෙස්ත්‍රාත් චාණිමා විජේබණ්ඩාර මහත්මිය මෙම නියෝගය නිකුත් කර ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුව මගින් මෙම දේපොළ අත්පත් කර ගැනීම සඳහා මහාධිකරණයෙන් නිසි පරිදි නියෝග ලබා ගෙන නොමැති බව පවසමින් විත්තියේ නීතිඥවරයා අධිකරණය හමුවේ දැඩි විරෝධයක් පක කර ඇති බව ද සඳහන් ය.
+
+පසුගිය වසරේ දෙසැම්බර් මාසයේ දී මළලගේ සුදත් කිත්සිරි නොහොත් "වැලිවිට සුද්දා" නැමැති මත්ද්‍රව්‍ය ජාවාරම්කරුට අයත් බව පවසමින් ඔහුගේ සහෝදරියක සතු ව තිබූ සුඛෝපභෝගී බස් රථ පහක්, නවීන මෝටර් රථයක් සහ යතුරුපැදියක් කඩුවෙල පොලීසිය විසින් අත්අඩංගුවට ගෙන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත භාර දී තිබිණි.
+
+◼️
+
+[Data](articles/ff5dd5be.json)
+
+---
+
+### Scores of SJBers from provincial and local level to join UNP: Range Bandara
+
+*2024-02-17 10:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Scores-of-SJBers-from-provincial-and-local-level-to-join-UNP-Range-Bandara/108-277230) · `en`
+
+Colombo, Feb 17 (Daily Mirror) - Scores of Samagi Jana Balawegaya (SJB) members from both the provincial and local government levels are to join UNP shortly, UNP General Secretary Palitha Range Bandara said yesterday.
+
+Mr. Range Bandara told the Daily Mirror that more than 60 SJB members from local bodies and the North Central Provincial Council are expected to join UNP at the party’s Polonnaruwa District convention today.
+
+“We expect some SJB MPS to join us as well, but it will take some time for those crossovers to take place,” he added.
+
+There are low-ranking Sjbers to join us from all over the island,” he also said.
+
+◼️
+
+[Data](articles/1af50385.json)
+
+---
 
 ### Gamini Jayawickrama Perera passes away
 
@@ -41,6 +117,46 @@ Extensions include translations and NER (Named Entity Recognition).
 [Data](articles/f7c4bbf4.json)
 
 [Extended Data](ext_articles/f7c4bbf4.ext.json)
+
+---
+
+### இலங்கை வருகிறார் அமெரிக்க இராஜதந்திர துணைச் செயலாளர் எலிசபெத் எம். அலன்
+
+*2024-02-17 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176593) · `ta`
+
+அமெரிக்க பொது இராஜதந்திரத்திற்கான துணைச் செயலாளர் எலிசபெத் எம். அலன்  இலங்கைக்கு விஜயம் செய்யவுள்ளார்.
+
+இம்மாதம் 12 ஆம் திகதி முதல் எதிர்வரும் 22 ஆம் திகதிவரை ஜோர்தான், இலங்கை மற்றும் இந்தியாவிற்கு விஜயம் செய்கிறார் எலிசபெத் எம். அலன் .
+
+நாடுகளுக்கிடையிலான கூட்டாண்மை மற்றும் கூட்டணிகளை வலுப்படுத்துவதற்கும் விரிவுபடுத்துவதற்கும் அமெரிக்காவின் உறுதியான நிலைப்பாட்டை வெளிப்படுத்தும் முகமாக இந்த விஜயம் அமைகின்றது.
+
+இதேவேளை, அமெரிக்க வெளியுறவுக்கொள்கை மற்றும் பொது இராஜதந்திர முயற்சிகளின் முக்கியத்துவத்தை  எடுத்துக்காட்டுவதுடன்  கருத்து சுதந்திரம், பொருளாதாரத்திற்கு அதிகாரமளித்தல் மற்றும் உலகளாவிய ஒத்துழைப்பை அதிகரிப்பதற்கும் அலனின் விஜயம் முக்கியத்துவமாக காணப்படுகின்றது.
+
+...
+
+[Data](articles/2af6e07c.json)
+
+---
+
+### Ilmanite cannot be allowed to start the sheep from the start of the sheep;Charles MP
+
+*2024-02-17 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176590) · `ta`
+
+The Mullaitivu District Development Coordinating Committee has decided to reject the permits of the Mullaitivu District Development Coordinating Committee for the beginning of the Mullaitivu district, in the Mullaitivu district.
+
+The Mullaitivu District Development Coordinating Committee was held on Friday (16).. It is in this context that the permit has been rejected.
+
+It was pointed out by Charles Nirmalanathan that if the Ilmanite was excavated to the Kokkilai, the nearby fields would be affected and the salinity barrier set up in the sheep area would be damaged.
+
+Charles Nirmalanathan expressed fierce opposition that the central government should never allow the District Development Coordinating Committee to allow it and that it would never be allowed to excavate the Ilmanite.
+
+Subsequently it was decided that the Mullaitivu District Development Committee decided to reject the permit and send a report to the relevant to the impact of the excavation.
+
+◼️
+
+[Data](articles/6cd01be1.json)
+
+[Extended Data](ext_articles/6cd01be1.ext.json)
 
 ---
 
@@ -109,28 +225,6 @@ Ms. Kumaratunga, along with the National Movement for Social Justice spearheaded
 [Data](articles/e52b59c9.json)
 
 [Extended Data](ext_articles/e52b59c9.ext.json)
-
----
-
-### Ilmanite cannot be allowed to start the sheep from the start of the sheep;Charles MP
-
-*2024-02-17 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176590) · `ta`
-
-The Mullaitivu District Development Coordinating Committee has decided to reject the permits of the Mullaitivu District Development Coordinating Committee for the beginning of the Mullaitivu district, in the Mullaitivu district.
-
-The Mullaitivu District Development Coordinating Committee was held on Friday (16).. It is in this context that the permit has been rejected.
-
-It was pointed out by Charles Nirmalanathan that if the Ilmanite was excavated to the Kokkilai, the nearby fields would be affected and the salinity barrier set up in the sheep area would be damaged.
-
-Charles Nirmalanathan expressed fierce opposition that the central government should never allow the District Development Coordinating Committee to allow it and that it would never be allowed to excavate the Ilmanite.
-
-Subsequently it was decided that the Mullaitivu District Development Committee decided to reject the permit and send a report to the relevant to the impact of the excavation.
-
-◼️
-
-[Data](articles/6cd01be1.json)
-
-[Extended Data](ext_articles/6cd01be1.ext.json)
 
 ---
 
@@ -1957,103 +2051,5 @@ If such events are taking place in the future, we will make arrangements that wi
 [Data](articles/29064cba.json)
 
 [Extended Data](ext_articles/29064cba.ext.json)
-
----
-
-### Key notice of Colombo people
-
-*2024-02-16 17:59:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மக்களுக்கு-முக்கிய-அறிவிப்பு/175-333317) · `ta`
-
-The Water Supply and Drainage Board has said that the water will be implemented in parts of Colombo.
-
-Accordingly, the water will be implemented for 16 hours from 5 pm to 9 am tomorrow (17).
-
-Accordingly, the waterfront has been implemented to the 11, 12, 13, 14 and 15 of Colombo, the council said that the area has been implemented.. Remble
-
-◼️
-
-[Data](articles/b9f1ca3d.json)
-
-[Extended Data](ext_articles/b9f1ca3d.ext.json)
-
----
-
-### Russia Opposition Leader has passed away
-
-*2024-02-16 17:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யா-எதிர்க்-கட்சித்-தலைவர்-காலமானார்/50-333316) · `ta`
-
-Navalni, who was severely criticized by Putin, was arrested in connection with the money laundering.
-
-The Russian government has said that Navalni was sentenced to 19 years in prison and died in prison due to ill health.
-
-Moreover, no information on the cause of the death of Alex Navalney has been released until now.
-
-◼️
-
-[Data](articles/e351955c.json)
-
-[Extended Data](ext_articles/e351955c.ext.json)
-
----
-
-### Tension at the Colombo National Hospital
-
-*2024-02-16 17:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-தேசிய-வைத்தியசாலையில்-பதற்றம்/175-333315) · `ta`
-
-The Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana Hospital, has been imprisoned by the minority of the Hospital.
-
-It is reported that the doctor has been held hostage in his office.
-
-The staff blockaded the administrative building, demanding the immediate removal of the hospital, so that the medical services were stopped, employees, including nurses, walked out.
-
-◼️
-
-[Data](articles/109e2101.json)
-
-[Extended Data](ext_articles/109e2101.ext.json)
-
----
-
-### Anti-riot squad deployed as tense situation emerges in front of NHSL
-
-*2024-02-16 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97331/anti-riot-squad-deployed-as-tense-situation-emerges-in-front-of-nhsl) · `en`
-
-A tense situation arose in front of the National Hospital of Sri Lanka (NHSL) in Colombo this evening (16), as the minor staff of the hospital commenced a demonstration against the Deputy Director of the hospital Dr. Rukshan Bellana.
-
-Thus, police anti-riot squad had also been deployed to beef up the security of the hospital premises, Ada Derana reporter said.
-
-Earlier today, it was reported that Dr. Bellana was forcibly held inside his office by the minor staff of the hospital.
-
-A collective of 72 health sector trade unions recently carried out an island-wide strike action over disparities in allowances, which was heavily criticized by Dr. Bellana.
-
-However on Wednesday (14), the health trade unions decided to call off their strike after Health Minister Dr. Ramesh Pathirana had agreed to a discussion with them.
-
-...
-
-[Data](articles/ada05e7f.json)
-
-[Extended Data](ext_articles/ada05e7f.ext.json)
-
----
-
-### Sri Lanka exporters confident about growth prospects: Chamber survey
-
-*2024-02-16 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-exporters-confident-about-growth-prospects-chamber-survey-151219/) · `en`
-
-ECONOMYNEXT – Sri Lankan exporters have said political stability and a consistent energy supply were crucial facilitators for export growth in 2024, according to a survey by The Ceylon Chamber of Commerce.
-
-“Exporters stressed that increasing utility prices and the cost of transport and logistics posed significant challenges during 2023,” the Export Barometer Survey by The Ceylon Chamber of Commerce showed, the chamber said on X (twitter).
-
-In the survey covering 2023 and forecasting 2024, exporters expressed confidence in their growth prospects.
-
-“Service-oriented exporters grappled with a lack of skilled labour, highlighting a sector-specific challenge that warrants attention. However, most exporters identified new business opportunities, leading to workforce expansion to meet growing production demands.”
-
-Amidst economic dynamics, the export sector exhibited robust growth in 2023, the report found.
-
-...
-
-[Data](articles/9aec96bb.json)
-
-[Extended Data](ext_articles/9aec96bb.ext.json)
 
 ---

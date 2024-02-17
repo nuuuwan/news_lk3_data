@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 15:32:41**
+As of **2024-02-17 15:50:23**
 
 ## Newspaper Stats
 
-*Scraped **7,668** Articles*
+*Scraped **7,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 399
 dailyftlk | 415
 adalk | 648
 tamilmirrorlk | 933
-adaderanalk | 939
+adaderanalk | 940
 virakesarilk | 1,011
 adaderanasinhalalk | 1,097
 dailymirrorlk | 1,132
@@ -26,11 +26,33 @@ dailymirrorlk | 1,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,668 (100.0%) of 7,668 articles have been extended.
+7,669 (100.0%) of 7,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### Another top U.S. State Dept. official to visit Sri Lanka next week
+
+*2024-02-17 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97348/another-top-us-state-dept-official-to-visit-sri-lanka-next-week) · `en`
+
+U.S. Deputy Secretary of State for Management and Resources Richard R. Verma is slated to travel to Sri Lanka, India and the Maldives from February 18 - 23.
+
+According to a statement from the State Department, Verma’s visits are expected to bolster the United States’ cooperation with each of these key Indo-Pacific partners.
+
+The Deputy Secretary’s meetings with senior officials in Colombo will support U.S.-Sri Lankan defense and maritime security cooperation, the statement read further.
+
+Verma will visit the Colombo Port’s West Container Terminal, where the U.S. is supporting Sri Lanka’s ongoing economic recovery through USD 553 million in financing to transform Colombo into a regional shipping hub.
+
+Subsequently, he will meet with civil society leaders to hear their perspective on democratic governance in Sri Lanka and with government officials to voice U.S. support for the protection of free speech and open discourse.
+
+...
+
+[Data](articles/95b563a8.json)
+
+[Extended Data](ext_articles/95b563a8.ext.json)
+
+---
 
 ### Airports facilitated 846,173 international passenger movements in January 2024: AASL
 
@@ -2027,27 +2049,5 @@ The Coordinator of the Scheme. Asch. A.. Vavuniya District Government Agent PA S
 [Data](articles/923263bb.json)
 
 [Extended Data](ext_articles/923263bb.ext.json)
-
----
-
-### 2024-02-16 (Friday)
-
-### Beliatta mass shooting: Police seek public assistance to arrest 3 suspects
-
-*2024-02-16 23:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97336/beliatta-mass-shooting-police-seek-public-assistance-to-arrest-3-suspects) · `en`
-
-Sri Lanka Police are seeking public assistance to arrest three suspects wanted over the mass shooting in Beliatta in which five people, including the leader of “Ape Jana Bala Pakshaya” (Our Power of People Party or OPPP) Saman Perera, were killed.
-
-The mass shooting took place on January 23 near the Beliatta interchange of the Southern Expressway.
-
-A group of assailants in an SUV had opened fire at a white Defender, killing four persons at the scene. The fifth person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, but he was pronounced dead shortly after.
-
-As many as 14 suspects have thus far been arrested in connection with the quintuple murder. The police are now seeking the assistance of the members of the public to apprehend three others suspected to be complicit in the mass shooting.
-
-...
-
-[Data](articles/7fd7cf9f.json)
-
-[Extended Data](ext_articles/7fd7cf9f.ext.json)
 
 ---

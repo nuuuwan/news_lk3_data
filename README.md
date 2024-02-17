@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 10:17:09**
+As of **2024-02-17 10:32:56**
 
 ## Newspaper Stats
 
@@ -26,53 +26,61 @@ dailymirrorlk | 1,126
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,620 (99.9%) of 7,624 articles have been extended.
+7,624 (100.0%) of 7,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### රවිචන්ද්‍රන් අශ්වින් තරගාවලියෙන් ඉවත් වෙයි
+### Ravichandran gets out of Ashwin's tournament
 
 *2024-02-17 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193496) · `si`
 
-ඉන්දීය දඟ පන්දු යවන ක්‍රීඩක රවිචන්ද්‍රන් අශ්වින් මේ වන විට පැවැත්වෙන ඉන්දු - එංගලන්ත ටෙස්ට් තරගාවලියෙන් ඉවත් වී තිබේ.
+Indian spinner Ravinin Ashwin has been withdrawn from the Indo-England Test series, which is currently being held.
 
-ඒ, ඔහුගේ පෞද්ගලික හේතුවක් නිසා බව ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය නිවේදනය කර ඇත.
+The Indian Cricket Board has announced that he is for his personal reason.
 
-එංගලන්තය සහ ඉන්දියාව අතර රාජ්කෝට්හී පැවැත්වෙන තුන් වැනි ටෙස්ට් තරගයේ දෙවැනි දිනය වූ ඊයේ (16) දිනයේ දී අශ්වින් ලකුණු 37ක් රැස් කළේ ය.
+The second day of the three-third Test, England and India, was 37 runs.
 
-එසේම ඊයේ දිනයේ දී එක් කඩුල්ලක් දවාගනිමින් සිය ටෙස්ට් කඩුලු 500 සීමාව පසුකිරීමටත් ඔහු සමත් විය.
+He was also able to cross the 500 tests of the 500 tests of one wicket.
 
-නමුත් ඊයේ හදිසියේම අශ්වින් සිය පෞද්ගලික හේතුවක් නිසා තරගයෙන් ඉවත් විය යුතු බව ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලයට දන්වා ඇති අතර, ඔහුගේ අවශ්‍යතාව සලකා බැලූ ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය ඊට අවසර ලබා දී තිබේ.
+However, suddenly the Indian Cricket Board has informed the Board of Governing Body that Askin should leave the competition for his personal reason.
 
-ඉන්දීය ක්‍රිකට් ආයතනය නිවේදනය කළේ, ක්‍රීඩකයින්ගේ සහ ඔවුන්ගේ ආදරණීයයන්ගේ සෞඛ්‍යය සහ යහපැවැත්ම ඉතා වැදගත් බවත් මේ අවස්ථාවේ දී අශ්වින්ට සහ ඔහුගේ පවුලේ අයට හෘදයංගම සහයෝගය ලබා දෙන බවයි".
+The Indian Cricket announced that the health and well-being of the players and their loved ones would give heart and his family.
 
-මේ අතර, ඊයේ දිනයේදීම අශ්වින් සිය මව සමඟ චෙන්නායි බලා පිටත් ව ගොස් ඇති බවත් මවගේ රෝගී තත්ත්වයක් හේතුවෙන් අශ්වින් මෙලෙස ඉවත් ව ඇති බවත් විදෙස් මාධ්‍යය වාර්තා කර තිබේ.
+Meanwhile, foreign media has reported that Asvan has left for Chennai to Chennai yesterday and the Ashwin was removed due to her mother.
 
-...
+The competition will be critical for the winner for the winner of the tournament due to the contest with the England-India Test series.
+
+India will not have the opportunity to enter the group as a bowler or batsman with Ashwin.
+
+◼️
 
 [Data](articles/5b94a9c5.json)
 
+[Extended Data](ext_articles/5b94a9c5.ext.json)
+
 ---
 
-### අමෙරිකානු නියෝජ්‍ය රාජ්‍ය ලේකම්වරයෙක් දිවයිනට
+### US Deputy Secretary-government Secretary to the island
 
 *2024-02-17 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193495) · `si`
 
-කළමනාකරණය සහ සම්පත් සඳහා වූ අමෙරිකානු නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් ආර්.වර්මා මහතා මෙරට සංචාරයක් සඳහා පැමිණීමට නියමිත බව අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
+US Deputy Secretary of State for Management and Deputy Secretary of State Richard R.Warema is expected to visit Sri Lanka's visit to Sri Lanka.
 
-හෙට (18) ආරම්භ වන අමෙරිකානු නියෝජ්‍ය රාජ්‍ය ලේකම්වරයාගේ ආසියානු රාජ්‍යයන් කිහිපයක සංචාරය අතරතුර ඔහු මෙරටට පැමිණීමට නියමිත බව එම දෙපාර්තමේන්තුව නිවේදනය කර ඇත.
+During his visit to the US Deputy Secretary of State for the US Deputy Secretary of State, which begins tomorrow (18), has decided to visit Sri Lanka.
 
-ඒ අනුව හෙට සිට ලබන 23 වැනි දින දක්වා අමෙරිකානු නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් ආර්.වර්මා මහතා ඉන්දියාව, මාලදිවයින සහ ශ්‍රී ලංකාව වෙත සංචාරය කිරිමට සැලසුම් කර තිබේ.
+Accordingly, US Deputy Secretary of State for US Deputy Secretary of State for the 23rd of tomorrow, is planning to travel to India, the Maldives and Sri Lanka.
 
-සිය ඉන්දියානු සහ මාලදිවයින් සංචාර නිම කිරීමෙන් අනතුරුව මෙරටට පැමිණෙන ඔහු රජයේ උසස් නිලධාරින් සමඟ සාකච්ඡා පැවැත්වීමට නියමිත බව සඳහන් වේ.
+After completing his Indian and Maldivian travel, he is to hold talks with government senior officials.
 
-එහි දී නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා කොළඹ වරායේ බටහිර බහාලුම් පර්යන්තය නිරික්ෂණය කිරිමට ද නියමිත ය.
+The Deputy Secretary of State is due to observe the western container terminal at the Colombo Harbor.
 
 ◼️
 
 [Data](articles/b2721a4c.json)
+
+[Extended Data](ext_articles/b2721a4c.ext.json)
 
 ---
 
@@ -88,21 +96,29 @@ Ms. Kumaratunga, along with the National Movement for Social Justice spearheaded
 
 [Data](articles/e52b59c9.json)
 
+[Extended Data](ext_articles/e52b59c9.ext.json)
+
 ---
 
-### செம்மலை தொடக்கம் கொக்கிளாய்வரை இல்மனைட் அகழ்வதற்கு அனுமதிக்க முடியாது ; சாள்ஸ் எம்.பி கடும் எதிர்ப்பு
+### Ilmanite cannot be allowed to start the sheep from the start of the sheep;Charles MP
 
 *2024-02-17 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176590) · `ta`
 
-முல்லைத்தீவு மாவட்டத்தில் செம்மலை தொடக்கம், கொக்கிளாய்வரையான கடற்கரையோரத்தில் இல்மனைட் அழகழ்வதற்கு முல்லைத்தீவு மாவட்ட அபிவிருத்தி ஒருங்கிணைப்புக்குழுவின் அனுமதிகோரப்பட்ட நிலையில், வன்னிமாவட்ட நாடாளுமன்ற உறுப்பினர் சாள்ஸ் நிர்மலநாதனின் கடுமையான எதிர்ப்பையடுத்து குறித்த அனுமதியை அபிவிருத்திக்குழு நிராகரிப்பதாகத் தீர்மானித்துள்ளது.
+The Mullaitivu District Development Coordinating Committee has decided to reject the permits of the Mullaitivu District Development Coordinating Committee for the beginning of the Mullaitivu district, in the Mullaitivu district.
 
-முல்லைத்தீவு மாவட்ட அபிவிருத்தி ஒருங்கிணைப்புக்குழுக்கூட்டம் வெள்ளிக்கிழமை (16)இடம்பெற்றபோதே குறித்த இல்மனைட் அகழ்விற்கான அனுமதி கோரப்பட்டது. இந்நிலையிலேயே குறித்த அனுமதி இவ்வாறு நிராகரிக்கப்பட்டுள்ளது.
+The Mullaitivu District Development Coordinating Committee was held on Friday (16).. It is in this context that the permit has been rejected.
 
-இவ்வாறு செம்மலை தொடக்கம் கொக்கிளாய்வரையில் இல்மனைட் அகழ்ந்தால்  அருகே உள்ள வயல் நிலங்களும் பாதிக்கப்படுமெனவும், செம்மலைப் பகுதியில் அமைக்கப்பட்டுள்ள உவர்நீர்த் தடுப்பணையும் சேதப்படுத்தப்படுமெனவும், பாரிய இயற்கை அனர்த்தங்கள் ஏற்படும் வாய்ப்புக்கள் இருப்பதாகவும் இதன்போது சாள்ஸ் நிர்மலநாதனால் சுட்டிக்காட்டப்பட்டது.
+It was pointed out by Charles Nirmalanathan that if the Ilmanite was excavated to the Kokkilai, the nearby fields would be affected and the salinity barrier set up in the sheep area would be damaged.
 
-...
+Charles Nirmalanathan expressed fierce opposition that the central government should never allow the District Development Coordinating Committee to allow it and that it would never be allowed to excavate the Ilmanite.
+
+Subsequently it was decided that the Mullaitivu District Development Committee decided to reject the permit and send a report to the relevant to the impact of the excavation.
+
+◼️
 
 [Data](articles/6cd01be1.json)
+
+[Extended Data](ext_articles/6cd01be1.ext.json)
 
 ---
 

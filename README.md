@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 22:17:21**
+As of **2024-02-17 22:33:00**
 
 ## Newspaper Stats
 
-*Scraped **7,703** Articles*
+*Scraped **7,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,38 @@ newsfirstlk | 363
 islandlk | 394
 economynextcom | 399
 dailyftlk | 415
-adalk | 649
+adalk | 654
 tamilmirrorlk | 936
 adaderanalk | 948
 virakesarilk | 1,015
 adaderanasinhalalk | 1,109
-dailymirrorlk | 1,138
+dailymirrorlk | 1,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,701 (100.0%) of 7,703 articles have been extended.
+7,703 (99.9%) of 7,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### அஸ்வெசுமவுக்கு விண்ணப்பிக்க உள்ளவர்களுக்கான அறிவிப்பு
+### Notification for those who are applying for Aswez
 
 *2024-02-17 21:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசுமவுக்கு-விண்ணப்பிக்க-உள்ளவர்களுக்கான-அறிவிப்பு/175-333359) · `ta`
 
-அஸ்வெசும இரண்டாம் கட்டத்திற்கான விண்ணப்பங்களில் அடையாள அட்டை (NIC) கட்டாயமாக்கப்பட்டுள்ளதாக நலன்புரி நன்மைகள் சபை தெரிவித்துள்ளது.
+The ID card (NIC) has been made compulsory in applications for the second phase of the Azwasuma Second Phase, the Welfare Benefits Board said.
 
-முதல் கட்ட விண்ணப்பம் கோரலின் போது, அடையாள அட்டை கட்டாயமாக்கப்படவில்லை. இம்முறை விண்ணப்பிக்கும் போது அடையாள அட்டை இலக்கத்தை கட்டாயம் குறிப்பிடுதல் வேண்டும் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+During the first phase application, ID card is not mandatory. It is also stated that the identity card number must be specified when applying.
 
-அஸ்வெசும இரண்டாம் கட்ட விண்ணப்பங்கள் எதிர்வரும் மார்ச் மாதம் 15 ஆம் திகதி வரை ஏற்றுக் கொள்ளப்படவுள்ளதாக நலன்புரி நன்மைகள் சபை தெரிவித்துள்ளது. R
+The Welfare Benefits Board said the second phase of applications will be accepted until March 15. Remble
 
 ◼️
 
 [Data](articles/9245494f.json)
+
+[Extended Data](ext_articles/9245494f.ext.json)
 
 ---
 
@@ -64,6 +66,46 @@ The tourism sector in Sri Lanka faced a rapid downturn due to the COVID-19 pande
 
 [Data](articles/25ce840b.json)
 
+[Extended Data](ext_articles/25ce840b.ext.json)
+
+---
+
+### Sri Lanka sets 161-run target for Afghanistan in first T20I
+
+*2024-02-17 21:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-sets-161-run-target-for-Afghanistan-in-first-T20I/108-277243) · `en`
+
+Dambulla, Feb 17 (Daily Mirror) - In the inaugural T20I match at Dambulla today, Sri Lanka posted a challenging total of 160 runs for Afghanistan to chase down.
+
+Despite early setbacks, skipper Wanindu Hasaranga's resilient innings of 67 runs provided a much-needed boost to the Sri Lankan innings.
+
+Opting to bowl first after winning the toss, Afghanistan's decision seemed justified as they struck early, dismissing opener Pathum Nissanka cheaply.
+
+Sri Lanka were four wickets down for just 55 runs when Hasaranga walked in.
+
+Hasaranga's aggressive approach, featuring three sixes and seven boundaries, propelled Sri Lanka's total to a competitive score.
+
+For Afghanistan, Fazalhaq Farooqi was the pick of the bowlers, picking up three wickets for 25 runs. Naveen-ul-Haq and Azmatullah Omarzai also chipped in with two wickets each.
+
+◼️
+
+[Data](articles/85533ea6.json)
+
+---
+
+### හත්වන නාවික හමුදාපති බැසිල් සමුගනියි
+
+*2024-02-17 21:03:10* · [`adalk`](https://www.ada.lk/breaking_news/හත්වන-නාවික-හමුදාපති-බැසිල්-සමුගනියි/11-408140) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාවේ හත්වන (07) නාවික හමුදාධිපති වශයෙන් කටයුතු කල කීර්තිමත් ජ්‍යේෂ්ඨ  නිලධාරියෙකු වූ අද්මිරාල් බැසිල් ගුණසේකර, අද දින (2024 පෙබරවාරි 17) අභාවප්‍රාප්ත විය.
+
+1951 වර්ෂයේ ජූලි මස 23 වන දින රාජකීය ලංකා නාවික හමුදාවේ උප ලුතිනන් වරයෙක් ලෙස අධිකාරියට පත්ව ඇති අද්මිරාල් බැසිල් ගුණසේකර, 1973  ජුනි මස 01 වන දින සිට 1979 මැයි මස 31 වන දින දක්වා ශ්‍රී ලංකා නාවික හමුදාවේ හත්වන (07) නාවික හමුදාධිපති ලෙස කටයුතු කර ඇත.
+
+1929 වර්ෂයේ දී උපත ලබා ඇති දැයෙන් සමුගත් අද්මිරාල් බැසිල් ගුණසේකර ගේ දේහයට අවසන් ගෞරව දැක්වීම සඳහා 2024 පෙබරවාරි මස 18 වන දින දක්වා  අංක 50/06, අනුලා මාවත, කොළඹ 06 පිහිටි නිවසේ තැම්පත් කර ඇති අතර, දේහය පිළිබඳ අවසන් කටයුතු පූර්ණ නාවික හමුදා ගෞරව හා උත්තමාචාර සහිතව 2024 පෙබරවාරි මස 18 වන දින බොරැල්ල පොදු සුසාන භූමියේදී සිදුකිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/5bab0a2b.json)
+
 ---
 
 ### The Senegal is a military page asking for a day
@@ -79,6 +121,22 @@ But the President has suspended the President of the President in the country.
 [Data](articles/b4ee492d.json)
 
 [Extended Data](ext_articles/b4ee492d.ext.json)
+
+---
+
+### සාම විනිසුරු සුදුසුකම් පහල දමයි
+
+*2024-02-17 20:59:53* · [`adalk`](https://www.ada.lk/breaking_news/සාම-විනිසුරු-සුදුසුකම්-පහල-දමයි/11-408139) · `si`
+
+සාම විනිසුරු පත්වීම් ලබා ගැනීම සඳහා තිබිය යුතු අධ්‍යාපන  සුදුසුකම  ලෙස  නියමකර තිබූ අ.පො.ස උසස් පෙළ විභාගයෙන් විෂයන් තුනක් සමත් වීමේ කොන්දේසිය අ.පො.ස සාමාන්‍ය පෙළ දක්වා අඩුකර තිබේ.
+
+අධිකරණ ,බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ආචාර්ය විජේදාස රාජපක්ෂ මහතා විසින් ඉකුත් නොවැම්බර් 27 දා නිකුත් කළ අතිවිශේෂ ගැසට් පත්‍රයකින් සාම විනිසුරු පත්වීමක් දීමේ අධ්‍යාපන සුදුසුකම ලෙස උසස් පෙළ විෂයන් තුනක් සමත් විය යුතු බව නියම කර තිබිණි .
+
+එම  නියමය සංශෝධනය කරමින් අධිකරණ අමාත්‍යවරයා විසින් තවත් අති විශේෂ ගැසට් නිවේදයක් ඉකුත් 13 දිනයෙන්  නිකුත් කරමින්   සාම විනිසුරු පත්වීම් දීමේදී අධ්‍යාපන සුදුසුකම ලෙස අ.පො.ස සාමාන්‍ය පෙළ විභාගයෙන් වාර දෙකකට නොවැඩි වාර ගණනකදී සම්මාන සාමාර්ථ දෙකක් සහිතව විෂයන් හයක් සමත් විය යුතුබව  නියමකර තිබේ.
+
+...
+
+[Data](articles/74855c8b.json)
 
 ---
 
@@ -108,6 +166,22 @@ He told the AFP news agency there was “no room for error any longer” and ele
 
 ---
 
+### අන්තර්ජාලයේ යන කොරියානු විභාග අයදුම්පත්‍රය ව්‍යාජයි
+
+*2024-02-17 20:52:48* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාලයේ-යන-කොරියානු-විභාග-අයදුම්පත්‍රය-ව්‍යාජයි/11-408138) · `si`
+
+2024 වර් ෂයේ කොරියානු භාෂාව විභාගයට අදාළ අයදුම් පත්‍රයක් මේ වන විට අන්තර් ජාලය සංසරණය වන අතර එම අයදුම් පත්‍රය කොරියානු භාෂා විභාගයට කිසිදු සම්බන්ධයක් නොමැති ව්‍යාජ අයදුම් පත්‍රයක් බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ අවධාරණය කර සිටියි.
+
+එසේම මෙම විභාග අයදුම්පත්‍රය සම්පූර්ණයෙන් ව්‍යාජ එකක් බව කොරියානු HRDK ආයතනය නිල වශයෙන් ව්‍යාජ තහවුරු කර ඇත. එම ව්‍යාජ google form වෙත ඔබගේ තොරතුරු ලබා දීමෙන් වලකින ලෙස කාර්යාංශය දන්වයි.
+
+2024 කොරියානු විභාගයට පෙනී සිටීමට බලාපොරොත්තු වන අපේක්ෂකයින් විදේශ සේවා නියුක්ති කාර්යාංශයේ වෙබ් අඩවිය වන www.slbfe.lk වෙබ් අඩවියේ පල කර ඇති කොරියානු EPS විභාගය සම්බන්ධ උපදෙස් විස්තර මත පමණක් පදනම්ව කටයුතු කරන්න. එහි පළකර ඇත්තේ අයදුම්පත්‍රයට අදාල උපදෙස් පමණක් වන අතර නිල අයදුම් පත්‍රය  පෙබරවාරි  26 සිට 29 දක්වා www.slbfe.lk හි පමණක් පළකෙරේ. වැඩි විස්තර 1989 අමතා ලබා ගන්නා ලෙස කාර්යාංශය මහජනතාවගෙන් ඉල්ලයි.
+
+◼️
+
+[Data](articles/6b3f594f.json)
+
+---
+
 ### Finance Secretary says the country fell
 
 *2024-02-17 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193518) · `si`
@@ -123,6 +197,22 @@ The Secretary of the International Chamber of Commerce was organized by the Secr
 [Data](articles/2520a8eb.json)
 
 [Extended Data](ext_articles/2520a8eb.ext.json)
+
+---
+
+### දකුණු පළාත් සභාවේ රාජ්‍ය සේවකයන්ගේ ස්ථානමාරු නවතියි
+
+*2024-02-17 20:47:23* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාත්-සභාවේ-රාජ්‍ය-සේවකයන්ගේ-ස්ථානමාරු-නවතියි/11-408137) · `si`
+
+දකුණු පළාත් සභාව යටතේ පවතින අමාත්‍යාංශයන්හි 2024 වර්ෂය සඳහා ඉදිරි දිනවල  ක්‍රියාත්මක කිරීමට යෝජිතව තිබූ  පළාත් රාජ්‍ය  නිලධාරින්ගේ ස්ථාන මාරු ක්‍රියාවලිය  නැවත දැනුම්දෙනතුරු තාවකාලිකව  අත් හිටුවීමට දකුණු පළාත් ආන්ඩුකාරවර ආචාර්ය විලී ගමගේ මහතා නියෝග  කර තිබේ.
+
+පවතින ආර්ථික දුෂ්කරතා  හා දිගින් දිගටම තමන් වෙත   ලැබෙන අභියාචනා  සලකා මෙම තීරණය ගත් බව ආන්ඩුකාරවරයා සඳහන් කරයි.
+
+එසේ වුවද යම් පුරප්පාඩුවක් ඇති තැනකට ස්ව කැමැත්තෙන් යාමට හා ස්ථාන දෙකක් අතර එකඟතාව මත ස්ථාන මාරුවීමට මෙම තීරණය බලනොපාන බවද  ආන්ඩුකාරවරයා මේ නියෝගය   සම්බන්ධයෙන් සියලු අමාත්‍යාංශ ලේකම්වරුන් දැනුවත් කරන ලෙස දන්වමින්  දකුණු පළාත් ප්‍රධාන  ලේකම්වරයා වෙත යොමුකළ ලිපියේ සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/56dc5de7.json)
 
 ---
 
@@ -787,6 +877,22 @@ Most of the elephant casualties were reported on the 27th of September last year
 [Data](articles/d3774dd1.json)
 
 [Extended Data](ext_articles/d3774dd1.ext.json)
+
+---
+
+### රෝගී තදබදය අවම කිරීමට ප්‍රාථමික සෞඛ්‍ය ශක්තිමත් කළ යුතුයි
+
+*2024-02-17 14:24:57* · [`adalk`](https://www.ada.lk/breaking_news/රෝගී-තදබදය-අවම-කිරීමට-ප්‍රාථමික-සෞඛ්‍ය-ශක්තිමත්-කළ-යුතුයි/11-408134) · `si`
+
+මෙරට රජයේ රෝහල් වල පවතින රෝගී තදබදය අඩුකරීමට නම්, ප්‍රාථමික සෞඛ්‍යය සංරක්ෂණ වැඩසටහන් සේම,  ප්‍රාථමික සෞඛ්‍යය සේවාව ශක්තිමත් කල යුතු බවත් ,එය සිදු කිරීමට හැකිබවට දැඩි විශ්වාසයක් තමන් තුළ පවතින බවත්, එම තදබදය ද්විතීක රෝහල් වලින් ක්‍රමානුකූලව  අඩු කර ගැනීමට  හැකිවුවහොත් එය විශාල  ජයග්‍රහණයක් බව සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා සදහන් කලේය .
+
+අමාත්‍යවරයා මේ බව සදහන් කලේ ඊයේ දින (16) නැගෙනහිර පළාතේ,  අම්පාර  මහ රෝහලේ සහ මඩකලපුව ශික්ෂණ රෝහලේ සිදු කල විශේෂ නිරික්ෂණ චාරිකාවකින් අනතුරුව රෝහල් කාර්ය මණ්ඩලය සමඟ පැවති  විශේෂ සාකච්ජාමය අවස්ථාවේ දී  අදහස් දක්වමින්ය.
+
+රජයේ රෝහල් පද්ධතිය වඩාත් විධිමත්ව හා ඉහල පහසුකම් වලින් සමන්විත රෝගී සත්කාර සේවා සමගින් පවත්වා ගෙන යාම මුලික අරමුණ කරගනිමින් දිස්ත්‍රික් මට්ටමින් එම  රෝහල් වල පවතින අඩුපාඩු සොයා බලමින් එයට කඩිනම් විසදුම් ලබා දෙමින් මෙරට ජනතාවට ගුණාත්මක විධිමත් සෞඛ්‍ය සේවාවක් ලබා දීමට සෞඛ්‍ය අමාත්‍යංශය විසින් ආරම්භ කර ඇති  විශේෂ වැඩපිලිවෙලට සමගාමීව අමාත්‍යවරයා ප්‍රමුඛ අමාත්‍යංශ නිලධාරීන් මෙම විශේෂ නිරීක්ෂණ චාරිකාව සිදු කරන ලදී.
+
+...
+
+[Data](articles/80f29697.json)
 
 ---
 
@@ -1939,143 +2045,5 @@ He said eleven wild elephants had been run over by train and shot dead on Septem
 [Data](articles/49be9489.json)
 
 [Extended Data](ext_articles/49be9489.ext.json)
-
----
-
-### President assures support for Israeli security
-
-*2024-02-17 08:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-assures-support-for-Israeli-security/108-277228) · `en`
-
-Colombo, Feb 17 (Daily Mirror) - In what appeared to be a balanced approach to the Israeli-Palestine conflict, President Ranil Wickremesinghe reiterated support for the establishment of a Palestinian state and emphasised the significance of ensuring Israel’s security, fostering a balanced approach to regional peace.
-
-In a significant diplomatic encounter, Israel’s Minister of Transport and Road Safety, Brig. Gen. Miri Regev, convened with President Ranil Wickremesinghe.
-
-The meeting delved into crucial matters concerning the safe return of Israeli hostages, with President Wickremesinghe affirming Sri Lanka’s unwavering commitment to advocating for their safety.
-
-Furthermore, amidst the ongoing hostilities in Gaza, the President called for an immediate cessation of violence, underscoring the paramount importance of peace and stability in the region.
-
-...
-
-[Data](articles/afd0517f.json)
-
-[Extended Data](ext_articles/afd0517f.ext.json)
-
----
-
-### Shiran Bashik's disciple arrested
-
-*2024-02-17 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193490) · `si`
-
-The STF has been arrested by the STF with a disciple of Shiran Bashik, who is considered a large scale drug dealer.
-
-The suspect was arrested in a raid on a raid on the car parking on the Havelockum Housing Complex yesterday (16).
-
-The vehicle was signaled to stop a car traveling along the road in Wellawatte and the vehicle was raised by the vehicle and continued to run the car to the vehicle yard of Havelock.
-
-Two persons were already attempted to flee and one suspect was arrested by the police.
-
-The victim is a 41 year old resident of Angoda.
-
-The two cars have been recovered and the three cars have been recovered and the three cars have been recovered.
-
-A traveling bag with a driver's license and a driver's license issued by the Bashik was also found in the name of Bashik.
-
-The Police Narcotics has been handed over to the Police Narcotics for further investigations.
-
-The suspect was revealed that the suspect had fled the sons of Shiran Basik, Nedring Bacan, a son of Shiran Basik.
-
-◼️
-
-[Data](articles/ff1da59a.json)
-
-[Extended Data](ext_articles/ff1da59a.ext.json)
-
----
-
-### Water cut in several parts of Colombo
-
-*2024-02-17 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193489) · `si`
-
-The National Water Supply and Drainage Board (NBRO) says that a water cut will be imposed due to the essential improvement of the water supply system.
-
-Accordingly, the water supply is due to be imposed from 5, 12, 13, 14 and 15 to 09 am today.
-
-The National Water Supply and Drainage Board announced that the water cut will be carried out due to the essential improvement activities carried out by the Enhancement of the Ambatale water supply.
-
-◼️
-
-[Data](articles/cb32e039.json)
-
-[Extended Data](ext_articles/cb32e039.ext.json)
-
----
-
-### Special discussion on education issues
-
-*2024-02-17 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193488) · `si`
-
-A special discussion on the problems and challenges in the field of education and a special discussion on future education reforms was held yesterday.
-
-The discussion has been held with the participation of the Minister of Education and all Governors, Provincial Education Authorities and Trade Union representatives.
-
-The Ministry of Education has to establish a separate unit within the Ministry of Education, integrating the nine provinces.
-
-The unions have been shown in this regard due to the divisions of the provincial authorities and line ministries.
-
-Governor of the Central Province Lalith Yuga, who spoke to the media after the discussion, said that the trade unions were unworthy of speaking only to win its rights.
-
-The Chief Secretary of the Ceylon Teachers Union Joseph Stalin has stated that the discussion is not sufficient.
-
-◼️
-
-[Data](articles/a18aa4fa.json)
-
-[Extended Data](ext_articles/a18aa4fa.ext.json)
-
----
-
-### Notice of the garment fees
-
-*2024-02-17 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193487) · `si`
-
-The charges charged in the Bastian Mawatha toilets at the Bastian Mawatha in Colombo has been revised.
-
-People accused the authorities to increase the fee for Rs.
-
-Attorname, President Shashi Welgama, Chairman of the National Transport Commission Shashhi Welgama said no decision has been taken to increase the toilet fees.
-
-Accordingly, the National Transport Commission (NTC) has notified the maintenance of the toilets to revise the higher rates.
-
-Accordingly, the National Transport Commission (NTC) statement stated that the projects were carried out at Rs.
-
-◼️
-
-[Data](articles/ce80877c.json)
-
-[Extended Data](ext_articles/ce80877c.ext.json)
-
----
-
-### Afternoon thundershowers likely in some areas today
-
-*2024-02-17 07:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97338/afternoon-thundershowers-likely-in-some-areas-today) · `en`
-
-Several spells of light showers will occur in Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara-Eliya districts, says the Department of Meteorology.
-
-Showers or thundershowers may occur in parts of Western and Sabaragamuwa provinces and Galle and Matara districts after 2.00 p.m.
-
-Fairly strong winds of about 30-40 kmph can be expected at times in the eastern slopes of the central hills and Northern, North-central, North-western, Uva and Eastern provinces and Hambantota and Kandy districts.
-
-The public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers can occur at several places in the sea areas off the coast extending from Pottuvil to Galle via Hambantota.
-
-Winds will be north-easterly and wind speed will be 25-35 kmph.
-
-...
-
-[Data](articles/91746712.json)
-
-[Extended Data](ext_articles/91746712.ext.json)
 
 ---

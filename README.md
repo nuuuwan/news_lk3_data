@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 00:03:11**
+As of **2024-02-18 00:17:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,714 (99.9%) of 7,720 articles have been extended.
+7,720 (100.0%) of 7,720 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ In the chase, Afghanistan started well but Ibrahim Zadran's 67 runs weren't enou
 ◼️
 
 [Data](articles/733f9f18.json)
+
+[Extended Data](ext_articles/733f9f18.ext.json)
 
 ---
 
@@ -122,65 +124,77 @@ By promoting separation education with Charter, these institutions will be trans
 
 ---
 
-### ශ්‍රී ලංකාවට තියුණු ජයක්
+### Sri Lanka beat Sri Lanka
 
 *2024-02-17 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193523) · `si`
 
-සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පළමු විස්සයි විස්ස ක්‍රිකට් තරගය අද (17) පැවැත්වුණි.
+The first Twenty Twenty Twenty-Twenty Twenty series was held today (17).
 
-ඇෆ්ගනිස්තානයේ ආරාධනයෙන් පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 19ක් අවසානයේ සියලුදෙනා දැවී ලබාගත්තේ ලකුණු 160ක් පමණි.
+Batting first Sri Lanka scored only 160 runs in 19 overs.
 
-ඒ අනුව තරගය ජයගැනීම සඳහා ඇෆ්ගනිස්තානයට හිමිවූ ඉලක්කය ලකුණු 161කි.
+Accordingly, Afghanistan won 161 runs for the winning match.
 
-නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 9ක් දැවී ඇෆ්ගනිස්තානයට රැස්කර ගැනීමට හැකි වූයේ ලකුණු 156ක් පමණි.
+At the end of 20 overs, Afghan scored only 156 runs.
 
-ශ්‍රී ලංකා ලකුණු පුවරුව ඔසවා තැබූ වනිඳු හසරංග පන්දු 32ක් තුළ ලකුණු 67ක් ලබා ගත්තේය.
+Wanindu Hasarangan scored 67 off 32 balls.
 
 ◼️
 
 [Data](articles/5d870db1.json)
 
+[Extended Data](ext_articles/5d870db1.ext.json)
+
 ---
 
-### සංචාරක ක්ෂේත්‍රයේ ගැටලු සොයන්න ජනපති යයි
+### President to search for tourism issues
 
 *2024-02-17 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193522) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (17) තංගල්ල සහ ගාල්ල ප්‍රදේශවල නිරීක්ෂණ චාරිකාවකට එක් විය.
+President Ranil Wickremesinghe visited Tangalle and Galle areas today (17).
 
-මෙරට සංචාරක කර්මාන්තයේ සිදුවී ඇති නව පිබිදීමත් සමග සංචාරක කලාප ආශ්‍රිත පහසුකම් පුළුල් කිරීමට රජය විශේෂ අවධානයකින් කටයුතු කරන අතර, එම කටයුතු සොයා බැලීමට ජනාධිපතිවරයා මෙලෙස පැමිණ තිබුණි.
+The government has paid special attention to the expansion of tourism zone facilities along with the new awakening of tourism.
 
-මෙහිදී සංචාරක හෝටල් කිහිපයක් වෙත ගොස් ව්‍යාපාරිකයන් හමුවූ ජනාධිපතිවරයා ඔවුන්ගේ ගැටලු පිළිබඳව විමසා බැලීය.
+The President who went to several tourists visited the businessmen and asked their problems.
 
-සංචාරක කර්මාන්තය ආශ්‍රිත ව්‍යාපාරික ප්‍රජාව ඉදිරිපත් කළ බොහෝ ගැටලුවලට එම අවස්ථාවේම අදාළ නිලධාරීන් දුරකථන මාර්ගයෙන් සම්බන්ධ කර ගනිමින් විසඳුම් ලබාදීමට ජනාධිපතිවරයා පියවර ගත් අතර එම කර්මාන්තයේ දියුණුව උදෙසා ගත යුතු පියවර පිළිබඳ ඔවුන්ගේ අදහස් ලබාගැනීමට ද කටයුතු කළේය.
+The President took steps to address the tourism industry through telephones and obtain their views on the activities of the industry.
 
-2023 වසරේ මෙරටට පැමිණි සංචාරකයන්ගේ සංඛ්‍යාව 1,489,000ක් වන අතර එය 2022 වසරට සාපේක්ෂව දෙගුණයක වැඩිවීමකි.
+The number of tourist arrivals in Sri Lanka in 2023 is 1,489,000, with twice as compared to 2022.
 
-මෙරටට වැඩිම සංචාරකයන් ප්‍රමාණයක් පැමිණ ඇත්තේ 2017 වසරේදී වන අතර එම සංඛ්‍යාව ලක්ෂ 25කි. 2024 වසරේ දී එම ඉලක්කය අභිභවා යාම රජයේ අරමුණ වන අතර ලබන වසර වන විට එම සංඛ්‍යාව තවදුරටත් ඉහළ නංවා ගැනීමට සැලසුම් ක්‍රියාත්මක කර තිබේ.
+The highest number of tourist arrivals in Sri Lanka has come in 2017 and the number 25 lakhs. In 2024, the government's objective is the government's objective to reinstate the target in 2024 and by next year.
+
+The government has also implemented the necessary infrastructure development and new tourism development and new tourist promotion programs.
 
 ...
 
 [Data](articles/b05312ce.json)
 
+[Extended Data](ext_articles/b05312ce.ext.json)
+
 ---
 
-### රු කෝටි ගණන් මුදල් වංචා කර රට පැන්න ජාවාරම්කරුව ආපසු රැගෙන එයි
+### The racketeer is backing the country with billions of rupees
 
 *2024-02-17 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193521) · `si`
 
-මැණික් ව්‍යාපාරිකයෙක් රවටා රුපියල් බිලියන දෙකකට ආසන්න මුදලක් වංචා කර මාලදිවයිනේ සැඟව සිටි ශ්‍රී ලාංකිකයෙකු මෙරටට පිටුවහල් කර තිබේ.
+A gem businessman has cheated and deported a Sri Lankan in the Maldives.
 
-අදාළ සැකකරු මෙරට සිටියදී රුපියල් කෝටි 24ක් වංචා කර ඇති බවට ඔහුට එරෙහිව කොළඹ අපරාධ කොට්ඨාසයට පැමිණිල්ලක් ලැබී තිබූ අතර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය හා වාණිජ අපරාධ විමර්ශන අංශයට රුපියල් කෝටි 6ක, රුපියල් කෝටි 36ක, රුපියල් කෝටි 40ක ආදී වශයෙන් මුදල් වංචා සම්බන්ධයෙන් ඔහුට විරුද්ධව පැමිණිලි ලැබී තිබුණි.
+The Colombo Crimes Division had lodged a complaint against him that the suspect had been cheated on the occasional defrauding..
 
-පොලීසිය පැවසුවේ ඒ අනුව සැකකරු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය සූදානම් වනවිට සැකකරු සිය බිරිය හා පියා සමග මාලදිවයිනට පළාගොස් තිබූ බවය.
+According to the police, the suspect had fled the Maldives with his wife and his father when the police had prepared to arrest the suspect.
 
-අනතුරුව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් ජාත්‍යන්තර පොලීසිය හරහා සැකකරුට රතු වරෙන්තු නිකුත් කරනු ලැබීය.
+Acting IGP then issued red warrants to the suspect through the International Police on the instructions of the Acting Inspector General of Police.
 
-ඒ පිළිබඳව නොදත් සැකකරු සිය සංචාරක වීසා කාලය අවසන් වීම හේතුවෙන් මාලදිවයිනේ ආගමන විගමන කාර්යලය වෙත ගොස් තිබුණේ නැවත වීසා කාල සීමාව දිගු කරගැනීම සඳහාය.
+The suspect is not gone to the immigration office of the Maldives had gone to the immigration office of the Maldives.
+
+The suspect was arrested and a group of officers of the Finance and Commerce Investigation Criminal Investigation had recently taken to the Maldives to bring the suspect recently.
+
+Questions made by the suspect were revealed that he had gems and the gem businesses have been cheated on the arrival of gems.
 
 ...
 
 [Data](articles/2e2ace3f.json)
+
+[Extended Data](ext_articles/2e2ace3f.ext.json)
 
 ---
 
@@ -240,21 +254,23 @@ The tourism sector in Sri Lanka faced a rapid downturn due to the COVID-19 pande
 
 ---
 
-### සාම්ප්‍රදායක දේශපාලනය අවසන් කළ යුතු කාලය ඇවිත් - දිලිත් ජයවීර
+### Dimiti Jayaweera is the time to end traditionally politics
 
 *2024-02-17 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193520) · `si`
 
-සාම්ප්‍රදායික දේශපාලනය අවසන් කළ යුතු කාලය එළඹ ඇති බව මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+The time has come to complete traditional politics, "the leader of the Motherland Top Entrepreneurs Dilith Jayaweera said.
 
-එම පක්ෂයේ කොළඹ දිස්ත්‍රික් සමුළුව අමතමින් ඒ මහතා මෙම අදහස් පළ කළේය.
+He was speaking at the Colombo District Convention in the Colombo District Convention.
 
-මව්බිම ජනතා පක්ෂයේ කොළඹ දිස්ත්‍රික් සමුළුව සුගතදාස ගෘහස්ත ක්‍රීඩාංගනයේදී අද (17) පස්වරුවේදී පැවැත්වුණි.
+The Colombo district convention of the Motherland People's Party was held at the Sugathadasa Indoor Stadium this afternoon.
 
-මෙම සමුළුව සඳහා නැගෙනහිර පළාත් හිටපු ආණ්ඩුකාර අනුරාධා යහම්පත්, ශ්‍රී ලංකා කොමියුනිස්ට් පක්ෂයේ නියෝජ්‍ය සභාපති, පාර්ලිමේන්තු මන්ත්‍රී වීරසුමන වීරසිංහ, හිටපු පාර්ලිමේන්තු මන්ත්‍රී පියසිරි විජේනායක, රාජ්‍ය තාන්ත්‍රික නිලධාරී පාලිත කොහොන, ජාත්‍යන්තර මෝටර් රථ ධාවන ශූර ඩිලන්ත මාලගමුව සහ ධාවන ශූර ෂෙහාන් අඹේපිටිය යන මහත්ම මහත්මීන් ඇතුළු විශාල පිරිසක් සහභාගි විය.
+Former Provincial Councipe, Deputy Chairman of the Sri Lanka Communist Party, Piyasiri Weerasinghe, Diplomatic Officer, Dilanthya Palgamuwa, International Motor Traffic Dilantha Malagon and Rampment Champion Shehan AmbepitiyaA large number of people attended.
 
 ◼️
 
 [Data](articles/19af2636.json)
+
+[Extended Data](ext_articles/19af2636.ext.json)
 
 ---
 
@@ -627,6 +643,8 @@ Coconut shells were 26,000 to 28,000 rupees a metric tonne. (Colombo/Jan17/2024)
 ◼️
 
 [Data](articles/33b80bb3.json)
+
+[Extended Data](ext_articles/33b80bb3.ext.json)
 
 ---
 

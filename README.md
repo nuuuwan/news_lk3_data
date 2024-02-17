@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 17:17:29**
+As of **2024-02-17 17:33:11**
 
 ## Newspaper Stats
 
-*Scraped **7,677** Articles*
+*Scraped **7,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 399
 dailyftlk | 415
 adalk | 649
 tamilmirrorlk | 934
-adaderanalk | 940
+adaderanalk | 942
 virakesarilk | 1,014
 adaderanasinhalalk | 1,100
 dailymirrorlk | 1,132
@@ -26,7 +26,7 @@ dailymirrorlk | 1,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,675 (100.0%) of 7,677 articles have been extended.
+7,677 (100.0%) of 7,679 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -126,6 +126,44 @@ The Ceylon Transport Board is conducting an investigation into the incident.
 
 ---
 
+### France signs security pact with Ukraine, pledges ‘up to €3 billion’ in additional military aid
+
+*2024-02-17 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97350/france-signs-security-pact-with-ukraine-pledges-up-to-3-billion-in-additional-military-aid) · `en`
+
+The agreement includes a French aid pledge for up to €3 billion for 2024, after €1.7 billion in 2022 and €2.1 billion last year.
+
+Both deals are part of Zelensky’s drive to shore up help for his forces who are struggling to hold off Russian attacks on the frontline city of Avdiivka.
+
+After touching down at Orly airport south of the French capital, Zelensky travelled on to the Elysee palace where he met with President Emmanuel Macron to sign the accord.
+
+The French presidency said ahead of the meeting that the pact would run for 10 years, and include precise commitments from the French side, including financial pledges.
+
+It would strengthen cooperation in the area of artillery, the presidency said, without providing details.
+
+The deal is also to help pave the way towards Ukraine’s future integration into the European Union and NATO, officials said.
+
+...
+
+[Data](articles/22387b18.json)
+
+---
+
+### Four primary schoolchildren hospitalized after consuming intoxicating pills
+
+*2024-02-17 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97349/four-primary-schoolchildren-hospitalized-after-consuming-intoxicating-pills) · `en`
+
+Four students in Grade 5 at a primary school in the Maduragoda area of Kurunegala were hospitalized after ingesting some intoxicating pills.
+
+According to the police, the students had consumed certain pills brought to school by one of the hospitalized students. The child had discovered the pills hidden at his home, reportedly belonging to his drug-addicted father, who has several pending drug-related cases.
+
+The students have been admitted to Kurunegala General Hospital due to an allergic reaction. The Maduragoda Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/d267de6d.json)
+
+---
+
 ### Missing an officer drowns in a raid
 
 *2024-02-17 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193506) · `si`
@@ -146,21 +184,23 @@ The Navy and Police have commenced operations in search of the missing officer.
 
 ---
 
-### கெஹலியவுக்கு மேலதிக மருத்துவ சிகிச்சைகள்
+### Additional Medical Treatments for Keheliya
 
 *2024-02-17 15:23:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-மேலதிக-மருத்துவ-சிகிச்சைகள்/175-333344) · `ta`
 
-கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்லவுக்கு மேலதிக மருத்துவ சிகிச்சைகளை வழங்குவதற்கு வைத்தியர்கள் பரிந்துரைத்துள்ளனர்.
+Doctors have recommended further medical treatment to former minister Keheliya Rambukwella, who has been arrested and interrogated.
 
-அவர் தொடர்ந்தும் சிறைச்சாலை வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாக சிறைச்சாலைகள் பேச்சாளர் காமினி பி. திஸாநாயக்க தெரிவித்துள்ளார்.
+Prison spokesman Gamini B that he continues to receive treatment at the Prison Hospital. Dissanayake said.
 
-நீதிமன்ற உத்தரவுக்கமைய இது தொடர்பான மருத்துவ அறிக்கைகள் நீதிமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ளதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+He pointed out that medical reports have been submitted to court on the court order.
 
-தரமற்ற இம்யூனோகுளோபுலின் தடுப்பூசியை இறக்குமதி செய்த குற்றச்சாட்டில் முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெல்ல உள்ளிட்ட 7 பேர் எதிர்வரும் 29 ஆம் திகதி வரையில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர். R
+Seven persons, including former health minister Keheliya Rambukwella, have been kept in remand till the 29th of this month. Remble
 
 ◼️
 
 [Data](articles/55cc9c9c.json)
+
+[Extended Data](ext_articles/55cc9c9c.ext.json)
 
 ---
 
@@ -204,21 +244,25 @@ The event was held on Friday evening (16) evening (16), Kandy District Parliamen
 
 ---
 
-### කායවර්ධන ශිල්පියාගේ මරණය ගැන පරීක්ෂණයක් අරඹයි
+### Cadebuader's death begins
 
 *2024-02-17 14:40:57* · [`adalk`](https://www.ada.lk/breaking_news/කායවර්ධන-ශිල්පියාගේ-මරණය-ගැන-පරීක්ෂණයක්-අරඹයි/11-408135) · `si`
 
-එප්පාවල කටියාව ප්‍රදේශයේ පදිංචි 34 හැවිරිදි  කායවර්ධන ශිල්පියකුගේ හදිසි මරණය සම්බන්ධයෙන් එප්පාවල, ප්‍රියංකරගම පොලීසිය පරීක්ෂණ ආරම්භ කර ඇත. මෙලෙස ජීවිතක්ෂය‌ට පත්ව ඇත්තේ එප්පාවල කටියාව යාය 06 පදිංචි ඩී.එම්  විරාජ් ඉමංක නම් 34 හැවිරිදි දෙදරු පියෙකි.
+Eppawala Police have commenced investigations into the emergency death of a 34 year old resident of Katiyawa, Eppawala.The deceased has been identified as DM Viraj, a 34-year-old father of two, a resident of Katia.
 
-පසුගිය සතියේ සෙනසුරාදා (10) දින පස්වරුවේ 6.30 ට පමණ  මෙම කායවර්ධන ශිල්පියා නිවස ඉදිරිපිට වැටී සිටියදී ඔහුගේ බාල සොයුරා විසින් කටියාව යාය 09 රෝහලට ඇතුළත් කර ඇති අතර, ඉන් අනතුරුව ඔහු වැඩිදුර ප්‍රථ්කාර සඳහා අනුරාධපුර ශීක්ෂණ රෝහලට ඇතුළත් කර ඇත.
+Last week, the bodybuilding was rushed to the Katiyawa nut in the country while he was admitted to the Anuradhapura Survey Hospital for further rewards.
 
-අනුරාධපුර ශික්ෂණ රෝහලේ 61 වාට්ටුවේ දැඩිසත්කාර  ඒ්කකයේ ප්‍රථිකාර ලබමින් සිටියදී පෙරේදා (15) පස්වරු 6.30 ට පමණ ජීවිතක්ෂයට පත්ව ඇත.
+The victim was killed at around 6.30 pm while receiving treatment at Ward 61 of the Anuradhapura Teaching Hospital.
 
-කායවර්ධන ශිල්පියාගේ  මරණය සැලවීමත් සමඟින් ඔහුගේ පියාද, සිත් තැවුලට පත්ව  වස පානය කර රෝහල් ගත කර ඇති අතර, ඔහු අනුරාධපුර ශික්ෂණ රෝහලේ මේ වන විට ප්‍රථිකාර ලබයි.ඔහුගේ තත්වය බරපතල නොවන බව රෝහල් ආරංචි මාර්ග පවසයි.‍‍
+With the death of the bodybuilder, his father had been hospitalized and hospitalized and was admitted to the Anuradhapura Teaching Hospital. Hospital sources say that the situation is not serious.
+
+Did this death have been a shouting near the house before the bodybuilder falls in front of the house?Since this bodybuilding stimulants use the body, is the result of a result?Or a high-ranking police officer at the Priyankaragama Police said that investigations were conducted due to another disease.
 
 ...
 
 [Data](articles/d027ce30.json)
+
+[Extended Data](ext_articles/d027ce30.ext.json)
 
 ---
 
@@ -2019,45 +2063,5 @@ It is noteworthy that when the woman arrived to take her motorcycle after the wa
 [Data](articles/cb6b242b.json)
 
 [Extended Data](ext_articles/cb6b242b.ext.json)
-
----
-
-### SL-Russia set to enhance transport cooperation via MoU
-
-*2024-02-17 02:11:42* · [`dailyftlk`](https://www.ft.lk/news/SL-Russia-set-to-enhance-transport-cooperation-via-MoU/56-758576) · `en`
-
-The Cabinet of Ministers approved signing a Memorandum of Understanding (MoU) between the Transport and Highways Ministry in Sri Lanka and Transport Ministry of Russia to improve transport staff training and development.
-
-The said agreement which aims to enhance staff training and development within the transport industry is pending clearance from the Attorney General’s Department for the draft MoU.
-
-Discussions surrounding the importance of establishing the MoU between the two Ministries gained momentum during the recent official visit of the Transport and Highways Minister Banduala Gunawardena to Russia.
-
-“Both countries acknowledged the significance of enhancing greater cooperation to advance mutual interests in transport-related endeavours,” Cabinet Co-Spokesman and Minister Gunawardena said at the post-Cabinet meeting media briefing on Tuesday.
-
-The proposal put forth by Transport and Highways Minister Gunawardena was approved by the Cabinet of Ministers at its meeting on Monday.
-
-◼️
-
-[Data](articles/7ffa0f8b.json)
-
-[Extended Data](ext_articles/7ffa0f8b.ext.json)
-
----
-
-### Two students drown in the sea
-
-*2024-02-17 02:10:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-இருவர்-கடலில்-மூழ்கி-மாயம்/175-333332) · `ta`
-
-Two students from Ampara, Malikaikkadu - Sainthamaruthu area have been hit by the sea while playing in the Nintavur area.
-
-Investigations revealed that 8 students from 13 to 15 years of age at a popular school located on the Malikaikkadu - Sainthamaruthu border road were completing the Jumma Prayer yesterday and playing on the bicycles on the bicycle and playing the shooting of the two men at 4.20 pm.
-
-Fishermen and civilians searched the two students who were dragged into the sea and searched for machine boats and till 9 pm. (A)
-
-◼️
-
-[Data](articles/d992f176.json)
-
-[Extended Data](ext_articles/d992f176.ext.json)
 
 ---

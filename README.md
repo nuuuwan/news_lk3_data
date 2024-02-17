@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 13:02:24**
+As of **2024-02-17 13:17:14**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 1,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,640 (99.9%) of 7,649 articles have been extended.
+7,649 (100.0%) of 7,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### நவால்னியின் மரணத்திற்கு புட்டினே காரணம் - பைடன்
+### Putin is responsible for Navalney's death - Bidan
 
 *2024-02-17 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176606) · `ta`
 
-ரஸ்ய  ஜனாதிபதி விளாடிமிர் புட்டினை கடுமையாக விமர்சித்த எதிர்கட்சி தலைவர் அலெக்சே நவால்னியின்  மரணத்திற்கு ரஸ்ய ஜனாதிபதியே காரணம் என  அமெரிக்க ஜனாதிபதி ஜோ பைடன்  வெளிப்படையாக குற்றம்சாட்டியுள்ளார்.
+US President Joe Bite has openly accused Russian president of the death of Opposition Leader Alexe Navalni, who has strongly criticized Russian President Vladimir Putin.
 
-.புட்டினே இதற்கு முழுக்காரணம் என தெரிவித்துள்ள அவர் நான் கடவுளை நம்புகின்றேன் எனவும் குறிப்பிட்டுள்ளார்.
+He said that this is the reason for this.
 
-இது குறித்து எந்த தவறுகளையும் இழைக்கவேண்டாம் புட்டினே காரணம் என அவா தெரிவித்துள்ளார்.
+Ava said that Putin is responsible for this.
 
-புட்டின் அரசாங்கத்தின் ஊழல் வன்முறைகள் உட்பட அனைத்து நடவடிக்கைகளையும் அவர் துணிச்சலாக எதிர்த்தார். என தெரிவித்துள்ள பைடன் இதற்கு பதில் புட்டின் நவோல்னிக்கு நஞ்சூட்டினார் கைதுசெய்தார் போலியான குற்றச்சாட்டுகளை சுமத்தி வழக்குதாக்கல் செய்தார் சிறையில் அடைத்தார் அங்கும் அவர் தனிமையில் வைக்கப்பட்டிருந்தார் என பைடன்  தெரிவித்துள்ளார்
+He bravely opposed all activities, including the corruption violence of Putin. In response, Putin said that Putin was arrested for allegedly being arrested for allegedly accused of fake allegations.
 
 ◼️
 
 [Data](articles/7cd06ffe.json)
+
+[Extended Data](ext_articles/7cd06ffe.ext.json)
 
 ---
 
@@ -70,19 +72,21 @@ The railway engine and the colour signal system had been extensively damaged in 
 
 ---
 
-### கிணற்றை எட்டிப்பார்த்தவருக்கு காத்திருந்த அதிர்ச்சி
+### The shock waiting for the well
 
 *2024-02-17 11:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிணற்றை-எட்டிப்பார்த்தவருக்கு-காத்திருந்த-அதிர்ச்சி/175-333342) · `ta`
 
-ரிதிகம பிரதேச செயலகப் பிரிவுக்குட்பட்ட வெலகெதர பொலிஸ் பிரிவிற்குட்பட்ட வீடொன்றின் தோட்டத்தில் உள்ள கிணற்றிலிருந்து சிசு ஒன்றின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளது.
+The body of an infant has been found from the well in the garden of a house belonging to the Ritigama Divisional Secretariat Division.
 
-வீட்டில் தண்ணீர் இல்லாததால் தண்ணீர் மோட்டாரை போடும் முன் கிணற்றை சோதித்த வீட்டின் உரிமையாளர், கிணற்று தண்ணீரில் பொம்மை ஒன்று மிதப்பதைக் கண்டு அதை அகற்ற முற்பட்ட போது, பொம்மை இல்லை என்பதை உணர்ந்தார்.
+The owner of the house, who checked the well before the lack of water in the house, realized that there was no toy when a toy was floating in the well and tried to remove it.
 
-பின்னர், வீட்டின் உரிமையாளர் பொலிஸில் முறைப்பாடு செய்ததையடுத்து, பொலிஸார் சம்பவ இடத்திற்கு வந்து பார்வையிட்டதுடன், குழந்தையின் சடலம் பிரேத பரிசோதனைக்காக குருநாகல் போதனா வைத்தியசாலைக்கு நீதவானின் உத்தரவின் பேரில் அனுப்பி வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+Later, the owner of the house lodged a complaint with the police and visited the scene and the body of the child was sent to the Kurunegala Teaching Hospital for autopsy.. Remble
 
 ◼️
 
 [Data](articles/99954ccc.json)
+
+[Extended Data](ext_articles/99954ccc.ext.json)
 
 ---
 
@@ -108,55 +112,63 @@ Meanwhile, foreign security reports have also taken into custody over 100 people
 
 ---
 
-### முன்னாள் அமைச்சர் காமினி ஜயவிக்ரம பெரேரா காலமானர்
+### Former Minister Gamini Jayawickrama Perera passed away
 
 *2024-02-17 11:33:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-காமினி-ஜயவிக்ரம-பெரேரா-காலமானர்/175-333341) · `ta`
 
-முன்னாள் அமைச்சர் காமினி ஜயவிக்ரம பெரேரா தனது 83 ஆவது வயதில் காலமானார்.
+Former minister Gamini Jayawickrama Perera passed away at the age of 83.
 
-1941 ஜனவரி 29 ஆம் திகதி பிறந்த காமினி ஜயவிக்ரம பெரேரா, ஐக்கிய தேசிய கட்சியின் முன்னாள் தவிசாளர்களில் ஒருவருமாவார். R
+Born on January 29, 1941, Gamini Jayawickrama Perera was one of the former UNP councilors. Remble
 
 ◼️
 
 [Data](articles/19381855.json)
 
+[Extended Data](ext_articles/19381855.ext.json)
+
 ---
 
-### யாழ். சிறைச்சாலையில் அமைச்சர் ஜீவன் தொண்டமான்
+### Yall. Minister Jeevan Thondaman at Prison
 
 *2024-02-17 11:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-சிறைச்சாலையில்-அமைச்சர்-ஜீவன்-தொண்டமான்/71-333340) · `ta`
 
-யாழ்ப்பாணம் சிறைச்சாலையில் அடைக்கப்பட்டுள்ள 43 தமிழக மீனவர்களையும் அமைச்சர் ஜீவன் தொண்டமான் நேரில் சென்று சந்தித்துள்ளார்.
+Minister Jeevan Thondaman has also met 43 Tamil Nadu fishermen at Jaffna Prison.
 
-மீனவர் பிரச்சினைக்கு விரைவில் நிலையானதொரு தீர்வை காணுமாறு இந்திய அரசிடமும், ஜனாதிபதி ரணில் விக்ரமசிங்கவிடமும் கோரிக்கை விடுத்துள்ளோம் என்று இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+Jeevan Thondaman, General Secretary of the Ceylon Workers Congress and Minister of Water Resources and Estate Infrastructure Development, said that we have requested the Government of India and President Ranil Wickremesinghe to find a solution to the fishermen issue soon.
 
-யாழ்ப்பாணம் சிறைச்சாலையில் உள்ள 43 தமிழக மீனவர்களை அமைச்சர் நேரில் சென்று சந்தித்து அவர்களிடம் சுகம் விசாரித்ததுடன், அவர்களுக்குள்ள பிரச்சினைகளை கேட்டறிந்துகொண்டார்.
+The Minister visited the 43 Tamil Nadu fishermen in the Jaffna Prison and inquired about them and heard about their problems.
 
-“யாழ்ப்பாணம் சிறையில் உள்ள 43 தமிழக மீனவர்களை சந்தித்தேன். அவர்கள் ஏன் கைது செய்யப்பட்டுள்ளனர் என்பது பற்றி எடுத்து கூறினேன். அவர்களும் அதனை ஏற்றுக்கொண்டனர்.
+“I met 43 Tamil Nadu fishermen in Jaffna Prison. I told you why they were arrested. They also accepted it.
 
-43 மீனவர்களில் இருவர் கடத்தல் சம்பவத்துடன் தொடர்புபட்டுள்ளனர். ஏனைய 41 மீனவர்களுக்கும் இலங்கை அரசு மூலமாக அல்லது, எம்மால் முடிந்த உதவிகளை நிச்சயம் செய்வோம்.
+Two of the 43 fishermen are involved in the abduction incident. The other 41 fishermen will be sure of the help of the Sri Lankan government or our assistance.
+
+I hope they will be released within two or three weeks. Fishermen said Sri Lankan police are doing them well.
 
 ...
 
 [Data](articles/3d6253e5.json)
 
+[Extended Data](ext_articles/3d6253e5.ext.json)
+
 ---
 
-### விபத்தில் ஒருவர் உயிரிழப்பு - மூவர் காயம்
+### One person dies in accident - trio injured
 
 *2024-02-17 11:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/விபத்தில்-ஒருவர்-உயிரிழப்பு-மூவர்-காயம்/73-333339) · `ta`
 
-மட்டக்களப்பு - வாழைச்சேனை பிரதான வீதியில் தன்னாமுனையில் இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்ததுடன் மேலும் மூவர் காயமடைந்துள்ளதாக ஏறாவூர்ப் பொலிஸார் தெரிவித்தனர்.
+Eravurp police said that one person was killed and three others were injured in an accident on the Batticaloa - Valaichenai main road.
 
-வெள்ளிக்கிழமை (16) இரவு காத்தான்குடியிலிருந்து  ஏறாவூர் நோக்கி பயணித்த முச்சக்கரவண்டி தன்னாமுனையில் பட்டா ரக வாகனம் நேருக்கு நேராக மோதியத்தில் விபத்து ஏற்பட்டுள்ளது.
+A three -wheeler traveling from Kattankudi to Eravur on Friday night (16)
 
-இச்சம்பவத்தில் முச்சக்கரவண்டிவில் பயணித்த காத்தான்குடியைச் சேர்ந்த றஹீம் றியாஸ் என்பவர் உயிரிழந்ததுடன்  முச்சக்கரவண்டி சாரதி, குழந்தை மற்றும் பெண் காயமடடைந்த நிலையில் மட்டக்களப்பு போதனா வைத்தியசாலையில் சிகிற்சைக்காக அனுமதிக்கப்பட்டுள்ளனர்.
+Rahim Riyas, a native of Kattankudi, who was traveling in the incident, has been admitted to the Batticaloa Teaching Hospital for treatment.
 
-இச்சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை ஏறாவூர்ப் பொலிஸார் மேற்கொண்டு வருகின்றனர்.    R
+Further investigations are being carried out by the Eravur police.R
 
 ◼️
 
 [Data](articles/3c70e00f.json)
+
+[Extended Data](ext_articles/3c70e00f.ext.json)
 
 ---
 
@@ -184,21 +196,23 @@ In addition, Nintavur police are conducting further investigations to six other 
 
 ---
 
-### நுவரெலியாவில் கோவா விலை எகிறியது.
+### Goa prices rose in Nuwara Eliya.
 
 *2024-02-17 11:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-கோவா-விலை-எகிறியது/175-333338) · `ta`
 
-கடந்த ஒரு மாதத்திற்கு முன் 2,000 ரூபாவுக்கு அதிகமாக விலை உச்சம் கொண்டிருந்த கரட் இன்று அருவடை அதிகரிக்கப்பட்டுள்ள நிலையில் கிலோ ஒன்றுக்கான விற்பனை விலை 360 ரூபாவாக விலை வீழ்ச்சி அடைந்துள்ளது.
+The price of a kilogram has fallen to 360 rupees as the carrot has increased today, with a peak of more than 2,000 rupees a month ago.
 
-அதேநேரத்தில் முட்டை கோஸ் என அழைக்கப்படும் பச்சை கோவாவின் விலை கரட்டின் விலையை விட அதிகரித்து வருகின்றதை அவதானிக்க கூடியதாக இருக்கின்றது.
+At the same time, the price of green Goa, also known as Egg Koss, is increasingly increasing than the price of bear.
 
-அத்துடன் மேல் நாட்டு சமையலுக்கு பாதிக்கப்படும் சிவப்பு கோவாவின் விலை உச்சம் கண்டுள்ளமையும் குறிப்பிடத்தக்கது.
+It is also worth noting that the price of red Goa, which is affected by the upper country cooking, is at its peak.
 
-அந்த வகையில் நுவரெலியாவிலிருந்து வெளி மாவட்ட பொது சந்தைகளுக்கு விற்பனைக்கென தினமும் அதிகமாக  கொண்டு செல்லப்படும் மரக்கறிகளின் மொத்த விலையினை நுவரெலியா பொருளாதார மத்திய நிலைய காரியாலயம் வெளியிட்டுள்ளது.
+Accordingly, the Nuwara Eliya Economic Center Office has released the total price of vegetables that are being transported daily to the public markets from Nuwara Eliya.
 
 ◼️
 
 [Data](articles/b156e01f.json)
+
+[Extended Data](ext_articles/b156e01f.ext.json)
 
 ---
 
@@ -234,23 +248,29 @@ Former Minister Gamini Jayawickrama Perera has passed away this morning at the a
 
 ---
 
-### නැගෙනහිර පළාත් සභා හිටපු සභාපතිනියෙන් මෝටර් රථයේ ගැටී පුද්ගලයෙක් මරුට
+### Man dies after being hit by former chairperson of Eastern Provincial Councils
 
 *2024-02-17 10:59:25* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-පළාත්-සභා-හිටපු-සභාපතිනියෙන්-මෝටර්-රථයේ-ගැටී-පුද්ගලයෙක්-මරුට/11-408133) · `si`
 
-නැගෙනහිර  පළාත් සභාවේ හිටපු සභාපතිනිය වන ආරියලතා ගලප්පත්ති මහත්මිය ගමන් කරමින් තිබු සොඛෝප බෝගී  මෝටර් රථයකට යටමින් 17 දින පෙරවරුවේ දඹුල්ල පැල්වෙහෙර  ප්‍රදේශයේදී මගියෙකු මියගිය බව  දඹුල්ල පොලිසිය කියයි.
+A passenger has died in the Dambulla area in Dambulla, Dambulla area, Dambulla area in Dambulla.
 
-මෙසේ මිය ගොස් ඇත්තේ නාවුල පෙනලබොඩ ප්‍රදේශයේ පදිංචි එම් .ජී.එච්.එම්  සමන් ප්‍රියන්ත හේරත් වයස අවුරුදු හතලිහක පුද්ගලයෙක් බව ට හඳුනාගෙන තිබේ.
+The deceased has been identified as MGGHM Saman Priyantha Herath aged fourth.
 
-නැනහිර පළාතේ හිටපු සභාපති ගලප්පති   මහත්මිය ත්‍රිකුණාමලයේ සිට කොළඹ ප්‍රදේශයේ අවමගුල් උත්සවයකට සහභාගි වීම සඳහා ගමන් කරමින් සිටියදී දඹුල්ල පැල්වෙහෙර ප්‍රදේශයේ මාර්ගය අසල රැඳී සිටි  මගියෙකුට මේ ආකාරයෙන් අනතුරට පත්ව ඇතැයි පරීක්ෂණ පවත්වන පොලිසිය කියයි.
+The Eastern Province, Chairman Galappathi was inaugurated in Trincomalee to attend a funeral in Trincomalee to attend the road in Pelvehera area.
 
-සුඛෝප බෝගී   මෝටර් රථය තමන්ගේ ධාවන පැත්තෙන් ඉවත්ව ප්‍රතිවිරුද්ධ දිසාවෙන් ධාවනය වී ඇති බව දඹුල්ල පොලිසියේ රථවාහන අංශයේ   මූලික පරීක්ෂණවලදී අනාවරණය වූ බව රථවාහන පොලිසිය කියයි.
+The traffic inquiries of the Dambulla Police said that the luxury car has left the contradiction in the opposite direction.
 
-අනතුරින්  මියගිය පුද්ගලයා පැල්වෙහෙර ප්‍රදේශයේ ඉදිකිරිමින්  හෝටලයක  සේවය කරන අයෙකු බවත් ඔහු රාත්‍රී වැඩමුරේ අවසන් කොට නැවත නිවස බලා ගමන් කිරීමට මාර්ගයට පැමිණ ඇති බව පොලිසිය සඳහන් කළේය.
+The victim was a hotel in the night in the night, police said.
+
+The injured person was rushed to the Dambulla Base Hospital, a hospital spokesman said.
+
+The driver was arrested and the driver was arrested and the driver was arrested in another vehicle.
 
 ...
 
 [Data](articles/151f041a.json)
+
+[Extended Data](ext_articles/151f041a.ext.json)
 
 ---
 
@@ -825,6 +845,8 @@ The bond portfolio was up 23 percent to 549 billion rupees during the year to De
 ...
 
 [Data](articles/1eaca4fd.json)
+
+[Extended Data](ext_articles/1eaca4fd.ext.json)
 
 ---
 

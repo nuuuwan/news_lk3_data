@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 21:17:28**
+As of **2024-02-17 21:33:01**
 
 ## Newspaper Stats
 
-*Scraped **7,699** Articles*
+*Scraped **7,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,74 +19,100 @@ adalk | 649
 tamilmirrorlk | 935
 adaderanalk | 946
 virakesarilk | 1,015
-adaderanasinhalalk | 1,108
+adaderanasinhalalk | 1,109
 dailymirrorlk | 1,138
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,696 (100.0%) of 7,699 articles have been extended.
+7,699 (100.0%) of 7,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### රට වැටුණු හේතුව මුදල් ලේකම් කියයි
+### ජනාධිපතිවරණය ට දිනයක් ඉල්ලා සෙනගාලය යුද පිටියක් වෙයි
+
+*2024-02-17 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193519) · `si`
+
+ජනාධිපතිවරණය සඳහා ඉක්මණින් දිනයක් ප්‍රකාශයට පත්කරන ලෙස බලකරමින් සෙනගාලයේ උද්ඝෝෂණ ආරම්භ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එහෙත් එය කල් දැමීමට එරට ජනාධිපතිවරයා ගත් උත්සාහය එරට ශ්‍රේෂ්ඨාධිකරණය විසින් අත්හිටුවීය.
+
+◼️
+
+[Data](articles/b4ee492d.json)
+
+---
+
+### Finance Secretary says the country fell
 
 *2024-02-17 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193518) · `si`
 
-වැරදි තොරතුරුදී රටේ ආර්ථික අර්බුදය ඇති කළ ඇතැම් පිරිස් ඇත්ත හෙළිකිරීමේදී නිලධාරීන් විවේචනය කිරීම අසාධාරණ බව මුදල් අමාත්‍යාංශ ලේකම් මහින්ද සිරිවර්ධන මහතා පවසයි.
+The Secretary of the Ministry of Finance Mahinda Siriwardena says that the misconception that the economic crisis of the country has been unfair to criticize the reality of the country.
 
-මෙරට වෙළෙඳ මූල්‍යකරණයට ජාත්‍යන්තර ඩිජිටල් යාන්ත්‍රණයන් හඳුන්වාදීම සඳහා ජාත්‍යන්තර වාණිජ මණ්ඩලයේ ශ්‍රී ලංකා කාර්යාලය සංවිධානය කළ උත්සවයක් මුදල් අමාත්‍යාංශ ලේකම් මහින්ද සිරිවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වුණි.
+The Secretary of the International Chamber of Commerce was organized by the Secretary of the International Chamber of Commerce to introduce international digital mechanisms to the country's commercial financing.
 
-"රට වැටුනේ මේ තොරුතුර නියමාකාරයෙන් හිටපු ජනපතිට කියපු නැති නිසා. කිව්වා නම් මම හිතනවා.. මේ රට මේ තත්ත්වයට වැටෙන්නේ නෑ කියලා. නියමිත කාලයේදී දත්ත භාවිත කරලා නිවැරදි තීරණ ගත්තා නම් අද අපිට මෙවැනි අර්බුදයක් නැහැ."
+"Since the country fell the country, because the former president had not told the president. I think if he said.. That this country does not fall into this situation. If you have made the right decisions using data, we have no such crisis today. "
 
 ◼️
 
 [Data](articles/2520a8eb.json)
 
+[Extended Data](ext_articles/2520a8eb.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා ඉනිම ලකුණු 160කට සීමා වෙයි
+### Sri Lankan innings limited to 160 runs
 
 *2024-02-17 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193517) · `si`
 
-සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පළමු විස්සයි විස්ස ක්‍රිකට් තරගය දැන් පැවැත්වෙයි.
+The first Twenty Twenty Twenty Task squad between the Afghan group and Sri Lanka team is now.
 
-ඇෆ්ගනිස්තානයේ ආරාධනයෙන් පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 19ක් අවසානයේ සියලුදෙනා දැවී ලබාගත්තේ ලකුණු 160ක් පමණි.
+Batting first Sri Lanka scored only 160 runs in 19 overs.
 
-ඒ අනුව තරගය ජයගැනීම සඳහා ඇෆ්ගනිස්තානයට හිමිවී ඇති ඉලක්කය ලකුණු 161කි.
+Accordingly, Afghanistan has the target of 161 runs to win the match.
 
-ශ්‍රී ලංකා ලකුණු පුවරුව ඔසවා තැබූ වනිඳු හසරංග පන්දු 32ක් තුළ ලකුණු 67ක් ලබා ගත්තේය.
+Wanindu Hasarangan scored 67 off 32 balls.
 
 ◼️
 
 [Data](articles/52118b86.json)
 
+[Extended Data](ext_articles/52118b86.ext.json)
+
 ---
 
-### බාසික් ට හිතවත් හිටපු ප්‍රා ස මන්ත්‍රී කොටුවෙයි
+### Former companion in BACI member
 
 *2024-02-17 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193516) · `si`
 
-මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වන 'ශිරාන් බාසික්ගේ' සමීපතමෙයක් හෙරොයින් සමග විශේෂ කාර්ය බළකායේ බුද්ධි කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන තිබේ.
+The Special Task Force of the Special Task Force of the Special Task Force has been arrested with heroin, a large scale drug dealer.
 
-ඒ් අවස්ථාවේදී ශිරාන් බාසික්ගේ පුත්‍රයා වන නදීන් බාසික්ද සිට ඇති අතර ඔහු පළාගොස් ඇති බව පොලීසිය පැවසීය.
+The son of Shiran Barque's son Nadeen Bazik was also fled, police said.
 
-කොටිකාවත්ත ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රීවරයෙක් වන සැකකරු ඊයේ (16) පස්වරුවේ අත්අඩංගුවට ගනු ලැබුවේ වැල්ලවත්තේ පිහිටි අධි සුඛෝපභෝගී නිවාස සංකීර්ණ පරිශ්‍රයකදීය.
+Former former member of the Kotikawatta Pradeshiya Sabha, the suspect was arrested yesterday (16) at a high luxury housing complex in Wellawatte.
 
-සැකකරු පැමිණි මෝටර් රථය පරීක්ෂා කිරීමට යෑමේදී විශේෂ කාර්ය බළකා නිලධාරියෙකුද අනතුරට ලක්කරමින් පළායෑමට උත්සාහ කර තිබේ.
+A STF officer also attempted to bear the vehicle when the suspect was investigated.
 
-පොලීසිය සඳහන් කළේ එම අවස්ථාවේදී සැකකරු සමග ශිරන් බාසික්ගේ පුත්‍රයා වන නදීන් බාසික් නැමැත්තාද සිට ඇති බවය.
+Police said that Nadeen Barcik's son Nadeen Barcik, the son of Shiran Barcik.
 
-පසුව ඔවුන් මෝටර් රථයෙන් බැස දිවයන අයුරු අසල වූ සීසීටීවී කැමරාවක සටහන්වී තිබුණි.
+Later, they were noted in a CCTV camera near the arrangement.
 
-එම අවස්ථාවේදී ඔවුන් පසුපස හඹායන නිලධාරීන් එක් සැකකරුවකු අත්අඩංගුවට ගත්තද ඒම රූපරාමුවල සිටින ශිරාන් බාසික් නැමැත්තාගේ පුත්‍රයා පළාගොස් තිබේ.
+Although the officers pursuing their officers arrested at the time, the son of Shiran Barcik has fled the storm.
+
+The suspect had found three types of luxury vehicles and found 19 grams and foreign currencies in the possession of the suspect.
+
+Police said they were staying at a house at the relevant super housing on Rs.
+
+The police had also found several secret documents in the house.
 
 ...
 
 [Data](articles/a5f28184.json)
+
+[Extended Data](ext_articles/a5f28184.ext.json)
 
 ---
 
@@ -2055,23 +2081,5 @@ Action was taken immediately against the vessel and an onboard inspection was co
 [Data](articles/aad6fb9a.json)
 
 [Extended Data](ext_articles/aad6fb9a.ext.json)
-
----
-
-### Sri Lanka busts oil spill using satellite surveillance for first time
-
-*2024-02-17 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-busts-oil-spill-using-satellite-surveillance-for-first-time/155-277225) · `en`
-
-Colombo, Feb 17 (Daily Mirror) - Following the initiative with the French government to detect oil spills in Sri Lankan waters using satellite surveillance, Sri Lanka has detected the first such incident and fined Rs. 15 million to the responsible company, the Marine Environment Protection Authority (MEPA) said.
-
-According to the MEPA, on February 5, the CLS analysts (The French Company) reported the detection of significant oil pollution off their coasts, by an illegal discharge of the Global Crest, a 120-metre tanker cruising from Malaysia to the UAE.
-
-Action was taken immediately against the vessel and an onboard inspection was conducted, which revealed clear evidence of the illegal discharge. The ship was detained until the owner admitted the offence and acknowledged the maximum fine of Rs. 15 million pursuant to national regulations.
-
-...
-
-[Data](articles/e85fd4a4.json)
-
-[Extended Data](ext_articles/e85fd4a4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 14:02:35**
+As of **2024-02-17 14:17:16**
 
 ## Newspaper Stats
 
-*Scraped **7,657** Articles*
+*Scraped **7,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 399
 dailyftlk | 415
 adalk | 647
 tamilmirrorlk | 931
-adaderanalk | 938
+adaderanalk | 939
 virakesarilk | 1,009
 adaderanasinhalalk | 1,095
 dailymirrorlk | 1,131
@@ -26,11 +26,31 @@ dailymirrorlk | 1,131
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,656 (100.0%) of 7,657 articles have been extended.
+7,657 (100.0%) of 7,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### NHSL junior staff to continue protests until Dr. Bellana is removed
+
+*2024-02-17 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97347/nhsl-junior-staff-to-continue-protests-until-dr-bellana-is-removed) · `en`
+
+The junior staff of the Colombo National Hospital stress that they will continue the protests until the hospital’s Deputy Director Dr. Rukshan Bellana is removed from his position.
+
+They resorted to this move against the criticisms made by Dr. Bellana regarding the junior staffers’ involvement in the recent strike launched by health trade unions over disparities in allowances.
+
+On Friday (Feb. 16), Dr. Bellana was forcibly held inside his office by the junior staff of the hospital. Later, a tense situation arose in front of the hospital as the staff members commenced a demonstration.
+
+Thus, police anti-riot squads were also deployed to beef up the security of the hospital premises.
+
+A collective of 72 health sector trade unions recently carried out an island-wide strike action over disparities in allowances, which was heavily criticized by Dr. Bellana.
+
+...
+
+[Data](articles/f03729fc.json)
+
+---
 
 ### Policy framework sent to Parliament for transformational change in education sector: Minister
 
@@ -45,6 +65,8 @@ The Minister further stated that if any change is made, the structure should be 
 ...
 
 [Data](articles/2f0ce35b.json)
+
+[Extended Data](ext_articles/2f0ce35b.ext.json)
 
 ---
 
@@ -2045,25 +2067,5 @@ It is noteworthy that a team of hospitals staged a protest at 1.15 pm on Friday 
 [Data](articles/f9bfcc9b.json)
 
 [Extended Data](ext_articles/f9bfcc9b.ext.json)
-
----
-
-### 11 historical shrines including the seawater temple
-
-*2024-02-16 21:58:55* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදු-මහා-විහාරය-ඇතුළු-ඓතිහාසික-සිද්ධස්ථාන-11ක්-පූජා-භූමි-ලෙස-නම්-කෙරේ/11-408131) · `si`
-
-President is committed to the Constitution to defend the Buddha Sasana and safeguard the Buddha - Secretary to the President.
-
-The National Physical Planning Department declared 11 temples, an archaeological, historic and sacred value, announced by the National Physical Planning Department.
-
-The president was held at the Presidential Secretariat yesterday under the patronage of the Secretary to the Presidential Secretariat yesterday (15).
-
-Mawaduwa Poya Maha Viharaya in the Ampara District in the Ampara District in the Ampara District in the Ampara District in the Ampara District in the Ampara District in the Ampara District Division of the Ampara District in the Ampara District in the Ampara District in the Ampara District.Under the Ugamaha Viharaya belonging to the Secretariat Division is Sri Saddharmar enabled in the Kuchchaveli Divisional Secretariat Division of Trincomalee District,
-
-...
-
-[Data](articles/8fb96126.json)
-
-[Extended Data](ext_articles/8fb96126.ext.json)
 
 ---

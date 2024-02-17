@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 08:33:32**
+As of **2024-02-17 08:50:39**
 
 ## Newspaper Stats
 
-*Scraped **7,604** Articles*
+*Scraped **7,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 394
 economynextcom | 398
 dailyftlk | 415
 adalk | 645
-tamilmirrorlk | 923
+tamilmirrorlk | 924
 adaderanalk | 929
 virakesarilk | 1,000
 adaderanasinhalalk | 1,083
@@ -26,7 +26,7 @@ dailymirrorlk | 1,120
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,597 (99.9%) of 7,604 articles have been extended.
+7,605 (100.0%) of 7,605 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,85 +48,101 @@ Furthermore, amidst the ongoing hostilities in Gaza, the President called for an
 
 [Data](articles/afd0517f.json)
 
+[Extended Data](ext_articles/afd0517f.ext.json)
+
 ---
 
-### ශිරාන් බාෂික්ගේ ගෝලයෙකු අත්අඩංගුවට
+### Shiran Bashik's disciple arrested
 
 *2024-02-17 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193490) · `si`
 
-මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙස සැලකෙන ශිරාන් බාෂික් නැමැත්තාගේ ගෝලයකු හෙරොයින් සමඟ පොලිස් විශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගෙන ඇත.
+The STF has been arrested by the STF with a disciple of Shiran Bashik, who is considered a large scale drug dealer.
 
-ඊයේ (16) වැල්ලවත්ත, හැව්ලොක්සිටි නිවාස සංකීර්ණයේ රථ ගාලේ  සිදු කළ වැටලීමක දී මෙම සැකකරු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+The suspect was arrested in a raid on a raid on the car parking on the Havelockum Housing Complex yesterday (16).
 
-වැල්ලවත්ත ප්‍රදේශයේ පිහිටි හැව්ලොක් සිටි නිවාස සංකීර්ණයේ ඉදිරිපිට මාර්ගයේ රාජකාරියේ නියුතු නිලධාරියෙකු විසින් මාර්ගයේ ගමන් ගත් මෝටර් රථයක් නැවැත්වීමට සංඥා කර ඇති අතර, එහි දී එම මෝටර් රථය එම නිලධාරියාව අනතුරට ලක් කර හැව්ලොක් සිටි නිවාස සංකීර්ණයේ රථ වාහන අංගනය දෙසට නොනවත්වා ධාවනය කර තිබේ.
+The vehicle was signaled to stop a car traveling along the road in Wellawatte and the vehicle was raised by the vehicle and continued to run the car to the vehicle yard of Havelock.
 
-පසු ව එහි සිටි පුද්ගලයින් දෙදෙනෙකු පළා යාමට තැත් කර ඇති අතර, එහි දී එක් සැකකරුවෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+Two persons were already attempted to flee and one suspect was arrested by the police.
 
-එලෙස අත්අඩංගුවට ගෙන ඇත්තේ කුඩාබුද්ගමුව - අංගොඩ ප්‍රදේශයේ පදිංචි 41 හැවිරිදි පුද්ගලයෙකි.
+The victim is a 41 year old resident of Angoda.
 
-ඔහු සතු ව තිබී මෝටර් රථ 03ක යතුරු හමු ව ඇති අතර, පසුව එම මෝටර් රථ තුන පරීක්ෂා කිරීමේ දී හෙරොයින් ග්‍රෑම් 19ක් ජංගම දුරකථනයක්, ලැප්ටොප් පරිගණකයක්, රුපියල් 29,000ක්, ඩිරාම් 535ක් සහ ඩොලර් 161ක් සොයාගෙන ඇත.
+The two cars have been recovered and the three cars have been recovered and the three cars have been recovered.
 
-...
+A traveling bag with a driver's license and a driver's license issued by the Bashik was also found in the name of Bashik.
+
+The Police Narcotics has been handed over to the Police Narcotics for further investigations.
+
+The suspect was revealed that the suspect had fled the sons of Shiran Basik, Nedring Bacan, a son of Shiran Basik.
+
+◼️
 
 [Data](articles/ff1da59a.json)
 
+[Extended Data](ext_articles/ff1da59a.ext.json)
+
 ---
 
-### කොළඹ ප්‍රදේශ කිහිපයක ජලය කැපෙයි
+### Water cut in several parts of Colombo
 
 *2024-02-17 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193489) · `si`
 
-ජල සැපයුම් පද්ධතියේ අත්‍යවශ්‍ය වැඩි දියුණු කිරීමේ කටයුත්තක් හේතුවෙන් කොළඹ ප්‍රදේශ කිහිපයකට අද (17) පැය 16ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජලසම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+The National Water Supply and Drainage Board (NBRO) says that a water cut will be imposed due to the essential improvement of the water supply system.
 
-ඒ අනුව අද පස්වරු 05 සිට ඉරිදා පෙරවරු 09 දක්වා කොළඹ 11, 12, 13, 14 සහ 15 යන ප්‍රදේශවලට ජල සැපයුම අත්හිටුවීමට නියමිත බව එම මණ්ඩලය සඳහන් කරයි.
+Accordingly, the water supply is due to be imposed from 5, 12, 13, 14 and 15 to 09 am today.
 
-අඹතලේ ජල සැපයුම වැඩිදියුණු කිරිමේ බලශක්ති සංරක්ෂණ ව්‍යාපෘතිය මගින් සිදු කරන අත්‍යවශ්‍ය වැඩිදියුණු කිරිමේ කටයුත්තක් හේතුවෙන් මෙම ජල කප්පාදුව සිදු කරන බව ජාතික ජලසම්පාදන හා ජලාපවහන මණ්ඩලය නිවේදනය කර ඇත.
+The National Water Supply and Drainage Board announced that the water cut will be carried out due to the essential improvement activities carried out by the Enhancement of the Ambatale water supply.
 
 ◼️
 
 [Data](articles/cb32e039.json)
 
+[Extended Data](ext_articles/cb32e039.ext.json)
+
 ---
 
-### අධ්‍යාපනයේ ගැටලු ගැන විශේෂ සාකච්ඡාවක්
+### Special discussion on education issues
 
 *2024-02-17 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193488) · `si`
 
-අධ්‍යාපන ක්ෂේත්‍රයේ පවත්නා ගැටලු සහ අභියෝග මෙන්ම ඉදිරි අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් වූ විශේෂ සාකච්ඡාවක් ඊයේ (16) පවත්වා තිබේ.
+A special discussion on the problems and challenges in the field of education and a special discussion on future education reforms was held yesterday.
 
-අධ්‍යාපන අමාත්‍යවරයා සහ සියලු‍ ආණ්ඩුකාරවරුන්, පළාත් අධ්‍යාපන බලධාරින් සහ වෘත්තීය සමිති නියෝජිතයන්ගේ සහභාගිත්වයෙන් මෙම සාකච්ඡාව පවත්වා ඇති බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The discussion has been held with the participation of the Minister of Education and all Governors, Provincial Education Authorities and Trade Union representatives.
 
-පළාත් නවය ඒකාබද්ධ කරමින් අධ්‍යාපන අමාත්‍යාංශය තුළ ඒ සඳහා වෙනම ඒකකයක් ස්ථාපනය කිරීමට මෙහි දී යෝජනා වී තිබේ.
+The Ministry of Education has to establish a separate unit within the Ministry of Education, integrating the nine provinces.
 
-එමෙන්ම පළාත් බලධාරින් සහ රේඛීය අමාත්‍යාංශ නිලධාරින් අතර පවතින බෙදීම් හේතුවෙන් මතු ව ඇති ගැටලු සම්බන්ධයෙන් වෘත්තීය සමිති මෙහි දී කරුණු දක්වා ඇති බව සඳහන් ය.
+The unions have been shown in this regard due to the divisions of the provincial authorities and line ministries.
 
-සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ මධ්‍යම පළාත් ආණ්ඩුකාර ලලිත් යු.ගමගේ මහතා පැවසුවේ, වෘත්තීය සමිති සිය අයිතිවාසිකම් දිනාගැනීම සඳහා පමණක් කතා කිරිම නුසුදුසු බවයි.
+Governor of the Central Province Lalith Yuga, who spoke to the media after the discussion, said that the trade unions were unworthy of speaking only to win its rights.
 
-ගැටලු සාකච්ඡා කිරිම පමණක් ප්‍රමාණවත් නොවන බව ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා එහි දී සඳහන් කර ඇත.
+The Chief Secretary of the Ceylon Teachers Union Joseph Stalin has stated that the discussion is not sufficient.
 
 ◼️
 
 [Data](articles/a18aa4fa.json)
 
+[Extended Data](ext_articles/a18aa4fa.ext.json)
+
 ---
 
-### පොදුවැසිකිළි ගාස්තු ගැන දැනුම්දීමක්
+### Notice of the garment fees
 
 *2024-02-17 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193487) · `si`
 
-කොළඹ බැස්ටියන් මාවත පෞද්ගලික බස් නැවතුම්පොළේ වැසිකිළි භාවිත කිරීමේ දී අය කරනු ලබන ගාස්තු යළි සංශෝධනය කර තිබේ.
+The charges charged in the Bastian Mawatha toilets at the Bastian Mawatha in Colombo has been revised.
 
-එම වැසිකිලි භාවිත කිරිමේ දී අය කළ රුපියල් 20ක් ව පැවති ගාස්තුව රුපියල් 50ක් දක්වා ඉහළ දැමීමට බලධාරින් පියවර ගෙන ඇති බවට ජනතාව චෝදනා ක‍රයි.
+People accused the authorities to increase the fee for Rs.
 
-මේ සම්බන්ධයෙන් අද දෙරණ කළ විමසීමක දී ජාතික ගමනාගමන කොමිශන් සභාවේ සභාපති ශෂී වෙල්ගම මහතා පැවසුවේ, වැසිකිළි ගාස්තු ඉහළ නැංවීම සඳහා කිසිදු තීරණයක් ගෙන නොමැති බවයි.
+Attorname, President Shashi Welgama, Chairman of the National Transport Commission Shashhi Welgama said no decision has been taken to increase the toilet fees.
 
-ඒ අනුව ඉහළ නැංවු ගාස්තු පෙර පැවැති මිල ගණන් දක්වා යළි සංශෝධනය කරන ලෙස ජාතික ගමනාගමන කොමිශන් සභාව විසින් එම වැසිකිළි නඩත්තු කරන පාර්ශව වෙත දැනුම් දීමක් සිදු කර තිබේ.
+Accordingly, the National Transport Commission (NTC) has notified the maintenance of the toilets to revise the higher rates.
 
-ඒ අනුව ඊයේ පස්වරුවේ සිට පෙර පැවැති රුපියල් 20 ගාස්තු යටතේ ආදාළ අය කිරිම් සිදු කරන බව ජාතික ගමනාගමන කොමිශන් සභාව සඳහන් කරයි.
+Accordingly, the National Transport Commission (NTC) statement stated that the projects were carried out at Rs.
 
 ◼️
 
 [Data](articles/ce80877c.json)
+
+[Extended Data](ext_articles/ce80877c.ext.json)
 
 ---
 
@@ -216,6 +232,8 @@ Action was taken immediately against the vessel and an onboard inspection was co
 
 [Data](articles/aad6fb9a.json)
 
+[Extended Data](ext_articles/aad6fb9a.ext.json)
+
 ---
 
 ### Sri Lanka unchanged for Afghan T20I opener
@@ -235,6 +253,8 @@ Despite Binura Fernando being included in the Sri Lanka T20I Squad in place of D
 ...
 
 [Data](articles/8293a12c.json)
+
+[Extended Data](ext_articles/8293a12c.ext.json)
 
 ---
 
@@ -519,6 +539,26 @@ A few days later former SLFP MP Dayasritha Tissera also joined the SJB. Tissera 
 [Data](articles/359a0f02.json)
 
 [Extended Data](ext_articles/359a0f02.ext.json)
+
+---
+
+### Arrested two persons involved in theft
+
+*2024-02-17 02:35:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டில்-ஈடுபட்ட-இருவர்-கைது/175-333335) · `ta`
+
+Poovarasankulam police said yesterday that two persons have been arrested in connection with more than 30 thefts in various places in Vavuniya.
+
+Police said the two were arrested while carrying out investigations on a complaint received in connection with the theft.
+
+Police said that during the investigation into the suspects, many items were recovered and that they were associated with more than 30 thefts.
+
+In more than 30 places in the Vavuniya district, the two have been involved in the stolen incidents of stolen materials, such as pipelines, pipe wells, cylinders, fans and cunnels, and the stolen large quantities have been recovered from them.. (A)
+
+◼️
+
+[Data](articles/b6b5770d.json)
+
+[Extended Data](ext_articles/b6b5770d.ext.json)
 
 ---
 
@@ -2059,31 +2099,5 @@ The proposal to condemn the late Hon. Sanath Nishantha, the late Hon.
 [Data](articles/819a4560.json)
 
 [Extended Data](ext_articles/819a4560.ext.json)
-
----
-
-### Sri Lanka stocks close up, NDB trade pushes turnover past 1bn
-
-*2024-02-16 15:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-ndb-trade-pushes-turnover-past-1bn-151201/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 17.65 points, or 0.17 percent at 10,586 while the S&P SL20 Index closed up at 3,048 points, up 0.44 percent, or 13.28 points.
-
-Turnover was at 1.3 billion. A crossing on National Development Bank Plc contributed 640mn to the day’s turnover, and the share closed up at 65.10.
-
-The market was up mostly because of trades in the Banks sector (769mn), a market participant said. “This is dividend season for the banks. So there is some interest there.”
-
-“Also with the rates coming down, interest in the equity market is returning.”
-
-The bigger banks all closed up: Sampath Bank Plc (73.20), Commercial Bank of Ceylon Plc (89.50), DFCC Bank Plc (78.80), and Hatton National Bank Plc (up at 163.00).
-
-Other sectors that attracted investor interest were Capital Goods (110mn), and Food, Beverage and Tobacco (108mn).
-
-...
-
-[Data](articles/1198964b.json)
-
-[Extended Data](ext_articles/1198964b.ext.json)
 
 ---

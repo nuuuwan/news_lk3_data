@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 11:33:00**
+As of **2024-02-17 11:51:44**
 
 ## Newspaper Stats
 
-*Scraped **7,634** Articles*
+*Scraped **7,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,94 @@ economynextcom | 398
 dailyftlk | 415
 adalk | 645
 tamilmirrorlk | 926
-adaderanalk | 935
+adaderanalk | 936
 virakesarilk | 1,005
 adaderanasinhalalk | 1,092
-dailymirrorlk | 1,127
+dailymirrorlk | 1,129
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,630 (99.9%) of 7,634 articles have been extended.
+7,637 (100.0%) of 7,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### கடல் அலையில் அள்ளுண்டு செல்லப்பட்ட மாணவனின் சடலம் மீட்பு
+### Three Indian fishermen arrested in Sri Lanka sentenced to prison, 20 others released
 
-*2024-02-17 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176599) · `ta`
+*2024-02-17 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97344/three-indian-fishermen-arrested-in-sri-lanka-sentenced-to-prison-20-others-released) · `en`
 
-அம்பாறை மாவட்டம் நிந்தவூர் பொலிஸ் பிரிவிற்குட்பட்ட ஓலுவில் நிந்தவூரில் கடல் அலையில் அள்ளுண்டு செல்லப்பட்டு காணாமல் போன மாணவர்களில் ஒருவரின் சடலம் கரையொதுங்கியுள்ளார்.
+In a major relief to the fishing community in Tamil Nadu, 20 fishermen from Rameswaram were released, while two boatmen and a fisherman were directed to undergo a jail term of six months and one year respectively, for repeating the offence of poaching, a court in Sri Lanka has ruled.
 
-நேற்று வெள்ளிக்கிழமை (16) கடலோரங்களில் விளையாட்டில் ஈடுபட்ட 8 மாணவர்களில் இருவர் கடல் அலையில் அள்ளுண்டு செல்லப்பட்டனர்.
+According to fishermen leader Jesu Raja, 42 fishermen were arrested, in two incidents: one of 23 arrests and the second of 19 arrests, on charges of poaching by the Sri Lankan Navy earlier this month, while they were engaged in fishing along the Palk Bay. Two boats were also impounded.
 
-இந்நிலையில், கடல் அலையில் அள்ளுண்டு செல்லப்பட்ட சூர்தின் முஹம்மட் முன்சிப் என்ற மாணவனின் உடல் இன்று  சனிக்கிழமை (17) காலை  ஒலுவில் பகுதியில்  கரையோதுங்கியுள்ளது. மற்றுமொரு மாணவன் தொடர்பான தேடுதல் நடவடிக்கை மேற்கொள்ளப்பட்டு வருகின்றது.
-
-சம்பவதினம் மாளிகைக்காடு - சாய்ந்தமருது பகுதியைச் சேர்ந்த இரண்டு மாணவர்களே பிரதேச கடலில் புகைப்படம் எடுத்து விளையாடிக் கொண்டிருந்தபோது கடலில் அடித்துச் செல்லப்பட்டு காணாமல் சென்றிருந்தமை குறிப்பிடத்தக்கது.
+After the fishermen staged agitation and stayed away from venturing into the sea for a day, political parties in Tamil Nadu condemned the arrest and urged the Union government to intervene in the issue immediately. T.N. CM M.K. Stalin also wrote to Prime Minister Narendra Modi requesting him to make diplomatic efforts to secure the release of the Tamil Nadu fishermen.
 
 ...
 
+[Data](articles/088f64a2.json)
+
+[Extended Data](ext_articles/088f64a2.ext.json)
+
+---
+
+### The body of a student who was rushed in the sea wave
+
+*2024-02-17 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176599) · `ta`
+
+The body of one of the students who disappeared in the sea wave in Nintavur, which belongs to the Nintavur police division of the Ampara district.
+
+Two of the 8 students who were involved in the coasts on Friday (16) were trapped in a sea wave.
+
+In this case, the body of a student named Surd's Muhammad Muzip, who was rushed to the sea wave on Saturday morning (17) morning. A search operation is being carried out on another student.
+
+It is noteworthy that two students from the Malikaikkadu - Sainthamaruthu area were photographed in the area while playing in the sea.
+
+Preliminary inquiries revealed that two students between the ages of 13 and 15 were completing the prayer and playing a photo of the Nintavur-Oluvil border in the bicycle and playing photos.
+
+In addition, Nintavur police are conducting further investigations to six other students.
+
+◼️
+
 [Data](articles/6f289030.json)
+
+[Extended Data](ext_articles/6f289030.ext.json)
+
+---
+
+### Gamini Jayawickrama Perera passes away
+
+*2024-02-17 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gamini-Jayawickrama-Perera-passes-away/108-277237) · `en`
+
+Former Minister Gamini Jayawickrama Perera has passed away this morning at the age of 83.
+
+◼️
+
+[Data](articles/d2546ea3.json)
+
+[Extended Data](ext_articles/d2546ea3.ext.json)
+
+---
+
+### Income of the Dehiwala Zoo on the rise
+
+*2024-02-17 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Income-of-the-Dehiwala-Zoo-on-the-rise/108-277229) · `en`
+
+Dehiwela, Feb 17 (Daily Mirror) - The income of the Dehiwala Zoo has been on the increase, and it has received an income of Rs. 52 million for the first 40 days of the year from 16,000 visitors.
+
+Director of Operations H.A. Anoma Priyadarshani said the heavy influx of visitors was mainly due to the innovative programmes implemented by the department to attract visitors and the enhanced facilities available to them.
+
+The director said the zoo is open to the public from 8.30 am to 6 pm daily and that they are allowed to watch the activities of animals and to feed the birds, fish, elephants and giraffes only with food supplied by the zoo and under the supervision of employees.
+
+This offers visitors the opportunity to show their kindness to animals and pet them.
+
+◼️
+
+[Data](articles/6e060bdf.json)
+
+[Extended Data](ext_articles/6e060bdf.ext.json)
 
 ---
 
@@ -65,6 +123,8 @@ He also said he was “contemplating” additional steps to punish Russia in the
 ...
 
 [Data](articles/d2dd8597.json)
+
+[Extended Data](ext_articles/d2dd8597.ext.json)
 
 ---
 
@@ -210,6 +270,8 @@ The former minister’s passing comes just 7 days after President Ranil Wickreme
 
 [Data](articles/b7ec4042.json)
 
+[Extended Data](ext_articles/b7ec4042.ext.json)
+
 ---
 
 ### Ilmanite cannot be allowed to start the sheep from the start of the sheep;Charles MP
@@ -303,6 +365,8 @@ By hosting the 37th APRC, Sri Lanka demonstrates the country’s dedication to t
 ...
 
 [Data](articles/b4d7cd87.json)
+
+[Extended Data](ext_articles/b4d7cd87.ext.json)
 
 ---
 
@@ -402,7 +466,7 @@ In Jordan, Under Secretary Allen engaged with alumni of US public diplomacy prog
 
 The U.S. Under Secretary of State for Public Diplomacy, Elizabeth M. Allen is scheduled to travel to Sri Lanka, India and Jordan this month.
 
-In a statement, the US State Department said these visits underscore the country’s unwavering commitment to reinforcing and expanding partnerships and alliances.
+In a statement, the State Department said these visits underscore the United States’ unwavering commitment to reinforcing and expanding partnerships and alliances.
 
 “The trip highlights the core of U.S. foreign policy and public diplomacy initiatives: fostering freedom of expression, economic empowerment, and global collaboration.”
 
@@ -2007,59 +2071,5 @@ Tensions escalated outside the National Hospital in Colombo today as minor staff
 [Data](articles/c613a9f4.json)
 
 [Extended Data](ext_articles/c613a9f4.ext.json)
-
----
-
-### Sri Lanka needs more support from Washington, former president says
-
-*2024-02-16 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97332/sri-lanka-needs-more-support-from-washington-former-president-says) · `en`
-
-Sri Lanka is back in the geopolitical spotlight ahead of elections slated for later this year, and former President Maithripala Sirisena says Washington should be paying attention.
-
-Outside powers — specifically China — are exerting influence amid what Mr. Sirisena says is a moment of “great instability” for his country, a teardrop-shaped island just off India’s southeastern coast that has become entangled in great power politics between Washington and Beijing in recent years.
-
-Mr. Sirisena, who was president from 2015 to 2019, emphasized during a meeting with The Washington Times that his country’s citizens are enduring “abject poverty” trying to recover from a crippling foreign debt crisis, soaring inflation, a contracting economy and shortages of food, fuel and other basics.
-
-...
-
-[Data](articles/84795075.json)
-
-[Extended Data](ext_articles/84795075.ext.json)
-
----
-
-### Carpenter’s widow demands Rs. 200 million from police
-
-*2024-02-16 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Carpenters-widow-demands-Rs-200-million-from-police/155-277184) · `en`
-
-Colombo, Feb 16 (Daily Mirror) -  The widow of the carpenter who died in the Narammala police shooting incident today filed a Fundamental Rights petition before the Supreme Court seeking a compensation of Rs. 200 million from the police officers including Acting IGP Deshabandu Tennakoon.
-
-The deceased Roshan Kumarasiri was shot dead by Sub Inspector Gunawardena who was on duty in civvies when the deceased was returning home after work.
-
-The petitioner Kamani Rupika Priyangani stated that she entered into marriage with the deceased Roshan Kumarasiri in 2007, and they have three children. She said the two elder girls are twins who are presently 16 years of age and they are expecting to sit for the G.C.E. (O/L) Examinations this year. The petitioner states that the younger child is a son who is eight years of age an is studying in Grade three of the school.
-
-...
-
-[Data](articles/3b477c16.json)
-
-[Extended Data](ext_articles/3b477c16.ext.json)
-
----
-
-### Carpenter’s widow demands Rs. 200 million from police
-
-*2024-02-16 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Carpenters-widow-demands-Rs-200-million-from-police/108-277184) · `en`
-
-Colombo, Feb 16 (Daily Mirror) -  The widow of the carpenter who died in the Narammala police shooting incident today filed a Fundamental Rights petition before the Supreme Court seeking a compensation of Rs. 200 million from the police officers including Acting IGP Deshabandu Tennakoon.
-
-The deceased Roshan Kumarasiri was shot dead by Sub Inspector Gunawardena who was on duty in civvies when the deceased was returning home after work.
-
-The petitioner Kamani Rupika Priyangani stated that she entered into marriage with the deceased Roshan Kumarasiri in 2007, and they have three children. She said the two elder girls are twins who are presently 16 years of age and they are expecting to sit for the G.C.E. (O/L) Examinations this year. The petitioner states that the younger child is a son who is eight years of age an is studying in Grade three of the school.
-
-...
-
-[Data](articles/abf603af.json)
-
-[Extended Data](ext_articles/abf603af.ext.json)
 
 ---

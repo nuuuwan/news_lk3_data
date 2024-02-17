@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 00:32:42**
+As of **2024-02-18 00:47:34**
 
 ## Newspaper Stats
 
-*Scraped **7,721** Articles*
+*Scraped **7,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 400
 dailyftlk | 415
 adalk | 656
 tamilmirrorlk | 936
-adaderanalk | 949
+adaderanalk | 950
 virakesarilk | 1,018
 adaderanasinhalalk | 1,113
 dailymirrorlk | 1,140
@@ -26,25 +26,47 @@ dailymirrorlk | 1,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,720 (100.0%) of 7,721 articles have been extended.
+7,721 (100.0%) of 7,722 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-02-18 (Sunday)
+
+### ‘Now is the time to end traditional politics’ – Dilith Jayaweera
+
+*2024-02-18 00:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97359/now-is-the-time-to-end-traditional-politics-dilith-jayaweera) · `en`
+
+Leader of the Mawbima Janatha Party (MJP), entrepreneur Dilith Jayaweera says the time has come to end traditional politics in the country.
+
+Speaking at the party’s district conference in Colombo, held at the Sugathadasa Indoor Stadium on Saturday (17 Feb.), Mr. Jayaweera said he intends to bring the change the country needs.
+
+“I am not someone who expected to get into politics, but throughout my university life, and afterwards, I supported various political parties and figures hoping for one thing, and that is the hope that they will, some day, make the country that we love, a better country. But, we were continuously, let down, so as a result, ultimately we decided that we ourselves would come and make that change. That is what we are here for,” he stated.
+
+...
+
+[Data](articles/fc3f6ce6.json)
+
+---
+
 ### 2024-02-17 (Saturday)
 
-### டயலொக் கனிஷ்ட தேசிய வலைபந்தாட்ட அரை இறுதிகளில் கண்டி, குருநாகல் அணிகள்
+### Kandy and Kurunegala teams in semi -finals
 
 *2024-02-17 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176646) · `ta`
 
-இலங்கை வலைபந்தாட்ட சம்மேளனத்தினால் டி.எஸ். சேனாநாயக்க கல்லூரி மைதானத்தில் நடத்தப்படும் 2023க்கான டயலொக் கனிஷ்ட தேசிய வலைபந்தாட்ட அரை இறுதிப் போட்டிகளில் விளையாட கண்டி, குருநாகல் அணிகள் தகுதிபெற்றுள்ளன.
+DS by the Sri Lanka Webball Federation. The Kurunegala teams have qualified to play in the semi -finals of the Dialog Junior National Network for 2023 at the Senanayake College Ground.
 
-டயலொக் கனிஷ்ட தேசிய வலைபந்தாட்டப் போட்டிக்கான அனுசரணை உதவுத் தொகையை டயலொக் ஆசிஆட்டா குழுமத்தின் குறியீடு மற்றும் ஊடகப் பிரிவு உதவித் தலைவர் ஹர்ஷா சமரநாயக்கவிடம் இருந்து இலங்கை வலைபந்தாட்ட சம்மேளனத் தலைவி விக்டோரியா லக்ஷ்மி (இடமிருந்து 3ஆவது) பெற்றுக்கொண்டபோது எடுக்கப்பட்ட படம். படத்தில் முஹம்மத் கஸாலி (டயலொக் ஆசிஆட்டா டிஜிட்டல் சந்தைப்படுத்தல் தலைமை அதிகாரி, இலங்கை வலைபந்தாட்ட சம்மேளன பொருளாளர் பத்மினி ஹொரனகே, போட்டி ஏற்பாட்டுக்குழு உறுப்பினர் சம்ப்பா குணவர்தன ஆகியோரையும் காணலாம்
+The film was taken from the Sri Lanka Webball Federation Chairman Victoria Lakshmi (3) from Harsha Samaranayake, Assistant Chairman of the Dialog Blessed Group and Media Division's Assistant Group's Code and Media Division. In the film, Muhammad Kasali (Dialog Acida Digital Marketing Officer, Sri Lanka Webball Federation Treasurer Padmini Horanage and Competition Organization Member Samppa Gunawardena
 
-கண்டியில் இருந்து இலங்கை பாடாசலைள் வலைபந்தாட்ட சங்கம்  சார்பாக மஹமாயா பெண்கள் கல்லூரியும் ஹில்வூட் கல்லூரியும் குருநாகலில் இருந்து நெட் சேம்ப்ஸ் அணியும் மலியதேவ பெண்கள் பாடசாலையும் தகுதிபெற்றுள்ளன.
+Mahamaiah Girls 'College, Hilwood College, Net Champs from Kurunegala on behalf of the Sri Lanka Padasal Webball Association from Kandy have qualified for the Maliyadeva Girls' School from Kurunegala.
+
+In the first semi -finals, Mahamaya College and Net Champs will play in the second half of the Maliyadeva Women's School and Hilwood.. The two matches will start at 9.30 am on Sunday (18).
 
 ...
 
 [Data](articles/9512acb6.json)
+
+[Extended Data](ext_articles/9512acb6.ext.json)
 
 ---
 
@@ -2071,23 +2093,5 @@ A kilo of bringals was Rs. 200, and a kilo of tomato and capsicum was Rs. 800 ea
 [Data](articles/8a22e2e8.json)
 
 [Extended Data](ext_articles/8a22e2e8.ext.json)
-
----
-
-### US Under Secretary Elizabeth Allen travels to Jordan, Sri Lanka, India
-
-*2024-02-17 09:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Under-Secretary-Elizabeth-Allen-travels-to-Jordan-Sri-Lanka-India/108-277235) · `en`
-
-Under Secretary of State for Public Diplomacy Liz Allen is on travel to Jordan, Sri Lanka and India from February 12 to 22.
-
-The visit underscores the United States’ unwavering commitment to reinforcing and expanding partnerships and alliances. The trip highlights the core of US foreign policy and public diplomacy initiatives, fostering freedom of expression, economic empowerment, and global collaboration.
-
-In Jordan, Under Secretary Allen engaged with alumni of US public diplomacy programmes and civil society leaders, gaining valuable insights into regional perspectives. She explored the transformative impact of English Language programmes on Jordanian youth, which equip them with essential skills for the labour market. She also met with State Department public affairs professionals and Government of Jordan officials to discuss integrated, innovative strategic communications as a tool of national security.
-
-...
-
-[Data](articles/fb38996b.json)
-
-[Extended Data](ext_articles/fb38996b.ext.json)
 
 ---

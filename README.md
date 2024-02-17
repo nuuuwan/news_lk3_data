@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 05:55:28**
+As of **2024-02-17 06:16:14**
 
 ## Newspaper Stats
 
-*Scraped **7,568** Articles*
+*Scraped **7,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 385
 economynextcom | 398
-dailyftlk | 403
+dailyftlk | 415
 adalk | 645
 tamilmirrorlk | 921
 adaderanalk | 926
@@ -26,11 +26,209 @@ dailymirrorlk | 1,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,568 (100.0%) of 7,568 articles have been extended.
+7,568 (99.8%) of 7,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### India-Sri Lanka officials discuss collaboration
+
+*2024-02-17 05:38:11* · [`dailyftlk`](https://www.ft.lk/news/India-Sri-Lanka-officials-discuss-collaboration/56-758590) · `en`
+
+Bilateral delegation-level talks took place in New Delhi this week between India’s Secretary, Department of Administrative Reforms and Public Grievances (DAR&PG) V. Srinivas and Secretary to the Prime Minister of Sri Lanka Anura Dissanayake for collaboration in Personnel Administration and Governance.
+
+The Sri Lankan delegation included Ministry of Technology Secretary Dr. Dharmasri Kumaratunga, Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government Secretary Pradeep Yasarathna, and Sri Lanka Institute of Development Administration (SLIDA) Director General Nalaka Kaluwewe. DARPG senior officials NBS Rajput, Puneet Yadav and Jaya Dubey participated in the discussions.
+
+...
+
+[Data](articles/31ec814a.json)
+
+---
+
+### Vistas of opportunity for Sri Lankan children with “Suhuru” classrooms
+
+*2024-02-17 05:37:16* · [`dailyftlk`](https://www.ft.lk/news/Vistas-of-opportunity-for-Sri-Lankan-children-with-Suhuru-classrooms/56-758589) · `en`
+
+“Knowledge is power. Information is liberating. Education is the premise of progress in every society, in every family.” — Kofi Annan
+
+A group of children crowded around a big board that had been set up in a classroom at Ratnapura Pelmadulla Bambarabotuwa Vishaka Maha Vidyalaya.
+
+They were joined by teachers and even the school principal. Their eyes beamed with amazement and joy. As the board was transformed with the press of a button, the magical world of information and opportunity unfurled before them.
+
+This landmark event in the lives of the children and staff of Ratnapura Pelmadulla Bambarabotuwa Vishaka Maha Vidyalaya took place on 15 February.
+
+They were the recipients of a “Suhuru” classroom of the “Sakwala” program that is being implanted island-wide under the leadership of Opposition Leader Sajith Premadasa. The Suhuru classrooms are designed to empower children from underprivileged homes with modern education.
+
+...
+
+[Data](articles/51321ea5.json)
+
+---
+
+### Japan provides Yen 1.2 b grant to power 3 hospitals with renewable energy
+
+*2024-02-17 05:35:58* · [`dailyftlk`](https://www.ft.lk/news/Japan-provides-Yen-1-2-b-grant-to-power-3-hospitals-with-renewable-energy/56-758588) · `en`
+
+Japanese Ambassador Mizukoshi Hideaki and Treasury Secretary K.M.M. Siriwardana this week signed an Exchange of Note for providing JPY 1.23 billion in order to improve power supply vulnerability at hospitals.
+
+This signing ceremony was held in the presence of JICA President Dr. Tanaka Akihiko and Health Secretary Dr. P.G. Mahipala.
+
+This grant aims to reduce carbon footprint and ease the financial burden on energy costs at Sri Jayewardenepura General Hospital, Teaching Hospital Ratnapura, and Teaching Hospital Kurunegala. With this assistance, the recipient hospitals will be equipped with solar power facilities, ensuring reliable electricity supply and contributing to achieving Sri Lanka’s goal of over 70% of electricity from renewable sources by 2030.
+
+...
+
+[Data](articles/0c8bed71.json)
+
+---
+
+### 106th Lithuanian National Day celebrations in Sri Lanka
+
+*2024-02-17 05:33:53* · [`dailyftlk`](https://www.ft.lk/news/106th-Lithuanian-National-Day-celebrations-in-Sri-Lanka/56-758587) · `en`
+
+The Honorary Consulate of Lithuania in Sri Lanka has announced the commemoration of the 106th Lithuanian National Day on 16 February 2024.
+
+This momentous occasion marks the restoration of Lithuania’s independent statehood on 16 February 1918, following over a century of Russian Empire rule.
+
+In 1918, under the leadership of Jonas Basanavičius, the Council of Lithuania boldly signed the Act of Independence, proclaiming Lithuania as a sovereign and democratic nation. This declaration was the culmination of relentless endeavours by Lithuanian activists and intellectuals striving for liberty and self-governance.
+
+The journey to independence was arduous, as Lithuania had endured subjugation under the Russian Empire, suppressing its cultural and national identity. Nevertheless, the Lithuanian spirit remained resolute, fuelling the persistent struggle for
+
+...
+
+[Data](articles/2c509e67.json)
+
+---
+
+### Iranian naval ships arrive in Colombo
+
+*2024-02-17 05:32:59* · [`dailyftlk`](https://www.ft.lk/news/Iranian-naval-ships-arrive-in-Colombo/56-758586) · `en`
+
+The Iranian naval ships (IRINS) Bushehr and Tonb arrived at the port of Colombo on a formal visit yesterday.
+
+The visiting ships were welcomed by the Sri Lanka Navy in compliance with naval traditions.
+
+IRINS Bushehr is a 107 metre long ship manned by 270 crew members and she is commanded by Commander Mahdi Balvardi. IRINS Tonb is a 94.94 metre long platform with a crew of 250. It is commanded by Commander Mohammad Haji Zadeh.
+
+The Commanding Officers of the ships are scheduled to call on Commander Western Naval Area and Director General Operations of the Navy, during their stay in the country.
+
+Additionally, naval personnel from both nations are anticipated to participate in various programs aimed at fostering cooperation. Furthermore, the crew members of the Iranian ships will have the opportunity to visit several tourist attractions in Sri Lanka.
+
+...
+
+[Data](articles/26caff3c.json)
+
+---
+
+### Waning hegemony
+
+*2024-02-17 05:28:48* · [`dailyftlk`](https://www.ft.lk/columns/Waning-hegemony/4-758585) · `en`
+
+With the rise of China and much of Asia, the US no longer dominates the world economy
+
+In the 16th century, Spain became the first global empire. Spain flexed its military prowess, but also prospered culturally, architecturally, and formulated ground-breaking ideas on natural law, sovereignty, international law and economics. They even themselves philosophically questioned the validity of imperialism!
+
+By the 19th century, Britain became a global hegemon. This was inaugurated by the British Empire’s earlier defeat of the Spanish Armada coinciding with the flowering of the Elizabethan age, vast voyages of exploration and soon, the greatest navy the world had seen. This continued through Victorian England and the industrial revolution, until two world wars displaced an Empire on which once “the sun never set.”
+
+...
+
+[Data](articles/f4056eee.json)
+
+---
+
+### NPP deserves fairness from critics
+
+*2024-02-17 05:22:13* · [`dailyftlk`](https://www.ft.lk/columns/NPP-deserves-fairness-from-critics/4-758584) · `en`
+
+With increasing grassroot support for NPP and its leader Anura Kumara Dissanayake (AKD) those two have become enemy No. 1 to champions of and campaigners for the corrupt system that is currently in vogue. All signs point towards a national mood for radical change led by AKD and his NPP. It is in that context that the recent visit to Delhi by AKD at the invitation of India is significant.
+
+He spent a few hours discussing in English with the Indian External Affairs Minister S. Jaishankar and India’s National Security Adviser Ajit Doval. This invitation would not have been issued without advice from India’s Research and Analysis Wing (RAW) in Colombo. RAW must have been closely watching and doing its own home work about the rapidly changing political scenario to convince itself of the winning chances to AKD at the next Presidential election. Hence their message to Delhi and the invitation followed.
+
+...
+
+[Data](articles/8aad0bd4.json)
+
+---
+
+### Sri Lanka conducts “Ceylon-Persia” tourism awareness program in Iran
+
+*2024-02-17 05:15:56* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-conducts-Ceylon-Persia-tourism-awareness-program-in-Iran/34-758581) · `en`
+
+The Embassy of Sri Lanka in Iran, in collaboration with the Sri Lanka Tourism Promotion Bureau (SLTPB), Association of Air Transport and Tourists Agencies of Iran, and Aitken Spence Travels, organised “Ceylon-Persia” Tourism Awareness Program 2024 at the chancery premises in Tehran on 5 February.
+
+Over 35 tour companies, outbound tour operators and representatives from the media and airlines were in attendance. The objective of the event was to make awareness of the recent developments in tourism industry in Sri Lanka and Iran among travel agents, tour operators, other tourism stakeholders and the general public of both countries with a focus of expanding two-way tourism.
+
+...
+
+[Data](articles/3d7b1ca6.json)
+
+---
+
+### Sithara awarded with ‘Merit’ at National Quality Awards
+
+*2024-02-17 05:12:59* · [`dailyftlk`](https://www.ft.lk/business/Sithara-awarded-with-Merit-at-National-Quality-Awards/34-758580) · `en`
+
+Seated: Director Chayanka Wickremasinghe (left) and Chairman/Managing Director Channa Wickremasinghe. Standing (from left): Asst. Manager – Quality Assurance Gayantha Perera, Production Manager Mahesh Abeysinghe, General Manager H.B. Anandaratne, Chief Marketing and Technical Officer Malinda Tennakoon, and Factory Engineer Pubudu Madhushan
+
+Sithara Ltd., the pioneer printing ink manufacturing company in Sri Lanka, has been awarded with a ‘Merit’ at the recently concluded National Quality Awards (2022), conducted by the Sri Lanka Standards Institute.
+
+...
+
+[Data](articles/1c892902.json)
+
+---
+
+### “Best of Sri Lanka” product promotion at LuLu Hypermarket in Dubai
+
+*2024-02-17 05:11:25* · [`dailyftlk`](https://www.ft.lk/business/Best-of-Sri-Lanka-product-promotion-at-LuLu-Hypermarket-in-Dubai/34-758579) · `en`
+
+The Consulate General of Sri Lanka in Dubai and Northern Emirates in collaboration with the Lulu Hypermarket organised the “Best of Sri Lanka”, Sri Lankan product promotion campaign in line with the 76th Independence Day of Sri Lanka at LuLu Hypermarket, Al Barsha on 2 February.
+
+The product promotion campaign was held over one week from 2 to 9 February and the Sri Lankan authentic food, coconut oil and milk, fresh fruits and vegetables including the confectionary items, were promoted among the community living in the UAE. The activities lined up with attractive displays and banners with several creative arrangements done by natural ingredients within the hypermarket. The promotion boosted not only the trade but also the stronger ties between the Lulu Group and exporters of Sri Lanka.
+
+...
+
+[Data](articles/0a000ac2.json)
+
+---
+
+### President discusses hostages and Gaza conflict with Israeli Transport Minister
+
+*2024-02-17 05:08:47* · [`dailyftlk`](https://www.ft.lk/news/President-discusses-hostages-and-Gaza-conflict-with-Israeli-Transport-Minister/56-758578) · `en`
+
+In a significant diplomatic encounter, Israel’s Transport and Road Safety Minister Brig. Gen. Miri Regev, convened with President Ranil Wickremesinghe.
+
+The meeting delved into crucial matters concerning the safe return of Israeli hostages, with President Wickremesinghe affirming Sri Lanka’s unwavering commitment to advocating for their safety. Furthermore, amidst the ongoing hostilities in Gaza, the President called for an immediate cessation of violence, underscoring the paramount importance of peace and stability in the region.
+
+Highlighting Sri Lanka’s stance on the Israeli-Palestinian conflict, President Wickremesinghe reiterated the nation’s support for the establishment of a Palestinian State.
+
+He also emphasised the significance of ensuring Israel’s security, fostering a balanced approach to regional peace.
+
+...
+
+[Data](articles/4942dd60.json)
+
+---
+
+### Two more SLFP members switch to SJB
+
+*2024-02-17 05:07:45* · [`dailyftlk`](https://www.ft.lk/news/Two-more-SLFP-members-switch-to-SJB/56-758577) · `en`
+
+Two more Sri Lanka Freedom Party (SLFP) stalwarts crossed over to the main opposition party, the Samagi Jana Balawegaya (SJB) yesterday following a series of similar crossovers since the beginning of 2024.
+
+Accordingly, former SLFP provincial council members have now joined hands with the main opposition party. Thilakasiri is also the Homagama electorate organiser for the SLFP.
+
+The duo met with SJB leader Sajith Premadasa and expressed their support to the party. They joined Premadasa at the 100th phase of the SJB’s ‘Sakwala’ Program, which involves donating digital screens and computers to State schools. This event took place at Boralesgamuwa Maha Vidyalaya.
+
+The first crossover took place in January when SLFP MP Shan Wijayalal de Silva joined the SJB. He was appointed as its Ambalangoda Electoral Organiser.
+
+A few days later former SLFP MP Dayasritha Tissera also joined the SJB. Tissera was appointed as SJB Chief Organiser for the Nattandiya electorate in the Puttalam district.
+
+◼️
+
+[Data](articles/359a0f02.json)
+
+---
 
 ### SL-Russia set to enhance transport cooperation via MoU
 
@@ -1883,231 +2081,5 @@ Chief Medical Officer of the Lindula hospital Dr. Asela Suranjith said she  had
 [Data](articles/8f6ca71e.json)
 
 [Extended Data](ext_articles/8f6ca71e.ext.json)
-
----
-
-### FR application by retired HC judge against PCoI fixed for argument
-
-*2024-02-16 14:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FR-application-by-retired-HC-judge-against-PCoI-fixed-for-argument/108-277171) · `en`
-
-Colombo, Feb. 16 (Daily Mirror)- A fundamental rights application filed by retired High Court Judge Padmini Ranawaka challenging the findings of the Presidential Commission of Inquiry relating to the controversial telephone conversations with former Deputy Minister Ranjan Ramanayake has been fixed for further argument by the Supreme Court on February 26.
-
-The petitioner, retired High Court Judge Padmini Ranawaka was a member of the three-judge-bench which handed down the death sentence to five accused, including former Parliamentarian Duminda Silva for the murder of Bharatha Lakshman Premachandra.
-
-A majority judgment of the petitioner and High Court Judge M.C.B.S. Moraes found Duminda Silva and the other accused guilty of the murder of Bharatha Lakshman Premachandra and four of his associates on October 08, 2011.
-
-...
-
-[Data](articles/271e7b3a.json)
-
-[Extended Data](ext_articles/271e7b3a.ext.json)
-
----
-
-### 16 hours water cut
-
-*2024-02-16 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193465) · `si`
-
-The water supply and drainage board says that the water cut will be imposed from 5 am to 9 pm tomorrow (17).
-
-◼️
-
-[Data](articles/1421d4ee.json)
-
-[Extended Data](ext_articles/1421d4ee.ext.json)
-
----
-
-### Body of missing girl found half naked in Talaimannar
-
-*2024-02-16 14:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Body-of-missing-girl-found-half-naked-in-Talaimannar/108-277169) · `en`
-
-Mannar, Feb 16 (Daily Mirror) - The Talaimannat Police have launched an investigation after the body of a 10-year-old girl, who had been reported missing, was found half naked.
-
-Police said the girl's grandmother lodged a complaint with the Talaimannar Police on Thursday night, reporting that her grand daughter had gone missing from their village.
-
-This morning, police found the body of the missing girl approximately 300 metres away from her home.
-
-When the body was found, the girl was wearing a dress and her lower body was naked. Police suspect that the girl has been raped.
-
-The Mannar Magistrate and the Judicial Medical Officer of Mannar examined the body, which has since been transferred to the Mannar Hospital mortuary for a post-mortem examination.
-
-Police said investigations are focused on a suspicious person residing in the area, and the Talaimannar police are conducting further investigations.
-
-◼️
-
-[Data](articles/4320feb3.json)
-
-[Extended Data](ext_articles/4320feb3.ext.json)
-
----
-
-### Nurses too?
-
-*2024-02-16 14:10:14* · [`adalk`](https://www.ada.lk/breaking_news/හෙදියන්ටත්-රු25000-ක්--/11-408125) · `si`
-
-The strike was conquered by 72 Vocational Societies in Health Service recently. In the discussion with the Minister of Health and the Ministry of Finance, the various professional union associations have not been agreed.
-
-Those who have been in the nurses in the United States Union have participated in the number of persons to obtain relevant allowances. According to the President of the United Association Ven.. He further stated that they would have good results.
-
-◼️
-
-[Data](articles/45c9c2c8.json)
-
-[Extended Data](ext_articles/45c9c2c8.ext.json)
-
----
-
-### Employees who blocked the office of the Deputy Director of the Colombo National Hospital
-
-*2024-02-16 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176533) · `ta`
-
-Deputy Director of the Colombo National Hospital, Dr. Rukshanbellna, has been forcibly detained by staff at his office premises.
-
-◼️
-
-[Data](articles/2511169f.json)
-
-[Extended Data](ext_articles/2511169f.ext.json)
-
----
-
-### Sri Lanka consumer confidence drops to lowest levels since IMF agreement: IHP
-
-*2024-02-16 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-confidence-drops-to-lowest-levels-since-imf-agreement-ihp-151177/) · `en`
-
-ECONOMYNEXT — Consumer confidence in Sri Lanka continued to decline in January 2024, reaching the lowest levels since entering the International Monetary Fund (IMF) programme, according to a survey by the Institute for Health Policy (IHP).
-
-The IHP said in a statement on Friday February 16 that the Index of Consumer Sentiment (ICS), the broadest measure of the public’s view of their personal economic status and the national economy, fell 5 points to 16 points in January.
-
-The Index of Consumer Expectations (ICE), which tracks future perceptions, decreased 5 points to 21 points, while the Index of Current Conditions (ICC), a measure of perceptions of current conditions, also decreased 5 points to 10 points, the IHP said.
-
-“Consumer confidence has been falling for nine months since it recovered after the announcement of the March 2023 IMF extended fund facility (EFF) agreement. Levels are now back to where they were before the IMF EFF,” the institute said.
-
-...
-
-[Data](articles/1f2e0d55.json)
-
-[Extended Data](ext_articles/1f2e0d55.ext.json)
-
----
-
-### NHSL deputy director forcibly held inside office by hospital’s minor staff
-
-*2024-02-16 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97325/nhsl-deputy-director-forcibly-held-inside-office-by-hospitals-minor-staff) · `en`
-
-The Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana is currently being held hostage in his office by the minor staff of the hospital, Ada Derana reporter said.
-
-A collective of 72 health sector trade unions recently carried out an island-wide strike action over disparities in allowances, a move heavily criticized by Dr. Bellana.
-
-However on Wednesday (14), the health trade unions decided to call off their strike after Health Minister Dr. Ramesh Pathirana had agreed to a discussion with them.
-
-The trade unions representing a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers have engaged in strikes over the past few months demanding an allowance hike.
-
-...
-
-[Data](articles/f91df931.json)
-
-[Extended Data](ext_articles/f91df931.ext.json)
-
----
-
-### Minor workers prisoner
-
-*2024-02-16 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193463) · `si`
-
-The Deputy Director of the Colombo National Hospital Rukshan Bellana has been forcibly detained by a group of employees of the minority staff.
-
-◼️
-
-[Data](articles/59d7d46d.json)
-
-[Extended Data](ext_articles/59d7d46d.ext.json)
-
----
-
-### Greece legalises same-sex marriage
-
-*2024-02-16 13:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Greece-legalises-same-sex-marriage/108-277181) · `en`
-
-Feb 16 - Greece has become the first Christian Orthodox-majority country to legalise same-sex marriage.
-
-Same-sex couples will now also be legally allowed to adopt children after Thursday's 176-76 vote in parliament.
-
-Prime Minister Kyriakos Mitsotakis said the new law would "boldly abolish a serious inequality".
-
-But it has divided the country, with fierce resistance led by the powerful Orthodox Church. Its supporters held a protest rally in Athens.
-
-Many displayed banners, held crosses, read prayers and sang passages from the Bible in the capital's Syntagma Square.
-
-The head of the Orthodox Church, Archbishop Ieronymos, said the measure would "corrupt the homeland's social cohesion".
-
-The bill needed a simple majority to pass through the 300-member parliament.
-
-Mr Mitsotakis had championed the bill but required the support of opposition parties to get it over the line, with dozens of MPs from his centre-right governing party opposed.
-
-...
-
-[Data](articles/ac4112b7.json)
-
-[Extended Data](ext_articles/ac4112b7.ext.json)
-
----
-
-### Financial Intelligence Unit, Excise Dept. ink agreement to exchange info on criminal matters
-
-*2024-02-16 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97324/financial-intelligence-unit-excise-dept-ink-agreement-to-exchange-info-on-criminal-matters) · `en`
-
-The Financial Intelligence Unit (FIU) has entered into a Memorandum of Understanding (MoU) with the Excise Department to exchange information related to investigations and prosecutions of money laundering, terrorist financing and other related crimes.
-
-The agreement was inked last month in terms of the provisions of the Financial Transactions Reporting Act, No. 6 of 2006 (FTRA), the Central Bank said in a press release published on Friday (Feb.16).
-
-J. M. S. N. Jayasinghe, Commissioner General of Excise and E. H. Mohotty, then-Director of FIU signed the MOU on behalf of the respective institutions in the presence of Dr. Nandalal Weerasinghe, the Central Bank Governor, who is also the Chairman of the Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT) National Coordinating Committee.
-
-...
-
-[Data](articles/8066866f.json)
-
-[Extended Data](ext_articles/8066866f.ext.json)
-
----
-
-### Senthil Thondaman has passed within 5 months
-
-*2024-02-16 13:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/5-மாதத்திற்குள்-நிறைவேற்றி-விட்டார்-செந்தில்-தொண்டமான்/74-333312) · `ta`
-
-The houses were constructed and handed over by the Governor of the Eastern Province Senthil Thondaman for five months.
-
-The people of the Ampara district, who were affected by the war, were brought to the notice of the Eastern Province Governor Senthil Thondaman by the Government Agent, Tirukoil Divisional Secretary, Government Officers and the public.
-
-Governor Senthil Thondaman visited the Tirukovil area in the Ampara district and heard the grievances of the people and handed over their houses within five months.
-
-The people of Tirukovil district have expressed their gratitude to the Governor of the Eastern Province Senthil Thondaman and the Divisional Secretary of the Eastern Province for fulfilling their demands in a short time.. Remble
-
-◼️
-
-[Data](articles/8c6372c1.json)
-
-[Extended Data](ext_articles/8c6372c1.ext.json)
-
----
-
-### Senthil has passed within 5 months
-
-*2024-02-16 13:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/5-மாதத்திற்குள்-நிறைவேற்றி-விட்டார்-செந்தில்/74-333312) · `ta`
-
-The houses were constructed and handed over by the Governor of the Eastern Province Senthil Thondaman for five months.
-
-The people of the Ampara district, who were affected by the war, were brought to the notice of the Eastern Province Governor Senthil Thondaman by the Government Agent, Tirukoil Divisional Secretary, Government Officers and the public.
-
-Governor Senthil Thondaman visited the Tirukovil area in the Ampara district and heard the grievances of the people and handed over their houses within five months.
-
-The people of Tirukovil district have expressed their gratitude to the Governor of the Eastern Province Senthil Thondaman and the Divisional Secretary of the Eastern Province for fulfilling their demands in a short time.. Remble
-
-◼️
-
-[Data](articles/dee43b63.json)
-
-[Extended Data](ext_articles/dee43b63.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 10:03:38**
+As of **2024-02-17 10:17:09**
 
 ## Newspaper Stats
 
-*Scraped **7,620** Articles*
+*Scraped **7,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,111 @@ dailyftlk | 415
 adalk | 645
 tamilmirrorlk | 926
 adaderanalk | 932
-virakesarilk | 1,001
-adaderanasinhalalk | 1,087
-dailymirrorlk | 1,125
+virakesarilk | 1,002
+adaderanasinhalalk | 1,089
+dailymirrorlk | 1,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,620 (100.0%) of 7,620 articles have been extended.
+7,620 (99.9%) of 7,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### රවිචන්ද්‍රන් අශ්වින් තරගාවලියෙන් ඉවත් වෙයි
+
+*2024-02-17 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193496) · `si`
+
+ඉන්දීය දඟ පන්දු යවන ක්‍රීඩක රවිචන්ද්‍රන් අශ්වින් මේ වන විට පැවැත්වෙන ඉන්දු - එංගලන්ත ටෙස්ට් තරගාවලියෙන් ඉවත් වී තිබේ.
+
+ඒ, ඔහුගේ පෞද්ගලික හේතුවක් නිසා බව ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය නිවේදනය කර ඇත.
+
+එංගලන්තය සහ ඉන්දියාව අතර රාජ්කෝට්හී පැවැත්වෙන තුන් වැනි ටෙස්ට් තරගයේ දෙවැනි දිනය වූ ඊයේ (16) දිනයේ දී අශ්වින් ලකුණු 37ක් රැස් කළේ ය.
+
+එසේම ඊයේ දිනයේ දී එක් කඩුල්ලක් දවාගනිමින් සිය ටෙස්ට් කඩුලු 500 සීමාව පසුකිරීමටත් ඔහු සමත් විය.
+
+නමුත් ඊයේ හදිසියේම අශ්වින් සිය පෞද්ගලික හේතුවක් නිසා තරගයෙන් ඉවත් විය යුතු බව ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලයට දන්වා ඇති අතර, ඔහුගේ අවශ්‍යතාව සලකා බැලූ ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය ඊට අවසර ලබා දී තිබේ.
+
+ඉන්දීය ක්‍රිකට් ආයතනය නිවේදනය කළේ, ක්‍රීඩකයින්ගේ සහ ඔවුන්ගේ ආදරණීයයන්ගේ සෞඛ්‍යය සහ යහපැවැත්ම ඉතා වැදගත් බවත් මේ අවස්ථාවේ දී අශ්වින්ට සහ ඔහුගේ පවුලේ අයට හෘදයංගම සහයෝගය ලබා දෙන බවයි".
+
+මේ අතර, ඊයේ දිනයේදීම අශ්වින් සිය මව සමඟ චෙන්නායි බලා පිටත් ව ගොස් ඇති බවත් මවගේ රෝගී තත්ත්වයක් හේතුවෙන් අශ්වින් මෙලෙස ඉවත් ව ඇති බවත් විදෙස් මාධ්‍යය වාර්තා කර තිබේ.
+
+...
+
+[Data](articles/5b94a9c5.json)
+
+---
+
+### අමෙරිකානු නියෝජ්‍ය රාජ්‍ය ලේකම්වරයෙක් දිවයිනට
+
+*2024-02-17 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193495) · `si`
+
+කළමනාකරණය සහ සම්පත් සඳහා වූ අමෙරිකානු නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් ආර්.වර්මා මහතා මෙරට සංචාරයක් සඳහා පැමිණීමට නියමිත බව අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
+
+හෙට (18) ආරම්භ වන අමෙරිකානු නියෝජ්‍ය රාජ්‍ය ලේකම්වරයාගේ ආසියානු රාජ්‍යයන් කිහිපයක සංචාරය අතරතුර ඔහු මෙරටට පැමිණීමට නියමිත බව එම දෙපාර්තමේන්තුව නිවේදනය කර ඇත.
+
+ඒ අනුව හෙට සිට ලබන 23 වැනි දින දක්වා අමෙරිකානු නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් ආර්.වර්මා මහතා ඉන්දියාව, මාලදිවයින සහ ශ්‍රී ලංකාව වෙත සංචාරය කිරිමට සැලසුම් කර තිබේ.
+
+සිය ඉන්දියානු සහ මාලදිවයින් සංචාර නිම කිරීමෙන් අනතුරුව මෙරටට පැමිණෙන ඔහු රජයේ උසස් නිලධාරින් සමඟ සාකච්ඡා පැවැත්වීමට නියමිත බව සඳහන් වේ.
+
+එහි දී නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා කොළඹ වරායේ බටහිර බහාලුම් පර්යන්තය නිරික්ෂණය කිරිමට ද නියමිත ය.
+
+◼️
+
+[Data](articles/b2721a4c.json)
+
+---
+
+### CBK stirs the pot for executive presidency abolition, faces uphill task
+
+*2024-02-17 09:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBK-stirs-the-pot-for-executive-presidency-abolition-faces-uphill-task/108-277227) · `en`
+
+Colombo, Feb 17 (Daily Mirror) - Former President Chandrika Bandaranaike Kumaratunga is reportedly behind the latest move to initiate action for the abolition of the executive presidency ahead of the presidential election, but it is unlikely to succeed given the inability to secure a two-thirds majority from the current Parliament for such an exercise, the Daily Mirror learns.
+
+Ms. Kumaratunga, along with the National Movement for Social Justice spearheaded by former Speaker Karu Jayasuriya has approached some NGO and civil society activists to initiate a dialogue to bring in new constitutional amendments for the abolition of the executive presidency and transfer its powers to Parliament and the Cabinet.
+
+...
+
+[Data](articles/e52b59c9.json)
+
+---
+
+### செம்மலை தொடக்கம் கொக்கிளாய்வரை இல்மனைட் அகழ்வதற்கு அனுமதிக்க முடியாது ; சாள்ஸ் எம்.பி கடும் எதிர்ப்பு
+
+*2024-02-17 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176590) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தில் செம்மலை தொடக்கம், கொக்கிளாய்வரையான கடற்கரையோரத்தில் இல்மனைட் அழகழ்வதற்கு முல்லைத்தீவு மாவட்ட அபிவிருத்தி ஒருங்கிணைப்புக்குழுவின் அனுமதிகோரப்பட்ட நிலையில், வன்னிமாவட்ட நாடாளுமன்ற உறுப்பினர் சாள்ஸ் நிர்மலநாதனின் கடுமையான எதிர்ப்பையடுத்து குறித்த அனுமதியை அபிவிருத்திக்குழு நிராகரிப்பதாகத் தீர்மானித்துள்ளது.
+
+முல்லைத்தீவு மாவட்ட அபிவிருத்தி ஒருங்கிணைப்புக்குழுக்கூட்டம் வெள்ளிக்கிழமை (16)இடம்பெற்றபோதே குறித்த இல்மனைட் அகழ்விற்கான அனுமதி கோரப்பட்டது. இந்நிலையிலேயே குறித்த அனுமதி இவ்வாறு நிராகரிக்கப்பட்டுள்ளது.
+
+இவ்வாறு செம்மலை தொடக்கம் கொக்கிளாய்வரையில் இல்மனைட் அகழ்ந்தால்  அருகே உள்ள வயல் நிலங்களும் பாதிக்கப்படுமெனவும், செம்மலைப் பகுதியில் அமைக்கப்பட்டுள்ள உவர்நீர்த் தடுப்பணையும் சேதப்படுத்தப்படுமெனவும், பாரிய இயற்கை அனர்த்தங்கள் ஏற்படும் வாய்ப்புக்கள் இருப்பதாகவும் இதன்போது சாள்ஸ் நிர்மலநாதனால் சுட்டிக்காட்டப்பட்டது.
+
+...
+
+[Data](articles/6cd01be1.json)
+
+---
+
+### Beliatta firing: Police seeking public help to arrest 3 suspects
+
+*2024-02-17 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176588) · `ta`
+
+Police have sought the help of the public to arrest three suspects in connection with the shooting incident of five men, including Abe Janapala Party leader Saman Perera in Beliatta.
+
+In this case, the police are now seeking public help to arrest three persons suspected of helping the shooting.
+
+If you find information about the suspects, the Senior Deputy Inspector General of Police in charge of the Tangalle Police Division is asked to provide 0718591488 or the Beliatta Police Officer in charge of 0718591497.
+
+◼️
+
+[Data](articles/f2229cb5.json)
+
+[Extended Data](ext_articles/f2229cb5.ext.json)
+
+---
 
 ### Russia warms up from the death of the Russian Opposition Leader
 
@@ -49,24 +141,6 @@ However, various parties have organized the street world festivals in Moscow to 
 [Data](articles/351397a5.json)
 
 [Extended Data](ext_articles/351397a5.ext.json)
-
----
-
-### Beliatta firing: Police seeking public help to arrest 3 suspects
-
-*2024-02-17 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176588) · `ta`
-
-Police have sought the help of the public to arrest three suspects in connection with the shooting incident of five men, including Abe Janapala Party leader Saman Perera in Beliatta.
-
-In this case, the police are now seeking public help to arrest three persons suspected of helping the shooting.
-
-If you find information about the suspects, the Senior Deputy Inspector General of Police in charge of the Tangalle Police Division is asked to provide 0718591488 or the Beliatta Police Officer in charge of 0718591497.
-
-◼️
-
-[Data](articles/f2229cb5.json)
-
-[Extended Data](ext_articles/f2229cb5.ext.json)
 
 ---
 
@@ -1973,89 +2047,5 @@ Attempts to save him have not been successful, he died, hospital sources said.
 [Data](articles/ca0d0b6c.json)
 
 [Extended Data](ext_articles/ca0d0b6c.ext.json)
-
----
-
-### Russian opposition leader Navalny dies in prison
-
-*2024-02-16 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-opposition-leader-Navalny-dies-in-prison/108-277183) · `en`
-
-MOSCOW, Feb 16 (Reuters) - Russian opposition leader Alexei Navalny died on Friday after collapsing and losing consciousness at the penal colony north of the Arctic Circle where he was serving a long jail term, the Russian prison service said.
-
-Navalny, by far Russia's most famous opposition leader, rose to prominence more than a decade ago by lampooning the elite class round President Vladimir Putin and voicing allegations of corruption on a vast scale. He was 47.
-
-The Federal Penitentiary Service of the Yamalo-Nenets Autonomous District said in a statement that Navalny "felt unwell" after a walk at the IK-3 penal colony in Kharp, about 1,900 km (1,200 miles) north east of Moscow.
-
-Navalny, the prison service said, had lost consciousness almost immediately.
-
-"The medical staff of the institution arrived immediately, and an ambulance team was called," the prison service said.
-
-...
-
-[Data](articles/96907240.json)
-
-[Extended Data](ext_articles/96907240.ext.json)
-
----
-
-### Russian opposition leader Alexei Navalny dies in prison
-
-*2024-02-16 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97330/russian-opposition-leader-alexei-navalny-dies-in-prison) · `en`
-
-Russian opposition leader Alexei Navalny has died in prison, the country’s state media reported Friday, ending a yearslong fight against corruption and the Kremlin that saw him survive several poisoning attempts.
-
-A prominent critic of President Vladimir Putin, Navalny spent his final months behind bars as the Russian leader reshaped the country to rally behind his war in Ukraine.
-
-“On February 16, 2024, in penal colony No. 3, convict A.A. Navalny felt unwell after a walk, almost immediately losing consciousness,” news agency Interfax reported, citing the country’s orison service.
-
-“The facility’s medical workers immediately arrived at the scene and an emergency medical team was called in. All necessary resuscitation measures have been carried out, but they did not yield positive results. Emergency medics confirmed the death of the convict,” it added.
-
-...
-
-[Data](articles/37d01f1d.json)
-
-[Extended Data](ext_articles/37d01f1d.ext.json)
-
----
-
-### Russian opposition leader suddenly dies
-
-*2024-02-16 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193476) · `si`
-
-The Russian opposition leader Alexi Navalni, who was imprisoned, had died of the death toll, "foreign media states.
-
-The Russian media states that he is walking for physical wellness and he has become sick.
-
-He was later fainted and died a short time later.
-
-◼️
-
-[Data](articles/58b2e291.json)
-
-[Extended Data](ext_articles/58b2e291.ext.json)
-
----
-
-### Riot Groups Calls to National Hospital
-
-*2024-02-16 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193475) · `si`
-
-Police riot unit was convened to handle the agitation at the Colombo National Hospital.
-
-It was revealed that the Deputy Director of the Colombo National Hospital Dr. Rukshan Bellana was forcibly conducted by a group of minority staff.
-
-As a result of this, the police ruthless situation was created and the police riot unit was convened to control it.
-
-72 health unions have been working on a two-day health unions from the 13th for two days from the 13 days.
-
-At the same time, Dr. Rukshan Bellana has been blamed for minor employees.
-
-As a result, the doctor was forcibly held by minor workers in their office premises.
-
-◼️
-
-[Data](articles/6d6b6f3e.json)
-
-[Extended Data](ext_articles/6d6b6f3e.ext.json)
 
 ---

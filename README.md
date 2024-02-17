@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 16:17:30**
+As of **2024-02-17 16:32:47**
 
 ## Newspaper Stats
 
-*Scraped **7,669** Articles*
+*Scraped **7,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 648
 tamilmirrorlk | 933
 adaderanalk | 940
 virakesarilk | 1,011
-adaderanasinhalalk | 1,097
+adaderanasinhalalk | 1,098
 dailymirrorlk | 1,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,669 (100.0%) of 7,669 articles have been extended.
+7,669 (100.0%) of 7,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### රාජකාරි වැටලීමකදී නිලධාරියෙක් දියේ ගිලී අතුරුදන්
+
+*2024-02-17 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193506) · `si`
+
+පොලීසිය සඳහන් කළේ ඊයේ (16) උදෑසන කරාඩුගල පිහිඹියාව ප්‍රදේශයේ ගල්ඔයේ ගිලී පුද්ගලයෙකු අතුරුදන් වී ඇති බවය.
+
+මෙලෙස අතුරුදන් වී ඇත්තේ 53 හැවිරිදි බිබිල අඩවි වන කාර්යාලයට අයත් ක්ෂේත්‍ර නිලධාරියෙකි.
+
+බිබිල අඩවි වන නිලධාරී කාර්යාලයේ නිලධාරීන් කණ්ඩායමක් පිහිඹියාව ප්‍රදේශයේ වැටලීම් රාජකාරියක් සඳහා ගොස් සිටියදී මෙම අනතුර සිදුවී ඇති බව දැනට සිදුකර ඇති විමර්ශනවලදී හෙළිවී ඇත.
+
+අතුරුදන්වූ නිලධාරියා සොයා නාවික හමුදාව සහ පොලීසිය මෙහෙයුම් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/f4e8e08a.json)
+
+---
 
 ### Another top U.S. State Dept. official to visit Sri Lanka next week
 
@@ -2029,25 +2047,5 @@ Calling off the strike, union authorities declared they called off their action 
 [Data](articles/a9fbebb1.json)
 
 [Extended Data](ext_articles/a9fbebb1.ext.json)
-
----
-
-### 235,000 shrimp chicks for 06 ponds in Vavuniya
-
-*2024-02-17 00:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176582) · `ta`
-
-235,000 shrimp chicks were held on Friday (15) for 06 ponds in the Vavuniya Asikkulam Grama Niladhari Division.
-
-Shrimp chicks will be carried out in six ponds under the Asikkulam Grama Niladhari Division under the Small Vivasa and Business Recovery Scheme.
-
-The inaugural event was held at Komarasankulam, Vavuniya. Fifty thousand shrimp chicks were left by the chief guests at Komarasankulam.
-
-The Coordinator of the Scheme. Asch. A.. Vavuniya District Government Agent PA Sarathchandra, Additional Government Agent D. Darskumar, District Agriculture Director Mrs. Eswaran, District Planning Director V.. Mukundan, Provincial Deputy Director of Agriculture, Mikthachandran, National Water Life Development Authority Officer Yo Nisanthan and many others were present.
-
-◼️
-
-[Data](articles/923263bb.json)
-
-[Extended Data](ext_articles/923263bb.ext.json)
 
 ---

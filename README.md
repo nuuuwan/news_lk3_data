@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 19:02:39**
+As of **2024-02-17 19:17:23**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 1,135
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,686 (100.0%) of 7,688 articles have been extended.
+7,688 (100.0%) of 7,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### කාසියේ වාසිය ඇෆ්ගනිස්තානය ට
+### To Afghanistan to advantage
 
 *2024-02-17 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193513) · `si`
 
-සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පැවැත්වෙන පළමු විස්සයි විස්ස ක්‍රිකට් තරගය අද (17) පැවැත්වෙයි.
+The first Twenty-Twenty Twenty-cricket match between the Afghan group and Sri Lanka team will be held today.
 
-ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ශ්‍රී ලංකා කණ්ඩායමට ලබාදීමටය.
+Accordingly, they decided to give the Sri Lankan team first to bat first.
 
 ◼️
 
 [Data](articles/a7f4435a.json)
+
+[Extended Data](ext_articles/a7f4435a.ext.json)
 
 ---
 
@@ -70,23 +72,25 @@ Ahangama Police Station Superintendent Nalaka Jayaweera and Euadhavipa Police In
 
 ---
 
-### 10 හැවිරිදි දැරියගේ පශ්චාත් මරණ පරීක්ෂණයේදී තොරතුරු රැසක් හෙළිවෙයි
+### 10-year-old girl's post mortem examination reveals
 
 *2024-02-17 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193512) · `si`
 
-තලෛමන්නාරම උතුර ප්‍රදේශයේදී මියගිය දැරිය දුෂණයට ලක්කර ගෙල සිරකර ඝාතනය කර ඇති බවට පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණයවී තිබේ.
+The post mortem examination revealed that the girl who died in the North of Taichannawan area was identified.
 
-දැරියගේ දේහය සම්බන්ධයෙන් වන පශ්චාත් මරණ පරීක්ෂණ කටයුතු අද (17) පෙරවරුවේ යාපනය ශික්ෂණ රෝහලේදී සිදුකෙරුණි.
+Post mortem examination on the girl's body was held at the Jaffna Teaching Hospital this morning.
 
-කෙසේවෙතත් දැරියගේ ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරු රඳවා තබාගෙන ප්‍රශ්න කිරීමට මන්නාරම මහෙස්ත්‍රාත්වරයා අද පොලීසියට අවසර ලබාදී තිබුණි.
+However, the Mannar Magistrate was given permission to the police today to retain the suspect in connection with the girl's murder.
 
-තලෛමන්නාරම උතුර ප්‍රදේශයේ පදිංචිව සිටි 10 හැවිරිදි මෙම දැරිය පසුගියදා සිය නිවස ආසන්නයේ පිහිටි වෙළෙඳසැලකට ගොස් යළි නොපැමිණීම හේතුවෙන් පවුලේ ඥාතීන් විසින් ඒ සම්බන්ධයෙන් පොලීසියට දැනුම් දී තිබුණි.
+The relatives of the family had informed the police regarding the 10-year-old resident of Thalagamunnarwa.
 
-අනතුරුව දැරියගේ මළ සිරුර ප්‍රදේශයේ පොල් ඉඩමක තිබී සොයාගනු ලැබීය.
+The girl's body was found in a coconut land in the area.
 
 ◼️
 
 [Data](articles/83118d5e.json)
+
+[Extended Data](ext_articles/83118d5e.ext.json)
 
 ---
 

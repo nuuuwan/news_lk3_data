@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 07:30:10**
+As of **2024-02-17 07:41:41**
 
 ## Newspaper Stats
 
-*Scraped **7,591** Articles*
+*Scraped **7,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,58 @@ adalk | 645
 tamilmirrorlk | 922
 adaderanalk | 926
 virakesarilk | 999
-adaderanasinhalalk | 1,078
+adaderanasinhalalk | 1,079
 dailymirrorlk | 1,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,584 (99.9%) of 7,591 articles have been extended.
+7,591 (100.0%) of 7,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### සිහින් වැසි වාර කිහිපයක්
+### රටවල් 37ක නියෝජිතයන් දිවයිනට
+
+*2024-02-17 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193486) · `si`
+
+එක්සත් ජාතින්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ 37 වැනි ආසියා පැසිෆික් කලාපීය සමුළුවට සහභාගි වීම සඳහා රටවල් 35ක නියෝජිතයන් අද (17) දිවයිනට පැමිණීමට නියමිත ව තිබේ.
+
+එක්සත් ජාතින්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ 37 වැනි ආසියා - පැසිෆික් කලාපීය සමුළුව ලබන 19 වැනි දා සිට 22 වැනි දා දක්වා කොළඹ දී පැවැත්වීමට නියමිත බව කෘෂිකර්ම අමාත්‍යාංශය සඳහන් කරයි.
+
+මෙම සමුළුවේ සංවිධාන කටයුතු පිළිබඳ අවසන් සාකච්ඡාව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (16) පැවැත්විණි.
+
+මෙම සමුළුවට ආසියා පැසිෆික් කලාපයේ රටවල් 35ක කෘෂිකර්ම අමාත්‍යවරුන්, නියෝජ්‍ය අමාත්‍යවරුන් මෙන්ම නිලධාරින් 300කට අධික පිරිසක් සහභාගි වීමට නියමිත ව තිබේ.
+
+මීට සමගාමී ව එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ අධ්‍යක්ෂ ජනරාල්වරයා ද හෙට මෙරටට පැමිණීමට නියමිතයි.
+
+චීනය, මැලේසියාව, ජපානය, පාකිස්තානය, බංග්ලාදේශය ආදි රටවල් රැසක කෘෂිකර්ම අමාත්‍යවරුන් මෙම සමුළුවට සහභාගි වීමට නියමිත බව ද සඳහන් ය.
+
+...
+
+[Data](articles/e3f4d685.json)
+
+---
+
+### Few thin rain
 
 *2024-02-17 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193485) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology announces a few thin specks in the Polonnaruwa, Matale and Nuwara Eliya districts, the Eastern and Uva provinces.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් පස්වරු 02.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Province and in the Galle and Matara Districts.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට සහ මහනුවර  දිස්ත්‍රික්කවලත් විටින් විට හමන පැයට කිලෝ මීටර් 30ක 40ක පමණ තරමක තද සුළං ඇති විය හැක.
+Strong winds can range from the North, North-Central, Uva and Eastern Provinces, Hambantota and Kandy districts, the North, North-Central, Uva and Eastern Provinces.
 
-ගිගුරුම් සහිත වැසි සමඟ ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+The Meteorological Department urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/34d75a43.json)
+
+[Extended Data](ext_articles/34d75a43.ext.json)
 
 ---
 
@@ -927,6 +951,8 @@ Youth-led businesses can be a vital catalyst for change, sparking multiple posit
 ...
 
 [Data](articles/5637033b.json)
+
+[Extended Data](ext_articles/5637033b.ext.json)
 
 ---
 
@@ -2071,23 +2097,5 @@ Accordingly, the tournament will be held from July 1 to July 21.
 [Data](articles/41faeeb1.json)
 
 [Extended Data](ext_articles/41faeeb1.ext.json)
-
----
-
-### Sub-inspection of drunken duties
-
-*2024-02-16 14:42:49* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-රාජකාරී-කළ-උප-පොලිස්-පරික්ෂකට-වැඩ-වරදියි/11-408126) · `si`
-
-The work of a headquarters police officer was suspended that he was on duty.
-
-A sub-inspector attached to the Nikaweratiya Headquarters Police has been deployed as a result of the drunken police night.
-
-The officer was produced at the Nikaweratiya Base Hospital for medical examination and the program was implemented by Superintendent of Police Wasantha Kumara.
-
-◼️
-
-[Data](articles/6a91ee2a.json)
-
-[Extended Data](ext_articles/6a91ee2a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 00:17:08**
+As of **2024-02-18 00:32:42**
 
 ## Newspaper Stats
 
-*Scraped **7,720** Articles*
+*Scraped **7,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 415
 adalk | 656
 tamilmirrorlk | 936
 adaderanalk | 949
-virakesarilk | 1,017
+virakesarilk | 1,018
 adaderanasinhalalk | 1,113
 dailymirrorlk | 1,140
 
@@ -26,11 +26,27 @@ dailymirrorlk | 1,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,720 (100.0%) of 7,720 articles have been extended.
+7,720 (100.0%) of 7,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### டயலொக் கனிஷ்ட தேசிய வலைபந்தாட்ட அரை இறுதிகளில் கண்டி, குருநாகல் அணிகள்
+
+*2024-02-17 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176646) · `ta`
+
+இலங்கை வலைபந்தாட்ட சம்மேளனத்தினால் டி.எஸ். சேனாநாயக்க கல்லூரி மைதானத்தில் நடத்தப்படும் 2023க்கான டயலொக் கனிஷ்ட தேசிய வலைபந்தாட்ட அரை இறுதிப் போட்டிகளில் விளையாட கண்டி, குருநாகல் அணிகள் தகுதிபெற்றுள்ளன.
+
+டயலொக் கனிஷ்ட தேசிய வலைபந்தாட்டப் போட்டிக்கான அனுசரணை உதவுத் தொகையை டயலொக் ஆசிஆட்டா குழுமத்தின் குறியீடு மற்றும் ஊடகப் பிரிவு உதவித் தலைவர் ஹர்ஷா சமரநாயக்கவிடம் இருந்து இலங்கை வலைபந்தாட்ட சம்மேளனத் தலைவி விக்டோரியா லக்ஷ்மி (இடமிருந்து 3ஆவது) பெற்றுக்கொண்டபோது எடுக்கப்பட்ட படம். படத்தில் முஹம்மத் கஸாலி (டயலொக் ஆசிஆட்டா டிஜிட்டல் சந்தைப்படுத்தல் தலைமை அதிகாரி, இலங்கை வலைபந்தாட்ட சம்மேளன பொருளாளர் பத்மினி ஹொரனகே, போட்டி ஏற்பாட்டுக்குழு உறுப்பினர் சம்ப்பா குணவர்தன ஆகியோரையும் காணலாம்
+
+கண்டியில் இருந்து இலங்கை பாடாசலைள் வலைபந்தாட்ட சங்கம்  சார்பாக மஹமாயா பெண்கள் கல்லூரியும் ஹில்வூட் கல்லூரியும் குருநாகலில் இருந்து நெட் சேம்ப்ஸ் அணியும் மலியதேவ பெண்கள் பாடசாலையும் தகுதிபெற்றுள்ளன.
+
+...
+
+[Data](articles/9512acb6.json)
+
+---
 
 ### Sri Lanka win by 4 runs against Afghanistan in nail-biting T20 opener
 
@@ -2073,27 +2089,5 @@ In Jordan, Under Secretary Allen engaged with alumni of US public diplomacy prog
 [Data](articles/fb38996b.json)
 
 [Extended Data](ext_articles/fb38996b.ext.json)
-
----
-
-### U.S. Under Secretary for Public Diplomacy to visit Sri Lanka
-
-*2024-02-17 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97340/us-under-secretary-for-public-diplomacy-to-visit-sri-lanka) · `en`
-
-The U.S. Under Secretary of State for Public Diplomacy, Elizabeth M. Allen is scheduled to travel to Sri Lanka, India and Jordan this month.
-
-In a statement, the State Department said these visits underscore the United States’ unwavering commitment to reinforcing and expanding partnerships and alliances.
-
-“The trip highlights the core of U.S. foreign policy and public diplomacy initiatives: fostering freedom of expression, economic empowerment, and global collaboration.”
-
-The State Department’s press release mentions that Allen’s visit stretches from 12- 22 February, however, it does not specify a date for her arrival on the island nation.
-
-Upon completing her Jordan visit, the U.S. Under Secretary will travel to Sri Lanka where she plans to foster dialogue on freedom of expression and democratic values with diverse groups of stakeholders, including journalists, civil society members, government officials, and the Embassy’s Youth Forum.
-
-...
-
-[Data](articles/0b0b6c52.json)
-
-[Extended Data](ext_articles/0b0b6c52.ext.json)
 
 ---

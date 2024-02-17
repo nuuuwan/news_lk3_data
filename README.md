@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 15:02:40**
+As of **2024-02-17 15:17:13**
 
 ## Newspaper Stats
 
-*Scraped **7,667** Articles*
+*Scraped **7,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,55 @@ tamilmirrorlk | 933
 adaderanalk | 939
 virakesarilk | 1,011
 adaderanasinhalalk | 1,097
-dailymirrorlk | 1,131
+dailymirrorlk | 1,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,664 (100.0%) of 7,667 articles have been extended.
+7,667 (100.0%) of 7,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### கடந்த வருடம் 470 யானைகள் உயிரிழப்பு
+### Airports facilitated 846,173 international passenger movements in January 2024: AASL
+
+*2024-02-17 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Airports-facilitated-846-173-international-passenger-movements-in-January-2024-AASL/108-277234) · `en`
+
+Colombo, Feb 17 (Daily Mirror) - While indicating a potential growth in tourist arrivals, the country's airports managed to accommodate a total of 846,173 passengers in 2024, with 207,182 being tourists, the Airport and Aviation Services (Sri Lanka) (Private) Limited (AASL) said.
+
+Accordingly, passenger arrivals were recorded from the Bandaranaike International Airport (BIA), Jaffna International Airport (JIA) and Mattala Rajapaksa International Airport (MRIA).
+
+A total of 82,327 tourists arrived in the country in January 2022 and it went up to 102,545 with an increase of 24.5% for the same period in 2023.
+
+With remarkable growth, in January 2024, a total of 208,253 tourists had arrived in the country, a growth of 103% compared to the same period in 2023.
+
+...
+
+[Data](articles/36be9b03.json)
+
+---
+
+### 470 elephants die last year
 
 *2024-02-17 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176609) · `ta`
 
-2023 ஆம் ஆண்டில் 470 காட்டு யானைகள் உயிரிழந்துள்ளதோடு, அவற்றில் 200 யானைகள் மனித செயற்பாடுகளினால் உயிரிழந்துள்ளன.
+In 2023, 470 wild elephants died, of which 200 elephants were killed by human activities.
 
-இதனை வனஜீவராசிகள் பாதுகாப்புத் திணைக்களத்தின் பணிப்பாளர் (பாதுகாக்கப்பட்ட பகுதி முகாமைத்துவம்) மஞ்சுள அமரரத்ன தெரிவித்துள்ளார்.
+The Director of the Department of Wildlife Defense (Protected Area Management) Manjula Amararatne said.
 
-அதில்,  துப்பாக்கிச் சூட்டினால் 83 யானைகளும், யானை வெடிகளால் 47 யானைகளும், மின்சார தாக்கி 66 யானைகளும், உடம்பில் நஞ்சேற்றம் இடம்பெற்றதால் 4 யானைகளும் உயிரிழந்துள்ளன.
+In it, 83 elephants were killed, 47 elephants with elephant bombs, 66 elephants and 4 elephants were killed due to poisoning.
 
-மேலும், உடல் நலக்குறைவு, இயற்கை காரணங்கள் அல்லது விபத்துக்களால் 70  யானைகளும், ரயிலில் மோதி 23  யானைகளும் உயிரிழந்துள்ளன.
+In addition, 70 elephants collided with health, natural causes or accidents and 23 elephants were killed.
 
-கடந்த வருடம் செம்டம்பர் மாதம் 27 ஆம் திகதி அதிகளவான யானை உயிரிழப்புகள் பதிவாகியுள்ளது. ரயிலில் மோதி 11 காட்டு யானைகள் உயிரிழந்துள்ளன.
+Most of the elephant casualties were reported on the 27th of September last year. 11 wild elephants have died after colliding with the train.
 
 ◼️
 
 [Data](articles/d3774dd1.json)
+
+[Extended Data](ext_articles/d3774dd1.ext.json)
 
 ---
 
@@ -396,17 +416,19 @@ Born on January 29, 1941, Gamini Jayawickrama Perera was one of the former UNP c
 
 ---
 
-### முன்னாள் அமைச்சர் காமினி ஜயவிக்ரம பெரேரா காலமானார்
+### Former Minister Gamini Jayawickrama Perera has passed away
 
 *2024-02-17 11:33:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-காமினி-ஜயவிக்ரம-பெரேரா-காலமானார்/175-333341) · `ta`
 
-முன்னாள் அமைச்சர் காமினி ஜயவிக்ரம பெரேரா தனது 83 ஆவது வயதில் காலமானார்.
+Former Minister Gamini Jayawickrama Perera passed away at the age of 83.
 
-1941 ஜனவரி 29 ஆம் திகதி பிறந்த காமினி ஜயவிக்ரம பெரேரா, ஐக்கிய தேசிய கட்சியின் முன்னாள் தவிசாளர்களில் ஒருவருமாவார். R
+Born on January 29, 1941, Gamini Jayawickrama Perera was one of the former UNP councilors. Remble
 
 ◼️
 
 [Data](articles/3f6ee188.json)
+
+[Extended Data](ext_articles/3f6ee188.ext.json)
 
 ---
 
@@ -578,17 +600,19 @@ Accordingly, the body of the murdered girl was found in a police investigation.
 
 ---
 
-### හිටපු ඇමති ගාමිණී ජයවික්‍රම සමුගනියි
+### Former minister Gamini Jayawickrama's retirement
 
 *2024-02-17 10:47:19* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-ගාමිණී-ජයවික්‍රම-සමුගනියි/11-408132) · `si`
 
-කලක් රෝගාතුරව සිටි හිටපු අමාත්‍ය ගාමිණී ජයවික්‍රම පෙරේරා අභාවප්‍රාප්ත වී තිබේ. මිය යන විට ඔහුගේ වයස අවුරුදු 83කි.
+Former Minister Gamini Jayawickrama Perera has passed away for a while.He was 83 years old at the time of his death.
 
-ගාමිණී ජයවික්‍රම පෙරේරා මහතාගේ සුවදුක් විමසීම සඳහා ජනපති රනිල් වික්‍රමසිංහ මහතාද මීට දින කිහිපයකට පෙර ඔහුගේ නිවසට ගියේය.
+Ranil Wickremesinghe went to his home a few days before Gamini Jayawickrama Perera.
 
 ◼️
 
 [Data](articles/e83b6104.json)
+
+[Extended Data](ext_articles/e83b6104.ext.json)
 
 ---
 
@@ -2023,19 +2047,5 @@ As many as 14 suspects have thus far been arrested in connection with the quintu
 [Data](articles/7fd7cf9f.json)
 
 [Extended Data](ext_articles/7fd7cf9f.ext.json)
-
----
-
-### 'Pansale Dansala'
-
-*2024-02-16 23:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Pansale-Dansala/110-277177) · `en`
-
-The Dansala program, initiated by Naga Vihara Kotte under the theme 'Pansale Dansala,' amid the COVID-19 pandemic, perseveres to this day, taking place every Friday. Individuals are observed receiving sustenance at the Dansala, a testament to the ongoing dedication to serving the community during these challenging times. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/be28d063.json)
-
-[Extended Data](ext_articles/be28d063.ext.json)
 
 ---

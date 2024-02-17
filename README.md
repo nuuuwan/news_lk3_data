@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 10:32:56**
+As of **2024-02-17 10:49:59**
 
 ## Newspaper Stats
 
-*Scraped **7,624** Articles*
+*Scraped **7,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 645
 tamilmirrorlk | 926
 adaderanalk | 932
 virakesarilk | 1,002
-adaderanasinhalalk | 1,089
+adaderanasinhalalk | 1,090
 dailymirrorlk | 1,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,624 (100.0%) of 7,624 articles have been extended.
+7,625 (100.0%) of 7,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### Gamini Jayawickrama Perera passes away
+
+*2024-02-17 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193497) · `si`
+
+◼️
+
+[Data](articles/f7c4bbf4.json)
+
+[Extended Data](ext_articles/f7c4bbf4.ext.json)
+
+---
 
 ### Ravichandran gets out of Ashwin's tournament
 
@@ -2043,25 +2055,5 @@ Amidst economic dynamics, the export sector exhibited robust growth in 2023, the
 [Data](articles/9aec96bb.json)
 
 [Extended Data](ext_articles/9aec96bb.ext.json)
-
----
-
-### Russia Opposition Leader Alexe Navalni's sudden death
-
-*2024-02-16 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176567) · `ta`
-
-According to reports, Russian opposition leader and Vladimir Putin, who criticized Vladimir Putin, has died in Alexe Navalni jail.
-
-He died in a prison in Arctic, Russia Prison sources said.
-
-Russia Prison sources said that Navalni suddenly suffered a sudden illness on Friday.
-
-Attempts to save him have not been successful, he died, hospital sources said.
-
-◼️
-
-[Data](articles/ca0d0b6c.json)
-
-[Extended Data](ext_articles/ca0d0b6c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 16:32:47**
+As of **2024-02-17 16:47:17**
 
 ## Newspaper Stats
 
-*Scraped **7,670** Articles*
+*Scraped **7,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,64 @@ adalk | 648
 tamilmirrorlk | 933
 adaderanalk | 940
 virakesarilk | 1,011
-adaderanasinhalalk | 1,098
+adaderanasinhalalk | 1,099
 dailymirrorlk | 1,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,669 (100.0%) of 7,670 articles have been extended.
+7,671 (100.0%) of 7,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### රාජකාරි වැටලීමකදී නිලධාරියෙක් දියේ ගිලී අතුරුදන්
+### Officers involved in bus fraud suspended
+
+*2024-02-17 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193508) · `si`
+
+Transport, Highways and Mass Media Minister Dr. Bandula Gunawardena says that the suspects were banned by the removal of the SLTB buses and boarding the SLTB buses.
+
+It is with a fraud that had been changed and repaired by a bus that was spent on repairing.
+
+The second stage of 200 buses who were removed from running was held on the 9th.
+
+It is the chairman of Prime Minister Dinesh Gunawardena and Transport Minister Bandula Gunawardena.
+
+Under this, the Depot to the Ampara depot and the buses were paid Rs.
+
+The bus bearing the NB-5430 removed from the drive is to repair the bus.
+
+However, the Ampara Depot authorities have done the bus depot authority to the festive ceremony to a bus, which was traveling by the bus.
+
+The Ceylon Transport Board is conducting an investigation into the incident.
+
+◼️
+
+[Data](articles/7125e63b.json)
+
+[Extended Data](ext_articles/7125e63b.ext.json)
+
+---
+
+### Missing an officer drowns in a raid
 
 *2024-02-17 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193506) · `si`
 
-පොලීසිය සඳහන් කළේ ඊයේ (16) උදෑසන කරාඩුගල පිහිඹියාව ප්‍රදේශයේ ගල්ඔයේ ගිලී පුද්ගලයෙකු අතුරුදන් වී ඇති බවය.
+Police said the police said that a person drowned in Galombiya in Karandagala yesterday morning.
 
-මෙලෙස අතුරුදන් වී ඇත්තේ 53 හැවිරිදි බිබිල අඩවි වන කාර්යාලයට අයත් ක්ෂේත්‍ර නිලධාරියෙකි.
+The victim is a Field Officer belonging to the office of 53-year-old Bibilai sites.
 
-බිබිල අඩවි වන නිලධාරී කාර්යාලයේ නිලධාරීන් කණ්ඩායමක් පිහිඹියාව ප්‍රදේශයේ වැටලීම් රාජකාරියක් සඳහා ගොස් සිටියදී මෙම අනතුර සිදුවී ඇති බව දැනට සිදුකර ඇති විමර්ශනවලදී හෙළිවී ඇත.
+Investigations have revealed that a group of officials of the other office of the Bibile Designation Official Officer of Office.
 
-අතුරුදන්වූ නිලධාරියා සොයා නාවික හමුදාව සහ පොලීසිය මෙහෙයුම් ආරම්භ කර තිබේ.
+The Navy and Police have commenced operations in search of the missing officer.
 
 ◼️
 
 [Data](articles/f4e8e08a.json)
+
+[Extended Data](ext_articles/f4e8e08a.ext.json)
 
 ---
 
@@ -2027,25 +2057,5 @@ Again, at a function to mark the inauguration of the Anuradhapura North Water Su
 [Data](articles/cdf6bb04.json)
 
 [Extended Data](ext_articles/cdf6bb04.ext.json)
-
----
-
-### The Health Sector and a Nation held to Ransom
-
-*2024-02-17 00:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Health-Sector-and-a-Nation-held-to-Ransom/172-277213) · `en`
-
-The health sector is one of the most important departments in any country. Recently, we had a Health Minister who dumped drugs unfit for human consumption on an unsuspecting population. Trade unions demanded his prosecution, and they were right.
-
-Now these self-same unions are attempting to hold the nation to ransom via unreasonable demands for what amounts to a huge Rs. 35,000 travel allowance.
-
-Two days ago, striking health workers once again called off their trade union action. This has been the second time within a week, these workers have taken trade union action demanding a Disturbance, Availability and Transport (DAT) allowance of Rs. 35,000.
-
-Calling off the strike, union authorities declared they called off their action further to the Health Ministry promising to discuss their grievances. What is strange about the sudden about turn however is that these TUs were days earlier in discussion with the health authorities regarding this very demand.
-
-...
-
-[Data](articles/a9fbebb1.json)
-
-[Extended Data](ext_articles/a9fbebb1.ext.json)
 
 ---

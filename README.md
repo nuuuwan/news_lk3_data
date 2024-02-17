@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 09:52:07**
+As of **2024-02-17 10:03:38**
 
 ## Newspaper Stats
 
-*Scraped **7,616** Articles*
+*Scraped **7,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 645
 tamilmirrorlk | 926
 adaderanalk | 932
 virakesarilk | 1,001
-adaderanasinhalalk | 1,083
+adaderanasinhalalk | 1,087
 dailymirrorlk | 1,125
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,616 (100.0%) of 7,616 articles have been extended.
+7,620 (100.0%) of 7,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### Russia warms up from the death of the Russian Opposition Leader
+
+*2024-02-17 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193494) · `si`
+
+The Russian government has warned against people who take measures to take action against the death of the Russian Opposition Leader Alexi Navalni.
+
+The Russian opposition leader, who was imprisoned, died yesterday (16) due to a sudden illness.
+
+Accordingly, a Russian government authority has stated that his death will not be able to conduct violent protests throughout the division.
+
+However, various parties have organized the street world festivals in Moscow to honor the Russian opposition leader Alexi Navalni.
+
+◼️
+
+[Data](articles/351397a5.json)
+
+[Extended Data](ext_articles/351397a5.ext.json)
+
+---
 
 ### Beliatta firing: Police seeking public help to arrest 3 suspects
 
@@ -108,6 +128,28 @@ Upon completing her Jordan visit, the U.S. Under Secretary will travel to Sri La
 
 ---
 
+### Agreement between Ukraine and France
+
+*2024-02-17 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193493) · `si`
+
+Ukraine and France have reached a bilateral security agreement in a 10-year bilateral security agreement.
+
+According to foreign media, French President Vladimir Celenceky and French President Eashanule Macron have been signed for this agreement.
+
+The France also agreed to the Ukraine to hand over an additional amount of war aid worth 3 billion euro.
+
+French President Emanuel Mcroon has stated that the future of Europe cannot depend on the US election.
+
+The President has also reached the same agreement with Germany a few hours before the France, France.
+
+◼️
+
+[Data](articles/321d58bc.json)
+
+[Extended Data](ext_articles/321d58bc.ext.json)
+
+---
+
 ### Water supply suspended for 16 hours in parts of Colombo today
 
 *2024-02-17 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97339/water-supply-suspended-for-16-hours-in-parts-of-colombo-today) · `en`
@@ -180,6 +222,24 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. (Of)
 
 ---
 
+### Dambulla City spring begins
+
+*2024-02-17 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193492) · `si`
+
+The Twenty20 cricket tournament between the Afghan group and Sri Lanka team will commence today.
+
+The first match is scheduled to be held at Dambulla International Cricket Stadium today at 07.00 pm.
+
+Leader of the Twenty Twenty Twenty team said that the Sri Lankan team will be a good mentality to win the Test and ODI series.
+
+◼️
+
+[Data](articles/d81b2b67.json)
+
+[Extended Data](ext_articles/d81b2b67.ext.json)
+
+---
+
 ### Public toilet fee;Release announcement
 
 *2024-02-17 08:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-கழிப்பறை-கட்டணம்-வெளியான-அறிவிப்பு/175-333336) · `ta`
@@ -199,6 +259,22 @@ According to the National Transport Commission, the fee will be charged from yes
 [Data](articles/5d6028b7.json)
 
 [Extended Data](ext_articles/5d6028b7.ext.json)
+
+---
+
+### Trump is order to pay a compensation of 354 million
+
+*2024-02-17 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193491) · `si`
+
+A New York President has ordered a New York President Donald Trump to pay $ 354 million for a fraud.
+
+Donald Trump is also banned by the courts for three years in New York.
+
+◼️
+
+[Data](articles/f4f2cf4d.json)
+
+[Extended Data](ext_articles/f4f2cf4d.ext.json)
 
 ---
 
@@ -1981,103 +2057,5 @@ As a result, the doctor was forcibly held by minor workers in their office premi
 [Data](articles/6d6b6f3e.json)
 
 [Extended Data](ext_articles/6d6b6f3e.ext.json)
-
----
-
-### Sri Lanka rupee closes at 312.20/35 to the US dollar
-
-*2024-02-16 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-312-20-35-to-the-us-dollar-151217/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 312.20/35 to the US dollar Friday, from 313.70/90 on Thursday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.60/70 percent up from 10.50/60 percent.
-
-A bond maturing on 15.09.2027 closed at 11.55/75 percent from 11.45/65 percent.
-
-A bond maturing on 15.03.2028 closed at 11.90/12.05 percent from 11.95/12.10 percent.
-
-A bond maturing on 15.07.2029 closed at 12.20/45 percent from 12.20/50 percent.
-
-A bond maturing on 15.05.2030 closed at 12.30/50 percent up from 12.20/50 percent.
-
-A bond maturing on 01.07.2032 closed at 12.55/75 percent up from 12.50/70 percent. (Colombo/Feb16/2024)
-
-◼️
-
-[Data](articles/d5d9b8db.json)
-
-[Extended Data](ext_articles/d5d9b8db.ext.json)
-
----
-
-### A group of suspects in court in court
-
-*2024-02-16 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193474) · `si`
-
-It is reported that Kaduwela Magistrate's Court today (16), reports say.
-
-As a result, it was reported that there was a hindrance to the unrest in the courts.
-
-Police said that nearly 150 suspects were held in the prison buses from the prison.
-
-Several prison officials went into the cell and prevent the conflict.
-
-As a result, the court had been stopped for several minutes.
-
-The external people who arrived in court remained in court until the courts were stopped at the courts and taken to the suspects from the prison.
-
-Accordingly, prison officials have taken measures to be taken to the prison soon and after lunch, reports say.
-
-◼️
-
-[Data](articles/0af9d646.json)
-
-[Extended Data](ext_articles/0af9d646.ext.json)
-
----
-
-### Israeli minister calls on President Ranil, discusses Gaza conflict
-
-*2024-02-16 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97329/israeli-minister-calls-on-president-ranil-discusses-gaza-conflict) · `en`
-
-President Ranil Wickremesinghe, during a significant discussion with an Israeli minister, has called for an armistice in the besieged Palestinian enclave Gaza.
-
-Israel’s Minister of Transport and Road Safety Brig. Gen. Miri Regev called on the Sri Lankan leader on Friday (Feb.16) and discussed crucial matters concerning the safe return of Israeli hostages, according to the President’s Media Division (PMD).
-
-During the diplomatic encounter, President Wickremesinghe has reaffirmed Sri Lanka’s unwavering commitment to advocating for the safety of the hostages.
-
-However, he went on to call for an immediate cessation of violence, while underscoring that peace and stability in the region are of paramount importance.
-
-Highlighting Sri Lanka’s stance on the Israeli-Palestinian conflict, President Wickremesinghe reiterated the nation’s support for the establishment of a Palestinian State.
-
-He also emphasized the significance of ensuring Israel’s security, fostering a balanced approach to regional peace.
-
-...
-
-[Data](articles/4324e0e7.json)
-
-[Extended Data](ext_articles/4324e0e7.ext.json)
-
----
-
-### Gammanpila to present private bill to remove police powers from Sri Lanka’s provinces
-
-*2024-02-16 16:50:00* · [`economynextcom`](https://economynext.com/gammanpila-to-present-private-bill-to-remove-police-powers-from-sri-lankas-provinces-151182/) · `en`
-
-ECONOMYNEXT — Former minister Udaya Gammanpila plans to present a private member’s bill to parliament seeking a ’22nd amendment’ to Sri Lanka’s constitution seeking the removal of police powers devolved to the provinces by the 13th amendment.
-
-Gammanpila told reporters that devolving police powers to the provincial councils could pose a threat to national security.
-
-“If there is a separatist war in the future, that war will be fought between the provincial police of the north and the Sri Lanka Army. Both will be official armies,” the former minister who now sits in the opposition said.
-
-“Countries that work against Sri Lanka could openly, without hesitation, provide aid to that separatist armed movement, or in the other words, the northern police army,” he said.
-
-Asked if his bill could get a two-thirds majority in parliament, Gammanpila said it would test parliament’s resolve.
-
-...
-
-[Data](articles/194f6a56.json)
-
-[Extended Data](ext_articles/194f6a56.ext.json)
 
 ---

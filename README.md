@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 19:49:54**
+As of **2024-02-17 20:02:25**
 
 ## Newspaper Stats
 
-*Scraped **7,689** Articles*
+*Scraped **7,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 399
 dailyftlk | 415
 adalk | 649
 tamilmirrorlk | 934
-adaderanalk | 945
+adaderanalk | 946
 virakesarilk | 1,015
 adaderanasinhalalk | 1,103
 dailymirrorlk | 1,135
@@ -26,11 +26,27 @@ dailymirrorlk | 1,135
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,689 (100.0%) of 7,689 articles have been extended.
+7,690 (100.0%) of 7,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### Chief Prelates raise concerns with President on state assets privatisation
+
+*2024-02-17 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97354/chief-prelates-raise-concerns-with-president-on-state-assets-privatisation) · `en`
+
+The Chief Prelates of the three Buddhist Chapters have raised deep concerns about a potential risk of emerging social insecurity due to the privatisation of state assets.
+
+They communicated this in a letter addressed to President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/7b83ac7d.json)
+
+[Extended Data](ext_articles/7b83ac7d.ext.json)
+
+---
 
 ### U.S. Under Secretary Liz Allen arrives in Sri Lanka
 
@@ -2065,23 +2081,5 @@ Additionally, naval personnel from both nations are anticipated to participate i
 [Data](articles/26caff3c.json)
 
 [Extended Data](ext_articles/26caff3c.ext.json)
-
----
-
-### Waning hegemony
-
-*2024-02-17 05:28:48* · [`dailyftlk`](https://www.ft.lk/columns/Waning-hegemony/4-758585) · `en`
-
-With the rise of China and much of Asia, the US no longer dominates the world economy
-
-In the 16th century, Spain became the first global empire. Spain flexed its military prowess, but also prospered culturally, architecturally, and formulated ground-breaking ideas on natural law, sovereignty, international law and economics. They even themselves philosophically questioned the validity of imperialism!
-
-By the 19th century, Britain became a global hegemon. This was inaugurated by the British Empire’s earlier defeat of the Spanish Armada coinciding with the flowering of the Elizabethan age, vast voyages of exploration and soon, the greatest navy the world had seen. This continued through Victorian England and the industrial revolution, until two world wars displaced an Empire on which once “the sun never set.”
-
-...
-
-[Data](articles/f4056eee.json)
-
-[Extended Data](ext_articles/f4056eee.ext.json)
 
 ---

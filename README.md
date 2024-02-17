@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 17:52:53**
+As of **2024-02-17 18:07:11**
 
 ## Newspaper Stats
 
-*Scraped **7,679** Articles*
+*Scraped **7,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 649
 tamilmirrorlk | 934
 adaderanalk | 942
 virakesarilk | 1,014
-adaderanasinhalalk | 1,100
-dailymirrorlk | 1,132
+adaderanasinhalalk | 1,101
+dailymirrorlk | 1,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,679 (100.0%) of 7,679 articles have been extended.
+7,682 (100.0%) of 7,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### The Samuritan amends eligibility
+
+*2024-02-17 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193511) · `si`
+
+The educational qualifications of the peaceful appointments have been revised once again.
+
+Accordingly, a new gazette sheet has issued a new gazette to the GCE Ordinary Assistance to the GCE Ordinary Level examination.
+
+Minister Dr. Wijedasa Rajapakse was set to the highest level of educational qualifications when a peaceful appointment should be obtained by a gazette on November 27.
+
+However, the Ministry of Justice pointed out a special gazette notification on the 13th.
+
+However, though, a respected religious leader or union chairman will be able to appoint an exemplary service to the community as a peacemore to the community, but he can make him a peaceful Minister to the Minister.
+
+◼️
+
+[Data](articles/aae9576b.json)
+
+[Extended Data](ext_articles/aae9576b.ext.json)
+
+---
 
 ### Notice of a fake application
 
@@ -98,6 +120,26 @@ The girl's mother and father were living in the village of Puttalam - Pukkulam v
 
 ---
 
+### Britain’s oldest warship named HMS Trincomalee
+
+*2024-02-17 16:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Britains-oldest-warship-named-HMS-Trincomalee/108-277239) · `en`
+
+The HMS Trincomalee which was constructed in 1817 in Mumbai stands as the Royal Navy's last ship built in India, boasting over two centuries of history.
+
+According to the National Museum of the Royal Navy, prior to its current mooring in Hartlepool, this illustrious ship sailed more than 100,000 miles worldwide. Remarkably, HMS Trincomalee never engaged in battle but holds a rich narrative of service, ranging from patrol and protection to exploration.
+
+Now anchored in Hartlepool, HMS Trincomalee represents one of the two Leda-Class Frigates commissioned by the Royal Navy in 1812. Its name commemorates the 1782 Battle of Trincomalee off the coast of the Indian subcontinent, the historic clash between British and French fleets during the Anglo-French War (1778-1783).
+
+The choice to build in India was influenced by a scarcity of oak in England, exacerbated by the ongoing Napoleonic Wars, and the strategic location of Bombay.
+
+...
+
+[Data](articles/ba9a9979.json)
+
+[Extended Data](ext_articles/ba9a9979.ext.json)
+
+---
+
 ### Officers involved in bus fraud suspended
 
 *2024-02-17 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193508) · `si`
@@ -147,6 +189,26 @@ The deal is also to help pave the way towards Ukraine’s future integration int
 [Data](articles/22387b18.json)
 
 [Extended Data](ext_articles/22387b18.ext.json)
+
+---
+
+### Students hospitalized after suspected drug ingestion, one in critical condition
+
+*2024-02-17 16:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Students-hospitalized-after-suspected-drug-ingestion-one-in-critical-condition/108-277238) · `en`
+
+Ibbagamuwa, Feb 17 (Daily Mirror) - The Maduragoda Police have initiated an inquiry into an incident where four primary school students from the Ibbagamuwa region fell unconscious, suggesting a possible connection to the consumption of an unidentified type of pill.
+
+Following the incident, the four intoxicated school students were rushed to the Rambadagalla hospital and transferred to the Kurunegala Teaching Hospital
+
+According to reports from local authorities, one of the students was found to be heavily intoxicated, prompting immediate medical attention.
+
+Hospital sources indicated that the students' sudden loss of consciousness raised concerns of possible drug ingestion.
+
+◼️
+
+[Data](articles/e3d24e35.json)
+
+[Extended Data](ext_articles/e3d24e35.ext.json)
 
 ---
 
@@ -2007,65 +2069,5 @@ Later in 1981 I began working as a staff reporter on the English daily “The Is
 [Data](articles/665b4fb4.json)
 
 [Extended Data](ext_articles/665b4fb4.ext.json)
-
----
-
-### Arrested two persons involved in theft
-
-*2024-02-17 02:35:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டில்-ஈடுபட்ட-இருவர்-கைது/175-333335) · `ta`
-
-Poovarasankulam police said yesterday that two persons have been arrested in connection with more than 30 thefts in various places in Vavuniya.
-
-Police said the two were arrested while carrying out investigations on a complaint received in connection with the theft.
-
-Police said that during the investigation into the suspects, many items were recovered and that they were associated with more than 30 thefts.
-
-In more than 30 places in the Vavuniya district, the two have been involved in the stolen incidents of stolen materials, such as pipelines, pipe wells, cylinders, fans and cunnels, and the stolen large quantities have been recovered from them.. (A)
-
-◼️
-
-[Data](articles/b6b5770d.json)
-
-[Extended Data](ext_articles/b6b5770d.ext.json)
-
----
-
-### Sri Lanka is backwards
-
-*2024-02-17 02:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பின்னோக்கிச்-செல்கிறது/175-333334) · `ta`
-
-Human Rights Watch has warned that Sri Lanka is backwards in the quality of human rights and social justice.
-
-The Human Rights Watch said that Sri Lanka continues to be inconvenienced by the economic crisis caused by misconduct and responsibility.
-
-Instead of paying attention to social justice and rights, the Human Rights Watch has pointed out that the new government led by President Ranil Wickremesinghe has focused on suppressing disagreements and limiting international attention on human rights.
-
-Deputy Director of Human Rights Watch Meenakshi Ganguly said in a statement that Sri Lanka is backwards under the administration of Ranil Wickremesinghe. (A)
-
-◼️
-
-[Data](articles/7223493f.json)
-
-[Extended Data](ext_articles/7223493f.ext.json)
-
----
-
-### Youth arrested for stealing gold ornaments
-
-*2024-02-17 02:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-ஆபரணங்களை-திருடிய-இளைஞர்-கைது/175-333333) · `ta`
-
-A 32 -year -old youth has been arrested yesterday in connection with theft of jewelery of a man who was trained at the Vavuniya City Council ground, Vavuniya police said.
-
-A woman from Dhonikkal, Vavuniya has visited the Vavuniya City Council ground for a walk for the past few days. As usual, he came to the city council yesterday evening.
-
-At the time, he was locked up in his motorcycle seat in the Motor Cycle Motor Bicycle at the City Council premises, including the chain and insulation he was wearing.
-
-It is noteworthy that when the woman arrived to take her motorcycle after the walk, her motorcycle was broken and the jewelery was stolen in it.. (A)
-
-◼️
-
-[Data](articles/cb6b242b.json)
-
-[Extended Data](ext_articles/cb6b242b.ext.json)
 
 ---

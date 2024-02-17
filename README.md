@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 18:33:02**
+As of **2024-02-17 18:49:53**
 
 ## Newspaper Stats
 
@@ -26,29 +26,33 @@ dailymirrorlk | 1,135
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,684 (100.0%) of 7,686 articles have been extended.
+7,686 (100.0%) of 7,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### விபத்தை ஏற்படுத்தி ரயிலை சேதப்படுத்திய ரஷ்ய பயணிக்கு  1.78 மில்லியன் ரூபா அபாராதம்!
+### 1.78 million rupees for a Russian passenger who damaged the train
 
 *2024-02-17 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176627) · `ta`
 
-ரயில் வருவதை பொருட்படுத்தாமல் காரைச் செலுத்தி ரயில் கடவையைக் கடக்க முற்பட்டு கடவையையும் ரயிலையும் சேதப்படுத்திய ரஷ்ய சுற்றுலா பயணிக்கு  காலி மேலதிக நீதவான் லக்மினி விதானகமகே அபாரதம் விதித்துள்ளார்.
+The Russian tourist Lakmini Vidanagamage has been fined for a Russian tourist who tried to cross the train and cross the railway crossing, regardless of the arrival of the train.
 
-அதன்படி, ஏற்பட்ட சேதங்களுகாக ரயில் திணைக்களத்திற்கு  1.78 மில்லியன் ரூபாவும், போக்குவரத்து விதிமீறலுக்கு 56,000 ரூபாவும்  செலுத்துமாறு உத்தரவிட்டப்பட்டுள்ளது.
+Accordingly, the Railway Department has been ordered to pay 1.78 million rupees for the damage and Rs 56,000 for the transportation violation.
 
-கடந்த ஜனவரி மாதம் 23 ஆம் திகதி பெலியத்தவில் இருந்து மஹோ நோக்கிச் சென்ற ரயில் மீதும் கடவை மீதும் காரை மோதி சேதத்தை ஏற்படுத்தினார்.
+On January 23 last year, the car crashed into a train and a train traveling from Beliatta to Maho.
 
-இதனையடுத்து காரில் பயணித்த ரஷ்யப் பிரஜையும் மற்றவரும் காயமடைந்து கராப்பிட்டிய போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+Subsequently, the Russian citizen and others who were traveling in the car were injured and admitted to the Karapitiya Teaching Hospital.
 
-இந்நிலையில், போக்குவரத்து விதிகளின் கீழ் சுற்றுலாப் பயணிக்கு எதிராக பொலிஸார் நடவடிக்கை எடுத்ததோடு, ரயில் சொத்துகளுக்கு ஏற்பட்ட சேதங்களுக்கு ரயில் திணைக்களம் இழப்பீடு கோரியிருந்த்து.
+In this case, the police have taken action against the tourist under traffic rules and the Railway Department has sought compensation for the damage caused by the railway property.
 
-...
+Ahangama Police Station Superintendent Nalaka Jayaweera and Euadhavipa Police Inspector Sandana presented the submissions on the state side and the lawyers Bamuthi Weerasuriya and Sisira Weerasuriya were present for the suspect.
+
+◼️
 
 [Data](articles/92f42411.json)
+
+[Extended Data](ext_articles/92f42411.ext.json)
 
 ---
 
@@ -65,6 +69,8 @@ Late Admiral Basil Goonesekara was born in 1929. His remains lie at No. 50/06, A
 ◼️
 
 [Data](articles/b6701303.json)
+
+[Extended Data](ext_articles/b6701303.ext.json)
 
 ---
 

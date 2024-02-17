@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 14:48:56**
+As of **2024-02-17 15:02:40**
 
 ## Newspaper Stats
 
-*Scraped **7,664** Articles*
+*Scraped **7,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 394
 economynextcom | 399
 dailyftlk | 415
-adalk | 647
-tamilmirrorlk | 932
+adalk | 648
+tamilmirrorlk | 933
 adaderanalk | 939
-virakesarilk | 1,010
+virakesarilk | 1,011
 adaderanasinhalalk | 1,097
 dailymirrorlk | 1,131
 
@@ -26,45 +26,73 @@ dailymirrorlk | 1,131
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,658 (99.9%) of 7,664 articles have been extended.
+7,664 (100.0%) of 7,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### நிந்தவூர் கடலில் மூழ்கி உயிரிழந்த இரு மாணவர்களின் சடலங்களும் மீட்பு : ஒருமித்தே விடைபெற்ற நண்பர்கள்
+### கடந்த வருடம் 470 யானைகள் உயிரிழப்பு
 
-*2024-02-17 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176612) · `ta`
+*2024-02-17 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176609) · `ta`
 
-மாளிகைக்காடு - சாய்ந்தமருது பிரதேசத்தைச் சேர்ந்த இரண்டு மாணவர்கள் நிந்தவூர் பிரதேச கடலில் நேற்று வெள்ளிக்கிழமை மாலை புகைப்படம் எடுத்து விளையாடிக் கொண்டிருந்தபோது கடலில் அடித்துச் செல்லப்பட்டு காணாமல் போயிருந்தனர்.
+2023 ஆம் ஆண்டில் 470 காட்டு யானைகள் உயிரிழந்துள்ளதோடு, அவற்றில் 200 யானைகள் மனித செயற்பாடுகளினால் உயிரிழந்துள்ளன.
 
-அதில் சூர்தீன் முஹம்மட் முன்சிப் (வயது 15) எனும் மாளிகைக்காடு பிரதேசத்தை சேர்ந்த மாணவனின் ஜனாஸா இன்று சனிக்கிழமை காலை மீட்கப்பட்டது. அதனை தொடர்ந்து சாய்ந்தமருதைச் சேர்ந்த ரிஸ்வான் முஹம்மட் இல்ஹம் (வயது 15) எனும் மாணவனின் ஜனாஸா இன்று மதியம் மீட்கப்பட்டது.
+இதனை வனஜீவராசிகள் பாதுகாப்புத் திணைக்களத்தின் பணிப்பாளர் (பாதுகாக்கப்பட்ட பகுதி முகாமைத்துவம்) மஞ்சுள அமரரத்ன தெரிவித்துள்ளார்.
 
-சம்பவம் தொடர்பில் தெரியவருவதாவது, சாய்ந்தமருதின் பிரபல பாடசாலை மாணவர்களான 13 மற்றும் 15 வயதுக்குட்பட்ட 08 மாணவர்கள் நேற்று வெள்ளிக்கிழமை ஜும்மா தொழுகையை முடித்துக்கொண்டு துவிச்சக்கர வண்டியில் நிந்தவூர்- ஒலுவில் எல்லை கடற்கரைக்கு சென்றனர்.
+அதில்,  துப்பாக்கிச் சூட்டினால் 83 யானைகளும், யானை வெடிகளால் 47 யானைகளும், மின்சார தாக்கி 66 யானைகளும், உடம்பில் நஞ்சேற்றம் இடம்பெற்றதால் 4 யானைகளும் உயிரிழந்துள்ளன.
 
-அங்கு புகைப்படம் எடுத்து விளையாடிக் கொண்டிருந்த போது அன்று மாலை 04.20 மணி அளவில் அதில் இருவரை கடலலையில் அள்ளுண்டு சென்றுவிட்டதாக விசாரணையில் தெரியவந்தது.
+மேலும், உடல் நலக்குறைவு, இயற்கை காரணங்கள் அல்லது விபத்துக்களால் 70  யானைகளும், ரயிலில் மோதி 23  யானைகளும் உயிரிழந்துள்ளன.
 
-கடலலையில் அள்ளுண்டு சென்று காணாமல் போன மாணவர்களை  மீனவர்களும், பொதுமக்களும் தேடி அலைந்த நிலையில் சடலமாக மீட்கப்பட்டுள்ளனர்.
+கடந்த வருடம் செம்டம்பர் மாதம் 27 ஆம் திகதி அதிகளவான யானை உயிரிழப்புகள் பதிவாகியுள்ளது. ரயிலில் மோதி 11 காட்டு யானைகள் உயிரிழந்துள்ளன.
 
-...
+◼️
 
-[Data](articles/0063a511.json)
+[Data](articles/d3774dd1.json)
 
 ---
 
-### சிற்றூழியர்களின் அதிரடி முடிவு
+### The bodies of two students who died in the sea of Nintavur
+
+*2024-02-17 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176612) · `ta`
+
+Two students from the Malikaikkadu - Sainthamaruthu area were missing in the sea on Friday evening at the Nintavur area.
+
+Janasa, a student from Malikaikkadu area, Surdeen Muhammad Muhammad (age 15), was rescued this morning on Saturday morning.. The Janasa of Rizwan Muhammad Ilham (age 15) from Sainthamaruthi was recovered this afternoon.
+
+According to the incident, 08 students under the age of 13 and 15 of Sainthamaruthin, who were 13 and 15 years of age, finished the Jummah prayer yesterday and went to the Nindavur-Oluvil border beach in a bicycle.
+
+Investigations revealed that the two men had gone to the sea at 04.20 pm that evening.
+
+Fishermen and civilians have been found dead in search of missing students who went to the sea.
+
+The Samanthurai Magistrate's Court, who visited the scene, investigated the death of Justice MR Sabir.
+
+Further inquiries are being made by the sub -inspectors of the Nintavur Police Station MA. Basil, r. Wimalendran -led police are carrying out.
+
+◼️
+
+[Data](articles/0063a511.json)
+
+[Extended Data](ext_articles/0063a511.ext.json)
+
+---
+
+### Creek results
 
 *2024-02-17 14:09:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிற்றூழியர்களின்-அதிரடி-முடிவு/175-333343) · `ta`
 
-கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் டொக்டர் ருக்ஷான் பெல்லனவை அந்தப் பதவியில் இருந்து நீக்கும் வரையில் தமது போராட்டத்தை கைவிடப் போவதில்லை என கொழும்பு தேசிய வைத்தியசாலையின் சிற்றூழியர்கள் தெரிவித்துள்ளனர்.
+Colombo National Hospital's Deputy Director Dr. Rukshan Bellana will not be abandoned until he is removed from the post, the Colombo National Hospital has said.
 
-அண்மையில் முன்னெடுக்கப்பட்டுள்ள பணிப்புறக்கணிப்பின் போது டொக்டர் ருக்ஷான் பெல்லான சிற்றூழியர்கள் தொடர்பில் தெரிவித்த கருத்துக்களுக்கு எதிராகவே அவர்கள் இந்த நடவடிக்கையை ஆரம்பித்துள்ளனர்.
+They have begun the move against Dr. Rukshan Bellana's comments on the recent workshop.
 
-இதேவேளை, தேசிய வைத்தியசாலையின் சிற்றூழியர்கள் நேற்று (16) டொக்டர் ருக்ஷான் பெல்லனவை அவரது அலுவலகத்தில் வைத்து பலவந்தமாகத் தடுத்து வைத்து, சுமார் 6 மணித்தியாலங்களின் பின்னர் அவர் பாதுகாப்புப் படையினரின் தலையீட்டுடன் அலுவலகத்தை விட்டு வெளியேறியமை குறிப்பிடத்தக்கது. R
+Meanwhile, the National Hospital's short -lived men forcibly detained Dr. Rukshan Bellana at his office yesterday (16) and left the office with the intervention of security forces after about 6 hours.. Remble
 
 ◼️
 
 [Data](articles/5bcf944b.json)
+
+[Extended Data](ext_articles/5bcf944b.ext.json)
 
 ---
 
@@ -90,39 +118,43 @@ A collective of 72 health sector trade unions recently carried out an island-wid
 
 ---
 
-### මත් පෙති වර්ගයක් පානය කළ සිසුන් සිව් දෙනෙකු රෝහල්ගත කෙරේ
+### Four students have been hospitalized for drinking drugs
 
 *2024-02-17 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193505) · `si`
 
-කුරුණෑගල - මාදුරාගොඩ ප්‍රදේශයේ ප්‍රාථමික විද්‍යාලයක 05 ශ්‍රේණියේ ඉගෙනුම ලබන සිසුන් සිව් දෙනෙකු මත් පෙති වර්ගයක් පානය කිරීම හේතුවෙන් රෝහල්ගත කර තිබේ.
+Four students in the Maduragoda area have been hospitalized due to drinking drugs.
 
-රෝහල්ගත කර සිටින සිසුවෙක් තම පියා විසින් සඟවා තිබූ කිසියම් පෙති වර්ගයක් පාසලට ගෙන ගොස් සෙසු සිසුන් තිදෙනා සමඟ පානය කිරීම නිසා ඇති වූ අසාත්මිකතාවක් හේතුවෙන් ඔවුන් කුරුණෑගල මහ රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පැවසුවේය.
+A student hospitalized has been admitted to the Kurunegala General Hospital due to an allergic caused by his father to school.
 
-පොලීසිය සඳහන් කළේ, මත්පෙති පාසලට රැගෙන ගිය දරුවාගේ පියා හෙරොයින් මත්ද්‍රව්‍යයට තදින් ඇබ්බැහි වූවෙකු වන අතර, ඔහුට මත්ද්‍රව්‍ය නඩු කිහිපයක් ද පවතින බවයි.
+The police said that the father of the child who was taken to alcohol to school heroin, heroin was a tight addict.
 
-සිද්ධිය සම්බන්ධයෙන් මාදුරාගොඩ පොලිස් ස්ථානය මගින් වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+The Maduraagoda Police Station is conducting further investigations.
 
 ◼️
 
 [Data](articles/9bde245b.json)
 
+[Extended Data](ext_articles/9bde245b.ext.json)
+
 ---
 
-### දැවැන්ත වෘත්තීය ක්‍රියාමාර්ගයක් ගැන දැනුම්දීමක්
+### Notification of a massive career action
 
 *2024-02-17 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193504) · `si`
 
-ගුරු විදුහල්පතිවරුන්ගේ වැටුප් විෂමතාව සම්බන්ධයෙන් පැන නැඟී ඇති ගැටලු විසඳීමට ආණ්ඩුව අපොහොසත් වන්නේ නම්, එළැඹෙන 20 වැනි දා මධ්‍යම පළාත කේන්ද්‍ර කරගනිමින් දැවැන්ත වෘත්තීය ක්‍රියාමාර්ගයක් ආරම්භ කරන බව ලංකා ගුරු සේවා සංගමය පවසයි.
+The Ceylon Teachers 'Service Union states that if the government fails to solve problems with the salary anomalies of the teacher's salary anomalies, the Ceylon Teachers' Service Union states.
 
-අධ්‍යාපන ක්ෂේත්‍රයේ පවතින ගැටලු සම්බන්ධයෙන් විෂයභාර අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේම්යන්ත්, පළාත් ආණ්ඩුකාරවරුන් සහ අධ්‍යාපන වෘත්තීය සමිති අතර ඊයේ (16) පැවති සාකච්ඡාවෙන් අනතුරුව ඔවුන් මේ බව සඳහන් කළේ ය.
+After the discussion of the issues in the education sector, they made this statement since the discussion held yesterday (16).
 
-පළාත් අධ්‍යාපන ක්ෂේත්‍රයේ පැන නැඟී ඇති ගැටලු සම්බන්ධයෙන් මෙම හමුවේ දී දීර්ඝ වශයෙන් සාකච්ඡා කර ඇති අතර, ගුරු වැටුප් විෂමතාව සම්බන්ධයෙන් ද අවධානය යොමු ව තිබේ.
+The meeting has been discussed at length, and the teacher's salary anomalies have also been discussed in the face of problems.
 
-එමෙන්ම පාසල් ගොඩනැගිලි සඳහා දේශපාලනඥයන්ගේ නම් යෙදීම නවතා දැමීමට වෘත්තීය සමිති විසින් කළ ඉල්ලීම පිළිබඳව ද මෙහි දී අමාත්‍යවරයාගේ අවදානය යොමු වූ බව වෘත්තීය සමිති නියෝජිතයෝ ප්‍රකාශ කළ හ.
+The Trade Union Representatives stated that the Minister's attention was also referred to the request made by the trade unions to stop the names of the school builders.
 
 ◼️
 
 [Data](articles/9438a53b.json)
+
+[Extended Data](ext_articles/9438a53b.ext.json)
 
 ---
 
@@ -364,6 +396,20 @@ Born on January 29, 1941, Gamini Jayawickrama Perera was one of the former UNP c
 
 ---
 
+### முன்னாள் அமைச்சர் காமினி ஜயவிக்ரம பெரேரா காலமானார்
+
+*2024-02-17 11:33:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-காமினி-ஜயவிக்ரம-பெரேரா-காலமானார்/175-333341) · `ta`
+
+முன்னாள் அமைச்சர் காமினி ஜயவிக்ரம பெரேரா தனது 83 ஆவது வயதில் காலமானார்.
+
+1941 ஜனவரி 29 ஆம் திகதி பிறந்த காமினி ஜயவிக்ரம பெரேரா, ஐக்கிய தேசிய கட்சியின் முன்னாள் தவிசாளர்களில் ஒருவருமாவார். R
+
+◼️
+
+[Data](articles/3f6ee188.json)
+
+---
+
 ### Yall. Minister Jeevan Thondaman at Prison
 
 *2024-02-17 11:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-சிறைச்சாலையில்-அமைச்சர்-ஜீவன்-தொண்டமான்/71-333340) · `ta`
@@ -529,6 +575,20 @@ Accordingly, the body of the murdered girl was found in a police investigation.
 [Data](articles/b69f60d6.json)
 
 [Extended Data](ext_articles/b69f60d6.ext.json)
+
+---
+
+### හිටපු ඇමති ගාමිණී ජයවික්‍රම සමුගනියි
+
+*2024-02-17 10:47:19* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-ගාමිණී-ජයවික්‍රම-සමුගනියි/11-408132) · `si`
+
+කලක් රෝගාතුරව සිටි හිටපු අමාත්‍ය ගාමිණී ජයවික්‍රම පෙරේරා අභාවප්‍රාප්ත වී තිබේ. මිය යන විට ඔහුගේ වයස අවුරුදු 83කි.
+
+ගාමිණී ජයවික්‍රම පෙරේරා මහතාගේ සුවදුක් විමසීම සඳහා ජනපති රනිල් වික්‍රමසිංහ මහතාද මීට දින කිහිපයකට පෙර ඔහුගේ නිවසට ගියේය.
+
+◼️
+
+[Data](articles/e83b6104.json)
 
 ---
 
@@ -995,6 +1055,8 @@ The ceasefire discussions held in Cairo recently failed as the Israeli delegatio
 ...
 
 [Data](articles/3a36ca57.json)
+
+[Extended Data](ext_articles/3a36ca57.ext.json)
 
 ---
 
@@ -1856,6 +1918,8 @@ The petitioner notes that the SC has determined that several clauses of the said
 
 [Data](articles/b959eac2.json)
 
+[Extended Data](ext_articles/b959eac2.ext.json)
+
 ---
 
 ### Recovery of young family from well from Veerapuram area
@@ -1973,77 +2037,5 @@ The Dansala program, initiated by Naga Vihara Kotte under the theme 'Pansale Dan
 [Data](articles/be28d063.json)
 
 [Extended Data](ext_articles/be28d063.ext.json)
-
----
-
-### Body of missing 10-year-old recovered; suspect confesses to rape, murder
-
-*2024-02-16 23:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97335/body-of-missing-10-year-old-recovered-suspect-confesses-to-rape-murder) · `en`
-
-The body of a 10-year-old girl who was reported missing from Talaimannar North on Thursday (Feb.15) was recovered by the police this morning.
-
-A search operation was mounted after her grandmother had lodged a complaint with the Talaimannar Police.
-
-Accordingly, the body of the girl was found on a plot of land located around 300m from her home.
-
-A man from the girl’s neighbourhood, who was arrested on suspicion, had later confessed to rape and murder of the 10-year-old.
-
-The 55-year-old told the police that he had seen the girl playing with her brother in the vicinity of his house, and given the boy Rs. 150 to buy some snacks.
-
-He then admitted to bringing the girl into his house and sexually abusing her while being drunk.
-
-According to the police, the suspect had been under the influence of alcohol at the time of the arrest as well.
-
-◼️
-
-[Data](articles/94496ed6.json)
-
-[Extended Data](ext_articles/94496ed6.ext.json)
-
----
-
-### Jaffna, Colombo and Gampaha districts are the most dengue patients
-
-*2024-02-16 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/176581) · `ta`
-
-Kandy district epidemic specialist doctor Krishan Masarachchi said that the rate of dengue patients in the Kandy district has now declined.
-
-The doctor said that the highest number of dengue patients in the country has been admitted to the Kandy National General Hospital.
-
-He was speaking at a meeting of the District Coordinating Committee held at the Kandy District Secretariat office on Friday (15).
-
-He added that the number of dengue patients was due to the decline in the number of dengue eradication programs over the past few years.
-
-According to a weekly report issued by the National Dengue Control Division in Colombo, 10 sections from Kandy have reported that the country has declined to 2, and it has now declined to 12%, with 20% of dengue patients reported last year.
-
-According to these reports, Jaffna, Colombo and Gampaha districts have been selected as the most dengue patients in the country.
-
-...
-
-[Data](articles/e833ad04.json)
-
-[Extended Data](ext_articles/e833ad04.ext.json)
-
----
-
-### Between two groups brought from jail in Kaduwela court
-
-*2024-02-16 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176579) · `ta`
-
-The two groups brought to the Kaduwela court were involved in an argument within the court jail.
-
-About 150 suspects in 3 buses have been brought from the prison to the Kaduwela court and have been arguing among them, police said.
-
-Many prison officials then went into the prison and were in the process of preventing the conflict.
-
-Later, until the court was adjourned for lunch, the suspects who had come to the court had been evicted from the court and brought from the prison.
-
-Accordingly, the prison authorities have arranged that the group of suspects who have been interrogated to the prison quickly have been arranged and that after lunch, court proceedings took place as usual.
-
-◼️
-
-[Data](articles/351d7a1e.json)
-
-[Extended Data](ext_articles/351d7a1e.ext.json)
 
 ---

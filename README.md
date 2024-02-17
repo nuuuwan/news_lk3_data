@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 11:02:18**
+As of **2024-02-17 11:17:37**
 
 ## Newspaper Stats
 
@@ -26,67 +26,75 @@ dailymirrorlk | 1,127
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,625 (99.9%) of 7,630 articles have been extended.
+7,630 (100.0%) of 7,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### සුපිරි වෙළෙඳසලක අනතුරකින් තිදෙනෙකු ජීවිතක්ෂයට
+### Three killed in a supermarket
 
 *2024-02-17 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193499) · `si`
 
-ඉතාලියේ ෆ්ලොරන්ස් නගරයේ සුපිරි වෙළෙඳසලක ඉදිකිරීම් සිදු කරන ස්ථානයක සිදු වූ අනතුරකින් කම්කරුවන් තිදෙනෙකු මිය ගොස් තිබේ.
+Three workers have died in an accident in the construction of a super-shower in Florence, Italy.
 
-අනතුරින් තවත් කම්කරුවන් තිදෙනෙකු අතුරුදන් ව ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+Three other workers have disappeared, foreign media reports say.
 
-ඉදිකරමින් පවතින සුපිරි වෙළෙඳසලේ එක් කොටසක් කම්කරුවන් මතට කඩා වැටීමෙන් මෙම අනතුර සිදු ව ඇත.
+The accident occurred when one part of the superior market that is constructing on the construction.
 
-අතුරුදන් වු කම්කරුවන් මුදාගැනීම සඳහා ගලවා ගැනීමේ කණ්ඩායම් මේ වන විට මෙහෙයුම් ආරම්භ කර ඇති බව සඳහන් වේ.
+The rescue teams have commenced operations to rescue missing workers.
 
-අනතුර සිදුවන අවස්ථාවේ එම ස්ථානයේ කම්කරුවන් අට දෙනෙකු ඇතුළු පුද්ගලයින් 50 දෙනෙකු පමණ සිට ඇති බවද විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කළේය.
+At the time of the accident, there were about 50 people including eight workers in the same location, according to foreign investigations.
 
 ◼️
 
 [Data](articles/2d123dfe.json)
 
+[Extended Data](ext_articles/2d123dfe.ext.json)
+
 ---
 
-### முல்லைத்தீவுக் கடற்பரப்பிற்குள் இந்திய இழுவைப்படகு வருகை அதிகரிப்பு ; கைதுசெய்து கரைக்குகொண்டுவந்தால் வழக்குத்தொடரலாம் ; நீரியல் வளத் திணைக்களம்
+### Increase in Indian drag arrivals within the Mullaitivu Sea;If arresting and dissolving, can be sued;Aquatic Resources Department
 
 *2024-02-17 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176595) · `ta`
 
-தற்போது இறால் பிடிப்பதற்குரிய பருவகாலம் ஆரம்பித்துள்ள நிலையில், முல்லைத்தீவு கடற்பரப்பிற்குள் இந்திய இழுவைப்படகுகளின் வருகை அதிகரித்துள்ளதாக முல்லைத்தீவு மீனவர்கள் கவலை தெரிவித்துள்ளனர்.
+Mullaitivu fishermen have expressed concern that the influx of Indian dragons has increased within the Mullaitivu Sea as the monsoon season has begun.
 
-வெள்ளிக்கிழமை (16) இடம்பெற்ற முல்லைத்தீவு மாவட்ட அபிவிருத்தி ஒருங்கிணைப்புக்குழுக் கூட்டத்திலேயே முல்லைத்தீவு மீனவர்கள் இவ்வாறு கவலை வெளியிட்டுள்ளனர்.
+Mullaitivu fishermen have expressed their concern at the Mullaitivu District Development Coordinating Committee meeting held on Friday (16).
 
-இந்நிலையில் இவ்வாறு அத்துமீறி முல்லைத்தீவுக் கடற்பரப்பிற்குள் நுழைகின்ற இந்திய மீனவர்களைக் கைதுசெய்து, அவர்களுடைய இழுவைப் படகுகளையும் கைப்பற்றி கரைக்கு கொண்டுவந்தாலே தம்மால் வழக்குத் தொடரமுடியுமென முல்லைத்தீவு கடற்றொழில் நீரியல்வளத் திணைக்கள உதவிப்பணிப்பாளர் கா.மோகனகுமார் தெரிவித்துள்ளார்.
+In this case, the Mullaitivu Fisheries and Aquatic Resources Department Assistant Director K. Mohanakumar said that the Indian fishermen who were entering the Mullaithivu Sea and seized their drag boats and brought them to the shore.
 
-இவ்வாறு அத்துமீறி முல்லைத்தீவு கடற்பரப்பிற்குள் நுழையும் இந்திய மீனவர்களைக் கைதுசெய்து, அவர்களுடைய இழுவைப்படகுகளைக் கைப்பற்றி கரைக்குகெிண்டுவருவதிலேயே சிக்கலுள்ளது.
+Thus, the Indian fishermen who enter the Mullaitivu Sea are complicated by the arrest of their fisheries and seized their tract.
 
-அவ்வாறு இந்திய மீனவர்களைக் கைதுசெய்து, அவர்களது இழுவைப்படகுகளையும் கைதுசெய்து கரைக்குக் கொண்டுவந்தால் எம்மால் வழக்குத்தொடரமுடியும்.
+If we arrest the Indian fishermen and arrest their dragons, we can sue.
+
+Therefore, the Navy in the district can take over the Indian fishermen and arrest the Indian fishermen and bring it to the shore, ”he said.
 
 ...
 
 [Data](articles/2620c291.json)
 
+[Extended Data](ext_articles/2620c291.ext.json)
+
 ---
 
-### යුක්තියෙන් ඇල්ලූ වාහන ගැන නියෝගයක්
+### An order on vehicles caught by justice
 
 *2024-02-17 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193498) · `si`
 
-යුක්තිය මෙහෙයුම යටතේ අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුව භාරයේ තබා ඇති රපියල් කෝටි දහයක පමණ වටිනාකමකින් යුත් රථ වාහන එහි ලියාපදිංචි අයිතිකරු වෙත ලබාදෙන ලෙස කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+Kaduwela Magistrate's Court has ordered the registered vehicles of the Criminal Investigation under the operation.
 
-තවදුරටත් අදාළ රථ වාහන රඳවාගෙන වැඩිදුර විමර්ශන කටයුතු වෙනුවෙන් අවස්ථාව ලබා දෙන ලෙස සිදු කළ ඉල්ලීම ප්‍රතික්ෂේප කරමින් කඩුවෙල මහෙස්ත්‍රාත් චාණිමා විජේබණ්ඩාර මහත්මිය මෙම නියෝගය නිකුත් කර ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
+The order has been issued by the Ada Derana reporter, refusing to hold the request to further investigations and rejected the request for further investigations.
 
-අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුව මගින් මෙම දේපොළ අත්පත් කර ගැනීම සඳහා මහාධිකරණයෙන් නිසි පරිදි නියෝග ලබා ගෙන නොමැති බව පවසමින් විත්තියේ නීතිඥවරයා අධිකරණය හමුවේ දැඩි විරෝධයක් පක කර ඇති බව ද සඳහන් ය.
+The defense lawyer said that the Criminal Investigation Department has not objected to the court stating that the High Court has not obtained proper orders.
 
-පසුගිය වසරේ දෙසැම්බර් මාසයේ දී මළලගේ සුදත් කිත්සිරි නොහොත් "වැලිවිට සුද්දා" නැමැති මත්ද්‍රව්‍ය ජාවාරම්කරුට අයත් බව පවසමින් ඔහුගේ සහෝදරියක සතු ව තිබූ සුඛෝපභෝගී බස් රථ පහක්, නවීන මෝටර් රථයක් සහ යතුරුපැදියක් කඩුවෙල පොලීසිය විසින් අත්අඩංගුවට ගෙන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත භාර දී තිබිණි.
+In December last year, a modern car and a motorcycle were taken into custody by five luxury buses and motorcycle owned by the Drug Trafficking, "Weliwita Sudda."
 
 ◼️
 
 [Data](articles/ff5dd5be.json)
+
+[Extended Data](ext_articles/ff5dd5be.ext.json)
 
 ---
 
@@ -106,6 +114,8 @@ There are low-ranking Sjbers to join us from all over the island,” he also sai
 
 [Data](articles/1af50385.json)
 
+[Extended Data](ext_articles/1af50385.ext.json)
+
 ---
 
 ### Gamini Jayawickrama Perera passes away
@@ -120,21 +130,29 @@ There are low-ranking Sjbers to join us from all over the island,” he also sai
 
 ---
 
-### இலங்கை வருகிறார் அமெரிக்க இராஜதந்திர துணைச் செயலாளர் எலிசபெத் எம். அலன்
+### US diplomatic secretary Elizabeth M. Allen
 
 *2024-02-17 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176593) · `ta`
 
-அமெரிக்க பொது இராஜதந்திரத்திற்கான துணைச் செயலாளர் எலிசபெத் எம். அலன்  இலங்கைக்கு விஜயம் செய்யவுள்ளார்.
+Elizabeth M.. Alan will visit Sri Lanka.
 
-இம்மாதம் 12 ஆம் திகதி முதல் எதிர்வரும் 22 ஆம் திகதிவரை ஜோர்தான், இலங்கை மற்றும் இந்தியாவிற்கு விஜயம் செய்கிறார் எலிசபெத் எம். அலன் .
+Elizabeth M.. Allen.
 
-நாடுகளுக்கிடையிலான கூட்டாண்மை மற்றும் கூட்டணிகளை வலுப்படுத்துவதற்கும் விரிவுபடுத்துவதற்கும் அமெரிக்காவின் உறுதியான நிலைப்பாட்டை வெளிப்படுத்தும் முகமாக இந்த விஜயம் அமைகின்றது.
+The visit is to express the firm position of the United States to strengthen and expand inter -nations.
 
-இதேவேளை, அமெரிக்க வெளியுறவுக்கொள்கை மற்றும் பொது இராஜதந்திர முயற்சிகளின் முக்கியத்துவத்தை  எடுத்துக்காட்டுவதுடன்  கருத்து சுதந்திரம், பொருளாதாரத்திற்கு அதிகாரமளித்தல் மற்றும் உலகளாவிய ஒத்துழைப்பை அதிகரிப்பதற்கும் அலனின் விஜயம் முக்கியத்துவமாக காணப்படுகின்றது.
+At the same time, Alan's visit is important to highlight the importance of US foreign policy and public diplomatic efforts, and to increase freedom of expression, power to the economy and increase global cooperation.
+
+Alan, who went to Jordan on a visit to three countries, examined the convertible impact of English language programs on Jordanian youth. He held meetings with public affairs experts and Jordan government officials to investigate the integrated and innovative strategic communications as a tool for national security.
+
+He also discussed regional perspectives with alumni and civil society leaders of US public diplomatic programs.
+
+After a visit to Jordan, Alan, who is visiting Sri Lanka, will re-confirm US support for the economic recovery of Sri Lanka and encourage independent and Indo-Pasubic region.
 
 ...
 
 [Data](articles/2af6e07c.json)
+
+[Extended Data](ext_articles/2af6e07c.ext.json)
 
 ---
 

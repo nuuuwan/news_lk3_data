@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 13:32:56**
+As of **2024-02-17 13:51:20**
 
 ## Newspaper Stats
 
-*Scraped **7,650** Articles*
+*Scraped **7,656** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 85
 bbccomsinhala | 99
-dbsjeyarajcom | 150
+dbsjeyarajcom | 151
 newsfirstlk | 363
 islandlk | 394
 economynextcom | 399
 dailyftlk | 415
 adalk | 647
 tamilmirrorlk | 931
-adaderanalk | 936
-virakesarilk | 1,006
+adaderanalk | 938
+virakesarilk | 1,009
 adaderanasinhalalk | 1,095
 dailymirrorlk | 1,130
 
@@ -26,25 +26,133 @@ dailymirrorlk | 1,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,649 (100.0%) of 7,650 articles have been extended.
+7,656 (100.0%) of 7,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### ජාතික රෝහලේ කනිෂ්ඨ කාර්‍ය මණ්ඩලයෙන් දැඩි තීරණයක්
+### Two teenagers charged over shooting at Kansas City Super Bowl parade
+
+*2024-02-17 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97346/two-teenagers-charged-over-shooting-at-kansas-city-super-bowl-parade) · `en`
+
+Two teenagers have been charged over a shooting at a Super Bowl victory parade in Kansas City that left one person dead and 22 others injured.
+
+The two suspects, both aged under 18, are being held on gun and resisting arrest charges, a court statement said.
+
+Police earlier said the shooting was the result of an argument and was not connected to terrorism.
+
+A third person who was detained after the shooting has been released.
+
+A statement from the Jackson County Family Court on Friday said that additional charges were “expected in the future as the investigation by the Kansas City Police Department continues”.
+
+The names of the juvenile suspects have not been released. Juvenile court cases are kept private under Missouri law, and hearings are not open to the public.
+
+Kansas City Police have continued to appeal for information about the shooting, which occurred near the city’s Union Station just after a parade and rally for the Super Bowl champions.
+
+...
+
+[Data](articles/d9a68c8e.json)
+
+[Extended Data](ext_articles/d9a68c8e.ext.json)
+
+---
+
+### Former President Chandrika Kumaratunga behind efforts to abolish the executive president?Daily Mirror
+
+*2024-02-17 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176610) · `ta`
+
+Dailymir, who has reported that former President Chandrika Kumaratunga is behind the current attempt to abolish the executive presidency before the presidential election, has said that these initiatives will not be able to get a two -thirds majority from the present parliament.
+
+Former President Chandrika Kumaratunga has called for the leaders of some civil society organizations to take advantage of the executive power of the Cabinet and initiate negotiations on the constitutional reforms given to the Cabinet.
+
+However, in the guise of politics, there is a widespread view of the presidential election.
+
+Chandrika Kumaratunga promised to abolish the executive president when he contested the first presidential election in 1994.
+
+Since then, many leaders have made this pledge during their election campaign, but the executive presidency continues.
+
+Previous President Mahinda Rajapaksa Maithripalasirisena also made this promise.
+
+...
+
+[Data](articles/cb962675.json)
+
+[Extended Data](ext_articles/cb962675.ext.json)
+
+---
+
+### Junior staff at National Hospital
 
 *2024-02-17 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193502) · `si`
 
-කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා එම ධුරයෙන් ඉවත් කරන තෙක් සිය විරෝධතා ක්‍රියාමාර්ග අත්නොහරින බව එම රෝහලේ කනිෂ්ඨ කාර්ය මණ්ඩල සේවකයෝ පවසති.
+Junior Staff Employees of the hospital say that the Deputy Director of the Colombo National Hospital Dr. Rukshan Bellana will not give up its protest campaigns until he is removed from the post.
 
-පසුගිය දා ක්‍රියාත්මක කළ වැඩවර්ජනය අතරතුර කනිෂ්ඨ කාර්ය මණ්ඩල සේවකයන් සම්බන්ධයෙන් වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා සිදු කළ ප්‍රකාශවලට එරෙහි ව ඔවුන් මෙම ක්‍රියාමාර්ගය ආරම්භ කර තිබේ.
+They have begun this course of action against the statements made by Dr. Rukshan Bellana regarding the statements made by Dr. Rukshan Bellana during the recent strike.
 
-ජාතික රෝහලේ කනිෂ්ඨ කාර්ය මණ්ඩල සේවකයන් ඊයේ (16) දිනයේ දී වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා ඔහුගේ කාර්යාලයේ බලහත්කාරයෙන් රඳවා ගත් අතර, පැය 06කට ආසන්න කාලයකට පසු ඔහු එම කාර්යාලයෙන් ඉවත් වූයේ, ආරක්ෂක අංශවල මැදිහත් වීමෙනි.
+Dr. Rukshan Bellana was forcibly retained by the National Hospital Junior staff in his office yesterday (16), and nearly six hours later he left the office by intervention of security forces.
 
 ◼️
 
 [Data](articles/5f96cf8b.json)
+
+[Extended Data](ext_articles/5f96cf8b.ext.json)
+
+---
+
+### The prices of vegetables are less than weekdays
+
+*2024-02-17 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176604) · `ta`
+
+The prices of vegetables in the Peliyagoda new Menning Trade Market have fallen to the week (17).
+
+Accordingly, prices have been recorded at 500 rupees, Rs 550 per kg of beans, one kilogram of green chilli, Rs.
+
+◼️
+
+[Data](articles/a68b1abc.json)
+
+[Extended Data](ext_articles/a68b1abc.ext.json)
+
+---
+
+### Putin government is an autocratic government - Australian Prime Minister's outrage after Navalney's death
+
+*2024-02-17 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176608) · `ta`
+
+Australian Prime Minister Antony Albeneis has accused President Vladimir Putin of the death of the leader of the Opposition.
+
+Australia has been shocked and worried about the news, Antony Alpenis said.
+
+The Australian Prime Minister said that the government of Vladimir Putin, the government of Vladimir Putin, has split the world in the middle of the world, which is a democracy.
+
+He also said that the government should strongly condemn the activities of any authorities such as Vladimir Putin.
+
+◼️
+
+[Data](articles/2f3d69be.json)
+
+[Extended Data](ext_articles/2f3d69be.ext.json)
+
+---
+
+### Several vehicles seized under ‘Yukthiya’ operation ordered to be handed over to registered owners
+
+*2024-02-17 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97345/several-vehicles-seized-under-yukthiya-operation-ordered-to-be-handed-over-to-registered-owners) · `en`
+
+The Kaduwela Magistrate’s Court has ordered that several vehicles, valued around Rs. 100 million and kept in the custody of the Criminal Investigation Department (CID) after being impounded under the ongoing operation ‘Yukthiya’, be handed over to their registered owners.
+
+Kaduwela Magistrate Chanima Wijebandara has issued this order while rejecting the CID’s request to further keep the relevant vehicles in custody for further investigations, Ada Derana reporter said.
+
+The defense lawyer has also raised strong objections before the court stating that the CID had not obtained proper orders from the High Court to acquire the property in question.
+
+In December 2023, the Kaduwela police had seized five luxury buses, a luxury car and a motorcycle owned by the sister of Malalage Sudath Kithsiri alias “Welivita Sudda”, who is said to be a drug trafficker, and handed them over to the CID.
+
+◼️
+
+[Data](articles/b01fea75.json)
+
+[Extended Data](ext_articles/b01fea75.ext.json)
 
 ---
 
@@ -1432,6 +1540,24 @@ A few days later former SLFP MP Dayasritha Tissera also joined the SJB. Tissera 
 
 ---
 
+### Memories of Interactinf with Upali Wijewardene as a Journalist.
+
+*2024-02-17 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83632) · `en`
+
+Today (Feb 17) is the birthday of Sri Lanka’s popular business magnate Philip Upali Wijewardene. If Upali Wijewardene  were among the living now, he would have celebrated his 86th birthday this year.  Alas, this was not to be as the Lear Jet he was travelling in  disappeared on 13 February 1983  just 4 days before his 45th birthday .
+
+It was my privilege to be associated with Upali Wijewardene slightly and briefly during the years 1978 to 1983. As a journalist on the Tamil Daily “Virakesari” I covered the Greater Colombo Economic Commission (GCEC) or “free trade Zone” from 1978 to 1981. Upali was the first Director -General of the GCEC.
+
+Later in 1981 I began working as a staff reporter on the English daily “The Island” published by Upali newspapers Ltd of which he was the proprietor. I was at “The Island” in 1983 when Upali went missing 41 years ago .The Island of Tuesday, February 15 broke the sad news with a banner headline “Plane carrying Upali Wijewardene feared lost.”
+
+...
+
+[Data](articles/665b4fb4.json)
+
+[Extended Data](ext_articles/665b4fb4.ext.json)
+
+---
+
 ### Arrested two persons involved in theft
 
 *2024-02-17 02:35:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டில்-ஈடுபட்ட-இருவர்-கைது/175-333335) · `ta`
@@ -1953,131 +2079,5 @@ Accordingly, the following historical shrines have been declared as sacred sites
 [Data](articles/d9ca223c.json)
 
 [Extended Data](ext_articles/d9ca223c.ext.json)
-
----
-
-### Quetta Gladiators await NOC for Hasaranga for PSL 9
-
-*2024-02-16 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Quetta-Gladiators-await-NOC-for-Hasaranga-for-PSL-9/108-277204) · `en`
-
-Feb. 16 (cricketpakistan) - Quetta Gladiators issued an update regarding the status of their foreign players ahead of the ninth season of the Pakistan Super League (PSL) on Friday.
-
-Gladiators' head of player acquisition, Nabeel Hashmi, confirmed through his social media account that originally slated for the first five matches, Hasaranga may miss more due to scheduling issues with the Afghanistan vs. Sri Lanka series. Despite efforts, Quetta is still awaiting his No Objection Certificate.
-
-On the coaching front, mentor Sir Vivian Richards and bowling coach Shaun Tait have already arrived in Pakistan ahead of the tournament.
-
-Similar to the previous edition, PSL 9 will be held in two legs. Lahore and Multan will host 14 matches from February 17 to 27, followed by 16 matches in Rawalpindi and Karachi from February 28 to March 12. The playoffs will then be held entirely in Karachi.
-
-◼️
-
-[Data](articles/3f7ddca7.json)
-
-[Extended Data](ext_articles/3f7ddca7.ext.json)
-
----
-
-### Traffic on traffic on the Panadura - Ratnapura main road is restricted
-
-*2024-02-16 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193483) · `si`
-
-Motor Traffic will be restricted due to the Raigampura Navam Maha Perahera of the Horana Rajamaha Viharaya.
-
-Accordingly, Navam Perahera is to visit the streets tomorrow.
-
-The procession adds 85 elephants and 85 academic dance groups for the procession.
-
-Accordingly, traffic is restricted from the Kurunegala Raja Maha Viharaya from Raja Maha Viharaya.
-
-The police informs the public to use the following alternative routes.
-
-◼️
-
-[Data](articles/1baa4c77.json)
-
-[Extended Data](ext_articles/1baa4c77.ext.json)
-
----
-
-### Customs stop working to letter
-
-*2024-02-16 21:18:23* · [`adalk`](https://www.ada.lk/breaking_news/රේගුව-අකුරට-වැඩ-කිරීම-නවත්වයි/11-408130) · `si`
-
-Customs personnel operate on 02/15 on 02/15
-
-The Chairman of the Senior Custom Officers Association NS The President of the Senior Customs Association NS Mr. Sanjeewa said that the Ministry of Finance had taken steps to be suspended by the Ministry of Finance on Deadline.
-
-Customs Trade Unions have informed the Director General of Customs, Nimali Pululama, that the Ministry of Finance has agreed to provide a positive solution by Customs Officers in writing due to the intervention of the Secretary to the Presidential Secretary.Chairmen of the Associations said.
-
-According to the letter, customs officers initiated and conducted the trade union action on 02/16 to discuss their trade unions and agreed to the suspension of their trade unions.
-
-◼️
-
-[Data](articles/ea19fd9e.json)
-
-[Extended Data](ext_articles/ea19fd9e.ext.json)
-
----
-
-### How to poisoning the two in police cage
-
-*2024-02-16 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193482) · `si`
-
-The Colombo Crimes Division was arrested by the Colombo Crimes Division.
-
-The suspects were retained for seven days after the suspects were submitted to Welisara and Maligakanda Magistrate's Court today (16).
-
-Two suspects in custody in the police custody in custody of the Adrappiri were arrested by a person who visited them.
-
-The person who was hospitalized and hospitalized has been recovered and three suspects who have been arrested and handed over to the incident have been arrested by the Colombo Crimes Division for further investigations.
-
-Meanwhile, the organized criminal investigation unit of the Colombo Crimes Division was arrested by the organized criminal investigation unit of the Colombo Crimes Division yesterday afternoon.
-
-The main suspect is a 26 year old resident of Wattala.
-
-The preliminary investigation was revealed that the son of Kudu Selvi and Kajipani Imran has asked him to call him over the phone.
-
-More than 10 grams of ice drugs in the suspect have been found.
-
-...
-
-[Data](articles/f37882b3.json)
-
-[Extended Data](ext_articles/f37882b3.ext.json)
-
----
-
-### Climate change fuelling domestic violence against women in Sri Lanka - report
-
-*2024-02-16 20:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97333/climate-change-fuelling-domestic-violence-against-women-in-sri-lanka-report) · `en`
-
-Sri Lanka, like many other island nations, continues to suffer from the devastation that is climate change. As extreme weather events become more frequent and intense, the nation’s farmers are struggling to cope with crop failures and lost income.
-
-Unfortunately for the women in the country, this tragedy is increasingly turning them into the victims of domestic violence at the hands of their own frustrated families, a Reuters report reveals.
-
-The feature elaborates on the miseries of female Sri Lankan farmers such as Renuka Karunarathna. Years of scant rainfall and extreme droughts have led to failed harvests, pushing her family into extreme poverty. Renuka’s husband, like many other partners discontented by their economic hardships, takes his anger out on his wife, often in the form of physical abuse.
-
-...
-
-[Data](articles/57c7d3a5.json)
-
-[Extended Data](ext_articles/57c7d3a5.ext.json)
-
----
-
-### Bourse turns positive in the wake of CBSL’s February 2024, Monetary Policy Report release
-
-*2024-02-16 20:49:00* · [`islandlk`](http://island.lk/bourse-turns-positive-in-the-wake-of-cbsls-february-2024-monetary-policy-report-release/) · `en`
-
-Stock market activities turned positive yesterday subsequent to the release of the Central Bank’s Monetary Policy Report – February 2024, which revealed that Sri Lanka is heading for stability in the coming months, thus creating a bullish sentiment in the market, market analysts said.Consequently, both market indices moved upwards.
-
-A crossing in National Development Bank shares contributed Rs 626 million to the day’s turnover and a share closed up at Rs. 65.10. The market was up mainly because of trades in the banking sector (Rs 769 million), a market participant said. “This is dividend season for the banks. So there is some interest there, market analysts said.
-
-“Also with interest rates coming down, interest in the equity market is returning, market sources said. The bigger banks all closed up: Sampath Bank (Rs 73.20), Commercial Bank of Ceylon (Rs 89.50), DFCC Bank (Rs 78.80), and HNB (up at Rs 163.00).
-
-...
-
-[Data](articles/11faf171.json)
-
-[Extended Data](ext_articles/11faf171.ext.json)
 
 ---

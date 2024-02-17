@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 09:17:14**
+As of **2024-02-17 09:33:02**
 
 ## Newspaper Stats
 
-*Scraped **7,608** Articles*
+*Scraped **7,609** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 398
 dailyftlk | 415
 adalk | 645
 tamilmirrorlk | 926
-adaderanalk | 930
+adaderanalk | 931
 virakesarilk | 1,000
 adaderanasinhalalk | 1,083
 dailymirrorlk | 1,120
@@ -26,11 +26,31 @@ dailymirrorlk | 1,120
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,607 (100.0%) of 7,608 articles have been extended.
+7,608 (100.0%) of 7,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### U.S. Under Secretary for Public Diplomacy to visit Sri Lanka
+
+*2024-02-17 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97340/us-under-secretary-for-public-diplomacy-to-visit-sri-lanka) · `en`
+
+The U.S. Under Secretary of State for Public Diplomacy, Liz Allen is scheduled to travel to Sri Lanka, India and Jordan next week.
+
+In a statement, the US State Department said these visits underscore the country’s unwavering commitment to reinforcing and expanding partnerships and alliances.
+
+“The trip highlights the core of U.S. foreign policy and public diplomacy initiatives: fostering freedom of expression, economic empowerment, and global collaboration.”
+
+The State Department’s press release mentions that Allen’s visit stretches from 12- 22 February, however, it does not specify a date for her arrival on the island nation.
+
+Upon completing her Jordan visit, the U.S. Under Secretary will travel to Sri Lanka where she plans to foster dialogue on freedom of expression and democratic values with diverse groups of stakeholders, including journalists, civil society members, government officials, and the Embassy’s Youth Forum.
+
+...
+
+[Data](articles/0b0b6c52.json)
+
+---
 
 ### Water supply suspended for 16 hours in parts of Colombo today
 
@@ -45,6 +65,8 @@ According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be a
 ◼️
 
 [Data](articles/79e932e4.json)
+
+[Extended Data](ext_articles/79e932e4.ext.json)
 
 ---
 
@@ -2085,23 +2107,5 @@ Sora can only be used for researchers, visual artists and filmmakers. "There is 
 [Data](articles/e05f2887.json)
 
 [Extended Data](ext_articles/e05f2887.ext.json)
-
----
-
-### No one is talking today of restoring my civic rights: Ranjan
-
-*2024-02-16 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-one-is-talking-today-of-restoring-my-civic-rights-Ranjan/108-277179) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - No one is talking today of restoring my lost civic rights, former Samagi Jana Balawegaya (SJB) MP Ranjan Ramanayake said today.
-
-"I have lost my civic rights for seven years. I cannot speak on politics as per the conditional pardon offered by the President. Therefore, I abide by the conditions laid out when the President Ranil Wickremesinghe offered to release me from jail," he added.
-
-Ramanayake who was found guilty of contempt of court in 2021 was released by the incumbent President in 2022.
-
-◼️
-
-[Data](articles/605f21b2.json)
-
-[Extended Data](ext_articles/605f21b2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 21:02:43**
+As of **2024-02-17 21:17:28**
 
 ## Newspaper Stats
 
-*Scraped **7,696** Articles*
+*Scraped **7,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,76 @@ adalk | 649
 tamilmirrorlk | 935
 adaderanalk | 946
 virakesarilk | 1,015
-adaderanasinhalalk | 1,105
+adaderanasinhalalk | 1,108
 dailymirrorlk | 1,138
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,696 (100.0%) of 7,696 articles have been extended.
+7,696 (100.0%) of 7,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### රට වැටුණු හේතුව මුදල් ලේකම් කියයි
+
+*2024-02-17 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193518) · `si`
+
+වැරදි තොරතුරුදී රටේ ආර්ථික අර්බුදය ඇති කළ ඇතැම් පිරිස් ඇත්ත හෙළිකිරීමේදී නිලධාරීන් විවේචනය කිරීම අසාධාරණ බව මුදල් අමාත්‍යාංශ ලේකම් මහින්ද සිරිවර්ධන මහතා පවසයි.
+
+මෙරට වෙළෙඳ මූල්‍යකරණයට ජාත්‍යන්තර ඩිජිටල් යාන්ත්‍රණයන් හඳුන්වාදීම සඳහා ජාත්‍යන්තර වාණිජ මණ්ඩලයේ ශ්‍රී ලංකා කාර්යාලය සංවිධානය කළ උත්සවයක් මුදල් අමාත්‍යාංශ ලේකම් මහින්ද සිරිවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වුණි.
+
+"රට වැටුනේ මේ තොරුතුර නියමාකාරයෙන් හිටපු ජනපතිට කියපු නැති නිසා. කිව්වා නම් මම හිතනවා.. මේ රට මේ තත්ත්වයට වැටෙන්නේ නෑ කියලා. නියමිත කාලයේදී දත්ත භාවිත කරලා නිවැරදි තීරණ ගත්තා නම් අද අපිට මෙවැනි අර්බුදයක් නැහැ."
+
+◼️
+
+[Data](articles/2520a8eb.json)
+
+---
+
+### ශ්‍රී ලංකා ඉනිම ලකුණු 160කට සීමා වෙයි
+
+*2024-02-17 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193517) · `si`
+
+සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පළමු විස්සයි විස්ස ක්‍රිකට් තරගය දැන් පැවැත්වෙයි.
+
+ඇෆ්ගනිස්තානයේ ආරාධනයෙන් පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 19ක් අවසානයේ සියලුදෙනා දැවී ලබාගත්තේ ලකුණු 160ක් පමණි.
+
+ඒ අනුව තරගය ජයගැනීම සඳහා ඇෆ්ගනිස්තානයට හිමිවී ඇති ඉලක්කය ලකුණු 161කි.
+
+ශ්‍රී ලංකා ලකුණු පුවරුව ඔසවා තැබූ වනිඳු හසරංග පන්දු 32ක් තුළ ලකුණු 67ක් ලබා ගත්තේය.
+
+◼️
+
+[Data](articles/52118b86.json)
+
+---
+
+### බාසික් ට හිතවත් හිටපු ප්‍රා ස මන්ත්‍රී කොටුවෙයි
+
+*2024-02-17 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193516) · `si`
+
+මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වන 'ශිරාන් බාසික්ගේ' සමීපතමෙයක් හෙරොයින් සමග විශේෂ කාර්ය බළකායේ බුද්ධි කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ් අවස්ථාවේදී ශිරාන් බාසික්ගේ පුත්‍රයා වන නදීන් බාසික්ද සිට ඇති අතර ඔහු පළාගොස් ඇති බව පොලීසිය පැවසීය.
+
+කොටිකාවත්ත ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රීවරයෙක් වන සැකකරු ඊයේ (16) පස්වරුවේ අත්අඩංගුවට ගනු ලැබුවේ වැල්ලවත්තේ පිහිටි අධි සුඛෝපභෝගී නිවාස සංකීර්ණ පරිශ්‍රයකදීය.
+
+සැකකරු පැමිණි මෝටර් රථය පරීක්ෂා කිරීමට යෑමේදී විශේෂ කාර්ය බළකා නිලධාරියෙකුද අනතුරට ලක්කරමින් පළායෑමට උත්සාහ කර තිබේ.
+
+පොලීසිය සඳහන් කළේ එම අවස්ථාවේදී සැකකරු සමග ශිරන් බාසික්ගේ පුත්‍රයා වන නදීන් බාසික් නැමැත්තාද සිට ඇති බවය.
+
+පසුව ඔවුන් මෝටර් රථයෙන් බැස දිවයන අයුරු අසල වූ සීසීටීවී කැමරාවක සටහන්වී තිබුණි.
+
+එම අවස්ථාවේදී ඔවුන් පසුපස හඹායන නිලධාරීන් එක් සැකකරුවකු අත්අඩංගුවට ගත්තද ඒම රූපරාමුවල සිටින ශිරාන් බාසික් නැමැත්තාගේ පුත්‍රයා පළාගොස් තිබේ.
+
+...
+
+[Data](articles/a5f28184.json)
+
+---
 
 ### Decision to boycott the Kachchativu festival
 
@@ -2015,69 +2073,5 @@ Action was taken immediately against the vessel and an onboard inspection was co
 [Data](articles/e85fd4a4.json)
 
 [Extended Data](ext_articles/e85fd4a4.ext.json)
-
----
-
-### Sri Lanka unchanged for Afghan T20I opener
-
-*2024-02-17 07:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-unchanged-for-Afghan-T20I-opener/108-277205) · `en`
-
-Colombo, Feb 16 (Daily Mirror) - Riding a wave of confidence after their convincing One Day International (ODI) series win in Kandy, Sri Lanka gears up to face Afghanistan in a three-match Twenty20 International (T20I) series starting at the Rangiri Dambulla International Cricket Stadium today.
-
-Sri Lanka is likely to retain the same line-up that played in the last T20I game against Zimbabwe, except for the injured Dushmantha Chameera, Daily Mirror learns.
-
-Sri Lanka have brought in left-arm fast bowler Binura Fernando in place of Chameera for this series against Afghanistan.
-
-The 16-member squad is otherwise unchanged from the one that faced Zimbabwe last month. Wanindu Hasaranga will lead the side with Charith Asalanka serving as his deputy.
-
-Despite Binura Fernando being included in the Sri Lanka T20I Squad in place of Dushmantha, Matheesha Pathirana is likely to be included in the playing 11, according to SLC sources.
-
-...
-
-[Data](articles/8293a12c.json)
-
-[Extended Data](ext_articles/8293a12c.ext.json)
-
----
-
-### SLT-MOBITEL Nebula Institute of Technology receives dual honours at Pearson BTEC Higher Education Forum 2023
-
-*2024-02-17 06:42:00* · [`islandlk`](http://island.lk/slt-mobitel-nebula-institute-of-technology-receives-dual-honours-at-pearson-btec-higher-education-forum-2023/) · `en`
-
-During the Pearson BTEC Higher Education Forum 2023 at the Colombo Kingsbury Hotel, the spotlight was on SLT-MOBITEL’s education arm, the Sri Lanka Telecom Training Centre (SLTTC), now known as the SLT-MOBITEL Nebula Institute of Technology.
-
-The institute, the education arm of SLT-MOBITEL, received significant recognition at the event securing two prestigious honours. Senior representatives from Pearson including Jane Baker, Vice President, Business Development UK and International Workforce Skills, Premila Paulraj, Director, Employability and Qualifications, Pearson South Asia and Suriya Bibile, DGM, BTEC, PTE and HEd Courseware Pearson, attended the event.
-
-SLTTC received the Pearson awards to honour its track record, before transitioning to the new chapter. Additionally, since the SLT-MOBITEL Nebula Institute of Technology was established, it has accomplished several key achievements including the successful introduction of two new programmes.
-
-...
-
-[Data](articles/efc60e97.json)
-
-[Extended Data](ext_articles/efc60e97.ext.json)
-
----
-
-### The US should focus on Sri Lanka, which has returned to the geopolitical political attention ahead of the elections - Sirisena's comment on Washington Times
-
-*2024-02-17 06:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176586) · `ta`
-
-While Sri Lanka has regained the importance of geopolitical importance ahead of the elections this year;Former President of Sri Lanka Maithripalasirisena has appealed to the US to focus on Sri Lanka.
-
-Maithripalasirisena said that in a moment when Sri Lanka is very instability, the outsiders are putting pressure on China, especially China.
-
-Sri Lanka, on the southeast of India, has recently been in a major politics match between the US and China.
-
-During the meeting with Washington Times, Sirisena, who was the President of Sri Lanka from 2015 to 2019, is trying to recover from the inflation that has fallen to increase inflation to increase the poor poverty.
-
-The former president said he had visited the United States this week, aimed at establishing deep bilateral relations between Sri Lanka and the United States and gaining much support for Sri Lanka.
-
-The former president said that his intention was to request the US Department of Ira Jangadan to save Sri Lanka from the current state.
-
-...
-
-[Data](articles/0c638418.json)
-
-[Extended Data](ext_articles/0c638418.ext.json)
 
 ---

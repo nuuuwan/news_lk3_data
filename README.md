@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 18:19:32**
+As of **2024-02-17 18:33:02**
 
 ## Newspaper Stats
 
-*Scraped **7,684** Articles*
+*Scraped **7,686** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailyftlk | 415
 adalk | 649
 tamilmirrorlk | 934
 adaderanalk | 944
-virakesarilk | 1,014
+virakesarilk | 1,015
 adaderanasinhalalk | 1,101
-dailymirrorlk | 1,134
+dailymirrorlk | 1,135
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,682 (100.0%) of 7,684 articles have been extended.
+7,684 (100.0%) of 7,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### விபத்தை ஏற்படுத்தி ரயிலை சேதப்படுத்திய ரஷ்ய பயணிக்கு  1.78 மில்லியன் ரூபா அபாராதம்!
+
+*2024-02-17 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176627) · `ta`
+
+ரயில் வருவதை பொருட்படுத்தாமல் காரைச் செலுத்தி ரயில் கடவையைக் கடக்க முற்பட்டு கடவையையும் ரயிலையும் சேதப்படுத்திய ரஷ்ய சுற்றுலா பயணிக்கு  காலி மேலதிக நீதவான் லக்மினி விதானகமகே அபாரதம் விதித்துள்ளார்.
+
+அதன்படி, ஏற்பட்ட சேதங்களுகாக ரயில் திணைக்களத்திற்கு  1.78 மில்லியன் ரூபாவும், போக்குவரத்து விதிமீறலுக்கு 56,000 ரூபாவும்  செலுத்துமாறு உத்தரவிட்டப்பட்டுள்ளது.
+
+கடந்த ஜனவரி மாதம் 23 ஆம் திகதி பெலியத்தவில் இருந்து மஹோ நோக்கிச் சென்ற ரயில் மீதும் கடவை மீதும் காரை மோதி சேதத்தை ஏற்படுத்தினார்.
+
+இதனையடுத்து காரில் பயணித்த ரஷ்யப் பிரஜையும் மற்றவரும் காயமடைந்து கராப்பிட்டிய போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+
+இந்நிலையில், போக்குவரத்து விதிகளின் கீழ் சுற்றுலாப் பயணிக்கு எதிராக பொலிஸார் நடவடிக்கை எடுத்ததோடு, ரயில் சொத்துகளுக்கு ஏற்பட்ட சேதங்களுக்கு ரயில் திணைக்களம் இழப்பீடு கோரியிருந்த்து.
+
+...
+
+[Data](articles/92f42411.json)
+
+---
+
+### Former Navy Commander Basil Goonesekara passes away
+
+*2024-02-17 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Navy-Commander-Basil-Goonesekara-passes-away/108-277240) · `en`
+
+Colombo, Feb 17 (Daily Mirror) The seventh (07th) Commander of the Sri Lanka Navy, Admiral Basil Goonesekara passed away today.
+
+He joined the Royal Ceylon Navy as Sub Lieutenant on 23rd July 1951. The senior officer held office from 01st June 1973 to 31st May 1979, as the 07th Commander of the Sri Lanka Navy.
+
+Late Admiral Basil Goonesekara was born in 1929. His remains lie at No. 50/06, Anula Road, Colombo 06 till 18th February 2024 to pay last respects and the funeral will be held with full service honours in compliance with naval traditions at the General Cemetery, Borella on 18th February.
+
+◼️
+
+[Data](articles/b6701303.json)
+
+---
 
 ### Ampara SLTB depot officers interdicted over bus license plate switching
 
@@ -43,6 +79,8 @@ The scandal unfolded during the second phase of the project aimed at renovating 
 ...
 
 [Data](articles/bfa09082.json)
+
+[Extended Data](ext_articles/bfa09082.ext.json)
 
 ---
 
@@ -61,6 +99,8 @@ Sri Lanka Navy said both sides will be participating in various programmes aimed
 ...
 
 [Data](articles/9fd86768.json)
+
+[Extended Data](ext_articles/9fd86768.ext.json)
 
 ---
 
@@ -2025,41 +2065,5 @@ Sithara Ltd., the pioneer printing ink manufacturing company in Sri Lanka, has b
 [Data](articles/1c892902.json)
 
 [Extended Data](ext_articles/1c892902.ext.json)
-
----
-
-### “Best of Sri Lanka” product promotion at LuLu Hypermarket in Dubai
-
-*2024-02-17 05:11:25* · [`dailyftlk`](https://www.ft.lk/business/Best-of-Sri-Lanka-product-promotion-at-LuLu-Hypermarket-in-Dubai/34-758579) · `en`
-
-The Consulate General of Sri Lanka in Dubai and Northern Emirates in collaboration with the Lulu Hypermarket organised the “Best of Sri Lanka”, Sri Lankan product promotion campaign in line with the 76th Independence Day of Sri Lanka at LuLu Hypermarket, Al Barsha on 2 February.
-
-The product promotion campaign was held over one week from 2 to 9 February and the Sri Lankan authentic food, coconut oil and milk, fresh fruits and vegetables including the confectionary items, were promoted among the community living in the UAE. The activities lined up with attractive displays and banners with several creative arrangements done by natural ingredients within the hypermarket. The promotion boosted not only the trade but also the stronger ties between the Lulu Group and exporters of Sri Lanka.
-
-...
-
-[Data](articles/0a000ac2.json)
-
-[Extended Data](ext_articles/0a000ac2.ext.json)
-
----
-
-### President discusses hostages and Gaza conflict with Israeli Transport Minister
-
-*2024-02-17 05:08:47* · [`dailyftlk`](https://www.ft.lk/news/President-discusses-hostages-and-Gaza-conflict-with-Israeli-Transport-Minister/56-758578) · `en`
-
-In a significant diplomatic encounter, Israel’s Transport and Road Safety Minister Brig. Gen. Miri Regev, convened with President Ranil Wickremesinghe.
-
-The meeting delved into crucial matters concerning the safe return of Israeli hostages, with President Wickremesinghe affirming Sri Lanka’s unwavering commitment to advocating for their safety. Furthermore, amidst the ongoing hostilities in Gaza, the President called for an immediate cessation of violence, underscoring the paramount importance of peace and stability in the region.
-
-Highlighting Sri Lanka’s stance on the Israeli-Palestinian conflict, President Wickremesinghe reiterated the nation’s support for the establishment of a Palestinian State.
-
-He also emphasised the significance of ensuring Israel’s security, fostering a balanced approach to regional peace.
-
-...
-
-[Data](articles/4942dd60.json)
-
-[Extended Data](ext_articles/4942dd60.ext.json)
 
 ---

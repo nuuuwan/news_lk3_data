@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 23:51:25**
+As of **2024-02-18 00:03:11**
 
 ## Newspaper Stats
 
-*Scraped **7,714** Articles*
+*Scraped **7,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,80 +13,174 @@ bbccomsinhala | 99
 dbsjeyarajcom | 152
 newsfirstlk | 363
 islandlk | 394
-economynextcom | 399
+economynextcom | 400
 dailyftlk | 415
 adalk | 656
 tamilmirrorlk | 936
 adaderanalk | 949
 virakesarilk | 1,017
-adaderanasinhalalk | 1,109
-dailymirrorlk | 1,139
+adaderanasinhalalk | 1,113
+dailymirrorlk | 1,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,711 (100.0%) of 7,714 articles have been extended.
+7,714 (99.9%) of 7,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
-### ஆப்கானிஸ்தானுடனான பரபரப்பான முதலாவது ரி20யில் இலங்கை 4 ஓட்டங்களால் வெற்றி
+### Sri Lanka win by 4 runs against Afghanistan in nail-biting T20 opener
+
+*2024-02-17 23:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-win-by-4-runs-against-Afghanistan-in-nail-biting-T20-opener/108-277244) · `en`
+
+Dambulla, Feb 17 (Daily Mirror) - The first T20 match of the three-match series between Sri Lanka and Afghanistan ended in a nail-biting finish, with Sri Lanka winning the match by 4 runs in Dambulla today.
+
+Skipper Wanindu Hasaranga batted well as Sri Lanka scored 160/10.
+
+In the chase, Afghanistan started well but Ibrahim Zadran's 67 runs weren't enough as Matheesha Pathirana's 4 wickets for 24 runs sealed the win for Sri Lanka by 4 runs.
+
+◼️
+
+[Data](articles/733f9f18.json)
+
+---
+
+### Sri Lanka won by 4 runs in the first T20 with Afghanistan
 
 *2024-02-17 23:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176645) · `ta`
 
-ரங்கிரி தம்புள்ளை சர்வதேச விளையாட்டரங்கில் இன்று சனிக்கிழமை (17) நடைபெற்ற இலங்கைக்கும் ஆப்கானிஸ்தானுக்கும் இடையிலான வரலாற்று முக்கியம் வாய்ந்த முதலாவது இருதரப்பு ரி20 தொடரின் ஆரம்பப் போட்டியில் 4 ஓட்டங்களால் இலங்கை பரபரப்பான வெற்றியை ஈட்டியது.
+Sri Lanka won the hectic victory by 4 runs in the first bilateral T20 series in the first bilateral T20 series, which was held at the Rangiri Dambulla International Stadium on Saturday (17).
 
-இலங்கையினால் நிர்ணயிக்கப்பட்ட 161 ஓட்டங்கள் வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் 20 ஓவர்களில் 9 விக்கெட்களை இழந்து 156 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+Afghanistan lost by 9 wickets in 20 overs and lost 156 runs.
 
-இலங்கை அணித் தலைவர் வனிந்து ஹசரங்கவின் அதிரடி அரைச் சதம், மதீஷ பத்திரணவின் 4 விக்கெட் குவியல், பினுர பெர்னாண்டோவின் கட்டுப்பாடான கடைசி ஓவர் என்பன இலங்கையின் வெற்றியை உறுதிசெய்தன.
+Sri Lanka's captain Wanindu Hazaranga's semi -century, the 4 wickets pile of Madheesha Pathirana, and the last over of Binura Fernando confirmed Sri Lanka's victory.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இலங்கை 19 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 160 ஓட்டங்களைப் பெற்றது.
+Sri Lanka, who was first invited to bat in the upting match, lost all the wickets in 19 overs and scored 160 runs.
 
-ஆப்கானிஸ்தானுடனான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டிகளில் இலங்கையின் முன்வரிசை வீரர்கள் துடுப்பாட்டத்தில் அசத்திய போதிலும் இந்தப் போட்டியில் அவர்களது ஜம்பம் பலிக்கவில்லை.
+Sri Lanka's leading players in international ODI matches against Afghanistan but their jump in the match.
 
-போட்டியின் 8ஆவது ஓவரில் இலங்கை 4 முன்னணி வீரர்களை இழந்து 55 ஓட்டங்களை மாத்திரம் பெற்றிருந்தது.
+Sri Lanka lost 4 leading players in the 8th over of the match and scored only 55 runs.
+
+Sri Lanka's ODI record Man Bethum Nissank (6), Kusal Mendis (10), Tanjaya de Silva (24) and Sarit Asalanka (3) lost the game with fewer runs.
+
+In this case, Hazaranga, who had boldly raised himself in the field of batting, went on to take the action to illustrate the others.
 
 ...
 
 [Data](articles/81a22e9a.json)
 
+[Extended Data](ext_articles/81a22e9a.ext.json)
+
 ---
 
-### පොඩි මාලි ලංකාවට ජය ගෙනෙයි
+### Lady Mali win Sri Lanka
 
 *2024-02-17 23:03:34* · [`adalk`](https://www.ada.lk/sports/පොඩි-මාලි-ලංකාවට-ජය-ගෙනෙයි/9-408141) · `si`
 
-සංචාරක ඇෆ්ගනිස්ථාන කණ්ඩායම හා ශ්‍රි ලංකා කණ්ඩායම අතර දඹුල්ලේ පැවැති පළමු විස්සයි 20 තරගයෙන් ලකුණු 4ක තියුණු ජයක් වාර්තා කිරීමට ශ්‍රි ලංකා කණ්ඩායම සමත්විය.
+Sri Lanka wins 4 runs win by 4 runs in the first Twenty20 match between the Afghanistan and the Sri Lanka team.
 
-මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 19කදී සියලු දෙනා දැවී ලකුණු 160ක් රැස් කළේය. නායක වනිඳු හසරංග පන්දු 32කදී වේගවත් ලකුණු 67ක් වාර්තා කිරීමට සමත්වූ අතර අනෙක් කිසිම පිතිකරුවෙකුට ලකුණු 30 සීමාව ඉක්මවා යාමට නොහැකි විය.
+Batting first Sri Lanka scored 160 runs in 19 overs. Leader Mountma Hasar was scored 67 runs in 32 balls and no other batsmen could not exceed the 30 marks.
 
-ලකුණු 161ක ජයග්‍රාහී ඉලක්කයක් හඹා ගිය ඇෆ්ගනිස්ථාන කණ්ඩායමට පන්දුවාර 20 අවසානයේදි කඩුලු 9ක් දැවී රැස්කළ හැකිවූයේ ලකුණු 156ක් පමණි.
+Chasing a 161-run target, Afghanistan won only 156 runs for the loss of 9 wickets at the end of 20 overs.
 
-ඇෆ්ගනිස්ථාන මුල්පෙළ පිතිරුවන් ලංකාවට අභියෝගයක් වෙමින් වේගයෙන් ලකුණු රැස්කිරිමට කටයුතු කළේය. කෙසේ වෙතත් ශ්‍රී ලංකා පන්දු යවන්නෝ ඇෆ්ගනිස්ථානයට අභියෝගයක් වෙමින් කඩුලු ලබා ගැනීමට කටයුතු කළේය.
+Afghanistan's quaters are challenging to Sri Lanka and raised rapidates. However, Sri Lankan bowlers were challenging to Afghanistan and retaliated.
 
-ආරම්භක පිතිකරු මෙන්ම නායක ඊබ්‍රහිම් පන්දුවාර 20 අවසන් වන තෙක් ක්‍රීඩා කරමින් ඇෆ්ගනිස්ථාන කණ්ඩායම ජයග්‍රහණයට කැඳවා ගෙන යාමට උත්සාහ කළත් එයද ව්‍යවර්ථ විය.
+The Afghanistan team tried to win the opening batsman and the leader of Ibraham until the end of 20 overs.
+
+At least 18 overs, the Afghan group scored 147 runs for the loss of 7 wickets.
+
+However, the 21th decisive overdroad Visubet Pathirana, which had been thrown into two rivalry 2 wickets in the same court, was created to win the match.
+
+Ibrahim was unable to collect one sign in the first four balls of the first ball of the final ball and scored 2 runs for the fifth and 4 runs.
 
 ...
 
 [Data](articles/bd19822b.json)
 
+[Extended Data](ext_articles/bd19822b.ext.json)
+
 ---
 
-### அரசாங்கம் விகாரைகளின் மின்சாரத்தைக் கூட துண்டித்து தேரர்களைக் கூட இழிவுபடுத்தி வருகிறது - எதிர்க்கட்சித் தலைவர்
+### The government is cutting down the electricity of the idols and despises the charioteers - the leader of the opposition
 
 *2024-02-17 22:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176616) · `ta`
 
-பௌத்த மதத்திற்கு முன்னுரிமை வழங்கப்பட்டு ஏனைய மதங்களுக்கும் பொருத்தமான இடம் வழங்கப்பட வேண்டும் என அரசியலமைப்பில் கூறப்பட்டுள்ள போதிலும், மிஹிந்தலை புனித பூமியில் அமைந்துள்ள மிஹிந்தலை ரஜ மகா விகாரையின் மின்சாரம் கூட துண்டிக்கப்பட்டுள்ளது. பௌத்த பிக்குகள் மேற்கொள்ளும் சமய சேவைகள் உட்பட ஏனைய சேவைகளையும் சூட்சமமாக நிறுத்த அரச கட்டமைப்பு  செயற்பட்டு வருவதாகவும், மதப்பணிகளை ஒவ்வொன்றாக நிறுத்தி வருவதாகவும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Although the Constitution has stated that Buddhism should be given priority and other religions should be given a suitable place, the Mihintale Raja Vihara, located on the holy earth, has been cut off.. The Opposition Leader said that the state structure is working to stop other services, including the religious services of Buddhist monks, and that religious work is being stopped.
 
-அனுராதபுரத்தில் சனிக்கிழமை (17) இடம்பெற்ற பிக்குகள் ஆலோசனை பேரவையின் மாவட்ட மாநாட்டில் உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said this while addressing the District Conference of the Monks Advisory Council held on Saturday (17) in Anuradhapura.
 
-சாசன கல்வியுடன் பிரிவெனாக் கல்வியை ஊக்குவிப்பதன் மூலம், இந்த நிறுவனங்கள் புத்திஜீவிகளின் மையங்களாக மாற்றப்படும். சசுனட அருண ஊடாக பல பணிகளை செய்திருந்தாலும், அந்த திட்டங்களுக்கும் பல்வேறு பொய்யான சேறுபூசும் கதைகள் கூறப்பட்டு வருகின்றன. இதனை பொருட்படுத்தாது, ஐக்கிய மக்கள் சக்தி அமைக்கும் அரசாங்கத்தில் சம்புத்த சாசனத்தைப் பாதுகாக்க நடவடிக்கை எடுக்கப்படும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+By promoting separation education with Charter, these institutions will be transformed into intellectuals centers. Although Sasunada has done many tasks through Aruna, the projects have been told by various false mudslides.. Regardless of this, the Opposition Leader said that steps would be taken to protect the Sampantha Charter in the United People's Power.
 
 ...
 
 [Data](articles/87911b7c.json)
+
+[Extended Data](ext_articles/87911b7c.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවට තියුණු ජයක්
+
+*2024-02-17 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193523) · `si`
+
+සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පළමු විස්සයි විස්ස ක්‍රිකට් තරගය අද (17) පැවැත්වුණි.
+
+ඇෆ්ගනිස්තානයේ ආරාධනයෙන් පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 19ක් අවසානයේ සියලුදෙනා දැවී ලබාගත්තේ ලකුණු 160ක් පමණි.
+
+ඒ අනුව තරගය ජයගැනීම සඳහා ඇෆ්ගනිස්තානයට හිමිවූ ඉලක්කය ලකුණු 161කි.
+
+නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 9ක් දැවී ඇෆ්ගනිස්තානයට රැස්කර ගැනීමට හැකි වූයේ ලකුණු 156ක් පමණි.
+
+ශ්‍රී ලංකා ලකුණු පුවරුව ඔසවා තැබූ වනිඳු හසරංග පන්දු 32ක් තුළ ලකුණු 67ක් ලබා ගත්තේය.
+
+◼️
+
+[Data](articles/5d870db1.json)
+
+---
+
+### සංචාරක ක්ෂේත්‍රයේ ගැටලු සොයන්න ජනපති යයි
+
+*2024-02-17 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193522) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (17) තංගල්ල සහ ගාල්ල ප්‍රදේශවල නිරීක්ෂණ චාරිකාවකට එක් විය.
+
+මෙරට සංචාරක කර්මාන්තයේ සිදුවී ඇති නව පිබිදීමත් සමග සංචාරක කලාප ආශ්‍රිත පහසුකම් පුළුල් කිරීමට රජය විශේෂ අවධානයකින් කටයුතු කරන අතර, එම කටයුතු සොයා බැලීමට ජනාධිපතිවරයා මෙලෙස පැමිණ තිබුණි.
+
+මෙහිදී සංචාරක හෝටල් කිහිපයක් වෙත ගොස් ව්‍යාපාරිකයන් හමුවූ ජනාධිපතිවරයා ඔවුන්ගේ ගැටලු පිළිබඳව විමසා බැලීය.
+
+සංචාරක කර්මාන්තය ආශ්‍රිත ව්‍යාපාරික ප්‍රජාව ඉදිරිපත් කළ බොහෝ ගැටලුවලට එම අවස්ථාවේම අදාළ නිලධාරීන් දුරකථන මාර්ගයෙන් සම්බන්ධ කර ගනිමින් විසඳුම් ලබාදීමට ජනාධිපතිවරයා පියවර ගත් අතර එම කර්මාන්තයේ දියුණුව උදෙසා ගත යුතු පියවර පිළිබඳ ඔවුන්ගේ අදහස් ලබාගැනීමට ද කටයුතු කළේය.
+
+2023 වසරේ මෙරටට පැමිණි සංචාරකයන්ගේ සංඛ්‍යාව 1,489,000ක් වන අතර එය 2022 වසරට සාපේක්ෂව දෙගුණයක වැඩිවීමකි.
+
+මෙරටට වැඩිම සංචාරකයන් ප්‍රමාණයක් පැමිණ ඇත්තේ 2017 වසරේදී වන අතර එම සංඛ්‍යාව ලක්ෂ 25කි. 2024 වසරේ දී එම ඉලක්කය අභිභවා යාම රජයේ අරමුණ වන අතර ලබන වසර වන විට එම සංඛ්‍යාව තවදුරටත් ඉහළ නංවා ගැනීමට සැලසුම් ක්‍රියාත්මක කර තිබේ.
+
+...
+
+[Data](articles/b05312ce.json)
+
+---
+
+### රු කෝටි ගණන් මුදල් වංචා කර රට පැන්න ජාවාරම්කරුව ආපසු රැගෙන එයි
+
+*2024-02-17 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193521) · `si`
+
+මැණික් ව්‍යාපාරිකයෙක් රවටා රුපියල් බිලියන දෙකකට ආසන්න මුදලක් වංචා කර මාලදිවයිනේ සැඟව සිටි ශ්‍රී ලාංකිකයෙකු මෙරටට පිටුවහල් කර තිබේ.
+
+අදාළ සැකකරු මෙරට සිටියදී රුපියල් කෝටි 24ක් වංචා කර ඇති බවට ඔහුට එරෙහිව කොළඹ අපරාධ කොට්ඨාසයට පැමිණිල්ලක් ලැබී තිබූ අතර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය හා වාණිජ අපරාධ විමර්ශන අංශයට රුපියල් කෝටි 6ක, රුපියල් කෝටි 36ක, රුපියල් කෝටි 40ක ආදී වශයෙන් මුදල් වංචා සම්බන්ධයෙන් ඔහුට විරුද්ධව පැමිණිලි ලැබී තිබුණි.
+
+පොලීසිය පැවසුවේ ඒ අනුව සැකකරු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය සූදානම් වනවිට සැකකරු සිය බිරිය හා පියා සමග මාලදිවයිනට පළාගොස් තිබූ බවය.
+
+අනතුරුව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් ජාත්‍යන්තර පොලීසිය හරහා සැකකරුට රතු වරෙන්තු නිකුත් කරනු ලැබීය.
+
+ඒ පිළිබඳව නොදත් සැකකරු සිය සංචාරක වීසා කාලය අවසන් වීම හේතුවෙන් මාලදිවයිනේ ආගමන විගමන කාර්යලය වෙත ගොස් තිබුණේ නැවත වීසා කාල සීමාව දිගු කරගැනීම සඳහාය.
+
+...
+
+[Data](articles/2e2ace3f.json)
 
 ---
 
@@ -143,6 +237,24 @@ The tourism sector in Sri Lanka faced a rapid downturn due to the COVID-19 pande
 [Data](articles/25ce840b.json)
 
 [Extended Data](ext_articles/25ce840b.ext.json)
+
+---
+
+### සාම්ප්‍රදායක දේශපාලනය අවසන් කළ යුතු කාලය ඇවිත් - දිලිත් ජයවීර
+
+*2024-02-17 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193520) · `si`
+
+සාම්ප්‍රදායික දේශපාලනය අවසන් කළ යුතු කාලය එළඹ ඇති බව මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+එම පක්ෂයේ කොළඹ දිස්ත්‍රික් සමුළුව අමතමින් ඒ මහතා මෙම අදහස් පළ කළේය.
+
+මව්බිම ජනතා පක්ෂයේ කොළඹ දිස්ත්‍රික් සමුළුව සුගතදාස ගෘහස්ත ක්‍රීඩාංගනයේදී අද (17) පස්වරුවේදී පැවැත්වුණි.
+
+මෙම සමුළුව සඳහා නැගෙනහිර පළාත් හිටපු ආණ්ඩුකාර අනුරාධා යහම්පත්, ශ්‍රී ලංකා කොමියුනිස්ට් පක්ෂයේ නියෝජ්‍ය සභාපති, පාර්ලිමේන්තු මන්ත්‍රී වීරසුමන වීරසිංහ, හිටපු පාර්ලිමේන්තු මන්ත්‍රී පියසිරි විජේනායක, රාජ්‍ය තාන්ත්‍රික නිලධාරී පාලිත කොහොන, ජාත්‍යන්තර මෝටර් රථ ධාවන ශූර ඩිලන්ත මාලගමුව සහ ධාවන ශූර ෂෙහාන් අඹේපිටිය යන මහත්ම මහත්මීන් ඇතුළු විශාල පිරිසක් සහභාගි විය.
+
+◼️
+
+[Data](articles/19af2636.json)
 
 ---
 
@@ -491,6 +603,30 @@ According to reports, this dire situation has forced authorities to accommodate 
 [Data](articles/2456d91a.json)
 
 [Extended Data](ext_articles/2456d91a.ext.json)
+
+---
+
+### Sri Lanka coconut auction prices down 14-pct in 2024
+
+*2024-02-17 18:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-down-14-pct-in-2024-151237/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s average coconut prices fell 7.1 percent to 64,751 per 1,000 nuts at an auction on February 15, data from the Coconut Development Authority shows.
+
+Prices are down 14 percent from the last auction in December.
+
+The highest price was 75,200 rupees for 1,000 nuts down from 78,500 rupees a week ago, while the lowest was 57,000 up from 50,000 rupees.
+
+The auction offered 390,327 coconuts and 305256 nuts were sold.
+
+Wholesale prices were 95 to 100 rupees for large nuts and 80 to 90 rupees per small nut in the period of January 28 to Feb 01.
+
+Farmgate prices in Kurunegala were 70,000 to 72,000 rupees per 1,000 nuts.
+
+Coconut shells were 26,000 to 28,000 rupees a metric tonne. (Colombo/Jan17/2024)
+
+◼️
+
+[Data](articles/33b80bb3.json)
 
 ---
 
@@ -1941,115 +2077,5 @@ Upon completing her Jordan visit, the U.S. Under Secretary will travel to Sri La
 [Data](articles/0b0b6c52.json)
 
 [Extended Data](ext_articles/0b0b6c52.ext.json)
-
----
-
-### Agreement between Ukraine and France
-
-*2024-02-17 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193493) · `si`
-
-Ukraine and France have reached a bilateral security agreement in a 10-year bilateral security agreement.
-
-According to foreign media, French President Vladimir Celenceky and French President Eashanule Macron have been signed for this agreement.
-
-The France also agreed to the Ukraine to hand over an additional amount of war aid worth 3 billion euro.
-
-French President Emanuel Mcroon has stated that the future of Europe cannot depend on the US election.
-
-The President has also reached the same agreement with Germany a few hours before the France, France.
-
-◼️
-
-[Data](articles/321d58bc.json)
-
-[Extended Data](ext_articles/321d58bc.ext.json)
-
----
-
-### Water supply suspended for 16 hours in parts of Colombo today
-
-*2024-02-17 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97339/water-supply-suspended-for-16-hours-in-parts-of-colombo-today) · `en`
-
-Water supply for parts of Colombo will be suspended this evening (Feb.17) for 16 hours, the National Water Supply & Drainage Board (NWSDB) says.
-
-The water cut will be in place from 5.00 p.m. today until 9.00 a.m. tomorrow (Feb.18).
-
-According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be affected by the water cut imposed due to essential maintenance work planned under the Ambatale Water Supply System Improvements and Energy Saving Project.
-
-◼️
-
-[Data](articles/79e932e4.json)
-
-[Extended Data](ext_articles/79e932e4.ext.json)
-
----
-
-### Parts of Colombo to experience 16-hour water cut today
-
-*2024-02-17 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97339/parts-of-colombo-to-experience-16-hour-water-cut-today) · `en`
-
-Water supply for parts of Colombo will be suspended this evening (Feb.17) for 16 hours, the National Water Supply & Drainage Board (NWSDB) says.
-
-The water cut will be in place from 5.00 p.m. today until 9.00 a.m. tomorrow (Feb.18).
-
-According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be affected by the water cut imposed due to essential maintenance work planned under the Ambatale Water Supply System Improvements and Energy Saving Project.
-
-◼️
-
-[Data](articles/87949ab8.json)
-
-[Extended Data](ext_articles/87949ab8.ext.json)
-
----
-
-### What Is Necessary In Gaza? Ceasefire Or Peace Keeping, Or Both?
-
-*2024-02-17 08:40:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/what-is-necessary-in-gaza-ceasefire-or-peace-keeping-or-both/) · `en`
-
-It is extremely distressing to hear news from Gaza and about Palestinians. Within the last four months, over 28, 000 Palestinians have been killed, and over 50,000 people have been terribly injured. Earlier the Israeli Prime Minister, Benjamin Netanyahu, ordered the Palestinians to go South. Now he is asking them to leave the South! To where? There is no answer.
-
-The ceasefire discussions held in Cairo recently failed as the Israeli delegation adamantly left the discussions without listening to the other side or the mediators. ‘War, War and War’ seems to be their slogan.
-
-...
-
-[Data](articles/3a36ca57.json)
-
-[Extended Data](ext_articles/3a36ca57.ext.json)
-
----
-
-### Trump ordered to pay $355 million in NY civil fraud trial ruling
-
-*2024-02-17 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trump-ordered-to-pay-355-million-in-NY-civil-fraud-trial-ruling/108-277232) · `en`
-
-(New York Times) - A New York judge on Friday handed Donald J. Trump a crushing defeat in his civil fraud case, finding the former president liable for conspiring to manipulate his net worth and ordering him to pay a penalty of nearly $355 million plus interest that could wipe out his entire stockpile of cash.
-
-The decision by Justice Arthur F. Engoron caps a chaotic, yearslong case in which New York’s attorney general put Mr. Trump’s fantastical claims of wealth on trial. With no jury, the power was in Justice Engoron’s hands alone, and he came down hard: The judge delivered a sweeping array of punishments that threatens the former president’s business empire as he simultaneously contends with four criminal prosecutions and seeks to regain the White House.
-
-...
-
-[Data](articles/1fa9db99.json)
-
-[Extended Data](ext_articles/1fa9db99.ext.json)
-
----
-
-### Information about today's weather
-
-*2024-02-17 08:33:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-தொடர்பில்-வெளியான-தகவல்/175-333337) · `ta`
-
-The Department of Meteorology has said that rainfall is likely in the country, the Eastern and the Uva provinces and in Polonnaruwa, Matale and Nuwara Eliya districts.
-
-In some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts. Rain or thunderstorms are possible after 2.00 pm.
-
-Heavy winds are expected to blow up to 30-40 km / h from time to time in the Eastern Slips of the Central Highlands and in the North, North Central, North Western, Uva and Eastern Provinces and Hambantota and Kandy districts.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. (Of)
-
-◼️
-
-[Data](articles/d2c01a4c.json)
-
-[Extended Data](ext_articles/d2c01a4c.ext.json)
 
 ---

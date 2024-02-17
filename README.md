@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 12:48:20**
+As of **2024-02-17 13:02:24**
 
 ## Newspaper Stats
 
-*Scraped **7,640** Articles*
+*Scraped **7,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 99
 dbsjeyarajcom | 150
 newsfirstlk | 363
 islandlk | 394
-economynextcom | 398
+economynextcom | 399
 dailyftlk | 415
-adalk | 645
-tamilmirrorlk | 926
+adalk | 647
+tamilmirrorlk | 931
 adaderanalk | 936
-virakesarilk | 1,005
+virakesarilk | 1,006
 adaderanasinhalalk | 1,094
 dailymirrorlk | 1,130
 
@@ -26,11 +26,29 @@ dailymirrorlk | 1,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,640 (100.0%) of 7,640 articles have been extended.
+7,640 (99.9%) of 7,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
+
+### நவால்னியின் மரணத்திற்கு புட்டினே காரணம் - பைடன்
+
+*2024-02-17 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176606) · `ta`
+
+ரஸ்ய  ஜனாதிபதி விளாடிமிர் புட்டினை கடுமையாக விமர்சித்த எதிர்கட்சி தலைவர் அலெக்சே நவால்னியின்  மரணத்திற்கு ரஸ்ய ஜனாதிபதியே காரணம் என  அமெரிக்க ஜனாதிபதி ஜோ பைடன்  வெளிப்படையாக குற்றம்சாட்டியுள்ளார்.
+
+.புட்டினே இதற்கு முழுக்காரணம் என தெரிவித்துள்ள அவர் நான் கடவுளை நம்புகின்றேன் எனவும் குறிப்பிட்டுள்ளார்.
+
+இது குறித்து எந்த தவறுகளையும் இழைக்கவேண்டாம் புட்டினே காரணம் என அவா தெரிவித்துள்ளார்.
+
+புட்டின் அரசாங்கத்தின் ஊழல் வன்முறைகள் உட்பட அனைத்து நடவடிக்கைகளையும் அவர் துணிச்சலாக எதிர்த்தார். என தெரிவித்துள்ள பைடன் இதற்கு பதில் புட்டின் நவோல்னிக்கு நஞ்சூட்டினார் கைதுசெய்தார் போலியான குற்றச்சாட்டுகளை சுமத்தி வழக்குதாக்கல் செய்தார் சிறையில் அடைத்தார் அங்கும் அவர் தனிமையில் வைக்கப்பட்டிருந்தார் என பைடன்  தெரிவித்துள்ளார்
+
+◼️
+
+[Data](articles/7cd06ffe.json)
+
+---
 
 ### Russian tourist fined Rs. 1.78Mn for damaging train in railway crossing mishap
 
@@ -49,6 +67,22 @@ The railway engine and the colour signal system had been extensively damaged in 
 [Data](articles/77e6e6fb.json)
 
 [Extended Data](ext_articles/77e6e6fb.ext.json)
+
+---
+
+### கிணற்றை எட்டிப்பார்த்தவருக்கு காத்திருந்த அதிர்ச்சி
+
+*2024-02-17 11:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிணற்றை-எட்டிப்பார்த்தவருக்கு-காத்திருந்த-அதிர்ச்சி/175-333342) · `ta`
+
+ரிதிகம பிரதேச செயலகப் பிரிவுக்குட்பட்ட வெலகெதர பொலிஸ் பிரிவிற்குட்பட்ட வீடொன்றின் தோட்டத்தில் உள்ள கிணற்றிலிருந்து சிசு ஒன்றின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+வீட்டில் தண்ணீர் இல்லாததால் தண்ணீர் மோட்டாரை போடும் முன் கிணற்றை சோதித்த வீட்டின் உரிமையாளர், கிணற்று தண்ணீரில் பொம்மை ஒன்று மிதப்பதைக் கண்டு அதை அகற்ற முற்பட்ட போது, பொம்மை இல்லை என்பதை உணர்ந்தார்.
+
+பின்னர், வீட்டின் உரிமையாளர் பொலிஸில் முறைப்பாடு செய்ததையடுத்து, பொலிஸார் சம்பவ இடத்திற்கு வந்து பார்வையிட்டதுடன், குழந்தையின் சடலம் பிரேத பரிசோதனைக்காக குருநாகல் போதனா வைத்தியசாலைக்கு நீதவானின் உத்தரவின் பேரில் அனுப்பி வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/99954ccc.json)
 
 ---
 
@@ -74,6 +108,58 @@ Meanwhile, foreign security reports have also taken into custody over 100 people
 
 ---
 
+### முன்னாள் அமைச்சர் காமினி ஜயவிக்ரம பெரேரா காலமானர்
+
+*2024-02-17 11:33:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-காமினி-ஜயவிக்ரம-பெரேரா-காலமானர்/175-333341) · `ta`
+
+முன்னாள் அமைச்சர் காமினி ஜயவிக்ரம பெரேரா தனது 83 ஆவது வயதில் காலமானார்.
+
+1941 ஜனவரி 29 ஆம் திகதி பிறந்த காமினி ஜயவிக்ரம பெரேரா, ஐக்கிய தேசிய கட்சியின் முன்னாள் தவிசாளர்களில் ஒருவருமாவார். R
+
+◼️
+
+[Data](articles/19381855.json)
+
+---
+
+### யாழ். சிறைச்சாலையில் அமைச்சர் ஜீவன் தொண்டமான்
+
+*2024-02-17 11:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-சிறைச்சாலையில்-அமைச்சர்-ஜீவன்-தொண்டமான்/71-333340) · `ta`
+
+யாழ்ப்பாணம் சிறைச்சாலையில் அடைக்கப்பட்டுள்ள 43 தமிழக மீனவர்களையும் அமைச்சர் ஜீவன் தொண்டமான் நேரில் சென்று சந்தித்துள்ளார்.
+
+மீனவர் பிரச்சினைக்கு விரைவில் நிலையானதொரு தீர்வை காணுமாறு இந்திய அரசிடமும், ஜனாதிபதி ரணில் விக்ரமசிங்கவிடமும் கோரிக்கை விடுத்துள்ளோம் என்று இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+யாழ்ப்பாணம் சிறைச்சாலையில் உள்ள 43 தமிழக மீனவர்களை அமைச்சர் நேரில் சென்று சந்தித்து அவர்களிடம் சுகம் விசாரித்ததுடன், அவர்களுக்குள்ள பிரச்சினைகளை கேட்டறிந்துகொண்டார்.
+
+“யாழ்ப்பாணம் சிறையில் உள்ள 43 தமிழக மீனவர்களை சந்தித்தேன். அவர்கள் ஏன் கைது செய்யப்பட்டுள்ளனர் என்பது பற்றி எடுத்து கூறினேன். அவர்களும் அதனை ஏற்றுக்கொண்டனர்.
+
+43 மீனவர்களில் இருவர் கடத்தல் சம்பவத்துடன் தொடர்புபட்டுள்ளனர். ஏனைய 41 மீனவர்களுக்கும் இலங்கை அரசு மூலமாக அல்லது, எம்மால் முடிந்த உதவிகளை நிச்சயம் செய்வோம்.
+
+...
+
+[Data](articles/3d6253e5.json)
+
+---
+
+### விபத்தில் ஒருவர் உயிரிழப்பு - மூவர் காயம்
+
+*2024-02-17 11:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/விபத்தில்-ஒருவர்-உயிரிழப்பு-மூவர்-காயம்/73-333339) · `ta`
+
+மட்டக்களப்பு - வாழைச்சேனை பிரதான வீதியில் தன்னாமுனையில் இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்ததுடன் மேலும் மூவர் காயமடைந்துள்ளதாக ஏறாவூர்ப் பொலிஸார் தெரிவித்தனர்.
+
+வெள்ளிக்கிழமை (16) இரவு காத்தான்குடியிலிருந்து  ஏறாவூர் நோக்கி பயணித்த முச்சக்கரவண்டி தன்னாமுனையில் பட்டா ரக வாகனம் நேருக்கு நேராக மோதியத்தில் விபத்து ஏற்பட்டுள்ளது.
+
+இச்சம்பவத்தில் முச்சக்கரவண்டிவில் பயணித்த காத்தான்குடியைச் சேர்ந்த றஹீம் றியாஸ் என்பவர் உயிரிழந்ததுடன்  முச்சக்கரவண்டி சாரதி, குழந்தை மற்றும் பெண் காயமடடைந்த நிலையில் மட்டக்களப்பு போதனா வைத்தியசாலையில் சிகிற்சைக்காக அனுமதிக்கப்பட்டுள்ளனர்.
+
+இச்சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை ஏறாவூர்ப் பொலிஸார் மேற்கொண்டு வருகின்றனர்.    R
+
+◼️
+
+[Data](articles/3c70e00f.json)
+
+---
+
 ### The body of a student who was rushed in the sea wave
 
 *2024-02-17 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176599) · `ta`
@@ -95,6 +181,24 @@ In addition, Nintavur police are conducting further investigations to six other 
 [Data](articles/6f289030.json)
 
 [Extended Data](ext_articles/6f289030.ext.json)
+
+---
+
+### நுவரெலியாவில் கோவா விலை எகிறியது.
+
+*2024-02-17 11:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-கோவா-விலை-எகிறியது/175-333338) · `ta`
+
+கடந்த ஒரு மாதத்திற்கு முன் 2,000 ரூபாவுக்கு அதிகமாக விலை உச்சம் கொண்டிருந்த கரட் இன்று அருவடை அதிகரிக்கப்பட்டுள்ள நிலையில் கிலோ ஒன்றுக்கான விற்பனை விலை 360 ரூபாவாக விலை வீழ்ச்சி அடைந்துள்ளது.
+
+அதேநேரத்தில் முட்டை கோஸ் என அழைக்கப்படும் பச்சை கோவாவின் விலை கரட்டின் விலையை விட அதிகரித்து வருகின்றதை அவதானிக்க கூடியதாக இருக்கின்றது.
+
+அத்துடன் மேல் நாட்டு சமையலுக்கு பாதிக்கப்படும் சிவப்பு கோவாவின் விலை உச்சம் கண்டுள்ளமையும் குறிப்பிடத்தக்கது.
+
+அந்த வகையில் நுவரெலியாவிலிருந்து வெளி மாவட்ட பொது சந்தைகளுக்கு விற்பனைக்கென தினமும் அதிகமாக  கொண்டு செல்லப்படும் மரக்கறிகளின் மொத்த விலையினை நுவரெலியா பொருளாதார மத்திய நிலைய காரியாலயம் வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/b156e01f.json)
 
 ---
 
@@ -127,6 +231,26 @@ Former Minister Gamini Jayawickrama Perera has passed away this morning at the a
 [Data](articles/d2546ea3.json)
 
 [Extended Data](ext_articles/d2546ea3.ext.json)
+
+---
+
+### නැගෙනහිර පළාත් සභා හිටපු සභාපතිනියෙන් මෝටර් රථයේ ගැටී පුද්ගලයෙක් මරුට
+
+*2024-02-17 10:59:25* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-පළාත්-සභා-හිටපු-සභාපතිනියෙන්-මෝටර්-රථයේ-ගැටී-පුද්ගලයෙක්-මරුට/11-408133) · `si`
+
+නැගෙනහිර  පළාත් සභාවේ හිටපු සභාපතිනිය වන ආරියලතා ගලප්පත්ති මහත්මිය ගමන් කරමින් තිබු සොඛෝප බෝගී  මෝටර් රථයකට යටමින් 17 දින පෙරවරුවේ දඹුල්ල පැල්වෙහෙර  ප්‍රදේශයේදී මගියෙකු මියගිය බව  දඹුල්ල පොලිසිය කියයි.
+
+මෙසේ මිය ගොස් ඇත්තේ නාවුල පෙනලබොඩ ප්‍රදේශයේ පදිංචි එම් .ජී.එච්.එම්  සමන් ප්‍රියන්ත හේරත් වයස අවුරුදු හතලිහක පුද්ගලයෙක් බව ට හඳුනාගෙන තිබේ.
+
+නැනහිර පළාතේ හිටපු සභාපති ගලප්පති   මහත්මිය ත්‍රිකුණාමලයේ සිට කොළඹ ප්‍රදේශයේ අවමගුල් උත්සවයකට සහභාගි වීම සඳහා ගමන් කරමින් සිටියදී දඹුල්ල පැල්වෙහෙර ප්‍රදේශයේ මාර්ගය අසල රැඳී සිටි  මගියෙකුට මේ ආකාරයෙන් අනතුරට පත්ව ඇතැයි පරීක්ෂණ පවත්වන පොලිසිය කියයි.
+
+සුඛෝප බෝගී   මෝටර් රථය තමන්ගේ ධාවන පැත්තෙන් ඉවත්ව ප්‍රතිවිරුද්ධ දිසාවෙන් ධාවනය වී ඇති බව දඹුල්ල පොලිසියේ රථවාහන අංශයේ   මූලික පරීක්ෂණවලදී අනාවරණය වූ බව රථවාහන පොලිසිය කියයි.
+
+අනතුරින්  මියගිය පුද්ගලයා පැල්වෙහෙර ප්‍රදේශයේ ඉදිකිරිමින්  හෝටලයක  සේවය කරන අයෙකු බවත් ඔහු රාත්‍රී වැඩමුරේ අවසන් කොට නැවත නිවස බලා ගමන් කිරීමට මාර්ගයට පැමිණ ඇති බව පොලිසිය සඳහන් කළේය.
+
+...
+
+[Data](articles/151f041a.json)
 
 ---
 
@@ -677,6 +801,30 @@ According to the National Transport Commission, the fee will be charged from yes
 [Data](articles/5d6028b7.json)
 
 [Extended Data](ext_articles/5d6028b7.ext.json)
+
+---
+
+### Sri Lanka’s HNB group profits up 3-pct in Dec, amid lower provisions
+
+*2024-02-17 08:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-group-profits-up-3-pct-in-dec-amid-lower-provisions-151231/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Hatton National Bank group, which also has an insurance unit was up 3 percent to 4.43 billion rupees with a fall in net interest income offset by lower provisions, interim account show.
+
+The HNB group reported earnings of 7.93 rupees per share for the December quarter. For the year to December earnings were 40.68 rupees, on total profits of 22.7 billion rupees, up 49 percent from a year earlier.
+
+Net fee and commission income was down 1 percent to 4.1 billion rupees. Trading gains were a negative 1.9 billion rupees.
+
+Interest income at bank level was down 12 percent to 63.4 billion rupees, interest expense was up 5 percent to 42.29 billion rupees, leading to a 34 percent fall in interest income.
+
+During the year loans contracted 2 percent to 954 billion rupees.
+
+Impairment charges were down to 8.2 billion rupees from 30.1 billion rupees last year.
+
+The bond portfolio was up 23 percent to 549 billion rupees during the year to December.
+
+...
+
+[Data](articles/1eaca4fd.json)
 
 ---
 
@@ -1915,169 +2063,5 @@ Moreover, Officer Cadets and personnel from the Sri Lanka Navy will visit the Ir
 [Data](articles/1ac79ac2.json)
 
 [Extended Data](ext_articles/1ac79ac2.ext.json)
-
----
-
-### TikTok ignites love and creative expression on #ValentinesDay
-
-*2024-02-16 20:31:00* · [`islandlk`](http://island.lk/tiktok-ignites-love-and-creative-expression-on-valentinesday/) · `en`
-
-As Cupid’s arrow takes aim, TikTok stands at the forefront of a digital love fest, bringing users together to celebrate #ValentinesDay in style. From versatile features to a diverse array of content, TikTok’s commitment to promoting a safe and harmonious online community creates an ideal space for content creators, including couples, to thrive. The platform also allows users to effortlessly navigate and explore a variety of rich content, whether they are on the hunt to find an ideal date spot, planning a romantic getaway, or deciding on an outfit for the occasion.
-
-At the heart of TikTok’s charm is its vast spectrum of content, covering an array of categories in bite-sized videos. From the funny moments by ‘Eric & Mani Heinrichs’, breathtaking travel escapades of “Travel with Wife” to the lifestyle musings of Eshi Dias, TikTok has become a hub where users can access a wealth of information, entertainment, and inspiration in easily digestible snippets.
-
-...
-
-[Data](articles/90337589.json)
-
-[Extended Data](ext_articles/90337589.ext.json)
-
----
-
-### British Council launches Youth-Led Green and Inclusive Initiatives in Businesses project in Sri Lanka
-
-*2024-02-16 20:30:00* · [`islandlk`](http://island.lk/british-council-launches-youth-led-green-and-inclusive-initiatives-in-businesses-project-in-sri-lanka/) · `en`
-
-Youth-led businesses can be a vital catalyst for change, sparking multiple positive ripple effects. This month, the British Council Sri Lanka launched a new project, ‘Youth-Led Green and Inclusive Initiatives in Businesses’, to harness the enthusiasm and energy of young business leaders and spearhead green and inclusive transitions in small and medium enterprises (SMEs) in Sri Lanka.
-
-...
-
-[Data](articles/5637033b.json)
-
-[Extended Data](ext_articles/5637033b.ext.json)
-
----
-
-### Accident on Kilinochchi Paranthan Road: Bus collided with buffalo cows
-
-*2024-02-16 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176574) · `ta`
-
-One person was injured in an accident on Friday morning on the A -35 road in Kilinochchi.
-
-The accident occurred when a bus carrying bicycle removal from the Paradhan Mullaitivu A35 road collided with buffaloes on the road.
-
-At the same time, a man was injured when a motorcycle collided with a buffalo.
-
-◼️
-
-[Data](articles/b531d67b.json)
-
-[Extended Data](ext_articles/b531d67b.ext.json)
-
----
-
-### Eastern University Student Union demonstration
-
-*2024-02-16 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/176575) · `ta`
-
-The demonstration took place in front of the Eastern University at 5.00 pm on Friday (16).
-
-Give the university students involved in the demonstration immediately ...!, Provide subsidies, laboratories and equipment, provide Wi-Fi facilities to all students ...!They were also involved in the rally after the demonstration was raised.
-
-◼️
-
-[Data](articles/6b5f8db0.json)
-
-[Extended Data](ext_articles/6b5f8db0.ext.json)
-
----
-
-### The crime of drunk
-
-*2024-02-16 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193481) · `si`
-
-A ten-year-old girl was arrested in the Talayamanahuwara area.
-
-Her grandmother had lodged a complaint with her grandmother had a number of a resident of Thalagamunnar North yesterday (15).
-
-Accordingly, the police found the girl's body this morning.
-
-The girl had been wear a device when the body was found, and the belly has been naked.
-
-The suspect was confessed in the crime, police said.
-
-The suspect has said that he sent the girl's brother 150 rupees to bring the girl's brother to the girl's brother 150 rupees.
-
-According to police sources, the suspect said that he had committed this crime later.
-
-Police said the girl's body was found in the adjacent to his house.
-
-The suspect is overwhelmed at the time and he was drunk when he was arrested.
-
-He also conducted two marriages and live separately.
-
-The girl's mother and father were fishing and she was careful by the grandmother.
-
-The residents of the area campaigned today demanding a fair investigation into the incident today.
-
-◼️
-
-[Data](articles/63ed487a.json)
-
-[Extended Data](ext_articles/63ed487a.ext.json)
-
----
-
-### Van crashed into a tree by leaving the street in Wariyapola
-
-*2024-02-16 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176577) · `ta`
-
-At least 12 people were injured in an accident at Kalugamuwa Road in Bamunagotuwa, Wariyapola.
-
-Police said that the accident occurred when the van, who was traveling on the Kalugamuwa road, left the road and collided with a nearby tree.
-
-◼️
-
-[Data](articles/dae83521.json)
-
-[Extended Data](ext_articles/dae83521.ext.json)
-
----
-
-### Monastery sentenced to death in Keheliya's illness
-
-*2024-02-16 20:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193480) · `si`
-
-The Deputy Solicitor General General Lakithga Girihagama and the Criminal Investigation Department (CID) filmed to be investigated by the former Health Minister yesterday (15).
-
-It also requests the court to refer to the court to the prison doctor.
-
-Meanwhile, former Health Minister Keheliya Rambukwella and the seven suspects were remanded until 29th of this month.
-
-The suspect was not taken into court for the cases and his lawyers informed Keheliya Rambukwella said that he was suffering from a number of diseases, including breathing in sleep.
-
-The case was recalled from the Maligakanda Magistrate yesterday and was recalled in court yesterday. Former Health Minister Keheliya Rambukwella was produced before the court.
-
-Prison officials informed the court that he was on a condition that was suffering.
-
-The Magistrate, Deputy Solicitor General, Lakhahagama Girihagama, the Magistrate made the progress of investigations.
-
-...
-
-[Data](articles/00690ce2.json)
-
-[Extended Data](ext_articles/00690ce2.ext.json)
-
----
-
-### Jagath Kumara Sumitrarachi is not the only one who can move the country as people's representatives
-
-*2024-02-16 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176576) · `ta`
-
-The government has paid a livelihood of 10,000 rupees to civil servants despite the economic crisis. Therefore, the strike of the health trade unions is unreasonable, said Parliamentarian Jagath Kumara Sumitrarachchi, Chairman of the Parliamentary Supervisory Committee for Public and Liability.
-
-He added that it was unfair to carry out strikes so that the people would be pushed into crisis.
-
-He said that the country was not the only one who would not be able to carry the country because of the dismantling of the people's representatives.
-
-He said this at a media briefing held at the Presidential Media Center on Friday (16).
-
-"A large number of officials are providing excellent services to the people, but some officials are working recklessly. It is also seen that the services of the people are not provided.
-
-...
-
-[Data](articles/d04e28c9.json)
-
-[Extended Data](ext_articles/d04e28c9.ext.json)
 
 ---

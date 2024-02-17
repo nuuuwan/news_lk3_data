@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-17 09:33:02**
+As of **2024-02-17 09:52:07**
 
 ## Newspaper Stats
 
-*Scraped **7,609** Articles*
+*Scraped **7,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,26 +17,80 @@ economynextcom | 398
 dailyftlk | 415
 adalk | 645
 tamilmirrorlk | 926
-adaderanalk | 931
-virakesarilk | 1,000
+adaderanalk | 932
+virakesarilk | 1,001
 adaderanasinhalalk | 1,083
-dailymirrorlk | 1,120
+dailymirrorlk | 1,125
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,608 (100.0%) of 7,609 articles have been extended.
+7,616 (100.0%) of 7,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-17 (Saturday)
 
+### Beliatta firing: Police seeking public help to arrest 3 suspects
+
+*2024-02-17 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176588) · `ta`
+
+Police have sought the help of the public to arrest three suspects in connection with the shooting incident of five men, including Abe Janapala Party leader Saman Perera in Beliatta.
+
+In this case, the police are now seeking public help to arrest three persons suspected of helping the shooting.
+
+If you find information about the suspects, the Senior Deputy Inspector General of Police in charge of the Tangalle Police Division is asked to provide 0718591488 or the Beliatta Police Officer in charge of 0718591497.
+
+◼️
+
+[Data](articles/f2229cb5.json)
+
+[Extended Data](ext_articles/f2229cb5.ext.json)
+
+---
+
+### Lower vegetable prices recorded
+
+*2024-02-17 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lower-vegetable-prices-recorded/108-277236) · `en`
+
+Colombo, Feb 17 (Daily Mirror) - The new Manning Market in Peliyagoda today recorded a low price for vegetables compared to the prices during the week.
+
+Additionally, the price of a kilo of carrot was Rs. 500. A kilo of beans was Rs. 550, but the price of green chilli was Rs. 700.
+
+A kilo of bringals was Rs. 200, and a kilo of tomato and capsicum was Rs. 800 each.
+
+◼️
+
+[Data](articles/8a22e2e8.json)
+
+[Extended Data](ext_articles/8a22e2e8.ext.json)
+
+---
+
+### US Under Secretary Elizabeth Allen travels to Jordan, Sri Lanka, India
+
+*2024-02-17 09:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Under-Secretary-Elizabeth-Allen-travels-to-Jordan-Sri-Lanka-India/108-277235) · `en`
+
+Under Secretary of State for Public Diplomacy Liz Allen is on travel to Jordan, Sri Lanka and India from February 12 to 22.
+
+The visit underscores the United States’ unwavering commitment to reinforcing and expanding partnerships and alliances. The trip highlights the core of US foreign policy and public diplomacy initiatives, fostering freedom of expression, economic empowerment, and global collaboration.
+
+In Jordan, Under Secretary Allen engaged with alumni of US public diplomacy programmes and civil society leaders, gaining valuable insights into regional perspectives. She explored the transformative impact of English Language programmes on Jordanian youth, which equip them with essential skills for the labour market. She also met with State Department public affairs professionals and Government of Jordan officials to discuss integrated, innovative strategic communications as a tool of national security.
+
+...
+
+[Data](articles/fb38996b.json)
+
+[Extended Data](ext_articles/fb38996b.ext.json)
+
+---
+
 ### U.S. Under Secretary for Public Diplomacy to visit Sri Lanka
 
 *2024-02-17 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97340/us-under-secretary-for-public-diplomacy-to-visit-sri-lanka) · `en`
 
-The U.S. Under Secretary of State for Public Diplomacy, Liz Allen is scheduled to travel to Sri Lanka, India and Jordan next week.
+The U.S. Under Secretary of State for Public Diplomacy, Elizabeth M. Allen is scheduled to travel to Sri Lanka, India and Jordan this month.
 
 In a statement, the US State Department said these visits underscore the country’s unwavering commitment to reinforcing and expanding partnerships and alliances.
 
@@ -49,6 +103,8 @@ Upon completing her Jordan visit, the U.S. Under Secretary will travel to Sri La
 ...
 
 [Data](articles/0b0b6c52.json)
+
+[Extended Data](ext_articles/0b0b6c52.ext.json)
 
 ---
 
@@ -67,6 +123,40 @@ According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be a
 [Data](articles/79e932e4.json)
 
 [Extended Data](ext_articles/79e932e4.ext.json)
+
+---
+
+### Parts of Colombo to experience 16-hour water cut today
+
+*2024-02-17 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97339/parts-of-colombo-to-experience-16-hour-water-cut-today) · `en`
+
+Water supply for parts of Colombo will be suspended this evening (Feb.17) for 16 hours, the National Water Supply & Drainage Board (NWSDB) says.
+
+The water cut will be in place from 5.00 p.m. today until 9.00 a.m. tomorrow (Feb.18).
+
+According to the NWSDB, Colombo 11, 12, 13, 14 and 15 areas are supposed to be affected by the water cut imposed due to essential maintenance work planned under the Ambatale Water Supply System Improvements and Energy Saving Project.
+
+◼️
+
+[Data](articles/87949ab8.json)
+
+[Extended Data](ext_articles/87949ab8.ext.json)
+
+---
+
+### Trump ordered to pay $355 million in NY civil fraud trial ruling
+
+*2024-02-17 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trump-ordered-to-pay-355-million-in-NY-civil-fraud-trial-ruling/108-277232) · `en`
+
+(New York Times) - A New York judge on Friday handed Donald J. Trump a crushing defeat in his civil fraud case, finding the former president liable for conspiring to manipulate his net worth and ordering him to pay a penalty of nearly $355 million plus interest that could wipe out his entire stockpile of cash.
+
+The decision by Justice Arthur F. Engoron caps a chaotic, yearslong case in which New York’s attorney general put Mr. Trump’s fantastical claims of wealth on trial. With no jury, the power was in Justice Engoron’s hands alone, and he came down hard: The judge delivered a sweeping array of punishments that threatens the former president’s business empire as he simultaneously contends with four criminal prosecutions and seeks to regain the White House.
+
+...
+
+[Data](articles/1fa9db99.json)
+
+[Extended Data](ext_articles/1fa9db99.ext.json)
 
 ---
 
@@ -109,6 +199,28 @@ According to the National Transport Commission, the fee will be charged from yes
 [Data](articles/5d6028b7.json)
 
 [Extended Data](ext_articles/5d6028b7.ext.json)
+
+---
+
+### 470 wild elephant deaths reported in 2023
+
+*2024-02-17 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/470-wild-elephant-deaths-reported-in-2023/108-277226) · `en`
+
+The death toll of wild elephants has increased in a large proportion, much to the anxiety of the wildlife conservators. Director of Wildlife Conservation Department (Protected Area Management) Manjula Amararathe said the death of 470 wild elephants had been reported for 2023 and that 200 of them, including tuskers, had died due to human activities.
+
+He said 83 wild elephants had been shot dead: 47 killed by laying the explosive device “Hakka Patas,"  66 by laying electric traps, and another four by poisoning.
+
+The official said 70 wild elephants had died of illnesses, natural causes or met with accidents.
+
+It included 23 wild elephants that had been run over by train.
+
+He said eleven wild elephants had been run over by train and shot dead on September 27, which was the highest ever reported on a day.
+
+◼️
+
+[Data](articles/49be9489.json)
+
+[Extended Data](ext_articles/49be9489.ext.json)
 
 ---
 
@@ -313,6 +425,24 @@ Action was taken immediately against the vessel and an onboard inspection was co
 [Data](articles/aad6fb9a.json)
 
 [Extended Data](ext_articles/aad6fb9a.ext.json)
+
+---
+
+### Sri Lanka busts oil spill using satellite surveillance for first time
+
+*2024-02-17 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-busts-oil-spill-using-satellite-surveillance-for-first-time/155-277225) · `en`
+
+Colombo, Feb 17 (Daily Mirror) - Following the initiative with the French government to detect oil spills in Sri Lankan waters using satellite surveillance, Sri Lanka has detected the first such incident and fined Rs. 15 million to the responsible company, the Marine Environment Protection Authority (MEPA) said.
+
+According to the MEPA, on February 5, the CLS analysts (The French Company) reported the detection of significant oil pollution off their coasts, by an illegal discharge of the Global Crest, a 120-metre tanker cruising from Malaysia to the UAE.
+
+Action was taken immediately against the vessel and an onboard inspection was conducted, which revealed clear evidence of the illegal discharge. The ship was detained until the owner admitted the offence and acknowledged the maximum fine of Rs. 15 million pursuant to national regulations.
+
+...
+
+[Data](articles/e85fd4a4.json)
+
+[Extended Data](ext_articles/e85fd4a4.ext.json)
 
 ---
 
@@ -1949,163 +2079,5 @@ Asked if his bill could get a two-thirds majority in parliament, Gammanpila said
 [Data](articles/194f6a56.json)
 
 [Extended Data](ext_articles/194f6a56.ext.json)
-
----
-
-### Hunting in Nuwara Eliya
-
-*2024-02-16 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176557) · `ta`
-
-Older students have taken steps to sign the lands in front of the school from 11:30 am today (16) at 11:30 am, demanding the redemption of the lands found in the school.
-
-The signature collection process was organized from 11.30 am to 4 pm.
-
-In this move, many civilians, school alumni, teachers, students and students from other schools have signed support for the collection.
-
-◼️
-
-[Data](articles/1bc3f0c4.json)
-
-[Extended Data](ext_articles/1bc3f0c4.ext.json)
-
----
-
-### Direct flights between Sri Lanka and Israel from March
-
-*2024-02-16 16:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Direct-flights-between-Sri-Lanka-and-Israel-from-March/108-277182) · `en`
-
-Colombo, Feb 16 (Daily Mirror)- Agreements have been signed to initiate direct flights between Bandaranaike International Airport (BIA) and Tel Aviv in Israel, the Ports, Shipping and Aviation Ministry said.
-
-It said diplomatic agreements were signed today between Minister Nimal Siripala de Silva, and Israeli Transport and Road Safety Minister Ms. Miri Regive.
-
-According to Ministry sources, the new service will commence from March this year on a scheduled timetable.
-
-Since last December, five chartered aircraft belonging to Arkia Israeli Airlines have already operated air services to BIA.
-
-These A321 aircraft have the capacity to carry almost 300 passengers at a time.
-
-Minister Nimal Siripala de Silva said that several other airlines in Israel have also expressed their consent to start air services between the two airports.
-
-...
-
-[Data](articles/1205232e.json)
-
-[Extended Data](ext_articles/1205232e.ext.json)
-
----
-
-### Parliament to meet three days next week
-
-*2024-02-16 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97328/parliament-to-meet-three-days-next-week-) · `en`
-
-The Committee on Parliamentary Business which met on Thursday (Feb. 15) under the chairmanship of Speaker Mahinda Yapa Abeywardana has decided to convene the parliamentary sittings on three days next week – 20, 21 and 22 February.
-
-However, the Parliament will not meet on Friday (Feb.23), as it is Poya Day.
-
-Accordingly, on Tuesday, the Parliament will meet at 9.30 a.m. and the Second Reading of the Secured Transactions, Trust Receipts (Amendment), Mortgage (Amendment), Finance Leasing (Amendment), Inland Trust Receipts (Amendment), Companies (Amendment), Registration of Documents (Amendment) Bills have been scheduled to be taken up for debate, the Parliamentary Communications Department said in a statement.
-
-Moreover, Orders under the Strategic Development Act published under the Extraordinary Gazette No. 2360/36 and Regulations under the Imports and Exports (Control) Act published under the Extraordinary Gazette No. 2366/19 have also been scheduled to be taken up for debate.
-
-...
-
-[Data](articles/5086cc98.json)
-
-[Extended Data](ext_articles/5086cc98.ext.json)
-
----
-
-### Sri Lanka Financial Intelligence Unit, Excise Dept unite to fight money laundering
-
-*2024-02-16 16:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-financial-intelligence-unit-excise-dept-unite-to-fight-money-laundering-151208/) · `en`
-
-ECONOMYNEXT – The Financial Intelligence Unit of the Central Bank of Sri Lanka has entered into a memorandum of understanding with the Excise Department to exchange information related to investigations and prosecutions of money laundering, terrorist financing and other related crimes.
-
-“Money laundering and terrorist financing are financial crimes with a global presence, which could threaten the stability of national and global economic and financial systems. The MOU between the Excise Department of Sri Lanka and the FIU would enable both institutions to exchange information which is vital for prevention, detection and prosecution of such offences,” CBSL said in a statement.
-
-The agreement was signed under the provisions of the Financial Transactions Reporting Act, No. 6 of 2006 (FTRA), on January 9, at the Central Bank of Sri Lanka (CBSL).
-
-...
-
-[Data](articles/d6372ef3.json)
-
-[Extended Data](ext_articles/d6372ef3.ext.json)
-
----
-
-### Narammala Police Wella - Dead Roshan's wife asks for Rs 200 million
-
-*2024-02-16 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193473) · `si`
-
-A Narammala police officer who had recently led to the violent human rights officer, a fundamental rights petition has been filed in the Supreme Court to hold a larler's driver.
-
-Ms. Kamani Tithika Priyangani, his wife, was his wife, was his wife, for the victim of Roshan Kumarasiri.
-
-Narammala Police Visitor General as the respondents. Gunawardena, Police Constable K.M. Chamuditha Bandara Card, OIC, Acting Inspector General of Police, has been named Design Tennakoon and the Attorney General.
-
-Narammala Police Sub Inspector, Narammala Police. He was killed by Gunawardena.
-
-It says that the husband had died in a shot at the post mortem examination.
-
-The petitioner has requested the court to prosecute his husband's death by the shooting of the husband of the police without any reasonable reason.
-
-The Supreme Court has requested the Supreme Court to issue an order to prepare a series of guidelines to be prepared by police officers to issue an order to issue a commander of Rs. 200 million.
-
-...
-
-[Data](articles/e0cd4279.json)
-
-[Extended Data](ext_articles/e0cd4279.ext.json)
-
----
-
-### Frog ice cream sold in Jaffna 5 thousand rupees
-
-*2024-02-16 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176550) · `ta`
-
-The court has sentenced the seller to a further 5 thousand rupees for the alleged crime in the case of the frog in the Ice Chrim, which was sold in the Jaffna -Selvam temple environment.
-
-Last Wednesday, a frog was found in the ice cream of a person who bought it, who was involved in the sale of ice cream in the temple environment last Wednesday.
-
-Following the announcement of the health unit, the Valvettithurai Health Inspector filed a case against the Point Pedro Magistrate's Court against the Ice Cream solder.
-
-When the case was taken up for hearing on Friday (16), he said that the solder who sold ice cream was selling to the Ice Cream Manufacturer in the Chunnakam area and selling it in the temple environment.
-
-Meanwhile, a restaurant owner has been fined Rs 36,000 in the case against a restaurant in the temple environment.
-
-Hundreds of people visit the Historical Sabha Temple daily for worship and for wedding ceremonies at the temple.
-
-...
-
-[Data](articles/dfe309b9.json)
-
-[Extended Data](ext_articles/dfe309b9.ext.json)
-
----
-
-### Sora;Video with the font document
-
-*2024-02-16 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176542) · `ta`
-
-Open AI launched the ChatGPT on Thursday with a font document.
-
-This is called Sora. The Japanese word Sora means the sky.
-
-Thereby, a realistic scenes can be created in a minute in accordance with the instructions and form of the form of the font document.
-
-It is reported that a video can be created based on a picture of the mind, or the new contents can be prolonged.
-
-The company has announced that only a few researchers and video creators can use Sora.
-
-Experts will test the "red group" from Sorah's background to violate the Open AI Service.
-
-That is, "serious violence, sexual content, hateful images, the appearance of celebrities or the IP of others".
-
-Sora can only be used for researchers, visual artists and filmmakers. "There is a Watermark to ensure that videos were created by AI," said Sam Altman, chief executive officer of the company.
-
-◼️
-
-[Data](articles/e05f2887.json)
-
-[Extended Data](ext_articles/e05f2887.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 06:56:01**
+As of **2024-02-18 07:16:43**
 
 ## Newspaper Stats
 
-*Scraped **7,731** Articles*
+*Scraped **7,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 656
 tamilmirrorlk | 937
 adaderanalk | 950
 virakesarilk | 1,018
-adaderanasinhalalk | 1,113
+adaderanasinhalalk | 1,115
 dailymirrorlk | 1,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,730 (100.0%) of 7,731 articles have been extended.
+7,731 (100.0%) of 7,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### උතුර - උතුරු මැද සහ නැඟෙනහිර ඒකාබද්ධ කරමින් නගර ව්‍යාපෘතියක්
+
+*2024-02-18 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193525) · `si`
+
+උතුර - උතුර මැද සහ නැඟෙනහිර පළාත් ඒකාබද්ධ කරමින් විසල් අනුරාධපුර නැමති නගර ව්‍යාපෘතියක් මේ වන විට ක්‍රියාත්මක කරමින් පවතින බව වාර්තා වේ.
+
+දුම්රිය පදනම් කරගත් ප්‍රවාහන සේවාවක් රට මැද ක්‍රියාත්මක කිරීම එමඟින් සිදු වන බව අමාත්‍යවරයා වැඩිදුරටත් අවධාරණය කර තිබේ.
+
+◼️
+
+[Data](articles/051f1712.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-02-18 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193524) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වල අද (18) ප.ව 4.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතින බවය.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට සහ මහනුවර දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (30-40) පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/2c497d08.json)
+
+---
 
 ### President visits Tangalle - Galle areas
 
@@ -853,6 +885,8 @@ George Keyt, Modern Art and the East, Ceylon Observer, June 9. 1963
 ...
 
 [Data](articles/11576edd.json)
+
+[Extended Data](ext_articles/11576edd.ext.json)
 
 ---
 
@@ -2031,53 +2065,5 @@ There are low-ranking Sjbers to join us from all over the island,” he also sai
 [Data](articles/f7c4bbf4.json)
 
 [Extended Data](ext_articles/f7c4bbf4.ext.json)
-
----
-
-### US diplomatic secretary Elizabeth M. Allen
-
-*2024-02-17 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176593) · `ta`
-
-Elizabeth M.. Alan will visit Sri Lanka.
-
-Elizabeth M.. Allen.
-
-The visit is to express the firm position of the United States to strengthen and expand inter -nations.
-
-At the same time, Alan's visit is important to highlight the importance of US foreign policy and public diplomatic efforts, and to increase freedom of expression, power to the economy and increase global cooperation.
-
-Alan, who went to Jordan on a visit to three countries, examined the convertible impact of English language programs on Jordanian youth. He held meetings with public affairs experts and Jordan government officials to investigate the integrated and innovative strategic communications as a tool for national security.
-
-He also discussed regional perspectives with alumni and civil society leaders of US public diplomatic programs.
-
-After a visit to Jordan, Alan, who is visiting Sri Lanka, will re-confirm US support for the economic recovery of Sri Lanka and encourage independent and Indo-Pasubic region.
-
-...
-
-[Data](articles/2af6e07c.json)
-
-[Extended Data](ext_articles/2af6e07c.ext.json)
-
----
-
-### Former Minister Gamini Jayawickrama Perera passes away
-
-*2024-02-17 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97342/former-minister-gamini-jayawickrama-perera-passes-away) · `en`
-
-Former Minister Gamini Jayawickrama Perera passed away at the age of 83 this morning (Feb.17), family sources told Ada Derana.
-
-Born in 1941, Perera was educated at Nalanda College in Colombo. He was a politician and a Member of Parliament representing the United National Party (UNP) from Kurunegala electoral district. He was first elected to the Parliament in 1994.
-
-During his political career, Perera has held ministerial portfolios for sustainable development, wildlife, Buddha Sasana, food protection, water management and irrigation.
-
-He was elected as the chairman of ESCAP (Economic and Social Commission for Asia and the Pacific) in 2016 and served as the chairman of UNP until 2013.
-
-The former minister’s passing comes just 7 days after President Ranil Wickremesinghe visited him at his home in Katugampala, and engaged in a brief conversation with him to check up on his well-being.
-
-◼️
-
-[Data](articles/b7ec4042.json)
-
-[Extended Data](ext_articles/b7ec4042.ext.json)
 
 ---

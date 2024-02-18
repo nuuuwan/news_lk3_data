@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 16:17:20**
+As of **2024-02-18 16:32:44**
 
 ## Newspaper Stats
 
-*Scraped **7,809** Articles*
+*Scraped **7,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 664
 tamilmirrorlk | 952
 adaderanalk | 960
 virakesarilk | 1,023
-adaderanasinhalalk | 1,132
+adaderanasinhalalk | 1,133
 dailymirrorlk | 1,151
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,805 (99.9%) of 7,809 articles have been extended.
+7,809 (100.0%) of 7,810 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,55 @@ The trade unions representing a wide range of health sector professionals – in
 
 [Data](articles/b7ccddf6.json)
 
+[Extended Data](ext_articles/b7ccddf6.ext.json)
+
 ---
 
-### විදුලි පංකාවෙන් විදුලි සැර වැදී තරුණයකු මරුට
+### සුරූපී හින්දි නිළිය නොසිතූ මොහොතක දිවියෙන් සමුගනී
+
+*2024-02-18 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193544) · `si`
+
+ඉන්දීය සුපිරි සිනමා නිර්මාණයක් වූ 2016 වසරේ තිරගත වූ Dangal චිත්‍රපටයට සඳහා රංගනයෙන් එක්වූ හින්දි සිනමා නිළියක් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ එහි Babita Phogat ගේ කුඩා කළ චරිතයට රංගනයෙන් එක්වූ Suhani Bhatnagar.
+
+Suhani Bhatnagar හදිසියේ වැළඳුණු දුර්ලභ රෝගී තත්ත්වයක් හේතුවෙන් මෙලෙස අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව ඇත.
+
+මීට මාස දෙකකට පමණ පෙර ඇය Dermatomyositis නම් රෝගී තත්ත්වයේ ලක්ෂණ පෙන්නුම් කර ඇතිමුත් රෝගී තත්ත්වය නිශ්චිතව හඳුනාගෙන ඇත්තේ මරණයට දින 10කට පමණ පෙරදීය.
+
+අනතුරුව ඇය AIIMS රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව මෙලෙස අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/0ebfb627.json)
+
+---
+
+### Youth dies after electricity fan
 
 *2024-02-18 15:06:45* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-පංකාවෙන්-විදුලි-සැර-වැදී-තරුණයකු-මරුට/11-408151) · `si`
 
-මේ දිනවල පවතින අධික රස්නය නිසා නිවසේ අක්‍රීයව තිබූ විදුලි පංකාවක් අනාරක්ෂිත විදුලි සැපයුමක් හරහා අලුත්වැඩියා කරමින් සිටි පුද්ගලයකුට විදුලි සැර වැදී ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇති බව කොට්ටාව පොලිසිය පවසයි
+The Kottawa Police say that a person who has been repaired by a person who has been repaired by a person who has been renovated by an unsecured power supply these days.
 
-මෙසේ මියගොස් ඇත්තේ වස්කඩුව කුඩා වස්කඩුව සමගිපුර පදිංචි විජයතුංග මුදියන්සේලාගේ ප්‍රභාත් කවිෂ්ක විජයතුංග (22) හැවිරිදි විවාහකයෙකු බව පොලිසිය කියයි.
+The deceased has been identified as Vedakaduwa Mudiyansekala's Prabath Koviska Wijayaka Vijayatunga (22), a resident of Vashkaduwa Situra, a resident of Samakurakura.
 
-ඒ අනුව (17)  දා සේවය නිමවා නිවසට පැමිණ රාත්‍රී නින්දට යාමේදී අධික රස්නය නිසා විදුලි පංකාව  ක්‍රියාත්මක කිරීමේදී එය අක්‍රිය වී තිබීම නිසා අනාරක්ෂිත විදුලි සැපයුමකින් විදුලිය ලබාගෙන එය කොටස් කර අලුත්වැඩියා කිරීමට ගොස් තිබේ.
+Accordingly, the fan has gone to the electricity supply of electricity due to the excessive base of the fan due to the excessive heat, according to the end of the day.
 
-එම අවස්ථාවේදී දෙවරක් විදුලිසර වැදී ඇති අතර පළමුවර අනතුරක් නොවූ නිසා යළිත් වරක් විදුලි පංකාව අලුත්වැඩියා කරමින් සිටියදී මෙසේ විදුලිසර වැදී ඇති අතර පසුව එහි සිටි බිරිඳට මියගිය පුද්ගලයා පවසා ඇත්තේ ඉක්මනින් ටිප් ස්විචය අක්‍රීය කරන ලෙසයි.
+The fan was renovated twice, as the fan was repaired twice, and the deceased had been renovated.
+
+However, the police have died on admission to the Homagama Base Hospital for treatment.
+
+Accordingly, the death inspector at Homagama, Homagama, was conducting a place in the incident.
+
+Accordingly, the police were asked to summon the house on rent basis and the post mortem will be conducted at the Homagama Base Hospital.
+
+Mortality Testing Inspection of the remains Homagama is to be held by Maimal Gamage.
 
 ...
 
 [Data](articles/41085f11.json)
+
+[Extended Data](ext_articles/41085f11.ext.json)
 
 ---
 
@@ -110,21 +142,23 @@ Accordingly, the second Twenty Twenty Twenty Twenty-Twenty-Twenty-Twenty-Twenty 
 
 ---
 
-### කාන්තා හිංසනය ගැන සෙවිමට බසයට නැග්ග උපාය දූතියටත් අතවර
+### The bus to search for victims of violence
 
 *2024-02-18 14:24:35* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-හිංසනය-ගැන-සෙවිමට-බසයට-නැග්ග-උපාය-දූතියටත්-අතවර/11-408148) · `si`
 
-ළමා සහ කාන්තා හිංසය පිලිබදව සෙවිමට බස් රථයට නැගි උපාය දුතිකාවකට ලිංගික අතවර කිරිමට තැත් කල පෞද්ගලික ආරක්ෂක අංශ නිලධාරියෙකු (17) දින සැකපිට අත්අඩංගුවට ගෙන නුවරඑලිය මහෙස්ත්‍රාත් ප්‍රබුද්ධිකා ලංකාදනි මහත්මිය වෙත ඉදිරිපත් කිරිමෙන් අනතුරුව සැකකරු මේ මස (22) දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරිමට නියෝග කළාය.
+The suspect was arrested on suspicion to be arrested on suspicion of sexually abusing the bus to seek to be sexually abused by the child and women's Hindus..
 
-මෙසේ රක්ෂිත බන්ධනාගාර ගත කරනු ලැබුවේ වැලමඩ ප්‍රදේශයේ පදිංචිව පෞද්ගලික ආරක්ෂක අංශයක සේවය කරන 45 හැවිරිදි පුද්ගලයෙකි.
+The reserves were also remanded.
 
-යුක්තියේ මෙහෙයුමට සමාගාමිව ළමා සහ කාන්තා හිංසය මැඩ පැවැත්විම වෙනුවෙන් නුවරඑලිය සිට වැලිමඩ දක්වා ධාවනය වු බස් රථයකට පොලිස් උපාය දුතියෙක් යොදවා සිවිල් ඇදුමින් සැරසුනු පොලිස් නිලධාරින්ද බස් රථයේ යොදවා තිබියදි සැකකරු උපාය දුතියට ලිංගික හිංසනයන් සිදු කර ඇති බවයි නුවරඑලිය පොලිසියේ මුලස්ථාන ප්‍රධාන පොලිස් පරික්ෂක ප්‍රේමලාල් හෙට්ටිආරච්චි මහතා කියා සිටියේ.
+Headshana Chief Inspector Premalal Hettiarachchi, who has been deployed to be used by the Summal police officer in the bus, has been used by the Summal expatriar to the sustainforce of the company to suppress the Sri Lankan police officer.Was
 
-මෙවැනි පුද්ගලයන් අත්අඩංගුවට ගැනිම සදහා නුවරඑලිය සිට ගමන් ආරම්භ කරන ලංගම සහ පෞද්ගලික බස් රථවල මෙහෙයුම් අඛණ්ඩව සිදු කරන බවයි මුලස්ථාන ප්‍රධාන පොලිස් පරික්ෂකවරයා කියා සිටියේ.
+Headquarters Chief Inspector said that the SLTB and private buses will be continued from the Nuwara Eliya to arrest such persons.
 
 ◼️
 
 [Data](articles/10da8320.json)
+
+[Extended Data](ext_articles/10da8320.ext.json)
 
 ---
 
@@ -400,21 +434,25 @@ The 2nd T20I will be played on Monday, February 19 while the 3rd T20I is schedul
 
 ---
 
-### රේගු පරීක්ෂක විභාගය හොරට ලියූ නිල අයදුම්කරුගේ ඥාති සොහොයුරා අල්ලයි
+### The relative of the official applicant wrote the Customs Inspector Examination
 
 *2024-02-18 12:13:55* · [`adalk`](https://www.ada.lk/breaking_news/රේගු-පරීක්ෂක-විභාගය-හොරට-ලියූ-නිල-අයදුම්කරුගේ-ඥාති-සොහොයුරා-අල්ලයි/11-408147) · `si`
 
-ශ්‍රී ලංකා රේගු දෙපාර්තමේන්තුවේ රේගු පරීක්ෂක තනතුර සඳහා පුද්ගලයන්  බඳවා ගැනීමට ඊයේ (17දා) අනුරාධපුර වලිසිංහ හරිස්චන්ද්‍ර  විද්‍යාලයේ පැවති විභාගයකදී, කූඨ ලේඛන සකස් කර විභාගයට පෙනී සිටි පුද්ගලයෙකු අනුරාධපුර විශේෂ අපරාධ විමර්ශන අංශය මගින් අත්අඩංගුවට ගෙන තිබේ.
+A person was arrested by the Anuradhapura Special Criminal Investigation Division at the Anuradhapura Special Criminal Investigation Division yesterday (17).
 
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ ප්‍රධාන පාර, ඉකිරිගොල්ලෑව, වහමල් ගොල්ලෑව ප්‍රදේශයේ පදිංචි 26 හැවිරිදි පුද්ගලයෙකි.
+The 26-year-old resident is a 26 year old resident of the main road, Main Road, Ikigollewa and Wahamal Gollav area.
 
-ඊෆය් (17 දා) වලිසිංහ හරිචන්ද්‍ර විද්‍යාලයේ පැවති රේගු දෙපාර්තමේන්තුවේ 2වන ශ්‍රේණියේ රේගු පරීක්ෂක තනතුරට බඳවා ගැනීමේ විවෘත තරග විභාගය සඳහා පෙනී සිටීමට නියමිතව සිටි 24 හැවිදි පුද්ගලයෙකුගේ හැඳුනුම්පත ඉදිරිපත් කර, අදාල විභාග ප්‍රවේශ පත්‍රයේ  නිල අයදුම්කරුගේ අස්සන  කූඨ ලෙස යොදා මෙම සැකකරු පෙනී සිට තිබූ බව පොලිසිය කියයි.
+The police had appeared for the opening of a 24-charcoal person in the Customs Inspector of the Customs Examination of the Customs Department of the Customs Ticket of the Customs Department of Walisinghe, Walisinghe.Says.
 
-විභාග දෙපාර්තමේන්තුවට ලැබුණු දුරකථන පණිවිඩයකට අනුව, එම ශාලාවේ විභාග ශාලාධිපතිවරයා ලෙස කටයුතු කල සහකාර  අධ්‍යක්ෂ  ඩී.ඩබ්ලිව්. එම්. ජයපද්ම බණ්ඩාර මහතා විසින් මේ සම්බන්ධයෙන් කරුණු තහවුරු කර ගැනීමෙන් අනතුරුව සිදු කල පැමිණිල්ලකට අනුව සැකකරු අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+According to a telephone message received by the Department of Examinations, the Assistant Director of the Examination Adjudy of the Hall. M. The suspect was arrested following a complaint lodged by Mr. Jayapadma Bandara.
 
-...
+The arrested person is a cousin of the legal applicant who was due to sit for the examination.
+
+◼️
 
 [Data](articles/fa904f73.json)
+
+[Extended Data](ext_articles/fa904f73.ext.json)
 
 ---
 
@@ -2109,37 +2147,5 @@ He was informed of Ulhiyadha Reservoir to use alternative routes as the water is
 [Data](articles/1e5b30ac.json)
 
 [Extended Data](ext_articles/1e5b30ac.ext.json)
-
----
-
-### Former companion in BACI member
-
-*2024-02-17 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193516) · `si`
-
-The Special Task Force of the Special Task Force of the Special Task Force has been arrested with heroin, a large scale drug dealer.
-
-The son of Shiran Barque's son Nadeen Bazik was also fled, police said.
-
-Former former member of the Kotikawatta Pradeshiya Sabha, the suspect was arrested yesterday (16) at a high luxury housing complex in Wellawatte.
-
-A STF officer also attempted to bear the vehicle when the suspect was investigated.
-
-Police said that Nadeen Barcik's son Nadeen Barcik, the son of Shiran Barcik.
-
-Later, they were noted in a CCTV camera near the arrangement.
-
-Although the officers pursuing their officers arrested at the time, the son of Shiran Barcik has fled the storm.
-
-The suspect had found three types of luxury vehicles and found 19 grams and foreign currencies in the possession of the suspect.
-
-Police said they were staying at a house at the relevant super housing on Rs.
-
-The police had also found several secret documents in the house.
-
-...
-
-[Data](articles/a5f28184.json)
-
-[Extended Data](ext_articles/a5f28184.ext.json)
 
 ---

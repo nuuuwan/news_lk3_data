@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 18:50:41**
+As of **2024-02-18 19:02:26**
 
 ## Newspaper Stats
 
-*Scraped **7,825** Articles*
+*Scraped **7,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ dailyftlk | 415
 adalk | 666
 tamilmirrorlk | 953
 adaderanalk | 964
-virakesarilk | 1,023
+virakesarilk | 1,024
 adaderanasinhalalk | 1,139
-dailymirrorlk | 1,153
+dailymirrorlk | 1,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,825 (100.0%) of 7,825 articles have been extended.
+7,825 (99.9%) of 7,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### அரசியல்வாதிகளுக்கும் பாரிய வர்த்தகர்களுக்கும் வழங்கப்பட்டுள்ள கடன் பாரதூரமானது - பிரதமர்
+
+*2024-02-18 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176697) · `ta`
+
+அரச வங்கிகள் தேசிய வளமாக பாதுகாக்கப்பட வேண்டும். ஆனால் சில மாற்றங்களைச் செய்வது குறித்து கலந்துரையாட வேண்டும். இல்லையென்றால் நாம் ஒருதலைப்பட்சமாக முடிவுகளை எடுக்க வேண்டியிருக்கும் என பிரதமர் தினேஷ் குணவர்தன தெரிவித்துள்ளார்.
+
+பிரதமர் தினேஷ் குணவர்தன தலைமையில்  அலரி மாளிகையில் தொழிற்சங்க பிரதிநிதிகளுடன் இடம்பெற்ற கலந்துரையாடலின் போதே பிரதமர் இதனைக் குறிப்பிட்டார்.
+
+மேலும் இதன்போது தொழிற்சங்கங்களின் பிரதிநிதிகள், நிறுவனங்களின் மறுசீரமைப்பு, மாற்று முன்மொழிவுகள், நிறுவனங்களைப் பாதுகாத்தல் மற்றும் கொண்டு நடத்தல் தொடர்பான பல விடயங்களை முன்வைத்தனர்.
+
+இதன்போது கருத்துத் தெரிவித்த பிரதமர், இந்த அரச வங்கிகள் தேசிய வளமாகப் பாதுகாக்கப்பட வேண்டும் என்ற நிலைப்பாட்டில் நாங்கள் இருக்கிறோம். அதில் எந்தப் பிரச்சினையும் இல்லை. ஆனால் சில மாற்றங்களைச் செய்வது குறித்துக் கலந்துரையாட வேண்டும். இல்லையென்றால் நாம் ஒருதலைப்பட்சமாக முடிவுகளை எடுக்க வேண்டியிருக்கும்.
+
+...
+
+[Data](articles/c4dcae03.json)
+
+---
 
 ### FAO Director General arrives in Sri Lanka for APRC37
 
@@ -141,6 +159,22 @@ The van and the bus has been severely damaged, and the Ginigathena Police are co
 [Data](articles/05bc7e19.json)
 
 [Extended Data](ext_articles/05bc7e19.ext.json)
+
+---
+
+### Udarata Menike derailed delaying trains on main-line
+
+*2024-02-18 17:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Udarata-Menike-derailed-delaying-trains-on-main-line/108-277262) · `en`
+
+Ragama, Feb 18 (Daily Mirror) - The Railways Department announced that train operations on the main line will be delayed due to the derailment of the Udarata Menike express train near the Ragama railway station.
+
+They said the train plying from Badulla to Colombo at 5.45 a.m. derailed near the Ragama station.
+
+Therefore, the department announced that train operations on the main line will be delayed.
+
+◼️
+
+[Data](articles/6ead142a.json)
 
 ---
 
@@ -601,6 +635,24 @@ The report emphasises the importance of urgently fixing these gaps to combat cor
 [Data](articles/84c1c184.json)
 
 [Extended Data](ext_articles/84c1c184.ext.json)
+
+---
+
+### Sri Lanka fall behind in blacklisting corrupt contractors: Verité Research
+
+*2024-02-18 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-fall-behind-in-blacklisting-corrupt-contractors-Verité-Research/155-277257) · `en`
+
+Colombo, Feb 18 (Daily Mirror) - Sri Lanka has the worst record among South Asian countries in blacklisting corrupt contractors in public procurement, according to a new report by Verité Research.
+
+The report shows that Sri Lanka is the only country in South Asia that 1) does not recognise engaging in corrupt and fraudulent activities during procurement as a valid reason for blacklisting 2) has not blacklisted contractors that have defaulted on contractual obligations despite having the provisions to do so.
+
+The first issue can be attributed to gaps in the procurement guidelines of 2006, which govern almost all public procurement in Sri Lanka — except in a few instances such as pharmaceutical procurement.
+
+The report emphasises the importance of urgently fixing these gaps to combat corruption and restore fiscal governance.
+
+...
+
+[Data](articles/e1d1a41f.json)
 
 ---
 
@@ -1368,6 +1420,24 @@ The demonstration, slated to commence from Kandy, is expected to witness the act
 
 ---
 
+### Teachers’ trade union to launch action from Kandy
+
+*2024-02-18 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teachers-trade-union-to-launch-action-from-Kandy/108-277246) · `en`
+
+A trade union action is set to be launched from Kandy on Tuesday (20) by the Ceylon Teachers' Union (CTU), demanding the government to fulfill its promise of granting the remaining salary increment.
+
+General Secretary of the CTU, Joseph Stalin, addressing the media said that while the government had granted one-third of the installment, they had not specified a timeline for providing the balance.
+
+"We received only a fraction of the promised increment after enduring 120 days of aragalaya. The soaring cost of living has made it increasingly difficult to make ends meet. With no indication of further progress, we are left with no choice but to resume our protest," Stalin emphasized.
+
+The demonstration, slated to commence from Kandy, is expected to witness the active participation of teachers, principals and teacher trainers alike.
+
+◼️
+
+[Data](articles/8393192c.json)
+
+---
+
 ### Health Struggle Struggle; Action Information
 
 *2024-02-18 09:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-சிற்றூழியர்-போராட்டம்-அதிரடி-தகவல்கள்/175-333367) · `ta`
@@ -2087,101 +2157,5 @@ The government has also implemented the necessary infrastructure development and
 [Data](articles/b05312ce.json)
 
 [Extended Data](ext_articles/b05312ce.ext.json)
-
----
-
-### An immensely changed world order
-
-*2024-02-17 22:12:00* · [`islandlk`](http://island.lk/an-immensely-changed-world-order/) · `en`
-
-If I have said it once I have said it a dozen times: The global status quo is undergoing dramatic changes and the post-WW2 arrangements signified by the following markers are being transformed.
-
-· The post-war economic boom and the welfare state are finished.
-
-· China has become a powerful economy and will overtake America in about a decade
-
-· The uncontested global hegemony of US Imperialism is winding down
-
-· The hegemony of the US$ as the global reserve currency is fading
-
-· The unipolar world of the last 50 or so years is changing into a multi-polar world
-
-· The new economic alignment BRICS+ is assuming great importance
-
-· The South China Sea has become a contested strategic sphere
-
-· The Middle-East and Palestine/Israel have become a boiling cauldron
-
-· Russia has become assertive and assumed a new strategic role
-
-· The Global South is shedding the leadership of US Imperialism
-
-I will discuss some of these points in my essay today and in my usual style keep it short.
-
-...
-
-[Data](articles/6bfb9ad9.json)
-
-[Extended Data](ext_articles/6bfb9ad9.ext.json)
-
----
-
-### Dilmah and Sport: Making a tea and cricket connection and sponsoring Sri Lanka Cricket
-
-*2024-02-17 22:11:00* · [`islandlk`](http://island.lk/dilmah-and-sport-making-a-tea-and-cricket-connection-and-sponsoring-sri-lanka-cricket/) · `en`
-
-Our Sri Lankan cricket team stunned the cricketing world when they won the One Day Cricket World Cup in 1996, defeating the more fancied Australian team in the final.
-
-Whilst at that time, along with the rest of the country, I rejoiced in exploits of our cricketers, especially explosive batsmen like Sanath Jayasuriya and Romesh Kaluwitharana, the thought of associating Dilmah with cricket, or any other sport, had not occurred to me. Clearly, cricket had become the number one sport in Sri Lanka and one in which we could compete on equal terms with the best that the rest of the world could offer. Our World Cup victory proved that. So perhaps it did make sense to link that sport with Ceylon Tea, which is the island’s premier export and that which identifies this country globally.
-
-...
-
-[Data](articles/4eb47864.json)
-
-[Extended Data](ext_articles/4eb47864.ext.json)
-
----
-
-### The racketeer is backing the country with billions of rupees
-
-*2024-02-17 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193521) · `si`
-
-A gem businessman has cheated and deported a Sri Lankan in the Maldives.
-
-The Colombo Crimes Division had lodged a complaint against him that the suspect had been cheated on the occasional defrauding..
-
-According to the police, the suspect had fled the Maldives with his wife and his father when the police had prepared to arrest the suspect.
-
-Acting IGP then issued red warrants to the suspect through the International Police on the instructions of the Acting Inspector General of Police.
-
-The suspect is not gone to the immigration office of the Maldives had gone to the immigration office of the Maldives.
-
-The suspect was arrested and a group of officers of the Finance and Commerce Investigation Criminal Investigation had recently taken to the Maldives to bring the suspect recently.
-
-Questions made by the suspect were revealed that he had gems and the gem businesses have been cheated on the arrival of gems.
-
-...
-
-[Data](articles/2e2ace3f.json)
-
-[Extended Data](ext_articles/2e2ace3f.ext.json)
-
----
-
-### US Under Secretary discusses strengthening people-to-people ties, Diaspora outreach
-
-*2024-02-17 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97358/us-under-secretary-discusses-strengthening-people-to-people-ties-diaspora-outreach) · `en`
-
-US Under Secretary for Public Diplomacy and Public Affairs Elizabeth Allen met with Sri Lanka’s Foreign Secretary Aruni Wijewardane on Saturday (17 Feb.), and discussed several recent positive developments between Sri Lanka and the US in the 75th anniversary year of diplomatic relations.
-
-During their meeting at the Ministry of Foreign Affairs, the Under Secretary assured the continuous US assistance to the Government of Sri Lanka towards realizing economic stability, and discussed ways to strengthen people-to-people ties and Diaspora outreach.
-
-Meanwhile, Foreign Secretary Wijewardane welcomed the development assistance extended by the US International Development Finance Corporation in November 2023 to the Colombo West International Terminal Private Limited and appreciated the humanitarian and emergency aid extended to Sri Lanka to overcome the economic challenges of the country.
-
-...
-
-[Data](articles/fa45dcd8.json)
-
-[Extended Data](ext_articles/fa45dcd8.ext.json)
 
 ---

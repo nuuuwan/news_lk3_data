@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 05:37:25**
+As of **2024-02-18 06:18:07**
 
 ## Newspaper Stats
 
-*Scraped **7,730** Articles*
+*Scraped **7,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 400
 islandlk | 401
 dailyftlk | 415
 adalk | 656
-tamilmirrorlk | 936
+tamilmirrorlk | 937
 adaderanalk | 950
 virakesarilk | 1,018
 adaderanasinhalalk | 1,113
@@ -26,11 +26,29 @@ dailymirrorlk | 1,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,723 (99.9%) of 7,730 articles have been extended.
+7,726 (99.9%) of 7,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### தங்காலை - காலி பகுதிகளுக்கு ஜனாதிபதி விஜயம்
+
+*2024-02-18 03:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-காலி-பகுதிகளுக்கு-ஜனாதிபதி-விஜயம்/175-333361) · `ta`
+
+நாட்டின் சுற்றுலாத்துறையில் ஏற்பட்டிருக்கும் மறுமலர்ச்சி காரணமாக சுற்றுலா வலயங்களை அண்மித்த வசதிகளை மேம்படுத்துவது குறித்து ஆராய்வதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க நேற்று தங்கல்ல முதல் காலி வரையுள்ள பல சுற்றுலாத் தலங்களுக்கு நேரடியாக விஜயம் செய்திருந்தார்.
+
+இதன்போது சுற்றுலாத் துறையினர் சுட்டிக்காட்டிய பிரச்சினைகளுக்கு உரிய அதிகாரிகளைத் தொலைபேசியூடாக தொடர்பு கொண்டு உடனடியாக தீர்வுகளைப் பெற்றுக்கொடுத்த ஜனாதிபதி, சுற்றுலாத்துறையை மேம்படுத்துவதற்கான யோசனைகளையும் கேட்டறிந்துகொண்டார்.
+
+அரசாங்கத்தின் புதிய வேலைத்திட்டம் தொடர்பில் ஜனாதிபதி சுற்றுலா வர்த்தகச் சமூகத்திற்கு அறிவுறுத்தியதன் பின்னர் புதிய வேலைத்திட்டத்தின் ஊடாக தங்களது வர்த்தகச் செயற்பாடுகளில் புதிய பரிணாமத்தை எட்டியிருப்பதாக வர்த்தகர்கள் இதன்போது சுட்டிக்காட்டினர்.
+
+சீனிமோதர, திக்வெல்ல, நில்வெல்ல, ஹிரிகெட்டிய, வெலிகம, ஹபராதுவ பகுதிகளில் அமைந்திருக்கும் சுற்றுலா ஹோட்டல்கள் மற்றும் வெலிகம – அலைச்சறுக்கு பயிற்சி கல்லூரிக்கும் விஜயம் செய்து அதன் செயற்பாடுகளை ஜனாதிபதி நேரில் ஆராய்ந்தார். (a)
+
+◼️
+
+[Data](articles/8b50b788.json)
+
+---
 
 ### ‘Now is the time to end traditional politics’ – Dilith Jayaweera
 
@@ -244,6 +262,8 @@ I will discuss some of these points in my essay today and in my usual style keep
 
 [Data](articles/6bfb9ad9.json)
 
+[Extended Data](ext_articles/6bfb9ad9.ext.json)
+
 ---
 
 ### Dilmah and Sport: Making a tea and cricket connection and sponsoring Sri Lanka Cricket
@@ -257,6 +277,8 @@ Whilst at that time, along with the rest of the country, I rejoiced in exploits 
 ...
 
 [Data](articles/4eb47864.json)
+
+[Extended Data](ext_articles/4eb47864.ext.json)
 
 ---
 
@@ -397,6 +419,8 @@ Though forgotten by the present generation, it is no understatement to say that 
 ...
 
 [Data](articles/894983e4.json)
+
+[Extended Data](ext_articles/894983e4.ext.json)
 
 ---
 
@@ -2047,27 +2071,5 @@ The former minister’s passing comes just 7 days after President Ranil Wickreme
 [Data](articles/b7ec4042.json)
 
 [Extended Data](ext_articles/b7ec4042.ext.json)
-
----
-
-### Ilmanite cannot be allowed to start the sheep from the start of the sheep;Charles MP
-
-*2024-02-17 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176590) · `ta`
-
-The Mullaitivu District Development Coordinating Committee has decided to reject the permits of the Mullaitivu District Development Coordinating Committee for the beginning of the Mullaitivu district, in the Mullaitivu district.
-
-The Mullaitivu District Development Coordinating Committee was held on Friday (16).. It is in this context that the permit has been rejected.
-
-It was pointed out by Charles Nirmalanathan that if the Ilmanite was excavated to the Kokkilai, the nearby fields would be affected and the salinity barrier set up in the sheep area would be damaged.
-
-Charles Nirmalanathan expressed fierce opposition that the central government should never allow the District Development Coordinating Committee to allow it and that it would never be allowed to excavate the Ilmanite.
-
-Subsequently it was decided that the Mullaitivu District Development Committee decided to reject the permit and send a report to the relevant to the impact of the excavation.
-
-◼️
-
-[Data](articles/6cd01be1.json)
-
-[Extended Data](ext_articles/6cd01be1.ext.json)
 
 ---

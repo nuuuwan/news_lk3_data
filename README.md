@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 04:02:35**
+As of **2024-02-19 04:17:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,883 (99.9%) of 7,893 articles have been extended.
+7,893 (100.0%) of 7,893 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -274,19 +274,21 @@ His journey began at Ananda College, Colombo, where he received his primary and 
 
 ---
 
-### வவுனியாவில் 80000 மில்லிகிராம் ஐஸ் போதை பொருளுடன் ஒருவர் கைது
+### Arrested in Vavuniya with 80000mg of ice drugs
 
 *2024-02-19 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176717) · `ta`
 
-வவுனியா தம்பனைச்சோலை பகுதியில் 80000 மில்லிகிராம் ஐஸ் போதைப்பொருளை உடமையில் வைத்திருந்த நபர் ஒருவரை வவுனியா தலைமைபொலிஸ்நிலைய போதைத்தடுப்பு பொலிசார் கைதுசெய்தனர்.
+Police have arrested a person who had been involved in 800mg of ice drugs in the Vavuniya Thambanicholai area.
 
-குறித்த பகுதியில் போதைப்பொருள் விற்பனை இடம்பெறுவதாக பொலிஸாருக்கு கிடைத்த தகவலையடுத்து வவுனியா தலைமை போலீஸ் அதிகாரியின் வவுனியா மது ஒழிப்பு பொலிஸ் பிரிவின் நிலைய பொறுப்பு அதிகாரி பொலிஸ் பரிசோதகர் றிஸ்வி  தலைமையிலான பொலிஸ் சார்ஐன்களான கீர்த்தி ரத்தின (48001) , சொய்சா (67436) , டிசாநாயக்க (34831) , பொலிஸ் கொஸ்தாபர்களான குமார (77779), விதுசன் (91800) ஆகியோரினால் தம்பனைச்சோலை பகுதியில் அமைந்துள்ள வீடொன்றில் பொலிஸார்  சோதனைகளை முன்னெடுத்தனர்.
+The Vavuniya Chief Police Officer's Vavuniya Liquor Police Division (Vavuniya) Police Inspector Rizvi, Inspector of Police, Rizvi (48001), Soysa (67436), Decanayaka (34831), Kumara (34831), Kumara (34831).(91800) Police raided a house in Thambanicholai area.
 
-இதன்போது 80000 மில்லிகிராம் ஐஸ்போதைப்பொருள் கண்டுபிடிக்கப்பட்டுள்ளதுடன், அதனை உடமையில் வைத்திருந்த நபர் ஒருவரை கைதுசெய்தனர்.
+At this time, 80000 milligrams of iPodi material was found and a man who was in his belongings was arrested.
 
 ◼️
 
 [Data](articles/94e75d33.json)
+
+[Extended Data](ext_articles/94e75d33.ext.json)
 
 ---
 
@@ -302,25 +304,37 @@ During the past 15 years since inception, Mother Sri Lanka has carried out numer
 
 [Data](articles/1574bde2.json)
 
+[Extended Data](ext_articles/1574bde2.ext.json)
+
 ---
 
-### இந்திய மீனவர்களின் தொல்லை : இந்தியா தூதரகத்தை முற்றுகையிட முடிவு - யாழ்ப்பாண மீனவ அமைப்புக்கள் தெரிவிப்பு
+### Indian fishermen's troubles: Jaffna Fisheries Organizations
 
 *2024-02-19 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176716) · `ta`
 
-இந்தியா மீனவர்களின் எல்லை தாண்டிய அத்துமீறிய மீன்பிடி தொடர்ச்சியாக அதிகரித்து வரும் நிலையில் தமக்கான தீர்வை பெற்றுத் தருமாறு கோரி யாழ்ப்பாண இந்திய துணை தூதரகத்தை செவ்வாய்க்கிழமை (20) முற்றுகையிட மீனவ அமைப்புகள் முடிவு செய்துள்ளன.
+Fisheries organizations have decided to block the Jaffna Indian Embassy on Tuesday (20) demanding a solution to the Indian fishermen's border.
 
-யாழ்ப்பாண மாவட்ட கடற் தொழிலாளர் கூட்டுறவு சமாசத்தில் ஞாயிற்றுக்கிழமை (18) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போதே அவர்கள் இவ்வாறு தெரிவித்தனர்.
+They were speaking at a media briefing held on Sunday (18) at the Jaffna District Fisheries Cooperative Conference.
 
-அவர்கள் மேலும் தெரிவிக்கையில், எமது கடல் எல்லைக்குள் இந்திய மீனவர்களில் அத்துமீறல் தொடர்ச்சியாக இடம்பெற்று வருகிறது.
+They further stated that the violation of Indian fishermen within our waters has continued.
 
-எமது வளங்கள் நாளுக்கு நாள் தொடர்ச்சியாகச் சூறையாடப்படும் நிலையில் எமது வாழ்வாதாரங்களும்  தொடர்ச்சியாக அழிக்கப்பட்டு வருகிறது.
+Our livelihoods are being continuously destroyed as our resources are continuously looted day by day.
 
-நாங்கள் பல தடவைகள் இலங்கை அரசாங்கத்திற்கும் இந்திய அரசாங்கத்திற்கும் கோரிக்கை விடுத்தோம் எமக்கு உங்கள் உதவிகள் வேண்டாம் எமது வளத்தை இந்திய மீனவர்களிடம் இருந்து பாதுகாத்து தருமாறு பல தடவைகள் கோரிக்கை விடுத்தோம் ஆனால் அது நடைபெறவில்லை.
+We have requested the Sri Lankan government and the Government of India many times. We do not have your help.
 
-...
+Rameshwaram fishermen are currently protesting.
+
+We would like to tell them something.
+
+Therefore, we are going to fight the Jaffna Indian embassy, demanding the stopping of the arrival of Indian fishermen.
+
+Representatives of the Jaffna District Rural Fisheries Co -operative Societies, representatives of the Jaffna District, and the Federations were present at the media briefing.
+
+◼️
 
 [Data](articles/41ea2bb4.json)
+
+[Extended Data](ext_articles/41ea2bb4.ext.json)
 
 ---
 
@@ -340,6 +354,8 @@ Government Ministers and Heads of Delegations from as many as 46 Member Nations 
 
 [Data](articles/f2c22b55.json)
 
+[Extended Data](ext_articles/f2c22b55.ext.json)
+
 ---
 
 ### Australia’s importance as influential ‘Middle Power’ emphasised at LKI roundtable consultation
@@ -355,6 +371,8 @@ Opening the ‘round table’ held under Chatham House Rules, Ambassador Ravinat
 ...
 
 [Data](articles/3e976fd6.json)
+
+[Extended Data](ext_articles/3e976fd6.ext.json)
 
 ---
 
@@ -372,21 +390,29 @@ The Foreign Secretary welcomed the development assistance extended by the US Int
 
 [Data](articles/fe83bcef.json)
 
+[Extended Data](ext_articles/fe83bcef.ext.json)
+
 ---
 
-### மின்சார சபையின் தரவுகளை பரிசீலிக்க வேண்டும்; பொதுப்பயன்பாடுகள் ஆணைக்குழு மக்களுக்காக செயற்பட வேண்டும் - பாட்டலி சம்பிக்க வலியுறுத்தல்
+### Considering the data of the Electricity Board;Public Use the Commission should act for the people
 
 *2024-02-19 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/176715) · `ta`
 
-மின்கட்டண குறைப்புக்காக மின்சார சபை முன்வைத்துள்ள தரவுகளை தொழில்நுட்ப ரீதியில் பரிசீலனை செய்ய வேண்டும். மின்சார சபையின் அதிகாரிகள் தவறான தரவுகளை சமர்ப்பித்துள்ளமை கடந்த காலங்களில் வெளிப்படுத்தப்பட்டுள்ளது ஆகவே இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழு நாட்டு மக்களின் பக்கம் இருந்து செயற்பட வேண்டும் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+Technically review the data proposed by the Electricity Board for the reduction of electricity. Patali Champika Ranawaka, the leader of the UNP and Member of Parliament, said that the officials of the Electricity Board (CEB) had submitted false data in the past.
 
-கொழும்பில் ஞாயிற்றுக்கிழமை (18) இடம்பெற்ற நிகழ்வில் கலந்துக் கொண்டு உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at a function held in Colombo on Sunday (18).
 
-மின்சார சபை முன்வைத்துள்ள மின்னுற்பத்திக்கான செலவு உள்ளிட்ட பல தரவுகள் பொய்யானவை..மின்நிலையங்களின் நிலையான கட்டணம் முறையற்ற வகையில் அதிகரிக்கப்பட்டுள்ளன.மின்சார சபையின் ஒருசில அதிகாரிகள் கணிதத்தில் தேர்ச்சிப் பெற்றுள்ளார்கள். இந்த திறமையை கொண்டு அவர்கள் ஊழல் மோசடிகளில் ஈடுபட முயற்சிக்கிறார்கள்.
+Many of the data, including the cost of the Electricity Board, have been false.. With this skill they try to engage in corruption scandals.
+
+It is the duty of the Public Use the Commission to investigate the reality of the standards submitted by the Electricity Board for the reduction of the power supply.
+
+Last year alone, the power supply of more than a thousand factories has been cut off last year alone.The electricity has been increased by 40 percent.
 
 ...
 
 [Data](articles/79c98300.json)
+
+[Extended Data](ext_articles/79c98300.ext.json)
 
 ---
 
@@ -403,6 +429,8 @@ The session will be held today and tomorrow discussing a range of topical and ur
 ...
 
 [Data](articles/dde3b371.json)
+
+[Extended Data](ext_articles/dde3b371.ext.json)
 
 ---
 
@@ -447,6 +475,8 @@ Dr. Amir Abdollahian will be accompanied by senior officials from the office of 
 ◼️
 
 [Data](articles/092cb1df.json)
+
+[Extended Data](ext_articles/092cb1df.ext.json)
 
 ---
 

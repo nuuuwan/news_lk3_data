@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 11:33:19**
+As of **2024-02-18 11:51:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,143
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,768 (100.0%) of 7,769 articles have been extended.
+7,769 (100.0%) of 7,769 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -300,27 +300,33 @@ The deceased has been identified as 62 year old Gininiyagala - a resident of Nam
 
 ---
 
-### මීගොඩ වෙඩි තැබීමේ යතුරු පැදිය සඟවාගෙන සිටි දෙදෙනෙක් අල්ලයි
+### Two arrested by Meegoda shooting motorcycle arrested
 
 *2024-02-18 08:30:02* · [`adalk`](https://www.ada.lk/breaking_news/මීගොඩ-වෙඩි-තැබීමේ-යතුරු-පැදිය-සඟවාගෙන-සිටි-දෙදෙනෙක්-අල්ලයි/11-408143) · `si`
 
-මීගොඩ ආර්ථික මධ්‍යස්ථානයට කඩා වැදී  එහි වෙළෙඳ සැලක සේවිකාවකට වෙඩි තබා  වෙඩික්කරුවන් පැමිණි  යතුරු පැදිය සඟවාගෙන සිටි කඩවත කිරිල්ලවල අවන්හලක හිමිකරුවෙක් සහ තවත් පුද්ගලයෙකු අත්අඩංගුවට ගත් බව මීගොඩ පොලිසිය කියයි
+Meegoda Police say that the owner of Kirilla and a person who was shot and hid the Meegoda Economic Center
 
-අනෙක් සැකකරු සැකකරුවන්ට රැඳී සිටීමට නිවසක් ලබා දී තිබූ සැකකරු බව පොලිසිය කියයි
+The other suspect had given a house to staying for suspects
 
-සැකකරුවන් සමග එම යතුරු පැදිය , ආරක්ෂක හිස් වැස්මක් ,පිහියක් හා කමිසයක් අවන්හලේ කාමරයක් තුළ සඟවා තිබේදී පොලිසිය මගින් සොයාගෙන ඇත
+The motorcycle with the suspects, a security wealth, a knife and a knife and shirt were found in a room in the restaurant
 
-ඉකුත්  12 බිමි දින මෙම කොල්ලකෑම සිදුවූ අතර නාඳුනන පුද්ගලයන් දෙදෙනකු   වෙළඳසැලක සේවිකාවකට වෙඩි ප්‍රහාරයක් එල්ල කර රුපියල් 45900/= මුදලක් කොල්ලකා පලා ගොස් තිබිනි
+The robbery had taken place on the 444 years of land and two unidentified persons were shot dead at a cost of Rs 45900 / =
 
-උදර ප්‍රදේශයට වෙඩි වැදීමෙන් තුවාල ලද 23 හැවිරිදි  තරුණිය හෝමාගම මූලික රෝහල වෙත ඇතුලත් කෙරිණි
+23-year-old girl was admitted to Homagama Base Hospital
 
-කොල්ලකරුවන් වෙළඳසැලේ උඩ ලාච්චුව  තුළ මුදල් කොල්ලකෑමෙන් අනතුරුවවසා තිබූ යට ලාච්චුවේ යතුර සේවිකාවගෙන් ඉල්ලා සිට ඇති අතර ඇය එය ලබාදීම ප්‍රතික්ෂේප කිරීම හේතුවෙන් වෙඩි වෙඩි තැබීම සිදු කර තිබිණි'
+The robbers have asked the maid from plunder in the upper drawer in the upper drawer, which had been shot dead due to refusing to give it, "
 
-කොල්ලකරුවන් සම්බන්ධයෙන් වැදගත් හෝඩුවාවන් කීපයක් ලැබී ඇතැයි පවසන පොලිසිය නුදුරු දිනකදීම එම සැකකරුවන් දෙදෙනා ද අත්අඩංගුවට ගැනීමට හැකි වෙතැයි පවසයි'
+The police say that several important clues have been received regarding the robbers, the two suspects can be arrested soon
 
-...
+The suspects were residents of Imbulgama and Kadawatha areas between the ages of 39 and 44 years old.
+
+Investigations are conducted on the instructions of Meegoda Police OIC Chief Inspector Neville Priyantha.
+
+◼️
 
 [Data](articles/73de63ef.json)
+
+[Extended Data](ext_articles/73de63ef.ext.json)
 
 ---
 

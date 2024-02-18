@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 00:17:12**
+As of **2024-02-19 00:32:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,854 (99.9%) of 7,860 articles have been extended.
+7,860 (100.0%) of 7,860 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,27 @@ On March 29, 1976, the Kurunegala District Court delivered a judgment in favour 
 
 [Data](articles/7e787363.json)
 
+[Extended Data](ext_articles/7e787363.ext.json)
+
 ---
 
-### ஹரீன் பெர்னாண்டோவின் கருத்து பாரதூரமானது - விமல் வீரவன்ச
+### Harin Fernando's comment is great - Wimal Weerawansa
 
 *2024-02-18 22:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176705) · `ta`
 
-இலங்கை இந்தியாவின் ஒரு பகுதி என அமைச்சர் ஹரீன் பெர்னாண்டோ குறிப்பிட்ட பாரதூரமான கருத்து தொடர்பில் ஜனாதிபதியின் நிலைப்பாடு என்ன? பொருளாதார பாதிப்புக்கு மத்தியில் இலங்கையின் சுயாதீனம் இந்தியாவிடம் காட்டிக் கொடுக்கப்பட்டுள்ளது என தேசிய சுதந்திர முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான விமல் வீரவன்ச தெரிவித்தார்.
+What is the president's position on Minister Harin Fernando as a part of Sri Lanka?Wimal Weerawansa, the leader of the National Freedom Front and Member of Parliament, said that the independence of Sri Lanka has been betrayed by India amid economic impact.
 
-தேசிய சுதந்திர முன்னணியின் காரியாலயத்தில் ஞாயிற்றுக்கிழமை (18) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+He made this statement during a media briefing held at the National Freedom Front office on Sunday (18).
 
-அமைச்சர் ஹரீன் பெர்னாண்டோ இந்திய இராஜதந்திர நடவடிக்கையின் போது 'இலங்கை இந்தியாவின் ஒரு பகுதி' என்று பாரதூரமான கருத்தை குறிப்பிட்டுள்ளார். ஜனாதிபதி ரணில் விக்கிரமசிங்க,'நாட்டின் சுயாதீனத்தை நாங்கள் பாதுகாத்தோம்' என்று குறிப்பிடும் ராஜபக்ஷர்கள்,எதிர்க்கட்சித் தலைவர் உட்பட அதிகாரத்தைக் கைப்பற்ற போராடும் தரப்பினர் கண்டுக்கொள்ளவில்லை. அறிந்தும் அறியாமல் இருப்பது போல் இருக்கிறார்கள்.
+Minister Harin Fernando made a great deal of comment during the Indian diplomatic operation of Sri Lanka. President Ranil Wickremesinghe, who refers to 'we have protected the country's independence'. They are like being ignorant.
+
+Minister Harin Fernando went to India and attended the diplomatic event and said, "Sri Lanka is a part of India.". If this happens, the entire Sri Lanka will be given to India.
 
 ...
 
 [Data](articles/4ad0497b.json)
+
+[Extended Data](ext_articles/4ad0497b.ext.json)
 
 ---
 
@@ -126,17 +132,23 @@ Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said 
 
 ---
 
-### பாராளுமன்ற உறுப்பினர்களின் ஒப்புதல் இல்லாமல் எவ்வாறு திட்டங்களை முன்வைக்கலாம் ; யாழ் மாவட்ட ஒருங்கிணைப்பு குழு கூட்டத்தில் விவாதம்
+### How to present plans without the approval of MPs;Discussion at Jaffna District Coordinating Committee meeting
 
 *2024-02-18 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176703) · `ta`
 
-யாழ் மாவட்ட ஒருங்கிணைப்புக் குழு கூட்டம் கடற்றொழில் அமைச்சரும் யாழ்மாவட்ட ஒருங்கிணைப்பு குழுவின் தலைவருமான டக்ளஸ் தேவானந்தாவின் தலைமையில் வெள்ளிக்கிழமை (18) யாழ் மாவட்ட செயலகத்தில் இடம்பெற்றது.
+The Jaffna District Coordinating Committee meeting was held at the Jaffna District Secretariat on Friday (18) under the patronage of Douglas Devananda, Minister of Fisheries and Chairman of the Jaffna Coordinating Committee.
 
-இதன்போது 2024 ஆம் ஆண்டு வரவு செலவு திட்ட பன்முகப்படுத்தப்பட்ட நிதியில் இவ்வருடத்தில் முன்னெடுக்கப்படவுள்ள வேலைத் திட்டங்கள் காட்சிப்படுத்தப்பட்ட போது, குறித்த திட்டங்கள் தொடர்பில் பாராளுமன்ற உறுப்பினர்களின் ஒப்புதல் பெறப்படவில்லை என கூட்டத்தில் கலந்து கொண்ட பாராளுமன்ற உறுப்பினர்கள் கேள்வி எழுப்பியதோடு குறித்த விடயம் தொடர்பில் உரிய பதில் வழங்குமாறு கேள்வி எழுப்பியுள்ளனர்.
+At the time of the project, the MPs who attended the meeting questioned that when the work plans to be carried out this year were displayed in the 2024 budget, the MPs had not received the approval of the MPs.
+
+In particular, the proposals to be carried out in the budget are proposed by the MPs.How were these projects proposed?The next issue was examined by the MPs who attended the Development Committee meeting and said that the Minister was selected in consultation with the MPs.
+
+Sivagnanam Sridharan, MA Sumanthiran, Kayndrakumar Ponnambalam, Selvarasa Gajendran, Angayan Ramanathan, including the General Secretary of the Ceylon Workers Congress and the Minister of Plantation Infrastructure
 
 ...
 
 [Data](articles/9c13eac4.json)
+
+[Extended Data](ext_articles/9c13eac4.ext.json)
 
 ---
 
@@ -388,6 +400,8 @@ Sri Lanka welcomed 1. 486 million tourists in 2023 and is targeting 2.3 million 
 
 [Data](articles/3aa6b48d.json)
 
+[Extended Data](ext_articles/3aa6b48d.ext.json)
+
 ---
 
 ### Sri Lana tea prices up across elevations in February
@@ -416,6 +430,8 @@ The Medium Grown sale average went up 57.60 rupees to 1,157.49 rupees.
 
 [Data](articles/f5ec06f1.json)
 
+[Extended Data](ext_articles/f5ec06f1.ext.json)
+
 ---
 
 ### FAO Director-General Arrives in Sri Lanka for APRC37
@@ -433,6 +449,8 @@ During his stay, the Director-General will also visit agricultural sites, and is
 ...
 
 [Data](articles/1e5ca8fe.json)
+
+[Extended Data](ext_articles/1e5ca8fe.ext.json)
 
 ---
 

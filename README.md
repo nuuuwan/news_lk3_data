@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 08:17:41**
+As of **2024-02-18 08:33:07**
 
 ## Newspaper Stats
 
-*Scraped **7,744** Articles*
+*Scraped **7,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 656
 tamilmirrorlk | 937
 adaderanalk | 950
 virakesarilk | 1,018
-adaderanasinhalalk | 1,118
+adaderanasinhalalk | 1,119
 dailymirrorlk | 1,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,744 (100.0%) of 7,744 articles have been extended.
+7,744 (100.0%) of 7,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### 19 වැනි ඕවරය ගැන මතීෂ පතිරණ කියයි
+
+*2024-02-18 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193529) · `si`
+
+තීරණාත්මක 19 වැනි පන්දුවාරයේ දී ජයග්‍රහණය ශ්‍රී ලංකා කණ්ඩාම වෙත හරවා ගැනීම තම අරමුණ වූ බව ශ්‍රී ලංකා කණ්ඩායමේ වේග පන්දු යවන ක්‍රීඩක මතීෂ පතිරණ පවසයි.
+
+ඊයේ (17) තරගයෙන් අනතුරු ව අදහස් දක්වමින් ඔහු ඒ බව සඳහන් කළේ ය.
+
+"19 ඕවරේ දී දෙපැත්ටම ගේම් එක තිබ්බේ. ඕන වෙලා තිබ්බේ මැච් එක දිනවන්න. මම ගොඩක් වෙලාවට බැලුවේ මැච් එක අපේ පැත්තට හරවා ගන්න. මම හිතුවා ඒක කරා කියලා."
+
+"ඇත්තට ම බිනුර අයියා ගොඩක් හොඳ ඕවර් එකක් දැම්මේ. බිනුර අයියාගේ අත්දැකීම් ගොඩක් පාවිච්චි කළා. එයාගේ කලින් ඕවර් තුනේ ලකුණු ගිහිල්ලා තිබුණත් අන්තිම ඕවර් එකේ ඇවිල්ලා හොඳට ම දැම්මා. මම හිතන්නේ ඒ ඕවර් එකෙන් තමයි අපි මැච් එක දින්නේ."
+
+"ඇත්තට ම අපේ කණ්ඩායමේ ටාගට් එක වෙලා තිබුණේ, 170ට වැඩිය යන්න. ඉතින් අපිට ඒක කරගන්න බැරි වුණා. ලකුණු 10ක් 15ක් ශෝට් වුණා. ඉතින් ඒක කියලා බෑ අපි තරගය දිනන්න නම්, අපි හොඳට කරන්න ඕනේ. ඒක හින්දා මම හිතන්නේ ගොඩක් ලොකුවට ඔළුවට ගත්තේ නෑ."
+
+...
+
+[Data](articles/d36cacc1.json)
+
+---
 
 ### The body of the Russian opposition leader is hiding?
 
@@ -2037,21 +2057,5 @@ Accordingly, the body of the murdered girl was found in a police investigation.
 [Data](articles/b69f60d6.json)
 
 [Extended Data](ext_articles/b69f60d6.ext.json)
-
----
-
-### Former minister Gamini Jayawickrama's retirement
-
-*2024-02-17 10:47:19* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-ගාමිණී-ජයවික්‍රම-සමුගනියි/11-408132) · `si`
-
-Former Minister Gamini Jayawickrama Perera has passed away for a while.He was 83 years old at the time of his death.
-
-Ranil Wickremesinghe went to his home a few days before Gamini Jayawickrama Perera.
-
-◼️
-
-[Data](articles/e83b6104.json)
-
-[Extended Data](ext_articles/e83b6104.ext.json)
 
 ---

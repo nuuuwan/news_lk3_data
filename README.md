@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 17:17:23**
+As of **2024-02-18 17:33:18**
 
 ## Newspaper Stats
 
-*Scraped **7,814** Articles*
+*Scraped **7,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 664
 tamilmirrorlk | 953
 adaderanalk | 961
 virakesarilk | 1,023
-adaderanasinhalalk | 1,133
+adaderanasinhalalk | 1,135
 dailymirrorlk | 1,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,814 (100.0%) of 7,814 articles have been extended.
+7,814 (100.0%) of 7,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### දුම්රියක් පීලි පනී
+
+*2024-02-18 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193546) · `si`
+
+රාගම දුම්රිය ස්ථානය ආසන්නයේදී දුම්රියක් පීලි පැනීම හේතුවෙන් ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවී තිබේ.
+
+ඒ අනුව මෙම දුම්රිය පීලි පැනීම හේතුවෙන් ප්‍රධාන මාර්ගයේ දුම්රිය ප්‍රමාදයක් සිදුවිය හැකි බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+අද පෙරවරුවේ බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වෙමින් තිබූ උඩරට මැණිකේ සීග්‍රගාමී දුම්රිය මෙලෙස පීලි පැනීමට ලක්ව තිබේ.
+
+◼️
+
+[Data](articles/7ec9e2b6.json)
+
+---
+
+### බිරිඳගේ හිස රැගෙන පොලීසියට ගිය අනිල්
+
+*2024-02-18 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193545) · `si`
+
+මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතින සංවේදී වීඩියෝවක් වෙත මේ වනවිට බොහෝදෙනෙකුගේ අවධානය යොමුව තිබේ.
+
+අදාළ වීඩියෝවේ දැක්වෙන්නේ කඳින් වෙන්කළ කාන්තා හිස කොටසක් රැගත් පුද්ගලයෙකු මහමග ගමන් කරන ආකාරයයි.
+
+ඉන්දියාවේ උත්තර් ප්‍රදේශ් හි ජීවත්වන 30 හැවිරිදි වියේ පසුවන අනිල් කුමාර් නමැති පුද්ගලයා මෙලෙස මාර්ගයේ ගමන් කරන්නේ කපා වෙන්කළ සිය බිරිඳගේ හිස රැගෙනයි.
+
+වසර කිහිපයකට පෙර විවාහ වී ඇති ඔවුන්ට දරුවන් දෙදෙනෙකු ද සිටින බව අනාවරණය වී තිබේ.
+
+ඔවුන් අතර ඇතිවූ ආරවුලක් දුරදිග ගොස් සැකකාර සැමියා විසින් මෙම ඝාතනය සිදුකරන්නට ඇති බවට එරට පොලීසිය සැකපළ කරයි.
+
+පසුව සිය බිරිඳගේ හිස සහ එය කපා වෙන්කිරීම සඳහා භාවිත කළ පිහිය ද අතැතිව මාර්ගයේ ගමන්කරමින් සිටි මෙම සැකකරුව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+වැඩිදුර ප්‍රශ්නකිරීම් හමුවේ ඔහු පවසා ඇත්තේ තමන් භාරවීම සඳහා පොලීසියට පැමිණි බවය.
+
+ඔවුන්ගේ නිවසේ තිබී හමුවූ ආදර හසුනක් සම්බන්ධයෙන් සැකසිතී කළ ප්‍රශ්නකිරීම්වලදී ඇතිවූ බහින්බස්වීමක් දුරදිග ගොස් මෙම ඝාතනය සිදුවූ බවට පොලීසිය සැකපළ කරන බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/3ac88e39.json)
+
+---
 
 ### Even our leader should not get misled by con men: Chaminda Wijesiri
 
@@ -2125,41 +2167,5 @@ The Korean HRDK has officially affirmed that this examination application is com
 [Data](articles/6b3f594f.json)
 
 [Extended Data](ext_articles/6b3f594f.ext.json)
-
----
-
-### Finance Secretary says the country fell
-
-*2024-02-17 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193518) · `si`
-
-The Secretary of the Ministry of Finance Mahinda Siriwardena says that the misconception that the economic crisis of the country has been unfair to criticize the reality of the country.
-
-The Secretary of the International Chamber of Commerce was organized by the Secretary of the International Chamber of Commerce to introduce international digital mechanisms to the country's commercial financing.
-
-"Since the country fell the country, because the former president had not told the president. I think if he said.. That this country does not fall into this situation. If you have made the right decisions using data, we have no such crisis today. "
-
-◼️
-
-[Data](articles/2520a8eb.json)
-
-[Extended Data](ext_articles/2520a8eb.ext.json)
-
----
-
-### Stop the public servants of the Southern Provincial Council
-
-*2024-02-17 20:47:23* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාත්-සභාවේ-රාජ්‍ය-සේවකයන්ගේ-ස්ථානමාරු-නවතියි/11-408137) · `si`
-
-Dr. Wilika Gamage has ordered the temporarily abuse the transfer of the provincial government officials to the proposed provincial government officials for the year 2024 in the Southern Provincial Council.
-
-The governor said that the decision was taken into consideration the appeals and appeals of existing economic hardship.
-
-However, the governor does not seek to inform the Secretary of the Southern Province to inform all the Ministry Secretaries regarding the agreement between two vacancies.
-
-◼️
-
-[Data](articles/56dc5de7.json)
-
-[Extended Data](ext_articles/56dc5de7.ext.json)
 
 ---

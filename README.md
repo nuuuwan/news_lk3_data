@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 08:02:59**
+As of **2024-02-18 08:17:41**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 1,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,743 (100.0%) of 7,744 articles have been extended.
+7,744 (100.0%) of 7,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### රුසියානු විපක්ෂ නායකයාගේ මළ සිරුර සැඟවීමේ තැතක්?
+### The body of the Russian opposition leader is hiding?
 
 *2024-02-18 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193528) · `si`
 
-රුසියාවේ බන්ධනාගාරයක් තුළ මිය ගිය එරට විපක්ෂ නායක ඇලෙක්සි නවල්නිගේ මළසිරුර සඟවනු ඇති බවට නවල්නි හිතවාදින් චෝදනා කර තිබේ.
+Innovaries, Opposition Leader Alexi Navealni's body was hidden in a Russian prison.
 
-අදාළ සිරුර සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණ අවසන් වූ පසු එම සිරුර නවල්නිගේ මව වෙත භාර දෙන බවට රුසියානු බලධාරින් ප්‍රකාශ කළ බව වාර්තා වේ.
+It is reported that the Russian authorities have stated that the body will be handed over to Navalni's mother after the post mortem examination over the relevant body.
 
-ජනාධිපති ව්ලැද්මීර් පුටින්ගේ නියෝගයක් මත මෙම ඝාතනය සිදු වන්නට ඇති බවට සැක මතු වී තිබේ.
+There have been suspected that the murder had taken place on a directive of President Vladmini Putin.
 
-දඩුවම් නියම වී සිටි නවල්නි දුරස්ථ බන්ධනාගාරයක රඳවා සිටි අතර, පසුගිය සිකුරාදා ඔහු මිය ගිය බවට අනාවරණය කර තිබිණි.
+The victim was detained in a remote prison and was revealed that he died last Friday.
 
 ◼️
 
 [Data](articles/1a81a730.json)
+
+[Extended Data](ext_articles/1a81a730.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 11:51:51**
+As of **2024-02-18 12:02:22**
 
 ## Newspaper Stats
 
-*Scraped **7,769** Articles*
+*Scraped **7,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,171 @@ economynextcom | 400
 islandlk | 409
 dailyftlk | 415
 adalk | 658
-tamilmirrorlk | 945
-adaderanalk | 955
-virakesarilk | 1,018
+tamilmirrorlk | 947
+adaderanalk | 956
+virakesarilk | 1,021
 adaderanasinhalalk | 1,125
-dailymirrorlk | 1,143
+dailymirrorlk | 1,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,769 (100.0%) of 7,769 articles have been extended.
+7,773 (99.9%) of 7,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### தேர்தல் காலத்தில் நிறைவேற்று அதிகார ஜனாதிபதி முறை நீக்கப்படாது ; அது எதிர்க்கட்சிகள் உருவாக்கிய கதை - ஜனாதிபதி
+
+*2024-02-18 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176658) · `ta`
+
+நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதற்காக குறுகியவழிமுறைகள் எதுவும் இல்லை என ஜனாதிபதி ரணில்விக்கிரமசிங்க தெரிவித்துள்ளார் என ஐலண்ட் செய்தி வெளியிட்டுள்ளது.
+
+நிறைவேற்று அதிகார ஜனாதிபதி முறையைநீக்குவதற்கு குறுகியவழிமுறைகள் எதுவும் இல்லை என  இந்தநாட்டு மக்களிற்கு நன்கு தெரியும் என ஜனாதிபதி ரணில்விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+ஜனாதிபதி அலுவலகத்தில் நாடாளுமன்ற உறுப்பினர்கள் சிலருடனான சந்திப்பின்போது  எழுப்பப்பட்ட கேள்விக்கு பதிலளிக்கையில் ஜனாதிபதி இதனை தெரிவித்துள்ளார்.
+
+ஜனாதிபதி தேர்தல் உரிய நேரத்தில் இடம்பெறும் இக்காலப்பகுதியில் நிறைவேற்று அதிகாரஜனாபதிமுறை நீக்கப்படாது என ஜனாதிபதி  தெரிவித்தார் என ஐலண்ட் செய்தி வெளியிட்டுள்ளது.
+
+ஜனாதிபதி தேர்தலை பிற்போடும் எனக்கில்லை என்பதை நான் பல தடவை தெரிவித்துள்ளேன் அதற்கான நிதிகள் உள்ளன நிறைவேற்று அதிகாரஜனாதிபதி முறைநீக்கம் குறித்த கதைகளை எதிர்கட்சியினரே பரப்பிவருகின்றனர் என ஜனாதிபதி தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/9b5b23bf.json)
+
+---
+
+### UN likely to vote Tuesday on Gaza ceasefire, US signals veto
+
+*2024-02-18 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97365/un-likely-to-vote-tuesday-on-gaza-ceasefire-us-signals-veto) · `en`
+
+The United Nations Security Council is likely to vote on Tuesday on an Algerian push for the 15-member body to demand an immediate humanitarian ceasefire in the Israel-Hamas war, said diplomats, a move the United States signaled it would veto.
+
+Algeria put forward an initial draft resolution more than two weeks ago. But U.S. Ambassador to the U.N. Linda Thomas-Greenfield quickly said the text could jeopardize “sensitive negotiations” aimed at brokering a pause in the war.
+
+Algeria requested on Saturday that the council vote on Tuesday, diplomats said. To be adopted, U.N. Security Council resolution needs at least nine votes in favor and no vetoes by the United States, Britain, France, China or Russia.
+
+“The United States does not support action on this draft resolution. Should it come up for a vote as drafted, it will not be adopted,” Thomas-Greenfield said in a statement on Saturday.
+
+...
+
+[Data](articles/5be702bb.json)
+
+[Extended Data](ext_articles/5be702bb.ext.json)
+
+---
+
+### Charles Ambrose Lorenz: an unsung artist of the 19th century
+
+*2024-02-18 11:15:00* · [`islandlk`](http://island.lk/charles-ambrose-lorenz-an-unsung-artist-of-the-19th-century/) · `en`
+
+“Every child is an artist; the problem is staying an artist when you grow up” – Pablo Picasso
+
+Though forgotten by the present generation, it is no understatement to say that Charles Ambrose Lorenz was Ceylon’s most beloved son of the 19th century. The whole colony mourned his premature death in his prime in 1871. He was loved by people from all walks of life. This most accomplished and colourful personality wore several hats in lifetime.
+
+...
+
+[Data](articles/894983e4.json)
+
+[Extended Data](ext_articles/894983e4.ext.json)
+
+---
+
+### "நான் ஏன் அரசியலில் ஈடுபடுகின்றேன்" - கொழும்பில் மவ்பிம ஜனதா கட்சி மாநாட்டில் திலீத் விளக்கம்
+
+*2024-02-18 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176655) · `ta`
+
+மவ்பிம ஜனதா கட்சியின் எதிர்கால செயற்திட்டங்களை விரைவில் வெளியிடவுள்ளதாக கட்சியின் தலைவர் திலீத் ஜெயவீர அறிவித்துள்ளார்.
+
+எனது பல்கலைகழக வாழ்க்கையின் போதும் அதன் பின்னரான காலத்திலும் அபிவிருத்தியடைந்த நாடே எனது நோக்கமாக காணப்பட்டது என அவர் கொழும்பில் நேற்று இடம்பெற்ற மவ்பிம ஜனதா கட்சியின் மாநாட்டில் குறிப்பிட்டுள்ளார்.
+
+எனினும் துரதிஸ்டவசமாக இந்த நோக்கம் இன்னமும் நிறைவேறவில்லை இதன் காரணமாக நாங்கள் காணவிரும்பும் மாற்றத்தை ஏற்படுத்துவதற்கான  நடவடிக்கைகளை இறுதியாக நாங்கள் ஆரம்பித்துள்ளோம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+என்னை சுற்றியுள்ள அனுபவம்மிக்க அரசியல்வாதிகள் மற்றும் எனக்கு ஆதரவாகவுள்ள குறிப்பிடத்தக்க இளம்தலைமுறையினருடன் இணைந்து நான் அரசியலில் ஈடுபட தீர்மானித்துள்ளேன் நாட்டிற்கு மிகச்சிறந்த பங்களிப்பை வழங்குவதே இதன் நோக்கம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+கடந்த 75 வருடங்களாக அரசியல் நோக்கம் என்ற எதுவுமிருக்கவில்லை அனைவரும் பார்க்ககூடிய அனைவரும் பயன்பெறக்கூடிய மாற்றங்களை கொண்டுவர எண்ணியுள்ளோம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/c67595d8.json)
+
+---
+
+### தாய்லாந்து பிரதமர் தக்சினுக்கு பரோல்
+
+*2024-02-18 10:53:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-பிரதமர்-தக்சினுக்கு-பரோல்/50-333371) · `ta`
+
+தாய்லாந்து நாட்டின் முன்னாள் பிரதமர் தக்சின் ஷினவத்ரா, ஞாயிற்றுக்கிழமை (18) விடுதலை செய்யப்பட்டுள்ளார். இந்த தகவலை தற்போதைய பிரதமர் ஸ்ரேத்தா தவிசின் உறுதிப்படுத்தினார்.
+
+ஷினவத்ரா கடந்த 2001 ஆம் ஆண்டு முதல் 2006 ஆம் ஆண்டு வரை தாய்லாந்து நாட்டின் பிரதமராக இருந்தார். அப்போது சர்ச்சைக்குரிய அரிசி மானிய திட்டத்தின் மூலம் அரசுக்கு நஷ்டத்தை ஏற்படுத்தியதாக அவர் மீது வழக்கு தொடரப்பட்டது.
+
+இந்த வழக்கில் தாய்லாந்து முன்னாள் பிரதமருக்கு சிறைத் தண்டனை விதிக்கப்பட்டது. இந்த சிற தண்டனையிலிருந்து தப்பிப்பதற்காக 15 ஆண்டுகள் வெளிநாட்டிலிருந்து கடந்தாண்டு நாடு திரும்பினார் தக்சின். பல்வேறு குற்றச்சாட்டுகளின் அடிப்படையில் அவருக்கு 8 ஆண்டுகள் சிறைத் தண்டனை விதிக்கப்பட்டது.
+
+...
+
+[Data](articles/864f9b7a.json)
+
+---
+
+### Nearly 800 traffic offenders identified through CCTVs in Colombo
+
+*2024-02-18 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nearly-800-traffic-offenders-identified-through-CCTVs-in-Colombo/108-277250) · `en`
+
+Colombo, Feb 18 (Daily Mirror) - A total of 793 motorists who violated traffic rules have been identified through the CCTV system in Colombo.
+
+Police Spokesman DIG Nihal Thalduwa said video evidence of relevant offenses captured by the Traffic Division's CCTVs have been forwarded to about 300 police stations and fine papers for the offenses will be issued to the relevant drivers.
+
+Police launched the special programme aimed at identifying motorists violating traffic rules through the CCTV system in Colombo on January 22.
+
+Despite the programme being launched on January 22, a week-long awareness campaign on this programme was held for motorists and implimenting law against traffic violators commenced from February 1.
+
+◼️
+
+[Data](articles/a5ceed58.json)
+
+[Extended Data](ext_articles/a5ceed58.ext.json)
+
+---
+
+### Former Kotikawatta PS member arrested in raid linked to Shiran Bhasik
+
+*2024-02-18 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Kotikawatta-PS-member-arrested-in-raid-linked-to-Shiran-Bhasik/108-277249) · `en`
+
+Colombo, Feb 18 (Daily Mirror) - The Police Special Task Force arrested a former member of the Kotikawatta Pradeshiya Sabha, known to be closely associated with notorious drug dealer Shiran Bhasik, at a luxury housing complex in Wellawatta.
+
+Police said Nadeen Bhasik, son of Shiran Bhasik, managed to evade capture during the raid.
+
+Based on intelligence provided by the STF regarding the transport of drugs in a luxury vehicle, an officer on duty attempted to stop a car on the road adjacent to a housing complex in Wellawatta. Despite the officer's signals to stop, the car disregarded the instructions and proceeded towards the parking area of the housing complex, casing injuries to an officer.
+
+A police sergeant sustained injuries during the incident and was admitted to the Police Hospital in Narahenpita for treatment.
+
+THe STF arrested one of the fleeing suspects, a former PS member, while the other suspect, identified as Nadeen Bhasik, managed to escape.
+
+...
+
+[Data](articles/e3f5ab91.json)
+
+[Extended Data](ext_articles/e3f5ab91.ext.json)
+
+---
+
+### கறுப்பு கொடிகளை கட்டி மீனவர்கள் போராட்டம்
+
+*2024-02-18 10:42:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கறுப்பு-கொடிகளை-கட்டி-மீனவர்கள்-போராட்டம்/46-333370) · `ta`
+
+எல்லை தாண்டி மீன் பிடித்ததாக கைது செய்யப்பட்ட மீன்பிடி விசைப் படகின் ஓட்டுனருக்கு ஆறு மாத சிறை தண்டனை மற்றும் இரண்டாவது முறையாக கைது செய்யப்பட்ட மீனவருக்கு ஓராண்டு சிறை தண்டனை விதித்தமையை   கண்டித்து ராமேஸ்வரம் விசைப்படகு மீனவர்கள் தொடர் வேலை நிறுத்த போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+இந்நிலையில் மீனவர்கள் தங்களது எதிர்ப்பை வெளிப்படுத்தும் விதமாக ராமேஸ்வரம் மீன் பிடித்து துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டுள்ள சுமார் 800-க்கும் மேற்பட்ட விசைப்படகுகளில்  ஞாயிற்றுக்கிழமை (18) காலை கறுப்பு கொடிகளை கட்டி போராட்டம் நடத்தி வருகின்றனர்.
+
+எல்லை தாண்டி மீன் பிடித்ததாக கைது செய்யப்பட்ட மூன்று தமிழக மீனவர்களுக்கு சிறை தண்டனை விதித்து இலங்கை நீதிமன்ற தீர்ப்பளித்ததை கண்டித்து நீதிமன்ற தீர்ப்பை உடனடியாக ரத்து செய்ய வலியுறுத்தியும் ராமேஸ்வரம் மீனவர்கள் கச்சத்தீவு திருவிழாவை புறக் கணிப்பதுடன் சனிக்கிழமை (17) முதல் தொடர் வேலை நிறுத்த போராட்டத்தில் ஈடுபட போவதாக ஆலோசனை கூட்டத்தில் விசைப்படகு மீனவர்கள் முடிவு செய்து தீர்மானம் நிறைவேற்றி உள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8b962015.json)
+
+---
 
 ### A mysterious death with cut injury
 
@@ -59,6 +209,56 @@ Police investigations on whether a person at home was carried out at home.
 [Data](articles/3b5a8fe7.json)
 
 [Extended Data](ext_articles/3b5a8fe7.ext.json)
+
+---
+
+### ரஸ்ய எதிர்கட்சி தலைவரின் உடலை கையளிப்பதற்கு தயங்கும் ரஸ்ய அதிகாரிகள் - நவால்னியின் சகாக்கள் தெரிவிப்பு
+
+*2024-02-18 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176650) · `ta`
+
+சிறையில் உயிரிழந்த ரஸ்ய எதிர்கட்சி தலைவர் அலெக்ஸே நவல்னியின் உடலை அவரது தாயரிடம் கையளிப்பதற்கு ரஸ்ய அதிகாரிகள் மறுக்கின்றனர் என நவால்னியின் நெருங்கிய சகாவொருவர் தெரிவித்துள்ளார்.
+
+பிரேதப்பரிசோதனை முடிவடைந்த பின்னரே உடலை கையளிப்போம் என ரஸ்ய அதிகாரிகள் நவால்னியின் தயாரிடம் தெரிவித்துள்ளனர்.
+
+சிறைச்சாலையில் நடந்துகொண்டிருந்த வேளை தீடிரென மயக்கமடைந்து வீழ்ந்து நவால்னி உயிரிழந்தார் என  ரஸ்ய அதிகாரிகள் அவரின் தாயாரிடம் தெரிவித்துள்ளனர்.
+
+சிறைச்சாலைக்கு அருகில் உள்ள நகரமொன்றிற்கு நவால்னியின் உடல் கொண்டு செல்லப்பட்டுள்ளதாக அதிகாரிகள் நவால்னியின் தாயாருக்கு தெரிவித்தனர் அவர் அங்கு சென்றவேளை பிரேதஅறை மூடப்பட்டிருந்தது என நவால்னியின் சகாக்கள் தெரிவித்துள்ளனர்.
+
+முதலாவது பிரேதப்பரிசோதனை முழுமையானதாக காணப்படாததால் மற்றுமொரு பிரேதப்பரிசோதனையை மேற்கொள்ளவேண்டியுள்ளது என ரஸ்ய அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+தடயங்களை மறைப்பதற்காக வேண்டுமென்றே நவால்னியின் உடலை  அதிகாரிகள் மறைக்கின்றனர் எனதெரிவித்துள்ள நவால்னியின் சகாக்கள்  அவரது உடலை உடனடியாக குடும்பத்தினரிடம் வழங்கவேண்டும் என வேண்டுகோள் விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/031c3c3d.json)
+
+---
+
+### Former Thai prime minister released on parole
+
+*2024-02-18 10:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Former-Thai-prime-minister-released-on-parole/107-277248) · `en`
+
+Bangkok , Feb 18 (BBC) - Thailand's convicted former Prime Minister Thaksin Shinawatra has arrived at his mansion in the capital Bangkok after being released on parole.
+
+The billionaire was freed from a police hospital, where he had been serving a one-year jail sentence for corruption and abuse of power.
+
+Thaksin, 74, was detained as soon as he returned to Thailand last August from 15 years in self-imposed exile.
+
+He did not spent a single night in jail after complaining of health problems.
+
+Thaksin's original eight-year prison term was commuted to one year by Thailand's king - just days after he returned from exile.
+
+The handling of the case has led to criticism from many Thais, who say the rich and powerful are often given privileged treatment.
+
+On Sunday, Thaksin was seen being driven away from the police hospital in the capital, where he had spent six months.
+
+The authorities said he was eligible for parole due to his age and health issues.
+
+...
+
+[Data](articles/10f89c86.json)
+
+[Extended Data](ext_articles/10f89c86.ext.json)
 
 ---
 
@@ -1032,22 +1232,6 @@ For Afghanistan, Fazalhaq Farooqi was the pick of the bowlers, picking up three 
 
 ---
 
-### Charles Ambrose Lorenz: an unsung artist of the 19th century
-
-*2024-02-17 21:18:00* · [`islandlk`](http://island.lk/charles-ambrose-lorenz-an-unsung-artist-of-the-19th-century/) · `en`
-
-“Every child is an artist; the problem is staying an artist when you grow up” – Pablo Picasso
-
-Though forgotten by the present generation, it is no understatement to say that Charles Ambrose Lorenz was Ceylon’s most beloved son of the 19th century. The whole colony mourned his premature death in his prime in 1871. He was loved by people from all walks of life. This most accomplished and colourful personality wore several hats in lifetime.
-
-...
-
-[Data](articles/894983e4.json)
-
-[Extended Data](ext_articles/894983e4.ext.json)
-
----
-
 ### Basil commands the Seventh Navy
 
 *2024-02-17 21:03:10* · [`adalk`](https://www.ada.lk/breaking_news/හත්වන-නාවික-හමුදාපති-බැසිල්-සමුගනියි/11-408140) · `si`
@@ -1917,193 +2101,5 @@ The Navy and Police have commenced operations in search of the missing officer.
 [Data](articles/f4e8e08a.json)
 
 [Extended Data](ext_articles/f4e8e08a.ext.json)
-
----
-
-### Additional Medical Treatments for Keheliya
-
-*2024-02-17 15:23:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-மேலதிக-மருத்துவ-சிகிச்சைகள்/175-333344) · `ta`
-
-Doctors have recommended further medical treatment to former minister Keheliya Rambukwella, who has been arrested and interrogated.
-
-Prison spokesman Gamini B that he continues to receive treatment at the Prison Hospital. Dissanayake said.
-
-He pointed out that medical reports have been submitted to court on the court order.
-
-Seven persons, including former health minister Keheliya Rambukwella, have been kept in remand till the 29th of this month. Remble
-
-◼️
-
-[Data](articles/55cc9c9c.json)
-
-[Extended Data](ext_articles/55cc9c9c.ext.json)
-
----
-
-### Another top U.S. State Dept. official to visit Sri Lanka next week
-
-*2024-02-17 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97348/another-top-us-state-dept-official-to-visit-sri-lanka-next-week) · `en`
-
-U.S. Deputy Secretary of State for Management and Resources Richard R. Verma is slated to travel to Sri Lanka, India and the Maldives from February 18 - 23.
-
-According to a statement from the State Department, Verma’s visits are expected to bolster the United States’ cooperation with each of these key Indo-Pacific partners.
-
-The Deputy Secretary’s meetings with senior officials in Colombo will support U.S.-Sri Lankan defense and maritime security cooperation, the statement read further.
-
-Verma will visit the Colombo Port’s West Container Terminal, where the U.S. is supporting Sri Lanka’s ongoing economic recovery through USD 553 million in financing to transform Colombo into a regional shipping hub.
-
-Subsequently, he will meet with civil society leaders to hear their perspective on democratic governance in Sri Lanka and with government officials to voice U.S. support for the protection of free speech and open discourse.
-
-...
-
-[Data](articles/95b563a8.json)
-
-[Extended Data](ext_articles/95b563a8.ext.json)
-
----
-
-### The country's economy can be built only through an effort for the national government - Rauf Hakeem
-
-*2024-02-17 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176619) · `ta`
-
-Muslim Congress leader Rauf Hakeem has said that if the ruling party and the opposition are trying to build this country in the posture of a nationwide government, we will get our support.
-
-Responding to the questions of journalists after becoming the chief guest at the inauguration of the 'Exan' Indoor Stadium, which was built by a private organization in Madawala Bazar, Kandy, who created international athletes. The MU leader said the above.
-
-The event was held on Friday evening (16) evening (16), Kandy District Parliamentarian Velukumar, former members of the Central Provincial Council Tilina Bandara Tennakoon. Many guests, including Najim, attended.
-
-...
-
-[Data](articles/2d463a8a.json)
-
-[Extended Data](ext_articles/2d463a8a.ext.json)
-
----
-
-### Cadebuader's death begins
-
-*2024-02-17 14:40:57* · [`adalk`](https://www.ada.lk/breaking_news/කායවර්ධන-ශිල්පියාගේ-මරණය-ගැන-පරීක්ෂණයක්-අරඹයි/11-408135) · `si`
-
-Eppawala Police have commenced investigations into the emergency death of a 34 year old resident of Katiyawa, Eppawala.The deceased has been identified as DM Viraj, a 34-year-old father of two, a resident of Katia.
-
-Last week, the bodybuilding was rushed to the Katiyawa nut in the country while he was admitted to the Anuradhapura Survey Hospital for further rewards.
-
-The victim was killed at around 6.30 pm while receiving treatment at Ward 61 of the Anuradhapura Teaching Hospital.
-
-With the death of the bodybuilder, his father had been hospitalized and hospitalized and was admitted to the Anuradhapura Teaching Hospital. Hospital sources say that the situation is not serious.
-
-Did this death have been a shouting near the house before the bodybuilder falls in front of the house?Since this bodybuilding stimulants use the body, is the result of a result?Or a high-ranking police officer at the Priyankaragama Police said that investigations were conducted due to another disease.
-
-...
-
-[Data](articles/d027ce30.json)
-
-[Extended Data](ext_articles/d027ce30.ext.json)
-
----
-
-### Airports facilitated 846,173 international passenger movements in January 2024: AASL
-
-*2024-02-17 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Airports-facilitated-846-173-international-passenger-movements-in-January-2024-AASL/108-277234) · `en`
-
-Colombo, Feb 17 (Daily Mirror) - While indicating a potential growth in tourist arrivals, the country's airports managed to accommodate a total of 846,173 passengers in 2024, with 207,182 being tourists, the Airport and Aviation Services (Sri Lanka) (Private) Limited (AASL) said.
-
-Accordingly, passenger arrivals were recorded from the Bandaranaike International Airport (BIA), Jaffna International Airport (JIA) and Mattala Rajapaksa International Airport (MRIA).
-
-A total of 82,327 tourists arrived in the country in January 2022 and it went up to 102,545 with an increase of 24.5% for the same period in 2023.
-
-With remarkable growth, in January 2024, a total of 208,253 tourists had arrived in the country, a growth of 103% compared to the same period in 2023.
-
-...
-
-[Data](articles/36be9b03.json)
-
-[Extended Data](ext_articles/36be9b03.ext.json)
-
----
-
-### 470 elephants die last year
-
-*2024-02-17 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176609) · `ta`
-
-In 2023, 470 wild elephants died, of which 200 elephants were killed by human activities.
-
-The Director of the Department of Wildlife Defense (Protected Area Management) Manjula Amararatne said.
-
-In it, 83 elephants were killed, 47 elephants with elephant bombs, 66 elephants and 4 elephants were killed due to poisoning.
-
-In addition, 70 elephants collided with health, natural causes or accidents and 23 elephants were killed.
-
-Most of the elephant casualties were reported on the 27th of September last year. 11 wild elephants have died after colliding with the train.
-
-◼️
-
-[Data](articles/d3774dd1.json)
-
-[Extended Data](ext_articles/d3774dd1.ext.json)
-
----
-
-### Primary health should be strengthened to reduce the sick congestion
-
-*2024-02-17 14:24:57* · [`adalk`](https://www.ada.lk/breaking_news/රෝගී-තදබදය-අවම-කිරීමට-ප්‍රාථමික-සෞඛ්‍ය-ශක්තිමත්-කළ-යුතුයි/11-408134) · `si`
-
-If the primary health conservation programs in the government hospitals in the country's government hospitals, the health conservation programs should be strengthened, healthy can be a huge achievement if it is a great victory in secondary hospitalsAnd Industry, Dr. Ramesh Pathirana said.
-
-The Minister was speaking at a special discussion with the hospital staff at the Ampara General Hospital and the Batticaloa General Hospital yesterday (16).
-
-Special programs for the people of the Ministry of Health at the district level have been identified as a promotional solution to maintain the shortcomings in the district level with the main objective of maintaining the government's hospitality services.Parallel to ministries, the minister, officials were conducting the special inspection tour.
-
-The Minister and other officials were monitored by the Minister, Wards, Wards, Wards, Ward of theater, Ward, Ward, Wards, Wards, Venue Wounders, and the Primary Treatment of Primary Treatment.
-
-...
-
-[Data](articles/80f29697.json)
-
-[Extended Data](ext_articles/80f29697.ext.json)
-
----
-
-### The bodies of two students who died in the sea of Nintavur
-
-*2024-02-17 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176612) · `ta`
-
-Two students from the Malikaikkadu - Sainthamaruthu area were missing in the sea on Friday evening at the Nintavur area.
-
-Janasa, a student from Malikaikkadu area, Surdeen Muhammad Muhammad (age 15), was rescued this morning on Saturday morning.. The Janasa of Rizwan Muhammad Ilham (age 15) from Sainthamaruthi was recovered this afternoon.
-
-According to the incident, 08 students under the age of 13 and 15 of Sainthamaruthin, who were 13 and 15 years of age, finished the Jummah prayer yesterday and went to the Nindavur-Oluvil border beach in a bicycle.
-
-Investigations revealed that the two men had gone to the sea at 04.20 pm that evening.
-
-Fishermen and civilians have been found dead in search of missing students who went to the sea.
-
-The Samanthurai Magistrate's Court, who visited the scene, investigated the death of Justice MR Sabir.
-
-Further inquiries are being made by the sub -inspectors of the Nintavur Police Station MA. Basil, r. Wimalendran -led police are carrying out.
-
-◼️
-
-[Data](articles/0063a511.json)
-
-[Extended Data](ext_articles/0063a511.ext.json)
-
----
-
-### Creek results
-
-*2024-02-17 14:09:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிற்றூழியர்களின்-அதிரடி-முடிவு/175-333343) · `ta`
-
-Colombo National Hospital's Deputy Director Dr. Rukshan Bellana will not be abandoned until he is removed from the post, the Colombo National Hospital has said.
-
-They have begun the move against Dr. Rukshan Bellana's comments on the recent workshop.
-
-Meanwhile, the National Hospital's short -lived men forcibly detained Dr. Rukshan Bellana at his office yesterday (16) and left the office with the intervention of security forces after about 6 hours.. Remble
-
-◼️
-
-[Data](articles/5bcf944b.json)
-
-[Extended Data](ext_articles/5bcf944b.ext.json)
 
 ---

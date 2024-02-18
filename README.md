@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 13:17:23**
+As of **2024-02-18 13:33:04**
 
 ## Newspaper Stats
 
-*Scraped **7,788** Articles*
+*Scraped **7,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,58 @@ adalk | 658
 tamilmirrorlk | 948
 adaderanalk | 958
 virakesarilk | 1,022
-adaderanasinhalalk | 1,128
+adaderanasinhalalk | 1,129
 dailymirrorlk | 1,147
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,787 (100.0%) of 7,788 articles have been extended.
+7,788 (100.0%) of 7,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### රට මුහුණ දුන් දැවැන්තම අභියෝගය ගැන දැනුම්දීමක්
+### ඩැට් දීමනාව ගැන තීරණාත්මක සාකච්ඡාවක්
+
+*2024-02-18 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193540) · `si`
+
+ඩැට් දීමනාව සම්බන්ධයෙන් සෞඛ්‍ය වෘත්තිය සමිති සහ සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා අතර තීරණාත්මක සාකච්ඡාවක් හෙට (19) පැවැත්වීමට නියමිත ව තිබේ.
+
+සෞඛ්‍ය වෘත්තිය සමිති සන්ධානය පවසන්නේ, එම සාකච්ඡාව ද අසාර්ථක වුව හොත් හෙට (19) පස්වරුවේ රැස් වී වර්ජනය සම්බන්ධයෙන් තීරණයක් ගන්නා බව ය.
+
+වෛද්‍යවරුන් සඳහා වැඩි කළ රුපියල් තිස් පන්දහසක ඩැට් දීමනාව තමන්ට ද ලබා දෙන්නැයි ඉල්ලා සෞඛ්‍ය වෘත්තිය සමිති 72ක් එක් ව පසුගිය සති කිහිපය තුළ අවස්ථා දෙකක දී දින කිහිපයක වර්ජන ක්‍රියාමාර්ගයක නිරත විය.
+
+පසුගිය 15 වැනි දා පෙරවරුවේ එම වර්ජනය තාවකාලික ව අවසන් කෙරුණේ, වෘත්තිය සමිතිවල ඉල්ලීම් සම්බන්ධයෙන් සාකච්ඡා කිරීමට සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා ලිඛිත ව එකඟතාව පළ කිරීමත් සමඟ ය.
+
+ඒ අනුව සෞඛ්‍ය අමාත්‍යවරයා සමඟ හෙට පෙරවරු 11.00ට පමණ සාකච්ඡාවක් පැවැත්වීමට සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/7bb1e14a.json)
+
+---
+
+### Notice of the biggest challenge faced by the country
 
 *2024-02-18 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193539) · `si`
 
-මෑතකාලීන ව රට මුහුණ දුන් අභියෝගාත්මකම ආර්ථික කාරණාව ණය ප්‍රතිව්‍යුගතකරණය බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+Government Minister Dr. Ranjith Siyambalapitiya says that the challenges of the recently faced recently faced by the country.
 
-ඒ මහතා සඳහන් කළේ, දේශිය ණය ප්‍රතිව්‍යුහගතකරණය මේ වන විට අවසන් කර ඇති බවත් ජූනි මාසය වන විට සමස්ත ණය ප්‍රතිව්‍යුහගත කිරීම සම්පූර්ණයෙන්ම නිමා කිරීම ඉලක්කය බවත් ය.
+He said that the restructuring of local debt has already been completed, and the target is the fully end of the end.
 
-මේ අතර, විදේශ ණය බහු පාර්ශ්වීය සහ ද්වි පාර්ශ්වීය ණය ලෙස කොටස් දෙකකින් සමන්විත බව සඳහන් කළ සියඹලාපිටිය මහතා, එම බහු පාර්ශ්වීය ණය අඛණ්ඩ ව ගෙවීමට කටයුතු කළ බව ද මෙහි දී සඳහන් කළේ ය.
+Meanwhile, Siyambalapitiya, noted that foreign loans were comprised of two parts as multilateral and bilateral loans, said that he continued to pay the multilateral debt.
 
-කෙසේ වෙතත් ද්වි පාර්ශ්වීය විදේශ ණය ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් සාකච්ඡා ඉතා සාර්ථක ව මේ වන විට පැවැත්වෙමින් ඇති බවත් රටවල් අතර ණය සම්බන්ධයෙන් වන සාකච්ඡා මාර්තු මස අවසන් වන විට නිමා කොට ගිවිසුම්ගත වීමට හැකි බවත් මුදල් රාජ්‍ය අමාත්‍යවරයා මෙහි දී සඳහන් කර ඇත.
+However, the State Minister has stated that discussions with the restructuring of bilateral foreign debt have been constructed and discussed by the countries in March will be an agreement by the end of March.
 
-එමෙන්ම ස්වෛරීත්ව බැදුම්කර සම්බන්ධයෙන් වන සාකච්ඡා අප්‍රේල් මාසය වන විට හා ණය ප්‍රතිව්‍යුහගතකරණය ජූනි මාසය වන විට සම්පූර්ණයෙන්ම නිමා කිරීම ඉලක්කය බවත් මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා වැඩිදුරටත් පැවසීය.
+Minister of Public Minister Dr. Ranjith Siyambalapitiya added that discussions on the sovereign bonds and the end of the debt restructuring by June as the target of June.
 
 ◼️
 
 [Data](articles/7e760dd5.json)
+
+[Extended Data](ext_articles/7e760dd5.ext.json)
 
 ---
 
@@ -2093,25 +2115,5 @@ The scandal unfolded during the second phase of the project aimed at renovating 
 [Data](articles/bfa09082.json)
 
 [Extended Data](ext_articles/bfa09082.ext.json)
-
----
-
-### Two Iranian naval ships dock at Colombo Port
-
-*2024-02-17 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97351/two-iranian-naval-ships-dock-at-colombo-port) · `en`
-
-Two Iranian naval ships - IRINS Bushehr and IRINS Tonb - docked at the Colombo Port on Friday morning (Feb.16) on a formal visit. The visiting ships were welcomed by the Sri Lanka Navy, in compliance with naval traditions.
-
-IRINS Bushehr is a 107-meter-long ship manned by 270 crew members and it is commanded by Commander MAHDI BALVARDI. IRINS Tonb is a 95-meter-long platform with a crew of 250. It is commanded by Commander MOHAMMAD HAJI ZADEH.
-
-Meanwhile, the Commanding Officers of the ships are scheduled to call on Commander Western Naval Area and Director General Operations of the Navy, during their stay in the country.
-
-Sri Lanka Navy said both sides will be participating in various programmes aimed at fostering cooperation, adding that the crew members of the Iranian ships will have the opportunity to visit several tourist attractions on the island nation.
-
-...
-
-[Data](articles/9fd86768.json)
-
-[Extended Data](ext_articles/9fd86768.ext.json)
 
 ---

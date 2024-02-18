@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 09:51:17**
+As of **2024-02-18 10:02:32**
 
 ## Newspaper Stats
 
-*Scraped **7,757** Articles*
+*Scraped **7,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 409
 dailyftlk | 415
 adalk | 657
 tamilmirrorlk | 940
-adaderanalk | 952
+adaderanalk | 953
 virakesarilk | 1,018
 adaderanasinhalalk | 1,123
 dailymirrorlk | 1,142
@@ -26,7 +26,7 @@ dailymirrorlk | 1,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,757 (100.0%) of 7,757 articles have been extended.
+7,758 (100.0%) of 7,758 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,28 @@ About 1,500 police officers were deployed to control the protest and more than 2
 [Data](articles/5c2980c5.json)
 
 [Extended Data](ext_articles/5c2980c5.ext.json)
+
+---
+
+### Jailed ex-Thai PM Thaksin released on parole
+
+*2024-02-18 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97362/jailed-ex-thai-pm-thaksin-released-on-parole) · `en`
+
+Thailand’s convicted former Prime Minister Thaksin Shinawatra was released on parole on Sunday, six months after his return to the country from self-exile.
+
+Xinhua reporters observed that a car carrying Thaksin left a police hospital in Bangkok at 6:06 a.m. local time on Sunday, where he received medical treatment and served six months of his one-year prison sentence.
+
+Thai Prime Minister Srettha Thavisin previously said that the release on parole of Thaksin was in line with the law, Xinhua news agency reported.
+
+According to the country’s Justice Ministry, the 74-year-old former Prime Minister is among the 930 inmates approved for parole this month. He is eligible for parole as he is over 70-years-old and suffers from a serious illness.
+
+Thaksin ended his exile of more than 15 years and returned to Thailand in August last year, but was soon detained and faced an eight-year prison sentence on several charges.
+
+...
+
+[Data](articles/5556a0af.json)
+
+[Extended Data](ext_articles/5556a0af.ext.json)
 
 ---
 
@@ -2053,25 +2075,5 @@ He bravely opposed all activities, including the corruption violence of Putin. I
 [Data](articles/7cd06ffe.json)
 
 [Extended Data](ext_articles/7cd06ffe.ext.json)
-
----
-
-### Russian tourist fined Rs. 1.78Mn for damaging train in railway crossing mishap
-
-*2024-02-17 11:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-tourist-fined-Rs-1-78Mn-for-damaging-train-in-railway-crossing-mishap/108-277231) · `en`
-
-A Russian tourist who haphazardly entered his motorcar into the railway level crossing regardless of the approaching train was ordered yesterday by Galle Additional Magistrate Lakmini Vidanagamage to pay Rs. 1.78 million to the Railways Department to compensate for damages to the train and a fine of Rs. 56,000 for the traffic offence.
-
-The suspect, Loskotu Alexander, attempted to drive his motorcar with another passenger on board through the level crossing on January 23, 2023 and hit the Maho-bound express from Beliatta.
-
-He and the other passenger who received injuries had been admitted to the Karapitiya Teaching Hospital.
-
-The railway engine and the colour signal system had been extensively damaged in the incident. Police had filed action against the tourist under the motor traffic regulations, while the department claimed compensation for damages to the railway property.
-
-...
-
-[Data](articles/77e6e6fb.json)
-
-[Extended Data](ext_articles/77e6e6fb.ext.json)
 
 ---

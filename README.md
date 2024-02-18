@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 13:51:49**
+As of **2024-02-18 14:02:35**
 
 ## Newspaper Stats
 
-*Scraped **7,794** Articles*
+*Scraped **7,796** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 661
 tamilmirrorlk | 948
 adaderanalk | 958
 virakesarilk | 1,022
-adaderanasinhalalk | 1,129
-dailymirrorlk | 1,149
+adaderanasinhalalk | 1,130
+dailymirrorlk | 1,150
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,794 (100.0%) of 7,794 articles have been extended.
+7,796 (100.0%) of 7,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### Minister of External Affairs to visit Sri Lanka
+
+*2024-02-18 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193541) · `si`
+
+Minister of Iranian Foreign Minister Dr. Housey Amar Abdullayan, is due to arrive in the island for an official visit.
+
+According to the invitation of Foreign Minister Ali Sabri, the Iranian Foreign Minister will visit Sri Lanka from 19th to 21.
+
+The Iranian Foreign Minister is scheduled to meet President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
+
+It is also reported that the Iranian Foreign Minister and other delegation are to be held with the official discussions with Minister Ali Sabri at the Ministry of External Affairs.
+
+◼️
+
+[Data](articles/466352bb.json)
+
+[Extended Data](ext_articles/466352bb.ext.json)
+
+---
+
+### Sri Lanka fall behind in blacklisting corrupt contractors: Verité Research
+
+*2024-02-18 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-fall-behind-in-blacklisting-corrupt-contractors-Verité-Research/108-277257) · `en`
+
+Colombo, Feb 18 (Daily Mirror) - Sri Lanka has the worst record among South Asian countries in blacklisting corrupt contractors in public procurement, according to a new report by Verité Research.
+
+The report shows that Sri Lanka is the only country in South Asia that 1) does not recognise engaging in corrupt and fraudulent activities during procurement as a valid reason for blacklisting 2) has not blacklisted contractors that have defaulted on contractual obligations despite having the provisions to do so.
+
+The first issue can be attributed to gaps in the procurement guidelines of 2006, which govern almost all public procurement in Sri Lanka — except in a few instances such as pharmaceutical procurement.
+
+The report emphasises the importance of urgently fixing these gaps to combat corruption and restore fiscal governance.
+
+...
+
+[Data](articles/84c1c184.json)
+
+[Extended Data](ext_articles/84c1c184.ext.json)
+
+---
 
 ### Four including gunman in Meegoda Economic Centre shooting, arrested
 
@@ -2089,51 +2129,5 @@ President Ranil Wickremesinghe embarked on an observation tour in the Tangalle a
 [Data](articles/bc500a95.json)
 
 [Extended Data](ext_articles/bc500a95.ext.json)
-
----
-
-### 1.78 million rupees for a Russian passenger who damaged the train
-
-*2024-02-17 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176627) · `ta`
-
-The Russian tourist Lakmini Vidanagamage has been fined for a Russian tourist who tried to cross the train and cross the railway crossing, regardless of the arrival of the train.
-
-Accordingly, the Railway Department has been ordered to pay 1.78 million rupees for the damage and Rs 56,000 for the transportation violation.
-
-On January 23 last year, the car crashed into a train and a train traveling from Beliatta to Maho.
-
-Subsequently, the Russian citizen and others who were traveling in the car were injured and admitted to the Karapitiya Teaching Hospital.
-
-In this case, the police have taken action against the tourist under traffic rules and the Railway Department has sought compensation for the damage caused by the railway property.
-
-Ahangama Police Station Superintendent Nalaka Jayaweera and Euadhavipa Police Inspector Sandana presented the submissions on the state side and the lawyers Bamuthi Weerasuriya and Sisira Weerasuriya were present for the suspect.
-
-◼️
-
-[Data](articles/92f42411.json)
-
-[Extended Data](ext_articles/92f42411.ext.json)
-
----
-
-### 10-year-old girl's post mortem examination reveals
-
-*2024-02-17 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193512) · `si`
-
-The post mortem examination revealed that the girl who died in the North of Taichannawan area was identified.
-
-Post mortem examination on the girl's body was held at the Jaffna Teaching Hospital this morning.
-
-However, the Mannar Magistrate was given permission to the police today to retain the suspect in connection with the girl's murder.
-
-The relatives of the family had informed the police regarding the 10-year-old resident of Thalagamunnarwa.
-
-The girl's body was found in a coconut land in the area.
-
-◼️
-
-[Data](articles/83118d5e.json)
-
-[Extended Data](ext_articles/83118d5e.ext.json)
 
 ---

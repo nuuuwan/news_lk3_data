@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 21:02:30**
+As of **2024-02-18 21:17:36**
 
 ## Newspaper Stats
 
@@ -26,69 +26,75 @@ dailymirrorlk | 1,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,836 (99.9%) of 7,842 articles have been extended.
+7,842 (100.0%) of 7,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### கடந்த மூன்று வருடங்களுக்கு மேலாக நிறுத்தப்பட்டிருந்த நாட்டின் அபிவிருத்தியை ஜனாதிபதி மீண்டும் ஆரம்பித்து வைத்துள்ளார் - அமைச்சர் பிரசன்ன ரணதுங்க
+### President Prasanna Ranatunga has resumed the development of the country for over three years
 
 *2024-02-18 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176700) · `ta`
 
-கோவிட் மற்றும் பொருளாதார நெருக்கடி காரணமாக மூன்று வருடங்களாக தடைப்பட்டிருந்த நாட்டின் அபிவிருத்தியை தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க மீண்டும் ஆரம்பித்துள்ளதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Urban Development and Housing Minister Prasanna Ranatunga has said that the current President Ranil Wickremesinghe has resumed the development of the country, which has been banned for three years due to the Govt and economic crisis.
 
-அபிவிருத்தி வேலைத்திட்டங்களை முன்னெடுப்பதற்கு அரச இயந்திரத்தின் அதிகபட்ச ஆதரவை எதிர்பார்ப்பதாக அவர் வலியுறுத்தியுள்ளார்.
+He stressed that the state apparatus is expecting the maximum support of the state apparatus to carry out development programs.
 
-மாகாண, மாவட்ட  மற்றும்  பிரதேச செயலகங்களுக்கு ஏற்ற அபிவிருத்தித் திட்டங்களை இனங்காணுவது மாவட்ட ஒருங்கிணைப்புக் குழு  மற்றும் பிரதேச ஒருங்கிணைப்புக் குழுக்களின் பொறுப்பாகும் எனத் தெரிவித்த அமைச்சர், அந்த அபிவிருத்திச் செயற்பாடுகளை இனங்கண்டு பொதுமக்களின் கருத்துக்கள் மற்றும் ஆலோசனைகள் ஊடாக மேற்கொள்ளப்பட வேண்டும் என்றும் தெரிவித்தார்.
+The Minister said that the identification of the development projects suitable for the Provincial, District and Divisional Secretariats is responsible for the District Coordinating Committee and Divisional Coordinating Committees, and that the development activities should be identified and the public's views and suggestions should be taken through the public.
 
-மாத்தளை மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் மலைப் பத்தாண்டு அபிவிருத்தி வேலைத்திட்டம் தொடர்பில் அதிகாரிகளுக்கு அறிவிக்கும் நிகழ்வில் வெள்ளிக்கிழமை (16) கலந்து கொண்டு அமைச்சர் பிரசன்ன ரணதுங்க  தெரிவித்தார். இது மாத்தளை மாவட்ட செயலகத்தில் நடைபெற்றது.
+Minister Prasanna Ranatunga said at the Matale District Coordinating Committee meeting on Friday (16). It was held at the Matale District Secretariat.
 
 ...
 
 [Data](articles/a0f0ee59.json)
 
+[Extended Data](ext_articles/a0f0ee59.ext.json)
+
 ---
 
-### මීගොඩ කොල්ලයට කොටුවූ ව්‍යාපාරිකයෝ ගැන තොරතුරු එළියට
+### Businessians out of business people who were arrested for Meegoda
 
 *2024-02-18 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193553) · `si`
 
-මීගොඩ ආර්ථික මධ්‍යස්ථානයේ සිදුවූ කොල්ලය සම්බන්ධයෙන් මේ වනවිට පුද්ගලයින් 5දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ඉන් තිදෙනෙකුම ව්‍යාපාරිකයින් බව පොලීසිය පවසයි.
+Five persons have been arrested in connection with the robbery at the Meegoda Economic Center, three of them were businesses.
 
-අදාළ කොල්ලයේ ඔත්තු බැලීමට ඔහු හවුල් වූ බවට පොලිසිය අනාවරණ කරගැනීම හේතුවෙන් තිස්සමහාරාම ප්‍රදේශයේ ව්‍යාපාරිකයෙකු අත්අඩංගුවට ගෙන තිබුණි.
+A businessman in Tissamaharama had arrested a businessman in Tissamaharama due to the police reveal that he was involved in the spying.
 
-ඔහු තිස්සමහාරාම ප්‍රදේශයේ මිරිස් කුඩු ව්‍යාපාරයක් සහ කායවර්ධන මධ්‍යස්ථානයක් පවත්වාගෙන යන බවට පොලිසිය පවසයි.
+According to police, he operates a chilli powder business and agrarily center in Tissamaharama.
 
-එසේම සිද්ධිය සම්බන්ධයෙන් ඉඹුල්ගම සහ කඩවත ප්‍රදේශවල පදිංචි ව්‍යාපාරිකයින් දෙදෙනෙකුද පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+Police have also arrested two businessmen from Imbulgama and Kadawatha areas.
 
-මේ අතර පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ මෙවැන්නක්.
+Meanwhile, police spokesman DIG's men lawyer said, Similar.
 
 ◼️
 
 [Data](articles/508a9e48.json)
 
+[Extended Data](ext_articles/508a9e48.ext.json)
+
 ---
 
-### சிவனொளிபாத மலை யாத்திரைக்கு பயணித்த வேனும் பேருந்தும் நேருக்கு நேர் மோதி விபத்து : 10  பேர் காயம்
+### Van and bus collided face -to -face
 
 *2024-02-18 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176699) · `ta`
 
-சிவனொளிபாத மலை யாத்திரைக்குப் பயணித்த வேனும் பேருந்தும் நேருக்கு நேர் மோதி விபத்தொன்று இடம்பெற்றுள்ளது.
+A van and bus traveling to the Sivanolipada mountain pilgrimage collided face -to -face.
 
-கம்பஹாவிலிருந்து யாத்திரிகர்கள் குழுவை ஏற்றிச் சென்ற வேனும் மாத்தறையிலிருந்து யாத்திரிகர்கள் குழுவை ஏற்றிச் சென்ற பேருந்தும் இவ்விபத்தில் சிக்கியுள்ளன.
+The van carrying a group of pilgrims from Gampaha and the bus carrying a group of pilgrims from Matara to Matara.
 
-குறித்த விபத்து இன்று 18 ஆம் திகதி  பிற்பகல் ஹட்டன் - கொழும்பு பிரதான வீதியில் கினிகத்தேனை - மில்லகஹமுல்ல பிரதேசத்தில் இடம்பெற்றுள்ளது.
+The accident took place on the Hatton - Colombo main road on the 18th of this month at the Ginigathena - Millagahamulla area.
 
-விபத்தில் படுகாயமடைந்த இருவர் மேலதிக சிகிச்சைக்காக கினிகத்தேனை வைத்தியசாலையிலிருந்து நாவலப்பிட்டி வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
+Two persons who were injured in the accident have been transferred from Kinigathena Hospital to Nawalapitiya Hospital for further treatment.
 
-வேன் முன்னால் சென்ற லொறியை முந்திச் செல்ல முற்பட்ட போது இந்த விபத்து நேர்ந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say the accident occurred when the van was trying to overtake the lorry.
 
-விபத்தில் வேனும் பேருந்தும் பலத்த சேதமடைந்துள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை கினிகத்தேனை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+The van and the bus have been severely damaged in the accident and the police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/eab20ccc.json)
+
+[Extended Data](ext_articles/eab20ccc.ext.json)
 
 ---
 
@@ -112,15 +118,19 @@ Police further reported that ‘Patta’ currently has two other ongoing court c
 
 ---
 
-### “அருணாசலம்” இணக்க அரசியலில் தோல்வி அகண்ட முதலாவது தமிழ்த்தலைவர்
+### "Arunachalam" is the first Tamil leader to fail in compliance politics
 
 *2024-02-18 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176696) · `ta`
 
-1931ஆம் ஆண்டு தேர்தலின் பின்னர் மந்திரி சபை அமைக்கப்பட்ட போது தமிழ், முஸ்லீம் தரப்பிலிருந்து இருவர் தெரிவு செய்யப்ட்டனர். இந்தியவாம்சாவழியினரான பெரி சுந்தரம் தொழில் அமைச்சராகவும் மாக்கான் மாக்கார் போக்குவரத்து அமைச்சராகவும் தெரிவு செய்யப்பட்டார். ஆனால் 1936ஆம் ஆண்டு மந்திரி சபை அமைக்கப்பட்ட போது அது தனிச்சிங்கள மந்திரி சபையாகவே இருந்தது. ஜீ.ஜீ.பொன்னம்பலத்தின் ஐம்பதுக்கு ஐம்பது கோரிக்கை இதன் பின்னரே எழுச்சியடைந்தது. உண்மையில் நிர்வாகக்குழு அதன் தலைவரான மந்திரியை தெரிவு செய்தாலும் அதனை தேசாதிபதி ஏற்றுக் கொண்டால் மட்டுமே அவர் மந்திரியாக பதவி வகிக்கலாம். இதில் மறுப்பானை அதிகாரம் தேசாதிபதிக்கு இருந்தது இங்கும் தேசாபதி மௌனமாகவே இருந்தார்.
+After the 1931 election, two people were elected from the Tamil and Muslim side when the cabinet was formed. Berry Sundaram, the Minister of Labor and Makan Makar Transport Minister. But when the Cabinet was formed in 1936, it was a separate cabinet council. Fifty -fifty demands of GG Ponnambalam. In fact, even if the executive committee selects its chairman, he can only hold the post of Minister if the President accepts it. In this, the patriotism was the silence of the patriot.
 
-...
+The politics of the Jaffna youth Congress, which was moving this way, moved parallel to the politics of the Jaffna Congress until 1934.. The Jaffna Youth Congress boycotted the 1931 cosmic elections. The reason is that Donamur Yapu did not give Sri Lanka a complete independence. Due to this boycott, the election has not been held in all four constituencies of Jaffna. Many Sinhalese political leaders have retreated but later retreated. The Jaffna Youth Congress was left alone in this regard.
+
+◼️
 
 [Data](articles/20eadff7.json)
+
+[Extended Data](ext_articles/20eadff7.ext.json)
 
 ---
 
@@ -356,23 +366,29 @@ The agricultural school student has been admitted to the Teldeniya hospital for 
 
 ---
 
-### යුක්තියට මාස දෙකක් පිරීම නිමිත්තෙන් විශේෂ මෙහෙයුමක්
+### Special operation to mark two months of justice
 
 *2024-02-18 17:36:18* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තියට-මාස-දෙකක්-පිරීම-නිමිත්තෙන්-විශේෂ-මෙහෙයුමක්/11-408154) · `si`
 
-යුක්තිය මෙහෙයුම ආරම්භ කර මාස දෙකක් පිරීම නිමිත්තෙන්  බස්නාහිර පළාතේ සියලු පොලිස් වසම් ආවරණය වන පරිදි විශේෂ සෝදිසි , මෙහෙයුමේදී පුද්ගලයින් 1,061 දෙනෙකු අත්අඩංගුවට ගත් බව පොලිස් මූලස්ථානය සඳහන් කරයි.
+The police headquarters said that the special search coverage of all police divisions in the Western Province to mark the operation of justice.
 
-එම මෙහෙයුමේදී රථ වාහන  11 ක් සහ අපරාධ  වලට අවශ්‍ය කරන සැකකරුවන් 05 දෙනෙකුද අත්අඩංගුවට ගෙන ඇත.
+11 traffic vehicles and five suspects have been arrested in the operation.
 
-සැකකරුවන් සමග හෙරොයින් මත්කුඩු ග්‍රෑම් 322 ක් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 111 ක් ගංජා ග්‍රෑම් 160 ක් ඈෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 13 ක් නීති විරෝධී මත්පැන් මිලි ලීටර් 21750 ක් තීරු බදු රහිත ආනයනය කරන ලද දුම්වැටි 855 ක් පොලිස් භාරයට ගෙන ඇත.
+Police have also seized 111 grams of ice with heroin with 112 grams of ice with 16 grams of ice.
 
-තවද කඩු හයක් , තහනම් පිහි දෙකක් ,  කිනිසි එකක් හා මන්නාපිහි එකක් පොලිස් භාරයට ගෙන ඇත.
+Furthermore, six swords, two banned knives, a Kinica and one in Mannar.
 
-2023.12.17 දිනෙන් ආරම්භ කර මේවනවිට දිවයින පුරා ක්‍රියාත්මක වන යුක්ති මෙහෙයුමට සමගාමීව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් පරිදි  ඊයේ (18) දින අළුයම බස්නාහිර පළාතේ සියලුම පොලිස් වසම් ආවරණය වන පරිදි විශේෂ සෝදිසි මෙහෙයුමක් සිදුකරන ලදී.
+Acting to the instructions of acting IGP, Acting Inspector General of Police (IGP) was carried out yesterday (18) at the instructions of Acting Inspector General of Police (18).
 
-...
+In the Western Province, there were a search operations covering all police areas in the Western Province, and special attention to the arrest of drug traffickers and drug addicts
+
+A total of 1,2112 police officers and 2112 police officers have been deployed for the search operation.
+
+◼️
 
 [Data](articles/ef71cc07.json)
+
+[Extended Data](ext_articles/ef71cc07.ext.json)
 
 ---
 
@@ -400,21 +416,23 @@ The van and the bus has been severely damaged, and the Ginigathena Police are co
 
 ---
 
-### විස්සයි20 තරගාලවලියේ ප්‍ර වේශපත්‍ර සියල්ලම අවසන්
+### Twenty20s are all over
 
 *2024-02-18 17:24:33* · [`adalk`](https://www.ada.lk/sports/විස්සයි20-තරගාලවලියේ-ප්‍ර-වේශපත්‍ර-සියල්ලම-අවසන්/9-408153) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන විස්සයි විස්ස ක්‍රිකට් තරගාවලියේ ඉදිරි තරග දෙකෙහි ප්‍රවේශපත්‍ර සියල්ල අලෙවි වී අවසන් බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පවසයි.
+Sri Lanka Cricket said all the tickets of the Twenty20 cricket match between Sri Lanka and Afghanistan have been constructed.
 
-ප්‍රවේශපත්‍ර අවසන් වීම හේතුවෙන් දඹුල්ල සහ කොළඹ පිහිටුවා තිබූ ප්‍රවේශපත්‍ර අලෙවි කුටි වසා දැමීමට තීරණය කර තිබේ.
+Dambulla and Colombo has decided to close tickets for the established tickets in Colombo.
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර දෙවන විස්සයි විස්ස ක්‍රිකට් තරගය හෙට (19) සහ තුන්වන විස්සයි විස්ස තරගය එළඹෙන 21 වනදා දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වීමට නියමිතය.
+The second Twenty-Twenty Twenty Twenty Twenty-Twenty 19th and Twenty 19, Twenty 19th and Third T20 match will be played at Dambulla International Cricket Stadium.
 
-පළමු විස්සයි20 තරගයෙන් ලකුණු 4ක තියුණු ජයක් වාර්තා කිරිමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+Sri Lanka were able to recover 4 runs in the first Twenty20 match.
 
 ◼️
 
 [Data](articles/ea462f7d.json)
+
+[Extended Data](ext_articles/ea462f7d.ext.json)
 
 ---
 

@@ -1,36 +1,56 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 21:51:47**
+As of **2024-02-18 22:03:28**
 
 ## Newspaper Stats
 
-*Scraped **7,843** Articles*
+*Scraped **7,847** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 87
+colombotelegraphcom | 88
 bbccomsinhala | 99
 dbsjeyarajcom | 153
 newsfirstlk | 363
 economynextcom | 401
 islandlk | 409
 dailyftlk | 415
-adalk | 669
+adalk | 670
 tamilmirrorlk | 955
 adaderanalk | 966
-virakesarilk | 1,028
+virakesarilk | 1,029
 adaderanasinhalalk | 1,142
-dailymirrorlk | 1,156
+dailymirrorlk | 1,157
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,843 (100.0%) of 7,843 articles have been extended.
+7,847 (100.0%) of 7,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### Megoda robbery: 5 arrested
+
+*2024-02-18 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176702) · `ta`
+
+Five people have been arrested in connection with the robbery at the Meegoda Economic Center and three of them are traders, police said.
+
+Police have arrested a businessman from Tissamaharama area for allegedly spying on the robbery.
+
+He is running a chilli powder business and anatomical center in Tissamaharama area, police said.
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that two businessmen living in Imbulkama and Kadawatha areas have been arrested in connection with the incident.
+
+◼️
+
+[Data](articles/5de8f9d7.json)
+
+[Extended Data](ext_articles/5de8f9d7.ext.json)
+
+---
 
 ### We have no deeles with Rajapaksas. We have Deal with people - Sajith
 
@@ -69,6 +89,28 @@ Minister Prasanna Ranatunga said at the Matale District Coordinating Committee m
 [Data](articles/a0f0ee59.json)
 
 [Extended Data](ext_articles/a0f0ee59.ext.json)
+
+---
+
+### Health trade unions want Dr. Bellana removed
+
+*2024-02-18 20:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-trade-unions-want-Dr-Bellana-removed/108-277263) · `en`
+
+Colombo, Feb 17 (Daily Mirror) -  The collective of trade unions representing the health sector have urged the Health Ministry to remove Dr. Rukshan Bellana as the Deputy Director of the National Hospital, Colombo.
+
+Speaking to the Daily Mirror, president of the Federation of Health Professionals, Ravi Kumudesh said Dr. Bellana had vehemently criticized the junior staffers for their involvement in the recent strike organized by health trade unions, humiliating the health workers.
+
+“He (Dr. Bellana) is not appropriate to hold the position as he has put down the health workers and disgraced their rules, raising tensions to boiling point,” he said.
+
+“Hence, we will continue to push the authorities in the form of continuous protests, until the removal of Dr. Bellana” he added.
+
+The situation escalated on Friday (Feb. 16) when Dr. Bellana was forcibly confined to his office by the protesting junior staff at the National Hospital in Colombo
+
+◼️
+
+[Data](articles/6b6a42f3.json)
+
+[Extended Data](ext_articles/6b6a42f3.ext.json)
 
 ---
 
@@ -185,6 +227,32 @@ The cr and FC won the championship defeated Kandy as 25 runs.
 [Data](articles/6f4a90c3.json)
 
 [Extended Data](ext_articles/6f4a90c3.ext.json)
+
+---
+
+### A report on the duties of the Ministry of Finance or the Ministry of Finance
+
+*2024-02-18 18:58:27* · [`adalk`](https://www.ada.lk/breaking_news/රාජාසන-කථාවට-මුදල්-අමාත්‍යාංශයෙන්-වැරදි-දත්ත-දුන්නාද-නැත්ද-ගැන-වාර්තාවක්/11-408156) · `si`
+
+State Minister Ranjith Siyambalapitiya, said that there are persons who work in the country in the country and they will be provided with special services in the country.
+
+Mr. Siyambalapitiya says that we have experienced the destruction of the deforestation in the recent past.
+
+He was speaking at the inauguration of the Talent Show 2024 Design and Awards in the Royal Cadan Hotel in Kandy yesterday.
+
+He further stated that the Central Bank has received the power to determine the salaries of the Central Bank employees as an independent agency.
+
+It should be noted that the wage workers have increased their salaries in accordance with the bill.
+
+The Minister emphasized that it is essential to detain the country's personnel to increase the country's stairs when the public is suffering from tax burden.
+
+The international recognized people in the Central Bank must be preserved and that there is a number of problems.
+
+...
+
+[Data](articles/3e8ad76e.json)
+
+[Extended Data](ext_articles/3e8ad76e.ext.json)
 
 ---
 
@@ -699,6 +767,22 @@ She then admitted to the AIIIMS Hospital has died.
 [Data](articles/0ebfb627.json)
 
 [Extended Data](ext_articles/0ebfb627.ext.json)
+
+---
+
+### Disturbing Echoes Of The Last Phase Of The Civil War In Sri Lanka & The Treatment Of Palestinians Under Zionist Occupation
+
+*2024-02-18 15:21:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/disturbing-echoes-of-the-last-phase-of-the-civil-war-in-sri-lanka-the-treatment-of-palestinians-under-zionist-occupation/) · `en`
+
+Our defeat was always implicit in the victory of others; our wealth has always generated our poverty by nourishing the wealth of others – the empires and their native overseers. In colonial and anti-colonial alchemy, gold changes into scrap metal and food into poison. ~ Edward Galeano[1]
+
+The opening of Edward Galeano’s book looks at the historical origins of Latin America’s underdevelopment, the central theme being the genocide of the native population by the Spanish and Portuguese ‘civilising’ colonial project in the Americas. This involved hunger, overwork, communicable diseases, and massive damage to the cultures, flora and fauna of the continent. Echoes of this are found in the thirty year civil war in Sri Lanka and in the Palestinian struggle for self-determination.
+
+...
+
+[Data](articles/96c8b832.json)
+
+[Extended Data](ext_articles/96c8b832.ext.json)
 
 ---
 
@@ -2083,81 +2167,5 @@ He said that at a press conference held yesterday (17), he said that parents and
 [Data](articles/6866ae77.json)
 
 [Extended Data](ext_articles/6866ae77.ext.json)
-
----
-
-### Urban project combining North - North Central and East
-
-*2024-02-18 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193525) · `si`
-
-It is reported that there is a project town in Anuradhapura, unippinging the North and Northern Central and Eastern Provinces.
-
-The Minister further emphasized that it will implement a railway-based transport service in the middle of the country.
-
-◼️
-
-[Data](articles/051f1712.json)
-
-[Extended Data](ext_articles/051f1712.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-02-18 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193524) · `si`
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Provinces today (18).
-
-The department states that there is a major rain weather in other areas.
-
-From time to time in the North, the North, North-Central, Uva and Eastern Provinces, Hambantota and Kandy districts.. The Met Department forecasts that there were strict winds in about about 30-40.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/2c497d08.json)
-
-[Extended Data](ext_articles/2c497d08.ext.json)
-
----
-
-### Resolution on electricity charges
-
-*2024-02-18 04:14:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-குறித்த-பிரேரணை-மீளாய்வு/175-333365) · `ta`
-
-The Public Utilities Commission has announced to the Ceylon Electricity Board to review and submit the proposal on electricity tariffs.
-
-The Chairman Professor Manjula Fernando said that the revised proposal has been announced to be handed over to the Commission before the 22nd of this month.
-
-He noted that the decision was taken after the people's comments on the 15th of last month.
-
-With about 40 people submitted their ideas, they urged the Ceylon Electricity Board (CEB) to pay a higher rate at a higher rate.
-
-The Public Utilities Commission said that all these issues should be reviewed and revised the idea put forward by the Electricity Board.. (A)
-
-◼️
-
-[Data](articles/4e2ef08c.json)
-
-[Extended Data](ext_articles/4e2ef08c.ext.json)
-
----
-
-### US representatives visit the country
-
-*2024-02-18 04:09:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-பிரதிநிதிகள்-நாட்டிற்கு-வருகை/175-333364) · `ta`
-
-Representatives of the US Senate's Foreign Communications Committee have visited the country to discuss issues associated with law, including the e -mail security law.
-
-US Ambassador Julie Sung said in his social media post that the delegation has come to the country to get a deep clarity on the country's economy and political conditions.
-
-US Ambassador Julie Sung said in his record that the representatives will meet with various parties, including state officials, to discuss the economic restructuring and discuss issues associated with recent laws, including the Energy Security Act.(a)
-
-◼️
-
-[Data](articles/a25d4666.json)
-
-[Extended Data](ext_articles/a25d4666.ext.json)
 
 ---

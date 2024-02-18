@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 02:17:42**
+As of **2024-02-19 02:32:46**
 
 ## Newspaper Stats
 
-*Scraped **7,863** Articles*
+*Scraped **7,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 153
 newsfirstlk | 363
 economynextcom | 404
 islandlk | 409
-dailyftlk | 415
+dailyftlk | 418
 adalk | 670
 tamilmirrorlk | 955
 adaderanalk | 968
-virakesarilk | 1,034
+virakesarilk | 1,037
 adaderanasinhalalk | 1,145
 dailymirrorlk | 1,160
 
@@ -26,15 +26,73 @@ dailymirrorlk | 1,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,863 (100.0%) of 7,863 articles have been extended.
+7,863 (99.9%) of 7,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
+### அரசியல் மயமாகும் கிழக்கு மாகாணத்தின் ஆசிரியர் இடமாற்றம்
+
+*2024-02-19 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176712) · `ta`
+
+ஆசிரியர் இடமாற்றத்தில் உள்ள ஆசிரியர்களின் மேன்முறையீட்டை கவனத்திற் கொண்டு அம்பாறை மாவட்டத்திற்குள் இடமாற்றத்தை மேற்கொள்வதற்குரிய முயற்சிகளை எடுப்பதாக மாகாணக் கல்விப் பணிப்பாளர் தெரிவித்துள்ளார்.
+
+இடமாற்றப் பட்டியலை இரத்துச்செய்யும் போது ஏற்கனவே அம்பாறை மாவட்டத்திற்கு வெளியேயும், அம்பாறை மாவட்டத்தில் சுமார் 07 வருடங்களுக்கு மேலாக வெளி வலயங்களிலும் சேவையாற்றிக் கொண்டிருக்கின்ற ஆசிரியர்களை அவர்களின் சொந்த வயலங்களுக்கு இடமாற்றம் செய்வதில் பாரிய சிரமங்களை ஏற்படவுள்ளதாக மாகாணக் கல்விப் பணிப்பாளர் கவலை தெரிவித்துள்ளார். மாகாணக் கல்விப் பணிப்பாளரின் இந்த கவலை நியாயமானதாகும்.
+
+...
+
+[Data](articles/1a362d5a.json)
+
+---
+
+### இந்தியாவின் கசப்பான பாடங்கள்
+
+*2024-02-19 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176711) · `ta`
+
+உலகம் முழுவதும் காதலர் தினம் கொண்டாடப்பட்டு கொண்டிருந்த, கடந்த 14ஆம் திகதி, கேரள மாநிலத்தில்  கோழிக்கோட்டில் உள்ள, இந்திய இராணுவத்தின் 122 ஆவது காலாட்படை  பற்றாலியன் தலைமையகத்தில் ஒரு நிகழ்வு இடம் பெற்றது.
+
+34 ஆண்டுகளுக்கு முன்னர் இலங்கையில் இருந்து வெளியேறிய இந்திய அமைதிப்படையில் இடம்பெற்றிருந்த, 122 ஆவது காலாட்படை பற்றாலியனைச் சேர்ந்த, கிட்டத்தட்ட 150 வரையிலானவர்கள், அந்த நிகழ்வில் பங்கேற்று இருந்தனர்.
+
+இலங்கையில் ஒப்பரேசன் பவான் நடவடிக்கையில் பங்கேற்ற, மட்ராஸ் ரெஜிமென்ட்டின்,  122 ஆவது காலாட்படை பற்றாலியனில், சுமார் 700 பேர் இடம்பெற்று இருந்தனர்.
+
+அவர்களில் 400 பேர் வரை இந்த நிகழ்வில் பங்கேற்பார்கள் என, இரண்டு நாட்களுக்கு முன்னர் நடத்திய செய்தியாளர் சந்திப்பில், ஏற்பாட்டாளர்களில் ஒருவரான, ஓய்வுபெற்ற சுபேதார் ரஹ்மான் கூறியிருந்தார்.
+
+ஆயினும், அவர்கள் எதிர்பார்த்த அளவைவிட பாதி எண்ணிக்கையானவர்கள் தான் அதில் கலந்து கொண்டிருந்தனர்.
+
+122 ஆவது காலாட்படை பற்றாலியனைச் சேர்ந்த அவர்கள், இப்போது 60, 70 வயதுகளை தொட்டிருந்தார்கள்.
+
+...
+
+[Data](articles/a58e5620.json)
+
+---
+
+### மறைக்கப்பட்ட சந்திப்பு
+
+*2024-02-19 01:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176710) · `ta`
+
+அமெரிக்காவின் யு .எஸ் .எய்ட் நிர்வாகி சமந்தா பவர், கடந்த 13ஆம் திகதி செவ்வாய்க்கிழமை, ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன், ஒரு மெய்நிகர் கலந்துரையாடலை நடத்தியிருந்தார்.
+
+இதுதொடர்பாக உடனடியாகவே யு.எஸ்.எய்ட் இனால் ஒரு செய்தி குறிப்பு வெளியிடப்பட்டது. அந்த கலந்துரையாடல் தொடர்பாக ஜனாதிபதி செயலகம் எந்த அறிவிப்பையும் வெளியிடவில்லை.
+
+அனைத்துலக அபிவிருத்திக்கான அமெரிக்க முகவரகம், (யு.எஸ்.எய்ட்), இலங்கைக்கு உதவிகளை வழங்கி வருகின்ற ஒரு அமைப்பு.
+
+1956 ஆம் ஆண்டுக்குப் பின்னர் 2 பில்லியன் டொலர்களை  இலங்கைக்கு வழங்கியிருப்பதாக 2022 ஆம் ஆண்டு செம்டெம்பர் மாதம் யு.எஸ்.எய்ட் வெளியிட்ட ஒரு அறிக்கையில் கூறியிருந்தது.
+
+யு.எஸ்.எய்ட் நிர்வாகியான சமந்தா பவர், அமெரிக்காவின் முன்னாள் ஜனாதிபதி பராக் ஒபாமாவின் காலத்தில், தேசிய பாதுகாப்பு சபையில் அவரது ஆலோசகராக பணியாற்றியவர்.
+
+மனித உரிமை விவகாரங்களில் அக்கறையும் இறுக்கமான போக்கையும் கொண்டவர்.  ஐ.நா.வுக்கான அமெரிக்க தூதுவராகவும், சமந்தா பவர் பணியாற்றியிருந்தார்.
+
+...
+
+[Data](articles/46fdb792.json)
+
+---
+
 ### "Delhi Salo" farmers' struggle in Delhi
 
-*2024-02-19 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176709) · `ta`
+*2024-02-19 01:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176709) · `ta`
 
 In Chandigarh, the first phase of the talks with the farmers began on the 8th. Thereafter the negotiations continued on the 10th, 11th and 12th of February. Punjab Chief Minister Bhagavant Singh had made arrangements for this.
 
@@ -54,7 +112,7 @@ Punjab and Haryana farmers are planning to pursue this struggle until the demand
 
 ### Tamil
 
-*2024-02-19 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176708) · `ta`
+*2024-02-19 00:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176708) · `ta`
 
 The consequences of the seventy -five -year -old party until now have been based on compliance and now the consequences of the democratic system are visible.
 
@@ -96,7 +154,51 @@ He will then visit Maley to Colombo and will make his meetings with senior offic
 
 ---
 
+### SL must forge new trade and investment partnerships with complementary economies
+
+*2024-02-19 00:05:06* · [`dailyftlk`](https://www.ft.lk/columns/SL-must-forge-new-trade-and-investment-partnerships-with-complementary-economies/4-758607) · `en`
+
+Partnering with these emergent markets could open doors for Sri Lankan business, while strengthening the country’s network within the Indo-Pacific region
+
+With 56 member states, including some of the world’s fastest growing and most dynamic economies, the global Commonwealth network provides Sri Lanka with a pathway to closer and deeper partnership with nations around the world. What’s more, a combination of cultural, legal, and economic factors means that it is 21% cheaper for Commonwealth countries to trade with one another, an effect known as the ‘Commonwealth Advantage’
+
+Now more than ever before, it is vital that Sri Lanka engages closely with a wide range of trade and investment partners. A strong recovery from the difficulties of the past few years will only be possible with the cooperation and capital of international partners, who recognise the extensive opportunities that Sri Lanka offers. Crucially, these partners must be varied and reliable.
+
+...
+
+[Data](articles/c31a6130.json)
+
+---
+
 ### 2024-02-18 (Sunday)
+
+### Sovereign debt, climate crisis, and global financial system
+
+*2024-02-18 23:57:41* · [`dailyftlk`](https://www.ft.lk/columns/Sovereign-debt-climate-crisis-and-global-financial-system/4-758606) · `en`
+
+The threat of debt distress or default is exacerbated by the climate crisis and presents a serious challenge for climate-vulnerable developing countries around the globe
+
+Rising debt levels and fiscal constraints are a key challenge for developing countries across the globe. The threat of debt distress or debt default is further exacerbated by the climate crisis, which causes additional risks and requires significant investment to fulfil national obligations and build long-term resilience.
+
+For climate-vulnerable developing countries facing serious debt-related challenges—including Sri Lanka—it is therefore crucial to understand the climate-debt nexus and identify ways to reconcile the need for green economic growth, debt sustainability, and climate action.
+
+...
+
+[Data](articles/724add0e.json)
+
+---
+
+### Sriyani Hulugalle’s ‘Shadows of Hantana’: A romantic experience for readers
+
+*2024-02-18 23:46:14* · [`dailyftlk`](https://www.ft.lk/columns/Sriyani-Hulugalle-s-Shadows-of-Hantana-A-romantic-experience-for-readers/4-758604) · `en`
+
+The heroines or heroes in these novels are defeatists. Readers finish the books with anger and resentment in their heads. Hulugalle’s creative work is different from this popular genre. True, there is love blossoming in the heart of an inexperienced young girl. But this girl differs from her counterparts in other novels and does not take the defeat as the inevitable fate. Instead, she makes an unusual sacrifice for those whom she loves and reaches her final goal of seeking academic excellence outside the country and away from those who had been known to her. In this sense, she is a heroine conquering the world which is hostile to her through understanding and persevering till she reaches her goal
+
+...
+
+[Data](articles/b1d63002.json)
+
+---
 
 ### Dispute over 90 perches of land ends after 52 years legal battle
 
@@ -2029,131 +2131,5 @@ The special programme is being operated in conjunction with the ongoing anti-dru
 [Data](articles/04feca7e.json)
 
 [Extended Data](ext_articles/04feca7e.ext.json)
-
----
-
-### Actor Vijay's party's sudden change
-
-*2024-02-18 09:52:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-விஜய்-கட்சி-பெயரில்-திடீர்-மாற்றம்/175-333369) · `ta`
-
-Actor Vijay has launched a party called 'Tamil Nadu Victory Corporation'. Vijay has officially announced the announcement of the party's launch on the 2nd.
-
-In the name of 'Tamil Nadu Victory Corporation' in the name of Vijay's party, many Tamil activists pointed out. Other parties have also criticized social networks for their wrongdoing in the name of the party.
-
-Following this, actor Vijay has approved the conversion of 'Tamil Nadu Victory Corporation' in the name of his party.
-
-Subsequently, the party's official social networking pages have been renamed 'Tamil Nadu Victory Corporation'.
-
-◼️
-
-[Data](articles/a70ac810.json)
-
-[Extended Data](ext_articles/a70ac810.ext.json)
-
----
-
-### Nearly 800 traffic offenders identified through CCTV system in first 15 days of February
-
-*2024-02-18 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97363/nearly-800-traffic-offenders-identified-through-cctv-system-in-first-15-days-of-february-) · `en`
-
-A total of 793 traffic offenders have been identified within the first 15 days of February through the 24-hour surveillance system implemented to monitor traffic violations.
-
-According to Police Spokesman DIG Nihal Thalduwa, 300 police stations across the country have been notified to take necessary action against the said offenders.
-
-He further noted that nearly 26,000 cases of persons driving under the influence of alcohol were reported in 2023.
-
-On 22 January 2024, Sri Lanka Police launched a special project through which traffic offenders in Colombo will be traced using a CCTV surveillance camera system.
-
-◼️
-
-[Data](articles/42a1965b.json)
-
-[Extended Data](ext_articles/42a1965b.ext.json)
-
----
-
-### Bus operated to the bus to search abuse
-
-*2024-02-18 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193534) · `si`
-
-It is reported that a private security officer has sexually abused a police station to search for child and women's abuse.
-
-The suspect was produced before the Nuwara Eliya Magistrate after the arrest.
-
-The arrested person is a 44 year old resident of Welimada.
-
-The suspect has been arrested in the event of aimed at preventing women through public transport and raised sexual abuse of the country's militant justice.
-
-◼️
-
-[Data](articles/96d07fbf.json)
-
-[Extended Data](ext_articles/96d07fbf.ext.json)
-
----
-
-### The Action Order of the Court of Action
-
-*2024-02-18 09:10:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-சுற்றிவளைப்பு-நீதிமன்றம்-அதிரடி-உத்தரவு/175-333368) · `ta`
-
-It has been ordered to hand over several vehicles seized by the police during the special operation of the 'tactic'.
-
-The Kaduwela Magistrate's Court has issued the order and has instructed the Criminal Investigation Department (CID) to hand over approximately 100 million rupees to its registered owners.
-
-The magistrate has also rejected the request of the police to further detaine the vehicles for investigation.
-
-During the trial, the Security Council accused the High Court of not getting formal orders to acquire the assets.
-
-In December last year, a special operation was launched by the police to curb drug -related operations in Sri Lanka.
-
-It is reported that Kaduwela police have seized several vehicles belonging to the "Velika Sutta" sister known as Malalake Sudath Kitziri, allegedly a drug trafficker, and handed over to the Criminal Investigation Department.
-
-Kaduwela police have seized five luxury buses, luxury vehicle and motorcycle from the woman.
-
-◼️
-
-[Data](articles/15088b19.json)
-
-[Extended Data](ext_articles/15088b19.ext.json)
-
----
-
-### Teachers’ trade union to launch action from Kandy on Tuesday
-
-*2024-02-18 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teachers-trade-union-to-launch-action-from-Kandy-on-Tuesday/108-277246) · `en`
-
-A trade union action is set to be launched from Kandy on Tuesday (20) by the Ceylon Teachers' Union (CTU), demanding the government to fulfill its promise of granting the remaining salary increment.
-
-General Secretary of the CTU, Joseph Stalin, addressing the media said that while the government had granted one-third of the installment, they had not specified a timeline for providing the balance.
-
-"We received only a fraction of the promised increment after enduring 120 days of aragalaya. The soaring cost of living has made it increasingly difficult to make ends meet. With no indication of further progress, we are left with no choice but to resume our protest," Stalin emphasized.
-
-The demonstration, slated to commence from Kandy, is expected to witness the active participation of teachers, principals and teacher trainers alike.
-
-◼️
-
-[Data](articles/7be329c7.json)
-
-[Extended Data](ext_articles/7be329c7.ext.json)
-
----
-
-### Teachers’ trade union to launch action from Kandy
-
-*2024-02-18 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teachers-trade-union-to-launch-action-from-Kandy/108-277246) · `en`
-
-A trade union action is set to be launched from Kandy on Tuesday (20) by the Ceylon Teachers' Union (CTU), demanding the government to fulfill its promise of granting the remaining salary increment.
-
-General Secretary of the CTU, Joseph Stalin, addressing the media said that while the government had granted one-third of the installment, they had not specified a timeline for providing the balance.
-
-"We received only a fraction of the promised increment after enduring 120 days of aragalaya. The soaring cost of living has made it increasingly difficult to make ends meet. With no indication of further progress, we are left with no choice but to resume our protest," Stalin emphasized.
-
-The demonstration, slated to commence from Kandy, is expected to witness the active participation of teachers, principals and teacher trainers alike.
-
-◼️
-
-[Data](articles/8393192c.json)
-
-[Extended Data](ext_articles/8393192c.ext.json)
 
 ---

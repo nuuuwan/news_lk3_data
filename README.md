@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 10:02:32**
+As of **2024-02-18 10:17:42**
 
 ## Newspaper Stats
 
-*Scraped **7,758** Articles*
+*Scraped **7,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 400
 islandlk | 409
 dailyftlk | 415
 adalk | 657
-tamilmirrorlk | 940
-adaderanalk | 953
+tamilmirrorlk | 944
+adaderanalk | 954
 virakesarilk | 1,018
 adaderanasinhalalk | 1,123
 dailymirrorlk | 1,142
@@ -26,11 +26,49 @@ dailymirrorlk | 1,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,758 (100.0%) of 7,758 articles have been extended.
+7,758 (99.9%) of 7,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### Nearly 800 traffic offenders identified through CCTV system in first 15 days of February
+
+*2024-02-18 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97363/nearly-800-traffic-offenders-identified-through-cctv-system-in-first-15-days-of-february-) · `en`
+
+A total of 793 traffic offenders have been identified within the first 15 days of February through the 24-hour surveillance system implemented to monitor traffic violations.
+
+According to Police Spokesman DIG Nihal Thalduwa, 300 police stations across the country have been notified to take necessary action against the said offenders.
+
+He further noted that nearly 26,000 cases of persons driving under the influence of alcohol were reported in 2023.
+
+On 22 January 2024, Sri Lanka Police launched a special project through which traffic offenders in Colombo will be traced using a CCTV surveillance camera system.
+
+◼️
+
+[Data](articles/42a1965b.json)
+
+---
+
+### யுக்திய சுற்றிவளைப்பு;நீதிமன்றம் அதிரடி உத்தரவு
+
+*2024-02-18 09:10:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-சுற்றிவளைப்பு-நீதிமன்றம்-அதிரடி-உத்தரவு/175-333368) · `ta`
+
+'யுக்திய' விசேட நடவடிக்கையின் போது பொலிஸாரால் கைப்பற்றப்பட்ட பல வாகனங்களை பதிவு செய்யப்பட்ட உரிமையாளர்களிடம் ஒப்படைக்குமாறு நீதிமன்ற உத்தரவு பிறப்பிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+கடுவல நீதவான் நீதிமன்றம் இந்த உத்தரவைப் பிறப்பித்துள்ளதுடன், ஏறக்குறைய 100 மில்லியன் ரூபா பெறுமதியான வாகனங்களை அதன் பதிவு செய்யப்பட்ட உரிமையாளர்களிடம் ஒப்படைக்குமாறு குற்றப் புலனாய்வுத் திணைக்களத்திற்கு (CID) அறிவுறுத்தியுள்ளது.
+
+விசாரணைக்காக வாகனங்களை மேலும் தடுத்து வைக்க பொலிஸார் விடுத்த கோரிக்கையையும் நீதவான் நிராகரித்துள்ளார்.
+
+வழக்கு விசாரணையின் போது, ​​மேற்படி சொத்துக்களை கையகப்படுத்துவதற்கு உயர் நீதிமன்றத்தில் முறையான உத்தரவுகள் பெறப்படவில்லை என பாதுகாப்பு சபை குற்றம் சாட்டியது.
+
+இலங்கையில் போதைப்பொருள் தொடர்பான நடவடிக்கைகளை கட்டுப்படுத்தும் நோக்கில் கடந்த வருடம் டிசம்பர் மாதம் பொலிஸாரால் 'யுக்திய' விசேட நடவடிக்கை ஆரம்பிக்கப்பட்டது.
+
+...
+
+[Data](articles/15088b19.json)
+
+---
 
 ### Teachers’ trade union to launch action from Kandy on Tuesday
 
@@ -49,6 +87,24 @@ The demonstration, slated to commence from Kandy, is expected to witness the act
 [Data](articles/7be329c7.json)
 
 [Extended Data](ext_articles/7be329c7.ext.json)
+
+---
+
+### சுகாதார சிற்றூழியர் போராட்டம்;அதிரடி தகவல்கள்
+
+*2024-02-18 09:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-சிற்றூழியர்-போராட்டம்-அதிரடி-தகவல்கள்/175-333367) · `ta`
+
+வைத்தியசாலை நிர்வாகத்தில் அவர் உள்நுழைந்ததால், வைத்தியசாலையில் பணிபுரியும் 200 சிறு தொழிலாளர்கள் கொழும்பில் உள்ள தேசிய மருத்துவமனையில் (NHC) போதை வணிகத்தைத் தொடர முடியாமல், அவருக்கு எதிராக ஆர்ப்பாட்டத்தில் ஈடுபட்டனர் என்று NHC துணைப் பணிப்பாளரும் மற்றும் அரசாங்க மருத்துவ அதிகாரிகள் மன்றத்தின் (GMOF) தலைவர் வைத்தியர் ருக்ஷன் பெல்லான தெரிவித்தார்.
+
+தனது கோரிக்கையை அடுத்து, பொலிஸ் மா அதிபர் (IGP) வைத்தியசாலைக்கு விஜயம் செய்து, வைத்தியசாலையில் போதைப்பொருள் விற்பனையை நிறுத்துவதற்காக பொலிஸ் பிரிவை நிறுவியதாக அவர் டெய்லி மிரருக்கு தெரிவித்தார்.
+
+"எனவே, போதைப்பொருள் பாவனையை ஒழிக்கும் பணியில் ஈடுபட்டிருந்த என்னை விரட்டியடிக்கும் வகையில் போதைப்பொருள் விற்பனையில் ஈடுபட்ட சிறு ஊழியர்கள் ஒன்று கூடி போராட்டங்களை நடத்தினர்," என்று அவர் மேலும் கூறினார்.
+
+"போதைக்கு அடிமையானவர்களில் பெரும்பாலானோர் மருத்துவமனைக்குள்ளேயே மருந்துகளை எடுத்துக்கொள்கிறார்கள், வியாபாரம் செய்கிறார்கள், மருந்துகளை உட்கொண்ட பிறகு நோயாளிகளைப் பார்த்துக்கொள்கிறார்கள்" என்று பெல்லானா கூறினார்.
+
+...
+
+[Data](articles/4418488e.json)
 
 ---
 
@@ -71,6 +127,24 @@ About 1,500 police officers were deployed to control the protest and more than 2
 [Data](articles/5c2980c5.json)
 
 [Extended Data](ext_articles/5c2980c5.ext.json)
+
+---
+
+### இன்றைய வானிலை முன்னறிவிப்பு
+
+*2024-02-18 08:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-முன்னறிவிப்பு/175-333366) · `ta`
+
+சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களில்  பிற்பகல் நான்கு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும், வடக்கு, கிழக்கு, வடமத்திய, வடமேல், மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மற்றும் கண்டி மாவட்டங்களிலும்   மணித்தியாலத்திற்கு சுமார் 30 ‐ 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும் என எதிர்பார்க்கப்படுகிறது.
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 25 - 35 கிலோமீற்றர் வேகத்தில் வடகிழக்குத்  திசையில் இருந்து  காற்று வீசும்.
+
+...
+
+[Data](articles/ff5f6384.json)
 
 ---
 
@@ -339,6 +413,26 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/2c497d08.json)
 
 [Extended Data](ext_articles/2c497d08.ext.json)
+
+---
+
+### மின் கட்டணம் குறித்த பிரேரணை மீளாய்வு
+
+*2024-02-18 04:14:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-குறித்த-பிரேரணை-மீளாய்வு/175-333365) · `ta`
+
+மின்சார கட்டணக் குறைப்பு தொடர்பான பிரேரணையை மீளாய்வு செய்து சமர்ப்பிக்குமாறு பொது பயன்பாடுகள் ஆணைக்குழு இலங்கை மின்சார சபைக்கு அறிவித்துள்ளது.
+
+திருத்தப்பட்ட பிரேரணையை எதிர்வரும் 22 ஆம் திகதிக்கு முன்னர் ஆணைக்குழுவிடம் கையளிக்குமாறு அறிவிக்கப்பட்டுள்ளதாக அதன் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+கடந்த 15 ஆம் திகதி மின்சார கட்டண திருத்தம் தொடர்பில் இடம்பெற்ற மக்கள் கருத்துகளை கேட்டறியும் நடவடிக்கையின் பின்னர் இந்த தீர்மானம் எடுக்கப்பட்டதாக அவர் குறிப்பிட்டுள்ளார்.
+
+இதன்போது, சுமார் 40 பேர் தமது யோசனைகளை சமர்ப்பித்த நிலையில், இலங்கை மின்சார சபையினால் மேற்கொள்ளப்பட்ட கட்டணக் குறைப்பு வீதத்தை விடவும் அதிக வீதத்தில் கட்டணக் குறைப்பை மேற்கொள்ள வேண்டுமென அவர்கள் வலியுறுத்தினர்.
+
+இந்த விடயங்கள் அனைத்தையும் பரிசீலித்து, மின்சார சபையினால் முன்வைக்கப்பட்ட யோசனையை மீள்பரிசீலனை செய்து திருத்தம் செய்ய வேண்டுமென பொது பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/4e2ef08c.json)
 
 ---
 
@@ -1981,99 +2075,5 @@ Previous President Mahinda Rajapaksa Maithripalasirisena also made this promise.
 [Data](articles/cb962675.json)
 
 [Extended Data](ext_articles/cb962675.ext.json)
-
----
-
-### Junior staff at National Hospital
-
-*2024-02-17 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193502) · `si`
-
-Junior Staff Employees of the hospital say that the Deputy Director of the Colombo National Hospital Dr. Rukshan Bellana will not give up its protest campaigns until he is removed from the post.
-
-They have begun this course of action against the statements made by Dr. Rukshan Bellana regarding the statements made by Dr. Rukshan Bellana during the recent strike.
-
-Dr. Rukshan Bellana was forcibly retained by the National Hospital Junior staff in his office yesterday (16), and nearly six hours later he left the office by intervention of security forces.
-
-◼️
-
-[Data](articles/5f96cf8b.json)
-
-[Extended Data](ext_articles/5f96cf8b.ext.json)
-
----
-
-### The prices of vegetables are less than weekdays
-
-*2024-02-17 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176604) · `ta`
-
-The prices of vegetables in the Peliyagoda new Menning Trade Market have fallen to the week (17).
-
-Accordingly, prices have been recorded at 500 rupees, Rs 550 per kg of beans, one kilogram of green chilli, Rs.
-
-◼️
-
-[Data](articles/a68b1abc.json)
-
-[Extended Data](ext_articles/a68b1abc.ext.json)
-
----
-
-### Putin government is an autocratic government - Australian Prime Minister's outrage after Navalney's death
-
-*2024-02-17 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176608) · `ta`
-
-Australian Prime Minister Antony Albeneis has accused President Vladimir Putin of the death of the leader of the Opposition.
-
-Australia has been shocked and worried about the news, Antony Alpenis said.
-
-The Australian Prime Minister said that the government of Vladimir Putin, the government of Vladimir Putin, has split the world in the middle of the world, which is a democracy.
-
-He also said that the government should strongly condemn the activities of any authorities such as Vladimir Putin.
-
-◼️
-
-[Data](articles/2f3d69be.json)
-
-[Extended Data](ext_articles/2f3d69be.ext.json)
-
----
-
-### Several vehicles seized under ‘Yukthiya’ operation ordered to be handed over to registered owners
-
-*2024-02-17 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97345/several-vehicles-seized-under-yukthiya-operation-ordered-to-be-handed-over-to-registered-owners) · `en`
-
-The Kaduwela Magistrate’s Court has ordered that several vehicles, valued around Rs. 100 million and kept in the custody of the Criminal Investigation Department (CID) after being impounded under the ongoing operation ‘Yukthiya’, be handed over to their registered owners.
-
-Kaduwela Magistrate Chanima Wijebandara has issued this order while rejecting the CID’s request to further keep the relevant vehicles in custody for further investigations, Ada Derana reporter said.
-
-The defense lawyer has also raised strong objections before the court stating that the CID had not obtained proper orders from the High Court to acquire the property in question.
-
-In December 2023, the Kaduwela police had seized five luxury buses, a luxury car and a motorcycle owned by the sister of Malalage Sudath Kithsiri alias “Welivita Sudda”, who is said to be a drug trafficker, and handed them over to the CID.
-
-◼️
-
-[Data](articles/b01fea75.json)
-
-[Extended Data](ext_articles/b01fea75.ext.json)
-
----
-
-### Putin is responsible for Navalney's death - Bidan
-
-*2024-02-17 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176606) · `ta`
-
-US President Joe Bite has openly accused Russian president of the death of Opposition Leader Alexe Navalni, who has strongly criticized Russian President Vladimir Putin.
-
-He said that this is the reason for this.
-
-Ava said that Putin is responsible for this.
-
-He bravely opposed all activities, including the corruption violence of Putin. In response, Putin said that Putin was arrested for allegedly being arrested for allegedly accused of fake allegations.
-
-◼️
-
-[Data](articles/7cd06ffe.json)
-
-[Extended Data](ext_articles/7cd06ffe.ext.json)
 
 ---

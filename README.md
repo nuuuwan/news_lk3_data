@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 04:49:36**
+As of **2024-02-19 05:02:32**
 
 ## Newspaper Stats
 
-*Scraped **7,893** Articles*
+*Scraped **7,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ tamilmirrorlk | 955
 adaderanalk | 968
 virakesarilk | 1,044
 adaderanasinhalalk | 1,145
-dailymirrorlk | 1,160
+dailymirrorlk | 1,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,893 (100.0%) of 7,893 articles have been extended.
+7,893 (99.9%) of 7,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Abolishing the Executive Presidency; Prudent Proposal  - But DISSOLVE PARLIAMENT FIRST
+
+*2024-02-19 04:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Abolishing-the-Executive-Presidency-Prudent-Proposal-But-DISSOLVE-PARLIAMENT-FIRST/172-277270) · `en`
+
+The movement to abolish the Executive Presidency is gaining traction and drawing significant interest as the deadline approaches
+
+A prudent suggestion is to abolish the Executive Presidency through a referendum, ensuring that the process is not driven by ulterior motives. An alternative approach could involve the immediate dissolution of Parliament after securing the necessary two-thirds majority.  Following this, a two-in-one approach can be adopted by combining the referendum with the Parliamentary elections, streamlining the process and saving time, manpower and financial resources.
+
+...
+
+[Data](articles/51de6f27.json)
+
+---
+
+### Language: A Catalyst to foster National Unity - EDITORIAL
+
+*2024-02-19 04:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Language-A-Catalyst-to-foster-National-Unity-EDITORIAL/172-277269) · `en`
+
+Sri Lanka is described as a multilingual country but this definition could perhaps be deceptive when reflecting on the past and present. One may be quick to point fingers at various state policies that were implemented which made one language superior to the rest. However, language is an integral part of communication and is a key marker of identity. Sri Lanka witnessed a time when minority groups faced linguistic discrimination which in fact was a political recipe for disaster. As the world prepares to celebrate International Mother Language Day on February 21, it would be timely to reflect on the ‘mistakes’ that dragged Sri Lanka towards ethnic separatism.
+
+...
+
+[Data](articles/28c47705.json)
+
+---
+
+### Debt Restructuring and Hidden Agendas
+
+*2024-02-19 04:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Debt-Restructuring-and-Hidden-Agendas/172-277268) · `en`
+
+The consequence for the developing countries with high levels of debt is a prolonged development crisis with capital extracted for debt repayments and little capital left for investment to stimulate growth.
+
+Two years ago in February 2022, Sri Lanka rapidly descended into an economic crisis that had long been in the making. The war in Ukraine and the sudden escalation of global commodity prices made it very difficult to import essential goods such as fuel. Having exhausted its foreign reserves without prioritising the imports of essential goods, the government defaulted on its external debt two months later.
+
+...
+
+[Data](articles/46fdf583.json)
+
+---
+
+### Nalanda Mourns the Loss of Hon. Gamini Jayawickrama Perera
+
+*2024-02-19 04:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Nalanda-Mourns-the-Loss-of-Hon-Gamini-Jayawickrama-Perera/172-277267) · `en`
+
+Mallawa Arachchige Gamini Jayawickrama Perera, (29 January 1941–17 February 2024) was a politician and a member of the 15th Parliament of Sri Lanka representing Kurunegala. He entered politics in 1973 from the Katugampola electorate and elected to Parliament first at the 1977 general election.
+
+...
+
+[Data](articles/62a002b7.json)
+
+---
 
 ### SJB refuses to acknowledge validity of OSA
 
@@ -2027,95 +2079,5 @@ Accordingly, a discussion is scheduled to hold a discussion at around 11am tomor
 [Data](articles/7bb1e14a.json)
 
 [Extended Data](ext_articles/7bb1e14a.ext.json)
-
----
-
-### Under the control of two mysterious persons in the United People's Power - Sambika Ranawaka
-
-*2024-02-18 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176666) · `ta`
-
-Parliamentarian Sampika Ranawaka has accused the United People's Power of being under the control of two mysterious men.
-
-United People's Power Leader Sajit Preamedasa Party supporters are creating a status quo.
-
-This is why the JVP has received much support, he said.
-
-"I have to report that the party is under the control of two other leaders beyond the opposition leaders," he said.
-
-Ranawaka said that the United People's Power is now a family trade.
-
-Meanwhile, Ranawaka has strongly criticized Sampika Ranawaka at a political meeting held in Bandaragama over the president's speech on the President's speech.
-
-The fact that I contested under the United People's Power said that I am currently acting as an independent Member of Parliament.
-
-Lakshman Kiriella said that when I questioned the president's speech when I was united by the United States, I was denied the chance to speak because I did not join them.
-
-◼️
-
-[Data](articles/f7366fbc.json)
-
-[Extended Data](ext_articles/f7366fbc.ext.json)
-
----
-
-### Iranian Foreign Minister to visit Sri Lanka
-
-*2024-02-18 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97368/iranian-foreign-minister-to-visit-sri-lanka) · `en`
-
-Minister of Foreign Affairs of the Islamic Republic of Iran, Dr. Hossein Amir Abdollahian will undertake an official visit to Sri Lanka from 19-21 February 2024, on an invitation extended by Minister of Foreign Affairs Ali Sabry.
-
-During this visit, the Iranian Foreign Minister is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. The visiting Minister and his delegation will also have official discussions with Minister Ali Sabry at the Ministry of Foreign Affairs.
-
-In August 2023, Foreign Minister Ali Sabry had bilateral discussions with Foreign Minister Dr. Hossein Amir Abdollahian during his visit to Tehran.
-
-Dr. Amir Abdollahian will be accompanied by senior officials from the office of the President, Ministry of Foreign Affairs, Ministry of Energy and other relevant Ministries of Iran.
-
-◼️
-
-[Data](articles/2d1fcc2f.json)
-
-[Extended Data](ext_articles/2d1fcc2f.ext.json)
-
----
-
-### Notice of the biggest challenge faced by the country
-
-*2024-02-18 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193539) · `si`
-
-Government Minister Dr. Ranjith Siyambalapitiya says that the challenges of the recently faced recently faced by the country.
-
-He said that the restructuring of local debt has already been completed, and the target is the fully end of the end.
-
-Meanwhile, Siyambalapitiya, noted that foreign loans were comprised of two parts as multilateral and bilateral loans, said that he continued to pay the multilateral debt.
-
-However, the State Minister has stated that discussions with the restructuring of bilateral foreign debt have been constructed and discussed by the countries in March will be an agreement by the end of March.
-
-Minister of Public Minister Dr. Ranjith Siyambalapitiya added that discussions on the sovereign bonds and the end of the debt restructuring by June as the target of June.
-
-◼️
-
-[Data](articles/7e760dd5.json)
-
-[Extended Data](ext_articles/7e760dd5.ext.json)
-
----
-
-### Tickets for 2nd, 3rd T20I matches in Dambulla sold out
-
-*2024-02-18 12:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tickets-for-2nd-3rd-T20I-matches-in-Dambulla-sold-out/108-277254) · `en`
-
-Dambulla, Feb 18 (Daily Mirror) - Tickets for the 2nd and 3rd T20I matches between Sri Lanka and Afghanistan scheduled for tomorrow (February 19) and February 21 at the RDICS, Dambulla have been sold out, Sri Lanka Cricket (SLC) said.
-
-Accordingly, ticket counters in both Colombo and Dambulla have been closed and the public are advised not to visit these ticket counters.
-
-SLC said the first T20I witnessed a crowd of 18,000 spectators, which Sri Lanka won following a nail-biter.
-
-The 2nd T20I will be played on Monday, February 19 while the 3rd T20I is scheduled for February 21 at the RDICS, Dambulla.
-
-◼️
-
-[Data](articles/b4d5d783.json)
-
-[Extended Data](ext_articles/b4d5d783.ext.json)
 
 ---

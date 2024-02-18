@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 10:33:13**
+As of **2024-02-18 10:50:10**
 
 ## Newspaper Stats
 
-*Scraped **7,764** Articles*
+*Scraped **7,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 409
 dailyftlk | 415
 adalk | 657
 tamilmirrorlk | 945
-adaderanalk | 954
+adaderanalk | 955
 virakesarilk | 1,018
 adaderanasinhalalk | 1,123
 dailymirrorlk | 1,142
@@ -26,27 +26,49 @@ dailymirrorlk | 1,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,763 (100.0%) of 7,764 articles have been extended.
+7,765 (100.0%) of 7,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### நடிகர் விஜய் கட்சி பெயரில் திடீர் மாற்றம்
+### Man arrested for sexually harassing police officer in public transport
+
+*2024-02-18 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97364/man-arrested-for-sexually-harassing-police-officer-in-public-transport-) · `en`
+
+Police have arrested a 44-year-old suspect for allegedly sexually harassing a female police officer onboard a public transport bus.
+
+According to police, the suspect, identified as a private security officer from Welimada, was remanded until 22 February on orders of the Nuwara Eliya Magistrate’s Court.
+
+The victimised police officer had reportedly been aboard the bus as part of an ongoing operation aimed at preventing the sexual harassment of women and children in public transport.
+
+The special programme is being operated in conjunction with the ongoing anti-drug operation ‘Yukthiya’, and those subjected to such harassment have been urged to inform the police via the ‘109’ hotline.
+
+◼️
+
+[Data](articles/04feca7e.json)
+
+[Extended Data](ext_articles/04feca7e.ext.json)
+
+---
+
+### Actor Vijay's party's sudden change
 
 *2024-02-18 09:52:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-விஜய்-கட்சி-பெயரில்-திடீர்-மாற்றம்/175-333369) · `ta`
 
-நடிகர் விஜய் 'தமிழக வெற்றி கழகம்' என்ற கட்சியை தொடங்கியுள்ளார். கட்சி தொடங்கிய அறிவிப்பை கடந்த 2ம் திகதி விஜய் அதிகாரபூர்வமாக அறிவித்தார்.தேர்தல் ஆணையம் அங்கீகாரம் வழங்கியதும் கட்சியின் கொடி, சின்னம் அறிவிக்கப்படும் என்று அவர் அறிவித்துள்ளார்.
+Actor Vijay has launched a party called 'Tamil Nadu Victory Corporation'. Vijay has officially announced the announcement of the party's launch on the 2nd.
 
-இந்த நிலையில் 'தமிழக வெற்றி கழகம்' என்ற விஜய்யின் கட்சி பெயரில், 'க்' விடுபட்டுள்ளதாக தமிழ் ஆர்வலர்கள் பலரும் சுட்டிக் காட்டினர். கட்சிப் பெயரிலேயே தவறு இருப்பதாக பிற கட்சியினரும் சமூக வலைதளங்களில் விமர்சித்து வந்தனர்.
+In the name of 'Tamil Nadu Victory Corporation' in the name of Vijay's party, many Tamil activists pointed out. Other parties have also criticized social networks for their wrongdoing in the name of the party.
 
-இதனை தொடர்ந்து தனது கட்சியின் பெயரில் 'க்' சேர்த்து 'தமிழக வெற்றிக் கழகம்' என்று மாற்ற நடிகர் விஜய் ஒப்புதல் அளித்தார்.
+Following this, actor Vijay has approved the conversion of 'Tamil Nadu Victory Corporation' in the name of his party.
 
-தொடர்ந்து அக்கட்சியின் அதிகாரபூர்வ சமூக வலைதள பக்கங்களில் 'க்' சேர்த்து 'தமிழக வெற்றிக் கழகம்' என்று பெயர் மாற்றம் செய்யப்பட்டுள்ளது.
+Subsequently, the party's official social networking pages have been renamed 'Tamil Nadu Victory Corporation'.
 
 ◼️
 
 [Data](articles/a70ac810.json)
+
+[Extended Data](ext_articles/a70ac810.ext.json)
 
 ---
 
@@ -2061,31 +2083,5 @@ The Minister further stated that if any change is made, the structure should be 
 [Data](articles/2f0ce35b.json)
 
 [Extended Data](ext_articles/2f0ce35b.ext.json)
-
----
-
-### Two teenagers charged over shooting at Kansas City Super Bowl parade
-
-*2024-02-17 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97346/two-teenagers-charged-over-shooting-at-kansas-city-super-bowl-parade) · `en`
-
-Two teenagers have been charged over a shooting at a Super Bowl victory parade in Kansas City that left one person dead and 22 others injured.
-
-The two suspects, both aged under 18, are being held on gun and resisting arrest charges, a court statement said.
-
-Police earlier said the shooting was the result of an argument and was not connected to terrorism.
-
-A third person who was detained after the shooting has been released.
-
-A statement from the Jackson County Family Court on Friday said that additional charges were “expected in the future as the investigation by the Kansas City Police Department continues”.
-
-The names of the juvenile suspects have not been released. Juvenile court cases are kept private under Missouri law, and hearings are not open to the public.
-
-Kansas City Police have continued to appeal for information about the shooting, which occurred near the city’s Union Station just after a parade and rally for the Super Bowl champions.
-
-...
-
-[Data](articles/d9a68c8e.json)
-
-[Extended Data](ext_articles/d9a68c8e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 02:32:46**
+As of **2024-02-19 02:47:59**
 
 ## Newspaper Stats
 
-*Scraped **7,869** Articles*
+*Scraped **7,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 418
 adalk | 670
 tamilmirrorlk | 955
 adaderanalk | 968
-virakesarilk | 1,037
+virakesarilk | 1,039
 adaderanasinhalalk | 1,145
 dailymirrorlk | 1,160
 
@@ -26,67 +26,131 @@ dailymirrorlk | 1,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,863 (99.9%) of 7,869 articles have been extended.
+7,870 (100.0%) of 7,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### அரசியல் மயமாகும் கிழக்கு மாகாணத்தின் ஆசிரியர் இடமாற்றம்
+### If the president is maneuvering the election, he will go home before the end of the post - Anuragumara Dissanayake warns
 
-*2024-02-19 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176712) · `ta`
+*2024-02-19 02:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176714) · `ta`
 
-ஆசிரியர் இடமாற்றத்தில் உள்ள ஆசிரியர்களின் மேன்முறையீட்டை கவனத்திற் கொண்டு அம்பாறை மாவட்டத்திற்குள் இடமாற்றத்தை மேற்கொள்வதற்குரிய முயற்சிகளை எடுப்பதாக மாகாணக் கல்விப் பணிப்பாளர் தெரிவித்துள்ளார்.
+The President's Constitution should hold the presidential election by September or October.
 
-இடமாற்றப் பட்டியலை இரத்துச்செய்யும் போது ஏற்கனவே அம்பாறை மாவட்டத்திற்கு வெளியேயும், அம்பாறை மாவட்டத்தில் சுமார் 07 வருடங்களுக்கு மேலாக வெளி வலயங்களிலும் சேவையாற்றிக் கொண்டிருக்கின்ற ஆசிரியர்களை அவர்களின் சொந்த வயலங்களுக்கு இடமாற்றம் செய்வதில் பாரிய சிரமங்களை ஏற்படவுள்ளதாக மாகாணக் கல்விப் பணிப்பாளர் கவலை தெரிவித்துள்ளார். மாகாணக் கல்விப் பணிப்பாளரின் இந்த கவலை நியாயமானதாகும்.
+He was speaking at a political meeting held on Sunday (18) in Kurunegala.
+
+When the child is born, the parents look at the future of their children. If there is any effects in the case, they will vote for Mahinda Rajapaksa and Rajapaksa during the election.
+
+In the 2020 general election, the people of Kurunegala district gave Mahinda Rajapaksa more than 5 lakhs of votes.
+
+United National Party (UNP) leader Ranil Wickremesinghe came to parliament with a separate seat. The PA is now famous that the government took over..
+
+Gotabhaya Rajapaksa then called on Sarath Fonseka.
+
+In 2020 general election campaigns, the Central Bank's main mastermind, Ranil, the main political promise of the PA had been the main political promise of the PA.Ranil Wickremesinghe, a confident guardian of the Rajapaksas, was elected president of the PA.
 
 ...
 
-[Data](articles/1a362d5a.json)
+[Data](articles/23b809db.json)
+
+[Extended Data](ext_articles/23b809db.ext.json)
 
 ---
 
-### இந்தியாவின் கசப்பான பாடங்கள்
+### 10126 State Schools 'Smart Classroom'- Opposition Leader Confirm
+
+*2024-02-19 02:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176713) · `ta`
+
+If the people make the best political decision this year, I will create a 'smart classroom' system in 10126 state schools. I will make English education compulsory in state schools. Opposition Leader Sajith Premadasa said English education would be given priority.
+
+He was speaking at the event of handing over technical equipment to the Polonnaruwa - Sevamukta Gate.
+
+In the aftermath of independence, the rulers served the country with power. But we are in the opposition and serve the people.
+
+Health and education are one of the fundamental rights of the country.
+
+Resources are found in all state schools in the country. There is a huge shortage of resources between national schools and other schools. A massive change in the education system should be made.
+
+The English language scholarship has fallen short of the Election Year.Will be given.
+
+We have to repay $ 91 billion in government loans.
+
+...
+
+[Data](articles/2c858f4c.json)
+
+[Extended Data](ext_articles/2c858f4c.ext.json)
+
+---
+
+### The Teacher Transfer of the Eastern Province
+
+*2024-02-19 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176712) · `ta`
+
+The Provincial Director of Education said that the appeal of the teachers' transfer will be taken into consideration by the Ampara District.
+
+The Provincial Director of Education is concerned that the teachers who have already served in the Ampara district and in the Ampara district have been working in the Ampara district for more than 7 years when they cancel the transfer list.. This concern for the Provincial Director of Education is fair.
+
+There is no challenge to the Provincial Director of Teachers' Transfer of Teachers to the Provincial Education of the Provincial Education that the teachers are not affected, the students are not harmed, and that the political gains of the politicians are to be aimed at translating to their own fields for a long time.
+
+◼️
+
+[Data](articles/1a362d5a.json)
+
+[Extended Data](ext_articles/1a362d5a.ext.json)
+
+---
+
+### India's bitter lessons
 
 *2024-02-19 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176711) · `ta`
 
-உலகம் முழுவதும் காதலர் தினம் கொண்டாடப்பட்டு கொண்டிருந்த, கடந்த 14ஆம் திகதி, கேரள மாநிலத்தில்  கோழிக்கோட்டில் உள்ள, இந்திய இராணுவத்தின் 122 ஆவது காலாட்படை  பற்றாலியன் தலைமையகத்தில் ஒரு நிகழ்வு இடம் பெற்றது.
+On the 14th of this month, Valentine's Day was celebrated around the world at the 122nd International Infantry of the Indian Army in Kozhikode, Kerala.
 
-34 ஆண்டுகளுக்கு முன்னர் இலங்கையில் இருந்து வெளியேறிய இந்திய அமைதிப்படையில் இடம்பெற்றிருந்த, 122 ஆவது காலாட்படை பற்றாலியனைச் சேர்ந்த, கிட்டத்தட்ட 150 வரையிலானவர்கள், அந்த நிகழ்வில் பங்கேற்று இருந்தனர்.
+Nearly 150 people from the 122nd Infantry Battalion, who had left Sri Lanka 34 years ago, were present at the event.
 
-இலங்கையில் ஒப்பரேசன் பவான் நடவடிக்கையில் பங்கேற்ற, மட்ராஸ் ரெஜிமென்ட்டின்,  122 ஆவது காலாட்படை பற்றாலியனில், சுமார் 700 பேர் இடம்பெற்று இருந்தனர்.
+About 700 people were held at the Madras Regiment, the 122nd Infantry, which participated in the comparison of Sri Lanka.
 
-அவர்களில் 400 பேர் வரை இந்த நிகழ்வில் பங்கேற்பார்கள் என, இரண்டு நாட்களுக்கு முன்னர் நடத்திய செய்தியாளர் சந்திப்பில், ஏற்பாட்டாளர்களில் ஒருவரான, ஓய்வுபெற்ற சுபேதார் ரஹ்மான் கூறியிருந்தார்.
+At a press conference held two days ago, up to 400 of them will attend the event, one of the organizers, Supheedar Rahman, said.
 
-ஆயினும், அவர்கள் எதிர்பார்த்த அளவைவிட பாதி எண்ணிக்கையானவர்கள் தான் அதில் கலந்து கொண்டிருந்தனர்.
+However, only half the number of people they expected were attending.
 
-122 ஆவது காலாட்படை பற்றாலியனைச் சேர்ந்த அவர்கள், இப்போது 60, 70 வயதுகளை தொட்டிருந்தார்கள்.
+They belonged to the 122nd Infantry, and now they have touched the age of 60 and 70.
+
+The event, which began at the Bhatalian headquarters at 8 am, was held at the Bhatalian headquarters, the opening of the Memorial Inscription, the opening of the Memorial Inscription, the opening of the Indian Peace Corps, the opening of the Opening of the Comparative Pawan Goor, and the sharing of old memories.
 
 ...
 
 [Data](articles/a58e5620.json)
 
+[Extended Data](ext_articles/a58e5620.ext.json)
+
 ---
 
-### மறைக்கப்பட்ட சந்திப்பு
+### Hidden junction
 
 *2024-02-19 01:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176710) · `ta`
 
-அமெரிக்காவின் யு .எஸ் .எய்ட் நிர்வாகி சமந்தா பவர், கடந்த 13ஆம் திகதி செவ்வாய்க்கிழமை, ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன், ஒரு மெய்நிகர் கலந்துரையாடலை நடத்தியிருந்தார்.
+US Aid Administrator Samantha Power held a virtual discussion with President Ranil Wickremesinghe on Tuesday, 13th.
 
-இதுதொடர்பாக உடனடியாகவே யு.எஸ்.எய்ட் இனால் ஒரு செய்தி குறிப்பு வெளியிடப்பட்டது. அந்த கலந்துரையாடல் தொடர்பாக ஜனாதிபதி செயலகம் எந்த அறிவிப்பையும் வெளியிடவில்லை.
+In this regard, a news note was immediately issued by the USA. The Presidential Secretariat has not issued any announcement regarding the discussion.
 
-அனைத்துலக அபிவிருத்திக்கான அமெரிக்க முகவரகம், (யு.எஸ்.எய்ட்), இலங்கைக்கு உதவிகளை வழங்கி வருகின்ற ஒரு அமைப்பு.
+The US Agency for International Development (USA) is an organization that provides assistance to Sri Lanka.
 
-1956 ஆம் ஆண்டுக்குப் பின்னர் 2 பில்லியன் டொலர்களை  இலங்கைக்கு வழங்கியிருப்பதாக 2022 ஆம் ஆண்டு செம்டெம்பர் மாதம் யு.எஸ்.எய்ட் வெளியிட்ட ஒரு அறிக்கையில் கூறியிருந்தது.
+In a statement issued by the USA in 2022, the USAI said that Sri Lanka had awarded $ 2 billion since 1956 to Sri Lanka.
 
-யு.எஸ்.எய்ட் நிர்வாகியான சமந்தா பவர், அமெரிக்காவின் முன்னாள் ஜனாதிபதி பராக் ஒபாமாவின் காலத்தில், தேசிய பாதுகாப்பு சபையில் அவரது ஆலோசகராக பணியாற்றியவர்.
+Samantha Power, a USAl administrator, served as his advisor to the National Security Council during the time of former US President Barack Obama.
 
-மனித உரிமை விவகாரங்களில் அக்கறையும் இறுக்கமான போக்கையும் கொண்டவர்.  ஐ.நா.வுக்கான அமெரிக்க தூதுவராகவும், சமந்தா பவர் பணியாற்றியிருந்தார்.
+He is concerned and tight in human rights affairs.Samantha Power was also the US Ambassador to the UN.
+
+He was a key role behind the US resolutions at the UN Human Rights Council over the violations of the war in Sri Lanka.
 
 ...
 
 [Data](articles/46fdb792.json)
+
+[Extended Data](ext_articles/46fdb792.ext.json)
 
 ---
 
@@ -168,6 +232,8 @@ Now more than ever before, it is vital that Sri Lanka engages closely with a wid
 
 [Data](articles/c31a6130.json)
 
+[Extended Data](ext_articles/c31a6130.ext.json)
+
 ---
 
 ### 2024-02-18 (Sunday)
@@ -185,6 +251,8 @@ For climate-vulnerable developing countries facing serious debt-related challeng
 ...
 
 [Data](articles/724add0e.json)
+
+[Extended Data](ext_articles/724add0e.ext.json)
 
 ---
 
@@ -2083,53 +2151,5 @@ Navalni's colleagues, who have said that the authorities are deliberately hiding
 [Data](articles/031c3c3d.json)
 
 [Extended Data](ext_articles/031c3c3d.ext.json)
-
----
-
-### Former Thai prime minister released on parole
-
-*2024-02-18 10:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Former-Thai-prime-minister-released-on-parole/107-277248) · `en`
-
-Bangkok , Feb 18 (BBC) - Thailand's convicted former Prime Minister Thaksin Shinawatra has arrived at his mansion in the capital Bangkok after being released on parole.
-
-The billionaire was freed from a police hospital, where he had been serving a one-year jail sentence for corruption and abuse of power.
-
-Thaksin, 74, was detained as soon as he returned to Thailand last August from 15 years in self-imposed exile.
-
-He did not spent a single night in jail after complaining of health problems.
-
-Thaksin's original eight-year prison term was commuted to one year by Thailand's king - just days after he returned from exile.
-
-The handling of the case has led to criticism from many Thais, who say the rich and powerful are often given privileged treatment.
-
-On Sunday, Thaksin was seen being driven away from the police hospital in the capital, where he had spent six months.
-
-The authorities said he was eligible for parole due to his age and health issues.
-
-...
-
-[Data](articles/10f89c86.json)
-
-[Extended Data](ext_articles/10f89c86.ext.json)
-
----
-
-### Man arrested for sexually harassing police officer in public transport
-
-*2024-02-18 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97364/man-arrested-for-sexually-harassing-police-officer-in-public-transport-) · `en`
-
-Police have arrested a 44-year-old suspect for allegedly sexually harassing a female police officer onboard a public transport bus.
-
-According to police, the suspect, identified as a private security officer from Welimada, was remanded until 22 February on orders of the Nuwara Eliya Magistrate’s Court.
-
-The victimised police officer had reportedly been aboard the bus as part of an ongoing operation aimed at preventing the sexual harassment of women and children in public transport.
-
-The special programme is being operated in conjunction with the ongoing anti-drug operation ‘Yukthiya’, and those subjected to such harassment have been urged to inform the police via the ‘109’ hotline.
-
-◼️
-
-[Data](articles/04feca7e.json)
-
-[Extended Data](ext_articles/04feca7e.ext.json)
 
 ---

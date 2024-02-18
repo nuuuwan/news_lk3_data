@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 08:33:07**
+As of **2024-02-18 08:50:12**
 
 ## Newspaper Stats
 
-*Scraped **7,745** Articles*
+*Scraped **7,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,67 @@ economynextcom | 400
 islandlk | 409
 dailyftlk | 415
 adalk | 656
-tamilmirrorlk | 937
+tamilmirrorlk | 940
 adaderanalk | 950
 virakesarilk | 1,018
-adaderanasinhalalk | 1,119
+adaderanasinhalalk | 1,120
 dailymirrorlk | 1,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,744 (100.0%) of 7,745 articles have been extended.
+7,749 (100.0%) of 7,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### 19 වැනි ඕවරය ගැන මතීෂ පතිරණ කියයි
+### Two suspects arrested for shooting at the economic center
+
+*2024-02-18 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193530) · `si`
+
+Two suspects have been arrested in connection with the shooting incident in the Meegoda Economic Center.
+
+In the Meegoda International, two unidentified persons from the Meegoda International Center in the Meegoda International Center have shot dead by two unidentified persons on the 12th.
+
+The Meegoda Police had received a joint hidden in Kirillawala area in Kirillawala area.
+
+In the raid, the motorcycle, empty closure, a knife and shirt was arrested yesterday (17).
+
+The police also arrested a suspect who had given the house to staying with the restaurant owner and suspects who had been hidden.
+
+The suspects are residents of Imbulgama and Kadawatha, aged 39 and 44 years old.
+
+◼️
+
+[Data](articles/bea83889.json)
+
+[Extended Data](ext_articles/bea83889.ext.json)
+
+---
+
+### Mathenta Pathirana says about the 19th overthrow
 
 *2024-02-18 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193529) · `si`
 
-තීරණාත්මක 19 වැනි පන්දුවාරයේ දී ජයග්‍රහණය ශ්‍රී ලංකා කණ්ඩාම වෙත හරවා ගැනීම තම අරමුණ වූ බව ශ්‍රී ලංකා කණ්ඩායමේ වේග පන්දු යවන ක්‍රීඩක මතීෂ පතිරණ පවසයි.
+Sri Lanka's fast bowler, Sri Lanka's fast bowler, says that the Sri Lankan team has gone to the Sri Lankan team in the 19th in 19th.
 
-ඊයේ (17) තරගයෙන් අනතුරු ව අදහස් දක්වමින් ඔහු ඒ බව සඳහන් කළේ ය.
+He said that yesterday (17), he said.
 
-"19 ඕවරේ දී දෙපැත්ටම ගේම් එක තිබ්බේ. ඕන වෙලා තිබ්බේ මැච් එක දිනවන්න. මම ගොඩක් වෙලාවට බැලුවේ මැච් එක අපේ පැත්තට හරවා ගන්න. මම හිතුවා ඒක කරා කියලා."
+"There was two games in the opening day. Needed the match. I looked a lot of time to our side to our side. I thought it was. "
 
-"ඇත්තට ම බිනුර අයියා ගොඩක් හොඳ ඕවර් එකක් දැම්මේ. බිනුර අයියාගේ අත්දැකීම් ගොඩක් පාවිච්චි කළා. එයාගේ කලින් ඕවර් තුනේ ලකුණු ගිහිල්ලා තිබුණත් අන්තිම ඕවර් එකේ ඇවිල්ලා හොඳට ම දැම්මා. මම හිතන්නේ ඒ ඕවර් එකෙන් තමයි අපි මැච් එක දින්නේ."
+"In fact, Buddha brother put a very good over. Buddha used a lot of experience of the brother. His earlier three overposses were running out, but the last over came well. I think that over is that we will win the mochet. "
 
-"ඇත්තට ම අපේ කණ්ඩායමේ ටාගට් එක වෙලා තිබුණේ, 170ට වැඩිය යන්න. ඉතින් අපිට ඒක කරගන්න බැරි වුණා. ලකුණු 10ක් 15ක් ශෝට් වුණා. ඉතින් ඒක කියලා බෑ අපි තරගය දිනන්න නම්, අපි හොඳට කරන්න ඕනේ. ඒක හින්දා මම හිතන්නේ ගොඩක් ලොකුවට ඔළුවට ගත්තේ නෑ."
+"In fact, our team's tagget was to be more than 170. So we couldn't do it. 10 for 15 points were gonna. So if we want to win the competition, we need to do well. That's why I think so much went to the bound. "
+
+"After the Debuse, I had a lot of opportunities to League and play it. Work with those players I worked with our Coch. That was the second 20 and 20 game played today. "
 
 ...
 
 [Data](articles/d36cacc1.json)
+
+[Extended Data](ext_articles/d36cacc1.ext.json)
 
 ---
 
@@ -141,6 +169,64 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/2c497d08.json)
 
 [Extended Data](ext_articles/2c497d08.ext.json)
+
+---
+
+### US representatives visit the country
+
+*2024-02-18 04:09:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-பிரதிநிதிகள்-நாட்டிற்கு-வருகை/175-333364) · `ta`
+
+Representatives of the US Senate's Foreign Communications Committee have visited the country to discuss issues associated with law, including the e -mail security law.
+
+US Ambassador Julie Sung said in his social media post that the delegation has come to the country to get a deep clarity on the country's economy and political conditions.
+
+US Ambassador Julie Sung said in his record that the representatives will meet with various parties, including state officials, to discuss the economic restructuring and discuss issues associated with recent laws, including the Energy Security Act.(a)
+
+◼️
+
+[Data](articles/a25d4666.json)
+
+[Extended Data](ext_articles/a25d4666.ext.json)
+
+---
+
+### Special facility for voting
+
+*2024-02-18 04:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்புலனற்றோர்-வாக்களிக்க-விசேட-வசதி/175-333363) · `ta`
+
+The National Elections Commission has said that special facilities will be provided to vote.
+
+RMAL, Chairman of the National Elections Commission, said that they are currently voting with the help of officials who are on duty at the polling station during the tenders.. Ratnayake said.
+
+Under this scheme, they will be given a paper comprising the names of the parties and the names of the candidates printed in 'Braille'.
+
+Accordingly, the Chairman of the National Elections Commission, RMAL, said that the in the upcoming elections could be able to enjoy the right to vote.. Ratnayake said. (A)
+
+◼️
+
+[Data](articles/a74a98e4.json)
+
+[Extended Data](ext_articles/a74a98e4.ext.json)
+
+---
+
+### Sri Lankan fishermen imprisoned in Myanmar
+
+*2024-02-18 03:52:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரில்-இலங்கை-மீனவர்களுக்கு-சிறைத்தண்டனை/175-333362) · `ta`
+
+Myanmar court has sentenced two Sri Lankan fishermen arrested in Myanmar
+
+Fishermen have been sentenced to 5 years in prison. Sri Lankan Ambassador to Myanmar Janaka Bandara says 13 Sri Lankan fishermen have been sentenced to 3 years in prison.
+
+However, the Ambassador said that the fishermen are expected to be released under a public amnesty. He also noted that fishermen are well.
+
+15 Sri Lankan fishermen arrested with 2 fishing boats on charges of fishing in violation of Myanmar. (A)
+
+◼️
+
+[Data](articles/64e8a6fd.json)
+
+[Extended Data](ext_articles/64e8a6fd.ext.json)
 
 ---
 
@@ -1977,85 +2063,5 @@ Accordingly, the Nuwara Eliya Economic Center Office has released the total pric
 [Data](articles/b156e01f.json)
 
 [Extended Data](ext_articles/b156e01f.ext.json)
-
----
-
-### Three Indian fishermen arrested in Sri Lanka sentenced to prison, 20 others released
-
-*2024-02-17 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97344/three-indian-fishermen-arrested-in-sri-lanka-sentenced-to-prison-20-others-released) · `en`
-
-In a major relief to the fishing community in Tamil Nadu, 20 fishermen from Rameswaram were released, while two boatmen and a fisherman were directed to undergo a jail term of six months and one year respectively, for repeating the offence of poaching, a court in Sri Lanka has ruled.
-
-According to fishermen leader Jesu Raja, 42 fishermen were arrested, in two incidents: one of 23 arrests and the second of 19 arrests, on charges of poaching by the Sri Lankan Navy earlier this month, while they were engaged in fishing along the Palk Bay. Two boats were also impounded.
-
-After the fishermen staged agitation and stayed away from venturing into the sea for a day, political parties in Tamil Nadu condemned the arrest and urged the Union government to intervene in the issue immediately. T.N. CM M.K. Stalin also wrote to Prime Minister Narendra Modi requesting him to make diplomatic efforts to secure the release of the Tamil Nadu fishermen.
-
-...
-
-[Data](articles/088f64a2.json)
-
-[Extended Data](ext_articles/088f64a2.ext.json)
-
----
-
-### Gamini Jayawickrama Perera passes away
-
-*2024-02-17 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gamini-Jayawickrama-Perera-passes-away/108-277237) · `en`
-
-Former Minister Gamini Jayawickrama Perera has passed away this morning at the age of 83.
-
-◼️
-
-[Data](articles/d2546ea3.json)
-
-[Extended Data](ext_articles/d2546ea3.ext.json)
-
----
-
-### Man dies after being hit by former chairperson of Eastern Provincial Councils
-
-*2024-02-17 10:59:25* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-පළාත්-සභා-හිටපු-සභාපතිනියෙන්-මෝටර්-රථයේ-ගැටී-පුද්ගලයෙක්-මරුට/11-408133) · `si`
-
-A passenger has died in the Dambulla area in Dambulla, Dambulla area, Dambulla area in Dambulla.
-
-The deceased has been identified as MGGHM Saman Priyantha Herath aged fourth.
-
-The Eastern Province, Chairman Galappathi was inaugurated in Trincomalee to attend a funeral in Trincomalee to attend the road in Pelvehera area.
-
-The traffic inquiries of the Dambulla Police said that the luxury car has left the contradiction in the opposite direction.
-
-The victim was a hotel in the night in the night, police said.
-
-The injured person was rushed to the Dambulla Base Hospital, a hospital spokesman said.
-
-The driver was arrested and the driver was arrested and the driver was arrested in another vehicle.
-
-...
-
-[Data](articles/151f041a.json)
-
-[Extended Data](ext_articles/151f041a.ext.json)
-
----
-
-### Ten year's murder suspect arrested
-
-*2024-02-17 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193500) · `si`
-
-A person has been arrested on suspicion of murder of a ten-year-old girl in Talaimannar.
-
-The victim was arrested as a 55 year old man who was found to be the coconut land found in the coconut land.
-
-The body of the girl suspected of rape was found in coconut land near the girl's house yesterday (16).
-
-Her grandmother had lodged a complaint with the Talaimannar Police about the return of the girl who went to the house on the 15th.
-
-Accordingly, the body of the murdered girl was found in a police investigation.
-
-◼️
-
-[Data](articles/b69f60d6.json)
-
-[Extended Data](ext_articles/b69f60d6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 22:50:08**
+As of **2024-02-18 23:02:26**
 
 ## Newspaper Stats
 
-*Scraped **7,848** Articles*
+*Scraped **7,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 670
 tamilmirrorlk | 955
 adaderanalk | 967
 virakesarilk | 1,029
-adaderanasinhalalk | 1,142
+adaderanasinhalalk | 1,145
 dailymirrorlk | 1,157
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,848 (100.0%) of 7,848 articles have been extended.
+7,851 (100.0%) of 7,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### US aircraft to Sri Lanka
+
+*2024-02-18 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193557) · `si`
+
+The US has decided to provide a plane to the security of Sri Lanka's coast.
+
+This is stated that DOLAND LU, an American diplomatic officer.
+
+Addressing a special meeting, he added that a 'King Air' is to be handed over to Sri Lanka.
+
+He further stated that it will be received this year.
+
+The US had also provided boats before the security forces of Sri Lanka to protect the coast of Sri Lanka.
+
+◼️
+
+[Data](articles/998c7628.json)
+
+[Extended Data](ext_articles/998c7628.ext.json)
+
+---
 
 ### Diego Garcia asylum seekers feel unsafe on remote British island territory
 
@@ -53,6 +75,48 @@ Civilian visitors are not allowed - and the island has officially had no residen
 [Data](articles/0296f5c2.json)
 
 [Extended Data](ext_articles/0296f5c2.ext.json)
+
+---
+
+### Tragedy of Kottawa
+
+*2024-02-18 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193556) · `si`
+
+Police suspect that he was electrocuted while he was renovated while he was renovated.
+
+Police are expecting the police that the electricity was hit by an unprotected power supply.
+
+◼️
+
+[Data](articles/9d656c13.json)
+
+[Extended Data](ext_articles/9d656c13.ext.json)
+
+---
+
+### Progress of justice at the end of two months
+
+*2024-02-18 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193555) · `si`
+
+Police have arrested 64,850 criminals through the operation of the country.
+
+It is reported that there are 56,140 suspects arrested on drugs and there are 8,710 suspects in the list that was referred to the criminal sections.
+
+Out of the 56,140 suspects arrested over drug misconduct, 1,850 suspects have been rehabilitated on detention orders.
+
+The number of suspects commenced inquiry was 234 suspects and 3,202 suspects on the Police Narcotics Bureau and the Police Special Bureau.
+
+The total number of drugs has been arrested nearly 7,852.6 million, and it has been revealed that the market value of the prohibition is nearly 726 million.
+
+There are 1,333 suspects who were arrested in the list of the list of criminal sectors and 6,700 open warrants in charge of drugs and non-drug errors.
+
+Meanwhile, the media notes have been identified by the media and has been arrested in operations and 393 suspects required for crimes.
+
+◼️
+
+[Data](articles/0e86b233.json)
+
+[Extended Data](ext_articles/0e86b233.ext.json)
 
 ---
 
@@ -2113,65 +2177,5 @@ He said that yesterday (17), he said.
 [Data](articles/d36cacc1.json)
 
 [Extended Data](ext_articles/d36cacc1.ext.json)
-
----
-
-### The body of the Russian opposition leader is hiding?
-
-*2024-02-18 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193528) · `si`
-
-Innovaries, Opposition Leader Alexi Navealni's body was hidden in a Russian prison.
-
-It is reported that the Russian authorities have stated that the body will be handed over to Navalni's mother after the post mortem examination over the relevant body.
-
-There have been suspected that the murder had taken place on a directive of President Vladmini Putin.
-
-The victim was detained in a remote prison and was revealed that he died last Friday.
-
-◼️
-
-[Data](articles/1a81a730.json)
-
-[Extended Data](ext_articles/1a81a730.ext.json)
-
----
-
-### Establishing police post in NHC a deadly attack to minor staffers: Dr. Bellana
-
-*2024-02-18 07:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Establishing-police-post-in-NHC-a-deadly-attack-to-minor-staffers-Dr-Bellana/108-277245) · `en`
-
-Colombo, Feb 18 (Daily Mirror) - Due to his involvement in the hospital administration, almost 200 minor workers in hospitals were unable to continue their drug businesses at the National Hospital in Colombo (NHC) and started protesting against him, said NHC Deputy Director and Government Medical Officers' Forum (GMOF) president Dr. Rukshan Bellana.
-
-He told the Daily Mirror that following his request, the Inspector General of Police (IGP) had visited the hospital and established a police unit to stop the drug deals in the hospital.
-
-"Therefore, the minor staffers involved in the drug deals got together and organised protests to chase me away as I worked on eradicating the drug use in the hospital," he added.
-
-"The police intelligence service is also operating inside the hospital to nab the drug dealers," he said.
-
-"Most of the drug addicts take drugs inside the hospital, do businesses, and look after patients after taking drugs," Dr. Bellana said.
-
-...
-
-[Data](articles/d517d3de.json)
-
-[Extended Data](ext_articles/d517d3de.ext.json)
-
----
-
-### Colombo CCTV operations continue
-
-*2024-02-18 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193527) · `si`
-
-The police have announced that 793 persons were identified by CCTV footage in Colombo town this month.
-
-Police Media Spokesperson DIG Nihal Talduuwa said that about 300 police stations have been informed about 300 police stations to take necessary action regarding the offenders.
-
-Police Media Spokesperson DIG Nihal Talduuwa has said that about 26,000 drunken cases have been reported in 2023 year.
-
-◼️
-
-[Data](articles/929b8ab3.json)
-
-[Extended Data](ext_articles/929b8ab3.ext.json)
 
 ---

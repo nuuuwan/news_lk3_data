@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 18:07:26**
+As of **2024-02-18 18:19:34**
 
 ## Newspaper Stats
 
-*Scraped **7,819** Articles*
+*Scraped **7,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 economynextcom | 401
 islandlk | 409
 dailyftlk | 415
-adalk | 665
+adalk | 666
 tamilmirrorlk | 953
 adaderanalk | 963
 virakesarilk | 1,023
-adaderanasinhalalk | 1,135
+adaderanasinhalalk | 1,137
 dailymirrorlk | 1,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,819 (100.0%) of 7,819 articles have been extended.
+7,819 (100.0%) of 7,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### අත්අඩංගුවට ගත් මහනුවර ගුරුවරයා රිමාන්ඩ්
+
+*2024-02-18 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193548) · `si`
+
+මහනුවර තෙල්දෙණිය අධ්‍යාපන කලාපයට අයත් පාසලක තොරතුරු තාක්ෂණ විෂය ඉගැන්වීම සඳහා පාසලේ තිබූ ලැප්ටොප් පරිගණකයෙන් 12 හැවිරිදි සිසුවෙකුට ලිංගික හා නිරුවත් දර්ශන ඇතුළත් ඡායාරූප පෙන් වූ බවට සැකපිට එම පාසලේ ගුරුවරයෙකුව අත්අඩංගුවට ගෙන තිබේ.
+
+පසුගිය 07 වනදා සහ 09 වනදා  පාසල් වේලාවේ දී මෙම ගුරුවරයා තමන්ව තොරතුරු තාක්ෂණ කාමරයට රැගෙන ගොස් නිරුවත් ඡායාරූප පෙන්වූ බවට එම සිසුවා දෙමාපියන් සමඟ පැමිණ තෙල්දෙණිය පොලීසියට පැමිණිල්ලක් කර ඇත.
+
+පසුව පොලීසිය අදාළ ලැප්ටොප් පරිගණකය පොලිස් භාරයට ගෙන පරීක්ෂා කිරීමෙන් අනතුරුව සැකකාර ගුරුවරයාව අත්අඩංගුවට ගෙන තෙල්දෙණිය අධිකරණයට ඉදිරිපත් කිර තිබේ.
+
+එහිදී සැකකාර ගුරුවරයාව හෙට (19) දිනය දක්වා රක්ෂිත බන්ධනාගාර ගතකර ඇති බව වාර්තා වේ.
+
+මෙලෙස රක්ෂිත බන්ධනාගාර ගතකර ඇත්තේ එම පාසලේ ඉගැන්වීම් කටයුතු කළ 53 හැවිරිදි තෙල්දෙණිය මඩපොළ ප්‍රදේශයේ පදිංචව සිටි ගුරුවරයෙකි.
+
+මෙම පැමිණිල්ල සම්බන්ධයෙන් සිදුකළ විමර්ශනවලදී හෙළි වී ඇත්තේ එම සැකකාර ගුරුවරයා තවත් 12 හැවිරිදි සිසුවෙකු නෙල්ලි ඇහිඳීමට කියා විදුහල්පති නේවාසිකාගාරය අසළ ඇති කැලෑවකට රැගෙන ගොස් ඇති බවය.
+
+...
+
+[Data](articles/051b94b5.json)
+
+---
+
+### ගිනිගත්හේනේ අනතුරකින් ශ්‍රී පාද වන්දනාකරුවන් පිරිසකට තුවාල
+
+*2024-02-18 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193547) · `si`
+
+ශ්‍රී පාද වන්දනාවේ පැමිණි පිරිසක් රැගත් වෑන් රථයක් සහ බස් රථයක් මුහුණට මුහුණ ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයින් දස දෙනෙකු තුවාල ලබා රෝහල්ගතකර තිබේ.
+
+අද (18) පස්වරුවේ හැටන්-කොළඹ ප්‍රධාන මාර්ගයේ ගිනිගත්හේන මිල්ලගහමුල ප්‍රදේශයේදී මෙම අනතුර සිදුව ඇත.
+
+මෙලෙස අනතුරට ලක්ව ඇත්තේ ගම්පහ ප්‍රදේශයේ සිට වන්දනාකරුවන් පිරිසක් රැගෙන පැමිණි වෑන් රථයක් සහ මාතර ප්‍රදේශයේ සිට වන්දනාකරුවන් පිරිසක් රැගෙන පැමිණි බස් රථයකි.
+
+අනතුරින් බරපතළ තුවාල ලැබූ දෙදෙනෙකු ගිනිගත්හේන රෝහලේ සිට නාවලපිටිය රෝහල වෙත මාරුකර යවා ඇත.
+
+වෑන් රථය ඉදිරියෙන් ගමන්කළ ලොරි රථයක් පසුකර යාමට උත්සාහ ගැනීමේදී මෙම අනතුර සිදුව තිබේ.
+
+අනතුරින් වෑන් රථයට සහ බස් රථයට දැඩි අලාභහානි සිදුව ඇති අතර ගිනිගත්හේන පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/05bc7e19.json)
+
+---
 
 ### Indian envoy confident Nagapattinam–KKS ferry services will resume soon
 
@@ -211,6 +255,22 @@ In August 2023, Foreign Minister Ali Sabry had bilateral discussions with Foreig
 [Data](articles/ea662123.json)
 
 [Extended Data](ext_articles/ea662123.ext.json)
+
+---
+
+### යතුරු පැදි දෙකක් ගැටී තරුණයන් දෙදෙනෙක් මරුට
+
+*2024-02-18 15:35:35* · [`adalk`](https://www.ada.lk/breaking_news/යතුරු-පැදි-දෙකක්-ගැටී-තරුණයන්-දෙදෙනෙක්-මරුට/11-408152) · `si`
+
+පිළියන්දල- මහරගම ප්‍රධාන බස් මාර්ගයේ නීලම්මහර මංසන්ධියේ (18) වන දින අලුයම 12.10 ට පමණ යතුරුපැදි දෙකක් එකිනෙක ගැටීමෙන් සිදුවූ රිය අනතුරකින් (19) වැනි වියේ පසුවූ තරුණයින් දෙදෙනෙක් මියගිය බව මහරගම පොලිසිය කියයි
+
+අනතුරින් මියගොස් ඇත්තේ පිළියන්දල පාර, ඇරව්වල ප්‍රදේශයේ පදිංචිකරුවෙකු වන එච්.ජී මෙත්සිත් නැමැති අය සහ ඇරැව්වල පන්නිපිටිය ප්‍රදේශයේ පදිංචිකරුවකු වන කවිඳු රණසිංහ නැමැති තරුණයන් දෙදෙනා බවත් පොලිසිය පවසයි.
+
+මියගොස් එක් යතුරුපැදියක පිටුපස ගමන් ගත් පසුපැදිකරු බරපතල තුවාල ලබා දකුණු කොළඹ ශික්ෂණ රෝහලේ දැඩිසත්කාර ඒකකයට ඇතුලත් කර ඇති බවත් මහරගම පොලිසියේ රථවාහන අංශය පවසයි.
+
+...
+
+[Data](articles/7ff722fc.json)
 
 ---
 
@@ -2105,63 +2165,5 @@ Former Provincial Councipe, Deputy Chairman of the Sri Lanka Communist Party, Pi
 [Data](articles/19af2636.json)
 
 [Extended Data](ext_articles/19af2636.ext.json)
-
----
-
-### Sri Lanka sets 161-run target for Afghanistan in first T20I
-
-*2024-02-17 21:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-sets-161-run-target-for-Afghanistan-in-first-T20I/108-277243) · `en`
-
-Dambulla, Feb 17 (Daily Mirror) - In the inaugural T20I match at Dambulla today, Sri Lanka posted a challenging total of 160 runs for Afghanistan to chase down.
-
-Despite early setbacks, skipper Wanindu Hasaranga's resilient innings of 67 runs provided a much-needed boost to the Sri Lankan innings.
-
-Opting to bowl first after winning the toss, Afghanistan's decision seemed justified as they struck early, dismissing opener Pathum Nissanka cheaply.
-
-Sri Lanka were four wickets down for just 55 runs when Hasaranga walked in.
-
-Hasaranga's aggressive approach, featuring three sixes and seven boundaries, propelled Sri Lanka's total to a competitive score.
-
-For Afghanistan, Fazalhaq Farooqi was the pick of the bowlers, picking up three wickets for 25 runs. Naveen-ul-Haq and Azmatullah Omarzai also chipped in with two wickets each.
-
-◼️
-
-[Data](articles/85533ea6.json)
-
-[Extended Data](ext_articles/85533ea6.ext.json)
-
----
-
-### Basil commands the Seventh Navy
-
-*2024-02-17 21:03:10* · [`adalk`](https://www.ada.lk/breaking_news/හත්වන-නාවික-හමුදාපති-බැසිල්-සමුගනියි/11-408140) · `si`
-
-The Sri Lanka Navy's Seventh (07) of the Sri Lanka Navy, Admiral Basil Gunasekera, who was commander, passed away today (Feb 17, 2024).
-
-Admiral Basil Gunasekera, who was appointed as a Vice Lieutenant of July 23, 1951, was appointed as the Seventh (07) of the Sri Lanka Navy in June 1979 to 31st March 1979..
-
-In 1929, the last respected of birth was placed in the home of 50/06, Anula Mawatha, Anula Mawatha, No. 50/06, Anula Mawatha.The Borella is scheduled to be held on 18 February on February 18, 2024 with salt.
-
-◼️
-
-[Data](articles/5bab0a2b.json)
-
-[Extended Data](ext_articles/5bab0a2b.ext.json)
-
----
-
-### The Senegal is a military page asking for a day
-
-*2024-02-17 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193519) · `si`
-
-Foreign media reports that the protests of the Senegal has commenced the protests of the presence as soon as he is to announce a date for the presidential election.
-
-But the President has suspended the President of the President in the country.
-
-◼️
-
-[Data](articles/b4ee492d.json)
-
-[Extended Data](ext_articles/b4ee492d.ext.json)
 
 ---

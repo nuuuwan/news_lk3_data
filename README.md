@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 14:17:18**
+As of **2024-02-18 14:32:44**
 
 ## Newspaper Stats
 
-*Scraped **7,797** Articles*
+*Scraped **7,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 401
 islandlk | 409
 dailyftlk | 415
 adalk | 661
-tamilmirrorlk | 948
-adaderanalk | 958
-virakesarilk | 1,022
+tamilmirrorlk | 950
+adaderanalk | 959
+virakesarilk | 1,023
 adaderanasinhalalk | 1,131
 dailymirrorlk | 1,150
 
@@ -26,27 +26,45 @@ dailymirrorlk | 1,150
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,796 (100.0%) of 7,797 articles have been extended.
+7,797 (99.9%) of 7,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### පියුමාගෙන් විශේෂ අනාවරණයක්
+### Liquid revealed
 
 *2024-02-18 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193542) · `si`
 
-පසුගියදා ඩුබායි සිට මෙරටට රැගෙන ආ "පියුමා" නැමැති අපරාධකරු ඩුබායි රාජ්‍යයේ දී සමීප ව ඇසුරු කළ කාන්තාවක් ඊයේ (17) අලුයම මෙරටට පැමිණීමේ දී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් ප්‍රශ්න කර තිබේ.
+The Criminal Investigations Department (CID) has questioned a woman close to the country in the country's early morning.
 
-එම කාන්තාවගෙන් පැය 04ක පමණ කාලයක් ප්‍රකාශ සටහන් කරගෙන ඇති අතර, ඇය පියුමාගේ බිරිඳගේ මිතුරියක් බව වාර්තා වෙයි.
+It is reported that the woman has recorded statements for about four hours and she is a friend of the father's wife.
 
-මේ අතර, "පියුමා" තමන් කළ අපරාධ සම්බන්ධයෙන් වැදගත් කරුණු රැසක් විමර්ශන නිලධාරින් හමුවේ අනාවරණය කර තිබේ.
+Meanwhile, "Pharaya" has revealed many important issues of their crimes.
 
-ඔහු පවසා ඇත්තේ, තමා සහ කුඩු සළිඳු කුඩා කල සිට හොඳ ම මිතුරන් බව ය.
+He has said that he and the powder is good friends.
 
 ◼️
 
 [Data](articles/cca912d8.json)
+
+[Extended Data](ext_articles/cca912d8.ext.json)
+
+---
+
+### சேலையை கட்டாமல் வந்த ஆசிரியை விரட்டியடிப்பு
+
+*2024-02-18 13:37:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சேலையை-கட்டாமல்-வந்த-ஆசிரியை-விரட்டியடிப்பு/76-333382) · `ta`
+
+சேலையை கட்டாமல் வந்த ஆசிரியை ஒருவர், விரட்டியடிக்கப்பட்டுள்ளார். இந்த சம்பவம் தொடர்பில் அந்த ஆசிரியை. கடுகண்ணாவை பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார்.
+
+கிராகம ஆசிரியர் கலாசாலையின் மோடியுல மத்திய நிலையத்துக்கு ஞாயிற்றுக்கிழமை(18) வந்திருந்த ஆசிரியையே இவ்வாறு விரட்டியடிக்கப்பட்டுள்ளார்.
+
+ஆசிரியர்களின் சேவை உயர்வுகளுக்கு பரிந்துரைக்கப்பட்ட திறன் வரம்புகளை முழுமைப்படுத்துவதற்கே அந்த ஆசிரியை வந்துள்ளார். அப்போது அங்கிருந்த மத்திய நிலையத்தின் முகாமையாளர். அந்த ஆசிரியையை சேலை   கட்டாமல் வந்திருந்தமையால் அங்கிருந்து விட்டிவிட்டார். இது தொடர்பிலேயே அந்த ஆசிரியை முறைப்பாடு செய்துள்ளார்.
+
+◼️
+
+[Data](articles/bba3708c.json)
 
 ---
 
@@ -87,6 +105,22 @@ The report emphasises the importance of urgently fixing these gaps to combat cor
 [Data](articles/84c1c184.json)
 
 [Extended Data](ext_articles/84c1c184.ext.json)
+
+---
+
+### ஓர் உயிரை பறித்த மரக்கிளை
+
+*2024-02-18 13:02:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/ஓர்-உயிரை-பறித்த-மரக்கிளை/72-333374) · `ta`
+
+முல்லைத்தீவு புதுக்குடியிருப்பு தேவிபுரம் பகுதியில் இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்துள்ளார். இந்த விபத்து சனிக்கிழமை  (17) இரவு 7 மணியளவில் இடம்பெற்றுள்ளது.
+
+புதுக்குடியிருப்பு  பனை தென்னை கூட்டுறவு சங்கத்தின் உறுப்பினர் தனது தொழிலை நிறைவு செய்துவிட்டு வீடு  திரும்பும் வழியில் தேவிபுரம் பகுதியில்  குறித்த நபர் பயணித்த உந்துருளி வீதியில் குறுக்கே விழுந்து கிடந்த மரக்கிளையில்  மோதி விபத்துக்குள்ளானதில்   உயிரிழந்துள்ளார்.  தேவிபுரம் ஆ பகுதியினை சேர்ந்த 55 அகவையுடைய விநாயகம் என்று அழைக்கப்படும் சி.சிவபாஸ்கரன் என்பரே உயிரிழந்தவராவார்.
+
+உயிரிழந்தவரின் உடலம் புதுக்குடியிருப்பு ஆதார மருத்துவமனையில் வைக்கப்பட்டுள்ளது. விபத்து தொடர்பில் புதுக்குடியிருப்பு பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுவருகின்றனர்.
+
+◼️
+
+[Data](articles/158dd6cb.json)
 
 ---
 
@@ -131,6 +165,44 @@ Accordingly, a discussion is scheduled to hold a discussion at around 11am tomor
 [Data](articles/7bb1e14a.json)
 
 [Extended Data](ext_articles/7bb1e14a.ext.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தி இரண்டு மர்ம நபர்களின் கட்டுப்பாட்டின் கீழ் - சம்பிக்க ரணவக்க
+
+*2024-02-18 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176666) · `ta`
+
+ஐக்கிய மக்கள் சக்தி இரண்டு மர்மநபர்களின் கட்டுப்பாட்டின் கீழ் உள்ளது என நாடாளுமன்ற உறுப்பினர் சம்பிக்க ரணவக்க குற்றம்சாட்டியுள்ளார்.
+
+ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித்பிரேமதாச கட்சியின் ஆதரவாளர்கள் கட்சியிலிருந்து விலகிச்செல்லும் நிலையை உருவாக்குகின்றார் கட்சியை நாளாந்தம் பலவீனப்படுத்துகின்றார் என அவர் சண்டேடைம்சிற்கு தெரிவித்துள்ளார்.
+
+இதன் காரணமாகவே ஜேவிபியால் அதிகளவு மக்கள் ஆதரவை பெறமுடிந்துள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+
+எதிர்கட்சி தலைவர்களிற்கு அப்பால் வேறு இருவரின் கட்டுப்பாட்டின் கீழ் கட்சி உள்ளது என்பதை நான் தெரிவிக்கவேண்டியுள்ளது என தெரிவித்துள்ள சம்பிக்க ரணவக்க அவர்கள் யார் என்பதை நேரம்வரும்போது வெளியிடுவேன் எனவும் தெரிவித்துள்ளார்.
+
+ஐக்கிய மக்கள் சக்தி என்பது தற்போது குடும்ப வர்த்தகமாக மாறியுள்ளது கட்சிக்குள் கடும் அதிருப்தி நிலவுகின்றது ஜனநாயகம் என்ற எதுவும் கட்சிக்குள் இல்லை எனவும் சம்பிக்க ரணவக்க தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/f7366fbc.json)
+
+---
+
+### Iranian Foreign Minister to visit Sri Lanka
+
+*2024-02-18 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97368/iranian-foreign-minister-to-visit-sri-lanka) · `en`
+
+Minister of Foreign Affairs of the Islamic Republic of Iran, Dr. Hossein Amir Abdollahian will undertake an official visit to Sri Lanka from 19-21 February 2024, on an invitation extended by Minister of Foreign Affairs Ali Sabry.
+
+During this visit, the Iranian Foreign Minister is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. The visiting Minister and his delegation will also have official discussions with Minister Ali Sabry at the Ministry of Foreign Affairs.
+
+In August 2023, Foreign Minister Ali Sabry had bilateral discussions with Foreign Minister Dr. Hossein Amir Abdollahian during his visit to Tehran.
+
+Dr. Amir Abdollahian will be accompanied by senior officials from the office of the President, Ministry of Foreign Affairs, Ministry of Energy and other relevant Ministries of Iran.
+
+◼️
+
+[Data](articles/2d1fcc2f.json)
 
 ---
 
@@ -2055,83 +2127,5 @@ According to reports, this dire situation has forced authorities to accommodate 
 [Data](articles/97a25447.json)
 
 [Extended Data](ext_articles/97a25447.ext.json)
-
----
-
-### Sri Lanka coconut auction prices down 14-pct in 2024
-
-*2024-02-17 18:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-down-14-pct-in-2024-151237/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s average coconut prices fell 7.1 percent to 64,751 per 1,000 nuts at an auction on February 15, data from the Coconut Development Authority shows.
-
-Prices are down 14 percent from the last auction in December.
-
-The highest price was 75,200 rupees for 1,000 nuts down from 78,500 rupees a week ago, while the lowest was 57,000 up from 50,000 rupees.
-
-The auction offered 390,327 coconuts and 305256 nuts were sold.
-
-Wholesale prices were 95 to 100 rupees for large nuts and 80 to 90 rupees per small nut in the period of January 28 to Feb 01.
-
-Farmgate prices in Kurunegala were 70,000 to 72,000 rupees per 1,000 nuts.
-
-Coconut shells were 26,000 to 28,000 rupees a metric tonne. (Colombo/Jan17/2024)
-
-◼️
-
-[Data](articles/33b80bb3.json)
-
-[Extended Data](ext_articles/33b80bb3.ext.json)
-
----
-
-### Recollections of Law, Order and Discipline in the good old days
-
-*2024-02-17 18:39:00* · [`islandlk`](http://island.lk/recollections-of-law-order-and-discipline-in-the-good-old-days/) · `en`
-
-In an advanced state of age one cannot often remember the name of a person whose face is very familiar or for that matter, sometimes, what was eaten at dinner the previous evening. A younger friend recently said that when asked for the registration number of his car, he had to take a look at it from his office window.
-
-Strangely however, some events, significant or not in school and thereafter going back decades, come readily to mind. For instance Mr. P A Buultjens (a most outstanding cricketer in his day) claimed in his civics class in Form II in Trinity College that all man needs to live well were food, clothing and shelter. When then did education, health care, transport and other needs like security, human rights, entertainment come to be added to the list?
-
-...
-
-[Data](articles/4e1781ba.json)
-
-[Extended Data](ext_articles/4e1781ba.ext.json)
-
----
-
-### To Afghanistan to advantage
-
-*2024-02-17 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193513) · `si`
-
-The first Twenty-Twenty Twenty-cricket match between the Afghan group and Sri Lanka team will be held today.
-
-Accordingly, they decided to give the Sri Lankan team first to bat first.
-
-◼️
-
-[Data](articles/a7f4435a.json)
-
-[Extended Data](ext_articles/a7f4435a.ext.json)
-
----
-
-### Transformation, Reinvigoration and Reinvention: The Art and Life of George Keyt (1901 – 1993)
-
-*2024-02-17 18:31:00* · [`islandlk`](http://island.lk/transformation-reinvigoration-and-reinvention-the-art-and-life-of-george-keyt-1901-1993/) · `en`
-
-The material for this article has been drawn from the recently published work, George Keyt. The Absence of a Desired Image by SinhaRaja Tammita-Delgoda (Taprobane Collection, Sri Lanka 2023)
-
-Modernism appealed to Keyt’s temperament, liberating him as a man and an artist. Confined and stifled by the morals and conventions of the day, he had already broken with its social codes. Modern art and its innovation opened up a new path for him. Enabling him to be free, to be different and to be himself, it gave him the tools to interpret the new world and the new life he had carved out for himself.
-
-A revolutionary painter is one who wantonly breaks rules in order to liberate his expression from the bonds of academic art. Why must they do this? In order to create new forms…
-
-George Keyt, Modern Art and the East, Ceylon Observer, June 9. 1963
-
-...
-
-[Data](articles/11576edd.json)
-
-[Extended Data](ext_articles/11576edd.ext.json)
 
 ---

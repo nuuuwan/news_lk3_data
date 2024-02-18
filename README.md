@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 19:32:51**
+As of **2024-02-18 19:49:56**
 
 ## Newspaper Stats
 
-*Scraped **7,832** Articles*
+*Scraped **7,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 409
 dailyftlk | 415
 adalk | 667
 tamilmirrorlk | 953
-adaderanalk | 964
+adaderanalk | 965
 virakesarilk | 1,024
 adaderanasinhalalk | 1,141
 dailymirrorlk | 1,156
@@ -26,47 +26,73 @@ dailymirrorlk | 1,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,829 (100.0%) of 7,832 articles have been extended.
+7,833 (100.0%) of 7,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### රග්බි ශූරතාව CR & FC කණ්ඩායමට
+### Earthquake of 5.1 magnitude jolts Afghanistan
+
+*2024-02-18 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97374/earthquake-of-51-magnitude-jolts-afghanistan) · `en`
+
+An earthquake of magnitude 5.1 on the Richter scale was recorded in Afghanistan on Sunday evening, the National Centre for Seismology (NCS) said.
+
+According to the NCS, the tremors were felt at about 4:50 pm. The depth of the quake was recorded at 15 km.
+
+“Earthquake of Magnitude:5.1, Occurred on 18-02-2024, 16:50:32 IST, Lat: 36.68 & Long: 66.75, Depth: 15 Km , Location: Afghanistan,” the NCS said in a post on X. Further details awaited.
+
+◼️
+
+[Data](articles/5203146a.json)
+
+[Extended Data](ext_articles/5203146a.ext.json)
+
+---
+
+### Rugby Championship to CR & FC team
 
 *2024-02-18 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193552) · `si`
 
-අන්තර් සමාජ ලීග් රග්බි තරගාවලියේ ශූරතාව වසර 26කට පසුව දිනා ගන්නට CR ඇන්ඩ් FC කණ්ඩායමට අද හැකිවිය.
+CR & FC was able to win the championship of the Inter Club League Rugby Tournament.
 
-මහනුවර කණ්ඩායම ලකුණු 33ට 25ක් ලෙස පරාජය කරමින් CR ඇන්ඩ් FC කණ්ඩායම එහිදී ශූරතාව හිමිකරගත්තේය.
+The cr and FC won the championship defeated Kandy as 25 runs.
 
 ◼️
 
 [Data](articles/6f4a90c3.json)
 
+[Extended Data](ext_articles/6f4a90c3.ext.json)
+
 ---
 
-### පැට්ටා අවසානයේදී කොටුවෙයි
+### Patta eighteen Cell
 
 *2024-02-18 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193551) · `si`
 
-හෙරොයින් ග්‍රෑම් 10ක් සමග "පැට්ටා" පානදුර ප්‍රදේශයේදී වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Walana Central Alarm will be arrested in Panadura East with 10 grams heroin.
 
-එහිදී අදාළ කාන්තාව සන්තකයේ තිබී උපයාගත් ආකාරය තහවුරු කිරීමට නොහැකි වූ මුදලින් රුපියල් 2,247,450ක මුදලක් ද පොලීසිය සිය භාරයට ගෙන ඇත.
+The police also seized Rs. 2,247,450 million.
 
-සැකකාර කාන්තාව මේ වනවිට CIDභාරයේ සිටින කුඩු සලිඳුගේ මත්ද්‍රව්‍ය ජාලය ඩුබායි සිට මෙහෙයවන අසිත නැමැත්තාගේ බිරිඳගේ වැඩිමල් සොහොයුරිය බවට හෙළිවී තිබේ.
+The suspect is now the oldest sister of Asitha from Dubai, which is currently in CID.
 
-සැකකාර කාන්තාව විසින් තරංග නමින් හඳුන්වන සැකකරුගෙන් ලබාගත් මත්ද්‍රව්‍ය රහස් ප්‍රදේශයේ සඟවා සිය නිවස වෙත පැමිණි අවස්ථාවේ කළ වැටලීමකදී ඇයව අත්අඩංගුවට ගෙන ඇත.
+She was arrested when the suspect known by the suspect known by the Tharanga was hidden from the secret area.
 
-අදාළ නිවසේ පොලිස් නිලධාරීන්ට ඇතුල්වීමට නොහැකිවන ලෙස පුහුණුකරන ලද දරුණුගණයේ සුනඛයින් සිව්දෙනෙකු ඇතිකරන බවද විමර්ශන නිලධාරීන් හෙළිකරගෙන ඇත.
+Investigations have revealed that the police are unable to enter the house.
 
-එසේම වැටලීම සඳහා නිලධාරීන් පැමිණියහොත් ඔවුන් හඳුනාගැනීම සඳහා අධිසන්නිවේදන උපාංග භාවිත කර විශේෂ CCTV පද්ධතියක් ද සවිකර තිබීම විශේෂත්වයකි.
+It is noteworthy that the officers will also be installed to identify the overseers and also installed the Advisory CCTV system using the overseers.
 
-එසේම සැකකාර කාන්තාවට එරෙහිව හෙරොයින් ළඟ තබාගැනීමේ චෝදනාව යටතේ මේ වනවිටත් මහාධිකරණය හමුවේ නඩු දෙකක් විභාග වෙමින් පවතින බවද පොලීසිය පවසයි.
+He is still being heard in the High Court under the accusation of heroin against the suspect woman.
 
-...
+Also, the father of the woman, husband, and sister is also in custody due to heroin trafficking.
+
+The special operation has been carried out following information on the instructions of the Walana Central Corruption Board Director General.
+
+◼️
 
 [Data](articles/90a12b83.json)
+
+[Extended Data](ext_articles/90a12b83.ext.json)
 
 ---
 
@@ -152,19 +178,21 @@ Heavy weapons have been taken to police in the housing sources and the foundatio
 
 ---
 
-### මහාධිකරණ විනිසුරුවරයෙකුගේ නිවස සොරු බිඳියි
+### House of a High Court Judge breaks thieves
 
 *2024-02-18 17:54:15* · [`adalk`](https://www.ada.lk/breaking_news/මහාධිකරණ-විනිසුරුවරයෙකුගේ-නිවස-සොරු-බිඳියි/11-408155) · `si`
 
-කොළඹ අලුත්කඩේ සිවිල් අභියාචනාධිකරණයේ  මහාධිකරණ විනිසුරුවරයෙකුගේ  කිරුළපන ශ්‍රී සිද්ධාර්ථ මාවතේ දෙමහල් නිවසින්  රුපියල් 271500/= දේපළ සොරාගෙන ගොස් ඇති බවට  පැමිණිල්ලක් ලැබී ඇතැයි කිරුළපන පොලිසිය කියයි.
+The Kirulapone Police say that the two storied house was stolen at the two storied judges of the Civil Court of Civil Court of Civil Court of Civil Court of Civil Court of Appeal.
 
-සොරාගෙන ගිය දේපළ අතර රුපියල් 250000/= වටිනා BlANCHI වර්ගයේ පාපැදියක් , රුපියල් 20000/= වටිනා  අත් දිග කමිස දෙකක් හා මුදලින් රුපියල් 1500 ක් සොරකම් කර ඇති බවට පැමිණිල්ලේ සඳහන් වේ
+A Blanchi type of bicycling of Rs.
 
-මෙම මස 14 වෙනි දිනත්  16 වෙනි දිනත්  අතර කාලය තුළදී මෙම සොරකම සිදුවී ඇති බව මහාධිකරණ විනිසුරුවරයා ඊ‌යේ 17 වෙනි දින  කරන ලද පැමිණිල්ලේ සඳහන් වන බව උසස් පොලිස්  නිලධාරියෙක් පැවසීය. කිරුළපන පොලිසිය පරීක්ෂණ පවත්වයි
+The High Court Judge said that the theft had taken place during the 14th and 16th of this month.Kirulapone police are conducting further investigations
 
 ◼️
 
 [Data](articles/242aebc9.json)
+
+[Extended Data](ext_articles/242aebc9.ext.json)
 
 ---
 
@@ -2127,33 +2155,5 @@ In this case, Hazaranga, who had boldly raised himself in the field of batting, 
 [Data](articles/81a22e9a.json)
 
 [Extended Data](ext_articles/81a22e9a.ext.json)
-
----
-
-### Lady Mali win Sri Lanka
-
-*2024-02-17 23:03:34* · [`adalk`](https://www.ada.lk/sports/පොඩි-මාලි-ලංකාවට-ජය-ගෙනෙයි/9-408141) · `si`
-
-Sri Lanka wins 4 runs win by 4 runs in the first Twenty20 match between the Afghanistan and the Sri Lanka team.
-
-Batting first Sri Lanka scored 160 runs in 19 overs. Leader Mountma Hasar was scored 67 runs in 32 balls and no other batsmen could not exceed the 30 marks.
-
-Chasing a 161-run target, Afghanistan won only 156 runs for the loss of 9 wickets at the end of 20 overs.
-
-Afghanistan's quaters are challenging to Sri Lanka and raised rapidates. However, Sri Lankan bowlers were challenging to Afghanistan and retaliated.
-
-The Afghanistan team tried to win the opening batsman and the leader of Ibraham until the end of 20 overs.
-
-At least 18 overs, the Afghan group scored 147 runs for the loss of 7 wickets.
-
-However, the 21th decisive overdroad Visubet Pathirana, which had been thrown into two rivalry 2 wickets in the same court, was created to win the match.
-
-Ibrahim was unable to collect one sign in the first four balls of the first ball of the final ball and scored 2 runs for the fifth and 4 runs.
-
-...
-
-[Data](articles/bd19822b.json)
-
-[Extended Data](ext_articles/bd19822b.ext.json)
 
 ---

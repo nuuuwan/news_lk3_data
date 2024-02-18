@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 10:50:10**
+As of **2024-02-18 11:02:30**
 
 ## Newspaper Stats
 
-*Scraped **7,765** Articles*
+*Scraped **7,768** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 657
 tamilmirrorlk | 945
 adaderanalk | 955
 virakesarilk | 1,018
-adaderanasinhalalk | 1,123
-dailymirrorlk | 1,142
+adaderanasinhalalk | 1,125
+dailymirrorlk | 1,143
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,765 (100.0%) of 7,765 articles have been extended.
+7,765 (100.0%) of 7,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### කැපුම් තුවාල සහිත අභිරහස් මරණයක්
+
+*2024-02-18 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193535) · `si`
+
+තිදරු මවක කැපුම් තුවාල සහිත ව අභිරහස් ලෙස මිය ගොස් ඇති බව අලුත්ගම පොලීසිය පවසයි.
+
+ඊයේ (17) රාත්‍රී 08.30ට පමණ එම සිද්ධිය වාර්තා වූ බව පොලීසිය වාර්තා කර ඇත.
+
+එසේ මිය ගොස් ඇත්තේ, මොරගල්ල - කාලවිලවත්ත ප්‍රදේශයේ පදිංචි ව සිටි එස්.ශිරානි ලක්ෂිකා කුමාරි නමැති 47 හැවිරිදි කාන්තාවකි.
+
+මිය ගොස් ඇති කාන්තාව මුහුණේ කැපුම් තුවාල සහිත ව නිවසේ වැටී සිට ඇති අතර, ඇය ව බේරුවල ප්‍රාදේශීය රෝහලට රැගෙන ගොස් ඇතත් ඒ වන විටත් ඇය මිය ගොස් සිට ඇති බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+
+ඒ අනුව පොලිස් විමර්ශනවල දී නිවසේ නිදන කාමරයේ, මැදසාලය සහ ඉදිරිපස දොරටු අසල ලේ පැල්ලම් දක්නට ලැබෙන බව පෙනී ගොස් ඇත.
+
+මරණකාරිය මෙම සිද්ධියට මුහුණ පාන අවස්ථාවේ නිවස තුළ කාන්තාවගේ ස්වාමියා, පුතකු සහ දියණියක එම නිවසේ සිට ඇති බවට තහවුරු වී ඇති බව පොලීසිය පවසයි.
+
+කෙසේ වෙතත් ඔවුන් පොලීසියට ප්‍රකාශ කර ඇත්තේ, ඔවුන්ගේ මව තුවාල සහිත ව නිවසේ ඉදිරිපස ප්‍රධාන දොරටුව අසල වැටී සිටිය දී රෝහල්ගත කළ බව ය.
+
+මේ වන විට පොලීසිය, ඝාතනය සිදු කළ කාන්තාවගේ ස්වාමියාගෙන් දරුවන් දෙදෙනාගෙන් ප්‍රශ්න කිරීම් කටයුතු සිදු කරමින් පවතියි.
+
+...
+
+[Data](articles/3b5a8fe7.json)
+
+---
 
 ### Man arrested for sexually harassing police officer in public transport
 
@@ -89,6 +115,24 @@ On 22 January 2024, Sri Lanka Police launched a special project through which tr
 [Data](articles/42a1965b.json)
 
 [Extended Data](ext_articles/42a1965b.ext.json)
+
+---
+
+### අතවර සෙවීමට බස් රථයට නැඟි පොලිස් නිලධාරිනියටත් අතවරයක්
+
+*2024-02-18 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193534) · `si`
+
+ළමා හා කාන්තා හිංසනයන් ගැන සෙවීමට බස් රථයට නැඟි පොලිස් උපාය දූතිකාවකට පෞද්ගලික ආරක්ෂක නිලධාරියෙකු ලිංගික අතවර කර ඇති බව වාර්තා වේ.
+
+සැකකරු, අත්අඩංගුවට ගැනීමෙන් පසු නුවරඑළිය මහෙස්ත්‍රාත්වරයා වෙත ඉදිරිපත් කිරීමෙන් පසු එළැඹෙන 22 වැනි දා දක්වා රක්ෂිත බන්ධනාගාරගත කර ඇත.
+
+අත්අඩංගුවට ගෙන ඇත්තේ, වැලිමඩ ප්‍රදේශයේ පදිංචි පෞද්ගලික ආරක්ෂක සේවයේ නියුතු වයස අවුරුදු 44ක පුද්ගලයෙකි.
+
+රටපුරා ක්‍රියාත්මක කෙරෙන යුක්තිය මෙහෙයුමට සමගාමි ව පොදු ප්‍රවාහන සේවාවන් හරහා ගමන් කරන කාන්තාවන්ට හා බාල වයස්කාර දරුවන්ට සිදු වන ලිංගික අතවර වැළැක්වීමේ අරමුණෙන් ක්‍රියාත්මක මෙහෙයුම අතර දී සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/96d07fbf.json)
 
 ---
 
@@ -1338,6 +1382,26 @@ According to reports, this dire situation has forced authorities to accommodate 
 
 ---
 
+### Prison hospital congestion reaches critical levels
+
+*2024-02-17 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Prison-hospital-congestion-reaches-critical-levels/155-277242) · `en`
+
+Colombo, Feb 17 (Daily Mirror) - It has been revealed that the current capacity at the prison hospital has reached unprecedented levels, raising grave concerns among authorities.
+
+Speaking to the Daily Mirror, media spokesperson of the Prisons Department Gamini B. Dissanayake said the current inmate count at the facility stands at 350, significantly exceeding its capacity of 185.
+
+The matter has sparked serious concerns among the authorities and measures are underway to mitigate congestion.
+
+However, Dissanayake asserted that there is no possibility of expanding the hospital capacity but the overcrowding will be eased as patients get discharged on a regular basis.
+
+According to reports, this dire situation has forced authorities to accommodate two patients in a single bed due to the lack of space.
+
+◼️
+
+[Data](articles/97a25447.json)
+
+---
+
 ### Sri Lanka coconut auction prices down 14-pct in 2024
 
 *2024-02-17 18:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-down-14-pct-in-2024-151237/) · `en`
@@ -2025,63 +2089,5 @@ A collective of 72 health sector trade unions recently carried out an island-wid
 [Data](articles/f03729fc.json)
 
 [Extended Data](ext_articles/f03729fc.ext.json)
-
----
-
-### Four students have been hospitalized for drinking drugs
-
-*2024-02-17 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193505) · `si`
-
-Four students in the Maduragoda area have been hospitalized due to drinking drugs.
-
-A student hospitalized has been admitted to the Kurunegala General Hospital due to an allergic caused by his father to school.
-
-The police said that the father of the child who was taken to alcohol to school heroin, heroin was a tight addict.
-
-The Maduraagoda Police Station is conducting further investigations.
-
-◼️
-
-[Data](articles/9bde245b.json)
-
-[Extended Data](ext_articles/9bde245b.ext.json)
-
----
-
-### Notification of a massive career action
-
-*2024-02-17 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193504) · `si`
-
-The Ceylon Teachers 'Service Union states that if the government fails to solve problems with the salary anomalies of the teacher's salary anomalies, the Ceylon Teachers' Service Union states.
-
-After the discussion of the issues in the education sector, they made this statement since the discussion held yesterday (16).
-
-The meeting has been discussed at length, and the teacher's salary anomalies have also been discussed in the face of problems.
-
-The Trade Union Representatives stated that the Minister's attention was also referred to the request made by the trade unions to stop the names of the school builders.
-
-◼️
-
-[Data](articles/9438a53b.json)
-
-[Extended Data](ext_articles/9438a53b.ext.json)
-
----
-
-### Policy framework sent to Parliament for transformational change in education sector: Minister
-
-*2024-02-17 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Policy-framework-sent-to-Parliament-for-transformational-change-in-education-sector-Minister/108-277233) · `en`
-
-Colombo, Feb 17 (Daily Mirror) - A policy framework has been sent to Parliament for a transformational change in the education sector in the country, which has been discussed for many years, Education Minister Susil Premajayantha said.
-
-While attending a meeting held at the National Institute of Education to discuss the current problems and challenges in the education sector as well as future education reforms, the Minister said that actions taken for a transformational change in the education sector should be implemented step by step and there should be a strong foundation for that.
-
-The Minister further stated that if any change is made, the structure should be prepared to withstand the change and that the necessary steps are being taken to prepare the structure correctly.
-
-...
-
-[Data](articles/2f0ce35b.json)
-
-[Extended Data](ext_articles/2f0ce35b.ext.json)
 
 ---

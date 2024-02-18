@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 12:32:48**
+As of **2024-02-18 12:50:07**
 
 ## Newspaper Stats
 
-*Scraped **7,782** Articles*
+*Scraped **7,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 87
 bbccomsinhala | 99
 dbsjeyarajcom | 153
 newsfirstlk | 363
-economynextcom | 400
+economynextcom | 401
 islandlk | 409
 dailyftlk | 415
 adalk | 658
-tamilmirrorlk | 947
-adaderanalk | 956
-virakesarilk | 1,021
+tamilmirrorlk | 948
+adaderanalk | 958
+virakesarilk | 1,022
 adaderanasinhalalk | 1,127
 dailymirrorlk | 1,147
 
@@ -26,23 +26,117 @@ dailymirrorlk | 1,147
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,778 (99.9%) of 7,782 articles have been extended.
+7,787 (100.0%) of 7,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### මීගොඩ වෙඩි තැබීමේ සිද්ධියේ ප්‍රධාන සැකකරුවන් අත්අඩංගුවට
+### The cost of carrots is low
+
+*2024-02-18 12:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கேரட்டின்-விலை-குறைந்தது/76-333373) · `ta`
+
+In Nuwara Eliya, the price of a kilogram of carrots sold over Rs 2,000 in Nuwara Eliya fell to 360 rupees on Sunday (18).
+
+The prices of carrots in the Nuwara Eliya Special Economic Center have fallen to 360 rupees and the price of vegetables has fallen due to an increase in the price of vegetables.
+
+Due to the excellent weather conditions in Nuwara Eliya and its adjacent areas, the prices of all vegetables in the hill country have declined.
+
+◼️
+
+[Data](articles/c784dfbb.json)
+
+[Extended Data](ext_articles/c784dfbb.ext.json)
+
+---
+
+### South Asian nationals who illegally entered Australia by boats
+
+*2024-02-18 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176663) · `ta`
+
+More than 40 asylum seekers have been taken to Nawru who have boarded a boat to a distant area in West Australia.
+
+More than 30 asylum seekers visited the Peaklbe area on Friday, and more than 15 people went to the Penter Bay area.
+
+It has been reported that 12 Bangladeshi citizens and one Indian have been found illegally entered into Australia.
+
+Home Minister Clara O Nayil said the government's commitment to the sovereignty border operation was very firm.
+
+After I became a minister, all those who tried to enter Australia illegally have been sent back to their country or sent to a detention center.
+
+20 people from Pakistan Bangladeshi have been fired by boats to West Australia's Biqlbe.
+
+They are in good health.
+
+Meanwhile, the Australian border forces who have gone to the area are investigating them.
+
+The Australian Border Security Force has said that none of the illegal boats will be allowed due to Australia's heavy border security policies.
+
+I have been living in Australia before I am from Pakistan.
+
+...
+
+[Data](articles/be4f394e.json)
+
+[Extended Data](ext_articles/be4f394e.ext.json)
+
+---
+
+### Keegoda shooting incident arrested
 
 *2024-02-18 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193538) · `si`
 
-මීගොඩ ආර්ථික මධ්‍යස්ථානයේ වෙඩි තැබීමේ සිද්ධියට සම්බන්ධ තුවක්කුකරු සහ යතුරුපැදිකරු අත්අඩංගුවට ගෙන තිබේ.
+The gunman and motorcyclist arrested for shooting incident at the Meegoda Economic Center.
 
-මේ අතර, වෙඩි තැබීමට යොදාගත් යතුරුපැදිය සහ ගිනි අවිය ද පොලිස් විශේෂ කාර්ය බළකාය විසින් සොයා ගැනිණි.
+Meanwhile, the motorcycle used to shoot and the firearm were found by the STF.
 
 ◼️
 
 [Data](articles/47b44583.json)
+
+[Extended Data](ext_articles/47b44583.ext.json)
+
+---
+
+### Two including gunman in Meegoda economic centre shooting arrested
+
+*2024-02-18 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97367/two-including-gunman-in-meegoda-economic-centre-shooting-arrested) · `en`
+
+Police have arrested the gunman and the motorcycle rider involved in the recent shooting incident at the Meegoda Economic Centre.
+
+According to police, the motorcycle and weapon used for the shooting have also been recovered by the Police Special Task Force (STF).
+
+Earlier today (18 Feb.), police reported that two suspects had been arrested in the Kirillalawala area in Kadawatha, in connection with the shooting, while the motorcycle used by the assailants along with a helmet, a knife and a shirt were also recovered from the room of a restaurant.
+
+The owner of the said restaurant who had kept the motorcycle hidden and another individual who had provided the suspects with accommodation have been arrested by police for allegedly aiding and abetting the shooting incident.
+
+The arrested suspects are aged 39 and 44 years while they are residents of Imbulgama and Kadawatha respectively.
+
+...
+
+[Data](articles/5f8c8688.json)
+
+[Extended Data](ext_articles/5f8c8688.ext.json)
+
+---
+
+### Police arrest 418 more suspects as operation ‘Yukthiya’ continues
+
+*2024-02-18 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97366/police-arrest-418-more-suspects-as-operation-yukthiya-continues-) · `en`
+
+Another 418 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (18 Feb.), as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+According to the Ministry of Public Security, detention orders have been secured against 8 of the suspects, while 2 arrestees were sent to rehabilitation centres.
+
+Among the 418 arrestees are 8 suspects who had open warrants against them over narcotics-related charges and 113 others who had open warrants against them over non-drug related charges.
+
+The narcotics taken into custody during this period include 133g of heroin, 103g of crystal methamphetamine (Ice), nearly 8kg of cannabis and 447 narcotic pills.
+
+◼️
+
+[Data](articles/919984df.json)
+
+[Extended Data](ext_articles/919984df.ext.json)
 
 ---
 
@@ -114,6 +208,8 @@ Further investigations revealed that a top floor of a building in Polgasovita, K
 
 [Data](articles/f4c8abc3.json)
 
+[Extended Data](ext_articles/f4c8abc3.ext.json)
+
 ---
 
 ### Charles Ambrose Lorenz: an unsung artist of the 19th century
@@ -160,19 +256,21 @@ He said that once this project is put forward, you will know how your life will 
 
 ---
 
-### තක්ෂින් ෂිනවත් නිදහස ලබයි
+### Thaksin Shire is released
 
 *2024-02-18 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193536) · `si`
 
-දූෂණ අක්‍රමිකතා චෝදනා මත සිරදඩුවම් නියම ව සිටි තායිලන්ත හිටපු අග්‍රාමාත්‍ය තක්ෂින් ෂිනවත් නිදහස ලබා බැංකොක්හි පිහිටි සිය මන්දිරය වෙත පැමිණ තිබිණි.
+Former Prime Minister Thaksin, who was in prison, was released on the Freedom of Thaksin, and in Bangto.
 
-කෙසේ වෙතත් සෞඛ්‍ය හේතුන් මත ඔහු එරට පොලිස් රෝහලක රඳවා සිටි අතර, එක්දිනක් හෝ බන්ධනාගාරයේ රැඳී නොසිටි බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+However, he said he was detained in a police hospital hospital hospital and was not staying in the prison.
 
-දුෂණ අක්‍රමිකතා චෝදනා මත තක්ෂින් ෂිනවත්ට වසර 08ක සිරදඬුවමක් නියම වී තිබුණ  ද තායිලන්ත රජු විසින් එය වසරක් දක්වා අඩු කිරිමට පියවර ගනු ලැබීය.
+Thaksin Shin was sentenced to eight years in prison on corruption irregularities, but Thailand was reduced to one year.
 
 ◼️
 
 [Data](articles/3ad288af.json)
+
+[Extended Data](ext_articles/3ad288af.ext.json)
 
 ---
 
@@ -576,6 +674,26 @@ The deceased has been identified as 62 year old Gininiyagala - a resident of Nam
 
 ---
 
+### Sri Lanka upfront import duties, para tariffs keep foreign investors out: ex-BOI chief
+
+*2024-02-18 08:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-upfront-import-duties-para-tariffs-keep-foreign-investors-out-ex-boi-chief-151242/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s excessive protectionist taxes with import duties and para-tariffs on capital goods are a barrier to foreign direct investments in the island rather than income tax, a former head of the island’s investment promotion office said.
+
+Sri Lanka has been trying to phase out tax holidays and concessions given for Board of Investment approved firms, especially under a Strategic Development Project Act where discretionary concessions are believed to be fostering corruption.
+
+But the excessive import protection and para tariffs on capital are not found in other countries with open or export-oriented economies. East Asian nations in particular are subject to stringent free trade requirements under the ASEAN.
+
+Sri Lanka is taxing building materials in particular at high rates, including, steel, tiles, aluminum and also cement to some degree to give ‘rents’ or excessively fat profits to politically powerful ‘domestic industry’ businessmen, critics say.
+
+...
+
+[Data](articles/12f55d53.json)
+
+[Extended Data](ext_articles/12f55d53.ext.json)
+
+---
+
 ### Two arrested by Meegoda shooting motorcycle arrested
 
 *2024-02-18 08:30:02* · [`adalk`](https://www.ada.lk/breaking_news/මීගොඩ-වෙඩි-තැබීමේ-යතුරු-පැදිය-සඟවාගෙන-සිටි-දෙදෙනෙක්-අල්ලයි/11-408143) · `si`
@@ -959,6 +1077,8 @@ Yasmine Gooneratne relocated to  Australia in 1972. In 1981, she received the fi
 ...
 
 [Data](articles/834b571d.json)
+
+[Extended Data](ext_articles/834b571d.ext.json)
 
 ---
 
@@ -1995,119 +2115,5 @@ However, though, a respected religious leader or union chairman will be able to 
 [Data](articles/aae9576b.json)
 
 [Extended Data](ext_articles/aae9576b.ext.json)
-
----
-
-### Mannar girl abused, strangled and murdered;Autopsy report
-
-*2024-02-17 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176628) · `ta`
-
-An autopsy has reported that a 10 -year -old girl in Mannar has been raped and strangled.
-
-The body of a 10 -year -old girl was found dead yesterday at the village of Talaannar Urmani, who was found dead on Friday.
-
-It was found that the girl was strangled and murdered after being raped.
-
-A 52 -year -old man from Trincomalee - Kuchchaveli, who was working in the South, near the girl's home, has been arrested on suspicion.
-
-The girl was reported missing on Thursday evening.
-
-Subsequently, the body of the girl was recovered from the south of the area on Friday morning when the people of the area were searching.
-
-The girl's mother and father were living in the village of Puttalam - Pukkulam village and the girl and her two elderly sisters were living with her brother's mother at the home of Ammamma.
-
-◼️
-
-[Data](articles/fcf071c7.json)
-
-[Extended Data](ext_articles/fcf071c7.ext.json)
-
----
-
-### Notice of a fake application
-
-*2024-02-17 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193509) · `si`
-
-The Sri Lanka Bureau of Foreign Employment has requested the public to not be deceived by the circulation of the Internet.
-
-The Bureau emphasizes that an application has not yet been published on the Bureau website and is only a description of the information.
-
-An application pertaining to the Korean Language Examination in 2024 is still stressed that the application form is a false application form that has nothing to do with the Korean language examination.
-
-The Bureau is also officially established that the examination application is fake.
-
-The Sri Lanka Bureau of Foreign Employment has requested the public to avoid providing information to those fake Google Forms.
-
-The Bureau says that the candidates who wish to sit for the Korean examination at the Korean Examination will be based on the instruction of the Foreign Employment Bureau website www.slbfe.lk.
-
-...
-
-[Data](articles/c75b88fa.json)
-
-[Extended Data](ext_articles/c75b88fa.ext.json)
-
----
-
-### Iron box in Jaffna
-
-*2024-02-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176629) · `ta`
-
-The iron box was seen as an orphanage in the Jaffna city on Saturday morning, fearing that there was a bomb.
-
-Subsequently, the police informed the Jaffna Police Station and the police rushed to the spot and searched the box.
-
-◼️
-
-[Data](articles/bf89c878.json)
-
-[Extended Data](ext_articles/bf89c878.ext.json)
-
----
-
-### Britain’s oldest warship named HMS Trincomalee
-
-*2024-02-17 16:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Britains-oldest-warship-named-HMS-Trincomalee/108-277239) · `en`
-
-The HMS Trincomalee which was constructed in 1817 in Mumbai stands as the Royal Navy's last ship built in India, boasting over two centuries of history.
-
-According to the National Museum of the Royal Navy, prior to its current mooring in Hartlepool, this illustrious ship sailed more than 100,000 miles worldwide. Remarkably, HMS Trincomalee never engaged in battle but holds a rich narrative of service, ranging from patrol and protection to exploration.
-
-Now anchored in Hartlepool, HMS Trincomalee represents one of the two Leda-Class Frigates commissioned by the Royal Navy in 1812. Its name commemorates the 1782 Battle of Trincomalee off the coast of the Indian subcontinent, the historic clash between British and French fleets during the Anglo-French War (1778-1783).
-
-The choice to build in India was influenced by a scarcity of oak in England, exacerbated by the ongoing Napoleonic Wars, and the strategic location of Bombay.
-
-...
-
-[Data](articles/ba9a9979.json)
-
-[Extended Data](ext_articles/ba9a9979.ext.json)
-
----
-
-### Officers involved in bus fraud suspended
-
-*2024-02-17 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193508) · `si`
-
-Transport, Highways and Mass Media Minister Dr. Bandula Gunawardena says that the suspects were banned by the removal of the SLTB buses and boarding the SLTB buses.
-
-It is with a fraud that had been changed and repaired by a bus that was spent on repairing.
-
-The second stage of 200 buses who were removed from running was held on the 9th.
-
-It is the chairman of Prime Minister Dinesh Gunawardena and Transport Minister Bandula Gunawardena.
-
-Under this, the Depot to the Ampara depot and the buses were paid Rs.
-
-The bus bearing the NB-5430 removed from the drive is to repair the bus.
-
-However, the Ampara Depot authorities have done the bus depot authority to the festive ceremony to a bus, which was traveling by the bus.
-
-The Ceylon Transport Board is conducting an investigation into the incident.
-
-◼️
-
-[Data](articles/7125e63b.json)
-
-[Extended Data](ext_articles/7125e63b.ext.json)
 
 ---

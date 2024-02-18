@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 10:17:42**
+As of **2024-02-18 10:33:13**
 
 ## Newspaper Stats
 
-*Scraped **7,763** Articles*
+*Scraped **7,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 400
 islandlk | 409
 dailyftlk | 415
 adalk | 657
-tamilmirrorlk | 944
+tamilmirrorlk | 945
 adaderanalk | 954
 virakesarilk | 1,018
 adaderanasinhalalk | 1,123
@@ -26,11 +26,29 @@ dailymirrorlk | 1,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,758 (99.9%) of 7,763 articles have been extended.
+7,763 (100.0%) of 7,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### நடிகர் விஜய் கட்சி பெயரில் திடீர் மாற்றம்
+
+*2024-02-18 09:52:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-விஜய்-கட்சி-பெயரில்-திடீர்-மாற்றம்/175-333369) · `ta`
+
+நடிகர் விஜய் 'தமிழக வெற்றி கழகம்' என்ற கட்சியை தொடங்கியுள்ளார். கட்சி தொடங்கிய அறிவிப்பை கடந்த 2ம் திகதி விஜய் அதிகாரபூர்வமாக அறிவித்தார்.தேர்தல் ஆணையம் அங்கீகாரம் வழங்கியதும் கட்சியின் கொடி, சின்னம் அறிவிக்கப்படும் என்று அவர் அறிவித்துள்ளார்.
+
+இந்த நிலையில் 'தமிழக வெற்றி கழகம்' என்ற விஜய்யின் கட்சி பெயரில், 'க்' விடுபட்டுள்ளதாக தமிழ் ஆர்வலர்கள் பலரும் சுட்டிக் காட்டினர். கட்சிப் பெயரிலேயே தவறு இருப்பதாக பிற கட்சியினரும் சமூக வலைதளங்களில் விமர்சித்து வந்தனர்.
+
+இதனை தொடர்ந்து தனது கட்சியின் பெயரில் 'க்' சேர்த்து 'தமிழக வெற்றிக் கழகம்' என்று மாற்ற நடிகர் விஜய் ஒப்புதல் அளித்தார்.
+
+தொடர்ந்து அக்கட்சியின் அதிகாரபூர்வ சமூக வலைதள பக்கங்களில் 'க்' சேர்த்து 'தமிழக வெற்றிக் கழகம்' என்று பெயர் மாற்றம் செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/a70ac810.json)
+
+---
 
 ### Nearly 800 traffic offenders identified through CCTV system in first 15 days of February
 
@@ -48,25 +66,33 @@ On 22 January 2024, Sri Lanka Police launched a special project through which tr
 
 [Data](articles/42a1965b.json)
 
+[Extended Data](ext_articles/42a1965b.ext.json)
+
 ---
 
-### யுக்திய சுற்றிவளைப்பு;நீதிமன்றம் அதிரடி உத்தரவு
+### The Action Order of the Court of Action
 
 *2024-02-18 09:10:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-சுற்றிவளைப்பு-நீதிமன்றம்-அதிரடி-உத்தரவு/175-333368) · `ta`
 
-'யுக்திய' விசேட நடவடிக்கையின் போது பொலிஸாரால் கைப்பற்றப்பட்ட பல வாகனங்களை பதிவு செய்யப்பட்ட உரிமையாளர்களிடம் ஒப்படைக்குமாறு நீதிமன்ற உத்தரவு பிறப்பிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+It has been ordered to hand over several vehicles seized by the police during the special operation of the 'tactic'.
 
-கடுவல நீதவான் நீதிமன்றம் இந்த உத்தரவைப் பிறப்பித்துள்ளதுடன், ஏறக்குறைய 100 மில்லியன் ரூபா பெறுமதியான வாகனங்களை அதன் பதிவு செய்யப்பட்ட உரிமையாளர்களிடம் ஒப்படைக்குமாறு குற்றப் புலனாய்வுத் திணைக்களத்திற்கு (CID) அறிவுறுத்தியுள்ளது.
+The Kaduwela Magistrate's Court has issued the order and has instructed the Criminal Investigation Department (CID) to hand over approximately 100 million rupees to its registered owners.
 
-விசாரணைக்காக வாகனங்களை மேலும் தடுத்து வைக்க பொலிஸார் விடுத்த கோரிக்கையையும் நீதவான் நிராகரித்துள்ளார்.
+The magistrate has also rejected the request of the police to further detaine the vehicles for investigation.
 
-வழக்கு விசாரணையின் போது, ​​மேற்படி சொத்துக்களை கையகப்படுத்துவதற்கு உயர் நீதிமன்றத்தில் முறையான உத்தரவுகள் பெறப்படவில்லை என பாதுகாப்பு சபை குற்றம் சாட்டியது.
+During the trial, the Security Council accused the High Court of not getting formal orders to acquire the assets.
 
-இலங்கையில் போதைப்பொருள் தொடர்பான நடவடிக்கைகளை கட்டுப்படுத்தும் நோக்கில் கடந்த வருடம் டிசம்பர் மாதம் பொலிஸாரால் 'யுக்திய' விசேட நடவடிக்கை ஆரம்பிக்கப்பட்டது.
+In December last year, a special operation was launched by the police to curb drug -related operations in Sri Lanka.
 
-...
+It is reported that Kaduwela police have seized several vehicles belonging to the "Velika Sutta" sister known as Malalake Sudath Kitziri, allegedly a drug trafficker, and handed over to the Criminal Investigation Department.
+
+Kaduwela police have seized five luxury buses, luxury vehicle and motorcycle from the woman.
+
+◼️
 
 [Data](articles/15088b19.json)
+
+[Extended Data](ext_articles/15088b19.ext.json)
 
 ---
 
@@ -90,21 +116,25 @@ The demonstration, slated to commence from Kandy, is expected to witness the act
 
 ---
 
-### சுகாதார சிற்றூழியர் போராட்டம்;அதிரடி தகவல்கள்
+### Health Struggle Struggle; Action Information
 
 *2024-02-18 09:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-சிற்றூழியர்-போராட்டம்-அதிரடி-தகவல்கள்/175-333367) · `ta`
 
-வைத்தியசாலை நிர்வாகத்தில் அவர் உள்நுழைந்ததால், வைத்தியசாலையில் பணிபுரியும் 200 சிறு தொழிலாளர்கள் கொழும்பில் உள்ள தேசிய மருத்துவமனையில் (NHC) போதை வணிகத்தைத் தொடர முடியாமல், அவருக்கு எதிராக ஆர்ப்பாட்டத்தில் ஈடுபட்டனர் என்று NHC துணைப் பணிப்பாளரும் மற்றும் அரசாங்க மருத்துவ அதிகாரிகள் மன்றத்தின் (GMOF) தலைவர் வைத்தியர் ருக்ஷன் பெல்லான தெரிவித்தார்.
+The NHC Deputy Director and the President of the Government Medical Officers forum (GMOF), Dr. Rukshan Bellana, said that 200 small workers at the hospital (NHC) were unable to continue the drug trade in Colombo, as he entered the hospital administration.
 
-தனது கோரிக்கையை அடுத்து, பொலிஸ் மா அதிபர் (IGP) வைத்தியசாலைக்கு விஜயம் செய்து, வைத்தியசாலையில் போதைப்பொருள் விற்பனையை நிறுத்துவதற்காக பொலிஸ் பிரிவை நிறுவியதாக அவர் டெய்லி மிரருக்கு தெரிவித்தார்.
+Following his request, he told the Daily Mirror that the Inspector General of Police (IGP) had visited the hospital and set up a police unit to stop the drug selling at the hospital.
 
-"எனவே, போதைப்பொருள் பாவனையை ஒழிக்கும் பணியில் ஈடுபட்டிருந்த என்னை விரட்டியடிக்கும் வகையில் போதைப்பொருள் விற்பனையில் ஈடுபட்ட சிறு ஊழியர்கள் ஒன்று கூடி போராட்டங்களை நடத்தினர்," என்று அவர் மேலும் கூறினார்.
+"Therefore, small employees who were involved in drug sales gathered together to chase me out of the use of drug use," he added.
 
-"போதைக்கு அடிமையானவர்களில் பெரும்பாலானோர் மருத்துவமனைக்குள்ளேயே மருந்துகளை எடுத்துக்கொள்கிறார்கள், வியாபாரம் செய்கிறார்கள், மருந்துகளை உட்கொண்ட பிறகு நோயாளிகளைப் பார்த்துக்கொள்கிறார்கள்" என்று பெல்லானா கூறினார்.
+"Most of the addiction addicts take medication inside the hospital, do business, and take care of patients after taking medication," Bellana said.
+
+“Many patients have complained to the hospital administration that their goods are stolen. Patients and doctors' laptops, mobile phones and other medical products are plundered. They steal parts of the vehicles of doctors parked near the hospital. ”
 
 ...
 
 [Data](articles/4418488e.json)
+
+[Extended Data](ext_articles/4418488e.ext.json)
 
 ---
 
@@ -130,21 +160,25 @@ About 1,500 police officers were deployed to control the protest and more than 2
 
 ---
 
-### இன்றைய வானிலை முன்னறிவிப்பு
+### Today's weather forecast
 
 *2024-02-18 08:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-முன்னறிவிப்பு/175-333366) · `ta`
 
-சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களில்  பிற்பகல் நான்கு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has said that rain or thunderstorms will be expected after four o'clock in the afternoon.
 
-மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும், வடக்கு, கிழக்கு, வடமத்திய, வடமேல், மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மற்றும் கண்டி மாவட்டங்களிலும்   மணித்தியாலத்திற்கு சுமார் 30 ‐ 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும் என எதிர்பார்க்கப்படுகிறது.
+Heavy winds are expected to blow at a speed of about 30 - 40 km / h in the Eastern slopes of the Central Highlands, the North, Eastern, North, North Western and Uva provinces, as well as in Hambantota and Kandy districts.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+The public is asked to act with vigilance in cases where strong winds and lightning are occurring.
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 25 - 35 கிலோமீற்றர் வேகத்தில் வடகிழக்குத்  திசையில் இருந்து  காற்று வீசும்.
+Winds from the northeast at 25 - 35 kilometers per hour in the sea regions.
 
-...
+From Galle to Pottuvil, Hambantota, and more frequent winds can be blowing at speeds of 50 - 55 km per hour in the sea regions along the coast of Kankesanthurai via Colombo to Puttalam.. In these cases, these sea regions are turbulent.
+
+◼️
 
 [Data](articles/ff5f6384.json)
+
+[Extended Data](ext_articles/ff5f6384.ext.json)
 
 ---
 
@@ -416,23 +450,25 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### மின் கட்டணம் குறித்த பிரேரணை மீளாய்வு
+### Resolution on electricity charges
 
 *2024-02-18 04:14:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-குறித்த-பிரேரணை-மீளாய்வு/175-333365) · `ta`
 
-மின்சார கட்டணக் குறைப்பு தொடர்பான பிரேரணையை மீளாய்வு செய்து சமர்ப்பிக்குமாறு பொது பயன்பாடுகள் ஆணைக்குழு இலங்கை மின்சார சபைக்கு அறிவித்துள்ளது.
+The Public Utilities Commission has announced to the Ceylon Electricity Board to review and submit the proposal on electricity tariffs.
 
-திருத்தப்பட்ட பிரேரணையை எதிர்வரும் 22 ஆம் திகதிக்கு முன்னர் ஆணைக்குழுவிடம் கையளிக்குமாறு அறிவிக்கப்பட்டுள்ளதாக அதன் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ தெரிவித்துள்ளார்.
+The Chairman Professor Manjula Fernando said that the revised proposal has been announced to be handed over to the Commission before the 22nd of this month.
 
-கடந்த 15 ஆம் திகதி மின்சார கட்டண திருத்தம் தொடர்பில் இடம்பெற்ற மக்கள் கருத்துகளை கேட்டறியும் நடவடிக்கையின் பின்னர் இந்த தீர்மானம் எடுக்கப்பட்டதாக அவர் குறிப்பிட்டுள்ளார்.
+He noted that the decision was taken after the people's comments on the 15th of last month.
 
-இதன்போது, சுமார் 40 பேர் தமது யோசனைகளை சமர்ப்பித்த நிலையில், இலங்கை மின்சார சபையினால் மேற்கொள்ளப்பட்ட கட்டணக் குறைப்பு வீதத்தை விடவும் அதிக வீதத்தில் கட்டணக் குறைப்பை மேற்கொள்ள வேண்டுமென அவர்கள் வலியுறுத்தினர்.
+With about 40 people submitted their ideas, they urged the Ceylon Electricity Board (CEB) to pay a higher rate at a higher rate.
 
-இந்த விடயங்கள் அனைத்தையும் பரிசீலித்து, மின்சார சபையினால் முன்வைக்கப்பட்ட யோசனையை மீள்பரிசீலனை செய்து திருத்தம் செய்ய வேண்டுமென பொது பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது. (a)
+The Public Utilities Commission said that all these issues should be reviewed and revised the idea put forward by the Electricity Board.. (A)
 
 ◼️
 
 [Data](articles/4e2ef08c.json)
+
+[Extended Data](ext_articles/4e2ef08c.ext.json)
 
 ---
 
@@ -2051,29 +2087,5 @@ Kansas City Police have continued to appeal for information about the shooting, 
 [Data](articles/d9a68c8e.json)
 
 [Extended Data](ext_articles/d9a68c8e.ext.json)
-
----
-
-### Former President Chandrika Kumaratunga behind efforts to abolish the executive president?Daily Mirror
-
-*2024-02-17 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176610) · `ta`
-
-Dailymir, who has reported that former President Chandrika Kumaratunga is behind the current attempt to abolish the executive presidency before the presidential election, has said that these initiatives will not be able to get a two -thirds majority from the present parliament.
-
-Former President Chandrika Kumaratunga has called for the leaders of some civil society organizations to take advantage of the executive power of the Cabinet and initiate negotiations on the constitutional reforms given to the Cabinet.
-
-However, in the guise of politics, there is a widespread view of the presidential election.
-
-Chandrika Kumaratunga promised to abolish the executive president when he contested the first presidential election in 1994.
-
-Since then, many leaders have made this pledge during their election campaign, but the executive presidency continues.
-
-Previous President Mahinda Rajapaksa Maithripalasirisena also made this promise.
-
-...
-
-[Data](articles/cb962675.json)
-
-[Extended Data](ext_articles/cb962675.ext.json)
 
 ---

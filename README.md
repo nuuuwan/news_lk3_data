@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 17:33:18**
+As of **2024-02-18 17:52:48**
 
 ## Newspaper Stats
 
-*Scraped **7,816** Articles*
+*Scraped **7,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 409
 dailyftlk | 415
 adalk | 664
 tamilmirrorlk | 953
-adaderanalk | 961
+adaderanalk | 963
 virakesarilk | 1,023
 adaderanasinhalalk | 1,135
 dailymirrorlk | 1,153
@@ -26,51 +26,89 @@ dailymirrorlk | 1,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,814 (100.0%) of 7,816 articles have been extended.
+7,818 (100.0%) of 7,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### දුම්රියක් පීලි පනී
+### Indian envoy confident Nagapattinam–KKS ferry services will resume soon
+
+*2024-02-18 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97372/indian-envoy-confident-nagapattinamkks-ferry-services-will-resume-soon) · `en`
+
+The High Commissioner of India in Sri Lanka, Santosh Jha, has expressed confidence regarding earliest recommencement of Nagapattinam - Kankesanthurai (KKS) ferry service in the coming weeks, adding that efforts are also underway to resume the ferry services between Talaimannar and Rameswaram.
+
+The Indian High Commissioner made these remarks during his visit to the KKS Port and the Talaimannar Pier, where he spoke of the need for expeditious resumption of ferry services between the two countries.
+
+High Commissioner Jha undertook his first official visit to Sri Lanka’s Northern Province from 15 to 17 February, during which the diverse engagements he participated in attested to the deep-rooted nature of the bilateral partnership and India’s firm commitment to deepening socio-economic and cultural ties with Northern Province, the High Commission said in a statement.
+
+...
+
+[Data](articles/de50e325.json)
+
+[Extended Data](ext_articles/de50e325.ext.json)
+
+---
+
+### ‘Udarata Menike’ train derails in Ragama
+
+*2024-02-18 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97371/udarata-menike-train-derails-in-ragama) · `en`
+
+Train services on the main line have been disrupted after the ‘Udarata Menike’ train derailed near the Ragama railway station.
+
+According to the Sri Lanka Railway Department, the train had derailed in Ragama while plying from Badulla to Colombo Fort.
+
+◼️
+
+[Data](articles/b2fa652a.json)
+
+[Extended Data](ext_articles/b2fa652a.ext.json)
+
+---
+
+### A train jumps derails
 
 *2024-02-18 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193546) · `si`
 
-රාගම දුම්රිය ස්ථානය ආසන්නයේදී දුම්රියක් පීලි පැනීම හේතුවෙන් ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවී තිබේ.
+The train derailment near the Ragama Railway Station has been interrupted due to a train derailment.
 
-ඒ අනුව මෙම දුම්රිය පීලි පැනීම හේතුවෙන් ප්‍රධාන මාර්ගයේ දුම්රිය ප්‍රමාදයක් සිදුවිය හැකි බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Accordingly, the train delay in the main road is due to the demanding delegation, the Railway Department says.
 
-අද පෙරවරුවේ බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වෙමින් තිබූ උඩරට මැණිකේ සීග්‍රගාමී දුම්රිය මෙලෙස පීලි පැනීමට ලක්ව තිබේ.
+The Upcountry Menike Spride (Colombo Fort) has been derailed this morning.
 
 ◼️
 
 [Data](articles/7ec9e2b6.json)
 
+[Extended Data](ext_articles/7ec9e2b6.ext.json)
+
 ---
 
-### බිරිඳගේ හිස රැගෙන පොලීසියට ගිය අනිල්
+### Anil went to the police with his wife's head
 
 *2024-02-18 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193545) · `si`
 
-මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතින සංවේදී වීඩියෝවක් වෙත මේ වනවිට බොහෝදෙනෙකුගේ අවධානය යොමුව තිබේ.
+Many are currently paying attention to a sensitive video of the social media.
 
-අදාළ වීඩියෝවේ දැක්වෙන්නේ කඳින් වෙන්කළ කාන්තා හිස කොටසක් රැගත් පුද්ගලයෙකු මහමග ගමන් කරන ආකාරයයි.
+The video shows how a person carrying a part of a female head allocated from the trunk is the way.
 
-ඉන්දියාවේ උත්තර් ප්‍රදේශ් හි ජීවත්වන 30 හැවිරිදි වියේ පසුවන අනිල් කුමාර් නමැති පුද්ගලයා මෙලෙස මාර්ගයේ ගමන් කරන්නේ කපා වෙන්කළ සිය බිරිඳගේ හිස රැගෙනයි.
+Anil Kumar, aged 30, who lives in Uturr Pradesh, India, is headed by the head of his wife.
 
-වසර කිහිපයකට පෙර විවාහ වී ඇති ඔවුන්ට දරුවන් දෙදෙනෙකු ද සිටින බව අනාවරණය වී තිබේ.
+It has been revealed that they have two children, married a few years ago.
 
-ඔවුන් අතර ඇතිවූ ආරවුලක් දුරදිග ගොස් සැකකාර සැමියා විසින් මෙම ඝාතනය සිදුකරන්නට ඇති බවට එරට පොලීසිය සැකපළ කරයි.
+The police do not have any further dispute between them and had to carry out the murder by the suspect her husband.
 
-පසුව සිය බිරිඳගේ හිස සහ එය කපා වෙන්කිරීම සඳහා භාවිත කළ පිහිය ද අතැතිව මාර්ගයේ ගමන්කරමින් සිටි මෙම සැකකරුව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The suspect was arrested by the police while he was traveling on the hands of his wife's head and a knife.
 
-වැඩිදුර ප්‍රශ්නකිරීම් හමුවේ ඔහු පවසා ඇත්තේ තමන් භාරවීම සඳහා පොලීසියට පැමිණි බවය.
+In the face of further interrogation, he had said that he had come to the police to surrender.
 
-ඔවුන්ගේ නිවසේ තිබී හමුවූ ආදර හසුනක් සම්බන්ධයෙන් සැකසිතී කළ ප්‍රශ්නකිරීම්වලදී ඇතිවූ බහින්බස්වීමක් දුරදිග ගොස් මෙම ඝාතනය සිදුවූ බවට පොලීසිය සැකපළ කරන බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+Foreign media reports that the police will do not take place on a heated argument in their home into a romantic station.
 
 ◼️
 
 [Data](articles/3ac88e39.json)
+
+[Extended Data](ext_articles/3ac88e39.ext.json)
 
 ---
 
@@ -2123,49 +2161,5 @@ Nevertheless, if a renowned religious leader or union chairman is eligible to be
 [Data](articles/74855c8b.json)
 
 [Extended Data](ext_articles/74855c8b.ext.json)
-
----
-
-### Senegal election: Opposition supporters march in Dakar calling for swift vote
-
-*2024-02-17 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97356/senegal-election-opposition-supporters-march-in-dakar-calling-for-swift-vote) · `en`
-
-Thousands of demonstrators have gathered in Senegal’s capital, Dakar, demanding swift presidential elections.
-
-It comes after the country’s top court blocked President Macky Sall’s attempt to postpone the election, originally scheduled for this month.
-
-Mr Sall’s last minute decree, backed by parliament, had triggered a political crisis in Senegal, once regarded as a bastion of democracy in West Africa.
-
-On Saturday, opposition supporters held signs demanding a “Free Senegal”.
-
-It is the first rally allowed by authorities since Mr Sall’s announcement two weeks ago.
-
-“Today’s watchword is mobilisation,” said presidential candidate Malick Gakou on the march.
-
-He told the AFP news agency there was “no room for error any longer” and elections must be organised in March in order for the handover of power between President Sall and his successor on 2 April - when the president’s second term in office is set to expire.
-
-...
-
-[Data](articles/cf1664a0.json)
-
-[Extended Data](ext_articles/cf1664a0.ext.json)
-
----
-
-### The Korean examination application form on the Internet is fake
-
-*2024-02-17 20:52:48* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාලයේ-යන-කොරියානු-විභාග-අයදුම්පත්‍රය-ව්‍යාජයි/11-408138) · `si`
-
-The application to the Korean Language Examination, which is relevant to the Commission, is aimed at a false application form that has nothing to do with the Korean language examination.
-
-The Korean HRDK has officially affirmed that this examination application is completely fake. The Bureau informs the Bureau as providing your information to that fake Google Form.
-
-2024 Candidates who wish to sit for the Korean Examination Blue Based on the Korean EPS Examination published on the Foreign Employment Bureau www.slbfe.lk. Its posted only the instructions for the application and the official application form from February 26 to 29 www.slbfe.lk. The Bureau requests the public to obtain more information in 1989.
-
-◼️
-
-[Data](articles/6b3f594f.json)
-
-[Extended Data](ext_articles/6b3f594f.ext.json)
 
 ---

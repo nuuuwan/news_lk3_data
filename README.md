@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 13:33:04**
+As of **2024-02-18 13:51:49**
 
 ## Newspaper Stats
 
-*Scraped **7,789** Articles*
+*Scraped **7,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,64 @@ newsfirstlk | 363
 economynextcom | 401
 islandlk | 409
 dailyftlk | 415
-adalk | 658
+adalk | 661
 tamilmirrorlk | 948
 adaderanalk | 958
 virakesarilk | 1,022
 adaderanasinhalalk | 1,129
-dailymirrorlk | 1,147
+dailymirrorlk | 1,149
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,788 (100.0%) of 7,789 articles have been extended.
+7,794 (100.0%) of 7,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### ඩැට් දීමනාව ගැන තීරණාත්මක සාකච්ඡාවක්
+### Four including gunman in Meegoda Economic Centre shooting, arrested
+
+*2024-02-18 12:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-including-gunman-in-Meegoda-Economic-Centre-shooting-arrested/108-277256) · `en`
+
+Meegoda, Feb 18 (Daily Mirror) - The main suspect and three others involved in the shooting and robbery at the Meegoda Economic Centre last week have been arrested.
+
+Two of them, including a businessman who aided and abetted in the shooting were arrested on Saturday (17) by the Meegoda police and on information provided by them under interrogation, the gunman and the rider of the motorcycle were also arrested by the STF during a raid in the Thissamaharama area.
+
+Police said the two gunmen who fled from the scene had, on their way robbed a jewellery from a businessman in the Pugoda area and had left the motorcycle at a restaurant belonging to one of the suspects.
+
+During investigations police had recovered the weapon and the motorcycle used in the shooting.
+
+The four suspects are to be produced before the Homagama magistrate after their statements are recorded.
+
+◼️
+
+[Data](articles/dcec6db6.json)
+
+[Extended Data](ext_articles/dcec6db6.ext.json)
+
+---
+
+### Decisive discussion on Dath allowance
 
 *2024-02-18 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193540) · `si`
 
-ඩැට් දීමනාව සම්බන්ධයෙන් සෞඛ්‍ය වෘත්තිය සමිති සහ සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා අතර තීරණාත්මක සාකච්ඡාවක් හෙට (19) පැවැත්වීමට නියමිත ව තිබේ.
+Health Trade Unions and Health Minister Dr. Ramesh Pathirana will be held tomorrow (19).
 
-සෞඛ්‍ය වෘත්තිය සමිති සන්ධානය පවසන්නේ, එම සාකච්ඡාව ද අසාර්ථක වුව හොත් හෙට (19) පස්වරුවේ රැස් වී වර්ජනය සම්බන්ධයෙන් තීරණයක් ගන්නා බව ය.
+The Health Trade Union Alliance says that if the discussion will also be a decision tomorrow afternoon.
 
-වෛද්‍යවරුන් සඳහා වැඩි කළ රුපියල් තිස් පන්දහසක ඩැට් දීමනාව තමන්ට ද ලබා දෙන්නැයි ඉල්ලා සෞඛ්‍ය වෘත්තිය සමිති 72ක් එක් ව පසුගිය සති කිහිපය තුළ අවස්ථා දෙකක දී දින කිහිපයක වර්ජන ක්‍රියාමාර්ගයක නිරත විය.
+Seven health professionals, 72 health career societies were given a few days in two days for several days in two months.
 
-පසුගිය 15 වැනි දා පෙරවරුවේ එම වර්ජනය තාවකාලික ව අවසන් කෙරුණේ, වෘත්තිය සමිතිවල ඉල්ලීම් සම්බන්ධයෙන් සාකච්ඡා කිරීමට සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා ලිඛිත ව එකඟතාව පළ කිරීමත් සමඟ ය.
+The strike was completed on the 15th and the strike was completed by the Minister of Health Dr. Ramesh Pathirana to discuss the demands of the vocational unions.
 
-ඒ අනුව සෞඛ්‍ය අමාත්‍යවරයා සමඟ හෙට පෙරවරු 11.00ට පමණ සාකච්ඡාවක් පැවැත්වීමට සැලසුම් කර තිබේ.
+Accordingly, a discussion is scheduled to hold a discussion at around 11am tomorrow with the Minister of Health.
 
 ◼️
 
 [Data](articles/7bb1e14a.json)
+
+[Extended Data](ext_articles/7bb1e14a.ext.json)
 
 ---
 
@@ -74,6 +98,26 @@ Minister of Public Minister Dr. Ranjith Siyambalapitiya added that discussions o
 
 ---
 
+### Tickets for 2nd, 3rd T20I matches in Dambulla sold out
+
+*2024-02-18 12:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tickets-for-2nd-3rd-T20I-matches-in-Dambulla-sold-out/108-277254) · `en`
+
+Dambulla, Feb 18 (Daily Mirror) - Tickets for the 2nd and 3rd T20I matches between Sri Lanka and Afghanistan scheduled for tomorrow (February 19) and February 21 at the RDICS, Dambulla have been sold out, Sri Lanka Cricket (SLC) said.
+
+Accordingly, ticket counters in both Colombo and Dambulla have been closed and the public are advised not to visit these ticket counters.
+
+SLC said the first T20I witnessed a crowd of 18,000 spectators, which Sri Lanka won following a nail-biter.
+
+The 2nd T20I will be played on Monday, February 19 while the 3rd T20I is scheduled for February 21 at the RDICS, Dambulla.
+
+◼️
+
+[Data](articles/b4d5d783.json)
+
+[Extended Data](ext_articles/b4d5d783.ext.json)
+
+---
+
 ### The cost of carrots is low
 
 *2024-02-18 12:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கேரட்டின்-விலை-குறைந்தது/76-333373) · `ta`
@@ -89,6 +133,24 @@ Due to the excellent weather conditions in Nuwara Eliya and its adjacent areas, 
 [Data](articles/c784dfbb.json)
 
 [Extended Data](ext_articles/c784dfbb.ext.json)
+
+---
+
+### The flow road closes for six months
+
+*2024-02-18 11:59:41* · [`adalk`](https://www.ada.lk/breaking_news/ගලහා-මාර්ගය-මාස-හයකට-වැසෙයි/11-408146) · `si`
+
+The railway line from Kandy to Peradeniya has increased the flow of the flow of the flowing road from the University of Peradeniya for six months due to improving the duplicate railway line from the University of Peradeniya.
+
+The road has been closed down due to the railway bridge that runs through the road and modernized the road.
+
+Vehicles traveling to the flown area are planned to reach Alwis pond along the Galaha Junction, along with the Labuduwa Siridhamma Mawatha.
+
+◼️
+
+[Data](articles/f748cbef.json)
+
+[Extended Data](ext_articles/f748cbef.ext.json)
 
 ---
 
@@ -121,6 +183,24 @@ I have been living in Australia before I am from Pakistan.
 [Data](articles/be4f394e.json)
 
 [Extended Data](ext_articles/be4f394e.ext.json)
+
+---
+
+### Wady Bungy arrested
+
+*2024-02-18 11:54:19* · [`adalk`](https://www.ada.lk/breaking_news/වෑකඩ-බන්ටි-අත්අඩංගුවට/11-408145) · `si`
+
+A person who calls on the 'Wadase Bandi' with more than Rs.
+
+A large scale trafficker distribloring heroin is a bulk of heroin, a resident of the Udakura area, Panadura.
+
+On a tip off received by the Intelligence Officers, the police team inspected the house of the suspect's house, 11 grams of nine hundred and three million mobile phones and a digital scale used for drugs.Available.
+
+◼️
+
+[Data](articles/666c9c9d.json)
+
+[Extended Data](ext_articles/666c9c9d.ext.json)
 
 ---
 
@@ -375,6 +455,30 @@ THe STF arrested one of the fleeing suspects, a former PS member, while the othe
 [Data](articles/e3f5ab91.json)
 
 [Extended Data](ext_articles/e3f5ab91.ext.json)
+
+---
+
+### Former MPs arrested for a drug dealer
+
+*2024-02-18 10:49:25* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරම්කරුවෙකුගේ-සමීපතමයෙක්-වන-හිටපු-මන්ත්‍රි-අල්ලයි/11-408144) · `si`
+
+Police Special Task Force said that a former member of the Kotikawatta Pradeshiya Sabha who served as a close associate of a large scale drug dealer Shiran Bashik was arrested in the Wellawatte Pradeshiya Sabha complex.
+
+Shiran Bazangee's son Nadeen Languages have fled, with a raid.
+
+19g of heroin with the suspect with a mobile phone, a driver's license and $ 161 and $ 161 and Dirim, Nudin Bashik, and Dubai State issued by Dubai StateLicense and gold and gold items have been taken into police custody.
+
+Special Task Force officials in Rajagiriya Police Traffic in front of the Ranagiriya area in Wellawatte, a duties in front of the Ranagiriya area in the Wellawatte area continues to run the car to the vehicle yard at the road to stop the car.Police say two fled.
+
+The police sergeant 84054 officers were admitted to Narahenpiti Police Hospital for injuries
+
+Then one of the two suspects were arrested and the other suspect had fled the police, police said
+
+...
+
+[Data](articles/84eab50f.json)
+
+[Extended Data](ext_articles/84eab50f.ext.json)
 
 ---
 
@@ -2031,89 +2135,5 @@ The girl's body was found in a coconut land in the area.
 [Data](articles/83118d5e.json)
 
 [Extended Data](ext_articles/83118d5e.ext.json)
-
----
-
-### Former Navy Commander Basil Goonesekara passes away
-
-*2024-02-17 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Navy-Commander-Basil-Goonesekara-passes-away/108-277240) · `en`
-
-Colombo, Feb 17 (Daily Mirror) The seventh (07th) Commander of the Sri Lanka Navy, Admiral Basil Goonesekara passed away today.
-
-He joined the Royal Ceylon Navy as Sub Lieutenant on 23rd July 1951. The senior officer held office from 01st June 1973 to 31st May 1979, as the 07th Commander of the Sri Lanka Navy.
-
-Late Admiral Basil Goonesekara was born in 1929. His remains lie at No. 50/06, Anula Road, Colombo 06 till 18th February 2024 to pay last respects and the funeral will be held with full service honours in compliance with naval traditions at the General Cemetery, Borella on 18th February.
-
-◼️
-
-[Data](articles/b6701303.json)
-
-[Extended Data](ext_articles/b6701303.ext.json)
-
----
-
-### Melwa offers full scholarships to 300 university students
-
-*2024-02-17 17:50:00* · [`islandlk`](http://island.lk/melwa-offers-full-scholarships-to-300-university-students/) · `en`
-
-Melwa, Sri Lanka’s premium steel manufacturer, has further affirmed its commitment to corporate social responsibility by offering scholarships to 300 university students across Sri Lanka. This scholarship programme provides financial support to students from low-income families who are engaged in higher education in universities to successfully complete the respective academic programmes.
-
-Melwa has been implementing this social welfare programme for about ten years. Under this scholarship programme, more than 3,000 students have received financial assistance and completed their degrees. Around 300 university students are benefiting from this scholarship programme launched by Melwa.
-
-...
-
-[Data](articles/70d0b56d.json)
-
-[Extended Data](ext_articles/70d0b56d.ext.json)
-
----
-
-### Sampath Bank achieves stable results amidst economic headwinds, while supporting the sustainability of its customers.
-
-*2024-02-17 17:50:00* · [`islandlk`](http://island.lk/sampath-bank-achieves-stable-results-amidst-economic-headwinds-while-supporting-the-sustainability-of-its-customers/) · `en`
-
-Backed by its strong capital base, Sampath Bank continues to navigate adeptly through challenging times. The Bank demonstrated resilience and a commitment to prioritizing stakeholder interests in the face of challenging economic headwinds, thanks to its well-executed business strategies, increased vigilance, and proactive risk management measures.
-
-...
-
-[Data](articles/d6530a83.json)
-
-[Extended Data](ext_articles/d6530a83.ext.json)
-
----
-
-### Yamaha and AMW expect import ban on motorcycles will be lifted with economy stabilizing
-
-*2024-02-17 17:48:00* · [`islandlk`](http://island.lk/yamaha-and-amw-expect-import-ban-on-motorcycles-will-be-lifted-with-economy-stabilizing/) · `en`
-
-Associated Motorways (Private) Limited (AMW), the official distributor for Yamaha Motorcycles, Service and Parts recently hosted a Dealer Meeting in Colombo. The key personnel gathered at the event included Andre Bonthyus, the newly appointed Group Managing Director of AMW.
-
-Addressing the audience which comprised more than 200 Island-wide Yamaha dealers, Bonthyus said that he looks forward to growing the organization and emphasized on AMW’s return to the market.
-
-Meanwhile, Kumika Imai, Executive General Manager – Yamaha Motor Corporation Japan, who is handling over 140 countries where Yamaha is present, stated that she had chosen to visit Sri Lanka due to the significance and value placed on the country and its market.
-
-Notably, they mentioned the fact that automotive imports to Sri Lanka which have come to a halt due to the foreign exchange crisis, would get a respite this year, as the country’s macroeconomic indicators are getting into a better shape after four years.
-
-...
-
-[Data](articles/764d90b7.json)
-
-[Extended Data](ext_articles/764d90b7.ext.json)
-
----
-
-### Ampara SLTB depot officers interdicted over bus license plate switching
-
-*2024-02-17 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97352/ampara-sltb-depot-officers-interdicted-over-bus-license-plate-switching) · `en`
-
-All individuals implicated in the deceptive act of switching license plates on two buses at the Sri Lanka Transport Board (SLTB) Bus Depot in Ampara have been interdicted, as announced by Minister of Transport Bandula Gunawardena.
-
-The scandal unfolded during the second phase of the project aimed at renovating 200 out-of-service buses and reintegrating them into passenger transport services. This initiative, held on February 9, 2024, was graced by the presence of Prime Minister Dinesh Gunawardena and Minister Gunawardena. The government had reportedly allocated a substantial sum of Rs. 270 million for the renovation, with the Ampara SLTB Bus Depot receiving Rs. 2 million for its refurbishment activities.
-
-...
-
-[Data](articles/bfa09082.json)
-
-[Extended Data](ext_articles/bfa09082.ext.json)
 
 ---

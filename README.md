@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 12:02:22**
+As of **2024-02-18 12:17:27**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ dailymirrorlk | 1,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,773 (99.9%) of 7,778 articles have been extended.
+7,778 (100.0%) of 7,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### தேர்தல் காலத்தில் நிறைவேற்று அதிகார ஜனாதிபதி முறை நீக்கப்படாது ; அது எதிர்க்கட்சிகள் உருவாக்கிய கதை - ஜனாதிபதி
+### The executive presidency will not be abolished during the election;It was the story of the opposition parties - the president
 
 *2024-02-18 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176658) · `ta`
 
-நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதற்காக குறுகியவழிமுறைகள் எதுவும் இல்லை என ஜனாதிபதி ரணில்விக்கிரமசிங்க தெரிவித்துள்ளார் என ஐலண்ட் செய்தி வெளியிட்டுள்ளது.
+President Ranil Wickremesinghe has said that there are no short ways to abolish the executive presidency.
 
-நிறைவேற்று அதிகார ஜனாதிபதி முறையைநீக்குவதற்கு குறுகியவழிமுறைகள் எதுவும் இல்லை என  இந்தநாட்டு மக்களிற்கு நன்கு தெரியும் என ஜனாதிபதி ரணில்விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe says that there are no short ways to remove the executive presidency.
 
-ஜனாதிபதி அலுவலகத்தில் நாடாளுமன்ற உறுப்பினர்கள் சிலருடனான சந்திப்பின்போது  எழுப்பப்பட்ட கேள்விக்கு பதிலளிக்கையில் ஜனாதிபதி இதனை தெரிவித்துள்ளார்.
+The President was responding to a question raised during a meeting with some MPs at the Presidential Office.
 
-ஜனாதிபதி தேர்தல் உரிய நேரத்தில் இடம்பெறும் இக்காலப்பகுதியில் நிறைவேற்று அதிகாரஜனாபதிமுறை நீக்கப்படாது என ஜனாதிபதி  தெரிவித்தார் என ஐலண்ட் செய்தி வெளியிட்டுள்ளது.
+Island has reported that the President said that the executive bureaucracy would not be eliminated during the presidential election in a timely manner.
 
-ஜனாதிபதி தேர்தலை பிற்போடும் எனக்கில்லை என்பதை நான் பல தடவை தெரிவித்துள்ளேன் அதற்கான நிதிகள் உள்ளன நிறைவேற்று அதிகாரஜனாதிபதி முறைநீக்கம் குறித்த கதைகளை எதிர்கட்சியினரே பரப்பிவருகின்றனர் என ஜனாதிபதி தெரிவித்துள்ளார்.
+I have repeatedly said that the presidential election is not after the presidential election. The President said that there are funds for it.
 
-...
+The President said that the traditional opposition party is tense when a group of people are reportedly influential among the two groups in the opposition.
+
+The President has said that the people of this country are more well known than the opposition.
+
+Do not waste your time on the abolition of the executive president.
+
+◼️
 
 [Data](articles/9b5b23bf.json)
+
+[Extended Data](ext_articles/9b5b23bf.ext.json)
 
 ---
 
@@ -88,39 +96,51 @@ Though forgotten by the present generation, it is no understatement to say that 
 
 ---
 
-### "நான் ஏன் அரசியலில் ஈடுபடுகின்றேன்" - கொழும்பில் மவ்பிம ஜனதா கட்சி மாநாட்டில் திலீத் விளக்கம்
+### "Why am I involved in politics"
 
 *2024-02-18 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176655) · `ta`
 
-மவ்பிம ஜனதா கட்சியின் எதிர்கால செயற்திட்டங்களை விரைவில் வெளியிடவுள்ளதாக கட்சியின் தலைவர் திலீத் ஜெயவீர அறிவித்துள்ளார்.
+Party leader Dileet Jayaweera has announced that the Mawpima Janata Party's future plans will be released soon.
 
-எனது பல்கலைகழக வாழ்க்கையின் போதும் அதன் பின்னரான காலத்திலும் அபிவிருத்தியடைந்த நாடே எனது நோக்கமாக காணப்பட்டது என அவர் கொழும்பில் நேற்று இடம்பெற்ற மவ்பிம ஜனதா கட்சியின் மாநாட்டில் குறிப்பிட்டுள்ளார்.
+He said at the Mabima Janata Party conference held in Colombo yesterday that my intention was to see the country that was developed during my university life and later.
 
-எனினும் துரதிஸ்டவசமாக இந்த நோக்கம் இன்னமும் நிறைவேறவில்லை இதன் காரணமாக நாங்கள் காணவிரும்பும் மாற்றத்தை ஏற்படுத்துவதற்கான  நடவடிக்கைகளை இறுதியாக நாங்கள் ஆரம்பித்துள்ளோம் எனவும் அவர் தெரிவித்துள்ளார்.
+Unfortunately, however, this purpose has not yet been fulfilled, ”he said.
 
-என்னை சுற்றியுள்ள அனுபவம்மிக்க அரசியல்வாதிகள் மற்றும் எனக்கு ஆதரவாகவுள்ள குறிப்பிடத்தக்க இளம்தலைமுறையினருடன் இணைந்து நான் அரசியலில் ஈடுபட தீர்மானித்துள்ளேன் நாட்டிற்கு மிகச்சிறந்த பங்களிப்பை வழங்குவதே இதன் நோக்கம் எனவும் அவர் தெரிவித்துள்ளார்.
+"I have decided to engage in politics with the experienced politicians around me and the significant younger generation in favor of me," he said.
 
-கடந்த 75 வருடங்களாக அரசியல் நோக்கம் என்ற எதுவுமிருக்கவில்லை அனைவரும் பார்க்ககூடிய அனைவரும் பயன்பெறக்கூடிய மாற்றங்களை கொண்டுவர எண்ணியுள்ளோம் எனவும் அவர் தெரிவித்துள்ளார்.
+"We have no political purpose for the past 75 years," he said.
 
-...
+Historically, we have put new governments in office to replace existing governments but we are intent on making changes in the lives of all Sri Lankans through all Sri Lankans' lives.
+
+Our goal is to create an entrepreneurship country and we will implement plans to make an entrepreneur in the village to the largest entrepreneurship of the nation.
+
+He said that once this project is put forward, you will know how your life will change.
+
+◼️
 
 [Data](articles/c67595d8.json)
 
+[Extended Data](ext_articles/c67595d8.ext.json)
+
 ---
 
-### தாய்லாந்து பிரதமர் தக்சினுக்கு பரோல்
+### Parole for Thailand's Prime Minister Taksin
 
 *2024-02-18 10:53:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-பிரதமர்-தக்சினுக்கு-பரோல்/50-333371) · `ta`
 
-தாய்லாந்து நாட்டின் முன்னாள் பிரதமர் தக்சின் ஷினவத்ரா, ஞாயிற்றுக்கிழமை (18) விடுதலை செய்யப்பட்டுள்ளார். இந்த தகவலை தற்போதைய பிரதமர் ஸ்ரேத்தா தவிசின் உறுதிப்படுத்தினார்.
+Former Prime Minister of Thailand Taksin Shinawatra has been released on Sunday (18). This information was confirmed by the current Prime Minister Shreta Tavisin.
 
-ஷினவத்ரா கடந்த 2001 ஆம் ஆண்டு முதல் 2006 ஆம் ஆண்டு வரை தாய்லாந்து நாட்டின் பிரதமராக இருந்தார். அப்போது சர்ச்சைக்குரிய அரிசி மானிய திட்டத்தின் மூலம் அரசுக்கு நஷ்டத்தை ஏற்படுத்தியதாக அவர் மீது வழக்கு தொடரப்பட்டது.
+Shinawatra was the prime minister of Thailand from 2001 to 2006. He was then sued for a loss to the government through a controversial rice subsidy scheme.
 
-இந்த வழக்கில் தாய்லாந்து முன்னாள் பிரதமருக்கு சிறைத் தண்டனை விதிக்கப்பட்டது. இந்த சிற தண்டனையிலிருந்து தப்பிப்பதற்காக 15 ஆண்டுகள் வெளிநாட்டிலிருந்து கடந்தாண்டு நாடு திரும்பினார் தக்சின். பல்வேறு குற்றச்சாட்டுகளின் அடிப்படையில் அவருக்கு 8 ஆண்டுகள் சிறைத் தண்டனை விதிக்கப்பட்டது.
+The former prime minister of Thailand was sentenced to prison in this case. Taksin returned to the country for 15 years from abroad to escape this small punishment. He was sentenced to 8 years in prison on various charges.
 
-...
+He has been imprisoned since August 2023. He was detained in the hospital for six months from Bangkok Prison due to a sudden illness. King Vajiralongorn reduced his 8 -year prison sentence due to his health disorder for a year. Taksin has been given parole early this week.
+
+◼️
 
 [Data](articles/864f9b7a.json)
+
+[Extended Data](ext_articles/864f9b7a.ext.json)
 
 ---
 
@@ -166,19 +186,21 @@ THe STF arrested one of the fleeing suspects, a former PS member, while the othe
 
 ---
 
-### கறுப்பு கொடிகளை கட்டி மீனவர்கள் போராட்டம்
+### Fishermen struggle to tie black flags
 
 *2024-02-18 10:42:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கறுப்பு-கொடிகளை-கட்டி-மீனவர்கள்-போராட்டம்/46-333370) · `ta`
 
-எல்லை தாண்டி மீன் பிடித்ததாக கைது செய்யப்பட்ட மீன்பிடி விசைப் படகின் ஓட்டுனருக்கு ஆறு மாத சிறை தண்டனை மற்றும் இரண்டாவது முறையாக கைது செய்யப்பட்ட மீனவருக்கு ஓராண்டு சிறை தண்டனை விதித்தமையை   கண்டித்து ராமேஸ்வரம் விசைப்படகு மீனவர்கள் தொடர் வேலை நிறுத்த போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+Rameshwaram fishermen are engaged in a series of strikes, condemning the driver of a fishing boat arrested for fishing over the border and sentenced to six months in prison and a fisherman for a second time.
 
-இந்நிலையில் மீனவர்கள் தங்களது எதிர்ப்பை வெளிப்படுத்தும் விதமாக ராமேஸ்வரம் மீன் பிடித்து துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டுள்ள சுமார் 800-க்கும் மேற்பட்ட விசைப்படகுகளில்  ஞாயிற்றுக்கிழமை (18) காலை கறுப்பு கொடிகளை கட்டி போராட்டம் நடத்தி வருகின்றனர்.
+In this case, the fishermen are protesting against their opposition to the Rameshwaram fishing and holding black flags on Sunday morning (18) in more than 800 boats parked at the port.
 
-எல்லை தாண்டி மீன் பிடித்ததாக கைது செய்யப்பட்ட மூன்று தமிழக மீனவர்களுக்கு சிறை தண்டனை விதித்து இலங்கை நீதிமன்ற தீர்ப்பளித்ததை கண்டித்து நீதிமன்ற தீர்ப்பை உடனடியாக ரத்து செய்ய வலியுறுத்தியும் ராமேஸ்வரம் மீனவர்கள் கச்சத்தீவு திருவிழாவை புறக் கணிப்பதுடன் சனிக்கிழமை (17) முதல் தொடர் வேலை நிறுத்த போராட்டத்தில் ஈடுபட போவதாக ஆலோசனை கூட்டத்தில் விசைப்படகு மீனவர்கள் முடிவு செய்து தீர்மானம் நிறைவேற்றி உள்ளமை குறிப்பிடத்தக்கது.
+Rameshwaram fishermen have decided to take up the Kachchativu festival on Saturday (17), demanding the immediate cancellation of the court's verdict, condemning the Sri Lankan court's sentence for three Tamil Nadu fishermen who were arrested for fishing across the border.
 
 ◼️
 
 [Data](articles/8b962015.json)
+
+[Extended Data](ext_articles/8b962015.ext.json)
 
 ---
 
@@ -212,25 +234,27 @@ Police investigations on whether a person at home was carried out at home.
 
 ---
 
-### ரஸ்ய எதிர்கட்சி தலைவரின் உடலை கையளிப்பதற்கு தயங்கும் ரஸ்ய அதிகாரிகள் - நவால்னியின் சகாக்கள் தெரிவிப்பு
+### Russian officials who are reluctant to hand over the body of the opposition leader - Navalni's colleagues
 
 *2024-02-18 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176650) · `ta`
 
-சிறையில் உயிரிழந்த ரஸ்ய எதிர்கட்சி தலைவர் அலெக்ஸே நவல்னியின் உடலை அவரது தாயரிடம் கையளிப்பதற்கு ரஸ்ய அதிகாரிகள் மறுக்கின்றனர் என நவால்னியின் நெருங்கிய சகாவொருவர் தெரிவித்துள்ளார்.
+Russian officials are refusing to hand over the body of Russian Opposition Leader Alexe Navalni to his mother, Navalni's close associate said.
 
-பிரேதப்பரிசோதனை முடிவடைந்த பின்னரே உடலை கையளிப்போம் என ரஸ்ய அதிகாரிகள் நவால்னியின் தயாரிடம் தெரிவித்துள்ளனர்.
+Russian officials have said that the body will be handed over only after the autopsy.
 
-சிறைச்சாலையில் நடந்துகொண்டிருந்த வேளை தீடிரென மயக்கமடைந்து வீழ்ந்து நவால்னி உயிரிழந்தார் என  ரஸ்ய அதிகாரிகள் அவரின் தாயாரிடம் தெரிவித்துள்ளனர்.
+Russian officials have informed her mother that Navalni died after falling unconscious while walking in the prison.
 
-சிறைச்சாலைக்கு அருகில் உள்ள நகரமொன்றிற்கு நவால்னியின் உடல் கொண்டு செல்லப்பட்டுள்ளதாக அதிகாரிகள் நவால்னியின் தாயாருக்கு தெரிவித்தனர் அவர் அங்கு சென்றவேளை பிரேதஅறை மூடப்பட்டிருந்தது என நவால்னியின் சகாக்கள் தெரிவித்துள்ளனர்.
+Navalni's body has been taken to a city near the prison.
 
-முதலாவது பிரேதப்பரிசோதனை முழுமையானதாக காணப்படாததால் மற்றுமொரு பிரேதப்பரிசோதனையை மேற்கொள்ளவேண்டியுள்ளது என ரஸ்ய அதிகாரிகள் தெரிவித்துள்ளனர்.
+Russian officials have said that the first autopsy has not been complete, and another autopsy has to be carried out.
 
-தடயங்களை மறைப்பதற்காக வேண்டுமென்றே நவால்னியின் உடலை  அதிகாரிகள் மறைக்கின்றனர் எனதெரிவித்துள்ள நவால்னியின் சகாக்கள்  அவரது உடலை உடனடியாக குடும்பத்தினரிடம் வழங்கவேண்டும் என வேண்டுகோள் விடுத்துள்ளனர்.
+Navalni's colleagues, who have said that the authorities are deliberately hiding Navalni's body to cover up the traces, have requested that his body be given to the family immediately.
 
 ◼️
 
 [Data](articles/031c3c3d.json)
+
+[Extended Data](ext_articles/031c3c3d.ext.json)
 
 ---
 

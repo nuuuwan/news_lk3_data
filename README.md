@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 05:02:32**
+As of **2024-02-19 05:17:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,893 (99.9%) of 7,897 articles have been extended.
+7,897 (100.0%) of 7,897 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ A prudent suggestion is to abolish the Executive Presidency through a referendum
 
 [Data](articles/51de6f27.json)
 
+[Extended Data](ext_articles/51de6f27.ext.json)
+
 ---
 
 ### Language: A Catalyst to foster National Unity - EDITORIAL
@@ -55,6 +57,8 @@ Sri Lanka is described as a multilingual country but this definition could perha
 ...
 
 [Data](articles/28c47705.json)
+
+[Extended Data](ext_articles/28c47705.ext.json)
 
 ---
 
@@ -70,6 +74,8 @@ Two years ago in February 2022, Sri Lanka rapidly descended into an economic cri
 
 [Data](articles/46fdf583.json)
 
+[Extended Data](ext_articles/46fdf583.ext.json)
+
 ---
 
 ### Nalanda Mourns the Loss of Hon. Gamini Jayawickrama Perera
@@ -81,6 +87,8 @@ Mallawa Arachchige Gamini Jayawickrama Perera, (29 January 1941–17 February 20
 ...
 
 [Data](articles/62a002b7.json)
+
+[Extended Data](ext_articles/62a002b7.ext.json)
 
 ---
 

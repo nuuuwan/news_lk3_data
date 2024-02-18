@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 12:17:27**
+As of **2024-02-18 12:32:48**
 
 ## Newspaper Stats
 
-*Scraped **7,778** Articles*
+*Scraped **7,782** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 87
 bbccomsinhala | 99
-dbsjeyarajcom | 152
+dbsjeyarajcom | 153
 newsfirstlk | 363
 economynextcom | 400
 islandlk | 409
@@ -19,18 +19,32 @@ adalk | 658
 tamilmirrorlk | 947
 adaderanalk | 956
 virakesarilk | 1,021
-adaderanasinhalalk | 1,125
-dailymirrorlk | 1,146
+adaderanasinhalalk | 1,127
+dailymirrorlk | 1,147
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,778 (100.0%) of 7,778 articles have been extended.
+7,778 (99.9%) of 7,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### මීගොඩ වෙඩි තැබීමේ සිද්ධියේ ප්‍රධාන සැකකරුවන් අත්අඩංගුවට
+
+*2024-02-18 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193538) · `si`
+
+මීගොඩ ආර්ථික මධ්‍යස්ථානයේ වෙඩි තැබීමේ සිද්ධියට සම්බන්ධ තුවක්කුකරු සහ යතුරුපැදිකරු අත්අඩංගුවට ගෙන තිබේ.
+
+මේ අතර, වෙඩි තැබීමට යොදාගත් යතුරුපැදිය සහ ගිනි අවිය ද පොලිස් විශේෂ කාර්ය බළකාය විසින් සොයා ගැනිණි.
+
+◼️
+
+[Data](articles/47b44583.json)
+
+---
 
 ### The executive presidency will not be abolished during the election;It was the story of the opposition parties - the president
 
@@ -80,6 +94,28 @@ Algeria requested on Saturday that the council vote on Tuesday, diplomats said. 
 
 ---
 
+### Police bust drug ring linked to ’Santa’, two women arrested
+
+*2024-02-18 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-bust-drug-ring-linked-to-Santa-two-women-arrested/108-277252) · `en`
+
+Colombo, Feb 18 (Daily Mirror) - The Piliyandala Police arrested two young women linked to large-scale drug trafficker Sithum, also known as 'Santa,' believed to be in hiding in France.
+
+The narcotics seized during the operation are estimated to have a street value of Rs. 1 million.
+
+During the raid, police arrested two individuals who were not only purchasing drugs but also consuming them.
+
+Along with the suspects, police recovered 250 grams of hashish, 15 dancing tablets, an electronic scale, and 8 mobile phones.
+
+The Piliyandala Police received information that "Santa", who is said to be carrying out drug trafficking on a large scale from France, is carrying out his drug trafficking using young women.
+
+Further investigations revealed that a top floor of a building in Polgasovita, Kahathuduwa was rented out as a distribution point.
+
+...
+
+[Data](articles/f4c8abc3.json)
+
+---
+
 ### Charles Ambrose Lorenz: an unsung artist of the 19th century
 
 *2024-02-18 11:15:00* · [`islandlk`](http://island.lk/charles-ambrose-lorenz-an-unsung-artist-of-the-19th-century/) · `en`
@@ -121,6 +157,22 @@ He said that once this project is put forward, you will know how your life will 
 [Data](articles/c67595d8.json)
 
 [Extended Data](ext_articles/c67595d8.ext.json)
+
+---
+
+### තක්ෂින් ෂිනවත් නිදහස ලබයි
+
+*2024-02-18 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193536) · `si`
+
+දූෂණ අක්‍රමිකතා චෝදනා මත සිරදඩුවම් නියම ව සිටි තායිලන්ත හිටපු අග්‍රාමාත්‍ය තක්ෂින් ෂිනවත් නිදහස ලබා බැංකොක්හි පිහිටි සිය මන්දිරය වෙත පැමිණ තිබිණි.
+
+කෙසේ වෙතත් සෞඛ්‍ය හේතුන් මත ඔහු එරට පොලිස් රෝහලක රඳවා සිටි අතර, එක්දිනක් හෝ බන්ධනාගාරයේ රැඳී නොසිටි බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+දුෂණ අක්‍රමිකතා චෝදනා මත තක්ෂින් ෂිනවත්ට වසර 08ක සිරදඬුවමක් නියම වී තිබුණ  ද තායිලන්ත රජු විසින් එය වසරක් දක්වා අඩු කිරිමට පියවර ගනු ලැබීය.
+
+◼️
+
+[Data](articles/3ad288af.json)
 
 ---
 
@@ -873,6 +925,40 @@ The President visited the Tourist Hotels and the Weligama - Training Training Co
 [Data](articles/8b50b788.json)
 
 [Extended Data](ext_articles/8b50b788.ext.json)
+
+---
+
+### Memories of Interacting with Upali Wijewardene as a Journalist.
+
+*2024-02-18 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83632) · `en`
+
+Today (Feb 17) is the birthday of Sri Lanka’s popular business magnate Philip Upali Wijewardene. If Upali Wijewardene  were among the living now, he would have celebrated his 86th birthday this year.  Alas, this was not to be as the Lear Jet he was travelling in  disappeared on 13 February 1983  just 4 days before his 45th birthday .
+
+It was my privilege to be associated with Upali Wijewardene slightly and briefly during the years 1978 to 1983. As a journalist on the Tamil Daily “Virakesari” I covered the Greater Colombo Economic Commission (GCEC) or “free trade Zone” from 1978 to 1981. Upali was the first Director -General of the GCEC.
+
+Later in 1981 I began working as a staff reporter on the English daily “The Island” published by Upali newspapers Ltd of which he was the proprietor. I was at “The Island” in 1983 when Upali went missing 41 years ago .The Island of Tuesday, February 15 broke the sad news with a banner headline “Plane carrying Upali Wijewardene feared lost.”
+
+...
+
+[Data](articles/665b4fb4.json)
+
+[Extended Data](ext_articles/665b4fb4.ext.json)
+
+---
+
+### Distinguished Emeritus Professor and Eminent Author and Poet Yasmine Gooneratne passes  away on Thursday February 15th 2024 at the age of  88.
+
+*2024-02-18 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83641) · `en`
+
+Distinguished Emeritus Professor and Eminent Author and Poet Yasmine Gooneratne passed away on Thursday February 15th 2024.She was 88.
+
+After schooling at Bishops College , Colombo Yasmine went on to graduate from the University of Ceylon at Peradeniya. Thereafter she received a PhD in English Literature from Cambridge University,UK.
+
+Yasmine Gooneratne relocated to  Australia in 1972. In 1981, she received the first higher doctoral degree of Doctor of Letters at Macquarie University. Yasmine  was the Founder and Director of the Centre for Post-Colonial Literature and Language Studies at Macquarie University in New South Wales..
+
+...
+
+[Data](articles/834b571d.json)
 
 ---
 
@@ -2023,107 +2109,5 @@ The Ceylon Transport Board is conducting an investigation into the incident.
 [Data](articles/7125e63b.json)
 
 [Extended Data](ext_articles/7125e63b.ext.json)
-
----
-
-### France signs security pact with Ukraine, pledges ‘up to €3 billion’ in additional military aid
-
-*2024-02-17 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97350/france-signs-security-pact-with-ukraine-pledges-up-to-3-billion-in-additional-military-aid) · `en`
-
-The agreement includes a French aid pledge for up to €3 billion for 2024, after €1.7 billion in 2022 and €2.1 billion last year.
-
-Both deals are part of Zelensky’s drive to shore up help for his forces who are struggling to hold off Russian attacks on the frontline city of Avdiivka.
-
-After touching down at Orly airport south of the French capital, Zelensky travelled on to the Elysee palace where he met with President Emmanuel Macron to sign the accord.
-
-The French presidency said ahead of the meeting that the pact would run for 10 years, and include precise commitments from the French side, including financial pledges.
-
-It would strengthen cooperation in the area of artillery, the presidency said, without providing details.
-
-The deal is also to help pave the way towards Ukraine’s future integration into the European Union and NATO, officials said.
-
-...
-
-[Data](articles/22387b18.json)
-
-[Extended Data](ext_articles/22387b18.ext.json)
-
----
-
-### Students hospitalized after suspected drug ingestion, one in critical condition
-
-*2024-02-17 16:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Students-hospitalized-after-suspected-drug-ingestion-one-in-critical-condition/155-277238) · `en`
-
-Ibbagamuwa, Feb 17 (Daily Mirror) - The Maduragoda Police have initiated an inquiry into an incident where four primary school students from the Ibbagamuwa region fell unconscious, suggesting a possible connection to the consumption of an unidentified type of pill.
-
-Following the incident, the four intoxicated school students were rushed to the Rambadagalla hospital and transferred to the Kurunegala Teaching Hospital
-
-According to reports from local authorities, one of the students was found to be heavily intoxicated, prompting immediate medical attention.
-
-Hospital sources indicated that the students' sudden loss of consciousness raised concerns of possible drug ingestion.
-
-◼️
-
-[Data](articles/db5db35d.json)
-
-[Extended Data](ext_articles/db5db35d.ext.json)
-
----
-
-### Students hospitalized after suspected drug ingestion, one in critical condition
-
-*2024-02-17 16:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Students-hospitalized-after-suspected-drug-ingestion-one-in-critical-condition/108-277238) · `en`
-
-Ibbagamuwa, Feb 17 (Daily Mirror) - The Maduragoda Police have initiated an inquiry into an incident where four primary school students from the Ibbagamuwa region fell unconscious, suggesting a possible connection to the consumption of an unidentified type of pill.
-
-Following the incident, the four intoxicated school students were rushed to the Rambadagalla hospital and transferred to the Kurunegala Teaching Hospital
-
-According to reports from local authorities, one of the students was found to be heavily intoxicated, prompting immediate medical attention.
-
-Hospital sources indicated that the students' sudden loss of consciousness raised concerns of possible drug ingestion.
-
-◼️
-
-[Data](articles/e3d24e35.json)
-
-[Extended Data](ext_articles/e3d24e35.ext.json)
-
----
-
-### Four primary schoolchildren hospitalized after consuming intoxicating pills
-
-*2024-02-17 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97349/four-primary-schoolchildren-hospitalized-after-consuming-intoxicating-pills) · `en`
-
-Four students in Grade 5 at a primary school in the Maduragoda area of Kurunegala were hospitalized after ingesting some intoxicating pills.
-
-According to the police, the students had consumed certain pills brought to school by one of the hospitalized students. The child had discovered the pills hidden at his home, reportedly belonging to his drug-addicted father, who has several pending drug-related cases.
-
-The students have been admitted to Kurunegala General Hospital due to an allergic reaction. The Maduragoda Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/d267de6d.json)
-
-[Extended Data](ext_articles/d267de6d.ext.json)
-
----
-
-### Missing an officer drowns in a raid
-
-*2024-02-17 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193506) · `si`
-
-Police said the police said that a person drowned in Galombiya in Karandagala yesterday morning.
-
-The victim is a Field Officer belonging to the office of 53-year-old Bibilai sites.
-
-Investigations have revealed that a group of officials of the other office of the Bibile Designation Official Officer of Office.
-
-The Navy and Police have commenced operations in search of the missing officer.
-
-◼️
-
-[Data](articles/f4e8e08a.json)
-
-[Extended Data](ext_articles/f4e8e08a.ext.json)
 
 ---

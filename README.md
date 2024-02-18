@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 15:02:38**
+As of **2024-02-18 15:17:32**
 
 ## Newspaper Stats
 
-*Scraped **7,803** Articles*
+*Scraped **7,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,80 @@ adalk | 661
 tamilmirrorlk | 952
 adaderanalk | 959
 virakesarilk | 1,023
-adaderanasinhalalk | 1,131
+adaderanasinhalalk | 1,132
 dailymirrorlk | 1,150
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,801 (100.0%) of 7,803 articles have been extended.
+7,804 (100.0%) of 7,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### புற்றுநோய்க்கு எதிராக விரைவில் தடுப்பூசி
+### Tickets of the Twenty20 final
 
-*2024-02-18 14:23:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/புற்றுநோய்க்கு-எதிராக-விரைவில்-தடுப்பூசி/50-333387) · `ta`
+*2024-02-18 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193543) · `si`
 
-உலகம் முழுவதும் அரசு - சார்ந்த மற்றும் அரசு - சாரா பல அமைப்புகள் கேன்சருக்கு தடுப்பூசி கண்டுபிடிக்கும் முயற்சியில் பல கோடிகளை செலவழித்து தீவிர ஆராய்ச்சியில் ஈடுபட்டு வருகின்றன.
+Sri Lanka Cricket said all the tickets of the Twenty20 cricket match between Sri Lanka and Afghanistan have been constructed.
 
-கடந்த வருடம், இங்கிலாந்து அரசு, ஜெர்மனி நாட்டை அடிப்படையாக கொண்ட பயோஎன்டெக் (BioNTech) எனும் நிறுவனத்துடன், 2030க்குள் 10 ஆயிரம் நோயாளிகள் பயன்படும் வகையில் கேன்சர் மருத்துவ ஆராய்ச்சி செய்து கொள்ள ஒரு ஒப்பந்தம் செய்து கொண்டது.
+Sri Lanka Cricket urges people to avoid further tickets at home cabins.
 
-இந்நிலையில், ரஷ்ய ஜனாதிபதி விளாடிமிர் புதின், எதிர்கால தொழில்நுட்பம் குறித்து ரஷ்ய தலைநகர் மாஸ்கோவில் உரையாற்றினார். அதில் ரஷ்ய ஆராய்ச்சியாளர்கள் கேன்சருக்கான மருந்து கண்டுபிடிப்பில் அடைந்துள்ள முன்னேற்றம் குறித்து பேசினார்.
+Tests have also been closed down due to the end of the tickets, Dambulla and Colombo.
 
-அப்போது அவர், “எங்கள் ஆராய்ச்சியாளர்கள் கேன்சருக்கான தடுப்பூசியை கண்டுபிடிக்கும் முயற்சியில் வெற்றியை நெருங்கி விட்டார்கள். தனிப்பட்ட வகையில் நோயாளிகளுக்கு பயன்படும் வகையில் அவை பொதுபயன்பாட்டுக்கு விரைவில் வரும் என நம்புகிறேன்.” என தெரிவித்துள்ளார்.
+Sri Lanka Cricket said that 18,000 audience visited the first Twenty Twenty match between Sri Lanka and Afghanistan.
 
-...
+Accordingly, the second Twenty Twenty Twenty Twenty-Twenty-Twenty-Twenty-Twenty 19th and Third T20 match will be held on the 21st tomorrow at Dambulla International Cricket Stadium.
 
-[Data](articles/44112268.json)
+◼️
+
+[Data](articles/e7596af3.json)
+
+[Extended Data](ext_articles/e7596af3.ext.json)
 
 ---
 
-### ’திருக்குறள் AI’
+### Vaccine quickly against cancer
+
+*2024-02-18 14:23:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/புற்றுநோய்க்கு-எதிராக-விரைவில்-தடுப்பூசி/50-333387) · `ta`
+
+Many governments around the world, state -based and government - have been engaged in intensive research by spending billions of crores of crores of people in the effort to find cancer.
+
+Last year, the UK government signed an agreement with the German -based Bionech, a Bionech, a contract to perform cancer medical research by 2030 by 2030.
+
+In this case, Russian President Vladimir Puthan addresses the future technology in Moscow, the Russian capital. In it, Russian researchers spoke about the progress in the discovery of cancer.
+
+He then said, “Our researchers approached success in an attempt to find a cancer vaccine. I hope that they will soon be in public use to use patients. ”Said.
+
+The novel does not report the vaccine to prevent any type of cancer and how the patient acts in the body.
+
+It is noteworthy that Russia invented a "Sputnik" vaccine against the Corona virus during the Govt -19 period and exported it to foreign countries.
+
+◼️
+
+[Data](articles/44112268.json)
+
+[Extended Data](ext_articles/44112268.ext.json)
+
+---
+
+### Exchange Thirukkural AI
 
 *2024-02-18 14:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருக்குறள்-AI/175-333384) · `ta`
 
-நவீன தொழில்நுட்பத்தின் வளர்ச்சியையும், வேகத்தையும் உள்வாங்கி வளர்வதில் தமிழ் மொழி என்றும் தனித்து நிற்கும். அந்த வகையில் ‘திருக்குறள் ஏஐ’ பாட் அறிமுகமாகி உள்ளது. இன்றைய செயற்கை  நுண்ணறிவு  தொழில்நுட்பத்தின் பாய்ச்சலுக்கு ஏற்ப திருக்குறள் ஜெனரேட்டிவ் ஏஐ பாட் உருவில் அவதரித்துள்ளது என இதனை குறிப்பிடலாம்.
+The Tamil language is also separate in developing the growth and speed of modern technology. Thirukkural AI Model Pot has been introduced in that way. This can be mentioned that the Tirukkural Generating AI Pot is incarnated in accordance with the flow of artificial intelligence technology today.
 
-அந்த வகையில் திருக்குறள் ஏஐ பாட் மூலம் வள்ளுவரின் 1,330 குறளையும் பயனர்கள் பெறலாம். அறத்துப்பால், பொருட்பால், இன்பத்துப்பால் என வள்ளுவர் எழுதிய முப்பாலிலும் உள்ள 133 அதிகாரங்களில் உள்ள அனைத்து குறள் மற்றும் அதற்கான பொருள் விளக்கத்தை இதில் உள்ள குறள் பட்டியல் மூலம் பயனர்கள் பெறலாம். முன்னாள் முதல்வர் கருணாநிதி, பரிமேலழகர், சாலமன் பாப்பையா மற்றும் மு.வரதராசனார் ஆகியோரது பொருள் விளக்கம் ஒவ்வொரு குறளுக்கும் வழங்கப்பட்டுள்ளது.
+Valluvar's 1,330 shortfall can also be obtained by Thirukkural AI Pot. Users can get all the margin and appropriate interpretation of the 133 chapters in Valluvar's Thuppal by Valluvar.. The meaning of former Chief Minister Karunanidhi, Parimelakar, Solomon Papaya and Mu Varadarasanar has been given to each short.
 
-...
+In addition, users can question this AI Pot in the form of dialogue based on any word. For example, if users are entered as a charity, it is included in this bot and all the relevant shortcomings are listed. Its design and user application is easy. Information is available in Tamil.
+
+◼️
 
 [Data](articles/d9f9640f.json)
+
+[Extended Data](ext_articles/d9f9640f.ext.json)
 
 ---
 
@@ -2107,27 +2139,5 @@ The Junior staff employees stated that if Dr. Rukshan Bellana is reported to wor
 [Data](articles/8edb29e1.json)
 
 [Extended Data](ext_articles/8edb29e1.ext.json)
-
----
-
-### U.S. Under Secretary Liz Allen arrives in Sri Lanka
-
-*2024-02-17 18:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97353/us-under-secretary-liz-allen-arrives-in-sri-lanka) · `en`
-
-The U.S. Under Secretary of State for Public Diplomacy, Elizabeth M. Allen has arrived in Sri Lanka for an official visit.
-
-Upon her arrival, the Under Secretary was cordially welcomed by the U.S. Ambassador in Colombo, Julie Chung. “Pleased to welcome @UnderSecPD Liz Allen, the first visit from an U.S. Under Secretary for Public Diplomacy to Sri Lanka,” the envoy said in a post on her X handle (formerly Twitter).
-
-During her stay here, Allen will meet with government officials, media representatives, digital content creators and youth leaders to discuss the partnership between the two nations and the safeguarding of Sri Lanka’s information and media space, and to explore ways to work together to promote prosperity on the island nation, Chung said further.
-
-Following her Sri Lanka tour, Allen will embark on a visit to India.
-
-Meanwhile, U.S. Deputy Secretary of State for Management and Resources Richard R. Verma is also slated to travel to the island nation.
-
-...
-
-[Data](articles/af8f1375.json)
-
-[Extended Data](ext_articles/af8f1375.ext.json)
 
 ---

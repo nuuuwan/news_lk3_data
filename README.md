@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 22:32:45**
+As of **2024-02-18 22:50:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,157
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,847 (100.0%) of 7,848 articles have been extended.
+7,848 (100.0%) of 7,848 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Civilian visitors are not allowed - and the island has officially had no residen
 ...
 
 [Data](articles/0296f5c2.json)
+
+[Extended Data](ext_articles/0296f5c2.ext.json)
 
 ---
 

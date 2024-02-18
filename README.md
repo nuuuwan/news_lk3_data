@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 16:47:26**
+As of **2024-02-18 17:02:38**
 
 ## Newspaper Stats
 
-*Scraped **7,810** Articles*
+*Scraped **7,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ economynextcom | 401
 islandlk | 409
 dailyftlk | 415
 adalk | 664
-tamilmirrorlk | 952
-adaderanalk | 960
+tamilmirrorlk | 953
+adaderanalk | 961
 virakesarilk | 1,023
 adaderanasinhalalk | 1,133
-dailymirrorlk | 1,151
+dailymirrorlk | 1,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,810 (100.0%) of 7,810 articles have been extended.
+7,810 (99.9%) of 7,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### Even our leader should not get misled by con men: Chaminda Wijesiri
+
+*2024-02-18 16:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Even-our-leader-should-not-get-misled-by-con-men-Chaminda-Wijesiri/108-277260) · `en`
+
+Colombo, Feb. 18 (Daily Mirror)- Even Samagi Jana Balawegaya (SJB) leader Sajith Premadasa should not get misled by those who join the party for their benefits, former SJB MP Chaminda Wijesiri said today.
+
+"There are some politicians who have become independent after the country's economic downfall and then join new political parties. Our leaders should not welcome these political prostitutes. They will destroy the party if they are welcomed," the former MP said.
+
+He said there is nothing wrong in people taking to the streets and launching struggles against false political alliances," he told journalists.
+
+"People should not get deceived by false political alliances," he also said.
+
+◼️
+
+[Data](articles/94f703aa.json)
+
+---
+
+### CID arrests close associate of ‘Piyuma’
+
+*2024-02-18 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97370/cid-arrests-close-associate-of-piyuma) · `en`
+
+A close associate of criminal gang member Piyum Hasthika alias ‘Piyuma’ was arrested by the Criminal Investigation Department (CID) on Saturday (17 Feb.).
+
+The female suspect, identified as a friend of Piyum Hasthika’s wife, was arrested upon her arrival in the country from Dubai, police reported, adding that the CID had subsequently recorded a statement from her for nearly four hours.
+
+According to police, ‘Piyuma’ had revealed a series of important facts about the crimes he committed, adding that he and the notorious underworld figure and drug trafficker Salindu Malshika Gunaratne alias ‘Kudu Salindu’ have been childhood friends.
+
+‘Piyuma’ was repatriated to Sri Lanka from Dubai on 15 February, after which the CID secured a 72-hour detention order under the Prevention of Terrorism Act (PTA) from the Colombo Fort Magistrate’s Court.
+
+According to the Public Security Ministry, the criminal suspect was brought back to the island by a special team of the CID.
+
+...
+
+[Data](articles/b4dae788.json)
+
+---
+
+### ஏறி வந்தவர் பலி: ஏற்றிவந்தவர் காயம்
+
+*2024-02-18 16:18:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஏறி-வந்தவர்-பலி-ஏற்றிவந்தவர்-காயம்/76-333397) · `ta`
+
+காட்டுப்பகுதியில் இருந்து வெட்டிய மரங்களை ஏற்றிக்கொண்டு பயணித்த லொறியொன்று, வீதியை விட்டு விலகி சுமார் 200 அடி பள்ளத்தில் விழுந்து ஞாயிற்றுக்கிழமை (18) விபத்துக்கு உள்ளாகியுள்ளது.
+
+இந்த விபத்தில், நானுஓயா  நகருக்கு செல்வதற்காக, லொறியில் ஏறி வந்த டெஸ்போட் தோட்டம் வாழை மலையைச் சேர்ந்த வடமலை மயில்வாகனம் (வயது 58) என்பவரே உயிரிழந்துள்ளார்.
+
+விபத்துக்கு உள்ளான லொறியின் சாரதி ஆபத்தான நிலையிலும் , உதவியாளர் சிறு காயங்களுடன்  நுவரெலியா மாவட்ட பொது  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+தொழில்நுட்ப கோளாறு காரணமாக லொறி வீதியில் இருந்து விலகி, விபத்துக்குள்ளாகி உள்ளதாக, பொலிஸாரின் ஆரம்பக்கட்ட விசாரணைகளில் இருந்து தெரியவந்துள்ளது
+
+◼️
+
+[Data](articles/a1894846.json)
+
+---
 
 ### Health sector trade unions to meet Health Minister tomorrow
 
@@ -49,6 +105,24 @@ The trade unions representing a wide range of health sector professionals – in
 [Data](articles/b7ccddf6.json)
 
 [Extended Data](ext_articles/b7ccddf6.ext.json)
+
+---
+
+### Iranian Foreign Minister to visit Sri Lanka tomorrow
+
+*2024-02-18 15:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-Foreign-Minister-to-visit-Sri-Lanka-tomorrow/108-277261) · `en`
+
+Colombo, Feb. 18 (Daily Mirror)- Minister of Foreign Affairs of the Islamic Republic of Iran, Hossein Amir Abdollahian will undertake an official visit to Sri Lanka from tomorrow (19) to February 21, 2024, the Ministry of Foreign Affairs said.
+
+He will arrive in Sri Lanka on an invitation extended by Minister of Foreign Affairs Ali Sabry.
+
+"During this visit, the Iranian Foreign Minister is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. The visiting Minister and his delegation will hold official discussions with Minister Ali Sabry at the Ministry of Foreign Affairs, a statement issued by the Foreign Affairs Ministry said.
+
+In August 2023, Foreign Minister Ali Sabry had bilateral discussions with Foreign Minister Dr. Hossein Amir Abdollahian during his visit to Tehran.
+
+...
+
+[Data](articles/ea662123.json)
 
 ---
 
@@ -2079,75 +2153,5 @@ However, the governor does not seek to inform the Secretary of the Southern Prov
 [Data](articles/56dc5de7.json)
 
 [Extended Data](ext_articles/56dc5de7.ext.json)
-
----
-
-### PUBLIC TRANSPORT IN THE KANDY AREA IN THE LAST CENTURY
-
-*2024-02-17 20:47:00* · [`islandlk`](http://island.lk/public-transport-in-the-kandy-area-in-the-last-century/) · `en`
-
-Prior to the nationalization of the bus transport system on January 1, 1958, the road passenger transport system was handled by private bus companies. They ran the bus services to some order and after nationalization the Ceylon Transport Board(CTB) was able to incorporate some of their systems useful to run the bus services in an efficient manner.
-
-The town services in Kandy from Peradeniya to Katugastota, Pendiniya to Tennekumbura, Ampitiya, Nattaranpota, Halloluwa, Dodanwela and Dangolla were served by the Kandy Omnibus Company. The Gampola, Nawalapitiya, Hatton, Pussellawa-Kandy services were handled by the Madhyamalanka Bus Company. The Talatuoya, Marassana to Deltota services were handled by the Sinha Bus Company. The Silverline Bus Company operated on the routes beyond Katugastota. These were the bus passenger transport services that I can remember.
-
-...
-
-[Data](articles/78ffb50b.json)
-
-[Extended Data](ext_articles/78ffb50b.ext.json)
-
----
-
-### Israel’s Gaza Campaign Is the Gravest Moral Crisis of Our Time
-
-*2024-02-17 20:47:00* · [`islandlk`](http://island.lk/israels-gaza-campaign-is-the-gravest-moral-crisis-of-our-time/) · `en`
-
-The crisis in Gaza shows those nations that should be defending international law and humanitarian values to be openly betraying their commitments.
-
-I write this essay as a senior American Buddhist monk of Jewish ethnicity who has been deeply distressed by Israel’s military assault on the population of Gaza. I see this campaign as perhaps the gravest moral crisis of our time. The blistering bombardments, the ever-mounting death toll, the deadly blockade of vital essentials, the annihilation of innocent human lives—all these events sear the moral consciousness like a red-hot iron and demand a loud shout from the depths of the soul: “For God’s sake, stop it!” Indeed, in its own discreet tones, the International Court of Justice has issued such a shout, yet it seems to have fallen on deaf ears.
-
-...
-
-[Data](articles/ce4e3bc3.json)
-
-[Extended Data](ext_articles/ce4e3bc3.ext.json)
-
----
-
-### Sri Lankan innings limited to 160 runs
-
-*2024-02-17 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193517) · `si`
-
-The first Twenty Twenty Twenty Task squad between the Afghan group and Sri Lanka team is now.
-
-Batting first Sri Lanka scored only 160 runs in 19 overs.
-
-Accordingly, Afghanistan has the target of 161 runs to win the match.
-
-Wanindu Hasarangan scored 67 off 32 balls.
-
-◼️
-
-[Data](articles/52118b86.json)
-
-[Extended Data](ext_articles/52118b86.ext.json)
-
----
-
-### Steam of spines of the Hetakanda Reservoir
-
-*2024-02-17 20:30:03* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-ගේට්ටු-හතම-විවෘත-කරයි/11-408136) · `si`
-
-Ulhupitiya Ratakara, Ulhpitiya Ratakara, Ulhiyadha Reservoir, Ulhiyadha Reservoir informs the people below the reservoir of the reservoir today (17) before the increase in the water level of the reservoir today (17) were opened due to the increase in the water level of the water level.
-
-He said that the water level of the reservoir of the reservoir, he said that the water level of the reservoir was increasingly due to the increase in the reservoir.
-
-He was informed of Ulhiyadha Reservoir to use alternative routes as the water is also underway as the water is also underwater.
-
-◼️
-
-[Data](articles/1e5b30ac.json)
-
-[Extended Data](ext_articles/1e5b30ac.ext.json)
 
 ---

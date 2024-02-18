@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 00:02:37**
+As of **2024-02-19 00:17:12**
 
 ## Newspaper Stats
 
-*Scraped **7,854** Articles*
+*Scraped **7,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,57 @@ colombotelegraphcom | 88
 bbccomsinhala | 99
 dbsjeyarajcom | 153
 newsfirstlk | 363
-economynextcom | 401
+economynextcom | 404
 islandlk | 409
 dailyftlk | 415
 adalk | 670
 tamilmirrorlk | 955
 adaderanalk | 968
-virakesarilk | 1,029
+virakesarilk | 1,031
 adaderanasinhalalk | 1,145
-dailymirrorlk | 1,159
+dailymirrorlk | 1,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,854 (100.0%) of 7,854 articles have been extended.
+7,854 (99.9%) of 7,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### Dispute over 90 perches of land ends after 52 years legal battle
+
+*2024-02-18 23:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dispute-over-90-perches-of-land-ends-after-52-years-legal-battle/108-277265) · `en`
+
+Colombo, Feb. 18 (Daily Mirror)- The Supreme Court delivered a judgment in favour of the plaintiff party over a land dispute relating to a 90-perch plot of land in Kurunegala, which had traversed the halls of the courts for 52 years.
+
+This case was first instituted in 1972 by the original plaintiff in the District Court of Kurunegala against the original defendant for a declaration of title to the land called “Damunugahamulawatta”, ejectment of the original defendant from the said land, restoration of possession and damages.
+
+On March 29, 1976, the Kurunegala District Court delivered a judgment in favour of the plaintiff. Subsequently, the defendant filed an appeal before the Court of Appeal against the District Court judgment. On October 25, 1984 the Court of Appeal set aside the judgment of the District Court and sent the case back for a fresh trial (de-novo) on the basis that the District Court Judge had not taken into consideration several documents produced as evidence.
+
+...
+
+[Data](articles/7e787363.json)
+
+---
+
+### ஹரீன் பெர்னாண்டோவின் கருத்து பாரதூரமானது - விமல் வீரவன்ச
+
+*2024-02-18 22:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176705) · `ta`
+
+இலங்கை இந்தியாவின் ஒரு பகுதி என அமைச்சர் ஹரீன் பெர்னாண்டோ குறிப்பிட்ட பாரதூரமான கருத்து தொடர்பில் ஜனாதிபதியின் நிலைப்பாடு என்ன? பொருளாதார பாதிப்புக்கு மத்தியில் இலங்கையின் சுயாதீனம் இந்தியாவிடம் காட்டிக் கொடுக்கப்பட்டுள்ளது என தேசிய சுதந்திர முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான விமல் வீரவன்ச தெரிவித்தார்.
+
+தேசிய சுதந்திர முன்னணியின் காரியாலயத்தில் ஞாயிற்றுக்கிழமை (18) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+அமைச்சர் ஹரீன் பெர்னாண்டோ இந்திய இராஜதந்திர நடவடிக்கையின் போது 'இலங்கை இந்தியாவின் ஒரு பகுதி' என்று பாரதூரமான கருத்தை குறிப்பிட்டுள்ளார். ஜனாதிபதி ரணில் விக்கிரமசிங்க,'நாட்டின் சுயாதீனத்தை நாங்கள் பாதுகாத்தோம்' என்று குறிப்பிடும் ராஜபக்ஷர்கள்,எதிர்க்கட்சித் தலைவர் உட்பட அதிகாரத்தைக் கைப்பற்ற போராடும் தரப்பினர் கண்டுக்கொள்ளவில்லை. அறிந்தும் அறியாமல் இருப்பது போல் இருக்கிறார்கள்.
+
+...
+
+[Data](articles/4ad0497b.json)
+
+---
 
 ### US to donate King Air aircraft to Sri Lanka to patrol coastal waters
 
@@ -71,6 +103,40 @@ The US had also provided boats before the security forces of Sri Lanka to protec
 [Data](articles/998c7628.json)
 
 [Extended Data](ext_articles/998c7628.ext.json)
+
+---
+
+### Megoda robbery: 5 arrested
+
+*2024-02-18 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176702) · `ta`
+
+Five people have been arrested in connection with the robbery at the Meegoda Economic Center and three of them are traders, police said.
+
+Police have arrested a businessman from Tissamaharama area for allegedly spying on the robbery.
+
+He is running a chilli powder business and anatomical center in Tissamaharama area, police said.
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that two businessmen living in Imbulkama and Kadawatha areas have been arrested in connection with the incident.
+
+◼️
+
+[Data](articles/5de8f9d7.json)
+
+[Extended Data](ext_articles/5de8f9d7.ext.json)
+
+---
+
+### பாராளுமன்ற உறுப்பினர்களின் ஒப்புதல் இல்லாமல் எவ்வாறு திட்டங்களை முன்வைக்கலாம் ; யாழ் மாவட்ட ஒருங்கிணைப்பு குழு கூட்டத்தில் விவாதம்
+
+*2024-02-18 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176703) · `ta`
+
+யாழ் மாவட்ட ஒருங்கிணைப்புக் குழு கூட்டம் கடற்றொழில் அமைச்சரும் யாழ்மாவட்ட ஒருங்கிணைப்பு குழுவின் தலைவருமான டக்ளஸ் தேவானந்தாவின் தலைமையில் வெள்ளிக்கிழமை (18) யாழ் மாவட்ட செயலகத்தில் இடம்பெற்றது.
+
+இதன்போது 2024 ஆம் ஆண்டு வரவு செலவு திட்ட பன்முகப்படுத்தப்பட்ட நிதியில் இவ்வருடத்தில் முன்னெடுக்கப்படவுள்ள வேலைத் திட்டங்கள் காட்சிப்படுத்தப்பட்ட போது, குறித்த திட்டங்கள் தொடர்பில் பாராளுமன்ற உறுப்பினர்களின் ஒப்புதல் பெறப்படவில்லை என கூட்டத்தில் கலந்து கொண்ட பாராளுமன்ற உறுப்பினர்கள் கேள்வி எழுப்பியதோடு குறித்த விடயம் தொடர்பில் உரிய பதில் வழங்குமாறு கேள்வி எழுப்பியுள்ளனர்.
+
+...
+
+[Data](articles/9c13eac4.json)
 
 ---
 
@@ -153,26 +219,6 @@ Meanwhile, the media notes have been identified by the media and has been arrest
 [Data](articles/0e86b233.json)
 
 [Extended Data](ext_articles/0e86b233.ext.json)
-
----
-
-### Megoda robbery: 5 arrested
-
-*2024-02-18 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176702) · `ta`
-
-Five people have been arrested in connection with the robbery at the Meegoda Economic Center and three of them are traders, police said.
-
-Police have arrested a businessman from Tissamaharama area for allegedly spying on the robbery.
-
-He is running a chilli powder business and anatomical center in Tissamaharama area, police said.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that two businessmen living in Imbulkama and Kadawatha areas have been arrested in connection with the incident.
-
-◼️
-
-[Data](articles/5de8f9d7.json)
-
-[Extended Data](ext_articles/5de8f9d7.ext.json)
 
 ---
 
@@ -317,6 +363,76 @@ The politics of the Jaffna youth Congress, which was moving this way, moved para
 [Data](articles/20eadff7.json)
 
 [Extended Data](ext_articles/20eadff7.ext.json)
+
+---
+
+### Sri Lanka leisure industry to train golf caddies on course for high end tourism
+
+*2024-02-18 19:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-leisure-industry-to-train-golf-caddies-on-course-for-high-end-tourism-151302/) · `en`
+
+ECONOMYNEXT- Sri Lanka Institute of Tourism and Hotel Management plans to train caddies equipping them with soft-skills as the island targets more high end tourists and sports tourism, an official said.
+
+A caddie assists golfers carrying equipment and also providing advice.
+
+“In order to accommodate high-end tourism, we plan to train caddies on soft-skills and cultural skills,” Chairman of the Sri Lanka Tourism and Hotel Management, Shirantha Peiris, told EconomyNext.
+
+There were 5 golf courses in the country and there was a demand for caddies, he said.
+
+Sri Lanka Tourism Promotion Bureau Chairman, Chalaka Gajabahu, said the island was working on plans to get high end tourists that spend 500 US dollars a day.
+
+The average spend now is estimated at 185 to 195 US dollars a day.
+
+Sri Lanka welcomed 1. 486 million tourists in 2023 and is targeting 2.3 million in 2024. (Colombo/Feb18/2024)
+
+◼️
+
+[Data](articles/3aa6b48d.json)
+
+---
+
+### Sri Lana tea prices up across elevations in February
+
+*2024-02-18 19:14:00* · [`economynextcom`](https://economynext.com/sri-lana-tea-prices-up-across-elevations-in-february-151289/) · `en`
+
+ECONOMYNEXT –  Sri Lanka’s tea prices went up across elevations, with the low grown sale average topping 1,400 rupees a kilogram at the seventh auction of 2024 on February 13 -14, market data showed.
+
+Sri Lanka tea prices have moved up in 2024 in both rupee and US dollar terms.
+
+The national weekly sale average went up 29.13 rupees to 1,338.27 rupees a kilogram, according to industry data published by Ceylon Tea Brokers.
+
+In the seventh week, 4.3 million kilos were sold by public auction.
+
+The highest priced category, Low Growns went up 37.53 rupees, to 1,428.27 rupees.
+
+While BOP1 Select best maintained, certain best and below best varieties both maintained and fell. The poorer sorts gained.
+
+OP1 Select best and best fell, while below best and poorer varieties gained.
+
+OP and OPA varieties prices maintained. Certain Select bests were maintained and some fell, while the balance sold around last week levels.
+
+The Medium Grown sale average went up 57.60 rupees to 1,157.49 rupees.
+
+...
+
+[Data](articles/f5ec06f1.json)
+
+---
+
+### FAO Director-General Arrives in Sri Lanka for APRC37
+
+*2024-02-18 19:13:00* · [`economynextcom`](https://economynext.com/fao-director-general-arrives-in-sri-lanka-for-aprc37-151293/) · `en`
+
+ECONOMYNEXT – Director-General of the Food and Agricultural Organization (FAO) QU Dongyu, arrived in Sri Lanka for a three-day visit to participate in the 37th Session of the FAO Regional Conference for Asia and the Pacific (APRC37).
+
+Government Ministers and Heads of Delegations from as many as 46 Member Nations are gathering in Colombo for the event.
+
+The Director-General was received at the airport by Janaka Dharmakeerthi, Secretary to the Ministry of Agriculture in Sri Lanka, Jong-Jin Kim, FAO Assistant Director-General and Regional Representative, and Vimlendra Sharan, the FAO Representative for Sri Lanka.
+
+During his stay, the Director-General will also visit agricultural sites, and is scheduled to hold a series of bilateral discussions with Sri Lankan leadership and Ministers from other Asia-Pacific countries, the FAO said in a statement.
+
+...
+
+[Data](articles/1e5ca8fe.json)
 
 ---
 
@@ -2023,143 +2139,5 @@ From Galle to Pottuvil, Hambantota, and more frequent winds can be blowing at sp
 [Data](articles/ff5f6384.json)
 
 [Extended Data](ext_articles/ff5f6384.ext.json)
-
----
-
-### Jailed ex-Thai PM Thaksin released on parole
-
-*2024-02-18 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97362/jailed-ex-thai-pm-thaksin-released-on-parole) · `en`
-
-Thailand’s convicted former Prime Minister Thaksin Shinawatra was released on parole on Sunday, six months after his return to the country from self-exile.
-
-Xinhua reporters observed that a car carrying Thaksin left a police hospital in Bangkok at 6:06 a.m. local time on Sunday, where he received medical treatment and served six months of his one-year prison sentence.
-
-Thai Prime Minister Srettha Thavisin previously said that the release on parole of Thaksin was in line with the law, Xinhua news agency reported.
-
-According to the country’s Justice Ministry, the 74-year-old former Prime Minister is among the 930 inmates approved for parole this month. He is eligible for parole as he is over 70-years-old and suffers from a serious illness.
-
-Thaksin ended his exile of more than 15 years and returned to Thailand in August last year, but was soon detained and faced an eight-year prison sentence on several charges.
-
-...
-
-[Data](articles/5556a0af.json)
-
-[Extended Data](ext_articles/5556a0af.ext.json)
-
----
-
-### Youth killed in drowning
-
-*2024-02-18 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193532) · `si`
-
-A young man drowned in the courtyard in the Waradandiya area in Kotadeniyawa.
-
-The incident was reported yesterday in the afternoon yesterday.
-
-The victim is a 21 year old resident of Pannala - Pannala.
-
-The deceased has come to spray a well in a cousin and finish the work and have been in danger when I was bathing.
-
-Meanwhile, Dambagalla police domain is a person who has visited the fishing in the fish.
-
-The deceased has been identified as 62 year old Gininiyagala - a resident of Namaloya.
-
-◼️
-
-[Data](articles/be49ef7f.json)
-
-[Extended Data](ext_articles/be49ef7f.ext.json)
-
----
-
-### Sri Lanka upfront import duties, para tariffs keep foreign investors out: ex-BOI chief
-
-*2024-02-18 08:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-upfront-import-duties-para-tariffs-keep-foreign-investors-out-ex-boi-chief-151242/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s excessive protectionist taxes with import duties and para-tariffs on capital goods are a barrier to foreign direct investments in the island rather than income tax, a former head of the island’s investment promotion office said.
-
-Sri Lanka has been trying to phase out tax holidays and concessions given for Board of Investment approved firms, especially under the Strategic Development Project Act where discretionary concessions are believed to be fostering corruption.
-
-But the excessive import protection and para tariffs on capital are not found in other countries with open or export-oriented economies. East Asian nations in particular are subject to stringent free trade requirements under the ASEAN.
-
-Sri Lanka is taxing building materials in particular at high rates, including, steel, tiles, aluminum and also cement to some degree to give ‘rents’ or excessively fat profits to politically powerful ‘domestic industry’ businessmen, critics say.
-
-...
-
-[Data](articles/12f55d53.json)
-
-[Extended Data](ext_articles/12f55d53.ext.json)
-
----
-
-### Two arrested by Meegoda shooting motorcycle arrested
-
-*2024-02-18 08:30:02* · [`adalk`](https://www.ada.lk/breaking_news/මීගොඩ-වෙඩි-තැබීමේ-යතුරු-පැදිය-සඟවාගෙන-සිටි-දෙදෙනෙක්-අල්ලයි/11-408143) · `si`
-
-Meegoda Police say that the owner of Kirilla and a person who was shot and hid the Meegoda Economic Center
-
-The other suspect had given a house to staying for suspects
-
-The motorcycle with the suspects, a security wealth, a knife and a knife and shirt were found in a room in the restaurant
-
-The robbery had taken place on the 444 years of land and two unidentified persons were shot dead at a cost of Rs 45900 / =
-
-23-year-old girl was admitted to Homagama Base Hospital
-
-The robbers have asked the maid from plunder in the upper drawer in the upper drawer, which had been shot dead due to refusing to give it, "
-
-The police say that several important clues have been received regarding the robbers, the two suspects can be arrested soon
-
-The suspects were residents of Imbulgama and Kadawatha areas between the ages of 39 and 44 years old.
-
-Investigations are conducted on the instructions of Meegoda Police OIC Chief Inspector Neville Priyantha.
-
-◼️
-
-[Data](articles/73de63ef.json)
-
-[Extended Data](ext_articles/73de63ef.ext.json)
-
----
-
-### Two suspects arrested over shooting at Meegoda economic centre
-
-*2024-02-18 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97361/two-suspects-arrested-over-shooting-at-meegoda-economic-centre) · `en`
-
-Two suspects have been arrested in connection with the recent shooting incident at the Meegoda Economic Centre, police said.
-
-A woman was critically injured after being shot during an armed robbery at a shop within the economic centre on February 12, carried out by two unidentified gunmen who had arrived on a motorcycle.
-
-Meegoda Police had launched an investigation into the incident and had received information that the motorcycle used by the assailants was hidden in the Kirillawal area in Kadawatha.
-
-Following a raid carried out yesterday (17) based on this information, police officers had recovered the motorcycle in question along with a helmet, a knife and a shirt within the room of a restaurant.
-
-The owner of the said restaurant who had kept the motorcycle hidden and another individual who had provided the suspects with accommodation have been arrested by police for allegedly aiding and abetting the shooting incident.
-
-...
-
-[Data](articles/c62a9ff5.json)
-
-[Extended Data](ext_articles/c62a9ff5.ext.json)
-
----
-
-### A suspicious death
-
-*2024-02-18 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193531) · `si`
-
-The body of a person who was killed in a well was found in a well near the vehicle service site near the padiyathalawa police area.
-
-The deceased has received a complaint yesterday (17) regarding the death of the deceased.
-
-The body of the man was found in a well, as he had a serepe near the vehicle service location near the complaint.
-
-The deceased is a 25 year old resident of Harasgala - Mahaoya area.
-
-◼️
-
-[Data](articles/bf7b203e.json)
-
-[Extended Data](ext_articles/bf7b203e.ext.json)
 
 ---

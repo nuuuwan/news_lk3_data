@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 07:39:45**
+As of **2024-02-18 07:52:23**
 
 ## Newspaper Stats
 
-*Scraped **7,733** Articles*
+*Scraped **7,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,56 @@ bbccomsinhala | 99
 dbsjeyarajcom | 152
 newsfirstlk | 363
 economynextcom | 400
-islandlk | 401
+islandlk | 409
 dailyftlk | 415
 adalk | 656
 tamilmirrorlk | 937
 adaderanalk | 950
 virakesarilk | 1,018
-adaderanasinhalalk | 1,115
+adaderanasinhalalk | 1,117
 dailymirrorlk | 1,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,733 (100.0%) of 7,733 articles have been extended.
+7,733 (99.9%) of 7,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### කොළඹ සීසීටීවී මෙහෙයුම් තවදුරටත්
+
+*2024-02-18 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193527) · `si`
+
+මේ මාසයේ ගත වූ දින 15ක කාලය තුළ කොළඹ නගරය ආශ්‍රිත ව සීසීටීවී දර්ශන මඟින් වැරදිවලට සම්බන්ධ පුද්ගලයන් 793 දෙනෙකු හදුනාගත් බව පොලීසිය නිවේදනය කර තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා පැවසුවේ, අදාළ වැරදිකරුවන් සම්බන්ධයෙන් අවශ්‍ය ක්‍රියාමාර්ග ගැනීමට පොලිස් ස්ථාන 300කට පමණ තොරතුරු දැනුම් දී ඇති බවයි.
+
+2023 වසරේ බීමත් ව රිය පැදවීම් සම්බන්ධ නඩු 26,000ක් පමණ වාර්තා වී ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/929b8ab3.json)
+
+---
+
+### තවත් බරපතළ තත්ත්වයක්
+
+*2024-02-18 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193526) · `si`
+
+05 ශ්‍රේණියේ ළමුන් පිරිසක් මත් වන පෙති වර්ගයක් භාවිත කර මත් වී සිටි බවට තොරතුරු වාර්තා වීම බරපතල තත්ත්වයක් බව වෛද්‍යවරු පවසති.
+
+ළමා රෝග විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා මේ බව අවධාරණය කර තිබේ.
+
+ඊයේ (17) පස්වරුවේ පැවති මාධ්‍ය හමුවක දී ඔහු ප්‍රකාශ කළේ, කිසිදු ඖෂධයක් දරුවන්ට හසු වන ලෙස නිවසේ තොතැබීමට දෙමව්පියන් සහ වැඩිහිටියන් සැලකිලිමත් විය යුතු බවයි.
+
+◼️
+
+[Data](articles/6866ae77.json)
+
+---
 
 ### Urban project combining North - North Central and East
 
@@ -596,6 +628,20 @@ However, the governor does not seek to inform the Secretary of the Southern Prov
 
 ---
 
+### PUBLIC TRANSPORT IN THE KANDY AREA IN THE LAST CENTURY
+
+*2024-02-17 20:47:00* · [`islandlk`](http://island.lk/public-transport-in-the-kandy-area-in-the-last-century/) · `en`
+
+Prior to the nationalization of the bus transport system on January 1, 1958, the road passenger transport system was handled by private bus companies. They ran the bus services to some order and after nationalization the Ceylon Transport Board(CTB) was able to incorporate some of their systems useful to run the bus services in an efficient manner.
+
+The town services in Kandy from Peradeniya to Katugastota, Pendiniya to Tennekumbura, Ampitiya, Nattaranpota, Halloluwa, Dodanwela and Dangolla were served by the Kandy Omnibus Company. The Gampola, Nawalapitiya, Hatton, Pussellawa-Kandy services were handled by the Madhyamalanka Bus Company. The Talatuoya, Marassana to Deltota services were handled by the Sinha Bus Company. The Silverline Bus Company operated on the routes beyond Katugastota. These were the bus passenger transport services that I can remember.
+
+...
+
+[Data](articles/78ffb50b.json)
+
+---
+
 ### Israel’s Gaza Campaign Is the Gravest Moral Crisis of Our Time
 
 *2024-02-17 20:47:00* · [`islandlk`](http://island.lk/israels-gaza-campaign-is-the-gravest-moral-crisis-of-our-time/) · `en`
@@ -969,6 +1015,50 @@ Late Admiral Basil Goonesekara was born in 1929. His remains lie at No. 50/06, A
 [Data](articles/b6701303.json)
 
 [Extended Data](ext_articles/b6701303.ext.json)
+
+---
+
+### Melwa offers full scholarships to 300 university students
+
+*2024-02-17 17:50:00* · [`islandlk`](http://island.lk/melwa-offers-full-scholarships-to-300-university-students/) · `en`
+
+Melwa, Sri Lanka’s premium steel manufacturer, has further affirmed its commitment to corporate social responsibility by offering scholarships to 300 university students across Sri Lanka. This scholarship programme provides financial support to students from low-income families who are engaged in higher education in universities to successfully complete the respective academic programmes.
+
+Melwa has been implementing this social welfare programme for about ten years. Under this scholarship programme, more than 3,000 students have received financial assistance and completed their degrees. Around 300 university students are benefiting from this scholarship programme launched by Melwa.
+
+...
+
+[Data](articles/70d0b56d.json)
+
+---
+
+### Sampath Bank achieves stable results amidst economic headwinds, while supporting the sustainability of its customers.
+
+*2024-02-17 17:50:00* · [`islandlk`](http://island.lk/sampath-bank-achieves-stable-results-amidst-economic-headwinds-while-supporting-the-sustainability-of-its-customers/) · `en`
+
+Backed by its strong capital base, Sampath Bank continues to navigate adeptly through challenging times. The Bank demonstrated resilience and a commitment to prioritizing stakeholder interests in the face of challenging economic headwinds, thanks to its well-executed business strategies, increased vigilance, and proactive risk management measures.
+
+...
+
+[Data](articles/d6530a83.json)
+
+---
+
+### Yamaha and AMW expect import ban on motorcycles will be lifted with economy stabilizing
+
+*2024-02-17 17:48:00* · [`islandlk`](http://island.lk/yamaha-and-amw-expect-import-ban-on-motorcycles-will-be-lifted-with-economy-stabilizing/) · `en`
+
+Associated Motorways (Private) Limited (AMW), the official distributor for Yamaha Motorcycles, Service and Parts recently hosted a Dealer Meeting in Colombo. The key personnel gathered at the event included Andre Bonthyus, the newly appointed Group Managing Director of AMW.
+
+Addressing the audience which comprised more than 200 Island-wide Yamaha dealers, Bonthyus said that he looks forward to growing the organization and emphasized on AMW’s return to the market.
+
+Meanwhile, Kumika Imai, Executive General Manager – Yamaha Motor Corporation Japan, who is handling over 140 countries where Yamaha is present, stated that she had chosen to visit Sri Lanka due to the significance and value placed on the country and its market.
+
+Notably, they mentioned the fact that automotive imports to Sri Lanka which have come to a halt due to the foreign exchange crisis, would get a respite this year, as the country’s macroeconomic indicators are getting into a better shape after four years.
+
+...
+
+[Data](articles/764d90b7.json)
 
 ---
 
@@ -1951,123 +2041,5 @@ This offers visitors the opportunity to show their kindness to animals and pet t
 [Data](articles/6e060bdf.json)
 
 [Extended Data](ext_articles/6e060bdf.ext.json)
-
----
-
-### Biden says ‘Putin and his thugs’ caused opposition leader Navalny’s death
-
-*2024-02-17 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97343/biden-says-putin-and-his-thugs-caused-opposition-leader-navalnys-death-) · `en`
-
-U.S. President Joe Biden on Friday blamed Russian President Vladimir Putin for Alexei Navalny’s death and warned there could be consequences, saying he was “not surprised” but “outraged” by the opposition leader’s passing.
-
-“We don’t know exactly what happened, but there is no doubt that the death of Nalvany was a consequence of something that Putin and his thugs did,” Biden said at the White House after Russian prison officials announced that Navalny had died.
-
-“Russian authorities are going to tell their own story,” Biden said. “But make no mistake. Make no mistake: Putin is responsible for Navalny’s death.”
-
-He also said he was “contemplating” additional steps to punish Russia in the aftermath of Navalny’s death, paying tribute to the opposition leader for “bravely” standing up to Putin’s government’s “corruption” and “violence.”
-
-...
-
-[Data](articles/d2dd8597.json)
-
-[Extended Data](ext_articles/d2dd8597.ext.json)
-
----
-
-### Three killed in a supermarket
-
-*2024-02-17 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193499) · `si`
-
-Three workers have died in an accident in the construction of a super-shower in Florence, Italy.
-
-Three other workers have disappeared, foreign media reports say.
-
-The accident occurred when one part of the superior market that is constructing on the construction.
-
-The rescue teams have commenced operations to rescue missing workers.
-
-At the time of the accident, there were about 50 people including eight workers in the same location, according to foreign investigations.
-
-◼️
-
-[Data](articles/2d123dfe.json)
-
-[Extended Data](ext_articles/2d123dfe.ext.json)
-
----
-
-### Increase in Indian drag arrivals within the Mullaitivu Sea;If arresting and dissolving, can be sued;Aquatic Resources Department
-
-*2024-02-17 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176595) · `ta`
-
-Mullaitivu fishermen have expressed concern that the influx of Indian dragons has increased within the Mullaitivu Sea as the monsoon season has begun.
-
-Mullaitivu fishermen have expressed their concern at the Mullaitivu District Development Coordinating Committee meeting held on Friday (16).
-
-In this case, the Mullaitivu Fisheries and Aquatic Resources Department Assistant Director K. Mohanakumar said that the Indian fishermen who were entering the Mullaithivu Sea and seized their drag boats and brought them to the shore.
-
-Thus, the Indian fishermen who enter the Mullaitivu Sea are complicated by the arrest of their fisheries and seized their tract.
-
-If we arrest the Indian fishermen and arrest their dragons, we can sue.
-
-Therefore, the Navy in the district can take over the Indian fishermen and arrest the Indian fishermen and bring it to the shore, ”he said.
-
-...
-
-[Data](articles/2620c291.json)
-
-[Extended Data](ext_articles/2620c291.ext.json)
-
----
-
-### An order on vehicles caught by justice
-
-*2024-02-17 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193498) · `si`
-
-Kaduwela Magistrate's Court has ordered the registered vehicles of the Criminal Investigation under the operation.
-
-The order has been issued by the Ada Derana reporter, refusing to hold the request to further investigations and rejected the request for further investigations.
-
-The defense lawyer said that the Criminal Investigation Department has not objected to the court stating that the High Court has not obtained proper orders.
-
-In December last year, a modern car and a motorcycle were taken into custody by five luxury buses and motorcycle owned by the Drug Trafficking, "Weliwita Sudda."
-
-◼️
-
-[Data](articles/ff5dd5be.json)
-
-[Extended Data](ext_articles/ff5dd5be.ext.json)
-
----
-
-### Scores of SJBers from provincial and local level to join UNP: Range Bandara
-
-*2024-02-17 10:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Scores-of-SJBers-from-provincial-and-local-level-to-join-UNP-Range-Bandara/108-277230) · `en`
-
-Colombo, Feb 17 (Daily Mirror) - Scores of Samagi Jana Balawegaya (SJB) members from both the provincial and local government levels are to join UNP shortly, UNP General Secretary Palitha Range Bandara said yesterday.
-
-Mr. Range Bandara told the Daily Mirror that more than 60 SJB members from local bodies and the North Central Provincial Council are expected to join UNP at the party’s Polonnaruwa District convention today.
-
-“We expect some SJB MPS to join us as well, but it will take some time for those crossovers to take place,” he added.
-
-There are low-ranking Sjbers to join us from all over the island,” he also said.
-
-◼️
-
-[Data](articles/1af50385.json)
-
-[Extended Data](ext_articles/1af50385.ext.json)
-
----
-
-### Gamini Jayawickrama Perera passes away
-
-*2024-02-17 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193497) · `si`
-
-◼️
-
-[Data](articles/f7c4bbf4.json)
-
-[Extended Data](ext_articles/f7c4bbf4.ext.json)
 
 ---

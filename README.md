@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 00:47:31**
+As of **2024-02-19 01:02:27**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ dailymirrorlk | 1,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,860 (100.0%) of 7,861 articles have been extended.
+7,861 (100.0%) of 7,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### அமெரிக்க துணைச்செயலாளர் ரிச்சர்ட் வர்மா இந்தியா, மாலைதீவு, இலங்கைக்கு விஜயம்
+### US Deputy Secretary Richard Verma Visit India, Maldives, Sri Lanka
 
 *2024-02-19 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176707) · `ta`
 
-இந்தோ-பசுபிக் முக்கிய கூட்டாளிகளுடன் அமெரிக்காவின் ஒத்துழைப்பை வலுப்படுத்துவதற்காக இன்று 18ஆம் திகதி முதல் 23 ஆம் திகதி வரையில் இந்தியா, மாலத்தீவு மற்றும் இலங்கைக்கு அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ மற்றும் வளங்களுக்கான துணை செயலாளர் ரிச்சர்ட் ஆர். வர்மா விஜயமொன்றை மேற்கொள்ளவுள்ளார்.
+Richard R.. Verma will make a visit.
 
-அமெரிக்காவின் இந்தோ-பசுபிக் மூலோபாயத்தின் இரண்டு ஆண்டுகள் நிறைவை முன்னிட்டு அவரது பயணம் இடம்பெறுவதோடு திறந்த, பாதுகாப்பான மற்றும் வளமான பிராந்தியத்திற்கான அமெரிக்காவின் நீடித்த உறுதிப்பாட்டை மீண்டும் உறுதிப்படுத்தும் வகையில் அது அமையவுள்ளதாக அமெரிக்க இராஜாங்கத் திணைக்களம் தெரிவித்துள்ளது.
+The US State Department has said that his journey will be held in view of the two-year anniversary of the Indo-Pacific Strategy in the United States and will re-confirm the US's sustaining commitment to the open, safe and prosperous region.
 
-ரிச்சர்ட் வர்மா, இந்தியாவின் புதுடில்லிக்கு முதலில் விஜயம் செய்து அங்குப் பொருளாதார மேம்பாடு, பாதுகாப்பு மற்றும் தொழில்நுட்பம் உட்பட நெருக்கடிகளிலிருந்து அமெரிக்க-இந்திய உலகளாவிய மூலோபாய கூட்டாண்மையை முன்னேற்றுவதற்காக மூத்த அரச அதிகாரிகள், வணிகத் தலைவர்கள் மற்றும் தொழில்முனைவோரைச் சந்திக்கவுள்ளார்.
+Richard Verma will first visit India's New Delhi and meet senior state officials, business leaders and entrepreneurs to improve the US-Indian global strategic alliance from crises, including economic development, security and technology.
+
+Later, from India, he will travel to Male, the capital of the Maldives, and meet with senior officials, to increase economic cooperation and improve maritime security.
+
+In addition, he will visit the planned office for the new US embassy in Male to help further enhance the relations between the US and the Maldives.
+
+He will then visit Maley to Colombo and will make his meetings with senior officials.
 
 ...
 
 [Data](articles/22954229.json)
+
+[Extended Data](ext_articles/22954229.ext.json)
 
 ---
 
@@ -174,7 +182,7 @@ Sivagnanam Sridharan, MA Sumanthiran, Kayndrakumar Ponnambalam, Selvarasa Gajend
 
 *2024-02-18 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97377/diego-garcia-asylum-seekers-feel-unsafe-on-remote-british-island-territory) · `en`
 
-A group of asylum seekers on an isolated British island territory have told UN investigators they feel unsafe and forgotten, as they reported sexual assaults and harassment of children, as well as self-harm and suicide attempts.
+A group of asylum seekers including Sri Lankan nationals on an isolated British island territory have told UN investigators they feel unsafe and forgotten, as they reported sexual assaults and harassment of children, as well as self-harm and suicide attempts.
 
 Inspectors from the UN’s refugee agency visited Diego Garcia, in the Indian Ocean, to check on their welfare.
 
@@ -183,8 +191,6 @@ A draft report says that conditions there amounted to arbitrary detention.
 The Foreign Office said the island was not suitable for migrants to live on.
 
 Other than the migrant camp, the island is used as a UK-US military base. Thousands of troops are stationed there, usually on a one-year deployment, along with a smaller number of military contractors. For all allegations of sexual assault and harassment, the alleged perpetrators were other asylum seekers.
-
-Civilian visitors are not allowed - and the island has officially had no resident population since the early 1970s when the UK relocated all the people living there so it could develop the base.
 
 ...
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 18:32:56**
+As of **2024-02-18 18:50:41**
 
 ## Newspaper Stats
 
-*Scraped **7,824** Articles*
+*Scraped **7,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 409
 dailyftlk | 415
 adalk | 666
 tamilmirrorlk | 953
-adaderanalk | 963
+adaderanalk | 964
 virakesarilk | 1,023
 adaderanasinhalalk | 1,139
 dailymirrorlk | 1,153
@@ -26,45 +26,69 @@ dailymirrorlk | 1,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,822 (100.0%) of 7,824 articles have been extended.
+7,825 (100.0%) of 7,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### ඇෆ්ගනිස්තානයේ ප්‍රබල භූ කම්පනයක්
+### FAO Director General arrives in Sri Lanka for APRC37
+
+*2024-02-18 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97373/fao-director-general-arrives-in-sri-lanka-for-aprc37) · `en`
+
+The Director-General of the Food and Agriculture Organization of the United Nations (FAO), Dr QU Dongyu, arrived on Sunday in Sri Lanka for a three-day visit to participate in the 37th Session of the FAO Regional Conference for Asia and the Pacific (APRC37).
+
+The event, hosted by Sri Lanka from 19 – 22 February, will see the participation of Government Ministers and Heads of Delegations from as many as 46 Member Nations gathering in Colombo.
+
+The Director-General was received at the airport by Janaka Dharmakeerthi, Secretary to the Ministry of Agriculture in Sri Lanka, Jong-Jin Kim, FAO Assistant Director-General and Regional Representative, and Vimlendra Sharan, the FAO Representative for Sri Lanka.
+
+During his stay, the Director-General will also visit agricultural sites, and is scheduled to hold a series of bilateral discussions with Sri Lankan leadership and Ministers from other Asia-Pacific countries.
+
+...
+
+[Data](articles/789159fe.json)
+
+[Extended Data](ext_articles/789159fe.ext.json)
+
+---
+
+### A powerful earthquake in Afghanistan
 
 *2024-02-18 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193550) · `si`
 
-ඇෆ්ගනිස්තානයේ ප්‍රබල භූ කම්පනයක් සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Foreign media reports that Afghanistan's earthquake has taken place.
 
-විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ එරට Balkh පළාතේ මෙම භූ කම්පනය සිදුව ඇති බවය.
+Foreign media reports that the earthquake has taken place in Balkhat province.
 
-එහි අගය රික්ටර් මාපකයේ 5.0 අගයක් ගෙන ඇති බවට එම වාර්තා වැඩිදුරටත් සඳහන් කර ඇත.
+It has said that the value of its value has been increased by 5.0 in the Richter.
 
 ◼️
 
 [Data](articles/c28a2855.json)
 
+[Extended Data](ext_articles/c28a2855.ext.json)
+
 ---
 
-### කොළඹ හදිසි මෙහෙයුමක්
+### An emergency operation in Colombo
 
 *2024-02-18 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193549) · `si`
 
-අද (18) බස්නාහිර පළාතේ සියලු පොලිස් වසම් ආවරණය වන පරිදි පොලීසිය විසින් විශේෂ මෙහෙයුමක් සිදුකර තිබේ.
+Police have conducted a special operation to cover all police divisions in the Western Province today.
 
-මෙම සෝදිසි මෙහෙයුම සඳහා පොලිස් නිලධාරීන් 2,253 ක්, ත්‍රිවිධ හමුදා නිලධාරීන් 1,112 ක් සහ පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් 219 ක්   යොදවා ඇත.
+A total of 2,253 policemen, 1,111 police officers and 219 STF officers were deployed for the search operation.
 
-යුක්තිය මෙහෙයුම ආරම්භ කර මාස දෙකක් ගතවීම හේතුවෙන් ඊට සමගාමීව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් පරිදි මෙම මෙහෙයුම සිදුකර තිබේ.
+Due to two months after the operation of justice, the operation was carried out on the instructions of acting IGP Deshanayake Tennakoon.
 
-එහිදී පුද්ගලයින් 1,061 දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර, වාහන 11 ක් සහ අපරාධවලට අවශ්‍ය කරන සැකකරුවන් 05 දෙනෙකුද අත්අඩංගුවට ගෙන තිබේ.
+A total of 1,061 persons have been arrested, 11 vehicles and five suspects have been arrested.
 
-නිවාස සෝදිසිකිරීම්වලදී තියුණු ආයුධ රැසක් පොලිස්භාරයට ගෙන ඇති අතර මෙලෙස සොයාගෙන ඇති ආයුධ සහ මත්ද්‍රව්‍ය ප්‍රමාණයන් පහතින්,
+Heavy weapons have been taken to police in the housing sources and the foundations and drugs have been found in this respect,
 
 ◼️
 
 [Data](articles/aa6d1f75.json)
+
+[Extended Data](ext_articles/aa6d1f75.ext.json)
 
 ---
 
@@ -2159,23 +2183,5 @@ Meanwhile, Foreign Secretary Wijewardane welcomed the development assistance ext
 [Data](articles/fa45dcd8.json)
 
 [Extended Data](ext_articles/fa45dcd8.ext.json)
-
----
-
-### Notification for those who are applying for Aswez
-
-*2024-02-17 21:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசுமவுக்கு-விண்ணப்பிக்க-உள்ளவர்களுக்கான-அறிவிப்பு/175-333359) · `ta`
-
-The ID card (NIC) has been made compulsory in applications for the second phase of the Azwasuma Second Phase, the Welfare Benefits Board said.
-
-During the first phase application, ID card is not mandatory. It is also stated that the identity card number must be specified when applying.
-
-The Welfare Benefits Board said the second phase of applications will be accepted until March 15. Remble
-
-◼️
-
-[Data](articles/9245494f.json)
-
-[Extended Data](ext_articles/9245494f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 07:16:43**
+As of **2024-02-18 07:39:45**
 
 ## Newspaper Stats
 
@@ -26,41 +26,45 @@ dailymirrorlk | 1,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,731 (100.0%) of 7,733 articles have been extended.
+7,733 (100.0%) of 7,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### උතුර - උතුරු මැද සහ නැඟෙනහිර ඒකාබද්ධ කරමින් නගර ව්‍යාපෘතියක්
+### Urban project combining North - North Central and East
 
 *2024-02-18 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193525) · `si`
 
-උතුර - උතුර මැද සහ නැඟෙනහිර පළාත් ඒකාබද්ධ කරමින් විසල් අනුරාධපුර නැමති නගර ව්‍යාපෘතියක් මේ වන විට ක්‍රියාත්මක කරමින් පවතින බව වාර්තා වේ.
+It is reported that there is a project town in Anuradhapura, unippinging the North and Northern Central and Eastern Provinces.
 
-දුම්රිය පදනම් කරගත් ප්‍රවාහන සේවාවක් රට මැද ක්‍රියාත්මක කිරීම එමඟින් සිදු වන බව අමාත්‍යවරයා වැඩිදුරටත් අවධාරණය කර තිබේ.
+The Minister further emphasized that it will implement a railway-based transport service in the middle of the country.
 
 ◼️
 
 [Data](articles/051f1712.json)
 
+[Extended Data](ext_articles/051f1712.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-02-18 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193524) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වල අද (18) ප.ව 4.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Provinces today (18).
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතින බවය.
+The department states that there is a major rain weather in other areas.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට සහ මහනුවර දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (30-40) පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+From time to time in the North, the North, North-Central, Uva and Eastern Provinces, Hambantota and Kandy districts.. The Met Department forecasts that there were strict winds in about about 30-40.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/2c497d08.json)
+
+[Extended Data](ext_articles/2c497d08.ext.json)
 
 ---
 

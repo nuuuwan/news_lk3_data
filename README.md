@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 15:17:32**
+As of **2024-02-18 15:32:51**
 
 ## Newspaper Stats
 
-*Scraped **7,804** Articles*
+*Scraped **7,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 952
 adaderanalk | 959
 virakesarilk | 1,023
 adaderanasinhalalk | 1,132
-dailymirrorlk | 1,150
+dailymirrorlk | 1,151
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,804 (100.0%) of 7,804 articles have been extended.
+7,804 (100.0%) of 7,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### Vehicles seized during “ Yukthiya” raids released on court order
+
+*2024-02-18 14:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicles-seized-during-Yukthiya-raids-released-on-court-order/108-277258) · `en`
+
+Colombo, Feb. 18 (Daily Mirror)- A fleet of vehicles valued more than Rs.100 million allegedly owned by Malalage Sudath Kithsiri alias “ Welivita Sudda” , a suspect for involvement in underworld activities, and seized and retained for about two months by the Illegal Assets Investigation Division of the CID during “ Yukthiya” operations are to be released to the owner on court order.
+
+Kaduwela Magistrate Chanima Wijebandara had on Friday  ordered the release of vehicles which had been in possession of the H.M.Heenmenike, a sister of the Mallalage Sudath Kithsiri alias “ Weliwitha Sudda” and seized by the CID.
+
+The fleet of vehicles seized by the CID included five luxury buses, a motorcar and a motorcycle.
+
+The magistrate rejected the CID’s request for permission to retain the vehicles and to conduct further investigation.
+
+...
+
+[Data](articles/f057abb3.json)
+
+---
 
 ### Tickets of the Twenty20 final
 
@@ -2117,27 +2135,5 @@ They warned that the privatization of state resources has been a risk of creatin
 [Data](articles/9b2081ce.json)
 
 [Extended Data](ext_articles/9b2081ce.ext.json)
-
----
-
-### Does Not Get Service - Dr. Bellana
-
-*2024-02-17 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193514) · `si`
-
-Deputy Director of the Hospital Dr. Rukshan Bellana, said that he was not outfit at the national hospital.
-
-The Deputy Director said that just because of several employees agitated, they have not yet been prepared to leave.
-
-Dr. Rukshan Bellana has resulted in a tense situation due to a statement made by the Colombo National Hospital Junior staff.
-
-According to the expulsion of the statement, Dr. Rukshan Bellana took place for about six hours at the office.
-
-The Junior staff employees stated that if Dr. Rukshan Bellana is reported to work in the National Hospital, he will take career action.
-
-◼️
-
-[Data](articles/8edb29e1.json)
-
-[Extended Data](ext_articles/8edb29e1.ext.json)
 
 ---

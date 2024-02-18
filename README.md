@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 13:02:24**
+As of **2024-02-18 13:17:23**
 
 ## Newspaper Stats
 
-*Scraped **7,787** Articles*
+*Scraped **7,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 658
 tamilmirrorlk | 948
 adaderanalk | 958
 virakesarilk | 1,022
-adaderanasinhalalk | 1,127
+adaderanasinhalalk | 1,128
 dailymirrorlk | 1,147
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,787 (100.0%) of 7,787 articles have been extended.
+7,787 (100.0%) of 7,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### රට මුහුණ දුන් දැවැන්තම අභියෝගය ගැන දැනුම්දීමක්
+
+*2024-02-18 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193539) · `si`
+
+මෑතකාලීන ව රට මුහුණ දුන් අභියෝගාත්මකම ආර්ථික කාරණාව ණය ප්‍රතිව්‍යුගතකරණය බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+ඒ මහතා සඳහන් කළේ, දේශිය ණය ප්‍රතිව්‍යුහගතකරණය මේ වන විට අවසන් කර ඇති බවත් ජූනි මාසය වන විට සමස්ත ණය ප්‍රතිව්‍යුහගත කිරීම සම්පූර්ණයෙන්ම නිමා කිරීම ඉලක්කය බවත් ය.
+
+මේ අතර, විදේශ ණය බහු පාර්ශ්වීය සහ ද්වි පාර්ශ්වීය ණය ලෙස කොටස් දෙකකින් සමන්විත බව සඳහන් කළ සියඹලාපිටිය මහතා, එම බහු පාර්ශ්වීය ණය අඛණ්ඩ ව ගෙවීමට කටයුතු කළ බව ද මෙහි දී සඳහන් කළේ ය.
+
+කෙසේ වෙතත් ද්වි පාර්ශ්වීය විදේශ ණය ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් සාකච්ඡා ඉතා සාර්ථක ව මේ වන විට පැවැත්වෙමින් ඇති බවත් රටවල් අතර ණය සම්බන්ධයෙන් වන සාකච්ඡා මාර්තු මස අවසන් වන විට නිමා කොට ගිවිසුම්ගත වීමට හැකි බවත් මුදල් රාජ්‍ය අමාත්‍යවරයා මෙහි දී සඳහන් කර ඇත.
+
+එමෙන්ම ස්වෛරීත්ව බැදුම්කර සම්බන්ධයෙන් වන සාකච්ඡා අප්‍රේල් මාසය වන විට හා ණය ප්‍රතිව්‍යුහගතකරණය ජූනි මාසය වන විට සම්පූර්ණයෙන්ම නිමා කිරීම ඉලක්කය බවත් මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/7e760dd5.json)
+
+---
 
 ### The cost of carrots is low
 
@@ -2093,27 +2113,5 @@ Sri Lanka Navy said both sides will be participating in various programmes aimed
 [Data](articles/9fd86768.json)
 
 [Extended Data](ext_articles/9fd86768.ext.json)
-
----
-
-### The Samuritan amends eligibility
-
-*2024-02-17 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193511) · `si`
-
-The educational qualifications of the peaceful appointments have been revised once again.
-
-Accordingly, a new gazette sheet has issued a new gazette to the GCE Ordinary Assistance to the GCE Ordinary Level examination.
-
-Minister Dr. Wijedasa Rajapakse was set to the highest level of educational qualifications when a peaceful appointment should be obtained by a gazette on November 27.
-
-However, the Ministry of Justice pointed out a special gazette notification on the 13th.
-
-However, though, a respected religious leader or union chairman will be able to appoint an exemplary service to the community as a peacemore to the community, but he can make him a peaceful Minister to the Minister.
-
-◼️
-
-[Data](articles/aae9576b.json)
-
-[Extended Data](ext_articles/aae9576b.ext.json)
 
 ---

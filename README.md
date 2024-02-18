@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 05:17:27**
+As of **2024-02-18 05:37:25**
 
 ## Newspaper Stats
 
-*Scraped **7,723** Articles*
+*Scraped **7,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 87
 bbccomsinhala | 99
 dbsjeyarajcom | 152
 newsfirstlk | 363
-islandlk | 394
 economynextcom | 400
+islandlk | 401
 dailyftlk | 415
 adalk | 656
 tamilmirrorlk | 936
@@ -26,7 +26,7 @@ dailymirrorlk | 1,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,723 (100.0%) of 7,723 articles have been extended.
+7,723 (99.9%) of 7,730 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -212,6 +212,54 @@ The government has also implemented the necessary infrastructure development and
 
 ---
 
+### An immensely changed world order
+
+*2024-02-17 22:12:00* · [`islandlk`](http://island.lk/an-immensely-changed-world-order/) · `en`
+
+If I have said it once I have said it a dozen times: The global status quo is undergoing dramatic changes and the post-WW2 arrangements signified by the following markers are being transformed.
+
+· The post-war economic boom and the welfare state are finished.
+
+· China has become a powerful economy and will overtake America in about a decade
+
+· The uncontested global hegemony of US Imperialism is winding down
+
+· The hegemony of the US$ as the global reserve currency is fading
+
+· The unipolar world of the last 50 or so years is changing into a multi-polar world
+
+· The new economic alignment BRICS+ is assuming great importance
+
+· The South China Sea has become a contested strategic sphere
+
+· The Middle-East and Palestine/Israel have become a boiling cauldron
+
+· Russia has become assertive and assumed a new strategic role
+
+· The Global South is shedding the leadership of US Imperialism
+
+I will discuss some of these points in my essay today and in my usual style keep it short.
+
+...
+
+[Data](articles/6bfb9ad9.json)
+
+---
+
+### Dilmah and Sport: Making a tea and cricket connection and sponsoring Sri Lanka Cricket
+
+*2024-02-17 22:11:00* · [`islandlk`](http://island.lk/dilmah-and-sport-making-a-tea-and-cricket-connection-and-sponsoring-sri-lanka-cricket/) · `en`
+
+Our Sri Lankan cricket team stunned the cricketing world when they won the One Day Cricket World Cup in 1996, defeating the more fancied Australian team in the final.
+
+Whilst at that time, along with the rest of the country, I rejoiced in exploits of our cricketers, especially explosive batsmen like Sanath Jayasuriya and Romesh Kaluwitharana, the thought of associating Dilmah with cricket, or any other sport, had not occurred to me. Clearly, cricket had become the number one sport in Sri Lanka and one in which we could compete on equal terms with the best that the rest of the world could offer. Our World Cup victory proved that. So perhaps it did make sense to link that sport with Ceylon Tea, which is the island’s premier export and that which identifies this country globally.
+
+...
+
+[Data](articles/4eb47864.json)
+
+---
+
 ### The racketeer is backing the country with billions of rupees
 
 *2024-02-17 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193521) · `si`
@@ -335,6 +383,20 @@ For Afghanistan, Fazalhaq Farooqi was the pick of the bowlers, picking up three 
 [Data](articles/85533ea6.json)
 
 [Extended Data](ext_articles/85533ea6.ext.json)
+
+---
+
+### Charles Ambrose Lorenz: an unsung artist of the 19th century
+
+*2024-02-17 21:18:00* · [`islandlk`](http://island.lk/charles-ambrose-lorenz-an-unsung-artist-of-the-19th-century/) · `en`
+
+“Every child is an artist; the problem is staying an artist when you grow up” – Pablo Picasso
+
+Though forgotten by the present generation, it is no understatement to say that Charles Ambrose Lorenz was Ceylon’s most beloved son of the 19th century. The whole colony mourned his premature death in his prime in 1871. He was loved by people from all walks of life. This most accomplished and colourful personality wore several hats in lifetime.
+
+...
+
+[Data](articles/894983e4.json)
 
 ---
 
@@ -472,6 +534,20 @@ However, the governor does not seek to inform the Secretary of the Southern Prov
 
 ---
 
+### Israel’s Gaza Campaign Is the Gravest Moral Crisis of Our Time
+
+*2024-02-17 20:47:00* · [`islandlk`](http://island.lk/israels-gaza-campaign-is-the-gravest-moral-crisis-of-our-time/) · `en`
+
+The crisis in Gaza shows those nations that should be defending international law and humanitarian values to be openly betraying their commitments.
+
+I write this essay as a senior American Buddhist monk of Jewish ethnicity who has been deeply distressed by Israel’s military assault on the population of Gaza. I see this campaign as perhaps the gravest moral crisis of our time. The blistering bombardments, the ever-mounting death toll, the deadly blockade of vital essentials, the annihilation of innocent human lives—all these events sear the moral consciousness like a red-hot iron and demand a loud shout from the depths of the soul: “For God’s sake, stop it!” Indeed, in its own discreet tones, the International Court of Justice has issued such a shout, yet it seems to have fallen on deaf ears.
+
+...
+
+[Data](articles/ce4e3bc3.json)
+
+---
+
 ### Sri Lankan innings limited to 160 runs
 
 *2024-02-17 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193517) · `si`
@@ -539,6 +615,18 @@ The police had also found several secret documents in the house.
 [Data](articles/a5f28184.json)
 
 [Extended Data](ext_articles/a5f28184.ext.json)
+
+---
+
+### ABOLISHING THE EXECUTIVE PRESIDENCY -IS TIME RUNNING OUT?
+
+*2024-02-17 20:20:00* · [`islandlk`](http://island.lk/abolishing-the-executive-presidency-is-time-running-out/) · `en`
+
+Earlier this week, the President’s Media Division issued a statement to the effect that the next presidential election will be held on schedule. What was the need for that statement? In terms of the Constitution, the President’s term of office ends not later than 18th November 2024. As far as I am aware, no member of Parliament has given any indication that he or she intends to introduce a Bill to amend the Constitution to extend the term of office of the President, as required by article 83 of the Constitution. Such a Bill, if passed with a two-third majority, will also need to be approved by the people at a referendum. In the absence of any such move, what was the need for the President’s Media Division to assert the obvious. Was it to stifle the movement for restoring the parliamentary executive that now appears to be gathering wide public support?
+
+...
+
+[Data](articles/8e2acc64.json)
 
 ---
 
@@ -688,6 +776,20 @@ Coconut shells were 26,000 to 28,000 rupees a metric tonne. (Colombo/Jan17/2024)
 
 ---
 
+### Recollections of Law, Order and Discipline in the good old days
+
+*2024-02-17 18:39:00* · [`islandlk`](http://island.lk/recollections-of-law-order-and-discipline-in-the-good-old-days/) · `en`
+
+In an advanced state of age one cannot often remember the name of a person whose face is very familiar or for that matter, sometimes, what was eaten at dinner the previous evening. A younger friend recently said that when asked for the registration number of his car, he had to take a look at it from his office window.
+
+Strangely however, some events, significant or not in school and thereafter going back decades, come readily to mind. For instance Mr. P A Buultjens (a most outstanding cricketer in his day) claimed in his civics class in Form II in Trinity College that all man needs to live well were food, clothing and shelter. When then did education, health care, transport and other needs like security, human rights, entertainment come to be added to the list?
+
+...
+
+[Data](articles/4e1781ba.json)
+
+---
+
 ### To Afghanistan to advantage
 
 *2024-02-17 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193513) · `si`
@@ -701,6 +803,24 @@ Accordingly, they decided to give the Sri Lankan team first to bat first.
 [Data](articles/a7f4435a.json)
 
 [Extended Data](ext_articles/a7f4435a.ext.json)
+
+---
+
+### Transformation, Reinvigoration and Reinvention: The Art and Life of George Keyt (1901 – 1993)
+
+*2024-02-17 18:31:00* · [`islandlk`](http://island.lk/transformation-reinvigoration-and-reinvention-the-art-and-life-of-george-keyt-1901-1993/) · `en`
+
+The material for this article has been drawn from the recently published work, George Keyt. The Absence of a Desired Image by SinhaRaja Tammita-Delgoda (Taprobane Collection, Sri Lanka 2023)
+
+Modernism appealed to Keyt’s temperament, liberating him as a man and an artist. Confined and stifled by the morals and conventions of the day, he had already broken with its social codes. Modern art and its innovation opened up a new path for him. Enabling him to be free, to be different and to be himself, it gave him the tools to interpret the new world and the new life he had carved out for himself.
+
+A revolutionary painter is one who wantonly breaks rules in order to liberate his expression from the bonds of academic art. Why must they do this? In order to create new forms…
+
+George Keyt, Modern Art and the East, Ceylon Observer, June 9. 1963
+
+...
+
+[Data](articles/11576edd.json)
 
 ---
 
@@ -1949,151 +2069,5 @@ Subsequently it was decided that the Mullaitivu District Development Committee d
 [Data](articles/6cd01be1.json)
 
 [Extended Data](ext_articles/6cd01be1.ext.json)
-
----
-
-### Ravichandran gets out of Ashwin's tournament
-
-*2024-02-17 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193496) · `si`
-
-Indian spinner Ravinin Ashwin has been withdrawn from the Indo-England Test series, which is currently being held.
-
-The Indian Cricket Board has announced that he is for his personal reason.
-
-The second day of the three-third Test, England and India, was 37 runs.
-
-He was also able to cross the 500 tests of the 500 tests of one wicket.
-
-However, suddenly the Indian Cricket Board has informed the Board of Governing Body that Askin should leave the competition for his personal reason.
-
-The Indian Cricket announced that the health and well-being of the players and their loved ones would give heart and his family.
-
-Meanwhile, foreign media has reported that Asvan has left for Chennai to Chennai yesterday and the Ashwin was removed due to her mother.
-
-The competition will be critical for the winner for the winner of the tournament due to the contest with the England-India Test series.
-
-India will not have the opportunity to enter the group as a bowler or batsman with Ashwin.
-
-◼️
-
-[Data](articles/5b94a9c5.json)
-
-[Extended Data](ext_articles/5b94a9c5.ext.json)
-
----
-
-### US Deputy Secretary-government Secretary to the island
-
-*2024-02-17 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193495) · `si`
-
-US Deputy Secretary of State for Management and Deputy Secretary of State Richard R.Warema is expected to visit Sri Lanka's visit to Sri Lanka.
-
-During his visit to the US Deputy Secretary of State for the US Deputy Secretary of State, which begins tomorrow (18), has decided to visit Sri Lanka.
-
-Accordingly, US Deputy Secretary of State for US Deputy Secretary of State for the 23rd of tomorrow, is planning to travel to India, the Maldives and Sri Lanka.
-
-After completing his Indian and Maldivian travel, he is to hold talks with government senior officials.
-
-The Deputy Secretary of State is due to observe the western container terminal at the Colombo Harbor.
-
-◼️
-
-[Data](articles/b2721a4c.json)
-
-[Extended Data](ext_articles/b2721a4c.ext.json)
-
----
-
-### Sri Lanka to host 37th session of Asia Pacific Regional Conference next week
-
-*2024-02-17 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97341/sri-lanka-to-host-37th-session-of-asia-pacific-regional-conference-next-week) · `en`
-
-The 37th session of the Asia Pacific Regional Conference (APRC) of Food and Agriculture Organization of the United Nations (FAO) is scheduled to be held as a high-level Ministerial in-person event in Colombo from 19 - 22 February.
-
-It was preceded by the Senior Officers Meeting (SOM) virtually held from 31 January to 02 February 2024.
-
-The state of food and agriculture in the region; agrifood systems transformation; and solutions particularly for smallholders and family farmers are slated to be deliberated during the conference.
-
-The inaugural session of the 37th session of APRC will be presided over by President Ranil Wickremesinghe on 20 February.
-
-By hosting the 37th APRC, Sri Lanka demonstrates the country’s dedication to the growth of sustainable agriculture, not just at home but across the region, and showcases its commitment to being partners in sustainable agricultural development.
-
-...
-
-[Data](articles/b4d7cd87.json)
-
-[Extended Data](ext_articles/b4d7cd87.ext.json)
-
----
-
-### CBK stirs the pot for executive presidency abolition, faces uphill task
-
-*2024-02-17 09:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBK-stirs-the-pot-for-executive-presidency-abolition-faces-uphill-task/108-277227) · `en`
-
-Colombo, Feb 17 (Daily Mirror) - Former President Chandrika Bandaranaike Kumaratunga is reportedly behind the latest move to initiate action for the abolition of the executive presidency ahead of the presidential election, but it is unlikely to succeed given the inability to secure a two-thirds majority from the current Parliament for such an exercise, the Daily Mirror learns.
-
-Ms. Kumaratunga, along with the National Movement for Social Justice spearheaded by former Speaker Karu Jayasuriya has approached some NGO and civil society activists to initiate a dialogue to bring in new constitutional amendments for the abolition of the executive presidency and transfer its powers to Parliament and the Cabinet.
-
-...
-
-[Data](articles/e52b59c9.json)
-
-[Extended Data](ext_articles/e52b59c9.ext.json)
-
----
-
-### Beliatta firing: Police seeking public help to arrest 3 suspects
-
-*2024-02-17 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176588) · `ta`
-
-Police have sought the help of the public to arrest three suspects in connection with the shooting incident of five men, including Abe Janapala Party leader Saman Perera in Beliatta.
-
-In this case, the police are now seeking public help to arrest three persons suspected of helping the shooting.
-
-If you find information about the suspects, the Senior Deputy Inspector General of Police in charge of the Tangalle Police Division is asked to provide 0718591488 or the Beliatta Police Officer in charge of 0718591497.
-
-◼️
-
-[Data](articles/f2229cb5.json)
-
-[Extended Data](ext_articles/f2229cb5.ext.json)
-
----
-
-### Russia warms up from the death of the Russian Opposition Leader
-
-*2024-02-17 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193494) · `si`
-
-The Russian government has warned against people who take measures to take action against the death of the Russian Opposition Leader Alexi Navalni.
-
-The Russian opposition leader, who was imprisoned, died yesterday (16) due to a sudden illness.
-
-Accordingly, a Russian government authority has stated that his death will not be able to conduct violent protests throughout the division.
-
-However, various parties have organized the street world festivals in Moscow to honor the Russian opposition leader Alexi Navalni.
-
-◼️
-
-[Data](articles/351397a5.json)
-
-[Extended Data](ext_articles/351397a5.ext.json)
-
----
-
-### Lower vegetable prices recorded
-
-*2024-02-17 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lower-vegetable-prices-recorded/108-277236) · `en`
-
-Colombo, Feb 17 (Daily Mirror) - The new Manning Market in Peliyagoda today recorded a low price for vegetables compared to the prices during the week.
-
-Additionally, the price of a kilo of carrot was Rs. 500. A kilo of beans was Rs. 550, but the price of green chilli was Rs. 700.
-
-A kilo of bringals was Rs. 200, and a kilo of tomato and capsicum was Rs. 800 each.
-
-◼️
-
-[Data](articles/8a22e2e8.json)
-
-[Extended Data](ext_articles/8a22e2e8.ext.json)
 
 ---

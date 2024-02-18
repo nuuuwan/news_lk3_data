@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 17:02:38**
+As of **2024-02-18 17:17:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,810 (99.9%) of 7,814 articles have been extended.
+7,814 (100.0%) of 7,814 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ He said there is nothing wrong in people taking to the streets and launching str
 
 [Data](articles/94f703aa.json)
 
+[Extended Data](ext_articles/94f703aa.ext.json)
+
 ---
 
 ### CID arrests close associate of ‘Piyuma’
@@ -68,23 +70,27 @@ According to the Public Security Ministry, the criminal suspect was brought back
 
 [Data](articles/b4dae788.json)
 
+[Extended Data](ext_articles/b4dae788.ext.json)
+
 ---
 
-### ஏறி வந்தவர் பலி: ஏற்றிவந்தவர் காயம்
+### Climbing
 
 *2024-02-18 16:18:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஏறி-வந்தவர்-பலி-ஏற்றிவந்தவர்-காயம்/76-333397) · `ta`
 
-காட்டுப்பகுதியில் இருந்து வெட்டிய மரங்களை ஏற்றிக்கொண்டு பயணித்த லொறியொன்று, வீதியை விட்டு விலகி சுமார் 200 அடி பள்ளத்தில் விழுந்து ஞாயிற்றுக்கிழமை (18) விபத்துக்கு உள்ளாகியுள்ளது.
+A lorry carrying trees from the forest area crashed into a 200 -foot ditch on Sunday (18).
 
-இந்த விபத்தில், நானுஓயா  நகருக்கு செல்வதற்காக, லொறியில் ஏறி வந்த டெஸ்போட் தோட்டம் வாழை மலையைச் சேர்ந்த வடமலை மயில்வாகனம் (வயது 58) என்பவரே உயிரிழந்துள்ளார்.
+In the accident, the deceased of Vadamalai Mayilvankanam (age 58) from Vadamalai Mayilvankanam (age 58) of the despepot garden of the Lorry to go to Nanuoya.
 
-விபத்துக்கு உள்ளான லொறியின் சாரதி ஆபத்தான நிலையிலும் , உதவியாளர் சிறு காயங்களுடன்  நுவரெலியா மாவட்ட பொது  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+The driver of the lorry has been admitted to the Nuwara Eliya District General Hospital with minor injuries.
 
-தொழில்நுட்ப கோளாறு காரணமாக லொறி வீதியில் இருந்து விலகி, விபத்துக்குள்ளாகி உள்ளதாக, பொலிஸாரின் ஆரம்பக்கட்ட விசாரணைகளில் இருந்து தெரியவந்துள்ளது
+Initial investigations by the police have revealed that the Lorry has left the road due to a technical failure.
 
 ◼️
 
 [Data](articles/a1894846.json)
+
+[Extended Data](ext_articles/a1894846.ext.json)
 
 ---
 
@@ -123,6 +129,8 @@ In August 2023, Foreign Minister Ali Sabry had bilateral discussions with Foreig
 ...
 
 [Data](articles/ea662123.json)
+
+[Extended Data](ext_articles/ea662123.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 19:02:26**
+As of **2024-02-18 19:17:23**
 
 ## Newspaper Stats
 
-*Scraped **7,829** Articles*
+*Scraped **7,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,66 @@ newsfirstlk | 363
 economynextcom | 401
 islandlk | 409
 dailyftlk | 415
-adalk | 666
+adalk | 667
 tamilmirrorlk | 953
 adaderanalk | 964
 virakesarilk | 1,024
-adaderanasinhalalk | 1,139
+adaderanasinhalalk | 1,140
 dailymirrorlk | 1,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,825 (99.9%) of 7,829 articles have been extended.
+7,829 (100.0%) of 7,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### அரசியல்வாதிகளுக்கும் பாரிய வர்த்தகர்களுக்கும் வழங்கப்பட்டுள்ள கடன் பாரதூரமானது - பிரதமர்
+### පැට්ටා අවසානයේදී කොටුවෙයි
+
+*2024-02-18 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193551) · `si`
+
+හෙරොයින් ග්‍රෑම් 10ක් සමග "පැට්ටා" පානදුර ප්‍රදේශයේදී වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී අදාළ කාන්තාව සන්තකයේ තිබී උපයාගත් ආකාරය තහවුරු කිරීමට නොහැකි වූ මුදලින් රුපියල් 2,247,450ක මුදලක් ද පොලීසිය සිය භාරයට ගෙන ඇත.
+
+සැකකාර කාන්තාව මේ වනවිට CIDභාරයේ සිටින කුඩු සලිඳුගේ මත්ද්‍රව්‍ය ජාලය ඩුබායි සිට මෙහෙයවන අසිත නැමැත්තාගේ බිරිඳගේ වැඩිමල් සොහොයුරිය බවට හෙළිවී තිබේ.
+
+සැකකාර කාන්තාව විසින් තරංග නමින් හඳුන්වන සැකකරුගෙන් ලබාගත් මත්ද්‍රව්‍ය රහස් ප්‍රදේශයේ සඟවා සිය නිවස වෙත පැමිණි අවස්ථාවේ කළ වැටලීමකදී ඇයව අත්අඩංගුවට ගෙන ඇත.
+
+අදාළ නිවසේ පොලිස් නිලධාරීන්ට ඇතුල්වීමට නොහැකිවන ලෙස පුහුණුකරන ලද දරුණුගණයේ සුනඛයින් සිව්දෙනෙකු ඇතිකරන බවද විමර්ශන නිලධාරීන් හෙළිකරගෙන ඇත.
+
+එසේම වැටලීම සඳහා නිලධාරීන් පැමිණියහොත් ඔවුන් හඳුනාගැනීම සඳහා අධිසන්නිවේදන උපාංග භාවිත කර විශේෂ CCTV පද්ධතියක් ද සවිකර තිබීම විශේෂත්වයකි.
+
+එසේම සැකකාර කාන්තාවට එරෙහිව හෙරොයින් ළඟ තබාගැනීමේ චෝදනාව යටතේ මේ වනවිටත් මහාධිකරණය හමුවේ නඩු දෙකක් විභාග වෙමින් පවතින බවද පොලීසිය පවසයි.
+
+...
+
+[Data](articles/90a12b83.json)
+
+---
+
+### The loan given to politicians and massive traders is serious - Prime Minister
 
 *2024-02-18 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176697) · `ta`
 
-அரச வங்கிகள் தேசிய வளமாக பாதுகாக்கப்பட வேண்டும். ஆனால் சில மாற்றங்களைச் செய்வது குறித்து கலந்துரையாட வேண்டும். இல்லையென்றால் நாம் ஒருதலைப்பட்சமாக முடிவுகளை எடுக்க வேண்டியிருக்கும் என பிரதமர் தினேஷ் குணவர்தன தெரிவித்துள்ளார்.
+State banks to be protected as national resources. But to discuss some changes. Prime Minister Dinesh Gunawardena said that if we otherwise we will have to make decisions.
 
-பிரதமர் தினேஷ் குணவர்தன தலைமையில்  அலரி மாளிகையில் தொழிற்சங்க பிரதிநிதிகளுடன் இடம்பெற்ற கலந்துரையாடலின் போதே பிரதமர் இதனைக் குறிப்பிட்டார்.
+The Prime Minister made this statement during a discussion with union representatives at the Alari House, headed by Prime Minister Dinesh Gunawardena.
 
-மேலும் இதன்போது தொழிற்சங்கங்களின் பிரதிநிதிகள், நிறுவனங்களின் மறுசீரமைப்பு, மாற்று முன்மொழிவுகள், நிறுவனங்களைப் பாதுகாத்தல் மற்றும் கொண்டு நடத்தல் தொடர்பான பல விடயங்களை முன்வைத்தனர்.
+In addition, representatives of the trade unions presented a number of issues relating to the restructuring of the organizations, the alternative proposals, the preservation and conduct of the corporations.
 
-இதன்போது கருத்துத் தெரிவித்த பிரதமர், இந்த அரச வங்கிகள் தேசிய வளமாகப் பாதுகாக்கப்பட வேண்டும் என்ற நிலைப்பாட்டில் நாங்கள் இருக்கிறோம். அதில் எந்தப் பிரச்சினையும் இல்லை. ஆனால் சில மாற்றங்களைச் செய்வது குறித்துக் கலந்துரையாட வேண்டும். இல்லையென்றால் நாம் ஒருதலைப்பட்சமாக முடிவுகளை எடுக்க வேண்டியிருக்கும்.
+The Prime Minister said, "We are in the position that these state banks should be protected nationally. There is no problem in it. But to discuss some changes to make some changes. Otherwise we will have to make decisions unilaterally.
+
+We have to protect important banks as we are now somewhat recovered from the economic crisis. How to do it should be discussed in more detail. The debt that has been given to many major traders has created a serious situation.
 
 ...
 
 [Data](articles/c4dcae03.json)
+
+[Extended Data](ext_articles/c4dcae03.ext.json)
 
 ---
 
@@ -107,6 +135,22 @@ Heavy weapons have been taken to police in the housing sources and the foundatio
 [Data](articles/aa6d1f75.json)
 
 [Extended Data](ext_articles/aa6d1f75.ext.json)
+
+---
+
+### මහාධිකරණ විනිසුරුවරයෙකුගේ නිවස සොරු බිඳියි
+
+*2024-02-18 17:54:15* · [`adalk`](https://www.ada.lk/breaking_news/මහාධිකරණ-විනිසුරුවරයෙකුගේ-නිවස-සොරු-බිඳියි/11-408155) · `si`
+
+කොළඹ අලුත්කඩේ සිවිල් අභියාචනාධිකරණයේ  මහාධිකරණ විනිසුරුවරයෙකුගේ  කිරුළපන ශ්‍රී සිද්ධාර්ථ මාවතේ දෙමහල් නිවසින්  රුපියල් 271500/= දේපළ සොරාගෙන ගොස් ඇති බවට  පැමිණිල්ලක් ලැබී ඇතැයි කිරුළපන පොලිසිය කියයි.
+
+සොරාගෙන ගිය දේපළ අතර රුපියල් 250000/= වටිනා BlANCHI වර්ගයේ පාපැදියක් , රුපියල් 20000/= වටිනා  අත් දිග කමිස දෙකක් හා මුදලින් රුපියල් 1500 ක් සොරකම් කර ඇති බවට පැමිණිල්ලේ සඳහන් වේ
+
+මෙම මස 14 වෙනි දිනත්  16 වෙනි දිනත්  අතර කාලය තුළදී මෙම සොරකම සිදුවී ඇති බව මහාධිකරණ විනිසුරුවරයා ඊ‌යේ 17 වෙනි දින  කරන ලද පැමිණිල්ලේ සඳහන් වන බව උසස් පොලිස්  නිලධාරියෙක් පැවසීය. කිරුළපන පොලිසිය පරීක්ෂණ පවත්වයි
+
+◼️
+
+[Data](articles/242aebc9.json)
 
 ---
 
@@ -175,6 +219,8 @@ Therefore, the department announced that train operations on the main line will 
 ◼️
 
 [Data](articles/6ead142a.json)
+
+[Extended Data](ext_articles/6ead142a.ext.json)
 
 ---
 
@@ -653,6 +699,8 @@ The report emphasises the importance of urgently fixing these gaps to combat cor
 ...
 
 [Data](articles/e1d1a41f.json)
+
+[Extended Data](ext_articles/e1d1a41f.ext.json)
 
 ---
 
@@ -1436,6 +1484,8 @@ The demonstration, slated to commence from Kandy, is expected to witness the act
 
 [Data](articles/8393192c.json)
 
+[Extended Data](ext_articles/8393192c.ext.json)
+
 ---
 
 ### Health Struggle Struggle; Action Information
@@ -2109,53 +2159,5 @@ By promoting separation education with Charter, these institutions will be trans
 [Data](articles/87911b7c.json)
 
 [Extended Data](ext_articles/87911b7c.ext.json)
-
----
-
-### Sri Lanka beat Sri Lanka
-
-*2024-02-17 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193523) · `si`
-
-The first Twenty Twenty Twenty-Twenty Twenty series was held today (17).
-
-Batting first Sri Lanka scored only 160 runs in 19 overs.
-
-Accordingly, Afghanistan won 161 runs for the winning match.
-
-At the end of 20 overs, Afghan scored only 156 runs.
-
-Wanindu Hasarangan scored 67 off 32 balls.
-
-◼️
-
-[Data](articles/5d870db1.json)
-
-[Extended Data](ext_articles/5d870db1.ext.json)
-
----
-
-### President to search for tourism issues
-
-*2024-02-17 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193522) · `si`
-
-President Ranil Wickremesinghe visited Tangalle and Galle areas today (17).
-
-The government has paid special attention to the expansion of tourism zone facilities along with the new awakening of tourism.
-
-The President who went to several tourists visited the businessmen and asked their problems.
-
-The President took steps to address the tourism industry through telephones and obtain their views on the activities of the industry.
-
-The number of tourist arrivals in Sri Lanka in 2023 is 1,489,000, with twice as compared to 2022.
-
-The highest number of tourist arrivals in Sri Lanka has come in 2017 and the number 25 lakhs. In 2024, the government's objective is the government's objective to reinstate the target in 2024 and by next year.
-
-The government has also implemented the necessary infrastructure development and new tourism development and new tourist promotion programs.
-
-...
-
-[Data](articles/b05312ce.json)
-
-[Extended Data](ext_articles/b05312ce.ext.json)
 
 ---

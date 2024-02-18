@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 08:50:12**
+As of **2024-02-18 09:03:16**
 
 ## Newspaper Stats
 
-*Scraped **7,749** Articles*
+*Scraped **7,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 409
 dailyftlk | 415
 adalk | 656
 tamilmirrorlk | 940
-adaderanalk | 950
+adaderanalk | 952
 virakesarilk | 1,018
 adaderanasinhalalk | 1,120
-dailymirrorlk | 1,140
+dailymirrorlk | 1,141
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,749 (100.0%) of 7,749 articles have been extended.
+7,749 (100.0%) of 7,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### Two suspects arrested over shooting at Meegoda economic centre
+
+*2024-02-18 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97361/two-suspects-arrested-over-shooting-at-meegoda-economic-centre) · `en`
+
+Two suspects have been arrested in connection with the recent shooting incident at the Meegoda Economic Centre, police said.
+
+A woman was critically injured after being shot during an armed robbery at a shop within the economic centre on February 12, carried out by two unidentified gunmen who had arrived on a motorcycle.
+
+Meegoda Police had launched an investigation into the incident and had received information that the motorcycle used by the assailants was hidden in the Kirillawal area in Kadawatha.
+
+Following a raid carried out yesterday (17) based on this information, police officers had recovered the motorcycle in question along with a helmet, a knife and a shirt within the room of a restaurant.
+
+The owner of the said restaurant who had kept the motorcycle hidden and another individual who had provided the suspects with accommodation have been arrested by police for allegedly aiding and abetting the shooting incident.
+
+...
+
+[Data](articles/c62a9ff5.json)
+
+---
+
+### Showers expected at a few places in two provinces
+
+*2024-02-18 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97360/showers-expected-at-a-few-places-in-two-provinces) · `en`
+
+The Department of Meteorology says showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces after 4.00 p.m.
+
+Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, North-western, Uva and Eastern provinces and in Hambantota and Kandy districts.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7019ebc3.json)
+
+---
 
 ### Two suspects arrested for shooting at the economic center
 
@@ -97,6 +133,26 @@ The victim was detained in a remote prison and was revealed that he died last Fr
 [Data](articles/1a81a730.json)
 
 [Extended Data](ext_articles/1a81a730.ext.json)
+
+---
+
+### Establishing police post in NHC a deadly attack to minor staffers: Dr. Bellana
+
+*2024-02-18 07:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Establishing-police-post-in-NHC-a-deadly-attack-to-minor-staffers-Dr-Bellana/108-277245) · `en`
+
+Colombo, Feb 18 (Daily Mirror) - Due to his involvement in the hospital administration, almost 200 minor workers in hospitals were unable to continue their drug businesses at the National Hospital in Colombo (NHC) and started protesting against him, said NHC Deputy Director and Government Medical Officers' Forum (GMOF) president Dr. Rukshan Bellana.
+
+He told the Daily Mirror that following his request, the Inspector General of Police (IGP) had visited the hospital and established a police unit to stop the drug deals in the hospital.
+
+"Therefore, the minor staffers involved in the drug deals got together and organised protests to chase me away as I worked on eradicating the drug use in the hospital," he added.
+
+"The police intelligence service is also operating inside the hospital to nab the drug dealers," he said.
+
+"Most of the drug addicts take drugs inside the hospital, do businesses, and look after patients after taking drugs," Dr. Bellana said.
+
+...
+
+[Data](articles/d517d3de.json)
 
 ---
 
@@ -1999,69 +2055,5 @@ I hope they will be released within two or three weeks. Fishermen said Sri Lanka
 [Data](articles/3d6253e5.json)
 
 [Extended Data](ext_articles/3d6253e5.ext.json)
-
----
-
-### One person dies in accident - trio injured
-
-*2024-02-17 11:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/விபத்தில்-ஒருவர்-உயிரிழப்பு-மூவர்-காயம்/73-333339) · `ta`
-
-Eravurp police said that one person was killed and three others were injured in an accident on the Batticaloa - Valaichenai main road.
-
-A three -wheeler traveling from Kattankudi to Eravur on Friday night (16)
-
-Rahim Riyas, a native of Kattankudi, who was traveling in the incident, has been admitted to the Batticaloa Teaching Hospital for treatment.
-
-Further investigations are being carried out by the Eravur police.R
-
-◼️
-
-[Data](articles/3c70e00f.json)
-
-[Extended Data](ext_articles/3c70e00f.ext.json)
-
----
-
-### The body of a student who was rushed in the sea wave
-
-*2024-02-17 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/176599) · `ta`
-
-The body of one of the students who disappeared in the sea wave in Nintavur, which belongs to the Nintavur police division of the Ampara district.
-
-Two of the 8 students who were involved in the coasts on Friday (16) were trapped in a sea wave.
-
-In this case, the body of a student named Surd's Muhammad Muzip, who was rushed to the sea wave on Saturday morning (17) morning. A search operation is being carried out on another student.
-
-It is noteworthy that two students from the Malikaikkadu - Sainthamaruthu area were photographed in the area while playing in the sea.
-
-Preliminary inquiries revealed that two students between the ages of 13 and 15 were completing the prayer and playing a photo of the Nintavur-Oluvil border in the bicycle and playing photos.
-
-In addition, Nintavur police are conducting further investigations to six other students.
-
-◼️
-
-[Data](articles/6f289030.json)
-
-[Extended Data](ext_articles/6f289030.ext.json)
-
----
-
-### Goa prices rose in Nuwara Eliya.
-
-*2024-02-17 11:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-கோவா-விலை-எகிறியது/175-333338) · `ta`
-
-The price of a kilogram has fallen to 360 rupees as the carrot has increased today, with a peak of more than 2,000 rupees a month ago.
-
-At the same time, the price of green Goa, also known as Egg Koss, is increasingly increasing than the price of bear.
-
-It is also worth noting that the price of red Goa, which is affected by the upper country cooking, is at its peak.
-
-Accordingly, the Nuwara Eliya Economic Center Office has released the total price of vegetables that are being transported daily to the public markets from Nuwara Eliya.
-
-◼️
-
-[Data](articles/b156e01f.json)
-
-[Extended Data](ext_articles/b156e01f.ext.json)
 
 ---

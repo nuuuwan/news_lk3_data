@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 23:33:03**
+As of **2024-02-18 23:51:29**
 
 ## Newspaper Stats
 
-*Scraped **7,852** Articles*
+*Scraped **7,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 409
 dailyftlk | 415
 adalk | 670
 tamilmirrorlk | 955
-adaderanalk | 967
+adaderanalk | 968
 virakesarilk | 1,029
 adaderanasinhalalk | 1,145
-dailymirrorlk | 1,158
+dailymirrorlk | 1,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,852 (100.0%) of 7,852 articles have been extended.
+7,852 (100.0%) of 7,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### US to donate King Air aircraft to Sri Lanka to patrol coastal waters
+
+*2024-02-18 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97378/us-to-donate-king-air-aircraft-to-sri-lanka-to-patrol-coastal-waters) · `en`
+
+U.S. Assistant Secretary of State for South and Central Asian Affairs Donald Lu has announced that the government of United States will donate a Beechcraft King Air aircraft to the government of Sri Lanka this year, to patrol its coastal waters in a bid to protect the country’s sovereignty.
+
+Speaking at the US Institute of Peace (USIP) on the Indo-Pacific strategy, Mr. Lu highlighted that part of what Sri Lanka needs is for other countries, including the U.S., to help protect its sovereignty.
+
+“One of the ways that we are doing that, from the US government, is by providing patrol boats to the Sri Lankan military. And, we are also, this year, set to deliver a King Air aircraft that will help Sri Lanka to patrol its coastal waters”, the US diplomat said in this regard.
+
+“Sri Lanka has made this amazing sort of historic comeback, how’d they do it? They did it with a little bit of help from all of us”, he further said, speaking on the country’s economic recovery.
+
+◼️
+
+[Data](articles/6c05d83f.json)
+
+---
 
 ### US aircraft to Sri Lanka
 
@@ -915,6 +933,18 @@ Mortality Testing Inspection of the remains Homagama is to be held by Maimal Gam
 [Data](articles/41085f11.json)
 
 [Extended Data](ext_articles/41085f11.ext.json)
+
+---
+
+### Kala Pola in Colombo...
+
+*2024-02-18 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Kala-Pola-in-Colombo/110-277259) · `en`
+
+The Kala Pola, Sri Lanka’s annual open-air art fair opened its doors for the 34th time for visitors in Colombo yesterday. Presented by The George Keyt Foundation in association with the John Keells Group, Kala Pola has over the past 24 years grown to become a major cultural and tourist attraction in Colombo’s annual cultural calendar. Pix by Kushan Pathiraja.
+
+◼️
+
+[Data](articles/8471dc02.json)
 
 ---
 
@@ -2127,47 +2157,5 @@ The deceased is a 25 year old resident of Harasgala - Mahaoya area.
 [Data](articles/bf7b203e.json)
 
 [Extended Data](ext_articles/bf7b203e.ext.json)
-
----
-
-### Showers expected at a few places in two provinces
-
-*2024-02-18 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97360/showers-expected-at-a-few-places-in-two-provinces) · `en`
-
-The Department of Meteorology says showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces after 4.00 p.m.
-
-Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, North-western, Uva and Eastern provinces and in Hambantota and Kandy districts.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7019ebc3.json)
-
-[Extended Data](ext_articles/7019ebc3.ext.json)
-
----
-
-### Two suspects arrested for shooting at the economic center
-
-*2024-02-18 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193530) · `si`
-
-Two suspects have been arrested in connection with the shooting incident in the Meegoda Economic Center.
-
-In the Meegoda International, two unidentified persons from the Meegoda International Center in the Meegoda International Center have shot dead by two unidentified persons on the 12th.
-
-The Meegoda Police had received a joint hidden in Kirillawala area in Kirillawala area.
-
-In the raid, the motorcycle, empty closure, a knife and shirt was arrested yesterday (17).
-
-The police also arrested a suspect who had given the house to staying with the restaurant owner and suspects who had been hidden.
-
-The suspects are residents of Imbulgama and Kadawatha, aged 39 and 44 years old.
-
-◼️
-
-[Data](articles/bea83889.json)
-
-[Extended Data](ext_articles/bea83889.ext.json)
 
 ---

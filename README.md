@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 06:18:07**
+As of **2024-02-18 06:56:01**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 1,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,726 (99.9%) of 7,731 articles have been extended.
+7,730 (100.0%) of 7,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### தங்காலை - காலி பகுதிகளுக்கு ஜனாதிபதி விஜயம்
+### President visits Tangalle - Galle areas
 
 *2024-02-18 03:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-காலி-பகுதிகளுக்கு-ஜனாதிபதி-விஜயம்/175-333361) · `ta`
 
-நாட்டின் சுற்றுலாத்துறையில் ஏற்பட்டிருக்கும் மறுமலர்ச்சி காரணமாக சுற்றுலா வலயங்களை அண்மித்த வசதிகளை மேம்படுத்துவது குறித்து ஆராய்வதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க நேற்று தங்கல்ல முதல் காலி வரையுள்ள பல சுற்றுலாத் தலங்களுக்கு நேரடியாக விஜயம் செய்திருந்தார்.
+President Ranil Wickremesinghe visited many tourist attractions from Thangalla to Galle yesterday to investigate the improving facilities for nearby tourism.
 
-இதன்போது சுற்றுலாத் துறையினர் சுட்டிக்காட்டிய பிரச்சினைகளுக்கு உரிய அதிகாரிகளைத் தொலைபேசியூடாக தொடர்பு கொண்டு உடனடியாக தீர்வுகளைப் பெற்றுக்கொடுத்த ஜனாதிபதி, சுற்றுலாத்துறையை மேம்படுத்துவதற்கான யோசனைகளையும் கேட்டறிந்துகொண்டார்.
+The President, who had immediately telephoned the authorities on the issues pointed out by the Tourism Department, immediately addressed the proposals and asked for the idea of improving the tourism industry.
 
-அரசாங்கத்தின் புதிய வேலைத்திட்டம் தொடர்பில் ஜனாதிபதி சுற்றுலா வர்த்தகச் சமூகத்திற்கு அறிவுறுத்தியதன் பின்னர் புதிய வேலைத்திட்டத்தின் ஊடாக தங்களது வர்த்தகச் செயற்பாடுகளில் புதிய பரிணாமத்தை எட்டியிருப்பதாக வர்த்தகர்கள் இதன்போது சுட்டிக்காட்டினர்.
+Traders pointed out that the President had reached a new evolution through the new program after the President advised the tourist business community on the government's new program.
 
-சீனிமோதர, திக்வெல்ல, நில்வெல்ல, ஹிரிகெட்டிய, வெலிகம, ஹபராதுவ பகுதிகளில் அமைந்திருக்கும் சுற்றுலா ஹோட்டல்கள் மற்றும் வெலிகம – அலைச்சறுக்கு பயிற்சி கல்லூரிக்கும் விஜயம் செய்து அதன் செயற்பாடுகளை ஜனாதிபதி நேரில் ஆராய்ந்தார். (a)
+The President visited the Tourist Hotels and the Weligama - Training Training College, located in Seenimodara, Dikwella, Nilwella, Hirigete, Weligama and Habarathuwa areas.. (A)
 
 ◼️
 
 [Data](articles/8b50b788.json)
+
+[Extended Data](ext_articles/8b50b788.ext.json)
 
 ---
 
@@ -570,6 +572,8 @@ I write this essay as a senior American Buddhist monk of Jewish ethnicity who ha
 
 [Data](articles/ce4e3bc3.json)
 
+[Extended Data](ext_articles/ce4e3bc3.ext.json)
+
 ---
 
 ### Sri Lankan innings limited to 160 runs
@@ -651,6 +655,8 @@ Earlier this week, the President’s Media Division issued a statement to the ef
 ...
 
 [Data](articles/8e2acc64.json)
+
+[Extended Data](ext_articles/8e2acc64.ext.json)
 
 ---
 
@@ -811,6 +817,8 @@ Strangely however, some events, significant or not in school and thereafter goin
 ...
 
 [Data](articles/4e1781ba.json)
+
+[Extended Data](ext_articles/4e1781ba.ext.json)
 
 ---
 

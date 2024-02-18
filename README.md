@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 14:02:35**
+As of **2024-02-18 14:17:18**
 
 ## Newspaper Stats
 
-*Scraped **7,796** Articles*
+*Scraped **7,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 661
 tamilmirrorlk | 948
 adaderanalk | 958
 virakesarilk | 1,022
-adaderanasinhalalk | 1,130
+adaderanasinhalalk | 1,131
 dailymirrorlk | 1,150
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,796 (100.0%) of 7,796 articles have been extended.
+7,796 (100.0%) of 7,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### පියුමාගෙන් විශේෂ අනාවරණයක්
+
+*2024-02-18 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193542) · `si`
+
+පසුගියදා ඩුබායි සිට මෙරටට රැගෙන ආ "පියුමා" නැමැති අපරාධකරු ඩුබායි රාජ්‍යයේ දී සමීප ව ඇසුරු කළ කාන්තාවක් ඊයේ (17) අලුයම මෙරටට පැමිණීමේ දී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් ප්‍රශ්න කර තිබේ.
+
+එම කාන්තාවගෙන් පැය 04ක පමණ කාලයක් ප්‍රකාශ සටහන් කරගෙන ඇති අතර, ඇය පියුමාගේ බිරිඳගේ මිතුරියක් බව වාර්තා වෙයි.
+
+මේ අතර, "පියුමා" තමන් කළ අපරාධ සම්බන්ධයෙන් වැදගත් කරුණු රැසක් විමර්ශන නිලධාරින් හමුවේ අනාවරණය කර තිබේ.
+
+ඔහු පවසා ඇත්තේ, තමා සහ කුඩු සළිඳු කුඩා කල සිට හොඳ ම මිතුරන් බව ය.
+
+◼️
+
+[Data](articles/cca912d8.json)
+
+---
 
 ### Minister of External Affairs to visit Sri Lanka
 
@@ -2115,19 +2133,5 @@ George Keyt, Modern Art and the East, Ceylon Observer, June 9. 1963
 [Data](articles/11576edd.json)
 
 [Extended Data](ext_articles/11576edd.ext.json)
-
----
-
-### Meeting tourists...
-
-*2024-02-17 18:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Meeting-tourists/110-277241) · `en`
-
-President Ranil Wickremesinghe embarked on an observation tour in the Tangalle and Galle areas today, underscoring the government's commitment to enhancing tourist facilities. The President visited tourist hotspots such as Seenimodara, Dikwella,  Nilwella, Hiriketiya, Weligama, and Habaraduwa, as well as the Weligama Surf School along the south coast, where he assessed their activities firsthand. President Wickremesinghe engaged in brief conversations with foreign tourists, soliciting their perspectives on measures to further promote the tourism industry. He interacted with local tourists at Tangalle and Galle beaches during the weekend holidays.
-
-◼️
-
-[Data](articles/bc500a95.json)
-
-[Extended Data](ext_articles/bc500a95.ext.json)
 
 ---

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 03:17:27**
+As of **2024-02-19 03:32:59**
 
 ## Newspaper Stats
 
-*Scraped **7,871** Articles*
+*Scraped **7,893** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 88
 bbccomsinhala | 99
-dbsjeyarajcom | 153
+dbsjeyarajcom | 154
 newsfirstlk | 363
 economynextcom | 404
 islandlk | 409
-dailyftlk | 418
+dailyftlk | 434
 adalk | 670
 tamilmirrorlk | 955
 adaderanalk | 968
-virakesarilk | 1,039
+virakesarilk | 1,044
 adaderanasinhalalk | 1,145
 dailymirrorlk | 1,160
 
@@ -26,11 +26,355 @@ dailymirrorlk | 1,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,871 (100.0%) of 7,871 articles have been extended.
+7,871 (99.7%) of 7,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### SJB refuses to acknowledge validity of OSA
+
+*2024-02-19 02:57:03* · [`dailyftlk`](https://www.ft.lk/news/SJB-refuses-to-acknowledge-validity-of-OSA/56-758640) · `en`
+
+SJB MP Eran Wickramaratne says party does not accept OSA as a legislation that was duly passed in parliament
+
+Claims Act has been enacted without adhering to proper parliamentary procedures
+
+Urges Govt. to repeal Act and proposes introduction of a new bill to combat online crimes instead
+
+Accuses Govt. undermining democracy and veering towards an authoritarian rule
+
+Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday said his party does not accept the Online Safety Act as a piece of legislation that was duly passed in parliament.
+
+During a press conference held in Colombo over the weekend, the SJB MP maintained that the Act had been enacted without adhering to the proper parliamentary procedures for passing a bill.
+
+...
+
+[Data](articles/8ecb3d14.json)
+
+---
+
+### Hakeem moots formation of National Govt. following polls
+
+*2024-02-19 02:54:30* · [`dailyftlk`](https://www.ft.lk/news/Hakeem-moots-formation-of-National-Govt-following-polls/56-758639) · `en`
+
+Sri Lanka Muslim Congress (SLMC) leader Rauff Hakeem over the weekend opined that forming a National Government after the upcoming parliamentary election is essential to revive the country.
+
+The MP said he was confident the opposition would secure a majority of the votes at the polls, however, it would be favourable for the country if a National Government is formed.
+
+“If there is an opportunity this time, we should strive to establish a National Government to rebuild the country. It’s imperative for both the Government and opposition to collaborate in forming a parliament without an opposition to ensure the country’s revival at this juncture,” he said.
+
+◼️
+
+[Data](articles/8af504d0.json)
+
+---
+
+### Marikkar criticises Fonseka’s alleged meetings with President
+
+*2024-02-19 02:53:50* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-criticises-Fonseka-s-alleged-meetings-with-President/56-758638) · `en`
+
+Says holding secret meetings with President Ranil Wickremesinghe while being part of the SJB is deplorable
+
+Notes Fonseka should fully commit to SJB if he aligns with it or leave to join President Wickremesinghe
+
+Stresses issues must be discussed and resolved within party and not in the public domain
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday accused party Vice President Field Marshal Sarath Fonseka of holding clandestine meetings with President Ranil Wickremesinghe at State Minister Diana Gamage’s residence.
+
+“I came across information on a website indicating that he is meeting Ranil Wickremesinghe at the residence of State Minister Diana Gamage, whose husband was once Fonseka’s secretary. These actions are deplorable. If he aligns with the SJB, he should fully commit to it. If he prefers Wickremesinghe’s company, then he should depart from our party and join him,” he remarked.
+
+...
+
+[Data](articles/2aa46e4d.json)
+
+---
+
+### டயலொக் கனிஷ்ட வலைபந்தாட்ட சம்பியனானது நெட் சாம்ப்ஸ்
+
+*2024-02-19 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176719) · `ta`
+
+இலங்கை வலைபந்தாட்ட சம்மேளனத்தினால் கொழும்பு, டி.எஸ்.எஸ். சேனாநாயக்க கல்லூரி மைதானத்தில் நடத்தப்பட்ட 2023க்கான டயலொக் கனிஷ்ட தேசிய வலைபந்தாட்டப் போட்டியில் குருநாகல் மாவட்ட வலைபந்தாட்ட சங்கம் சார்பாக போட்டியிட்ட  நெட் சாம்ப்ஸ் (Net Champs) அணி சம்பியன் பட்டத்தை சுவீகரித்தது.
+
+இந்த சுற்றுப் போட்டி முழுவதும் மிகத் திறமையாக விளையாடிய செட் சாம்ப்ஸ் அணி ஒரு போட்டியிலும் தோல்வி அடையாமல் சம்பியன் பட்டத்தை சூடியது.
+
+இறுதிப் போட்டியில் ஹில்வூட் அணியை 25 - 17 என்ற கோல்கள் வித்தியாசத்தில் வெற்றிகொண்டு டயலொக் கிண்ணத்தை நெட் சாம்ப்ஸ் சுவீகரித்தது.
+
+குருநாகல், கண்டி மாவட்ட அணிகள் ஆதிக்கம் செலுத்திய இப் போட்டியின் இறுதி ஆட்டத்தில் குருநாகல் நெட் சாம்ப்ஸ் அணியும் இலங்கை பாடசாலைகள் வலைபந்தாட்ட சங்கம் சார்பாக கண்டி ஹில்வூட் கழகமும் ஞாயிற்றுக்கிழமை (18) மாலை மோதின.
+
+சீ.ஆர். மைதானத்தில் கண்டி கழகத்தை வீழ்த்தி லீக் சம்பியன் பட்டத்தை சீ.ஆர். கழகம் சூடிய சொற்ப நேரத்தில் டி.எஸ்.எஸ். மைதானத்தில் மற்றொரு கண்டி அணி வலைபந்தாட்டத்தில் குருநாகல் நெட் சாம்ப்ஸ் அணியிடம் தோல்வி அடைந்தது.
+
+...
+
+[Data](articles/d5b1c1b3.json)
+
+---
+
+### Sri Lanka Journalists for Global Justice calls on Govt. to reconsider rush for closer ties with Israel
+
+*2024-02-19 02:48:54* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Journalists-for-Global-Justice-calls-on-Govt-to-reconsider-rushforcloser-ties-with-Israel/56-758636) · `en`
+
+The Sri Lanka Journalists for Global Justice (SLJGJ) in a statement has called on the Government to reconsider the rush to forge closer ties with Israel.
+
+The Sri Lanka Journalists for Global Justice notes with alarm the recent moves by Israel to cement close ties with Sri Lanka in the face of mounting world censure for its war against Gaza.
+
+The unannounced visit by Israeli Minister of Transport and Road Safety Miriam Regev, has, according to news reports, resulted in the Government agreeing to sudden programmes of co-operation in the fields of aviation and transport. The SLJGJ is concerned that various Government ministers are rushing into quick deals with a country whose regime is today subject to intense global condemnation.  No other regime in the world has been subjected to such censure since the racist Apartheid regime of South Africa.
+
+...
+
+[Data](articles/562af7c4.json)
+
+---
+
+### AmCham Sri Lanka unlocks 2024
+
+*2024-02-19 02:46:26* · [`dailyftlk`](https://www.ft.lk/business/AmCham-Sri-Lanka-unlocks-2024/34-758635) · `en`
+
+AmCham Sri Lanka’s annual CxO Forum: Unlocking 2024, powered by HSBC, was held on 31 January, at Cinnamon Lakeside Colombo.
+
+The half-day symposium comprised four cohesive sessions aimed at equipping members and organisations with global, local, and regional macro and microeconomic insights and inspiring and empowering transformative leadership through turbulent times.
+
+...
+
+[Data](articles/fd367158.json)
+
+---
+
+### hSenidBiz exceeds $ 3 million Exit ARR in 3Q FY24
+
+*2024-02-19 02:43:33* · [`dailyftlk`](https://www.ft.lk/business/hSenidBiz-exceeds-3-million-Exit-ARR-in-3Q-FY24/34-758634) · `en`
+
+hSenid Founder and Chairman Dinesh Saparamadu and CEO Sampath Jayasundara
+
+hSenid Business Solutions (hBS) released its financial results for the quarter ending on 31 December 2023, reporting a 23% year-over-year increase in revenues.
+
+The PeoplesHR Cloud business, constituting 76% recurring revenue, remains the primary driver having recorded a 40% growth year-on-year. The company achieved a critical milestone in its growth journey by surpassing $ 3 million in Exit ARR (Annualised Recurring Revenue). With continuous investments made in revamping and building a global sales workforce, the APAC market is now yielding the majority of new deal closures for the concluded quarter.
+
+...
+
+[Data](articles/18bcdf33.json)
+
+---
+
+### Lumala revolutionises waste management practices with innovative Eco Hauler e-bike carts
+
+*2024-02-19 02:41:56* · [`dailyftlk`](https://www.ft.lk/business/Lumala-revolutionises-waste-management-practices-with-innovative-Eco-Hauler-e-bike-carts/34-758633) · `en`
+
+City Cycle Industries Manufacturing Ltd., better known as Lumala, has introduced an innovative e-bike cart branded “Eco Hauler.”
+
+This advanced e-bike cart is designed to tackle the urgent waste management issues in Sri Lanka, where daily plastic waste generation reaches approximately 938 metric tons, with only 4% being recycled.
+
+In collaboration with the USAID Clean Cities, Blue Ocean (CCBO) program, the Eco Hauler initiative aims to combat ocean plastic pollution, address climate change, and boost waste collection efficiency in both urban and coastal areas, alongside riverbanks.
+
+Characterised by its affordability, low operating costs, high load capacity, and eco-friendly design, the Eco Hauler reflects Lumala’s holistic approach to sustainability, and are actively seeking collaborations with municipalities, community organisations, and various stakeholders to enhance waste management practices throughout Sri Lanka and magnify the impact of the Eco Hauler.
+
+...
+
+[Data](articles/f4d94c55.json)
+
+---
+
+### IDB kicks off new initiative to boost exports tomorrow
+
+*2024-02-19 02:40:19* · [`dailyftlk`](https://www.ft.lk/business/IDB-kicks-off-new-initiative-to-boost-exports-tomorrow/34-758632) · `en`
+
+Under the national program aimed at constructing an export-oriented manufacturing economy, the Industrial Development Board of Ceylon has initiated the “Arambamu Jayagamu” program to facilitate the global market entry of products.
+
+The promotional and awareness campaign for this program in the Gampaha district is scheduled to take place at the Kurunegala Town Hall premises on Tuesday, 20 February, from 9:00 a.m. to 2:00 p.m.
+
+IDB said all government, non-government organisations, financial institutions, and business service organisations supporting business development and exports will collectively provide information and services on that day.
+
+Attendees will have the opportunity to gain insights into initiating a business, obtain information for business commencement, receive support for developing existing businesses, start or enhance export endeavours, and find solutions and related services for challenges encountered in business operations.
+
+...
+
+[Data](articles/5bb40027.json)
+
+---
+
+### Vijitha to leave DIMO
+
+*2024-02-19 02:39:52* · [`dailyftlk`](https://www.ft.lk/business/Vijitha-to-leave-DIMO/34-758631) · `en`
+
+Diesel and Motor Engineering Company (DIMO) PLC has announced the resignation of Vijitha Bandara as Non-Independent Executive Director effective 29 February.
+
+Bandara joined DIMO in February 1995 and was appointed to the Board in June 2016.
+
+He is a Postgraduate certificate holder from the University of Southern Queensland, Australia, and he possesses a Diploma in Business Management from the University of Colombo. His expertise lies in Sales and Marketing. He is an Alumni of Harvard Business School Advance Management Program (AMP).
+
+◼️
+
+[Data](articles/bad7a5a1.json)
+
+---
+
+### கண்டி கழகத்தின் ஆதிக்கத்திற்கு முடிவுகட்டிய சீ.ஆர். 26 வருடங்களின் பின்னர் சம்பியனானது
+
+*2024-02-19 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176718) · `ta`
+
+ஸ்ரீலங்கா றக்பி (இலங்கை றக்பி சங்கம்) நடத்திய 2023-24க்கான முதல் தர கழகங்களுக்கு இடையிலான நிப்பொன் பெயின்ட் றக்பி லீக் போட்டியில் நடப்பு சம்பியன் கண்டி கழகத்தை வீழ்த்தி 26 வருடங்களின் பின்னர் முதல் தடவையாக சி.ஆர். அன்ட் எவ்.சி சம்பியனானது.
+
+முதல் சுற்றில் கண்டி கழகத்தை அதன் சொந்த மண்ணில் 38 - 26 என்ற புள்ளிகள் அடிப்படையில் வெற்றிகொண்ட சீ. ஆர். அண்ட் எவ்.சி., தனது சொந்த மைதானமான லோங்டன் ப்ளேஸ் மைதானத்தில் ஞாயிற்றுக்கிழமை (18) நடைபெற்ற தீர்மானம் மிக்க கடைசி லீக் போட்டியிலும் 33 - 25 என்ற புள்ளிகள் வித்தியாசத்தில் வெற்றிபெற்று தோலிவி அடையாத அணியாக சம்பியனானது.
+
+லோங்டன் ப்ளேஸ் மைதானத்தில் நிரம்பி வழிந்த இரசிகர்கள் மத்தியில் ஆரம்பம் முதல் கடைசி வரை பரபரப்பை ஏற்படுத்திய இப் போட்டியின் இடைவேளையின்போது 13 - 6 என்ற புள்ளிகள் அடிப்படையில் கண்டி கழகம் முன்னிலையில் இருந்தது.
+
+போட்டி ஆரம்பித்த 10ஆவது நிமிடத்தில் சத்துர செனவிரட்ன இலகுவான பெனல்டி ஒன்றைப் போட்டு சீ.ஆர். கழகத்தை முன்னிலையில் இட்டார். ஆனால் அடுத்த 4ஆவது நிமிடத்தில் கண்டி சார்பாக பெனல்டி மூலம் புள்ளிகள் நிலையை தரிந்த ரத்வத்த சமப்படுத்தினார்.
+
+...
+
+[Data](articles/c4f53b66.json)
+
+---
+
+### Dr. Mohan Rajakaruna appointed to Nawaloka Hospitals Board
+
+*2024-02-19 02:37:26* · [`dailyftlk`](https://www.ft.lk/business/Dr-Mohan-Rajakaruna-appointed-to-Nawaloka-Hospitals-Board/34-758630) · `en`
+
+Dr. Mohan Rajakaruna has been appointed to the Board of Nawaloka Hospital PLC as a Non-Executive Non-Independent Director.
+
+He fills the vacancy on the Board following the resignation of Prof. Arjuna De Silva recently.
+
+Dr. Rajakaruna is a distinguished cardiologist with a wealth of experience and a commitment to excellence in healthcare.
+
+His journey began at Ananda College, Colombo, where he received his primary and secondary education. Driven by a passion for medicine, he pursued his Bachelor of Medical Sciences at North Colombo Medical College, Ragama, before advancing his medical education at St. George’s University School of Medicine, WI, where he earned his MD degree.
+
+...
+
+[Data](articles/144aab65.json)
+
+---
+
+### வவுனியாவில் 80000 மில்லிகிராம் ஐஸ் போதை பொருளுடன் ஒருவர் கைது
+
+*2024-02-19 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176717) · `ta`
+
+வவுனியா தம்பனைச்சோலை பகுதியில் 80000 மில்லிகிராம் ஐஸ் போதைப்பொருளை உடமையில் வைத்திருந்த நபர் ஒருவரை வவுனியா தலைமைபொலிஸ்நிலைய போதைத்தடுப்பு பொலிசார் கைதுசெய்தனர்.
+
+குறித்த பகுதியில் போதைப்பொருள் விற்பனை இடம்பெறுவதாக பொலிஸாருக்கு கிடைத்த தகவலையடுத்து வவுனியா தலைமை போலீஸ் அதிகாரியின் வவுனியா மது ஒழிப்பு பொலிஸ் பிரிவின் நிலைய பொறுப்பு அதிகாரி பொலிஸ் பரிசோதகர் றிஸ்வி  தலைமையிலான பொலிஸ் சார்ஐன்களான கீர்த்தி ரத்தின (48001) , சொய்சா (67436) , டிசாநாயக்க (34831) , பொலிஸ் கொஸ்தாபர்களான குமார (77779), விதுசன் (91800) ஆகியோரினால் தம்பனைச்சோலை பகுதியில் அமைந்துள்ள வீடொன்றில் பொலிஸார்  சோதனைகளை முன்னெடுத்தனர்.
+
+இதன்போது 80000 மில்லிகிராம் ஐஸ்போதைப்பொருள் கண்டுபிடிக்கப்பட்டுள்ளதுடன், அதனை உடமையில் வைத்திருந்த நபர் ஒருவரை கைதுசெய்தனர்.
+
+◼️
+
+[Data](articles/94e75d33.json)
+
+---
+
+### Mother Sri Lanka celebrates 15 years
+
+*2024-02-19 02:33:47* · [`dailyftlk`](https://www.ft.lk/news/Mother-Sri-Lanka-celebrates-15-years/56-758629) · `en`
+
+The Mother Sri Lanka movement was established in 2008 with the blessings of the President’s Office by a small group of patriotic citizens who desired to tell their family of 20 million to hold their heads high with pride, believe in themselves and give back to their motherland.  Under the leadership of its founder Dr. Janaki Kuruppu, , Mother Sri Lanka is a non-profit, independent charity with a unique operational model of private funding, public sector infrastructure and managed by a team of professionals from all sectors.
+
+During the past 15 years since inception, Mother Sri Lanka has carried out numerous projects to instil the values of responsible citizenship, ethnic harmony and national pride among Sri Lankans.
+
+...
+
+[Data](articles/1574bde2.json)
+
+---
+
+### இந்திய மீனவர்களின் தொல்லை : இந்தியா தூதரகத்தை முற்றுகையிட முடிவு - யாழ்ப்பாண மீனவ அமைப்புக்கள் தெரிவிப்பு
+
+*2024-02-19 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176716) · `ta`
+
+இந்தியா மீனவர்களின் எல்லை தாண்டிய அத்துமீறிய மீன்பிடி தொடர்ச்சியாக அதிகரித்து வரும் நிலையில் தமக்கான தீர்வை பெற்றுத் தருமாறு கோரி யாழ்ப்பாண இந்திய துணை தூதரகத்தை செவ்வாய்க்கிழமை (20) முற்றுகையிட மீனவ அமைப்புகள் முடிவு செய்துள்ளன.
+
+யாழ்ப்பாண மாவட்ட கடற் தொழிலாளர் கூட்டுறவு சமாசத்தில் ஞாயிற்றுக்கிழமை (18) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போதே அவர்கள் இவ்வாறு தெரிவித்தனர்.
+
+அவர்கள் மேலும் தெரிவிக்கையில், எமது கடல் எல்லைக்குள் இந்திய மீனவர்களில் அத்துமீறல் தொடர்ச்சியாக இடம்பெற்று வருகிறது.
+
+எமது வளங்கள் நாளுக்கு நாள் தொடர்ச்சியாகச் சூறையாடப்படும் நிலையில் எமது வாழ்வாதாரங்களும்  தொடர்ச்சியாக அழிக்கப்பட்டு வருகிறது.
+
+நாங்கள் பல தடவைகள் இலங்கை அரசாங்கத்திற்கும் இந்திய அரசாங்கத்திற்கும் கோரிக்கை விடுத்தோம் எமக்கு உங்கள் உதவிகள் வேண்டாம் எமது வளத்தை இந்திய மீனவர்களிடம் இருந்து பாதுகாத்து தருமாறு பல தடவைகள் கோரிக்கை விடுத்தோம் ஆனால் அது நடைபெறவில்லை.
+
+...
+
+[Data](articles/41ea2bb4.json)
+
+---
+
+### FAO’s Director General arrives in Sri Lanka
+
+*2024-02-19 02:26:48* · [`dailyftlk`](https://www.ft.lk/news/FAO-s-Director-General-arrives-in-Sri-Lanka/56-758628) · `en`
+
+FAO Director General Dr. QU Dongyu being received at the Bandaranaike International Airport by Secretary to the Ministry of Agriculture Janaka Dharmakeerthi, FAO Assistant Director General and Regional Representative Jong-Jin Kim and FAO Representative for Sri Lanka Vimlendra Sharan
+
+To inaugurate UN FAO Conference on the Recovery and Reform of Agrifood Systems in the Asia-Pacific region for Future Food Security from 19 to 22 February attended by Government Ministers and Heads of Delegations from 46 Member Nations
+
+The United Nations’ Food and Agriculture Organisation (FAO) Director General, Dr. QU Dongyu, arrived on Sunday in Sri Lanka for a three-day visit to participate in the 37th session of the FAO regional conference for Asia and the Pacific.
+
+Government Ministers and Heads of Delegations from as many as 46 Member Nations are gathering in Colombo for the event. Sri Lanka is hosting the APRC37.
+
+...
+
+[Data](articles/f2c22b55.json)
+
+---
+
+### Australia’s importance as influential ‘Middle Power’ emphasised at LKI roundtable consultation
+
+*2024-02-19 02:23:29* · [`dailyftlk`](https://www.ft.lk/news/Australia-s-importance-as-influential-Middle-Power-emphasised-atLKI-roundtable-consultation/56-758627) · `en`
+
+The Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI) hosted a roundtable discussion on 1 February on the theme “Strengthening Engagement in Sri Lanka – Australia Relations”.
+
+LKI’s roundtable series provides a platform for experts on the respective subject to engage in a candid discussion and support research output that informs policymakers and other relevant parties.
+
+Opening the ‘round table’ held under Chatham House Rules, Ambassador Ravinatha Aryasinha emphasised that Australia was an important and influential Middle Power with whom Sri Lanka has had a longstanding relationship. He emphasised the need for Sri Lanka foreign policy to engage more with such relationships, even as it remains pre-occupied with the complexities emanating from the major power rivalries in the region.
+
+...
+
+[Data](articles/3e976fd6.json)
+
+---
+
+### SL, US discuss multi-faceted aspects of bilateral ties
+
+*2024-02-19 02:21:48* · [`dailyftlk`](https://www.ft.lk/news/SL-US-discussmulti-faceted-aspectsof-bilateral-ties/56-758626) · `en`
+
+Foreign Secretary Aruni Wijewardane hosts US Under Secretary for Public Diplomacy and Public Affairs Elizabeth Allen in Colombo
+
+Foreign Secretary Aruni Wijewardane met the US Under Secretary for Public Diplomacy and Public Affairs Elizabeth Allen at the Ministry of Foreign Affairs on 17 February, and discussed several recent positive developments between Sri Lanka and the US in the 75th anniversary year of diplomatic relations.
+
+The Foreign Secretary welcomed the development assistance extended by the US International Development Finance Corporation in November 2023 to the Colombo West International Terminal Ltd. and appreciated the humanitarian and emergency aid extended to Sri Lanka to overcome the economic challenges of the country. She also welcomed the US assistance in securing the Extended Fund Facility Program (EFF) under IMF.
+
+...
+
+[Data](articles/fe83bcef.json)
+
+---
+
+### மின்சார சபையின் தரவுகளை பரிசீலிக்க வேண்டும்; பொதுப்பயன்பாடுகள் ஆணைக்குழு மக்களுக்காக செயற்பட வேண்டும் - பாட்டலி சம்பிக்க வலியுறுத்தல்
+
+*2024-02-19 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/176715) · `ta`
+
+மின்கட்டண குறைப்புக்காக மின்சார சபை முன்வைத்துள்ள தரவுகளை தொழில்நுட்ப ரீதியில் பரிசீலனை செய்ய வேண்டும். மின்சார சபையின் அதிகாரிகள் தவறான தரவுகளை சமர்ப்பித்துள்ளமை கடந்த காலங்களில் வெளிப்படுத்தப்பட்டுள்ளது ஆகவே இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழு நாட்டு மக்களின் பக்கம் இருந்து செயற்பட வேண்டும் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+கொழும்பில் ஞாயிற்றுக்கிழமை (18) இடம்பெற்ற நிகழ்வில் கலந்துக் கொண்டு உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மின்சார சபை முன்வைத்துள்ள மின்னுற்பத்திக்கான செலவு உள்ளிட்ட பல தரவுகள் பொய்யானவை..மின்நிலையங்களின் நிலையான கட்டணம் முறையற்ற வகையில் அதிகரிக்கப்பட்டுள்ளன.மின்சார சபையின் ஒருசில அதிகாரிகள் கணிதத்தில் தேர்ச்சிப் பெற்றுள்ளார்கள். இந்த திறமையை கொண்டு அவர்கள் ஊழல் மோசடிகளில் ஈடுபட முயற்சிக்கிறார்கள்.
+
+...
+
+[Data](articles/79c98300.json)
+
+---
+
+### College of Pulmonologists kicks off 14th Annual Academic Session ‘Respire 2024’
+
+*2024-02-19 02:16:16* · [`dailyftlk`](https://www.ft.lk/news/College-of-Pulmonologists-kicks-off-14th-Annual-Academic-Session-Respire-2024/56-758625) · `en`
+
+SLCP Joint Secretary Dr. Dilesha Wadasinghe, Chairperson Prof. Dushantha Madagedara, Health Ministry Secretary Dr. P.G. Mahipala, Health Minister Dr. Ramesh Pathirana, SLCP President Dr. Bodika Samarasekara, Orator Prof. Athol Wells, Dr. Vijai Kumar and SLCP Joint Secretary Damith Rodrigo
+
+The Sri Lanka College of Pulmonologists, an esteemed institution dedicated to the field of pulmonology, yesterday kicked off the 14th annual academic session ‘Respire 2024’ at the Cinnamon Grand Colombo.
+
+The session will be held today and tomorrow discussing a range of topical and urgent issues.
+
+...
+
+[Data](articles/dde3b371.json)
+
+---
 
 ### If the president is maneuvering the election, he will go home before the end of the post - Anuragumara Dissanayake warns
 
@@ -55,6 +399,24 @@ In 2020 general election campaigns, the Central Bank's main mastermind, Ranil, t
 [Data](articles/23b809db.json)
 
 [Extended Data](ext_articles/23b809db.ext.json)
+
+---
+
+### Iranian Foreign Minister visits Sri Lanka today
+
+*2024-02-19 02:13:17* · [`dailyftlk`](https://www.ft.lk/news/Iranian-Foreign-Minister-visits-Sri-Lanka-today/56-758624) · `en`
+
+Minister of Foreign Affairs of the Islamic Republic of Iran, Dr. Hossein Amir Abdollahian will undertake an official visit to Sri Lanka from 19-21 February, on an invitation extended by Minister of Foreign Affairs Ali Sabry.
+
+During this visit, the Iranian Foreign Minister is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. The visiting Minister and his delegation will have official discussions with Minister Ali Sabry at the Ministry of Foreign Affairs.
+
+In August 2023, Foreign Minister Ali Sabry had bilateral discussions with Foreign Minister Dr. Hossein Amir Abdollahian during his visit to Tehran.
+
+Dr. Amir Abdollahian will be accompanied by senior officials from the office of the President, Ministry of Foreign Affairs, Ministry of Energy and other relevant Ministries of Iran.
+
+◼️
+
+[Data](articles/092cb1df.json)
 
 ---
 
@@ -1695,463 +2057,5 @@ The 2nd T20I will be played on Monday, February 19 while the 3rd T20I is schedul
 [Data](articles/b4d5d783.json)
 
 [Extended Data](ext_articles/b4d5d783.ext.json)
-
----
-
-### The relative of the official applicant wrote the Customs Inspector Examination
-
-*2024-02-18 12:13:55* · [`adalk`](https://www.ada.lk/breaking_news/රේගු-පරීක්ෂක-විභාගය-හොරට-ලියූ-නිල-අයදුම්කරුගේ-ඥාති-සොහොයුරා-අල්ලයි/11-408147) · `si`
-
-A person was arrested by the Anuradhapura Special Criminal Investigation Division at the Anuradhapura Special Criminal Investigation Division yesterday (17).
-
-The 26-year-old resident is a 26 year old resident of the main road, Main Road, Ikigollewa and Wahamal Gollav area.
-
-The police had appeared for the opening of a 24-charcoal person in the Customs Inspector of the Customs Examination of the Customs Department of the Customs Ticket of the Customs Department of Walisinghe, Walisinghe.Says.
-
-According to a telephone message received by the Department of Examinations, the Assistant Director of the Examination Adjudy of the Hall. M. The suspect was arrested following a complaint lodged by Mr. Jayapadma Bandara.
-
-The arrested person is a cousin of the legal applicant who was due to sit for the examination.
-
-◼️
-
-[Data](articles/fa904f73.json)
-
-[Extended Data](ext_articles/fa904f73.ext.json)
-
----
-
-### The cost of carrots is low
-
-*2024-02-18 12:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கேரட்டின்-விலை-குறைந்தது/76-333373) · `ta`
-
-In Nuwara Eliya, the price of a kilogram of carrots sold over Rs 2,000 in Nuwara Eliya fell to 360 rupees on Sunday (18).
-
-The prices of carrots in the Nuwara Eliya Special Economic Center have fallen to 360 rupees and the price of vegetables has fallen due to an increase in the price of vegetables.
-
-Due to the excellent weather conditions in Nuwara Eliya and its adjacent areas, the prices of all vegetables in the hill country have declined.
-
-◼️
-
-[Data](articles/c784dfbb.json)
-
-[Extended Data](ext_articles/c784dfbb.ext.json)
-
----
-
-### The flow road closes for six months
-
-*2024-02-18 11:59:41* · [`adalk`](https://www.ada.lk/breaking_news/ගලහා-මාර්ගය-මාස-හයකට-වැසෙයි/11-408146) · `si`
-
-The railway line from Kandy to Peradeniya has increased the flow of the flow of the flowing road from the University of Peradeniya for six months due to improving the duplicate railway line from the University of Peradeniya.
-
-The road has been closed down due to the railway bridge that runs through the road and modernized the road.
-
-Vehicles traveling to the flown area are planned to reach Alwis pond along the Galaha Junction, along with the Labuduwa Siridhamma Mawatha.
-
-◼️
-
-[Data](articles/f748cbef.json)
-
-[Extended Data](ext_articles/f748cbef.ext.json)
-
----
-
-### South Asian nationals who illegally entered Australia by boats
-
-*2024-02-18 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/176663) · `ta`
-
-More than 40 asylum seekers have been taken to Nawru who have boarded a boat to a distant area in West Australia.
-
-More than 30 asylum seekers visited the Peaklbe area on Friday, and more than 15 people went to the Penter Bay area.
-
-It has been reported that 12 Bangladeshi citizens and one Indian have been found illegally entered into Australia.
-
-Home Minister Clara O Nayil said the government's commitment to the sovereignty border operation was very firm.
-
-After I became a minister, all those who tried to enter Australia illegally have been sent back to their country or sent to a detention center.
-
-20 people from Pakistan Bangladeshi have been fired by boats to West Australia's Biqlbe.
-
-They are in good health.
-
-Meanwhile, the Australian border forces who have gone to the area are investigating them.
-
-The Australian Border Security Force has said that none of the illegal boats will be allowed due to Australia's heavy border security policies.
-
-I have been living in Australia before I am from Pakistan.
-
-...
-
-[Data](articles/be4f394e.json)
-
-[Extended Data](ext_articles/be4f394e.ext.json)
-
----
-
-### Wady Bungy arrested
-
-*2024-02-18 11:54:19* · [`adalk`](https://www.ada.lk/breaking_news/වෑකඩ-බන්ටි-අත්අඩංගුවට/11-408145) · `si`
-
-A person who calls on the 'Wadase Bandi' with more than Rs.
-
-A large scale trafficker distribloring heroin is a bulk of heroin, a resident of the Udakura area, Panadura.
-
-On a tip off received by the Intelligence Officers, the police team inspected the house of the suspect's house, 11 grams of nine hundred and three million mobile phones and a digital scale used for drugs.Available.
-
-◼️
-
-[Data](articles/666c9c9d.json)
-
-[Extended Data](ext_articles/666c9c9d.ext.json)
-
----
-
-### Keegoda shooting incident arrested
-
-*2024-02-18 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193538) · `si`
-
-The gunman and motorcyclist arrested for shooting incident at the Meegoda Economic Center.
-
-Meanwhile, the motorcycle used to shoot and the firearm were found by the STF.
-
-◼️
-
-[Data](articles/47b44583.json)
-
-[Extended Data](ext_articles/47b44583.ext.json)
-
----
-
-### Two including gunman in Meegoda economic centre shooting arrested
-
-*2024-02-18 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97367/two-including-gunman-in-meegoda-economic-centre-shooting-arrested) · `en`
-
-Police have arrested the gunman and the motorcycle rider involved in the recent shooting incident at the Meegoda Economic Centre.
-
-According to police, the motorcycle and weapon used for the shooting have also been recovered by the Police Special Task Force (STF).
-
-Earlier today (18 Feb.), police reported that two suspects had been arrested in the Kirillalawala area in Kadawatha, in connection with the shooting, while the motorcycle used by the assailants along with a helmet, a knife and a shirt were also recovered from the room of a restaurant.
-
-The owner of the said restaurant who had kept the motorcycle hidden and another individual who had provided the suspects with accommodation have been arrested by police for allegedly aiding and abetting the shooting incident.
-
-The arrested suspects are aged 39 and 44 years while they are residents of Imbulgama and Kadawatha respectively.
-
-...
-
-[Data](articles/5f8c8688.json)
-
-[Extended Data](ext_articles/5f8c8688.ext.json)
-
----
-
-### Police arrest 418 more suspects as operation ‘Yukthiya’ continues
-
-*2024-02-18 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97366/police-arrest-418-more-suspects-as-operation-yukthiya-continues-) · `en`
-
-Another 418 suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours which ended at 12.30 a.m. today (18 Feb.), as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-According to the Ministry of Public Security, detention orders have been secured against 8 of the suspects, while 2 arrestees were sent to rehabilitation centres.
-
-Among the 418 arrestees are 8 suspects who had open warrants against them over narcotics-related charges and 113 others who had open warrants against them over non-drug related charges.
-
-The narcotics taken into custody during this period include 133g of heroin, 103g of crystal methamphetamine (Ice), nearly 8kg of cannabis and 447 narcotic pills.
-
-◼️
-
-[Data](articles/919984df.json)
-
-[Extended Data](ext_articles/919984df.ext.json)
-
----
-
-### The executive presidency will not be abolished during the election;It was the story of the opposition parties - the president
-
-*2024-02-18 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/176658) · `ta`
-
-President Ranil Wickremesinghe has said that there are no short ways to abolish the executive presidency.
-
-President Ranil Wickremesinghe says that there are no short ways to remove the executive presidency.
-
-The President was responding to a question raised during a meeting with some MPs at the Presidential Office.
-
-Island has reported that the President said that the executive bureaucracy would not be eliminated during the presidential election in a timely manner.
-
-I have repeatedly said that the presidential election is not after the presidential election. The President said that there are funds for it.
-
-The President said that the traditional opposition party is tense when a group of people are reportedly influential among the two groups in the opposition.
-
-The President has said that the people of this country are more well known than the opposition.
-
-Do not waste your time on the abolition of the executive president.
-
-◼️
-
-[Data](articles/9b5b23bf.json)
-
-[Extended Data](ext_articles/9b5b23bf.ext.json)
-
----
-
-### UN likely to vote Tuesday on Gaza ceasefire, US signals veto
-
-*2024-02-18 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97365/un-likely-to-vote-tuesday-on-gaza-ceasefire-us-signals-veto) · `en`
-
-The United Nations Security Council is likely to vote on Tuesday on an Algerian push for the 15-member body to demand an immediate humanitarian ceasefire in the Israel-Hamas war, said diplomats, a move the United States signaled it would veto.
-
-Algeria put forward an initial draft resolution more than two weeks ago. But U.S. Ambassador to the U.N. Linda Thomas-Greenfield quickly said the text could jeopardize “sensitive negotiations” aimed at brokering a pause in the war.
-
-Algeria requested on Saturday that the council vote on Tuesday, diplomats said. To be adopted, U.N. Security Council resolution needs at least nine votes in favor and no vetoes by the United States, Britain, France, China or Russia.
-
-“The United States does not support action on this draft resolution. Should it come up for a vote as drafted, it will not be adopted,” Thomas-Greenfield said in a statement on Saturday.
-
-...
-
-[Data](articles/5be702bb.json)
-
-[Extended Data](ext_articles/5be702bb.ext.json)
-
----
-
-### Police bust drug ring linked to ’Santa’, two women arrested
-
-*2024-02-18 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-bust-drug-ring-linked-to-Santa-two-women-arrested/108-277252) · `en`
-
-Colombo, Feb 18 (Daily Mirror) - The Piliyandala Police arrested two young women linked to large-scale drug trafficker Sithum, also known as 'Santa,' believed to be in hiding in France.
-
-The narcotics seized during the operation are estimated to have a street value of Rs. 1 million.
-
-During the raid, police arrested two individuals who were not only purchasing drugs but also consuming them.
-
-Along with the suspects, police recovered 250 grams of hashish, 15 dancing tablets, an electronic scale, and 8 mobile phones.
-
-The Piliyandala Police received information that "Santa", who is said to be carrying out drug trafficking on a large scale from France, is carrying out his drug trafficking using young women.
-
-Further investigations revealed that a top floor of a building in Polgasovita, Kahathuduwa was rented out as a distribution point.
-
-...
-
-[Data](articles/f4c8abc3.json)
-
-[Extended Data](ext_articles/f4c8abc3.ext.json)
-
----
-
-### Charles Ambrose Lorenz: an unsung artist of the 19th century
-
-*2024-02-18 11:15:00* · [`islandlk`](http://island.lk/charles-ambrose-lorenz-an-unsung-artist-of-the-19th-century/) · `en`
-
-“Every child is an artist; the problem is staying an artist when you grow up” – Pablo Picasso
-
-Though forgotten by the present generation, it is no understatement to say that Charles Ambrose Lorenz was Ceylon’s most beloved son of the 19th century. The whole colony mourned his premature death in his prime in 1871. He was loved by people from all walks of life. This most accomplished and colourful personality wore several hats in lifetime.
-
-...
-
-[Data](articles/894983e4.json)
-
-[Extended Data](ext_articles/894983e4.ext.json)
-
----
-
-### "Why am I involved in politics"
-
-*2024-02-18 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176655) · `ta`
-
-Party leader Dileet Jayaweera has announced that the Mawpima Janata Party's future plans will be released soon.
-
-He said at the Mabima Janata Party conference held in Colombo yesterday that my intention was to see the country that was developed during my university life and later.
-
-Unfortunately, however, this purpose has not yet been fulfilled, ”he said.
-
-"I have decided to engage in politics with the experienced politicians around me and the significant younger generation in favor of me," he said.
-
-"We have no political purpose for the past 75 years," he said.
-
-Historically, we have put new governments in office to replace existing governments but we are intent on making changes in the lives of all Sri Lankans through all Sri Lankans' lives.
-
-Our goal is to create an entrepreneurship country and we will implement plans to make an entrepreneur in the village to the largest entrepreneurship of the nation.
-
-He said that once this project is put forward, you will know how your life will change.
-
-◼️
-
-[Data](articles/c67595d8.json)
-
-[Extended Data](ext_articles/c67595d8.ext.json)
-
----
-
-### Thaksin Shire is released
-
-*2024-02-18 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193536) · `si`
-
-Former Prime Minister Thaksin, who was in prison, was released on the Freedom of Thaksin, and in Bangto.
-
-However, he said he was detained in a police hospital hospital hospital and was not staying in the prison.
-
-Thaksin Shin was sentenced to eight years in prison on corruption irregularities, but Thailand was reduced to one year.
-
-◼️
-
-[Data](articles/3ad288af.json)
-
-[Extended Data](ext_articles/3ad288af.ext.json)
-
----
-
-### Parole for Thailand's Prime Minister Taksin
-
-*2024-02-18 10:53:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-பிரதமர்-தக்சினுக்கு-பரோல்/50-333371) · `ta`
-
-Former Prime Minister of Thailand Taksin Shinawatra has been released on Sunday (18). This information was confirmed by the current Prime Minister Shreta Tavisin.
-
-Shinawatra was the prime minister of Thailand from 2001 to 2006. He was then sued for a loss to the government through a controversial rice subsidy scheme.
-
-The former prime minister of Thailand was sentenced to prison in this case. Taksin returned to the country for 15 years from abroad to escape this small punishment. He was sentenced to 8 years in prison on various charges.
-
-He has been imprisoned since August 2023. He was detained in the hospital for six months from Bangkok Prison due to a sudden illness. King Vajiralongorn reduced his 8 -year prison sentence due to his health disorder for a year. Taksin has been given parole early this week.
-
-◼️
-
-[Data](articles/864f9b7a.json)
-
-[Extended Data](ext_articles/864f9b7a.ext.json)
-
----
-
-### Nearly 800 traffic offenders identified through CCTVs in Colombo
-
-*2024-02-18 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nearly-800-traffic-offenders-identified-through-CCTVs-in-Colombo/108-277250) · `en`
-
-Colombo, Feb 18 (Daily Mirror) - A total of 793 motorists who violated traffic rules have been identified through the CCTV system in Colombo.
-
-Police Spokesman DIG Nihal Thalduwa said video evidence of relevant offenses captured by the Traffic Division's CCTVs have been forwarded to about 300 police stations and fine papers for the offenses will be issued to the relevant drivers.
-
-Police launched the special programme aimed at identifying motorists violating traffic rules through the CCTV system in Colombo on January 22.
-
-Despite the programme being launched on January 22, a week-long awareness campaign on this programme was held for motorists and implimenting law against traffic violators commenced from February 1.
-
-◼️
-
-[Data](articles/a5ceed58.json)
-
-[Extended Data](ext_articles/a5ceed58.ext.json)
-
----
-
-### Former Kotikawatta PS member arrested in raid linked to Shiran Bhasik
-
-*2024-02-18 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Kotikawatta-PS-member-arrested-in-raid-linked-to-Shiran-Bhasik/108-277249) · `en`
-
-Colombo, Feb 18 (Daily Mirror) - The Police Special Task Force arrested a former member of the Kotikawatta Pradeshiya Sabha, known to be closely associated with notorious drug dealer Shiran Bhasik, at a luxury housing complex in Wellawatta.
-
-Police said Nadeen Bhasik, son of Shiran Bhasik, managed to evade capture during the raid.
-
-Based on intelligence provided by the STF regarding the transport of drugs in a luxury vehicle, an officer on duty attempted to stop a car on the road adjacent to a housing complex in Wellawatta. Despite the officer's signals to stop, the car disregarded the instructions and proceeded towards the parking area of the housing complex, casing injuries to an officer.
-
-A police sergeant sustained injuries during the incident and was admitted to the Police Hospital in Narahenpita for treatment.
-
-THe STF arrested one of the fleeing suspects, a former PS member, while the other suspect, identified as Nadeen Bhasik, managed to escape.
-
-...
-
-[Data](articles/e3f5ab91.json)
-
-[Extended Data](ext_articles/e3f5ab91.ext.json)
-
----
-
-### Former MPs arrested for a drug dealer
-
-*2024-02-18 10:49:25* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරම්කරුවෙකුගේ-සමීපතමයෙක්-වන-හිටපු-මන්ත්‍රි-අල්ලයි/11-408144) · `si`
-
-Police Special Task Force said that a former member of the Kotikawatta Pradeshiya Sabha who served as a close associate of a large scale drug dealer Shiran Bashik was arrested in the Wellawatte Pradeshiya Sabha complex.
-
-Shiran Bazangee's son Nadeen Languages have fled, with a raid.
-
-19g of heroin with the suspect with a mobile phone, a driver's license and $ 161 and $ 161 and Dirim, Nudin Bashik, and Dubai State issued by Dubai StateLicense and gold and gold items have been taken into police custody.
-
-Special Task Force officials in Rajagiriya Police Traffic in front of the Ranagiriya area in Wellawatte, a duties in front of the Ranagiriya area in the Wellawatte area continues to run the car to the vehicle yard at the road to stop the car.Police say two fled.
-
-The police sergeant 84054 officers were admitted to Narahenpiti Police Hospital for injuries
-
-Then one of the two suspects were arrested and the other suspect had fled the police, police said
-
-...
-
-[Data](articles/84eab50f.json)
-
-[Extended Data](ext_articles/84eab50f.ext.json)
-
----
-
-### Fishermen struggle to tie black flags
-
-*2024-02-18 10:42:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கறுப்பு-கொடிகளை-கட்டி-மீனவர்கள்-போராட்டம்/46-333370) · `ta`
-
-Rameshwaram fishermen are engaged in a series of strikes, condemning the driver of a fishing boat arrested for fishing over the border and sentenced to six months in prison and a fisherman for a second time.
-
-In this case, the fishermen are protesting against their opposition to the Rameshwaram fishing and holding black flags on Sunday morning (18) in more than 800 boats parked at the port.
-
-Rameshwaram fishermen have decided to take up the Kachchativu festival on Saturday (17), demanding the immediate cancellation of the court's verdict, condemning the Sri Lankan court's sentence for three Tamil Nadu fishermen who were arrested for fishing across the border.
-
-◼️
-
-[Data](articles/8b962015.json)
-
-[Extended Data](ext_articles/8b962015.ext.json)
-
----
-
-### A mysterious death with cut injury
-
-*2024-02-18 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193535) · `si`
-
-The Aluthgama Police said that he had died mysteriously mysteriously as a mother of cut injuries in a mother of three.
-
-The incident was reportedly reported yesterday (17) at around 8.30 pm.
-
-The deceased has been identified as a 47 year old woman who was living in Moragalla, Moragalla.
-
-The deceased has fallen in the house with cut wounds and she had been taken to the Beruwala Divisional Hospital, but she had already died, hospital sources said.
-
-Accordingly, police investigations have shown blood stains near the middle bedroom, the middle-bedroom, and front gates.
-
-The victim has been confirmed that the woman's master, son and daughter had been in the house when the victim was in the face of this incident.
-
-However, they have told the police that their mother was hospitalized when their mother was in the front door of the main entrance.
-
-The police are still interrogation from the master of the murder.
-
-Police investigations on whether a person at home was carried out at home.
-
-◼️
-
-[Data](articles/3b5a8fe7.json)
-
-[Extended Data](ext_articles/3b5a8fe7.ext.json)
-
----
-
-### Russian officials who are reluctant to hand over the body of the opposition leader - Navalni's colleagues
-
-*2024-02-18 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176650) · `ta`
-
-Russian officials are refusing to hand over the body of Russian Opposition Leader Alexe Navalni to his mother, Navalni's close associate said.
-
-Russian officials have said that the body will be handed over only after the autopsy.
-
-Russian officials have informed her mother that Navalni died after falling unconscious while walking in the prison.
-
-Navalni's body has been taken to a city near the prison.
-
-Russian officials have said that the first autopsy has not been complete, and another autopsy has to be carried out.
-
-Navalni's colleagues, who have said that the authorities are deliberately hiding Navalni's body to cover up the traces, have requested that his body be given to the family immediately.
-
-◼️
-
-[Data](articles/031c3c3d.json)
-
-[Extended Data](ext_articles/031c3c3d.ext.json)
 
 ---

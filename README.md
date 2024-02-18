@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 22:17:21**
+As of **2024-02-18 22:32:45**
 
 ## Newspaper Stats
 
-*Scraped **7,847** Articles*
+*Scraped **7,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 409
 dailyftlk | 415
 adalk | 670
 tamilmirrorlk | 955
-adaderanalk | 966
+adaderanalk | 967
 virakesarilk | 1,029
 adaderanasinhalalk | 1,142
 dailymirrorlk | 1,157
@@ -26,11 +26,33 @@ dailymirrorlk | 1,157
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,847 (100.0%) of 7,847 articles have been extended.
+7,847 (100.0%) of 7,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### Diego Garcia asylum seekers feel unsafe on remote British island territory
+
+*2024-02-18 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97377/diego-garcia-asylum-seekers-feel-unsafe-on-remote-british-island-territory) · `en`
+
+A group of asylum seekers on an isolated British island territory have told UN investigators they feel unsafe and forgotten, as they reported sexual assaults and harassment of children, as well as self-harm and suicide attempts.
+
+Inspectors from the UN’s refugee agency visited Diego Garcia, in the Indian Ocean, to check on their welfare.
+
+A draft report says that conditions there amounted to arbitrary detention.
+
+The Foreign Office said the island was not suitable for migrants to live on.
+
+Other than the migrant camp, the island is used as a UK-US military base. Thousands of troops are stationed there, usually on a one-year deployment, along with a smaller number of military contractors. For all allegations of sexual assault and harassment, the alleged perpetrators were other asylum seekers.
+
+Civilian visitors are not allowed - and the island has officially had no resident population since the early 1970s when the UK relocated all the people living there so it could develop the base.
+
+...
+
+[Data](articles/0296f5c2.json)
+
+---
 
 ### Megoda robbery: 5 arrested
 
@@ -2149,23 +2171,5 @@ Police Media Spokesperson DIG Nihal Talduuwa has said that about 26,000 drunken 
 [Data](articles/929b8ab3.json)
 
 [Extended Data](ext_articles/929b8ab3.ext.json)
-
----
-
-### Another serious situation
-
-*2024-02-18 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193526) · `si`
-
-Doctors say that it is a serious situation that information was alcohol using a crowd of students in Grade 05.
-
-Dr. Deepal Perera has stressed.
-
-He said that at a press conference held yesterday (17), he said that parents and adults should be concerned at home to house any medicine.
-
-◼️
-
-[Data](articles/6866ae77.json)
-
-[Extended Data](ext_articles/6866ae77.ext.json)
 
 ---

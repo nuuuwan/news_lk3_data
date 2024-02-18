@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 21:32:55**
+As of **2024-02-18 21:51:47**
 
 ## Newspaper Stats
 
-*Scraped **7,842** Articles*
+*Scraped **7,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 415
 adalk | 669
 tamilmirrorlk | 955
 adaderanalk | 966
-virakesarilk | 1,027
+virakesarilk | 1,028
 adaderanasinhalalk | 1,142
 dailymirrorlk | 1,156
 
@@ -26,11 +26,31 @@ dailymirrorlk | 1,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,842 (100.0%) of 7,842 articles have been extended.
+7,843 (100.0%) of 7,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### We have no deeles with Rajapaksas. We have Deal with people - Sajith
+
+*2024-02-18 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176701) · `ta`
+
+Opposition Leader Sajith Premadasa said that he had no false speech and flattery compared to other leaders and that he had a way to earn the rupees and dollars for the country.
+
+As a country we have borrowed $ 90 billion. The Opposition Leader also pointed out that export -based development is necessary to get rid of this loan.
+
+He said that the politics of the garment factories were in the country and that the bus man was named the bus man when they were providing buses to schools.. The Leader of the Opposition said that if these are political hypocritical plays, if the opposition is able to develop the country, there is no time to speak as a mere chance.
+
+Opposition Leader Sajith Premadasa said this while addressing a function to provide smart classroom equipment worth Rs.
+
+...
+
+[Data](articles/8324a692.json)
+
+[Extended Data](ext_articles/8324a692.ext.json)
+
+---
 
 ### President Prasanna Ranatunga has resumed the development of the country for over three years
 
@@ -2139,25 +2159,5 @@ US Ambassador Julie Sung said in his record that the representatives will meet w
 [Data](articles/a25d4666.json)
 
 [Extended Data](ext_articles/a25d4666.ext.json)
-
----
-
-### Special facility for voting
-
-*2024-02-18 04:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்புலனற்றோர்-வாக்களிக்க-விசேட-வசதி/175-333363) · `ta`
-
-The National Elections Commission has said that special facilities will be provided to vote.
-
-RMAL, Chairman of the National Elections Commission, said that they are currently voting with the help of officials who are on duty at the polling station during the tenders.. Ratnayake said.
-
-Under this scheme, they will be given a paper comprising the names of the parties and the names of the candidates printed in 'Braille'.
-
-Accordingly, the Chairman of the National Elections Commission, RMAL, said that the in the upcoming elections could be able to enjoy the right to vote.. Ratnayake said. (A)
-
-◼️
-
-[Data](articles/a74a98e4.json)
-
-[Extended Data](ext_articles/a74a98e4.ext.json)
 
 ---

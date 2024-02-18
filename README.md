@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 01:17:13**
+As of **2024-02-19 01:33:01**
 
 ## Newspaper Stats
 
-*Scraped **7,861** Articles*
+*Scraped **7,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 415
 adalk | 670
 tamilmirrorlk | 955
 adaderanalk | 968
-virakesarilk | 1,032
+virakesarilk | 1,034
 adaderanasinhalalk | 1,145
 dailymirrorlk | 1,160
 
@@ -26,11 +26,47 @@ dailymirrorlk | 1,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,861 (100.0%) of 7,861 articles have been extended.
+7,861 (100.0%) of 7,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### “டெல்லி சலோ” டெல்லியில் விவசாயிகள் போராட்டம்
+
+*2024-02-19 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176709) · `ta`
+
+சண்டிகரில் கடந்த 8ஆம் திகதி முதல் கட்டமாக விவசாயிகளுடன் பேச்சுவார்த்தையை துவங்கினர். அதன்பிறகு கடந்த பெப்ரவரி 10, 11 மற்றும் 12 ஆகிய திகதிகளிலும் பேச்சுவார்த்தை தொடர்ந்தது. இதற்கான ஏற்பாடுகளை பஞ்சாப் முதல்வர் பகவந்த் சிங் மான் செய்திருந்தார்.
+
+இந்த பேச்சுவார்த்தைகளில் எடுக்கப்பட்ட முடிவுகளின்படி, கடந்த விவசாயிகள் போராட்டத்தில் தொடுக்கப்பட்ட வழக்குகள் வாபஸ்பெறவும், போலி விதை விற்பனை செய்வோர் மீது கடும் நடவடிக்கை எடுக்கவும் மத்திய அரசு ஒப்புதல் தெரிவித்துள்ளதாக கூறப்பட்டது.
+
+ஆயினும் தற்போது டெல்லி பொலிஸார் இப்போராட்டத்தை ஒடுக்கும் முயற்சியில் ஈடுபட்டுள்ளனர். இதற்காக,டெல்லி, பஞ்சாப் மற்றும் ஹரியாணா மாநில எல்லைகளில் கூட்டங்கள் கூடுவதற்கு 144 தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. அப்பகுதிகளில் மத்திய பாதுகாப்பு படை வீரர்கள் கண்காணிப்பு பணியில் ஈடுபட்டுள்ளனர்.
+
+பஞ்சாப், ஹரியாணா விவசாயிகள் தீவிரமாக கையில் எடுத்துள்ள கோரிக்கைகள் நிறைவேறும் வரை இந்த போராட்டத்தை தொடர அவர்கள் திட்டமிட்டுள்ளதாக அறிய முடிகின்றது.
+
+◼️
+
+[Data](articles/468c5f4e.json)
+
+---
+
+### தமிழரசுக்கு உள்ள தெரிவு
+
+*2024-02-19 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176708) · `ta`
+
+எழுபத்தைந்தாண்டுகள் பழமைவாய்ந்த கட்சியொன்று இதுகால வரையிலும் இணக்கப்பாடுகளின் அடிப்படையில் செயற்பட்டு இப்போது ஜனநாயக முறைமைகளை பின்பற்றச் சென்றமையால் ஏற்பட்டிருக்கும் விளைவுகளை கண்கூடாக பார்க்க கூடியதாக இருக்கின்றது.
+
+மேலும், இராணி சட்டத்தரணி எஸ்.ஜே.வி.செல்வநாயகம் முதல் பல்வேறு புகழ்பூத்த சட்டத்தரணிகளைக் கொண்ட கட்சியின் யாப்பில் எத்தனையோ குறைபாடுகள் இன்னமும் நீடிக்கின்றன என்பது வெட்கத்துக்குரிய விடயமாகும்.
+
+ஆகவே, எதிர்வரும் காலத்திலாவது, தமிழரசுக்கட்சி செயற்பாட்டு அரசியலில் தன்னை நிலைநிறுத்திக்கொள்வதாக இருந்தால் தன்னை சுயபரிசோதனை செய்துகொள்வதோடு, உட்கட்சி ஜனநாயகத்தை உறுதிப்படுத்தும் வகையிலான யாப்பு சீர்திருத்தமொன்றை உடனடியாக மேற்கொள்வதும் அவசியமாகின்றது.
+
+இந்த இரண்டு பணிகளும், முழுமை பெறாத வகையில், அந்தக் கட்சியால் விடுதலைக்காக போராடிக்கொண்டிருக்கும் இனமொன்றுக்கு நேர்த்தியான பிரதிநிதித்துவத்தினை வழங்கும் பொறுப்பு காலவதியாகும்.
+
+◼️
+
+[Data](articles/0fc61c5e.json)
+
+---
 
 ### US Deputy Secretary Richard Verma Visit India, Maldives, Sri Lanka
 
@@ -2115,49 +2151,5 @@ The demonstration, slated to commence from Kandy, is expected to witness the act
 [Data](articles/8393192c.json)
 
 [Extended Data](ext_articles/8393192c.ext.json)
-
----
-
-### Health Struggle Struggle; Action Information
-
-*2024-02-18 09:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-சிற்றூழியர்-போராட்டம்-அதிரடி-தகவல்கள்/175-333367) · `ta`
-
-The NHC Deputy Director and the President of the Government Medical Officers forum (GMOF), Dr. Rukshan Bellana, said that 200 small workers at the hospital (NHC) were unable to continue the drug trade in Colombo, as he entered the hospital administration.
-
-Following his request, he told the Daily Mirror that the Inspector General of Police (IGP) had visited the hospital and set up a police unit to stop the drug selling at the hospital.
-
-"Therefore, small employees who were involved in drug sales gathered together to chase me out of the use of drug use," he added.
-
-"Most of the addiction addicts take medication inside the hospital, do business, and take care of patients after taking medication," Bellana said.
-
-“Many patients have complained to the hospital administration that their goods are stolen. Patients and doctors' laptops, mobile phones and other medical products are plundered. They steal parts of the vehicles of doctors parked near the hospital. ”
-
-...
-
-[Data](articles/4418488e.json)
-
-[Extended Data](ext_articles/4418488e.ext.json)
-
----
-
-### Palestinian proud protest march
-
-*2024-02-18 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193533) · `si`
-
-A Palestinian pro-protest march in Central London has organized a march.
-
-Foreign media reports that the Palestine Cooperation Movement has organized protest marcurration and thousands of people have been in one.
-
-The protesters say they need a pronounced ceasefire to war war.
-
-It is reported that this is the first protest to the Israeli embassy in Western London after the protest in October.
-
-About 1,500 police officers were deployed to control the protest and more than 20 persons were arrested during the protest.
-
-◼️
-
-[Data](articles/5c2980c5.json)
-
-[Extended Data](ext_articles/5c2980c5.ext.json)
 
 ---

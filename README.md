@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 23:51:29**
+As of **2024-02-19 00:02:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,852 (100.0%) of 7,854 articles have been extended.
+7,854 (100.0%) of 7,854 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Speaking at the US Institute of Peace (USIP) on the Indo-Pacific strategy, Mr. L
 ◼️
 
 [Data](articles/6c05d83f.json)
+
+[Extended Data](ext_articles/6c05d83f.ext.json)
 
 ---
 
@@ -945,6 +947,8 @@ The Kala Pola, Sri Lanka’s annual open-air art fair opened its doors for the 3
 ◼️
 
 [Data](articles/8471dc02.json)
+
+[Extended Data](ext_articles/8471dc02.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 23:02:26**
+As of **2024-02-18 23:17:31**
 
 ## Newspaper Stats
 
-*Scraped **7,851** Articles*
+*Scraped **7,852** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 955
 adaderanalk | 967
 virakesarilk | 1,029
 adaderanasinhalalk | 1,145
-dailymirrorlk | 1,157
+dailymirrorlk | 1,158
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,851 (100.0%) of 7,851 articles have been extended.
+7,851 (100.0%) of 7,852 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,20 @@ Civilian visitors are not allowed - and the island has officially had no residen
 [Data](articles/0296f5c2.json)
 
 [Extended Data](ext_articles/0296f5c2.ext.json)
+
+---
+
+### Ranil is not a crafty man as claimed: Anura Kumara
+
+*2024-02-18 21:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-is-not-a-crafty-man-as-claimed-Anura-Kumara/108-277264) · `en`
+
+Kurunegala, Feb. 18 (Daily Mirror)- Claiming that President Ranil Wickremesinghe is not a crafty man as claimed, NPP leader Anura Kumara Dissanayake said today he will have to go home even before the end of his scheduled term, if he attempts to evade the Presidential election by any means.
+
+Speaking at the Kurunegala District Women's convention, he said a new discussion had arisen on the need to scrap the Executive Presidency and said it was an age-old slogan.
+
+...
+
+[Data](articles/d46ad197.json)
 
 ---
 
@@ -2153,29 +2167,5 @@ The suspects are residents of Imbulgama and Kadawatha, aged 39 and 44 years old.
 [Data](articles/bea83889.json)
 
 [Extended Data](ext_articles/bea83889.ext.json)
-
----
-
-### Mathenta Pathirana says about the 19th overthrow
-
-*2024-02-18 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193529) · `si`
-
-Sri Lanka's fast bowler, Sri Lanka's fast bowler, says that the Sri Lankan team has gone to the Sri Lankan team in the 19th in 19th.
-
-He said that yesterday (17), he said.
-
-"There was two games in the opening day. Needed the match. I looked a lot of time to our side to our side. I thought it was. "
-
-"In fact, Buddha brother put a very good over. Buddha used a lot of experience of the brother. His earlier three overposses were running out, but the last over came well. I think that over is that we will win the mochet. "
-
-"In fact, our team's tagget was to be more than 170. So we couldn't do it. 10 for 15 points were gonna. So if we want to win the competition, we need to do well. That's why I think so much went to the bound. "
-
-"After the Debuse, I had a lot of opportunities to League and play it. Work with those players I worked with our Coch. That was the second 20 and 20 game played today. "
-
-...
-
-[Data](articles/d36cacc1.json)
-
-[Extended Data](ext_articles/d36cacc1.ext.json)
 
 ---

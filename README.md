@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 11:02:30**
+As of **2024-02-18 11:17:12**
 
 ## Newspaper Stats
 
@@ -26,35 +26,39 @@ dailymirrorlk | 1,143
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,765 (100.0%) of 7,768 articles have been extended.
+7,768 (100.0%) of 7,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### කැපුම් තුවාල සහිත අභිරහස් මරණයක්
+### A mysterious death with cut injury
 
 *2024-02-18 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193535) · `si`
 
-තිදරු මවක කැපුම් තුවාල සහිත ව අභිරහස් ලෙස මිය ගොස් ඇති බව අලුත්ගම පොලීසිය පවසයි.
+The Aluthgama Police said that he had died mysteriously mysteriously as a mother of cut injuries in a mother of three.
 
-ඊයේ (17) රාත්‍රී 08.30ට පමණ එම සිද්ධිය වාර්තා වූ බව පොලීසිය වාර්තා කර ඇත.
+The incident was reportedly reported yesterday (17) at around 8.30 pm.
 
-එසේ මිය ගොස් ඇත්තේ, මොරගල්ල - කාලවිලවත්ත ප්‍රදේශයේ පදිංචි ව සිටි එස්.ශිරානි ලක්ෂිකා කුමාරි නමැති 47 හැවිරිදි කාන්තාවකි.
+The deceased has been identified as a 47 year old woman who was living in Moragalla, Moragalla.
 
-මිය ගොස් ඇති කාන්තාව මුහුණේ කැපුම් තුවාල සහිත ව නිවසේ වැටී සිට ඇති අතර, ඇය ව බේරුවල ප්‍රාදේශීය රෝහලට රැගෙන ගොස් ඇතත් ඒ වන විටත් ඇය මිය ගොස් සිට ඇති බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+The deceased has fallen in the house with cut wounds and she had been taken to the Beruwala Divisional Hospital, but she had already died, hospital sources said.
 
-ඒ අනුව පොලිස් විමර්ශනවල දී නිවසේ නිදන කාමරයේ, මැදසාලය සහ ඉදිරිපස දොරටු අසල ලේ පැල්ලම් දක්නට ලැබෙන බව පෙනී ගොස් ඇත.
+Accordingly, police investigations have shown blood stains near the middle bedroom, the middle-bedroom, and front gates.
 
-මරණකාරිය මෙම සිද්ධියට මුහුණ පාන අවස්ථාවේ නිවස තුළ කාන්තාවගේ ස්වාමියා, පුතකු සහ දියණියක එම නිවසේ සිට ඇති බවට තහවුරු වී ඇති බව පොලීසිය පවසයි.
+The victim has been confirmed that the woman's master, son and daughter had been in the house when the victim was in the face of this incident.
 
-කෙසේ වෙතත් ඔවුන් පොලීසියට ප්‍රකාශ කර ඇත්තේ, ඔවුන්ගේ මව තුවාල සහිත ව නිවසේ ඉදිරිපස ප්‍රධාන දොරටුව අසල වැටී සිටිය දී රෝහල්ගත කළ බව ය.
+However, they have told the police that their mother was hospitalized when their mother was in the front door of the main entrance.
 
-මේ වන විට පොලීසිය, ඝාතනය සිදු කළ කාන්තාවගේ ස්වාමියාගෙන් දරුවන් දෙදෙනාගෙන් ප්‍රශ්න කිරීම් කටයුතු සිදු කරමින් පවතියි.
+The police are still interrogation from the master of the murder.
 
-...
+Police investigations on whether a person at home was carried out at home.
+
+◼️
 
 [Data](articles/3b5a8fe7.json)
+
+[Extended Data](ext_articles/3b5a8fe7.ext.json)
 
 ---
 
@@ -118,21 +122,23 @@ On 22 January 2024, Sri Lanka Police launched a special project through which tr
 
 ---
 
-### අතවර සෙවීමට බස් රථයට නැඟි පොලිස් නිලධාරිනියටත් අතවරයක්
+### Bus operated to the bus to search abuse
 
 *2024-02-18 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193534) · `si`
 
-ළමා හා කාන්තා හිංසනයන් ගැන සෙවීමට බස් රථයට නැඟි පොලිස් උපාය දූතිකාවකට පෞද්ගලික ආරක්ෂක නිලධාරියෙකු ලිංගික අතවර කර ඇති බව වාර්තා වේ.
+It is reported that a private security officer has sexually abused a police station to search for child and women's abuse.
 
-සැකකරු, අත්අඩංගුවට ගැනීමෙන් පසු නුවරඑළිය මහෙස්ත්‍රාත්වරයා වෙත ඉදිරිපත් කිරීමෙන් පසු එළැඹෙන 22 වැනි දා දක්වා රක්ෂිත බන්ධනාගාරගත කර ඇත.
+The suspect was produced before the Nuwara Eliya Magistrate after the arrest.
 
-අත්අඩංගුවට ගෙන ඇත්තේ, වැලිමඩ ප්‍රදේශයේ පදිංචි පෞද්ගලික ආරක්ෂක සේවයේ නියුතු වයස අවුරුදු 44ක පුද්ගලයෙකි.
+The arrested person is a 44 year old resident of Welimada.
 
-රටපුරා ක්‍රියාත්මක කෙරෙන යුක්තිය මෙහෙයුමට සමගාමි ව පොදු ප්‍රවාහන සේවාවන් හරහා ගමන් කරන කාන්තාවන්ට හා බාල වයස්කාර දරුවන්ට සිදු වන ලිංගික අතවර වැළැක්වීමේ අරමුණෙන් ක්‍රියාත්මක මෙහෙයුම අතර දී සැකකරු අත්අඩංගුවට ගෙන ඇත.
+The suspect has been arrested in the event of aimed at preventing women through public transport and raised sexual abuse of the country's militant justice.
 
 ◼️
 
 [Data](articles/96d07fbf.json)
+
+[Extended Data](ext_articles/96d07fbf.ext.json)
 
 ---
 
@@ -1399,6 +1405,8 @@ According to reports, this dire situation has forced authorities to accommodate 
 ◼️
 
 [Data](articles/97a25447.json)
+
+[Extended Data](ext_articles/97a25447.ext.json)
 
 ---
 

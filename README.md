@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 01:33:01**
+As of **2024-02-19 01:49:57**
 
 ## Newspaper Stats
 
@@ -26,45 +26,49 @@ dailymirrorlk | 1,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,861 (100.0%) of 7,863 articles have been extended.
+7,863 (100.0%) of 7,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### “டெல்லி சலோ” டெல்லியில் விவசாயிகள் போராட்டம்
+### "Delhi Salo" farmers' struggle in Delhi
 
 *2024-02-19 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176709) · `ta`
 
-சண்டிகரில் கடந்த 8ஆம் திகதி முதல் கட்டமாக விவசாயிகளுடன் பேச்சுவார்த்தையை துவங்கினர். அதன்பிறகு கடந்த பெப்ரவரி 10, 11 மற்றும் 12 ஆகிய திகதிகளிலும் பேச்சுவார்த்தை தொடர்ந்தது. இதற்கான ஏற்பாடுகளை பஞ்சாப் முதல்வர் பகவந்த் சிங் மான் செய்திருந்தார்.
+In Chandigarh, the first phase of the talks with the farmers began on the 8th. Thereafter the negotiations continued on the 10th, 11th and 12th of February. Punjab Chief Minister Bhagavant Singh had made arrangements for this.
 
-இந்த பேச்சுவார்த்தைகளில் எடுக்கப்பட்ட முடிவுகளின்படி, கடந்த விவசாயிகள் போராட்டத்தில் தொடுக்கப்பட்ட வழக்குகள் வாபஸ்பெறவும், போலி விதை விற்பனை செய்வோர் மீது கடும் நடவடிக்கை எடுக்கவும் மத்திய அரசு ஒப்புதல் தெரிவித்துள்ளதாக கூறப்பட்டது.
+According to the decisions taken in these talks, the central government has agreed to withdraw the cases filed in the last peasant struggle and take stern action against the sellers.
 
-ஆயினும் தற்போது டெல்லி பொலிஸார் இப்போராட்டத்தை ஒடுக்கும் முயற்சியில் ஈடுபட்டுள்ளனர். இதற்காக,டெல்லி, பஞ்சாப் மற்றும் ஹரியாணா மாநில எல்லைகளில் கூட்டங்கள் கூடுவதற்கு 144 தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. அப்பகுதிகளில் மத்திய பாதுகாப்பு படை வீரர்கள் கண்காணிப்பு பணியில் ஈடுபட்டுள்ளனர்.
+However, the Delhi police are currently trying to suppress the struggle. For this purpose, 144 ban has been issued to meet meetings on Delhi, Punjab and Haryana state borders. Central security forces are engaged in surveillance in the area.
 
-பஞ்சாப், ஹரியாணா விவசாயிகள் தீவிரமாக கையில் எடுத்துள்ள கோரிக்கைகள் நிறைவேறும் வரை இந்த போராட்டத்தை தொடர அவர்கள் திட்டமிட்டுள்ளதாக அறிய முடிகின்றது.
+Punjab and Haryana farmers are planning to pursue this struggle until the demands have been taken.
 
 ◼️
 
 [Data](articles/468c5f4e.json)
 
+[Extended Data](ext_articles/468c5f4e.ext.json)
+
 ---
 
-### தமிழரசுக்கு உள்ள தெரிவு
+### Tamil
 
 *2024-02-19 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176708) · `ta`
 
-எழுபத்தைந்தாண்டுகள் பழமைவாய்ந்த கட்சியொன்று இதுகால வரையிலும் இணக்கப்பாடுகளின் அடிப்படையில் செயற்பட்டு இப்போது ஜனநாயக முறைமைகளை பின்பற்றச் சென்றமையால் ஏற்பட்டிருக்கும் விளைவுகளை கண்கூடாக பார்க்க கூடியதாக இருக்கின்றது.
+The consequences of the seventy -five -year -old party until now have been based on compliance and now the consequences of the democratic system are visible.
 
-மேலும், இராணி சட்டத்தரணி எஸ்.ஜே.வி.செல்வநாயகம் முதல் பல்வேறு புகழ்பூத்த சட்டத்தரணிகளைக் கொண்ட கட்சியின் யாப்பில் எத்தனையோ குறைபாடுகள் இன்னமும் நீடிக்கின்றன என்பது வெட்கத்துக்குரிய விடயமாகும்.
+Moreover, it is a shame that there are many shortcomings in the party with a variety of renowned lawyers since Rani Attorney SJV Selvanayagam.
 
-ஆகவே, எதிர்வரும் காலத்திலாவது, தமிழரசுக்கட்சி செயற்பாட்டு அரசியலில் தன்னை நிலைநிறுத்திக்கொள்வதாக இருந்தால் தன்னை சுயபரிசோதனை செய்துகொள்வதோடு, உட்கட்சி ஜனநாயகத்தை உறுதிப்படுத்தும் வகையிலான யாப்பு சீர்திருத்தமொன்றை உடனடியாக மேற்கொள்வதும் அவசியமாகின்றது.
+Therefore, in the near future, if the TNA is establishing itself in the politics of the party, it is necessary to self -examine and prompt a reform to ensure internal democracy.
 
-இந்த இரண்டு பணிகளும், முழுமை பெறாத வகையில், அந்தக் கட்சியால் விடுதலைக்காக போராடிக்கொண்டிருக்கும் இனமொன்றுக்கு நேர்த்தியான பிரதிநிதித்துவத்தினை வழங்கும் பொறுப்பு காலவதியாகும்.
+These two tasks are incomplete, and the responsibility of providing elegant representation to a race that the party is fighting for liberation.
 
 ◼️
 
 [Data](articles/0fc61c5e.json)
+
+[Extended Data](ext_articles/0fc61c5e.ext.json)
 
 ---
 

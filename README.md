@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 11:17:12**
+As of **2024-02-18 11:33:19**
 
 ## Newspaper Stats
 
-*Scraped **7,768** Articles*
+*Scraped **7,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 400
 islandlk | 409
 dailyftlk | 415
-adalk | 657
+adalk | 658
 tamilmirrorlk | 945
 adaderanalk | 955
 virakesarilk | 1,018
@@ -26,7 +26,7 @@ dailymirrorlk | 1,143
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,768 (100.0%) of 7,768 articles have been extended.
+7,768 (100.0%) of 7,769 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -297,6 +297,30 @@ The deceased has been identified as 62 year old Gininiyagala - a resident of Nam
 [Data](articles/be49ef7f.json)
 
 [Extended Data](ext_articles/be49ef7f.ext.json)
+
+---
+
+### මීගොඩ වෙඩි තැබීමේ යතුරු පැදිය සඟවාගෙන සිටි දෙදෙනෙක් අල්ලයි
+
+*2024-02-18 08:30:02* · [`adalk`](https://www.ada.lk/breaking_news/මීගොඩ-වෙඩි-තැබීමේ-යතුරු-පැදිය-සඟවාගෙන-සිටි-දෙදෙනෙක්-අල්ලයි/11-408143) · `si`
+
+මීගොඩ ආර්ථික මධ්‍යස්ථානයට කඩා වැදී  එහි වෙළෙඳ සැලක සේවිකාවකට වෙඩි තබා  වෙඩික්කරුවන් පැමිණි  යතුරු පැදිය සඟවාගෙන සිටි කඩවත කිරිල්ලවල අවන්හලක හිමිකරුවෙක් සහ තවත් පුද්ගලයෙකු අත්අඩංගුවට ගත් බව මීගොඩ පොලිසිය කියයි
+
+අනෙක් සැකකරු සැකකරුවන්ට රැඳී සිටීමට නිවසක් ලබා දී තිබූ සැකකරු බව පොලිසිය කියයි
+
+සැකකරුවන් සමග එම යතුරු පැදිය , ආරක්ෂක හිස් වැස්මක් ,පිහියක් හා කමිසයක් අවන්හලේ කාමරයක් තුළ සඟවා තිබේදී පොලිසිය මගින් සොයාගෙන ඇත
+
+ඉකුත්  12 බිමි දින මෙම කොල්ලකෑම සිදුවූ අතර නාඳුනන පුද්ගලයන් දෙදෙනකු   වෙළඳසැලක සේවිකාවකට වෙඩි ප්‍රහාරයක් එල්ල කර රුපියල් 45900/= මුදලක් කොල්ලකා පලා ගොස් තිබිනි
+
+උදර ප්‍රදේශයට වෙඩි වැදීමෙන් තුවාල ලද 23 හැවිරිදි  තරුණිය හෝමාගම මූලික රෝහල වෙත ඇතුලත් කෙරිණි
+
+කොල්ලකරුවන් වෙළඳසැලේ උඩ ලාච්චුව  තුළ මුදල් කොල්ලකෑමෙන් අනතුරුවවසා තිබූ යට ලාච්චුවේ යතුර සේවිකාවගෙන් ඉල්ලා සිට ඇති අතර ඇය එය ලබාදීම ප්‍රතික්ෂේප කිරීම හේතුවෙන් වෙඩි වෙඩි තැබීම සිදු කර තිබිණි'
+
+කොල්ලකරුවන් සම්බන්ධයෙන් වැදගත් හෝඩුවාවන් කීපයක් ලැබී ඇතැයි පවසන පොලිසිය නුදුරු දිනකදීම එම සැකකරුවන් දෙදෙනා ද අත්අඩංගුවට ගැනීමට හැකි වෙතැයි පවසයි'
+
+...
+
+[Data](articles/73de63ef.json)
 
 ---
 
@@ -2075,27 +2099,5 @@ Meanwhile, the National Hospital's short -lived men forcibly detained Dr. Ruksha
 [Data](articles/5bcf944b.json)
 
 [Extended Data](ext_articles/5bcf944b.ext.json)
-
----
-
-### NHSL junior staff to continue protests until Dr. Bellana is removed
-
-*2024-02-17 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97347/nhsl-junior-staff-to-continue-protests-until-dr-bellana-is-removed) · `en`
-
-The junior staff of the Colombo National Hospital stress that they will continue the protests until the hospital’s Deputy Director Dr. Rukshan Bellana is removed from his position.
-
-They resorted to this move against the criticisms made by Dr. Bellana regarding the junior staffers’ involvement in the recent strike launched by health trade unions over disparities in allowances.
-
-On Friday (Feb. 16), Dr. Bellana was forcibly held inside his office by the junior staff of the hospital. Later, a tense situation arose in front of the hospital as the staff members commenced a demonstration.
-
-Thus, police anti-riot squads were also deployed to beef up the security of the hospital premises.
-
-A collective of 72 health sector trade unions recently carried out an island-wide strike action over disparities in allowances, which was heavily criticized by Dr. Bellana.
-
-...
-
-[Data](articles/f03729fc.json)
-
-[Extended Data](ext_articles/f03729fc.ext.json)
 
 ---

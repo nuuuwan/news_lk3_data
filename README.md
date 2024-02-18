@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 07:52:23**
+As of **2024-02-18 08:02:59**
 
 ## Newspaper Stats
 
-*Scraped **7,743** Articles*
+*Scraped **7,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,70 @@ adalk | 656
 tamilmirrorlk | 937
 adaderanalk | 950
 virakesarilk | 1,018
-adaderanasinhalalk | 1,117
+adaderanasinhalalk | 1,118
 dailymirrorlk | 1,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,733 (99.9%) of 7,743 articles have been extended.
+7,743 (100.0%) of 7,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### කොළඹ සීසීටීවී මෙහෙයුම් තවදුරටත්
+### රුසියානු විපක්ෂ නායකයාගේ මළ සිරුර සැඟවීමේ තැතක්?
+
+*2024-02-18 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193528) · `si`
+
+රුසියාවේ බන්ධනාගාරයක් තුළ මිය ගිය එරට විපක්ෂ නායක ඇලෙක්සි නවල්නිගේ මළසිරුර සඟවනු ඇති බවට නවල්නි හිතවාදින් චෝදනා කර තිබේ.
+
+අදාළ සිරුර සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණ අවසන් වූ පසු එම සිරුර නවල්නිගේ මව වෙත භාර දෙන බවට රුසියානු බලධාරින් ප්‍රකාශ කළ බව වාර්තා වේ.
+
+ජනාධිපති ව්ලැද්මීර් පුටින්ගේ නියෝගයක් මත මෙම ඝාතනය සිදු වන්නට ඇති බවට සැක මතු වී තිබේ.
+
+දඩුවම් නියම වී සිටි නවල්නි දුරස්ථ බන්ධනාගාරයක රඳවා සිටි අතර, පසුගිය සිකුරාදා ඔහු මිය ගිය බවට අනාවරණය කර තිබිණි.
+
+◼️
+
+[Data](articles/1a81a730.json)
+
+---
+
+### Colombo CCTV operations continue
 
 *2024-02-18 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193527) · `si`
 
-මේ මාසයේ ගත වූ දින 15ක කාලය තුළ කොළඹ නගරය ආශ්‍රිත ව සීසීටීවී දර්ශන මඟින් වැරදිවලට සම්බන්ධ පුද්ගලයන් 793 දෙනෙකු හදුනාගත් බව පොලීසිය නිවේදනය කර තිබේ.
+The police have announced that 793 persons were identified by CCTV footage in Colombo town this month.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා පැවසුවේ, අදාළ වැරදිකරුවන් සම්බන්ධයෙන් අවශ්‍ය ක්‍රියාමාර්ග ගැනීමට පොලිස් ස්ථාන 300කට පමණ තොරතුරු දැනුම් දී ඇති බවයි.
+Police Media Spokesperson DIG Nihal Talduuwa said that about 300 police stations have been informed about 300 police stations to take necessary action regarding the offenders.
 
-2023 වසරේ බීමත් ව රිය පැදවීම් සම්බන්ධ නඩු 26,000ක් පමණ වාර්තා වී ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා සඳහන් කර ඇත.
+Police Media Spokesperson DIG Nihal Talduuwa has said that about 26,000 drunken cases have been reported in 2023 year.
 
 ◼️
 
 [Data](articles/929b8ab3.json)
 
+[Extended Data](ext_articles/929b8ab3.ext.json)
+
 ---
 
-### තවත් බරපතළ තත්ත්වයක්
+### Another serious situation
 
 *2024-02-18 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193526) · `si`
 
-05 ශ්‍රේණියේ ළමුන් පිරිසක් මත් වන පෙති වර්ගයක් භාවිත කර මත් වී සිටි බවට තොරතුරු වාර්තා වීම බරපතල තත්ත්වයක් බව වෛද්‍යවරු පවසති.
+Doctors say that it is a serious situation that information was alcohol using a crowd of students in Grade 05.
 
-ළමා රෝග විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා මේ බව අවධාරණය කර තිබේ.
+Dr. Deepal Perera has stressed.
 
-ඊයේ (17) පස්වරුවේ පැවති මාධ්‍ය හමුවක දී ඔහු ප්‍රකාශ කළේ, කිසිදු ඖෂධයක් දරුවන්ට හසු වන ලෙස නිවසේ තොතැබීමට දෙමව්පියන් සහ වැඩිහිටියන් සැලකිලිමත් විය යුතු බවයි.
+He said that at a press conference held yesterday (17), he said that parents and adults should be concerned at home to house any medicine.
 
 ◼️
 
 [Data](articles/6866ae77.json)
+
+[Extended Data](ext_articles/6866ae77.ext.json)
 
 ---
 
@@ -640,6 +662,8 @@ The town services in Kandy from Peradeniya to Katugastota, Pendiniya to Tennekum
 
 [Data](articles/78ffb50b.json)
 
+[Extended Data](ext_articles/78ffb50b.ext.json)
+
 ---
 
 ### Israel’s Gaza Campaign Is the Gravest Moral Crisis of Our Time
@@ -1030,6 +1054,8 @@ Melwa has been implementing this social welfare programme for about ten years. U
 
 [Data](articles/70d0b56d.json)
 
+[Extended Data](ext_articles/70d0b56d.ext.json)
+
 ---
 
 ### Sampath Bank achieves stable results amidst economic headwinds, while supporting the sustainability of its customers.
@@ -1041,6 +1067,8 @@ Backed by its strong capital base, Sampath Bank continues to navigate adeptly th
 ...
 
 [Data](articles/d6530a83.json)
+
+[Extended Data](ext_articles/d6530a83.ext.json)
 
 ---
 
@@ -1059,6 +1087,8 @@ Notably, they mentioned the fact that automotive imports to Sri Lanka which have
 ...
 
 [Data](articles/764d90b7.json)
+
+[Extended Data](ext_articles/764d90b7.ext.json)
 
 ---
 
@@ -2021,25 +2051,5 @@ Ranil Wickremesinghe went to his home a few days before Gamini Jayawickrama Pere
 [Data](articles/e83b6104.json)
 
 [Extended Data](ext_articles/e83b6104.ext.json)
-
----
-
-### Income of the Dehiwala Zoo on the rise
-
-*2024-02-17 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Income-of-the-Dehiwala-Zoo-on-the-rise/108-277229) · `en`
-
-Dehiwela, Feb 17 (Daily Mirror) - The income of the Dehiwala Zoo has been on the increase, and it has received an income of Rs. 52 million for the first 40 days of the year from 16,000 visitors.
-
-Director of Operations H.A. Anoma Priyadarshani said the heavy influx of visitors was mainly due to the innovative programmes implemented by the department to attract visitors and the enhanced facilities available to them.
-
-The director said the zoo is open to the public from 8.30 am to 6 pm daily and that they are allowed to watch the activities of animals and to feed the birds, fish, elephants and giraffes only with food supplied by the zoo and under the supervision of employees.
-
-This offers visitors the opportunity to show their kindness to animals and pet them.
-
-◼️
-
-[Data](articles/6e060bdf.json)
-
-[Extended Data](ext_articles/6e060bdf.ext.json)
 
 ---

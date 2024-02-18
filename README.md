@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 19:17:23**
+As of **2024-02-18 19:32:51**
 
 ## Newspaper Stats
 
-*Scraped **7,831** Articles*
+*Scraped **7,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 667
 tamilmirrorlk | 953
 adaderanalk | 964
 virakesarilk | 1,024
-adaderanasinhalalk | 1,140
+adaderanasinhalalk | 1,141
 dailymirrorlk | 1,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,829 (100.0%) of 7,831 articles have been extended.
+7,829 (100.0%) of 7,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### රග්බි ශූරතාව CR & FC කණ්ඩායමට
+
+*2024-02-18 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193552) · `si`
+
+අන්තර් සමාජ ලීග් රග්බි තරගාවලියේ ශූරතාව වසර 26කට පසුව දිනා ගන්නට CR ඇන්ඩ් FC කණ්ඩායමට අද හැකිවිය.
+
+මහනුවර කණ්ඩායම ලකුණු 33ට 25ක් ලෙස පරාජය කරමින් CR ඇන්ඩ් FC කණ්ඩායම එහිදී ශූරතාව හිමිකරගත්තේය.
+
+◼️
+
+[Data](articles/6f4a90c3.json)
+
+---
 
 ### පැට්ටා අවසානයේදී කොටුවෙයි
 
@@ -2141,23 +2155,5 @@ Ibrahim was unable to collect one sign in the first four balls of the first ball
 [Data](articles/bd19822b.json)
 
 [Extended Data](ext_articles/bd19822b.ext.json)
-
----
-
-### The government is cutting down the electricity of the idols and despises the charioteers - the leader of the opposition
-
-*2024-02-17 22:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176616) · `ta`
-
-Although the Constitution has stated that Buddhism should be given priority and other religions should be given a suitable place, the Mihintale Raja Vihara, located on the holy earth, has been cut off.. The Opposition Leader said that the state structure is working to stop other services, including the religious services of Buddhist monks, and that religious work is being stopped.
-
-Opposition Leader Sajith Premadasa said this while addressing the District Conference of the Monks Advisory Council held on Saturday (17) in Anuradhapura.
-
-By promoting separation education with Charter, these institutions will be transformed into intellectuals centers. Although Sasunada has done many tasks through Aruna, the projects have been told by various false mudslides.. Regardless of this, the Opposition Leader said that steps would be taken to protect the Sampantha Charter in the United People's Power.
-
-...
-
-[Data](articles/87911b7c.json)
-
-[Extended Data](ext_articles/87911b7c.ext.json)
 
 ---

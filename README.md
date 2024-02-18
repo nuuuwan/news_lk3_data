@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 18:19:34**
+As of **2024-02-18 18:32:56**
 
 ## Newspaper Stats
 
-*Scraped **7,822** Articles*
+*Scraped **7,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,60 +19,104 @@ adalk | 666
 tamilmirrorlk | 953
 adaderanalk | 963
 virakesarilk | 1,023
-adaderanasinhalalk | 1,137
+adaderanasinhalalk | 1,139
 dailymirrorlk | 1,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,819 (100.0%) of 7,822 articles have been extended.
+7,822 (100.0%) of 7,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
 
-### අත්අඩංගුවට ගත් මහනුවර ගුරුවරයා රිමාන්ඩ්
+### ඇෆ්ගනිස්තානයේ ප්‍රබල භූ කම්පනයක්
 
-*2024-02-18 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193548) · `si`
+*2024-02-18 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193550) · `si`
 
-මහනුවර තෙල්දෙණිය අධ්‍යාපන කලාපයට අයත් පාසලක තොරතුරු තාක්ෂණ විෂය ඉගැන්වීම සඳහා පාසලේ තිබූ ලැප්ටොප් පරිගණකයෙන් 12 හැවිරිදි සිසුවෙකුට ලිංගික හා නිරුවත් දර්ශන ඇතුළත් ඡායාරූප පෙන් වූ බවට සැකපිට එම පාසලේ ගුරුවරයෙකුව අත්අඩංගුවට ගෙන තිබේ.
+ඇෆ්ගනිස්තානයේ ප්‍රබල භූ කම්පනයක් සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
 
-පසුගිය 07 වනදා සහ 09 වනදා  පාසල් වේලාවේ දී මෙම ගුරුවරයා තමන්ව තොරතුරු තාක්ෂණ කාමරයට රැගෙන ගොස් නිරුවත් ඡායාරූප පෙන්වූ බවට එම සිසුවා දෙමාපියන් සමඟ පැමිණ තෙල්දෙණිය පොලීසියට පැමිණිල්ලක් කර ඇත.
+විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ එරට Balkh පළාතේ මෙම භූ කම්පනය සිදුව ඇති බවය.
 
-පසුව පොලීසිය අදාළ ලැප්ටොප් පරිගණකය පොලිස් භාරයට ගෙන පරීක්ෂා කිරීමෙන් අනතුරුව සැකකාර ගුරුවරයාව අත්අඩංගුවට ගෙන තෙල්දෙණිය අධිකරණයට ඉදිරිපත් කිර තිබේ.
+එහි අගය රික්ටර් මාපකයේ 5.0 අගයක් ගෙන ඇති බවට එම වාර්තා වැඩිදුරටත් සඳහන් කර ඇත.
 
-එහිදී සැකකාර ගුරුවරයාව හෙට (19) දිනය දක්වා රක්ෂිත බන්ධනාගාර ගතකර ඇති බව වාර්තා වේ.
+◼️
 
-මෙලෙස රක්ෂිත බන්ධනාගාර ගතකර ඇත්තේ එම පාසලේ ඉගැන්වීම් කටයුතු කළ 53 හැවිරිදි තෙල්දෙණිය මඩපොළ ප්‍රදේශයේ පදිංචව සිටි ගුරුවරයෙකි.
-
-මෙම පැමිණිල්ල සම්බන්ධයෙන් සිදුකළ විමර්ශනවලදී හෙළි වී ඇත්තේ එම සැකකාර ගුරුවරයා තවත් 12 හැවිරිදි සිසුවෙකු නෙල්ලි ඇහිඳීමට කියා විදුහල්පති නේවාසිකාගාරය අසළ ඇති කැලෑවකට රැගෙන ගොස් ඇති බවය.
-
-...
-
-[Data](articles/051b94b5.json)
+[Data](articles/c28a2855.json)
 
 ---
 
-### ගිනිගත්හේනේ අනතුරකින් ශ්‍රී පාද වන්දනාකරුවන් පිරිසකට තුවාල
+### කොළඹ හදිසි මෙහෙයුමක්
+
+*2024-02-18 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193549) · `si`
+
+අද (18) බස්නාහිර පළාතේ සියලු පොලිස් වසම් ආවරණය වන පරිදි පොලීසිය විසින් විශේෂ මෙහෙයුමක් සිදුකර තිබේ.
+
+මෙම සෝදිසි මෙහෙයුම සඳහා පොලිස් නිලධාරීන් 2,253 ක්, ත්‍රිවිධ හමුදා නිලධාරීන් 1,112 ක් සහ පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් 219 ක්   යොදවා ඇත.
+
+යුක්තිය මෙහෙයුම ආරම්භ කර මාස දෙකක් ගතවීම හේතුවෙන් ඊට සමගාමීව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් පරිදි මෙම මෙහෙයුම සිදුකර තිබේ.
+
+එහිදී පුද්ගලයින් 1,061 දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර, වාහන 11 ක් සහ අපරාධවලට අවශ්‍ය කරන සැකකරුවන් 05 දෙනෙකුද අත්අඩංගුවට ගෙන තිබේ.
+
+නිවාස සෝදිසිකිරීම්වලදී තියුණු ආයුධ රැසක් පොලිස්භාරයට ගෙන ඇති අතර මෙලෙස සොයාගෙන ඇති ආයුධ සහ මත්ද්‍රව්‍ය ප්‍රමාණයන් පහතින්,
+
+◼️
+
+[Data](articles/aa6d1f75.json)
+
+---
+
+### Kandy teacher remanded
+
+*2024-02-18 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193548) · `si`
+
+A schoolure of the school was arrested on suspicion of sex and naked footprints of the school to teach IT-in-school in the Kandy oil zone of the school.
+
+The teacher had come to the IT and a complaint with the Penadeniya police that the teacher had taken him to the IT room and showed naked photos on the 7th and 9..
+
+The suspect teacher was later assured after the police seized the relevant laptop and was arrested and presented to the Teldeniya Court.
+
+The suspect teacher has been remanded till tomorrow (19).
+
+The 53-year-old teacher was a 53-year-old teacher who was involved in the school.
+
+Investigations carried out regarding the complaint revealed that the suspect teacher had taken another 12-year-old student to a jungle near the Principal Hostel.
+
+The student's mother had told the police that the student's hand was in the ground.
+
+The agricultural school student has been admitted to the Teldeniya hospital for a medical examination and the Teldeniya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/051b94b5.json)
+
+[Extended Data](ext_articles/051b94b5.ext.json)
+
+---
+
+### A group of Sri Pada pilgrims injured in Ginigathena accident
 
 *2024-02-18 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193547) · `si`
 
-ශ්‍රී පාද වන්දනාවේ පැමිණි පිරිසක් රැගත් වෑන් රථයක් සහ බස් රථයක් මුහුණට මුහුණ ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයින් දස දෙනෙකු තුවාල ලබා රෝහල්ගතකර තිබේ.
+Ten persons were injured in an accident with a van and a bus carrying a group of people in Sri Pada pilgrimage.
 
-අද (18) පස්වරුවේ හැටන්-කොළඹ ප්‍රධාන මාර්ගයේ ගිනිගත්හේන මිල්ලගහමුල ප්‍රදේශයේදී මෙම අනතුර සිදුව ඇත.
+The accident had occurred at the Hatton-Colombo main road today (18).
 
-මෙලෙස අනතුරට ලක්ව ඇත්තේ ගම්පහ ප්‍රදේශයේ සිට වන්දනාකරුවන් පිරිසක් රැගෙන පැමිණි වෑන් රථයක් සහ මාතර ප්‍රදේශයේ සිට වන්දනාකරුවන් පිරිසක් රැගෙන පැමිණි බස් රථයකි.
+The victims were a van that had been taken from the Gampaha area and a bus from the Matara area.
 
-අනතුරින් බරපතළ තුවාල ලැබූ දෙදෙනෙකු ගිනිගත්හේන රෝහලේ සිට නාවලපිටිය රෝහල වෙත මාරුකර යවා ඇත.
+Two seriously injured have been transferred to the Navalapitiya Hospital.
 
-වෑන් රථය ඉදිරියෙන් ගමන්කළ ලොරි රථයක් පසුකර යාමට උත්සාහ ගැනීමේදී මෙම අනතුර සිදුව තිබේ.
+The accident had occurred when trying to pass a lorry traveled by the van.
 
-අනතුරින් වෑන් රථයට සහ බස් රථයට දැඩි අලාභහානි සිදුව ඇති අතර ගිනිගත්හේන පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ සිදුකරයි.
+The van and the bus has been severely damaged, and the Ginigathena Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/05bc7e19.json)
+
+[Extended Data](ext_articles/05bc7e19.ext.json)
 
 ---
 
@@ -258,19 +302,27 @@ In August 2023, Foreign Minister Ali Sabry had bilateral discussions with Foreig
 
 ---
 
-### යතුරු පැදි දෙකක් ගැටී තරුණයන් දෙදෙනෙක් මරුට
+### Two youth dies after two motorcycles collide
 
 *2024-02-18 15:35:35* · [`adalk`](https://www.ada.lk/breaking_news/යතුරු-පැදි-දෙකක්-ගැටී-තරුණයන්-දෙදෙනෙක්-මරුට/11-408152) · `si`
 
-පිළියන්දල- මහරගම ප්‍රධාන බස් මාර්ගයේ නීලම්මහර මංසන්ධියේ (18) වන දින අලුයම 12.10 ට පමණ යතුරුපැදි දෙකක් එකිනෙක ගැටීමෙන් සිදුවූ රිය අනතුරකින් (19) වැනි වියේ පසුවූ තරුණයින් දෙදෙනෙක් මියගිය බව මහරගම පොලිසිය කියයි
+Maharagama Police say two (19) of two (19) motorcycles at the Neembarama Junction on Piliyandala - Maharagama main bus route
 
-අනතුරින් මියගොස් ඇත්තේ පිළියන්දල පාර, ඇරව්වල ප්‍රදේශයේ පදිංචිකරුවෙකු වන එච්.ජී මෙත්සිත් නැමැති අය සහ ඇරැව්වල පන්නිපිටිය ප්‍රදේශයේ පදිංචිකරුවකු වන කවිඳු රණසිංහ නැමැති තරුණයන් දෙදෙනා බවත් පොලිසිය පවසයි.
+The deceased has been identified as a resident of Piliyandala Road, a resident of Piliyandala Road, Arawwala, a resident of Pannipitiya, police said.
 
-මියගොස් එක් යතුරුපැදියක පිටුපස ගමන් ගත් පසුපැදිකරු බරපතල තුවාල ලබා දකුණු කොළඹ ශික්ෂණ රෝහලේ දැඩිසත්කාර ඒකකයට ඇතුලත් කර ඇති බවත් මහරගම පොලිසියේ රථවාහන අංශය පවසයි.
+The Colombo Police Station (Colombo-Police) unit has been admitted to the Inquiry Unit of the Colombo South.
+
+Troops of the motorcycle from the Matara main bus route to the Neelamma Maharagama, Maharagama and the two youths from the Maharagama route to Maharagama.The accident had occurred when the Piliyandala has collapsed at Piliyandala, Maharagama.
+
+The residents of the area were taken to the Kalubowila Suwaband to treat the injuries as the accident occurred.
+
+Motorcycle Drivers have been convened when the drivers were drunk at the hospital, he was killed and the other was admitted to the hospital, he was identified to be admitted to the hospital.
 
 ...
 
 [Data](articles/7ff722fc.json)
+
+[Extended Data](ext_articles/7ff722fc.ext.json)
 
 ---
 
@@ -2125,45 +2177,5 @@ The Welfare Benefits Board said the second phase of applications will be accepte
 [Data](articles/9245494f.json)
 
 [Extended Data](ext_articles/9245494f.ext.json)
-
----
-
-### President conducts observation tour of southern coastal areas, interacts with tourists
-
-*2024-02-17 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97357/president-conducts-observation-tour-of-southern-coastal-areas-interacts-with-tourists) · `en`
-
-Amid a rejuvenated focus on revitalizing Sri Lanka’s tourism industry, President Ranil Wickremesinghe embarked on an observation tour in the Tangalle and Galle areas today (17 Feb.), underscoring the government’s commitment to enhancing tourist facilities.
-
-During the tour, President Wickremesinghe visited several tourist hotels, engaging with owners to understand their challenges first hand.
-
-Swift action was taken as the President addressed the concerns raised by the business community, liaising with relevant officials over the phone to devise solutions and gather input on industry development strategies, the President’s Media Division (PMD) reported.
-
-The tourism sector in Sri Lanka faced a rapid downturn due to the COVID-19 pandemic and economic challenges. However, with the government’s new initiatives, there has been a significant surge in tourist arrivals.
-
-...
-
-[Data](articles/25ce840b.json)
-
-[Extended Data](ext_articles/25ce840b.ext.json)
-
----
-
-### Dimiti Jayaweera is the time to end traditionally politics
-
-*2024-02-17 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193520) · `si`
-
-The time has come to complete traditional politics, "the leader of the Motherland Top Entrepreneurs Dilith Jayaweera said.
-
-He was speaking at the Colombo District Convention in the Colombo District Convention.
-
-The Colombo district convention of the Motherland People's Party was held at the Sugathadasa Indoor Stadium this afternoon.
-
-Former Provincial Councipe, Deputy Chairman of the Sri Lanka Communist Party, Piyasiri Weerasinghe, Diplomatic Officer, Dilanthya Palgamuwa, International Motor Traffic Dilantha Malagon and Rampment Champion Shehan AmbepitiyaA large number of people attended.
-
-◼️
-
-[Data](articles/19af2636.json)
-
-[Extended Data](ext_articles/19af2636.ext.json)
 
 ---

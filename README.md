@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 16:32:44**
+As of **2024-02-18 16:47:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,151
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,809 (100.0%) of 7,810 articles have been extended.
+7,810 (100.0%) of 7,810 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,23 +52,25 @@ The trade unions representing a wide range of health sector professionals – in
 
 ---
 
-### සුරූපී හින්දි නිළිය නොසිතූ මොහොතක දිවියෙන් සමුගනී
+### Amazing Hindi actress retires at a time of unexpected
 
 *2024-02-18 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193544) · `si`
 
-ඉන්දීය සුපිරි සිනමා නිර්මාණයක් වූ 2016 වසරේ තිරගත වූ Dangal චිත්‍රපටයට සඳහා රංගනයෙන් එක්වූ හින්දි සිනමා නිළියක් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+A Hindi filmmaker has been identified as a review of the 2016 year of India, a Film.
 
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ එහි Babita Phogat ගේ කුඩා කළ චරිතයට රංගනයෙන් එක්වූ Suhani Bhatnagar.
+The deceased is Suhani Bhatnagar, who joined the smallest character in Babita Phagat.
 
-Suhani Bhatnagar හදිසියේ වැළඳුණු දුර්ලභ රෝගී තත්ත්වයක් හේතුවෙන් මෙලෙස අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව ඇත.
+Suhani Bhatnagar has died due to a sudden rare condition.
 
-මීට මාස දෙකකට පමණ පෙර ඇය Dermatomyositis නම් රෝගී තත්ත්වයේ ලක්ෂණ පෙන්නුම් කර ඇතිමුත් රෝගී තත්ත්වය නිශ්චිතව හඳුනාගෙන ඇත්තේ මරණයට දින 10කට පමණ පෙරදීය.
+About two months ago, she demonstrated the symptoms of dermaticositis, and she was identified 10 days before death.
 
-අනතුරුව ඇය AIIMS රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව මෙලෙස අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+She then admitted to the AIIIMS Hospital has died.
 
 ◼️
 
 [Data](articles/0ebfb627.json)
+
+[Extended Data](ext_articles/0ebfb627.ext.json)
 
 ---
 

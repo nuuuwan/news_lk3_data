@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 20:32:48**
+As of **2024-02-18 20:50:21**
 
 ## Newspaper Stats
 
-*Scraped **7,835** Articles*
+*Scraped **7,836** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 409
 dailyftlk | 415
 adalk | 667
 tamilmirrorlk | 955
-adaderanalk | 965
+adaderanalk | 966
 virakesarilk | 1,024
 adaderanasinhalalk | 1,141
 dailymirrorlk | 1,156
@@ -26,11 +26,31 @@ dailymirrorlk | 1,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,835 (100.0%) of 7,835 articles have been extended.
+7,836 (100.0%) of 7,836 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### Female drug peddler ‘Patta’ arrested with heroin, over Rs. 2m in cash
+
+*2024-02-18 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97375/female-drug-peddler-patta-arrested-with-heroin-over-rs-2m-in-cash-) · `en`
+
+A female accomplice of notorious underworld figure and drug trafficker ‘Kudu Salindu’ was arrested by the Walana Anti-Vice Unit on Sunday (18 Feb.).
+
+The arrestee, known by the alias ‘Patta’, has been identified as the sister-in-law of ‘Asitha’, who allegedly runs the operations of the drug racket of Salindu Malshika Gunaratne, also known as ‘Kudu Salindu’, in Dubai, police reported.
+
+Accordingly, she was arrested in Panadura while in possession of 10g of heroin and over Rs. 2 million in cash.
+
+Police further reported that ‘Patta’ currently has two other ongoing court cases for charges related to possession of heroin, while her sister and father, too, are currently in police custody for the same charges.
+
+◼️
+
+[Data](articles/e506cf23.json)
+
+[Extended Data](ext_articles/e506cf23.ext.json)
+
+---
 
 ### Earthquake of 5.1 magnitude jolts Afghanistan
 
@@ -2127,23 +2147,5 @@ In the first semi -finals, Mahamaya College and Net Champs will play in the seco
 [Data](articles/9512acb6.json)
 
 [Extended Data](ext_articles/9512acb6.ext.json)
-
----
-
-### Sri Lanka win by 4 runs against Afghanistan in nail-biting T20 opener
-
-*2024-02-17 23:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-win-by-4-runs-against-Afghanistan-in-nail-biting-T20-opener/108-277244) · `en`
-
-Dambulla, Feb 17 (Daily Mirror) - The first T20 match of the three-match series between Sri Lanka and Afghanistan ended in a nail-biting finish, with Sri Lanka winning the match by 4 runs in Dambulla today.
-
-Skipper Wanindu Hasaranga batted well as Sri Lanka scored 160/10.
-
-In the chase, Afghanistan started well but Ibrahim Zadran's 67 runs weren't enough as Matheesha Pathirana's 4 wickets for 24 runs sealed the win for Sri Lanka by 4 runs.
-
-◼️
-
-[Data](articles/733f9f18.json)
-
-[Extended Data](ext_articles/733f9f18.ext.json)
 
 ---

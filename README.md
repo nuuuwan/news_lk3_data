@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 16:02:25**
+As of **2024-02-18 16:17:20**
 
 ## Newspaper Stats
 
-*Scraped **7,805** Articles*
+*Scraped **7,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 401
 islandlk | 409
 dailyftlk | 415
-adalk | 661
+adalk | 664
 tamilmirrorlk | 952
-adaderanalk | 959
+adaderanalk | 960
 virakesarilk | 1,023
 adaderanasinhalalk | 1,132
 dailymirrorlk | 1,151
@@ -26,11 +26,47 @@ dailymirrorlk | 1,151
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,805 (100.0%) of 7,805 articles have been extended.
+7,805 (99.9%) of 7,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### Health sector trade unions to meet Health Minister tomorrow
+
+*2024-02-18 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97369/health-sector-trade-unions-to-meet-health-minister-tomorrow) · `en`
+
+The collective of health sector trade unions are scheduled to meet Health Minister Dr. Ramesh Pathirana on Monday (19 Feb.).
+
+According to the Health Trade Union Alliance, if talks regarding their disparities in allowances with the Minister fails, a decision will be taken tomorrow pertaining to their strike action, which was called off on Wednesday morning (14 Feb.).
+
+On 14 February, the collective of trade unions decided to call off their strike action after the Minister agreed for a discussion with them.
+
+The trade unions representing a wide range of health sector professionals – including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers – have engaged in strikes time and time again over the past few months urging the government to provide them with an allowance similar to that of the DAT (Disturbance, Availability and Transport) allowance given to doctors.
+
+...
+
+[Data](articles/b7ccddf6.json)
+
+---
+
+### විදුලි පංකාවෙන් විදුලි සැර වැදී තරුණයකු මරුට
+
+*2024-02-18 15:06:45* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-පංකාවෙන්-විදුලි-සැර-වැදී-තරුණයකු-මරුට/11-408151) · `si`
+
+මේ දිනවල පවතින අධික රස්නය නිසා නිවසේ අක්‍රීයව තිබූ විදුලි පංකාවක් අනාරක්ෂිත විදුලි සැපයුමක් හරහා අලුත්වැඩියා කරමින් සිටි පුද්ගලයකුට විදුලි සැර වැදී ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇති බව කොට්ටාව පොලිසිය පවසයි
+
+මෙසේ මියගොස් ඇත්තේ වස්කඩුව කුඩා වස්කඩුව සමගිපුර පදිංචි විජයතුංග මුදියන්සේලාගේ ප්‍රභාත් කවිෂ්ක විජයතුංග (22) හැවිරිදි විවාහකයෙකු බව පොලිසිය කියයි.
+
+ඒ අනුව (17)  දා සේවය නිමවා නිවසට පැමිණ රාත්‍රී නින්දට යාමේදී අධික රස්නය නිසා විදුලි පංකාව  ක්‍රියාත්මක කිරීමේදී එය අක්‍රිය වී තිබීම නිසා අනාරක්ෂිත විදුලි සැපයුමකින් විදුලිය ලබාගෙන එය කොටස් කර අලුත්වැඩියා කිරීමට ගොස් තිබේ.
+
+එම අවස්ථාවේදී දෙවරක් විදුලිසර වැදී ඇති අතර පළමුවර අනතුරක් නොවූ නිසා යළිත් වරක් විදුලි පංකාව අලුත්වැඩියා කරමින් සිටියදී මෙසේ විදුලිසර වැදී ඇති අතර පසුව එහි සිටි බිරිඳට මියගිය පුද්ගලයා පවසා ඇත්තේ ඉක්මනින් ටිප් ස්විචය අක්‍රීය කරන ලෙසයි.
+
+...
+
+[Data](articles/41085f11.json)
+
+---
 
 ### Vehicles seized during “ Yukthiya” raids released on court order
 
@@ -71,6 +107,24 @@ Accordingly, the second Twenty Twenty Twenty Twenty-Twenty-Twenty-Twenty-Twenty 
 [Data](articles/e7596af3.json)
 
 [Extended Data](ext_articles/e7596af3.ext.json)
+
+---
+
+### කාන්තා හිංසනය ගැන සෙවිමට බසයට නැග්ග උපාය දූතියටත් අතවර
+
+*2024-02-18 14:24:35* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-හිංසනය-ගැන-සෙවිමට-බසයට-නැග්ග-උපාය-දූතියටත්-අතවර/11-408148) · `si`
+
+ළමා සහ කාන්තා හිංසය පිලිබදව සෙවිමට බස් රථයට නැගි උපාය දුතිකාවකට ලිංගික අතවර කිරිමට තැත් කල පෞද්ගලික ආරක්ෂක අංශ නිලධාරියෙකු (17) දින සැකපිට අත්අඩංගුවට ගෙන නුවරඑලිය මහෙස්ත්‍රාත් ප්‍රබුද්ධිකා ලංකාදනි මහත්මිය වෙත ඉදිරිපත් කිරිමෙන් අනතුරුව සැකකරු මේ මස (22) දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරිමට නියෝග කළාය.
+
+මෙසේ රක්ෂිත බන්ධනාගාර ගත කරනු ලැබුවේ වැලමඩ ප්‍රදේශයේ පදිංචිව පෞද්ගලික ආරක්ෂක අංශයක සේවය කරන 45 හැවිරිදි පුද්ගලයෙකි.
+
+යුක්තියේ මෙහෙයුමට සමාගාමිව ළමා සහ කාන්තා හිංසය මැඩ පැවැත්විම වෙනුවෙන් නුවරඑලිය සිට වැලිමඩ දක්වා ධාවනය වු බස් රථයකට පොලිස් උපාය දුතියෙක් යොදවා සිවිල් ඇදුමින් සැරසුනු පොලිස් නිලධාරින්ද බස් රථයේ යොදවා තිබියදි සැකකරු උපාය දුතියට ලිංගික හිංසනයන් සිදු කර ඇති බවයි නුවරඑලිය පොලිසියේ මුලස්ථාන ප්‍රධාන පොලිස් පරික්ෂක ප්‍රේමලාල් හෙට්ටිආරච්චි මහතා කියා සිටියේ.
+
+මෙවැනි පුද්ගලයන් අත්අඩංගුවට ගැනිම සදහා නුවරඑලිය සිට ගමන් ආරම්භ කරන ලංගම සහ පෞද්ගලික බස් රථවල මෙහෙයුම් අඛණ්ඩව සිදු කරන බවයි මුලස්ථාන ප්‍රධාන පොලිස් පරික්ෂකවරයා කියා සිටියේ.
+
+◼️
+
+[Data](articles/10da8320.json)
 
 ---
 
@@ -343,6 +397,24 @@ The 2nd T20I will be played on Monday, February 19 while the 3rd T20I is schedul
 [Data](articles/b4d5d783.json)
 
 [Extended Data](ext_articles/b4d5d783.ext.json)
+
+---
+
+### රේගු පරීක්ෂක විභාගය හොරට ලියූ නිල අයදුම්කරුගේ ඥාති සොහොයුරා අල්ලයි
+
+*2024-02-18 12:13:55* · [`adalk`](https://www.ada.lk/breaking_news/රේගු-පරීක්ෂක-විභාගය-හොරට-ලියූ-නිල-අයදුම්කරුගේ-ඥාති-සොහොයුරා-අල්ලයි/11-408147) · `si`
+
+ශ්‍රී ලංකා රේගු දෙපාර්තමේන්තුවේ රේගු පරීක්ෂක තනතුර සඳහා පුද්ගලයන්  බඳවා ගැනීමට ඊයේ (17දා) අනුරාධපුර වලිසිංහ හරිස්චන්ද්‍ර  විද්‍යාලයේ පැවති විභාගයකදී, කූඨ ලේඛන සකස් කර විභාගයට පෙනී සිටි පුද්ගලයෙකු අනුරාධපුර විශේෂ අපරාධ විමර්ශන අංශය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ ප්‍රධාන පාර, ඉකිරිගොල්ලෑව, වහමල් ගොල්ලෑව ප්‍රදේශයේ පදිංචි 26 හැවිරිදි පුද්ගලයෙකි.
+
+ඊෆය් (17 දා) වලිසිංහ හරිචන්ද්‍ර විද්‍යාලයේ පැවති රේගු දෙපාර්තමේන්තුවේ 2වන ශ්‍රේණියේ රේගු පරීක්ෂක තනතුරට බඳවා ගැනීමේ විවෘත තරග විභාගය සඳහා පෙනී සිටීමට නියමිතව සිටි 24 හැවිදි පුද්ගලයෙකුගේ හැඳුනුම්පත ඉදිරිපත් කර, අදාල විභාග ප්‍රවේශ පත්‍රයේ  නිල අයදුම්කරුගේ අස්සන  කූඨ ලෙස යොදා මෙම සැකකරු පෙනී සිට තිබූ බව පොලිසිය කියයි.
+
+විභාග දෙපාර්තමේන්තුවට ලැබුණු දුරකථන පණිවිඩයකට අනුව, එම ශාලාවේ විභාග ශාලාධිපතිවරයා ලෙස කටයුතු කල සහකාර  අධ්‍යක්ෂ  ඩී.ඩබ්ලිව්. එම්. ජයපද්ම බණ්ඩාර මහතා විසින් මේ සම්බන්ධයෙන් කරුණු තහවුරු කර ගැනීමෙන් අනතුරුව සිදු කල පැමිණිල්ලකට අනුව සැකකරු අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/fa904f73.json)
 
 ---
 
@@ -2069,73 +2141,5 @@ The police had also found several secret documents in the house.
 [Data](articles/a5f28184.json)
 
 [Extended Data](ext_articles/a5f28184.ext.json)
-
----
-
-### ABOLISHING THE EXECUTIVE PRESIDENCY -IS TIME RUNNING OUT?
-
-*2024-02-17 20:20:00* · [`islandlk`](http://island.lk/abolishing-the-executive-presidency-is-time-running-out/) · `en`
-
-Earlier this week, the President’s Media Division issued a statement to the effect that the next presidential election will be held on schedule. What was the need for that statement? In terms of the Constitution, the President’s term of office ends not later than 18th November 2024. As far as I am aware, no member of Parliament has given any indication that he or she intends to introduce a Bill to amend the Constitution to extend the term of office of the President, as required by article 83 of the Constitution. Such a Bill, if passed with a two-third majority, will also need to be approved by the people at a referendum. In the absence of any such move, what was the need for the President’s Media Division to assert the obvious. Was it to stifle the movement for restoring the parliamentary executive that now appears to be gathering wide public support?
-
-...
-
-[Data](articles/8e2acc64.json)
-
-[Extended Data](ext_articles/8e2acc64.ext.json)
-
----
-
-### Decision to boycott the Kachchativu festival
-
-*2024-02-17 19:44:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சத்தீவு-திருவிழாவை-புறக்கணிக்க-முடிவு/175-333346) · `ta`
-
-Indian fishermen have decided to boycott the Kachchativu festival on the 23rd.
-
-More than 400 fishermen went to sea for fishing from Rameswaram fishing port on the 4th of last month.
-
-While they were fishing in the Kankesan Sea border, the Sri Lankan navy patrolled the area arrested 23 fishermen and confiscated 2 boats.
-
-Following this, the fishermen who were detained in Sri Lankan jails were produced before the Sri Lankan court yesterday. The Sri Lankan court released 20 of them and sentenced the owners of the two boys to 6 months in prison and one for the 2nd time after a 2 -year -old fishing charge.
-
-Sri Lankan court ruling caused great turmoil among Rameswaram fishermen. Subsequently, fishermen held an emergency consultation at the Rameswaram fishing port today (17). They have decided to boycott the Kachchativu festival on the 23rd.
-
-...
-
-[Data](articles/a684ba4b.json)
-
-[Extended Data](ext_articles/a684ba4b.ext.json)
-
----
-
-### Chief Prelates raise concerns with President on state assets privatisation
-
-*2024-02-17 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97354/chief-prelates-raise-concerns-with-president-on-state-assets-privatisation) · `en`
-
-The Chief Prelates of the three Buddhist Chapters have raised deep concerns about a potential risk of emerging social insecurity due to the privatisation of state assets.
-
-They communicated this in a letter addressed to President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/7b83ac7d.json)
-
-[Extended Data](ext_articles/7b83ac7d.ext.json)
-
----
-
-### Thirtricancy Mahanayake
-
-*2024-02-17 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193515) · `si`
-
-The Chief Prelate has written to President Ranil Wickremesinghe.
-
-They warned that the privatization of state resources has been a risk of creating a social inconstruction.
-
-◼️
-
-[Data](articles/9b2081ce.json)
-
-[Extended Data](ext_articles/9b2081ce.ext.json)
 
 ---

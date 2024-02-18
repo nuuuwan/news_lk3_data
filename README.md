@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 02:47:59**
+As of **2024-02-19 03:02:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,870 (100.0%) of 7,871 articles have been extended.
+7,871 (100.0%) of 7,871 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -265,6 +265,8 @@ The heroines or heroes in these novels are defeatists. Readers finish the books 
 ...
 
 [Data](articles/b1d63002.json)
+
+[Extended Data](ext_articles/b1d63002.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 17:52:48**
+As of **2024-02-18 18:07:26**
 
 ## Newspaper Stats
 
-*Scraped **7,818** Articles*
+*Scraped **7,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 401
 islandlk | 409
 dailyftlk | 415
-adalk | 664
+adalk | 665
 tamilmirrorlk | 953
 adaderanalk | 963
 virakesarilk | 1,023
@@ -26,7 +26,7 @@ dailymirrorlk | 1,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,818 (100.0%) of 7,818 articles have been extended.
+7,819 (100.0%) of 7,819 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -281,6 +281,28 @@ The magistrate rejected the CID’s request for permission to retain the vehicle
 [Data](articles/f057abb3.json)
 
 [Extended Data](ext_articles/f057abb3.ext.json)
+
+---
+
+### A beetted pure to the constable, unauthorized to a house
+
+*2024-02-18 14:44:17* · [`adalk`](https://www.ada.lk/breaking_news/නිවසකට-අනවසරයෙන්-ඇතුළු-වු-කොස්තාපල්ට-ගුටි-පුජාවක්/11-408150) · `si`
+
+The police constable was arrested by a police constable who was assaulted by the residents of the area to escape a constable woman's shouting with a constable woman's shouting with a constable woman's shouting.
+
+Police have also seized the uniforms of the two digits of the police officer in a house.
+
+The arrested has been arrested in the Colombo Central Intelligence Constable Division attached to the Fort Police.
+
+The residents who went to the area were arrested by the Maligawatta Police, who had been arrested and interrogated by a police officer who had been arrested and interrogated by the official office.The suspect said he was trying to hide and tried to hide.
+
+The suspect has also come to a hidden monk to hide me and save me to hide me, "the suspects had come to hide me to save me and save myself," after the police said.The saraging of the house was also removed to the house adjacent to it, police said.
+
+...
+
+[Data](articles/af1095d7.json)
+
+[Extended Data](ext_articles/af1095d7.ext.json)
 
 ---
 
@@ -2141,25 +2163,5 @@ But the President has suspended the President of the President in the country.
 [Data](articles/b4ee492d.json)
 
 [Extended Data](ext_articles/b4ee492d.ext.json)
-
----
-
-### Peace judges down
-
-*2024-02-17 20:59:53* · [`adalk`](https://www.ada.lk/breaking_news/සාම-විනිසුරු-සුදුසුකම්-පහල-දමයි/11-408139) · `si`
-
-The approval of three subjects to pass the GCE Advanced Level examination is specified in the Educational A / L examination.
-
-Dr. Wijedasa Rajapakse, Minister of Justice and Constitutional Reforms, Minister Dr. Wijedasa Rajapakse should be able to pass three A / L appointment as the educational qualification of the educational gazette issued on November 27.
-
-The Minister of Justice will be appointed as the Educational Assessment in the GCE Ordinary Level examination at the GCE Ordinary Level examination at the GCE Ordinary Level examination.
-
-Nevertheless, if a renowned religious leader or union chairman is eligible to be appointed as a peace judiciary, he is able to appoint it as a Justice of the Simath.
-
-◼️
-
-[Data](articles/74855c8b.json)
-
-[Extended Data](ext_articles/74855c8b.ext.json)
 
 ---

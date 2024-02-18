@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 00:32:47**
+As of **2024-02-19 00:47:31**
 
 ## Newspaper Stats
 
-*Scraped **7,860** Articles*
+*Scraped **7,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 415
 adalk | 670
 tamilmirrorlk | 955
 adaderanalk | 968
-virakesarilk | 1,031
+virakesarilk | 1,032
 adaderanasinhalalk | 1,145
 dailymirrorlk | 1,160
 
@@ -26,9 +26,27 @@ dailymirrorlk | 1,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,860 (100.0%) of 7,860 articles have been extended.
+7,860 (100.0%) of 7,861 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-19 (Monday)
+
+### அமெரிக்க துணைச்செயலாளர் ரிச்சர்ட் வர்மா இந்தியா, மாலைதீவு, இலங்கைக்கு விஜயம்
+
+*2024-02-19 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176707) · `ta`
+
+இந்தோ-பசுபிக் முக்கிய கூட்டாளிகளுடன் அமெரிக்காவின் ஒத்துழைப்பை வலுப்படுத்துவதற்காக இன்று 18ஆம் திகதி முதல் 23 ஆம் திகதி வரையில் இந்தியா, மாலத்தீவு மற்றும் இலங்கைக்கு அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ மற்றும் வளங்களுக்கான துணை செயலாளர் ரிச்சர்ட் ஆர். வர்மா விஜயமொன்றை மேற்கொள்ளவுள்ளார்.
+
+அமெரிக்காவின் இந்தோ-பசுபிக் மூலோபாயத்தின் இரண்டு ஆண்டுகள் நிறைவை முன்னிட்டு அவரது பயணம் இடம்பெறுவதோடு திறந்த, பாதுகாப்பான மற்றும் வளமான பிராந்தியத்திற்கான அமெரிக்காவின் நீடித்த உறுதிப்பாட்டை மீண்டும் உறுதிப்படுத்தும் வகையில் அது அமையவுள்ளதாக அமெரிக்க இராஜாங்கத் திணைக்களம் தெரிவித்துள்ளது.
+
+ரிச்சர்ட் வர்மா, இந்தியாவின் புதுடில்லிக்கு முதலில் விஜயம் செய்து அங்குப் பொருளாதார மேம்பாடு, பாதுகாப்பு மற்றும் தொழில்நுட்பம் உட்பட நெருக்கடிகளிலிருந்து அமெரிக்க-இந்திய உலகளாவிய மூலோபாய கூட்டாண்மையை முன்னேற்றுவதற்காக மூத்த அரச அதிகாரிகள், வணிகத் தலைவர்கள் மற்றும் தொழில்முனைவோரைச் சந்திக்கவுள்ளார்.
+
+...
+
+[Data](articles/22954229.json)
+
+---
 
 ### 2024-02-18 (Sunday)
 
@@ -2135,27 +2153,5 @@ About 1,500 police officers were deployed to control the protest and more than 2
 [Data](articles/5c2980c5.json)
 
 [Extended Data](ext_articles/5c2980c5.ext.json)
-
----
-
-### Today's weather forecast
-
-*2024-02-18 08:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-முன்னறிவிப்பு/175-333366) · `ta`
-
-The Department of Meteorology has said that rain or thunderstorms will be expected after four o'clock in the afternoon.
-
-Heavy winds are expected to blow at a speed of about 30 - 40 km / h in the Eastern slopes of the Central Highlands, the North, Eastern, North, North Western and Uva provinces, as well as in Hambantota and Kandy districts.
-
-The public is asked to act with vigilance in cases where strong winds and lightning are occurring.
-
-Winds from the northeast at 25 - 35 kilometers per hour in the sea regions.
-
-From Galle to Pottuvil, Hambantota, and more frequent winds can be blowing at speeds of 50 - 55 km per hour in the sea regions along the coast of Kankesanthurai via Colombo to Puttalam.. In these cases, these sea regions are turbulent.
-
-◼️
-
-[Data](articles/ff5f6384.json)
-
-[Extended Data](ext_articles/ff5f6384.ext.json)
 
 ---

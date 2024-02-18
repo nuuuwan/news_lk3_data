@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 14:32:44**
+As of **2024-02-18 14:49:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,150
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,797 (99.9%) of 7,801 articles have been extended.
+7,801 (100.0%) of 7,801 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,19 +52,21 @@ He has said that he and the powder is good friends.
 
 ---
 
-### சேலையை கட்டாமல் வந்த ஆசிரியை விரட்டியடிப்பு
+### Sapphire
 
 *2024-02-18 13:37:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சேலையை-கட்டாமல்-வந்த-ஆசிரியை-விரட்டியடிப்பு/76-333382) · `ta`
 
-சேலையை கட்டாமல் வந்த ஆசிரியை ஒருவர், விரட்டியடிக்கப்பட்டுள்ளார். இந்த சம்பவம் தொடர்பில் அந்த ஆசிரியை. கடுகண்ணாவை பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார்.
+A teacher who did not build a saree, has been chased away. The teacher in connection with the incident. Kadugannan has lodged a complaint at the police station.
 
-கிராகம ஆசிரியர் கலாசாலையின் மோடியுல மத்திய நிலையத்துக்கு ஞாயிற்றுக்கிழமை(18) வந்திருந்த ஆசிரியையே இவ்வாறு விரட்டியடிக்கப்பட்டுள்ளார்.
+The teacher was chased away on Sunday (18) at the Modi Center of the Grakama Teacher College.
 
-ஆசிரியர்களின் சேவை உயர்வுகளுக்கு பரிந்துரைக்கப்பட்ட திறன் வரம்புகளை முழுமைப்படுத்துவதற்கே அந்த ஆசிரியை வந்துள்ளார். அப்போது அங்கிருந்த மத்திய நிலையத்தின் முகாமையாளர். அந்த ஆசிரியையை சேலை   கட்டாமல் வந்திருந்தமையால் அங்கிருந்து விட்டிவிட்டார். இது தொடர்பிலேயே அந்த ஆசிரியை முறைப்பாடு செய்துள்ளார்.
+The teacher has come to complete the recommended skill limits for teachers' service hikes. The manager of the central station then. The teacher had left the saree because he left the. The teacher complained about this.
 
 ◼️
 
 [Data](articles/bba3708c.json)
+
+[Extended Data](ext_articles/bba3708c.ext.json)
 
 ---
 
@@ -108,19 +110,21 @@ The report emphasises the importance of urgently fixing these gaps to combat cor
 
 ---
 
-### ஓர் உயிரை பறித்த மரக்கிளை
+### Pilot
 
 *2024-02-18 13:02:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/ஓர்-உயிரை-பறித்த-மரக்கிளை/72-333374) · `ta`
 
-முல்லைத்தீவு புதுக்குடியிருப்பு தேவிபுரம் பகுதியில் இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்துள்ளார். இந்த விபத்து சனிக்கிழமை  (17) இரவு 7 மணியளவில் இடம்பெற்றுள்ளது.
+One person was killed in an accident in the Devipuram area of Pudukkudiyiruppu in Mullaitivu. The accident occurred at 7 pm on Saturday (17).
 
-புதுக்குடியிருப்பு  பனை தென்னை கூட்டுறவு சங்கத்தின் உறுப்பினர் தனது தொழிலை நிறைவு செய்துவிட்டு வீடு  திரும்பும் வழியில் தேவிபுரம் பகுதியில்  குறித்த நபர் பயணித்த உந்துருளி வீதியில் குறுக்கே விழுந்து கிடந்த மரக்கிளையில்  மோதி விபத்துக்குள்ளானதில்   உயிரிழந்துள்ளார்.  தேவிபுரம் ஆ பகுதியினை சேர்ந்த 55 அகவையுடைய விநாயகம் என்று அழைக்கப்படும் சி.சிவபாஸ்கரன் என்பரே உயிரிழந்தவராவார்.
+A member of the Pudukkudiyiruppu Palm Coconut Co -operative Society has been killed when a man has been hit by a tree crashed into a tree that was traveling on a roadside road where a man was traveling in the Devipuram area on his way home.The deceased is CC Sivabaskaran, also known as the 55 -year -old Vinayagam of Devipuram.
 
-உயிரிழந்தவரின் உடலம் புதுக்குடியிருப்பு ஆதார மருத்துவமனையில் வைக்கப்பட்டுள்ளது. விபத்து தொடர்பில் புதுக்குடியிருப்பு பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுவருகின்றனர்.
+The body of the deceased is placed at Pudukkudiyiruppu Source Hospital. Pudukudiyiruppu police are conducting further investigations into the accident.
 
 ◼️
 
 [Data](articles/158dd6cb.json)
+
+[Extended Data](ext_articles/158dd6cb.ext.json)
 
 ---
 
@@ -168,23 +172,31 @@ Accordingly, a discussion is scheduled to hold a discussion at around 11am tomor
 
 ---
 
-### ஐக்கிய மக்கள் சக்தி இரண்டு மர்ம நபர்களின் கட்டுப்பாட்டின் கீழ் - சம்பிக்க ரணவக்க
+### Under the control of two mysterious persons in the United People's Power - Sambika Ranawaka
 
 *2024-02-18 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/176666) · `ta`
 
-ஐக்கிய மக்கள் சக்தி இரண்டு மர்மநபர்களின் கட்டுப்பாட்டின் கீழ் உள்ளது என நாடாளுமன்ற உறுப்பினர் சம்பிக்க ரணவக்க குற்றம்சாட்டியுள்ளார்.
+Parliamentarian Sampika Ranawaka has accused the United People's Power of being under the control of two mysterious men.
 
-ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித்பிரேமதாச கட்சியின் ஆதரவாளர்கள் கட்சியிலிருந்து விலகிச்செல்லும் நிலையை உருவாக்குகின்றார் கட்சியை நாளாந்தம் பலவீனப்படுத்துகின்றார் என அவர் சண்டேடைம்சிற்கு தெரிவித்துள்ளார்.
+United People's Power Leader Sajit Preamedasa Party supporters are creating a status quo.
 
-இதன் காரணமாகவே ஜேவிபியால் அதிகளவு மக்கள் ஆதரவை பெறமுடிந்துள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+This is why the JVP has received much support, he said.
 
-எதிர்கட்சி தலைவர்களிற்கு அப்பால் வேறு இருவரின் கட்டுப்பாட்டின் கீழ் கட்சி உள்ளது என்பதை நான் தெரிவிக்கவேண்டியுள்ளது என தெரிவித்துள்ள சம்பிக்க ரணவக்க அவர்கள் யார் என்பதை நேரம்வரும்போது வெளியிடுவேன் எனவும் தெரிவித்துள்ளார்.
+"I have to report that the party is under the control of two other leaders beyond the opposition leaders," he said.
 
-ஐக்கிய மக்கள் சக்தி என்பது தற்போது குடும்ப வர்த்தகமாக மாறியுள்ளது கட்சிக்குள் கடும் அதிருப்தி நிலவுகின்றது ஜனநாயகம் என்ற எதுவும் கட்சிக்குள் இல்லை எனவும் சம்பிக்க ரணவக்க தெரிவித்துள்ளார்.
+Ranawaka said that the United People's Power is now a family trade.
 
-...
+Meanwhile, Ranawaka has strongly criticized Sampika Ranawaka at a political meeting held in Bandaragama over the president's speech on the President's speech.
+
+The fact that I contested under the United People's Power said that I am currently acting as an independent Member of Parliament.
+
+Lakshman Kiriella said that when I questioned the president's speech when I was united by the United States, I was denied the chance to speak because I did not join them.
+
+◼️
 
 [Data](articles/f7366fbc.json)
+
+[Extended Data](ext_articles/f7366fbc.ext.json)
 
 ---
 
@@ -203,6 +215,8 @@ Dr. Amir Abdollahian will be accompanied by senior officials from the office of 
 ◼️
 
 [Data](articles/2d1fcc2f.json)
+
+[Extended Data](ext_articles/2d1fcc2f.ext.json)
 
 ---
 

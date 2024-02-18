@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 19:49:56**
+As of **2024-02-18 20:02:28**
 
 ## Newspaper Stats
 
-*Scraped **7,833** Articles*
+*Scraped **7,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 401
 islandlk | 409
 dailyftlk | 415
 adalk | 667
-tamilmirrorlk | 953
+tamilmirrorlk | 955
 adaderanalk | 965
 virakesarilk | 1,024
 adaderanasinhalalk | 1,141
@@ -26,7 +26,7 @@ dailymirrorlk | 1,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,833 (100.0%) of 7,833 articles have been extended.
+7,835 (100.0%) of 7,835 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -115,6 +115,46 @@ We have to protect important banks as we are now somewhat recovered from the eco
 [Data](articles/c4dcae03.json)
 
 [Extended Data](ext_articles/c4dcae03.ext.json)
+
+---
+
+### Our leaders should not welcome political prostitutes
+
+*2024-02-18 18:22:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-விபச்சாரிகளை-நமது-தலைவர்கள்-வரவேற்கக்-கூடாது/175-333400) · `ta`
+
+Former SJB parliamentarian Saminda Wijesiri has said that even United People's Power (SJB) leader Sajith Premadasa should not be misled by those who join the party for their benefit.
+
+“There are some politicians who become free after the country's economic downturn and joins new political parties. Our leaders should not welcome these political prostitutes. If they welcome them, they will destroy the party.
+
+There is nothing wrong with the people to take up the streets against false political alliances, ”he told reporters.
+
+He said the people should not be deceived by relying on false political alliances.
+
+◼️
+
+[Data](articles/63e2bd07.json)
+
+[Extended Data](ext_articles/63e2bd07.ext.json)
+
+---
+
+### 793 people have been identified by CCTV
+
+*2024-02-18 18:15:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிசிடிவி-மூலம்-793-பேர்-இனங்காணப்பட்டுள்ளனர்/175-333399) · `ta`
+
+793 motorists have been identified as violating traffic rules through the CCTV organization in Colombo.
+
+Police spokesman DIG Nihal Talduwa said that about 300 video evidence of the crimes seized by the CCTVs of the Transport Division has been sent to about 300 police stations and the fines for the crimes will be given to the appropriate drivers.
+
+On January 22, the police have launched a special program to identify motorists who violate traffic rules through the CCTV organization in Colombo.
+
+Although the project was launched on January 22, a campaign for motorists was launched from February 1.
+
+◼️
+
+[Data](articles/f4a6eba6.json)
+
+[Extended Data](ext_articles/f4a6eba6.ext.json)
 
 ---
 
@@ -2105,55 +2145,5 @@ In the chase, Afghanistan started well but Ibrahim Zadran's 67 runs weren't enou
 [Data](articles/733f9f18.json)
 
 [Extended Data](ext_articles/733f9f18.ext.json)
-
----
-
-### I still believe you Matheehi - Malinga
-
-*2024-02-17 23:15:13* · [`adalk`](https://www.ada.lk/sports/මම-තවමත්-ඔබව-විශ්වාස-කරනවා-මතීෂ---මාලිංග/9-408142) · `si`
-
-Mathika Pathirana, who became a pilot in the first Twenty20 match between the Afghan group and Sri Lanka in the first Twenty20 match between Sri Lanka, was elected to 24 wickets for 24 runs. In particular, he was the waters of the 19th wing of the 19th.
-
-However, at the World Cup, the VIP could not attend the performance.
-
-At the same time, Malinga said to their social media accounts, and I was with you. "Trust you '. He was placed on October 11, 2023.
-
-Malinga's faith was justified five months later, a victory for Sri Lanka with unique talent.
-
-After the match today, Malinga expressed his social media accounts.
-
-◼️
-
-[Data](articles/df81a8ab.json)
-
-[Extended Data](ext_articles/df81a8ab.ext.json)
-
----
-
-### Sri Lanka won by 4 runs in the first T20 with Afghanistan
-
-*2024-02-17 23:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176645) · `ta`
-
-Sri Lanka won the hectic victory by 4 runs in the first bilateral T20 series in the first bilateral T20 series, which was held at the Rangiri Dambulla International Stadium on Saturday (17).
-
-Afghanistan lost by 9 wickets in 20 overs and lost 156 runs.
-
-Sri Lanka's captain Wanindu Hazaranga's semi -century, the 4 wickets pile of Madheesha Pathirana, and the last over of Binura Fernando confirmed Sri Lanka's victory.
-
-Sri Lanka, who was first invited to bat in the upting match, lost all the wickets in 19 overs and scored 160 runs.
-
-Sri Lanka's leading players in international ODI matches against Afghanistan but their jump in the match.
-
-Sri Lanka lost 4 leading players in the 8th over of the match and scored only 55 runs.
-
-Sri Lanka's ODI record Man Bethum Nissank (6), Kusal Mendis (10), Tanjaya de Silva (24) and Sarit Asalanka (3) lost the game with fewer runs.
-
-In this case, Hazaranga, who had boldly raised himself in the field of batting, went on to take the action to illustrate the others.
-
-...
-
-[Data](articles/81a22e9a.json)
-
-[Extended Data](ext_articles/81a22e9a.ext.json)
 
 ---

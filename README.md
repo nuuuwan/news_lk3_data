@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 09:03:16**
+As of **2024-02-18 09:17:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,141
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,749 (100.0%) of 7,752 articles have been extended.
+7,752 (100.0%) of 7,752 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The owner of the said restaurant who had kept the motorcycle hidden and another 
 
 [Data](articles/c62a9ff5.json)
 
+[Extended Data](ext_articles/c62a9ff5.ext.json)
+
 ---
 
 ### Showers expected at a few places in two provinces
@@ -65,6 +67,8 @@ The public is kindly requested to take adequate precautions to minimize damages 
 ◼️
 
 [Data](articles/7019ebc3.json)
+
+[Extended Data](ext_articles/7019ebc3.ext.json)
 
 ---
 
@@ -153,6 +157,8 @@ He told the Daily Mirror that following his request, the Inspector General of Po
 ...
 
 [Data](articles/d517d3de.json)
+
+[Extended Data](ext_articles/d517d3de.ext.json)
 
 ---
 

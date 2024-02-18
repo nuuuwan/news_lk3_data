@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 15:32:51**
+As of **2024-02-18 15:51:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,151
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,804 (100.0%) of 7,805 articles have been extended.
+7,805 (100.0%) of 7,805 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The magistrate rejected the CID’s request for permission to retain the vehicle
 ...
 
 [Data](articles/f057abb3.json)
+
+[Extended Data](ext_articles/f057abb3.ext.json)
 
 ---
 
@@ -1052,7 +1054,7 @@ The deceased has been identified as 62 year old Gininiyagala - a resident of Nam
 
 ECONOMYNEXT – Sri Lanka’s excessive protectionist taxes with import duties and para-tariffs on capital goods are a barrier to foreign direct investments in the island rather than income tax, a former head of the island’s investment promotion office said.
 
-Sri Lanka has been trying to phase out tax holidays and concessions given for Board of Investment approved firms, especially under a Strategic Development Project Act where discretionary concessions are believed to be fostering corruption.
+Sri Lanka has been trying to phase out tax holidays and concessions given for Board of Investment approved firms, especially under the Strategic Development Project Act where discretionary concessions are believed to be fostering corruption.
 
 But the excessive import protection and para tariffs on capital are not found in other countries with open or export-oriented economies. East Asian nations in particular are subject to stringent free trade requirements under the ASEAN.
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 03:32:59**
+As of **2024-02-19 03:50:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,871 (99.7%) of 7,893 articles have been extended.
+7,883 (99.9%) of 7,893 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ During a press conference held in Colombo over the weekend, the SJB MP maintaine
 
 [Data](articles/8ecb3d14.json)
 
+[Extended Data](ext_articles/8ecb3d14.ext.json)
+
 ---
 
 ### Hakeem moots formation of National Govt. following polls
@@ -67,6 +69,8 @@ The MP said he was confident the opposition would secure a majority of the votes
 ◼️
 
 [Data](articles/8af504d0.json)
+
+[Extended Data](ext_articles/8af504d0.ext.json)
 
 ---
 
@@ -88,25 +92,31 @@ Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday accused party Vice Presi
 
 [Data](articles/2aa46e4d.json)
 
+[Extended Data](ext_articles/2aa46e4d.ext.json)
+
 ---
 
-### டயலொக் கனிஷ்ட வலைபந்தாட்ட சம்பியனானது நெட் சாம்ப்ஸ்
+### Dialog junior webball champion
 
 *2024-02-19 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176719) · `ta`
 
-இலங்கை வலைபந்தாட்ட சம்மேளனத்தினால் கொழும்பு, டி.எஸ்.எஸ். சேனாநாயக்க கல்லூரி மைதானத்தில் நடத்தப்பட்ட 2023க்கான டயலொக் கனிஷ்ட தேசிய வலைபந்தாட்டப் போட்டியில் குருநாகல் மாவட்ட வலைபந்தாட்ட சங்கம் சார்பாக போட்டியிட்ட  நெட் சாம்ப்ஸ் (Net Champs) அணி சம்பியன் பட்டத்தை சுவீகரித்தது.
+Colombo, DSS by the Sri Lanka Webball Federation. Net Champs (NET Champs) won the Champion title on behalf of the Kurunegala District Network Association for the Dialog Junior National Network for 2023 at the Senanayake College Ground.
 
-இந்த சுற்றுப் போட்டி முழுவதும் மிகத் திறமையாக விளையாடிய செட் சாம்ப்ஸ் அணி ஒரு போட்டியிலும் தோல்வி அடையாமல் சம்பியன் பட்டத்தை சூடியது.
+The Set Champs team, which played the most efficiently played throughout the tournament, scored the champion title without losing a match.
 
-இறுதிப் போட்டியில் ஹில்வூட் அணியை 25 - 17 என்ற கோல்கள் வித்தியாசத்தில் வெற்றிகொண்டு டயலொக் கிண்ணத்தை நெட் சாம்ப்ஸ் சுவீகரித்தது.
+In the final, Hilwood won the Dialog Bowl by a margin of 25 - 17 in the final.
 
-குருநாகல், கண்டி மாவட்ட அணிகள் ஆதிக்கம் செலுத்திய இப் போட்டியின் இறுதி ஆட்டத்தில் குருநாகல் நெட் சாம்ப்ஸ் அணியும் இலங்கை பாடசாலைகள் வலைபந்தாட்ட சங்கம் சார்பாக கண்டி ஹில்வூட் கழகமும் ஞாயிற்றுக்கிழமை (18) மாலை மோதின.
+The Kurunegala Net Champs, the Kurunegala Net Champs, clashed on Sunday evening (18) on behalf of the Sri Lanka Schools Webball Association, Kurunegala and Kandy district teams.
 
-சீ.ஆர். மைதானத்தில் கண்டி கழகத்தை வீழ்த்தி லீக் சம்பியன் பட்டத்தை சீ.ஆர். கழகம் சூடிய சொற்ப நேரத்தில் டி.எஸ்.எஸ். மைதானத்தில் மற்றொரு கண்டி அணி வலைபந்தாட்டத்தில் குருநாகல் நெட் சாம்ப்ஸ் அணியிடம் தோல்வி அடைந்தது.
+Crets. CHR has beaten the Kandy Corporation at the stadium. DSS. Another Kandy team on the stadium lost to the Kurunegala Net Champs team on the webball.
+
+Net Champs and Hillwood team clashed hard during the first 10 -minute game. In the end, the Net Champs team reached 6 - 5 by goals.
 
 ...
 
 [Data](articles/d5b1c1b3.json)
+
+[Extended Data](ext_articles/d5b1c1b3.ext.json)
 
 ---
 
@@ -124,6 +134,8 @@ The unannounced visit by Israeli Minister of Transport and Road Safety Miriam Re
 
 [Data](articles/562af7c4.json)
 
+[Extended Data](ext_articles/562af7c4.ext.json)
+
 ---
 
 ### AmCham Sri Lanka unlocks 2024
@@ -137,6 +149,8 @@ The half-day symposium comprised four cohesive sessions aimed at equipping membe
 ...
 
 [Data](articles/fd367158.json)
+
+[Extended Data](ext_articles/fd367158.ext.json)
 
 ---
 
@@ -153,6 +167,8 @@ The PeoplesHR Cloud business, constituting 76% recurring revenue, remains the pr
 ...
 
 [Data](articles/18bcdf33.json)
+
+[Extended Data](ext_articles/18bcdf33.ext.json)
 
 ---
 
@@ -172,6 +188,8 @@ Characterised by its affordability, low operating costs, high load capacity, and
 
 [Data](articles/f4d94c55.json)
 
+[Extended Data](ext_articles/f4d94c55.ext.json)
+
 ---
 
 ### IDB kicks off new initiative to boost exports tomorrow
@@ -190,6 +208,8 @@ Attendees will have the opportunity to gain insights into initiating a business,
 
 [Data](articles/5bb40027.json)
 
+[Extended Data](ext_articles/5bb40027.ext.json)
+
 ---
 
 ### Vijitha to leave DIMO
@@ -206,23 +226,31 @@ He is a Postgraduate certificate holder from the University of Southern Queensla
 
 [Data](articles/bad7a5a1.json)
 
+[Extended Data](ext_articles/bad7a5a1.ext.json)
+
 ---
 
-### கண்டி கழகத்தின் ஆதிக்கத்திற்கு முடிவுகட்டிய சீ.ஆர். 26 வருடங்களின் பின்னர் சம்பியனானது
+### CR. After 26 years of champion
 
 *2024-02-19 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176718) · `ta`
 
-ஸ்ரீலங்கா றக்பி (இலங்கை றக்பி சங்கம்) நடத்திய 2023-24க்கான முதல் தர கழகங்களுக்கு இடையிலான நிப்பொன் பெயின்ட் றக்பி லீக் போட்டியில் நடப்பு சம்பியன் கண்டி கழகத்தை வீழ்த்தி 26 வருடங்களின் பின்னர் முதல் தடவையாக சி.ஆர். அன்ட் எவ்.சி சம்பியனானது.
+CR for the first time after 26 years, beating the current Champion Kandy League in the Nippon Paint Rugby League League in the Sri Lanka Rugby (Sri Lanka Rugby Association) 2023-24. And AWC is the champion.
 
-முதல் சுற்றில் கண்டி கழகத்தை அதன் சொந்த மண்ணில் 38 - 26 என்ற புள்ளிகள் அடிப்படையில் வெற்றிகொண்ட சீ. ஆர். அண்ட் எவ்.சி., தனது சொந்த மைதானமான லோங்டன் ப்ளேஸ் மைதானத்தில் ஞாயிற்றுக்கிழமை (18) நடைபெற்ற தீர்மானம் மிக்க கடைசி லீக் போட்டியிலும் 33 - 25 என்ற புள்ளிகள் வித்தியாசத்தில் வெற்றிபெற்று தோலிவி அடையாத அணியாக சம்பியனானது.
+In the first round, the Kandy Corporation won on its own soil based on 38 - 26. R. The last league match was held on Sunday (18) at its own stadium, Longton Place, its own stadium.
 
-லோங்டன் ப்ளேஸ் மைதானத்தில் நிரம்பி வழிந்த இரசிகர்கள் மத்தியில் ஆரம்பம் முதல் கடைசி வரை பரபரப்பை ஏற்படுத்திய இப் போட்டியின் இடைவேளையின்போது 13 - 6 என்ற புள்ளிகள் அடிப்படையில் கண்டி கழகம் முன்னிலையில் இருந்தது.
+The Kandy Corporation was in the forefront of 13 - 6 during the break, which caused a stir from the beginning to the end of the Longton Place Ground.
 
-போட்டி ஆரம்பித்த 10ஆவது நிமிடத்தில் சத்துர செனவிரட்ன இலகுவான பெனல்டி ஒன்றைப் போட்டு சீ.ஆர். கழகத்தை முன்னிலையில் இட்டார். ஆனால் அடுத்த 4ஆவது நிமிடத்தில் கண்டி சார்பாக பெனல்டி மூலம் புள்ளிகள் நிலையை தரிந்த ரத்வத்த சமப்படுத்தினார்.
+In the 10th minute of the competition started, Sathura Seneviratne put on a lighter penalty. The presence of the club. But in the next 4th minute, Ratwatta equated the points through the penalty on behalf of Kandy.
+
+In the 30th minute, Ratwatta, who received the top points for the Lasitha Attanagoda trunk in the 21st minute, put a penalty in the Kandy Corporation 10 - 3.
+
+However, before the break, the Sathura Senevirat went to his 2nd penalty as 6 - 13. Made.
 
 ...
 
 [Data](articles/c4f53b66.json)
+
+[Extended Data](ext_articles/c4f53b66.ext.json)
 
 ---
 
@@ -241,6 +269,8 @@ His journey began at Ananda College, Colombo, where he received his primary and 
 ...
 
 [Data](articles/144aab65.json)
+
+[Extended Data](ext_articles/144aab65.ext.json)
 
 ---
 

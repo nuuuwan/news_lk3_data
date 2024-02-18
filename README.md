@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 09:32:51**
+As of **2024-02-18 09:51:17**
 
 ## Newspaper Stats
 
-*Scraped **7,752** Articles*
+*Scraped **7,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ newsfirstlk | 363
 economynextcom | 400
 islandlk | 409
 dailyftlk | 415
-adalk | 656
+adalk | 657
 tamilmirrorlk | 940
 adaderanalk | 952
 virakesarilk | 1,018
-adaderanasinhalalk | 1,120
-dailymirrorlk | 1,141
+adaderanasinhalalk | 1,123
+dailymirrorlk | 1,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,752 (100.0%) of 7,752 articles have been extended.
+7,757 (100.0%) of 7,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### Teachers’ trade union to launch action from Kandy on Tuesday
+
+*2024-02-18 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teachers-trade-union-to-launch-action-from-Kandy-on-Tuesday/108-277246) · `en`
+
+A trade union action is set to be launched from Kandy on Tuesday (20) by the Ceylon Teachers' Union (CTU), demanding the government to fulfill its promise of granting the remaining salary increment.
+
+General Secretary of the CTU, Joseph Stalin, addressing the media said that while the government had granted one-third of the installment, they had not specified a timeline for providing the balance.
+
+"We received only a fraction of the promised increment after enduring 120 days of aragalaya. The soaring cost of living has made it increasingly difficult to make ends meet. With no indication of further progress, we are left with no choice but to resume our protest," Stalin emphasized.
+
+The demonstration, slated to commence from Kandy, is expected to witness the active participation of teachers, principals and teacher trainers alike.
+
+◼️
+
+[Data](articles/7be329c7.json)
+
+[Extended Data](ext_articles/7be329c7.ext.json)
+
+---
+
+### Palestinian proud protest march
+
+*2024-02-18 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193533) · `si`
+
+A Palestinian pro-protest march in Central London has organized a march.
+
+Foreign media reports that the Palestine Cooperation Movement has organized protest marcurration and thousands of people have been in one.
+
+The protesters say they need a pronounced ceasefire to war war.
+
+It is reported that this is the first protest to the Israeli embassy in Western London after the protest in October.
+
+About 1,500 police officers were deployed to control the protest and more than 20 persons were arrested during the protest.
+
+◼️
+
+[Data](articles/5c2980c5.json)
+
+[Extended Data](ext_articles/5c2980c5.ext.json)
+
+---
+
+### Youth killed in drowning
+
+*2024-02-18 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193532) · `si`
+
+A young man drowned in the courtyard in the Waradandiya area in Kotadeniyawa.
+
+The incident was reported yesterday in the afternoon yesterday.
+
+The victim is a 21 year old resident of Pannala - Pannala.
+
+The deceased has come to spray a well in a cousin and finish the work and have been in danger when I was bathing.
+
+Meanwhile, Dambagalla police domain is a person who has visited the fishing in the fish.
+
+The deceased has been identified as 62 year old Gininiyagala - a resident of Namaloya.
+
+◼️
+
+[Data](articles/be49ef7f.json)
+
+[Extended Data](ext_articles/be49ef7f.ext.json)
+
+---
 
 ### Two suspects arrested over shooting at Meegoda economic centre
 
@@ -51,6 +117,26 @@ The owner of the said restaurant who had kept the motorcycle hidden and another 
 [Data](articles/c62a9ff5.json)
 
 [Extended Data](ext_articles/c62a9ff5.ext.json)
+
+---
+
+### A suspicious death
+
+*2024-02-18 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193531) · `si`
+
+The body of a person who was killed in a well was found in a well near the vehicle service site near the padiyathalawa police area.
+
+The deceased has received a complaint yesterday (17) regarding the death of the deceased.
+
+The body of the man was found in a well, as he had a serepe near the vehicle service location near the complaint.
+
+The deceased is a 25 year old resident of Harasgala - Mahaoya area.
+
+◼️
+
+[Data](articles/bf7b203e.json)
+
+[Extended Data](ext_articles/bf7b203e.ext.json)
 
 ---
 
@@ -367,6 +453,28 @@ In the chase, Afghanistan started well but Ibrahim Zadran's 67 runs weren't enou
 [Data](articles/733f9f18.json)
 
 [Extended Data](ext_articles/733f9f18.ext.json)
+
+---
+
+### I still believe you Matheehi - Malinga
+
+*2024-02-17 23:15:13* · [`adalk`](https://www.ada.lk/sports/මම-තවමත්-ඔබව-විශ්වාස-කරනවා-මතීෂ---මාලිංග/9-408142) · `si`
+
+Mathika Pathirana, who became a pilot in the first Twenty20 match between the Afghan group and Sri Lanka in the first Twenty20 match between Sri Lanka, was elected to 24 wickets for 24 runs. In particular, he was the waters of the 19th wing of the 19th.
+
+However, at the World Cup, the VIP could not attend the performance.
+
+At the same time, Malinga said to their social media accounts, and I was with you. "Trust you '. He was placed on October 11, 2023.
+
+Malinga's faith was justified five months later, a victory for Sri Lanka with unique talent.
+
+After the match today, Malinga expressed his social media accounts.
+
+◼️
+
+[Data](articles/df81a8ab.json)
+
+[Extended Data](ext_articles/df81a8ab.ext.json)
 
 ---
 
@@ -1965,101 +2073,5 @@ The railway engine and the colour signal system had been extensively damaged in 
 [Data](articles/77e6e6fb.json)
 
 [Extended Data](ext_articles/77e6e6fb.ext.json)
-
----
-
-### The shock waiting for the well
-
-*2024-02-17 11:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிணற்றை-எட்டிப்பார்த்தவருக்கு-காத்திருந்த-அதிர்ச்சி/175-333342) · `ta`
-
-The body of an infant has been found from the well in the garden of a house belonging to the Ritigama Divisional Secretariat Division.
-
-The owner of the house, who checked the well before the lack of water in the house, realized that there was no toy when a toy was floating in the well and tried to remove it.
-
-Later, the owner of the house lodged a complaint with the police and visited the scene and the body of the child was sent to the Kurunegala Teaching Hospital for autopsy.. Remble
-
-◼️
-
-[Data](articles/99954ccc.json)
-
-[Extended Data](ext_articles/99954ccc.ext.json)
-
----
-
-### US accusations of death, Alexi Navalni
-
-*2024-02-17 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193501) · `si`
-
-US President Mahinda Rajapaksa has stated that the leaders of several Western countries have accused the Russian government regarding the death of the Russian opposition leader Alexi Navalni.
-
-The United Nations says that a full and transparent investigation should be conducted regarding the emergency death of Alexi Navalni.
-
-United Nations Secretary-General Anthonio Gutriel has said that he was deeply shocked with the story of Navalney's death.
-
-Alex Navalni, who was severely criticized by the Russian President Vladmini Putin, died yesterday (16).
-
-Meanwhile, foreign security reports have also taken into custody over 100 people who have protesting over the incident.
-
-◼️
-
-[Data](articles/9363d02e.json)
-
-[Extended Data](ext_articles/9363d02e.ext.json)
-
----
-
-### Former Minister Gamini Jayawickrama Perera passed away
-
-*2024-02-17 11:33:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-காமினி-ஜயவிக்ரம-பெரேரா-காலமானர்/175-333341) · `ta`
-
-Former minister Gamini Jayawickrama Perera passed away at the age of 83.
-
-Born on January 29, 1941, Gamini Jayawickrama Perera was one of the former UNP councilors. Remble
-
-◼️
-
-[Data](articles/19381855.json)
-
-[Extended Data](ext_articles/19381855.ext.json)
-
----
-
-### Former Minister Gamini Jayawickrama Perera has passed away
-
-*2024-02-17 11:33:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-காமினி-ஜயவிக்ரம-பெரேரா-காலமானார்/175-333341) · `ta`
-
-Former Minister Gamini Jayawickrama Perera passed away at the age of 83.
-
-Born on January 29, 1941, Gamini Jayawickrama Perera was one of the former UNP councilors. Remble
-
-◼️
-
-[Data](articles/3f6ee188.json)
-
-[Extended Data](ext_articles/3f6ee188.ext.json)
-
----
-
-### Yall. Minister Jeevan Thondaman at Prison
-
-*2024-02-17 11:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-சிறைச்சாலையில்-அமைச்சர்-ஜீவன்-தொண்டமான்/71-333340) · `ta`
-
-Minister Jeevan Thondaman has also met 43 Tamil Nadu fishermen at Jaffna Prison.
-
-Jeevan Thondaman, General Secretary of the Ceylon Workers Congress and Minister of Water Resources and Estate Infrastructure Development, said that we have requested the Government of India and President Ranil Wickremesinghe to find a solution to the fishermen issue soon.
-
-The Minister visited the 43 Tamil Nadu fishermen in the Jaffna Prison and inquired about them and heard about their problems.
-
-“I met 43 Tamil Nadu fishermen in Jaffna Prison. I told you why they were arrested. They also accepted it.
-
-Two of the 43 fishermen are involved in the abduction incident. The other 41 fishermen will be sure of the help of the Sri Lankan government or our assistance.
-
-I hope they will be released within two or three weeks. Fishermen said Sri Lankan police are doing them well.
-
-...
-
-[Data](articles/3d6253e5.json)
-
-[Extended Data](ext_articles/3d6253e5.ext.json)
 
 ---

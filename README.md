@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-18 20:50:21**
+As of **2024-02-18 21:02:30**
 
 ## Newspaper Stats
 
-*Scraped **7,836** Articles*
+*Scraped **7,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 economynextcom | 401
 islandlk | 409
 dailyftlk | 415
-adalk | 667
+adalk | 669
 tamilmirrorlk | 955
 adaderanalk | 966
-virakesarilk | 1,024
-adaderanasinhalalk | 1,141
+virakesarilk | 1,027
+adaderanasinhalalk | 1,142
 dailymirrorlk | 1,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,836 (100.0%) of 7,836 articles have been extended.
+7,836 (99.9%) of 7,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-18 (Sunday)
+
+### கடந்த மூன்று வருடங்களுக்கு மேலாக நிறுத்தப்பட்டிருந்த நாட்டின் அபிவிருத்தியை ஜனாதிபதி மீண்டும் ஆரம்பித்து வைத்துள்ளார் - அமைச்சர் பிரசன்ன ரணதுங்க
+
+*2024-02-18 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176700) · `ta`
+
+கோவிட் மற்றும் பொருளாதார நெருக்கடி காரணமாக மூன்று வருடங்களாக தடைப்பட்டிருந்த நாட்டின் அபிவிருத்தியை தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க மீண்டும் ஆரம்பித்துள்ளதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+அபிவிருத்தி வேலைத்திட்டங்களை முன்னெடுப்பதற்கு அரச இயந்திரத்தின் அதிகபட்ச ஆதரவை எதிர்பார்ப்பதாக அவர் வலியுறுத்தியுள்ளார்.
+
+மாகாண, மாவட்ட  மற்றும்  பிரதேச செயலகங்களுக்கு ஏற்ற அபிவிருத்தித் திட்டங்களை இனங்காணுவது மாவட்ட ஒருங்கிணைப்புக் குழு  மற்றும் பிரதேச ஒருங்கிணைப்புக் குழுக்களின் பொறுப்பாகும் எனத் தெரிவித்த அமைச்சர், அந்த அபிவிருத்திச் செயற்பாடுகளை இனங்கண்டு பொதுமக்களின் கருத்துக்கள் மற்றும் ஆலோசனைகள் ஊடாக மேற்கொள்ளப்பட வேண்டும் என்றும் தெரிவித்தார்.
+
+மாத்தளை மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் மலைப் பத்தாண்டு அபிவிருத்தி வேலைத்திட்டம் தொடர்பில் அதிகாரிகளுக்கு அறிவிக்கும் நிகழ்வில் வெள்ளிக்கிழமை (16) கலந்து கொண்டு அமைச்சர் பிரசன்ன ரணதுங்க  தெரிவித்தார். இது மாத்தளை மாவட்ட செயலகத்தில் நடைபெற்றது.
+
+...
+
+[Data](articles/a0f0ee59.json)
+
+---
+
+### මීගොඩ කොල්ලයට කොටුවූ ව්‍යාපාරිකයෝ ගැන තොරතුරු එළියට
+
+*2024-02-18 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193553) · `si`
+
+මීගොඩ ආර්ථික මධ්‍යස්ථානයේ සිදුවූ කොල්ලය සම්බන්ධයෙන් මේ වනවිට පුද්ගලයින් 5දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ඉන් තිදෙනෙකුම ව්‍යාපාරිකයින් බව පොලීසිය පවසයි.
+
+අදාළ කොල්ලයේ ඔත්තු බැලීමට ඔහු හවුල් වූ බවට පොලිසිය අනාවරණ කරගැනීම හේතුවෙන් තිස්සමහාරාම ප්‍රදේශයේ ව්‍යාපාරිකයෙකු අත්අඩංගුවට ගෙන තිබුණි.
+
+ඔහු තිස්සමහාරාම ප්‍රදේශයේ මිරිස් කුඩු ව්‍යාපාරයක් සහ කායවර්ධන මධ්‍යස්ථානයක් පවත්වාගෙන යන බවට පොලිසිය පවසයි.
+
+එසේම සිද්ධිය සම්බන්ධයෙන් ඉඹුල්ගම සහ කඩවත ප්‍රදේශවල පදිංචි ව්‍යාපාරිකයින් දෙදෙනෙකුද පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+මේ අතර පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ මෙවැන්නක්.
+
+◼️
+
+[Data](articles/508a9e48.json)
+
+---
+
+### சிவனொளிபாத மலை யாத்திரைக்கு பயணித்த வேனும் பேருந்தும் நேருக்கு நேர் மோதி விபத்து : 10  பேர் காயம்
+
+*2024-02-18 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176699) · `ta`
+
+சிவனொளிபாத மலை யாத்திரைக்குப் பயணித்த வேனும் பேருந்தும் நேருக்கு நேர் மோதி விபத்தொன்று இடம்பெற்றுள்ளது.
+
+கம்பஹாவிலிருந்து யாத்திரிகர்கள் குழுவை ஏற்றிச் சென்ற வேனும் மாத்தறையிலிருந்து யாத்திரிகர்கள் குழுவை ஏற்றிச் சென்ற பேருந்தும் இவ்விபத்தில் சிக்கியுள்ளன.
+
+குறித்த விபத்து இன்று 18 ஆம் திகதி  பிற்பகல் ஹட்டன் - கொழும்பு பிரதான வீதியில் கினிகத்தேனை - மில்லகஹமுல்ல பிரதேசத்தில் இடம்பெற்றுள்ளது.
+
+விபத்தில் படுகாயமடைந்த இருவர் மேலதிக சிகிச்சைக்காக கினிகத்தேனை வைத்தியசாலையிலிருந்து நாவலப்பிட்டி வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
+
+வேன் முன்னால் சென்ற லொறியை முந்திச் செல்ல முற்பட்ட போது இந்த விபத்து நேர்ந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+விபத்தில் வேனும் பேருந்தும் பலத்த சேதமடைந்துள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை கினிகத்தேனை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/eab20ccc.json)
+
+---
 
 ### Female drug peddler ‘Patta’ arrested with heroin, over Rs. 2m in cash
 
@@ -49,6 +109,18 @@ Police further reported that ‘Patta’ currently has two other ongoing court c
 [Data](articles/e506cf23.json)
 
 [Extended Data](ext_articles/e506cf23.ext.json)
+
+---
+
+### “அருணாசலம்” இணக்க அரசியலில் தோல்வி அகண்ட முதலாவது தமிழ்த்தலைவர்
+
+*2024-02-18 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176696) · `ta`
+
+1931ஆம் ஆண்டு தேர்தலின் பின்னர் மந்திரி சபை அமைக்கப்பட்ட போது தமிழ், முஸ்லீம் தரப்பிலிருந்து இருவர் தெரிவு செய்யப்ட்டனர். இந்தியவாம்சாவழியினரான பெரி சுந்தரம் தொழில் அமைச்சராகவும் மாக்கான் மாக்கார் போக்குவரத்து அமைச்சராகவும் தெரிவு செய்யப்பட்டார். ஆனால் 1936ஆம் ஆண்டு மந்திரி சபை அமைக்கப்பட்ட போது அது தனிச்சிங்கள மந்திரி சபையாகவே இருந்தது. ஜீ.ஜீ.பொன்னம்பலத்தின் ஐம்பதுக்கு ஐம்பது கோரிக்கை இதன் பின்னரே எழுச்சியடைந்தது. உண்மையில் நிர்வாகக்குழு அதன் தலைவரான மந்திரியை தெரிவு செய்தாலும் அதனை தேசாதிபதி ஏற்றுக் கொண்டால் மட்டுமே அவர் மந்திரியாக பதவி வகிக்கலாம். இதில் மறுப்பானை அதிகாரம் தேசாதிபதிக்கு இருந்தது இங்கும் தேசாபதி மௌனமாகவே இருந்தார்.
+
+...
+
+[Data](articles/20eadff7.json)
 
 ---
 
@@ -284,6 +356,26 @@ The agricultural school student has been admitted to the Teldeniya hospital for 
 
 ---
 
+### යුක්තියට මාස දෙකක් පිරීම නිමිත්තෙන් විශේෂ මෙහෙයුමක්
+
+*2024-02-18 17:36:18* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තියට-මාස-දෙකක්-පිරීම-නිමිත්තෙන්-විශේෂ-මෙහෙයුමක්/11-408154) · `si`
+
+යුක්තිය මෙහෙයුම ආරම්භ කර මාස දෙකක් පිරීම නිමිත්තෙන්  බස්නාහිර පළාතේ සියලු පොලිස් වසම් ආවරණය වන පරිදි විශේෂ සෝදිසි , මෙහෙයුමේදී පුද්ගලයින් 1,061 දෙනෙකු අත්අඩංගුවට ගත් බව පොලිස් මූලස්ථානය සඳහන් කරයි.
+
+එම මෙහෙයුමේදී රථ වාහන  11 ක් සහ අපරාධ  වලට අවශ්‍ය කරන සැකකරුවන් 05 දෙනෙකුද අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරුවන් සමග හෙරොයින් මත්කුඩු ග්‍රෑම් 322 ක් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 111 ක් ගංජා ග්‍රෑම් 160 ක් ඈෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 13 ක් නීති විරෝධී මත්පැන් මිලි ලීටර් 21750 ක් තීරු බදු රහිත ආනයනය කරන ලද දුම්වැටි 855 ක් පොලිස් භාරයට ගෙන ඇත.
+
+තවද කඩු හයක් , තහනම් පිහි දෙකක් ,  කිනිසි එකක් හා මන්නාපිහි එකක් පොලිස් භාරයට ගෙන ඇත.
+
+2023.12.17 දිනෙන් ආරම්භ කර මේවනවිට දිවයින පුරා ක්‍රියාත්මක වන යුක්ති මෙහෙයුමට සමගාමීව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් පරිදි  ඊයේ (18) දින අළුයම බස්නාහිර පළාතේ සියලුම පොලිස් වසම් ආවරණය වන පරිදි විශේෂ සෝදිසි මෙහෙයුමක් සිදුකරන ලදී.
+
+...
+
+[Data](articles/ef71cc07.json)
+
+---
+
 ### A group of Sri Pada pilgrims injured in Ginigathena accident
 
 *2024-02-18 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193547) · `si`
@@ -305,6 +397,24 @@ The van and the bus has been severely damaged, and the Ginigathena Police are co
 [Data](articles/05bc7e19.json)
 
 [Extended Data](ext_articles/05bc7e19.ext.json)
+
+---
+
+### විස්සයි20 තරගාලවලියේ ප්‍ර වේශපත්‍ර සියල්ලම අවසන්
+
+*2024-02-18 17:24:33* · [`adalk`](https://www.ada.lk/sports/විස්සයි20-තරගාලවලියේ-ප්‍ර-වේශපත්‍ර-සියල්ලම-අවසන්/9-408153) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන විස්සයි විස්ස ක්‍රිකට් තරගාවලියේ ඉදිරි තරග දෙකෙහි ප්‍රවේශපත්‍ර සියල්ල අලෙවි වී අවසන් බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පවසයි.
+
+ප්‍රවේශපත්‍ර අවසන් වීම හේතුවෙන් දඹුල්ල සහ කොළඹ පිහිටුවා තිබූ ප්‍රවේශපත්‍ර අලෙවි කුටි වසා දැමීමට තීරණය කර තිබේ.
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර දෙවන විස්සයි විස්ස ක්‍රිකට් තරගය හෙට (19) සහ තුන්වන විස්සයි විස්ස තරගය එළඹෙන 21 වනදා දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වීමට නියමිතය.
+
+පළමු විස්සයි20 තරගයෙන් ලකුණු 4ක තියුණු ජයක් වාර්තා කිරිමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+◼️
+
+[Data](articles/ea462f7d.json)
 
 ---
 
@@ -2031,121 +2141,5 @@ Accordingly, the Chairman of the National Elections Commission, RMAL, said that 
 [Data](articles/a74a98e4.json)
 
 [Extended Data](ext_articles/a74a98e4.ext.json)
-
----
-
-### Sri Lankan fishermen imprisoned in Myanmar
-
-*2024-02-18 03:52:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரில்-இலங்கை-மீனவர்களுக்கு-சிறைத்தண்டனை/175-333362) · `ta`
-
-Myanmar court has sentenced two Sri Lankan fishermen arrested in Myanmar
-
-Fishermen have been sentenced to 5 years in prison. Sri Lankan Ambassador to Myanmar Janaka Bandara says 13 Sri Lankan fishermen have been sentenced to 3 years in prison.
-
-However, the Ambassador said that the fishermen are expected to be released under a public amnesty. He also noted that fishermen are well.
-
-15 Sri Lankan fishermen arrested with 2 fishing boats on charges of fishing in violation of Myanmar. (A)
-
-◼️
-
-[Data](articles/64e8a6fd.json)
-
-[Extended Data](ext_articles/64e8a6fd.ext.json)
-
----
-
-### President visits Tangalle - Galle areas
-
-*2024-02-18 03:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-காலி-பகுதிகளுக்கு-ஜனாதிபதி-விஜயம்/175-333361) · `ta`
-
-President Ranil Wickremesinghe visited many tourist attractions from Thangalla to Galle yesterday to investigate the improving facilities for nearby tourism.
-
-The President, who had immediately telephoned the authorities on the issues pointed out by the Tourism Department, immediately addressed the proposals and asked for the idea of improving the tourism industry.
-
-Traders pointed out that the President had reached a new evolution through the new program after the President advised the tourist business community on the government's new program.
-
-The President visited the Tourist Hotels and the Weligama - Training Training College, located in Seenimodara, Dikwella, Nilwella, Hirigete, Weligama and Habarathuwa areas.. (A)
-
-◼️
-
-[Data](articles/8b50b788.json)
-
-[Extended Data](ext_articles/8b50b788.ext.json)
-
----
-
-### Memories of Interacting with Upali Wijewardene as a Journalist.
-
-*2024-02-18 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83632) · `en`
-
-Today (Feb 17) is the birthday of Sri Lanka’s popular business magnate Philip Upali Wijewardene. If Upali Wijewardene  were among the living now, he would have celebrated his 86th birthday this year.  Alas, this was not to be as the Lear Jet he was travelling in  disappeared on 13 February 1983  just 4 days before his 45th birthday .
-
-It was my privilege to be associated with Upali Wijewardene slightly and briefly during the years 1978 to 1983. As a journalist on the Tamil Daily “Virakesari” I covered the Greater Colombo Economic Commission (GCEC) or “free trade Zone” from 1978 to 1981. Upali was the first Director -General of the GCEC.
-
-Later in 1981 I began working as a staff reporter on the English daily “The Island” published by Upali newspapers Ltd of which he was the proprietor. I was at “The Island” in 1983 when Upali went missing 41 years ago .The Island of Tuesday, February 15 broke the sad news with a banner headline “Plane carrying Upali Wijewardene feared lost.”
-
-...
-
-[Data](articles/665b4fb4.json)
-
-[Extended Data](ext_articles/665b4fb4.ext.json)
-
----
-
-### Distinguished Emeritus Professor and Eminent Author and Poet Yasmine Gooneratne passes  away on Thursday February 15th 2024 at the age of  88.
-
-*2024-02-18 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83641) · `en`
-
-Distinguished Emeritus Professor and Eminent Author and Poet Yasmine Gooneratne passed away on Thursday February 15th 2024.She was 88.
-
-After schooling at Bishops College , Colombo Yasmine went on to graduate from the University of Ceylon at Peradeniya. Thereafter she received a PhD in English Literature from Cambridge University,UK.
-
-Yasmine Gooneratne relocated to  Australia in 1972. In 1981, she received the first higher doctoral degree of Doctor of Letters at Macquarie University. Yasmine  was the Founder and Director of the Centre for Post-Colonial Literature and Language Studies at Macquarie University in New South Wales..
-
-...
-
-[Data](articles/834b571d.json)
-
-[Extended Data](ext_articles/834b571d.ext.json)
-
----
-
-### ‘Now is the time to end traditional politics’ – Dilith Jayaweera
-
-*2024-02-18 00:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97359/now-is-the-time-to-end-traditional-politics-dilith-jayaweera) · `en`
-
-Leader of the Mawbima Janatha Party (MJP), entrepreneur Dilith Jayaweera says the time has come to end traditional politics in the country.
-
-Speaking at the party’s district conference in Colombo, held at the Sugathadasa Indoor Stadium on Saturday (17 Feb.), Mr. Jayaweera said he intends to bring the change the country needs.
-
-“I am not someone who expected to get into politics, but throughout my university life, and afterwards, I supported various political parties and figures hoping for one thing, and that is the hope that they will, some day, make the country that we love, a better country. But, we were continuously, let down, so as a result, ultimately we decided that we ourselves would come and make that change. That is what we are here for,” he stated.
-
-...
-
-[Data](articles/fc3f6ce6.json)
-
-[Extended Data](ext_articles/fc3f6ce6.ext.json)
-
----
-
-### 2024-02-17 (Saturday)
-
-### Kandy and Kurunegala teams in semi -finals
-
-*2024-02-17 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176646) · `ta`
-
-DS by the Sri Lanka Webball Federation. The Kurunegala teams have qualified to play in the semi -finals of the Dialog Junior National Network for 2023 at the Senanayake College Ground.
-
-The film was taken from the Sri Lanka Webball Federation Chairman Victoria Lakshmi (3) from Harsha Samaranayake, Assistant Chairman of the Dialog Blessed Group and Media Division's Assistant Group's Code and Media Division. In the film, Muhammad Kasali (Dialog Acida Digital Marketing Officer, Sri Lanka Webball Federation Treasurer Padmini Horanage and Competition Organization Member Samppa Gunawardena
-
-Mahamaiah Girls 'College, Hilwood College, Net Champs from Kurunegala on behalf of the Sri Lanka Padasal Webball Association from Kandy have qualified for the Maliyadeva Girls' School from Kurunegala.
-
-In the first semi -finals, Mahamaya College and Net Champs will play in the second half of the Maliyadeva Women's School and Hilwood.. The two matches will start at 9.30 am on Sunday (18).
-
-...
-
-[Data](articles/9512acb6.json)
-
-[Extended Data](ext_articles/9512acb6.ext.json)
 
 ---

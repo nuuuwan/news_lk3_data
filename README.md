@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 06:54:16**
+As of **2024-02-19 07:16:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,897 (99.9%) of 7,907 articles have been extended.
+7,905 (100.0%) of 7,907 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -62,6 +62,8 @@ Commenting on the performance, Nihal Jayawardene, Chairman of Hatton National Ba
 
 [Data](articles/0629f245.json)
 
+[Extended Data](ext_articles/0629f245.ext.json)
+
 ---
 
 ### Central Bank strengthens its measures against money laundering and terrorist financing
@@ -76,6 +78,8 @@ J M S N Jayasinghe, Commissioner General of Excise and Mrs. E H Mohotty, then Di
 
 [Data](articles/a294cdbc.json)
 
+[Extended Data](ext_articles/a294cdbc.ext.json)
+
 ---
 
 ### SL’s economic growth projections likely to suffer from adverse developments on global front
@@ -87,6 +91,8 @@ Risks to real economic growth projections are skewed to the downside both in the
 ...
 
 [Data](articles/e11981f3.json)
+
+[Extended Data](ext_articles/e11981f3.ext.json)
 
 ---
 
@@ -103,6 +109,8 @@ SL’s economic growth projections likely to suffer from adverse developments on
 ...
 
 [Data](articles/3f314352.json)
+
+[Extended Data](ext_articles/3f314352.ext.json)
 
 ---
 
@@ -122,6 +130,8 @@ This strategic collaboration aligns with HNB FINANCE PLC’s commitment to a sus
 
 [Data](articles/a708d903.json)
 
+[Extended Data](ext_articles/a708d903.ext.json)
+
 ---
 
 ### Bitumix continues its ‘Sisu Senehasa’ scholarships programme
@@ -138,6 +148,8 @@ Huawei unveils expansion of its talent development programme in Rome
 
 [Data](articles/6123a7b7.json)
 
+[Extended Data](ext_articles/6123a7b7.ext.json)
+
 ---
 
 ### Huawei unveils expansion of its talent development programme in Rome
@@ -149,6 +161,8 @@ A week-long “Seeds for the future European Grand Finale,” bringing together 
 ...
 
 [Data](articles/083a8cd7.json)
+
+[Extended Data](ext_articles/083a8cd7.ext.json)
 
 ---
 

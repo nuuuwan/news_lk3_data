@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 09:17:22**
+As of **2024-02-19 09:33:08**
 
 ## Newspaper Stats
 
@@ -26,21 +26,23 @@ dailymirrorlk | 1,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,920 (99.9%) of 7,927 articles have been extended.
+7,927 (100.0%) of 7,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### සැමියාගේ පහරදීමෙන් බිරිඳ මරුට
+### Wife dies after husband's attack
 
 *2024-02-19 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193565) · `si`
 
-වැලිමඩ ඩයරබාවත්ත, උඩකොටස ප්‍රදේශයේ නිවසක තිබී කාන්තාවකගේ මළසිරුරක් හමුව තිබේ.
+Welimada Diarabawatta has found a woman from a woman in a house area in the Uddas area.
 
 ◼️
 
 [Data](articles/32cbe591.json)
+
+[Extended Data](ext_articles/32cbe591.ext.json)
 
 ---
 
@@ -156,23 +158,25 @@ Criminal police dollar bread and distribution of prizes to the government hospit
 
 ---
 
-### සෞඛ්‍ය වර්ජනය ගැන අවසන් තීරණය
+### Final decision on health strike
 
 *2024-02-19 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193564) · `si`
 
-දීමනා ගැටලුවක් මුල්කර ගනිමින් වැඩවර්ජනයේ නිරත වු සෞඛ්‍ය වෘත්තීය සමිති අද (19) සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා සමග සාකච්ඡාවක් පැවැත්වීමට නියමිතව තිබේ.
+Health Trade Unions are scheduled to hold a discussion with Health Minister Dr. Ramesh Pathirana today (19).
 
-අද පෙරවරු 10.00ට අදාළ සාකච්ඡාව පැවැත්වෙන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පැවසුවේය.
+The Health Trade Union Alliance said that the discussion will be held at 10.00 am today.
 
-වෛද්‍යවරුන් සඳහා පමණක් දීමනා ඉහළ නැංවීමට විරෝධය පළ කරමින් සෞඛ්‍ය සේවාවේ විවිධ වෘත්තීන්ට අයත් වෘත්තීය සමිති 72ක් විසින් පසුගිය දා වැඩවර්ජනයක නිරත වු අතර සෞඛ්‍ය අමාත්‍යවරයා සමඟ සාකච්ඡාවක් ලබාදෙන බවට වන ලිඛිත පොරොන්දුව මත ඔවුන් වැඩවර්ජනය තාවකාලිකව අත්හිටවනු ලැබීය.
+The health career has recently commissioned the workforce by 72 trade unions of the health service, protesting to increase the allowances only.
 
-සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා සමඟ පැවැත්වෙන සාකච්ඡාවේ දී සිය ගැටලු සඳහා විසඳුමක් නොලැබුණහොත් යළි වැඩවර්ජනයකට යොමුවන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ සම කැඳවුම්කරු රවී කුමුදේශ් මහතා පැවසුවේය.
+The Co-convener of the UPFA, Ravi Kudmith, said that if he was not resolved for his problems with Health Minister Dr. Ramesh Pathirana, he said.
 
-අමාත්‍යවරයා සමඟ සාකච්ඡාවක් ලබාදෙන බවට වන ලිඛිත පොරොන්දුව මත ඔවුන් වැඩවර්ජනය තාවකාලිකව අත්හිටවනු ලැබීය.
+The strike was temporarily suspended on a written promise that the Minister was given a meeting with the Minister.
 
 ◼️
 
 [Data](articles/69e24815.json)
+
+[Extended Data](ext_articles/69e24815.ext.json)
 
 ---
 
@@ -196,49 +200,55 @@ Vettaikaraniruppu Police have registered a case against the three accused under 
 
 ---
 
-### කෘෂිකර්ම සමුළුව අද
+### Agriculture Conference Today
 
 *2024-02-19 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193563) · `si`
 
-එක්සත් ජාතින්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ 37 වන ආසියා පැසිෆික් කලාපීය සමුළුව අද (19) කොළඹ දී ආරම්භ වේ.
+The 37th Asia Pacific Regional Conference of the United Nations will commence in Colombo today (19).
 
-සමුළුව සඳහා ආසියා පැසිෆික් කලාපයේ රටවල් 42ක නියෝජිතයින් සහභාගි වීමට නියමිතය.
+Representatives from 42 countries in the Asia Pacific region are due to attend the conference.
 
-එහිදී රටවල්  35ක කෘෂිකර්ම අමාත්‍යවරු, නියෝජ්‍ය අමාත්‍යවරු මෙන්ම නිලධාරින් ද 300කට අධික පිරිසක් සහභාගි වන බව කෘෂිකර්ම අමාත්‍යංශය සඳහන් කළේය.
+The Ministry of Agriculture said that more than 300 officers, deputy ministers, as well as the officers and officers participating in 35 countries.
 
-එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ අධ්‍යක්ෂ ජනරාල් කියු ඩොන්ග්යු ඇතුළු ඉහළ පෙළේ නිලධාරින් පිරිසක් ද සමුළුව සඳහා එක්වනු ඇති බව සඳහන්ය.
+The Director General of the United Nations Food and Agriculture Organization, a group of top officials including Kearu Donghygu will also join the conference.
 
 ◼️
 
 [Data](articles/3cc29ca4.json)
 
+[Extended Data](ext_articles/3cc29ca4.ext.json)
+
 ---
 
-### තවත් ඝාතන දෙකක්
+### Two more murders
 
 *2024-02-19 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193562) · `si`
 
-ප්‍රදේශ දෙකක සිදුවු පහරදීම් හේතුවෙන් පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය පවසයි.
+Two people have been killed in two area assault, police said.
 
-ඊයේ (18) රාත්‍රියේ කුඹුක්ගැටේ වෙල්ගාල, නෙල්ලිය ප්‍ර‍දේශයේ දී පි‍යෙකු විසින් සිදුකළ පහරදීමකදී ඔහුගේ පුතා ඝාතනයට ලක්ව ඇති බව පොලීසිය පවසයි.
+The son of Kumbukget was killed in an attack by a father in Nalliya night last night, police said.
 
-මෙලෙස මිය ගොස් ඇත්තේ 30 හැවිරිදි එම ප්‍රදේශයේම පදිංචිව සිටි පුද්ගලයෙකි.
+The victim was a 30 year old resident of the same area.
 
-මෙම පුද්ගලයා මත්ද්‍රව්‍ය සඳහා ඇබ්බැහි වූ පුද්ගලයෙකු වන අතර මත්ද්‍රව්‍ය මිල දී ගැනීමට නිරන්තරයෙන් සිය පියාගෙන් මුදල් ඉල්ලා ඔහුට පිඩා සිදුකර ඇති බව පොලිස් පරීක්ෂණවලදී හෙළි වී ඇත.
+Police investigations have revealed that the man was an addict for drugs and had to buy money from his father to buy drugs.
 
-ඊයේ දිනයේ දී ද මෙම පුද්ගලයා පියාගෙන් මුදල් ඉල්ලා කරදර සිදුකර ඇති අතර එහිදී පියා විසින් නිවසේ තිබූ මිටියක් රැ‍ගෙන ඔහුගේ හිසට පහර දී තිබේ.
+The victim had also been troubled from his father yesterday and had attacked his head with a bundle of his head.
 
-සැකකාර 60 හැවිරිදි පියා කුඹුක්ගැටේ පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+Kumbukheta Police have arrested 60 year old father.
 
-මේ අතර පුත්තලම හොරයිසන් පාක් ප්‍රදේශයේ නිවසක පැවති උපන්දින සාදයක් අතරතුර තියුණු ආයුධයකින් පහර දී රෝහල් ගත කර සිටි පුද්ගලයෙකු මියගොස් තිබේ.
+Meanwhile, a person who was hospitalized with a sharp weapon while a sharp weapon was killed during a sharp object.
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ 32 හැවිරිදි පුත්තලම ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙකි.
+The victim was a 32 year old resident of Puttalam.
 
-පසුගිය 17 වනදා රාත්‍රියේ බීමත්ව ඇති වූ ආරවුලක් හේතුවෙන් මෙම පහරදීම සිදු වී ඇති බවට අනාවරණය වී තිබේ.
+It has been revealed that the attack had taken place due to a dispute drunk on the 17th.
 
-...
+Two persons have been arrested in Horizon Park and Sinhalese Park and Sinhaganagwilluwa.
+
+◼️
 
 [Data](articles/d4061459.json)
+
+[Extended Data](ext_articles/d4061459.ext.json)
 
 ---
 
@@ -260,37 +270,41 @@ The public is kindly requested to take adequate precautions to minimize damages 
 
 ---
 
-### ඇෆ්ගනිස්තාන -  ශ්‍රී ලංකා දෙවන විස්සයි විස්ස තරගය අද
+### Afghanistan - Second Twenty Twenty20 match today
 
 *2024-02-19 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193561) · `si`
 
-සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර දෙවන විස්සයි විස්ස තරගය අද (19) පැවැත්වේ.
+The second T20 match between the Afghan group and Sri Lanka team will be held today (19).
 
-තරගය රංගිරි දඹුල්ල ක්‍රීඩාංගණයේ දී පස්වරු 7ට ආරම්භ වීමට නියමිතය.
+The competition will commence at 7 pm at Rangiri Dambulla Stadium.
 
-දෙරට අතර පැවති පළමු 20යි 20 තරගය ශ්‍රී ලංකා කණ්ඩායම ලකුණු 4ක තියුණු ජයක් ලබාගත්තේය.
+The first 20 runs between the two countries, the Sri Lankan team wins 4 runs.
 
-මේ අතර  ශ්‍රී ලංකා කණ්ඩායම සහ ඇෆ්ගනිස්තාන කණ්ඩායම අතර පැවැත්වෙන දෙවන සහ තෙවන විස්සයි විස්ස තරගවල සියලු ප්‍රවේශපත්‍ර විකිණි අවසන් බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය දැනුම් දී තිබුණි.
+Meanwhile, SLC had informed the sale of all tickets in the Sri Lanka team and the Afghanistan group.
 
 ◼️
 
 [Data](articles/a829a36c.json)
 
+[Extended Data](ext_articles/a829a36c.ext.json)
+
 ---
 
-### නව පාසල් වාරය අද ඇරඹේ
+### New school term begins today
 
 *2024-02-19 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193560) · `si`
 
-රජයේ හා රජයේ අනුමත පෞද්ගලික පාසල්වල තෙවන පාසල් වාරය පසුගිය සිකුරාදා (16) අවසන් විය.
+The third term of government and government approved private schools ended on Friday (16).
 
-ඒ අනුව නව පාසල් වාරයේ පළමු අදියර අද ආරම්භ වන බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+Accordingly, the first phase of the new school will commence today, the Ministry of Education said.
 
-පළමු පාසල් වාරයේ පළමු අදියර අප්‍රේල් මස 10 වන දා දක්වා ක්‍රියාත්මක වීමට නියමිතය.
+The first phase of the first school is due to operate from April 10.
 
 ◼️
 
 [Data](articles/a5635e00.json)
+
+[Extended Data](ext_articles/a5635e00.ext.json)
 
 ---
 
@@ -322,21 +336,23 @@ He said the USAID had given millions of dollars for agricultural products at thi
 
 ---
 
-### සබරගමුවේ කාලගුණය වෙනස්වෙයි
+### Sabaragamuwa Weather Changes
 
 *2024-02-19 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193559) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වල වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The East and Uva provinces may have a few showers in the Eastern and Uva provinces.
 
-සබරගමුව පළාතේ ප.ව. 4.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+2 pm in Sabaragamuwa Province. Showers or thundershowers will occur at a few places about 4.00.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව, දකුණ සහ නැගෙනහිර පළාත්වලත් මහනුවර සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-35 පමණ තරමක තද සුළං ඇතිවිය හැක.
+From the East, North-Central, Uva, Uva, Uva, Uva, Uva and Eastern Provinces, in the North, North, South and Eastern Provinces.. 30-35 can cause strong winds.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Meteorological Department urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/ac1abec8.json)
+
+[Extended Data](ext_articles/ac1abec8.ext.json)
 
 ---
 

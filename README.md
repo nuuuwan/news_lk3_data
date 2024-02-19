@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 13:17:36**
+As of **2024-02-19 13:33:06**
 
 ## Newspaper Stats
 
-*Scraped **7,978** Articles*
+*Scraped **7,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,63 @@ economynextcom | 409
 islandlk | 420
 dailyftlk | 434
 adalk | 679
-tamilmirrorlk | 969
+tamilmirrorlk | 970
 adaderanalk | 976
-virakesarilk | 1,058
-adaderanasinhalalk | 1,158
+virakesarilk | 1,059
+adaderanasinhalalk | 1,159
 dailymirrorlk | 1,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,964 (99.8%) of 7,978 articles have been extended.
+7,978 (100.0%) of 7,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### எலி பிரச்சினையால் ஒருவர் பலி
+### அரசமருத்துவமனைகளில் மிகவும் அவசியமான மருத்துவ உபகரணங்களிற்கு தட்டுப்பாடு - தொழிற்சங்கம்
+
+*2024-02-19 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/176749) · `ta`
+
+அரசாங்க மருத்துவமனைகளில் சத்திரகிசிச்சை உபகரணங்கள் உட்பட மிகவும் அவசியமான மருத்துவ உபகரணங்களிற்கு பெரும் பற்றாக்குறை  நிலவுவதாக சுகாதார தொழில்துறை தொழிற்சங்கங்கள் தெரிவித்துள்ளன.
+
+மருத்துவ மற்றும் சிவில் உரிமைகளிற்கான மருத்துவ ஒன்றியத்தின் தலைவர் வைத்தியர் சமல் சஞ்சீவ தெரிவித்துள்ளார்.
+
+மிகவும் அவசியமான சத்திரகிசிச்சை உபகரணங்களிற்கு பற்றாக்குறை  காணப்படுகின்றது 3800 முதல் 5800 வரையிலான உபகரணங்கள்  முற்றாக முடிவடைந்துவிட்டன எனவும் அவர் தெரிவித்துள்ளார்.
+
+அவசர சேவைகளிற்கு தேவையான மருத்துவஉபகரணங்களும் பற்றாக்குறையாக உள்ளன என மேலும் தெரிவித்துள்ள அவர் இதன் காரணமாக கடும் கரிசனை ஏற்பட்டுள்ளது எனவும் குறிப்பிட்டுள்ளார்.
+
+இதேவேளை இது குறித்து கருத்து தெரிவித்துள்ள சுகாதார அமைச்சு அதிகாரியொருவர் உபகரணங்கள் இன்மையால்சத்திரசிகிச்சைகள் நிறுத்தப்பட்டதாக உத்தியோகபூர்வமான தகவல்கள்எவையும் கிடைக்கவில்லை என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/4b85261e.json)
+
+---
+
+### One killed by rat problem
 
 *2024-02-19 12:49:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலி-பிரச்சினையால்-ஒருவர்-பலி/175-333437) · `ta`
 
-ஒரே குடும்பத்தைச் சேர்ந்த சகோதரர்கள் இருவர் வசிக்கும் வீட்டினுள் எலி புகுந்தது தொடர்பாக இருவருக்கும் இடையில் ஏற்பட்ட வாக்குவாதத்தில் மயங்கி விழுந்து   இளைய சகோதரர் சிகிச்சைக்காக தலங்கம மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளதாக தலங்கம பொலிஸார் தெரிவித்தனர்.
+Talangama police said that the younger brother was admitted to the Talangama district hospital for treatment of a rat in the house where two brothers of the same family were living in a house.
 
-பத்தரமுல்லை தலங்கம தெற்கில் வசிக்கும் எகொடவத்தை ஆராச்சியைச் சேர்ந்த அனுர கித்சிறி என்ற (59) வயதுடைய ஓய்வுபெற்ற கணக்காளர் ஒருவரே இவ்வாறு உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Anura Kitsiri (59), a resident of Arachchi, who lives in the south of Talangama, Battaramulla, has died.
 
-குறித்த நபர் திருமணமாகி இரண்டு பிள்ளைகளின் தந்தையாவார், மூத்த சகோதரன் திருமணமாகாமல் ஒரே வீட்டில் வசிப்பதாகவும், திங்கட்கிழமை (19) காலை இரண்டு மகள்களும் மனைவியும் சொந்த தேவைகளுக்காக வீட்டை விட்டு வெளியே சென்றுள்ளனர். அப்போது  இரு சகோதரர்கள் மட்டுமே வீட்டில்  தங்கியிருந்ததாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+The person is married and is the father of two children, and the elder brother lives in the same house without marriage, and two daughters and spouses have left home for their own needs.. Only two brothers were staying at home, police said.
 
 ◼️
 
 [Data](articles/ac695984.json)
 
+[Extended Data](ext_articles/ac695984.ext.json)
+
 ---
 
-### ஜப்பான் அரசாங்கத்திடமிருந்து 40,000 மெட்ரிக் தொன் டீசல் மானியம்
+### ஜப்பானிடமிருந்து  40,000 மெட்ரிக் தொன் டீசல் மானியம்
 
-*2024-02-19 12:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-அரசாங்கத்திடமிருந்து-40-000-மெட்ரிக்-தொன்-டீசல்-மானியம்/175-333436) · `ta`
+*2024-02-19 12:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிடமிருந்து-40-000-மெட்ரிக்-தொன்-டீசல்-மானியம்/175-333436) · `ta`
 
 இலங்கையின் சுகாதார அமைப்புக்குள் போக்குவரத்து சேவைகளை வலுப்படுத்துவதற்காக நியமிக்கப்பட்ட ஜப்பானிய அரசாங்கத்திடம் இருந்து 40,000 மெட்ரிக் தொன் டீசலை இலங்கை மானியமாகப் பெற்றுள்ளது.
 
@@ -60,75 +82,131 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/16043d86.json)
+[Data](articles/15591b75.json)
 
 ---
 
-### அடிப்படை உரிமைகளை மீறாத வகையில் பொலிஸாரின் சுற்றிவளைப்புகள்!
+### 40,000 metric tonne diesel subsidy from the Japanese government
+
+*2024-02-19 12:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-அரசாங்கத்திடமிருந்து-40-000-மெட்ரிக்-தொன்-டீசல்-மானியம்/175-333436) · `ta`
+
+Sri Lanka has received a subsidy of 40,000 metric tonnes of diesel from the Japanese government appointed to strengthen transport services within the health of Sri Lanka.
+
+A formal handing over in the presence of Japanese Ambassador to Sri Lanka Missukoshi Hidaygi and Minister of Health and Industry Ramesh Pathirana was held today (19) at the Port of Colombo.
+
+In addition, officials have introduced the sophisticated fuel management information (FIMS) to ensure the transparent and responsible management of diesel resources.
+
+◼️
+
+[Data](articles/16043d86.json)
+
+[Extended Data](ext_articles/16043d86.ext.json)
+
+---
+
+### Police surroundings to violate fundamental rights!
 
 *2024-02-19 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176748) · `ta`
 
-அடிப்படை உரிமைகளை மீறாத வகையில் சுற்றிவளைப்புகள் மற்றும் ஏனைய நடவடிக்கைகளை மேற்கொள்ளுமாறு பொலிஸாருக்கு தொடர் அறிவுறுத்தல்களை வழங்க சட்ட மா அதிபர் திணைக்களம் தீர்மானித்துள்ளது.
+The Attorney General's Department has decided to provide a series of instructions to the police to carry out circles and other activities in order to not violate fundamental rights.
 
-சட்ட மா அதிபர் மற்றும் பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான  அலஸ் ஆகியோருக்கு இடையில் இடம்பெற்ற கலந்துரையாடலின் பின்னர் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+The decision was taken after a discussion between the Attorney General and the Minister of Public Security, Trane Ales.
 
 ◼️
 
 [Data](articles/4f3bf12c.json)
 
+[Extended Data](ext_articles/4f3bf12c.ext.json)
+
 ---
 
-### பப்புவா நியுகினியில் 60க்கும் அதிகமானவர்கள் சுட்டுக் கொலை - பழங்குடியினர் பகுதிகளில் வன்முறை
+### More than 60 people shot dead in Papua Newgini - Violence in Tribal areas
 
 *2024-02-19 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176745) · `ta`
 
-எங்கா மாகணாத்தில் பழங்குடியினருக்கு இடையில் இடம்பெற்ற மோதல்களின் போது 60க்கும் அதிகமானவர்கள் சுட்டுக்கொல்லப்பட்டுள்ளனர்.
+More than 60 people have been shot dead during the clashes between tribes in the Enanga.
 
-பலவருடங்களாக வன்முறைகளில் சிக்குண்டுள்ள மலைப்பகுதிகளிலேயே இந்த வன்முறைகள் இடம்பெற்றுள்ளன எனினும் சமீபத்தில் இடம்பெற்ற மிகமோசமான வன்முறை இதுவென அதிகாரிகள் தெரிவித்துள்ளனர்.
+The violence has taken place in the hilly areas that have been violent for many years, but officials said that this is the most common violence recently.
 
-நிலம் சொத்து பகிரப்படுவது குறித்த அதிருப்தியால் உருவான பழங்குடி மோதல் காரணமாக எங்கா நகரம் கடந்த ஜூலை மாதம் முதல் மூன்று வாரங்களிற்கு முடக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+It is noteworthy that the city of Enga has been paralyzed for three weeks since last July due to a tribal clash caused by dissatisfaction with the sharing of land property.
 
 ◼️
 
 [Data](articles/6bf40bb1.json)
 
+[Extended Data](ext_articles/6bf40bb1.ext.json)
+
 ---
 
-### பாலியல் வன்முறைகள், துன்புறுத்தல்கள், தற்கொலைகள்! ; பரிதாப நிலையில் டியாகோ கார்சியாவில் சிக்குண்டுள்ள இலங்கை தமிழ் புகலிடக் கோரிக்கையாளர்கள் - ஐ.நா. தகவல்
+### Sexual violence, harassment, suicides!;Sri Lankan Tamil asylum seekers in Diego Garcia. Information
 
 *2024-02-19 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176742) · `ta`
 
-டியாகோர்கார்சியாவில் சிக்குண்டுள்ள இலங்கை தமிழ் குடியேற்றவாசிகள் தங்கள் பாதுகாப்பாக இல்லை மறக்கபட்டுள்ளோம் என ஐநாவின் விசாரணையாளர்களிடம் தெரிவித்துள்ளனர்.
+Sri Lankan Tamil migrants in Decorgarsia have been forgotten by UN investigators, "We have not been forgotten."
 
-பாலியல்வன்முறைகள் சிறுவர்கள் துன்புறுத்தப்படுதல் குறித்தும் தெரிவித்துள்ள அவர்கள்  தற்கொலைகளும் தங்களிற்குதாங்களே காயங்களை ஏற்படுத்திக்கொள்ளுதலும்  அங்கு சிக்குண்டுள்ள குடியேற்றவாசிகள் மத்தியி;ல் காணப்படுவதாகவும் தெரிவித்துள்ளனர்.
+They have also reported that the abolition of the child's harassment and the suicides and the injuries to them are found in the middle of the migrants.
 
-ஐக்கியநாடுகள் அகதிகள் முகவர் அமைப்பின் அதிகாரிகள் அகதிகளின் நிலைமை குறித்து ஆராய்வதற்காக டியாகோகார்சியாவிற்கு சென்றுள்ளனர்.
+Officials of the United Nations Refugee Agency have gone to Diagoocarcia to investigate the plight of refugees.
 
-டியோகோர் கார்சியாவில் இலங்கையை சேர்ந்த புகலிடக்கோரிக்கையாளர்கள் சிக்குண்ட பின்னர் அவர்களின் நிலைமைகளை பார்வையிடுவதற்காக வெளிதரப்பு உள்ளே சென்றது இதுவே முதல்தடவை.
+This is the first time that Sri Lankan asylum seekers in Diocore Garcia went out to visit their conditions after they were cigarette.
 
-ஐநா அமைப்பின் விஜயத்தின் பின்னர் அவர்கள் வெளியிட்ட அறிக்கையை நீதிமன்றம் பிபிசிக்கு வழங்கியுள்ளது.
+The court has issued a report to the BBC after their visit to the UN.
 
-ஐநாவின் அகதிகளிற்காக அமைப்பின் பிரதிநிதிகள் டியோகார்சியாவில் உள்ள இலங்கை தமிழ் புகலிடக்கோரிக்கைiயாளர்களை சந்தித்தவேளை அவர்கள் பாலியல் வன்முறைகள் மற்றும் துன்புறுத்தல்கள் குறித்து தெரிவித்துள்ளனர்.
+Representatives of the organization for the UN refugees have reportedly addressed the Sri Lankan Tamil asylum seekers in Tiocarcia.
+
+Other Sri Lankan asylum seekers in Diagor Garcia are committed by these crimes, they said.
+
+At the same time, the immigrants think that the public is not fully detained due to the concern of the community due to the vision of the community.
 
 ...
 
 [Data](articles/09541158.json)
 
+[Extended Data](ext_articles/09541158.ext.json)
+
 ---
 
-### பாரத் லங்கா 10,000 வீடுகள் திட்டம் ; நுவரெலியா ஸ்க்ரப் தோட்டத்தில் 30 வீடுகளுக்கான அடிக்கல் நாட்டப்பட்டது
+### Bharat Lanka 10,000 Housing Project;The foundation stone for 30 houses at the Nuwara Eliya Scrub Estate
 
 *2024-02-19 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176744) · `ta`
 
-பாரத் லங்கா 10,000 வீடுகள் திட்டத்தின் தேசிய வேலைத்திட்டத்துடன் இணைந்து நுவரெலியா ஸ்க்ரப் தோட்டத்தில் 30 வீடுகளுக்கான அடிக்கல் நாட்டும் நிகழ்வு இன்று (19) காலை இடம்பெற்றது.
+The foundation stone for 30 houses was held this morning (19) at the Nuwara Eliya Scrub Estate in collaboration with the National Program of the Bharat Lanka 10,000 Housing Project.
 
-இந்திய அரசாங்கத்தின் நிதியுதவியில் நிர்மாணிக்கப்படும் பாரத் லங்கா வீடமைப்புத் திட்டத்தின் கீழ் நாடளாவிய ரீதியில் பத்தாயிரம் வீடுகளை நிர்மாணிக்க உத்தேசிக்கப்பட்டுள்ளது.
+It is proposed to construct ten thousand houses nationwide under the Bharat Lanka Housing Scheme, which is funded by the Government of India.
 
-அதன் ஒரு கட்டமாக நுவரெலியா ஸ்க்ரப் தோட்டத்தில் தற்காலிக வீடுகளில் தங்கியுள்ள முப்பது குடும்பங்களுக்கான வீடமைப்புத் திட்டத்தின் அடிக்கல் நாட்டும் நிகழ்வு நுவரெலியா மாநகர சபையின் முன்னாள் உறுப்பினர்கள்  நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அமைச்சர் ஜீவன் தொண்டமான் இணைச் செயலாளர்கள் மற்றும் இணைப்பாளர்களும் ஆன வினோத் ஜி மற்றும் சட்டத்தரணி சிவன் ஜோதி யோகராஜா  ஆகியோரின் தலைமையில் இன்றைய தினம் காலை ஸ்க்ரப் தோட்டத்தில் நடைபெற்றது.
+As a part of the Nuwara Eliya Scrub Estate, the foundation stone for the Thirty Families Housing Scheme, which is located in temporary houses, was held at the Skrappa Garden this morning under the leadership of Vinod G and Attorney -at -Law Shiv Thondaman, Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure.
+
+The housing scheme is being implemented all over the country under the guidance of Sri Lankan President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi, with the financial support of the Indian government.
+
+◼️
+
+[Data](articles/60d717aa.json)
+
+[Extended Data](ext_articles/60d717aa.ext.json)
+
+---
+
+### සිඳු ටෙලි නාට්‍යයේ සෝරත පොඩි හාමුදුරුවෝ ලෙස රඟපෑ කවීෂ් සසුන්ගත වෙයි
+
+*2024-02-19 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193572) · `si`
+
+දෙරණ නාලිකාවේ විකාශය වූ අතිශය ජනාදරයට පත් "සිඳු" ටෙලි නාට්‍යයේ පුංචි සෝරත පොඩි හාමුදුරුවෝ, තමන්ටත් දරාගන්න අපහසු චීවරය දරාගෙන ඒ චරිතයට පණ පෙවූ අපූරුව ඔබට මතක ඇති.
+
+සරණ පසුපස දුවපැන ඇවිදිමින් ප්‍රේක්ෂක හදවත් තුළ සදාතනික මතකයක් බවට පත්වූ කවීෂ් විහඟ, මේ සෝරත පොඩි හාමුදුරුවන්ගේ චරිතය හරහා රංගනයක නිරත වනවාද යන්නත් ඇතැම් අවස්ථාවල ප්‍රේ‍රක්ෂකයාට අමතකව ගොස් තිබුණි.
+
+වයස අවුරුදු 5හේ දී සෝරත පොඩි හාමුදුරුවෝ ලෙසින් ප්‍රේක්ෂක හදවත් දිනාගත් කවීශ් වසර 5ක්ම එම චරිතය තුළ ජීවත් වුණි.
+
+ප්‍රේක්ෂකයාගේ ඒ බලාපොරොත්තුව සඵල කරමින් පුංචි කවීශ් අද සැබෑවටම පුංචි සාමණේර නමක් බවට පත්විය.
+
+මාතලේ මාවතුපොල පෙතිගෙපිටිය රජමහා විහාරස්ථානයේදී කවීශ් විහඟ අද (19) උදෑසන මෙලෙස සසුන්ගත වුණි.
+
+ඒ වසර 5ක් පුරාවට සෝරත පොඩි හාමුදුරුවෝ ලෙසින් දරාගෙන සිටි උතුම් චීවරයේ බර සියලු ලෝක සත්ත්වයාගේ යහපත වෙනුවෙන් සැබෑවටම දරාගනිමිනි.
+
+මීට මාස තුනකට ඉහතදී කවීෂ්ගේ එකම සොහොයුරාත් සසුන්ගතවීම කවීශ්ගේ බලාපොරොත්තුව මල්ඵල ගැන්වෙන්න තවත් හේතුවක් වෙන්නට ඇතැයි සඳහන් ය.
 
 ...
 
-[Data](articles/60d717aa.json)
+[Data](articles/6e1b42a3.json)
 
 ---
 
@@ -150,21 +228,27 @@ Furthermore, to ensure transparent and accountable management of the diesel reso
 
 ---
 
-### මීයා නිසා අයිය මලෝ හබයෙන් මල්ලි මළෝ
+### Mall beds from Yawn Yawn
 
 *2024-02-19 12:08:59* · [`adalk`](https://www.ada.lk/breaking_news/මීයා-නිසා-අයිය-මලෝ-හබයෙන්-මල්ලි-මළෝ/11-408166) · `si`
 
-එකම පවුලේ සහෝදරයින්  දෙදෙනෙකු වාසය කරන නිවසකට ඇතුළු වූ මීයෙකු සම්බන්ධයෙන් දෙදෙනා අතර වූ   බහින් බස්වීමක් දුරදිග යන අතරතුරදි එක් වරම ක්ලාන්ත වී ඇද වැටුණු බාල සහෝදරයා ප්‍රතිකාර සඳහා තලංගම දිසා රෝහලට ඇතුළත් කිරීමට යාමේදී  මියගොස් ඇතැයි තලංගම පොලිසිය පවසයි.
+Thalangama Police say that the younger brother who had fallen into the Talangama District Hospital for treatment, the younger brother, Talangama Police said that the younger brother who had fallen into the Talangama District Hospital for treatment.
 
-මෙසේ මියගොස් ඇත්තේ බත්තරමුල්ල තලංගම දකුණ අංක 381 /  සී, හි පදිංචි එගොඩවත්ත ආරච්චිගේ අනුර කිත්සිරි නමැති (59) හැවිරිදි විශ්‍රාමික ගණකාධිකාරීවරයෙකු බව පොලිසිය කියයි.
+The deceased has been identified as Egodawatte Arachchige Anura Kithsiri, a resident of Thalangama South, No. 381 / C, Battaramulla.
 
-මෙම පුද්ගලයා විවාහ වී දරුවන් දෙදෙනෙකුගේ පියෙකු වන අතර වැඩිමහල් සහෝදරයා අවිවාහකව එකම නිවසේ වාසය කරන අතර අද (19) උදෑසන දියණියන් දෙදෙනා සහ බිරිද පෞද්ගලික අවශ්‍යතාවයක් සඳහා නිවසින් බැහැරට ගිය අවස්ථාවේදී නිවසේ රැඳී සිට ඇත්තේ මෙම සහෝදරයන් දෙදෙනා පමණක් බව පොලිසිය කියයි.
+The two brothers say that only two daughters and wife have been staying at the same house where the two daughters and wife had been abandoned at home.
 
-මේ අතරතුරදි වැඩිමහල් සහෝදරයා රැඳී සිටින කාමරයට ඇතුළු වී සිටි මීයෙකු එළවා දැමීමේදී එම සත්වයා යාබදව පිහිටි බාල සහෝදරයාගේ කාමරයට ඇතුළුවී ඇති බවත් පසුව ඒ සම්බන්ධයෙන් වැඩිමහල් සහෝදරයාට  දෝෂාරෝපණය කරමින් දෙදෙනා අතර බහින්බස්වීමක් හටගෙන ඇති බව පැවසේ.
+In the meantime, the animal had entered the younger brother's room, which was adjacent to the younger brother's room, and the two men were taken into the adjacent to the elderly brother.
+
+The elder brother has said, "The older brother has said," There is no mice that flows into your room, "
+
+But when the younger brother continued to establish the elderly with the older brother, he had fallen and rose his neighbors to the Talangama District Hospital.
 
 ...
 
 [Data](articles/76de56a6.json)
+
+[Extended Data](ext_articles/76de56a6.ext.json)
 
 ---
 
@@ -190,19 +274,21 @@ Among countries scheduled to participate in the hearings are the United States -
 
 ---
 
-### ஐக்கிய மக்கள் சக்தி தவிசாளர்  சரத் பொன்சேகாவின் பணி இடைநிறுத்தத்துக்கு தடை உத்தரவு!
+### United People's Power Chairperson Sarath Fonseka's suspension
 
 *2024-02-19 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176741) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தவிசாளர்  பீல்ட் மார்ஷல் சரத் பொன்சேகாவின் பணி இடைநிறுத்தம் மற்றும் உறுப்புரிமையிலிருந்தும் நீக்கப்படுவதை தடுத்து கொழும்பு மாவட்ட நீதிமன்றம் இன்று திங்கட்கிழமை (19) தடை உத்தரவு பிறப்பித்துள்ளது.
+The Colombo District Court today (19) issued a ban on the suspension and membership of the United People's Power Field Marshal Sarath Fonseka.
 
-சரத் பொன்சேகா தாக்கல் செய்த மனுவை பரிசீலித்த நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
+The court has issued the order, considering the petition filed by Sarath Fonseka.
 
-பிரதிவாதிகளாக ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச மற்றும் சிலர் குறிப்பிடப்பட்டுள்ளனர்.
+United People's Power Leader Sajith Premadasa and others have been referred to as defendants.
 
 ◼️
 
 [Data](articles/51c65e72.json)
+
+[Extended Data](ext_articles/51c65e72.ext.json)
 
 ---
 
@@ -246,37 +332,43 @@ At the Annual Conference of the American Scholarship Association, Mrs. Teresa Ha
 
 ---
 
-### மன்னாரில் சிறுமி கொலை ; நீதி கோரி கிராம மக்கள் அமைதி வழி போராட்டம்
+### Murder in Mannar;The people of the villagers demanding justice
 
 *2024-02-19 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176738) · `ta`
 
-மன்னார் - தலைமன்னார் ஊர்மனை கிராமம் பகுதியில் பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு கொலை செய்யப்பட்ட சிறுமியின் மரணத்திற்கு நீதி கோரி இன்று திங்கட்கிழமை (19) காலை மன்னார் நீதவான் நீதிமன்ற வளாகத்திற்கு முன் குறித்த கிராம மக்கள் அமைதி வழி போராட்டம் ஒன்றை முன்னெடுத்தனர்.
+The villagers launched a peaceful protest in front of the Mannar Magistrate's Court on Monday (19) morning demanding justice for the death of a girl who was raped and murdered in the Mannar -Thalamannar village village.
 
-சிறுமியின் மரணத்திற்கு தாமதம் இன்றி நீதி  கிடைக்க வேண்டும் என  கோரியும் விசேட நீதிபதிகள் அடங்கிய குழு ஒன்று குறித்த வழக்கை விசாரிக்க கோரியும் தலைமன்னார் கிராமத்தை சேர்ந்த பொதுமக்கள் போராட்டத்தில் ஈடுபட்டிருந்தனர்.
+The civilians from the Talaimannar village were protesting against a committee comprising a special judges demanding justice without delay in the death of the girl.
 
-இன்றைய தினம் காலை 8.30 மணி தொடக்கம் 9.30 மணி வரை குறித்த அமைதி போராட்டம் இடம்பெற்றது.
+The peace struggle took place today from 8.30 am to 9.30 pm.
 
-பாதிக்கப்பட்ட சிறுமிக்கு நீதி வழங்கு,விசேட விசாரணை பொலிஸ் குழுவை நியமி, சிறுவர்களை உயிர் போல் காப்போம், இணையவழிப் பாலியல் துஸ்பிரயோகங்களை நிறுத்துங்கள், எமது சிறுவர்களுக்கு பாதுகாப்பு வேண்டும் போன்ற பல்வேறு வாசகங்கள் எழுதப்பட்ட பதாகைகளை யும் அதே நேரம் சிறுமியின் புகைப்படத்தையும் ஏந்தியவாறு அமைதி வழி போராட்டத்தில் ஈடுபட்டனர்.
+Justice for the victim, a special investigation police team, a special police team, save children like life, stop internet sexual abuse, and we needed a variety of banners and a photo of the girl, while carrying banners and photographs of the girl.
+
+The Mannar court on Saturday (17) afternoon was granted permission to interrogate a man who was arrested in connection with the death of a 10 -year -old girl in the village of Talaimannar Urmana village for the next 48 hours.
 
 ...
 
 [Data](articles/6f0f5afc.json)
 
+[Extended Data](ext_articles/6f0f5afc.ext.json)
+
 ---
 
-### சுகாதார அமைச்சு  கூறினால் மட்டுமே வீட்டுக்குச் செல்வேன் - பிரதிப் பணிப்பாளர்  ருக்க்ஷான் பெல்லன!
+### I will go home only if the Ministry of Health says - Deputy Director Rukshan Bellana!
 
 *2024-02-19 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176740) · `ta`
 
-வைத்தியசாலையின் வைத்தியர்கள், தாதியர்கள் மற்றும் ஊழியர்கள் என்னை வீட்டுக்குச் செல்லுமாறு கூற முடியாது.  சுகாதார அமைச்சு  கூறினால் மட்டுமே வீட்டுக்குச் செல்வேன்  என கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர்  ருக்க்ஷான் பெல்லன  தெரிவித்துள்ளார்.
+Doctors, nurses and staff of the hospital cannot tell me to go home.Rukshan Bellana, Deputy Director of the Colombo National Hospital, said that he would go home only if the Ministry of Health said.
 
-தான்  7 மணித்தியாலங்கள் வைத்தியசாலையில் தடுத்து வைக்கப்பட்டிருந்ததாக பலர் கூறினாலும் அவ்வாறு எதுவும் இடம்பெறவில்லை என்றும்  எனவும் அவர் தெரிவித்துள்ளார்.
+He said that he had been detained at the hospital for 7 hours, but there was nothing.
 
-சம்பவதினம் தான் வைத்தியசாலைக்கு கடமைகளுக்காக சென்றதாகவும்  கடமைகளை முடித்துக் கொண்டு மாலை 5.30 மணியளவில் பொலிஸ் பாதுகாப்பில் வெளியேறியதாகவும் அவர்  தெரிவித்துள்ளார்.
+He said that he had gone to the hospital for duties and left the police security at 5.30 pm.
 
 ◼️
 
 [Data](articles/c8056533.json)
+
+[Extended Data](ext_articles/c8056533.ext.json)
 
 ---
 
@@ -406,37 +498,43 @@ Sarath Fonseka had asked the court to issue disciplinary action against his part
 
 ---
 
-### போதைப்பொருள் வாங்க பணம் கொடுக்காததால் குடும்பஸ்தர் உயிர்மாய்ப்பு
+### The family is not paid to buy drugs
 
 *2024-02-19 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176736) · `ta`
 
-போதைப்பொருள் வாங்குவதற்காக தனது சகோதரி மற்றும் தாயாரிடம் நேற்று ஞாயிற்றுக்கிழமை (18) பணம் கேட்டு, வீட்டில் குழப்பத்தில் ஈடுபட்ட குடும்பஸ்தருக்கு, வீட்டார் பணம் கொடுக்காததால், தவறான முடிவெடுத்து தனது உயிரை மாய்த்துள்ளார்.
+He asked his sister and mother to buy drugs on Sunday (18) and made her life in a wrong decision because the householder did not pay for the house.
 
-குறித்த குடுப்பஸ்தருக்கு திருமணமாகி 05 வயதில் பிள்ளை இருக்கும் நிலையில், அதீத போதைப்பொருள் பாவனையால், குடும்ப வன்முறைகளிலும் ஈடுபட்டு வந்தமையால், அவரது மனைவி பிள்ளை அவரை விட்டு பிரிந்து வாழ்வதாக விசாரணைகளில் தெரிய வந்துள்ளது.
+Investigations have revealed that his wife Pillai is living away from him due to the use of drug use and family violence as the child is married at the age of 5 and is involved in family violence.
 
 ◼️
 
 [Data](articles/d6128135.json)
 
+[Extended Data](ext_articles/d6128135.ext.json)
+
 ---
 
-### நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்குவதற்காக தற்போது இடம்பெறும் முயற்சிகளிற்குஆதரவில்லை - இது சதி முயற்சி - தோற்கடிக்கவேண்டும் - ஜேவிபி
+### The present attempt to abolish the executive of the Executive - It is a conspiracy attempt - to defeat - JVP
 
 *2024-02-19 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176735) · `ta`
 
-நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்குவதற்காக தற்போது இடம்பெறும் முயற்சிகளிற்கு ஆதரவளிக்கப்போவதில்லை என ஜேவிபி தெரிவித்துள்ளது.
+The JVP said it would not support the existing efforts to eliminate the executive bureaucracy.
 
-நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்குவதற்காக தற்போது இடம்பெறும் முயற்சிகளை சதி என அந்த கட்சி வர்ணித்துள்ளது.
+The party has described its efforts to eliminate the executive bureaucracy as a conspiracy.
 
-எனினும் எதிர்காலத்தில் தேசிய மக்கள் சக்தியின் ஆட்சிக்காலத்தில் நிறைவேற்று அதிகார ஜனாதிபதி முறைநீக்கத்திற்கான நடவடிக்கைகளை முன்னெடுக்கவுள்ளதாக அந்த கட்சி தெரிவித்துள்ளது.
+However, the party said it would take steps to dismiss the executive president during the reign of the national people's power in the future.
 
-நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்குவதற்காக தற்போது இடம்பெறும் முயற்சிகளை ஒரு சதி என வர்ணித்துள்ள கட்சியின் நாடாளுமன்ற உறுப்பினர் விஜிதஹேரத் இதனை தோற்கடிக்கவேண்டும் என தெரிவித்துள்ளார்.
+The party's parliamentarian Vijitherath, who has described the current efforts to abolish the executive bureaucratic system, said that it should be defeated.
 
-தற்போது நிறைவேற்று அதிகார ஜனாதிபதிமுறையை நீக்குவதற்காக இடம்பெறுகின்ற முயற்சிகள் ஒரு ஏமாற்றுவித்தை என குறிப்பிட்டுள்ள விஜிதஹேரத் அரசாங்கத்திற்கு இதனை முன்னெடுப்பதற்கு போதுமான காலஅவகாசம் இருந்தும் அதனை  முன்னெடுக்கவில்லை என  குறிப்பிட்டுள்ளார்.
+Vijitherath, who is currently trying to abolish the executive presidency, has not been able to carry out it despite sufficient time to advance the government of the government.
 
-...
+He said that under the rule of the National People's Power, we will abolish the executive presidency, but we will not support it at present.
+
+◼️
 
 [Data](articles/454e95a6.json)
+
+[Extended Data](ext_articles/454e95a6.ext.json)
 
 ---
 
@@ -498,19 +596,21 @@ ECONOMYNEXT – A roundtable discussion on “Ed-tech towards achieving SDGs”,
 
 ---
 
-### உள்ளூராட்சி மன்றத் தேர்தலுக்கான வேட்பு மனுக்களை இரத்துச் செய்ய  நடவடிக்கை!
+### Action to cancel nominations for local government elections
 
 *2024-02-19 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176731) · `ta`
 
-காலவரையறையின்றி ஒத்திவைக்கப்பட்ட உள்ளூராட்சி மன்றத் தேர்தலுக்கான வேட்புமனுக்களை இரத்துச் செய்ய அரசாங்கம் நடவடிக்கை எடுத்துள்ளது.
+The government has taken steps to cancel the nominations for the local government elections indefinitely.
 
-உள்ளுராட்சி மன்ற முன்னாள்  பிரதிநிதிகள் விடுத்த கோரிக்கையின் அடிப்படையிலேயே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+The decision was taken on the basis of a request made by former representatives of the Local Government.
 
-உள்ளூராட்சி மன்றத் தேர்தலுக்காக சமர்ப்பிக்கப்பட்ட வேட்புமனுக்களை இரத்துச்  செய்ய கடந்த ஆண்டு செப்டம்பர் மாதம் 21ஆம் திகதி அரச நிர்வாகம், உள்நாட்டலுவல்கள், மாகாண சபைகள்  அமைச்சு ஆலோசனைக் குழு ஏகமனதாக தீர்மானித்திருந்தமை குறிப்பிடத்தக்கது.
+On September 21 last year, the Advisory Committee of the Ministry of Home Affairs, Provincial Councils and Provincial Councils was unanimously decided to cancel the nominations filed for the local government elections.
 
 ◼️
 
 [Data](articles/00300baa.json)
+
+[Extended Data](ext_articles/00300baa.ext.json)
 
 ---
 
@@ -578,21 +678,23 @@ On 14 February, the collective of trade unions decided to call off their strike 
 
 ---
 
-### கெஹலியவின் உடல்நிலை குறித்து ஆராய்ந்து அறிக்கை சமர்ப்பிக்க நீதிமன்றம் உத்தரவு!
+### Court ordered to submit a report on Keheliya's health
 
 *2024-02-19 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176730) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் உடல்நிலை தொடர்பில் விசாரணைகளை மேற்கொள்வதற்கு 9 பேர் கொண்ட விசேட வைத்திய நிபுணர்கள்  குழுவொன்றை நியமிக்குமாறு சுகாதார சேவைகள் பணிப்பாளர் நாயகத்துக்கு  மாளிகாகந்த நீதிவான்   உத்தரவிட்டுள்ளார்.
+The Magistrate has ordered the Director General of Health Services to appoint a team of nine specialists to investigate the health of former Health Minister Keheliya Rambukwella.
 
-கெஹலிய ரம்புக்வெல்லவை நீதிமன்றில் முன்னிலைப்படுத்த முடியாத  நிலைமைகள் ஏற்பட்டுள்ளமை தொடர்பில் உடனடியாக விசாரணை நடத்துமாறு பிரதி சொலிசிட்டர் ஜெனரல்  லக்மினி கிரிஹாகம விடுத்த கோரிக்கையை நீதிவான் ஏற்றுக் கொண்டார்.
+The magistrate accepted the request of Deputy Solicitor General Lakmini Girihagama to immediately investigate the situation where Keheliya Rambukwella was not presented to the court.
 
-கெஹலிய ரம்புக்வெல்லவின் உடல் நிலைமை தொடர்பில் விசாரணைகளை மேற்கொள்ளும் நிபுணர் குழுவில் இருதய நோய்கள், எலும்பு நோய்கள் மற்றும் நுரையீரல் நோய்களில் நிபுணத்துவம் பெற்ற வைத்தியர்களையும் உள்ளடக்குமாறும் நீதிவான் சுகாதார சேவைகள் பணிப்பாளர் நாயகத்துக்கு உத்தரவிட்டுள்ளார்.
+The Director General of Health Services has ordered the Director General of Health Services to include doctors who specialize in cardiovascular disease, bone diseases and lung diseases in the Expert Panel, which is investigating the physical condition of Keheliya Rambukwella.
 
-ரம்புக்வெல்லவின் உடல் நிலை தொடர்பிலான விசாரணை அறிக்கைய எதிர்வரும் 26ஆம் திகதிக்குள் நீதிமன்றில் சமர்ப்பிக்க நடவடிக்கை எடுக்குமாறு  நீதிவான் உத்தரவிட்டார்.
+The magistrate ordered the court to take steps to submit to the court by the 26th of this month.
 
 ◼️
 
 [Data](articles/d2500be1.json)
+
+[Extended Data](ext_articles/d2500be1.ext.json)
 
 ---
 
@@ -1925,75 +2027,5 @@ We have to repay $ 91 billion in government loans.
 [Data](articles/2c858f4c.json)
 
 [Extended Data](ext_articles/2c858f4c.ext.json)
-
----
-
-### The Teacher Transfer of the Eastern Province
-
-*2024-02-19 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176712) · `ta`
-
-The Provincial Director of Education said that the appeal of the teachers' transfer will be taken into consideration by the Ampara District.
-
-The Provincial Director of Education is concerned that the teachers who have already served in the Ampara district and in the Ampara district have been working in the Ampara district for more than 7 years when they cancel the transfer list.. This concern for the Provincial Director of Education is fair.
-
-There is no challenge to the Provincial Director of Teachers' Transfer of Teachers to the Provincial Education of the Provincial Education that the teachers are not affected, the students are not harmed, and that the political gains of the politicians are to be aimed at translating to their own fields for a long time.
-
-◼️
-
-[Data](articles/1a362d5a.json)
-
-[Extended Data](ext_articles/1a362d5a.ext.json)
-
----
-
-### India's bitter lessons
-
-*2024-02-19 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176711) · `ta`
-
-On the 14th of this month, Valentine's Day was celebrated around the world at the 122nd International Infantry of the Indian Army in Kozhikode, Kerala.
-
-Nearly 150 people from the 122nd Infantry Battalion, who had left Sri Lanka 34 years ago, were present at the event.
-
-About 700 people were held at the Madras Regiment, the 122nd Infantry, which participated in the comparison of Sri Lanka.
-
-At a press conference held two days ago, up to 400 of them will attend the event, one of the organizers, Supheedar Rahman, said.
-
-However, only half the number of people they expected were attending.
-
-They belonged to the 122nd Infantry, and now they have touched the age of 60 and 70.
-
-The event, which began at the Bhatalian headquarters at 8 am, was held at the Bhatalian headquarters, the opening of the Memorial Inscription, the opening of the Memorial Inscription, the opening of the Indian Peace Corps, the opening of the Opening of the Comparative Pawan Goor, and the sharing of old memories.
-
-...
-
-[Data](articles/a58e5620.json)
-
-[Extended Data](ext_articles/a58e5620.ext.json)
-
----
-
-### Hidden junction
-
-*2024-02-19 01:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176710) · `ta`
-
-US Aid Administrator Samantha Power held a virtual discussion with President Ranil Wickremesinghe on Tuesday, 13th.
-
-In this regard, a news note was immediately issued by the USA. The Presidential Secretariat has not issued any announcement regarding the discussion.
-
-The US Agency for International Development (USA) is an organization that provides assistance to Sri Lanka.
-
-In a statement issued by the USA in 2022, the USAI said that Sri Lanka had awarded $ 2 billion since 1956 to Sri Lanka.
-
-Samantha Power, a USAl administrator, served as his advisor to the National Security Council during the time of former US President Barack Obama.
-
-He is concerned and tight in human rights affairs.Samantha Power was also the US Ambassador to the UN.
-
-He was a key role behind the US resolutions at the UN Human Rights Council over the violations of the war in Sri Lanka.
-
-...
-
-[Data](articles/46fdb792.json)
-
-[Extended Data](ext_articles/46fdb792.ext.json)
 
 ---

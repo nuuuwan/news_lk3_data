@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 02:02:44**
+As of **2024-02-20 02:17:25**
 
 ## Newspaper Stats
 
-*Scraped **8,109** Articles*
+*Scraped **8,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 154
 newsfirstlk | 363
 economynextcom | 419
 islandlk | 422
-dailyftlk | 439
+dailyftlk | 443
 adalk | 693
 tamilmirrorlk | 983
 adaderanalk | 986
@@ -26,11 +26,83 @@ dailymirrorlk | 1,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,109 (100.0%) of 8,109 articles have been extended.
+8,109 (100.0%) of 8,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### G.L. to back Sajith at Presidentials
+
+*2024-02-20 01:50:06* · [`dailyftlk`](https://www.ft.lk/news/G-L-to-back-Sajith-at-Presidentials/56-758662) · `en`
+
+Says failure to hold Presidential election this year would render Govt. illegitimate after 18 November
+
+Claims abolishment of Executive Presidency is Govt.’s final attempt to halt Presidential polls
+
+Stresses people are eagerly awaiting a poll to remove current Govt. from power
+
+Notes ECSL is obligated to announce Presidential election by July or August
+
+Freedom People’s Congress (FPC) member and independent MP Prof. G.L Peiris yesterday publicly announced his endorsement of Samagi Jana Balawegaya (SJB) leader Sajith Premadasa’s candidacy in the upcoming Presidential election, along with several other independent MPs.
+
+...
+
+[Data](articles/355136ca.json)
+
+---
+
+### SJB rift : SF receives court protection from suspension
+
+*2024-02-20 01:49:13* · [`dailyftlk`](https://www.ft.lk/news/SJB-rift-SF-receives-court-protection-from-suspension/56-758661) · `en`
+
+The Colombo District Court yesterday issued an injunction order against the Samagi Jana Balawegaya (SJB) party leadership, preventing them from suspending party Chairman Field Marshal Sarath Fonseka from the SJB and removing him from the post.
+
+The order was issued by Colombo District Judge Sandun Withana, against SJB leader Sajith Premadasa, party General Secretary Ranjith Madduma Bandara, Treasurer Dr. Harsha de Silva and National Organiser Tissa Attanayake in consideration of a petition filed by Fonseka.
+
+The order will be in effect for a period of 14 days, during which the party will be prohibited from expelling Fonseka from the SJB, initiating disciplinary measures against him, or dismissing him from any positions within the party.
+
+Representing the petitioner Faiszer Musthapha, PC informed the court that recent media reports suggest the SJB intends to initiate disciplinary action against Fonseka for his remarks regarding former Army Commander General Daya Ratnayake joining the party.
+
+...
+
+[Data](articles/6d927225.json)
+
+---
+
+### Aitken Spence Logistics opens best-in-class Container Freight Station
+
+*2024-02-20 01:47:48* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-Logistics-opens-best-in-class-Container-Freight-Station/34-758660) · `en`
+
+Move with Rs. 1.5 b investment complementary to the region’s buoyant growth
+
+Aitken Spence Logistics unveils its latest state-of-the-art Container Freight Station (CFS) to facilitate the growing requirements of the supply chain community in the region.
+
+This 100,000 sq. ft. facility, strategically positioned within the main logistics complex in Mabole, Wattala, reflects the company’s commitment to serve the Export-Import community of the region, providing operational excellence, supply chain value creation, and unparalleled service delivery.
+
+The unveiling of this CFS aligns with Aitken Spence Logistics’ long-term strategic capacity expansion plan. It marks a milestone in the company’s journey towards becoming a leader in integrated logistics solutions. The company’s focus on operational excellence is evident in its continuous efforts to provide comprehensive and reliable solutions to its clientele.
+
+...
+
+[Data](articles/f72e2374.json)
+
+---
+
+### Hayleys Aventura and Invertek power greener industries through energy efficiency
+
+*2024-02-20 01:47:01* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Aventura-and-Invertek-power-greener-industries-through-energy-efficiency/34-758659) · `en`
+
+Optidrive Eco VFDs boost Sri Lankan tea production with 40% energy savings
+
+Save 40 to 50% through Optidrive Eco VFDs for both motor and pump applications
+
+Leading industrial solutions provider, Hayleys Aventura, in partnership with global leader Invertek, renowned for cutting-edge drive technology, introduced Optidrive Eco Variable Frequency Drives (VFDs) to enhance energy savings and reduce emissions in manufacturing, agriculture, and hydro-based industries. These VFDs enable clients to control fan motor speeds, minimising energy consumption and carbon dioxide (CO2) emissions throughout the energy supply chain.
+
+...
+
+[Data](articles/d35e6e81.json)
+
+---
 
 ### The UPI revolution: Cashless digitised economy activated
 
@@ -1951,85 +2023,5 @@ Police investigations revealed that the WPC had been sexually abused while she w
 [Data](articles/f574e0c9.json)
 
 [Extended Data](ext_articles/f574e0c9.ext.json)
-
----
-
-### Applications must be submitted directly
-
-*2024-02-19 14:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்ணப்பங்கள்-நேரடியாக-சமர்ப்பிக்கப்பட-வேண்டும்/175-333439) · `ta`
-
-According to a circular issued by the Ministry of Education, applications for enrolling students to the secondary classes for 2024 should be submitted directly to schools, except Grade 1, 5, 6 and higher levels.
-
-Accordingly, if there are vacancies in the schools, the school principals will conduct interviews according to the circular of the Ministry of Education and send the list of selected students to the Ministry of approval.
-
-The Ministry said that when the special announcement was made, the student enrollment for the sixth students of the school is only based on the results of the Grade Fifth Scholarship Examination.
-
-Meanwhile, the Ministry said that applications for enrolling students for the year 2024 should be sent to schools and interviews will be conducted by the principals.
-
-◼️
-
-[Data](articles/757d1447.json)
-
-[Extended Data](ext_articles/757d1447.ext.json)
-
----
-
-### Japan has provided 40,000 metric tonnes of diesel to the Sri Lankan health sector
-
-*2024-02-19 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176750) · `ta`
-
-The Japanese government has donated 40,000 metric tonnes of diesel to strengthen the Sri Lankan health sector transport service.
-
-Japanese Ambassador to Sri Lanka Missukoshi Hidaygi and Minister of Health and Industry Ramesh Pathirana officially handed over the event at the Port of Colombo on Monday (19).
-
-In addition, officials have introduced the sophisticated fuel management information (FIMS) to ensure the transparent and responsible management of the diesel distribution.
-
-It monitors diesel distribution throughout health companies, maintaining detailed registration of fuel allocation for vehicles and facilities.
-
-◼️
-
-[Data](articles/5c637cf1.json)
-
-[Extended Data](ext_articles/5c637cf1.ext.json)
-
----
-
-### Talks succeed, health unions withdraw strike threats
-
-*2024-02-19 14:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Talks-succeed-health-unions-withdraw-strike-threats/108-277318) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - Following successful discussions between representatives of the health sector trade unions and Health Minister Dr. Ramesh Pathirana, a satisfactory solution to the grievances has been reached.
-
-Ravi Kumudesh, convener of the Health Trade Union Alliance, confirmed that the discussions with the Health Minister resulted in a commitment to address their demands.
-
-Hence, the unions decided to refrain from any form of strike action for the time being.
-
-Furthermore, the Health Minister also advised to appoint a committee to address the pressing concerns raised by the health professionals.
-
-The unions have been demanding a similar increased allowance to the Disturbance, Availability and Transport (DAT) allowance which was earlier granted to the doctors.
-
-◼️
-
-[Data](articles/75a75f9c.json)
-
-[Extended Data](ext_articles/75a75f9c.ext.json)
-
----
-
-### Presidential candidates urged to abolish Provincial Councils
-
-*2024-02-19 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-candidates-urged-to-abolish-Provincial-Councils/108-277319) · `en`
-
-Colombo, Feb. 19 (Daily Mirror)- An organization called the “Lankalokaya” headed by incumbent Southern Province Governor Lakshman Yapa Abeywardena’s son Pasanda Yapa Abeywardene today presented a proposal to all candidates of this year’s Presidential election urging them to abolish the Provincial Councils.
-
-The organisation proposed to abolish Provincial Councils and set up district councils while strengthening the Pradeshiya Sabhas instead.
-
-“Our intention is to present a proposal to all candidates of this year’s Presidential election asking them to abolish the Provincial Councils, set up District Councils and strengthen the Pradeshiya Sabhas instead. We also want the appointment of District Ministers other than the Cabinet Ministers, so that development in the district level will be more effective,” he added.
-
-...
-
-[Data](articles/f87f44c1.json)
-
-[Extended Data](ext_articles/f87f44c1.ext.json)
 
 ---

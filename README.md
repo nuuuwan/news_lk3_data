@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 19:17:25**
+As of **2024-02-19 19:33:09**
 
 ## Newspaper Stats
 
-*Scraped **8,062** Articles*
+*Scraped **8,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 687
 tamilmirrorlk | 979
 adaderanalk | 983
 virakesarilk | 1,075
-adaderanasinhalalk | 1,173
+adaderanasinhalalk | 1,174
 dailymirrorlk | 1,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,061 (100.0%) of 8,062 articles have been extended.
+8,063 (100.0%) of 8,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Murder suspect remanded again
+
+*2024-02-19 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193587) · `si`
+
+The suspect, who was remanded that a music teacher who was resident of Wijerama Mawatha, Colombo 07, he ordered the Chief Magistrate Prasanna Alwis to be remanded until March 4.
+
+The 52-year-old suspect, a resident of Dematagoda, is an unmarried laborer and a clean plantation of estates.
+
+The suspect had gone to the court on the 15th of December.
+
+◼️
+
+[Data](articles/dc364a1b.json)
+
+[Extended Data](ext_articles/dc364a1b.ext.json)
+
+---
 
 ### To Afghanistan to advantage
 
@@ -61,6 +79,8 @@ Commenting in this regard, the Head of State noted that the government is active
 ...
 
 [Data](articles/eb54b221.json)
+
+[Extended Data](ext_articles/eb54b221.ext.json)
 
 ---
 
@@ -2003,29 +2023,5 @@ He said that he had gone to the hospital for duties and left the police security
 [Data](articles/c8056533.json)
 
 [Extended Data](ext_articles/c8056533.ext.json)
-
----
-
-### Health sector faces dearth of critical medical equipment
-
-*2024-02-19 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-sector-faces-dearth-of-critical-medical-equipment/108-277312) · `en`
-
-Colombo, Feb 19 (Daily Mirror) -  Health sector trade unions claimed that government hospitals are grappling with an acute shortage of critical medical equipment, including surgical equipment.
-
-According to 'Swastha' which is the information management system of the availability of medicinal drugs, there is a significant shortage of stent items including esophageal stent, Double J stent 3Fr etc.
-
-This concern was also raised by Dr. Chamal Sanjeeva, president of the Union of Medical and Civil Rights Physicians.
-
-Addressing the media, he claimed that critical surgical equipment are in shortage with about 3,800 out of 5,800 surgical items being unavailable.
-
-He proceeded to say that medical equipment necessary for emergency services are also facing a shortage, thus sparking serious concerns.
-
-When inquired from the Health Ministry, a senior health official told the Daily Mirror that there are no official reports of surgeries being halted due to the unavailability of equipment as of now.
-
-...
-
-[Data](articles/14a06835.json)
-
-[Extended Data](ext_articles/14a06835.ext.json)
 
 ---

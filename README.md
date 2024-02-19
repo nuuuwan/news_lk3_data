@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 17:17:32**
+As of **2024-02-19 17:33:59**
 
 ## Newspaper Stats
 
-*Scraped **8,023** Articles*
+*Scraped **8,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,128 @@ newsfirstlk | 363
 economynextcom | 415
 islandlk | 422
 dailyftlk | 434
-adalk | 682
-tamilmirrorlk | 975
+adalk | 686
+tamilmirrorlk | 977
 adaderanalk | 981
 virakesarilk | 1,063
 adaderanasinhalalk | 1,169
-dailymirrorlk | 1,177
+dailymirrorlk | 1,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,023 (100.0%) of 8,023 articles have been extended.
+8,023 (99.9%) of 8,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### No pension, government payment made to Shiranthi, says Mahinda Rajapaksa’s office
+
+*2024-02-19 16:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-pension-government-payment-made-to-Shiranthi-says-Mahinda-Rajapaksas-office/108-277328) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - The office of former President Mahinda Rajapaksa today denied allegations by a Buddhist monk that government payments and pensions have been allocated to former First Lady Shiranthi Rajapaksa.
+
+Chief Incumbent of the Mihintale Raja Maha Viharaya, Ven. Walahahengunawewe Dhammaratana Thera, recently claimed that the former First Lady had been receiving multiple pensions and government payments.
+
+In response to the allegations, the office of the former President clarified that the claims by Ven. Dhammaratana Thera are based on unverified information and hence, these claims are vehemently rejected.
+
+◼️
+
+[Data](articles/56949e4d.json)
+
+---
+
+### ரயிலுடன் மோட்டார் சைக்கிள் மோதியதில் மூவர் பலி
+
+*2024-02-19 16:51:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-மோட்டார்-சைக்கிள்-மோதியதில்-மூவர்-பலி/175-333465) · `ta`
+
+கொழும்பில் இருந்து புத்தளம் நோக்கி பயணித்த புகையிரதத்தில் மோட்டார் சைக்கிள் மோதியதில், மோட்டார் சைக்கிளில் பயணித்த தாய் மற்றும் மகள்கள் இருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+ஆராச்சிக்கட்டுவ மற்றும் அனவிலுந்தவ உப நிலையங்களுக்கு இடையில் மோட்டார் சைக்கிள்  புகையிரதத்துடன் மோதி விபத்துக்கு உள்ளாகியுள்ளது என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3e2f48fe.json)
+
+---
+
+### Gallows for Kotakethana double murderer
+
+*2024-02-19 16:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Gallows-for-Kotakethana-double-murderer/155-277327) · `en`
+
+Ratnapura High Court judge Lanka Jayaratne imposed the death sentence on a convict who was indicted for double murder at Kotakethana in Ratnapura.
+
+Prosecuted entirely based on DNA evidence by Senior Deputy Solicitor General (SDSG) Lakmali Karunanayake, court found accused Neil Lakshman guilty of the murder of a mother and daughter in Kotakethana in 2012.
+
+The accused was indicted for raping the daughter and committing the double murder. According to the evidence the house where the murders were committed was set on fire to destroy all evidence.
+
+The Kotakethana area became notorious for a series of mysterious killings and during the trial it transpired that the multiple murder was also connected to the first ever ‘serial killer’ reported in Sri Lanka.
+
+◼️
+
+[Data](articles/f46ae3ca.json)
+
+---
+
+### இராஜாங்க அமைச்சருக்கு எதிராக  சவப்பெட்டியுடன்  உண்ணாவிரதம்
+
+*2024-02-19 16:34:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சருக்கு-எதிராக-சவப்பெட்டியுடன்-உண்ணாவிரதம்/175-333458) · `ta`
+
+இராஜாங்க அமைச்சர் எஸ்.வியாழேந்திரனின் அதிகார துஷ்பிரயோகத்துக்கு ஆளாகாமல் செங்கலடி பிரதேச செயலாளர் சட்டப்படி தமது கடமையை புரியுமாறும், இராஜாங்க அமைச்சரை ஏறாவூர் பற்று பிரதேச அபிவிருத்தி குழு தலைவர் பதவியை பறிக்குமாறு கோரியும், சவப்பெட்டியுடன் இருவர் உண்ணாவிரத போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+கல், மண் மற்றும் கிறல் அகழ்வில் சட்டரீதியாக ஈடுபட்டு வரும்  இருவரே,  மட்டு- செங்கலடி பிரதேச செயலகத்துக்கு அருகில், சவப்பெட்டியுடன் சாகும்வரை உண்ணாவிரத போரட்டத்தில்,  திங்கட்கிழமை (19) ஈடுபட்டுள்ளனர்.
+
+கல், மண் மற்றும் கிறவல் என்பனவற்றை சட்டரீதியாக அனுமதி பெற்று அகழ்வில் ஈடுபட்டுவருபவர்களின் 2024 ஆண்டு அனுமதியை புதுப்பிக்க இராஜாங்க அமைச்சரின் சிபார்சு இருந்தால் மட்டும் புதுப்பிக்க முடியும் என பிரதேச செயலாளர் அனுமதி பத்திரத்தை புதுப்பிக்க
+
+மறுத்து வருவதை அடுத்தே இராஜாங்க அமைச்சரின் அதிகார துஷ்பிரயோகத்துக்கு எதிர்ப்பு தெரிவித்து இந்த சாகும்வரை உண்ணாவிரத போராட்டத்தினை ஆரம்பித்துள்ளனர்
+
+இது தொடர்பாக உண்ணாவிரத போரட்டத்தில்  ஈடுபட்டு வரும் இருவரும் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில்
+
+...
+
+[Data](articles/939ce024.json)
+
+---
+
+### ’I do associate with President’: Fonseka
+
+*2024-02-19 16:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-do-associate-with-President-Fonseka/108-277326) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - Samagi Jana Balawegaya (SJB) MP Sarath Fonseka said today that he does associate with President Ranil Wickremesinghe, but it is a different kind of relationship.
+
+"It was Ranil who introduced me to politics. Therefore, I do associate with him," Fonseka told journalists.
+
+"I have no intention of joining the National Peoples Power. There is a difference between my politics and theirs," he added.
+
+◼️
+
+[Data](articles/44c82e6b.json)
+
+---
+
+### Health Minister responds to reports on dearth of medical equipment
+
+*2024-02-19 16:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-Minister-responds-to-reports-on-dearth-of-medical-equipment/108-277325) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - Responding to the allegations on the acute shortage of critical medical equipment at government hospitals, Health Minister Dr. Ramesh Pathirana dismissed the claims.
+
+Addressing the media, he stated that they had not received any reports of such cases from hospitals.
+
+Nonetheless, the Minister said the Health Ministry will look into the matter further as there could be shortcomings.
+
+Besides, he said there are no official reports of surgeries being halted due to the unavailability equipment as of now.
+
+Health sector trade unions recently claimed that government hospitals are grappling with an acute shortage of critical medical equipment, including surgical equipment.
+
+However, according to 'Swastha' which is the information management system of the availability of medicinal drugs, there is a significant shortage of stent items including esophageal stent, Double J stent, 3Fr etc.
+
+◼️
+
+[Data](articles/a242af31.json)
+
+---
 
 ### Peasant
 
@@ -201,6 +307,36 @@ Among Sri Lanka and Afghanistan, there was a warm situation near the Dambulla Di
 [Data](articles/fb8ad071.json)
 
 [Extended Data](ext_articles/fb8ad071.ext.json)
+
+---
+
+### Pitipana fisherfolk stage protest...
+
+*2024-02-19 15:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Pitipana-fisherfolk-stage-protest/110-277322) · `en`
+
+Fisherfolk from Pitipana, Negombo staged a protest today outside the Archbishop's House in Colombo, urging the Archbishop of Colombo, Cardinal Malcolm Ranjith to permit them the use of the legally awarded Pitipana Fisheries Harbour. They also presented a petition to the Apostolic Nunciature of the Holy See in Colombo. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/227b9b2d.json)
+
+---
+
+### විශ්ව විද්‍යාල සිසුන් ඉලක්ක කර පවත්වාගෙන ගිය සම්බාහන මධ්‍යස්ථානයක් වටලයි
+
+*2024-02-19 15:23:47* · [`adalk`](https://www.ada.lk/breaking_news/විශ්ව-විද්‍යාල-සිසුන්-ඉලක්ක-කර-පවත්වාගෙන-ගිය-සම්බාහන-මධ්‍යස්ථානයක්-වටලයි/11-408176) · `si`
+
+ආයුර්වේද දෙපාර්තමේන්තුවේ හෝ ප්‍රදේශයේ පළාත් පාලන ආයතනයේ කිසිදු ලියාපදිංචියක් නොමැතිව නීති විරෝධී අයුරින් පවත්වාගෙන ගොස් ඇති මෙම සම්බාහන මධ්‍යස්ථානය වටලන අවස්ථාවේදීද එහි විශ්ව විද්‍යාල සිසුන් සිට පලා
+
+ගොස් ඇති බවට තොරතුරු ලැබී තිබෙන බවද පේරාදෙණිය පොලිසිය කියයි.
+
+එම සම්බාහන මධ්‍යස්ථානයේ සිට ගණිකා වෘත්තියේ යෙදුණු බවට සැක කරන වයස අවුරුදු 25, 28 සහ 30 වයසේ කාන්තාවන් තිදෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර එහි කළමනාකරු පලාගොස් ඇති බවත් ඔහු අත්අඩංගුවට ගැනීම සඳහා පොලිස් විමර්ශන ආරම්භ කොට ඇති බවද පොලිසිය කියයි.
+
+මහනුවර කොට්ඨාශ භාර ජේෂ්ඨ පොලිස් අධිකාරි චමිල් රත්නායක මහතාගේ උපදෙස් පරිදි පේරාදෙණිය පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක විජිත් විජේකෝන් මහතාගේ මෙහෙයවීමෙන් දූෂණ මර්දන අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක කපුකොටුව මහතා ඇතුළු පොලිස් කණ්ඩායමක් වැඩිදුර විමර්ශන සිදු කරයි .
+
+◼️
+
+[Data](articles/d6ab6b33.json)
 
 ---
 
@@ -600,6 +736,22 @@ Health Service Celebrities staged a protest this morning (19) demanding the remo
 
 ---
 
+### ඇමති හරින්ට මරණ දඬුවම දිය යුතුයි - උදය
+
+*2024-02-19 13:44:14* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-හරින්ට-මරණ-දඬුවම-දිය-යුතුයි---උදය/11-408173) · `si`
+
+හරින් ප්‍රනාන්දු ඇමති ඉන්දියාවට ගොස් ලංකාව ඉන්දියාවේ කොටසක් බවට ප්‍රකාශ කර තිබූ බැවැින් එය  සෘජුවම ශ්‍රී ලංකාවේ ස්වෛරීත්වය හා ස්වාධීනත්වය උල්ලංඝණය කිරීමක් බව උදය ගම්මන්පිල මහතා මාධ්‍ය හමුවකට ඒක්වෙමින්  අද (19) කියා සිටයේය.
+
+මේ ප්‍රකාශය එක පැත්තකින් ඇමතිවරයෙකු ලෙස පත්වීම ලබා ගැනීමට පෙර ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ලබා දුන්නු දිවුරුම උල්ලංඝණය කිරීමක්.  ඒ අනුව හරින් ඇමතිතුමා තවදුරටත් ඇමති ධූරය දැරීමට නුසුදුස්සෙකු වෙනවා.  අනිත් පැත්තෙන් අපේ රට තවත් රටකට ඈඳීමට කටයුතු කිරීම රාජද්‍රෝහි ක්‍රියාවක්.  රාජද්‍රෝහි කියන්නේ සිය රාජ්‍යයට ද්‍රෝහිවීම මිස රජතුමෙකුට ද්‍රෝහිවීම නොවේ.
+
+අපේ දණ්ඩ නීති සංග්‍රහයේ රාජද්‍රෝහිත්වයට නියම කරලා තිබෙන දඬුවම මරණ දඬුවම.  සරලව කිව්වොත් හරින් ප්‍රනාන්දු ඇමතිවරයා කරලා තිබෙන්නේ මරණ දඬුවම ලබා දිය හැකි වරදක්.
+
+◼️
+
+[Data](articles/2027eaa3.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-02-19 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176751) · `ta`
@@ -718,6 +870,24 @@ Although it is the Rajapaksas that nominated – and are propping up – their s
 
 ---
 
+### ඉතාලි සංචාරක යුවළක් ගමන් ගත් මෝටර් රථය අධිවේගයේ අනතුරක
+
+*2024-02-19 13:15:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉතාලි-සංචාරක-යුවළක්-ගමන්-ගත්-මෝටර්-රථය-අධිවේගයේ-අනතුරක/11-408170) · `si`
+
+ඉතාලි ජාතික සංචාරක යුවළක් රැගත් සුඛෝභෝගී මෝටර් රථයක් දක්ෂිණ අධිවේගී මාර්ගයේ කොට්ටාව පිවිසුම ආසන්නයේදී  ආරක්ෂිත වැටේ ගැටීමෙන් එම යුවළ ඇතුළු රියදුරු තුවාල ලබා හෝමාගම මූලික රෝහල වෙත ඇතුලත් කර ඇතැයි අධිවේගී රථවාන පොලිසිය කියයි.
+
+අනතුරින් තුවාල ලබා ඇත්තේ වයස අවුරුදු 74 හා 76 වයස්වල පසුවන සංචාරක යුවළ සහ වයස අවුරුදු 42 ක් වන රියදුරුය.
+
+ඉකුත් ජනවාරි 24 වෙනි දින මෙරට සංචාරයක් සඳහා පැමිණ තිබූ ඉතාලි ජාතික යුවළ හික්කඩුව ප්‍රදේශයේ සංචාරක හෝටලයක නැවතී සිට මෙරට සිරි නරඹා පෙරේදා (18) රාත්‍රී යළි මව් රටට යාම සඳහා  හික්කඩුව ප්‍රදේශයේ සංචාරක සමාගමකින් සුඛෝභෝගී මෝටර් රථයක් ඇනයුම්කර එමගින් කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ කරා යමින් සිටියදී මෙම අනතුර වී තිබූ බව පොලිසිය කියයි.
+
+සුඛෝපභෝගී මෝටර් රථයේ රියැදුරු  එකවරම අපරීක්ෂාකාරී ලෙස මෝටර් රථය වම් අත දිශාවට හැරවීම හේතුවෙන්   ආරක්ෂිත වැටෙහි මුල්ලේ මෝටර් රථය ගැටී මෙම අනතුර වී තිබූ බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/1920ae95.json)
+
+---
+
 ### Apply directly to respective schools, excluding grades 1, 5, 6, and A/L
 
 *2024-02-19 13:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apply-directly-to-respective-schools-excluding-grades-1-5-6-and-AL/108-277317) · `en`
@@ -815,6 +985,24 @@ According to the relevant gazette, published by President Ranil Wickremesinghe i
 [Data](articles/c8e31374.json)
 
 [Extended Data](ext_articles/c8e31374.ext.json)
+
+---
+
+### 19 හැවැරිදි තරුණියට ලිංගික අතවර කළැයි 15 හැවැරිදි පාසල් සිසුවා අත්අඩංගුවට
+
+*2024-02-19 13:07:29* · [`adalk`](https://www.ada.lk/breaking_news/19-හැවැරිදි-තරුණියට-ලිංගික-අතවර-කළැයි-15-හැවැරිදි-පාසල්-සිසුවා-අත්අඩංගුවට/11-408168) · `si`
+
+19 හැවිරිදි  තරුණියකට ලිංගික අතවර කළ බව කියන 15 හැවිරිදි  පාසල් සිසුවෙකු අත්අඩංගුවට ගත් බව කළුතර උතුර පොලිසිය කියයි.
+
+19 හැවිරිදි  තරුණියගේ මව පොලිසියට පැමිණ සිදුකළ පැමිණිල්ලකට අනුව සැකකාර සිසුවා අත්අඩංගුවට ගෙන ඇත.
+
+පැමිණිල්ල සහ විත්ති පාර්ශවයේ නිවාස එකම ප්‍රදේශයක පිහිටා තිබෙන අතර කලක සිට පැවතෙන ආරවුලක් මෙම සිද්ධියට හේතු වී ඇති බව පොලිසිය කියයි.
+
+කළුතර උතුර පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂකත් දමිත් ජයතිලක මහතාගේ උපදෙස් මත පර්යේෂණ පැවැත්වේ.
+
+◼️
+
+[Data](articles/52ed7610.json)
 
 ---
 
@@ -1785,233 +1973,5 @@ There is simmering tension against the Economic and Technology Cooperation Agree
 [Data](articles/10b7e74a.json)
 
 [Extended Data](ext_articles/10b7e74a.ext.json)
-
----
-
-### The first installment of the school begins today
-
-*2024-02-19 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176722) · `ta`
-
-The first installment for educational activities of state schools and private schools recognized by the state began today (19).
-
-The third term of schools ended on the 16th. The 3rd installment holiday for 2023 was issued from December 22 to February 2.
-
-In addition, the Ministry of Education has taken steps to revamp the school installments that have been changed due to the spread of the Kovit infection.
-
-◼️
-
-[Data](articles/3d3368c9.json)
-
-[Extended Data](ext_articles/3d3368c9.ext.json)
-
----
-
-### Wife dies after husband's attack
-
-*2024-02-19 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193565) · `si`
-
-Welimada Diarabawatta has found a woman from a woman in a house area in the Uddas area.
-
-◼️
-
-[Data](articles/32cbe591.json)
-
-[Extended Data](ext_articles/32cbe591.ext.json)
-
----
-
-### "President Ranil Wickremesinghe is not cunning"
-
-*2024-02-19 08:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணில்-விக்கிரமசிங்க-தந்திரமானவர்-அல்ல/175-333421) · `ta`
-
-NPP leader Anura Kumara Dissanayake, who said that President Ranil Wickremesinghe is not as tricky, said he would go home before the end of his tenure if he wanted to postpone the presidential election.
-
-Speaking at the Kurunegala District Women's Conference, she said that a new debate had arisen for the abolition of the executive presidency.
-
-Some say that Ranil is cunning. He became president in a single seat in Parliament. The president will do something to escape the election. Ranil is not as tricky as it says. He would have to go home before that.
-
-Ranil can be the president only because Sajith Premadasa rejected the request of Gotabhaya Rajapakse, who would be sworn in as president if he tried to escape the presidential election.
-
-Otherwise Ranil will now be just an MP. Sarath Fonseka then took office as president. Bansha needed three days to make a decision. Gotabaya did not delay three days. He asked Ranil as the third choice.
-
-...
-
-[Data](articles/6fef2871.json)
-
-[Extended Data](ext_articles/6fef2871.ext.json)
-
----
-
-### "President Ranil Wickremesinghe is not cunning"
-
-*2024-02-19 08:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-ரணில்-விக்கிரமசிங்க-தந்திரமானவர்-அல்ல/150-333421) · `ta`
-
-NPP leader Anura Kumara Dissanayake, who said that President Ranil Wickremesinghe is not as tricky, said he would go home before the end of his tenure if he wanted to postpone the presidential election.
-
-Speaking at the Kurunegala District Women's Conference, she said that a new debate had arisen for the abolition of the executive presidency.
-
-Some say that Ranil is cunning. He became president in a single seat in Parliament. The president will do something to escape the election. Ranil is not as tricky as it says. He would have to go home before that.
-
-Ranil can be the president only because Sajith Premadasa rejected the request of Gotabhaya Rajapakse, who would be sworn in as president if he tried to escape the presidential election.
-
-Otherwise Ranil will now be just an MP. Sarath Fonseka then took office as president. Bansha needed three days to make a decision. Gotabaya did not delay three days. He asked Ranil as the third choice.
-
-...
-
-[Data](articles/d1ef2064.json)
-
-[Extended Data](ext_articles/d1ef2064.ext.json)
-
----
-
-### "Doctor Bellana should resign"
-
-*2024-02-19 08:02:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-பெல்லனா-பதவி-விலக-வேண்டும்/175-333420) · `ta`
-
-The Deputy Director of the Colombo National Hospital has urged the Joint Health Ministry of the Trade Unions to remove the post of Dr. Rukshan Bellana from office.
-
-Speaking to the Daily Mirror, Ravi Kumudesh, the president of the Health Experts Federation, said, "Dr. Bellana has strongly criticized small workers' involvement in the recent strike by health trade unions to discredit health workers.
-
-"It is not appropriate to be in office (Bellana), because he downgraded the health workers and discredit their rules and raise the tension to the boil," he said.
-
-"So, we will continue to pressure the authorities in the form of a series of struggles until Bellana is removed," he added.
-
-Friday (Pip. 16) The situation intensified as Dr. Bellana was forcibly detained at his office at the National Hospital in Colombo.
-
-◼️
-
-[Data](articles/dae88b23.json)
-
-[Extended Data](ext_articles/dae88b23.ext.json)
-
----
-
-### Today's weather forecasts
-
-*2024-02-19 07:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-எதிர்வுகூறல்கள்/175-333419) · `ta`
-
-The Department of Meteorology has said that there will be some rainfall in the Eastern and Uva provinces.
-
-Some parts of the Sabaragamuwa Province are likely to experience rain or thunderstorm after four o'clock in the afternoon.
-
-Heavy winds are expected to blow at a speed of about 30 - 35 km / h in the Eastern slopes of the Central Highlands and the North, Eastern, North Western, Southern and Uva Provinces as well as in the Matale and Kandy districts.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Winds from the northeast at 25 - 30 km / h in the sea regions.
-
-From Galle to Hambantota, Pottuvil, and in the sea areas along the coast of Kankesanthurai from Colombo to Puttalam, 45 - 55 kilometers per hour. In these cases, these sea regions are turbulent.
-
-◼️
-
-[Data](articles/180fe6b4.json)
-
-[Extended Data](ext_articles/180fe6b4.ext.json)
-
----
-
-### Specialistic Committee conducted 9-member medical committee to investigate Keheliya
-
-*2024-02-19 07:55:28* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-ගැන-පරීක්ෂණයක්-කරන්න-9-දෙනෙකුගෙන්-යුත්-විශේෂඥ-වෛද්‍ය-කමිටුවක්/11-408159) · `si`
-
-Ms. Luchan Abeywickrama Weerasinghe was appointed to appoint a medical board of nine specialists to investigate the medical conditions of former Health Minister Keheliya Rambukwella.
-
-Former Health Minister Keheliya Rambukwella, Deputy Solicitor General, a request made by the Deputy Solicitor General, has accepted a request to promptly investigate the investigation.
-
-The Magistrate also added to the Director General of Health Services to include specialized medical doctors to investigate heart disease.
-
-The Magistrate also organized the Director General of Health Services to submit a report to the court on the 26th of this month.
-
-Criminal police dollar bread and distribution of prizes to the government hospitals used by the 'Emiyankin' used for the neurosuglobin.Keheliya Rambukwella who was arrested on the 15th and said that he should be produced in court on the 15th to the judiciary he could not be produced before the courts.He was submitted by the doctor of the doctor at the hospital.
-
-...
-
-[Data](articles/eaa13df2.json)
-
-[Extended Data](ext_articles/eaa13df2.ext.json)
-
----
-
-### Final decision on health strike
-
-*2024-02-19 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193564) · `si`
-
-Health Trade Unions are scheduled to hold a discussion with Health Minister Dr. Ramesh Pathirana today (19).
-
-The Health Trade Union Alliance said that the discussion will be held at 10.00 am today.
-
-The health career has recently commissioned the workforce by 72 trade unions of the health service, protesting to increase the allowances only.
-
-The Co-convener of the UPFA, Ravi Kudmith, said that if he was not resolved for his problems with Health Minister Dr. Ramesh Pathirana, he said.
-
-The strike was temporarily suspended on a written promise that the Minister was given a meeting with the Minister.
-
-◼️
-
-[Data](articles/69e24815.json)
-
-[Extended Data](ext_articles/69e24815.ext.json)
-
----
-
-### Anura will tell what else to President
-
-*2024-02-19 07:50:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-කල්-දැම්මොත්-ජනපතිට-වෙන-දේ-අනුර-කලින්ම-කියයි/11-408158) · `si`
-
-Leader of the National Zoology Anura Kumara Dissanayake said that if the President to postpone the presidential election, he said.
-
-He said that the oldest escaped political system should be changed and the leading charge of changing it is to women.
-
-He was speaking at the Kurunegala District's Conference of the Kurunegala District of the Kurunegala District yesterday.
-
-Dissanayake said that the national atology is ready to proceed to build the country from the destruction of the country.
-
-A large number of women in the Kurunegala District were present at the Kurunegala District and the leaders of the national popularity were also present.
-
-◼️
-
-[Data](articles/72012a74.json)
-
-[Extended Data](ext_articles/72012a74.ext.json)
-
----
-
-### TN Police intercept cannabis consignment bound for Sri Lanka, three held
-
-*2024-02-19 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97380/tn-police-intercept-cannabis-consignment-bound-for-sri-lanka-three-held) · `en`
-
-With the arrest of three people from Nagapattinam district, Tamil Nadu Police on Sunday claimed to have seized over 364 kg of ganja which was meant to be smuggled to Sri Lanka.
-
-The arrested persons have been identified as K. Sathiyaseelan (37) who hails from Velankanni, M. Mahendran (38) from Naluvedhapathi and T. Sugumar (29) of Pushpavanam.
-
-Nagapattinam Superintendent of Police, Harsh Singh told IANS that the accused were planning to smuggle ganja to Sri Lanka through the sea route using the fibre glass boat that was seized.
-
-Vettaikaraniruppu Police have registered a case against the three accused under the Narcotic Drugs and Psychotropic Substances (NDPS) Act.
-
-◼️
-
-[Data](articles/a6d0c40c.json)
-
-[Extended Data](ext_articles/a6d0c40c.ext.json)
-
----
-
-### Agriculture Conference Today
-
-*2024-02-19 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193563) · `si`
-
-The 37th Asia Pacific Regional Conference of the United Nations will commence in Colombo today (19).
-
-Representatives from 42 countries in the Asia Pacific region are due to attend the conference.
-
-The Ministry of Agriculture said that more than 300 officers, deputy ministers, as well as the officers and officers participating in 35 countries.
-
-The Director General of the United Nations Food and Agriculture Organization, a group of top officials including Kearu Donghygu will also join the conference.
-
-◼️
-
-[Data](articles/3cc29ca4.json)
-
-[Extended Data](ext_articles/3cc29ca4.ext.json)
 
 ---

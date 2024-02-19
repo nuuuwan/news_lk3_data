@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 15:33:04**
+As of **2024-02-19 15:51:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,174
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,999 (100.0%) of 8,003 articles have been extended.
+8,003 (100.0%) of 8,003 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Accordingly, the accused, Neil Lakshman, was sentenced to death over the double 
 ◼️
 
 [Data](articles/c0721eea.json)
+
+[Extended Data](ext_articles/c0721eea.ext.json)
 
 ---
 
@@ -81,6 +83,8 @@ Police investigations revealed that the WPC had been sexually abused while she w
 ◼️
 
 [Data](articles/f574e0c9.json)
+
+[Extended Data](ext_articles/f574e0c9.ext.json)
 
 ---
 
@@ -122,6 +126,8 @@ The unions have been demanding a similar increased allowance to the Disturbance,
 
 [Data](articles/75a75f9c.json)
 
+[Extended Data](ext_articles/75a75f9c.ext.json)
+
 ---
 
 ### Presidential candidates urged to abolish Provincial Councils
@@ -137,6 +143,8 @@ The organisation proposed to abolish Provincial Councils and set up district cou
 ...
 
 [Data](articles/f87f44c1.json)
+
+[Extended Data](ext_articles/f87f44c1.ext.json)
 
 ---
 

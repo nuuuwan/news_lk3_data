@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 08:50:43**
+As of **2024-02-19 09:02:38**
 
 ## Newspaper Stats
 
-*Scraped **7,919** Articles*
+*Scraped **7,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 404
 islandlk | 420
 dailyftlk | 434
 adalk | 672
-tamilmirrorlk | 961
+tamilmirrorlk | 962
 adaderanalk | 970
 virakesarilk | 1,045
 adaderanasinhalalk | 1,145
@@ -26,15 +26,37 @@ dailymirrorlk | 1,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,912 (99.9%) of 7,919 articles have been extended.
+7,919 (100.0%) of 7,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### ”ஜனாதிபதி ரணில் விக்கிரமசிங்க தந்திரமானவர் அல்ல”
+### "President Ranil Wickremesinghe is not cunning"
 
 *2024-02-19 08:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணில்-விக்கிரமசிங்க-தந்திரமானவர்-அல்ல/175-333421) · `ta`
+
+NPP leader Anura Kumara Dissanayake, who said that President Ranil Wickremesinghe is not as tricky, said he would go home before the end of his tenure if he wanted to postpone the presidential election.
+
+Speaking at the Kurunegala District Women's Conference, she said that a new debate had arisen for the abolition of the executive presidency.
+
+Some say that Ranil is cunning. He became president in a single seat in Parliament. The president will do something to escape the election. Ranil is not as tricky as it says. He would have to go home before that.
+
+Ranil can be the president only because Sajith Premadasa rejected the request of Gotabhaya Rajapakse, who would be sworn in as president if he tried to escape the presidential election.
+
+Otherwise Ranil will now be just an MP. Sarath Fonseka then took office as president. Bansha needed three days to make a decision. Gotabaya did not delay three days. He asked Ranil as the third choice.
+
+...
+
+[Data](articles/6fef2871.json)
+
+[Extended Data](ext_articles/6fef2871.ext.json)
+
+---
+
+### ”ஜனாதிபதி ரணில் விக்கிரமசிங்க தந்திரமானவர் அல்ல”
+
+*2024-02-19 08:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-ரணில்-விக்கிரமசிங்க-தந்திரமானவர்-அல்ல/150-333421) · `ta`
 
 ஜனாதிபதி ரணில் விக்கிரமசிங்க கூறுவது போல் தந்திரமானவர் அல்ல என்று கூறிய NPP தலைவர் அநுரகுமார திஸாநாயக்க, எந்த வகையிலும் ஜனாதிபதி தேர்தலை பிற்போட நினைத்தால் தனது பதவிக்காலம் முடிவதற்கு முன்னரே, அவர் வீட்டிற்குச் செல்ல நேரிடும் என இன்று தெரிவித்தார்.
 
@@ -46,65 +68,75 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/6fef2871.json)
+[Data](articles/d1ef2064.json)
 
 ---
 
-### ”வைத்தியர் பெல்லனா பதவி விலக வேண்டும்”
+### "Doctor Bellana should resign"
 
 *2024-02-19 08:02:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-பெல்லனா-பதவி-விலக-வேண்டும்/175-333420) · `ta`
 
-கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லானாவை பதவியிலிருந்து நீக்குமாறு சுகாதாரத் துறையை பிரதிநிதித்துவப்படுத்தும் தொழிற்சங்கங்களின் கூட்டு சுகாதார அமைச்சிடம் வலியுறுத்தியுள்ளது.
+The Deputy Director of the Colombo National Hospital has urged the Joint Health Ministry of the Trade Unions to remove the post of Dr. Rukshan Bellana from office.
 
-டெய்லி மிரரிடம் பேசிய சுகாதார வல்லுநர்கள் கூட்டமைப்பின் தலைவர் ரவி குமுதேஷ், சுகாதார ஊழியர்களை இழிவுபடுத்தும் வகையில், சுகாதாரத் தொழிற்சங்கங்களால் சமீபத்தில் நடத்தப்பட்ட வேலைநிறுத்தத்தில் சிறு பணியாளர்கள் ஈடுபட்டமையை வைத்தியர் பெல்லனா கடுமையாக விமர்சித்தார்.
+Speaking to the Daily Mirror, Ravi Kumudesh, the president of the Health Experts Federation, said, "Dr. Bellana has strongly criticized small workers' involvement in the recent strike by health trade unions to discredit health workers.
 
-"அவர் (பெல்லானா) பதவியில் இருப்பது பொருத்தமானது அல்ல, ஏனெனில் அவர் சுகாதார ஊழியர்களை கீழே இறக்கி, அவர்களின் விதிகளை இழிவுபடுத்தினார், பதட்டத்தை கொதிநிலைக்கு உயர்த்தினார்," என்று அவர் கூறினார்.
+"It is not appropriate to be in office (Bellana), because he downgraded the health workers and discredit their rules and raise the tension to the boil," he said.
 
-"எனவே, பெல்லனாவை அகற்றும் வரை, தொடர்ச்சியான போராட்டங்கள் வடிவில் அதிகாரிகளுக்கு நாங்கள் தொடர்ந்து அழுத்தம் கொடுப்போம்" என்று அவர் மேலும் கூறினார்.
+"So, we will continue to pressure the authorities in the form of a series of struggles until Bellana is removed," he added.
 
-வெள்ளிக்கிழமை (பிப். 16) கொழும்பில் உள்ள தேசிய மருத்துவமனையில் எதிர்ப்புத் தெரிவித்த சிற்றூழியர்கள் வைத்தியர் பெல்லானாவை அவரது அலுவலகத்தில் பலவந்தமாக அடைத்து வைத்ததால் நிலைமை தீவிரமடைந்தது.
+Friday (Pip. 16) The situation intensified as Dr. Bellana was forcibly detained at his office at the National Hospital in Colombo.
 
 ◼️
 
 [Data](articles/dae88b23.json)
 
+[Extended Data](ext_articles/dae88b23.ext.json)
+
 ---
 
-### இன்றைய வானிலை எதிர்வுகூறல்கள்
+### Today's weather forecasts
 
 *2024-02-19 07:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-எதிர்வுகூறல்கள்/175-333419) · `ta`
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களில் சிறிதளவு மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has said that there will be some rainfall in the Eastern and Uva provinces.
 
-சப்ரகமுவ மாகாணத்தின்  சில இடங்களில்  பிற்பகல் நான்கு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+Some parts of the Sabaragamuwa Province are likely to experience rain or thunderstorm after four o'clock in the afternoon.
 
-மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும், வடக்கு, கிழக்கு, வடமத்திய, வடமேல்,தென் மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் மாத்தளை மற்றும் கண்டி மாவட்டங்களிலும் மணித்தியாலத்திற்கு சுமார் 30 ‐ 35 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும் என எதிர்பார்க்கப்படுகிறது.
+Heavy winds are expected to blow at a speed of about 30 - 35 km / h in the Eastern slopes of the Central Highlands and the North, Eastern, North Western, Southern and Uva Provinces as well as in the Matale and Kandy districts.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+The public is asked to act with vigilance in the events of strong winds and lightning.
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 25 - 30 கிலோமீற்றர் வேகத்தில் வடகிழக்குத்  திசையில் இருந்து  காற்று வீசும்.
+Winds from the northeast at 25 - 30 km / h in the sea regions.
 
-...
+From Galle to Hambantota, Pottuvil, and in the sea areas along the coast of Kankesanthurai from Colombo to Puttalam, 45 - 55 kilometers per hour. In these cases, these sea regions are turbulent.
+
+◼️
 
 [Data](articles/180fe6b4.json)
 
+[Extended Data](ext_articles/180fe6b4.ext.json)
+
 ---
 
-### කෙහෙළිය ගැන පරීක්ෂණයක් කරන්න 9 දෙනෙකුගෙන් යුත් විශේෂඥ වෛද්‍ය කමිටුවක්
+### Specialistic Committee conducted 9-member medical committee to investigate Keheliya
 
 *2024-02-19 07:55:28* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-ගැන-පරීක්ෂණයක්-කරන්න-9-දෙනෙකුගෙන්-යුත්-විශේෂඥ-වෛද්‍ය-කමිටුවක්/11-408159) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ලගේ රෝගී තත්වයන් සම්බන්ධයෙන් පරීක්‍ෂණයක් පැවැත්වීම සඳහා විශේෂඥ වෛද්‍යවරුන් 09 දෙනෙකුගෙන් යුත් වෛද්‍ය මණ්ඩලයක් පත් කරන ලෙස මාලිගාක්නද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මිය සෞඛ්‍ය සේවා අධ්‍යක්‍ෂ ජනරාල්වරයාට නියම කළාය.
+Ms. Luchan Abeywickrama Weerasinghe was appointed to appoint a medical board of nine specialists to investigate the medical conditions of former Health Minister Keheliya Rambukwella.
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල නමැත්තා අධිකරණයට ඉදිරිපත් කිරීමට නොහැකි වන ආකාරයේ රෝගී තත්වයන් ඇති වීම සම්බන්ධයෙන් වහාම පරීක්‍ෂණයක් පවත්වන්නැයි මෝෂමක් මාර්ගයෙන් නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මෙනවිය කළ ඉල්ලීමක් පිළිගනිමින් මහෙස්ත්‍රාත්වරිය එලෙස නියම කළාය.
+Former Health Minister Keheliya Rambukwella, Deputy Solicitor General, a request made by the Deputy Solicitor General, has accepted a request to promptly investigate the investigation.
 
-කෙහෙළිය රඹුක්වැල්ල නමැත්තාගේ රෝගී තත්වයන් සම්බන්ධයෙන් පරීක්‍ෂණ පවත්වන විශේෂඥ වෛද්‍ය මණ්ඩලයට හෘද රෝග” විකලාංග රෝග” පෙනහ`ථ රෝග” සම්බන්ධයෙන් විශේෂඥ දැනුම සහිත වෛද්‍යවරුන් ඇතුලත් කරන ලෙසද මහේස්ත්‍රාත්වරිය සෞඛ්‍ය සේවා අධ්‍යක්‍ෂ ජනරාල්වරයාට වැඩිදුරටත් නියම කළාය.
+The Magistrate also added to the Director General of Health Services to include specialized medical doctors to investigate heart disease.
 
-කෙහෙළිය රඹුක්වැල්ල නමැත්තාගේ රෝගී තත්වයන් සම්බන්ධයෙන් පරීක්‍ෂණ පවත්වා ලබන 26 වැනිදා වන විට අධිකරණයට වාර්තාවක් ඉදිරිපත් කරවීමට පියවර ගන්නා ලෙසද මහේස්ත්‍රාත්වරිය සෞඛ්‍ය සේවා අධ්‍යක්‍ෂ ජනරාල්වරයාට නියම කළාය.
+The Magistrate also organized the Director General of Health Services to submit a report to the court on the 26th of this month.
+
+Criminal police dollar bread and distribution of prizes to the government hospitals used by the 'Emiyankin' used for the neurosuglobin.Keheliya Rambukwella who was arrested on the 15th and said that he should be produced in court on the 15th to the judiciary he could not be produced before the courts.He was submitted by the doctor of the doctor at the hospital.
 
 ...
 
 [Data](articles/eaa13df2.json)
+
+[Extended Data](ext_articles/eaa13df2.ext.json)
 
 ---
 
@@ -123,6 +155,8 @@ Vettaikaraniruppu Police have registered a case against the three accused under 
 ◼️
 
 [Data](articles/a6d0c40c.json)
+
+[Extended Data](ext_articles/a6d0c40c.ext.json)
 
 ---
 
@@ -932,23 +966,25 @@ These two tasks are incomplete, and the responsibility of providing elegant repr
 
 ---
 
-### மின் தேவை அதிகரிப்பு
+### Increase in demand
 
 *2024-02-19 00:18:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-தேவை-அதிகரிப்பு/175-333418) · `ta`
 
-தற்போது நிலவும் வறட்சி காரணமாக நாளாந்த மின்சாரத்திற்கான தேவை 3 முதல் 4 ஜிகாவாட் வரை அதிகரித்துள்ளது.
+Due to the prevailing drought, the demand for daily electricity has increased from 3 to 4 Gigawat.
 
-இந்த நாட்களில் நீர் மின் உற்பத்தி 21 வீதமாகக் குறைந்துள்ளதாக இலங்கை மின்சார சபையின் ஊடகப்பேச்சாளர் நோயல் பிரியந்த தெரிவித்தார்.
+The Ceylon Electricity Board (CEB) spokesman Noel Priyantha said that hydroelectricity has fallen by 21 percent these days.
 
-தற்போது நீர் மின்னுற்பத்தி நிலையங்களுடன் தொடர்புடைய நீர்த்தேக்கங்களின் கொள்ளளவு 83 சதவீதமாக உள்ளதாகவும் அவர் கூறினார்.
+He said that the capacity of the reservoirs related to water power stations is 83 percent.
 
-இதேவேளை, சூரியசக்தி மூலம் 4.5 வீத மின்சாரம் உற்பத்தி செய்யப்படுகிறது. காற்றாலை மூலம் 5 வீத மின்சாரம் உற்பத்தியாகின்றது. 64 வீத மின்சாரம் அனல் மின் உற்பத்தி மூலம் பெறப்படுகின்றது.
+Meanwhile, 4.5 percent of electricity is generated by solar power. 5 percent of electricity produced by windmill. 64 percent of electricity is obtained by power generation.
 
-இதனால் மின்சாரத்தை சிக்கனமாக பயன்படுத்துமாறு இலங்கை மின்சார சபை மக்களுக்கு அறிவுறுத்தியுள்ளது. (a)
+The Ceylon Electricity Board (CEB) has advised the people to use electricity efficiently. (A)
 
 ◼️
 
 [Data](articles/920f6a60.json)
+
+[Extended Data](ext_articles/920f6a60.ext.json)
 
 ---
 
@@ -1508,19 +1544,25 @@ According to the NCS, the tremors were felt at about 4:50 pm. The depth of the q
 
 ---
 
-### කුඩු සළිඳුගේ ඥාති සහෝදරියක් අත්අඩංගුවට
+### Kudu Premaduwa's cousin arrested
 
 *2024-02-18 19:03:14* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සළිඳුගේ-ඥාති-සහෝදරියක්-අත්අඩංගුවට/11-408157) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව රැඳවුම් නියෝග යටතේ අත්අඩංගුවේ පසුවන මහා පරිමාණ මත්ද්‍රව්‍ය ජාවරංකරුවෙකු හා සංවිධානාත්මක අපරාධකරුවෙකු වන පානදුර කුඩු සලිඳුගේ මත්ද්‍රව්‍ය ජාලය ඩුබායි සිට මෙහෙයවන  අසිත නමැත්තාගේ ඥාති සහෝදරියක් වන පැට්ටා නමැත්තිය හොරයින් මත්කුඩු මිලිග්‍රෑම් 10571 ක් ජාවාරමින් උපයාගත් රුපියල් 22 ලක්ෂ 47,450 ක් සමඟ පානදුර මහවිල මාදුපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව පානදුර වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බලකාය කියයි.
+Panadura Kudu Seykara's drug network from Dubai, Panadura, a large number of drugs from Dubai has been arrested by a large number of drugs from Dubai, a large number of drugs from Dubai, a large number of drugs from Dubai.The Panadura Walana Walana is the Central Corruption Power Force.
 
-සැකකාරිය විකිණීම සඳහා මත්ද්‍රව්‍ය රැගෙන එන බවට පානදුර වළාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බලකායේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඉන්දික වීරසිංහ මහතාට ලද තොරතුරකට අනුව  පොලිස් සැරයන් 428 ජයලාල් මහතා ඇතුළු බුද්ධි නිලධාරීන් යොදවා   අනාවරණය කර ගත් තොරතුරු අනුව  මෙම වැටලීම සිදු කර ඇත.
+The raid was carried out by the Chief Inspector Indika Weerasinghe, the Chief Inspector Indika Weerasinghe, who was deployed by 428 Police Sergeant to bring drugs to sell the suspect.
 
-සැකකාරිය මහවිල මාදුපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගැනීමෙන් අනතුරුව පොලිස් කාන්තාවක් ලවා සැකකාරිය පරික්ෂා කිරීමේදී රහස් ප්‍රදේශයේ සඟවා තිබූ මෙම හොරෙන් මත්ද්‍රව්‍ය ප්‍රමාණය සොයා ගැනීමට හැකි වූ බව පොලිසිය කියයි.
+The suspect was arrested by the Mahawila in the Madatupitiya area in Mahawapitiya and was found in the secret area.
+
+Police say that four large number of dogs, specially trained in the house, has also been protected to carry out the drug trafficking in the house, especially trained, specially trained in the house.
+
+In addition, police officers were traveled from a distance from a distance and to the fall of the house to prevent the immediate rescue home.
 
 ...
 
 [Data](articles/b57ef69b.json)
+
+[Extended Data](ext_articles/b57ef69b.ext.json)
 
 ---
 
@@ -2031,29 +2073,5 @@ In August 2023, Foreign Minister Ali Sabry had bilateral discussions with Foreig
 [Data](articles/ea662123.json)
 
 [Extended Data](ext_articles/ea662123.ext.json)
-
----
-
-### Two youth dies after two motorcycles collide
-
-*2024-02-18 15:35:35* · [`adalk`](https://www.ada.lk/breaking_news/යතුරු-පැදි-දෙකක්-ගැටී-තරුණයන්-දෙදෙනෙක්-මරුට/11-408152) · `si`
-
-Maharagama Police say two (19) of two (19) motorcycles at the Neembarama Junction on Piliyandala - Maharagama main bus route
-
-The deceased has been identified as a resident of Piliyandala Road, a resident of Piliyandala Road, Arawwala, a resident of Pannipitiya, police said.
-
-The Colombo Police Station (Colombo-Police) unit has been admitted to the Inquiry Unit of the Colombo South.
-
-Troops of the motorcycle from the Matara main bus route to the Neelamma Maharagama, Maharagama and the two youths from the Maharagama route to Maharagama.The accident had occurred when the Piliyandala has collapsed at Piliyandala, Maharagama.
-
-The residents of the area were taken to the Kalubowila Suwaband to treat the injuries as the accident occurred.
-
-Motorcycle Drivers have been convened when the drivers were drunk at the hospital, he was killed and the other was admitted to the hospital, he was identified to be admitted to the hospital.
-
-...
-
-[Data](articles/7ff722fc.json)
-
-[Extended Data](ext_articles/7ff722fc.ext.json)
 
 ---

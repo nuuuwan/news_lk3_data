@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 21:33:12**
+As of **2024-02-19 21:52:28**
 
 ## Newspaper Stats
 
-*Scraped **8,078** Articles*
+*Scraped **8,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 419
 islandlk | 422
 dailyftlk | 434
-adalk | 691
+adalk | 693
 tamilmirrorlk | 979
 adaderanalk | 984
 virakesarilk | 1,078
@@ -26,11 +26,35 @@ dailymirrorlk | 1,188
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,078 (100.0%) of 8,078 articles have been extended.
+8,080 (100.0%) of 8,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Motor Train Train mother, son, son and daughter to death
+
+*2024-02-19 20:56:25* · [`adalk`](https://www.ada.lk/breaking_news/යතුරු-පැදිය-දුම්රියේ-ගැටි-මව-පුතු-හා-දියණිය-එම-ස්ථානයෙදීම-මරණයට/11-408182) · `si`
+
+Arachchikattuwa Police say that a motorcycle train from Colombo to Puttalam from Colombo to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam from Colombo to Puttalam.
+
+The deceased has been identified as 37-year-old AM Senita and her eldest son, 9, 9, a 9-year-old dawis, a 9-year-old dawn, Nivwindi, the 8-year-old dawn of the 8th.
+
+The train is killed in the motorcycle to bring the daughter's outward tuition in Miaia and returning to the architecture of the area.
+
+The mother of the mother of the train had been bodied into the area nearly 300 miters, police investigations have revealed that the deaths were killed in the accident.
+
+The railway watch on the railway crossing is a few weeks and the watchman has been informed of the train authorities before leaving the service previously.
+
+However, there have been no longer directed by the train secretaries that the train authorities have not taken the railway crossing on the occasion.
+
+...
+
+[Data](articles/ea83808e.json)
+
+[Extended Data](ext_articles/ea83808e.ext.json)
+
+---
 
 ### Sri Lanka's powerful attack
 
@@ -285,6 +309,26 @@ In a statement, he said Sri Lanka and Russia have enjoyed longstanding and stron
 [Data](articles/8aee2c47.json)
 
 [Extended Data](ext_articles/8aee2c47.ext.json)
+
+---
+
+### Special committee to consider the proposals of the Health Trade Trade Trade Trade Trade Trade Trade Trade Trade Trade
+
+*2024-02-19 18:37:56* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-වෘත්තිය-සමිති-සන්ධානයේ-යෝජනා-සළකා-බැලීමට-විශේෂ-කමිටුවක්/11-408178) · `si`
+
+Health and Industry Minister Dr. Ramesh Pathirana and Health Trade Union Alliance held at the Ministry of Health today (19).
+
+The Health Minister said that the Ministry of Health is the Ministry of Health to provide a proposal to the Ministry of Health and the Ministry of Health Trade Trade Tractory Requests and to provide a proposal to the Ministry of Health Training and the Ministry of Health..
+
+Appointment of the Health Training Workers Alliance (Health Training Joint UPFA) was proposed to appoint a special committee with the Health Trade Trade Youth Representatives to take further action.. The Health Minister said the committee expedited the committee expeditiously to the committee to be held tomorrow (20) at 3.00 pm.
+
+The trade union representatives said that the current Minister of Health is working on intersection and that it is very appreciated by the Minister of Health. They also showed that the Minister always responds to the professional demands and to give equality.
+
+...
+
+[Data](articles/cdfe460a.json)
+
+[Extended Data](ext_articles/cdfe460a.ext.json)
 
 ---
 
@@ -2011,41 +2055,5 @@ The person is married and is the father of two children, and the elder brother l
 [Data](articles/ac695984.json)
 
 [Extended Data](ext_articles/ac695984.ext.json)
-
----
-
-### 40,000 metric tonne diesel subsidy from Japan
-
-*2024-02-19 12:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிடமிருந்து-40-000-மெட்ரிக்-தொன்-டீசல்-மானியம்/175-333436) · `ta`
-
-Sri Lanka has received a subsidy of 40,000 metric tonnes of diesel from the Japanese government appointed to strengthen transport services within the health of Sri Lanka.
-
-A formal handing over in the presence of Japanese Ambassador to Sri Lanka Missukoshi Hidaygi and Minister of Health and Industry Ramesh Pathirana was held today (19) at the Port of Colombo.
-
-In addition, officials have introduced the sophisticated fuel management information (FIMS) to ensure the transparent and responsible management of diesel resources.
-
-◼️
-
-[Data](articles/15591b75.json)
-
-[Extended Data](ext_articles/15591b75.ext.json)
-
----
-
-### 40,000 metric tonne diesel subsidy from the Japanese government
-
-*2024-02-19 12:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-அரசாங்கத்திடமிருந்து-40-000-மெட்ரிக்-தொன்-டீசல்-மானியம்/175-333436) · `ta`
-
-Sri Lanka has received a subsidy of 40,000 metric tonnes of diesel from the Japanese government appointed to strengthen transport services within the health of Sri Lanka.
-
-A formal handing over in the presence of Japanese Ambassador to Sri Lanka Missukoshi Hidaygi and Minister of Health and Industry Ramesh Pathirana was held today (19) at the Port of Colombo.
-
-In addition, officials have introduced the sophisticated fuel management information (FIMS) to ensure the transparent and responsible management of diesel resources.
-
-◼️
-
-[Data](articles/16043d86.json)
-
-[Extended Data](ext_articles/16043d86.ext.json)
 
 ---

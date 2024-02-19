@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 19:33:09**
+As of **2024-02-19 19:50:36**
 
 ## Newspaper Stats
 
-*Scraped **8,063** Articles*
+*Scraped **8,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 979
 adaderanalk | 983
 virakesarilk | 1,075
 adaderanasinhalalk | 1,174
-dailymirrorlk | 1,185
+dailymirrorlk | 1,186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,063 (100.0%) of 8,063 articles have been extended.
+8,063 (100.0%) of 8,064 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,22 @@ The suspect had gone to the court on the 15th of December.
 [Data](articles/dc364a1b.json)
 
 [Extended Data](ext_articles/dc364a1b.ext.json)
+
+---
+
+### Champika Ranawaka bemoans sexual harassment of Russian tourist on beach
+
+*2024-02-19 18:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Champika-Ranawaka-bemoans-sexual-harassment-of-Russian-tourist-on-beach/108-277332) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - United Republican Front (URF) leader Patali Champika Ranawaka said the recent incident involving the alleged harassment of Russian tourists at a beach hotel in Sri Lanka is deeply regrettable and unacceptable.
+
+In a statement, he said Sri Lanka and Russia have enjoyed longstanding and strong diplomatic relationships, built on mutual respect and cooperation. Such incidents tarnish the reputation of both countries and undermine the goodwill that exists between them.
+
+"As a party, we strongly urge the government to take immediate and decisive action to investigate into the matter thoroughly and apprehend the culprits responsible for the harassment. It is essential that justice is served swiftly and that the guilty parties face the maximum punishment under the law, if found culpable.
+
+...
+
+[Data](articles/8aee2c47.json)
 
 ---
 
@@ -2005,23 +2021,5 @@ The Mannar court on Saturday (17) afternoon was granted permission to interrogat
 [Data](articles/6f0f5afc.json)
 
 [Extended Data](ext_articles/6f0f5afc.ext.json)
-
----
-
-### I will go home only if the Ministry of Health says - Deputy Director Rukshan Bellana!
-
-*2024-02-19 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176740) · `ta`
-
-Doctors, nurses and staff of the hospital cannot tell me to go home.Rukshan Bellana, Deputy Director of the Colombo National Hospital, said that he would go home only if the Ministry of Health said.
-
-He said that he had been detained at the hospital for 7 hours, but there was nothing.
-
-He said that he had gone to the hospital for duties and left the police security at 5.30 pm.
-
-◼️
-
-[Data](articles/c8056533.json)
-
-[Extended Data](ext_articles/c8056533.ext.json)
 
 ---

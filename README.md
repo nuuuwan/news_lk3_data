@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 17:53:15**
+As of **2024-02-19 18:09:11**
 
 ## Newspaper Stats
 
-*Scraped **8,034** Articles*
+*Scraped **8,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 88
 bbccomsinhala | 100
 dbsjeyarajcom | 154
 newsfirstlk | 363
-economynextcom | 415
+economynextcom | 419
 islandlk | 422
 dailyftlk | 434
 adalk | 686
 tamilmirrorlk | 977
-adaderanalk | 981
-virakesarilk | 1,063
+adaderanalk | 982
+virakesarilk | 1,073
 adaderanasinhalalk | 1,169
 dailymirrorlk | 1,182
 
@@ -26,11 +26,141 @@ dailymirrorlk | 1,182
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,034 (100.0%) of 8,034 articles have been extended.
+8,046 (100.0%) of 8,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### India begins construction of 1,300 houses for Sri Lanka plantation workers
+
+*2024-02-19 17:30:00* · [`economynextcom`](https://economynext.com/india-begins-construction-of-1300-houses-for-sri-lanka-plantation-workers-151457/) · `en`
+
+ECONOMYNEXT – The fourth stage of the Indian housing project, ‘Bharat-Lanka,’ which sees the construction of 10,000 houses for plantation sector workers was launched on Monday (19).
+
+The fourth phase entails building 1,300 houses across 45 estates in 10 districts.
+
+“The Tamil community of Indian Origin, who have made significant contributions to the country’s economy, have unfortunately suffered great losses due to the lack of land and housing ownership,” Sri Lanka’s president Ranil Wickremesinghe was quoted at the event by his media division.
+
+“It is imperative that their economic and social rights are upheld. The government is actively initiating this process, starting with negotiations with estate companies to acquire land for the construction of these houses.”
+
+Wickremesinghe, Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman and Indian High Commissioner Santhosh Jha, virtually unveiled the foundation stone plaque.
+
+...
+
+[Data](articles/77f35f4c.json)
+
+[Extended Data](ext_articles/77f35f4c.ext.json)
+
+---
+
+### When governments intensify efforts to prevent information from the public - we must voice it - Elizabeth Alan
+
+*2024-02-19 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176785) · `ta`
+
+Deputy Secretary of State for Public Relations Elizabeth Alan said that when governments intensify their efforts to prevent public information by controlling internet access and censoring content, we should voice their voice.
+
+When the Parliament of Sri Lanka passed the Celebration Security Bill in January, the US expressed concern over the potential consequences of freedom of expression, innovation and privacy.
+
+The Deputy Secretary of the US Public Diplomacy, Elizabeth M.. Alan said the above.
+
+Here is the Deputy Secretary of the US Public Diplomacy Elizabeth M.. Allen,
+
+It is fantastic to be here with everyone today. And the Ambassador Sung, thank you for your leadership representing the American people in Sri Lanka.
+
+Thanks to the Sri Lankan newspaper, I am glad that I am here today.
+
+Know This: The US Embassy fully supports the immense task you do. Of course, even if we are on a message from time to time, we are your biggest fans.
+
+...
+
+[Data](articles/667f0b02.json)
+
+[Extended Data](ext_articles/667f0b02.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 312.15/25 to the US dollar
+
+*2024-02-19 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-312-15-25-to-the-us-dollar-151508/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 312.15/25 to the US dollar Monday, from 312.20/35 on Friday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.55/75 percent from 10.60/70 percent.
+
+A bond maturing on 15.09.2027 closed at 11.70/90 percent from 11.55/75 percent.
+
+A bond maturing on 15.03.2028 closed at 12.00/15 percent from 11.90/12.05 percent.
+
+A bond maturing on 15.07.2029 closed at 12.20/70 percent from 12.20/45 percent.
+
+A bond maturing on 15.05.2030 closed at 12.20/70 percent from 12.30/50 percent.
+
+A bond maturing on 01.07.2032 closed at 12.45/90 percent from 12.55/75 percent. (Colombo/Feb19/2024)
+
+◼️
+
+[Data](articles/e9271390.json)
+
+[Extended Data](ext_articles/e9271390.ext.json)
+
+---
+
+### Vishwa Hindu Parishad Organization for Lions in India
+
+*2024-02-19 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176757) · `ta`
+
+The Vishwa Hindu Parishad Organization has filed a petition in the Supreme Court in protest against the consumption of two lions, Sita and Akbar, in the same area of the Siliguri Mikkshi school in West Bengal, India.
+
+Two lions were brought to the Bengal Mikkshi school in Siliguri, Siliguri, West Bengal.. Of these two lions, a seven -year -old lion was named as Akbar and a 6 -year -old lion.. The Hindu Organization has now sought a court called Vishwa Hindu Parishad against these names.
+
+Vishwa Hindu Parishad, who has filed a petition in the Kolkata High Court, has demanded that the lion be changed to the name of Sita.
+
+The petition said, “West Bengal Forest Department has named lions. Akbar was one of the famous Mughal emperors. A character in the Ramayana of Sita Valmiki. Also, Sita is celebrated in Hindu practices. Therefore, the name of the lions should be changed because it is an act of contempt of Hinduism with Akbar. Akbar's vice can not be a subordinate. ”
+
+...
+
+[Data](articles/5cd631e4.json)
+
+[Extended Data](ext_articles/5cd631e4.ext.json)
+
+---
+
+### Motorcycle train crashes;Three killed, including 2 boys
+
+*2024-02-19 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176783) · `ta`
+
+Three people were killed when a motorcycle crashed into a train in Mahayava in Arachikattuwa.
+
+It is reported that a motorcycle crashed into a train traveling to Puttalam at Mahayawa crossing between the Arachchikattuwa and Anavilundawa subway stations.
+
+A mother and two boys who were traveling on a motorbike died on the spot.
+
+◼️
+
+[Data](articles/bb3571d4.json)
+
+[Extended Data](ext_articles/bb3571d4.ext.json)
+
+---
+
+### US remains concerned over Sri Lanka’s online law but encouraged by amendment process
+
+*2024-02-19 17:00:00* · [`economynextcom`](https://economynext.com/us-remains-concerned-over-sri-lankas-online-law-but-encouraged-by-amendment-process-151491/) · `en`
+
+ECONOMYNEXT — The United States shares concerns raised by critics of Sri Lanka’s controversial Online Safety Act (OSA) on its potential for repression of free speech and impact on the country’s digital economy but is encouraged by the ongoing amendments process, a top US official said, calling for a consultative dialogue.
+
+US Under Secretary for Public Diplomacy and Public Affairs Elizabeth M Allen said on Monday February 19 that her government has been engaged in discussions on the recently passed legislation both publicly and privately.
+
+“The United States shares the concerns of journalists, influencers, and content creators, as well as people everywhere on the potential for repression of freedom of expression and the stifling of dissent that the online safety bill [unclear], and we are encouraged by the amendments process,” said Allen.
+
+...
+
+[Data](articles/4a6c7d00.json)
+
+[Extended Data](ext_articles/4a6c7d00.ext.json)
+
+---
 
 ### No pension, government payment made to Shiranthi, says Mahinda Rajapaksa’s office
 
@@ -63,6 +193,44 @@ The motorcycle collided with a train between the Arachchikattuwa and Anilundawa 
 [Data](articles/3e2f48fe.json)
 
 [Extended Data](ext_articles/3e2f48fe.ext.json)
+
+---
+
+### Unreachable shop opening in Colombo port city in April
+
+*2024-02-19 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176778) · `ta`
+
+For the first time in April, Sri Lanka's unresolved shop is to be opened in Colombo Port City.
+
+This was reported on the X -site of Sri Lanka's same zone.
+
+In April, a unreachable shop will be opened in Colombo Port City.
+
+◼️
+
+[Data](articles/e3640e4b.json)
+
+[Extended Data](ext_articles/e3640e4b.ext.json)
+
+---
+
+### Three including two children killed in motorcycle-train collision
+
+*2024-02-19 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97391/three-including-two-children-killed-in-motorcycle-train-collision) · `en`
+
+Three persons, including two children, have been reported dead after a motorcycle collided with a train in the Arachchikattuwa area in Puttalam.
+
+According to police, a 36-year-old mother, her 06-year-old daughter and 09-year-old son were killed when the motorcycle they were riding on collided with a train at a level-crossing in Maiyawa, Arachchikattuwa.
+
+The victims had reportedly been travelling home from a tuition class, when their motorcycle collided with a train plying from Puttalam to Chilaw, police said.
+
+The remains of the deceased have been placed at the Mundalama Divisional Hospital, while further investigations into the incident are being carried out by Arachchikattuwa Police.
+
+◼️
+
+[Data](articles/d20a403d.json)
+
+[Extended Data](ext_articles/d20a403d.ext.json)
 
 ---
 
@@ -108,6 +276,32 @@ Commenting on this, the two who are engaged in a hunger strike
 
 ---
 
+### Firing in the Mannar Nochikulam area;Demonstration of people crossing the street
+
+*2024-02-19 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176780) · `ta`
+
+The villagers were protesting over the road as a target of a man from Nochikkulam on Monday (19) in the Mannar -Madawachi main road, Uilangulam - Nochikkulam area.
+
+A farmer from the Nochchi pond was reportedly leaving a motorbike in his field in his village at around 8.30 am today, but two men who were on a motorbike were shot dead by a R-56 rifle.
+
+As a result of this, a group of people have been attacked by the people of the village for the past few years.
+
+In addition, the villagers of Nochikkulam crossed the road and condemned the incident that the village was continuing and the incident was continuing in violation of the incident.
+
+In the posts, who gave 'the weapon of the murderers?'
+
+The suspects involved in the shooting incident demanded that action be taken before the law.
+
+Mannar and Uilangulam police are conducting serious investigations into the shooting incident.
+
+...
+
+[Data](articles/36580868.json)
+
+[Extended Data](ext_articles/36580868.ext.json)
+
+---
+
 ### ’I do associate with President’: Fonseka
 
 *2024-02-19 16:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-do-associate-with-President-Fonseka/108-277326) · `en`
@@ -123,6 +317,30 @@ Colombo, Feb 19 (Daily Mirror) - Samagi Jana Balawegaya (SJB) MP Sarath Fonseka 
 [Data](articles/44c82e6b.json)
 
 [Extended Data](ext_articles/44c82e6b.ext.json)
+
+---
+
+### Sri Lanka stocks close up, JKH trade pushes turnover
+
+*2024-02-19 16:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-jkh-trade-pushes-turnover-151504/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 56.94 points, or 0.54 percent at 10,643 while the S&P SL20 Index closed up at 3,067 points, up 18.77 percent, or 0.62 points.
+
+Turnover was at 719 million. Sectors that attracted investor interest were Capital Goods (185mn), and Banks (106mn).
+
+John Keells Holdings Plc contributed 140 million to the day’s turnover, and the share closed up at 190.00.
+
+Dialog Axiata Plc, which announced a change to its board, also saw fairly high volumes (43mn) traded in the day, and the share closed up at 10.30.
+
+Other positive contributors to the main index were Melstacorp Plc (up at 83.90), Expolanka Holdings Plc (up at 138.50), Commercial Bank of Ceylon Plc (up at 91.10), and Ceylon Tobacco Company Plc (up at 1,019.00). (Colombo/Feb19/2024).
+
+◼️
+
+[Data](articles/0966b4fe.json)
+
+[Extended Data](ext_articles/0966b4fe.ext.json)
 
 ---
 
@@ -198,7 +416,9 @@ The motorcycle, who was carrying a mother of a mother who was carrying his child
 
 A tense situation was reported at the Dambulla Divisional Secretariat this afternoon (19 Feb.), as crowds thronged the premises in attempts to purchase tickets for today’s T20 match between Sri Lanka and Afghanistan.
 
-Large crowds were seen storming the Divisional Secretariat despite Sri Lanka Cricket (SLC) having announced on Sunday (18 Feb.), that all tickets for both the second and third T20 matches against Afghanistan have been sold out.
+Sri Lanka Cricket (SLC) announced on Sunday (18 Feb.), that all tickets for both the second and third T20 matches against Afghanistan have been sold out.
+
+However, tickets priced at Rs. 500 and Rs. 200 were issued at the Dambulla Divisional Secretariat this morning, resulting in large crowds of fans gathering to purchase tickets.
 
 The second match of the three-match series is scheduled to kick-off at 07:00 p.m today, at the Rangiri Dambulla International Cricket Stadium (RDICS).
 
@@ -232,6 +452,30 @@ Sumitraarachchi alleged that certain employees of the department take the law in
 
 ---
 
+### A 10 -year -old girl murdered in Mannar;Explanatory for the suspect
+
+*2024-02-19 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176772) · `ta`
+
+The Mannar Magistrate on Monday (19) afternoon, a man who was arrested in connection with the murder of a 10 -year -old girl in Urmannar, Urmannar, Mannar, has been arrested until the 29th of this month.
+
+A 10 -year -old girl was found dead on the morning of the 16th of this morning in the village of Talaimannar.
+
+A 52 -year -old suspect from Kuchchaveli, Trincomalee has been arrested in connection with the incident.
+
+The suspect was detained by the police for 48 hours on the orders of the police.
+
+The suspect was produced before the Mannar Court today (19) by the police.
+
+The Mannar Magistrate, who conducted the investigation, ordered the suspect to be remanded until the 29th of this month.
+
+◼️
+
+[Data](articles/db031c3b.json)
+
+[Extended Data](ext_articles/db031c3b.ext.json)
+
+---
+
 ### Tense situation near Dambulla International Cricket Stadium
 
 *2024-02-19 15:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tense-situation-near-Dambulla-International-Cricket-Stadium/108-277323) · `en`
@@ -247,6 +491,32 @@ However, Sri Lanka Cricket (SLC) announced that all tickets for today’s match 
 [Data](articles/dbc86d4c.json)
 
 [Extended Data](ext_articles/dbc86d4c.ext.json)
+
+---
+
+### Removal of Provincial Council
+
+*2024-02-19 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176771) · `ta`
+
+The Launnayakaya organization has said that all the candidates contesting the presidential election will be presented to the proposal to eliminate the provincial council.
+
+The request was made by a organization led by Basanta Yapa Abayawardena, son of Southern Provincial Governor Lakshman Yapa Abayawardena.
+
+The organization Langogaya has proposed the idea of abolishing the provincial council system and creating the district councils.
+
+We have called for the removal of all the candidates contesting the presidential election this time, saying that the Pasanda Yapa Abhayavardhana district councils should be strengthened.
+
+He said that the appointment of district ministers would be able to expedite the development of the districts.
+
+Provincial Councils have wasted white elephants from 1988 to 7000 billion.
+
+There is no need to continue the provincial councils, no one in the North has voiced the provincial councils, he said.
+
+...
+
+[Data](articles/770abc72.json)
+
+[Extended Data](ext_articles/770abc72.ext.json)
 
 ---
 
@@ -273,6 +543,20 @@ The only CT testing facility in the Matara district has the same machine to be t
 [Data](articles/efa9d455.json)
 
 [Extended Data](ext_articles/efa9d455.ext.json)
+
+---
+
+### யாழ். அல்லைப்பிட்டியில் விபத்து ; பெண்ணொருவர் உயிரிழப்பு
+
+*2024-02-19 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176770) · `ta`
+
+மண்கும்பான் 4ஆம் வட்டாரம் பகுதியை சேர்ந்ததங்கரத்தினம் தனஸ்வரி (வயது 46) என்பவரே உயிரிழந்துள்ளார்.
+
+குறித்த பெண் பஸ்ஸில் இறங்க முற்பட்ட வேளை சாரதி பஸ்ஸை நகர்த்தியமையால், பஸ்ஸிலிருந்து தவறி விழுந்துள்ளார்.
+
+◼️
+
+[Data](articles/b92d0598.json)
 
 ---
 
@@ -413,6 +697,36 @@ Speaking on the occasion, the Prime Minister urged public servants to cut the de
 [Data](articles/7e5bd66e.json)
 
 [Extended Data](ext_articles/7e5bd66e.ext.json)
+
+---
+
+### பெண் பொலிஸ் கான்ஸ்டபிளுக்கு பாலியல் தொல்லை : பொறியியல் கூட்டுத்தாபனத்தைச் சேர்ந்தவர் கைது!
+
+*2024-02-19 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176767) · `ta`
+
+சிறுவர் மற்றும் பெண்கள் பணியக தலைமையகத்தின் பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவருக்கு பாலியல் தொல்லை கொடுத்ததார் என்ற குற்றச்சாட்டில் ஒருவர் கைது செய்யப்பட்டுள்ளதாக ஹோமாகம தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+பொறியியல் கூட்டுத்தாபனத்தில் கடமையாற்றும் 43 வயதுடைய பாதுக்க மதுலாவ பிரதேசத்தைச் சேர்ந்த ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த பெண் பொலிஸ் கான்ஸ்டபிள் கொழும்பிலிருந்து இ.போ.ச  பஸ்ஸில் தனது வீட்டுக்குச் சென்று கொண்டிருந்தபோதே சந்தேக நபர் பாலியல் தொல்லை கொடுத்ததாக பொலிஸாரின் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/556f80a3.json)
+
+---
+
+### மட்டக்களப்பு, கொக்கட்டிச்சோலை பகுதியில் கசிப்பு உற்பத்தி நிலையம் முற்றுகை ; ஒருவர் கைது
+
+*2024-02-19 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176766) · `ta`
+
+மட்டக்களப்பு கொக்கட்டிச்சோலை பொலிஸ் பிரிவிலுள்ள முனைக்காடு களப்பு பகுதியில் கசிப்பு உற்பத்தி நிலையம் ஒன்றை இன்று திங்கட்கிழமை (19) பொலிஸார் முற்றுகை இட்டனர்.
+
+இதன்போது, 150 போத்தல் கசிப்புடன்  ஒருவரை கைது செய்ததுடன், 3 இலட்சத்து 50 ஆயிரம் மில்லி மீற்றர் கோடா, உற்பத்தி உபகரணங்கள் மற்றும் மோட்டர் சைக்கிள் ஒன்று மீட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/ad5e4b64.json)
 
 ---
 
@@ -1600,13 +1914,13 @@ He said that under the rule of the National People's Power, we will abolish the 
 
 A ceremony was held at the Presidential Secretariat on Monday (19 Feb.), to inaugurate a housing project financed by the Government of India to construct 10,000 houses for plantation sector workers.
 
-Accordingly, the fourth phase of India’s housing project in Sri Lanka’s plantation sector will entail building 1,300 houses across 45 estates in ten districts.
+Accordingly, the fourth phase of India’s housing project in Sri Lanka’s plantation sector, named ‘Bharat-Lanka’, will entail building 1,300 houses across 45 estates in ten districts.
 
-President Ranil Wickremesinghe joined the event virtually with Indian High Commissioner Santosh Jha, the President’s Media Division (PMD) reported.
+President Ranil Wickremesinghe joined the event virtually with Indian High Commissioner Santosh Jha and Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman, the President’s Media Division (PMD) reported.
 
-On 28 November 2023, the High Commission of India, signed two significant agreements for the construction of 10,000 houses in plantation areas of Sri Lanka under the 4th phase of the Indian Housing Project.
+The Head of State underscored the government’s commitment to safeguarding the economic and social rights of the upcountry Tamil community, and acknowleding their significant contribution to the nation’s economy, the President expressed intentions to unite political representatives from the upcountry, transcending party lines, to present collaborative proposals within the upcoming month.
 
-◼️
+...
 
 [Data](articles/cbcc9159.json)
 
@@ -1711,291 +2025,5 @@ Grah Yarmish, a spokesman for the late Russian opposition leader, confirmed the 
 [Data](articles/33aa074b.json)
 
 [Extended Data](ext_articles/33aa074b.ext.json)
-
----
-
-### Health sector trade unions to meet Health Minister for crucial talks today
-
-*2024-02-19 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97382/health-sector-trade-unions-to-meet-health-minister-for-crucial-talks-today) · `en`
-
-The collective of health sector trade unions are scheduled to meet Minister of Health Minister Dr. Ramesh Pathirana today (19 Feb.).
-
-Accordingly, the meeting was scheduled to take place at 10:00 a.m. today, at the Ministry’s premises, during which the parties are expected to reach a solution to the trade unions’ demands for a hike in allowances.
-
-Health Trade Union Alliance’s convenor Ravi Kumudesh noted, however, that in the event a favourable decision is not reached in this regard, a decision pertaining to their strike action will be taken following the meeting with the Minister.
-
-On 14 February, the collective of trade unions decided to call off their strike action after the Minister agreed for a discussion with them.
-
-...
-
-[Data](articles/6c406706.json)
-
-[Extended Data](ext_articles/6c406706.ext.json)
-
----
-
-### Court ordered to submit a report on Keheliya's health
-
-*2024-02-19 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176730) · `ta`
-
-The Magistrate has ordered the Director General of Health Services to appoint a team of nine specialists to investigate the health of former Health Minister Keheliya Rambukwella.
-
-The magistrate accepted the request of Deputy Solicitor General Lakmini Girihagama to immediately investigate the situation where Keheliya Rambukwella was not presented to the court.
-
-The Director General of Health Services has ordered the Director General of Health Services to include doctors who specialize in cardiovascular disease, bone diseases and lung diseases in the Expert Panel, which is investigating the physical condition of Keheliya Rambukwella.
-
-The magistrate ordered the court to take steps to submit to the court by the 26th of this month.
-
-◼️
-
-[Data](articles/d2500be1.json)
-
-[Extended Data](ext_articles/d2500be1.ext.json)
-
----
-
-### First term for 2024 academic year gets underway
-
-*2024-02-19 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97381/first-term-for-2024-academic-year-gets-underway-) · `en`
-
-The first school term for the 2024 academic year commenced on Monday (19 Feb.) for all government and government-approved private schools.
-
-Accordingly, the first phase of the first term of the new academic year is scheduled to run from 19 February until 10 April, the Ministry of Education noted.
-
-The third term of the academic year 2023 ended on 16 February.
-
-◼️
-
-[Data](articles/7502b6d8.json)
-
-[Extended Data](ext_articles/7502b6d8.ext.json)
-
----
-
-### Diminishing the water level
-
-*2024-02-19 10:33:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/நீர்மட்டம்-குறைகிறது/46-333427) · `ta`
-
-Due to the prevailing dry weather for nearly a month in the central hill country, the water level of the Moussakalai and the Casallai reservoirs has decreased.
-
-According to the engineers responsible for the reservoirs, the water level of the Moussakalai and Casalri reservoirs has dropped 13 feet 5 inches and 08 feet respectively as of 06.00 am today (19).
-
-◼️
-
-[Data](articles/3b2c70bb.json)
-
-[Extended Data](ext_articles/3b2c70bb.ext.json)
-
----
-
-### An expectation of the corners of the corners of imports
-
-*2024-02-19 10:25:12* · [`adalk`](https://www.ada.lk/business/මෝටර්සයිකල්-ආනයන-තහනම--ඉවත්-කරනු-ඇතැයි-අපේක්ෂාවක්/7-408163) · `si`
-
-◼️
-
-[Data](articles/bbb13f4d.json)
-
-[Extended Data](ext_articles/bbb13f4d.ext.json)
-
----
-
-### Mother arrested for killing three children
-
-*2024-02-19 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193567) · `si`
-
-Police say three children have been killed in a house in the Bristol area in England.
-
-The bodies were found in a search for the police after a telephone call received by the police.
-
-The police have arrested 42 year old mother in connection with the killings.
-
-◼️
-
-[Data](articles/cb18026d.json)
-
-[Extended Data](ext_articles/cb18026d.ext.json)
-
----
-
-### Sri Lanka has not blacklisted any contractors, unlike India, Bangladesh, Nepal: report
-
-*2024-02-19 10:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-has-not-blacklisted-any-contractors-unlike-india-bangladesh-nepal-report-151417/) · `en`
-
-ECONOMYNEXT – Sri Lanka has blacklisted zero contractors for engaging in corrupt practices, while other South Asian countries had named hundreds, according to a study by Verité Research, a Colombo-based think tank.
-
-By contrast, Nepal had 629 entries on a public, online database, and Bangladesh had 510.
-
-“Sri Lanka has the worst record among South Asian countries in blacklisting corrupt contractors in public procurement,” a statement by Verité Research said.
-
-Its report shows that “Sri Lanka is the only country in South Asia that 1) does not recognise engaging in corrupt and fraudulent activities during procurement as a valid reason for blacklisting 2) has not blacklisted contractors that have defaulted on contractual obligations despite having the provisions to do so.”
-
-There may be several reasons for the inaction, the report found.
-
-...
-
-[Data](articles/5db9078b.json)
-
-[Extended Data](ext_articles/5db9078b.ext.json)
-
----
-
-### Trincomalee consumers refuse to buy eggs.
-
-*2024-02-19 10:14:09* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-පාරිභෝගිකයෝ-බිත්තර-මිලදී-ගැනීම-ප්‍රතික්‍ෂේප-කරති-/11-408162) · `si`
-
-The budgetary arrivals say that the attendance of consumers have declined to buy the consumers in Matale District at Rs. 60 - 70.
-
-They claimed that there are no significant prices to buy eggs due to the high prices of the eggs in the eggs in the eggs in the eggs of the eggs under the number of occasions.
-
-Meanwhile, egg manufacturers in the Matale district say that the prices of food, including food, including food, have to increase the price of egg prices. But they also claimed that their products are not profit already.
-
-A large number of owners of eggs have been brought to the pascutors in the Matale, Matale, Naula, Matale District and the Ella-Elavisal owners of the Grade Currency.
-
-◼️
-
-[Data](articles/79354303.json)
-
-[Extended Data](ext_articles/79354303.ext.json)
-
----
-
-### Sri Lanka rupee opens at 312.10/45 to the US dollar
-
-*2024-02-19 09:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-312-10-45-to-the-us-dollar-151409/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 312.10/45 to the US dollar Monday, from 312.20/35 on Friday, dealers said.
-
-A bond maturing on 01.08.2026 was quoted at 10.95/11.05 percent unchanged from Friday.
-
-A bond maturing on 15.09.2027 was quoted at 11.50/90 percent from 11.55/75 percent.
-
-A bond maturing on 15.03.2028 was quoted at 12.00/10 percent from 11.90/12.05 percent.
-
-The COlombo Stock Exchange opened up. The All Share Price Index was up 0.15 percent at 10,601 and the S&P SL20 was up 0.14 percent at 3,053. (Colombo/Feb19/2024)
-
-◼️
-
-[Data](articles/f08e93b4.json)
-
-[Extended Data](ext_articles/f08e93b4.ext.json)
-
----
-
-### Tribal conflicts lose many lives
-
-*2024-02-19 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193566) · `si`
-
-As a result, 64 persons were shot dead in the past.
-
-It is said that the violent violence between the tribal groups in a mountainous region of the Papua Newgiri.
-
-According to foreign media reports, about 17 tribal groups involved in the Violent incident in the Naga State.
-
-The tribal teams fight fights in the hope of sharing land and wealth.
-
-The clashes erupted in July year in July year and the authorities have acted entirely to cover up the region with three months.
-
-◼️
-
-[Data](articles/1870c664.json)
-
-[Extended Data](ext_articles/1870c664.ext.json)
-
----
-
-### The first installment is just beginning today
-
-*2024-02-19 09:46:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாம்-தவணை-இன்று-ஆரம்பம்/175-333425) · `ta`
-
-The first installment for educational activities of state schools and state private schools began today (19).
-
-Accordingly, the 3rd installment holiday for 2023 was issued from December 22 to February 2.
-
-It is also worth noting that the Ministry of Education has taken steps to revamp the school installments that have been changed due to the spread of Kovit infection since 2025.
-
-◼️
-
-[Data](articles/8293a61d.json)
-
-[Extended Data](ext_articles/8293a61d.ext.json)
-
----
-
-### The strike of health workers;Today's final decision
-
-*2024-02-19 09:45:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்களின்-வேலை-நிறுத்தம்-இன்று-இறுதி-முடிவு/175-333424) · `ta`
-
-Health Trade Unions, who have been involved in the issue of allowance, will hold a discussion with Health Minister Dr. Ramesh Pathirana today (19).
-
-The Federation of Health Trade Unions said that the discussion will be held at 10.00 am today.
-
-Recently, 72 trade unions in the Health Service were engaged in the workplace and temporarily suspended the strike on a written promise to negotiate with the Minister of Health.
-
-Ravi Kumudesh, Coordinator of the Health Trade Union Federation, said that if his problems are not resolved in a discussion with Health Minister Dr. Ramesh Pathrana, he will re -engage in work.
-
-◼️
-
-[Data](articles/25c1581a.json)
-
-[Extended Data](ext_articles/25c1581a.ext.json)
-
----
-
-### The second T20 match today
-
-*2024-02-19 09:35:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இரண்டாவது-டி20-போட்டி-இன்று/44-333423) · `ta`
-
-The 2nd T20 match between Sri Lanka and Afghanistan will be played today.
-
-Sri Lanka won by 4 runs in the first T20 match between the two countries.
-
-Meanwhile, all tickets for the second and third T20 matches have been sold, Sri Lanka Cricket said.
-
-◼️
-
-[Data](articles/89fc31e7.json)
-
-[Extended Data](ext_articles/89fc31e7.ext.json)
-
----
-
-### The five associated with the shooting of Meegoda
-
-*2024-02-19 09:20:44* · [`adalk`](https://www.ada.lk/breaking_news/මීගොඩ-වෙඩිතැබීමට-සම්බන්ධ-5-‌දෙනා-රඳවාගෙන-ප්‍රශ්න-කරයි/11-408161) · `si`
-
-Acting to 48 hours of the Meegoda Economic Center, the five suspects were handed over to the Homagama Magistrate's Court and was produced before the Homagama Magistrate's Court.
-
-Dimuthu Kumara, Dimuthu Kumara, a soldier who had run away from Nihal Wijesinghe, Dilan Arachchi Tennachchi and Senarakumara and the Army, was also sentenced to Dimuthu Roshan and the Motorcyclist.
-
-The motorcycle was found hidden in the Rakwana area, despite hidden in the Rakwana, but the police were found in a room in a room of a knirbage and shirt
-
-Police say that the victim was hiding in the Godakawela area in Hambantota area and was hiding in the village of this crime.
-
-The 23-year-old money was injured in the shooting shooting during the robbery of the robbery and was hospitalized in the shop.
-
-The suspects were arrested in a special operation conducted in the STF and the Meegoda Police.
-
-◼️
-
-[Data](articles/d235f3da.json)
-
-[Extended Data](ext_articles/d235f3da.ext.json)
-
----
-
-### Sri Lanka, India set to conclude ETCA in April
-
-*2024-02-19 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-India-set-to-conclude-ETCA-in-April/108-277293) · `en`
-
-Colombo, Feb 9 (Daily Mirror) - Hot on the heels of signing the Free Trade Agreement ( FTA) with Thailand , Sri Lanka is now planning to conclude talks on the Economic and Technology Cooperation Agreement (ETCA) with India within the next couple of months while resuming talks on a Free Trade Agreement (FTA) with China in April, an informed source said.
-
-There is simmering tension against the Economic and Technology Cooperation Agreement (ETCA) with India in some quarters . Sri Lankan professional categories remain wary of opening up the service sector fearing that the possible influx of Indian professionals will keep their jobs at stake .
-
-...
-
-[Data](articles/10b7e74a.json)
-
-[Extended Data](ext_articles/10b7e74a.ext.json)
 
 ---

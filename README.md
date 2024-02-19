@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 19:02:29**
+As of **2024-02-19 19:17:25**
 
 ## Newspaper Stats
 
-*Scraped **8,061** Articles*
+*Scraped **8,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 422
 dailyftlk | 434
 adalk | 687
 tamilmirrorlk | 979
-adaderanalk | 982
+adaderanalk | 983
 virakesarilk | 1,075
 adaderanasinhalalk | 1,173
 dailymirrorlk | 1,185
@@ -26,41 +26,63 @@ dailymirrorlk | 1,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,059 (100.0%) of 8,061 articles have been extended.
+8,061 (100.0%) of 8,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### කාසියේ වාසිය ඇෆ්ගනිස්තානයට
+### To Afghanistan to advantage
 
 *2024-02-19 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193586) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන දෙවන විස්සයි විස්ස ක්‍රිකට් තරගයේ කාසියේ වාසිය දිනූ ඇෆ්ගනිස්තාන නායකයා ප්‍රථමයෙන් පන්දු යැවීමට තීරණය කළේය.
+The Afghan leader won the toss and win the second Twenty Second Twenty Second Twenty Second Twenty Second Twenty III.
 
 ◼️
 
 [Data](articles/2069b29c.json)
 
+[Extended Data](ext_articles/2069b29c.ext.json)
+
 ---
 
-### විදුලිය ගැන අලුත්ම ආරංචිය මෙන්න
+### President pledges to uphold social and economic rights of upcountry Tamil community
+
+*2024-02-19 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97392/president-pledges-to-uphold-social-and-economic-rights-of-upcountry-tamil-community-) · `en`
+
+President Ranil Wickremesinghe has emphasised the need to uphold the social and economic rights of the Indian-origin Tamil community.
+
+The President made these remarks at the inauguration ceremony of the fourth phase of the Indian housing project ‘Bharat-Lanka’, held at the Presidential Secretariat on Monday (19 Jan.).
+
+Commenting in this regard, the Head of State noted that the government is actively initiating this process, with negotiations currently underway with estate companies to acquire land for the construction of these houses. Consequently, we anticipate commencing related housing programs in the near future.
+
+“The Tamil community of Indian Origin, who have made significant contributions to the country’s economy, have unfortunately suffered great losses due to the lack of land and housing ownership. Today, they have been deprived of their political rights, but it is imperative that their economic and social rights are upheld”, President Wickremesinghe said.
+
+...
+
+[Data](articles/eb54b221.json)
+
+---
+
+### Call on the latest news about electricity
 
 *2024-02-19 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193585) · `si`
 
-පසුගිය මාස කිහිපයට සාපේක්ෂව මේ වනවිට විදුලි ඉල්ලුම ඉහළගොස් ඇති බව විදුලිබල මණ්ඩලය පවසයි.
+The Electricity Board (CEB) says that electricity demand has been increased compared to the past few months.
 
-එහි මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය සාමාන්‍යාධිකාරී ඉංජිනේරු නොයෙල් ප්‍රියන්ත මහතා අද (19) විශේෂ මාධ්‍ය හමුවකට එක්වෙමින් මේ බව පැවසීය.
+The Deputy General Manager of the Media Spokesperson Noel Priyantha was speaking at a special media briefing today (19).
 
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් ඒ මහතා සඳහන් කළේ පෙබරවාරි මාසයේ ගතවූ දින කිහිපය සඳහා  ගිගාවොට් පැය 46ක විදුලි ඉල්ලුමක් ලැබී ඇති බවය.
+Speaking further Mr. He said that 46 GWh has received a 46-hour electricity dependence for the past few days of February.
 
-එසේම පවතින වියලි කාලගුණික තත්ත්වය හේතුවෙන් ජල විදුලි නිෂ්පාදනයද සීමා කර ඇති බව පෙන්වාදුන් ඒ මහතා සඳහන් කළේ එය සියයට 20ක් දක්වා අඩුකර ඇති බවය.
+He said that the dry weather production was restricted to 20 percent.
 
-මේ හේතුවෙන් විදුලිය භාවිත කිරීමේදී හැකිතාක් දුරට අරපිරිමැස්මෙන් එය භාවිත කරන ලෙසට ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටින බවද නියෝජ්‍ය සාමාන්‍යාධිකාරී ඉංජිනේරු නොයෙල් ප්‍රියන්ත මහතා වැඩිදුරටත් පැවසීය.
+According to the government, the public is kindly requested to use it as much as possible to use it as much as possible to use it as much as possible.
 
 ◼️
 
 [Data](articles/ef476cb5.json)
+
+[Extended Data](ext_articles/ef476cb5.ext.json)
 
 ---
 
@@ -2005,23 +2027,5 @@ When inquired from the Health Ministry, a senior health official told the Daily 
 [Data](articles/14a06835.json)
 
 [Extended Data](ext_articles/14a06835.ext.json)
-
----
-
-### A gathering to the people of the plantation
-
-*2024-02-19 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193570) · `si`
-
-The event was held at the Presidential Secretariat in the Presidential Secretariat for the construction of 10,000 houses for the labor people in the plantation workers.
-
-In the fourth phase, 1300 houses will be constructed for 45 districts.
-
-Indian High Commissioner Sanarithshy with President Ranil Wickremesinghe was also involved in the online method.
-
-◼️
-
-[Data](articles/5792d340.json)
-
-[Extended Data](ext_articles/5792d340.ext.json)
 
 ---

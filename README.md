@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 16:32:47**
+As of **2024-02-19 16:48:05**
 
 ## Newspaper Stats
 
-*Scraped **8,011** Articles*
+*Scraped **8,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 422
 dailyftlk | 434
 adalk | 682
 tamilmirrorlk | 971
-adaderanalk | 980
+adaderanalk | 981
 virakesarilk | 1,063
 adaderanasinhalalk | 1,168
 dailymirrorlk | 1,177
@@ -26,11 +26,29 @@ dailymirrorlk | 1,177
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,007 (100.0%) of 8,011 articles have been extended.
+8,012 (100.0%) of 8,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Tense situation as crowds clamour for SL v AFG match tickets in Dambulla
+
+*2024-02-19 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97390/tense-situation-as-crowds-clamour-for-sl-v-afg-match-tickets-in-dambulla) · `en`
+
+A tense situation was reported at the Dambulla Divisional Secretariat this afternoon (19 Feb.), as crowds thronged the premises in attempts to purchase tickets for today’s T20 match between Sri Lanka and Afghanistan.
+
+Large crowds were seen storming the Divisional Secretariat despite Sri Lanka Cricket (SLC) having announced on Sunday (18 Feb.), that all tickets for both the second and third T20 matches against Afghanistan have been sold out.
+
+The second match of the three-match series is scheduled to kick-off at 07:00 p.m today, at the Rangiri Dambulla International Cricket Stadium (RDICS).
+
+◼️
+
+[Data](articles/b2097094.json)
+
+[Extended Data](ext_articles/b2097094.ext.json)
+
+---
 
 ### Tense situation near Dambulla International Cricket Stadium
 
@@ -46,27 +64,33 @@ However, Sri Lanka Cricket (SLC) announced that all tickets for today’s match 
 
 [Data](articles/dbc86d4c.json)
 
+[Extended Data](ext_articles/dbc86d4c.ext.json)
+
 ---
 
-### ගුවන්තොටු‍පොළේ බහාලුම් අංගනයේ වේලෙන CT ස්කෑන් යන්ත්‍රය
+### CT Scanner to dry at the container yard of the airport
 
 *2024-02-19 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193581) · `si`
 
-මාතර මහ රෝහල සඳහා ආනයනය කළ CT ස්කෑන් යන්ත්‍රය මාස දෙකකට අධික කාලයක් පුරා කටුනායක ගුවන්තොටු‍පොළේ බහාලුම් අංගනයේ තබා ඇති බවත් එය නිදහස් කර ගැනීමට සෞඛ්‍ය අමාත්‍යාංශය ‍මෙතෙක් කිසිදු පියවරක් ‍ගෙන නොමැති බවත් රජයේ විකිරණ විද්‍යා තාක්ෂණවේදීන්ගේ සංගමය පවසයි.
+The Government Radiology Technicians Association says that the imported CT is kept in the Katunayake airport for more than two months and the Ministry of Health has not taken any steps to release it.
 
-එම යන්ත්‍රය ගුවන් මගින් මෙරටට ගෙනැවිත් ඇත්තේ පසුගිය දෙසැම්බර් 16 වෙනිදාය.
+The machine was brought to Sri Lanka on the 16th of December.
 
-මෙවැනි යන්ත්‍ර විශේෂිත උෂ්ණත්ව සහ ආර්ද්‍රතා තත්ත්ව යටතේ ගබඩා කළ යුතු වුවත් දැනට ගුවන් තොටුපොළ ගබඩාවල එවැනි තත්ත්වයක් තිබෙනවාද යන්න ප්‍රශ්න සහගත එම සංගමයේ සභාපති චානක ධර්මවික්‍රම මහතා පවසයි.
+Chairka Dharmawickrema says that such machines should be stored in a particular temperature and humidity, but the manifestation union warehouse is currently in the airports.
 
-ඔහු පැවසුවේ මෙවැනි තත්ත්වක් හමුවේ ඉදිරියේදී යන්ත්‍රයේ යහපත් ක්‍රියාකාරීත්වයට බලපෑම් ඇතිවිය හැකි බවය.
+He said that in the face of such a situation, the good operation of the machine could be affected.
 
-එසේම මේ වනවිට ගුදම් ගාස්තු ලෙස ද රුපියල් මිලියන 2කට ආසන්න මුදලක් නියම වී ඇති අතර ගුවන්තොටුපොළේ ගබඩාවෙන් මෙම බහාලුම් ඉක්මනින් නිදහස් කර නොගන්නේ නම් ඉදිරියේදී මෙම බහාලුම් විනාශ කිරීමට හෝ වෙන්දේසි කිරීමට සිදුවන බවද දන්වා ඇත.
+Also, nearly Rs.
 
-මේ වන විට මාතර මහ රෝහලේ තිබෙන CT ස්කෑන් යන්ත්‍රය වසර 18 ක් පැරණි හෙයින් දිගින් දිගටම බිඳ වැටීම් සහිතව සීමාසහිත පරීක්ෂණ සංඛ්‍යාවක් පමණක් සිදුකරන බව සඳහන් වේ.
+The CT at Matara General Hospital is 18 years old, only a limited number of tests are available with collapses.
 
-...
+The only CT testing facility in the Matara district has the same machine to be taken to the Matara General Hospital.
+
+◼️
 
 [Data](articles/efa9d455.json)
+
+[Extended Data](ext_articles/efa9d455.ext.json)
 
 ---
 
@@ -895,6 +919,8 @@ The District Court made this order pursuant to a plaint filed by Field Marshal S
 ◼️
 
 [Data](articles/77dce346.json)
+
+[Extended Data](ext_articles/77dce346.ext.json)
 
 ---
 
@@ -1993,23 +2019,5 @@ Risks to real economic growth projections are skewed to the downside both in the
 [Data](articles/e11981f3.json)
 
 [Extended Data](ext_articles/e11981f3.ext.json)
-
----
-
-### Central Bank urges legal reforms for stronger credit recovery
-
-*2024-02-19 05:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-urges-legal-reforms-for-stronger-credit-recovery/108-277291) · `en`
-
-Says shorter credit recovery cycle critical to ensure business continuity
-
-Asserts time taken to recover assets must be further minimised
-
-With a view to ensure continuity of businesses  and job security of employees,  the Central Bank (CB) has called for legal reforms to  further strengthen Sri Lanka’s Parate execution law and other credit recovery laws in order to shorten the credit recovery cycle on par with global practices .
-
-Instead of suspending Parate Rights for few borrowers who are in the cover of SMEs, Central Bank (CB) Governor Dr. Nandalal Weerasinghe asserted that further strengthening of the Parate execution law along with other credit recovery laws stands to benefit the country’s MSME sector with greater access to credit.
-
-...
-
-[Data](articles/3a9800ae.json)
 
 ---

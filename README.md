@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 09:02:38**
+As of **2024-02-19 09:17:22**
 
 ## Newspaper Stats
 
-*Scraped **7,920** Articles*
+*Scraped **7,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 672
 tamilmirrorlk | 962
 adaderanalk | 970
 virakesarilk | 1,045
-adaderanasinhalalk | 1,145
+adaderanasinhalalk | 1,152
 dailymirrorlk | 1,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,919 (100.0%) of 7,920 articles have been extended.
+7,920 (99.9%) of 7,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### සැමියාගේ පහරදීමෙන් බිරිඳ මරුට
+
+*2024-02-19 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193565) · `si`
+
+වැලිමඩ ඩයරබාවත්ත, උඩකොටස ප්‍රදේශයේ නිවසක තිබී කාන්තාවකගේ මළසිරුරක් හමුව තිබේ.
+
+◼️
+
+[Data](articles/32cbe591.json)
+
+---
 
 ### "President Ranil Wickremesinghe is not cunning"
 
@@ -54,21 +66,25 @@ Otherwise Ranil will now be just an MP. Sarath Fonseka then took office as presi
 
 ---
 
-### ”ஜனாதிபதி ரணில் விக்கிரமசிங்க தந்திரமானவர் அல்ல”
+### "President Ranil Wickremesinghe is not cunning"
 
 *2024-02-19 08:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-ரணில்-விக்கிரமசிங்க-தந்திரமானவர்-அல்ல/150-333421) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க கூறுவது போல் தந்திரமானவர் அல்ல என்று கூறிய NPP தலைவர் அநுரகுமார திஸாநாயக்க, எந்த வகையிலும் ஜனாதிபதி தேர்தலை பிற்போட நினைத்தால் தனது பதவிக்காலம் முடிவதற்கு முன்னரே, அவர் வீட்டிற்குச் செல்ல நேரிடும் என இன்று தெரிவித்தார்.
+NPP leader Anura Kumara Dissanayake, who said that President Ranil Wickremesinghe is not as tricky, said he would go home before the end of his tenure if he wanted to postpone the presidential election.
 
-குருநாகல் மாவட்ட மகளிர் மாநாட்டில் கலந்து கொண்டு உரையாற்றிய அவர், நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை நீக்க வேண்டும் என்ற புதிய விவாதம் எழுந்துள்ளதாகவும், அது காலங்காலமான கோஷம் எனவும் தெரிவித்தார்.
+Speaking at the Kurunegala District Women's Conference, she said that a new debate had arisen for the abolition of the executive presidency.
 
-ரணில் தந்திரமானவர் என்று சிலர் சொல்கிறார்கள்.அவர் பாராளுமன்றத்தில் ஒரே ஒரு ஆசனத்தில் ஜனாதிபதியானார். ஜனாதிபதி தேர்தலிலும் தப்பிக்க ஏதாவது செய்வார். ரணில் கூறுவது போல் தந்திரமானவர் அல்ல. அதற்கு முன்னரே அவர் வீட்டிற்கு செல்ல வேண்டியிருக்கும்.
+Some say that Ranil is cunning. He became president in a single seat in Parliament. The president will do something to escape the election. Ranil is not as tricky as it says. He would have to go home before that.
 
-ஜனாதிபதி தேர்தலில் இருந்து தப்பிக்க முயன்றால், ஜனாதிபதியாக பதவியேற்கும் கோட்டாபய ராஜபக்சவின் கோரிக்கையை சஜித் பிரேமதாச நிராகரித்ததால் தான் ரணில் ஜனாதிபதியாக முடியும்.
+Ranil can be the president only because Sajith Premadasa rejected the request of Gotabhaya Rajapakse, who would be sworn in as president if he tried to escape the presidential election.
+
+Otherwise Ranil will now be just an MP. Sarath Fonseka then took office as president. Bansha needed three days to make a decision. Gotabaya did not delay three days. He asked Ranil as the third choice.
 
 ...
 
 [Data](articles/d1ef2064.json)
+
+[Extended Data](ext_articles/d1ef2064.ext.json)
 
 ---
 
@@ -140,6 +156,26 @@ Criminal police dollar bread and distribution of prizes to the government hospit
 
 ---
 
+### සෞඛ්‍ය වර්ජනය ගැන අවසන් තීරණය
+
+*2024-02-19 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193564) · `si`
+
+දීමනා ගැටලුවක් මුල්කර ගනිමින් වැඩවර්ජනයේ නිරත වු සෞඛ්‍ය වෘත්තීය සමිති අද (19) සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා සමග සාකච්ඡාවක් පැවැත්වීමට නියමිතව තිබේ.
+
+අද පෙරවරු 10.00ට අදාළ සාකච්ඡාව පැවැත්වෙන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පැවසුවේය.
+
+වෛද්‍යවරුන් සඳහා පමණක් දීමනා ඉහළ නැංවීමට විරෝධය පළ කරමින් සෞඛ්‍ය සේවාවේ විවිධ වෘත්තීන්ට අයත් වෘත්තීය සමිති 72ක් විසින් පසුගිය දා වැඩවර්ජනයක නිරත වු අතර සෞඛ්‍ය අමාත්‍යවරයා සමඟ සාකච්ඡාවක් ලබාදෙන බවට වන ලිඛිත පොරොන්දුව මත ඔවුන් වැඩවර්ජනය තාවකාලිකව අත්හිටවනු ලැබීය.
+
+සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා සමඟ පැවැත්වෙන සාකච්ඡාවේ දී සිය ගැටලු සඳහා විසඳුමක් නොලැබුණහොත් යළි වැඩවර්ජනයකට යොමුවන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ සම කැඳවුම්කරු රවී කුමුදේශ් මහතා පැවසුවේය.
+
+අමාත්‍යවරයා සමඟ සාකච්ඡාවක් ලබාදෙන බවට වන ලිඛිත පොරොන්දුව මත ඔවුන් වැඩවර්ජනය තාවකාලිකව අත්හිටවනු ලැබීය.
+
+◼️
+
+[Data](articles/69e24815.json)
+
+---
+
 ### TN Police intercept cannabis consignment bound for Sri Lanka, three held
 
 *2024-02-19 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97380/tn-police-intercept-cannabis-consignment-bound-for-sri-lanka-three-held) · `en`
@@ -160,6 +196,52 @@ Vettaikaraniruppu Police have registered a case against the three accused under 
 
 ---
 
+### කෘෂිකර්ම සමුළුව අද
+
+*2024-02-19 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193563) · `si`
+
+එක්සත් ජාතින්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ 37 වන ආසියා පැසිෆික් කලාපීය සමුළුව අද (19) කොළඹ දී ආරම්භ වේ.
+
+සමුළුව සඳහා ආසියා පැසිෆික් කලාපයේ රටවල් 42ක නියෝජිතයින් සහභාගි වීමට නියමිතය.
+
+එහිදී රටවල්  35ක කෘෂිකර්ම අමාත්‍යවරු, නියෝජ්‍ය අමාත්‍යවරු මෙන්ම නිලධාරින් ද 300කට අධික පිරිසක් සහභාගි වන බව කෘෂිකර්ම අමාත්‍යංශය සඳහන් කළේය.
+
+එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ අධ්‍යක්ෂ ජනරාල් කියු ඩොන්ග්යු ඇතුළු ඉහළ පෙළේ නිලධාරින් පිරිසක් ද සමුළුව සඳහා එක්වනු ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/3cc29ca4.json)
+
+---
+
+### තවත් ඝාතන දෙකක්
+
+*2024-02-19 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193562) · `si`
+
+ප්‍රදේශ දෙකක සිදුවු පහරදීම් හේතුවෙන් පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය පවසයි.
+
+ඊයේ (18) රාත්‍රියේ කුඹුක්ගැටේ වෙල්ගාල, නෙල්ලිය ප්‍ර‍දේශයේ දී පි‍යෙකු විසින් සිදුකළ පහරදීමකදී ඔහුගේ පුතා ඝාතනයට ලක්ව ඇති බව පොලීසිය පවසයි.
+
+මෙලෙස මිය ගොස් ඇත්තේ 30 හැවිරිදි එම ප්‍රදේශයේම පදිංචිව සිටි පුද්ගලයෙකි.
+
+මෙම පුද්ගලයා මත්ද්‍රව්‍ය සඳහා ඇබ්බැහි වූ පුද්ගලයෙකු වන අතර මත්ද්‍රව්‍ය මිල දී ගැනීමට නිරන්තරයෙන් සිය පියාගෙන් මුදල් ඉල්ලා ඔහුට පිඩා සිදුකර ඇති බව පොලිස් පරීක්ෂණවලදී හෙළි වී ඇත.
+
+ඊයේ දිනයේ දී ද මෙම පුද්ගලයා පියාගෙන් මුදල් ඉල්ලා කරදර සිදුකර ඇති අතර එහිදී පියා විසින් නිවසේ තිබූ මිටියක් රැ‍ගෙන ඔහුගේ හිසට පහර දී තිබේ.
+
+සැකකාර 60 හැවිරිදි පියා කුඹුක්ගැටේ පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+මේ අතර පුත්තලම හොරයිසන් පාක් ප්‍රදේශයේ නිවසක පැවති උපන්දින සාදයක් අතරතුර තියුණු ආයුධයකින් පහර දී රෝහල් ගත කර සිටි පුද්ගලයෙකු මියගොස් තිබේ.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ 32 හැවිරිදි පුත්තලම ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙකි.
+
+පසුගිය 17 වනදා රාත්‍රියේ බීමත්ව ඇති වූ ආරවුලක් හේතුවෙන් මෙම පහරදීම සිදු වී ඇති බවට අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/d4061459.json)
+
+---
+
 ### Showers expected in parts of the country
 
 *2024-02-19 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97379/showers-expected-in-parts-of-the-country) · `en`
@@ -175,6 +257,40 @@ The public is kindly requested to take adequate precautions to minimize damages 
 [Data](articles/f331faf9.json)
 
 [Extended Data](ext_articles/f331faf9.ext.json)
+
+---
+
+### ඇෆ්ගනිස්තාන -  ශ්‍රී ලංකා දෙවන විස්සයි විස්ස තරගය අද
+
+*2024-02-19 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193561) · `si`
+
+සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර දෙවන විස්සයි විස්ස තරගය අද (19) පැවැත්වේ.
+
+තරගය රංගිරි දඹුල්ල ක්‍රීඩාංගණයේ දී පස්වරු 7ට ආරම්භ වීමට නියමිතය.
+
+දෙරට අතර පැවති පළමු 20යි 20 තරගය ශ්‍රී ලංකා කණ්ඩායම ලකුණු 4ක තියුණු ජයක් ලබාගත්තේය.
+
+මේ අතර  ශ්‍රී ලංකා කණ්ඩායම සහ ඇෆ්ගනිස්තාන කණ්ඩායම අතර පැවැත්වෙන දෙවන සහ තෙවන විස්සයි විස්ස තරගවල සියලු ප්‍රවේශපත්‍ර විකිණි අවසන් බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය දැනුම් දී තිබුණි.
+
+◼️
+
+[Data](articles/a829a36c.json)
+
+---
+
+### නව පාසල් වාරය අද ඇරඹේ
+
+*2024-02-19 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193560) · `si`
+
+රජයේ හා රජයේ අනුමත පෞද්ගලික පාසල්වල තෙවන පාසල් වාරය පසුගිය සිකුරාදා (16) අවසන් විය.
+
+ඒ අනුව නව පාසල් වාරයේ පළමු අදියර අද ආරම්භ වන බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+
+පළමු පාසල් වාරයේ පළමු අදියර අප්‍රේල් මස 10 වන දා දක්වා ක්‍රියාත්මක වීමට නියමිතය.
+
+◼️
+
+[Data](articles/a5635e00.json)
 
 ---
 
@@ -203,6 +319,24 @@ He said the USAID had given millions of dollars for agricultural products at thi
 [Data](articles/e42175bf.json)
 
 [Extended Data](ext_articles/e42175bf.ext.json)
+
+---
+
+### සබරගමුවේ කාලගුණය වෙනස්වෙයි
+
+*2024-02-19 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193559) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වල වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+සබරගමුව පළාතේ ප.ව. 4.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව, දකුණ සහ නැගෙනහිර පළාත්වලත් මහනුවර සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-35 පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/ac1abec8.json)
 
 ---
 
@@ -1925,153 +2059,5 @@ According to the Sri Lanka Railway Department, the train had derailed in Ragama 
 [Data](articles/b2fa652a.json)
 
 [Extended Data](ext_articles/b2fa652a.ext.json)
-
----
-
-### A train jumps derails
-
-*2024-02-18 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193546) · `si`
-
-The train derailment near the Ragama Railway Station has been interrupted due to a train derailment.
-
-Accordingly, the train delay in the main road is due to the demanding delegation, the Railway Department says.
-
-The Upcountry Menike Spride (Colombo Fort) has been derailed this morning.
-
-◼️
-
-[Data](articles/7ec9e2b6.json)
-
-[Extended Data](ext_articles/7ec9e2b6.ext.json)
-
----
-
-### Anil went to the police with his wife's head
-
-*2024-02-18 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193545) · `si`
-
-Many are currently paying attention to a sensitive video of the social media.
-
-The video shows how a person carrying a part of a female head allocated from the trunk is the way.
-
-Anil Kumar, aged 30, who lives in Uturr Pradesh, India, is headed by the head of his wife.
-
-It has been revealed that they have two children, married a few years ago.
-
-The police do not have any further dispute between them and had to carry out the murder by the suspect her husband.
-
-The suspect was arrested by the police while he was traveling on the hands of his wife's head and a knife.
-
-In the face of further interrogation, he had said that he had come to the police to surrender.
-
-Foreign media reports that the police will do not take place on a heated argument in their home into a romantic station.
-
-◼️
-
-[Data](articles/3ac88e39.json)
-
-[Extended Data](ext_articles/3ac88e39.ext.json)
-
----
-
-### Even our leader should not get misled by con men: Chaminda Wijesiri
-
-*2024-02-18 16:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Even-our-leader-should-not-get-misled-by-con-men-Chaminda-Wijesiri/108-277260) · `en`
-
-Colombo, Feb. 18 (Daily Mirror)- Even Samagi Jana Balawegaya (SJB) leader Sajith Premadasa should not get misled by those who join the party for their benefits, former SJB MP Chaminda Wijesiri said today.
-
-"There are some politicians who have become independent after the country's economic downfall and then join new political parties. Our leaders should not welcome these political prostitutes. They will destroy the party if they are welcomed," the former MP said.
-
-He said there is nothing wrong in people taking to the streets and launching struggles against false political alliances," he told journalists.
-
-"People should not get deceived by false political alliances," he also said.
-
-◼️
-
-[Data](articles/94f703aa.json)
-
-[Extended Data](ext_articles/94f703aa.ext.json)
-
----
-
-### CID arrests close associate of ‘Piyuma’
-
-*2024-02-18 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97370/cid-arrests-close-associate-of-piyuma) · `en`
-
-A close associate of criminal gang member Piyum Hasthika alias ‘Piyuma’ was arrested by the Criminal Investigation Department (CID) on Saturday (17 Feb.).
-
-The female suspect, identified as a friend of Piyum Hasthika’s wife, was arrested upon her arrival in the country from Dubai, police reported, adding that the CID had subsequently recorded a statement from her for nearly four hours.
-
-According to police, ‘Piyuma’ had revealed a series of important facts about the crimes he committed, adding that he and the notorious underworld figure and drug trafficker Salindu Malshika Gunaratne alias ‘Kudu Salindu’ have been childhood friends.
-
-‘Piyuma’ was repatriated to Sri Lanka from Dubai on 15 February, after which the CID secured a 72-hour detention order under the Prevention of Terrorism Act (PTA) from the Colombo Fort Magistrate’s Court.
-
-According to the Public Security Ministry, the criminal suspect was brought back to the island by a special team of the CID.
-
-...
-
-[Data](articles/b4dae788.json)
-
-[Extended Data](ext_articles/b4dae788.ext.json)
-
----
-
-### Climbing
-
-*2024-02-18 16:18:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஏறி-வந்தவர்-பலி-ஏற்றிவந்தவர்-காயம்/76-333397) · `ta`
-
-A lorry carrying trees from the forest area crashed into a 200 -foot ditch on Sunday (18).
-
-In the accident, the deceased of Vadamalai Mayilvankanam (age 58) from Vadamalai Mayilvankanam (age 58) of the despepot garden of the Lorry to go to Nanuoya.
-
-The driver of the lorry has been admitted to the Nuwara Eliya District General Hospital with minor injuries.
-
-Initial investigations by the police have revealed that the Lorry has left the road due to a technical failure.
-
-◼️
-
-[Data](articles/a1894846.json)
-
-[Extended Data](ext_articles/a1894846.ext.json)
-
----
-
-### Health sector trade unions to meet Health Minister tomorrow
-
-*2024-02-18 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97369/health-sector-trade-unions-to-meet-health-minister-tomorrow) · `en`
-
-The collective of health sector trade unions are scheduled to meet Health Minister Dr. Ramesh Pathirana on Monday (19 Feb.).
-
-According to the Health Trade Union Alliance, if talks regarding their disparities in allowances with the Minister fails, a decision will be taken tomorrow pertaining to their strike action, which was called off on Wednesday morning (14 Feb.).
-
-On 14 February, the collective of trade unions decided to call off their strike action after the Minister agreed for a discussion with them.
-
-The trade unions representing a wide range of health sector professionals – including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers – have engaged in strikes time and time again over the past few months urging the government to provide them with an allowance similar to that of the DAT (Disturbance, Availability and Transport) allowance given to doctors.
-
-...
-
-[Data](articles/b7ccddf6.json)
-
-[Extended Data](ext_articles/b7ccddf6.ext.json)
-
----
-
-### Iranian Foreign Minister to visit Sri Lanka tomorrow
-
-*2024-02-18 15:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-Foreign-Minister-to-visit-Sri-Lanka-tomorrow/108-277261) · `en`
-
-Colombo, Feb. 18 (Daily Mirror)- Minister of Foreign Affairs of the Islamic Republic of Iran, Hossein Amir Abdollahian will undertake an official visit to Sri Lanka from tomorrow (19) to February 21, 2024, the Ministry of Foreign Affairs said.
-
-He will arrive in Sri Lanka on an invitation extended by Minister of Foreign Affairs Ali Sabry.
-
-"During this visit, the Iranian Foreign Minister is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. The visiting Minister and his delegation will hold official discussions with Minister Ali Sabry at the Ministry of Foreign Affairs, a statement issued by the Foreign Affairs Ministry said.
-
-In August 2023, Foreign Minister Ali Sabry had bilateral discussions with Foreign Minister Dr. Hossein Amir Abdollahian during his visit to Tehran.
-
-...
-
-[Data](articles/ea662123.json)
-
-[Extended Data](ext_articles/ea662123.ext.json)
 
 ---

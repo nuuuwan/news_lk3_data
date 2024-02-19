@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 00:47:56**
+As of **2024-02-20 01:02:28**
 
 ## Newspaper Stats
 
@@ -26,27 +26,31 @@ dailymirrorlk | 1,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,096 (99.9%) of 8,105 articles have been extended.
+8,102 (100.0%) of 8,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### தீவில் சிக்கித் தவிக்கும் இலங்கை புகலிடக் கோரிக்கையாளர்கள்: அவசர இடமாற்றத்திற்கு கோரிக்கை
+### Sri Lankan asylum seekers trapped on the island: request for emergency transfer
 
 *2024-02-20 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176807) · `ta`
 
-தனிமைப்படுத்தப்பட்ட பிரித்தானியாவுக்கு சொந்தமான தீவில் தங்கவைக்கப்பட்டுள்ள, தமிழ் புகலிடக் கோரிக்கையாளர்கள் குழு, தாங்கள் பாதுகாப்பற்றதாகவும் மறக்கப்பட்டதாகவும் உணர்வதாகத் தெரிவித்துள்ளதோடு, பாலியல் துஷ்பிரயோகங்களை எதிர்கொள்வதாகவும் தெரிவித்துள்ளனர்.
+A group of Tamil asylum seekers, who have been housed on an isolated British -owned island, have said they feel that they are insecure and forgotten and are facing sexual abuse.
 
-சிறுவர் துன்புறுத்தல் மற்றும் தங்களுக்குள்ளேயே காயங்களை ஏற்படுத்தி தற்கொலைக்கு முயற்சிப்பது குறித்தும், இந்தியப் பெருங்கடல் தீவான டியாகோ கார்சியாவில் (Diego Garcia) இரண்டு வருடங்களுக்கு மேலாகச் சிக்கித் தவிக்கும் இலங்கைத் தமிழ் புகலிடக் கோரிக்கையாளர்கள் ஐக்கிய நாடுகள் புலனாய்வாளர்களிடம் பகிர்ந்துகொண்டுள்ளனர்.
+Sri Lankan Tamil asylum seekers who have been trapped for more than two years in Diego Garcia, Diego Garcia, have been shared with the United Nations Intelligence of Child harassment and attempting suicide within themselves.
 
-ஐக்கிய நாடுகள் அகதிகள் முகவர் அமைப்பின் அதிகாரிகள் குறித்த புகலிடக் கோரிக்கையாளர்களின் நிலைமை குறித்து ஆராய்வதற்காக டியாகோ கார்சியாவிற்கு சென்றுள்ளனர்.
+The officials of the United Nations Refugee Agency have gone to Diego Garcia to investigate the plight of asylum seekers.
 
-புகலிடக் கோரிக்கையாளர்கள் டியாகோ கார்சியாவை 2021 ஒக்டோபரில் வந்தடைந்ததோடு, புகலிடம் கோரி கனடா செல்லும் வழியில் தமது படகு பழுதடைந்தமையால் அவர்கள் இந்த தீவை வந்தடைந்ததாக தெரிவிக்கப்படுகின்றது.
+Asylum seekers arrived in Diego Garcia in October 2021 and they were reported to have arrived on the fire as their boat was on his way to Canada on the way to Canada.
+
+Within the asylum seeking committee, the United Nations Refugee Agency said in a statement issued by the United Nations Refugee Agency (UNHRC) stated that the deaths of sexual harassment and abuse against women and children are being reported and increased depression.
 
 ...
 
 [Data](articles/2377dc89.json)
+
+[Extended Data](ext_articles/2377dc89.ext.json)
 
 ---
 
@@ -61,6 +65,8 @@ One website quoted former President Maithripala Sirisena as stating that Preside
 ...
 
 [Data](articles/a3271e51.json)
+
+[Extended Data](ext_articles/a3271e51.ext.json)
 
 ---
 
@@ -80,6 +86,8 @@ The Friday Forum, an informal group of concerned citizens pledged to uphold the 
 
 [Data](articles/aef8d313.json)
 
+[Extended Data](ext_articles/aef8d313.ext.json)
+
 ---
 
 ### Abu Dhabi heralds Era of Religious Accommodation in Islamic West Asia
@@ -97,6 +105,8 @@ The UAE has 3.5 million Indians, the majority of whom are Hindus. Indian immigra
 ...
 
 [Data](articles/b9c050bb.json)
+
+[Extended Data](ext_articles/b9c050bb.ext.json)
 
 ---
 
@@ -117,6 +127,8 @@ Addressing the media, Ratnayake described that the PUCSL was set up to look into
 ...
 
 [Data](articles/53051f8f.json)
+
+[Extended Data](ext_articles/53051f8f.ext.json)
 
 ---
 
@@ -140,21 +152,27 @@ Accordingly, the Sri Lankan team won the three-match series 2-0. Remble
 
 ---
 
-### இலங்கைக்கு இலகு வெற்றி: ரி20இல் ஹசரங்க 100 விக்கெட்கள், சகலதுறைகளில் மெத்யூஸ் பிரகாசிப்பு
+### Light winning to Sri Lanka: Hazaranga 100 wickets in T20
 
 *2024-02-19 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176806) · `ta`
 
-ஆப்கானிஸ்தானுக்கு எதிராக ரங்கிரி, தம்புள்ளை சர்வதேச விளையாட்டரங்கில் இன்று திங்கட்கிழமை (19) நடைபெற்ற இரண்டாவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் சகலதுறைகளிலும் அபரிமிதமாக பிரகாசித்த இலங்கை 72 ஓட்டங்களால் மிக இலகுவாக வெற்றிபெற்றது.
+Sri Lanka won the second international T20 cricket match at the Rangiri and Dambulla International Stadium against Afghanistan on Monday (19) by 72 runs.
 
-இந்த வெற்றியுடன் இரண்டு நாடுகளுக்கும் இடையிலான வரலாற்று முக்கியம்வாய்ந்த முதுலாவது ரி20 கிரிக்கெட் தொடரில் ஒரு போட்டி மீதம் இருக்க இப்போதைக்கு 2 - 0 என்ற ஆட்டக் கணக்கில் இலங்கை முன்னிலை அடைந்து தொடரைக் தனதாக்கிக்கொண்டது.
+With this victory, Sri Lanka has now reached the lead in the series 2 - 0 in the R20 cricket series.
 
-இந்தப் போட்டியில் ஆப்கானிஸ்தான் வீரர் நஜிபுல்லா ஸத்ரானின் விக்கெட்டை நேரடியாகப் பதம் பார்த்த வனிந்து ஹசரங்க தனது 63ஆவது போட்டியில் 100ஆவது விக்கெட்டைக் கைப்பற்றினார். மேலும் ஒரு விக்கெட்டை இந்தப் போட்டியில் கைப்பற்றிய அவர் 101 விக்கெட்களை மொத்தமாக வீழ்த்தியுள்ளார்.
+In this match, Afghanistan player Najibullah Sadran's wicket directly in his 63rd match of his 63rd match.. He also took a wicket in the match and took 101 wickets in total.
 
-ஆப்கன் சுழல்பந்துவீச்சு நட்சத்திரம் ரஷீத் கானுக்கு அடுத்ததாக அதிவேகமாக (குறைந்த போட்டிகள்) 100 விக்கெட்களை வீழ்த்தியவர் ஹசரங்க ஆவார். ரஷீத் கான் 53 போட்டிகளில் இந்த மைல்கல்லை எட்டியிருந்தார்.
+Afghan spinning star Rashid Khan is the fastest (low -match) 100 wickets for Hasaranga. Rashid Khan had reached this milestone in 53 matches.
+
+In the international T20 cricket, Lasith Malinga is the second Sri Lankan player to take 100 wickets. He is the 11th player who took 100 wickets in the international T20 stage.
+
+In today's match, Angelo Mathews's all -rounder match, Sadheera Samarawickrama scored a half -century, and the accurate bowling of Binura Fernando, Wanindu Hazaranga and Madhisha Pathirana made Sri Lanka's success.
 
 ...
 
 [Data](articles/643646b8.json)
+
+[Extended Data](ext_articles/643646b8.ext.json)
 
 ---
 

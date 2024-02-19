@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 20:17:32**
+As of **2024-02-19 20:32:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,186
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,064 (100.0%) of 8,066 articles have been extended.
+8,066 (100.0%) of 8,066 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ He noted, however, that due to the current arid weather conditions, hydropower g
 ◼️
 
 [Data](articles/42cad4b6.json)
+
+[Extended Data](ext_articles/42cad4b6.ext.json)
 
 ---
 
@@ -1392,27 +1394,31 @@ The US dollar purchasing price was Rs 307.4708 and the sales price were 317.7290
 
 ---
 
-### පිටිපන ලෙල්ලම: කොළඹ අගරදගරු මැදුර සහ ධීවරයින් අතර ආරවුල කුමක් ද?
+### Lecoils of Pitipinations: What is the dispute between the ards and fishermen of Colombo?
 
 *2024-02-19 13:42:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgrl3764p34o) · `si`
 
-පිටිපන ලෙල්ලම: කොළඹ අගරදගරු මැදුර සහ ධීවරයින් අතර ආරවුල කුමක් ද?
+Lecoils of Pitipinations: What is the dispute between the ards and fishermen of Colombo?
 
-කතෝලික ආගමේ ආරම්භයේ සිටම ධීවරයන් සමග ඇත්තේ ආත්මීය බැඳීමකි.ජේසුස් වහන්සේ තම ගෝලයන් ලෙස ද තෝරා ගත්තේ ධීවරයෙන් දොළොස් දෙනෙකි.
+From the very beginning of the Catholicism, there is a spiritual bond with fishermen.
 
-මීගමුව පිටිපන ධීවරයන් පිරිසක් අද (පෙබරවාරි 19 වැනිදා) කොළඹ අගරදගුරු නිල නිවස ඉදිරිපිට විරෝධතාවයක නිරත වුයේ කතෝලික සභාව තමන් රැකියාව කරනු ලබන ලෙල්ලම පවරා ගැනීමට උත්සාහ දරන බවට චෝදනා කරමින් ය.
+A group of Pitchana fishermen in Negombo on February 19, the Catholic Church accused the Catholic Church attempting to take over the wheel.
 
-ධීවරයින් පිරිස විසින් ශූද්ධෝත්ම පාප් තුමන්ගේ කොළඹ සිටින නියෝජිත හිමියන්ට ද තම ගැටලු ඇතුළත් සංදේශයක් භාර දෙන ලදි.
+The fishermen were the fishermen representatives in Colombo and handed over their problems.
 
-ඉන් අනතුරුව කොළඹ අගරදගුරු නිවාස බලා ගිය ඔවූහූ, ධීවර ලෙල්ලමේ අයිතිය තමන්ට දෙන ලෙස ඉල්ලමින් විරෝධතාවයක නිරත වූහ.
+The Archbishop of Colombo then protested against the ownership of the fishing hustaining ownership.
 
-2008 වසරේ දී එවකට කොළඹ අගරදගුරු ඔස්වල්ඩ් ගෝමිස් හිමිපානන් විසින් පිටිපන එක්සත් ධීවර සමිතියට එරෙහිව නඩු පවරා ඇත්තේ ලෙල්ලම ලබා දීමේ දී පනවා ඇති කොන්දේසි කඩ කළ බවට චෝදනා කරමිනි.
+In 2008, the Archbishop Oswald Gomis returns filed against the United Fisheries Society Pitiplied to the United Fisheries Society.
 
-අදාළ ඉඩම කොළඹ අගරදගුරු හිමියන්ට අයත් බවට නියෝගයක් ලබා දෙන ලෙසත් එසේ නියෝගය ලබා දෙන තුරු  තම නියෝජිතයෙකු ලෙල්ලමේ පරිපාලනයට හා භාරකාරීත්වයට පත් කරන ලෙසත් කොළඹ එවකට සිටි අගරදගුරු හිමිපානන් පෙත්සමෙන් ඉල්ලා තිබේ.
+The land was to be ordered to be ordered to be the administration of the Archbishop owners in Colombo and to be guarded and to restore the land and the backdrop of Colombo.
+
+According to the request, the Negombo District Court has ordered the administration and management of the Negombo District Court to handle the laboratory and management.
 
 ...
 
 [Data](articles/2ef9b55a.json)
+
+[Extended Data](ext_articles/2ef9b55a.ext.json)
 
 ---
 

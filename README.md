@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 09:33:08**
+As of **2024-02-19 09:51:40**
 
 ## Newspaper Stats
 
-*Scraped **7,927** Articles*
+*Scraped **7,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 88
 bbccomsinhala | 99
 dbsjeyarajcom | 154
 newsfirstlk | 363
-economynextcom | 404
+economynextcom | 406
 islandlk | 420
 dailyftlk | 434
 adalk | 672
@@ -20,17 +20,31 @@ tamilmirrorlk | 962
 adaderanalk | 970
 virakesarilk | 1,045
 adaderanasinhalalk | 1,152
-dailymirrorlk | 1,164
+dailymirrorlk | 1,166
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,927 (100.0%) of 7,927 articles have been extended.
+7,927 (99.9%) of 7,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Sri Lanka, India set to conclude ETCA in April
+
+*2024-02-19 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-India-set-to-conclude-ETCA-in-April/108-277293) · `en`
+
+Colombo, Feb 9 (Daily Mirror) - Hot on the heels of signing the Free Trade Agreement ( FTA) with Thailand , Sri Lanka is now planning to conclude talks on the Economic and Technology Cooperation Agreement (ETCA) with India within the next couple of months while resuming talks on a Free Trade Agreement (FTA) with China in April, an informed source said.
+
+There is simmering tension against the Economic and Technology Cooperation Agreement (ETCA) with India in some quarters . Sri Lankan professional categories remain wary of opening up the service sector fearing that the possible influx of Indian professionals will keep their jobs at stake .
+
+...
+
+[Data](articles/10b7e74a.json)
+
+---
 
 ### Wife dies after husband's attack
 
@@ -290,6 +304,24 @@ Meanwhile, SLC had informed the sale of all tickets in the Sri Lanka team and th
 
 ---
 
+### Sri Lanka should protest the 7-pct annual inflation target, not a 3-pct VAT hike
+
+*2024-02-19 07:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-protest-the-7-pct-annual-inflation-target-not-a-3-pct-vat-hike-151314/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s politicians are protesting a once in a lifetime valued added tax of 3 as well as the imposition of VAT on some new items, but far more damaging to the poor is the deadly power given to macroeconomists to generate 5 to 7 percent inflation every year.
+
+Sri Lanka’s macro-economists had inveigled President Ranil Wickremesinghe and handed them the power to conduct monetary policy (read print money) and generate inflation of 5 percent a year with room to push up price rises to 7 percent.
+
+Related Sri Lanka central bank gets political nod to create up to 7-pct inflation
+
+Legislators had already been misled by inflationists into passing the new IMF backed monetary law to target potential output (print money for growth) in the style of John Law, so positive inflation targeting was a piece of cake.
+
+...
+
+[Data](articles/0131ae1a.json)
+
+---
+
 ### New school term begins today
 
 *2024-02-19 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193560) · `si`
@@ -417,6 +449,24 @@ Risks to real economic growth projections are skewed to the downside both in the
 [Data](articles/e11981f3.json)
 
 [Extended Data](ext_articles/e11981f3.ext.json)
+
+---
+
+### Central Bank urges legal reforms for stronger credit recovery
+
+*2024-02-19 05:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-urges-legal-reforms-for-stronger-credit-recovery/155-277291) · `en`
+
+Says shorter credit recovery cycle critical to ensure business continuity
+
+Asserts time taken to recover assets must be further minimised
+
+With a view to ensure continuity of businesses  and job security of employees,  the Central Bank (CB) has called for legal reforms to  further strengthen Sri Lanka’s Parate execution law and other credit recovery laws in order to shorten the credit recovery cycle on par with global practices .
+
+Instead of suspending Parate Rights for few borrowers who are in the cover of SMEs, Central Bank (CB) Governor Dr. Nandalal Weerasinghe asserted that further strengthening of the Parate execution law along with other credit recovery laws stands to benefit the country’s MSME sector with greater access to credit.
+
+...
+
+[Data](articles/712bbf21.json)
 
 ---
 
@@ -1626,6 +1676,34 @@ Sri Lanka welcomed 1. 486 million tourists in 2023 and is targeting 2.3 million 
 
 ---
 
+### Sri Lanka tea prices up across elevations in February
+
+*2024-02-18 19:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-prices-up-across-elevations-in-february-151289/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tea prices went up across elevations, with the low grown sale average topping 1,400 rupees a kilogram at the seventh auction of 2024 on February 13 -14, market data showed.
+
+Sri Lanka tea prices have moved up in 2024 in both rupee and US dollar terms.
+
+The national weekly sale average went up 29.13 rupees to 1,338.27 rupees a kilogram, according to industry data published by Ceylon Tea Brokers.
+
+In the seventh week, 4.3 million kilos were sold by public auction.
+
+The highest priced category, Low Growns went up 37.53 rupees, to 1,428.27 rupees.
+
+While BOP1 Select best maintained, certain best and below best varieties both maintained and fell. The poorer sorts gained.
+
+OP1 Select best and best fell, while below best and poorer varieties gained.
+
+OP and OPA varieties prices maintained. Certain Select bests were maintained and some fell, while the balance sold around last week levels.
+
+The Medium Grown sale average went up 57.60 rupees to 1,157.49 rupees.
+
+...
+
+[Data](articles/b69ecf2f.json)
+
+---
+
 ### Sri Lana tea prices up across elevations in February
 
 *2024-02-18 19:14:00* · [`economynextcom`](https://economynext.com/sri-lana-tea-prices-up-across-elevations-in-february-151289/) · `en`
@@ -2003,77 +2081,5 @@ The van and the bus has been severely damaged, and the Ginigathena Police are co
 [Data](articles/05bc7e19.json)
 
 [Extended Data](ext_articles/05bc7e19.ext.json)
-
----
-
-### Twenty20s are all over
-
-*2024-02-18 17:24:33* · [`adalk`](https://www.ada.lk/sports/විස්සයි20-තරගාලවලියේ-ප්‍ර-වේශපත්‍ර-සියල්ලම-අවසන්/9-408153) · `si`
-
-Sri Lanka Cricket said all the tickets of the Twenty20 cricket match between Sri Lanka and Afghanistan have been constructed.
-
-Dambulla and Colombo has decided to close tickets for the established tickets in Colombo.
-
-The second Twenty-Twenty Twenty Twenty Twenty-Twenty 19th and Twenty 19, Twenty 19th and Third T20 match will be played at Dambulla International Cricket Stadium.
-
-Sri Lanka were able to recover 4 runs in the first Twenty20 match.
-
-◼️
-
-[Data](articles/ea462f7d.json)
-
-[Extended Data](ext_articles/ea462f7d.ext.json)
-
----
-
-### Udarata Menike derailed delaying trains on main-line
-
-*2024-02-18 17:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Udarata-Menike-derailed-delaying-trains-on-main-line/108-277262) · `en`
-
-Ragama, Feb 18 (Daily Mirror) - The Railways Department announced that train operations on the main line will be delayed due to the derailment of the Udarata Menike express train near the Ragama railway station.
-
-They said the train plying from Badulla to Colombo at 5.45 a.m. derailed near the Ragama station.
-
-Therefore, the department announced that train operations on the main line will be delayed.
-
-◼️
-
-[Data](articles/6ead142a.json)
-
-[Extended Data](ext_articles/6ead142a.ext.json)
-
----
-
-### Indian envoy confident Nagapattinam–KKS ferry services will resume soon
-
-*2024-02-18 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97372/indian-envoy-confident-nagapattinamkks-ferry-services-will-resume-soon) · `en`
-
-The High Commissioner of India in Sri Lanka, Santosh Jha, has expressed confidence regarding earliest recommencement of Nagapattinam - Kankesanthurai (KKS) ferry service in the coming weeks, adding that efforts are also underway to resume the ferry services between Talaimannar and Rameswaram.
-
-The Indian High Commissioner made these remarks during his visit to the KKS Port and the Talaimannar Pier, where he spoke of the need for expeditious resumption of ferry services between the two countries.
-
-High Commissioner Jha undertook his first official visit to Sri Lanka’s Northern Province from 15 to 17 February, during which the diverse engagements he participated in attested to the deep-rooted nature of the bilateral partnership and India’s firm commitment to deepening socio-economic and cultural ties with Northern Province, the High Commission said in a statement.
-
-...
-
-[Data](articles/de50e325.json)
-
-[Extended Data](ext_articles/de50e325.ext.json)
-
----
-
-### ‘Udarata Menike’ train derails in Ragama
-
-*2024-02-18 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97371/udarata-menike-train-derails-in-ragama) · `en`
-
-Train services on the main line have been disrupted after the ‘Udarata Menike’ train derailed near the Ragama railway station.
-
-According to the Sri Lanka Railway Department, the train had derailed in Ragama while plying from Badulla to Colombo Fort.
-
-◼️
-
-[Data](articles/b2fa652a.json)
-
-[Extended Data](ext_articles/b2fa652a.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 01:50:01**
+As of **2024-02-20 02:02:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,105 (100.0%) of 8,109 articles have been extended.
+8,109 (100.0%) of 8,109 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ UPI is a payment gateway used in India that’s catapulting India from a primari
 
 [Data](articles/5f40b94e.json)
 
+[Extended Data](ext_articles/5f40b94e.ext.json)
+
 ---
 
 ### Busting fake unions presents avenues for better progress
@@ -64,6 +66,8 @@ The Sri Lankan apparel industry captured the spotlight over the past year, as re
 
 [Data](articles/60f026e7.json)
 
+[Extended Data](ext_articles/60f026e7.ext.json)
+
 ---
 
 ### Making immunoglobulin is no picnic
@@ -75,6 +79,8 @@ Medicinal drugs can be divided into three major categories depending on their ro
 ...
 
 [Data](articles/c2b2c5ad.json)
+
+[Extended Data](ext_articles/c2b2c5ad.ext.json)
 
 ---
 
@@ -91,6 +97,8 @@ At present it has been revealed there are close to 11,000 institutions involved 
 ...
 
 [Data](articles/21f4b992.json)
+
+[Extended Data](ext_articles/21f4b992.ext.json)
 
 ---
 

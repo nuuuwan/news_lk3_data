@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 01:17:18**
+As of **2024-02-20 01:32:49**
 
 ## Newspaper Stats
 
-*Scraped **8,105** Articles*
+*Scraped **8,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 154
 newsfirstlk | 363
 economynextcom | 419
 islandlk | 422
-dailyftlk | 435
+dailyftlk | 439
 adalk | 693
 tamilmirrorlk | 983
 adaderanalk | 986
@@ -26,11 +26,73 @@ dailymirrorlk | 1,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,105 (100.0%) of 8,105 articles have been extended.
+8,105 (100.0%) of 8,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### The UPI revolution: Cashless digitised economy activated
+
+*2024-02-20 00:45:12* · [`dailyftlk`](https://www.ft.lk/columns/The-UPI-revolution-Cashless-digitised-economy-activated/4-758654) · `en`
+
+It’s time now for the cashless digitised economy revolution in Sri Lanka too
+
+The long-term opportunity for Sri Lanka is to use this technology to drive digitised transactions among Sri Lankan consumers. This would be a win-win for all – consumers need not carry cash or cards, merchants can have much better control of their revenues and the Government will now be able to accrue greater revenue by channelling the unorganised cash sector into the formal economy
+
+I became the first person to officially transact using UPI in Sri Lanka on 12 February 2024. In the presence of three heads of states/governments. Leaders of India, Sri Lanka and Mauritius watched the transaction and celebrated its success with applause.
+
+So what is UPI? How does it benefit Indian consumers, merchants and its economy? And why is it such a big deal? And how can Sri Lanka benefit from its introduction here?
+
+UPI is a payment gateway used in India that’s catapulting India from a primarily cash economy to a digital economy.
+
+...
+
+[Data](articles/5f40b94e.json)
+
+---
+
+### Busting fake unions presents avenues for better progress
+
+*2024-02-20 00:41:57* · [`dailyftlk`](https://www.ft.lk/opinion/Busting-fake-unions-presents-avenues-for-better-progress/14-758653) · `en`
+
+For some union leaders, entry into a factory with wider membership promises better funding and position
+
+The Sri Lankan apparel industry captured the spotlight over the past year, as reduced orders resulted in factory closures, lesser earnings and job losses. The drop in orders was consequent to a global demand dip stemming from COVID-19-led lockdowns. This was compounded by price competitiveness, with Sri Lanka trailing far behind nations like Bangladesh, Vietnam and China that also boasts significantly higher efficiency. Despite Sri Lanka’s high-cost base, the destination is a darling for global brands due to its high compliance standards and production quality. However, this will not suffice to grow the segment as other nations are catching up fast, especially with quality.
+
+...
+
+[Data](articles/60f026e7.json)
+
+---
+
+### Making immunoglobulin is no picnic
+
+*2024-02-20 00:40:33* · [`dailyftlk`](https://www.ft.lk/opinion/Making-immunoglobulin-is-no-picnic/14-758652) · `en`
+
+Medicinal drugs can be divided into three major categories depending on their route of administration to patients: oral, parenteral, and topical forms. The parenteral (par = beyond, enteral = intestines) means administration not involving the intestinal or oral route. The parenteral drugs can be further classified in to four types depending on the site of administration: intravenous, intramuscular, subcutaneous, and intradermal drugs. The aim of this write up is to highlight the safety precautions involved in the manufacture of intravenous drugs as their quality, or lack of it, can be a matter of life or death for the patient.
+
+...
+
+[Data](articles/c2b2c5ad.json)
+
+---
+
+### Accessibility of microfinance
+
+*2024-02-20 00:38:58* · [`dailyftlk`](https://www.ft.lk/columns/Accessibility-of-microfinance/4-758650) · `en`
+
+Providing credit facilities under microfinance to the poor and underprivileged could be considered as a powerful tool in alleviating poverty
+
+A new Micro Finance and Credit Regulatory Bill has been tabled in Parliament towards regulating the existing money lending business of various entities to protect borrowers from any unfairness. The proposed bill, it has been reported, will repeal the Microfinance Act No: 16 of 2016.
+
+At present it has been revealed there are close to 11,000 institutions involved in lending for this sector and only five among them are registered. The remainder operate on their own without abiding by the rules and regulations imposed by the Regulators. Some of these entities involved in money lending charge exorbitant interest ranging from 40% to a staggering 200% as reported in the media.
+
+...
+
+[Data](articles/21f4b992.json)
+
+---
 
 ### Sri Lankan asylum seekers trapped on the island: request for emergency transfer
 
@@ -1961,75 +2023,5 @@ The organisation proposed to abolish Provincial Councils and set up district cou
 [Data](articles/f87f44c1.json)
 
 [Extended Data](ext_articles/f87f44c1.ext.json)
-
----
-
-### Little sales were ordained
-
-*2024-02-19 14:14:49* · [`adalk`](https://www.ada.lk/breaking_news/’’සිඳු’’--සෝරත-පොඩි-සාදු-පැවිදි-වෙයි/11-408175) · `si`
-
-Due to the preferred consent of Kavis, a long time, he would have to be the same.
-
-◼️
-
-[Data](articles/925086a7.json)
-
-[Extended Data](ext_articles/925086a7.ext.json)
-
----
-
-### GL's support to Sajith
-
-*2024-02-19 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193576) · `si`
-
-Parliamentarian Professor Prof. GG of supporters of Sajith Premadasa in a future presidential election. L. Mr. Peiris says.
-
-He was speaking at a media briefing held today (19).
-
-At present G. L. Peiris, including Peiris, academics a group of parliamentarians in Parliament.
-
-◼️
-
-[Data](articles/b438f30d.json)
-
-[Extended Data](ext_articles/b438f30d.ext.json)
-
----
-
-### Bharat - Lanka Housing Scheme
-
-*2024-02-19 14:07:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரத்-லங்கா-வீட்டுத்திட்டம்-ஜீவன்-ஆரம்பித்து-வைப்பு/175-333438) · `ta`
-
-With the financial assistance of the Government of India, President Ranil Wickremesinghe, with the guidance of President Ranil Wickremesinghe, was launched on Monday (19) under the coordination of Minister of Water Resources and Estate Infrastructure Development Jeevan Thondaman.
-
-Accordingly, the inauguration ceremony for construction work was officially launched today in 45 gardens, including the 10 districts of Nuwara Eliya, Kandy, Badulla, Matale, Kegalle, Kurunegala, Kurunegala, Galle, Kalutara and Moneragala.
-
-The event was launched with the participation of President Ranil Wickremesinghe, General Secretary of the CWC, Minister of Water Resources and Estate Infrastructure and Indian Ambassador Santosh Ja.Prabhu Pradeshiya Sabha Authority Officer in front of the Norwood Pradeshiya Sabha was attended by many members of the Human Resources Plantation Development Center.
-
-◼️
-
-[Data](articles/fc22c7ac.json)
-
-[Extended Data](ext_articles/fc22c7ac.ext.json)
-
----
-
-### FAO Director General visits Sri Lanka tea factory, rubber institute
-
-*2024-02-19 14:03:00* · [`economynextcom`](https://economynext.com/fao-director-general-visits-sri-lanka-tea-factory-rubber-institute-151470/) · `en`
-
-ECONOMYNEXT – The Director General of the United Nations Food and Agricultural Organization, Dr Qu Dongyu, has visited the Athukorala tea factory in Elpitiya and the Rubber Research Institute in Agalawatte on an inspection tour over the weekend.
-
-“The United Nations Food and Agriculture Organization will focus attention on the development of tea, coconut and rubber crops, in addition to paddy cultivation and other crops in our country,” Minister of Agriculture and Plantation Industries Mahinda Amaraweera said on his social media page.
-
-Amaraweera said Dongyu spoke highly of the country’s tea and kithul jaggery.
-
-Dongyu is leading a delegation from FAO headquarters in Rome to attend the 37th Ministerial Session of the FAO Regional Conference for Asia and the Pacific (APRC37), a four-day forum held in Colombo.
-
-...
-
-[Data](articles/288b389b.json)
-
-[Extended Data](ext_articles/288b389b.ext.json)
 
 ---

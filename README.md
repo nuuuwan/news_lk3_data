@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 22:33:01**
+As of **2024-02-19 22:50:07**
 
 ## Newspaper Stats
 
-*Scraped **8,088** Articles*
+*Scraped **8,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 693
 tamilmirrorlk | 982
 adaderanalk | 985
 virakesarilk | 1,078
-adaderanasinhalalk | 1,178
+adaderanasinhalalk | 1,180
 dailymirrorlk | 1,191
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,084 (100.0%) of 8,088 articles have been extended.
+8,090 (100.0%) of 8,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Superior to Sri Lanka after some time
+
+*2024-02-19 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193593) · `si`
+
+Another bad memory was held today at Sri Lanka's tourist.
+
+With the winning of the Second Twenty20 match today, it is the passage of Sri Lanka in advance.
+
+Accordingly, Sri Lanka won the match by 72 runs.
+
+◼️
+
+[Data](articles/66e7d5ec.json)
+
+[Extended Data](ext_articles/66e7d5ec.ext.json)
+
+---
+
+### 100 woods
+
+*2024-02-19 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193592) · `si`
+
+Found the 100th wicket at T20 of the Twenty20 area of T20 of the Twenty20.
+
+Twenty20 played Wentuwu talent.
+
+He made the same talent in the 13th over the 13th over the 13th over the 13th winter.
+
+◼️
+
+[Data](articles/8fa529e7.json)
+
+[Extended Data](ext_articles/8fa529e7.ext.json)
+
+---
 
 ### Archbishop announced
 
@@ -71,6 +107,8 @@ Speaking at an event hosted by the Sri Lanka Press Institute (SLPI) Press Club t
 ...
 
 [Data](articles/de80e072.json)
+
+[Extended Data](ext_articles/de80e072.ext.json)
 
 ---
 
@@ -180,25 +218,27 @@ Workmen attending to repairs to the railway lines of the Ragama railway station,
 
 ---
 
-### வயிற்று வலியால் அவதிப்பட்டவர் தூங்கில் தொங்கினார்
+### The person who suffered from abdominal pain hung in sleep
 
 *2024-02-19 20:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயிற்று-வலியால்-அவதிப்பட்டவர்-தூங்கில்-தொங்கினார்/175-333471) · `ta`
 
-இராகலை பொலிஸ் பிரிவுக்குட்பட்ட இராகலை மேற்பார்வை தோட்டத்தில் உள்ள வீட்டில் தூக்கில் தொங்கிய நிலையில் ஆணின் சடலம்  ஒன்றை இராகலை பொலிஸார் இன்று (19)   மீட்டுள்ளனர்.
+Irakalai police have recovered a body of a man today (19) after being hanged in the house of the Irakalai police division.
 
-இவ்வாறு சடலமாக மீட்கப்பட்டவர் மூன்று பிள்ளைகளின் தந்தையான (61) வயதுடைய பொண்னையா  நாகேஸ்வரன் என அடையாளம் காணப்பட்டுள்ளார்.
+The body of the body has been identified as the father of three children (61), Ponnaiah Nageswaran.
 
-மிக நீண்ட நாட்களாக தனக்கு வயிற்று வலியென அவதிப்பட்டு வந்த நிலையில், தனது மூத்த மகனுடன் இன்று (19) காலை வைத்தியசாலைக்கு சென்று மருந்து பெற்றுக்கொண்டு வீடு திரும்பிய இவர், தனது வீட்டில் தனி அறையில் கயிற்றில் தொங்கியவாறு உயிரிழந்துள்ளார்.
+He had been suffering from abdominal pain for a long time and returned home with his eldest son this morning (19) and returned home and died in a separate room.
 
-அதேநேரத்தில் தனது இளைய மகனுக்கு அடுத்த மாதம் திருமணம் நிச்சயக்கப்பட்டுள்ள நிலையில் இந்த உயிரிழப்பு சம்பவம் இடம்பெற்றுள்ளது.
+At the same time, the death of his younger son is engaged next month.
 
-இந்த நிலையில் உயிரிழந்தவர் தன்னுயிரை மாய்த்து கொண்டாரா என்பது தொடர்பில் இராகலை குற்றத்தடுப்பு பொலிஸார் விசாரணைகளை நடத்தி வருகின்றனர்.
+The police are conducting investigations into whether the deceased was in the throes.
 
-அத்துடன் வலப்பனை நீதிமன்ற நீதிபதியின் மரண விசாரணையின் பின் சடலம் பிரேத பரிசோதனைக்காக நுவரெலியா மாவட்ட வைத்தியசாலைக்கு கொண்டு செல்லப்படவுள்ளதாக இராகலை பொலிஸார் தெரிவித்தனர். R
+The body will be taken to the Nuwara Eliya District Hospital for autopsy following the death of a court judge.. Remble
 
 ◼️
 
 [Data](articles/782e59ec.json)
+
+[Extended Data](ext_articles/782e59ec.ext.json)
 
 ---
 
@@ -330,25 +370,29 @@ The Director General of the United Nations Food and Agriculture Organization was
 
 ---
 
-### நாங்கள் உங்களது மிகப்பெரிய ரசிகர்கள் - எலிசபெத்
+### We are your biggest fans - Elizabeth
 
 *2024-02-19 19:32:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-உங்களது-மிகப்பெரிய-ரசிகர்கள்-எலிசபெத்/175-333470) · `ta`
 
-“உலகளாவிய ஊடக பரப்பும் ஜனநாயகத்தின் மீதான அதன் தாக்கமும்” என்ற தொனிப்பொருளில் இலங்கை பத்திரிகை ஸ்தாபனத்தின் நிகழ்வு இன்று இடம்பெற்றது.
+The event of the Sri Lankan newspaper establishment took place today under the theme of “global media spreading and its impact on democracy”.
 
-இதில் பொது உறவுகளுக்கான துணை இராஜாங்க செயலாளர் எலிசபெத் அலனின் பின்வருமாறு உரை நிகழ்த்தினார்.
+Deputy Secretary of State for Public Relations, Elizabeth Alan, delivered the speech.
 
-இன்று எல்லோருடனும் இங்கு இருப்பது அருமையாக இருக்கிறது. மேலும் தூதுவர் சங் அவர்களே, இலங்கையில் அமெரிக்க மக்களைப் பிரதிநிதித்துவப்படுத்தும் உங்களது தலைமைத்துவத்திற்கு நன்றி.
+It is fantastic to be here with everyone today. And the Ambassador Sung, thank you for your leadership representing the American people in Sri Lanka.
 
-· இலங்கை பத்திரிகை நிறுவனத்திற்கு நன்றி, நான் இன்று இங்கு இருப்பதில் மகிழ்ச்சி அடைகிறேன். ஊடகவியலின் கைவினைப் பணியில் நீங்கள் கொண்டுள்ள அர்ப்பணிப்பானது மிகவும் ஊக்கமளிக்கிறது.
+· Thanks to the Sri Lankan newspaper, I'm glad I am here today. The dedication you have in the craft of journalism is very encouraging.
 
-· இதை அறிந்து கொள்ளுங்கள்: நீங்கள் மேற்கொள்ளும் அபாரமான பணியை  அமெரிக்கத் தூதரகம் முழுமையாக ஆதரிக்கிறது. நிச்சயமாக, ஒரு செய்தி தொடர்பாக அவ்வப்போது நாங்கள் முட்டிக் கொண்டாலும், அவையனைத்தையும் தாண்டி, நாங்கள் உங்களது மிகப்பெரிய ரசிகர்கள்.
+· Know This: The US Embassy fully supports the immense task you do. Of course, even though we are from time to time, we are your biggest fans, beyond all of them.
 
-சுதந்திரமாகவும் அச்சமின்றியும் ஊடகவியலைத் தொடர்வதற்கு உங்களுக்கு உரிமையுண்டு என நாங்கள் நம்புவதால், உங்களது திறமைகளை கூர்மைப்படுத்தும் நிகழ்ச்சித்திட்டங்களில் நாங்கள் அனைவரும் ஈடுபட்டுள்ளோம்.
+Since we believe that you have the right to continue the journalism freely and without fear, we are all involved in the programs to sharpen your talents.
+
+· I stand in a room full of journalists, to protect the rights and freedoms of journalists from Sri Lanka and around the world, and all citizens open their ideas and thoughts
 
 ...
 
 [Data](articles/c4d433e7.json)
+
+[Extended Data](ext_articles/c4d433e7.ext.json)
 
 ---
 
@@ -432,19 +476,21 @@ In a statement, he said Sri Lanka and Russia have enjoyed longstanding and stron
 
 ---
 
-### ஷிரந்திக்கு கொடுப்பனவு மற்றும் ஓய்வூதியம் வழங்கப்படுகின்றதா?
+### Does Shiranthi are given a allowance and pension?
 
 *2024-02-19 18:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷிரந்திக்கு-கொடுப்பனவு-மற்றும்-ஓய்வூதியம்-வழங்கப்படுகின்றதா/175-333469) · `ta`
 
-முன்னாள் முதல் பெண்மணி ஷிரந்தி ராஜபக்ஷவுக்கு அரசாங்க கொடுப்பனவுகள் மற்றும் ஓய்வூதியங்கள் ஒதுக்கப்பட்டுள்ளதாக பௌத்த பிக்கு ஒருவர் முன்வைத்த குற்றச்சாட்டை முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் அலுவலகம் இன்று மறுத்துள்ளது.
+Former President Mahinda Rajapaksa's office today denied the allegation of a Buddhist monk alleging that government payments and pensions have been allocated to former first woman Shiranthi Rajapaksa.
 
-மிஹிந்தலை ரஜமஹா விகாரையின் பிரதமகுரு வலஹாஹெங்குணாகே  தம்மாரத்ன தேரர், முன்னாள் முதல் பெண்மணி பல ஓய்வூதியங்களையும் அரசாங்க கொடுப்பனவுகளையும் பெற்று வருவதாக அண்மையில் கூறியிருந்தார்.
+Dammaratne Thera, the prime minister of the Rajamaha Vihara of Mihintale, has recently said that the former first woman has been receiving many pension and government allowances.
 
-குற்றச்சாட்டுகளுக்கு பதிலளிக்கும் வகையில், முன்னாள் ஜனாதிபதியின் அலுவலகம், தம்மரதன தேரர் உறுதிப்படுத்தப்படாத தகவல்களை அடிப்படையாகக் கொண்டு இவ்வாறு கூறியுள்ளதாகவும், எனவே இந்தக் கூற்றுக்கள் கடுமையாக நிராகரிக்கப்படுகின்றன எனவும் தெரிவித்துள்ளது.
+In response to the allegations, the former president's office has stated that the Dhammaratana Thera has stated that it is based on unconfirmed information and therefore these claims are being severely rejected.
 
 ◼️
 
 [Data](articles/f2d3980c.json)
+
+[Extended Data](ext_articles/f2d3980c.ext.json)
 
 ---
 
@@ -2005,47 +2051,5 @@ Although it is the Rajapaksas that nominated – and are propping up – their s
 [Data](articles/6198cb12.json)
 
 [Extended Data](ext_articles/6198cb12.ext.json)
-
----
-
-### The car traveling to an Italian tourist couple in the highway
-
-*2024-02-19 13:15:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉතාලි-සංචාරක-යුවළක්-ගමන්-ගත්-මෝටර්-රථය-අධිවේගයේ-අනතුරක/11-408170) · `si`
-
-The expenditure incurred to the Homagama Police say that a healthy car carrying Italian tournament is admitted to the Homagama Treasury.
-
-The accident was injured in the accident and 76 years of age and 42 years of age.
-
-The Italian Nationalian visit to Sri Lanka's visit to Sri Lanka on January 24 (18) was visiting the Bandaranaike International International Airport, to return to the homeland in Hikkaduwa.Police said.
-
-The driver of the luxury car was hit by the collision of the safety fence due to the role of the vehicle.
-
-The Special Task Force has acted immediately to the Homagama Base Hospital, police said.
-
-◼️
-
-[Data](articles/1920ae95.json)
-
-[Extended Data](ext_articles/1920ae95.ext.json)
-
----
-
-### Apply directly to respective schools, excluding grades 1, 5, 6, and A/L
-
-*2024-02-19 13:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apply-directly-to-respective-schools-excluding-grades-1-5-6-and-AL/108-277317) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - As per the circular issued by the Education Ministry, applications for the admission of students to intermediate classes for the year 2024, excluding grades 1, 5, and 6, as well as Advanced Level, should be submitted directly to the respective schools, the Education Ministry said.
-
-If vacancies are available in those schools, the respective school principals will conduct interviews as per Education Ministry circulars and forward the list of selected students to the Ministry for approval.
-
-While issuing a special notice, the Ministry said admission of students to grade six in schools is made solely on the basis of the scores of the grade five scholarship examination.
-
-Meanwhile, the Ministry said that the applications to enroll students in grade one for the year 2024 must be forwarded to the respective schools, and interviews will be conducted by the respective principals thereafter.
-
-...
-
-[Data](articles/ba40d73f.json)
-
-[Extended Data](ext_articles/ba40d73f.ext.json)
 
 ---

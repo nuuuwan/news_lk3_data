@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 09:51:40**
+As of **2024-02-19 10:02:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,927 (99.9%) of 7,931 articles have been extended.
+7,931 (100.0%) of 7,931 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ There is simmering tension against the Economic and Technology Cooperation Agree
 ...
 
 [Data](articles/10b7e74a.json)
+
+[Extended Data](ext_articles/10b7e74a.ext.json)
 
 ---
 
@@ -320,6 +322,8 @@ Legislators had already been misled by inflationists into passing the new IMF ba
 
 [Data](articles/0131ae1a.json)
 
+[Extended Data](ext_articles/0131ae1a.ext.json)
+
 ---
 
 ### New school term begins today
@@ -467,6 +471,8 @@ Instead of suspending Parate Rights for few borrowers who are in the cover of SM
 ...
 
 [Data](articles/712bbf21.json)
+
+[Extended Data](ext_articles/712bbf21.ext.json)
 
 ---
 
@@ -1701,6 +1707,8 @@ The Medium Grown sale average went up 57.60 rupees to 1,157.49 rupees.
 ...
 
 [Data](articles/b69ecf2f.json)
+
+[Extended Data](ext_articles/b69ecf2f.ext.json)
 
 ---
 

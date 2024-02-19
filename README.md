@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 02:17:25**
+As of **2024-02-20 02:33:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,109 (100.0%) of 8,113 articles have been extended.
+8,113 (100.0%) of 8,113 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Freedom People’s Congress (FPC) member and independent MP Prof. G.L Peiris yes
 
 [Data](articles/355136ca.json)
 
+[Extended Data](ext_articles/355136ca.ext.json)
+
 ---
 
 ### SJB rift : SF receives court protection from suspension
@@ -67,6 +69,8 @@ Representing the petitioner Faiszer Musthapha, PC informed the court that recent
 ...
 
 [Data](articles/6d927225.json)
+
+[Extended Data](ext_articles/6d927225.ext.json)
 
 ---
 
@@ -86,6 +90,8 @@ The unveiling of this CFS aligns with Aitken Spence Logistics’ long-term strat
 
 [Data](articles/f72e2374.json)
 
+[Extended Data](ext_articles/f72e2374.ext.json)
+
 ---
 
 ### Hayleys Aventura and Invertek power greener industries through energy efficiency
@@ -101,6 +107,8 @@ Leading industrial solutions provider, Hayleys Aventura, in partnership with glo
 ...
 
 [Data](articles/d35e6e81.json)
+
+[Extended Data](ext_articles/d35e6e81.ext.json)
 
 ---
 

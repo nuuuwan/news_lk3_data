@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 03:50:30**
+As of **2024-02-20 04:02:35**
 
 ## Newspaper Stats
 
@@ -26,95 +26,117 @@ dailymirrorlk | 1,198
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,115 (99.9%) of 8,122 articles have been extended.
+8,122 (100.0%) of 8,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### ஒக்ஸ்போர்ட் ஜனாதிபதி கிண்ண கால்பந்தாட்ட இறுதியில் சென். தோமசஸ், ஹமீத் அல் ஹுசெய்னி
+### Sen at the end of Oxford President's Bowl Soccer. Thomasus, Hamid al -Husaini
 
 *2024-02-20 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176814) · `ta`
 
-ஹமீத் அல் ஹுசெய்னி கல்லூரியின் 80களின் பழைய மாணர்கள் குழு ஏற்பாடு செய்துள்ள 14ஆவது ஒக்ஸ்போர்ட் ஜனாதிபதி சவால் கிண்ண இறுதிப் போட்டியில் விளையாடுவதற்கு நடப்பு சம்பியன் ஹமீத் அல் ஹுசெய்னியுடன் முதல் தடவையாக கல்கிஸ்ஸை சென். தோமசஸ் தகுதிபெற்றுள்ளது.
+For the first time with the current champion Hamid al -Husaini to play in the 14th Oxford President Challenge Bowl, organized by the 80s old students of Hamid al -Husaini College.. Thomasus is qualified.
 
-இந்த இரண்டு அணிகளுக்கும் இடையிலான இறுதிப் போட்டி கொழும்பு சுகததாச விளையாட்டரங்கில் எதிர்வரும் மார்ச் 7ஆம் திகதி மின்னொளியில் நடத்த திட்டமிடப்பட்டுள்ளது.
+The final match between the two teams is scheduled to be held on March 7 at the Sugathadasa Stadium in Colombo.
 
-இதற்கு முன்னோடியாக ஞாயிற்றுக்கிழமை (18) நடைபெற்ற முதலாவது அரை இறுதிப் போட்டியில் நீர்கொழும்பு அல் ஹிலால் அணியை எதிர்த்தாடிய சென். தோமசஸ் 6 - 1 என்ற கோல்கள் வித்தியாசத்தில் இலகுவாக வெற்றிபெற்றது.
+Sen, who opposed the Negombo Al -Hilal in the first semi -finals held on Sunday (18).. Thomasus won by 6 - 1.
 
-அப் போட்டியின் 24ஆவது நிமிடத்தில் எம்.என்.எம். அரபாத் கோல் போட்டு அல் ஹிலால் அணியை முன்னிலையில் இட்டார்.
+MNM in the 24th minute of the up competition. Arafat scored the goal of Al Hilal.
 
-ஆனால், அதன் பின்னர் அற்புதமான ஆற்றல்களை வெளிப்பிடுத்திய சென். தோமசஸ் 6 கோல்களைப் போட்டு அபார வெற்றியீட்டியது.
+But, after that, Sen, who expressed wonderful energies. Thomasus scored 6 goals.
 
-எம்.எம். முக்தார் (36 நி., 77 நி., 86 நி.) ஹெட் ட்ரிக் முறையில் 3 கோல்களையும் ஜே. ஆர். ராஜதுரை (55 நி.), எச். ஜீ. எம். டயஸ் (66 நி.), பி. என். ஜேசுரன் (69 நி.) ஆகியோர் தலா ஒரு கோலையும் போட்டனர்.
+Mmm. Mukhtar (36 n., 77 n, 86 n.) Head trick. R. Rajadurai (55 n.), H. Ji. M.. Diaz (66 n.), B. My. Jesuran (69 n) scored a goal each.
+
+Hamid al -Husaini won the second semi -finals in the second semi -finals.
+
+AWM on behalf of Hamid al -Husaini. Arham (14 n., 31 n). Hussein (60 n) scored a goal.
+
+Sen in this round match. Thomasus player M. M.. Mukhtar tops the list with 5 goals.
 
 ...
 
 [Data](articles/06cb560e.json)
 
+[Extended Data](ext_articles/06cb560e.ext.json)
+
 ---
 
-### இலங்கை சாரணர் சங்கத்தின் 10ஆவது ஜம்போறி மாநாட்டில் யாழ்ப்பாண மாவட்டத்தில் இருந்து 11 பாடசாலைகளைச் சேர்ந்த 253 மாணவர்கள் பங்கேற்பு
+### 253 students from 11 schools from Jaffna district participated in the 10th Jambori conference of the Sri Lanka Scout Association
 
 *2024-02-20 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176812) · `ta`
 
-இலங்கை சாரணர் சங்கத்தின் 10ஆவது ஜம்போறி மாநாடு திருகோணமலையில் நாளை 21ஆம் திகதி ஆரம்பித்து 26ஆம் திகதி வரை நடைபெறவுள்ளது. இம்மாநாட்டில் யாழ். மாவட்டத்திலிருந்து 11 பாடசாலைகளைப் பிரதிநிதித்துவப்படுத்தி 253 சாரணர்கள் கலந்துகொள்ளவுள்ளனர்.
+The 10th Jambori Conference of the Sri Lanka Scout Association will be held in Trincomalee tomorrow and will be held till the 26th of this month.. Jaffna at this conference. There will be 253 scouts representing 11 schools from the district.
 
-சாரணர்களை கெளரவித்து அனுப்பிவைக்கும் நிகழ்வு  வடமாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ் தலைமையில் திங்கட்கிழமை (19) பிற்பகல் யாழ் பழைய பூங்காவில் இடம்பெற்றிருந்தது.
+Governor of the Northern Province BSMM. Charles was held at the old park in Jaffna on Monday afternoon (19).
 
-நிகழ்வின் போது யாழ். மாவட்ட சாரணர் கொடிக்கான சாரணர் அணிவகுப்பு இடம்பெற்றதுடன், சாரணர்களுக்கான சீருடைகள் மற்றும் ஜம்போறியில் பங்குபற்றும் சாரணர்களுக்குத் தேவையான உணவுப்பொருள் என்பன கௌரவ ஆளுநர் அவர்களால் வழங்கிவைக்கப்ட்டன.
+Jaffna during the event. The scout march for the District Scout Flag was held, and the uniforms for the scouts were provided by the Hon.
 
-நிகழ்வில் உரையாற்றிய கெளரவ வட மாகாண ஆளுநர் அவர்கள், திருகோணமலைக்குப் புறப்படும் சாரணர் சிறார்களுக்கு வாழ்த்துக்களைத் தெரிவித்ததுடன், சாரணர் இயக்கத்திற்காக தங்களை அர்ப்பணித்துள்ள பாடசாலைகளையும் . பாராட்டினார்.
+Addressing the gathering, the Governor of the Northern Province congratulated the scout children who are on their way to Trincomalee and have dedicated themselves to the Scout Movement.. Appreciated.
 
-...
+Special guests were also present at the event.
+
+◼️
 
 [Data](articles/012256a6.json)
 
+[Extended Data](ext_articles/012256a6.ext.json)
+
 ---
 
-### சித்திரை புத்தாண்டுக்குப்பிறகு பாராளுமன்றை கலைக்க ஜனாதிபதி முடிவு ?
+### The President's decision to dissolve parliament after the New Year?
 
 *2024-02-20 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176813) · `ta`
 
-தான் ஜனாதிபதி வேட்பாளராக களமிறங்கினாலும் வெற்றி பெற முடியாது என்பதை ஜனாதிபதி ரணில் நன்கு உணர்ந்துள்ளார். அதே வேளை வேறு எவரையும் வேட்பாளராக களமிறக்கவும் அவர் தயாராக இல்லை. எதிரணியில் சஜித் மற்றும் அநுர ஆகியோர் போட்டியிட்டாலும் இருவருமே ஐம்பது வீத வாக்குகளுக்கு மேல் பெற மாட்டர் என்பதையும் ரணில் அறிந்திருக்கின்றார். ஆகவே முதலில் பாராளுமன்றத் தேர்தலை நடத்தி விட்டு அதன் மூலம் மாவட்டத்தில் ஒருவர் என்ற அடிப்படையில் ஐக்கிய தேசிய கட்சிக்கு இருபத்தைந்து எம்.பிக்களையாவது பெற்று விடலாம் என ரணில் சிந்தித்து வருவதாக அவருக்கு நெருக்கமான வட்டாரங்கள் தெரிவிக்கின்றன.
+President Ranil is well aware that he cannot win even if he is the presidential candidate. He is not ready to field anyone else as a candidate. Ranil also knows that Sajith and Anura are contesting in the opposition but that both of them get more than fifty percent votes. According to sources close to Ranil, Ranil is thinking that the United National Party can first hold a parliamentary election and get at least twenty -five MPs on the basis of as one district.
 
 ◼️
 
 [Data](articles/252e61f1.json)
 
+[Extended Data](ext_articles/252e61f1.ext.json)
+
 ---
 
-### யாழ்ப்பாண பாதுகாப்புப்படைத் தலைமையக கட்டளைத்தளபதி வட மாகாண ஆளுநருடன் கலந்துரையாடல்
+### Discussion with the Governor of the Northern Province
 
 *2024-02-20 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176811) · `ta`
 
-வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம் சார்ள்ஸ் அவர்களுக்கும் யாழ் பிராந்திய பாதுகாப்புப்படைத் தலைமையகக் கட்டளைத்தளபதி மேஜர் ஜெனரல் சந்தன விக்கிரமசிங்கவுக்கும் இடையில் விஷேட கலந்துரையாடல் ஒன்று திங்கட்கிழமை (19) முற்பகல்  ஆளுநர் செயலகத்தில் இடம்பெற்றது.
+A special discussion was held at the Governor's Secretariat on Monday (19) between Governor of the Northern Province BSM Charles and Major General Chandana Wickremesinghe, Commander of the Jaffna Regional Security Forces Headquarters.
 
-யாழ்ப்பாண பிராந்தியத்தில் சட்டம் மற்றும் ஒழுங்கை உரிய வகையில் முன்னெடுத்து செல்லல், பொது மக்களின் நாளாந்த வாழ்வியல் செயற்பாடுகளின் போது தேவையான பாதுகாப்பைப் பெற்றுக்கொடுத்தல் உள்ளிட்ட விடயங்கள் தொடர்பில் இந்த சந்திப்பின் போது கலந்துரையாடப்பட்டது.
+During the meeting, the meeting was discussed on issues such as the implementation of law and order in the Jaffna region and the provision of the necessary security during the day -to -day biological activities of the public.
 
-யாழ்ப்பாண மாவட்டத்தில் மீள குடியேற்றப்பட்டவர்களுக்காக  பாதுகாப்புப் படையினரால் முன்னெடுக்கப்பட்டு வரும் வீட்டுத்திட்டம் தொடர்பிலும் இதன் போது கலந்துரையாடப்பட்டது.
+It was also discussed about the housing scheme being carried out by the security forces for the resettled persons in the Jaffna district.
 
 ◼️
 
 [Data](articles/a3f59bbe.json)
 
+[Extended Data](ext_articles/a3f59bbe.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலுக்காக பொதுஜன பெரமுன கட்சி வேட்பாளர் ஒருவரை நிறுத்துமென தான் நினைக்கவில்லை - இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய
+### He does not think that a PA candidate for the presidential election - State Minister Ranjith Siyambalapitiya
 
 *2024-02-20 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176810) · `ta`
 
-ஜனாதிபதி தேர்தலுக்காக பொதுஜன பெரமுன கட்சி வேட்பாளர் ஒருவரை நிறுத்துமென தான் நினைக்கவில்லை யென்றும் தனி மனிதனாக பாராளுமன்றத்திலிருந்து கொண்டு பல சவால்களுக்கு மத்தியில் ஜனாதிபதி பதவியை பாரமெடுத்தார் என்வும் நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய கண்டியில் தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya has stated in Kandy that he did not think that a PA candidate for the presidential election would not be stopped.
 
-கண்டியில் ஞாயிற்றுக்கிழமை (18) ஊடகங்களுக்குக் கருத்து தெரிவிக்கும் போதே இராஜாங்க அமைச்சர்  சியம்பலாபிட்டிய இவ்வாறு தெரிவித்தார்.
+Minister of State Siyambalapitiya said this while speaking to the media on Sunday (18) in Kandy.
 
-அங்கு தொடர்ந்துரையாற்றிய அமைச்சர், நாட்டின் ஜனாதிபதி பதவியை யாரிடம் ஒப்படைக்க வேண்டும் என்ற விடயம் இந்த நாட்டில் உள்ள ஒரு சிறு குழந்தைக்கும் புரியும்
+The minister continued to make a sense of the presidency of the country to a small child in this country.
 
-ஏற்றுக்கொள்ளப்பட்ட சவாலை வெற்றிகரமாக எதிர்கொண்டு நாட்டை எவ்வாறு கட்டியெழுப்புவது என்பதைச் செயலில் நிரூபித்துக்காட்டிய தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க ஜனாதிபதித் தேர்தலில் போட்டியிட்டால் நிச்சயம் அவருக்கு ஆதரவு கிடைக்கும் என உறுதியளித்திருந்தார்.
+The current President Ranil Wickremesinghe, who has successfully confronted the accepted challenge and proved how to build the country, promised to support him if he contested the presidential election.
+
+This is not the omen that has simply dumped the country or distributes the country into a unrelenting situation, but as a literary and experienced leader who can face the international community.Ranil Wickremesinghe is also present.
+
+No one can deny that Ranil Wickremesinghe was an individual in Parliament and became president amidst many challenges, saying that I am not sure that a candidate will be presented in the Sri Lankan PA.
 
 ...
 
 [Data](articles/bb0dcc4e.json)
+
+[Extended Data](ext_articles/bb0dcc4e.ext.json)
 
 ---
 
@@ -138,33 +160,45 @@ President Wickremesinghe, in turn, provided an overview of the progress made in 
 
 ---
 
-### மக்கள் சேவைக்காக தன்னை அப்பணித்து செயற்பட்டவர் காமினி - ஐ,தே.க. பொதுச் செயலாளர் ரங்கே பண்டார
+### Gamini - I,. General Secretary Range Bandara
 
 *2024-02-20 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176809) · `ta`
 
-மக்கள் சேவைக்காக தன்னை அர்ப்பணித்து செயற்பட்ட காமினி  ஜயவிக்ரம பெரேராவின் அரசியல் பணிகள் தற்போதுள்ள அரசியல்வாதிகளுக்கு முன்னுதாரணமாகும். குருணாகலை மாவட்டத்துக்கான அவரின் சேவை அந்த மக்களால் ஒருபோதும் மறக்க முடியாத சேவையாகும். குருணாகல் மக்களால் அவர் ஒருபோதும் மறக்க முடியாத நபராக இருந்து வந்தார். இவ்வாறான நிலையில் அவரின் மறைவு ஐக்கிய தேசிய கட்சிக்கும் குருணாகலை மாவட்ட மக்களுக்கும் பெரும் இழப்பாகும் என ஐக்கிய தேசிய கட்சியின் பாெதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்துள்ளார்.
+The political work of Gamini Jayawickrama Perera, who devoted her to the service of the people, is the precedent for existing politicians. Her service to the Kurunegala district is a unforgettable service by those people. He was a unforgettable person by the people of Kurunegala. The death of the United National Party (UNP) and the people of Kurunegala district, said United National Party (UNP) Secretary Palitha Range Bandara.
 
-ஐக்கிய தேசிய கட்சின் சிரேஷ்ட உறுப்பினரும் முன்னாள் அமைச்சருமான காமினி சுயவிக்ரம பெரேராவின் மறைவு தொடர்பாக அவர் விடுத்துள்ள அறிக்கையிலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+In a statement on the demise of Senior Member and former minister of the United National Party, Gamini Swayavikrama Perera.
+
+Gamini Jayawickrama Perera accepted her responsibilities in the Kadugambola constituency in Kurunegala in 1973 amidst fierce opposition of her mother and wife.. Dudley Senanayake and J and R. Jayawardena, the then leader of the opposition, was fortunate to get into politics, dealing with the protests.
 
 ...
 
 [Data](articles/1e91e667.json)
 
+[Extended Data](ext_articles/1e91e667.ext.json)
+
 ---
 
-### அமைச்சர் ஹரீன் பெர்னாண்டோவுக்கு மரண தண்டணை வழங்க வேண்டும் - உதய கம்மன்பில
+### Minister Harin Fernando should be sentenced to death - Udaya Kammanpila
 
 *2024-02-20 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176808) · `ta`
 
-இலங்கை இந்தியாவின் ஒரு பகுதி என்று அமைச்சர் ஹரீன் பெர்னாண்டோ குறிப்பிட்டுள்ள கருத்து நாட்டின் இறையாண்மையின் சுயாதீனத்தன்மையை மீறும் வகையில் அமைந்துள்ளது.இதனை தேச துரோக குற்றமாக கருதி அவருக்கு மரண தண்டனை வழங்க வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+The comment made by Minister Harin Fernando as a part of India is a violation of the independence of the sovereignty of the country.
 
-கொழும்பில் உள்ள பிவிதுல ஹெல உறுமய கட்சியின் காரியாலயத்தில்  திங்கட்கிழமை (19) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at a media briefing held at the Bividula Hela Urumaya (JHU) office in Colombo on Monday (19).
 
-பொருளாதார நெருக்கடியில் இருந்து மீண்டு விட்டோம் என அரசாங்கம் குறிப்பிடுகிறது.ஆனால் அரசாங்கத்தின் அறிக்கைகள் பொருளாதாரத்தின் எதிர்மறையான போக்கினை சுட்டிக்காட்டுகிறது.2023 ஆம் ஆண்டுக்கான பொருளாதார நிலைவரம் தொடர்பில் வெளியிடப்பட்டுள்ள அறிக்கையில் ஏற்றுமதி வருமானம் 14.49 பில்லியன் டொலராக காணப்படுகிறது.14 மணித்தியாலங்கள் மின்விநியோகம் துண்டிப்பு,எரிபொருள்,எரிவாயுவுக்கான வரிசை,போராட்டம் என பல பிரச்சினைகள் தோற்றம் பெற்ற 2022 ஆம் ஆண்டை காட்டியும் 2023 ஆம் ஆண்டு ஏற்றுமதி வருமானம் குறைவடைந்துள்ளது.
+The government's reports indicate the negative trend of the economy. In the report released by the report on the economic situation of 2013, the export income is $ 14.49 billion.Despite the year, exports have declined by 2023.
+
+Various factors are influenced by the decline of export economy in the year 2022. The government has not taken appropriate measures to improve small and medium -sized industries affected by the Govt..
+
+Foreign loans cannot be repaid. The country has officially announced that the bank has become a bankruptcy and will be completed two years. However, the issue of debt renovation has not yet been completed..
+
+If the debt renovation work is completed, it will be impossible to pay $ 3 billion annually.Don't do.
 
 ...
 
 [Data](articles/5e994039.json)
+
+[Extended Data](ext_articles/5e994039.ext.json)
 
 ---
 

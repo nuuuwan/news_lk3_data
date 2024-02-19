@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 20:32:59**
+As of **2024-02-19 20:50:18**
 
 ## Newspaper Stats
 
-*Scraped **8,066** Articles*
+*Scraped **8,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 419
 islandlk | 422
 dailyftlk | 434
-adalk | 687
+adalk | 691
 tamilmirrorlk | 979
 adaderanalk | 984
 virakesarilk | 1,075
@@ -26,7 +26,7 @@ dailymirrorlk | 1,186
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,066 (100.0%) of 8,066 articles have been extended.
+8,070 (100.0%) of 8,070 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,28 @@ The suspect had gone to the court on the 15th of December.
 [Data](articles/dc364a1b.json)
 
 [Extended Data](ext_articles/dc364a1b.ext.json)
+
+---
+
+### Kotakethana mother and daughter killer death sentenced to death
+
+*2024-02-19 18:52:34* · [`adalk`](https://www.ada.lk/breaking_news/කොටකෙතන-මව-හා-දියණිය-ඝාතනයේ-ඝාතකයාට-මරණ-දඩුවම/11-408179) · `si`
+
+Thamma High Court Judge Lanka Jayaratne sentenced the death sentence convicted of murdering a mother and daughter in Ratnapura and murder of women in the Kotakaignathana area in Ratnapura.
+
+The Judge sentenced the loss of flesh to the accused by the President and the accused by the President was to be hanged at the Welikada Prison on a time when the flesh was extinguished and implemented in the court.
+
+Dhamma Exustendaristant This is the defense of DNA. The judge, who was devoted by Lakamali Karunanayake, who was led by the Attorney General, has concluded that the complaint has been proved by the Attorney General.
+
+After the 147-page decision, the judge was sentenced to two hours after the judiciary of the judiciary.
+
+Death of Deadaragans, a neighborhood of Deadaraga Jayalathna, was sentenced to death in the Kotakization of Kotakawe Ratnapura, aimed at the guilty of women's double murder in Ratnapura.42) The father of four.
+
+...
+
+[Data](articles/4005ea5c.json)
+
+[Extended Data](ext_articles/4005ea5c.ext.json)
 
 ---
 
@@ -159,6 +181,24 @@ Petitioner Gotvin Perera said in his petition that she had taken steps to inform
 [Data](articles/42577627.json)
 
 [Extended Data](ext_articles/42577627.ext.json)
+
+---
+
+### Orr to another 149 operant
+
+*2024-02-19 18:16:46* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-149ට-ඊශ්‍රා-යෙල්-දොර-ඇරෙයි/11-408177) · `si`
+
+Minister of Labor and Foreign Employment at the Ministry of Foreign Affairs (19) at the Ministry of Foreign Affairs (19) at the Ministry of Foreign Affairs
+
+He said that these people will leave for Israel on the 21st and 22 of the 22nd.
+
+According to a bilateral agreement, the foreign employment bureaucracy is sent to Israel's nurses, nurses, and has sent out 1070 workers for employment of nursing staff.
+
+◼️
+
+[Data](articles/ef3eb091.json)
+
+[Extended Data](ext_articles/ef3eb091.ext.json)
 
 ---
 
@@ -1296,6 +1336,28 @@ Older students have said that Douglas Devananda, the Minister of Fisheries and t
 
 ---
 
+### Planning to boycott Indian fishermen kachchativu
+
+*2024-02-19 13:54:38* · [`adalk`](https://www.ada.lk/breaking_news/කච්චතිව්-මංගල්‍ය-ඉන්දීය-ධීවරයින්-වර්ජනය-කිරීමේ-සූදානමක්/11-408174) · `si`
+
+Fishermen say Roshwaran has a plan to attend the annual fishermen for the annual wife in Kachchativu Island, Jaffna.
+
+The Tamil Nadu fishermen who were arrested recently recently and a group of Mihwaran fishermen have left their fishing activities, requesting to release the car in the area.
+
+Fishermen expressed their protest by displaying 300 fishing vessels at the Fisheries Harbor, supporting the fishermen involved in the protest.
+
+The Indian fishermen continue to be arrested by the Sri Lankan fishermen and resorted to the family of the fishermen as they are imprisoned to the families of the fishermen, as they are imprisoned to the families of the fishermen.
+
+If the fishermen will not participate in the Kachchativu annual service of the Kachchativu on 23 and 24, if the fishermen will not participate in the 23rd and 24th of this month.
+
+◼️
+
+[Data](articles/fab4c61c.json)
+
+[Extended Data](ext_articles/fab4c61c.ext.json)
+
+---
+
 ### Going to go - Dr. Bellana
 
 *2024-02-19 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193575) · `si`
@@ -1391,6 +1453,30 @@ The US dollar purchasing price was Rs 307.4708 and the sales price were 317.7290
 [Data](articles/aad4b4e0.json)
 
 [Extended Data](ext_articles/aad4b4e0.ext.json)
+
+---
+
+### Sri Lanka Cricket Ticketing London expresses worrying
+
+*2024-02-19 13:43:42* · [`adalk`](https://www.ada.lk/breaking_news/’ශ්‍රී-ලංකා-ක්‍රිකට්-නො-ටිකට්’-ලන්ඩන්-යුවලක්-කනස්සල්ල-පළකරයි/11-408172) · `si`
+
+A large number of rolles came to see that the Tickets were finalized to visit the Twenty20 match between Sri Lanka and Afghanistan.There was a warm situation in that place.
+
+Dambulla Assistant Superintendent of Police Tired to control the group to deploy a special police team to control the situation.
+
+A polly-in-age British couple in the place to buy tickets for the search for the cricket match, we were able to obtain a victory view of 'Sri Lanka Cricket' Tickets'
+
+The couple had to declare that the couple had come to watch the match and was unable to say that they could not buy a ticket.
+
+Residents said that a team remain in front of the Dambulla Stadium Rs. 2,000 and Rs.
+
+However, a large number of sports fans from the queue of the Dambulla Divisional Secretariat Building have been reduced to four tickets from the queue, with a hot situation, the main gate of the local secretariat is collapsing and entering the local secretariat.There was a warm situation '
+
+...
+
+[Data](articles/3384b989.json)
+
+[Extended Data](ext_articles/3384b989.ext.json)
 
 ---
 
@@ -1957,71 +2043,5 @@ Among countries scheduled to participate in the hearings are the United States -
 [Data](articles/72edc82c.json)
 
 [Extended Data](ext_articles/72edc82c.ext.json)
-
----
-
-### United People's Power Chairperson Sarath Fonseka's suspension
-
-*2024-02-19 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176741) · `ta`
-
-The Colombo District Court today (19) issued a ban on the suspension and membership of the United People's Power Field Marshal Sarath Fonseka.
-
-The court has issued the order, considering the petition filed by Sarath Fonseka.
-
-United People's Power Leader Sajith Premadasa and others have been referred to as defendants.
-
-◼️
-
-[Data](articles/51c65e72.json)
-
-[Extended Data](ext_articles/51c65e72.ext.json)
-
----
-
-### UN body, Asia and Pacific officials in Sri Lanka to discuss food security
-
-*2024-02-19 11:59:00* · [`economynextcom`](https://economynext.com/un-body-asia-and-pacific-officials-in-sri-lanka-to-discuss-food-security-151452/) · `en`
-
-ECONOMYNEXT – Government policymakers from across the Asia and Pacific regions meet in Colombo this week to agree a pathway to reform their agrifood systems and accelerate recovery from pandemic and environmental crises.
-
-Officials from 46 member nations of the UN Food and Agriculture Organization will participate in roundtable discussions that focus on lessons learned from the pandemic and its impact on food security and nutrition, modernization and digitization for smallholders in aquaculture and livestock, building resilience through agrifood systems transformation, the need for investment and financing for poverty reduction and modernization, and saving food and water and reducing food loss and waste, at the 37th Ministerial Session of the FAO Regional Conference for Asia and the Pacific (APRC37).
-
-...
-
-[Data](articles/023947af.json)
-
-[Extended Data](ext_articles/023947af.ext.json)
-
----
-
-### Court prevents removal of Sarath Fonseka from SJB’s positions
-
-*2024-02-19 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Court-prevents-removal-of-Sarath-Fonseka-from-SJBs-positions/155-277313) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - The Colombo District Court today issued an enjoining order preventing the Samagi Jana Balawegaya (SJB) from removing Field Marshal Sarath Fonseka from the party positions.
-
-The District Court made this order pursuant to a plaint filed by Field Marshal Sarath Fonseka against SJB office bearers.
-
-◼️
-
-[Data](articles/77dce346.json)
-
-[Extended Data](ext_articles/77dce346.ext.json)
-
----
-
-### Court prevents removal of Sarath Fonseka from SJB’s positions
-
-*2024-02-19 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-prevents-removal-of-Sarath-Fonseka-from-SJBs-positions/108-277313) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - The Colombo District Court today issued an enjoining order preventing the Samagi Jana Balawegaya (SJB) from removing Field Marshal Sarath Fonseka from the party positions.
-
-The District Court made this order pursuant to a plaint filed by Field Marshal Sarath Fonseka against SJB office bearers.
-
-◼️
-
-[Data](articles/b1d4f6a9.json)
-
-[Extended Data](ext_articles/b1d4f6a9.ext.json)
 
 ---

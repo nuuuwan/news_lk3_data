@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 13:33:06**
+As of **2024-02-19 13:51:58**
 
 ## Newspaper Stats
 
-*Scraped **7,981** Articles*
+*Scraped **7,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,62 @@ newsfirstlk | 363
 economynextcom | 409
 islandlk | 420
 dailyftlk | 434
-adalk | 679
+adalk | 680
 tamilmirrorlk | 970
 adaderanalk | 976
 virakesarilk | 1,059
-adaderanasinhalalk | 1,159
+adaderanasinhalalk | 1,160
 dailymirrorlk | 1,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,978 (100.0%) of 7,981 articles have been extended.
+7,983 (100.0%) of 7,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### அரசமருத்துவமனைகளில் மிகவும் அவசியமான மருத்துவ உபகரணங்களிற்கு தட்டுப்பாடு - தொழிற்சங்கம்
+### Ministry of Education announced on admission to schools
+
+*2024-02-19 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193573) · `si`
+
+Applications have been issued by the Ministry of Education to include students to the first grade of schools.
+
+The admission of students to the sixth grade of schools is carried out on the signs of the fifth Grade Fifth Grade Scholarship Examination.
+
+GCE A GCE O / L classes other than 1, 5 and 6 in 2024. Applications should be referred to schools to include students (Advanced Level also) and will be referred to the Ministry of Education for approval by the Ministry of Education.
+
+The Ministry of Education further stated that letters of admission for schools will not be issued by the Ministry of Education.
+
+◼️
+
+[Data](articles/14251e7a.json)
+
+[Extended Data](ext_articles/14251e7a.ext.json)
+
+---
+
+### Carrying for the most essential medical equipment in the state - the union
 
 *2024-02-19 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/176749) · `ta`
 
-அரசாங்க மருத்துவமனைகளில் சத்திரகிசிச்சை உபகரணங்கள் உட்பட மிகவும் அவசியமான மருத்துவ உபகரணங்களிற்கு பெரும் பற்றாக்குறை  நிலவுவதாக சுகாதார தொழில்துறை தொழிற்சங்கங்கள் தெரிவித்துள்ளன.
+Health industrial unions have said that there is a shortage of medical equipment, including surgery equipment in government hospitals.
 
-மருத்துவ மற்றும் சிவில் உரிமைகளிற்கான மருத்துவ ஒன்றியத்தின் தலைவர் வைத்தியர் சமல் சஞ்சீவ தெரிவித்துள்ளார்.
+Dr. Samal Sanjeeva, President of Medical and Civil Rights, said.
 
-மிகவும் அவசியமான சத்திரகிசிச்சை உபகரணங்களிற்கு பற்றாக்குறை  காணப்படுகின்றது 3800 முதல் 5800 வரையிலான உபகரணங்கள்  முற்றாக முடிவடைந்துவிட்டன எனவும் அவர் தெரிவித்துள்ளார்.
+He said that the lack of the most essential sarcasm equipment has ended 3800 to 5800 equipment.
 
-அவசர சேவைகளிற்கு தேவையான மருத்துவஉபகரணங்களும் பற்றாக்குறையாக உள்ளன என மேலும் தெரிவித்துள்ள அவர் இதன் காரணமாக கடும் கரிசனை ஏற்பட்டுள்ளது எனவும் குறிப்பிட்டுள்ளார்.
+He added that there is a shortage of medical care for emergency services, he added.
 
-இதேவேளை இது குறித்து கருத்து தெரிவித்துள்ள சுகாதார அமைச்சு அதிகாரியொருவர் உபகரணங்கள் இன்மையால்சத்திரசிகிச்சைகள் நிறுத்தப்பட்டதாக உத்தியோகபூர்வமான தகவல்கள்எவையும் கிடைக்கவில்லை என தெரிவித்துள்ளார்.
+Meanwhile, a Health Ministry official said that there was no official information that the equipment had been stopped.
 
 ◼️
 
 [Data](articles/4b85261e.json)
+
+[Extended Data](ext_articles/4b85261e.ext.json)
 
 ---
 
@@ -70,19 +92,21 @@ The person is married and is the father of two children, and the elder brother l
 
 ---
 
-### ஜப்பானிடமிருந்து  40,000 மெட்ரிக் தொன் டீசல் மானியம்
+### 40,000 metric tonne diesel subsidy from Japan
 
 *2024-02-19 12:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிடமிருந்து-40-000-மெட்ரிக்-தொன்-டீசல்-மானியம்/175-333436) · `ta`
 
-இலங்கையின் சுகாதார அமைப்புக்குள் போக்குவரத்து சேவைகளை வலுப்படுத்துவதற்காக நியமிக்கப்பட்ட ஜப்பானிய அரசாங்கத்திடம் இருந்து 40,000 மெட்ரிக் தொன் டீசலை இலங்கை மானியமாகப் பெற்றுள்ளது.
+Sri Lanka has received a subsidy of 40,000 metric tonnes of diesel from the Japanese government appointed to strengthen transport services within the health of Sri Lanka.
 
-இலங்கைக்கான ஜப்பானிய தூதுவர் மிசுகோஷி ஹிடேகி மற்றும் சுகாதார மற்றும் கைத்தொழில் அமைச்சர் ரமேஷ் பத்திரன ஆகியோர் முன்னிலையில் முறையான கையளிப்பு நிகழ்வு கொழும்பு துறைமுகத்தில் இன்று (19) பெற்றுக்கொள்ளப்பட்டது.
+A formal handing over in the presence of Japanese Ambassador to Sri Lanka Missukoshi Hidaygi and Minister of Health and Industry Ramesh Pathirana was held today (19) at the Port of Colombo.
 
-மேலும், டீசல் வளங்களின் வெளிப்படையான மற்றும் பொறுப்பான நிர்வாகத்தை உறுதி செய்வதற்காக, அதிகாரிகள் அதிநவீன எரிபொருள் மேலாண்மை தகவல் அமைப்பை (FIMS) அறிமுகப்படுத்தியுள்ளனர்.
+In addition, officials have introduced the sophisticated fuel management information (FIMS) to ensure the transparent and responsible management of diesel resources.
 
 ◼️
 
 [Data](articles/15591b75.json)
+
+[Extended Data](ext_articles/15591b75.ext.json)
 
 ---
 
@@ -186,27 +210,53 @@ The housing scheme is being implemented all over the country under the guidance 
 
 ---
 
-### සිඳු ටෙලි නාට්‍යයේ සෝරත පොඩි හාමුදුරුවෝ ලෙස රඟපෑ කවීෂ් සසුන්ගත වෙයි
+### Legal wife and Casual Wife clash to take over husband's body
 
-*2024-02-19 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193572) · `si`
+*2024-02-19 12:22:40* · [`adalk`](https://www.ada.lk/breaking_news/සැමියාගේ-දේහය-බාර-ගැනීමට-නීත්‍යානුකූල-බිරිඳයි-අනියම්-බිරිඳය්-අතර-ගැටුමක්/11-408167) · `si`
 
-දෙරණ නාලිකාවේ විකාශය වූ අතිශය ජනාදරයට පත් "සිඳු" ටෙලි නාට්‍යයේ පුංචි සෝරත පොඩි හාමුදුරුවෝ, තමන්ටත් දරාගන්න අපහසු චීවරය දරාගෙන ඒ චරිතයට පණ පෙවූ අපූරුව ඔබට මතක ඇති.
+Homagama Headquarters said that the Emergency Death Inspector Sithaka Udaya Kawatha (18), hostile to the death of a dead person to take over a deceased, says the Homagama Headquarters said.
 
-සරණ පසුපස දුවපැන ඇවිදිමින් ප්‍රේක්ෂක හදවත් තුළ සදාතනික මතකයක් බවට පත්වූ කවීෂ් විහඟ, මේ සෝරත පොඩි හාමුදුරුවන්ගේ චරිතය හරහා රංගනයක නිරත වනවාද යන්නත් ඇතැම් අවස්ථාවල ප්‍රේ‍රක්ෂකයාට අමතකව ගොස් තිබුණි.
+The emergency delegates had ordered the last respects of the casual wife for two hours in a private flower of Homagama.
 
-වයස අවුරුදු 5හේ දී සෝරත පොඩි හාමුදුරුවෝ ලෙසින් ප්‍රේක්ෂක හදවත් දිනාගත් කවීශ් වසර 5ක්ම එම චරිතය තුළ ජීවත් වුණි.
+The victim has been identified as Dissanayake Mudiyanselage Shantha Dissanayake (45), Dissanayake Mudiyanselage, Dissanayake Mudiyanselage, Dissanayake Mudiyanselage, Dissanayake Mudiyanselage, Dissanayake Mudiyanselage, Dissanayake, 199/3, has been identified.
 
-ප්‍රේක්ෂකයාගේ ඒ බලාපොරොත්තුව සඵල කරමින් පුංචි කවීශ් අද සැබෑවටම පුංචි සාමණේර නමක් බවට පත්විය.
+The man has been married in 2006 with a woman in Meegahakiula, and traveling to the country, including Rambutan sales.
 
-මාතලේ මාවතුපොල පෙතිගෙපිටිය රජමහා විහාරස්ථානයේදී කවීශ් විහඟ අද (19) උදෑසන මෙලෙස සසුන්ගත වුණි.
-
-ඒ වසර 5ක් පුරාවට සෝරත පොඩි හාමුදුරුවෝ ලෙසින් දරාගෙන සිටි උතුම් චීවරයේ බර සියලු ලෝක සත්ත්වයාගේ යහපත වෙනුවෙන් සැබෑවටම දරාගනිමිනි.
-
-මීට මාස තුනකට ඉහතදී කවීෂ්ගේ එකම සොහොයුරාත් සසුන්ගතවීම කවීශ්ගේ බලාපොරොත්තුව මල්ඵල ගැන්වෙන්න තවත් හේතුවක් වෙන්නට ඇතැයි සඳහන් ය.
+Meanwhile, while he was in the Homagama in Homagama for Samagama, a woman had been abandoned with a woman and was living with the three children.
 
 ...
 
+[Data](articles/fadfc87e.json)
+
+[Extended Data](ext_articles/fadfc87e.ext.json)
+
+---
+
+### Kalol sticks to Soratha of Sotha in the teledrama drama
+
+*2024-02-19 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193572) · `si`
+
+You may recall the wonderful Buddhist monk with difficult monk in the teledrama, which was the most populous "on Derana drama.
+
+The audience was sometimes forgotten when he was running to a role in the role of the soratha.
+
+He was 5 years old in the age of 5 Audience-hearts
+
+Fulfillment of that hope of the audience, she became a small monarchy today.
+
+Kaviesh is energized at the Mawathakarapola Potthigegoda Rajamaha Viharaya, Matale.
+
+The height of the noble chief of the Soratha was heavy in the 5 year, the height of the Sorati Athawan is truly affordable for all the World Animal.
+
+The wishes of Kavish's hope for three months ago, Kaviesh's hope has become the same.
+
+So we wish that the strength is courage to do a great service for the Buddha Sasana.
+
+◼️
+
 [Data](articles/6e1b42a3.json)
+
+[Extended Data](ext_articles/6e1b42a3.ext.json)
 
 ---
 
@@ -1981,51 +2031,5 @@ In 2020 general election campaigns, the Central Bank's main mastermind, Ranil, t
 [Data](articles/23b809db.json)
 
 [Extended Data](ext_articles/23b809db.ext.json)
-
----
-
-### Iranian Foreign Minister visits Sri Lanka today
-
-*2024-02-19 02:13:17* · [`dailyftlk`](https://www.ft.lk/news/Iranian-Foreign-Minister-visits-Sri-Lanka-today/56-758624) · `en`
-
-Minister of Foreign Affairs of the Islamic Republic of Iran, Dr. Hossein Amir Abdollahian will undertake an official visit to Sri Lanka from 19-21 February, on an invitation extended by Minister of Foreign Affairs Ali Sabry.
-
-During this visit, the Iranian Foreign Minister is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. The visiting Minister and his delegation will have official discussions with Minister Ali Sabry at the Ministry of Foreign Affairs.
-
-In August 2023, Foreign Minister Ali Sabry had bilateral discussions with Foreign Minister Dr. Hossein Amir Abdollahian during his visit to Tehran.
-
-Dr. Amir Abdollahian will be accompanied by senior officials from the office of the President, Ministry of Foreign Affairs, Ministry of Energy and other relevant Ministries of Iran.
-
-◼️
-
-[Data](articles/092cb1df.json)
-
-[Extended Data](ext_articles/092cb1df.ext.json)
-
----
-
-### 10126 State Schools 'Smart Classroom'- Opposition Leader Confirm
-
-*2024-02-19 02:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176713) · `ta`
-
-If the people make the best political decision this year, I will create a 'smart classroom' system in 10126 state schools. I will make English education compulsory in state schools. Opposition Leader Sajith Premadasa said English education would be given priority.
-
-He was speaking at the event of handing over technical equipment to the Polonnaruwa - Sevamukta Gate.
-
-In the aftermath of independence, the rulers served the country with power. But we are in the opposition and serve the people.
-
-Health and education are one of the fundamental rights of the country.
-
-Resources are found in all state schools in the country. There is a huge shortage of resources between national schools and other schools. A massive change in the education system should be made.
-
-The English language scholarship has fallen short of the Election Year.Will be given.
-
-We have to repay $ 91 billion in government loans.
-
-...
-
-[Data](articles/2c858f4c.json)
-
-[Extended Data](ext_articles/2c858f4c.ext.json)
 
 ---

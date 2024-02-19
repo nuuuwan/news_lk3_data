@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 08:32:52**
+As of **2024-02-19 08:50:43**
 
 ## Newspaper Stats
 
-*Scraped **7,913** Articles*
+*Scraped **7,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 404
 islandlk | 420
 dailyftlk | 434
-adalk | 670
-tamilmirrorlk | 957
+adalk | 672
+tamilmirrorlk | 961
 adaderanalk | 970
 virakesarilk | 1,045
 adaderanasinhalalk | 1,145
@@ -26,11 +26,87 @@ dailymirrorlk | 1,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,912 (100.0%) of 7,913 articles have been extended.
+7,912 (99.9%) of 7,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### ”ஜனாதிபதி ரணில் விக்கிரமசிங்க தந்திரமானவர் அல்ல”
+
+*2024-02-19 08:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணில்-விக்கிரமசிங்க-தந்திரமானவர்-அல்ல/175-333421) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க கூறுவது போல் தந்திரமானவர் அல்ல என்று கூறிய NPP தலைவர் அநுரகுமார திஸாநாயக்க, எந்த வகையிலும் ஜனாதிபதி தேர்தலை பிற்போட நினைத்தால் தனது பதவிக்காலம் முடிவதற்கு முன்னரே, அவர் வீட்டிற்குச் செல்ல நேரிடும் என இன்று தெரிவித்தார்.
+
+குருநாகல் மாவட்ட மகளிர் மாநாட்டில் கலந்து கொண்டு உரையாற்றிய அவர், நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை நீக்க வேண்டும் என்ற புதிய விவாதம் எழுந்துள்ளதாகவும், அது காலங்காலமான கோஷம் எனவும் தெரிவித்தார்.
+
+ரணில் தந்திரமானவர் என்று சிலர் சொல்கிறார்கள்.அவர் பாராளுமன்றத்தில் ஒரே ஒரு ஆசனத்தில் ஜனாதிபதியானார். ஜனாதிபதி தேர்தலிலும் தப்பிக்க ஏதாவது செய்வார். ரணில் கூறுவது போல் தந்திரமானவர் அல்ல. அதற்கு முன்னரே அவர் வீட்டிற்கு செல்ல வேண்டியிருக்கும்.
+
+ஜனாதிபதி தேர்தலில் இருந்து தப்பிக்க முயன்றால், ஜனாதிபதியாக பதவியேற்கும் கோட்டாபய ராஜபக்சவின் கோரிக்கையை சஜித் பிரேமதாச நிராகரித்ததால் தான் ரணில் ஜனாதிபதியாக முடியும்.
+
+...
+
+[Data](articles/6fef2871.json)
+
+---
+
+### ”வைத்தியர் பெல்லனா பதவி விலக வேண்டும்”
+
+*2024-02-19 08:02:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-பெல்லனா-பதவி-விலக-வேண்டும்/175-333420) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லானாவை பதவியிலிருந்து நீக்குமாறு சுகாதாரத் துறையை பிரதிநிதித்துவப்படுத்தும் தொழிற்சங்கங்களின் கூட்டு சுகாதார அமைச்சிடம் வலியுறுத்தியுள்ளது.
+
+டெய்லி மிரரிடம் பேசிய சுகாதார வல்லுநர்கள் கூட்டமைப்பின் தலைவர் ரவி குமுதேஷ், சுகாதார ஊழியர்களை இழிவுபடுத்தும் வகையில், சுகாதாரத் தொழிற்சங்கங்களால் சமீபத்தில் நடத்தப்பட்ட வேலைநிறுத்தத்தில் சிறு பணியாளர்கள் ஈடுபட்டமையை வைத்தியர் பெல்லனா கடுமையாக விமர்சித்தார்.
+
+"அவர் (பெல்லானா) பதவியில் இருப்பது பொருத்தமானது அல்ல, ஏனெனில் அவர் சுகாதார ஊழியர்களை கீழே இறக்கி, அவர்களின் விதிகளை இழிவுபடுத்தினார், பதட்டத்தை கொதிநிலைக்கு உயர்த்தினார்," என்று அவர் கூறினார்.
+
+"எனவே, பெல்லனாவை அகற்றும் வரை, தொடர்ச்சியான போராட்டங்கள் வடிவில் அதிகாரிகளுக்கு நாங்கள் தொடர்ந்து அழுத்தம் கொடுப்போம்" என்று அவர் மேலும் கூறினார்.
+
+வெள்ளிக்கிழமை (பிப். 16) கொழும்பில் உள்ள தேசிய மருத்துவமனையில் எதிர்ப்புத் தெரிவித்த சிற்றூழியர்கள் வைத்தியர் பெல்லானாவை அவரது அலுவலகத்தில் பலவந்தமாக அடைத்து வைத்ததால் நிலைமை தீவிரமடைந்தது.
+
+◼️
+
+[Data](articles/dae88b23.json)
+
+---
+
+### இன்றைய வானிலை எதிர்வுகூறல்கள்
+
+*2024-02-19 07:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-எதிர்வுகூறல்கள்/175-333419) · `ta`
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களில் சிறிதளவு மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+சப்ரகமுவ மாகாணத்தின்  சில இடங்களில்  பிற்பகல் நான்கு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும், வடக்கு, கிழக்கு, வடமத்திய, வடமேல்,தென் மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் மாத்தளை மற்றும் கண்டி மாவட்டங்களிலும் மணித்தியாலத்திற்கு சுமார் 30 ‐ 35 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும் என எதிர்பார்க்கப்படுகிறது.
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 25 - 30 கிலோமீற்றர் வேகத்தில் வடகிழக்குத்  திசையில் இருந்து  காற்று வீசும்.
+
+...
+
+[Data](articles/180fe6b4.json)
+
+---
+
+### කෙහෙළිය ගැන පරීක්ෂණයක් කරන්න 9 දෙනෙකුගෙන් යුත් විශේෂඥ වෛද්‍ය කමිටුවක්
+
+*2024-02-19 07:55:28* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-ගැන-පරීක්ෂණයක්-කරන්න-9-දෙනෙකුගෙන්-යුත්-විශේෂඥ-වෛද්‍ය-කමිටුවක්/11-408159) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ලගේ රෝගී තත්වයන් සම්බන්ධයෙන් පරීක්‍ෂණයක් පැවැත්වීම සඳහා විශේෂඥ වෛද්‍යවරුන් 09 දෙනෙකුගෙන් යුත් වෛද්‍ය මණ්ඩලයක් පත් කරන ලෙස මාලිගාක්නද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මිය සෞඛ්‍ය සේවා අධ්‍යක්‍ෂ ජනරාල්වරයාට නියම කළාය.
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල නමැත්තා අධිකරණයට ඉදිරිපත් කිරීමට නොහැකි වන ආකාරයේ රෝගී තත්වයන් ඇති වීම සම්බන්ධයෙන් වහාම පරීක්‍ෂණයක් පවත්වන්නැයි මෝෂමක් මාර්ගයෙන් නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මෙනවිය කළ ඉල්ලීමක් පිළිගනිමින් මහෙස්ත්‍රාත්වරිය එලෙස නියම කළාය.
+
+කෙහෙළිය රඹුක්වැල්ල නමැත්තාගේ රෝගී තත්වයන් සම්බන්ධයෙන් පරීක්‍ෂණ පවත්වන විශේෂඥ වෛද්‍ය මණ්ඩලයට හෘද රෝග” විකලාංග රෝග” පෙනහ`ථ රෝග” සම්බන්ධයෙන් විශේෂඥ දැනුම සහිත වෛද්‍යවරුන් ඇතුලත් කරන ලෙසද මහේස්ත්‍රාත්වරිය සෞඛ්‍ය සේවා අධ්‍යක්‍ෂ ජනරාල්වරයාට වැඩිදුරටත් නියම කළාය.
+
+කෙහෙළිය රඹුක්වැල්ල නමැත්තාගේ රෝගී තත්වයන් සම්බන්ධයෙන් පරීක්‍ෂණ පවත්වා ලබන 26 වැනිදා වන විට අධිකරණයට වාර්තාවක් ඉදිරිපත් කරවීමට පියවර ගන්නා ලෙසද මහේස්ත්‍රාත්වරිය සෞඛ්‍ය සේවා අධ්‍යක්‍ෂ ජනරාල්වරයාට නියම කළාය.
+
+...
+
+[Data](articles/eaa13df2.json)
+
+---
 
 ### TN Police intercept cannabis consignment bound for Sri Lanka, three held
 
@@ -856,6 +932,26 @@ These two tasks are incomplete, and the responsibility of providing elegant repr
 
 ---
 
+### மின் தேவை அதிகரிப்பு
+
+*2024-02-19 00:18:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-தேவை-அதிகரிப்பு/175-333418) · `ta`
+
+தற்போது நிலவும் வறட்சி காரணமாக நாளாந்த மின்சாரத்திற்கான தேவை 3 முதல் 4 ஜிகாவாட் வரை அதிகரித்துள்ளது.
+
+இந்த நாட்களில் நீர் மின் உற்பத்தி 21 வீதமாகக் குறைந்துள்ளதாக இலங்கை மின்சார சபையின் ஊடகப்பேச்சாளர் நோயல் பிரியந்த தெரிவித்தார்.
+
+தற்போது நீர் மின்னுற்பத்தி நிலையங்களுடன் தொடர்புடைய நீர்த்தேக்கங்களின் கொள்ளளவு 83 சதவீதமாக உள்ளதாகவும் அவர் கூறினார்.
+
+இதேவேளை, சூரியசக்தி மூலம் 4.5 வீத மின்சாரம் உற்பத்தி செய்யப்படுகிறது. காற்றாலை மூலம் 5 வீத மின்சாரம் உற்பத்தியாகின்றது. 64 வீத மின்சாரம் அனல் மின் உற்பத்தி மூலம் பெறப்படுகின்றது.
+
+இதனால் மின்சாரத்தை சிக்கனமாக பயன்படுத்துமாறு இலங்கை மின்சார சபை மக்களுக்கு அறிவுறுத்தியுள்ளது. (a)
+
+◼️
+
+[Data](articles/920f6a60.json)
+
+---
+
 ### US Deputy Secretary Richard Verma Visit India, Maldives, Sri Lanka
 
 *2024-02-19 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176707) · `ta`
@@ -1412,6 +1508,22 @@ According to the NCS, the tremors were felt at about 4:50 pm. The depth of the q
 
 ---
 
+### කුඩු සළිඳුගේ ඥාති සහෝදරියක් අත්අඩංගුවට
+
+*2024-02-18 19:03:14* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සළිඳුගේ-ඥාති-සහෝදරියක්-අත්අඩංගුවට/11-408157) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව රැඳවුම් නියෝග යටතේ අත්අඩංගුවේ පසුවන මහා පරිමාණ මත්ද්‍රව්‍ය ජාවරංකරුවෙකු හා සංවිධානාත්මක අපරාධකරුවෙකු වන පානදුර කුඩු සලිඳුගේ මත්ද්‍රව්‍ය ජාලය ඩුබායි සිට මෙහෙයවන  අසිත නමැත්තාගේ ඥාති සහෝදරියක් වන පැට්ටා නමැත්තිය හොරයින් මත්කුඩු මිලිග්‍රෑම් 10571 ක් ජාවාරමින් උපයාගත් රුපියල් 22 ලක්ෂ 47,450 ක් සමඟ පානදුර මහවිල මාදුපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව පානදුර වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බලකාය කියයි.
+
+සැකකාරිය විකිණීම සඳහා මත්ද්‍රව්‍ය රැගෙන එන බවට පානදුර වළාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බලකායේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඉන්දික වීරසිංහ මහතාට ලද තොරතුරකට අනුව  පොලිස් සැරයන් 428 ජයලාල් මහතා ඇතුළු බුද්ධි නිලධාරීන් යොදවා   අනාවරණය කර ගත් තොරතුරු අනුව  මෙම වැටලීම සිදු කර ඇත.
+
+සැකකාරිය මහවිල මාදුපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගැනීමෙන් අනතුරුව පොලිස් කාන්තාවක් ලවා සැකකාරිය පරික්ෂා කිරීමේදී රහස් ප්‍රදේශයේ සඟවා තිබූ මෙම හොරෙන් මත්ද්‍රව්‍ය ප්‍රමාණය සොයා ගැනීමට හැකි වූ බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/b57ef69b.json)
+
+---
+
 ### Rugby Championship to CR & FC team
 
 *2024-02-18 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193552) · `si`
@@ -1943,127 +2055,5 @@ Motorcycle Drivers have been convened when the drivers were drunk at the hospita
 [Data](articles/7ff722fc.json)
 
 [Extended Data](ext_articles/7ff722fc.ext.json)
-
----
-
-### Amazing Hindi actress retires at a time of unexpected
-
-*2024-02-18 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193544) · `si`
-
-A Hindi filmmaker has been identified as a review of the 2016 year of India, a Film.
-
-The deceased is Suhani Bhatnagar, who joined the smallest character in Babita Phagat.
-
-Suhani Bhatnagar has died due to a sudden rare condition.
-
-About two months ago, she demonstrated the symptoms of dermaticositis, and she was identified 10 days before death.
-
-She then admitted to the AIIIMS Hospital has died.
-
-◼️
-
-[Data](articles/0ebfb627.json)
-
-[Extended Data](ext_articles/0ebfb627.ext.json)
-
----
-
-### Disturbing Echoes Of The Last Phase Of The Civil War In Sri Lanka & The Treatment Of Palestinians Under Zionist Occupation
-
-*2024-02-18 15:21:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/disturbing-echoes-of-the-last-phase-of-the-civil-war-in-sri-lanka-the-treatment-of-palestinians-under-zionist-occupation/) · `en`
-
-Our defeat was always implicit in the victory of others; our wealth has always generated our poverty by nourishing the wealth of others – the empires and their native overseers. In colonial and anti-colonial alchemy, gold changes into scrap metal and food into poison. ~ Edward Galeano[1]
-
-The opening of Edward Galeano’s book looks at the historical origins of Latin America’s underdevelopment, the central theme being the genocide of the native population by the Spanish and Portuguese ‘civilising’ colonial project in the Americas. This involved hunger, overwork, communicable diseases, and massive damage to the cultures, flora and fauna of the continent. Echoes of this are found in the thirty year civil war in Sri Lanka and in the Palestinian struggle for self-determination.
-
-...
-
-[Data](articles/96c8b832.json)
-
-[Extended Data](ext_articles/96c8b832.ext.json)
-
----
-
-### Youth dies after electricity fan
-
-*2024-02-18 15:06:45* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-පංකාවෙන්-විදුලි-සැර-වැදී-තරුණයකු-මරුට/11-408151) · `si`
-
-The Kottawa Police say that a person who has been repaired by a person who has been repaired by a person who has been renovated by an unsecured power supply these days.
-
-The deceased has been identified as Vedakaduwa Mudiyansekala's Prabath Koviska Wijayaka Vijayatunga (22), a resident of Vashkaduwa Situra, a resident of Samakurakura.
-
-Accordingly, the fan has gone to the electricity supply of electricity due to the excessive base of the fan due to the excessive heat, according to the end of the day.
-
-The fan was renovated twice, as the fan was repaired twice, and the deceased had been renovated.
-
-However, the police have died on admission to the Homagama Base Hospital for treatment.
-
-Accordingly, the death inspector at Homagama, Homagama, was conducting a place in the incident.
-
-Accordingly, the police were asked to summon the house on rent basis and the post mortem will be conducted at the Homagama Base Hospital.
-
-Mortality Testing Inspection of the remains Homagama is to be held by Maimal Gamage.
-
-...
-
-[Data](articles/41085f11.json)
-
-[Extended Data](ext_articles/41085f11.ext.json)
-
----
-
-### Kala Pola in Colombo...
-
-*2024-02-18 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Kala-Pola-in-Colombo/110-277259) · `en`
-
-The Kala Pola, Sri Lanka’s annual open-air art fair opened its doors for the 34th time for visitors in Colombo yesterday. Presented by The George Keyt Foundation in association with the John Keells Group, Kala Pola has over the past 24 years grown to become a major cultural and tourist attraction in Colombo’s annual cultural calendar. Pix by Kushan Pathiraja.
-
-◼️
-
-[Data](articles/8471dc02.json)
-
-[Extended Data](ext_articles/8471dc02.ext.json)
-
----
-
-### Vehicles seized during “ Yukthiya” raids released on court order
-
-*2024-02-18 14:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicles-seized-during-Yukthiya-raids-released-on-court-order/108-277258) · `en`
-
-Colombo, Feb. 18 (Daily Mirror)- A fleet of vehicles valued more than Rs.100 million allegedly owned by Malalage Sudath Kithsiri alias “ Welivita Sudda” , a suspect for involvement in underworld activities, and seized and retained for about two months by the Illegal Assets Investigation Division of the CID during “ Yukthiya” operations are to be released to the owner on court order.
-
-Kaduwela Magistrate Chanima Wijebandara had on Friday  ordered the release of vehicles which had been in possession of the H.M.Heenmenike, a sister of the Mallalage Sudath Kithsiri alias “ Weliwitha Sudda” and seized by the CID.
-
-The fleet of vehicles seized by the CID included five luxury buses, a motorcar and a motorcycle.
-
-The magistrate rejected the CID’s request for permission to retain the vehicles and to conduct further investigation.
-
-...
-
-[Data](articles/f057abb3.json)
-
-[Extended Data](ext_articles/f057abb3.ext.json)
-
----
-
-### A beetted pure to the constable, unauthorized to a house
-
-*2024-02-18 14:44:17* · [`adalk`](https://www.ada.lk/breaking_news/නිවසකට-අනවසරයෙන්-ඇතුළු-වු-කොස්තාපල්ට-ගුටි-පුජාවක්/11-408150) · `si`
-
-The police constable was arrested by a police constable who was assaulted by the residents of the area to escape a constable woman's shouting with a constable woman's shouting with a constable woman's shouting.
-
-Police have also seized the uniforms of the two digits of the police officer in a house.
-
-The arrested has been arrested in the Colombo Central Intelligence Constable Division attached to the Fort Police.
-
-The residents who went to the area were arrested by the Maligawatta Police, who had been arrested and interrogated by a police officer who had been arrested and interrogated by the official office.The suspect said he was trying to hide and tried to hide.
-
-The suspect has also come to a hidden monk to hide me and save me to hide me, "the suspects had come to hide me to save me and save myself," after the police said.The saraging of the house was also removed to the house adjacent to it, police said.
-
-...
-
-[Data](articles/af1095d7.json)
-
-[Extended Data](ext_articles/af1095d7.ext.json)
 
 ---

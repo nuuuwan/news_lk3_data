@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 12:32:52**
+As of **2024-02-19 12:49:57**
 
 ## Newspaper Stats
 
-*Scraped **7,955** Articles*
+*Scraped **7,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 406
 islandlk | 420
 dailyftlk | 434
-adalk | 677
+adalk | 678
 tamilmirrorlk | 967
-adaderanalk | 975
+adaderanalk | 976
 virakesarilk | 1,047
 adaderanasinhalalk | 1,158
 dailymirrorlk | 1,166
@@ -26,11 +26,33 @@ dailymirrorlk | 1,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,954 (100.0%) of 7,955 articles have been extended.
+7,957 (100.0%) of 7,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### World Court to hear arguments on Israeli occupation of Palestinian territories
+
+*2024-02-19 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97385/world-court-to-hear-arguments-on-israeli-occupation-of-palestinian-territories) · `en`
+
+The United Nations’ top court on Monday opens a week of hearings on the legal consequences of Israel’s occupation of Palestinian territories, with more than 50 states due to address the judges.
+
+Palestinian Foreign Minister Riyad al-Maliki will speak first in the legal proceedings at the International Court of Justice (ICJ) in The Hague.
+
+In 2022, the U.N. General Assembly asked the court for an advisory, or non-binding, opinion on the occupation.
+
+While Israel has ignored such opinions in the past, it could pile on political pressure over its ongoing war in Gaza, which has killed about 29,000 Palestinians, according to Gaza health officials, since Oct.7.
+
+Among countries scheduled to participate in the hearings are the United States - Israel’s strongest supporter, China, Russia, South Africa and Egypt. Israel will not, although it has sent written observations.
+
+...
+
+[Data](articles/72edc82c.json)
+
+[Extended Data](ext_articles/72edc82c.ext.json)
+
+---
 
 ### Professor Channa Jayasena receives international award
 
@@ -74,6 +96,30 @@ Indian High Commissioner Sanarithshy with President Ranil Wickremesinghe was als
 
 ---
 
+### Kudu Karadariya arrested in Rustmawatte
+
+*2024-02-19 11:41:47* · [`adalk`](https://www.ada.lk/breaking_news/රස්ටම්වත්තේ-කුඩු-කෙරැම්කාරිය-අත්අඩංගුවට/11-408165) · `si`
+
+A suspect that the rusted racket was hidden in the Rustma Watta of the Mount Lavinia Police have been arrested in the Mount Lavinia Police Division with a special raid in the Mount Lavinia Police Division.
+
+Police said that the suspects were hiding these powder in the rib on the rice colony that she had earned a racket of Rs.
+
+Three roadblocks were carried out by the Egoda garden, Moratuwa, Moratuwa police team in the Egoda Egoda Uyana, Moratuwa.
+
+The racket was carried out in the Dujemaya, a drug dealer in Duba, which remains in a Rustmawatte Tower House.
+
+The victim, a fifty-year-old, has left her, and her daughter and son are also involved in drug trafficking.
+
+This raid was conducted by the Senior Policy Authority of Mt.Done
+
+◼️
+
+[Data](articles/a4da3eaf.json)
+
+[Extended Data](ext_articles/a4da3eaf.ext.json)
+
+---
+
 ### Injunction issued preventing SJB from removing Sarath Fonseka from posts
 
 *2024-02-19 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97384/injunction-issued-preventing-sjb-from-removing-sarath-fonseka-from-posts) · `en`
@@ -109,6 +155,8 @@ MP Sarath Fonseka currently holds the position of Chairman of the SJB.
 ◼️
 
 [Data](articles/ba216c72.json)
+
+[Extended Data](ext_articles/ba216c72.ext.json)
 
 ---
 
@@ -1991,47 +2039,5 @@ Opposition Leader Sajith Premadasa said this while addressing a function to prov
 [Data](articles/8324a692.json)
 
 [Extended Data](ext_articles/8324a692.ext.json)
-
----
-
-### President Prasanna Ranatunga has resumed the development of the country for over three years
-
-*2024-02-18 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176700) · `ta`
-
-Urban Development and Housing Minister Prasanna Ranatunga has said that the current President Ranil Wickremesinghe has resumed the development of the country, which has been banned for three years due to the Govt and economic crisis.
-
-He stressed that the state apparatus is expecting the maximum support of the state apparatus to carry out development programs.
-
-The Minister said that the identification of the development projects suitable for the Provincial, District and Divisional Secretariats is responsible for the District Coordinating Committee and Divisional Coordinating Committees, and that the development activities should be identified and the public's views and suggestions should be taken through the public.
-
-Minister Prasanna Ranatunga said at the Matale District Coordinating Committee meeting on Friday (16). It was held at the Matale District Secretariat.
-
-...
-
-[Data](articles/a0f0ee59.json)
-
-[Extended Data](ext_articles/a0f0ee59.ext.json)
-
----
-
-### Health trade unions want Dr. Bellana removed
-
-*2024-02-18 20:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-trade-unions-want-Dr-Bellana-removed/108-277263) · `en`
-
-Colombo, Feb 17 (Daily Mirror) -  The collective of trade unions representing the health sector have urged the Health Ministry to remove Dr. Rukshan Bellana as the Deputy Director of the National Hospital, Colombo.
-
-Speaking to the Daily Mirror, president of the Federation of Health Professionals, Ravi Kumudesh said Dr. Bellana had vehemently criticized the junior staffers for their involvement in the recent strike organized by health trade unions, humiliating the health workers.
-
-“He (Dr. Bellana) is not appropriate to hold the position as he has put down the health workers and disgraced their rules, raising tensions to boiling point,” he said.
-
-“Hence, we will continue to push the authorities in the form of continuous protests, until the removal of Dr. Bellana” he added.
-
-The situation escalated on Friday (Feb. 16) when Dr. Bellana was forcibly confined to his office by the protesting junior staff at the National Hospital in Colombo
-
-◼️
-
-[Data](articles/6b6a42f3.json)
-
-[Extended Data](ext_articles/6b6a42f3.ext.json)
 
 ---

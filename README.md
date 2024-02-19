@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 00:17:23**
+As of **2024-02-20 00:33:16**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 1,191
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,095 (100.0%) of 8,096 articles have been extended.
+8,096 (100.0%) of 8,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### தொடரை கைப்பற்றியது இலங்கை
+### Sri Lanka captured the series
 
 *2024-02-19 23:22:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடரை-கைப்பற்றியது-இலங்கை/175-333484) · `ta`
 
-இலங்கை மற்றும் ஆப்கானிஸ்தான் அணிகளுக்கு இடையிலான இரண்டாவது இருபதுக்கு 20 போட்டியில் 72 ஓட்டங்களால் இலங்கை அணி வெற்றி பெற்றுள்ளது.
+Sri Lanka won the second twenty -20 match between Sri Lanka and Afghanistan by 72 runs.
 
-அதன்படி, முதலில் துடுப்பெடுத்தாடிய இலங்கை நிர்ணயிக்கப்பட்ட 20 ஓவர்கள் நிறைவில் 6 விக்கெட்டுக்களை இழந்து 187 ஓட்டங்களைப் பெற்றுக் கொண்டது.
+Accordingly, Sri Lanka scored 187 runs for the loss of 6 wickets in their 20 overs.
 
-பதிலுக்கு துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் அணி 17 ஓவர்களில் அனைத்து விக்கெட்டுக்களையும் இழந்து 115 ஓட்டங்களை மாத்திரமே பெற்றது.
+In reply, Afghanistan lost all wickets in 17 overs and scored only 115 runs.
 
-அதன்படி, மூன்று போட்டிகள் கொண்ட தொடரை 2-0 என்ற கணக்கில் இலங்கை அணி கைப்பற்றியுள்ளது. R
+Accordingly, the Sri Lankan team won the three-match series 2-0. Remble
 
 ◼️
 
 [Data](articles/ee4ce4c4.json)
+
+[Extended Data](ext_articles/ee4ce4c4.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 11:52:06**
+As of **2024-02-19 12:03:17**
 
 ## Newspaper Stats
 
-*Scraped **7,941** Articles*
+*Scraped **7,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 406
 islandlk | 420
 dailyftlk | 434
-adalk | 672
-tamilmirrorlk | 965
-adaderanalk | 973
+adalk | 676
+tamilmirrorlk | 966
+adaderanalk | 974
 virakesarilk | 1,047
 adaderanasinhalalk | 1,154
 dailymirrorlk | 1,166
@@ -26,11 +26,29 @@ dailymirrorlk | 1,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,941 (100.0%) of 7,941 articles have been extended.
+7,947 (100.0%) of 7,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Injunction issued preventing SJB from removing Sarath Fonseka from posts
+
+*2024-02-19 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97384/injunction-issued-preventing-sjb-from-removing-sarath-fonseka-from-posts) · `en`
+
+A court order has been issued preventing the Samagi Jana Balawegaya (SJB) from removing Field Marshal Sarath Fonseka from his positions within the party.
+
+Accordingly, the injunction has been issued effective for a period of 14 days.
+
+The relevant order was issued by the Colombo District Court on Monday (19 Jan.), upon consideration of a petition filed by Fonseka, with several SJB members including party leader Sajith Premadasa named as respondents.
+
+◼️
+
+[Data](articles/564ef687.json)
+
+[Extended Data](ext_articles/564ef687.ext.json)
+
+---
 
 ### Fourth phase of Indian housing project for plantation sector workers inaugurated
 
@@ -49,6 +67,26 @@ On 28 November 2023, the High Commission of India, signed two significant agreem
 [Data](articles/cbcc9159.json)
 
 [Extended Data](ext_articles/cbcc9159.ext.json)
+
+---
+
+### 3 people injured in an accident, including foreign couple
+
+*2024-02-19 11:09:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-வெளிநாட்டு-தம்பதி-உட்பட-3-பேர்-காயம்/175-333430) · `ta`
+
+The car carrying a foreign couple to the Katunayake airport has crashed into a security fence near the entrance of Kotta.
+
+Three people, including a foreign couple, were injured, the Highway Tourism Police Department said.
+
+The Italian couple (76-78) and a 42-year-old driver from Bandalakam, Anuradhapura were injured.
+
+Foreign husband and wife have traveled to Katunayake Airport from Hikkaduwa area in Hikkaduwa area to finish their journey at around 9 pm last night.
+
+◼️
+
+[Data](articles/d39d4d3f.json)
+
+[Extended Data](ext_articles/d39d4d3f.ext.json)
 
 ---
 
@@ -87,6 +125,18 @@ The third term of the academic year 2023 ended on 16 February.
 [Data](articles/7502b6d8.json)
 
 [Extended Data](ext_articles/7502b6d8.ext.json)
+
+---
+
+### An expectation of the corners of the corners of imports
+
+*2024-02-19 10:25:12* · [`adalk`](https://www.ada.lk/business/මෝටර්සයිකල්-ආනයන-තහනම--ඉවත්-කරනු-ඇතැයි-අපේක්ෂාවක්/7-408163) · `si`
+
+◼️
+
+[Data](articles/bbb13f4d.json)
+
+[Extended Data](ext_articles/bbb13f4d.ext.json)
 
 ---
 
@@ -201,6 +251,30 @@ Meanwhile, all tickets for the second and third T20 matches have been sold, Sri 
 [Data](articles/89fc31e7.json)
 
 [Extended Data](ext_articles/89fc31e7.ext.json)
+
+---
+
+### The five associated with the shooting of Meegoda
+
+*2024-02-19 09:20:44* · [`adalk`](https://www.ada.lk/breaking_news/මීගොඩ-වෙඩිතැබීමට-සම්බන්ධ-5-‌දෙනා-රඳවාගෙන-ප්‍රශ්න-කරයි/11-408161) · `si`
+
+Acting to 48 hours of the Meegoda Economic Center, the five suspects were handed over to the Homagama Magistrate's Court and was produced before the Homagama Magistrate's Court.
+
+Dimuthu Kumara, Dimuthu Kumara, a soldier who had run away from Nihal Wijesinghe, Dilan Arachchi Tennachchi and Senarakumara and the Army, was also sentenced to Dimuthu Roshan and the Motorcyclist.
+
+The motorcycle was found hidden in the Rakwana area, despite hidden in the Rakwana, but the police were found in a room in a room of a knirbage and shirt
+
+Police say that the victim was hiding in the Godakawela area in Hambantota area and was hiding in the village of this crime.
+
+The 23-year-old money was injured in the shooting shooting during the robbery of the robbery and was hospitalized in the shop.
+
+The suspects were arrested in a special operation conducted in the STF and the Meegoda Police.
+
+◼️
+
+[Data](articles/d235f3da.json)
+
+[Extended Data](ext_articles/d235f3da.ext.json)
 
 ---
 
@@ -383,6 +457,28 @@ The strike was temporarily suspended on a written promise that the Minister was 
 [Data](articles/69e24815.json)
 
 [Extended Data](ext_articles/69e24815.ext.json)
+
+---
+
+### Anura will tell what else to President
+
+*2024-02-19 07:50:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-කල්-දැම්මොත්-ජනපතිට-වෙන-දේ-අනුර-කලින්ම-කියයි/11-408158) · `si`
+
+Leader of the National Zoology Anura Kumara Dissanayake said that if the President to postpone the presidential election, he said.
+
+He said that the oldest escaped political system should be changed and the leading charge of changing it is to women.
+
+He was speaking at the Kurunegala District's Conference of the Kurunegala District of the Kurunegala District yesterday.
+
+Dissanayake said that the national atology is ready to proceed to build the country from the destruction of the country.
+
+A large number of women in the Kurunegala District were present at the Kurunegala District and the leaders of the national popularity were also present.
+
+◼️
+
+[Data](articles/72012a74.json)
+
+[Extended Data](ext_articles/72012a74.ext.json)
 
 ---
 
@@ -1949,117 +2045,5 @@ During his stay, the Director-General will also visit agricultural sites, and is
 [Data](articles/1e5ca8fe.json)
 
 [Extended Data](ext_articles/1e5ca8fe.ext.json)
-
----
-
-### Earthquake of 5.1 magnitude jolts Afghanistan
-
-*2024-02-18 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97374/earthquake-of-51-magnitude-jolts-afghanistan) · `en`
-
-An earthquake of magnitude 5.1 on the Richter scale was recorded in Afghanistan on Sunday evening, the National Centre for Seismology (NCS) said.
-
-According to the NCS, the tremors were felt at about 4:50 pm. The depth of the quake was recorded at 15 km.
-
-“Earthquake of Magnitude:5.1, Occurred on 18-02-2024, 16:50:32 IST, Lat: 36.68 & Long: 66.75, Depth: 15 Km , Location: Afghanistan,” the NCS said in a post on X. Further details awaited.
-
-◼️
-
-[Data](articles/5203146a.json)
-
-[Extended Data](ext_articles/5203146a.ext.json)
-
----
-
-### Kudu Premaduwa's cousin arrested
-
-*2024-02-18 19:03:14* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සළිඳුගේ-ඥාති-සහෝදරියක්-අත්අඩංගුවට/11-408157) · `si`
-
-Panadura Kudu Seykara's drug network from Dubai, Panadura, a large number of drugs from Dubai has been arrested by a large number of drugs from Dubai, a large number of drugs from Dubai, a large number of drugs from Dubai.The Panadura Walana Walana is the Central Corruption Power Force.
-
-The raid was carried out by the Chief Inspector Indika Weerasinghe, the Chief Inspector Indika Weerasinghe, who was deployed by 428 Police Sergeant to bring drugs to sell the suspect.
-
-The suspect was arrested by the Mahawila in the Madatupitiya area in Mahawapitiya and was found in the secret area.
-
-Police say that four large number of dogs, specially trained in the house, has also been protected to carry out the drug trafficking in the house, especially trained, specially trained in the house.
-
-In addition, police officers were traveled from a distance from a distance and to the fall of the house to prevent the immediate rescue home.
-
-...
-
-[Data](articles/b57ef69b.json)
-
-[Extended Data](ext_articles/b57ef69b.ext.json)
-
----
-
-### Rugby Championship to CR & FC team
-
-*2024-02-18 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193552) · `si`
-
-CR & FC was able to win the championship of the Inter Club League Rugby Tournament.
-
-The cr and FC won the championship defeated Kandy as 25 runs.
-
-◼️
-
-[Data](articles/6f4a90c3.json)
-
-[Extended Data](ext_articles/6f4a90c3.ext.json)
-
----
-
-### A report on the duties of the Ministry of Finance or the Ministry of Finance
-
-*2024-02-18 18:58:27* · [`adalk`](https://www.ada.lk/breaking_news/රාජාසන-කථාවට-මුදල්-අමාත්‍යාංශයෙන්-වැරදි-දත්ත-දුන්නාද-නැත්ද-ගැන-වාර්තාවක්/11-408156) · `si`
-
-State Minister Ranjith Siyambalapitiya, said that there are persons who work in the country in the country and they will be provided with special services in the country.
-
-Mr. Siyambalapitiya says that we have experienced the destruction of the deforestation in the recent past.
-
-He was speaking at the inauguration of the Talent Show 2024 Design and Awards in the Royal Cadan Hotel in Kandy yesterday.
-
-He further stated that the Central Bank has received the power to determine the salaries of the Central Bank employees as an independent agency.
-
-It should be noted that the wage workers have increased their salaries in accordance with the bill.
-
-The Minister emphasized that it is essential to detain the country's personnel to increase the country's stairs when the public is suffering from tax burden.
-
-The international recognized people in the Central Bank must be preserved and that there is a number of problems.
-
-...
-
-[Data](articles/3e8ad76e.json)
-
-[Extended Data](ext_articles/3e8ad76e.ext.json)
-
----
-
-### Patta eighteen Cell
-
-*2024-02-18 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193551) · `si`
-
-The Walana Central Alarm will be arrested in Panadura East with 10 grams heroin.
-
-The police also seized Rs. 2,247,450 million.
-
-The suspect is now the oldest sister of Asitha from Dubai, which is currently in CID.
-
-She was arrested when the suspect known by the suspect known by the Tharanga was hidden from the secret area.
-
-Investigations have revealed that the police are unable to enter the house.
-
-It is noteworthy that the officers will also be installed to identify the overseers and also installed the Advisory CCTV system using the overseers.
-
-He is still being heard in the High Court under the accusation of heroin against the suspect woman.
-
-Also, the father of the woman, husband, and sister is also in custody due to heroin trafficking.
-
-The special operation has been carried out following information on the instructions of the Walana Central Corruption Board Director General.
-
-◼️
-
-[Data](articles/90a12b83.json)
-
-[Extended Data](ext_articles/90a12b83.ext.json)
 
 ---

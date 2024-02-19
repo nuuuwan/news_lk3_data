@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 20:50:18**
+As of **2024-02-19 21:02:36**
 
 ## Newspaper Stats
 
-*Scraped **8,070** Articles*
+*Scraped **8,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,125 @@ dailyftlk | 434
 adalk | 691
 tamilmirrorlk | 979
 adaderanalk | 984
-virakesarilk | 1,075
-adaderanasinhalalk | 1,174
-dailymirrorlk | 1,186
+virakesarilk | 1,078
+adaderanasinhalalk | 1,176
+dailymirrorlk | 1,188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,070 (100.0%) of 8,070 articles have been extended.
+8,070 (99.9%) of 8,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### කොටකෙතන ඝාතකයාට මරණ දඬුවම දුන්නේ මෙහෙමයි
+
+*2024-02-19 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193589) · `si`
+
+කොටකෙතන ප්‍රදේශයේදී මවක් සහ දියණියක් ඝාතනය කිරීමේ චෝදනාවට වරදකරුවූ චූදිතයෙකුට රත්නපුර මහාධිකරණය අද (19) මරණ දඬුවම නියම කළේය.
+
+මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනවිය එලෙස මරණ දඬුවම නියම කළේ වසර 12ක දීර්ඝ නඩු විභාගයකින් පසුවය.
+
+රත්නපුර, කහවත්ත කොටකෙතන ප්‍රදේශයේ පසුගිය කාලයේ සිදුවූ ඝාතන පෙළ රටක් භීතියට පත්කරන්නට සමත්වුණි.
+
+එම ඝාතන රැල්ලේ මව සහ දියණිය මරාදැමූ සිදුවීම් කිහිපයක් ද වාර්තාවූ අතර අදත් පුද්ගලයෙකුට මරණ දඬුවම හිමිවූයේ එවැනි සිද්ධියකටය.
+
+2012 වසරේදී ජූලි 19 වැනිදා හෝ ඊට ආසන්න දිනකදී මෙලෙස ඝාතනයට ලක්වී තිබුණේ ලියනාරච්චිගේ ප්‍රේමවතී නම් හැටතුන් හැවිරිදි මවක් සහ හේවාගේ පුෂ්පාකුමාරි නමැති තිස්දෙහැවිරිදි අවිවාහක දියණියකි.
+
+එම ඝාතනයට අදාළව සැකකරුවන් සිව්දෙනෙකු කහවත්ත පොලීසිය විසින් අත්අඩංගුවට ගැනුණු අතර නීතිපතිවරයා විසින් එම සිව්දෙනාට එරෙහිව කොළඹ මහාධිකරණයේදී නඩු පවරනු ලැබීය.
+
+ඉන් එක් අයෙක් රජයේ සාක්ෂිකරුවෙකු කෙරුණු අතර සෙසු තිදෙනා නිදොස්කොට නිදහස් කෙරුණි.
+
+ඒ අනුව, ඝාතකයා කවුදැයි තහවුරු කරගැනීමට නොහැකි වීම මත කහවත්ත පොලීසිය සිද්ධියේ විමර්ශන යළි ආරම්භ කර තිබුණි.
+
+...
+
+[Data](articles/988cc485.json)
+
+---
+
+### Fr. Cyril Gamini on anti-Cardinal protests in Colombo
+
+*2024-02-19 20:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fr-Cyril-Gamini-on-anti-Cardinal-protests-in-Colombo/108-277336) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - The Archdiocese of Colombo today assured that the fisheries harbour in Pitipana, Negombo will be handed over to an authority.
+
+It ensures that the fisherfolk in the area get maximum benefit from it.
+
+“The Cardinal never had any intention of using the property for his personal purposes at any point,” Cardinal’s spokesman Fr. Cyril Gamini Fernando said in a statement.
+
+Fr. Fernando made this remark in relation to a protest held by a group claiming to be fishermen, in front of Archbishop's House today. The protestors claimed that Cardinal Ranjith had taken over the fisheries harbour by force.
+
+“The objective behind the Archbishop's decision to take legal action was to ensure transparency when it comes to the administration of the fisheries harbour. We do not want to see a handful of people benefiting from it,” Fr. Fernando added.
+
+...
+
+[Data](articles/dbfc0942.json)
+
+---
+
+### පික්පොකට්කාරියන්ට ඇප
+
+*2024-02-19 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193588) · `si`
+
+මහරගම ප්‍රදේශයේ ධාවනය වූ බස් රථයක් තුළ ගමන් ගත් මගී කාන්තාවකගේ මුදල් පසුම්බියක් සොරාගත් බව කියන සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් පෑලියගොඩ දරමඩුවත්ත ප්‍රදේශයේ පදිංචි ඥාතී සැකකාරියන් තිදෙනෙකු ඇප මත මුදාහරින ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් නියෝග කළේය.
+
+එම මුදල් පසුම්බියේ රුපියල් 16,000ක් තිබී ඇති අතර සැකකාරියන් තිදෙනාව කුරුඳුවත්ත පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබුණි.
+
+මුදල් පසුම්බිය අස්ථානගත වූ කාන්තාව කුරු වත්ත පොලීසිය වෙත කරන ලද පැමිණිල්ලක් අනුව සිදුකළ විමර්ශනයකින් අනතුරුව සැකකාරියන් තිදෙනා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර කළේය.
+
+◼️
+
+[Data](articles/681b55ba.json)
+
+---
+
+### Chameera replaces Atkinson at Kolkata Knight Riders
+
+*2024-02-19 20:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chameera-replaces-Atkinson-at-Kolkata-Knight-Riders/108-277334) · `en`
+
+India, Feb 19, PTI - Kolkata Knight Riders (KKR) on Monday named Sri Lankan Dushmantha Chameera as a replacement for England pacer Gus Atkinson for the 2024 Indian Premier League.
+
+Chameera will join KKR at a reserve price of ₹50 lakh, the IPL organisers said in a statement.
+
+The Sri Lankan speedster was a part of Rajasthan Royals and Royal Challengers Bangalore in the 2018 and 2021 seasons respectively.
+
+He represented Lucknow Super Giants in the 2022 season, where he picked up nine wickets from 12 matches.
+
+Rising star Kashvee Gautam, the most expensive uncapped Indian player in Women's Premier League (WPL), has been ruled out of the second edition owing to an injury.
+
+Gujarat Giants, who had secured the services of Kashvee for ₹2 crore, have named Mumbai's Sayali Sathgare as a replacement at a reserve price of ₹10 lakh.
+
+India all-rounder Kanika Ahuja, too, has been ruled out of WPL 2024 owing to an injury.
+
+◼️
+
+[Data](articles/d831d8fb.json)
+
+---
+
+### கல்வித்துறையை டிஜிட்டல் மயமாக்கும் முன்னோடித் திட்டம் மார்ச் மாதத்தில் ஆரம்பம் - கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்த்
+
+*2024-02-19 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176803) · `ta`
+
+கல்வித்துறையை டிஜிட்டல் மயமாக்குவதற்கான முன்னோடித் திட்டத்தை மார்ச் மாதம் ஆரம்பிக்க ஏற்பாடு செய்யப்பட்டுள்ளதாகக் கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்த் தெரிவித்தார்.
+
+2024 ஆம் ஆண்டுக்கான பாடசாலை பாடப்புத்தகங்களை விநியோகத்திற்காக அனுப்பும் பணிகள் நிறைவடைந்துள்ளதாகவும் அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (19) நடைபெற்ற செய்தியாளர் சந்திப்பில் கலந்து கொண்டு கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்த இதனைக் குறிப்பிட்டார்.
+
+2024 ஆம் ஆண்டிற்கான பாடசாலைப் பாடப்புத்தகங்கள் யாவும் விநியோகத்திற்காக அனுப்பப்பட்டுள்ளன. மார்ச் முதலாம் திகதியாகும் போது பாடசாலைகளில்  விநியோகப் பணிகள் நிறைவு செய்யப்படும்.இதற்காக  12,000 மில்லியன் ரூபா செலவிடப்படுகிறது.
+
+அத்துடன் சீன அரசாங்கத்தின் அனுசரணையின் கீழ் பாடசாலை மாணவர்களின் சீருடைக்குத் தேவையான துணியில் 80%, அதாவது 05 பில்லியன் ரூபா பெறுமதியான  சீருடைத்துணிகள் எமக்குக் கிடைத்துள்ளன.அவை விநியோகம்  செய்யப்பட்டு வருகிறது.
+
+...
+
+[Data](articles/1f5909bf.json)
+
+---
 
 ### CEB urges consumers to use electricity sparingly
 
@@ -47,6 +153,42 @@ He noted, however, that due to the current arid weather conditions, hydropower g
 [Data](articles/42cad4b6.json)
 
 [Extended Data](ext_articles/42cad4b6.ext.json)
+
+---
+
+### ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின் பணிப்பாளர் நாயகத்திற்கும் ஜனாதிபதிக்கும் இடையில் சந்திப்பு
+
+*2024-02-19 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176802) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின் (UN FAO) பணிப்பாளர் நாயகம் கலாநிதி கூ தொங்யுவுக்கும் (Dr. Qu Dongyu  இடையிலான சந்திப்பொன்று ஜனாதிபதி அலுவலகத்தில் திங்கட்கிழமை (19) நடைபெற்றது.
+
+பொருளாதார சவால்களுக்கு முகங்கொடுத்து இலங்கை மக்களுக்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் நடைமுறைப்படுத்தப்பட்டுள்ள வேலைத்திட்டத்தை பாராட்டிய பணிப்பாளர் நாயகம், புதிய சீர்திருத்தங்களினூடாக நாட்டில் பொருளாதார ஸ்திரத்தன்மையை ஏற்படுத்துவதற்கான ஜனாதிபதியின் அர்ப்பணிப்புக்கு தனது வாழ்த்துக்களையும் தெரிவித்தார்.
+
+இந்த நெருக்கடியான சமயத்தில் இலங்கை அரசாங்கத்திற்கும் மக்களுக்கும் உணவு மற்றும் விவசாய அமைப்பு தொடர்ந்து பூரண ஆதரவை வழங்கும் என்றும் பணிப்பாளர் நாயகம் உறுதியளித்தார்.
+
+இலங்கையின் பொருளாதாரத்தை கட்டியெழுப்புவதற்கு முன்னெடுக்கப்படும் வேலைத்திட்டம் தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின் பணிப்பாளர் நாயகத்திற்கு விளக்கமளிக்கப்பட்டது.
+
+...
+
+[Data](articles/4dc1c7b6.json)
+
+---
+
+### கடவத்த மகாமாயா மகளிர் கல்லூரி மாணவப் பாராளுமன்ற உறுப்பினர்கள் அமைச்சரவையில் ஜனாதிபதியுடன் சந்திப்பு
+
+*2024-02-19 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176801) · `ta`
+
+கடவத்த மகாமாயா மகளிர் கல்லூரியின் மாணவப் பாராளுமன்ற முதல் அமர்வு திங்கட்கிழமை (19) ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது. இதனைத் தொடர்ந்து ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் சிநேகபூர்வ சந்திப்பொன்றை மேற்கொள்ளும் வாய்ப்பு மாணவிகளுக்குக் கிடைத்தது.
+
+ஜனாதிபதி அலுவலகத்தில் அமைச்சரவைக் கூட்டம் நடைபெற்ற சந்தர்ப்பத்தில் மாணவிகளை அங்கு அழைத்துச் சென்ற ஜனாதிபதி, அமைச்சரவை என்றால் என்ன, அதன் கட்டமைப்பு மற்றும் செயல்பாடுகள் குறித்து அவர்களுக்கு விளக்கினார்.
+
+நாட்டின் முக்கிய தீர்மானங்கள் எடுக்கப்படுகின்ற பிரதான இடமான அமைச்சரவைக்குத் தலைமை தாங்கும் ஜனாதிபதியுடன் முதன்முறையாகக் கலந்துரையாடும் சந்தர்ப்பம் பாடசாலை மாணவிகளுக்குக் கிடைத்தமை விசேட அம்சமாகும்.
+
+மாணவப் பாராளுமன்றத்தில் அமைச்சுப் பதவிகளை வகிக்கும் மாணவிகளுக்கு அமைச்சர்களின் பொறுப்புகள், பணிகள் மற்றும் அமைச்சரவையின் பொறுப்புகள் குறித்தும் ஜனாதிபதி தெளிவுபடுத்தினார்.
+
+...
+
+[Data](articles/1a6c3bde.json)
 
 ---
 
@@ -1883,165 +2025,5 @@ The decision was taken after a discussion between the Attorney General and the M
 [Data](articles/4f3bf12c.json)
 
 [Extended Data](ext_articles/4f3bf12c.ext.json)
-
----
-
-### More than 60 people shot dead in Papua Newgini - Violence in Tribal areas
-
-*2024-02-19 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176745) · `ta`
-
-More than 60 people have been shot dead during the clashes between tribes in the Enanga.
-
-The violence has taken place in the hilly areas that have been violent for many years, but officials said that this is the most common violence recently.
-
-It is noteworthy that the city of Enga has been paralyzed for three weeks since last July due to a tribal clash caused by dissatisfaction with the sharing of land property.
-
-◼️
-
-[Data](articles/6bf40bb1.json)
-
-[Extended Data](ext_articles/6bf40bb1.ext.json)
-
----
-
-### Sexual violence, harassment, suicides!;Sri Lankan Tamil asylum seekers in Diego Garcia. Information
-
-*2024-02-19 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176742) · `ta`
-
-Sri Lankan Tamil migrants in Decorgarsia have been forgotten by UN investigators, "We have not been forgotten."
-
-They have also reported that the abolition of the child's harassment and the suicides and the injuries to them are found in the middle of the migrants.
-
-Officials of the United Nations Refugee Agency have gone to Diagoocarcia to investigate the plight of refugees.
-
-This is the first time that Sri Lankan asylum seekers in Diocore Garcia went out to visit their conditions after they were cigarette.
-
-The court has issued a report to the BBC after their visit to the UN.
-
-Representatives of the organization for the UN refugees have reportedly addressed the Sri Lankan Tamil asylum seekers in Tiocarcia.
-
-Other Sri Lankan asylum seekers in Diagor Garcia are committed by these crimes, they said.
-
-At the same time, the immigrants think that the public is not fully detained due to the concern of the community due to the vision of the community.
-
-...
-
-[Data](articles/09541158.json)
-
-[Extended Data](ext_articles/09541158.ext.json)
-
----
-
-### Legal wife and Casual Wife clash to take over husband's body
-
-*2024-02-19 12:22:40* · [`adalk`](https://www.ada.lk/breaking_news/සැමියාගේ-දේහය-බාර-ගැනීමට-නීත්‍යානුකූල-බිරිඳයි-අනියම්-බිරිඳය්-අතර-ගැටුමක්/11-408167) · `si`
-
-Homagama Headquarters said that the Emergency Death Inspector Sithaka Udaya Kawatha (18), hostile to the death of a dead person to take over a deceased, says the Homagama Headquarters said.
-
-The emergency delegates had ordered the last respects of the casual wife for two hours in a private flower of Homagama.
-
-The victim has been identified as Dissanayake Mudiyanselage Shantha Dissanayake (45), Dissanayake Mudiyanselage, Dissanayake Mudiyanselage, Dissanayake Mudiyanselage, Dissanayake Mudiyanselage, Dissanayake Mudiyanselage, Dissanayake, 199/3, has been identified.
-
-The man has been married in 2006 with a woman in Meegahakiula, and traveling to the country, including Rambutan sales.
-
-Meanwhile, while he was in the Homagama in Homagama for Samagama, a woman had been abandoned with a woman and was living with the three children.
-
-...
-
-[Data](articles/fadfc87e.json)
-
-[Extended Data](ext_articles/fadfc87e.ext.json)
-
----
-
-### Kalol sticks to Soratha of Sotha in the teledrama drama
-
-*2024-02-19 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193572) · `si`
-
-You may recall the wonderful Buddhist monk with difficult monk in the teledrama, which was the most populous "on Derana drama.
-
-The audience was sometimes forgotten when he was running to a role in the role of the soratha.
-
-He was 5 years old in the age of 5 Audience-hearts
-
-Fulfillment of that hope of the audience, she became a small monarchy today.
-
-Kaviesh is energized at the Mawathakarapola Potthigegoda Rajamaha Viharaya, Matale.
-
-The height of the noble chief of the Soratha was heavy in the 5 year, the height of the Sorati Athawan is truly affordable for all the World Animal.
-
-The wishes of Kavish's hope for three months ago, Kaviesh's hope has become the same.
-
-So we wish that the strength is courage to do a great service for the Buddha Sasana.
-
-◼️
-
-[Data](articles/6e1b42a3.json)
-
-[Extended Data](ext_articles/6e1b42a3.ext.json)
-
----
-
-### Japan grants Sri Lanka 40,000 MT of diesel for healthcare transport
-
-*2024-02-19 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japan-grants-Sri-Lanka-40-000-MT-of-diesel-for-healthcare-transport/108-277314) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - Sri Lanka has received a grant of 40,000 metric tons of diesel from the Japanese government designated to fortify transportation services within Sri Lanka's healthcare system, particularly benefiting ambulance operations.
-
-The formal handover ceremony was held at the the Colombo Port today in the presence of Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki and Minister of Health and Industry Dr. Ramesh Pathirana.
-
-Furthermore, to ensure transparent and accountable management of the diesel resources, authorities have introduced a sophisticated Fuel Management Information System (FIMS), which will meticulously track the distribution of the diesel across healthcare institutions, maintaining detailed records of fuel allocations to vehicles and facilities.
-
-◼️
-
-[Data](articles/99b3b1bb.json)
-
-[Extended Data](ext_articles/99b3b1bb.ext.json)
-
----
-
-### Mall beds from Yawn Yawn
-
-*2024-02-19 12:08:59* · [`adalk`](https://www.ada.lk/breaking_news/මීයා-නිසා-අයිය-මලෝ-හබයෙන්-මල්ලි-මළෝ/11-408166) · `si`
-
-Thalangama Police say that the younger brother who had fallen into the Talangama District Hospital for treatment, the younger brother, Talangama Police said that the younger brother who had fallen into the Talangama District Hospital for treatment.
-
-The deceased has been identified as Egodawatte Arachchige Anura Kithsiri, a resident of Thalangama South, No. 381 / C, Battaramulla.
-
-The two brothers say that only two daughters and wife have been staying at the same house where the two daughters and wife had been abandoned at home.
-
-In the meantime, the animal had entered the younger brother's room, which was adjacent to the younger brother's room, and the two men were taken into the adjacent to the elderly brother.
-
-The elder brother has said, "The older brother has said," There is no mice that flows into your room, "
-
-But when the younger brother continued to establish the elderly with the older brother, he had fallen and rose his neighbors to the Talangama District Hospital.
-
-...
-
-[Data](articles/76de56a6.json)
-
-[Extended Data](ext_articles/76de56a6.ext.json)
-
----
-
-### World Court to hear arguments on Israeli occupation of Palestinian territories
-
-*2024-02-19 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97385/world-court-to-hear-arguments-on-israeli-occupation-of-palestinian-territories) · `en`
-
-The United Nations’ top court on Monday opens a week of hearings on the legal consequences of Israel’s occupation of Palestinian territories, with more than 50 states due to address the judges.
-
-Palestinian Foreign Minister Riyad al-Maliki will speak first in the legal proceedings at the International Court of Justice (ICJ) in The Hague.
-
-In 2022, the U.N. General Assembly asked the court for an advisory, or non-binding, opinion on the occupation.
-
-While Israel has ignored such opinions in the past, it could pile on political pressure over its ongoing war in Gaza, which has killed about 29,000 Palestinians, according to Gaza health officials, since Oct.7.
-
-Among countries scheduled to participate in the hearings are the United States - Israel’s strongest supporter, China, Russia, South Africa and Egypt. Israel will not, although it has sent written observations.
-
-...
-
-[Data](articles/72edc82c.json)
-
-[Extended Data](ext_articles/72edc82c.ext.json)
 
 ---

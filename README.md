@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 03:33:05**
+As of **2024-02-20 03:50:30**
 
 ## Newspaper Stats
 
-*Scraped **8,115** Articles*
+*Scraped **8,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 443
 adalk | 693
 tamilmirrorlk | 983
 adaderanalk | 987
-virakesarilk | 1,084
+virakesarilk | 1,091
 adaderanasinhalalk | 1,180
 dailymirrorlk | 1,198
 
@@ -26,11 +26,97 @@ dailymirrorlk | 1,198
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,115 (100.0%) of 8,115 articles have been extended.
+8,115 (99.9%) of 8,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### ஒக்ஸ்போர்ட் ஜனாதிபதி கிண்ண கால்பந்தாட்ட இறுதியில் சென். தோமசஸ், ஹமீத் அல் ஹுசெய்னி
+
+*2024-02-20 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176814) · `ta`
+
+ஹமீத் அல் ஹுசெய்னி கல்லூரியின் 80களின் பழைய மாணர்கள் குழு ஏற்பாடு செய்துள்ள 14ஆவது ஒக்ஸ்போர்ட் ஜனாதிபதி சவால் கிண்ண இறுதிப் போட்டியில் விளையாடுவதற்கு நடப்பு சம்பியன் ஹமீத் அல் ஹுசெய்னியுடன் முதல் தடவையாக கல்கிஸ்ஸை சென். தோமசஸ் தகுதிபெற்றுள்ளது.
+
+இந்த இரண்டு அணிகளுக்கும் இடையிலான இறுதிப் போட்டி கொழும்பு சுகததாச விளையாட்டரங்கில் எதிர்வரும் மார்ச் 7ஆம் திகதி மின்னொளியில் நடத்த திட்டமிடப்பட்டுள்ளது.
+
+இதற்கு முன்னோடியாக ஞாயிற்றுக்கிழமை (18) நடைபெற்ற முதலாவது அரை இறுதிப் போட்டியில் நீர்கொழும்பு அல் ஹிலால் அணியை எதிர்த்தாடிய சென். தோமசஸ் 6 - 1 என்ற கோல்கள் வித்தியாசத்தில் இலகுவாக வெற்றிபெற்றது.
+
+அப் போட்டியின் 24ஆவது நிமிடத்தில் எம்.என்.எம். அரபாத் கோல் போட்டு அல் ஹிலால் அணியை முன்னிலையில் இட்டார்.
+
+ஆனால், அதன் பின்னர் அற்புதமான ஆற்றல்களை வெளிப்பிடுத்திய சென். தோமசஸ் 6 கோல்களைப் போட்டு அபார வெற்றியீட்டியது.
+
+எம்.எம். முக்தார் (36 நி., 77 நி., 86 நி.) ஹெட் ட்ரிக் முறையில் 3 கோல்களையும் ஜே. ஆர். ராஜதுரை (55 நி.), எச். ஜீ. எம். டயஸ் (66 நி.), பி. என். ஜேசுரன் (69 நி.) ஆகியோர் தலா ஒரு கோலையும் போட்டனர்.
+
+...
+
+[Data](articles/06cb560e.json)
+
+---
+
+### இலங்கை சாரணர் சங்கத்தின் 10ஆவது ஜம்போறி மாநாட்டில் யாழ்ப்பாண மாவட்டத்தில் இருந்து 11 பாடசாலைகளைச் சேர்ந்த 253 மாணவர்கள் பங்கேற்பு
+
+*2024-02-20 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176812) · `ta`
+
+இலங்கை சாரணர் சங்கத்தின் 10ஆவது ஜம்போறி மாநாடு திருகோணமலையில் நாளை 21ஆம் திகதி ஆரம்பித்து 26ஆம் திகதி வரை நடைபெறவுள்ளது. இம்மாநாட்டில் யாழ். மாவட்டத்திலிருந்து 11 பாடசாலைகளைப் பிரதிநிதித்துவப்படுத்தி 253 சாரணர்கள் கலந்துகொள்ளவுள்ளனர்.
+
+சாரணர்களை கெளரவித்து அனுப்பிவைக்கும் நிகழ்வு  வடமாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ் தலைமையில் திங்கட்கிழமை (19) பிற்பகல் யாழ் பழைய பூங்காவில் இடம்பெற்றிருந்தது.
+
+நிகழ்வின் போது யாழ். மாவட்ட சாரணர் கொடிக்கான சாரணர் அணிவகுப்பு இடம்பெற்றதுடன், சாரணர்களுக்கான சீருடைகள் மற்றும் ஜம்போறியில் பங்குபற்றும் சாரணர்களுக்குத் தேவையான உணவுப்பொருள் என்பன கௌரவ ஆளுநர் அவர்களால் வழங்கிவைக்கப்ட்டன.
+
+நிகழ்வில் உரையாற்றிய கெளரவ வட மாகாண ஆளுநர் அவர்கள், திருகோணமலைக்குப் புறப்படும் சாரணர் சிறார்களுக்கு வாழ்த்துக்களைத் தெரிவித்ததுடன், சாரணர் இயக்கத்திற்காக தங்களை அர்ப்பணித்துள்ள பாடசாலைகளையும் . பாராட்டினார்.
+
+...
+
+[Data](articles/012256a6.json)
+
+---
+
+### சித்திரை புத்தாண்டுக்குப்பிறகு பாராளுமன்றை கலைக்க ஜனாதிபதி முடிவு ?
+
+*2024-02-20 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176813) · `ta`
+
+தான் ஜனாதிபதி வேட்பாளராக களமிறங்கினாலும் வெற்றி பெற முடியாது என்பதை ஜனாதிபதி ரணில் நன்கு உணர்ந்துள்ளார். அதே வேளை வேறு எவரையும் வேட்பாளராக களமிறக்கவும் அவர் தயாராக இல்லை. எதிரணியில் சஜித் மற்றும் அநுர ஆகியோர் போட்டியிட்டாலும் இருவருமே ஐம்பது வீத வாக்குகளுக்கு மேல் பெற மாட்டர் என்பதையும் ரணில் அறிந்திருக்கின்றார். ஆகவே முதலில் பாராளுமன்றத் தேர்தலை நடத்தி விட்டு அதன் மூலம் மாவட்டத்தில் ஒருவர் என்ற அடிப்படையில் ஐக்கிய தேசிய கட்சிக்கு இருபத்தைந்து எம்.பிக்களையாவது பெற்று விடலாம் என ரணில் சிந்தித்து வருவதாக அவருக்கு நெருக்கமான வட்டாரங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/252e61f1.json)
+
+---
+
+### யாழ்ப்பாண பாதுகாப்புப்படைத் தலைமையக கட்டளைத்தளபதி வட மாகாண ஆளுநருடன் கலந்துரையாடல்
+
+*2024-02-20 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176811) · `ta`
+
+வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம் சார்ள்ஸ் அவர்களுக்கும் யாழ் பிராந்திய பாதுகாப்புப்படைத் தலைமையகக் கட்டளைத்தளபதி மேஜர் ஜெனரல் சந்தன விக்கிரமசிங்கவுக்கும் இடையில் விஷேட கலந்துரையாடல் ஒன்று திங்கட்கிழமை (19) முற்பகல்  ஆளுநர் செயலகத்தில் இடம்பெற்றது.
+
+யாழ்ப்பாண பிராந்தியத்தில் சட்டம் மற்றும் ஒழுங்கை உரிய வகையில் முன்னெடுத்து செல்லல், பொது மக்களின் நாளாந்த வாழ்வியல் செயற்பாடுகளின் போது தேவையான பாதுகாப்பைப் பெற்றுக்கொடுத்தல் உள்ளிட்ட விடயங்கள் தொடர்பில் இந்த சந்திப்பின் போது கலந்துரையாடப்பட்டது.
+
+யாழ்ப்பாண மாவட்டத்தில் மீள குடியேற்றப்பட்டவர்களுக்காக  பாதுகாப்புப் படையினரால் முன்னெடுக்கப்பட்டு வரும் வீட்டுத்திட்டம் தொடர்பிலும் இதன் போது கலந்துரையாடப்பட்டது.
+
+◼️
+
+[Data](articles/a3f59bbe.json)
+
+---
+
+### ஜனாதிபதி தேர்தலுக்காக பொதுஜன பெரமுன கட்சி வேட்பாளர் ஒருவரை நிறுத்துமென தான் நினைக்கவில்லை - இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய
+
+*2024-02-20 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176810) · `ta`
+
+ஜனாதிபதி தேர்தலுக்காக பொதுஜன பெரமுன கட்சி வேட்பாளர் ஒருவரை நிறுத்துமென தான் நினைக்கவில்லை யென்றும் தனி மனிதனாக பாராளுமன்றத்திலிருந்து கொண்டு பல சவால்களுக்கு மத்தியில் ஜனாதிபதி பதவியை பாரமெடுத்தார் என்வும் நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய கண்டியில் தெரிவித்துள்ளார்.
+
+கண்டியில் ஞாயிற்றுக்கிழமை (18) ஊடகங்களுக்குக் கருத்து தெரிவிக்கும் போதே இராஜாங்க அமைச்சர்  சியம்பலாபிட்டிய இவ்வாறு தெரிவித்தார்.
+
+அங்கு தொடர்ந்துரையாற்றிய அமைச்சர், நாட்டின் ஜனாதிபதி பதவியை யாரிடம் ஒப்படைக்க வேண்டும் என்ற விடயம் இந்த நாட்டில் உள்ள ஒரு சிறு குழந்தைக்கும் புரியும்
+
+ஏற்றுக்கொள்ளப்பட்ட சவாலை வெற்றிகரமாக எதிர்கொண்டு நாட்டை எவ்வாறு கட்டியெழுப்புவது என்பதைச் செயலில் நிரூபித்துக்காட்டிய தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க ஜனாதிபதித் தேர்தலில் போட்டியிட்டால் நிச்சயம் அவருக்கு ஆதரவு கிடைக்கும் என உறுதியளித்திருந்தார்.
+
+...
+
+[Data](articles/bb0dcc4e.json)
+
+---
 
 ### President discusses economic recovery with UN FAO Director General
 
@@ -49,6 +135,36 @@ President Wickremesinghe, in turn, provided an overview of the progress made in 
 [Data](articles/bc09c9a1.json)
 
 [Extended Data](ext_articles/bc09c9a1.ext.json)
+
+---
+
+### மக்கள் சேவைக்காக தன்னை அப்பணித்து செயற்பட்டவர் காமினி - ஐ,தே.க. பொதுச் செயலாளர் ரங்கே பண்டார
+
+*2024-02-20 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176809) · `ta`
+
+மக்கள் சேவைக்காக தன்னை அர்ப்பணித்து செயற்பட்ட காமினி  ஜயவிக்ரம பெரேராவின் அரசியல் பணிகள் தற்போதுள்ள அரசியல்வாதிகளுக்கு முன்னுதாரணமாகும். குருணாகலை மாவட்டத்துக்கான அவரின் சேவை அந்த மக்களால் ஒருபோதும் மறக்க முடியாத சேவையாகும். குருணாகல் மக்களால் அவர் ஒருபோதும் மறக்க முடியாத நபராக இருந்து வந்தார். இவ்வாறான நிலையில் அவரின் மறைவு ஐக்கிய தேசிய கட்சிக்கும் குருணாகலை மாவட்ட மக்களுக்கும் பெரும் இழப்பாகும் என ஐக்கிய தேசிய கட்சியின் பாெதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்துள்ளார்.
+
+ஐக்கிய தேசிய கட்சின் சிரேஷ்ட உறுப்பினரும் முன்னாள் அமைச்சருமான காமினி சுயவிக்ரம பெரேராவின் மறைவு தொடர்பாக அவர் விடுத்துள்ள அறிக்கையிலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/1e91e667.json)
+
+---
+
+### அமைச்சர் ஹரீன் பெர்னாண்டோவுக்கு மரண தண்டணை வழங்க வேண்டும் - உதய கம்மன்பில
+
+*2024-02-20 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176808) · `ta`
+
+இலங்கை இந்தியாவின் ஒரு பகுதி என்று அமைச்சர் ஹரீன் பெர்னாண்டோ குறிப்பிட்டுள்ள கருத்து நாட்டின் இறையாண்மையின் சுயாதீனத்தன்மையை மீறும் வகையில் அமைந்துள்ளது.இதனை தேச துரோக குற்றமாக கருதி அவருக்கு மரண தண்டனை வழங்க வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பில் உள்ள பிவிதுல ஹெல உறுமய கட்சியின் காரியாலயத்தில்  திங்கட்கிழமை (19) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொருளாதார நெருக்கடியில் இருந்து மீண்டு விட்டோம் என அரசாங்கம் குறிப்பிடுகிறது.ஆனால் அரசாங்கத்தின் அறிக்கைகள் பொருளாதாரத்தின் எதிர்மறையான போக்கினை சுட்டிக்காட்டுகிறது.2023 ஆம் ஆண்டுக்கான பொருளாதார நிலைவரம் தொடர்பில் வெளியிடப்பட்டுள்ள அறிக்கையில் ஏற்றுமதி வருமானம் 14.49 பில்லியன் டொலராக காணப்படுகிறது.14 மணித்தியாலங்கள் மின்விநியோகம் துண்டிப்பு,எரிபொருள்,எரிவாயுவுக்கான வரிசை,போராட்டம் என பல பிரச்சினைகள் தோற்றம் பெற்ற 2022 ஆம் ஆண்டை காட்டியும் 2023 ஆம் ஆண்டு ஏற்றுமதி வருமானம் குறைவடைந்துள்ளது.
+
+...
+
+[Data](articles/5e994039.json)
 
 ---
 
@@ -1897,139 +2013,5 @@ Speaking at a rally in Kurunegala on Sunday February 18, Dissanayake said member
 [Data](articles/16a32f2c.json)
 
 [Extended Data](ext_articles/16a32f2c.ext.json)
-
----
-
-### President makes a promise to the mountain Tamils
-
-*2024-02-19 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193579) · `si`
-
-President Ranil Wickremesinghe said that the government is committed to ensure the economic and social rights of the mountainous Tamils who contribute greatly to the economy of the country.
-
-The President added that the proposals relating to the implementation of all political representatives representing the mountains will be presented in the next month.
-
-President Ranil Wickremesinghe made this statement participating in the Presidential Secretariat from the Presidential Secretariat today (19) under the commencement of the fourth phase of the 'Bhath-Lanka' Housing Project to build 10,000 houses for the public.
-
-President Ranil Wickremesinghe, Water Supply Infrastructure Development Minister Ranil Wickremesinghe, Minister of Water Supply Infrastructure and Sri LankaHigh Commissioner was carried out by the Messeny Ja.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-...
-
-[Data](articles/3d4f7e12.json)
-
-[Extended Data](ext_articles/3d4f7e12.ext.json)
-
----
-
-### Special notice to public servants
-
-*2024-02-19 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193578) · `si`
-
-Prime Minister Dinesh Gunawardena has made a special request from state employees.
-
-Appointment letters were presented at Temple Trees today under the patronage of the Prime Minister today (19).That request was made at the time.
-
-Speaking on the occasion, the Prime Minister urged public servants to cut the development goals of the country, especially to prevent certain injustice in decision making, to avoid making such decisions.
-
-"All of you who have qualified for their skills and seniority join our happiness, blessing. The responsibility of the public service is more serious than a normal personal company.
-
-...
-
-[Data](articles/7e5bd66e.json)
-
-[Extended Data](ext_articles/7e5bd66e.ext.json)
-
----
-
-### Sexual harassment of female police constable
-
-*2024-02-19 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176767) · `ta`
-
-Homagama headquarters police said that a woman has been arrested for allegedly sexually harassing a female police constable at the Children's and Women's Bureau Headquarters.
-
-A 43 -year -old man who works in the Engineering Corporation has been arrested.
-
-Police investigations revealed that the suspect had sexually harassed the woman as she was traveling from Colombo to her home from Colombo.
-
-◼️
-
-[Data](articles/556f80a3.json)
-
-[Extended Data](ext_articles/556f80a3.ext.json)
-
----
-
-### Siege of leakage manufacturing plant in Kokkatichcholai, Batticaloa;Arrest
-
-*2024-02-19 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176766) · `ta`
-
-Police blockade a leak manufacturing plant on Monday (19) in the Munikkadu Kalappu area of the Kokkatticholai police division in Batticaloa.
-
-A man was arrested with 150 bottles of leaks and a man of 3 lakhs 50 thousand millimeters, manufacturing equipment and motorcycles have been recovered.
-
-◼️
-
-[Data](articles/ad5e4b64.json)
-
-[Extended Data](ext_articles/ad5e4b64.ext.json)
-
----
-
-### Accused in Kotakethana double murder sentenced to death
-
-*2024-02-19 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97389/accused-in-kotakethana-double-murder-sentenced-to-death-) · `en`
-
-The Ratnapura High Court on Monday (19 Feb.) issued the death sentence against the accused in a double murder at Kotakethana in 2012.
-
-Accordingly, the accused, Neil Lakshman, was sentenced to death over the double murder of a mother and daughter in Kotakethana, Ada Derana reporter confirmed.
-
-◼️
-
-[Data](articles/c0721eea.json)
-
-[Extended Data](ext_articles/c0721eea.ext.json)
-
----
-
-### Sri Lanka’s port city to offer duty free shopping in April
-
-*2024-02-19 14:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-port-city-to-offer-duty-free-shopping-in-april-151477/) · `en`
-
-ECONOMYNEXT – Duty free shopping will be available in Colombo soon, the Belt and Road Initiative Sri Lanka (BRISL), an international development organization, has said.
-
-“Colombo Port City duty free shop will be opened in April,” BRISL announced on social media platform X (twitter) on Monday (19).
-
-There was to be a 5,000 US dollar allowance for returning Sri Lankans and any amount for foreigners, according to concessions gazetted on May 29.
-
-“The Port City Commission listed up 200-300 items that would be made duty free, to be sold at -the new downtown duty-free complex, which should also have a 25 percent tax holiday, in addition to being duty free,” opposition legislator Harsha de Silva, who was chairman of the parliament’s Committee on Public Fiannce told an economic forum organized by Colombo-based Advocata Institute, earlier this month.
-
-Sri Lanka Port City duty free shopping complex in legal quagmire
-
-Sri Lanka think tank cautions against “differential” tax treatment to Port City entities
-
-...
-
-[Data](articles/3c95d853.json)
-
-[Extended Data](ext_articles/3c95d853.ext.json)
-
----
-
-### Kotakethana sentenced to death
-
-*2024-02-19 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193577) · `si`
-
-The man accused of the murder of a mother and daughter in the Kotakethana area has been sentenced to death.
-
-Ratnapura High Court Judge Lanka Jayaratne issued the order (19).
-
-The death sentence was sentenced to the accused, a resident of Kotkayathan, a resident of Kotkayathan.
-
-◼️
-
-[Data](articles/5c529e97.json)
-
-[Extended Data](ext_articles/5c529e97.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 07:52:20**
+As of **2024-02-19 08:02:46**
 
 ## Newspaper Stats
 
-*Scraped **7,909** Articles*
+*Scraped **7,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 99
 dbsjeyarajcom | 154
 newsfirstlk | 363
 economynextcom | 404
-islandlk | 419
+islandlk | 420
 dailyftlk | 434
 adalk | 670
-tamilmirrorlk | 956
-adaderanalk | 968
+tamilmirrorlk | 957
+adaderanalk | 969
 virakesarilk | 1,045
 adaderanasinhalalk | 1,145
 dailymirrorlk | 1,164
@@ -26,11 +26,27 @@ dailymirrorlk | 1,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,909 (100.0%) of 7,909 articles have been extended.
+7,909 (100.0%) of 7,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Showers expected in parts of the country
+
+*2024-02-19 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97379/showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says a few showers may occur in Eastern and Uva provinces today while showers or thundershowers may occur at a few places in Sabaragamuwa province after 4.00 p.m.
+
+Fairly strong winds about 30-35 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, North-western, Uva, Southern and Eastern provinces and in Matale and Kandy districts.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/f331faf9.json)
+
+---
 
 ### Sri Lanka - US Assistant Secretary of State
 
@@ -844,6 +860,26 @@ He will then visit Maley to Colombo and will make his meetings with senior offic
 
 ---
 
+### ஈரானிய வெளிவிவகார அமைச்சர் இன்று வருகை
+
+*2024-02-19 00:14:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானிய-வெளிவிவகார-அமைச்சர்-இன்று-வருகை/175-333417) · `ta`
+
+இரண்டு நாட்கள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு ஈரானிய வெளிவிவகார அமைச்சர் ஹுசைன் அமீர் இன்று (19) இலங்கைக்கு வருகைதரவுள்ளார்.
+
+வெளிவிவகார அமைச்சர் அலி சப்ரியின் அழைப்பை ஏற்று அவர் இந்த விஜயத்தை மேற்கொள்வதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+ஈரானிய வெளிவிவகார அமைச்சர் இலங்கையில் தங்கியிருக்கும் காலப்பகுதியில் ஜனாதிபதி, பிரதமர் மற்றும் வெளிவிவகார அமைச்சரை சந்திக்கவுள்ளார்.
+
+அவருடன் அந்நாட்டு ஜனாதிபதி அலுவலகத்தின் எரிசக்தி மற்றும் வெளிவிவகார அமைச்சுகளின் உயர்மட்ட அதிகாரிகளும் வருகைதரவுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+குறித்த குழுவினர் எதிர்வரும் 21ஆம் திகதி நாட்டில் இருந்து புறப்பட்டுச் செல்லவுள்ளனர். (a)
+
+◼️
+
+[Data](articles/67d9f967.json)
+
+---
+
 ### Bharat - Lanka Housing Scheme
 
 *2024-02-19 00:09:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரத்-லங்கா-வீட்டுத்திட்டம்-இன்று-ஆரம்பம்/175-333416) · `ta`
@@ -1290,7 +1326,7 @@ Sri Lanka welcomed 1. 486 million tourists in 2023 and is targeting 2.3 million 
 
 *2024-02-18 19:14:00* · [`economynextcom`](https://economynext.com/sri-lana-tea-prices-up-across-elevations-in-february-151289/) · `en`
 
-ECONOMYNEXT –  Sri Lanka’s tea prices went up across elevations, with the low grown sale average topping 1,400 rupees a kilogram at the seventh auction of 2024 on February 13 -14, market data showed.
+ECONOMYNEXT – Sri Lanka’s tea prices went up across elevations, with the low grown sale average topping 1,400 rupees a kilogram at the seventh auction of 2024 on February 13 -14, market data showed.
 
 Sri Lanka tea prices have moved up in 2024 in both rupee and US dollar terms.
 
@@ -2029,49 +2065,5 @@ Accordingly, the second Twenty Twenty Twenty Twenty-Twenty-Twenty-Twenty-Twenty 
 [Data](articles/e7596af3.json)
 
 [Extended Data](ext_articles/e7596af3.ext.json)
-
----
-
-### The bus to search for victims of violence
-
-*2024-02-18 14:24:35* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-හිංසනය-ගැන-සෙවිමට-බසයට-නැග්ග-උපාය-දූතියටත්-අතවර/11-408148) · `si`
-
-The suspect was arrested on suspicion to be arrested on suspicion of sexually abusing the bus to seek to be sexually abused by the child and women's Hindus..
-
-The reserves were also remanded.
-
-Headshana Chief Inspector Premalal Hettiarachchi, who has been deployed to be used by the Summal police officer in the bus, has been used by the Summal expatriar to the sustainforce of the company to suppress the Sri Lankan police officer.Was
-
-Headquarters Chief Inspector said that the SLTB and private buses will be continued from the Nuwara Eliya to arrest such persons.
-
-◼️
-
-[Data](articles/10da8320.json)
-
-[Extended Data](ext_articles/10da8320.ext.json)
-
----
-
-### Vaccine quickly against cancer
-
-*2024-02-18 14:23:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/புற்றுநோய்க்கு-எதிராக-விரைவில்-தடுப்பூசி/50-333387) · `ta`
-
-Many governments around the world, state -based and government - have been engaged in intensive research by spending billions of crores of crores of people in the effort to find cancer.
-
-Last year, the UK government signed an agreement with the German -based Bionech, a Bionech, a contract to perform cancer medical research by 2030 by 2030.
-
-In this case, Russian President Vladimir Puthan addresses the future technology in Moscow, the Russian capital. In it, Russian researchers spoke about the progress in the discovery of cancer.
-
-He then said, “Our researchers approached success in an attempt to find a cancer vaccine. I hope that they will soon be in public use to use patients. ”Said.
-
-The novel does not report the vaccine to prevent any type of cancer and how the patient acts in the body.
-
-It is noteworthy that Russia invented a "Sputnik" vaccine against the Corona virus during the Govt -19 period and exported it to foreign countries.
-
-◼️
-
-[Data](articles/44112268.json)
-
-[Extended Data](ext_articles/44112268.ext.json)
 
 ---

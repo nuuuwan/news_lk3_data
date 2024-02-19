@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 21:02:36**
+As of **2024-02-19 21:17:23**
 
 ## Newspaper Stats
 
-*Scraped **8,077** Articles*
+*Scraped **8,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,42 +19,62 @@ adalk | 691
 tamilmirrorlk | 979
 adaderanalk | 984
 virakesarilk | 1,078
-adaderanasinhalalk | 1,176
+adaderanasinhalalk | 1,177
 dailymirrorlk | 1,188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,070 (99.9%) of 8,077 articles have been extended.
+8,077 (100.0%) of 8,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### කොටකෙතන ඝාතකයාට මරණ දඬුවම දුන්නේ මෙහෙමයි
+### ශ්‍රී ලංකාවෙන් ප්‍රබල ප්‍රහාරයක්
+
+*2024-02-19 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193590) · `si`
+
+ඇෆ්ගනිස්තානයට එරෙහිව පැවැත්වෙන දෙවන විස්සයි විස්ස තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම කඩුලු 6ක් දැවී ලකුණු 187ක් රැස්කරගත්තේය.
+
+එහිදී අගනා පිතිහරඹයක නිරතවූ සදීර සමරවික්‍රම පන්දු 42කදී හතරේ පහර 5ක් සමග ලකුණු 51ක් රැස්කරගත්තේය.
+
+◼️
+
+[Data](articles/9819efae.json)
+
+---
+
+### This is how the kilpaya murderer sentenced to death
 
 *2024-02-19 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193589) · `si`
 
-කොටකෙතන ප්‍රදේශයේදී මවක් සහ දියණියක් ඝාතනය කිරීමේ චෝදනාවට වරදකරුවූ චූදිතයෙකුට රත්නපුර මහාධිකරණය අද (19) මරණ දඬුවම නියම කළේය.
+The Ratnapura High Court today sentenced the accused of murder of a mother and daughter in Kotakethana.
 
-මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනවිය එලෙස මරණ දඬුවම නියම කළේ වසර 12ක දීර්ඝ නඩු විභාගයකින් පසුවය.
+Miss High Court Judge Lanka Jayaratne sentenced such deaths after a 12-year trial.
 
-රත්නපුර, කහවත්ත කොටකෙතන ප්‍රදේශයේ පසුගිය කාලයේ සිදුවූ ඝාතන පෙළ රටක් භීතියට පත්කරන්නට සමත්වුණි.
+The mark of the murders in Kotakethana, Ratnapura, was terrified.
 
-එම ඝාතන රැල්ලේ මව සහ දියණිය මරාදැමූ සිදුවීම් කිහිපයක් ද වාර්තාවූ අතර අදත් පුද්ගලයෙකුට මරණ දඬුවම හිමිවූයේ එවැනි සිද්ධියකටය.
+The mother and daughter of the murder have reported several incidents and a person who has been sentenced to death today.
 
-2012 වසරේදී ජූලි 19 වැනිදා හෝ ඊට ආසන්න දිනකදී මෙලෙස ඝාතනයට ලක්වී තිබුණේ ලියනාරච්චිගේ ප්‍රේමවතී නම් හැටතුන් හැවිරිදි මවක් සහ හේවාගේ පුෂ්පාකුමාරි නමැති තිස්දෙහැවිරිදි අවිවාහක දියණියකි.
+On July 19, the 19th of July 2012, Liyanarachchi's Rolewoman was a 23-year-old daughter, a sixteen-year-old mother, a thirty-year-old mother named Pushpakumari.
 
-එම ඝාතනයට අදාළව සැකකරුවන් සිව්දෙනෙකු කහවත්ත පොලීසිය විසින් අත්අඩංගුවට ගැනුණු අතර නීතිපතිවරයා විසින් එම සිව්දෙනාට එරෙහිව කොළඹ මහාධිකරණයේදී නඩු පවරනු ලැබීය.
+Four suspects were arrested by the Kahawatta Police regarding the murder and the Attorney General sued the Colombo High Court against the four.
 
-ඉන් එක් අයෙක් රජයේ සාක්ෂිකරුවෙකු කෙරුණු අතර සෙසු තිදෙනා නිදොස්කොට නිදහස් කෙරුණි.
+One of them was a Witness witness, and the other were acquitted and released.
 
-ඒ අනුව, ඝාතකයා කවුදැයි තහවුරු කරගැනීමට නොහැකි වීම මත කහවත්ත පොලීසිය සිද්ධියේ විමර්ශන යළි ආරම්භ කර තිබුණි.
+According to the Kahawatta police have resumed the incident.
+
+That is how a group of people residing in Kotakethana are randomly selected and DNA is checked.
+
+One of the suspects is suitable with samples obtained from another murder in Kotakethana.
 
 ...
 
 [Data](articles/988cc485.json)
+
+[Extended Data](ext_articles/988cc485.ext.json)
 
 ---
 
@@ -76,21 +96,25 @@ Fr. Fernando made this remark in relation to a protest held by a group claiming 
 
 [Data](articles/dbfc0942.json)
 
+[Extended Data](ext_articles/dbfc0942.ext.json)
+
 ---
 
-### පික්පොකට්කාරියන්ට ඇප
+### PickPckets are bailed
 
 *2024-02-19 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193588) · `si`
 
-මහරගම ප්‍රදේශයේ ධාවනය වූ බස් රථයක් තුළ ගමන් ගත් මගී කාන්තාවකගේ මුදල් පසුම්බියක් සොරාගත් බව කියන සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් පෑලියගොඩ දරමඩුවත්ත ප්‍රදේශයේ පදිංචි ඥාතී සැකකාරියන් තිදෙනෙකු ඇප මත මුදාහරින ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් නියෝග කළේය.
+Colombo Chief Magistrate Prasanna Alwis ordered that three relatives of the Peliyagoda, Peliyagoda, who was arrested in Maharagama.
 
-එම මුදල් පසුම්බියේ රුපියල් 16,000ක් තිබී ඇති අතර සැකකාරියන් තිදෙනාව කුරුඳුවත්ත පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබුණි.
+The wallet had 16,000 rupees and the three suspects were arrested by the Kurunduwatta Police.
 
-මුදල් පසුම්බිය අස්ථානගත වූ කාන්තාව කුරු වත්ත පොලීසිය වෙත කරන ලද පැමිණිල්ලක් අනුව සිදුකළ විමර්ශනයකින් අනතුරුව සැකකාරියන් තිදෙනා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර කළේය.
+The three suspects were arrested and produced before the court following a complaint lodged by the bird victims.
 
 ◼️
 
 [Data](articles/681b55ba.json)
+
+[Extended Data](ext_articles/681b55ba.ext.json)
 
 ---
 
@@ -116,25 +140,31 @@ India all-rounder Kanika Ahuja, too, has been ruled out of WPL 2024 owing to an 
 
 [Data](articles/d831d8fb.json)
 
+[Extended Data](ext_articles/d831d8fb.ext.json)
+
 ---
 
-### கல்வித்துறையை டிஜிட்டல் மயமாக்கும் முன்னோடித் திட்டம் மார்ச் மாதத்தில் ஆரம்பம் - கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்த்
+### Pioneering Scheme to Digital Education Department begins in March - Minister of Education
 
 *2024-02-19 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176803) · `ta`
 
-கல்வித்துறையை டிஜிட்டல் மயமாக்குவதற்கான முன்னோடித் திட்டத்தை மார்ச் மாதம் ஆரம்பிக்க ஏற்பாடு செய்யப்பட்டுள்ளதாகக் கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்த் தெரிவித்தார்.
+Education Minister Dr. Susil Premajayant said that the pioneering program for digitalization of education has been launched in March.
 
-2024 ஆம் ஆண்டுக்கான பாடசாலை பாடப்புத்தகங்களை விநியோகத்திற்காக அனுப்பும் பணிகள் நிறைவடைந்துள்ளதாகவும் அமைச்சர் குறிப்பிட்டார்.
+The Minister said that the work of sending school textbooks for 2024 has been completed.
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (19) நடைபெற்ற செய்தியாளர் சந்திப்பில் கலந்து கொண்டு கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்த இதனைக் குறிப்பிட்டார்.
+Education Minister Dr Susil Premajayantha made this statement at a press conference held at the Presidential Media Center on Monday (19).
 
-2024 ஆம் ஆண்டிற்கான பாடசாலைப் பாடப்புத்தகங்கள் யாவும் விநியோகத்திற்காக அனுப்பப்பட்டுள்ளன. மார்ச் முதலாம் திகதியாகும் போது பாடசாலைகளில்  விநியோகப் பணிகள் நிறைவு செய்யப்படும்.இதற்காக  12,000 மில்லியன் ரூபா செலவிடப்படுகிறது.
+School textbooks for 2024 have been sent for delivery. During the first day of March, distribution work will be completed.
 
-அத்துடன் சீன அரசாங்கத்தின் அனுசரணையின் கீழ் பாடசாலை மாணவர்களின் சீருடைக்குத் தேவையான துணியில் 80%, அதாவது 05 பில்லியன் ரூபா பெறுமதியான  சீருடைத்துணிகள் எமக்குக் கிடைத்துள்ளன.அவை விநியோகம்  செய்யப்பட்டு வருகிறது.
+We have received 80%of the cloths required for the uniform of school children under the sponsorship of the Chinese government, ie 05 billion rupees worth of uniforms. They are being distributed.
+
+Also, this year's school schedule is currently being prepared.By the end of this year, arrangements are being made to hold the GCE Advanced Level Examination as planned. The schools will be notified in this regard within the next two to three weeks.
 
 ...
 
 [Data](articles/1f5909bf.json)
+
+[Extended Data](ext_articles/1f5909bf.ext.json)
 
 ---
 
@@ -156,39 +186,45 @@ He noted, however, that due to the current arid weather conditions, hydropower g
 
 ---
 
-### ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின் பணிப்பாளர் நாயகத்திற்கும் ஜனாதிபதிக்கும் இடையில் சந்திப்பு
+### Meeting between the United Nations Food and Agriculture Organization
 
 *2024-02-19 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176802) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின் (UN FAO) பணிப்பாளர் நாயகம் கலாநிதி கூ தொங்யுவுக்கும் (Dr. Qu Dongyu  இடையிலான சந்திப்பொன்று ஜனாதிபதி அலுவலகத்தில் திங்கட்கிழமை (19) நடைபெற்றது.
+Dr. Ranil Wickremesinghe and Director General of the United Nations Food and Agriculture Organization (UN FAO) Dr.. Qu Dongyu meeting was held on Monday (19) at the Presidential Office.
 
-பொருளாதார சவால்களுக்கு முகங்கொடுத்து இலங்கை மக்களுக்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் நடைமுறைப்படுத்தப்பட்டுள்ள வேலைத்திட்டத்தை பாராட்டிய பணிப்பாளர் நாயகம், புதிய சீர்திருத்தங்களினூடாக நாட்டில் பொருளாதார ஸ்திரத்தன்மையை ஏற்படுத்துவதற்கான ஜனாதிபதியின் அர்ப்பணிப்புக்கு தனது வாழ்த்துக்களையும் தெரிவித்தார்.
+The Director General of the Director General, who praised the program implemented by President Ranil Wickremesinghe for the people of Sri Lanka, faced the economic challenges and congratulated the President's commitment to the president's commitment to create economic stability in the country through new reforms.
 
-இந்த நெருக்கடியான சமயத்தில் இலங்கை அரசாங்கத்திற்கும் மக்களுக்கும் உணவு மற்றும் விவசாய அமைப்பு தொடர்ந்து பூரண ஆதரவை வழங்கும் என்றும் பணிப்பாளர் நாயகம் உறுதியளித்தார்.
+In this case, the Director General promised to provide full support to the Sri Lankan government and the people of the Sri Lankan government.
 
-இலங்கையின் பொருளாதாரத்தை கட்டியெழுப்புவதற்கு முன்னெடுக்கப்படும் வேலைத்திட்டம் தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின் பணிப்பாளர் நாயகத்திற்கு விளக்கமளிக்கப்பட்டது.
+The Director General of the United Nations Food and Agriculture Organization was briefed by President Ranil Wickremesinghe on the program to build the economy of Sri Lanka.
 
 ...
 
 [Data](articles/4dc1c7b6.json)
 
+[Extended Data](ext_articles/4dc1c7b6.ext.json)
+
 ---
 
-### கடவத்த மகாமாயா மகளிர் கல்லூரி மாணவப் பாராளுமன்ற உறுப்பினர்கள் அமைச்சரவையில் ஜனாதிபதியுடன் சந்திப்பு
+### Members of Parliament of Kadawatha Mahamaiah College
 
 *2024-02-19 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176801) · `ta`
 
-கடவத்த மகாமாயா மகளிர் கல்லூரியின் மாணவப் பாராளுமன்ற முதல் அமர்வு திங்கட்கிழமை (19) ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது. இதனைத் தொடர்ந்து ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் சிநேகபூர்வ சந்திப்பொன்றை மேற்கொள்ளும் வாய்ப்பு மாணவிகளுக்குக் கிடைத்தது.
+The first session of the student parliament of Kadawatha Mahamaiah Ladies College was held on Monday (19) at the Presidential Office. Following this, the students had the opportunity to hold a meeting with President Ranil Wickremesinghe.
 
-ஜனாதிபதி அலுவலகத்தில் அமைச்சரவைக் கூட்டம் நடைபெற்ற சந்தர்ப்பத்தில் மாணவிகளை அங்கு அழைத்துச் சென்ற ஜனாதிபதி, அமைச்சரவை என்றால் என்ன, அதன் கட்டமைப்பு மற்றும் செயல்பாடுகள் குறித்து அவர்களுக்கு விளக்கினார்.
+At the time of the Cabinet meeting held at the Presidential Office, the President took the students there and explained to them what the cabinet is, its structure and functioning.
 
-நாட்டின் முக்கிய தீர்மானங்கள் எடுக்கப்படுகின்ற பிரதான இடமான அமைச்சரவைக்குத் தலைமை தாங்கும் ஜனாதிபதியுடன் முதன்முறையாகக் கலந்துரையாடும் சந்தர்ப்பம் பாடசாலை மாணவிகளுக்குக் கிடைத்தமை விசேட அம்சமாகும்.
+A special feature is that the school students have the opportunity to discuss the first time with the president, which is the main place where the country's major decisions are made.
 
-மாணவப் பாராளுமன்றத்தில் அமைச்சுப் பதவிகளை வகிக்கும் மாணவிகளுக்கு அமைச்சர்களின் பொறுப்புகள், பணிகள் மற்றும் அமைச்சரவையின் பொறுப்புகள் குறித்தும் ஜனாதிபதி தெளிவுபடுத்தினார்.
+The President also made clear the responsibilities, tasks and the responsibilities of the Cabinet for the students who hold ministry posts in the student parliament.
+
+The President also highlighted the need for the future generation of the country to be well aware of the state administration structure. The ministers were also present at the Cabinet meeting.
 
 ...
 
 [Data](articles/1a6c3bde.json)
+
+[Extended Data](ext_articles/1a6c3bde.ext.json)
 
 ---
 
@@ -2009,21 +2045,5 @@ In addition, officials have introduced the sophisticated fuel management informa
 [Data](articles/16043d86.json)
 
 [Extended Data](ext_articles/16043d86.ext.json)
-
----
-
-### Police surroundings to violate fundamental rights!
-
-*2024-02-19 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176748) · `ta`
-
-The Attorney General's Department has decided to provide a series of instructions to the police to carry out circles and other activities in order to not violate fundamental rights.
-
-The decision was taken after a discussion between the Attorney General and the Minister of Public Security, Trane Ales.
-
-◼️
-
-[Data](articles/4f3bf12c.json)
-
-[Extended Data](ext_articles/4f3bf12c.ext.json)
 
 ---

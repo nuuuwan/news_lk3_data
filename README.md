@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 18:50:50**
+As of **2024-02-19 19:02:29**
 
 ## Newspaper Stats
 
-*Scraped **8,059** Articles*
+*Scraped **8,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,68 @@ adalk | 687
 tamilmirrorlk | 979
 adaderanalk | 982
 virakesarilk | 1,075
-adaderanasinhalalk | 1,171
+adaderanasinhalalk | 1,173
 dailymirrorlk | 1,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,052 (99.9%) of 8,059 articles have been extended.
+8,059 (100.0%) of 8,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### நீதிமன்றத்தில் கவனத்தை ஈர்த்த விசேட சம்பவம்
+### කාසියේ වාසිය ඇෆ්ගනිස්තානයට
+
+*2024-02-19 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193586) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන දෙවන විස්සයි විස්ස ක්‍රිකට් තරගයේ කාසියේ වාසිය දිනූ ඇෆ්ගනිස්තාන නායකයා ප්‍රථමයෙන් පන්දු යැවීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/2069b29c.json)
+
+---
+
+### විදුලිය ගැන අලුත්ම ආරංචිය මෙන්න
+
+*2024-02-19 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193585) · `si`
+
+පසුගිය මාස කිහිපයට සාපේක්ෂව මේ වනවිට විදුලි ඉල්ලුම ඉහළගොස් ඇති බව විදුලිබල මණ්ඩලය පවසයි.
+
+එහි මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය සාමාන්‍යාධිකාරී ඉංජිනේරු නොයෙල් ප්‍රියන්ත මහතා අද (19) විශේෂ මාධ්‍ය හමුවකට එක්වෙමින් මේ බව පැවසීය.
+
+එහිදී වැඩිදුරටත් අදහස් දක්වමින් ඒ මහතා සඳහන් කළේ පෙබරවාරි මාසයේ ගතවූ දින කිහිපය සඳහා  ගිගාවොට් පැය 46ක විදුලි ඉල්ලුමක් ලැබී ඇති බවය.
+
+එසේම පවතින වියලි කාලගුණික තත්ත්වය හේතුවෙන් ජල විදුලි නිෂ්පාදනයද සීමා කර ඇති බව පෙන්වාදුන් ඒ මහතා සඳහන් කළේ එය සියයට 20ක් දක්වා අඩුකර ඇති බවය.
+
+මේ හේතුවෙන් විදුලිය භාවිත කිරීමේදී හැකිතාක් දුරට අරපිරිමැස්මෙන් එය භාවිත කරන ලෙසට ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටින බවද නියෝජ්‍ය සාමාන්‍යාධිකාරී ඉංජිනේරු නොයෙල් ප්‍රියන්ත මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/ef476cb5.json)
+
+---
+
+### A special incident that attracted attention in court
 
 *2024-02-19 18:18:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-கவனத்தை-ஈர்த்த-விசேட-சம்பவம்/175-333468) · `ta`
 
-நாடு முழுவதும் கவனத்தை ஈர்த்த ஒரு நீதிமன்றத் தருணத்தில், கைது செய்யப்பட்ட 88 வயது மூத்த குடிமகன் முன்பு உயர் நீதிமன்ற விசாரணையின் போது மூன்று பொலிஸார் முழங்காலில் விழுந்து மன்னிப்புக் கோரினர்.
+At a court moment in which the country was attracted, the 88 -year -old citizen, who was arrested, had previously fallen on the knee and apologized during the Supreme Court hearing.
 
-பச்சாதாபம் மற்றும் நல்லிணக்கத்தின் ஒரு அரிய காட்சியாகக் காணப்பட்ட இந்த நிகழ்வு, பணிவு மற்றும் கடந்த கால செயல்களை அங்கீகரிப்பதன் மூலம் பரவலான கவனத்தையும் பாராட்டுகளையும் பெற்றுள்ளது.
+The event, which was seen as a rare scene of empathy and reconciliation, has received widespread attention and admiration by recognizing humility and past acts.
 
-2017 ஆம் ஆண்டு மனுதாரர் தாக்கல் செய்த அடிப்படை உரிமைகள் மனுவில் தரப்பினருக்கு இடையில் ஏற்பட்ட தீர்வின் ஒரு பகுதியாக நாரஹேன்பிட்டி பொலிஸ் நிலையத்தில் கடமையாற்றும் மூன்று பொலிஸார், ஒரு பொலிஸ் சார்ஜன்ட் மற்றும் இரண்டு பொலிஸ் கான்ஸ்டபிள்கள், மனுதாரர் கொட்வின் பெரேராவிடம் (88) எதிர்பாராத விதமாக மன்னிப்புக் கோரினர்.
+Three policemen, one police sergeant and two police constables, who were on duty at the Narahenpita police station, unexpectedly apologized to the petitioner Kodvin Perera (88) as part of the fundamental rights filed by the petitioner in the 2017 petition.
 
-மனுதாரர் கொட்வின் பெரேரா தனது மனுவில், குப்பைகளை சேகரிக்கும் போது பிரச்சனையில் ஈடுபட்ட நபர் குறித்து பொலிஸாருக்கு தகவல் தெரிவிக்க நடவடிக்கை எடுத்ததாக தெரிவித்துள்ளார். நாரஹேன்பிட்டி பொலிஸாரால் தாம் கைது செய்யப்பட்டு தடுத்து வைக்கப்பட்டதாகவும், பின்னர் பொலிஸ் அறையில் அடைக்கப்பட்டதாகவும் அவர் குற்றம் சுமத்தியுள்ளார்.
+Petitioner Gotvin Perera said in his petition that she had taken steps to inform the police about the person involved in the garbage.He accused him of being arrested and detained by the Narahenpitti police and later detained in the police room.
 
 ...
 
 [Data](articles/42577627.json)
+
+[Extended Data](ext_articles/42577627.ext.json)
 
 ---
 
@@ -70,37 +104,43 @@ Dushhana Chameera has been represented in 2018 in 2018, royal Challengers team f
 
 ---
 
-### விடுதலைப்புலிகளால் புதைக்கப்பட்ட தங்க ஆபரண புதையல் தொடர்பில் அகழ்வு பணி!
+### Excavation work on gold ornamental treasure buried by Liberation Tigers!
 
 *2024-02-19 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176793) · `ta`
 
-விடுதலைப்புலிகளால் புதைக்கப்பட்ட தங்க ஆபரண புதையல் தொடர்பில் திங்கட்கிழமை (19) அகழ்வு பணிகள் முன்னெடுக்கப்பட்டன.
+Excavation work was carried out on Monday (19) regarding the gold jewelery buried by the LTTE.
 
-கிளிநொச்சி தர்மபுரம் பொலிஸாரால் கடந்த 16ம் திகதியன்று குறித்த அகழ்வு பணிக்கான அனுமதி நீதிமன்றில் கோரப்பட்ட நிலையில், மன்றின் அனுமதியுடன் திங்கட்கிழமை (19) அகழ்வு பணிகள் முன்னெடுக்கப்பட்டது.
+The excavation work was carried out on Monday (19) with the permission of the House, as the Kilinochchi Dharmapuram police have been sought by the Dharmapuram police on the 16th.
 
-தர்மபுரம் பொலிஸ் பிரிவுக்குட்டபட்ட  விசுவமடு - குமாரசாமிபுரம் பகுதியில் அமைந்துள்ள தனியாருக்குச் சொந்தமான காணி ஒன்றிலேயே விடுதலைப்புலிகள் அமைப்பினால் யுத்த காலப்பகுதியில் தங்க ஆபரணங்கள் புதைக்கப்பட்டுள்ளதாகத் தகவல் கிடைத்த நிலையில் திங்கட்கிழமை (19) பகல் 2.30 மணியளவில் அகழ்வு நடவடிக்கை மேற்கொள்ளப்பட்டு வருகிறது.
+Excavation operations are being carried out at 2.30 pm on Monday (19) as the Liberation Tigers of Tamil Eelam (LTTE) have been buried during the war.
 
-இதன்போது நீதவான், தொல்பொருள் திணைக்கள அதிகாரிகள், கிராம சேவையாளர், உள்ளிட்டோர் முன்னிலையில் மேற்கொள்ளப்பட்ட குறித்த அகழ்வு மேற்கொள்ளப்பட்டு வருகிறது.
+The excavation was carried out in the presence of the Magistrate, Archaeological Department officials, Grama Niladhari and others.
 
 ◼️
 
 [Data](articles/a20d9ad7.json)
 
+[Extended Data](ext_articles/a20d9ad7.ext.json)
+
 ---
 
-### நீதிமன்றத்தால் இடைக்கால தடையுத்தரவு நீக்கப்பட்டால் 35 000 பேருக்கு ஆசிரியர் நியமனம் - கல்வி அமைச்சர்
+### Teacher appointment to 35 000 persons if the interim injunction was lifted by the court
 
 *2024-02-19 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176788) · `ta`
 
-பட்டதாரி அபிவிருத்தி உத்தியோகத்தர்களை ஆசிரியர் சேவையில் இணைத்துக் கொள்ளல் மற்றும் ஓய்வு பெற்ற, சேவையிலிருந்து விலகிய ஆசிரியர்களுக்கான இடைவெளியை நிரப்புதல் என்பவற்றுக்கு எதிராக பிறப்பிக்கப்பட்டுள்ள இடைக்கால தடையுத்தரவு தொடர்பான தீர்ப்பு கிடைக்கப் பெற்றால் 35 000க்கும் மேற்பட்டோருக்கு நியமனத்தை வழங்கி ஆசிரியர் சேவையிலுள்ள பற்றாக்குறையை நிவர்த்தி செய்ய முடியும் என்று கல்வி அமைச்சர் சுசில் பிரேம்ஜயந்த தெரிவித்தார்.
+The Minister of Education Susil Premjayantha said that if the verdict on the interim injunction issued against the Graduate Development Officers in the Teacher Service and filling the gap for retired and resigned teachers, more than 35 000 people can appoint more than 35 000 people.
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (19) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated at a press conference held at the Presidential Media Center on Monday (19).
 
-இலவச பாடநூல்கள் சகல பாடசாலைகளுக்கும் வழங்கப்பட்டுள்ளன. இதற்காக 12 பில்லியன் ரூபா செலவிடப்பட்டுள்ளது. அதே போன்று சீருடைகளுக்கும் 6.5 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. எதிர்வரும் இரு வாரங்களுக்குள் சீருடை துணிகளை விநியோகிப்பதற்கான நடவடிக்கை எடுக்கப்படும்.
+Free textbooks have been provided to all schools. 12 billion rupees has been spent on this. 6.5 billion rupees has been allocated for uniforms. Steps will be taken to distribute uniform clothes within the next two weeks.
+
+Also, the timetable for school installments and exams will be prepared and all schools will be announced within two weeks.. We are looking forward to conducting the GCE Ordinary Level Examination for the last year of last year and in December.
 
 ...
 
 [Data](articles/ceb17d66.json)
+
+[Extended Data](ext_articles/ceb17d66.ext.json)
 
 ---
 
@@ -139,6 +179,8 @@ The bodies have been sent to the Mundalama Hospital and the Arachchikattuwa Poli
 ◼️
 
 [Data](articles/9055eb24.json)
+
+[Extended Data](ext_articles/9055eb24.ext.json)
 
 ---
 
@@ -203,6 +245,8 @@ Three policemen attached to the Narahenpita Police Station, a Police Sergeant an
 ...
 
 [Data](articles/6634f2ee.json)
+
+[Extended Data](ext_articles/6634f2ee.ext.json)
 
 ---
 
@@ -270,21 +314,25 @@ A mother and two boys who were traveling on a motorbike died on the spot.
 
 ---
 
-### 2 கோடி உறுப்பினர்களை சேர்ப்பதே இலக்கு
+### The target is to add 2 crore members
 
 *2024-02-19 17:01:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-கோடி-உறுப்பினர்களை-சேர்ப்பதே-இலக்கு/175-333467) · `ta`
 
-“2 கோடி உறுப்பினர்கள்‌ என்று இலக்கு நிர்ணயித்து, உறுப்பினர்‌ சேர்க்கைப்‌ பணிகளில்‌ கூடுதல்‌ கவனம்‌ செலுத்துவதுதான்‌ நமது முதற்கட்டப்‌ பணி” என கட்சியினருக்கு தமிழக வெற்றிக் கழகம் அறிவுறுத்தியுள்ளது.
+The Tamil Nadu Victory Corporation has advised the parties that "our first task is to pay more attention to 2 crore members and pay extra attention to the membership."
 
-இது குறித்து அக்கட்சியின் பொதுச் செயலாளர் என்.ஆனந்த் வெளியிட்டுள்ள அறிக்கையில், “தமிழக வெற்றிக்‌ கழகத்தின்‌ உறுப்பினர்‌ சேர்க்கை மற்றும்‌ உட்கட்சிக்‌ கட்டமைப்பு விரிவாக்கம்‌ தொடர்பான ஆலோசனைக்‌ கூட்டம்‌, சென்னையில்‌ திங்கட்கிழமை (19) நடைபெற்றது.
+In a statement issued by the party's general secretary N. Anand, “A consultative meeting on the Tamil Nadu Victory Council's Admissions and Enterprise Structure Extension Extension was held in Chennai on Monday (19).
 
-தமிழக வெற்றிக்‌ கழகத்தின்‌ உள்கட்டமைப்பை வலுப்படுத்தும்‌ வகையில்‌ உறுப்பினர்‌ சேர்க்கை முகாம்கள்‌ மாநிலம்‌ முழுவதும்‌ மாவட்ட மற்றும்‌ சட்டமன்றத்‌ தொகுதிகள்‌ வாரியாக நடத்தப்பட வேண்டும்‌.
+Member Admission Camps should be held in the state and assembly constituencies across the state to strengthen the infrastructure of the Tamil Nadu Victory Corporation.
 
-விரைவில்‌ முதற்கட்டமாக மகளிர்‌ தலைமையிலான உறுப்பினர்‌ சேர்க்கை அணி நிர்வாகிகள்‌ அறிவிக்கப்பட உள்ளனர்‌. உறுப்பினர்‌ சேர்க்கை அணியுடன்‌ இணைந்து, புதியதாக நியமிக்கப்பட இருக்கும்‌ மாவட்டப்‌ பொறுப்பாளர்கள்‌, சட்டமன்றத்‌ தொகுதிப்‌ பொறுப்பாளர்கள்‌ ஆகியோர்‌ முழு அளவில்‌ உறுப்பினர்‌ சேர்க்கைக்கான ஒருங்கிணைப்புப்‌ பணிகளில்‌ ஈடுபட வேண்டும்‌.
+Women's Admission Team Executives are to be announced soon. Together with the membership team, the newly appointed district trustees and the legislative seat trustees must engage in coordination of membership.
+
+Member of Member, Municipal, Municipal, Perur, Union, Panchayat, Ward -wise ward -wise. Our first task is to adopt the party leadership decree and target two crore members and pay extra attention to membership.
 
 ...
 
 [Data](articles/ffc98549.json)
+
+[Extended Data](ext_articles/ffc98549.ext.json)
 
 ---
 
@@ -393,6 +441,8 @@ The Kotakethana area became notorious for a series of mysterious killings and du
 ◼️
 
 [Data](articles/120a2e46.json)
+
+[Extended Data](ext_articles/120a2e46.ext.json)
 
 ---
 
@@ -1973,47 +2023,5 @@ Indian High Commissioner Sanarithshy with President Ranil Wickremesinghe was als
 [Data](articles/5792d340.json)
 
 [Extended Data](ext_articles/5792d340.ext.json)
-
----
-
-### Kudu Karadariya arrested in Rustmawatte
-
-*2024-02-19 11:41:47* · [`adalk`](https://www.ada.lk/breaking_news/රස්ටම්වත්තේ-කුඩු-කෙරැම්කාරිය-අත්අඩංගුවට/11-408165) · `si`
-
-A suspect that the rusted racket was hidden in the Rustma Watta of the Mount Lavinia Police have been arrested in the Mount Lavinia Police Division with a special raid in the Mount Lavinia Police Division.
-
-Police said that the suspects were hiding these powder in the rib on the rice colony that she had earned a racket of Rs.
-
-Three roadblocks were carried out by the Egoda garden, Moratuwa, Moratuwa police team in the Egoda Egoda Uyana, Moratuwa.
-
-The racket was carried out in the Dujemaya, a drug dealer in Duba, which remains in a Rustmawatte Tower House.
-
-The victim, a fifty-year-old, has left her, and her daughter and son are also involved in drug trafficking.
-
-This raid was conducted by the Senior Policy Authority of Mt.Done
-
-◼️
-
-[Data](articles/a4da3eaf.json)
-
-[Extended Data](ext_articles/a4da3eaf.ext.json)
-
----
-
-### Injunction issued preventing SJB from removing Sarath Fonseka from posts
-
-*2024-02-19 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97384/injunction-issued-preventing-sjb-from-removing-sarath-fonseka-from-posts) · `en`
-
-A court order has been issued preventing the Samagi Jana Balawegaya (SJB) from removing Field Marshal Sarath Fonseka from his positions within the party.
-
-Accordingly, the injunction has been issued effective for a period of 14 days.
-
-The relevant order was issued by the Colombo District Court on Monday (19 Jan.), upon consideration of a petition filed by Fonseka, with several SJB members including party leader Sajith Premadasa named as respondents.
-
-◼️
-
-[Data](articles/564ef687.json)
-
-[Extended Data](ext_articles/564ef687.ext.json)
 
 ---

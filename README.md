@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 14:32:57**
+As of **2024-02-19 14:50:10**
 
 ## Newspaper Stats
 
-*Scraped **7,992** Articles*
+*Scraped **7,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,140 @@ newsfirstlk | 363
 economynextcom | 409
 islandlk | 422
 dailyftlk | 434
-adalk | 681
-tamilmirrorlk | 970
+adalk | 682
+tamilmirrorlk | 971
 adaderanalk | 978
-virakesarilk | 1,062
-adaderanasinhalalk | 1,160
+virakesarilk | 1,063
+adaderanasinhalalk | 1,163
 dailymirrorlk | 1,171
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,987 (99.9%) of 7,992 articles have been extended.
+7,998 (100.0%) of 7,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### யாழ். மத்திய கல்லூரிக்கு பெண் அதிபர் நியமிக்கப்பட்டமைக்கு எதிர்ப்பு தெரிவித்து போராட்டம்
+### Japan has provided 40,000 metric tonnes of diesel to the Sri Lankan health sector
+
+*2024-02-19 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176750) · `ta`
+
+The Japanese government has donated 40,000 metric tonnes of diesel to strengthen the Sri Lankan health sector transport service.
+
+Japanese Ambassador to Sri Lanka Missukoshi Hidaygi and Minister of Health and Industry Ramesh Pathirana officially handed over the event at the Port of Colombo on Monday (19).
+
+In addition, officials have introduced the sophisticated fuel management information (FIMS) to ensure the transparent and responsible management of the diesel distribution.
+
+It monitors diesel distribution throughout health companies, maintaining detailed registration of fuel allocation for vehicles and facilities.
+
+◼️
+
+[Data](articles/5c637cf1.json)
+
+[Extended Data](ext_articles/5c637cf1.ext.json)
+
+---
+
+### Little sales were ordained
+
+*2024-02-19 14:14:49* · [`adalk`](https://www.ada.lk/breaking_news/’’සිඳු’’--සෝරත-පොඩි-සාදු-පැවිදි-වෙයි/11-408175) · `si`
+
+Due to the preferred consent of Kavis, a long time, he would have to be the same.
+
+◼️
+
+[Data](articles/925086a7.json)
+
+[Extended Data](ext_articles/925086a7.ext.json)
+
+---
+
+### GL's support to Sajith
+
+*2024-02-19 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193576) · `si`
+
+Parliamentarian Professor Prof. GG of supporters of Sajith Premadasa in a future presidential election. L. Mr. Peiris says.
+
+He was speaking at a media briefing held today (19).
+
+At present G. L. Peiris, including Peiris, academics a group of parliamentarians in Parliament.
+
+◼️
+
+[Data](articles/b438f30d.json)
+
+[Extended Data](ext_articles/b438f30d.ext.json)
+
+---
+
+### Bharat - Lanka Housing Scheme
+
+*2024-02-19 14:07:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரத்-லங்கா-வீட்டுத்திட்டம்-ஜீவன்-ஆரம்பித்து-வைப்பு/175-333438) · `ta`
+
+With the financial assistance of the Government of India, President Ranil Wickremesinghe, with the guidance of President Ranil Wickremesinghe, was launched on Monday (19) under the coordination of Minister of Water Resources and Estate Infrastructure Development Jeevan Thondaman.
+
+Accordingly, the inauguration ceremony for construction work was officially launched today in 45 gardens, including the 10 districts of Nuwara Eliya, Kandy, Badulla, Matale, Kegalle, Kurunegala, Kurunegala, Galle, Kalutara and Moneragala.
+
+The event was launched with the participation of President Ranil Wickremesinghe, General Secretary of the CWC, Minister of Water Resources and Estate Infrastructure and Indian Ambassador Santosh Ja.Prabhu Pradeshiya Sabha Authority Officer in front of the Norwood Pradeshiya Sabha was attended by many members of the Human Resources Plantation Development Center.
+
+◼️
+
+[Data](articles/fc22c7ac.json)
+
+[Extended Data](ext_articles/fc22c7ac.ext.json)
+
+---
+
+### Yall. Struggle to protest against the appointment of female principal for central college
 
 *2024-02-19 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176754) · `ta`
 
-யாழ்ப்பாணம் மத்திய கல்லூரிக்கு புதிதாக பெண் அதிபர் ஒருவர் நியமிக்கப்பட்டமைக்கு எதிர்ப்பு தெரிவித்து இன்று திங்கட்கிழமை (19) ஆட்சேபனை அடையாள போராட்டம் முன்னெடுக்கப்பட்டது.
+A protest march was launched on Monday (19) in protest of the appointment of a new female principal to the Central College of Jaffna.
 
-கல்லூரிக்கு முன்பாக மாணவர்களின் கல்வி நடவடிக்கையை பாதிக்காத வகையில் இந்த போராட்டம் முன்னெடுக்கப்பட்டது.
+The struggle was carried out in a manner that did not affect the educational activities of the students in front of the college.
 
-208 ஆண்டுகளைக் கடந்த பாரம்பரியமிக்க ஒரு ஆண்கள் பாடசாலையில் முதல் முறையாக பெண் அதிபரை நியமிப்பதற்கு ஆட்சேபனை செய்கின்றோம் என போராட்டத்தில் ஈடுபட்டவர்கள் தெரிவித்தனர்.
+The protesters said that a traditional men who have over 208 years have been objected to the appointment of a female principal for the first time.
 
-அத்தோடு கல்லூரியின் அதிபராக செயற்பட்ட எஸ்.இந்திரகுமாரை மீண்டும் நியமிக்குமாறு மாணவர்கள், பழைய மாணவர்கள் மற்றும் பெற்றோர்கள் தெரிவித்துள்ளனர்.
+Students, alumni and parents have said that S. Indrakumar, who acted as the principal of the college, will be re -appointed.
 
-குறித்த பிரச்சினைக்கு சரியான ஒரு தீர்வை விரைவில் பெற்றுத்தருவதாக கடற்றொழில் அமைச்சரும், கல்லூரியின் பழைய மாணவருமான டக்ளஸ் தேவானந்தா உறுதி வழங்கியதாக பழைய மாணவர்கள் தெரிவித்துள்ளனர்.
+Older students have said that Douglas Devananda, the Minister of Fisheries and the alumni of the college, has promised to find a right solution to the problem.
 
 ◼️
 
 [Data](articles/be914620.json)
+
+[Extended Data](ext_articles/be914620.ext.json)
+
+---
+
+### Going to go - Dr. Bellana
+
+*2024-02-19 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193575) · `si`
+
+Dr. Rukshan Bellana says he is ready to quit the Deputy Director of the National Hospital without hesitation.
+
+The Ada Derana asked him, "Today, Ada Derana asked him to report that the Public Service Commission has been transferred by the Public Service Commission.
+
+He said he had been transferred to the Beruwala Hospital and the approval of the Public Service Commission.
+
+However, the doctor said that it was not working, some people of the Ministry of Health were ready to activate the transfers once again.
+
+However, the Deputy Director added that he has not received any transfer.
+
+Meanwhile, interviews were conducted in the senior medical administrative service and Dr. Rukshan Bellana too had also participated.
+
+However, a decision is due to be decided by Dr. Rukshan Bellana today (19).
+
+Meanwhile, the Hospital Junior Staff is still engaged in protest campaigns protest against the conduct of Dr. Rukshan Bellana.
+
+◼️
+
+[Data](articles/1e3260e7.json)
+
+[Extended Data](ext_articles/1e3260e7.ext.json)
 
 ---
 
@@ -72,31 +172,35 @@ The housing scheme is being implemented all over the country under the guidance 
 
 ---
 
-### வைத்தியர்  பெல்லன தொடர்பில் விசாரணை : அமைச்சின்  செயலாளருக்கு அமைச்சர் ரமேஷ் பத்திரன பணிப்பு!
+### Dr. Bellana Investigation into Dr. Bellana: Minister Ramesh Pathirana
 
 *2024-02-19 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176752) · `ta`
 
-தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர்  ருக்க்ஷான் பெல்லன தொடர்பில் விசாரணை நடத்தப்படும் என சுகாதார அமைச்சர்  ரமேஷ் பத்திரன தெரிவித்துள்ளார்.
+Health Minister Ramesh Pathirana said that the Deputy Director of the National Hospital, Dr. Rukshan Bellana, will be investigated.
 
-இது தொடர்பான விசாரணைகளை மேற்கொள்ளுமாறு சுகாதார அமைச்சின் செயலாளர் வைத்தியர் பாலித மஹிபாலவிடம் சுகாதார அமைச்சர் பணிப்புரை விடுத்துள்ளார்.
+The Minister of Health has issued a directive to the Secretary of the Ministry of Health, Dr. Palitha Maibala, to investigate the matter.
 
-தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் பதவியிலிருந்து  வைத்தியர் ருக்க்ஷான் பெல்லனவை நீக்குமாறு கோரி இன்று திங்கட்கிழமை (19) காலையிலும் சுகாதார சேவை சிற்றூழியர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+Health Service Celebrities staged a protest this morning (19) demanding the removal of Dr. Rukshan Bellana from the post of Deputy Director of the National Hospital.
 
 ◼️
 
 [Data](articles/65224a17.json)
 
+[Extended Data](ext_articles/65224a17.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-19 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176751) · `ta`
 
-இன்று திங்கட்கிழமை (பெப்ரவரி 19) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 307.4708 ஆகவும் விற்பனை விலை ரூபா 317.72903 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was Rs 307.4708 and the sales price were 317.72903 based on the currency exchange rate released by the Central Bank on Monday (February 19).
 
 ◼️
 
 [Data](articles/aad4b4e0.json)
+
+[Extended Data](ext_articles/aad4b4e0.ext.json)
 
 ---
 
@@ -119,6 +223,32 @@ He said that the livelihood of the fishermen has been threatened.
 ◼️
 
 [Data](articles/83e8acad.json)
+
+[Extended Data](ext_articles/83e8acad.ext.json)
+
+---
+
+### Special committee to solve the DAT problem
+
+*2024-02-19 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193574) · `si`
+
+A special committee has been appointed to consider the proposals of the Health Trade Union Alliance and continuing.
+
+The Ministry of Health said that Minister Dr. Ramesh Pathirana's and Health Trade Union Alliance said in a statement.
+
+The Minister has expressed his views on its career demands and the Minister has said to the Ministry to formulate a proposal to the Ministry of Health Trade Union Alliance.
+
+The Minister has said that the Ministry of Health is working as the Ministry of Health to fulfill the maximum justice after studying it.
+
+Accordingly, the UPFA representatives have proposed to appoint a special committee of the Health Minister and Health Secretary and a special committee of Health Trade Union Representatives to carry out further action.
+
+The Minister was established with the appointment of the committee tomorrow (20) to 3 pm.
+
+◼️
+
+[Data](articles/4474154f.json)
+
+[Extended Data](ext_articles/4474154f.ext.json)
 
 ---
 
@@ -234,19 +364,27 @@ Meanwhile, a Health Ministry official said that there was no official informatio
 
 ---
 
-### බැංකු කාඩ්පතින් මුදල් ඇඳ රිමාන්ඩ්
+### Money bearing money remanded
 
 *2024-02-19 13:12:00* · [`adalk`](https://www.ada.lk/breaking_news/බැංකු-කාඩ්පතින්-මුදල්-ඇඳ-රිමාන්ඩ්/11-408169) · `si`
 
-ඒ.ටී.එම්. බැංකු කාඩ්පත් වලින් මුදල් ලබා දීම සදහා සහාය වන මුවාවෙන් ඒ.ටී.එම්. බැංකු කාඩ්පත් සුක්ෂ්ම අන්දමින් මාරු කර අන්සතු බැංකු ගිණුම්වලින් වංචනික ලෙස මුදල් ලබා ගත් පුද්ගලයෙකු මත්කුඩු සමග අත් අඩංගුවට ගෙන මහර  අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව ඔහු මේ මස 27 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තැබීමට  මහර අංක 02 අධිකරණයේ මහේස්ත්‍රාත් අන්වර් සදාක් මහතා ඉකුත් සිකුරාදා ( 16 වැනිදා ) නියම කරන ලදී.
+ATM. ETM with the guise that is supporting money from banking cards. Harawanath Magistrate Anwar Forecast on Friday (Noun)Was prescribed.
 
-ගම්පහ, මිරිස්වත්ත පුදේශයේ පදිංචි ආර්. චමිල සම්පන් නමැත්තා මෙසේ රක්ෂිත බන්ධනාගාර ගත කෙරිණි.
+Rathna have been residing in Gampaha, Miriswatta. CMila Sampath is remanded.
 
-සැකකරු විසින් ඊරියවැටිය පුදේශයේ කාන්තාවක් තම ඒ.ටී එම් බැංකු කාඩ්පතින් මුදල් ලබා ගැනීමට කිරිබත්ගොඩ නගරයේ පිහිටි පුද්ගලික බැංකු ශාඛාවකට පැමිණි අවස්ථාවේ ඇයට මුදල් ලබා ගැනීම සදහා සහාය ලබා දෙන මුවාවෙන් ඇයගේ බැංකු කාඩ්පත සුක්ෂ්ම ලෙස මාරු කර වෙනත් බැංකු කාඩ්පතක් ඇයට ලබා දී පසුව ඇයගේ බැංකු ගිණුමෙන් රුපියල් ලක්ෂයක මුදලක් වංචනික ලෙස ලබා ගෙන තිබෙන බවට පැමිණිල්ලේ සදහන් වී ඇත.
+A woman by a woman in the Eriyaweetiya Around a Branch of KiribathatiyaThe complaint states that a sum of Rs.
 
-...
+CC around the bank branch. The film was inspected and arrested at the Kiribathgoda People's Bank branch on the 15th.
+
+Meanwhile, the police found seven TTM Bank cards with the suspect and seven lakhs of bank accounts in 07 occasions.
+
+According to the direction of the Chief Inspector General of Police Chief Inspector Sissantha (9943), Police Constables (9943), Sugandi (9979), Sugandera (9979), Sugandi (99778)Dutch Operations Divisional Police Station Operations Divisional Police Aruna Kumara (27909) and Kosasinghe (90071) and Kosasinghe (1071) and Kosasinghe (10789) were produced in court.
+
+◼️
 
 [Data](articles/761d2d9e.json)
+
+[Extended Data](ext_articles/761d2d9e.ext.json)
 
 ---
 
@@ -1879,121 +2017,5 @@ Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday accused party Vice Presi
 [Data](articles/2aa46e4d.json)
 
 [Extended Data](ext_articles/2aa46e4d.ext.json)
-
----
-
-### Dialog junior webball champion
-
-*2024-02-19 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176719) · `ta`
-
-Colombo, DSS by the Sri Lanka Webball Federation. Net Champs (NET Champs) won the Champion title on behalf of the Kurunegala District Network Association for the Dialog Junior National Network for 2023 at the Senanayake College Ground.
-
-The Set Champs team, which played the most efficiently played throughout the tournament, scored the champion title without losing a match.
-
-In the final, Hilwood won the Dialog Bowl by a margin of 25 - 17 in the final.
-
-The Kurunegala Net Champs, the Kurunegala Net Champs, clashed on Sunday evening (18) on behalf of the Sri Lanka Schools Webball Association, Kurunegala and Kandy district teams.
-
-Crets. CHR has beaten the Kandy Corporation at the stadium. DSS. Another Kandy team on the stadium lost to the Kurunegala Net Champs team on the webball.
-
-Net Champs and Hillwood team clashed hard during the first 10 -minute game. In the end, the Net Champs team reached 6 - 5 by goals.
-
-...
-
-[Data](articles/d5b1c1b3.json)
-
-[Extended Data](ext_articles/d5b1c1b3.ext.json)
-
----
-
-### Sri Lanka Journalists for Global Justice calls on Govt. to reconsider rush for closer ties with Israel
-
-*2024-02-19 02:48:54* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Journalists-for-Global-Justice-calls-on-Govt-to-reconsider-rushforcloser-ties-with-Israel/56-758636) · `en`
-
-The Sri Lanka Journalists for Global Justice (SLJGJ) in a statement has called on the Government to reconsider the rush to forge closer ties with Israel.
-
-The Sri Lanka Journalists for Global Justice notes with alarm the recent moves by Israel to cement close ties with Sri Lanka in the face of mounting world censure for its war against Gaza.
-
-The unannounced visit by Israeli Minister of Transport and Road Safety Miriam Regev, has, according to news reports, resulted in the Government agreeing to sudden programmes of co-operation in the fields of aviation and transport. The SLJGJ is concerned that various Government ministers are rushing into quick deals with a country whose regime is today subject to intense global condemnation.  No other regime in the world has been subjected to such censure since the racist Apartheid regime of South Africa.
-
-...
-
-[Data](articles/562af7c4.json)
-
-[Extended Data](ext_articles/562af7c4.ext.json)
-
----
-
-### AmCham Sri Lanka unlocks 2024
-
-*2024-02-19 02:46:26* · [`dailyftlk`](https://www.ft.lk/business/AmCham-Sri-Lanka-unlocks-2024/34-758635) · `en`
-
-AmCham Sri Lanka’s annual CxO Forum: Unlocking 2024, powered by HSBC, was held on 31 January, at Cinnamon Lakeside Colombo.
-
-The half-day symposium comprised four cohesive sessions aimed at equipping members and organisations with global, local, and regional macro and microeconomic insights and inspiring and empowering transformative leadership through turbulent times.
-
-...
-
-[Data](articles/fd367158.json)
-
-[Extended Data](ext_articles/fd367158.ext.json)
-
----
-
-### hSenidBiz exceeds $ 3 million Exit ARR in 3Q FY24
-
-*2024-02-19 02:43:33* · [`dailyftlk`](https://www.ft.lk/business/hSenidBiz-exceeds-3-million-Exit-ARR-in-3Q-FY24/34-758634) · `en`
-
-hSenid Founder and Chairman Dinesh Saparamadu and CEO Sampath Jayasundara
-
-hSenid Business Solutions (hBS) released its financial results for the quarter ending on 31 December 2023, reporting a 23% year-over-year increase in revenues.
-
-The PeoplesHR Cloud business, constituting 76% recurring revenue, remains the primary driver having recorded a 40% growth year-on-year. The company achieved a critical milestone in its growth journey by surpassing $ 3 million in Exit ARR (Annualised Recurring Revenue). With continuous investments made in revamping and building a global sales workforce, the APAC market is now yielding the majority of new deal closures for the concluded quarter.
-
-...
-
-[Data](articles/18bcdf33.json)
-
-[Extended Data](ext_articles/18bcdf33.ext.json)
-
----
-
-### Lumala revolutionises waste management practices with innovative Eco Hauler e-bike carts
-
-*2024-02-19 02:41:56* · [`dailyftlk`](https://www.ft.lk/business/Lumala-revolutionises-waste-management-practices-with-innovative-Eco-Hauler-e-bike-carts/34-758633) · `en`
-
-City Cycle Industries Manufacturing Ltd., better known as Lumala, has introduced an innovative e-bike cart branded “Eco Hauler.”
-
-This advanced e-bike cart is designed to tackle the urgent waste management issues in Sri Lanka, where daily plastic waste generation reaches approximately 938 metric tons, with only 4% being recycled.
-
-In collaboration with the USAID Clean Cities, Blue Ocean (CCBO) program, the Eco Hauler initiative aims to combat ocean plastic pollution, address climate change, and boost waste collection efficiency in both urban and coastal areas, alongside riverbanks.
-
-Characterised by its affordability, low operating costs, high load capacity, and eco-friendly design, the Eco Hauler reflects Lumala’s holistic approach to sustainability, and are actively seeking collaborations with municipalities, community organisations, and various stakeholders to enhance waste management practices throughout Sri Lanka and magnify the impact of the Eco Hauler.
-
-...
-
-[Data](articles/f4d94c55.json)
-
-[Extended Data](ext_articles/f4d94c55.ext.json)
-
----
-
-### IDB kicks off new initiative to boost exports tomorrow
-
-*2024-02-19 02:40:19* · [`dailyftlk`](https://www.ft.lk/business/IDB-kicks-off-new-initiative-to-boost-exports-tomorrow/34-758632) · `en`
-
-Under the national program aimed at constructing an export-oriented manufacturing economy, the Industrial Development Board of Ceylon has initiated the “Arambamu Jayagamu” program to facilitate the global market entry of products.
-
-The promotional and awareness campaign for this program in the Gampaha district is scheduled to take place at the Kurunegala Town Hall premises on Tuesday, 20 February, from 9:00 a.m. to 2:00 p.m.
-
-IDB said all government, non-government organisations, financial institutions, and business service organisations supporting business development and exports will collectively provide information and services on that day.
-
-Attendees will have the opportunity to gain insights into initiating a business, obtain information for business commencement, receive support for developing existing businesses, start or enhance export endeavours, and find solutions and related services for challenges encountered in business operations.
-
-...
-
-[Data](articles/5bb40027.json)
-
-[Extended Data](ext_articles/5bb40027.ext.json)
 
 ---

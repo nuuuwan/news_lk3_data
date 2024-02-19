@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 20:02:25**
+As of **2024-02-19 20:17:32**
 
 ## Newspaper Stats
 
-*Scraped **8,064** Articles*
+*Scraped **8,066** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 88
-bbccomsinhala | 100
+bbccomsinhala | 101
 dbsjeyarajcom | 154
 newsfirstlk | 363
 economynextcom | 419
@@ -17,7 +17,7 @@ islandlk | 422
 dailyftlk | 434
 adalk | 687
 tamilmirrorlk | 979
-adaderanalk | 983
+adaderanalk | 984
 virakesarilk | 1,075
 adaderanasinhalalk | 1,174
 dailymirrorlk | 1,186
@@ -26,11 +26,27 @@ dailymirrorlk | 1,186
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,064 (100.0%) of 8,064 articles have been extended.
+8,064 (100.0%) of 8,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### CEB urges consumers to use electricity sparingly
+
+*2024-02-19 19:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97393/ceb-urges-consumers-to-use-electricity-sparingly-) · `en`
+
+The Ceylon Electricity Board (CEB) has urged consumers to use electricity sparingly, in light of the recent increase in demand and prevailing dry weather conditions.
+
+Speaking at a special press briefing held on Monday (19 Feb.), CEB spokesman, Deputy General Manager Eng. Noel Priyantha revealed that 46 gigawatt-hours (GWh) of electricity has been consumed for the month of February thus far.
+
+He noted, however, that due to the current arid weather conditions, hydropower generation has been restricted to only 20% capacity.
+
+◼️
+
+[Data](articles/42cad4b6.json)
+
+---
 
 ### Murder suspect remanded again
 
@@ -1376,6 +1392,30 @@ The US dollar purchasing price was Rs 307.4708 and the sales price were 317.7290
 
 ---
 
+### පිටිපන ලෙල්ලම: කොළඹ අගරදගරු මැදුර සහ ධීවරයින් අතර ආරවුල කුමක් ද?
+
+*2024-02-19 13:42:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgrl3764p34o) · `si`
+
+පිටිපන ලෙල්ලම: කොළඹ අගරදගරු මැදුර සහ ධීවරයින් අතර ආරවුල කුමක් ද?
+
+කතෝලික ආගමේ ආරම්භයේ සිටම ධීවරයන් සමග ඇත්තේ ආත්මීය බැඳීමකි.ජේසුස් වහන්සේ තම ගෝලයන් ලෙස ද තෝරා ගත්තේ ධීවරයෙන් දොළොස් දෙනෙකි.
+
+මීගමුව පිටිපන ධීවරයන් පිරිසක් අද (පෙබරවාරි 19 වැනිදා) කොළඹ අගරදගුරු නිල නිවස ඉදිරිපිට විරෝධතාවයක නිරත වුයේ කතෝලික සභාව තමන් රැකියාව කරනු ලබන ලෙල්ලම පවරා ගැනීමට උත්සාහ දරන බවට චෝදනා කරමින් ය.
+
+ධීවරයින් පිරිස විසින් ශූද්ධෝත්ම පාප් තුමන්ගේ කොළඹ සිටින නියෝජිත හිමියන්ට ද තම ගැටලු ඇතුළත් සංදේශයක් භාර දෙන ලදි.
+
+ඉන් අනතුරුව කොළඹ අගරදගුරු නිවාස බලා ගිය ඔවූහූ, ධීවර ලෙල්ලමේ අයිතිය තමන්ට දෙන ලෙස ඉල්ලමින් විරෝධතාවයක නිරත වූහ.
+
+2008 වසරේ දී එවකට කොළඹ අගරදගුරු ඔස්වල්ඩ් ගෝමිස් හිමිපානන් විසින් පිටිපන එක්සත් ධීවර සමිතියට එරෙහිව නඩු පවරා ඇත්තේ ලෙල්ලම ලබා දීමේ දී පනවා ඇති කොන්දේසි කඩ කළ බවට චෝදනා කරමිනි.
+
+අදාළ ඉඩම කොළඹ අගරදගුරු හිමියන්ට අයත් බවට නියෝගයක් ලබා දෙන ලෙසත් එසේ නියෝගය ලබා දෙන තුරු  තම නියෝජිතයෙකු ලෙල්ලමේ පරිපාලනයට හා භාරකාරීත්වයට පත් කරන ලෙසත් කොළඹ එවකට සිටි අගරදගුරු හිමිපානන් පෙත්සමෙන් ඉල්ලා තිබේ.
+
+...
+
+[Data](articles/2ef9b55a.json)
+
+---
+
 ### PM Modi urged to intervene to get Tamil Nadu fishermen released from Sri Lanka
 
 *2024-02-19 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97387/pm-modi-urged-to-intervene-to-get-tamil-nadu-fishermen-released-from-sri-lanka) · `en`
@@ -1977,51 +2017,5 @@ The District Court made this order pursuant to a plaint filed by Field Marshal S
 [Data](articles/b1d4f6a9.json)
 
 [Extended Data](ext_articles/b1d4f6a9.ext.json)
-
----
-
-### Professor Channa Jayasena receives international award
-
-*2024-02-19 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193571) · `si`
-
-Professor Channa Jayasena has won the award for scientific freedom and responsibility by the Sri Lanka Institute of Scientific Freedom and Responsibility.
-
-The award was given to him due to the contribution made by the Agricultural community's kidney disease in the face of the challenges of various parties.
-
-When he first declared that he was awarded, he had opposed the various parties including agrochemical companies.
-
-Accordingly, a special jury has been sent to a special jury to recall the award and has decided to receive this award.
-
-Professor Sarath Gunatilleke of the California University also also helped to perform his research.
-
-At the Annual Conference of the American Scholarship Association, Mrs. Teresa Harris, Director, was awarded to Professor Jayatuna.
-
-◼️
-
-[Data](articles/01e33ce0.json)
-
-[Extended Data](ext_articles/01e33ce0.ext.json)
-
----
-
-### Murder in Mannar;The people of the villagers demanding justice
-
-*2024-02-19 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176738) · `ta`
-
-The villagers launched a peaceful protest in front of the Mannar Magistrate's Court on Monday (19) morning demanding justice for the death of a girl who was raped and murdered in the Mannar -Thalamannar village village.
-
-The civilians from the Talaimannar village were protesting against a committee comprising a special judges demanding justice without delay in the death of the girl.
-
-The peace struggle took place today from 8.30 am to 9.30 pm.
-
-Justice for the victim, a special investigation police team, a special police team, save children like life, stop internet sexual abuse, and we needed a variety of banners and a photo of the girl, while carrying banners and photographs of the girl.
-
-The Mannar court on Saturday (17) afternoon was granted permission to interrogate a man who was arrested in connection with the death of a 10 -year -old girl in the village of Talaimannar Urmana village for the next 48 hours.
-
-...
-
-[Data](articles/6f0f5afc.json)
-
-[Extended Data](ext_articles/6f0f5afc.ext.json)
 
 ---

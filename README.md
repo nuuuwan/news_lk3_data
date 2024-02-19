@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 16:48:05**
+As of **2024-02-19 17:02:32**
 
 ## Newspaper Stats
 
-*Scraped **8,012** Articles*
+*Scraped **8,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,57 @@ colombotelegraphcom | 88
 bbccomsinhala | 100
 dbsjeyarajcom | 154
 newsfirstlk | 363
-economynextcom | 409
+economynextcom | 415
 islandlk | 422
 dailyftlk | 434
 adalk | 682
-tamilmirrorlk | 971
+tamilmirrorlk | 975
 adaderanalk | 981
 virakesarilk | 1,063
-adaderanasinhalalk | 1,168
+adaderanasinhalalk | 1,169
 dailymirrorlk | 1,177
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,012 (100.0%) of 8,012 articles have been extended.
+8,012 (99.9%) of 8,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### மயிரிழையில் உயிர் தப்பிய விவசாயி
+
+*2024-02-19 16:19:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயிரிழையில்-உயிர்-தப்பிய-விவசாயி/175-333455) · `ta`
+
+மன்னார் மதவாச்சி பிரதான வீதி, உயிலங்குளம்-நொச்சிக்குளம் பகுதியில்   திங்கட்கிழமை நொச்சிக்குளம் பகுதியை சேர்ந்த ஒருவரை இலக்குவைத்து துப்பாக்கி பிரயோகம் ​மேற்கொள்ளப்பட்ட நிலையில்,குறித்த கிராம மக்கள் வீதியை மறித்து போராட்டத்தில் ஈடுபட்டனர்.
+
+திங்கட்கிழமை  (19) நொச்சி குளத்தைச் சேர்ந்த   விவசாயி ஒருவர் தனது கிராமத்தில் வயலில் நீர் பாய்ச்சிக் கொண்டு இருந்த வேளையில் ஒரு மோட்டார் சைக்கிளில்  வந்த இரு நபர்கள் ரி-56 ரக துப்பாக்கி மூலம் விவசாயி மீது துப்பபாக்கி பிரயோகம் மேற்கொண்டிருந்த நிலையில் அவருக்கு எந்த வித பாதிப்புக்களும் இல்லையென  தெரிவிக்கப்படுகிறது.
+
+கடந்த சில காலமாக கிராமத்து மக்களின் மீது ஒரு குழுவினர் தாக்குதல் நடத்தி இது வரை மூவர் உயிரிழந்துள்ளதாக அக்கிராம மக்கள் தெரிவித்துள்ளனர்.
+
+மேலும்,  கிராமத்துக்கு பொலிஸ் காவல் போடப் பட்டும் அதையும் மீறி  குறித்த சம்பவம் தொடர்வதாகவும், திங்கடகிழமை (19) நடைபெற்ற சம்பவத்தை கண்டித்தும் நொச்சிக்குளம் கிராம மக்கள் வீதியை மறித்து போராட்டத்தில் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/8d49efd2.json)
+
+---
+
+### ආරච්චිකට්ටුවේදී දුම්රියේ ගැටී කාන්තාවක් සහ දරුවන් දෙදෙනෙකු මරුට
+
+*2024-02-19 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193582) · `si`
+
+ආරච්චිකට්ටුව මයියාව ප්‍රදේශයේදී යතුරුපැදියක් දුම්රියේ ගැටීමෙන් කාන්තාවක් සහ කුඩා දරුවන් දෙදෙනෙකු මියගොස් තිබේ.
+
+සිය දරුවා සහ වෙනත් දරුවෙකු උපකාරක පන්ති කරා රැගෙන යමින් සිටි මවක් පැදවූ යතුරුපැදිය මෙලෙස අද පස්වරුවේ දුම්රියේ ගැටී ඇත.
+
+◼️
+
+[Data](articles/fe89754d.json)
+
+---
 
 ### Tense situation as crowds clamour for SL v AFG match tickets in Dambulla
 
@@ -47,6 +79,26 @@ The second match of the three-match series is scheduled to kick-off at 07:00 p.m
 [Data](articles/b2097094.json)
 
 [Extended Data](ext_articles/b2097094.ext.json)
+
+---
+
+### Sri Lanka Pensions Dept asks unethical questions: legislator
+
+*2024-02-19 15:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-pensions-dept-asks-unethical-questions-legislator-151484/) · `en`
+
+ECONOMYNEXT – Employees of the State Pensions Department ask questions not within their remit, and make the rules up as they go, a government legislator has said.
+
+“In some instances, the Department of Pensions asks questions that they do not have the legal right to ask, and therefore people do not get their pensions,” Chairman of the Sectoral Monitoring Committee for an Open and Responsible Government and Member of Parliament, Jagath Kumara Sumitraarachchi, said at a press briefing on Friday (16).
+
+Sumitraarachchi alleged that certain employees of the department take the law into their own hands adding that there have been instances where government employees make up laws and slash pensions.
+
+“In one instance, there was a husband and a wife who had not lived together, so the department had given a letter saying a pension could not be approved.”
+
+“Public officials must not operate based on personal preferences,” Sumitraarachchi criticized the unethical professional conduct.
+
+...
+
+[Data](articles/5a43737a.json)
 
 ---
 
@@ -94,6 +146,34 @@ The only CT testing facility in the Matara district has the same machine to be t
 
 ---
 
+### மலையக மக்களுக்கு ஜனாதிபதி வழங்கிய வாக்குறுதி
+
+*2024-02-19 15:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மக்களுக்கு-ஜனாதிபதி-வழங்கிய-வாக்குறுதி/175-333451) · `ta`
+
+நாட்டின் பொருளாதாரத்துக்கு பெரும் பங்களிப்பை வழங்கும் மலையக தமிழ் மக்களின் பொருளாதார மற்றும் சமூக உரிமைகளை நிலைநாட்டுவதற்கு அரசாங்கம் அர்ப்பணிப்புடன் செயற்படுவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+மலையகத்தை பிரதிநிதித்துவப்படுத்தும் அனைத்து அரசியல் பிரதிநிதிகளையும் ஒன்றிணைத்து வேலைத்திட்டமொன்றை நடைமுறைப்படுத்துவது தொடர்பான முன்மொழிவுகள் அடுத்த மாதத்தில் முன்வைக்கப்பட உள்ளதாகவும் ஜனாதிபதி குறிப்பிட்டார்.
+
+இந்திய அரசாங்கத்தின் நிதி ஒதுக்கீட்டின் கீழ் பெருந்தோட்ட மக்களுக்காக 10,000 வீடுகளை நிர்மாணிக்கும் 'பாரத்-லங்கா' வீடமைப்புத் திட்டத்தின் நான்காம் கட்ட ஆரம்ப நிகழ்வு ஜனாதிபதி அலுவலகத்தில் இருந்து ஒன்லைன் தொழில்நுட்பத்தின் ஊடாக இன்று (19) அங்குரார்ப்பணம் செய்து வைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/9a04e9c8.json)
+
+---
+
+### கொட்டகெத்தன  இரட்டைக் கொலை: `செயின் கில்லர்’க்கு மரண தண்டனை
+
+*2024-02-19 15:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொட்டகெத்தன-இரட்டைக்-கொலை-செயின்-கில்லர்-க்கு-மரண-தண்டனை/76-333450) · `ta`
+
+இரத்தினபுரி கொட்டகெதன பிரதேசத்தில் இடம்பெற்ற இரட்டைக் கொலைச் சம்பவத்தில் தாயையும் மகளையும் பலாத்காரம் செய்து கொன்ற வழக்கில் குற்றவாளியாகக் காணப்பட்ட `செயின் கில்லர்’ என்பவருக்கு இரத்தினபுரி மேல் நீதிமன்ற நீதிபதி லங்கா ஜயரத்ன திங்கட்கிழமை (19) மரண தண்டனை விதித்து தீர்ப்பளித்தார்.
+
+◼️
+
+[Data](articles/cd648fb5.json)
+
+---
+
 ### At Dambulla broke the gates and jumps in
 
 *2024-02-19 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193580) · `si`
@@ -105,6 +185,22 @@ Among Sri Lanka and Afghanistan, there was a warm situation near the Dambulla Di
 [Data](articles/fb8ad071.json)
 
 [Extended Data](ext_articles/fb8ad071.ext.json)
+
+---
+
+### Sri Lanka opposition MPs trying to bring Sajith, Ranil together, claims AKD
+
+*2024-02-19 15:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-mps-trying-to-bring-sajith-ranil-together-claims-akd-151483/) · `en`
+
+ECONOMYNEXT — Attempts are under way to bring opposition leader Sajith Premadasa and President Ranil Wickremesinghe together, MP Anura Kumara Dissanayake said, claiming that it would’ve already happened if it weren’t for an alleged personal animosity between the two leaders.
+
+Speaking at a rally in Kurunegala on Sunday February 18, Dissanayake said members of the main opposition Samagi Jana Balawegaya (SJB) are attempting to reconcile Premadasa and Wickremesinghe and bring the SJB and the president’s United National Party (UNP) together in the run-up to the presidential elections due to be held before October 17 this year.
+
+“Discussions are now taking place about how to bring Ranil and Sajith together. A group of SJB members are in conversation to bring them together. If it weren’t for the personal dispute between Ranil and Sajith, they would come together,” said Dissanayake addressing a large gathering of supporters of the National People’s Power (NPP) that he leads.
+
+...
+
+[Data](articles/16a32f2c.json)
 
 ---
 
@@ -166,6 +262,28 @@ Accordingly, the accused, Neil Lakshman, was sentenced to death over the double 
 
 ---
 
+### Sri Lanka’s port city to offer duty free shopping in April
+
+*2024-02-19 14:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-port-city-to-offer-duty-free-shopping-in-april-151477/) · `en`
+
+ECONOMYNEXT – Duty free shopping will be available in Colombo soon, the Belt and Road Initiative Sri Lanka (BRISL), an international development organization, has said.
+
+“Colombo Port City duty free shop will be opened in April,” BRISL announced on social media platform X (twitter) on Monday (19).
+
+There was to be a 5,000 US dollar allowance for returning Sri Lankans and any amount for foreigners, according to concessions gazetted on May 29.
+
+“The Port City Commission listed up 200-300 items that would be made duty free, to be sold at -the new downtown duty-free complex, which should also have a 25 percent tax holiday, in addition to being duty free,” opposition legislator Harsha de Silva, who was chairman of the parliament’s Committee on Public Fiannce told an economic forum organized by Colombo-based Advocata Institute, earlier this month.
+
+Sri Lanka Port City duty free shopping complex in legal quagmire
+
+Sri Lanka think tank cautions against “differential” tax treatment to Port City entities
+
+...
+
+[Data](articles/3c95d853.json)
+
+---
+
 ### Kotakethana sentenced to death
 
 *2024-02-19 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193577) · `si`
@@ -221,6 +339,24 @@ Police investigations revealed that the WPC had been sexually abused while she w
 [Data](articles/f574e0c9.json)
 
 [Extended Data](ext_articles/f574e0c9.ext.json)
+
+---
+
+### விண்ணப்பங்கள் ​நேரடியாக சமர்ப்பிக்கப்பட வேண்டும்
+
+*2024-02-19 14:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்ணப்பங்கள்-நேரடியாக-சமர்ப்பிக்கப்பட-வேண்டும்/175-333439) · `ta`
+
+கல்வி அமைச்சு வெளியிட்டுள்ள சுற்றறிக்கையின்படி, 2024 ஆம் ஆண்டிற்கான இடைநிலை வகுப்புகளுக்கு மாணவர்களை சேர்ப்பதற்கான விண்ணப்பங்கள் தரம் 1, 5 ,6 மற்றும் உயர்தரம் தவிர, பாடசாலைகளில் நேரடியாக சமர்ப்பிக்கப்பட வேண்டும் என கல்வி அமைச்சகம் தெரிவித்துள்ளது.
+
+அதற்கமைய, அந்தப் பாடசாலைகளில் வெற்றிடங்கள் இருந்தால், அந்த பாடசாலை முதல்வர்கள் கல்வி அமைச்சின் சுற்றறிக்கையின்படி நேர்காணல்களை நடத்தி, தேர்ந்தெடுக்கப்பட்ட மாணவர்களின் பட்டியலை அமைச்சகத்தின் ஒப்புதலுக்கு அனுப்புவார்கள்.
+
+விசேட அறிவிப்பை வெளியிடும் போது, தரம் ஐந்தாம் புலமைப்பரிசில் பரீட்சையின் பெறுபேறுகளின் அடிப்படையில் மாத்திரமே பாடசாலைகளில் தரம் ஆறாம் மாணவர்களுக்கான மாணவர் சேர்க்கை இடம்பெறுவதாக அமைச்சு தெரிவித்துள்ளது.
+
+இதேவேளை, 2024 ஆம் ஆண்டுக்கான மாணவர்களை தரம் ஒன்றிற்கு இணைத்துக் கொள்வதற்கான விண்ணப்பங்கள் குறித்த பாடசாலைகளுக்கு அனுப்பி வைக்கப்பட வேண்டும் எனவும், அதன் பின்னர் அதிபர்களால் நேர்முகத் தேர்வுகள் நடத்தப்படும் எனவும் அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/757d1447.json)
 
 ---
 
@@ -331,6 +467,24 @@ The event was launched with the participation of President Ranil Wickremesinghe,
 [Data](articles/fc22c7ac.json)
 
 [Extended Data](ext_articles/fc22c7ac.ext.json)
+
+---
+
+### FAO Director General visits Sri Lanka tea factory, rubber institute
+
+*2024-02-19 14:03:00* · [`economynextcom`](https://economynext.com/fao-director-general-visits-sri-lanka-tea-factory-rubber-institute-151470/) · `en`
+
+ECONOMYNEXT – The Director General of the United Nations Food and Agricultural Organization, Dr Qu Dongyu, has visited the Athukorala tea factory in Elpitiya and the Rubber Research Institute in Agalawatte on an inspection tour over the weekend.
+
+“The United Nations Food and Agriculture Organization will focus attention on the development of tea, coconut and rubber crops, in addition to paddy cultivation and other crops in our country,” Minister of Agriculture and Plantation Industries Mahinda Amaraweera said on his social media page.
+
+Amaraweera said Dongyu spoke highly of the country’s tea and kithul jaggery.
+
+Dongyu is leading a delegation from FAO headquarters in Rome to attend the 37th Ministerial Session of the FAO Regional Conference for Asia and the Pacific (APRC37), a four-day forum held in Colombo.
+
+...
+
+[Data](articles/288b389b.json)
 
 ---
 
@@ -660,6 +814,24 @@ The Ministry of Education further stated that letters of admission for schools w
 
 ---
 
+### Japan gives Sri Lanka 40,000 tons of diesel for health services
+
+*2024-02-19 12:54:00* · [`economynextcom`](https://economynext.com/japan-gives-sri-lanka-40000-tons-of-diesel-for-health-services-151461/) · `en`
+
+ECONOMYNEXT – The Japanese government has given 40,000 metric tons of diesel for transportation in Sri Lanka’s health services, including ambulances.
+
+A fuel management information system (FIMS) will track the distribution of the diesel stocks under the direct supervision of the Japanese government, a statement by the Department of Government Information said.
+
+Distribution activities will be carried out in collaboration with the Ceylon Petroleum Corporation.
+
+Japanese Ambassador to Sri Lanka Misukoshi Hideaki, officially presented the grant to Minister of Health and Industry Dr Ramesh Pathirana at the “Dolphin Jetty” terminal in the Colombo Port on Monday (19).
+
+...
+
+[Data](articles/65117953.json)
+
+---
+
 ### One killed by rat problem
 
 *2024-02-19 12:49:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலி-பிரச்சினையால்-ஒருவர்-பலி/175-333437) · `ta`
@@ -905,6 +1077,20 @@ United People's Power Leader Sajith Premadasa and others have been referred to a
 [Data](articles/51c65e72.json)
 
 [Extended Data](ext_articles/51c65e72.ext.json)
+
+---
+
+### UN body, Asia and Pacific officials in Sri Lanka to discuss food security
+
+*2024-02-19 11:59:00* · [`economynextcom`](https://economynext.com/un-body-asia-and-pacific-officials-in-sri-lanka-to-discuss-food-security-151452/) · `en`
+
+ECONOMYNEXT – Government policymakers from across the Asia and Pacific regions meet in Colombo this week to agree a pathway to reform their agrifood systems and accelerate recovery from pandemic and environmental crises.
+
+Officials from 46 member nations of the UN Food and Agriculture Organization will participate in roundtable discussions that focus on lessons learned from the pandemic and its impact on food security and nutrition, modernization and digitization for smallholders in aquaculture and livestock, building resilience through agrifood systems transformation, the need for investment and financing for poverty reduction and modernization, and saving food and water and reducing food loss and waste, at the 37th Ministerial Session of the FAO Regional Conference for Asia and the Pacific (APRC37).
+
+...
+
+[Data](articles/023947af.json)
 
 ---
 
@@ -1799,225 +1985,5 @@ The Director General of the United Nations Food and Agriculture Organization, a 
 [Data](articles/3cc29ca4.json)
 
 [Extended Data](ext_articles/3cc29ca4.ext.json)
-
----
-
-### Two more murders
-
-*2024-02-19 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193562) · `si`
-
-Two people have been killed in two area assault, police said.
-
-The son of Kumbukget was killed in an attack by a father in Nalliya night last night, police said.
-
-The victim was a 30 year old resident of the same area.
-
-Police investigations have revealed that the man was an addict for drugs and had to buy money from his father to buy drugs.
-
-The victim had also been troubled from his father yesterday and had attacked his head with a bundle of his head.
-
-Kumbukheta Police have arrested 60 year old father.
-
-Meanwhile, a person who was hospitalized with a sharp weapon while a sharp weapon was killed during a sharp object.
-
-The victim was a 32 year old resident of Puttalam.
-
-It has been revealed that the attack had taken place due to a dispute drunk on the 17th.
-
-Two persons have been arrested in Horizon Park and Sinhalese Park and Sinhaganagwilluwa.
-
-◼️
-
-[Data](articles/d4061459.json)
-
-[Extended Data](ext_articles/d4061459.ext.json)
-
----
-
-### Showers expected in parts of the country
-
-*2024-02-19 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97379/showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says a few showers may occur in Eastern and Uva provinces today while showers or thundershowers may occur at a few places in Sabaragamuwa province after 4.00 p.m.
-
-Fairly strong winds about 30-35 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, North-western, Uva, Southern and Eastern provinces and in Matale and Kandy districts.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/f331faf9.json)
-
-[Extended Data](ext_articles/f331faf9.ext.json)
-
----
-
-### Afghanistan - Second Twenty Twenty20 match today
-
-*2024-02-19 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193561) · `si`
-
-The second T20 match between the Afghan group and Sri Lanka team will be held today (19).
-
-The competition will commence at 7 pm at Rangiri Dambulla Stadium.
-
-The first 20 runs between the two countries, the Sri Lankan team wins 4 runs.
-
-Meanwhile, SLC had informed the sale of all tickets in the Sri Lanka team and the Afghanistan group.
-
-◼️
-
-[Data](articles/a829a36c.json)
-
-[Extended Data](ext_articles/a829a36c.ext.json)
-
----
-
-### Sri Lanka should protest the 7-pct annual inflation target, not a 3-pct VAT hike
-
-*2024-02-19 07:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-protest-the-7-pct-annual-inflation-target-not-a-3-pct-vat-hike-151314/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s politicians are protesting a once in a lifetime valued added tax of 3 as well as the imposition of VAT on some new items, but far more damaging to the poor is the deadly power given to macroeconomists to generate 5 to 7 percent inflation every year.
-
-Sri Lanka’s macro-economists had inveigled President Ranil Wickremesinghe and handed them the power to conduct monetary policy (read print money) and generate inflation of 5 percent a year with room to push up price rises to 7 percent.
-
-Related Sri Lanka central bank gets political nod to create up to 7-pct inflation
-
-Legislators had already been misled by inflationists into passing the new IMF backed monetary law to target potential output (print money for growth) in the style of John Law, so positive inflation targeting was a piece of cake.
-
-...
-
-[Data](articles/0131ae1a.json)
-
-[Extended Data](ext_articles/0131ae1a.ext.json)
-
----
-
-### New school term begins today
-
-*2024-02-19 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193560) · `si`
-
-The third term of government and government approved private schools ended on Friday (16).
-
-Accordingly, the first phase of the new school will commence today, the Ministry of Education said.
-
-The first phase of the first school is due to operate from April 10.
-
-◼️
-
-[Data](articles/a5635e00.json)
-
-[Extended Data](ext_articles/a5635e00.ext.json)
-
----
-
-### Sri Lanka - US Assistant Secretary of State
-
-*2024-02-19 06:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176721) · `ta`
-
-Sri Lanka is an example of the success of the Indo -Pacific Strategy in the US, along with colleagues like India, said US Secretary of State for South Asia, Central Asia.
-
-A year and a half ago, the Sri Lankan crisis was in a state of crisis.
-
-He also said that the president's residence was seized and the demonstrators swim in his swimming.
-
-But if you have recently visited Sri Lanka, it is now a complete place, ”said Donald Lu.
-
-Sri Lanka's currency is stable.
-
-How did this happen?The US State Department official, who said it was possible with the little help of friends, said the US and its colleagues would put forward the best plans.
-
-As for Sri Lanka, we have seen countries like India, India, who have said that the country needed humanitarian aid at the beginning of the humanitarian crisis, said Sri Lanka helped Sri Lanka to obtain essential commodities at a very crisis.
-
-He said the USAID had given millions of dollars for agricultural products at this time of crisis.
-
-...
-
-[Data](articles/e42175bf.json)
-
-[Extended Data](ext_articles/e42175bf.ext.json)
-
----
-
-### Sabaragamuwa Weather Changes
-
-*2024-02-19 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193559) · `si`
-
-The East and Uva provinces may have a few showers in the Eastern and Uva provinces.
-
-2 pm in Sabaragamuwa Province. Showers or thundershowers will occur at a few places about 4.00.
-
-From the East, North-Central, Uva, Uva, Uva, Uva, Uva and Eastern Provinces, in the North, North, South and Eastern Provinces.. 30-35 can cause strong winds.
-
-The Meteorological Department urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/ac1abec8.json)
-
-[Extended Data](ext_articles/ac1abec8.ext.json)
-
----
-
-### Arrested in Vavuniya with 80000mg of ice drugs
-
-*2024-02-19 06:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176717) · `ta`
-
-Police have arrested a person who had been involved in 800mg of ice drugs in the Vavuniya Thambanicholai area.
-
-The Vavuniya Chief Police Officer's Vavuniya Liquor Police Division (Vavuniya) Police Inspector Rizvi, Inspector of Police, Rizvi (48001), Soysa (67436), Decanayaka (34831), Kumara (34831), Kumara (34831).(91800) Police raided a house in Thambanicholai area.
-
-At this time, 80000 milligrams of iPodi material was found and a man who was in his belongings was arrested.
-
-◼️
-
-[Data](articles/94e75d33.json)
-
-[Extended Data](ext_articles/94e75d33.ext.json)
-
----
-
-### HNB made strong and sustainable performance in 2023
-
-*2024-02-19 05:34:00* · [`islandlk`](http://island.lk/hnb-made-strong-and-sustainable-performance-in-2023/) · `en`
-
-Hatton National Bank PLC (HNB) showcased strong and sustainable performance in 2023, in all aspects namely liquidity, asset quality, capital, efficiency and profitability amidst global and local economic uncertainties.
-
-Commenting on the performance, Nihal Jayawardene, Chairman of Hatton National Bank PLC, stated, “The Board joins me in commending the CEO/Managing Director Jonathan Alles for the leadership provided to steer ahead during the most difficult times in the history. I express my sincere gratitude to the HATNA team for their commitment and our customers who have been HNB’s strongest champions”.
-
-...
-
-[Data](articles/0629f245.json)
-
-[Extended Data](ext_articles/0629f245.ext.json)
-
----
-
-### Central Bank strengthens its measures against money laundering and terrorist financing
-
-*2024-02-19 05:34:00* · [`islandlk`](http://island.lk/central-bank-strengthens-its-measures-against-money-laundering-and-terrorist-financing/) · `en`
-
-In terms of the provisions of the Financial Transactions Reporting Act, the Financial Intelligence Unit (FIU) of Sri Lanka has entered into a Memorandum of Understanding (MOU) with the Excise Department of Sri Lanka to exchange information related to investigations and prosecutions of money laundering, terrorist financing and other related crimes.
-
-J M S N Jayasinghe, Commissioner General of Excise and Mrs. E H Mohotty, then Director, FIU signed the MOU on behalf of the respective institutions in the presence of Dr. P Nandalal Weerasinghe, the Governor of the CBSL, who is also the Chairman of the Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT) National Coordinating Committee.
-
-...
-
-[Data](articles/a294cdbc.json)
-
-[Extended Data](ext_articles/a294cdbc.ext.json)
-
----
-
-### SL’s economic growth projections likely to suffer from adverse developments on global front
-
-*2024-02-19 05:34:00* · [`islandlk`](http://island.lk/sls-economic-growth-projections-likely-to-suffer-from-adverse-developments-on-global-front/) · `en`
-
-Risks to real economic growth projections are skewed to the downside both in the near term as well as in the medium term, as economic activity is susceptible to adverse developments on the global front that affect export recovery, as well as loss in productivity due to outmigration of skilled labour and structural impediments to growth, according to the Monetary Policy Report – February 2024 released by the Central Bank of Sri Lanka.
-
-...
-
-[Data](articles/e11981f3.json)
-
-[Extended Data](ext_articles/e11981f3.ext.json)
 
 ---

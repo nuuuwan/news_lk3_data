@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 06:17:05**
+As of **2024-02-19 06:54:16**
 
 ## Newspaper Stats
 
-*Scraped **7,897** Articles*
+*Scraped **7,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 99
 dbsjeyarajcom | 154
 newsfirstlk | 363
 economynextcom | 404
-islandlk | 409
+islandlk | 419
 dailyftlk | 434
 adalk | 670
 tamilmirrorlk | 955
@@ -26,11 +26,131 @@ dailymirrorlk | 1,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,897 (100.0%) of 7,897 articles have been extended.
+7,897 (99.9%) of 7,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Arrested in Vavuniya with 80000mg of ice drugs
+
+*2024-02-19 06:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176717) · `ta`
+
+Police have arrested a person who had been involved in 800mg of ice drugs in the Vavuniya Thambanicholai area.
+
+The Vavuniya Chief Police Officer's Vavuniya Liquor Police Division (Vavuniya) Police Inspector Rizvi, Inspector of Police, Rizvi (48001), Soysa (67436), Decanayaka (34831), Kumara (34831), Kumara (34831).(91800) Police raided a house in Thambanicholai area.
+
+At this time, 80000 milligrams of iPodi material was found and a man who was in his belongings was arrested.
+
+◼️
+
+[Data](articles/94e75d33.json)
+
+[Extended Data](ext_articles/94e75d33.ext.json)
+
+---
+
+### HNB made strong and sustainable performance in 2023
+
+*2024-02-19 05:34:00* · [`islandlk`](http://island.lk/hnb-made-strong-and-sustainable-performance-in-2023/) · `en`
+
+Hatton National Bank PLC (HNB) showcased strong and sustainable performance in 2023, in all aspects namely liquidity, asset quality, capital, efficiency and profitability amidst global and local economic uncertainties.
+
+Commenting on the performance, Nihal Jayawardene, Chairman of Hatton National Bank PLC, stated, “The Board joins me in commending the CEO/Managing Director Jonathan Alles for the leadership provided to steer ahead during the most difficult times in the history. I express my sincere gratitude to the HATNA team for their commitment and our customers who have been HNB’s strongest champions”.
+
+...
+
+[Data](articles/0629f245.json)
+
+---
+
+### Central Bank strengthens its measures against money laundering and terrorist financing
+
+*2024-02-19 05:34:00* · [`islandlk`](http://island.lk/central-bank-strengthens-its-measures-against-money-laundering-and-terrorist-financing/) · `en`
+
+In terms of the provisions of the Financial Transactions Reporting Act, the Financial Intelligence Unit (FIU) of Sri Lanka has entered into a Memorandum of Understanding (MOU) with the Excise Department of Sri Lanka to exchange information related to investigations and prosecutions of money laundering, terrorist financing and other related crimes.
+
+J M S N Jayasinghe, Commissioner General of Excise and Mrs. E H Mohotty, then Director, FIU signed the MOU on behalf of the respective institutions in the presence of Dr. P Nandalal Weerasinghe, the Governor of the CBSL, who is also the Chairman of the Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT) National Coordinating Committee.
+
+...
+
+[Data](articles/a294cdbc.json)
+
+---
+
+### SL’s economic growth projections likely to suffer from adverse developments on global front
+
+*2024-02-19 05:34:00* · [`islandlk`](http://island.lk/sls-economic-growth-projections-likely-to-suffer-from-adverse-developments-on-global-front/) · `en`
+
+Risks to real economic growth projections are skewed to the downside both in the near term as well as in the medium term, as economic activity is susceptible to adverse developments on the global front that affect export recovery, as well as loss in productivity due to outmigration of skilled labour and structural impediments to growth, according to the Monetary Policy Report – February 2024 released by the Central Bank of Sri Lanka.
+
+...
+
+[Data](articles/e11981f3.json)
+
+---
+
+### SLSI honours ComBank for its victory at Global Performance Excellence Awards
+
+*2024-02-19 05:10:00* · [`islandlk`](http://island.lk/slsi-honours-combank-for-its-victory-at-global-performance-excellence-awards/) · `en`
+
+The Sri Lanka Standards Institution (SLSI) recently paid a special tribute to the Commercial Bank of Ceylon in recognition of the Bank’s victory at the Global Performance Excellence Awards of the Asia Pacific Quality Organisation (APQO) last year. Commercial Bank was one of only eight organisations named ‘World Class’ winners of the Global Performance Excellence Awards, consequent to a submission made by the Bank on the recommendation of SLSI, to the APQO about the Bank’s commitment to facilitate business excellence based on the Baldrige Excellence Framework for the SLSI’s National Quality Award (SLNQA).
+
+The special award presented by SLSI at this year’s National Quality Awards to honour Commercial Bank for this achievement was accepted on behalf of the Bank by Ms Pushpa Chandrasiri, Head of Human Resources Management.
+
+SL’s economic growth projections likely to suffer from adverse developments on global front
+
+...
+
+[Data](articles/3f314352.json)
+
+---
+
+### HNB Finance champions environmental responsibility with e-waste management solution
+
+*2024-02-19 05:10:00* · [`islandlk`](http://island.lk/hnb-finance-champions-environmental-responsibility-with-e-waste-management-solution/) · `en`
+
+Leading integrated financial services provider HNB FINANCE PLC is taking a significant step towards environmental sustainability with the implementation of its E-Waste Management Solution.
+
+This novel initiative aims to minimize the negative environmental impact of electronic waste disposal, while simultaneously reiterating the company’s stance as a socially responsible organization.
+
+The decision to implement the E-Waste Management Solution follows a thorough assessment of the disposal of fixed assets collected at the Head Office and other branches. Adhering to stringent company policies and procedures, HNB FINANCE PLC has partnered with N.S Green Links Lanka (Pvt.) Ltd, an electronic waste management company licensed by the Central Environmental Authority (CEA) of Sri Lanka.
+
+This strategic collaboration aligns with HNB FINANCE PLC’s commitment to a sustainable future that positively impacts individuals, society, and the environment.
+
+...
+
+[Data](articles/a708d903.json)
+
+---
+
+### Bitumix continues its ‘Sisu Senehasa’ scholarships programme
+
+*2024-02-19 05:09:00* · [`islandlk`](http://island.lk/bitumix-continues-its-sisu-senehasa-scholarships-programme/) · `en`
+
+Bitumix Private Limited, the leading company in the production and sale of bitumen and related products in Sri Lanka, has expanded fulfilling its corporate social responsibility by implementing the latest stage of the Bitumix Sisu Senehasa scholarship programme that provide financial assistance to students from low-income families. Under this programme, financial assistance is provided to selected students from Anuradhapura District who have excelled in their education. The students are benefitted through this programme to complete their school as well as university education.
+
+The scholarship programme, a concept of Bitumix Managing Director Ashoka Siriwardena, was first launched in 2014 by providing financial assistance to six students. Over the past, hundreds of students have received assistance under this programme and successfully completed their school and university education.
+
+Huawei unveils expansion of its talent development programme in Rome
+
+...
+
+[Data](articles/6123a7b7.json)
+
+---
+
+### Huawei unveils expansion of its talent development programme in Rome
+
+*2024-02-19 05:08:00* · [`islandlk`](http://island.lk/huawei-unveils-expansion-of-its-talent-development-programme-in-rome/) · `en`
+
+A week-long “Seeds for the future European Grand Finale,” bringing together a select cohort of “Seeds for the Future” alumni hailing from 18 European countries, ended on January 23. Hosted by Huawei Europe, the closing ceremony for the week-long journey showcased the collective achievements of Seeds alumni who had previously attended training programs organized in their respective countries. Throughout the week, participants engaged in illuminating sessions with tech experts, delved into the realms of connectivity and innovation, and contributed to insightful panel discussions on crucial topics such as diversity, green skills, and sustainability.
+
+...
+
+[Data](articles/083a8cd7.json)
+
+---
 
 ### Abolishing the Executive Presidency; Prudent Proposal  - But DISSOLVE PARLIAMENT FIRST
 
@@ -331,24 +451,6 @@ His journey began at Ananda College, Colombo, where he received his primary and 
 [Data](articles/144aab65.json)
 
 [Extended Data](ext_articles/144aab65.ext.json)
-
----
-
-### Arrested in Vavuniya with 80000mg of ice drugs
-
-*2024-02-19 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/176717) · `ta`
-
-Police have arrested a person who had been involved in 800mg of ice drugs in the Vavuniya Thambanicholai area.
-
-The Vavuniya Chief Police Officer's Vavuniya Liquor Police Division (Vavuniya) Police Inspector Rizvi, Inspector of Police, Rizvi (48001), Soysa (67436), Decanayaka (34831), Kumara (34831), Kumara (34831).(91800) Police raided a house in Thambanicholai area.
-
-At this time, 80000 milligrams of iPodi material was found and a man who was in his belongings was arrested.
-
-◼️
-
-[Data](articles/94e75d33.json)
-
-[Extended Data](ext_articles/94e75d33.ext.json)
 
 ---
 
@@ -1947,145 +2049,5 @@ He has said that he and the powder is good friends.
 [Data](articles/cca912d8.json)
 
 [Extended Data](ext_articles/cca912d8.ext.json)
-
----
-
-### Sapphire
-
-*2024-02-18 13:37:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சேலையை-கட்டாமல்-வந்த-ஆசிரியை-விரட்டியடிப்பு/76-333382) · `ta`
-
-A teacher who did not build a saree, has been chased away. The teacher in connection with the incident. Kadugannan has lodged a complaint at the police station.
-
-The teacher was chased away on Sunday (18) at the Modi Center of the Grakama Teacher College.
-
-The teacher has come to complete the recommended skill limits for teachers' service hikes. The manager of the central station then. The teacher had left the saree because he left the. The teacher complained about this.
-
-◼️
-
-[Data](articles/bba3708c.json)
-
-[Extended Data](ext_articles/bba3708c.ext.json)
-
----
-
-### Minister of External Affairs to visit Sri Lanka
-
-*2024-02-18 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193541) · `si`
-
-Minister of Iranian Foreign Minister Dr. Housey Amar Abdullayan, is due to arrive in the island for an official visit.
-
-According to the invitation of Foreign Minister Ali Sabri, the Iranian Foreign Minister will visit Sri Lanka from 19th to 21.
-
-The Iranian Foreign Minister is scheduled to meet President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
-
-It is also reported that the Iranian Foreign Minister and other delegation are to be held with the official discussions with Minister Ali Sabri at the Ministry of External Affairs.
-
-◼️
-
-[Data](articles/466352bb.json)
-
-[Extended Data](ext_articles/466352bb.ext.json)
-
----
-
-### Sri Lanka fall behind in blacklisting corrupt contractors: Verité Research
-
-*2024-02-18 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-fall-behind-in-blacklisting-corrupt-contractors-Verité-Research/108-277257) · `en`
-
-Colombo, Feb 18 (Daily Mirror) - Sri Lanka has the worst record among South Asian countries in blacklisting corrupt contractors in public procurement, according to a new report by Verité Research.
-
-The report shows that Sri Lanka is the only country in South Asia that 1) does not recognise engaging in corrupt and fraudulent activities during procurement as a valid reason for blacklisting 2) has not blacklisted contractors that have defaulted on contractual obligations despite having the provisions to do so.
-
-The first issue can be attributed to gaps in the procurement guidelines of 2006, which govern almost all public procurement in Sri Lanka — except in a few instances such as pharmaceutical procurement.
-
-The report emphasises the importance of urgently fixing these gaps to combat corruption and restore fiscal governance.
-
-...
-
-[Data](articles/84c1c184.json)
-
-[Extended Data](ext_articles/84c1c184.ext.json)
-
----
-
-### Sri Lanka fall behind in blacklisting corrupt contractors: Verité Research
-
-*2024-02-18 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-fall-behind-in-blacklisting-corrupt-contractors-Verité-Research/155-277257) · `en`
-
-Colombo, Feb 18 (Daily Mirror) - Sri Lanka has the worst record among South Asian countries in blacklisting corrupt contractors in public procurement, according to a new report by Verité Research.
-
-The report shows that Sri Lanka is the only country in South Asia that 1) does not recognise engaging in corrupt and fraudulent activities during procurement as a valid reason for blacklisting 2) has not blacklisted contractors that have defaulted on contractual obligations despite having the provisions to do so.
-
-The first issue can be attributed to gaps in the procurement guidelines of 2006, which govern almost all public procurement in Sri Lanka — except in a few instances such as pharmaceutical procurement.
-
-The report emphasises the importance of urgently fixing these gaps to combat corruption and restore fiscal governance.
-
-...
-
-[Data](articles/e1d1a41f.json)
-
-[Extended Data](ext_articles/e1d1a41f.ext.json)
-
----
-
-### Pilot
-
-*2024-02-18 13:02:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/ஓர்-உயிரை-பறித்த-மரக்கிளை/72-333374) · `ta`
-
-One person was killed in an accident in the Devipuram area of Pudukkudiyiruppu in Mullaitivu. The accident occurred at 7 pm on Saturday (17).
-
-A member of the Pudukkudiyiruppu Palm Coconut Co -operative Society has been killed when a man has been hit by a tree crashed into a tree that was traveling on a roadside road where a man was traveling in the Devipuram area on his way home.The deceased is CC Sivabaskaran, also known as the 55 -year -old Vinayagam of Devipuram.
-
-The body of the deceased is placed at Pudukkudiyiruppu Source Hospital. Pudukudiyiruppu police are conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/158dd6cb.json)
-
-[Extended Data](ext_articles/158dd6cb.ext.json)
-
----
-
-### Four including gunman in Meegoda Economic Centre shooting, arrested
-
-*2024-02-18 12:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-including-gunman-in-Meegoda-Economic-Centre-shooting-arrested/108-277256) · `en`
-
-Meegoda, Feb 18 (Daily Mirror) - The main suspect and three others involved in the shooting and robbery at the Meegoda Economic Centre last week have been arrested.
-
-Two of them, including a businessman who aided and abetted in the shooting were arrested on Saturday (17) by the Meegoda police and on information provided by them under interrogation, the gunman and the rider of the motorcycle were also arrested by the STF during a raid in the Thissamaharama area.
-
-Police said the two gunmen who fled from the scene had, on their way robbed a jewellery from a businessman in the Pugoda area and had left the motorcycle at a restaurant belonging to one of the suspects.
-
-During investigations police had recovered the weapon and the motorcycle used in the shooting.
-
-The four suspects are to be produced before the Homagama magistrate after their statements are recorded.
-
-◼️
-
-[Data](articles/dcec6db6.json)
-
-[Extended Data](ext_articles/dcec6db6.ext.json)
-
----
-
-### Decisive discussion on Dath allowance
-
-*2024-02-18 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193540) · `si`
-
-Health Trade Unions and Health Minister Dr. Ramesh Pathirana will be held tomorrow (19).
-
-The Health Trade Union Alliance says that if the discussion will also be a decision tomorrow afternoon.
-
-Seven health professionals, 72 health career societies were given a few days in two days for several days in two months.
-
-The strike was completed on the 15th and the strike was completed by the Minister of Health Dr. Ramesh Pathirana to discuss the demands of the vocational unions.
-
-Accordingly, a discussion is scheduled to hold a discussion at around 11am tomorrow with the Minister of Health.
-
-◼️
-
-[Data](articles/7bb1e14a.json)
-
-[Extended Data](ext_articles/7bb1e14a.ext.json)
 
 ---

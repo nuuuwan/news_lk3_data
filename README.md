@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 15:51:22**
+As of **2024-02-19 16:02:51**
 
 ## Newspaper Stats
 
-*Scraped **8,003** Articles*
+*Scraped **8,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,74 @@ adalk | 682
 tamilmirrorlk | 971
 adaderanalk | 980
 virakesarilk | 1,063
-adaderanasinhalalk | 1,163
+adaderanasinhalalk | 1,167
 dailymirrorlk | 1,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,003 (100.0%) of 8,003 articles have been extended.
+8,007 (100.0%) of 8,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### At Dambulla broke the gates and jumps in
+
+*2024-02-19 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193580) · `si`
+
+Among Sri Lanka and Afghanistan, there was a warm situation near the Dambulla Divisional Secretariat.
+
+◼️
+
+[Data](articles/fb8ad071.json)
+
+[Extended Data](ext_articles/fb8ad071.ext.json)
+
+---
+
+### President makes a promise to the mountain Tamils
+
+*2024-02-19 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193579) · `si`
+
+President Ranil Wickremesinghe said that the government is committed to ensure the economic and social rights of the mountainous Tamils who contribute greatly to the economy of the country.
+
+The President added that the proposals relating to the implementation of all political representatives representing the mountains will be presented in the next month.
+
+President Ranil Wickremesinghe made this statement participating in the Presidential Secretariat from the Presidential Secretariat today (19) under the commencement of the fourth phase of the 'Bhath-Lanka' Housing Project to build 10,000 houses for the public.
+
+President Ranil Wickremesinghe, Water Supply Infrastructure Development Minister Ranil Wickremesinghe, Minister of Water Supply Infrastructure and Sri LankaHigh Commissioner was carried out by the Messeny Ja.
+
+Speaking further, President Ranil Wickremesinghe further said,
+
+...
+
+[Data](articles/3d4f7e12.json)
+
+[Extended Data](ext_articles/3d4f7e12.ext.json)
+
+---
+
+### Special notice to public servants
+
+*2024-02-19 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193578) · `si`
+
+Prime Minister Dinesh Gunawardena has made a special request from state employees.
+
+Appointment letters were presented at Temple Trees today under the patronage of the Prime Minister today (19).That request was made at the time.
+
+Speaking on the occasion, the Prime Minister urged public servants to cut the development goals of the country, especially to prevent certain injustice in decision making, to avoid making such decisions.
+
+"All of you who have qualified for their skills and seniority join our happiness, blessing. The responsibility of the public service is more serious than a normal personal company.
+
+...
+
+[Data](articles/7e5bd66e.json)
+
+[Extended Data](ext_articles/7e5bd66e.ext.json)
+
+---
 
 ### Accused in Kotakethana double murder sentenced to death
 
@@ -45,6 +101,24 @@ Accordingly, the accused, Neil Lakshman, was sentenced to death over the double 
 [Data](articles/c0721eea.json)
 
 [Extended Data](ext_articles/c0721eea.ext.json)
+
+---
+
+### Kotakethana sentenced to death
+
+*2024-02-19 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193577) · `si`
+
+The man accused of the murder of a mother and daughter in the Kotakethana area has been sentenced to death.
+
+Ratnapura High Court Judge Lanka Jayaratne issued the order (19).
+
+The death sentence was sentenced to the accused, a resident of Kotkayathan, a resident of Kotkayathan.
+
+◼️
+
+[Data](articles/5c529e97.json)
+
+[Extended Data](ext_articles/5c529e97.ext.json)
 
 ---
 
@@ -1943,81 +2017,5 @@ Huawei unveils expansion of its talent development programme in Rome
 [Data](articles/6123a7b7.json)
 
 [Extended Data](ext_articles/6123a7b7.ext.json)
-
----
-
-### Huawei unveils expansion of its talent development programme in Rome
-
-*2024-02-19 05:08:00* · [`islandlk`](http://island.lk/huawei-unveils-expansion-of-its-talent-development-programme-in-rome/) · `en`
-
-A week-long “Seeds for the future European Grand Finale,” bringing together a select cohort of “Seeds for the Future” alumni hailing from 18 European countries, ended on January 23. Hosted by Huawei Europe, the closing ceremony for the week-long journey showcased the collective achievements of Seeds alumni who had previously attended training programs organized in their respective countries. Throughout the week, participants engaged in illuminating sessions with tech experts, delved into the realms of connectivity and innovation, and contributed to insightful panel discussions on crucial topics such as diversity, green skills, and sustainability.
-
-...
-
-[Data](articles/083a8cd7.json)
-
-[Extended Data](ext_articles/083a8cd7.ext.json)
-
----
-
-### Is it hindered to religious cohesion to divide schools on religious basis?
-
-*2024-02-19 04:45:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1d124n40pzo) · `si`
-
-The schools in Sri Lanka have been divided based on various issues.
-
-There are many divisions, religious, communal, linguistic, physical resources and sexuality.
-
-The schools classified as Buddhist, Christian, Catholic, Muslim and Hindu, is based on religion, race, and language.
-
-In addition, it is divided into National Schools, Provincial Councils, Central Colleges, Junior Schools, Junior Schools, Physician Schools based on physical resources.
-
-There are many schools divided as male and women based on gender.
-
-The purpose of this article is to discuss issues that bring to dividing schools based on school religions and nations.
-
-The Ministry of Education is 10,146 schools in Sri Lanka, according to the number of school census in Sri Lanka.
-
-Among them, 6,909 schools were classified as Sinhala schools and 940 schools as Tamil schools.
-
-In addition, there are 6,323 schools in Sinhala and 3,026 schools in Tamil.
-
-552 schools in Sinhala and English are 552. 170 schools teach in Tamil and English.
-
-...
-
-[Data](articles/6e637447.json)
-
-[Extended Data](ext_articles/6e637447.ext.json)
-
----
-
-### Abolishing the Executive Presidency; Prudent Proposal  - But DISSOLVE PARLIAMENT FIRST
-
-*2024-02-19 04:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Abolishing-the-Executive-Presidency-Prudent-Proposal-But-DISSOLVE-PARLIAMENT-FIRST/172-277270) · `en`
-
-The movement to abolish the Executive Presidency is gaining traction and drawing significant interest as the deadline approaches
-
-A prudent suggestion is to abolish the Executive Presidency through a referendum, ensuring that the process is not driven by ulterior motives. An alternative approach could involve the immediate dissolution of Parliament after securing the necessary two-thirds majority.  Following this, a two-in-one approach can be adopted by combining the referendum with the Parliamentary elections, streamlining the process and saving time, manpower and financial resources.
-
-...
-
-[Data](articles/51de6f27.json)
-
-[Extended Data](ext_articles/51de6f27.ext.json)
-
----
-
-### Language: A Catalyst to foster National Unity - EDITORIAL
-
-*2024-02-19 04:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Language-A-Catalyst-to-foster-National-Unity-EDITORIAL/172-277269) · `en`
-
-Sri Lanka is described as a multilingual country but this definition could perhaps be deceptive when reflecting on the past and present. One may be quick to point fingers at various state policies that were implemented which made one language superior to the rest. However, language is an integral part of communication and is a key marker of identity. Sri Lanka witnessed a time when minority groups faced linguistic discrimination which in fact was a political recipe for disaster. As the world prepares to celebrate International Mother Language Day on February 21, it would be timely to reflect on the ‘mistakes’ that dragged Sri Lanka towards ethnic separatism.
-
-...
-
-[Data](articles/28c47705.json)
-
-[Extended Data](ext_articles/28c47705.ext.json)
 
 ---

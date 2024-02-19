@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 11:33:05**
+As of **2024-02-19 11:52:06**
 
 ## Newspaper Stats
 
-*Scraped **7,940** Articles*
+*Scraped **7,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 420
 dailyftlk | 434
 adalk | 672
 tamilmirrorlk | 965
-adaderanalk | 972
+adaderanalk | 973
 virakesarilk | 1,047
 adaderanasinhalalk | 1,154
 dailymirrorlk | 1,166
@@ -26,11 +26,31 @@ dailymirrorlk | 1,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,938 (100.0%) of 7,940 articles have been extended.
+7,941 (100.0%) of 7,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Fourth phase of Indian housing project for plantation sector workers inaugurated
+
+*2024-02-19 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97383/fourth-phase-of-indian-housing-project-for-plantation-sector-workers-inaugurated) · `en`
+
+A ceremony was held at the Presidential Secretariat on Monday (19 Feb.), to inaugurate a housing project financed by the Government of India to construct 10,000 houses for plantation sector workers.
+
+Accordingly, the fourth phase of India’s housing project in Sri Lanka’s plantation sector will entail building 1,300 houses across 45 estates in ten districts.
+
+President Ranil Wickremesinghe joined the event virtually with Indian High Commissioner Santosh Jha, the President’s Media Division (PMD) reported.
+
+On 28 November 2023, the High Commission of India, signed two significant agreements for the construction of 10,000 houses in plantation areas of Sri Lanka under the 4th phase of the Indian Housing Project.
+
+◼️
+
+[Data](articles/cbcc9159.json)
+
+[Extended Data](ext_articles/cbcc9159.ext.json)
+
+---
 
 ### Health sector trade unions to meet Health Minister for crucial talks today
 
@@ -48,6 +68,8 @@ On 14 February, the collective of trade unions decided to call off their strike 
 
 [Data](articles/6c406706.json)
 
+[Extended Data](ext_articles/6c406706.ext.json)
+
 ---
 
 ### First term for 2024 academic year gets underway
@@ -63,6 +85,8 @@ The third term of the academic year 2023 ended on 16 February.
 ◼️
 
 [Data](articles/7502b6d8.json)
+
+[Extended Data](ext_articles/7502b6d8.ext.json)
 
 ---
 
@@ -2037,27 +2061,5 @@ The special operation has been carried out following information on the instruct
 [Data](articles/90a12b83.json)
 
 [Extended Data](ext_articles/90a12b83.ext.json)
-
----
-
-### The loan given to politicians and massive traders is serious - Prime Minister
-
-*2024-02-18 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/176697) · `ta`
-
-State banks to be protected as national resources. But to discuss some changes. Prime Minister Dinesh Gunawardena said that if we otherwise we will have to make decisions.
-
-The Prime Minister made this statement during a discussion with union representatives at the Alari House, headed by Prime Minister Dinesh Gunawardena.
-
-In addition, representatives of the trade unions presented a number of issues relating to the restructuring of the organizations, the alternative proposals, the preservation and conduct of the corporations.
-
-The Prime Minister said, "We are in the position that these state banks should be protected nationally. There is no problem in it. But to discuss some changes to make some changes. Otherwise we will have to make decisions unilaterally.
-
-We have to protect important banks as we are now somewhat recovered from the economic crisis. How to do it should be discussed in more detail. The debt that has been given to many major traders has created a serious situation.
-
-...
-
-[Data](articles/c4dcae03.json)
-
-[Extended Data](ext_articles/c4dcae03.ext.json)
 
 ---

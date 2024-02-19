@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 08:02:46**
+As of **2024-02-19 08:17:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,909 (100.0%) of 7,912 articles have been extended.
+7,912 (100.0%) of 7,912 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The public is kindly requested to take adequate precautions to minimize damages 
 ◼️
 
 [Data](articles/f331faf9.json)
+
+[Extended Data](ext_articles/f331faf9.ext.json)
 
 ---
 
@@ -860,23 +862,25 @@ He will then visit Maley to Colombo and will make his meetings with senior offic
 
 ---
 
-### ஈரானிய வெளிவிவகார அமைச்சர் இன்று வருகை
+### Iranian Foreign Minister visit today
 
 *2024-02-19 00:14:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானிய-வெளிவிவகார-அமைச்சர்-இன்று-வருகை/175-333417) · `ta`
 
-இரண்டு நாட்கள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு ஈரானிய வெளிவிவகார அமைச்சர் ஹுசைன் அமீர் இன்று (19) இலங்கைக்கு வருகைதரவுள்ளார்.
+Iranian Foreign Minister Hussein Amir will visit Sri Lanka today (19) after a two -day official visit.
 
-வெளிவிவகார அமைச்சர் அலி சப்ரியின் அழைப்பை ஏற்று அவர் இந்த விஜயத்தை மேற்கொள்வதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Ministry of External Affairs has said that he will make the visit to the invitation of Foreign Minister Ali Sabri.
 
-ஈரானிய வெளிவிவகார அமைச்சர் இலங்கையில் தங்கியிருக்கும் காலப்பகுதியில் ஜனாதிபதி, பிரதமர் மற்றும் வெளிவிவகார அமைச்சரை சந்திக்கவுள்ளார்.
+The Iranian Foreign Minister will meet with the President, Prime Minister and Foreign Minister during his stay in Sri Lanka.
 
-அவருடன் அந்நாட்டு ஜனாதிபதி அலுவலகத்தின் எரிசக்தி மற்றும் வெளிவிவகார அமைச்சுகளின் உயர்மட்ட அதிகாரிகளும் வருகைதரவுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Ministry of External Affairs has said that the top officials of the Foreign Ministries of the Presidential Office will be accompanied by the President's Office.
 
-குறித்த குழுவினர் எதிர்வரும் 21ஆம் திகதி நாட்டில் இருந்து புறப்பட்டுச் செல்லவுள்ளனர். (a)
+The team will leave the country on the 21st of this month. (A)
 
 ◼️
 
 [Data](articles/67d9f967.json)
+
+[Extended Data](ext_articles/67d9f967.ext.json)
 
 ---
 

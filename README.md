@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 18:33:05**
+As of **2024-02-19 18:50:50**
 
 ## Newspaper Stats
 
-*Scraped **8,052** Articles*
+*Scraped **8,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,91 @@ economynextcom | 419
 islandlk | 422
 dailyftlk | 434
 adalk | 687
-tamilmirrorlk | 977
+tamilmirrorlk | 979
 adaderanalk | 982
-virakesarilk | 1,073
+virakesarilk | 1,075
 adaderanasinhalalk | 1,171
-dailymirrorlk | 1,182
+dailymirrorlk | 1,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,050 (100.0%) of 8,052 articles have been extended.
+8,052 (99.9%) of 8,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### ශ්‍රී ලංකා ප්‍රබල වේගපන්දුව IPL තරගාවලියට කැඳවයි
+### நீதிமன்றத்தில் கவனத்தை ஈர்த்த விசேட சம்பவம்
+
+*2024-02-19 18:18:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-கவனத்தை-ஈர்த்த-விசேட-சம்பவம்/175-333468) · `ta`
+
+நாடு முழுவதும் கவனத்தை ஈர்த்த ஒரு நீதிமன்றத் தருணத்தில், கைது செய்யப்பட்ட 88 வயது மூத்த குடிமகன் முன்பு உயர் நீதிமன்ற விசாரணையின் போது மூன்று பொலிஸார் முழங்காலில் விழுந்து மன்னிப்புக் கோரினர்.
+
+பச்சாதாபம் மற்றும் நல்லிணக்கத்தின் ஒரு அரிய காட்சியாகக் காணப்பட்ட இந்த நிகழ்வு, பணிவு மற்றும் கடந்த கால செயல்களை அங்கீகரிப்பதன் மூலம் பரவலான கவனத்தையும் பாராட்டுகளையும் பெற்றுள்ளது.
+
+2017 ஆம் ஆண்டு மனுதாரர் தாக்கல் செய்த அடிப்படை உரிமைகள் மனுவில் தரப்பினருக்கு இடையில் ஏற்பட்ட தீர்வின் ஒரு பகுதியாக நாரஹேன்பிட்டி பொலிஸ் நிலையத்தில் கடமையாற்றும் மூன்று பொலிஸார், ஒரு பொலிஸ் சார்ஜன்ட் மற்றும் இரண்டு பொலிஸ் கான்ஸ்டபிள்கள், மனுதாரர் கொட்வின் பெரேராவிடம் (88) எதிர்பாராத விதமாக மன்னிப்புக் கோரினர்.
+
+மனுதாரர் கொட்வின் பெரேரா தனது மனுவில், குப்பைகளை சேகரிக்கும் போது பிரச்சனையில் ஈடுபட்ட நபர் குறித்து பொலிஸாருக்கு தகவல் தெரிவிக்க நடவடிக்கை எடுத்ததாக தெரிவித்துள்ளார். நாரஹேன்பிட்டி பொலிஸாரால் தாம் கைது செய்யப்பட்டு தடுத்து வைக்கப்பட்டதாகவும், பின்னர் பொலிஸ் அறையில் அடைக்கப்பட்டதாகவும் அவர் குற்றம் சுமத்தியுள்ளார்.
+
+...
+
+[Data](articles/42577627.json)
+
+---
+
+### Sri Lanka is consecuting the powerful fastball tournament
 
 *2024-02-19 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193584) · `si`
 
-ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක දුෂ්මන්ත චමීර එළැඹෙන IPL තරගාවලිය සඳහා කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායමට තෝරාගෙන තිබේ.
+Sri Lanka's fast bowler's fast bowler IPL has been selected to the Kolkata Knight Riders to the team.
 
-ඔහු ඉන්දීය රුපියල් ලක්ෂ 50ක මිලකට කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම එක්වනු ඇති බව වාර්තා වෙයි.
+It is reported that he will join the Kolkata Knight Riders team at a cost of Rs.
 
-දුෂ්මන්ත චමීර එලෙස කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම විසින් තොරගෙන ඇත්තේ, එංගලන්ත පන්දු යවන ක්‍රීඩක Gus Atkinson වෙනුවටය.
+The Kolkata Knight Riders of the Kolkata Knight Raiders of the Kolkata Knight Riders have been selected by the Kolkata Knight Riders of England.
 
-දුෂ්මන්ත චමීර මීට පෙර IPL තරගාවලියවලදී  2018 වසරේදී රාජස්ථාන් රෝයල්ස් කණ්ඩායම නියෝජය කර ඇති අතර 2021 රෝයල් චැලෙන්ජර්ස් බැංගලෝර් කණ්ඩායම සඳහා ක්‍රීඩා කළේය.
+Dushhana Chameera has been represented in 2018 in 2018, royal Challengers team for the 2021 Royal Challengers Bangalore.
 
 ◼️
 
 [Data](articles/893d6f64.json)
+
+[Extended Data](ext_articles/893d6f64.ext.json)
+
+---
+
+### விடுதலைப்புலிகளால் புதைக்கப்பட்ட தங்க ஆபரண புதையல் தொடர்பில் அகழ்வு பணி!
+
+*2024-02-19 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176793) · `ta`
+
+விடுதலைப்புலிகளால் புதைக்கப்பட்ட தங்க ஆபரண புதையல் தொடர்பில் திங்கட்கிழமை (19) அகழ்வு பணிகள் முன்னெடுக்கப்பட்டன.
+
+கிளிநொச்சி தர்மபுரம் பொலிஸாரால் கடந்த 16ம் திகதியன்று குறித்த அகழ்வு பணிக்கான அனுமதி நீதிமன்றில் கோரப்பட்ட நிலையில், மன்றின் அனுமதியுடன் திங்கட்கிழமை (19) அகழ்வு பணிகள் முன்னெடுக்கப்பட்டது.
+
+தர்மபுரம் பொலிஸ் பிரிவுக்குட்டபட்ட  விசுவமடு - குமாரசாமிபுரம் பகுதியில் அமைந்துள்ள தனியாருக்குச் சொந்தமான காணி ஒன்றிலேயே விடுதலைப்புலிகள் அமைப்பினால் யுத்த காலப்பகுதியில் தங்க ஆபரணங்கள் புதைக்கப்பட்டுள்ளதாகத் தகவல் கிடைத்த நிலையில் திங்கட்கிழமை (19) பகல் 2.30 மணியளவில் அகழ்வு நடவடிக்கை மேற்கொள்ளப்பட்டு வருகிறது.
+
+இதன்போது நீதவான், தொல்பொருள் திணைக்கள அதிகாரிகள், கிராம சேவையாளர், உள்ளிட்டோர் முன்னிலையில் மேற்கொள்ளப்பட்ட குறித்த அகழ்வு மேற்கொள்ளப்பட்டு வருகிறது.
+
+◼️
+
+[Data](articles/a20d9ad7.json)
+
+---
+
+### நீதிமன்றத்தால் இடைக்கால தடையுத்தரவு நீக்கப்பட்டால் 35 000 பேருக்கு ஆசிரியர் நியமனம் - கல்வி அமைச்சர்
+
+*2024-02-19 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176788) · `ta`
+
+பட்டதாரி அபிவிருத்தி உத்தியோகத்தர்களை ஆசிரியர் சேவையில் இணைத்துக் கொள்ளல் மற்றும் ஓய்வு பெற்ற, சேவையிலிருந்து விலகிய ஆசிரியர்களுக்கான இடைவெளியை நிரப்புதல் என்பவற்றுக்கு எதிராக பிறப்பிக்கப்பட்டுள்ள இடைக்கால தடையுத்தரவு தொடர்பான தீர்ப்பு கிடைக்கப் பெற்றால் 35 000க்கும் மேற்பட்டோருக்கு நியமனத்தை வழங்கி ஆசிரியர் சேவையிலுள்ள பற்றாக்குறையை நிவர்த்தி செய்ய முடியும் என்று கல்வி அமைச்சர் சுசில் பிரேம்ஜயந்த தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (19) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+இலவச பாடநூல்கள் சகல பாடசாலைகளுக்கும் வழங்கப்பட்டுள்ளன. இதற்காக 12 பில்லியன் ரூபா செலவிடப்பட்டுள்ளது. அதே போன்று சீருடைகளுக்கும் 6.5 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. எதிர்வரும் இரு வாரங்களுக்குள் சீருடை துணிகளை விநியோகிப்பதற்கான நடவடிக்கை எடுக்கப்படும்.
+
+...
+
+[Data](articles/ceb17d66.json)
 
 ---
 
@@ -67,6 +121,24 @@ Public Service United Public Service United Nurses Union Chairman Muruththettuwe
 [Data](articles/8adc4b82.json)
 
 [Extended Data](ext_articles/8adc4b82.ext.json)
+
+---
+
+### Woman, two children die in train accident
+
+*2024-02-19 17:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-two-children-die-in-train-accident/108-277330) · `en`
+
+Arachchikattuwa, Feb 19 (Daily Mirror) - A woman and two children riding on a motorcycle were killed in an accident when a train travelling from Puttalam towards Chilaw collided with the motorcycle at a railway crossing in ​​Arachchikattuwa.
+
+Police said the deceased woman is 36 years old and her 6 and 9 years old boys died in the accident.
+
+It has been revealed that they met with this accident while returning home after attending a tuition class.
+
+The bodies have been sent to the Mundalama Hospital and the Arachchikattuwa Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/9055eb24.json)
 
 ---
 
@@ -115,6 +187,22 @@ Know This: The US Embassy fully supports the immense task you do. Of course, eve
 [Data](articles/667f0b02.json)
 
 [Extended Data](ext_articles/667f0b02.ext.json)
+
+---
+
+### Cops kneel in Supreme Court in apology for senior citizen’s illegal arrest
+
+*2024-02-19 17:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cops-kneel-in-Supreme-Court-in-apology-for-senior-citizens-illegal-arrest/108-277329) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - In a remarkable courtroom moment that has sparked conversations countrywide, three policemen tendered an apology while falling on their knees during a Supreme Court hearing involving an 88-year-old senior citizen they had previously arrested.
+
+The gesture, which was seen as a rare display of empathy and reconciliation, has garnered widespread attention and praise for its demonstration of humility and acknowledgment of past actions.
+
+Three policemen attached to the Narahenpita Police Station, a Police Sergeant and two Police Constables, tendered this unexpected apology to the petitioner Godwin Perera (88) as a part of a settlement reached between the parties into a Fundamental Rights petition filed by the petitioner in 2017.
+
+...
+
+[Data](articles/6634f2ee.json)
 
 ---
 
@@ -179,6 +267,24 @@ A mother and two boys who were traveling on a motorbike died on the spot.
 [Data](articles/bb3571d4.json)
 
 [Extended Data](ext_articles/bb3571d4.ext.json)
+
+---
+
+### 2 கோடி உறுப்பினர்களை சேர்ப்பதே இலக்கு
+
+*2024-02-19 17:01:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-கோடி-உறுப்பினர்களை-சேர்ப்பதே-இலக்கு/175-333467) · `ta`
+
+“2 கோடி உறுப்பினர்கள்‌ என்று இலக்கு நிர்ணயித்து, உறுப்பினர்‌ சேர்க்கைப்‌ பணிகளில்‌ கூடுதல்‌ கவனம்‌ செலுத்துவதுதான்‌ நமது முதற்கட்டப்‌ பணி” என கட்சியினருக்கு தமிழக வெற்றிக் கழகம் அறிவுறுத்தியுள்ளது.
+
+இது குறித்து அக்கட்சியின் பொதுச் செயலாளர் என்.ஆனந்த் வெளியிட்டுள்ள அறிக்கையில், “தமிழக வெற்றிக்‌ கழகத்தின்‌ உறுப்பினர்‌ சேர்க்கை மற்றும்‌ உட்கட்சிக்‌ கட்டமைப்பு விரிவாக்கம்‌ தொடர்பான ஆலோசனைக்‌ கூட்டம்‌, சென்னையில்‌ திங்கட்கிழமை (19) நடைபெற்றது.
+
+தமிழக வெற்றிக்‌ கழகத்தின்‌ உள்கட்டமைப்பை வலுப்படுத்தும்‌ வகையில்‌ உறுப்பினர்‌ சேர்க்கை முகாம்கள்‌ மாநிலம்‌ முழுவதும்‌ மாவட்ட மற்றும்‌ சட்டமன்றத்‌ தொகுதிகள்‌ வாரியாக நடத்தப்பட வேண்டும்‌.
+
+விரைவில்‌ முதற்கட்டமாக மகளிர்‌ தலைமையிலான உறுப்பினர்‌ சேர்க்கை அணி நிர்வாகிகள்‌ அறிவிக்கப்பட உள்ளனர்‌. உறுப்பினர்‌ சேர்க்கை அணியுடன்‌ இணைந்து, புதியதாக நியமிக்கப்பட இருக்கும்‌ மாவட்டப்‌ பொறுப்பாளர்கள்‌, சட்டமன்றத்‌ தொகுதிப்‌ பொறுப்பாளர்கள்‌ ஆகியோர்‌ முழு அளவில்‌ உறுப்பினர்‌ சேர்க்கைக்கான ஒருங்கிணைப்புப்‌ பணிகளில்‌ ஈடுபட வேண்டும்‌.
+
+...
+
+[Data](articles/ffc98549.json)
 
 ---
 
@@ -269,6 +375,24 @@ The remains of the deceased have been placed at the Mundalama Divisional Hospita
 [Data](articles/d20a403d.json)
 
 [Extended Data](ext_articles/d20a403d.ext.json)
+
+---
+
+### Gallows for Kotakethana ‘Serial Killer’
+
+*2024-02-19 16:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Gallows-for-Kotakethana-Serial-Killer/155-277327) · `en`
+
+Ratnapura High Court judge Lanka Jayaratne imposed the death sentence on a convict who was indicted for double murder at Kotakethana in Ratnapura.
+
+Prosecuted entirely based on DNA evidence by Senior Deputy Solicitor General (SDSG) Lakmali Karunanayake, court found accused Neil Lakshman guilty of the murder of a mother and daughter in Kotakethana in 2012.
+
+The accused was indicted for raping the daughter and committing the double murder. According to the evidence the house where the murders were committed was set on fire to destroy all evidence.
+
+The Kotakethana area became notorious for a series of mysterious killings and during the trial it transpired that the multiple murder was also connected to the first ever ‘serial killer’ reported in Sri Lanka.
+
+◼️
+
+[Data](articles/120a2e46.json)
 
 ---
 
@@ -1190,23 +1314,25 @@ The Minister was established with the appointment of the committee tomorrow (20)
 
 ---
 
-### ’ලිපි ඉල්ලුවට දෙන්නේ නෑ’
+### 'No to give letters to the request'
 
 *2024-02-19 13:23:23* · [`adalk`](https://www.ada.lk/breaking_news/’ලිපි-ඉල්ලුවට-දෙන්නේ-නෑ’/11-408171) · `si`
 
-2024 වර්ෂය සදහා 1, 5, 6 ශ්‍රේණිවලට සිසුන් ඇතුළත් කිරීමට අධ්‍යාපන අමාත්‍යාංශයෙන් ලිපි නිකුත් නොකෙරේ
+The Ministry of Education will not be issued to the Ministry of Education for the year 2024
 
-පාසල්වල පළමු ශ්‍රේණියට සිසුන් ඇතුළත් කිරීම සඳහා අධ්‍යාපන අමාත්‍යාංශය මගින් නිකුත් කර ඇති චක‍්‍රලේඛය අනුව පාසල් වෙත අයදුම්පත් යොමු කළ යුතු අතර විදුහල්පතිවරුන් විසින් සම්මුඛ පරීක්ෂණ පවත්වා සිසුන් ඇතුළත් කරගැනීම සිදු කරනු ලබන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Education has announced that applications have been issued by the Ministry of Education to the first grade of schools in schools.
 
-පාසල්වල හය වැනි ශ්‍රේණියට සිසුන් ඇතුළත් කිරීම පස් වැනි ශ්‍රේණියේ ශිෂ්‍යත්ව විභාගයේ ලකුණු මත පමණක් සිදු කරනු ලබන බවද අමාත්‍යාංශය දන්වා සිටිය.
+The Ministry has said that the admission of students to the sixth grade of schools will be carried out on the mark of the fifth Grade Fifth Scholarship Examination.
 
-2024 වර්ෂයේ 1, 5 සහ 6 ශ්‍රේණි හැර අනෙකුත් අතරමැදි පන්ති සඳහා අ.පො.ස. උසස් පෙළ ද ඇතුළුව සිසුන් ඇතුළත් කිරීමට ද අදාළ අයදුම්පත් පාසල් වෙත යොමු කළ යුතු අතර එම පාසල්වල පුරප්පාඩු පවතී නම් විදුහල්පතිවරුන් විසින් අධ්‍යාපන අමාත්‍යාංශ චක‍්‍රලේඛ ප‍්‍රකාර ව සම්මුඛ පරීක්ෂණ පවත්වා තෝරාගත් සිසුන්ගේ නාම ලේඛනය අනුමැතිය සඳහා අධ්‍යාපන අමාත්‍යාංශයට යොමු කරනු ඇත.
+GCE A GCE O / L classes other than 1, 5 and 6 in 2024. Applications should be forwarded to schools, including A / L students and will be referred to the Ministry of Education in accordance with the Ministry of Education.
 
-එසේ ම පාසල් සඳහා සිසුන් ඇතුළත් කිරීමේ ලිපි අධ්‍යාපන අමාත්‍යාංශය මගින් නිකුත් කරනු නොලබන බව ද අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+The Ministry of Education will not be issued by the Ministry of Education for schools.
 
 ◼️
 
 [Data](articles/3cb3c00c.json)
+
+[Extended Data](ext_articles/3cb3c00c.ext.json)
 
 ---
 
@@ -1889,143 +2015,5 @@ The relevant order was issued by the Colombo District Court on Monday (19 Jan.),
 [Data](articles/564ef687.json)
 
 [Extended Data](ext_articles/564ef687.ext.json)
-
----
-
-### Injunction issued preventing SJB from removing Sarath Fonseka from party and posts
-
-*2024-02-19 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97384/injunction-issued-preventing-sjb-from-removing-sarath-fonseka-from-party-and-posts) · `en`
-
-A court order has been issued preventing the Samagi Jana Balawegaya (SJB) from suspending Field Marshal Sarath Fonseka’s party membership and removing him from positions held within the party.
-
-Accordingly, the relevant injunction, effective for a period of 14 days, prevents the political party from ousting Field Marshal Fonseka from the SJB, taking disciplinary action against him and removing him from posts in the party.
-
-The relevant order was issued by the Colombo District Court on Monday (19 Jan.), upon consideration of a petition filed by Fonseka.
-
-The order was issued by Colombo District Judge Sandun Withana, against party leader Sajith Premadasa, SJB General Secretary Ranjith Maddumabandara, Treasurer Harsha de Silva and National Organiser Tissa Attanayake.
-
-...
-
-[Data](articles/ba216c72.json)
-
-[Extended Data](ext_articles/ba216c72.ext.json)
-
----
-
-### Enjoining order on Sarath Fonseka
-
-*2024-02-19 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193569) · `si`
-
-The Colombo District Court in Colombo District Court has issued an enjoining order preventing the party membership of the party membership, suspend and disciplinary action.
-
-The Weli Paramana, the leader of the Colombo District Judge Sandun Withana issued these enjoining orders after considering a petition filed by Sarath Fonseka.
-
-President's Counsel Faizer Mustapha appeared in the courts in contempt for the petitioner, the media had previously published that his client was preparing to take disciplinary action against his client.
-
-Sarath Fonseka had asked the court to issue disciplinary action against his party membership, preventing disciplinary action against his party membership and suspicion of post membership and resignation.
-
-◼️
-
-[Data](articles/5b239f46.json)
-
-[Extended Data](ext_articles/5b239f46.ext.json)
-
----
-
-### The family is not paid to buy drugs
-
-*2024-02-19 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176736) · `ta`
-
-He asked his sister and mother to buy drugs on Sunday (18) and made her life in a wrong decision because the householder did not pay for the house.
-
-Investigations have revealed that his wife Pillai is living away from him due to the use of drug use and family violence as the child is married at the age of 5 and is involved in family violence.
-
-◼️
-
-[Data](articles/d6128135.json)
-
-[Extended Data](ext_articles/d6128135.ext.json)
-
----
-
-### The present attempt to abolish the executive of the Executive - It is a conspiracy attempt - to defeat - JVP
-
-*2024-02-19 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176735) · `ta`
-
-The JVP said it would not support the existing efforts to eliminate the executive bureaucracy.
-
-The party has described its efforts to eliminate the executive bureaucracy as a conspiracy.
-
-However, the party said it would take steps to dismiss the executive president during the reign of the national people's power in the future.
-
-The party's parliamentarian Vijitherath, who has described the current efforts to abolish the executive bureaucratic system, said that it should be defeated.
-
-Vijitherath, who is currently trying to abolish the executive presidency, has not been able to carry out it despite sufficient time to advance the government of the government.
-
-He said that under the rule of the National People's Power, we will abolish the executive presidency, but we will not support it at present.
-
-◼️
-
-[Data](articles/454e95a6.json)
-
-[Extended Data](ext_articles/454e95a6.ext.json)
-
----
-
-### Fourth phase of Indian housing project for plantation sector workers inaugurated
-
-*2024-02-19 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97383/fourth-phase-of-indian-housing-project-for-plantation-sector-workers-inaugurated) · `en`
-
-A ceremony was held at the Presidential Secretariat on Monday (19 Feb.), to inaugurate a housing project financed by the Government of India to construct 10,000 houses for plantation sector workers.
-
-Accordingly, the fourth phase of India’s housing project in Sri Lanka’s plantation sector, named ‘Bharat-Lanka’, will entail building 1,300 houses across 45 estates in ten districts.
-
-President Ranil Wickremesinghe joined the event virtually with Indian High Commissioner Santosh Jha and Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman, the President’s Media Division (PMD) reported.
-
-The Head of State underscored the government’s commitment to safeguarding the economic and social rights of the upcountry Tamil community, and acknowleding their significant contribution to the nation’s economy, the President expressed intentions to unite political representatives from the upcountry, transcending party lines, to present collaborative proposals within the upcoming month.
-
-...
-
-[Data](articles/cbcc9159.json)
-
-[Extended Data](ext_articles/cbcc9159.ext.json)
-
----
-
-### 3 people injured in an accident, including foreign couple
-
-*2024-02-19 11:09:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-வெளிநாட்டு-தம்பதி-உட்பட-3-பேர்-காயம்/175-333430) · `ta`
-
-The car carrying a foreign couple to the Katunayake airport has crashed into a security fence near the entrance of Kotta.
-
-Three people, including a foreign couple, were injured, the Highway Tourism Police Department said.
-
-The Italian couple (76-78) and a 42-year-old driver from Bandalakam, Anuradhapura were injured.
-
-Foreign husband and wife have traveled to Katunayake Airport from Hikkaduwa area in Hikkaduwa area to finish their journey at around 9 pm last night.
-
-◼️
-
-[Data](articles/d39d4d3f.json)
-
-[Extended Data](ext_articles/d39d4d3f.ext.json)
-
----
-
-### Roundtable discussion on education technology in Sri Lanka
-
-*2024-02-19 11:05:00* · [`economynextcom`](https://economynext.com/roundtable-discussion-on-education-technology-in-sri-lanka-151447/) · `en`
-
-ECONOMYNEXT – A roundtable discussion on “Ed-tech towards achieving SDGs”, organized by the Institute of Policy Studies of Sri Lanka, Southern Voice, and Peru’s Group for the Analysis of Development (GRADE) will take place on February 27, from 2.30-3.30 pm.
-
-“Amid the accelerated use of education technology (Ed-tech) since the COVID-19 pandemic, a crucial focus is placed on ensuring that Ed-tech contributes to the attainment of Sustainable Development Goal (SDG) 4 ‘Quality Education’, is accessible to all, and does not create nor widen existing inequalities in education,” IPS said in a statement.
-
-“The hybrid roundtable discussion aims to facilitate a conversation among regional-level implementing agencies, policymakers, and other relevant stakeholders to influence policies that support the effective and efficient use of Ed-tech across Asia and the Middle East and North Africa (MENA) in the future.”
-
-...
-
-[Data](articles/1d47adc7.json)
-
-[Extended Data](ext_articles/1d47adc7.ext.json)
 
 ---

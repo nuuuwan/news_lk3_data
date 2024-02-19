@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 00:33:16**
+As of **2024-02-20 00:47:56**
 
 ## Newspaper Stats
 
-*Scraped **8,096** Articles*
+*Scraped **8,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,111 @@ dbsjeyarajcom | 154
 newsfirstlk | 363
 economynextcom | 419
 islandlk | 422
-dailyftlk | 434
+dailyftlk | 435
 adalk | 693
 tamilmirrorlk | 983
 adaderanalk | 986
-virakesarilk | 1,082
+virakesarilk | 1,084
 adaderanasinhalalk | 1,180
-dailymirrorlk | 1,191
+dailymirrorlk | 1,197
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,096 (100.0%) of 8,096 articles have been extended.
+8,096 (99.9%) of 8,105 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-02-20 (Tuesday)
+
+### தீவில் சிக்கித் தவிக்கும் இலங்கை புகலிடக் கோரிக்கையாளர்கள்: அவசர இடமாற்றத்திற்கு கோரிக்கை
+
+*2024-02-20 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176807) · `ta`
+
+தனிமைப்படுத்தப்பட்ட பிரித்தானியாவுக்கு சொந்தமான தீவில் தங்கவைக்கப்பட்டுள்ள, தமிழ் புகலிடக் கோரிக்கையாளர்கள் குழு, தாங்கள் பாதுகாப்பற்றதாகவும் மறக்கப்பட்டதாகவும் உணர்வதாகத் தெரிவித்துள்ளதோடு, பாலியல் துஷ்பிரயோகங்களை எதிர்கொள்வதாகவும் தெரிவித்துள்ளனர்.
+
+சிறுவர் துன்புறுத்தல் மற்றும் தங்களுக்குள்ளேயே காயங்களை ஏற்படுத்தி தற்கொலைக்கு முயற்சிப்பது குறித்தும், இந்தியப் பெருங்கடல் தீவான டியாகோ கார்சியாவில் (Diego Garcia) இரண்டு வருடங்களுக்கு மேலாகச் சிக்கித் தவிக்கும் இலங்கைத் தமிழ் புகலிடக் கோரிக்கையாளர்கள் ஐக்கிய நாடுகள் புலனாய்வாளர்களிடம் பகிர்ந்துகொண்டுள்ளனர்.
+
+ஐக்கிய நாடுகள் அகதிகள் முகவர் அமைப்பின் அதிகாரிகள் குறித்த புகலிடக் கோரிக்கையாளர்களின் நிலைமை குறித்து ஆராய்வதற்காக டியாகோ கார்சியாவிற்கு சென்றுள்ளனர்.
+
+புகலிடக் கோரிக்கையாளர்கள் டியாகோ கார்சியாவை 2021 ஒக்டோபரில் வந்தடைந்ததோடு, புகலிடம் கோரி கனடா செல்லும் வழியில் தமது படகு பழுதடைந்தமையால் அவர்கள் இந்த தீவை வந்தடைந்ததாக தெரிவிக்கப்படுகின்றது.
+
+...
+
+[Data](articles/2377dc89.json)
+
+---
+
+### Scrapping the Executive Presidency; Hypocrisy to the Core
+
+*2024-02-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Scrapping-the-Executive-Presidency-Hypocrisy-to-the-Core/172-277345) · `en`
+
+Media reports state that the government is considering the abolition of the Executive Presidency instead of holding the next Presidential election which is constitutionally scheduled to be conducted later this year - between September 18 and October 18.
+
+One website quoted former President Maithripala Sirisena as stating that President Ranil Wickremesinghe has tasked a group of lawyers with looking into the abolition of the Executive Presidency. According to the report, the former President, speaking at an event in Wennappuwa on February 11th had said that the group of lawyers is led in this move by former Speaker and the head of the National Movement for a Just Society, Karu Jayasuriya.
+
+...
+
+[Data](articles/a3271e51.json)
+
+---
+
+### The Judicial Power of the People and a ‘Presidential Interpretation’  of our Constitution
+
+*2024-02-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Judicial-Power-of-the-People-and-a-Presidential-Interpretation-of-our-Constitution/172-277340) · `en`
+
+President Wickremesinghe is aware that in 2018, the Supreme Court, in a seven bench decision, decided that former President Sirisena had acted arbitrarily and unconstitutionally by dissolving Parliament prematurely. Consequently, Wickremesinghe was restored to the office of Prime Minister. Therefore, it is evident that the President cannot seek unquestioning loyalty to himself from all public officials and institutions in the exercise of what he personally considers are his powers and responsibilities.
+
+“Since 1972 this country has known no Monarch, and the President has not inherited that mantle.
+
+All his powers are limited by the provisions of the Constitution.”
+
+The Friday Forum, an informal group of concerned citizens pledged to uphold the norms of Democracy, Good Governance, the Rule of Law, Human Rights, Media Freedom and Tolerance raised concerns on the Presidential Secretariat’s interpretation of Presidential powers.
+
+...
+
+[Data](articles/aef8d313.json)
+
+---
+
+### Abu Dhabi heralds Era of Religious Accommodation in Islamic West Asia
+
+*2024-02-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Abu-Dhabi-heralds-Era-of-Religious-Accommodation-in-Islamic-West-Asia/172-277346) · `en`
+
+Due to the demographic changes brought about by economic growth, the Islamic United Arab Emirates (UAE) is beginning to shed its traditional objection to the public practice of other religions, especially idol worship.
+
+On February 14, Abu Dhabi heralded a new era of religious accommodation by allowing Hindus, a very large community of expatriates from India, to build a grand temple. Significantly, the land for it was donated by the UAE government. This could well be a harbinger of religious tolerance in Muslim-majority West Asia.
+
+A few Hindu temples had come up in the past, with one even dating back to 1817, but the newest and the grandest of them all is the one which was consecrated on February 14 by Indian Prime Minister Narendra Modi in Abu Dhabi, a constituent of the UAE.
+
+The UAE has 3.5 million Indians, the majority of whom are Hindus. Indian immigrants, who make up 30% of the UAE’s population, are the single largest ethnic community in the UAE.
+
+...
+
+[Data](articles/b9c050bb.json)
+
+---
+
 ### 2024-02-19 (Monday)
+
+### Handling of electricity tariff consultation inappropriate, unacceptable: Janaka Ratnayaka
+
+*2024-02-19 23:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Handling-of-electricity-tariff-consultation-inappropriate-unacceptable-Janaka-Ratnayaka/108-277347) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - The way that the present chairman of the Public Utilities Commission of Sri Lanka (PUCSL) conducted the affairs of the public consultation regarding the electricity tariff revision was not appropriate and unacceptable at all, former PUCSL chairman Janaka Ratnayaka said.
+
+"The manner in which the current chairman of the Public Utilities Commission of Sri Lanka (PUCSL) handled the public consultation on the revision of electricity tariffs was inappropriate and entirely unacceptable," he said.
+
+The public consultation regarding the electricity tariff revision was conducted on February 15 by the PUCSL at the Bandaranaike Memorial International Conferance Hall (BMICH).
+
+Addressing the media, Ratnayake described that the PUCSL was set up to look into the welfare of the public, as its name implies.
+
+...
+
+[Data](articles/53051f8f.json)
+
+---
 
 ### Sri Lanka captured the series
 
@@ -49,6 +137,40 @@ Accordingly, the Sri Lankan team won the three-match series 2-0. Remble
 [Data](articles/ee4ce4c4.json)
 
 [Extended Data](ext_articles/ee4ce4c4.ext.json)
+
+---
+
+### இலங்கைக்கு இலகு வெற்றி: ரி20இல் ஹசரங்க 100 விக்கெட்கள், சகலதுறைகளில் மெத்யூஸ் பிரகாசிப்பு
+
+*2024-02-19 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176806) · `ta`
+
+ஆப்கானிஸ்தானுக்கு எதிராக ரங்கிரி, தம்புள்ளை சர்வதேச விளையாட்டரங்கில் இன்று திங்கட்கிழமை (19) நடைபெற்ற இரண்டாவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் சகலதுறைகளிலும் அபரிமிதமாக பிரகாசித்த இலங்கை 72 ஓட்டங்களால் மிக இலகுவாக வெற்றிபெற்றது.
+
+இந்த வெற்றியுடன் இரண்டு நாடுகளுக்கும் இடையிலான வரலாற்று முக்கியம்வாய்ந்த முதுலாவது ரி20 கிரிக்கெட் தொடரில் ஒரு போட்டி மீதம் இருக்க இப்போதைக்கு 2 - 0 என்ற ஆட்டக் கணக்கில் இலங்கை முன்னிலை அடைந்து தொடரைக் தனதாக்கிக்கொண்டது.
+
+இந்தப் போட்டியில் ஆப்கானிஸ்தான் வீரர் நஜிபுல்லா ஸத்ரானின் விக்கெட்டை நேரடியாகப் பதம் பார்த்த வனிந்து ஹசரங்க தனது 63ஆவது போட்டியில் 100ஆவது விக்கெட்டைக் கைப்பற்றினார். மேலும் ஒரு விக்கெட்டை இந்தப் போட்டியில் கைப்பற்றிய அவர் 101 விக்கெட்களை மொத்தமாக வீழ்த்தியுள்ளார்.
+
+ஆப்கன் சுழல்பந்துவீச்சு நட்சத்திரம் ரஷீத் கானுக்கு அடுத்ததாக அதிவேகமாக (குறைந்த போட்டிகள்) 100 விக்கெட்களை வீழ்த்தியவர் ஹசரங்க ஆவார். ரஷீத் கான் 53 போட்டிகளில் இந்த மைல்கல்லை எட்டியிருந்தார்.
+
+...
+
+[Data](articles/643646b8.json)
+
+---
+
+### Protecting the farmer is protecting the food security
+
+*2024-02-19 23:02:18* · [`dailyftlk`](https://www.ft.lk/columns/Protecting-the-farmer-is-protecting-the-food-security/4-758647) · `en`
+
+We are not too late to bring this time-tested system home to protect both the farmer and the food security
+
+Establishing a local futures exchange would mitigate problems of paddy farmers and political problems propelling out of falling market prices of paddy during harvesting time. Such a futures market could be used for all agricultural products not only to stabilise the prices but also to provide greater liquidity for the producer
+
+Farmers face two main types of risks: production risk and price risk. The risk of production, or risk of return, concerns events of chance origin, related to the nature, to which the producers are exposed. These shocks are linked to either rainfall and climatic variations, invasions of insects, or the occurrence of diseases. Price risk due to price volatility refers to unexpected price fluctuations that are so large and rapid that it becomes impossible to meet expectations.
+
+...
+
+[Data](articles/6440476d.json)
 
 ---
 
@@ -72,6 +194,18 @@ Afghan player Rashid Khan topped the list with a hundred wickets in 53 matches.
 
 ---
 
+### Ganagarama Mal Perahera...
+
+*2024-02-19 22:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ganagarama-Mal-Perahera/110-277333) · `en`
+
+A floral procession (Mal Perahera) was held this evening at the Ganagarama Temple in Colombo. Annual Navam Perahera will be held in Colombo on February 22nd and 23rd 2024. Pix by Pradeep Pathirana.
+
+◼️
+
+[Data](articles/79236b81.json)
+
+---
+
 ### Foreign Minister highlights disproportionate impact of climate change on countries in global south
 
 *2024-02-19 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97396/foreign-minister-highlights-disproportionate-impact-of-climate-change-on-countries-in-global-south) · `en`
@@ -89,6 +223,24 @@ He also shared Sri Lanka’s commitments including the COP28 and at regional and
 [Data](articles/f3d297d2.json)
 
 [Extended Data](ext_articles/f3d297d2.ext.json)
+
+---
+
+### Sri Lanka must have legal framework before adopting nuclear energy projects: IAEA expert
+
+*2024-02-19 22:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-must-have-legal-framework-before-adopting-nuclear-energy-projects-IAEA-expert/108-277344) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - If Sri Lanka is to adopt a nuclear energy generating project, then the country should first have a firm legal framework in place, was the opinion of an international atomic energy expert.
+
+He said there are numerous factors to be considered when taking up a nuclear energy project in a country and the first is to establish a firm legal background.
+
+International Atomic Energy Agency (IAEA) consultant and expert on nuclear energy Dr. Halil Avci said this while addressing a special forum of local environment authorities and atomic energy officials last week, a spokesperson from the Central Environment Authority (CEA) told the Daily Mirror.
+
+“A country has to first decide whether it is to adopt nuclear power generation projects and consider various environment and other factors. But if they do then there should be a firm legal background,” Avci said.
+
+...
+
+[Data](articles/5ee98e38.json)
 
 ---
 
@@ -1855,199 +2007,5 @@ Dongyu is leading a delegation from FAO headquarters in Rome to attend the 37th 
 [Data](articles/288b389b.json)
 
 [Extended Data](ext_articles/288b389b.ext.json)
-
----
-
-### Yall. Struggle to protest against the appointment of female principal for central college
-
-*2024-02-19 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176754) · `ta`
-
-A protest march was launched on Monday (19) in protest of the appointment of a new female principal to the Central College of Jaffna.
-
-The struggle was carried out in a manner that did not affect the educational activities of the students in front of the college.
-
-The protesters said that a traditional men who have over 208 years have been objected to the appointment of a female principal for the first time.
-
-Students, alumni and parents have said that S. Indrakumar, who acted as the principal of the college, will be re -appointed.
-
-Older students have said that Douglas Devananda, the Minister of Fisheries and the alumni of the college, has promised to find a right solution to the problem.
-
-◼️
-
-[Data](articles/be914620.json)
-
-[Extended Data](ext_articles/be914620.ext.json)
-
----
-
-### Planning to boycott Indian fishermen kachchativu
-
-*2024-02-19 13:54:38* · [`adalk`](https://www.ada.lk/breaking_news/කච්චතිව්-මංගල්‍ය-ඉන්දීය-ධීවරයින්-වර්ජනය-කිරීමේ-සූදානමක්/11-408174) · `si`
-
-Fishermen say Roshwaran has a plan to attend the annual fishermen for the annual wife in Kachchativu Island, Jaffna.
-
-The Tamil Nadu fishermen who were arrested recently recently and a group of Mihwaran fishermen have left their fishing activities, requesting to release the car in the area.
-
-Fishermen expressed their protest by displaying 300 fishing vessels at the Fisheries Harbor, supporting the fishermen involved in the protest.
-
-The Indian fishermen continue to be arrested by the Sri Lankan fishermen and resorted to the family of the fishermen as they are imprisoned to the families of the fishermen, as they are imprisoned to the families of the fishermen.
-
-If the fishermen will not participate in the Kachchativu annual service of the Kachchativu on 23 and 24, if the fishermen will not participate in the 23rd and 24th of this month.
-
-◼️
-
-[Data](articles/fab4c61c.json)
-
-[Extended Data](ext_articles/fab4c61c.ext.json)
-
----
-
-### Going to go - Dr. Bellana
-
-*2024-02-19 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193575) · `si`
-
-Dr. Rukshan Bellana says he is ready to quit the Deputy Director of the National Hospital without hesitation.
-
-The Ada Derana asked him, "Today, Ada Derana asked him to report that the Public Service Commission has been transferred by the Public Service Commission.
-
-He said he had been transferred to the Beruwala Hospital and the approval of the Public Service Commission.
-
-However, the doctor said that it was not working, some people of the Ministry of Health were ready to activate the transfers once again.
-
-However, the Deputy Director added that he has not received any transfer.
-
-Meanwhile, interviews were conducted in the senior medical administrative service and Dr. Rukshan Bellana too had also participated.
-
-However, a decision is due to be decided by Dr. Rukshan Bellana today (19).
-
-Meanwhile, the Hospital Junior Staff is still engaged in protest campaigns protest against the conduct of Dr. Rukshan Bellana.
-
-◼️
-
-[Data](articles/1e3260e7.json)
-
-[Extended Data](ext_articles/1e3260e7.ext.json)
-
----
-
-### Bharat Lanka 10,000 Housing Project;The foundation stone for 30 houses at the Nuwara Eliya Scrub Estate
-
-*2024-02-19 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176744) · `ta`
-
-The foundation stone for 30 houses was held this morning (19) at the Nuwara Eliya Scrub Estate in collaboration with the National Program of the Bharat Lanka 10,000 Housing Project.
-
-It is proposed to construct ten thousand houses nationwide under the Bharat Lanka Housing Scheme, which is funded by the Government of India.
-
-As a part of the Nuwara Eliya Scrub Estate, the foundation stone for the Thirty Families Housing Scheme, which is located in temporary houses, was held at the Skrappa Garden this morning under the leadership of Vinod G and Attorney -at -Law Shiv Thondaman, Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure.
-
-The housing scheme is being implemented all over the country under the guidance of Sri Lankan President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi, with the financial support of the Indian government.
-
-◼️
-
-[Data](articles/60d717aa.json)
-
-[Extended Data](ext_articles/60d717aa.ext.json)
-
----
-
-### Dr. Bellana Investigation into Dr. Bellana: Minister Ramesh Pathirana
-
-*2024-02-19 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176752) · `ta`
-
-Health Minister Ramesh Pathirana said that the Deputy Director of the National Hospital, Dr. Rukshan Bellana, will be investigated.
-
-The Minister of Health has issued a directive to the Secretary of the Ministry of Health, Dr. Palitha Maibala, to investigate the matter.
-
-Health Service Celebrities staged a protest this morning (19) demanding the removal of Dr. Rukshan Bellana from the post of Deputy Director of the National Hospital.
-
-◼️
-
-[Data](articles/65224a17.json)
-
-[Extended Data](ext_articles/65224a17.ext.json)
-
----
-
-### Minister Harin should be sentenced to death
-
-*2024-02-19 13:44:14* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-හරින්ට-මරණ-දඬුවම-දිය-යුතුයි---උදය/11-408173) · `si`
-
-Udaya Gammanpila was presenting a media briefing today that Harin Fernando went to India and violated the sovereignty and independence of Sri Lanka directly.
-
-This statement is a violation of the oath of violating the constitution before the appointment is being appointed.Accordingly, the Minister is still disqualified to bear the post of Minister.On the other hand, it is an act of Rajasonro to address another country.Rajadro is betraying his kingdom, not the betrayal of a king.
-
-The sentence sentenced to the treatment of dutmation of the Penal Code is sentenced to death.Simply, the Minister has been made by the death penalty.
-
-◼️
-
-[Data](articles/2027eaa3.json)
-
-[Extended Data](ext_articles/2027eaa3.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-19 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176751) · `ta`
-
-The US dollar purchasing price was Rs 307.4708 and the sales price were 317.72903 based on the currency exchange rate released by the Central Bank on Monday (February 19).
-
-◼️
-
-[Data](articles/aad4b4e0.json)
-
-[Extended Data](ext_articles/aad4b4e0.ext.json)
-
----
-
-### Sri Lanka Cricket Ticketing London expresses worrying
-
-*2024-02-19 13:43:42* · [`adalk`](https://www.ada.lk/breaking_news/’ශ්‍රී-ලංකා-ක්‍රිකට්-නො-ටිකට්’-ලන්ඩන්-යුවලක්-කනස්සල්ල-පළකරයි/11-408172) · `si`
-
-A large number of rolles came to see that the Tickets were finalized to visit the Twenty20 match between Sri Lanka and Afghanistan.There was a warm situation in that place.
-
-Dambulla Assistant Superintendent of Police Tired to control the group to deploy a special police team to control the situation.
-
-A polly-in-age British couple in the place to buy tickets for the search for the cricket match, we were able to obtain a victory view of 'Sri Lanka Cricket' Tickets'
-
-The couple had to declare that the couple had come to watch the match and was unable to say that they could not buy a ticket.
-
-Residents said that a team remain in front of the Dambulla Stadium Rs. 2,000 and Rs.
-
-However, a large number of sports fans from the queue of the Dambulla Divisional Secretariat Building have been reduced to four tickets from the queue, with a hot situation, the main gate of the local secretariat is collapsing and entering the local secretariat.There was a warm situation '
-
-...
-
-[Data](articles/3384b989.json)
-
-[Extended Data](ext_articles/3384b989.ext.json)
-
----
-
-### Lecoils of Pitipinations: What is the dispute between the ards and fishermen of Colombo?
-
-*2024-02-19 13:42:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgrl3764p34o) · `si`
-
-Lecoils of Pitipinations: What is the dispute between the ards and fishermen of Colombo?
-
-From the very beginning of the Catholicism, there is a spiritual bond with fishermen.
-
-A group of Pitchana fishermen in Negombo on February 19, the Catholic Church accused the Catholic Church attempting to take over the wheel.
-
-The fishermen were the fishermen representatives in Colombo and handed over their problems.
-
-The Archbishop of Colombo then protested against the ownership of the fishing hustaining ownership.
-
-In 2008, the Archbishop Oswald Gomis returns filed against the United Fisheries Society Pitiplied to the United Fisheries Society.
-
-The land was to be ordered to be ordered to be the administration of the Archbishop owners in Colombo and to be guarded and to restore the land and the backdrop of Colombo.
-
-According to the request, the Negombo District Court has ordered the administration and management of the Negombo District Court to handle the laboratory and management.
-
-...
-
-[Data](articles/2ef9b55a.json)
-
-[Extended Data](ext_articles/2ef9b55a.ext.json)
 
 ---

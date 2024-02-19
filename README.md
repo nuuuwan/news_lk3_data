@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 10:02:32**
+As of **2024-02-19 10:17:32**
 
 ## Newspaper Stats
 
-*Scraped **7,931** Articles*
+*Scraped **7,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ economynextcom | 406
 islandlk | 420
 dailyftlk | 434
 adalk | 672
-tamilmirrorlk | 962
+tamilmirrorlk | 965
 adaderanalk | 970
 virakesarilk | 1,045
-adaderanasinhalalk | 1,152
+adaderanasinhalalk | 1,153
 dailymirrorlk | 1,166
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,931 (100.0%) of 7,931 articles have been extended.
+7,931 (99.9%) of 7,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### ගෝත්‍රික ගැටුම් ජීවිත රැසක් අහිමි කරයි
+
+*2024-02-19 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193566) · `si`
+
+ඒ හේතුවෙන් ගෙවුණු සති අන්තයේදී පුද්ගලයින් 64 දෙනෙකු වෙඩි වැදී ඝාතනයට ලක්ව ඇති බව වාර්තා විය.
+
+පැපුවා නිව්ගිනි රාජ්‍යයේ කඳුකර කලාපයක ගෝත්‍රික කණ්ඩායම් අතර සිදුවූ ප්‍රචණ්ඩ ක්‍රියාවලින් බව වැඩිදුරටත් සඳහන් වේ.
+
+ගෙවුණු සති අන්තය තුළ එන්ගා ප්‍රාන්තයේ සිදුවූ මෙම ප්‍රචණ්ඩක්‍රියා සඳහා ගෝත්‍රික කණ්ඩායම් 17ක් පමණ සම්බන්ධ බවට විදෙස් මාධ්‍ය පවසයි.
+
+ගෝත්‍රික කණ්ඩායම් මෙලෙස සටන් වදින්නේ ඉඩම් සහ ධනය බෙදාගැනීමේ අපේක්ෂාවෙනි.
+
+ගෙවුණු වසරේ ජූලි මාසයේදී ද මෙහි ගැටුම් උග්‍ර වූ අතර ඒ හේතුවෙන් මාස තුනක් කලාපය මුළුමනින්ම වසාදැමීමට බලධාරීන් කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/1870c664.json)
+
+---
+
+### முதலாம் தவணை இன்று ஆரம்பம்
+
+*2024-02-19 09:46:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாம்-தவணை-இன்று-ஆரம்பம்/175-333425) · `ta`
+
+அரச பாடசாலைகள் மற்றும் அரச தனியார் பாடசாலைகளின் 2024ஆம் ஆண்டு கல்வி நடவடிக்கைகளுக்கான முதலாம் தவணை இன்று (19) ஆரம்பமாகியது.
+
+இதற்கமைய, 2023ஆம் ஆண்டுக்கான 3ஆம் தவணை விடுமுறை டிசம்பர் 22ஆம் தகதி முதல் பெப்ரவரி 02ஆம் திகதி வரை வழங்கப்பட்டிருந்தது.
+
+அத்துடன், கொவிட் தொற்று பரவல் காரணமாக மாற்றமடைந்த பாடசாலை தவணை முறைகளை, 2025ஆம் ஆண்டு முதல் சீரமைக்க கல்வி அமைச்சு நடவடிக்கைகளை எடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8293a61d.json)
+
+---
+
+### சுகாதார ஊழியர்களின் வேலை நிறுத்தம்; இன்று இறுதி முடிவு
+
+*2024-02-19 09:45:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்களின்-வேலை-நிறுத்தம்-இன்று-இறுதி-முடிவு/175-333424) · `ta`
+
+கொடுப்பனவு பிரச்சினையை முன்வைத்து பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ள சுகாதார தொழிற்சங்கங்கள் இன்று (19) சுகாதார அமைச்சர் டொக்டர் ரமேஷ் பத்திரனவுடன் கலந்துரையாடல் ஒன்றை மேற்கொள்ளவுள்ளனர்.
+
+இது தொடர்பான கலந்துரையாடல் இன்று காலை 10.00 மணிக்கு நடைபெறவுள்ளதாக சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பு தெரிவித்துள்ளது.
+
+அண்மையில், வைத்தியர்களுக்கு மாத்திரம் கொடுப்பனவுகள் அதிகரிக்கப்பட்டமைக்கு எதிர்ப்புத் தெரிவித்து சுகாதார சேவையில் உள்ள 72 தொழிற்சங்கங்கள் பணிப்புறக்கணிப்பில் ஈடுபட்டதுடன், சுகாதார அமைச்சருடன் பேச்சு வார்த்தை நடத்துவதாக எழுத்துமூலமான உறுதிமொழியின் பேரில் அவர்கள் வேலை நிறுத்தத்தை தற்காலிகமாக இடைநிறுத்தியிருந்தனர்.
+
+சுகாதார அமைச்சர் டொக்டர் ரமேஷ் பத்திரனவுடனான கலந்துரையாடலில் தமது பிரச்சினைகளுக்கு தீர்வு கிடைக்காவிடின் மீண்டும் பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளதாக சுகாதார தொழிற்சங்க கூட்டமைப்பின் ஒருங்கிணைப்பாளர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/25c1581a.json)
+
+---
+
+### இரண்டாவது டி20 போட்டி இன்று
+
+*2024-02-19 09:35:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இரண்டாவது-டி20-போட்டி-இன்று/44-333423) · `ta`
+
+இலங்கை மற்றும் ஆப்கானிஸ்தான்  அணிகள் மோதும் 2ஆவது டி20 போட்டி இன்று இடம்பெறவுள்ளது.
+
+இரு நாடுகளுக்கும் இடையிலான முதலாவது டி20 போட்டியில் இலங்கை அணி 4 ஓட்டங்களால் வெற்றி பெற்ற நிலையில்,
+
+இதேவேளை,  இரண்டாவது மற்றும் மூன்றாவது T20 போட்டிகளுக்கான அனைத்து டிக்கெட்டுகளும் விற்பனை செய்யப்பட்டுள்ளதாக இலங்கை கிரிக்கெட் நிறுவனம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/89fc31e7.json)
+
+---
 
 ### Sri Lanka, India set to conclude ETCA in April
 
@@ -1993,101 +2063,5 @@ Heavy weapons have been taken to police in the housing sources and the foundatio
 [Data](articles/aa6d1f75.json)
 
 [Extended Data](ext_articles/aa6d1f75.ext.json)
-
----
-
-### House of a High Court Judge breaks thieves
-
-*2024-02-18 17:54:15* · [`adalk`](https://www.ada.lk/breaking_news/මහාධිකරණ-විනිසුරුවරයෙකුගේ-නිවස-සොරු-බිඳියි/11-408155) · `si`
-
-The Kirulapone Police say that the two storied house was stolen at the two storied judges of the Civil Court of Civil Court of Civil Court of Civil Court of Civil Court of Appeal.
-
-A Blanchi type of bicycling of Rs.
-
-The High Court Judge said that the theft had taken place during the 14th and 16th of this month.Kirulapone police are conducting further investigations
-
-◼️
-
-[Data](articles/242aebc9.json)
-
-[Extended Data](ext_articles/242aebc9.ext.json)
-
----
-
-### Kandy teacher remanded
-
-*2024-02-18 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193548) · `si`
-
-A schoolure of the school was arrested on suspicion of sex and naked footprints of the school to teach IT-in-school in the Kandy oil zone of the school.
-
-The teacher had come to the IT and a complaint with the Penadeniya police that the teacher had taken him to the IT room and showed naked photos on the 7th and 9..
-
-The suspect teacher was later assured after the police seized the relevant laptop and was arrested and presented to the Teldeniya Court.
-
-The suspect teacher has been remanded till tomorrow (19).
-
-The 53-year-old teacher was a 53-year-old teacher who was involved in the school.
-
-Investigations carried out regarding the complaint revealed that the suspect teacher had taken another 12-year-old student to a jungle near the Principal Hostel.
-
-The student's mother had told the police that the student's hand was in the ground.
-
-The agricultural school student has been admitted to the Teldeniya hospital for a medical examination and the Teldeniya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/051b94b5.json)
-
-[Extended Data](ext_articles/051b94b5.ext.json)
-
----
-
-### Special operation to mark two months of justice
-
-*2024-02-18 17:36:18* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තියට-මාස-දෙකක්-පිරීම-නිමිත්තෙන්-විශේෂ-මෙහෙයුමක්/11-408154) · `si`
-
-The police headquarters said that the special search coverage of all police divisions in the Western Province to mark the operation of justice.
-
-11 traffic vehicles and five suspects have been arrested in the operation.
-
-Police have also seized 111 grams of ice with heroin with 112 grams of ice with 16 grams of ice.
-
-Furthermore, six swords, two banned knives, a Kinica and one in Mannar.
-
-Acting to the instructions of acting IGP, Acting Inspector General of Police (IGP) was carried out yesterday (18) at the instructions of Acting Inspector General of Police (18).
-
-In the Western Province, there were a search operations covering all police areas in the Western Province, and special attention to the arrest of drug traffickers and drug addicts
-
-A total of 1,2112 police officers and 2112 police officers have been deployed for the search operation.
-
-◼️
-
-[Data](articles/ef71cc07.json)
-
-[Extended Data](ext_articles/ef71cc07.ext.json)
-
----
-
-### A group of Sri Pada pilgrims injured in Ginigathena accident
-
-*2024-02-18 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193547) · `si`
-
-Ten persons were injured in an accident with a van and a bus carrying a group of people in Sri Pada pilgrimage.
-
-The accident had occurred at the Hatton-Colombo main road today (18).
-
-The victims were a van that had been taken from the Gampaha area and a bus from the Matara area.
-
-Two seriously injured have been transferred to the Navalapitiya Hospital.
-
-The accident had occurred when trying to pass a lorry traveled by the van.
-
-The van and the bus has been severely damaged, and the Ginigathena Police are conducting further investigations.
-
-◼️
-
-[Data](articles/05bc7e19.json)
-
-[Extended Data](ext_articles/05bc7e19.ext.json)
 
 ---

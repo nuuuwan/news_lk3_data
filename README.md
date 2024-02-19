@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 08:17:25**
+As of **2024-02-19 08:32:52**
 
 ## Newspaper Stats
 
-*Scraped **7,912** Articles*
+*Scraped **7,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 420
 dailyftlk | 434
 adalk | 670
 tamilmirrorlk | 957
-adaderanalk | 969
+adaderanalk | 970
 virakesarilk | 1,045
 adaderanasinhalalk | 1,145
 dailymirrorlk | 1,164
@@ -26,11 +26,29 @@ dailymirrorlk | 1,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,912 (100.0%) of 7,912 articles have been extended.
+7,912 (100.0%) of 7,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### TN Police intercept cannabis consignment bound for Sri Lanka, three held
+
+*2024-02-19 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97380/tn-police-intercept-cannabis-consignment-bound-for-sri-lanka-three-held) · `en`
+
+With the arrest of three people from Nagapattinam district, Tamil Nadu Police on Sunday claimed to have seized over 364 kg of ganja which was meant to be smuggled to Sri Lanka.
+
+The arrested persons have been identified as K. Sathiyaseelan (37) who hails from Velankanni, M. Mahendran (38) from Naluvedhapathi and T. Sugumar (29) of Pushpavanam.
+
+Nagapattinam Superintendent of Police, Harsh Singh told IANS that the accused were planning to smuggle ganja to Sri Lanka through the sea route using the fibre glass boat that was seized.
+
+Vettaikaraniruppu Police have registered a case against the three accused under the Narcotic Drugs and Psychotropic Substances (NDPS) Act.
+
+◼️
+
+[Data](articles/a6d0c40c.json)
+
+---
 
 ### Showers expected in parts of the country
 
@@ -2047,27 +2065,5 @@ The suspect has also come to a hidden monk to hide me and save me to hide me, "t
 [Data](articles/af1095d7.json)
 
 [Extended Data](ext_articles/af1095d7.ext.json)
-
----
-
-### Tickets of the Twenty20 final
-
-*2024-02-18 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193543) · `si`
-
-Sri Lanka Cricket said all the tickets of the Twenty20 cricket match between Sri Lanka and Afghanistan have been constructed.
-
-Sri Lanka Cricket urges people to avoid further tickets at home cabins.
-
-Tests have also been closed down due to the end of the tickets, Dambulla and Colombo.
-
-Sri Lanka Cricket said that 18,000 audience visited the first Twenty Twenty match between Sri Lanka and Afghanistan.
-
-Accordingly, the second Twenty Twenty Twenty Twenty-Twenty-Twenty-Twenty-Twenty 19th and Third T20 match will be held on the 21st tomorrow at Dambulla International Cricket Stadium.
-
-◼️
-
-[Data](articles/e7596af3.json)
-
-[Extended Data](ext_articles/e7596af3.ext.json)
 
 ---

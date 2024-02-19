@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 04:17:32**
+As of **2024-02-20 04:32:50**
 
 ## Newspaper Stats
 
-*Scraped **8,122** Articles*
+*Scraped **8,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 419
 islandlk | 422
 dailyftlk | 443
 adalk | 693
-tamilmirrorlk | 983
+tamilmirrorlk | 984
 adaderanalk | 987
 virakesarilk | 1,091
 adaderanasinhalalk | 1,180
@@ -26,11 +26,27 @@ dailymirrorlk | 1,198
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,122 (100.0%) of 8,122 articles have been extended.
+8,122 (100.0%) of 8,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### ’பாரத்-லங்கா’ ஜனாதிபதி தலைமையில் அங்குரார்ப்பணம்
+
+*2024-02-20 03:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரத்-லங்கா-ஜனாதிபதி-தலைமையில்-அங்குரார்ப்பணம்/175-333485) · `ta`
+
+இந்திய அரசாங்கத்தின் நிதி உதவியின் கீழ் தோட்டத் தொழிலாளர்களுக்காக 10 ஆயிரம் வீடுகளை நிர்மாணிக்கும் ‘பாரத் - லங்கா’ வீடமைப்புத் திட்டத்தின் நான்காம் கட்டம் ஜனாதிபதி அலுவலகத்தில் இருந்து நேற்று ஒன்லைன் ஊடாக அங்குரார்ப்பணம் செய்யப்பட்டது.
+
+'பாரத் -லங்கா' வீடமைப்புத் திட்டத்தின் நான்காம் கட்டத்தின் கீழ் 10 மாவட்டங்களில், 45 தோட்டங்களில், 1300 வீடுகளை நிர்மாணிப்பதற்கு அடிக்கல் நாட்டும் வகையில் ஒன்லைன் ஊடாக நினைவுப் பலகை திறந்து வைக்கப்பட்டது.
+
+இந்த நிகழ்வில் ஜனாதிபதி ரணில் விக்கிரமசிங்க, நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் மற்றும் இலங்கை இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா ஆகியோர் இணைந்து கொண்டனர். (a)
+
+◼️
+
+[Data](articles/c23180d7.json)
+
+---
 
 ### Sen at the end of Oxford President's Bowl Soccer. Thomasus, Hamid al -Husaini
 
@@ -2029,23 +2045,5 @@ Police OIC Chief Inspector General of Police Chief Inspector Kapupuduwa, Chief I
 [Data](articles/d6ab6b33.json)
 
 [Extended Data](ext_articles/d6ab6b33.ext.json)
-
----
-
-### Sri Lanka opposition MPs trying to bring Sajith, Ranil together, claims AKD
-
-*2024-02-19 15:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-mps-trying-to-bring-sajith-ranil-together-claims-akd-151483/) · `en`
-
-ECONOMYNEXT — Attempts are under way to bring opposition leader Sajith Premadasa and President Ranil Wickremesinghe together, MP Anura Kumara Dissanayake said, claiming that it would’ve already happened if it weren’t for an alleged personal animosity between the two leaders.
-
-Speaking at a rally in Kurunegala on Sunday February 18, Dissanayake said members of the main opposition Samagi Jana Balawegaya (SJB) are attempting to reconcile Premadasa and Wickremesinghe and bring the SJB and the president’s United National Party (UNP) together in the run-up to the presidential elections due to be held before October 17 this year.
-
-“Discussions are now taking place about how to bring Ranil and Sajith together. A group of SJB members are in conversation to bring them together. If it weren’t for the personal dispute between Ranil and Sajith, they would come together,” said Dissanayake addressing a large gathering of supporters of the National People’s Power (NPP) that he leads.
-
-...
-
-[Data](articles/16a32f2c.json)
-
-[Extended Data](ext_articles/16a32f2c.ext.json)
 
 ---

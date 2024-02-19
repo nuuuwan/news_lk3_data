@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 10:50:29**
+As of **2024-02-19 11:02:30**
 
 ## Newspaper Stats
 
-*Scraped **7,936** Articles*
+*Scraped **7,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 434
 adalk | 672
 tamilmirrorlk | 965
 adaderanalk | 970
-virakesarilk | 1,046
+virakesarilk | 1,047
 adaderanasinhalalk | 1,153
 dailymirrorlk | 1,166
 
@@ -26,11 +26,29 @@ dailymirrorlk | 1,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,936 (100.0%) of 7,936 articles have been extended.
+7,937 (100.0%) of 7,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### The first record posted on social media after her husband's disappearance
+
+*2024-02-19 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176725) · `ta`
+
+Yulia Navalnaya, the wife of Russian opposition leader Alexi Navalni, who died mysteriously in jail, posted a record on social media for the first time two days after her husband died.
+
+On page Yulia Navalnaiah posted a photo taken with Alexi Navalney on Instagram. In it, he stressed in Russian as "I love you" (I love you).
+
+Grah Yarmish, a spokesman for the late Russian opposition leader, confirmed the death of Navalni. Also, he requested that his body be handed over to his family to “immediately”. He also said that Russian authorities are lying to delay the hand of the body.
+
+◼️
+
+[Data](articles/33aa074b.json)
+
+[Extended Data](ext_articles/33aa074b.ext.json)
+
+---
 
 ### Tribal conflicts lose many lives
 
@@ -2049,23 +2067,5 @@ During his stay, the Director-General will also visit agricultural sites, and is
 [Data](articles/789159fe.json)
 
 [Extended Data](ext_articles/789159fe.ext.json)
-
----
-
-### A powerful earthquake in Afghanistan
-
-*2024-02-18 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193550) · `si`
-
-Foreign media reports that Afghanistan's earthquake has taken place.
-
-Foreign media reports that the earthquake has taken place in Balkhat province.
-
-It has said that the value of its value has been increased by 5.0 in the Richter.
-
-◼️
-
-[Data](articles/c28a2855.json)
-
-[Extended Data](ext_articles/c28a2855.ext.json)
 
 ---

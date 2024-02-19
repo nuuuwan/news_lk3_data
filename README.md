@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 00:02:29**
+As of **2024-02-20 00:17:23**
 
 ## Newspaper Stats
 
-*Scraped **8,095** Articles*
+*Scraped **8,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 419
 islandlk | 422
 dailyftlk | 434
 adalk | 693
-tamilmirrorlk | 982
+tamilmirrorlk | 983
 adaderanalk | 986
 virakesarilk | 1,082
 adaderanasinhalalk | 1,180
@@ -26,11 +26,29 @@ dailymirrorlk | 1,191
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,095 (100.0%) of 8,095 articles have been extended.
+8,095 (100.0%) of 8,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### தொடரை கைப்பற்றியது இலங்கை
+
+*2024-02-19 23:22:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடரை-கைப்பற்றியது-இலங்கை/175-333484) · `ta`
+
+இலங்கை மற்றும் ஆப்கானிஸ்தான் அணிகளுக்கு இடையிலான இரண்டாவது இருபதுக்கு 20 போட்டியில் 72 ஓட்டங்களால் இலங்கை அணி வெற்றி பெற்றுள்ளது.
+
+அதன்படி, முதலில் துடுப்பெடுத்தாடிய இலங்கை நிர்ணயிக்கப்பட்ட 20 ஓவர்கள் நிறைவில் 6 விக்கெட்டுக்களை இழந்து 187 ஓட்டங்களைப் பெற்றுக் கொண்டது.
+
+பதிலுக்கு துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் அணி 17 ஓவர்களில் அனைத்து விக்கெட்டுக்களையும் இழந்து 115 ஓட்டங்களை மாத்திரமே பெற்றது.
+
+அதன்படி, மூன்று போட்டிகள் கொண்ட தொடரை 2-0 என்ற கணக்கில் இலங்கை அணி கைப்பற்றியுள்ளது. R
+
+◼️
+
+[Data](articles/ee4ce4c4.json)
+
+---
 
 ### Twenty -20th match is the second fastest takerid winning 100 wickets
 
@@ -2029,29 +2047,5 @@ According to the request, the Negombo District Court has ordered the administrat
 [Data](articles/2ef9b55a.json)
 
 [Extended Data](ext_articles/2ef9b55a.ext.json)
-
----
-
-### PM Modi urged to intervene to get Tamil Nadu fishermen released from Sri Lanka
-
-*2024-02-19 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97387/pm-modi-urged-to-intervene-to-get-tamil-nadu-fishermen-released-from-sri-lanka) · `en`
-
-Tamil Nadu Chief Minister M.K. Stalin on Sunday (18 Feb.) urged Indian Prime Minister Narendra Modi to intervene and ensure the release and repatriation of Tamil Nadu fishermen who have been arrested by the Sri Lankan Navy.
-
-“These fishermen are not only Tamils but also proud Indians. The continued detention of Tamil Nadu fishermen by the Sri Lankan Navy is deeply distressing and a major matter of concern,” the Chief Minister wrote on ‘X’ (formerly Twitter).
-
-He said that there has been a steep increase in arrests of Tamil Nadu fishermen since the past two days.
-
-The Chief Minister said that the fishermen were treated as habitual offenders, which has led to their prolonged detention.
-
-He said that the livelihood of the fishermen has been threatened.
-
-“Sri Lankan Navy has impounded several costly mechanised boats and these impounded boats have been nationalised by the Sri Lankan government,” the Chief Minister said.
-
-◼️
-
-[Data](articles/83e8acad.json)
-
-[Extended Data](ext_articles/83e8acad.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 02:33:55**
+As of **2024-02-20 02:48:50**
 
 ## Newspaper Stats
 
-*Scraped **8,113** Articles*
+*Scraped **8,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 422
 dailyftlk | 443
 adalk | 693
 tamilmirrorlk | 983
-adaderanalk | 986
+adaderanalk | 987
 virakesarilk | 1,084
 adaderanasinhalalk | 1,180
-dailymirrorlk | 1,197
+dailymirrorlk | 1,198
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,113 (100.0%) of 8,113 articles have been extended.
+8,115 (100.0%) of 8,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### President discusses economic recovery with UN FAO Director General
+
+*2024-02-20 02:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97397/president-discusses-economic-recovery-with-un-fao-director-general) · `en`
+
+Dr. Qu Dongyu, Director General of the UN Food and Agriculture Organization (FAO), paid a courtesy visit to President Ranil Wickremesinghe at the Presidential Secretariat this afternoon (19 Feb.), commending the President’s leadership amid Sri Lanka’s economic challenges.
+
+During the meeting, Dr. Dongyu conveyed congratulations to President Wickremesinghe for his efforts in navigating Sri Lanka through the recent economic crisis and subsequent reforms.
+
+He assured the President, of the FAO’s unwavering support to both the government and the people of Sri Lanka during these critical times, the President’s Media Division (PMD) reported.
+
+President Wickremesinghe, in turn, provided an overview of the progress made in the country’s ongoing recovery efforts. He highlighted the importance of introducing an agriculture modernization project to enhance the sector’s productivity and sustainability.
+
+...
+
+[Data](articles/bc09c9a1.json)
+
+[Extended Data](ext_articles/bc09c9a1.ext.json)
+
+---
 
 ### G.L. to back Sajith at Presidentials
 
@@ -109,6 +129,26 @@ Leading industrial solutions provider, Hayleys Aventura, in partnership with glo
 [Data](articles/d35e6e81.json)
 
 [Extended Data](ext_articles/d35e6e81.ext.json)
+
+---
+
+### Relatives of enforced disappearances to hold mass procession in Kilinochchi today
+
+*2024-02-20 01:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Relatives-of-enforced-disappearances-to-hold-mass-procession-in-Kilinochchi-today/108-277342) · `en`
+
+Colombo, Feb 20 (Daily Mirror) - In completion of seven years of truth-seeking agony to learn the whereabouts of their missing kith and kin during the war, the family members of the enforced disappearances are to stage a mass procession in Kilinochchi this morning.
+
+Hundreds of members of the Association for Relatives of the Enforced Disappearances (ARED) from the five branches of the Northern and Eastern Provinces will rally around in Kilinochchi to mark their grievances.
+
+A spokesperson from the ARED told the Daily Mirror the main procession is scheduled to commence from Kandasamy Kovil in Kilinochchi around 9.30 am and to proceed up to the special monument at Depot Junction, within a stretch of four kilometres.
+
+Relatives, especially widowed mothers of the victims of the enforced disappearances ARED from Jaffna, Mullaitivu, Mannar and Vavuniya are also expected to flock to Kilinochchi for the seventh anniversary.
+
+...
+
+[Data](articles/e1b24979.json)
+
+[Extended Data](ext_articles/e1b24979.ext.json)
 
 ---
 
@@ -1991,45 +2031,5 @@ The death sentence was sentenced to the accused, a resident of Kotkayathan, a re
 [Data](articles/5c529e97.json)
 
 [Extended Data](ext_articles/5c529e97.ext.json)
-
----
-
-### Special committee appointed to discuss demands of health sector trade unions
-
-*2024-02-19 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97388/special-committee-appointed-to-discuss-demands-of-health-sector-trade-unions-) · `en`
-
-A special committee has been appointed to look into the demands of the health sector trade unions, the Ministry of Health stated.
-
-Accordingly, the committee, comprising of Health Minster Dr. Ramesh Pathirana, the Secretary to the Ministry of Health and representatives of the Health Trade Union Alliance (HTUA), is set to meet at 03:00 p.m. on Tuesday (20 Feb.).
-
-The decision was taken at the meeting held between the HTUA and the Minister of Health this morning (19 Feb.), in a bid to resolve their disparities in allowances.
-
-Issuing a statement in this regard, the Ministry noted that the Minister had directed the HTUA to present a proposal inclusive of their demands to the Ministry.
-
-Attached below is the full statement issued by the Ministry of Health:
-
-◼️
-
-[Data](articles/760b3924.json)
-
-[Extended Data](ext_articles/760b3924.ext.json)
-
----
-
-### Man nabbed for sexually abusing Woman Police Constable
-
-*2024-02-19 14:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-nabbed-for-sexually-abusing-Woman-Police-Constable/108-277320) · `en`
-
-Colombo, Feb. 19 (Daily Mirror)- A man was arrested for sexually abusing a Woman Police Constable (WPC) attached to the Police Children & Women's Bureau headquarters.
-
-The suspect, a 43 year-old man from Madulawa, Padukka is a clerk of the Engineering Corporation.
-
-Police investigations revealed that the WPC had been sexually abused while she was travelling home on a bus after work.
-
-◼️
-
-[Data](articles/f574e0c9.json)
-
-[Extended Data](ext_articles/f574e0c9.ext.json)
 
 ---

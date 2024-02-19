@@ -1,36 +1,74 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 12:03:17**
+As of **2024-02-19 12:17:27**
 
 ## Newspaper Stats
 
-*Scraped **7,947** Articles*
+*Scraped **7,954** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 88
-bbccomsinhala | 99
+bbccomsinhala | 100
 dbsjeyarajcom | 154
 newsfirstlk | 363
 economynextcom | 406
 islandlk | 420
 dailyftlk | 434
-adalk | 676
-tamilmirrorlk | 966
+adalk | 677
+tamilmirrorlk | 967
 adaderanalk | 974
 virakesarilk | 1,047
-adaderanasinhalalk | 1,154
+adaderanasinhalalk | 1,158
 dailymirrorlk | 1,166
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,947 (100.0%) of 7,947 articles have been extended.
+7,947 (99.9%) of 7,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### මහාචාර්ය චන්න ජයසුමන ට ජාත්‍යන්තර සම්මානයක්
+
+*2024-02-19 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193571) · `si`
+
+අමෙරිකා එක්සත් ජනපදයේ විද්‍යාභිවර්ධන සංගමය විසින් විද්‍යාත්මක නිදහස සහ වගකීම වෙනුවෙන් පිරිනමන සම්මානය මහාචාර්ය චන්න ජයසුමන මහතාට හිමිව තිබේ.
+
+විවිධ පාර්ශ්ව වලින් එල්ල වූ අභියෝග හමුවේ කෘෂිකාර්මික ප්‍රජාවගේ වකුගඩු රෝගය පිළිබඳ සිදුකළ පර්යේෂණ හේතුවෙන් ලොව පුරා මිලියන ගණනක් ජනතාවගේ සෞඛ්‍ය තත්ත්වය ඉහළ නැංවීමට සිදුකළ දායකත්වය මත මෙම සම්මානය ඔහුට පිරිනමා තිබේ.
+
+මෙම සම්මානය ඔහුට හිමි වූ බවට පළමු වරට ප්‍රකාශයට පත්කළ අවස්ථාවේදී කෘෂි රසායන සමාගම් ඇතුළු විවිධ පාර්ශව ඊට විරෝධය දක්වා තිබූ බව වාර්තා විය.
+
+ඒ අනුව සම්මානය ලබාදීම යළි සලකා බැලීමට විශේෂ ජූරි සභාවකට යොමු කර ඇති අතර එම ජූරි සභාව ද තීරණය කර ඇත්තේ මෙම සම්මානය ඔහුට ලැබිය යුතු බවටය.
+
+ඔහුගේ මෙම පර්යේෂණ සිදුකිරීම සඳහා කැලිෆෝනියා රාජ්‍ය විශ්වවිද්‍යාලයේ මහාචාර්ය සරත් ගුණතිලක මහතා ද සහාය වී තිබුණි.
+
+අමෙරිකානු විද්‍යාභිවර්ධන සංගමයේ වාර්ෂික සමුළුවේදී එහි අධ්‍යක්ෂ තෙරේසා හැරිස් මහත්මිය විසින් මෙම සම්මානය මහාචාර්ය ජයසුමන මහතාට පිරිනමා ඇත.
+
+◼️
+
+[Data](articles/01e33ce0.json)
+
+---
+
+### වතුකරයේ ජනතාවට සුබ පණිවුඩයක්
+
+*2024-02-19 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193570) · `si`
+
+වතුකරයේ කම්කරු ජනතාව වෙනුවෙන් නිවාස 10,000ක් ඉදිකිරීම සඳහා ඉන්දීය රජයේ මුල්‍ය ප්‍රතිපාදන යටතේ ක්‍රියාත්මක නිවාස ව්‍යාපෘතියේ තවත් අදියරක ඉදිකිරීම් කටයුතු ආරම්භ කිරීමේ උත්සවය ජනාධිපති ලේකම් කාර්යාලයේදී පැවැත්විණි.
+
+මෙම සිව්වන අදියර යටතේ දිස්ත්‍රික්ක 10ක වතු 45ක් පුරා නිවාස 1300ක් ඉදිකිරීමට නියමිතය.
+
+මෙම අවස්ථාවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමඟ ඉන්දීය මහ කොමසාරිස් සන්තෝෂ් ජා මහතා ද මාර්ගගත ක්‍රමවේදය ඔස්සේ සම්බන්ධ වූහ.
+
+◼️
+
+[Data](articles/5792d340.json)
+
+---
 
 ### Injunction issued preventing SJB from removing Sarath Fonseka from posts
 
@@ -47,6 +85,22 @@ The relevant order was issued by the Colombo District Court on Monday (19 Jan.),
 [Data](articles/564ef687.json)
 
 [Extended Data](ext_articles/564ef687.ext.json)
+
+---
+
+### සරත් ෆොන්සේකා ගැන සජබයට වාරණ නියෝගයක්
+
+*2024-02-19 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193569) · `si`
+
+සමගි ජන බලවේගයේ සභාපති ෆිලඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතාගේ පක්ෂ සාමාජිකත්වය, ඔහු දරන තනතුරු අත්හිටුවීම සහ විනය ක්‍රියාමාර්ග ගැනීම වළක්වාලමින් කොළඹ දිසා අධිකරණය වාරණ නියෝගයක් නිකුත් කර තිබේ.
+
+සරත් ෆොන්සේකා මහතා ගොනුකළ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා විසින් සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස, එහි මහ ලේකම් රංජිත් මද්දුමබණ්ඩාර ජාතික සංවිධායක තිස්ස අත්තනායක සහ භාණ්ඩාගාරික හර්ෂ ද සිල්වා යන මහත්වරු වෙත මෙම වාරණ නියෝග නිකුත් කළේය.
+
+පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා අධිකරණය හමුවේ, කරුණු දක්වමින් හිටපු හමුදාපති දයාරත්නායක සමගි ජන බලවේගයට එක්වීම සම්බන්ධයෙන් තම සේවාදායකයා ඊට එරෙහිව පළ කළ අදහස් පදනම් කරගෙන ඔහුට එරෙහිව විනය ක්‍රියාමාර්ග ගැනීමට සූදානම් වන බවට පසුගිය කාලයේ මාධ්‍යවලින් තොරතුරු පළවී තිබූ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/5b239f46.json)
 
 ---
 
@@ -90,6 +144,30 @@ Foreign husband and wife have traveled to Katunayake Airport from Hikkaduwa area
 
 ---
 
+### කප්පම් ඉල්ලන අලුත්ම විදිය හෙළිවෙයි
+
+*2024-02-19 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193568) · `si`
+
+රජයේ ඉහළ තනතුරක් දරන නිලධාරිනියකගෙන් පරිගණක අපරාධ විමර්ශන කොට්ඨාසයට පැමිණිල්ලක් ලැබී තිබුණේ මීට මාසයකට පමණ ඉහතදීය.
+
+ඉන් කියැවුණේ සිය සැමියාගේ සමාජ මාධ්‍ය ගිණුම්වලට කිසිවකු විසින් අවසරයකින් තොරවඇතුළු වී ඇති බවත් එම ගිණුම් යළි ලබාදීමට රුපියල් ලක්ෂයක මුදලක් කප්පම් ලෙස අවශ්‍ය බවට නාඳුනන පුද්ගලයකුගෙන් පණිවුඩ ලැබුණු බවත්ය.
+
+රජයේ නිලධාරිනිය සිය සැමියා වෙනුවෙන් පරිගණක අපරාධ විමර්ශන ඒකකයට එලෙස පැමිණිල්ලක් ඉදිරිපත් කළේ පෞද්ගලික ආයතනයක ඉහළ තනතුරක් දැරූ සැමියා රාජකාරි කටයුත්තක් වෙනුවෙන් විදෙස්ගතව සිටි බැවිනි.
+
+ඇයගේ පැමිණිල්ල භාරගත් පරිගණක අපරාධ විමර්ශන ඒකකය ඊට අදාළ විමර්ශන ඇරඹීය.
+
+මාසයකට ආසන්න කාලයක් ඒ වෙනුවෙන් වෙහෙසවීමේ අවසාන ප්‍රතිඵලය වූයේ සමාජ මාධ්‍ය උපයෝගීක කරගනිමින් මහා පරිමාණයෙන් කළ ජාවාරමක් පිළිබඳ හෙළිදරව් කරගැනීමට හැකිවීමය.
+
+රජයේ නිලධාරිනියගේ පැමිණිල්ලට අනුව ඇයගේ සැමියාගේ Gmail, WhatsApp සහ Facebook ආදි සියලු ගිණුම් නන්නාඳුනන අයකුගේ සන්තකයට පත්වී තිබිණි.
+
+ඇයගේ පැමිණිල්ල අනුව විමර්ශන ඇරඹූ පරිගණක අපරාධ විමර්ශන ඒකකය වංචනිකයන් හඳුනාගැනීම සඳහා විවිධ තාක්ෂණික ක්‍රමෝපායන් අනුගමනය කර ඇත.
+
+...
+
+[Data](articles/0e17326e.json)
+
+---
+
 ### Health sector trade unions to meet Health Minister for crucial talks today
 
 *2024-02-19 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97382/health-sector-trade-unions-to-meet-health-minister-for-crucial-talks-today) · `en`
@@ -125,6 +203,20 @@ The third term of the academic year 2023 ended on 16 February.
 [Data](articles/7502b6d8.json)
 
 [Extended Data](ext_articles/7502b6d8.ext.json)
+
+---
+
+### நீர்மட்டம் குறைகிறது
+
+*2024-02-19 10:33:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/நீர்மட்டம்-குறைகிறது/46-333427) · `ta`
+
+மத்திய மலைநாட்டில் சுமார் ஒரு மாத காலமாக கடும் வறட்சியான காலநிலை நிலவி வருவதால், மவுஸ்ஸாக்கலை மற்றும் காசல்ரீ நீர்த்தேக்கங்களின் நீர் மட்டம் குறைவடைந்துள்ளது.
+
+அதற்கமைய, இன்று (19) காலை 06.00 நிலவரப்படி, மவுஸ்ஸாக்கலை மற்றும் காசல்ரீ நீர்த்தேக்கங்களின் நீர் மட்டம் முறையே 13 அடி 5 அங்குலம் மற்றும் 08 அடியாக குறைந்துள்ளதாக நீர்த்தேக்கங்களுக்குப் பொறுப்பான பொறியியலாளர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/3b2c70bb.json)
 
 ---
 
@@ -173,6 +265,24 @@ Grah Yarmish, a spokesman for the late Russian opposition leader, confirmed the 
 [Data](articles/33aa074b.json)
 
 [Extended Data](ext_articles/33aa074b.ext.json)
+
+---
+
+### මාතලේ පාරිභෝගිකයෝ බිත්තර මිලදී ගැනීම ප්‍රතික්‍ෂේප කරති.
+
+*2024-02-19 10:14:09* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-පාරිභෝගිකයෝ-බිත්තර-මිලදී-ගැනීම-ප්‍රතික්‍ෂේප-කරති-/11-408162) · `si`
+
+රුපියල් 60 – 70 අතර මිලකට මාතලේ දිස්ත්‍රික්කයේ අලවි වන බිත්තර මිලදී ගැනීම සදහා පාරිභෝගිකයින්ගේ පැමිණිම සැලකිය යුතු අන්දමින් අඩුවී ඇතැයි සුළුපරිමාන බිත්තර අලවිකරුවෝ කියා සිටිති.
+
+අවස්ථා ගනනාවක දී විවිද මිල ගනන් යටතේ මිල වැඩිකිරිම් සිදුකරන ලද බිත්තරවල අධික මිල වැඩිවීම් හේතුවෙන් පාරිභෝගිකයින් සැලකියයුතු පිරිසක් මේ වන විට බිත්තර මිලට ගැනීම ප්‍රතික්‍ෂේප කර ඇතැයි ඔවුහු කියා සිටිති.
+
+මේ අතර මාතලේ දිස්ත්‍රික්කයේ බිත්තර නිෂ්පාදකයින් කියා සිටියේ කෑම ඇතුළු බෙහෙත් ද්‍රව්‍යවල පවත්නා මිල ඉහළ යැම් හේතුවෙන් බිත්තර මිල ඉහල දෑමිමට සිදුවී ඇති බවයි. එහෙත් මේ වන විටත් සිය නිෂ්පාදනයන් තුළි නිසි ලාභයක් නොලබන බව ද ඔවුහු කියා සිටියහ.
+
+මාතලේ දිස්ත්‍රික්කයේ දඹුල්ල, මාතලේ, නාඋල, මඩවල පලාපත්වල ආදී ප්‍රදාන උප නගරවල බිත්තර අලවිසැල්වල හිමිකරුවන් රැසක් කියා සිටියේ අලවිය සදහා රැගෙනවිත් ඇති බිත්තර පාරිභෝගිකයින් විසින් ලබාගැනීම මන්දගාමි අන්දමින් සිදුවන බවයි
+
+◼️
+
+[Data](articles/79354303.json)
 
 ---
 
@@ -829,6 +939,32 @@ A week-long “Seeds for the future European Grand Finale,” bringing together 
 [Data](articles/083a8cd7.json)
 
 [Extended Data](ext_articles/083a8cd7.ext.json)
+
+---
+
+### ආගමික පදනම මත පාසල් බෙදා තිබීම ආගමික සහජීවනයට බාධාවක් ද?
+
+*2024-02-19 04:45:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1d124n40pzo) · `si`
+
+ශ්‍රී ලංකාවේ පාසල් විවිධ කරුණු පදනම් කර ගනිමින් විවිධ බෙදීම්වලට ලක් කර තිබේ.
+
+එම බෙදීම්, ආගමික, ජන වාර්ගික, භාෂාමය, භෞතික සම්පත් සහ ස්ත්‍රී පුරුෂභාවය ආදී කරුණු රැසක් මත පදනම්ව පවතී.
+
+බෞද්ධ, ක්‍රිස්තියානි, කතෝලික, මුස්ලිම්, හින්දු ආදී පාසල් වර්ගීකරණය වී ඇත්තේ, ආගම, ජාතිය සහ භාෂාව පදනම් කරගෙන ය.
+
+ඊට අමතරව, භෞතික සම්පත් මත පදනම්ව ජාතික පාසල්, පළාත් සභා පාසල්, මධ්‍ය මහා විද්‍යාල, මහා විද්‍යාල, කනිෂ්ඨ විද්‍යාල ආදී ලෙස බෙදා තිබේ.
+
+ස්ත්‍රී පුරුෂ භාවය පදනම් කරගෙන පිරිමි සහ කාන්තා ලෙස බෙදා ඇති පාසල් රැසක් ද ශ්‍රී ලංකාව තුළ පවතී.
+
+මෙම ලිපියෙහි අරමුණ ශ්‍රී ලංකාවේ පාසල් ආගම් සහ ජාතීන් පදනම් කරගෙන බෙදා වෙන් කර තැබීමෙන් ඇති වන ගැටලු පිළිබඳව සාකච්ඡා කිරීම ය.
+
+අධ්‍යාපන අමාත්‍යංශය 2021 වසරේදී අවසන් වරට කරන ලද පාසල් සංගණනයේ සංඛ්‍යා ලේඛන අනුව ශ්‍රී ලංකාවේ රජයට අයත් පාසල් සංඛ්‍යාව 10,146කි.
+
+ඒ අතරින්, පාසල් 6,909ක් සිංහල පාසල් ලෙසත්, පාසල් 2,297ක් දෙමළ පාසල් ලෙසත්, පාසල් 940ක් මුස්ලිම් පාසල් ලෙසත් වර්ග කර තිබේ.
+
+...
+
+[Data](articles/6e637447.json)
 
 ---
 
@@ -1879,171 +2015,5 @@ Meanwhile, police spokesman DIG's men lawyer said, Similar.
 [Data](articles/508a9e48.json)
 
 [Extended Data](ext_articles/508a9e48.ext.json)
-
----
-
-### Van and bus collided face -to -face
-
-*2024-02-18 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176699) · `ta`
-
-A van and bus traveling to the Sivanolipada mountain pilgrimage collided face -to -face.
-
-The van carrying a group of pilgrims from Gampaha and the bus carrying a group of pilgrims from Matara to Matara.
-
-The accident took place on the Hatton - Colombo main road on the 18th of this month at the Ginigathena - Millagahamulla area.
-
-Two persons who were injured in the accident have been transferred from Kinigathena Hospital to Nawalapitiya Hospital for further treatment.
-
-Police say the accident occurred when the van was trying to overtake the lorry.
-
-The van and the bus have been severely damaged in the accident and the police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/eab20ccc.json)
-
-[Extended Data](ext_articles/eab20ccc.ext.json)
-
----
-
-### Female drug peddler ‘Patta’ arrested with heroin, over Rs. 2m in cash
-
-*2024-02-18 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97375/female-drug-peddler-patta-arrested-with-heroin-over-rs-2m-in-cash-) · `en`
-
-A female accomplice of notorious underworld figure and drug trafficker ‘Kudu Salindu’ was arrested by the Walana Anti-Vice Unit on Sunday (18 Feb.).
-
-The arrestee, known by the alias ‘Patta’, has been identified as the sister-in-law of ‘Asitha’, who allegedly runs the operations of the drug racket of Salindu Malshika Gunaratne, also known as ‘Kudu Salindu’, in Dubai, police reported.
-
-Accordingly, she was arrested in Panadura while in possession of 10g of heroin and over Rs. 2 million in cash.
-
-Police further reported that ‘Patta’ currently has two other ongoing court cases for charges related to possession of heroin, while her sister and father, too, are currently in police custody for the same charges.
-
-◼️
-
-[Data](articles/e506cf23.json)
-
-[Extended Data](ext_articles/e506cf23.ext.json)
-
----
-
-### "Arunachalam" is the first Tamil leader to fail in compliance politics
-
-*2024-02-18 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176696) · `ta`
-
-After the 1931 election, two people were elected from the Tamil and Muslim side when the cabinet was formed. Berry Sundaram, the Minister of Labor and Makan Makar Transport Minister. But when the Cabinet was formed in 1936, it was a separate cabinet council. Fifty -fifty demands of GG Ponnambalam. In fact, even if the executive committee selects its chairman, he can only hold the post of Minister if the President accepts it. In this, the patriotism was the silence of the patriot.
-
-The politics of the Jaffna youth Congress, which was moving this way, moved parallel to the politics of the Jaffna Congress until 1934.. The Jaffna Youth Congress boycotted the 1931 cosmic elections. The reason is that Donamur Yapu did not give Sri Lanka a complete independence. Due to this boycott, the election has not been held in all four constituencies of Jaffna. Many Sinhalese political leaders have retreated but later retreated. The Jaffna Youth Congress was left alone in this regard.
-
-◼️
-
-[Data](articles/20eadff7.json)
-
-[Extended Data](ext_articles/20eadff7.ext.json)
-
----
-
-### Sri Lanka leisure industry to train golf caddies on course for high end tourism
-
-*2024-02-18 19:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-leisure-industry-to-train-golf-caddies-on-course-for-high-end-tourism-151302/) · `en`
-
-ECONOMYNEXT- Sri Lanka Institute of Tourism and Hotel Management plans to train caddies equipping them with soft-skills as the island targets more high end tourists and sports tourism, an official said.
-
-A caddie assists golfers carrying equipment and also providing advice.
-
-“In order to accommodate high-end tourism, we plan to train caddies on soft-skills and cultural skills,” Chairman of the Sri Lanka Tourism and Hotel Management, Shirantha Peiris, told EconomyNext.
-
-There were 5 golf courses in the country and there was a demand for caddies, he said.
-
-Sri Lanka Tourism Promotion Bureau Chairman, Chalaka Gajabahu, said the island was working on plans to get high end tourists that spend 500 US dollars a day.
-
-The average spend now is estimated at 185 to 195 US dollars a day.
-
-Sri Lanka welcomed 1. 486 million tourists in 2023 and is targeting 2.3 million in 2024. (Colombo/Feb18/2024)
-
-◼️
-
-[Data](articles/3aa6b48d.json)
-
-[Extended Data](ext_articles/3aa6b48d.ext.json)
-
----
-
-### Sri Lanka tea prices up across elevations in February
-
-*2024-02-18 19:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-prices-up-across-elevations-in-february-151289/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tea prices went up across elevations, with the low grown sale average topping 1,400 rupees a kilogram at the seventh auction of 2024 on February 13 -14, market data showed.
-
-Sri Lanka tea prices have moved up in 2024 in both rupee and US dollar terms.
-
-The national weekly sale average went up 29.13 rupees to 1,338.27 rupees a kilogram, according to industry data published by Ceylon Tea Brokers.
-
-In the seventh week, 4.3 million kilos were sold by public auction.
-
-The highest priced category, Low Growns went up 37.53 rupees, to 1,428.27 rupees.
-
-While BOP1 Select best maintained, certain best and below best varieties both maintained and fell. The poorer sorts gained.
-
-OP1 Select best and best fell, while below best and poorer varieties gained.
-
-OP and OPA varieties prices maintained. Certain Select bests were maintained and some fell, while the balance sold around last week levels.
-
-The Medium Grown sale average went up 57.60 rupees to 1,157.49 rupees.
-
-...
-
-[Data](articles/b69ecf2f.json)
-
-[Extended Data](ext_articles/b69ecf2f.ext.json)
-
----
-
-### Sri Lana tea prices up across elevations in February
-
-*2024-02-18 19:14:00* · [`economynextcom`](https://economynext.com/sri-lana-tea-prices-up-across-elevations-in-february-151289/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tea prices went up across elevations, with the low grown sale average topping 1,400 rupees a kilogram at the seventh auction of 2024 on February 13 -14, market data showed.
-
-Sri Lanka tea prices have moved up in 2024 in both rupee and US dollar terms.
-
-The national weekly sale average went up 29.13 rupees to 1,338.27 rupees a kilogram, according to industry data published by Ceylon Tea Brokers.
-
-In the seventh week, 4.3 million kilos were sold by public auction.
-
-The highest priced category, Low Growns went up 37.53 rupees, to 1,428.27 rupees.
-
-While BOP1 Select best maintained, certain best and below best varieties both maintained and fell. The poorer sorts gained.
-
-OP1 Select best and best fell, while below best and poorer varieties gained.
-
-OP and OPA varieties prices maintained. Certain Select bests were maintained and some fell, while the balance sold around last week levels.
-
-The Medium Grown sale average went up 57.60 rupees to 1,157.49 rupees.
-
-...
-
-[Data](articles/f5ec06f1.json)
-
-[Extended Data](ext_articles/f5ec06f1.ext.json)
-
----
-
-### FAO Director-General Arrives in Sri Lanka for APRC37
-
-*2024-02-18 19:13:00* · [`economynextcom`](https://economynext.com/fao-director-general-arrives-in-sri-lanka-for-aprc37-151293/) · `en`
-
-ECONOMYNEXT – Director-General of the Food and Agricultural Organization (FAO) QU Dongyu, arrived in Sri Lanka for a three-day visit to participate in the 37th Session of the FAO Regional Conference for Asia and the Pacific (APRC37).
-
-Government Ministers and Heads of Delegations from as many as 46 Member Nations are gathering in Colombo for the event.
-
-The Director-General was received at the airport by Janaka Dharmakeerthi, Secretary to the Ministry of Agriculture in Sri Lanka, Jong-Jin Kim, FAO Assistant Director-General and Regional Representative, and Vimlendra Sharan, the FAO Representative for Sri Lanka.
-
-During his stay, the Director-General will also visit agricultural sites, and is scheduled to hold a series of bilateral discussions with Sri Lankan leadership and Ministers from other Asia-Pacific countries, the FAO said in a statement.
-
-...
-
-[Data](articles/1e5ca8fe.json)
-
-[Extended Data](ext_articles/1e5ca8fe.ext.json)
 
 ---

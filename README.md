@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 15:17:33**
+As of **2024-02-19 15:33:04**
 
 ## Newspaper Stats
 
-*Scraped **7,999** Articles*
+*Scraped **8,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ islandlk | 422
 dailyftlk | 434
 adalk | 682
 tamilmirrorlk | 971
-adaderanalk | 979
+adaderanalk | 980
 virakesarilk | 1,063
 adaderanasinhalalk | 1,163
-dailymirrorlk | 1,171
+dailymirrorlk | 1,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,998 (100.0%) of 7,999 articles have been extended.
+7,999 (100.0%) of 8,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Accused in Kotakethana double murder sentenced to death
+
+*2024-02-19 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97389/accused-in-kotakethana-double-murder-sentenced-to-death-) · `en`
+
+The Ratnapura High Court on Monday (19 Feb.) issued the death sentence against the accused in a double murder at Kotakethana in 2012.
+
+Accordingly, the accused, Neil Lakshman, was sentenced to death over the double murder of a mother and daughter in Kotakethana, Ada Derana reporter confirmed.
+
+◼️
+
+[Data](articles/c0721eea.json)
+
+---
 
 ### Special committee appointed to discuss demands of health sector trade unions
 
@@ -49,6 +63,24 @@ Attached below is the full statement issued by the Ministry of Health:
 ◼️
 
 [Data](articles/760b3924.json)
+
+[Extended Data](ext_articles/760b3924.ext.json)
+
+---
+
+### Man nabbed for sexually abusing Woman Police Constable
+
+*2024-02-19 14:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-nabbed-for-sexually-abusing-Woman-Police-Constable/108-277320) · `en`
+
+Colombo, Feb. 19 (Daily Mirror)- A man was arrested for sexually abusing a Woman Police Constable (WPC) attached to the Police Children & Women's Bureau headquarters.
+
+The suspect, a 43 year-old man from Madulawa, Padukka is a clerk of the Engineering Corporation.
+
+Police investigations revealed that the WPC had been sexually abused while she was travelling home on a bus after work.
+
+◼️
+
+[Data](articles/f574e0c9.json)
 
 ---
 
@@ -69,6 +101,42 @@ It monitors diesel distribution throughout health companies, maintaining detaile
 [Data](articles/5c637cf1.json)
 
 [Extended Data](ext_articles/5c637cf1.ext.json)
+
+---
+
+### Talks succeed, health unions withdraw strike threats
+
+*2024-02-19 14:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Talks-succeed-health-unions-withdraw-strike-threats/108-277318) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - Following successful discussions between representatives of the health sector trade unions and Health Minister Dr. Ramesh Pathirana, a satisfactory solution to the grievances has been reached.
+
+Ravi Kumudesh, convener of the Health Trade Union Alliance, confirmed that the discussions with the Health Minister resulted in a commitment to address their demands.
+
+Hence, the unions decided to refrain from any form of strike action for the time being.
+
+Furthermore, the Health Minister also advised to appoint a committee to address the pressing concerns raised by the health professionals.
+
+The unions have been demanding a similar increased allowance to the Disturbance, Availability and Transport (DAT) allowance which was earlier granted to the doctors.
+
+◼️
+
+[Data](articles/75a75f9c.json)
+
+---
+
+### Presidential candidates urged to abolish Provincial Councils
+
+*2024-02-19 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-candidates-urged-to-abolish-Provincial-Councils/108-277319) · `en`
+
+Colombo, Feb. 19 (Daily Mirror)- An organization called the “Lankalokaya” headed by incumbent Southern Province Governor Lakshman Yapa Abeywardena’s son Pasanda Yapa Abeywardene today presented a proposal to all candidates of this year’s Presidential election urging them to abolish the Provincial Councils.
+
+The organisation proposed to abolish Provincial Councils and set up district councils while strengthening the Pradeshiya Sabhas instead.
+
+“Our intention is to present a proposal to all candidates of this year’s Presidential election asking them to abolish the Provincial Councils, set up District Councils and strengthen the Pradeshiya Sabhas instead. We also want the appointment of District Ministers other than the Cabinet Ministers, so that development in the district level will be more effective,” he added.
+
+...
+
+[Data](articles/f87f44c1.json)
 
 ---
 
@@ -1943,77 +2011,5 @@ Sri Lanka is described as a multilingual country but this definition could perha
 [Data](articles/28c47705.json)
 
 [Extended Data](ext_articles/28c47705.ext.json)
-
----
-
-### Debt Restructuring and Hidden Agendas
-
-*2024-02-19 04:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Debt-Restructuring-and-Hidden-Agendas/172-277268) · `en`
-
-The consequence for the developing countries with high levels of debt is a prolonged development crisis with capital extracted for debt repayments and little capital left for investment to stimulate growth.
-
-Two years ago in February 2022, Sri Lanka rapidly descended into an economic crisis that had long been in the making. The war in Ukraine and the sudden escalation of global commodity prices made it very difficult to import essential goods such as fuel. Having exhausted its foreign reserves without prioritising the imports of essential goods, the government defaulted on its external debt two months later.
-
-...
-
-[Data](articles/46fdf583.json)
-
-[Extended Data](ext_articles/46fdf583.ext.json)
-
----
-
-### Nalanda Mourns the Loss of Hon. Gamini Jayawickrama Perera
-
-*2024-02-19 04:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Nalanda-Mourns-the-Loss-of-Hon-Gamini-Jayawickrama-Perera/172-277267) · `en`
-
-Mallawa Arachchige Gamini Jayawickrama Perera, (29 January 1941–17 February 2024) was a politician and a member of the 15th Parliament of Sri Lanka representing Kurunegala. He entered politics in 1973 from the Katugampola electorate and elected to Parliament first at the 1977 general election.
-
-...
-
-[Data](articles/62a002b7.json)
-
-[Extended Data](ext_articles/62a002b7.ext.json)
-
----
-
-### SJB refuses to acknowledge validity of OSA
-
-*2024-02-19 02:57:03* · [`dailyftlk`](https://www.ft.lk/news/SJB-refuses-to-acknowledge-validity-of-OSA/56-758640) · `en`
-
-SJB MP Eran Wickramaratne says party does not accept OSA as a legislation that was duly passed in parliament
-
-Claims Act has been enacted without adhering to proper parliamentary procedures
-
-Urges Govt. to repeal Act and proposes introduction of a new bill to combat online crimes instead
-
-Accuses Govt. undermining democracy and veering towards an authoritarian rule
-
-Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday said his party does not accept the Online Safety Act as a piece of legislation that was duly passed in parliament.
-
-During a press conference held in Colombo over the weekend, the SJB MP maintained that the Act had been enacted without adhering to the proper parliamentary procedures for passing a bill.
-
-...
-
-[Data](articles/8ecb3d14.json)
-
-[Extended Data](ext_articles/8ecb3d14.ext.json)
-
----
-
-### Hakeem moots formation of National Govt. following polls
-
-*2024-02-19 02:54:30* · [`dailyftlk`](https://www.ft.lk/news/Hakeem-moots-formation-of-National-Govt-following-polls/56-758639) · `en`
-
-Sri Lanka Muslim Congress (SLMC) leader Rauff Hakeem over the weekend opined that forming a National Government after the upcoming parliamentary election is essential to revive the country.
-
-The MP said he was confident the opposition would secure a majority of the votes at the polls, however, it would be favourable for the country if a National Government is formed.
-
-“If there is an opportunity this time, we should strive to establish a National Government to rebuild the country. It’s imperative for both the Government and opposition to collaborate in forming a parliament without an opposition to ensure the country’s revival at this juncture,” he said.
-
-◼️
-
-[Data](articles/8af504d0.json)
-
-[Extended Data](ext_articles/8af504d0.ext.json)
 
 ---

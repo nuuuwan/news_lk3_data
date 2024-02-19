@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 17:33:59**
+As of **2024-02-19 17:53:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,182
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,023 (99.9%) of 8,034 articles have been extended.
+8,034 (100.0%) of 8,034 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,19 +46,23 @@ In response to the allegations, the office of the former President clarified tha
 
 [Data](articles/56949e4d.json)
 
+[Extended Data](ext_articles/56949e4d.ext.json)
+
 ---
 
-### ரயிலுடன் மோட்டார் சைக்கிள் மோதியதில் மூவர் பலி
+### Three killed in motorcycle collision with train
 
 *2024-02-19 16:51:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-மோட்டார்-சைக்கிள்-மோதியதில்-மூவர்-பலி/175-333465) · `ta`
 
-கொழும்பில் இருந்து புத்தளம் நோக்கி பயணித்த புகையிரதத்தில் மோட்டார் சைக்கிள் மோதியதில், மோட்டார் சைக்கிளில் பயணித்த தாய் மற்றும் மகள்கள் இருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Two mothers and daughters on a motorcycle were killed when a motorcycle crashed into a train from Colombo to Puttalam, police said.
 
-ஆராச்சிக்கட்டுவ மற்றும் அனவிலுந்தவ உப நிலையங்களுக்கு இடையில் மோட்டார் சைக்கிள்  புகையிரதத்துடன் மோதி விபத்துக்கு உள்ளாகியுள்ளது என பொலிஸார் தெரிவித்தனர்.
+The motorcycle collided with a train between the Arachchikattuwa and Anilundawa sub -centers, police said.
 
 ◼️
 
 [Data](articles/3e2f48fe.json)
+
+[Extended Data](ext_articles/3e2f48fe.ext.json)
 
 ---
 
@@ -78,25 +82,29 @@ The Kotakethana area became notorious for a series of mysterious killings and du
 
 [Data](articles/f46ae3ca.json)
 
+[Extended Data](ext_articles/f46ae3ca.ext.json)
+
 ---
 
-### இராஜாங்க அமைச்சருக்கு எதிராக  சவப்பெட்டியுடன்  உண்ணாவிரதம்
+### Fasting with a coffin against the diplomatic minister
 
 *2024-02-19 16:34:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சருக்கு-எதிராக-சவப்பெட்டியுடன்-உண்ணாவிரதம்/175-333458) · `ta`
 
-இராஜாங்க அமைச்சர் எஸ்.வியாழேந்திரனின் அதிகார துஷ்பிரயோகத்துக்கு ஆளாகாமல் செங்கலடி பிரதேச செயலாளர் சட்டப்படி தமது கடமையை புரியுமாறும், இராஜாங்க அமைச்சரை ஏறாவூர் பற்று பிரதேச அபிவிருத்தி குழு தலைவர் பதவியை பறிக்குமாறு கோரியும், சவப்பெட்டியுடன் இருவர் உண்ணாவிரத போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+Two persons are engaged in a hunger strike with a coffin, demanding the abuse of the Minister of State S. Viyalendran, demanding the departure of the Minister of State for the Eravur Patti Divisional Development Committee.
 
-கல், மண் மற்றும் கிறல் அகழ்வில் சட்டரீதியாக ஈடுபட்டு வரும்  இருவரே,  மட்டு- செங்கலடி பிரதேச செயலகத்துக்கு அருகில், சவப்பெட்டியுடன் சாகும்வரை உண்ணாவிரத போரட்டத்தில்,  திங்கட்கிழமை (19) ஈடுபட்டுள்ளனர்.
+The two men who are legally involved in stone, mud and chry excavation have been involved in a hunger strike on Monday (19) near the Modu-Chengaladi Divisional Secretariat.
 
-கல், மண் மற்றும் கிறவல் என்பனவற்றை சட்டரீதியாக அனுமதி பெற்று அகழ்வில் ஈடுபட்டுவருபவர்களின் 2024 ஆண்டு அனுமதியை புதுப்பிக்க இராஜாங்க அமைச்சரின் சிபார்சு இருந்தால் மட்டும் புதுப்பிக்க முடியும் என பிரதேச செயலாளர் அனுமதி பத்திரத்தை புதுப்பிக்க
+The Divisional Secretary's approval can be renewed only if the State Minister's recommendation is that the State Minister's recommendation can only be renewed in the 2024 year permit for those who are legally permission from stone, soil and kaval.
 
-மறுத்து வருவதை அடுத்தே இராஜாங்க அமைச்சரின் அதிகார துஷ்பிரயோகத்துக்கு எதிர்ப்பு தெரிவித்து இந்த சாகும்வரை உண்ணாவிரத போராட்டத்தினை ஆரம்பித்துள்ளனர்
+Following the refusal, the hunger strike has begun till this death, protesting against the abuse of the Minister of State
 
-இது தொடர்பாக உண்ணாவிரத போரட்டத்தில்  ஈடுபட்டு வரும் இருவரும் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில்
+Commenting on this, the two who are engaged in a hunger strike
 
 ...
 
 [Data](articles/939ce024.json)
+
+[Extended Data](ext_articles/939ce024.ext.json)
 
 ---
 
@@ -113,6 +121,8 @@ Colombo, Feb 19 (Daily Mirror) - Samagi Jana Balawegaya (SJB) MP Sarath Fonseka 
 ◼️
 
 [Data](articles/44c82e6b.json)
+
+[Extended Data](ext_articles/44c82e6b.ext.json)
 
 ---
 
@@ -135,6 +145,8 @@ However, according to 'Swastha' which is the information management system of th
 ◼️
 
 [Data](articles/a242af31.json)
+
+[Extended Data](ext_articles/a242af31.ext.json)
 
 ---
 
@@ -320,23 +332,27 @@ Fisherfolk from Pitipana, Negombo staged a protest today outside the Archbishop'
 
 [Data](articles/227b9b2d.json)
 
+[Extended Data](ext_articles/227b9b2d.ext.json)
+
 ---
 
-### විශ්ව විද්‍යාල සිසුන් ඉලක්ක කර පවත්වාගෙන ගිය සම්බාහන මධ්‍යස්ථානයක් වටලයි
+### Massage Center raided aimed at university students
 
 *2024-02-19 15:23:47* · [`adalk`](https://www.ada.lk/breaking_news/විශ්ව-විද්‍යාල-සිසුන්-ඉලක්ක-කර-පවත්වාගෙන-ගිය-සම්බාහන-මධ්‍යස්ථානයක්-වටලයි/11-408176) · `si`
 
-ආයුර්වේද දෙපාර්තමේන්තුවේ හෝ ප්‍රදේශයේ පළාත් පාලන ආයතනයේ කිසිදු ලියාපදිංචියක් නොමැතිව නීති විරෝධී අයුරින් පවත්වාගෙන ගොස් ඇති මෙම සම්බාහන මධ්‍යස්ථානය වටලන අවස්ථාවේදීද එහි විශ්ව විද්‍යාල සිසුන් සිට පලා
+The massage station has been raided without any registration of the Ayurveda Department or in the area of the local government.
 
-ගොස් ඇති බවට තොරතුරු ලැබී තිබෙන බවද පේරාදෙණිය පොලිසිය කියයි.
+The Peradeniya Police say that there have been reports.
 
-එම සම්බාහන මධ්‍යස්ථානයේ සිට ගණිකා වෘත්තියේ යෙදුණු බවට සැක කරන වයස අවුරුදු 25, 28 සහ 30 වයසේ කාන්තාවන් තිදෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර එහි කළමනාකරු පලාගොස් ඇති බවත් ඔහු අත්අඩංගුවට ගැනීම සඳහා පොලිස් විමර්ශන ආරම්භ කොට ඇති බවද පොලිසිය කියයි.
+Police have arrested three ages of 25, 28 and 30 years of age suspected to prostitute from the massage center and the manager has commenced.
 
-මහනුවර කොට්ඨාශ භාර ජේෂ්ඨ පොලිස් අධිකාරි චමිල් රත්නායක මහතාගේ උපදෙස් පරිදි පේරාදෙණිය පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක විජිත් විජේකෝන් මහතාගේ මෙහෙයවීමෙන් දූෂණ මර්දන අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක කපුකොටුව මහතා ඇතුළු පොලිස් කණ්ඩායමක් වැඩිදුර විමර්ශන සිදු කරයි .
+Police OIC Chief Inspector General of Police Chief Inspector Kapupuduwa, Chief Inspector Campaign of the Peradeniya Police Chamil Ratnayake, is conducting further investigations.
 
 ◼️
 
 [Data](articles/d6ab6b33.json)
+
+[Extended Data](ext_articles/d6ab6b33.ext.json)
 
 ---
 
@@ -736,19 +752,21 @@ Health Service Celebrities staged a protest this morning (19) demanding the remo
 
 ---
 
-### ඇමති හරින්ට මරණ දඬුවම දිය යුතුයි - උදය
+### Minister Harin should be sentenced to death
 
 *2024-02-19 13:44:14* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-හරින්ට-මරණ-දඬුවම-දිය-යුතුයි---උදය/11-408173) · `si`
 
-හරින් ප්‍රනාන්දු ඇමති ඉන්දියාවට ගොස් ලංකාව ඉන්දියාවේ කොටසක් බවට ප්‍රකාශ කර තිබූ බැවැින් එය  සෘජුවම ශ්‍රී ලංකාවේ ස්වෛරීත්වය හා ස්වාධීනත්වය උල්ලංඝණය කිරීමක් බව උදය ගම්මන්පිල මහතා මාධ්‍ය හමුවකට ඒක්වෙමින්  අද (19) කියා සිටයේය.
+Udaya Gammanpila was presenting a media briefing today that Harin Fernando went to India and violated the sovereignty and independence of Sri Lanka directly.
 
-මේ ප්‍රකාශය එක පැත්තකින් ඇමතිවරයෙකු ලෙස පත්වීම ලබා ගැනීමට පෙර ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ලබා දුන්නු දිවුරුම උල්ලංඝණය කිරීමක්.  ඒ අනුව හරින් ඇමතිතුමා තවදුරටත් ඇමති ධූරය දැරීමට නුසුදුස්සෙකු වෙනවා.  අනිත් පැත්තෙන් අපේ රට තවත් රටකට ඈඳීමට කටයුතු කිරීම රාජද්‍රෝහි ක්‍රියාවක්.  රාජද්‍රෝහි කියන්නේ සිය රාජ්‍යයට ද්‍රෝහිවීම මිස රජතුමෙකුට ද්‍රෝහිවීම නොවේ.
+This statement is a violation of the oath of violating the constitution before the appointment is being appointed.Accordingly, the Minister is still disqualified to bear the post of Minister.On the other hand, it is an act of Rajasonro to address another country.Rajadro is betraying his kingdom, not the betrayal of a king.
 
-අපේ දණ්ඩ නීති සංග්‍රහයේ රාජද්‍රෝහිත්වයට නියම කරලා තිබෙන දඬුවම මරණ දඬුවම.  සරලව කිව්වොත් හරින් ප්‍රනාන්දු ඇමතිවරයා කරලා තිබෙන්නේ මරණ දඬුවම ලබා දිය හැකි වරදක්.
+The sentence sentenced to the treatment of dutmation of the Penal Code is sentenced to death.Simply, the Minister has been made by the death penalty.
 
 ◼️
 
 [Data](articles/2027eaa3.json)
+
+[Extended Data](ext_articles/2027eaa3.ext.json)
 
 ---
 
@@ -870,21 +888,25 @@ Although it is the Rajapaksas that nominated – and are propping up – their s
 
 ---
 
-### ඉතාලි සංචාරක යුවළක් ගමන් ගත් මෝටර් රථය අධිවේගයේ අනතුරක
+### The car traveling to an Italian tourist couple in the highway
 
 *2024-02-19 13:15:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉතාලි-සංචාරක-යුවළක්-ගමන්-ගත්-මෝටර්-රථය-අධිවේගයේ-අනතුරක/11-408170) · `si`
 
-ඉතාලි ජාතික සංචාරක යුවළක් රැගත් සුඛෝභෝගී මෝටර් රථයක් දක්ෂිණ අධිවේගී මාර්ගයේ කොට්ටාව පිවිසුම ආසන්නයේදී  ආරක්ෂිත වැටේ ගැටීමෙන් එම යුවළ ඇතුළු රියදුරු තුවාල ලබා හෝමාගම මූලික රෝහල වෙත ඇතුලත් කර ඇතැයි අධිවේගී රථවාන පොලිසිය කියයි.
+The expenditure incurred to the Homagama Police say that a healthy car carrying Italian tournament is admitted to the Homagama Treasury.
 
-අනතුරින් තුවාල ලබා ඇත්තේ වයස අවුරුදු 74 හා 76 වයස්වල පසුවන සංචාරක යුවළ සහ වයස අවුරුදු 42 ක් වන රියදුරුය.
+The accident was injured in the accident and 76 years of age and 42 years of age.
 
-ඉකුත් ජනවාරි 24 වෙනි දින මෙරට සංචාරයක් සඳහා පැමිණ තිබූ ඉතාලි ජාතික යුවළ හික්කඩුව ප්‍රදේශයේ සංචාරක හෝටලයක නැවතී සිට මෙරට සිරි නරඹා පෙරේදා (18) රාත්‍රී යළි මව් රටට යාම සඳහා  හික්කඩුව ප්‍රදේශයේ සංචාරක සමාගමකින් සුඛෝභෝගී මෝටර් රථයක් ඇනයුම්කර එමගින් කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ කරා යමින් සිටියදී මෙම අනතුර වී තිබූ බව පොලිසිය කියයි.
+The Italian Nationalian visit to Sri Lanka's visit to Sri Lanka on January 24 (18) was visiting the Bandaranaike International International Airport, to return to the homeland in Hikkaduwa.Police said.
 
-සුඛෝපභෝගී මෝටර් රථයේ රියැදුරු  එකවරම අපරීක්ෂාකාරී ලෙස මෝටර් රථය වම් අත දිශාවට හැරවීම හේතුවෙන්   ආරක්ෂිත වැටෙහි මුල්ලේ මෝටර් රථය ගැටී මෙම අනතුර වී තිබූ බව පොලිසිය කියයි.
+The driver of the luxury car was hit by the collision of the safety fence due to the role of the vehicle.
 
-...
+The Special Task Force has acted immediately to the Homagama Base Hospital, police said.
+
+◼️
 
 [Data](articles/1920ae95.json)
+
+[Extended Data](ext_articles/1920ae95.ext.json)
 
 ---
 
@@ -988,21 +1010,23 @@ According to the relevant gazette, published by President Ranil Wickremesinghe i
 
 ---
 
-### 19 හැවැරිදි තරුණියට ලිංගික අතවර කළැයි 15 හැවැරිදි පාසල් සිසුවා අත්අඩංගුවට
+### 19 Astronomy school student arrested for sexual abuse
 
 *2024-02-19 13:07:29* · [`adalk`](https://www.ada.lk/breaking_news/19-හැවැරිදි-තරුණියට-ලිංගික-අතවර-කළැයි-15-හැවැරිදි-පාසල්-සිසුවා-අත්අඩංගුවට/11-408168) · `si`
 
-19 හැවිරිදි  තරුණියකට ලිංගික අතවර කළ බව කියන 15 හැවිරිදි  පාසල් සිසුවෙකු අත්අඩංගුවට ගත් බව කළුතර උතුර පොලිසිය කියයි.
+A 15-year-old schoolgirl has been arrested, said Kalutara North Police say that a 15-year-old schoolgirl was arrested.
 
-19 හැවිරිදි  තරුණියගේ මව පොලිසියට පැමිණ සිදුකළ පැමිණිල්ලකට අනුව සැකකාර සිසුවා අත්අඩංගුවට ගෙන ඇත.
+The suspect was arrested following a complaint lodged with the mother of the 19-year-old girl.
 
-පැමිණිල්ල සහ විත්ති පාර්ශවයේ නිවාස එකම ප්‍රදේශයක පිහිටා තිබෙන අතර කලක සිට පැවතෙන ආරවුලක් මෙම සිද්ධියට හේතු වී ඇති බව පොලිසිය කියයි.
+The complaint and the news of the defendant are located in the same area.
 
-කළුතර උතුර පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂකත් දමිත් ජයතිලක මහතාගේ උපදෙස් මත පර්යේෂණ පැවැත්වේ.
+Research on the instructions of the OIC of the Kalutara Police Chief Inspector and Damith Jayatilake.
 
 ◼️
 
 [Data](articles/52ed7610.json)
+
+[Extended Data](ext_articles/52ed7610.ext.json)
 
 ---
 

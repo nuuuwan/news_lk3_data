@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 10:17:32**
+As of **2024-02-19 10:32:48**
 
 ## Newspaper Stats
 
@@ -26,79 +26,87 @@ dailymirrorlk | 1,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,931 (99.9%) of 7,935 articles have been extended.
+7,935 (100.0%) of 7,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### ගෝත්‍රික ගැටුම් ජීවිත රැසක් අහිමි කරයි
+### Tribal conflicts lose many lives
 
 *2024-02-19 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193566) · `si`
 
-ඒ හේතුවෙන් ගෙවුණු සති අන්තයේදී පුද්ගලයින් 64 දෙනෙකු වෙඩි වැදී ඝාතනයට ලක්ව ඇති බව වාර්තා විය.
+As a result, 64 persons were shot dead in the past.
 
-පැපුවා නිව්ගිනි රාජ්‍යයේ කඳුකර කලාපයක ගෝත්‍රික කණ්ඩායම් අතර සිදුවූ ප්‍රචණ්ඩ ක්‍රියාවලින් බව වැඩිදුරටත් සඳහන් වේ.
+It is said that the violent violence between the tribal groups in a mountainous region of the Papua Newgiri.
 
-ගෙවුණු සති අන්තය තුළ එන්ගා ප්‍රාන්තයේ සිදුවූ මෙම ප්‍රචණ්ඩක්‍රියා සඳහා ගෝත්‍රික කණ්ඩායම් 17ක් පමණ සම්බන්ධ බවට විදෙස් මාධ්‍ය පවසයි.
+According to foreign media reports, about 17 tribal groups involved in the Violent incident in the Naga State.
 
-ගෝත්‍රික කණ්ඩායම් මෙලෙස සටන් වදින්නේ ඉඩම් සහ ධනය බෙදාගැනීමේ අපේක්ෂාවෙනි.
+The tribal teams fight fights in the hope of sharing land and wealth.
 
-ගෙවුණු වසරේ ජූලි මාසයේදී ද මෙහි ගැටුම් උග්‍ර වූ අතර ඒ හේතුවෙන් මාස තුනක් කලාපය මුළුමනින්ම වසාදැමීමට බලධාරීන් කටයුතු කර තිබේ.
+The clashes erupted in July year in July year and the authorities have acted entirely to cover up the region with three months.
 
 ◼️
 
 [Data](articles/1870c664.json)
 
+[Extended Data](ext_articles/1870c664.ext.json)
+
 ---
 
-### முதலாம் தவணை இன்று ஆரம்பம்
+### The first installment is just beginning today
 
 *2024-02-19 09:46:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாம்-தவணை-இன்று-ஆரம்பம்/175-333425) · `ta`
 
-அரச பாடசாலைகள் மற்றும் அரச தனியார் பாடசாலைகளின் 2024ஆம் ஆண்டு கல்வி நடவடிக்கைகளுக்கான முதலாம் தவணை இன்று (19) ஆரம்பமாகியது.
+The first installment for educational activities of state schools and state private schools began today (19).
 
-இதற்கமைய, 2023ஆம் ஆண்டுக்கான 3ஆம் தவணை விடுமுறை டிசம்பர் 22ஆம் தகதி முதல் பெப்ரவரி 02ஆம் திகதி வரை வழங்கப்பட்டிருந்தது.
+Accordingly, the 3rd installment holiday for 2023 was issued from December 22 to February 2.
 
-அத்துடன், கொவிட் தொற்று பரவல் காரணமாக மாற்றமடைந்த பாடசாலை தவணை முறைகளை, 2025ஆம் ஆண்டு முதல் சீரமைக்க கல்வி அமைச்சு நடவடிக்கைகளை எடுத்துள்ளமை குறிப்பிடத்தக்கது.
+It is also worth noting that the Ministry of Education has taken steps to revamp the school installments that have been changed due to the spread of Kovit infection since 2025.
 
 ◼️
 
 [Data](articles/8293a61d.json)
 
+[Extended Data](ext_articles/8293a61d.ext.json)
+
 ---
 
-### சுகாதார ஊழியர்களின் வேலை நிறுத்தம்; இன்று இறுதி முடிவு
+### The strike of health workers;Today's final decision
 
 *2024-02-19 09:45:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்களின்-வேலை-நிறுத்தம்-இன்று-இறுதி-முடிவு/175-333424) · `ta`
 
-கொடுப்பனவு பிரச்சினையை முன்வைத்து பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ள சுகாதார தொழிற்சங்கங்கள் இன்று (19) சுகாதார அமைச்சர் டொக்டர் ரமேஷ் பத்திரனவுடன் கலந்துரையாடல் ஒன்றை மேற்கொள்ளவுள்ளனர்.
+Health Trade Unions, who have been involved in the issue of allowance, will hold a discussion with Health Minister Dr. Ramesh Pathirana today (19).
 
-இது தொடர்பான கலந்துரையாடல் இன்று காலை 10.00 மணிக்கு நடைபெறவுள்ளதாக சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பு தெரிவித்துள்ளது.
+The Federation of Health Trade Unions said that the discussion will be held at 10.00 am today.
 
-அண்மையில், வைத்தியர்களுக்கு மாத்திரம் கொடுப்பனவுகள் அதிகரிக்கப்பட்டமைக்கு எதிர்ப்புத் தெரிவித்து சுகாதார சேவையில் உள்ள 72 தொழிற்சங்கங்கள் பணிப்புறக்கணிப்பில் ஈடுபட்டதுடன், சுகாதார அமைச்சருடன் பேச்சு வார்த்தை நடத்துவதாக எழுத்துமூலமான உறுதிமொழியின் பேரில் அவர்கள் வேலை நிறுத்தத்தை தற்காலிகமாக இடைநிறுத்தியிருந்தனர்.
+Recently, 72 trade unions in the Health Service were engaged in the workplace and temporarily suspended the strike on a written promise to negotiate with the Minister of Health.
 
-சுகாதார அமைச்சர் டொக்டர் ரமேஷ் பத்திரனவுடனான கலந்துரையாடலில் தமது பிரச்சினைகளுக்கு தீர்வு கிடைக்காவிடின் மீண்டும் பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளதாக சுகாதார தொழிற்சங்க கூட்டமைப்பின் ஒருங்கிணைப்பாளர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+Ravi Kumudesh, Coordinator of the Health Trade Union Federation, said that if his problems are not resolved in a discussion with Health Minister Dr. Ramesh Pathrana, he will re -engage in work.
 
 ◼️
 
 [Data](articles/25c1581a.json)
 
+[Extended Data](ext_articles/25c1581a.ext.json)
+
 ---
 
-### இரண்டாவது டி20 போட்டி இன்று
+### The second T20 match today
 
 *2024-02-19 09:35:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இரண்டாவது-டி20-போட்டி-இன்று/44-333423) · `ta`
 
-இலங்கை மற்றும் ஆப்கானிஸ்தான்  அணிகள் மோதும் 2ஆவது டி20 போட்டி இன்று இடம்பெறவுள்ளது.
+The 2nd T20 match between Sri Lanka and Afghanistan will be played today.
 
-இரு நாடுகளுக்கும் இடையிலான முதலாவது டி20 போட்டியில் இலங்கை அணி 4 ஓட்டங்களால் வெற்றி பெற்ற நிலையில்,
+Sri Lanka won by 4 runs in the first T20 match between the two countries.
 
-இதேவேளை,  இரண்டாவது மற்றும் மூன்றாவது T20 போட்டிகளுக்கான அனைத்து டிக்கெட்டுகளும் விற்பனை செய்யப்பட்டுள்ளதாக இலங்கை கிரிக்கெட் நிறுவனம் தெரிவித்துள்ளது.
+Meanwhile, all tickets for the second and third T20 matches have been sold, Sri Lanka Cricket said.
 
 ◼️
 
 [Data](articles/89fc31e7.json)
+
+[Extended Data](ext_articles/89fc31e7.ext.json)
 
 ---
 

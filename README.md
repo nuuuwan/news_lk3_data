@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 04:32:50**
+As of **2024-02-20 04:49:20**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 1,198
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,122 (100.0%) of 8,123 articles have been extended.
+8,123 (100.0%) of 8,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### ’பாரத்-லங்கா’ ஜனாதிபதி தலைமையில் அங்குரார்ப்பணம்
+### Inauguration of Bharat-Sri Lankan President
 
 *2024-02-20 03:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரத்-லங்கா-ஜனாதிபதி-தலைமையில்-அங்குரார்ப்பணம்/175-333485) · `ta`
 
-இந்திய அரசாங்கத்தின் நிதி உதவியின் கீழ் தோட்டத் தொழிலாளர்களுக்காக 10 ஆயிரம் வீடுகளை நிர்மாணிக்கும் ‘பாரத் - லங்கா’ வீடமைப்புத் திட்டத்தின் நான்காம் கட்டம் ஜனாதிபதி அலுவலகத்தில் இருந்து நேற்று ஒன்லைன் ஊடாக அங்குரார்ப்பணம் செய்யப்பட்டது.
+The fourth phase of the Bharat -Lanka Housing Scheme, which constructed 10 thousand houses for plantation workers under the financial assistance of the Government of India, was launched yesterday from the Presidential Office on online.
 
-'பாரத் -லங்கா' வீடமைப்புத் திட்டத்தின் நான்காம் கட்டத்தின் கீழ் 10 மாவட்டங்களில், 45 தோட்டங்களில், 1300 வீடுகளை நிர்மாணிப்பதற்கு அடிக்கல் நாட்டும் வகையில் ஒன்லைன் ஊடாக நினைவுப் பலகை திறந்து வைக்கப்பட்டது.
+Under the fourth phase of the 'Bharat -Sri Lanka' Housing Scheme, the monument was opened through online for the construction of 1300 houses in 10 districts, 45 gardens.
 
-இந்த நிகழ்வில் ஜனாதிபதி ரணில் விக்கிரமசிங்க, நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் மற்றும் இலங்கை இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா ஆகியோர் இணைந்து கொண்டனர். (a)
+President Ranil Wickremesinghe, Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman and Sri Lanka's High Commissioner Santosh Ja were present at the event.. (A)
 
 ◼️
 
 [Data](articles/c23180d7.json)
+
+[Extended Data](ext_articles/c23180d7.ext.json)
 
 ---
 

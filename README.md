@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 12:49:57**
+As of **2024-02-19 13:02:36**
 
 ## Newspaper Stats
 
-*Scraped **7,957** Articles*
+*Scraped **7,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 88
 bbccomsinhala | 100
 dbsjeyarajcom | 154
 newsfirstlk | 363
-economynextcom | 406
+economynextcom | 409
 islandlk | 420
 dailyftlk | 434
 adalk | 678
@@ -20,17 +20,33 @@ tamilmirrorlk | 967
 adaderanalk | 976
 virakesarilk | 1,047
 adaderanasinhalalk | 1,158
-dailymirrorlk | 1,166
+dailymirrorlk | 1,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,957 (100.0%) of 7,957 articles have been extended.
+7,957 (99.9%) of 7,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Japan grants Sri Lanka 40,000 MT of diesel for healthcare transport
+
+*2024-02-19 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japan-grants-Sri-Lanka-40-000-MT-of-diesel-for-healthcare-transport/108-277314) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - Sri Lanka has received a grant of 40,000 metric tons of diesel from the Japanese government designated to fortify transportation services within Sri Lanka's healthcare system, particularly benefiting ambulance operations.
+
+The formal handover ceremony was held at the the Colombo Port today in the presence of Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki and Minister of Health and Industry Dr. Ramesh Pathirana.
+
+Furthermore, to ensure transparent and accountable management of the diesel resources, authorities have introduced a sophisticated Fuel Management Information System (FIMS), which will meticulously track the distribution of the diesel across healthcare institutions, maintaining detailed records of fuel allocations to vehicles and facilities.
+
+◼️
+
+[Data](articles/99b3b1bb.json)
+
+---
 
 ### World Court to hear arguments on Israeli occupation of Palestinian territories
 
@@ -51,6 +67,20 @@ Among countries scheduled to participate in the hearings are the United States -
 [Data](articles/72edc82c.json)
 
 [Extended Data](ext_articles/72edc82c.ext.json)
+
+---
+
+### Court prevents removal of Sarath Fonseka from SJB’s positions
+
+*2024-02-19 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-prevents-removal-of-Sarath-Fonseka-from-SJBs-positions/108-277313) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - The Colombo District Court today issued an enjoining order preventing the Samagi Jana Balawegaya (SJB) from removing Field Marshal Sarath Fonseka from the party positions.
+
+The District Court made this order pursuant to a plaint filed by Field Marshal Sarath Fonseka against SJB office bearers.
+
+◼️
+
+[Data](articles/b1d4f6a9.json)
 
 ---
 
@@ -75,6 +105,28 @@ At the Annual Conference of the American Scholarship Association, Mrs. Teresa Ha
 [Data](articles/01e33ce0.json)
 
 [Extended Data](ext_articles/01e33ce0.ext.json)
+
+---
+
+### Health sector faces dearth of critical medical equipment
+
+*2024-02-19 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-sector-faces-dearth-of-critical-medical-equipment/108-277312) · `en`
+
+Colombo, Feb 19 (Daily Mirror) -  Health sector trade unions claimed that government hospitals are grappling with an acute shortage of critical medical equipment, including surgical equipment.
+
+According to 'Swastha' which is the information management system of the availability of medicinal drugs, there is a significant shortage of stent items including esophageal stent, Double J stent 3Fr etc.
+
+This concern was also raised by Dr. Chamal Sanjeeva, president of the Union of Medical and Civil Rights Physicians.
+
+Addressing the media, he claimed that critical surgical equipment are in shortage with about 3,800 out of 5,800 surgical items being unavailable.
+
+He proceeded to say that medical equipment necessary for emergency services are also facing a shortage, thus sparking serious concerns.
+
+When inquired from the Health Ministry, a senior health official told the Daily Mirror that there are no official reports of surgeries being halted due to the unavailability of equipment as of now.
+
+...
+
+[Data](articles/14a06835.json)
 
 ---
 
@@ -220,6 +272,22 @@ Foreign husband and wife have traveled to Katunayake Airport from Hikkaduwa area
 
 ---
 
+### Roundtable discussion on education technology in Sri Lanka
+
+*2024-02-19 11:05:00* · [`economynextcom`](https://economynext.com/roundtable-discussion-on-education-technology-in-sri-lanka-151447/) · `en`
+
+ECONOMYNEXT – A roundtable discussion on “Ed-tech towards achieving SDGs”, organized by the Institute of Policy Studies of Sri Lanka, Southern Voice, and Peru’s Group for the Analysis of Development (GRADE) will take place on February 27, from 2.30-3.30 pm.
+
+“Amid the accelerated use of education technology (Ed-tech) since the COVID-19 pandemic, a crucial focus is placed on ensuring that Ed-tech contributes to the attainment of Sustainable Development Goal (SDG) 4 ‘Quality Education’, is accessible to all, and does not create nor widen existing inequalities in education,” IPS said in a statement.
+
+“The hybrid roundtable discussion aims to facilitate a conversation among regional-level implementing agencies, policymakers, and other relevant stakeholders to influence policies that support the effective and efficient use of Ed-tech across Asia and the Middle East and North Africa (MENA) in the future.”
+
+...
+
+[Data](articles/1d47adc7.json)
+
+---
+
 ### The latest way to demand ransom reveals
 
 *2024-02-19 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193568) · `si`
@@ -330,6 +398,26 @@ The police have arrested 42 year old mother in connection with the killings.
 
 ---
 
+### Sri Lanka has not blacklisted any contractors, unlike India, Bangladesh, Nepal: report
+
+*2024-02-19 10:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-has-not-blacklisted-any-contractors-unlike-india-bangladesh-nepal-report-151417/) · `en`
+
+ECONOMYNEXT – Sri Lanka has blacklisted zero contractors for engaging in corrupt practices, while other South Asian countries had named hundreds, according to a study by Verité Research, a Colombo-based think tank.
+
+By contrast, Nepal had 629 entries on a public, online database, and Bangladesh had 510.
+
+“Sri Lanka has the worst record among South Asian countries in blacklisting corrupt contractors in public procurement,” a statement by Verité Research said.
+
+Its report shows that “Sri Lanka is the only country in South Asia that 1) does not recognise engaging in corrupt and fraudulent activities during procurement as a valid reason for blacklisting 2) has not blacklisted contractors that have defaulted on contractual obligations despite having the provisions to do so.”
+
+There may be several reasons for the inaction, the report found.
+
+...
+
+[Data](articles/5db9078b.json)
+
+---
+
 ### The first record posted on social media after her husband's disappearance
 
 *2024-02-19 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176725) · `ta`
@@ -365,6 +453,26 @@ A large number of owners of eggs have been brought to the pascutors in the Matal
 [Data](articles/79354303.json)
 
 [Extended Data](ext_articles/79354303.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 312.10/45 to the US dollar
+
+*2024-02-19 09:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-312-10-45-to-the-us-dollar-151409/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 312.10/45 to the US dollar Monday, from 312.20/35 on Friday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted at 10.95/11.05 percent unchanged from Friday.
+
+A bond maturing on 15.09.2027 was quoted at 11.50/90 percent from 11.55/75 percent.
+
+A bond maturing on 15.03.2028 was quoted at 12.00/10 percent from 11.90/12.05 percent.
+
+The COlombo Stock Exchange opened up. The All Share Price Index was up 0.15 percent at 10,601 and the S&P SL20 was up 0.14 percent at 3,053. (Colombo/Feb19/2024)
+
+◼️
+
+[Data](articles/f08e93b4.json)
 
 ---
 
@@ -1919,125 +2027,5 @@ Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said 
 [Data](articles/5de8f9d7.json)
 
 [Extended Data](ext_articles/5de8f9d7.ext.json)
-
----
-
-### How to present plans without the approval of MPs;Discussion at Jaffna District Coordinating Committee meeting
-
-*2024-02-18 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176703) · `ta`
-
-The Jaffna District Coordinating Committee meeting was held at the Jaffna District Secretariat on Friday (18) under the patronage of Douglas Devananda, Minister of Fisheries and Chairman of the Jaffna Coordinating Committee.
-
-At the time of the project, the MPs who attended the meeting questioned that when the work plans to be carried out this year were displayed in the 2024 budget, the MPs had not received the approval of the MPs.
-
-In particular, the proposals to be carried out in the budget are proposed by the MPs.How were these projects proposed?The next issue was examined by the MPs who attended the Development Committee meeting and said that the Minister was selected in consultation with the MPs.
-
-Sivagnanam Sridharan, MA Sumanthiran, Kayndrakumar Ponnambalam, Selvarasa Gajendran, Angayan Ramanathan, including the General Secretary of the Ceylon Workers Congress and the Minister of Plantation Infrastructure
-
-...
-
-[Data](articles/9c13eac4.json)
-
-[Extended Data](ext_articles/9c13eac4.ext.json)
-
----
-
-### Diego Garcia asylum seekers feel unsafe on remote British island territory
-
-*2024-02-18 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97377/diego-garcia-asylum-seekers-feel-unsafe-on-remote-british-island-territory) · `en`
-
-A group of asylum seekers including Sri Lankan nationals on an isolated British island territory have told UN investigators they feel unsafe and forgotten, as they reported sexual assaults and harassment of children, as well as self-harm and suicide attempts.
-
-Inspectors from the UN’s refugee agency visited Diego Garcia, in the Indian Ocean, to check on their welfare.
-
-A draft report says that conditions there amounted to arbitrary detention.
-
-The Foreign Office said the island was not suitable for migrants to live on.
-
-Other than the migrant camp, the island is used as a UK-US military base. Thousands of troops are stationed there, usually on a one-year deployment, along with a smaller number of military contractors. For all allegations of sexual assault and harassment, the alleged perpetrators were other asylum seekers.
-
-...
-
-[Data](articles/0296f5c2.json)
-
-[Extended Data](ext_articles/0296f5c2.ext.json)
-
----
-
-### Ranil is not a crafty man as claimed: Anura Kumara
-
-*2024-02-18 21:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-is-not-a-crafty-man-as-claimed-Anura-Kumara/108-277264) · `en`
-
-Kurunegala, Feb. 18 (Daily Mirror)- Claiming that President Ranil Wickremesinghe is not a crafty man as claimed, NPP leader Anura Kumara Dissanayake said today he will have to go home even before the end of his scheduled term, if he attempts to evade the Presidential election by any means.
-
-Speaking at the Kurunegala District Women's convention, he said a new discussion had arisen on the need to scrap the Executive Presidency and said it was an age-old slogan.
-
-...
-
-[Data](articles/d46ad197.json)
-
-[Extended Data](ext_articles/d46ad197.ext.json)
-
----
-
-### Tragedy of Kottawa
-
-*2024-02-18 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193556) · `si`
-
-Police suspect that he was electrocuted while he was renovated while he was renovated.
-
-Police are expecting the police that the electricity was hit by an unprotected power supply.
-
-◼️
-
-[Data](articles/9d656c13.json)
-
-[Extended Data](ext_articles/9d656c13.ext.json)
-
----
-
-### Progress of justice at the end of two months
-
-*2024-02-18 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193555) · `si`
-
-Police have arrested 64,850 criminals through the operation of the country.
-
-It is reported that there are 56,140 suspects arrested on drugs and there are 8,710 suspects in the list that was referred to the criminal sections.
-
-Out of the 56,140 suspects arrested over drug misconduct, 1,850 suspects have been rehabilitated on detention orders.
-
-The number of suspects commenced inquiry was 234 suspects and 3,202 suspects on the Police Narcotics Bureau and the Police Special Bureau.
-
-The total number of drugs has been arrested nearly 7,852.6 million, and it has been revealed that the market value of the prohibition is nearly 726 million.
-
-There are 1,333 suspects who were arrested in the list of the list of criminal sectors and 6,700 open warrants in charge of drugs and non-drug errors.
-
-Meanwhile, the media notes have been identified by the media and has been arrested in operations and 393 suspects required for crimes.
-
-◼️
-
-[Data](articles/0e86b233.json)
-
-[Extended Data](ext_articles/0e86b233.ext.json)
-
----
-
-### We have no deeles with Rajapaksas. We have Deal with people - Sajith
-
-*2024-02-18 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176701) · `ta`
-
-Opposition Leader Sajith Premadasa said that he had no false speech and flattery compared to other leaders and that he had a way to earn the rupees and dollars for the country.
-
-As a country we have borrowed $ 90 billion. The Opposition Leader also pointed out that export -based development is necessary to get rid of this loan.
-
-He said that the politics of the garment factories were in the country and that the bus man was named the bus man when they were providing buses to schools.. The Leader of the Opposition said that if these are political hypocritical plays, if the opposition is able to develop the country, there is no time to speak as a mere chance.
-
-Opposition Leader Sajith Premadasa said this while addressing a function to provide smart classroom equipment worth Rs.
-
-...
-
-[Data](articles/8324a692.json)
-
-[Extended Data](ext_articles/8324a692.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 18:09:11**
+As of **2024-02-19 18:21:02**
 
 ## Newspaper Stats
 
-*Scraped **8,049** Articles*
+*Scraped **8,050** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 686
 tamilmirrorlk | 977
 adaderanalk | 982
 virakesarilk | 1,073
-adaderanasinhalalk | 1,169
+adaderanasinhalalk | 1,170
 dailymirrorlk | 1,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,046 (100.0%) of 8,049 articles have been extended.
+8,050 (100.0%) of 8,050 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Good responses to the Nursing Association
+
+*2024-02-19 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193583) · `si`
+
+The Association says that the Public Service United Nurses Union has responded positively to the government.
+
+Addressing a Midncre of the Public Service United Kingdom of the Public Service United Kingdom Muruththewe, Presidential Service (State)
+
+Public Service United Public Service United Nurses Union Chairman Muruththettuwe Ananda Thera,
+
+"As the Nursing Association, the Health Minister of Health Mahinda Rajapaksa has promised to increase the nurses' uniform allowance to Rs. 30,000. 255,000 of them agreed to provide the remaining Rs. 5,000 from January next year. The fuel allowance agreed to grant the final quarter next year. A committee on overtime has been appointed as the immediate solution to it as soon as possible. "
+
+◼️
+
+[Data](articles/8adc4b82.json)
+
+[Extended Data](ext_articles/8adc4b82.ext.json)
+
+---
 
 ### India begins construction of 1,300 houses for Sri Lanka plantation workers
 
@@ -546,17 +566,19 @@ The only CT testing facility in the Matara district has the same machine to be t
 
 ---
 
-### யாழ். அல்லைப்பிட்டியில் விபத்து ; பெண்ணொருவர் உயிரிழப்பு
+### Yall. Accident in Allaipitti;Death
 
 *2024-02-19 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176770) · `ta`
 
-மண்கும்பான் 4ஆம் வட்டாரம் பகுதியை சேர்ந்ததங்கரத்தினம் தனஸ்வரி (வயது 46) என்பவரே உயிரிழந்துள்ளார்.
+The deceased is Dhanasari (age 46), who belongs to the Mankumban 4th area.
 
-குறித்த பெண் பஸ்ஸில் இறங்க முற்பட்ட வேளை சாரதி பஸ்ஸை நகர்த்தியமையால், பஸ்ஸிலிருந்து தவறி விழுந்துள்ளார்.
+The driver of the woman who was trying to get on the bus, slipped off the bus.
 
 ◼️
 
 [Data](articles/b92d0598.json)
+
+[Extended Data](ext_articles/b92d0598.ext.json)
 
 ---
 
@@ -700,33 +722,37 @@ Speaking on the occasion, the Prime Minister urged public servants to cut the de
 
 ---
 
-### பெண் பொலிஸ் கான்ஸ்டபிளுக்கு பாலியல் தொல்லை : பொறியியல் கூட்டுத்தாபனத்தைச் சேர்ந்தவர் கைது!
+### Sexual harassment of female police constable
 
 *2024-02-19 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176767) · `ta`
 
-சிறுவர் மற்றும் பெண்கள் பணியக தலைமையகத்தின் பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவருக்கு பாலியல் தொல்லை கொடுத்ததார் என்ற குற்றச்சாட்டில் ஒருவர் கைது செய்யப்பட்டுள்ளதாக ஹோமாகம தலைமையக பொலிஸார் தெரிவித்தனர்.
+Homagama headquarters police said that a woman has been arrested for allegedly sexually harassing a female police constable at the Children's and Women's Bureau Headquarters.
 
-பொறியியல் கூட்டுத்தாபனத்தில் கடமையாற்றும் 43 வயதுடைய பாதுக்க மதுலாவ பிரதேசத்தைச் சேர்ந்த ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+A 43 -year -old man who works in the Engineering Corporation has been arrested.
 
-குறித்த பெண் பொலிஸ் கான்ஸ்டபிள் கொழும்பிலிருந்து இ.போ.ச  பஸ்ஸில் தனது வீட்டுக்குச் சென்று கொண்டிருந்தபோதே சந்தேக நபர் பாலியல் தொல்லை கொடுத்ததாக பொலிஸாரின் விசாரணையில் தெரியவந்துள்ளது.
+Police investigations revealed that the suspect had sexually harassed the woman as she was traveling from Colombo to her home from Colombo.
 
 ◼️
 
 [Data](articles/556f80a3.json)
 
+[Extended Data](ext_articles/556f80a3.ext.json)
+
 ---
 
-### மட்டக்களப்பு, கொக்கட்டிச்சோலை பகுதியில் கசிப்பு உற்பத்தி நிலையம் முற்றுகை ; ஒருவர் கைது
+### Siege of leakage manufacturing plant in Kokkatichcholai, Batticaloa;Arrest
 
 *2024-02-19 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176766) · `ta`
 
-மட்டக்களப்பு கொக்கட்டிச்சோலை பொலிஸ் பிரிவிலுள்ள முனைக்காடு களப்பு பகுதியில் கசிப்பு உற்பத்தி நிலையம் ஒன்றை இன்று திங்கட்கிழமை (19) பொலிஸார் முற்றுகை இட்டனர்.
+Police blockade a leak manufacturing plant on Monday (19) in the Munikkadu Kalappu area of the Kokkatticholai police division in Batticaloa.
 
-இதன்போது, 150 போத்தல் கசிப்புடன்  ஒருவரை கைது செய்ததுடன், 3 இலட்சத்து 50 ஆயிரம் மில்லி மீற்றர் கோடா, உற்பத்தி உபகரணங்கள் மற்றும் மோட்டர் சைக்கிள் ஒன்று மீட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A man was arrested with 150 bottles of leaks and a man of 3 lakhs 50 thousand millimeters, manufacturing equipment and motorcycles have been recovered.
 
 ◼️
 
 [Data](articles/ad5e4b64.json)
+
+[Extended Data](ext_articles/ad5e4b64.ext.json)
 
 ---
 
@@ -2007,23 +2033,5 @@ According to her complaint, the computer crime investigation unit opened by the 
 [Data](articles/0e17326e.json)
 
 [Extended Data](ext_articles/0e17326e.ext.json)
-
----
-
-### The first record posted on social media after her husband's disappearance
-
-*2024-02-19 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176725) · `ta`
-
-Yulia Navalnaya, the wife of Russian opposition leader Alexi Navalni, who died mysteriously in jail, posted a record on social media for the first time two days after her husband died.
-
-On page Yulia Navalnaiah posted a photo taken with Alexi Navalney on Instagram. In it, he stressed in Russian as "I love you" (I love you).
-
-Grah Yarmish, a spokesman for the late Russian opposition leader, confirmed the death of Navalni. Also, he requested that his body be handed over to his family to “immediately”. He also said that Russian authorities are lying to delay the hand of the body.
-
-◼️
-
-[Data](articles/33aa074b.json)
-
-[Extended Data](ext_articles/33aa074b.ext.json)
 
 ---

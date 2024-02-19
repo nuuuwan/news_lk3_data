@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 10:32:48**
+As of **2024-02-19 10:50:29**
 
 ## Newspaper Stats
 
-*Scraped **7,935** Articles*
+*Scraped **7,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 434
 adalk | 672
 tamilmirrorlk | 965
 adaderanalk | 970
-virakesarilk | 1,045
+virakesarilk | 1,046
 adaderanasinhalalk | 1,153
 dailymirrorlk | 1,166
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,935 (100.0%) of 7,935 articles have been extended.
+7,936 (100.0%) of 7,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -123,6 +123,24 @@ There is simmering tension against the Economic and Technology Cooperation Agree
 [Data](articles/10b7e74a.json)
 
 [Extended Data](ext_articles/10b7e74a.ext.json)
+
+---
+
+### The first installment of the school begins today
+
+*2024-02-19 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176722) · `ta`
+
+The first installment for educational activities of state schools and private schools recognized by the state began today (19).
+
+The third term of schools ended on the 16th. The 3rd installment holiday for 2023 was issued from December 22 to February 2.
+
+In addition, the Ministry of Education has taken steps to revamp the school installments that have been changed due to the spread of the Kovit infection.
+
+◼️
+
+[Data](articles/3d3368c9.json)
+
+[Extended Data](ext_articles/3d3368c9.ext.json)
 
 ---
 
@@ -2049,27 +2067,5 @@ It has said that the value of its value has been increased by 5.0 in the Richter
 [Data](articles/c28a2855.json)
 
 [Extended Data](ext_articles/c28a2855.ext.json)
-
----
-
-### An emergency operation in Colombo
-
-*2024-02-18 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193549) · `si`
-
-Police have conducted a special operation to cover all police divisions in the Western Province today.
-
-A total of 2,253 policemen, 1,111 police officers and 219 STF officers were deployed for the search operation.
-
-Due to two months after the operation of justice, the operation was carried out on the instructions of acting IGP Deshanayake Tennakoon.
-
-A total of 1,061 persons have been arrested, 11 vehicles and five suspects have been arrested.
-
-Heavy weapons have been taken to police in the housing sources and the foundations and drugs have been found in this respect,
-
-◼️
-
-[Data](articles/aa6d1f75.json)
-
-[Extended Data](ext_articles/aa6d1f75.ext.json)
 
 ---

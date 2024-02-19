@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 01:02:28**
+As of **2024-02-20 01:17:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,102 (100.0%) of 8,105 articles have been extended.
+8,105 (100.0%) of 8,105 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -190,6 +190,8 @@ Farmers face two main types of risks: production risk and price risk. The risk o
 
 [Data](articles/6440476d.json)
 
+[Extended Data](ext_articles/6440476d.ext.json)
+
 ---
 
 ### Twenty -20th match is the second fastest takerid winning 100 wickets
@@ -221,6 +223,8 @@ A floral procession (Mal Perahera) was held this evening at the Ganagarama Templ
 ◼️
 
 [Data](articles/79236b81.json)
+
+[Extended Data](ext_articles/79236b81.ext.json)
 
 ---
 
@@ -259,6 +263,8 @@ International Atomic Energy Agency (IAEA) consultant and expert on nuclear energ
 ...
 
 [Data](articles/5ee98e38.json)
+
+[Extended Data](ext_articles/5ee98e38.ext.json)
 
 ---
 

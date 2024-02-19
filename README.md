@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 17:02:32**
+As of **2024-02-19 17:17:32**
 
 ## Newspaper Stats
 
@@ -26,41 +26,51 @@ dailymirrorlk | 1,177
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,012 (99.9%) of 8,023 articles have been extended.
+8,023 (100.0%) of 8,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### மயிரிழையில் உயிர் தப்பிய விவசாயி
+### Peasant
 
 *2024-02-19 16:19:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயிரிழையில்-உயிர்-தப்பிய-விவசாயி/175-333455) · `ta`
 
-மன்னார் மதவாச்சி பிரதான வீதி, உயிலங்குளம்-நொச்சிக்குளம் பகுதியில்   திங்கட்கிழமை நொச்சிக்குளம் பகுதியை சேர்ந்த ஒருவரை இலக்குவைத்து துப்பாக்கி பிரயோகம் ​மேற்கொள்ளப்பட்ட நிலையில்,குறித்த கிராம மக்கள் வீதியை மறித்து போராட்டத்தில் ஈடுபட்டனர்.
+On Monday, a man from Nochikkulam was shot dead by the villagers of the Mannar Madawachi main road, Uilangulam-Nochikkulam.
 
-திங்கட்கிழமை  (19) நொச்சி குளத்தைச் சேர்ந்த   விவசாயி ஒருவர் தனது கிராமத்தில் வயலில் நீர் பாய்ச்சிக் கொண்டு இருந்த வேளையில் ஒரு மோட்டார் சைக்கிளில்  வந்த இரு நபர்கள் ரி-56 ரக துப்பாக்கி மூலம் விவசாயி மீது துப்பபாக்கி பிரயோகம் மேற்கொண்டிருந்த நிலையில் அவருக்கு எந்த வித பாதிப்புக்களும் இல்லையென  தெரிவிக்கப்படுகிறது.
+A farmer from the Nochchi pond on Monday (19) was reported to have no harm as two men on a motorbike were using a R-56 rifle with a R-56 rifle.
 
-கடந்த சில காலமாக கிராமத்து மக்களின் மீது ஒரு குழுவினர் தாக்குதல் நடத்தி இது வரை மூவர் உயிரிழந்துள்ளதாக அக்கிராம மக்கள் தெரிவித்துள்ளனர்.
+A group of people have said that three people have been killed in the past few years.
 
-மேலும்,  கிராமத்துக்கு பொலிஸ் காவல் போடப் பட்டும் அதையும் மீறி  குறித்த சம்பவம் தொடர்வதாகவும், திங்கடகிழமை (19) நடைபெற்ற சம்பவத்தை கண்டித்தும் நொச்சிக்குளம் கிராம மக்கள் வீதியை மறித்து போராட்டத்தில் ஈடுபட்டனர்.
+In addition, the villagers of Nochikkulam went on a protest over the incident on Monday (19), condemning the incident.
 
-...
+In the posts, 'Who gave the murderers a weapon?'"It is the duty of the state to protect us' 'Protect our lives' is not justice for our people?The words 'who gives'.
+
+The suspects involved in the shooting incident demanded that action be taken before the law.
+
+Following the shooting, all vehicles visiting Mannar city via Mannar main bridge from Monday (19) morning, ink, have been subjected to a special raid.
+
+◼️
 
 [Data](articles/8d49efd2.json)
 
+[Extended Data](ext_articles/8d49efd2.ext.json)
+
 ---
 
-### ආරච්චිකට්ටුවේදී දුම්රියේ ගැටී කාන්තාවක් සහ දරුවන් දෙදෙනෙකු මරුට
+### Two children killed and two children hit by train in Arachchikattuwa
 
 *2024-02-19 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193582) · `si`
 
-ආරච්චිකට්ටුව මයියාව ප්‍රදේශයේදී යතුරුපැදියක් දුම්රියේ ගැටීමෙන් කාන්තාවක් සහ කුඩා දරුවන් දෙදෙනෙකු මියගොස් තිබේ.
+A woman and two young children were killed when a motorbike collided with a motorcycle train in Myiya area.
 
-සිය දරුවා සහ වෙනත් දරුවෙකු උපකාරක පන්ති කරා රැගෙන යමින් සිටි මවක් පැදවූ යතුරුපැදිය මෙලෙස අද පස්වරුවේ දුම්රියේ ගැටී ඇත.
+The motorcycle, who was carrying a mother of a mother who was carrying his child and another child towards tuition, collided with the train.
 
 ◼️
 
 [Data](articles/fe89754d.json)
+
+[Extended Data](ext_articles/fe89754d.ext.json)
 
 ---
 
@@ -99,6 +109,8 @@ Sumitraarachchi alleged that certain employees of the department take the law in
 ...
 
 [Data](articles/5a43737a.json)
+
+[Extended Data](ext_articles/5a43737a.ext.json)
 
 ---
 
@@ -146,31 +158,35 @@ The only CT testing facility in the Matara district has the same machine to be t
 
 ---
 
-### மலையக மக்களுக்கு ஜனாதிபதி வழங்கிய வாக்குறுதி
+### The president's promise
 
 *2024-02-19 15:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மக்களுக்கு-ஜனாதிபதி-வழங்கிய-வாக்குறுதி/175-333451) · `ta`
 
-நாட்டின் பொருளாதாரத்துக்கு பெரும் பங்களிப்பை வழங்கும் மலையக தமிழ் மக்களின் பொருளாதார மற்றும் சமூக உரிமைகளை நிலைநாட்டுவதற்கு அரசாங்கம் அர்ப்பணிப்புடன் செயற்படுவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe said the government is dedicated to upholding the economic and social rights of the upcountry Tamil people that contribute to the economy of the country.
 
-மலையகத்தை பிரதிநிதித்துவப்படுத்தும் அனைத்து அரசியல் பிரதிநிதிகளையும் ஒன்றிணைத்து வேலைத்திட்டமொன்றை நடைமுறைப்படுத்துவது தொடர்பான முன்மொழிவுகள் அடுத்த மாதத்தில் முன்வைக்கப்பட உள்ளதாகவும் ஜனாதிபதி குறிப்பிட்டார்.
+The President also stated that proposals on the implementation of a program will be put forward in the next month.
 
-இந்திய அரசாங்கத்தின் நிதி ஒதுக்கீட்டின் கீழ் பெருந்தோட்ட மக்களுக்காக 10,000 வீடுகளை நிர்மாணிக்கும் 'பாரத்-லங்கா' வீடமைப்புத் திட்டத்தின் நான்காம் கட்ட ஆரம்ப நிகழ்வு ஜனாதிபதி அலுவலகத்தில் இருந்து ஒன்லைன் தொழில்நுட்பத்தின் ஊடாக இன்று (19) அங்குரார்ப்பணம் செய்து வைக்கப்பட்டது.
+The fourth phase of the Bharat-Sri Lanka Housing Scheme, which will construct 10,000 houses for plantation people under the allocation of the Government of India, was launched today (19) through online technology.
 
 ◼️
 
 [Data](articles/9a04e9c8.json)
 
+[Extended Data](ext_articles/9a04e9c8.ext.json)
+
 ---
 
-### கொட்டகெத்தன  இரட்டைக் கொலை: `செயின் கில்லர்’க்கு மரண தண்டனை
+### Kotagethana Double Murder: `Chain Killer
 
 *2024-02-19 15:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொட்டகெத்தன-இரட்டைக்-கொலை-செயின்-கில்லர்-க்கு-மரண-தண்டனை/76-333450) · `ta`
 
-இரத்தினபுரி கொட்டகெதன பிரதேசத்தில் இடம்பெற்ற இரட்டைக் கொலைச் சம்பவத்தில் தாயையும் மகளையும் பலாத்காரம் செய்து கொன்ற வழக்கில் குற்றவாளியாகக் காணப்பட்ட `செயின் கில்லர்’ என்பவருக்கு இரத்தினபுரி மேல் நீதிமன்ற நீதிபதி லங்கா ஜயரத்ன திங்கட்கிழமை (19) மரண தண்டனை விதித்து தீர்ப்பளித்தார்.
+Ratnapura High Court Judge Lanka Jayaratne on Monday sentenced the death sentence of 'Chain Giller', who was accused of raping his mother and daughter in a double murder in Kottena area in Ratnapura.
 
 ◼️
 
 [Data](articles/cd648fb5.json)
+
+[Extended Data](ext_articles/cd648fb5.ext.json)
 
 ---
 
@@ -201,6 +217,8 @@ Speaking at a rally in Kurunegala on Sunday February 18, Dissanayake said member
 ...
 
 [Data](articles/16a32f2c.json)
+
+[Extended Data](ext_articles/16a32f2c.ext.json)
 
 ---
 
@@ -282,6 +300,8 @@ Sri Lanka think tank cautions against “differential” tax treatment to Port C
 
 [Data](articles/3c95d853.json)
 
+[Extended Data](ext_articles/3c95d853.ext.json)
+
 ---
 
 ### Kotakethana sentenced to death
@@ -342,21 +362,23 @@ Police investigations revealed that the WPC had been sexually abused while she w
 
 ---
 
-### விண்ணப்பங்கள் ​நேரடியாக சமர்ப்பிக்கப்பட வேண்டும்
+### Applications must be submitted directly
 
 *2024-02-19 14:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்ணப்பங்கள்-நேரடியாக-சமர்ப்பிக்கப்பட-வேண்டும்/175-333439) · `ta`
 
-கல்வி அமைச்சு வெளியிட்டுள்ள சுற்றறிக்கையின்படி, 2024 ஆம் ஆண்டிற்கான இடைநிலை வகுப்புகளுக்கு மாணவர்களை சேர்ப்பதற்கான விண்ணப்பங்கள் தரம் 1, 5 ,6 மற்றும் உயர்தரம் தவிர, பாடசாலைகளில் நேரடியாக சமர்ப்பிக்கப்பட வேண்டும் என கல்வி அமைச்சகம் தெரிவித்துள்ளது.
+According to a circular issued by the Ministry of Education, applications for enrolling students to the secondary classes for 2024 should be submitted directly to schools, except Grade 1, 5, 6 and higher levels.
 
-அதற்கமைய, அந்தப் பாடசாலைகளில் வெற்றிடங்கள் இருந்தால், அந்த பாடசாலை முதல்வர்கள் கல்வி அமைச்சின் சுற்றறிக்கையின்படி நேர்காணல்களை நடத்தி, தேர்ந்தெடுக்கப்பட்ட மாணவர்களின் பட்டியலை அமைச்சகத்தின் ஒப்புதலுக்கு அனுப்புவார்கள்.
+Accordingly, if there are vacancies in the schools, the school principals will conduct interviews according to the circular of the Ministry of Education and send the list of selected students to the Ministry of approval.
 
-விசேட அறிவிப்பை வெளியிடும் போது, தரம் ஐந்தாம் புலமைப்பரிசில் பரீட்சையின் பெறுபேறுகளின் அடிப்படையில் மாத்திரமே பாடசாலைகளில் தரம் ஆறாம் மாணவர்களுக்கான மாணவர் சேர்க்கை இடம்பெறுவதாக அமைச்சு தெரிவித்துள்ளது.
+The Ministry said that when the special announcement was made, the student enrollment for the sixth students of the school is only based on the results of the Grade Fifth Scholarship Examination.
 
-இதேவேளை, 2024 ஆம் ஆண்டுக்கான மாணவர்களை தரம் ஒன்றிற்கு இணைத்துக் கொள்வதற்கான விண்ணப்பங்கள் குறித்த பாடசாலைகளுக்கு அனுப்பி வைக்கப்பட வேண்டும் எனவும், அதன் பின்னர் அதிபர்களால் நேர்முகத் தேர்வுகள் நடத்தப்படும் எனவும் அமைச்சு தெரிவித்துள்ளது.
+Meanwhile, the Ministry said that applications for enrolling students for the year 2024 should be sent to schools and interviews will be conducted by the principals.
 
 ◼️
 
 [Data](articles/757d1447.json)
+
+[Extended Data](ext_articles/757d1447.ext.json)
 
 ---
 
@@ -485,6 +507,8 @@ Dongyu is leading a delegation from FAO headquarters in Rome to attend the 37th 
 ...
 
 [Data](articles/288b389b.json)
+
+[Extended Data](ext_articles/288b389b.ext.json)
 
 ---
 
@@ -830,6 +854,8 @@ Japanese Ambassador to Sri Lanka Misukoshi Hideaki, officially presented the gra
 
 [Data](articles/65117953.json)
 
+[Extended Data](ext_articles/65117953.ext.json)
+
 ---
 
 ### One killed by rat problem
@@ -1091,6 +1117,8 @@ Officials from 46 member nations of the UN Food and Agriculture Organization wil
 ...
 
 [Data](articles/023947af.json)
+
+[Extended Data](ext_articles/023947af.ext.json)
 
 ---
 

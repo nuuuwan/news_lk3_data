@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 07:16:13**
+As of **2024-02-19 07:39:18**
 
 ## Newspaper Stats
 
-*Scraped **7,907** Articles*
+*Scraped **7,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 404
 islandlk | 419
 dailyftlk | 434
 adalk | 670
-tamilmirrorlk | 955
+tamilmirrorlk | 956
 adaderanalk | 968
-virakesarilk | 1,044
+virakesarilk | 1,045
 adaderanasinhalalk | 1,145
 dailymirrorlk | 1,164
 
@@ -26,11 +26,39 @@ dailymirrorlk | 1,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,905 (100.0%) of 7,907 articles have been extended.
+7,909 (100.0%) of 7,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Sri Lanka - US Assistant Secretary of State
+
+*2024-02-19 06:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/176721) · `ta`
+
+Sri Lanka is an example of the success of the Indo -Pacific Strategy in the US, along with colleagues like India, said US Secretary of State for South Asia, Central Asia.
+
+A year and a half ago, the Sri Lankan crisis was in a state of crisis.
+
+He also said that the president's residence was seized and the demonstrators swim in his swimming.
+
+But if you have recently visited Sri Lanka, it is now a complete place, ”said Donald Lu.
+
+Sri Lanka's currency is stable.
+
+How did this happen?The US State Department official, who said it was possible with the little help of friends, said the US and its colleagues would put forward the best plans.
+
+As for Sri Lanka, we have seen countries like India, India, who have said that the country needed humanitarian aid at the beginning of the humanitarian crisis, said Sri Lanka helped Sri Lanka to obtain essential commodities at a very crisis.
+
+He said the USAID had given millions of dollars for agricultural products at this time of crisis.
+
+...
+
+[Data](articles/e42175bf.json)
+
+[Extended Data](ext_articles/e42175bf.ext.json)
+
+---
 
 ### Arrested in Vavuniya with 80000mg of ice drugs
 
@@ -813,6 +841,26 @@ He will then visit Maley to Colombo and will make his meetings with senior offic
 [Data](articles/22954229.json)
 
 [Extended Data](ext_articles/22954229.ext.json)
+
+---
+
+### Bharat - Lanka Housing Scheme
+
+*2024-02-19 00:09:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரத்-லங்கா-வீட்டுத்திட்டம்-இன்று-ஆரம்பம்/175-333416) · `ta`
+
+Under the guidance of President Ranil Wickremesinghe, the Government of India, with the financial assistance of the Government of India, has launched a 10 thousand Bharat -Lanka housing scheme for the hill country under the coordination of Minister of Water Resources and Estate Infrastructure Development.
+
+For the first time, a total of 300 houses will be held at the same time.
+
+The inauguration ceremony is being held today in 45 gardens, including the 10 districts of Nuwara Eliya, Kandy, Badulla, Matale, Kegalle, Kurunegala, Ratnapura, Galle, Kalutara and Moneragala.
+
+The event will be held at the Presidential Secretariat at 10.00 am today. (A)
+
+◼️
+
+[Data](articles/2132e4ae.json)
+
+[Extended Data](ext_articles/2132e4ae.ext.json)
 
 ---
 
@@ -2025,43 +2073,5 @@ It is noteworthy that Russia invented a "Sputnik" vaccine against the Corona vir
 [Data](articles/44112268.json)
 
 [Extended Data](ext_articles/44112268.ext.json)
-
----
-
-### Exchange Thirukkural AI
-
-*2024-02-18 14:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருக்குறள்-AI/175-333384) · `ta`
-
-The Tamil language is also separate in developing the growth and speed of modern technology. Thirukkural AI Model Pot has been introduced in that way. This can be mentioned that the Tirukkural Generating AI Pot is incarnated in accordance with the flow of artificial intelligence technology today.
-
-Valluvar's 1,330 shortfall can also be obtained by Thirukkural AI Pot. Users can get all the margin and appropriate interpretation of the 133 chapters in Valluvar's Thuppal by Valluvar.. The meaning of former Chief Minister Karunanidhi, Parimelakar, Solomon Papaya and Mu Varadarasanar has been given to each short.
-
-In addition, users can question this AI Pot in the form of dialogue based on any word. For example, if users are entered as a charity, it is included in this bot and all the relevant shortcomings are listed. Its design and user application is easy. Information is available in Tamil.
-
-◼️
-
-[Data](articles/d9f9640f.json)
-
-[Extended Data](ext_articles/d9f9640f.ext.json)
-
----
-
-### Liquid revealed
-
-*2024-02-18 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193542) · `si`
-
-The Criminal Investigations Department (CID) has questioned a woman close to the country in the country's early morning.
-
-It is reported that the woman has recorded statements for about four hours and she is a friend of the father's wife.
-
-Meanwhile, "Pharaya" has revealed many important issues of their crimes.
-
-He has said that he and the powder is good friends.
-
-◼️
-
-[Data](articles/cca912d8.json)
-
-[Extended Data](ext_articles/cca912d8.ext.json)
 
 ---

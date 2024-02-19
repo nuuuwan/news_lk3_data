@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 22:50:07**
+As of **2024-02-19 23:02:25**
 
 ## Newspaper Stats
 
-*Scraped **8,090** Articles*
+*Scraped **8,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 422
 dailyftlk | 434
 adalk | 693
 tamilmirrorlk | 982
-adaderanalk | 985
+adaderanalk | 986
 virakesarilk | 1,078
 adaderanasinhalalk | 1,180
 dailymirrorlk | 1,191
@@ -26,11 +26,31 @@ dailymirrorlk | 1,191
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,090 (100.0%) of 8,090 articles have been extended.
+8,091 (100.0%) of 8,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Foreign Minister highlights disproportionate impact of climate change on countries in global south
+
+*2024-02-19 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97396/foreign-minister-highlights-disproportionate-impact-of-climate-change-on-countries-in-global-south) · `en`
+
+Sri Lanka’s Foreign Minister Ali Sabry has emphasised that climate change should not be evaluated solely based on cost, adding that it’s also about knowledge sharing and capacity building.
+
+Speaking in this context at a panel discussion on “Protecting global commons” at the 60th edition of the Munich Security Conference (MSC) held in Munich, Germany, Sabry highlighted Sri Lanka’s proposal to establish a Climate Change University in Sri Lanka, while also pointing out the disproportionate impact of climate change on the countries in the global south.
+
+The other panelists were co-chair of Alliance 90/The Greens party of Germany Ricarda Lang and Executive Director of Greenpeace Mads Flarup.
+
+He also shared Sri Lanka’s commitments including the COP28 and at regional and local levels to protect the global commons.
+
+...
+
+[Data](articles/f3d297d2.json)
+
+[Extended Data](ext_articles/f3d297d2.ext.json)
+
+---
 
 ### Superior to Sri Lanka after some time
 
@@ -2031,25 +2051,5 @@ Just before the PMD release, the Online Safety Bill was signed into law by the S
 [Data](articles/7dbdade8.json)
 
 [Extended Data](ext_articles/7dbdade8.ext.json)
-
----
-
-### Under Ranil Wickremesinghe, Sri Lanka is going fast – in reverse
-
-*2024-02-19 13:16:00* · [`islandlk`](http://island.lk/under-ranil-wickremesinghe-sri-lanka-is-going-fast-in-reverse/) · `en`
-
-Administration has moved to stifle criticism with a draft of new, repressive laws
-
-Sri Lanka is still reeling from an economic crisis largely caused by misgovernance and lack of accountability. Public protests in 2022 forced the president and the prime minister, brothers Gotabaya and Mahinda Rajapaksa, to step down.
-
-But instead of focusing on social justice and rights, the new government, led by President Ranil Wickremesinghe, is focused on suppressing dissent and limiting international attention on human rights.
-
-Although it is the Rajapaksas that nominated – and are propping up – their successor, many foreign observers, including in India and the United States, had hoped that things would change.
-
-...
-
-[Data](articles/6198cb12.json)
-
-[Extended Data](ext_articles/6198cb12.ext.json)
 
 ---

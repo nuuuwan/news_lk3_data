@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 16:17:26**
+As of **2024-02-19 16:32:47**
 
 ## Newspaper Stats
 
-*Scraped **8,007** Articles*
+*Scraped **8,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 682
 tamilmirrorlk | 971
 adaderanalk | 980
 virakesarilk | 1,063
-adaderanasinhalalk | 1,167
-dailymirrorlk | 1,174
+adaderanasinhalalk | 1,168
+dailymirrorlk | 1,177
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,007 (100.0%) of 8,007 articles have been extended.
+8,007 (100.0%) of 8,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Tense situation near Dambulla International Cricket Stadium
+
+*2024-02-19 15:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tense-situation-near-Dambulla-International-Cricket-Stadium/108-277323) · `en`
+
+Dambulla, Feb 19 (Daily Mirror) - A tense situation has been reported near the Dambulla International Cricket Stadium as cricket enthusiasts thronged the stadium seeking tickets for the highly-anticipated match between Sri Lanka and Afghanistan this evening.
+
+The video footage shows individuals attempting to forcibly enter the stadium.
+
+However, Sri Lanka Cricket (SLC) announced that all tickets for today’s match and the subsequent game have been completely sold out.
+
+◼️
+
+[Data](articles/dbc86d4c.json)
+
+---
+
+### ගුවන්තොටු‍පොළේ බහාලුම් අංගනයේ වේලෙන CT ස්කෑන් යන්ත්‍රය
+
+*2024-02-19 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193581) · `si`
+
+මාතර මහ රෝහල සඳහා ආනයනය කළ CT ස්කෑන් යන්ත්‍රය මාස දෙකකට අධික කාලයක් පුරා කටුනායක ගුවන්තොටු‍පොළේ බහාලුම් අංගනයේ තබා ඇති බවත් එය නිදහස් කර ගැනීමට සෞඛ්‍ය අමාත්‍යාංශය ‍මෙතෙක් කිසිදු පියවරක් ‍ගෙන නොමැති බවත් රජයේ විකිරණ විද්‍යා තාක්ෂණවේදීන්ගේ සංගමය පවසයි.
+
+එම යන්ත්‍රය ගුවන් මගින් මෙරටට ගෙනැවිත් ඇත්තේ පසුගිය දෙසැම්බර් 16 වෙනිදාය.
+
+මෙවැනි යන්ත්‍ර විශේෂිත උෂ්ණත්ව සහ ආර්ද්‍රතා තත්ත්ව යටතේ ගබඩා කළ යුතු වුවත් දැනට ගුවන් තොටුපොළ ගබඩාවල එවැනි තත්ත්වයක් තිබෙනවාද යන්න ප්‍රශ්න සහගත එම සංගමයේ සභාපති චානක ධර්මවික්‍රම මහතා පවසයි.
+
+ඔහු පැවසුවේ මෙවැනි තත්ත්වක් හමුවේ ඉදිරියේදී යන්ත්‍රයේ යහපත් ක්‍රියාකාරීත්වයට බලපෑම් ඇතිවිය හැකි බවය.
+
+එසේම මේ වනවිට ගුදම් ගාස්තු ලෙස ද රුපියල් මිලියන 2කට ආසන්න මුදලක් නියම වී ඇති අතර ගුවන්තොටුපොළේ ගබඩාවෙන් මෙම බහාලුම් ඉක්මනින් නිදහස් කර නොගන්නේ නම් ඉදිරියේදී මෙම බහාලුම් විනාශ කිරීමට හෝ වෙන්දේසි කිරීමට සිදුවන බවද දන්වා ඇත.
+
+මේ වන විට මාතර මහ රෝහලේ තිබෙන CT ස්කෑන් යන්ත්‍රය වසර 18 ක් පැරණි හෙයින් දිගින් දිගටම බිඳ වැටීම් සහිතව සීමාසහිත පරීක්ෂණ සංඛ්‍යාවක් පමණක් සිදුකරන බව සඳහන් වේ.
+
+...
+
+[Data](articles/efa9d455.json)
+
+---
 
 ### At Dambulla broke the gates and jumps in
 
@@ -843,6 +881,20 @@ United People's Power Leader Sajith Premadasa and others have been referred to a
 [Data](articles/51c65e72.json)
 
 [Extended Data](ext_articles/51c65e72.ext.json)
+
+---
+
+### Court prevents removal of Sarath Fonseka from SJB’s positions
+
+*2024-02-19 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Court-prevents-removal-of-Sarath-Fonseka-from-SJBs-positions/155-277313) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - The Colombo District Court today issued an enjoining order preventing the Samagi Jana Balawegaya (SJB) from removing Field Marshal Sarath Fonseka from the party positions.
+
+The District Court made this order pursuant to a plaint filed by Field Marshal Sarath Fonseka against SJB office bearers.
+
+◼️
+
+[Data](articles/77dce346.json)
 
 ---
 
@@ -1946,7 +1998,7 @@ Risks to real economic growth projections are skewed to the downside both in the
 
 ### Central Bank urges legal reforms for stronger credit recovery
 
-*2024-02-19 05:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-urges-legal-reforms-for-stronger-credit-recovery/155-277291) · `en`
+*2024-02-19 05:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-urges-legal-reforms-for-stronger-credit-recovery/108-277291) · `en`
 
 Says shorter credit recovery cycle critical to ensure business continuity
 
@@ -1958,64 +2010,6 @@ Instead of suspending Parate Rights for few borrowers who are in the cover of SM
 
 ...
 
-[Data](articles/712bbf21.json)
-
-[Extended Data](ext_articles/712bbf21.ext.json)
-
----
-
-### SLSI honours ComBank for its victory at Global Performance Excellence Awards
-
-*2024-02-19 05:10:00* · [`islandlk`](http://island.lk/slsi-honours-combank-for-its-victory-at-global-performance-excellence-awards/) · `en`
-
-The Sri Lanka Standards Institution (SLSI) recently paid a special tribute to the Commercial Bank of Ceylon in recognition of the Bank’s victory at the Global Performance Excellence Awards of the Asia Pacific Quality Organisation (APQO) last year. Commercial Bank was one of only eight organisations named ‘World Class’ winners of the Global Performance Excellence Awards, consequent to a submission made by the Bank on the recommendation of SLSI, to the APQO about the Bank’s commitment to facilitate business excellence based on the Baldrige Excellence Framework for the SLSI’s National Quality Award (SLNQA).
-
-The special award presented by SLSI at this year’s National Quality Awards to honour Commercial Bank for this achievement was accepted on behalf of the Bank by Ms Pushpa Chandrasiri, Head of Human Resources Management.
-
-SL’s economic growth projections likely to suffer from adverse developments on global front
-
-...
-
-[Data](articles/3f314352.json)
-
-[Extended Data](ext_articles/3f314352.ext.json)
-
----
-
-### HNB Finance champions environmental responsibility with e-waste management solution
-
-*2024-02-19 05:10:00* · [`islandlk`](http://island.lk/hnb-finance-champions-environmental-responsibility-with-e-waste-management-solution/) · `en`
-
-Leading integrated financial services provider HNB FINANCE PLC is taking a significant step towards environmental sustainability with the implementation of its E-Waste Management Solution.
-
-This novel initiative aims to minimize the negative environmental impact of electronic waste disposal, while simultaneously reiterating the company’s stance as a socially responsible organization.
-
-The decision to implement the E-Waste Management Solution follows a thorough assessment of the disposal of fixed assets collected at the Head Office and other branches. Adhering to stringent company policies and procedures, HNB FINANCE PLC has partnered with N.S Green Links Lanka (Pvt.) Ltd, an electronic waste management company licensed by the Central Environmental Authority (CEA) of Sri Lanka.
-
-This strategic collaboration aligns with HNB FINANCE PLC’s commitment to a sustainable future that positively impacts individuals, society, and the environment.
-
-...
-
-[Data](articles/a708d903.json)
-
-[Extended Data](ext_articles/a708d903.ext.json)
-
----
-
-### Bitumix continues its ‘Sisu Senehasa’ scholarships programme
-
-*2024-02-19 05:09:00* · [`islandlk`](http://island.lk/bitumix-continues-its-sisu-senehasa-scholarships-programme/) · `en`
-
-Bitumix Private Limited, the leading company in the production and sale of bitumen and related products in Sri Lanka, has expanded fulfilling its corporate social responsibility by implementing the latest stage of the Bitumix Sisu Senehasa scholarship programme that provide financial assistance to students from low-income families. Under this programme, financial assistance is provided to selected students from Anuradhapura District who have excelled in their education. The students are benefitted through this programme to complete their school as well as university education.
-
-The scholarship programme, a concept of Bitumix Managing Director Ashoka Siriwardena, was first launched in 2014 by providing financial assistance to six students. Over the past, hundreds of students have received assistance under this programme and successfully completed their school and university education.
-
-Huawei unveils expansion of its talent development programme in Rome
-
-...
-
-[Data](articles/6123a7b7.json)
-
-[Extended Data](ext_articles/6123a7b7.ext.json)
+[Data](articles/3a9800ae.json)
 
 ---

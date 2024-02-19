@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 14:02:39**
+As of **2024-02-19 14:17:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,171
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,984 (100.0%) of 7,987 articles have been extended.
+7,987 (100.0%) of 7,987 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Formed in 2015 with the JVP as its core, the NPP comprises around 28 political p
 ...
 
 [Data](articles/0190a190.json)
+
+[Extended Data](ext_articles/0190a190.ext.json)
 
 ---
 
@@ -82,6 +84,8 @@ Although it is the Rajapaksas that nominated – and are propping up – their s
 
 [Data](articles/6198cb12.json)
 
+[Extended Data](ext_articles/6198cb12.ext.json)
+
 ---
 
 ### Apply directly to respective schools, excluding grades 1, 5, 6, and A/L
@@ -99,6 +103,8 @@ Meanwhile, the Ministry said that the applications to enroll students in grade o
 ...
 
 [Data](articles/ba40d73f.json)
+
+[Extended Data](ext_articles/ba40d73f.ext.json)
 
 ---
 

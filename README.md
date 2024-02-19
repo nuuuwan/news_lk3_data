@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 11:02:30**
+As of **2024-02-19 11:17:27**
 
 ## Newspaper Stats
 
-*Scraped **7,937** Articles*
+*Scraped **7,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 672
 tamilmirrorlk | 965
 adaderanalk | 970
 virakesarilk | 1,047
-adaderanasinhalalk | 1,153
+adaderanasinhalalk | 1,154
 dailymirrorlk | 1,166
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,937 (100.0%) of 7,937 articles have been extended.
+7,937 (100.0%) of 7,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### ළමයින් තිදෙනා ඝාතනය කළ බවට මව අත්අඩංගුවට
+
+*2024-02-19 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193567) · `si`
+
+එංගලන්තයේ බ්‍රිස්ටල් ප්‍රදේශයේ නිවසක් තුළ කුඩා ළමයින් තිදෙනෙක් ඝාතනය කර ඇති බව එරට පොලීසිය පවසයි.
+
+එම ළමුන් සම්බන්ධයෙන් පොලීසියට ලැබුණු දුරකථන ඇමතුමකින් අනතුරුව සිදුකළ සොයා බැලීමකදී එම සිරුරු හමුවී තිබුණි.
+
+පොලීසිය විසින් එම ඝාතන සම්බන්ධයෙන් 42ක හැවිරිදි මව ව අත්අඩංගුවට ගෙන ඇති අතර ඇය මේ වනවිට පොලිස් ආරක්ෂාව මධ්‍යයේ රෝහල්ගත කර ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/cb18026d.json)
+
+---
 
 ### The first record posted on social media after her husband's disappearance
 
@@ -2047,25 +2063,5 @@ Although the project was launched on January 22, a campaign for motorists was la
 [Data](articles/f4a6eba6.json)
 
 [Extended Data](ext_articles/f4a6eba6.ext.json)
-
----
-
-### FAO Director General arrives in Sri Lanka for APRC37
-
-*2024-02-18 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97373/fao-director-general-arrives-in-sri-lanka-for-aprc37) · `en`
-
-The Director-General of the Food and Agriculture Organization of the United Nations (FAO), Dr QU Dongyu, arrived on Sunday in Sri Lanka for a three-day visit to participate in the 37th Session of the FAO Regional Conference for Asia and the Pacific (APRC37).
-
-The event, hosted by Sri Lanka from 19 – 22 February, will see the participation of Government Ministers and Heads of Delegations from as many as 46 Member Nations gathering in Colombo.
-
-The Director-General was received at the airport by Janaka Dharmakeerthi, Secretary to the Ministry of Agriculture in Sri Lanka, Jong-Jin Kim, FAO Assistant Director-General and Regional Representative, and Vimlendra Sharan, the FAO Representative for Sri Lanka.
-
-During his stay, the Director-General will also visit agricultural sites, and is scheduled to hold a series of bilateral discussions with Sri Lankan leadership and Ministers from other Asia-Pacific countries.
-
-...
-
-[Data](articles/789159fe.json)
-
-[Extended Data](ext_articles/789159fe.ext.json)
 
 ---

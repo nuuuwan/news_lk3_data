@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 22:17:29**
+As of **2024-02-19 22:33:01**
 
 ## Newspaper Stats
 
-*Scraped **8,084** Articles*
+*Scraped **8,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 419
 islandlk | 422
 dailyftlk | 434
 adalk | 693
-tamilmirrorlk | 979
-adaderanalk | 984
+tamilmirrorlk | 982
+adaderanalk | 985
 virakesarilk | 1,078
 adaderanasinhalalk | 1,178
 dailymirrorlk | 1,191
@@ -26,29 +26,51 @@ dailymirrorlk | 1,191
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,083 (100.0%) of 8,084 articles have been extended.
+8,084 (100.0%) of 8,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### අගරදගුරු මැදුරෙන් නිවේදනයක්
+### Archbishop announced
 
 *2024-02-19 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193591) · `si`
 
-මීගමුව පිටිපන ලෙල්ලම සම්බන්ධයෙන් සමාජ මාධ්‍ය ඔස්සේ සංසරණය වන ප්‍රකාශ සහ අද දින පැවති විරෝධතාවය සම්බන්ධයෙන් කොළඹ අගරදගුරු මැදුර අද (19) පස්වරුවේ නිවේදනයක් නිකුත් කළේය.
+The Archbishop Kalgawa, Colombo issued a statement regarding today's protest to today's Pitipana Leholder.
 
-එහි දැක්වෙන්නේ අද දින පැවති විරෝධතාවයට සම්බන්ධ වූ පිරිස් පිටිපන ලෙල්ලම සම්බන්ධයෙන් අසත්‍ය පවසමින් ධීවර ජනතාව සහ මහජනතාව මුළා කිරීමට උත්සාහ දරන බවය.
+It states that the fishermen and the people are trying to mislead the backing of the protest of today's protest.
 
-වසර ගණනාවක් පුරාවට පිටිපන මීසමේ එක්සත් ධීවර සමිතිය යැයි කියාගන්නා පුද්ගලයින් කිහිපදෙනෙකු පමණක් භුක්ති විදින මෙම දේපළ සම්බන්ධයෙන් නඩු පවරන ලද්දේ එහි ආදායම තමන්ට පෞද්ගලිකව භූක්තිවිඳීමට නොව පුළුල් ධීවර පිරිසකට හිමිකරදීමේ අදහසින් බවද අගරදගුරු මැදුර නිවේදනය කරයි.
+The Archbishop was prosecuted that only several people who claim to be the United Fisheries Assessment of the United Fisheries Association for the years.
 
-මේ අතර මීගමුව පිටිපන ලෙල්ලම, කොළඹ අගරදගුරු පදවියට පවරා ගැනීමට විරෝධය පළ කිරීම සඳහා එහි ධීවරයින් අද දහවල් කොළඹ අගරදගුරු නිල නිවස ඉදිරිපිටදී විරෝධතාවයේ නිරත වුණි.
+Meanwhile, the fishermen were protesting in front of the Archbishop of the Archbishop of Colombo this afternoon to protest the departure of the Pitchana Leek and Archbishop of Colombo.
 
-ලෙල්ලම යනුවෙන් ජනප්‍රිය වී ඇති මීගමුව ධීවර වෙළෙඳ මධ්‍යස්ථානයේ දේපල පරිපාලනය සහ කළමනාකරණය පිටිපන එක්සත් ධීවර සමිතියෙන් ඉවත් කර භාරකරුවෙකු වෙත පත්කරන ලෙස මීගමුව දිසා අධිකරණය පසුගියදා නියෝග කළේය.
+Negombo District Court recently ordered the Pitipana of the Negombo Fisheries Trading Society of the Negombo Fisheries Trading Society of Negombo, who is popular as the Legest.
+
+It was when the Archbishop was taken up at a complaint filed by the Archbishop against the staff of the Pitipana United Fisheries Society.
+
+The fishermen who fishery fishermen who are protesting to take over the Pitipana Leek and Archbishop of Colombo.
 
 ...
 
 [Data](articles/c4cc4be6.json)
+
+[Extended Data](ext_articles/c4cc4be6.ext.json)
+
+---
+
+### Free press isn’t an adversary to Sri Lanka – US Under Secretary
+
+*2024-02-19 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97394/free-press-isnt-an-adversary-to-sri-lanka-us-under-secretary-) · `en`
+
+US Under Secretary of State for Public Diplomacy Elizabeth Allen has raised concerns that several aspects of the freedom of expression are currently under threat globally, including certain concerns in Sri Lanka.
+
+Speaking at an event hosted by the Sri Lanka Press Institute (SLPI) Press Club themed ‘The Global Media Space and its Impact on Democracy’, Under Secretary Allen stated that several essential freedoms are under threat globally, including in Sri Lanka.
+
+“Globally, we’re witnessing serious and escalating challenges to media freedom. The United States stands firmly for the freedom of expression, advocating for press freedom both online and offline, and ensuring the safety of journalists and media workers worldwide.  Unfortunately, these essential freedoms are under threat globally, including concerns raised here in Sri Lanka”, she said.
+
+...
+
+[Data](articles/de80e072.json)
 
 ---
 
@@ -155,6 +177,28 @@ Workmen attending to repairs to the railway lines of the Ragama railway station,
 [Data](articles/5c438f47.json)
 
 [Extended Data](ext_articles/5c438f47.ext.json)
+
+---
+
+### வயிற்று வலியால் அவதிப்பட்டவர் தூங்கில் தொங்கினார்
+
+*2024-02-19 20:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயிற்று-வலியால்-அவதிப்பட்டவர்-தூங்கில்-தொங்கினார்/175-333471) · `ta`
+
+இராகலை பொலிஸ் பிரிவுக்குட்பட்ட இராகலை மேற்பார்வை தோட்டத்தில் உள்ள வீட்டில் தூக்கில் தொங்கிய நிலையில் ஆணின் சடலம்  ஒன்றை இராகலை பொலிஸார் இன்று (19)   மீட்டுள்ளனர்.
+
+இவ்வாறு சடலமாக மீட்கப்பட்டவர் மூன்று பிள்ளைகளின் தந்தையான (61) வயதுடைய பொண்னையா  நாகேஸ்வரன் என அடையாளம் காணப்பட்டுள்ளார்.
+
+மிக நீண்ட நாட்களாக தனக்கு வயிற்று வலியென அவதிப்பட்டு வந்த நிலையில், தனது மூத்த மகனுடன் இன்று (19) காலை வைத்தியசாலைக்கு சென்று மருந்து பெற்றுக்கொண்டு வீடு திரும்பிய இவர், தனது வீட்டில் தனி அறையில் கயிற்றில் தொங்கியவாறு உயிரிழந்துள்ளார்.
+
+அதேநேரத்தில் தனது இளைய மகனுக்கு அடுத்த மாதம் திருமணம் நிச்சயக்கப்பட்டுள்ள நிலையில் இந்த உயிரிழப்பு சம்பவம் இடம்பெற்றுள்ளது.
+
+இந்த நிலையில் உயிரிழந்தவர் தன்னுயிரை மாய்த்து கொண்டாரா என்பது தொடர்பில் இராகலை குற்றத்தடுப்பு பொலிஸார் விசாரணைகளை நடத்தி வருகின்றனர்.
+
+அத்துடன் வலப்பனை நீதிமன்ற நீதிபதியின் மரண விசாரணையின் பின் சடலம் பிரேத பரிசோதனைக்காக நுவரெலியா மாவட்ட வைத்தியசாலைக்கு கொண்டு செல்லப்படவுள்ளதாக இராகலை பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/782e59ec.json)
 
 ---
 
@@ -286,6 +330,28 @@ The Director General of the United Nations Food and Agriculture Organization was
 
 ---
 
+### நாங்கள் உங்களது மிகப்பெரிய ரசிகர்கள் - எலிசபெத்
+
+*2024-02-19 19:32:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-உங்களது-மிகப்பெரிய-ரசிகர்கள்-எலிசபெத்/175-333470) · `ta`
+
+“உலகளாவிய ஊடக பரப்பும் ஜனநாயகத்தின் மீதான அதன் தாக்கமும்” என்ற தொனிப்பொருளில் இலங்கை பத்திரிகை ஸ்தாபனத்தின் நிகழ்வு இன்று இடம்பெற்றது.
+
+இதில் பொது உறவுகளுக்கான துணை இராஜாங்க செயலாளர் எலிசபெத் அலனின் பின்வருமாறு உரை நிகழ்த்தினார்.
+
+இன்று எல்லோருடனும் இங்கு இருப்பது அருமையாக இருக்கிறது. மேலும் தூதுவர் சங் அவர்களே, இலங்கையில் அமெரிக்க மக்களைப் பிரதிநிதித்துவப்படுத்தும் உங்களது தலைமைத்துவத்திற்கு நன்றி.
+
+· இலங்கை பத்திரிகை நிறுவனத்திற்கு நன்றி, நான் இன்று இங்கு இருப்பதில் மகிழ்ச்சி அடைகிறேன். ஊடகவியலின் கைவினைப் பணியில் நீங்கள் கொண்டுள்ள அர்ப்பணிப்பானது மிகவும் ஊக்கமளிக்கிறது.
+
+· இதை அறிந்து கொள்ளுங்கள்: நீங்கள் மேற்கொள்ளும் அபாரமான பணியை  அமெரிக்கத் தூதரகம் முழுமையாக ஆதரிக்கிறது. நிச்சயமாக, ஒரு செய்தி தொடர்பாக அவ்வப்போது நாங்கள் முட்டிக் கொண்டாலும், அவையனைத்தையும் தாண்டி, நாங்கள் உங்களது மிகப்பெரிய ரசிகர்கள்.
+
+சுதந்திரமாகவும் அச்சமின்றியும் ஊடகவியலைத் தொடர்வதற்கு உங்களுக்கு உரிமையுண்டு என நாங்கள் நம்புவதால், உங்களது திறமைகளை கூர்மைப்படுத்தும் நிகழ்ச்சித்திட்டங்களில் நாங்கள் அனைவரும் ஈடுபட்டுள்ளோம்.
+
+...
+
+[Data](articles/c4d433e7.json)
+
+---
+
 ### Members of Parliament of Kadawatha Mahamaiah College
 
 *2024-02-19 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176801) · `ta`
@@ -363,6 +429,22 @@ In a statement, he said Sri Lanka and Russia have enjoyed longstanding and stron
 [Data](articles/8aee2c47.json)
 
 [Extended Data](ext_articles/8aee2c47.ext.json)
+
+---
+
+### ஷிரந்திக்கு கொடுப்பனவு மற்றும் ஓய்வூதியம் வழங்கப்படுகின்றதா?
+
+*2024-02-19 18:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷிரந்திக்கு-கொடுப்பனவு-மற்றும்-ஓய்வூதியம்-வழங்கப்படுகின்றதா/175-333469) · `ta`
+
+முன்னாள் முதல் பெண்மணி ஷிரந்தி ராஜபக்ஷவுக்கு அரசாங்க கொடுப்பனவுகள் மற்றும் ஓய்வூதியங்கள் ஒதுக்கப்பட்டுள்ளதாக பௌத்த பிக்கு ஒருவர் முன்வைத்த குற்றச்சாட்டை முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் அலுவலகம் இன்று மறுத்துள்ளது.
+
+மிஹிந்தலை ரஜமஹா விகாரையின் பிரதமகுரு வலஹாஹெங்குணாகே  தம்மாரத்ன தேரர், முன்னாள் முதல் பெண்மணி பல ஓய்வூதியங்களையும் அரசாங்க கொடுப்பனவுகளையும் பெற்று வருவதாக அண்மையில் கூறியிருந்தார்.
+
+குற்றச்சாட்டுகளுக்கு பதிலளிக்கும் வகையில், முன்னாள் ஜனாதிபதியின் அலுவலகம், தம்மரதன தேரர் உறுதிப்படுத்தப்படாத தகவல்களை அடிப்படையாகக் கொண்டு இவ்வாறு கூறியுள்ளதாகவும், எனவே இந்தக் கூற்றுக்கள் கடுமையாக நிராகரிக்கப்படுகின்றன எனவும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/f2d3980c.json)
 
 ---
 
@@ -1965,85 +2047,5 @@ Meanwhile, the Ministry said that the applications to enroll students in grade o
 [Data](articles/ba40d73f.json)
 
 [Extended Data](ext_articles/ba40d73f.ext.json)
-
----
-
-### Asian Elections and Anura Kumara Dissanayake’s India visit
-
-*2024-02-19 13:14:00* · [`islandlk`](http://island.lk/asian-elections-and-anura-kumara-dissanayakes-india-visit/) · `en`
-
-2024 is election year practically everywhere. In South Asia, it is two down and two to go. Bangladesh went first in January, and the governing Awami League won the election as predicted, with the main opposition Bangladesh National Party boycotting the election and the government fielding independent candidates to avoid the embarrassment of winning uncontested seats. Pakistan had its election on February 8, and the people literally gave the finger to rebuke the military’s machinations of the election.
-
-...
-
-[Data](articles/9f0f93dc.json)
-
-[Extended Data](ext_articles/9f0f93dc.ext.json)
-
----
-
-### Carrying for the most essential medical equipment in the state - the union
-
-*2024-02-19 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176749) · `ta`
-
-Health industrial unions have said that there is a shortage of medical equipment, including surgery equipment in government hospitals.
-
-Dr. Samal Sanjeeva, President of Medical and Civil Rights, said.
-
-He said that the lack of the most essential sarcasm equipment has ended 3800 to 5800 equipment.
-
-He added that there is a shortage of medical care for emergency services, he added.
-
-Meanwhile, a Health Ministry official said that there was no official information that the equipment had been stopped.
-
-◼️
-
-[Data](articles/4b85261e.json)
-
-[Extended Data](ext_articles/4b85261e.ext.json)
-
----
-
-### Money bearing money remanded
-
-*2024-02-19 13:12:00* · [`adalk`](https://www.ada.lk/breaking_news/බැංකු-කාඩ්පතින්-මුදල්-ඇඳ-රිමාන්ඩ්/11-408169) · `si`
-
-ATM. ETM with the guise that is supporting money from banking cards. Harawanath Magistrate Anwar Forecast on Friday (Noun)Was prescribed.
-
-Rathna have been residing in Gampaha, Miriswatta. CMila Sampath is remanded.
-
-A woman by a woman in the Eriyaweetiya Around a Branch of KiribathatiyaThe complaint states that a sum of Rs.
-
-CC around the bank branch. The film was inspected and arrested at the Kiribathgoda People's Bank branch on the 15th.
-
-Meanwhile, the police found seven TTM Bank cards with the suspect and seven lakhs of bank accounts in 07 occasions.
-
-According to the direction of the Chief Inspector General of Police Chief Inspector Sissantha (9943), Police Constables (9943), Sugandi (9979), Sugandera (9979), Sugandi (99778)Dutch Operations Divisional Police Station Operations Divisional Police Aruna Kumara (27909) and Kosasinghe (90071) and Kosasinghe (1071) and Kosasinghe (10789) were produced in court.
-
-◼️
-
-[Data](articles/761d2d9e.json)
-
-[Extended Data](ext_articles/761d2d9e.ext.json)
-
----
-
-### Colombo Port City Duty Free store to be opened in April
-
-*2024-02-19 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97386/colombo-port-city-duty-free-store-to-be-opened-in-april-) · `en`
-
-Sri Lanka’s first downtown Duty Free store is slated to be opened in April 2024, at the Colombo Port City.
-
-Taking to ‘X’ (formerly Twitter), the Belt and Road Initiative Sri Lanka (BRISL) said, “Colombo Port City duty free shop will be opened in April”.
-
-In October 2023, the Sri Lankan government gazetted the requirements that need to be met in order to conduct duty-free retail business operations or duty-free shopping mall operations at the Colombo Port City.
-
-According to the relevant gazette, published by President Ranil Wickremesinghe in his capacity as the Minister of Investment Promotion, an investor is required to devote a minimum of USD 5 million to run a duty-free retail business and have international-level experience in duty-free trade operations, while an investor needs to devote at least USD 7 million to run a duty-free shopping mall business.
-
-...
-
-[Data](articles/c8e31374.json)
-
-[Extended Data](ext_articles/c8e31374.ext.json)
 
 ---

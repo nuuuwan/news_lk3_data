@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 23:33:03**
+As of **2024-02-19 23:51:48**
 
 ## Newspaper Stats
 
-*Scraped **8,091** Articles*
+*Scraped **8,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 434
 adalk | 693
 tamilmirrorlk | 982
 adaderanalk | 986
-virakesarilk | 1,078
+virakesarilk | 1,082
 adaderanasinhalalk | 1,180
 dailymirrorlk | 1,191
 
@@ -26,11 +26,31 @@ dailymirrorlk | 1,191
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,091 (100.0%) of 8,091 articles have been extended.
+8,095 (100.0%) of 8,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Twenty -20th match is the second fastest takerid winning 100 wickets
+
+*2024-02-19 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176805) · `ta`
+
+Sri Lankan captain Wanindu Hazaranga has set the record for the fastest taking 100 wickets in the Twenty20 match.
+
+He has taken his 100th wicket through Najibullah Satran's wicket in the second Twenty20 match against Afghanistan in Thambulla.
+
+Accordingly, he has been ranked second in the fastest -100 wickets. He has participated in 63 matches and took these 100 wickets.
+
+Afghan player Rashid Khan topped the list with a hundred wickets in 53 matches.
+
+◼️
+
+[Data](articles/8190ced3.json)
+
+[Extended Data](ext_articles/8190ced3.ext.json)
+
+---
 
 ### Foreign Minister highlights disproportionate impact of climate change on countries in global south
 
@@ -85,6 +105,70 @@ He made the same talent in the 13th over the 13th over the 13th over the 13th wi
 [Data](articles/8fa529e7.json)
 
 [Extended Data](ext_articles/8fa529e7.ext.json)
+
+---
+
+### Cabinet approval to grant assistant teacher appointments - Education Minister Susil Premjayantha
+
+*2024-02-19 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176804) · `ta`
+
+Cabinet approval has been granted to make assistant teacher appointments. The appropriate gazette notification will be issued soon. Minister of Education Susil Premjayantha said that only people in particular districts can apply.
+
+He further stated at a press conference held at the Presidential Media Center on Monday (19).
+
+Programs to improve all academic colleges in the country have been implemented as universities.. Applications will be requested after these measures.
+
+Cabinet approval has been granted to make assistant teacher appointments. The gazette notification will be issued soon. Applications for Assistant Teachers will be requested only in certain districts. Accordingly, only the respective districts will be incorporated into this service.
+
+...
+
+[Data](articles/5e1e5392.json)
+
+[Extended Data](ext_articles/5e1e5392.ext.json)
+
+---
+
+### The President cannot decide on the date of holding the presidential election - Professor GL Peiris
+
+*2024-02-19 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176764) · `ta`
+
+Prof. GL Peiris, a representative of the Independent People's Council and Member of Parliament, said that the Presidential Secretariat's reports on the national elections are just a matter of fact and there is no validity.
+
+He made this statement during a media briefing held at the Independent People's Office in Colombo on Monday (19).
+
+The government has taken the final effort to abolish the executive presidency, as all the efforts of the government have failed to dismantle the presidential election this year, according to the Constitution.
+
+The government is trying to remain in office for a further year without holding the election. The people of the country should decide whether to end the curse of this government led by President Ranil Wickremesinghe or to continue the curse.
+
+The President cannot decide on the date of holding the presidential election.
+
+...
+
+[Data](articles/a3f853dc.json)
+
+[Extended Data](ext_articles/a3f853dc.ext.json)
+
+---
+
+### Welcome to the launch of the 10,000 Indian Housing Scheme announced in our regime - Mano
+
+*2024-02-19 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176758) · `ta`
+
+In 2017, Indian Prime Minister Narendra Modi, who was brought to the hill country during our rule, announced that the amount of Indian housing projects built in plantations will be increased by a further 10,000.. Since our regime ended in 2019, we could not continue it.
+
+Tamil Progressive Alliance leader and Colombo district parliamentarian Mano Ganesan has said that we are welcomed and congratulating the housing project today.
+
+The land expansion of the housing projects built in the plantations was confirmed by the Cabinet paper as 7 perch in our regime.
+
+In 2019, this government said it would build a house in 20 parses in the 20s.. Later, during the last budget, it was said to be housing in 10 perch plantations.
+
+Therefore, there is a vague of the expansion of the Indian Housing Project Home Lands Lands.. The government should announce the details of the home land, seven pericha, ten pericha, and twenty pericha.
+
+...
+
+[Data](articles/95191bba.json)
+
+[Extended Data](ext_articles/95191bba.ext.json)
 
 ---
 
@@ -1969,87 +2053,5 @@ He said that the livelihood of the fishermen has been threatened.
 [Data](articles/83e8acad.json)
 
 [Extended Data](ext_articles/83e8acad.ext.json)
-
----
-
-### Special committee to solve the DAT problem
-
-*2024-02-19 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193574) · `si`
-
-A special committee has been appointed to consider the proposals of the Health Trade Union Alliance and continuing.
-
-The Ministry of Health said that Minister Dr. Ramesh Pathirana's and Health Trade Union Alliance said in a statement.
-
-The Minister has expressed his views on its career demands and the Minister has said to the Ministry to formulate a proposal to the Ministry of Health Trade Union Alliance.
-
-The Minister has said that the Ministry of Health is working as the Ministry of Health to fulfill the maximum justice after studying it.
-
-Accordingly, the UPFA representatives have proposed to appoint a special committee of the Health Minister and Health Secretary and a special committee of Health Trade Union Representatives to carry out further action.
-
-The Minister was established with the appointment of the committee tomorrow (20) to 3 pm.
-
-◼️
-
-[Data](articles/4474154f.json)
-
-[Extended Data](ext_articles/4474154f.ext.json)
-
----
-
-### 'No to give letters to the request'
-
-*2024-02-19 13:23:23* · [`adalk`](https://www.ada.lk/breaking_news/’ලිපි-ඉල්ලුවට-දෙන්නේ-නෑ’/11-408171) · `si`
-
-The Ministry of Education will not be issued to the Ministry of Education for the year 2024
-
-The Ministry of Education has announced that applications have been issued by the Ministry of Education to the first grade of schools in schools.
-
-The Ministry has said that the admission of students to the sixth grade of schools will be carried out on the mark of the fifth Grade Fifth Scholarship Examination.
-
-GCE A GCE O / L classes other than 1, 5 and 6 in 2024. Applications should be forwarded to schools, including A / L students and will be referred to the Ministry of Education in accordance with the Ministry of Education.
-
-The Ministry of Education will not be issued by the Ministry of Education for schools.
-
-◼️
-
-[Data](articles/3cb3c00c.json)
-
-[Extended Data](ext_articles/3cb3c00c.ext.json)
-
----
-
-### Sri Lankan Leftist Coalition’s India Visit Raises its Profile
-
-*2024-02-19 13:19:00* · [`islandlk`](http://island.lk/sri-lankan-leftist-coalitions-india-visit-raises-its-profile/) · `en`
-
-Sri Lanka’s National People’s Power (NPP), a leftist coalition led by the Janatha Vimukthi Peramuna (JVP), recently visited India at the invitation of the Indian government. The visit is significant; it underscores the emergence of the NPP as a major political force in Sri Lanka, one that is being courted by major powers.
-
-During its five-day official visit to India, which began on February 5, the NPP delegation held meetings with senior Indian officials, including External Affairs Minister S. Jaishankar and National Security Adviser Ajit Doval, toured key agricultural and industrial hubs, and visited key business giants like Tata Motors and the Indian multinational cooperative society, Amul. The delegation visited New Delhi, Ahmedabad, and Thiruvananthapuram.
-
-Formed in 2015 with the JVP as its core, the NPP comprises around 28 political parties and workers unions, women’s organizations, etc., and is led by JVP chief, Anura Kumara Dissanayaka.
-
-...
-
-[Data](articles/0190a190.json)
-
-[Extended Data](ext_articles/0190a190.ext.json)
-
----
-
-### The Judicial Power of the People and a Presidential Interpretation of our Constitution?
-
-*2024-02-19 13:18:00* · [`islandlk`](http://island.lk/the-judicial-power-of-the-people-and-a-presidential-interpretation-of-our-constitution/) · `en`
-
-‘Since 1972 this country has known no monarch and the President has not inherited that mantle.All his powers are limited by the provisions of the constitution.’Dissolution of Parliament Case (2018)
-
-We as citizens of the country have witnessed in the past weeks some grave political developments that impact the governance of our country.On 31 January the President’s Media Division (PMD) released a public document. This document indicates that it is meant to be the Secretariat’s interpretation of the President’s powers under our constitution.
-
-Just before the PMD release, the Online Safety Bill was signed into law by the Speaker. This Bill was brought to Parliament after the Determination of the Supreme Court which required 31 amendments. The OSA was very controversial legislation, criticized by civil society, local experts and international organizations and Tech companies. They expressed grave concerns on its damaging impact on the democratic and fundamental rights of the people.
-
-...
-
-[Data](articles/7dbdade8.json)
-
-[Extended Data](ext_articles/7dbdade8.ext.json)
 
 ---

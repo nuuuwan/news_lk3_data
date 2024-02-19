@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 21:17:23**
+As of **2024-02-19 21:33:12**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 1,188
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,077 (100.0%) of 8,078 articles have been extended.
+8,078 (100.0%) of 8,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### ශ්‍රී ලංකාවෙන් ප්‍රබල ප්‍රහාරයක්
+### Sri Lanka's powerful attack
 
 *2024-02-19 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193590) · `si`
 
-ඇෆ්ගනිස්තානයට එරෙහිව පැවැත්වෙන දෙවන විස්සයි විස්ස තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම කඩුලු 6ක් දැවී ලකුණු 187ක් රැස්කරගත්තේය.
+Sri Lanka scored 187 runs for the loss of 6 wickets for the loss of 6 wickets.
 
-එහිදී අගනා පිතිහරඹයක නිරතවූ සදීර සමරවික්‍රම පන්දු 42කදී හතරේ පහර 5ක් සමග ලකුණු 51ක් රැස්කරගත්තේය.
+Sadara Samarawickrema scored 51 runs in 42 balls with five fours.
 
 ◼️
 
 [Data](articles/9819efae.json)
+
+[Extended Data](ext_articles/9819efae.ext.json)
 
 ---
 

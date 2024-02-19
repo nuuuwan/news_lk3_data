@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 13:02:36**
+As of **2024-02-19 13:17:36**
 
 ## Newspaper Stats
 
-*Scraped **7,964** Articles*
+*Scraped **7,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 409
 islandlk | 420
 dailyftlk | 434
-adalk | 678
-tamilmirrorlk | 967
+adalk | 679
+tamilmirrorlk | 969
 adaderanalk | 976
-virakesarilk | 1,047
+virakesarilk | 1,058
 adaderanasinhalalk | 1,158
 dailymirrorlk | 1,170
 
@@ -26,11 +26,111 @@ dailymirrorlk | 1,170
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,957 (99.9%) of 7,964 articles have been extended.
+7,964 (99.8%) of 7,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### எலி பிரச்சினையால் ஒருவர் பலி
+
+*2024-02-19 12:49:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலி-பிரச்சினையால்-ஒருவர்-பலி/175-333437) · `ta`
+
+ஒரே குடும்பத்தைச் சேர்ந்த சகோதரர்கள் இருவர் வசிக்கும் வீட்டினுள் எலி புகுந்தது தொடர்பாக இருவருக்கும் இடையில் ஏற்பட்ட வாக்குவாதத்தில் மயங்கி விழுந்து   இளைய சகோதரர் சிகிச்சைக்காக தலங்கம மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளதாக தலங்கம பொலிஸார் தெரிவித்தனர்.
+
+பத்தரமுல்லை தலங்கம தெற்கில் வசிக்கும் எகொடவத்தை ஆராச்சியைச் சேர்ந்த அனுர கித்சிறி என்ற (59) வயதுடைய ஓய்வுபெற்ற கணக்காளர் ஒருவரே இவ்வாறு உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+குறித்த நபர் திருமணமாகி இரண்டு பிள்ளைகளின் தந்தையாவார், மூத்த சகோதரன் திருமணமாகாமல் ஒரே வீட்டில் வசிப்பதாகவும், திங்கட்கிழமை (19) காலை இரண்டு மகள்களும் மனைவியும் சொந்த தேவைகளுக்காக வீட்டை விட்டு வெளியே சென்றுள்ளனர். அப்போது  இரு சகோதரர்கள் மட்டுமே வீட்டில்  தங்கியிருந்ததாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/ac695984.json)
+
+---
+
+### ஜப்பான் அரசாங்கத்திடமிருந்து 40,000 மெட்ரிக் தொன் டீசல் மானியம்
+
+*2024-02-19 12:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-அரசாங்கத்திடமிருந்து-40-000-மெட்ரிக்-தொன்-டீசல்-மானியம்/175-333436) · `ta`
+
+இலங்கையின் சுகாதார அமைப்புக்குள் போக்குவரத்து சேவைகளை வலுப்படுத்துவதற்காக நியமிக்கப்பட்ட ஜப்பானிய அரசாங்கத்திடம் இருந்து 40,000 மெட்ரிக் தொன் டீசலை இலங்கை மானியமாகப் பெற்றுள்ளது.
+
+இலங்கைக்கான ஜப்பானிய தூதுவர் மிசுகோஷி ஹிடேகி மற்றும் சுகாதார மற்றும் கைத்தொழில் அமைச்சர் ரமேஷ் பத்திரன ஆகியோர் முன்னிலையில் முறையான கையளிப்பு நிகழ்வு கொழும்பு துறைமுகத்தில் இன்று (19) பெற்றுக்கொள்ளப்பட்டது.
+
+மேலும், டீசல் வளங்களின் வெளிப்படையான மற்றும் பொறுப்பான நிர்வாகத்தை உறுதி செய்வதற்காக, அதிகாரிகள் அதிநவீன எரிபொருள் மேலாண்மை தகவல் அமைப்பை (FIMS) அறிமுகப்படுத்தியுள்ளனர்.
+
+◼️
+
+[Data](articles/16043d86.json)
+
+---
+
+### அடிப்படை உரிமைகளை மீறாத வகையில் பொலிஸாரின் சுற்றிவளைப்புகள்!
+
+*2024-02-19 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176748) · `ta`
+
+அடிப்படை உரிமைகளை மீறாத வகையில் சுற்றிவளைப்புகள் மற்றும் ஏனைய நடவடிக்கைகளை மேற்கொள்ளுமாறு பொலிஸாருக்கு தொடர் அறிவுறுத்தல்களை வழங்க சட்ட மா அதிபர் திணைக்களம் தீர்மானித்துள்ளது.
+
+சட்ட மா அதிபர் மற்றும் பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான  அலஸ் ஆகியோருக்கு இடையில் இடம்பெற்ற கலந்துரையாடலின் பின்னர் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/4f3bf12c.json)
+
+---
+
+### பப்புவா நியுகினியில் 60க்கும் அதிகமானவர்கள் சுட்டுக் கொலை - பழங்குடியினர் பகுதிகளில் வன்முறை
+
+*2024-02-19 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176745) · `ta`
+
+எங்கா மாகணாத்தில் பழங்குடியினருக்கு இடையில் இடம்பெற்ற மோதல்களின் போது 60க்கும் அதிகமானவர்கள் சுட்டுக்கொல்லப்பட்டுள்ளனர்.
+
+பலவருடங்களாக வன்முறைகளில் சிக்குண்டுள்ள மலைப்பகுதிகளிலேயே இந்த வன்முறைகள் இடம்பெற்றுள்ளன எனினும் சமீபத்தில் இடம்பெற்ற மிகமோசமான வன்முறை இதுவென அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+நிலம் சொத்து பகிரப்படுவது குறித்த அதிருப்தியால் உருவான பழங்குடி மோதல் காரணமாக எங்கா நகரம் கடந்த ஜூலை மாதம் முதல் மூன்று வாரங்களிற்கு முடக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6bf40bb1.json)
+
+---
+
+### பாலியல் வன்முறைகள், துன்புறுத்தல்கள், தற்கொலைகள்! ; பரிதாப நிலையில் டியாகோ கார்சியாவில் சிக்குண்டுள்ள இலங்கை தமிழ் புகலிடக் கோரிக்கையாளர்கள் - ஐ.நா. தகவல்
+
+*2024-02-19 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176742) · `ta`
+
+டியாகோர்கார்சியாவில் சிக்குண்டுள்ள இலங்கை தமிழ் குடியேற்றவாசிகள் தங்கள் பாதுகாப்பாக இல்லை மறக்கபட்டுள்ளோம் என ஐநாவின் விசாரணையாளர்களிடம் தெரிவித்துள்ளனர்.
+
+பாலியல்வன்முறைகள் சிறுவர்கள் துன்புறுத்தப்படுதல் குறித்தும் தெரிவித்துள்ள அவர்கள்  தற்கொலைகளும் தங்களிற்குதாங்களே காயங்களை ஏற்படுத்திக்கொள்ளுதலும்  அங்கு சிக்குண்டுள்ள குடியேற்றவாசிகள் மத்தியி;ல் காணப்படுவதாகவும் தெரிவித்துள்ளனர்.
+
+ஐக்கியநாடுகள் அகதிகள் முகவர் அமைப்பின் அதிகாரிகள் அகதிகளின் நிலைமை குறித்து ஆராய்வதற்காக டியாகோகார்சியாவிற்கு சென்றுள்ளனர்.
+
+டியோகோர் கார்சியாவில் இலங்கையை சேர்ந்த புகலிடக்கோரிக்கையாளர்கள் சிக்குண்ட பின்னர் அவர்களின் நிலைமைகளை பார்வையிடுவதற்காக வெளிதரப்பு உள்ளே சென்றது இதுவே முதல்தடவை.
+
+ஐநா அமைப்பின் விஜயத்தின் பின்னர் அவர்கள் வெளியிட்ட அறிக்கையை நீதிமன்றம் பிபிசிக்கு வழங்கியுள்ளது.
+
+ஐநாவின் அகதிகளிற்காக அமைப்பின் பிரதிநிதிகள் டியோகார்சியாவில் உள்ள இலங்கை தமிழ் புகலிடக்கோரிக்கைiயாளர்களை சந்தித்தவேளை அவர்கள் பாலியல் வன்முறைகள் மற்றும் துன்புறுத்தல்கள் குறித்து தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/09541158.json)
+
+---
+
+### பாரத் லங்கா 10,000 வீடுகள் திட்டம் ; நுவரெலியா ஸ்க்ரப் தோட்டத்தில் 30 வீடுகளுக்கான அடிக்கல் நாட்டப்பட்டது
+
+*2024-02-19 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176744) · `ta`
+
+பாரத் லங்கா 10,000 வீடுகள் திட்டத்தின் தேசிய வேலைத்திட்டத்துடன் இணைந்து நுவரெலியா ஸ்க்ரப் தோட்டத்தில் 30 வீடுகளுக்கான அடிக்கல் நாட்டும் நிகழ்வு இன்று (19) காலை இடம்பெற்றது.
+
+இந்திய அரசாங்கத்தின் நிதியுதவியில் நிர்மாணிக்கப்படும் பாரத் லங்கா வீடமைப்புத் திட்டத்தின் கீழ் நாடளாவிய ரீதியில் பத்தாயிரம் வீடுகளை நிர்மாணிக்க உத்தேசிக்கப்பட்டுள்ளது.
+
+அதன் ஒரு கட்டமாக நுவரெலியா ஸ்க்ரப் தோட்டத்தில் தற்காலிக வீடுகளில் தங்கியுள்ள முப்பது குடும்பங்களுக்கான வீடமைப்புத் திட்டத்தின் அடிக்கல் நாட்டும் நிகழ்வு நுவரெலியா மாநகர சபையின் முன்னாள் உறுப்பினர்கள்  நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அமைச்சர் ஜீவன் தொண்டமான் இணைச் செயலாளர்கள் மற்றும் இணைப்பாளர்களும் ஆன வினோத் ஜி மற்றும் சட்டத்தரணி சிவன் ஜோதி யோகராஜா  ஆகியோரின் தலைமையில் இன்றைய தினம் காலை ஸ்க்ரப் தோட்டத்தில் நடைபெற்றது.
+
+...
+
+[Data](articles/60d717aa.json)
+
+---
 
 ### Japan grants Sri Lanka 40,000 MT of diesel for healthcare transport
 
@@ -45,6 +145,26 @@ Furthermore, to ensure transparent and accountable management of the diesel reso
 ◼️
 
 [Data](articles/99b3b1bb.json)
+
+[Extended Data](ext_articles/99b3b1bb.ext.json)
+
+---
+
+### මීයා නිසා අයිය මලෝ හබයෙන් මල්ලි මළෝ
+
+*2024-02-19 12:08:59* · [`adalk`](https://www.ada.lk/breaking_news/මීයා-නිසා-අයිය-මලෝ-හබයෙන්-මල්ලි-මළෝ/11-408166) · `si`
+
+එකම පවුලේ සහෝදරයින්  දෙදෙනෙකු වාසය කරන නිවසකට ඇතුළු වූ මීයෙකු සම්බන්ධයෙන් දෙදෙනා අතර වූ   බහින් බස්වීමක් දුරදිග යන අතරතුරදි එක් වරම ක්ලාන්ත වී ඇද වැටුණු බාල සහෝදරයා ප්‍රතිකාර සඳහා තලංගම දිසා රෝහලට ඇතුළත් කිරීමට යාමේදී  මියගොස් ඇතැයි තලංගම පොලිසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ බත්තරමුල්ල තලංගම දකුණ අංක 381 /  සී, හි පදිංචි එගොඩවත්ත ආරච්චිගේ අනුර කිත්සිරි නමැති (59) හැවිරිදි විශ්‍රාමික ගණකාධිකාරීවරයෙකු බව පොලිසිය කියයි.
+
+මෙම පුද්ගලයා විවාහ වී දරුවන් දෙදෙනෙකුගේ පියෙකු වන අතර වැඩිමහල් සහෝදරයා අවිවාහකව එකම නිවසේ වාසය කරන අතර අද (19) උදෑසන දියණියන් දෙදෙනා සහ බිරිද පෞද්ගලික අවශ්‍යතාවයක් සඳහා නිවසින් බැහැරට ගිය අවස්ථාවේදී නිවසේ රැඳී සිට ඇත්තේ මෙම සහෝදරයන් දෙදෙනා පමණක් බව පොලිසිය කියයි.
+
+මේ අතරතුරදි වැඩිමහල් සහෝදරයා රැඳී සිටින කාමරයට ඇතුළු වී සිටි මීයෙකු එළවා දැමීමේදී එම සත්වයා යාබදව පිහිටි බාල සහෝදරයාගේ කාමරයට ඇතුළුවී ඇති බවත් පසුව ඒ සම්බන්ධයෙන් වැඩිමහල් සහෝදරයාට  දෝෂාරෝපණය කරමින් දෙදෙනා අතර බහින්බස්වීමක් හටගෙන ඇති බව පැවසේ.
+
+...
+
+[Data](articles/76de56a6.json)
 
 ---
 
@@ -70,6 +190,22 @@ Among countries scheduled to participate in the hearings are the United States -
 
 ---
 
+### ஐக்கிய மக்கள் சக்தி தவிசாளர்  சரத் பொன்சேகாவின் பணி இடைநிறுத்தத்துக்கு தடை உத்தரவு!
+
+*2024-02-19 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/176741) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் தவிசாளர்  பீல்ட் மார்ஷல் சரத் பொன்சேகாவின் பணி இடைநிறுத்தம் மற்றும் உறுப்புரிமையிலிருந்தும் நீக்கப்படுவதை தடுத்து கொழும்பு மாவட்ட நீதிமன்றம் இன்று திங்கட்கிழமை (19) தடை உத்தரவு பிறப்பித்துள்ளது.
+
+சரத் பொன்சேகா தாக்கல் செய்த மனுவை பரிசீலித்த நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
+
+பிரதிவாதிகளாக ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச மற்றும் சிலர் குறிப்பிடப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/51c65e72.json)
+
+---
+
 ### Court prevents removal of Sarath Fonseka from SJB’s positions
 
 *2024-02-19 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-prevents-removal-of-Sarath-Fonseka-from-SJBs-positions/108-277313) · `en`
@@ -81,6 +217,8 @@ The District Court made this order pursuant to a plaint filed by Field Marshal S
 ◼️
 
 [Data](articles/b1d4f6a9.json)
+
+[Extended Data](ext_articles/b1d4f6a9.ext.json)
 
 ---
 
@@ -108,6 +246,40 @@ At the Annual Conference of the American Scholarship Association, Mrs. Teresa Ha
 
 ---
 
+### மன்னாரில் சிறுமி கொலை ; நீதி கோரி கிராம மக்கள் அமைதி வழி போராட்டம்
+
+*2024-02-19 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176738) · `ta`
+
+மன்னார் - தலைமன்னார் ஊர்மனை கிராமம் பகுதியில் பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டு கொலை செய்யப்பட்ட சிறுமியின் மரணத்திற்கு நீதி கோரி இன்று திங்கட்கிழமை (19) காலை மன்னார் நீதவான் நீதிமன்ற வளாகத்திற்கு முன் குறித்த கிராம மக்கள் அமைதி வழி போராட்டம் ஒன்றை முன்னெடுத்தனர்.
+
+சிறுமியின் மரணத்திற்கு தாமதம் இன்றி நீதி  கிடைக்க வேண்டும் என  கோரியும் விசேட நீதிபதிகள் அடங்கிய குழு ஒன்று குறித்த வழக்கை விசாரிக்க கோரியும் தலைமன்னார் கிராமத்தை சேர்ந்த பொதுமக்கள் போராட்டத்தில் ஈடுபட்டிருந்தனர்.
+
+இன்றைய தினம் காலை 8.30 மணி தொடக்கம் 9.30 மணி வரை குறித்த அமைதி போராட்டம் இடம்பெற்றது.
+
+பாதிக்கப்பட்ட சிறுமிக்கு நீதி வழங்கு,விசேட விசாரணை பொலிஸ் குழுவை நியமி, சிறுவர்களை உயிர் போல் காப்போம், இணையவழிப் பாலியல் துஸ்பிரயோகங்களை நிறுத்துங்கள், எமது சிறுவர்களுக்கு பாதுகாப்பு வேண்டும் போன்ற பல்வேறு வாசகங்கள் எழுதப்பட்ட பதாகைகளை யும் அதே நேரம் சிறுமியின் புகைப்படத்தையும் ஏந்தியவாறு அமைதி வழி போராட்டத்தில் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/6f0f5afc.json)
+
+---
+
+### சுகாதார அமைச்சு  கூறினால் மட்டுமே வீட்டுக்குச் செல்வேன் - பிரதிப் பணிப்பாளர்  ருக்க்ஷான் பெல்லன!
+
+*2024-02-19 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176740) · `ta`
+
+வைத்தியசாலையின் வைத்தியர்கள், தாதியர்கள் மற்றும் ஊழியர்கள் என்னை வீட்டுக்குச் செல்லுமாறு கூற முடியாது.  சுகாதார அமைச்சு  கூறினால் மட்டுமே வீட்டுக்குச் செல்வேன்  என கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர்  ருக்க்ஷான் பெல்லன  தெரிவித்துள்ளார்.
+
+தான்  7 மணித்தியாலங்கள் வைத்தியசாலையில் தடுத்து வைக்கப்பட்டிருந்ததாக பலர் கூறினாலும் அவ்வாறு எதுவும் இடம்பெறவில்லை என்றும்  எனவும் அவர் தெரிவித்துள்ளார்.
+
+சம்பவதினம் தான் வைத்தியசாலைக்கு கடமைகளுக்காக சென்றதாகவும்  கடமைகளை முடித்துக் கொண்டு மாலை 5.30 மணியளவில் பொலிஸ் பாதுகாப்பில் வெளியேறியதாகவும் அவர்  தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/c8056533.json)
+
+---
+
 ### Health sector faces dearth of critical medical equipment
 
 *2024-02-19 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-sector-faces-dearth-of-critical-medical-equipment/108-277312) · `en`
@@ -127,6 +299,8 @@ When inquired from the Health Ministry, a senior health official told the Daily 
 ...
 
 [Data](articles/14a06835.json)
+
+[Extended Data](ext_articles/14a06835.ext.json)
 
 ---
 
@@ -232,6 +406,40 @@ Sarath Fonseka had asked the court to issue disciplinary action against his part
 
 ---
 
+### போதைப்பொருள் வாங்க பணம் கொடுக்காததால் குடும்பஸ்தர் உயிர்மாய்ப்பு
+
+*2024-02-19 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/176736) · `ta`
+
+போதைப்பொருள் வாங்குவதற்காக தனது சகோதரி மற்றும் தாயாரிடம் நேற்று ஞாயிற்றுக்கிழமை (18) பணம் கேட்டு, வீட்டில் குழப்பத்தில் ஈடுபட்ட குடும்பஸ்தருக்கு, வீட்டார் பணம் கொடுக்காததால், தவறான முடிவெடுத்து தனது உயிரை மாய்த்துள்ளார்.
+
+குறித்த குடுப்பஸ்தருக்கு திருமணமாகி 05 வயதில் பிள்ளை இருக்கும் நிலையில், அதீத போதைப்பொருள் பாவனையால், குடும்ப வன்முறைகளிலும் ஈடுபட்டு வந்தமையால், அவரது மனைவி பிள்ளை அவரை விட்டு பிரிந்து வாழ்வதாக விசாரணைகளில் தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/d6128135.json)
+
+---
+
+### நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்குவதற்காக தற்போது இடம்பெறும் முயற்சிகளிற்குஆதரவில்லை - இது சதி முயற்சி - தோற்கடிக்கவேண்டும் - ஜேவிபி
+
+*2024-02-19 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176735) · `ta`
+
+நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்குவதற்காக தற்போது இடம்பெறும் முயற்சிகளிற்கு ஆதரவளிக்கப்போவதில்லை என ஜேவிபி தெரிவித்துள்ளது.
+
+நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்குவதற்காக தற்போது இடம்பெறும் முயற்சிகளை சதி என அந்த கட்சி வர்ணித்துள்ளது.
+
+எனினும் எதிர்காலத்தில் தேசிய மக்கள் சக்தியின் ஆட்சிக்காலத்தில் நிறைவேற்று அதிகார ஜனாதிபதி முறைநீக்கத்திற்கான நடவடிக்கைகளை முன்னெடுக்கவுள்ளதாக அந்த கட்சி தெரிவித்துள்ளது.
+
+நிறைவேற்று அதிகாரஜனாதிபதி முறையை நீக்குவதற்காக தற்போது இடம்பெறும் முயற்சிகளை ஒரு சதி என வர்ணித்துள்ள கட்சியின் நாடாளுமன்ற உறுப்பினர் விஜிதஹேரத் இதனை தோற்கடிக்கவேண்டும் என தெரிவித்துள்ளார்.
+
+தற்போது நிறைவேற்று அதிகார ஜனாதிபதிமுறையை நீக்குவதற்காக இடம்பெறுகின்ற முயற்சிகள் ஒரு ஏமாற்றுவித்தை என குறிப்பிட்டுள்ள விஜிதஹேரத் அரசாங்கத்திற்கு இதனை முன்னெடுப்பதற்கு போதுமான காலஅவகாசம் இருந்தும் அதனை  முன்னெடுக்கவில்லை என  குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/454e95a6.json)
+
+---
+
 ### Fourth phase of Indian housing project for plantation sector workers inaugurated
 
 *2024-02-19 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97383/fourth-phase-of-indian-housing-project-for-plantation-sector-workers-inaugurated) · `en`
@@ -286,6 +494,24 @@ ECONOMYNEXT – A roundtable discussion on “Ed-tech towards achieving SDGs”,
 
 [Data](articles/1d47adc7.json)
 
+[Extended Data](ext_articles/1d47adc7.ext.json)
+
+---
+
+### உள்ளூராட்சி மன்றத் தேர்தலுக்கான வேட்பு மனுக்களை இரத்துச் செய்ய  நடவடிக்கை!
+
+*2024-02-19 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176731) · `ta`
+
+காலவரையறையின்றி ஒத்திவைக்கப்பட்ட உள்ளூராட்சி மன்றத் தேர்தலுக்கான வேட்புமனுக்களை இரத்துச் செய்ய அரசாங்கம் நடவடிக்கை எடுத்துள்ளது.
+
+உள்ளுராட்சி மன்ற முன்னாள்  பிரதிநிதிகள் விடுத்த கோரிக்கையின் அடிப்படையிலேயே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+உள்ளூராட்சி மன்றத் தேர்தலுக்காக சமர்ப்பிக்கப்பட்ட வேட்புமனுக்களை இரத்துச்  செய்ய கடந்த ஆண்டு செப்டம்பர் மாதம் 21ஆம் திகதி அரச நிர்வாகம், உள்நாட்டலுவல்கள், மாகாண சபைகள்  அமைச்சு ஆலோசனைக் குழு ஏகமனதாக தீர்மானித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/00300baa.json)
+
 ---
 
 ### The latest way to demand ransom reveals
@@ -314,6 +540,24 @@ According to her complaint, the computer crime investigation unit opened by the 
 
 ---
 
+### The first record posted on social media after her husband's disappearance
+
+*2024-02-19 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176725) · `ta`
+
+Yulia Navalnaya, the wife of Russian opposition leader Alexi Navalni, who died mysteriously in jail, posted a record on social media for the first time two days after her husband died.
+
+On page Yulia Navalnaiah posted a photo taken with Alexi Navalney on Instagram. In it, he stressed in Russian as "I love you" (I love you).
+
+Grah Yarmish, a spokesman for the late Russian opposition leader, confirmed the death of Navalni. Also, he requested that his body be handed over to his family to “immediately”. He also said that Russian authorities are lying to delay the hand of the body.
+
+◼️
+
+[Data](articles/33aa074b.json)
+
+[Extended Data](ext_articles/33aa074b.ext.json)
+
+---
+
 ### Health sector trade unions to meet Health Minister for crucial talks today
 
 *2024-02-19 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97382/health-sector-trade-unions-to-meet-health-minister-for-crucial-talks-today) · `en`
@@ -331,6 +575,24 @@ On 14 February, the collective of trade unions decided to call off their strike 
 [Data](articles/6c406706.json)
 
 [Extended Data](ext_articles/6c406706.ext.json)
+
+---
+
+### கெஹலியவின் உடல்நிலை குறித்து ஆராய்ந்து அறிக்கை சமர்ப்பிக்க நீதிமன்றம் உத்தரவு!
+
+*2024-02-19 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176730) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் உடல்நிலை தொடர்பில் விசாரணைகளை மேற்கொள்வதற்கு 9 பேர் கொண்ட விசேட வைத்திய நிபுணர்கள்  குழுவொன்றை நியமிக்குமாறு சுகாதார சேவைகள் பணிப்பாளர் நாயகத்துக்கு  மாளிகாகந்த நீதிவான்   உத்தரவிட்டுள்ளார்.
+
+கெஹலிய ரம்புக்வெல்லவை நீதிமன்றில் முன்னிலைப்படுத்த முடியாத  நிலைமைகள் ஏற்பட்டுள்ளமை தொடர்பில் உடனடியாக விசாரணை நடத்துமாறு பிரதி சொலிசிட்டர் ஜெனரல்  லக்மினி கிரிஹாகம விடுத்த கோரிக்கையை நீதிவான் ஏற்றுக் கொண்டார்.
+
+கெஹலிய ரம்புக்வெல்லவின் உடல் நிலைமை தொடர்பில் விசாரணைகளை மேற்கொள்ளும் நிபுணர் குழுவில் இருதய நோய்கள், எலும்பு நோய்கள் மற்றும் நுரையீரல் நோய்களில் நிபுணத்துவம் பெற்ற வைத்தியர்களையும் உள்ளடக்குமாறும் நீதிவான் சுகாதார சேவைகள் பணிப்பாளர் நாயகத்துக்கு உத்தரவிட்டுள்ளார்.
+
+ரம்புக்வெல்லவின் உடல் நிலை தொடர்பிலான விசாரணை அறிக்கைய எதிர்வரும் 26ஆம் திகதிக்குள் நீதிமன்றில் சமர்ப்பிக்க நடவடிக்கை எடுக்குமாறு  நீதிவான் உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/d2500be1.json)
 
 ---
 
@@ -416,23 +678,7 @@ There may be several reasons for the inaction, the report found.
 
 [Data](articles/5db9078b.json)
 
----
-
-### The first record posted on social media after her husband's disappearance
-
-*2024-02-19 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176725) · `ta`
-
-Yulia Navalnaya, the wife of Russian opposition leader Alexi Navalni, who died mysteriously in jail, posted a record on social media for the first time two days after her husband died.
-
-On page Yulia Navalnaiah posted a photo taken with Alexi Navalney on Instagram. In it, he stressed in Russian as "I love you" (I love you).
-
-Grah Yarmish, a spokesman for the late Russian opposition leader, confirmed the death of Navalni. Also, he requested that his body be handed over to his family to “immediately”. He also said that Russian authorities are lying to delay the hand of the body.
-
-◼️
-
-[Data](articles/33aa074b.json)
-
-[Extended Data](ext_articles/33aa074b.ext.json)
+[Extended Data](ext_articles/5db9078b.ext.json)
 
 ---
 
@@ -473,6 +719,8 @@ The COlombo Stock Exchange opened up. The All Share Price Index was up 0.15 perc
 ◼️
 
 [Data](articles/f08e93b4.json)
+
+[Extended Data](ext_articles/f08e93b4.ext.json)
 
 ---
 
@@ -1747,285 +1995,5 @@ He was a key role behind the US resolutions at the UN Human Rights Council over 
 [Data](articles/46fdb792.json)
 
 [Extended Data](ext_articles/46fdb792.ext.json)
-
----
-
-### "Delhi Salo" farmers' struggle in Delhi
-
-*2024-02-19 01:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176709) · `ta`
-
-In Chandigarh, the first phase of the talks with the farmers began on the 8th. Thereafter the negotiations continued on the 10th, 11th and 12th of February. Punjab Chief Minister Bhagavant Singh had made arrangements for this.
-
-According to the decisions taken in these talks, the central government has agreed to withdraw the cases filed in the last peasant struggle and take stern action against the sellers.
-
-However, the Delhi police are currently trying to suppress the struggle. For this purpose, 144 ban has been issued to meet meetings on Delhi, Punjab and Haryana state borders. Central security forces are engaged in surveillance in the area.
-
-Punjab and Haryana farmers are planning to pursue this struggle until the demands have been taken.
-
-◼️
-
-[Data](articles/468c5f4e.json)
-
-[Extended Data](ext_articles/468c5f4e.ext.json)
-
----
-
-### Tamil
-
-*2024-02-19 00:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176708) · `ta`
-
-The consequences of the seventy -five -year -old party until now have been based on compliance and now the consequences of the democratic system are visible.
-
-Moreover, it is a shame that there are many shortcomings in the party with a variety of renowned lawyers since Rani Attorney SJV Selvanayagam.
-
-Therefore, in the near future, if the TNA is establishing itself in the politics of the party, it is necessary to self -examine and prompt a reform to ensure internal democracy.
-
-These two tasks are incomplete, and the responsibility of providing elegant representation to a race that the party is fighting for liberation.
-
-◼️
-
-[Data](articles/0fc61c5e.json)
-
-[Extended Data](ext_articles/0fc61c5e.ext.json)
-
----
-
-### Increase in demand
-
-*2024-02-19 00:18:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-தேவை-அதிகரிப்பு/175-333418) · `ta`
-
-Due to the prevailing drought, the demand for daily electricity has increased from 3 to 4 Gigawat.
-
-The Ceylon Electricity Board (CEB) spokesman Noel Priyantha said that hydroelectricity has fallen by 21 percent these days.
-
-He said that the capacity of the reservoirs related to water power stations is 83 percent.
-
-Meanwhile, 4.5 percent of electricity is generated by solar power. 5 percent of electricity produced by windmill. 64 percent of electricity is obtained by power generation.
-
-The Ceylon Electricity Board (CEB) has advised the people to use electricity efficiently. (A)
-
-◼️
-
-[Data](articles/920f6a60.json)
-
-[Extended Data](ext_articles/920f6a60.ext.json)
-
----
-
-### US Deputy Secretary Richard Verma Visit India, Maldives, Sri Lanka
-
-*2024-02-19 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176707) · `ta`
-
-Richard R.. Verma will make a visit.
-
-The US State Department has said that his journey will be held in view of the two-year anniversary of the Indo-Pacific Strategy in the United States and will re-confirm the US's sustaining commitment to the open, safe and prosperous region.
-
-Richard Verma will first visit India's New Delhi and meet senior state officials, business leaders and entrepreneurs to improve the US-Indian global strategic alliance from crises, including economic development, security and technology.
-
-Later, from India, he will travel to Male, the capital of the Maldives, and meet with senior officials, to increase economic cooperation and improve maritime security.
-
-In addition, he will visit the planned office for the new US embassy in Male to help further enhance the relations between the US and the Maldives.
-
-He will then visit Maley to Colombo and will make his meetings with senior officials.
-
-...
-
-[Data](articles/22954229.json)
-
-[Extended Data](ext_articles/22954229.ext.json)
-
----
-
-### Iranian Foreign Minister visit today
-
-*2024-02-19 00:14:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானிய-வெளிவிவகார-அமைச்சர்-இன்று-வருகை/175-333417) · `ta`
-
-Iranian Foreign Minister Hussein Amir will visit Sri Lanka today (19) after a two -day official visit.
-
-The Ministry of External Affairs has said that he will make the visit to the invitation of Foreign Minister Ali Sabri.
-
-The Iranian Foreign Minister will meet with the President, Prime Minister and Foreign Minister during his stay in Sri Lanka.
-
-The Ministry of External Affairs has said that the top officials of the Foreign Ministries of the Presidential Office will be accompanied by the President's Office.
-
-The team will leave the country on the 21st of this month. (A)
-
-◼️
-
-[Data](articles/67d9f967.json)
-
-[Extended Data](ext_articles/67d9f967.ext.json)
-
----
-
-### Bharat - Lanka Housing Scheme
-
-*2024-02-19 00:09:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரத்-லங்கா-வீட்டுத்திட்டம்-இன்று-ஆரம்பம்/175-333416) · `ta`
-
-Under the guidance of President Ranil Wickremesinghe, the Government of India, with the financial assistance of the Government of India, has launched a 10 thousand Bharat -Lanka housing scheme for the hill country under the coordination of Minister of Water Resources and Estate Infrastructure Development.
-
-For the first time, a total of 300 houses will be held at the same time.
-
-The inauguration ceremony is being held today in 45 gardens, including the 10 districts of Nuwara Eliya, Kandy, Badulla, Matale, Kegalle, Kurunegala, Ratnapura, Galle, Kalutara and Moneragala.
-
-The event will be held at the Presidential Secretariat at 10.00 am today. (A)
-
-◼️
-
-[Data](articles/2132e4ae.json)
-
-[Extended Data](ext_articles/2132e4ae.ext.json)
-
----
-
-### SL must forge new trade and investment partnerships with complementary economies
-
-*2024-02-19 00:05:06* · [`dailyftlk`](https://www.ft.lk/columns/SL-must-forge-new-trade-and-investment-partnerships-with-complementary-economies/4-758607) · `en`
-
-Partnering with these emergent markets could open doors for Sri Lankan business, while strengthening the country’s network within the Indo-Pacific region
-
-With 56 member states, including some of the world’s fastest growing and most dynamic economies, the global Commonwealth network provides Sri Lanka with a pathway to closer and deeper partnership with nations around the world. What’s more, a combination of cultural, legal, and economic factors means that it is 21% cheaper for Commonwealth countries to trade with one another, an effect known as the ‘Commonwealth Advantage’
-
-Now more than ever before, it is vital that Sri Lanka engages closely with a wide range of trade and investment partners. A strong recovery from the difficulties of the past few years will only be possible with the cooperation and capital of international partners, who recognise the extensive opportunities that Sri Lanka offers. Crucially, these partners must be varied and reliable.
-
-...
-
-[Data](articles/c31a6130.json)
-
-[Extended Data](ext_articles/c31a6130.ext.json)
-
----
-
-### 2024-02-18 (Sunday)
-
-### Sovereign debt, climate crisis, and global financial system
-
-*2024-02-18 23:57:41* · [`dailyftlk`](https://www.ft.lk/columns/Sovereign-debt-climate-crisis-and-global-financial-system/4-758606) · `en`
-
-The threat of debt distress or default is exacerbated by the climate crisis and presents a serious challenge for climate-vulnerable developing countries around the globe
-
-Rising debt levels and fiscal constraints are a key challenge for developing countries across the globe. The threat of debt distress or debt default is further exacerbated by the climate crisis, which causes additional risks and requires significant investment to fulfil national obligations and build long-term resilience.
-
-For climate-vulnerable developing countries facing serious debt-related challenges—including Sri Lanka—it is therefore crucial to understand the climate-debt nexus and identify ways to reconcile the need for green economic growth, debt sustainability, and climate action.
-
-...
-
-[Data](articles/724add0e.json)
-
-[Extended Data](ext_articles/724add0e.ext.json)
-
----
-
-### Sriyani Hulugalle’s ‘Shadows of Hantana’: A romantic experience for readers
-
-*2024-02-18 23:46:14* · [`dailyftlk`](https://www.ft.lk/columns/Sriyani-Hulugalle-s-Shadows-of-Hantana-A-romantic-experience-for-readers/4-758604) · `en`
-
-The heroines or heroes in these novels are defeatists. Readers finish the books with anger and resentment in their heads. Hulugalle’s creative work is different from this popular genre. True, there is love blossoming in the heart of an inexperienced young girl. But this girl differs from her counterparts in other novels and does not take the defeat as the inevitable fate. Instead, she makes an unusual sacrifice for those whom she loves and reaches her final goal of seeking academic excellence outside the country and away from those who had been known to her. In this sense, she is a heroine conquering the world which is hostile to her through understanding and persevering till she reaches her goal
-
-...
-
-[Data](articles/b1d63002.json)
-
-[Extended Data](ext_articles/b1d63002.ext.json)
-
----
-
-### Dispute over 90 perches of land ends after 52 years legal battle
-
-*2024-02-18 23:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dispute-over-90-perches-of-land-ends-after-52-years-legal-battle/108-277265) · `en`
-
-Colombo, Feb. 18 (Daily Mirror)- The Supreme Court delivered a judgment in favour of the plaintiff party over a land dispute relating to a 90-perch plot of land in Kurunegala, which had traversed the halls of the courts for 52 years.
-
-This case was first instituted in 1972 by the original plaintiff in the District Court of Kurunegala against the original defendant for a declaration of title to the land called “Damunugahamulawatta”, ejectment of the original defendant from the said land, restoration of possession and damages.
-
-On March 29, 1976, the Kurunegala District Court delivered a judgment in favour of the plaintiff. Subsequently, the defendant filed an appeal before the Court of Appeal against the District Court judgment. On October 25, 1984 the Court of Appeal set aside the judgment of the District Court and sent the case back for a fresh trial (de-novo) on the basis that the District Court Judge had not taken into consideration several documents produced as evidence.
-
-...
-
-[Data](articles/7e787363.json)
-
-[Extended Data](ext_articles/7e787363.ext.json)
-
----
-
-### Harin Fernando's comment is great - Wimal Weerawansa
-
-*2024-02-18 22:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176705) · `ta`
-
-What is the president's position on Minister Harin Fernando as a part of Sri Lanka?Wimal Weerawansa, the leader of the National Freedom Front and Member of Parliament, said that the independence of Sri Lanka has been betrayed by India amid economic impact.
-
-He made this statement during a media briefing held at the National Freedom Front office on Sunday (18).
-
-Minister Harin Fernando made a great deal of comment during the Indian diplomatic operation of Sri Lanka. President Ranil Wickremesinghe, who refers to 'we have protected the country's independence'. They are like being ignorant.
-
-Minister Harin Fernando went to India and attended the diplomatic event and said, "Sri Lanka is a part of India.". If this happens, the entire Sri Lanka will be given to India.
-
-...
-
-[Data](articles/4ad0497b.json)
-
-[Extended Data](ext_articles/4ad0497b.ext.json)
-
----
-
-### US to donate King Air aircraft to Sri Lanka to patrol coastal waters
-
-*2024-02-18 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97378/us-to-donate-king-air-aircraft-to-sri-lanka-to-patrol-coastal-waters) · `en`
-
-U.S. Assistant Secretary of State for South and Central Asian Affairs Donald Lu has announced that the government of United States will donate a Beechcraft King Air aircraft to the government of Sri Lanka this year, to patrol its coastal waters in a bid to protect the country’s sovereignty.
-
-Speaking at the US Institute of Peace (USIP) on the Indo-Pacific strategy, Mr. Lu highlighted that part of what Sri Lanka needs is for other countries, including the U.S., to help protect its sovereignty.
-
-“One of the ways that we are doing that, from the US government, is by providing patrol boats to the Sri Lankan military. And, we are also, this year, set to deliver a King Air aircraft that will help Sri Lanka to patrol its coastal waters”, the US diplomat said in this regard.
-
-“Sri Lanka has made this amazing sort of historic comeback, how’d they do it? They did it with a little bit of help from all of us”, he further said, speaking on the country’s economic recovery.
-
-◼️
-
-[Data](articles/6c05d83f.json)
-
-[Extended Data](ext_articles/6c05d83f.ext.json)
-
----
-
-### US aircraft to Sri Lanka
-
-*2024-02-18 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193557) · `si`
-
-The US has decided to provide a plane to the security of Sri Lanka's coast.
-
-This is stated that DOLAND LU, an American diplomatic officer.
-
-Addressing a special meeting, he added that a 'King Air' is to be handed over to Sri Lanka.
-
-He further stated that it will be received this year.
-
-The US had also provided boats before the security forces of Sri Lanka to protect the coast of Sri Lanka.
-
-◼️
-
-[Data](articles/998c7628.json)
-
-[Extended Data](ext_articles/998c7628.ext.json)
-
----
-
-### Megoda robbery: 5 arrested
-
-*2024-02-18 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/176702) · `ta`
-
-Five people have been arrested in connection with the robbery at the Meegoda Economic Center and three of them are traders, police said.
-
-Police have arrested a businessman from Tissamaharama area for allegedly spying on the robbery.
-
-He is running a chilli powder business and anatomical center in Tissamaharama area, police said.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that two businessmen living in Imbulkama and Kadawatha areas have been arrested in connection with the incident.
-
-◼️
-
-[Data](articles/5de8f9d7.json)
-
-[Extended Data](ext_articles/5de8f9d7.ext.json)
 
 ---

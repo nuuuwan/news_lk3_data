@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 12:17:27**
+As of **2024-02-19 12:32:52**
 
 ## Newspaper Stats
 
-*Scraped **7,954** Articles*
+*Scraped **7,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 420
 dailyftlk | 434
 adalk | 677
 tamilmirrorlk | 967
-adaderanalk | 974
+adaderanalk | 975
 virakesarilk | 1,047
 adaderanasinhalalk | 1,158
 dailymirrorlk | 1,166
@@ -26,47 +26,51 @@ dailymirrorlk | 1,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,947 (99.9%) of 7,954 articles have been extended.
+7,954 (100.0%) of 7,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### මහාචාර්ය චන්න ජයසුමන ට ජාත්‍යන්තර සම්මානයක්
+### Professor Channa Jayasena receives international award
 
 *2024-02-19 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193571) · `si`
 
-අමෙරිකා එක්සත් ජනපදයේ විද්‍යාභිවර්ධන සංගමය විසින් විද්‍යාත්මක නිදහස සහ වගකීම වෙනුවෙන් පිරිනමන සම්මානය මහාචාර්ය චන්න ජයසුමන මහතාට හිමිව තිබේ.
+Professor Channa Jayasena has won the award for scientific freedom and responsibility by the Sri Lanka Institute of Scientific Freedom and Responsibility.
 
-විවිධ පාර්ශ්ව වලින් එල්ල වූ අභියෝග හමුවේ කෘෂිකාර්මික ප්‍රජාවගේ වකුගඩු රෝගය පිළිබඳ සිදුකළ පර්යේෂණ හේතුවෙන් ලොව පුරා මිලියන ගණනක් ජනතාවගේ සෞඛ්‍ය තත්ත්වය ඉහළ නැංවීමට සිදුකළ දායකත්වය මත මෙම සම්මානය ඔහුට පිරිනමා තිබේ.
+The award was given to him due to the contribution made by the Agricultural community's kidney disease in the face of the challenges of various parties.
 
-මෙම සම්මානය ඔහුට හිමි වූ බවට පළමු වරට ප්‍රකාශයට පත්කළ අවස්ථාවේදී කෘෂි රසායන සමාගම් ඇතුළු විවිධ පාර්ශව ඊට විරෝධය දක්වා තිබූ බව වාර්තා විය.
+When he first declared that he was awarded, he had opposed the various parties including agrochemical companies.
 
-ඒ අනුව සම්මානය ලබාදීම යළි සලකා බැලීමට විශේෂ ජූරි සභාවකට යොමු කර ඇති අතර එම ජූරි සභාව ද තීරණය කර ඇත්තේ මෙම සම්මානය ඔහුට ලැබිය යුතු බවටය.
+Accordingly, a special jury has been sent to a special jury to recall the award and has decided to receive this award.
 
-ඔහුගේ මෙම පර්යේෂණ සිදුකිරීම සඳහා කැලිෆෝනියා රාජ්‍ය විශ්වවිද්‍යාලයේ මහාචාර්ය සරත් ගුණතිලක මහතා ද සහාය වී තිබුණි.
+Professor Sarath Gunatilleke of the California University also also helped to perform his research.
 
-අමෙරිකානු විද්‍යාභිවර්ධන සංගමයේ වාර්ෂික සමුළුවේදී එහි අධ්‍යක්ෂ තෙරේසා හැරිස් මහත්මිය විසින් මෙම සම්මානය මහාචාර්ය ජයසුමන මහතාට පිරිනමා ඇත.
+At the Annual Conference of the American Scholarship Association, Mrs. Teresa Harris, Director, was awarded to Professor Jayatuna.
 
 ◼️
 
 [Data](articles/01e33ce0.json)
 
+[Extended Data](ext_articles/01e33ce0.ext.json)
+
 ---
 
-### වතුකරයේ ජනතාවට සුබ පණිවුඩයක්
+### A gathering to the people of the plantation
 
 *2024-02-19 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193570) · `si`
 
-වතුකරයේ කම්කරු ජනතාව වෙනුවෙන් නිවාස 10,000ක් ඉදිකිරීම සඳහා ඉන්දීය රජයේ මුල්‍ය ප්‍රතිපාදන යටතේ ක්‍රියාත්මක නිවාස ව්‍යාපෘතියේ තවත් අදියරක ඉදිකිරීම් කටයුතු ආරම්භ කිරීමේ උත්සවය ජනාධිපති ලේකම් කාර්යාලයේදී පැවැත්විණි.
+The event was held at the Presidential Secretariat in the Presidential Secretariat for the construction of 10,000 houses for the labor people in the plantation workers.
 
-මෙම සිව්වන අදියර යටතේ දිස්ත්‍රික්ක 10ක වතු 45ක් පුරා නිවාස 1300ක් ඉදිකිරීමට නියමිතය.
+In the fourth phase, 1300 houses will be constructed for 45 districts.
 
-මෙම අවස්ථාවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමඟ ඉන්දීය මහ කොමසාරිස් සන්තෝෂ් ජා මහතා ද මාර්ගගත ක්‍රමවේදය ඔස්සේ සම්බන්ධ වූහ.
+Indian High Commissioner Sanarithshy with President Ranil Wickremesinghe was also involved in the online method.
 
 ◼️
 
 [Data](articles/5792d340.json)
+
+[Extended Data](ext_articles/5792d340.ext.json)
 
 ---
 
@@ -88,19 +92,43 @@ The relevant order was issued by the Colombo District Court on Monday (19 Jan.),
 
 ---
 
-### සරත් ෆොන්සේකා ගැන සජබයට වාරණ නියෝගයක්
+### Injunction issued preventing SJB from removing Sarath Fonseka from party and posts
+
+*2024-02-19 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97384/injunction-issued-preventing-sjb-from-removing-sarath-fonseka-from-party-and-posts) · `en`
+
+A court order has been issued preventing the Samagi Jana Balawegaya (SJB) from suspending Field Marshal Sarath Fonseka’s party membership and removing him from positions held within the party.
+
+Accordingly, the relevant injunction, effective for a period of 14 days, prevents the political party from ousting Field Marshal Fonseka from the SJB, taking disciplinary action against him and removing him from posts in the party.
+
+The relevant order was issued by the Colombo District Court on Monday (19 Jan.), upon consideration of a petition filed by Fonseka.
+
+The order was issued by Colombo District Judge Sandun Withana, against party leader Sajith Premadasa, SJB General Secretary Ranjith Maddumabandara, Treasurer Harsha de Silva and National Organiser Tissa Attanayake.
+
+MP Sarath Fonseka currently holds the position of Chairman of the SJB.
+
+◼️
+
+[Data](articles/ba216c72.json)
+
+---
+
+### Enjoining order on Sarath Fonseka
 
 *2024-02-19 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193569) · `si`
 
-සමගි ජන බලවේගයේ සභාපති ෆිලඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතාගේ පක්ෂ සාමාජිකත්වය, ඔහු දරන තනතුරු අත්හිටුවීම සහ විනය ක්‍රියාමාර්ග ගැනීම වළක්වාලමින් කොළඹ දිසා අධිකරණය වාරණ නියෝගයක් නිකුත් කර තිබේ.
+The Colombo District Court in Colombo District Court has issued an enjoining order preventing the party membership of the party membership, suspend and disciplinary action.
 
-සරත් ෆොන්සේකා මහතා ගොනුකළ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා විසින් සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස, එහි මහ ලේකම් රංජිත් මද්දුමබණ්ඩාර ජාතික සංවිධායක තිස්ස අත්තනායක සහ භාණ්ඩාගාරික හර්ෂ ද සිල්වා යන මහත්වරු වෙත මෙම වාරණ නියෝග නිකුත් කළේය.
+The Weli Paramana, the leader of the Colombo District Judge Sandun Withana issued these enjoining orders after considering a petition filed by Sarath Fonseka.
 
-පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා අධිකරණය හමුවේ, කරුණු දක්වමින් හිටපු හමුදාපති දයාරත්නායක සමගි ජන බලවේගයට එක්වීම සම්බන්ධයෙන් තම සේවාදායකයා ඊට එරෙහිව පළ කළ අදහස් පදනම් කරගෙන ඔහුට එරෙහිව විනය ක්‍රියාමාර්ග ගැනීමට සූදානම් වන බවට පසුගිය කාලයේ මාධ්‍යවලින් තොරතුරු පළවී තිබූ බව සඳහන් කළේය.
+President's Counsel Faizer Mustapha appeared in the courts in contempt for the petitioner, the media had previously published that his client was preparing to take disciplinary action against his client.
 
-...
+Sarath Fonseka had asked the court to issue disciplinary action against his party membership, preventing disciplinary action against his party membership and suspicion of post membership and resignation.
+
+◼️
 
 [Data](articles/5b239f46.json)
+
+[Extended Data](ext_articles/5b239f46.ext.json)
 
 ---
 
@@ -144,27 +172,29 @@ Foreign husband and wife have traveled to Katunayake Airport from Hikkaduwa area
 
 ---
 
-### කප්පම් ඉල්ලන අලුත්ම විදිය හෙළිවෙයි
+### The latest way to demand ransom reveals
 
 *2024-02-19 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193568) · `si`
 
-රජයේ ඉහළ තනතුරක් දරන නිලධාරිනියකගෙන් පරිගණක අපරාධ විමර්ශන කොට්ඨාසයට පැමිණිල්ලක් ලැබී තිබුණේ මීට මාසයකට පමණ ඉහතදීය.
+The Computer Criminal Investigation Division has lodged a complaint from an officer holding a top government position.
 
-ඉන් කියැවුණේ සිය සැමියාගේ සමාජ මාධ්‍ය ගිණුම්වලට කිසිවකු විසින් අවසරයකින් තොරවඇතුළු වී ඇති බවත් එම ගිණුම් යළි ලබාදීමට රුපියල් ලක්ෂයක මුදලක් කප්පම් ලෙස අවශ්‍ය බවට නාඳුනන පුද්ගලයකුගෙන් පණිවුඩ ලැබුණු බවත්ය.
+It was said that no one had funded by anyone to his husband's social media accounts, and that a unidentified person had received a message from an unknown.
 
-රජයේ නිලධාරිනිය සිය සැමියා වෙනුවෙන් පරිගණක අපරාධ විමර්ශන ඒකකයට එලෙස පැමිණිල්ලක් ඉදිරිපත් කළේ පෞද්ගලික ආයතනයක ඉහළ තනතුරක් දැරූ සැමියා රාජකාරි කටයුත්තක් වෙනුවෙන් විදෙස්ගතව සිටි බැවිනි.
+The government official lodged a complaint with the Computer Criminal Investigation Unit for her husband, because the husband who had held a high office in a private company was abroad.
 
-ඇයගේ පැමිණිල්ල භාරගත් පරිගණක අපරාධ විමර්ශන ඒකකය ඊට අදාළ විමර්ශන ඇරඹීය.
+The Computer Criminal Investigation Unit, which is accepted by her complaint began investigations.
 
-මාසයකට ආසන්න කාලයක් ඒ වෙනුවෙන් වෙහෙසවීමේ අවසාන ප්‍රතිඵලය වූයේ සමාජ මාධ්‍ය උපයෝගීක කරගනිමින් මහා පරිමාණයෙන් කළ ජාවාරමක් පිළිබඳ හෙළිදරව් කරගැනීමට හැකිවීමය.
+For nearly a month, the end result of the effort was to expose a large racket using social media.
 
-රජයේ නිලධාරිනියගේ පැමිණිල්ලට අනුව ඇයගේ සැමියාගේ Gmail, WhatsApp සහ Facebook ආදි සියලු ගිණුම් නන්නාඳුනන අයකුගේ සන්තකයට පත්වී තිබිණි.
+According to the government's complaint, all accounts were inaugurated by her husband's gmail, whatsApp and Facebook.
 
-ඇයගේ පැමිණිල්ල අනුව විමර්ශන ඇරඹූ පරිගණක අපරාධ විමර්ශන ඒකකය වංචනිකයන් හඳුනාගැනීම සඳහා විවිධ තාක්ෂණික ක්‍රමෝපායන් අනුගමනය කර ඇත.
+According to her complaint, the computer crime investigation unit opened by the computer criminal investigation unit has followed various technical strategies to identify frauds.
 
 ...
 
 [Data](articles/0e17326e.json)
+
+[Extended Data](ext_articles/0e17326e.ext.json)
 
 ---
 
@@ -206,17 +236,19 @@ The third term of the academic year 2023 ended on 16 February.
 
 ---
 
-### நீர்மட்டம் குறைகிறது
+### Diminishing the water level
 
 *2024-02-19 10:33:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/நீர்மட்டம்-குறைகிறது/46-333427) · `ta`
 
-மத்திய மலைநாட்டில் சுமார் ஒரு மாத காலமாக கடும் வறட்சியான காலநிலை நிலவி வருவதால், மவுஸ்ஸாக்கலை மற்றும் காசல்ரீ நீர்த்தேக்கங்களின் நீர் மட்டம் குறைவடைந்துள்ளது.
+Due to the prevailing dry weather for nearly a month in the central hill country, the water level of the Moussakalai and the Casallai reservoirs has decreased.
 
-அதற்கமைய, இன்று (19) காலை 06.00 நிலவரப்படி, மவுஸ்ஸாக்கலை மற்றும் காசல்ரீ நீர்த்தேக்கங்களின் நீர் மட்டம் முறையே 13 அடி 5 அங்குலம் மற்றும் 08 அடியாக குறைந்துள்ளதாக நீர்த்தேக்கங்களுக்குப் பொறுப்பான பொறியியலாளர்கள் தெரிவித்துள்ளனர்.
+According to the engineers responsible for the reservoirs, the water level of the Moussakalai and Casalri reservoirs has dropped 13 feet 5 inches and 08 feet respectively as of 06.00 am today (19).
 
 ◼️
 
 [Data](articles/3b2c70bb.json)
+
+[Extended Data](ext_articles/3b2c70bb.ext.json)
 
 ---
 
@@ -268,21 +300,23 @@ Grah Yarmish, a spokesman for the late Russian opposition leader, confirmed the 
 
 ---
 
-### මාතලේ පාරිභෝගිකයෝ බිත්තර මිලදී ගැනීම ප්‍රතික්‍ෂේප කරති.
+### Trincomalee consumers refuse to buy eggs.
 
 *2024-02-19 10:14:09* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-පාරිභෝගිකයෝ-බිත්තර-මිලදී-ගැනීම-ප්‍රතික්‍ෂේප-කරති-/11-408162) · `si`
 
-රුපියල් 60 – 70 අතර මිලකට මාතලේ දිස්ත්‍රික්කයේ අලවි වන බිත්තර මිලදී ගැනීම සදහා පාරිභෝගිකයින්ගේ පැමිණිම සැලකිය යුතු අන්දමින් අඩුවී ඇතැයි සුළුපරිමාන බිත්තර අලවිකරුවෝ කියා සිටිති.
+The budgetary arrivals say that the attendance of consumers have declined to buy the consumers in Matale District at Rs. 60 - 70.
 
-අවස්ථා ගනනාවක දී විවිද මිල ගනන් යටතේ මිල වැඩිකිරිම් සිදුකරන ලද බිත්තරවල අධික මිල වැඩිවීම් හේතුවෙන් පාරිභෝගිකයින් සැලකියයුතු පිරිසක් මේ වන විට බිත්තර මිලට ගැනීම ප්‍රතික්‍ෂේප කර ඇතැයි ඔවුහු කියා සිටිති.
+They claimed that there are no significant prices to buy eggs due to the high prices of the eggs in the eggs in the eggs in the eggs of the eggs under the number of occasions.
 
-මේ අතර මාතලේ දිස්ත්‍රික්කයේ බිත්තර නිෂ්පාදකයින් කියා සිටියේ කෑම ඇතුළු බෙහෙත් ද්‍රව්‍යවල පවත්නා මිල ඉහළ යැම් හේතුවෙන් බිත්තර මිල ඉහල දෑමිමට සිදුවී ඇති බවයි. එහෙත් මේ වන විටත් සිය නිෂ්පාදනයන් තුළි නිසි ලාභයක් නොලබන බව ද ඔවුහු කියා සිටියහ.
+Meanwhile, egg manufacturers in the Matale district say that the prices of food, including food, including food, have to increase the price of egg prices. But they also claimed that their products are not profit already.
 
-මාතලේ දිස්ත්‍රික්කයේ දඹුල්ල, මාතලේ, නාඋල, මඩවල පලාපත්වල ආදී ප්‍රදාන උප නගරවල බිත්තර අලවිසැල්වල හිමිකරුවන් රැසක් කියා සිටියේ අලවිය සදහා රැගෙනවිත් ඇති බිත්තර පාරිභෝගිකයින් විසින් ලබාගැනීම මන්දගාමි අන්දමින් සිදුවන බවයි
+A large number of owners of eggs have been brought to the pascutors in the Matale, Matale, Naula, Matale District and the Ella-Elavisal owners of the Grade Currency.
 
 ◼️
 
 [Data](articles/79354303.json)
+
+[Extended Data](ext_articles/79354303.ext.json)
 
 ---
 
@@ -942,29 +976,35 @@ A week-long “Seeds for the future European Grand Finale,” bringing together 
 
 ---
 
-### ආගමික පදනම මත පාසල් බෙදා තිබීම ආගමික සහජීවනයට බාධාවක් ද?
+### Is it hindered to religious cohesion to divide schools on religious basis?
 
 *2024-02-19 04:45:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1d124n40pzo) · `si`
 
-ශ්‍රී ලංකාවේ පාසල් විවිධ කරුණු පදනම් කර ගනිමින් විවිධ බෙදීම්වලට ලක් කර තිබේ.
+The schools in Sri Lanka have been divided based on various issues.
 
-එම බෙදීම්, ආගමික, ජන වාර්ගික, භාෂාමය, භෞතික සම්පත් සහ ස්ත්‍රී පුරුෂභාවය ආදී කරුණු රැසක් මත පදනම්ව පවතී.
+There are many divisions, religious, communal, linguistic, physical resources and sexuality.
 
-බෞද්ධ, ක්‍රිස්තියානි, කතෝලික, මුස්ලිම්, හින්දු ආදී පාසල් වර්ගීකරණය වී ඇත්තේ, ආගම, ජාතිය සහ භාෂාව පදනම් කරගෙන ය.
+The schools classified as Buddhist, Christian, Catholic, Muslim and Hindu, is based on religion, race, and language.
 
-ඊට අමතරව, භෞතික සම්පත් මත පදනම්ව ජාතික පාසල්, පළාත් සභා පාසල්, මධ්‍ය මහා විද්‍යාල, මහා විද්‍යාල, කනිෂ්ඨ විද්‍යාල ආදී ලෙස බෙදා තිබේ.
+In addition, it is divided into National Schools, Provincial Councils, Central Colleges, Junior Schools, Junior Schools, Physician Schools based on physical resources.
 
-ස්ත්‍රී පුරුෂ භාවය පදනම් කරගෙන පිරිමි සහ කාන්තා ලෙස බෙදා ඇති පාසල් රැසක් ද ශ්‍රී ලංකාව තුළ පවතී.
+There are many schools divided as male and women based on gender.
 
-මෙම ලිපියෙහි අරමුණ ශ්‍රී ලංකාවේ පාසල් ආගම් සහ ජාතීන් පදනම් කරගෙන බෙදා වෙන් කර තැබීමෙන් ඇති වන ගැටලු පිළිබඳව සාකච්ඡා කිරීම ය.
+The purpose of this article is to discuss issues that bring to dividing schools based on school religions and nations.
 
-අධ්‍යාපන අමාත්‍යංශය 2021 වසරේදී අවසන් වරට කරන ලද පාසල් සංගණනයේ සංඛ්‍යා ලේඛන අනුව ශ්‍රී ලංකාවේ රජයට අයත් පාසල් සංඛ්‍යාව 10,146කි.
+The Ministry of Education is 10,146 schools in Sri Lanka, according to the number of school census in Sri Lanka.
 
-ඒ අතරින්, පාසල් 6,909ක් සිංහල පාසල් ලෙසත්, පාසල් 2,297ක් දෙමළ පාසල් ලෙසත්, පාසල් 940ක් මුස්ලිම් පාසල් ලෙසත් වර්ග කර තිබේ.
+Among them, 6,909 schools were classified as Sinhala schools and 940 schools as Tamil schools.
+
+In addition, there are 6,323 schools in Sinhala and 3,026 schools in Tamil.
+
+552 schools in Sinhala and English are 552. 170 schools teach in Tamil and English.
 
 ...
 
 [Data](articles/6e637447.json)
+
+[Extended Data](ext_articles/6e637447.ext.json)
 
 ---
 
@@ -1993,27 +2033,5 @@ The situation escalated on Friday (Feb. 16) when Dr. Bellana was forcibly confin
 [Data](articles/6b6a42f3.json)
 
 [Extended Data](ext_articles/6b6a42f3.ext.json)
-
----
-
-### Businessians out of business people who were arrested for Meegoda
-
-*2024-02-18 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193553) · `si`
-
-Five persons have been arrested in connection with the robbery at the Meegoda Economic Center, three of them were businesses.
-
-A businessman in Tissamaharama had arrested a businessman in Tissamaharama due to the police reveal that he was involved in the spying.
-
-According to police, he operates a chilli powder business and agrarily center in Tissamaharama.
-
-Police have also arrested two businessmen from Imbulgama and Kadawatha areas.
-
-Meanwhile, police spokesman DIG's men lawyer said, Similar.
-
-◼️
-
-[Data](articles/508a9e48.json)
-
-[Extended Data](ext_articles/508a9e48.ext.json)
 
 ---

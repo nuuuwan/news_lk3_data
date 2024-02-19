@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 14:17:46**
+As of **2024-02-19 14:32:57**
 
 ## Newspaper Stats
 
-*Scraped **7,987** Articles*
+*Scraped **7,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 409
 islandlk | 422
 dailyftlk | 434
-adalk | 680
+adalk | 681
 tamilmirrorlk | 970
-adaderanalk | 977
-virakesarilk | 1,059
+adaderanalk | 978
+virakesarilk | 1,062
 adaderanasinhalalk | 1,160
 dailymirrorlk | 1,171
 
@@ -26,11 +26,101 @@ dailymirrorlk | 1,171
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,987 (100.0%) of 7,987 articles have been extended.
+7,987 (99.9%) of 7,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### யாழ். மத்திய கல்லூரிக்கு பெண் அதிபர் நியமிக்கப்பட்டமைக்கு எதிர்ப்பு தெரிவித்து போராட்டம்
+
+*2024-02-19 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176754) · `ta`
+
+யாழ்ப்பாணம் மத்திய கல்லூரிக்கு புதிதாக பெண் அதிபர் ஒருவர் நியமிக்கப்பட்டமைக்கு எதிர்ப்பு தெரிவித்து இன்று திங்கட்கிழமை (19) ஆட்சேபனை அடையாள போராட்டம் முன்னெடுக்கப்பட்டது.
+
+கல்லூரிக்கு முன்பாக மாணவர்களின் கல்வி நடவடிக்கையை பாதிக்காத வகையில் இந்த போராட்டம் முன்னெடுக்கப்பட்டது.
+
+208 ஆண்டுகளைக் கடந்த பாரம்பரியமிக்க ஒரு ஆண்கள் பாடசாலையில் முதல் முறையாக பெண் அதிபரை நியமிப்பதற்கு ஆட்சேபனை செய்கின்றோம் என போராட்டத்தில் ஈடுபட்டவர்கள் தெரிவித்தனர்.
+
+அத்தோடு கல்லூரியின் அதிபராக செயற்பட்ட எஸ்.இந்திரகுமாரை மீண்டும் நியமிக்குமாறு மாணவர்கள், பழைய மாணவர்கள் மற்றும் பெற்றோர்கள் தெரிவித்துள்ளனர்.
+
+குறித்த பிரச்சினைக்கு சரியான ஒரு தீர்வை விரைவில் பெற்றுத்தருவதாக கடற்றொழில் அமைச்சரும், கல்லூரியின் பழைய மாணவருமான டக்ளஸ் தேவானந்தா உறுதி வழங்கியதாக பழைய மாணவர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/be914620.json)
+
+---
+
+### Bharat Lanka 10,000 Housing Project;The foundation stone for 30 houses at the Nuwara Eliya Scrub Estate
+
+*2024-02-19 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/176744) · `ta`
+
+The foundation stone for 30 houses was held this morning (19) at the Nuwara Eliya Scrub Estate in collaboration with the National Program of the Bharat Lanka 10,000 Housing Project.
+
+It is proposed to construct ten thousand houses nationwide under the Bharat Lanka Housing Scheme, which is funded by the Government of India.
+
+As a part of the Nuwara Eliya Scrub Estate, the foundation stone for the Thirty Families Housing Scheme, which is located in temporary houses, was held at the Skrappa Garden this morning under the leadership of Vinod G and Attorney -at -Law Shiv Thondaman, Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure.
+
+The housing scheme is being implemented all over the country under the guidance of Sri Lankan President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi, with the financial support of the Indian government.
+
+◼️
+
+[Data](articles/60d717aa.json)
+
+[Extended Data](ext_articles/60d717aa.ext.json)
+
+---
+
+### வைத்தியர்  பெல்லன தொடர்பில் விசாரணை : அமைச்சின்  செயலாளருக்கு அமைச்சர் ரமேஷ் பத்திரன பணிப்பு!
+
+*2024-02-19 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176752) · `ta`
+
+தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர்  ருக்க்ஷான் பெல்லன தொடர்பில் விசாரணை நடத்தப்படும் என சுகாதார அமைச்சர்  ரமேஷ் பத்திரன தெரிவித்துள்ளார்.
+
+இது தொடர்பான விசாரணைகளை மேற்கொள்ளுமாறு சுகாதார அமைச்சின் செயலாளர் வைத்தியர் பாலித மஹிபாலவிடம் சுகாதார அமைச்சர் பணிப்புரை விடுத்துள்ளார்.
+
+தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் பதவியிலிருந்து  வைத்தியர் ருக்க்ஷான் பெல்லனவை நீக்குமாறு கோரி இன்று திங்கட்கிழமை (19) காலையிலும் சுகாதார சேவை சிற்றூழியர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/65224a17.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-19 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176751) · `ta`
+
+இன்று திங்கட்கிழமை (பெப்ரவரி 19) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 307.4708 ஆகவும் விற்பனை விலை ரூபா 317.72903 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/aad4b4e0.json)
+
+---
+
+### PM Modi urged to intervene to get Tamil Nadu fishermen released from Sri Lanka
+
+*2024-02-19 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97387/pm-modi-urged-to-intervene-to-get-tamil-nadu-fishermen-released-from-sri-lanka) · `en`
+
+Tamil Nadu Chief Minister M.K. Stalin on Sunday (18 Feb.) urged Indian Prime Minister Narendra Modi to intervene and ensure the release and repatriation of Tamil Nadu fishermen who have been arrested by the Sri Lankan Navy.
+
+“These fishermen are not only Tamils but also proud Indians. The continued detention of Tamil Nadu fishermen by the Sri Lankan Navy is deeply distressing and a major matter of concern,” the Chief Minister wrote on ‘X’ (formerly Twitter).
+
+He said that there has been a steep increase in arrests of Tamil Nadu fishermen since the past two days.
+
+The Chief Minister said that the fishermen were treated as habitual offenders, which has led to their prolonged detention.
+
+He said that the livelihood of the fishermen has been threatened.
+
+“Sri Lankan Navy has impounded several costly mechanised boats and these impounded boats have been nationalised by the Sri Lankan government,” the Chief Minister said.
+
+◼️
+
+[Data](articles/83e8acad.json)
+
+---
 
 ### Sri Lankan Leftist Coalition’s India Visit Raises its Profile
 
@@ -122,6 +212,44 @@ Meanwhile, the Ministry said that the applications to enroll students in grade o
 
 ---
 
+### Carrying for the most essential medical equipment in the state - the union
+
+*2024-02-19 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176749) · `ta`
+
+Health industrial unions have said that there is a shortage of medical equipment, including surgery equipment in government hospitals.
+
+Dr. Samal Sanjeeva, President of Medical and Civil Rights, said.
+
+He said that the lack of the most essential sarcasm equipment has ended 3800 to 5800 equipment.
+
+He added that there is a shortage of medical care for emergency services, he added.
+
+Meanwhile, a Health Ministry official said that there was no official information that the equipment had been stopped.
+
+◼️
+
+[Data](articles/4b85261e.json)
+
+[Extended Data](ext_articles/4b85261e.ext.json)
+
+---
+
+### බැංකු කාඩ්පතින් මුදල් ඇඳ රිමාන්ඩ්
+
+*2024-02-19 13:12:00* · [`adalk`](https://www.ada.lk/breaking_news/බැංකු-කාඩ්පතින්-මුදල්-ඇඳ-රිමාන්ඩ්/11-408169) · `si`
+
+ඒ.ටී.එම්. බැංකු කාඩ්පත් වලින් මුදල් ලබා දීම සදහා සහාය වන මුවාවෙන් ඒ.ටී.එම්. බැංකු කාඩ්පත් සුක්ෂ්ම අන්දමින් මාරු කර අන්සතු බැංකු ගිණුම්වලින් වංචනික ලෙස මුදල් ලබා ගත් පුද්ගලයෙකු මත්කුඩු සමග අත් අඩංගුවට ගෙන මහර  අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව ඔහු මේ මස 27 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තැබීමට  මහර අංක 02 අධිකරණයේ මහේස්ත්‍රාත් අන්වර් සදාක් මහතා ඉකුත් සිකුරාදා ( 16 වැනිදා ) නියම කරන ලදී.
+
+ගම්පහ, මිරිස්වත්ත පුදේශයේ පදිංචි ආර්. චමිල සම්පන් නමැත්තා මෙසේ රක්ෂිත බන්ධනාගාර ගත කෙරිණි.
+
+සැකකරු විසින් ඊරියවැටිය පුදේශයේ කාන්තාවක් තම ඒ.ටී එම් බැංකු කාඩ්පතින් මුදල් ලබා ගැනීමට කිරිබත්ගොඩ නගරයේ පිහිටි පුද්ගලික බැංකු ශාඛාවකට පැමිණි අවස්ථාවේ ඇයට මුදල් ලබා ගැනීම සදහා සහාය ලබා දෙන මුවාවෙන් ඇයගේ බැංකු කාඩ්පත සුක්ෂ්ම ලෙස මාරු කර වෙනත් බැංකු කාඩ්පතක් ඇයට ලබා දී පසුව ඇයගේ බැංකු ගිණුමෙන් රුපියල් ලක්ෂයක මුදලක් වංචනික ලෙස ලබා ගෙන තිබෙන බවට පැමිණිල්ලේ සදහන් වී ඇත.
+
+...
+
+[Data](articles/761d2d9e.json)
+
+---
+
 ### Colombo Port City Duty Free store to be opened in April
 
 *2024-02-19 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97386/colombo-port-city-duty-free-store-to-be-opened-in-april-) · `en`
@@ -159,28 +287,6 @@ The Ministry of Education further stated that letters of admission for schools w
 [Data](articles/14251e7a.json)
 
 [Extended Data](ext_articles/14251e7a.ext.json)
-
----
-
-### Carrying for the most essential medical equipment in the state - the union
-
-*2024-02-19 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/176749) · `ta`
-
-Health industrial unions have said that there is a shortage of medical equipment, including surgery equipment in government hospitals.
-
-Dr. Samal Sanjeeva, President of Medical and Civil Rights, said.
-
-He said that the lack of the most essential sarcasm equipment has ended 3800 to 5800 equipment.
-
-He added that there is a shortage of medical care for emergency services, he added.
-
-Meanwhile, a Health Ministry official said that there was no official information that the equipment had been stopped.
-
-◼️
-
-[Data](articles/4b85261e.json)
-
-[Extended Data](ext_articles/4b85261e.ext.json)
 
 ---
 
@@ -297,26 +403,6 @@ At the same time, the immigrants think that the public is not fully detained due
 [Data](articles/09541158.json)
 
 [Extended Data](ext_articles/09541158.ext.json)
-
----
-
-### Bharat Lanka 10,000 Housing Project;The foundation stone for 30 houses at the Nuwara Eliya Scrub Estate
-
-*2024-02-19 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/176744) · `ta`
-
-The foundation stone for 30 houses was held this morning (19) at the Nuwara Eliya Scrub Estate in collaboration with the National Program of the Bharat Lanka 10,000 Housing Project.
-
-It is proposed to construct ten thousand houses nationwide under the Bharat Lanka Housing Scheme, which is funded by the Government of India.
-
-As a part of the Nuwara Eliya Scrub Estate, the foundation stone for the Thirty Families Housing Scheme, which is located in temporary houses, was held at the Skrappa Garden this morning under the leadership of Vinod G and Attorney -at -Law Shiv Thondaman, Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure.
-
-The housing scheme is being implemented all over the country under the guidance of Sri Lankan President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi, with the financial support of the Indian government.
-
-◼️
-
-[Data](articles/60d717aa.json)
-
-[Extended Data](ext_articles/60d717aa.ext.json)
 
 ---
 
@@ -628,9 +714,7 @@ The relevant order was issued by the Colombo District Court on Monday (19 Jan.),
 
 The order was issued by Colombo District Judge Sandun Withana, against party leader Sajith Premadasa, SJB General Secretary Ranjith Maddumabandara, Treasurer Harsha de Silva and National Organiser Tissa Attanayake.
 
-MP Sarath Fonseka currently holds the position of Chairman of the SJB.
-
-◼️
+...
 
 [Data](articles/ba216c72.json)
 
@@ -1911,113 +1995,5 @@ Attendees will have the opportunity to gain insights into initiating a business,
 [Data](articles/5bb40027.json)
 
 [Extended Data](ext_articles/5bb40027.ext.json)
-
----
-
-### Vijitha to leave DIMO
-
-*2024-02-19 02:39:52* · [`dailyftlk`](https://www.ft.lk/business/Vijitha-to-leave-DIMO/34-758631) · `en`
-
-Diesel and Motor Engineering Company (DIMO) PLC has announced the resignation of Vijitha Bandara as Non-Independent Executive Director effective 29 February.
-
-Bandara joined DIMO in February 1995 and was appointed to the Board in June 2016.
-
-He is a Postgraduate certificate holder from the University of Southern Queensland, Australia, and he possesses a Diploma in Business Management from the University of Colombo. His expertise lies in Sales and Marketing. He is an Alumni of Harvard Business School Advance Management Program (AMP).
-
-◼️
-
-[Data](articles/bad7a5a1.json)
-
-[Extended Data](ext_articles/bad7a5a1.ext.json)
-
----
-
-### CR. After 26 years of champion
-
-*2024-02-19 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176718) · `ta`
-
-CR for the first time after 26 years, beating the current Champion Kandy League in the Nippon Paint Rugby League League in the Sri Lanka Rugby (Sri Lanka Rugby Association) 2023-24. And AWC is the champion.
-
-In the first round, the Kandy Corporation won on its own soil based on 38 - 26. R. The last league match was held on Sunday (18) at its own stadium, Longton Place, its own stadium.
-
-The Kandy Corporation was in the forefront of 13 - 6 during the break, which caused a stir from the beginning to the end of the Longton Place Ground.
-
-In the 10th minute of the competition started, Sathura Seneviratne put on a lighter penalty. The presence of the club. But in the next 4th minute, Ratwatta equated the points through the penalty on behalf of Kandy.
-
-In the 30th minute, Ratwatta, who received the top points for the Lasitha Attanagoda trunk in the 21st minute, put a penalty in the Kandy Corporation 10 - 3.
-
-However, before the break, the Sathura Senevirat went to his 2nd penalty as 6 - 13. Made.
-
-...
-
-[Data](articles/c4f53b66.json)
-
-[Extended Data](ext_articles/c4f53b66.ext.json)
-
----
-
-### Dr. Mohan Rajakaruna appointed to Nawaloka Hospitals Board
-
-*2024-02-19 02:37:26* · [`dailyftlk`](https://www.ft.lk/business/Dr-Mohan-Rajakaruna-appointed-to-Nawaloka-Hospitals-Board/34-758630) · `en`
-
-Dr. Mohan Rajakaruna has been appointed to the Board of Nawaloka Hospital PLC as a Non-Executive Non-Independent Director.
-
-He fills the vacancy on the Board following the resignation of Prof. Arjuna De Silva recently.
-
-Dr. Rajakaruna is a distinguished cardiologist with a wealth of experience and a commitment to excellence in healthcare.
-
-His journey began at Ananda College, Colombo, where he received his primary and secondary education. Driven by a passion for medicine, he pursued his Bachelor of Medical Sciences at North Colombo Medical College, Ragama, before advancing his medical education at St. George’s University School of Medicine, WI, where he earned his MD degree.
-
-...
-
-[Data](articles/144aab65.json)
-
-[Extended Data](ext_articles/144aab65.ext.json)
-
----
-
-### Mother Sri Lanka celebrates 15 years
-
-*2024-02-19 02:33:47* · [`dailyftlk`](https://www.ft.lk/news/Mother-Sri-Lanka-celebrates-15-years/56-758629) · `en`
-
-The Mother Sri Lanka movement was established in 2008 with the blessings of the President’s Office by a small group of patriotic citizens who desired to tell their family of 20 million to hold their heads high with pride, believe in themselves and give back to their motherland.  Under the leadership of its founder Dr. Janaki Kuruppu, , Mother Sri Lanka is a non-profit, independent charity with a unique operational model of private funding, public sector infrastructure and managed by a team of professionals from all sectors.
-
-During the past 15 years since inception, Mother Sri Lanka has carried out numerous projects to instil the values of responsible citizenship, ethnic harmony and national pride among Sri Lankans.
-
-...
-
-[Data](articles/1574bde2.json)
-
-[Extended Data](ext_articles/1574bde2.ext.json)
-
----
-
-### Indian fishermen's troubles: Jaffna Fisheries Organizations
-
-*2024-02-19 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/176716) · `ta`
-
-Fisheries organizations have decided to block the Jaffna Indian Embassy on Tuesday (20) demanding a solution to the Indian fishermen's border.
-
-They were speaking at a media briefing held on Sunday (18) at the Jaffna District Fisheries Cooperative Conference.
-
-They further stated that the violation of Indian fishermen within our waters has continued.
-
-Our livelihoods are being continuously destroyed as our resources are continuously looted day by day.
-
-We have requested the Sri Lankan government and the Government of India many times. We do not have your help.
-
-Rameshwaram fishermen are currently protesting.
-
-We would like to tell them something.
-
-Therefore, we are going to fight the Jaffna Indian embassy, demanding the stopping of the arrival of Indian fishermen.
-
-Representatives of the Jaffna District Rural Fisheries Co -operative Societies, representatives of the Jaffna District, and the Federations were present at the media briefing.
-
-◼️
-
-[Data](articles/41ea2bb4.json)
-
-[Extended Data](ext_articles/41ea2bb4.ext.json)
 
 ---

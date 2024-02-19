@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 11:17:27**
+As of **2024-02-19 11:33:05**
 
 ## Newspaper Stats
 
-*Scraped **7,938** Articles*
+*Scraped **7,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 420
 dailyftlk | 434
 adalk | 672
 tamilmirrorlk | 965
-adaderanalk | 970
+adaderanalk | 972
 virakesarilk | 1,047
 adaderanasinhalalk | 1,154
 dailymirrorlk | 1,166
@@ -26,25 +26,61 @@ dailymirrorlk | 1,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,937 (100.0%) of 7,938 articles have been extended.
+7,938 (100.0%) of 7,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
 
-### ළමයින් තිදෙනා ඝාතනය කළ බවට මව අත්අඩංගුවට
+### Health sector trade unions to meet Health Minister for crucial talks today
+
+*2024-02-19 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97382/health-sector-trade-unions-to-meet-health-minister-for-crucial-talks-today) · `en`
+
+The collective of health sector trade unions are scheduled to meet Minister of Health Minister Dr. Ramesh Pathirana today (19 Feb.).
+
+Accordingly, the meeting was scheduled to take place at 10:00 a.m. today, at the Ministry’s premises, during which the parties are expected to reach a solution to the trade unions’ demands for a hike in allowances.
+
+Health Trade Union Alliance’s convenor Ravi Kumudesh noted, however, that in the event a favourable decision is not reached in this regard, a decision pertaining to their strike action will be taken following the meeting with the Minister.
+
+On 14 February, the collective of trade unions decided to call off their strike action after the Minister agreed for a discussion with them.
+
+...
+
+[Data](articles/6c406706.json)
+
+---
+
+### First term for 2024 academic year gets underway
+
+*2024-02-19 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97381/first-term-for-2024-academic-year-gets-underway-) · `en`
+
+The first school term for the 2024 academic year commenced on Monday (19 Feb.) for all government and government-approved private schools.
+
+Accordingly, the first phase of the first term of the new academic year is scheduled to run from 19 February until 10 April, the Ministry of Education noted.
+
+The third term of the academic year 2023 ended on 16 February.
+
+◼️
+
+[Data](articles/7502b6d8.json)
+
+---
+
+### Mother arrested for killing three children
 
 *2024-02-19 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193567) · `si`
 
-එංගලන්තයේ බ්‍රිස්ටල් ප්‍රදේශයේ නිවසක් තුළ කුඩා ළමයින් තිදෙනෙක් ඝාතනය කර ඇති බව එරට පොලීසිය පවසයි.
+Police say three children have been killed in a house in the Bristol area in England.
 
-එම ළමුන් සම්බන්ධයෙන් පොලීසියට ලැබුණු දුරකථන ඇමතුමකින් අනතුරුව සිදුකළ සොයා බැලීමකදී එම සිරුරු හමුවී තිබුණි.
+The bodies were found in a search for the police after a telephone call received by the police.
 
-පොලීසිය විසින් එම ඝාතන සම්බන්ධයෙන් 42ක හැවිරිදි මව ව අත්අඩංගුවට ගෙන ඇති අතර ඇය මේ වනවිට පොලිස් ආරක්ෂාව මධ්‍යයේ රෝහල්ගත කර ඇති බව වාර්තා වෙයි.
+The police have arrested 42 year old mother in connection with the killings.
 
 ◼️
 
 [Data](articles/cb18026d.json)
+
+[Extended Data](ext_articles/cb18026d.ext.json)
 
 ---
 
@@ -2023,45 +2059,5 @@ We have to protect important banks as we are now somewhat recovered from the eco
 [Data](articles/c4dcae03.json)
 
 [Extended Data](ext_articles/c4dcae03.ext.json)
-
----
-
-### Our leaders should not welcome political prostitutes
-
-*2024-02-18 18:22:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-விபச்சாரிகளை-நமது-தலைவர்கள்-வரவேற்கக்-கூடாது/175-333400) · `ta`
-
-Former SJB parliamentarian Saminda Wijesiri has said that even United People's Power (SJB) leader Sajith Premadasa should not be misled by those who join the party for their benefit.
-
-“There are some politicians who become free after the country's economic downturn and joins new political parties. Our leaders should not welcome these political prostitutes. If they welcome them, they will destroy the party.
-
-There is nothing wrong with the people to take up the streets against false political alliances, ”he told reporters.
-
-He said the people should not be deceived by relying on false political alliances.
-
-◼️
-
-[Data](articles/63e2bd07.json)
-
-[Extended Data](ext_articles/63e2bd07.ext.json)
-
----
-
-### 793 people have been identified by CCTV
-
-*2024-02-18 18:15:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிசிடிவி-மூலம்-793-பேர்-இனங்காணப்பட்டுள்ளனர்/175-333399) · `ta`
-
-793 motorists have been identified as violating traffic rules through the CCTV organization in Colombo.
-
-Police spokesman DIG Nihal Talduwa said that about 300 video evidence of the crimes seized by the CCTVs of the Transport Division has been sent to about 300 police stations and the fines for the crimes will be given to the appropriate drivers.
-
-On January 22, the police have launched a special program to identify motorists who violate traffic rules through the CCTV organization in Colombo.
-
-Although the project was launched on January 22, a campaign for motorists was launched from February 1.
-
-◼️
-
-[Data](articles/f4a6eba6.json)
-
-[Extended Data](ext_articles/f4a6eba6.ext.json)
 
 ---

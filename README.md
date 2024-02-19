@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 18:21:02**
+As of **2024-02-19 18:33:05**
 
 ## Newspaper Stats
 
-*Scraped **8,050** Articles*
+*Scraped **8,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 economynextcom | 419
 islandlk | 422
 dailyftlk | 434
-adalk | 686
+adalk | 687
 tamilmirrorlk | 977
 adaderanalk | 982
 virakesarilk | 1,073
-adaderanasinhalalk | 1,170
+adaderanasinhalalk | 1,171
 dailymirrorlk | 1,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,050 (100.0%) of 8,050 articles have been extended.
+8,050 (100.0%) of 8,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### ශ්‍රී ලංකා ප්‍රබල වේගපන්දුව IPL තරගාවලියට කැඳවයි
+
+*2024-02-19 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193584) · `si`
+
+ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක දුෂ්මන්ත චමීර එළැඹෙන IPL තරගාවලිය සඳහා කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායමට තෝරාගෙන තිබේ.
+
+ඔහු ඉන්දීය රුපියල් ලක්ෂ 50ක මිලකට කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම එක්වනු ඇති බව වාර්තා වෙයි.
+
+දුෂ්මන්ත චමීර එලෙස කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම විසින් තොරගෙන ඇත්තේ, එංගලන්ත පන්දු යවන ක්‍රීඩක Gus Atkinson වෙනුවටය.
+
+දුෂ්මන්ත චමීර මීට පෙර IPL තරගාවලියවලදී  2018 වසරේදී රාජස්ථාන් රෝයල්ස් කණ්ඩායම නියෝජය කර ඇති අතර 2021 රෝයල් චැලෙන්ජර්ස් බැංගලෝර් කණ්ඩායම සඳහා ක්‍රීඩා කළේය.
+
+◼️
+
+[Data](articles/893d6f64.json)
+
+---
 
 ### Good responses to the Nursing Association
 
@@ -1172,6 +1190,26 @@ The Minister was established with the appointment of the committee tomorrow (20)
 
 ---
 
+### ’ලිපි ඉල්ලුවට දෙන්නේ නෑ’
+
+*2024-02-19 13:23:23* · [`adalk`](https://www.ada.lk/breaking_news/’ලිපි-ඉල්ලුවට-දෙන්නේ-නෑ’/11-408171) · `si`
+
+2024 වර්ෂය සදහා 1, 5, 6 ශ්‍රේණිවලට සිසුන් ඇතුළත් කිරීමට අධ්‍යාපන අමාත්‍යාංශයෙන් ලිපි නිකුත් නොකෙරේ
+
+පාසල්වල පළමු ශ්‍රේණියට සිසුන් ඇතුළත් කිරීම සඳහා අධ්‍යාපන අමාත්‍යාංශය මගින් නිකුත් කර ඇති චක‍්‍රලේඛය අනුව පාසල් වෙත අයදුම්පත් යොමු කළ යුතු අතර විදුහල්පතිවරුන් විසින් සම්මුඛ පරීක්ෂණ පවත්වා සිසුන් ඇතුළත් කරගැනීම සිදු කරනු ලබන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+පාසල්වල හය වැනි ශ්‍රේණියට සිසුන් ඇතුළත් කිරීම පස් වැනි ශ්‍රේණියේ ශිෂ්‍යත්ව විභාගයේ ලකුණු මත පමණක් සිදු කරනු ලබන බවද අමාත්‍යාංශය දන්වා සිටිය.
+
+2024 වර්ෂයේ 1, 5 සහ 6 ශ්‍රේණි හැර අනෙකුත් අතරමැදි පන්ති සඳහා අ.පො.ස. උසස් පෙළ ද ඇතුළුව සිසුන් ඇතුළත් කිරීමට ද අදාළ අයදුම්පත් පාසල් වෙත යොමු කළ යුතු අතර එම පාසල්වල පුරප්පාඩු පවතී නම් විදුහල්පතිවරුන් විසින් අධ්‍යාපන අමාත්‍යාංශ චක‍්‍රලේඛ ප‍්‍රකාර ව සම්මුඛ පරීක්ෂණ පවත්වා තෝරාගත් සිසුන්ගේ නාම ලේඛනය අනුමැතිය සඳහා අධ්‍යාපන අමාත්‍යාංශයට යොමු කරනු ඇත.
+
+එසේ ම පාසල් සඳහා සිසුන් ඇතුළත් කිරීමේ ලිපි අධ්‍යාපන අමාත්‍යාංශය මගින් නිකුත් කරනු නොලබන බව ද අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/3cb3c00c.json)
+
+---
+
 ### Sri Lankan Leftist Coalition’s India Visit Raises its Profile
 
 *2024-02-19 13:19:00* · [`islandlk`](http://island.lk/sri-lankan-leftist-coalitions-india-visit-raises-its-profile/) · `en`
@@ -1989,49 +2027,5 @@ ECONOMYNEXT – A roundtable discussion on “Ed-tech towards achieving SDGs”,
 [Data](articles/1d47adc7.json)
 
 [Extended Data](ext_articles/1d47adc7.ext.json)
-
----
-
-### Action to cancel nominations for local government elections
-
-*2024-02-19 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176731) · `ta`
-
-The government has taken steps to cancel the nominations for the local government elections indefinitely.
-
-The decision was taken on the basis of a request made by former representatives of the Local Government.
-
-On September 21 last year, the Advisory Committee of the Ministry of Home Affairs, Provincial Councils and Provincial Councils was unanimously decided to cancel the nominations filed for the local government elections.
-
-◼️
-
-[Data](articles/00300baa.json)
-
-[Extended Data](ext_articles/00300baa.ext.json)
-
----
-
-### The latest way to demand ransom reveals
-
-*2024-02-19 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193568) · `si`
-
-The Computer Criminal Investigation Division has lodged a complaint from an officer holding a top government position.
-
-It was said that no one had funded by anyone to his husband's social media accounts, and that a unidentified person had received a message from an unknown.
-
-The government official lodged a complaint with the Computer Criminal Investigation Unit for her husband, because the husband who had held a high office in a private company was abroad.
-
-The Computer Criminal Investigation Unit, which is accepted by her complaint began investigations.
-
-For nearly a month, the end result of the effort was to expose a large racket using social media.
-
-According to the government's complaint, all accounts were inaugurated by her husband's gmail, whatsApp and Facebook.
-
-According to her complaint, the computer crime investigation unit opened by the computer criminal investigation unit has followed various technical strategies to identify frauds.
-
-...
-
-[Data](articles/0e17326e.json)
-
-[Extended Data](ext_articles/0e17326e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 15:02:43**
+As of **2024-02-19 15:17:33**
 
 ## Newspaper Stats
 
-*Scraped **7,998** Articles*
+*Scraped **7,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 422
 dailyftlk | 434
 adalk | 682
 tamilmirrorlk | 971
-adaderanalk | 978
+adaderanalk | 979
 virakesarilk | 1,063
 adaderanasinhalalk | 1,163
 dailymirrorlk | 1,171
@@ -26,11 +26,31 @@ dailymirrorlk | 1,171
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,998 (100.0%) of 7,998 articles have been extended.
+7,998 (100.0%) of 7,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Special committee appointed to discuss demands of health sector trade unions
+
+*2024-02-19 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97388/special-committee-appointed-to-discuss-demands-of-health-sector-trade-unions-) · `en`
+
+A special committee has been appointed to look into the demands of the health sector trade unions, the Ministry of Health stated.
+
+Accordingly, the committee, comprising of Health Minster Dr. Ramesh Pathirana, the Secretary to the Ministry of Health and representatives of the Health Trade Union Alliance (HTUA), is set to meet at 03:00 p.m. on Tuesday (20 Feb.).
+
+The decision was taken at the meeting held between the HTUA and the Minister of Health this morning (19 Feb.), in a bid to resolve their disparities in allowances.
+
+Issuing a statement in this regard, the Ministry noted that the Minister had directed the HTUA to present a proposal inclusive of their demands to the Ministry.
+
+Attached below is the full statement issued by the Ministry of Health:
+
+◼️
+
+[Data](articles/760b3924.json)
+
+---
 
 ### Japan has provided 40,000 metric tonnes of diesel to the Sri Lankan health sector
 
@@ -1995,27 +2015,5 @@ The MP said he was confident the opposition would secure a majority of the votes
 [Data](articles/8af504d0.json)
 
 [Extended Data](ext_articles/8af504d0.ext.json)
-
----
-
-### Marikkar criticises Fonseka’s alleged meetings with President
-
-*2024-02-19 02:53:50* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-criticises-Fonseka-s-alleged-meetings-with-President/56-758638) · `en`
-
-Says holding secret meetings with President Ranil Wickremesinghe while being part of the SJB is deplorable
-
-Notes Fonseka should fully commit to SJB if he aligns with it or leave to join President Wickremesinghe
-
-Stresses issues must be discussed and resolved within party and not in the public domain
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday accused party Vice President Field Marshal Sarath Fonseka of holding clandestine meetings with President Ranil Wickremesinghe at State Minister Diana Gamage’s residence.
-
-“I came across information on a website indicating that he is meeting Ranil Wickremesinghe at the residence of State Minister Diana Gamage, whose husband was once Fonseka’s secretary. These actions are deplorable. If he aligns with the SJB, he should fully commit to it. If he prefers Wickremesinghe’s company, then he should depart from our party and join him,” he remarked.
-
-...
-
-[Data](articles/2aa46e4d.json)
-
-[Extended Data](ext_articles/2aa46e4d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 13:51:58**
+As of **2024-02-19 14:02:39**
 
 ## Newspaper Stats
 
-*Scraped **7,983** Articles*
+*Scraped **7,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,128 @@ bbccomsinhala | 100
 dbsjeyarajcom | 154
 newsfirstlk | 363
 economynextcom | 409
-islandlk | 420
+islandlk | 422
 dailyftlk | 434
 adalk | 680
 tamilmirrorlk | 970
-adaderanalk | 976
+adaderanalk | 977
 virakesarilk | 1,059
 adaderanasinhalalk | 1,160
-dailymirrorlk | 1,170
+dailymirrorlk | 1,171
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-7,983 (100.0%) of 7,983 articles have been extended.
+7,984 (100.0%) of 7,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Sri Lankan Leftist Coalition’s India Visit Raises its Profile
+
+*2024-02-19 13:19:00* · [`islandlk`](http://island.lk/sri-lankan-leftist-coalitions-india-visit-raises-its-profile/) · `en`
+
+Sri Lanka’s National People’s Power (NPP), a leftist coalition led by the Janatha Vimukthi Peramuna (JVP), recently visited India at the invitation of the Indian government. The visit is significant; it underscores the emergence of the NPP as a major political force in Sri Lanka, one that is being courted by major powers.
+
+During its five-day official visit to India, which began on February 5, the NPP delegation held meetings with senior Indian officials, including External Affairs Minister S. Jaishankar and National Security Adviser Ajit Doval, toured key agricultural and industrial hubs, and visited key business giants like Tata Motors and the Indian multinational cooperative society, Amul. The delegation visited New Delhi, Ahmedabad, and Thiruvananthapuram.
+
+Formed in 2015 with the JVP as its core, the NPP comprises around 28 political parties and workers unions, women’s organizations, etc., and is led by JVP chief, Anura Kumara Dissanayaka.
+
+...
+
+[Data](articles/0190a190.json)
+
+---
+
+### The Judicial Power of the People and a Presidential Interpretation of our Constitution?
+
+*2024-02-19 13:18:00* · [`islandlk`](http://island.lk/the-judicial-power-of-the-people-and-a-presidential-interpretation-of-our-constitution/) · `en`
+
+‘Since 1972 this country has known no monarch and the President has not inherited that mantle.All his powers are limited by the provisions of the constitution.’Dissolution of Parliament Case (2018)
+
+We as citizens of the country have witnessed in the past weeks some grave political developments that impact the governance of our country.On 31 January the President’s Media Division (PMD) released a public document. This document indicates that it is meant to be the Secretariat’s interpretation of the President’s powers under our constitution.
+
+Just before the PMD release, the Online Safety Bill was signed into law by the Speaker. This Bill was brought to Parliament after the Determination of the Supreme Court which required 31 amendments. The OSA was very controversial legislation, criticized by civil society, local experts and international organizations and Tech companies. They expressed grave concerns on its damaging impact on the democratic and fundamental rights of the people.
+
+...
+
+[Data](articles/7dbdade8.json)
+
+[Extended Data](ext_articles/7dbdade8.ext.json)
+
+---
+
+### Under Ranil Wickremesinghe, Sri Lanka is going fast – in reverse
+
+*2024-02-19 13:16:00* · [`islandlk`](http://island.lk/under-ranil-wickremesinghe-sri-lanka-is-going-fast-in-reverse/) · `en`
+
+Administration has moved to stifle criticism with a draft of new, repressive laws
+
+Sri Lanka is still reeling from an economic crisis largely caused by misgovernance and lack of accountability. Public protests in 2022 forced the president and the prime minister, brothers Gotabaya and Mahinda Rajapaksa, to step down.
+
+But instead of focusing on social justice and rights, the new government, led by President Ranil Wickremesinghe, is focused on suppressing dissent and limiting international attention on human rights.
+
+Although it is the Rajapaksas that nominated – and are propping up – their successor, many foreign observers, including in India and the United States, had hoped that things would change.
+
+...
+
+[Data](articles/6198cb12.json)
+
+---
+
+### Apply directly to respective schools, excluding grades 1, 5, 6, and A/L
+
+*2024-02-19 13:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apply-directly-to-respective-schools-excluding-grades-1-5-6-and-AL/108-277317) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - As per the circular issued by the Education Ministry, applications for the admission of students to intermediate classes for the year 2024, excluding grades 1, 5, and 6, as well as Advanced Level, should be submitted directly to the respective schools, the Education Ministry said.
+
+If vacancies are available in those schools, the respective school principals will conduct interviews as per Education Ministry circulars and forward the list of selected students to the Ministry for approval.
+
+While issuing a special notice, the Ministry said admission of students to grade six in schools is made solely on the basis of the scores of the grade five scholarship examination.
+
+Meanwhile, the Ministry said that the applications to enroll students in grade one for the year 2024 must be forwarded to the respective schools, and interviews will be conducted by the respective principals thereafter.
+
+...
+
+[Data](articles/ba40d73f.json)
+
+---
+
+### Asian Elections and Anura Kumara Dissanayake’s India visit
+
+*2024-02-19 13:14:00* · [`islandlk`](http://island.lk/asian-elections-and-anura-kumara-dissanayakes-india-visit/) · `en`
+
+2024 is election year practically everywhere. In South Asia, it is two down and two to go. Bangladesh went first in January, and the governing Awami League won the election as predicted, with the main opposition Bangladesh National Party boycotting the election and the government fielding independent candidates to avoid the embarrassment of winning uncontested seats. Pakistan had its election on February 8, and the people literally gave the finger to rebuke the military’s machinations of the election.
+
+...
+
+[Data](articles/9f0f93dc.json)
+
+[Extended Data](ext_articles/9f0f93dc.ext.json)
+
+---
+
+### Colombo Port City Duty Free store to be opened in April
+
+*2024-02-19 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97386/colombo-port-city-duty-free-store-to-be-opened-in-april-) · `en`
+
+Sri Lanka’s first downtown Duty Free store is slated to be opened in April 2024, at the Colombo Port City.
+
+Taking to ‘X’ (formerly Twitter), the Belt and Road Initiative Sri Lanka (BRISL) said, “Colombo Port City duty free shop will be opened in April”.
+
+In October 2023, the Sri Lankan government gazetted the requirements that need to be met in order to conduct duty-free retail business operations or duty-free shopping mall operations at the Colombo Port City.
+
+According to the relevant gazette, published by President Ranil Wickremesinghe in his capacity as the Minister of Investment Promotion, an investor is required to devote a minimum of USD 5 million to run a duty-free retail business and have international-level experience in duty-free trade operations, while an investor needs to devote at least USD 7 million to run a duty-free shopping mall business.
+
+...
+
+[Data](articles/c8e31374.json)
+
+[Extended Data](ext_articles/c8e31374.ext.json)
+
+---
 
 ### Ministry of Education announced on admission to schools
 
@@ -1909,127 +2013,5 @@ Representatives of the Jaffna District Rural Fisheries Co -operative Societies, 
 [Data](articles/41ea2bb4.json)
 
 [Extended Data](ext_articles/41ea2bb4.ext.json)
-
----
-
-### FAO’s Director General arrives in Sri Lanka
-
-*2024-02-19 02:26:48* · [`dailyftlk`](https://www.ft.lk/news/FAO-s-Director-General-arrives-in-Sri-Lanka/56-758628) · `en`
-
-FAO Director General Dr. QU Dongyu being received at the Bandaranaike International Airport by Secretary to the Ministry of Agriculture Janaka Dharmakeerthi, FAO Assistant Director General and Regional Representative Jong-Jin Kim and FAO Representative for Sri Lanka Vimlendra Sharan
-
-To inaugurate UN FAO Conference on the Recovery and Reform of Agrifood Systems in the Asia-Pacific region for Future Food Security from 19 to 22 February attended by Government Ministers and Heads of Delegations from 46 Member Nations
-
-The United Nations’ Food and Agriculture Organisation (FAO) Director General, Dr. QU Dongyu, arrived on Sunday in Sri Lanka for a three-day visit to participate in the 37th session of the FAO regional conference for Asia and the Pacific.
-
-Government Ministers and Heads of Delegations from as many as 46 Member Nations are gathering in Colombo for the event. Sri Lanka is hosting the APRC37.
-
-...
-
-[Data](articles/f2c22b55.json)
-
-[Extended Data](ext_articles/f2c22b55.ext.json)
-
----
-
-### Australia’s importance as influential ‘Middle Power’ emphasised at LKI roundtable consultation
-
-*2024-02-19 02:23:29* · [`dailyftlk`](https://www.ft.lk/news/Australia-s-importance-as-influential-Middle-Power-emphasised-atLKI-roundtable-consultation/56-758627) · `en`
-
-The Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI) hosted a roundtable discussion on 1 February on the theme “Strengthening Engagement in Sri Lanka – Australia Relations”.
-
-LKI’s roundtable series provides a platform for experts on the respective subject to engage in a candid discussion and support research output that informs policymakers and other relevant parties.
-
-Opening the ‘round table’ held under Chatham House Rules, Ambassador Ravinatha Aryasinha emphasised that Australia was an important and influential Middle Power with whom Sri Lanka has had a longstanding relationship. He emphasised the need for Sri Lanka foreign policy to engage more with such relationships, even as it remains pre-occupied with the complexities emanating from the major power rivalries in the region.
-
-...
-
-[Data](articles/3e976fd6.json)
-
-[Extended Data](ext_articles/3e976fd6.ext.json)
-
----
-
-### SL, US discuss multi-faceted aspects of bilateral ties
-
-*2024-02-19 02:21:48* · [`dailyftlk`](https://www.ft.lk/news/SL-US-discussmulti-faceted-aspectsof-bilateral-ties/56-758626) · `en`
-
-Foreign Secretary Aruni Wijewardane hosts US Under Secretary for Public Diplomacy and Public Affairs Elizabeth Allen in Colombo
-
-Foreign Secretary Aruni Wijewardane met the US Under Secretary for Public Diplomacy and Public Affairs Elizabeth Allen at the Ministry of Foreign Affairs on 17 February, and discussed several recent positive developments between Sri Lanka and the US in the 75th anniversary year of diplomatic relations.
-
-The Foreign Secretary welcomed the development assistance extended by the US International Development Finance Corporation in November 2023 to the Colombo West International Terminal Ltd. and appreciated the humanitarian and emergency aid extended to Sri Lanka to overcome the economic challenges of the country. She also welcomed the US assistance in securing the Extended Fund Facility Program (EFF) under IMF.
-
-...
-
-[Data](articles/fe83bcef.json)
-
-[Extended Data](ext_articles/fe83bcef.ext.json)
-
----
-
-### Considering the data of the Electricity Board;Public Use the Commission should act for the people
-
-*2024-02-19 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/176715) · `ta`
-
-Technically review the data proposed by the Electricity Board for the reduction of electricity. Patali Champika Ranawaka, the leader of the UNP and Member of Parliament, said that the officials of the Electricity Board (CEB) had submitted false data in the past.
-
-He was speaking at a function held in Colombo on Sunday (18).
-
-Many of the data, including the cost of the Electricity Board, have been false.. With this skill they try to engage in corruption scandals.
-
-It is the duty of the Public Use the Commission to investigate the reality of the standards submitted by the Electricity Board for the reduction of the power supply.
-
-Last year alone, the power supply of more than a thousand factories has been cut off last year alone.The electricity has been increased by 40 percent.
-
-...
-
-[Data](articles/79c98300.json)
-
-[Extended Data](ext_articles/79c98300.ext.json)
-
----
-
-### College of Pulmonologists kicks off 14th Annual Academic Session ‘Respire 2024’
-
-*2024-02-19 02:16:16* · [`dailyftlk`](https://www.ft.lk/news/College-of-Pulmonologists-kicks-off-14th-Annual-Academic-Session-Respire-2024/56-758625) · `en`
-
-SLCP Joint Secretary Dr. Dilesha Wadasinghe, Chairperson Prof. Dushantha Madagedara, Health Ministry Secretary Dr. P.G. Mahipala, Health Minister Dr. Ramesh Pathirana, SLCP President Dr. Bodika Samarasekara, Orator Prof. Athol Wells, Dr. Vijai Kumar and SLCP Joint Secretary Damith Rodrigo
-
-The Sri Lanka College of Pulmonologists, an esteemed institution dedicated to the field of pulmonology, yesterday kicked off the 14th annual academic session ‘Respire 2024’ at the Cinnamon Grand Colombo.
-
-The session will be held today and tomorrow discussing a range of topical and urgent issues.
-
-...
-
-[Data](articles/dde3b371.json)
-
-[Extended Data](ext_articles/dde3b371.ext.json)
-
----
-
-### If the president is maneuvering the election, he will go home before the end of the post - Anuragumara Dissanayake warns
-
-*2024-02-19 02:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176714) · `ta`
-
-The President's Constitution should hold the presidential election by September or October.
-
-He was speaking at a political meeting held on Sunday (18) in Kurunegala.
-
-When the child is born, the parents look at the future of their children. If there is any effects in the case, they will vote for Mahinda Rajapaksa and Rajapaksa during the election.
-
-In the 2020 general election, the people of Kurunegala district gave Mahinda Rajapaksa more than 5 lakhs of votes.
-
-United National Party (UNP) leader Ranil Wickremesinghe came to parliament with a separate seat. The PA is now famous that the government took over..
-
-Gotabhaya Rajapaksa then called on Sarath Fonseka.
-
-In 2020 general election campaigns, the Central Bank's main mastermind, Ranil, the main political promise of the PA had been the main political promise of the PA.Ranil Wickremesinghe, a confident guardian of the Rajapaksas, was elected president of the PA.
-
-...
-
-[Data](articles/23b809db.json)
-
-[Extended Data](ext_articles/23b809db.ext.json)
 
 ---

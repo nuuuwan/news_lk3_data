@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 22:04:42**
+As of **2024-02-19 22:17:29**
 
 ## Newspaper Stats
 
-*Scraped **8,083** Articles*
+*Scraped **8,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 693
 tamilmirrorlk | 979
 adaderanalk | 984
 virakesarilk | 1,078
-adaderanasinhalalk | 1,177
+adaderanasinhalalk | 1,178
 dailymirrorlk | 1,191
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,083 (100.0%) of 8,083 articles have been extended.
+8,083 (100.0%) of 8,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### අගරදගුරු මැදුරෙන් නිවේදනයක්
+
+*2024-02-19 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193591) · `si`
+
+මීගමුව පිටිපන ලෙල්ලම සම්බන්ධයෙන් සමාජ මාධ්‍ය ඔස්සේ සංසරණය වන ප්‍රකාශ සහ අද දින පැවති විරෝධතාවය සම්බන්ධයෙන් කොළඹ අගරදගුරු මැදුර අද (19) පස්වරුවේ නිවේදනයක් නිකුත් කළේය.
+
+එහි දැක්වෙන්නේ අද දින පැවති විරෝධතාවයට සම්බන්ධ වූ පිරිස් පිටිපන ලෙල්ලම සම්බන්ධයෙන් අසත්‍ය පවසමින් ධීවර ජනතාව සහ මහජනතාව මුළා කිරීමට උත්සාහ දරන බවය.
+
+වසර ගණනාවක් පුරාවට පිටිපන මීසමේ එක්සත් ධීවර සමිතිය යැයි කියාගන්නා පුද්ගලයින් කිහිපදෙනෙකු පමණක් භුක්ති විදින මෙම දේපළ සම්බන්ධයෙන් නඩු පවරන ලද්දේ එහි ආදායම තමන්ට පෞද්ගලිකව භූක්තිවිඳීමට නොව පුළුල් ධීවර පිරිසකට හිමිකරදීමේ අදහසින් බවද අගරදගුරු මැදුර නිවේදනය කරයි.
+
+මේ අතර මීගමුව පිටිපන ලෙල්ලම, කොළඹ අගරදගුරු පදවියට පවරා ගැනීමට විරෝධය පළ කිරීම සඳහා එහි ධීවරයින් අද දහවල් කොළඹ අගරදගුරු නිල නිවස ඉදිරිපිටදී විරෝධතාවයේ නිරත වුණි.
+
+ලෙල්ලම යනුවෙන් ජනප්‍රිය වී ඇති මීගමුව ධීවර වෙළෙඳ මධ්‍යස්ථානයේ දේපල පරිපාලනය සහ කළමනාකරණය පිටිපන එක්සත් ධීවර සමිතියෙන් ඉවත් කර භාරකරුවෙකු වෙත පත්කරන ලෙස මීගමුව දිසා අධිකරණය පසුගියදා නියෝග කළේය.
+
+...
+
+[Data](articles/c4cc4be6.json)
+
+---
 
 ### Protesting health workers sign over-time claim forms
 
@@ -2025,25 +2045,5 @@ According to the relevant gazette, published by President Ranil Wickremesinghe i
 [Data](articles/c8e31374.json)
 
 [Extended Data](ext_articles/c8e31374.ext.json)
-
----
-
-### 19 Astronomy school student arrested for sexual abuse
-
-*2024-02-19 13:07:29* · [`adalk`](https://www.ada.lk/breaking_news/19-හැවැරිදි-තරුණියට-ලිංගික-අතවර-කළැයි-15-හැවැරිදි-පාසල්-සිසුවා-අත්අඩංගුවට/11-408168) · `si`
-
-A 15-year-old schoolgirl has been arrested, said Kalutara North Police say that a 15-year-old schoolgirl was arrested.
-
-The suspect was arrested following a complaint lodged with the mother of the 19-year-old girl.
-
-The complaint and the news of the defendant are located in the same area.
-
-Research on the instructions of the OIC of the Kalutara Police Chief Inspector and Damith Jayatilake.
-
-◼️
-
-[Data](articles/52ed7610.json)
-
-[Extended Data](ext_articles/52ed7610.ext.json)
 
 ---

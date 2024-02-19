@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-19 21:52:28**
+As of **2024-02-19 22:04:42**
 
 ## Newspaper Stats
 
-*Scraped **8,080** Articles*
+*Scraped **8,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 979
 adaderanalk | 984
 virakesarilk | 1,078
 adaderanasinhalalk | 1,177
-dailymirrorlk | 1,188
+dailymirrorlk | 1,191
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,080 (100.0%) of 8,080 articles have been extended.
+8,083 (100.0%) of 8,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-19 (Monday)
+
+### Protesting health workers sign over-time claim forms
+
+*2024-02-19 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protesting-health-workers-sign-over-time-claim-forms/108-277339) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - The health sector workers who staged a protest at the National Hospital, Colombo (NHC) today demanding the removal of the National Hospital's Deputy Director, had reportedly signed for overtime payments.
+
+When contacted, Deputy Director Dr. Rukshan Bellana claimed that more than 200 health workers attached to the NHC, Eye Hospital, Dental Institute Colombo, Lady Ridgeway Hospital (LRH) and De Soysa Hospital for Women had come to the NHC and protested.
+
+He also claimed that these health workers had signed four hours of overtime (OT) for the protest period up to today and said that they had taken the free meal provided at the government hospitals.
+
+"Claiming OT for protesting hours and getting the free meal is illegal, and I request that higher authorities take necessary action against them," Dr. Bellana said.
+
+◼️
+
+[Data](articles/571a437e.json)
+
+[Extended Data](ext_articles/571a437e.ext.json)
+
+---
 
 ### Motor Train Train mother, son, son and daughter to death
 
@@ -101,6 +121,20 @@ One of the suspects is suitable with samples obtained from another murder in Kot
 [Data](articles/988cc485.json)
 
 [Extended Data](ext_articles/988cc485.ext.json)
+
+---
+
+### Working on restoring tracks...
+
+*2024-02-19 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Working-on-restoring-tracks/110-277337) · `en`
+
+Workmen attending to repairs to the railway lines of the Ragama railway station, which were damaged due to the derailment of the Badulla-bound Colombo Udarata Menike express train yesterday. The train operations on the main line were delayed due to the derailment of the Udarata Menike express train near the Ragama railway station yesterday. Three tracks were damaged due to the derailment. Pix by Nimalsiri Edirising
+
+◼️
+
+[Data](articles/5c438f47.json)
+
+[Extended Data](ext_articles/5c438f47.ext.json)
 
 ---
 
@@ -512,9 +546,9 @@ Public Service United Public Service United Nurses Union Chairman Muruththettuwe
 
 Arachchikattuwa, Feb 19 (Daily Mirror) - A woman and two children riding on a motorcycle were killed in an accident when a train travelling from Puttalam towards Chilaw collided with the motorcycle at a railway crossing in ​​Arachchikattuwa.
 
-Police said the deceased woman is 36 years old and her 6 and 9 years old boys died in the accident.
+Police said the deceased woman is 36 years old and her 7-year old daughter and 9-year old boy died in the accident.
 
-It has been revealed that they met with this accident while returning home after attending a tuition class.
+It has been revealed that they met with this accident while on thier way to attend a tuition class.
 
 The bodies have been sent to the Mundalama Hospital and the Arachchikattuwa Police are conducting further investigations into the incident.
 
@@ -805,6 +839,20 @@ The Kotakethana area became notorious for a series of mysterious killings and du
 [Data](articles/f46ae3ca.json)
 
 [Extended Data](ext_articles/f46ae3ca.ext.json)
+
+---
+
+### CMC gets first female medical officer after 122 years
+
+*2024-02-19 16:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/CMC-gets-first-female-medical-officer-after-122-years/110-277338) · `en`
+
+Dr. Deepika Rathnawardane assumed duties today as the first female Chief Medical Officer of Health at the Colombo Municipal Council (CMC). She becomes the first Chief Medial Officer appointed to this post after a lapse of 122 years. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/8661780d.json)
+
+[Extended Data](ext_articles/8661780d.ext.json)
 
 ---
 
@@ -1997,63 +2045,5 @@ Research on the instructions of the OIC of the Kalutara Police Chief Inspector a
 [Data](articles/52ed7610.json)
 
 [Extended Data](ext_articles/52ed7610.ext.json)
-
----
-
-### Ministry of Education announced on admission to schools
-
-*2024-02-19 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193573) · `si`
-
-Applications have been issued by the Ministry of Education to include students to the first grade of schools.
-
-The admission of students to the sixth grade of schools is carried out on the signs of the fifth Grade Fifth Grade Scholarship Examination.
-
-GCE A GCE O / L classes other than 1, 5 and 6 in 2024. Applications should be referred to schools to include students (Advanced Level also) and will be referred to the Ministry of Education for approval by the Ministry of Education.
-
-The Ministry of Education further stated that letters of admission for schools will not be issued by the Ministry of Education.
-
-◼️
-
-[Data](articles/14251e7a.json)
-
-[Extended Data](ext_articles/14251e7a.ext.json)
-
----
-
-### Japan gives Sri Lanka 40,000 tons of diesel for health services
-
-*2024-02-19 12:54:00* · [`economynextcom`](https://economynext.com/japan-gives-sri-lanka-40000-tons-of-diesel-for-health-services-151461/) · `en`
-
-ECONOMYNEXT – The Japanese government has given 40,000 metric tons of diesel for transportation in Sri Lanka’s health services, including ambulances.
-
-A fuel management information system (FIMS) will track the distribution of the diesel stocks under the direct supervision of the Japanese government, a statement by the Department of Government Information said.
-
-Distribution activities will be carried out in collaboration with the Ceylon Petroleum Corporation.
-
-Japanese Ambassador to Sri Lanka Misukoshi Hideaki, officially presented the grant to Minister of Health and Industry Dr Ramesh Pathirana at the “Dolphin Jetty” terminal in the Colombo Port on Monday (19).
-
-...
-
-[Data](articles/65117953.json)
-
-[Extended Data](ext_articles/65117953.ext.json)
-
----
-
-### One killed by rat problem
-
-*2024-02-19 12:49:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலி-பிரச்சினையால்-ஒருவர்-பலி/175-333437) · `ta`
-
-Talangama police said that the younger brother was admitted to the Talangama district hospital for treatment of a rat in the house where two brothers of the same family were living in a house.
-
-Anura Kitsiri (59), a resident of Arachchi, who lives in the south of Talangama, Battaramulla, has died.
-
-The person is married and is the father of two children, and the elder brother lives in the same house without marriage, and two daughters and spouses have left home for their own needs.. Only two brothers were staying at home, police said.
-
-◼️
-
-[Data](articles/ac695984.json)
-
-[Extended Data](ext_articles/ac695984.ext.json)
 
 ---

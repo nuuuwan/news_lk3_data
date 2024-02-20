@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 17:53:09**
+As of **2024-02-20 18:08:13**
 
 ## Newspaper Stats
 
@@ -26,29 +26,31 @@ dailymirrorlk | 1,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,281 (100.0%) of 8,285 articles have been extended.
+8,285 (100.0%) of 8,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### கோட்டாவின் முக்கியஸ்தர் இராஜினாமா
+### Kota's chief resigns
 
 *2024-02-20 17:29:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-முக்கியஸ்தர்-இராஜினாமா/175-333535) · `ta`
 
-முன்னாள் ஜனாதிபதி  கோட்டாபய ராஜபக்சவின் பிரத்தியேக செயலாளர்   சுகீஸ்வர பண்டார அந்த பதவியை செவ்வாய்க்கிழமை (20) இராஜினாமா செய்தார்.
+Former President Gotabhaya Rajapaksa's exclusive secretary Sukheeswara Bandara resigned from the post on Tuesday (20).
 
-தனது இராஜினாமா கடிதத்தை   கோட்டாபய ராஜபக்ஷவிற்கு, செவ்வாய்க்கிழமை (20)  அனுப்பி வைத்துள்ளதாக பண்டார தெரிவித்தார்.
+Bandara said he had sent his resignation letter to Gotabhaya Rajapaksa on Tuesday (20).
 
-கோட்டாபய ராஜபக்சவின் கீழ் பணிபுரிந்தபோதும், தவிர்க்க முடியாத காரணங்களாலும், அவர் மீதான மரியாதையாலும் தனிச் செயலாளர் பதவியில் இருந்து விலகத் தீர்மானித்ததாக, முன்னாள் ஜனாதிபதிக்கு பண்டார எழுதியுள்ள கடிதத்தில் குறிப்பிடப்பட்டுள்ளது.
+Bandara has written to the former president that he has decided to step down as a secretary for the unity of Gotabhaya Rajapaksa, due to the inevitable reasons and respect for him.
 
-தாய் நாட்டிற்கும், அங்கு வாழும் சகோதர மக்களுக்கும் சேவை செய்வதே தனது ஒரே நோக்கம் எனக் கூறும் அவர், வெல்ல முடியாத நாட்டை உருவாக்குவதற்கான புதிய அரசியல் வேலைத்திட்டத்துடன் ஒன்றிணைந்து செயற்படுவதாகவும் குறிப்பிடுகின்றார்.
+He says that his only purpose is to serve the mother and the brothers and people who live there, and that he is working with a new political program to create an invincible country.
 
-தாய்நாட்டை பெருமையுடன் மீண்டும் கட்டியெழுப்பக்கூடிய அணியுடன் இணைந்து செயற்படத் தயங்கப் போவதில்லை எனவும் அவர் இந்தக் கடிதத்தில் குறிப்பிட்டுள்ளார்.
+The letter also stated that he would not hesitate to work with the team that can proudly rebuild the motherland.
 
 ◼️
 
 [Data](articles/bea734ad.json)
+
+[Extended Data](ext_articles/bea734ad.ext.json)
 
 ---
 
@@ -70,21 +72,25 @@ The car is a Limous car similar to the chair and that the two people is a car to
 
 ---
 
-### இலங்கை அமெரிக்காவின் பிராந்தியமல்ல - அமெரிக்க தூதுவரின் கருத்துக்கு அரசாங்கம் பதில்
+### Sri Lanka is not the regional of the United States - the government responds to the US ambassador's opinion
 
 *2024-02-20 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176891) · `ta`
 
-இலங்கை அமெரிக்காவின் பிராந்தியமல்ல. இறையாண்மையுடைய சுயாதீனமான எமது நாட்டின் பாராளுமன்றத்துக்கு மாத்திரமே, சட்ட திட்டங்கள் தொடர்பான உரிமையும் காணப்படுகிறது என அரசாங்கம் அமெரிக்க தூதுவருக்கு அரசாங்கம் பதிலளித்துள்ளது.
+Sri Lanka is not the region of the United States. The government has responded to the US ambassador that the sovereignty of our country's independent parliament has the right to legal programs.
 
-நிகழ்நிலை காப்பு சட்ட மூலம் தொடர்பில் கவலை வெளியிடுவதாக அமெரிக்க தூதுவர் ஜூலி சங் ஊடகப் பிரதானிகள், ஊடகவியலாளர் மற்றும் சிவில் சமூக அமைப்பினருடனான சந்திப்பில் தெரிவித்திருந்தார்.
+US Ambassador Julie Sang said at a meeting with media chiefs, journalists and civil society organizations that he was concerned about the current backup law.
 
-இது தொடர்பில் செவ்வாய்கிழமை (20) இடம்பெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் அமைச்சரவை பேச்சாளர் பந்துல குணவர்தன மேற்கண்டவாறு தெரிவித்தார்.
+Cabinet spokesman Bandula Gunawardena said this at a press conference announcing the Cabinet decisions on Tuesday (20).
 
-இலங்கை என்பது அமெரிக்காவின் பிராந்தியமல்ல. எமது நாடு இறையாண்மையுடைய சுயாதீன நாடாகும். எனவே எமது நாட்டுக்குள் அரசியலமைப்பு சபையில் நிறைவேற்றப்படும் சட்ட திட்டங்கள் தொடர்பான உரிமை சட்டத்தை தயாரிக்கும் நிறுவனமான பாராளுமன்றத்துக்கே உரியது.
+Sri Lanka is not the US regional. Our country is an independent country of sovereignty. Therefore, in our country, the Parliament of Parliament, a company that produces the Right to Legal Plans, implemented in the Constitutional Council.
+
+Accordingly, amendments were made in the Cabinet last week. They have been submitted to Parliament. These can seek court within 14 days. The court will review them and recommend amendments.
 
 ...
 
 [Data](articles/09200891.json)
+
+[Extended Data](ext_articles/09200891.ext.json)
 
 ---
 
@@ -128,6 +134,8 @@ The proposal was approved by the Cabinet of Ministers in a bid to introduce a lo
 
 [Data](articles/87b9d80e.json)
 
+[Extended Data](ext_articles/87b9d80e.ext.json)
+
 ---
 
 ### The mysterious death of the Madrasa student;4 suspects arrested, including Sisirvi technician
@@ -168,17 +176,19 @@ The President’s Media Division reported that this appointment supplements his 
 
 ---
 
-### சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக  பதவிப்பிரமாணம்
+### Janaka sworn in as Minister of Environment
 
 *2024-02-20 16:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-இராஜாங்க-அமைச்சராக-ஜானக-பதவிப்பிரமாணம்/175-333534) · `ta`
 
-சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக வக்கும்புர சற்று முன்னர் ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+President Ranil Wickremesinghe was sworn in as the Minister of Environment in the presence of President Ranil Wickremesinghe at the Presidential Secretariat.
 
-அவர் ஏற்கனவே மாகாண சபைகள் மற்றும் உள்ளூராட்சி இராஜாங்க அமைச்சராக பதவி வகித்து வரும் நிலையில் அதற்கு மேலதிகமாக தற்போது சுற்றாடல் இராஜாங்க அமைச்சராகவும் பதவிப்பிரமாணம் செய்துள்ளமை குறிப்பிடத்தக்கது.
+He has already been sworn in as the Minister of State for Environment and has now been sworn in as provincial councils and local government minister.
 
 ◼️
 
 [Data](articles/23ffa4b8.json)
+
+[Extended Data](ext_articles/23ffa4b8.ext.json)
 
 ---
 

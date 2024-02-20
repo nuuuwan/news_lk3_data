@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 21:02:32**
+As of **2024-02-20 21:17:24**
 
 ## Newspaper Stats
 
@@ -36,11 +36,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-02-20 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97417/tv-derana-scoops-top-accolades-at-2024-sumathi-awards) · `en`
 
-The 2024 Sumathi Awards ceremony, the 29th edition of one of the most popular television awards shows in Sri Lanka, is taking place in Colombo on Tuesday (Feb.20).
+TV Derana reaffirmed its excellence on Tuesday (Feb.20) at the 2024 Sumathi Awards ceremony, the 29th edition of one of the most popular television awards shows in Sri Lanka, taking place in Colombo.
 
 This year’s ceremony presents awards for television programmes aired in the years 2022 and 2023.
 
-TV Derana reaffirmed its excellence at the event, by scooping the 2023 Best Television Documentary award for “Buddha Paathra Wandana” as well as the 2022 Best Television Current Affairs Programme award for “Rebuild Sri Lanka”.
+As such, the Best Television Documentary 2023 award went to TV Derana’s “Buddha Paathra Wandana”, while the Best Television Current Affairs Programme 2022 award was conferred on TV Derana’s “Rebuild Sri Lanka”.
+
+Meanwhile, the “Kids Academy” of Ada Derana 24 was awarded the Best Television Educational Programme for the year 2022.
+
+“Gasma” of Derana Macroentertainment, the digital media arm of TV Derana, won big at the ceremony, by bagging three awards for the Best CSR Programme, National Interest Programme, and Current Affairs Programme in the Social Media Category.
 
 ◼️
 

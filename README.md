@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 22:17:29**
+As of **2024-02-20 22:32:54**
 
 ## Newspaper Stats
 
-*Scraped **8,316** Articles*
+*Scraped **8,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,006
 tamilmirrorlk | 1,024
 virakesarilk | 1,120
 adaderanasinhalalk | 1,213
-dailymirrorlk | 1,224
+dailymirrorlk | 1,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,313 (100.0%) of 8,316 articles have been extended.
+8,316 (99.9%) of 8,323 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,61 +52,159 @@ These remarks were made during the opening session of the 37th Asia and Pacific 
 
 ---
 
-### හොඳම ප්‍රවෘත්ති ප්‍රකාශය ඇතුළු සුමති සම්මාන රැසක් දෙරණට
+### Sumedha Awards, including the best news statement
 
 *2024-02-20 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193629) · `si`
 
-ප්‍රවෘත්ති වාර්තාකරණයේ විශිෂ්ඨත්වය යළි යළිත් තහවුරු කරමින් වසරේ හොඳම ප්‍රවෘත්ති විකාශය වෙනුවෙන් වූ සම්මානය අද දෙරණට හිමිවිය.
+Ada Derana won the Award for the Best News of the Year Reining the Excellence of News Reporting.
 
-එහිදී සම්මාන රැසක් හිමිකර ගැනීමට දෙරණ මාධ්‍ය ජාලය සමත් වුණි.
+Derana Media Network won several awards.
 
-28 වැනි සහ 29 වැනි සම්මාන උළෙල දෙකම අද පැවති අතර, එහිදී 2022 සහ 2023 වසරවලදී රූපවාහිනි මාධ්‍යයෙන් විකාශය වූ නිර්මාණ සහ ඒවාට දායකවූ කලාකරුවන් ඇගයීමට ලක්කෙරුණි.
+Both and 29th the 29th Awards today were present today, and in 2022 and 2023, the television media broadcast and the educational artists were evaluated.
 
-එමෙන්ම දිනේන්ද්‍ර රන්සිරි ඉදිරිපත් කළ අද දෙරණ 'උකුස්සා' 2022 සහ 2023 යන වසර ද්විත්වයේම හොඳම රූපවාහිනි ගවේෂණාත්මක ප්‍රවෘත්ති වාර්තාකරණයට හිමි සම්මාන හිමිකර ගත්තේය.
+Attachment of Dinah Ranseiri won the best television exploration in two years and 2023.
 
-මේ අතර 2023 වසරේ හොඳම රූපවාහිනි ප්‍රවෘත්ති නිවේදක දෙවන ස්ථානය භානුක කරුණාරත්න ට හිමිවිය.
+Meanwhile, Bhanka Karunaratne won the second highest TV news statement in the 2023.
 
-මෙහිදී 2023 වසරේ හොඳම රූපවාහිනි වාර්තා වැඩසටහන ලෙස ටී.වී. දෙරණ ඔස්සේ විකාශය කෙරුණු, රංජීවනි බැද්දේවිතාන අධ්‍යක්ෂණය කළ "බුද්ධ පාත්‍ර වන්දනා" සම්මානයට පාත්‍ර වූ අතර හොඳම රූපවාහිනි කාලීන වැඩසටහන ලෙස ටී.වී. දෙරණ නිෂ්පාදනය කළ, රුක්මල් මල්ලව අධ්‍යක්ෂණය කළ "REBUILD SRI LANKA" සම්මාන දිනා ගත්තේය.
+Here is the best TV report program in the year 2023. "Buddha Bowl Playful 'awarded the" Buddha Barway' award, which was broadcasting and broadcast on Derana and the best television program. "Rebuild Sri Lanka 'won the' Rebuild Sri Lanka '.
+
+And the k. The 'Kids Academy "was recognized as the best TV education program in the year 2023.
+
+TV wins the award in Derana, Teledrapitiya, who produces the second place for the year's political program.. Chaminda, who was broadcasting along Derana, was presented to the "Plemal Aroma" teledrama.
 
 ...
 
 [Data](articles/12c8d425.json)
 
+[Extended Data](ext_articles/12c8d425.ext.json)
+
 ---
 
-### ඉරාන විදේශ ඇමති ජනපතිව හමුවෙයි
+### Voice of Migrants condemns Israel’s policy against Palestinian migrant workers
+
+*2024-02-20 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Voice-of-Migrants-condemns-Israels-policy-against-Palestinian-migrant-workers/108-277424) · `en`
+
+Colombo, Feb 20 (Daily Mirror) - The recent decision by Israeli authorities to terminate the employment of 72,000 Palestinian migrant workers has sparked widespread condemnation and calls for justice from international organizations and human rights advocates.
+
+Israeli officials cited security concerns as the basis for the mass dismissal, which targeted workers primarily employed in construction projects across the country.
+
+However, critics argue that the move represents a blatant act of discrimination and a violation of labour rights.
+
+Organizations such as the Voice of Migrants Network have issued strong statements denouncing Israel's actions, emphasizing the need for fair treatment and equality for all workers, regardless of their nationality.
+
+The Voice of Migrants said that Israel has opened job opportunities for migrant workers from other countries, including Sri Lanka, in a situation where many countries hesitate to send their workers due to Israel's actions being considered unethical.
+
+...
+
+[Data](articles/0d36dfa0.json)
+
+---
+
+### Iraniya Foreign Minister Meets President
 
 *2024-02-20 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193628) · `si`
 
-නිල සංචාරයක් සඳහා මෙරටට පැමිණ සිටින ඉරාන විදේශ අමාත්‍ය හුසේන් ආමේර් අබ්දුල්ලාහින් අද (20) පස්වරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී තිබේ.
+Iranian Foreign Minister Hussein Armir, Abdullahin, has been found this afternoon to arrive in Sri Lanka for an official visit.
 
-ජනාධිපති කාර්යාලයේදී එම හමුව සිදුවූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+The meeting took place at the Presidential Secretariat, said the Presidential Media Unit.
 
 ◼️
 
 [Data](articles/88e6dc89.json)
 
+[Extended Data](ext_articles/88e6dc89.ext.json)
+
 ---
 
-### සුමති සම්මාන උළෙලේදී දෙරණට සම්මාන රැසක්
+### Derana was a range of awards at Sumathi Awards
 
 *2024-02-20 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193627) · `si`
 
-29 වන සුමති සම්මාන උළෙල (2024) මේ වනවිට අති උත්කර්ෂවත් ලෙස කොළඹදී පැවැත්වෙයි.
+The 29th Sumedhi Awards (2024) is currently undermined in Colombo.
 
-2023 වසරේ හොඳම රූපවාහිනී වාර්තා වැඩසටහන සඳහා වූ සම්මානය ටී.වී. දෙරණ "බුද්ධ පාත්‍ර වන්දනා" දිනා ගත්තේය.
+TV wins World's Best TV Report Program in 2023. Derana won Buddha bowl.
 
-2022 වසරේ හොඳම රූපවාහිනී කාලීන වැඩසටහන ලෙස "REBUILD SRI LANKA" සම්මානයට පාත්‍ර විය.
+The Best TV-term program of the year was won by the Rebuild Sri Lanka.
 
-2022 වසරේ හොඳම රූපවාහිනී අධ්‍යාපනික වැඩසටහනට හිමි සම්මානය අද දෙරණ 24 හී "Kids Academy" දිනා ගත්තේය.
+The Best Rupavahini Educational Program of the Year award won 'KIDS Academy ".
 
-සමාජ මාධ්‍ය කාණ්ඩයේ සම්මාන 03ක් දිනාගැනීමට Derana Macro Entertainment හී "ගැස්ම" සමත්විය.
+Drana Macro Entertainment has passed three awards to win three awards in the Social Media Category.
 
-හොඳම CSR වැඩසටහන, ජාතික වටිනාකමක් ඇති වැඩසටහන සහ කාලීන වැඩසටහන ලෙස එම සම්මාන දිනා ගත්තේය.
+The best CSR program was won by the National Value of Value and the Periodic Program.
 
 ◼️
 
 [Data](articles/b6715091.json)
+
+[Extended Data](ext_articles/b6715091.ext.json)
+
+---
+
+### Chamari Athapaththu eyes big team goal in 2024
+
+*2024-02-20 20:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chamari-Athapaththu-eyes-big-team-goal-in-2024/108-277417) · `en`
+
+Feb. 20 (ICC) - Sri Lankan superstar Chamari Athapaththu has set her eyes on the big prize at the ICC Women's T20 World Cup later this year.
+
+After winning the ICC Women's ODI Player of the Year award, Chamari Athapaththu is eyeing a bigger goal later this year at the ICC Women's T20 World Cup 2024.
+
+The Sri Lankan skipper recounted her incredible year in 2023, culminating in the big ICC award, and stated that going unsold at the Women's Premier League [WPL] auction was a big motivating factor behind it.
+
+"Internationally it was the best year I have had in my career," Athapathuthu told Cricbuzz.
+
+"Not just as a batter, but as a captain, and even as a team, we performed really well in 2023. Thanks to those performances, I was nominated for the ICC Player of the Year, T20 Player of the Year, and I won the ODI Player of the Year award. To be honest, I didn't expect to be named captain of the two teams of the year."
+
+...
+
+[Data](articles/b72ceb02.json)
+
+---
+
+### ILT20 slaps one-year ban on Noor Ahmad
+
+*2024-02-20 20:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ILT20-slaps-one-year-ban-on-Noor-Ahmad/108-277418) · `en`
+
+Feb. 20 (cricbuzz) - Afghanistan leg-spinner Noor Ahmad has been banned for 12 months by ILT20's disciplinary committee for breach of contract with his franchise Sharjah Warriors. Noor becomes the second player after fellow countryman Naveen-ul-Haq to be banned by the ILT20 for the same reason.
+
+The 19-year-old, who was retained by the Warriors, opted against signing the retention notice and instead to ply his trade in the SA20 tournament where he represented Durban Supergiants. Noor's refusal to sign the player agreement contract forced the Warriors to approach the ILT20 for further action on the matter. The disciplinary committee held separate hearings for the player and the franchise before coming to a final decision.
+
+Initially Noor was meted out a 20-month ban, like Naveen-ul-Haq, but given that the former was a minor ahead of the first ILT20 season, the punishment was trimmed down to 12 months.
+
+◼️
+
+[Data](articles/cf136059.json)
+
+---
+
+### Iranian Foreign Minister Hossein meets President Ranil
+
+*2024-02-20 20:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-Foreign-Minister-Hossein-meets-President-Ranil/108-277419) · `en`
+
+Colombo, Feb 20 (PMD) - Iranian Foreign Minister Hossein Amir-Abdollahian called on President Ranil Wickremesinghe at the Presidential Secretariat a short while ago, the President’s Media Division (PMD) said.
+
+The Iranian Foreign Minister arrived in Sri Lanka yesterday (19) on an official visit.
+
+◼️
+
+[Data](articles/65fc65ef.json)
+
+---
+
+### Thomians regain Abeynaike Trophy
+
+*2024-02-20 19:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thomians-regain-Abeynaike-Trophy/108-277415) · `en`
+
+Colombo, Feb. 20 (Daily Mirror) - S. Thomas’ College trounced Trinity College by an innings and 114 runs in their Inter-Schools Under-19 cricket encounter, with more than a session to spare at Mount Lavinia.
+
+The Thomians also regained the Ranil Abeynaike Memorial Trophy after a lapse of six years having
+
+Trinity: 64 in 33.3 overs and 58 in 18.5 overs (Nathan Caldera 3/15, Yatendra Siriwardene 2/14, Ashen Perera 2/10, Kavindu Dias 2/18).
+
+S. Thomas’: 236 in 76.2 overs (Thisen Eheliyagoda 94, Ashen Perera 26, Tharana Wimaladharma 4/47, Malith Rathnayake 4/52, Thisal Yapa 2/53).
+
+◼️
+
+[Data](articles/6533e327.json)
 
 ---
 
@@ -153,6 +251,26 @@ Kandy SC have had some tricky moments as well, during which the fan base in Colo
 [Data](articles/3d66a84a.json)
 
 [Extended Data](ext_articles/3d66a84a.ext.json)
+
+---
+
+### Oh how mighty Kandy have fallen?
+
+*2024-02-20 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Oh-how-mighty-Kandy-have-fallen/108-277414) · `en`
+
+Feb. 20 (Daily Mirror) - CR and FC emerged champions of the Inter-Club League Rugby Tournament last Sunday when they defeated Kandy Sports Club in the last fixture, which was a potential title decider.
+
+Kandy Sports Club have been the most successful club in the history of club rugby in Sri Lanka having secured 22 League titles.
+
+Since the shift of powers of Sri Lanka club rugby in early 90s, Kandy SC have been such a dominant force that in certain seasons, the other contenders could only battle for the second spot.
+
+From season-to-season and generation-to-generation they have been able to produce top class players and their fans are so used to seeing their team tore apart teams.
+
+Kandy SC have had some tricky moments as well, during which the fan base in Colombo thought Kandy SC really slipped up.
+
+...
+
+[Data](articles/cb78fd55.json)
 
 ---
 
@@ -405,6 +523,22 @@ The comprehensive study, recently published in the esteemed journal Vaccine, une
 [Data](articles/22c6a058.json)
 
 [Extended Data](ext_articles/22c6a058.ext.json)
+
+---
+
+### New study links COVID-19 vaccines to possible health issues
+
+*2024-02-20 17:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/New-study-links-COVID-19-vaccines-to-possible-health-issues/155-277411) · `en`
+
+Feb 20- The largest ever multi-country survey on the side-effects of COVID vaccines – from the houses of Pfizer, Moderna and AstraZeneca – claims to have found that these life-saving shots exacerbated 13 different medical conditions.
+
+The study was conducted by Global Vaccine Data Network (GVDN). It considered nearly 100 million vaccinated individuals across eight countries: Argentina, Australia, Canada, Denmark, Finland, France, New Zealand and Scotland.
+
+The comprehensive study, recently published in the esteemed journal Vaccine, unearthed some concerning associations between COVID-19 vaccines and certain medical conditions. Notably, researchers observed a slight increase in neurological, blood, and heart-related issues following vaccination, as outlined in a press release from the GVDN.
+
+...
+
+[Data](articles/e852cfbc.json)
 
 ---
 
@@ -1841,153 +1975,5 @@ Some websites are publishing advertisements on this.
 [Data](articles/e029ce67.json)
 
 [Extended Data](ext_articles/e029ce67.ext.json)
-
----
-
-### Russian woman dies in dengue
-
-*2024-02-20 12:01:07* · [`adalk`](https://www.ada.lk/breaking_news/ඩෙංගු-වැළඳි-රුසියානු-ජාතික-කාන්තාව-මිය-යයි/11-408189) · `si`
-
-Mulleriyawa police say that the Russian woman has been treated at the ICUThe victim was a 33-year-old woman, Koiushara.
-
-The deceased woman has been treated at the Karapitiya Hospital in Galle, Galle, has been treated at the Intensive Care Unit.
-
-The body of the deceased is that the deceased has been placed at the National Infectious Disease Hospital morgue.
-
-Mulleriyawa OIC Celebrates Testing OIC Chief Inspector Sunimal Susantha
-
-◼️
-
-[Data](articles/42c952b9.json)
-
-[Extended Data](ext_articles/42c952b9.ext.json)
-
----
-
-### Former Maldives State Minister and 16 others released from case
-
-*2024-02-20 11:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Maldives-State-Minister-and-16-others-released-from-case/108-277395) · `en`
-
-Colombo, Feb 20 (Daily Mirror) - Former Maldives State Minister of Finance Mohamed Ashmalee and 16 other suspects have been released from the magisterial inquiry relating to the alleged sexual exploitation of a 15-year old girl in 2021.
-
-Colombo Additional Magistrate Keminda Perera ordered the release of 17 suspects including former Maldives State Minister of Finance, former Deputy Chairman of the Mihintale Pradeshiya Sabha and a cardiologist from the magisterial inquiry upon receiving the Attorney General's advice.
-
-The Attorney General has instructed to release these suspects from the case since he does not intend to proceed with legal action against them due to insufficient evidence.
-
-The Police Children and Women's Bureau launched an investigation into the suspects under the Penal Code for procuring an underage girl for prostitution and human trafficking.
-
-◼️
-
-[Data](articles/59ccd466.json)
-
-[Extended Data](ext_articles/59ccd466.ext.json)
-
----
-
-### Struggle for the 3rd day in Tamil Nadu
-
-*2024-02-20 11:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-3வது-நாளாகவும்-போராட்டம்/175-333510) · `ta`
-
-Tamil Nadu fishermen are fighting for the release of fishermen arrested by the Sri Lankan navy.
-
-Accordingly, more than 800 Tamil Nadu fishermen have been shot dead by the Sri Lankan navy.
-
-Rameshwaram fishermen have been arrested and taken to Sri Lankan jails near Kachchativu, a traditional fishing area.
-
-Accordingly, Rameshwaram fishermen are engaged in an indefinite strike for the 3rd day in Rameswaram demanding the immediate release of Tamil Nadu fishermen in Sri Lankan jails.
-
-Tamil Nadu Chief Minister MK Stalin has written to the central government to take action to release the Tamil Nadu fishermen and boats held by the Sri Lankan Navy. Meanwhile, Tamil Nadu fishermen met Union Minister Jaishankar and urged the fishermen to solve the problem.
-
-...
-
-[Data](articles/a3e2aa7c.json)
-
-[Extended Data](ext_articles/a3e2aa7c.ext.json)
-
----
-
-### Digitalization Pilot Project in Hambantota
-
-*2024-02-20 11:53:13* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපනය-ඩිජිටල්කරණ-නියමු-ව්‍යාපෘතිය-මාර්තු්තුවේ/11-408188) · `si`
-
-Minister of Education Susil Premajayantha said that the pilot project for the digitalization of education has been launched in March.
-
-The Minister said that the school text books were devoted to the year 2024, "he said.
-
-Minister of Education Susil Premajayantha made this statement participating at a press conference at the Presidential Media Center for a 'stable country.'
-
-Minister of Education Susil Premajayantha said:
-
-The school text books for the year 2024 has been sent to terminals. The distribution work of school level has been made to end the first day of March. 12,000 million rupees.
-
-Also, we have received 80% of the quantity of fabrics required for the uniforms of school children, with a stock of cloth worth Rs 5 billion in the Chinese government. Delivery work is happening these days. And the remaining 20% will be received tomorrow.
-
-...
-
-[Data](articles/77218ab9.json)
-
-[Extended Data](ext_articles/77218ab9.ext.json)
-
----
-
-### The reason why 4 students were admitted to the hospital in Kurunegala were released!
-
-*2024-02-20 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176824) · `ta`
-
-Madurakoda police said that four students who were studying in the primary school in the Kurunegala area were admitted to the hospital.
-
-This pill is used for seizures, painkillers and depression. They misuse this as a drug.
-
-Madurakoda Police Station Officer Janaka Veeraratne
-
-One of the four students admitted to the hospital took a few pills to the school and ate with his friends.
-
-Investigations revealed that the father of the student, "Pregablin", is using the father of the student.
-
-Some people use this pill as an alternative. He said it was a drug because everyone can buy at the pharmacy.
-
-Dr. Deepal Perera, Advisor of Lady Ridgeway Children's Hospital, Colombo
-
-Parents should be careful when taking medication. Because the children will try to get it to Wood. Consuming such pills recommended for the elderly can be harmful to children and can sometimes have chronic effects.
-
-Therefore, do not store drugs and other pills in places where children are easily accessible.
-
-...
-
-[Data](articles/ed2add8e.json)
-
-[Extended Data](ext_articles/ed2add8e.ext.json)
-
----
-
-### Sri Lanka sends more workers to Israel
-
-*2024-02-20 11:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-sends-more-workers-to-israel-151575/) · `en`
-
-ECONOMYNEXT – Sri Lanka is pressing ahead with sending workers to Israel, which is actively involved in war in its occupied territories of Gaza and the West Bank, and with its neighbours Lebanon and Syria.
-
-“Handed over air tickets for another 95 individuals who are departing for agricultural jobs in Israel. With this batch, a total of 602 have left for agricultural positions in Israel, and more will leave in the coming days,” Minister of Labour and Foreign Employment Manusha Nanayakkara said on X (twitter).
-
-Last week Nanayakkara, as well as President Ranil Wickremesinghe, met with Israel’s Minister of Transport and Road Safety, Brigadier General Miri Regev, who visited the country to sign an aviation agreement. “During the meeting, we discussed on increasing the recruitment of Sri Lankans for jobs in Israel and explored the possibility of increasing the number of flights between the two countries.”
-
-...
-
-[Data](articles/1fa5d817.json)
-
-[Extended Data](ext_articles/1fa5d817.ext.json)
-
----
-
-### The upcountry people and the Aswesa project
-
-*2024-02-20 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176845) · `ta`
-
-With the financial contribution of the World Bank, the Welfare Benefits are being introduced by the Welfare Council last year, and now the country is still being requested by the people of the country on the welfare of the people of the country.
-
-◼️
-
-[Data](articles/1809610c.json)
-
-[Extended Data](ext_articles/1809610c.ext.json)
 
 ---

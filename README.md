@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 14:17:38**
+As of **2024-02-20 14:32:58**
 
 ## Newspaper Stats
 
-*Scraped **8,233** Articles*
+*Scraped **8,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 421
 islandlk | 434
 dailyftlk | 444
-adalk | 700
-adaderanalk | 997
-tamilmirrorlk | 1,008
+adalk | 701
+adaderanalk | 998
+tamilmirrorlk | 1,011
 virakesarilk | 1,108
 adaderanasinhalalk | 1,200
 dailymirrorlk | 1,210
@@ -26,11 +26,77 @@ dailymirrorlk | 1,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,228 (99.9%) of 8,233 articles have been extended.
+8,233 (99.9%) of 8,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### ஒத்திகை பார்த்த குளவி: 73 மாணவர்கள் பாதிப்பு
+
+*2024-02-20 13:58:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஒத்திகை-பார்த்த-குளவி-73-மாணவர்கள்-பாதிப்பு/76-333518) · `ta`
+
+பாடசாலையின் இல்லங்களுக்கு இடையிலான விளையாட்டு ஒத்திகையின் போது 73 பாடசாலை மாணவர்கள் குளவி கொட்டுக்குள் உள்ளாகி காயமடைந்து பசறை வைத்தியசாலையில் செவ்வாய்க்கிழமை (20) அனுமதிக்கப்பட்டுள்ளனர் என பசறை பொலிஸார் தெரிவித்தனர்.
+
+இந்த மாணவர்களில் 18 மாணவர்கள் தற்போது வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும், ஏனைய மாணவர்கள் சிகிச்சை பெற்று வைத்தியசாலையில் இருந்து வெளியேறி வீடுகளுக்குச் சென்றுள்ளதாகவும் பசறை பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் பியரத்ன ஏக்கநாயக்க தெரிவித்தார்.
+
+பசறை தேசிய பாடசாலையின் வருடாந்த இல்லங்களுக்கு இடையிலான விளையாட்டு நிகழ்வுக்கான ஏற்பாடுகள் இந்த நாட்களில் மேற்கொள்ளப்பட்டு வருகின்றதுன,   பசறை உள்ளூராட்சி மன்ற விளையாட்டு மைதானத்தில் ஒத்திகை செவ்வாய்க்கிழமை (20)  நடைபெற்றது
+
+◼️
+
+[Data](articles/e46818bb.json)
+
+---
+
+### 14th round of ETCA negotiations between India, Sri Lanka in March
+
+*2024-02-20 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97408/14th-round-of-etca-negotiations-between-india-sri-lanka-in-march) · `en`
+
+The 14th round of negotiations between Sri Lanka and India on the Economic and Technology Cooperation Agreement (ETCA) are scheduled to be held in New Delhi, in the first week of March 2024.
+
+At its meeting on Monday (19 Dec.), the Cabinet of Ministers took into consideration the submission made by President Ranil Wickremesinghe regarding the current situation of the ECTA, and the 13th Round of discussions which took place in this regard.
+
+Accordingly, the nine sub-committees responsible for ‘goods trade’, ‘introduction, general provisions and general exceptions’, ‘service trade’, ‘rules of the origin’, ‘customs procedure and easing the trade’, ‘measurements for sanitation and sanitation of vegetation’, ‘technical constraints for trade’, ‘trade accords’ and ‘economic and technological cooperation’ had entered into discussions.
+
+Meanwhile, the sub-committee on conflict solving and final provisions is scheduled to conduct their discussions at the end of February 2024 in New Delhi.
+
+◼️
+
+[Data](articles/13666670.json)
+
+---
+
+### ஜோடி கைது:​ மனைவிக்கு வாந்தி
+
+*2024-02-20 13:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோடி-கைது-மனைவிக்கு-வாந்தி/175-333517) · `ta`
+
+திருமணமான தம்பதியின் கைது செய்யப்பட்டபோது, அந்தப் பெண், இரண்டு குளிசைகளை விழுங்கிவிட்டார். அதனையடுத்து அப்பெண், வைத்தியசாலையில் அனுமதிக்கப்பட்டு வாந்தி எடுக்க வைக்கப்பட்டார் என பொலிஸார் தெரிவித்தனர்.
+
+யுக்திய நடவடிக்கையுடன் இணைந்து வென்னப்புவ பொலிஸ் நிலையத்தினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது முச்சக்கர வண்டியில் ஹெரோயின் போதைப்பொருளை கடத்திய திருமணமான தம்பதியினர் கைது செய்யப்பட்டதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+கைது செய்யப்படும் போது சந்தேகநபரான பெண், 02 ஹெரோயின் கட்டிகளை விழுங்கியுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இது கண்டுபிடிக்கப்பட்டதையடுத்து, சந்தேக நபரான அப்பெண் மாரவில சட்ட வைத்தியரிடம் ஆஜர்படுத்தப்பட்டு மாரவில வைத்தியசாலையில் அனுமதிக்கப்பட்டதாகவும், அங்கு அப்பெண் வாந்தி எடுத்தார். அப்போது,   01 கிராம் ஹெரோயின் கட்டிகள் 2 வெளியில் விழுந்தன என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/d8e39033.json)
+
+---
+
+### மற்றுமொரு துப்பாக்கிச்சூடு
+
+*2024-02-20 13:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-துப்பாக்கிச்சூடு/175-333516) · `ta`
+
+கந்தர, தலல்ல கிழக்கு பகுதியில் இன்று (20) அதிகாலை மோட்டார் சைக்கிளில் வந்த இருவர் வீடொன்றின் மீது துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+
+துப்பாக்கிச் சூட்டில் வீட்டுக்கு வெளியே நிறுத்தி வைக்கப்பட்டிருந்த லொறி மற்றும் வீட்டின் ஜன்னல் ஒன்று சேதமடைந்துள்ளது.
+
+◼️
+
+[Data](articles/e8c2986e.json)
+
+---
 
 ### Wimal questions Harin’s statement in India
 
@@ -50,19 +116,23 @@ Minister Manusha Nanayakkara said social media had twisted the Minister's statem
 
 [Data](articles/09632e7e.json)
 
+[Extended Data](ext_articles/09632e7e.ext.json)
+
 ---
 
-### තවත් වෙඩිතැබීමක්
+### Another shot
 
 *2024-02-20 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193614) · `si`
 
-ගන්දර, තලල්ල නැගෙනහිර ප්‍රදේශයේදී යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු අද (20) අලුයම නිවසකට වෙඩි තබා තිබේ.
+Two persons from a motorbike have been shot dead at the East of Gandara, East.
 
-වෙඩි ප්‍රහාරයෙන් නිවසේ වූ ලොරියකට හා නිවසෙහි ජනේලයකට හානි සිදුව ඇති අතර කිසිදු නිවැසියෙකුට තුවාල සිදුව නැත.
+A lorry and window of the house was damaged and no residents were injured.
 
 ◼️
 
 [Data](articles/9f4441b5.json)
+
+[Extended Data](ext_articles/9f4441b5.ext.json)
 
 ---
 
@@ -79,6 +149,8 @@ Parliament, Feb. 20 (Daily Mirror)- State Minister of Finance Ranjith Siyambalap
 ◼️
 
 [Data](articles/abc68868.json)
+
+[Extended Data](ext_articles/abc68868.ext.json)
 
 ---
 
@@ -134,27 +206,31 @@ Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellan, said he wa
 
 ---
 
-### වනාතේ බිම්සරට එල්ල වූ වෙඩිල්ල
+### Wedilla in the land
 
 *2024-02-20 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193613) · `si`
 
-බොරැල්ලේ පිහිටි මහල් නිවාස සංකීර්ණයක් තුළ දී පුද්ගලයෙකුට වෙඩිතබා වෙඩික්කරු පළා යන අයුරු CCTV කැමරාවක සටහන්ව තිබේ.
+The CCTV camera is recorded in a CCTV camera as a shot of shooting in Borella.
 
-මත්ද්‍රව්‍ය ජාවාරම්කරුවකු හා පාතාල කල්ලි සාමාජිකයෙකු වන බිම්සර ගුණසේකර හෙවත් "වනාතේ බිම්සර" නැමැත්තාට ඊයේ (19) රාත්‍රියේ වෙඩිතබා තිබේ.
+Munatara Gunasekera, a drug dealer and underworld gang member, has been shot dead at night.
 
-බොරැල්ල ආනන්ද රාජකරුණා මාවතේ පිහිටි මහල් නිවාස සංකීර්ණයක් තුළදී ඊයේ රාත්‍රී 10ත් 10.15ත් ආතර කාලය තුළදී වෙඩිතැබීමක් සිදුකර තිබිණි.
+Borella was shooting at 10 and 10 to 10 pm in apartment complex at Ananda Rajakarawa Mawatha.
 
-මිලිමීටර 9 වර්ගයේ ගිනිඅවියකින් එම වෙඩි තැබීම සිදුකර තිබූ අතර වෙඩික්කරුගේ ඉලක්කය වී තිබුණේ 38 හැවිරිදි "වනාතේ බිම්සර" නැමැත්තාය.
+The shooting was shot with a 9mm square firearm.
 
-වෙඩිවැදීමෙන් තුවාල ලැබූ වනාතේ බිම්සර නැමැත්තා කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මේ වනවිට එහි දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබයි.
+The injured in the shooting was admitted to the Colombo National Hospital.
 
-වෙඩිවැදීමෙන් තුවාල ලැබූ වනාතේ බිම්සර ප්‍රධාන පෙළේ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු හා සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු ලෙස ලේඛන ගතවී සිටින අයෙකි.
+A man was written as a member of the Trifle Based Drugsara and organized criminal crimes.
 
-ඔහු මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් වෙරළබඩ පොලීසිය මඟින් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගතව සිට ඇප ලබා පැමිණ ඇත්තේ පසුගිය 5 වනදාය.
+He was arrested by the coastal police in connection with drug trafficking and remanded and released on bail last 5.
 
-...
+The police said that Wennaathiges were also a person who had come to the apartment for a few days ago.
+
+◼️
 
 [Data](articles/34697f83.json)
+
+[Extended Data](ext_articles/34697f83.ext.json)
 
 ---
 
@@ -174,19 +250,21 @@ Accordingly, the suspects were arrested by the CIABOC for allegedly soliciting a
 
 ---
 
-### අල්ලස් ගත් නිලධාරින් දෙදෙනෙකුට වැඩ වරදී
+### Two bribery officers work
 
 *2024-02-20 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193612) · `si`
 
-නුවරඑළිය මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ දිස්ත්‍රික් කළමනාකරු සහ කළමනාකරණ සහකාරවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+District Manager and Management Assistant of Nuwara Eliya Road Manager and Management Assistant have been arrested.
 
-එම නිලධාරීන් අද (20) අත්අඩංගුවට ගෙන ඇත්තේ, අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසිනි.
+The officers were arrested today (20) by the Commission to Investigate Allegations of Bribery or Corruption.
 
-ඔවුන් බස් හිමියෙකුගේ මාර්ග බලපත්‍රයක් වෙනස් කිරීමට රුපියල් 30,000ක අල්ලසක් ලබා ගත් බව කියන සිද්ධියක් සම්බන්ධයෙන් මෙසේ අත්අඩංගුවට ගෙන ඇත.
+They have been arrested in connection with a bribe of Rs. 30,000 to change a bus owner.
 
 ◼️
 
 [Data](articles/ea1e6b45.json)
+
+[Extended Data](ext_articles/ea1e6b45.ext.json)
 
 ---
 
@@ -347,6 +425,24 @@ Some websites are publishing advertisements on this.
 [Data](articles/e029ce67.json)
 
 [Extended Data](ext_articles/e029ce67.ext.json)
+
+---
+
+### ඩෙංගු වැළඳි රුසියානු ජාතික කාන්තාව මිය යයි
+
+*2024-02-20 12:01:07* · [`adalk`](https://www.ada.lk/breaking_news/ඩෙංගු-වැළඳි-රුසියානු-ජාතික-කාන්තාව-මිය-යයි/11-408189) · `si`
+
+ඩෙංගු රෝගය වැළඳී  මුල්ලේරියාව ජාතික බෝවන රෝග විද්‍යායතන රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි රුසියානු ජාතික කාන්තාවක් මියගොස් ඇතැයි මුල්ලේරියාව පොලිසිය කියයි. මෙලෙස මියගොස් ඇත්තේ koiushara නමැති 33 හැවිරිදි කාන්තාවකි.
+
+මියගිය කාන්තාව ඉකුත් 17 වෙනි දින ගාල්ල කරාපිටිය රෝහල මගින් වැඩිදුර ප්‍රතිකාර සඳහා මුල්ලේරියාව  ජාතික බෝවන රෝග විද්‍යාතනය වෙත ප්‍රතිකාර සඳහා යොමු කර දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී  පෙරේදා (19) රාත්‍රී 9.30ට පමණ මියගොස් ඇතැයි පොලිසිය කියයි
+
+මියගිය විදේශීය කාන්තාවගේ දේහය මේ වන විට ජාතික බෝවන රෝග විද්‍යායතන රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති බව පොලිසිය සඳහන් කරයි
+
+මුල්ලේරියාව පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සුනිමල් සුසන්ත මහතාගේ උපදෙස් මත පරීක්ෂණ පවත්වයි
+
+◼️
+
+[Data](articles/42c952b9.json)
 
 ---
 
@@ -1955,109 +2051,5 @@ President Wickremesinghe, in turn, provided an overview of the progress made in 
 [Data](articles/bc09c9a1.json)
 
 [Extended Data](ext_articles/bc09c9a1.ext.json)
-
----
-
-### Wind Power Plants: 'Going along the Vani's corridor has to get used to eight to birds.'
-
-*2024-02-20 02:03:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpdel5kd2rmo) · `si`
-
-Wind Power Plants: 'Going along the Vani's corridor has to get used to eight to birds.'
-
-Sri Lanka is the destination of the central Asian Flyway destination, one of the eight major roads in the world. Migration birds come to Sri Lanka by 10,000 kilometers. Researchers estimates that 15 million birds come to enter Sri Lanka through Mannar a year.
-
-In addition, the Mannar Island belonging to the Northern Province is a very sensitive area of the geopolitical of Sri Lanka. Therefore, the new wind power plant project in Mannar cannot be logged in a problem that affect birds.
-
-However, without the period of non-migrant birds, the immigrant birds will be accused of acting in a unique environmental assessment report to the Sri Lankan company permission to provide permission to a Sri Lankan wind power plant project.
-
-...
-
-[Data](articles/3699a486.json)
-
-[Extended Data](ext_articles/3699a486.ext.json)
-
----
-
-### Gamini - I,. General Secretary Range Bandara
-
-*2024-02-20 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176809) · `ta`
-
-The political work of Gamini Jayawickrama Perera, who devoted her to the service of the people, is the precedent for existing politicians. Her service to the Kurunegala district is a unforgettable service by those people. He was a unforgettable person by the people of Kurunegala. The death of the United National Party (UNP) and the people of Kurunegala district, said United National Party (UNP) Secretary Palitha Range Bandara.
-
-In a statement on the demise of Senior Member and former minister of the United National Party, Gamini Swayavikrama Perera.
-
-Gamini Jayawickrama Perera accepted her responsibilities in the Kadugambola constituency in Kurunegala in 1973 amidst fierce opposition of her mother and wife.. Dudley Senanayake and J and R. Jayawardena, the then leader of the opposition, was fortunate to get into politics, dealing with the protests.
-
-...
-
-[Data](articles/1e91e667.json)
-
-[Extended Data](ext_articles/1e91e667.ext.json)
-
----
-
-### Minister Harin Fernando should be sentenced to death - Udaya Kammanpila
-
-*2024-02-20 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176808) · `ta`
-
-The comment made by Minister Harin Fernando as a part of India is a violation of the independence of the sovereignty of the country.
-
-He was speaking at a media briefing held at the Bividula Hela Urumaya (JHU) office in Colombo on Monday (19).
-
-The government's reports indicate the negative trend of the economy. In the report released by the report on the economic situation of 2013, the export income is $ 14.49 billion.Despite the year, exports have declined by 2023.
-
-Various factors are influenced by the decline of export economy in the year 2022. The government has not taken appropriate measures to improve small and medium -sized industries affected by the Govt..
-
-Foreign loans cannot be repaid. The country has officially announced that the bank has become a bankruptcy and will be completed two years. However, the issue of debt renovation has not yet been completed..
-
-If the debt renovation work is completed, it will be impossible to pay $ 3 billion annually.Don't do.
-
-...
-
-[Data](articles/5e994039.json)
-
-[Extended Data](ext_articles/5e994039.ext.json)
-
----
-
-### G.L. to back Sajith at Presidentials
-
-*2024-02-20 01:50:06* · [`dailyftlk`](https://www.ft.lk/news/G-L-to-back-Sajith-at-Presidentials/56-758662) · `en`
-
-Says failure to hold Presidential election this year would render Govt. illegitimate after 18 November
-
-Claims abolishment of Executive Presidency is Govt.’s final attempt to halt Presidential polls
-
-Stresses people are eagerly awaiting a poll to remove current Govt. from power
-
-Notes ECSL is obligated to announce Presidential election by July or August
-
-Freedom People’s Congress (FPC) member and independent MP Prof. G.L Peiris yesterday publicly announced his endorsement of Samagi Jana Balawegaya (SJB) leader Sajith Premadasa’s candidacy in the upcoming Presidential election, along with several other independent MPs.
-
-...
-
-[Data](articles/355136ca.json)
-
-[Extended Data](ext_articles/355136ca.ext.json)
-
----
-
-### SJB rift : SF receives court protection from suspension
-
-*2024-02-20 01:49:13* · [`dailyftlk`](https://www.ft.lk/news/SJB-rift-SF-receives-court-protection-from-suspension/56-758661) · `en`
-
-The Colombo District Court yesterday issued an injunction order against the Samagi Jana Balawegaya (SJB) party leadership, preventing them from suspending party Chairman Field Marshal Sarath Fonseka from the SJB and removing him from the post.
-
-The order was issued by Colombo District Judge Sandun Withana, against SJB leader Sajith Premadasa, party General Secretary Ranjith Madduma Bandara, Treasurer Dr. Harsha de Silva and National Organiser Tissa Attanayake in consideration of a petition filed by Fonseka.
-
-The order will be in effect for a period of 14 days, during which the party will be prohibited from expelling Fonseka from the SJB, initiating disciplinary measures against him, or dismissing him from any positions within the party.
-
-Representing the petitioner Faiszer Musthapha, PC informed the court that recent media reports suggest the SJB intends to initiate disciplinary action against Fonseka for his remarks regarding former Army Commander General Daya Ratnayake joining the party.
-
-...
-
-[Data](articles/6d927225.json)
-
-[Extended Data](ext_articles/6d927225.ext.json)
 
 ---

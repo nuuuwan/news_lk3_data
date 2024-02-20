@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 07:30:10**
+As of **2024-02-20 07:52:18**
 
 ## Newspaper Stats
 
-*Scraped **8,126** Articles*
+*Scraped **8,134** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 88
+colombotelegraphcom | 90
 bbccomsinhala | 101
 dbsjeyarajcom | 154
 newsfirstlk | 363
@@ -16,21 +16,43 @@ economynextcom | 419
 islandlk | 422
 dailyftlk | 443
 adalk | 693
-tamilmirrorlk | 985
+tamilmirrorlk | 987
 adaderanalk | 988
 virakesarilk | 1,091
-adaderanasinhalalk | 1,181
-dailymirrorlk | 1,198
+adaderanasinhalalk | 1,183
+dailymirrorlk | 1,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,126 (100.0%) of 8,126 articles have been extended.
+8,134 (100.0%) of 8,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### Iranian Foreign Minister arrives in Sri Lanka
+
+*2024-02-20 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193597) · `si`
+
+Minister of Iranian Foreign Minister Dr. Hogu AmirHeman has arrived in the island on a three-day official visit.
+
+The Derana Airport reporter said that the Iranian Foreign Minister and 20 people were returning to the island yesterday (19).
+
+The group was admitted to the island by a special plane from the Thaheran capital of Iran.
+
+The Iranian Foreign Minister who arrived in the island on the invitation of the External Affairs Minister Ali Sabri has been staying in Sri Lanka until the 21st.
+
+President Ranil Wickremesinghe is scheduled to hold bilateral discussions with Prime Minister Ali Sabri with Prime Minister Ali Sabri with Prime Minister Ali Sabri, with his visit.
+
+◼️
+
+[Data](articles/f3fada0f.json)
+
+[Extended Data](ext_articles/f3fada0f.ext.json)
+
+---
 
 ### Suspected drug trafficker injured in shooting at Borella
 
@@ -43,6 +65,48 @@ A 38-year-old person, said to be involved in drug dealings and recently released
 [Data](articles/5bfa172b.json)
 
 [Extended Data](ext_articles/5bfa172b.ext.json)
+
+---
+
+### Shooting in Borella
+
+*2024-02-20 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193596) · `si`
+
+Borella Magazine Prison has been shot near apartment complex.
+
+The shooting had been admitted to the Colombo National Hospital for treatment of the shooting yesterday (19).
+
+The shooting was carried out by a motorbike in front of the Luxury Apartment Complex at Borella, Borella.
+
+The 38-year-old apartment complex is a 38-year-old housing complex.
+
+Preliminary investigations have revealed that the injured person was associated with drug trafficking and he was remanded a few days ago.
+
+The suspects have not been identified yet and the Borella Police are conducting further investigations.
+
+◼️
+
+[Data](articles/a4052daf.json)
+
+[Extended Data](ext_articles/a4052daf.ext.json)
+
+---
+
+### Rise in Russian tourists engaging in prostitution sparks concerns
+
+*2024-02-20 06:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Rise-in-Russian-tourists-engaging-in-prostitution-sparks-concerns/155-277376) · `en`
+
+Colombo, Feb 20 (Daily Mirror) - In the wake of an influx of tourists particularly from Russia following the implementation of a visa-free entry programme, concerns have been raised regarding the involvement of some Russian female tourists, engaging in illegal activities such as prostitution during their stay in Sri Lanka, the Daily Mirror learns.
+
+In recent months, Sri Lanka has seen a surge in international visitors, particularly from countries like India, China and Russia following the implementation of a visa-free entry programme.
+
+Sri Lanka's decision to implement a visa-free entry programme for visitors from seven countries, including Russia, is aimed at revitalizing the tourism industry which suffered a severe setback following the Easter Sunday attacks, the COVID-19 pandemic and the political crisis last year. However, concerns have now been raised regarding the oversight of individuals exploiting this programme for illicit purposes.
+
+...
+
+[Data](articles/75e641bf.json)
+
+[Extended Data](ext_articles/75e641bf.ext.json)
 
 ---
 
@@ -67,6 +131,26 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/29dd46c0.json)
 
 [Extended Data](ext_articles/29dd46c0.ext.json)
+
+---
+
+### Students meet with the president
+
+*2024-02-20 04:21:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-ஜனாதிபதியுடன்-சந்திப்பு/175-333487) · `ta`
+
+The first session of the Student Parliament of the Kadawatha Mahamaiah College of Women was held at the Presidential Office yesterday.
+
+Following this, the students had the opportunity to hold a meeting with President Ranil Wickremesinghe.
+
+At the time of the Cabinet meeting held at the Presidential Office, the President took the students there and explained to them what the cabinet is, its structure and functioning.
+
+A special feature is that the school students have the opportunity to discuss the first time with the president who heads the main place where the country's major decisions are taken.. (A)
+
+◼️
+
+[Data](articles/dfc416ea.json)
+
+[Extended Data](ext_articles/dfc416ea.ext.json)
 
 ---
 
@@ -359,6 +443,22 @@ Leading industrial solutions provider, Hayleys Aventura, in partnership with glo
 [Data](articles/d35e6e81.json)
 
 [Extended Data](ext_articles/d35e6e81.ext.json)
+
+---
+
+### Tailoring Our Needs To Match International Legal Requirements
+
+*2024-02-20 01:43:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tailoring-our-needs-to-match-international-legal-requirements/) · `en`
+
+Two recent developments at International level, that should concern us, are the “UN Law of the Sea Convention” and “The Carbon Credits Scheme”.
+
+Both of these initiatives promise much that match our own priority needs and plans. It is imperative that we evolve ways to profit maximally, by integrating our needs with the opportunities on offer. To achieve this, it is justifiable to even create a separate body, that is  charged solely with evolving means of profiting from these initiatives.
+
+...
+
+[Data](articles/aa398acf.json)
+
+[Extended Data](ext_articles/aa398acf.ext.json)
 
 ---
 
@@ -935,6 +1035,30 @@ Workmen attending to repairs to the railway lines of the Ragama railway station,
 [Data](articles/5c438f47.json)
 
 [Extended Data](ext_articles/5c438f47.ext.json)
+
+---
+
+### The person who suffered from abdominal pain
+
+*2024-02-19 20:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயிற்று-வலியால்-அவதிப்பட்டவர்-தன்னுயிரை-மாய்த்தார்/175-333471) · `ta`
+
+The Irakalai police have recovered a body of a man today (19) after being hanged in the house of the Irakalai police division.
+
+The body of the body has been identified as the father of three children (61), Ponnaya Nageswaran.
+
+He had been suffering from abdominal pain for a long time and returned home with his eldest son this morning (19) and returned home and died in a rope in his house.
+
+At the same time, the death of his younger son is engaged next month.
+
+The police are conducting investigations into whether the deceased was in the throes.
+
+The body will be taken to the Nuwara Eliya District Hospital for autopsy following the death of a court judge.. Remble
+
+◼️
+
+[Data](articles/15452807.json)
+
+[Extended Data](ext_articles/15452807.ext.json)
 
 ---
 
@@ -1690,6 +1814,30 @@ The Kotakethana area became notorious for a series of mysterious killings and du
 
 ---
 
+### Gallows for Kotakethana ‘Serial Killer’
+
+*2024-02-19 16:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gallows-for-Kotakethana-Serial-Killer/108-277327) · `en`
+
+Ratnapura High Court judge Lanka Jayaratne imposed the death sentence on a convict who was indicted for double murder at Kotakethana in Ratnapura.
+
+Prosecuted entirely based on DNA evidence by Senior Deputy Solicitor General (SDSG) Lakmali Karunanayake, court found accused Neil Lakshman guilty of the murder of a mother and daughter in Kotakethana in 2012.
+
+The accused was indicted for raping the daughter and committing the double murder. According to the evidence the house where the murders were committed was set on fire to destroy all evidence.
+
+The Kotakethana area became notorious for a series of mysterious killings and during the trial it transpired that the multiple murder was also connected to the first ever ‘serial killer’ reported in Sri Lanka.
+
+The victims had been brutally killed, attacking them on their heads with a sharp weapon.
+
+Considering the seriousness of the offence, the Attorney General had filed a direct indictment without a non-summary proceeding.
+
+...
+
+[Data](articles/ba9441f0.json)
+
+[Extended Data](ext_articles/ba9441f0.ext.json)
+
+---
+
 ### Gallows for Kotakethana double murderer
 
 *2024-02-19 16:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Gallows-for-Kotakethana-double-murderer/155-277327) · `en`
@@ -1919,147 +2067,5 @@ Sumitraarachchi alleged that certain employees of the department take the law in
 [Data](articles/5a43737a.json)
 
 [Extended Data](ext_articles/5a43737a.ext.json)
-
----
-
-### A 10 -year -old girl murdered in Mannar;Explanatory for the suspect
-
-*2024-02-19 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176772) · `ta`
-
-The Mannar Magistrate on Monday (19) afternoon, a man who was arrested in connection with the murder of a 10 -year -old girl in Urmannar, Urmannar, Mannar, has been arrested until the 29th of this month.
-
-A 10 -year -old girl was found dead on the morning of the 16th of this morning in the village of Talaimannar.
-
-A 52 -year -old suspect from Kuchchaveli, Trincomalee has been arrested in connection with the incident.
-
-The suspect was detained by the police for 48 hours on the orders of the police.
-
-The suspect was produced before the Mannar Court today (19) by the police.
-
-The Mannar Magistrate, who conducted the investigation, ordered the suspect to be remanded until the 29th of this month.
-
-◼️
-
-[Data](articles/db031c3b.json)
-
-[Extended Data](ext_articles/db031c3b.ext.json)
-
----
-
-### Tense situation near Dambulla International Cricket Stadium
-
-*2024-02-19 15:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tense-situation-near-Dambulla-International-Cricket-Stadium/108-277323) · `en`
-
-Dambulla, Feb 19 (Daily Mirror) - A tense situation has been reported near the Dambulla International Cricket Stadium as cricket enthusiasts thronged the stadium seeking tickets for the highly-anticipated match between Sri Lanka and Afghanistan this evening.
-
-The video footage shows individuals attempting to forcibly enter the stadium.
-
-However, Sri Lanka Cricket (SLC) announced that all tickets for today’s match and the subsequent game have been completely sold out.
-
-◼️
-
-[Data](articles/dbc86d4c.json)
-
-[Extended Data](ext_articles/dbc86d4c.ext.json)
-
----
-
-### Removal of Provincial Council
-
-*2024-02-19 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176771) · `ta`
-
-The Launnayakaya organization has said that all the candidates contesting the presidential election will be presented to the proposal to eliminate the provincial council.
-
-The request was made by a organization led by Basanta Yapa Abayawardena, son of Southern Provincial Governor Lakshman Yapa Abayawardena.
-
-The organization Langogaya has proposed the idea of abolishing the provincial council system and creating the district councils.
-
-We have called for the removal of all the candidates contesting the presidential election this time, saying that the Pasanda Yapa Abhayavardhana district councils should be strengthened.
-
-He said that the appointment of district ministers would be able to expedite the development of the districts.
-
-Provincial Councils have wasted white elephants from 1988 to 7000 billion.
-
-There is no need to continue the provincial councils, no one in the North has voiced the provincial councils, he said.
-
-...
-
-[Data](articles/770abc72.json)
-
-[Extended Data](ext_articles/770abc72.ext.json)
-
----
-
-### CT Scanner to dry at the container yard of the airport
-
-*2024-02-19 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193581) · `si`
-
-The Government Radiology Technicians Association says that the imported CT is kept in the Katunayake airport for more than two months and the Ministry of Health has not taken any steps to release it.
-
-The machine was brought to Sri Lanka on the 16th of December.
-
-Chairka Dharmawickrema says that such machines should be stored in a particular temperature and humidity, but the manifestation union warehouse is currently in the airports.
-
-He said that in the face of such a situation, the good operation of the machine could be affected.
-
-Also, nearly Rs.
-
-The CT at Matara General Hospital is 18 years old, only a limited number of tests are available with collapses.
-
-The only CT testing facility in the Matara district has the same machine to be taken to the Matara General Hospital.
-
-◼️
-
-[Data](articles/efa9d455.json)
-
-[Extended Data](ext_articles/efa9d455.ext.json)
-
----
-
-### Yall. Accident in Allaipitti;Death
-
-*2024-02-19 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/176770) · `ta`
-
-The deceased is Dhanasari (age 46), who belongs to the Mankumban 4th area.
-
-The driver of the woman who was trying to get on the bus, slipped off the bus.
-
-◼️
-
-[Data](articles/b92d0598.json)
-
-[Extended Data](ext_articles/b92d0598.ext.json)
-
----
-
-### The president's promise
-
-*2024-02-19 15:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மக்களுக்கு-ஜனாதிபதி-வழங்கிய-வாக்குறுதி/175-333451) · `ta`
-
-President Ranil Wickremesinghe said the government is dedicated to upholding the economic and social rights of the upcountry Tamil people that contribute to the economy of the country.
-
-The President also stated that proposals on the implementation of a program will be put forward in the next month.
-
-The fourth phase of the Bharat-Sri Lanka Housing Scheme, which will construct 10,000 houses for plantation people under the allocation of the Government of India, was launched today (19) through online technology.
-
-◼️
-
-[Data](articles/9a04e9c8.json)
-
-[Extended Data](ext_articles/9a04e9c8.ext.json)
-
----
-
-### Kotagethana Double Murder: `Chain Killer
-
-*2024-02-19 15:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொட்டகெத்தன-இரட்டைக்-கொலை-செயின்-கில்லர்-க்கு-மரண-தண்டனை/76-333450) · `ta`
-
-Ratnapura High Court Judge Lanka Jayaratne on Monday sentenced the death sentence of 'Chain Giller', who was accused of raping his mother and daughter in a double murder in Kottena area in Ratnapura.
-
-◼️
-
-[Data](articles/cd648fb5.json)
-
-[Extended Data](ext_articles/cd648fb5.ext.json)
 
 ---

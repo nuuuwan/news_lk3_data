@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 15:17:19**
+As of **2024-02-20 15:33:07**
 
 ## Newspaper Stats
 
-*Scraped **8,244** Articles*
+*Scraped **8,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,108 @@ islandlk | 434
 dailyftlk | 444
 adalk | 701
 adaderanalk | 999
-tamilmirrorlk | 1,011
+tamilmirrorlk | 1,013
 virakesarilk | 1,113
-adaderanasinhalalk | 1,200
+adaderanasinhalalk | 1,204
 dailymirrorlk | 1,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,244 (100.0%) of 8,244 articles have been extended.
+8,244 (99.9%) of 8,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### ශ්‍රී ලංකා - ඉන්දියා ගිවිසුමක් ගැන ජනපතිගෙන් දැනුම්දීමක්
+
+*2024-02-20 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193618) · `si`
+
+යෝජිත ඉන්දීය - ශ්‍රී ලංකා ආර්ථික හා තාක්ෂණ සහයෝගිතා ගිවිසුමෙහි 13 වන වටයේ සාකච්ඡා 2024-01-08 දින සිට 10 දින දක්වා නවදිල්ලියේදී පවත්වනු ලැබීය.
+
+එහිදී, "භාණ්ඩ වෙළෙඳාම", "පූර්විකාව, සාමාන්‍ය විධිවිධාන හා සාමාන්‍ය ව්‍යතිරේක", "සේවා වෙළෙඳාම", "ප්‍රභවස්ථාන රීති", "රේගු පටිපාටිය හා වෙළෙඳාම පහසුකරණය", "සනීපාරක්ෂාව හා ශාක සනීපාරක්ෂාව පිළිබඳ මිනුම්", "වෙළෙඳාම සඳහා වන තාක්ෂණික බාධක", "වෙළෙඳ විමසුම්" සහ "ආර්ථික හා තාක්ෂණික සහයෝගිතාව" යන අනුකමිටු නවය විසින් සාකච්ඡා පවත්වා තිබුණි.
+
+2024 පෙබරවාරි මස අග භාගයේදී ගැටුම් නිරාකරණය හා අවසන් විධිවිධාන පිළිබඳ අනුකමිටුව නවදිල්ලියේදී අදාළ පරිච්ඡේදය පිළිබඳ සාකච්ඡා පැවැත්වීමට නියමිත බව වාර්තා වෙයි.
+
+එසේම, යෝජිත සහයෝගිතා ගිවිසුමේ 14 වන වටයේ සාකච්ඡා 2024 මාර්තු පළමුවන සතියේ පැවැත්වීමට සැලසුම් කර ඇත.
+
+යෝජිත ඉන්දීය - ශ්‍රී ලංකා ආර්ථික හා තාක්ෂණ සහයෝගිතා ගිවිසුමෙහි වර්තමාන තත්ත්වය සම්බන්ධයෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කැබිනට් මණ්ඩලයට මෙම තොරතුරු ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/d3931f49.json)
+
+---
+
+### එංගලන්ත වීසා ලැබෙන අලුත්ම පිරිස
+
+*2024-02-20 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193617) · `si`
+
+එංගලන්තය විසින් ඉන්දියානු වෘත්තිකයින් 3,000ක් සඳහා වීසා ලබාදීමට තීරණය කර තිබේ.
+
+ඒ අනුව ඔවුන්ට වසර දෙකක කාලයක් සඳහා එංගලන්තය තුළ පදිංචි වීමට, අධ්‍යාපනය ලැබීමට සහ වෘත්තීය කටයුතුවල නිරතවීමට අවස්ථාව ලැබෙනු ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+වයස අවුරුදු 18ත් 30ත් අතර ඉන්දියානුවන් හට ඒ සඳහා අයදුම් කළ හැකි වේ.
+
+◼️
+
+[Data](articles/815f4e76.json)
+
+---
+
+### බන්ධනාගාර තුළට මත්ද්‍රව්‍ය එවන අලුත්ම විදිය
+
+*2024-02-20 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193616) · `si`
+
+මැගසින් හා කොළඹ රිමාන්ඩ් බන්ධනාගාරය තුළ රඳවා සිටි සැකකරුවන් ‍සඳහා මත්ද්‍රව්‍ය ලබාදීමට උත්සාහ කළ කාන්තාවක් ඇතුළු පුද්ගලයින් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බළකායේ නිලධාරීන් විසින් සිදුකළ සෝදිසියකදී සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා පැවසුවේය.
+
+මැගසින් බන්ධනාගාරයේ රඳවා සිටින සැකකරුවෙකු බැලීමට පැමිණි පුද්ගලයෙකු දන්තාලේපයක් තුළ සූක්ෂම ලෙස සඟවා රැගෙන ආ හෙරොයින් මිලිග්‍රෑම් 3,410ක ප්‍රමාණයක් එහිදි සොයාගෙන තිබේ.
+
+ඊට අමතරව කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ රඳවා සිටි සැකකරුවෙකු බැලීමට පැමිණි කාන්තාවක් හා පිරිමි පුද්ගලයෙකු ද දන්තාලේපයක් තුළ සඟවා අයිස් මිලිග්‍රෑම් 3,140ක ප්‍රමාණයක් රැගෙන ඒමේ දී අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
+
+අත්අඩංගුවටගත් සැකකරුවන් සම්බන්ධයෙන් මැගසින් හා කොළඹ රිමාන්ඩ් බන්ධනාගාරය මඟින් විමර්ශනයක් ආරම්භ කර ඇති බව බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා පැවසුවේය.
+
+...
+
+[Data](articles/2671c6c4.json)
+
+---
+
+### පාසල් නිවාසාන්තර ක්‍රීඩා උළෙලට බඹර ප්‍රහාරයක්
+
+*2024-02-20 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193615) · `si`
+
+අද (20) පැවති පාසල් නිවාසාන්තර මලල ක්‍රීඩා උත්සවයක් අතරතුර බඹර ප්‍රහාරයක් එල්ලවී තිබේ.
+
+බඹර ප්‍රහාරයට ලක්වූ සිසු සිසුවියන් 76 දෙනෙක් පස්සර මූලික රෝහලට ඇතුළත් කළ බව දිස්ත්‍රික් වෛද්‍ය නිලධාරි චානක ගන්කන්ද මහතා පැවසීය.
+
+අප වාර්තාකරු සඳහන් කළේ, රෝහලට ඇතුළත් කළ සිසු සිසුවියන් 50 දෙනෙකු ප්‍රතිකාර ලබා රෝහලෙන් පිටව ගොස් ඇති අතර තවත් 26 දෙනෙක් තවදුරටත් ප්‍රතිකාර ලබමින් පසුවෙන බවය.
+
+නිවාසාන්තර ක්‍රීඩා උළෙල පැවැති ක්‍රීඩාංගණයට නුදුරින් පිහිටි කැළෑ ප්‍රදේශයක තිබූ බඹර කූඩුවකට සිසුන් පිරිසක් විසින් එල්ල කරන ලද ගල් ප්‍රහාරයක් නිසා එම බඹරුන් ඇවිස්සී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/5128387f.json)
+
+---
+
+### ஜனாதிபதி வேட்பாளர்: சவாலை ஏற்க தயார்
+
+*2024-02-20 14:29:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-சவாலை-ஏற்க-தயார்/175-333520) · `ta`
+
+ஜனாதிபதி வேட்பாளராக போட்டியிடுமாறு அழைப்பு விடுக்கப்பட்டால், அந்த சவாலை ஏற்றுக் கொள்வதாக  பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்துள்ளார்.
+
+நாட்டின் நெருக்கடிகளைத் தீர்ப்பதற்காக ஜனாதிபதி வேட்பாளராக வேண்டும் என்று கூட்டணி கட்சிகள் கோரிக்கை விடுத்தால் அந்த சவாலை ஏற்க தான் தயார் எனவும் அவர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/7e1da304.json)
+
+---
 
 ### US pushes for UN to support temporary Gaza ceasefire, oppose Rafah assault
 
@@ -769,6 +857,20 @@ The Supreme Court has informed Parliament that most of the provisions of the pro
 [Data](articles/ce9ab5dc.json)
 
 [Extended Data](ext_articles/ce9ab5dc.ext.json)
+
+---
+
+### எத்தனை பேர்ச் என்று‌ கேட்கிறார் மனோ
+
+*2024-02-20 11:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எத்தனை-பேர்ச்-என்று-கேட்கிறார்-மனோ/175-333507) · `ta`
+
+2017 ஆம் ஆண்டு, எமது ஆட்சியின் போது மலையகத்துக்கு எமது அரசாங்கத்தால் அழைத்து வரப்பட்ட இந்திய பிரதமர் நரேந்திர மோடி, பெருந்தோட்டங்களில் கட்டப்படும் இந்திய வீடமைப்பு திட்ட வீடுகளின் தொகையை மேலும் 10,000 த்தால் அதிகரிப்பதாக அறிவித்தார். எமது ஆட்சி 2019 இல் முடிவுக்கு வந்ததால், எம்மால் அதை தொடர முடியவில்லை. இன்று அந்த வீடமைப்பு திட்டம் மீண்டும் ஆரம்பிக்கப்படுவதை அறிந்து, அதை வாழ்த்தி வரவேற்கின்றோம் என தமிழ் முற்போக்கு கூட்டணி தலைவரும், கொழும்பு மாவட்ட நாடாளுமன்ற உறுப்பினருமான மனோ கணேசன் கூறியுள்ளார்.
+
+பெருந்தோட்டங்களில் கட்டப்படும் வீடமைப்பு திட்ட வீடுகளின் காணி விஸ்தீரணம், எமது ஆட்சியில் 7 பேர்ச் என அமைச்சரவை பத்திரம் மூலம் உறுதி செய்யப்பட்டது. 2019ம் ஆண்டு ஆட்சி பொறுப்பை ஏற்ற, இந்த அரசாங்கம் 20 பேர்ச்சில் பெருந்தோட்டங்களில் வீடு கட்டி தருவதாக கூறியது. பின்னர் கடந்த வரவு செலவு திட்டத்தின் போது 10 பேர்சில் பெருந்தோட்டங்களில் வீடமைப்பு என்று கூறியது.
+
+...
+
+[Data](articles/b591a17a.json)
 
 ---
 
@@ -1925,127 +2027,5 @@ The suspects have not been identified yet and the Borella Police are conducting 
 [Data](articles/a4052daf.json)
 
 [Extended Data](ext_articles/a4052daf.ext.json)
-
----
-
-### Rise in Russian tourists engaging in prostitution sparks concerns
-
-*2024-02-20 06:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Rise-in-Russian-tourists-engaging-in-prostitution-sparks-concerns/155-277376) · `en`
-
-Colombo, Feb 20 (Daily Mirror) - In the wake of an influx of tourists particularly from Russia following the implementation of a visa-free entry programme, concerns have been raised regarding the involvement of some Russian female tourists, engaging in illegal activities such as prostitution during their stay in Sri Lanka, the Daily Mirror learns.
-
-In recent months, Sri Lanka has seen a surge in international visitors, particularly from countries like India, China and Russia following the implementation of a visa-free entry programme.
-
-Sri Lanka's decision to implement a visa-free entry programme for visitors from seven countries, including Russia, is aimed at revitalizing the tourism industry which suffered a severe setback following the Easter Sunday attacks, the COVID-19 pandemic and the political crisis last year. However, concerns have now been raised regarding the oversight of individuals exploiting this programme for illicit purposes.
-
-...
-
-[Data](articles/75e641bf.json)
-
-[Extended Data](ext_articles/75e641bf.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-02-20 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193595) · `si`
-
-The Department of Meteorology says that there may be a few showers in the morning in the Eastern and Uva provinces.
-
-The department states that showers or thundershowers will occur at a few night in the Sabaragamuwa Province and in the Galle and Matara districts.
-
-There is also a prevailing weather in other areas.
-
-From the East, North-Central, Uva, Uva, Uva, Uva, Uva and Eastern Provinces, in the North, North, South and Eastern Provinces.. The Department of Meteorology announces that strict winds can occur.
-
-In some places in the Western and Sabaragamuwa provinces, some places are expected to be found in a morning.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/29dd46c0.json)
-
-[Extended Data](ext_articles/29dd46c0.ext.json)
-
----
-
-### The Department of Education is digital
-
-*2024-02-20 04:34:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வித்துறை-டிஜிட்டல்-மயமாகும்/175-333488) · `ta`
-
-Education Minister Dr. Susil Premajayant said that the pioneering program for digitalization of the education sector has been launched in March.
-
-He was speaking at a press conference held at the Presidential Media Center yesterday.
-
-Arrangements have been made to launch a pioneering program to digitize the education sector in March. Microsoft supports the teachers for that. (A)
-
-◼️
-
-[Data](articles/85e9af8b.json)
-
-[Extended Data](ext_articles/85e9af8b.ext.json)
-
----
-
-### The plan to digitize the education sector
-
-*2024-02-20 04:34:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வித்துறையை-டிஜிட்டல்-மயமாக்கும்-திட்டம்/175-333488) · `ta`
-
-Education Minister Dr. Susil Premajayant said that the pioneering program for digitalization of the education sector has been launched in March.
-
-He was speaking at a press conference held at the Presidential Media Center yesterday.
-
-Arrangements have been made to launch the pioneering program to digitize the education sector in March. Microsoft supports the teachers for that. (A)
-
-◼️
-
-[Data](articles/b6865d82.json)
-
-[Extended Data](ext_articles/b6865d82.ext.json)
-
----
-
-### Students meet with the president
-
-*2024-02-20 04:21:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-ஜனாதிபதியுடன்-சந்திப்பு/175-333487) · `ta`
-
-The first session of the Student Parliament of the Kadawatha Mahamaiah College of Women was held at the Presidential Office yesterday.
-
-Following this, the students had the opportunity to hold a meeting with President Ranil Wickremesinghe.
-
-At the time of the Cabinet meeting held at the Presidential Office, the President took the students there and explained to them what the cabinet is, its structure and functioning.
-
-A special feature is that the school students have the opportunity to discuss the first time with the president who heads the main place where the country's major decisions are taken.. (A)
-
-◼️
-
-[Data](articles/dfc416ea.json)
-
-[Extended Data](ext_articles/dfc416ea.ext.json)
-
----
-
-### United Nations Representative Meeting with President
-
-*2024-02-20 03:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-நாடுகளின்-பிரதிநிதி-ஜனாதிபதியுடன்-சந்திப்பு/175-333486) · `ta`
-
-A meeting between President Ranil Wickremesinghe and the Director General of the United Nations Food and Agriculture Organization, Dr. Koo Thongyu, was held yesterday at the Presidential Office.
-
-The Director General praised the program implemented by President Ranil Wickremesinghe for the people of Sri Lanka, facing the economic challenges.
-
-He also congratulated the president's commitment to bring about economic stability in the country through new reforms.
-
-In this case, the Director General promised to provide full support to the Sri Lankan government and the people of the Sri Lankan government.
-
-The Director General of the United Nations Food and Agriculture Organization was briefed by President Ranil Wickremesinghe on the program to build the economy of Sri Lanka.
-
-The President pointed out that agriculture would be the main sector in the rebuilding of Sri Lanka's economy.
-
-...
-
-[Data](articles/470dca45.json)
-
-[Extended Data](ext_articles/470dca45.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 16:17:41**
+As of **2024-02-20 16:33:04**
 
 ## Newspaper Stats
 
-*Scraped **8,263** Articles*
+*Scraped **8,268** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 90
-bbccomsinhala | 102
+bbccomsinhala | 103
 dbsjeyarajcom | 156
 newsfirstlk | 363
 economynextcom | 421
@@ -17,46 +17,114 @@ islandlk | 434
 dailyftlk | 444
 adalk | 705
 adaderanalk | 999
-tamilmirrorlk | 1,013
+tamilmirrorlk | 1,014
 virakesarilk | 1,116
-adaderanasinhalalk | 1,205
-dailymirrorlk | 1,215
+adaderanasinhalalk | 1,206
+dailymirrorlk | 1,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,258 (99.9%) of 8,263 articles have been extended.
+8,263 (99.9%) of 8,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### கோட்டாபய ராஜபக்க்ஷவின் பிரத்தியேக செயலாளர் பதவி விலகினார்!
+### சிறுமி துஷ்பிரயோகம் ;  10 வருட சிறைத்தண்டனை
+
+*2024-02-20 16:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமி-துஷ்பிரயோகம்-10-வருட-சிறைத்தண்டனை/76-333528) · `ta`
+
+அக்கரப்பத்தனை- பொலிஸ் பிரிவுக்குட்பட்ட கிலாஸ்கோ தோட்டத்தில் இயங்கிய பிரஜா சக்தி நிலையத்தில் கடமையாற்றிய நபர் ஒருவருக்கு  10 வருட கடூழிய சிறைத்தண்டனை விதித்து நுவரெலியா மேல் நீதிமன்ற நீதவான் விராஜ் வீரசூரிய செவ்வாய்க்கிழமை (20)  தீர்ப்பு வழங்கியுள்ளார்.
+
+கடந்த 06.07.2017 ஆம் ஆண்டு அக்கரப்பத்தனை- கிலாஸ்கோ தோட்டத்தில் இயங்கிய பிரஜா சக்தி நிலையத்தில் கடமையாற்றிய குறித்த நபர், அக்காலப்பகுதியில் பிரஜா சக்தி நிலையத்தில் கல்வி கற்க வந்திருந்த 18 வயதுக்கும் குறைவான சிறுமியை பாலியல் துஷ்பிரயோகம் செய்ததாக நபர் மீது குற்றம் சுமத்தப்பட்டிருந்தது.
+
+இவர் மீதான வழக்கு விசாரணைகள் தொடர்ச்சியாகக் கடந்த ஆறு வருடங்கள் முன்னெடுக்கப்பட்டு வந்த நிலையில், சாட்சியங்களின் அடிப்படையில் குற்றவாளியாக இனங்காணப்பட்ட இவருக்கு 10 வருடக் கடூழிய சிறைத்தண்டனை வழங்கி (20.02.2024) இன்று தீர்ப்பளிக்கப்பட்டது.
+
+...
+
+[Data](articles/78c1f865.json)
+
+---
+
+### පොලීසියට චන්ඩි පාට් දැමූ චීන කාන්තාව අත්අඩංගුවට
+
+*2024-02-20 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193620) · `si`
+
+වීසා නොමැතිව මෙරට රැදී සිටින චීන කාන්තාවක් සම්බන්ධයෙන් ලැබී ඇති පැමිණිල්ලක් විභාග කිරීමට ගිය පොලිස් නිලධාරීන් දෙදෙනෙකුට පහරදුන්නැයි එම චීන කාන්තාව අද (20) දහවල් අත්අඩංගුවට ගත්බව බේරුවල පොලීසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ බේරුවල මංගල මාවතේ පදිංචි 36 හැවිරිදි චීන කාන්තාවකි.
+
+වලංගු වීසා නොමැතිව චීන කාන්තාවක් බේරුවල මංගල පාරේ නිවසක රැඳී සිටින බවට ලද තොරතුරක් මත පොලිස් නිලධාරීන් දෙදෙනෙකු එම පැමිණිල්ල විභාග කිරීම සඳහා එහි ගොස් ඇති බවත්, එහිදී ඇතිවූ කතාබහක් දුරදිග යාමෙන් එම පහරදීම සිදුව ඇති බවත් පොලීසිය පැවසීය.
+
+පහරකෑමට ලක්වූ පොලිස් නිලධාරීන් දෙදෙනා කළුතර නාගොඩ ශීක්ෂණ රෝහලේ අධිකරණ වෛද්‍ය නිලධාරියා වෙත යොමුකර ඇති බවත් , සැකකාර වීන කාන්තාව කළුතර මහෙස්ත්‍රාත් අධ්කරණයට ඉදිරිපත් කිරීමට නියමිත බවත් පරීක්ෂණ සිදුකරන නිලධාරියෙක් පැවසීය.
+
+◼️
+
+[Data](articles/4266ef89.json)
+
+---
+
+### Mindfulness programme for schoolchildren
+
+*2024-02-20 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Mindfulness-programme-for-schoolchildren/110-277407) · `en`
+
+The Education Ministry today launched the first "Mindfulness" programme for this year for schoolchildren at the Dharmapala Vidyalaya in Pannipitiya with the participation of Education Minister Susil Premajayantha.
+
+By conducting this programme in schools, children will be trained to focus their minds on a single goal.
+
+◼️
+
+[Data](articles/51464a68.json)
+
+---
+
+### Gotabaya’s private secretary resigns
+
+*2024-02-20 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gotabayas-private-secretary-resigns/108-277406) · `en`
+
+Colombo, Feb 20 (Daily Mirror) - Sugishwara Bandara, who served as the private secretary of former President Gotabaya Rajapaksa, has resigned from his position.
+
+He has forwarded the letter to the former President Gotabaya Rajapaksa today (20).
+
+In his letter, he points out that he has decided to resign from his position in anticipation of a new political journey.
+
+◼️
+
+[Data](articles/9253c834.json)
+
+---
+
+### Gotabhaya Rajapakse's exclusive secretary resigns
 
 *2024-02-20 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176878) · `ta`
 
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்க்ஷவின் பிரத்தியேக செயலாளராக கடமையாற்றிய  சுகீஸ்வர பண்டார, தனது இராஜினாமா கடிதத்தை முன்னாள் ஜனாதிபதிக்கு இன்று செவ்வாய்க்கிழமை (20) அனுப்பி வைத்துள்ளார்.
+Sukhiswara Bandara, who served as the exclusive secretary of former President Gotabhaya Rajapakse, has sent his resignation letter to the former President on Tuesday (20).
 
-அக்கடிதத்தில், தன்னை முன்னாள் ஜனாதிபதியின் பிரத்தியேகச் செயலாளராக வைத்திருந்தமைக்கு முதலில் நன்றி தெரிவிப்பதாக  குறிப்பிட்டுள்ளதுடன், அரசியல் ஈடுபடுவதற்காகவே   தனது பதவியை இராஜினாமா செய்வதாகக் குறிப்பிட்டுள்ளார்.
+In the letter, he said he was the first to thank the former president's exclusive secretary and that he would resign from his post to engage in politics.
 
-நாடாளுமன்ற உறுப்பினர் நிமல் லான்சா உள்ளிட்டோரால்  உருவாக்கப்பட்டுள்ள  புதிய கூட்டணியில் தீவிர அரசியலில் ஈடுபடுவதற்காகவே தான் பதவி விலகுவதாகவும் அவர் தெரிவித்துள்ளார்.
+He also said that he was resigning to engage in radical politics in a new alliance formed by MP Nimal Lansa.
 
 ◼️
 
 [Data](articles/98655ae9.json)
 
+[Extended Data](ext_articles/98655ae9.ext.json)
+
 ---
 
-### வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகளது நீதி கோரிய போராட்டம் ஆரம்பம் ; தேரரும் பங்கெடுப்பு!
+### The struggle for justice of the relatives of the missing persons is beginning;The Thera also participated!
 
 *2024-02-20 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176877) · `ta`
 
-தொடர் போராட்டம் ஆரம்பிக்கப்பட்டு 7 ஆண்டுகள் கடந்த நிலையில் நீதி கோரி கிளிநொச்சி மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகளால் ஏற்பாடு செய்யப்பட்ட குறித்த போராட்டம் டிப்போ சந்தி நோக்கி A 9 வீதி ஊடாக பயணிக்க ஆரம்பித்துள்ளது.
+Seven years after the continuous struggle began, the Kilinochchi district has begun traveling through the A 9 road to the depot junction.
 
 ◼️
 
 [Data](articles/5389549b.json)
+
+[Extended Data](ext_articles/5389549b.ext.json)
 
 ---
 
@@ -88,49 +156,61 @@ In the mid-year (2024), Savoy Cinema will be distributed in film "plane love" in
 
 ---
 
-### දන්තාලේපන ඇසුරුමේ සඟවා අයිස් රැගෙන ආ තිදෙනෙක් අත්අඩංගුවට
+### Three arrested for dentating ice
 
 *2024-02-20 15:35:00* · [`adalk`](https://www.ada.lk/breaking_news/දන්තාලේපන-ඇසුරුමේ-සඟවා-අයිස්-රැගෙන-ආ-තිදෙනෙක්-අත්අඩංගුවට/11-408196) · `si`
 
-දන්තාලේප ඇසුරුම් තුළ අයිස් මත්ද්‍රව්‍ය  අසුරා ‍  මැගසින් හා කොළඹ රිමාන්ඩ් බන්ධනාගාරවල රැඳවියන්ට ලබාදීම සඳහා රැගෙන ආ අයිස් මත්ද්‍රව්‍ය පැකට 7 ක් සමග කාන්තාවක් තුළ සැකකරුවන් තිදෙනකු අත්අඩංගුවට ගැනීමට බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බලකායේ නිලධාරීන්ට හැකි වී ඇත
+Prison emergency bickens have been able to arrest the three suspects with 7 ice drugs in the toothpaste packaging in the demons.
 
-එම සැකකරුවන් සමඟ අයිස් මත්ද්‍රව මිලිග්‍රෑම් 6550 ක් සිය භාරයට ගත් බව බන්ධනාගාර ආරක්ෂක ඒකකය පැවසීය.
+6550 milligrams of ice with the suspects were taken into custody.
 
-දන්තාලේපන ඇසුරුමේ තිබූ සියලු දත් බෙහෙත් බහලුමෙන් පිටතට ගෙන සූක්ෂම අයුරින් අයිස් මත්ද්‍රව්‍ය කුඩා පැකට් සකසා එම බහලුම් තුළට යොමු කොට ඊට උඩින් දන්තාලේපනය පුරවා කිසිවකුට සැක නොසිතෙන අයුරින් අත්අඩංගුවට පත් කාන්තාව සහ පිරිමි පුද්ගලයින් දෙදෙනා විසින් රැගෙනවිත් තිබූ බවත් බන්ධනාගාර හදිසි ප්‍රතිචාර ඒකකය පවසයි.
+The woman and two men were arrested by the two men and the two men who were in the dentatic packaging of the toothpick packaging were carried out in the prescription.
 
-බන්ධනාගාර හදිසි ප්‍රතිචාර හා උපක්‍රමික බලකායේ නිලධාරීන් විසින් රැඳවියන් බැලීමට එන අමුත්තන් පරීක්ෂා කිරීම සඳහා යොදා ඇති වෙස්ලි මුරපොළ නැමැති ස්ථානයේදී පරීක්ෂා කිරීම් කටයුතු සිදුකිරීමේදී මෙම මත්ද්‍රව්‍ය සොයා ගැනීමට හැකිවූ බන්ධනාගාර ආරක්ෂක ඒකකයේ නිලධාරීන් පවසයි.
+Prison Emergency Response and Strategic Officers have been found in the Vesiel Checkpoint, which was used to check the visitors to visit the inmates, said the prison security unit.
 
-...
+The suspects and women who had come to view visitors were revealed in the premises of the Magazine Prison and the Remand Prison.
+
+The suspect woman in Wattala, Hendala, and one male is a resident of the Mattakkuliya area in Matha Uyana, VI of Pargreek Road, Modara.
+
+The suspected woman and women who were arrested with ice drugs and the two men were handed over to the Borella Police Station.
+
+◼️
 
 [Data](articles/e9a487b7.json)
 
+[Extended Data](ext_articles/e9a487b7.ext.json)
+
 ---
 
-### මියගිය ඇගේ සිරුර දියවන තෙක්ම පුටුවේම තැබුවේ ඇයි?
+### Why was her dead body be placed in the chair until melt?
 
 *2024-02-20 15:10:39* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-ඇගේ-සිරුර-දියවන-තෙක්ම-පුටුවේම-තැබුවේ-ඇයි-/11-408195) · `si`
 
-අහුංගල්ල පොලිස් වසමේ එයගාඩමුල්ල ප්‍රයේශයේ දිංචි පුද්ගලයකු විසින් අසල නිවසක තනිව ජීවත්වූ කාන්තාවන් දින ගනනාවක් නොදුටු බවත් එම නිවස යදසින් දුඟදක් මන බවටත් සඳහන් කරමින් පොළීසියට කරන ලද පැමිණිල්ලකට අනුව අහුංගල්ල පොලිසිය විමර්ශණයක් සිදුකොට ඇත.
+According to a complaint lodged by a delegation, the women who lived in a house was conducted in a house near the Ahungalla police division of the Ahiyagadulla area, the house had been identified.
 
-පොීිය විසින් සිදුකරණලද වැඩිදුර විමර්ශණයකදිී එම නිවසේ පදිංචි කාන්තාව නිවස තුල පුටුවක් මත මියයගාස් සිට ඇති අතර සිරුර දැඩි යලස දියවී ‌ගොස් ඇති බවට නිරීක්ෂණය වී ඇත. එම කාන්තාව වයස අවුරුදු 65ක් වන අතර මහේස්ත්‍රාත් පරීක්ෂණයෙන් අනතුරුව මෘත ශරීරය බලපිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත. මරණය සිදුවූ ආකාරය පිළිබඳ මේවනතෙක් කිසිදු තොරතුරක් ලැබී නොමැති අතර වැඩිදුර විමර්ශන අහංගල්ල පොලීසිය සිදුකරනු ලබයි.
+Investigation by Poly, a resident of the house had died on a chair in the house, and the body was observed that the body was strongly melted. The woman is 65 years old and followed by the body in the morgue of the Balapitiya hospital morgue after the magisterial inquiry. No information about the death of death, Ahangalla police are conducting further investigations.
 
 ◼️
 
 [Data](articles/982ea89d.json)
 
+[Extended Data](ext_articles/982ea89d.ext.json)
+
 ---
 
-### யாழ்.பல்கலை நுண்கலை பீட மாணவர்கள் போராட்டம்
+### Jaffna Pallakalai Fine Arts Faculty Students Struggle
 
 *2024-02-20 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176871) · `ta`
 
-யாழ்ப்பாண பல்கலைக்கழக இராமநாதன் நுண்கலைப் பீட மாணவர்கள் இன்று செவ்வாய்க்கிழமை (20) வகுப்பு பகிஷ்கரிப்பு போராட்டத்தில் ஈடுபட்டனர்.
+Jaffna University Ramanathan Finance Faculty Students staged a class boycott protest on Tuesday (20).
 
-யாழ்ப்பாணப் பல்கலைக்கழ இராமநாதன் நுண்கலைப்பீட இசைத்துறையில் 4ஆம் வருடத்தில் கல்விகற்கவேண்டிய தாம்,  3ஆம் வருட 2ஆம் அரையாண்டில் கற்கிறோம். எனவே தமது  விரிவுரை செயற்பாடுகளை துரிதப்படுத்த வேண்டும் என கோரியே மாணவர்கள் போராட்டத்தில் ஈடுபட்டனர்.
+Jaffna University Ramanathan Fine Arts in the 4th year, we learn in the 3rd year 2nd half year.. So the students demanded that they expedite their lecture activities.
 
 ◼️
 
 [Data](articles/1efa9b47.json)
+
+[Extended Data](ext_articles/1efa9b47.ext.json)
 
 ---
 
@@ -1752,6 +1832,28 @@ The late day of State Minister Sanath Nishantha is to be presented to the late P
 
 ---
 
+### අතුරුදන්වූවන්ගේ ඥාතීන්ගේ විරෝධතාව: ‘දේශීය ක්‍රමවේදයකින් ගැටළුවට විසදුම් ලැබෙන්නේ නෑ’
+
+*2024-02-20 09:27:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g3ymx8vjlo) · `si`
+
+යුද්ධයෙන් අතුරුදන්වූවන්ගේ උතුරු - නැගෙනහිර පළාත් ඥාතීන් පවත්වන අඛණ්ඩ විරෝධතා හා උපවාස මාලාවට වසර හතක් ගතවීම නිමිත්තෙන් අතුරුදන්වූවන් සොයාදෙන ලෙසට ඉල්ලා අතුරුදන්වූවන්ගේ ඥාතීහූ අද (20) කිලිනොච්චිය නගරයේදී විරෝධතා පාගමනක් පැවැත්වූහ.
+
+ඔවුන් කිලිනොච්චිය කන්දසාමි කෝවිල අසළින් පාගමන ආරම්භ කරමින් කිලිනොච්චිය නගරය ඔස්සේ ගමන් කරමින් විරෝධතාව පවත්වනු ලැබීය.
+
+කිලිනොච්චිය, යාපනය, වවුනියාව, මුලතිව් හා මන්නාරම දිස්ත්‍රික්කවල අතුරුදන්වූවන්ගේ ඥාතීන්ගේ සංගම් විසින් විරෝධතාවය පැවැත්වනු ලැබූහ.
+
+යුද්ධයෙන් අතුරුදන්වූවන් සොයාදෙන ලෙසට ඉල්ලීම් කරමින් 2017  පෙබරවාරි මස 20 වැනිදා අතුරුදන්වූවන්ගේ ඥාතීන් විසින් මෙම විරෝධතාවය ආරම්භ කරනු ලැබීය.
+
+විරෝධතාවයට එක්වු කිලිනොච්චිය දිස්ත්‍රික් අතුරුදන්වූවන්ගේ සංගමයේ සභාපති කේ.කනගරංජනි මෙසේ පැවසුවාය. “යුද්දේ කාලයේ අතුරුදන්වු අපේ ඥාතීන් සොයාදෙන ලෙසට ආරම්භ කළ විරෝධතාවයට අදට අවුරුදු හතක් ගතවෙනවා, ඒත් අපිට කිසිදු සාධාරණයක් මේ වෙනකම් ඉටුවෙලා නෑ”
+
+“යුද්ධය ඉවරවෙලා අවුරුදු පහළොවකට වැඩි කාලයක් ගතවෙලා.ඒත් මේ දක්වා පත්වුණු කිසිදු රජයක්  යුද සමයේ අතුරුදන්වූවන් සොයාදීමට කටයුතු කරලා නෑ.”
+
+...
+
+[Data](articles/381913ad.json)
+
+---
+
 ### A man went to fall into a man to pick up Ano
 
 *2024-02-20 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193603) · `si`
@@ -1891,105 +1993,5 @@ Foreign Minister Tharaka Balasuriya and several others were present at the Katun
 [Data](articles/8dd13bde.json)
 
 [Extended Data](ext_articles/8dd13bde.ext.json)
-
----
-
-### Malinga's report breaks down forest
-
-*2024-02-20 08:01:25* · [`adalk`](https://www.ada.lk/breaking_news/මාලිංගගේ-වාර්තාවක්-වනිඳු-බිඳ-දමයි/11-408183) · `si`
-
-At the Twenty20 bowler, T20 captain Wentin Hassaranga accounts for the bowler to Sri Lanka.
-
-It was with two wickets in Sri Lanka with two wickets in the match with Afghanistan yesterday. Fanu has cost 63 Twenty20 matches. However, the report was previously entitled Lasith Malinga in 76 matches.
-
-Twenty is the second place in Twenty20 rapidly, while Rashad Khan, Afghanistan, the Afghanistan's front, spending only 53 matches to pass the shop.
-
-◼️
-
-[Data](articles/f2d30f69.json)
-
-[Extended Data](ext_articles/f2d30f69.ext.json)
-
----
-
-### CEB Engineers open to “progressive” reforms
-
-*2024-02-20 08:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-Engineers-open-to-progressive-reforms/108-277374) · `en`
-
-Reiterate need for power regulator to be aggressive and independent
-
-The resistance to restructuring the state-owned enterprises is a common narrative but the Ceylon Electricity Board Engineers Union (CEBEU) has made it clear that it is not opposed
-
-In contrast to the perception that the unions are always against change, the CEBEU clarified that it is supportive of reforms, provided they are progressive.
-
-The Ceylon Electricity Board (CEB), one of the nation’s highest loss-making state entities, will undergo restructuring to alleviate its burden on the country’s public finances, a significant economic challenge.
-
-“I have to clearly say this CEBEU is not against any reforms. We are ready for unbundling. There are several aspects that need to be revised and amended in the new act. We are looking forward to that,” said CEBEU Joint Secretary Buddhika Wijayawardena, at a thought leadership forum with the industry stakeholders.
-
-...
-
-[Data](articles/c3fca597.json)
-
-[Extended Data](ext_articles/c3fca597.ext.json)
-
----
-
-### Last night shooting at Borelle
-
-*2024-02-20 07:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளையில்-நேற்றிரவு-துப்பாக்கிச்சூடு/175-333491) · `ta`
-
-One person was injured in a shooting last night near the apartment in front of the Borella Makasin Prison, police said.
-
-They said that a motorbike gunman fired a motorcycle in front of the luxury apartment located in Ananda Rajakaruna Mawatha in Borella.
-
-He is reported to have been released on bail a few days ago.
-
-The Borella police have launched further investigations as the suspects have not yet been identified.
-
-◼️
-
-[Data](articles/3081d881.json)
-
-[Extended Data](ext_articles/3081d881.ext.json)
-
----
-
-### Firing
-
-*2024-02-20 07:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளையில்-துப்பாக்கிச்சூடு/175-333491) · `ta`
-
-One person was injured in a shooting last night near the apartment in front of the Borella Makasin Prison and was admitted to the Colombo National Hospital for treatment.
-
-They said that a motorbike gunman fired a motorcycle in front of the luxury apartment located in Ananda Rajakaruna Mawatha in Borella.
-
-He is reported to have been released on bail a few days ago.
-
-Borella police have launched further investigations as the suspects have not yet been identified.
-
-◼️
-
-[Data](articles/cb3b5711.json)
-
-[Extended Data](ext_articles/cb3b5711.ext.json)
-
----
-
-### Another mysterious women's death
-
-*2024-02-20 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193600) · `si`
-
-A woman who was alone living alone in the Eigammulla area in Ahulla has died.
-
-The Ahungalla Police have launched an investigation due to a complaint lodged by the deceased woman.
-
-Accordingly, the woman residing in the house was killed on a chair.
-
-The body has been placed at the morgue of the Balapitiya Hospital following the body.
-
-◼️
-
-[Data](articles/07ee88bf.json)
-
-[Extended Data](ext_articles/07ee88bf.ext.json)
 
 ---

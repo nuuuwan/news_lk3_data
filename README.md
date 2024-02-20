@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 11:52:03**
+As of **2024-02-20 12:02:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,191 (100.0%) of 8,193 articles have been extended.
+8,193 (100.0%) of 8,193 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Wijesekera made this announcement while addressing the Parliament this morning (
 ◼️
 
 [Data](articles/9c7cf46e.json)
+
+[Extended Data](ext_articles/9c7cf46e.ext.json)
 
 ---
 
@@ -79,6 +81,8 @@ UN FAO Director Genera Qu Dongyu arrived in Sri Lanka on 18 February for a three
 ◼️
 
 [Data](articles/cf9bbdea.json)
+
+[Extended Data](ext_articles/cf9bbdea.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 17:33:20**
+As of **2024-02-20 17:53:09**
 
 ## Newspaper Stats
 
-*Scraped **8,280** Articles*
+*Scraped **8,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,139 @@ economynextcom | 421
 islandlk | 434
 dailyftlk | 444
 adalk | 706
-adaderanalk | 1,000
-tamilmirrorlk | 1,018
-virakesarilk | 1,119
-adaderanasinhalalk | 1,208
+adaderanalk | 1,001
+tamilmirrorlk | 1,020
+virakesarilk | 1,120
+adaderanasinhalalk | 1,209
 dailymirrorlk | 1,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,277 (100.0%) of 8,280 articles have been extended.
+8,281 (100.0%) of 8,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ තාවකාලික පැවිදි දිවියට
+### கோட்டாவின் முக்கியஸ்தர் இராஜினாமா
 
-*2024-02-20 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193622) · `si`
+*2024-02-20 17:29:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-முக்கியஸ்தர்-இராஜினாமா/175-333535) · `ta`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතා තාවකාලික පැවිදි භාවය ලබා තිබේ.
+முன்னாள் ஜனாதிபதி  கோட்டாபய ராஜபக்சவின் பிரத்தியேக செயலாளர்   சுகீஸ்வர பண்டார அந்த பதவியை செவ்வாய்க்கிழமை (20) இராஜினாமா செய்தார்.
 
-ගුණතිලක රාජපක්ෂ මහතා මෙලෙස තාවකාලික පැවිදි වීම සඳහා ඉන්දියාව බලා ගොස් තිබුණි.
+தனது இராஜினாமா கடிதத்தை   கோட்டாபய ராஜபக்ஷவிற்கு, செவ்வாய்க்கிழமை (20)  அனுப்பி வைத்துள்ளதாக பண்டார தெரிவித்தார்.
 
-බුදුරජාණන් වහන්සේ ප්‍රථම ධර්ම දේශනාව සිදුකළ ඉසිපතනාරාමයේ මූල ගන්ධකුටි විහාරාධිපති පූජ්‍ය රත්මලේ සුමිත් ආනන්ද හා පූජ්‍ය දෙහිඅත්තකණ්ඩියේ පියනන්ද නායකහිමිවරුන්ගේ උපාධ්‍යායෙන් යුක්තව ආගමික වතාවත් අනුව අද (20) දින පෙරවරුවේ පූජ්‍ය හාරිස්පත්තුවේ ධම්මරතන නමින් පැවිදි භාවයට ඇතුළත්වී තිබේ.
+கோட்டாபய ராஜபக்சவின் கீழ் பணிபுரிந்தபோதும், தவிர்க்க முடியாத காரணங்களாலும், அவர் மீதான மரியாதையாலும் தனிச் செயலாளர் பதவியில் இருந்து விலகத் தீர்மானித்ததாக, முன்னாள் ஜனாதிபதிக்கு பண்டார எழுதியுள்ள கடிதத்தில் குறிப்பிடப்பட்டுள்ளது.
 
-කැනඩාවේ පදිංචි, වෘත්තියෙන් ඉංජිනේරුවකු වන ගුණතිලක රාජපක්ෂ මහතාගේ පුත් සඳකැළුම් රාජපක්ෂ මහතාද පූජ්‍ය අම්පාරේ ධම්මාලෝක නමින් මෙම අවස්ථාවේදීම තාවකාලික පැවිදි භාවයට ඇතුළත් වීමද සිදුවී ඇත.
+தாய் நாட்டிற்கும், அங்கு வாழும் சகோதர மக்களுக்கும் சேவை செய்வதே தனது ஒரே நோக்கம் எனக் கூறும் அவர், வெல்ல முடியாத நாட்டை உருவாக்குவதற்கான புதிய அரசியல் வேலைத்திட்டத்துடன் ஒன்றிணைந்து செயற்படுவதாகவும் குறிப்பிடுகின்றார்.
 
-ගුණතිලක රාජපක්ෂ මහතාගේ බිරිඳ ද මීට කෙටි කලකට පෙර අභාවප්‍රාප්ත වූ අතර පසුගියදා පැවැති මහනුවර සංවර්ධන කමිටු රැස්වීම අවසානයේ හදිසියේ රෝගාතුර වූ ඒ මහතා රෝහල්ගත කිරීමටද පියවර ගැනුණි.
+தாய்நாட்டை பெருமையுடன் மீண்டும் கட்டியெழுப்பக்கூடிய அணியுடன் இணைந்து செயற்படத் தயங்கப் போவதில்லை எனவும் அவர் இந்தக் கடிதத்தில் குறிப்பிட்டுள்ளார்.
 
-...
+◼️
 
-[Data](articles/fa2a515c.json)
+[Data](articles/bea734ad.json)
 
 ---
 
-### மத்ரஸா மாணவனின் மர்ம மரணம் ; சிசிரிவி தொழிநுட்பவியலாளர் உட்பட 4 சந்தேக நபர்கள் கைது
+### North Korean leader one cars with Putin
+
+*2024-02-20 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193623) · `si`
+
+The Russian President Vladimir Putin has donated a luxury car to North Korean leader Kim Jon.
+
+North Korea said that the vehicle produced in Russia.
+
+The car is a Limous car similar to the chair and that the two people is a car to grow friendship between the two countries.
+
+◼️
+
+[Data](articles/b11aa02a.json)
+
+[Extended Data](ext_articles/b11aa02a.ext.json)
+
+---
+
+### இலங்கை அமெரிக்காவின் பிராந்தியமல்ல - அமெரிக்க தூதுவரின் கருத்துக்கு அரசாங்கம் பதில்
+
+*2024-02-20 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176891) · `ta`
+
+இலங்கை அமெரிக்காவின் பிராந்தியமல்ல. இறையாண்மையுடைய சுயாதீனமான எமது நாட்டின் பாராளுமன்றத்துக்கு மாத்திரமே, சட்ட திட்டங்கள் தொடர்பான உரிமையும் காணப்படுகிறது என அரசாங்கம் அமெரிக்க தூதுவருக்கு அரசாங்கம் பதிலளித்துள்ளது.
+
+நிகழ்நிலை காப்பு சட்ட மூலம் தொடர்பில் கவலை வெளியிடுவதாக அமெரிக்க தூதுவர் ஜூலி சங் ஊடகப் பிரதானிகள், ஊடகவியலாளர் மற்றும் சிவில் சமூக அமைப்பினருடனான சந்திப்பில் தெரிவித்திருந்தார்.
+
+இது தொடர்பில் செவ்வாய்கிழமை (20) இடம்பெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் அமைச்சரவை பேச்சாளர் பந்துல குணவர்தன மேற்கண்டவாறு தெரிவித்தார்.
+
+இலங்கை என்பது அமெரிக்காவின் பிராந்தியமல்ல. எமது நாடு இறையாண்மையுடைய சுயாதீன நாடாகும். எனவே எமது நாட்டுக்குள் அரசியலமைப்பு சபையில் நிறைவேற்றப்படும் சட்ட திட்டங்கள் தொடர்பான உரிமை சட்டத்தை தயாரிக்கும் நிறுவனமான பாராளுமன்றத்துக்கே உரியது.
+
+...
+
+[Data](articles/09200891.json)
+
+---
+
+### MP Gunatilleke Rajapakse is temporary
+
+*2024-02-20 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193622) · `si`
+
+The Kandy District MP Gunatilleke Rajapaksa has received temporary monamia from the Sri Lanka General War.
+
+Mr. Gunatilleke Rajapaksa had gone to India to be temporary monastery.
+
+The Chief Incumbent of the Buddha, the Chief Incumbent of the Buddha served in the Chief Incumbent of the Chief Incumbent of the leader of the leader of the leader and Ven.
+
+Sandakaladu Rajapaksa, son of the profession of Canada, was also included in temporary monsoon as Ven. Ampara Dhammaloka.
+
+The wife of Gunatilleke Rajapaksa has passed away shortly ago and the Kandy Development Committee meeting was held at the end of the Kandy Development Committee meeting.
+
+It was decided to meditate and meditate on the occasional treatment of a severe life due to a serious busy mind.
+
+◼️
+
+[Data](articles/fa2a515c.json)
+
+[Extended Data](ext_articles/fa2a515c.ext.json)
+
+---
+
+### Cabinet nod to slash embarkation tax on ferry services between Sri Lanka and India
+
+*2024-02-20 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97413/cabinet-nod-to-slash-embarkation-tax-on-ferry-services-between-sri-lanka-and-india-) · `en`
+
+A proposal to reduce the embarkation tax currently charged from passengers leaving Sri Lanka by passenger vessels and passenger ships has been approved by the Cabinet of Ministers.
+
+As per the relevant proposal submitted by the Minister of Ports, Shipping and Aviation, the embarkation tax imposed on those travelling by passenger vessels is set to reduce be reduced to USD 5, while the fee for those travelling aboard passenger ships is set to be reduced to USD 20.
+
+The Cabinet also approved to grant free baggage allowance up to 60 kg for passengers traveling by passenger vessels.
+
+The proposal was approved by the Cabinet of Ministers in a bid to introduce a low-cost travel and transportation fee system between India and Sri Lanka, upon recognizing that the promotion of maritime passenger transport between the countries could potentially boost Sri Lanka’s tourism industry, the cabinet spokesman said.
+
+...
+
+[Data](articles/87b9d80e.json)
+
+---
+
+### The mysterious death of the Madrasa student;4 suspects arrested, including Sisirvi technician
 
 *2024-02-20 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176893) · `ta`
 
-மாணவனின் மர்ம மரணம் தொடர்பிலான சிசிரிவி காட்சி உள்ளடங்கிய முக்கிய தடயப்பொருட்களை அழித்த குற்றச்சாட்டு அடிப்படையில் சிசிரிவி தொழிநுட்பவியலாளர் உட்பட 4  சந்தேக நபர்களை கல்முனை நீதிமன்ற கட்டளைக்கமைய சாய்ந்தமருது பொலிஸார் கைது செய்துள்ளனர்.
+The Sainthamaruthu police have arrested four suspects, including the Sisiri technician, on the basis of the destruction of the main forecasts involving the Sisirvi scene on the mysterious death of the student.
 
-குறித்த வழக்கு  கடந்த  வியாழக்கிழமை (15)  கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன்  முன்னிலையில் விசாரணைக்கு எடுத்து கொள்ளப்பட்ட நிலையில் மௌலவியின் வேண்டுகோளிற்கமைய சிசிரிவி காணொளிகளை அழித்தவர்களை இனங்கண்டு  கைது செய்து மன்றில்  முன்னிலைப்படுத்துமாறு  பொலிஸாருக்கு கட்டளை பிறப்பிக்கப்பட்டிருந்தது.
+At the request of Moulavi, the police were ordered to arrest and highlight those who destroyed the Video of the Sisirvi videos at the request of Kalmunai Magistrate MSM Samsuddin last Thursday (15).
 
-இதற்கமைய இன்று செவ்வாய்க்கிழமை (20) சாய்ந்தமருது பொலிஸ் நிலையத்திற்கு சிசிரிவி தொழிநுட்பவியலாளர் உள்ளிட்ட 4 பேர் வரவழைக்கப்பட்டு வாக்குமூலம் பெறப்பட்ட நிலையில்  சாய்ந்தமருது பொலிஸ் நிலைய பொறுப்பதிகாரி எஸ்.எல். சம்சுதீன் வழிகாட்டலில் உப பொலிஸ் பரிசோதகர் ரவூப் தலைமையில்  கைது செய்யப்பட்டுள்ளனர்.
+Accordingly, four persons, including Sisirvi Technologist, were summoned to the Sainthamaruthu Police Station on Tuesday (20).. Under the guidance of Samsuddin, the Sub -Inspector of Police Rauf has been arrested.
 
-இவ்வாறு கைது செய்யப்பட்டவர்கள்  அட்டாளைச்சேனை சாய்ந்தமருது பகுதியை சேர்ந்தவர்கள் என்பதுடன்  30,26,22 மற்றும் 23 வயது மதிக்கத்தக்கவர்கள் ஆவர்.
+The arrested persons belonged to the Adalaichenai Sainthamaruthu area and were 30,26,22 and 23 years old.
+
+Steps have been taken to produce four suspects in the Kalmunai Magistrate's Court tomorrow (21).
 
 ...
 
 [Data](articles/5115f562.json)
+
+[Extended Data](ext_articles/5115f562.ext.json)
 
 ---
 
@@ -86,6 +168,20 @@ The President’s Media Division reported that this appointment supplements his 
 
 ---
 
+### சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக  பதவிப்பிரமாணம்
+
+*2024-02-20 16:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-இராஜாங்க-அமைச்சராக-ஜானக-பதவிப்பிரமாணம்/175-333534) · `ta`
+
+சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக வக்கும்புர சற்று முன்னர் ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+
+அவர் ஏற்கனவே மாகாண சபைகள் மற்றும் உள்ளூராட்சி இராஜாங்க அமைச்சராக பதவி வகித்து வரும் நிலையில் அதற்கு மேலதிகமாக தற்போது சுற்றாடல் இராஜாங்க அமைச்சராகவும் பதவிப்பிரமாணம் செய்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/23ffa4b8.json)
+
+---
+
 ### Janaka Wakumbura as Minister of Environment
 
 *2024-02-20 16:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-இராஜாங்க-அமைச்சராக-ஜானக-வக்கும்புர/175-333534) · `ta`
@@ -102,17 +198,19 @@ He has already been sworn in as the Minister of State for Environment and has no
 
 ---
 
-### சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக வக்கும்புர பதவிப்பிரமாணம்
+### Janaka Wakumbura as Minister of Environment
 
 *2024-02-20 16:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-இராஜாங்க-அமைச்சராக-ஜானக-வக்கும்புர-பதவிப்பிரமாணம்/175-333534) · `ta`
 
-சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக வக்கும்புர சற்று முன்னர் ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+President Ranil Wickremesinghe was sworn in as the Minister of Environment in the presence of President Ranil Wickremesinghe at the Presidential Secretariat.
 
-அவர் ஏற்கனவே மாகாண சபைகள் மற்றும் உள்ளூராட்சி இராஜாங்க அமைச்சராக பதவி வகித்து வரும் நிலையில் அதற்கு மேலதிகமாக தற்போது சுற்றாடல் இராஜாங்க அமைச்சராகவும் பதவிப்பிரமாணம் செய்துள்ளமை குறிப்பிடத்தக்கது.
+He has already been sworn in as the Minister of State for Environment and has now been sworn in as provincial councils and local government minister.
 
 ◼️
 
 [Data](articles/8c915e34.json)
+
+[Extended Data](ext_articles/8c915e34.ext.json)
 
 ---
 
@@ -1881,105 +1979,5 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.12 perc
 [Data](articles/7407bfdd.json)
 
 [Extended Data](ext_articles/7407bfdd.ext.json)
-
----
-
-### Sri Lanka set for all-format cricket tour of Bangladesh in March
-
-*2024-02-20 09:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-set-for-all-format-cricket-tour-of-Bangladesh-in-March/108-277380) · `en`
-
-Colombo, Feb 20 (Daily Mirror) - Sri Lanka's men’s cricket team will tour Bangladesh during March–April this year to take part in an all-format tour, Sri Lanka Cricket said.
-
-The tour kicks off with a series of T20I, with the first match scheduled for March 4 at the Sylhet International Cricket Stadium (SICS) in Sylhet. The second and third T20Is on March 6 and 9 will also be at SICS in Sylhet.
-
-Following the T20I series, the first ODI is set to take place on March 13 at the Zahur Ahmed Chowdhury Stadium (ZACS) in Chattogram, followed by the second and third ODIs on March 15 and 18, also at ZACS in Chattogram.
-
-The first Test will be held from March 22 to 26 at SICS in Sylhet, followed by the second Test from March 30 to April 3 at ZACS in Chattogram.
-
-◼️
-
-[Data](articles/7b220f5e.json)
-
-[Extended Data](ext_articles/7b220f5e.ext.json)
-
----
-
-### Here is the Sri Lanka-Bangladesh match schedule
-
-*2024-02-20 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193605) · `si`
-
-Sri Lanka Cricket has announced the match schedule to the Bangladesh competition tour of the Sri Lankan team.
-
-Accordingly, 3 Twenty20 matches and 3 ODIs will be held.
-
-Twenty20 of the tournament will be held on March 4, 6 and 9, and the ODI will be held on March 13, 19 and 18.
-
-The first test match begins on March 22, and the second test match begins on March 30.
-
-The announcement made by SLC on tour visit is:
-
-◼️
-
-[Data](articles/10160056.json)
-
-[Extended Data](ext_articles/10160056.ext.json)
-
----
-
-### Iranian Foreign Affairs Minister arrives
-
-*2024-02-20 09:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-Foreign-Affairs-Minister-arrives/108-277379) · `en`
-
-Colombo, Feb 20 (Daily Mirror) - The Foreign Affairs Minister of Iran, Hossein Amir Abdullahian arrived at the Bandaranaike International Airport (BIA) last night for a three-day official visit.
-
-Twenty high officials of the country were also present with him. They are scheduled to leave Sri Lanka tomorrow (21).
-
-The Foreign Affairs Minister and the delegation arrived at the BIA from the capital of Iran, Tehran, by special flight IRAN 05 belonging to the Iranian government.
-
-He arrived in the country on the invitation of Sri Lankan Foreign Affairs Minister Ali Sabri.
-
-State Minister for Foreign Affairs Tharaka Balasuriya and a group of others were at the Katunayake Airport special guest lounge to welcome the Iranian Foreign Minister and his delegation.
-
-◼️
-
-[Data](articles/ffe28ac4.json)
-
-[Extended Data](ext_articles/ffe28ac4.ext.json)
-
----
-
-### The beginning of the parliamentary session
-
-*2024-02-20 09:35:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-கூட்டத்தொடர்-ஆரம்பம்/175-333496) · `ta`
-
-Parliament will meet for three days this week and the adjournment debate on the proposal on the current situation in the country will be held tomorrow (21).
-
-The debate will be held tomorrow at 10.30 am to 05.30 pm.
-
-The Department of Communications of Parliament has said that the Mosque will be presented tomorrow on behalf of the late Minister of State Sanath Nishantha.
-
-◼️
-
-[Data](articles/329bb4b5.json)
-
-[Extended Data](ext_articles/329bb4b5.ext.json)
-
----
-
-### The beginning of the parliamentary session;Debate tomorrow
-
-*2024-02-20 09:35:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-அமர்வு-ஆரம்பம்-நாளை-விவாதம்/175-333496) · `ta`
-
-Parliament will meet for three days this week and the adjournment debate on the proposal on the current situation in the country will be held tomorrow (21).
-
-The debate will be held tomorrow at 10.30 am to 05.30 pm.
-
-The Department of Communications of Parliament has said that the Mosque will be presented tomorrow on behalf of the late Minister of State Sanath Nishantha.
-
-◼️
-
-[Data](articles/76053200.json)
-
-[Extended Data](ext_articles/76053200.ext.json)
 
 ---

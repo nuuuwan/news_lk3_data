@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 10:51:00**
+As of **2024-02-20 11:02:58**
 
 ## Newspaper Stats
 
-*Scraped **8,182** Articles*
+*Scraped **8,188** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 economynextcom | 419
 islandlk | 434
 dailyftlk | 444
-adalk | 696
+adalk | 697
 adaderanalk | 993
 tamilmirrorlk | 999
 virakesarilk | 1,094
-adaderanasinhalalk | 1,191
-dailymirrorlk | 1,203
+adaderanasinhalalk | 1,193
+dailymirrorlk | 1,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,182 (100.0%) of 8,182 articles have been extended.
+8,184 (100.0%) of 8,188 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### A murder of Grandpass
+
+*2024-02-20 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193607) · `si`
+
+A person has been attacked with a sharp object in the Grandpass police division of the Grandpass police division.
+
+The victim was 19 year old resident of the area.
+
+It has been revealed that the deceased youth is a drug addict and the role in theft.
+
+◼️
+
+[Data](articles/fdf80294.json)
+
+[Extended Data](ext_articles/fdf80294.ext.json)
+
+---
 
 ### Cut the sword on the woman in Jaffna Kopay;Arrest
 
@@ -72,6 +90,22 @@ The first Test match begins on March 22 and the second Test match on March 30.
 
 ---
 
+### Some sections of Anti Terrorism Bill inconsistent with Constitution: Supreme Court
+
+*2024-02-20 10:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-sections-of-Anti-Terrorism-Bill-inconsistent-with-Constitution-Supreme-Court/108-277381) · `en`
+
+Parliament, Feb. 20 (Daily Mirror)- The Supreme Court has informed the Speaker of Parliament that some sections of the proposed Anti Terrorism Bill are inconsistent with the Constitution and should be approved with a special majority and through a referendum.
+
+Accordingly, Deputy Speaker Ajith Rajapaksa announced that Sections 3, 40, 53 and 70 are inconsistent with the Constitution and should be approved by a two thirds majority and through a referendum.
+
+However, the court has further stated that it could be passed by a simple majority if the recommended amendments are accommodated.
+
+◼️
+
+[Data](articles/2d703442.json)
+
+---
+
 ### Why Discrimination to Tamil Journalists: Radha Question
 
 *2024-02-20 10:10:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தமிழ்-ஊடகவியலாளர்களுக்கு-ஏன்-பாகுபாடு-இராதா-கேள்வி/76-333499) · `ta`
@@ -91,6 +125,32 @@ Interrupted Radhakrishnan, Nuwara Eliya Tamil journalists know Sinhala well. But
 [Data](articles/a59390a7.json)
 
 [Extended Data](ext_articles/a59390a7.ext.json)
+
+---
+
+### Supreme Court decision on anti-terrorism
+
+*2024-02-20 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193606) · `si`
+
+The Supreme Court has given the Supreme Court verdict on the anti-terrorism bill.
+
+In Parliament today (20), the Deputy Speaker presented the decision to parliament.
+
+Section 3, 42, 53 and 70, the Constitution follows the Constitution 12 (1) of the Constitution, and should be passed with a special majority in parliament.
+
+However
+
+Section 4 should be amended appropriately according to the Supreme Court decision.
+
+Section 61 (1) The Constitution is courated, and the majority of the majority and a referendum must be approved by. If the Supreme Court decision will be made in the proposed amendment, that perconciliation will leave. Article 72 (2) should be revised in accordance with the Supreme Court decision.
+
+* 75 (3) The 3rd of the Constitution of the Constitution of the Constitution 4 (d) violates the constitution and should be approved by two-thirds majority. If the Supreme Court decision will be made the proposed amendment on the clause, those lies will pass away.
+
+...
+
+[Data](articles/4548f806.json)
+
+[Extended Data](ext_articles/4548f806.ext.json)
 
 ---
 
@@ -176,6 +236,24 @@ Cellondeh also said that the police are in the process of raising awareness abou
 
 ---
 
+### Sri Lanka set for all-format cricket tour of Bangladesh in March
+
+*2024-02-20 09:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-set-for-all-format-cricket-tour-of-Bangladesh-in-March/108-277380) · `en`
+
+Colombo, Feb 20 (Daily Mirror) - Sri Lanka's men’s cricket team will tour Bangladesh during March–April this year to take part in an all-format tour, Sri Lanka Cricket said.
+
+The tour kicks off with a series of T20I, with the first match scheduled for March 4 at the Sylhet International Cricket Stadium (SICS) in Sylhet. The second and third T20Is on March 6 and 9 will also be at SICS in Sylhet.
+
+Following the T20I series, the first ODI is set to take place on March 13 at the Zahur Ahmed Chowdhury Stadium (ZACS) in Chattogram, followed by the second and third ODIs on March 15 and 18, also at ZACS in Chattogram.
+
+The first Test will be held from March 22 to 26 at SICS in Sylhet, followed by the second Test from March 30 to April 3 at ZACS in Chattogram.
+
+◼️
+
+[Data](articles/7b220f5e.json)
+
+---
+
 ### Here is the Sri Lanka-Bangladesh match schedule
 
 *2024-02-20 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193605) · `si`
@@ -195,6 +273,26 @@ The announcement made by SLC on tour visit is:
 [Data](articles/10160056.json)
 
 [Extended Data](ext_articles/10160056.ext.json)
+
+---
+
+### Iranian Foreign Affairs Minister arrives
+
+*2024-02-20 09:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-Foreign-Affairs-Minister-arrives/108-277379) · `en`
+
+Colombo, Feb 20 (Daily Mirror) - The Foreign Affairs Minister of Iran, Hossein Amir Abdullahian arrived at the Bandaranaike International Airport (BIA) last night for a three-day official visit.
+
+Twenty high officials of the country were also present with him. They are scheduled to leave Sri Lanka tomorrow (21).
+
+The Foreign Affairs Minister and the delegation arrived at the BIA from the capital of Iran, Tehran, by special flight IRAN 05 belonging to the Iranian government.
+
+He arrived in the country on the invitation of Sri Lankan Foreign Affairs Minister Ali Sabri.
+
+State Minister for Foreign Affairs Tharaka Balasuriya and a group of others were at the Katunayake Airport special guest lounge to welcome the Iranian Foreign Minister and his delegation.
+
+◼️
+
+[Data](articles/ffe28ac4.json)
 
 ---
 
@@ -405,6 +503,26 @@ According to the President’s Media Division (PMD), plans are in place to final
 [Data](articles/6b033d01.json)
 
 [Extended Data](ext_articles/6b033d01.ext.json)
+
+---
+
+### ඉරාන විදෙස් ඇමති එයි
+
+*2024-02-20 08:10:00* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-විදෙස්-ඇමති-එයි/11-408185) · `si`
+
+ඉරාන විදේශ කටයුතු අමාත්‍ය ආචාර්ය හුසේන් අමීර් අබ්දුල්ලාහියන් මහතා තුන් දින නිල සංචාරයක් සදහා 02/19 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+
+ඔහු සමග දූත පිරිස ලෙස එරට උසස් නිලධාරීන් 20 දෙනෙකු ද පැමිණ සිටි අතර ඔවුන් 02/19 දින සිට 02/21 දින දක්වා ශ්‍රී ලංකාවේ සංචාරය කිරීමට නියමිතය.
+
+ඔවුන් 02/19 දින රාත්‍රී 10.48 ට ඉරාන රජයට අයත් IRAN 05 දරන විශේෂ ගුවන් යානයෙන් , ඉරානයේ ටෙහෙරාන් අගනුවර සිට මෙසේ  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ශ්‍රී ලංකාවේ විදේශ කටයුතු අමාත්‍ය අලි සබ්‍රි මහතාගේ ආරාධනය මත මෙම ඉරාන විදේශ කටයුතු අමාත්‍යවරයා ඇතුළු පිරිස මෙසේ ශ්‍රී ලංකාවේ සංචාරය කිරීම සදහා පැමිණ තිබේ .
+
+ඉරාන විදේශ කටයුතු අමාත්‍යවරයා ඇතුළු පිරිස පිළිගැනීම සදහා විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා ඇතුළු පිරිසක් කටුනායක ගුවන් තොටුපොළ විශේෂ අමුත්තන්ගේ මැදිරිය වෙත පැමිණ සිටියහ.
+
+◼️
+
+[Data](articles/8dd13bde.json)
 
 ---
 
@@ -1933,133 +2051,5 @@ Fr. Fernando made this remark in relation to a protest held by a group claiming 
 [Data](articles/dbfc0942.json)
 
 [Extended Data](ext_articles/dbfc0942.ext.json)
-
----
-
-### PickPckets are bailed
-
-*2024-02-19 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193588) · `si`
-
-Colombo Chief Magistrate Prasanna Alwis ordered that three relatives of the Peliyagoda, Peliyagoda, who was arrested in Maharagama.
-
-The wallet had 16,000 rupees and the three suspects were arrested by the Kurunduwatta Police.
-
-The three suspects were arrested and produced before the court following a complaint lodged by the bird victims.
-
-◼️
-
-[Data](articles/681b55ba.json)
-
-[Extended Data](ext_articles/681b55ba.ext.json)
-
----
-
-### Chameera replaces Atkinson at Kolkata Knight Riders
-
-*2024-02-19 20:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chameera-replaces-Atkinson-at-Kolkata-Knight-Riders/108-277334) · `en`
-
-India, Feb 19, PTI - Kolkata Knight Riders (KKR) on Monday named Sri Lankan Dushmantha Chameera as a replacement for England pacer Gus Atkinson for the 2024 Indian Premier League.
-
-Chameera will join KKR at a reserve price of ₹50 lakh, the IPL organisers said in a statement.
-
-The Sri Lankan speedster was a part of Rajasthan Royals and Royal Challengers Bangalore in the 2018 and 2021 seasons respectively.
-
-He represented Lucknow Super Giants in the 2022 season, where he picked up nine wickets from 12 matches.
-
-Rising star Kashvee Gautam, the most expensive uncapped Indian player in Women's Premier League (WPL), has been ruled out of the second edition owing to an injury.
-
-Gujarat Giants, who had secured the services of Kashvee for ₹2 crore, have named Mumbai's Sayali Sathgare as a replacement at a reserve price of ₹10 lakh.
-
-India all-rounder Kanika Ahuja, too, has been ruled out of WPL 2024 owing to an injury.
-
-◼️
-
-[Data](articles/d831d8fb.json)
-
-[Extended Data](ext_articles/d831d8fb.ext.json)
-
----
-
-### Pioneering Scheme to Digital Education Department begins in March - Minister of Education
-
-*2024-02-19 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176803) · `ta`
-
-Education Minister Dr. Susil Premajayant said that the pioneering program for digitalization of education has been launched in March.
-
-The Minister said that the work of sending school textbooks for 2024 has been completed.
-
-Education Minister Dr Susil Premajayantha made this statement at a press conference held at the Presidential Media Center on Monday (19).
-
-School textbooks for 2024 have been sent for delivery. During the first day of March, distribution work will be completed.
-
-We have received 80%of the cloths required for the uniform of school children under the sponsorship of the Chinese government, ie 05 billion rupees worth of uniforms. They are being distributed.
-
-Also, this year's school schedule is currently being prepared.By the end of this year, arrangements are being made to hold the GCE Advanced Level Examination as planned. The schools will be notified in this regard within the next two to three weeks.
-
-...
-
-[Data](articles/1f5909bf.json)
-
-[Extended Data](ext_articles/1f5909bf.ext.json)
-
----
-
-### CEB urges consumers to use electricity sparingly
-
-*2024-02-19 19:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97393/ceb-urges-consumers-to-use-electricity-sparingly-) · `en`
-
-The Ceylon Electricity Board (CEB) has urged consumers to use electricity sparingly, in light of the recent increase in demand and prevailing dry weather conditions.
-
-Speaking at a special press briefing held on Monday (19 Feb.), CEB spokesman, Deputy General Manager Eng. Noel Priyantha revealed that 46 gigawatt-hours (GWh) of electricity has been consumed for the month of February thus far.
-
-He noted, however, that due to the current arid weather conditions, hydropower generation has been restricted to only 20% capacity.
-
-◼️
-
-[Data](articles/42cad4b6.json)
-
-[Extended Data](ext_articles/42cad4b6.ext.json)
-
----
-
-### Meeting between the United Nations Food and Agriculture Organization
-
-*2024-02-19 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176802) · `ta`
-
-Dr. Ranil Wickremesinghe and Director General of the United Nations Food and Agriculture Organization (UN FAO) Dr.. Qu Dongyu meeting was held on Monday (19) at the Presidential Office.
-
-The Director General of the Director General, who praised the program implemented by President Ranil Wickremesinghe for the people of Sri Lanka, faced the economic challenges and congratulated the President's commitment to the president's commitment to create economic stability in the country through new reforms.
-
-In this case, the Director General promised to provide full support to the Sri Lankan government and the people of the Sri Lankan government.
-
-The Director General of the United Nations Food and Agriculture Organization was briefed by President Ranil Wickremesinghe on the program to build the economy of Sri Lanka.
-
-...
-
-[Data](articles/4dc1c7b6.json)
-
-[Extended Data](ext_articles/4dc1c7b6.ext.json)
-
----
-
-### Sajith to seven Dallas
-
-*2024-02-19 19:33:56* · [`adalk`](https://www.ada.lk/breaking_news/ඩලස්ගේ-හතක්-සජිත්ට/11-408181) · `si`
-
-MP Dilan Perera said that seven members of Members of Parliament representing the People's Council have decided to support the opposition leader Sajith Premadasa in the next presidential election.
-
-The Prime Minister is Sajith Premadasa, if Mr. Dullas Alahapperuma was appointed as the president in 2022, he was appointed as the president of the Parliament.He said.
-
-He said that since then, the general coalition has been discussed with unity and other groups.. The government is currently a 20% vote, the MP said.
-
-But the efforts of these are broken into pieces and that the effort taken to collect all these people have been successful, and there are still a few other members of the masses in the public.He added that the time had been demanded for the decision and that the remaining men would support the reconciliation in the future.
-
-He said that the UPFA had previously been prepared in elections and that they have taken measures to demolish the UPFA.
-
-◼️
-
-[Data](articles/45f2483e.json)
-
-[Extended Data](ext_articles/45f2483e.ext.json)
 
 ---

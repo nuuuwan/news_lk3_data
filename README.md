@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 14:02:44**
+As of **2024-02-20 14:17:38**
 
 ## Newspaper Stats
 
-*Scraped **8,228** Articles*
+*Scraped **8,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,68 @@ adalk | 700
 adaderanalk | 997
 tamilmirrorlk | 1,008
 virakesarilk | 1,108
-adaderanasinhalalk | 1,197
-dailymirrorlk | 1,208
+adaderanasinhalalk | 1,200
+dailymirrorlk | 1,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,228 (100.0%) of 8,228 articles have been extended.
+8,228 (99.9%) of 8,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### Wimal questions Harin’s statement in India
+
+*2024-02-20 13:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wimal-questions-Harins-statement-in-India/108-277401) · `en`
+
+Parliament, Feb. 20 (Daily Mirror)- The government must inform Parliament wether the statement made by Tourism Minister Harin Fernando in India that Sri Lanka was part of India was the government's official stance or his personal opinion, Parliamentarian Wimal Weerawansa said.
+
+He told Parliament that the Minister had stated in India that Sri Lanka was a part of India and the three airports will be given to India.
+
+"The govenment must reveal if the Minister's statement is the official stance of the government or the collective stance of the Cabinet or the Minister's personal opinion. "Can a Minister make such a statement while represnting a country?" he asked.
+
+Chief Government Whip Prasanna Ranatunga said the Cabinet had not discussed any such matter and said the Minister concerned will make a statement in Parliament.
+
+Minister Manusha Nanayakkara said social media had twisted the Minister's statement and said if someone listens to his full statment, his idea would become clear.
+
+...
+
+[Data](articles/09632e7e.json)
+
+---
+
+### තවත් වෙඩිතැබීමක්
+
+*2024-02-20 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193614) · `si`
+
+ගන්දර, තලල්ල නැගෙනහිර ප්‍රදේශයේදී යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු අද (20) අලුයම නිවසකට වෙඩි තබා තිබේ.
+
+වෙඩි ප්‍රහාරයෙන් නිවසේ වූ ලොරියකට හා නිවසෙහි ජනේලයකට හානි සිදුව ඇති අතර කිසිදු නිවැසියෙකුට තුවාල සිදුව නැත.
+
+◼️
+
+[Data](articles/9f4441b5.json)
+
+---
+
+### Government hints out at further restrictions on vehicle imports
+
+*2024-02-20 13:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-hints-out-at-further-restrictions-on-vehicle-imports/108-277400) · `en`
+
+Parliament, Feb. 20 (Daily Mirror)- State Minister of Finance Ranjith Siyambalapitiya today informed Parliament that the imports of vehicles will be continued.
+
+"We have appointed a committee to look into how we could restrict the vehicles and to determine how many vehicles we need," the State Minister said.
+
+"Sri Lanka has imported only 29 vehicles during the recent past, including 21 double cabs for the Ministry of Health and three ramps for SriLankan Airlines. These ramps are used for airlines," he said.
+
+◼️
+
+[Data](articles/abc68868.json)
+
+---
 
 ### Dr. Bellana says ready to resign if transferred from NHSL
 
@@ -84,6 +134,30 @@ Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellan, said he wa
 
 ---
 
+### වනාතේ බිම්සරට එල්ල වූ වෙඩිල්ල
+
+*2024-02-20 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193613) · `si`
+
+බොරැල්ලේ පිහිටි මහල් නිවාස සංකීර්ණයක් තුළ දී පුද්ගලයෙකුට වෙඩිතබා වෙඩික්කරු පළා යන අයුරු CCTV කැමරාවක සටහන්ව තිබේ.
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවකු හා පාතාල කල්ලි සාමාජිකයෙකු වන බිම්සර ගුණසේකර හෙවත් "වනාතේ බිම්සර" නැමැත්තාට ඊයේ (19) රාත්‍රියේ වෙඩිතබා තිබේ.
+
+බොරැල්ල ආනන්ද රාජකරුණා මාවතේ පිහිටි මහල් නිවාස සංකීර්ණයක් තුළදී ඊයේ රාත්‍රී 10ත් 10.15ත් ආතර කාලය තුළදී වෙඩිතැබීමක් සිදුකර තිබිණි.
+
+මිලිමීටර 9 වර්ගයේ ගිනිඅවියකින් එම වෙඩි තැබීම සිදුකර තිබූ අතර වෙඩික්කරුගේ ඉලක්කය වී තිබුණේ 38 හැවිරිදි "වනාතේ බිම්සර" නැමැත්තාය.
+
+වෙඩිවැදීමෙන් තුවාල ලැබූ වනාතේ බිම්සර නැමැත්තා කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මේ වනවිට එහි දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබයි.
+
+වෙඩිවැදීමෙන් තුවාල ලැබූ වනාතේ බිම්සර ප්‍රධාන පෙළේ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු හා සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු ලෙස ලේඛන ගතවී සිටින අයෙකි.
+
+ඔහු මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් වෙරළබඩ පොලීසිය මඟින් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගතව සිට ඇප ලබා පැමිණ ඇත්තේ පසුගිය 5 වනදාය.
+
+...
+
+[Data](articles/34697f83.json)
+
+---
+
 ### N’Eliya Road Passenger Transport Authority officials arrested for accepting bribe
 
 *2024-02-20 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97406/neliya-road-passenger-transport-authority-officials-arrested-for-accepting-bribe-) · `en`
@@ -97,6 +171,22 @@ Accordingly, the suspects were arrested by the CIABOC for allegedly soliciting a
 [Data](articles/d8b8900e.json)
 
 [Extended Data](ext_articles/d8b8900e.ext.json)
+
+---
+
+### අල්ලස් ගත් නිලධාරින් දෙදෙනෙකුට වැඩ වරදී
+
+*2024-02-20 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193612) · `si`
+
+නුවරඑළිය මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ දිස්ත්‍රික් කළමනාකරු සහ කළමනාකරණ සහකාරවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+එම නිලධාරීන් අද (20) අත්අඩංගුවට ගෙන ඇත්තේ, අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසිනි.
+
+ඔවුන් බස් හිමියෙකුගේ මාර්ග බලපත්‍රයක් වෙනස් කිරීමට රුපියල් 30,000ක අල්ලසක් ලබා ගත් බව කියන සිද්ධියක් සම්බන්ධයෙන් මෙසේ අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/ea1e6b45.json)
 
 ---
 
@@ -1969,97 +2059,5 @@ Representing the petitioner Faiszer Musthapha, PC informed the court that recent
 [Data](articles/6d927225.json)
 
 [Extended Data](ext_articles/6d927225.ext.json)
-
----
-
-### Aitken Spence Logistics opens best-in-class Container Freight Station
-
-*2024-02-20 01:47:48* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-Logistics-opens-best-in-class-Container-Freight-Station/34-758660) · `en`
-
-Move with Rs. 1.5 b investment complementary to the region’s buoyant growth
-
-Aitken Spence Logistics unveils its latest state-of-the-art Container Freight Station (CFS) to facilitate the growing requirements of the supply chain community in the region.
-
-This 100,000 sq. ft. facility, strategically positioned within the main logistics complex in Mabole, Wattala, reflects the company’s commitment to serve the Export-Import community of the region, providing operational excellence, supply chain value creation, and unparalleled service delivery.
-
-The unveiling of this CFS aligns with Aitken Spence Logistics’ long-term strategic capacity expansion plan. It marks a milestone in the company’s journey towards becoming a leader in integrated logistics solutions. The company’s focus on operational excellence is evident in its continuous efforts to provide comprehensive and reliable solutions to its clientele.
-
-...
-
-[Data](articles/f72e2374.json)
-
-[Extended Data](ext_articles/f72e2374.ext.json)
-
----
-
-### Hayleys Aventura and Invertek power greener industries through energy efficiency
-
-*2024-02-20 01:47:01* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Aventura-and-Invertek-power-greener-industries-through-energy-efficiency/34-758659) · `en`
-
-Optidrive Eco VFDs boost Sri Lankan tea production with 40% energy savings
-
-Save 40 to 50% through Optidrive Eco VFDs for both motor and pump applications
-
-Leading industrial solutions provider, Hayleys Aventura, in partnership with global leader Invertek, renowned for cutting-edge drive technology, introduced Optidrive Eco Variable Frequency Drives (VFDs) to enhance energy savings and reduce emissions in manufacturing, agriculture, and hydro-based industries. These VFDs enable clients to control fan motor speeds, minimising energy consumption and carbon dioxide (CO2) emissions throughout the energy supply chain.
-
-...
-
-[Data](articles/d35e6e81.json)
-
-[Extended Data](ext_articles/d35e6e81.ext.json)
-
----
-
-### Tailoring Our Needs To Match International Legal Requirements
-
-*2024-02-20 01:43:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tailoring-our-needs-to-match-international-legal-requirements/) · `en`
-
-Two recent developments at International level, that should concern us, are the “UN Law of the Sea Convention” and “The Carbon Credits Scheme”.
-
-Both of these initiatives promise much that match our own priority needs and plans. It is imperative that we evolve ways to profit maximally, by integrating our needs with the opportunities on offer. To achieve this, it is justifiable to even create a separate body, that is  charged solely with evolving means of profiting from these initiatives.
-
-...
-
-[Data](articles/aa398acf.json)
-
-[Extended Data](ext_articles/aa398acf.ext.json)
-
----
-
-### Relatives of enforced disappearances to hold mass procession in Kilinochchi today
-
-*2024-02-20 01:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Relatives-of-enforced-disappearances-to-hold-mass-procession-in-Kilinochchi-today/108-277342) · `en`
-
-Colombo, Feb 20 (Daily Mirror) - In completion of seven years of truth-seeking agony to learn the whereabouts of their missing kith and kin during the war, the family members of the enforced disappearances are to stage a mass procession in Kilinochchi this morning.
-
-Hundreds of members of the Association for Relatives of the Enforced Disappearances (ARED) from the five branches of the Northern and Eastern Provinces will rally around in Kilinochchi to mark their grievances.
-
-A spokesperson from the ARED told the Daily Mirror the main procession is scheduled to commence from Kandasamy Kovil in Kilinochchi around 9.30 am and to proceed up to the special monument at Depot Junction, within a stretch of four kilometres.
-
-Relatives, especially widowed mothers of the victims of the enforced disappearances ARED from Jaffna, Mullaitivu, Mannar and Vavuniya are also expected to flock to Kilinochchi for the seventh anniversary.
-
-...
-
-[Data](articles/e1b24979.json)
-
-[Extended Data](ext_articles/e1b24979.ext.json)
-
----
-
-### Memories of Interacting with Upali Wijewardene as a Journalist.
-
-*2024-02-20 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83632) · `en`
-
-Today (Feb 17) is the birthday of Sri Lanka’s popular business magnate Philip Upali Wijewardene. If Upali Wijewardene  were among the living now, he would have celebrated his 86th birthday this year.  Alas, this was not to be as the Lear Jet he was travelling in  disappeared on 13 February 1983  just 4 days before his 45th birthday .
-
-It was my privilege to be associated with Upali Wijewardene slightly and briefly during the years 1978 to 1983. As a journalist on the Tamil Daily “Virakesari” I covered the Greater Colombo Economic Commission (GCEC) or “free trade Zone” from 1978 to 1981. Upali was the first Director -General of the GCEC.
-
-Later in 1981 I began working as a staff reporter on the English daily “The Island” published by Upali newspapers Ltd of which he was the proprietor. I was at “The Island” in 1983 when Upali went missing 41 years ago .The Island of Tuesday, February 15 broke the sad news with a banner headline “Plane carrying Upali Wijewardene feared lost.”
-
-...
-
-[Data](articles/665b4fb4.json)
-
-[Extended Data](ext_articles/665b4fb4.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 13:51:45**
+As of **2024-02-20 14:02:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,208
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,225 (100.0%) of 8,228 articles have been extended.
+8,228 (100.0%) of 8,228 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,31 +52,35 @@ On 17 February, the junior staff of the Colombo National Hospital warned that th
 
 ---
 
-### மின்சார கட்டணம் பற்றி எடுக்கப்பட்டுள்ள தீர்மானம்
+### Electricity
 
 *2024-02-20 13:04:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டணம்-பற்றி-எடுக்கப்பட்டுள்ள-தீர்மானம்/175-333515) · `ta`
 
-இதற்கு முன்னர்  குறிப்பிட்ட தொகையை விட அதிகமாக மின்சார கட்டணம் குறைக்கப்படும் என எதிர்பார்க்கப்படுவதாக மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+Electricity and Energy Minister Kanjana Wijesekera said that the electricity bill is expected to be reduced more than the previous amount.
 
-அத்துடன், இது தொடர்பான முன்மொழிவு பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் சமர்ப்பிக்கப்பட்டு அது தொடர்பில் முடிவெடுக்கப்படும் என்றும் அமைச்சர் கூறினார்.
+The Minister also said that the proposal in this regard would be submitted to the Commission and decided on it.
 
 ◼️
 
 [Data](articles/1f9ead78.json)
 
+[Extended Data](ext_articles/1f9ead78.ext.json)
+
 ---
 
-### இடமாற்றம் வழங்கினால் ஓய்வு பெறுவேன்
+### I will retire if relocating
 
 *2024-02-20 13:01:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடமாற்றம்-வழங்கினால்-ஓய்வு-பெறுவேன்/175-333514) · `ta`
 
-தான் எந்த நேரத்திலும் ஓய்வு பெறத் தயார் என கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் டொக்டர் ருக்ஷான் பெல்லான தெரிவித்துள்ளார்.
+Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellan, said he was ready to retire at any time.
 
-“பொதுமக்களின் நலனுக்கான செயற்படுகையில் இவ்வாறான இடையூறுகள் செய்யப்படுகின்றது. ஊழியர்களின் கோரிக்கைக்கு செவிசாய்த்து எனக்கு இடமாற்றம் வழங்கினால் நான் ஒய்வு பெற்றுச் சென்று விடுவேன்” என்றும் அவர் குறிப்பிட்டுள்ளார்.
+“Such disruption is done in the process of the public welfare. If I listen to the demands of the employees and transfer me to me, I will be retired. ”
 
 ◼️
 
 [Data](articles/262f9222.json)
+
+[Extended Data](ext_articles/262f9222.ext.json)
 
 ---
 
@@ -170,19 +174,21 @@ Meanwhile, our official correspondent said that some of the protesters were summ
 
 ---
 
-### பிஸ்கட் கொடுத்தவர் கைது
+### Biscuits arrest
 
 *2024-02-20 12:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிஸ்கட்-கொடுத்தவர்-கைது/175-333512) · `ta`
 
-கொழும்பு விளக்கமறியல்  சிறையிலுள்ள கைதியை பார்வையிடுவதற்காக சென்ற நபரொருவரை பொலிஸார் கைது செய்துள்ளனர்.
+Police have arrested a man who went to visit a prisoner in Colombo.
 
-கைது செய்யப்பட்ட நபர் பிஸ்கட் பக்கட்டில்  புகையிலை துண்டுகளை  மறைத்து வைத்து கைதிக்கு கொடுக்க முயன்றதாக சிறைச்சாலை ஆணையாளர் (ஊடகப் பேச்சாளர்) காமினி பி. திஸாநாயக்க தெரிவித்தார்.
+Prison Commissioner (Media Spokesperson) Gamini B.. Dissanayake said.
 
-இதற்கமைய, கைது செய்யப்பட்ட நபரையும் புகையிலையும் மேலதிக சட்ட நடவடிக்கைகளுக்காக பொரளை பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளதாகவும் மேலதிக விசாரணைகளை மேற்காண்டு வருவதாகவும்  தெரிவிக்கப்பட்டுள்ளது.
+Accordingly, the arrested person and tobacco have been handed over to the Borella police for further legal action and further investigations are underway.
 
 ◼️
 
 [Data](articles/e89bf4f2.json)
+
+[Extended Data](ext_articles/e89bf4f2.ext.json)
 
 ---
 

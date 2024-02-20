@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 16:48:36**
+As of **2024-02-20 17:02:37**
 
 ## Newspaper Stats
 
-*Scraped **8,269** Articles*
+*Scraped **8,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 economynextcom | 421
 islandlk | 434
 dailyftlk | 444
-adalk | 705
-adaderanalk | 999
-tamilmirrorlk | 1,015
-virakesarilk | 1,116
+adalk | 706
+adaderanalk | 1,000
+tamilmirrorlk | 1,017
+virakesarilk | 1,118
 adaderanasinhalalk | 1,206
-dailymirrorlk | 1,217
+dailymirrorlk | 1,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,269 (100.0%) of 8,269 articles have been extended.
+8,269 (99.9%) of 8,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### Janaka Wakkumbura appointed State Minister of Environment
+
+*2024-02-20 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97412/janaka-wakkumbura-appointed-state-minister-of-environment) · `en`
+
+Janaka Wakkumbura has been sworn in as the State Minister of Provincial Councils, Local Government and Environment before President Ranil Wickremesinghe at the Presidential Secretariat in Colombo, a short while ago.
+
+The President’s Media Division reported that this appointment supplements his existing role as the State Minister of Provincial Councils and Local Government.
+
+◼️
+
+[Data](articles/11c33d2a.json)
+
+---
+
+### சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக வக்கும்புர
+
+*2024-02-20 16:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-இராஜாங்க-அமைச்சராக-ஜானக-வக்கும்புர/175-333534) · `ta`
+
+சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக வக்கும்புர சற்று முன்னர் ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+
+அவர் ஏற்கனவே மாகாண சபைகள் மற்றும் உள்ளூராட்சி இராஜாங்க அமைச்சராக பதவி வகித்து வரும் நிலையில் அதற்கு மேலதிகமாக தற்போது சுற்றாடல் இராஜாங்க அமைச்சராகவும் பதவிப்பிரமாணம் செய்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3b6e462e.json)
+
+---
+
+### Janaka Wakkumbura gets additional ministerial portfolio
+
+*2024-02-20 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Janaka-Wakkumbura-gets-additional-ministerial-portfolio/108-277408) · `en`
+
+Colombo, Feb 20 (PMD) - Janaka Wakkumbura has been appointed as the State Minister of Provincial Councils, Local Government and Environment.
+
+According to the President’s Media Division, he was sworn in before President Ranil Wickremesinghe at the Presidential Secretariat a short while ago.
+
+This appointment supplements his existing role as the State Minister of Provincial Councils & Local Government.
+
+◼️
+
+[Data](articles/70b0f671.json)
+
+---
+
+### சின்னத்திரை நடிகர் ரிதுராஜ் காலமானார்.
+
+*2024-02-20 16:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/சின்னத்திரை-நடிகர்-ரிதுராஜ்-காலமானார்/54-333533) · `ta`
+
+அவரது மரணத்தை அவரது நெருங்கிய நண்பரும் நடிகருமான அமித் பெஹல் உறுதிப்படுத்தியுள்ளார். இவரது மறைவுக்கு சின்னத்திரை பிரபலங்கள் மற்றும் திரையுலகைச் சேர்ந்தவர்கள் இரங்கல் தெரிவித்து வருகின்றனர்.திங்கள்கிழமை இரவு ரிதுராஜ் உயிரிழந்தார். கணைய நோயால் பாதிக்கப்பட்ட அவர் சமீபத்தில் மருத்துவமனையில் அனுமதிக்கப்பட்டார்.
+
+கணைய சிகிச்சைக்காக சில காலத்திற்கு முன்பு வைத்தியசாலையில் அனுமதிக்கப்பட்ட அவர், வீடு திரும்பினார், இந்நிலையில், மாரடைப்பால் அவர் காலமானார்'' என்று குறிப்பிடப்பட்டுள்ளது.
+
+நடிகர் அர்ஷத் வார்சி தனது ட்விட்டர் பக்கத்தில், "ரிது ராஜ் காலமானார் என்பதை அறிந்து நான் மிகவும் வருத்தப்படுகிறேன். நாங்கள் ஒரே கட்டிடத்தில் வசித்து வந்தோம், அவர் ஒரு தயாரிப்பாளராக எனது முதல் படத்தின் ஒரு பகுதியாக இருந்தார். நண்பரை, சிறந்த நடிகரை இழந்து தவிக்கிறேன். உங்களை ரொம்ப மிஸ் பண்றேன்" என குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/c9fc8631.json)
+
+---
 
 ### Public Service Societies Pamphlet Distribution
 
@@ -45,6 +105,38 @@ The State Service Association's Association has said that the government is alre
 [Data](articles/4a6116d9.json)
 
 [Extended Data](ext_articles/4a6116d9.ext.json)
+
+---
+
+### பேருவளையில் சீன பெண்ணினால் தாக்கப்பட்ட இரு பொலிஸார்!
+
+*2024-02-20 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176885) · `ta`
+
+வீசா இன்றி நாட்டில் தங்கியிருந்த சீனப் பெண் தொடர்பில் கிடைக்கப்பெற்ற முறைப்பாடு  குறித்து  விசாரணை நடத்தச்  சென்ற பொலிஸ் உத்தியோகத்தர்கள் இருவரை தாக்கிய சீனப் பெண் இன்று செவ்வாய்க்கிழமை (20) கைது செய்யப்பட்டதாக பேருவளை பொலிஸார் தெரிவித்தனர்.
+
+பேருவளை மங்கள மாவத்தையில் வசிக்கும் 36 வயதுடைய சீனப் பெண்ணே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+பேருவளை மங்கள வீதியிலுள்ள வீடு ஒன்றில்  சீனப் பெண்ணொருவர் செல்லுபடியாகும் வீசா இன்றி தங்கியிருப்பதாகக்  கிடைத்த தகவலின் அடிப்படையில் இரண்டு பொலிஸ் உத்தியோகத்தர்கள் முறைப்பாடு தொடர்பில் விசாரணைகளை மேற்கொள்ள அங்கு சென்றுள்ளனர்.
+
+இதன்போதே அங்கு ஏற்பட்ட கருத்து முரண்பாடு காரணமாக இந்தத் தாக்குதல் இடம்பெற்றுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+இந்தச் சம்பவம் தொடர்பில் பேருவளை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதுடன் சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/7772372c.json)
+
+---
+
+### இராணுவத்தினரால் நிர்மாணிக்கப்பட்டு வழங்கப்பட்ட நல்லிணக்கபுர மீள் குடியேற்ற வீட்டுத்திட்ட கிராம மக்களை அப்புறப்படுத்த நடவடிக்கையா? - மாவட்ட செயலருக்கு மக்கள் கடிதம்
+
+*2024-02-20 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176867) · `ta`
+
+நல்லிணக்கபுர மீள்குடியேற்ற வீட்டுத்திட்ட கிராமத்தில் குடியேற்றப்பட்ட குடும்பங்கள் முன்பள்ளிகள், பொது நோக்கு மண்டபம், விளையாட்டு மைதானம், இந்து மற்றும் கிறிஸ்தவ ஆலயங்கள் கொண்ட கிராமமாக உருவாக்க முடியுமா அல்லது நாம் வேறு இடங்களுக்கு எம்மை நகர்தப்படபோறோமா என்பதை உறுதிப்படுத்துமாறு கோரி வலிகாமம் வடக்கு தெல்லிப்பளை பிரதேச செயலகபிரிவின் கீழ் நல்லாட்சி காலத்தில் இராணுவத்தினரால் நிர்மாணிக்கப்பட்டு வழங்கப்பட்ட  நல்லிணக்கபுர வீட்டுத்திட்ட மக்கள் யாழ் மாவட்ட அரசாங்க அதிபருக்கு கிராமத்திலுள்ள அமைப்புக்கள் பொது மக்கள் கையெழுத்திட்டு அதன் பிரதிகளை ஜனாதிபதி ரணில் விக்கிரமசிங்க, எதிர்கட்சித் தலைவர் சஜித்பிரேம தாஸ , புத்த சாஸன கலாச்சார அமைச்சு, வடக்கு மாகாண ஆளுநர், தெல்லிப்பளை பிரதேச செயலகம், தெல்லிப்பளை பிரதேச சபை, யாழ்.மாவட்ட கட்டளைத்தளபதி மற்றும் சமயத் தலைவர்களுக்கு அனுப்பி வைத்துள்ளார்கள்.
+
+...
+
+[Data](articles/4fde5525.json)
 
 ---
 
@@ -653,6 +745,24 @@ On 17 February, the junior staff of the Colombo National Hospital warned that th
 [Data](articles/c35e4bda.json)
 
 [Extended Data](ext_articles/c35e4bda.ext.json)
+
+---
+
+### දැඩි අව් රශ්මියෙන් ආරක්ෂා වෙන්න
+
+*2024-02-20 13:10:09* · [`adalk`](https://www.ada.lk/breaking_news/දැඩි-අව්-රශ්මියෙන්-ආරක්ෂා-වෙන්න/11-408192) · `si`
+
+මේ දිනවල පවතින වියළි  කාලගුණ තත්ත්වය ශරීරයට ඉතා අහිතකර වීමට ඉඩ ඇති බැවින් දිවා කාලයේ හැකි තරම් අව් රශ්මියෙන් ආවරණය වන පරිදි සෙවනේ සිටින ලෙසත් හැකි තරම් ජලය පානය කරන ලෙසත් අනුරාධපුර ශික්ෂණ රෝහලේ බාහිර රෝගී අංශයේ ප්‍රධාන වෛද්‍ය නිලධාරීනි වෛද්‍ය හේමා වීරකෝන් මහත්මිය පැවසීය.
+
+විශේෂයෙන් අව් රශ්මියේ ගමන් කරන්නේ නම් හිස්වැසුමක් හෝ කුඩයක් භාවිත කරන ලෙසටද අත්‍යවශ්‍ය කාර්යයක් නම් අව් රශ්මියට ඔරොත්තු දෙන ක්‍රීම් වර්ගයක් (sun cream) භාවිත කරන ලෙසට ද ඇය දන්වා සිටින්නීය.
+
+පිපිඤ්ඤා කොමඩු වැනි දෑ නිරන්තර ආහාරයට ගැනීම තුළින්ද ශරීරයට යහපත් බව පෙන්වා දෙන වෛද්‍ය හේමා  වීරකෝන් ජලය ටික ටික හෝ දිනයේ වැඩි අවස්ථා ගණනක් අනිවාර්යෙන් පානය කිරීම අත්‍යවශ්‍ය බවද කියයි.
+
+එමෙන්ම මේ දිනවල පාසල්වල සිදු කරන ක්‍රීඩා කටයුතුවලදී දරුවන් තද අව්වේ තැබීම ඉතාමත් අහිතකර බැවින් තද අව්වේ දරුවන් ක්‍රීඩාවන්ගේ යෙදවීමෙන් වරක්වන ලෙසටද  ඇයි ඉල්ලා සිටියාය.
+
+...
+
+[Data](articles/41b57e8d.json)
 
 ---
 
@@ -1855,153 +1965,5 @@ The late day of State Minister Sanath Nishantha is to be presented to the late P
 [Data](articles/f308b039.json)
 
 [Extended Data](ext_articles/f308b039.ext.json)
-
----
-
-### 7 Years of Relatives of the Missing Persons
-
-*2024-02-20 09:27:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g3ymx8vjlo) · `si`
-
-7 Years of Relatives of the Missing Persons
-
-The relatives of the missing protests and fleasures have been sent to the disappearances of the north and agitated on the north-east of the war.
-
-They commenced marching near Kandochchiya temple in Kilinochchi and traveled through the city of Kilinochchi.
-
-The relatives of the missing persons were conducted by the relatives of the disappeared in Kilinochchi, Jaffna, Vavuniya, Mullaitivu and Mannar districts.
-
-The relatives of the missing persons were launched on February 20, 2017 to be recovered as they were searching for the disappearances of the war.
-
-K. Kanganajani, President of the Kilinochchi District Missing Persons Association (SSP) said:. "It takes seven years today to protest that our relatives who disappear the missing relatives in the war."
-
-"It has not been more than fifteen years after the war is over.
-
-"No government tries to do justice to his demands. We only want to find out where our relatives are."She said.
-
-...
-
-[Data](articles/381913ad.json)
-
-[Extended Data](ext_articles/381913ad.ext.json)
-
----
-
-### A man went to fall into a man to pick up Ano
-
-*2024-02-20 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193603) · `si`
-
-The deceased has been identified as a 62 year old resident of Kirinda and Hostdeniya.
-
-It has been revealed that the deceased has fallen into a stone slope at that place while he was going to pick up a boundary yesterday (19).
-
-The body has been placed at the Gampola hospital morgue and Gampola police are conducting further investigations.
-
-◼️
-
-[Data](articles/1ad2bf8e.json)
-
-[Extended Data](ext_articles/1ad2bf8e.ext.json)
-
----
-
-### For a few months, the people get relief
-
-*2024-02-20 09:20:59* · [`adalk`](https://www.ada.lk/breaking_news/තව-මාස-කිහිපයක්-යන-විට-ජනතාවට-සහන-ලැබෙනවා/11-408186) · `si`
-
-President Ranil Wickremesinghe said that the government is committed to ensure the economic and social rights of the mountainous Tamil people who contribute greatly to the economy of the country.
-
-The President added that the proposals relating to the implementation of all political representatives representing the mountains are expected to be presented in the next month.
-
-President Ranil Wickremesinghe made this statement in the presidency to commence the construction of the Construction of the Construction of Rs.
-
-President Ranil Wickremesinghe, Water Supply Infrastructure Development Minister Ranil Wickremesinghe, Minister of Water Supply and Estate InfrastructureHigh Commissioner was also carried out by the Gunawardena.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-...
-
-[Data](articles/df8e72a4.json)
-
-[Extended Data](ext_articles/df8e72a4.ext.json)
-
----
-
-### 253 students from 11 schools from Jaffna district participated in the 10th Jambori conference of the Sri Lanka Scout Association
-
-*2024-02-20 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176812) · `ta`
-
-The 10th Jambori Conference of the Sri Lanka Scout Association will be held in Trincomalee tomorrow and will be held till the 26th of this month.. Jaffna at this conference. There will be 253 scouts representing 11 schools from the district.
-
-Governor of the Northern Province BSMM. Charles was held at the old park in Jaffna on Monday afternoon (19).
-
-Jaffna during the event. The scout march for the District Scout Flag was held, and the uniforms for the scouts were provided by the Hon.
-
-Addressing the gathering, the Governor of the Northern Province congratulated the scout children who are on their way to Trincomalee and have dedicated themselves to the Scout Movement.. Appreciated.
-
-Special guests were also present at the event.
-
-◼️
-
-[Data](articles/012256a6.json)
-
-[Extended Data](ext_articles/012256a6.ext.json)
-
----
-
-### Teachers' Principal first agitation in Kandy today
-
-*2024-02-20 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193602) · `si`
-
-The Guru-Principal Trade Unions have decided to start a protest campaign with the removal of salary anomalies.
-
-The first stage of the Ceylon Teachers Union Joseph Stalin said that a campaign in Kandy will be held in Kandy this afternoon.
-
-"There is no program to promote the promotions of teachers and principals. They are in a serious crisis. When the principal returns to the Principal in Teacher Service, the stairs fall. Educational authorities have no attention to the total issues of the education system. Only discussion every day. Therefore, we start a massive agitation series today for the removal of teachers' salary issues. We start the first protest in Kandy at 2 pm. We clearly say we need to understand the message we give immediately. A demonstration of teachers, principals, teacher advisors to join all parties, pirivena teachers, under the Guru Pr Schools.. Immediately, if it should not be solved, various profession is focused in the future. "
-
-...
-
-[Data](articles/8ee905fe.json)
-
-[Extended Data](ext_articles/8ee905fe.ext.json)
-
----
-
-### Politicians accused from Malwatte Thera
-
-*2024-02-20 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193601) · `si`
-
-The Malwathuwala Sumanakala Thera is the Chief Prelate of the Malwatte Chapse Chief Leader of the Malwathu Chapter The Chief Prelate of the Malwathu Chapter said.
-
-He pointed out that he was the leading politicians to create race and religious conflicts among the people who lived in the coexistence.
-
-When met the actual, unity and reconciliation of the commission representatives of the country, said the Most Venerable Sewaya Sri Sumangala Thera.
-
-"These politicians lose these when they do many things to be unity.. Those who will be lost in harmony. Speaking to build religious unity,. Because of these extremists, it will be a success but will be successful. The rulers have to be interested. Today's trees, like to tell the stones. No work. When was it when you spoke to abolish the executive presidency?Where is in 2012?Now there is no need for 2024. Politicians always deceive people. There is no hope in the election. "
-
-◼️
-
-[Data](articles/e543c773.json)
-
-[Extended Data](ext_articles/e543c773.ext.json)
-
----
-
-### Pilot project to digitize education to be launched in March
-
-*2024-02-20 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97401/pilot-project-to-digitize-education-to-be-launched-in-march) · `en`
-
-Education Minister Dr. Susil Premajayantha has revealed that a pilot project for the digitization of education is set to be launched in March.
-
-Speaking at a briefing held at the Presidential Media Center (PMC) on Monday (19 Feb.), Premajayantha noted that Microsoft is slated to aid the initiative with regards to training teachers for the said purpose.
-
-The Minister also confirmed the dispatch of school textbooks for the year 2024 for distribution, elaborating that all school textbooks pertinent to the year 2024 have been dispatched to distribution stations, ensuring complete coverage.
-
-According to the President’s Media Division (PMD), plans are in place to finalize their distribution at the school level by the first of March, with an expenditure totalling Rs. 12 billion allocated for this purpose.
-
-...
-
-[Data](articles/6b033d01.json)
-
-[Extended Data](ext_articles/6b033d01.ext.json)
 
 ---

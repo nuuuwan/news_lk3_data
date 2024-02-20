@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 15:50:56**
+As of **2024-02-20 16:02:30**
 
 ## Newspaper Stats
 
-*Scraped **8,257** Articles*
+*Scraped **8,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ adalk | 703
 adaderanalk | 999
 tamilmirrorlk | 1,013
 virakesarilk | 1,113
-adaderanasinhalalk | 1,204
+adaderanasinhalalk | 1,205
 dailymirrorlk | 1,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,257 (100.0%) of 8,257 articles have been extended.
+8,258 (100.0%) of 8,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### Through love is displayed along hbo max
+
+*2024-02-20 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193619) · `si`
+
+The global cinemator, a film, is the most popular Hu channel in the world, is selected to be displayed in his HBO max.
+
+The "Thurs' International Awarding Film Director Sanjeewa Pushpakumara is a design of the script.
+
+The film will be displayed targeting the film, Romania, Hungary, Hungary and Bulgaria, from March 01.
+
+The first Sri Lankan film selected from the Prophet Brotherners of the United States of America is the first Sri Lankan film selected to the exhibition of its media network.
+
+Infant children have created the racket of marketing of infants to foreigners.
+
+This is the first official film between Italy and Sri Lanka.
+
+The popular performance Sabetha Perera, Akalana Perera, Akalanga Prabhazwara, Dinara Punchi Hewa, Mahendra Weerasinghe, Ambukku, and the well-Italian actor Lornshow Akkulara.
+
+In the mid-year (2024), Savoy Cinema will be distributed in film "plane love" in Sri Lanka.
+
+◼️
+
+[Data](articles/59e66138.json)
+
+[Extended Data](ext_articles/59e66138.ext.json)
+
+---
 
 ### President's notice of a Sri Lanka - India agreement
 
@@ -1995,27 +2023,5 @@ The suspects have not been identified yet and the Borella Police have started fu
 [Data](articles/5c992875.json)
 
 [Extended Data](ext_articles/5c992875.ext.json)
-
----
-
-### Man shot at in Borella
-
-*2024-02-20 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-shot-at-in-Borella/108-277377) · `en`
-
-Colombo, Feb 20 (Daily Mirror) - A person was injured in a shooting near an apartment complex in front of Borella Magazine Prison last night and was admitted to the m National Hospital, Colombo for treatment, police said.
-
-They said the shooting was done by a gunman who came on a motorcycle in front of the luxury apartment complex located in Ananda Rajakaruna Mawatha, Borella.
-
-The injured has been identified as a person involved in drug trafficking.
-
-It is said that he is a person who was released from remand prison a few days ago on bail.
-
-The suspects have not been identified yet and the Borella Police have started further investigations.
-
-◼️
-
-[Data](articles/bcf58811.json)
-
-[Extended Data](ext_articles/bcf58811.ext.json)
 
 ---

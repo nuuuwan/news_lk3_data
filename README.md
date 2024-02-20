@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 12:17:25**
+As of **2024-02-20 12:32:52**
 
 ## Newspaper Stats
 
-*Scraped **8,205** Articles*
+*Scraped **8,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 90
 bbccomsinhala | 102
 dbsjeyarajcom | 154
 newsfirstlk | 363
-economynextcom | 419
+economynextcom | 421
 islandlk | 434
 dailyftlk | 444
 adalk | 699
@@ -26,125 +26,149 @@ dailymirrorlk | 1,206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,193 (99.9%) of 8,205 articles have been extended.
+8,207 (100.0%) of 8,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### குருணாகலையில் 4 மாணவர்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்டமைக்கான காரணம் வெளியானது!
+### The reason why 4 students were admitted to the hospital in Kurunegala were released!
 
 *2024-02-20 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176824) · `ta`
 
-குருணாகல் மதுரகொட பிரதேசத்தில் ஆரம்பப் பாடசாலையொன்றில் தரம் ஐந்தில் கல்வி கற்கும் நான்கு மாணவர்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்டமைக்கு  “ப்ரீகாபலின்” (Pregablin) என்ற மாத்திரையை பயன்படுத்தியதையே காரணம் மதுரகொட  பொலிஸார் தெரிவித்துள்ளனர்.
+Madurakoda police said that four students who were studying in the primary school in the Kurunegala area were admitted to the hospital.
 
-இந்த மாத்திரை  வலிப்பு , வலி நிவாரணி மற்றும்  மன உளைச்சலுக்கு பயன்படுத்தப்படுகிறது. இதனை போதைப் பொருளாக தவறாக பயன்படுத்துக்கின்றார்கள்.
+This pill is used for seizures, painkillers and depression. They misuse this as a drug.
 
-சம்பவம் தொடர்பில் நேற்று (19)  ஆங்கில ஊடக மொன்றுக்கு  மதுரகொட பொலிஸ் நிலைய பொறுப்பதிகாரி ஜானக வீரரத்ன தெரிவித்துள்ளதாவது,
+Madurakoda Police Station Officer Janaka Veeraratne
 
-வைத்தியசாலையில் அனுமதிக்கப்பட்ட நான்கு மாணவர்களில் ஒரு மாணவன் பாடசாலைக்கு சில மாத்திரைகளை கொண்டு சென்று தனது நண்பர்களுடன் சாப்பிட்டுள்ளார்.
+One of the four students admitted to the hospital took a few pills to the school and ate with his friends.
 
-“ப்ரீகாபலின்” (Pregablin) என்ற இந்த மாத்திரை மாணவனின் தந்தை பயன்படுத்துவது விசாரணையில் தெரியவந்தது.
+Investigations revealed that the father of the student, "Pregablin", is using the father of the student.
 
-இந்த மாத்திரையை சிலர் மாற்று மருந்தாகப் பயன்படுத்துகின்றனர். இது ஒரு மருந்து என்பதால் அனைவருக்கும் மருந்தகத்தில் வாங்க முடியும் என தெரிவித்துள்ளார்.
+Some people use this pill as an alternative. He said it was a drug because everyone can buy at the pharmacy.
 
-இது தொடர்பில் கொழும்பு லேடி ரிட்ஜ்வே சிறுவர் வைத்தியசாலையின் ஆலோசகர் வைத்தியர் தீபால் பெரேரா,
+Dr. Deepal Perera, Advisor of Lady Ridgeway Children's Hospital, Colombo
+
+Parents should be careful when taking medication. Because the children will try to get it to Wood. Consuming such pills recommended for the elderly can be harmful to children and can sometimes have chronic effects.
+
+Therefore, do not store drugs and other pills in places where children are easily accessible.
 
 ...
 
 [Data](articles/ed2add8e.json)
 
+[Extended Data](ext_articles/ed2add8e.ext.json)
+
 ---
 
-### மலையக மக்களும் அஸ்வெசும திட்டமும்
+### The upcountry people and the Aswesa project
 
 *2024-02-20 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176845) · `ta`
 
-உலக வங்கியின் நிதி பங்களிப்புடன் நலன்புரி நன்மைகள் சபையினால் கடந்த வருடம் அறிமுகப்படுத்தப்பட்டு தற்போது நடைமுறைப்படுத்தப்பட்டுவரும் ‘அஸ்வெசும’ நலன்புரி நிவாரணத்திட்டம் தொடர்பில் நாட்டு மக்கள் மத்தியில் இன்னமும் தெளிவின்மை காணப்படுகின்ற நிலையில் இரண்டாம் கட்ட நிவாரணத்துக்கான விண்ணப்பங்கள் எதிர்வரும் 15ஆம் திகதிக்கு பின்னர் நாடளாவிய ரீதியில் கோரப்படவுள்ளன.
+With the financial contribution of the World Bank, the Welfare Benefits are being introduced by the Welfare Council last year, and now the country is still being requested by the people of the country on the welfare of the people of the country.
 
 ◼️
 
 [Data](articles/1809610c.json)
 
+[Extended Data](ext_articles/1809610c.ext.json)
+
 ---
 
-### ரஸ்யாவிலிருந்து உக்ரைனிற்கு தப்பிச்சென்ற  விமானி ஸ்பெயினில் சடலமாக மீட்பு - உக்ரைன் புலனாய்வு பிரிவினர் தகவல்
+### Pilot who escaped from Russia to Ukraine Recovery in Spain
 
 *2024-02-20 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176844) · `ta`
 
-கடந்தவருடம் இடம்பெற்ற இரகசிய நடவடிக்கையின் போது உக்ரைனிற்கு தப்பிவந்த ரஸ்ய விமானி ஸ்பெயினில் உயிரிழந்த நிலையில் மீட்கப்பட்டுள்ளார்.
+Russian pilot who escaped Ukraine during a secret action last year has been rescued in Spain.
 
-தொடர்மாடியொன்றின் வாகனத்தரிப்பிடத்தில் இவரது உடல் மீட்கப்பட்டுள்ளதாக  உக்ரைனின் புலனாய்வு பிரிவினர் தெரிவித்துள்ளனர்.அலிகண்டோவில் உள்ள வில்லாஜோயோசா நகரில் இவரது உடல் மீட்கப்பட்டுள்ளதாகவும் அருகில் உள்ள பகுதியில்கார் ஒன்று எரியுண்ட நிலையில்மீட்கப்பட்டதாகவும் தகவல்கள் வெளியாகியுள்ளன.
+Ukraine's intelligence unit said that his body was recovered in the vehicle of a series.
 
-முதலில் இது குற்றவாளிகும்பலின் நடவடிக்கை என ஸ்பெய்ன் பொலிஸார் கருதியுள்ளனர் எனினும் பின்னரே இது ரஸ்ய உக்ரைன் மோதல் தொடர்பான விவகாரம் என்பது தெரியவந்துள்ளது.
+The Spanish police have first considered this as a criminal activity, but it is only later that this is a matter of Russian Ukraine conflict.
 
-கடந்த வருடம் ஆகஸ்ட்மாதம் குஸ்மினோவ் இரண்டு தளங்களிற்கு இடையிலான விமானபறத்தலின் போது ரஸ்ய தரப்பிலிருந்து உக்ரைனிற்கு தப்பிவந்தார்.
+In August last year, Kusminov escaped from the Russian side during the airplane between two sites.
 
-ஹெலிக்கொப்டரில் எஸ்யு 27- எஸ்யு 30 போர்விமானங்களி;ற்கான உதிரிப்பாகங்களை கொண்டு செல்லும் நடவடிக்கைகளில் ஈடுபட்டிருந்த இவர் தனது ஹெலிக்கொப்டர் மூலம் உக்ரைனின் கட்டுப்பாட்டு பகுதியில் தரையிறங்கினார்.
+In the helicopter, the SU 27-SU 30 was involved in carrying out the spare parts for the SU-30 warriors and landed in Ukraine's control area with his helicopter.
 
-...
+Ukrainian intelligence agencies have said that he brought him to Ukraine as a benefit of six months secret action.
+
+Allegations may be made that the Russian government is responsible for the death of Gujminov.
+
+◼️
 
 [Data](articles/8466bce3.json)
 
+[Extended Data](ext_articles/8466bce3.ext.json)
+
 ---
 
-### වෛද්‍ය බෙල්ලනගෙන් ආන්දෝලනාත්මක ප්‍රකාශයක්
+### A controversial statement from Dr. Bellana
 
 *2024-02-20 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193610) · `si`
 
-ඕනෑම අවස්ථාවක තමන් විශ්‍රාම යෑමට සුදානමින් පසුවන බව කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පවසයි.
+Deputy Director of the Colombo National Hospital Dr. Rukshan Bellana is ready to retire any time.
 
-අද (20) පෙරවරුවේ මාධ්‍ය හමුවක් කැඳවමින් වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා ඒ බව සඳහන් කළේය.
+Dr. Rukshan Bellana said that a press conference was held today (20).
 
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් වෛද්‍යවරයා පවසා සිටියේ, "අද සෞඛ්‍ය අමාත්‍යාංශයත් සෞඛ්‍ය ඉන්නේ උසස් නිලධාරීනුත් කටහඩේ බලයට පරිපාලනය කරනවා. දෙතුන් සීයක් එකතුවෙලා කිව්වොත් මෙයාව එළවන්න කියලා එළවනවා. ඉතින් ඒ තත්ත්වයෙන් තමයි තීන්දු තීරණ ගන්නේ. හැබැයි මම නම් විශ්‍රාම යන්නත් ලෑස්ති. මේ රාජ්‍ය සේවයේ සිටීමේ හරයක් නැහැ." යනුවෙනි.
+Speaking further the doctor said, "The Ministry of Health today is healthy officials and administrates their voice power. If two people joined together, he will drive him out. So that is the case with decisions. But I can retire and get ready. There is no meaning of being in this public service. ".
 
 ◼️
 
 [Data](articles/8dd82b64.json)
 
+[Extended Data](ext_articles/8dd82b64.ext.json)
+
 ---
 
-### இலங்கை கடன்களில் மாத்திரம் தங்கியிருக்கும் நிலை மாற வேண்டும்
+### The position of staying in Sri Lankan loans must change
 
 *2024-02-20 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176841) · `ta`
 
-வங்குரோத்து நிலையிலிருந்த இலங்கை தற்போது அதிலிருந்து விடுபட்டு மெதுமதுவாக முன்னேறி 2048இல் அபிவிருத்தி அடைந்த நாடாக மாறுவதற்குரிய காய்நகர்த்தல்களை மேற்கொண்டு வருகின்றது.
+Sri Lanka, which is now in the bankruptcy, is now slowly progressing and becoming a developed country in 2048.
 
 ◼️
 
 [Data](articles/9a564719.json)
 
+[Extended Data](ext_articles/9a564719.ext.json)
+
 ---
 
-### කිසිම පාසලකට හිමි නොවූ අවස්ථාවක් කඩවත මහාමායා බාළිකාවන්ට හිමිවෙයි
+### Mahamaya
 
 *2024-02-20 11:24:45* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-පාසලකට-හිමි-නොවූ-අවස්ථාවක්-කඩවත-මහාමායා-බාළිකාවන්ට-හිමිවෙයි/11-408187) · `si`
 
-කඩවත මහාමායා බාලිකා විද්‍යාලයේ ශිෂ්‍ය පාර්ලිමේන්තුවේ මංගල සැසිවාරය ඊයේ (19) ජනාධිපති කාර්යාලයේ දී පැවැත්වුණු අතර, ඉන් අනතුරුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමඟ සුහද හමුවකට එක්වීමට ද එම දරුවන්ට අවස්ථාව උදා විය.
+The student's parliamentary parliament was held at the Presidential Secretariat yesterday (19) at the Presidential Secretariat yesterday (19).
 
-ජනාධිපති කාර්යාලයේ කැබිනට් මණ්ඩලය පැවැත්වෙන ස්ථානයට එම දරුවන් කැඳවු ජනාධිපතිවරයා කැබිනට් මණ්ඩලය යනු කුමක්ද, එහි ව්‍යුහය සහ ක්‍රියාකාරිත්වය පිළිබඳව ඔවුන් දැනුවත් කළේය.
+The President made them aware of what the children were summoned to the Cabinet at the Presidential Secretariat.
 
-රටේ ප්‍රධාන තීන්දු තීරණ ගනු ලබන කැබිනට් මණ්ඩලය පැවැත්වෙන ස්ථානයේදීම, එය මෙහෙයවනු ලබන ජනාධිපතිවරයා සමඟ කතාබහකට එක්වීමට පාසල් දරුවන්ට අවස්ථාව හිමි වූයේ පළමු වරට වීම ද විශේෂත්වයකි.
+School children had the opportunity to join the president with the president of the country.
 
-ශිෂ්‍ය පාර්ලිමේන්තුවේ අමාත්‍ය ධුර දරන සිසුවියන් වෙත එම අමාත්‍ය ධුරයන්හි වගකීම,කාර්යභාරය සහ කැබිනට් මණ්ඩලයේ වගකීම් පිළිබඳව ද මෙහිදී ජනාධිපතිවරයා කරුණු පහදා දුන්නේය.
+The President also explained the responsibilities of the Minister's posts to the students of the Student Parliament and the responsibilities of the Minister.
 
-රටේ අනාගත නායකත්වයට පත්වන දරු පරපුර රාජ්‍ය පාලන ව්‍යුහය පිළිබඳ මනා දැනුමක් ලබා තිබීමේ අවශ්‍යතාව ද ජනාධිපතිවරයා පැහැදිලි කළේය.
+The President also explained the need to provide the governmental structure of the country's future leadership.
 
-...
+Kadawatha Mahamaya Balika Vidyalaya, Kadawatha regarding this historic opportunity to the children of his school WR. Mrs. Priyadarshani offered to President Ranil Wickremesinghe.
+
+◼️
 
 [Data](articles/3e40b261.json)
 
+[Extended Data](ext_articles/3e40b261.ext.json)
+
 ---
 
-### உத்தேச நுண்கடன் மற்றும் கடன் ஒழுங்குப்படுத்தல் அதிகார சபை சட்டமூலம் குறித்து உயர் நீதிமன்றின் வியாக்கியானம் !
+### Supreme Court's Supreme Court Bill
 
 *2024-02-20 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176842) · `ta`
 
-உத்தேச நுண்கடன் மற்றும் கடன் ஒழுங்குப்படுத்தல் அதிகார சபை சட்டமூலத்தின் பெரும்பாலான ஏற்பாடுகள் அரசியலமைப்புக்கு முரணானதாக உயர்நீதிமன்றம் பாராளுமன்றத்துக்கு அறிவித்து.
+The Supreme Court has informed Parliament that most of the provisions of the proposed fine and debt regulating Authority Bill are contrary to the Constitution.
 
 ◼️
 
 [Data](articles/ce9ab5dc.json)
+
+[Extended Data](ext_articles/ce9ab5dc.ext.json)
 
 ---
 
@@ -154,7 +178,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Ceylon Electricity Board (CEB) is expected to hand over the proposals pertaining to the revision of electricity tariffs to the Public Utilities Commission of Sri Lanka (PUCSL) within the next two days, Minister of Power and Energy Kanchana Wijesekera said.
 
-Wijesekera made this announcement while addressing the Parliament this morning (20 Feb.).
+Wijesekera made this announcement while addressing the Parliament this morning (20 Feb.), opining that the Ministry anticipates a significant reduction in electricity tariffs.
+
+The Minister clarified that the projected expenses of the CEB for the current year encompassed costs associated with maintenance projects initiated over the past four years, set to conclude within the year.
+
+Consequently, the Ministry recommended that the CEB distribute these expenses evenly over the course of the following three years.
 
 ◼️
 
@@ -184,19 +212,21 @@ The Minister said that the proposal is due to be produced before the Public Util
 
 ---
 
-### யாழில் விடுவிக்கப்படவுள்ள காணிகள் தொடர்பில் கலந்துரையாடல்
+### Discussion on land released in Jaffna
 
 *2024-02-20 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176838) · `ta`
 
-யாழ்ப்பாணம் வலிகாமம் வடக்கில் காணி விடுவிப்பு தொடர்பில் யாழ்ப்பாண இராணுவ கட்டளைத் தளபதியுடன் யாழ்ப்பாண மாவட்ட செயலாளர் உள்ளிட்ட உயரதிகாரிகள் சந்தித்து கலந்துரையாடினர்.
+High officials, including the Jaffna District Secretary, met with the Jaffna Army Commander in connection with the release of land in the North of Jaffna.
 
-பலாலி இராணுவ தலைமையலுவலகத்தில் நடைபெற்ற சந்திப்பில் யாழ்ப்பாண இராணுவ கட்டளைத் தளபதி எம்சிபி விக்ரமசிங்கவை யாழ்ப்பாண மாவட்ட செயலாளர் அம்பலவாணர் சிவபாலசுந்தரன் உள்ளிட்ட குழுவினர் சந்தித்து பேசினர்.
+Jaffna Army Commander MCP Wickremasinghe, including Jaffna District Secretary Ambalavanar Sivapalasundaran, spoke at a meeting held at the Palali Army Headquarters.
 
-குறித்த சந்திப்பில் ஜனாதிபதியின் வடமாகாண மேலதிக செயலாளர் இளங்கோவன் யாழ் மாவட்ட மேலதிக அரசாங்க அதிபர் ம.பிரதீபன், மேலதிக அரசாங்க அதிபர் (காணி) கே.ஸ்ரீமோகனன், தெல்லிப்பழை பிரதேச செயலாளர் சிவகங்கா சுதீஸ்னர் ஆகியோரும் கலந்துகொண்டனர்.
+The meeting was attended by the Additional Secretary of the President of the Northern Province Ilangovan, Jaffna District Additional Government Agent M. Pradeepan, Additional Government Agent (Land) K. Srimohanan and Tellippalai Divisional Secretary Sivaganga Sudisner.
 
 ◼️
 
 [Data](articles/9ea3d73d.json)
+
+[Extended Data](ext_articles/9ea3d73d.ext.json)
 
 ---
 
@@ -218,23 +248,31 @@ UN FAO Director Genera Qu Dongyu arrived in Sri Lanka on 18 February for a three
 
 ---
 
-### கற்பிட்டியில் சுற்றுலாப் பயணிகளை கவர்ந்த நீர்ச் சறுக்கல் விளையாட்டு
+### Water skate
 
 *2024-02-20 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176830) · `ta`
 
-கற்பிட்டி கண்டகுழி கலப்பில் தற்பொழுது வெளிநாட்டு சுற்றுலாப் பயணிகள் நீர்ச் சறுக்கல் விளையாட்டில் ஈடுபட்டு வருகின்றனர்.
+Foreign tourists are currently engaged in a water drift game in the Kalpitiya Kandukkul.
 
-தற்பொழுது கற்பிட்டிக்கு வருகைத் தந்துள்ள அதிகளவிலான சுற்றுலா பயணிகள் கண்டக்குழி பகுதியில் “kite Surfing” எனப்படும் நீர்ச்சருக்கள் விளைட்டில் ஈடுபட்டு வருகின்றனர்.
+Most tourists who are currently visiting Kalpitiya are involved in the "Kite Surfing" of the Kandakkuli area.
 
-இலங்கையில் கற்பிட்டியில் மாத்திரமே நீர்ச்சருக்கள் மேற்கொள்கின்றமை குறிப்பிடத்தக்கது. இந்த நீர்ச்சருக்கள் விளையாட்டு சுமார் 15 வருடங்களுக்கு முன்பே ஆரம்பிக்கப்பட்டுள்ளது.
+It is noteworthy that the water is only done in Sri Lanka. The sport of these waterproofs has started about 15 years ago.
 
-நீர்ச்சருக்கல் விளையாட்டில் ஈடுபடுவதற்கு கற்பிட்டி கண்டகுழி கலப்பு ஆழமற்று காணப்படுவதினால் விளையாற்றில் ஈடுபடுபவர்களுக்கு மிக இலகுவாக காணப்படுவதாகவும், எந்த ஒரு பாதிப்பும் ஏற்படாத வகையில் இந்த நீர்ச்சருக்கள் விளையாட்டில் ஈடுபடுவதற்கு மிகவும் சிறந்த இடமாக காணப்படுவதாக தெரிவிக்கப்படுகின்றது.
+It is reported that the Kalpitiya Kandukkuttu mix is very easy for those who are involved in the sport of water, and that these waterproofing is the best place for the sport to be involved in the game.
 
-பலத்த காற்று வீசுவதுடன், தினமும் மதியம் 12 மணி முதல் 4.30 மணி வரை காற்று அதிகமாக வீசுவது இந்த விளையாட்டுக்கு மிகவும் சிறந்தது என அந்த விளையாட்டில் ஈடுபட்டுள்ள வெளிநாட்டினர் குறிப்பிடுகின்றனர்.
+Foreigners involved in the game not suggest that strong winds are blowing from 12 noon to 4.30 pm daily.
+
+Tourists from German, France, Austria, India, Canada, Switzerland and many other countries are coming.
+
+In addition, Sri Lankan coaches say that most of the tourists who come to Sri Lanka for a short or three weeks for a short time are going back to their countries.
+
+The tourism industry has fallen due to the economic crisis in the country in the past.
 
 ...
 
 [Data](articles/1167cf44.json)
+
+[Extended Data](ext_articles/1167cf44.ext.json)
 
 ---
 
@@ -254,35 +292,45 @@ The President Ranil Wickremesinghe and Director General of the United Nations Fo
 
 ---
 
-### இலங்கை ஜனாதிபதியின் புதிய பொறுப்புக்கூறல் முயற்சி குறித்து சர்வதேச உண்மை மற்றும் நீதிக்கான திட்டம் கவலை- கடந்தகால ஆணைக்குழுக்களின் அறிக்கைகளை ஜனாதிபதியின் இணையத்தளத்தில்  வெளியிட கோரிக்கை
+### Plan for International Truth and Justice on Sri Lankan President's New Liability
 
 *2024-02-20 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176832) · `ta`
 
-இலங்கை அரசாங்கம் புதிய உண்மையை  கண்டறியும் ஆணைக்குழுவை அமைப்பதற்கு முன்னர் முன்னைய ஆணைக்குழுக்கள் தெரிவித்துள்ள விடயங்களை ஏற்றுக்கொண்டு  அவற்றின் பரிந்துரைகளை நடைமுறைப்படுத்தவேண்டும் என  சர்வதேச உண்மை மற்றும் நீதிக்கான திட்டம் தெரிவித்துள்ளது.
+The Sri Lankan government has said that the previous Commission should accept the issues issued by the previous Commission before setting up a new truth -finding commission.
 
-பாரதூரமான மனித உரிமை மீறல்கள் தொடர்பாக  விசாரணை செய்வதற்கு அமைக்கப்பட்ட அரசாங்க ஆணைக்குழுக்களின் எண்ணிக்கை பாதிக்கப்பட்ட இலங்கையர்களால்  கணக்குவைக்க முடியாதஅளவிற்கு தாண்டியுள்ளது எனவும் ஐடிஜேபி தெரிவித்துள்ளது.
+The ITJP said the number of government commissions set up to investigate serious human rights violations has exceeded the affected Sri Lankans.
 
-இருந்தும் பிறிதொரு ஆணைக்குழுவை அரசாங்கம் உருவாக்கவுள்ளது உண்மை மற்றும் ஐக்கியம் நல்லிணக்கம் ஆணைக்குழு எனப்படும் இந்த புதிய ஆணைக்குழு உண்மையை கண்டறிவதற்காக இலங்கை அரசாங்கத்தினால் உருவாக்கப்பட்ட 36 ஆணைக்குழுக்களின் வரிசையில் இணைந்துகொண்டுள்ளது எனவும் உண்மை நீதிக்கான சர்வதேச திட்டம் தெரிவித்துள்ளது.
+However, the government is to form another commission.
 
-எனினும் நீதியும்பொறுப்புக்கூறலும் இன்னமும் சாத்தியமாகத விடயங்களாவே காணப்படுவதாக  பாதிக்கப்பட்டவர்கள் தெரிவிக்கின்றனர் என அந்த அமைப்பு தெரிவித்துள்ளது.
+However, the organization said that the victims are said to be unable to do justice.
+
+The ITJP has said that the relationship of the missing persons has been boldly down the streets and said that 240 elderly relatives have died without knowing what happened to their relations.
+
+The Government of Sri Lanka rejects the proposed reconciliation commission of Sri Lanka and has issued a number of reports of 37 civil society organizations and 19 civil society activists.And the plan for justice has reported.
+
+Below is a list of 36 Commissions we have identified as the Sri Lankan government set up in the past. Three of these
 
 ...
 
 [Data](articles/cb6468f6.json)
 
+[Extended Data](ext_articles/cb6468f6.ext.json)
+
 ---
 
-### உத்தேச பயங்கரவாத எதிர்ப்புச் சட்டமூலம் குறித்து பாராளுமன்றத்திற்கு உயர்நீதிமன்றத்தின் அறிவிப்பு !
+### Supreme Court's announcement of proposed anti -terrorism bill
 
 *2024-02-20 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176831) · `ta`
 
-உத்தேச பயங்கரவாத எதிர்ப்புச் சட்டமூலத்தின் பெரும்பாலான ஏற்பாடுகள் அரசியலமைப்புக்கு முரணாகவுள்ளதாக உயர்நீதிமன்றம் பாராளுமன்றத்துக்கு அறிவித்துள்ளது.
+The Supreme Court has informed parliament that most of the provisions of the proposed anti -terrorism bill will be contrary to the constitution.
 
-இதேவேளை, உத்தேச பயங்கரவாத எதிர்ப்புச் சட்டமூலத்தை திருத்தங்களின்றி நிறைவேற்ற வேண்டுமாயின் மூன்றில் இரண்டு பெரும்பான்மையுடன் ,மக்கள் வாக்கெடுப்பு நடத்த வேண்டும் என்றும் உயர்நீதிமன்றம் பாராளுமன்றத்துக்கு அறிவித்துள்ளது.
+Meanwhile, the Supreme Court has informed parliament that a two -thirds majority should be held with a two -thirds vote if the proposed anti -terrorism bill is to be passed without amendments.
 
 ◼️
 
 [Data](articles/5d587484.json)
+
+[Extended Data](ext_articles/5d587484.ext.json)
 
 ---
 
@@ -516,6 +564,50 @@ Cellondeh also said that the police are in the process of raising awareness abou
 
 ---
 
+### Iran foreign minister in Sri Lanka to discuss expanded cooperation
+
+*2024-02-20 09:50:00* · [`economynextcom`](https://economynext.com/iran-foreign-minister-in-sri-lanka-to-discuss-expanded-cooperation-151497/) · `en`
+
+ECONOMYNEXT – Minister of Foreign Affairs of the Islamic Republic of Iran, Hossein Amir Abdollahian is in the island on an official visit to Sri Lanka.
+
+“Consultation to expand cooperation in the fields of economy, trade, agriculture, science and technology, technical and engineering services, etc is on our common agenda,” the minister said on X (twitter).
+
+The Iranian minister’s visit on an invitation, follows a visit by Israeli Minister of Transport and Road Safety, Brig Gen Miri Regev last week.
+
+State Minster of Foreign Affairs Tharaka Balasuriya welcomed the Iranian Minister. “Sri Lanka is honoured to host His Excellency, and I hope his time in #SL will contribute to deepening ties of #diplomacy and partnership between our countries,” Balasuriya said on X (twitter).
+
+Analysts say the diplomatic relations between Sri Lanka and Iran have been intact despite a sanction by the United States which deprived Sri Lanka from receiving cheap Iranian light crude since 2012.
+
+...
+
+[Data](articles/ad6cd416.json)
+
+[Extended Data](ext_articles/ad6cd416.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 311.90/312.00 to the US dollar
+
+*2024-02-20 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-311-90-312-00-to-the-us-dollar-151556/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 311.90/312.00 to the US dollar Tuesday, from 312.15/25 on Monday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted at 10.90/11.10 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.70/12.00 percent from 11.70/90 percent.
+
+A bond maturing on 15.03.2028 was quoted at 12.10/25 percent from 12.00/15 percent.
+
+The Colombo Stock Exchange opened up. The All Share Price Index was up 0.12 percent at 10,655. The S&P SL20 was up 0.07 percent at 3,069. (Colombo/Feb20/2024)
+
+◼️
+
+[Data](articles/7407bfdd.json)
+
+[Extended Data](ext_articles/7407bfdd.ext.json)
+
+---
+
 ### Sri Lanka set for all-format cricket tour of Bangladesh in March
 
 *2024-02-20 09:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-set-for-all-format-cricket-tour-of-Bangladesh-in-March/108-277380) · `en`
@@ -710,19 +802,25 @@ The body has been placed at the Gampola hospital morgue and Gampola police are c
 
 ---
 
-### තව මාස කිහිපයක් යන විට ජනතාවට සහන ලැබෙනවා
+### For a few months, the people get relief
 
 *2024-02-20 09:20:59* · [`adalk`](https://www.ada.lk/breaking_news/තව-මාස-කිහිපයක්-යන-විට-ජනතාවට-සහන-ලැබෙනවා/11-408186) · `si`
 
-මෙරට ආර්ථිකයට විශාල දායකත්වයක් ලබා දෙන කඳුකර ද්‍රවිඩ ජනතාවගේ ආර්ථික හා සමාජ අයිතිවාසිකම් තහවුරු කිරීමට රජය කැපවී කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe said that the government is committed to ensure the economic and social rights of the mountainous Tamil people who contribute greatly to the economy of the country.
 
-කඳුකරය නියෝජනය කරන සියලු දේශපාලන නියෝජිතයන් එක් කර ගනිමින් එම වැඩපිළිවෙළ ක්‍රියාවට නැංවීමට අදාළ යෝජනා ඉදිරි මාසයේ දී ඉදිරිපත් කිරීමට අපේක්ෂා කරන බවද ජනාධිපතිවරයා සඳහන් කළේය.
+The President added that the proposals relating to the implementation of all political representatives representing the mountains are expected to be presented in the next month.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ වතුකරයේ කම්කරු ජනතාව වෙනුවෙන් නිවාස 10,000ක් ඉදිකිරීම සඳහා ඉන්දීය රජයේ මූල්‍ය ප්‍රතිපාදන යටතේ ක්‍රියාත්මක ‘භාරත්-ලංකා’ නිවාස ව්‍යාපෘතියේ සිවුවන අදියරේ ඉදිකිරීම් කටයුතු ආරම්භ කිරීමේ අවස්ථාවට ජනාධිපති කාර්යාලයේ සිට මාර්ගගත තාක්ෂණය ඔස්සේ එක් වෙමිනි.
+President Ranil Wickremesinghe made this statement in the presidency to commence the construction of the Construction of the Construction of Rs.
+
+President Ranil Wickremesinghe, Water Supply Infrastructure Development Minister Ranil Wickremesinghe, Minister of Water Supply and Estate InfrastructureHigh Commissioner was also carried out by the Gunawardena.
+
+Speaking further, President Ranil Wickremesinghe further said,
 
 ...
 
 [Data](articles/df8e72a4.json)
+
+[Extended Data](ext_articles/df8e72a4.ext.json)
 
 ---
 
@@ -1959,39 +2057,5 @@ Further, strong quarterly earnings for the December quarter and satisfactory div
 [Data](articles/ea3016fe.json)
 
 [Extended Data](ext_articles/ea3016fe.ext.json)
-
----
-
-### Twenty -20th match is the second fastest takerid winning 100 wickets
-
-*2024-02-19 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176805) · `ta`
-
-Sri Lankan captain Wanindu Hazaranga has set the record for the fastest taking 100 wickets in the Twenty20 match.
-
-He has taken his 100th wicket through Najibullah Satran's wicket in the second Twenty20 match against Afghanistan in Thambulla.
-
-Accordingly, he has been ranked second in the fastest -100 wickets. He has participated in 63 matches and took these 100 wickets.
-
-Afghan player Rashid Khan topped the list with a hundred wickets in 53 matches.
-
-◼️
-
-[Data](articles/8190ced3.json)
-
-[Extended Data](ext_articles/8190ced3.ext.json)
-
----
-
-### Ganagarama Mal Perahera...
-
-*2024-02-19 22:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ganagarama-Mal-Perahera/110-277333) · `en`
-
-A floral procession (Mal Perahera) was held this evening at the Ganagarama Temple in Colombo. Annual Navam Perahera will be held in Colombo on February 22nd and 23rd 2024. Pix by Pradeep Pathirana.
-
-◼️
-
-[Data](articles/79236b81.json)
-
-[Extended Data](ext_articles/79236b81.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 17:17:22**
+As of **2024-02-20 17:33:20**
 
 ## Newspaper Stats
 
-*Scraped **8,277** Articles*
+*Scraped **8,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 434
 dailyftlk | 444
 adalk | 706
 adaderanalk | 1,000
-tamilmirrorlk | 1,017
-virakesarilk | 1,118
-adaderanasinhalalk | 1,207
+tamilmirrorlk | 1,018
+virakesarilk | 1,119
+adaderanasinhalalk | 1,208
 dailymirrorlk | 1,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,276 (100.0%) of 8,277 articles have been extended.
+8,277 (100.0%) of 8,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ තාවකාලික පැවිදි දිවියට
+
+*2024-02-20 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193622) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතා තාවකාලික පැවිදි භාවය ලබා තිබේ.
+
+ගුණතිලක රාජපක්ෂ මහතා මෙලෙස තාවකාලික පැවිදි වීම සඳහා ඉන්දියාව බලා ගොස් තිබුණි.
+
+බුදුරජාණන් වහන්සේ ප්‍රථම ධර්ම දේශනාව සිදුකළ ඉසිපතනාරාමයේ මූල ගන්ධකුටි විහාරාධිපති පූජ්‍ය රත්මලේ සුමිත් ආනන්ද හා පූජ්‍ය දෙහිඅත්තකණ්ඩියේ පියනන්ද නායකහිමිවරුන්ගේ උපාධ්‍යායෙන් යුක්තව ආගමික වතාවත් අනුව අද (20) දින පෙරවරුවේ පූජ්‍ය හාරිස්පත්තුවේ ධම්මරතන නමින් පැවිදි භාවයට ඇතුළත්වී තිබේ.
+
+කැනඩාවේ පදිංචි, වෘත්තියෙන් ඉංජිනේරුවකු වන ගුණතිලක රාජපක්ෂ මහතාගේ පුත් සඳකැළුම් රාජපක්ෂ මහතාද පූජ්‍ය අම්පාරේ ධම්මාලෝක නමින් මෙම අවස්ථාවේදීම තාවකාලික පැවිදි භාවයට ඇතුළත් වීමද සිදුවී ඇත.
+
+ගුණතිලක රාජපක්ෂ මහතාගේ බිරිඳ ද මීට කෙටි කලකට පෙර අභාවප්‍රාප්ත වූ අතර පසුගියදා පැවැති මහනුවර සංවර්ධන කමිටු රැස්වීම අවසානයේ හදිසියේ රෝගාතුර වූ ඒ මහතා රෝහල්ගත කිරීමටද පියවර ගැනුණි.
+
+...
+
+[Data](articles/fa2a515c.json)
+
+---
+
+### மத்ரஸா மாணவனின் மர்ம மரணம் ; சிசிரிவி தொழிநுட்பவியலாளர் உட்பட 4 சந்தேக நபர்கள் கைது
+
+*2024-02-20 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176893) · `ta`
+
+மாணவனின் மர்ம மரணம் தொடர்பிலான சிசிரிவி காட்சி உள்ளடங்கிய முக்கிய தடயப்பொருட்களை அழித்த குற்றச்சாட்டு அடிப்படையில் சிசிரிவி தொழிநுட்பவியலாளர் உட்பட 4  சந்தேக நபர்களை கல்முனை நீதிமன்ற கட்டளைக்கமைய சாய்ந்தமருது பொலிஸார் கைது செய்துள்ளனர்.
+
+குறித்த வழக்கு  கடந்த  வியாழக்கிழமை (15)  கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன்  முன்னிலையில் விசாரணைக்கு எடுத்து கொள்ளப்பட்ட நிலையில் மௌலவியின் வேண்டுகோளிற்கமைய சிசிரிவி காணொளிகளை அழித்தவர்களை இனங்கண்டு  கைது செய்து மன்றில்  முன்னிலைப்படுத்துமாறு  பொலிஸாருக்கு கட்டளை பிறப்பிக்கப்பட்டிருந்தது.
+
+இதற்கமைய இன்று செவ்வாய்க்கிழமை (20) சாய்ந்தமருது பொலிஸ் நிலையத்திற்கு சிசிரிவி தொழிநுட்பவியலாளர் உள்ளிட்ட 4 பேர் வரவழைக்கப்பட்டு வாக்குமூலம் பெறப்பட்ட நிலையில்  சாய்ந்தமருது பொலிஸ் நிலைய பொறுப்பதிகாரி எஸ்.எல். சம்சுதீன் வழிகாட்டலில் உப பொலிஸ் பரிசோதகர் ரவூப் தலைமையில்  கைது செய்யப்பட்டுள்ளனர்.
+
+இவ்வாறு கைது செய்யப்பட்டவர்கள்  அட்டாளைச்சேனை சாய்ந்தமருது பகுதியை சேர்ந்தவர்கள் என்பதுடன்  30,26,22 மற்றும் 23 வயது மதிக்கத்தக்கவர்கள் ஆவர்.
+
+...
+
+[Data](articles/5115f562.json)
+
+---
 
 ### Janaka Wakkumbura appointed State Minister of Environment
 
@@ -64,6 +102,20 @@ He has already been sworn in as the Minister of State for Environment and has no
 
 ---
 
+### சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக வக்கும்புர பதவிப்பிரமாணம்
+
+*2024-02-20 16:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-இராஜாங்க-அமைச்சராக-ஜானக-வக்கும்புர-பதவிப்பிரமாணம்/175-333534) · `ta`
+
+சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக வக்கும்புர சற்று முன்னர் ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+
+அவர் ஏற்கனவே மாகாண சபைகள் மற்றும் உள்ளூராட்சி இராஜாங்க அமைச்சராக பதவி வகித்து வரும் நிலையில் அதற்கு மேலதிகமாக தற்போது சுற்றாடல் இராஜாங்க அமைச்சராகவும் பதவிப்பிரமாணம் செய்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8c915e34.json)
+
+---
+
 ### Janaka Wakkumbura gets additional ministerial portfolio
 
 *2024-02-20 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Janaka-Wakkumbura-gets-additional-ministerial-portfolio/108-277408) · `en`
@@ -82,17 +134,19 @@ This appointment supplements his existing role as the State Minister of Provinci
 
 ---
 
-### ජනක වක්කුඹුර පරිසර රාජ්‍ය අමාත්‍ය ලෙස දිවුරුම්දෙයි
+### Janaka Wakkumbura is sworn in as the State Minister of Environment
 
 *2024-02-20 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193621) · `si`
 
-තවත් රාජ්‍ය අමාත්‍යවරයෙක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ දිවුරුම්දී තිබේ.
+Another State Minister has been sworn in before President Ranil Wickremesinghe.
 
-පළාත් සභා සහ පළාත් පාලන කටයුතු රාජ්‍ය අමාත්‍ය ජනක වක්කුඹුර මහතා මෙලෙස පරිසර රාජ්‍ය අමාත්‍යවරයා ලෙස නව ධුරයේ දිවුරුම් දී ඇත.
+Provincial Councils and Local Government Affairs Janaka Wakkumbura has been sworn in as the State Minister of Environment.
 
 ◼️
 
 [Data](articles/9f016909.json)
+
+[Extended Data](ext_articles/9f016909.ext.json)
 
 ---
 
@@ -1927,59 +1981,5 @@ The Department of Communications of Parliament has said that the Mosque will be 
 [Data](articles/76053200.json)
 
 [Extended Data](ext_articles/76053200.ext.json)
-
----
-
-### Iran's Foreign Minister arrived in the country
-
-*2024-02-20 09:33:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானின்-வெளிவிவகார-அமைச்சர்-நாட்டை-வந்தடைந்தார்/175-333495) · `ta`
-
-Iran's Foreign Minister Hossein Amir Abdullah, a three -day official visit to Katunayake on Monday night (19), arrived at the Iranian government -owned IRAN 05.
-
-He was accompanied by 20 top officials of the country and they were visiting the country from Monday (19) to Wednesday (21).
-
-It is noteworthy that Foreign Minister Taraka Balasuriya and a delegation were present to welcome the Iranian Foreign Minister and the team.
-
-◼️
-
-[Data](articles/1c02ed01.json)
-
-[Extended Data](ext_articles/1c02ed01.ext.json)
-
----
-
-### Iran's Foreign Minister arrived
-
-*2024-02-20 09:33:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-வெளிவிவகார-அமைச்சர்-வந்தடைந்தார்/175-333495) · `ta`
-
-Iran's Foreign Minister Hossein Amir Abdullah, a three -day official visit to Katunayake on Monday night (19), arrived at the Iranian government -owned IRAN 05.
-
-He was accompanied by 20 top officials of the country and they were visiting the country from Monday (19) to Wednesday (21).
-
-It is noteworthy that Foreign Minister Taraka Balasuriya, including the Minister of Foreign Affairs, welcomed the Iranian Foreign Minister and the group.
-
-◼️
-
-[Data](articles/7d76e0da.json)
-
-[Extended Data](ext_articles/7d76e0da.ext.json)
-
----
-
-### Innovative Workplace at the Colombo Hospital
-
-*2024-02-20 09:32:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-வைத்தியசாலையில்-புதுமையான-பணிப்புறக்கணிப்பு/175-333494) · `ta`
-
-A senior official of the Ministry of Health has said that doctors have filed a complaint against the Colombo National Hospital employees who are engaged in an unofficial workforce at the hospital premises demanding the sacking of the Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana.
-
-The official said that about 300 employees of the hospital continued to protest and some of them were receiving additional time scholarships.. The official said that there are also employees of eye, children, dental and Soyza hospitals.
-
-The Ministry of Health further stated that about 3,000 employees who are continuing to protest are working at the National Hospital and action will be taken against the employees who are working on the work and the unofficial strike.
-
-◼️
-
-[Data](articles/fd1a1e09.json)
-
-[Extended Data](ext_articles/fd1a1e09.ext.json)
 
 ---

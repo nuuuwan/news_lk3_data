@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 08:33:17**
+As of **2024-02-20 08:50:53**
 
 ## Newspaper Stats
 
-*Scraped **8,144** Articles*
+*Scraped **8,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 419
 islandlk | 422
 dailyftlk | 443
 adalk | 694
-tamilmirrorlk | 990
-adaderanalk | 990
+adaderanalk | 991
+tamilmirrorlk | 991
 virakesarilk | 1,091
 adaderanasinhalalk | 1,186
 dailymirrorlk | 1,201
@@ -26,11 +26,29 @@ dailymirrorlk | 1,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,144 (100.0%) of 8,144 articles have been extended.
+8,144 (100.0%) of 8,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### Pilot project to digitize education to be launched in March
+
+*2024-02-20 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97401/pilot-project-to-digitize-education-to-be-launched-in-march) · `en`
+
+Education Minister Dr. Susil Premajayantha has revealed that a pilot project for the digitization of education is set to be launched in March.
+
+Speaking at a briefing held at the Presidential Media Center (PMC) on Monday (19 Feb.), Premajayantha noted that Microsoft is slated to aid the initiative with regards to training teachers for the said purpose.
+
+The Minister also confirmed the dispatch of school textbooks for the year 2024 for distribution, elaborating that all school textbooks pertinent to the year 2024 have been dispatched to distribution stations, ensuring complete coverage.
+
+According to the President’s Media Division (PMD), plans are in place to finalize their distribution at the school level by the first of March, with an expenditure totalling Rs. 12 billion allocated for this purpose.
+
+...
+
+[Data](articles/6b033d01.json)
+
+---
 
 ### Last night shooting at Borelle
 
@@ -335,6 +353,22 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/29dd46c0.json)
 
 [Extended Data](ext_articles/29dd46c0.ext.json)
+
+---
+
+### கல்வித்துறையை டிஜிட்டல் மயமாக்கும் திட்டம்
+
+*2024-02-20 04:34:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வித்துறையை-டிஜிட்டல்-மயமாக்கும்-திட்டம்/175-333488) · `ta`
+
+கல்வித்துறையை டிஜிட்டல் மயமாக்குவதற்கான முன்னோடித் திட்டத்தை மார்ச் மாதம் ஆரம்பிக்க ஏற்பாடு செய்யப்பட்டுள்ளதாக கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்த் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவிக்கும்போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+கல்வித்துறையை டிஜிட்டல் மயமாக்கும் முன்னோடித் திட்டத்தை மார்ச் மாதத்தில் தொடங்க ஏற்பாடுகள் செய்யப்பட்டுள்ளன. அதற்காக ஆசிரியர்களை பயிற்றுவிப்பதற்கு மைக்ரோசொப்ட் நிறுவனம் ஆதரவு அளிக்கிறது என்றார். (a)
+
+◼️
+
+[Data](articles/b6865d82.json)
 
 ---
 
@@ -2039,49 +2073,5 @@ The Kotakethana area became notorious for a series of mysterious killings and du
 [Data](articles/120a2e46.json)
 
 [Extended Data](ext_articles/120a2e46.ext.json)
-
----
-
-### Gallows for Kotakethana ‘Serial Killer’
-
-*2024-02-19 16:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gallows-for-Kotakethana-Serial-Killer/108-277327) · `en`
-
-Ratnapura High Court judge Lanka Jayaratne imposed the death sentence on a convict who was indicted for double murder at Kotakethana in Ratnapura.
-
-Prosecuted entirely based on DNA evidence by Senior Deputy Solicitor General (SDSG) Lakmali Karunanayake, court found accused Neil Lakshman guilty of the murder of a mother and daughter in Kotakethana in 2012.
-
-The accused was indicted for raping the daughter and committing the double murder. According to the evidence the house where the murders were committed was set on fire to destroy all evidence.
-
-The Kotakethana area became notorious for a series of mysterious killings and during the trial it transpired that the multiple murder was also connected to the first ever ‘serial killer’ reported in Sri Lanka.
-
-The victims had been brutally killed, attacking them on their heads with a sharp weapon.
-
-Considering the seriousness of the offence, the Attorney General had filed a direct indictment without a non-summary proceeding.
-
-...
-
-[Data](articles/ba9441f0.json)
-
-[Extended Data](ext_articles/ba9441f0.ext.json)
-
----
-
-### Gallows for Kotakethana double murderer
-
-*2024-02-19 16:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Gallows-for-Kotakethana-double-murderer/155-277327) · `en`
-
-Ratnapura High Court judge Lanka Jayaratne imposed the death sentence on a convict who was indicted for double murder at Kotakethana in Ratnapura.
-
-Prosecuted entirely based on DNA evidence by Senior Deputy Solicitor General (SDSG) Lakmali Karunanayake, court found accused Neil Lakshman guilty of the murder of a mother and daughter in Kotakethana in 2012.
-
-The accused was indicted for raping the daughter and committing the double murder. According to the evidence the house where the murders were committed was set on fire to destroy all evidence.
-
-The Kotakethana area became notorious for a series of mysterious killings and during the trial it transpired that the multiple murder was also connected to the first ever ‘serial killer’ reported in Sri Lanka.
-
-◼️
-
-[Data](articles/f46ae3ca.json)
-
-[Extended Data](ext_articles/f46ae3ca.ext.json)
 
 ---

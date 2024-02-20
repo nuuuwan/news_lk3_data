@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 22:49:46**
+As of **2024-02-20 23:02:32**
 
 ## Newspaper Stats
 
-*Scraped **8,324** Articles*
+*Scraped **8,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 429
 islandlk | 434
 dailyftlk | 444
-adalk | 708
+adalk | 712
 adaderanalk | 1,007
-tamilmirrorlk | 1,024
+tamilmirrorlk | 1,025
 virakesarilk | 1,120
 adaderanasinhalalk | 1,213
 dailymirrorlk | 1,231
@@ -26,7 +26,7 @@ dailymirrorlk | 1,231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,324 (100.0%) of 8,324 articles have been extended.
+8,324 (99.9%) of 8,329 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,18 @@ Thirteen council members voted in favor of the Algerian-drafted text, while Brit
 [Data](articles/6ed4ff56.json)
 
 [Extended Data](ext_articles/6ed4ff56.ext.json)
+
+---
+
+### ஈரான் வெளிவிவகார அமைச்சர் - ஜனாதிபதி சந்திப்பு
+
+*2024-02-20 21:52:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-வெளிவிவகார-அமைச்சர்-ஜனாதிபதி-சந்திப்பு/175-333542) · `ta`
+
+இலங்கைக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஈரான் வெளிவிவகார அமைச்சர் ஹொசைன் அமீர் அப்துல்லாஹியனுக்கும் (Hossein Amir-Abdollahian) ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இடையிலான சந்திப்பு  ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+◼️
+
+[Data](articles/d0f96969.json)
 
 ---
 
@@ -216,6 +228,24 @@ The Iranian Foreign Minister arrived in Sri Lanka yesterday (19) on an officia
 
 ---
 
+### විදුලි බිල අඩු කිරීම ගැන ඇමති කංචනගෙන් සහතිකයක්
+
+*2024-02-20 20:16:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිල-අඩු-කිරීම-ගැන-ඇමති-කංචනගෙන්-සහතිකයක්/11-408204) · `si`
+
+විදුලිබල අමාත්‍යාංශය මීට පෙර බලාපොරොත්තු වූ මුදලට වඩා වැඩි මුදලකින් විදුලිබිල පහත දැමීමට කටයුතු කරන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+
+ඒ අනුව විදුලිබල මණ්ඩලයේ යෝජනාව ලැබුණු පසු විදුලිබිල අඩු කිරීම සඳහා වන යෝජනාව මහජන උපයෝගිතා කොමිසමට ඉදිරිපත් කරන බව අද (20දා) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් කරමින් හෙතෙම සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් අමාත්‍ය කංචන විජේසේකර මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"පසුගිය දෙසැම්බර් මාසයේ කැබිනට් මණ්ඩලය තීරණයක් ගත්තා විදුලි බිල සංශෝධනය කළ යුතුයි කියලා පෙබරවාරි මාසයේ. ඒ අනුව විදුලිබල මණ්ඩලය ඔවුන්ගේ යෝජනාව දීලා තියෙනවා මහජන උපයෝගිතා කොමිසමට. ඒ අතරතුර අපි ඉල්ලීමක් කළා විවිධ පාර්ශ්වයන්ගෙන් විදුලි බිල සම්බන්ධයෙන් තියෙන යෝජනා, ඔවුන් දකින ගැටලු පිළිබඳ යෝජනා අපට ලබා දෙන්න කියලා. ඒ සාකච්ඡාවට විවිධ පාර්ශ්ව සම්බන්ධ වුණා. විශ්වවිද්‍යාල නියෝජනය කරන ඉංජිනේරු සංගම්, ඉංජිනේරුවන්, විදුලිබල ක්ෂේත්‍රයේ ඉන්න ප්‍රවීණයන් ඇතුළු 40ට ආසන්න පිරිසක් සම්බන්ධ වුණා. ඔවුන් යෝජනා ලබා දුන්නා.
+
+...
+
+[Data](articles/f6e3492a.json)
+
+---
+
 ### Thomians regain Abeynaike Trophy
 
 *2024-02-20 19:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thomians-regain-Abeynaike-Trophy/108-277415) · `en`
@@ -260,6 +290,24 @@ Meanwhile, the “Kids Academy” of Ada Derana 24 was awarded the Best Televisi
 
 ---
 
+### ලාංකික කතුන් විදෙස් ගෘහ සේවයට යැවීම සම්පූර්ණයෙන් නතර කිරීමට පියවර
+
+*2024-02-20 19:33:36* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකික-කතුන්-විදෙස්-ගෘහ-සේවයට-යැවීම-සම්පූර්ණයෙන්-නතර-කිරීමට-පියවර/11-408201) · `si`
+
+වසර දහයක් තුළදී  ශ්‍රී ලාංකික කාන්තාවන් ගෘහ සේවිකාවන් ලෙස විදේශ රැකියා සදහා පිටත් කර යැවීම සම්පූර්ණයෙන්ම නතර කිරිමට අවශ්‍ය පියවර ගන්නා බව කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා පැවසීය.
+
+මේ සදහා වන යෝජනාවලියක් සහ සැලසුම් කඩිනමින් තමන් වෙත ලබාදෙන ලෙසට කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ ඉහළ කළමනාකාරීත්වයට සහ බලපත්‍රලාභී විදේශ සේවා නියුක්ති නියෝජිත ආයතන සංගමයට අද (20)  දැනුම් දුන්නේය.
+
+ගෘහ සේවිකාවන් ලෙස ශ්‍රමිකයින් පිටත් කර යැවීම නතර කර   ඉහළ වැටුප් ලබාගත හැකි පුහුණු රැකියා අවස්ථා සදහා පමණක් ශ්‍රමිකයින් යැවීමේ වැදගත්කමද අමාත්‍යවරයා අවධාරණය කළේය.
+
+ඒ අනුව වසර දහයක් තුළදී ගෘහ සේවිකාවන් විදේශ රැකියා සදහා පිටත් කර යැවීම සම්පූර්ණයෙන්ම නතර කිරීම සදහා ක්ෂේත්‍රයට සම්බන්ධ සියලුම පාර්ශවයන් සම්බන්ධ කරගනිමින් මෙම යෝජනාවලිය තමන් වෙත ලබාදෙන ලෙසද බලපත්‍රලාභී විදේශ සේවා නියුක්ති නියෝජිත ආයතන සංගමය සමග අද පැවති සාකච්ඡාවේදී අමාත්‍යවරයා දැනුම් දුන්නේය.
+
+◼️
+
+[Data](articles/f8ffba23.json)
+
+---
+
 ### Oh How Mighty Kandy Have Fallen?
 
 *2024-02-20 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Oh-How-Mighty-Kandy-Have-Fallen/108-277414) · `en`
@@ -301,6 +349,22 @@ Kandy SC have had some tricky moments as well, during which the fan base in Colo
 [Data](articles/cb78fd55.json)
 
 [Extended Data](ext_articles/cb78fd55.ext.json)
+
+---
+
+### මන්ත්‍රී ගුණතිලක රාජපක්ෂ තාවකාලිකව පැවැදි දිවියට
+
+*2024-02-20 19:25:54* · [`adalk`](https://www.ada.lk/religion/මන්ත්‍රී-ගුණතිලක-රාජපක්ෂ-තාවකාලිකව-පැවැදි-දිවියට/4-408200) · `si`
+
+මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී සහමහනුවර දිස්ත්‍රික්සම්බන්ධීකරණ කමිටු සභාපතිගුණතිලක රාජපක්ෂ මහතා සහ ඔහුගේ පුත්‍රයාඉන්දියාවේ බරණැසඉසිපතනාරාමමූල ගන්ධකුටි විහාරස්ථානයේදී අද (20)තාවකාලික පැවිදි දිවියට පත්ව තිබේ .
+
+ගුණතිලක රාජපක්ෂ මහතා ඉසිපතන මූල ගන්ධකුට විහාරාධිපති පූජ්‍ය රත්මලේ සුමිත් ආනන්ද ස හපූජ්‍ය දෙහිඅත්තකන්ඩියේ පියනන්ද යන නාහිමිවරුන්ගේ උපාධ්‍යයත්වයෙන්හාරිස්පත්තුවේ ධම්මරතන යන නමින්ද ඔහුගේ පුත්‍ රකැනඩාවේ පදිංචි වෘත්තියෙන් ඉංජිනේරුවකු වන සඳකැලුම් රාජපක්ෂ මහතා අම්පාරේ ධම්මාලෝකනමින්ද තාවකාලික පැවිද්ද ලබා තිබේ .
+
+ඔවුන් දෙදෙනා තාවකාලික පැවිද්ද ලබා සිටින කෙටි කාලය තුළදී දඹදිව සිද්ධස්ථාන රැසක්වන්දනා කිරීමට බලාපොරොත්තු වන බව මන්ත්‍රීවරයාගේ සම්බන්ධීකරණ ලේකම්අනුර මඩලුස්ස මහතාපැවසීය .
+
+◼️
+
+[Data](articles/6db5f55f.json)
 
 ---
 
@@ -449,6 +513,22 @@ The MP is said to have decided to enter the monk after the death of his wife.
 [Data](articles/ea44d0aa.json)
 
 [Extended Data](ext_articles/ea44d0aa.ext.json)
+
+---
+
+### ජානක වක්කුඹුරට තවත් රාජ්‍ය අමාත්‍යධුරයක්
+
+*2024-02-20 18:52:50* · [`adalk`](https://www.ada.lk/breaking_news/ජානක-වක්කුඹුරට-තවත්-රාජ්‍ය-අමාත්‍යධුරයක්/11-408198) · `si`
+
+පළාත් සභා, පළාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍යවරයා ලෙස ජානක වක්කුඹුර මහතා අද (20) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ දිවුරුම් දුන්නේය.
+
+ඒ මහතා විසින් මීට පෙර දරන ලද පළාත් සභා හා පළාත් පාලන රාජ්‍ය අමාත්‍ය ධූරයට අමතරව මෙම නව පත් කිරීම සිදු කර තිබේ.
+
+දිවුරුම් දීමේ අවස්ථාවට ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ද එක්ව සිටියේය.
+
+◼️
+
+[Data](articles/878612c7.json)
 
 ---
 
@@ -1887,97 +1967,5 @@ Avissawella has clashed with Eheliyagoda, Parakaduwa, Kuruwita, Ratnapura, Watap
 [Data](articles/d6660874.json)
 
 [Extended Data](ext_articles/d6660874.ext.json)
-
----
-
-### Jaffna District Fishermen protest against Indian fishermen
-
-*2024-02-20 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176851) · `ta`
-
-Fisheries organizations are engaged in a protest on Tuesday (20) on a former road to the Jaffna Indian Embassy, demanding a solution to the Indian fishermen's border.
-
-Meanwhile, our official correspondent said that some of the protesters were summoned by the Indian embassy officials.
-
-◼️
-
-[Data](articles/8da22a41.json)
-
-[Extended Data](ext_articles/8da22a41.ext.json)
-
----
-
-### Acre taxes up from 100 per cent
-
-*2024-02-20 12:22:53* · [`adalk`](https://www.ada.lk/breaking_news/අක්කර-බදු--සියයට-සියයකින්-ඉහළට/11-408190) · `si`
-
-The farmers say that the acres of acreage fees charged by the Department of Agrarian Services have increased by 100%.
-
-New acreage charged per acre is Rs.100. This is an increase of Rs.. The total tax of Rs. 15 was later increased by Rs.
-
-Meanwhile, agricultural products and research assistants who are attached to the farmers' services offices. They say that they are profuse the agitation on taxes.
-
-◼️
-
-[Data](articles/6ca89d2a.json)
-
-[Extended Data](ext_articles/6ca89d2a.ext.json)
-
----
-
-### Biscuits arrest
-
-*2024-02-20 12:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிஸ்கட்-கொடுத்தவர்-கைது/175-333512) · `ta`
-
-Police have arrested a man who went to visit a prisoner in Colombo.
-
-Prison Commissioner (Media Spokesperson) Gamini B.. Dissanayake said.
-
-Accordingly, the arrested person and tobacco have been handed over to the Borella police for further legal action and further investigations are underway.
-
-◼️
-
-[Data](articles/e89bf4f2.json)
-
-[Extended Data](ext_articles/e89bf4f2.ext.json)
-
----
-
-### July Chang worried about the online bill
-
-*2024-02-20 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193611) · `si`
-
-US Ambassador July Chang, July Chang, has requested the priority not only to listen to the needs of the international community but also to the needs of the citizens of the country.
-
-She said that she was speaking on the security of the online bill, or on the online bill.
-
-Foreign media reports that she has expressed concerns on the three areas of error, intention, the influence of inevitability, inevitable impact on the way of speech.
-
-The US Ambassador has said that the Bill would be defective in the bill.
-
-She is intending to fight and have expressed their concern for the lack of internet attacks on the broader definitions used in the Bill, but she has expressed his concern over the abuse of the legal statement.
-
-She has questioned whether the actual solution is received by the Internet speaker on the impact on the amendment of the Act.
-
-◼️
-
-[Data](articles/8ec692a9.json)
-
-[Extended Data](ext_articles/8ec692a9.ext.json)
-
----
-
-### Tobacco pieces in the chocolate pack of a man who visited the prisoner
-
-*2024-02-20 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176850) · `ta`
-
-Prison Commissioner (Media Spokesperson) Gamini B.. Dissanayake said.
-
-He added that the suspect had been searched by the prison officers and handed over the suspect to the Borella police.
-
-◼️
-
-[Data](articles/b9d0cc72.json)
-
-[Extended Data](ext_articles/b9d0cc72.ext.json)
 
 ---

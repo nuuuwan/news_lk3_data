@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 13:33:04**
+As of **2024-02-20 13:51:45**
 
 ## Newspaper Stats
 
-*Scraped **8,223** Articles*
+*Scraped **8,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ economynextcom | 421
 islandlk | 434
 dailyftlk | 444
 adalk | 700
-adaderanalk | 996
-tamilmirrorlk | 1,005
+adaderanalk | 997
+tamilmirrorlk | 1,008
 virakesarilk | 1,108
 adaderanasinhalalk | 1,197
-dailymirrorlk | 1,207
+dailymirrorlk | 1,208
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,223 (100.0%) of 8,223 articles have been extended.
+8,225 (100.0%) of 8,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### Dr. Bellana says ready to resign if transferred from NHSL
+
+*2024-02-20 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97407/dr-bellana-says-ready-to-resign-if-transferred-from-nhsl) · `en`
+
+The Deputy Director of the National Hospital of Sri Lanka (NHSL) Dr. Rukshan Bellana has stated that he is ready to resign at any moment, if required.
+
+Speaking at a press conference on Tuesday morning (20 Feb.), Dr. Bellana explained that if he is transferred from his current post, as demanded by the junior staff of the Colombo National Hospital, he is willing to resign.
+
+Dr. Bellana further accused the Ministry of Health and high-ranking officials within the health sector of having adapted to an ‘easy administration’ policy, within which crucial decisions are taken solely based on ‘the power of voices’.
+
+On 17 February, the junior staff of the Colombo National Hospital warned that they will continue their protests until the hospital’s Deputy Director Dr. Rukshan Bellana is removed from his position.
+
+...
+
+[Data](articles/c35e4bda.json)
+
+[Extended Data](ext_articles/c35e4bda.ext.json)
+
+---
+
+### மின்சார கட்டணம் பற்றி எடுக்கப்பட்டுள்ள தீர்மானம்
+
+*2024-02-20 13:04:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டணம்-பற்றி-எடுக்கப்பட்டுள்ள-தீர்மானம்/175-333515) · `ta`
+
+இதற்கு முன்னர்  குறிப்பிட்ட தொகையை விட அதிகமாக மின்சார கட்டணம் குறைக்கப்படும் என எதிர்பார்க்கப்படுவதாக மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+அத்துடன், இது தொடர்பான முன்மொழிவு பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் சமர்ப்பிக்கப்பட்டு அது தொடர்பில் முடிவெடுக்கப்படும் என்றும் அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/1f9ead78.json)
+
+---
+
+### இடமாற்றம் வழங்கினால் ஓய்வு பெறுவேன்
+
+*2024-02-20 13:01:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடமாற்றம்-வழங்கினால்-ஓய்வு-பெறுவேன்/175-333514) · `ta`
+
+தான் எந்த நேரத்திலும் ஓய்வு பெறத் தயார் என கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் டொக்டர் ருக்ஷான் பெல்லான தெரிவித்துள்ளார்.
+
+“பொதுமக்களின் நலனுக்கான செயற்படுகையில் இவ்வாறான இடையூறுகள் செய்யப்படுகின்றது. ஊழியர்களின் கோரிக்கைக்கு செவிசாய்த்து எனக்கு இடமாற்றம் வழங்கினால் நான் ஒய்வு பெற்றுச் சென்று விடுவேன்” என்றும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/262f9222.json)
+
+---
 
 ### N’Eliya Road Passenger Transport Authority officials arrested for accepting bribe
 
@@ -82,6 +130,30 @@ The Union of Nuwara Eliya District Development forums, Social Development Forums
 
 ---
 
+### Promotion of maritime passenger transport between Sri Lanka and India
+
+*2024-02-20 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Promotion-of-maritime-passenger-transport-between-Sri-Lanka-and-India/108-277398) · `en`
+
+Colombo, Feb 20 (Daily Mirror) - The government approved reducing the deviation tax currently charged on passengers leaving Sri Lanka by passenger vessels and ships.
+
+The decision was announced at the weekly briefing on Cabinet decisions by Minister Bandula Gunawardana today.
+
+Accordingly, the deviation tax currently charged on passengers leaving Sri Lanka by passenger vessels and ships is USD 5 and USD 20, respectively.
+
+Also, approval was granted for a free baggage allowance of up to 60 kgs per passenger travelling by passenger vessel.
+
+It has been recognized that the promotion of maritime passenger transport between Sri Lanka and India has the potential to promote the tourism industry by providing increased access to tourists from both countries, and through improved connections to encourage cooperation in the fields of cultural exchange, arts and sports, the Minister said.
+
+He said that it is essential to introduce a low-cost travel and transport fee system.
+
+◼️
+
+[Data](articles/f3ebfaec.json)
+
+[Extended Data](ext_articles/f3ebfaec.ext.json)
+
+---
+
 ### Jaffna District Fishermen protest against Indian fishermen
 
 *2024-02-20 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176851) · `ta`
@@ -95,6 +167,22 @@ Meanwhile, our official correspondent said that some of the protesters were summ
 [Data](articles/8da22a41.json)
 
 [Extended Data](ext_articles/8da22a41.ext.json)
+
+---
+
+### பிஸ்கட் கொடுத்தவர் கைது
+
+*2024-02-20 12:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிஸ்கட்-கொடுத்தவர்-கைது/175-333512) · `ta`
+
+கொழும்பு விளக்கமறியல்  சிறையிலுள்ள கைதியை பார்வையிடுவதற்காக சென்ற நபரொருவரை பொலிஸார் கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட நபர் பிஸ்கட் பக்கட்டில்  புகையிலை துண்டுகளை  மறைத்து வைத்து கைதிக்கு கொடுக்க முயன்றதாக சிறைச்சாலை ஆணையாளர் (ஊடகப் பேச்சாளர்) காமினி பி. திஸாநாயக்க தெரிவித்தார்.
+
+இதற்கமைய, கைது செய்யப்பட்ட நபரையும் புகையிலையும் மேலதிக சட்ட நடவடிக்கைகளுக்காக பொரளை பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளதாகவும் மேலதிக விசாரணைகளை மேற்காண்டு வருவதாகவும்  தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e89bf4f2.json)
 
 ---
 
@@ -1967,97 +2055,5 @@ Later in 1981 I began working as a staff reporter on the English daily “The Is
 [Data](articles/665b4fb4.json)
 
 [Extended Data](ext_articles/665b4fb4.ext.json)
-
----
-
-### In a development unprecedented in Sri Lankan politics, both electoral front runners the JVP and SJB are going out of their way to woo the most Sinhala-Buddhist supremacist institutions in the country.
-
-*2024-02-20 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83643) · `en`
-
-“…it is not the elimination of racialism or nationalism that we want in this world today; it is the harmonisation of nationalism and racialism for future progress.” Speech during the debate of The Citizenship Act
-
-The news barely made the news. Defence secretary (retired) General Kamal Gunaratne and Army Commander General Vikum Liyanage were ordered by the Parliamentary Privileges Committee to apologise to parliamentarian Chandima Weerakkody.
-
-Last October, the two generals threatened Mr. Weerakkody inside the parliament at a meeting of the sectoral oversight committee on national security. During a discussion on downsizing the military, Mr Weerakkody deplored the wasteful expenditure of the top brass.
-
-...
-
-[Data](articles/1d4b0a60.json)
-
-[Extended Data](ext_articles/1d4b0a60.ext.json)
-
----
-
-### Sriyani Hulugalle’s Novelette  ‘Shadows of Hantana’: A romantic experience for readers
-
-*2024-02-20 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83650) · `en`
-
-Former World Bank senior economist and novelist, Sriyani Hulugalle, has published her latest novelette in Sinhala under the title ‘Shadows of Hantana’, a story she had penned when she was at the University of Peradeniya in the 1970s.
-
-This is her third published creative work, the previous two being ‘Beyond the Rainbow’ and ‘Cherry Blossoms’. Contrary to these two works, the present work which she had written when she was passing her teenage years is a romantic novel peeping into the depth of love, sacrifice, and betrayal.
-
-Hulugalle has written this story at a time when Sri Lanka’s Sinhala romantic novels had been heavily influenced by the genre introduced by Karunasena Jayalath through his ‘Golu Hadawatha’ (The Silent Heart) in 1960s and a series of subsequent works written by him and many others on the same theme.
-
-...
-
-[Data](articles/a991c876.json)
-
-[Extended Data](ext_articles/a991c876.ext.json)
-
----
-
-### The UPI revolution: Cashless digitised economy activated
-
-*2024-02-20 00:45:12* · [`dailyftlk`](https://www.ft.lk/columns/The-UPI-revolution-Cashless-digitised-economy-activated/4-758654) · `en`
-
-It’s time now for the cashless digitised economy revolution in Sri Lanka too
-
-The long-term opportunity for Sri Lanka is to use this technology to drive digitised transactions among Sri Lankan consumers. This would be a win-win for all – consumers need not carry cash or cards, merchants can have much better control of their revenues and the Government will now be able to accrue greater revenue by channelling the unorganised cash sector into the formal economy
-
-I became the first person to officially transact using UPI in Sri Lanka on 12 February 2024. In the presence of three heads of states/governments. Leaders of India, Sri Lanka and Mauritius watched the transaction and celebrated its success with applause.
-
-So what is UPI? How does it benefit Indian consumers, merchants and its economy? And why is it such a big deal? And how can Sri Lanka benefit from its introduction here?
-
-UPI is a payment gateway used in India that’s catapulting India from a primarily cash economy to a digital economy.
-
-...
-
-[Data](articles/5f40b94e.json)
-
-[Extended Data](ext_articles/5f40b94e.ext.json)
-
----
-
-### Mawbima Janatha Party Leader and Presidential aspirant Dility Jayaweera Addresses Party’s Colombo District Summit and Unveils Plan for a “New Era of Transformation and Prosperity”
-
-*2024-02-20 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83648) · `en`
-
-The Mawbima Janatha Party (MJP) and its presidential hopeful Dilith Jayaweera on Saturday at the Colombo District Summit, revealed plans to soon launch an ambitious action plan aimed at transforming Sri Lanka›s socio-economic fabric.
-
-This announcement came during a significant gathering at the Sugathadasa Indoor Stadium in Colombo, which saw an impressive turnout of nearly 10,000 people, including party supporters, senior politicians, professionals, and prominent businessmen, showcasing the event›s massive success and the broad base of support for the MJP.
-
-Jayaweera, a distinguished businessman from Colombo with aspirations of running for the presidency, has been an outspoken advocate for a more developed Sri Lanka, a vision he has harboured since his university days.
-
-...
-
-[Data](articles/eb4ddc91.json)
-
-[Extended Data](ext_articles/eb4ddc91.ext.json)
-
----
-
-### Busting fake unions presents avenues for better progress
-
-*2024-02-20 00:41:57* · [`dailyftlk`](https://www.ft.lk/opinion/Busting-fake-unions-presents-avenues-for-better-progress/14-758653) · `en`
-
-For some union leaders, entry into a factory with wider membership promises better funding and position
-
-The Sri Lankan apparel industry captured the spotlight over the past year, as reduced orders resulted in factory closures, lesser earnings and job losses. The drop in orders was consequent to a global demand dip stemming from COVID-19-led lockdowns. This was compounded by price competitiveness, with Sri Lanka trailing far behind nations like Bangladesh, Vietnam and China that also boasts significantly higher efficiency. Despite Sri Lanka’s high-cost base, the destination is a darling for global brands due to its high compliance standards and production quality. However, this will not suffice to grow the segment as other nations are catching up fast, especially with quality.
-
-...
-
-[Data](articles/60f026e7.json)
-
-[Extended Data](ext_articles/60f026e7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 14:32:58**
+As of **2024-02-20 14:49:50**
 
 ## Newspaper Stats
 
-*Scraped **8,238** Articles*
+*Scraped **8,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 444
 adalk | 701
 adaderanalk | 998
 tamilmirrorlk | 1,011
-virakesarilk | 1,108
+virakesarilk | 1,113
 adaderanasinhalalk | 1,200
 dailymirrorlk | 1,210
 
@@ -26,25 +26,119 @@ dailymirrorlk | 1,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,233 (99.9%) of 8,238 articles have been extended.
+8,243 (100.0%) of 8,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### ஒத்திகை பார்த்த குளவி: 73 மாணவர்கள் பாதிப்பு
+### 73 students at schoolThe incident in the passenger!
+
+*2024-02-20 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176865) · `ta`
+
+73 schoolchildren who were admitted to the Pasarai Hospital were admitted to the Pasarai Hospital on Tuesday (20), police said.
+
+The Chief Inspector of the Pasarai Police Station Piyaratne Ekanayake said that 18 of these students were being treated at the hospital and the remaining students had gone to the houses from the hospital.
+
+The incident took place as preparations for the annual sports event of the National School of Pasarai National School are being made in these days.
+
+◼️
+
+[Data](articles/e3b55742.json)
+
+[Extended Data](ext_articles/e3b55742.ext.json)
+
+---
+
+### The US Deputy Secretary of State, who has completed his visit to Sri Lanka, emphasized freedom of expression to transparent regime!
+
+*2024-02-20 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176864) · `ta`
+
+US Deputy Secretary of State for Public Diplomacy for the first public diplomacy, Liz Alan, completed his historic three -day visit to Colombo (from February 17 to 19).
+
+During his visit, he was involved in conversations with young leaders, entrepreneurs, and journalists, civil society and journalists, to ensure that Sri Lanka's economic recovery and long -term support for long -term prosperity.
+
+During a meeting with Secretary of the Ministry of Foreign Affairs, Aruni Wijewardene, Deputy Secretary of State Alan and the US Ambassador to Sri Lanka, Julie, discussed the strong partnership between the US and Sri Lanka, and outlined the intersection of vibrant information and sustainable economic growth.
+
+They also accepted the opportunity for Sri Lanka to build a path to forming a regional model for the regime.
+
+...
+
+[Data](articles/f5668e92.json)
+
+[Extended Data](ext_articles/f5668e92.ext.json)
+
+---
+
+### A boy arrested for abducting girl in Jaffna
+
+*2024-02-20 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176863) · `ta`
+
+Police have arrested a 17 -year -old boy who abducted a 15 -year -old girl in Jaffna and stayed at her home.
+
+A complaint has been lodged at the Vaddukoddai police station on Sunday (18) that a 15 -year -old girl from Tholpuram area of the Vaddukoddai police division has been missing.
+
+According to reports, the police rushed to the house and arrested the boy on the basis of information that the girl was staying at the house of a 17 -year -old boy from the area.
+
+Police have handed over the arrested boy to the Jaffna Bodhana Hospital for a medical examination.
+
+◼️
+
+[Data](articles/ecfc8a3d.json)
+
+[Extended Data](ext_articles/ecfc8a3d.ext.json)
+
+---
+
+### Rehearsal wasps: 73 students vulnerable
 
 *2024-02-20 13:58:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஒத்திகை-பார்த்த-குளவி-73-மாணவர்கள்-பாதிப்பு/76-333518) · `ta`
 
-பாடசாலையின் இல்லங்களுக்கு இடையிலான விளையாட்டு ஒத்திகையின் போது 73 பாடசாலை மாணவர்கள் குளவி கொட்டுக்குள் உள்ளாகி காயமடைந்து பசறை வைத்தியசாலையில் செவ்வாய்க்கிழமை (20) அனுமதிக்கப்பட்டுள்ளனர் என பசறை பொலிஸார் தெரிவித்தனர்.
+73 school children were injured and admitted to Pasarai Hospital on Tuesday (20) during a sports rehearsal between the schools.
 
-இந்த மாணவர்களில் 18 மாணவர்கள் தற்போது வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும், ஏனைய மாணவர்கள் சிகிச்சை பெற்று வைத்தியசாலையில் இருந்து வெளியேறி வீடுகளுக்குச் சென்றுள்ளதாகவும் பசறை பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் பியரத்ன ஏக்கநாயக்க தெரிவித்தார்.
+The Chief Inspector of the Pasarai Police Station Piyaratne Ekanayake said that 18 students are currently receiving treatment at the hospital.
 
-பசறை தேசிய பாடசாலையின் வருடாந்த இல்லங்களுக்கு இடையிலான விளையாட்டு நிகழ்வுக்கான ஏற்பாடுகள் இந்த நாட்களில் மேற்கொள்ளப்பட்டு வருகின்றதுன,   பசறை உள்ளூராட்சி மன்ற விளையாட்டு மைதானத்தில் ஒத்திகை செவ்வாய்க்கிழமை (20)  நடைபெற்றது
+Preparations for the Annual Houses of the National School of Pasarai National School are being held these days.
 
 ◼️
 
 [Data](articles/e46818bb.json)
+
+[Extended Data](ext_articles/e46818bb.ext.json)
+
+---
+
+### Harin Fernando protests in front of the ministry
+
+*2024-02-20 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176861) · `ta`
+
+The protest was carried out in front of the Ministry of Tourism on Tuesday (20) against the recent comment made by Minister Harin Fernando.
+
+The protesters have called for his resignation following his comments during a recent tourism event in India.
+
+Speaking at a tourist event to encourage Sri Lanka for Indian tourists, Minister Harin Fernando said Sri Lanka was a part of India.
+
+Various organizations have been protesting against the minister's comment and urging them to resign.
+
+◼️
+
+[Data](articles/fe603aa3.json)
+
+[Extended Data](ext_articles/fe603aa3.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-02-20 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176860) · `ta`
+
+The US dollar purchasing price was Rs 307.3445 and the sales price were 317.1692 based on the currency exchange rate released by the Central Bank on Tuesday (February 20).
+
+◼️
+
+[Data](articles/4398d393.json)
+
+[Extended Data](ext_articles/4398d393.ext.json)
 
 ---
 
@@ -64,37 +158,43 @@ Meanwhile, the sub-committee on conflict solving and final provisions is schedul
 
 [Data](articles/13666670.json)
 
+[Extended Data](ext_articles/13666670.ext.json)
+
 ---
 
-### ஜோடி கைது:​ மனைவிக்கு வாந்தி
+### Couple arresting: vomiting for wife
 
 *2024-02-20 13:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோடி-கைது-மனைவிக்கு-வாந்தி/175-333517) · `ta`
 
-திருமணமான தம்பதியின் கைது செய்யப்பட்டபோது, அந்தப் பெண், இரண்டு குளிசைகளை விழுங்கிவிட்டார். அதனையடுத்து அப்பெண், வைத்தியசாலையில் அனுமதிக்கப்பட்டு வாந்தி எடுக்க வைக்கப்பட்டார் என பொலிஸார் தெரிவித்தனர்.
+When the married couple was arrested, the woman swallowed two colds. The woman was subsequently admitted to the hospital and vomiting, police said.
 
-யுக்திய நடவடிக்கையுடன் இணைந்து வென்னப்புவ பொலிஸ் நிலையத்தினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது முச்சக்கர வண்டியில் ஹெரோயின் போதைப்பொருளை கடத்திய திருமணமான தம்பதியினர் கைது செய்யப்பட்டதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+The police headquarters said that a couple who smuggled heroin into a three -wheeler had been arrested during a roundup by the Wennappuwa Police Station.
 
-கைது செய்யப்படும் போது சந்தேகநபரான பெண், 02 ஹெரோயின் கட்டிகளை விழுங்கியுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say the suspect woman has swallowed 02 heroin at the time of the arrest.
 
-இது கண்டுபிடிக்கப்பட்டதையடுத்து, சந்தேக நபரான அப்பெண் மாரவில சட்ட வைத்தியரிடம் ஆஜர்படுத்தப்பட்டு மாரவில வைத்தியசாலையில் அனுமதிக்கப்பட்டதாகவும், அங்கு அப்பெண் வாந்தி எடுத்தார். அப்போது,   01 கிராம் ஹெரோயின் கட்டிகள் 2 வெளியில் விழுந்தன என பொலிஸார் தெரிவித்தனர்.
+Following this, the suspect, the woman, was produced before the Marawila lawyer and admitted to the Marawila Hospital where the woman vomited there.. At the time, 01 grams of heroin had fallen outside, police said.
 
 ◼️
 
 [Data](articles/d8e39033.json)
 
+[Extended Data](ext_articles/d8e39033.ext.json)
+
 ---
 
-### மற்றுமொரு துப்பாக்கிச்சூடு
+### Another shooter
 
 *2024-02-20 13:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-துப்பாக்கிச்சூடு/175-333516) · `ta`
 
-கந்தர, தலல்ல கிழக்கு பகுதியில் இன்று (20) அதிகாலை மோட்டார் சைக்கிளில் வந்த இருவர் வீடொன்றின் மீது துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+Two people on a motorcycle were shot dead on a house in the early hours of this morning.
 
-துப்பாக்கிச் சூட்டில் வீட்டுக்கு வெளியே நிறுத்தி வைக்கப்பட்டிருந்த லொறி மற்றும் வீட்டின் ஜன்னல் ஒன்று சேதமடைந்துள்ளது.
+The lorry and the window of the house were damaged in the shooting.
 
 ◼️
 
 [Data](articles/e8c2986e.json)
+
+[Extended Data](ext_articles/e8c2986e.ext.json)
 
 ---
 
@@ -428,21 +528,23 @@ Some websites are publishing advertisements on this.
 
 ---
 
-### ඩෙංගු වැළඳි රුසියානු ජාතික කාන්තාව මිය යයි
+### Russian woman dies in dengue
 
 *2024-02-20 12:01:07* · [`adalk`](https://www.ada.lk/breaking_news/ඩෙංගු-වැළඳි-රුසියානු-ජාතික-කාන්තාව-මිය-යයි/11-408189) · `si`
 
-ඩෙංගු රෝගය වැළඳී  මුල්ලේරියාව ජාතික බෝවන රෝග විද්‍යායතන රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි රුසියානු ජාතික කාන්තාවක් මියගොස් ඇතැයි මුල්ලේරියාව පොලිසිය කියයි. මෙලෙස මියගොස් ඇත්තේ koiushara නමැති 33 හැවිරිදි කාන්තාවකි.
+Mulleriyawa police say that the Russian woman has been treated at the ICUThe victim was a 33-year-old woman, Koiushara.
 
-මියගිය කාන්තාව ඉකුත් 17 වෙනි දින ගාල්ල කරාපිටිය රෝහල මගින් වැඩිදුර ප්‍රතිකාර සඳහා මුල්ලේරියාව  ජාතික බෝවන රෝග විද්‍යාතනය වෙත ප්‍රතිකාර සඳහා යොමු කර දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී  පෙරේදා (19) රාත්‍රී 9.30ට පමණ මියගොස් ඇතැයි පොලිසිය කියයි
+The deceased woman has been treated at the Karapitiya Hospital in Galle, Galle, has been treated at the Intensive Care Unit.
 
-මියගිය විදේශීය කාන්තාවගේ දේහය මේ වන විට ජාතික බෝවන රෝග විද්‍යායතන රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති බව පොලිසිය සඳහන් කරයි
+The body of the deceased is that the deceased has been placed at the National Infectious Disease Hospital morgue.
 
-මුල්ලේරියාව පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සුනිමල් සුසන්ත මහතාගේ උපදෙස් මත පරීක්ෂණ පවත්වයි
+Mulleriyawa OIC Celebrates Testing OIC Chief Inspector Sunimal Susantha
 
 ◼️
 
 [Data](articles/42c952b9.json)
+
+[Extended Data](ext_articles/42c952b9.ext.json)
 
 ---
 
@@ -1945,111 +2047,5 @@ President Ranil Wickremesinghe, Water Supply and Estate Infrastructure Developme
 [Data](articles/c23180d7.json)
 
 [Extended Data](ext_articles/c23180d7.ext.json)
-
----
-
-### Sen at the end of Oxford President's Bowl Soccer. Thomasus, Hamid al -Husaini
-
-*2024-02-20 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176814) · `ta`
-
-For the first time with the current champion Hamid al -Husaini to play in the 14th Oxford President Challenge Bowl, organized by the 80s old students of Hamid al -Husaini College.. Thomasus is qualified.
-
-The final match between the two teams is scheduled to be held on March 7 at the Sugathadasa Stadium in Colombo.
-
-Sen, who opposed the Negombo Al -Hilal in the first semi -finals held on Sunday (18).. Thomasus won by 6 - 1.
-
-MNM in the 24th minute of the up competition. Arafat scored the goal of Al Hilal.
-
-But, after that, Sen, who expressed wonderful energies. Thomasus scored 6 goals.
-
-Mmm. Mukhtar (36 n., 77 n, 86 n.) Head trick. R. Rajadurai (55 n.), H. Ji. M.. Diaz (66 n.), B. My. Jesuran (69 n) scored a goal each.
-
-Hamid al -Husaini won the second semi -finals in the second semi -finals.
-
-AWM on behalf of Hamid al -Husaini. Arham (14 n., 31 n). Hussein (60 n) scored a goal.
-
-Sen in this round match. Thomasus player M. M.. Mukhtar tops the list with 5 goals.
-
-...
-
-[Data](articles/06cb560e.json)
-
-[Extended Data](ext_articles/06cb560e.ext.json)
-
----
-
-### The President's decision to dissolve parliament after the New Year?
-
-*2024-02-20 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176813) · `ta`
-
-President Ranil is well aware that he cannot win even if he is the presidential candidate. He is not ready to field anyone else as a candidate. Ranil also knows that Sajith and Anura are contesting in the opposition but that both of them get more than fifty percent votes. According to sources close to Ranil, Ranil is thinking that the United National Party can first hold a parliamentary election and get at least twenty -five MPs on the basis of as one district.
-
-◼️
-
-[Data](articles/252e61f1.json)
-
-[Extended Data](ext_articles/252e61f1.ext.json)
-
----
-
-### Discussion with the Governor of the Northern Province
-
-*2024-02-20 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176811) · `ta`
-
-A special discussion was held at the Governor's Secretariat on Monday (19) between Governor of the Northern Province BSM Charles and Major General Chandana Wickremesinghe, Commander of the Jaffna Regional Security Forces Headquarters.
-
-During the meeting, the meeting was discussed on issues such as the implementation of law and order in the Jaffna region and the provision of the necessary security during the day -to -day biological activities of the public.
-
-It was also discussed about the housing scheme being carried out by the security forces for the resettled persons in the Jaffna district.
-
-◼️
-
-[Data](articles/a3f59bbe.json)
-
-[Extended Data](ext_articles/a3f59bbe.ext.json)
-
----
-
-### He does not think that a PA candidate for the presidential election - State Minister Ranjith Siyambalapitiya
-
-*2024-02-20 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/176810) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya has stated in Kandy that he did not think that a PA candidate for the presidential election would not be stopped.
-
-Minister of State Siyambalapitiya said this while speaking to the media on Sunday (18) in Kandy.
-
-The minister continued to make a sense of the presidency of the country to a small child in this country.
-
-The current President Ranil Wickremesinghe, who has successfully confronted the accepted challenge and proved how to build the country, promised to support him if he contested the presidential election.
-
-This is not the omen that has simply dumped the country or distributes the country into a unrelenting situation, but as a literary and experienced leader who can face the international community.Ranil Wickremesinghe is also present.
-
-No one can deny that Ranil Wickremesinghe was an individual in Parliament and became president amidst many challenges, saying that I am not sure that a candidate will be presented in the Sri Lankan PA.
-
-...
-
-[Data](articles/bb0dcc4e.json)
-
-[Extended Data](ext_articles/bb0dcc4e.ext.json)
-
----
-
-### President discusses economic recovery with UN FAO Director General
-
-*2024-02-20 02:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97397/president-discusses-economic-recovery-with-un-fao-director-general) · `en`
-
-Dr. Qu Dongyu, Director General of the UN Food and Agriculture Organization (FAO), paid a courtesy visit to President Ranil Wickremesinghe at the Presidential Secretariat this afternoon (19 Feb.), commending the President’s leadership amid Sri Lanka’s economic challenges.
-
-During the meeting, Dr. Dongyu conveyed congratulations to President Wickremesinghe for his efforts in navigating Sri Lanka through the recent economic crisis and subsequent reforms.
-
-He assured the President, of the FAO’s unwavering support to both the government and the people of Sri Lanka during these critical times, the President’s Media Division (PMD) reported.
-
-President Wickremesinghe, in turn, provided an overview of the progress made in the country’s ongoing recovery efforts. He highlighted the importance of introducing an agriculture modernization project to enhance the sector’s productivity and sustainability.
-
-...
-
-[Data](articles/bc09c9a1.json)
-
-[Extended Data](ext_articles/bc09c9a1.ext.json)
 
 ---

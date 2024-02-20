@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 00:47:30**
+As of **2024-02-21 01:02:28**
 
 ## Newspaper Stats
 
-*Scraped **8,330** Articles*
+*Scraped **8,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,73 @@ adaderanalk | 1,007
 tamilmirrorlk | 1,025
 virakesarilk | 1,120
 adaderanasinhalalk | 1,213
-dailymirrorlk | 1,232
+dailymirrorlk | 1,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,330 (100.0%) of 8,330 articles have been extended.
+8,330 (100.0%) of 8,334 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-21 (Wednesday)
+
+### Saga of a prideful legacy and brotherhood in cricket
+
+*2024-02-21 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Saga-of-a-prideful-legacy-and-brotherhood-in-cricket/172-277425) · `en`
+
+...
+
+[Data](articles/4550f7ff.json)
+
+---
+
+### Feudalism’s Last Refuge: Medical Sector?
+
+*2024-02-21 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Feudalisms-Last-Refuge-Medical-Sector/172-277423) · `en`
+
+Protesting trade unions demanded a hike in their allowances commensurate to the increase of the doctors
+
+If you want to see the residual of feudalism alive and kicking in this country, look no further than the health sector. Deputy Director of the Colombo National Hospital, Rukshan Bellana became the unannointed spokesman of the condescendingly lowly status the doctors hold the support staff in the profession. This may not be the uniform stance where individual interactions are concerned. Still, it appears to be a de-facto official position if you are to survey the Government Medical Officers Association’s (GMOA) reaction towards nurses, midwives, paramedics and other support staff.
+
+...
+
+[Data](articles/18a72d19.json)
+
+---
+
+### Lanka Needs to Change its Stance on Free Trade Agreements - EDITORIAL
+
+*2024-02-21 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lanka-Needs-to-Change-its-Stance-on-Free-Trade-Agreements-EDITORIAL/172-277422) · `en`
+
+For over five years, we the Lankans have been dabbling with the idea of entering into Free Trade Agreements (FTAs) with India and other countries in the Asia region. Today, once again, we are at the point of inking an agreement on Economic and Technology Cooperation Agreement (ETCA) with India.
+
+Negotiations for a FTA with Thailand have reached fruition, while discussions with India, Bangladesh and China are currently in progress. Additionally, trade negotiations with Indonesia and Malaysia are set to commence shortly. Sri Lanka has submitted a Letter of Intent to become a member of the Regional Comprehensive Economic Partnership (RCEP).
+
+Since the changed economic policies in 1977 led to a partial dropping of protectionist policies, various interest groups from professionals to trade unionists have been up in arms against the idea of FTAs in general and with India in particular.
+
+...
+
+[Data](articles/9afd5712.json)
+
+---
+
+### Legal crisis hindering justice for Sri Lanka’s vulnerable children?
+
+*2024-02-21 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Legal-crisis-hindering-justice-for-Sri-Lankas-vulnerable-children/172-277428) · `en`
+
+Even though Sri Lanka has become a signatory for many child rights conventions and despite having laws in place to prosecute perpetrators the country’s citizens have time and again been compelled to protest against grave sexual abuse on children and women
+
+In 2022 the Police Grave Crimes Report indicates that over 1500 young girls have been raped and over 500 have been subjected to grave sexual abuse
+
+At least 257 cases filed by the Special Investigations Unit of the NCPA are pending in High Court while another 423 cases are pending in various magistrate courts around the island
+
+...
+
+[Data](articles/a5203649.json)
+
+---
 
 ### 2024-02-20 (Tuesday)
 
@@ -1887,91 +1945,5 @@ They have been arrested in connection with a bribe of Rs. 30,000 to change a bus
 [Data](articles/ea1e6b45.json)
 
 [Extended Data](ext_articles/ea1e6b45.ext.json)
-
----
-
-### Dr. Bellana says that the Ministry of Health and top officials are verbally management today!
-
-*2024-02-20 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176853) · `ta`
-
-Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellan, said he was ready to retire at any time.
-
-He was speaking at a press conference held on Tuesday morning.
-
-The Ministry of Health and the High Department of Health today are verbally management. I worked in such a situation.In this case, I am ready to retire.
-
-◼️
-
-[Data](articles/094c2145.json)
-
-[Extended Data](ext_articles/094c2145.ext.json)
-
----
-
-### Struggle in Nuwara Eliya on International Social Justice Day
-
-*2024-02-20 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176852) · `ta`
-
-The "World Social Justice Day" is being held on February 20 every year, and has been adopted since 2009.. The protest was held in front of the Nuwara Eliya main post office on Tuesday (20), on Tuesday (20), with some important demands of Tamils.
-
-The Union of Nuwara Eliya District Development forums, Social Development Forums, Kandy Social Administration Union Union, Nuwara Eliya, Badulla and Kandy, and the youth of Nuwara Eliya, Badulla, Kandy, and the youth of Nuwara Eliya were involved in the International Justice Day..
-
-...
-
-[Data](articles/59b3910f.json)
-
-[Extended Data](ext_articles/59b3910f.ext.json)
-
----
-
-### Iranian, Israel, US agents in Sri Lanka: What's going on?
-
-*2024-02-20 12:39:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crg9jl9m75eo) · `si`
-
-Iranian, Israel, US agents in Sri Lanka: What's going on?
-
-Representatives of many countries that have been acting in the world and acts as various groups are traveling in Sri Lanka.
-
-These visits have been held in the event of a number of militarily and among several militant organizations.
-
-President Ranil Wickremesinghe recently announced that a war would be announced to the Red Sea for the operations of the Huthuru, which threatens international trade.
-
-What is the real purpose of the Sri Lankan travels of Israel, American, American and Iranian diplomats in this context?
-
-US Assistant Secretary of State Assistant Secretary of Public Diplomacy and Public Affairs arrived in Sri Lanka and attended discussions.
-
-She said that she further promised to support Sri Lanka's economic stability.
-
-Meanwhile, the Ministry of External Affairs says that Iranian Foreign Minister Dr. Hogu Amir Hullahian will visit Sri Lanka from 19th to 21st.
-
-...
-
-[Data](articles/844b9d84.json)
-
-[Extended Data](ext_articles/844b9d84.ext.json)
-
----
-
-### Promotion of maritime passenger transport between Sri Lanka and India
-
-*2024-02-20 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Promotion-of-maritime-passenger-transport-between-Sri-Lanka-and-India/108-277398) · `en`
-
-Colombo, Feb 20 (Daily Mirror) - The government approved reducing the deviation tax currently charged on passengers leaving Sri Lanka by passenger vessels and ships.
-
-The decision was announced at the weekly briefing on Cabinet decisions by Minister Bandula Gunawardana today.
-
-Accordingly, the deviation tax currently charged on passengers leaving Sri Lanka by passenger vessels and ships is USD 5 and USD 20, respectively.
-
-Also, approval was granted for a free baggage allowance of up to 60 kgs per passenger travelling by passenger vessel.
-
-It has been recognized that the promotion of maritime passenger transport between Sri Lanka and India has the potential to promote the tourism industry by providing increased access to tourists from both countries, and through improved connections to encourage cooperation in the fields of cultural exchange, arts and sports, the Minister said.
-
-He said that it is essential to introduce a low-cost travel and transport fee system.
-
-◼️
-
-[Data](articles/f3ebfaec.json)
-
-[Extended Data](ext_articles/f3ebfaec.ext.json)
 
 ---

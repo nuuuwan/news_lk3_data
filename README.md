@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 17:02:37**
+As of **2024-02-20 17:17:22**
 
 ## Newspaper Stats
 
-*Scraped **8,276** Articles*
+*Scraped **8,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 706
 adaderanalk | 1,000
 tamilmirrorlk | 1,017
 virakesarilk | 1,118
-adaderanasinhalalk | 1,206
+adaderanasinhalalk | 1,207
 dailymirrorlk | 1,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,269 (99.9%) of 8,276 articles have been extended.
+8,276 (100.0%) of 8,277 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,19 +44,23 @@ The President’s Media Division reported that this appointment supplements his 
 
 [Data](articles/11c33d2a.json)
 
+[Extended Data](ext_articles/11c33d2a.ext.json)
+
 ---
 
-### சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக வக்கும்புர
+### Janaka Wakumbura as Minister of Environment
 
 *2024-02-20 16:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-இராஜாங்க-அமைச்சராக-ஜானக-வக்கும்புர/175-333534) · `ta`
 
-சுற்றாடல் இராஜாங்க அமைச்சராக ஜானக வக்கும்புர சற்று முன்னர் ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+President Ranil Wickremesinghe was sworn in as the Minister of Environment in the presence of President Ranil Wickremesinghe at the Presidential Secretariat.
 
-அவர் ஏற்கனவே மாகாண சபைகள் மற்றும் உள்ளூராட்சி இராஜாங்க அமைச்சராக பதவி வகித்து வரும் நிலையில் அதற்கு மேலதிகமாக தற்போது சுற்றாடல் இராஜாங்க அமைச்சராகவும் பதவிப்பிரமாணம் செய்துள்ளமை குறிப்பிடத்தக்கது.
+He has already been sworn in as the Minister of State for Environment and has now been sworn in as provincial councils and local government minister.
 
 ◼️
 
 [Data](articles/3b6e462e.json)
+
+[Extended Data](ext_articles/3b6e462e.ext.json)
 
 ---
 
@@ -74,21 +78,41 @@ This appointment supplements his existing role as the State Minister of Provinci
 
 [Data](articles/70b0f671.json)
 
+[Extended Data](ext_articles/70b0f671.ext.json)
+
 ---
 
-### சின்னத்திரை நடிகர் ரிதுராஜ் காலமானார்.
+### ජනක වක්කුඹුර පරිසර රාජ්‍ය අමාත්‍ය ලෙස දිවුරුම්දෙයි
+
+*2024-02-20 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193621) · `si`
+
+තවත් රාජ්‍ය අමාත්‍යවරයෙක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ දිවුරුම්දී තිබේ.
+
+පළාත් සභා සහ පළාත් පාලන කටයුතු රාජ්‍ය අමාත්‍ය ජනක වක්කුඹුර මහතා මෙලෙස පරිසර රාජ්‍ය අමාත්‍යවරයා ලෙස නව ධුරයේ දිවුරුම් දී ඇත.
+
+◼️
+
+[Data](articles/9f016909.json)
+
+---
+
+### Riduraj, the iconic actor has passed away.
 
 *2024-02-20 16:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/சின்னத்திரை-நடிகர்-ரிதுராஜ்-காலமானார்/54-333533) · `ta`
 
-அவரது மரணத்தை அவரது நெருங்கிய நண்பரும் நடிகருமான அமித் பெஹல் உறுதிப்படுத்தியுள்ளார். இவரது மறைவுக்கு சின்னத்திரை பிரபலங்கள் மற்றும் திரையுலகைச் சேர்ந்தவர்கள் இரங்கல் தெரிவித்து வருகின்றனர்.திங்கள்கிழமை இரவு ரிதுராஜ் உயிரிழந்தார். கணைய நோயால் பாதிக்கப்பட்ட அவர் சமீபத்தில் மருத்துவமனையில் அனுமதிக்கப்பட்டார்.
+Amit Behal has confirmed his death close to his close friend and actor. Riduraj died on the night of his death.. He was recently admitted to hospital with pancreatic disease.
 
-கணைய சிகிச்சைக்காக சில காலத்திற்கு முன்பு வைத்தியசாலையில் அனுமதிக்கப்பட்ட அவர், வீடு திரும்பினார், இந்நிலையில், மாரடைப்பால் அவர் காலமானார்'' என்று குறிப்பிடப்பட்டுள்ளது.
+He was admitted to the hospital a few years ago for pancreatic treatment and returned home, and he died of a heart attack. ”
 
-நடிகர் அர்ஷத் வார்சி தனது ட்விட்டர் பக்கத்தில், "ரிது ராஜ் காலமானார் என்பதை அறிந்து நான் மிகவும் வருத்தப்படுகிறேன். நாங்கள் ஒரே கட்டிடத்தில் வசித்து வந்தோம், அவர் ஒரு தயாரிப்பாளராக எனது முதல் படத்தின் ஒரு பகுதியாக இருந்தார். நண்பரை, சிறந்த நடிகரை இழந்து தவிக்கிறேன். உங்களை ரொம்ப மிஸ் பண்றேன்" என குறிப்பிட்டுள்ளார்.
+Actor Arshad Warsi posted on his Twitter page, “I am very sad to know that Ritu Raj has passed away. We lived in the same building and he was part of my first film as a producer. Losing a friend, the best actor. I miss you so much. ”
+
+Rituraj Singh's full name Rituraj Singh Chandravat Sisodia. He was born in the Sisodia Rajput family in Rajasthan's Kota. Native to Rajasthan, but not living properly in home state. Singh took off school in Delhi. At his young age, he went to the United States and returned to India at the age of 12. He settled in Mumbai in 1993.
 
 ...
 
 [Data](articles/c9fc8631.json)
+
+[Extended Data](ext_articles/c9fc8631.ext.json)
 
 ---
 
@@ -108,35 +132,41 @@ The State Service Association's Association has said that the government is alre
 
 ---
 
-### பேருவளையில் சீன பெண்ணினால் தாக்கப்பட்ட இரு பொலிஸார்!
+### Two policemen attacked by Chinese woman in Beruwala
 
 *2024-02-20 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176885) · `ta`
 
-வீசா இன்றி நாட்டில் தங்கியிருந்த சீனப் பெண் தொடர்பில் கிடைக்கப்பெற்ற முறைப்பாடு  குறித்து  விசாரணை நடத்தச்  சென்ற பொலிஸ் உத்தியோகத்தர்கள் இருவரை தாக்கிய சீனப் பெண் இன்று செவ்வாய்க்கிழமை (20) கைது செய்யப்பட்டதாக பேருவளை பொலிஸார் தெரிவித்தனர்.
+Beruwala police said that a Chinese woman was arrested on Tuesday (20) for assaulting two police officers who went to investigate the complaint made of a Chinese woman in the country without a visa.
 
-பேருவளை மங்கள மாவத்தையில் வசிக்கும் 36 வயதுடைய சீனப் பெண்ணே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+The 36 -year -old Chinese woman who lives in Mangala Mawatha, Beruwala has been arrested.
 
-பேருவளை மங்கள வீதியிலுள்ள வீடு ஒன்றில்  சீனப் பெண்ணொருவர் செல்லுபடியாகும் வீசா இன்றி தங்கியிருப்பதாகக்  கிடைத்த தகவலின் அடிப்படையில் இரண்டு பொலிஸ் உத்தியோகத்தர்கள் முறைப்பாடு தொடர்பில் விசாரணைகளை மேற்கொள்ள அங்கு சென்றுள்ளனர்.
+Two police officers have gone to investigate the complaint based on reports that a Chinese woman is staying without a valid visa in a house on Mangala Road, Beruwala.
 
-இதன்போதே அங்கு ஏற்பட்ட கருத்து முரண்பாடு காரணமாக இந்தத் தாக்குதல் இடம்பெற்றுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+Police said the attack was due to the conflict.
 
-இந்தச் சம்பவம் தொடர்பில் பேருவளை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதுடன் சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கை எடுத்துள்ளனர்.
+Beruwala police are conducting further investigations into the incident and have taken steps to bring the suspect in court.
 
 ◼️
 
 [Data](articles/7772372c.json)
 
+[Extended Data](ext_articles/7772372c.ext.json)
+
 ---
 
-### இராணுவத்தினரால் நிர்மாணிக்கப்பட்டு வழங்கப்பட்ட நல்லிணக்கபுர மீள் குடியேற்ற வீட்டுத்திட்ட கிராம மக்களை அப்புறப்படுத்த நடவடிக்கையா? - மாவட்ட செயலருக்கு மக்கள் கடிதம்
+### Is it a steps to evacuate the villagers of the reconciliation resettlement of the reconciliation provided by the military?- People's letter to the district secretary
 
 *2024-02-20 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176867) · `ta`
 
-நல்லிணக்கபுர மீள்குடியேற்ற வீட்டுத்திட்ட கிராமத்தில் குடியேற்றப்பட்ட குடும்பங்கள் முன்பள்ளிகள், பொது நோக்கு மண்டபம், விளையாட்டு மைதானம், இந்து மற்றும் கிறிஸ்தவ ஆலயங்கள் கொண்ட கிராமமாக உருவாக்க முடியுமா அல்லது நாம் வேறு இடங்களுக்கு எம்மை நகர்தப்படபோறோமா என்பதை உறுதிப்படுத்துமாறு கோரி வலிகாமம் வடக்கு தெல்லிப்பளை பிரதேச செயலகபிரிவின் கீழ் நல்லாட்சி காலத்தில் இராணுவத்தினரால் நிர்மாணிக்கப்பட்டு வழங்கப்பட்ட  நல்லிணக்கபுர வீட்டுத்திட்ட மக்கள் யாழ் மாவட்ட அரசாங்க அதிபருக்கு கிராமத்திலுள்ள அமைப்புக்கள் பொது மக்கள் கையெழுத்திட்டு அதன் பிரதிகளை ஜனாதிபதி ரணில் விக்கிரமசிங்க, எதிர்கட்சித் தலைவர் சஜித்பிரேம தாஸ , புத்த சாஸன கலாச்சார அமைச்சு, வடக்கு மாகாண ஆளுநர், தெல்லிப்பளை பிரதேச செயலகம், தெல்லிப்பளை பிரதேச சபை, யாழ்.மாவட்ட கட்டளைத்தளபதி மற்றும் சமயத் தலைவர்களுக்கு அனுப்பி வைத்துள்ளார்கள்.
+Reconciliation Resettlement Housing Project Resettlement Families, Public Vision Hall, Playground, Hindu and Christian shrines can be made as a village with Hindu and Christian temples, or whether we will be moved elsewhere under the North Tellippalai Divisional Secretariat.Organizations in the village have signed its copies and sent its copies to President Ranil Wickremesinghe, Opposition Leader Sajith Prema Dasa, Buddhist Sasana Cultural Ministry, Governor of the Northern Province, Tellippalai Divisional Secretariat, Tellippalai Pradeshiya Sabha, Jaffna Mawatha Commander and Religious Leaders.
+
+On October 31, 2016, 150 families were settled in the houses built by the army with the permission of the government headed by President Maithripala Sirisena on October 31, 2016 after being displaced from the North and living in camps from the North.
 
 ...
 
 [Data](articles/4fde5525.json)
+
+[Extended Data](ext_articles/4fde5525.ext.json)
 
 ---
 
@@ -748,21 +778,29 @@ On 17 February, the junior staff of the Colombo National Hospital warned that th
 
 ---
 
-### දැඩි අව් රශ්මියෙන් ආරක්ෂා වෙන්න
+### Protect from severe sun
 
 *2024-02-20 13:10:09* · [`adalk`](https://www.ada.lk/breaking_news/දැඩි-අව්-රශ්මියෙන්-ආරක්ෂා-වෙන්න/11-408192) · `si`
 
-මේ දිනවල පවතින වියළි  කාලගුණ තත්ත්වය ශරීරයට ඉතා අහිතකර වීමට ඉඩ ඇති බැවින් දිවා කාලයේ හැකි තරම් අව් රශ්මියෙන් ආවරණය වන පරිදි සෙවනේ සිටින ලෙසත් හැකි තරම් ජලය පානය කරන ලෙසත් අනුරාධපුර ශික්ෂණ රෝහලේ බාහිර රෝගී අංශයේ ප්‍රධාන වෛද්‍ය නිලධාරීනි වෛද්‍ය හේමා වීරකෝන් මහත්මිය පැවසීය.
+Dr. Hema Weerakoon said that the dry weather conditions are very unhealthy these days to be able to drink as much as possible, Dr. Hema Weerakoon said.
 
-විශේෂයෙන් අව් රශ්මියේ ගමන් කරන්නේ නම් හිස්වැසුමක් හෝ කුඩයක් භාවිත කරන ලෙසටද අත්‍යවශ්‍ය කාර්යයක් නම් අව් රශ්මියට ඔරොත්තු දෙන ක්‍රීම් වර්ගයක් (sun cream) භාවිත කරන ලෙසට ද ඇය දන්වා සිටින්නීය.
+She also informed the use of a sacred cream to be used to use a shrine or mouth.
 
-පිපිඤ්ඤා කොමඩු වැනි දෑ නිරන්තර ආහාරයට ගැනීම තුළින්ද ශරීරයට යහපත් බව පෙන්වා දෙන වෛද්‍ය හේමා  වීරකෝන් ජලය ටික ටික හෝ දිනයේ වැඩි අවස්ථා ගණනක් අනිවාර්යෙන් පානය කිරීම අත්‍යවශ්‍ය බවද කියයි.
+Dr. Hema Weerakoon is essential to the body of the cucumber watermelons and the larger of the water in the water or the day.
 
-එමෙන්ම මේ දිනවල පාසල්වල සිදු කරන ක්‍රීඩා කටයුතුවලදී දරුවන් තද අව්වේ තැබීම ඉතාමත් අහිතකර බැවින් තද අව්වේ දරුවන් ක්‍රීඩාවන්ගේ යෙදවීමෙන් වරක්වන ලෙසටද  ඇයි ඉල්ලා සිටියාය.
+As a result of the righteous sun, as children are adversely adjusted to the sports activities of the schools, why children have been adjusted to the grit.
 
-...
+She was informed that the skin diseases are being spreading in the face of the existing weather.
+
+She said that this is the reason why the ozone layers have been destroyed by the ozone layers due to overwhelming corruption.
+
+The doctor requests the public to use health protection techniques in the essentials, as it can cause excessive workplace to be exposed to the daytime.
+
+◼️
 
 [Data](articles/41b57e8d.json)
+
+[Extended Data](ext_articles/41b57e8d.ext.json)
 
 ---
 
@@ -1943,27 +1981,5 @@ The Ministry of Health further stated that about 3,000 employees who are continu
 [Data](articles/fd1a1e09.json)
 
 [Extended Data](ext_articles/fd1a1e09.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-02-20 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193604) · `si`
-
-Parliamentary Business has commenced under the patronage of the Deputy Speaker.
-
-The Parliament will be held for three days for this week and the second reading of the bills will be held today, the second reading of the bills, amendments, and registration review of the documents.
-
-Meanwhile, according to the opposition opposition in the country tomorrow (21), the opposition is due to promote the church.
-
-It will be held from 10.30 am to 05 pm tomorrow.
-
-The late day of State Minister Sanath Nishantha is to be presented to the late President Sanath Nishantha.
-
-◼️
-
-[Data](articles/f308b039.json)
-
-[Extended Data](ext_articles/f308b039.ext.json)
 
 ---

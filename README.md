@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 10:17:23**
+As of **2024-02-20 10:33:04**
 
 ## Newspaper Stats
 
-*Scraped **8,167** Articles*
+*Scraped **8,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailyftlk | 444
 adalk | 696
 adaderanalk | 991
 tamilmirrorlk | 994
-virakesarilk | 1,091
-adaderanasinhalalk | 1,186
+virakesarilk | 1,092
+adaderanasinhalalk | 1,191
 dailymirrorlk | 1,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,167 (100.0%) of 8,167 articles have been extended.
+8,167 (99.9%) of 8,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### பொதுமக்கள் பாதுகாப்பு அமைச்சருக்கும் பதில் பொலிஸ்மா அதிபருக்கும் உயிர் அச்சுறுத்தல் - சிலோன்டுடே
+
+*2024-02-20 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176825) · `ta`
+
+பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான்அலெஸ் பதில்பொலிஸ்மா அதிபர் தேசபந்துதென்னக்கோனிற்கு எதிரான சதிதிட்டம் குறித்த தகவல்கள் புலனாய்வு பிரிவினருக்கு கிடைத்துள்ளதா சிலோன்டுடே தெரிவித்துள்ளது.
+
+யுக்திய நடவடிக்கைக்கு தலைமை தாங்குவது காரணமாக இருவரும் இலக்குவைக்கப்பட்டுள்ளனர் என சிலோன்டுடே தெரிவித்துள்ளது.
+
+போதைப்பொருள் வர்த்தகத்தில் ஈடுபட்டுள்ள நபர்கள் இந்த திட்டத்தினை முன்னெடுப்பதற்காக பெருந்தொகை பணத்தைவழங்கியுள்ளனர் என புலனாய்வு பிரிவினர் தெரிவிப்பதாக சிலோன்டுடே செய்தி வெளியிட்டுள்ளது.
+
+பதில்பொலிஸ்மா அதிபரின் அதிகாரத்தை குறைமதிப்பிற்கு உட்படுத்தி யுக்திய நடவடிக்கையை தடம்புரளச்செய்வதற்காக செல்வாக்குள்ள சில அரசியல்வாதிகளையும் அதிகாரிகளையும் அவர்கள் பயன்படுத்துகின்றனர் என சிலோன்டுடே தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/bf15d4e5.json)
+
+---
+
+### ශ්‍රී ලංකා - බංග්ලාදේශ තරග කාලසටහන මෙන්න
+
+*2024-02-20 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193605) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායමේ බංග්ලාදේශ තරග සංචාරයට අදාළ තරග කාලසටහන ශ්‍රී ලංකා ක්‍රිකට් ආයතනය ප්‍රකාශයට පත්කර තිබේ.
+
+ඒ අනුව එහිදී විස්සයි විස්ස තරග 3ක් සහ එක්දින තරග 3ක් පැවැත්වීමට නියමිතව ඇත.
+
+තරගාවලියේ විස්සයි විස්ස තරග මාර්තු මස 4, 6 සහ 9 යන දිනවල පැවැත්වීමට නියමිත අතර එක්දින තරග මාර්තු මස 13,15 සහ 18 වනදා පැවැත්වෙනු ඇත.
+
+පළමු ටෙස්ට් තරගය ආරම්භ වන්නේ, මාර්තු 22 වනදා වන අතර දෙවන ටෙස්ට් තරගය මාර්තු 30 වනදා ආරම්භ වේ.
+
+තරග සංචාරය පිළිබඳ ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් නික්තුකළ නිවේදනය පහතින්,
+
+◼️
+
+[Data](articles/10160056.json)
+
+---
 
 ### The beginning of the parliamentary session
 
@@ -86,6 +124,42 @@ The Ministry of Health further stated that about 3,000 employees who are continu
 
 ---
 
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-02-20 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193604) · `si`
+
+නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+
+මෙම සතිය සඳහා පාර්ලිමේන්තුව දින 03ක් රැස්වීමට නියමිත අතර අද දිනයේ දී සුරක්ෂිත ලත් ගනුදෙනු, භාර ලදුපත් සංශෝධන, උකස් සංශෝධන, කල්බදු මූල්‍යකරණ සංශෝධන, සමාගම් සංශෝධන, ලේඛන ලියාපදිංචි කිරීමේ සංශෝධන යන පනත් කෙටුම්පත් දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මේ අතර හෙට (21) දිනයේ දී රටේ වර්තමාන තත්ත්වය පිළිබඳ විපක්ෂය ගෙනඑන යෝජනාව අනුව සභාව කල්තැබීමේ විවාදයක් පැවැත්වීමට නියමිතව තිබේ.
+
+එය හෙට පෙරවරු 10.30 සිට පස්වරු 05.30 දක්වා පැවැත්වීමට නියමිතය.
+
+අනිද්දා දිනයේ දී අභාවප්‍රාප්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා වෙනුවෙන් ශෝකය පළකිරීමේ යෝජනාවක් ඉදිරිපත් කිරීමට නියමිත බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f308b039.json)
+
+---
+
+### අනෝා ගෙඩියක් අහුලා ගැනීමට ගිය පුද්ගලයෙක් ඇදවැටී මරුට
+
+*2024-02-20 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193603) · `si`
+
+එලෙස මියගොස් ඇත්තේ, කිරින්ද, හොඬියාදෙණිය ප්‍රදේශයේ පදිංචිව සිටි 62 හැවිරිදි පුද්ගලයෙකි.
+
+මරණකරු ඊයේ (19) අනෝදා ගෙඩියක් අහුලා ගැනීමට යාමේදී එම ස්ථානයේ ඇති ගල් සහිත බෑවුමකට ඇද වැටී ඇති බවට අනාවරණය වී ඇත.
+
+මෘත ශරීරය ගම්පොළ රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර ගම්පොළ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/1ad2bf8e.json)
+
+---
+
 ### 253 students from 11 schools from Jaffna district participated in the 10th Jambori conference of the Sri Lanka Scout Association
 
 *2024-02-20 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176812) · `ta`
@@ -105,6 +179,38 @@ Special guests were also present at the event.
 [Data](articles/012256a6.json)
 
 [Extended Data](ext_articles/012256a6.ext.json)
+
+---
+
+### ගුරු - විදුහල්පති පළමු උද්ඝෝෂණය අද මහනුවර දී
+
+*2024-02-20 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193602) · `si`
+
+වැටුප් විෂමතාවය ඉවත් කිරීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් විරෝධතා ව්‍යාපාරයක් ආරම්භ කිරීමට ගුරු - විදුහල්පති වෘත්තීය සමිති තීරණය කර තිබේ.
+
+එහි පළමු අදියර ලෙස අද (20) පස්වරුවේ මහනුවර නගරයේ උද්ඝෝෂණ ව්‍යාපාරයක් පැවැත්වීමට නියමිත බව ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/8ee905fe.json)
+
+---
+
+### මල්වතු නාහිමිගෙන් දේශපාලඥයින්ට චෝදනා
+
+*2024-02-20 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193601) · `si`
+
+ජාතීන් අතර අසමගිය ඇතිකරනු ලබන්නේ දේශපාලනඥයින් බව මල්වතු පාර්ශවයේ මහ නායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නාහිමියන් පවසයි.
+
+උන්වහස්සේ පෙන්වා දෙන්නේ, සහජීවනයෙන් ජීවත් වූ ජනතාව අතර ජාති, ආගම් ගැටුම් ඇති කිරීමට මූලිකත්වය ගනු ලැබුවේ බලලෝභී දේශපාලඥයින් බවය.
+
+මෙරට සත්‍ය, සමගිය සහ ප්‍රතිසංධානය සඳහා වන කොමිෂන් සභාවේ නියෝජිතයින් පිරිසක් හමුවූ අවස්ථාවේ දී අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නාහිමියන් මේ බව සඳහන් කළේය.
+
+"ජාතික සමගිය ඇති වෙන්න නොයෙක් දේවල් කරද්දි මේ දේශපාලනඥයෝ නේ මේවා නැති කරන්නේ. සමගිය නැතිකරන්නේ ඒ අය. ආගමික සමගියක් ඇති කරන්න කියලා කතා කරනවා, කරන්නේ බේද. උත්සාහයක් ගත්තත් සාර්ථක ප්‍රතිඵල ලැබෙයිද කියන එකයි මේ වගේ අන්තගාමී අය නිසා. පාලකයන්ගේ උනන්දුවක් තියෙන්න ඕනේ. අද තියෙන්නේ ගස්, ගල්වලට කියනවා වගේ. වැඩක් නෑ. විධායක ජනාධිපති ධුරය අහෝසි කරන්න කතා කළේ කොයි කාලේ ද? 2012 දී ද කොහෙද? දැන් 2024 ඕවා කියලා වැඩක් නෑ. දේශපාලනඥයෝ හැමදාම මිනිස්සු රවට්ටනවා. ඡන්ද බලාපොරොත්තුවනේ තියන්නේ රට දියුණු කරන බලාපොරොත්තුවක් නෑ."
+
+◼️
+
+[Data](articles/e543c773.json)
 
 ---
 
@@ -1945,125 +2051,5 @@ The Afghan leader won the toss and win the second Twenty Second Twenty Second Tw
 [Data](articles/2069b29c.json)
 
 [Extended Data](ext_articles/2069b29c.ext.json)
-
----
-
-### President pledges to uphold social and economic rights of upcountry Tamil community
-
-*2024-02-19 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97392/president-pledges-to-uphold-social-and-economic-rights-of-upcountry-tamil-community-) · `en`
-
-President Ranil Wickremesinghe has emphasised the need to uphold the social and economic rights of the Indian-origin Tamil community.
-
-The President made these remarks at the inauguration ceremony of the fourth phase of the Indian housing project ‘Bharat-Lanka’, held at the Presidential Secretariat on Monday (19 Jan.).
-
-Commenting in this regard, the Head of State noted that the government is actively initiating this process, with negotiations currently underway with estate companies to acquire land for the construction of these houses. Consequently, we anticipate commencing related housing programs in the near future.
-
-“The Tamil community of Indian Origin, who have made significant contributions to the country’s economy, have unfortunately suffered great losses due to the lack of land and housing ownership. Today, they have been deprived of their political rights, but it is imperative that their economic and social rights are upheld”, President Wickremesinghe said.
-
-...
-
-[Data](articles/eb54b221.json)
-
-[Extended Data](ext_articles/eb54b221.ext.json)
-
----
-
-### Call on the latest news about electricity
-
-*2024-02-19 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193585) · `si`
-
-The Electricity Board (CEB) says that electricity demand has been increased compared to the past few months.
-
-The Deputy General Manager of the Media Spokesperson Noel Priyantha was speaking at a special media briefing today (19).
-
-Speaking further Mr. He said that 46 GWh has received a 46-hour electricity dependence for the past few days of February.
-
-He said that the dry weather production was restricted to 20 percent.
-
-According to the government, the public is kindly requested to use it as much as possible to use it as much as possible to use it as much as possible.
-
-◼️
-
-[Data](articles/ef476cb5.json)
-
-[Extended Data](ext_articles/ef476cb5.ext.json)
-
----
-
-### A special incident that attracted attention in court
-
-*2024-02-19 18:18:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-கவனத்தை-ஈர்த்த-விசேட-சம்பவம்/175-333468) · `ta`
-
-At a court moment in which the country was attracted, the 88 -year -old citizen, who was arrested, had previously fallen on the knee and apologized during the Supreme Court hearing.
-
-The event, which was seen as a rare scene of empathy and reconciliation, has received widespread attention and admiration by recognizing humility and past acts.
-
-Three policemen, one police sergeant and two police constables, who were on duty at the Narahenpita police station, unexpectedly apologized to the petitioner Kodvin Perera (88) as part of the fundamental rights filed by the petitioner in the 2017 petition.
-
-Petitioner Gotvin Perera said in his petition that she had taken steps to inform the police about the person involved in the garbage.He accused him of being arrested and detained by the Narahenpitti police and later detained in the police room.
-
-...
-
-[Data](articles/42577627.json)
-
-[Extended Data](ext_articles/42577627.ext.json)
-
----
-
-### Orr to another 149 operant
-
-*2024-02-19 18:16:46* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-149ට-ඊශ්‍රා-යෙල්-දොර-ඇරෙයි/11-408177) · `si`
-
-Minister of Labor and Foreign Employment at the Ministry of Foreign Affairs (19) at the Ministry of Foreign Affairs (19) at the Ministry of Foreign Affairs
-
-He said that these people will leave for Israel on the 21st and 22 of the 22nd.
-
-According to a bilateral agreement, the foreign employment bureaucracy is sent to Israel's nurses, nurses, and has sent out 1070 workers for employment of nursing staff.
-
-◼️
-
-[Data](articles/ef3eb091.json)
-
-[Extended Data](ext_articles/ef3eb091.ext.json)
-
----
-
-### Sri Lanka is consecuting the powerful fastball tournament
-
-*2024-02-19 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193584) · `si`
-
-Sri Lanka's fast bowler's fast bowler IPL has been selected to the Kolkata Knight Riders to the team.
-
-It is reported that he will join the Kolkata Knight Riders team at a cost of Rs.
-
-The Kolkata Knight Riders of the Kolkata Knight Raiders of the Kolkata Knight Riders have been selected by the Kolkata Knight Riders of England.
-
-Dushhana Chameera has been represented in 2018 in 2018, royal Challengers team for the 2021 Royal Challengers Bangalore.
-
-◼️
-
-[Data](articles/893d6f64.json)
-
-[Extended Data](ext_articles/893d6f64.ext.json)
-
----
-
-### Excavation work on gold ornamental treasure buried by Liberation Tigers!
-
-*2024-02-19 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176793) · `ta`
-
-Excavation work was carried out on Monday (19) regarding the gold jewelery buried by the LTTE.
-
-The excavation work was carried out on Monday (19) with the permission of the House, as the Kilinochchi Dharmapuram police have been sought by the Dharmapuram police on the 16th.
-
-Excavation operations are being carried out at 2.30 pm on Monday (19) as the Liberation Tigers of Tamil Eelam (LTTE) have been buried during the war.
-
-The excavation was carried out in the presence of the Magistrate, Archaeological Department officials, Grama Niladhari and others.
-
-◼️
-
-[Data](articles/a20d9ad7.json)
-
-[Extended Data](ext_articles/a20d9ad7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 03:33:09**
+As of **2024-02-21 03:50:15**
 
 ## Newspaper Stats
 
-*Scraped **8,335** Articles*
+*Scraped **8,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 434
 dailyftlk | 444
 adalk | 712
 adaderanalk | 1,007
-tamilmirrorlk | 1,026
+tamilmirrorlk | 1,028
 virakesarilk | 1,120
 adaderanasinhalalk | 1,213
 dailymirrorlk | 1,236
@@ -26,11 +26,43 @@ dailymirrorlk | 1,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,335 (100.0%) of 8,335 articles have been extended.
+8,337 (100.0%) of 8,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Mano's child will cry if the child asks the spiral;Life
+
+*2024-02-21 03:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோவின்-பிள்ளையார்-சுழியை-பிள்ளையார்-கேட்டால்-அழுது-விடுவார்-ஜீவன்/175-333557) · `ta`
+
+Mano Ganesan, the leader of the Tamil Progressive Alliance, said, "I am Pillaiyar Sukuli for this 10000 home project.". If the child asks this, he will cry. I do not come to make a name -nourishing politics. "I came into politics to find permanent solutions," said Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress.
+
+He said this while addressing the debate on the second reading of the Seven Bill, including the Bill of the Bill, the Bureau of Relations (Amendment) Bill, the Bill of Tuesday in Parliament at a session held in Parliament yesterday.
+
+We implemented the housing scheme we got through the Government of India on the 19th of this month. We have introduced 1300 homes in 43 housing projects. This is the first phase of the 10000 housing scheme. Various comments were made on this project. In it, some people said that we are looking at the party. But we are still a list of beneficiaries.
+
+...
+
+[Data](articles/182a6f00.json)
+
+[Extended Data](ext_articles/182a6f00.ext.json)
+
+---
+
+### Sword Cut in Point: Two people injured
+
+*2024-02-21 03:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பருத்தித்துறையில்-வாள்-வெட்டு-இருவர்-காயம்/175-333556) · `ta`
+
+Two students were injured in a sword cutting incident in Jaffna - Point Pedro.
+
+◼️
+
+[Data](articles/d526ee75.json)
+
+[Extended Data](ext_articles/d526ee75.ext.json)
+
+---
 
 ### Chinese countryman beat police officers
 
@@ -1923,33 +1955,5 @@ The police said that Wennaathiges were also a person who had come to the apartme
 [Data](articles/34697f83.json)
 
 [Extended Data](ext_articles/34697f83.ext.json)
-
----
-
-### N’Eliya Road Passenger Transport Authority officials arrested for accepting bribe
-
-*2024-02-20 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97406/neliya-road-passenger-transport-authority-officials-arrested-for-accepting-bribe-) · `en`
-
-The District Manager and Management Assistant of the Nuwara Eliya Road Passenger Transport Authority have been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-Accordingly, the suspects were arrested by the CIABOC for allegedly soliciting a bribe of Rs. 30,000 to change a bus owner’s route permit.
-
-◼️
-
-[Data](articles/d8b8900e.json)
-
-[Extended Data](ext_articles/d8b8900e.ext.json)
-
----
-
-### Feminist Revolt & Masculinity Pitfalls In The Bolshevik Camp: Sri Lanka’s Election Prelude
-
-*2024-02-20 12:46:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/feminist-revolt-masculinity-pitfalls-in-the-bolshevik-camp-sri-lankas-election-prelude/) · `en`
-
-...
-
-[Data](articles/c6ad8fa0.json)
-
-[Extended Data](ext_articles/c6ad8fa0.ext.json)
 
 ---

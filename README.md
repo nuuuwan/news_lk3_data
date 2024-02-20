@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 08:02:45**
+As of **2024-02-20 08:17:15**
 
 ## Newspaper Stats
 
-*Scraped **8,135** Articles*
+*Scraped **8,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,152 @@ newsfirstlk | 363
 economynextcom | 419
 islandlk | 422
 dailyftlk | 443
-adalk | 693
-tamilmirrorlk | 987
+adalk | 694
 adaderanalk | 989
+tamilmirrorlk | 990
 virakesarilk | 1,091
-adaderanasinhalalk | 1,183
-dailymirrorlk | 1,200
+adaderanasinhalalk | 1,186
+dailymirrorlk | 1,201
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,134 (100.0%) of 8,135 articles have been extended.
+8,135 (99.9%) of 8,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### பொரளையில் நேற்றிரவு துப்பாக்கிச்சூடு
+
+*2024-02-20 07:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளையில்-நேற்றிரவு-துப்பாக்கிச்சூடு/175-333491) · `ta`
+
+பொரளை மகசின் சிறைச்சாலைக்கு முன்பாக உள்ள அடுக்குமாடி குடியிருப்புக்கு அருகில் நேற்று இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பொரளை ஆனந்த ராஜகருணா மாவத்தையில் அமைந்துள்ள சொகுசு அடுக்குமாடி குடியிருப்புக்கு முன்பாக மோட்டார் சைக்கிளில் வந்த துப்பாக்கிதாரி ஒருவரே துப்பாக்கிச் சூடு நடத்தியதாக அவர்கள் தெரிவித்தனர்.
+
+இவர் கடந்த சில நாட்களுக்கு முன்னர் விளக்கமறியலில் இருந்து பிணையில் விடுவிக்கப்பட்டவர் என தெரிவிக்கப்படுகிறது.
+
+சந்தேகநபர்கள் இதுவரை அடையாளம் காணப்படாத நிலையில் பொரளை பொலிஸார் மேலதிக விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+◼️
+
+[Data](articles/3081d881.json)
+
+---
+
+### තවත් අභිරහස් කාන්තා මරණයක්
+
+*2024-02-20 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193600) · `si`
+
+අහුංගල්ල, එගොඩමුල්ල ප්‍රදේශයේ නිවසක තනිව පදිංචිව සිටි කාන්තාවක් සැකකටයුතු ලෙස මියගොස් තිබේ.
+
+මිය ගිය කාන්තාව දින ගණනාවක සිය නොදුටු බවත් ඇය පදිංචිව සිටි නිවස දෙසින් දුඟදක් හමන බවත් පවසමින් කරන ලද පැමිණිල්ලක් මත අහුංගල්ල පොලීසිය විමර්ශනයක් ආරම්භ කර තිබිණි.
+
+ඒ අනුව, ඊයේ (19) පොලීසිය විසින් සිදුකරන ලද වැඩිදුර විමර්ශනයේදී, එම නිවසේ පදිංචි කාන්තාව නිවස තුළ පුටුවක් මත මියගොස් සිට ඇත.
+
+මෘත ශරීරය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරීක්ෂණය සිදුකිරීමෙන් අනතුරුව බලපිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/07ee88bf.json)
+
+---
+
+### රට ළඟා කරගෙන ඇති ප්‍රගතිය ගැන ජනපතිගෙන් ප්‍රකාශයක්
+
+*2024-02-20 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193599) · `si`
+
+රටේ ස්ථාවරත්වය සහ සමෘද්ධිය ළඟා කරගැනීමට මේ වන විට හැකි වී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+◼️
+
+[Data](articles/1ab75dc8.json)
+
+---
+
+### காணாமல் ஆக்கப்பட்டோரின் உறவினர்களின் மாபெரும் ஊர்வலம் இன்று
+
+*2024-02-20 07:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-ஆக்கப்பட்டோரின்-உறவினர்களின்-மாபெரும்-ஊர்வலம்-இன்று/175-333490) · `ta`
+
+யுத்தத்தின் போது காணாமல் ஆக்கப்பட்ட தம் உறவினர்களின் இருப்பிடத்தை அறிந்து கொள்ள ஏழாண்டு கால உண்மையைத் தேடும் வேதனையை நிறைவு செய்யும் வகையில், வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் குடும்ப உறுப்பினர்கள் இன்று காலை கிளிநொச்சியில் பாரிய ஊர்வலமொன்றை நடத்தவுள்ளனர். .
+
+வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்களுக்கான சங்கத்தின் (ARED) வடக்கு மற்றும் கிழக்கு மாகாணங்களின் ஐந்து கிளைகளைச் சேர்ந்த நூற்றுக்கணக்கான உறுப்பினர்கள் கிளிநொச்சியில் தங்களின் குறைகளைக் குறிக்கும் வகையில் பேரணியாகச் செல்லவுள்ளனர்.
+
+கிளிநொச்சி கந்தசாமி கோவிலில் இருந்து காலை 9.30 மணியளவில் பிரதான ஊர்வலம் ஆரம்பமாகி நான்கு கிலோமீற்றர் தூரத்தில் டிப்போ சந்தியில் உள்ள சிறப்பு நினைவுச்சின்னம் வரை செல்ல திட்டமிடப்பட்டுள்ளதாக ARED இன் பேச்சாளர் டெய்லி மிரருக்கு தெரிவித்தார்.
+
+யாழ்ப்பாணம், முல்லைத்தீவு, மன்னார் மற்றும் வவுனியாவைச் சேர்ந்த ARED வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள், குறிப்பாக விதவைத் தாய்மார்களும் ஏழாவது ஆண்டு நினைவேந்தலில் கிளிநொச்சிக்கு வருவார்கள் என எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/609b7a0a.json)
+
+---
+
+### இன்றைய வானிலை முன்னறிவித்தல்
+
+*2024-02-20 07:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-முன்னறிவித்தல்/175-333489) · `ta`
+
+இன்று கிழக்கு மற்றும் ஊவா மாகாணங்களில் சிறிதளவில் மழை பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+சப்ரகமுவ மாகாணத்தில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் கிழக்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, வடமேல், ஊவா, தென் மற்றும் கிழக்கு மாகாணங்களிலும் மாத்தளை மற்றும் கண்டி மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 30-35 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேல் மற்றும் சப்ரகமுவமாகாணங்களில் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலைகாணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும்.
+
+மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள்.
+
+...
+
+[Data](articles/19e0c300.json)
+
+---
+
+### Man shot at in Borella last night
+
+*2024-02-20 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-shot-at-in-Borella-last-night/108-277377) · `en`
+
+A person was injured in a shooting near an apartment complex in front of Borella Magazine Prison last night and was admitted to the m National Hospital, Colombo for treatment, police said.
+
+They said the shooting was done by a gunman who came on a motorcycle in front of the luxury apartment complex located in Ananda Rajakaruna Mawatha, Borella.
+
+The injured has been identified as a person involved in drug trafficking.
+
+It is said that he is a person who was released from remand prison a few days ago on bail.
+
+The suspects have not been identified yet and the Borella Police have started further investigations.
+
+◼️
+
+[Data](articles/5c992875.json)
+
+---
+
+### ගිනියම් වූ අනියම් පෙම
+
+*2024-02-20 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193598) · `si`
+
+අනියම් සම්බන්ධතාවක් හේතුවෙන් ඇතිවූ බහින් බස්වීමක් දුරදිග යාමෙන් පුද්ගලයින් දෙදෙනෙකු හා කාන්තාවන් තිදෙනෙකු බරපතළ තුවාල සිදුකර තිබේ.
+
+ඊයේ (19) රාත්‍රී කාලයේදී එම සිදුවීම වාර්තා වී තිබුණේ රාමනාදපුරම්, කල්මඩුනගර් ප්‍රදේශයෙනි.
+
+තුවාලකරුවන් කිලිනොච්චිය රෝහලට ඇතුළත් කර ඇති අතර ඉන් තුවාලකරුවන් දෙදෙනෙකු වැඩිදුර ප්‍රතිකාර සඳහා යාපනය රෝහල වෙත මාරුකරු යවා ඇත.
+
+තුවාලකරුවන් අවුරදු 28 හා 30 වයස්වල පසුවන පිරිමි පුද්ගලයින් දෙදෙනෙකු හා අවුරුදු 28, 30 හා 50 වයස්වල පසුවන කාන්තාවන් තිදෙනෙකු වන අතර ඔවුන් පලෛයි හා වව්නියාව ප්‍රදේශවල පදිංචිකරුවන්ය.
+
+සිද්ධිය සම්බන්ධයෙන් සිදුකර ලද වැඩිදුර විමර්ශනයේදී අනාවරණය වී ඇත්තේ, අනියම් සම්බන්ධතාවක් හේතුවෙන් ඇතිවූ බහින් බස්වීමක් දුරදිග යාමෙන් තියුණු ආයුධවලින් පහරදී ඇති බවය.
+
+සිද්ධියට සම්බන්ධ අවුරදු 24, 33 හා 59 වයස්වල පසුවන කිලිනොච්චිය හා වට්ටකච්චි ප්‍රදේශවල පදිංචි පුද්ගලයින් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/ca35e0a3.json)
+
+---
 
 ### Israel’s economy shrinks more than expected on Gaza war
 
@@ -53,6 +183,8 @@ An Israeli military campaign has followed, which has killed 29,000 people in the
 ...
 
 [Data](articles/b668e977.json)
+
+[Extended Data](ext_articles/b668e977.ext.json)
 
 ---
 
@@ -1264,6 +1396,24 @@ Since we believe that you have the right to continue the journalism freely and w
 
 ---
 
+### සනත් නිශාන්ත හිටියනම් මට මෙහෙම වෙන්නේ නෑ
+
+*2024-02-19 19:15:57* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-හිටියනම්-මට-මෙහෙම-වෙන්නේ-නෑ/11-408180) · `si`
+
+“සනත් නිශාන්ත මහත්තයා ජීවත්වලො සිටියා නම් මට මෙහෙම දෙයක් වෙන්නේ නෑ. මගේ රස්සාවත් නැති කළා. මට ජීවත් වෙන්න විදියක් නෑ” යනුවෙන් හිටපු ජල සම්පාදන රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ රියදුරා වශයෙන් කටයුතු කළ ප්‍රභාත් එරංග දුල්නේෂා නැමැත්තා වැලිසර මහේස්ත්‍රාත් තුසිත ධම්මික උඩුවවිදාන මහතා හමුවේ අද (19) කියා සිටියේය.
+
+සන්ත නිශාන්ත මහතාට මරු කැඳවූ කොළඹ - කටුනායක ආධිවේගී මාර්ගයේ කෙරළපිටිය ප්‍රදේශයේ සිදුවූ මාරක රිය අනතුරට අදාල නඩුව කැඳවූ අවස්ථාවේදී ඔහු එසේ කියා සිටියේය.
+
+මෙම සිද්ධියෙන් අතෘප්තියට පත්වූ බව කියමින් සනත් නිශාන්ත මහතාගේ බිරිඳගේ අයිවාසිකම් වෙනුවෙන් පෙනී සිටි නීතිඥ ධනරාජ් සමරකෝන් මහතා සැකකාර දුල්නේෂා නැමැත්තාට විදේශගත වීම වළක්වාළමින් නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා සිටි අවස්ථාවේදී දුල්නේෂා නැමැත්තා හැඩුම්බරව අධිකරණය හමුවේ එසේ පැවසීය.
+
+මෙම සිද්ධියට අදාල නඩුව කැඳවූ අවස්ථාවේදී සනත් නිශාන්ත මහතාගේ මෝටර් රථයේ ගැටුණු කන්ටේනර් රථයේ රියදුරු මෙන්ම සනත් නිශාන්ත මහතාගේ රථය පැදවූ දුල්නේෂා නැමැත්තා ද අධිකරණයේ පෙනී සිටියහ.
+
+...
+
+[Data](articles/273f4441.json)
+
+---
+
 ### Members of Parliament of Kadawatha Mahamaiah College
 
 *2024-02-19 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176801) · `ta`
@@ -1893,181 +2043,5 @@ Dr. Deepika Rathnawardane assumed duties today as the first female Chief Medical
 [Data](articles/8661780d.json)
 
 [Extended Data](ext_articles/8661780d.ext.json)
-
----
-
-### Fasting with a coffin against the diplomatic minister
-
-*2024-02-19 16:34:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சருக்கு-எதிராக-சவப்பெட்டியுடன்-உண்ணாவிரதம்/175-333458) · `ta`
-
-Two persons are engaged in a hunger strike with a coffin, demanding the abuse of the Minister of State S. Viyalendran, demanding the departure of the Minister of State for the Eravur Patti Divisional Development Committee.
-
-The two men who are legally involved in stone, mud and chry excavation have been involved in a hunger strike on Monday (19) near the Modu-Chengaladi Divisional Secretariat.
-
-The Divisional Secretary's approval can be renewed only if the State Minister's recommendation is that the State Minister's recommendation can only be renewed in the 2024 year permit for those who are legally permission from stone, soil and kaval.
-
-Following the refusal, the hunger strike has begun till this death, protesting against the abuse of the Minister of State
-
-Commenting on this, the two who are engaged in a hunger strike
-
-...
-
-[Data](articles/939ce024.json)
-
-[Extended Data](ext_articles/939ce024.ext.json)
-
----
-
-### Firing in the Mannar Nochikulam area;Demonstration of people crossing the street
-
-*2024-02-19 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176780) · `ta`
-
-The villagers were protesting over the road as a target of a man from Nochikkulam on Monday (19) in the Mannar -Madawachi main road, Uilangulam - Nochikkulam area.
-
-A farmer from the Nochchi pond was reportedly leaving a motorbike in his field in his village at around 8.30 am today, but two men who were on a motorbike were shot dead by a R-56 rifle.
-
-As a result of this, a group of people have been attacked by the people of the village for the past few years.
-
-In addition, the villagers of Nochikkulam crossed the road and condemned the incident that the village was continuing and the incident was continuing in violation of the incident.
-
-In the posts, who gave 'the weapon of the murderers?'
-
-The suspects involved in the shooting incident demanded that action be taken before the law.
-
-Mannar and Uilangulam police are conducting serious investigations into the shooting incident.
-
-...
-
-[Data](articles/36580868.json)
-
-[Extended Data](ext_articles/36580868.ext.json)
-
----
-
-### ’I do associate with President’: Fonseka
-
-*2024-02-19 16:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-do-associate-with-President-Fonseka/108-277326) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - Samagi Jana Balawegaya (SJB) MP Sarath Fonseka said today that he does associate with President Ranil Wickremesinghe, but it is a different kind of relationship.
-
-"It was Ranil who introduced me to politics. Therefore, I do associate with him," Fonseka told journalists.
-
-"I have no intention of joining the National Peoples Power. There is a difference between my politics and theirs," he added.
-
-◼️
-
-[Data](articles/44c82e6b.json)
-
-[Extended Data](ext_articles/44c82e6b.ext.json)
-
----
-
-### Sri Lanka stocks close up, JKH trade pushes turnover
-
-*2024-02-19 16:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-jkh-trade-pushes-turnover-151504/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 56.94 points, or 0.54 percent at 10,643 while the S&P SL20 Index closed up at 3,067 points, up 18.77 percent, or 0.62 points.
-
-Turnover was at 719 million. Sectors that attracted investor interest were Capital Goods (185mn), and Banks (106mn).
-
-John Keells Holdings Plc contributed 140 million to the day’s turnover, and the share closed up at 190.00.
-
-Dialog Axiata Plc, which announced a change to its board, also saw fairly high volumes (43mn) traded in the day, and the share closed up at 10.30.
-
-Other positive contributors to the main index were Melstacorp Plc (up at 83.90), Expolanka Holdings Plc (up at 138.50), Commercial Bank of Ceylon Plc (up at 91.10), and Ceylon Tobacco Company Plc (up at 1,019.00). (Colombo/Feb19/2024).
-
-◼️
-
-[Data](articles/0966b4fe.json)
-
-[Extended Data](ext_articles/0966b4fe.ext.json)
-
----
-
-### Health Minister responds to reports on dearth of medical equipment
-
-*2024-02-19 16:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-Minister-responds-to-reports-on-dearth-of-medical-equipment/108-277325) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - Responding to the allegations on the acute shortage of critical medical equipment at government hospitals, Health Minister Dr. Ramesh Pathirana dismissed the claims.
-
-Addressing the media, he stated that they had not received any reports of such cases from hospitals.
-
-Nonetheless, the Minister said the Health Ministry will look into the matter further as there could be shortcomings.
-
-Besides, he said there are no official reports of surgeries being halted due to the unavailability equipment as of now.
-
-Health sector trade unions recently claimed that government hospitals are grappling with an acute shortage of critical medical equipment, including surgical equipment.
-
-However, according to 'Swastha' which is the information management system of the availability of medicinal drugs, there is a significant shortage of stent items including esophageal stent, Double J stent, 3Fr etc.
-
-◼️
-
-[Data](articles/a242af31.json)
-
-[Extended Data](ext_articles/a242af31.ext.json)
-
----
-
-### Peasant
-
-*2024-02-19 16:19:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயிரிழையில்-உயிர்-தப்பிய-விவசாயி/175-333455) · `ta`
-
-On Monday, a man from Nochikkulam was shot dead by the villagers of the Mannar Madawachi main road, Uilangulam-Nochikkulam.
-
-A farmer from the Nochchi pond on Monday (19) was reported to have no harm as two men on a motorbike were using a R-56 rifle with a R-56 rifle.
-
-A group of people have said that three people have been killed in the past few years.
-
-In addition, the villagers of Nochikkulam went on a protest over the incident on Monday (19), condemning the incident.
-
-In the posts, 'Who gave the murderers a weapon?'"It is the duty of the state to protect us' 'Protect our lives' is not justice for our people?The words 'who gives'.
-
-The suspects involved in the shooting incident demanded that action be taken before the law.
-
-Following the shooting, all vehicles visiting Mannar city via Mannar main bridge from Monday (19) morning, ink, have been subjected to a special raid.
-
-◼️
-
-[Data](articles/8d49efd2.json)
-
-[Extended Data](ext_articles/8d49efd2.ext.json)
-
----
-
-### Two children killed and two children hit by train in Arachchikattuwa
-
-*2024-02-19 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193582) · `si`
-
-A woman and two young children were killed when a motorbike collided with a motorcycle train in Myiya area.
-
-The motorcycle, who was carrying a mother of a mother who was carrying his child and another child towards tuition, collided with the train.
-
-◼️
-
-[Data](articles/fe89754d.json)
-
-[Extended Data](ext_articles/fe89754d.ext.json)
-
----
-
-### Tense situation as crowds clamour for SL v AFG match tickets in Dambulla
-
-*2024-02-19 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97390/tense-situation-as-crowds-clamour-for-sl-v-afg-match-tickets-in-dambulla) · `en`
-
-A tense situation was reported at the Dambulla Divisional Secretariat this afternoon (19 Feb.), as crowds thronged the premises in attempts to purchase tickets for today’s T20 match between Sri Lanka and Afghanistan.
-
-Sri Lanka Cricket (SLC) announced on Sunday (18 Feb.), that all tickets for both the second and third T20 matches against Afghanistan have been sold out.
-
-However, tickets priced at Rs. 500 and Rs. 200 were issued at the Dambulla Divisional Secretariat this morning, resulting in large crowds of fans gathering to purchase tickets.
-
-The second match of the three-match series is scheduled to kick-off at 07:00 p.m today, at the Rangiri Dambulla International Cricket Stadium (RDICS).
-
-◼️
-
-[Data](articles/b2097094.json)
-
-[Extended Data](ext_articles/b2097094.ext.json)
 
 ---

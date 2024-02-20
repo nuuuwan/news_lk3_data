@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 12:32:52**
+As of **2024-02-20 12:50:00**
 
 ## Newspaper Stats
 
-*Scraped **8,207** Articles*
+*Scraped **8,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,110 @@ islandlk | 434
 dailyftlk | 444
 adalk | 699
 adaderanalk | 995
-tamilmirrorlk | 1,000
-virakesarilk | 1,103
-adaderanasinhalalk | 1,196
+tamilmirrorlk | 1,004
+virakesarilk | 1,105
+adaderanasinhalalk | 1,197
 dailymirrorlk | 1,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,207 (100.0%) of 8,207 articles have been extended.
+8,214 (100.0%) of 8,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### July Chang worried about the online bill
+
+*2024-02-20 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193611) · `si`
+
+US Ambassador July Chang, July Chang, has requested the priority not only to listen to the needs of the international community but also to the needs of the citizens of the country.
+
+She said that she was speaking on the security of the online bill, or on the online bill.
+
+Foreign media reports that she has expressed concerns on the three areas of error, intention, the influence of inevitability, inevitable impact on the way of speech.
+
+The US Ambassador has said that the Bill would be defective in the bill.
+
+She is intending to fight and have expressed their concern for the lack of internet attacks on the broader definitions used in the Bill, but she has expressed his concern over the abuse of the legal statement.
+
+She has questioned whether the actual solution is received by the Internet speaker on the impact on the amendment of the Act.
+
+◼️
+
+[Data](articles/8ec692a9.json)
+
+[Extended Data](ext_articles/8ec692a9.ext.json)
+
+---
+
+### Tobacco pieces in the chocolate pack of a man who visited the prisoner
+
+*2024-02-20 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176850) · `ta`
+
+Prison Commissioner (Media Spokesperson) Gamini B.. Dissanayake said.
+
+He added that the suspect had been searched by the prison officers and handed over the suspect to the Borella police.
+
+◼️
+
+[Data](articles/b9d0cc72.json)
+
+[Extended Data](ext_articles/b9d0cc72.ext.json)
+
+---
+
+### Tourists who come and engage in sex industry - DailyMirr
+
+*2024-02-20 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176848) · `ta`
+
+There have been concerns that Russian citizens who visit Sri Lanka as tourists are engaged in sex.
+
+With a large number of tourists from Russia to Sri Lanka, some of them have been involved in prostitution.
+
+Following the incoming visa free of charge, most tourists from many countries of the world, including China Russia, are invading Sri Lanka.
+
+The Sri Lankan government has announced that people from seven countries, including Russia, do not need an internal visa in order to rebuild the tourism industry, which is facing the worst effects of Corona, etc.
+
+In January, 208 253 tourists visited Sri Lanka. Of these, about 32,000 were tourists.
+
+Meanwhile, some of them are reportedly engaged in sex industry.
+
+They are also looking for their customers through nightclubs and some agents and those who are already involved in sex work.
+
+Some websites are publishing advertisements on this.
+
+...
+
+[Data](articles/e029ce67.json)
+
+[Extended Data](ext_articles/e029ce67.ext.json)
+
+---
+
+### Struggle for the 3rd day in Tamil Nadu
+
+*2024-02-20 11:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-3வது-நாளாகவும்-போராட்டம்/175-333510) · `ta`
+
+Tamil Nadu fishermen are fighting for the release of fishermen arrested by the Sri Lankan navy.
+
+Accordingly, more than 800 Tamil Nadu fishermen have been shot dead by the Sri Lankan navy.
+
+Rameshwaram fishermen have been arrested and taken to Sri Lankan jails near Kachchativu, a traditional fishing area.
+
+Accordingly, Rameshwaram fishermen are engaged in an indefinite strike for the 3rd day in Rameswaram demanding the immediate release of Tamil Nadu fishermen in Sri Lankan jails.
+
+Tamil Nadu Chief Minister MK Stalin has written to the central government to take action to release the Tamil Nadu fishermen and boats held by the Sri Lankan Navy. Meanwhile, Tamil Nadu fishermen met Union Minister Jaishankar and urged the fishermen to solve the problem.
+
+...
+
+[Data](articles/a3e2aa7c.json)
+
+[Extended Data](ext_articles/a3e2aa7c.ext.json)
+
+---
 
 ### The reason why 4 students were admitted to the hospital in Kurunegala were released!
 
@@ -172,6 +262,22 @@ The Supreme Court has informed Parliament that most of the provisions of the pro
 
 ---
 
+### Mano asks how many parses
+
+*2024-02-20 11:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எத்தனை-பேரர்ச்-என்று-கேட்கிறார்-மனோ/175-333507) · `ta`
+
+Indian Prime Minister Narendra Modi, who was brought to the hill country during our regime in 2017, announced that the amount of Indian housing projects built in plantations will be increased by a further 10,000.. Since our regime ended in 2019, we couldn't continue it. Tamil Progressive Alliance leader and Colombo district parliamentarian Mano Ganesan has said that we are welcomed and congratulating the housing project today.
+
+The land expansion of the housing projects built in plantations was confirmed by the Cabinet of Cabinet as 7 perch in our regime.. In 2019, this government said it would build a house in 20 parses of plantations.. Later, during the last budget, 10 parasites were said to be housing in plantations.
+
+...
+
+[Data](articles/f7677fb1.json)
+
+[Extended Data](ext_articles/f7677fb1.ext.json)
+
+---
+
 ### Proposal to reduce electricity tariffs to be submitted to PUCSL within two days - Minister
 
 *2024-02-20 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97405/proposal-to-reduce-electricity-tariffs-to-be-submitted-to-pucsl-within-two-days-minister) · `en`
@@ -230,6 +336,26 @@ The meeting was attended by the Additional Secretary of the President of the Nor
 
 ---
 
+### There will be no democracy in a country where parliament is not functioning
+
+*2024-02-20 11:06:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-செயல்படாத-நாட்டில்-ஜனநாயகம்-இருக்காது/175-333506) · `ta`
+
+Speaker Mahinda Yapa Abeywardena said that the heart of democracy would be a parliament and that the country that did not act in parliament would lead to controlling the country.
+
+The Speaker pointed out that the judiciary or executive power cannot be operated without a law and that if these three pillars are combined, the program can be prepared to move the country towards development.
+
+The inaugural meeting of the Student Parliament of the Kadavada Mahamaiah Girls College was held on Monday (19) at the old parliamentary presidential office main hall.
+
+The event was organized by the Department of Communication of the Parliament of Sri Lanka in partnership with the President's Office on the directive of President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/05b0ac8f.json)
+
+[Extended Data](ext_articles/05b0ac8f.ext.json)
+
+---
+
 ### 37th session of FAO Regional Conference for Asia and the Pacific inaugurated in Colombo
 
 *2024-02-20 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97404/37th-session-of-fao-regional-conference-for-asia-and-the-pacific-inaugurated-in-colombo-) · `en`
@@ -273,6 +399,26 @@ The tourism industry has fallen due to the economic crisis in the country in the
 [Data](articles/1167cf44.json)
 
 [Extended Data](ext_articles/1167cf44.ext.json)
+
+---
+
+### Boy arrested for abducting girl
+
+*2024-02-20 10:47:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிறுமியை-கடத்திய-சிறுவன்-கைது/71-333503) · `ta`
+
+Police have arrested a 17 -year -old boy who abducted a 15 -year -old girl in Jaffna and stayed at her home.
+
+A 15 -year -old girl from Tholpuram area has been lodged at the Vaddukoddai police station on Sunday (18).
+
+According to the information that the girl was staying in the house of a 17 -year -old boy from the area, the girl was rushed to the house and rescued the girl and arrested the boy.
+
+The police have been admitted to the Jaffna Bodhana Hospital for a medical examination by the police and the arrested boy has been detained at the police station.
+
+◼️
+
+[Data](articles/2b6fa15e.json)
+
+[Extended Data](ext_articles/2b6fa15e.ext.json)
 
 ---
 
@@ -1931,131 +2077,5 @@ In today's match, Angelo Mathews's all -rounder match, Sadheera Samarawickrama s
 [Data](articles/643646b8.json)
 
 [Extended Data](ext_articles/643646b8.ext.json)
-
----
-
-### Protecting the farmer is protecting the food security
-
-*2024-02-19 23:02:18* · [`dailyftlk`](https://www.ft.lk/columns/Protecting-the-farmer-is-protecting-the-food-security/4-758647) · `en`
-
-We are not too late to bring this time-tested system home to protect both the farmer and the food security
-
-Establishing a local futures exchange would mitigate problems of paddy farmers and political problems propelling out of falling market prices of paddy during harvesting time. Such a futures market could be used for all agricultural products not only to stabilise the prices but also to provide greater liquidity for the producer
-
-Farmers face two main types of risks: production risk and price risk. The risk of production, or risk of return, concerns events of chance origin, related to the nature, to which the producers are exposed. These shocks are linked to either rainfall and climatic variations, invasions of insects, or the occurrence of diseases. Price risk due to price volatility refers to unexpected price fluctuations that are so large and rapid that it becomes impossible to meet expectations.
-
-...
-
-[Data](articles/6440476d.json)
-
-[Extended Data](ext_articles/6440476d.ext.json)
-
----
-
-### Serendib Flour Mills launches fortified ‘Adi Shakthi’ flour in Kandy
-
-*2024-02-19 22:56:00* · [`islandlk`](http://island.lk/serendib-flour-mills-launches-fortified-adi-shakthi-flour-in-kandy/) · `en`
-
-Serendib Flour Mills, fuelled with the purpose of nourishing the nation, launched its new ‘Serendib Adhi Shakthi Fortified Wheat Flour’ – a micronutrient-fortified wheat flour exclusively aimed at plantation communities in Kandy recently.
-
-Introduced in November last year, the new Serendib Adhi Shakthi flour contains essential nutrients such as Iron, Folic Acid, and Vitamin B12, and is tailored to meet the nutritional needs of estate communities, mainly to address key nutritional deficiencies and the rising incidence of Non-Communicable Diseases (NCDs).
-
-...
-
-[Data](articles/2acf1403.json)
-
-[Extended Data](ext_articles/2acf1403.ext.json)
-
----
-
-### Emerald opens its fourth store in Sainthamaruthu with diverse fashion for everyone
-
-*2024-02-19 22:54:00* · [`islandlk`](http://island.lk/emerald-opens-its-fourth-store-in-sainthamaruthu-with-diverse-fashion-for-everyone/) · `en`
-
-Emerald, Sri Lanka’s leading menswear brand, solidified its commitment to catering to a wider audience with the recent opening of its latest store in Sainthamaruthu. Located at 52, Main Street, this marks the brand’s fourth store and signifies its continuous dedication to providing exceptional fashion experiences across the island.
-
-Beyond its renowned menswear collection, the Sainthamaruthu store unveils a captivating line of Ladies’ Daywear and Luxury Shalwars. This exciting introduction caters to the growing demand for stylish and sophisticated women’s apparel, allowing Emerald to become a one-stop destination for the entire family.
-
-...
-
-[Data](articles/eec8a073.json)
-
-[Extended Data](ext_articles/eec8a073.ext.json)
-
----
-
-### CIPM Sri Lanka and KDU to 0pen new vistas for students
-
-*2024-02-19 22:53:00* · [`islandlk`](http://island.lk/cipm-sri-lanka-and-kdu-to-0pen-new-vistas-for-students/) · `en`
-
-CIPM Sri Lanka – the Nation’s leader in human resource management recently entered into a memorandum of understanding with the General Sir John Kotelawala Defence University (KDU) to expand educational opportunities and explore new vistas for their students.
-
-“We are confident that the learning and professional development opportunities at CIPM, which are widely acknowledged as the best in the field of HRM and industry, our international affiliations with people management organizations such as the Asia Pacific Federation of Human Resource Management (APFHRM), World Federation of People Management Associations (WFPMA), and regional HRM bodies will open new vistas for the students. The knowledge exchanges envisaged in this collaboration between 2 mighty like-minded institutions, KDU and CIPM, will no doubt benefit the students and faculty alike,” said U. A. C Obeyesekere, Chief Executive Officer of CIPM Sri Lanka.
-
-...
-
-[Data](articles/b4b3198a.json)
-
-[Extended Data](ext_articles/b4b3198a.ext.json)
-
----
-
-### CSE partners with SLIM to promote capital market education among students
-
-*2024-02-19 22:51:00* · [`islandlk`](http://island.lk/cse-partners-with-slim-to-promote-capital-market-education-among-students/) · `en`
-
-The Colombo Stock Exchange (CSE) signed a Memorandum of Understanding (MoU) with the Sri Lanka Institute of Marketing (SLIM) recently to enhance collaborative efforts in advancing educational initiatives and professional development. This effort will ultimately provide students with the enhanced access and preparation necessary to recongise and capitalise on opportunities within the financial sector.
-
-The objective of this MOU is to include a Capital Market Module for the Post Graduate Diploma in Marketing program and facilitate guest sessions in other courses of SLIM, designed and offered through the CSE Branches in collaboration with SLIM.
-
-Emerald opens its fourth store in Sainthamaruthu with diverse fashion for everyone
-
-Absence of market-driven activities stalls CSE; negative conditions manifest in politics
-
-Bourse facing a degree of turbulence triggered by political uncertainty
-
-Bull run in bourse continues; TB yields decline by more than 100 basis points
-
-...
-
-[Data](articles/cf057b27.json)
-
-[Extended Data](ext_articles/cf057b27.ext.json)
-
----
-
-### CEAT fortifies brand presence in Sri Lanka
-
-*2024-02-19 22:50:00* · [`islandlk`](http://island.lk/ceat-fortifies-brand-presence-in-sri-lanka/) · `en`
-
-The CEAT brand’s retail presence in Sri Lanka has been further strengthened with the opening of three more premium outlets in the country – two in Colombo city and one in Hanwella.
-
-The three new CEAT Shop-In-Shop (SIS) outlets are designed to drive brand premiumisation and enhance customer experience at leading dealer outlets. They are located at U&H Wheel Service and Paramount Tyre Traders, both at Prince of Wales Avenue, Colombo 14; and at Sakura Tyre Centre, Hanwella.
-
-Part of a three-year distribution channel expansion strategy by the country’s highest-selling tyre brand, the CEAT Shop-in-Shop concept entails demarcating a dedicated area for CEAT branded tyres within existing multi-brand dealer premises. CEAT furnishes the interior, customer lobby and reception areas of this private space to augment customer comfort.
-
-...
-
-[Data](articles/e9d6fd83.json)
-
-[Extended Data](ext_articles/e9d6fd83.ext.json)
-
----
-
-### Stock Market starts trading week on positive note
-
-*2024-02-19 22:44:00* · [`islandlk`](http://island.lk/stock-market-starts-trading-week-on-positive-note/) · `en`
-
-Trading activities at the Colombo Stock Market yesterday bounced back following positive comments by external stakeholders that Sri Lanka has almost recovered from the economic crisis after going through a major dip, market analysts said.
-
-Many external stakeholders including JICA representatives who visited Sri Lanka over the weekend and under Secretary for public Diplomacy and Public Affairs State Department of America Elizebeth M.Allen who was in Sri Lanka on a three day official visit told at a forum Sri Lanka has recovered faster from the economic crisis than other countries that faced a similar situation.
-
-Further, strong quarterly earnings for the December quarter and satisfactory dividend declaration for shareholders by several sectors including banks thus created a positive sentiment for the stock market, market analysts said.
-
-...
-
-[Data](articles/ea3016fe.json)
-
-[Extended Data](ext_articles/ea3016fe.ext.json)
 
 ---

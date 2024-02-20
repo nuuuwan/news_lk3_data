@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 20:02:41**
+As of **2024-02-20 20:17:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,224
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,310 (100.0%) of 8,312 articles have been extended.
+8,312 (100.0%) of 8,312 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ TV Derana reaffirmed its excellence at the event, by scooping the 2023 Best Tele
 ◼️
 
 [Data](articles/b2470a32.json)
+
+[Extended Data](ext_articles/b2470a32.ext.json)
 
 ---
 
@@ -65,6 +67,8 @@ Kandy SC have had some tricky moments as well, during which the fan base in Colo
 ...
 
 [Data](articles/3d66a84a.json)
+
+[Extended Data](ext_articles/3d66a84a.ext.json)
 
 ---
 

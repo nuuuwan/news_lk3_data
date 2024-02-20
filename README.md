@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 19:50:29**
+As of **2024-02-20 20:02:41**
 
 ## Newspaper Stats
 
-*Scraped **8,310** Articles*
+*Scraped **8,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 429
 islandlk | 434
 dailyftlk | 444
 adalk | 708
-adaderanalk | 1,004
+adaderanalk | 1,005
 tamilmirrorlk | 1,024
 virakesarilk | 1,120
 adaderanasinhalalk | 1,210
-dailymirrorlk | 1,223
+dailymirrorlk | 1,224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,310 (100.0%) of 8,310 articles have been extended.
+8,310 (100.0%) of 8,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### TV Derana scoops top accolades at 2024 Sumathi Awards
+
+*2024-02-20 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97417/tv-derana-scoops-top-accolades-at-2024-sumathi-awards) · `en`
+
+The 2024 Sumathi Awards ceremony, the 29th edition of one of the most popular television awards shows in Sri Lanka, is taking place in Colombo on Tuesday (Feb.20).
+
+This year’s ceremony presents awards for television programmes aired in the years 2022 and 2023.
+
+TV Derana reaffirmed its excellence at the event, by scooping the 2023 Best Television Documentary award for “Buddha Paathra Wandana” as well as the 2022 Best Television Current Affairs Programme award for “Rebuild Sri Lanka”.
+
+◼️
+
+[Data](articles/b2470a32.json)
+
+---
+
+### Oh How Mighty Kandy Have Fallen?
+
+*2024-02-20 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Oh-How-Mighty-Kandy-Have-Fallen/108-277414) · `en`
+
+Feb. 20 (Daily Mirror) - CR and FC emerged champions of the Inter-Club League Rugby Tournament last Sunday when they defeated Kandy Sports Club in the last fixture, which was a potential title decider.
+
+Kandy Sports Club have been the most successful club in the history of club rugby in Sri Lanka having secured 22 League titles.
+
+Since the shift of powers of Sri Lanka club rugby in early 90s, Kandy SC have been such a dominant force that in certain seasons, the other contenders could only battle for the second spot.
+
+From season-to-season and generation-to-generation they have been able to produce top class players and their fans are so used to seeing their team tore apart teams.
+
+Kandy SC have had some tricky moments as well, during which the fan base in Colombo thought Kandy SC really slipped up.
+
+...
+
+[Data](articles/3d66a84a.json)
+
+---
 
 ### The vehicle import continues to be carried out
 
@@ -1947,35 +1983,5 @@ Kadawatha Mahamaya Balika Vidyalaya, Kadawatha regarding this historic opportuni
 [Data](articles/3e40b261.json)
 
 [Extended Data](ext_articles/3e40b261.ext.json)
-
----
-
-### Supreme Court's Supreme Court Bill
-
-*2024-02-20 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176842) · `ta`
-
-The Supreme Court has informed Parliament that most of the provisions of the proposed fine and debt regulating Authority Bill are contrary to the Constitution.
-
-◼️
-
-[Data](articles/ce9ab5dc.json)
-
-[Extended Data](ext_articles/ce9ab5dc.ext.json)
-
----
-
-### Mano asks how many perch
-
-*2024-02-20 11:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எத்தனை-பேர்ச்-என்று-கேட்கிறார்-மனோ/175-333507) · `ta`
-
-Indian Prime Minister Narendra Modi, who was brought to the hill country during our regime in 2017, announced that the amount of Indian housing projects built in plantations will be increased by a further 10,000.. Since our regime ended in 2019, we couldn't continue it. Tamil Progressive Alliance leader and Colombo district parliamentarian Mano Ganesan has said that we are welcomed and congratulating the housing project today.
-
-The land expansion of the housing projects built in plantations was confirmed by the Cabinet of Cabinet as 7 perch in our regime.. In 2019, this government said it would build a house in 20 parses of plantations.. Later, during the last budget, 10 parasites were said to be housing in plantations.
-
-...
-
-[Data](articles/b591a17a.json)
-
-[Extended Data](ext_articles/b591a17a.ext.json)
 
 ---

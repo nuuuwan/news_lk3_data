@@ -1,32 +1,32 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 09:33:10**
+As of **2024-02-20 09:17:28**
 
 ## Newspaper Stats
 
-*Scraped **8,162** Articles*
+*Scraped **8,159** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 90
-bbccomsinhala | 102
+bbccomsinhala | 101
 dbsjeyarajcom | 154
 newsfirstlk | 363
 economynextcom | 419
 islandlk | 434
-dailyftlk | 444
+dailyftlk | 443
 adalk | 695
 adaderanalk | 991
 tamilmirrorlk | 991
 virakesarilk | 1,091
 adaderanasinhalalk | 1,186
-dailymirrorlk | 1,202
+dailymirrorlk | 1,201
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,146 (99.8%) of 8,162 articles have been extended.
+8,146 (99.8%) of 8,159 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -195,26 +195,6 @@ The suspects have not been identified yet and the Borella Police have started fu
 [Data](articles/5c992875.json)
 
 [Extended Data](ext_articles/5c992875.ext.json)
-
----
-
-### Man shot at in Borella
-
-*2024-02-20 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-shot-at-in-Borella/108-277377) · `en`
-
-Colombo, Feb 20 (Daily Mirror) - A person was injured in a shooting near an apartment complex in front of Borella Magazine Prison last night and was admitted to the m National Hospital, Colombo for treatment, police said.
-
-They said the shooting was done by a gunman who came on a motorcycle in front of the luxury apartment complex located in Ananda Rajakaruna Mawatha, Borella.
-
-The injured has been identified as a person involved in drug trafficking.
-
-It is said that he is a person who was released from remand prison a few days ago on bail.
-
-The suspects have not been identified yet and the Borella Police have started further investigations.
-
-◼️
-
-[Data](articles/bcf58811.json)
 
 ---
 
@@ -586,22 +566,6 @@ President Wickremesinghe, in turn, provided an overview of the progress made in 
 
 ---
 
-### සුළං බලාගාර : 'අදානිගේ කොරිඩෝව දිගේ යන්න නම් කුරුල්ලන්ට අට ගහන්න පුරුදු කරන්න වෙනවා.'
-
-*2024-02-20 02:03:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpdel5kd2rmo) · `si`
-
-සුළං බලාගාර : 'අදානිගේ කොරිඩෝව දිගේ යන්න නම් කුරුල්ලන්ට අට ගහන්න පුරුදු කරන්න වෙනවා.'
-
-ලෝකයේ කුරුල්ලන් සංක්‍රමණය වන ප්‍රධාන මාර්ග අටෙන් එකක් වන මධ්‍යම ආසියානු සංක්‍රමණික මාර්ගයේ (Central Asian Flyway) ගමනාන්තය වූ ශ්‍රී ලංකාව කුරුලු පරාදීසයකි. කිලෝමීටර් දහස් ගණනක් දුර ගෙවාගෙන රටවල් 30කින් සංක්‍රමණික කුරුල්ලෝ ශ්‍රී ලංකාවට පැමිණෙති. එලෙස පැමිණෙන කුරුල්ලන් මිලියන 15ක් පමණ වසරකට මන්නාරම හරහා ශ්‍රී ලංකාවට  ඇතුළු වන බවට පර්යේෂකයන් ඇස්තමේන්තු කර ඇත.
-
-ඊට අමතරව උතුරු පළාතට අයත් මන්නාරම දූපත යනු ධීවර ප්‍රජාව ජීවත් වෙන, ඊටම අවේණික වූ සුවිශේෂී පරිසර පද්ධති දක්නට ලැබෙන, ශ්‍රී ලංකාවේ ඉතිහාසය හා බැඳුනු, කලාපයේ භූ දේශපාලනික වශයෙන් ද ඉතා සංවේදී ප්‍රදේශයකි. එබැවින් මන්නාරමේ නව සුළං බලාගාර ව්‍යාපෘතිය කුරුල්ලන්ට පමණක් බලපාන ගැටලුවක් ලෙස ලඝු කළ නොහැක.
-
-...
-
-[Data](articles/3699a486.json)
-
----
-
 ### Gamini - I,. General Secretary Range Bandara
 
 *2024-02-20 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176809) · `ta`
@@ -795,20 +759,6 @@ The Sri Lankan apparel industry captured the spotlight over the past year, as re
 [Data](articles/60f026e7.json)
 
 [Extended Data](ext_articles/60f026e7.ext.json)
-
----
-
-### Busting fake unions presents avenues for better progress
-
-*2024-02-20 00:41:57* · [`dailyftlk`](https://www.ft.lk/columns/Busting-fake-unions-presents-avenues-for-better-progress/4-758653) · `en`
-
-For some union leaders, entry into a factory with wider membership promises better funding and position
-
-The Sri Lankan apparel industry captured the spotlight over the past year, as reduced orders resulted in factory closures, lesser earnings and job losses. The drop in orders was consequent to a global demand dip stemming from COVID-19-led lockdowns. This was compounded by price competitiveness, with Sri Lanka trailing far behind nations like Bangladesh, Vietnam and China that also boasts significantly higher efficiency. Despite Sri Lanka’s high-cost base, the destination is a darling for global brands due to its high compliance standards and production quality. However, this will not suffice to grow the segment as other nations are catching up fast, especially with quality.
-
-...
-
-[Data](articles/a166a35b.json)
 
 ---
 
@@ -2051,5 +2001,69 @@ Know This: The US Embassy fully supports the immense task you do. Of course, eve
 [Data](articles/667f0b02.json)
 
 [Extended Data](ext_articles/667f0b02.ext.json)
+
+---
+
+### Cops kneel in Supreme Court in apology for senior citizen’s illegal arrest
+
+*2024-02-19 17:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cops-kneel-in-Supreme-Court-in-apology-for-senior-citizens-illegal-arrest/108-277329) · `en`
+
+Colombo, Feb 19 (Daily Mirror) - In a remarkable courtroom moment that has sparked conversations countrywide, three policemen tendered an apology while falling on their knees during a Supreme Court hearing involving an 88-year-old senior citizen they had previously arrested.
+
+The gesture, which was seen as a rare display of empathy and reconciliation, has garnered widespread attention and praise for its demonstration of humility and acknowledgment of past actions.
+
+Three policemen attached to the Narahenpita Police Station, a Police Sergeant and two Police Constables, tendered this unexpected apology to the petitioner Godwin Perera (88) as a part of a settlement reached between the parties into a Fundamental Rights petition filed by the petitioner in 2017.
+
+...
+
+[Data](articles/6634f2ee.json)
+
+[Extended Data](ext_articles/6634f2ee.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 312.15/25 to the US dollar
+
+*2024-02-19 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-312-15-25-to-the-us-dollar-151508/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 312.15/25 to the US dollar Monday, from 312.20/35 on Friday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.55/75 percent from 10.60/70 percent.
+
+A bond maturing on 15.09.2027 closed at 11.70/90 percent from 11.55/75 percent.
+
+A bond maturing on 15.03.2028 closed at 12.00/15 percent from 11.90/12.05 percent.
+
+A bond maturing on 15.07.2029 closed at 12.20/70 percent from 12.20/45 percent.
+
+A bond maturing on 15.05.2030 closed at 12.20/70 percent from 12.30/50 percent.
+
+A bond maturing on 01.07.2032 closed at 12.45/90 percent from 12.55/75 percent. (Colombo/Feb19/2024)
+
+◼️
+
+[Data](articles/e9271390.json)
+
+[Extended Data](ext_articles/e9271390.ext.json)
+
+---
+
+### Vishwa Hindu Parishad Organization for Lions in India
+
+*2024-02-19 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/176757) · `ta`
+
+The Vishwa Hindu Parishad Organization has filed a petition in the Supreme Court in protest against the consumption of two lions, Sita and Akbar, in the same area of the Siliguri Mikkshi school in West Bengal, India.
+
+Two lions were brought to the Bengal Mikkshi school in Siliguri, Siliguri, West Bengal.. Of these two lions, a seven -year -old lion was named as Akbar and a 6 -year -old lion.. The Hindu Organization has now sought a court called Vishwa Hindu Parishad against these names.
+
+Vishwa Hindu Parishad, who has filed a petition in the Kolkata High Court, has demanded that the lion be changed to the name of Sita.
+
+The petition said, “West Bengal Forest Department has named lions. Akbar was one of the famous Mughal emperors. A character in the Ramayana of Sita Valmiki. Also, Sita is celebrated in Hindu practices. Therefore, the name of the lions should be changed because it is an act of contempt of Hinduism with Akbar. Akbar's vice can not be a subordinate. ”
+
+...
+
+[Data](articles/5cd631e4.json)
+
+[Extended Data](ext_articles/5cd631e4.ext.json)
 
 ---

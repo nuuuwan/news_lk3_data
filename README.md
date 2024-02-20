@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 08:50:53**
+As of **2024-02-20 09:02:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,144 (100.0%) of 8,146 articles have been extended.
+8,146 (100.0%) of 8,146 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ According to the President’s Media Division (PMD), plans are in place to final
 ...
 
 [Data](articles/6b033d01.json)
+
+[Extended Data](ext_articles/6b033d01.ext.json)
 
 ---
 
@@ -356,19 +358,21 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### கல்வித்துறையை டிஜிட்டல் மயமாக்கும் திட்டம்
+### The plan to digitize the education sector
 
 *2024-02-20 04:34:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வித்துறையை-டிஜிட்டல்-மயமாக்கும்-திட்டம்/175-333488) · `ta`
 
-கல்வித்துறையை டிஜிட்டல் மயமாக்குவதற்கான முன்னோடித் திட்டத்தை மார்ச் மாதம் ஆரம்பிக்க ஏற்பாடு செய்யப்பட்டுள்ளதாக கல்வி அமைச்சர் கலாநிதி சுசில் பிரேமஜயந்த் தெரிவித்தார்.
+Education Minister Dr. Susil Premajayant said that the pioneering program for digitalization of the education sector has been launched in March.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவிக்கும்போதே அவர் இவ்வாறு தெரிவித்தார்.
+He was speaking at a press conference held at the Presidential Media Center yesterday.
 
-கல்வித்துறையை டிஜிட்டல் மயமாக்கும் முன்னோடித் திட்டத்தை மார்ச் மாதத்தில் தொடங்க ஏற்பாடுகள் செய்யப்பட்டுள்ளன. அதற்காக ஆசிரியர்களை பயிற்றுவிப்பதற்கு மைக்ரோசொப்ட் நிறுவனம் ஆதரவு அளிக்கிறது என்றார். (a)
+Arrangements have been made to launch the pioneering program to digitize the education sector in March. Microsoft supports the teachers for that. (A)
 
 ◼️
 
 [Data](articles/b6865d82.json)
+
+[Extended Data](ext_articles/b6865d82.ext.json)
 
 ---
 

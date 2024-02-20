@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 06:16:24**
+As of **2024-02-20 06:52:30**
 
 ## Newspaper Stats
 
-*Scraped **8,123** Articles*
+*Scraped **8,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ economynextcom | 419
 islandlk | 422
 dailyftlk | 443
 adalk | 693
-tamilmirrorlk | 984
+tamilmirrorlk | 985
 adaderanalk | 987
 virakesarilk | 1,091
-adaderanasinhalalk | 1,180
+adaderanasinhalalk | 1,181
 dailymirrorlk | 1,198
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,123 (100.0%) of 8,123 articles have been extended.
+8,123 (100.0%) of 8,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-02-20 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193595) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වල උදෑසන කාලයේදී වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සබරගමුව පළාතේත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ස්ථාන ස්වල්පයක සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+එමෙන්ම සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතී.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව, දකුණ සහ නැගෙනහිර පළාත්වලත් මහනුවර සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (30-35) පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/29dd46c0.json)
+
+---
+
+### ஐக்கிய நாடுகளின் பிரதிநிதி ஜனாதிபதியுடன் சந்திப்பு
+
+*2024-02-20 03:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-நாடுகளின்-பிரதிநிதி-ஜனாதிபதியுடன்-சந்திப்பு/175-333486) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின்  பணிப்பாளர் நாயகம் கலாநிதி கூ தொங்யுவுக்கும் இடையிலான சந்திப்பொன்று ஜனாதிபதி அலுவலகத்தில் நேற்று நடைபெற்றது.
+
+பொருளாதார சவால்களுக்கு முகங்கொடுத்து இலங்கை மக்களுக்காக ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் நடைமுறைப்படுத்தப்பட்டுள்ள வேலைத்திட்டத்தை பணிப்பாளர் நாயகம் பாராட்டினார்.
+
+அத்துடன், புதிய சீர்திருத்தங்களினூடாக நாட்டில் பொருளாதார ஸ்திரத்தன்மையை ஏற்படுத்துவதற்கான ஜனாதிபதியின் அர்ப்பணிப்புக்கும் அவர் தனது வாழ்த்துக்களை தெரிவித்தார்.
+
+இந்த நெருக்கடியான சமயத்தில் இலங்கை அரசாங்கத்திற்கும் மக்களுக்கும் உணவு மற்றும் விவசாய அமைப்பு தொடர்ந்து பூரண ஆதரவை வழங்கும் என்றும் பணிப்பாளர் நாயகம் உறுதியளித்தார்.
+
+இலங்கையின் பொருளாதாரத்தை கட்டியெழுப்புவதற்கு முன்னெடுக்கப்படும் வேலைத்திட்டம் தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின் பணிப்பாளர் நாயகத்திற்கு விளக்கமளிக்கப்பட்டது.
+
+...
+
+[Data](articles/470dca45.json)
+
+---
 
 ### Inauguration of Bharat-Sri Lankan President
 
@@ -2013,39 +2055,5 @@ Among Sri Lanka and Afghanistan, there was a warm situation near the Dambulla Di
 [Data](articles/fb8ad071.json)
 
 [Extended Data](ext_articles/fb8ad071.ext.json)
-
----
-
-### Pitipana fisherfolk stage protest...
-
-*2024-02-19 15:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Pitipana-fisherfolk-stage-protest/110-277322) · `en`
-
-Fisherfolk from Pitipana, Negombo staged a protest today outside the Archbishop's House in Colombo, urging the Archbishop of Colombo, Cardinal Malcolm Ranjith to permit them the use of the legally awarded Pitipana Fisheries Harbour. They also presented a petition to the Apostolic Nunciature of the Holy See in Colombo. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/227b9b2d.json)
-
-[Extended Data](ext_articles/227b9b2d.ext.json)
-
----
-
-### Massage Center raided aimed at university students
-
-*2024-02-19 15:23:47* · [`adalk`](https://www.ada.lk/breaking_news/විශ්ව-විද්‍යාල-සිසුන්-ඉලක්ක-කර-පවත්වාගෙන-ගිය-සම්බාහන-මධ්‍යස්ථානයක්-වටලයි/11-408176) · `si`
-
-The massage station has been raided without any registration of the Ayurveda Department or in the area of the local government.
-
-The Peradeniya Police say that there have been reports.
-
-Police have arrested three ages of 25, 28 and 30 years of age suspected to prostitute from the massage center and the manager has commenced.
-
-Police OIC Chief Inspector General of Police Chief Inspector Kapupuduwa, Chief Inspector Campaign of the Peradeniya Police Chamil Ratnayake, is conducting further investigations.
-
-◼️
-
-[Data](articles/d6ab6b33.json)
-
-[Extended Data](ext_articles/d6ab6b33.ext.json)
 
 ---

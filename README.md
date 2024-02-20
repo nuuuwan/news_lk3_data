@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 07:16:50**
+As of **2024-02-20 07:30:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,198
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,125 (100.0%) of 8,126 articles have been extended.
+8,126 (100.0%) of 8,126 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ A 38-year-old person, said to be involved in drug dealings and recently released
 ◼️
 
 [Data](articles/5bfa172b.json)
+
+[Extended Data](ext_articles/5bfa172b.ext.json)
 
 ---
 

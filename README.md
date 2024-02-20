@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 22:32:54**
+As of **2024-02-20 22:49:46**
 
 ## Newspaper Stats
 
-*Scraped **8,323** Articles*
+*Scraped **8,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 429
 islandlk | 434
 dailyftlk | 444
 adalk | 708
-adaderanalk | 1,006
+adaderanalk | 1,007
 tamilmirrorlk | 1,024
 virakesarilk | 1,120
 adaderanasinhalalk | 1,213
@@ -26,11 +26,29 @@ dailymirrorlk | 1,231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,316 (99.9%) of 8,323 articles have been extended.
+8,324 (100.0%) of 8,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### US again casts veto of UN action in Israel-Hamas war
+
+*2024-02-20 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97419/us-again-casts-veto-of-un-action-in-israel-hamas-war) · `en`
+
+The United States on Tuesday again vetoed a draft United Nations Security Council resolution on the Israel-Hamas war, blocking a demand for an immediate humanitarian ceasefire as it instead pushes the 15-member body to call for a temporary ceasefire linked to the release of hostages held by Hamas.
+
+Thirteen council members voted in favor of the Algerian-drafted text, while Britain abstained. It was the third such U.S. veto since the start of the current fighting on Oct. 7.
+
+“A vote in favor of this draft resolution is support to the Palestinians right to life. Conversely, voting against it implies an endorsement of the brutal violence and collective punishment inflicted upon them,” Algeria’s U.N. Ambassador Amar Bendjama told the council before the vote.
+
+...
+
+[Data](articles/6ed4ff56.json)
+
+[Extended Data](ext_articles/6ed4ff56.ext.json)
+
+---
 
 ### President addresses APRC, underscores agriculture’s crucial role in nation building
 
@@ -98,6 +116,8 @@ The Voice of Migrants said that Israel has opened job opportunities for migrant 
 
 [Data](articles/0d36dfa0.json)
 
+[Extended Data](ext_articles/0d36dfa0.ext.json)
+
 ---
 
 ### Iraniya Foreign Minister Meets President
@@ -158,6 +178,8 @@ The Sri Lankan skipper recounted her incredible year in 2023, culminating in the
 
 [Data](articles/b72ceb02.json)
 
+[Extended Data](ext_articles/b72ceb02.ext.json)
+
 ---
 
 ### ILT20 slaps one-year ban on Noor Ahmad
@@ -174,6 +196,8 @@ Initially Noor was meted out a 20-month ban, like Naveen-ul-Haq, but given that 
 
 [Data](articles/cf136059.json)
 
+[Extended Data](ext_articles/cf136059.ext.json)
+
 ---
 
 ### Iranian Foreign Minister Hossein meets President Ranil
@@ -187,6 +211,8 @@ The Iranian Foreign Minister arrived in Sri Lanka yesterday (19) on an officia
 ◼️
 
 [Data](articles/65fc65ef.json)
+
+[Extended Data](ext_articles/65fc65ef.ext.json)
 
 ---
 
@@ -205,6 +231,8 @@ S. Thomas’: 236 in 76.2 overs (Thisen Eheliyagoda 94, Ashen Perera 26, Thara
 ◼️
 
 [Data](articles/6533e327.json)
+
+[Extended Data](ext_articles/6533e327.ext.json)
 
 ---
 
@@ -271,6 +299,8 @@ Kandy SC have had some tricky moments as well, during which the fan base in Colo
 ...
 
 [Data](articles/cb78fd55.json)
+
+[Extended Data](ext_articles/cb78fd55.ext.json)
 
 ---
 
@@ -539,6 +569,8 @@ The comprehensive study, recently published in the esteemed journal Vaccine, une
 ...
 
 [Data](articles/e852cfbc.json)
+
+[Extended Data](ext_articles/e852cfbc.ext.json)
 
 ---
 
@@ -1947,33 +1979,5 @@ He added that the suspect had been searched by the prison officers and handed ov
 [Data](articles/b9d0cc72.json)
 
 [Extended Data](ext_articles/b9d0cc72.ext.json)
-
----
-
-### Tourists who come and engage in sex industry - DailyMirr
-
-*2024-02-20 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/176848) · `ta`
-
-There have been concerns that Russian citizens who visit Sri Lanka as tourists are engaged in sex.
-
-With a large number of tourists from Russia to Sri Lanka, some of them have been involved in prostitution.
-
-Following the incoming visa free of charge, most tourists from many countries of the world, including China Russia, are invading Sri Lanka.
-
-The Sri Lankan government has announced that people from seven countries, including Russia, do not need an internal visa in order to rebuild the tourism industry, which is facing the worst effects of Corona, etc.
-
-In January, 208 253 tourists visited Sri Lanka. Of these, about 32,000 were tourists.
-
-Meanwhile, some of them are reportedly engaged in sex industry.
-
-They are also looking for their customers through nightclubs and some agents and those who are already involved in sex work.
-
-Some websites are publishing advertisements on this.
-
-...
-
-[Data](articles/e029ce67.json)
-
-[Extended Data](ext_articles/e029ce67.ext.json)
 
 ---

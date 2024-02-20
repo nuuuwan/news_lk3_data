@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 18:51:40**
+As of **2024-02-20 19:02:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,285 (100.0%) of 8,286 articles have been extended.
+8,286 (100.0%) of 8,286 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Accordingly, the Legal Draftsman will be directed to prepare the composite act, 
 ◼️
 
 [Data](articles/8a9c6a5d.json)
+
+[Extended Data](ext_articles/8a9c6a5d.ext.json)
 
 ---
 

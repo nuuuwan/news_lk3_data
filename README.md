@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 01:17:28**
+As of **2024-02-21 01:33:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,333 (100.0%) of 8,334 articles have been extended.
+8,334 (100.0%) of 8,334 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,8 @@ At least 257 cases filed by the Special Investigations Unit of the NCPA are pend
 ...
 
 [Data](articles/a5203649.json)
+
+[Extended Data](ext_articles/a5203649.ext.json)
 
 ---
 

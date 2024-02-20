@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 15:02:41**
+As of **2024-02-20 15:17:19**
 
 ## Newspaper Stats
 
-*Scraped **8,243** Articles*
+*Scraped **8,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 421
 islandlk | 434
 dailyftlk | 444
 adalk | 701
-adaderanalk | 998
+adaderanalk | 999
 tamilmirrorlk | 1,011
 virakesarilk | 1,113
 adaderanasinhalalk | 1,200
@@ -26,11 +26,29 @@ dailymirrorlk | 1,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,243 (100.0%) of 8,243 articles have been extended.
+8,244 (100.0%) of 8,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### US pushes for UN to support temporary Gaza ceasefire, oppose Rafah assault
+
+*2024-02-20 14:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97409/us-pushes-for-un-to-support-temporary-gaza-ceasefire-oppose-rafah-assault) · `en`
+
+The United States has proposed a rival draft United Nations Security Council resolution calling for a temporary ceasefire in the Israel-Hamas war and opposing a major ground offensive by its ally Israel in Rafah, according to the text seen by Reuters.
+
+The move comes after the U.S. signalled it would veto on Tuesday an Algerian-drafted resolution — demanding an immediate humanitarian ceasefire — over concerns it could jeopardize talks between the U.S., Egypt, Israel and Qatar that seek to broker a pause in the war and the release of hostages held by Hamas.
+
+Until now, Washington has been averse to the word ceasefire in any U.N. action on the Israel-Hamas war, but the U.S. text echoes language that President Joe Biden said he used last week in conversations with Israeli Prime Minister Benjamin Netanyahu.
+
+...
+
+[Data](articles/9ee9bfd9.json)
+
+[Extended Data](ext_articles/9ee9bfd9.ext.json)
+
+---
 
 ### 73 students at schoolThe incident in the passenger!
 
@@ -2029,23 +2047,5 @@ The President pointed out that agriculture would be the main sector in the rebui
 [Data](articles/470dca45.json)
 
 [Extended Data](ext_articles/470dca45.ext.json)
-
----
-
-### Inauguration of Bharat-Sri Lankan President
-
-*2024-02-20 03:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரத்-லங்கா-ஜனாதிபதி-தலைமையில்-அங்குரார்ப்பணம்/175-333485) · `ta`
-
-The fourth phase of the Bharat -Lanka Housing Scheme, which constructed 10 thousand houses for plantation workers under the financial assistance of the Government of India, was launched yesterday from the Presidential Office on online.
-
-Under the fourth phase of the 'Bharat -Sri Lanka' Housing Scheme, the monument was opened through online for the construction of 1300 houses in 10 districts, 45 gardens.
-
-President Ranil Wickremesinghe, Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman and Sri Lanka's High Commissioner Santosh Ja were present at the event.. (A)
-
-◼️
-
-[Data](articles/c23180d7.json)
-
-[Extended Data](ext_articles/c23180d7.ext.json)
 
 ---

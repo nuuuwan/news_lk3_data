@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 13:17:27**
+As of **2024-02-20 13:33:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,207
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,214 (99.9%) of 8,223 articles have been extended.
+8,223 (100.0%) of 8,223 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,49 +44,57 @@ Accordingly, the suspects were arrested by the CIABOC for allegedly soliciting a
 
 [Data](articles/d8b8900e.json)
 
+[Extended Data](ext_articles/d8b8900e.ext.json)
+
 ---
 
-### சுகாதார அமைச்சும் உயர் அதிகாரிகளும் இன்று வாய்மொழியாக நிர்வாகம் செய்கிறார்கள் என்கிறார் வைத்தியர் பெல்லன!
+### Dr. Bellana says that the Ministry of Health and top officials are verbally management today!
 
 *2024-02-20 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176853) · `ta`
 
-எந்த நேரத்திலும் ஓய்வு பெறத் தயார் என கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்க்ஷான் பெல்லான தெரிவித்துள்ளார்.
+Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellan, said he was ready to retire at any time.
 
-இன்று செவ்வாய்க்கிழமை (20) காலை இடம்பெற்ற  ஊடகவியலாளர் மாநாட்டிலேயே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+He was speaking at a press conference held on Tuesday morning.
 
-இன்றையதினம் சுகாதார அமைச்சும் சுகாதாரத்துறை உயர் அதிகாரிகளும் வாய்மொழியாக நிர்வாகம் செய்கிறார்கள். இவ்வாறான ஒரு சூழ்நிலையிலேயே நான் பணியாற்றினேன்.  இந்நிலையில் நான்      ஓய்வு பெற தயாராக இருக்கிறேன் என்றார்.
+The Ministry of Health and the High Department of Health today are verbally management. I worked in such a situation.In this case, I am ready to retire.
 
 ◼️
 
 [Data](articles/094c2145.json)
 
+[Extended Data](ext_articles/094c2145.ext.json)
+
 ---
 
-### சர்வதேச சமூக நீதி தினத்தில் நுவரெலியாவில் உரிமை கோரி போராட்டம்
+### Struggle in Nuwara Eliya on International Social Justice Day
 
 *2024-02-20 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176852) · `ta`
 
-ஒவ்வொரு ஆண்டும்  பெப்ரவரி மாதம் 20 திகதி “உலக சமூக நீதி தினமாக” அனுசரிப்பது என்று தீர்மானிக்கப்பட்டு 2009-ம் ஆண்டு முதல் கடைப்பிடிக்கப்பட்டு வருகிறது. அந்த வகையில் தமிழர்களின் உரிமைகளை உள்ளடக்கிய சில முக்கிய கோரிக்கைகளை முன்வைத்து செவ்வாய்கிழமை (20) நுவரெலியா பிரதான தபால் நிலையத்துக்கு முன்பாக கண்டனப் போராட்டம் மேற்கொள்ளப்பட்டது.
+The "World Social Justice Day" is being held on February 20 every year, and has been adopted since 2009.. The protest was held in front of the Nuwara Eliya main post office on Tuesday (20), on Tuesday (20), with some important demands of Tamils.
 
-நுவரெலியா மாவட்ட அபிவிருத்தி மன்றங்களின் ஒன்றியம், சமூக அபிவிருத்தி மன்றங்களின் ஒன்றியம், கண்டி சமூக நிர்வாகத்தின் ஒன்றியங்கள் இணைந்து நுவரெலியா, பதுளை, கண்டி போன்ற பகுதிகளிலிருந்து வருகை தந்தவர்கள் மற்றும் இளைஞர்கள் யுவதிகள் என இன மத கட்சி பேதமின்றி நுவரெலியாவில் ஒன்றுகூடியவர்கள் சர்வதேச நீதி தினத்தில் தமது கோரிக்கை அடங்கிய வசனங்கள் பொறிக்கப்பட்ட பதாதைகளை ஏந்தியவாறும் கோசங்களை எழுப்பியும் குறித்த போராட்டத்தில் ஈடுபட்டனர்.
+The Union of Nuwara Eliya District Development forums, Social Development Forums, Kandy Social Administration Union Union, Nuwara Eliya, Badulla and Kandy, and the youth of Nuwara Eliya, Badulla, Kandy, and the youth of Nuwara Eliya were involved in the International Justice Day..
 
 ...
 
 [Data](articles/59b3910f.json)
 
+[Extended Data](ext_articles/59b3910f.ext.json)
+
 ---
 
-### இந்திய மீனவர்களின் அத்து மீறலைக் கண்டித்து யாழ் மாவட்ட கடற்தொழிலாளர்கள் ஆர்ப்பாட்டம் !
+### Jaffna District Fishermen protest against Indian fishermen
 
 *2024-02-20 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176851) · `ta`
 
-இந்திய மீனவர்களின் எல்லை தாண்டிய அத்துமீறிய மீன்பிடி தொடர்ச்சியாக அதிகரித்து வரும் நிலையில் தமக்கான தீர்வை பெற்றுத் தருமாறு கோரி யாழ்ப்பாண இந்திய துணை தூதரகத்திற்கு முன்னாள் உள்ள வீதியில் மீனவ அமைப்புகள் செவ்வாய்க்கிழமை (20) போராட்டத்தில் ஈடுபட்டுள்ளன.
+Fisheries organizations are engaged in a protest on Tuesday (20) on a former road to the Jaffna Indian Embassy, demanding a solution to the Indian fishermen's border.
 
-இதேவேளை, போராட்டத்தில் ஈடுபட்டவர்களில் சிலரை இந்தியத் தூதரகத்தின் அதிகாரிகள் அழைத்து பேச்சுவார்த்தையில் ஈடுபட்டுள்ளதாக எமது அலுவல செய்தியாளர் தெரிவித்தார்.
+Meanwhile, our official correspondent said that some of the protesters were summoned by the Indian embassy officials.
 
 ◼️
 
 [Data](articles/8da22a41.json)
+
+[Extended Data](ext_articles/8da22a41.ext.json)
 
 ---
 
@@ -174,6 +182,8 @@ The Police Children and Women's Bureau launched an investigation into the suspec
 
 [Data](articles/59ccd466.json)
 
+[Extended Data](ext_articles/59ccd466.ext.json)
+
 ---
 
 ### Struggle for the 3rd day in Tamil Nadu
@@ -198,25 +208,27 @@ Tamil Nadu Chief Minister MK Stalin has written to the central government to tak
 
 ---
 
-### අධ්‍යාපනය ඩිජිටල්කරණ නියමු ව්‍යාපෘතිය මාර්තු්තුවේ
+### Digitalization Pilot Project in Hambantota
 
 *2024-02-20 11:53:13* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපනය-ඩිජිටල්කරණ-නියමු-ව්‍යාපෘතිය-මාර්තු්තුවේ/11-408188) · `si`
 
-අධ්‍යාපනය ඩිජිටල්කරණය සඳහා වන නියමු ව්‍යාපෘතිය මාර්තු මාසයේ දී ආරම්භ කිරීමට කටයුතු යොදා තිබෙන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+Minister of Education Susil Premajayantha said that the pilot project for the digitalization of education has been launched in March.
 
-2024 වසරට අදාළ පාසල් පෙළ පොත් බෙදාහැරීම සඳහා යොමු කර අවසන් බව ද අමාත්‍යවරයා සඳහන් කළේය.
+The Minister said that the school text books were devoted to the year 2024, "he said.
 
-අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Minister of Education Susil Premajayantha made this statement participating at a press conference at the Presidential Media Center for a 'stable country.'
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා මෙසේ ද පැවසීය,
+Minister of Education Susil Premajayantha said:
 
-2024 වසරට අදාළ පාසල් පෙළ පොත් මේ වන විට 100%ක් පර්යන්ත වෙත යවා අවසන් කර තිබෙනවා. එය පාසල් මට්ටමින් බෙදාහැරීමේ කටයුතු මාර්තු මස පළමු වනදා වන විට අවසන් කිරීමට කටයුතු යොදා තිබෙනවා. ඒ සඳහා වැය කර ඇති මුදල රුපියල් මිලියන 12,000ක් වනවා.
+The school text books for the year 2024 has been sent to terminals. The distribution work of school level has been made to end the first day of March. 12,000 million rupees.
 
-ඒ වගේම පාසල් ළමුන්ගේ නිල ඇඳුම් සඳහා අවශ්‍ය රෙදි ප්‍රමාණයෙන් 80%ක ප්‍රමාණයක් එනම් රුපියල් බිලියන 05ක් වටිනා රෙදි තොගයක් චීන ආණ්ඩුවේ අනුග්‍රහය යටතේ අපට ලැබී තිබෙනවා. එහි බෙදා හැරීමේ කටයුතු මේ දිනවල සිදුවෙමින් පවතිනවා. ඒ වගේම ඉතිරි 20% හෙට දිනයේ ලැබීමට නියමිතයි.
+Also, we have received 80% of the quantity of fabrics required for the uniforms of school children, with a stock of cloth worth Rs 5 billion in the Chinese government. Delivery work is happening these days. And the remaining 20% will be received tomorrow.
 
 ...
 
 [Data](articles/77218ab9.json)
+
+[Extended Data](ext_articles/77218ab9.ext.json)
 
 ---
 
@@ -1230,21 +1242,23 @@ The Borella police have launched further investigations as the suspects have not
 
 ---
 
-### பொரளையில்  துப்பாக்கிச்சூடு
+### Firing
 
 *2024-02-20 07:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளையில்-துப்பாக்கிச்சூடு/175-333491) · `ta`
 
-பொரளை மகசின் சிறைச்சாலைக்கு முன்பாக உள்ள அடுக்குமாடி குடியிருப்புக்கு அருகில் நேற்று இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+One person was injured in a shooting last night near the apartment in front of the Borella Makasin Prison and was admitted to the Colombo National Hospital for treatment.
 
-பொரளை ஆனந்த ராஜகருணா மாவத்தையில் அமைந்துள்ள சொகுசு அடுக்குமாடி குடியிருப்புக்கு முன்பாக மோட்டார் சைக்கிளில் வந்த துப்பாக்கிதாரி ஒருவரே துப்பாக்கிச் சூடு நடத்தியதாக அவர்கள் தெரிவித்தனர்.
+They said that a motorbike gunman fired a motorcycle in front of the luxury apartment located in Ananda Rajakaruna Mawatha in Borella.
 
-இவர் கடந்த சில நாட்களுக்கு முன்னர் விளக்கமறியலில் இருந்து பிணையில் விடுவிக்கப்பட்டவர் என தெரிவிக்கப்படுகிறது.
+He is reported to have been released on bail a few days ago.
 
-சந்தேகநபர்கள் இதுவரை அடையாளம் காணப்படாத நிலையில் பொரளை பொலிஸார் மேலதிக விசாரணைகளை ஆரம்பித்துள்ளனர்.
+Borella police have launched further investigations as the suspects have not yet been identified.
 
 ◼️
 
 [Data](articles/cb3b5711.json)
+
+[Extended Data](ext_articles/cb3b5711.ext.json)
 
 ---
 
@@ -1988,6 +2002,8 @@ Hulugalle has written this story at a time when Sri Lanka’s Sinhala romantic n
 
 [Data](articles/a991c876.json)
 
+[Extended Data](ext_articles/a991c876.ext.json)
+
 ---
 
 ### The UPI revolution: Cashless digitised economy activated
@@ -2025,6 +2041,8 @@ Jayaweera, a distinguished businessman from Colombo with aspirations of running 
 ...
 
 [Data](articles/eb4ddc91.json)
+
+[Extended Data](ext_articles/eb4ddc91.ext.json)
 
 ---
 

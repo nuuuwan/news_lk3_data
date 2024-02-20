@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 11:17:25**
+As of **2024-02-20 11:33:06**
 
 ## Newspaper Stats
 
-*Scraped **8,188** Articles*
+*Scraped **8,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ islandlk | 434
 dailyftlk | 444
 adalk | 697
 adaderanalk | 993
-tamilmirrorlk | 999
+tamilmirrorlk | 1,000
 virakesarilk | 1,094
-adaderanasinhalalk | 1,193
+adaderanasinhalalk | 1,194
 dailymirrorlk | 1,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,188 (100.0%) of 8,188 articles have been extended.
+8,188 (100.0%) of 8,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### UN FAO ආසියා - පැසිෆික් කලාපීය සමුළුව ඇරඹේ
+
+*2024-02-20 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193608) · `si`
+
+මීට සුළු වේලාවකට පෙර එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ (UN FAO) ආසියා - පැසිෆික් කලාපීය සමුළුවේ 37 වැනි සැසි වාරය ආරම්භ වී තිබේ.
+
+ඒ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ අධ්‍යක්ෂ ජනරාල් ආචාර්ය කූ දොන්ග්‍යු මහතාගේ ප්‍රධාන්තවයෙනි.
+
+◼️
+
+[Data](articles/c24711e0.json)
+
+---
+
+### வெளிநாடு செல்ல முயன்ற  இளைஞன் உயிர் மாய்ப்பு
+
+*2024-02-20 10:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடு-செல்ல-முயன்ற-இளைஞன்-உயிர்-மாய்ப்பு/175-333501) · `ta`
+
+முந்தல் - மங்கள எளிய பகுதியில் இளைஞன் ஒருவன் தனது  வீட்டில் வைத்து   உயிரை  மாய்த்துக்கொண்ட  நிலையில்  திங்கட்கிழமை  (19)  மீட்கப்பட்டுள்ளார்.
+
+மங்கள எளிய பகுதியைச் சேர்ந்த காவிந்த மதுசங்க என்ற  24 வயதுடைய  இளைஞனே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார் .
+
+உயிரிழந்த இளைஞனின் தாயும், சகோதரியும் சந்தைக்கு சென்ற நிலையில், வீட்டில்  இளைஞனும், தந்தையுமே இருந்துள்ளனர். இதன்போது,  தந்தை தொலைக்காட்சியில் நிகழ்ச்சிகளை பார்த்துக்கொண்டிருந்த போது குறித்த இளைஞன் வீட்டின் அறையொன்றுக்குள் சென்று கதவைப் பூட்டிக்கொண்டுள்ளார் .
+
+இந் நிலையில், சந்தைக்கு சென்ற தாயும், சகோதரியும் வீட்டுக்கு வந்து , மகனை தேடி அறையின் கதவை தட்டி அழைத்த போதும் இளைஞனிடமிருந்து  எவ்வித பதிலும் கிடைக்காதமையால் கதவை உடைத்து உள்ளே சென்று பார்த்த போது இளைஞன்  உயிரை மாய்த்துக்கொண்ட நிலையில் சடலமாக காணப்பட்டுள்ளார்.
+
+உடனடியாக அவரை முந்தல் வைத்தியசாலைக்கு கொண்டு சென்றுள்ள  போதிலும், இளைஞன் ஏற்கனவே உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/8e05aa4d.json)
+
+---
 
 ### A murder of Grandpass
 
@@ -2013,51 +2047,5 @@ The body will be taken to the Nuwara Eliya District Hospital for autopsy followi
 [Data](articles/15452807.json)
 
 [Extended Data](ext_articles/15452807.ext.json)
-
----
-
-### The person who suffered from abdominal pain hung in sleep
-
-*2024-02-19 20:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயிற்று-வலியால்-அவதிப்பட்டவர்-தூங்கில்-தொங்கினார்/175-333471) · `ta`
-
-Irakalai police have recovered a body of a man today (19) after being hanged in the house of the Irakalai police division.
-
-The body of the body has been identified as the father of three children (61), Ponnaiah Nageswaran.
-
-He had been suffering from abdominal pain for a long time and returned home with his eldest son this morning (19) and returned home and died in a separate room.
-
-At the same time, the death of his younger son is engaged next month.
-
-The police are conducting investigations into whether the deceased was in the throes.
-
-The body will be taken to the Nuwara Eliya District Hospital for autopsy following the death of a court judge.. Remble
-
-◼️
-
-[Data](articles/782e59ec.json)
-
-[Extended Data](ext_articles/782e59ec.ext.json)
-
----
-
-### Fr. Cyril Gamini on anti-Cardinal protests in Colombo
-
-*2024-02-19 20:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fr-Cyril-Gamini-on-anti-Cardinal-protests-in-Colombo/108-277336) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - The Archdiocese of Colombo today assured that the fisheries harbour in Pitipana, Negombo will be handed over to an authority.
-
-It ensures that the fisherfolk in the area get maximum benefit from it.
-
-“The Cardinal never had any intention of using the property for his personal purposes at any point,” Cardinal’s spokesman Fr. Cyril Gamini Fernando said in a statement.
-
-Fr. Fernando made this remark in relation to a protest held by a group claiming to be fishermen, in front of Archbishop's House today. The protestors claimed that Cardinal Ranjith had taken over the fisheries harbour by force.
-
-“The objective behind the Archbishop's decision to take legal action was to ensure transparency when it comes to the administration of the fisheries harbour. We do not want to see a handful of people benefiting from it,” Fr. Fernando added.
-
-...
-
-[Data](articles/dbfc0942.json)
-
-[Extended Data](ext_articles/dbfc0942.ext.json)
 
 ---

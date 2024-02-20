@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 15:33:07**
+As of **2024-02-20 15:50:56**
 
 ## Newspaper Stats
 
-*Scraped **8,250** Articles*
+*Scraped **8,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,108 +15,154 @@ newsfirstlk | 363
 economynextcom | 421
 islandlk | 434
 dailyftlk | 444
-adalk | 701
+adalk | 703
 adaderanalk | 999
 tamilmirrorlk | 1,013
 virakesarilk | 1,113
 adaderanasinhalalk | 1,204
-dailymirrorlk | 1,210
+dailymirrorlk | 1,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,244 (99.9%) of 8,250 articles have been extended.
+8,257 (100.0%) of 8,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### ශ්‍රී ලංකා - ඉන්දියා ගිවිසුමක් ගැන ජනපතිගෙන් දැනුම්දීමක්
+### President's notice of a Sri Lanka - India agreement
 
 *2024-02-20 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193618) · `si`
 
-යෝජිත ඉන්දීය - ශ්‍රී ලංකා ආර්ථික හා තාක්ෂණ සහයෝගිතා ගිවිසුමෙහි 13 වන වටයේ සාකච්ඡා 2024-01-08 දින සිට 10 දින දක්වා නවදිල්ලියේදී පවත්වනු ලැබීය.
+The 13th round of the proposed Indian-Sri Lanka Economic and Technology Cooperation Agreement was held in New Delhi from 2024-01-08 to 10 days.
 
-එහිදී, "භාණ්ඩ වෙළෙඳාම", "පූර්විකාව, සාමාන්‍ය විධිවිධාන හා සාමාන්‍ය ව්‍යතිරේක", "සේවා වෙළෙඳාම", "ප්‍රභවස්ථාන රීති", "රේගු පටිපාටිය හා වෙළෙඳාම පහසුකරණය", "සනීපාරක්ෂාව හා ශාක සනීපාරක්ෂාව පිළිබඳ මිනුම්", "වෙළෙඳාම සඳහා වන තාක්ෂණික බාධක", "වෙළෙඳ විමසුම්" සහ "ආර්ථික හා තාක්ෂණික සහයෝගිතාව" යන අනුකමිටු නවය විසින් සාකච්ඡා පවත්වා තිබුණි.
+There, "Carrier, General Provisions", "Service Trade", "Service Trade", "Service Trade", "Service Trade and Trade" Sanitation and Trade Sanitation and Trade Sanitation and Trade"The nine subcommitse have been held by" Trade Inquiry "and" Economic and Technology Cooperation ".
 
-2024 පෙබරවාරි මස අග භාගයේදී ගැටුම් නිරාකරණය හා අවසන් විධිවිධාන පිළිබඳ අනුකමිටුව නවදිල්ලියේදී අදාළ පරිච්ඡේදය පිළිබඳ සාකච්ඡා පැවැත්වීමට නියමිත බව වාර්තා වෙයි.
+It is reported that discussions on the matters on the conflict resolution and final arrangements will be held in the late February 2024.
 
-එසේම, යෝජිත සහයෝගිතා ගිවිසුමේ 14 වන වටයේ සාකච්ඡා 2024 මාර්තු පළමුවන සතියේ පැවැත්වීමට සැලසුම් කර ඇත.
+The 14th round of the proposed Cooperation Agreement is scheduled to be held first week of March 1, 2024.
 
-යෝජිත ඉන්දීය - ශ්‍රී ලංකා ආර්ථික හා තාක්ෂණ සහයෝගිතා ගිවිසුමෙහි වර්තමාන තත්ත්වය සම්බන්ධයෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කැබිනට් මණ්ඩලයට මෙම තොරතුරු ඉදිරිපත් කර තිබුණි.
+President Ranil Wickremesinghe had presented this information to the Cabinet regarding the current status of the proposed Indian-Sri Lanka Economic and Technology Cooperation Agreement.
 
 ◼️
 
 [Data](articles/d3931f49.json)
 
+[Extended Data](ext_articles/d3931f49.ext.json)
+
 ---
 
-### එංගලන්ත වීසා ලැබෙන අලුත්ම පිරිස
+### The latest group of England visas
 
 *2024-02-20 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193617) · `si`
 
-එංගලන්තය විසින් ඉන්දියානු වෘත්තිකයින් 3,000ක් සඳහා වීසා ලබාදීමට තීරණය කර තිබේ.
+It has been decided to submit visa for 3,000 Indian professionals by England.
 
-ඒ අනුව ඔවුන්ට වසර දෙකක කාලයක් සඳහා එංගලන්තය තුළ පදිංචි වීමට, අධ්‍යාපනය ලැබීමට සහ වෘත්තීය කටයුතුවල නිරතවීමට අවස්ථාව ලැබෙනු ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+According to foreign media reports, they will have the opportunity to settle in England for two years, education and professional activities.
 
-වයස අවුරුදු 18ත් 30ත් අතර ඉන්දියානුවන් හට ඒ සඳහා අයදුම් කළ හැකි වේ.
+Indians between the ages of 18 and 30 can apply for it.
 
 ◼️
 
 [Data](articles/815f4e76.json)
 
+[Extended Data](ext_articles/815f4e76.ext.json)
+
 ---
 
-### බන්ධනාගාර තුළට මත්ද්‍රව්‍ය එවන අලුත්ම විදිය
+### The latest way to send drugs into the prisons
 
 *2024-02-20 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193616) · `si`
 
-මැගසින් හා කොළඹ රිමාන්ඩ් බන්ධනාගාරය තුළ රඳවා සිටි සැකකරුවන් ‍සඳහා මත්ද්‍රව්‍ය ලබාදීමට උත්සාහ කළ කාන්තාවක් ඇතුළු පුද්ගලයින් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Three persons including a woman who was trying to provide drugs have been arrested for the suspects in Magazine and the Colombo Remand Prison.
 
-බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බළකායේ නිලධාරීන් විසින් සිදුකළ සෝදිසියකදී සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා පැවසුවේය.
+Prisons Emergency Response Tricic Trick Person Officers have arrested the suspects at a search operation conducted by the suspects at a search operation.. Dissanayake said.
 
-මැගසින් බන්ධනාගාරයේ රඳවා සිටින සැකකරුවෙකු බැලීමට පැමිණි පුද්ගලයෙකු දන්තාලේපයක් තුළ සූක්ෂම ලෙස සඟවා රැගෙන ආ හෙරොයින් මිලිග්‍රෑම් 3,410ක ප්‍රමාණයක් එහිදි සොයාගෙන තිබේ.
+A person visiting a suspect in the Magazine Prison has been discovered in a dent-winning heroin.
 
-ඊට අමතරව කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ රඳවා සිටි සැකකරුවෙකු බැලීමට පැමිණි කාන්තාවක් හා පිරිමි පුද්ගලයෙකු ද දන්තාලේපයක් තුළ සඟවා අයිස් මිලිග්‍රෑම් 3,140ක ප්‍රමාණයක් රැගෙන ඒමේ දී අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
+A woman and a man who had come to see a suspect who was detained at the Colombo Remand Prison and was arrested in a dental location and took 3,140 milligrams of ice.
 
-අත්අඩංගුවටගත් සැකකරුවන් සම්බන්ධයෙන් මැගසින් හා කොළඹ රිමාන්ඩ් බන්ධනාගාරය මඟින් විමර්ශනයක් ආරම්භ කර ඇති බව බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා පැවසුවේය.
+Magazine Commissioner Gaminne B. Gaminne B.. Dissanayake said.
 
-...
+Suspect-in-Chief of a Chocolate biscuit priced to visit the visitors to visitors.
+
+◼️
 
 [Data](articles/2671c6c4.json)
 
+[Extended Data](ext_articles/2671c6c4.ext.json)
+
 ---
 
-### පාසල් නිවාසාන්තර ක්‍රීඩා උළෙලට බඹර ප්‍රහාරයක්
+### Wasp attack on school intermediate sports festival
 
 *2024-02-20 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193615) · `si`
 
-අද (20) පැවති පාසල් නිවාසාන්තර මලල ක්‍රීඩා උත්සවයක් අතරතුර බඹර ප්‍රහාරයක් එල්ලවී තිබේ.
+A school-educated athletic ceremony has been attacked during a school intermediate athlette today.
 
-බඹර ප්‍රහාරයට ලක්වූ සිසු සිසුවියන් 76 දෙනෙක් පස්සර මූලික රෝහලට ඇතුළත් කළ බව දිස්ත්‍රික් වෛද්‍ය නිලධාරි චානක ගන්කන්ද මහතා පැවසීය.
+76 students have been admitted to the Passara Base Hospital, said the District Medical Officer Chana Garnkanda said.
 
-අප වාර්තාකරු සඳහන් කළේ, රෝහලට ඇතුළත් කළ සිසු සිසුවියන් 50 දෙනෙකු ප්‍රතිකාර ලබා රෝහලෙන් පිටව ගොස් ඇති අතර තවත් 26 දෙනෙක් තවදුරටත් ප්‍රතිකාර ලබමින් පසුවෙන බවය.
+Our correspondent stated that 50 students who were admitted to the hospital have been traced away from the hospital and 26 others were receiving treatment.
 
-නිවාසාන්තර ක්‍රීඩා උළෙල පැවැති ක්‍රීඩාංගණයට නුදුරින් පිහිටි කැළෑ ප්‍රදේශයක තිබූ බඹර කූඩුවකට සිසුන් පිරිසක් විසින් එල්ල කරන ලද ගල් ප්‍රහාරයක් නිසා එම බඹරුන් ඇවිස්සී ඇති බව වාර්තා වෙයි.
+It is reported that the wasps were attacked by a group of students from a wasps in a wasp cage in a waste area near the interlogation of the Inter-Extended Festival.
 
 ◼️
 
 [Data](articles/5128387f.json)
 
+[Extended Data](ext_articles/5128387f.ext.json)
+
 ---
 
-### ஜனாதிபதி வேட்பாளர்: சவாலை ஏற்க தயார்
+### Plans to provide Galle Face ’Aragalaya site’ for casino centre: Vijitha
+
+*2024-02-20 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-to-provide-Galle-Face-Aragalaya-site-for-casino-centre-Vijitha/108-277403) · `en`
+
+Parliament, Feb. 20 (Daily Mirror)- The government is planning to provide the Galle Face agitation site where the 'GotaGoGama' Aragalaya was conducted, to establish a casino centre, NPP MP Vijith Herath alleged today.
+
+He told Parliament that the government is planning to provide a license through the Urban Development Authority (UDA) to an institution bearing a Chinese name to open a casino centre on the Aragalaya site and that a famous gambler in Negombo was behind this particular institution.
+
+The MP said the 'Aragalaya site', which was a turning point in Sri Lanka's political history, is provided for a casino centre to take revenge from the Aragalaya people and that it was a serious mistake.
+
+State Minister of Finance Ranjith Siyambalapitiya said no casino centre will be opened targeting locals and that Rs. 10 billion needs to be paid when opening a casino.
+
+...
+
+[Data](articles/974ebb1d.json)
+
+[Extended Data](ext_articles/974ebb1d.ext.json)
+
+---
+
+### Expel Harin...
+
+*2024-02-20 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Expel-Harin/110-277402) · `en`
+
+A public protest was held in Colombo, demanding the government expel Minister Harin Fernando from his post and stop selling the country to India. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/84377ad0.json)
+
+[Extended Data](ext_articles/84377ad0.ext.json)
+
+---
+
+### Presidential candidate: Ready to accept the challenge
 
 *2024-02-20 14:29:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-சவாலை-ஏற்க-தயார்/175-333520) · `ta`
 
-ஜனாதிபதி வேட்பாளராக போட்டியிடுமாறு அழைப்பு விடுக்கப்பட்டால், அந்த சவாலை ஏற்றுக் கொள்வதாக  பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்துள்ளார்.
+Parliamentarian Patali Champika Ranawaka said he would accept the challenge if he was invited to contest as the presidential candidate.
 
-நாட்டின் நெருக்கடிகளைத் தீர்ப்பதற்காக ஜனாதிபதி வேட்பாளராக வேண்டும் என்று கூட்டணி கட்சிகள் கோரிக்கை விடுத்தால் அந்த சவாலை ஏற்க தான் தயார் எனவும் அவர் கூறியுள்ளார்.
+He said he was ready to accept the challenge if the coalition parties demanded that they be the presidential candidate to resolve the country's crises.
 
 ◼️
 
 [Data](articles/7e1da304.json)
+
+[Extended Data](ext_articles/7e1da304.ext.json)
 
 ---
 
@@ -326,6 +372,28 @@ Minister Manusha Nanayakkara said social media had twisted the Minister's statem
 
 ---
 
+### Wimal questions Harin’s statement in India
+
+*2024-02-20 13:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Wimal-questions-Harins-statement-in-India/155-277401) · `en`
+
+Parliament, Feb. 20 (Daily Mirror)- The government must inform Parliament wether the statement made by Tourism Minister Harin Fernando in India that Sri Lanka was part of India was the government's official stance or his personal opinion, Parliamentarian Wimal Weerawansa said.
+
+He told Parliament that the Minister had stated in India that Sri Lanka was a part of India and the three airports will be given to India.
+
+"The govenment must reveal if the Minister's statement is the official stance of the government or the collective stance of the Cabinet or the Minister's personal opinion. "Can a Minister make such a statement while represnting a country?" he asked.
+
+Chief Government Whip Prasanna Ranatunga said the Cabinet had not discussed any such matter and said the Minister concerned will make a statement in Parliament.
+
+Minister Manusha Nanayakkara said social media had twisted the Minister's statement and said if someone listens to his full statment, his idea would become clear.
+
+...
+
+[Data](articles/2018ecd8.json)
+
+[Extended Data](ext_articles/2018ecd8.ext.json)
+
+---
+
 ### Another shot
 
 *2024-02-20 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193614) · `si`
@@ -532,6 +600,26 @@ He said that it is essential to introduce a low-cost travel and transport fee sy
 
 ---
 
+### Short14, Kelaniwali Train is resurrected by my boundar pillars
+
+*2024-02-20 12:32:12* · [`adalk`](https://www.ada.lk/breaking_news/අඩසිය-වසරකට-පසු-කැළණිවැලි-දුම්රිය-මගේ-මායිම්-කණු-යළි-සිටුවයි/11-408191) · `si`
+
+The appointment of boundaries in the Kuruwita area are conducted in the Kuruwita area to extend the Kelani Railway Line after half a poisonous railway line.
+
+Kelani Railway Line, which was traveling to Opanayaka, was restricted to Avissawella in 1976 in 1976. The Mountyadhewyi railway line was proposed to develop the flight to the Aviation from Colombo to Kottawa on the loss of aid for the loss of the passenger congestion.
+
+This road is a wide railway line in six feet and six inches. The road from Avissawella has been developed as a widespread road in six feet and six inches. The government's physical planning department points out that the proposed barkway railway is a widespread road and six inches.
+
+Avissawella has clashed with Eheliyagoda, Parakaduwa, Kuruwita, Ratnapura, Watapotha, Ratnapura and Opanatha. In 1912, the train rail began in 1912. The road was extended to Opanayake in 1919.
+
+...
+
+[Data](articles/d6660874.json)
+
+[Extended Data](ext_articles/d6660874.ext.json)
+
+---
+
 ### Jaffna District Fishermen protest against Indian fishermen
 
 *2024-02-20 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176851) · `ta`
@@ -545,6 +633,24 @@ Meanwhile, our official correspondent said that some of the protesters were summ
 [Data](articles/8da22a41.json)
 
 [Extended Data](ext_articles/8da22a41.ext.json)
+
+---
+
+### Acre taxes up from 100 per cent
+
+*2024-02-20 12:22:53* · [`adalk`](https://www.ada.lk/breaking_news/අක්කර-බදු--සියයට-සියයකින්-ඉහළට/11-408190) · `si`
+
+The farmers say that the acres of acreage fees charged by the Department of Agrarian Services have increased by 100%.
+
+New acreage charged per acre is Rs.100. This is an increase of Rs.. The total tax of Rs. 15 was later increased by Rs.
+
+Meanwhile, agricultural products and research assistants who are attached to the farmers' services offices. They say that they are profuse the agitation on taxes.
+
+◼️
+
+[Data](articles/6ca89d2a.json)
+
+[Extended Data](ext_articles/6ca89d2a.ext.json)
 
 ---
 
@@ -860,17 +966,19 @@ The Supreme Court has informed Parliament that most of the provisions of the pro
 
 ---
 
-### எத்தனை பேர்ச் என்று‌ கேட்கிறார் மனோ
+### Mano asks how many perch
 
 *2024-02-20 11:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எத்தனை-பேர்ச்-என்று-கேட்கிறார்-மனோ/175-333507) · `ta`
 
-2017 ஆம் ஆண்டு, எமது ஆட்சியின் போது மலையகத்துக்கு எமது அரசாங்கத்தால் அழைத்து வரப்பட்ட இந்திய பிரதமர் நரேந்திர மோடி, பெருந்தோட்டங்களில் கட்டப்படும் இந்திய வீடமைப்பு திட்ட வீடுகளின் தொகையை மேலும் 10,000 த்தால் அதிகரிப்பதாக அறிவித்தார். எமது ஆட்சி 2019 இல் முடிவுக்கு வந்ததால், எம்மால் அதை தொடர முடியவில்லை. இன்று அந்த வீடமைப்பு திட்டம் மீண்டும் ஆரம்பிக்கப்படுவதை அறிந்து, அதை வாழ்த்தி வரவேற்கின்றோம் என தமிழ் முற்போக்கு கூட்டணி தலைவரும், கொழும்பு மாவட்ட நாடாளுமன்ற உறுப்பினருமான மனோ கணேசன் கூறியுள்ளார்.
+Indian Prime Minister Narendra Modi, who was brought to the hill country during our regime in 2017, announced that the amount of Indian housing projects built in plantations will be increased by a further 10,000.. Since our regime ended in 2019, we couldn't continue it. Tamil Progressive Alliance leader and Colombo district parliamentarian Mano Ganesan has said that we are welcomed and congratulating the housing project today.
 
-பெருந்தோட்டங்களில் கட்டப்படும் வீடமைப்பு திட்ட வீடுகளின் காணி விஸ்தீரணம், எமது ஆட்சியில் 7 பேர்ச் என அமைச்சரவை பத்திரம் மூலம் உறுதி செய்யப்பட்டது. 2019ம் ஆண்டு ஆட்சி பொறுப்பை ஏற்ற, இந்த அரசாங்கம் 20 பேர்ச்சில் பெருந்தோட்டங்களில் வீடு கட்டி தருவதாக கூறியது. பின்னர் கடந்த வரவு செலவு திட்டத்தின் போது 10 பேர்சில் பெருந்தோட்டங்களில் வீடமைப்பு என்று கூறியது.
+The land expansion of the housing projects built in plantations was confirmed by the Cabinet of Cabinet as 7 perch in our regime.. In 2019, this government said it would build a house in 20 parses of plantations.. Later, during the last budget, 10 parasites were said to be housing in plantations.
 
 ...
 
 [Data](articles/b591a17a.json)
+
+[Extended Data](ext_articles/b591a17a.ext.json)
 
 ---
 
@@ -1909,123 +2017,5 @@ The suspects have not been identified yet and the Borella Police have started fu
 [Data](articles/bcf58811.json)
 
 [Extended Data](ext_articles/bcf58811.ext.json)
-
----
-
-### Fulfilled Casual Fulfillment
-
-*2024-02-20 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193598) · `si`
-
-Two persons and two women were seriously injured when a heated argument caused by an illicit affair.
-
-The incident was reported from Renhandapapuram, Kalmadunar, yesterday.
-
-The injured have been admitted to the Kilinochchi hospital and two injured have been sent to Jaffna Hospital.
-
-The injured are three years old and two men and three ages of age and aged 28 and 50 years of age and are residents of the Vavuniya.
-
-Investigation into the incident, he was revealed that he was assaulted by sharp weapons from a heated arms caused by a casual affair.
-
-Three persons living in Kilinochchi and Vatabillakekachchi areas have been arrested in Kilinochchi and Vatachachi areas related to the incident.
-
-◼️
-
-[Data](articles/ca35e0a3.json)
-
-[Extended Data](ext_articles/ca35e0a3.ext.json)
-
----
-
-### Israel’s economy shrinks more than expected on Gaza war
-
-*2024-02-20 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97399/israels-economy-shrinks-more-than-expected-on-gaza-war) · `en`
-
-Israel’s economy shrank by far more than expected in the wake of conflict with Hamas in Gaza, according to official figures.
-
-Gross domestic product (GDP) - a key measure of a country’s economic health - fell by 19% on an annualised basis in the fourth quarter of 2023.
-
-That is the equivalent of a fall of 5% between October and December.
-
-GDP was “directly affected” by the outbreak of the conflict on 7 October, the Central Bureau of Statistics said.
-
-Israel and Hamas have been at war after gunmen from the Palestinian group launched an unprecedented attack on Israel from Gaza - the deadliest in Israel’s history.
-
-About 1,200 people were killed during the attack. Hamas, which is considered a terrorist group by Israel, the US, the European Union and the UK, also took more than 250 men, women and children hostage.
-
-An Israeli military campaign has followed, which has killed 29,000 people in the Palestinian territory, according to the Hamas-run health ministry there.
-
-...
-
-[Data](articles/b668e977.json)
-
-[Extended Data](ext_articles/b668e977.ext.json)
-
----
-
-### Iranian Foreign Minister arrives in Sri Lanka
-
-*2024-02-20 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193597) · `si`
-
-Minister of Iranian Foreign Minister Dr. Hogu AmirHeman has arrived in the island on a three-day official visit.
-
-The Derana Airport reporter said that the Iranian Foreign Minister and 20 people were returning to the island yesterday (19).
-
-The group was admitted to the island by a special plane from the Thaheran capital of Iran.
-
-The Iranian Foreign Minister who arrived in the island on the invitation of the External Affairs Minister Ali Sabri has been staying in Sri Lanka until the 21st.
-
-President Ranil Wickremesinghe is scheduled to hold bilateral discussions with Prime Minister Ali Sabri with Prime Minister Ali Sabri with Prime Minister Ali Sabri, with his visit.
-
-◼️
-
-[Data](articles/f3fada0f.json)
-
-[Extended Data](ext_articles/f3fada0f.ext.json)
-
----
-
-### Suspected drug trafficker injured in shooting at Borella
-
-*2024-02-20 06:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97398/suspected-drug-trafficker-injured-in-shooting-at-borella) · `en`
-
-A 38-year-old person, said to be involved in drug dealings and who was recently released from prison on bail, has been shot and injured near a housing complex at Ananda Rajakaruna Mawatha in Borella, police said.
-
-The gunshot victim is currently receiving treatment at the Colombo National Hospital, police reported.
-
-According to police, an unidentified individual had arrived on a motorcycle and opened fire at the victim last night. The exact motive behind the shooting is yet to be ascertained.
-
-Investigations have revealed, however, that the victim, identified as a member of an organized crime syndicate, is also a large-scale drug trafficker, and was granted bail on 05 February from a case related to drug-trafficking.
-
-Further investigations into the apprehension of the shooter are being carried out by the Borella Police.
-
-◼️
-
-[Data](articles/5bfa172b.json)
-
-[Extended Data](ext_articles/5bfa172b.ext.json)
-
----
-
-### Shooting in Borella
-
-*2024-02-20 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193596) · `si`
-
-Borella Magazine Prison has been shot near apartment complex.
-
-The shooting had been admitted to the Colombo National Hospital for treatment of the shooting yesterday (19).
-
-The shooting was carried out by a motorbike in front of the Luxury Apartment Complex at Borella, Borella.
-
-The 38-year-old apartment complex is a 38-year-old housing complex.
-
-Preliminary investigations have revealed that the injured person was associated with drug trafficking and he was remanded a few days ago.
-
-The suspects have not been identified yet and the Borella Police are conducting further investigations.
-
-◼️
-
-[Data](articles/a4052daf.json)
-
-[Extended Data](ext_articles/a4052daf.ext.json)
 
 ---

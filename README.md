@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 12:02:39**
+As of **2024-02-20 12:17:25**
 
 ## Newspaper Stats
 
-*Scraped **8,193** Articles*
+*Scraped **8,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,138 @@ newsfirstlk | 363
 economynextcom | 419
 islandlk | 434
 dailyftlk | 444
-adalk | 697
+adalk | 699
 adaderanalk | 995
 tamilmirrorlk | 1,000
-virakesarilk | 1,094
-adaderanasinhalalk | 1,195
+virakesarilk | 1,103
+adaderanasinhalalk | 1,196
 dailymirrorlk | 1,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,193 (100.0%) of 8,193 articles have been extended.
+8,193 (99.9%) of 8,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### குருணாகலையில் 4 மாணவர்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்டமைக்கான காரணம் வெளியானது!
+
+*2024-02-20 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176824) · `ta`
+
+குருணாகல் மதுரகொட பிரதேசத்தில் ஆரம்பப் பாடசாலையொன்றில் தரம் ஐந்தில் கல்வி கற்கும் நான்கு மாணவர்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்டமைக்கு  “ப்ரீகாபலின்” (Pregablin) என்ற மாத்திரையை பயன்படுத்தியதையே காரணம் மதுரகொட  பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த மாத்திரை  வலிப்பு , வலி நிவாரணி மற்றும்  மன உளைச்சலுக்கு பயன்படுத்தப்படுகிறது. இதனை போதைப் பொருளாக தவறாக பயன்படுத்துக்கின்றார்கள்.
+
+சம்பவம் தொடர்பில் நேற்று (19)  ஆங்கில ஊடக மொன்றுக்கு  மதுரகொட பொலிஸ் நிலைய பொறுப்பதிகாரி ஜானக வீரரத்ன தெரிவித்துள்ளதாவது,
+
+வைத்தியசாலையில் அனுமதிக்கப்பட்ட நான்கு மாணவர்களில் ஒரு மாணவன் பாடசாலைக்கு சில மாத்திரைகளை கொண்டு சென்று தனது நண்பர்களுடன் சாப்பிட்டுள்ளார்.
+
+“ப்ரீகாபலின்” (Pregablin) என்ற இந்த மாத்திரை மாணவனின் தந்தை பயன்படுத்துவது விசாரணையில் தெரியவந்தது.
+
+இந்த மாத்திரையை சிலர் மாற்று மருந்தாகப் பயன்படுத்துகின்றனர். இது ஒரு மருந்து என்பதால் அனைவருக்கும் மருந்தகத்தில் வாங்க முடியும் என தெரிவித்துள்ளார்.
+
+இது தொடர்பில் கொழும்பு லேடி ரிட்ஜ்வே சிறுவர் வைத்தியசாலையின் ஆலோசகர் வைத்தியர் தீபால் பெரேரா,
+
+...
+
+[Data](articles/ed2add8e.json)
+
+---
+
+### மலையக மக்களும் அஸ்வெசும திட்டமும்
+
+*2024-02-20 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176845) · `ta`
+
+உலக வங்கியின் நிதி பங்களிப்புடன் நலன்புரி நன்மைகள் சபையினால் கடந்த வருடம் அறிமுகப்படுத்தப்பட்டு தற்போது நடைமுறைப்படுத்தப்பட்டுவரும் ‘அஸ்வெசும’ நலன்புரி நிவாரணத்திட்டம் தொடர்பில் நாட்டு மக்கள் மத்தியில் இன்னமும் தெளிவின்மை காணப்படுகின்ற நிலையில் இரண்டாம் கட்ட நிவாரணத்துக்கான விண்ணப்பங்கள் எதிர்வரும் 15ஆம் திகதிக்கு பின்னர் நாடளாவிய ரீதியில் கோரப்படவுள்ளன.
+
+◼️
+
+[Data](articles/1809610c.json)
+
+---
+
+### ரஸ்யாவிலிருந்து உக்ரைனிற்கு தப்பிச்சென்ற  விமானி ஸ்பெயினில் சடலமாக மீட்பு - உக்ரைன் புலனாய்வு பிரிவினர் தகவல்
+
+*2024-02-20 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176844) · `ta`
+
+கடந்தவருடம் இடம்பெற்ற இரகசிய நடவடிக்கையின் போது உக்ரைனிற்கு தப்பிவந்த ரஸ்ய விமானி ஸ்பெயினில் உயிரிழந்த நிலையில் மீட்கப்பட்டுள்ளார்.
+
+தொடர்மாடியொன்றின் வாகனத்தரிப்பிடத்தில் இவரது உடல் மீட்கப்பட்டுள்ளதாக  உக்ரைனின் புலனாய்வு பிரிவினர் தெரிவித்துள்ளனர்.அலிகண்டோவில் உள்ள வில்லாஜோயோசா நகரில் இவரது உடல் மீட்கப்பட்டுள்ளதாகவும் அருகில் உள்ள பகுதியில்கார் ஒன்று எரியுண்ட நிலையில்மீட்கப்பட்டதாகவும் தகவல்கள் வெளியாகியுள்ளன.
+
+முதலில் இது குற்றவாளிகும்பலின் நடவடிக்கை என ஸ்பெய்ன் பொலிஸார் கருதியுள்ளனர் எனினும் பின்னரே இது ரஸ்ய உக்ரைன் மோதல் தொடர்பான விவகாரம் என்பது தெரியவந்துள்ளது.
+
+கடந்த வருடம் ஆகஸ்ட்மாதம் குஸ்மினோவ் இரண்டு தளங்களிற்கு இடையிலான விமானபறத்தலின் போது ரஸ்ய தரப்பிலிருந்து உக்ரைனிற்கு தப்பிவந்தார்.
+
+ஹெலிக்கொப்டரில் எஸ்யு 27- எஸ்யு 30 போர்விமானங்களி;ற்கான உதிரிப்பாகங்களை கொண்டு செல்லும் நடவடிக்கைகளில் ஈடுபட்டிருந்த இவர் தனது ஹெலிக்கொப்டர் மூலம் உக்ரைனின் கட்டுப்பாட்டு பகுதியில் தரையிறங்கினார்.
+
+...
+
+[Data](articles/8466bce3.json)
+
+---
+
+### වෛද්‍ය බෙල්ලනගෙන් ආන්දෝලනාත්මක ප්‍රකාශයක්
+
+*2024-02-20 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193610) · `si`
+
+ඕනෑම අවස්ථාවක තමන් විශ්‍රාම යෑමට සුදානමින් පසුවන බව කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පවසයි.
+
+අද (20) පෙරවරුවේ මාධ්‍ය හමුවක් කැඳවමින් වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා ඒ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දක්වමින් වෛද්‍යවරයා පවසා සිටියේ, "අද සෞඛ්‍ය අමාත්‍යාංශයත් සෞඛ්‍ය ඉන්නේ උසස් නිලධාරීනුත් කටහඩේ බලයට පරිපාලනය කරනවා. දෙතුන් සීයක් එකතුවෙලා කිව්වොත් මෙයාව එළවන්න කියලා එළවනවා. ඉතින් ඒ තත්ත්වයෙන් තමයි තීන්දු තීරණ ගන්නේ. හැබැයි මම නම් විශ්‍රාම යන්නත් ලෑස්ති. මේ රාජ්‍ය සේවයේ සිටීමේ හරයක් නැහැ." යනුවෙනි.
+
+◼️
+
+[Data](articles/8dd82b64.json)
+
+---
+
+### இலங்கை கடன்களில் மாத்திரம் தங்கியிருக்கும் நிலை மாற வேண்டும்
+
+*2024-02-20 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176841) · `ta`
+
+வங்குரோத்து நிலையிலிருந்த இலங்கை தற்போது அதிலிருந்து விடுபட்டு மெதுமதுவாக முன்னேறி 2048இல் அபிவிருத்தி அடைந்த நாடாக மாறுவதற்குரிய காய்நகர்த்தல்களை மேற்கொண்டு வருகின்றது.
+
+◼️
+
+[Data](articles/9a564719.json)
+
+---
+
+### කිසිම පාසලකට හිමි නොවූ අවස්ථාවක් කඩවත මහාමායා බාළිකාවන්ට හිමිවෙයි
+
+*2024-02-20 11:24:45* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-පාසලකට-හිමි-නොවූ-අවස්ථාවක්-කඩවත-මහාමායා-බාළිකාවන්ට-හිමිවෙයි/11-408187) · `si`
+
+කඩවත මහාමායා බාලිකා විද්‍යාලයේ ශිෂ්‍ය පාර්ලිමේන්තුවේ මංගල සැසිවාරය ඊයේ (19) ජනාධිපති කාර්යාලයේ දී පැවැත්වුණු අතර, ඉන් අනතුරුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමඟ සුහද හමුවකට එක්වීමට ද එම දරුවන්ට අවස්ථාව උදා විය.
+
+ජනාධිපති කාර්යාලයේ කැබිනට් මණ්ඩලය පැවැත්වෙන ස්ථානයට එම දරුවන් කැඳවු ජනාධිපතිවරයා කැබිනට් මණ්ඩලය යනු කුමක්ද, එහි ව්‍යුහය සහ ක්‍රියාකාරිත්වය පිළිබඳව ඔවුන් දැනුවත් කළේය.
+
+රටේ ප්‍රධාන තීන්දු තීරණ ගනු ලබන කැබිනට් මණ්ඩලය පැවැත්වෙන ස්ථානයේදීම, එය මෙහෙයවනු ලබන ජනාධිපතිවරයා සමඟ කතාබහකට එක්වීමට පාසල් දරුවන්ට අවස්ථාව හිමි වූයේ පළමු වරට වීම ද විශේෂත්වයකි.
+
+ශිෂ්‍ය පාර්ලිමේන්තුවේ අමාත්‍ය ධුර දරන සිසුවියන් වෙත එම අමාත්‍ය ධුරයන්හි වගකීම,කාර්යභාරය සහ කැබිනට් මණ්ඩලයේ වගකීම් පිළිබඳව ද මෙහිදී ජනාධිපතිවරයා කරුණු පහදා දුන්නේය.
+
+රටේ අනාගත නායකත්වයට පත්වන දරු පරපුර රාජ්‍ය පාලන ව්‍යුහය පිළිබඳ මනා දැනුමක් ලබා තිබීමේ අවශ්‍යතාව ද ජනාධිපතිවරයා පැහැදිලි කළේය.
+
+...
+
+[Data](articles/3e40b261.json)
+
+---
+
+### உத்தேச நுண்கடன் மற்றும் கடன் ஒழுங்குப்படுத்தல் அதிகார சபை சட்டமூலம் குறித்து உயர் நீதிமன்றின் வியாக்கியானம் !
+
+*2024-02-20 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176842) · `ta`
+
+உத்தேச நுண்கடன் மற்றும் கடன் ஒழுங்குப்படுத்தல் அதிகார சபை சட்டமூலத்தின் பெரும்பாலான ஏற்பாடுகள் அரசியலமைப்புக்கு முரணானதாக உயர்நீதிமன்றம் பாராளுமன்றத்துக்கு அறிவித்து.
+
+◼️
+
+[Data](articles/ce9ab5dc.json)
+
+---
 
 ### Proposal to reduce electricity tariffs to be submitted to PUCSL within two days - Minister
 
@@ -68,6 +184,22 @@ The Minister said that the proposal is due to be produced before the Public Util
 
 ---
 
+### யாழில் விடுவிக்கப்படவுள்ள காணிகள் தொடர்பில் கலந்துரையாடல்
+
+*2024-02-20 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176838) · `ta`
+
+யாழ்ப்பாணம் வலிகாமம் வடக்கில் காணி விடுவிப்பு தொடர்பில் யாழ்ப்பாண இராணுவ கட்டளைத் தளபதியுடன் யாழ்ப்பாண மாவட்ட செயலாளர் உள்ளிட்ட உயரதிகாரிகள் சந்தித்து கலந்துரையாடினர்.
+
+பலாலி இராணுவ தலைமையலுவலகத்தில் நடைபெற்ற சந்திப்பில் யாழ்ப்பாண இராணுவ கட்டளைத் தளபதி எம்சிபி விக்ரமசிங்கவை யாழ்ப்பாண மாவட்ட செயலாளர் அம்பலவாணர் சிவபாலசுந்தரன் உள்ளிட்ட குழுவினர் சந்தித்து பேசினர்.
+
+குறித்த சந்திப்பில் ஜனாதிபதியின் வடமாகாண மேலதிக செயலாளர் இளங்கோவன் யாழ் மாவட்ட மேலதிக அரசாங்க அதிபர் ம.பிரதீபன், மேலதிக அரசாங்க அதிபர் (காணி) கே.ஸ்ரீமோகனன், தெல்லிப்பழை பிரதேச செயலாளர் சிவகங்கா சுதீஸ்னர் ஆகியோரும் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/9ea3d73d.json)
+
+---
+
 ### 37th session of FAO Regional Conference for Asia and the Pacific inaugurated in Colombo
 
 *2024-02-20 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97404/37th-session-of-fao-regional-conference-for-asia-and-the-pacific-inaugurated-in-colombo-) · `en`
@@ -86,6 +218,26 @@ UN FAO Director Genera Qu Dongyu arrived in Sri Lanka on 18 February for a three
 
 ---
 
+### கற்பிட்டியில் சுற்றுலாப் பயணிகளை கவர்ந்த நீர்ச் சறுக்கல் விளையாட்டு
+
+*2024-02-20 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176830) · `ta`
+
+கற்பிட்டி கண்டகுழி கலப்பில் தற்பொழுது வெளிநாட்டு சுற்றுலாப் பயணிகள் நீர்ச் சறுக்கல் விளையாட்டில் ஈடுபட்டு வருகின்றனர்.
+
+தற்பொழுது கற்பிட்டிக்கு வருகைத் தந்துள்ள அதிகளவிலான சுற்றுலா பயணிகள் கண்டக்குழி பகுதியில் “kite Surfing” எனப்படும் நீர்ச்சருக்கள் விளைட்டில் ஈடுபட்டு வருகின்றனர்.
+
+இலங்கையில் கற்பிட்டியில் மாத்திரமே நீர்ச்சருக்கள் மேற்கொள்கின்றமை குறிப்பிடத்தக்கது. இந்த நீர்ச்சருக்கள் விளையாட்டு சுமார் 15 வருடங்களுக்கு முன்பே ஆரம்பிக்கப்பட்டுள்ளது.
+
+நீர்ச்சருக்கல் விளையாட்டில் ஈடுபடுவதற்கு கற்பிட்டி கண்டகுழி கலப்பு ஆழமற்று காணப்படுவதினால் விளையாற்றில் ஈடுபடுபவர்களுக்கு மிக இலகுவாக காணப்படுவதாகவும், எந்த ஒரு பாதிப்பும் ஏற்படாத வகையில் இந்த நீர்ச்சருக்கள் விளையாட்டில் ஈடுபடுவதற்கு மிகவும் சிறந்த இடமாக காணப்படுவதாக தெரிவிக்கப்படுகின்றது.
+
+பலத்த காற்று வீசுவதுடன், தினமும் மதியம் 12 மணி முதல் 4.30 மணி வரை காற்று அதிகமாக வீசுவது இந்த விளையாட்டுக்கு மிகவும் சிறந்தது என அந்த விளையாட்டில் ஈடுபட்டுள்ள வெளிநாட்டினர் குறிப்பிடுகின்றனர்.
+
+...
+
+[Data](articles/1167cf44.json)
+
+---
+
 ### UN FAO Asia - Pacific Regional Conference begins
 
 *2024-02-20 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193608) · `si`
@@ -99,6 +251,38 @@ The President Ranil Wickremesinghe and Director General of the United Nations Fo
 [Data](articles/c24711e0.json)
 
 [Extended Data](ext_articles/c24711e0.ext.json)
+
+---
+
+### இலங்கை ஜனாதிபதியின் புதிய பொறுப்புக்கூறல் முயற்சி குறித்து சர்வதேச உண்மை மற்றும் நீதிக்கான திட்டம் கவலை- கடந்தகால ஆணைக்குழுக்களின் அறிக்கைகளை ஜனாதிபதியின் இணையத்தளத்தில்  வெளியிட கோரிக்கை
+
+*2024-02-20 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176832) · `ta`
+
+இலங்கை அரசாங்கம் புதிய உண்மையை  கண்டறியும் ஆணைக்குழுவை அமைப்பதற்கு முன்னர் முன்னைய ஆணைக்குழுக்கள் தெரிவித்துள்ள விடயங்களை ஏற்றுக்கொண்டு  அவற்றின் பரிந்துரைகளை நடைமுறைப்படுத்தவேண்டும் என  சர்வதேச உண்மை மற்றும் நீதிக்கான திட்டம் தெரிவித்துள்ளது.
+
+பாரதூரமான மனித உரிமை மீறல்கள் தொடர்பாக  விசாரணை செய்வதற்கு அமைக்கப்பட்ட அரசாங்க ஆணைக்குழுக்களின் எண்ணிக்கை பாதிக்கப்பட்ட இலங்கையர்களால்  கணக்குவைக்க முடியாதஅளவிற்கு தாண்டியுள்ளது எனவும் ஐடிஜேபி தெரிவித்துள்ளது.
+
+இருந்தும் பிறிதொரு ஆணைக்குழுவை அரசாங்கம் உருவாக்கவுள்ளது உண்மை மற்றும் ஐக்கியம் நல்லிணக்கம் ஆணைக்குழு எனப்படும் இந்த புதிய ஆணைக்குழு உண்மையை கண்டறிவதற்காக இலங்கை அரசாங்கத்தினால் உருவாக்கப்பட்ட 36 ஆணைக்குழுக்களின் வரிசையில் இணைந்துகொண்டுள்ளது எனவும் உண்மை நீதிக்கான சர்வதேச திட்டம் தெரிவித்துள்ளது.
+
+எனினும் நீதியும்பொறுப்புக்கூறலும் இன்னமும் சாத்தியமாகத விடயங்களாவே காணப்படுவதாக  பாதிக்கப்பட்டவர்கள் தெரிவிக்கின்றனர் என அந்த அமைப்பு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/cb6468f6.json)
+
+---
+
+### உத்தேச பயங்கரவாத எதிர்ப்புச் சட்டமூலம் குறித்து பாராளுமன்றத்திற்கு உயர்நீதிமன்றத்தின் அறிவிப்பு !
+
+*2024-02-20 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176831) · `ta`
+
+உத்தேச பயங்கரவாத எதிர்ப்புச் சட்டமூலத்தின் பெரும்பாலான ஏற்பாடுகள் அரசியலமைப்புக்கு முரணாகவுள்ளதாக உயர்நீதிமன்றம் பாராளுமன்றத்துக்கு அறிவித்துள்ளது.
+
+இதேவேளை, உத்தேச பயங்கரவாத எதிர்ப்புச் சட்டமூலத்தை திருத்தங்களின்றி நிறைவேற்ற வேண்டுமாயின் மூன்றில் இரண்டு பெரும்பான்மையுடன் ,மக்கள் வாக்கெடுப்பு நடத்த வேண்டும் என்றும் உயர்நீதிமன்றம் பாராளுமன்றத்துக்கு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5d587484.json)
 
 ---
 
@@ -523,6 +707,22 @@ The body has been placed at the Gampola hospital morgue and Gampola police are c
 [Data](articles/1ad2bf8e.json)
 
 [Extended Data](ext_articles/1ad2bf8e.ext.json)
+
+---
+
+### තව මාස කිහිපයක් යන විට ජනතාවට සහන ලැබෙනවා
+
+*2024-02-20 09:20:59* · [`adalk`](https://www.ada.lk/breaking_news/තව-මාස-කිහිපයක්-යන-විට-ජනතාවට-සහන-ලැබෙනවා/11-408186) · `si`
+
+මෙරට ආර්ථිකයට විශාල දායකත්වයක් ලබා දෙන කඳුකර ද්‍රවිඩ ජනතාවගේ ආර්ථික හා සමාජ අයිතිවාසිකම් තහවුරු කිරීමට රජය කැපවී කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+කඳුකරය නියෝජනය කරන සියලු දේශපාලන නියෝජිතයන් එක් කර ගනිමින් එම වැඩපිළිවෙළ ක්‍රියාවට නැංවීමට අදාළ යෝජනා ඉදිරි මාසයේ දී ඉදිරිපත් කිරීමට අපේක්ෂා කරන බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ වතුකරයේ කම්කරු ජනතාව වෙනුවෙන් නිවාස 10,000ක් ඉදිකිරීම සඳහා ඉන්දීය රජයේ මූල්‍ය ප්‍රතිපාදන යටතේ ක්‍රියාත්මක ‘භාරත්-ලංකා’ නිවාස ව්‍යාපෘතියේ සිවුවන අදියරේ ඉදිකිරීම් කටයුතු ආරම්භ කිරීමේ අවස්ථාවට ජනාධිපති කාර්යාලයේ සිට මාර්ගගත තාක්ෂණය ඔස්සේ එක් වෙමිනි.
+
+...
+
+[Data](articles/df8e72a4.json)
 
 ---
 
@@ -1793,249 +1993,5 @@ A floral procession (Mal Perahera) was held this evening at the Ganagarama Templ
 [Data](articles/79236b81.json)
 
 [Extended Data](ext_articles/79236b81.ext.json)
-
----
-
-### Foreign Minister highlights disproportionate impact of climate change on countries in global south
-
-*2024-02-19 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97396/foreign-minister-highlights-disproportionate-impact-of-climate-change-on-countries-in-global-south) · `en`
-
-Sri Lanka’s Foreign Minister Ali Sabry has emphasised that climate change should not be evaluated solely based on cost, adding that it’s also about knowledge sharing and capacity building.
-
-Speaking in this context at a panel discussion on “Protecting global commons” at the 60th edition of the Munich Security Conference (MSC) held in Munich, Germany, Sabry highlighted Sri Lanka’s proposal to establish a Climate Change University in Sri Lanka, while also pointing out the disproportionate impact of climate change on the countries in the global south.
-
-The other panelists were co-chair of Alliance 90/The Greens party of Germany Ricarda Lang and Executive Director of Greenpeace Mads Flarup.
-
-He also shared Sri Lanka’s commitments including the COP28 and at regional and local levels to protect the global commons.
-
-...
-
-[Data](articles/f3d297d2.json)
-
-[Extended Data](ext_articles/f3d297d2.ext.json)
-
----
-
-### Sri Lanka must have legal framework before adopting nuclear energy projects: IAEA expert
-
-*2024-02-19 22:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-must-have-legal-framework-before-adopting-nuclear-energy-projects-IAEA-expert/108-277344) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - If Sri Lanka is to adopt a nuclear energy generating project, then the country should first have a firm legal framework in place, was the opinion of an international atomic energy expert.
-
-He said there are numerous factors to be considered when taking up a nuclear energy project in a country and the first is to establish a firm legal background.
-
-International Atomic Energy Agency (IAEA) consultant and expert on nuclear energy Dr. Halil Avci said this while addressing a special forum of local environment authorities and atomic energy officials last week, a spokesperson from the Central Environment Authority (CEA) told the Daily Mirror.
-
-“A country has to first decide whether it is to adopt nuclear power generation projects and consider various environment and other factors. But if they do then there should be a firm legal background,” Avci said.
-
-...
-
-[Data](articles/5ee98e38.json)
-
-[Extended Data](ext_articles/5ee98e38.ext.json)
-
----
-
-### Superior to Sri Lanka after some time
-
-*2024-02-19 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193593) · `si`
-
-Another bad memory was held today at Sri Lanka's tourist.
-
-With the winning of the Second Twenty20 match today, it is the passage of Sri Lanka in advance.
-
-Accordingly, Sri Lanka won the match by 72 runs.
-
-◼️
-
-[Data](articles/66e7d5ec.json)
-
-[Extended Data](ext_articles/66e7d5ec.ext.json)
-
----
-
-### 100 woods
-
-*2024-02-19 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193592) · `si`
-
-Found the 100th wicket at T20 of the Twenty20 area of T20 of the Twenty20.
-
-Twenty20 played Wentuwu talent.
-
-He made the same talent in the 13th over the 13th over the 13th over the 13th winter.
-
-◼️
-
-[Data](articles/8fa529e7.json)
-
-[Extended Data](ext_articles/8fa529e7.ext.json)
-
----
-
-### Cabinet approval to grant assistant teacher appointments - Education Minister Susil Premjayantha
-
-*2024-02-19 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/176804) · `ta`
-
-Cabinet approval has been granted to make assistant teacher appointments. The appropriate gazette notification will be issued soon. Minister of Education Susil Premjayantha said that only people in particular districts can apply.
-
-He further stated at a press conference held at the Presidential Media Center on Monday (19).
-
-Programs to improve all academic colleges in the country have been implemented as universities.. Applications will be requested after these measures.
-
-Cabinet approval has been granted to make assistant teacher appointments. The gazette notification will be issued soon. Applications for Assistant Teachers will be requested only in certain districts. Accordingly, only the respective districts will be incorporated into this service.
-
-...
-
-[Data](articles/5e1e5392.json)
-
-[Extended Data](ext_articles/5e1e5392.ext.json)
-
----
-
-### The President cannot decide on the date of holding the presidential election - Professor GL Peiris
-
-*2024-02-19 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/176764) · `ta`
-
-Prof. GL Peiris, a representative of the Independent People's Council and Member of Parliament, said that the Presidential Secretariat's reports on the national elections are just a matter of fact and there is no validity.
-
-He made this statement during a media briefing held at the Independent People's Office in Colombo on Monday (19).
-
-The government has taken the final effort to abolish the executive presidency, as all the efforts of the government have failed to dismantle the presidential election this year, according to the Constitution.
-
-The government is trying to remain in office for a further year without holding the election. The people of the country should decide whether to end the curse of this government led by President Ranil Wickremesinghe or to continue the curse.
-
-The President cannot decide on the date of holding the presidential election.
-
-...
-
-[Data](articles/a3f853dc.json)
-
-[Extended Data](ext_articles/a3f853dc.ext.json)
-
----
-
-### Welcome to the launch of the 10,000 Indian Housing Scheme announced in our regime - Mano
-
-*2024-02-19 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176758) · `ta`
-
-In 2017, Indian Prime Minister Narendra Modi, who was brought to the hill country during our rule, announced that the amount of Indian housing projects built in plantations will be increased by a further 10,000.. Since our regime ended in 2019, we could not continue it.
-
-Tamil Progressive Alliance leader and Colombo district parliamentarian Mano Ganesan has said that we are welcomed and congratulating the housing project today.
-
-The land expansion of the housing projects built in the plantations was confirmed by the Cabinet paper as 7 perch in our regime.
-
-In 2019, this government said it would build a house in 20 parses in the 20s.. Later, during the last budget, it was said to be housing in 10 perch plantations.
-
-Therefore, there is a vague of the expansion of the Indian Housing Project Home Lands Lands.. The government should announce the details of the home land, seven pericha, ten pericha, and twenty pericha.
-
-...
-
-[Data](articles/95191bba.json)
-
-[Extended Data](ext_articles/95191bba.ext.json)
-
----
-
-### Archbishop announced
-
-*2024-02-19 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193591) · `si`
-
-The Archbishop Kalgawa, Colombo issued a statement regarding today's protest to today's Pitipana Leholder.
-
-It states that the fishermen and the people are trying to mislead the backing of the protest of today's protest.
-
-The Archbishop was prosecuted that only several people who claim to be the United Fisheries Assessment of the United Fisheries Association for the years.
-
-Meanwhile, the fishermen were protesting in front of the Archbishop of the Archbishop of Colombo this afternoon to protest the departure of the Pitchana Leek and Archbishop of Colombo.
-
-Negombo District Court recently ordered the Pitipana of the Negombo Fisheries Trading Society of the Negombo Fisheries Trading Society of Negombo, who is popular as the Legest.
-
-It was when the Archbishop was taken up at a complaint filed by the Archbishop against the staff of the Pitipana United Fisheries Society.
-
-The fishermen who fishery fishermen who are protesting to take over the Pitipana Leek and Archbishop of Colombo.
-
-...
-
-[Data](articles/c4cc4be6.json)
-
-[Extended Data](ext_articles/c4cc4be6.ext.json)
-
----
-
-### Free press isn’t an adversary to Sri Lanka – US Under Secretary
-
-*2024-02-19 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97394/free-press-isnt-an-adversary-to-sri-lanka-us-under-secretary-) · `en`
-
-US Under Secretary of State for Public Diplomacy Elizabeth Allen has raised concerns that several aspects of the freedom of expression are currently under threat globally, including certain concerns in Sri Lanka.
-
-Speaking at an event hosted by the Sri Lanka Press Institute (SLPI) Press Club themed ‘The Global Media Space and its Impact on Democracy’, Under Secretary Allen stated that several essential freedoms are under threat globally, including in Sri Lanka.
-
-“Globally, we’re witnessing serious and escalating challenges to media freedom. The United States stands firmly for the freedom of expression, advocating for press freedom both online and offline, and ensuring the safety of journalists and media workers worldwide.  Unfortunately, these essential freedoms are under threat globally, including concerns raised here in Sri Lanka”, she said.
-
-...
-
-[Data](articles/de80e072.json)
-
-[Extended Data](ext_articles/de80e072.ext.json)
-
----
-
-### Protesting health workers sign over-time claim forms
-
-*2024-02-19 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protesting-health-workers-sign-over-time-claim-forms/108-277339) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - The health sector workers who staged a protest at the National Hospital, Colombo (NHC) today demanding the removal of the National Hospital's Deputy Director, had reportedly signed for overtime payments.
-
-When contacted, Deputy Director Dr. Rukshan Bellana claimed that more than 200 health workers attached to the NHC, Eye Hospital, Dental Institute Colombo, Lady Ridgeway Hospital (LRH) and De Soysa Hospital for Women had come to the NHC and protested.
-
-He also claimed that these health workers had signed four hours of overtime (OT) for the protest period up to today and said that they had taken the free meal provided at the government hospitals.
-
-"Claiming OT for protesting hours and getting the free meal is illegal, and I request that higher authorities take necessary action against them," Dr. Bellana said.
-
-◼️
-
-[Data](articles/571a437e.json)
-
-[Extended Data](ext_articles/571a437e.ext.json)
-
----
-
-### Motor Train Train mother, son, son and daughter to death
-
-*2024-02-19 20:56:25* · [`adalk`](https://www.ada.lk/breaking_news/යතුරු-පැදිය-දුම්රියේ-ගැටි-මව-පුතු-හා-දියණිය-එම-ස්ථානයෙදීම-මරණයට/11-408182) · `si`
-
-Arachchikattuwa Police say that a motorcycle train from Colombo to Puttalam from Colombo to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam from Colombo to Puttalam.
-
-The deceased has been identified as 37-year-old AM Senita and her eldest son, 9, 9, a 9-year-old dawis, a 9-year-old dawn, Nivwindi, the 8-year-old dawn of the 8th.
-
-The train is killed in the motorcycle to bring the daughter's outward tuition in Miaia and returning to the architecture of the area.
-
-The mother of the mother of the train had been bodied into the area nearly 300 miters, police investigations have revealed that the deaths were killed in the accident.
-
-The railway watch on the railway crossing is a few weeks and the watchman has been informed of the train authorities before leaving the service previously.
-
-However, there have been no longer directed by the train secretaries that the train authorities have not taken the railway crossing on the occasion.
-
-...
-
-[Data](articles/ea83808e.json)
-
-[Extended Data](ext_articles/ea83808e.ext.json)
-
----
-
-### Sri Lanka's powerful attack
-
-*2024-02-19 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193590) · `si`
-
-Sri Lanka scored 187 runs for the loss of 6 wickets for the loss of 6 wickets.
-
-Sadara Samarawickrema scored 51 runs in 42 balls with five fours.
-
-◼️
-
-[Data](articles/9819efae.json)
-
-[Extended Data](ext_articles/9819efae.ext.json)
 
 ---

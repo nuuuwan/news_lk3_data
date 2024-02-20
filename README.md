@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 09:51:51**
+As of **2024-02-20 10:03:55**
 
 ## Newspaper Stats
 
-*Scraped **8,163** Articles*
+*Scraped **8,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,96 @@ islandlk | 434
 dailyftlk | 444
 adalk | 696
 adaderanalk | 991
-tamilmirrorlk | 991
+tamilmirrorlk | 994
 virakesarilk | 1,091
 adaderanasinhalalk | 1,186
-dailymirrorlk | 1,202
+dailymirrorlk | 1,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,163 (100.0%) of 8,163 articles have been extended.
+8,167 (100.0%) of 8,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### The beginning of the parliamentary session
+
+*2024-02-20 09:35:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-கூட்டத்தொடர்-ஆரம்பம்/175-333496) · `ta`
+
+Parliament will meet for three days this week and the adjournment debate on the proposal on the current situation in the country will be held tomorrow (21).
+
+The debate will be held tomorrow at 10.30 am to 05.30 pm.
+
+The Department of Communications of Parliament has said that the Mosque will be presented tomorrow on behalf of the late Minister of State Sanath Nishantha.
+
+◼️
+
+[Data](articles/329bb4b5.json)
+
+[Extended Data](ext_articles/329bb4b5.ext.json)
+
+---
+
+### Iran's Foreign Minister arrived in the country
+
+*2024-02-20 09:33:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானின்-வெளிவிவகார-அமைச்சர்-நாட்டை-வந்தடைந்தார்/175-333495) · `ta`
+
+Iran's Foreign Minister Hossein Amir Abdullah, a three -day official visit to Katunayake on Monday night (19), arrived at the Iranian government -owned IRAN 05.
+
+He was accompanied by 20 top officials of the country and they were visiting the country from Monday (19) to Wednesday (21).
+
+It is noteworthy that Foreign Minister Taraka Balasuriya and a delegation were present to welcome the Iranian Foreign Minister and the team.
+
+◼️
+
+[Data](articles/1c02ed01.json)
+
+[Extended Data](ext_articles/1c02ed01.ext.json)
+
+---
+
+### Innovative Workplace at the Colombo Hospital
+
+*2024-02-20 09:32:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-வைத்தியசாலையில்-புதுமையான-பணிப்புறக்கணிப்பு/175-333494) · `ta`
+
+A senior official of the Ministry of Health has said that doctors have filed a complaint against the Colombo National Hospital employees who are engaged in an unofficial workforce at the hospital premises demanding the sacking of the Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana.
+
+The official said that about 300 employees of the hospital continued to protest and some of them were receiving additional time scholarships.. The official said that there are also employees of eye, children, dental and Soyza hospitals.
+
+The Ministry of Health further stated that about 3,000 employees who are continuing to protest are working at the National Hospital and action will be taken against the employees who are working on the work and the unofficial strike.
+
+◼️
+
+[Data](articles/fd1a1e09.json)
+
+[Extended Data](ext_articles/fd1a1e09.ext.json)
+
+---
+
+### 253 students from 11 schools from Jaffna district participated in the 10th Jambori conference of the Sri Lanka Scout Association
+
+*2024-02-20 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176812) · `ta`
+
+The 10th Jambori Conference of the Sri Lanka Scout Association will be held in Trincomalee tomorrow and will be held till the 26th of this month.. Jaffna at this conference. There will be 253 scouts representing 11 schools from the district.
+
+Governor of the Northern Province BSMM. Charles was held at the old park in Jaffna on Monday afternoon (19).
+
+Jaffna during the event. The scout march for the District Scout Flag was held, and the uniforms for the scouts were provided by the Hon.
+
+Addressing the gathering, the Governor of the Northern Province congratulated the scout children who are on their way to Trincomalee and have dedicated themselves to the Scout Movement.. Appreciated.
+
+Special guests were also present at the event.
+
+◼️
+
+[Data](articles/012256a6.json)
+
+[Extended Data](ext_articles/012256a6.ext.json)
+
+---
 
 ### Pilot project to digitize education to be launched in March
 
@@ -67,6 +143,28 @@ Twenty is the second place in Twenty20 rapidly, while Rashad Khan, Afghanistan, 
 [Data](articles/f2d30f69.json)
 
 [Extended Data](ext_articles/f2d30f69.ext.json)
+
+---
+
+### CEB Engineers open to “progressive” reforms
+
+*2024-02-20 08:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-Engineers-open-to-progressive-reforms/108-277374) · `en`
+
+Reiterate need for power regulator to be aggressive and independent
+
+The resistance to restructuring the state-owned enterprises is a common narrative but the Ceylon Electricity Board Engineers Union (CEBEU) has made it clear that it is not opposed
+
+In contrast to the perception that the unions are always against change, the CEBEU clarified that it is supportive of reforms, provided they are progressive.
+
+The Ceylon Electricity Board (CEB), one of the nation’s highest loss-making state entities, will undergo restructuring to alleviate its burden on the country’s public finances, a significant economic challenge.
+
+“I have to clearly say this CEBEU is not against any reforms. We are ready for unbundling. There are several aspects that need to be revised and amended in the new act. We are looking forward to that,” said CEBEU Joint Secretary Buddhika Wijayawardena, at a thought leadership forum with the industry stakeholders.
+
+...
+
+[Data](articles/c3fca597.json)
+
+[Extended Data](ext_articles/c3fca597.ext.json)
 
 ---
 
@@ -505,28 +603,6 @@ Sen in this round match. Thomasus player M. M.. Mukhtar tops the list with 5 goa
 [Data](articles/06cb560e.json)
 
 [Extended Data](ext_articles/06cb560e.ext.json)
-
----
-
-### 253 students from 11 schools from Jaffna district participated in the 10th Jambori conference of the Sri Lanka Scout Association
-
-*2024-02-20 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176812) · `ta`
-
-The 10th Jambori Conference of the Sri Lanka Scout Association will be held in Trincomalee tomorrow and will be held till the 26th of this month.. Jaffna at this conference. There will be 253 scouts representing 11 schools from the district.
-
-Governor of the Northern Province BSMM. Charles was held at the old park in Jaffna on Monday afternoon (19).
-
-Jaffna during the event. The scout march for the District Scout Flag was held, and the uniforms for the scouts were provided by the Hon.
-
-Addressing the gathering, the Governor of the Northern Province congratulated the scout children who are on their way to Trincomalee and have dedicated themselves to the Scout Movement.. Appreciated.
-
-Special guests were also present at the event.
-
-◼️
-
-[Data](articles/012256a6.json)
-
-[Extended Data](ext_articles/012256a6.ext.json)
 
 ---
 
@@ -1989,87 +2065,5 @@ The excavation was carried out in the presence of the Magistrate, Archaeological
 [Data](articles/a20d9ad7.json)
 
 [Extended Data](ext_articles/a20d9ad7.ext.json)
-
----
-
-### Teacher appointment to 35 000 persons if the interim injunction was lifted by the court
-
-*2024-02-19 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176788) · `ta`
-
-The Minister of Education Susil Premjayantha said that if the verdict on the interim injunction issued against the Graduate Development Officers in the Teacher Service and filling the gap for retired and resigned teachers, more than 35 000 people can appoint more than 35 000 people.
-
-He further stated at a press conference held at the Presidential Media Center on Monday (19).
-
-Free textbooks have been provided to all schools. 12 billion rupees has been spent on this. 6.5 billion rupees has been allocated for uniforms. Steps will be taken to distribute uniform clothes within the next two weeks.
-
-Also, the timetable for school installments and exams will be prepared and all schools will be announced within two weeks.. We are looking forward to conducting the GCE Ordinary Level Examination for the last year of last year and in December.
-
-...
-
-[Data](articles/ceb17d66.json)
-
-[Extended Data](ext_articles/ceb17d66.ext.json)
-
----
-
-### Good responses to the Nursing Association
-
-*2024-02-19 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193583) · `si`
-
-The Association says that the Public Service United Nurses Union has responded positively to the government.
-
-Addressing a Midncre of the Public Service United Kingdom of the Public Service United Kingdom Muruththewe, Presidential Service (State)
-
-Public Service United Public Service United Nurses Union Chairman Muruththettuwe Ananda Thera,
-
-"As the Nursing Association, the Health Minister of Health Mahinda Rajapaksa has promised to increase the nurses' uniform allowance to Rs. 30,000. 255,000 of them agreed to provide the remaining Rs. 5,000 from January next year. The fuel allowance agreed to grant the final quarter next year. A committee on overtime has been appointed as the immediate solution to it as soon as possible. "
-
-◼️
-
-[Data](articles/8adc4b82.json)
-
-[Extended Data](ext_articles/8adc4b82.ext.json)
-
----
-
-### Woman, two children die in train accident
-
-*2024-02-19 17:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-two-children-die-in-train-accident/108-277330) · `en`
-
-Arachchikattuwa, Feb 19 (Daily Mirror) - A woman and two children riding on a motorcycle were killed in an accident when a train travelling from Puttalam towards Chilaw collided with the motorcycle at a railway crossing in ​​Arachchikattuwa.
-
-Police said the deceased woman is 36 years old and her 7-year old daughter and 9-year old boy died in the accident.
-
-It has been revealed that they met with this accident while on thier way to attend a tuition class.
-
-The bodies have been sent to the Mundalama Hospital and the Arachchikattuwa Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/9055eb24.json)
-
-[Extended Data](ext_articles/9055eb24.ext.json)
-
----
-
-### India begins construction of 1,300 houses for Sri Lanka plantation workers
-
-*2024-02-19 17:30:00* · [`economynextcom`](https://economynext.com/india-begins-construction-of-1300-houses-for-sri-lanka-plantation-workers-151457/) · `en`
-
-ECONOMYNEXT – The fourth stage of the Indian housing project, ‘Bharat-Lanka,’ which sees the construction of 10,000 houses for plantation sector workers was launched on Monday (19).
-
-The fourth phase entails building 1,300 houses across 45 estates in 10 districts.
-
-“The Tamil community of Indian Origin, who have made significant contributions to the country’s economy, have unfortunately suffered great losses due to the lack of land and housing ownership,” Sri Lanka’s president Ranil Wickremesinghe was quoted at the event by his media division.
-
-“It is imperative that their economic and social rights are upheld. The government is actively initiating this process, starting with negotiations with estate companies to acquire land for the construction of these houses.”
-
-Wickremesinghe, Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman and Indian High Commissioner Santhosh Jha, virtually unveiled the foundation stone plaque.
-
-...
-
-[Data](articles/77f35f4c.json)
-
-[Extended Data](ext_articles/77f35f4c.ext.json)
 
 ---

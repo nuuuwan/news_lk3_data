@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 23:17:33**
+As of **2024-02-20 23:34:02**
 
 ## Newspaper Stats
 
-*Scraped **8,329** Articles*
+*Scraped **8,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,007
 tamilmirrorlk | 1,025
 virakesarilk | 1,120
 adaderanasinhalalk | 1,213
-dailymirrorlk | 1,231
+dailymirrorlk | 1,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,329 (100.0%) of 8,329 articles have been extended.
+8,330 (100.0%) of 8,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### English language to be considered for conducting legal proceedings
+
+*2024-02-20 22:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/English-language-to-be-considered-for-conducting-legal-proceedings/108-277427) · `en`
+
+Colombo, Feb 20, (Daily Mirror) -  The English language is to be considered for conducting legal proceedings and maintaining records in certain courts, the Government Information Department said today.
+
+Particulars in the commerce sphere related to commercial activities are mainly used in the English language and require a considerable cost and time in translating those contents into the Sinhala language. Due to that, an extended period to settle commercial disputes take place which leads to a disadvantage when obtaining entrepreneurs, the department said.
+
+...
+
+[Data](articles/43234920.json)
+
+[Extended Data](ext_articles/43234920.ext.json)
+
+---
 
 ### US again casts veto of UN action in Israel-Hamas war
 
@@ -1957,25 +1973,5 @@ He said that it is essential to introduce a low-cost travel and transport fee sy
 [Data](articles/f3ebfaec.json)
 
 [Extended Data](ext_articles/f3ebfaec.ext.json)
-
----
-
-### Short14, Kelaniwali Train is resurrected by my boundar pillars
-
-*2024-02-20 12:32:12* · [`adalk`](https://www.ada.lk/breaking_news/අඩසිය-වසරකට-පසු-කැළණිවැලි-දුම්රිය-මගේ-මායිම්-කණු-යළි-සිටුවයි/11-408191) · `si`
-
-The appointment of boundaries in the Kuruwita area are conducted in the Kuruwita area to extend the Kelani Railway Line after half a poisonous railway line.
-
-Kelani Railway Line, which was traveling to Opanayaka, was restricted to Avissawella in 1976 in 1976. The Mountyadhewyi railway line was proposed to develop the flight to the Aviation from Colombo to Kottawa on the loss of aid for the loss of the passenger congestion.
-
-This road is a wide railway line in six feet and six inches. The road from Avissawella has been developed as a widespread road in six feet and six inches. The government's physical planning department points out that the proposed barkway railway is a widespread road and six inches.
-
-Avissawella has clashed with Eheliyagoda, Parakaduwa, Kuruwita, Ratnapura, Watapotha, Ratnapura and Opanatha. In 1912, the train rail began in 1912. The road was extended to Opanayake in 1919.
-
-...
-
-[Data](articles/d6660874.json)
-
-[Extended Data](ext_articles/d6660874.ext.json)
 
 ---

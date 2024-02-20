@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 16:02:30**
+As of **2024-02-20 16:17:41**
 
 ## Newspaper Stats
 
-*Scraped **8,258** Articles*
+*Scraped **8,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 421
 islandlk | 434
 dailyftlk | 444
-adalk | 703
+adalk | 705
 adaderanalk | 999
 tamilmirrorlk | 1,013
-virakesarilk | 1,113
+virakesarilk | 1,116
 adaderanasinhalalk | 1,205
 dailymirrorlk | 1,215
 
@@ -26,11 +26,39 @@ dailymirrorlk | 1,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,258 (100.0%) of 8,258 articles have been extended.
+8,258 (99.9%) of 8,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### கோட்டாபய ராஜபக்க்ஷவின் பிரத்தியேக செயலாளர் பதவி விலகினார்!
+
+*2024-02-20 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176878) · `ta`
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்க்ஷவின் பிரத்தியேக செயலாளராக கடமையாற்றிய  சுகீஸ்வர பண்டார, தனது இராஜினாமா கடிதத்தை முன்னாள் ஜனாதிபதிக்கு இன்று செவ்வாய்க்கிழமை (20) அனுப்பி வைத்துள்ளார்.
+
+அக்கடிதத்தில், தன்னை முன்னாள் ஜனாதிபதியின் பிரத்தியேகச் செயலாளராக வைத்திருந்தமைக்கு முதலில் நன்றி தெரிவிப்பதாக  குறிப்பிட்டுள்ளதுடன், அரசியல் ஈடுபடுவதற்காகவே   தனது பதவியை இராஜினாமா செய்வதாகக் குறிப்பிட்டுள்ளார்.
+
+நாடாளுமன்ற உறுப்பினர் நிமல் லான்சா உள்ளிட்டோரால்  உருவாக்கப்பட்டுள்ள  புதிய கூட்டணியில் தீவிர அரசியலில் ஈடுபடுவதற்காகவே தான் பதவி விலகுவதாகவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/98655ae9.json)
+
+---
+
+### வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகளது நீதி கோரிய போராட்டம் ஆரம்பம் ; தேரரும் பங்கெடுப்பு!
+
+*2024-02-20 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176877) · `ta`
+
+தொடர் போராட்டம் ஆரம்பிக்கப்பட்டு 7 ஆண்டுகள் கடந்த நிலையில் நீதி கோரி கிளிநொச்சி மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகளால் ஏற்பாடு செய்யப்பட்ட குறித்த போராட்டம் டிப்போ சந்தி நோக்கி A 9 வீதி ஊடாக பயணிக்க ஆரம்பித்துள்ளது.
+
+◼️
+
+[Data](articles/5389549b.json)
+
+---
 
 ### Through love is displayed along hbo max
 
@@ -57,6 +85,52 @@ In the mid-year (2024), Savoy Cinema will be distributed in film "plane love" in
 [Data](articles/59e66138.json)
 
 [Extended Data](ext_articles/59e66138.ext.json)
+
+---
+
+### දන්තාලේපන ඇසුරුමේ සඟවා අයිස් රැගෙන ආ තිදෙනෙක් අත්අඩංගුවට
+
+*2024-02-20 15:35:00* · [`adalk`](https://www.ada.lk/breaking_news/දන්තාලේපන-ඇසුරුමේ-සඟවා-අයිස්-රැගෙන-ආ-තිදෙනෙක්-අත්අඩංගුවට/11-408196) · `si`
+
+දන්තාලේප ඇසුරුම් තුළ අයිස් මත්ද්‍රව්‍ය  අසුරා ‍  මැගසින් හා කොළඹ රිමාන්ඩ් බන්ධනාගාරවල රැඳවියන්ට ලබාදීම සඳහා රැගෙන ආ අයිස් මත්ද්‍රව්‍ය පැකට 7 ක් සමග කාන්තාවක් තුළ සැකකරුවන් තිදෙනකු අත්අඩංගුවට ගැනීමට බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බලකායේ නිලධාරීන්ට හැකි වී ඇත
+
+එම සැකකරුවන් සමඟ අයිස් මත්ද්‍රව මිලිග්‍රෑම් 6550 ක් සිය භාරයට ගත් බව බන්ධනාගාර ආරක්ෂක ඒකකය පැවසීය.
+
+දන්තාලේපන ඇසුරුමේ තිබූ සියලු දත් බෙහෙත් බහලුමෙන් පිටතට ගෙන සූක්ෂම අයුරින් අයිස් මත්ද්‍රව්‍ය කුඩා පැකට් සකසා එම බහලුම් තුළට යොමු කොට ඊට උඩින් දන්තාලේපනය පුරවා කිසිවකුට සැක නොසිතෙන අයුරින් අත්අඩංගුවට පත් කාන්තාව සහ පිරිමි පුද්ගලයින් දෙදෙනා විසින් රැගෙනවිත් තිබූ බවත් බන්ධනාගාර හදිසි ප්‍රතිචාර ඒකකය පවසයි.
+
+බන්ධනාගාර හදිසි ප්‍රතිචාර හා උපක්‍රමික බලකායේ නිලධාරීන් විසින් රැඳවියන් බැලීමට එන අමුත්තන් පරීක්ෂා කිරීම සඳහා යොදා ඇති වෙස්ලි මුරපොළ නැමැති ස්ථානයේදී පරීක්ෂා කිරීම් කටයුතු සිදුකිරීමේදී මෙම මත්ද්‍රව්‍ය සොයා ගැනීමට හැකිවූ බන්ධනාගාර ආරක්ෂක ඒකකයේ නිලධාරීන් පවසයි.
+
+...
+
+[Data](articles/e9a487b7.json)
+
+---
+
+### මියගිය ඇගේ සිරුර දියවන තෙක්ම පුටුවේම තැබුවේ ඇයි?
+
+*2024-02-20 15:10:39* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-ඇගේ-සිරුර-දියවන-තෙක්ම-පුටුවේම-තැබුවේ-ඇයි-/11-408195) · `si`
+
+අහුංගල්ල පොලිස් වසමේ එයගාඩමුල්ල ප්‍රයේශයේ දිංචි පුද්ගලයකු විසින් අසල නිවසක තනිව ජීවත්වූ කාන්තාවන් දින ගනනාවක් නොදුටු බවත් එම නිවස යදසින් දුඟදක් මන බවටත් සඳහන් කරමින් පොළීසියට කරන ලද පැමිණිල්ලකට අනුව අහුංගල්ල පොලිසිය විමර්ශණයක් සිදුකොට ඇත.
+
+පොීිය විසින් සිදුකරණලද වැඩිදුර විමර්ශණයකදිී එම නිවසේ පදිංචි කාන්තාව නිවස තුල පුටුවක් මත මියයගාස් සිට ඇති අතර සිරුර දැඩි යලස දියවී ‌ගොස් ඇති බවට නිරීක්ෂණය වී ඇත. එම කාන්තාව වයස අවුරුදු 65ක් වන අතර මහේස්ත්‍රාත් පරීක්ෂණයෙන් අනතුරුව මෘත ශරීරය බලපිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත. මරණය සිදුවූ ආකාරය පිළිබඳ මේවනතෙක් කිසිදු තොරතුරක් ලැබී නොමැති අතර වැඩිදුර විමර්ශන අහංගල්ල පොලීසිය සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/982ea89d.json)
+
+---
+
+### யாழ்.பல்கலை நுண்கலை பீட மாணவர்கள் போராட்டம்
+
+*2024-02-20 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176871) · `ta`
+
+யாழ்ப்பாண பல்கலைக்கழக இராமநாதன் நுண்கலைப் பீட மாணவர்கள் இன்று செவ்வாய்க்கிழமை (20) வகுப்பு பகிஷ்கரிப்பு போராட்டத்தில் ஈடுபட்டனர்.
+
+யாழ்ப்பாணப் பல்கலைக்கழ இராமநாதன் நுண்கலைப்பீட இசைத்துறையில் 4ஆம் வருடத்தில் கல்விகற்கவேண்டிய தாம்,  3ஆம் வருட 2ஆம் அரையாண்டில் கற்கிறோம். எனவே தமது  விரிவுரை செயற்பாடுகளை துரிதப்படுத்த வேண்டும் என கோரியே மாணவர்கள் போராட்டத்தில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/1efa9b47.json)
 
 ---
 
@@ -212,6 +286,26 @@ Until now, Washington has been averse to the word ceasefire in any U.N. action o
 
 ---
 
+### The US Deputy Secretary of State, who has completed his visit to Sri Lanka, emphasized freedom of expression to transparent regime!
+
+*2024-02-20 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176864) · `ta`
+
+US Deputy Secretary of State for Public Diplomacy for the first public diplomacy, Liz Alan, completed his historic three -day visit to Colombo (from February 17 to 19).
+
+During his visit, he was involved in conversations with young leaders, entrepreneurs, and journalists, civil society and journalists, to ensure that Sri Lanka's economic recovery and long -term support for long -term prosperity.
+
+During a meeting with Secretary of the Ministry of Foreign Affairs, Aruni Wijewardene, Deputy Secretary of State Alan and the US Ambassador to Sri Lanka, Julie, discussed the strong partnership between the US and Sri Lanka, and outlined the intersection of vibrant information and sustainable economic growth.
+
+They also accepted the opportunity for Sri Lanka to build a path to forming a regional model for the regime.
+
+...
+
+[Data](articles/f5668e92.json)
+
+[Extended Data](ext_articles/f5668e92.ext.json)
+
+---
+
 ### 73 students at schoolThe incident in the passenger!
 
 *2024-02-20 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176865) · `ta`
@@ -227,26 +321,6 @@ The incident took place as preparations for the annual sports event of the Natio
 [Data](articles/e3b55742.json)
 
 [Extended Data](ext_articles/e3b55742.ext.json)
-
----
-
-### The US Deputy Secretary of State, who has completed his visit to Sri Lanka, emphasized freedom of expression to transparent regime!
-
-*2024-02-20 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/176864) · `ta`
-
-US Deputy Secretary of State for Public Diplomacy for the first public diplomacy, Liz Alan, completed his historic three -day visit to Colombo (from February 17 to 19).
-
-During his visit, he was involved in conversations with young leaders, entrepreneurs, and journalists, civil society and journalists, to ensure that Sri Lanka's economic recovery and long -term support for long -term prosperity.
-
-During a meeting with Secretary of the Ministry of Foreign Affairs, Aruni Wijewardene, Deputy Secretary of State Alan and the US Ambassador to Sri Lanka, Julie, discussed the strong partnership between the US and Sri Lanka, and outlined the intersection of vibrant information and sustainable economic growth.
-
-They also accepted the opportunity for Sri Lanka to build a path to forming a regional model for the regime.
-
-...
-
-[Data](articles/f5668e92.json)
-
-[Extended Data](ext_articles/f5668e92.ext.json)
 
 ---
 
@@ -1917,111 +1991,5 @@ The body has been placed at the morgue of the Balapitiya Hospital following the 
 [Data](articles/07ee88bf.json)
 
 [Extended Data](ext_articles/07ee88bf.ext.json)
-
----
-
-### President declares open the progress of the country
-
-*2024-02-20 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193599) · `si`
-
-President Ranil Wickremesinghe says that the country has now been able to achieve the stability and prosperity of the country.
-
-◼️
-
-[Data](articles/1ab75dc8.json)
-
-[Extended Data](ext_articles/1ab75dc8.ext.json)
-
----
-
-### Iranian Foreign Minister arrives in Sri Lanka
-
-*2024-02-20 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97400/iranian-foreign-minister-arrives-in-sri-lanka) · `en`
-
-Minister of Foreign Affairs of the Islamic Republic of Iran, Dr. Hossein Amir Abdollahia arrived in the island on Monday night (19 Feb.), for a three-day official visit.
-
-A delegation of 20 persons, including the Iranian Foreign Minister, were welcomed at the Bandaranaike International Airport (BIA) in Katunayake by State Minister of Foreign Affairs Tharaka Balasuriya last night, Ada Derana reporter said.
-
-The Iranian Foreign Minister, who arrived on an invitation extended by Minister of Foreign Affairs Ali Sabry, will be in Sri Lanka from 19 - 21 February, and is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
-
-The visiting Minister and his delegation will also have official discussions with Minister Ali Sabry at the Ministry of Foreign Affairs.
-
-◼️
-
-[Data](articles/574bb611.json)
-
-[Extended Data](ext_articles/574bb611.ext.json)
-
----
-
-### Today
-
-*2024-02-20 07:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-ஆக்கப்பட்டோரின்-உறவினர்களின்-மாபெரும்-ஊர்வலம்-இன்று/175-333490) · `ta`
-
-Family members of the disappeared will hold a massive procession in Kilinochchi this morning to fulfill the pain of seeking the seven -year -old truth to find out the location of their relatives during the war.. .
-
-Hundreds of members of the five branches of the Northern and Eastern Provinces of the Relatives of the Missing Persons will march in Kilinochchi to mark their grievances.
-
-The main procession began at 9.30 am from Kilinochchi Kandaswamy Temple and is scheduled to go up to a special monument at the Depot Junction, four kilometers away, ”said ARed's spokesman Daily Mirch.
-
-Relatives of the missing persons from Jaffna, Mullaitivu, Mannar and Vavuniya are expected to come to Kilinochchi in the seventh year of the seventh year.
-
-The commemoration, which began on February 20, 2017, has promised to support the Tamil political party leaders from all the districts of the Northern Province.
-
-According to ARED sources, more than 200,000 people disappeared in the late 2009 war.
-
-◼️
-
-[Data](articles/609b7a0a.json)
-
-[Extended Data](ext_articles/609b7a0a.ext.json)
-
----
-
-### Forecast of today's weather
-
-*2024-02-20 07:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-முன்னறிவித்தல்/175-333489) · `ta`
-
-The Department of Meteorology has predicted that there is a chance of rain in the Eastern and Uva provinces today.
-
-In some places in the Sabaragamuwa province, there is a possibility of rain or thunderstorms in the evening or at night.
-
-Heavy winds are expected to blow up to 30-35 km / h from time to time in the Eastern Slips of the Central Highlands and the North, North Central, North Western, Uva, Southern and Eastern Provinces, Matale and Kandy districts.
-
-In some parts of the upper and Sabaragamas, it is expected to be snowed in the morning.
-
-Thundershowers can be temporarily blowing in the area during the thunderstorm.
-
-The public is advised to take necessary precautions to reduce the impacts of lightning impacts.
-
-The winds are blowing from the northeastern direction in the seas around the country and the wind is expected to be 25-30 km per hour.
-
-...
-
-[Data](articles/19e0c300.json)
-
-[Extended Data](ext_articles/19e0c300.ext.json)
-
----
-
-### Man shot at in Borella last night
-
-*2024-02-20 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-shot-at-in-Borella-last-night/108-277377) · `en`
-
-A person was injured in a shooting near an apartment complex in front of Borella Magazine Prison last night and was admitted to the m National Hospital, Colombo for treatment, police said.
-
-They said the shooting was done by a gunman who came on a motorcycle in front of the luxury apartment complex located in Ananda Rajakaruna Mawatha, Borella.
-
-The injured has been identified as a person involved in drug trafficking.
-
-It is said that he is a person who was released from remand prison a few days ago on bail.
-
-The suspects have not been identified yet and the Borella Police have started further investigations.
-
-◼️
-
-[Data](articles/5c992875.json)
-
-[Extended Data](ext_articles/5c992875.ext.json)
 
 ---

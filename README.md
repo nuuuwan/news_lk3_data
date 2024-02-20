@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 10:33:04**
+As of **2024-02-20 10:51:00**
 
 ## Newspaper Stats
 
-*Scraped **8,173** Articles*
+*Scraped **8,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 419
 islandlk | 434
 dailyftlk | 444
 adalk | 696
-adaderanalk | 991
-tamilmirrorlk | 994
-virakesarilk | 1,092
+adaderanalk | 993
+tamilmirrorlk | 999
+virakesarilk | 1,094
 adaderanasinhalalk | 1,191
 dailymirrorlk | 1,203
 
@@ -26,47 +26,175 @@ dailymirrorlk | 1,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,167 (99.9%) of 8,173 articles have been extended.
+8,182 (100.0%) of 8,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### பொதுமக்கள் பாதுகாப்பு அமைச்சருக்கும் பதில் பொலிஸ்மா அதிபருக்கும் உயிர் அச்சுறுத்தல் - சிலோன்டுடே
+### Cut the sword on the woman in Jaffna Kopay;Arrest
 
-*2024-02-20 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176825) · `ta`
+*2024-02-20 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176827) · `ta`
 
-பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான்அலெஸ் பதில்பொலிஸ்மா அதிபர் தேசபந்துதென்னக்கோனிற்கு எதிரான சதிதிட்டம் குறித்த தகவல்கள் புலனாய்வு பிரிவினருக்கு கிடைத்துள்ளதா சிலோன்டுடே தெரிவித்துள்ளது.
+A man has been arrested for allegedly involved in various crimes allegations of a sword attack on a woman in the Jaffna - Kopay area.
 
-யுக்திய நடவடிக்கைக்கு தலைமை தாங்குவது காரணமாக இருவரும் இலக்குவைக்கப்பட்டுள்ளனர் என சிலோன்டுடே தெரிவித்துள்ளது.
+A woman from Kopayi Mathi area was attacked by a sword cutting on Monday (19).
 
-போதைப்பொருள் வர்த்தகத்தில் ஈடுபட்டுள்ள நபர்கள் இந்த திட்டத்தினை முன்னெடுப்பதற்காக பெருந்தொகை பணத்தைவழங்கியுள்ளனர் என புலனாய்வு பிரிவினர் தெரிவிப்பதாக சிலோன்டுடே செய்தி வெளியிட்டுள்ளது.
+In this case, Kopay police have arrested the attack on the incident.
 
-பதில்பொலிஸ்மா அதிபரின் அதிகாரத்தை குறைமதிப்பிற்கு உட்படுத்தி யுக்திய நடவடிக்கையை தடம்புரளச்செய்வதற்காக செல்வாக்குள்ள சில அரசியல்வாதிகளையும் அதிகாரிகளையும் அவர்கள் பயன்படுத்துகின்றனர் என சிலோன்டுடே தெரிவித்துள்ளது.
+The police have been detained at the Kopay police station and are being investigated by the police.
 
-...
+◼️
 
-[Data](articles/bf15d4e5.json)
+[Data](articles/3b7cc8d5.json)
+
+[Extended Data](ext_articles/3b7cc8d5.ext.json)
 
 ---
 
-### ශ්‍රී ලංකා - බංග්ලාදේශ තරග කාලසටහන මෙන්න
+### Sri Lanka - Bangladesh Competition Schedule
+
+*2024-02-20 10:14:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கை-பங்களாதேஷ்-போட்டி-அட்டவணை/44-333500) · `ta`
+
+Sri Lanka Cricket has announced the tournament for the Sri Lankan team to tour Bangladesh.
+
+Accordingly, the Sri Lankan team will take part in 3 T20 matches, 3 ODIs and two Tests.
+
+The T20 matches will be held on March 4, 6 and 9 and ODIs will be held on March 13, 15 and 18.
+
+The first Test match begins on March 22 and the second Test match on March 30.
+
+◼️
+
+[Data](articles/7458bd9c.json)
+
+[Extended Data](ext_articles/7458bd9c.ext.json)
+
+---
+
+### Why Discrimination to Tamil Journalists: Radha Question
+
+*2024-02-20 10:10:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தமிழ்-ஊடகவியலாளர்களுக்கு-ஏன்-பாகுபாடு-இராதா-கேள்வி/76-333499) · `ta`
+
+Parliament was chaired by Deputy Speaker Ajith Rajapaksa at 9.30 am on Tuesday (20).
+
+Nuwara Eliya District Parliamentarian V Irathakrishnan, who raised the main measures of Parliament, will be held in Nuwara Eliya on the 21st of Wednesday (Wednesday).
+
+Tamil language journalists are not called for this. Tamil journalists have not been invited to government -run activities before. Why?He asked if you were discriminating.
+
+Responding to this, Media Minister Bandula Gunawardena said these workshops are being sponsored by UNTP's funds. There is no such discrimination shown. He said journalists have been invited.
+
+Interrupted Radhakrishnan, Nuwara Eliya Tamil journalists know Sinhala well. But, why?He asked the Tamil journalists to invite such activities.
+
+◼️
+
+[Data](articles/a59390a7.json)
+
+[Extended Data](ext_articles/a59390a7.ext.json)
+
+---
+
+### Request to use drinking water efficiently!
+
+*2024-02-20 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176819) · `ta`
+
+The National Water Supply and Drainage Board (WSDB) has announced a project to set up a salt barrier across the Kelani River due to the decrease in water level due to the prevailing drought.
+
+Accordingly, Deputy General Manager Anoja Kalu Arachchi said that the preliminary work is underway to construct the barrier.
+
+The drought weather in the country is prolonging and the consumption of water has increased. Therefore, he urged the public to use water efficiently.
+
+◼️
+
+[Data](articles/23f6d3c0.json)
+
+[Extended Data](ext_articles/23f6d3c0.ext.json)
+
+---
+
+### Indian farmers reject government offer and say they will carry on marching to New Delhi
+
+*2024-02-20 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97403/indian-farmers-reject-government-offer-and-say-they-will-carry-on-marching-to-new-delhi) · `en`
+
+Indian farmers who have been protesting for a week to demand guaranteed crop prices have rejected a proposal from the government, and say they will continue their march to the capital New Delhi.
+
+The protesting farmers began their march last week, but their efforts to reach the city have been blocked by authorities, who have used tear gas and heavily barricaded entry points into the capital to avoid a repeat of 2021 farmer protests when they camped on the outskirts for over a year.
+
+Late Monday night, farm leaders said they refused the government’s offer of a five-year contract for guaranteed prices for a set of crops, including pulses, maize and cotton.
+
+The government’s proposal made Sunday was “not in the interest of farmers,” Jagjit Singh Dallewal, one of the leaders spearheading the protest, told the Press Trust of India news agency.
+
+...
+
+[Data](articles/74566d94.json)
+
+[Extended Data](ext_articles/74566d94.ext.json)
+
+---
+
+### SC conveys determination on Anti-Terrorism Bill to Speaker
+
+*2024-02-20 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97402/sc-conveys-determination-on-anti-terrorism-bill-to-speaker-) · `en`
+
+The Supreme Court on Tuesday (20 Feb.) conveyed its decision on the much-disputed Anti-Terrorism Bill to Parliament Speaker Mahinda Yapa Abeywardena.
+
+Accordingly, the Supreme Court determined that while several clauses of the proposed legislation require to be passed by a special majority, several other provisions of the Anti-Terrorism Bill need to be passed by both, a special majority and a referendum, unless amendments recommended by the Supreme Court are carried out.
+
+On 02 February, the Supreme Court concluded the hearing of petitions filed challenging the government’s new Anti-Terrorism Bill following the lengthy proceedings that continued for six days in total.
+
+Thirty-one petitions had been put forward against the proposed legislation which seeks to replace the controversial Prevention of Terrorism Act (PTA).
+
+...
+
+[Data](articles/2b742de6.json)
+
+[Extended Data](ext_articles/2b742de6.ext.json)
+
+---
+
+### Life threat to the Minister of Public Safety and the Inspector General of Police
+
+*2024-02-20 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176825) · `ta`
+
+Ceylondew has reported that the Investigation Unit has received information on the plot against the Minister of Public Security Tran Ales, the Chancellor of the Reply.
+
+Cellondee said the two were targeted due to the leadership of the strategy.
+
+Cellondee reports that the people involved in the drug trade have paid a large sum of money to carry out the project.
+
+Cellondeh said that they use some politicians and officials who are influential to disrupt the power of the Chancellor of the Reply.
+
+Children's Public Security Minister responded that the Public Security Minister in response to the police chief is trying to use state officials - even diplomats - they are trying to use state officials - even diplomats.
+
+Cellondeh also said that the police are in the process of raising awareness about the dangers caused by gangs involved in crime to spread this information.
+
+◼️
+
+[Data](articles/bf15d4e5.json)
+
+[Extended Data](ext_articles/bf15d4e5.ext.json)
+
+---
+
+### Here is the Sri Lanka-Bangladesh match schedule
 
 *2024-02-20 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193605) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායමේ බංග්ලාදේශ තරග සංචාරයට අදාළ තරග කාලසටහන ශ්‍රී ලංකා ක්‍රිකට් ආයතනය ප්‍රකාශයට පත්කර තිබේ.
+Sri Lanka Cricket has announced the match schedule to the Bangladesh competition tour of the Sri Lankan team.
 
-ඒ අනුව එහිදී විස්සයි විස්ස තරග 3ක් සහ එක්දින තරග 3ක් පැවැත්වීමට නියමිතව ඇත.
+Accordingly, 3 Twenty20 matches and 3 ODIs will be held.
 
-තරගාවලියේ විස්සයි විස්ස තරග මාර්තු මස 4, 6 සහ 9 යන දිනවල පැවැත්වීමට නියමිත අතර එක්දින තරග මාර්තු මස 13,15 සහ 18 වනදා පැවැත්වෙනු ඇත.
+Twenty20 of the tournament will be held on March 4, 6 and 9, and the ODI will be held on March 13, 19 and 18.
 
-පළමු ටෙස්ට් තරගය ආරම්භ වන්නේ, මාර්තු 22 වනදා වන අතර දෙවන ටෙස්ට් තරගය මාර්තු 30 වනදා ආරම්භ වේ.
+The first test match begins on March 22, and the second test match begins on March 30.
 
-තරග සංචාරය පිළිබඳ ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් නික්තුකළ නිවේදනය පහතින්,
+The announcement made by SLC on tour visit is:
 
 ◼️
 
 [Data](articles/10160056.json)
+
+[Extended Data](ext_articles/10160056.ext.json)
 
 ---
 
@@ -88,6 +216,24 @@ The Department of Communications of Parliament has said that the Mosque will be 
 
 ---
 
+### The beginning of the parliamentary session;Debate tomorrow
+
+*2024-02-20 09:35:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-அமர்வு-ஆரம்பம்-நாளை-விவாதம்/175-333496) · `ta`
+
+Parliament will meet for three days this week and the adjournment debate on the proposal on the current situation in the country will be held tomorrow (21).
+
+The debate will be held tomorrow at 10.30 am to 05.30 pm.
+
+The Department of Communications of Parliament has said that the Mosque will be presented tomorrow on behalf of the late Minister of State Sanath Nishantha.
+
+◼️
+
+[Data](articles/76053200.json)
+
+[Extended Data](ext_articles/76053200.ext.json)
+
+---
+
 ### Iran's Foreign Minister arrived in the country
 
 *2024-02-20 09:33:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானின்-வெளிவிவகார-அமைச்சர்-நாட்டை-வந்தடைந்தார்/175-333495) · `ta`
@@ -103,6 +249,24 @@ It is noteworthy that Foreign Minister Taraka Balasuriya and a delegation were p
 [Data](articles/1c02ed01.json)
 
 [Extended Data](ext_articles/1c02ed01.ext.json)
+
+---
+
+### Iran's Foreign Minister arrived
+
+*2024-02-20 09:33:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-வெளிவிவகார-அமைச்சர்-வந்தடைந்தார்/175-333495) · `ta`
+
+Iran's Foreign Minister Hossein Amir Abdullah, a three -day official visit to Katunayake on Monday night (19), arrived at the Iranian government -owned IRAN 05.
+
+He was accompanied by 20 top officials of the country and they were visiting the country from Monday (19) to Wednesday (21).
+
+It is noteworthy that Foreign Minister Taraka Balasuriya, including the Minister of Foreign Affairs, welcomed the Iranian Foreign Minister and the group.
+
+◼️
+
+[Data](articles/7d76e0da.json)
+
+[Extended Data](ext_articles/7d76e0da.ext.json)
 
 ---
 
@@ -124,39 +288,43 @@ The Ministry of Health further stated that about 3,000 employees who are continu
 
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-02-20 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193604) · `si`
 
-නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+Parliamentary Business has commenced under the patronage of the Deputy Speaker.
 
-මෙම සතිය සඳහා පාර්ලිමේන්තුව දින 03ක් රැස්වීමට නියමිත අතර අද දිනයේ දී සුරක්ෂිත ලත් ගනුදෙනු, භාර ලදුපත් සංශෝධන, උකස් සංශෝධන, කල්බදු මූල්‍යකරණ සංශෝධන, සමාගම් සංශෝධන, ලේඛන ලියාපදිංචි කිරීමේ සංශෝධන යන පනත් කෙටුම්පත් දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+The Parliament will be held for three days for this week and the second reading of the bills will be held today, the second reading of the bills, amendments, and registration review of the documents.
 
-මේ අතර හෙට (21) දිනයේ දී රටේ වර්තමාන තත්ත්වය පිළිබඳ විපක්ෂය ගෙනඑන යෝජනාව අනුව සභාව කල්තැබීමේ විවාදයක් පැවැත්වීමට නියමිතව තිබේ.
+Meanwhile, according to the opposition opposition in the country tomorrow (21), the opposition is due to promote the church.
 
-එය හෙට පෙරවරු 10.30 සිට පස්වරු 05.30 දක්වා පැවැත්වීමට නියමිතය.
+It will be held from 10.30 am to 05 pm tomorrow.
 
-අනිද්දා දිනයේ දී අභාවප්‍රාප්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා වෙනුවෙන් ශෝකය පළකිරීමේ යෝජනාවක් ඉදිරිපත් කිරීමට නියමිත බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+The late day of State Minister Sanath Nishantha is to be presented to the late President Sanath Nishantha.
 
 ◼️
 
 [Data](articles/f308b039.json)
 
+[Extended Data](ext_articles/f308b039.ext.json)
+
 ---
 
-### අනෝා ගෙඩියක් අහුලා ගැනීමට ගිය පුද්ගලයෙක් ඇදවැටී මරුට
+### A man went to fall into a man to pick up Ano
 
 *2024-02-20 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193603) · `si`
 
-එලෙස මියගොස් ඇත්තේ, කිරින්ද, හොඬියාදෙණිය ප්‍රදේශයේ පදිංචිව සිටි 62 හැවිරිදි පුද්ගලයෙකි.
+The deceased has been identified as a 62 year old resident of Kirinda and Hostdeniya.
 
-මරණකරු ඊයේ (19) අනෝදා ගෙඩියක් අහුලා ගැනීමට යාමේදී එම ස්ථානයේ ඇති ගල් සහිත බෑවුමකට ඇද වැටී ඇති බවට අනාවරණය වී ඇත.
+It has been revealed that the deceased has fallen into a stone slope at that place while he was going to pick up a boundary yesterday (19).
 
-මෘත ශරීරය ගම්පොළ රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර ගම්පොළ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The body has been placed at the Gampola hospital morgue and Gampola police are conducting further investigations.
 
 ◼️
 
 [Data](articles/1ad2bf8e.json)
+
+[Extended Data](ext_articles/1ad2bf8e.ext.json)
 
 ---
 
@@ -182,35 +350,41 @@ Special guests were also present at the event.
 
 ---
 
-### ගුරු - විදුහල්පති පළමු උද්ඝෝෂණය අද මහනුවර දී
+### Teachers' Principal first agitation in Kandy today
 
 *2024-02-20 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193602) · `si`
 
-වැටුප් විෂමතාවය ඉවත් කිරීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් විරෝධතා ව්‍යාපාරයක් ආරම්භ කිරීමට ගුරු - විදුහල්පති වෘත්තීය සමිති තීරණය කර තිබේ.
+The Guru-Principal Trade Unions have decided to start a protest campaign with the removal of salary anomalies.
 
-එහි පළමු අදියර ලෙස අද (20) පස්වරුවේ මහනුවර නගරයේ උද්ඝෝෂණ ව්‍යාපාරයක් පැවැත්වීමට නියමිත බව ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා සඳහන් කළේය.
+The first stage of the Ceylon Teachers Union Joseph Stalin said that a campaign in Kandy will be held in Kandy this afternoon.
+
+"There is no program to promote the promotions of teachers and principals. They are in a serious crisis. When the principal returns to the Principal in Teacher Service, the stairs fall. Educational authorities have no attention to the total issues of the education system. Only discussion every day. Therefore, we start a massive agitation series today for the removal of teachers' salary issues. We start the first protest in Kandy at 2 pm. We clearly say we need to understand the message we give immediately. A demonstration of teachers, principals, teacher advisors to join all parties, pirivena teachers, under the Guru Pr Schools.. Immediately, if it should not be solved, various profession is focused in the future. "
 
 ...
 
 [Data](articles/8ee905fe.json)
 
+[Extended Data](ext_articles/8ee905fe.ext.json)
+
 ---
 
-### මල්වතු නාහිමිගෙන් දේශපාලඥයින්ට චෝදනා
+### Politicians accused from Malwatte Thera
 
 *2024-02-20 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193601) · `si`
 
-ජාතීන් අතර අසමගිය ඇතිකරනු ලබන්නේ දේශපාලනඥයින් බව මල්වතු පාර්ශවයේ මහ නායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නාහිමියන් පවසයි.
+The Malwathuwala Sumanakala Thera is the Chief Prelate of the Malwatte Chapse Chief Leader of the Malwathu Chapter The Chief Prelate of the Malwathu Chapter said.
 
-උන්වහස්සේ පෙන්වා දෙන්නේ, සහජීවනයෙන් ජීවත් වූ ජනතාව අතර ජාති, ආගම් ගැටුම් ඇති කිරීමට මූලිකත්වය ගනු ලැබුවේ බලලෝභී දේශපාලඥයින් බවය.
+He pointed out that he was the leading politicians to create race and religious conflicts among the people who lived in the coexistence.
 
-මෙරට සත්‍ය, සමගිය සහ ප්‍රතිසංධානය සඳහා වන කොමිෂන් සභාවේ නියෝජිතයින් පිරිසක් හමුවූ අවස්ථාවේ දී අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නාහිමියන් මේ බව සඳහන් කළේය.
+When met the actual, unity and reconciliation of the commission representatives of the country, said the Most Venerable Sewaya Sri Sumangala Thera.
 
-"ජාතික සමගිය ඇති වෙන්න නොයෙක් දේවල් කරද්දි මේ දේශපාලනඥයෝ නේ මේවා නැති කරන්නේ. සමගිය නැතිකරන්නේ ඒ අය. ආගමික සමගියක් ඇති කරන්න කියලා කතා කරනවා, කරන්නේ බේද. උත්සාහයක් ගත්තත් සාර්ථක ප්‍රතිඵල ලැබෙයිද කියන එකයි මේ වගේ අන්තගාමී අය නිසා. පාලකයන්ගේ උනන්දුවක් තියෙන්න ඕනේ. අද තියෙන්නේ ගස්, ගල්වලට කියනවා වගේ. වැඩක් නෑ. විධායක ජනාධිපති ධුරය අහෝසි කරන්න කතා කළේ කොයි කාලේ ද? 2012 දී ද කොහෙද? දැන් 2024 ඕවා කියලා වැඩක් නෑ. දේශපාලනඥයෝ හැමදාම මිනිස්සු රවට්ටනවා. ඡන්ද බලාපොරොත්තුවනේ තියන්නේ රට දියුණු කරන බලාපොරොත්තුවක් නෑ."
+"These politicians lose these when they do many things to be unity.. Those who will be lost in harmony. Speaking to build religious unity,. Because of these extremists, it will be a success but will be successful. The rulers have to be interested. Today's trees, like to tell the stones. No work. When was it when you spoke to abolish the executive presidency?Where is in 2012?Now there is no need for 2024. Politicians always deceive people. There is no hope in the election. "
 
 ◼️
 
 [Data](articles/e543c773.json)
+
+[Extended Data](ext_articles/e543c773.ext.json)
 
 ---
 
@@ -599,6 +773,24 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/29dd46c0.json)
 
 [Extended Data](ext_articles/29dd46c0.ext.json)
+
+---
+
+### The Department of Education is digital
+
+*2024-02-20 04:34:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வித்துறை-டிஜிட்டல்-மயமாகும்/175-333488) · `ta`
+
+Education Minister Dr. Susil Premajayant said that the pioneering program for digitalization of the education sector has been launched in March.
+
+He was speaking at a press conference held at the Presidential Media Center yesterday.
+
+Arrangements have been made to launch a pioneering program to digitize the education sector in March. Microsoft supports the teachers for that. (A)
+
+◼️
+
+[Data](articles/85e9af8b.json)
+
+[Extended Data](ext_articles/85e9af8b.ext.json)
 
 ---
 
@@ -1869,187 +2061,5 @@ He said that the UPFA had previously been prepared in elections and that they ha
 [Data](articles/45f2483e.json)
 
 [Extended Data](ext_articles/45f2483e.ext.json)
-
----
-
-### We are your biggest fans - Elizabeth
-
-*2024-02-19 19:32:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-உங்களது-மிகப்பெரிய-ரசிகர்கள்-எலிசபெத்/175-333470) · `ta`
-
-The event of the Sri Lankan newspaper establishment took place today under the theme of “global media spreading and its impact on democracy”.
-
-Deputy Secretary of State for Public Relations, Elizabeth Alan, delivered the speech.
-
-It is fantastic to be here with everyone today. And the Ambassador Sung, thank you for your leadership representing the American people in Sri Lanka.
-
-· Thanks to the Sri Lankan newspaper, I'm glad I am here today. The dedication you have in the craft of journalism is very encouraging.
-
-· Know This: The US Embassy fully supports the immense task you do. Of course, even though we are from time to time, we are your biggest fans, beyond all of them.
-
-Since we believe that you have the right to continue the journalism freely and without fear, we are all involved in the programs to sharpen your talents.
-
-· I stand in a room full of journalists, to protect the rights and freedoms of journalists from Sri Lanka and around the world, and all citizens open their ideas and thoughts
-
-...
-
-[Data](articles/c4d433e7.json)
-
-[Extended Data](ext_articles/c4d433e7.ext.json)
-
----
-
-### If Sanath Nishantha, I will not
-
-*2024-02-19 19:15:57* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-හිටියනම්-මට-මෙහෙම-වෙන්නේ-නෑ/11-408180) · `si`
-
-"If Mr. Sanath Nishantha had been living, I would not happen to me if he had been living. I lost my job. Prabath Eranga Dulnesha, who was the driver of the former Water Supply of Water Supply.
-
-He said so when the case was taken up at Keragalapitiya
-
-Dulnesha, who appeared to be discontinued by the incident, Dulnesha, who appeared to be dissatisfied with the incident, Dulnesha, who appeared to be dissatisfied to Dulnesha, was told in the heartbeat court.
-
-Dulnasha appeared in court when the case was taken up at the container driver of Mr. Sanath Nishantha when the case was taken up at the car.
-
-The officers of the Kandana Police who were produced in the court regarding the progress of the investigations have been sent to the DIG's inquiries regarding the progress of the fatal accident.
-
-The officials of the Kandana Police have informed the court that action will be taken to inform the court on the next step after receiving the instructions of the DIG.
-
-...
-
-[Data](articles/273f4441.json)
-
-[Extended Data](ext_articles/273f4441.ext.json)
-
----
-
-### Members of Parliament of Kadawatha Mahamaiah College
-
-*2024-02-19 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176801) · `ta`
-
-The first session of the student parliament of Kadawatha Mahamaiah Ladies College was held on Monday (19) at the Presidential Office. Following this, the students had the opportunity to hold a meeting with President Ranil Wickremesinghe.
-
-At the time of the Cabinet meeting held at the Presidential Office, the President took the students there and explained to them what the cabinet is, its structure and functioning.
-
-A special feature is that the school students have the opportunity to discuss the first time with the president, which is the main place where the country's major decisions are made.
-
-The President also made clear the responsibilities, tasks and the responsibilities of the Cabinet for the students who hold ministry posts in the student parliament.
-
-The President also highlighted the need for the future generation of the country to be well aware of the state administration structure. The ministers were also present at the Cabinet meeting.
-
-...
-
-[Data](articles/1a6c3bde.json)
-
-[Extended Data](ext_articles/1a6c3bde.ext.json)
-
----
-
-### Murder suspect remanded again
-
-*2024-02-19 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193587) · `si`
-
-The suspect, who was remanded that a music teacher who was resident of Wijerama Mawatha, Colombo 07, he ordered the Chief Magistrate Prasanna Alwis to be remanded until March 4.
-
-The 52-year-old suspect, a resident of Dematagoda, is an unmarried laborer and a clean plantation of estates.
-
-The suspect had gone to the court on the 15th of December.
-
-◼️
-
-[Data](articles/dc364a1b.json)
-
-[Extended Data](ext_articles/dc364a1b.ext.json)
-
----
-
-### Kotakethana mother and daughter killer death sentenced to death
-
-*2024-02-19 18:52:34* · [`adalk`](https://www.ada.lk/breaking_news/කොටකෙතන-මව-හා-දියණිය-ඝාතනයේ-ඝාතකයාට-මරණ-දඩුවම/11-408179) · `si`
-
-Thamma High Court Judge Lanka Jayaratne sentenced the death sentence convicted of murdering a mother and daughter in Ratnapura and murder of women in the Kotakaignathana area in Ratnapura.
-
-The Judge sentenced the loss of flesh to the accused by the President and the accused by the President was to be hanged at the Welikada Prison on a time when the flesh was extinguished and implemented in the court.
-
-Dhamma Exustendaristant This is the defense of DNA. The judge, who was devoted by Lakamali Karunanayake, who was led by the Attorney General, has concluded that the complaint has been proved by the Attorney General.
-
-After the 147-page decision, the judge was sentenced to two hours after the judiciary of the judiciary.
-
-Death of Deadaragans, a neighborhood of Deadaraga Jayalathna, was sentenced to death in the Kotakization of Kotakawe Ratnapura, aimed at the guilty of women's double murder in Ratnapura.42) The father of four.
-
-...
-
-[Data](articles/4005ea5c.json)
-
-[Extended Data](ext_articles/4005ea5c.ext.json)
-
----
-
-### Champika Ranawaka bemoans sexual harassment of Russian tourist on beach
-
-*2024-02-19 18:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Champika-Ranawaka-bemoans-sexual-harassment-of-Russian-tourist-on-beach/108-277332) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - United Republican Front (URF) leader Patali Champika Ranawaka said the recent incident involving the alleged harassment of Russian tourists at a beach hotel in Sri Lanka is deeply regrettable and unacceptable.
-
-In a statement, he said Sri Lanka and Russia have enjoyed longstanding and strong diplomatic relationships, built on mutual respect and cooperation. Such incidents tarnish the reputation of both countries and undermine the goodwill that exists between them.
-
-"As a party, we strongly urge the government to take immediate and decisive action to investigate into the matter thoroughly and apprehend the culprits responsible for the harassment. It is essential that justice is served swiftly and that the guilty parties face the maximum punishment under the law, if found culpable.
-
-...
-
-[Data](articles/8aee2c47.json)
-
-[Extended Data](ext_articles/8aee2c47.ext.json)
-
----
-
-### Does Shiranthi are given a allowance and pension?
-
-*2024-02-19 18:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷிரந்திக்கு-கொடுப்பனவு-மற்றும்-ஓய்வூதியம்-வழங்கப்படுகின்றதா/175-333469) · `ta`
-
-Former President Mahinda Rajapaksa's office today denied the allegation of a Buddhist monk alleging that government payments and pensions have been allocated to former first woman Shiranthi Rajapaksa.
-
-Dammaratne Thera, the prime minister of the Rajamaha Vihara of Mihintale, has recently said that the former first woman has been receiving many pension and government allowances.
-
-In response to the allegations, the former president's office has stated that the Dhammaratana Thera has stated that it is based on unconfirmed information and therefore these claims are being severely rejected.
-
-◼️
-
-[Data](articles/f2d3980c.json)
-
-[Extended Data](ext_articles/f2d3980c.ext.json)
-
----
-
-### Special committee to consider the proposals of the Health Trade Trade Trade Trade Trade Trade Trade Trade Trade Trade
-
-*2024-02-19 18:37:56* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-වෘත්තිය-සමිති-සන්ධානයේ-යෝජනා-සළකා-බැලීමට-විශේෂ-කමිටුවක්/11-408178) · `si`
-
-Health and Industry Minister Dr. Ramesh Pathirana and Health Trade Union Alliance held at the Ministry of Health today (19).
-
-The Health Minister said that the Ministry of Health is the Ministry of Health to provide a proposal to the Ministry of Health and the Ministry of Health Trade Trade Tractory Requests and to provide a proposal to the Ministry of Health Training and the Ministry of Health..
-
-Appointment of the Health Training Workers Alliance (Health Training Joint UPFA) was proposed to appoint a special committee with the Health Trade Trade Youth Representatives to take further action.. The Health Minister said the committee expedited the committee expeditiously to the committee to be held tomorrow (20) at 3.00 pm.
-
-The trade union representatives said that the current Minister of Health is working on intersection and that it is very appreciated by the Minister of Health. They also showed that the Minister always responds to the professional demands and to give equality.
-
-...
-
-[Data](articles/cdfe460a.json)
-
-[Extended Data](ext_articles/cdfe460a.ext.json)
-
----
-
-### To Afghanistan to advantage
-
-*2024-02-19 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193586) · `si`
-
-The Afghan leader won the toss and win the second Twenty Second Twenty Second Twenty Second Twenty Second Twenty III.
-
-◼️
-
-[Data](articles/2069b29c.json)
-
-[Extended Data](ext_articles/2069b29c.ext.json)
 
 ---

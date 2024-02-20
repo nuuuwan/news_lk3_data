@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 05:02:38**
+As of **2024-02-21 05:17:22**
 
 ## Newspaper Stats
 
-*Scraped **8,337** Articles*
+*Scraped **8,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 156
 newsfirstlk | 363
 economynextcom | 429
 islandlk | 434
-dailyftlk | 444
+dailyftlk | 450
 adalk | 712
 adaderanalk | 1,007
 tamilmirrorlk | 1,028
@@ -26,11 +26,111 @@ dailymirrorlk | 1,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,337 (100.0%) of 8,337 articles have been extended.
+8,337 (99.9%) of 8,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Phoenix Industries launches new collection 2024
+
+*2024-02-21 04:51:01* · [`dailyftlk`](https://www.ft.lk/business/Phoenix-Industries-launches-new-collection-2024/34-758697) · `en`
+
+Phoenix Industries, a top Sri Lankan household product brand, unveiled its innovative new product line for 2024 at their Battaramulla Showroom on 1 February. The range sets a new standard in quality, style, and every day-use product design.
+
+...
+
+[Data](articles/1f584df7.json)
+
+---
+
+### AKD highlights historic alliances shift as political figures unite against NPP
+
+*2024-02-21 04:36:20* · [`dailyftlk`](https://www.ft.lk/news/AKD-highlights-historic-alliances-shift-as-political-figures-unite-against-NPP/56-758695) · `en`
+
+Claims attempts are being made to form Ranil - Sajith alliance despite friction between duo
+
+Notes that an alliance consisting of all major political leaders is now being formed against NPP
+
+Says regardless of who forms an alliance and unites, their efforts will not succeed against NPP
+
+Stresses any attempt by President to postpone polls would only hasten his departure
+
+Says India’s invitation to NPP underscores support it garners from citizens in SL
+
+National People’s Power (NPP) leader Anura Kumara Dissanayake recently downplayed President Ranil Wickremesinghe’s political acumen, stating that Wickremesinghe’s ascension to the presidency was not due to exceptional cunning or intellect.
+
+...
+
+[Data](articles/734bfe76.json)
+
+---
+
+### Eran questions Speaker under point of order
+
+*2024-02-21 04:34:56* · [`dailyftlk`](https://www.ft.lk/news/Eran-questions-Speaker-under-point-of-order/56-758694) · `en`
+
+Main Opposition SJB Parliamentarian Eran Wickramaratne yesterday questioned the Speaker by raising a question under the standing orders, whether the Constitutional Assembly, which has been established as an independent institution, has approved the rules for approving Bills adhering to proper methods.
+
+He also questioned whether the Secure Transactions Bill, which was taken for debate in Parliament, was referred to the Consultative Council (CC) of the concerned Ministry and received its approval.
+
+In the recent past when Parliament hastily passed online security Act, there was no required oversight committee report for it. Therefore, this question is especially directed because when an act is passed, it should be done constitutionally and in accordance with standing orders, he said
+
+...
+
+[Data](articles/409ca46b.json)
+
+---
+
+### Bandula asserts sovereignty amid US concerns over Online Safety Act
+
+*2024-02-21 04:33:38* · [`dailyftlk`](https://www.ft.lk/news/Bandula-asserts-sovereignty-amid-US-concerns-over-Online-Safety-Act/56-758693) · `en`
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday reaffirmed Sri Lanka’s sovereignty and legislative authority in response to concerns raised by the US regarding the recently passed Online Safety Act.
+
+“Sri Lanka is not a State of the US but a sovereign country with the legislative power to enact laws for the country’s governance,” he said in response to a query posed at the post-Cabinet meeting media briefing.
+
+The comments came in the wake of expressions of concern from the US Ambassador in Colombo and US Under Secretary of State for Public Diplomacy Elizabeth Allen regarding the potential impact of the proposed amendments on freedom of expression, innovation and privacy.
+
+Co-Cabinet Spokesman Gunawardena assured that any amendments to the legislation would undergo Parliamentary scrutiny and the civil society organisations opposed to the legislation would have the opportunity to challenge it within the 14-day timeframe.
+
+...
+
+[Data](articles/2fb0d858.json)
+
+---
+
+### Iran and Sri Lanka to expand development cooperation, trade and investment
+
+*2024-02-21 04:32:20* · [`dailyftlk`](https://www.ft.lk/news/Iran-and-Sri-Lanka-to-expand-development-cooperation-trade-and-investment/56-758692) · `en`
+
+Prime Minister Dinesh Gunawardena and visiting Iranian Minister of Foreign Affairs Hossein Amir-Abdollahian yesterday held discussion on expanding close bilateral ties and development cooperation, trade and investment.
+
+The Prime Minister thanked Iran for the assistance provided for the Uma Oya hydro-electricity project which will add an additional 120 megawatts of power to the electricity grid. The Uma Oya Project, in addition to generation of electricity, provides 145 million cubic meters of water to irrigate 50,000 acres of dry land.
+
+Expressing satisfaction over the successful project, the Iranian Foreign Minister said Iran is keen to collaborate with Sri Lanka on future projects using their expertise on energy, water, agriculture, nanotechnology, pharmaceuticals and biotechnology.
+
+...
+
+[Data](articles/68de28cd.json)
+
+---
+
+### Some sections of Anti-Terrorism Bill inconsistent with Constitution: Supreme Court
+
+*2024-02-21 04:30:49* · [`dailyftlk`](https://www.ft.lk/news/Some-sections-of-Anti-Terrorism-Bill-inconsistent-with-Constitution-Supreme-Court/56-758691) · `en`
+
+The Supreme Court has informed the Speaker of Parliament that some sections of the proposed Anti-Terrorism Bill are inconsistent with the Constitution and should be approved with a special majority and through a referendum.
+
+Deputy Speaker Ajith Rajapaksa announced yesterday that Sections 3, 40, 53 and 70 are inconsistent with the Constitution and should be approved by a two thirds majority and through a referendum.
+
+However, the court has further stated that it could be passed by a simple majority if the recommended amendments are accommodated.
+
+◼️
+
+[Data](articles/bc3d93e7.json)
+
+---
 
 ### Mano's child will cry if the child asks the spiral;Life
 
@@ -1825,135 +1925,5 @@ Parliament, Feb. 20 (Daily Mirror)- State Minister of Finance Ranjith Siyambalap
 [Data](articles/abc68868.json)
 
 [Extended Data](ext_articles/abc68868.ext.json)
-
----
-
-### Dr. Bellana says ready to resign if transferred from NHSL
-
-*2024-02-20 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97407/dr-bellana-says-ready-to-resign-if-transferred-from-nhsl) · `en`
-
-The Deputy Director of the National Hospital of Sri Lanka (NHSL) Dr. Rukshan Bellana has stated that he is ready to resign at any moment, if required.
-
-Speaking at a press conference on Tuesday morning (20 Feb.), Dr. Bellana explained that if he is transferred from his current post, as demanded by the junior staff of the Colombo National Hospital, he is willing to resign.
-
-Dr. Bellana further accused the Ministry of Health and high-ranking officials within the health sector of having adapted to an ‘easy administration’ policy, within which crucial decisions are taken solely based on ‘the power of voices’.
-
-On 17 February, the junior staff of the Colombo National Hospital warned that they will continue their protests until the hospital’s Deputy Director Dr. Rukshan Bellana is removed from his position.
-
-...
-
-[Data](articles/c35e4bda.json)
-
-[Extended Data](ext_articles/c35e4bda.ext.json)
-
----
-
-### Protect from severe sun
-
-*2024-02-20 13:10:09* · [`adalk`](https://www.ada.lk/breaking_news/දැඩි-අව්-රශ්මියෙන්-ආරක්ෂා-වෙන්න/11-408192) · `si`
-
-Dr. Hema Weerakoon said that the dry weather conditions are very unhealthy these days to be able to drink as much as possible, Dr. Hema Weerakoon said.
-
-She also informed the use of a sacred cream to be used to use a shrine or mouth.
-
-Dr. Hema Weerakoon is essential to the body of the cucumber watermelons and the larger of the water in the water or the day.
-
-As a result of the righteous sun, as children are adversely adjusted to the sports activities of the schools, why children have been adjusted to the grit.
-
-She was informed that the skin diseases are being spreading in the face of the existing weather.
-
-She said that this is the reason why the ozone layers have been destroyed by the ozone layers due to overwhelming corruption.
-
-The doctor requests the public to use health protection techniques in the essentials, as it can cause excessive workplace to be exposed to the daytime.
-
-◼️
-
-[Data](articles/41b57e8d.json)
-
-[Extended Data](ext_articles/41b57e8d.ext.json)
-
----
-
-### Sri Lanka embarkation tax on ferry services cut: Corrected
-
-*2024-02-20 13:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-embarkation-tax-on-ferry-services-cut-corrected-151586/) · `en`
-
-ECONOMYNEXT – The embarkation tax o ferry service between Sri Lanka and India will be brought down from 60 dollars to 5 dollars, Cabinet spokesman Bandula Gunawardena has said.
-
-“The embarkation tax for ferry service will be reduced to 5 dollars, and the fee for other vessels will be brought down to 20 dollars,” Minister Gunawardena said at the Cabinet decisions press briefing on Tuesday.
-
-The move would boost travel between Sri Lanka and India, he said.
-
-“Reducing the cost of ferry and ship services drastically will encourage more visitors.
-
-A ferry service from Nagapattinam in India and Kankesanthurai (KKS) in Sri Lanka’s Jaffna peninsula was launched last October, boosting people-to-people links between the two countries. (Colombo/Feb20/2024)
-
-India to Sri Lanka ferry service launched, second route planned
-
-◼️
-
-[Data](articles/299050bc.json)
-
-[Extended Data](ext_articles/299050bc.ext.json)
-
----
-
-### Electricity
-
-*2024-02-20 13:04:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டணம்-பற்றி-எடுக்கப்பட்டுள்ள-தீர்மானம்/175-333515) · `ta`
-
-Electricity and Energy Minister Kanjana Wijesekera said that the electricity bill is expected to be reduced more than the previous amount.
-
-The Minister also said that the proposal in this regard would be submitted to the Commission and decided on it.
-
-◼️
-
-[Data](articles/1f9ead78.json)
-
-[Extended Data](ext_articles/1f9ead78.ext.json)
-
----
-
-### I will retire if relocating
-
-*2024-02-20 13:01:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடமாற்றம்-வழங்கினால்-ஓய்வு-பெறுவேன்/175-333514) · `ta`
-
-Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellan, said he was ready to retire at any time.
-
-“Such disruption is done in the process of the public welfare. If I listen to the demands of the employees and transfer me to me, I will be retired. ”
-
-◼️
-
-[Data](articles/262f9222.json)
-
-[Extended Data](ext_articles/262f9222.ext.json)
-
----
-
-### Wedilla in the land
-
-*2024-02-20 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193613) · `si`
-
-The CCTV camera is recorded in a CCTV camera as a shot of shooting in Borella.
-
-Munatara Gunasekera, a drug dealer and underworld gang member, has been shot dead at night.
-
-Borella was shooting at 10 and 10 to 10 pm in apartment complex at Ananda Rajakarawa Mawatha.
-
-The shooting was shot with a 9mm square firearm.
-
-The injured in the shooting was admitted to the Colombo National Hospital.
-
-A man was written as a member of the Trifle Based Drugsara and organized criminal crimes.
-
-He was arrested by the coastal police in connection with drug trafficking and remanded and released on bail last 5.
-
-The police said that Wennaathiges were also a person who had come to the apartment for a few days ago.
-
-◼️
-
-[Data](articles/34697f83.json)
-
-[Extended Data](ext_articles/34697f83.ext.json)
 
 ---

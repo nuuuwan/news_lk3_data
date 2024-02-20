@@ -1,36 +1,94 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 13:02:36**
+As of **2024-02-20 13:17:27**
 
 ## Newspaper Stats
 
-*Scraped **8,214** Articles*
+*Scraped **8,223** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 90
 bbccomsinhala | 102
-dbsjeyarajcom | 154
+dbsjeyarajcom | 156
 newsfirstlk | 363
 economynextcom | 421
 islandlk | 434
 dailyftlk | 444
-adalk | 699
-adaderanalk | 995
-tamilmirrorlk | 1,004
-virakesarilk | 1,105
+adalk | 700
+adaderanalk | 996
+tamilmirrorlk | 1,005
+virakesarilk | 1,108
 adaderanasinhalalk | 1,197
-dailymirrorlk | 1,206
+dailymirrorlk | 1,207
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,214 (100.0%) of 8,214 articles have been extended.
+8,214 (99.9%) of 8,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### N’Eliya Road Passenger Transport Authority officials arrested for accepting bribe
+
+*2024-02-20 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97406/neliya-road-passenger-transport-authority-officials-arrested-for-accepting-bribe-) · `en`
+
+The District Manager and Management Assistant of the Nuwara Eliya Road Passenger Transport Authority have been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Accordingly, the suspects were arrested by the CIABOC for allegedly soliciting a bribe of Rs. 30,000 to change a bus owner’s route permit.
+
+◼️
+
+[Data](articles/d8b8900e.json)
+
+---
+
+### சுகாதார அமைச்சும் உயர் அதிகாரிகளும் இன்று வாய்மொழியாக நிர்வாகம் செய்கிறார்கள் என்கிறார் வைத்தியர் பெல்லன!
+
+*2024-02-20 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176853) · `ta`
+
+எந்த நேரத்திலும் ஓய்வு பெறத் தயார் என கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்க்ஷான் பெல்லான தெரிவித்துள்ளார்.
+
+இன்று செவ்வாய்க்கிழமை (20) காலை இடம்பெற்ற  ஊடகவியலாளர் மாநாட்டிலேயே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+இன்றையதினம் சுகாதார அமைச்சும் சுகாதாரத்துறை உயர் அதிகாரிகளும் வாய்மொழியாக நிர்வாகம் செய்கிறார்கள். இவ்வாறான ஒரு சூழ்நிலையிலேயே நான் பணியாற்றினேன்.  இந்நிலையில் நான்      ஓய்வு பெற தயாராக இருக்கிறேன் என்றார்.
+
+◼️
+
+[Data](articles/094c2145.json)
+
+---
+
+### சர்வதேச சமூக நீதி தினத்தில் நுவரெலியாவில் உரிமை கோரி போராட்டம்
+
+*2024-02-20 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176852) · `ta`
+
+ஒவ்வொரு ஆண்டும்  பெப்ரவரி மாதம் 20 திகதி “உலக சமூக நீதி தினமாக” அனுசரிப்பது என்று தீர்மானிக்கப்பட்டு 2009-ம் ஆண்டு முதல் கடைப்பிடிக்கப்பட்டு வருகிறது. அந்த வகையில் தமிழர்களின் உரிமைகளை உள்ளடக்கிய சில முக்கிய கோரிக்கைகளை முன்வைத்து செவ்வாய்கிழமை (20) நுவரெலியா பிரதான தபால் நிலையத்துக்கு முன்பாக கண்டனப் போராட்டம் மேற்கொள்ளப்பட்டது.
+
+நுவரெலியா மாவட்ட அபிவிருத்தி மன்றங்களின் ஒன்றியம், சமூக அபிவிருத்தி மன்றங்களின் ஒன்றியம், கண்டி சமூக நிர்வாகத்தின் ஒன்றியங்கள் இணைந்து நுவரெலியா, பதுளை, கண்டி போன்ற பகுதிகளிலிருந்து வருகை தந்தவர்கள் மற்றும் இளைஞர்கள் யுவதிகள் என இன மத கட்சி பேதமின்றி நுவரெலியாவில் ஒன்றுகூடியவர்கள் சர்வதேச நீதி தினத்தில் தமது கோரிக்கை அடங்கிய வசனங்கள் பொறிக்கப்பட்ட பதாதைகளை ஏந்தியவாறும் கோசங்களை எழுப்பியும் குறித்த போராட்டத்தில் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/59b3910f.json)
+
+---
+
+### இந்திய மீனவர்களின் அத்து மீறலைக் கண்டித்து யாழ் மாவட்ட கடற்தொழிலாளர்கள் ஆர்ப்பாட்டம் !
+
+*2024-02-20 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/176851) · `ta`
+
+இந்திய மீனவர்களின் எல்லை தாண்டிய அத்துமீறிய மீன்பிடி தொடர்ச்சியாக அதிகரித்து வரும் நிலையில் தமக்கான தீர்வை பெற்றுத் தருமாறு கோரி யாழ்ப்பாண இந்திய துணை தூதரகத்திற்கு முன்னாள் உள்ள வீதியில் மீனவ அமைப்புகள் செவ்வாய்க்கிழமை (20) போராட்டத்தில் ஈடுபட்டுள்ளன.
+
+இதேவேளை, போராட்டத்தில் ஈடுபட்டவர்களில் சிலரை இந்தியத் தூதரகத்தின் அதிகாரிகள் அழைத்து பேச்சுவார்த்தையில் ஈடுபட்டுள்ளதாக எமது அலுவல செய்தியாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/8da22a41.json)
+
+---
 
 ### July Chang worried about the online bill
 
@@ -100,6 +158,24 @@ Some websites are publishing advertisements on this.
 
 ---
 
+### Former Maldives State Minister and 16 others released from case
+
+*2024-02-20 11:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Maldives-State-Minister-and-16-others-released-from-case/108-277395) · `en`
+
+Colombo, Feb 20 (Daily Mirror) - Former Maldives State Minister of Finance Mohamed Ashmalee and 16 other suspects have been released from the magisterial inquiry relating to the alleged sexual exploitation of a 15-year old girl in 2021.
+
+Colombo Additional Magistrate Keminda Perera ordered the release of 17 suspects including former Maldives State Minister of Finance, former Deputy Chairman of the Mihintale Pradeshiya Sabha and a cardiologist from the magisterial inquiry upon receiving the Attorney General's advice.
+
+The Attorney General has instructed to release these suspects from the case since he does not intend to proceed with legal action against them due to insufficient evidence.
+
+The Police Children and Women's Bureau launched an investigation into the suspects under the Penal Code for procuring an underage girl for prostitution and human trafficking.
+
+◼️
+
+[Data](articles/59ccd466.json)
+
+---
+
 ### Struggle for the 3rd day in Tamil Nadu
 
 *2024-02-20 11:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-3வது-நாளாகவும்-போராட்டம்/175-333510) · `ta`
@@ -119,6 +195,28 @@ Tamil Nadu Chief Minister MK Stalin has written to the central government to tak
 [Data](articles/a3e2aa7c.json)
 
 [Extended Data](ext_articles/a3e2aa7c.ext.json)
+
+---
+
+### අධ්‍යාපනය ඩිජිටල්කරණ නියමු ව්‍යාපෘතිය මාර්තු්තුවේ
+
+*2024-02-20 11:53:13* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපනය-ඩිජිටල්කරණ-නියමු-ව්‍යාපෘතිය-මාර්තු්තුවේ/11-408188) · `si`
+
+අධ්‍යාපනය ඩිජිටල්කරණය සඳහා වන නියමු ව්‍යාපෘතිය මාර්තු මාසයේ දී ආරම්භ කිරීමට කටයුතු යොදා තිබෙන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+
+2024 වසරට අදාළ පාසල් පෙළ පොත් බෙදාහැරීම සඳහා යොමු කර අවසන් බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා මෙසේ ද පැවසීය,
+
+2024 වසරට අදාළ පාසල් පෙළ පොත් මේ වන විට 100%ක් පර්යන්ත වෙත යවා අවසන් කර තිබෙනවා. එය පාසල් මට්ටමින් බෙදාහැරීමේ කටයුතු මාර්තු මස පළමු වනදා වන විට අවසන් කිරීමට කටයුතු යොදා තිබෙනවා. ඒ සඳහා වැය කර ඇති මුදල රුපියල් මිලියන 12,000ක් වනවා.
+
+ඒ වගේම පාසල් ළමුන්ගේ නිල ඇඳුම් සඳහා අවශ්‍ය රෙදි ප්‍රමාණයෙන් 80%ක ප්‍රමාණයක් එනම් රුපියල් බිලියන 05ක් වටිනා රෙදි තොගයක් චීන ආණ්ඩුවේ අනුග්‍රහය යටතේ අපට ලැබී තිබෙනවා. එහි බෙදා හැරීමේ කටයුතු මේ දිනවල සිදුවෙමින් පවතිනවා. ඒ වගේම ඉතිරි 20% හෙට දිනයේ ලැබීමට නියමිතයි.
+
+...
+
+[Data](articles/77218ab9.json)
 
 ---
 
@@ -1132,6 +1230,24 @@ The Borella police have launched further investigations as the suspects have not
 
 ---
 
+### பொரளையில்  துப்பாக்கிச்சூடு
+
+*2024-02-20 07:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளையில்-துப்பாக்கிச்சூடு/175-333491) · `ta`
+
+பொரளை மகசின் சிறைச்சாலைக்கு முன்பாக உள்ள அடுக்குமாடி குடியிருப்புக்கு அருகில் நேற்று இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பொரளை ஆனந்த ராஜகருணா மாவத்தையில் அமைந்துள்ள சொகுசு அடுக்குமாடி குடியிருப்புக்கு முன்பாக மோட்டார் சைக்கிளில் வந்த துப்பாக்கிதாரி ஒருவரே துப்பாக்கிச் சூடு நடத்தியதாக அவர்கள் தெரிவித்தனர்.
+
+இவர் கடந்த சில நாட்களுக்கு முன்னர் விளக்கமறியலில் இருந்து பிணையில் விடுவிக்கப்பட்டவர் என தெரிவிக்கப்படுகிறது.
+
+சந்தேகநபர்கள் இதுவரை அடையாளம் காணப்படாத நிலையில் பொரளை பொலிஸார் மேலதிக விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+◼️
+
+[Data](articles/cb3b5711.json)
+
+---
+
 ### Another mysterious women's death
 
 *2024-02-20 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193600) · `si`
@@ -1822,6 +1938,58 @@ Relatives, especially widowed mothers of the victims of the enforced disappearan
 
 ---
 
+### Memories of Interacting with Upali Wijewardene as a Journalist.
+
+*2024-02-20 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83632) · `en`
+
+Today (Feb 17) is the birthday of Sri Lanka’s popular business magnate Philip Upali Wijewardene. If Upali Wijewardene  were among the living now, he would have celebrated his 86th birthday this year.  Alas, this was not to be as the Lear Jet he was travelling in  disappeared on 13 February 1983  just 4 days before his 45th birthday .
+
+It was my privilege to be associated with Upali Wijewardene slightly and briefly during the years 1978 to 1983. As a journalist on the Tamil Daily “Virakesari” I covered the Greater Colombo Economic Commission (GCEC) or “free trade Zone” from 1978 to 1981. Upali was the first Director -General of the GCEC.
+
+Later in 1981 I began working as a staff reporter on the English daily “The Island” published by Upali newspapers Ltd of which he was the proprietor. I was at “The Island” in 1983 when Upali went missing 41 years ago .The Island of Tuesday, February 15 broke the sad news with a banner headline “Plane carrying Upali Wijewardene feared lost.”
+
+...
+
+[Data](articles/665b4fb4.json)
+
+[Extended Data](ext_articles/665b4fb4.ext.json)
+
+---
+
+### In a development unprecedented in Sri Lankan politics, both electoral front runners the JVP and SJB are going out of their way to woo the most Sinhala-Buddhist supremacist institutions in the country.
+
+*2024-02-20 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83643) · `en`
+
+“…it is not the elimination of racialism or nationalism that we want in this world today; it is the harmonisation of nationalism and racialism for future progress.” Speech during the debate of The Citizenship Act
+
+The news barely made the news. Defence secretary (retired) General Kamal Gunaratne and Army Commander General Vikum Liyanage were ordered by the Parliamentary Privileges Committee to apologise to parliamentarian Chandima Weerakkody.
+
+Last October, the two generals threatened Mr. Weerakkody inside the parliament at a meeting of the sectoral oversight committee on national security. During a discussion on downsizing the military, Mr Weerakkody deplored the wasteful expenditure of the top brass.
+
+...
+
+[Data](articles/1d4b0a60.json)
+
+[Extended Data](ext_articles/1d4b0a60.ext.json)
+
+---
+
+### Sriyani Hulugalle’s Novelette  ‘Shadows of Hantana’: A romantic experience for readers
+
+*2024-02-20 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83650) · `en`
+
+Former World Bank senior economist and novelist, Sriyani Hulugalle, has published her latest novelette in Sinhala under the title ‘Shadows of Hantana’, a story she had penned when she was at the University of Peradeniya in the 1970s.
+
+This is her third published creative work, the previous two being ‘Beyond the Rainbow’ and ‘Cherry Blossoms’. Contrary to these two works, the present work which she had written when she was passing her teenage years is a romantic novel peeping into the depth of love, sacrifice, and betrayal.
+
+Hulugalle has written this story at a time when Sri Lanka’s Sinhala romantic novels had been heavily influenced by the genre introduced by Karunasena Jayalath through his ‘Golu Hadawatha’ (The Silent Heart) in 1960s and a series of subsequent works written by him and many others on the same theme.
+
+...
+
+[Data](articles/a991c876.json)
+
+---
+
 ### The UPI revolution: Cashless digitised economy activated
 
 *2024-02-20 00:45:12* · [`dailyftlk`](https://www.ft.lk/columns/The-UPI-revolution-Cashless-digitised-economy-activated/4-758654) · `en`
@@ -1844,6 +2012,22 @@ UPI is a payment gateway used in India that’s catapulting India from a primari
 
 ---
 
+### Mawbima Janatha Party Leader and Presidential aspirant Dility Jayaweera Addresses Party’s Colombo District Summit and Unveils Plan for a “New Era of Transformation and Prosperity”
+
+*2024-02-20 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83648) · `en`
+
+The Mawbima Janatha Party (MJP) and its presidential hopeful Dilith Jayaweera on Saturday at the Colombo District Summit, revealed plans to soon launch an ambitious action plan aimed at transforming Sri Lanka›s socio-economic fabric.
+
+This announcement came during a significant gathering at the Sugathadasa Indoor Stadium in Colombo, which saw an impressive turnout of nearly 10,000 people, including party supporters, senior politicians, professionals, and prominent businessmen, showcasing the event›s massive success and the broad base of support for the MJP.
+
+Jayaweera, a distinguished businessman from Colombo with aspirations of running for the presidency, has been an outspoken advocate for a more developed Sri Lanka, a vision he has harboured since his university days.
+
+...
+
+[Data](articles/eb4ddc91.json)
+
+---
+
 ### Busting fake unions presents avenues for better progress
 
 *2024-02-20 00:41:57* · [`dailyftlk`](https://www.ft.lk/opinion/Busting-fake-unions-presents-avenues-for-better-progress/14-758653) · `en`
@@ -1857,225 +2041,5 @@ The Sri Lankan apparel industry captured the spotlight over the past year, as re
 [Data](articles/60f026e7.json)
 
 [Extended Data](ext_articles/60f026e7.ext.json)
-
----
-
-### Busting fake unions presents avenues for better progress
-
-*2024-02-20 00:41:57* · [`dailyftlk`](https://www.ft.lk/columns/Busting-fake-unions-presents-avenues-for-better-progress/4-758653) · `en`
-
-For some union leaders, entry into a factory with wider membership promises better funding and position
-
-The Sri Lankan apparel industry captured the spotlight over the past year, as reduced orders resulted in factory closures, lesser earnings and job losses. The drop in orders was consequent to a global demand dip stemming from COVID-19-led lockdowns. This was compounded by price competitiveness, with Sri Lanka trailing far behind nations like Bangladesh, Vietnam and China that also boasts significantly higher efficiency. Despite Sri Lanka’s high-cost base, the destination is a darling for global brands due to its high compliance standards and production quality. However, this will not suffice to grow the segment as other nations are catching up fast, especially with quality.
-
-...
-
-[Data](articles/a166a35b.json)
-
-[Extended Data](ext_articles/a166a35b.ext.json)
-
----
-
-### Making immunoglobulin is no picnic
-
-*2024-02-20 00:40:33* · [`dailyftlk`](https://www.ft.lk/opinion/Making-immunoglobulin-is-no-picnic/14-758652) · `en`
-
-Medicinal drugs can be divided into three major categories depending on their route of administration to patients: oral, parenteral, and topical forms. The parenteral (par = beyond, enteral = intestines) means administration not involving the intestinal or oral route. The parenteral drugs can be further classified in to four types depending on the site of administration: intravenous, intramuscular, subcutaneous, and intradermal drugs. The aim of this write up is to highlight the safety precautions involved in the manufacture of intravenous drugs as their quality, or lack of it, can be a matter of life or death for the patient.
-
-...
-
-[Data](articles/c2b2c5ad.json)
-
-[Extended Data](ext_articles/c2b2c5ad.ext.json)
-
----
-
-### Accessibility of microfinance
-
-*2024-02-20 00:38:58* · [`dailyftlk`](https://www.ft.lk/columns/Accessibility-of-microfinance/4-758650) · `en`
-
-Providing credit facilities under microfinance to the poor and underprivileged could be considered as a powerful tool in alleviating poverty
-
-A new Micro Finance and Credit Regulatory Bill has been tabled in Parliament towards regulating the existing money lending business of various entities to protect borrowers from any unfairness. The proposed bill, it has been reported, will repeal the Microfinance Act No: 16 of 2016.
-
-At present it has been revealed there are close to 11,000 institutions involved in lending for this sector and only five among them are registered. The remainder operate on their own without abiding by the rules and regulations imposed by the Regulators. Some of these entities involved in money lending charge exorbitant interest ranging from 40% to a staggering 200% as reported in the media.
-
-...
-
-[Data](articles/21f4b992.json)
-
-[Extended Data](ext_articles/21f4b992.ext.json)
-
----
-
-### Sri Lankan asylum seekers trapped on the island: request for emergency transfer
-
-*2024-02-20 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/176807) · `ta`
-
-A group of Tamil asylum seekers, who have been housed on an isolated British -owned island, have said they feel that they are insecure and forgotten and are facing sexual abuse.
-
-Sri Lankan Tamil asylum seekers who have been trapped for more than two years in Diego Garcia, Diego Garcia, have been shared with the United Nations Intelligence of Child harassment and attempting suicide within themselves.
-
-The officials of the United Nations Refugee Agency have gone to Diego Garcia to investigate the plight of asylum seekers.
-
-Asylum seekers arrived in Diego Garcia in October 2021 and they were reported to have arrived on the fire as their boat was on his way to Canada on the way to Canada.
-
-Within the asylum seeking committee, the United Nations Refugee Agency said in a statement issued by the United Nations Refugee Agency (UNHRC) stated that the deaths of sexual harassment and abuse against women and children are being reported and increased depression.
-
-...
-
-[Data](articles/2377dc89.json)
-
-[Extended Data](ext_articles/2377dc89.ext.json)
-
----
-
-### Scrapping the Executive Presidency; Hypocrisy to the Core
-
-*2024-02-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Scrapping-the-Executive-Presidency-Hypocrisy-to-the-Core/172-277345) · `en`
-
-Media reports state that the government is considering the abolition of the Executive Presidency instead of holding the next Presidential election which is constitutionally scheduled to be conducted later this year - between September 18 and October 18.
-
-One website quoted former President Maithripala Sirisena as stating that President Ranil Wickremesinghe has tasked a group of lawyers with looking into the abolition of the Executive Presidency. According to the report, the former President, speaking at an event in Wennappuwa on February 11th had said that the group of lawyers is led in this move by former Speaker and the head of the National Movement for a Just Society, Karu Jayasuriya.
-
-...
-
-[Data](articles/a3271e51.json)
-
-[Extended Data](ext_articles/a3271e51.ext.json)
-
----
-
-### The Judicial Power of the People and a ‘Presidential Interpretation’  of our Constitution
-
-*2024-02-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Judicial-Power-of-the-People-and-a-Presidential-Interpretation-of-our-Constitution/172-277340) · `en`
-
-President Wickremesinghe is aware that in 2018, the Supreme Court, in a seven bench decision, decided that former President Sirisena had acted arbitrarily and unconstitutionally by dissolving Parliament prematurely. Consequently, Wickremesinghe was restored to the office of Prime Minister. Therefore, it is evident that the President cannot seek unquestioning loyalty to himself from all public officials and institutions in the exercise of what he personally considers are his powers and responsibilities.
-
-“Since 1972 this country has known no Monarch, and the President has not inherited that mantle.
-
-All his powers are limited by the provisions of the Constitution.”
-
-The Friday Forum, an informal group of concerned citizens pledged to uphold the norms of Democracy, Good Governance, the Rule of Law, Human Rights, Media Freedom and Tolerance raised concerns on the Presidential Secretariat’s interpretation of Presidential powers.
-
-...
-
-[Data](articles/aef8d313.json)
-
-[Extended Data](ext_articles/aef8d313.ext.json)
-
----
-
-### Abu Dhabi heralds Era of Religious Accommodation in Islamic West Asia
-
-*2024-02-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Abu-Dhabi-heralds-Era-of-Religious-Accommodation-in-Islamic-West-Asia/172-277346) · `en`
-
-Due to the demographic changes brought about by economic growth, the Islamic United Arab Emirates (UAE) is beginning to shed its traditional objection to the public practice of other religions, especially idol worship.
-
-On February 14, Abu Dhabi heralded a new era of religious accommodation by allowing Hindus, a very large community of expatriates from India, to build a grand temple. Significantly, the land for it was donated by the UAE government. This could well be a harbinger of religious tolerance in Muslim-majority West Asia.
-
-A few Hindu temples had come up in the past, with one even dating back to 1817, but the newest and the grandest of them all is the one which was consecrated on February 14 by Indian Prime Minister Narendra Modi in Abu Dhabi, a constituent of the UAE.
-
-The UAE has 3.5 million Indians, the majority of whom are Hindus. Indian immigrants, who make up 30% of the UAE’s population, are the single largest ethnic community in the UAE.
-
-...
-
-[Data](articles/b9c050bb.json)
-
-[Extended Data](ext_articles/b9c050bb.ext.json)
-
----
-
-### 2024-02-19 (Monday)
-
-### Handling of electricity tariff consultation inappropriate, unacceptable: Janaka Ratnayaka
-
-*2024-02-19 23:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Handling-of-electricity-tariff-consultation-inappropriate-unacceptable-Janaka-Ratnayaka/108-277347) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - The way that the present chairman of the Public Utilities Commission of Sri Lanka (PUCSL) conducted the affairs of the public consultation regarding the electricity tariff revision was not appropriate and unacceptable at all, former PUCSL chairman Janaka Ratnayaka said.
-
-"The manner in which the current chairman of the Public Utilities Commission of Sri Lanka (PUCSL) handled the public consultation on the revision of electricity tariffs was inappropriate and entirely unacceptable," he said.
-
-The public consultation regarding the electricity tariff revision was conducted on February 15 by the PUCSL at the Bandaranaike Memorial International Conferance Hall (BMICH).
-
-Addressing the media, Ratnayake described that the PUCSL was set up to look into the welfare of the public, as its name implies.
-
-...
-
-[Data](articles/53051f8f.json)
-
-[Extended Data](ext_articles/53051f8f.ext.json)
-
----
-
-### Sri Lanka captured the series
-
-*2024-02-19 23:22:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடரை-கைப்பற்றியது-இலங்கை/175-333484) · `ta`
-
-Sri Lanka won the second twenty -20 match between Sri Lanka and Afghanistan by 72 runs.
-
-Accordingly, Sri Lanka scored 187 runs for the loss of 6 wickets in their 20 overs.
-
-In reply, Afghanistan lost all wickets in 17 overs and scored only 115 runs.
-
-Accordingly, the Sri Lankan team won the three-match series 2-0. Remble
-
-◼️
-
-[Data](articles/ee4ce4c4.json)
-
-[Extended Data](ext_articles/ee4ce4c4.ext.json)
-
----
-
-### Doing it in Sinhala, as well
-
-*2024-02-19 23:19:00* · [`islandlk`](http://island.lk/doing-it-in-sinhala-as-well/) · `en`
-
-JPal (Janaka Palapathwala), who is known for his Elvis/Jim Reeves style of singing, didn’t forget his fans on Valentine’s Day.
-
-He wished music lovers, for Valentine’s Day, on YouTube with the song ‘And The Grass Won’t Pay No Mind.’
-
-Although his song repertoire is generally made up of Elvis and Jim Reeves material, he says he is now seriously thinking of doing two Sinhala originals and, eventually, a Sinhala album.
-
-In fact, Janaka indicated to us that the recording of the Sinhala songs will soon be completed, and then he will finalise the visuals for the two songs.
-
-“Once that is completed, I will work on the material for the album.”
-
-Janaka also went on to say that without Sinhala songs, it’s very difficult to make it big in Sri Lanka.
-
-“The masses, and the electronic media, won’t accept anything other than Sinhala, so we need to give them what they want.”
-
-Janaka decided to shorten his name to JPal because of his foreign assignments.
-
-...
-
-[Data](articles/11d25bfd.json)
-
-[Extended Data](ext_articles/11d25bfd.ext.json)
-
----
-
-### Light winning to Sri Lanka: Hazaranga 100 wickets in T20
-
-*2024-02-19 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176806) · `ta`
-
-Sri Lanka won the second international T20 cricket match at the Rangiri and Dambulla International Stadium against Afghanistan on Monday (19) by 72 runs.
-
-With this victory, Sri Lanka has now reached the lead in the series 2 - 0 in the R20 cricket series.
-
-In this match, Afghanistan player Najibullah Sadran's wicket directly in his 63rd match of his 63rd match.. He also took a wicket in the match and took 101 wickets in total.
-
-Afghan spinning star Rashid Khan is the fastest (low -match) 100 wickets for Hasaranga. Rashid Khan had reached this milestone in 53 matches.
-
-In the international T20 cricket, Lasith Malinga is the second Sri Lankan player to take 100 wickets. He is the 11th player who took 100 wickets in the international T20 stage.
-
-In today's match, Angelo Mathews's all -rounder match, Sadheera Samarawickrama scored a half -century, and the accurate bowling of Binura Fernando, Wanindu Hazaranga and Madhisha Pathirana made Sri Lanka's success.
-
-...
-
-[Data](articles/643646b8.json)
-
-[Extended Data](ext_articles/643646b8.ext.json)
 
 ---

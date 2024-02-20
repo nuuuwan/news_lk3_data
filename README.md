@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 22:03:50**
+As of **2024-02-20 22:17:29**
 
 ## Newspaper Stats
 
-*Scraped **8,313** Articles*
+*Scraped **8,316** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 708
 adaderanalk | 1,006
 tamilmirrorlk | 1,024
 virakesarilk | 1,120
-adaderanasinhalalk | 1,210
+adaderanasinhalalk | 1,213
 dailymirrorlk | 1,224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,313 (100.0%) of 8,313 articles have been extended.
+8,313 (100.0%) of 8,316 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,64 @@ These remarks were made during the opening session of the 37th Asia and Pacific 
 [Data](articles/e3f7f1d8.json)
 
 [Extended Data](ext_articles/e3f7f1d8.ext.json)
+
+---
+
+### හොඳම ප්‍රවෘත්ති ප්‍රකාශය ඇතුළු සුමති සම්මාන රැසක් දෙරණට
+
+*2024-02-20 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193629) · `si`
+
+ප්‍රවෘත්ති වාර්තාකරණයේ විශිෂ්ඨත්වය යළි යළිත් තහවුරු කරමින් වසරේ හොඳම ප්‍රවෘත්ති විකාශය වෙනුවෙන් වූ සම්මානය අද දෙරණට හිමිවිය.
+
+එහිදී සම්මාන රැසක් හිමිකර ගැනීමට දෙරණ මාධ්‍ය ජාලය සමත් වුණි.
+
+28 වැනි සහ 29 වැනි සම්මාන උළෙල දෙකම අද පැවති අතර, එහිදී 2022 සහ 2023 වසරවලදී රූපවාහිනි මාධ්‍යයෙන් විකාශය වූ නිර්මාණ සහ ඒවාට දායකවූ කලාකරුවන් ඇගයීමට ලක්කෙරුණි.
+
+එමෙන්ම දිනේන්ද්‍ර රන්සිරි ඉදිරිපත් කළ අද දෙරණ 'උකුස්සා' 2022 සහ 2023 යන වසර ද්විත්වයේම හොඳම රූපවාහිනි ගවේෂණාත්මක ප්‍රවෘත්ති වාර්තාකරණයට හිමි සම්මාන හිමිකර ගත්තේය.
+
+මේ අතර 2023 වසරේ හොඳම රූපවාහිනි ප්‍රවෘත්ති නිවේදක දෙවන ස්ථානය භානුක කරුණාරත්න ට හිමිවිය.
+
+මෙහිදී 2023 වසරේ හොඳම රූපවාහිනි වාර්තා වැඩසටහන ලෙස ටී.වී. දෙරණ ඔස්සේ විකාශය කෙරුණු, රංජීවනි බැද්දේවිතාන අධ්‍යක්ෂණය කළ "බුද්ධ පාත්‍ර වන්දනා" සම්මානයට පාත්‍ර වූ අතර හොඳම රූපවාහිනි කාලීන වැඩසටහන ලෙස ටී.වී. දෙරණ නිෂ්පාදනය කළ, රුක්මල් මල්ලව අධ්‍යක්ෂණය කළ "REBUILD SRI LANKA" සම්මාන දිනා ගත්තේය.
+
+...
+
+[Data](articles/12c8d425.json)
+
+---
+
+### ඉරාන විදේශ ඇමති ජනපතිව හමුවෙයි
+
+*2024-02-20 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193628) · `si`
+
+නිල සංචාරයක් සඳහා මෙරටට පැමිණ සිටින ඉරාන විදේශ අමාත්‍ය හුසේන් ආමේර් අබ්දුල්ලාහින් අද (20) පස්වරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී තිබේ.
+
+ජනාධිපති කාර්යාලයේදී එම හමුව සිදුවූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+◼️
+
+[Data](articles/88e6dc89.json)
+
+---
+
+### සුමති සම්මාන උළෙලේදී දෙරණට සම්මාන රැසක්
+
+*2024-02-20 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193627) · `si`
+
+29 වන සුමති සම්මාන උළෙල (2024) මේ වනවිට අති උත්කර්ෂවත් ලෙස කොළඹදී පැවැත්වෙයි.
+
+2023 වසරේ හොඳම රූපවාහිනී වාර්තා වැඩසටහන සඳහා වූ සම්මානය ටී.වී. දෙරණ "බුද්ධ පාත්‍ර වන්දනා" දිනා ගත්තේය.
+
+2022 වසරේ හොඳම රූපවාහිනී කාලීන වැඩසටහන ලෙස "REBUILD SRI LANKA" සම්මානයට පාත්‍ර විය.
+
+2022 වසරේ හොඳම රූපවාහිනී අධ්‍යාපනික වැඩසටහනට හිමි සම්මානය අද දෙරණ 24 හී "Kids Academy" දිනා ගත්තේය.
+
+සමාජ මාධ්‍ය කාණ්ඩයේ සම්මාන 03ක් දිනාගැනීමට Derana Macro Entertainment හී "ගැස්ම" සමත්විය.
+
+හොඳම CSR වැඩසටහන, ජාතික වටිනාකමක් ඇති වැඩසටහන සහ කාලීන වැඩසටහන ලෙස එම සම්මාන දිනා ගත්තේය.
+
+◼️
+
+[Data](articles/b6715091.json)
 
 ---
 
@@ -1931,63 +1989,5 @@ With the financial contribution of the World Bank, the Welfare Benefits are bein
 [Data](articles/1809610c.json)
 
 [Extended Data](ext_articles/1809610c.ext.json)
-
----
-
-### Pilot who escaped from Russia to Ukraine Recovery in Spain
-
-*2024-02-20 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176844) · `ta`
-
-Russian pilot who escaped Ukraine during a secret action last year has been rescued in Spain.
-
-Ukraine's intelligence unit said that his body was recovered in the vehicle of a series.
-
-The Spanish police have first considered this as a criminal activity, but it is only later that this is a matter of Russian Ukraine conflict.
-
-In August last year, Kusminov escaped from the Russian side during the airplane between two sites.
-
-In the helicopter, the SU 27-SU 30 was involved in carrying out the spare parts for the SU-30 warriors and landed in Ukraine's control area with his helicopter.
-
-Ukrainian intelligence agencies have said that he brought him to Ukraine as a benefit of six months secret action.
-
-Allegations may be made that the Russian government is responsible for the death of Gujminov.
-
-◼️
-
-[Data](articles/8466bce3.json)
-
-[Extended Data](ext_articles/8466bce3.ext.json)
-
----
-
-### A controversial statement from Dr. Bellana
-
-*2024-02-20 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193610) · `si`
-
-Deputy Director of the Colombo National Hospital Dr. Rukshan Bellana is ready to retire any time.
-
-Dr. Rukshan Bellana said that a press conference was held today (20).
-
-Speaking further the doctor said, "The Ministry of Health today is healthy officials and administrates their voice power. If two people joined together, he will drive him out. So that is the case with decisions. But I can retire and get ready. There is no meaning of being in this public service. ".
-
-◼️
-
-[Data](articles/8dd82b64.json)
-
-[Extended Data](ext_articles/8dd82b64.ext.json)
-
----
-
-### The position of staying in Sri Lankan loans must change
-
-*2024-02-20 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176841) · `ta`
-
-Sri Lanka, which is now in the bankruptcy, is now slowly progressing and becoming a developed country in 2048.
-
-◼️
-
-[Data](articles/9a564719.json)
-
-[Extended Data](ext_articles/9a564719.ext.json)
 
 ---

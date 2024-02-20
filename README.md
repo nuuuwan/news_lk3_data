@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 16:33:04**
+As of **2024-02-20 16:48:36**
 
 ## Newspaper Stats
 
-*Scraped **8,268** Articles*
+*Scraped **8,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 434
 dailyftlk | 444
 adalk | 705
 adaderanalk | 999
-tamilmirrorlk | 1,014
+tamilmirrorlk | 1,015
 virakesarilk | 1,116
 adaderanasinhalalk | 1,206
 dailymirrorlk | 1,217
@@ -26,43 +26,65 @@ dailymirrorlk | 1,217
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,263 (99.9%) of 8,268 articles have been extended.
+8,269 (100.0%) of 8,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### சிறுமி துஷ்பிரயோகம் ;  10 வருட சிறைத்தண்டனை
+### Public Service Societies Pamphlet Distribution
 
-*2024-02-20 16:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமி-துஷ்பிரயோகம்-10-வருட-சிறைத்தண்டனை/76-333528) · `ta`
+*2024-02-20 16:17:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-சேவை-சங்கங்கள்-துண்டுபிரசுரம்-விநியோகம்/175-333532) · `ta`
 
-அக்கரப்பத்தனை- பொலிஸ் பிரிவுக்குட்பட்ட கிலாஸ்கோ தோட்டத்தில் இயங்கிய பிரஜா சக்தி நிலையத்தில் கடமையாற்றிய நபர் ஒருவருக்கு  10 வருட கடூழிய சிறைத்தண்டனை விதித்து நுவரெலியா மேல் நீதிமன்ற நீதவான் விராஜ் வீரசூரிய செவ்வாய்க்கிழமை (20)  தீர்ப்பு வழங்கியுள்ளார்.
+Public Service Associations alleged that the government was preparing to reduce the pension of state officials, and today (20) held a manual distribution in front of the Pension Department.
 
-கடந்த 06.07.2017 ஆம் ஆண்டு அக்கரப்பத்தனை- கிலாஸ்கோ தோட்டத்தில் இயங்கிய பிரஜா சக்தி நிலையத்தில் கடமையாற்றிய குறித்த நபர், அக்காலப்பகுதியில் பிரஜா சக்தி நிலையத்தில் கல்வி கற்க வந்திருந்த 18 வயதுக்கும் குறைவான சிறுமியை பாலியல் துஷ்பிரயோகம் செய்ததாக நபர் மீது குற்றம் சுமத்தப்பட்டிருந்தது.
+The State Service Association's Association has said that the government is already preparing the Bill to completely snatch the pension of retired civil servants after 2016 and urged the government to immediately recover the bills.
 
-இவர் மீதான வழக்கு விசாரணைகள் தொடர்ச்சியாகக் கடந்த ஆறு வருடங்கள் முன்னெடுக்கப்பட்டு வந்த நிலையில், சாட்சியங்களின் அடிப்படையில் குற்றவாளியாக இனங்காணப்பட்ட இவருக்கு 10 வருடக் கடூழிய சிறைத்தண்டனை வழங்கி (20.02.2024) இன்று தீர்ப்பளிக்கப்பட்டது.
+◼️
 
-...
+[Data](articles/4a6116d9.json)
 
-[Data](articles/78c1f865.json)
+[Extended Data](ext_articles/4a6116d9.ext.json)
 
 ---
 
-### පොලීසියට චන්ඩි පාට් දැමූ චීන කාන්තාව අත්අඩංගුවට
+### The girl's abuse;10 years imprisonment
+
+*2024-02-20 16:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமி-துஷ்பிரயோகம்-10-வருட-சிறைத்தண்டனை/76-333528) · `ta`
+
+Nuwara Eliya High Court Magistrate Viraj Weerasuriya on Tuesday (20) sentenced a man who was on duty at the Praja Shakti station in the Kilasco estate in the Akkaraipattana-police division.
+
+The person who was on duty at the Praja Shakti station at the Akkaraipattana-Kilasco estate on 06.07.2017 was accused of sexually abusing a girl under the age of 18 who had come to study at the Praja Shakti station at that time.
+
+He was sentenced to 10 years' rigorous imprisonment (20.02.2024), who was found guilty on the basis of witnesses.
+
+In addition, the magistrate stated in his judgment that the victim should be sentenced to Rs.
+
+◼️
+
+[Data](articles/78c1f865.json)
+
+[Extended Data](ext_articles/78c1f865.ext.json)
+
+---
+
+### Chinese woman arrested for chandide
 
 *2024-02-20 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193620) · `si`
 
-වීසා නොමැතිව මෙරට රැදී සිටින චීන කාන්තාවක් සම්බන්ධයෙන් ලැබී ඇති පැමිණිල්ලක් විභාග කිරීමට ගිය පොලිස් නිලධාරීන් දෙදෙනෙකුට පහරදුන්නැයි එම චීන කාන්තාව අද (20) දහවල් අත්අඩංගුවට ගත්බව බේරුවල පොලීසිය පවසයි.
+The Chinese woman was arrested this afternoon to be assaulted by two police officers who had been investigated by a Chinese woman who had received a visa.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ බේරුවල මංගල මාවතේ පදිංචි 36 හැවිරිදි චීන කාන්තාවකි.
+The arrest was a 36 year old Chinese resident of Beruwala Mangala Mawatha.
 
-වලංගු වීසා නොමැතිව චීන කාන්තාවක් බේරුවල මංගල පාරේ නිවසක රැඳී සිටින බවට ලද තොරතුරක් මත පොලිස් නිලධාරීන් දෙදෙනෙකු එම පැමිණිල්ල විභාග කිරීම සඳහා එහි ගොස් ඇති බවත්, එහිදී ඇතිවූ කතාබහක් දුරදිග යාමෙන් එම පහරදීම සිදුව ඇති බවත් පොලීසිය පැවසීය.
+Two police officers had gone to the complaint on information that a Chinese woman remained in a house on a house in Beruwala, police said.
 
-පහරකෑමට ලක්වූ පොලිස් නිලධාරීන් දෙදෙනා කළුතර නාගොඩ ශීක්ෂණ රෝහලේ අධිකරණ වෛද්‍ය නිලධාරියා වෙත යොමුකර ඇති බවත් , සැකකාර වීන කාන්තාව කළුතර මහෙස්ත්‍රාත් අධ්කරණයට ඉදිරිපත් කිරීමට නියමිත බවත් පරීක්ෂණ සිදුකරන නිලධාරියෙක් පැවසීය.
+The two police officers who were assaulted have been sent to the Judiciary of the Kundala Survey Hospital in Kalutara and the suspect is scheduled to be submitted to the Kalutara Magistrate.
 
 ◼️
 
 [Data](articles/4266ef89.json)
+
+[Extended Data](ext_articles/4266ef89.ext.json)
 
 ---
 
@@ -77,6 +99,8 @@ By conducting this programme in schools, children will be trained to focus their
 ◼️
 
 [Data](articles/51464a68.json)
+
+[Extended Data](ext_articles/51464a68.ext.json)
 
 ---
 
@@ -93,6 +117,8 @@ In his letter, he points out that he has decided to resign from his position in 
 ◼️
 
 [Data](articles/9253c834.json)
+
+[Extended Data](ext_articles/9253c834.ext.json)
 
 ---
 
@@ -1832,25 +1858,31 @@ The late day of State Minister Sanath Nishantha is to be presented to the late P
 
 ---
 
-### අතුරුදන්වූවන්ගේ ඥාතීන්ගේ විරෝධතාව: ‘දේශීය ක්‍රමවේදයකින් ගැටළුවට විසදුම් ලැබෙන්නේ නෑ’
+### 7 Years of Relatives of the Missing Persons
 
 *2024-02-20 09:27:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g3ymx8vjlo) · `si`
 
-යුද්ධයෙන් අතුරුදන්වූවන්ගේ උතුරු - නැගෙනහිර පළාත් ඥාතීන් පවත්වන අඛණ්ඩ විරෝධතා හා උපවාස මාලාවට වසර හතක් ගතවීම නිමිත්තෙන් අතුරුදන්වූවන් සොයාදෙන ලෙසට ඉල්ලා අතුරුදන්වූවන්ගේ ඥාතීහූ අද (20) කිලිනොච්චිය නගරයේදී විරෝධතා පාගමනක් පැවැත්වූහ.
+7 Years of Relatives of the Missing Persons
 
-ඔවුන් කිලිනොච්චිය කන්දසාමි කෝවිල අසළින් පාගමන ආරම්භ කරමින් කිලිනොච්චිය නගරය ඔස්සේ ගමන් කරමින් විරෝධතාව පවත්වනු ලැබීය.
+The relatives of the missing protests and fleasures have been sent to the disappearances of the north and agitated on the north-east of the war.
 
-කිලිනොච්චිය, යාපනය, වවුනියාව, මුලතිව් හා මන්නාරම දිස්ත්‍රික්කවල අතුරුදන්වූවන්ගේ ඥාතීන්ගේ සංගම් විසින් විරෝධතාවය පැවැත්වනු ලැබූහ.
+They commenced marching near Kandochchiya temple in Kilinochchi and traveled through the city of Kilinochchi.
 
-යුද්ධයෙන් අතුරුදන්වූවන් සොයාදෙන ලෙසට ඉල්ලීම් කරමින් 2017  පෙබරවාරි මස 20 වැනිදා අතුරුදන්වූවන්ගේ ඥාතීන් විසින් මෙම විරෝධතාවය ආරම්භ කරනු ලැබීය.
+The relatives of the missing persons were conducted by the relatives of the disappeared in Kilinochchi, Jaffna, Vavuniya, Mullaitivu and Mannar districts.
 
-විරෝධතාවයට එක්වු කිලිනොච්චිය දිස්ත්‍රික් අතුරුදන්වූවන්ගේ සංගමයේ සභාපති කේ.කනගරංජනි මෙසේ පැවසුවාය. “යුද්දේ කාලයේ අතුරුදන්වු අපේ ඥාතීන් සොයාදෙන ලෙසට ආරම්භ කළ විරෝධතාවයට අදට අවුරුදු හතක් ගතවෙනවා, ඒත් අපිට කිසිදු සාධාරණයක් මේ වෙනකම් ඉටුවෙලා නෑ”
+The relatives of the missing persons were launched on February 20, 2017 to be recovered as they were searching for the disappearances of the war.
 
-“යුද්ධය ඉවරවෙලා අවුරුදු පහළොවකට වැඩි කාලයක් ගතවෙලා.ඒත් මේ දක්වා පත්වුණු කිසිදු රජයක්  යුද සමයේ අතුරුදන්වූවන් සොයාදීමට කටයුතු කරලා නෑ.”
+K. Kanganajani, President of the Kilinochchi District Missing Persons Association (SSP) said:. "It takes seven years today to protest that our relatives who disappear the missing relatives in the war."
+
+"It has not been more than fifteen years after the war is over.
+
+"No government tries to do justice to his demands. We only want to find out where our relatives are."She said.
 
 ...
 
 [Data](articles/381913ad.json)
+
+[Extended Data](ext_articles/381913ad.ext.json)
 
 ---
 
@@ -1971,27 +2003,5 @@ According to the President’s Media Division (PMD), plans are in place to final
 [Data](articles/6b033d01.json)
 
 [Extended Data](ext_articles/6b033d01.ext.json)
-
----
-
-### Minister of Iranian Foreign
-
-*2024-02-20 08:10:00* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-විදෙස්-ඇමති-එයි/11-408185) · `si`
-
-Iranian Foreign Minister Dr. Hussein Amir Abdullahian arrived at the Katunayake Airport on a three-day official visit.
-
-Troops of 20 high officials of the country have also visited Sri Lanka from 02/19 to 02/22.
-
-They had arrived at the Iran's 5 o'clock at 10.48 pm on the Iran of Iran.
-
-The Iranian External Affairs Minister and others visited Sri Lanka due to the invitation of Mr. Foreign Minister Ali Sabri.
-
-Foreign Minister Tharaka Balasuriya and several others were present at the Katunayake airport for the reception of Iranian Foreign Affairs.
-
-◼️
-
-[Data](articles/8dd13bde.json)
-
-[Extended Data](ext_articles/8dd13bde.ext.json)
 
 ---

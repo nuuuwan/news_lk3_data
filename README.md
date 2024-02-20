@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 06:52:30**
+As of **2024-02-20 07:16:50**
 
 ## Newspaper Stats
 
-*Scraped **8,125** Articles*
+*Scraped **8,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 422
 dailyftlk | 443
 adalk | 693
 tamilmirrorlk | 985
-adaderanalk | 987
+adaderanalk | 988
 virakesarilk | 1,091
 adaderanasinhalalk | 1,181
 dailymirrorlk | 1,198
@@ -26,51 +26,69 @@ dailymirrorlk | 1,198
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,123 (100.0%) of 8,125 articles have been extended.
+8,125 (100.0%) of 8,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### Suspected drug trafficker injured in shooting at Borella
+
+*2024-02-20 06:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97398/suspected-drug-trafficker-injured-in-shooting-at-borella) · `en`
+
+A 38-year-old person, said to be involved in drug dealings and recently released from prison, has been shot and injured near a housing complex at Ananda Rajakaruna Mawatha in Borella, police said.
+
+◼️
+
+[Data](articles/5bfa172b.json)
+
+---
+
+### Showers in several areas
 
 *2024-02-20 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193595) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වල උදෑසන කාලයේදී වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology says that there may be a few showers in the morning in the Eastern and Uva provinces.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සබරගමුව පළාතේත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ස්ථාන ස්වල්පයක සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+The department states that showers or thundershowers will occur at a few night in the Sabaragamuwa Province and in the Galle and Matara districts.
 
-එමෙන්ම සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතී.
+There is also a prevailing weather in other areas.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව, දකුණ සහ නැගෙනහිර පළාත්වලත් මහනුවර සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (30-35) පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+From the East, North-Central, Uva, Uva, Uva, Uva, Uva and Eastern Provinces, in the North, North, South and Eastern Provinces.. The Department of Meteorology announces that strict winds can occur.
 
-බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+In some places in the Western and Sabaragamuwa provinces, some places are expected to be found in a morning.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/29dd46c0.json)
 
+[Extended Data](ext_articles/29dd46c0.ext.json)
+
 ---
 
-### ஐக்கிய நாடுகளின் பிரதிநிதி ஜனாதிபதியுடன் சந்திப்பு
+### United Nations Representative Meeting with President
 
 *2024-02-20 03:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-நாடுகளின்-பிரதிநிதி-ஜனாதிபதியுடன்-சந்திப்பு/175-333486) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின்  பணிப்பாளர் நாயகம் கலாநிதி கூ தொங்யுவுக்கும் இடையிலான சந்திப்பொன்று ஜனாதிபதி அலுவலகத்தில் நேற்று நடைபெற்றது.
+A meeting between President Ranil Wickremesinghe and the Director General of the United Nations Food and Agriculture Organization, Dr. Koo Thongyu, was held yesterday at the Presidential Office.
 
-பொருளாதார சவால்களுக்கு முகங்கொடுத்து இலங்கை மக்களுக்காக ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் நடைமுறைப்படுத்தப்பட்டுள்ள வேலைத்திட்டத்தை பணிப்பாளர் நாயகம் பாராட்டினார்.
+The Director General praised the program implemented by President Ranil Wickremesinghe for the people of Sri Lanka, facing the economic challenges.
 
-அத்துடன், புதிய சீர்திருத்தங்களினூடாக நாட்டில் பொருளாதார ஸ்திரத்தன்மையை ஏற்படுத்துவதற்கான ஜனாதிபதியின் அர்ப்பணிப்புக்கும் அவர் தனது வாழ்த்துக்களை தெரிவித்தார்.
+He also congratulated the president's commitment to bring about economic stability in the country through new reforms.
 
-இந்த நெருக்கடியான சமயத்தில் இலங்கை அரசாங்கத்திற்கும் மக்களுக்கும் உணவு மற்றும் விவசாய அமைப்பு தொடர்ந்து பூரண ஆதரவை வழங்கும் என்றும் பணிப்பாளர் நாயகம் உறுதியளித்தார்.
+In this case, the Director General promised to provide full support to the Sri Lankan government and the people of the Sri Lankan government.
 
-இலங்கையின் பொருளாதாரத்தை கட்டியெழுப்புவதற்கு முன்னெடுக்கப்படும் வேலைத்திட்டம் தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின் பணிப்பாளர் நாயகத்திற்கு விளக்கமளிக்கப்பட்டது.
+The Director General of the United Nations Food and Agriculture Organization was briefed by President Ranil Wickremesinghe on the program to build the economy of Sri Lanka.
+
+The President pointed out that agriculture would be the main sector in the rebuilding of Sri Lanka's economy.
 
 ...
 
 [Data](articles/470dca45.json)
+
+[Extended Data](ext_articles/470dca45.ext.json)
 
 ---
 
@@ -2041,19 +2059,5 @@ Ratnapura High Court Judge Lanka Jayaratne on Monday sentenced the death sentenc
 [Data](articles/cd648fb5.json)
 
 [Extended Data](ext_articles/cd648fb5.ext.json)
-
----
-
-### At Dambulla broke the gates and jumps in
-
-*2024-02-19 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193580) · `si`
-
-Among Sri Lanka and Afghanistan, there was a warm situation near the Dambulla Divisional Secretariat.
-
-◼️
-
-[Data](articles/fb8ad071.json)
-
-[Extended Data](ext_articles/fb8ad071.ext.json)
 
 ---

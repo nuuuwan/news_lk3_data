@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 19:17:25**
+As of **2024-02-20 19:32:51**
 
 ## Newspaper Stats
 
-*Scraped **8,295** Articles*
+*Scraped **8,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,41 +12,115 @@ colombotelegraphcom | 91
 bbccomsinhala | 104
 dbsjeyarajcom | 156
 newsfirstlk | 363
-economynextcom | 421
+economynextcom | 429
 islandlk | 434
 dailyftlk | 444
 adalk | 708
 adaderanalk | 1,002
-tamilmirrorlk | 1,020
+tamilmirrorlk | 1,022
 virakesarilk | 1,120
-adaderanasinhalalk | 1,209
+adaderanasinhalalk | 1,210
 dailymirrorlk | 1,223
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,286 (99.9%) of 8,295 articles have been extended.
+8,293 (99.8%) of 8,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### මෙරට ඉතිහාසයේ විශාලතම පෞද්ගලීකරණය අප දැන්ආරම්භ කර තිබෙනවා
+### கசினோவாக மாறுகிறதா ’கோட்டா கோ கம’?
+
+*2024-02-20 19:03:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கசினோவாக-மாறுகிறதா-கோட்டா-கோ-கம/175-333539) · `ta`
+
+‘கோட்டா கோ கம’ அரகலய போராட்டம் நடத்தப்பட்ட காலி முகத்திடலில் கசினோ மையத்தை அமைக்க அரசாங்கம் திட்டமிட்டுள்ளதாக தேசிய பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் விஜித் ஹேரத் இன்று குற்றஞ்சாட்டியுள்ளார்.
+
+அரகலய தளத்தில் சூதாட்ட நிலையத்தை திறப்பதற்கு சீன பெயரைக் கொண்ட நிறுவனமொன்றுக்கு நகர அபிவிருத்தி அதிகாரசபை (UDA) ஊடாக உரிமம் வழங்க அரசாங்கம் திட்டமிட்டுள்ளதாகவும், நீர்கொழும்பில் உள்ள பிரபல சூதாட்டக்காரர் ஒருவர் இந்த குறிப்பிட்ட நிறுவனத்தின் பின்னணியில் இருப்பதாகவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+இலங்கையின் அரசியல் வரலாற்றில் ஒரு திருப்புமுனையாக அமைந்த 'அரகலய தளம்' அரகலய மக்களை பழிவாங்குவதற்காக கசினோ நிலையமொன்றுக்காக வழங்கப்படுவதாகவும் அது பாரிய தவறு எனவும் பாராளுமன்ற உறுப்பினர் தெரிவித்தார்.
+
+உள்ளூர் மக்களை இலக்கு வைத்து கசினோ நிலையங்கள் திறக்கப்பட மாட்டாது, கசினோவைத் திறக்கும்போது 10 பில்லியன் செலுத்த வேண்டும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/70ba1b4c.json)
+
+---
+
+### Sri Lanka consults EU team on data protection action plan
+
+*2024-02-20 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-consults-eu-team-on-data-protection-action-plan-151654/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ministry of Technology met with data protection consultants from the European Union to discuss a strategic plan for the country’s data protection authority, this week (19).
+
+“Met with a team of consultants representing the European Union’s Enhanced Data Protection & Data Flows project. The meeting aimed to share strategic learnings from the EU with Sri Lanka’s Data Protection Authority,” State Minister Kanaka Herath said on his Facebook page.
+
+Tamar Kaldani and Dr Aaron Martin, representing the EU project, shared insights on data protection best practices and regulatory frameworks established in the European Union, Herath said.
+
+“This knowledge exchange is crucial as Sri Lanka strives to strengthen its own data protection regime.” The nation is at a nascent stage in regulating data privacy of its citizens.
+
+Sri Lanka’s Data Protection Authority was established following a gazette issued by President Ranil Wickremesinghe in July 2023.
+
+...
+
+[Data](articles/874688fb.json)
+
+---
+
+### ඔන්ලයින් පනතට එරෙහි පෙත්සමට නීතිපතිගෙන් විරෝධතා
+
+*2024-02-20 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193625) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී එම්. ඒ. සුමන්දිරන් මහතා ගොනුකර තිබෙන මූලික මිනිස් අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙන නිෂ්ප්‍රභ කරන ලෙස නීතිපතිවරයා අද (20) ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික විරෝධතා මතු කළේය.
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතතාව පිළිබඳ පනත පාර්ලිමේන්තුව තුළදී නිත්‍යානුකූලව සම්මතවී නොමැති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා එම පෙත්සම ගොනුකර තිබේ.
+
+මෙම පෙත්සම අද සලකාබැලීම සඳහා ප්‍රියන්ත ජයවර්ධන, ශිරාන් ගුණරත්න සහ අචල වෙංගප්පුලි යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/cdad5742.json)
+
+---
+
+### SLPP எம்.பி துறவறம் பூண்டார்
+
+*2024-02-20 18:53:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLPP-எம்-பி-துறவறம்-பூண்டார்/175-333538) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் குணதிலக ராஜபக்ஷ தற்காலிகமாக பௌத்த பிக்குவாக துறவறம் பூண்டுள்ளார். அவர் தற்போது வணக்கத்திற்குரிய ஹரிஸ்பத்துவே தம்மரதன தேரர் என அழைக்கப்படுகிறார்.
+
+எம்.பி, தனது மனைவியின் மரணத்திற்குப் பிறகு துறவறம் நுழைய முடிவு செய்ததாக கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/70182db5.json)
+
+---
+
+### We have now posted the largest privation in the country
 
 *2024-02-20 18:46:58* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ඉතිහාසයේ-විශාලතම-පෞද්ගලීකරණය-අප-දැන්ආරම්භ-කර-තිබෙනවා/11-408197) · `si`
 
-කෘෂි ක්ෂේත්‍රයේ වේගවත් පරිවර්තනයක් සමඟ නැවත ප්‍රධාන කෘෂි බෝග අපනයනකරුවකු ලෙස ශ්‍රී ලංකාව නඟා සිටුවීමට රජය කැපවී කටයුතු කරමින් සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe said that the government is committed to uplifting Sri Lanka as an exporter of the agricultural sector as a major agricultural crop exporter.
 
-ශ්‍රී ලංකාවේ පසුගිය ආර්ථික අර්බුදයට මුහුණ දීමේදී කෘෂිකර්මාන්තය දැවැන්ත කාර්යභාරයක් ඉටුකළ බව පෙන්වා දුන් ජනාධිපතිවරයා රට කඩිනමින් යළි නඟා සිටුවිය හැකි ප්‍රධාන ක්ෂේත්‍ර දෙකක් ලෙස කෘෂිකර්මාන්තය සහ සංචාරක කර්මාන්තය හඳුනාගෙන තිබෙන බවද සඳහන් කළේය.
+The President said that agriculture had played a huge role in the past economic crisis in Sri Lanka as two main areas where the country could be reorganized.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මේ දිනවල කොළඹදී පැවැත්වෙන එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ ආසියා සහ පැසිෆික් කලාපීය සමුළුවේ 37 වැනි සැසිවාරයේ සමාරම්භක සැසිය අද (20) පෙරවරුවේ අමතමිනි.
+President Ranil Wickremesinghe addressing the inauguration session of the United Nations Food and Agriculture Conference in Colombo today (20th) this morning.
 
-එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ (UN FAO) අධ්‍යක්ෂ ජනරාල් ආචාර්ය කූ දොන්ග්‍යු (Dr. Qu Dongyu) මහතා ද එම අවස්ථාවට සහභාගී විය.
+Director General of the United Nations Food and Agriculture Organization (UN FAO) Dr.. Qu Dongyu was also present.
+
+The conference commenced in Colombo on the participation of 46 members of the United Nations Food and Agriculture Organization, the US, China and Russia ended at the 194th tomorrow.
+
+In 2022, Bangladesh hosted the conference, from now until 2026, Sri Lanka will be chaired by the United Nations Food and Agriculture Organization.
 
 ...
 
 [Data](articles/fbd3096b.json)
+
+[Extended Data](ext_articles/fbd3096b.ext.json)
 
 ---
 
@@ -65,6 +139,30 @@ It said since February 2022, she was “proactively collecting money” for a Uk
 ...
 
 [Data](articles/37de90db.json)
+
+[Extended Data](ext_articles/37de90db.ext.json)
+
+---
+
+### Sri Lanka Central Bank pay hike questioned in parliament
+
+*2024-02-20 18:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-pay-hike-questioned-in-parliament-151682/) · `en`
+
+ECONOMYNEXT – Steep salary hikes said to have been given to central bank staff came under fire in parliament with the Chief Opposition whip questioning how such large increments were made.
+
+“It says a 700,000 increment was given to a deputy governor and 75,000 to an office assistant,” questioned in parliament Tuesday.
+
+“These are the people who say tighten your belts, reduce staff, taxes have to be raised,” Kiriella pointed out.
+
+“It would be good if people are willing to work for less, but the fact is salary scales for these roles remain high around the world,” State Minister for Finance Ranjith Siyambalapitiya said.
+
+In the last three years “99 Central Bank employees, 10 percent of that grade, left the island,” Siyambalapitiya said, adding that “We have to try to retain economists of a high caliber.”
+
+“What economic knowledge? These are the people who bankrupted the country’s economy!” Kiriella rebutted. (Colombo/Feb20/2024)
+
+◼️
+
+[Data](articles/ab1d5496.json)
 
 ---
 
@@ -99,6 +197,32 @@ The comprehensive study, recently published in the esteemed journal Vaccine, une
 ...
 
 [Data](articles/22c6a058.json)
+
+[Extended Data](ext_articles/22c6a058.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 311.90/95 to the US dollar
+
+*2024-02-20 17:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-311-90-95-to-the-us-dollar-151677/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 311.90/95 to the US dollar Tuesday, from 312.15/25 on Monday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.80/11.00 percent from 10.55/75 percent.
+
+A bond maturing on 15.09.2027 closed at 11.85/12.10 percent from 11.70/90 percent.
+
+A bond maturing on 15.03.2028 closed at 12.15/30 percent from 12.00/15 percent.
+
+A bond maturing on 15.07.2029 closed at 12.45/95 percent from 12.20/70 percent.
+
+A bond maturing on 15.05.2030 closed at 12.30/13.00 percent from 12.20/70 percent.
+
+A bond maturing on 01.07.2032 closed at 12.50/13.30 percent from 12.45/90 percent. (Colombo/Feb20/2024)
+
+◼️
+
+[Data](articles/a8f30765.json)
 
 ---
 
@@ -157,6 +281,8 @@ The MP had reportedly decided to enter into the religious order after the death 
 ◼️
 
 [Data](articles/73717c32.json)
+
+[Extended Data](ext_articles/73717c32.ext.json)
 
 ---
 
@@ -382,6 +508,30 @@ The State Service Association's Association has said that the government is alre
 
 ---
 
+### Sri Lanka stocks close down, interest in capital goods
+
+*2024-02-20 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-interest-in-capital-goods-151645/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader All Share Index closed down 4.99 points, or 0.05 percent at 10,638 while the S&P SL20 Index closed up at 3,068 points, up 0.05 percent, or 1.49 points.
+
+Sectors that attracted investor interest were Capital Goods (270mn), Food, Beverage and Tobacco (175mn), and Banks (101mn).
+
+Distilleries Company of Sri Lanka Plc contributed 72 million to the day’s turnover; the share closed up at 27.00.
+
+Lanka Milk Foods (CWE) Plc also saw high volumes traded, contributing 57 million to the day’s turnover. The share closed up at 23.60.
+
+Sunshine Holdings Plc, which announced an equity infusion into its fully owned subsidiary Sunshine Tea (Private) Limited, saw its share price close down at 54.00.
+
+DFCC Bank Plc, which announced both a scrip dividend and a cash dividend, closed down at 78.50
+
+...
+
+[Data](articles/1044596b.json)
+
+---
+
 ### Two policemen attacked by Chinese woman in Beruwala
 
 *2024-02-20 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176885) · `ta`
@@ -521,6 +671,8 @@ Students' union of the Indigenous Medicine Faculty staged a protest march today 
 ◼️
 
 [Data](articles/bac49f7f.json)
+
+[Extended Data](ext_articles/bac49f7f.ext.json)
 
 ---
 
@@ -728,6 +880,24 @@ State Minister of Finance Ranjith Siyambalapitiya said no casino centre will be 
 
 ---
 
+### Sri Lanka to seek private investor for off-shore wind plants
+
+*2024-02-20 14:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-private-investor-for-off-shore-wind-plants-151613/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet had approved a proposal to seek private investors for large scale off-shore wind power plants, Minister Bandula Gunwardana said.
+
+A feasibility study by the World Bank has found there was a huge potential for off-shore wind energy off the north, west, and south east coasts he said.
+
+Attempts to bring in renewable energy producers without competitive bidding has run into controversy recently.
+
+Minister Gunawardana said he presumed investors will be called in a transparent manner. (Colombo/Feb20/2024)
+
+◼️
+
+[Data](articles/16414256.json)
+
+---
+
 ### Expel Harin...
 
 *2024-02-20 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Expel-Harin/110-277402) · `en`
@@ -872,21 +1042,23 @@ Various organizations have been protesting against the minister's comment and ur
 
 ---
 
-### වසර හැටපහක් පැරණි පෞද්ගලික පුස්තකාලයක් ජාතික ජන බලවේගයට පරිත්‍යාග කරයි
+### An old private library donates an old private library to the national government
 
 *2024-02-20 13:52:52* · [`adalk`](https://www.ada.lk/breaking_news/වසර-හැටපහක්-පැරණි-පෞද්ගලික-පුස්තකාලයක්-ජාතික-ජන-බලවේගයට-පරිත්‍යාග-කරයි/11-408194) · `si`
 
-වමේ ව්‍යාපාරය නියෝජනය කරන ප්‍රබල චරිතයක් මෙන්ම ප්‍රකට ලේඛකයෙකු වූ නීතිඥ එස් ජී පුංචිහේවා මහතා විසින් රචිත පොත්පත් ඇතුළු වසර හැට පහක් පුරා එක් රැස් කළ පොත්පත් සහිත පුස්තකාලයක් ජාතික ජන බලවේගයට පරිත්‍යාග කිරීම ඉකුත් (19) දා කොට්ටාව රුක්මල්ගම බාලිකා නිවාස  පාරේ පිහිටි ඒ මහතාගේ නිවසේදී  පැවැත්වුණි.
+A powerful figure of the Left Movement and a well-known writer, Attorney-at-Law Sixty Bookcrues, Nimber (19), was held at Rukmaldagama Home Road Road, Kottawa, on the 19th.
 
-නීතිඥ උපුල් කුමරප්පෙරුම  මහතාගේ සම්බන්ධීකරණය ඇතුව සිදුවූ  මෙම සත්කාරය සඳහා  ජාතික ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හරිනි අමරසූරිය ජනතා විමුක්ති පෙරමුණේ ප්‍රචාරක ලේකම් ටිල්වින් සිල්වා , ලාල් කාන්ත , හා නීතිඥ උපුල් කුමරප්පෙරුම , මහරගම නගර සභාවේ හිටපු මන්ත්‍රී දේවානන්ද සුරවීර මහතා ඇතුළු පිරිසක් සහභාගී වී සිටියහ.
+JVP PSC Tilvin Silva, Lalvin, and Attorney-at-Law MP Devananda, and Attorney-at-Law Devananda, Maharawarama and Attorney-at-Law MP Devananda, and Attorney-at-Law Devananda, and Attorney-at-Law Devananda, Maharawarama and Attorney-at-Law Devananda, Maharawarama and Attorney-at-Law Devananda, Maharagama Devananda, and Attorney-at-Law Devananda, Maharagama Devananda, and Attorney-at-Law Devananda, Mahama.
 
-මෙහිශීඅදහස් දැක්වූ නීතිඥ එස් . ජී. පුංචි හේවා මහතා  අදහස් දක්වමින් මෙසේ කීය.
+Here's the lawyer of law. G. Mr. Punchi Hewa said:
 
-“ මට දැන් වයස අවුරුදු 91 යි. ඉන්  වසර 65 තිස්සේ එක්රැස් කළ විවිධ විෂයන්ට අදාල පොත්පත් රැසක් මා සතුව තිබුණා. එම පොත්පත් පොදුවේ පාවිච්චියට ගන්න පුළුවන් හො﻿ඳම කණ්ඩායම කවුද කියලා පසුගිය කාලේ  මම කල්පනා කළා. එහිදී මට තේරුම් ගියේ  ඒ සදහා ඉන්න හොඳම කණ්ඩායම ජාතික ජන බලවේගය කියලයි.
+"I'm 91 years old now. I had a number of books related to various subjects assembled for 65 years. I have been thinking about who can use the literature in general. There I realized that the best group to do this was the national folk force.
 
 ...
 
 [Data](articles/fe54c720.json)
+
+[Extended Data](ext_articles/fe54c720.ext.json)
 
 ---
 
@@ -957,6 +1129,24 @@ The lorry and the window of the house were damaged in the shooting.
 [Data](articles/e8c2986e.json)
 
 [Extended Data](ext_articles/e8c2986e.ext.json)
+
+---
+
+### Sri Lanka to allow English as court language in selected courts
+
+*2024-02-20 13:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-allow-english-as-court-language-in-selected-courts-151599/) · `en`
+
+ECONOMYNEXT – Sri Lanka will allow court proceedings to be conducted in English in selected courts, to expedite court proceedings, the cabinet spokesman has said.
+
+Minister of Justice Wijeyadasa Rajapakshe proposed that “Certain courts be allowed to conduct proceedings in English,” Minister Bandula Gunawardena said at a press briefing to announce the week’s Cabinet decisions, on Tuesday (20).
+
+“Especially courts that deal with international trade or business related disputes, commercial disputes.”
+
+Court proceedings and documents are in Sinhala, the State language. “There is a delay when it comes to translating Sinhala documents into English and that has affected the country’s position in the Ease of Doing Business Index,” Gunawardena said. As of 2021, Sri Lanka ranks 99 in the index. (Colombo/Feb20/2024)
+
+◼️
+
+[Data](articles/c2152306.json)
 
 ---
 
@@ -1084,6 +1274,28 @@ The doctor requests the public to use health protection techniques in the essent
 
 ---
 
+### Sri Lanka embarkation tax on ferry services cut: Corrected
+
+*2024-02-20 13:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-embarkation-tax-on-ferry-services-cut-corrected-151586/) · `en`
+
+ECONOMYNEXT – The embarkation tax o ferry service between Sri Lanka and India will be brought down from 60 dollars to 5 dollars, Cabinet spokesman Bandula Gunawardena has said.
+
+“The embarkation tax for ferry service will be reduced to 5 dollars, and the fee for other vessels will be brought down to 20 dollars,” Minister Gunawardena said at the Cabinet decisions press briefing on Tuesday.
+
+The move would boost travel between Sri Lanka and India, he said.
+
+“Reducing the cost of ferry and ship services drastically will encourage more visitors.
+
+A ferry service from Nagapattinam in India and Kankesanthurai (KKS) in Sri Lanka’s Jaffna peninsula was launched last October, boosting people-to-people links between the two countries. (Colombo/Feb20/2024)
+
+India to Sri Lanka ferry service launched, second route planned
+
+◼️
+
+[Data](articles/299050bc.json)
+
+---
+
 ### Electricity
 
 *2024-02-20 13:04:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டணம்-பற்றி-எடுக்கப்பட்டுள்ள-தீர்மானம்/175-333515) · `ta`
@@ -1167,6 +1379,8 @@ Accordingly, the suspects were arrested by the CIABOC for allegedly soliciting a
 ...
 
 [Data](articles/c6ad8fa0.json)
+
+[Extended Data](ext_articles/c6ad8fa0.ext.json)
 
 ---
 
@@ -1526,6 +1740,22 @@ Therefore, do not store drugs and other pills in places where children are easil
 
 ---
 
+### Sri Lanka sends more workers to Israel
+
+*2024-02-20 11:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-sends-more-workers-to-israel-151575/) · `en`
+
+ECONOMYNEXT – Sri Lanka is pressing ahead with sending workers to Israel, which is actively involved in war in its occupied territories of Gaza and the West Bank, and with its neighbours Lebanon and Syria.
+
+“Handed over air tickets for another 95 individuals who are departing for agricultural jobs in Israel. With this batch, a total of 602 have left for agricultural positions in Israel, and more will leave in the coming days,” Minister of Labour and Foreign Employment Manusha Nanayakkara said on X (twitter).
+
+Last week Nanayakkara, as well as President Ranil Wickremesinghe, met with Israel’s Minister of Transport and Road Safety, Brigadier General Miri Regev, who visited the country to sign an aviation agreement. “During the meeting, we discussed on increasing the recruitment of Sri Lankans for jobs in Israel and explored the possibility of increasing the number of flights between the two countries.”
+
+...
+
+[Data](articles/1fa5d817.json)
+
+---
+
 ### The upcountry people and the Aswesa project
 
 *2024-02-20 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176845) · `ta`
@@ -1723,231 +1953,5 @@ The meeting was attended by the Additional Secretary of the President of the Nor
 [Data](articles/9ea3d73d.json)
 
 [Extended Data](ext_articles/9ea3d73d.ext.json)
-
----
-
-### There will be no democracy in a country where parliament is not functioning
-
-*2024-02-20 11:06:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-செயல்படாத-நாட்டில்-ஜனநாயகம்-இருக்காது/175-333506) · `ta`
-
-Speaker Mahinda Yapa Abeywardena said that the heart of democracy would be a parliament and that the country that did not act in parliament would lead to controlling the country.
-
-The Speaker pointed out that the judiciary or executive power cannot be operated without a law and that if these three pillars are combined, the program can be prepared to move the country towards development.
-
-The inaugural meeting of the Student Parliament of the Kadavada Mahamaiah Girls College was held on Monday (19) at the old parliamentary presidential office main hall.
-
-The event was organized by the Department of Communication of the Parliament of Sri Lanka in partnership with the President's Office on the directive of President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/05b0ac8f.json)
-
-[Extended Data](ext_articles/05b0ac8f.ext.json)
-
----
-
-### 37th session of FAO Regional Conference for Asia and the Pacific inaugurated in Colombo
-
-*2024-02-20 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97404/37th-session-of-fao-regional-conference-for-asia-and-the-pacific-inaugurated-in-colombo-) · `en`
-
-President Ranil Wickremesinghe, accompanied by the FAO Director General Qu Dongyu, on Tuesday inaugurated the Thirty-seventh Session of the Regional Conference for Asia and the Pacific (APRC) of the UN Food and Agriculture Organization (FAO) at the Hilton Hotel, Colombo.
-
-Several matters of concerns including the state of food and agriculture in the region, agrifood systems transformation and solutions particularly for smallholders and family farmers, are set to be discussed at the high-level Ministerial in-person event.
-
-UN FAO Director Genera Qu Dongyu arrived in Sri Lanka on 18 February for a three-day visit to participate in APRC37, which will see the participation of Government Ministers and Heads of Delegations from as many as 46 Member Nations gathering in Colombo.
-
-◼️
-
-[Data](articles/cf9bbdea.json)
-
-[Extended Data](ext_articles/cf9bbdea.ext.json)
-
----
-
-### Water skate
-
-*2024-02-20 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/176830) · `ta`
-
-Foreign tourists are currently engaged in a water drift game in the Kalpitiya Kandukkul.
-
-Most tourists who are currently visiting Kalpitiya are involved in the "Kite Surfing" of the Kandakkuli area.
-
-It is noteworthy that the water is only done in Sri Lanka. The sport of these waterproofs has started about 15 years ago.
-
-It is reported that the Kalpitiya Kandukkuttu mix is very easy for those who are involved in the sport of water, and that these waterproofing is the best place for the sport to be involved in the game.
-
-Foreigners involved in the game not suggest that strong winds are blowing from 12 noon to 4.30 pm daily.
-
-Tourists from German, France, Austria, India, Canada, Switzerland and many other countries are coming.
-
-In addition, Sri Lankan coaches say that most of the tourists who come to Sri Lanka for a short or three weeks for a short time are going back to their countries.
-
-The tourism industry has fallen due to the economic crisis in the country in the past.
-
-...
-
-[Data](articles/1167cf44.json)
-
-[Extended Data](ext_articles/1167cf44.ext.json)
-
----
-
-### Boy arrested for abducting girl
-
-*2024-02-20 10:47:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிறுமியை-கடத்திய-சிறுவன்-கைது/71-333503) · `ta`
-
-Police have arrested a 17 -year -old boy who abducted a 15 -year -old girl in Jaffna and stayed at her home.
-
-A 15 -year -old girl from Tholpuram area has been lodged at the Vaddukoddai police station on Sunday (18).
-
-According to the information that the girl was staying in the house of a 17 -year -old boy from the area, the girl was rushed to the house and rescued the girl and arrested the boy.
-
-The police have been admitted to the Jaffna Bodhana Hospital for a medical examination by the police and the arrested boy has been detained at the police station.
-
-◼️
-
-[Data](articles/2b6fa15e.json)
-
-[Extended Data](ext_articles/2b6fa15e.ext.json)
-
----
-
-### UN FAO Asia - Pacific Regional Conference begins
-
-*2024-02-20 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193608) · `si`
-
-A short time ago, the 37th session of the Asia-Pacific Regional Conference (UN FAO) has begun.
-
-The President Ranil Wickremesinghe and Director General of the United Nations Food and Agriculture Organization of the United Nations Dr. Phil Donghyu.
-
-◼️
-
-[Data](articles/c24711e0.json)
-
-[Extended Data](ext_articles/c24711e0.ext.json)
-
----
-
-### Plan for International Truth and Justice on Sri Lankan President's New Liability
-
-*2024-02-20 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176832) · `ta`
-
-The Sri Lankan government has said that the previous Commission should accept the issues issued by the previous Commission before setting up a new truth -finding commission.
-
-The ITJP said the number of government commissions set up to investigate serious human rights violations has exceeded the affected Sri Lankans.
-
-However, the government is to form another commission.
-
-However, the organization said that the victims are said to be unable to do justice.
-
-The ITJP has said that the relationship of the missing persons has been boldly down the streets and said that 240 elderly relatives have died without knowing what happened to their relations.
-
-The Government of Sri Lanka rejects the proposed reconciliation commission of Sri Lanka and has issued a number of reports of 37 civil society organizations and 19 civil society activists.And the plan for justice has reported.
-
-Below is a list of 36 Commissions we have identified as the Sri Lankan government set up in the past. Three of these
-
-...
-
-[Data](articles/cb6468f6.json)
-
-[Extended Data](ext_articles/cb6468f6.ext.json)
-
----
-
-### Supreme Court's announcement of proposed anti -terrorism bill
-
-*2024-02-20 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/176831) · `ta`
-
-The Supreme Court has informed parliament that most of the provisions of the proposed anti -terrorism bill will be contrary to the constitution.
-
-Meanwhile, the Supreme Court has informed parliament that a two -thirds majority should be held with a two -thirds vote if the proposed anti -terrorism bill is to be passed without amendments.
-
-◼️
-
-[Data](articles/5d587484.json)
-
-[Extended Data](ext_articles/5d587484.ext.json)
-
----
-
-### The young man who tried to go abroad
-
-*2024-02-20 10:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடு-செல்ல-முயன்ற-இளைஞன்-உயிர்-மாய்ப்பு/175-333501) · `ta`
-
-Mundal - A young man has been rescued on Monday (19) after he was living in his house.
-
-The body of a 24 -year -old youth, Kavinda Madusanga, a simple area, has been recovered.
-
-The mother and sister of the deceased are going to the market, and the young man and father are at home. During this time, the young man went into the room of the house while watching the shows on television.
-
-In this case, the mother and sister who went to the market came home and called her son in search of the door of the room, but when the young man broke the door and went inside the door, the young man was found dead.
-
-The doctors said the youth had already died, though he was immediately taken to the hospital.
-
-The father reported in the complaint that the young man had asked for money to go abroad and that he had told him to sell the motorcycle or to organize a motorcycle or make money due to lack of money.
-
-...
-
-[Data](articles/8e05aa4d.json)
-
-[Extended Data](ext_articles/8e05aa4d.ext.json)
-
----
-
-### A murder of Grandpass
-
-*2024-02-20 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193607) · `si`
-
-A person has been attacked with a sharp object in the Grandpass police division of the Grandpass police division.
-
-The victim was 19 year old resident of the area.
-
-It has been revealed that the deceased youth is a drug addict and the role in theft.
-
-◼️
-
-[Data](articles/fdf80294.json)
-
-[Extended Data](ext_articles/fdf80294.ext.json)
-
----
-
-### Cut the sword on the woman in Jaffna Kopay;Arrest
-
-*2024-02-20 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176827) · `ta`
-
-A man has been arrested for allegedly involved in various crimes allegations of a sword attack on a woman in the Jaffna - Kopay area.
-
-A woman from Kopayi Mathi area was attacked by a sword cutting on Monday (19).
-
-In this case, Kopay police have arrested the attack on the incident.
-
-The police have been detained at the Kopay police station and are being investigated by the police.
-
-◼️
-
-[Data](articles/3b7cc8d5.json)
-
-[Extended Data](ext_articles/3b7cc8d5.ext.json)
-
----
-
-### Sri Lanka - Bangladesh Competition Schedule
-
-*2024-02-20 10:14:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கை-பங்களாதேஷ்-போட்டி-அட்டவணை/44-333500) · `ta`
-
-Sri Lanka Cricket has announced the tournament for the Sri Lankan team to tour Bangladesh.
-
-Accordingly, the Sri Lankan team will take part in 3 T20 matches, 3 ODIs and two Tests.
-
-The T20 matches will be held on March 4, 6 and 9 and ODIs will be held on March 13, 15 and 18.
-
-The first Test match begins on March 22 and the second Test match on March 30.
-
-◼️
-
-[Data](articles/7458bd9c.json)
-
-[Extended Data](ext_articles/7458bd9c.ext.json)
 
 ---

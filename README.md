@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 01:33:07**
+As of **2024-02-21 01:50:48**
 
 ## Newspaper Stats
 
-*Scraped **8,334** Articles*
+*Scraped **8,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 434
 dailyftlk | 444
 adalk | 712
 adaderanalk | 1,007
-tamilmirrorlk | 1,025
+tamilmirrorlk | 1,026
 virakesarilk | 1,120
 adaderanasinhalalk | 1,213
 dailymirrorlk | 1,236
@@ -26,11 +26,27 @@ dailymirrorlk | 1,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,334 (100.0%) of 8,334 articles have been extended.
+8,335 (100.0%) of 8,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Chinese countryman beat police officers
+
+*2024-02-21 00:18:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரிகளை-அடித்து-விரட்டிய-சீன-நாட்டுப்பெண்/175-333555) · `ta`
+
+Beruwala police said that a Chinese woman was arrested this afternoon (20) for assaulting two police officers who went to investigate a Chinese woman who was staying in the country without a visa in Mangala Mawatha.
+
+Two police officers who were attacked have been handed over to the legal officer of the Nagoda Teaching Hospital in Kalutara and are to be produced before the Kalutara Magistrate.
+
+◼️
+
+[Data](articles/717ce0a5.json)
+
+[Extended Data](ext_articles/717ce0a5.ext.json)
+
+---
 
 ### Saga of a prideful legacy and brotherhood in cricket
 
@@ -1935,23 +1951,5 @@ Accordingly, the suspects were arrested by the CIABOC for allegedly soliciting a
 [Data](articles/c6ad8fa0.json)
 
 [Extended Data](ext_articles/c6ad8fa0.ext.json)
-
----
-
-### Two bribery officers work
-
-*2024-02-20 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193612) · `si`
-
-District Manager and Management Assistant of Nuwara Eliya Road Manager and Management Assistant have been arrested.
-
-The officers were arrested today (20) by the Commission to Investigate Allegations of Bribery or Corruption.
-
-They have been arrested in connection with a bribe of Rs. 30,000 to change a bus owner.
-
-◼️
-
-[Data](articles/ea1e6b45.json)
-
-[Extended Data](ext_articles/ea1e6b45.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 21:17:24**
+As of **2024-02-20 21:52:10**
 
 ## Newspaper Stats
 
-*Scraped **8,312** Articles*
+*Scraped **8,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 429
 islandlk | 434
 dailyftlk | 444
 adalk | 708
-adaderanalk | 1,005
+adaderanalk | 1,006
 tamilmirrorlk | 1,024
 virakesarilk | 1,120
 adaderanasinhalalk | 1,210
@@ -26,27 +26,47 @@ dailymirrorlk | 1,224
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,312 (100.0%) of 8,312 articles have been extended.
+8,312 (100.0%) of 8,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
+### President addresses APRC, underscores agriculture’s crucial role in nation building
+
+*2024-02-20 21:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97418/president-addresses-aprc-underscores-agricultures-crucial-role-in-nation-building) · `en`
+
+During the 37th session of the Asia and Pacific Regional Conference (APRC) of the Food and Agriculture Organization of the United Nations (FAO) on Tuesday (Feb.20), President Ranil Wickremesinghe announced Sri Lanka’s chairmanship until 2026.
+
+The Sri Lankan leader affirmed the government’s dedication to elevating the island nation as a prominent exporter of agricultural produce through rapid agricultural sector transformation.
+
+He emphasized the pivotal role agriculture played in navigating Sri Lanka through the previous economic crisis and highlighted agriculture and tourism as key sectors for the nation’s swift recovery.
+
+These remarks were made during the opening session of the 37th Asia and Pacific Conference of FAO in Colombo, attended by Dr. Qu Dongyu, Director General of the UN FAO.
+
+...
+
+[Data](articles/e3f7f1d8.json)
+
+---
+
 ### TV Derana scoops top accolades at 2024 Sumathi Awards
 
 *2024-02-20 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97417/tv-derana-scoops-top-accolades-at-2024-sumathi-awards) · `en`
 
-TV Derana reaffirmed its excellence on Tuesday (Feb.20) at the 2024 Sumathi Awards ceremony, the 29th edition of one of the most popular television awards shows in Sri Lanka, taking place in Colombo.
+TV Derana reaffirmed its excellence on Tuesday (Feb.20) by scooping multiple top awards at the 2024 Sumathi Awards ceremony, the 29th edition of one of the most popular television awards shows in Sri Lanka, taking place in Colombo.
 
-This year’s ceremony presents awards for television programmes aired in the years 2022 and 2023.
+This year’s ceremony celebrates the remarkable television programmes aired in the years 2022 and 2023.
 
-As such, the Best Television Documentary 2023 award went to TV Derana’s “Buddha Paathra Wandana”, while the Best Television Current Affairs Programme 2022 award was conferred on TV Derana’s “Rebuild Sri Lanka”.
+As such, Ada Derana bagged the award for Best Television News Bulletin for the year 2022.
+
+The award for the Best Television Documentary 2023 went to TV Derana’s “Buddha Paathra Wandana” while the Best Television Current Affairs Programme 2022 award was conferred on TV Derana’s “Rebuild Sri Lanka”.
 
 Meanwhile, the “Kids Academy” of Ada Derana 24 was awarded the Best Television Educational Programme for the year 2022.
 
 “Gasma” of Derana Macroentertainment, the digital media arm of TV Derana, won big at the ceremony, by bagging three awards for the Best CSR Programme, National Interest Programme, and Current Affairs Programme in the Social Media Category.
 
-◼️
+...
 
 [Data](articles/b2470a32.json)
 
@@ -1967,29 +1987,5 @@ Sri Lanka, which is now in the bankruptcy, is now slowly progressing and becomin
 [Data](articles/9a564719.json)
 
 [Extended Data](ext_articles/9a564719.ext.json)
-
----
-
-### Mahamaya
-
-*2024-02-20 11:24:45* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-පාසලකට-හිමි-නොවූ-අවස්ථාවක්-කඩවත-මහාමායා-බාළිකාවන්ට-හිමිවෙයි/11-408187) · `si`
-
-The student's parliamentary parliament was held at the Presidential Secretariat yesterday (19) at the Presidential Secretariat yesterday (19).
-
-The President made them aware of what the children were summoned to the Cabinet at the Presidential Secretariat.
-
-School children had the opportunity to join the president with the president of the country.
-
-The President also explained the responsibilities of the Minister's posts to the students of the Student Parliament and the responsibilities of the Minister.
-
-The President also explained the need to provide the governmental structure of the country's future leadership.
-
-Kadawatha Mahamaya Balika Vidyalaya, Kadawatha regarding this historic opportunity to the children of his school WR. Mrs. Priyadarshani offered to President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/3e40b261.json)
-
-[Extended Data](ext_articles/3e40b261.ext.json)
 
 ---

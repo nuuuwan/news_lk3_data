@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 08:17:15**
+As of **2024-02-20 08:33:17**
 
 ## Newspaper Stats
 
-*Scraped **8,143** Articles*
+*Scraped **8,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 419
 islandlk | 422
 dailyftlk | 443
 adalk | 694
-adaderanalk | 989
 tamilmirrorlk | 990
+adaderanalk | 990
 virakesarilk | 1,091
 adaderanasinhalalk | 1,186
 dailymirrorlk | 1,201
@@ -26,97 +26,133 @@ dailymirrorlk | 1,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,135 (99.9%) of 8,143 articles have been extended.
+8,144 (100.0%) of 8,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### பொரளையில் நேற்றிரவு துப்பாக்கிச்சூடு
+### Last night shooting at Borelle
 
 *2024-02-20 07:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளையில்-நேற்றிரவு-துப்பாக்கிச்சூடு/175-333491) · `ta`
 
-பொரளை மகசின் சிறைச்சாலைக்கு முன்பாக உள்ள அடுக்குமாடி குடியிருப்புக்கு அருகில் நேற்று இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+One person was injured in a shooting last night near the apartment in front of the Borella Makasin Prison, police said.
 
-பொரளை ஆனந்த ராஜகருணா மாவத்தையில் அமைந்துள்ள சொகுசு அடுக்குமாடி குடியிருப்புக்கு முன்பாக மோட்டார் சைக்கிளில் வந்த துப்பாக்கிதாரி ஒருவரே துப்பாக்கிச் சூடு நடத்தியதாக அவர்கள் தெரிவித்தனர்.
+They said that a motorbike gunman fired a motorcycle in front of the luxury apartment located in Ananda Rajakaruna Mawatha in Borella.
 
-இவர் கடந்த சில நாட்களுக்கு முன்னர் விளக்கமறியலில் இருந்து பிணையில் விடுவிக்கப்பட்டவர் என தெரிவிக்கப்படுகிறது.
+He is reported to have been released on bail a few days ago.
 
-சந்தேகநபர்கள் இதுவரை அடையாளம் காணப்படாத நிலையில் பொரளை பொலிஸார் மேலதிக விசாரணைகளை ஆரம்பித்துள்ளனர்.
+The Borella police have launched further investigations as the suspects have not yet been identified.
 
 ◼️
 
 [Data](articles/3081d881.json)
 
+[Extended Data](ext_articles/3081d881.ext.json)
+
 ---
 
-### තවත් අභිරහස් කාන්තා මරණයක්
+### Another mysterious women's death
 
 *2024-02-20 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193600) · `si`
 
-අහුංගල්ල, එගොඩමුල්ල ප්‍රදේශයේ නිවසක තනිව පදිංචිව සිටි කාන්තාවක් සැකකටයුතු ලෙස මියගොස් තිබේ.
+A woman who was alone living alone in the Eigammulla area in Ahulla has died.
 
-මිය ගිය කාන්තාව දින ගණනාවක සිය නොදුටු බවත් ඇය පදිංචිව සිටි නිවස දෙසින් දුඟදක් හමන බවත් පවසමින් කරන ලද පැමිණිල්ලක් මත අහුංගල්ල පොලීසිය විමර්ශනයක් ආරම්භ කර තිබිණි.
+The Ahungalla Police have launched an investigation due to a complaint lodged by the deceased woman.
 
-ඒ අනුව, ඊයේ (19) පොලීසිය විසින් සිදුකරන ලද වැඩිදුර විමර්ශනයේදී, එම නිවසේ පදිංචි කාන්තාව නිවස තුළ පුටුවක් මත මියගොස් සිට ඇත.
+Accordingly, the woman residing in the house was killed on a chair.
 
-මෘත ශරීරය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරීක්ෂණය සිදුකිරීමෙන් අනතුරුව බලපිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත.
+The body has been placed at the morgue of the Balapitiya Hospital following the body.
 
 ◼️
 
 [Data](articles/07ee88bf.json)
 
+[Extended Data](ext_articles/07ee88bf.ext.json)
+
 ---
 
-### රට ළඟා කරගෙන ඇති ප්‍රගතිය ගැන ජනපතිගෙන් ප්‍රකාශයක්
+### President declares open the progress of the country
 
 *2024-02-20 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193599) · `si`
 
-රටේ ස්ථාවරත්වය සහ සමෘද්ධිය ළඟා කරගැනීමට මේ වන විට හැකි වී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe says that the country has now been able to achieve the stability and prosperity of the country.
 
 ◼️
 
 [Data](articles/1ab75dc8.json)
 
+[Extended Data](ext_articles/1ab75dc8.ext.json)
+
 ---
 
-### காணாமல் ஆக்கப்பட்டோரின் உறவினர்களின் மாபெரும் ஊர்வலம் இன்று
+### Iranian Foreign Minister arrives in Sri Lanka
+
+*2024-02-20 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97400/iranian-foreign-minister-arrives-in-sri-lanka) · `en`
+
+Minister of Foreign Affairs of the Islamic Republic of Iran, Dr. Hossein Amir Abdollahia arrived in the island on Monday night (19 Feb.), for a three-day official visit.
+
+A delegation of 20 persons, including the Iranian Foreign Minister, were welcomed at the Bandaranaike International Airport (BIA) in Katunayake by State Minister of Foreign Affairs Tharaka Balasuriya last night, Ada Derana reporter said.
+
+The Iranian Foreign Minister, who arrived on an invitation extended by Minister of Foreign Affairs Ali Sabry, will be in Sri Lanka from 19 - 21 February, and is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
+
+The visiting Minister and his delegation will also have official discussions with Minister Ali Sabry at the Ministry of Foreign Affairs.
+
+◼️
+
+[Data](articles/574bb611.json)
+
+[Extended Data](ext_articles/574bb611.ext.json)
+
+---
+
+### Today
 
 *2024-02-20 07:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-ஆக்கப்பட்டோரின்-உறவினர்களின்-மாபெரும்-ஊர்வலம்-இன்று/175-333490) · `ta`
 
-யுத்தத்தின் போது காணாமல் ஆக்கப்பட்ட தம் உறவினர்களின் இருப்பிடத்தை அறிந்து கொள்ள ஏழாண்டு கால உண்மையைத் தேடும் வேதனையை நிறைவு செய்யும் வகையில், வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் குடும்ப உறுப்பினர்கள் இன்று காலை கிளிநொச்சியில் பாரிய ஊர்வலமொன்றை நடத்தவுள்ளனர். .
+Family members of the disappeared will hold a massive procession in Kilinochchi this morning to fulfill the pain of seeking the seven -year -old truth to find out the location of their relatives during the war.. .
 
-வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்களுக்கான சங்கத்தின் (ARED) வடக்கு மற்றும் கிழக்கு மாகாணங்களின் ஐந்து கிளைகளைச் சேர்ந்த நூற்றுக்கணக்கான உறுப்பினர்கள் கிளிநொச்சியில் தங்களின் குறைகளைக் குறிக்கும் வகையில் பேரணியாகச் செல்லவுள்ளனர்.
+Hundreds of members of the five branches of the Northern and Eastern Provinces of the Relatives of the Missing Persons will march in Kilinochchi to mark their grievances.
 
-கிளிநொச்சி கந்தசாமி கோவிலில் இருந்து காலை 9.30 மணியளவில் பிரதான ஊர்வலம் ஆரம்பமாகி நான்கு கிலோமீற்றர் தூரத்தில் டிப்போ சந்தியில் உள்ள சிறப்பு நினைவுச்சின்னம் வரை செல்ல திட்டமிடப்பட்டுள்ளதாக ARED இன் பேச்சாளர் டெய்லி மிரருக்கு தெரிவித்தார்.
+The main procession began at 9.30 am from Kilinochchi Kandaswamy Temple and is scheduled to go up to a special monument at the Depot Junction, four kilometers away, ”said ARed's spokesman Daily Mirch.
 
-யாழ்ப்பாணம், முல்லைத்தீவு, மன்னார் மற்றும் வவுனியாவைச் சேர்ந்த ARED வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள், குறிப்பாக விதவைத் தாய்மார்களும் ஏழாவது ஆண்டு நினைவேந்தலில் கிளிநொச்சிக்கு வருவார்கள் என எதிர்பார்க்கப்படுகிறது.
+Relatives of the missing persons from Jaffna, Mullaitivu, Mannar and Vavuniya are expected to come to Kilinochchi in the seventh year of the seventh year.
 
-...
+The commemoration, which began on February 20, 2017, has promised to support the Tamil political party leaders from all the districts of the Northern Province.
+
+According to ARED sources, more than 200,000 people disappeared in the late 2009 war.
+
+◼️
 
 [Data](articles/609b7a0a.json)
 
+[Extended Data](ext_articles/609b7a0a.ext.json)
+
 ---
 
-### இன்றைய வானிலை முன்னறிவித்தல்
+### Forecast of today's weather
 
 *2024-02-20 07:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-முன்னறிவித்தல்/175-333489) · `ta`
 
-இன்று கிழக்கு மற்றும் ஊவா மாகாணங்களில் சிறிதளவில் மழை பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+The Department of Meteorology has predicted that there is a chance of rain in the Eastern and Uva provinces today.
 
-சப்ரகமுவ மாகாணத்தில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+In some places in the Sabaragamuwa province, there is a possibility of rain or thunderstorms in the evening or at night.
 
-மத்திய மலைநாட்டின் கிழக்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, வடமேல், ஊவா, தென் மற்றும் கிழக்கு மாகாணங்களிலும் மாத்தளை மற்றும் கண்டி மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 30-35 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
+Heavy winds are expected to blow up to 30-35 km / h from time to time in the Eastern Slips of the Central Highlands and the North, North Central, North Western, Uva, Southern and Eastern Provinces, Matale and Kandy districts.
 
-மேல் மற்றும் சப்ரகமுவமாகாணங்களில் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலைகாணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+In some parts of the upper and Sabaragamas, it is expected to be snowed in the morning.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும்.
+Thundershowers can be temporarily blowing in the area during the thunderstorm.
 
-மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள்.
+The public is advised to take necessary precautions to reduce the impacts of lightning impacts.
+
+The winds are blowing from the northeastern direction in the seas around the country and the wind is expected to be 25-30 km per hour.
 
 ...
 
 [Data](articles/19e0c300.json)
+
+[Extended Data](ext_articles/19e0c300.ext.json)
 
 ---
 
@@ -138,27 +174,31 @@ The suspects have not been identified yet and the Borella Police have started fu
 
 [Data](articles/5c992875.json)
 
+[Extended Data](ext_articles/5c992875.ext.json)
+
 ---
 
-### ගිනියම් වූ අනියම් පෙම
+### Fulfilled Casual Fulfillment
 
 *2024-02-20 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193598) · `si`
 
-අනියම් සම්බන්ධතාවක් හේතුවෙන් ඇතිවූ බහින් බස්වීමක් දුරදිග යාමෙන් පුද්ගලයින් දෙදෙනෙකු හා කාන්තාවන් තිදෙනෙකු බරපතළ තුවාල සිදුකර තිබේ.
+Two persons and two women were seriously injured when a heated argument caused by an illicit affair.
 
-ඊයේ (19) රාත්‍රී කාලයේදී එම සිදුවීම වාර්තා වී තිබුණේ රාමනාදපුරම්, කල්මඩුනගර් ප්‍රදේශයෙනි.
+The incident was reported from Renhandapapuram, Kalmadunar, yesterday.
 
-තුවාලකරුවන් කිලිනොච්චිය රෝහලට ඇතුළත් කර ඇති අතර ඉන් තුවාලකරුවන් දෙදෙනෙකු වැඩිදුර ප්‍රතිකාර සඳහා යාපනය රෝහල වෙත මාරුකරු යවා ඇත.
+The injured have been admitted to the Kilinochchi hospital and two injured have been sent to Jaffna Hospital.
 
-තුවාලකරුවන් අවුරදු 28 හා 30 වයස්වල පසුවන පිරිමි පුද්ගලයින් දෙදෙනෙකු හා අවුරුදු 28, 30 හා 50 වයස්වල පසුවන කාන්තාවන් තිදෙනෙකු වන අතර ඔවුන් පලෛයි හා වව්නියාව ප්‍රදේශවල පදිංචිකරුවන්ය.
+The injured are three years old and two men and three ages of age and aged 28 and 50 years of age and are residents of the Vavuniya.
 
-සිද්ධිය සම්බන්ධයෙන් සිදුකර ලද වැඩිදුර විමර්ශනයේදී අනාවරණය වී ඇත්තේ, අනියම් සම්බන්ධතාවක් හේතුවෙන් ඇතිවූ බහින් බස්වීමක් දුරදිග යාමෙන් තියුණු ආයුධවලින් පහරදී ඇති බවය.
+Investigation into the incident, he was revealed that he was assaulted by sharp weapons from a heated arms caused by a casual affair.
 
-සිද්ධියට සම්බන්ධ අවුරදු 24, 33 හා 59 වයස්වල පසුවන කිලිනොච්චිය හා වට්ටකච්චි ප්‍රදේශවල පදිංචි පුද්ගලයින් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Three persons living in Kilinochchi and Vatabillakekachchi areas have been arrested in Kilinochchi and Vatachachi areas related to the incident.
 
 ◼️
 
 [Data](articles/ca35e0a3.json)
+
+[Extended Data](ext_articles/ca35e0a3.ext.json)
 
 ---
 
@@ -214,7 +254,15 @@ President Ranil Wickremesinghe is scheduled to hold bilateral discussions with P
 
 *2024-02-20 06:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97398/suspected-drug-trafficker-injured-in-shooting-at-borella) · `en`
 
-A 38-year-old person, said to be involved in drug dealings and recently released from prison, has been shot and injured near a housing complex at Ananda Rajakaruna Mawatha in Borella, police said.
+A 38-year-old person, said to be involved in drug dealings and who was recently released from prison on bail, has been shot and injured near a housing complex at Ananda Rajakaruna Mawatha in Borella, police said.
+
+The gunshot victim is currently receiving treatment at the Colombo National Hospital, police reported.
+
+According to police, an unidentified individual had arrived on a motorcycle and opened fire at the victim last night. The exact motive behind the shooting is yet to be ascertained.
+
+Investigations have revealed, however, that the victim, identified as a member of an organized crime syndicate, is also a large-scale drug trafficker, and was granted bail on 05 February from a case related to drug-trafficking.
+
+Further investigations into the apprehension of the shooter are being carried out by the Borella Police.
 
 ◼️
 
@@ -1396,21 +1444,27 @@ Since we believe that you have the right to continue the journalism freely and w
 
 ---
 
-### සනත් නිශාන්ත හිටියනම් මට මෙහෙම වෙන්නේ නෑ
+### If Sanath Nishantha, I will not
 
 *2024-02-19 19:15:57* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-හිටියනම්-මට-මෙහෙම-වෙන්නේ-නෑ/11-408180) · `si`
 
-“සනත් නිශාන්ත මහත්තයා ජීවත්වලො සිටියා නම් මට මෙහෙම දෙයක් වෙන්නේ නෑ. මගේ රස්සාවත් නැති කළා. මට ජීවත් වෙන්න විදියක් නෑ” යනුවෙන් හිටපු ජල සම්පාදන රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ රියදුරා වශයෙන් කටයුතු කළ ප්‍රභාත් එරංග දුල්නේෂා නැමැත්තා වැලිසර මහේස්ත්‍රාත් තුසිත ධම්මික උඩුවවිදාන මහතා හමුවේ අද (19) කියා සිටියේය.
+"If Mr. Sanath Nishantha had been living, I would not happen to me if he had been living. I lost my job. Prabath Eranga Dulnesha, who was the driver of the former Water Supply of Water Supply.
 
-සන්ත නිශාන්ත මහතාට මරු කැඳවූ කොළඹ - කටුනායක ආධිවේගී මාර්ගයේ කෙරළපිටිය ප්‍රදේශයේ සිදුවූ මාරක රිය අනතුරට අදාල නඩුව කැඳවූ අවස්ථාවේදී ඔහු එසේ කියා සිටියේය.
+He said so when the case was taken up at Keragalapitiya
 
-මෙම සිද්ධියෙන් අතෘප්තියට පත්වූ බව කියමින් සනත් නිශාන්ත මහතාගේ බිරිඳගේ අයිවාසිකම් වෙනුවෙන් පෙනී සිටි නීතිඥ ධනරාජ් සමරකෝන් මහතා සැකකාර දුල්නේෂා නැමැත්තාට විදේශගත වීම වළක්වාළමින් නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා සිටි අවස්ථාවේදී දුල්නේෂා නැමැත්තා හැඩුම්බරව අධිකරණය හමුවේ එසේ පැවසීය.
+Dulnesha, who appeared to be discontinued by the incident, Dulnesha, who appeared to be dissatisfied with the incident, Dulnesha, who appeared to be dissatisfied to Dulnesha, was told in the heartbeat court.
 
-මෙම සිද්ධියට අදාල නඩුව කැඳවූ අවස්ථාවේදී සනත් නිශාන්ත මහතාගේ මෝටර් රථයේ ගැටුණු කන්ටේනර් රථයේ රියදුරු මෙන්ම සනත් නිශාන්ත මහතාගේ රථය පැදවූ දුල්නේෂා නැමැත්තා ද අධිකරණයේ පෙනී සිටියහ.
+Dulnasha appeared in court when the case was taken up at the container driver of Mr. Sanath Nishantha when the case was taken up at the car.
+
+The officers of the Kandana Police who were produced in the court regarding the progress of the investigations have been sent to the DIG's inquiries regarding the progress of the fatal accident.
+
+The officials of the Kandana Police have informed the court that action will be taken to inform the court on the next step after receiving the instructions of the DIG.
 
 ...
 
 [Data](articles/273f4441.json)
+
+[Extended Data](ext_articles/273f4441.ext.json)
 
 ---
 
@@ -2029,19 +2083,5 @@ The Kotakethana area became notorious for a series of mysterious killings and du
 [Data](articles/f46ae3ca.json)
 
 [Extended Data](ext_articles/f46ae3ca.ext.json)
-
----
-
-### CMC gets first female medical officer after 122 years
-
-*2024-02-19 16:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/CMC-gets-first-female-medical-officer-after-122-years/110-277338) · `en`
-
-Dr. Deepika Rathnawardane assumed duties today as the first female Chief Medical Officer of Health at the Colombo Municipal Council (CMC). She becomes the first Chief Medial Officer appointed to this post after a lapse of 122 years. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/8661780d.json)
-
-[Extended Data](ext_articles/8661780d.ext.json)
 
 ---

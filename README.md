@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 19:02:27**
+As of **2024-02-20 19:17:25**
 
 ## Newspaper Stats
 
-*Scraped **8,286** Articles*
+*Scraped **8,295** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 90
-bbccomsinhala | 103
+colombotelegraphcom | 91
+bbccomsinhala | 104
 dbsjeyarajcom | 156
 newsfirstlk | 363
 economynextcom | 421
 islandlk | 434
 dailyftlk | 444
-adalk | 706
+adalk | 708
 adaderanalk | 1,002
 tamilmirrorlk | 1,020
 virakesarilk | 1,120
 adaderanasinhalalk | 1,209
-dailymirrorlk | 1,218
+dailymirrorlk | 1,223
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,286 (100.0%) of 8,286 articles have been extended.
+8,286 (99.9%) of 8,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### මෙරට ඉතිහාසයේ විශාලතම පෞද්ගලීකරණය අප දැන්ආරම්භ කර තිබෙනවා
+
+*2024-02-20 18:46:58* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ඉතිහාසයේ-විශාලතම-පෞද්ගලීකරණය-අප-දැන්ආරම්භ-කර-තිබෙනවා/11-408197) · `si`
+
+කෘෂි ක්ෂේත්‍රයේ වේගවත් පරිවර්තනයක් සමඟ නැවත ප්‍රධාන කෘෂි බෝග අපනයනකරුවකු ලෙස ශ්‍රී ලංකාව නඟා සිටුවීමට රජය කැපවී කටයුතු කරමින් සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ශ්‍රී ලංකාවේ පසුගිය ආර්ථික අර්බුදයට මුහුණ දීමේදී කෘෂිකර්මාන්තය දැවැන්ත කාර්යභාරයක් ඉටුකළ බව පෙන්වා දුන් ජනාධිපතිවරයා රට කඩිනමින් යළි නඟා සිටුවිය හැකි ප්‍රධාන ක්ෂේත්‍ර දෙකක් ලෙස කෘෂිකර්මාන්තය සහ සංචාරක කර්මාන්තය හඳුනාගෙන තිබෙන බවද සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මේ දිනවල කොළඹදී පැවැත්වෙන එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ ආසියා සහ පැසිෆික් කලාපීය සමුළුවේ 37 වැනි සැසිවාරයේ සමාරම්භක සැසිය අද (20) පෙරවරුවේ අමතමිනි.
+
+එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ (UN FAO) අධ්‍යක්ෂ ජනරාල් ආචාර්ය කූ දොන්ග්‍යු (Dr. Qu Dongyu) මහතා ද එම අවස්ථාවට සහභාගී විය.
+
+...
+
+[Data](articles/fbd3096b.json)
+
+---
+
+### Russia arrests dual US citizen for Ukraine-linked ‘treason’
+
+*2024-02-20 18:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russia-arrests-dual-US-citizen-for-Ukraine-linked-treason/108-277413) · `en`
+
+Feb 20 (Al Jazeera) - Russia’s internal security and intelligence agency has arrested a woman who holds dual Russian and United States nationality in the Ural district for committing “treason” by raising funds for Ukraine.
+
+The Federal Security Service (FSB) in the city of Yekaterinburg took into custody the unnamed woman, identified only as a 33-year-old resident of Los Angeles, state media reported on Tuesday.
+
+She “was involved in providing financial assistance to a foreign state in activities directed against the security of our country”, said a statement by the security agency carried by Russian media.
+
+It said since February 2022, she was “proactively collecting money” for a Ukrainian organisation that would ultimately benefit the Ukrainian armed forces in the form of purchase of “tactical medicine items, equipment, weapons and ammunition”.
+
+...
+
+[Data](articles/37de90db.json)
+
+---
 
 ### Cabinet approval to prepare composite draft bill on child rights
 
@@ -47,6 +83,22 @@ Accordingly, the Legal Draftsman will be directed to prepare the composite act, 
 [Data](articles/8a9c6a5d.json)
 
 [Extended Data](ext_articles/8a9c6a5d.ext.json)
+
+---
+
+### New study links COVID-19 vaccines to possible health issues
+
+*2024-02-20 17:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-study-links-COVID-19-vaccines-to-possible-health-issues/108-277411) · `en`
+
+Feb 20- The largest ever multi-country survey on the side-effects of COVID vaccines – from the houses of Pfizer, Moderna and AstraZeneca – claims to have found that these life-saving shots exacerbated 13 different medical conditions.
+
+The study was conducted by Global Vaccine Data Network (GVDN). It considered nearly 100 million vaccinated individuals across eight countries: Argentina, Australia, Canada, Denmark, Finland, France, New Zealand and Scotland.
+
+The comprehensive study, recently published in the esteemed journal Vaccine, unearthed some concerning associations between COVID-19 vaccines and certain medical conditions. Notably, researchers observed a slight increase in neurological, blood, and heart-related issues following vaccination, as outlined in a press release from the GVDN.
+
+...
+
+[Data](articles/22c6a058.json)
 
 ---
 
@@ -87,6 +139,24 @@ The car is a Limous car similar to the chair and that the two people is a car to
 [Data](articles/b11aa02a.json)
 
 [Extended Data](ext_articles/b11aa02a.ext.json)
+
+---
+
+### SLPP MP ordained as Buddhist monk
+
+*2024-02-20 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-MP-ordained-as-Buddhist-monk/108-277410) · `en`
+
+Colombo, Feb 20 (Daily Mirror)- SLPP MP Gunatileke Rajapaksa has been temporarily ordained as a Buddhist monk. The MP is now called Venerable Harispathuwe Dhammarathana Thera.
+
+His son has also been ordained as Venerable Ampare Dhammaloka Thera.
+
+Both have been ordained at the historical Isipathanarama Temple in India.
+
+The MP had reportedly decided to enter into the religious order after the death of his wife.
+
+◼️
+
+[Data](articles/73717c32.json)
 
 ---
 
@@ -442,6 +512,18 @@ He also said that he was resigning to engage in radical politics in a new allian
 
 ---
 
+### Indigenous medicine students protest...
+
+*2024-02-20 15:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Indigenous-medicine-students-protest/110-277405) · `en`
+
+Students' union of the Indigenous Medicine Faculty staged a protest march today from Rajagiriya Ayurveda Hospital to Auyrveda rounabout, demanding the government to withdraw the policies that destroy the local indigenous medical practices and to take immediate action to overcome the current medical shortage. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/bac49f7f.json)
+
+---
+
 ### The struggle for justice of the relatives of the missing persons is beginning;The Thera also participated!
 
 *2024-02-20 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176877) · `ta`
@@ -790,6 +872,24 @@ Various organizations have been protesting against the minister's comment and ur
 
 ---
 
+### වසර හැටපහක් පැරණි පෞද්ගලික පුස්තකාලයක් ජාතික ජන බලවේගයට පරිත්‍යාග කරයි
+
+*2024-02-20 13:52:52* · [`adalk`](https://www.ada.lk/breaking_news/වසර-හැටපහක්-පැරණි-පෞද්ගලික-පුස්තකාලයක්-ජාතික-ජන-බලවේගයට-පරිත්‍යාග-කරයි/11-408194) · `si`
+
+වමේ ව්‍යාපාරය නියෝජනය කරන ප්‍රබල චරිතයක් මෙන්ම ප්‍රකට ලේඛකයෙකු වූ නීතිඥ එස් ජී පුංචිහේවා මහතා විසින් රචිත පොත්පත් ඇතුළු වසර හැට පහක් පුරා එක් රැස් කළ පොත්පත් සහිත පුස්තකාලයක් ජාතික ජන බලවේගයට පරිත්‍යාග කිරීම ඉකුත් (19) දා කොට්ටාව රුක්මල්ගම බාලිකා නිවාස  පාරේ පිහිටි ඒ මහතාගේ නිවසේදී  පැවැත්වුණි.
+
+නීතිඥ උපුල් කුමරප්පෙරුම  මහතාගේ සම්බන්ධීකරණය ඇතුව සිදුවූ  මෙම සත්කාරය සඳහා  ජාතික ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හරිනි අමරසූරිය ජනතා විමුක්ති පෙරමුණේ ප්‍රචාරක ලේකම් ටිල්වින් සිල්වා , ලාල් කාන්ත , හා නීතිඥ උපුල් කුමරප්පෙරුම , මහරගම නගර සභාවේ හිටපු මන්ත්‍රී දේවානන්ද සුරවීර මහතා ඇතුළු පිරිසක් සහභාගී වී සිටියහ.
+
+මෙහිශීඅදහස් දැක්වූ නීතිඥ එස් . ජී. පුංචි හේවා මහතා  අදහස් දක්වමින් මෙසේ කීය.
+
+“ මට දැන් වයස අවුරුදු 91 යි. ඉන්  වසර 65 තිස්සේ එක්රැස් කළ විවිධ විෂයන්ට අදාල පොත්පත් රැසක් මා සතුව තිබුණා. එම පොත්පත් පොදුවේ පාවිච්චියට ගන්න පුළුවන් හො﻿ඳම කණ්ඩායම කවුද කියලා පසුගිය කාලේ  මම කල්පනා කළා. එහිදී මට තේරුම් ගියේ  ඒ සදහා ඉන්න හොඳම කණ්ඩායම ජාතික ජන බලවේගය කියලයි.
+
+...
+
+[Data](articles/fe54c720.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-02-20 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176860) · `ta`
@@ -1060,6 +1160,16 @@ Accordingly, the suspects were arrested by the CIABOC for allegedly soliciting a
 
 ---
 
+### Feminist Revolt & Masculinity Pitfalls In The Bolshevik Camp: Sri Lanka’s Election Prelude
+
+*2024-02-20 12:46:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/feminist-revolt-masculinity-pitfalls-in-the-bolshevik-camp-sri-lankas-election-prelude/) · `en`
+
+...
+
+[Data](articles/c6ad8fa0.json)
+
+---
+
 ### Two bribery officers work
 
 *2024-02-20 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193612) · `si`
@@ -1109,6 +1219,30 @@ The Union of Nuwara Eliya District Development forums, Social Development Forums
 [Data](articles/59b3910f.json)
 
 [Extended Data](ext_articles/59b3910f.ext.json)
+
+---
+
+### ඉරාන, ඊශ්‍රායල්, ඇමෙරිකා නියෝජිතයෝ ශ්‍රී ලංකාවේ: මේ සිදුවන්නේ කුමක් ද?
+
+*2024-02-20 12:39:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crg9jl9m75eo) · `si`
+
+ඉරාන, ඊශ්‍රායල්, ඇමෙරිකා නියෝජිතයෝ ශ්‍රී ලංකාවේ: මේ සිදුවන්නේ කුමක් ද?
+
+මේ වන විට ලෝකයේ විවිධ මත දරන සහ විවිධ කණ්ඩායම් ලෙස ක්‍රියාකරන බව පෙනී යන රටවල් රැසක නියෝජිතයෝ ශ්‍රී ලංකාවේ සංචාරය කරමින් සිටිති‍.
+
+විශේෂයෙන් මැද පෙරදිග රටවල් කිහිපයක් අතර සහ සටන්කාමී සංවිධාන කිහිපයක් අතර මතවාද සහ ගැටුම් නිර්මාණය වෙමින් පවතින අවස්ථාවක මෙම සංචාරයන් සිදු වීම විශේෂත්වයකි.
+
+ජාත්‍යන්තර වෙළෙඳ කටයුතුවලට තර්ජනයක් වී ඇති හූතිවරුන්ට එරෙහි මෙහෙයුම් සඳහා රතු මුහුද වෙත යුද නෞකාවක් යන බව ජනාධිපති රනිල් වික්‍රමසිංහ ද පසුගියදා නිවේදනය කළේය.
+
+මෙම පසුබිම තුළ ඊශ්‍රායල්, ඇමෙරිකානු හා ඉරාන රාජ්‍යතාන්ත්‍රිකයින්ගේ ශ්‍රී ලංකාවේ සංචාරවල සැබෑ අරමුණ කුමක් ද?
+
+මහජන රාජ්‍ය තාන්ත්‍රිකභාවය සහ මහජන කටයුතු සම්බන්ධ ඇමෙරිකානු සහකාර රාජ්‍ය ලේකම් එලිසබෙත් ඇලන් ශ්‍රී ලංකාවට පැමිණ සාකච්ඡාවල‌ට සහභාගි වූවාය.
+
+ඇය එහිදී, ශ්‍රී ලංකාවේ ආර්ථික ස්ථාවරත්වය පවත්වාගෙන යාමට තවදුරටත් සහයෝගය ලබා දෙන බවට පොරොන්දු දුන් බව විදේශ කටයුතු අමාත්‍යංශය නිවේදනය කළේය.
+
+...
+
+[Data](articles/844b9d84.json)
 
 ---
 
@@ -1815,175 +1949,5 @@ The first Test match begins on March 22 and the second Test match on March 30.
 [Data](articles/7458bd9c.json)
 
 [Extended Data](ext_articles/7458bd9c.ext.json)
-
----
-
-### Some sections of Anti Terrorism Bill inconsistent with Constitution: Supreme Court
-
-*2024-02-20 10:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-sections-of-Anti-Terrorism-Bill-inconsistent-with-Constitution-Supreme-Court/108-277381) · `en`
-
-Parliament, Feb. 20 (Daily Mirror)- The Supreme Court has informed the Speaker of Parliament that some sections of the proposed Anti Terrorism Bill are inconsistent with the Constitution and should be approved with a special majority and through a referendum.
-
-Accordingly, Deputy Speaker Ajith Rajapaksa announced that Sections 3, 40, 53 and 70 are inconsistent with the Constitution and should be approved by a two thirds majority and through a referendum.
-
-However, the court has further stated that it could be passed by a simple majority if the recommended amendments are accommodated.
-
-◼️
-
-[Data](articles/2d703442.json)
-
-[Extended Data](ext_articles/2d703442.ext.json)
-
----
-
-### Why Discrimination to Tamil Journalists: Radha Question
-
-*2024-02-20 10:10:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தமிழ்-ஊடகவியலாளர்களுக்கு-ஏன்-பாகுபாடு-இராதா-கேள்வி/76-333499) · `ta`
-
-Parliament was chaired by Deputy Speaker Ajith Rajapaksa at 9.30 am on Tuesday (20).
-
-Nuwara Eliya District Parliamentarian V Irathakrishnan, who raised the main measures of Parliament, will be held in Nuwara Eliya on the 21st of Wednesday (Wednesday).
-
-Tamil language journalists are not called for this. Tamil journalists have not been invited to government -run activities before. Why?He asked if you were discriminating.
-
-Responding to this, Media Minister Bandula Gunawardena said these workshops are being sponsored by UNTP's funds. There is no such discrimination shown. He said journalists have been invited.
-
-Interrupted Radhakrishnan, Nuwara Eliya Tamil journalists know Sinhala well. But, why?He asked the Tamil journalists to invite such activities.
-
-◼️
-
-[Data](articles/a59390a7.json)
-
-[Extended Data](ext_articles/a59390a7.ext.json)
-
----
-
-### Supreme Court decision on anti-terrorism
-
-*2024-02-20 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193606) · `si`
-
-The Supreme Court has given the Supreme Court verdict on the anti-terrorism bill.
-
-In Parliament today (20), the Deputy Speaker presented the decision to parliament.
-
-Section 3, 42, 53 and 70, the Constitution follows the Constitution 12 (1) of the Constitution, and should be passed with a special majority in parliament.
-
-However
-
-Section 4 should be amended appropriately according to the Supreme Court decision.
-
-Section 61 (1) The Constitution is courated, and the majority of the majority and a referendum must be approved by. If the Supreme Court decision will be made in the proposed amendment, that perconciliation will leave. Article 72 (2) should be revised in accordance with the Supreme Court decision.
-
-* 75 (3) The 3rd of the Constitution of the Constitution of the Constitution 4 (d) violates the constitution and should be approved by two-thirds majority. If the Supreme Court decision will be made the proposed amendment on the clause, those lies will pass away.
-
-...
-
-[Data](articles/4548f806.json)
-
-[Extended Data](ext_articles/4548f806.ext.json)
-
----
-
-### Request to use drinking water efficiently!
-
-*2024-02-20 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/176819) · `ta`
-
-The National Water Supply and Drainage Board (WSDB) has announced a project to set up a salt barrier across the Kelani River due to the decrease in water level due to the prevailing drought.
-
-Accordingly, Deputy General Manager Anoja Kalu Arachchi said that the preliminary work is underway to construct the barrier.
-
-The drought weather in the country is prolonging and the consumption of water has increased. Therefore, he urged the public to use water efficiently.
-
-◼️
-
-[Data](articles/23f6d3c0.json)
-
-[Extended Data](ext_articles/23f6d3c0.ext.json)
-
----
-
-### Indian farmers reject government offer and say they will carry on marching to New Delhi
-
-*2024-02-20 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97403/indian-farmers-reject-government-offer-and-say-they-will-carry-on-marching-to-new-delhi) · `en`
-
-Indian farmers who have been protesting for a week to demand guaranteed crop prices have rejected a proposal from the government, and say they will continue their march to the capital New Delhi.
-
-The protesting farmers began their march last week, but their efforts to reach the city have been blocked by authorities, who have used tear gas and heavily barricaded entry points into the capital to avoid a repeat of 2021 farmer protests when they camped on the outskirts for over a year.
-
-Late Monday night, farm leaders said they refused the government’s offer of a five-year contract for guaranteed prices for a set of crops, including pulses, maize and cotton.
-
-The government’s proposal made Sunday was “not in the interest of farmers,” Jagjit Singh Dallewal, one of the leaders spearheading the protest, told the Press Trust of India news agency.
-
-...
-
-[Data](articles/74566d94.json)
-
-[Extended Data](ext_articles/74566d94.ext.json)
-
----
-
-### SC conveys determination on Anti-Terrorism Bill to Speaker
-
-*2024-02-20 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97402/sc-conveys-determination-on-anti-terrorism-bill-to-speaker-) · `en`
-
-The Supreme Court on Tuesday (20 Feb.) conveyed its decision on the much-disputed Anti-Terrorism Bill to Parliament Speaker Mahinda Yapa Abeywardena.
-
-Accordingly, the Supreme Court determined that while several clauses of the proposed legislation require to be passed by a special majority, several other provisions of the Anti-Terrorism Bill need to be passed by both, a special majority and a referendum, unless amendments recommended by the Supreme Court are carried out.
-
-On 02 February, the Supreme Court concluded the hearing of petitions filed challenging the government’s new Anti-Terrorism Bill following the lengthy proceedings that continued for six days in total.
-
-Thirty-one petitions had been put forward against the proposed legislation which seeks to replace the controversial Prevention of Terrorism Act (PTA).
-
-...
-
-[Data](articles/2b742de6.json)
-
-[Extended Data](ext_articles/2b742de6.ext.json)
-
----
-
-### Life threat to the Minister of Public Safety and the Inspector General of Police
-
-*2024-02-20 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176825) · `ta`
-
-Ceylondew has reported that the Investigation Unit has received information on the plot against the Minister of Public Security Tran Ales, the Chancellor of the Reply.
-
-Cellondee said the two were targeted due to the leadership of the strategy.
-
-Cellondee reports that the people involved in the drug trade have paid a large sum of money to carry out the project.
-
-Cellondeh said that they use some politicians and officials who are influential to disrupt the power of the Chancellor of the Reply.
-
-Children's Public Security Minister responded that the Public Security Minister in response to the police chief is trying to use state officials - even diplomats - they are trying to use state officials - even diplomats.
-
-Cellondeh also said that the police are in the process of raising awareness about the dangers caused by gangs involved in crime to spread this information.
-
-◼️
-
-[Data](articles/bf15d4e5.json)
-
-[Extended Data](ext_articles/bf15d4e5.ext.json)
-
----
-
-### Iran foreign minister in Sri Lanka to discuss expanded cooperation
-
-*2024-02-20 09:50:00* · [`economynextcom`](https://economynext.com/iran-foreign-minister-in-sri-lanka-to-discuss-expanded-cooperation-151497/) · `en`
-
-ECONOMYNEXT – Minister of Foreign Affairs of the Islamic Republic of Iran, Hossein Amir Abdollahian is in the island on an official visit to Sri Lanka.
-
-“Consultation to expand cooperation in the fields of economy, trade, agriculture, science and technology, technical and engineering services, etc is on our common agenda,” the minister said on X (twitter).
-
-The Iranian minister’s visit on an invitation, follows a visit by Israeli Minister of Transport and Road Safety, Brig Gen Miri Regev last week.
-
-State Minster of Foreign Affairs Tharaka Balasuriya welcomed the Iranian Minister. “Sri Lanka is honoured to host His Excellency, and I hope his time in #SL will contribute to deepening ties of #diplomacy and partnership between our countries,” Balasuriya said on X (twitter).
-
-Analysts say the diplomatic relations between Sri Lanka and Iran have been intact despite a sanction by the United States which deprived Sri Lanka from receiving cheap Iranian light crude since 2012.
-
-...
-
-[Data](articles/ad6cd416.json)
-
-[Extended Data](ext_articles/ad6cd416.ext.json)
 
 ---

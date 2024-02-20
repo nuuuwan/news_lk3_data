@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 11:33:06**
+As of **2024-02-20 11:52:03**
 
 ## Newspaper Stats
 
-*Scraped **8,190** Articles*
+*Scraped **8,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,109 @@ economynextcom | 419
 islandlk | 434
 dailyftlk | 444
 adalk | 697
-adaderanalk | 993
+adaderanalk | 995
 tamilmirrorlk | 1,000
 virakesarilk | 1,094
-adaderanasinhalalk | 1,194
+adaderanasinhalalk | 1,195
 dailymirrorlk | 1,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,188 (100.0%) of 8,190 articles have been extended.
+8,191 (100.0%) of 8,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### UN FAO ආසියා - පැසිෆික් කලාපීය සමුළුව ඇරඹේ
+### Proposal to reduce electricity tariffs to be submitted to PUCSL within two days - Minister
+
+*2024-02-20 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97405/proposal-to-reduce-electricity-tariffs-to-be-submitted-to-pucsl-within-two-days-minister) · `en`
+
+The Ceylon Electricity Board (CEB) is expected to hand over the proposals pertaining to the revision of electricity tariffs to the Public Utilities Commission of Sri Lanka (PUCSL) within the next two days, Minister of Power and Energy Kanchana Wijesekera said.
+
+Wijesekera made this announcement while addressing the Parliament this morning (20 Feb.).
+
+◼️
+
+[Data](articles/9c7cf46e.json)
+
+---
+
+### Latest decision taken about electricity bills
+
+*2024-02-20 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193609) · `si`
+
+Minister of Power and Energy Kanchana Wijesekara says that the electricity tariff is expected to reduce more than before mentioned earlier.
+
+Speaking in parliament today (20), the minister said.
+
+The Minister said that the proposal is due to be produced before the Public Utilities Commission and they will be decided.
+
+"In December, we decided that the electricity should be revised. Accordingly, the CEB has provided their proposal to the Public Utilities Commission. In the meantime, we requested that various parties to give us information about the issues of the electricity tariffs. "
+
+◼️
+
+[Data](articles/0418b936.json)
+
+[Extended Data](ext_articles/0418b936.ext.json)
+
+---
+
+### 37th session of FAO Regional Conference for Asia and the Pacific inaugurated in Colombo
+
+*2024-02-20 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97404/37th-session-of-fao-regional-conference-for-asia-and-the-pacific-inaugurated-in-colombo-) · `en`
+
+President Ranil Wickremesinghe, accompanied by the FAO Director General Qu Dongyu, on Tuesday inaugurated the Thirty-seventh Session of the Regional Conference for Asia and the Pacific (APRC) of the UN Food and Agriculture Organization (FAO) at the Hilton Hotel, Colombo.
+
+Several matters of concerns including the state of food and agriculture in the region, agrifood systems transformation and solutions particularly for smallholders and family farmers, are set to be discussed at the high-level Ministerial in-person event.
+
+UN FAO Director Genera Qu Dongyu arrived in Sri Lanka on 18 February for a three-day visit to participate in APRC37, which will see the participation of Government Ministers and Heads of Delegations from as many as 46 Member Nations gathering in Colombo.
+
+◼️
+
+[Data](articles/cf9bbdea.json)
+
+---
+
+### UN FAO Asia - Pacific Regional Conference begins
 
 *2024-02-20 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193608) · `si`
 
-මීට සුළු වේලාවකට පෙර එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ (UN FAO) ආසියා - පැසිෆික් කලාපීය සමුළුවේ 37 වැනි සැසි වාරය ආරම්භ වී තිබේ.
+A short time ago, the 37th session of the Asia-Pacific Regional Conference (UN FAO) has begun.
 
-ඒ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ අධ්‍යක්ෂ ජනරාල් ආචාර්ය කූ දොන්ග්‍යු මහතාගේ ප්‍රධාන්තවයෙනි.
+The President Ranil Wickremesinghe and Director General of the United Nations Food and Agriculture Organization of the United Nations Dr. Phil Donghyu.
 
 ◼️
 
 [Data](articles/c24711e0.json)
 
+[Extended Data](ext_articles/c24711e0.ext.json)
+
 ---
 
-### வெளிநாடு செல்ல முயன்ற  இளைஞன் உயிர் மாய்ப்பு
+### The young man who tried to go abroad
 
 *2024-02-20 10:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடு-செல்ல-முயன்ற-இளைஞன்-உயிர்-மாய்ப்பு/175-333501) · `ta`
 
-முந்தல் - மங்கள எளிய பகுதியில் இளைஞன் ஒருவன் தனது  வீட்டில் வைத்து   உயிரை  மாய்த்துக்கொண்ட  நிலையில்  திங்கட்கிழமை  (19)  மீட்கப்பட்டுள்ளார்.
+Mundal - A young man has been rescued on Monday (19) after he was living in his house.
 
-மங்கள எளிய பகுதியைச் சேர்ந்த காவிந்த மதுசங்க என்ற  24 வயதுடைய  இளைஞனே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார் .
+The body of a 24 -year -old youth, Kavinda Madusanga, a simple area, has been recovered.
 
-உயிரிழந்த இளைஞனின் தாயும், சகோதரியும் சந்தைக்கு சென்ற நிலையில், வீட்டில்  இளைஞனும், தந்தையுமே இருந்துள்ளனர். இதன்போது,  தந்தை தொலைக்காட்சியில் நிகழ்ச்சிகளை பார்த்துக்கொண்டிருந்த போது குறித்த இளைஞன் வீட்டின் அறையொன்றுக்குள் சென்று கதவைப் பூட்டிக்கொண்டுள்ளார் .
+The mother and sister of the deceased are going to the market, and the young man and father are at home. During this time, the young man went into the room of the house while watching the shows on television.
 
-இந் நிலையில், சந்தைக்கு சென்ற தாயும், சகோதரியும் வீட்டுக்கு வந்து , மகனை தேடி அறையின் கதவை தட்டி அழைத்த போதும் இளைஞனிடமிருந்து  எவ்வித பதிலும் கிடைக்காதமையால் கதவை உடைத்து உள்ளே சென்று பார்த்த போது இளைஞன்  உயிரை மாய்த்துக்கொண்ட நிலையில் சடலமாக காணப்பட்டுள்ளார்.
+In this case, the mother and sister who went to the market came home and called her son in search of the door of the room, but when the young man broke the door and went inside the door, the young man was found dead.
 
-உடனடியாக அவரை முந்தல் வைத்தியசாலைக்கு கொண்டு சென்றுள்ள  போதிலும், இளைஞன் ஏற்கனவே உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+The doctors said the youth had already died, though he was immediately taken to the hospital.
+
+The father reported in the complaint that the young man had asked for money to go abroad and that he had told him to sell the motorcycle or to organize a motorcycle or make money due to lack of money.
 
 ...
 
 [Data](articles/8e05aa4d.json)
+
+[Extended Data](ext_articles/8e05aa4d.ext.json)
 
 ---
 
@@ -1977,75 +2033,5 @@ Sadara Samarawickrema scored 51 runs in 42 balls with five fours.
 [Data](articles/9819efae.json)
 
 [Extended Data](ext_articles/9819efae.ext.json)
-
----
-
-### This is how the kilpaya murderer sentenced to death
-
-*2024-02-19 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193589) · `si`
-
-The Ratnapura High Court today sentenced the accused of murder of a mother and daughter in Kotakethana.
-
-Miss High Court Judge Lanka Jayaratne sentenced such deaths after a 12-year trial.
-
-The mark of the murders in Kotakethana, Ratnapura, was terrified.
-
-The mother and daughter of the murder have reported several incidents and a person who has been sentenced to death today.
-
-On July 19, the 19th of July 2012, Liyanarachchi's Rolewoman was a 23-year-old daughter, a sixteen-year-old mother, a thirty-year-old mother named Pushpakumari.
-
-Four suspects were arrested by the Kahawatta Police regarding the murder and the Attorney General sued the Colombo High Court against the four.
-
-One of them was a Witness witness, and the other were acquitted and released.
-
-According to the Kahawatta police have resumed the incident.
-
-That is how a group of people residing in Kotakethana are randomly selected and DNA is checked.
-
-One of the suspects is suitable with samples obtained from another murder in Kotakethana.
-
-...
-
-[Data](articles/988cc485.json)
-
-[Extended Data](ext_articles/988cc485.ext.json)
-
----
-
-### Working on restoring tracks...
-
-*2024-02-19 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Working-on-restoring-tracks/110-277337) · `en`
-
-Workmen attending to repairs to the railway lines of the Ragama railway station, which were damaged due to the derailment of the Badulla-bound Colombo Udarata Menike express train yesterday. The train operations on the main line were delayed due to the derailment of the Udarata Menike express train near the Ragama railway station yesterday. Three tracks were damaged due to the derailment. Pix by Nimalsiri Edirising
-
-◼️
-
-[Data](articles/5c438f47.json)
-
-[Extended Data](ext_articles/5c438f47.ext.json)
-
----
-
-### The person who suffered from abdominal pain
-
-*2024-02-19 20:22:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயிற்று-வலியால்-அவதிப்பட்டவர்-தன்னுயிரை-மாய்த்தார்/175-333471) · `ta`
-
-The Irakalai police have recovered a body of a man today (19) after being hanged in the house of the Irakalai police division.
-
-The body of the body has been identified as the father of three children (61), Ponnaya Nageswaran.
-
-He had been suffering from abdominal pain for a long time and returned home with his eldest son this morning (19) and returned home and died in a rope in his house.
-
-At the same time, the death of his younger son is engaged next month.
-
-The police are conducting investigations into whether the deceased was in the throes.
-
-The body will be taken to the Nuwara Eliya District Hospital for autopsy following the death of a court judge.. Remble
-
-◼️
-
-[Data](articles/15452807.json)
-
-[Extended Data](ext_articles/15452807.ext.json)
 
 ---

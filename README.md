@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 07:52:18**
+As of **2024-02-20 08:02:45**
 
 ## Newspaper Stats
 
-*Scraped **8,134** Articles*
+*Scraped **8,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 422
 dailyftlk | 443
 adalk | 693
 tamilmirrorlk | 987
-adaderanalk | 988
+adaderanalk | 989
 virakesarilk | 1,091
 adaderanasinhalalk | 1,183
 dailymirrorlk | 1,200
@@ -26,11 +26,35 @@ dailymirrorlk | 1,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,134 (100.0%) of 8,134 articles have been extended.
+8,134 (100.0%) of 8,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### Israel’s economy shrinks more than expected on Gaza war
+
+*2024-02-20 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97399/israels-economy-shrinks-more-than-expected-on-gaza-war) · `en`
+
+Israel’s economy shrank by far more than expected in the wake of conflict with Hamas in Gaza, according to official figures.
+
+Gross domestic product (GDP) - a key measure of a country’s economic health - fell by 19% on an annualised basis in the fourth quarter of 2023.
+
+That is the equivalent of a fall of 5% between October and December.
+
+GDP was “directly affected” by the outbreak of the conflict on 7 October, the Central Bureau of Statistics said.
+
+Israel and Hamas have been at war after gunmen from the Palestinian group launched an unprecedented attack on Israel from Gaza - the deadliest in Israel’s history.
+
+About 1,200 people were killed during the attack. Hamas, which is considered a terrorist group by Israel, the US, the European Union and the UK, also took more than 250 men, women and children hostage.
+
+An Israeli military campaign has followed, which has killed 29,000 people in the Palestinian territory, according to the Hamas-run health ministry there.
+
+...
+
+[Data](articles/b668e977.json)
+
+---
 
 ### Iranian Foreign Minister arrives in Sri Lanka
 
@@ -2045,27 +2069,5 @@ The second match of the three-match series is scheduled to kick-off at 07:00 p.m
 [Data](articles/b2097094.json)
 
 [Extended Data](ext_articles/b2097094.ext.json)
-
----
-
-### Sri Lanka Pensions Dept asks unethical questions: legislator
-
-*2024-02-19 15:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-pensions-dept-asks-unethical-questions-legislator-151484/) · `en`
-
-ECONOMYNEXT – Employees of the State Pensions Department ask questions not within their remit, and make the rules up as they go, a government legislator has said.
-
-“In some instances, the Department of Pensions asks questions that they do not have the legal right to ask, and therefore people do not get their pensions,” Chairman of the Sectoral Monitoring Committee for an Open and Responsible Government and Member of Parliament, Jagath Kumara Sumitraarachchi, said at a press briefing on Friday (16).
-
-Sumitraarachchi alleged that certain employees of the department take the law into their own hands adding that there have been instances where government employees make up laws and slash pensions.
-
-“In one instance, there was a husband and a wife who had not lived together, so the department had given a letter saying a pension could not be approved.”
-
-“Public officials must not operate based on personal preferences,” Sumitraarachchi criticized the unethical professional conduct.
-
-...
-
-[Data](articles/5a43737a.json)
-
-[Extended Data](ext_articles/5a43737a.ext.json)
 
 ---

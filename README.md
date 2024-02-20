@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 09:02:32**
+As of **2024-02-20 09:17:28**
 
 ## Newspaper Stats
 
-*Scraped **8,146** Articles*
+*Scraped **8,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ bbccomsinhala | 101
 dbsjeyarajcom | 154
 newsfirstlk | 363
 economynextcom | 419
-islandlk | 422
+islandlk | 434
 dailyftlk | 443
-adalk | 694
+adalk | 695
 adaderanalk | 991
 tamilmirrorlk | 991
 virakesarilk | 1,091
@@ -26,7 +26,7 @@ dailymirrorlk | 1,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,146 (100.0%) of 8,146 articles have been extended.
+8,146 (99.8%) of 8,159 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -914,6 +914,32 @@ Accordingly, the Sri Lankan team won the three-match series 2-0. Remble
 
 ---
 
+### Doing it in Sinhala, as well
+
+*2024-02-19 23:19:00* · [`islandlk`](http://island.lk/doing-it-in-sinhala-as-well/) · `en`
+
+JPal (Janaka Palapathwala), who is known for his Elvis/Jim Reeves style of singing, didn’t forget his fans on Valentine’s Day.
+
+He wished music lovers, for Valentine’s Day, on YouTube with the song ‘And The Grass Won’t Pay No Mind.’
+
+Although his song repertoire is generally made up of Elvis and Jim Reeves material, he says he is now seriously thinking of doing two Sinhala originals and, eventually, a Sinhala album.
+
+In fact, Janaka indicated to us that the recording of the Sinhala songs will soon be completed, and then he will finalise the visuals for the two songs.
+
+“Once that is completed, I will work on the material for the album.”
+
+Janaka also went on to say that without Sinhala songs, it’s very difficult to make it big in Sri Lanka.
+
+“The masses, and the electronic media, won’t accept anything other than Sinhala, so we need to give them what they want.”
+
+Janaka decided to shorten his name to JPal because of his foreign assignments.
+
+...
+
+[Data](articles/11d25bfd.json)
+
+---
+
 ### Light winning to Sri Lanka: Hazaranga 100 wickets in T20
 
 *2024-02-19 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/176806) · `ta`
@@ -953,6 +979,102 @@ Farmers face two main types of risks: production risk and price risk. The risk o
 [Data](articles/6440476d.json)
 
 [Extended Data](ext_articles/6440476d.ext.json)
+
+---
+
+### Serendib Flour Mills launches fortified ‘Adi Shakthi’ flour in Kandy
+
+*2024-02-19 22:56:00* · [`islandlk`](http://island.lk/serendib-flour-mills-launches-fortified-adi-shakthi-flour-in-kandy/) · `en`
+
+Serendib Flour Mills, fuelled with the purpose of nourishing the nation, launched its new ‘Serendib Adhi Shakthi Fortified Wheat Flour’ – a micronutrient-fortified wheat flour exclusively aimed at plantation communities in Kandy recently.
+
+Introduced in November last year, the new Serendib Adhi Shakthi flour contains essential nutrients such as Iron, Folic Acid, and Vitamin B12, and is tailored to meet the nutritional needs of estate communities, mainly to address key nutritional deficiencies and the rising incidence of Non-Communicable Diseases (NCDs).
+
+...
+
+[Data](articles/2acf1403.json)
+
+---
+
+### Emerald opens its fourth store in Sainthamaruthu with diverse fashion for everyone
+
+*2024-02-19 22:54:00* · [`islandlk`](http://island.lk/emerald-opens-its-fourth-store-in-sainthamaruthu-with-diverse-fashion-for-everyone/) · `en`
+
+Emerald, Sri Lanka’s leading menswear brand, solidified its commitment to catering to a wider audience with the recent opening of its latest store in Sainthamaruthu. Located at 52, Main Street, this marks the brand’s fourth store and signifies its continuous dedication to providing exceptional fashion experiences across the island.
+
+Beyond its renowned menswear collection, the Sainthamaruthu store unveils a captivating line of Ladies’ Daywear and Luxury Shalwars. This exciting introduction caters to the growing demand for stylish and sophisticated women’s apparel, allowing Emerald to become a one-stop destination for the entire family.
+
+...
+
+[Data](articles/eec8a073.json)
+
+---
+
+### CIPM Sri Lanka and KDU to 0pen new vistas for students
+
+*2024-02-19 22:53:00* · [`islandlk`](http://island.lk/cipm-sri-lanka-and-kdu-to-0pen-new-vistas-for-students/) · `en`
+
+CIPM Sri Lanka – the Nation’s leader in human resource management recently entered into a memorandum of understanding with the General Sir John Kotelawala Defence University (KDU) to expand educational opportunities and explore new vistas for their students.
+
+“We are confident that the learning and professional development opportunities at CIPM, which are widely acknowledged as the best in the field of HRM and industry, our international affiliations with people management organizations such as the Asia Pacific Federation of Human Resource Management (APFHRM), World Federation of People Management Associations (WFPMA), and regional HRM bodies will open new vistas for the students. The knowledge exchanges envisaged in this collaboration between 2 mighty like-minded institutions, KDU and CIPM, will no doubt benefit the students and faculty alike,” said U. A. C Obeyesekere, Chief Executive Officer of CIPM Sri Lanka.
+
+...
+
+[Data](articles/b4b3198a.json)
+
+---
+
+### CSE partners with SLIM to promote capital market education among students
+
+*2024-02-19 22:51:00* · [`islandlk`](http://island.lk/cse-partners-with-slim-to-promote-capital-market-education-among-students/) · `en`
+
+The Colombo Stock Exchange (CSE) signed a Memorandum of Understanding (MoU) with the Sri Lanka Institute of Marketing (SLIM) recently to enhance collaborative efforts in advancing educational initiatives and professional development. This effort will ultimately provide students with the enhanced access and preparation necessary to recongise and capitalise on opportunities within the financial sector.
+
+The objective of this MOU is to include a Capital Market Module for the Post Graduate Diploma in Marketing program and facilitate guest sessions in other courses of SLIM, designed and offered through the CSE Branches in collaboration with SLIM.
+
+Emerald opens its fourth store in Sainthamaruthu with diverse fashion for everyone
+
+Absence of market-driven activities stalls CSE; negative conditions manifest in politics
+
+Bourse facing a degree of turbulence triggered by political uncertainty
+
+Bull run in bourse continues; TB yields decline by more than 100 basis points
+
+...
+
+[Data](articles/cf057b27.json)
+
+---
+
+### CEAT fortifies brand presence in Sri Lanka
+
+*2024-02-19 22:50:00* · [`islandlk`](http://island.lk/ceat-fortifies-brand-presence-in-sri-lanka/) · `en`
+
+The CEAT brand’s retail presence in Sri Lanka has been further strengthened with the opening of three more premium outlets in the country – two in Colombo city and one in Hanwella.
+
+The three new CEAT Shop-In-Shop (SIS) outlets are designed to drive brand premiumisation and enhance customer experience at leading dealer outlets. They are located at U&H Wheel Service and Paramount Tyre Traders, both at Prince of Wales Avenue, Colombo 14; and at Sakura Tyre Centre, Hanwella.
+
+Part of a three-year distribution channel expansion strategy by the country’s highest-selling tyre brand, the CEAT Shop-in-Shop concept entails demarcating a dedicated area for CEAT branded tyres within existing multi-brand dealer premises. CEAT furnishes the interior, customer lobby and reception areas of this private space to augment customer comfort.
+
+...
+
+[Data](articles/e9d6fd83.json)
+
+---
+
+### Stock Market starts trading week on positive note
+
+*2024-02-19 22:44:00* · [`islandlk`](http://island.lk/stock-market-starts-trading-week-on-positive-note/) · `en`
+
+Trading activities at the Colombo Stock Market yesterday bounced back following positive comments by external stakeholders that Sri Lanka has almost recovered from the economic crisis after going through a major dip, market analysts said.
+
+Many external stakeholders including JICA representatives who visited Sri Lanka over the weekend and under Secretary for public Diplomacy and Public Affairs State Department of America Elizebeth M.Allen who was in Sri Lanka on a three day official visit told at a forum Sri Lanka has recovered faster from the economic crisis than other countries that faced a similar situation.
+
+Further, strong quarterly earnings for the December quarter and satisfactory dividend declaration for shareholders by several sectors including banks thus created a positive sentiment for the stock market, market analysts said.
+
+...
+
+[Data](articles/ea3016fe.json)
 
 ---
 
@@ -1456,6 +1578,22 @@ The Director General of the United Nations Food and Agriculture Organization was
 
 ---
 
+### ඩලස්ගේ හතක් සජිත්ට
+
+*2024-02-19 19:33:56* · [`adalk`](https://www.ada.lk/breaking_news/ඩලස්ගේ-හතක්-සජිත්ට/11-408181) · `si`
+
+නිදහස ජනතා සභාව නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් හත් දෙනෙකු ඉදිරි ජනාධිපතිවරණයේදී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය ලබා දීමට මේ වන විට තීරණය කර තිබෙන බව පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ ඩිලාන් පෙරේරා මහතා සඳහන් කළේය.
+
+නිදහස ජනතා සභාව  සජිත් ප්‍රේමදාස මහතා සමග එක්වූයේ 2022 වසරේදී බවත්, ඩලස් අලහප්පෙරුම මහතා පාර්ලිමේන්තුව තුළින් ජනාධිපති ධුරයට පත් වූයේ නම් අගමැතිවරයා වන්නේ සජිත් ප්‍රේමදාස මහතා බවත් හෙතෙම පවසා සිටියේය.ඩලස් අලහප්පෙරුම මහතා ජනාධිපති ධුරයට පත් වූවා නම් සජිත් ප්‍රේමදාස මහතා පුමුඛ කණ්ඩායම් සමග ආණ්ඩු කිරීමට තීරණය කර තිබූ බවද ඒ මහතා සඳහන් කළේය.
+
+එදා සිට දිගටම සමගි ජනබලවේගය සමග හා අනෙකුත් කණ්ඩායම් සමග එකට එකතු වී පොදු සන්ධානයක් සකස් කිරීමට සාකච්ඡා කළ බවද හෙතෙම පවසා සිටියේය. වර්තමානය වන විට ආණ්ඩුවට පක්ෂපාතීව තිබෙන්නේ 20%  ක ඡන්ද ප්‍රතිශතයක් බවත්, විපක්ෂයේ කණ්ඩායම්වලට 80% ක ඡන්ද ප්‍රතිශතයක් තිබෙන බවත් මන්ත්‍රීවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/45f2483e.json)
+
+---
+
 ### We are your biggest fans - Elizabeth
 
 *2024-02-19 19:32:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-உங்களது-மிகப்பெரிய-ரசிகர்கள்-எலிசபெத்/175-333470) · `ta`
@@ -1927,155 +2065,5 @@ The petition said, “West Bengal Forest Department has named lions. Akbar was o
 [Data](articles/5cd631e4.json)
 
 [Extended Data](ext_articles/5cd631e4.ext.json)
-
----
-
-### Motorcycle train crashes;Three killed, including 2 boys
-
-*2024-02-19 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/176783) · `ta`
-
-Three people were killed when a motorcycle crashed into a train in Mahayava in Arachikattuwa.
-
-It is reported that a motorcycle crashed into a train traveling to Puttalam at Mahayawa crossing between the Arachchikattuwa and Anavilundawa subway stations.
-
-A mother and two boys who were traveling on a motorbike died on the spot.
-
-◼️
-
-[Data](articles/bb3571d4.json)
-
-[Extended Data](ext_articles/bb3571d4.ext.json)
-
----
-
-### The target is to add 2 crore members
-
-*2024-02-19 17:01:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-கோடி-உறுப்பினர்களை-சேர்ப்பதே-இலக்கு/175-333467) · `ta`
-
-The Tamil Nadu Victory Corporation has advised the parties that "our first task is to pay more attention to 2 crore members and pay extra attention to the membership."
-
-In a statement issued by the party's general secretary N. Anand, “A consultative meeting on the Tamil Nadu Victory Council's Admissions and Enterprise Structure Extension Extension was held in Chennai on Monday (19).
-
-Member Admission Camps should be held in the state and assembly constituencies across the state to strengthen the infrastructure of the Tamil Nadu Victory Corporation.
-
-Women's Admission Team Executives are to be announced soon. Together with the membership team, the newly appointed district trustees and the legislative seat trustees must engage in coordination of membership.
-
-Member of Member, Municipal, Municipal, Perur, Union, Panchayat, Ward -wise ward -wise. Our first task is to adopt the party leadership decree and target two crore members and pay extra attention to membership.
-
-...
-
-[Data](articles/ffc98549.json)
-
-[Extended Data](ext_articles/ffc98549.ext.json)
-
----
-
-### US remains concerned over Sri Lanka’s online law but encouraged by amendment process
-
-*2024-02-19 17:00:00* · [`economynextcom`](https://economynext.com/us-remains-concerned-over-sri-lankas-online-law-but-encouraged-by-amendment-process-151491/) · `en`
-
-ECONOMYNEXT — The United States shares concerns raised by critics of Sri Lanka’s controversial Online Safety Act (OSA) on its potential for repression of free speech and impact on the country’s digital economy but is encouraged by the ongoing amendments process, a top US official said, calling for a consultative dialogue.
-
-US Under Secretary for Public Diplomacy and Public Affairs Elizabeth M Allen said on Monday February 19 that her government has been engaged in discussions on the recently passed legislation both publicly and privately.
-
-“The United States shares the concerns of journalists, influencers, and content creators, as well as people everywhere on the potential for repression of freedom of expression and the stifling of dissent that the online safety bill [unclear], and we are encouraged by the amendments process,” said Allen.
-
-...
-
-[Data](articles/4a6c7d00.json)
-
-[Extended Data](ext_articles/4a6c7d00.ext.json)
-
----
-
-### No pension, government payment made to Shiranthi, says Mahinda Rajapaksa’s office
-
-*2024-02-19 16:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-pension-government-payment-made-to-Shiranthi-says-Mahinda-Rajapaksas-office/108-277328) · `en`
-
-Colombo, Feb 19 (Daily Mirror) - The office of former President Mahinda Rajapaksa today denied allegations by a Buddhist monk that government payments and pensions have been allocated to former First Lady Shiranthi Rajapaksa.
-
-Chief Incumbent of the Mihintale Raja Maha Viharaya, Ven. Walahahengunawewe Dhammaratana Thera, recently claimed that the former First Lady had been receiving multiple pensions and government payments.
-
-In response to the allegations, the office of the former President clarified that the claims by Ven. Dhammaratana Thera are based on unverified information and hence, these claims are vehemently rejected.
-
-◼️
-
-[Data](articles/56949e4d.json)
-
-[Extended Data](ext_articles/56949e4d.ext.json)
-
----
-
-### Three killed in motorcycle collision with train
-
-*2024-02-19 16:51:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-மோட்டார்-சைக்கிள்-மோதியதில்-மூவர்-பலி/175-333465) · `ta`
-
-Two mothers and daughters on a motorcycle were killed when a motorcycle crashed into a train from Colombo to Puttalam, police said.
-
-The motorcycle collided with a train between the Arachchikattuwa and Anilundawa sub -centers, police said.
-
-◼️
-
-[Data](articles/3e2f48fe.json)
-
-[Extended Data](ext_articles/3e2f48fe.ext.json)
-
----
-
-### Unreachable shop opening in Colombo port city in April
-
-*2024-02-19 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176778) · `ta`
-
-For the first time in April, Sri Lanka's unresolved shop is to be opened in Colombo Port City.
-
-This was reported on the X -site of Sri Lanka's same zone.
-
-In April, a unreachable shop will be opened in Colombo Port City.
-
-◼️
-
-[Data](articles/e3640e4b.json)
-
-[Extended Data](ext_articles/e3640e4b.ext.json)
-
----
-
-### Three including two children killed in motorcycle-train collision
-
-*2024-02-19 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97391/three-including-two-children-killed-in-motorcycle-train-collision) · `en`
-
-Three persons, including two children, have been reported dead after a motorcycle collided with a train in the Arachchikattuwa area in Puttalam.
-
-According to police, a 36-year-old mother, her 06-year-old daughter and 09-year-old son were killed when the motorcycle they were riding on collided with a train at a level-crossing in Maiyawa, Arachchikattuwa.
-
-The victims had reportedly been travelling home from a tuition class, when their motorcycle collided with a train plying from Puttalam to Chilaw, police said.
-
-The remains of the deceased have been placed at the Mundalama Divisional Hospital, while further investigations into the incident are being carried out by Arachchikattuwa Police.
-
-◼️
-
-[Data](articles/d20a403d.json)
-
-[Extended Data](ext_articles/d20a403d.ext.json)
-
----
-
-### Gallows for Kotakethana ‘Serial Killer’
-
-*2024-02-19 16:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Gallows-for-Kotakethana-Serial-Killer/155-277327) · `en`
-
-Ratnapura High Court judge Lanka Jayaratne imposed the death sentence on a convict who was indicted for double murder at Kotakethana in Ratnapura.
-
-Prosecuted entirely based on DNA evidence by Senior Deputy Solicitor General (SDSG) Lakmali Karunanayake, court found accused Neil Lakshman guilty of the murder of a mother and daughter in Kotakethana in 2012.
-
-The accused was indicted for raping the daughter and committing the double murder. According to the evidence the house where the murders were committed was set on fire to destroy all evidence.
-
-The Kotakethana area became notorious for a series of mysterious killings and during the trial it transpired that the multiple murder was also connected to the first ever ‘serial killer’ reported in Sri Lanka.
-
-◼️
-
-[Data](articles/120a2e46.json)
-
-[Extended Data](ext_articles/120a2e46.ext.json)
 
 ---

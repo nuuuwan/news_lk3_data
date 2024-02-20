@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 18:32:53**
+As of **2024-02-20 18:51:40**
 
 ## Newspaper Stats
 
-*Scraped **8,285** Articles*
+*Scraped **8,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 421
 islandlk | 434
 dailyftlk | 444
 adalk | 706
-adaderanalk | 1,001
+adaderanalk | 1,002
 tamilmirrorlk | 1,020
 virakesarilk | 1,120
 adaderanasinhalalk | 1,209
@@ -26,11 +26,27 @@ dailymirrorlk | 1,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,285 (100.0%) of 8,285 articles have been extended.
+8,285 (100.0%) of 8,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
+
+### Cabinet approval to prepare composite draft bill on child rights
+
+*2024-02-20 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97414/cabinet-approval-to-prepare-composite-draft-bill-on-child-rights) · `en`
+
+In response to growing concerns over the protection and welfare of children in Sri Lanka, the Cabinet of Ministers has approved a proposal calling for the preparation of the composite draft bill on child rights.
+
+The relevant proposal was submitted by President Ranil Wickremesinghe, in his capacity as the Minister of Women, Child Affairs and Social Empowerment.
+
+Accordingly, the Legal Draftsman will be directed to prepare the composite act, enshrining the rights declared in the UN Convention on the Rights of the Child, in addition to the existing legal provisions pertaining to the protection of child rights, a statement said.
+
+◼️
+
+[Data](articles/8a9c6a5d.json)
+
+---
 
 ### Kota's chief resigns
 
@@ -1967,27 +1983,5 @@ Analysts say the diplomatic relations between Sri Lanka and Iran have been intac
 [Data](articles/ad6cd416.json)
 
 [Extended Data](ext_articles/ad6cd416.ext.json)
-
----
-
-### Sri Lanka rupee opens at 311.90/312.00 to the US dollar
-
-*2024-02-20 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-311-90-312-00-to-the-us-dollar-151556/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 311.90/312.00 to the US dollar Tuesday, from 312.15/25 on Monday, dealers said.
-
-A bond maturing on 01.08.2026 was quoted at 10.90/11.10 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.70/12.00 percent from 11.70/90 percent.
-
-A bond maturing on 15.03.2028 was quoted at 12.10/25 percent from 12.00/15 percent.
-
-The Colombo Stock Exchange opened up. The All Share Price Index was up 0.12 percent at 10,655. The S&P SL20 was up 0.07 percent at 3,069. (Colombo/Feb20/2024)
-
-◼️
-
-[Data](articles/7407bfdd.json)
-
-[Extended Data](ext_articles/7407bfdd.ext.json)
 
 ---

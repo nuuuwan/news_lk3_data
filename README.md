@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 11:02:58**
+As of **2024-02-20 11:17:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,184 (100.0%) of 8,188 articles have been extended.
+8,188 (100.0%) of 8,188 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -103,6 +103,8 @@ However, the court has further stated that it could be passed by a simple majori
 ◼️
 
 [Data](articles/2d703442.json)
+
+[Extended Data](ext_articles/2d703442.ext.json)
 
 ---
 
@@ -252,6 +254,8 @@ The first Test will be held from March 22 to 26 at SICS in Sylhet, followed by t
 
 [Data](articles/7b220f5e.json)
 
+[Extended Data](ext_articles/7b220f5e.ext.json)
+
 ---
 
 ### Here is the Sri Lanka-Bangladesh match schedule
@@ -293,6 +297,8 @@ State Minister for Foreign Affairs Tharaka Balasuriya and a group of others were
 ◼️
 
 [Data](articles/ffe28ac4.json)
+
+[Extended Data](ext_articles/ffe28ac4.ext.json)
 
 ---
 
@@ -506,23 +512,25 @@ According to the President’s Media Division (PMD), plans are in place to final
 
 ---
 
-### ඉරාන විදෙස් ඇමති එයි
+### Minister of Iranian Foreign
 
 *2024-02-20 08:10:00* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-විදෙස්-ඇමති-එයි/11-408185) · `si`
 
-ඉරාන විදේශ කටයුතු අමාත්‍ය ආචාර්ය හුසේන් අමීර් අබ්දුල්ලාහියන් මහතා තුන් දින නිල සංචාරයක් සදහා 02/19 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+Iranian Foreign Minister Dr. Hussein Amir Abdullahian arrived at the Katunayake Airport on a three-day official visit.
 
-ඔහු සමග දූත පිරිස ලෙස එරට උසස් නිලධාරීන් 20 දෙනෙකු ද පැමිණ සිටි අතර ඔවුන් 02/19 දින සිට 02/21 දින දක්වා ශ්‍රී ලංකාවේ සංචාරය කිරීමට නියමිතය.
+Troops of 20 high officials of the country have also visited Sri Lanka from 02/19 to 02/22.
 
-ඔවුන් 02/19 දින රාත්‍රී 10.48 ට ඉරාන රජයට අයත් IRAN 05 දරන විශේෂ ගුවන් යානයෙන් , ඉරානයේ ටෙහෙරාන් අගනුවර සිට මෙසේ  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+They had arrived at the Iran's 5 o'clock at 10.48 pm on the Iran of Iran.
 
-ශ්‍රී ලංකාවේ විදේශ කටයුතු අමාත්‍ය අලි සබ්‍රි මහතාගේ ආරාධනය මත මෙම ඉරාන විදේශ කටයුතු අමාත්‍යවරයා ඇතුළු පිරිස මෙසේ ශ්‍රී ලංකාවේ සංචාරය කිරීම සදහා පැමිණ තිබේ .
+The Iranian External Affairs Minister and others visited Sri Lanka due to the invitation of Mr. Foreign Minister Ali Sabri.
 
-ඉරාන විදේශ කටයුතු අමාත්‍යවරයා ඇතුළු පිරිස පිළිගැනීම සදහා විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා ඇතුළු පිරිසක් කටුනායක ගුවන් තොටුපොළ විශේෂ අමුත්තන්ගේ මැදිරිය වෙත පැමිණ සිටියහ.
+Foreign Minister Tharaka Balasuriya and several others were present at the Katunayake airport for the reception of Iranian Foreign Affairs.
 
 ◼️
 
 [Data](articles/8dd13bde.json)
+
+[Extended Data](ext_articles/8dd13bde.ext.json)
 
 ---
 

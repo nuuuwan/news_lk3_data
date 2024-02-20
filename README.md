@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 19:32:51**
+As of **2024-02-20 19:50:29**
 
 ## Newspaper Stats
 
-*Scraped **8,306** Articles*
+*Scraped **8,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 429
 islandlk | 434
 dailyftlk | 444
 adalk | 708
-adaderanalk | 1,002
-tamilmirrorlk | 1,022
+adaderanalk | 1,004
+tamilmirrorlk | 1,024
 virakesarilk | 1,120
 adaderanasinhalalk | 1,210
 dailymirrorlk | 1,223
@@ -26,27 +26,85 @@ dailymirrorlk | 1,223
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,293 (99.8%) of 8,306 articles have been extended.
+8,310 (100.0%) of 8,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-20 (Tuesday)
 
-### கசினோவாக மாறுகிறதா ’கோட்டா கோ கம’?
+### The vehicle import continues to be carried out
+
+*2024-02-20 19:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-தொடர்ந்தும்-முன்னெடுக்கப்படும்/175-333541) · `ta`
+
+Finance Minister Ranjith Siyambalapitiya told Parliament today that vehicle imports will continue.
+
+“We have appointed a team to determine how to control vehicle imports and how many vehicles we need,” the Minister of State said.
+
+“Sri Lanka has imported only 29 vehicles in the recent past, including 21 dual carts for the Health Ministry and three slopes for SriLankan Airlines (including RAMPS). These slopes are used for airlines, ”he said.
+
+◼️
+
+[Data](articles/672cba0e.json)
+
+[Extended Data](ext_articles/672cba0e.ext.json)
+
+---
+
+### Does Kasino become a kota ko ka kam?
 
 *2024-02-20 19:03:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கசினோவாக-மாறுகிறதா-கோட்டா-கோ-கம/175-333539) · `ta`
 
-‘கோட்டா கோ கம’ அரகலய போராட்டம் நடத்தப்பட்ட காலி முகத்திடலில் கசினோ மையத்தை அமைக்க அரசாங்கம் திட்டமிட்டுள்ளதாக தேசிய பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் விஜித் ஹேரத் இன்று குற்றஞ்சாட்டியுள்ளார்.
+Vijith Herath, a parliamentarian of the National PA, today accused the government of setting up the Cassino Center in the Galle Face where the Kota Ko Kamala was protesting.
 
-அரகலய தளத்தில் சூதாட்ட நிலையத்தை திறப்பதற்கு சீன பெயரைக் கொண்ட நிறுவனமொன்றுக்கு நகர அபிவிருத்தி அதிகாரசபை (UDA) ஊடாக உரிமம் வழங்க அரசாங்கம் திட்டமிட்டுள்ளதாகவும், நீர்கொழும்பில் உள்ள பிரபல சூதாட்டக்காரர் ஒருவர் இந்த குறிப்பிட்ட நிறுவனத்தின் பின்னணியில் இருப்பதாகவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+He told Parliament that the government is planning to grant a license through the Urban Development Authority (UDA) to open the gambling center on the Arakalai site and a famous gambler in Negombo is behind this particular company.
 
-இலங்கையின் அரசியல் வரலாற்றில் ஒரு திருப்புமுனையாக அமைந்த 'அரகலய தளம்' அரகலய மக்களை பழிவாங்குவதற்காக கசினோ நிலையமொன்றுக்காக வழங்கப்படுவதாகவும் அது பாரிய தவறு எனவும் பாராளுமன்ற உறுப்பினர் தெரிவித்தார்.
+The Member of Parliament said that the 'Arakalaya site', which is a turning point in the political history of Sri Lanka, is being offered for a Cassino Station to avenge the people of Arakala.
 
-உள்ளூர் மக்களை இலக்கு வைத்து கசினோ நிலையங்கள் திறக்கப்பட மாட்டாது, கசினோவைத் திறக்கும்போது 10 பில்லியன் செலுத்த வேண்டும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya has said that Cassino stations will not be opened to the local people and pay 10 billion when opening Cassino.
+
+“Opening the casino is not easy. To pay Rs.10 billion as initial. When a location enters the gambling hostel, the entry fee is $ 50 as $ 50, and it is planned to increase it.
 
 ...
 
 [Data](articles/70ba1b4c.json)
+
+[Extended Data](ext_articles/70ba1b4c.ext.json)
+
+---
+
+### Iranian Foreign Minister calls on President Ranil
+
+*2024-02-20 19:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97416/iranian-foreign-minister-calls-on-president-ranil) · `en`
+
+Iranian Foreign Minister Hossein Amir-Abdollahian, who is on an official visit to Sri Lanka, called on President Ranil Wickremesinghe at the Presidential secretariat in Colombo, a short while ago, the President’s Media Division confirmed.
+
+◼️
+
+[Data](articles/0c0c55ec.json)
+
+[Extended Data](ext_articles/0c0c55ec.ext.json)
+
+---
+
+### Sri Lanka and Iran agree to further enhance ties in multiple areas
+
+*2024-02-20 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97415/sri-lanka-and-iran-agree-to-further-enhance-ties-in-multiple-areas-) · `en`
+
+An extensive discussion was held on Tuesday (20 Feb.) between Sri Lanka’s Minister of Foreign Affairs Ali Sabry and his Iranian counterpart Dr. Hossein Amir-Abdollahian, who is on an official visit to Colombo.
+
+The parties discussed several matters of concern, including further strengthening their cooperation in multiple areas, including the energy sector.
+
+“We agreed to work closely and enhance our partnership further”, Minister Sabry said in a post on ‘X’ (formerly Twitter).
+
+Iranian Minister of Foreign Affairs Dr. Hossein Amir-Abdollahian arrived in Sri Lanka on Monday night (19 Feb.), and was welcomed at the Bandaranaike International Airport (BIA) by State Minister of Foreign Affairs Tharaka Balasuriya.
+
+The Iranian foreign minister is in Sri Lanka for a three-day official visit, and is also scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
+
+◼️
+
+[Data](articles/1c70d0b8.json)
+
+[Extended Data](ext_articles/1c70d0b8.ext.json)
 
 ---
 
@@ -68,35 +126,57 @@ Sri Lanka’s Data Protection Authority was established following a gazette issu
 
 [Data](articles/874688fb.json)
 
+[Extended Data](ext_articles/874688fb.ext.json)
+
 ---
 
-### ඔන්ලයින් පනතට එරෙහි පෙත්සමට නීතිපතිගෙන් විරෝධතා
+### Protests from Attorney General for petition against Online bill
 
 *2024-02-20 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193625) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී එම්. ඒ. සුමන්දිරන් මහතා ගොනුකර තිබෙන මූලික මිනිස් අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙන නිෂ්ප්‍රභ කරන ලෙස නීතිපතිවරයා අද (20) ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික විරෝධතා මතු කළේය.
+Member of Parliament (MP) M.. it. The Attorney General raised the preliminary protests in the face of the Supreme Court today to dispel the basic human rights petition filed by Mr. Sumanthiran.
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිතතාව පිළිබඳ පනත පාර්ලිමේන්තුව තුළදී නිත්‍යානුකූලව සම්මතවී නොමැති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා එම පෙත්සම ගොනුකර තිබේ.
+The petition has been filed as a decision that the Act on the maintenance of the system has not been legally passed in Parliament.
 
-මෙම පෙත්සම අද සලකාබැලීම සඳහා ප්‍රියන්ත ජයවර්ධන, ශිරාන් ගුණරත්න සහ අචල වෙංගප්පුලි යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+The three-member Judge of Shiran Gunaratne and Achala Vingaparatne were summoned to this petition today.
 
 ◼️
 
 [Data](articles/cdad5742.json)
 
+[Extended Data](ext_articles/cdad5742.ext.json)
+
 ---
 
-### SLPP எம்.பி துறவறம் பூண்டார்
+### SLPP MP ascetic
 
 *2024-02-20 18:53:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLPP-எம்-பி-துறவறம்-பூண்டார்/175-333538) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் குணதிலக ராஜபக்ஷ தற்காலிகமாக பௌத்த பிக்குவாக துறவறம் பூண்டுள்ளார். அவர் தற்போது வணக்கத்திற்குரிய ஹரிஸ்பத்துவே தம்மரதன தேரர் என அழைக்கப்படுகிறார்.
+Sri Lanka's PA MPHe is currently known as Harispattu Dhammaratana Thera.
 
-எம்.பி, தனது மனைவியின் மரணத்திற்குப் பிறகு துறவறம் நுழைய முடிவு செய்ததாக கூறப்படுகிறது.
+The MP is said to have decided to enter the monk after the death of his wife.
 
 ◼️
 
 [Data](articles/70182db5.json)
+
+[Extended Data](ext_articles/70182db5.ext.json)
+
+---
+
+### MP and son are temporary ascetic
+
+*2024-02-20 18:53:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியும்-மகனும்-தற்காலிக-துறவறம்/175-333538) · `ta`
+
+Sri Lanka's PA MPHe is currently known as Harispattu Dhammaratana Thera.
+
+The MP is said to have decided to enter the monk after the death of his wife.
+
+◼️
+
+[Data](articles/ea44d0aa.json)
+
+[Extended Data](ext_articles/ea44d0aa.ext.json)
 
 ---
 
@@ -164,6 +244,8 @@ In the last three years “99 Central Bank employees, 10 percent of that grade, 
 
 [Data](articles/ab1d5496.json)
 
+[Extended Data](ext_articles/ab1d5496.ext.json)
+
 ---
 
 ### Cabinet approval to prepare composite draft bill on child rights
@@ -223,6 +305,8 @@ A bond maturing on 01.07.2032 closed at 12.50/13.30 percent from 12.45/90 percen
 ◼️
 
 [Data](articles/a8f30765.json)
+
+[Extended Data](ext_articles/a8f30765.ext.json)
 
 ---
 
@@ -529,6 +613,8 @@ DFCC Bank Plc, which announced both a scrip dividend and a cash dividend, closed
 ...
 
 [Data](articles/1044596b.json)
+
+[Extended Data](ext_articles/1044596b.ext.json)
 
 ---
 
@@ -896,6 +982,8 @@ Minister Gunawardana said he presumed investors will be called in a transparent 
 
 [Data](articles/16414256.json)
 
+[Extended Data](ext_articles/16414256.ext.json)
+
 ---
 
 ### Expel Harin...
@@ -1148,6 +1236,8 @@ Court proceedings and documents are in Sinhala, the State language. “There is 
 
 [Data](articles/c2152306.json)
 
+[Extended Data](ext_articles/c2152306.ext.json)
+
 ---
 
 ### Wimal questions Harin’s statement in India
@@ -1294,6 +1384,8 @@ India to Sri Lanka ferry service launched, second route planned
 
 [Data](articles/299050bc.json)
 
+[Extended Data](ext_articles/299050bc.ext.json)
+
 ---
 
 ### Electricity
@@ -1436,27 +1528,31 @@ The Union of Nuwara Eliya District Development forums, Social Development Forums
 
 ---
 
-### ඉරාන, ඊශ්‍රායල්, ඇමෙරිකා නියෝජිතයෝ ශ්‍රී ලංකාවේ: මේ සිදුවන්නේ කුමක් ද?
+### Iranian, Israel, US agents in Sri Lanka: What's going on?
 
 *2024-02-20 12:39:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crg9jl9m75eo) · `si`
 
-ඉරාන, ඊශ්‍රායල්, ඇමෙරිකා නියෝජිතයෝ ශ්‍රී ලංකාවේ: මේ සිදුවන්නේ කුමක් ද?
+Iranian, Israel, US agents in Sri Lanka: What's going on?
 
-මේ වන විට ලෝකයේ විවිධ මත දරන සහ විවිධ කණ්ඩායම් ලෙස ක්‍රියාකරන බව පෙනී යන රටවල් රැසක නියෝජිතයෝ ශ්‍රී ලංකාවේ සංචාරය කරමින් සිටිති‍.
+Representatives of many countries that have been acting in the world and acts as various groups are traveling in Sri Lanka.
 
-විශේෂයෙන් මැද පෙරදිග රටවල් කිහිපයක් අතර සහ සටන්කාමී සංවිධාන කිහිපයක් අතර මතවාද සහ ගැටුම් නිර්මාණය වෙමින් පවතින අවස්ථාවක මෙම සංචාරයන් සිදු වීම විශේෂත්වයකි.
+These visits have been held in the event of a number of militarily and among several militant organizations.
 
-ජාත්‍යන්තර වෙළෙඳ කටයුතුවලට තර්ජනයක් වී ඇති හූතිවරුන්ට එරෙහි මෙහෙයුම් සඳහා රතු මුහුද වෙත යුද නෞකාවක් යන බව ජනාධිපති රනිල් වික්‍රමසිංහ ද පසුගියදා නිවේදනය කළේය.
+President Ranil Wickremesinghe recently announced that a war would be announced to the Red Sea for the operations of the Huthuru, which threatens international trade.
 
-මෙම පසුබිම තුළ ඊශ්‍රායල්, ඇමෙරිකානු හා ඉරාන රාජ්‍යතාන්ත්‍රිකයින්ගේ ශ්‍රී ලංකාවේ සංචාරවල සැබෑ අරමුණ කුමක් ද?
+What is the real purpose of the Sri Lankan travels of Israel, American, American and Iranian diplomats in this context?
 
-මහජන රාජ්‍ය තාන්ත්‍රිකභාවය සහ මහජන කටයුතු සම්බන්ධ ඇමෙරිකානු සහකාර රාජ්‍ය ලේකම් එලිසබෙත් ඇලන් ශ්‍රී ලංකාවට පැමිණ සාකච්ඡාවල‌ට සහභාගි වූවාය.
+US Assistant Secretary of State Assistant Secretary of Public Diplomacy and Public Affairs arrived in Sri Lanka and attended discussions.
 
-ඇය එහිදී, ශ්‍රී ලංකාවේ ආර්ථික ස්ථාවරත්වය පවත්වාගෙන යාමට තවදුරටත් සහයෝගය ලබා දෙන බවට පොරොන්දු දුන් බව විදේශ කටයුතු අමාත්‍යංශය නිවේදනය කළේය.
+She said that she further promised to support Sri Lanka's economic stability.
+
+Meanwhile, the Ministry of External Affairs says that Iranian Foreign Minister Dr. Hogu Amir Hullahian will visit Sri Lanka from 19th to 21st.
 
 ...
 
 [Data](articles/844b9d84.json)
+
+[Extended Data](ext_articles/844b9d84.ext.json)
 
 ---
 
@@ -1754,6 +1850,8 @@ Last week Nanayakkara, as well as President Ranil Wickremesinghe, met with Israe
 
 [Data](articles/1fa5d817.json)
 
+[Extended Data](ext_articles/1fa5d817.ext.json)
+
 ---
 
 ### The upcountry people and the Aswesa project
@@ -1879,79 +1977,5 @@ The land expansion of the housing projects built in plantations was confirmed by
 [Data](articles/b591a17a.json)
 
 [Extended Data](ext_articles/b591a17a.ext.json)
-
----
-
-### Mano asks how many parses
-
-*2024-02-20 11:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எத்தனை-பேரர்ச்-என்று-கேட்கிறார்-மனோ/175-333507) · `ta`
-
-Indian Prime Minister Narendra Modi, who was brought to the hill country during our regime in 2017, announced that the amount of Indian housing projects built in plantations will be increased by a further 10,000.. Since our regime ended in 2019, we couldn't continue it. Tamil Progressive Alliance leader and Colombo district parliamentarian Mano Ganesan has said that we are welcomed and congratulating the housing project today.
-
-The land expansion of the housing projects built in plantations was confirmed by the Cabinet of Cabinet as 7 perch in our regime.. In 2019, this government said it would build a house in 20 parses of plantations.. Later, during the last budget, 10 parasites were said to be housing in plantations.
-
-...
-
-[Data](articles/f7677fb1.json)
-
-[Extended Data](ext_articles/f7677fb1.ext.json)
-
----
-
-### Proposal to reduce electricity tariffs to be submitted to PUCSL within two days - Minister
-
-*2024-02-20 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97405/proposal-to-reduce-electricity-tariffs-to-be-submitted-to-pucsl-within-two-days-minister) · `en`
-
-The Ceylon Electricity Board (CEB) is expected to hand over the proposals pertaining to the revision of electricity tariffs to the Public Utilities Commission of Sri Lanka (PUCSL) within the next two days, Minister of Power and Energy Kanchana Wijesekera said.
-
-Wijesekera made this announcement while addressing the Parliament this morning (20 Feb.), opining that the Ministry anticipates a significant reduction in electricity tariffs.
-
-The Minister clarified that the projected expenses of the CEB for the current year encompassed costs associated with maintenance projects initiated over the past four years, set to conclude within the year.
-
-Consequently, the Ministry recommended that the CEB distribute these expenses evenly over the course of the following three years.
-
-◼️
-
-[Data](articles/9c7cf46e.json)
-
-[Extended Data](ext_articles/9c7cf46e.ext.json)
-
----
-
-### Latest decision taken about electricity bills
-
-*2024-02-20 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193609) · `si`
-
-Minister of Power and Energy Kanchana Wijesekara says that the electricity tariff is expected to reduce more than before mentioned earlier.
-
-Speaking in parliament today (20), the minister said.
-
-The Minister said that the proposal is due to be produced before the Public Utilities Commission and they will be decided.
-
-"In December, we decided that the electricity should be revised. Accordingly, the CEB has provided their proposal to the Public Utilities Commission. In the meantime, we requested that various parties to give us information about the issues of the electricity tariffs. "
-
-◼️
-
-[Data](articles/0418b936.json)
-
-[Extended Data](ext_articles/0418b936.ext.json)
-
----
-
-### Discussion on land released in Jaffna
-
-*2024-02-20 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176838) · `ta`
-
-High officials, including the Jaffna District Secretary, met with the Jaffna Army Commander in connection with the release of land in the North of Jaffna.
-
-Jaffna Army Commander MCP Wickremasinghe, including Jaffna District Secretary Ambalavanar Sivapalasundaran, spoke at a meeting held at the Palali Army Headquarters.
-
-The meeting was attended by the Additional Secretary of the President of the Northern Province Ilangovan, Jaffna District Additional Government Agent M. Pradeepan, Additional Government Agent (Land) K. Srimohanan and Tellippalai Divisional Secretary Sivaganga Sudisner.
-
-◼️
-
-[Data](articles/9ea3d73d.json)
-
-[Extended Data](ext_articles/9ea3d73d.ext.json)
 
 ---

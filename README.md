@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-20 23:02:32**
+As of **2024-02-20 23:17:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,324 (99.9%) of 8,329 articles have been extended.
+8,329 (100.0%) of 8,329 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,15 +50,17 @@ Thirteen council members voted in favor of the Algerian-drafted text, while Brit
 
 ---
 
-### ஈரான் வெளிவிவகார அமைச்சர் - ஜனாதிபதி சந்திப்பு
+### Iran's Foreign Minister - President Meeting
 
 *2024-02-20 21:52:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-வெளிவிவகார-அமைச்சர்-ஜனாதிபதி-சந்திப்பு/175-333542) · `ta`
 
-இலங்கைக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஈரான் வெளிவிவகார அமைச்சர் ஹொசைன் அமீர் அப்துல்லாஹியனுக்கும் (Hossein Amir-Abdollahian) ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இடையிலான சந்திப்பு  ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+The meeting between Iran's External Affairs Minister Hossein Amir-Abedollahian, who is on an official visit to Sri Lanka, took place at the Presidential Office at the Presidential Office.
 
 ◼️
 
 [Data](articles/d0f96969.json)
+
+[Extended Data](ext_articles/d0f96969.ext.json)
 
 ---
 
@@ -228,21 +230,23 @@ The Iranian Foreign Minister arrived in Sri Lanka yesterday (19) on an officia
 
 ---
 
-### විදුලි බිල අඩු කිරීම ගැන ඇමති කංචනගෙන් සහතිකයක්
+### Certificate from Minister Kanchana about reducing electricity bills
 
 *2024-02-20 20:16:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිල-අඩු-කිරීම-ගැන-ඇමති-කංචනගෙන්-සහතිකයක්/11-408204) · `si`
 
-විදුලිබල අමාත්‍යාංශය මීට පෙර බලාපොරොත්තු වූ මුදලට වඩා වැඩි මුදලකින් විදුලිබිල පහත දැමීමට කටයුතු කරන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+Power and Energy Minister Kanchana Wijesekara said that the Ministry of Power and Energy will be reduced by the Ministry of Power and Energy.
 
-ඒ අනුව විදුලිබල මණ්ඩලයේ යෝජනාව ලැබුණු පසු විදුලිබිල අඩු කිරීම සඳහා වන යෝජනාව මහජන උපයෝගිතා කොමිසමට ඉදිරිපත් කරන බව අද (20දා) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් කරමින් හෙතෙම සඳහන් කළේය.
+According to the CEB, the proposal to reduce the electricity tariff has been submitted to the Public Utilities Commission today (20), he said.
 
-එහිදී වැඩිදුරටත් අමාත්‍ය කංචන විජේසේකර මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+The Minister Kanchana Wijesekera was expressed.
 
-"පසුගිය දෙසැම්බර් මාසයේ කැබිනට් මණ්ඩලය තීරණයක් ගත්තා විදුලි බිල සංශෝධනය කළ යුතුයි කියලා පෙබරවාරි මාසයේ. ඒ අනුව විදුලිබල මණ්ඩලය ඔවුන්ගේ යෝජනාව දීලා තියෙනවා මහජන උපයෝගිතා කොමිසමට. ඒ අතරතුර අපි ඉල්ලීමක් කළා විවිධ පාර්ශ්වයන්ගෙන් විදුලි බිල සම්බන්ධයෙන් තියෙන යෝජනා, ඔවුන් දකින ගැටලු පිළිබඳ යෝජනා අපට ලබා දෙන්න කියලා. ඒ සාකච්ඡාවට විවිධ පාර්ශ්ව සම්බන්ධ වුණා. විශ්වවිද්‍යාල නියෝජනය කරන ඉංජිනේරු සංගම්, ඉංජිනේරුවන්, විදුලිබල ක්ෂේත්‍රයේ ඉන්න ප්‍රවීණයන් ඇතුළු 40ට ආසන්න පිරිසක් සම්බන්ධ වුණා. ඔවුන් යෝජනා ලබා දුන්නා.
+"The Cabinet of the December was decided that the electricity tariff should be amended. Accordingly, the Electricity Board has given their proposal to the Public Utilities Commission. In the meantime, we requested to give us suggestions on electricity tariffs from various parties, to give us suggestions on the problems they see. Various parties involved in the discussion. Nearly 40 people involved in the engineers, engineers and the veteran in the electricity sector representing universities were involved in. They gave suggestions.
 
 ...
 
 [Data](articles/f6e3492a.json)
+
+[Extended Data](ext_articles/f6e3492a.ext.json)
 
 ---
 
@@ -290,21 +294,23 @@ Meanwhile, the “Kids Academy” of Ada Derana 24 was awarded the Best Televisi
 
 ---
 
-### ලාංකික කතුන් විදෙස් ගෘහ සේවයට යැවීම සම්පූර්ණයෙන් නතර කිරීමට පියවර
+### Measures to stop Sri Lankan women to domestic work
 
 *2024-02-20 19:33:36* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකික-කතුන්-විදෙස්-ගෘහ-සේවයට-යැවීම-සම්පූර්ණයෙන්-නතර-කිරීමට-පියවර/11-408201) · `si`
 
-වසර දහයක් තුළදී  ශ්‍රී ලාංකික කාන්තාවන් ගෘහ සේවිකාවන් ලෙස විදේශ රැකියා සදහා පිටත් කර යැවීම සම්පූර්ණයෙන්ම නතර කිරිමට අවශ්‍ය පියවර ගන්නා බව කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා පැවසීය.
+Minister Manusha Nanayakkara, Minister of Labor and Foreign Employment said that the Sri Lankan women will stop the disposition of Sri Lankan women as housemaids.
 
-මේ සදහා වන යෝජනාවලියක් සහ සැලසුම් කඩිනමින් තමන් වෙත ලබාදෙන ලෙසට කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ ඉහළ කළමනාකාරීත්වයට සහ බලපත්‍රලාභී විදේශ සේවා නියුක්ති නියෝජිත ආයතන සංගමයට අද (20)  දැනුම් දුන්නේය.
+Minister Manusha Nanayakkara, Minister of Labor and Foreign Employment (Licensed Employment) of the Sri Lanka Bureau of Foreign Employment and Licensed Licensed Employment Association (Licensed) informed the Sri Lanka Bureau of Foreign Employment.
 
-ගෘහ සේවිකාවන් ලෙස ශ්‍රමිකයින් පිටත් කර යැවීම නතර කර   ඉහළ වැටුප් ලබාගත හැකි පුහුණු රැකියා අවස්ථා සදහා පමණක් ශ්‍රමිකයින් යැවීමේ වැදගත්කමද අමාත්‍යවරයා අවධාරණය කළේය.
+The Minister also emphasized the importance of sending workers only for training employment opportunities as housemaids.
 
-ඒ අනුව වසර දහයක් තුළදී ගෘහ සේවිකාවන් විදේශ රැකියා සදහා පිටත් කර යැවීම සම්පූර්ණයෙන්ම නතර කිරීම සදහා ක්ෂේත්‍රයට සම්බන්ධ සියලුම පාර්ශවයන් සම්බන්ධ කරගනිමින් මෙම යෝජනාවලිය තමන් වෙත ලබාදෙන ලෙසද බලපත්‍රලාභී විදේශ සේවා නියුක්ති නියෝජිත ආයතන සංගමය සමග අද පැවති සාකච්ඡාවේදී අමාත්‍යවරයා දැනුම් දුන්නේය.
+Accordingly, the proposal was to be given to all parties involved in the field to stop the sending of domestic workers for ten years, the Minister also informed the proposal to provide the proposal.
 
 ◼️
 
 [Data](articles/f8ffba23.json)
+
+[Extended Data](ext_articles/f8ffba23.ext.json)
 
 ---
 
@@ -352,19 +358,21 @@ Kandy SC have had some tricky moments as well, during which the fan base in Colo
 
 ---
 
-### මන්ත්‍රී ගුණතිලක රාජපක්ෂ තාවකාලිකව පැවැදි දිවියට
+### MP Gunatilleke Rajapaksa is temporarily
 
 *2024-02-20 19:25:54* · [`adalk`](https://www.ada.lk/religion/මන්ත්‍රී-ගුණතිලක-රාජපක්ෂ-තාවකාලිකව-පැවැදි-දිවියට/4-408200) · `si`
 
-මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී සහමහනුවර දිස්ත්‍රික්සම්බන්ධීකරණ කමිටු සභාපතිගුණතිලක රාජපක්ෂ මහතා සහ ඔහුගේ පුත්‍රයාඉන්දියාවේ බරණැසඉසිපතනාරාමමූල ගන්ධකුටි විහාරස්ථානයේදී අද (20)තාවකාලික පැවිදි දිවියට පත්ව තිබේ .
+Kandy District Parliamentarian Admin Committener Committee Chairman, Chairman of the Baranasivaththimalamuwa, Detiyakanuramuwara Viharaya, has been temporarily monitored.
 
-ගුණතිලක රාජපක්ෂ මහතා ඉසිපතන මූල ගන්ධකුට විහාරාධිපති පූජ්‍ය රත්මලේ සුමිත් ආනන්ද ස හපූජ්‍ය දෙහිඅත්තකන්ඩියේ පියනන්ද යන නාහිමිවරුන්ගේ උපාධ්‍යයත්වයෙන්හාරිස්පත්තුවේ ධම්මරතන යන නමින්ද ඔහුගේ පුත්‍ රකැනඩාවේ පදිංචි වෘත්තියෙන් ඉංජිනේරුවකු වන සඳකැලුම් රාජපක්ෂ මහතා අම්පාරේ ධම්මාලෝකනමින්ද තාවකාලික පැවිද්ද ලබා තිබේ .
+Mr. Gunatilleke Rajapaksa has also received temporary dhammarane, Ven.
 
-ඔවුන් දෙදෙනා තාවකාලික පැවිද්ද ලබා සිටින කෙටි කාලය තුළදී දඹදිව සිද්ධස්ථාන රැසක්වන්දනා කිරීමට බලාපොරොත්තු වන බව මන්ත්‍රීවරයාගේ සම්බන්ධීකරණ ලේකම්අනුර මඩලුස්ස මහතාපැවසීය .
+The MP's coordinating secretariat is expected to be able to many places during the short period of time.
 
 ◼️
 
 [Data](articles/6db5f55f.json)
+
+[Extended Data](ext_articles/6db5f55f.ext.json)
 
 ---
 
@@ -516,19 +524,21 @@ The MP is said to have decided to enter the monk after the death of his wife.
 
 ---
 
-### ජානක වක්කුඹුරට තවත් රාජ්‍ය අමාත්‍යධුරයක්
+### Another State Minister of State for Janaka Wakumbe
 
 *2024-02-20 18:52:50* · [`adalk`](https://www.ada.lk/breaking_news/ජානක-වක්කුඹුරට-තවත්-රාජ්‍ය-අමාත්‍යධුරයක්/11-408198) · `si`
 
-පළාත් සභා, පළාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍යවරයා ලෙස ජානක වක්කුඹුර මහතා අද (20) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ දිවුරුම් දුන්නේය.
+Janaka Wakkumbura was sworn in as the Minister of Provincial Councils and Environment in the Presidential Secretariat today (20) before President Ranil Wickremesinghe.
 
-ඒ මහතා විසින් මීට පෙර දරන ලද පළාත් සභා හා පළාත් පාලන රාජ්‍ය අමාත්‍ය ධූරයට අමතරව මෙම නව පත් කිරීම සිදු කර තිබේ.
+The new appointment has been made in addition to the post of Minister of Local Government and Local Government.
 
-දිවුරුම් දීමේ අවස්ථාවට ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ද එක්ව සිටියේය.
+Presidential Secretary Saman Ekanayake was also present at the occasion.
 
 ◼️
 
 [Data](articles/878612c7.json)
+
+[Extended Data](ext_articles/878612c7.ext.json)
 
 ---
 

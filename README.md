@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 00:17:26**
+As of **2024-02-22 00:33:02**
 
 ## Newspaper Stats
 
-*Scraped **8,563** Articles*
+*Scraped **8,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,133 @@ colombotelegraphcom | 91
 bbccomsinhala | 105
 dbsjeyarajcom | 156
 newsfirstlk | 363
-economynextcom | 436
+economynextcom | 442
 islandlk | 443
 dailyftlk | 456
 adalk | 735
 adaderanalk | 1,035
-tamilmirrorlk | 1,064
-virakesarilk | 1,147
+tamilmirrorlk | 1,065
+virakesarilk | 1,148
 adaderanasinhalalk | 1,257
-dailymirrorlk | 1,275
+dailymirrorlk | 1,279
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,563 (100.0%) of 8,563 articles have been extended.
+8,563 (99.9%) of 8,575 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-02-22 (Thursday)
+
+### Comrade Dissanayake Must Visit Nuwara Eliya
+
+*2024-02-22 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Comrade-Dissanayake-Must-Visit-Nuwara-Eliya/172-277503) · `en`
+
+Nuwara Eliya’s extreme cold condition might make the less affluent locals shiver, but it is promoted as a holiday destination among the rich
+
+If we turn the pages of time there were two groups which were clearly not involved in developing this nation by being involved with the work of past governments. One is the private sector and the other is the JVP which is the key party marshalling the NPP. The private sector preferred to mind its business and the JVP didn’t wish to team up with any government and get its hands dirty.
+
+NPP Leader, Anura Kumara Dissanayake has stated on numerous occasions that the alliance he leads will appoint as Heads of State Institutions, professionals with a proven educational background.
+
+...
+
+[Data](articles/3a2b8b58.json)
+
+---
+
+### Election fever to grip country  after March
+
+*2024-02-22 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Election-fever-to-grip-country-after-March/172-277504) · `en`
+
+The JVP-led National People’s Power (NPP) is engaging grassroots level individuals and organizations in view of the elections
+
+The NPP is now not prepared to accommodate any other political party or individual
+
+Even the National Movement for Social Justice has initiated the discussion on the need to scrap Executive Presidency
+
+The country is abuzz with election fever, despite the presidential election, constitutionally scheduled for this year, not yet being
+
+...
+
+[Data](articles/615f797b.json)
+
+---
+
+### Restore the Senaka Bibile Policies
+
+*2024-02-22 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Restore-the-Senaka-Bibile-Policies/172-277501) · `en`
+
+...
+
+[Data](articles/fca8a9c2.json)
+
+---
+
 ### 2024-02-21 (Wednesday)
+
+### Afghanistan win three-run thriller, but Sri Lanka take T20 series
+
+*2024-02-21 23:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-win-three-run-thriller-but-Sri-Lanka-take-T20-series/108-277516) · `en`
+
+Dambulla, Feb. 21 - Afghanistan salvaged some pride on Wednesday when they secured a nail-biting three-run win over hosts Sri Lanka in the third T20 international, the last game of their multi-format tour.
+
+It has been a wretched tour for the Afghans -- losing six matches in a row -- but skipper Ibrahim Zadran said he was "feeling great" after his team held their nerve in a dramatic close with a hard-fought win.
+
+"I am happy with the win," Zadran said. "Unfortunately, we lost the series."
+
+Sri Lanka had already secured the three-match T20 series after winning the first two games, the first by four runs, and the second by 72 runs.
+
+They had also won the one-off Test match and the one-day international series in a 3-0 clean sweep.
+
+But Afghanistan seemed determined to win at least one match.
+
+Sri Lanka required 36 off the last two overs, with Dasun Shanaka bringing the chase down to 24 off eight balls -- but was run out.
+
+...
+
+[Data](articles/772428b0.json)
+
+---
+
+### மூன்று ஓட்டங்களால் தோற்றது இலங்கை
+
+*2024-02-21 23:24:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-ஓட்டங்களால்-தோற்றது-இலங்கை/175-333630) · `ta`
+
+ஆப்கானிஸ்தான் அணிக்கும் இலங்கை அணிக்கும் இடையிலான மூன்றாவதும் இறுதியுமான டி20  கிரிக்கெட் போட்டியில்  ஆப்கானிஸ்தான் அணி  3 ஓட்டங்களால் வெற்றிப்பெற்றுள்ளது.
+
+210 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி துடுப்பெடுத்தாடிய இலங்கை அணி 20 ஓவர்கள் நிறைவில் 6 விக்கெட்டுக்களை இழந்து 206 ஓட்டங்களை பெற்றது.
+
+இலங்கை அணி சார்பில் Kamindu Mendis ஆட்டமிழக்காமல் அதிகபட்சமாக 65 ஓட்டங்களை பெற்றதுடன் Pathum Nissanka உபாதை காரணமாக வௌியேறிய நிலையில் 60 ஓட்டங்களை பெற்றிருந்தார்.
+
+எனினும் 3 போட்டிகள் கொண்ட இந்த தொடரை இரண்டுக்கு ஒன்று என்ற கணக்கில் இலங்கை அணி கைப்பற்றியுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/5404f2ac.json)
+
+---
+
+### இலங்கையை 3 ஓட்டங்களால் வீழ்த்தி ஆறுதல் வெற்றியுடன் நாடு திரும்புகிறது ஆப்கானிஸ்தான்
+
+*2024-02-21 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176999) · `ta`
+
+இலங்கைக்கு எதிராக ரங்கிரி, தம்புள்ளை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் புதன்கிழமை (21) இரவு நடைபெற்ற மூன்றாவதும் கடைசியுமான சர்வதேச ரி20 கிரிக்கெட் போட்டியில் ஆப்கானிஸ்தான் 3 ஓட்டங்களால் பரபரப்பான வெற்றியை ஈட்டியது.
+
+இலங்கையின் வெற்றிக்கு கடைசி ஓவரில் 19 ஓட்டங்கள் தேவைப்பட்டது, அந்த ஓவரில் கமிந்து மெண்டிஸினால் 14 ஓட்டங்களையே பெறமுடிந்தது. ஒரு வைட் கிடைக்க ஆப்கானிஸ்தான் 3 ஓட்டங்களால் வெற்றிபெற்றது.
+
+இலங்கைக்கான விஜயத்தில் ஒற்றை டெஸ்ட் போட்டியிலும், 3 போட்டிகள் கொண்ட சர்வதேச ஒருநாள் கிரிக்கெட் தொடரிலும் முழுமையாகத் தொல்வி அடைந்த ஆப்கானிஸ்தான் தனது கடைசி முயற்சியில் வெற்றியீட்டிய ஆறுதலுடன் நாடு  திரும்புகிறது.
+
+எவ்வாறாயினும் சர்வதேச ரி 20 கிரிக்கெட் தொடரையும் 2 - 1 எனற ஆட்டக் கணக்கில்  இலங்கை தனதாக்கிக்கொண்டது.
+
+ஆப்கானிஸ்தானினால் நிர்ணயிக்கப்பட்ட 210 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 206 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+
+...
+
+[Data](articles/fbdfa066.json)
+
+---
 
 ### Afghanistan win by 3 runs
 
@@ -890,6 +998,50 @@ Highlighting that electricity charges had remained stagnant for nearly a decade 
 
 ---
 
+### Sri Lanka to halt parate execution of defaulted SME bank loans: Minister
+
+*2024-02-21 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-halt-parate-execution-of-defaulted-sme-bank-loans-minister-151855/) · `en`
+
+ECONOMYNEXT – Sri Lanka will halt parate execution or the auctioning of assets of small and medium enterprise pledged to take bank loans that have now gone bad, State Minister for Finance Ranjith Siyambalapitiya said.
+
+A cabinet paper suspending the foreclosure powers of banks for a define period will be presented to the cabinet next week, Siyambalapitiya was quoted as saying in parliament.
+
+Related Sri Lanka banks say parate execution needed to protect depositors
+
+Banks have warned that halting parate execution will make lenders more cautious about lending to small and medium enterprises in the future as they have to protect depositors, and good borrowers will also pay a price if recovery is made more difficult.
+
+...
+
+[Data](articles/2b7a4f5d.json)
+
+---
+
+### Sri Lanka rupee closes at 311.30/50 to the US dollar
+
+*2024-02-21 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-311-30-50-to-the-us-dollar-151862/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 311.30/50 to the US dollar Wednesday, from 311.90/95 on Tuesday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.65/85 percent from 10.80/11.00 percent.
+
+A bond maturing on 15.09.2027 closed at 12.05/15 percent from 11.85/12.10 percent.
+
+A bond maturing on 15.03.2028 closed at 12.20/35 percent from 12.15/30 percent.
+
+A bond maturing on 15.07.2029 closed stable at 12.45/95 percent.
+
+A bond maturing on 15.05.2030 closed at 12.35/95 percent from 12.30/13.00 percent.
+
+A bond maturing on 15.05.2030 closed stable at 12.45/13.00 percent.
+
+A bond maturing on 01.07.2032 closed at 12.50/13.20 percent from 12.50/13.30 percent. (Colombo/Feb21/2024)
+
+◼️
+
+[Data](articles/b92acba5.json)
+
+---
+
 ### Mullaitivu fishermen are suffering from violation of Indian fishermen
 
 *2024-02-21 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176962) · `ta`
@@ -955,6 +1107,28 @@ The Colombo Lotus Tower will support the movement this year with many people aro
 [Data](articles/a1901e37.json)
 
 [Extended Data](ext_articles/a1901e37.ext.json)
+
+---
+
+### Sri Lanka stocks close up, consumer sector picking up
+
+*2024-02-21 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-consumer-sector-picking-up-151860/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 11.24 points, or 0.11 percent at 10,649 while the S&P SL20 Index closed up at 3,070 points, up 0.05 percent, or 1.48 points.
+
+Turnover was at 880 million. “Buyers are coming into the market, but it doesn’t translate to significant turnover because they are at lower prices,” a market participant said.
+
+Sectors that attracted investor interest were Capital Goods (196mn), Food, Beverage and Tobacco (189mn), and Banks (167mn).
+
+Royal Ceramics Lanka Plc saw high volumes traded, contributing 59 million to the day’s turnover, and the share closed up at 29.60.
+
+With the uptick in tourist arrivals there was construction in hotels, “mainly refurbishment, in the construction sector” market participants said. “So there is buying interest in tiles, not cement.”
+
+...
+
+[Data](articles/13ca4099.json)
 
 ---
 
@@ -1650,6 +1824,24 @@ Meanwhile, 1.6 percent in December 2023, food inflation increased to 4.1 percent
 
 ---
 
+### Sri Lanka and Iran discuss bilateral cooperation, violence in Gaza
+
+*2024-02-21 15:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-iran-discuss-bilateral-cooperation-violence-in-gaza-151832/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe and Iran’s Minister of Foreign Affairs Hossein Amir-Abdollahian have discussed the Persian Gulf’s crucial role in broader Indian Ocean security, the ongoing violence in Gaza and opportunities for enhancing bilateral cooperation.
+
+Amir-Abdollahian, who is an official visit, met Wickremesinghe at the Presidential Secretariat on Tuesday evening.
+
+“President Wickremesinghe reiterated the Sri Lankan government’s firm stance on the Gaza conflict, emphasizing the immediate necessity for violence cessation and the urgent need for a peace settlement,” a statement by the president’s media division said.
+
+“He underscored the principle that any peace agreement must be inclusive and not based solely on the demands of either side. Additionally, the President proposed the establishment of a Palestinian State within a timeframe of five years, ensuring the security of both Palestine and Israel.”
+
+...
+
+[Data](articles/b45c6a78.json)
+
+---
+
 ### Against privatising public institutions
 
 *2024-02-21 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-privatising-public-institutions/110-277487) · `en`
@@ -1899,195 +2091,5 @@ The South Asian country defaulted on its overseas debt in May 2022 after deplete
 [Data](articles/4a2153a2.json)
 
 [Extended Data](ext_articles/4a2153a2.ext.json)
-
----
-
-### The nephew and related to the uncle who killed the uncle
-
-*2024-02-21 14:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாமாவை-கொன்ற-மருமகனும்-சம்பந்தியும்/76-333589) · `ta`
-
-The son -in -law and his father have been arrested on charges of killing their uncle with cricket.
-
-Marimuthu Dharmalingam (55 years old), a plantation worker in the Kurugama area of the Peradeniya Police Division, has been beaten to death.
-
-Police investigations have revealed that the husband who married the daughter of the murderer had committed the murder and that the other arrested was the father of the suspect.
-
-Police investigations have revealed that the suspect was taking legal action while legal action was taken while the suspect was taking legal action to break away from a 26 -year -old youth who was arrested in the murder.
-
-Police investigations are underway to arrest two more suspects in connection with the incident and further investigations are being carried out by the Chief Inspector of the Peradeniya Police Station Vijith Wijegon.
-
-◼️
-
-[Data](articles/14b16165.json)
-
-[Extended Data](ext_articles/14b16165.ext.json)
-
----
-
-### Court order issued preventing 10 trade unions from inconveniencing public
-
-*2024-02-21 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97432/court-order-issued-preventing-10-trade-unions-from-inconveniencing-public-) · `en`
-
-The Fort Magistrate’s Court on Wednesday (21 Feb.) issued a court order preventing a group of trade unions from entering several places in Colombo during a protest march scheduled for today.
-
-As per the relevant court order, 10 trade unions have been prevented from entering the premises of the Finance Ministry, Presidential Secretariat, Central Bank of Sri Lanka (CBSL) and the President’s House, or inconveniencing the public or traffic.
-
-◼️
-
-[Data](articles/5218ab25.json)
-
-[Extended Data](ext_articles/5218ab25.ext.json)
-
----
-
-### New Secretary to the Cabinet
-
-*2024-02-21 14:10:38* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍ය-මණ්ඩලයට-නව-ලේකම්වරයෙක්/11-408219) · `si`
-
-The President is the new Secretary to the Cabinet of Ministers.Fernando has been appointed.The appointment of this appointment yesterday (20) was released by the Secretary to the President EMSBA yesterday.
-
-◼️
-
-[Data](articles/36f550f8.json)
-
-[Extended Data](ext_articles/36f550f8.ext.json)
-
----
-
-### This is how the electricity tariff goes down
-
-*2024-02-21 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193650) · `si`
-
-The percentage of electricity tariff has been completely removed through the new amendment.
-
-Minister of Power and Energy Kanchana Wijesekara was speaking at a statement to Parliament today.
-
-The Minister further stated that the proposal will be made to the Public Utilities Commission by the CEB tomorrow.
-
-Accordingly, the increase in the 18 percent bill increased by the domestic and religious situations category will be reduced.
-
-The tourism industry is to be completely removed by the electricity industry of the tourism industry by 12 percent.
-
-The electricity bills of government institutions in October will be increased by 24 percent and reduces the same amount by the new amendment.
-
-◼️
-
-[Data](articles/64db8c4b.json)
-
-[Extended Data](ext_articles/64db8c4b.ext.json)
-
----
-
-### Court order for 10 trade unions
-
-*2024-02-21 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193649) · `si`
-
-Fort Magistrate's Court today (21) has issued an order today.
-
-Accordingly, the Ministry of Finance, Ministry of Finance, the Presidential Secretariat, the Central Bank and the Presidential Board has been issued.
-
-It further states that the public should not be made to cause stress or traffic.
-
-◼️
-
-[Data](articles/c6fe60dd.json)
-
-[Extended Data](ext_articles/c6fe60dd.ext.json)
-
----
-
-### CT in Gampaha Hospital. Scan machine is off
-
-*2024-02-21 13:53:10* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-රෝහලේ-සී-ටී--ස්කෑන්-යන්ත්‍රයත්-අක්‍රීයයි/11-408218) · `si`
-
-The patients have been severely impaired due to the offensive of the CTscan in Gampaha District General Hospital.
-
-Investigations have revealed that the patients have been transferred to Ragama and Colombo National Hospitals for patients and emergency to investigate the situation.
-
-The scanner has been received a few years ago and the annual service adopted is that the company has not been signed by the Ministry of Health.has.
-
-At least 10 - 15 sudden patients at the Gampaha District General Hospital is a measure of rename of casc as the machine to other hospitals, as the machine is currently inactive.Is to be taken.
-
-◼️
-
-[Data](articles/ccd33a9b.json)
-
-[Extended Data](ext_articles/ccd33a9b.ext.json)
-
----
-
-### Body of three dead personnel hospitalized under false addresses
-
-*2024-02-21 13:50:48* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-ලිපින-යටතේ-රෝහල්ගතව-සිට-මිය-ගිය-තිදෙනකුගේ-මළ-සිරුරු-හෝමාගම-රෝහලේ/11-408217) · `si`
-
-According to the Homagama Base Hospital, the Homagama Base Hospital Police say that the trustees were facing a number of problems to be taken into custody to the Homagama Base Hospital.
-
-Accordingly, the police urged the general public to provide information to the guardians of the dead.
-
-The deceased has been admitted to the Mattegoda, Athurugiriya Police Divisions and has not been held in the area.
-
-The Mattegoda patient was aged between the ages of 78, 52 and 50 years.. It is said that the patient Maharagama had died on 20.01.202013.
-
-Two of them had been admitted to the hospital, while he was returning to the hospital, while he was returning to the hospital after the recovery of a guardian was returned to the hospital.It is said that he died.
-
-The bodies have been placed in the hospital morgue and is now obstructed to delay daily brushes and the absence of guardians of the bodies have been disrupted and the absence of trustees to release the corpses.
-
-...
-
-[Data](articles/9f448d3c.json)
-
-[Extended Data](ext_articles/9f448d3c.ext.json)
-
----
-
-### A policy to take care of adults
-
-*2024-02-21 13:45:25* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිහිටියන්-බලා-ගැනීමට-ප්‍රතිපත්තියක්/11-408216) · `si`
-
-Health and Industry Minister Minister Ramesh Pathirana said that the health facilities provided for the elderly population in Sri Lanka have not yet been properly prepared in our health system.
-
-The Minister added that the adult population has been a problem for the health system and their own customers, the Minister added that it is a policy compliance of health facilities and care for the elderly people as a solution.
-
-The Minister made these comments addressing the gathering at the Bentota Hospital this morning.
-
-◼️
-
-[Data](articles/b5a9bbe8.json)
-
-[Extended Data](ext_articles/b5a9bbe8.ext.json)
-
----
-
-### Court orders five STF officers
-
-*2024-02-21 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193648) · `si`
-
-The Court of Appeal today (21) ordered the Anamaduwa Magistrate's Court not to take steps to take steps to take steps to take steps to take five officers in the abduction incident.
-
-The order has been given the order on five STF officers and the suspects have been accused of abduction of an Anamaduwa Police a constable.
-
-The Court of Appeal has issued the orders after considering a Rit petition filed by STF personnel.
-
-◼️
-
-[Data](articles/3af4922a.json)
-
-[Extended Data](ext_articles/3af4922a.ext.json)
-
----
-
-### Iranian President of Sri Lanka soon
-
-*2024-02-21 13:43:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரைவில்-இலங்கை-வரும்-ஈரான்-ஜனாதிபதி/175-333588) · `ta`
-
-Iranian President Ibrahim Raisi will visit Sri Lanka very soon, Foreign Minister Hussein Amir Abdullah said.
-
-The Iranian Foreign Minister, who was on a official visit to Sri Lanka, made this observation at a joint press conference held in Colombo yesterday.
-
-◼️
-
-[Data](articles/34096ae5.json)
-
-[Extended Data](ext_articles/34096ae5.ext.json)
 
 ---

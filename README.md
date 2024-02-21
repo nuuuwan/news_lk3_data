@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 16:33:23**
+As of **2024-02-21 16:48:43**
 
 ## Newspaper Stats
 
-*Scraped **8,476** Articles*
+*Scraped **8,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 456
 adalk | 718
 adaderanalk | 1,024
 tamilmirrorlk | 1,054
-virakesarilk | 1,134
+virakesarilk | 1,135
 adaderanasinhalalk | 1,238
 dailymirrorlk | 1,258
 
@@ -26,11 +26,31 @@ dailymirrorlk | 1,258
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,476 (100.0%) of 8,476 articles have been extended.
+8,477 (100.0%) of 8,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Sri Lanka Education Administrative Service Officer in the East protests against the attack
+
+*2024-02-21 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176968) · `ta`
+
+A protest march was launched in front of the Eastern Provincial Department of Education on Wednesday (21) over the attack on the Sri Lanka Education Administrative Service Officer.
+
+Deputy Director of Education of the Eastern Province. Sri Lanka Teachers' Union Representative. The struggle was carried out by the Udayarupan's duty at the time of duty and condemned it.
+
+Deputy Director of Education has been admitted to the Trincomalee General Hospital. The teacher has been arrested in connection with the attack, the Trincomalee headquarters police said.
+
+An appeal meeting on teacher transfers for 2024 was held at the Provincial Department of Education on Tuesday 20th. Sri Lanka Teachers Union Member Bee, who was presented at the meeting. The office staff quietly expressed their opposition to the Udaya Ruben meeting, saying that the first provincial education director was appointed to the Director of Education and that he had attacked the Deputy Director of Education and condemned it.
+
+...
+
+[Data](articles/110895ed.json)
+
+[Extended Data](ext_articles/110895ed.ext.json)
+
+---
 
 ### Court order after the kidney surgery at Ridgeway Hospital
 
@@ -2017,23 +2037,5 @@ National Organizer of the Government Nursing Officers Sudath Jayasiri said that 
 [Data](articles/9c6ef5a9.json)
 
 [Extended Data](ext_articles/9c6ef5a9.ext.json)
-
----
-
-### Sri Lanka-Afgans Third 20-20 Third Today
-
-*2024-02-21 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193634) · `si`
-
-Sri Lanka and Afghanistan will be held today and the third match today (21).
-
-The Sri Lanka team won the tournament 2-0.
-
-Sri Lanka won the Sri Lankan team all over the tour of Afghanistan.
-
-◼️
-
-[Data](articles/6ad8dd70.json)
-
-[Extended Data](ext_articles/6ad8dd70.ext.json)
 
 ---

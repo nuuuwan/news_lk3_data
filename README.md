@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 02:48:26**
+As of **2024-02-22 03:02:25**
 
 ## Newspaper Stats
 
-*Scraped **8,586** Articles*
+*Scraped **8,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 462
 adalk | 735
 adaderanalk | 1,035
 tamilmirrorlk | 1,065
-virakesarilk | 1,153
+virakesarilk | 1,154
 adaderanasinhalalk | 1,257
 dailymirrorlk | 1,279
 
@@ -26,11 +26,29 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,586 (100.0%) of 8,586 articles have been extended.
+8,586 (100.0%) of 8,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### மலையக வீட்டுத் திட்டங்களில்  அரசியல், தொழிற்சங்க ரீதியான நடவடிக்கைகள் தவிர்க்கப்பட வேண்டும் - வே. இராதாகிருஷ்ணன்
+
+*2024-02-22 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177005) · `ta`
+
+மலையகப் பெருந்தோட்டங்களில்  வீடுகளை நிர்மாணிக்கும் திட்டம் வரவேற்கத்தக்கது எனினும் அதில் அரசியல் மற்றும் தொழிற்சங்க ரீதியான செயற்பாடுகள் தவிர்க்கப்பட வேண்டும் என வே. இராதாகிருஷ்ணன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (21) இடம்பெற்ற  நாட்டின் தற்போதைய நிலைமை தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்தார்.
+
+தோட்ட மக்களுக்கு அன்று ஆரம்பிக்கப்பட்ட ஏழு பேர்ச் காணியில் தான் வீடுகள் கட்டப்பட்டன. அந்த வகையில்  இப்போதும் எந்த முன்னேற்றமும் இல்லாமல் அதேயளவு காணிகளிலேயே வீடுகள் நிர்மாணிக்கப்படவுள்ளன. அதில் மாற்றங்களைக் கொண்டு வருவது அவசியம் அத்துடன் பாதிக்கப்பட்டவர்களுக்கு முன்னுரிமை வழங்குவதும் முக்கியம். மலையகப் பெருந்தோட்டங்களில்  வீடுகளை நிர்மாணிக்கும் திட்டம் வரவேற்கத்தக்கது எனினும் அதில் அரசியல் மற்றும் தொழிற்சங்க ரீதியான செயற்பாடுகள் தவிர்க்கப்பட வேண்டும்
+
+அத்துடன் அஸ்வெசும திட்டத்தின் மூலம் வழங்கப்படும் 15,000 ரூபா தோட்ட மக்களுக்கு கிடைக்கச் செய்ய வேண்டும்.
+
+...
+
+[Data](articles/60f3baa4.json)
+
+---
 
 ### Sri Lanka, Iran discuss Persian Gulf’s crucial role in broader Indian ocean security
 
@@ -2099,21 +2117,5 @@ The National Resources Protection Movement (NRPM) staged a protest in Colombo to
 [Data](articles/b9fc4b8d.json)
 
 [Extended Data](ext_articles/b9fc4b8d.ext.json)
-
----
-
-### Gammanpila presents private member’s bill to remove police powers of Provincial Councils
-
-*2024-02-21 15:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gammanpila-presents-private-members-bill-to-remove-police-powers-of-Provincial-Councils/108-277486) · `en`
-
-Parliament, Feb. 21 (Daily Mirror) Opposition MP Udaya Gammanpila today presented to Parliament a private member's bill, the 22nd Ammendment to the Constitution through which he seeks to take away the police powers of the Provincial Councils.
-
-He seeks to remove the police powers from the list of powers vested with the Provincial Councils under the 13th Amendment to the Constitution.
-
-◼️
-
-[Data](articles/f193b465.json)
-
-[Extended Data](ext_articles/f193b465.ext.json)
 
 ---

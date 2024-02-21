@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 18:33:09**
+As of **2024-02-21 18:50:56**
 
 ## Newspaper Stats
 
-*Scraped **8,518** Articles*
+*Scraped **8,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 456
 adalk | 729
 adaderanalk | 1,028
 tamilmirrorlk | 1,055
-virakesarilk | 1,142
+virakesarilk | 1,145
 adaderanasinhalalk | 1,248
 dailymirrorlk | 1,266
 
@@ -26,47 +26,57 @@ dailymirrorlk | 1,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,507 (99.9%) of 8,518 articles have been extended.
+8,518 (100.0%) of 8,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### කඩුවෙන අධිකරණයෙන් දුන් නියෝගය හෝමාගමින් වෙනස් කරයි
+### The decree of the breaking the breaking judgment changes the homach
 
 *2024-02-21 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193669) · `si`
 
-වැලිවිට සුද්දා නමැත්තාට අයත් බව කියන රථ වාහන යළි අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන ඒකකය වෙත ලබාදීමට කටයුතු කරන ලෙස හෝමාගම මහාධිකරණ විනිසුරු නිමල් රණවීර මහතා අද (21) දින නියෝගයක් නිකුත් කර තිබේ.
+Homagama High Court Judge Nimal Ranaweera today issued an order to be given to Weliwita Suddha to the illegal Asset Investigation Unit of the Criminal Investigation Department.
 
-ඒ, කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය මගින් යළි අයිතිකරුවන්ට භාරදෙන ලෙස නියෝග කරන ලද රුපියල් කෝටි 10ක් පමණ වටිනා රථවාහන ය.
+It is worth about Rs. 10 billion to hand over the Kaduwela Magistrate's Court.
 
-යුක්තිය මෙහෙයුම යටතේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීතිවිරෝධී වත්කම් කොට්ඨාසය මගින් මෙවා අත්අඩංගුවට ගෙන තිබුණි.
+Meanwhile, Illegal asset division was arrested by the Criminal Investigation Department under the operation.
 
-අත්අඩංගුවට ගෙන මාස 02කට ආසන්න කාලයක් රඳවා තබාගෙන සිටින කෝටි 10ක් පමණ වටිනාකමකින් යුත් රථවාහන එහි ලියාපදිංචි අයිතිකරු වෙත යළි ලබාදෙන ලෙස කඩුවෙල මහෙස්ත්‍රාත් චාණිමා විජේබණ්ඩාර මහත්මිය ඉකුත් 16 වනදා නියෝග කර තිබුණි.
+Kaduwela Magistrate Chrishage Wijebandra was ordered to return to its registered vendor to the registered owner of about Rs.
 
-එම නියෝගය මත අදාළ රථවාහනවල ලියාපදිංචි අයිතිකරුවන් විසින් අදාල රථවාහන මුදාගෙන රැගෙන ගොස් තිබේ.
+On that order, the respective traffic has been rescued by registered owners of the carved vehicles.
+
+Accordingly, the Criminal Asset Investigation Unit of the Criminal Investigation Unit of the Criminal Asset Investigation Unit of the Criminal Investigation Unit has failed to make the assets to the Homagama High Court today.
+
+The court was presented before the courts that these traffic were purchased with illegal earned money.
 
 ...
 
 [Data](articles/8880ad35.json)
 
+[Extended Data](ext_articles/8880ad35.ext.json)
+
 ---
 
-### යුක්තිය ගැන තීරණයක් ගනී
+### Decision is made about justice
 
 *2024-02-21 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193668) · `si`
 
-කුමන බලපෑම් පැමිණිය ද මත්ද්‍රව්‍ය හා පාතාලය මර්දනය කිරීමට මෙන්ම කාන්තාවන්ට සහ දරුවන්ට සිදුවන හිංසනය වැළැක්වීමට දියත්කර ඇති කිසිදු මෙහෙයුමක් නොනවත්වන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+According to the People's Defense Minister Tiran Alles, which is not the case to suppress the drug and underworld, as well as to suppress the drug and underworld.
 
-‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (21) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කර ඇත.
+The Minister was speaking at a press conference held at the Presidential Media Center today (21) at a press conference held by the President today.
 
-එසේම 2023 දෙසැම්බර් 17 වනදා ආරම්භ කළ යුක්තිය මෙහෙයුමෙන් මේ වනවිට අත්අඩංගුවට ගෙන ඇති මත්ද්‍රව්‍යවල වටිනාකම රුපියල් බිලියන 7.8ක් වන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+She has been arrested on December 17, 2023, the amount of drugs that have been arrested by now on December 17, was Rs. 7.8 billion.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාය,
+Speaking further Mr. Tiran Alles, Speaking further,
+
+"The suppression of drugs and underworld and continuously continues to continue in the prevention of violence and violence. None of the effects and we have no preparation to stop these operations. We are being charged with this program. Various people and groups are trying to disrupt this program. We have received information that people who receive money through drug networks are spending money for the same person's groups. "
 
 ...
 
 [Data](articles/62a06b59.json)
+
+[Extended Data](ext_articles/62a06b59.ext.json)
 
 ---
 
@@ -86,29 +96,49 @@ The State Minister said a bottle of Gal arrack can be reduced to Rs. 1,500 addin
 
 [Data](articles/e9d57881.json)
 
+[Extended Data](ext_articles/e9d57881.ext.json)
+
 ---
 
-### වනිඳු සහ මහීෂ් ඉදිරියට
+### Fan and Mahin
 
 *2024-02-21 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193667) · `si`
 
-ICC පන්දු යවන්නන්ගේ නවතම ශ්‍රේණිගත කිරීම්වල 20යි 20 පන්දු යවන්නන්ගේ ලැයිස්තුවේ දෙවැනි ස්ථානය දක්වා ඉහළට පැමිණීමට ශ්‍රී ලංකා 20යි 20 නායක වනිඳු හසරංග සමත් ව තිබේ.
+Sri Lanka 20 Sri Lanka (ICC) has been able to reach 20 and 20 leader of the ICC bowlers.
 
-එහි තුන් වැනි ස්ථානයේ මහීෂ් තීක්ෂණ පසු වන අතර, ඔහුට හිමි වී ඇති ප්‍රසාද ලකුණු ගණන 676කි.
+Mah Meesh was inspevatory and 676 bonus marks.
 
-20යි 20 පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වල අංක එකේ පසු වන්නේ, එංගලන්ත දඟපන්දු යවන ක්‍රීඩක ආදිල් රෂිඩ් ය.
+The number one in the rankings of 20s, England spinner, is the England spinner.
 
-මේ අතර, 20යි 20 තුන්ඉරියව් ක්‍රීඩකයන්ගේ ලැයිස්තුවේ ද ඉදිරියට පැමිණීමට නායක වනිඳු හසරංග සමත් ව තිබේ.
+Meanwhile, Leader Monduvin was also in the list of 20 Tioral Players.
 
-තවමත් එහි පළමු ස්ථානයේ පසු වන්නේ, බංග්ලාදේශ ක්‍රීඩක ශකිබ් අල් හසන් ය.
+The first place is still in the first place, Bangladesh player Shakib Al Hassan.
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන 20යි 20 තරගාවලියේ දැක්වූ දස්කම් මත වනිඳු සහ මහීෂ් මෙසේ ශ්‍රේණිගත කිරීම්වල ඉදිරියට පැමිණ තිබේ.
+The rankings of Money and Mahish have come forward on the performers of the 20th tournament between Sri Lanka and Afghanistan.
 
-දෙරට අතර තෙවැනි සහ අවසන් 20යි 20 තරගය අද (21) සවස 07.00ට රන්ගිරි දඹුලු අන්තර්ජාතික ක්‍රිකට් ක්‍රීඩාංගණයේ දී ආරම්භ වීමට නියමිත ය.
+Among the two countries will commence at the Rangeiri Dambulla Stadium today (21) at 07.00 pm today.
 
 ◼️
 
 [Data](articles/101e197f.json)
+
+[Extended Data](ext_articles/101e197f.ext.json)
+
+---
+
+### பௌத்த பிக்குகள் பாராளுமன்றத்துக்கு வர கூடாது, விகாரைகளில் இருக்க வேண்டும் - இராஜாங்க அமைச்சர் டயனா கமகே
+
+*2024-02-21 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/176991) · `ta`
+
+பௌத்த பிக்குகள் பாராளுமன்றத்துக்கு வர கூடாது. விகாரைகளில் இருந்து அறத்தை போதிக்க வேண்டும். காவியுடை அணிந்து வருபவர்களுக்கு மக்கள் இனிமேல் வாக்களிக்க கூடாது, விகாரையிலேயே இருக்க சொல்லுங்கள். பாராளுமன்ற உறுப்பினர் ரத்ன தேரர்,நாலக கொடஹேவா ஆகியோரின் ஆலோசனைகளினால் தான் கோட்டபய ராஜபக்ஷ பாரிய நெருக்கடிக்கு உள்ளானார் என சுற்றுலாத்துறை அமைச்சர் டயனா கமகே தெரிவித்தார்.
+
+எனது வீட்டுக்கு பீல்ட் மார்ஷல் சரத் பொன்சேகா மாத்திரமல்ல, ஜனாதிபதி ரணில் விக்கிரமசிங்க,மஹிந்த ராஜபக்ஷ, மைத்திரிபால சிறிசேன, சஜித் பிரேமதாச,அனுரகுமார திஸாநாயக்க ஆகியோர் வருகை தந்துள்ளார்கள். ஆகவே கீழ்த்தரமான கருத்துக்களை குறிப்பிடுவதை எஸ்.எம்.மரிக்கார் தவிர்த்துக் கொள்ள வேண்டும் எனவும் குறிப்பிட்டார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (21) இடம்பெற்ற நாட்டின் தற்போதைய நிலைவரம் தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/f41d3337.json)
 
 ---
 
@@ -127,6 +157,8 @@ Highlighting that electricity charges had remained stagnant for nearly a decade 
 ...
 
 [Data](articles/2b33a272.json)
+
+[Extended Data](ext_articles/2b33a272.ext.json)
 
 ---
 
@@ -180,6 +212,22 @@ Nagananda Kodituwakku has requested the Supreme Court to allow the national folk
 
 ---
 
+### நாளை சிவப்பு நிறத்தில் ஒளிரவுள்ள தாமரைக் கோபுரம்
+
+*2024-02-21 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176956) · `ta`
+
+சர்வதேச மூளையழற்சி நோய் தினத்தை முன்னிட்டு விழிப்புணர்வை ஏற்படுத்தும் வகையில் நாளை புதன்கிழமை (22) கொழும்பிலுள்ள தாமரை கோபுரம் சிவப்பு நிறத்தில் ஒளிரவிடப்படவுள்ளது.
+
+இந்த ஆபத்துமிக்க நரம்பியல் நிலை குறித்த விழிப்புணர்வை ஏற்படுத்தும் என்செபாலிடிஸ் இன்டர்நேஷனலின் அண்மைய திட்டங்களின் ஒரு பகுதியாக இவ்வாறு ஒளிரவிடப்படவுள்ளது.
+
+கொழும்பு தாமரை கோபுரம் இவ் வருடம் சர்வதேச மூளையழற்சி தினத்தை உண்மையிலேயே குறிப்பிடத்தக்க மாற்றத்தை எற்படுத்தும் வகையில் உலகெங்கிலும் உள்ள பலருடன் இணைந்து இந்த இயக்கத்திற்கு ஆதரவளிக்கும்.
+
+◼️
+
+[Data](articles/a1901e37.json)
+
+---
+
 ### AMS urges fairness amidst National Hospital turmoil
 
 *2024-02-21 17:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AMS-urges-fairness-amidst-National-Hospital-turmoil/108-277492) · `en`
@@ -195,6 +243,28 @@ However, if such expressions are deemed detrimental to the functioning of health
 ...
 
 [Data](articles/e87dfce7.json)
+
+[Extended Data](ext_articles/e87dfce7.ext.json)
+
+---
+
+### கடும் வெப்பம் ; வைத்திய நிபுணர்கள் விடுத்துள்ள எச்சரிக்கை
+
+*2024-02-21 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176948) · `ta`
+
+நாட்டில் நிலவும் வெப்பமான வானிலையின் காரணமாக சூரிய ஒளியில் அதிகமாக இருப்பதை தவிர்க்குமாறும், அடிக்கடி  நீராகாரங்களை எடுத்து கொள்ளுமாறும் வைத்திய நிபுணர்கள் மக்களை அறிவுறுத்தியுள்ளனர்.
+
+செயற்கை குளிர்பானங்களை பருகுவதை தவிர்த்து, நீர், இளநீர் போன்ற இயற்கை குளிர்பானங்களை பருகுவதன் மூலம் உடலில் நீர்வற்றிப் போகாமல் பாதுகாக்கலாம்.
+
+அதிகம் வெப்பத்தினால் சிறுவர்கள், கர்ப்பிணித் தாய்மார்கள், முதியவர்கள் மற்றும் பல்வேறு நோய்களுக்கு சிகிச்சை பெறுபவர்கள் உடலில் நீர்வற்றும் அபாயத்தில் உள்ளனர்.
+
+எனவே, இவர்கள் அதிக வெப்பம் உள்ள நேரங்களில் முடிந்த வரை வெளியில் செல்வதை தவிர்க்க வேண்டும் மற்றும் உடலில் நீர்வற்றிப் போகாமல் பார்த்துக் கொள்ளவேண்டும்.  ஆகையால் 2.5 லீற்றர் தண்ணீரை பருக வேண்டும்.
+
+அத்தோடு, சிறுவர்கள் வீட்டிற்குள்  அல்லது நிழலில் விளையாட இடமளிக்க வேண்டும். சிறிய பிள்ளைகள் வெளியில் செல்லும்போது பாதுகாப்பிற்காக தொப்பிகளை அணிய ஊக்குவிக்க வேண்டும் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/f65869d1.json)
 
 ---
 
@@ -470,6 +540,8 @@ SLPP MP Sarath Weerasekara told Parliament that the President's efforts to rescu
 
 [Data](articles/4c930d48.json)
 
+[Extended Data](ext_articles/4c930d48.ext.json)
+
 ---
 
 ### Research links COVID-19 vaccines with increased heart risks, brain and blood disorders
@@ -632,6 +704,8 @@ The driver of the lorry was taken into custody pending further investigations.
 
 [Data](articles/395d9fec.json)
 
+[Extended Data](ext_articles/395d9fec.ext.json)
+
 ---
 
 ### Hollywood star Jason Momoa congratulates Sri Lanka
@@ -645,6 +719,8 @@ In a UN video, Jason Momoa said Sri Lanka was an example on working together to 
 ◼️
 
 [Data](articles/639853e3.json)
+
+[Extended Data](ext_articles/639853e3.ext.json)
 
 ---
 
@@ -713,6 +789,8 @@ Pannun has been on the National Investigation Agency’s radar since 2019, when 
 ...
 
 [Data](articles/d8707255.json)
+
+[Extended Data](ext_articles/d8707255.ext.json)
 
 ---
 
@@ -1704,6 +1782,8 @@ International Mother Language Day was marked in Colombo today with a ceremony or
 
 [Data](articles/c50f3200.json)
 
+[Extended Data](ext_articles/c50f3200.ext.json)
+
 ---
 
 ### Sri Lanka looking to phase out sending women abroad as domestic workers over 10-year period
@@ -1991,71 +2071,5 @@ Officials further explained the progress of the interim secretariat process of t
 [Data](articles/847389e1.json)
 
 [Extended Data](ext_articles/847389e1.ext.json)
-
----
-
-### Special commodity taxes in several items increases
-
-*2024-02-21 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193641) · `si`
-
-A new gazette issued a new gazette with the increase in potential, green gram, cowpees, maximum and milleted imports.
-
-According to the gazette, so far a kilogram of Rs. 2006 Special Trade Tax Rs. Top up to 300
-
-Creats (other), Seedkana Specials (Illusinne Crakana Special), Schedune Special (Illusan Special) and Milacy (Other) in imports of Rs.. 70 Special Trade Tax Rs.. Up to 300 and have been increased.
-
-In addition, maize and Rs.. A trade tax on 25 has been set.
-
-In the meantime, the importation of maize, dense, green gram, pea, cowk and kurakkan should be carried out on the recommendation of the Ministry of Agriculture.
-
-◼️
-
-[Data](articles/0d764132.json)
-
-[Extended Data](ext_articles/0d764132.ext.json)
-
----
-
-### World Health Organization's Medical Committee on Visit Sri Lanka to control leprosy
-
-*2024-02-21 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176934) · `ta`
-
-The World Health Organization's Special Medical Committee will visit the country in March to completely control leprosy.
-
-The group will help health officials to create a map to completely control leprosy over the next 10 years in the country, the Leprosy Prevention Unit said.
-
-Dr. Prasan Ranweera, Director of the Leprosy Eradication Unit, said that the country has increased.
-
-We have already started a comprehensive program to completely control leprosy from Sri Lanka. The World Health Organization has announced that we will send a special medical team here in March to assist this effort. He added that within the next 10 years, they will create a map to prevent leprosy completely.
-
-◼️
-
-[Data](articles/fef5221a.json)
-
-[Extended Data](ext_articles/fef5221a.ext.json)
-
----
-
-### Special commodity levy on several items raised
-
-*2024-02-21 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97427/special-commodity-levy-on-several-items-raised) · `en`
-
-A government notification has been issued, increasing the special commodity levy imposed on several items including black grams, green grams and cowpeas.
-
-As such, the special commodity levy on black grams (skinned, either split or not) has been increased to Rs. 300 per kilogram.
-
-Meanwhile, the tax on green grams, cowpeas, Kurakkan (seeds), Kurakkan (other), millet (seeds) and millet (other) has been raised from Rs. 70 to Rs. 300.
-
-In addition, a special commodity levy of Rs. 25 is in place on maize.
-
-The communiqué, issued by President Ranil Wickremesinghe in his capacity as the Finance Minister, says the order is valid from February 20, 2024 through December 31, 2024.
-
-It also notes that importation of maize, black grams, green grams, and Kurakkan is allowed on the recommendation of the Agriculture Ministry.
-
-◼️
-
-[Data](articles/7ce3b57e.json)
-
-[Extended Data](ext_articles/7ce3b57e.ext.json)
 
 ---

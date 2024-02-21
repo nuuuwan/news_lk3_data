@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 08:33:02**
+As of **2024-02-21 08:50:18**
 
 ## Newspaper Stats
 
-*Scraped **8,368** Articles*
+*Scraped **8,370** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 91
-bbccomsinhala | 104
+bbccomsinhala | 105
 dbsjeyarajcom | 156
 newsfirstlk | 363
 economynextcom | 429
@@ -20,17 +20,39 @@ adaderanalk | 1,009
 tamilmirrorlk | 1,030
 virakesarilk | 1,120
 adaderanasinhalalk | 1,218
-dailymirrorlk | 1,238
+dailymirrorlk | 1,239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,364 (100.0%) of 8,368 articles have been extended.
+8,370 (100.0%) of 8,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Medical experts ring alarm bells over hot weather
+
+*2024-02-21 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Medical-experts-ring-alarm-bells-over-hot-weather/108-277426) · `en`
+
+Colombo, Feb 20 (Daily Mirror) -  In light of the prevailing hot weather conditions in the country, medical experts strongly advise individuals to minimize their exposure to sunlight and to drink plenty of fluids on a frequent basis.
+
+Senior Consultant Physician Dr. Ananda Wijewickrama told Daily Mirror that it is highly advisable for people to prioritize hydration by consuming natural beverages such as water, king coconut, while steering clear of artificial drinks.
+
+When asked who could be at risk, he said children, expectant mothers, the elderly and those taking treatment for various illnesses are at risk of dehydration due to the extreme temperatures.
+
+“Thus, those at risk should limit exposure to sunlight and stay hydrated to avoid dehydration. An adult should drink at least 2.5 litres of water,” Dr Wijewickrama pointed out.
+
+Furthermore, he advised schoolchildren to keep away from outdoor activities, especially non-essential outdoor functions.
+
+...
+
+[Data](articles/b8e3d367.json)
+
+[Extended Data](ext_articles/b8e3d367.ext.json)
+
+---
 
 ### Showers expected in certain parts of the country
 
@@ -54,43 +76,47 @@ The public is kindly requested to take adequate precautions to minimize damages 
 
 ---
 
-### සෞඛ්‍ය වෘත්තීය ගැටලුව ගැන අවසන් යෝජනාවලිය
+### Final proposal on health career problem
 
 *2024-02-21 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193635) · `si`
 
-සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ අදහස් හා යෝජනා පිළිබඳ අමාත්‍යාංශ අවසන් යෝජනාවලිය ලබන 28 වෙනිදා ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+The finals of the Ministry of Health Trade Union Alliance will be presented on the 28th.
 
-සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ යෝජනා සලකා බැලීමට පත්කළ විශේෂ කමිටුව ඊයේ (20) සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතාගේ ප්‍රධානත්වයෙන් සෞඛ්‍ය අමාත්‍යාංශයේ දී රැස්වුණි.
+The Special committee appointed to consider the proposals of the Health Trade Union Alliance was held at the Ministry of Health yesterday (20).
 
-ඒ අනුව එම යෝජනාවලිය ද එළැඹෙන 28 වැනිදා පස්වරු 3ට මෙම විශේෂ කමිටුව හමුවට ඉදිරිපත් කිරීමට නියමිතය.
+Accordingly, the proposal is to be produced before the Special Committee on the 28th.
 
-සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය සිය වෘත්තීය ගැටලුවලට විසඳුම් ලබාගැනීම සඳහා විශේෂ කමිටුවක් පත්කිරීමට පියවර ගන්නා ලෙස සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගෙන් ඉල්ලීමක් කර තිබිණි.
+Health and Industry Minister Dr. Ramesh Pathirana had requested the appointment to appoint a special committee to address his career issues.
 
-ඒ අනුව අමාත්‍යවරයාගේ නිර්දේශ මත අදාළ කමිටුව පත් කිරීමට පියවර ගත් බව සෞඛ්‍ය අමාත්‍යාංශය සඳහන් කළේය.
+Accordingly, the committee was taken to appoint the relevant committee on the recommendations of the Minister.
 
-සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ වෛද්‍ය රසායනාගාර විද්වත් වෘත්තිකයන්ගේ සංගමයේ සභාපති රවී කුමුදේෂ් මහතා ප්‍රකාශ කළා මූලික වශයෙන් තම යෝජනාවලට එකඟතාව පළ වූ බවය.
+The President of the Medical Laboratory Experts Association Ravi Kummaysh expressed his views to the media after the discussion.
 
-රජයේ හෙද නිලධාරීන්ගේ සංගමයේ ජාතික සංවිධායක සුදත් ජයසිරි මහතා සඳහන් කළේ, ගනු ලැබූ තීරණය කඩිනමින් ක්‍රියාත්මක කරණු ඇතැයි විශ්වාසය කරන බවය.
+National Organizer of the Government Nursing Officers Sudath Jayasiri said that the decision taken by the decision was implemented expeditiously.
 
 ◼️
 
 [Data](articles/9c6ef5a9.json)
 
+[Extended Data](ext_articles/9c6ef5a9.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා-ඇෆ්ගනිස්තාන තුන්වන 20-20 තරගය අද
+### Sri Lanka-Afgans Third 20-20 Third Today
 
 *2024-02-21 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193634) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර තෙවන පන්දුවාර 20යි 20 තරගය අද (21) පැවැත් වේ.
+Sri Lanka and Afghanistan will be held today and the third match today (21).
 
-පළමු තරග දෙකෙන්ම ජයගත් ශ්‍රී ලංකා කණ්ඩායම මේ වනවිට තරගාවලිය 2-0 ලෙස ජයගෙන තිබේ.
+The Sri Lanka team won the tournament 2-0.
 
-ඇෆ්ගනිස්තානයේ ශ්‍රී ලංකා සංචාරය තුළ මේ දක්වා පැවති ටෙස්ට්, එක්දින සහ පන්දුවාර 20 යි 20 තරග සියල්ල ශ්‍රී ලංකා කණ්ඩායම ජයගැනීම විශේෂත්වයකි.
+Sri Lanka won the Sri Lankan team all over the tour of Afghanistan.
 
 ◼️
 
 [Data](articles/6ad8dd70.json)
+
+[Extended Data](ext_articles/6ad8dd70.ext.json)
 
 ---
 
@@ -444,6 +470,34 @@ Two students were injured in a sword cutting incident in Jaffna - Point Pedro.
 
 ---
 
+### Extensive congestion in prisons: How do you know how to rise?
+
+*2024-02-21 02:26:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjrkg4jnr2po) · `si`
+
+Extensive congestion in prisons: How do you know how to rise?
+
+There are about three times the number of inmates who can be detention in prisons.
+
+BBC was able to obtain data on the status of each prison as per the request of the Right to Information Act.
+
+The Colombo remand prison and new Magazine Prison can be identified as prisons. A group of nearly a group of inmates, respectively, respectively, a group of inmates of the country.
+
+Nearly 700 people are arrested as a generally arrested under the operation of 'Justice' operation.
+
+Iranian, Israel, US agents in Sri Lanka: What's going on?
+
+Wind Power Plants: 'Going along the Vani's corridor has to get used to eight to birds.'
+
+Lecoils of Pitipinations: What is the dispute between the ards and fishermen of Colombo?
+
+◼️
+
+[Data](articles/de43c59f.json)
+
+[Extended Data](ext_articles/de43c59f.ext.json)
+
+---
+
 ### Chinese countryman beat police officers
 
 *2024-02-21 00:18:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரிகளை-அடித்து-விரட்டிய-சீன-நாட்டுப்பெண்/175-333555) · `ta`
@@ -535,6 +589,8 @@ The joint media briefing by visiting Iranian Minister of Foreign Affairs Dr. Ami
 ◼️
 
 [Data](articles/d55d9132.json)
+
+[Extended Data](ext_articles/d55d9132.ext.json)
 
 ---
 
@@ -838,19 +894,23 @@ The Minister Kanchana Wijesekera was expressed.
 
 ---
 
-### පොළොන්නරුව යුගයට එහා ගිය ඈත යුගයක සාක්ෂි රැසක් සොයා ගනියි
+### A long time near the Polonnaruwa period examines many evidence
 
 *2024-02-20 20:12:10* · [`adalk`](https://www.ada.lk/breaking_news/පොළොන්නරුව-යුගයට-එහා-ගිය-ඈත-යුගයක-සාක්ෂි-රැසක්-සොයා-ගනියි/11-408203) · `si`
 
-නවීන තාක්ෂණික ක්‍රමවේදයකට අනුව පොළොන්නරුව ඉපැරණි පරාක්‍රමබාහු රාජ්‍ය මාලිගය පරිශ්‍රය තුළ පොළොව විනිවිද පෙනෙන රේඩාර යන්ත්‍රයක් මගින් පොළොන්නරුව යුගයට එහා ගිය ඈත යුගයක සාක්ෂි රැසක් සොයා ගැනීමට හැකි වූ බව කැලණිය විශ්වවිද්‍යාලයේ මහාචාර්ය ප්‍රිශාන්ත ගුණවර්ධන මහතා පැවසීය.
+According to a modern technique Professor Prishantha Gunawardena, Professor Prishantha Gunawardena, who had been able to find a number of evidence of a long time over the Earth Transparent Rady.
 
-පොළොව විනිවිද පෙනෙන නව රේඩාර යන්ත්‍රය මගින් මෙහිදී දැනට මතුපිටට පෙනෙන පුරාවිද්‍යාත්මක නටබුන්වලට අමතරව, පොළොව යට මීටර් තුනක් ගැඹුරින් තවත් ගොඩනැගිලි පාදම් පොකුණු මෙන්ම උදුන් ආදී වශයෙන් දැකගැනීමට හැකිවූ බව ඔස්ට්‍රේලියාවේ ලාට්‍රොප් විශ්වවිද්‍යාලයේ ආචාර්ය කියස් ටික්ලින් මහතා ප්‍රකාශ කළේය.
+Dr. Kazez Ticklin, Dr. Kazez Ticklin, Dr. Kazis, University of Ltrorop, which is in advance of the surface of the earth, has been able to see more buildings and ovens in addition to the surface of the earth.
 
-පොළොන්නරුව පුරාවිද්‍යාත්මක මානව සහ නාගරිකකරණය පිළිබඳව තවදුරටත් සොයා බැලීම සඳහා ක්‍රියාත්මක කරන ලද මෙම ව්‍යාපෘතිය, කැලණිය විශ්වවිද්‍යාලය සහ ඔස්ට්‍රේලියාවේ ලාට්‍රොප් විශ්වවිද්‍යාලය එක්ව ඉකුත් 04වනදා ආරම්භ කර ඇත.
+The project was conducted by the University of Kelaniya and Australia, the University of the University of Kelaniya and Australia.
+
+"The University of Kelaniya and Australia, the Department of Archeology and Central Cultural Funds, the Department of Archeology and Central Cultural Funds, the University of the University of Kelaniya and the University of Sri Lanka has commenced on the 4th of this month.
 
 ...
 
 [Data](articles/1ca5b33f.json)
+
+[Extended Data](ext_articles/1ca5b33f.ext.json)
 
 ---
 
@@ -1883,49 +1943,5 @@ Indians between the ages of 18 and 30 can apply for it.
 [Data](articles/815f4e76.json)
 
 [Extended Data](ext_articles/815f4e76.ext.json)
-
----
-
-### The latest way to send drugs into the prisons
-
-*2024-02-20 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193616) · `si`
-
-Three persons including a woman who was trying to provide drugs have been arrested for the suspects in Magazine and the Colombo Remand Prison.
-
-Prisons Emergency Response Tricic Trick Person Officers have arrested the suspects at a search operation conducted by the suspects at a search operation.. Dissanayake said.
-
-A person visiting a suspect in the Magazine Prison has been discovered in a dent-winning heroin.
-
-A woman and a man who had come to see a suspect who was detained at the Colombo Remand Prison and was arrested in a dental location and took 3,140 milligrams of ice.
-
-Magazine Commissioner Gaminne B. Gaminne B.. Dissanayake said.
-
-Suspect-in-Chief of a Chocolate biscuit priced to visit the visitors to visitors.
-
-◼️
-
-[Data](articles/2671c6c4.json)
-
-[Extended Data](ext_articles/2671c6c4.ext.json)
-
----
-
-### Wasp attack on school intermediate sports festival
-
-*2024-02-20 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193615) · `si`
-
-A school-educated athletic ceremony has been attacked during a school intermediate athlette today.
-
-76 students have been admitted to the Passara Base Hospital, said the District Medical Officer Chana Garnkanda said.
-
-Our correspondent stated that 50 students who were admitted to the hospital have been traced away from the hospital and 26 others were receiving treatment.
-
-It is reported that the wasps were attacked by a group of students from a wasps in a wasp cage in a waste area near the interlogation of the Inter-Extended Festival.
-
-◼️
-
-[Data](articles/5128387f.json)
-
-[Extended Data](ext_articles/5128387f.ext.json)
 
 ---

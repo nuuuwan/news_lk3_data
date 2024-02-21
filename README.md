@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 17:02:20**
+As of **2024-02-21 17:17:24**
 
 ## Newspaper Stats
 
-*Scraped **8,480** Articles*
+*Scraped **8,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 443
 dailyftlk | 456
 adalk | 718
 adaderanalk | 1,027
-tamilmirrorlk | 1,054
+tamilmirrorlk | 1,055
 virakesarilk | 1,135
 adaderanasinhalalk | 1,238
 dailymirrorlk | 1,258
@@ -26,7 +26,7 @@ dailymirrorlk | 1,258
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,477 (100.0%) of 8,480 articles have been extended.
+8,480 (100.0%) of 8,481 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,26 @@ Despite the widespread vaccination efforts, a recent peer-reviewed study has now
 ...
 
 [Data](articles/d2c7b7bd.json)
+
+[Extended Data](ext_articles/d2c7b7bd.ext.json)
+
+---
+
+### கருவை சுமந்த 'கர்ப்பிணி ஆண்'
+
+*2024-02-21 16:26:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கருவை-சுமந்த-கர்ப்பிணி-ஆண்/53-333602) · `ta`
+
+ஆண்கள் கர்ப்பம் அடைய முடியுமா என்பது குறித்து ஏராளமான மருத்துவ ஆராய்ச்சிகள் உலகம் முழுவதும் நடந்து வருகிறது. ஆனால் 36 ஆண்டுகளாக வயிற்றில் குழந்தையை சுமந்து வந்திருக்கிறார். 'கர்ப்பிணி ஆண்' (Pregnant Man) என்று அழைக்கப்பட்ட அந்த நபர் குறித்த விபரங்களை பலரும் அறிந்திருக்க மாட்டார்கள்.
+
+அந்தவகையில், மகாராஷ்டிர மாநிலம் நாக்பூரில் சஞ்சு பகத் என்பவர் 1963 ஆம் ஆண்டு பிறந்தார். முதலில் சாதாரண நபரை போன்று தோற்றம் அளித்த அவர், 20 வயதுக்கு மேல் கர்ப்பம் தரித்த ஆண் போன்று காட்சியளிக்கத் தொடங்கினார். பின்னாளில்தான் அவரது வயிற்றில் அவருடன் பிறந்த ஒருவர் இருந்தது கண்டுபிடிக்கப்பட்டது. இந்த நிகழ்வு மிகப்பெரிய அளவில் கடந்த 1999 ஆம் ஆண்டு பேசப்பட்டது.
+
+அதாவது தான் பிறந்ததில் இருந்து தன்னுடன் பிறந்த ஒருவரை தனது வயிற்றில் அவருக்கே தெரியாமல் வைத்திருந்தார் சஞ்சு பகத். இதனை மெடிக்கல் மிராக்கிள் என்று வைத்தியர்கள் தெரிவிக்கின்றனர்.
+
+20 வயதுக்கு முன்பு வரை அவரது வயிறு சாதாரணமாக காட்சியளித்தது. அதன்பின்னர், வயிறு திடீரென பெரிதாகத் தொடங்கியதால் அவருக்கும் குடும்பத்தினருக்கும் அதிர்ச்சி ஏற்பட்டது.
+
+...
+
+[Data](articles/58f41787.json)
 
 ---
 
@@ -83,6 +103,8 @@ President Wickremesinghe reiterated the Sri Lankan government’s firm stance on
 ...
 
 [Data](articles/de10b7ca.json)
+
+[Extended Data](ext_articles/de10b7ca.ext.json)
 
 ---
 
@@ -153,6 +175,8 @@ The contributions (year-on-year) to the inflation recorded in January from the f
 ◼️
 
 [Data](articles/31ac449f.json)
+
+[Extended Data](ext_articles/31ac449f.ext.json)
 
 ---
 
@@ -2001,27 +2025,5 @@ Amir-Abdollahian arrived in Colombo late on Monday for talks with senior officia
 [Data](articles/f60cea5b.json)
 
 [Extended Data](ext_articles/f60cea5b.ext.json)
-
----
-
-### Medical experts ring alarm bells over hot weather
-
-*2024-02-21 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Medical-experts-ring-alarm-bells-over-hot-weather/155-277426) · `en`
-
-Colombo, Feb 20 (Daily Mirror) -  In light of the prevailing hot weather conditions in the country, medical experts strongly advise individuals to minimize their exposure to sunlight and to drink plenty of fluids on a frequent basis.
-
-Senior Consultant Physician Dr. Ananda Wijewickrama told Daily Mirror that it is highly advisable for people to prioritize hydration by consuming natural beverages such as water, king coconut, while steering clear of artificial drinks.
-
-When asked who could be at risk, he said children, expectant mothers, the elderly and those taking treatment for various illnesses are at risk of dehydration due to the extreme temperatures.
-
-“Thus, those at risk should limit exposure to sunlight and stay hydrated to avoid dehydration. An adult should drink at least 2.5 litres of water,” Dr Wijewickrama pointed out.
-
-Furthermore, he advised schoolchildren to keep away from outdoor activities, especially non-essential outdoor functions.
-
-...
-
-[Data](articles/00ac8845.json)
-
-[Extended Data](ext_articles/00ac8845.ext.json)
 
 ---

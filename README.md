@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 10:02:41**
+As of **2024-02-21 10:17:39**
 
 ## Newspaper Stats
 
-*Scraped **8,381** Articles*
+*Scraped **8,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 454
 adalk | 713
 adaderanalk | 1,011
 tamilmirrorlk | 1,036
-virakesarilk | 1,120
+virakesarilk | 1,126
 adaderanasinhalalk | 1,221
 dailymirrorlk | 1,239
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,239
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,381 (100.0%) of 8,381 articles have been extended.
+8,381 (99.9%) of 8,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,50 @@ Parliamentary Business has commenced under the patronage of the Deputy Speaker.
 
 ---
 
+### எட்கா ஒப்பந்தம் கைச்சாத்திடப்பட்டால் இந்தியர்கள்  இலங்கையின் நிரந்தர குடியேற்றவாசிகளாவர் - விமல் வீரவன்ச சாடல்
+
+*2024-02-21 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176922) · `ta`
+
+200 ஆண்டுகளுக்கு முன்னர் தொழிலுக்காக அழைத்து வரப்பட்டவர்கள் இலங்கையில் நிரந்தரமாக குடி கொண்டதை போன்று எட்கா ஒப்பந்தம் கைச்சாத்திடப்பட்டால் இந்தியர்கள் இலங்கையில் நிரந்தரமாக குடி கொள்வார்கள். ஜனாதிபதியின் தேசியத்துக்கு எதிரான செயற்பாடுகளை பார்த்துக் கொண்டு பொதுஜன பெரமுனவினர் வெட்கமில்லாமல் இருக்கிறார்கள். பிரதமர் தினேஷ் குணவர்தன பூனை போல் செயற்படுகிறார். அமைச்சரவை உறுப்பினர்கள் முட்டாள்களை போல் உள்ளார்கள் என   தேசிய சுதந்திர முன்னணியின்   தலைவரும் பாராளுமன்ற உறுப்பினருமான விமல்   வீரவன்ச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (20) இடம்பெற்ற அமர்வில்  பிணைப் பொறுப்பாக்கப்பட்ட கொடுக்கல் வாங்கல்கள் சட்டமூலம், நம்பிக்கைப் பொறுப்பு பற்றுச்சீட்டுக்கள் (திருத்தச் ) சட்டமூலம் உள்ளிட்ட ஏழு சட்டமூலங்கள் இரண்டாம் வாசிப்புக்காக எடுத்துக் கொள்ளப்பட்டன.இவ்விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/6f352eb3.json)
+
+---
+
+### தமிழருக்கான அரசியலுக்கான தீர்வு : ஜனாதிபதியின் போலி வாக்குறுதிகள் இனியும் வெற்றி பெறாது - தமிழ் தேசிய கூட்டமைப்பு
+
+*2024-02-21 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176921) · `ta`
+
+தமிழரின் பிரச்சினைகளுக்கு தீர்வு காண்பதாக  குறிப்பிட்டுக் கொண்டு சர்வதேசத்தை ஏமாற்றும் செயற்பாடுகளை மாத்திரம் ஜனாதிபதி மேற்கொள்கிறார். ஜனாதிபதி தேர்தலை இலக்காகக் கொண்டு' தமிழருக்கு அரசியல் தீர்வு என்று குறிப்பிடுகிறார். தமிழர் பிரச்சினைக்கு தீர்வு காண்பதற்கு  இந்த ஆண்டு முன்னேற்றகரமான நடவடிக்கைகளை எடுக்காவிடின்  அரசாங்கம் தோல்வி அடைவது உறுதி என தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (20) இடம்பெற்ற அமர்வில்  பிணைப் பொறுப்பாக்கப்பட்ட கொடுக்கல் வாங்கல்கள் சட்டமூலம்,நம்பிக்கைப் பொறுப்பு பற்றுச்சீட்டுக்கள் (திருத்தச் ) சட்டமூலம் உள்ளிட்ட ஏழு சட்டமூலங்கள் இரண்டாம் வாசிப்புக்காக எடுத்துக் கொள்ளப்பட்டன. இவ்விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/0c624f9e.json)
+
+---
+
+### வங்கி கடன் செலுத்தல் 13 சதவீதத்தால் குறைவடைந்துள்ளன - நிதி இராஜாங்க அமைச்சர்
+
+*2024-02-21 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176919) · `ta`
+
+வாடிக்கையாளர்கள் வங்கிகளிடமிருந்து பெற்றுக் கொண்ட கடன்களை மீள் செலுத்தும் வீதம் 13 சதவீதத்தால் குறைவடைந்துள்ளன. நிதி நிலைமை தொடர்பில் எடுக்கப்பட்டுள்ள தீர்மானங்களை மறுசீரமைப்பதால் ஏற்படும் பாதிப்புக்கள் குறித்து மத்திய வங்கி விசேட கவனம் செலுத்தியுள்ளது என  நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (20) இடம்பெற்ற அமர்வின் போது சிறு மற்றும் நடுத்தர தொழில் முயற்சியாளர்கள் எதிர்க்கொண்டுள்ள பிரச்சினைகள் குறித்து எதிர்க்கட்சித் தலைவர் உட்பட எதிரணியின் உறுப்பினர்கள் முன்வைத்த கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொருளாதார பாதிப்புக்கு மத்தியில் ஒரு தரப்பினர் எதிர்கொண்டுள்ள நெருக்கடிகள் குறித்து மாத்திரம் விசேட கவனம் செலுத்த முடியாது. ஒட்டுமொத்த மக்களின் நலனையும் கருத்திற் கொண்டு தான் நிதி நிலைமை குறித்து முக்கிய தீர்மானங்கள் எடுக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/d2107d68.json)
+
+---
+
 ### Back firing;Death
 
 *2024-02-21 09:02:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-துப்பாக்கிச்சூடு-ஒருவர்-மரணம்/175-333566) · `ta`
@@ -61,6 +105,48 @@ It is revealed that he is the relative of the organized offender called Wella Sa
 [Data](articles/f1c4cc61.json)
 
 [Extended Data](ext_articles/f1c4cc61.ext.json)
+
+---
+
+### மத்திய வங்கியின் சம்பள அதிகரிப்பு விவகாரத்தில் தலையிட முடியாது - நிதி இராஜாங்க அமைச்சர்
+
+*2024-02-21 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176918) · `ta`
+
+மத்திய வங்கியின் அதிகாரிகள் சம்பள அதிகரிப்பை நிதி அமைச்சால் கட்டுப்படுத்த முடியாது,  தலையிடவும் முடியாது. ஒப்பந்தத்துக்கு அமைய மூன்று வருடத்துக்கு ஒருமுறை சம்பளம் அதிகரிக்கப்படுகிறது என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (20) இடம்பெற்ற அமர்வில் உரையாற்றிய எதிர்க்கட்சிகளின் உறுப்பினர்கள் 'நாடு வங்குரோத்து நிலையடைந்தமைக்கு மத்திய வங்கி பொறுப்புக் கூற வேண்டும் .நாட்டு மக்கள் பொருளாதார ரீதியில் பாதிக்கப்பட்டுள்ள நிலையில் மத்திய வங்கியின் அதிகாரிகளின் சம்பளத்தை மாத்திரம் இலட்சக்கணத்தில் அதிகரித்துள்ளமை நியாயமானதா' என கேள்வி எழுப்பினார்கள். இதற்கு பதிலளிக்கையில் இராஜாங்க அமைச்சர் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/333faea0.json)
+
+---
+
+### ஐ.நா. அபிவிருத்தி நிதியத்தின் அனுசரணையில் இடம்பெறும் ஊடக செயலமர்வுக்கு தமிழ் ஊடகங்களுக்கும் அழைப்பு விடுக்கப்படும் - பந்துல குணவர்தன
+
+*2024-02-21 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176917) · `ta`
+
+ஐக்கிய நாடுகள் அபிவிருத்தி நிதியத்தின் அனுசரணையில் ஊடகவியலாளர்களுக்கு நடத்தப்படும்  ஊடக தெளிவுபடுத்தல் செயலமர்வுகளுக்கு தமிழ், முஸ்லிம் ஊடகவியலாளர்களுக்கும் அழைப்பு விடுக்க நடவடிக்கை எடுக்கப்படும் என ஊடகத்துறை,போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (20) எதிர்க்கட்சி உறுப்பினர் வே. இராதாகிருஷ்ணன் எம்.பி எழுப்பிய கேள்வி ஒன்றுக்கு பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/fe947d18.json)
+
+---
+
+### சபாநாயகர் தொடர்பான நம்பிக்கை இழக்கப்பட்டிருக்கிறது - எதிர்க்கட்சித் தலைவர்
+
+*2024-02-21 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176916) · `ta`
+
+நிகழ்நிலை காப்புச்சட்டத்துக்கு உயர் நீதிமன்றம் முன்வைத்திருந்த திருத்தங்களுக்கு என்ன நடந்தது என்பதை அரசாங்கம் தெளிவுபடுத்த வேண்டும்.  உயர் நீதிமன்றத்தின் தீர்வுகளை செயற்படுத்தாமல் இருப்பதன் மூலம் சபாநாயகர் தொடர்பான நம்பிக்கை இல்லாமல் போயிருக்கிறது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பல்வேறு சட்டமூலங்கள் தொடர்பாக உயர் நீதிமன்றம் தனது தீர்மானங்களை பாராளுமன்றத்துக்கு அனுப்பிவைக்கிறது. அவ்வாறு அனுப்பப்படும் நீதிமன்ற தீர்வுகளை அச்சிடுமாறும் சபையில் தெரிவிக்கப்படுகிறது. ஆனால் அவை சட்டமூலமாக அமையும்போது குறித்த உயர் நீதிமன்ற  திருத்தங்கள் திருத்தப்படுவதில்லை. அதனால் தான் சபாநாயகர் தொடர்பான நம்பிக்கை இல்லாமல் போயிருப்பதாக நாங்கள் தெரிவித்து வருகிறோம்.
+
+...
+
+[Data](articles/768a951e.json)
 
 ---
 
@@ -1827,125 +1913,5 @@ Rituraj Singh's full name Rituraj Singh Chandravat Sisodia. He was born in the S
 [Data](articles/c9fc8631.json)
 
 [Extended Data](ext_articles/c9fc8631.ext.json)
-
----
-
-### Public Service Societies Pamphlet Distribution
-
-*2024-02-20 16:17:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-சேவை-சங்கங்கள்-துண்டுபிரசுரம்-விநியோகம்/175-333532) · `ta`
-
-Public Service Associations alleged that the government was preparing to reduce the pension of state officials, and today (20) held a manual distribution in front of the Pension Department.
-
-The State Service Association's Association has said that the government is already preparing the Bill to completely snatch the pension of retired civil servants after 2016 and urged the government to immediately recover the bills.
-
-◼️
-
-[Data](articles/4a6116d9.json)
-
-[Extended Data](ext_articles/4a6116d9.ext.json)
-
----
-
-### Sri Lanka stocks close down, interest in capital goods
-
-*2024-02-20 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-interest-in-capital-goods-151645/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 4.99 points, or 0.05 percent at 10,638 while the S&P SL20 Index closed up at 3,068 points, up 0.05 percent, or 1.49 points.
-
-Sectors that attracted investor interest were Capital Goods (270mn), Food, Beverage and Tobacco (175mn), and Banks (101mn).
-
-Distilleries Company of Sri Lanka Plc contributed 72 million to the day’s turnover; the share closed up at 27.00.
-
-Lanka Milk Foods (CWE) Plc also saw high volumes traded, contributing 57 million to the day’s turnover. The share closed up at 23.60.
-
-Sunshine Holdings Plc, which announced an equity infusion into its fully owned subsidiary Sunshine Tea (Private) Limited, saw its share price close down at 54.00.
-
-DFCC Bank Plc, which announced both a scrip dividend and a cash dividend, closed down at 78.50
-
-...
-
-[Data](articles/1044596b.json)
-
-[Extended Data](ext_articles/1044596b.ext.json)
-
----
-
-### Two policemen attacked by Chinese woman in Beruwala
-
-*2024-02-20 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176885) · `ta`
-
-Beruwala police said that a Chinese woman was arrested on Tuesday (20) for assaulting two police officers who went to investigate the complaint made of a Chinese woman in the country without a visa.
-
-The 36 -year -old Chinese woman who lives in Mangala Mawatha, Beruwala has been arrested.
-
-Two police officers have gone to investigate the complaint based on reports that a Chinese woman is staying without a valid visa in a house on Mangala Road, Beruwala.
-
-Police said the attack was due to the conflict.
-
-Beruwala police are conducting further investigations into the incident and have taken steps to bring the suspect in court.
-
-◼️
-
-[Data](articles/7772372c.json)
-
-[Extended Data](ext_articles/7772372c.ext.json)
-
----
-
-### Is it a steps to evacuate the villagers of the reconciliation resettlement of the reconciliation provided by the military?- People's letter to the district secretary
-
-*2024-02-20 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/176867) · `ta`
-
-Reconciliation Resettlement Housing Project Resettlement Families, Public Vision Hall, Playground, Hindu and Christian shrines can be made as a village with Hindu and Christian temples, or whether we will be moved elsewhere under the North Tellippalai Divisional Secretariat.Organizations in the village have signed its copies and sent its copies to President Ranil Wickremesinghe, Opposition Leader Sajith Prema Dasa, Buddhist Sasana Cultural Ministry, Governor of the Northern Province, Tellippalai Divisional Secretariat, Tellippalai Pradeshiya Sabha, Jaffna Mawatha Commander and Religious Leaders.
-
-On October 31, 2016, 150 families were settled in the houses built by the army with the permission of the government headed by President Maithripala Sirisena on October 31, 2016 after being displaced from the North and living in camps from the North.
-
-...
-
-[Data](articles/4fde5525.json)
-
-[Extended Data](ext_articles/4fde5525.ext.json)
-
----
-
-### The girl's abuse;10 years imprisonment
-
-*2024-02-20 16:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமி-துஷ்பிரயோகம்-10-வருட-சிறைத்தண்டனை/76-333528) · `ta`
-
-Nuwara Eliya High Court Magistrate Viraj Weerasuriya on Tuesday (20) sentenced a man who was on duty at the Praja Shakti station in the Kilasco estate in the Akkaraipattana-police division.
-
-The person who was on duty at the Praja Shakti station at the Akkaraipattana-Kilasco estate on 06.07.2017 was accused of sexually abusing a girl under the age of 18 who had come to study at the Praja Shakti station at that time.
-
-He was sentenced to 10 years' rigorous imprisonment (20.02.2024), who was found guilty on the basis of witnesses.
-
-In addition, the magistrate stated in his judgment that the victim should be sentenced to Rs.
-
-◼️
-
-[Data](articles/78c1f865.json)
-
-[Extended Data](ext_articles/78c1f865.ext.json)
-
----
-
-### Chinese woman arrested for chandide
-
-*2024-02-20 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193620) · `si`
-
-The Chinese woman was arrested this afternoon to be assaulted by two police officers who had been investigated by a Chinese woman who had received a visa.
-
-The arrest was a 36 year old Chinese resident of Beruwala Mangala Mawatha.
-
-Two police officers had gone to the complaint on information that a Chinese woman remained in a house on a house in Beruwala, police said.
-
-The two police officers who were assaulted have been sent to the Judiciary of the Kundala Survey Hospital in Kalutara and the suspect is scheduled to be submitted to the Kalutara Magistrate.
-
-◼️
-
-[Data](articles/4266ef89.json)
-
-[Extended Data](ext_articles/4266ef89.ext.json)
 
 ---

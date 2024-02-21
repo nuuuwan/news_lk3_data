@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 00:33:02**
+As of **2024-02-22 00:47:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,563 (99.9%) of 8,575 articles have been extended.
+8,569 (99.9%) of 8,575 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ NPP Leader, Anura Kumara Dissanayake has stated on numerous occasions that the a
 
 [Data](articles/3a2b8b58.json)
 
+[Extended Data](ext_articles/3a2b8b58.ext.json)
+
 ---
 
 ### Election fever to grip country  after March
@@ -64,6 +66,8 @@ The country is abuzz with election fever, despite the presidential election, con
 
 [Data](articles/615f797b.json)
 
+[Extended Data](ext_articles/615f797b.ext.json)
+
 ---
 
 ### Restore the Senaka Bibile Policies
@@ -73,6 +77,8 @@ The country is abuzz with election fever, despite the presidential election, con
 ...
 
 [Data](articles/fca8a9c2.json)
+
+[Extended Data](ext_articles/fca8a9c2.ext.json)
 
 ---
 
@@ -100,43 +106,57 @@ Sri Lanka required 36 off the last two overs, with Dasun Shanaka bringing the ch
 
 [Data](articles/772428b0.json)
 
+[Extended Data](ext_articles/772428b0.ext.json)
+
 ---
 
-### மூன்று ஓட்டங்களால் தோற்றது இலங்கை
+### Sri Lanka lost by three runs
 
 *2024-02-21 23:24:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-ஓட்டங்களால்-தோற்றது-இலங்கை/175-333630) · `ta`
 
-ஆப்கானிஸ்தான் அணிக்கும் இலங்கை அணிக்கும் இடையிலான மூன்றாவதும் இறுதியுமான டி20  கிரிக்கெட் போட்டியில்  ஆப்கானிஸ்தான் அணி  3 ஓட்டங்களால் வெற்றிப்பெற்றுள்ளது.
+Afghanistan won by 3 runs in the third and final T20 cricket match between Afghanistan and Sri Lanka.
 
-210 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி துடுப்பெடுத்தாடிய இலங்கை அணி 20 ஓவர்கள் நிறைவில் 6 விக்கெட்டுக்களை இழந்து 206 ஓட்டங்களை பெற்றது.
+Sri Lanka scored 206 runs for the loss of 6 wickets in 20 overs.
 
-இலங்கை அணி சார்பில் Kamindu Mendis ஆட்டமிழக்காமல் அதிகபட்சமாக 65 ஓட்டங்களை பெற்றதுடன் Pathum Nissanka உபாதை காரணமாக வௌியேறிய நிலையில் 60 ஓட்டங்களை பெற்றிருந்தார்.
+Kamindu Mendis scored a maximum of 65 runs and Pathum Nissanka scored 60 runs due to disaster.
 
-எனினும் 3 போட்டிகள் கொண்ட இந்த தொடரை இரண்டுக்கு ஒன்று என்ற கணக்கில் இலங்கை அணி கைப்பற்றியுள்ளமை குறிப்பிடத்தக்கது. R
+However, the Sri Lankan team has captured the three -match series as one to two. Remble
 
 ◼️
 
 [Data](articles/5404f2ac.json)
 
+[Extended Data](ext_articles/5404f2ac.ext.json)
+
 ---
 
-### இலங்கையை 3 ஓட்டங்களால் வீழ்த்தி ஆறுதல் வெற்றியுடன் நாடு திரும்புகிறது ஆப்கானிஸ்தான்
+### Afghanistan returns to the country with consolation victory by beating Sri Lanka by 3 runs
 
 *2024-02-21 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176999) · `ta`
 
-இலங்கைக்கு எதிராக ரங்கிரி, தம்புள்ளை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் புதன்கிழமை (21) இரவு நடைபெற்ற மூன்றாவதும் கடைசியுமான சர்வதேச ரி20 கிரிக்கெட் போட்டியில் ஆப்கானிஸ்தான் 3 ஓட்டங்களால் பரபரப்பான வெற்றியை ஈட்டியது.
+Afghanistan won the third and last international T20 cricket match at the Rangiri and Dambulla International Cricket Stadium on Wednesday (21).
 
-இலங்கையின் வெற்றிக்கு கடைசி ஓவரில் 19 ஓட்டங்கள் தேவைப்பட்டது, அந்த ஓவரில் கமிந்து மெண்டிஸினால் 14 ஓட்டங்களையே பெறமுடிந்தது. ஒரு வைட் கிடைக்க ஆப்கானிஸ்தான் 3 ஓட்டங்களால் வெற்றிபெற்றது.
+Sri Lanka's victory needed 19 runs in the last over.. Afghanistan won by 3 runs to get a White.
 
-இலங்கைக்கான விஜயத்தில் ஒற்றை டெஸ்ட் போட்டியிலும், 3 போட்டிகள் கொண்ட சர்வதேச ஒருநாள் கிரிக்கெட் தொடரிலும் முழுமையாகத் தொல்வி அடைந்த ஆப்கானிஸ்தான் தனது கடைசி முயற்சியில் வெற்றியீட்டிய ஆறுதலுடன் நாடு  திரும்புகிறது.
+Afghanistan returns to the country with the comfort of its last attempt in a single Test match and the 3 -match international ODI series.
 
-எவ்வாறாயினும் சர்வதேச ரி 20 கிரிக்கெட் தொடரையும் 2 - 1 எனற ஆட்டக் கணக்கில்  இலங்கை தனதாக்கிக்கொண்டது.
+However, Sri Lanka made the international T20 cricket series 2 - 1.
 
-ஆப்கானிஸ்தானினால் நிர்ணயிக்கப்பட்ட 210 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 206 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+In response to a target of 210 runs for Afghanistan, Sri Lanka lost by 6 wickets in 20 overs and lost 206 runs.
+
+The mistakes of this match and the retirement of Beth and the retirement of Nissanka have been the cause of Sri Lanka's failure.
+
+Both and Nissanka and Kusal Mendis shared 64 runs off 34 balls.
+
+Gusal Perera, who was re -featured in the squad, faced only 2 balls and tied the walk without running.
+
+On the other hand, Betham Nissanka, who was playing efficiently, fell on his left leg when he got the 53rd runs.
 
 ...
 
 [Data](articles/fbdfa066.json)
+
+[Extended Data](ext_articles/fbdfa066.ext.json)
 
 ---
 

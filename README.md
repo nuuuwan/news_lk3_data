@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 21:33:00**
+As of **2024-02-21 21:51:59**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 1,272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,546 (100.0%) of 8,548 articles have been extended.
+8,548 (100.0%) of 8,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### ශ්‍රී ලංකාවට ලකුණු 210ක ඉලක්කයක්
+### Sri Lanka target 210 runs
 
 *2024-02-21 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193674) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර තෙවැනි සහ අවසන් 20යි 20 තරගයේ කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහර දුන් ඇෆ්ගනිස්තාන කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 209ක් රැස් කර ගැනීමට සමත් විය.
+The Afghan group scored 209 runs for the loss of 20 wickets in the final 20 overs.
 
-විශිෂ්ට පිතිකරණයක නිරත වූ රහමනුල්ලා ගුර්බාස් ලකුණු 70ක් රැස් කළේ ය.
+Gurbas scored 70 runs in a great brand.
 
-හස්‍‍රතුල්ලා සසායි ලකුණු 45ක් රැස් කරමින් ඔහුට අනගි සහායක් ලබා දීමට සමත් විය.
+Hastuthulla Shadows 45 runs and gave him a good support.
 
-මතීෂ පතිරණ ලකුණු 42කට කඩුලු 02ක් සහ අකිල ධනංජය ලකුණු 37කට කඩුලු 02ක් දවා ගැනීමට සමත් වූහ.
+Matheyathirana took 2 wickets for 42 runs and Akila Dananjaya took two wickets for 37 runs.
 
 ◼️
 
 [Data](articles/925dfc48.json)
+
+[Extended Data](ext_articles/925dfc48.ext.json)
 
 ---
 
@@ -310,21 +312,23 @@ Dematagoda Chaminda, SF Sarath and SF Sarathja, and SF Saraka, and SF Saranawa h
 
 ---
 
-### මැගසින් බන්ධනාගාරයේ සිට මෙහෙයවන මත්ද්‍රව්‍ය ජාවාරමක තොරතුරු එළියට
+### Megascular prison is out of a drug trafficking
 
 *2024-02-21 18:49:47* · [`adalk`](https://www.ada.lk/breaking_news/මැගසින්-බන්ධනාගාරයේ-සිට-මෙහෙයවන-මත්ද්‍රව්‍ය-ජාවාරමක-තොරතුරු-එළියට/11-408224) · `si`
 
-කොළඹ මැගසින් බන්ධනාගාරයේ  කාන්තා රැඳවියෙකු මෙහෙයවන මත්ද්‍රව්‍ය ජාවාරමකට සම්බන්ධ පුද්ගලයකු රුපියල් ලක්ෂ හයකට ආසන්න වටිනා හොරයින් මත්කුඩු  සමග අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+The Colombo Crimes Division says that a person involved in a drug trafficking of a female inmate at Magazine Prison has been arrested with drugs worth nearly Rs.
 
-සැකකරු සමඟ හොරයින් මත්කුඩු ග්‍රෑම් 18 මිලි ග්‍රෑම් 762 ක් පොලිස් භාරයට ගෙන ඇත. සැකකරු අත්අඩංගුවට ගෙන ඇත්තේ ඔහු පදිංචි බොරැල්ල සර්පනටයින් පාර නිවස තුළදීය.
+Police have taken over 762 ml 7 million millions of drugs. The suspect has been arrested in the house of Borella Road, Borella Road.
 
-බන්ධනාගාරයේ රඳවා සිටින කාන්තාව සමග දුරකථනයෙන් සම්බන්ධ වීමෙන් අනතුරුව ඇය විසින් අවිස්සාවේල්ල නවගමුව  කඩුවෙල ගනේමුල්ල ආදී දුර බැහැර ප්‍රදේශවල  ඇයගේ ජාවාරම්කරුවන් මගින් ගැනුම්කරුවන් වෙත මත්කුඩු ලබාදීම සිදුකරන බවත්  සැකකරු ද ඒ ආකාරයෙන් මත්කුඩු නිවසට රැගෙන ආ බවට බස්නාහිර පළාත් දූෂණ මර්දන අංශයේ උප පොලිස් පරීක්ෂක බුද්ධික රාජපක්ෂ මහතාට ලදරහසිගත තොරතුරකට අනුව වැටලීම සිදුකළ බව පොලිසිය කියයි.
+Farrier to her racketeers, Bask Inspector Buddhika Rajapaksa, who was brought to buyers from the Bandarawela, Avissawella Kadugamuwa, Avissawella Kadugamuwa and the suspect was brought to buyers from the Navagamuwa, Avissawella Kadugamuwa.According to police, the raid was carried out.
 
-අත්අඩංගුවට ගත් මෙම සැකකරුගෙන් සිදු කළ ප්‍රශ්න කිරීමේදී බන්ධනාගාරයේ  රඳවා සිටින කාන්තාව ලබාදෙන උපදෙස් මත  එම ජාවාරම ඒ අයුරින් සිදුකරන බවට අනාවරණය වී යැයි පොලිසිය කියයි. අත්අඩංගුවට ගත් සැකකරු 37 පුද්ගලයෙකි. සැකකරු මාලිගාකන්ද අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+The police say that the lady detained in the prison was revealed that the racket was carried out on the instructions of the prison.. The suspect is 37 person. The suspect is to be produced before the Maligakanda Court.
 
 ◼️
 
 [Data](articles/d8d75b2e.json)
+
+[Extended Data](ext_articles/d8d75b2e.ext.json)
 
 ---
 
@@ -1152,7 +1156,7 @@ Colombo, Feb 21 (Daily Mirror) - An Assistant Lecturer of the Colombo University
 
 The victim Lakmini Bogamuwa (24) was an Assistant Lecturer of the Arts Faculty of the Colombo University and a resident of Wickremesinha Pura.
 
-She was on her way to the university to report for duty last morning when she met with the accident. The injured was admitted immediately to a private hospital and later transferred to the National Hospital, Colombo.
+She was on her way to the university to report for duty when she met with the accident. The injured was admitted immediately to a private hospital and later transferred to the National Hospital, Colombo.
 
 The driver of the lorry was taken into custody pending further investigations.
 

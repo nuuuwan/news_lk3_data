@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 21:02:41**
+As of **2024-02-21 21:17:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,545 (100.0%) of 8,546 articles have been extended.
+8,546 (100.0%) of 8,546 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ He said the Ceylon Electricity Board (CEB) had earlier proposed to reduce the ta
 ◼️
 
 [Data](articles/a833c0e4.json)
+
+[Extended Data](ext_articles/a833c0e4.ext.json)
 
 ---
 

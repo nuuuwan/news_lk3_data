@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 05:17:22**
+As of **2024-02-21 05:36:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,337 (99.9%) of 8,343 articles have been extended.
+8,343 (100.0%) of 8,343 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ Phoenix Industries, a top Sri Lankan household product brand, unveiled its innov
 ...
 
 [Data](articles/1f584df7.json)
+
+[Extended Data](ext_articles/1f584df7.ext.json)
 
 ---
 
@@ -64,6 +66,8 @@ National People’s Power (NPP) leader Anura Kumara Dissanayake recently downpla
 
 [Data](articles/734bfe76.json)
 
+[Extended Data](ext_articles/734bfe76.ext.json)
+
 ---
 
 ### Eran questions Speaker under point of order
@@ -79,6 +83,8 @@ In the recent past when Parliament hastily passed online security Act, there was
 ...
 
 [Data](articles/409ca46b.json)
+
+[Extended Data](ext_articles/409ca46b.ext.json)
 
 ---
 
@@ -98,6 +104,8 @@ Co-Cabinet Spokesman Gunawardena assured that any amendments to the legislation 
 
 [Data](articles/2fb0d858.json)
 
+[Extended Data](ext_articles/2fb0d858.ext.json)
+
 ---
 
 ### Iran and Sri Lanka to expand development cooperation, trade and investment
@@ -114,6 +122,8 @@ Expressing satisfaction over the successful project, the Iranian Foreign Ministe
 
 [Data](articles/68de28cd.json)
 
+[Extended Data](ext_articles/68de28cd.ext.json)
+
 ---
 
 ### Some sections of Anti-Terrorism Bill inconsistent with Constitution: Supreme Court
@@ -129,6 +139,8 @@ However, the court has further stated that it could be passed by a simple majori
 ◼️
 
 [Data](articles/bc3d93e7.json)
+
+[Extended Data](ext_articles/bc3d93e7.ext.json)
 
 ---
 

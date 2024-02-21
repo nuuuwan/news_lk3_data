@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 20:02:41**
+As of **2024-02-21 20:17:46**
 
 ## Newspaper Stats
 
@@ -26,45 +26,53 @@ dailymirrorlk | 1,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,528 (100.0%) of 8,530 articles have been extended.
+8,530 (100.0%) of 8,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### எந்தவித அழுத்தங்கள் வந்தாலும் ஆரம்பிக்கப்பட்ட எந்தவொரு நடவடிக்கையும் நிறுத்தப்படமாட்டாது - பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ்
+### No action that has been initiated in any pressures will not be stopped - Public Safety Minister Tran Alles
 
 *2024-02-21 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176996) · `ta`
 
-போதைப்பொருள் மற்றும் பாதாள உலகத்தை ஒடுக்குவதற்கும், பெண்கள் மற்றும் சிறுவர்களுக்கு எதிரான வன்முறைகளைத் தடுக்கும் நோக்கிலும் ஆரம்பிக்கப்பட்டுள்ள எந்தவொரு நடவடிக்கையையும் நிறுத்தத் தயாரில்லை என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்தார்.
+Public Security Minister Tran Ales said that no action has been initiated to suppress the drug and the underworld and prevent violence against women and children.
 
-மேலும், 2023 டிசம்பர் 17 ஆம் திகதி ஆரம்பிக்கப்பட்ட “யுக்திய” நடவடிக்கையின் மூலம் கைப்பற்றப்பட்ட போதைப்பொருட்களின் பெறுமதி 7.8 பில்லியன் ரூபா எனவும் அமைச்சர் குறிப்பிட்டார்.
+The Minister also noted that the value of drugs seized by the "strategy" operation, which began on December 17, 2023, was 7.8 billion rupees.
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (21) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் இவ்வாறு தெரிவித்தார்.
+Public Security Minister Tran Ales said this at a media briefing held at the Presidential Media Center on Wednesday (21).
 
-போதைப்பொருள் மற்றும் பாதாள உலகத்தை ஒடுக்குதல் மற்றும் பெண்கள் மற்றும் சிறுவர்களுக்கு எதிரான வன்முறைகளைத் தடுப்பது தொடர்பான நடவடிக்கைகள் தொடர்ச்சியாக மேற்கொள்ளப்பட்டு வருகின்றன. எத்தகைய அழுத்தங்கள் வந்தாலும் இந்த செயற்பாடுகளை நிறுத்துவதற்கு நாங்கள் தயாராக இல்லை.
+There is a series of measures to suppress drug and underworld and prevent violence against girls and children. We are not prepared to stop these activities, no matter what pressure.
+
+Various allegations are being made against us regarding this program. Various people and groups are trying to disrupt this activity. We have been informed that those who receive money from the drug network will spend money on the groups.
 
 ...
 
 [Data](articles/09b7f077.json)
 
+[Extended Data](ext_articles/09b7f077.ext.json)
+
 ---
 
-### ”வேண்டுமென்றால் எண்ணெய் விளக்கேற்றிப் படிக்கலாம்”
+### "If you want to read the oil lamp"
 
 *2024-02-21 19:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேண்டுமென்றால்-எண்ணெய்-விளக்கேற்றிப்-படிக்கலாம்/175-333613) · `ta`
 
-இலங்கை மின்சார சபையின் (CEB) ஊடகப்பேச்சாளர் நோயல் பிரியந்த, சமீபத்திய தொலைக்காட்சி நிகழ்ச்சியின் போது, ​​இவ்வாறான நிலைமைகளின் போது தங்கள் படிப்பில் சிறந்து விளங்கிய கடந்த தலைமுறையினர் போல் தற்போதைய சிறார்களும் தேவையென்றால் எண்ணெய் விளக்குகளைப் பயன்படுத்திப் படிக்க வேண்டும் என்று கூறி சர்ச்சையைக் கிளப்பியுள்ளார்.
+The Ceylon Electricity Board (CEB) Media Spokesperson Ill Priyantha has stirred controversy, saying that during the latest television show, the current children who excelled in their studies should be used to use oil lights.
 
-இலங்கையில் அதிகரித்து வரும் மின்சார விலைகள் தொடர்பில் கவலை தெரிவிக்கும் போதே பிரியந்த மேற்கண்டவாறு தெரிவித்தார்.
+Priyantha said he was concerned about the increasing power prices in Sri Lanka.
 
-செலுத்தப்படாத கட்டணங்களால் மின்சாரம் துண்டிக்கப்படுவதால் ஏற்படும் பாதகமான விளைவுகள் குறித்த கேள்விகளுக்கு பதிலளித்த அவர், நுகர்வோர் எதிர்கொள்ளும் கஷ்டங்களை ஒப்புக்கொண்டார், ஆனால் இலவச மின்சார கலாச்சாரத்திலிருந்து மாறியதே இதற்குக் காரணம் என்று கூறினார்.
+Responding to questions about the adverse effects of electricity cutting down by unpaid fees, he acknowledged the difficulties faced by consumers, but that this was the reason for changing from free electric culture.
 
-அண்மைய அதிகரிப்புக்கு முன்னர் மின்சாரக் கட்டணங்கள் ஏறக்குறைய ஒரு தசாப்த காலமாக தேக்கநிலையில் இருந்ததை எடுத்துக்காட்டிய பிரியந்த, அரசாங்கத்திற்கு கணிசமான தொகையை செலுத்த வேண்டிய CEB எதிர்கொள்ளும் நிதி சவால்கள் குறித்து வலியுறுத்தினார்.
+Priyantha, who highlighted the stagnation of electricity charges before the recent increase, emphasized the financial challenges faced by CEB, which has to pay a considerable amount of money.
+
+Responding to the report of the CEB media spokesman, the television presenter said that with the appearance of technology and the appearance of electronic devices, the current children cannot be compared to the previous generation because things have changed sharply over time.
 
 ...
 
 [Data](articles/fd4c1cdc.json)
+
+[Extended Data](ext_articles/fd4c1cdc.ext.json)
 
 ---
 

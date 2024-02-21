@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 15:33:15**
+As of **2024-02-21 15:51:22**
 
 ## Newspaper Stats
 
-*Scraped **8,463** Articles*
+*Scraped **8,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,110 @@ islandlk | 443
 dailyftlk | 456
 adalk | 718
 adaderanalk | 1,022
-tamilmirrorlk | 1,050
+tamilmirrorlk | 1,053
 virakesarilk | 1,131
 adaderanasinhalalk | 1,235
-dailymirrorlk | 1,257
+dailymirrorlk | 1,258
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,461 (100.0%) of 8,463 articles have been extended.
+8,467 (100.0%) of 8,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### ලෝකයම කලඹන රුසියාවේ චන්ද්‍රිකා නාශක අවි
+### Gammanpila presents private member’s bill to remove police powers of Provincial Councils
+
+*2024-02-21 15:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gammanpila-presents-private-members-bill-to-remove-police-powers-of-Provincial-Councils/108-277486) · `en`
+
+Parliament, Feb. 21 (Daily Mirror) Opposition MP Udaya Gammanpila today presented to Parliament a private member's bill, the 22nd Ammendment to the Constitution through which he seeks to take away the police powers of the Provincial Councils.
+
+He seeks to remove the police powers from the list of powers vested with the Provincial Councils under the 13th Amendment to the Constitution.
+
+◼️
+
+[Data](articles/f193b465.json)
+
+[Extended Data](ext_articles/f193b465.ext.json)
+
+---
+
+### The world's satellite weapons in Russia
 
 *2024-02-21 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193654) · `si`
 
-රුසියාව විසින් මේ වසරේ දී චන්ද්‍රිකා නාශක අවි අභ්‍යාවකාශයේ රැඳවීමට ඉඩ ඇති බවට අමෙරිකානු බුද්ධි සේවා මඟින් සිදු කළ අනාවරණයක් නිසා ලොව පුරා ආරක්ෂක ක්‍රමෝපාය අංශවල කැලඹීමක් ඇති වී තිබේ.
+US intelligence services have caused the turmoil in the worldwide security strategies that Russia's arms will be in space this year.
 
-අභ්‍යවකාශයේ පෘථිවි කක්ෂයේ ස්ථානගත කෙරෙන එවැනි අවි මඟින් ඉමහත් විනාශයක් සිදු කළ හැකි බවට මත පළ වන අතර, එමඟින් මිනිසුන් නොව චන්ද්‍රිකා පමණක් ඉලක්ක කරගැනෙන බව තවත් පිරිසකගේ මතය වී ඇත.
+In space, such weapons that place the Earth orbit in space can cause a devastating destruction.
 
-පසුගිය 2022 වසර මුල දී රුසියාව විසින් සිදු කරන ලද රහසිගත චන්ද්‍රිකා කක්ෂගත කිරීම් පිළිබඳ අධ්‍යයනය කරමින් අමෙරිකානු බුද්ධි අංශ ප්‍රකාශ කර ඇත්තේ, රුසියාව විසින් පෘථිවිය වටා රඳවා ඇති චන්ද්‍රිකා දහස් ගණනක් විනාශ කළ හැකි අවියක් සංවර්ධනය කරමින් සිටින බවයි.
+The American intelligence agencies have expressed his instructions in the early 2022, US intelligence devoctions that Russia is developing thousands of satellites that can be destroyed by Russia.
 
-ඒ පිළිබඳ මේ අනාවරණය සිදු කර ඇත්තේ, අමෙරිකාවේ නිව්යෝක් ටයිම්ස් පුවත්පත මඟිනි.
+This was revealed by the New York Times in the United States.
 
-න්‍යෂ්ටික හැකියාවන් සහිත එවැනි අවියක් මඟින් රටවල් සහ වාණිජමය ලෙස උඩුගුවනේ කක්ෂගත කර ඇති දහස් සංඛ්‍යාත චන්ද්‍රිකා විනාශ කළ හැකි අතර, සිතියම්ගත කිරීම්වල සිට අන්තර්ජාල සහ ජංගම දුරකථන සම්බන්ධතා සඳහා යොදාගන්නා චන්ද්‍රිකා ද ඊට ඇතුළත් වන බවට අමෙරිකානු බුද්ධි අංශ අනතුරු අඟවා ඇත.
+The US intelligence warns that thousands of satellites have orbited countries, with nuclear capabilities, can be destroyed, and the American intelligence is also included in mapping.
+
+The Bideonburg administration has confirmed that Russia has developed a nuclear weapon and the American Congress intelligence committee also focused on the matter.
+
+Bloombe added that Russia plans to send such a satellite weapon or its model this year.
 
 ...
 
 [Data](articles/45cb4fa8.json)
 
+[Extended Data](ext_articles/45cb4fa8.ext.json)
+
 ---
 
-### ජස්ප්‍රිට් බුම්රාට විවේකයක්
+### Pradeep Ratnayake as Navy Chief Officer
+
+*2024-02-21 14:54:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்படை-தலைமை-அதிகாரியாக-பிரதீப்-ரத்நாயக்க/175-333592) · `ta`
+
+The appointment has been made by President Ranil Wickremesinghe from January 16.
+
+Navy Commander Vice Admiral Priyantha Perera handed over the appointment letter to Rear Admiral Pradeep Ratnayake today at the Naval Headquarters.
+
+◼️
+
+[Data](articles/c5296af9.json)
+
+[Extended Data](ext_articles/c5296af9.ext.json)
+
+---
+
+### Thondaman's soul weeps: Mano anxiety
+
+*2024-02-21 14:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொண்டமானின்-ஆன்மா-அழுகிறது-மனோ-கவலை/76-333591) · `ta`
+
+The soul of former minister Amarar Arumugan weeps, seeing the current minister's falsehood. However, my child has listened to the spi and said that the child is crying. Mano Ganesan MP said that he laments what to say.
+
+◼️
+
+[Data](articles/06b438d1.json)
+
+[Extended Data](ext_articles/06b438d1.ext.json)
+
+---
+
+### A break to Josephrit Bumra
 
 *2024-02-21 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193651) · `si`
 
-එංගලන්තයට එරෙහි ව පැවැත්වෙන සිව් වැනි ටෙස්ට් තරගයෙන් ඉන්දීය වේගපන්දු යවන ක්‍රීඩක ජස්ප්‍රිට් බුම්රා විවේක ගන්වා තිබේ.
+Indian fast bowler Jasprit Bumra has been rested in the four-like Test match against England.
 
-එළැඹෙන විස්සයි විස්ස ක්‍රිකට් ලෝක කුසලානය සහ ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලිය ඉලක්ක කරගනිමින් ඔහු විවේක ගන්වා ඇති බව වාර්තා වේ.
+It is reported that he has rested to resign from the Twenty20 World Cup and the Indian Premier League Cricket Tournament.
 
-මේ අතර, තරගාවලියේ දෙවැනි සහ තෙවැනි ටෙස්ට් තරග අහිමි වූ කේ.එල් රාහුල්ට සිව් වැනි ටෙස්ට් තරගය ද අහිමි වීමට නියමිත බව සඳහන් ය.
+Meanwhile, KL Rahul, who lost the second and third Test of the tournament, is to lose the fourth Test match.
 
-ඉන්දියාව සහ එංගලන්තය අතර සිව් වැනි ටෙස්ට් ක්‍රිකට් තරගය මේ මස 23 වැනි දා ආරම්භ වීමට නියමිත යි.
+The Four Test match between India and England is scheduled to commence on the 23rd of this month.
 
 ◼️
 
 [Data](articles/0b6aa725.json)
+
+[Extended Data](ext_articles/0b6aa725.ext.json)
 
 ---
 
@@ -131,6 +185,28 @@ The South Asian country defaulted on its overseas debt in May 2022 after deplete
 [Data](articles/4a2153a2.json)
 
 [Extended Data](ext_articles/4a2153a2.ext.json)
+
+---
+
+### The nephew and related to the uncle who killed the uncle
+
+*2024-02-21 14:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாமாவை-கொன்ற-மருமகனும்-சம்பந்தியும்/76-333589) · `ta`
+
+The son -in -law and his father have been arrested on charges of killing their uncle with cricket.
+
+Marimuthu Dharmalingam (55 years old), a plantation worker in the Kurugama area of the Peradeniya Police Division, has been beaten to death.
+
+Police investigations have revealed that the husband who married the daughter of the murderer had committed the murder and that the other arrested was the father of the suspect.
+
+Police investigations have revealed that the suspect was taking legal action while legal action was taken while the suspect was taking legal action to break away from a 26 -year -old youth who was arrested in the murder.
+
+Police investigations are underway to arrest two more suspects in connection with the incident and further investigations are being carried out by the Chief Inspector of the Peradeniya Police Station Vijith Wijegon.
+
+◼️
+
+[Data](articles/14b16165.json)
+
+[Extended Data](ext_articles/14b16165.ext.json)
 
 ---
 
@@ -1929,81 +2005,5 @@ The Royal College Principal has responded to these wild allegations as follows:
 [Data](articles/08f30753.json)
 
 [Extended Data](ext_articles/08f30753.ext.json)
-
----
-
-### Overseas Sri Lankans: The missing nexus between foreign policy and domestic policy
-
-*2024-02-21 04:58:30* · [`dailyftlk`](https://www.ft.lk/columns/Overseas-Sri-Lankans-The-missing-nexus-between-foreign-policy-and-domestic-policy/4-758701) · `en`
-
-During my visit to Australia recently I took a keen interest to engage with several young persons of Sri Lankan origin in different cities. They were among the second and third generation youth from Sri Lanka’s migrant community resident Down Under.
-
-The idea of engaging with the youth came in the backdrop of “Sri Lanka Fest” – an expatriate cultural event that took place at the Federation Square in Melbourne on 25 November 2023.
-
-A good many people of Sri Lankan origin and others were thronging the venue at the time I entered. There were several food stalls selling Sri Lankan varieties. A stall run by the Consulate of Sri Lanka in Melbourne exhibited some Sri Lankan items, but ‘Appe Kade’ appeared to be the attraction and the big earner (two plain hoppers, one egg hopper and lunu miris at AUD 20).
-
-...
-
-[Data](articles/ebcf37d4.json)
-
-[Extended Data](ext_articles/ebcf37d4.ext.json)
-
----
-
-### Deloitte South Asia’s Consulting leadership discuss blueprint for business transformation, growth
-
-*2024-02-21 04:52:08* · [`dailyftlk`](https://www.ft.lk/business/Deloitte-South-Asia-s-Consulting-leadership-discuss-blueprint-for-business-transformation-growth/34-758698) · `en`
-
-The Deloitte Consulting leadership in South Asia convened in Sri Lanka, marking a significant move to drive growth in the South Asian region.
-
-A resolute commitment was made to scale collaboration, nurture talent, and embrace sustainability while shaping the future trajectory of the region’s business landscape.
-
-“As we strive for unprecedented growth in the South Asia region, Deloitte stands united in its commitment to scale this path of development. Together, we envision a future defined by innovation, technology, inclusiveness, and sustainability, where our unwavering collaboration paves the way for lasting success,” said Deloitte South Asia President Consulting Sathish Gopalaiah.
-
-Deloitte Sri Lanka and Maldives Consulting Leader Nishan Mendis said: “The over 50 member delegation, committed to invest in Sri Lanka, its vision for driving meaningful change, and build on the confidence in the country’s young talent and massive growth potential.”
-
-...
-
-[Data](articles/505cb014.json)
-
-[Extended Data](ext_articles/505cb014.ext.json)
-
----
-
-### Phoenix Industries launches new collection 2024
-
-*2024-02-21 04:51:01* · [`dailyftlk`](https://www.ft.lk/business/Phoenix-Industries-launches-new-collection-2024/34-758697) · `en`
-
-Phoenix Industries, a top Sri Lankan household product brand, unveiled its innovative new product line for 2024 at their Battaramulla Showroom on 1 February. The range sets a new standard in quality, style, and every day-use product design.
-
-...
-
-[Data](articles/1f584df7.json)
-
-[Extended Data](ext_articles/1f584df7.ext.json)
-
----
-
-### AKD highlights historic alliances shift as political figures unite against NPP
-
-*2024-02-21 04:36:20* · [`dailyftlk`](https://www.ft.lk/news/AKD-highlights-historic-alliances-shift-as-political-figures-unite-against-NPP/56-758695) · `en`
-
-Claims attempts are being made to form Ranil - Sajith alliance despite friction between duo
-
-Notes that an alliance consisting of all major political leaders is now being formed against NPP
-
-Says regardless of who forms an alliance and unites, their efforts will not succeed against NPP
-
-Stresses any attempt by President to postpone polls would only hasten his departure
-
-Says India’s invitation to NPP underscores support it garners from citizens in SL
-
-National People’s Power (NPP) leader Anura Kumara Dissanayake recently downplayed President Ranil Wickremesinghe’s political acumen, stating that Wickremesinghe’s ascension to the presidency was not due to exceptional cunning or intellect.
-
-...
-
-[Data](articles/734bfe76.json)
-
-[Extended Data](ext_articles/734bfe76.ext.json)
 
 ---

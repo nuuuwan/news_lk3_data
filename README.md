@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 21:17:24**
+As of **2024-02-21 21:33:00**
 
 ## Newspaper Stats
 
-*Scraped **8,546** Articles*
+*Scraped **8,548** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 economynextcom | 436
 islandlk | 443
 dailyftlk | 456
-adalk | 733
+adalk | 734
 adaderanalk | 1,031
 tamilmirrorlk | 1,062
 virakesarilk | 1,146
-adaderanasinhalalk | 1,252
+adaderanasinhalalk | 1,253
 dailymirrorlk | 1,272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,546 (100.0%) of 8,546 articles have been extended.
+8,546 (100.0%) of 8,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### ශ්‍රී ලංකාවට ලකුණු 210ක ඉලක්කයක්
+
+*2024-02-21 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193674) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර තෙවැනි සහ අවසන් 20යි 20 තරගයේ කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහර දුන් ඇෆ්ගනිස්තාන කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 209ක් රැස් කර ගැනීමට සමත් විය.
+
+විශිෂ්ට පිතිකරණයක නිරත වූ රහමනුල්ලා ගුර්බාස් ලකුණු 70ක් රැස් කළේ ය.
+
+හස්‍‍රතුල්ලා සසායි ලකුණු 45ක් රැස් කරමින් ඔහුට අනගි සහායක් ලබා දීමට සමත් විය.
+
+මතීෂ පතිරණ ලකුණු 42කට කඩුලු 02ක් සහ අකිල ධනංජය ලකුණු 37කට කඩුලු 02ක් දවා ගැනීමට සමත් වූහ.
+
+◼️
+
+[Data](articles/925dfc48.json)
+
+---
 
 ### Electricity tariffs increased in October to be totally reduced in new revision: Minister
 
@@ -289,6 +307,24 @@ Dematagoda Chaminda, SF Sarath and SF Sarathja, and SF Saraka, and SF Saranawa h
 [Data](articles/05d00206.json)
 
 [Extended Data](ext_articles/05d00206.ext.json)
+
+---
+
+### මැගසින් බන්ධනාගාරයේ සිට මෙහෙයවන මත්ද්‍රව්‍ය ජාවාරමක තොරතුරු එළියට
+
+*2024-02-21 18:49:47* · [`adalk`](https://www.ada.lk/breaking_news/මැගසින්-බන්ධනාගාරයේ-සිට-මෙහෙයවන-මත්ද්‍රව්‍ය-ජාවාරමක-තොරතුරු-එළියට/11-408224) · `si`
+
+කොළඹ මැගසින් බන්ධනාගාරයේ  කාන්තා රැඳවියෙකු මෙහෙයවන මත්ද්‍රව්‍ය ජාවාරමකට සම්බන්ධ පුද්ගලයකු රුපියල් ලක්ෂ හයකට ආසන්න වටිනා හොරයින් මත්කුඩු  සමග අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+
+සැකකරු සමඟ හොරයින් මත්කුඩු ග්‍රෑම් 18 මිලි ග්‍රෑම් 762 ක් පොලිස් භාරයට ගෙන ඇත. සැකකරු අත්අඩංගුවට ගෙන ඇත්තේ ඔහු පදිංචි බොරැල්ල සර්පනටයින් පාර නිවස තුළදීය.
+
+බන්ධනාගාරයේ රඳවා සිටින කාන්තාව සමග දුරකථනයෙන් සම්බන්ධ වීමෙන් අනතුරුව ඇය විසින් අවිස්සාවේල්ල නවගමුව  කඩුවෙල ගනේමුල්ල ආදී දුර බැහැර ප්‍රදේශවල  ඇයගේ ජාවාරම්කරුවන් මගින් ගැනුම්කරුවන් වෙත මත්කුඩු ලබාදීම සිදුකරන බවත්  සැකකරු ද ඒ ආකාරයෙන් මත්කුඩු නිවසට රැගෙන ආ බවට බස්නාහිර පළාත් දූෂණ මර්දන අංශයේ උප පොලිස් පරීක්ෂක බුද්ධික රාජපක්ෂ මහතාට ලදරහසිගත තොරතුරකට අනුව වැටලීම සිදුකළ බව පොලිසිය කියයි.
+
+අත්අඩංගුවට ගත් මෙම සැකකරුගෙන් සිදු කළ ප්‍රශ්න කිරීමේදී බන්ධනාගාරයේ  රඳවා සිටින කාන්තාව ලබාදෙන උපදෙස් මත  එම ජාවාරම ඒ අයුරින් සිදුකරන බවට අනාවරණය වී යැයි පොලිසිය කියයි. අත්අඩංගුවට ගත් සැකකරු 37 පුද්ගලයෙකි. සැකකරු මාලිගාකන්ද අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/d8d75b2e.json)
 
 ---
 
@@ -2031,59 +2067,5 @@ The rejection of 225 members of the present Parliament is popular. But 225 is no
 [Data](articles/3ad2922d.json)
 
 [Extended Data](ext_articles/3ad2922d.ext.json)
-
----
-
-### More information about the assassination of Mahabage
-
-*2024-02-21 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193645) · `si`
-
-A close relative of the criminal of the "sand Saranga" abroad has been shot in Ragama this morning (21).
-
-Police said that the murder was committed by the murder of the "sand Saranga's opponent."
-
-A shooting at Mahabage was shot at 7.30 am at the area in the Mahabage Kotte this morning.
-
-Police said that two unidentified persons who came from a motorbike were shooting by a revolver firearm.
-
-The victim was 42 year old Don Sujith, a resident of Battgama, North Batagama.
-
-The husband of the criminal of the criminal of the criminal of the criminal is currently abiding internationally, the police said.
-
-The police have also notified him as the deceased, another criminal, who is considered to be an opponent.
-
-The Ada Derana reporter said that a police signature was also held in the relevant shops.
-
-The victim was threatened with death by Dubai Nakayakapian to the victim in such a situation.
-
-Despite this, the murder was taken this morning.
-
-◼️
-
-[Data](articles/c5c723de.json)
-
-[Extended Data](ext_articles/c5c723de.ext.json)
-
----
-
-### Police fire tear gas at Indian farmers marching on capital
-
-*2024-02-21 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97431/police-fire-tear-gas-at-indian-farmers-marching-on-capital) · `en`
-
-Indian police fired tear gas on Wednesday to scatter protesting farmers as they resumed a march to the capital, equipped with cranes and excavators after talks with the government on guaranteed prices for their produce failed to break a deadlock.
-
-To escape the stinging gas and clouds of smoke, thousands of farmers, some wearing medical masks, ran into the fields surrounding their gathering-point on a highway about 200 km (125 miles) north of New Delhi.
-
-The police action came as the government of Prime Minister Narendra Modi made a fresh offer to resume talks on the farmers’ demands. Agriculture Minister Arjun Munda urged the farmers to resolve their grievances through the talks.
-
-“After the fourth round, the government is ready to discuss all the issues” such as guaranteed prices, he posted on social network X, as the march resumed.
-
-“I again invite the farmer leaders for discussion. It is important for us to maintain peace.”
-
-...
-
-[Data](articles/89333fd5.json)
-
-[Extended Data](ext_articles/89333fd5.ext.json)
 
 ---

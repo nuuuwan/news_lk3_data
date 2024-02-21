@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 20:33:16**
+As of **2024-02-21 20:50:05**
 
 ## Newspaper Stats
 
-*Scraped **8,535** Articles*
+*Scraped **8,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,104 +15,186 @@ newsfirstlk | 363
 economynextcom | 436
 islandlk | 443
 dailyftlk | 456
-adalk | 731
-adaderanalk | 1,029
-tamilmirrorlk | 1,061
+adalk | 733
+adaderanalk | 1,031
+tamilmirrorlk | 1,062
 virakesarilk | 1,146
 adaderanasinhalalk | 1,252
-dailymirrorlk | 1,266
+dailymirrorlk | 1,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,530 (99.9%) of 8,535 articles have been extended.
+8,535 (99.9%) of 8,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### பழ திருடனுக்கு விளக்கமறியல்
+### Sri Lankan skipper fined $41,000 for illegal fishing in Seychelles’ EEZ
 
-*2024-02-21 19:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பழ-திருடனுக்கு-விளக்கமறியல்/76-333615) · `ta`
+*2024-02-21 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97442/sri-lankan-skipper-fined-41000-for-illegal-fishing-in-seychelles-eez) · `en`
 
-நுவரெலியா, டொப்பாஸ் பகுதியில் பழங்கள் விற்பனை செய்யும் கடை ஒன்றில் 46,000 ரூபாய் பெறுமதி மிக்க பழங்களை  திருடிய நபரை எதிர்வரும் 26 ஆம்திகதி திங்கட்கிழமை வரை விளக்கமறியலில் வைக்குமாறு நுவரெலியா நீதவான் நீதிமன்ற நீதிபதி பிரபுதிகா லங்கான்தினி உத்தரவிட்டுள்ளார்.
+The Seychelles Supreme Court has convicted a Sri Lankan national to a fine of SCR 550,000 (USD 41,000) after being found guilty of illegally fishing in the island nation’s territorial waters, the police said on Wednesday (21 Feb.).
 
-நுவரெலியா குற்றத்தடுப்பு பொலிஸாருக்கு பழக்கடை உரிமையாளர் செய்திருந்த முறைப்பாட்டுக்கு அமைய நுவரெலியா பொலிஸ் தலைமையக பிரதான பொலிஸ் பரிசோதகர் பிரேமலால் ஹட்டியாராச்சியின் பணிப்பின் பேரில்,குற்றத்தடுப்பு பொலிஸ் பிரிவுக்குட்பட்ட பொறுப்பதிகாரி இந்துநில் பிரேமலால் விசாரணைகளை முன்னெடுத்திருந்தார்.
+According to the police, Makavita Liyanage Dilesh, 43, was the person in charge of the vessel, ‘Rankurulla 4’, that was intercepted and arrested in the Seychelles Exclusive Economic Zone (EEZ) on 24 November 2023.
 
-இதன்போது விசாரணைக்காக நியமிக்கப்பட்டிருந்த  மூவரடங்கிய குழுவினர் நடவடிக்கையில் ஈடுப்பட்டு சிசிரிவி கமராவில் பதிவாகியிருந்த காணொளி உதவியுடன் சந்தேக நபரை ஞாயிற்றுக்கிழமை (18) மாலை கைது செய்தனர்.
+The presiding judge in the case took into consideration that the accused pled guilty and did not waste the court’s time. The convict is a married man with two children still at school and his family depends on his revenue to survive.
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர் லபுக்கலை குடா ஓயா பகுதியை சேர்ந்த (44) வயதுடையவராவார்.
+The Sri Lankan national revealed to the Court that the fish they caught was taken and sold for a sum of SCR 35,320 which was collected by the Seychelles Fishing Authority.
+
+The fine is payable within 60 days if not, the convict will do a term of 18 months in prison.
 
 ...
 
-[Data](articles/df9efe0b.json)
+[Data](articles/a3acc275.json)
 
 ---
 
-### ”புத்தாண்டுக்கு கசிப்பு குடிக்க முடியாது சாராயம் குடிக்க வேண்டும்”
+### கடைசி டி20 போட்டி ஆரம்பம்
+
+*2024-02-21 20:09:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடைசி-டி20-போட்டி-ஆரம்பம்/175-333616) · `ta`
+
+இலங்கைக்கு சுற்றுலா மேற்கொண்டுள்ள ஆப்கானிஸ்தான் மற்றும் இலங்கை அணிகளுக்கு இடையிலான இறுதி டி20 கிரிக்கட் போட்டி இன்று (21) நடைபெறவுள்ளது.
+
+குறித்த போட்டியில் நாணய சுழற்சியில் ஆப்கானிஸ்தான் அணி வெற்றிபெற்றுள்ளது. இதன்படி அந்த அணி முதலில் துடுப்பெடுத்தாட தீர்மானித்துள்ளது. R
+
+◼️
+
+[Data](articles/2a5165e7.json)
+
+---
+
+### Tiran claims attempts to disrupt operation ‘Yukthiya’ funded by drug networks
+
+*2024-02-21 20:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97441/tiran-claims-attempts-to-disrupt-operation-yukthiya-funded-by-drug-networks) · `en`
+
+Minister of Public Security, Tiran Alles, emphasized his unwavering commitment to continue operations aimed at suppressing drugs, tackling the underworld and preventing violence against women and children, regardless of any pressure encountered.
+
+Furthermore, Minister Alles disclosed that the value of drugs seized thus far during the ‘Yukthiya’ operation, which commenced on December 17, 2023, amounts to Rs. 7.8 billion.
+
+The Minister made these remarks during a news conference held at the Presidential Media Centre today (21 Feb.) under the theme ‘Collective Path to a Stable Country’.
+
+...
+
+[Data](articles/7236ad18.json)
+
+---
+
+### Nervousness
+
+*2024-02-21 19:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பழ-திருடனுக்கு-விளக்கமறியல்/76-333615) · `ta`
+
+Nuwara Eliya Magistrate's Court Judge Prabhudika Langanthini has ordered a person who stole 46,000 rupees worth Rs 46,000 at a shop selling fruit in Nuwara Eliya, Nuwara Eliya.
+
+The Nuwara Eliya Police Headquarters Chief Inspector Premalal Hattiyarachchi, the Chief Inspector of the Nuwara Eliya Police Headquarters, has launched a complaint filed by the Nuwara Eliya Crime Police.
+
+The three -member delegation who had been appointed to investigate was arrested on Sunday evening (18) with the help of a video recorded on the Sisirvi camera.
+
+The suspect was arrested (44), 44, from Kuda Oya, Lapukkalai.
+
+The police have ordered the suspect to be remanded till the 26th of this month when the police have been presenting the suspect in the presence of the Nuwara Eliya Magistrate Prabhudika Lanka on Monday evening (19).
+
+◼️
+
+[Data](articles/df9efe0b.json)
+
+[Extended Data](ext_articles/df9efe0b.ext.json)
+
+---
+
+### "Can't drink leaks for the New Year"
 
 *2024-02-21 19:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டுக்கு-கசிப்பு-குடிக்க-முடியாது-சாராயம்-குடிக்க-வேண்டும்/175-333614) · `ta`
 
-புத்தாண்டுக்கு முன்னதாக சாமானியர்கள் அருந்தும் சிறப்பு சாராயத்தின் விலையை அரசாங்கம் குறைக்க வேண்டும் என இராஜாங்க அமைச்சர் சாமர சம்பத் தெரிவித்துள்ளார்.
+The government should reduce the price of special liquor that the common people drink ahead of the New Year, said Minister of State for Minister of State.
 
-சாராயத்தின் விலைகள் அபரிமிதமாக உயர்ந்துள்ளதாகவும், அதனால் மக்கள் கள்ளச்சாராயத்தை (கசிப்பு) குடிக்க முனைவதாகவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+He told Parliament that the prices of alcoholism have risen and that people are trying to drink counterfeit money.
 
-"சாராய  விலை உயர்ந்துள்ளது. மக்கள் தற்போது கள்ளச்சாராயம் குடிக்கின்றனர். மதுக்கடைகள் வெறிச்சோடி கிடக்கின்றன. மக்கள் தினமும் 'கசிப்பு' குடிக்க முடியாது. புத்தாண்டுக்கு ‘சாராயம்' குடிக்க வேண்டும்,"  என அவர் உணர்ச்சிப்பூர்வமாக தெரிவித்தார்.
+“The price of alcohol has risen. People are currently drinking counterfeit. Brews are raging. People can't drink 'leaks' everyday. "Drink booze for the New Year," he said emotionally.
 
-ஒரு போத்தல் சாராய விலையை 1500 ரூபாவாக குறைக்க முடியும் என தெரிவித்த அவர் . சாராய உற்பத்திற்கு தேவையான சேர்மானங்களை பெல்வத்தை, செவனகல மற்றும் எதிமலே ஆகிய இடங்களில் இருந்து பெற்றுக்கொள்ள முடியும் எனவும் கூறினார்.
+He said the price of a bottle of alcohol could be reduced to 1500 rupees.He also said that the necessary compounds for alcohol can be obtained from Belvatte, Sevanagala and Ethimale.
 
 ◼️
 
 [Data](articles/d41a8956.json)
 
+[Extended Data](ext_articles/d41a8956.ext.json)
+
 ---
 
-### ලක්මවට මැණිකක් වූ සහාය කතිකාර්‍ය ලක්මිණී චූලෝත්තමා බෝගමුව අවසන් ගමන් යයි
+### Village Discussions on Lakme
 
 *2024-02-21 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193673) · `si`
 
-හදිසි අනතුරකින් ජීවිත්කෂයට පත් වූ කොළඹ විශ්වවිද්‍යාලයේ සහාය කතිකාර්‍ය ලක්මිණී චූලෝත්තමා බෝගමුවගේ අවසන් කටයුතු අද (21) සිදු කරන්නට යෙදිණි.
+Lakmini Chulota Boguda Lakshu was carrying out the support of the University of Colombo today.
 
-වචනයේ පරිසමාප්ත අරුතින්ම ලක්මවට මැණිකක් වූ ඇය කොළඹ විශ්වවිද්‍යාලයේ ජාත්‍යන්තර සබඳතා අංශයේ සහාය කථිකාචාර්යවරියක ලෙස කටයුතු කළා ය.
+She was a gender in the literal way of the word and was a support lecturer in the International Connection Division of the University of Colombo.
 
-කැලණිය සරසවියේ ජ්‍යේෂ්ඨ කථිකාචාර්ය චන්ද්‍රසිරි බෝගමුව මහතාගේ එකම දියණිය වන ඇය අඩු වයසින්ම අධ්‍යාපන කඩඉම් ජයගත් තරුණියකි.
+The only daughter of Senior Lecturer of the University of Kelaniya, is a young girl who has overcome an educational cut.
 
-කොළඹ විශ්වවිද්‍යාලයේ ජාත්‍යන්තර සබඳතා පිළිබඳ උපාධි පාඨමාලාවේ 2022 වසරේ දක්ෂතම ශිෂ්‍යාව මෙන්ම වැඩිම ලකුණු ලැබූ සිසුවිය බවට ද ඇය පත්වන්නේ, පොතපත පමණක් නොව නැටුම් ගැයුම් ඇතුළු බාහිර ක්‍රියාකාරකම්වලටත් දක්ෂ සහ දීප්තිමත් සිසුවියක ලෙස සරසවිට කීර්තියක් අත්කර දෙමිනි.
+She is an appointment of the best student of the 2002 International Relations Program of the University of Colombo as well as the highest score, but also in external activities, including dance and external activities.
 
-ඉහළ සමත්කම් නිසාම 2023 වසරේ දී ඇය සිය සරසවිය වූ කොළඹ විශ්වවිද්‍යාලයේම ජාත්‍යන්තර සබඳතා අංශයේ සහාය කථිකාචාර්යවරියක ලෙස සිය වෘත්තිය දිවිය ආරම්භ කළා ය.
+In 2023, she began her career as a support lecturer in the International Connection Division of the International Connection Division of the University of Colombo.
 
-එමෙන්ම මේ රුවැත්තිය දහම් අධ්‍යාපනයට දැක්වූ ඇල්ම නිසාම දහම්පාසල් ආචාර්යවරියක ලෙසත් කටයුතු කළා ය.
+The victim was also a Dhamma education.
+
+She kept a lovely smile on the face of the face and leaves the university children who wait for the university.
+
+She was unexpected at Battaramulla Wickremesingura Junction in Battaramulla.
 
 ...
 
 [Data](articles/2e18d260.json)
 
+[Extended Data](ext_articles/2e18d260.ext.json)
+
 ---
 
-### නෞකාවක සේවයට ගිය තරුණයෙකු මුහුදට වැටිලා
+### Heat wave warning issued for Colombo and several other Districts
+
+*2024-02-21 19:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-wave-warning-issued-for-Colombo-and-several-other-Districts/108-277499) · `en`
+
+Colombo, Feb. 21 (Daily Mirror)- The Meteorology Department yesterday issued a ‘Caution’ level heat warning for some places in North-Western province and Gampaha, Colombo, Hambantota and Moneragala District.
+
+The Heat index Advisory issued by the Natural Hazards Early Warning Centre said that the heat index, the temperature felt on the human body is expected to increase up to ‘Caution’ level at some places in North-western province and Gampaha, Colombo, Hambantota and Moneragala District.
+
+According to the Meteorology Department, temperature at 39-45 Celsius is considered caution level and fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
+
+People are expected to stay hydrated and take breaks in the shade as often as possible at job sites and check up on the elderly and the sick while indoors.
+
+...
+
+[Data](articles/83c79aee.json)
+
+---
+
+### A youth who went to work in a ship fell into the sea
 
 *2024-02-21 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193672) · `si`
 
-විදෙස් රටක නෞකාවක සේවයට ගිය ශ්‍රී ලාංකකයෙකු මුහුදට වැටී ජීවිතක්ෂයට පත්වී ඇති බවට පැවසෙන පුවතක් වාර්තා වෙයි.
+It is reported that a Sri Lankan who has gone to the service of a foreign country has died after falls into the sea.
 
-හොරණ, අඟුරුවාතොට, උඩුවර ප්‍රදේශයේ පදිංචි චිරාත් සඳරූ නම් 21 හැවිරිදි තරුණයෙකු ජර්මනියේ නැව් සමාගමකට අයත් භාණ්ඩ ප්‍රවාහන නව්කාවක සේවය සඳහා ඉකුත් ජනවාරි මස 2 වනදා ගොස් තිබුණි.
+A 21-year-old youth from the Udurutota area in Udurutota and a 21 year old youth from a German shipping company in Germany had been serving in a new service.
 
-පසුව ඔහු ස්පාඤ්ඤයේ "සෙන්ටුකා බේ" නැමති නෞකාවට සේවය සඳහා එක්වී ඇති බව වාර්තා වෙයි.
+Later, he had joined the service to serve the ship, Spain, in Spain.
 
-ඒ අනුව පසුගිය 18 වනදා ඔහුගේ උඩුවර නිවෙසට පැමිණි අදාළ නැව් සමාගමේ මෙරට කළමනාකරුවන් දෙදෙනෙකු පවසා ඇත්තේ චිරාන් සඳරු මුහුදට වැටී ඇති බවය.
+Accordingly, two managers of the Sri Lankan managers who had arrived in the Udunu-East of the 18th of the 18th have said that Chiran had fallen into the sea.
 
-එම තරුණයා 17 වනදා රත්‍රි 10.00 පමණ මුහුදට වැටී ඇති අතර නෞකාවේ කපිතාන්වරයා ප්‍රමුඛ සේවකයින් ඒ බව දැනගෙන ඇත්තේ පැය 04කට පමණ පසුව බවත් නිවෙසට පැමිණි පුද්ගලයන් දෙදෙනා පවසා ඇත.
+The two men have fallen to the 1700 to the sea on the 17th and the captain of the ship has learned that about four hours later.
 
-ඒ අනුව සිද්ධිය සම්බන්ධයෙන් කොටහේන පොලීසියට පැමිණිල්ලක් ද ඉදිරිපත් කර තිබේ.
+Accordingly, Kotahena Police have lodged a complaint with the incident.
 
-මේ අතර අදාළ පුද්ගලයන් දෙදෙනා පසුගිය 18 වනදා නැවතත් මෙම නිවැසියන්ට දුරකථනයෙන් අමතා ඇත්තේ සඳරු සවස 2.30ට පමණ මුහුදට වැටී ඇති බවත් එය දුටු බව කියන සේවකයා නැවේ කපිතාන්වරයාට මේ බව දන්වා ඇති බවත් ය.
+Meanwhile, the two persons returned to these 18 people on the 18th of the afternoon that the attendee had fallen into the sea around 2.30 pm, this was the captain of the ship.
 
-ඒ අනුව ඒ මොහොතේම සෙවීම් කටයුතු සිදුකර ඇති බවත් ඔවුන් පවසා ඇත.
+Accordingly, they have said that the search has been made immediately.
 
 ...
 
 [Data](articles/b8850de1.json)
+
+[Extended Data](ext_articles/b8850de1.ext.json)
 
 ---
 
@@ -160,21 +242,25 @@ Responding to the report of the CEB media spokesman, the television presenter sa
 
 ---
 
-### අවශ්‍යව සිටි සැකකරුවන් 13 දෙනෙකු ඩුබායිහි දී අත්අඩංගුවට
+### Thirteen suspects arrested in Dubai
 
 *2024-02-21 19:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193671) · `si`
 
-මෙරට පොලීසියට අවශ්‍ය ව සිටින ප්‍රධාන පෙළේ අපරාධකරුවන් 13 දෙනෙකු ඩුබායි රාජ්‍යයේ දී අත්අඩංගුවට පත් ව ඇති බවට එරට ආරංචිමාර්ග පවසයි.
+According to sources, 13 leading criminals who need the Sri Lankan police have been arrested in Dubai sources.
 
-ඒ අතර බෙලිඅත්ත පංච පුද්ගල ඝාතනයට ආධාර අනුබල දුන් කියන ඌරගහ මයිකල් නැමැත්තා ද සිටින බව වාර්තා වේ.
+Meanwhile, it is reported that Uragasiiki is a manner that supported the murder of Beliatta.
 
-මේ අතර, මීට වසර 10කට පමණ පෙර බොරැල්ල ප්‍රදේශයේ දී කොණ්ඩා කපන ස්ථානයක් තුළ පුද්ගලයෙකු වෙඩි තබා ඝාතනය කිරීමේ චෝදනාව යටතේ අපරාධකරුවකු වන දෙමටගොඩ චමින්ද ඇතුළු විත්තිකරුවන් හතර දෙනෙකුට පවරා ඇති නඩුවේ නඩු භාණ්ඩ කිහිපයක් බොරැල්ල පොලීසිය භාරයේ තිබිය දී අස්ථානගත වීම සම්බන්ධයෙන් වහාම විධිමත් විමර්ශනයක් සිදු කර තම අධිකරණයට වාර්තාවක් ඉදිරිපත් කරන ලෙස කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා ප්‍රදේශය භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයාට නියෝග කර ඇත.
+Meanwhile, a personnel who shot dead in a haircut in Borella near the Borella police, including a criminal in the Borella area about 10 years ago, had immediately conducted a formal investigation into misplace.Colombo High Court Judge Navaratne Marasinghe has ordered the Senior Superintendent of the area to submit a report to the judiciary.
 
-එන නඩුව ලබන මැයි 06 වනදා දක්වා කල්තැබූ විනිසුරුවරයා පැමිණිල්ලේ පළමු සහ හත් වන සාක්ෂිකරුවන්ට එදින අධිකරණය හමුවේ පෙනී සිටින ලෙස දන්වා සිතාසි යැවීමට ද නියෝග කර තිබේ.
+The case will be ordered until May 6's post, the first and seventh Witnesses in the complaint to appear in court that day.
 
-...
+Dematagoda Chaminda, SF Sarath and SF Sarathja, and SF Saraka, and SF Saranawa had been accused of the first of August 2014.
+
+◼️
 
 [Data](articles/05d00206.json)
+
+[Extended Data](ext_articles/05d00206.ext.json)
 
 ---
 
@@ -197,6 +283,22 @@ President's Attorney Upul Jayasuriya, Additional Solicitor General and President
 [Data](articles/4ee3510f.json)
 
 [Extended Data](ext_articles/4ee3510f.ext.json)
+
+---
+
+### වැට් ගැන මුදල් කාරක සභාවේ සාකච්ඡාවක්
+
+*2024-02-21 18:40:11* · [`adalk`](https://www.ada.lk/breaking_news/වැට්-ගැන-මුදල්-කාරක-සභාවේ-සාකච්ඡාවක්/11-408223) · `si`
+
+2023 නොවැම්බර් මාසයේදී, සියලු වැට් බදු නිදහස් කිරීම් ඉවත් කරන ලද, එකතු කළ අගය මත බදු (සංශෝධන) පනත් කෙටුම්පත මීට පෙර සලකා බැලූ රජයේ මුදල් පිළිබඳ කාරක සභාව විසින් වැට් බදු සංශෝධන පනත් කෙටුම්පතට කමිටුව විසින් කරන ලද නිර්දේශ මුදල් අමාත්යාංීශය විසින් ආදේශ නොකළේ මන්දැයි විමසා සිටියේය.
+
+ඒ අනුව, අමාත්‍යාංශය විසින් සැලකිල්ලට නොගත් වෛද්‍ය උපකරණ, ගිලන් රථ, ළමුන් සඳහා අධි ප්‍රෝටීන් කෘෂි ආහාර සහ කෘෂිකාර්මික ද්‍රව්‍ය සඳහා වැට් බදු නිදහස් කිරීම නැවත සලකා බලන ලෙස කාරක සභාව මුදල් අමාත්‍යාංශයට නිර්දේශ කර තිබුණි.
+
+මේ පිළිබඳ කරුණු සාකච්ඡා වුයේ රජයේ මුදල් පිළිබඳ කාරක සභාව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී (ආචාර්ය) හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (20) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+
+...
+
+[Data](articles/9d4888aa.json)
 
 ---
 
@@ -229,6 +331,22 @@ Accordingly, 18% of the household category and religious shrines, the industry a
 [Data](articles/9255bc43.json)
 
 [Extended Data](ext_articles/9255bc43.ext.json)
+
+---
+
+### Sri Lanka indebted to India: Harin
+
+*2024-02-21 18:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-indebted-to-India-Harin/108-277497) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - Justifying the recent remark he had made in Mumbai that Sri Lanka is a part of India, Minister of Tourism and Lands Harin Fernando told Parliament today that Sri Lanka is indebted to the South Asian giant.
+
+“Sri Lanka is indebted to India. India has come forward to help Sri Lanka during the recent difficult times. We have to be grateful to India for sending more and more tourists to Sri Lanka. India has also begun setting up its first overseas hotel in front of Galle face Hotel Colombo. Those who criticize me want to prevent investments such as this,” the Minister said whilst highlighting that India has been a brother to Sri Lanka.
+
+“India and Sri Lanka are traditionally connected. Take the story of Rama and Seetha, Arahath Mahinda came from India and so did Vijaya, Sri Lankan music and film industry are also connected to India,” he said justifying his earlier comment.
+
+...
+
+[Data](articles/4f4e7c93.json)
 
 ---
 
@@ -383,6 +501,24 @@ Highlighting that electricity charges had remained stagnant for nearly a decade 
 [Data](articles/2b33a272.json)
 
 [Extended Data](ext_articles/2b33a272.ext.json)
+
+---
+
+### CEB spokesman suggests students should study by oil lamp
+
+*2024-02-21 17:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CEB-spokesman-suggests-students-should-study-by-oil-lamp/155-277494) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - Spokesman for the Ceylon Electricity Board (CEB), Noel Priyantha, stirred a controversy during a recent television programme by suggesting that children should resort to studying using oil lamps if necessary, citing the precedent set by previous generations who excelled in their studies under similar conditions.
+
+Priyantha made these remarks while addressing concerns over the escalating electricity prices in Sri Lanka.
+
+In response to queries about the adverse effects of power disconnections due to unpaid bills, he acknowledged the hardships faced by consumers but attributed them to a shift from a culture of free electricity.
+
+Highlighting that electricity charges had remained stagnant for nearly a decade before the recent increases, Priyantha stressed on the financial challenges faced by the CEB, which owes the government a substantial amount.
+
+...
+
+[Data](articles/48a3d413.json)
 
 ---
 
@@ -1146,6 +1282,18 @@ Meanwhile, 1.6 percent in December 2023, food inflation increased to 4.1 percent
 
 ---
 
+### Against privatising public institutions
+
+*2024-02-21 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-privatising-public-institutions/110-277487) · `en`
+
+The National Resources Protection Movement (NRPM) staged a protest in Colombo today against the government’s moves to privatize several public institutions. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/b9fc4b8d.json)
+
+---
+
 ### Gammanpila presents private member’s bill to remove police powers of Provincial Councils
 
 *2024-02-21 15:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gammanpila-presents-private-members-bill-to-remove-police-powers-of-Provincial-Councils/108-277486) · `en`
@@ -1478,6 +1626,24 @@ It further states that the public should not be made to cause stress or traffic.
 
 ---
 
+### ගම්පහ රෝහලේ සී.ටී. ස්කෑන් යන්ත්‍රයත් අක්‍රීයයි
+
+*2024-02-21 13:53:10* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-රෝහලේ-සී-ටී--ස්කෑන්-යන්ත්‍රයත්-අක්‍රීයයි/11-408218) · `si`
+
+ගම්පහ දිස්ත්‍රික් මහ රෝහලෙහි සී.ටී.ස්කෑන් යන්ත්‍රය අක්‍රීයවීම හේතුවෙන් රෝගීන් දැඩි අසීරුතාවයකට පත්ව ඇති බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+
+මාසයක පමණ කාලයක සිට මෙම තත්ත්වය පැවතීම මත හදිසි අනතුරුවලට ලක්වන රෝගීන් මෙන්ම හදිසි පරීක්ෂණ කිරීම පිනිස රාගම සහ කොළඹ ජාතික රෝහල් වෙත රෝගීන් මාරුකර යැවීමට සිදුව ඇති බව මේ සම්බන්ධයෙන් කළ සොයා බැලීමේදී අනාවරණය.
+
+ගම්පහ රෝහලට ඉතා අවශ්‍යව පැවති මෙම ස්කෑන් යන්ත්‍රය මීට වසර කිහිපයකට පෙර ලැබී ඇති අතර මේ වනවිට ඊට යෙදිය යුතු කොටසක් සවිකළ යුතුව ඇති මුත්  අදාල සමාගමෙහි වගකීම් කාලය අවසන් බැවින් වාර්ෂික සේවා ගිවිසුම සෞඛ්‍ය අමාත්‍යාංශය මගින් අත්සන් කිරීම සිදු නොවීම මත මෙය අලුත් වැඩියා කිරීම පමාවී ඇති බව දැනගන්නට ඇත.
+
+ගම්පහ දිස්ත්‍රික් මහ රෝහලේදී දෛනිකව අවම වශයෙන් හදිසි රෝගීන් 10 - 15 ක් පමණ සී.ටී.ස්කෑන් පරීක්ෂණ සදහා යොමු කිරීමට සිදුවන තත්ත්වයක් පවතින බැවින් දැනට යන්ත්‍රය අක්‍රීයව පැවතීම හේතුවෙන් රෝගීන් වෙනත් රෝහල් කරා යැවීමට සිදුව තිබීම කෙරෙහි අවධානය යොමු කොට එය අලුත්වැඩියා කිරීමට අදාල බලධාරීන් අවශ්‍ය පියවර ගතයුතුව ඇත.
+
+◼️
+
+[Data](articles/ccd33a9b.json)
+
+---
+
 ### Body of three dead personnel hospitalized under false addresses
 
 *2024-02-21 13:50:48* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-ලිපින-යටතේ-රෝහල්ගතව-සිට-මිය-ගිය-තිදෙනකුගේ-මළ-සිරුරු-හෝමාගම-රෝහලේ/11-408217) · `si`
@@ -1752,6 +1918,18 @@ According to reports, cricket fans stood in line from 03.00 am today.
 
 ---
 
+### Remembering late pioneer of Ananda Sastralaya
+
+*2024-02-21 13:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Remembering-late-pioneer-of-Ananda-Sastralaya/110-277493) · `en`
+
+A procession (perahera) was held last night to commemorate the 134th birth anniversary of the late pioneer of Ananda Sastralaya, Kotte. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/282b3d00.json)
+
+---
+
 ### Kaduwela Magistrate's Order will be powerless in Homagama
 
 *2024-02-21 13:26:44* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙල-මහේස්ත්‍රාත්-නියෝගය-හෝමාගම-මහාධිකරණය-බල-රහිත-කරයි/11-408211) · `si`
@@ -1885,187 +2063,5 @@ It is also reported that Kamindu Mendis will also have a chance today.
 [Data](articles/2e94464a.json)
 
 [Extended Data](ext_articles/2e94464a.ext.json)
-
----
-
-### Sri Lanka said to offer new restructuring plan to bondholders
-
-*2024-02-21 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97430/sri-lanka-said-to-offer-new-restructuring-plan-to-bondholders) · `en`
-
-(Bloomberg) – Sri Lanka sent a new restructuring proposal to dollar bondholders through its adviser Lazard as the South Asian nation seeks to complete overhauling its defaulted debt, according to people familiar with the matter.
-
-A counter proposal to a bondholder group’s offer in October for a 20% haircut and the issuance of macro-linked bonds was conveyed through Lazard, the people said, declining to be named because negotiations are private. They did not elaborate on the details of the offer. Government representatives may travel to London soon to meet Sri Lanka’s commercial creditors, one of the people said.
-
-Completing the overhaul of Sri Lanka’s $27 billion of foreign debt is critical to ensure financing from the International Monetary Fund bailout keeps flowing. President Ranil Wickremesinghe said this month that authorities expect to complete the restructuring within the first six months of the year.
-
-...
-
-[Data](articles/0b4da42e.json)
-
-[Extended Data](ext_articles/0b4da42e.ext.json)
-
----
-
-### Man to take the harvest home
-
-*2024-02-21 12:48:59* · [`adalk`](https://www.ada.lk/breaking_news/නෙලාගත්-අස්වැන්න-නිවසට-රැගෙනයාමට-ඉඩ-නොදුන්-මාරයා/11-408209) · `si`
-
-When the paddy harvest was taken home from the paddy, the front tire of their lorry, the driver had collided with a tipper in the opposite direction. The accident occurred at Panniyadda area on the Dambulla Kurunegala on the evening.
-
-The wife and mother of the man who was driving in the accident have passed the back of the lericy and has been seriously injured and has been seriously injured in the Kurunegala Prehannale. The deceased is 58 residents of the Rathmalwatta area.
-
-◼️
-
-[Data](articles/d5fc2d28.json)
-
-[Extended Data](ext_articles/d5fc2d28.ext.json)
-
----
-
-### Sri Lanka’s Opposition like village gamblers who want funeral to go on: Min
-
-*2024-02-21 12:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-opposition-like-village-gamblers-who-want-funeral-to-go-on-min-151757/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Opposition was like informal gambling den operators at village funerals, who want the funeral to continue so they can earn on gambling (bu-ru-wa), the State Minister of Finance said.
-
-“In our villages when there is a funeral, there is a group that comes, cries and talks a bit and then get to their main business; which is running a gambling game (su-du-wa) on the side,” Ranjith Siyambalapitiya said in Parliament on Wednesday.
-
-“They like it if the funeral goes on for many days because they can earn on the side. I’m asking our opposition to not be like that,” Siyambalapitiya said, “Don’t cry crocodile tears.”
-
-In reply to the accusation Opposition Leader Sajith Premadasa merely asked: “So who created the funeral house?”
-
-◼️
-
-[Data](articles/ad61421c.json)
-
-[Extended Data](ext_articles/ad61421c.ext.json)
-
----
-
-### Lotus tower is flashing in red
-
-*2024-02-21 12:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரம்-சிவப்பு-நிறத்தில்-ஒளிரும்/175-333581) · `ta`
-
-The Colombo Lotus Tower will be light on February 22, the Colombo Lotus Tower Management Company (Private) Limited said.
-
-This is to be blighted on the 22nd of February, the World Metropolitan Day, to raise awareness. This is part of the current task of encyclitis International to raise awareness of this catastrophic neurological status.
-
-The Colombo Lotus Tower will support the movement with many international identities around the world.
-
-◼️
-
-[Data](articles/10e199a2.json)
-
-[Extended Data](ext_articles/10e199a2.ext.json)
-
----
-
-### The maintenance of the electricity bill is reduced - the CEB
-
-*2024-02-21 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193643) · `si`
-
-The Ceylon Electricity Board (CEB) said the Ceylon Electricity Board (CEB), Deputy General Man General Priyantha said that steps are being taken to reduce electricity bills as promised.
-
-"We have said to the Public Utilities Commission to do only the right maintenance to be moved around. We prepared it according to the instructions given by the Public Utilities Commission. We did the maintenance. Like the winding of a car switches up your vehicle. When the crash is crashed, you crash. "
-
-◼️
-
-[Data](articles/4cb108c4.json)
-
-[Extended Data](ext_articles/4cb108c4.ext.json)
-
----
-
-### Malwathu, Asgiriya Petta Maha Sangha
-
-*2024-02-21 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176938) · `ta`
-
-The Malwathu and the Asgiriya Petta Maha Sangha congratulated the Bill of the Truth and Reconciliation Commission.
-
-Officials, including the Director General of the Interim Secretariat of the Truth and Reconciliation mechanism, handed over a copy of the Truth, Unity and Reconciliation Commission Bill to the Malwattu Asgiri Mahanaka Thera on Monday (19).
-
-Malwathu Peeta Mahanayakar Tippattuwawe Sri Sumangala Thera and Asgiriyat Mahanayaka Mahanayaka Varakagoda Sri Gnanaradana Thera agreed to further review the public and declare the public position.
-
-Officials further explained the progress of the interim secretariat process of the real and reconciliation mechanism.
-
-Dr. Mahawela Ratanapala Thera, Dr. Murudeniye Dharmaratana Thera and Truth and Reconciliation Mechanism Head of the Interim Secretariat (Policy). Put. Thangarajah, Public Relations Executive Officer Dhanushi de Silva, Senior Law Officers Yasmada Lokunarangoda, Dulan Dasanayake, Coordinator. D. Kotelawala also attended the event.
-
-◼️
-
-[Data](articles/28b6fae9.json)
-
-[Extended Data](ext_articles/28b6fae9.ext.json)
-
----
-
-### Lotus Tower to be illuminate in red tomorrow
-
-*2024-02-21 12:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lotus-Tower-to-be-illuminate-in-red-tomorrow/108-277478) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - The Colombo Lotus Tower will be illuminated in red on February 22 as a mark of respect for and awareness on World Encephalitis Day, the Colombo Lotus Tower Management Company (Private) Limited said.
-
-They said this initiative is part of Encephalitis International's ongoing mission to raise awareness of this devastating neurological condition.
-
-Colombo Lotus Tower will be supporting this movement by joining the many international landmarks worldwide to make this year's World Encephalitis Day truly remarkable and impactful.
-
-◼️
-
-[Data](articles/93f30f0b.json)
-
-[Extended Data](ext_articles/93f30f0b.ext.json)
-
----
-
-### Lotus Tower to be illuminated in red tomorrow
-
-*2024-02-21 12:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lotus-Tower-to-be-illuminated-in-red-tomorrow/108-277478) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - The Colombo Lotus Tower will be illuminated in red on February 22 as a mark of respect for and awareness on World Encephalitis Day, the Colombo Lotus Tower Management Company (Private) Limited said.
-
-They said this initiative is part of Encephalitis International's ongoing mission to raise awareness of this devastating neurological condition.
-
-Colombo Lotus Tower will be supporting this movement by joining the many international landmarks worldwide to make this year's World Encephalitis Day truly remarkable and impactful.
-
-◼️
-
-[Data](articles/a6649103.json)
-
-[Extended Data](ext_articles/a6649103.ext.json)
-
----
-
-### Sri Lanka rupee trades at 311.65/75 to the US dollar
-
-*2024-02-21 12:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-311-65-75-to-the-us-dollar-151736/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading at 311.65/75 to the US dollar Wednesday, from 311.90/95 on Tuesday, dealers said.
-
-A bond maturing on 01.08.2026 was quoted at 11.00/20 percent.
-
-A bond maturing on 15.09.2027 was quoted at 12.10/20 percent from 11.85/12.10 percent.
-
-A bond maturing on 15.03.2028 was quoted at 12.25/40 percent from 12.15/30 percent.
-
-The Colombo Stock Exchange was trading up; The All Share Price Index was up 0.02 percent at 10,639. The S&P SL20 was up 0.04 percent at 3,070. (Colombo/Feb21/2024)
-
-◼️
-
-[Data](articles/2cc4e007.json)
-
-[Extended Data](ext_articles/2cc4e007.ext.json)
-
----
-
-### International Mother Language Day marked
-
-*2024-02-21 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/International-Mother-Language-Day-marked/108-277477) · `en`
-
-International Mother Language Day was marked in Colombo today with a ceremony organized by the High Commission of Bangladesh, the Education Ministry and Sri Lanka Scouts Association. Education Minister Susil Premajayantha, External Affairs Minister Ali Sabry, heads of foreign missions in Sri Lanka, the clergy and schoolchildren participated in the event. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/c50f3200.json)
-
-[Extended Data](ext_articles/c50f3200.ext.json)
 
 ---

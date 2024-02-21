@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 16:48:43**
+As of **2024-02-21 17:02:20**
 
 ## Newspaper Stats
 
-*Scraped **8,477** Articles*
+*Scraped **8,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 436
 islandlk | 443
 dailyftlk | 456
 adalk | 718
-adaderanalk | 1,024
+adaderanalk | 1,027
 tamilmirrorlk | 1,054
 virakesarilk | 1,135
 adaderanasinhalalk | 1,238
@@ -26,11 +26,27 @@ dailymirrorlk | 1,258
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,477 (100.0%) of 8,477 articles have been extended.
+8,477 (100.0%) of 8,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Research links COVID-19 vaccines with increased heart risks, brain and blood disorders
+
+*2024-02-21 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97438/research-links-covid-19-vaccines-with-increased-heart-risks-brain-and-blood-disorders) · `en`
+
+Amidst the battle against the COVID-19 pandemic, vaccines emerged as a beacon of hope, offering humanity a vital tool against the deadly virus. However, recent research has introduced a concerning twist to this narrative.
+
+Since the onset of the pandemic, approximately 13.5 billion COVID-19 vaccines have been administered worldwide, marking a significant milestone in the fight against the virus. Notably, around 71% of the global population has received at least one dose of a COVID vaccine.
+
+Despite the widespread vaccination efforts, a recent peer-reviewed study has now sparked health concerns among this substantial portion of the global population. Its findings have linked COVID vaccines from prominent companies such as Pfizer, Moderna and AstraZeneca to rare occurrences of heart, brain and blood disorders.
+
+...
+
+[Data](articles/d2c7b7bd.json)
+
+---
 
 ### Sri Lanka Education Administrative Service Officer in the East protests against the attack
 
@@ -49,6 +65,24 @@ An appeal meeting on teacher transfers for 2024 was held at the Provincial Depar
 [Data](articles/110895ed.json)
 
 [Extended Data](ext_articles/110895ed.ext.json)
+
+---
+
+### President and Iranian FM discuss Persian Gulf’s crucial role in broader Indian Ocean security
+
+*2024-02-21 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97437/president-and-iranian-fm-discuss-persian-gulfs-crucial-role-in-broader-indian-ocean-security-) · `en`
+
+Iranian Minister of Foreign Affairs, Hossein Amir-Abdollahian has reaffirmed Iran’s dedication to fostering tourism to Sri Lanka and strengthening cultural ties between the two nations.
+
+Engaging in a discussion with President Ranil Wickremesinghe during an official visit to Sri Lanka, the Iranian Foreign Minister also conveyed Iran’s eagerness to explore avenues for expanded economic cooperation with Sri Lanka.
+
+The meeting, held at the Presidential Secretariat on Tuesday evening (20 Feb.), cantered on key issues including the ongoing violence in Gaza and opportunities for enhancing bilateral cooperation.
+
+President Wickremesinghe reiterated the Sri Lankan government’s firm stance on the Gaza conflict, emphasizing the immediate necessity for violence cessation and the urgent need for a peace settlement.
+
+...
+
+[Data](articles/de10b7ca.json)
 
 ---
 
@@ -99,6 +133,26 @@ The petition was ordered to be called on the 26th of this month, the respondent 
 [Data](articles/e6ee9840.json)
 
 [Extended Data](ext_articles/e6ee9840.ext.json)
+
+---
+
+### Sri Lanka’s January consumer price inflation rises to 6.5%
+
+*2024-02-21 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97436/sri-lankas-january-consumer-price-inflation-rises-to-65) · `en`
+
+Sri Lanka inflation, based on the National Consumer Price Index (NCPI), for January 2024 was recorded at 6.5%, as measured by the year-on-year change, the Department of Census and Statistics (DCS) revealed in its latest report published on Wednesday (Feb.21).
+
+This is an increase of 4.2% compared to the headline inflation recorded in December 2023.
+
+Compared to December, the reported inflation for January was mainly due to the higher prices in both food and non-food groups, according to the DCS report.
+
+On a monthly basis, the year-on-year inflation of the food group went up to 4.1% in January from 1.6% in December. The year-on-year inflation of the non-food group meanwhile increased to 8.5% in January from 6.3% in December.
+
+The contributions (year-on-year) to the inflation recorded in January from the food group and non-food group stood at 1.86% and 4.66% respectively, in comparison to December.
+
+◼️
+
+[Data](articles/31ac449f.json)
 
 ---
 
@@ -218,9 +272,11 @@ Speaking in Parliament today (21), the minister said that the proposal is expect
 
 He stated that in October last year, the electricity tariffs had been increased by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
 
-Minister Wijesekera stated that it has been proposed to slash the electricity tariffs by these same percentages.
+Minister Wijesekera stated that the CEB expects to reduce the rates by at least the same rates and percentages as was increased in October 2023.
 
-◼️
+He explained that they are able to propose such a reduction in view of the country’s economy turning towards the better, as a result of certain difficult decisions that had to be taken in the past.
+
+...
 
 [Data](articles/dd076886.json)
 
@@ -1967,75 +2023,5 @@ Furthermore, he advised schoolchildren to keep away from outdoor activities, esp
 [Data](articles/00ac8845.json)
 
 [Extended Data](ext_articles/00ac8845.ext.json)
-
----
-
-### Medical experts ring alarm bells over hot weather
-
-*2024-02-21 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Medical-experts-ring-alarm-bells-over-hot-weather/108-277426) · `en`
-
-Colombo, Feb 20 (Daily Mirror) -  In light of the prevailing hot weather conditions in the country, medical experts strongly advise individuals to minimize their exposure to sunlight and to drink plenty of fluids on a frequent basis.
-
-Senior Consultant Physician Dr. Ananda Wijewickrama told Daily Mirror that it is highly advisable for people to prioritize hydration by consuming natural beverages such as water, king coconut, while steering clear of artificial drinks.
-
-When asked who could be at risk, he said children, expectant mothers, the elderly and those taking treatment for various illnesses are at risk of dehydration due to the extreme temperatures.
-
-“Thus, those at risk should limit exposure to sunlight and stay hydrated to avoid dehydration. An adult should drink at least 2.5 litres of water,” Dr Wijewickrama pointed out.
-
-Furthermore, he advised schoolchildren to keep away from outdoor activities, especially non-essential outdoor functions.
-
-...
-
-[Data](articles/b8e3d367.json)
-
-[Extended Data](ext_articles/b8e3d367.ext.json)
-
----
-
-### Showers expected in certain parts of the country
-
-*2024-02-21 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97421/showers-expected-in-certain-parts-of-the-country) · `en`
-
-Showers or thundershowers may occur at a few places in Kalutara, Galle, Matara and Rathnapura districts in the evening or night.
-
-Mainly fair weather will prevail elsewhere, according to the Meteorology Department.
-
-Fairly strong winds about 30 kmph can be expected at times in eastern slopes of the central hills and in North-central, North-western, Uva, Southern and Eastern provinces and in Matale and Kandy districts.
-
-Misty conditions can be expected at some places in Western and Sabaragamuwa provinces during the morning, it said.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/56849aed.json)
-
-[Extended Data](ext_articles/56849aed.ext.json)
-
----
-
-### Final proposal on health career problem
-
-*2024-02-21 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193635) · `si`
-
-The finals of the Ministry of Health Trade Union Alliance will be presented on the 28th.
-
-The Special committee appointed to consider the proposals of the Health Trade Union Alliance was held at the Ministry of Health yesterday (20).
-
-Accordingly, the proposal is to be produced before the Special Committee on the 28th.
-
-Health and Industry Minister Dr. Ramesh Pathirana had requested the appointment to appoint a special committee to address his career issues.
-
-Accordingly, the committee was taken to appoint the relevant committee on the recommendations of the Minister.
-
-The President of the Medical Laboratory Experts Association Ravi Kummaysh expressed his views to the media after the discussion.
-
-National Organizer of the Government Nursing Officers Sudath Jayasiri said that the decision taken by the decision was implemented expeditiously.
-
-◼️
-
-[Data](articles/9c6ef5a9.json)
-
-[Extended Data](ext_articles/9c6ef5a9.ext.json)
 
 ---

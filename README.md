@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 20:17:46**
+As of **2024-02-21 20:33:16**
 
 ## Newspaper Stats
 
-*Scraped **8,530** Articles*
+*Scraped **8,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ islandlk | 443
 dailyftlk | 456
 adalk | 731
 adaderanalk | 1,029
-tamilmirrorlk | 1,059
+tamilmirrorlk | 1,061
 virakesarilk | 1,146
-adaderanasinhalalk | 1,249
+adaderanasinhalalk | 1,252
 dailymirrorlk | 1,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,530 (100.0%) of 8,530 articles have been extended.
+8,530 (99.9%) of 8,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### பழ திருடனுக்கு விளக்கமறியல்
+
+*2024-02-21 19:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பழ-திருடனுக்கு-விளக்கமறியல்/76-333615) · `ta`
+
+நுவரெலியா, டொப்பாஸ் பகுதியில் பழங்கள் விற்பனை செய்யும் கடை ஒன்றில் 46,000 ரூபாய் பெறுமதி மிக்க பழங்களை  திருடிய நபரை எதிர்வரும் 26 ஆம்திகதி திங்கட்கிழமை வரை விளக்கமறியலில் வைக்குமாறு நுவரெலியா நீதவான் நீதிமன்ற நீதிபதி பிரபுதிகா லங்கான்தினி உத்தரவிட்டுள்ளார்.
+
+நுவரெலியா குற்றத்தடுப்பு பொலிஸாருக்கு பழக்கடை உரிமையாளர் செய்திருந்த முறைப்பாட்டுக்கு அமைய நுவரெலியா பொலிஸ் தலைமையக பிரதான பொலிஸ் பரிசோதகர் பிரேமலால் ஹட்டியாராச்சியின் பணிப்பின் பேரில்,குற்றத்தடுப்பு பொலிஸ் பிரிவுக்குட்பட்ட பொறுப்பதிகாரி இந்துநில் பிரேமலால் விசாரணைகளை முன்னெடுத்திருந்தார்.
+
+இதன்போது விசாரணைக்காக நியமிக்கப்பட்டிருந்த  மூவரடங்கிய குழுவினர் நடவடிக்கையில் ஈடுப்பட்டு சிசிரிவி கமராவில் பதிவாகியிருந்த காணொளி உதவியுடன் சந்தேக நபரை ஞாயிற்றுக்கிழமை (18) மாலை கைது செய்தனர்.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர் லபுக்கலை குடா ஓயா பகுதியை சேர்ந்த (44) வயதுடையவராவார்.
+
+...
+
+[Data](articles/df9efe0b.json)
+
+---
+
+### ”புத்தாண்டுக்கு கசிப்பு குடிக்க முடியாது சாராயம் குடிக்க வேண்டும்”
+
+*2024-02-21 19:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டுக்கு-கசிப்பு-குடிக்க-முடியாது-சாராயம்-குடிக்க-வேண்டும்/175-333614) · `ta`
+
+புத்தாண்டுக்கு முன்னதாக சாமானியர்கள் அருந்தும் சிறப்பு சாராயத்தின் விலையை அரசாங்கம் குறைக்க வேண்டும் என இராஜாங்க அமைச்சர் சாமர சம்பத் தெரிவித்துள்ளார்.
+
+சாராயத்தின் விலைகள் அபரிமிதமாக உயர்ந்துள்ளதாகவும், அதனால் மக்கள் கள்ளச்சாராயத்தை (கசிப்பு) குடிக்க முனைவதாகவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+"சாராய  விலை உயர்ந்துள்ளது. மக்கள் தற்போது கள்ளச்சாராயம் குடிக்கின்றனர். மதுக்கடைகள் வெறிச்சோடி கிடக்கின்றன. மக்கள் தினமும் 'கசிப்பு' குடிக்க முடியாது. புத்தாண்டுக்கு ‘சாராயம்' குடிக்க வேண்டும்,"  என அவர் உணர்ச்சிப்பூர்வமாக தெரிவித்தார்.
+
+ஒரு போத்தல் சாராய விலையை 1500 ரூபாவாக குறைக்க முடியும் என தெரிவித்த அவர் . சாராய உற்பத்திற்கு தேவையான சேர்மானங்களை பெல்வத்தை, செவனகல மற்றும் எதிமலே ஆகிய இடங்களில் இருந்து பெற்றுக்கொள்ள முடியும் எனவும் கூறினார்.
+
+◼️
+
+[Data](articles/d41a8956.json)
+
+---
+
+### ලක්මවට මැණිකක් වූ සහාය කතිකාර්‍ය ලක්මිණී චූලෝත්තමා බෝගමුව අවසන් ගමන් යයි
+
+*2024-02-21 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193673) · `si`
+
+හදිසි අනතුරකින් ජීවිත්කෂයට පත් වූ කොළඹ විශ්වවිද්‍යාලයේ සහාය කතිකාර්‍ය ලක්මිණී චූලෝත්තමා බෝගමුවගේ අවසන් කටයුතු අද (21) සිදු කරන්නට යෙදිණි.
+
+වචනයේ පරිසමාප්ත අරුතින්ම ලක්මවට මැණිකක් වූ ඇය කොළඹ විශ්වවිද්‍යාලයේ ජාත්‍යන්තර සබඳතා අංශයේ සහාය කථිකාචාර්යවරියක ලෙස කටයුතු කළා ය.
+
+කැලණිය සරසවියේ ජ්‍යේෂ්ඨ කථිකාචාර්ය චන්ද්‍රසිරි බෝගමුව මහතාගේ එකම දියණිය වන ඇය අඩු වයසින්ම අධ්‍යාපන කඩඉම් ජයගත් තරුණියකි.
+
+කොළඹ විශ්වවිද්‍යාලයේ ජාත්‍යන්තර සබඳතා පිළිබඳ උපාධි පාඨමාලාවේ 2022 වසරේ දක්ෂතම ශිෂ්‍යාව මෙන්ම වැඩිම ලකුණු ලැබූ සිසුවිය බවට ද ඇය පත්වන්නේ, පොතපත පමණක් නොව නැටුම් ගැයුම් ඇතුළු බාහිර ක්‍රියාකාරකම්වලටත් දක්ෂ සහ දීප්තිමත් සිසුවියක ලෙස සරසවිට කීර්තියක් අත්කර දෙමිනි.
+
+ඉහළ සමත්කම් නිසාම 2023 වසරේ දී ඇය සිය සරසවිය වූ කොළඹ විශ්වවිද්‍යාලයේම ජාත්‍යන්තර සබඳතා අංශයේ සහාය කථිකාචාර්යවරියක ලෙස සිය වෘත්තිය දිවිය ආරම්භ කළා ය.
+
+එමෙන්ම මේ රුවැත්තිය දහම් අධ්‍යාපනයට දැක්වූ ඇල්ම නිසාම දහම්පාසල් ආචාර්යවරියක ලෙසත් කටයුතු කළා ය.
+
+...
+
+[Data](articles/2e18d260.json)
+
+---
+
+### නෞකාවක සේවයට ගිය තරුණයෙකු මුහුදට වැටිලා
+
+*2024-02-21 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193672) · `si`
+
+විදෙස් රටක නෞකාවක සේවයට ගිය ශ්‍රී ලාංකකයෙකු මුහුදට වැටී ජීවිතක්ෂයට පත්වී ඇති බවට පැවසෙන පුවතක් වාර්තා වෙයි.
+
+හොරණ, අඟුරුවාතොට, උඩුවර ප්‍රදේශයේ පදිංචි චිරාත් සඳරූ නම් 21 හැවිරිදි තරුණයෙකු ජර්මනියේ නැව් සමාගමකට අයත් භාණ්ඩ ප්‍රවාහන නව්කාවක සේවය සඳහා ඉකුත් ජනවාරි මස 2 වනදා ගොස් තිබුණි.
+
+පසුව ඔහු ස්පාඤ්ඤයේ "සෙන්ටුකා බේ" නැමති නෞකාවට සේවය සඳහා එක්වී ඇති බව වාර්තා වෙයි.
+
+ඒ අනුව පසුගිය 18 වනදා ඔහුගේ උඩුවර නිවෙසට පැමිණි අදාළ නැව් සමාගමේ මෙරට කළමනාකරුවන් දෙදෙනෙකු පවසා ඇත්තේ චිරාන් සඳරු මුහුදට වැටී ඇති බවය.
+
+එම තරුණයා 17 වනදා රත්‍රි 10.00 පමණ මුහුදට වැටී ඇති අතර නෞකාවේ කපිතාන්වරයා ප්‍රමුඛ සේවකයින් ඒ බව දැනගෙන ඇත්තේ පැය 04කට පමණ පසුව බවත් නිවෙසට පැමිණි පුද්ගලයන් දෙදෙනා පවසා ඇත.
+
+ඒ අනුව සිද්ධිය සම්බන්ධයෙන් කොටහේන පොලීසියට පැමිණිල්ලක් ද ඉදිරිපත් කර තිබේ.
+
+මේ අතර අදාළ පුද්ගලයන් දෙදෙනා පසුගිය 18 වනදා නැවතත් මෙම නිවැසියන්ට දුරකථනයෙන් අමතා ඇත්තේ සඳරු සවස 2.30ට පමණ මුහුදට වැටී ඇති බවත් එය දුටු බව කියන සේවකයා නැවේ කපිතාන්වරයාට මේ බව දන්වා ඇති බවත් ය.
+
+ඒ අනුව ඒ මොහොතේම සෙවීම් කටයුතු සිදුකර ඇති බවත් ඔවුන් පවසා ඇත.
+
+...
+
+[Data](articles/b8850de1.json)
+
+---
 
 ### No action that has been initiated in any pressures will not be stopped - Public Safety Minister Tran Alles
 
@@ -73,6 +157,24 @@ Responding to the report of the CEB media spokesman, the television presenter sa
 [Data](articles/fd4c1cdc.json)
 
 [Extended Data](ext_articles/fd4c1cdc.ext.json)
+
+---
+
+### අවශ්‍යව සිටි සැකකරුවන් 13 දෙනෙකු ඩුබායිහි දී අත්අඩංගුවට
+
+*2024-02-21 19:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193671) · `si`
+
+මෙරට පොලීසියට අවශ්‍ය ව සිටින ප්‍රධාන පෙළේ අපරාධකරුවන් 13 දෙනෙකු ඩුබායි රාජ්‍යයේ දී අත්අඩංගුවට පත් ව ඇති බවට එරට ආරංචිමාර්ග පවසයි.
+
+ඒ අතර බෙලිඅත්ත පංච පුද්ගල ඝාතනයට ආධාර අනුබල දුන් කියන ඌරගහ මයිකල් නැමැත්තා ද සිටින බව වාර්තා වේ.
+
+මේ අතර, මීට වසර 10කට පමණ පෙර බොරැල්ල ප්‍රදේශයේ දී කොණ්ඩා කපන ස්ථානයක් තුළ පුද්ගලයෙකු වෙඩි තබා ඝාතනය කිරීමේ චෝදනාව යටතේ අපරාධකරුවකු වන දෙමටගොඩ චමින්ද ඇතුළු විත්තිකරුවන් හතර දෙනෙකුට පවරා ඇති නඩුවේ නඩු භාණ්ඩ කිහිපයක් බොරැල්ල පොලීසිය භාරයේ තිබිය දී අස්ථානගත වීම සම්බන්ධයෙන් වහාම විධිමත් විමර්ශනයක් සිදු කර තම අධිකරණයට වාර්තාවක් ඉදිරිපත් කරන ලෙස කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා ප්‍රදේශය භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයාට නියෝග කර ඇත.
+
+එන නඩුව ලබන මැයි 06 වනදා දක්වා කල්තැබූ විනිසුරුවරයා පැමිණිල්ලේ පළමු සහ හත් වන සාක්ෂිකරුවන්ට එදින අධිකරණය හමුවේ පෙනී සිටින ලෙස දන්වා සිතාසි යැවීමට ද නියෝග කර තිබේ.
+
+...
+
+[Data](articles/05d00206.json)
 
 ---
 
@@ -1965,101 +2067,5 @@ International Mother Language Day was marked in Colombo today with a ceremony or
 [Data](articles/c50f3200.json)
 
 [Extended Data](ext_articles/c50f3200.ext.json)
-
----
-
-### Sri Lanka looking to phase out sending women abroad as domestic workers over 10-year period
-
-*2024-02-21 12:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-looking-to-phase-out-sending-women-abroad-as-domestic-workers-over-10-year-period-151764/) · `en`
-
-ECONOMYNYEXT — Sri Lanka, whose officially registered migrant work force was 40-percent women in 2022, is looking to phase out sending women overseas as domestic workers over a 10-year period and encourage them to seek high-paying skilled work abroad instead.
-
-Minister of Labour and Foreign Employment Manusha Nanayakkara in a discussion with representatives of the Sri Lanka Bureau of Foreign Employment (SLBFE) and the Association of Licensed Foreign Employment Agencies has sought proposals to “completely stop sending Sri Lankan women overseas to work as housemaids”, a statement from the minister’s office said on Tuesday February 20.
-
-“The Minister emphasised the importance of halting the practice of sending women for overseas employment as domestic workers and instead proposed that women should be encouraged to seek foreign jobs in high paying skilled categories of work,” the statement said, adding that views and suggestions of all stakeholders should be sought in this exercise.
-
-...
-
-[Data](articles/0b446221.json)
-
-[Extended Data](ext_articles/0b446221.ext.json)
-
----
-
-### Children's death in Gaza due to malnutrition
-
-*2024-02-21 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176940) · `ta`
-
-The deaths of children in Gaza due to malnutrition will increase unbearable, according to Nunisev.
-
-UNICEV has warned that the deaths of children are unbearable due to the worst crisis.
-
-UNICEV -led organizations said that 90 percent of the children under the age of five are in a state of affairs in Gaza.
-
-Over the past few weeks, 70 percent of children under the age of five have been suffering from diarrhea, humanitarian organizations said.
-
-Rabba, which is part of humanitarian assistance, is about five percent of the nutrition in Vadakasa.
-
-It is noteworthy that the Israeli soldiers have been subjected to Vadakasa in their siege and have not been able to go to humanitarian aid for months.
-
-UNICEV official Techsaliban said that the death of children's death is going to occur in Gaza, which is going to increase the deaths of child deaths that are already unbearable in Gaza.
-
-◼️
-
-[Data](articles/71831ce7.json)
-
-[Extended Data](ext_articles/71831ce7.ext.json)
-
----
-
-### 10th National Scout Jamboree declared open by President
-
-*2024-02-21 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97429/10th-national-scout-jamboree-declared-open-by-president-) · `en`
-
-President Ranil Wickremesinghe, in his capacity as the Chief Scout of Sri Lanka, declared the 10th National Scout Jamboree open on Wednesday morning (21 Feb.).
-
-The National Scout Jamboree is being held in Trincomalee, with the participation of 11,500 scouts from Sri Lanka and 28 other countries, the President’s Media Division (PMD) reported.
-
-◼️
-
-[Data](articles/adc4ef1f.json)
-
-[Extended Data](ext_articles/adc4ef1f.ext.json)
-
----
-
-### New love that shed blood in the knife
-
-*2024-02-21 11:59:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்திக்குத்தில்-இரத்தம்-சிந்திய-புதிய-காதல்/175-333577) · `ta`
-
-The Kahaduduwa police division has taken place in the neck of the old lover, the old boyfriend of the young man, the other man who had a romantic relationship with the old girlfriend. Kahaduduwa police said the old boyfriend who had been stabbed with a knife had fled.
-
-The youth who was severely injured and was severely injured in the Vedara District Hospital after being admitted to the Kalubowila Hospital for further treatment.
-
-Yuvati had a love affair with this suspect who had fled with a knife. He stopped that connection a few months ago. After that, the police said that she has now fallen in love with a young man who is aimed at a knife.
-
-◼️
-
-[Data](articles/6aac7e0e.json)
-
-[Extended Data](ext_articles/6aac7e0e.ext.json)
-
----
-
-### 30000 Transport Officers arrested for busy buses
-
-*2024-02-21 11:58:15* · [`adalk`](https://www.ada.lk/breaking_news/බස්-ව්‍යාපාරිකයාගෙන්-රු-30000-ක-අල්ලසක්-ගත්-ප්‍රවාහන-නිලධාරීන්-දෙකක්-අල්ලයි/11-408208) · `si`
-
-Two officers of the Central Province Transport Authority and the Investigation Officers of the Central Provincial Transport Authority (Investigation Officers) were arrested by the Investigation Commission (Investigation Officers) of the Investigation Commission (Investigation) of the Investigation Commission to obtain a bribe of Rs.The Commission of Investigation Committee says.
-
-Furthermore required to provide a letter to the fundamental bus to be taken over by the complainant by the businessman's location and implementing the existing bus class and change the existing bus class and change the bus class.To make
-
-This bribe has been obtained, he said.Rs. 30,000 / - accepting a bribery and assistance to assistance for this is the accusation against the Central Province Transport Service Authority, the Management Assistant of the Central Province Transport Affairs Authority.
-
-...
-
-[Data](articles/b4822efe.json)
-
-[Extended Data](ext_articles/b4822efe.ext.json)
 
 ---

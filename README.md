@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 06:53:24**
+As of **2024-02-21 07:16:00**
 
 ## Newspaper Stats
 
-*Scraped **8,356** Articles*
+*Scraped **8,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,43 @@ adaderanalk | 1,007
 tamilmirrorlk | 1,028
 virakesarilk | 1,120
 adaderanasinhalalk | 1,214
-dailymirrorlk | 1,236
+dailymirrorlk | 1,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,346 (99.9%) of 8,356 articles have been extended.
+8,356 (100.0%) of 8,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### ප්‍රදේශ කිහිපයකට තද වැසි
+### CID and Central Bank probe Rs. 8 Bn fraud defrauding over 22000 victims
+
+*2024-02-21 06:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-and-Central-Bank-probe-Rs-8-Bn-fraud-defrauding-over-22000-victims/108-277444) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - The Criminal Investigation Department and the Central Bank of Sri Lanka have initiated separate investigations to apprehend a man and his wife who are alleged to have defrauded approximately Rs. 8 billion from around 22,000 individuals across different parts of the country under the guise of establishing a trading community.
+
+According to a large number of complaints received by the CID and the CB, that they have made about 22000 people in different parts of the country have been caught in this fraud which is very similar to the fraud in the pyramid scheme, a senior official said.
+
+...
+
+[Data](articles/0a22b3ea.json)
+
+---
+
+### Heavy rains in several areas
 
 *2024-02-21 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193630) · `si`
 
-කළුතර, ගාල්ල, මාතර සහ රත්නපුර දිස්ත්‍රික්කවල ස්ථාන ස්වල්පයක සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+Showers or thundershowers will occur at several places in Kalutara, Galle, Matara and Ratnapura districts.
 
 ◼️
 
 [Data](articles/ab10b7ce.json)
+
+[Extended Data](ext_articles/ab10b7ce.ext.json)
 
 ---
 
@@ -123,6 +139,8 @@ Deloitte Sri Lanka and Maldives Consulting Leader Nishan Mendis said: “The ove
 ...
 
 [Data](articles/505cb014.json)
+
+[Extended Data](ext_articles/505cb014.ext.json)
 
 ---
 
@@ -380,6 +398,8 @@ How does this theme relate to Sri Lanka? This paper outlines a few issues for co
 
 [Data](articles/9849b1ef.json)
 
+[Extended Data](ext_articles/9849b1ef.ext.json)
+
 ---
 
 ### 300,000 small businesses to be trained in Asia on digital safety, 5000 in Sri Lanka
@@ -391,6 +411,8 @@ Google.org, Google’s philanthropic arm, is providing $15M to The Asia Foundati
 ...
 
 [Data](articles/d724267f.json)
+
+[Extended Data](ext_articles/d724267f.ext.json)
 
 ---
 
@@ -405,6 +427,8 @@ Due to weak market sentiment both indices indicated mixed reactions. The All- Sh
 ...
 
 [Data](articles/ef773e0b.json)
+
+[Extended Data](ext_articles/ef773e0b.ext.json)
 
 ---
 
@@ -1903,19 +1927,5 @@ Here's the lawyer of law. G. Mr. Punchi Hewa said:
 [Data](articles/fe54c720.json)
 
 [Extended Data](ext_articles/fe54c720.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-20 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/176860) · `ta`
-
-The US dollar purchasing price was Rs 307.3445 and the sales price were 317.1692 based on the currency exchange rate released by the Central Bank on Tuesday (February 20).
-
-◼️
-
-[Data](articles/4398d393.json)
-
-[Extended Data](ext_articles/4398d393.ext.json)
 
 ---

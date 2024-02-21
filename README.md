@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 00:47:35**
+As of **2024-02-22 01:02:26**
 
 ## Newspaper Stats
 
-*Scraped **8,575** Articles*
+*Scraped **8,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 456
 adalk | 735
 adaderanalk | 1,035
 tamilmirrorlk | 1,065
-virakesarilk | 1,148
+virakesarilk | 1,149
 adaderanasinhalalk | 1,257
 dailymirrorlk | 1,279
 
@@ -26,11 +26,27 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,569 (99.9%) of 8,575 articles have been extended.
+8,575 (100.0%) of 8,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### யாழில் தேடப்பட்டு வந்த 531 பேர் கைது
+
+*2024-02-22 00:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177000) · `ta`
+
+யாழ்ப்பாணத்தில் தேடப்பட்டு வந்த 531 பேர் கடந்த ஒரு மாத கால பகுதிக்குள் கைது செய்யப்பட்டுள்ளனர் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+குற்றச் செயல்களுடன் தொடர்புடைய குற்றச்சாட்டுக்களில் நீதிமன்றங்களினால் பிடியாணைகள் பிறப்பிக்கப்பட்டவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+திறந்த பிடியாணை பிறப்பிக்கப்பட்ட 301 நபர்களும் , சாதாரண பிடியாணை பிறப்பிக்கப்பட்ட 230 நபர்களுமே பொலிஸாரினால் கைது செய்யப்பட்டு நீதிமன்றங்களில் முற்படுத்தப்பட்டனர் என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/9b7fe4cd.json)
+
+---
 
 ### Comrade Dissanayake Must Visit Nuwara Eliya
 
@@ -1034,6 +1050,8 @@ Banks have warned that halting parate execution will make lenders more cautious 
 
 [Data](articles/2b7a4f5d.json)
 
+[Extended Data](ext_articles/2b7a4f5d.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes at 311.30/50 to the US dollar
@@ -1059,6 +1077,8 @@ A bond maturing on 01.07.2032 closed at 12.50/13.20 percent from 12.50/13.30 per
 ◼️
 
 [Data](articles/b92acba5.json)
+
+[Extended Data](ext_articles/b92acba5.ext.json)
 
 ---
 
@@ -1149,6 +1169,8 @@ With the uptick in tourist arrivals there was construction in hotels, “mainly 
 ...
 
 [Data](articles/13ca4099.json)
+
+[Extended Data](ext_articles/13ca4099.ext.json)
 
 ---
 
@@ -1860,6 +1882,8 @@ Amir-Abdollahian, who is an official visit, met Wickremesinghe at the Presidenti
 
 [Data](articles/b45c6a78.json)
 
+[Extended Data](ext_articles/b45c6a78.ext.json)
+
 ---
 
 ### Against privatising public institutions
@@ -2089,27 +2113,5 @@ Chief Opposition Whip Lakshman Kiriella also criticised the salary hike.
 [Data](articles/321436d4.json)
 
 [Extended Data](ext_articles/321436d4.ext.json)
-
----
-
-### Sri Lanka inflation to reach 5% during Q3-Q4: CBSL official
-
-*2024-02-21 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97433/sri-lanka-inflation-to-reach-5-during-q3-q4-cbsl-official) · `en`
-
-Sri Lanka’s inflation is expected to return to the government’s 5% target starting from the last two quarters of the year, a Central Bank of Sri Lanka (CBSL) official said on Wednesday, as the economy stabilises from a crippling financial crisis.
-
-The economy has shown signs of recovery in recent months, aided by a $2.9 billion International Monetary Fund (IMF) programme, after it went into freefall in 2022 due to a severe foreign exchange shortage.
-
-“Inflation is projected to reach 5% in the medium term, which is from about the third quarter to the end of the year,” S. Jegajeevan, the director of CBSL’s economic research department, told reporters.
-
-“The high base effect from the tax increases is expected to benefit inflation in early 2025 and possibly even bring it lower than 5%.”
-
-The South Asian country defaulted on its overseas debt in May 2022 after depleted foreign exchange reserves triggered worst financial crisis since independence from Britain in 1948.
-
-...
-
-[Data](articles/4a2153a2.json)
-
-[Extended Data](ext_articles/4a2153a2.ext.json)
 
 ---

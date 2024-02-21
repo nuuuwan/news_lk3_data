@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 01:02:26**
+As of **2024-02-22 01:17:33**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,575 (100.0%) of 8,576 articles have been extended.
+8,576 (100.0%) of 8,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### யாழில் தேடப்பட்டு வந்த 531 பேர் கைது
+### 531 arrested in Jaffna
 
 *2024-02-22 00:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177000) · `ta`
 
-யாழ்ப்பாணத்தில் தேடப்பட்டு வந்த 531 பேர் கடந்த ஒரு மாத கால பகுதிக்குள் கைது செய்யப்பட்டுள்ளனர் என பொலிஸார் தெரிவித்துள்ளனர்.
+531 people have been arrested in Jaffna within a month, police said.
 
-குற்றச் செயல்களுடன் தொடர்புடைய குற்றச்சாட்டுக்களில் நீதிமன்றங்களினால் பிடியாணைகள் பிறப்பிக்கப்பட்டவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+The arrests have been arrested by the courts on charges of criminal activity.
 
-திறந்த பிடியாணை பிறப்பிக்கப்பட்ட 301 நபர்களும் , சாதாரண பிடியாணை பிறப்பிக்கப்பட்ட 230 நபர்களுமே பொலிஸாரினால் கைது செய்யப்பட்டு நீதிமன்றங்களில் முற்படுத்தப்பட்டனர் என பொலிஸார் தெரிவித்தனர்.
+The 301 persons were arrested and 230 persons who had been issued an ordinary person were arrested by the police and appeared in courts, police said.
 
 ◼️
 
 [Data](articles/9b7fe4cd.json)
+
+[Extended Data](ext_articles/9b7fe4cd.ext.json)
 
 ---
 

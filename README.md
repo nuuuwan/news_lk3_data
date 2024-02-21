@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 17:53:17**
+As of **2024-02-21 18:09:03**
 
 ## Newspaper Stats
 
-*Scraped **8,494** Articles*
+*Scraped **8,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 economynextcom | 436
 islandlk | 443
 dailyftlk | 456
-adalk | 718
+adalk | 728
 adaderanalk | 1,028
 tamilmirrorlk | 1,055
-virakesarilk | 1,141
-adaderanasinhalalk | 1,244
+virakesarilk | 1,142
+adaderanasinhalalk | 1,245
 dailymirrorlk | 1,258
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,494 (100.0%) of 8,494 articles have been extended.
+8,506 (100.0%) of 8,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Mullaitivu fishermen are suffering from violation of Indian fishermen
+
+*2024-02-21 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176962) · `ta`
+
+With the onset of the shrimp season, Mullaitivu fishermen are engaged in fisheries.
+
+However, the fishermen of Mullaitivu are also alive that their fisheries are now in a dullness.
+
+Therefore, the fishermen are worried that they have to face huge difficulties to move their daily lives in the current economic burden of the country.
+
+The fishermen point out that their industrial conditions are slowing down because of the destruction of the marine field by using the trawling net, especially when the Indian dragers have crossed the Mullaitivu seas.
+
+Mullaitivu fishermen say that the fishing of the Indian dragon entry into the Mullaitivu Sea is destroyed by the trawling industry, destroying the habitats of marine organisms and the looting of the sea is completely looted.
+
+In addition, the Mullaitivu fishermen have been accused of destroying the marine resources by the trawling industry and engaging in drug trafficking and destroying our country.
+
+...
+
+[Data](articles/a9338f82.json)
+
+[Extended Data](ext_articles/a9338f82.ext.json)
+
+---
+
+### Registration of National Tensity National Force is illegal
+
+*2024-02-21 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193666) · `si`
+
+The Supreme Court today (21) ordered to be summoned to the 4th of March to ensure the monsoonals filed by the Electoral Commission.
+
+The triumphantic Surasena, Preetman Surasena, Achala Walapilluli and Arjuna Oyakarapuli were called before the Supreme Court Bench.
+
+Attorneys-at-Law Nagananda Koditu, appearing on behalf of the petitioner Nagananda, asked the court to consider the relevant motion.
+
+The suspect's panel of judges accepted the request was ordered to be summoned on March 4.
+
+The monsoon has been presented by Kodituwakku, who has filed a Rit petition filed against the decision of the Examinations Commission to register as a political party.
+
+Nagananda Kodituwakku said in the monsoon, the registration of the national folk force, a political party, is completely contrary to the law.
+
+Nagananda Kodituwakku has requested the Supreme Court to allow the national folk force to be illegal.
+
+◼️
+
+[Data](articles/b36e2509.json)
+
+[Extended Data](ext_articles/b36e2509.ext.json)
+
+---
 
 ### Appeal message from the mother of Alexi Navalni's mother
 
@@ -71,6 +121,30 @@ The Aquaman star further said: “As a native Hawaiian, I saw the impacts of cli
 [Data](articles/74801b11.json)
 
 [Extended Data](ext_articles/74801b11.ext.json)
+
+---
+
+### Two men shot dead in Mullikandal, Mannar - Adampan;Two suspects arrested
+
+*2024-02-21 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176974) · `ta`
+
+Two persons have been arrested in connection with the murder of two people in the Mannar - Adampan and Mullikandal area, police said.
+
+The two men aged 33 and 55 from Uilangulam and Mannar were arrested on Tuesday evening, police said.
+
+The double murder took place on August 24 last year.
+
+A motorcycle riding on a motorcycle was fired at the field.
+
+Jesudasan Arundavarajah (age 42) from Nochchikkulam, Mannar and Ganapathi Kalimuthu (age-56) from Ichalakkai village in the Manthai West Divisional Secretariat Division were killed.
+
+The arrested suspects are being detained at the Adampan police station and are being investigated.
+
+◼️
+
+[Data](articles/c37a5f40.json)
+
+[Extended Data](ext_articles/c37a5f40.ext.json)
 
 ---
 
@@ -160,30 +234,6 @@ As farmers in Haryana and Punjab states, the police acted in tear gas against th
 
 ---
 
-### Two men shot dead in Mullikandal, Mannar - Adampan;Two suspects arrested
-
-*2024-02-21 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176974) · `ta`
-
-Two persons have been arrested in connection with the murder of two people in the Mannar - Adampan and Mullikandal area, police said.
-
-The two men aged 33 and 55 from Uilangulam and Mannar were arrested on Tuesday evening, police said.
-
-The double murder took place on August 24 last year.
-
-A motorcycle riding on a motorcycle was fired at the field.
-
-Jesudasan Arundavarajah (age 42) from Nochchikkulam, Mannar and Ganapathi Kalimuthu (age-56) from Ichalakkai village in the Manthai West Divisional Secretariat Division were killed.
-
-The arrested suspects are being detained at the Adampan police station and are being investigated.
-
-◼️
-
-[Data](articles/c37a5f40.json)
-
-[Extended Data](ext_articles/c37a5f40.ext.json)
-
----
-
 ### Many bodybuildings by mosquitoes -an international study
 
 *2024-02-21 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176972) · `ta`
@@ -269,6 +319,24 @@ It is advised to avoid unnecessary walking in publications, drink more water and
 [Data](articles/2eb09915.json)
 
 [Extended Data](ext_articles/2eb09915.ext.json)
+
+---
+
+### The youngest Sri Lankan girl in the world of foot to go on foot
+
+*2024-02-21 16:32:08* · [`adalk`](https://www.ada.lk/breaking_news/පයින්-ගිහින්-ලෝක-වාර්තාවක්-තැබූ-ලෝකයේ--ළාබාලතම-ලාංකික-දැරිය/11-408221) · `si`
+
+In a shortest period of 10 miles [9 km] in the world where the world's youngest girl, a world record was a world record, and published in India.
+
+The World Scholarship was able to pass from the Chalan, Kelaniya, Pilapitiya presidential collector in Parandeniya.
+
+Officials of the Sri Lankan Branch Vice President Indranath Pelan Institute of Cholan attended this event. She says that the reason for this world record is to learn to walk with his father.
+
+◼️
+
+[Data](articles/b69ddf1e.json)
+
+[Extended Data](ext_articles/b69ddf1e.ext.json)
 
 ---
 
@@ -375,6 +443,24 @@ An appeal meeting on teacher transfers for 2024 was held at the Provincial Depar
 [Data](articles/110895ed.json)
 
 [Extended Data](ext_articles/110895ed.ext.json)
+
+---
+
+### Tomorrow, Gampaha, Colombo, Hambantota and Moneragala
+
+*2024-02-21 16:08:14* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වයඹ--ගම්පහ--කොළඹ---හම්බන්තොට-සහ-මොණරාගල-රත්වෙයි/11-408220) · `si`
+
+The Meteorological Department has been informed that the warm index of the North Western provinces and the warmth of the human body is expected in the North Western Provinces and the Colombo-Hambantota and Moneragala districts.
+
+Speaking further, they say that if the workplace is used to drink enough water, to rest in the shadow.
+
+Similarly, small children are used to use white or light, and lightwear for clothes. Working in outdoors should be restricted to limit the hard work.
+
+◼️
+
+[Data](articles/a8ef4e73.json)
+
+[Extended Data](ext_articles/a8ef4e73.ext.json)
 
 ---
 
@@ -810,6 +896,20 @@ As per the relevant court order, 10 trade unions have been prevented from enteri
 
 ---
 
+### New Secretary to the Cabinet
+
+*2024-02-21 14:10:38* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍ය-මණ්ඩලයට-නව-ලේකම්වරයෙක්/11-408219) · `si`
+
+The President is the new Secretary to the Cabinet of Ministers.Fernando has been appointed.The appointment of this appointment yesterday (20) was released by the Secretary to the President EMSBA yesterday.
+
+◼️
+
+[Data](articles/36f550f8.json)
+
+[Extended Data](ext_articles/36f550f8.ext.json)
+
+---
+
 ### This is how the electricity tariff goes down
 
 *2024-02-21 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193650) · `si`
@@ -849,6 +949,30 @@ It further states that the public should not be made to cause stress or traffic.
 [Data](articles/c6fe60dd.json)
 
 [Extended Data](ext_articles/c6fe60dd.ext.json)
+
+---
+
+### Body of three dead personnel hospitalized under false addresses
+
+*2024-02-21 13:50:48* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-ලිපින-යටතේ-රෝහල්ගතව-සිට-මිය-ගිය-තිදෙනකුගේ-මළ-සිරුරු-හෝමාගම-රෝහලේ/11-408217) · `si`
+
+According to the Homagama Base Hospital, the Homagama Base Hospital Police say that the trustees were facing a number of problems to be taken into custody to the Homagama Base Hospital.
+
+Accordingly, the police urged the general public to provide information to the guardians of the dead.
+
+The deceased has been admitted to the Mattegoda, Athurugiriya Police Divisions and has not been held in the area.
+
+The Mattegoda patient was aged between the ages of 78, 52 and 50 years.. It is said that the patient Maharagama had died on 20.01.202013.
+
+Two of them had been admitted to the hospital, while he was returning to the hospital, while he was returning to the hospital after the recovery of a guardian was returned to the hospital.It is said that he died.
+
+The bodies have been placed in the hospital morgue and is now obstructed to delay daily brushes and the absence of guardians of the bodies have been disrupted and the absence of trustees to release the corpses.
+
+...
+
+[Data](articles/9f448d3c.json)
+
+[Extended Data](ext_articles/9f448d3c.ext.json)
 
 ---
 
@@ -922,6 +1046,50 @@ Iranian Foreign Minister Dr. Hussein Armir Abdullahin and External Affairs Minis
 
 ---
 
+### Kaduwela Magistrate's Order will be powerless in Homagama
+
+*2024-02-21 13:35:00* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙල-මහේස්ත්‍රාත්-නියෝගය-හෝමාගම-මහාධිකරණය-බල-රහිත-කරයි/11-408214) · `si`
+
+Kaduwela Magistrate's Court to be arrested by the Kaduwela Police and the Criminal Investigation Division in the Criminal Investigation Division under the operation of justice.Homal Ranaweera ordered the Inspector General of Police to seize the illegal assets of the Criminal Investigation Division without the re-investigating the Criminal Investigation Department.
+
+Accordingly, Mrs. Chanima Wijaya Bandara was given by Mrs. Chanama Wijaya Bandara on the 17th.
+
+The order of Kaduwela Magistrate Chanima Wije Bandara on the 17th of this order the owners of the property had been taken back on the illegal contact division (5) and the custody of the custody.
+
+Deputy Solicitor General Savigation Division of the Attorney General and the Criminal Investigation Division on behalf of the Attorney General was held on behalf of the Attorney General.
+
+...
+
+[Data](articles/9ffa5c66.json)
+
+[Extended Data](ext_articles/9ffa5c66.ext.json)
+
+---
+
+### Businessman Donated 400 lakhs of birthday
+
+*2024-02-21 13:32:38* · [`adalk`](https://www.ada.lk/breaking_news/55-වැනි-උපන්දිනයට-ලක්ෂ-400ක්-බෙහෙත්-අපුර-රෝහලට-පරිත්‍යාග-කළ ව්‍යාපාරිකයා/11-408213) · `si`
+
+Sarath Kumara Munasinghe, a well known businessman in Anuradhapura, was donated by the Teaching Hospital and the Anuradhapura Teaching Hospital with 400 million rupees.
+
+The medication was donated to mark the donation of the 55th birthday and the fifty-56th anniversary of Sarath Muningaage.
+
+From last year at hospitals, he has donated the essentials of the medicine to the hospital in collaboration with the Lion Club.
+
+A total of drugs and vitamins are essential for other diseases, including children, heartfelt, cardiocism imported from high Britain.
+
+Mr. Sarath Kumara Munasinghe stated that he is expected to be presented to the hospital in the future and the Sinha Club and the support of the Lions Club and Banking system.
+
+He said that the project is to be done with the cancer patients, and those who have a precedent for the society have a precedent for the society, they will be able to provide the people of Anuradhapura without any shortage.
+
+◼️
+
+[Data](articles/089723f5.json)
+
+[Extended Data](ext_articles/089723f5.ext.json)
+
+---
+
 ### Sri Lanka to offer new restructuring plan to bondholders, report
 
 *2024-02-21 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-offer-new-restructuring-plan-to-bondholders-report/108-277480) · `en`
@@ -980,6 +1148,26 @@ He said this while speaking at the adjournment debate moved by the Ipposition on
 
 ---
 
+### Thambuththegama sister arrested with her husband
+
+*2024-02-21 13:30:18* · [`adalk`](https://www.ada.lk/breaking_news/’’තඹුත්තේගම-අක්කා’’-සැමියා-සමග-අත්අඩංගුවට/11-408212) · `si`
+
+A woman named 'Easy Cash' in the Anuradhapura HSZ and Vice Kumara, who is currently under drug charges, is known to the 'Easy Cash' in the Anuradhapura District and her husband nearing heroin near the Anuradhapura district.The Criminal Investigation Bureau of the Criminal Investigation Bureau says he was arrested yesterday (20).
+
+The Rajanganaya Fifth Post is a 32-year-old resident of Randindenigigama, a 32 year old resident of Randindenigigama. Police say that the suspect had been in prison and had telephoned and had their voices.
+
+The woman who is associated with the manner in Minuwangoda area is hiding in different places in the Minuwangoda area, police said the police said.
+
+Police said that the suspect and the suspect was arrested in the Anuradhapura Police Division in Anuradhapura and that the suspect was arrested and found 15 g of drugs.They were to be produced before the Anuradhapura Magistrate's Court today (21).
+
+...
+
+[Data](articles/711ae984.json)
+
+[Extended Data](ext_articles/711ae984.ext.json)
+
+---
+
 ### Fans standing in line to buy T20 tickets
 
 *2024-02-21 13:28:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/T20-டிக்கெட்-வாங்க-வரிசையில்-நிற்கும்-ரசிகர்கள்/44-333587) · `ta`
@@ -997,6 +1185,26 @@ According to reports, cricket fans stood in line from 03.00 am today.
 [Data](articles/ace0ed09.json)
 
 [Extended Data](ext_articles/ace0ed09.ext.json)
+
+---
+
+### Kaduwela Magistrate's Order will be powerless in Homagama
+
+*2024-02-21 13:26:44* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙල-මහේස්ත්‍රාත්-නියෝගය-හෝමාගම-මහාධිකරණය-බල-රහිත-කරයි/11-408211) · `si`
+
+Kaduwela Magistrate's Court to be arrested by the Kaduwela Police and the Criminal Investigation Division in the Criminal Investigation Division under the operation of justice.Homal Ranaweera ordered the Inspector General of Police to seize the illegal assets of the Criminal Investigation Division without the re-investigating the Criminal Investigation Department.
+
+Accordingly, Mrs. Chanima Wijaya Bandara was given by Mrs. Chanama Wijaya Bandara on the 17th.
+
+The order of Kaduwela Magistrate Chanima Wije Bandara on the 17th of this order the owners of the property had been taken back on the illegal contact division (5) and the custody of the custody.
+
+Deputy Solicitor General Savigation Division of the Attorney General and the Criminal Investigation Division on behalf of the Attorney General was held on behalf of the Attorney General.
+
+...
+
+[Data](articles/8b8f16b0.json)
+
+[Extended Data](ext_articles/8b8f16b0.ext.json)
 
 ---
 
@@ -1021,6 +1229,24 @@ The two suspects arrested in connection with the double murder have been detaine
 [Data](articles/c99b7cbe.json)
 
 [Extended Data](ext_articles/c99b7cbe.ext.json)
+
+---
+
+### A hybrid method to solve crises
+
+*2024-02-21 13:21:11* · [`adalk`](https://www.ada.lk/breaking_news/අර්බුද-විසඳීමට-හයිබ්‍රිඩ්-ක්‍රමයක්/11-408210) · `si`
+
+Leader of the United States, MP Patali Champika Ranawaka says that a hybrid solution will be resolved in the country's crisis.
+
+The subscription of pure politicians and a new vision professionals are important. Ranawaka believes that the part of the two parties can solve the crises facing the country.
+
+The rejection of 225 members of the present Parliament is popular. But 225 is not responsible for the country's crisis. Ranawaka points out that although he is responsible for its responsible parties, but in 225 with accurate and accurate politicians.
+
+...
+
+[Data](articles/3ad2922d.json)
+
+[Extended Data](ext_articles/3ad2922d.ext.json)
 
 ---
 
@@ -1341,6 +1567,24 @@ Yuvati had a love affair with this suspect who had fled with a knife. He stopped
 [Data](articles/6aac7e0e.json)
 
 [Extended Data](ext_articles/6aac7e0e.ext.json)
+
+---
+
+### 30000 Transport Officers arrested for busy buses
+
+*2024-02-21 11:58:15* · [`adalk`](https://www.ada.lk/breaking_news/බස්-ව්‍යාපාරිකයාගෙන්-රු-30000-ක-අල්ලසක්-ගත්-ප්‍රවාහන-නිලධාරීන්-දෙකක්-අල්ලයි/11-408208) · `si`
+
+Two officers of the Central Province Transport Authority and the Investigation Officers of the Central Provincial Transport Authority (Investigation Officers) were arrested by the Investigation Commission (Investigation Officers) of the Investigation Commission (Investigation) of the Investigation Commission to obtain a bribe of Rs.The Commission of Investigation Committee says.
+
+Furthermore required to provide a letter to the fundamental bus to be taken over by the complainant by the businessman's location and implementing the existing bus class and change the existing bus class and change the bus class.To make
+
+This bribe has been obtained, he said.Rs. 30,000 / - accepting a bribery and assistance to assistance for this is the accusation against the Central Province Transport Service Authority, the Management Assistant of the Central Province Transport Affairs Authority.
+
+...
+
+[Data](articles/b4822efe.json)
+
+[Extended Data](ext_articles/b4822efe.ext.json)
 
 ---
 
@@ -1835,223 +2079,5 @@ He said that the victoria reservoir is expected to have a large number of ilms, 
 [Data](articles/32fcd028.json)
 
 [Extended Data](ext_articles/32fcd028.ext.json)
-
----
-
-### Electricity tariff to be reduced in greater margin than earlier proposed: Minister
-
-*2024-02-21 09:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-tariff-to-be-reduced-in-greater-margin-than-earlier-proposed-Minister/108-277469) · `en`
-
-The government had decided to reduce the electricity tariff in a greater margin than proposed in the earlier proposal and that the amended proposal would be submitted to the Public Utilities Commission of Sri Lanka (PUCSL) shortly, Power and Energy Minister Kanchana Wijesekara said yesterday.
-
-He told parliament that the Ceylon Electricity Board (CEB) had included expenditure in the proposal to complete the maintenance work which was due for the last four years within this financial year.
-
-The Minister said the government instructed the CEB not to include the said expenditure for the current financial year and allocate the funds for the maintenance within the next three years.
-
-He said the CEB was drafting a new proposal on electricity tariff after considering the various proposals made during the public hearing of the PUCSL and proposals made by various parties including engineers at universities on tariff revision to the CEB.
-
-...
-
-[Data](articles/c3ed7d66.json)
-
-[Extended Data](ext_articles/c3ed7d66.ext.json)
-
----
-
-### Man hit fire in Mahabage
-
-*2024-02-21 09:51:35* · [`adalk`](https://www.ada.lk/breaking_news/මහබාගේ-වෙඩි-තැබිමකින්-පුද්ගලයෙක්-ජිවිතක්ෂයට/11-408205) · `si`
-
-A man was killed when two unidentified persons who came in a motorcycle near the joint near the joint at the Maga's police division.
-
-The deceased has been identified as Hettiarachchige Don Sujith was a relative of the organized criminal of the handing of the sand.
-
-◼️
-
-[Data](articles/8d627e07.json)
-
-[Extended Data](ext_articles/8d627e07.ext.json)
-
----
-
-### More tourists throng Kataragama
-
-*2024-02-21 09:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/More-tourists-throng-Kataragama/110-277462) · `en`
-
-An unprecedented number of tourists visited Kataragama yesterday (20) and attended religious rituals at the Kiriwehera and Devalaya premises.
-
-◼️
-
-[Data](articles/500db76f.json)
-
-[Extended Data](ext_articles/500db76f.ext.json)
-
----
-
-### Close associate of ‘Welle Saranga’ shot dead
-
-*2024-02-21 09:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Close-associate-of-Welle-Saranga-shot-dead/108-277472) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - A man was killed after two unidentified men on a motorcycle opened fire at him in Mahabage this morning.
-
-According to initial investigations, the victim has also been identified as a close associate of drug trafficker Saranga Pradeep alias 'Welle Saranga'.
-
-◼️
-
-[Data](articles/eb032004.json)
-
-[Extended Data](ext_articles/eb032004.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-02-21 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193638) · `si`
-
-Parliamentary Business has commenced under the patronage of the Deputy Speaker.
-
-◼️
-
-[Data](articles/3f47bcc5.json)
-
-[Extended Data](ext_articles/3f47bcc5.ext.json)
-
----
-
-### WHO team to travel to Sri Lanka to help eliminate leprosy
-
-*2024-02-21 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97424/who-team-to-travel-to-sri-lanka-to-help-eliminate-leprosy) · `en`
-
-A special medical team of the World Health Organization (WHO) specializing in leprosy is scheduled to travel to Sri Lanka in March.
-
-According to the Anti-Leprosy Campaign (ALC), the WHO will be helping the local health authorities to create a roadmap to eliminate leprosy from Sri Lanka over the next 10 years.
-
-Speaking further, ALC Director Dr. Prasan Ranaweera said the number of leprosy patients found in Sri Lanka has significantly increased.
-
-“Accordingly, we have already initiated a comprehensive program to eliminate leprosy from Sri Lanka. […] The World Health Organization has informed us it would send a team of specialist doctors here in March to assist this [initiative]. They will create a roadmap to eradicate leprosy within the next 10 years.”
-
-◼️
-
-[Data](articles/f8652cb9.json)
-
-[Extended Data](ext_articles/f8652cb9.ext.json)
-
----
-
-### If the Edka Agreement is signed, Indians are Sri Lankan permanent immigrants - Wimal Weerawansa Chadal
-
-*2024-02-21 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176922) · `ta`
-
-If the Edka Agreement is signed as a permanent drinking in Sri Lanka 200 years ago, Indians will drink permanently in Sri Lanka. The PA is shameless to look at the anti -national activities of the president. Prime Minister Dinesh Gunawardena acts like a cat. Wimal Weerawansa, the leader of the National Freedom Front and Member of Parliament, said that the cabinet members are like fools.
-
-At a session held in Parliament on Tuesday (20), seven Bill Bill, including the Bill of the Bill and the Believers of the Bill, the Bill, were taken for a second reading.
-
-It is not true that the ruling parties have said that the president has taken steps to recover from the economic impact, but only in the case of intensifying the crisis instead of the crisis.
-
-Primitting national institutions and state institutions will threaten national security. Therefore, the Mahanayaka Thera has urged the President to reconsider the restructuring resolutions.
-
-...
-
-[Data](articles/6f352eb3.json)
-
-[Extended Data](ext_articles/6f352eb3.ext.json)
-
----
-
-### Snake
-
-*2024-02-21 09:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/பாம்பு-தீண்டி-கர்ப்பிணி-மரணம்/75-333568) · `ta`
-
-A 3 -month -old pregnant mother has died after being a snake bite in the Trincomalee - Morawewa police division, police said.
-
-In this, Imesha Kumari (age 23), a three -month -old pregnant mother from the Morawewa Venus area of Trincomalee, was targeted for a cow.
-
-The pregnant woman was admitted to the Mahadulvewa Divisional Hospital, but died. The body has been sent to the Trincomalee General Hospital for autopsy. Remble
-
-◼️
-
-[Data](articles/ba90d0eb.json)
-
-[Extended Data](ext_articles/ba90d0eb.ext.json)
-
----
-
-### Sri Lanka - Afghan third T20 match today
-
-*2024-02-21 09:24:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கை-ஆப்கான்-மூன்றாவது-டி20-போட்டி-இன்று/44-333567) · `ta`
-
-The third T20 match between Sri Lanka and Afghanistan will be held today (21).
-
-The Sri Lankan team won the first two matches 2-0.
-
-The Sri Lankan team has won all Tests, ODIs and T20 matches so far.
-
-◼️
-
-[Data](articles/3977d774.json)
-
-[Extended Data](ext_articles/3977d774.ext.json)
-
----
-
-### Solution to Tamil Politics: President's fake promises no longer win - Tamil National Alliance
-
-*2024-02-21 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176921) · `ta`
-
-The president only takes the international deceptive activities to address the problems of Tamils. The presidential election targets the election 'as a political solution for Tamils. Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam said that if the government does not take progress this year to address the Tamil issue, the government is sure to fail.
-
-Seven Bill Bill, including the Bill of the Bill, the Bill of the Bill, and the Bill of the Bill, were taken for a second reading at a session held in Parliament on Tuesday (20).. He mentioned the above.
-
-The government notes that new laws are being brought in to recover from the economic crisis. But last year alone, more than two lakhs of small and medium industries were closed. At present, about 11 thousand industries have been shut down.
-
-...
-
-[Data](articles/0c624f9e.json)
-
-[Extended Data](ext_articles/0c624f9e.ext.json)
-
----
-
-### CEB to reduce electricity tariff rates by 18 percent?
-
-*2024-02-21 09:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-to-reduce-electricity-tariff-rates-by-18-percent/108-277460) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - The Ceylon Electricity Board (CEB) is planning to reduce electricity tariff rates by 18 percent soon, Daily Mirror learns.
-
-Earlier, the CEB said the price reduction is possible mainly due to the increased percentage of hydropower in the energy mix of the country. Sri Lanka received sufficient rainfall recently increasing the power generation capacity of major plants.
-
-It is now expected to submit proposals for tariff reduction to the Public Utilities Commission of Sri Lanka. The tariff rates were increased for the last time in October, last year.
-
-The decision to raise tariffs came after the Ceylon Electricity Board requested the PUCSL to adjust electricity prices to offset the costs incurred during periods of arid weather conditions in the South Asian country.
-
-Also, the CEB raised the tariff by 66 percent in February, and there was a reduction in the rates by 14 percent with effect from July.
-
-◼️
-
-[Data](articles/0c8b1363.json)
-
-[Extended Data](ext_articles/0c8b1363.ext.json)
-
----
-
-### Bank loans have been reduced by 13 percent - the Minister of Finance
-
-*2024-02-21 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176919) · `ta`
-
-Customers have declined by 13 percent to repay loans received from banks. Finance Minister Ranjith Siyambalapitiya said that the Central Bank has paid special attention to the impacts of the resolution of the financial situation.
-
-In response to questions posed by the opposition members, including the Leader of the Opposition, on the issues faced by small and middle -class entrepreneurs during a session in Parliament on Tuesday (20).
-
-Special attention cannot be paid to the crises faced by a party amid economic impact. Considering the welfare of the entire people, important decisions have been made on the financial situation.
-
-It is essential to protect the country's bank structure.. There are 5 crore 75 lakh bank deposits in the country.
-
-Of these, 60 percent of depositors have less than 5,000 deposits. Therefore, the Central Bank has paid special attention to the fact that there will be any impact on any of the financial situation.
-
-◼️
-
-[Data](articles/d2107d68.json)
-
-[Extended Data](ext_articles/d2107d68.ext.json)
 
 ---

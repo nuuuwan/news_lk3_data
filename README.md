@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 19:17:23**
+As of **2024-02-21 19:33:17**
 
 ## Newspaper Stats
 
-*Scraped **8,522** Articles*
+*Scraped **8,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 436
 islandlk | 443
 dailyftlk | 456
-adalk | 729
+adalk | 731
 adaderanalk | 1,028
 tamilmirrorlk | 1,055
 virakesarilk | 1,145
@@ -26,7 +26,7 @@ dailymirrorlk | 1,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,522 (100.0%) of 8,522 articles have been extended.
+8,522 (100.0%) of 8,524 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,24 @@ Afghanistan Leading Ibrahim was able to win the Third and Final Thirteen match b
 [Data](articles/912f266f.json)
 
 [Extended Data](ext_articles/912f266f.ext.json)
+
+---
+
+### ඉහළ දැමූ ප්‍රතිශතය රිවස් කරයි
+
+*2024-02-21 18:21:11* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-දැමූ-ප්‍රතිශතය-රිවස්-කරයි/11-408222) · `si`
+
+2023 ඔක්තෝම්බර් මාසයේදී විදුලිබිල එක් එක් කාණ්ඩ යටතේ ඉහළ දැමූ ප්‍රතිශතයන් සම්පූර්ණයෙන් ඉවත් කිරීමට කටයුතු කරන බව කරන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+
+ඒ අනුව ගෘහස්ථ කාණ්ඩයේ සහ ආගමික සිද්ධස්ථාන වල 18%න්, කර්මාන්ත සහ හෝටල් කාණ්ඩය 12%න් සහ රජයේ ආයතන කාණ්ඩය 24%න් විදුලි බිල අඩු කිරීමට කටයුතු කරන බව පාර්ලිමේන්තුවේ අද (21දා) පැවති කල් තැබීමේ විවාදයට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+
+"අපි මහජන උපයෝගීතා කොමිසම දැනුවත් කළා. මම සඳුදා කැබිනට් මණ්ඩලයත් දැනුවත් කළා. අපි කලින් දුන්න යෝජනාවට වඩා අඩු කරන්න පුළුවන් තැන් කිහිපයක් තියෙනවා. විදුලිබල මණ්ඩලය දැනුවත් කළා හෙට අපි ඒ යෝනජව මහජන උපයෝගීතා කොමිසමට ලබා දෙනවා කියලා.
+
+මේ රටේ ජනතාවට ගෘහස්ථ කාණ්ඩයේ සහ ආගමික සිද්ධස්ථාන වල 18%න් වැඩි කළා. අපි කර්මාන්ත සහ හෝටල් කාණ්ඩය 12%න් අපි ඔක්තෝම්බර් මාසයේ බිල වැඩිකිරීමක් කළා. අලේ තියෙන රජයේ ආයතන කාණ්ඩය ඇතුලේ 24%න් අපි ඔක්තෝම්බර් මාසයේ බිල වැඩි කිරීමක් කළා. ඒ අනුව විදුලිබල මණ්ඩලය අපිට කිව්වේ  ඔක්තෝම්බර් මාසයේ අපි වැඩි කළ මිල සම්පූර්ණයෙන්ම ඉවත් කරන්න කටයුතු කරනවා කියලා."
+
+◼️
+
+[Data](articles/9255bc43.json)
 
 ---
 
@@ -1258,6 +1276,22 @@ The bodies have been placed in the hospital morgue and is now obstructed to dela
 
 ---
 
+### වැඩිහිටියන් බලා ගැනීමට ප්‍රතිපත්තියක්
+
+*2024-02-21 13:45:25* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිහිටියන්-බලා-ගැනීමට-ප්‍රතිපත්තියක්/11-408216) · `si`
+
+මෙරට වැඩිහිටි ජනගහනය වෙනුවෙන් ලබා දියයුතු   සෞඛ්‍ය පහසුකම් තවමත් අපේ සෞඛ්‍ය පද්ධතිය තුළ නිසි පරිදි සකස්වී නැතැයි සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය රමේෂ් පතිරණ මහතා පැවසීය.
+
+මේ හේතුවෙන්   වැඩිහිටි ජනගහනය සෞඛ්‍ය පද්ධතියටත් ඒ අයගේ බාරකරුවන්ටත් ගැටලුවක් වී ඇතැයිද කී අමාත්‍යවරයා මේ තත්වයට විසඳුමක් ලෙස වැඩිහිටි ජනතාවට අවශ්‍ය සෞඛ්‍ය පහසුකම් මෙන්ම ඔවුන් රැක බලාගැනීම පිලිබඳව ඉදිරියේදී ප්‍රතිපත්ති සම්පාදනඒ ය කරන බව ද අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+
+අද 21 පෙරවරුවේ බෙන්තොට රෝහලේ නිරීක්ෂණ චාරිකාවකට පැමිණි අමාත්‍යවරයා රැස්ව සිටි පිරිස අමතමින් මේ අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/b5a9bbe8.json)
+
+---
+
 ### Court orders five STF officers
 
 *2024-02-21 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193648) · `si`
@@ -2027,51 +2061,5 @@ In this project, the three-wheelers that are currently powered by fuel will be c
 [Data](articles/dfbbf9fe.json)
 
 [Extended Data](ext_articles/dfbbf9fe.ext.json)
-
----
-
-### Ministry to popularize registration and use of electric vehicles in relation to e-mobility policy
-
-*2024-02-21 11:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ministry-to-popularize-registration-and-use-of-electric-vehicles-in-relation-to-e-mobility-policy/108-277475) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - A total of 1,184,423 three-wheelers are currently registered in Sri Lanka and the Transport Ministry is to implement a pilot project to popularize the registration and use of electric vehicles as a basic activity in relation to the e-mobility policy.
-
-With the aim of reducing environmental damage and limiting the increasing use of fuel-efficient three-wheelers, the electrification pilot project was implemented by the Transport and Highways Ministry and the Department of Motor Transport in collaboration with the United Nations Development Agency (UNDP).
-
-A progress review meeting in this regard was held at the Ministry where stakeholders were informed.
-
-In this project, the three-wheelers that are currently powered by fuel will be converted to electricity, and the opinions of all stakeholders were consulted and discussed about the relevant technical, operational and practical conditions.
-
-◼️
-
-[Data](articles/e18f58e3.json)
-
-[Extended Data](ext_articles/e18f58e3.ext.json)
-
----
-
-### Security Council resolution to demand immediate ceasefire in Gaza - USA used veto for the third time
-
-*2024-02-21 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176930) · `ta`
-
-The United States has used its veto power against the United Nations Security Council resolution demanding an immediate ceasefire in Gaza.
-
-Significantly, the US has used its veto power for the third time against the United Nations Security Council resolution, seeking an immediate post after October seven.
-
-The US said the immediate ceasefire would affect negotiations on the release of hostages.
-
-The US has only voted against the resolution brought by Algeria - while Britain has avoided voting and 13 countries have voted in favor.
-
-These countries say the humanitarian need for the Palestinian people is a major issue.
-
-While more than 30,000 people have been killed, 2 million people have been hungry and there have been widespread protests against the US use its veto power against the immediate ceasefire.
-
-The Algerian Representative to the UN said that it is important to support this copy of the resolution for the right to live in Palestinians.
-
-...
-
-[Data](articles/39d5891a.json)
-
-[Extended Data](ext_articles/39d5891a.ext.json)
 
 ---

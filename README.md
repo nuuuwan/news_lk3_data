@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 03:33:06**
+As of **2024-02-22 03:50:19**
 
 ## Newspaper Stats
 
-*Scraped **8,590** Articles*
+*Scraped **8,593** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 91
 bbccomsinhala | 105
-dbsjeyarajcom | 156
+dbsjeyarajcom | 159
 newsfirstlk | 363
 economynextcom | 442
 islandlk | 443
@@ -26,7 +26,7 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,589 (100.0%) of 8,590 articles have been extended.
+8,590 (100.0%) of 8,593 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -130,15 +130,17 @@ The warning serves as a reminder for individuals to avoid prolonged exposure to 
 
 ---
 
-### அமைச்சரவை செயலாளர் நியமனம்
+### Appointment of Cabinet Secretary
 
 *2024-02-22 01:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-செயலாளர்-நியமனம்/175-333631) · `ta`
 
-கடந்த 14 ஆம் திகதி முதல் அமுலாகும் வகையில் இந்த நியமனம் வழங்கப்பட்டுள்ளதாக குறிப்பிடப்பட்டு அதிவிசேட வர்த்தமானி வெளியிடப்பட்டுள்ளமை குறிப்பிடத்தக்கது. (a)
+It is worth noting that the appointment has been issued from the 14th of this month.. (A)
 
 ◼️
 
 [Data](articles/acb5ffb0.json)
+
+[Extended Data](ext_articles/acb5ffb0.ext.json)
 
 ---
 

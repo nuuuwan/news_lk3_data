@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 10:50:30**
+As of **2024-02-21 11:02:23**
 
 ## Newspaper Stats
 
-*Scraped **8,397** Articles*
+*Scraped **8,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ economynextcom | 430
 islandlk | 443
 dailyftlk | 456
 adalk | 713
-adaderanalk | 1,013
+adaderanalk | 1,014
 tamilmirrorlk | 1,036
 virakesarilk | 1,126
 adaderanasinhalalk | 1,222
-dailymirrorlk | 1,243
+dailymirrorlk | 1,244
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,397 (100.0%) of 8,397 articles have been extended.
+8,399 (100.0%) of 8,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### India’s Calicut airport to have direct air links with Sri Lanka
+
+*2024-02-21 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97425/indias-calicut-airport-to-have-direct-air-links-with-sri-lanka-) · `en`
+
+India’s Calicut International Airport may soon have direct air links with Kuala Lumpur, Bangkok, and Colombo if the assurances made at a meeting of people’s representatives and airport-airline officials held in Karipur on Monday are implemented.
+
+Malaysia’s budget airline AirAsia has evinced interest to operate services from Karipur to Kuala Lumpur and Bangkok, while Sri Lanka’s low-cost airline FitsAir has come forward to fly between Colombo and Karipur.
+
+The budget airlines of Malaysia and Sri Lanka stepped in to tap the potentials of Karipur even as many other foreign airlines remained wary of the Calicut International Airport’s future in the wake of the inordinate delay in resuming services of wide-body flights from Karipur.
+
+The meeting, chaired by Airport Advisory Committee chairman Abdussamad Samadani, MP, also made assurances about increasing domestic flight services to Thiruvananthapuram and Delhi, and international services to Jeddah.
+
+...
+
+[Data](articles/a0611221.json)
+
+[Extended Data](ext_articles/a0611221.ext.json)
+
+---
 
 ### Another goal - Meat Mudalali kills
 
@@ -431,6 +451,28 @@ Amir-Abdollahian arrived in Colombo late on Monday for talks with senior officia
 [Data](articles/f60cea5b.json)
 
 [Extended Data](ext_articles/f60cea5b.ext.json)
+
+---
+
+### Medical experts ring alarm bells over hot weather
+
+*2024-02-21 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Medical-experts-ring-alarm-bells-over-hot-weather/155-277426) · `en`
+
+Colombo, Feb 20 (Daily Mirror) -  In light of the prevailing hot weather conditions in the country, medical experts strongly advise individuals to minimize their exposure to sunlight and to drink plenty of fluids on a frequent basis.
+
+Senior Consultant Physician Dr. Ananda Wijewickrama told Daily Mirror that it is highly advisable for people to prioritize hydration by consuming natural beverages such as water, king coconut, while steering clear of artificial drinks.
+
+When asked who could be at risk, he said children, expectant mothers, the elderly and those taking treatment for various illnesses are at risk of dehydration due to the extreme temperatures.
+
+“Thus, those at risk should limit exposure to sunlight and stay hydrated to avoid dehydration. An adult should drink at least 2.5 litres of water,” Dr Wijewickrama pointed out.
+
+Furthermore, he advised schoolchildren to keep away from outdoor activities, especially non-essential outdoor functions.
+
+...
+
+[Data](articles/00ac8845.json)
+
+[Extended Data](ext_articles/00ac8845.ext.json)
 
 ---
 
@@ -1929,47 +1971,5 @@ The car is a Limous car similar to the chair and that the two people is a car to
 [Data](articles/b11aa02a.json)
 
 [Extended Data](ext_articles/b11aa02a.ext.json)
-
----
-
-### SLPP MP ordained as Buddhist monk
-
-*2024-02-20 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-MP-ordained-as-Buddhist-monk/108-277410) · `en`
-
-Colombo, Feb 20 (Daily Mirror)- SLPP MP Gunatileke Rajapaksa has been temporarily ordained as a Buddhist monk. The MP is now called Venerable Harispathuwe Dhammarathana Thera.
-
-His son has also been ordained as Venerable Ampare Dhammaloka Thera.
-
-Both have been ordained at the historical Isipathanarama Temple in India.
-
-The MP had reportedly decided to enter into the religious order after the death of his wife.
-
-◼️
-
-[Data](articles/73717c32.json)
-
-[Extended Data](ext_articles/73717c32.ext.json)
-
----
-
-### Sri Lanka is not the regional of the United States - the government responds to the US ambassador's opinion
-
-*2024-02-20 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/176891) · `ta`
-
-Sri Lanka is not the region of the United States. The government has responded to the US ambassador that the sovereignty of our country's independent parliament has the right to legal programs.
-
-US Ambassador Julie Sang said at a meeting with media chiefs, journalists and civil society organizations that he was concerned about the current backup law.
-
-Cabinet spokesman Bandula Gunawardena said this at a press conference announcing the Cabinet decisions on Tuesday (20).
-
-Sri Lanka is not the US regional. Our country is an independent country of sovereignty. Therefore, in our country, the Parliament of Parliament, a company that produces the Right to Legal Plans, implemented in the Constitutional Council.
-
-Accordingly, amendments were made in the Cabinet last week. They have been submitted to Parliament. These can seek court within 14 days. The court will review them and recommend amendments.
-
-...
-
-[Data](articles/09200891.json)
-
-[Extended Data](ext_articles/09200891.ext.json)
 
 ---

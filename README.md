@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 09:32:54**
+As of **2024-02-21 09:51:31**
 
 ## Newspaper Stats
 
-*Scraped **8,379** Articles*
+*Scraped **8,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 713
 adaderanalk | 1,011
 tamilmirrorlk | 1,036
 virakesarilk | 1,120
-adaderanasinhalalk | 1,219
+adaderanasinhalalk | 1,220
 dailymirrorlk | 1,239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,379 (100.0%) of 8,379 articles have been extended.
+8,380 (100.0%) of 8,380 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ It is revealed that he is the relative of the organized offender called Wella Sa
 [Data](articles/f1c4cc61.json)
 
 [Extended Data](ext_articles/f1c4cc61.ext.json)
+
+---
+
+### Man assaulted by cricket strike
+
+*2024-02-21 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193637) · `si`
+
+A person was attacked with a cricket bind and a stick in the Peradeniya Police Division in Peradeniya.
+
+The deceased has been identified as 55 year old.
+
+It has been revealed that the attack had been carried out due to a personal dispute.
+
+The body has been placed at the Peradeniya Hospital for the post mortem.
+
+◼️
+
+[Data](articles/259062aa.json)
+
+[Extended Data](ext_articles/259062aa.ext.json)
 
 ---
 
@@ -1929,23 +1949,5 @@ By conducting this programme in schools, children will be trained to focus their
 [Data](articles/51464a68.json)
 
 [Extended Data](ext_articles/51464a68.ext.json)
-
----
-
-### Gotabaya’s private secretary resigns
-
-*2024-02-20 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gotabayas-private-secretary-resigns/108-277406) · `en`
-
-Colombo, Feb 20 (Daily Mirror) - Sugishwara Bandara, who served as the private secretary of former President Gotabaya Rajapaksa, has resigned from his position.
-
-He has forwarded the letter to the former President Gotabaya Rajapaksa today (20).
-
-In his letter, he points out that he has decided to resign from his position in anticipation of a new political journey.
-
-◼️
-
-[Data](articles/9253c834.json)
-
-[Extended Data](ext_articles/9253c834.ext.json)
 
 ---

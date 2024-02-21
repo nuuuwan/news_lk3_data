@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 12:33:00**
+As of **2024-02-21 12:48:48**
 
 ## Newspaper Stats
 
-*Scraped **8,422** Articles*
+*Scraped **8,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,33 @@ adaderanalk | 1,015
 tamilmirrorlk | 1,044
 virakesarilk | 1,130
 adaderanasinhalalk | 1,225
-dailymirrorlk | 1,249
+dailymirrorlk | 1,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,419 (100.0%) of 8,422 articles have been extended.
+8,423 (100.0%) of 8,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### கத்திக்குத்தில் இரத்தம் சிந்திய புதிய காதல்
+### New love that shed blood in the knife
 
 *2024-02-21 11:59:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்திக்குத்தில்-இரத்தம்-சிந்திய-புதிய-காதல்/175-333577) · `ta`
 
-இளைஞன் ஒருவரின் பழைய காதலியுடன் மற்றுமொரு நபர், காதல் தொடர்பை கொண்டிருந்ததால் ஆத்திரமுற்ற பழைய காதலன், அந்த நபரை (புதிய காதலனை) கத்தியால் கழுத்தில் குத்திய சம்பவம் கஹதுடுவ பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது. கத்தியால் குத்திய பழைய காதலன், அங்கிருந்து தப்பியோடியுள்ளார் என கஹதுடுவ பொலிஸார் தெரிவித்தனர்.
+The Kahaduduwa police division has taken place in the neck of the old lover, the old boyfriend of the young man, the other man who had a romantic relationship with the old girlfriend. Kahaduduwa police said the old boyfriend who had been stabbed with a knife had fled.
 
-கத்திக்குத்துக்கு இலக்காகி கடும் காயமடைந்த இளைஞன், வேதர மாவட்ட வைத்தியாசலையில் அனுமதிக்கப்பட்டதன் பின்னர் மேலதிக சிகிச்சைகளுக்காக களுபோவில வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+The youth who was severely injured and was severely injured in the Vedara District Hospital after being admitted to the Kalubowila Hospital for further treatment.
 
-கத்தியால் குத்திவிட்டு தப்பியோடியுள்ள இந்த சந்தேகநபருடன் யுவதி காதல் தொடர்பை கொண்டிருந்தார். அந்த தொடர்பை சில மாதங்களுக்கு முன்னர் நிறுதிக்கொண்டார். அதன் பின்னரே, தற்போது கத்திக்குத்துக்கு இலக்கான இளைஞனுடன் காதலை துளிர்விட்டுள்ளாள் என்றும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது என பொலிஸார் தெரிவித்தனர்.
+Yuvati had a love affair with this suspect who had fled with a knife. He stopped that connection a few months ago. After that, the police said that she has now fallen in love with a young man who is aimed at a knife.
 
 ◼️
 
 [Data](articles/6aac7e0e.json)
+
+[Extended Data](ext_articles/6aac7e0e.ext.json)
 
 ---
 
@@ -88,6 +90,26 @@ The National Scout Jambori is being held in Trincomalee with the participation o
 
 ---
 
+### Pilot project underway to convert existing three-wheeler into an EV
+
+*2024-02-21 11:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pilot-project-underway-to-convert-existing-three-wheeler-into-an-EV/108-277475) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - A total of 1,184,423 three-wheelers are currently registered in Sri Lanka and the Transport Ministry is to implement a pilot project to popularize the registration and use of electric vehicles as a basic activity in relation to the e-mobility policy.
+
+With the aim of reducing environmental damage and limiting the increasing use of fuel-efficient three-wheelers, the electrification pilot project was implemented by the Transport and Highways Ministry and the Department of Motor Transport in collaboration with the United Nations Development Agency (UNDP).
+
+A progress review meeting in this regard was held at the Ministry where stakeholders were informed.
+
+In this project, the three-wheelers that are currently powered by fuel will be converted to electricity, and the opinions of all stakeholders were consulted and discussed about the relevant technical, operational and practical conditions.
+
+◼️
+
+[Data](articles/dfbbf9fe.json)
+
+[Extended Data](ext_articles/dfbbf9fe.ext.json)
+
+---
+
 ### Ministry to popularize registration and use of electric vehicles in relation to e-mobility policy
 
 *2024-02-21 11:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ministry-to-popularize-registration-and-use-of-electric-vehicles-in-relation-to-e-mobility-policy/108-277475) · `en`
@@ -104,23 +126,29 @@ In this project, the three-wheelers that are currently powered by fuel will be c
 
 [Data](articles/e18f58e3.json)
 
+[Extended Data](ext_articles/e18f58e3.ext.json)
+
 ---
 
-### உண்மை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்திற்கு மல்வத்து, அஸ்கிரிய பீட மகா சங்கத்தினர் பாராட்டு
+### Malwathu, Asgiriya Petta Maha Sangha
 
 *2024-02-21 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176938) · `ta`
 
-உண்மை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்திற்கு மல்வத்து, அஸ்கிரிய பீட மகா சங்கத்தினர் பாராட்டு தெரிவித்தனர்.
+The Malwathu and the Asgiriya Petta Maha Sangha congratulated the Bill of the Truth and Reconciliation Commission.
 
-உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலகத்தின் பணிப்பாளர் நாயகம் கலாநிதி அசங்க குணவன்ச உள்ளிட்ட அதிகாரிகள், உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்தின் பிரதியொன்றை திங்கட்கிழமை (19)  மல்வத்து அஸ்கிரி மகா மகாநாயக்க தேரர்களிடம் கையளித்தனர்.
+Officials, including the Director General of the Interim Secretariat of the Truth and Reconciliation mechanism, handed over a copy of the Truth, Unity and Reconciliation Commission Bill to the Malwattu Asgiri Mahanaka Thera on Monday (19).
 
-இச்சட்டமூலத்திற்குப் பாராட்டு தெரிவித்த மல்வத்து பீட மகாநாயக்கர் திப்பட்டுவாவே ஸ்ரீ சுமங்கல  தேரர் மற்றும் அஸ்கிரியத் தரப்புப் மகாநாயக்கர்  வரக்காகொட ஸ்ரீ ஞானரதன தேரர் ஆகியோர் இதனை மேலும் பரிசீலனை செய்து பொது நிலைப்பாட்டை அறிவிக்கவும் இணக்கம் தெரிவித்தனர்.
+Malwathu Peeta Mahanayakar Tippattuwawe Sri Sumangala Thera and Asgiriyat Mahanayaka Mahanayaka Varakagoda Sri Gnanaradana Thera agreed to further review the public and declare the public position.
 
-உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலகச் செயற்பாட்டின் முன்னேற்றம் குறித்து அதிகாரிகள் மேலும் மகாநாயக்க தேரர்களுக்கு விளக்கமளித்தனர்.
+Officials further explained the progress of the interim secretariat process of the real and reconciliation mechanism.
 
-...
+Dr. Mahawela Ratanapala Thera, Dr. Murudeniye Dharmaratana Thera and Truth and Reconciliation Mechanism Head of the Interim Secretariat (Policy). Put. Thangarajah, Public Relations Executive Officer Dhanushi de Silva, Senior Law Officers Yasmada Lokunarangoda, Dulan Dasanayake, Coordinator. D. Kotelawala also attended the event.
+
+◼️
 
 [Data](articles/28b6fae9.json)
+
+[Extended Data](ext_articles/28b6fae9.ext.json)
 
 ---
 
@@ -1921,29 +1949,5 @@ S. Thomas’: 236 in 76.2 overs (Thisen Eheliyagoda 94, Ashen Perera 26, Thara
 [Data](articles/6533e327.json)
 
 [Extended Data](ext_articles/6533e327.ext.json)
-
----
-
-### Justice with justice. 7.8 arrested
-
-*2024-02-20 19:50:11* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තියෙන්-රු-බි--7-8ක-මත්ද්‍රව්‍ය-අල්ලයි/11-408202) · `si`
-
-Attorney-at-December 17, December 17, the raids carried out on the 17th of December, police spokesman lawyer said that allegedly arrested for more than Rs. 7800 million.
-
-He said that 57999 raids have been carried out during this period and 57673 suspects have been arrested in the raids.
-
-He further stated that 210 kilos of heroin and 2764kg of cannabis have been arrested during that period.
-
-Nearly forty kilograms of cannabis and 307 kg of cannars have been dissected and the assets have been launched and about 2098.He said he had taken action to rehabilitate.
-
-He added that there were 6891 persons who were invited by open warrants and other non-poisonous errors among the arrested persons.
-
-He said that the public and organized criminals need the support of the public and that the public will be able to support the public for the operation of the people.
-
-◼️
-
-[Data](articles/c5fd1320.json)
-
-[Extended Data](ext_articles/c5fd1320.ext.json)
 
 ---

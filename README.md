@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 20:50:05**
+As of **2024-02-21 21:02:41**
 
 ## Newspaper Stats
 
-*Scraped **8,545** Articles*
+*Scraped **8,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,031
 tamilmirrorlk | 1,062
 virakesarilk | 1,146
 adaderanasinhalalk | 1,252
-dailymirrorlk | 1,271
+dailymirrorlk | 1,272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,535 (99.9%) of 8,545 articles have been extended.
+8,545 (100.0%) of 8,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Electricity tariffs increased in October to be totally reduced in new revision: Minister
+
+*2024-02-21 20:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-tariffs-increased-in-October-to-be-totally-reduced-in-new-revision-Minister/108-277498) · `en`
+
+Parliament, Feb. 21 (Daily Mirror)- The new proposal on the electricity tariff revision aims to reduce the electricity tariffs increased in October last year, which included 18 percent for the domestic category, Power and Energy Minister Kanchana Wijesekara said today.
+
+He told Parliament that the electricity tariffs of domestic consumers and religious places of worship were increased by 18 percent and tariffs on the industry and hotel sector were increased by 12 percent while tariffs on general purpose category including public buildings were increased by 24 percent in October last year and that this tariff increase will be totally reduced in the new tariff revision.
+
+He said the new proposals on the electricity tariff revision will be handed over to the Public Utilities Commission of Sri Lanka (PUCSL) tomorrow.
+
+He said the Ceylon Electricity Board (CEB) had earlier proposed to reduce the tariffs by 3 percent.
+
+◼️
+
+[Data](articles/a833c0e4.json)
+
+---
 
 ### Sri Lankan skipper fined $41,000 for illegal fishing in Seychelles’ EEZ
 
@@ -50,19 +68,23 @@ The fine is payable within 60 days if not, the convict will do a term of 18 mont
 
 [Data](articles/a3acc275.json)
 
+[Extended Data](ext_articles/a3acc275.ext.json)
+
 ---
 
-### கடைசி டி20 போட்டி ஆரம்பம்
+### The last T20 match is the beginning
 
 *2024-02-21 20:09:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடைசி-டி20-போட்டி-ஆரம்பம்/175-333616) · `ta`
 
-இலங்கைக்கு சுற்றுலா மேற்கொண்டுள்ள ஆப்கானிஸ்தான் மற்றும் இலங்கை அணிகளுக்கு இடையிலான இறுதி டி20 கிரிக்கட் போட்டி இன்று (21) நடைபெறவுள்ளது.
+The final T20 cricket match between Afghanistan and Sri Lanka will be held today (21).
 
-குறித்த போட்டியில் நாணய சுழற்சியில் ஆப்கானிஸ்தான் அணி வெற்றிபெற்றுள்ளது. இதன்படி அந்த அணி முதலில் துடுப்பெடுத்தாட தீர்மானித்துள்ளது. R
+Afghanistan won the currency spin in the match. Accordingly, the team decided to bat first. Remble
 
 ◼️
 
 [Data](articles/2a5165e7.json)
+
+[Extended Data](ext_articles/2a5165e7.ext.json)
 
 ---
 
@@ -79,6 +101,8 @@ The Minister made these remarks during a news conference held at the Presidentia
 ...
 
 [Data](articles/7236ad18.json)
+
+[Extended Data](ext_articles/7236ad18.ext.json)
 
 ---
 
@@ -167,6 +191,8 @@ People are expected to stay hydrated and take breaks in the shade as often as po
 ...
 
 [Data](articles/83c79aee.json)
+
+[Extended Data](ext_articles/83c79aee.ext.json)
 
 ---
 
@@ -286,19 +312,23 @@ President's Attorney Upul Jayasuriya, Additional Solicitor General and President
 
 ---
 
-### වැට් ගැන මුදල් කාරක සභාවේ සාකච්ඡාවක්
+### Discussion on VAT
 
 *2024-02-21 18:40:11* · [`adalk`](https://www.ada.lk/breaking_news/වැට්-ගැන-මුදල්-කාරක-සභාවේ-සාකච්ඡාවක්/11-408223) · `si`
 
-2023 නොවැම්බර් මාසයේදී, සියලු වැට් බදු නිදහස් කිරීම් ඉවත් කරන ලද, එකතු කළ අගය මත බදු (සංශෝධන) පනත් කෙටුම්පත මීට පෙර සලකා බැලූ රජයේ මුදල් පිළිබඳ කාරක සභාව විසින් වැට් බදු සංශෝධන පනත් කෙටුම්පතට කමිටුව විසින් කරන ලද නිර්දේශ මුදල් අමාත්යාංීශය විසින් ආදේශ නොකළේ මන්දැයි විමසා සිටියේය.
+In November 2023, all VAT exemptions were removed, the Tax Release (Amendment) Bill was removed by the Committee on the VAT to the VAT Recommendation by the Committee.Was.
 
-ඒ අනුව, අමාත්‍යාංශය විසින් සැලකිල්ලට නොගත් වෛද්‍ය උපකරණ, ගිලන් රථ, ළමුන් සඳහා අධි ප්‍රෝටීන් කෘෂි ආහාර සහ කෘෂිකාර්මික ද්‍රව්‍ය සඳහා වැට් බදු නිදහස් කිරීම නැවත සලකා බලන ලෙස කාරක සභාව මුදල් අමාත්‍යාංශයට නිර්දේශ කර තිබුණි.
+Accordingly, the Committee was recommended to the Ministry of Finance to reconside medical equipment, ambulances and children of the Ministry of medical equipment, ambulances and children.
 
-මේ පිළිබඳ කරුණු සාකච්ඡා වුයේ රජයේ මුදල් පිළිබඳ කාරක සභාව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී (ආචාර්ය) හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (20) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+The committee was discussed when the Committee on Public Finance Member (Dr.) Harsha De Silva yesterday (20) was held yesterday.
+
+The VAT (Amendment) Bill, aims to develop tax rates and registration requirements in accordance with the Government's goal of increasing the income of the income of Sri Lankan income to 14% of GDP. For the VAT tax registrationThe threshold of Rs. 80 million and Rs. Dropped by 60 million. The committee was questioned as to why the local digital and software suppliers will delay the VAT on foreign digital and software suppliers.
 
 ...
 
 [Data](articles/9d4888aa.json)
+
+[Extended Data](ext_articles/9d4888aa.ext.json)
 
 ---
 
@@ -347,6 +377,8 @@ Colombo, Feb 21 (Daily Mirror) - Justifying the recent remark he had made in Mum
 ...
 
 [Data](articles/4f4e7c93.json)
+
+[Extended Data](ext_articles/4f4e7c93.ext.json)
 
 ---
 
@@ -519,6 +551,8 @@ Highlighting that electricity charges had remained stagnant for nearly a decade 
 ...
 
 [Data](articles/48a3d413.json)
+
+[Extended Data](ext_articles/48a3d413.ext.json)
 
 ---
 
@@ -1292,6 +1326,8 @@ The National Resources Protection Movement (NRPM) staged a protest in Colombo to
 
 [Data](articles/b9fc4b8d.json)
 
+[Extended Data](ext_articles/b9fc4b8d.ext.json)
+
 ---
 
 ### Gammanpila presents private member’s bill to remove police powers of Provincial Councils
@@ -1626,21 +1662,23 @@ It further states that the public should not be made to cause stress or traffic.
 
 ---
 
-### ගම්පහ රෝහලේ සී.ටී. ස්කෑන් යන්ත්‍රයත් අක්‍රීයයි
+### CT in Gampaha Hospital. Scan machine is off
 
 *2024-02-21 13:53:10* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-රෝහලේ-සී-ටී--ස්කෑන්-යන්ත්‍රයත්-අක්‍රීයයි/11-408218) · `si`
 
-ගම්පහ දිස්ත්‍රික් මහ රෝහලෙහි සී.ටී.ස්කෑන් යන්ත්‍රය අක්‍රීයවීම හේතුවෙන් රෝගීන් දැඩි අසීරුතාවයකට පත්ව ඇති බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+The patients have been severely impaired due to the offensive of the CTscan in Gampaha District General Hospital.
 
-මාසයක පමණ කාලයක සිට මෙම තත්ත්වය පැවතීම මත හදිසි අනතුරුවලට ලක්වන රෝගීන් මෙන්ම හදිසි පරීක්ෂණ කිරීම පිනිස රාගම සහ කොළඹ ජාතික රෝහල් වෙත රෝගීන් මාරුකර යැවීමට සිදුව ඇති බව මේ සම්බන්ධයෙන් කළ සොයා බැලීමේදී අනාවරණය.
+Investigations have revealed that the patients have been transferred to Ragama and Colombo National Hospitals for patients and emergency to investigate the situation.
 
-ගම්පහ රෝහලට ඉතා අවශ්‍යව පැවති මෙම ස්කෑන් යන්ත්‍රය මීට වසර කිහිපයකට පෙර ලැබී ඇති අතර මේ වනවිට ඊට යෙදිය යුතු කොටසක් සවිකළ යුතුව ඇති මුත්  අදාල සමාගමෙහි වගකීම් කාලය අවසන් බැවින් වාර්ෂික සේවා ගිවිසුම සෞඛ්‍ය අමාත්‍යාංශය මගින් අත්සන් කිරීම සිදු නොවීම මත මෙය අලුත් වැඩියා කිරීම පමාවී ඇති බව දැනගන්නට ඇත.
+The scanner has been received a few years ago and the annual service adopted is that the company has not been signed by the Ministry of Health.has.
 
-ගම්පහ දිස්ත්‍රික් මහ රෝහලේදී දෛනිකව අවම වශයෙන් හදිසි රෝගීන් 10 - 15 ක් පමණ සී.ටී.ස්කෑන් පරීක්ෂණ සදහා යොමු කිරීමට සිදුවන තත්ත්වයක් පවතින බැවින් දැනට යන්ත්‍රය අක්‍රීයව පැවතීම හේතුවෙන් රෝගීන් වෙනත් රෝහල් කරා යැවීමට සිදුව තිබීම කෙරෙහි අවධානය යොමු කොට එය අලුත්වැඩියා කිරීමට අදාල බලධාරීන් අවශ්‍ය පියවර ගතයුතුව ඇත.
+At least 10 - 15 sudden patients at the Gampaha District General Hospital is a measure of rename of casc as the machine to other hospitals, as the machine is currently inactive.Is to be taken.
 
 ◼️
 
 [Data](articles/ccd33a9b.json)
+
+[Extended Data](ext_articles/ccd33a9b.ext.json)
 
 ---
 
@@ -1928,6 +1966,8 @@ A procession (perahera) was held last night to commemorate the 134th birth anniv
 
 [Data](articles/282b3d00.json)
 
+[Extended Data](ext_articles/282b3d00.ext.json)
+
 ---
 
 ### Kaduwela Magistrate's Order will be powerless in Homagama
@@ -2043,25 +2083,5 @@ The police action came as the government of Prime Minister Narendra Modi made a 
 [Data](articles/89333fd5.json)
 
 [Extended Data](ext_articles/89333fd5.ext.json)
-
----
-
-### A few changes in the Sri Lankan team?
-
-*2024-02-21 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193644) · `si`
-
-The third and final Twenty20 team between the Sri Lanka team and the Sri Lankan team will be held today (21).
-
-The Sri Lankan team will be conducted in the final of the Sri Lanka-Afgunshana T20 tournament.
-
-Dhanga de Silva, Mah, Mah and Buddhist sources say that Akila Janith Perera will be summoned to the match.
-
-It is also reported that Kamindu Mendis will also have a chance today.
-
-◼️
-
-[Data](articles/2e94464a.json)
-
-[Extended Data](ext_articles/2e94464a.ext.json)
 
 ---

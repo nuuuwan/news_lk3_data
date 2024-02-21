@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 08:50:18**
+As of **2024-02-21 09:02:33**
 
 ## Newspaper Stats
 
-*Scraped **8,370** Articles*
+*Scraped **8,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 713
 adaderanalk | 1,009
 tamilmirrorlk | 1,030
 virakesarilk | 1,120
-adaderanasinhalalk | 1,218
+adaderanasinhalalk | 1,219
 dailymirrorlk | 1,239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,370 (100.0%) of 8,370 articles have been extended.
+8,370 (100.0%) of 8,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### රාගම වෙඩිතැබීමක්
+
+*2024-02-21 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193636) · `si`
+
+අද (21) උදෑසන 7.15ට පමණ මහබාගේ පොලිස් වසමේ ඇලපිටිවල හංදිය ආසන්නයේ දී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් වෙඩිතැබීමක් සිදුකර තිබේ.
+
+එම අවස්ථාවේ දී වෙඩිවැදීමෙන් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය පවසයි.
+
+ඔහු වැල්ලේ සාරංග නැමති සංවිධානාත්මක අපරාධකරුගේ ඥාතියෙකු වන බවට තොරතුරු අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/32d9f896.json)
+
+---
 
 ### Medical experts ring alarm bells over hot weather
 
@@ -1925,23 +1941,5 @@ President Ranil Wickremesinghe had presented this information to the Cabinet reg
 [Data](articles/d3931f49.json)
 
 [Extended Data](ext_articles/d3931f49.ext.json)
-
----
-
-### The latest group of England visas
-
-*2024-02-20 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193617) · `si`
-
-It has been decided to submit visa for 3,000 Indian professionals by England.
-
-According to foreign media reports, they will have the opportunity to settle in England for two years, education and professional activities.
-
-Indians between the ages of 18 and 30 can apply for it.
-
-◼️
-
-[Data](articles/815f4e76.json)
-
-[Extended Data](ext_articles/815f4e76.ext.json)
 
 ---

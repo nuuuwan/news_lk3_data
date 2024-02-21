@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 19:50:15**
+As of **2024-02-21 20:02:41**
 
 ## Newspaper Stats
 
-*Scraped **8,528** Articles*
+*Scraped **8,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 443
 dailyftlk | 456
 adalk | 731
 adaderanalk | 1,029
-tamilmirrorlk | 1,058
-virakesarilk | 1,145
+tamilmirrorlk | 1,059
+virakesarilk | 1,146
 adaderanasinhalalk | 1,249
 dailymirrorlk | 1,266
 
@@ -26,11 +26,47 @@ dailymirrorlk | 1,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,528 (100.0%) of 8,528 articles have been extended.
+8,528 (100.0%) of 8,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### எந்தவித அழுத்தங்கள் வந்தாலும் ஆரம்பிக்கப்பட்ட எந்தவொரு நடவடிக்கையும் நிறுத்தப்படமாட்டாது - பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ்
+
+*2024-02-21 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176996) · `ta`
+
+போதைப்பொருள் மற்றும் பாதாள உலகத்தை ஒடுக்குவதற்கும், பெண்கள் மற்றும் சிறுவர்களுக்கு எதிரான வன்முறைகளைத் தடுக்கும் நோக்கிலும் ஆரம்பிக்கப்பட்டுள்ள எந்தவொரு நடவடிக்கையையும் நிறுத்தத் தயாரில்லை என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்தார்.
+
+மேலும், 2023 டிசம்பர் 17 ஆம் திகதி ஆரம்பிக்கப்பட்ட “யுக்திய” நடவடிக்கையின் மூலம் கைப்பற்றப்பட்ட போதைப்பொருட்களின் பெறுமதி 7.8 பில்லியன் ரூபா எனவும் அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (21) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் இவ்வாறு தெரிவித்தார்.
+
+போதைப்பொருள் மற்றும் பாதாள உலகத்தை ஒடுக்குதல் மற்றும் பெண்கள் மற்றும் சிறுவர்களுக்கு எதிரான வன்முறைகளைத் தடுப்பது தொடர்பான நடவடிக்கைகள் தொடர்ச்சியாக மேற்கொள்ளப்பட்டு வருகின்றன. எத்தகைய அழுத்தங்கள் வந்தாலும் இந்த செயற்பாடுகளை நிறுத்துவதற்கு நாங்கள் தயாராக இல்லை.
+
+...
+
+[Data](articles/09b7f077.json)
+
+---
+
+### ”வேண்டுமென்றால் எண்ணெய் விளக்கேற்றிப் படிக்கலாம்”
+
+*2024-02-21 19:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேண்டுமென்றால்-எண்ணெய்-விளக்கேற்றிப்-படிக்கலாம்/175-333613) · `ta`
+
+இலங்கை மின்சார சபையின் (CEB) ஊடகப்பேச்சாளர் நோயல் பிரியந்த, சமீபத்திய தொலைக்காட்சி நிகழ்ச்சியின் போது, ​​இவ்வாறான நிலைமைகளின் போது தங்கள் படிப்பில் சிறந்து விளங்கிய கடந்த தலைமுறையினர் போல் தற்போதைய சிறார்களும் தேவையென்றால் எண்ணெய் விளக்குகளைப் பயன்படுத்திப் படிக்க வேண்டும் என்று கூறி சர்ச்சையைக் கிளப்பியுள்ளார்.
+
+இலங்கையில் அதிகரித்து வரும் மின்சார விலைகள் தொடர்பில் கவலை தெரிவிக்கும் போதே பிரியந்த மேற்கண்டவாறு தெரிவித்தார்.
+
+செலுத்தப்படாத கட்டணங்களால் மின்சாரம் துண்டிக்கப்படுவதால் ஏற்படும் பாதகமான விளைவுகள் குறித்த கேள்விகளுக்கு பதிலளித்த அவர், நுகர்வோர் எதிர்கொள்ளும் கஷ்டங்களை ஒப்புக்கொண்டார், ஆனால் இலவச மின்சார கலாச்சாரத்திலிருந்து மாறியதே இதற்குக் காரணம் என்று கூறினார்.
+
+அண்மைய அதிகரிப்புக்கு முன்னர் மின்சாரக் கட்டணங்கள் ஏறக்குறைய ஒரு தசாப்த காலமாக தேக்கநிலையில் இருந்ததை எடுத்துக்காட்டிய பிரியந்த, அரசாங்கத்திற்கு கணிசமான தொகையை செலுத்த வேண்டிய CEB எதிர்கொள்ளும் நிதி சவால்கள் குறித்து வலியுறுத்தினார்.
+
+...
+
+[Data](articles/fd4c1cdc.json)
+
+---
 
 ### The court heard the report on Shani
 
@@ -2017,49 +2053,5 @@ This bribe has been obtained, he said.Rs. 30,000 / - accepting a bribery and ass
 [Data](articles/b4822efe.json)
 
 [Extended Data](ext_articles/b4822efe.ext.json)
-
----
-
-### Sri Lanka needs private sector in agriculture: Prez
-
-*2024-02-21 11:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-private-sector-in-agriculture-prez-151754/) · `en`
-
-ECONOMYNEXT – Sri Lanka has to adopt modern agriculture techniques and involve the private sector to develop its agriculture sector, President Ranil Wickremesinghe has said.
-
-“Our first step is to restructure the existing system and involve the private sector,” Wickremesinghe said at the United Nations Food and Agriculture Organization’s 37th Asia and Pacific Conference in Colombo on Tuesday.
-
-The conference was attended by representatives from 34 countries including the United States, China, and Russia. Approximately 70 percent of the Asia-Pacific region’s population relies on agriculture.
-
-“When assessing our economy, agriculture emerges as a sector capable of delivering swift results,” Wickremesinghe said. “We are endeavouring to transform agrarian service centres nationwide into modernization hubs for agriculture. To achieve this goal, we are actively seeking contributions from both the public and private sectors.
-
-...
-
-[Data](articles/56f7341b.json)
-
-[Extended Data](ext_articles/56f7341b.ext.json)
-
----
-
-### Ticket to Dambulla is a large number of people
-
-*2024-02-21 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193642) · `si`
-
-Third and the final Twenty Twenty Twenty Twenty20 International match will be held today (21) at the Dambulla International Cricket Stadium.
-
-A large number of people have come to buy tickets to watch the match.
-
-The Ticket Selling Council is installed at the Dambulla Divisional Secretariat premises and it is only to sell only 2,000 tickets.
-
-At the stadium, when he had decided to sell such a ticket to be taken into account the space for the audience, a SLC official said.
-
-In the meantime, some audience accused that only two tickets are issued to the NIC.
-
-The official said that such a decision was made to prevent the "black shop".
-
-◼️
-
-[Data](articles/e9297149.json)
-
-[Extended Data](ext_articles/e9297149.ext.json)
 
 ---

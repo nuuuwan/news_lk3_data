@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 11:17:33**
+As of **2024-02-21 11:33:26**
 
 ## Newspaper Stats
 
-*Scraped **8,399** Articles*
+*Scraped **8,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ economynextcom | 430
 islandlk | 443
 dailyftlk | 456
 adalk | 713
-adaderanalk | 1,014
+adaderanalk | 1,015
 tamilmirrorlk | 1,036
-virakesarilk | 1,126
-adaderanasinhalalk | 1,222
+virakesarilk | 1,129
+adaderanasinhalalk | 1,223
 dailymirrorlk | 1,244
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,399 (100.0%) of 8,399 articles have been extended.
+8,399 (99.9%) of 8,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### தொழுநோயை கட்டுப்படுத்த இலங்கைக்கு வருகை தரவுள்ள உலக சுகாதார ஸ்தாபனத்தின் வைத்திய குழு
+
+*2024-02-21 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176934) · `ta`
+
+தொழுநோயை முற்றாக கட்டுப்படுத்தும் நோக்கில் உலக சுகாதார ஸ்தாபனத்தின் விசேட வைத்திய குழுவொன்று எதிர்வரும் மார்ச் மாதம் நாட்டிற்கு வருகை தரவுள்ளது.
+
+நாட்டில் அடுத்த 10 ஆண்டுகளில் தொழுநோயை முற்றாக  கட்டுப்படுத்துவதற்கான  வரைப்படத்தை உருவாக்க  இந்த குழு சுகாதார அதிகாரிகளுக்கு உதவும் என  தொழுநோய் தடுப்பு பிரிவு தெரிவித்துள்ளது.
+
+நாட்டில் தொழுநோயாளிகளின்  அதிகரித்துள்ளதாக தொழுநோய் ஒழிப்பு பிரிவின் பணிப்பாளர் வைத்தியர் பிரசான் ரணவீர தெரிவித்துள்ளார்.
+
+இலங்கையிலிருந்து தொழுநோயை முற்றாக கட்டுப்படுத்தற்கான விரிவான வேலைத்திட்டத்தை நாங்கள் ஏற்கனவே ஆரம்பித்துள்ளோம். இந்த முயற்சிக்கு உதவுவதற்காக விசேட வைத்திய குழுவை மார்ச் மாதம் இங்கு அனுப்புவதாக உலக சுகாதார ஸ்தாபனம் எங்களுக்குத் அறிவித்துள்ளது. அவர்கள் அடுத்த 10 ஆண்டுகளுக்குள் தொழுநோயை முற்றாக தடுக்க ஒரு வரைபடத்தை உருவாக்குவார்கள் என அவர் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/fef5221a.json)
+
+---
+
+### පළාත් සභාවලින් පොලිස් බලතල ඉවත් කරන්නැයි මන්ත්‍රී යෝජනාවක්
+
+*2024-02-21 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193640) · `si`
+
+මන්ත්‍රී උදය ගම්මන්පිල මහතා පෞද්ගලික මන්ත්‍රී යෝජනා කෙටුම්පතක් පාර්ලිමේන්තුවේදී සභාගත කළේය.
+
+ඉන් ඔහු යෝජනා කර ඇත්තේ 22 වන ව්‍යවස්ථා සංශෝධනය හරහා පළාත් සභාවලින් පොලිස් බලතල ඉවත්කළ යුතු බවය.
+
+◼️
+
+[Data](articles/9132f096.json)
+
+---
+
+### Gammanpila tables Bill seeking to remove police powers from PCs
+
+*2024-02-21 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97426/gammanpila-tables-bill-seeking-to-remove-police-powers-from-pcs) · `en`
+
+MP Udaya Gammanpila has proposed a 22nd Amendment to the Constitution to remove police powers from provincial councils.
+
+It was put forward by way of a Private Member’s Bill tabled in Parliament.
+
+◼️
+
+[Data](articles/ceaab306.json)
+
+---
+
+### காசாவில் உடனடி யுத்தநிறுத்தத்தை கோரும் பாதுகாப்பு சபை தீர்மானம் - மூன்றாவது தடவையாக வீட்டோ பயன்படுத்தியது அமெரிக்கா
+
+*2024-02-21 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176930) · `ta`
+
+காசாவில் உடனடி யுத்தநிறுத்தத்தை கோரும் ஐக்கிய நாடுகள் பாதுகாப்பு சபையின் தீர்மானத்திற்கு எதிராக அமெரி;க்கா தனது வீட்டோ அதிகாரத்தை பயன்படுத்தியுள்ளது.
+
+ஒக்டோபர் ஏழாம் திகதிக்கு பின்னர்  உடனடியுத்தநிறுதத்தை கோரும் ஐக்கிய நாடுகள் பாதுகாப்பு சபை தீர்மானத்திற்கு எதிராக அமெரிக்கா மூன்றாவது தடவை தனது வீட்டோ அதிகாரத்தை பயன்படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+
+உடனடி யுத்தநிறுத்தம் பணயக்கைகதிகள் விடுதலை தொடர்பான பேச்சுவார்த்தைகளை  பாதிக்கும் என அமெரிக்க தெரிவித்துள்ளது.
+
+அல்ஜீரியா கொண்டுவந்த தீர்மானத்திற்கு எதிராக அமெரிக்கா மாத்திரமே வாக்களித்துள்ளது - பிரிட்டன் வாக்களிப்பை தவிர்த்துள்ள அதேவேளை 13 நாடுகள் ஆதரவாக வாக்களித்துள்ளன.
+
+அமெரிக்காவின் நேசநாடுகளும் தீர்மானத்திற்கு ஆதரவாக வாக்களித்துள்ளன பாலஸ்தீன மக்களின் மனிதாபிமான தேவையே பிரதானமான விடயம் என இந்த நாடுகள் தெரிவித்;துள்ளன.
+
+...
+
+[Data](articles/39d5891a.json)
+
+---
+
+### ராகம பகுதியில் துப்பாக்கிச் சூடு ; ஒருவர் பலி
+
+*2024-02-21 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176928) · `ta`
+
+ராகம பகுதியில் இன்று புதன்கிழமை (21) காலை இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ராகம, எலப்பிட்டிவல சந்தியில் உள்ள இறைச்சிக் கடையொன்றுக்கு அருகிலேயே இன்று காலை 7.15 மணியளவில் மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவர் இந்த துப்பாக்கிச் சூட்டை நடத்தியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் 39 வயதுடைய ஹெட்டி ஆராச்சிகே டொன் சுஜித் என அடையாளம் காணப்பட்டுள்ளதோடு, ஒழுங்கமைக்கப்பட்ட குற்றவாளியான “வெல்லே சாரங்க” வின் உறவினர் என தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/fcbbf9ec.json)
+
+---
 
 ### India’s Calicut airport to have direct air links with Sri Lanka
 
@@ -1869,107 +1951,5 @@ Accordingly, the Legal Draftsman will be directed to prepare the composite act, 
 [Data](articles/8a9c6a5d.json)
 
 [Extended Data](ext_articles/8a9c6a5d.ext.json)
-
----
-
-### New study links COVID-19 vaccines to possible health issues
-
-*2024-02-20 17:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-study-links-COVID-19-vaccines-to-possible-health-issues/108-277411) · `en`
-
-Feb 20- The largest ever multi-country survey on the side-effects of COVID vaccines – from the houses of Pfizer, Moderna and AstraZeneca – claims to have found that these life-saving shots exacerbated 13 different medical conditions.
-
-The study was conducted by Global Vaccine Data Network (GVDN). It considered nearly 100 million vaccinated individuals across eight countries: Argentina, Australia, Canada, Denmark, Finland, France, New Zealand and Scotland.
-
-The comprehensive study, recently published in the esteemed journal Vaccine, unearthed some concerning associations between COVID-19 vaccines and certain medical conditions. Notably, researchers observed a slight increase in neurological, blood, and heart-related issues following vaccination, as outlined in a press release from the GVDN.
-
-...
-
-[Data](articles/22c6a058.json)
-
-[Extended Data](ext_articles/22c6a058.ext.json)
-
----
-
-### New study links COVID-19 vaccines to possible health issues
-
-*2024-02-20 17:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/New-study-links-COVID-19-vaccines-to-possible-health-issues/155-277411) · `en`
-
-Feb 20- The largest ever multi-country survey on the side-effects of COVID vaccines – from the houses of Pfizer, Moderna and AstraZeneca – claims to have found that these life-saving shots exacerbated 13 different medical conditions.
-
-The study was conducted by Global Vaccine Data Network (GVDN). It considered nearly 100 million vaccinated individuals across eight countries: Argentina, Australia, Canada, Denmark, Finland, France, New Zealand and Scotland.
-
-The comprehensive study, recently published in the esteemed journal Vaccine, unearthed some concerning associations between COVID-19 vaccines and certain medical conditions. Notably, researchers observed a slight increase in neurological, blood, and heart-related issues following vaccination, as outlined in a press release from the GVDN.
-
-...
-
-[Data](articles/e852cfbc.json)
-
-[Extended Data](ext_articles/e852cfbc.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 311.90/95 to the US dollar
-
-*2024-02-20 17:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-311-90-95-to-the-us-dollar-151677/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 311.90/95 to the US dollar Tuesday, from 312.15/25 on Monday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.80/11.00 percent from 10.55/75 percent.
-
-A bond maturing on 15.09.2027 closed at 11.85/12.10 percent from 11.70/90 percent.
-
-A bond maturing on 15.03.2028 closed at 12.15/30 percent from 12.00/15 percent.
-
-A bond maturing on 15.07.2029 closed at 12.45/95 percent from 12.20/70 percent.
-
-A bond maturing on 15.05.2030 closed at 12.30/13.00 percent from 12.20/70 percent.
-
-A bond maturing on 01.07.2032 closed at 12.50/13.30 percent from 12.45/90 percent. (Colombo/Feb20/2024)
-
-◼️
-
-[Data](articles/a8f30765.json)
-
-[Extended Data](ext_articles/a8f30765.ext.json)
-
----
-
-### Kota's chief resigns
-
-*2024-02-20 17:29:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-முக்கியஸ்தர்-இராஜினாமா/175-333535) · `ta`
-
-Former President Gotabhaya Rajapaksa's exclusive secretary Sukheeswara Bandara resigned from the post on Tuesday (20).
-
-Bandara said he had sent his resignation letter to Gotabhaya Rajapaksa on Tuesday (20).
-
-Bandara has written to the former president that he has decided to step down as a secretary for the unity of Gotabhaya Rajapaksa, due to the inevitable reasons and respect for him.
-
-He says that his only purpose is to serve the mother and the brothers and people who live there, and that he is working with a new political program to create an invincible country.
-
-The letter also stated that he would not hesitate to work with the team that can proudly rebuild the motherland.
-
-◼️
-
-[Data](articles/bea734ad.json)
-
-[Extended Data](ext_articles/bea734ad.ext.json)
-
----
-
-### North Korean leader one cars with Putin
-
-*2024-02-20 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193623) · `si`
-
-The Russian President Vladimir Putin has donated a luxury car to North Korean leader Kim Jon.
-
-North Korea said that the vehicle produced in Russia.
-
-The car is a Limous car similar to the chair and that the two people is a car to grow friendship between the two countries.
-
-◼️
-
-[Data](articles/b11aa02a.json)
-
-[Extended Data](ext_articles/b11aa02a.ext.json)
 
 ---

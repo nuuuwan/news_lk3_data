@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 22:32:54**
+As of **2024-02-21 22:50:32**
 
 ## Newspaper Stats
 
-*Scraped **8,558** Articles*
+*Scraped **8,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,62 +19,92 @@ adalk | 735
 adaderanalk | 1,033
 tamilmirrorlk | 1,064
 virakesarilk | 1,147
-adaderanasinhalalk | 1,255
+adaderanasinhalalk | 1,256
 dailymirrorlk | 1,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,553 (99.9%) of 8,558 articles have been extended.
+8,558 (100.0%) of 8,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### ගෘහ සේවයට කාන්තාවන් විදේශගත කිරීම අත්හිටුවීමට ඇමති මනූෂගෙන් පියවර
+### රිය අනතුරක් ද ? මනුෂ්‍ය ඝාතනයක් ද ?
+
+*2024-02-21 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193677) · `si`
+
+දෙහිවලදී මෝටර් රථයක් ස්කූටර් වර්ගයේ යතුරුපැදියක ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයෙකු අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+
+දෙහිවල කඩවත පාරේ පැරකුම්බා මාවතට හැරෙන මංසන්ධිය අසළ දී මෙම අනතුර සිදුව ඇත.
+
+මෙම අනතුර හිතාමතා සිදුකළ මනුෂ්‍ය ඝාතනයක් ද යන්න සම්බන්ධයෙන් මේ වනවිට පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+
+අනතුරට පෙර සැකකාර මෝටර් රථයේ රියදුරු සහ මියගොස් ඇති පුද්ගලයා අතර බහින්බස්වීමක් සිදුවී ඇත්ද යන්න සම්බන්ධයෙන්ද මේ වනවිට පොලිස් විමර්ශන ආරම්භ කර ඇත.
+
+කෙසේ වෙතත් විමර්ශන සිදුකළ දෙහිවල පොලීසිය විසින් මේ වනවිට සැකකාර කාර් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 30 හැවිරිදි වියේ පසුවන දෙහිවල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අත්අඩංගුවට ගත් සැකකරු හෙටදින ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/4393d5fb.json)
+
+---
+
+### Measures from Minister Manushetu suspension of women abroad to domestic work
 
 *2024-02-21 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193676) · `si`
 
-ශ්‍රී ලාංකික කාන්තාවන් ගෘහ සේවිකාවන් ලෙස විදේශ රැකියා සඳහා පිටත් කර යැවීම සම්පූර්ණයෙන්ම නතර කිරිමට අවශ්‍ය පියවර ගැනීම සඳහා වන යෝජනාවලියක් සහ කඩිනම් සැලසුමක් තමන් වෙත ලබාදෙන ලෙස කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ ඉහළ කළමනාකාරිත්වයට සහ බලපත්‍රලාභී විදේශ සේවා නියුක්ති නියෝජිත ආයතන සංගමයට ඊයේ (20) දැනුම් දී තිබේ.
+Minister of Labor and Foreign Employment, Minister of Labor and Foreign Employment to take necessary steps to stop Sri Lankan women to abstain from unhappy as domestic workers and an accelerated foreign employment agentThe Establishment Association has been informed yesterday (20th).
 
-ගෘහ සේවිකාවන් ලෙස ශ්‍රමිකයන් පිටත් කර යැවීම නතර කර ඉහළ වැටුප් ලබාගත හැකි පුහුණු රැකියා අවස්ථා සඳහා පමණක් ශ්‍රමිකයන් යැවීමේ වැදගත්කම ද අමාත්‍යවරයා අවධාරණය කර ඇත.
+The Minister also emphasized the importance of sending workers only for training employment opportunities as housemaids.
 
-ඒ අනුව වසර දහයක් තුළ දී ගෘහ සේවිකාවන් විදේශ රැකියා සඳහා පිටත් කර යැවීම සම්පූර්ණයෙන්ම නතර කිරීම සඳහා ක්ෂේත්‍රයට සම්බන්ධ සියලුම පාර්ශ්වයන් සම්බන්ධ කරගනිමින් මෙම යෝජනාවලිය තමන් වෙත ලබාදෙන ලෙස ද බලපත්‍රලාභී විදේශ සේවා නියුක්ති නියෝජිත ආයතන සංගමය සමඟ අද පැවති සාකච්ඡාවේ දී අමාත්‍යවරයා දැනුම් දී තිබේ.
+Accordingly, in ten years, the Minister has informed the Licensed Foreign Employment Association today with the Licensed Appointed Representative Association (Licensed Affairs Association).
 
 ◼️
 
 [Data](articles/acd4393d.json)
 
+[Extended Data](ext_articles/acd4393d.ext.json)
+
 ---
 
-### “தாமரை கோபுரம்” சிவப்பு நிறத்தில் ஒளிரும்
+### “Lotus Tower” flashing in red
 
 *2024-02-21 21:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரம்-சிவப்பு-நிறத்தில்-ஒளிரும்/175-333629) · `ta`
 
-சர்வதேச மூளையழற்சி நோய் தினத்தை முன்னிட்டு விழிப்புணர்வை ஏற்படுத்தும் வகையில் கொழும்பிலுள்ள தாமரை கோபுரம் நாளை (22) சிவப்பு நிறத்தில் ஒளிரவிடப்படவுள்ளது.
+The Lotus Tower in Colombo will be blinking tomorrow (22) to raise awareness on the day of International Meanitis.
 
-இந்த ஆபத்துமிக்க நரம்பியல் நிலை குறித்த விழிப்புணர்வை ஏற்படுத்தும் என்செபாலிடிஸ் இன்டர்நேஷனலின் அண்மைய திட்டங்களின் ஒரு பகுதியாக இவ்வாறு ஒளிரவிடப்படவுள்ளது. R
+This is to be illuminated as part of the recent programs of the Encypalitis International to raise awareness of this dangerous neurological condition.. Remble
 
 ◼️
 
 [Data](articles/f8d9d6fe.json)
 
+[Extended Data](ext_articles/f8d9d6fe.ext.json)
+
 ---
 
-### யாழ் போதனா வைத்தியசாலை அலுவலருடன் முரண்பட்டதால் ஒருவர் கைது
+### A man arrested for conflicting with Jaffna Teaching Hospital Officer
 
 *2024-02-21 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176998) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அலுவலர்களுடன் முரண்பாட்டில் ஈடுபட்ட நபரொருவர் பொலிஸாரினால் புதன்கிழமை (21) கைது செய்யப்பட்டார்.
+A man was arrested by the police on Wednesday (21) at the Jaffna Teaching Hospital.
 
-வைத்தியசாலையின் மேற்பார்வையாளர் அலுவலகத்திற்குச் சென்று தகாத வார்த்தைகளைப் பேசிய குறித்த நபர், அலுவலகர்களுடன் முரண்பட்டு அங்கிருந்த பெயர் பலகையையும் சேதப்படுத்திய நிலையில் வைத்தியசாலை பொலிஸாரால் கைது செய்யப்பட்டு யாழ்ப்பாணம் பொலிஸாரிடம் ஒப்படைக்கப்பட்டார்.
+The man who went to the hospital's superintendent's office and spoke inappropriate words, was arrested by the hospital police and handed over to the Jaffna police after he was conflicted with the officers.
 
-இதன்போது குறித்த நபர் மதுபோதையிலிருந்தாக தெரிவிக்கப்படும் நிலையில் சந்தேக நபரிடம் யாழ்ப்பாணம் பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Jaffna police are conducting investigations to the suspect as the man is reported to be in the liquor.
 
 ◼️
 
 [Data](articles/feb50147.json)
+
+[Extended Data](ext_articles/feb50147.ext.json)
 
 ---
 
@@ -94,23 +124,25 @@ Police and National Medicines Regulatory Authority (NMRA) officials launched a m
 
 ---
 
-### නාවික හමුදාවේ නව මාණ්ඩලික ප්‍රධානී ධුරය රියර් අද්මිරාල් ප්‍රදීප් රත්නායකට
+### Rear Admiral Pradeep Ratnayake appointed by the Navy Staff
 
 *2024-02-21 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193675) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාවේ නව මාණ්ඩලික ප්‍රධානී ලෙස රියර් අද්මිරාල් ප්‍රදීප් රත්නායක මහතා පත් කර තිබේ.
+Rear Admiral Pradeep Ratnayake has been appointed as the new Chief of Staff of the Sri Lanka Navy.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මැතිතුමා විසින් මෙම පත් කිරීම සිදු කර ඇති අතර, ඊට අදාළ පත්වීම් ලිපිය නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා මහතා විසින් රියර් අද්මිරාල් ප්‍රදීප් රත්නායක මහතා වෙත අද (21) නිල වශයෙන් භාරදුන් බව නාවික හමුදාව නිවේදනය කර ඇත.
+The appointment was made by President Ranil Wickremesinghe this appointments to the Navy Commander of the Navy Vice Admiral Pradeep Ratnayake.
 
-මාතලේ ශාන්ත තෝමස් විද්‍යාලයේ ආදි ශිෂ්‍යයෙකු වන ප්‍රදීප් රත්නායක මහතා 1987 වර්ෂයේ දී ශිෂ්‍යභට නිලධාරියෙකු වශයෙන් ශ්‍රී ලංකා නාවික හමුදාවේ විධායක අංශයට එක් ව තිබිණි.
+Pradeep Ratnayake, an old boy of St. Thomas' College, Matale, was one of the Cadet Officer of the Sri Lanka Navy.
 
-ක්‍රමාණුකූල ව උසස් වීම් ලැබූ ඔහු 2021 වර්ෂයේ ජූලි මස පළමු වැනි දා රියර් අද්මිරාල් නිලයට උසස් වූ බව නාවික හමුදාව පැවසීය.
+He was promoted with the calculations, he was promoted to the rank of Rear Admiral in July 2021.
 
-රියර් අද්මිරාල් ප්‍රදීප් රත්නායක මහතා සිය සේවා කාලය තුළ නිලතල රැසක් දරා ඇති අතර, නාවික හමුදා මාණ්ඩලික ප්‍රධානී ලෙස පත්වීමට පෙර ඔහු නාවික හමුදා නියෝජ්‍ය මාණ්ඩලික ප්‍රධානී වශයෙන් කටයුතු කර තිබේ.
+Rear Admiral Pradeep Ratnayake has held a large number of positions during his tenure and he served as the Chief of the Navy.
 
 ◼️
 
 [Data](articles/c77c0887.json)
+
+[Extended Data](ext_articles/c77c0887.ext.json)
 
 ---
 
@@ -394,19 +426,25 @@ Accordingly, they have said that the search has been made immediately.
 
 ---
 
-### ගාල්ලෙන් ගල් නැංගුරමක් හමුවෙයි
+### Liquor meets at Galle
 
 *2024-02-21 19:23:32* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලෙන්-ගල්-නැංගුරමක්-හමුවෙයි/11-408226) · `si`
 
-ගාල්ල පැරණි වරායේ ජැටිය ආසන්න මුහුදේ තිබී 12වන හෝ 13 වන සියවස්වලට අයත් යැයි සැලකෙන ගල් නැංගුරමක් හමු වී ඇතැයි මධ්‍යම සංස්කෘතික අරමුදලේ මුහුදු පුරාවිද්‍යා ඒකකය පවසයි.
+The Colombo Old Harbor jetty is found in the 12th or 13th centuries of the Colombo Central Cultural Fund
 
-මෙම ස්ථානයේ පැරණි නැංගුරම් කිහිපයක්, නැංගුරම් ලෙස භාවිතා කළ එකට ගැටගැසූ කාලතුවක්කු දෙකක් ආදී අවශේෂ කිහිපයක් ම දක්නට ලැබී තිබේ. කෙසේවුවද අවස්ථා කිහිපයක දී ම මුහුදු පුරාවිද්‍යාඥයන්ගේ නිරීක්ෂණයට ලක්ව තිබූ මෙම ගල් නැංගුරම 12-13 වැනි සියවස් තරම් අතීතයට අයත් බව තහවරු කරගෙන ඇත්තේ පසුගිය දිනවල දී ය.
+Several ancient anchors, two older anchors, have two areas of artillery used as anchorage. However, at several times, the stone anchor 12-13 have been asserted in recent days.
 
-මේ සම්බන්ධයෙන් අදහස් දැක්වූ මුහුදු පුරාවිද්‍යා ඒකකයේ පුරාවිද්‍යාඥ රසික මුතුකුමාරණ මහතා මෙසේ කීවේය.
+The archaeologist archaeologist fan Muthukumarana said:
 
-...
+"We knew that there was a stone anchor at this place. Meeting parts of iron anchor. So this was not new. But recently we checked this anchor. So we saw it was three holes anchor. Three holes used with three holes used in the 12th and 13th centuries of the Chinese vessels and Arabic. Accordingly, the anchor has been asserted that the time belongs to the time. Only an anchor here see. There is no residual on a ship. "
+
+Further investigations are further investigations into the anchor from the Divisional Secretariat Division of the Sea, Prof. Gamini Ranin Ranuda, the Director General of the Central Cultural Fund.
+
+◼️
 
 [Data](articles/8a75e15a.json)
+
+[Extended Data](ext_articles/8a75e15a.ext.json)
 
 ---
 
@@ -2037,29 +2075,5 @@ Deputy Solicitor General Savigation Division of the Attorney General and the Cri
 [Data](articles/9ffa5c66.json)
 
 [Extended Data](ext_articles/9ffa5c66.ext.json)
-
----
-
-### Businessman Donated 400 lakhs of birthday
-
-*2024-02-21 13:32:38* · [`adalk`](https://www.ada.lk/breaking_news/55-වැනි-උපන්දිනයට-ලක්ෂ-400ක්-බෙහෙත්-අපුර-රෝහලට-පරිත්‍යාග-කළ ව්‍යාපාරිකයා/11-408213) · `si`
-
-Sarath Kumara Munasinghe, a well known businessman in Anuradhapura, was donated by the Teaching Hospital and the Anuradhapura Teaching Hospital with 400 million rupees.
-
-The medication was donated to mark the donation of the 55th birthday and the fifty-56th anniversary of Sarath Muningaage.
-
-From last year at hospitals, he has donated the essentials of the medicine to the hospital in collaboration with the Lion Club.
-
-A total of drugs and vitamins are essential for other diseases, including children, heartfelt, cardiocism imported from high Britain.
-
-Mr. Sarath Kumara Munasinghe stated that he is expected to be presented to the hospital in the future and the Sinha Club and the support of the Lions Club and Banking system.
-
-He said that the project is to be done with the cancer patients, and those who have a precedent for the society have a precedent for the society, they will be able to provide the people of Anuradhapura without any shortage.
-
-◼️
-
-[Data](articles/089723f5.json)
-
-[Extended Data](ext_articles/089723f5.ext.json)
 
 ---

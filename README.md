@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 02:17:31**
+As of **2024-02-22 02:33:08**
 
 ## Newspaper Stats
 
-*Scraped **8,578** Articles*
+*Scraped **8,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 156
 newsfirstlk | 363
 economynextcom | 442
 islandlk | 443
-dailyftlk | 457
+dailyftlk | 462
 adalk | 735
 adaderanalk | 1,035
 tamilmirrorlk | 1,065
-virakesarilk | 1,150
+virakesarilk | 1,153
 adaderanasinhalalk | 1,257
 dailymirrorlk | 1,279
 
@@ -26,11 +26,143 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,578 (100.0%) of 8,578 articles have been extended.
+8,578 (99.9%) of 8,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Sri Lanka, Iran discuss Persian Gulf’s crucial role in broader Indian ocean security
+
+*2024-02-22 01:54:22* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Iran-discuss-Persian-Gulf-s-crucial-role-in-broader-Indian-ocean-security/56-758764) · `en`
+
+Iran’s Minister of Foreign Affairs Hossein Amir-Abdollahian, engaged in discussions with President Ranil Wickremesinghe during an official visit to Sri Lanka.
+
+The meeting, held at the Presidential Secretariat on Tuesday, cantered on key issues including the ongoing violence in Gasa and opportunities for enhancing bilateral cooperation.
+
+President Wickremesinghe reiterated the Sri Lankan Government’s firm stance on the Gasa conflict, emphasising the immediate necessity for violence cessation and the urgent need for a peace settlement.
+
+He underscored the principle that any peace agreement must be inclusive and not based solely on the demands of either side. Additionally, the President proposed the establishment of a Palestinian State within a timeframe of five years, ensuring the security of both Palestine and Israel.
+
+...
+
+[Data](articles/e7a999e2.json)
+
+---
+
+### Met. Dept. warns public on heat index in several districts
+
+*2024-02-22 01:53:18* · [`dailyftlk`](https://www.ft.lk/news/Met-Dept-warns-public-on-heat-index-in-several-districts/56-758763) · `en`
+
+The Meteorology Department issued a warning yesterday cautioning residents about the rising heat index, which measures the temperature felt on the human body.
+
+According to the department, the heat index is expected to escalate to ‘Caution’ levels in several areas, particularly in the North-Western Province and districts including Gampaha, Colombo, Hambantota and Monaragala.
+
+The advisory underscores the potential for discomfort and health risks associated with high heat index levels. Residents in the mentioned areas are advised to take precautionary measures to stay cool and hydrated, especially during the peak heat hours of the day.
+
+The warning serves as a reminder for individuals to avoid prolonged exposure to direct sunlight, seek shade when outdoors, and drink plenty of water to prevent dehydration. Additionally, vulnerable populations such as the elderly, children, and individuals with pre-existing health conditions are urged to take extra precautions to avoid heat-related illnesses.
+
+◼️
+
+[Data](articles/e5b662e8.json)
+
+---
+
+### உண்மையை கண்டறியும் ஆணைக்குழு உருவாக்கத்து முன்தாக 36ஆணைக்குழுக்களை அங்கீகரியுங்கள் - நான்கு சிவில் அமைப்புக்கள் கூட்டாக வலியுறுத்து
+
+*2024-02-22 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177004) · `ta`
+
+இலங்கை அரசாங்கம் புதிய உண்மையைக் கண்டறியும் ஆணைக்குழுவை உருவாக்குவதற்கு முன்னதாக அரசாங்கத்தின் அங்கீகாரத்துடன் ஸ்தாபிக்கப்பட்ட 36ஆணைக்குழுக்களையும் அங்கீகரிக்க வேண்டுமென சிவில் அமைப்புக்கள் கூட்டாக வலியுறுத்தியுள்ளன.
+
+சர்வதேச உண்மைக்கும் நீதிக்குமான செயற்திட்டம், இலங்கை மனித உரிமைகள் மற்றும் மேம்பாட்டு மையம், காணாமலாக்கப்பட்டவர்களது குடும்பங்களது அமைப்பு, பெண்கள் செயற்பாட்டு வலையமைப்பு ஆகிய அமைப்புக்களே கூட்டாக வலியுறுத்தியுள்ளன.
+
+பாரதூரமான மனித உரிமைமீறல்கள் தொடர்பாக விசாரணை செய்வதற்கு அமைக்கப்பட்ட அரசாங்க ஆணைக்குழுக்களின் எண்ணிக்கை பாதிக்கப்பட்ட இலங்கையர்களால் கணக்குவைக்க முடியாத எண்ணிக்கைகளைத் தாண்டியுள்ளது.
+
+இருந்தும் பிறிதொரு ஆணைக்குழு உருவாக்கப்படவுள்ளது. உண்மை, ஐக்கியம் மற்றும் நல்லிணக்க ஆணைக்கு எனப்படும் இப்புதிய ஆணைக்குழு, உண்மையைக் கண்டறிவதற்காக இலங்கை
+
+எனினும், நீதியும் பொறுப்புக்கூறலும் மழுப்பலானதாகவே தொடர்ந்தும் இருந்துவருவதாகப் பாதிக்கப்பட்டவர்கள் கூறுகின்றனர். நடவடிக்கை எடுக்கக்கோரி, காணாமற்போனவர்களின் குடும்பங்கள்
+
+...
+
+[Data](articles/e674f6b1.json)
+
+---
+
+### சித்திரை புத்தாண்டு மகிழ்வுடன் கொண்டாட மதுபான விலைகளை குறைக்க வேண்டும் - இராஜாங்க அமைச்சர் ஜனாதிபதியிடம் வலியுறுத்தல்
+
+*2024-02-22 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177002) · `ta`
+
+பொருளாதார நெருக்கடியினால் நாட்டு மக்கள் கடந்த மூன்றாண்டு காலமாக மகிழ்ச்சியுடன் பண்டிகைகளைக் கொண்டாடவில்லை.இந்த ஆண்டு சித்திரை புத்தாண்டை மகிழ்வுடன்  கொண்டாட மதுபானங்களின் விலைகளைக் குறைக்க வேண்டும். இந்த பணிவான கோரிக்கையை ஜனாதிபதி நிறைவேற்ற வேண்டும் என கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தஸநாயக்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (21) இடம்பெற்ற நாட்டின் தற்போதைய நிலைவரம் தொடர்பான சபை ஒத்துழைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மத்திய வங்கியின் ஆளுநரின் சம்பளம் அதிகரிப்பு தொடர்பில் மாறுப்பட்ட கருத்துக்கள் குறிப்பிடப்படுகின்றன.நாடு மிக மோசமான பொருளாதார நெருக்கடியை எதிர்க்கொண்ட வேளையில்  அவர் தான் பொருளாதார மீட்சிக்கான பொறுப்பை ஏற்றார்.ஆகவே கடந்து வந்த பாதையை மறந்து விடக் கூடாது.
+
+...
+
+[Data](articles/b6e3a57b.json)
+
+---
+
+### Abolishing the executive presidency – is time running out?
+
+*2024-02-22 01:24:04* · [`dailyftlk`](https://www.ft.lk/columns/Abolishing-the-executive-presidency-is-time-running-out/4-758749) · `en`
+
+In this crucial election year, we need to ask ourselves why it is necessary to change the existing system – Pic by Shehan Gunasekara
+
+Earlier this week, the President’s Media Division issued a statement to the effect that the next Presidential election will be held on schedule. What was the need for that statement? In terms of the Constitution, the President’s term of office ends not later than 18 November 2024. As far as I am aware, no Member of Parliament has given any indication that he or she intends to introduce a Bill to amend the Constitution to extend the term of office of the President, as required by article 83 of the Constitution. Such a Bill, if passed with a two-third majority, will also need to be approved by the people at a referendum. In the absence of any such move, what was the need for the President’s Media Division to assert the obvious? Was it to stifle the movement for restoring the parliamentary executive that now appears to be gathering wide public support?
+
+...
+
+[Data](articles/01a878d3.json)
+
+---
+
+### அரபு புத்தங்களை நாட்டுக்குள் கொண்டுவர பாதுகாப்பு அமைச்சு விதித்திருக்கும் தடையை மீள பெற்றுக்கொள்ள  ஜனாதிபதி  நடவடிக்கை எடுக்க வேண்டும் - ரிஷாத் பதியுதீன் சபையில் கோரிக்கை
+
+*2024-02-22 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177003) · `ta`
+
+ஈஸ்டர் குண்டுத்தாக்குலைத் தொடர்ந்து மூடப்பட்ட ராகம மற்றும் மஹர பள்ளிவாசல்களை மீள திறப்பதற்கு அரசாங்கம் விரைவாக நடவடிக்கை எடுக்க வேண்டும். அத்துடன் அரபு புத்தங்களை நாட்டுக்குள் கொண்டுவர பாதுகாப்பு அமைச்சு விதித்திருக்கும் தடையை மீள பெற்றுக்கொள்ள  ஜனாதிபதி  நடவடிக்கை எடுக்க வேண்டும் என தேசிய மக்கள் காங்கிரஸ் தலைவர் ரிஷாத் பதியுதீன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (21) இடம்பெற்ற  நாட்டின் தற்போதைய நிலைமை தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்தார்.
+
+ஈஸ்டர் குண்டுத்தாக்குலை தொடர்ந்து அரபு புத்தங்களை நாட்டுக்கொள் கொண்டுவர தடைவித்தித்து பாதுகாப்பு அமைச்சின் செயலாளரின் கடிதம் இன்னும் அமுலில் உள்ளது. அதனால் நாட்டில் இருக்கும் அரபு மத்தரசாக்களுக்கு தேவையான அரபு பத்தகங்களை கொண்டுவர முடியாத நிலை இருந்து வருகிறது.
+
+...
+
+[Data](articles/6c7746a3.json)
+
+---
+
+### Spa Ceylon wins coveted ‘Global Best Beauty Product’ at World Spa Awards 2023
+
+*2024-02-22 01:12:26* · [`dailyftlk`](https://www.ft.lk/business/Spa-Ceylon-wins-coveted-Global-Best-Beauty-Product-at-World-Spa-Awards-2023/34-758746) · `en`
+
+From left: Co-founder and Managing Director Shiwantha Dias, Director, Skin and Wellness Consultant Shenuka Fernando, and Co-founder and Director Shalin Balasuriya
+
+Spa Ceylon, the iconic Ayurveda Wellness brand, has won three international accolades at the World Luxury Spa Awards 2023, including the prestigious Global Award for Best Beauty Product, alongside Awards for Best Luxury Ayurveda Spa Global and Best Spa Group Global.
+
+“These awards come at an important and exciting time for us, as we accelerate our European expansion with a heightened focus in the United Kingdom. The award for Beauty Products of the Year in particular speaks volumes for the innovation in the fusion of ages old Ayurveda wisdom and modern skin science in creating high functioning beauty products that can stand alongside the best products in the world. We believe our unique offering and would be the foundation for our global expansion,” said Co-founder/Managing Director Shiwantha Dias.
+
+...
+
+[Data](articles/d0207955.json)
+
+---
+
+### CTC recognised as Top Employer for fourth consecutive year
+
+*2024-02-22 01:11:17* · [`dailyftlk`](https://www.ft.lk/business/CTC-recognised-as-Top-Employer-for-fourth-consecutive-year/34-758745) · `en`
+
+Ceylon Tobacco Company PLC (CTC) has once again achieved the prestigious title of ‘Top Employer’ this time, for the fourth consecutive year. It is a distinction bestowed by the esteemed Top Employers Institute. This accolade, spanning 2021 to 2024, highlights CTC’s unwavering commitment to nurturing an exceptional work environment and robust human resource practices.
+
+The Top Employers Institute is a global authority established in 1991. Based in Amsterdam, it has evaluated over 2,300 organisations across 121 regions. The accreditation received acknowledges companies that prioritise the well-being and professional development of their employees, which promotes a culture of excellence and innovation. Renowned globally for its rigorous evaluation process and credibility, it positions CTC among the vanguard of organisations esteemed for their exemplary employee conditions and HR practices.
+
+...
+
+[Data](articles/9336d905.json)
+
+---
 
 ### Recovery of a man's body from Thethadeevu lowland
 
@@ -1957,163 +2089,5 @@ He seeks to remove the police powers from the list of powers vested with the Pro
 [Data](articles/f193b465.json)
 
 [Extended Data](ext_articles/f193b465.ext.json)
-
----
-
-### The world's satellite weapons in Russia
-
-*2024-02-21 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193654) · `si`
-
-US intelligence services have caused the turmoil in the worldwide security strategies that Russia's arms will be in space this year.
-
-In space, such weapons that place the Earth orbit in space can cause a devastating destruction.
-
-The American intelligence agencies have expressed his instructions in the early 2022, US intelligence devoctions that Russia is developing thousands of satellites that can be destroyed by Russia.
-
-This was revealed by the New York Times in the United States.
-
-The US intelligence warns that thousands of satellites have orbited countries, with nuclear capabilities, can be destroyed, and the American intelligence is also included in mapping.
-
-The Bideonburg administration has confirmed that Russia has developed a nuclear weapon and the American Congress intelligence committee also focused on the matter.
-
-Bloombe added that Russia plans to send such a satellite weapon or its model this year.
-
-...
-
-[Data](articles/45cb4fa8.json)
-
-[Extended Data](ext_articles/45cb4fa8.ext.json)
-
----
-
-### Power Minister explains how electricity tariffs will be reduced
-
-*2024-02-21 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97435/power-minister-explains-how-electricity-tariffs-will-be-reduced) · `en`
-
-The Ceylon Electricity Board (CEB) is to submit a proposal to the Public Utilities Commission of Sri Lanka (PUCSL) to reduce the electricity tariffs that were increased last October, according to Power and Energy Minister Kanchana Wijesekera.
-
-Speaking in Parliament today (21), the minister said that the proposal is expected to be submitted by the CEB to the PUCSL tomorrow.
-
-He stated that in October last year, the electricity tariffs had been increased by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
-
-Minister Wijesekera stated that the CEB expects to reduce the rates by at least the same rates and percentages as was increased in October 2023.
-
-He explained that they are able to propose such a reduction in view of the country’s economy turning towards the better, as a result of certain difficult decisions that had to be taken in the past.
-
-...
-
-[Data](articles/dd076886.json)
-
-[Extended Data](ext_articles/dd076886.ext.json)
-
----
-
-### New Chief of Staff appointed to Sri Lanka Navy
-
-*2024-02-21 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97434/new-chief-of-staff-appointed-to-sri-lanka-navy) · `en`
-
-Rear Admiral Pradeep Rathnayake has been appointed the Chief of Staff of Sri Lanka Navy.
-
-The appointment, made by President Ranil Wickremesinghe, retrospectively comes into effect from January 16.
-
-Navy Commander, Vice Admiral Priyantha Perera formally handed over the letter of appointment to Rear Admiral Rathnayake at the Navy Headquarters today (Feb.21) and expressed his best wishes.
-
-Rear Admiral Rathnayake, educated at St. Thomas’ College in Matale, had joined the Navy in 1987 as an Officer Cadet of the 17th intake, in the Executive branch.
-
-On successful completion of his basic training at the Naval and Maritime Academy, Trincomalee, he was commissioned as a Sub Lieutenant in 1989. The senior officer completed his Sub Lieutenant Technical Course at the Naval and Maritime Academy in 1992 and specialized in Marine Navigation from the Indian Navy in 1997. Advancing steadily in his professional journey, he reached the rank of Rear Admiral on July 01, 2021.
-
-...
-
-[Data](articles/613bcaac.json)
-
-[Extended Data](ext_articles/613bcaac.ext.json)
-
----
-
-### The President urged the Iran Foreign Minister to implement a ceasefire in Gaza
-
-*2024-02-21 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/176958) · `ta`
-
-Iran's Foreign Minister Hussein Amir -Abdollahian, who was on an official visit to Sri Lanka, met President Ranil Wickremesinghe at the Presidential Office on Tuesday (20).
-
-Meanwhile, President Ranil Wickremesinghe urged the Iranian Foreign Minister to implement a ceasefire in the Gaza border and establish a peace agreement.
-
-The President stressed that the peace agreement should not be unilateral and that both sides should be accepted.
-
-The President also pointed out that it is necessary to establish the Palestinian government within five years, confirming the security of the Israeli government.
-
-Pointing to the importance of the Persian Gulf countries within the Indian Ocean, the President said that Sri Lanka would dedicate Sri Lanka to protect the freedom of shipping of the Zone.
-
-Pointing to strengthening the cultural ties between the two countries, Iran's Foreign Minister Hussein Amir - Abdullahian promised that Iran would be committed to promoting Sri Lanka's tourism trade.
-
-...
-
-[Data](articles/127ff3c1.json)
-
-[Extended Data](ext_articles/127ff3c1.ext.json)
-
----
-
-### Pradeep Ratnayake as Navy Chief Officer
-
-*2024-02-21 14:54:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்படை-தலைமை-அதிகாரியாக-பிரதீப்-ரத்நாயக்க/175-333592) · `ta`
-
-The appointment has been made by President Ranil Wickremesinghe from January 16.
-
-Navy Commander Vice Admiral Priyantha Perera handed over the appointment letter to Rear Admiral Pradeep Ratnayake today at the Naval Headquarters.
-
-◼️
-
-[Data](articles/c5296af9.json)
-
-[Extended Data](ext_articles/c5296af9.ext.json)
-
----
-
-### Thondaman's soul weeps: Mano anxiety
-
-*2024-02-21 14:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொண்டமானின்-ஆன்மா-அழுகிறது-மனோ-கவலை/76-333591) · `ta`
-
-The soul of former minister Amarar Arumugan weeps, seeing the current minister's falsehood. However, my child has listened to the spi and said that the child is crying. Mano Ganesan MP said that he laments what to say.
-
-◼️
-
-[Data](articles/06b438d1.json)
-
-[Extended Data](ext_articles/06b438d1.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-21 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176960) · `ta`
-
-The US dollar purchasing price was Rs 307.1414 and the sales price were 316.8174, based on the Central Bank's currency exchange rate on Wednesday (February 21).
-
-◼️
-
-[Data](articles/8be42bc8.json)
-
-[Extended Data](ext_articles/8be42bc8.ext.json)
-
----
-
-### A break to Josephrit Bumra
-
-*2024-02-21 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193651) · `si`
-
-Indian fast bowler Jasprit Bumra has been rested in the four-like Test match against England.
-
-It is reported that he has rested to resign from the Twenty20 World Cup and the Indian Premier League Cricket Tournament.
-
-Meanwhile, KL Rahul, who lost the second and third Test of the tournament, is to lose the fourth Test match.
-
-The Four Test match between India and England is scheduled to commence on the 23rd of this month.
-
-◼️
-
-[Data](articles/0b6aa725.json)
-
-[Extended Data](ext_articles/0b6aa725.ext.json)
 
 ---

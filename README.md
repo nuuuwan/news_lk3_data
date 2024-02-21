@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 09:17:18**
+As of **2024-02-21 09:32:54**
 
 ## Newspaper Stats
 
-*Scraped **8,373** Articles*
+*Scraped **8,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 443
 dailyftlk | 454
 adalk | 713
 adaderanalk | 1,011
-tamilmirrorlk | 1,030
+tamilmirrorlk | 1,036
 virakesarilk | 1,120
 adaderanasinhalalk | 1,219
 dailymirrorlk | 1,239
@@ -26,11 +26,29 @@ dailymirrorlk | 1,239
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,371 (100.0%) of 8,373 articles have been extended.
+8,379 (100.0%) of 8,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Back firing;Death
+
+*2024-02-21 09:02:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-துப்பாக்கிச்சூடு-ஒருவர்-மரணம்/175-333566) · `ta`
+
+One person was killed in a shooting incident by two unidentified people on a motorcycle at around 7.15 am near the Alappitivala junction of the Mahabhake Police Division.
+
+Hettiarachchi Don Sujit died after being shot dead, police said.
+
+It is revealed that he is the relative of the organized offender called Wella Saranga. Remble
+
+◼️
+
+[Data](articles/f1c4cc61.json)
+
+[Extended Data](ext_articles/f1c4cc61.ext.json)
+
+---
 
 ### Shooting in Ragama leaves a man dead
 
@@ -41,6 +59,8 @@ A shooting incident in Elapitawala, Ragama has left one person dead this morning
 ◼️
 
 [Data](articles/8fcd6102.json)
+
+[Extended Data](ext_articles/8fcd6102.ext.json)
 
 ---
 
@@ -62,6 +82,76 @@ It has been revealed that he is a relative of the organized criminal of the sand
 
 ---
 
+### "The salary of the Central Bank Deputy Governor has increased to 7 lakhs"
+
+*2024-02-21 08:23:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கி-பிரதி-ஆளுநரின்-சம்பளம்-7இலட்சம்-ஆக-அதிகரித்துள்ளது/175-333564) · `ta`
+
+The monthly salary of central bank officials, which has made the country a bankruptcy, has been increased by 70 per cent.
+
+Opposition Prime Minister Lakshman Kiriella said that it was illegal to do so without notifying parliament.
+
+He said this while addressing the debate on the second assessment of the 9 Bill, including the Bill Bill, the Bureau of Trustees (Amendment) Bill, which was held in Parliament yesterday (20).
+
+The Central Bank Governor, the Secretary of the Ministry of Finance, has not revealed the country or the parliament when the country goes into the bankruptcy.
+
+But the Central Bank has given a 70 percent salary increase to the Central Bank officials who have not revealed the country's bankruptcy. How can the salary increase.
+
+They were advised by the entire country to tighten the pelvic bar and reduce the personnel in offices.
+
+But the salary of the Deputy Governor of the Central Bank has increased to 7 lakhs 12 thousand.
+
+...
+
+[Data](articles/c2f6dba7.json)
+
+[Extended Data](ext_articles/c2f6dba7.ext.json)
+
+---
+
+### Today's climate forecast
+
+*2024-02-21 08:17:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-முன்னறிவிப்பு/175-333563) · `ta`
+
+The Department of Meteorology has predicted that rain or thunderstorms are occurring in some places in Kalutara, Galle, Matara and Ratnapura districts.
+
+Heavy winds are expected to blow up to 30 kilometers per hour from time to time in the Eastern Slips of the Central Highlands and the North Central, North Western, Uva, Southern and Eastern Provinces, Matale and Kandy districts.
+
+In some parts of the upper and Sabaragamuwa provinces, there is a snowfall in the morning.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts.
+
+There is a possibility of rain or thunderstorms in some areas beyond the coastal seas from Galle to Pottuvil via Hambantota.
+
+The winds are blowing from the northeastern direction in the seas around the country and the wind is expected to be 25-30 km per hour.
+
+...
+
+[Data](articles/fdf4487e.json)
+
+[Extended Data](ext_articles/fdf4487e.ext.json)
+
+---
+
+### Allow to use English language for legal proceedings
+
+*2024-02-21 08:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்ட-நடவடிக்கைகளுக்கு-ஆங்கில-மொழியைப்-பயன்படுத்த-அனுமதி/175-333562) · `ta`
+
+The Government Information Department yesterday said that the English language is being considered to take legal action and registration in some courts.
+
+Details in the business of business activities are mainly used in the English language, and require a significant cost and time to translate those contents in Sinhala. Due to this, the department said that the long -term time to resolve trade disputes would result in entrepreneurship.
+
+“This situation has affected Sri Lanka's position in the rankings for easy business, considering the ability to conduct entrepreneurship in a country. In response, it is appropriate that the Minister of Justice is appropriate to issue an order in parallel with the Rule 24 (4) of the Constitution that allows the use of English with the approval of the Cabinet.
+
+Accordingly, the Cabinet has approved the proposal submitted by the Minister of Justice, Prison Affairs and Constitutional Reforms to take necessary action in this regard.
+
+◼️
+
+[Data](articles/51ba3908.json)
+
+[Extended Data](ext_articles/51ba3908.ext.json)
+
+---
+
 ### Iranian President invited for official visit to Sri Lanka
 
 *2024-02-21 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97422/iranian-president-invited-for-official-visit-to-sri-lanka) · `en`
@@ -77,6 +167,8 @@ Amir-Abdollahian arrived in Colombo late on Monday for talks with senior officia
 ◼️
 
 [Data](articles/f60cea5b.json)
+
+[Extended Data](ext_articles/f60cea5b.ext.json)
 
 ---
 
@@ -445,6 +537,42 @@ However, the court has further stated that it could be passed by a simple majori
 [Data](articles/bc3d93e7.json)
 
 [Extended Data](ext_articles/bc3d93e7.ext.json)
+
+---
+
+### The model is not affected by the proposed fisheries law
+
+*2024-02-21 03:29:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உத்தேச-கடற்றொழில்-சட்டத்தால்-பாதிப்பு-இல்லை/175-333561) · `ta`
+
+With the help of the World Food and Agricultural Organization, freshwater fisheries will be developed. The rights of the fisheries community will be protected through the proposed fisheries law. Fisheries Minister Douglas Devananda said they would not be affected.
+
+He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
+
+Arrangements are being made to implement the new Fisheries Bill. Fishing industry growth is expected to increase fish yields.
+
+The fishermen's unions have been informed about the proposed fisheries bill and their views have been taken to make amendments and present them in Parliament.. We promise that the rights of the fishermen are protected by the appropriate law and will not harm them. He said that foreign ships are not in the process of coming to Sri Lanka for fishing for fishing.. (A)
+
+◼️
+
+[Data](articles/0259fe06.json)
+
+[Extended Data](ext_articles/0259fe06.ext.json)
+
+---
+
+### Iran's Foreign Minister meets Prime Minister
+
+*2024-02-21 03:24:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமருடன்-ஈரான்-வெளிவிவகார-அமைச்சர்-சந்திப்பு/175-333560) · `ta`
+
+A discussion between Prime Minister Dinesh Gunawardena and Iran's Foreign Minister Hussein Amir-Abdullahiya was held yesterday at the Alari House.
+
+Sri Lanka has agreed to export tea from Sri Lanka instead of $ 250 million to Iran for lubricant oil. (A)
+
+◼️
+
+[Data](articles/1e5c73e1.json)
+
+[Extended Data](ext_articles/1e5c73e1.ext.json)
 
 ---
 
@@ -1819,121 +1947,5 @@ In his letter, he points out that he has decided to resign from his position in 
 [Data](articles/9253c834.json)
 
 [Extended Data](ext_articles/9253c834.ext.json)
-
----
-
-### Gotabhaya Rajapakse's exclusive secretary resigns
-
-*2024-02-20 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176878) · `ta`
-
-Sukhiswara Bandara, who served as the exclusive secretary of former President Gotabhaya Rajapakse, has sent his resignation letter to the former President on Tuesday (20).
-
-In the letter, he said he was the first to thank the former president's exclusive secretary and that he would resign from his post to engage in politics.
-
-He also said that he was resigning to engage in radical politics in a new alliance formed by MP Nimal Lansa.
-
-◼️
-
-[Data](articles/98655ae9.json)
-
-[Extended Data](ext_articles/98655ae9.ext.json)
-
----
-
-### Indigenous medicine students protest...
-
-*2024-02-20 15:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Indigenous-medicine-students-protest/110-277405) · `en`
-
-Students' union of the Indigenous Medicine Faculty staged a protest march today from Rajagiriya Ayurveda Hospital to Auyrveda rounabout, demanding the government to withdraw the policies that destroy the local indigenous medical practices and to take immediate action to overcome the current medical shortage. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/bac49f7f.json)
-
-[Extended Data](ext_articles/bac49f7f.ext.json)
-
----
-
-### The struggle for justice of the relatives of the missing persons is beginning;The Thera also participated!
-
-*2024-02-20 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/176877) · `ta`
-
-Seven years after the continuous struggle began, the Kilinochchi district has begun traveling through the A 9 road to the depot junction.
-
-◼️
-
-[Data](articles/5389549b.json)
-
-[Extended Data](ext_articles/5389549b.ext.json)
-
----
-
-### Through love is displayed along hbo max
-
-*2024-02-20 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193619) · `si`
-
-The global cinemator, a film, is the most popular Hu channel in the world, is selected to be displayed in his HBO max.
-
-The "Thurs' International Awarding Film Director Sanjeewa Pushpakumara is a design of the script.
-
-The film will be displayed targeting the film, Romania, Hungary, Hungary and Bulgaria, from March 01.
-
-The first Sri Lankan film selected from the Prophet Brotherners of the United States of America is the first Sri Lankan film selected to the exhibition of its media network.
-
-Infant children have created the racket of marketing of infants to foreigners.
-
-This is the first official film between Italy and Sri Lanka.
-
-The popular performance Sabetha Perera, Akalana Perera, Akalanga Prabhazwara, Dinara Punchi Hewa, Mahendra Weerasinghe, Ambukku, and the well-Italian actor Lornshow Akkulara.
-
-In the mid-year (2024), Savoy Cinema will be distributed in film "plane love" in Sri Lanka.
-
-◼️
-
-[Data](articles/59e66138.json)
-
-[Extended Data](ext_articles/59e66138.ext.json)
-
----
-
-### Three arrested for dentating ice
-
-*2024-02-20 15:35:00* · [`adalk`](https://www.ada.lk/breaking_news/දන්තාලේපන-ඇසුරුමේ-සඟවා-අයිස්-රැගෙන-ආ-තිදෙනෙක්-අත්අඩංගුවට/11-408196) · `si`
-
-Prison emergency bickens have been able to arrest the three suspects with 7 ice drugs in the toothpaste packaging in the demons.
-
-6550 milligrams of ice with the suspects were taken into custody.
-
-The woman and two men were arrested by the two men and the two men who were in the dentatic packaging of the toothpick packaging were carried out in the prescription.
-
-Prison Emergency Response and Strategic Officers have been found in the Vesiel Checkpoint, which was used to check the visitors to visit the inmates, said the prison security unit.
-
-The suspects and women who had come to view visitors were revealed in the premises of the Magazine Prison and the Remand Prison.
-
-The suspect woman in Wattala, Hendala, and one male is a resident of the Mattakkuliya area in Matha Uyana, VI of Pargreek Road, Modara.
-
-The suspected woman and women who were arrested with ice drugs and the two men were handed over to the Borella Police Station.
-
-◼️
-
-[Data](articles/e9a487b7.json)
-
-[Extended Data](ext_articles/e9a487b7.ext.json)
-
----
-
-### Why was her dead body be placed in the chair until melt?
-
-*2024-02-20 15:10:39* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-ඇගේ-සිරුර-දියවන-තෙක්ම-පුටුවේම-තැබුවේ-ඇයි-/11-408195) · `si`
-
-According to a complaint lodged by a delegation, the women who lived in a house was conducted in a house near the Ahungalla police division of the Ahiyagadulla area, the house had been identified.
-
-Investigation by Poly, a resident of the house had died on a chair in the house, and the body was observed that the body was strongly melted. The woman is 65 years old and followed by the body in the morgue of the Balapitiya hospital morgue after the magisterial inquiry. No information about the death of death, Ahangalla police are conducting further investigations.
-
-◼️
-
-[Data](articles/982ea89d.json)
-
-[Extended Data](ext_articles/982ea89d.ext.json)
 
 ---

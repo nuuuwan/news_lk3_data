@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 21:51:59**
+As of **2024-02-21 22:04:08**
 
 ## Newspaper Stats
 
-*Scraped **8,548** Articles*
+*Scraped **8,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ economynextcom | 436
 islandlk | 443
 dailyftlk | 456
 adalk | 734
-adaderanalk | 1,031
+adaderanalk | 1,032
 tamilmirrorlk | 1,062
 virakesarilk | 1,146
 adaderanasinhalalk | 1,253
-dailymirrorlk | 1,272
+dailymirrorlk | 1,273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,548 (100.0%) of 8,548 articles have been extended.
+8,550 (100.0%) of 8,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Sri Lanka partially repays Iranian oil USD 20 million worth of tea
+
+*2024-02-21 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97443/sri-lanka-partially-repays-iranian-oil-usd-20-million-worth-of-tea) · `en`
+
+Sri Lanka said on Wednesday (21 Feb.) it had exported tea worth USD 20 million to Iran to partially repay its USD 251 million oil debts, with Colombo saying Tehran’s visiting foreign minister had expressed “satisfaction” at the deal.
+
+“So far USD20 million worth of tea has been exported to Iran under the barter trade agreement,” Sri Lankan Prime Minister Dinesh Gunawardena’s office said in a statement after talks with Iranian Foreign Minister Hossein Amir-Abdollahian.
+
+The tea-for-oil deal was agreed upon in December 2021, but exports were delayed by Colombo’s economic crisis that forced then-president Gotabaya Rajapaksa to step down in July 2022.
+
+The barter deal allows sanctions-hit Iran to avoid having to use up scarce hard currency to pay for imports of popular tea.
+
+It also allowed Sri Lanka to pay with tea, as the country was short of foreign currency.
+
+...
+
+[Data](articles/77c6061e.json)
+
+[Extended Data](ext_articles/77c6061e.ext.json)
+
+---
 
 ### Sri Lanka target 210 runs
 
@@ -2053,23 +2075,5 @@ The two suspects arrested in connection with the double murder have been detaine
 [Data](articles/c99b7cbe.json)
 
 [Extended Data](ext_articles/c99b7cbe.ext.json)
-
----
-
-### A hybrid method to solve crises
-
-*2024-02-21 13:21:11* · [`adalk`](https://www.ada.lk/breaking_news/අර්බුද-විසඳීමට-හයිබ්‍රිඩ්-ක්‍රමයක්/11-408210) · `si`
-
-Leader of the United States, MP Patali Champika Ranawaka says that a hybrid solution will be resolved in the country's crisis.
-
-The subscription of pure politicians and a new vision professionals are important. Ranawaka believes that the part of the two parties can solve the crises facing the country.
-
-The rejection of 225 members of the present Parliament is popular. But 225 is not responsible for the country's crisis. Ranawaka points out that although he is responsible for its responsible parties, but in 225 with accurate and accurate politicians.
-
-...
-
-[Data](articles/3ad2922d.json)
-
-[Extended Data](ext_articles/3ad2922d.ext.json)
 
 ---

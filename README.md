@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 12:02:34**
+As of **2024-02-21 12:17:23**
 
 ## Newspaper Stats
 
-*Scraped **8,410** Articles*
+*Scraped **8,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ islandlk | 443
 dailyftlk | 456
 adalk | 715
 adaderanalk | 1,015
-tamilmirrorlk | 1,036
+tamilmirrorlk | 1,043
 virakesarilk | 1,129
-adaderanasinhalalk | 1,223
+adaderanasinhalalk | 1,225
 dailymirrorlk | 1,248
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,410 (100.0%) of 8,410 articles have been extended.
+8,410 (99.9%) of 8,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### ටිකට් ගන්න දඹුල්ල ට අදත් ලොකු සෙනඟක්
+
+*2024-02-21 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193642) · `si`
+
+ඇෆ්ගනිස්තානය සහ ශ්‍රී ලංකාව අතර තෙවැනි සහ අවසාන විස්සයි විස්ස ජාත්‍යන්තර තරගය අද (21) දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+
+මේ වනවිට එම තරගය නැරඹීම සඳහා ප්‍රවේශපත්‍ර මිලදී ගැනීමට විශාල පිරිසක් පැමිණ සිටින බව අප වාර්තාකරු පැවසීය.
+
+ටිකට් විකිණීමේ කවුන්ටර් දඹුල්ල ප්‍රාදේශීය ලේකම් කාර්යාල පරිශ්‍රයේ ස්ථාපනය කර ඇති අතර එහි දක්වා ඇත්තේ ටිකට් 2,000ක් පමණක් විකිණීමට ඇති බවය.
+
+ක්‍රීඩාංගණයේ, ප්‍රේක්ෂකයින් සඳහා ඇති ඉඩ සැලකිල්ලට ගෙන එවැනි ටිකට් ප්‍රමාණයක් විකිණීමට තීරණය කළ බව ඒ සම්බන්ධයෙන් විමසූ විට ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ නිලධාරියෙක් පැවසුවේය.
+
+මේ අතර සමහර ප්‍රේක්ෂකයින් චෝදනා කළේ ජාතික හැඳුනුම්පත සඳහා නිකුත්කරන්නේ ප්‍රවේශ පත්‍ර දෙකක් පමණක් බවය.
+
+එවැනි තීරණයක් ගනු ලැබුවේ "කළු කඩ" තත්ත්වයක් ඇතිවීම වැළැක්වීමට බව එම නිලධාරියා පැවසීය.
+
+◼️
+
+[Data](articles/e9297149.json)
+
+---
+
+### 10ஆவது தேசிய சாரணர் ஜம்போரி: காணொளி
+
+*2024-02-21 11:46:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10ஆவது-தேசிய-சாரணர்-ஜம்போரி-காணொளி/175-333575) · `ta`
+
+இலங்கையின் பிரதம சாரணர் என்ற வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்க 10ஆவது தேசிய சாரணர் ஜம்போரியை சற்று முன்னர் ஆரம்பித்து வைத்தார்.
+
+இலங்கை மற்றும் ஏனைய 28 நாடுகளைச் சேர்ந்த 11,500 சாரணர்களின் பங்குபற்றுதலுடன் தேசிய சாரணர் ஜம்போரி திருகோணமலையில் நடைபெறுகிறது.
+
+◼️
+
+[Data](articles/184c515a.json)
+
+---
+
+### அஸ்கிரிய பீட மகா சங்கத்தினர் பாராட்டு
+
+*2024-02-21 11:33:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்கிரிய-பீட-மகா-சங்கத்தினர்-பாராட்டு/175-333574) · `ta`
+
+உண்மை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்திற்கு மல்வத்து, அஸ்கிரிய பீட மகா சங்கத்தினர் பாராட்டு தெரிவித்தனர்.
+
+உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலகத்தின் பணிப்பாளர் நாயகம் கலாநிதி அசங்க குணவன்ச உள்ளிட்ட அதிகாரிகள், உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்தின் பிரதியொன்றை மல்வத்து அஸ்கிரி மகா மகாநாயக்க தேரர்களிடம் கையளித்தனர்.
+
+இச்சட்டமூலத்திற்குப் பாராட்டு தெரிவித்த மல்வத்து பீட மகாநாயக்கர் திப்பட்டுவாவே ஸ்ரீ சுமங்கல தேரர் மற்றும் அஸ்கிரியத் தரப்புப் மகாநாயக்கர் வரக்காகொட ஸ்ரீ ஞானரதன தேரர் ஆகியோர் இதனை மேலும் பரிசீலனை செய்து பொது நிலைப்பாட்டை அறிவிக்கவும் இணக்கம் தெரிவித்தனர்.
+
+உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலகச் செயற்பாட்டின் முன்னேற்றம் குறித்து அதிகாரிகள் மேலும் மகாநாயக்க தேரர்களுக்கு விளக்கமளித்தனர்.
+
+...
+
+[Data](articles/847389e1.json)
+
+---
+
+### භාණ්ඩ කිහිපයක විශේෂ වෙළෙඳ භාණ්ඩ බදු ඉහළ දමයි
+
+*2024-02-21 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193641) · `si`
+
+උඳු, මුං ඇට, කව්පි, බඩඉරිඟු, කුරක්කන් සහ මිලට් ආනයනයේ දී අය කළ විශේෂ වෙළෙඳ භාණ්ඩ බදු ඉහළ නංවමින් නව ගැසට් පත්‍රයක් නිකුත් කර තිබේ.
+
+මෙම ගැසට් පත්‍රයට අනුව උඳු (අනෙකුත්) සඳහා මෙතෙක් කිලෝග්‍රෑමයකට රු. 200 ක්ව පැවති විශේෂ වෙළෙඳ භාණ්ඩ බද්ද රු. 300 ක් දක්වා ඉහළ යයි..
+
+කව්පි (අනෙකුත්), බීජ කුරක්කන් (ඉලියුසිනේ කොරකාන විශේෂ), බීජ - අනෙකුත් (මිලට්), කුරක්කන් (ඉලියුසිනේ කොරකාන විශේෂ) හා මිලට් (අනෙකුත්) ආනයනයේදී මෙතෙක් පැවති කිලෝග්‍රෑමයකට රු. 70ක් වූ විශේෂ වෙළෙඳ භාණ්ඩ බද්ද රු. 300 ක් දක්වා ත් ඉහළ නංවා ඇත.
+
+මීට අමතරව බඩඉරිඟු සඳහා ද රු. 25ක වෙළෙඳ භාණ්ඩ බද්දක් නියම කර තිබේ.
+
+මේ අතර බඩඉරිඟු, උඳු, මුං ඇට, කව්පි හා කුරක්කන් ආනයනය කිරීම කෘෂිකර්ම අමාත්‍යාංශයේ නිර්දේශය මත සිදු කළ යුතු බවට මෙම ගැසට් නිවේදනයෙන් අවධාරණය කර තිබේ.
+
+◼️
+
+[Data](articles/0d764132.json)
+
+---
 
 ### World Health Organization's Medical Committee on Visit Sri Lanka to control leprosy
 
@@ -106,6 +180,22 @@ He said all 225 MPs must rise against posts of this nature and said it was point
 
 ---
 
+### மல்வானை வீட்டுக்கு செல்லும் நீதியமைச்சர்
+
+*2024-02-21 10:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மல்வானை-வீட்டுக்கு-செல்லும்-நீதியமைச்சர்/175-333572) · `ta`
+
+உரிமையாளர் இல்லாத காரணத்தினால் நீதிமன்றத்தினால் நீதியமைச்சிடம் கையளிக்கப்பட்டுள்ள மல்வானை வீட்டை அவதானித்து அடுத்தகட்ட நடவடிக்கைகளை தீர்மானிக்க நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ தீர்மானித்துள்ளார்.
+
+அதன்படி இன்று பிற்பகல் அந்த வீடு அமைந்துள்ள வளாகத்துக்கு நீதி அமைச்சர் செல்ல உள்ளார்.
+
+வளாகத்தை அவதானித்த பின்னர் இது தொடர்பில் மேற்கொள்ள வேண்டிய அடுத்தக்கட்ட நடவடிக்கைகள் குறித்து ஊடகவியலாளர்கள் முன்னிலையில் அமைச்சர் விளக்கமளிக்க உள்ளார்.
+
+◼️
+
+[Data](articles/878438a4.json)
+
+---
+
 ### Gammanpila tables Bill seeking to remove police powers from PCs
 
 *2024-02-21 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97426/gammanpila-tables-bill-seeking-to-remove-police-powers-from-pcs) · `en`
@@ -119,6 +209,24 @@ It was put forward by way of a Private Member’s Bill tabled in Parliament.
 [Data](articles/ceaab306.json)
 
 [Extended Data](ext_articles/ceaab306.ext.json)
+
+---
+
+### லஞ்சம் பெற்ற அதிகாரிகளுக்கு விளக்கமறியல்
+
+*2024-02-21 10:48:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லஞ்சம்-பெற்ற-அதிகாரிகளுக்கு-விளக்கமறியல்/76-333571) · `ta`
+
+பொது போக்குவரத்து சேவையில் ஈடுப்படுத்தப்படும் தனியார்  பேருந்து ஒன்றுக்கு "C" தரம் அனுமதிப் பத்திரம் வழங்க 50,000 ரூபாய் இலஞ்சம் பெற்ற  அதிகாரிகள் இருவரை மார்ச் மாதம் (04)ஆம் திகதி வரை விளக்கமறியலில் வைக்க நுவரெலியா மாவட்ட நீதவான் நீதிமன்ற நீதிபதி பிரபுதிகா லங்காதினி நேற்று (20) மாலை உத்தரவு பிறப்பித்தார்.
+
+மத்திய மாகாண பொது போக்குவரத்து திணைக்களத்தை சேர்ந்த நுவரெலியா மாவட்டத்திற்கு பொறுப்பான மாவட்ட முகாமையாளர் மற்றும் மேலும் ஒரு அதிகாரியை கொழும்பிலிருந்து வருகை தந்திருந்த லஞ்சம் ஒழிப்பு திணைக்கள அதிகாரிகள் நேற்று கைது செய்தனர்.
+
+அதேநேரத்தில் சந்தேகநபர்களின் சார்பில் ஆஜராகி இருந்த சட்டத்தரணி  சந்தேக நபர்களில் ஒருவரான மாவட்ட முகாமையாளருக்கு  சக்கரை நோய் மற்றும் இதய நோய் இருப்பதாக நீதிபதியிடம் தெரிவித்தார்.
+
+இதனை கருத்திற் கொண்டு  நோய்வாய்க்கு உள்ளான சந்தேக நபரை சிறைச்சாலை வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்குமாறு நிதிபதி உத்தரவு பிறப்பித்தார்.
+
+...
+
+[Data](articles/58972aa7.json)
 
 ---
 
@@ -329,6 +437,38 @@ Primitting national institutions and state institutions will threaten national s
 [Data](articles/6f352eb3.json)
 
 [Extended Data](ext_articles/6f352eb3.ext.json)
+
+---
+
+### பாம்பு தீண்டி கர்ப்பிணி மரணம்
+
+*2024-02-21 09:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/பாம்பு-தீண்டி-கர்ப்பிணி-மரணம்/75-333568) · `ta`
+
+திருகோணமலை - மொரவெவ பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் பாம்பு கடிக்கு இலக்காகி 3 மாத கர்ப்பிணித் தாயொருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இதில், திருகோணமலை மொரவெவ ஆறாம் வாய்க்கால் பகுதியைச் சேர்ந்த இமேஷா குமாரி (வயது 23) என்ற மூன்று மாத கர்ப்பிணித் தாயொருவர்  மாடு கட்டுவதற்காக சென்றபோது பாம்புக்கடிக்கு இலக்காகியுள்ளார்.
+
+இதில் பாதிக்கப்பட்ட கர்ப்பிணியை மஹதிவுல்வெவ பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்ட போதும்,  உயிரிழந்துள்ளார். சடலம் பிரேத பரிசோதனைக்காக திருகோணமலை பொது வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/ba90d0eb.json)
+
+---
+
+### இலங்கை - ஆப்கான் மூன்றாவது டி20 போட்டி இன்று
+
+*2024-02-21 09:24:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கை-ஆப்கான்-மூன்றாவது-டி20-போட்டி-இன்று/44-333567) · `ta`
+
+இலங்கை மற்றும் ஆப்கானிஸ்தான் அணிகளுக்கு இடையிலான மூன்றாவது  டி20  போட்டி இன்று (21) நடைபெறவுள்ளது.
+
+முதல் இரண்டு போட்டிகளிலும் வெற்றி பெற்ற இலங்கை அணி தற்போது தொடரை 2-0 என கைப்பற்றியுள்ளது.
+
+இலங்கைக்கு ஆப்கானிஸ்தான் அணி இம்முறை மேற்கொண்டுள்ள சுற்றுப்பயணத்தில் இதுவரை நடைபெற்ற அனைத்து டெஸ்ட், ஒருநாள் மற்றும் டி20 போட்டிகளிலும் இலங்கை அணி வெற்றி பெற்றுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3977d774.json)
 
 ---
 
@@ -611,6 +751,22 @@ Accordingly, the Cabinet has approved the proposal submitted by the Minister of 
 [Data](articles/51ba3908.json)
 
 [Extended Data](ext_articles/51ba3908.ext.json)
+
+---
+
+### சட்டத்துக்கு ஆங்கிலம் மட்டும்
+
+*2024-02-21 08:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்துக்கு-ஆங்கிலம்-மட்டும்/175-333562) · `ta`
+
+சில நீதிமன்றங்களில் சட்ட நடவடிக்கைகளை மேற்கொள்வதற்கும் பதிவுகளை பேணுவதற்கும் ஆங்கில மொழி பரிசீலிக்கப்பட உள்ளதாக அரசாங்க தகவல் திணைக்களம் நேற்று தெரிவித்துள்ளது.
+
+வணிக நடவடிக்கைகள் தொடர்பான வணிகத் துறையில் உள்ள விவரங்கள் முக்கியமாக ஆங்கில மொழியில் பயன்படுத்தப்படுகின்றன, மேலும் அந்த உள்ளடக்கங்களை சிங்கள மொழியில் மொழிபெயர்ப்பதற்கு கணிசமான செலவும் நேரமும் தேவைப்படுகிறது. இதன் காரணமாக, வர்த்தக தகராறுகளைத் தீர்ப்பதற்கான நீண்ட கால அவகாசம் தேவைப்படுவதால், தொழில்முனைவோரைப் பெறுவதில் பாதகங்கள் ஏற்படும் என்று திணைக்களம் தெரிவித்துள்ளது.
+
+“இந்தச் சூழ்நிலையானது, ஒரு நாட்டில் தொழில் முயற்சிகளை நடத்தும் திறனைக் கருத்தில் கொண்டு, எளிதாக வணிகம் செய்வதற்கான தரவரிசையில் இலங்கையின் நிலையைப் பாதித்தது. இதற்குப் பரிகாரமாக, அமைச்சரவையின் ஒப்புதலுடன், ஆங்கிலத்தைப் பயன்படுத்த அனுமதிக்கும் அரசியலமைப்பின் 24 (4) விதியின் விதிகளுக்கு இணையாக, நீதி அமைச்சரால் உத்தரவு பிறப்பிக்கப்படுவது பொருத்தமானது என்று அங்கீகரிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f9bbb8a2.json)
 
 ---
 
@@ -1781,177 +1937,5 @@ Kandy SC have had some tricky moments as well, during which the fan base in Colo
 [Data](articles/3d66a84a.json)
 
 [Extended Data](ext_articles/3d66a84a.ext.json)
-
----
-
-### Oh how mighty Kandy have fallen?
-
-*2024-02-20 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Oh-how-mighty-Kandy-have-fallen/108-277414) · `en`
-
-Feb. 20 (Daily Mirror) - CR and FC emerged champions of the Inter-Club League Rugby Tournament last Sunday when they defeated Kandy Sports Club in the last fixture, which was a potential title decider.
-
-Kandy Sports Club have been the most successful club in the history of club rugby in Sri Lanka having secured 22 League titles.
-
-Since the shift of powers of Sri Lanka club rugby in early 90s, Kandy SC have been such a dominant force that in certain seasons, the other contenders could only battle for the second spot.
-
-From season-to-season and generation-to-generation they have been able to produce top class players and their fans are so used to seeing their team tore apart teams.
-
-Kandy SC have had some tricky moments as well, during which the fan base in Colombo thought Kandy SC really slipped up.
-
-...
-
-[Data](articles/cb78fd55.json)
-
-[Extended Data](ext_articles/cb78fd55.ext.json)
-
----
-
-### MP Gunatilleke Rajapaksa is temporarily
-
-*2024-02-20 19:25:54* · [`adalk`](https://www.ada.lk/religion/මන්ත්‍රී-ගුණතිලක-රාජපක්ෂ-තාවකාලිකව-පැවැදි-දිවියට/4-408200) · `si`
-
-Kandy District Parliamentarian Admin Committener Committee Chairman, Chairman of the Baranasivaththimalamuwa, Detiyakanuramuwara Viharaya, has been temporarily monitored.
-
-Mr. Gunatilleke Rajapaksa has also received temporary dhammarane, Ven.
-
-The MP's coordinating secretariat is expected to be able to many places during the short period of time.
-
-◼️
-
-[Data](articles/6db5f55f.json)
-
-[Extended Data](ext_articles/6db5f55f.ext.json)
-
----
-
-### The vehicle import continues to be carried out
-
-*2024-02-20 19:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-தொடர்ந்தும்-முன்னெடுக்கப்படும்/175-333541) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya told Parliament today that vehicle imports will continue.
-
-“We have appointed a team to determine how to control vehicle imports and how many vehicles we need,” the Minister of State said.
-
-“Sri Lanka has imported only 29 vehicles in the recent past, including 21 dual carts for the Health Ministry and three slopes for SriLankan Airlines (including RAMPS). These slopes are used for airlines, ”he said.
-
-◼️
-
-[Data](articles/672cba0e.json)
-
-[Extended Data](ext_articles/672cba0e.ext.json)
-
----
-
-### Does Kasino become a kota ko ka kam?
-
-*2024-02-20 19:03:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கசினோவாக-மாறுகிறதா-கோட்டா-கோ-கம/175-333539) · `ta`
-
-Vijith Herath, a parliamentarian of the National PA, today accused the government of setting up the Cassino Center in the Galle Face where the Kota Ko Kamala was protesting.
-
-He told Parliament that the government is planning to grant a license through the Urban Development Authority (UDA) to open the gambling center on the Arakalai site and a famous gambler in Negombo is behind this particular company.
-
-The Member of Parliament said that the 'Arakalaya site', which is a turning point in the political history of Sri Lanka, is being offered for a Cassino Station to avenge the people of Arakala.
-
-Finance Minister Ranjith Siyambalapitiya has said that Cassino stations will not be opened to the local people and pay 10 billion when opening Cassino.
-
-“Opening the casino is not easy. To pay Rs.10 billion as initial. When a location enters the gambling hostel, the entry fee is $ 50 as $ 50, and it is planned to increase it.
-
-...
-
-[Data](articles/70ba1b4c.json)
-
-[Extended Data](ext_articles/70ba1b4c.ext.json)
-
----
-
-### Iranian Foreign Minister calls on President Ranil
-
-*2024-02-20 19:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97416/iranian-foreign-minister-calls-on-president-ranil) · `en`
-
-Iranian Foreign Minister Hossein Amir-Abdollahian, who is on an official visit to Sri Lanka, called on President Ranil Wickremesinghe at the Presidential secretariat in Colombo, a short while ago, the President’s Media Division confirmed.
-
-◼️
-
-[Data](articles/0c0c55ec.json)
-
-[Extended Data](ext_articles/0c0c55ec.ext.json)
-
----
-
-### Sri Lanka and Iran agree to further enhance ties in multiple areas
-
-*2024-02-20 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97415/sri-lanka-and-iran-agree-to-further-enhance-ties-in-multiple-areas-) · `en`
-
-An extensive discussion was held on Tuesday (20 Feb.) between Sri Lanka’s Minister of Foreign Affairs Ali Sabry and his Iranian counterpart Dr. Hossein Amir-Abdollahian, who is on an official visit to Colombo.
-
-The parties discussed several matters of concern, including further strengthening their cooperation in multiple areas, including the energy sector.
-
-“We agreed to work closely and enhance our partnership further”, Minister Sabry said in a post on ‘X’ (formerly Twitter).
-
-Iranian Minister of Foreign Affairs Dr. Hossein Amir-Abdollahian arrived in Sri Lanka on Monday night (19 Feb.), and was welcomed at the Bandaranaike International Airport (BIA) by State Minister of Foreign Affairs Tharaka Balasuriya.
-
-The Iranian foreign minister is in Sri Lanka for a three-day official visit, and is also scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
-
-◼️
-
-[Data](articles/1c70d0b8.json)
-
-[Extended Data](ext_articles/1c70d0b8.ext.json)
-
----
-
-### Sri Lanka consults EU team on data protection action plan
-
-*2024-02-20 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-consults-eu-team-on-data-protection-action-plan-151654/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ministry of Technology met with data protection consultants from the European Union to discuss a strategic plan for the country’s data protection authority, this week (19).
-
-“Met with a team of consultants representing the European Union’s Enhanced Data Protection & Data Flows project. The meeting aimed to share strategic learnings from the EU with Sri Lanka’s Data Protection Authority,” State Minister Kanaka Herath said on his Facebook page.
-
-Tamar Kaldani and Dr Aaron Martin, representing the EU project, shared insights on data protection best practices and regulatory frameworks established in the European Union, Herath said.
-
-“This knowledge exchange is crucial as Sri Lanka strives to strengthen its own data protection regime.” The nation is at a nascent stage in regulating data privacy of its citizens.
-
-Sri Lanka’s Data Protection Authority was established following a gazette issued by President Ranil Wickremesinghe in July 2023.
-
-...
-
-[Data](articles/874688fb.json)
-
-[Extended Data](ext_articles/874688fb.ext.json)
-
----
-
-### Protests from Attorney General for petition against Online bill
-
-*2024-02-20 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193625) · `si`
-
-Member of Parliament (MP) M.. it. The Attorney General raised the preliminary protests in the face of the Supreme Court today to dispel the basic human rights petition filed by Mr. Sumanthiran.
-
-The petition has been filed as a decision that the Act on the maintenance of the system has not been legally passed in Parliament.
-
-The three-member Judge of Shiran Gunaratne and Achala Vingaparatne were summoned to this petition today.
-
-◼️
-
-[Data](articles/cdad5742.json)
-
-[Extended Data](ext_articles/cdad5742.ext.json)
-
----
-
-### SLPP MP ascetic
-
-*2024-02-20 18:53:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLPP-எம்-பி-துறவறம்-பூண்டார்/175-333538) · `ta`
-
-Sri Lanka's PA MPHe is currently known as Harispattu Dhammaratana Thera.
-
-The MP is said to have decided to enter the monk after the death of his wife.
-
-◼️
-
-[Data](articles/70182db5.json)
-
-[Extended Data](ext_articles/70182db5.ext.json)
 
 ---

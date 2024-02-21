@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 01:32:53**
+As of **2024-02-22 01:50:22**
 
 ## Newspaper Stats
 
@@ -26,27 +26,31 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,576 (100.0%) of 8,578 articles have been extended.
+8,578 (100.0%) of 8,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### தேற்றாத்தீவு தாழ்நிலப் பகுதியிலிருந்து ஆண் ஒருவரின் சடலம் மீட்பு
+### Recovery of a man's body from Thethadeevu lowland
 
 *2024-02-22 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177001) · `ta`
 
-மட்டக்களப்பு மாவட்டம் களுவாஞ்சிகுடி பொலிஸ் பிரிவுக்குட்பட்ட தேற்றாத்தீவு குடியிருப்பு கிராமத்தின் வீதியிலிருந்து ஆண் ஒருவரின் சடலம் புதன்கிழமை (21) மாலை மீட்கப்பட்டுள்ளதாக களுவாஞ்சிகுடி பொலிசார் தெரிவித்தனர்.
+The body of a man has been recovered on Wednesday evening (21st) evening from the temple of Thettadeevu residential village belonging to the Kaluwanchikudi police division of the Batticaloa district, Kaluwanchikudi police said.
 
-இச்சம்பவம் தொடர்பில் மேலும் தெரியவருவதாவது… தேற்றாத்தீவு குடியிருப்பு கிராமத்தின் தாழ் நிலத்தை அண்டியுள்ள வீதில் சடலம் ஒன்று கிடப்பதாக பொலிசாருக்கு அப்பகுதி பொதுமக்கள் வழங்கி தகவலுக்கமைய அவ் இடத்திற்கு விரைந்த களுவாஞ்சிகுடி பொலிசார் விசாரணைகளை முன்னெடுத்து சடலத்தை மீட்டுள்ளனர்.
+The Kaluwanchikudi police, who rushed to the spot, have recovered the body of the police in the area, who have been given a body of a body of a body near the village of Thetadheevu residential village.
 
-இவ்வாறு சடலமாக மீட்கப்பட்டவர் தேற்றாத்தீவு குடியிருப்பு கிராமத்தைச் சேர்ந்த 84 வயதுடைய ஆறுமுகம் கிருஸ்ணபிள்ளை என அடையாளம் காணப்பட்டுள்ளார்.
+The body of the body has been identified as Arumugam Krishna Pillai, aged 84, from Thetadheevu residential village.
 
-இந்நிலையில் களுவாஞ்சிகுடி நீதவான் நீதிமன்ற பதில் நீதிபதி வி.தியாகேஸ்வரன் அவர்களின் உத்தரவுக்கமைய சடலத்தைப் பார்வையிட்ட களுவாஞ்சிகுடி பிரதேச திடீர் மரணவிசாரணை அதிகாரி சிதம்பரப்பிள்ளை ஜீவரெத்தினம், சடலத்தை மட்டக்களப்பு போதனா வைத்தியாலைக்கு கொண்டு சென்று பிரேத பரிசோதனைக்கு உட்படுத்தமாறு உத்தரவிட்டுள்ளார்.
+In this backdrop, Kaluwanchikudi Divisional Death Officer Chidambarappillai Jeeveratnam, who visited the body on the orders of the Kaluwanchikudi Magistrate's Court in response to the orders of Judge V.Teeswaran.
 
-...
+The body has been taken to the Batticaloa Teaching Hospital and further investigations are being carried out by the Kaluwanchikudi police.
+
+◼️
 
 [Data](articles/a8448940.json)
+
+[Extended Data](ext_articles/a8448940.ext.json)
 
 ---
 
@@ -161,6 +165,8 @@ The SLPP has no mandate to support him in doing so, because it was elected on th
 ...
 
 [Data](articles/2ef550ff.json)
+
+[Extended Data](ext_articles/2ef550ff.ext.json)
 
 ---
 

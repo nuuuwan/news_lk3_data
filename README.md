@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 03:17:19**
+As of **2024-02-22 03:33:06**
 
 ## Newspaper Stats
 
-*Scraped **8,589** Articles*
+*Scraped **8,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 443
 dailyftlk | 464
 adalk | 735
 adaderanalk | 1,035
-tamilmirrorlk | 1,065
+tamilmirrorlk | 1,066
 virakesarilk | 1,154
 adaderanasinhalalk | 1,257
 dailymirrorlk | 1,279
@@ -26,7 +26,7 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,587 (100.0%) of 8,589 articles have been extended.
+8,589 (100.0%) of 8,590 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The Bank’s Total Operating Income decreased by 3% to Rs. 49.5 billion in 2023 
 
 [Data](articles/8d5bab42.json)
 
+[Extended Data](ext_articles/8d5bab42.ext.json)
+
 ---
 
 ### Sun Match honours founder’s legacy with ‘Navatha Avidimu’
@@ -61,6 +63,8 @@ Sun Match Company, the market leader and first company in Sri Lanka to produce w
 ...
 
 [Data](articles/ba66ce33.json)
+
+[Extended Data](ext_articles/ba66ce33.ext.json)
 
 ---
 
@@ -123,6 +127,18 @@ The warning serves as a reminder for individuals to avoid prolonged exposure to 
 [Data](articles/e5b662e8.json)
 
 [Extended Data](ext_articles/e5b662e8.ext.json)
+
+---
+
+### அமைச்சரவை செயலாளர் நியமனம்
+
+*2024-02-22 01:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-செயலாளர்-நியமனம்/175-333631) · `ta`
+
+கடந்த 14 ஆம் திகதி முதல் அமுலாகும் வகையில் இந்த நியமனம் வழங்கப்பட்டுள்ளதாக குறிப்பிடப்பட்டு அதிவிசேட வர்த்தமானி வெளியிடப்பட்டுள்ளமை குறிப்பிடத்தக்கது. (a)
+
+◼️
+
+[Data](articles/acb5ffb0.json)
 
 ---
 
@@ -2101,23 +2117,5 @@ One of them is a former military commander - I think that even though he is in t
 [Data](articles/b30eaf2a.json)
 
 [Extended Data](ext_articles/b30eaf2a.ext.json)
-
----
-
-### Inflation is more
-
-*2024-02-21 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193656) · `si`
-
-The country's inflation has increased to 6.5 percent in January 2024, according to the National Customer Price Index.
-
-Accordingly, in December 2023, inflation was 4.2 percent in December 2023.
-
-Meanwhile, 1.6 percent in December 2023, food inflation increased to 4.1 percent in January 2024.
-
-◼️
-
-[Data](articles/76b6ae31.json)
-
-[Extended Data](ext_articles/76b6ae31.ext.json)
 
 ---

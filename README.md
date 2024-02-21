@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 19:33:17**
+As of **2024-02-21 19:50:15**
 
 ## Newspaper Stats
 
-*Scraped **8,524** Articles*
+*Scraped **8,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 436
 islandlk | 443
 dailyftlk | 456
 adalk | 731
-adaderanalk | 1,028
-tamilmirrorlk | 1,055
+adaderanalk | 1,029
+tamilmirrorlk | 1,058
 virakesarilk | 1,145
 adaderanasinhalalk | 1,249
 dailymirrorlk | 1,266
@@ -26,11 +26,33 @@ dailymirrorlk | 1,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,522 (100.0%) of 8,524 articles have been extended.
+8,528 (100.0%) of 8,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### The court heard the report on Shani
+
+*2024-02-21 18:46:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷானி-தொடர்பிலான-அறிக்கையை-கேட்டது-நீதிமன்றம்/175-333611) · `ta`
+
+The Court of Appeal has ordered the Attorney General to submit a report on the provision of special police protection to the former chief of the secret police division.
+
+The Court of Appeal has ordered the writ petition filed by former Chief of Criminal Investigation (CID) Shani Abeysekera demanding his safety.
+
+The writ petition was taken on Wednesday (21) in the presence of a session of the Court of Appeal Judge Nishanga Bandula Karunaratne and Sashi Mahendran.
+
+Former chief of the Criminal Investigation Division, Shani Abeysekera, has filed the writ petition demanding that the security provided to him inadequate inadequate.
+
+President's Attorney Upul Jayasuriya, Additional Solicitor General and President's Attorney Rhanda Abeesuriya appeared on behalf of the Attorney General.
+
+◼️
+
+[Data](articles/4ee3510f.json)
+
+[Extended Data](ext_articles/4ee3510f.ext.json)
+
+---
 
 ### To Afghanistan to advantage
 
@@ -46,21 +68,41 @@ Afghanistan Leading Ibrahim was able to win the Third and Final Thirteen match b
 
 ---
 
-### ඉහළ දැමූ ප්‍රතිශතය රිවස් කරයි
+### Reated percentage is rewasted
 
 *2024-02-21 18:21:11* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-දැමූ-ප්‍රතිශතය-රිවස්-කරයි/11-408222) · `si`
 
-2023 ඔක්තෝම්බර් මාසයේදී විදුලිබිල එක් එක් කාණ්ඩ යටතේ ඉහළ දැමූ ප්‍රතිශතයන් සම්පූර්ණයෙන් ඉවත් කිරීමට කටයුතු කරන බව කරන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+Power and Energy Minister Kanchana Wijesekara said that the percentage of electricity tariffs will be completely removed in October 2023, said Power and Energy Minister Kanchana Wijesekara.
 
-ඒ අනුව ගෘහස්ථ කාණ්ඩයේ සහ ආගමික සිද්ධස්ථාන වල 18%න්, කර්මාන්ත සහ හෝටල් කාණ්ඩය 12%න් සහ රජයේ ආයතන කාණ්ඩය 24%න් විදුලි බිල අඩු කිරීමට කටයුතු කරන බව පාර්ලිමේන්තුවේ අද (21දා) පැවති කල් තැබීමේ විවාදයට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+Accordingly, 18% of the household category and religious shrines, the industry and hotel category, and 24% of the government's category 24% participating in the adjournment debate.
 
-"අපි මහජන උපයෝගීතා කොමිසම දැනුවත් කළා. මම සඳුදා කැබිනට් මණ්ඩලයත් දැනුවත් කළා. අපි කලින් දුන්න යෝජනාවට වඩා අඩු කරන්න පුළුවන් තැන් කිහිපයක් තියෙනවා. විදුලිබල මණ්ඩලය දැනුවත් කළා හෙට අපි ඒ යෝනජව මහජන උපයෝගීතා කොමිසමට ලබා දෙනවා කියලා.
+"We informed the Public Utilities Commission. I also informed the Cabinet of Monday. There are several places where we can do more than the previously bow suggestion. The Electricity Board announced that we were given that Anneja to the Public Utilities Commission tomorrow.
 
-මේ රටේ ජනතාවට ගෘහස්ථ කාණ්ඩයේ සහ ආගමික සිද්ධස්ථාන වල 18%න් වැඩි කළා. අපි කර්මාන්ත සහ හෝටල් කාණ්ඩය 12%න් අපි ඔක්තෝම්බර් මාසයේ බිල වැඩිකිරීමක් කළා. අලේ තියෙන රජයේ ආයතන කාණ්ඩය ඇතුලේ 24%න් අපි ඔක්තෝම්බර් මාසයේ බිල වැඩි කිරීමක් කළා. ඒ අනුව විදුලිබල මණ්ඩලය අපිට කිව්වේ  ඔක්තෝම්බර් මාසයේ අපි වැඩි කළ මිල සම්පූර්ණයෙන්ම ඉවත් කරන්න කටයුතු කරනවා කියලා."
+...
+
+[Data](articles/9255bc43.json)
+
+[Extended Data](ext_articles/9255bc43.ext.json)
+
+---
+
+### Case against 453 bakeries
+
+*2024-02-21 18:18:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/453-பேக்கரிகளுக்கு-எதிராக-வழக்கு/175-333610) · `ta`
+
+The Consumer Affairs Authority said that steps have been taken to submit a fate of 453 against 453 bakery and shops in the Gazette in the Gazette, which is published in the Gazette, which is published in connection with the stipulated mass.
+
+The Authority said that the tests of the gazette notification were implemented on the 5th of this month, and 453 bakeries and shops were identified in the raids so far.
+
+The Authority has urged the Authority to be certified by the mass and measurement company that the mass and price of the style for sale in all bakeries and stores should be clearly shown and the amount of styles should be certified when the customer requested to measure the color of the style.
+
+The Authority added that officials of the Consumer Affairs Authority will continue to carry out the raid nationwide and that if there are any complaints for the consumers, the Consumer Authority will be able to call the Emergency Telephone number of the Consumer Authority 1977.
 
 ◼️
 
-[Data](articles/9255bc43.json)
+[Data](articles/39ff794c.json)
+
+[Extended Data](ext_articles/39ff794c.ext.json)
 
 ---
 
@@ -308,6 +350,26 @@ As well as the boys should be accommodated to play in the house or in the shade.
 
 ---
 
+### ‘I can’t sell Sri Lanka to India’ – Minister Harin hits back at Wimal and Gammanpila
+
+*2024-02-21 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97440/i-cant-sell-sri-lanka-to-india-minister-harin-hits-back-at-wimal-and-gammanpila) · `en`
+
+Delivering a statement in Parliament today (21 Feb.), Tourism Minister Harin Fernando hit out at opposition MPs Wimal Weerawansa and Udaya Gammanpila over their criticism of his recent speech in India.
+
+Weerawansa and Gammanpila had yesterday (20 Feb.) accused Minister Fernando of attempting to sell the country to India, in reference to certain comments made by the Tourism Minister during a recent event held in Mumbai, India.
+
+Responding to the allegations against him, Fernando stated that he had only thanked India for extending their support at a time when Sri Lanka was facing its worst economic crisis, and that his statement was gravely misconstrued by the MPs in question.
+
+“I humbly thanked India for saving Sri Lanka for the last 13 – 14 months, with giving us the maximum amount of tourists”, he said.
+
+...
+
+[Data](articles/375af3c3.json)
+
+[Extended Data](ext_articles/375af3c3.ext.json)
+
+---
+
 ### Appeal message from the mother of Alexi Navalni's mother
 
 *2024-02-21 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193665) · `si`
@@ -336,7 +398,7 @@ However, the Russian President has not responded so far regarding the video.
 
 Hollywood actor Jason Momoa has congratulated Sri Lanka for being declared a UN World Restoration Flagship, in recognition of the island nation’s efforts to rebuild and restore its mangrove ecosystems.
 
-In a video statement, the United Nations Environment Programme (UNEP) Advocate for Life Below Water, commended the island nation.
+In a video statement, the United Nations Environment Programme (UNEP) Advocate for Life Below Water, commended the endeavours of the island nation.
 
 The Aquaman star further said: “As a native Hawaiian, I saw the impacts of climate change first had this year, the devastating lines of fires. We urgently need to revive the health of our lands, the coasts and oceans.
 
@@ -872,6 +934,24 @@ Meanwhile, inflation increased from 1.6 per cent in December 2023 to 4.1 per cen
 
 ---
 
+### Fine if you sell cotton candy
+
+*2024-02-21 15:26:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஞ்சு-மிட்டாய்-விற்றால்-அபராதம்/175-333594) · `ta`
+
+Pink Color Punch Candidate, which is sold at tourist attractions, including beaches and entertainment parks, has been mixed with toxic chemicals.. Following this, food security officials inspected the cotton candies.
+
+It is then that the toxic substance that produces cancer that is harmful to the body. Following this, the Government of Tamil Nadu banned 'Pink' color cotton candy. Following this, the food officer headed by Chennai District Food Nomination Officer Satish Kumar is sold in Chennai in Chennai?They are actively investigating and monitoring.
+
+“The cotton candy, which is made of 'pink' that is harmful to the body, is not currently sold in any part of Chennai. Only white cotton candy that does not include color is being sold.
+
+...
+
+[Data](articles/057f4309.json)
+
+[Extended Data](ext_articles/057f4309.ext.json)
+
+---
+
 ### Sarath Fonseka Interview to Indian Media
 
 *2024-02-21 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176963) · `ta`
@@ -1276,19 +1356,21 @@ The bodies have been placed in the hospital morgue and is now obstructed to dela
 
 ---
 
-### වැඩිහිටියන් බලා ගැනීමට ප්‍රතිපත්තියක්
+### A policy to take care of adults
 
 *2024-02-21 13:45:25* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිහිටියන්-බලා-ගැනීමට-ප්‍රතිපත්තියක්/11-408216) · `si`
 
-මෙරට වැඩිහිටි ජනගහනය වෙනුවෙන් ලබා දියයුතු   සෞඛ්‍ය පහසුකම් තවමත් අපේ සෞඛ්‍ය පද්ධතිය තුළ නිසි පරිදි සකස්වී නැතැයි සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය රමේෂ් පතිරණ මහතා පැවසීය.
+Health and Industry Minister Minister Ramesh Pathirana said that the health facilities provided for the elderly population in Sri Lanka have not yet been properly prepared in our health system.
 
-මේ හේතුවෙන්   වැඩිහිටි ජනගහනය සෞඛ්‍ය පද්ධතියටත් ඒ අයගේ බාරකරුවන්ටත් ගැටලුවක් වී ඇතැයිද කී අමාත්‍යවරයා මේ තත්වයට විසඳුමක් ලෙස වැඩිහිටි ජනතාවට අවශ්‍ය සෞඛ්‍ය පහසුකම් මෙන්ම ඔවුන් රැක බලාගැනීම පිලිබඳව ඉදිරියේදී ප්‍රතිපත්ති සම්පාදනඒ ය කරන බව ද අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+The Minister added that the adult population has been a problem for the health system and their own customers, the Minister added that it is a policy compliance of health facilities and care for the elderly people as a solution.
 
-අද 21 පෙරවරුවේ බෙන්තොට රෝහලේ නිරීක්ෂණ චාරිකාවකට පැමිණි අමාත්‍යවරයා රැස්ව සිටි පිරිස අමතමින් මේ අදහස් පළ කළේය.
+The Minister made these comments addressing the gathering at the Bentota Hospital this morning.
 
 ◼️
 
 [Data](articles/b5a9bbe8.json)
+
+[Extended Data](ext_articles/b5a9bbe8.ext.json)
 
 ---
 
@@ -1979,87 +2061,5 @@ The official said that such a decision was made to prevent the "black shop".
 [Data](articles/e9297149.json)
 
 [Extended Data](ext_articles/e9297149.ext.json)
-
----
-
-### Pakistan’s largest parties strike deal on coalition government
-
-*2024-02-21 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97428/pakistans-largest-parties-strike-deal-on-coalition-government) · `en`
-
-Two major Pakistan political parties said on Tuesday that they had reached a formal agreement to form a coalition government, ending ten days of intense negotiations after an inconclusive national election did not return a clear majority.
-
-The agreement between Bhutto Zardari’s Pakistan Peoples Party (PPP) and the Pakistan Muslim League-Nawaz (PML-N) of three-time Premier Nawaz Sharif ends days of uncertainty and negotiations after the Feb. 8 elections produced a hung national assembly.
-
-Bhutto Zardari confirmed at a late night press conference in Islamabad that former premier Shehbaz Sharif, who was seated beside him, would be the coalition’s candidate for prime minister.
-
-He added that his father Asif Ali Zardari will be the alliance’s candidate for the country’s president.
-
-Shehbaz Sharif, the younger brother of Nawaz, said the two parties had the numbers to form government, and also had the support of other smaller parties.
-
-...
-
-[Data](articles/a5adf056.json)
-
-[Extended Data](ext_articles/a5adf056.ext.json)
-
----
-
-### If the paddy goes to 130 kg of rice, 260 kg of rice
-
-*2024-02-21 11:51:43* · [`adalk`](https://www.ada.lk/breaking_news/වී-කිලෝව-130ට-ගියොත්-සහල්-කිලෝව-260ක්-වෙනවා/11-408207) · `si`
-
-According to the control price of rice, the farmer buy paddy and the government to buy a farmer's paddy, Mithrapala, who is a large scale rice, calling on a press conference today (21).
-
-He said that if the farmer buys a WikiLO at Rs.
-
-He said that the farmer's rice mill industrialists should meet with a desk to meet a desk.
-
-"There is a great charge of paddy. The nation has decided to buy paddy with rice prices.. Here we are maintaining the prices of the prices of raw and dailis. As a result, the rice is to be revised to increase the price of paddy.
-
-It is difficult for us to do that in the economic situation of the people. It is not enough money for the farmer. .Nevarily receives about 90,000 rupees for the farmer to the farmer to the farmers today. Samba is between Rs. 115 and 110 rupees.
-
-At average 115 wickets say 110 rice per kilo. The control price is the kilo of Kilo 220, so we have already appointed a kilo of nadu rice to the consumers.
-
-...
-
-[Data](articles/478bcc86.json)
-
-[Extended Data](ext_articles/478bcc86.ext.json)
-
----
-
-### 10th National Scout Jambori: Video
-
-*2024-02-21 11:46:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10ஆவது-தேசிய-சாரணர்-ஜம்போரி-காணொளி/175-333575) · `ta`
-
-As the Prime Minister of Sri Lanka, President Ranil Wickremesinghe inaugurated the 10th National Scout Jambori.
-
-The National Scout Jambori is being held in Trincomalee with the participation of 11,500 scouts from Sri Lanka and other 28 countries.
-
-◼️
-
-[Data](articles/184c515a.json)
-
-[Extended Data](ext_articles/184c515a.ext.json)
-
----
-
-### Pilot project underway to convert existing three-wheeler into an EV
-
-*2024-02-21 11:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pilot-project-underway-to-convert-existing-three-wheeler-into-an-EV/108-277475) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - A total of 1,184,423 three-wheelers are currently registered in Sri Lanka and the Transport Ministry is to implement a pilot project to popularize the registration and use of electric vehicles as a basic activity in relation to the e-mobility policy.
-
-With the aim of reducing environmental damage and limiting the increasing use of fuel-efficient three-wheelers, the electrification pilot project was implemented by the Transport and Highways Ministry and the Department of Motor Transport in collaboration with the United Nations Development Agency (UNDP).
-
-A progress review meeting in this regard was held at the Ministry where stakeholders were informed.
-
-In this project, the three-wheelers that are currently powered by fuel will be converted to electricity, and the opinions of all stakeholders were consulted and discussed about the relevant technical, operational and practical conditions.
-
-◼️
-
-[Data](articles/dfbbf9fe.json)
-
-[Extended Data](ext_articles/dfbbf9fe.ext.json)
 
 ---

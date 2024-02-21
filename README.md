@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 22:50:32**
+As of **2024-02-21 23:02:54**
 
 ## Newspaper Stats
 
-*Scraped **8,559** Articles*
+*Scraped **8,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 436
 islandlk | 443
 dailyftlk | 456
 adalk | 735
-adaderanalk | 1,033
+adaderanalk | 1,035
 tamilmirrorlk | 1,064
 virakesarilk | 1,147
 adaderanasinhalalk | 1,256
@@ -26,33 +26,75 @@ dailymirrorlk | 1,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,558 (100.0%) of 8,559 articles have been extended.
+8,561 (100.0%) of 8,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### රිය අනතුරක් ද ? මනුෂ්‍ය ඝාතනයක් ද ?
+### Minister calls for proposals to halt sending Sri Lankan women overseas as housemaids
+
+*2024-02-21 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97445/minister-calls-for-proposals-to-halt-sending-sri-lankan-women-overseas-as-housemaids) · `en`
+
+Minister of Labour and Foreign Employment Manusha Nanayakkara says he has sought proposals from officials of the SLBFE and foreign employment agencies to “completely stop” sending Sri Lankan women overseas to serve as housemaids.
+
+Taking to ‘X’ (formerly Twitter), the Minister stated that he has urged the management of the Sri Lanka Bureau of Foreign Employment (SLBFE) and the Association of Licensed Foreign Employment Agencies (ALFEA) to submit proposals and plans to completely stop sending Sri Lankan women overseas to work as housemaids.
+
+Nanayakkara emphasised the importance of halting the practice of sending women for overseas employment as domestic workers and instead proposed that women should be encouraged to seek foreign jobs in high paying skilled categories of work.
+
+...
+
+[Data](articles/30d7efca.json)
+
+[Extended Data](ext_articles/30d7efca.ext.json)
+
+---
+
+### Is a car accident?Is a murder?
 
 *2024-02-21 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193677) · `si`
 
-දෙහිවලදී මෝටර් රථයක් ස්කූටර් වර්ගයේ යතුරුපැදියක ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයෙකු අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+A person has been identified as a car collided with a corporate motorcycle in Dehiwala.
 
-දෙහිවල කඩවත පාරේ පැරකුම්බා මාවතට හැරෙන මංසන්ධිය අසළ දී මෙම අනතුර සිදුව ඇත.
+The accident had occurred near the intersection of Parakumba Mawatha on Kadawatha Road, Dehiwala.
 
-මෙම අනතුර හිතාමතා සිදුකළ මනුෂ්‍ය ඝාතනයක් ද යන්න සම්බන්ධයෙන් මේ වනවිට පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+The police have commenced investigations into whether the accident was deliberately committed.
 
-අනතුරට පෙර සැකකාර මෝටර් රථයේ රියදුරු සහ මියගොස් ඇති පුද්ගලයා අතර බහින්බස්වීමක් සිදුවී ඇත්ද යන්න සම්බන්ධයෙන්ද මේ වනවිට පොලිස් විමර්ශන ආරම්භ කර ඇත.
+Police investigations have also commenced the argument between the driver of the suspect car and the victim.
 
-කෙසේ වෙතත් විමර්ශන සිදුකළ දෙහිවල පොලීසිය විසින් මේ වනවිට සැකකාර කාර් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇත.
+However, the Driver of the suspect car has been arrested by the Dehiwala Police.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 30 හැවිරිදි වියේ පසුවන දෙහිවල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The arrested was a 30 year old resident of Dehiwala.
 
-අත්අඩංගුවට ගත් සැකකරු හෙටදින ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව බව පොලීසිය පැවසීය.
+The suspect is to be produced before the Mount Lavinia Magistrate's Court tomorrow.
 
 ◼️
 
 [Data](articles/4393d5fb.json)
+
+[Extended Data](ext_articles/4393d5fb.ext.json)
+
+---
+
+### Suspect arrested with commercial explosives during search of a bus
+
+*2024-02-21 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97444/suspect-arrested-with-commercial-explosives-during-search-of-a-bus) · `en`
+
+A resident of Mundal, Mannar was apprehended by the Sri Lanka Navy on Wednesday morning (21 Feb.) with a stock of 650 water gel sticks – a type of commercial explosive.
+
+The 43-year-old suspect was arrested during a search of a public transport bus in the Pallemunai area, and was handed over to the Mannar Police, along with the seized explosives, Sri Lanka Navy reported.
+
+The special coordinated search operation was carried out by the SLNS Gajaba in the North Central Naval Command, with the assistance of the Mannar Divisional Crime Detective Bureau.
+
+It is suspected that the explosive items have been obtained with the intention of using them for illegal fishing activities.
+
+The Sri Lanka Navy says it has been conducting regular operations to crack down on fishing using explosives as it poses a serious threat to marine life and can cause long-lasting damage to the marine ecosystems.
+
+◼️
+
+[Data](articles/8fc0c890.json)
+
+[Extended Data](ext_articles/8fc0c890.ext.json)
 
 ---
 
@@ -2037,43 +2079,5 @@ When inquiring from the National Cadet Training Center in the Rantambe, the Defe
 [Data](articles/d1dbc367.json)
 
 [Extended Data](ext_articles/d1dbc367.ext.json)
-
----
-
-### Iranian President to visit Sri Lanka soon
-
-*2024-02-21 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193646) · `si`
-
-Minister of Foreign Minister Hussein Armir Abdullahin says that Iranian President Irania will visit Sri Lanka.
-
-The Iranian Foreign Minister of Sri Lanka participated in a joint press conference in Colombo yesterday.
-
-Iranian Foreign Minister Dr. Hussein Armir Abdullahin and External Affairs Minister Ali Sabri presented at the Ministry of External Affairs.
-
-◼️
-
-[Data](articles/69fbcfc4.json)
-
-[Extended Data](ext_articles/69fbcfc4.ext.json)
-
----
-
-### Kaduwela Magistrate's Order will be powerless in Homagama
-
-*2024-02-21 13:35:00* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙල-මහේස්ත්‍රාත්-නියෝගය-හෝමාගම-මහාධිකරණය-බල-රහිත-කරයි/11-408214) · `si`
-
-Kaduwela Magistrate's Court to be arrested by the Kaduwela Police and the Criminal Investigation Division in the Criminal Investigation Division under the operation of justice.Homal Ranaweera ordered the Inspector General of Police to seize the illegal assets of the Criminal Investigation Division without the re-investigating the Criminal Investigation Department.
-
-Accordingly, Mrs. Chanima Wijaya Bandara was given by Mrs. Chanama Wijaya Bandara on the 17th.
-
-The order of Kaduwela Magistrate Chanima Wije Bandara on the 17th of this order the owners of the property had been taken back on the illegal contact division (5) and the custody of the custody.
-
-Deputy Solicitor General Savigation Division of the Attorney General and the Criminal Investigation Division on behalf of the Attorney General was held on behalf of the Attorney General.
-
-...
-
-[Data](articles/9ffa5c66.json)
-
-[Extended Data](ext_articles/9ffa5c66.ext.json)
 
 ---

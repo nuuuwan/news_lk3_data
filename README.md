@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 18:20:28**
+As of **2024-02-21 18:33:09**
 
 ## Newspaper Stats
 
-*Scraped **8,507** Articles*
+*Scraped **8,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,116 @@ adalk | 729
 adaderanalk | 1,028
 tamilmirrorlk | 1,055
 virakesarilk | 1,142
-adaderanasinhalalk | 1,245
-dailymirrorlk | 1,258
+adaderanasinhalalk | 1,248
+dailymirrorlk | 1,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,506 (100.0%) of 8,507 articles have been extended.
+8,507 (99.9%) of 8,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### කඩුවෙන අධිකරණයෙන් දුන් නියෝගය හෝමාගමින් වෙනස් කරයි
+
+*2024-02-21 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193669) · `si`
+
+වැලිවිට සුද්දා නමැත්තාට අයත් බව කියන රථ වාහන යළි අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන ඒකකය වෙත ලබාදීමට කටයුතු කරන ලෙස හෝමාගම මහාධිකරණ විනිසුරු නිමල් රණවීර මහතා අද (21) දින නියෝගයක් නිකුත් කර තිබේ.
+
+ඒ, කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය මගින් යළි අයිතිකරුවන්ට භාරදෙන ලෙස නියෝග කරන ලද රුපියල් කෝටි 10ක් පමණ වටිනා රථවාහන ය.
+
+යුක්තිය මෙහෙයුම යටතේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීතිවිරෝධී වත්කම් කොට්ඨාසය මගින් මෙවා අත්අඩංගුවට ගෙන තිබුණි.
+
+අත්අඩංගුවට ගෙන මාස 02කට ආසන්න කාලයක් රඳවා තබාගෙන සිටින කෝටි 10ක් පමණ වටිනාකමකින් යුත් රථවාහන එහි ලියාපදිංචි අයිතිකරු වෙත යළි ලබාදෙන ලෙස කඩුවෙල මහෙස්ත්‍රාත් චාණිමා විජේබණ්ඩාර මහත්මිය ඉකුත් 16 වනදා නියෝග කර තිබුණි.
+
+එම නියෝගය මත අදාළ රථවාහනවල ලියාපදිංචි අයිතිකරුවන් විසින් අදාල රථවාහන මුදාගෙන රැගෙන ගොස් තිබේ.
+
+...
+
+[Data](articles/8880ad35.json)
+
+---
+
+### යුක්තිය ගැන තීරණයක් ගනී
+
+*2024-02-21 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193668) · `si`
+
+කුමන බලපෑම් පැමිණිය ද මත්ද්‍රව්‍ය හා පාතාලය මර්දනය කිරීමට මෙන්ම කාන්තාවන්ට සහ දරුවන්ට සිදුවන හිංසනය වැළැක්වීමට දියත්කර ඇති කිසිදු මෙහෙයුමක් නොනවත්වන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+
+‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (21) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කර ඇත.
+
+එසේම 2023 දෙසැම්බර් 17 වනදා ආරම්භ කළ යුක්තිය මෙහෙයුමෙන් මේ වනවිට අත්අඩංගුවට ගෙන ඇති මත්ද්‍රව්‍යවල වටිනාකම රුපියල් බිලියන 7.8ක් වන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාය,
+
+...
+
+[Data](articles/62a06b59.json)
+
+---
+
+### Reduce price of ‘Gal arrack’ before New Year: State Minister
+
+*2024-02-21 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reduce-price-of-Gal-arrack-before-New-Year-State-Minister/108-277495) · `en`
+
+Parliament, Feb. 21 (Daily Mirror)- The government must reduce the price of special arrack (Gal arrack) before the New Year for the common man to take a booze, State Minister Chamara Sampath said today.
+
+He told Parliament that prices of arrack had gone up exorbitantly and that people tend to drink illicit liquor (Kasippu).
+
+"The price of a bottle of Gal arrack has gone up. People now drink illicit liquor. Taverns are deserted. People cannot drink 'Kasippu' every day. They need to drink 'Gal arrack' at least for the New Year," he said.
+
+The State Minister said a bottle of Gal arrack can be reduced to Rs. 1,500 adding that spirits needed to brew arrack can be obtained from Pelwatte, Sewanagala and Ethimale.
+
+◼️
+
+[Data](articles/e9d57881.json)
+
+---
+
+### වනිඳු සහ මහීෂ් ඉදිරියට
+
+*2024-02-21 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193667) · `si`
+
+ICC පන්දු යවන්නන්ගේ නවතම ශ්‍රේණිගත කිරීම්වල 20යි 20 පන්දු යවන්නන්ගේ ලැයිස්තුවේ දෙවැනි ස්ථානය දක්වා ඉහළට පැමිණීමට ශ්‍රී ලංකා 20යි 20 නායක වනිඳු හසරංග සමත් ව තිබේ.
+
+එහි තුන් වැනි ස්ථානයේ මහීෂ් තීක්ෂණ පසු වන අතර, ඔහුට හිමි වී ඇති ප්‍රසාද ලකුණු ගණන 676කි.
+
+20යි 20 පන්දු යවන්නන්ගේ ශ්‍රේණිගත කිරීම්වල අංක එකේ පසු වන්නේ, එංගලන්ත දඟපන්දු යවන ක්‍රීඩක ආදිල් රෂිඩ් ය.
+
+මේ අතර, 20යි 20 තුන්ඉරියව් ක්‍රීඩකයන්ගේ ලැයිස්තුවේ ද ඉදිරියට පැමිණීමට නායක වනිඳු හසරංග සමත් ව තිබේ.
+
+තවමත් එහි පළමු ස්ථානයේ පසු වන්නේ, බංග්ලාදේශ ක්‍රීඩක ශකිබ් අල් හසන් ය.
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර පැවැත්වෙන 20යි 20 තරගාවලියේ දැක්වූ දස්කම් මත වනිඳු සහ මහීෂ් මෙසේ ශ්‍රේණිගත කිරීම්වල ඉදිරියට පැමිණ තිබේ.
+
+දෙරට අතර තෙවැනි සහ අවසන් 20යි 20 තරගය අද (21) සවස 07.00ට රන්ගිරි දඹුලු අන්තර්ජාතික ක්‍රිකට් ක්‍රීඩාංගණයේ දී ආරම්භ වීමට නියමිත ය.
+
+◼️
+
+[Data](articles/101e197f.json)
+
+---
+
+### CEB spokesman suggests students should study by oil lamp
+
+*2024-02-21 17:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-spokesman-suggests-students-should-study-by-oil-lamp/108-277494) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - Spokesman for the Ceylon Electricity Board (CEB), Noel Priyantha, stirred a controversy during a recent television programme by suggesting that children should resort to studying using oil lamps if necessary, citing the precedent set by previous generations who excelled in their studies under similar conditions.
+
+Priyantha made these remarks while addressing concerns over the escalating electricity prices in Sri Lanka.
+
+In response to queries about the adverse effects of power disconnections due to unpaid bills, he acknowledged the hardships faced by consumers but attributed them to a shift from a culture of free electricity.
+
+Highlighting that electricity charges had remained stagnant for nearly a decade before the recent increases, Priyantha stressed on the financial challenges faced by the CEB, which owes the government a substantial amount.
+
+...
+
+[Data](articles/2b33a272.json)
+
+---
 
 ### Mullaitivu fishermen are suffering from violation of Indian fishermen
 
@@ -79,6 +177,24 @@ Nagananda Kodituwakku has requested the Supreme Court to allow the national folk
 [Data](articles/b36e2509.json)
 
 [Extended Data](ext_articles/b36e2509.ext.json)
+
+---
+
+### AMS urges fairness amidst National Hospital turmoil
+
+*2024-02-21 17:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AMS-urges-fairness-amidst-National-Hospital-turmoil/108-277492) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - In response to the recent upheaval at the National Hospital of Sri Lanka (NHSL), the Association of Medical Specialists (AMS) raised deep concern over the events that transpired on the premises.
+
+The AMS observed an unsettling incident where a group of healthcare workers reportedly obstructed a deputy director of NHSL from leaving his office, demanding his removal over contentious statements made in the recent past.
+
+In their press release, the AMS highlighted several crucial points surrounding the issue. Firstly, they emphasized that while the deputy director in question holds the position of President of a trade union, expressing opinions and views is within the rights of trade union leaders.
+
+However, if such expressions are deemed detrimental to the functioning of health services or specific categories of health workers, a formal complaint process should be initiated followed by an impartial inquiry.
+
+...
+
+[Data](articles/e87dfce7.json)
 
 ---
 
@@ -340,6 +456,22 @@ Officials of the Sri Lankan Branch Vice President Indranath Pelan Institute of C
 
 ---
 
+### Sri Lanka should not become Indianized: Government MP
+
+*2024-02-21 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-should-not-become-Indianized-Government-MP/108-277491) · `en`
+
+Parliament, Feb. 21 (Daily Mirror)- A government MP said today that Sri Lanka should not be subjected to Indianisation, claiming that he was against the Indian rupee being used in Sri Lanka and to provide Sri Lankan airports to Indian investors.
+
+SLPP MP Sarath Weerasekara told Parliament that the President's efforts to rescue the country from economic shambles was praiseworthy and that he was against it if Sri Lanka was gradually subjected to indianisation.
+
+"We are against if the Indian rupee is used in Sri Lanka or Sri Lanka becoming the 29th State of India. We highly appreciate the support extended to Sri Lanka by India. However, we are against providing the airports to Indian investors. The airport, the access point to the country is a sensitive place. It is a threat to the sovereignty of the country if a foreign company gets hold of the country's airport," he said.
+
+...
+
+[Data](articles/4c930d48.json)
+
+---
+
 ### Research links COVID-19 vaccines with increased heart risks, brain and blood disorders
 
 *2024-02-21 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97438/research-links-covid-19-vaccines-with-increased-heart-risks-brain-and-blood-disorders) · `en`
@@ -484,6 +616,38 @@ President Wickremesinghe reiterated the Sri Lankan government’s firm stance on
 
 ---
 
+### Colombo University lecturer dies in accident
+
+*2024-02-21 15:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-University-lecturer-dies-in-accident/108-277489) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - An Assistant Lecturer of the Colombo University who was knocked down by a lorry at Wickremesnghe Pura Junction in Battaramulla succumbed to her injuries on admission to the National Hospital in Colombo.
+
+The victim Lakmini Bogamuwa (24) was an Assistant Lecturer of the Arts Faculty of the Colombo University and a resident of Wickremesinha Pura.
+
+She was on her way to the university to report for duty last morning when she met with the accident. The injured was admitted immediately to a private hospital and later transferred to the National Hospital, Colombo.
+
+The driver of the lorry was taken into custody pending further investigations.
+
+◼️
+
+[Data](articles/395d9fec.json)
+
+---
+
+### Hollywood star Jason Momoa congratulates Sri Lanka
+
+*2024-02-21 15:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hollywood-star-Jason-Momoa-congratulates-Sri-Lanka/108-277490) · `en`
+
+Feb 21- Hollywood star Jason Momoa, best known for his role in the movie Aquaman, congratulated Sri Lanka after the island was declared a UN World Restoration Flagship, in recognition of its vital efforts to rebuild and restore the mangrove ecosystems.
+
+In a UN video, Jason Momoa said Sri Lanka was an example on working together to make positive change.
+
+◼️
+
+[Data](articles/639853e3.json)
+
+---
+
 ### Court order after the kidney surgery at Ridgeway Hospital
 
 *2024-02-21 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193658) · `si`
@@ -531,6 +695,24 @@ The petition was ordered to be called on the 26th of this month, the respondent 
 [Data](articles/e6ee9840.json)
 
 [Extended Data](ext_articles/e6ee9840.ext.json)
+
+---
+
+### Security tightened after terrorist Pannun threatens to disrupt Ranchi test
+
+*2024-02-21 15:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Security-tightened-after-terrorist-Pannun-threatens-to-disrupt-Ranchi-test/108-277488) · `en`
+
+Feb. 21 (IND) - Security has been tightened in the Jharkhand capital after US-based designated terrorist Gurpatwant Singh Pannun threatened to disrupt the fourth Test match between India and England in Ranchi, officials said.
+
+Pannun, who has been designated as a terrorist by the Home Ministry, has also appealed to the banned CPI (Maoist) through a video uploaded on social media to disrupt the match, officials said. The fourth Test will commence at the JSCA International International Stadium Complex here from February 23. The England team reached the city on Tuesday.
+
+Pannun on radar of the National Investigation Agency since 2019:
+
+Pannun has been on the National Investigation Agency’s radar since 2019, when the anti-terror federal agency registered its first case against the "designated individual terrorist", who has been spreading fear and terror in Punjab and elsewhere in in the country through threats and intimidation tactics.
+
+...
+
+[Data](articles/d8707255.json)
 
 ---
 
@@ -1028,21 +1210,23 @@ Shantha Jayasekera, who was serving as 18 years, was held recently to tribute pa
 
 ---
 
-### ශිෂ්‍යභට පුහුණුවට පැමිණි සිසු දෙපිරිසක් ගැටී සිසුන් 17ක් රෝහලට
+### 17 students hospitalized after collision with two students
 
 *2024-02-21 13:37:50* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යභට-පුහුණුවට-පැමිණි-සිසු-දෙපිරිසක්-ගැටී-සිසුන්-17ක්-රෝහලට/11-408215) · `si`
 
-රංටැඹේ ජාතික ශිෂ්‍ය භට පුහුණු මධ්‍යස්ථානයේ පුහුණුව සඳහා පැමිණි පාසල් දරුවන් අතර ඇති වු ගැටුමකින්, සුළු තුවාල ලබා ප්‍රතිකාර සඳහා දරුවන් 17 දෙනෙකු මහියංගණ මුලික රොහල අද (21) උදෑසන ඇතුලත් කර ඇති අතර, ඒම ඇතුලත් කරනු ලැබ සිටින සියළු සිසුන් සුළු තුවාල ලබා ඇති අතර, වෛද්‍යවරුන්ගේ පරික්ෂා කිරිම් වලින් අනතුරුව ‌රෝහලෙන් නික්ම යෑමට හැකි වෙතැයි රෝහල් ප්‍රකාශකයෙකු පැවසූහ.
+Seventeen children have been admitted to the Mahiyangana Basic Hospital today (21) at the Kananganaya basic hospital today.A hospital spokesman said that he could leave the hospital after the inspections of doctors.
 
-කිසිදු සිසුවෙකුට බරපතල තුවාල තත්වයක් නොමැති අතර සුළු තුවාල පමණක් ඇති බව පැවසේ. සිසුන් දෙපිරිසක් අතර ඇති වු සුළු සිද්ධික් ගැටුමක් දක්වා දුරදිග ගොස් ඇති බව පැවසේ.
+No student has a serious injury and has only minor injuries. It is said that the students have been far away from a small club clash between two groups.
 
-රංටැඹේ ජාතික ශිෂ්‍ය භට පුහුණු මධ්‍යස්ථානයේ  පුහුණුව සඳහා පැමිණ ඇත්තේ කොළඹ, ගම්පහ  යන දිස්ත්‍රික්කයන් ඇතුළු රට පුරා පාසැල්වල දරුවන් බව පැවසේ. දරුවන්ගේ ගැටුම සම්බන්ධයෙන් හසලක පොලිසිය විමර්ශණ සිදු කරති.
+It is reported that children of Colombo, Gampaha districts and other countries have come to training in the Rantawa National Cadet Training Center.. Hasalaka Police are conducting further investigations into the conflict of children.
 
-මේ සම්බන්දයෙන් රංටැඹේ ජාතික ශිෂ්‍ය භට පුහුණු මධ්‍යස්ථානයෙන් විමසීමක් සිදු කල විට ආරක්ෂක අමාත්‍යංශයේ මාධ්‍ය ප්‍රකාශක වරයාගෙන් විස්තර ලබා ගත හැකි බවට ප්‍රකාශ කෙරිණි.
+When inquiring from the National Cadet Training Center in the Rantambe, the Defense Ministry's spokesman said it was obtained from the Defense Secretary.
 
 ◼️
 
 [Data](articles/d1dbc367.json)
+
+[Extended Data](ext_articles/d1dbc367.ext.json)
 
 ---
 
@@ -1510,6 +1694,18 @@ The Colombo Stock Exchange was trading up; The All Share Price Index was up 0.02
 
 ---
 
+### International Mother Language Day marked
+
+*2024-02-21 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/International-Mother-Language-Day-marked/108-277477) · `en`
+
+International Mother Language Day was marked in Colombo today with a ceremony organized by the High Commission of Bangladesh, the Education Ministry and Sri Lanka Scouts Association. Education Minister Susil Premajayantha, External Affairs Minister Ali Sabry, heads of foreign missions in Sri Lanka, the clergy and schoolchildren participated in the event. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/c50f3200.json)
+
+---
+
 ### Sri Lanka looking to phase out sending women abroad as domestic workers over 10-year period
 
 *2024-02-21 12:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-looking-to-phase-out-sending-women-abroad-as-domestic-workers-over-10-year-period-151764/) · `en`
@@ -1861,219 +2057,5 @@ It also notes that importation of maize, black grams, green grams, and Kurakkan 
 [Data](articles/7ce3b57e.json)
 
 [Extended Data](ext_articles/7ce3b57e.ext.json)
-
----
-
-### Sumathi Awards Ceremony 2024...
-
-*2024-02-21 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sumathi-Awards-Ceremony-2024/110-277474) · `en`
-
-The 29th edition of the Sumathi Awards ceremony was held at the Monarch Imperial yesterday, showcasing the pinnacle of Sri Lankan television excellence. Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/7a5c6d52.json)
-
-[Extended Data](ext_articles/7a5c6d52.ext.json)
-
----
-
-### Membership resolution to remove police powers from provincial councils
-
-*2024-02-21 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193640) · `si`
-
-MP Udaya Gammanpila tabled a private member's arrangement in Parliament.
-
-He has proposed that the police powers should be removed from the provincial councils through the 22nd amendment.
-
-◼️
-
-[Data](articles/9132f096.json)
-
-[Extended Data](ext_articles/9132f096.ext.json)
-
----
-
-### Rohitha complains to Speaker over social media post
-
-*2024-02-21 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rohitha-complains-to-Speaker-over-social-media-post/108-277473) · `en`
-
-Parliament, Feb. 21 (Daily Mirror)- SLPP MP Rohitha Abeygunawardane said today his privileges have been infringed due to a social media post posted by a woman in Katukurunda, Kalutara and requested the Speaker to bring her before the Privilege Committee.
-
-Raising a privilege issue in Parliament, MP Abeygunawardane said the woman had posted an insulting post in her social media account, stating that he and acting IGP Deshabandu Tennakoon were thieves and should be arrested immediately.
-
-The MP said his privileges, as a Member of Parliament, had been infringed by this post and that it was a threat to his life.
-
-“This post can cause threats to our lives. It is a dangerous situation,” he said.
-
-He said the particular woman had contested the general election in 2015 and is known to him.
-
-He said all 225 MPs must rise against posts of this nature and said it was pointless enacting the Online Safety Act if actions were not taken against such posts.
-
-...
-
-[Data](articles/057f1917.json)
-
-[Extended Data](ext_articles/057f1917.ext.json)
-
----
-
-### Sri Lanka micro, small, medium enterprises resilient, but recovery lags
-
-*2024-02-21 11:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-micro-small-medium-enterprises-resilient-but-recovery-lags-151744/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s micro and small medium enterprises have shown resilience between 2018 to 2023, amidst economic shocks, however sector recovery levels lag behind those of 2018, a Department of Census and Statistics survey found.
-
-“A trend is observed in the medium sector, with figures reaching 62,000 in 2021 and 75,000 in 2022,” the report said, citing the improvements in the number of medium enterprises within 2022. “However, despite this growth, it remains insufficient to match the levels seen in 2018,” it said.
-
-The report said that during the first year of the global pandemic, in 2020, there was a 41 percent recorded decline in the number of small businesses and 50 percent decline in medium sized businesses, citing shocks to the Sri Lankan economy as a consequence of both the pandemic and Easter Sunday Attacks of 2019.
-
-...
-
-[Data](articles/b538e9d6.json)
-
-[Extended Data](ext_articles/b538e9d6.ext.json)
-
----
-
-### Justice Minister who goes home
-
-*2024-02-21 10:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மல்வானை-வீட்டுக்கு-செல்லும்-நீதியமைச்சர்/175-333572) · `ta`
-
-Minister of Justice Vijayadasa Rajapakse has decided to look into the house and decide on the next step.
-
-Accordingly, the Minister of Justice is to go to the premises where the house is located this afternoon.
-
-The Minister is to explain the next steps to be taken after observing the premises in the presence of journalists.
-
-◼️
-
-[Data](articles/878438a4.json)
-
-[Extended Data](ext_articles/878438a4.ext.json)
-
----
-
-### Gammanpila tables Bill seeking to remove police powers from PCs
-
-*2024-02-21 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97426/gammanpila-tables-bill-seeking-to-remove-police-powers-from-pcs) · `en`
-
-MP Udaya Gammanpila has proposed a 22nd Amendment to the Constitution to remove police powers from provincial councils.
-
-It was put forward by way of a Private Member’s Bill tabled in Parliament.
-
-◼️
-
-[Data](articles/ceaab306.json)
-
-[Extended Data](ext_articles/ceaab306.ext.json)
-
----
-
-### Explanation to bribe officials
-
-*2024-02-21 10:48:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லஞ்சம்-பெற்ற-அதிகாரிகளுக்கு-விளக்கமறியல்/76-333571) · `ta`
-
-Nuwara Eliya District Magistrate Prabhudhika Lanka yesterday evening (20) issued a directive to remand two bribes of Rs.
-
-Officials of the Bribery Department yesterday arrested the District Manager and another officer in charge of the Nuwara Eliya District of the Central Provincial Public Transport Department.
-
-At the same time, one of the suspects, who was present on behalf of the suspects, told the judge that the district manager had sugar disease and heart disease.
-
-Considering this, the Finance President ordered the suspect to be admitted to the Prison Hospital for treatment.
-
-The judge adjourned the case till 04.03.2024 and ordered the prison authorities to present the suspects on the day of the case.. Remble
-
-◼️
-
-[Data](articles/58972aa7.json)
-
-[Extended Data](ext_articles/58972aa7.ext.json)
-
----
-
-### Shooting in the Ragama area;One killed
-
-*2024-02-21 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176928) · `ta`
-
-One person was killed in the shooting that took place on Wednesday morning (21) morning in Ragama, police said.
-
-Police said the shooting was carried out by two unidentified men on a motorcycle at around 7.15 am this morning at a meat shop at Elappitivala junction in Ragama.
-
-The deceased has been identified as 39 -year -old Hetti Arachike Don Sujit and is said to be a relative of the organized culprit, "Wella Saranga".
-
-◼️
-
-[Data](articles/fcbbf9ec.json)
-
-[Extended Data](ext_articles/fcbbf9ec.ext.json)
-
----
-
-### Sri Lanka new Casino licenses to require minimum investments
-
-*2024-02-21 10:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-brings-minimum-investment-rule-for-new-casinos-licenses-151719/) · `en`
-
-ECONOMYNEXT – Sri Lanka has introduced a minimum investment requirement of 30 and 100 million dollars for new casino licenses in an ‘integrated development’ in amended regulations published by the Finance Ministry.
-
-In January, Sri Lanka announced a fee of 10 billion rupees for a 20-year casino license in an ‘integrated development’ of 250 million US dollars, and five billion rupees for an ‘integrated development’ of over 500 million dollars.
-
-Under the new rules announced in February, a casino in the 250 million dollar integrated development, should have an investment of a minimum of 30 dollars but less than 100 million dollars.
-
-A casino in the 500 million dollar integrated development category, should have a minimum investment of 100 million US dollars.
-
-The rules apply to an integrated development “approved by the minister”, under the latest revision.
-
-...
-
-[Data](articles/b689c1c1.json)
-
-[Extended Data](ext_articles/b689c1c1.ext.json)
-
----
-
-### India’s Calicut airport to have direct air links with Sri Lanka
-
-*2024-02-21 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97425/indias-calicut-airport-to-have-direct-air-links-with-sri-lanka-) · `en`
-
-India’s Calicut International Airport may soon have direct air links with Kuala Lumpur, Bangkok, and Colombo if the assurances made at a meeting of people’s representatives and airport-airline officials held in Karipur on Monday are implemented.
-
-Malaysia’s budget airline AirAsia has evinced interest to operate services from Karipur to Kuala Lumpur and Bangkok, while Sri Lanka’s low-cost airline FitsAir has come forward to fly between Colombo and Karipur.
-
-The budget airlines of Malaysia and Sri Lanka stepped in to tap the potentials of Karipur even as many other foreign airlines remained wary of the Calicut International Airport’s future in the wake of the inordinate delay in resuming services of wide-body flights from Karipur.
-
-The meeting, chaired by Airport Advisory Committee chairman Abdussamad Samadani, MP, also made assurances about increasing domestic flight services to Thiruvananthapuram and Delhi, and international services to Jeddah.
-
-...
-
-[Data](articles/a0611221.json)
-
-[Extended Data](ext_articles/a0611221.ext.json)
-
----
-
-### Another goal - Meat Mudalali kills
-
-*2024-02-21 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193639) · `si`
-
-The owner of a meat shop owner was shot dead at Mahabage Police Division this morning.
-
-Two unidentified gunmen from a motorbike have been shot dead, police said.
-
-The man who was injured in the shooting has been admitted to the Ragama Hospital.
-
-It has been revealed that Hettiarachchige Don Sujith is a resident of Kandana.
-
-The deceased has also received information that the deceased is a relative of an organized criminal.
-
-The person who was supporting the meat shopping at the time of shooting commented on this.
-
-"Hang meat and putting the three-wheeler, and the hand came out because you wanted to put it here. And he heard a shot. I thought the crackers. Nobody saw. I saw a bicycle stopped on the side. There were more than two or three shots. "
-
-◼️
-
-[Data](articles/00945dbb.json)
-
-[Extended Data](ext_articles/00945dbb.ext.json)
 
 ---

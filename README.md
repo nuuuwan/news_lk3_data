@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 13:33:05**
+As of **2024-02-21 13:52:05**
 
 ## Newspaper Stats
 
-*Scraped **8,430** Articles*
+*Scraped **8,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,55 +12,171 @@ colombotelegraphcom | 91
 bbccomsinhala | 105
 dbsjeyarajcom | 156
 newsfirstlk | 363
-economynextcom | 430
+economynextcom | 436
 islandlk | 443
 dailyftlk | 456
 adalk | 718
-adaderanalk | 1,015
-tamilmirrorlk | 1,044
+adaderanalk | 1,020
+tamilmirrorlk | 1,047
 virakesarilk | 1,131
-adaderanasinhalalk | 1,227
-dailymirrorlk | 1,251
+adaderanasinhalalk | 1,228
+dailymirrorlk | 1,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,426 (100.0%) of 8,430 articles have been extended.
+8,430 (99.8%) of 8,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් කිහිපයක් ?
+### Power of Parate execution law to be suspended: Siyambalapitiya
+
+*2024-02-21 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Power-of-Parate-execution-law-to-be-suspended-Siyambalapitiya/108-277479) · `en`
+
+Parliament, Feb. 21 (Daily Mirror)- Steps will be taken to suspend the powers of the Parate execution law for a certain period for the purpose of protecting the small and medium-scale entrepreneurs, State Minister of Finance Ranjith Siyambalapitiya said today.
+
+He told Parliament that the Cabinet paper on this will be submitted to the Cabinet next week.
+
+The Minister said Parate execution laws have been introduced for the safety of the banking sector and added that the Cabinet Paper will be submitted to suspend the powers of the law while protecting the safety of the banking sector as well.
+
+He said this while speaking at the adjournment debate moved by the Ipposition on the country’s situation.
+
+◼️
+
+[Data](articles/7fbd996b.json)
+
+---
+
+### මහබාගේ උක්කුවා ඝාතනය ගැන තවත් තොරතුරු
+
+*2024-02-21 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193645) · `si`
+
+විදෙස්ගතව සැඟව සිටින "වැල්ලේ සාරංග" නම් අපරාධකරුගේ සමීප ඥාතියෙකු අද (21) උදෑසන රාගම, මහබාගේ ප්‍රදේශයේදී වෙඩිතබා ඝාතනය කර තිබේ.
+
+"වැල්ලේ සාරංගගේ" ප්‍රතිවාදියෙකු වන ඩුබායි නිපුනගේ පාර්ශ්වය විසින් එම ඝාතනය සිදුකර ඇති බවට සැක කරන බව පොලීසිය පැවසීය.
+
+රාගම, මහබාගේ ඇලපිටිවල ප්‍රදේශයේදී අද උදෑසන 7.30ට පමණ වෙඩිතැබීමක් සිදුවී තිබුණේ ඌරු මස් වෙළෙඳසැලක හිමිකරුවකු ඉලක්කර කරගනිමිනි.
+
+පොලීසිය පැවසුවේ, යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් රිවෝල්වර් වර්ගයේ ගිනිඅවියකින් වෙඩිතැබීම සිදුකර පළාගොස් ඇති බවය.
+
+එලෙස මියගිය පුද්ගලයා 42 හැවිරිදි ජා ඇළ උතුරු බටගම ප්‍රදේශයේ පදිංචි දොන් සුජිත් හෙවත් උකුක්වා නැමැත්තෙකි.
+
+ඔහු මේ වනවිට විදෙස්ගතව සැඟව සිටින "වැල්ලේ සාරංග" නම් අපරාධකරුගේ නැගණියගේ සැමියා බව පොලීසිය පැවසීය.
+
+"වැල්ලේ සාරංගගේ" ප්‍රතිවාදියෙකු ලෙස සැලකෙන තවත් අපරාධකරුවකු වන ඩුබායි නිපුන නැමැත්තාගේ පාර්ශ්වයෙන් මියගිය පුද්ගලයාට මරණ තර්ජන තිබීම හේතුවෙන් පොලීසිය ඔහුට අදාළ වෙළඳසැලට නොපැමිණෙන ලෙසද මින්පෙර දැනුම්දී තිබේ.
+
+...
+
+[Data](articles/c5c723de.json)
+
+---
+
+### Police fire tear gas at Indian farmers marching on capital
+
+*2024-02-21 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97431/police-fire-tear-gas-at-indian-farmers-marching-on-capital) · `en`
+
+Indian police fired tear gas on Wednesday to scatter protesting farmers as they resumed a march to the capital, equipped with cranes and excavators after talks with the government on guaranteed prices for their produce failed to break a deadlock.
+
+To escape the stinging gas and clouds of smoke, thousands of farmers, some wearing medical masks, ran into the fields surrounding their gathering-point on a highway about 200 km (125 miles) north of New Delhi.
+
+The police action came as the government of Prime Minister Narendra Modi made a fresh offer to resume talks on the farmers’ demands. Agriculture Minister Arjun Munda urged the farmers to resolve their grievances through the talks.
+
+“After the fourth round, the government is ready to discuss all the issues” such as guaranteed prices, he posted on social network X, as the march resumed.
+
+“I again invite the farmer leaders for discussion. It is important for us to maintain peace.”
+
+...
+
+[Data](articles/89333fd5.json)
+
+---
+
+### A few changes in the Sri Lankan team?
 
 *2024-02-21 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193644) · `si`
 
-සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර  තුන්වන සහ අවසන් විස්සයි 20 තරගය අද (21) රාත්‍රී 7ට පැවැත්වීමට නියමිතය.
+The third and final Twenty20 team between the Sri Lanka team and the Sri Lankan team will be held today (21).
 
-ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන විස්සයි 20 තරගාවලියේ අවසන් තරගයේදී ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් කිහිපයක් සිදුකිරීමට නියමිත බව වාර්තා වෙයි.
+The Sri Lankan team will be conducted in the final of the Sri Lanka-Afgunshana T20 tournament.
 
-අද තරගය සඳහා කුසල් ජනිත් පෙරේරා, අකිල ධනංජය සහ නුවන් තුෂාර කණ්ඩායමට කැඳවීමට නියමිත බවත් ධනංජය ද සිල්වා, මහීෂ් තීක්ෂණ සහ බිනුර ප්‍රනාන්දු විවේක ගැන්වීමට නියමිත බවත් අභ්‍යන්තර ක්‍රිකට් ආරංචි මාර්ග සඳහන් කරයි.
+Dhanga de Silva, Mah, Mah and Buddhist sources say that Akila Janith Perera will be summoned to the match.
 
-එමෙන්ම කමිඳු මෙන්ඩිස්ට ද අද තරගයේදී අවස්ථාවක් හිමිවනු ඇත බව වාර්තා වෙයි.
+It is also reported that Kamindu Mendis will also have a chance today.
 
 ◼️
 
 [Data](articles/2e94464a.json)
 
+[Extended Data](ext_articles/2e94464a.ext.json)
+
 ---
 
-### නෙලාගත් අස්වැන්න නිවසට රැගෙනයාමට ඉඩ නොදුන් මාරයා
+### Sri Lanka said to offer new restructuring plan to bondholders
+
+*2024-02-21 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97430/sri-lanka-said-to-offer-new-restructuring-plan-to-bondholders) · `en`
+
+(Bloomberg) – Sri Lanka sent a new restructuring proposal to dollar bondholders through its adviser Lazard as the South Asian nation seeks to complete overhauling its defaulted debt, according to people familiar with the matter.
+
+A counter proposal to a bondholder group’s offer in October for a 20% haircut and the issuance of macro-linked bonds was conveyed through Lazard, the people said, declining to be named because negotiations are private. They did not elaborate on the details of the offer. Government representatives may travel to London soon to meet Sri Lanka’s commercial creditors, one of the people said.
+
+Completing the overhaul of Sri Lanka’s $27 billion of foreign debt is critical to ensure financing from the International Monetary Fund bailout keeps flowing. President Ranil Wickremesinghe said this month that authorities expect to complete the restructuring within the first six months of the year.
+
+...
+
+[Data](articles/0b4da42e.json)
+
+---
+
+### Man to take the harvest home
 
 *2024-02-21 12:48:59* · [`adalk`](https://www.ada.lk/breaking_news/නෙලාගත්-අස්වැන්න-නිවසට-රැගෙනයාමට-ඉඩ-නොදුන්-මාරයා/11-408209) · `si`
 
-සිය වී අස්වැන්න කුඹුරේ සිට නිවසට රැගෙනයන අවස්ථාවේ, තම ලොරි රථයේ ඉදිරිපස ටයරය පුපපුරා යෑම හේතුවෙන් රියදුරුට එය පාලනය කරගත නොහැකිව, විරුද්ධ දිශාවෙන් පැමිනි ටිපර් රථයක ගැටී තිබිනි. මෙම අනතුර ඉයේ  (20) දින සවස්කාලයේ දඹුල්ල කුරැණෑගල මාර්ගයේ පන්නලියද්ද ප්‍රදේශයේදී සිදුවී ඇත.
+When the paddy harvest was taken home from the paddy, the front tire of their lorry, the driver had collided with a tipper in the opposite direction. The accident occurred at Panniyadda area on the Dambulla Kurunegala on the evening.
 
-අනතුරින් දිවි අහිමිවූ රිය පැදවූ පුද්ගලයාගේ බිරිඳ හා මවද ලෙරි රථයේ ඉදිරි පස ගමන් කොට ඇති අතර ඔවුනද බරපතල තුවාල ලබා කුරුනෑගල රොහලේ ප්‍රතිකාර ලබයි. අනතුරින් මියගොස් ඇත්තේ රත්මල්වත්ත ප්‍රදේශයේ පදිංචි 58 හැවිරීදි අයෙකි.
+The wife and mother of the man who was driving in the accident have passed the back of the lericy and has been seriously injured and has been seriously injured in the Kurunegala Prehannale. The deceased is 58 residents of the Rathmalwatta area.
 
 ◼️
 
 [Data](articles/d5fc2d28.json)
+
+[Extended Data](ext_articles/d5fc2d28.ext.json)
+
+---
+
+### Sri Lanka’s Opposition like village gamblers who want funeral to go on: Min
+
+*2024-02-21 12:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-opposition-like-village-gamblers-who-want-funeral-to-go-on-min-151757/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Opposition was like informal gambling den operators at village funerals, who want the funeral to continue so they can earn on gambling (bu-ru-wa), the State Minister of Finance said.
+
+“In our villages when there is a funeral, there is a group that comes, cries and talks a bit and then get to their main business; which is running a gambling game (su-du-wa) on the side,” Ranjith Siyambalapitiya said in Parliament on Wednesday.
+
+“They like it if the funeral goes on for many days because they can earn on the side. I’m asking our opposition to not be like that,” Siyambalapitiya said, “Don’t cry crocodile tears.”
+
+In reply to the accusation Opposition Leader Sajith Premadasa merely asked: “So who created the funeral house?”
+
+◼️
+
+[Data](articles/ad61421c.json)
+
+---
+
+### தாமரை கோபுரம் சிவப்பு நிறத்தில் ஒளிரும்
+
+*2024-02-21 12:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரம்-சிவப்பு-நிறத்தில்-ஒளிரும்/175-333581) · `ta`
+
+கொழும்பு தாமரை கோபுரம் பெப்ரவரி 22ஆம் திகதியன்று சிவப்பு நிறத்தில் ஒளிரும் என கொழும்பு தாமரை கோபுரம் முகாமைத்துவ நிறுவனம் (தனியார்) லிமிடெட் தெரிவித்துள்ளது.
+
+உலக மூளையழற்சி தினமான பெப்ரவரி 22ஆம் திகதியன்று விழிப்புணர்வை ஏற்படுத்தும் வகையிலேயே இவ்வாறு ஒளிரவிடப்படவுள்ளது. இந்த பேரழிவு தரும் நரம்பியல் நிலை குறித்த விழிப்புணர்வை ஏற்படுத்த என்செபாலிடிஸ் இன்டர்நேஷனலின் தற்போதைய பணியின் ஒரு பகுதியாக இவ்வாறு செய்யப்படுகின்றது.
+
+கொழும்பு தாமரை கோபுரம் உலகெங்கிலும் உள்ள பல சர்வதேச அடையாளங்களுடன் இணைந்து இந்த இயக்கத்திற்கு ஆதரவளிக்கும்.
+
+◼️
+
+[Data](articles/10e199a2.json)
 
 ---
 
@@ -120,6 +236,58 @@ Colombo Lotus Tower will be supporting this movement by joining the many interna
 
 ---
 
+### Lotus Tower to be illuminated in red tomorrow
+
+*2024-02-21 12:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lotus-Tower-to-be-illuminated-in-red-tomorrow/108-277478) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - The Colombo Lotus Tower will be illuminated in red on February 22 as a mark of respect for and awareness on World Encephalitis Day, the Colombo Lotus Tower Management Company (Private) Limited said.
+
+They said this initiative is part of Encephalitis International's ongoing mission to raise awareness of this devastating neurological condition.
+
+Colombo Lotus Tower will be supporting this movement by joining the many international landmarks worldwide to make this year's World Encephalitis Day truly remarkable and impactful.
+
+◼️
+
+[Data](articles/a6649103.json)
+
+---
+
+### Sri Lanka rupee trades at 311.65/75 to the US dollar
+
+*2024-02-21 12:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-311-65-75-to-the-us-dollar-151736/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading at 311.65/75 to the US dollar Wednesday, from 311.90/95 on Tuesday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted at 11.00/20 percent.
+
+A bond maturing on 15.09.2027 was quoted at 12.10/20 percent from 11.85/12.10 percent.
+
+A bond maturing on 15.03.2028 was quoted at 12.25/40 percent from 12.15/30 percent.
+
+The Colombo Stock Exchange was trading up; The All Share Price Index was up 0.02 percent at 10,639. The S&P SL20 was up 0.04 percent at 3,070. (Colombo/Feb21/2024)
+
+◼️
+
+[Data](articles/2cc4e007.json)
+
+---
+
+### Sri Lanka looking to phase out sending women abroad as domestic workers over 10-year period
+
+*2024-02-21 12:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-looking-to-phase-out-sending-women-abroad-as-domestic-workers-over-10-year-period-151764/) · `en`
+
+ECONOMYNYEXT — Sri Lanka, whose officially registered migrant work force was 40-percent women in 2022, is looking to phase out sending women overseas as domestic workers over a 10-year period and encourage them to seek high-paying skilled work abroad instead.
+
+Minister of Labour and Foreign Employment Manusha Nanayakkara in a discussion with representatives of the Sri Lanka Bureau of Foreign Employment (SLBFE) and the Association of Licensed Foreign Employment Agencies has sought proposals to “completely stop sending Sri Lankan women overseas to work as housemaids”, a statement from the minister’s office said on Tuesday February 20.
+
+“The Minister emphasised the importance of halting the practice of sending women for overseas employment as domestic workers and instead proposed that women should be encouraged to seek foreign jobs in high paying skilled categories of work,” the statement said, adding that views and suggestions of all stakeholders should be sought in this exercise.
+
+...
+
+[Data](articles/0b446221.json)
+
+---
+
 ### Children's death in Gaza due to malnutrition
 
 *2024-02-21 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176940) · `ta`
@@ -146,6 +314,20 @@ UNICEV official Techsaliban said that the death of children's death is going to 
 
 ---
 
+### 10th National Scout Jamboree declared open by President
+
+*2024-02-21 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97429/10th-national-scout-jamboree-declared-open-by-president-) · `en`
+
+President Ranil Wickremesinghe, in his capacity as the Chief Scout of Sri Lanka, declared the 10th National Scout Jamboree open on Wednesday morning (21 Feb.).
+
+The National Scout Jamboree is being held in Trincomalee, with the participation of 11,500 scouts from Sri Lanka and 28 other countries, the President’s Media Division (PMD) reported.
+
+◼️
+
+[Data](articles/adc4ef1f.json)
+
+---
+
 ### New love that shed blood in the knife
 
 *2024-02-21 11:59:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்திக்குத்தில்-இரத்தம்-சிந்திய-புதிய-காதல்/175-333577) · `ta`
@@ -161,6 +343,24 @@ Yuvati had a love affair with this suspect who had fled with a knife. He stopped
 [Data](articles/6aac7e0e.json)
 
 [Extended Data](ext_articles/6aac7e0e.ext.json)
+
+---
+
+### Sri Lanka needs private sector in agriculture: Prez
+
+*2024-02-21 11:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-private-sector-in-agriculture-prez-151754/) · `en`
+
+ECONOMYNEXT – Sri Lanka has to adopt modern agriculture techniques and involve the private sector to develop its agriculture sector, President Ranil Wickremesinghe has said.
+
+“Our first step is to restructure the existing system and involve the private sector,” Wickremesinghe said at the United Nations Food and Agriculture Organization’s 37th Asia and Pacific Conference in Colombo on Tuesday.
+
+The conference was attended by representatives from 34 countries including the United States, China, and Russia. Approximately 70 percent of the Asia-Pacific region’s population relies on agriculture.
+
+“When assessing our economy, agriculture emerges as a sector capable of delivering swift results,” Wickremesinghe said. “We are endeavouring to transform agrarian service centres nationwide into modernization hubs for agriculture. To achieve this goal, we are actively seeking contributions from both the public and private sectors.
+
+...
+
+[Data](articles/56f7341b.json)
 
 ---
 
@@ -188,21 +388,47 @@ The official said that such a decision was made to prevent the "black shop".
 
 ---
 
-### වී කිලෝව 130ට ගියොත් සහල් කිලෝව 260ක් වෙනවා
+### Pakistan’s largest parties strike deal on coalition government
+
+*2024-02-21 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97428/pakistans-largest-parties-strike-deal-on-coalition-government) · `en`
+
+Two major Pakistan political parties said on Tuesday that they had reached a formal agreement to form a coalition government, ending ten days of intense negotiations after an inconclusive national election did not return a clear majority.
+
+The agreement between Bhutto Zardari’s Pakistan Peoples Party (PPP) and the Pakistan Muslim League-Nawaz (PML-N) of three-time Premier Nawaz Sharif ends days of uncertainty and negotiations after the Feb. 8 elections produced a hung national assembly.
+
+Bhutto Zardari confirmed at a late night press conference in Islamabad that former premier Shehbaz Sharif, who was seated beside him, would be the coalition’s candidate for prime minister.
+
+He added that his father Asif Ali Zardari will be the alliance’s candidate for the country’s president.
+
+Shehbaz Sharif, the younger brother of Nawaz, said the two parties had the numbers to form government, and also had the support of other smaller parties.
+
+...
+
+[Data](articles/a5adf056.json)
+
+---
+
+### If the paddy goes to 130 kg of rice, 260 kg of rice
 
 *2024-02-21 11:51:43* · [`adalk`](https://www.ada.lk/breaking_news/වී-කිලෝව-130ට-ගියොත්-සහල්-කිලෝව-260ක්-වෙනවා/11-408207) · `si`
 
-සහල් වලට පනවා ඇති පාලන මිලට අනුව ගොවියාගේ වී මිලට ගන්නා බවත් මේ අනුව ගොවියාගේ වී මිලදී ගැනිමට රජය කෙසේ හෝ මැදිහත් විය යුතු බවත් මහා පරිමාණය සහල් කර්මාන්තකරුවෙකු වන ලංකේෂ්වරගේ මිත්‍රපාල මහතා අද (21) උදෑසන මාධ්‍ය හමුවක් කැඳවමින් පැවසිය.
+According to the control price of rice, the farmer buy paddy and the government to buy a farmer's paddy, Mithrapala, who is a large scale rice, calling on a press conference today (21).
 
-ගොවියා ඉල්ලන පරිදි රුපියල් 130 ට විකිලෝවක් මිලට ගතහොත් සහල් වෙළෙඳපොළට නිකුත් කිරීමට වෙන්නේ කිලෝවක් රුපියල් 260ක් වැනි මිලකට බවත් රටේ ආර්ථික අපහසුතා මැද ජීවත්වන  පාරිභෝගික ජනතාවට එම මිල දරා ගත නොහැකි තත්ත්වයකට පත්වනු ඇතැයි ද ඒ මහතා අවධාරණය කළේය.
+He said that if the farmer buys a WikiLO at Rs.
 
-එම නිසා ගොවියා රජය සහ මහපරිමාණයේ ශ්‍රී ලංකාවේ සහල් මෝල්  කර්මාන්තකරුවන් එක මේසයකට රැස්වී එක තීරණයකට පුළුල් සාකච්ඡාවක් කළ යුතු බව ඒ මහතා අවධාරණය කළේය.
+He said that the farmer's rice mill industrialists should meet with a desk to meet a desk.
 
-"විශාල චෝදනාවක් පවතිනවා වී මිල පිළිබඳව.nරටේ සහල් මිලත් එක්ක තීරණය කරලා තමයි අපට වී මිලදී ගැනීමට සිද්ධ වෙලා තිබෙන්නේ. මෙහිදී අපි අමු වී සහ වේලිච්ච වී කියලා මිල ගණන් දෙකකට පවත්වාගෙන යනවා. ඒක නිසා වී මිල වැඩි කරලා ගන්න නම් හාල් මිල සංශෝධනය වෙන්න ඕනේ.
+"There is a great charge of paddy. The nation has decided to buy paddy with rice prices.. Here we are maintaining the prices of the prices of raw and dailis. As a result, the rice is to be revised to increase the price of paddy.
+
+It is difficult for us to do that in the economic situation of the people. It is not enough money for the farmer. .Nevarily receives about 90,000 rupees for the farmer to the farmer to the farmers today. Samba is between Rs. 115 and 110 rupees.
+
+At average 115 wickets say 110 rice per kilo. The control price is the kilo of Kilo 220, so we have already appointed a kilo of nadu rice to the consumers.
 
 ...
 
 [Data](articles/478bcc86.json)
+
+[Extended Data](ext_articles/478bcc86.ext.json)
 
 ---
 
@@ -350,6 +576,28 @@ We have already started a comprehensive program to completely control leprosy fr
 
 ---
 
+### Special commodity levy on several items raised
+
+*2024-02-21 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97427/special-commodity-levy-on-several-items-raised) · `en`
+
+A government notification has been issued, increasing the special commodity levy imposed on several items including black grams, green grams and cowpeas.
+
+As such, the special commodity levy on black grams (skinned, either split or not) has been increased to Rs. 300 per kilogram.
+
+Meanwhile, the tax on green grams, cowpeas, Kurakkan (seeds), Kurakkan (other), millet (seeds) and millet (other) has been raised from Rs. 70 to Rs. 300.
+
+In addition, a special commodity levy of Rs. 25 is in place on maize.
+
+The communiqué, issued by President Ranil Wickremesinghe in his capacity as the Finance Minister, says the order is valid from February 20, 2024 through December 31, 2024.
+
+It also notes that importation of maize, black grams, green grams, and Kurakkan is allowed on the recommendation of the Agriculture Ministry.
+
+◼️
+
+[Data](articles/7ce3b57e.json)
+
+---
+
 ### Sumathi Awards Ceremony 2024...
 
 *2024-02-21 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sumathi-Awards-Ceremony-2024/110-277474) · `en`
@@ -401,6 +649,22 @@ He said all 225 MPs must rise against posts of this nature and said it was point
 [Data](articles/057f1917.json)
 
 [Extended Data](ext_articles/057f1917.ext.json)
+
+---
+
+### Sri Lanka micro, small, medium enterprises resilient, but recovery lags
+
+*2024-02-21 11:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-micro-small-medium-enterprises-resilient-but-recovery-lags-151744/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s micro and small medium enterprises have shown resilience between 2018 to 2023, amidst economic shocks, however sector recovery levels lag behind those of 2018, a Department of Census and Statistics survey found.
+
+“A trend is observed in the medium sector, with figures reaching 62,000 in 2021 and 75,000 in 2022,” the report said, citing the improvements in the number of medium enterprises within 2022. “However, despite this growth, it remains insufficient to match the levels seen in 2018,” it said.
+
+The report said that during the first year of the global pandemic, in 2020, there was a 41 percent recorded decline in the number of small businesses and 50 percent decline in medium sized businesses, citing shocks to the Sri Lankan economy as a consequence of both the pandemic and Easter Sunday Attacks of 2019.
+
+...
+
+[Data](articles/b538e9d6.json)
 
 ---
 
@@ -478,6 +742,26 @@ The deceased has been identified as 39 -year -old Hetti Arachike Don Sujit and i
 
 ---
 
+### Sri Lanka brings minimum investment rule for new casinos licenses
+
+*2024-02-21 10:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-brings-minimum-investment-rule-for-new-casinos-licenses-151719/) · `en`
+
+ECONOMYNEXT – Sri Lanka has introduced a minimum investment requirement of 30 and 100 million dollars for new casino licenses in an ‘integrated development’ in amended regulations published by the Finance Ministry.
+
+In January, Sri Lanka announced a fee of 10 billion rupees for a 20-year casino license in an ‘integrated development’ of 250 million US dollars, and five billion rupees for an ‘integrated development’ of over 500 million dollars.
+
+Under the new rules announced in February, a casino in the 250 million dollar integrated development, should have an investment of a minimum of 30 dollars but less than 100 million dollars.
+
+A casino in the 500 million dollar integrated development category, should have a minimum investment of 100 million US dollars.
+
+The rules apply to an integrated development “approved by the minister”, under the latest revision.
+
+...
+
+[Data](articles/b689c1c1.json)
+
+---
+
 ### India’s Calicut airport to have direct air links with Sri Lanka
 
 *2024-02-21 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97425/indias-calicut-airport-to-have-direct-air-links-with-sri-lanka-) · `en`
@@ -524,21 +808,25 @@ The person who was supporting the meat shopping at the time of shooting commente
 
 ---
 
-### වික්ටෝරියා වේල්ලෙන් සැහැල්ලු වාහන ගමනයට අවසරය  ඉල්ලයි
+### Victoria Dam Light Vehicle Travel begins
 
 *2024-02-21 10:09:24* · [`adalk`](https://www.ada.lk/breaking_news/වික්ටෝරියා-වේල්ලෙන්-සැහැල්ලු-වාහන-ගමනයට-අවසරය--ඉල්ලයි/11-408206) · `si`
 
-වික්ටෝරියා වේල්ල මතින් සැහැල්ලු වාහන ධාවනය සඳහා අවශ්‍ය අවසරය ලබා දිය යුතු බවට වු යෝජනාවක්  පසුගියදා මහනුවර දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේදී සම්මත වි තිබේ.
+A proposal to be given permission to run the permission of light vehicles on Victoria dam has been passed in the Kandy District Coordinating Committee recently.
 
-මහනුවර මසහියංගණය මාර්ගයේ මොරගහමුල සිට අධිකාරිගම දක්වා  ප්‍රවාහන කටයුතු පහසුකිරීමේ අරමුණින්  මහනුවර දිස්ත්‍රික් ලේකම් චන්දන තෙන්නකෝන් මහතාගේ ඉල්ලීමක් අනුව  කමිටුව මෙම තීරණයට එළැඹී ඇති  අතර එහි  අවසන් තීරණය ලබා ගැනීම සඳහා එම යෝජනාව මහවැලි සංවර්ධන  අධිකාරිය භාර අමාත්‍යංශය වෙත යොමු කිරීමට ද කමිටුව තව දුරටත් තීරණය කර තිබේ.
+The committee has decided to facilitate transportation from Moragahamulla to the Kandy Peraiyamala from Moragahamulla to Authority to obtain the final decision.
 
-වික්ටෝරියා වේල්ල මතින් වාහන ධාවනය කිරීම මේ වන විට  ආරක්ෂක හේතු මත අත්හිටුවා තිබෙන බැවින් ප්‍රදේශවාසීන්ට කිලෝමීටර් 40ක පමණ අමතර දුරක් ගමන් කිරීමට සිදුව තිබේ.  වික්ටෝරියා වේල්ල මතින් වාහන ගමනාගමනයට දැනට අවසර ලබා දී ඇත්තේ මහවැලි අධිකාරියේ සහ අවසර ලත් සැහැල්ලු වාහනවලට පමණි.
+The driving vehicle driven by Victoria Dam has already been suspended on security reasons, the residents have to travel about 40 kilometers.The vehicle traffic is given to traffic on Victoria Dam at present.
 
-කමිටුව හමුවේ අදහස්  දැක්වූ මහනුවර දිස්ත්‍රික් ලේකම් චන්දන තෙන්නකෝන් මහතා, බහුකාර්ය සංවර්ධන යෝජනාවක් වශයෙන් ඉදිවූ වික්ටෝරියා ජලාශය මහජන ක්‍රියාවලිය පහසු කිරීම සඳහා ඉදිවූවක්  මිස ජනතාවට තහනම් වූ ස්ථානයක් නොවිය යුතු බව පැවසුවේය.
+The Kandy District Secretary Chandana Tennakoon said that the Victoria Reservoir built as a multipurpose development proposal as a multipurpose development proposal, said that the people should not be prohibited.
+
+He said that the victoria reservoir is expected to have a large number of ilms, including hydro power generation, and the early residents have been unfair.
 
 ...
 
 [Data](articles/32fcd028.json)
+
+[Extended Data](ext_articles/32fcd028.ext.json)
 
 ---
 
@@ -874,17 +1162,19 @@ A shooting incident in Elapitawala, Ragama has left one person dead this morning
 
 *2024-02-21 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97423/shooting-in-mahabage-leaves-a-man-dead) · `en`
 
-A shooting incident in Mahabage has left a 39-year-old dead this morning (Feb.21), the police said.
+A shooting incident in Mahabage has left a 42-year-old dead this morning (Feb.21), the police said.
 
-According to the police, two unidentified assailants who arrived on a motorcycle had opened fire around 7:15 a.m. near a meat shop in Elapitiwala Junction, Mahabage.
+According to the police, two unidentified assailants who arrived on a motorcycle had opened fire using a revolver, around 7:15 a.m. near a meat shop in Elapitiwala Junction, Mahabage.
 
-The deceased was identified as Hettiarachchige Don Sujith, reportedly a relative of the criminal gang leader “Welle Saranga”. He was a resident of Kandana area and the owner of the said meat shop.
+The victim succumbed to injuries while being rushed to the Colombo North Teaching Hospital in Ragama.
 
-The body of the deceased has been placed at the mortuary of the Colombo North Teaching Hospital in Ragama.
+The deceased was identified as Hettiarachchige Don Sujith alias “Ukkuwa”, the brother-in-law of the criminal gang leader “Welle Saranga”. He was a resident of North Batagama in Ja-Ela and the owner of the said meat shop.
 
-Mahabage Police is conducting further investigations into the incident to apprehend the assailants.
+The motive behind the shooting was not immediately clear, but a rival gang led by “Dubai Nipuna” is under suspicions of orchestrating the murder. Reports also revealed that Sujith had been receiving death threats from “Dubai Nipuna’s” gang.
 
-◼️
+The body of the deceased has been placed at the mortuary of the Ragama Teaching Hospital.
+
+...
 
 [Data](articles/98f54a31.json)
 
@@ -1558,6 +1848,18 @@ We implemented the housing scheme we got through the Government of India on the 
 
 ---
 
+### பருத்தித்துறையில் வாள் வெட்டு: இருவர் காயம்
+
+*2024-02-21 03:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பருத்தித்துறையில்-வாள்-வெட்டு-இருவர்-காயம்/71-333556) · `ta`
+
+யாழ்ப்பாணம் - பருத்தித்துறை பகுதியில் இடம்பெற்ற வாள் வெட்டுச் சம்பவத்தில் இரண்டு மாணவர்கள் படுகாயமடைந்துள்ளனர்.
+
+◼️
+
+[Data](articles/0d86888b.json)
+
+---
+
 ### Sword Cut in Point: Two people injured
 
 *2024-02-21 03:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பருத்தித்துறையில்-வாள்-வெட்டு-இருவர்-காயம்/175-333556) · `ta`
@@ -1657,285 +1959,5 @@ Two police officers who were attacked have been handed over to the legal officer
 [Data](articles/717ce0a5.json)
 
 [Extended Data](ext_articles/717ce0a5.ext.json)
-
----
-
-### Saga of a prideful legacy and brotherhood in cricket
-
-*2024-02-21 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Saga-of-a-prideful-legacy-and-brotherhood-in-cricket/172-277425) · `en`
-
-...
-
-[Data](articles/4550f7ff.json)
-
-[Extended Data](ext_articles/4550f7ff.ext.json)
-
----
-
-### Feudalism’s Last Refuge: Medical Sector?
-
-*2024-02-21 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Feudalisms-Last-Refuge-Medical-Sector/172-277423) · `en`
-
-Protesting trade unions demanded a hike in their allowances commensurate to the increase of the doctors
-
-If you want to see the residual of feudalism alive and kicking in this country, look no further than the health sector. Deputy Director of the Colombo National Hospital, Rukshan Bellana became the unannointed spokesman of the condescendingly lowly status the doctors hold the support staff in the profession. This may not be the uniform stance where individual interactions are concerned. Still, it appears to be a de-facto official position if you are to survey the Government Medical Officers Association’s (GMOA) reaction towards nurses, midwives, paramedics and other support staff.
-
-...
-
-[Data](articles/18a72d19.json)
-
-[Extended Data](ext_articles/18a72d19.ext.json)
-
----
-
-### Lanka Needs to Change its Stance on Free Trade Agreements - EDITORIAL
-
-*2024-02-21 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lanka-Needs-to-Change-its-Stance-on-Free-Trade-Agreements-EDITORIAL/172-277422) · `en`
-
-For over five years, we the Lankans have been dabbling with the idea of entering into Free Trade Agreements (FTAs) with India and other countries in the Asia region. Today, once again, we are at the point of inking an agreement on Economic and Technology Cooperation Agreement (ETCA) with India.
-
-Negotiations for a FTA with Thailand have reached fruition, while discussions with India, Bangladesh and China are currently in progress. Additionally, trade negotiations with Indonesia and Malaysia are set to commence shortly. Sri Lanka has submitted a Letter of Intent to become a member of the Regional Comprehensive Economic Partnership (RCEP).
-
-Since the changed economic policies in 1977 led to a partial dropping of protectionist policies, various interest groups from professionals to trade unionists have been up in arms against the idea of FTAs in general and with India in particular.
-
-...
-
-[Data](articles/9afd5712.json)
-
-[Extended Data](ext_articles/9afd5712.ext.json)
-
----
-
-### Legal crisis hindering justice for Sri Lanka’s vulnerable children?
-
-*2024-02-21 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Legal-crisis-hindering-justice-for-Sri-Lankas-vulnerable-children/172-277428) · `en`
-
-Even though Sri Lanka has become a signatory for many child rights conventions and despite having laws in place to prosecute perpetrators the country’s citizens have time and again been compelled to protest against grave sexual abuse on children and women
-
-In 2022 the Police Grave Crimes Report indicates that over 1500 young girls have been raped and over 500 have been subjected to grave sexual abuse
-
-At least 257 cases filed by the Special Investigations Unit of the NCPA are pending in High Court while another 423 cases are pending in various magistrate courts around the island
-
-...
-
-[Data](articles/a5203649.json)
-
-[Extended Data](ext_articles/a5203649.ext.json)
-
----
-
-### 2024-02-20 (Tuesday)
-
-### Iranian Foreign Minister calls on Ali Sabry
-
-*2024-02-20 23:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Iranian-Foreign-Minister-calls-on-Ali-Sabry/110-277420) · `en`
-
-The joint media briefing by visiting Iranian Minister of Foreign Affairs Dr. Amir Abdullahian and Sri Lankan Foreign Affairs Minister M.U.M. Ali Sabry took place in Colombo on February 20, 2024. Iran Foreign Affairs Minister Dr. Hossein arrived in Sri Lanka last night, for a three-day official visit. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/d55d9132.json)
-
-[Extended Data](ext_articles/d55d9132.ext.json)
-
----
-
-### English language to be considered for conducting legal proceedings
-
-*2024-02-20 22:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/English-language-to-be-considered-for-conducting-legal-proceedings/108-277427) · `en`
-
-Colombo, Feb 20, (Daily Mirror) -  The English language is to be considered for conducting legal proceedings and maintaining records in certain courts, the Government Information Department said today.
-
-Particulars in the commerce sphere related to commercial activities are mainly used in the English language and require a considerable cost and time in translating those contents into the Sinhala language. Due to that, an extended period to settle commercial disputes take place which leads to a disadvantage when obtaining entrepreneurs, the department said.
-
-...
-
-[Data](articles/43234920.json)
-
-[Extended Data](ext_articles/43234920.ext.json)
-
----
-
-### International ‘Mother Language’ Day and Multilingual Education in Sri Lanka
-
-*2024-02-20 22:22:00* · [`islandlk`](http://island.lk/international-mother-language-day-and-multilingual-education-in-sri-lanka/) · `en`
-
-International Mother Language Day is celebrated on 21 February every year by UNESCO and the UN to highlight the significance of languages in advancing human and social development. The theme for 2024 is “Multilingual education – a pillar of learning and intergenerational learning” which is crucial for inclusive education and to preserve and develop indigenous languages.
-
-How does this theme relate to Sri Lanka? This paper outlines a few issues for consideration.
-
-...
-
-[Data](articles/9849b1ef.json)
-
-[Extended Data](ext_articles/9849b1ef.ext.json)
-
----
-
-### 300,000 small businesses to be trained in Asia on digital safety, 5000 in Sri Lanka
-
-*2024-02-20 22:20:00* · [`islandlk`](http://island.lk/300000-small-businesses-to-be-trained-in-asia-on-digital-safety-5000-in-sri-lanka/) · `en`
-
-Google.org, Google’s philanthropic arm, is providing $15M to The Asia Foundation to launch the APAC Cybersecurity Fund in partnership with CyberPeace Institute and Global Cyber Alliance to bolster cyber capabilities of 300,000 underserved micro and small businesses, nonprofits, and social enterprises. Working with implementing organizations and universities across the region, The Asia Foundation aims to equip local communities and students via upskilling tools and cyber clinics to protect against online risks. The initiative will span 13 locations, including Bangladesh, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Pakistan, Philippines, Singapore, Sri Lanka, Thailand, and Vietnam.
-
-...
-
-[Data](articles/d724267f.json)
-
-[Extended Data](ext_articles/d724267f.ext.json)
-
----
-
-### Spa Ceylon wins coveted ‘Global Best Beauty Product’ at World Spa Awards 2023
-
-*2024-02-20 22:18:00* · [`islandlk`](http://island.lk/spa-ceylon-wins-coveted-global-best-beauty-product-at-world-spa-awards-2023/) · `en`
-
-Spa Ceylon, the iconic Ayurveda Wellness brand, has won 3 international accolades at the World Luxury Spa Awards 2023, including the prestigious Global Award for Best Beauty Product, alongside Awards for Best Luxury Ayurveda Spa Global & Best Spa Group Global.
-
-‘These awards come at an important & exciting time for us, as we accelerate our European expansion with a heightened focus in the United Kingdom. The award for Beaty products of the year in particular speaks volumes for the innovation in the fusion of ages old Ayurveda wisdom and modern skin science in creating high functioning beauty products that can stand alongside the best products in the world. We believe our unique offering and would be the foundation for our global expansion’, explained Shiwantha Dias, Co-founder / Managing Director.
-
-Related Topics:Spa CeylonSpa Ceylon wins Global Best Beauty Product’ at World Spa Awards 2023
-
-300,000 small businesses to be trained in Asia on digital safety, 5000 in Sri Lanka
-
-...
-
-[Data](articles/07df0df3.json)
-
-[Extended Data](ext_articles/07df0df3.ext.json)
-
----
-
-### Positive investor sentiment eludes CSE in the absence of macroeconomic support
-
-*2024-02-20 22:14:00* · [`islandlk`](http://island.lk/positive-investor-sentiment-eludes-cse-in-the-absence-of-macroeconomic-support/) · `en`
-
-The stock market investor sentiment was not strong yesterday due to the absence of macroeconomic support for the market. The latter was not able to remain positive, despite there having been satisfactory corporate earnings and declaration of dividends, especially in banking sector counters, market analysts revealed.
-
-Due to weak market sentiment both indices indicated mixed reactions. The All- Share Price Index dropped by 4.99 points while S and P SL20 rose by 2.9 points. Turnover stood at Rs 815 million with two crossings. Those crossings were reported in JKH, which crossed 250,000 shares to the tune of Rs 47.75 million; its shares traded at Rs 191 and Hayleys 302,000 shares crossed for Rs 23.1 million; its shares sold at Rs 76.50.
-
-...
-
-[Data](articles/ef773e0b.json)
-
-[Extended Data](ext_articles/ef773e0b.ext.json)
-
----
-
-### US again casts veto of UN action in Israel-Hamas war
-
-*2024-02-20 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97419/us-again-casts-veto-of-un-action-in-israel-hamas-war) · `en`
-
-The United States on Tuesday again vetoed a draft United Nations Security Council resolution on the Israel-Hamas war, blocking a demand for an immediate humanitarian ceasefire as it instead pushes the 15-member body to call for a temporary ceasefire linked to the release of hostages held by Hamas.
-
-Thirteen council members voted in favor of the Algerian-drafted text, while Britain abstained. It was the third such U.S. veto since the start of the current fighting on Oct. 7.
-
-“A vote in favor of this draft resolution is support to the Palestinians right to life. Conversely, voting against it implies an endorsement of the brutal violence and collective punishment inflicted upon them,” Algeria’s U.N. Ambassador Amar Bendjama told the council before the vote.
-
-...
-
-[Data](articles/6ed4ff56.json)
-
-[Extended Data](ext_articles/6ed4ff56.ext.json)
-
----
-
-### Iran's Foreign Minister - President Meeting
-
-*2024-02-20 21:52:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-வெளிவிவகார-அமைச்சர்-ஜனாதிபதி-சந்திப்பு/175-333542) · `ta`
-
-The meeting between Iran's External Affairs Minister Hossein Amir-Abedollahian, who is on an official visit to Sri Lanka, took place at the Presidential Office at the Presidential Office.
-
-◼️
-
-[Data](articles/d0f96969.json)
-
-[Extended Data](ext_articles/d0f96969.ext.json)
-
----
-
-### President addresses APRC, underscores agriculture’s crucial role in nation building
-
-*2024-02-20 21:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97418/president-addresses-aprc-underscores-agricultures-crucial-role-in-nation-building) · `en`
-
-During the 37th session of the Asia and Pacific Regional Conference (APRC) of the Food and Agriculture Organization of the United Nations (FAO) on Tuesday (Feb.20), President Ranil Wickremesinghe announced Sri Lanka’s chairmanship until 2026.
-
-The Sri Lankan leader affirmed the government’s dedication to elevating the island nation as a prominent exporter of agricultural produce through rapid agricultural sector transformation.
-
-He emphasized the pivotal role agriculture played in navigating Sri Lanka through the previous economic crisis and highlighted agriculture and tourism as key sectors for the nation’s swift recovery.
-
-These remarks were made during the opening session of the 37th Asia and Pacific Conference of FAO in Colombo, attended by Dr. Qu Dongyu, Director General of the UN FAO.
-
-...
-
-[Data](articles/e3f7f1d8.json)
-
-[Extended Data](ext_articles/e3f7f1d8.ext.json)
-
----
-
-### Sumedha Awards, including the best news statement
-
-*2024-02-20 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193629) · `si`
-
-Ada Derana won the Award for the Best News of the Year Reining the Excellence of News Reporting.
-
-Derana Media Network won several awards.
-
-Both and 29th the 29th Awards today were present today, and in 2022 and 2023, the television media broadcast and the educational artists were evaluated.
-
-Attachment of Dinah Ranseiri won the best television exploration in two years and 2023.
-
-Meanwhile, Bhanka Karunaratne won the second highest TV news statement in the 2023.
-
-Here is the best TV report program in the year 2023. "Buddha Bowl Playful 'awarded the" Buddha Barway' award, which was broadcasting and broadcast on Derana and the best television program. "Rebuild Sri Lanka 'won the' Rebuild Sri Lanka '.
-
-And the k. The 'Kids Academy "was recognized as the best TV education program in the year 2023.
-
-TV wins the award in Derana, Teledrapitiya, who produces the second place for the year's political program.. Chaminda, who was broadcasting along Derana, was presented to the "Plemal Aroma" teledrama.
-
-...
-
-[Data](articles/12c8d425.json)
-
-[Extended Data](ext_articles/12c8d425.ext.json)
-
----
-
-### Voice of Migrants condemns Israel’s policy against Palestinian migrant workers
-
-*2024-02-20 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Voice-of-Migrants-condemns-Israels-policy-against-Palestinian-migrant-workers/108-277424) · `en`
-
-Colombo, Feb 20 (Daily Mirror) - The recent decision by Israeli authorities to terminate the employment of 72,000 Palestinian migrant workers has sparked widespread condemnation and calls for justice from international organizations and human rights advocates.
-
-Israeli officials cited security concerns as the basis for the mass dismissal, which targeted workers primarily employed in construction projects across the country.
-
-However, critics argue that the move represents a blatant act of discrimination and a violation of labour rights.
-
-Organizations such as the Voice of Migrants Network have issued strong statements denouncing Israel's actions, emphasizing the need for fair treatment and equality for all workers, regardless of their nationality.
-
-The Voice of Migrants said that Israel has opened job opportunities for migrant workers from other countries, including Sri Lanka, in a situation where many countries hesitate to send their workers due to Israel's actions being considered unethical.
-
-...
-
-[Data](articles/0d36dfa0.json)
-
-[Extended Data](ext_articles/0d36dfa0.ext.json)
-
----
-
-### Iraniya Foreign Minister Meets President
-
-*2024-02-20 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193628) · `si`
-
-Iranian Foreign Minister Hussein Armir, Abdullahin, has been found this afternoon to arrive in Sri Lanka for an official visit.
-
-The meeting took place at the Presidential Secretariat, said the Presidential Media Unit.
-
-◼️
-
-[Data](articles/88e6dc89.json)
-
-[Extended Data](ext_articles/88e6dc89.ext.json)
 
 ---

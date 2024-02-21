@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 11:33:26**
+As of **2024-02-21 11:52:00**
 
 ## Newspaper Stats
 
@@ -26,41 +26,45 @@ dailymirrorlk | 1,244
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,399 (99.9%) of 8,404 articles have been extended.
+8,404 (100.0%) of 8,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### தொழுநோயை கட்டுப்படுத்த இலங்கைக்கு வருகை தரவுள்ள உலக சுகாதார ஸ்தாபனத்தின் வைத்திய குழு
+### World Health Organization's Medical Committee on Visit Sri Lanka to control leprosy
 
 *2024-02-21 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176934) · `ta`
 
-தொழுநோயை முற்றாக கட்டுப்படுத்தும் நோக்கில் உலக சுகாதார ஸ்தாபனத்தின் விசேட வைத்திய குழுவொன்று எதிர்வரும் மார்ச் மாதம் நாட்டிற்கு வருகை தரவுள்ளது.
+The World Health Organization's Special Medical Committee will visit the country in March to completely control leprosy.
 
-நாட்டில் அடுத்த 10 ஆண்டுகளில் தொழுநோயை முற்றாக  கட்டுப்படுத்துவதற்கான  வரைப்படத்தை உருவாக்க  இந்த குழு சுகாதார அதிகாரிகளுக்கு உதவும் என  தொழுநோய் தடுப்பு பிரிவு தெரிவித்துள்ளது.
+The group will help health officials to create a map to completely control leprosy over the next 10 years in the country, the Leprosy Prevention Unit said.
 
-நாட்டில் தொழுநோயாளிகளின்  அதிகரித்துள்ளதாக தொழுநோய் ஒழிப்பு பிரிவின் பணிப்பாளர் வைத்தியர் பிரசான் ரணவீர தெரிவித்துள்ளார்.
+Dr. Prasan Ranweera, Director of the Leprosy Eradication Unit, said that the country has increased.
 
-இலங்கையிலிருந்து தொழுநோயை முற்றாக கட்டுப்படுத்தற்கான விரிவான வேலைத்திட்டத்தை நாங்கள் ஏற்கனவே ஆரம்பித்துள்ளோம். இந்த முயற்சிக்கு உதவுவதற்காக விசேட வைத்திய குழுவை மார்ச் மாதம் இங்கு அனுப்புவதாக உலக சுகாதார ஸ்தாபனம் எங்களுக்குத் அறிவித்துள்ளது. அவர்கள் அடுத்த 10 ஆண்டுகளுக்குள் தொழுநோயை முற்றாக தடுக்க ஒரு வரைபடத்தை உருவாக்குவார்கள் என அவர் மேலும் தெரிவித்துள்ளார்.
+We have already started a comprehensive program to completely control leprosy from Sri Lanka. The World Health Organization has announced that we will send a special medical team here in March to assist this effort. He added that within the next 10 years, they will create a map to prevent leprosy completely.
 
 ◼️
 
 [Data](articles/fef5221a.json)
 
+[Extended Data](ext_articles/fef5221a.ext.json)
+
 ---
 
-### පළාත් සභාවලින් පොලිස් බලතල ඉවත් කරන්නැයි මන්ත්‍රී යෝජනාවක්
+### Membership resolution to remove police powers from provincial councils
 
 *2024-02-21 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193640) · `si`
 
-මන්ත්‍රී උදය ගම්මන්පිල මහතා පෞද්ගලික මන්ත්‍රී යෝජනා කෙටුම්පතක් පාර්ලිමේන්තුවේදී සභාගත කළේය.
+MP Udaya Gammanpila tabled a private member's arrangement in Parliament.
 
-ඉන් ඔහු යෝජනා කර ඇත්තේ 22 වන ව්‍යවස්ථා සංශෝධනය හරහා පළාත් සභාවලින් පොලිස් බලතල ඉවත්කළ යුතු බවය.
+He has proposed that the police powers should be removed from the provincial councils through the 22nd amendment.
 
 ◼️
 
 [Data](articles/9132f096.json)
+
+[Extended Data](ext_articles/9132f096.ext.json)
 
 ---
 
@@ -76,41 +80,51 @@ It was put forward by way of a Private Member’s Bill tabled in Parliament.
 
 [Data](articles/ceaab306.json)
 
+[Extended Data](ext_articles/ceaab306.ext.json)
+
 ---
 
-### காசாவில் உடனடி யுத்தநிறுத்தத்தை கோரும் பாதுகாப்பு சபை தீர்மானம் - மூன்றாவது தடவையாக வீட்டோ பயன்படுத்தியது அமெரிக்கா
+### Security Council resolution to demand immediate ceasefire in Gaza - USA used veto for the third time
 
 *2024-02-21 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176930) · `ta`
 
-காசாவில் உடனடி யுத்தநிறுத்தத்தை கோரும் ஐக்கிய நாடுகள் பாதுகாப்பு சபையின் தீர்மானத்திற்கு எதிராக அமெரி;க்கா தனது வீட்டோ அதிகாரத்தை பயன்படுத்தியுள்ளது.
+The United States has used its veto power against the United Nations Security Council resolution demanding an immediate ceasefire in Gaza.
 
-ஒக்டோபர் ஏழாம் திகதிக்கு பின்னர்  உடனடியுத்தநிறுதத்தை கோரும் ஐக்கிய நாடுகள் பாதுகாப்பு சபை தீர்மானத்திற்கு எதிராக அமெரிக்கா மூன்றாவது தடவை தனது வீட்டோ அதிகாரத்தை பயன்படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+Significantly, the US has used its veto power for the third time against the United Nations Security Council resolution, seeking an immediate post after October seven.
 
-உடனடி யுத்தநிறுத்தம் பணயக்கைகதிகள் விடுதலை தொடர்பான பேச்சுவார்த்தைகளை  பாதிக்கும் என அமெரிக்க தெரிவித்துள்ளது.
+The US said the immediate ceasefire would affect negotiations on the release of hostages.
 
-அல்ஜீரியா கொண்டுவந்த தீர்மானத்திற்கு எதிராக அமெரிக்கா மாத்திரமே வாக்களித்துள்ளது - பிரிட்டன் வாக்களிப்பை தவிர்த்துள்ள அதேவேளை 13 நாடுகள் ஆதரவாக வாக்களித்துள்ளன.
+The US has only voted against the resolution brought by Algeria - while Britain has avoided voting and 13 countries have voted in favor.
 
-அமெரிக்காவின் நேசநாடுகளும் தீர்மானத்திற்கு ஆதரவாக வாக்களித்துள்ளன பாலஸ்தீன மக்களின் மனிதாபிமான தேவையே பிரதானமான விடயம் என இந்த நாடுகள் தெரிவித்;துள்ளன.
+These countries say the humanitarian need for the Palestinian people is a major issue.
+
+While more than 30,000 people have been killed, 2 million people have been hungry and there have been widespread protests against the US use its veto power against the immediate ceasefire.
+
+The Algerian Representative to the UN said that it is important to support this copy of the resolution for the right to live in Palestinians.
 
 ...
 
 [Data](articles/39d5891a.json)
 
+[Extended Data](ext_articles/39d5891a.ext.json)
+
 ---
 
-### ராகம பகுதியில் துப்பாக்கிச் சூடு ; ஒருவர் பலி
+### Shooting in the Ragama area;One killed
 
 *2024-02-21 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176928) · `ta`
 
-ராகம பகுதியில் இன்று புதன்கிழமை (21) காலை இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+One person was killed in the shooting that took place on Wednesday morning (21) morning in Ragama, police said.
 
-ராகம, எலப்பிட்டிவல சந்தியில் உள்ள இறைச்சிக் கடையொன்றுக்கு அருகிலேயே இன்று காலை 7.15 மணியளவில் மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவர் இந்த துப்பாக்கிச் சூட்டை நடத்தியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said the shooting was carried out by two unidentified men on a motorcycle at around 7.15 am this morning at a meat shop at Elappitivala junction in Ragama.
 
-உயிரிழந்தவர் 39 வயதுடைய ஹெட்டி ஆராச்சிகே டொன் சுஜித் என அடையாளம் காணப்பட்டுள்ளதோடு, ஒழுங்கமைக்கப்பட்ட குற்றவாளியான “வெல்லே சாரங்க” வின் உறவினர் என தெரிவிக்கப்படுகிறது.
+The deceased has been identified as 39 -year -old Hetti Arachike Don Sujit and is said to be a relative of the organized culprit, "Wella Saranga".
 
 ◼️
 
 [Data](articles/fcbbf9ec.json)
+
+[Extended Data](ext_articles/fcbbf9ec.ext.json)
 
 ---
 

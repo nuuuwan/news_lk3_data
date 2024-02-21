@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 13:02:31**
+As of **2024-02-21 13:17:23**
 
 ## Newspaper Stats
 
-*Scraped **8,424** Articles*
+*Scraped **8,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,93 @@ dailyftlk | 456
 adalk | 715
 adaderanalk | 1,015
 tamilmirrorlk | 1,044
-virakesarilk | 1,130
+virakesarilk | 1,131
 adaderanasinhalalk | 1,226
-dailymirrorlk | 1,250
+dailymirrorlk | 1,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,423 (100.0%) of 8,424 articles have been extended.
+8,424 (100.0%) of 8,426 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### විදුලි බිල අඩු කරන නිසා නඩත්තු කටයුතු කල්දාන්න වෙනවා - විදුලිබල මණ්ඩලය
+### The maintenance of the electricity bill is reduced - the CEB
 
 *2024-02-21 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193643) · `si`
 
-පොරොන්දු වූ පරිදි විදුලි බිල අඩුකිරීම සඳහා අවශ්‍ය පියවර ගනිමින් සිටින බව ලංකා විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය සාමාන්‍යධිකාරී නොයෙල් ප්‍රියන්ත මහතා පවසයි.
+The Ceylon Electricity Board (CEB) said the Ceylon Electricity Board (CEB), Deputy General Man General Priyantha said that steps are being taken to reduce electricity bills as promised.
 
-"අපිට මහජන උපයෝගීතා කොමිසම් කිව්වා අවශ්‍යම නඩත්තු පමණක් කරන්න අනෙක් ඒවා එහාට මෙහාට කරගන්න කියලා. මහජන උපයෝගීතා කොමිසම දුන්නු උපදෙස් අනුව අපි ඒක සකස් කළා. අපි නඩත්තු එහාට මෙහාට කළා. වාහනයක් ඔයිල් මාරු කරලා ෆිල්ටරේට හුළං අල්ලලා පාවිච්චි කරනවා වගේ.  ඒ තත්ත්වයට ආවාම කඩා වැටුණට පස්සේ ගොඩ දාන්න අපහසුවෙයි."
+"We have said to the Public Utilities Commission to do only the right maintenance to be moved around. We prepared it according to the instructions given by the Public Utilities Commission. We did the maintenance. Like the winding of a car switches up your vehicle. When the crash is crashed, you crash. "
 
 ◼️
 
 [Data](articles/4cb108c4.json)
+
+[Extended Data](ext_articles/4cb108c4.ext.json)
+
+---
+
+### Malwathu, Asgiriya Petta Maha Sangha
+
+*2024-02-21 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176938) · `ta`
+
+The Malwathu and the Asgiriya Petta Maha Sangha congratulated the Bill of the Truth and Reconciliation Commission.
+
+Officials, including the Director General of the Interim Secretariat of the Truth and Reconciliation mechanism, handed over a copy of the Truth, Unity and Reconciliation Commission Bill to the Malwattu Asgiri Mahanaka Thera on Monday (19).
+
+Malwathu Peeta Mahanayakar Tippattuwawe Sri Sumangala Thera and Asgiriyat Mahanayaka Mahanayaka Varakagoda Sri Gnanaradana Thera agreed to further review the public and declare the public position.
+
+Officials further explained the progress of the interim secretariat process of the real and reconciliation mechanism.
+
+Dr. Mahawela Ratanapala Thera, Dr. Murudeniye Dharmaratana Thera and Truth and Reconciliation Mechanism Head of the Interim Secretariat (Policy). Put. Thangarajah, Public Relations Executive Officer Dhanushi de Silva, Senior Law Officers Yasmada Lokunarangoda, Dulan Dasanayake, Coordinator. D. Kotelawala also attended the event.
+
+◼️
+
+[Data](articles/28b6fae9.json)
+
+[Extended Data](ext_articles/28b6fae9.ext.json)
+
+---
+
+### Lotus Tower to be illuminate in red tomorrow
+
+*2024-02-21 12:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lotus-Tower-to-be-illuminate-in-red-tomorrow/108-277478) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - The Colombo Lotus Tower will be illuminated in red on February 22 as a mark of respect for and awareness on World Encephalitis Day, the Colombo Lotus Tower Management Company (Private) Limited said.
+
+They said this initiative is part of Encephalitis International's ongoing mission to raise awareness of this devastating neurological condition.
+
+Colombo Lotus Tower will be supporting this movement by joining the many international landmarks worldwide to make this year's World Encephalitis Day truly remarkable and impactful.
+
+◼️
+
+[Data](articles/93f30f0b.json)
+
+---
+
+### ஊட்டச்சத்து குறைபாடு காரணமாக  காசாவில் சிறுவர்கள் உயிரிழப்பது தாங்க முடியாத அளவிற்கு அதிகரிக்கும் ஆபத்து - யுனிசெவ்
+
+*2024-02-21 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176940) · `ta`
+
+ஊட்டச்சத்து குறைபாடு காரணமாக காசாவில் சிறுவர்கள் உயிரிழப்பது தாங்கமுடியாத அளவிற்கு அதிகரிக்கவுள்ளது  எனயுனிசெவ் தெரிவித்துள்ளது.
+
+மிகமோசமான நெருக்கடி காரணமாக தாங்கமுடியாத அளவிற்கு சிறுவர்கள் உயிரிழப்பது  காணப்படுகின்றது இது மேலும் அதிகரிக்கலாம் என   யுனிசெவ் எச்சரித்துள்ளது.
+
+காசாவில் ஐந்து வயதிற்கு உட்பட்ட சிறுவர்களில் 90 வீதமானவர்கள்  கடும்பட்டினி நிலையில் சிக்குண்டுள்ளனர் என யுனிசெவ் தலைமையிலான அமைப்புகள்  வெளியிட்ட அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+கடந்த சில வாரங்களாக ஐந்து வயதிற்கு உட்பட்ட சிறுவர்களில் 70வீதமானவர்கள் வயிற்றுப்போக்கினால் பாதிக்கப்பட்டுள்ளனர் எனவும் மனிதாபிமான அமைப்புகள் தெரிவித்துள்ளன.
+
+மனிதாபிமான உதவிகள் நுழைவதற்கான பகுதியாக காணப்படும் ரபாவில் போசாக்கின்மை ஐந்து வீதமாக காணப்படுகின்றது  வடகாசாவில் போசாக்கின்மை 15 வீதமாக காணப்படுகின்றது எனவும் தகவல்கள் வெளியாகியுள்ளன.
+
+வடகாசாவை தங்களது முற்றுகைக்குள் இஸ்ரேலிய படையினர்வைத்துள்ளதும் இங்கு பல மாதங்களாக மனிதாபிமான உதவிகள் செல்லாததும் குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/71831ce7.json)
 
 ---
 
@@ -141,28 +203,6 @@ In this project, the three-wheelers that are currently powered by fuel will be c
 [Data](articles/e18f58e3.json)
 
 [Extended Data](ext_articles/e18f58e3.ext.json)
-
----
-
-### Malwathu, Asgiriya Petta Maha Sangha
-
-*2024-02-21 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176938) · `ta`
-
-The Malwathu and the Asgiriya Petta Maha Sangha congratulated the Bill of the Truth and Reconciliation Commission.
-
-Officials, including the Director General of the Interim Secretariat of the Truth and Reconciliation mechanism, handed over a copy of the Truth, Unity and Reconciliation Commission Bill to the Malwattu Asgiri Mahanaka Thera on Monday (19).
-
-Malwathu Peeta Mahanayakar Tippattuwawe Sri Sumangala Thera and Asgiriyat Mahanayaka Mahanayaka Varakagoda Sri Gnanaradana Thera agreed to further review the public and declare the public position.
-
-Officials further explained the progress of the interim secretariat process of the real and reconciliation mechanism.
-
-Dr. Mahawela Ratanapala Thera, Dr. Murudeniye Dharmaratana Thera and Truth and Reconciliation Mechanism Head of the Interim Secretariat (Policy). Put. Thangarajah, Public Relations Executive Officer Dhanushi de Silva, Senior Law Officers Yasmada Lokunarangoda, Dulan Dasanayake, Coordinator. D. Kotelawala also attended the event.
-
-◼️
-
-[Data](articles/28b6fae9.json)
-
-[Extended Data](ext_articles/28b6fae9.ext.json)
 
 ---
 
@@ -1903,45 +1943,5 @@ The Iranian Foreign Minister arrived in Sri Lanka yesterday (19) on an officia
 [Data](articles/65fc65ef.json)
 
 [Extended Data](ext_articles/65fc65ef.ext.json)
-
----
-
-### Certificate from Minister Kanchana about reducing electricity bills
-
-*2024-02-20 20:16:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිල-අඩු-කිරීම-ගැන-ඇමති-කංචනගෙන්-සහතිකයක්/11-408204) · `si`
-
-Power and Energy Minister Kanchana Wijesekara said that the Ministry of Power and Energy will be reduced by the Ministry of Power and Energy.
-
-According to the CEB, the proposal to reduce the electricity tariff has been submitted to the Public Utilities Commission today (20), he said.
-
-The Minister Kanchana Wijesekera was expressed.
-
-"The Cabinet of the December was decided that the electricity tariff should be amended. Accordingly, the Electricity Board has given their proposal to the Public Utilities Commission. In the meantime, we requested to give us suggestions on electricity tariffs from various parties, to give us suggestions on the problems they see. Various parties involved in the discussion. Nearly 40 people involved in the engineers, engineers and the veteran in the electricity sector representing universities were involved in. They gave suggestions.
-
-...
-
-[Data](articles/f6e3492a.json)
-
-[Extended Data](ext_articles/f6e3492a.ext.json)
-
----
-
-### A long time near the Polonnaruwa period examines many evidence
-
-*2024-02-20 20:12:10* · [`adalk`](https://www.ada.lk/breaking_news/පොළොන්නරුව-යුගයට-එහා-ගිය-ඈත-යුගයක-සාක්ෂි-රැසක්-සොයා-ගනියි/11-408203) · `si`
-
-According to a modern technique Professor Prishantha Gunawardena, Professor Prishantha Gunawardena, who had been able to find a number of evidence of a long time over the Earth Transparent Rady.
-
-Dr. Kazez Ticklin, Dr. Kazez Ticklin, Dr. Kazis, University of Ltrorop, which is in advance of the surface of the earth, has been able to see more buildings and ovens in addition to the surface of the earth.
-
-The project was conducted by the University of Kelaniya and Australia, the University of the University of Kelaniya and Australia.
-
-"The University of Kelaniya and Australia, the Department of Archeology and Central Cultural Funds, the Department of Archeology and Central Cultural Funds, the University of the University of Kelaniya and the University of Sri Lanka has commenced on the 4th of this month.
-
-...
-
-[Data](articles/1ca5b33f.json)
-
-[Extended Data](ext_articles/1ca5b33f.ext.json)
 
 ---

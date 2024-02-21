@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 17:33:22**
+As of **2024-02-21 17:53:17**
 
 ## Newspaper Stats
 
-*Scraped **8,488** Articles*
+*Scraped **8,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 718
 adaderanalk | 1,028
 tamilmirrorlk | 1,055
 virakesarilk | 1,141
-adaderanasinhalalk | 1,238
+adaderanasinhalalk | 1,244
 dailymirrorlk | 1,258
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,481 (99.9%) of 8,488 articles have been extended.
+8,494 (100.0%) of 8,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Appeal message from the mother of Alexi Navalni's mother
+
+*2024-02-21 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193665) · `si`
+
+Russian opposition leader Alexi Navalni's mother has requested Russian President Vladmini Putin to free his son's body.
+
+Foreign media reports that Navalni's mother had made a video message through the social media.
+
+Alexi Naveldi died on a prison last Friday, and the authorities have not taken steps to hand over his body to relatives.
+
+Accordingly, Navalni's mother, Putin, is said to be an appealing message to the President, to free his Son's body to perform a dignified and humanitarian manner.
+
+However, the Russian President has not responded so far regarding the video.
+
+◼️
+
+[Data](articles/7d3bd5a1.json)
+
+[Extended Data](ext_articles/7d3bd5a1.ext.json)
+
+---
 
 ### Aquaman star Jason Momoa hails Sri Lanka’s mangrove restoration efforts
 
@@ -48,117 +70,205 @@ The Aquaman star further said: “As a native Hawaiian, I saw the impacts of cli
 
 [Data](articles/74801b11.json)
 
+[Extended Data](ext_articles/74801b11.ext.json)
+
 ---
 
-### இலங்கையர்களாக ஒன்றுபட்டால் நாட்டை துரித அபிவிருத்திக்கு இட்டுச் செல்லலாம் - 10 ஆவது தேசிய சாரணர் ஜம்போரியை ஆரம்பித்து வைத்து ஜனாதிபதி தெரிவிப்பு
+### If you are united as Sri Lankans, the country can lead to fast development - the President has started the 10th National Scout Jambori
 
 *2024-02-21 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176971) · `ta`
 
-அனைவரும் இலங்கையர்களாக ஒன்றுபட்டால் நாட்டை துரித அபிவிருத்திக்கு இட்டுச் செல்ல முடியும். அதனால் எதிர்கால சந்ததியினருக்கு மிகவும் பாதுகாப்பான நாட்டை கட்டியெழுப்ப முடியுமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+If everyone is united as Sri Lankans, the country can lead to rapid development. President Ranil Wickremesinghe said that the future generation can be built to build a safe country.
 
-திருகோணமலை கோணேஷ்வரா இந்து கல்லூரி மைதானத்தில் ஏற்பாடு செய்யப்பட்டிருந்த 10 ஆவது தேசிய சாரணர் ஜம்போரியை இன்று புதன்கிழமை (21) ஆரம்பித்து வைத்து ஆற்றிய உரையிலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+The President said this in a speech at the Goneshwara Hindu College grounds in Trincomalee on Wednesday (21).
 
-இனம், மதம் என்ற அடிப்படையில் எவரும் சாரணர் ஜம்போரியின் இணைந்துகொள்வதில்லை எனத் தெரிவித்த ஜனாதிபதி  அனைத்து தருணங்களிலும் இலங்கையர்களாக ஒன்றுபடும் பட்சத்தில் பருத்தித்துறையில் இருந்து தேவேந்திரமுனை வரை ஒற்றுமையை ஏற்படுத்த முடியுமென வலியுறுத்தினார்.
+The President said that no one would join the scout Jambori on the basis of race and religion, and urged that Sri Lankans unite at all moments would be united from Point Pedro to Devendra.
 
-நாட்டுக்குத் தேவையான நல்ல பிரஜைகளை உருவாக்கும் சாரணர் அமைப்பை விரிவுபடுத்த ஒத்துழைப்பு வழங்குவதாகவும், அதற்காக சாரணர் இயக்கம் தொழில்நுட்ப அமைச்சுடன் இணைந்து செயற்படுவதற்கான வாய்ப்புகளை ஏற்படுத்திக் தருவதாகவும் ஜனாதிபதி இதன்போது உறுதியளித்தார்.
+The President promised to cooperate to expand the scout organization that creates good citizens for the country and give the scout movement opportunities to work with the Ministry of Technology.
+
+The 10th National Scout Jambori, organized by the Sri Lanka Scout Movement, was opened by President Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/dcf13340.json)
 
+[Extended Data](ext_articles/dcf13340.ext.json)
+
 ---
 
-### நுவரெலியாவில் போக்குவரத்து அனுமதி பத்திரம் பெற்று தருவதாக கூறி இலஞ்சம் பெற்ற இரண்டு அதிகாரிகளுக்கு விளக்கமறியல்!
+### Two bribery officers expressed in Nuwara Eliya
 
 *2024-02-21 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176982) · `ta`
 
-பொது போக்குவரத்து சேவையில் ஈடுப்படுத்தப்படும் தனியார் பேரூந்து ஒன்றுக்கு "C" தரம் அனுமதி பத்திரம் வழங்க 50,000 ரூபாய் லஞ்சம் பெற்ற  அதிகாரிகள் இருவரை மார்ச் மாதம் (04) ஆம் திகதி வரை விளக்கமறியலில் வைக்க நுவரெலியா மாவட்ட நீதவான் நீதிமன்ற நீதிபதி பிரபுதிகா லங்காதினி நேற்று  (20) செவ்வாய்கிழமை மாலை உத்தரவு பிறப்பித்தார்.
+Nuwara Eliya District Magistrate Prabhudhika Lanka on Tuesday evening issued a directive to two bribes of Rs 50,000 to issue a "C" quality permit for a private bus for a private transport service.
 
-மத்திய மாகாண பொது போக்குவரத்து திணைக்களத்தைச் சேர்ந்த நுவரெலியா மாவட்டத்திற்கு பொறுப்பான மாவட்ட முகாமையாளர் மற்றும் மேலும் ஒரு அதிகாரியை கொழும்பிலிருந்து வருகை தந்திருந்த இலஞ்சம் ஒழிப்பு திணைக்கள அதிகாரிகள் நேற்று  (20) பகல் நுவரெலியாவில் கைது செய்தனர்.
+Officials of the Bribery Department, who was in Colombo, arrested a district manager and another officer in charge of the Nuwara Eliya District of the Central Provincial Public Transport Department yesterday (20) in Nuwara Eliya.
 
-இவ்வாறு கைது செய்யப்பட்ட இரு அதிகாரிகளை நுவரெலியா மாவட்ட நீதிமன்ற நீதிபதி பிரபுதிகா லங்காதினி முன்னிலையில் நேற்று (20) மாலை லஞ்சம் ஒழிப்பு திணைக்கள அதிகாரிகள் முன்னிலை படுத்தினர்.
+The two arrested officers were taken up in the presence of the Nuwara Eliya District Court Judge Prabhudika Lanka, the Bribery Department yesterday evening.
 
-இதன்போது விசாரணையை மேற்கொண்ட நீதிபதி சந்தேக நபர்களான இரு அதிகாரிகளையும் எதிர்வரும் மார்ச் மாதம் 4 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவு பிறப்பித்தார்.
+The judge, who conducted the hearing, ordered the two suspects to be remanded until March 4.
+
+At the same time, the lawyer, who was present on behalf of the suspects, told the judge that the district manager had diabetes and heart disease.
+
+Considering this, the Finance President ordered the suspect to be admitted to the Prison Hospital for treatment.
 
 ...
 
 [Data](articles/73cbadf4.json)
 
+[Extended Data](ext_articles/73cbadf4.ext.json)
+
 ---
 
-### கச்சதீவு திருவிழாவை ரத்து செய்வதாக தமிழக வேர்க்கோடு பங்குத்தந்தை அறிவிப்பு!
+### Tamil Nadu Cancer
 
 *2024-02-21 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176979) · `ta`
 
-இலங்கை - இந்தியா இருநாட்டு மீனவர்களும் கலந்து கொள்ளும் கச்சதீவு புனித அந்தோனியார் ஆலய திருவிழா மீனவர்களின் போராட்ட எதிரொலி காரணமாக இந்த ஆண்டு இந்திய தரப்பிலிருந்து எவரும் கலந்து கொள்ளப் போவதில்லை என வேர்க்கோடு  பங்குத்தந்தை சந்தியாகு அறிவித்துள்ளார்.
+Sri Lanka -India fishermen have announced that no one from the Indian side will attend this year due to the echo of the fishermen of St. Anthony's Temple, Kachchativu.
 
-மேலும், வெளிமாவட்டம் வெளி மாநிலங்களில் இருந்து கச்சதீவு திருவிழாவிற்கு படகுகளில் செல்ல பதிவு செய்தவர்கள் வீண் சிரமங்களை தவிர்க்க வேண்டும் எனவும், அவர்கள் விசைப்படக்கிற்கு செலுத்திய பணம் விரைவில் மீண்டும் வழங்கப்படும் என பங்குத்தந்தை தெரிவித்துள்ளார்.
+In addition, those who have registered in the boats for the Kachchativu festival from outside states should avoid the difficulties and that the money paid for the boys will be replaced soon.
 
 ◼️
 
 [Data](articles/928beeea.json)
 
+[Extended Data](ext_articles/928beeea.ext.json)
+
 ---
 
-### மன்னார் - அடம்பன், முள்ளிக்கண்டல் பகுதியில் இருவர் சுட்டுக் கொலை ; சந்தேக நபர்கள் இருவர் கைது
+### Indian farmers attacked severe tears
+
+*2024-02-21 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193664) · `si`
+
+The Indian farmers have resumed their march after the negotiations with the federal government authorities.
+
+Farmers who claim to be given a specific price for their products warns that protests are escalating protests.
+
+It was reported that the barbed and other obstacles were reported for roads to Delhi to prevent the arrival of farmers.
+
+But the protesters say they have the strength to revert these obstacles.
+
+Some protesters were brought to this protest with bulldozers and other large tractors.
+
+As farmers in Haryana and Punjab states, the police acted in tear gas against them.
+
+◼️
+
+[Data](articles/288448ad.json)
+
+[Extended Data](ext_articles/288448ad.ext.json)
+
+---
+
+### Two men shot dead in Mullikandal, Mannar - Adampan;Two suspects arrested
 
 *2024-02-21 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176974) · `ta`
 
-மன்னார் - அடம்பன், முள்ளிக்கண்டல் பகுதியில் இருவர் சுட்டுக் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் இருவர் கைது செய்யப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+Two persons have been arrested in connection with the murder of two people in the Mannar - Adampan and Mullikandal area, police said.
 
-உயிலங்குளம் மற்றும் மன்னார் பகுதிகளைச் சேர்ந்த 33 மற்றும் 55 வயதை உடைய குறித்த இருவரும் நேற்று செவ்வாய்க்கிழமை (20) மாலை  கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The two men aged 33 and 55 from Uilangulam and Mannar were arrested on Tuesday evening, police said.
 
-கடந்த ஆண்டு ஆகஸ்ட் 24 ஆம் திகதி இந்த இரட்டை கொலை சம்பவம் இடம்பெற்றுள்ளது.
+The double murder took place on August 24 last year.
 
-வயலுக்கு தண்ணீர் பாய்ச்சுவதற்காக மோட்டார் சைக்கிளில் பயணித்து கொண்டிருந்தவர்கள் மீது துப்பாக்கிப் பிரயோகம் நடத்தப்பட்டு இருந்தது.
+A motorcycle riding on a motorcycle was fired at the field.
 
-குறித்த துப்பாக்கிச் சூட்டில் மன்னார் நொச்சிக்குளம் பகுதியைச் சேர்ந்த ஜேசுதாசன் அருந்தவராஜா (வயது-42) மற்றும் மாந்தை மேற்கு பிரதேச செயலாளர் பிரிவில் உள்ள ஈச்சளவக்கை  கிராமத்தை சேர்ந்த கணபதி காளிமுத்து (வயது-56) ஆகியோரே  உயிரிழந்தனர்.
+Jesudasan Arundavarajah (age 42) from Nochchikkulam, Mannar and Ganapathi Kalimuthu (age-56) from Ichalakkai village in the Manthai West Divisional Secretariat Division were killed.
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் அடம்பன் பொலிஸ் நிலையத்தில் தடுத்துவைக்கப்பட்டு விசாரணைகளுக்கு உட்படுத்தப்பட்டு வருகின்றனர்.
+The arrested suspects are being detained at the Adampan police station and are being investigated.
 
 ◼️
 
 [Data](articles/c37a5f40.json)
 
+[Extended Data](ext_articles/c37a5f40.ext.json)
+
 ---
 
-### கொவிட்தடுப்பூசிகளால் பல உடல்பாதிப்புகள் -சர்வதேச அளவில் மேற்கொள்ளப்பட்ட ஆய்வில் அதிர்ச்சி தகவல்கள்
+### Many bodybuildings by mosquitoes -an international study
 
 *2024-02-21 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176972) · `ta`
 
-சர்வதேச அளவில் தற்போது காணப்படும் நோய்கள் உடல்பாதிப்புகளிற்கு கொரோனா தடுப்பூசிகளே காரணமாகயிருக்கலாம் என்பது ஆய்வொன்றின் மூலம் தெரியவந்துள்ளது.
+According to a study, Corona vaccines may be due to the current diseases of the internationally present.
 
-கொவிட் பெருந்தொற்றுகாலத்தில் பொதுமக்கள் பயன்படுத்திய தடுப்பூசிகளே  தற்போது பலநாடுகளில் காணப்படும் பல நோய்களிற்கு காரணமாகயிருக்கலாம் என்பது குளோபல் வக்சின் டேட்டா நெட்வேர்க் என்ற அமைப்பின் ஆய்வின் மூலம் தெரியவந்துள்ளது.
+The study of the Global Waksin Data Network has revealed that the public use of public use during the Kovit period may have caused many diseases in many years.
 
-அவுஸ்திரேலியா கனடா உட்பட எட்டு நாடுகளில் சுமார் 100 மில்லியன் மக்களை இந்த அமைப்பு ஆய்விற்குட்படுத்தியுள்ளது.
+The organization has studied about 100 million people in eight countries, including Australia Canada.
 
-கொவிட் தடுப்பூசிகளிற்கும் சில மருத்துவநிலைகளிற்கும் இடையில்  தொடர்பிருப்பதை இந்த ஆய்வுகள் உறுதி செய்துள்ளன.
+These studies have confirmed that there is a linked between vitamin vaccines and some medical conditions.
 
-தடுப்பூசி காரணமாக நரம்பியல் இரத்தம் இதயம் தொடர்பான பாதிப்புகள்ஏற்பட்டுள்ளன என ஜிவிடிஎன் செய்திக்குறிப்பொன்றில் தெரிவித்துள்ளது.
+In a GVDN newsletter, neurological blood has been affected by the vaccine.
 
-குறிப்பாக மொடேர்னா தடுப்பூசி  போட்டவர்களிற்கு மயோகார்டிடிஸ் எனப்படும் இதய தசை பாதிப்பு ஏற்படுவது இந்த ஆய்வின் மூலம் தெரியவந்துள்ளது.
+The study reveals that myocarditis, especially myocarditis, has a heart muscle.
 
-இதேவேளை தடுப்பூசிகள் மூளையில் இரத்த உறைவு மற்றும் நரம்பியல் கோளாறு ஆகியவற்றுடன் தொடர்புபட்டுள்ளமையும் தெரியவந்துள்ளது.
+At the same time, vaccines are also associated with brain clotting and neurological disorder.
 
-...
+The study has also revealed that the spinal cord inflammation is found among those who used Modena vaccine, such as inflammation of the brain and the spinal cord.
+
+◼️
 
 [Data](articles/97cb5fc2.json)
 
+[Extended Data](ext_articles/97cb5fc2.ext.json)
+
 ---
 
-### கடும் வெப்பம் ; 6 மாவட்டங்களுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை ; மக்களே அவதானம்
+### A scary story about Covid Vaccine
+
+*2024-02-21 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193662) · `si`
+
+Research by scientists have revealed that the covard vaccine has caused the increase in the heart of the heart and the brain.
+
+However, the report states that the coronary virus is the increase in the risk.
+
+The research was carried out by a Global Waxin Data Network, the Researchage of the Health Organization.
+
+The research has been carried out using 99 million people who have received 29 countries, which have received 299 million people.
+
+71% of the world's population has obtained one dose or covard vaccine.
+
+◼️
+
+[Data](articles/7d0d9f42.json)
+
+[Extended Data](ext_articles/7d0d9f42.ext.json)
+
+---
+
+### Decision on Malwane house without owner
+
+*2024-02-21 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193661) · `si`
+
+Attorney at Law, Dr. Wijayadasa Rajapakse, Dr. Wijayadasa Rajapakse said that the house with no owner without the owner of Malwane and 15 acres of land will be deployed to an effective development project.
+
+He said that a detailed proposal will be presented to the Cabinet.
+
+The Minister made this statement when he arrived in observing the house in the house.
+
+"It is said that this is an object of the subject of a controversial case in this country. At the court prosecuted, all the members of the land were not owned by the land when they were prosecuted in the court.. The land was handed over to the Cabinet of the Cabinet by submitting a tract to the Cabinet. We suggested this house as a research and training center for judges internationally. "
+
+...
+
+[Data](articles/66c352fb.json)
+
+[Extended Data](ext_articles/66c352fb.ext.json)
+
+---
+
+### Heat;Warning for 6 districts;People are the ones who are
 
 *2024-02-21 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176966) · `ta`
 
-நாட்டில்  பல மாவட்டங்களில் வெப்பநிலை திடீரென அதிகரித்துள்ளது.  இதன் காரணமாக 6 மாவட்டங்களுக்கு வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+Temperature has suddenly increased in many districts in the country.As a result, the Department of Meteorology has issued a warning to 6 districts.
 
-நாளை வியாழக்கிழமை (22) வடமேற்கு மாகாணம், கம்பஹா, கொழும்பு, அம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டம் மாவட்டங்களில்  அதிக வெப்பநிலை பதிவாகும் என்று தெரிவித்துள்ளது.
+Temperature will be recorded in the Northwest Province, Gampaha, Colombo, Hambantota and Moneragala districts tomorrow (22).
 
-வெளியிடங்களில் தேவையற்ற விதமாக நடமாடுவதை தவிர்க்குமாறும், அதிக நீரை பருகுமாறும், வெளிர்நிறத்திலான மெல்லிய ஆடையை  அணியுமாறும் அறிவுறுத்தப்பட்டுள்ளது.
+It is advised to avoid unnecessary walking in publications, drink more water and wear a pale thin clothing.
 
 ◼️
 
 [Data](articles/2eb09915.json)
+
+[Extended Data](ext_articles/2eb09915.ext.json)
 
 ---
 
@@ -177,6 +287,26 @@ Despite the widespread vaccination efforts, a recent peer-reviewed study has now
 [Data](articles/d2c7b7bd.json)
 
 [Extended Data](ext_articles/d2c7b7bd.ext.json)
+
+---
+
+### President declares open Scout Jamboree
+
+*2024-02-21 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193660) · `si`
+
+The 10th National Scout Jamboree opened President Ranil Wickremesinghe.
+
+The President reportedly opened the Scout Jamboree as the Chief Scout in the country this morning.
+
+Sri Lanka and the participation of 11,500 Scouts of 28 other countries will be held in Trincomalee.
+
+The President has emphasized that the import of the Scout Movement that creates the good citizens of the country.
+
+◼️
+
+[Data](articles/dcec40d3.json)
+
+[Extended Data](ext_articles/dcec40d3.ext.json)
 
 ---
 
@@ -199,6 +329,32 @@ At first he did not take care of this. It was difficult to breathe at one point 
 [Data](articles/58f41787.json)
 
 [Extended Data](ext_articles/58f41787.ext.json)
+
+---
+
+### Sister in Anuradhapura arrested
+
+*2024-02-21 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193659) · `si`
+
+Police have arrested a woman in Anuradhapura to be arrested on suspicion of heroin racket.
+
+The suspect is a racketeer called the aliasing 'sister'.
+
+The suspect is revealed that the 'Vaulum Prisoners' in the Boossa Prison and the racketeer of Kosgoda Prisoners.
+
+Nearly 15 grams of heroin were found in possession of the suspect in the Thambuththegama area.
+
+The suspect was arrested in a raid conducted by the Anuradhapura Police Crime Investigation Unit.
+
+The police were also arrested by the police and they will be conducting detention orders and obtain detention orders.
+
+Police have also revealed that the traffickers detained at the suspect and the Boossa Prison have taken place.
+
+◼️
+
+[Data](articles/10a4cb59.json)
+
+[Extended Data](ext_articles/10a4cb59.ext.json)
 
 ---
 
@@ -1897,115 +2053,5 @@ Of these, 60 percent of depositors have less than 5,000 deposits. Therefore, the
 [Data](articles/d2107d68.json)
 
 [Extended Data](ext_articles/d2107d68.ext.json)
-
----
-
-### Back firing;Death
-
-*2024-02-21 09:02:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-துப்பாக்கிச்சூடு-ஒருவர்-மரணம்/175-333566) · `ta`
-
-One person was killed in a shooting incident by two unidentified people on a motorcycle at around 7.15 am near the Alappitivala junction of the Mahabhake Police Division.
-
-Hettiarachchi Don Sujit died after being shot dead, police said.
-
-It is revealed that he is the relative of the organized offender called Wella Saranga. Remble
-
-◼️
-
-[Data](articles/f1c4cc61.json)
-
-[Extended Data](ext_articles/f1c4cc61.ext.json)
-
----
-
-### Central Bank's salary increase cannot be interfered with - Minister of Finance
-
-*2024-02-21 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176918) · `ta`
-
-Central Bank officials cannot control and intervene by the Ministry of Finance. Finance Minister Ranjith Siyambalapitiya said that the salary is increased every three years as per the agreement.
-
-Speaking at a session in Parliament on Tuesday (20), members of the Opposition parties questioned that the central bank should be responsible for the banning of the country.. Responding to this, the Minister of State said the above.
-
-The Central Bank operates independently.. So this salary increase cannot be controlled by the Ministry of Finance. The Central Bank of India will take a resolution on salary increase.
-
-Salary increases as possible as economists are in high positions in the central bank. Salaries are not paid through the joint fund. He said the salary is paid through the central bank's accounts.
-
-◼️
-
-[Data](articles/333faea0.json)
-
-[Extended Data](ext_articles/333faea0.ext.json)
-
----
-
-### The UN. Tamil media will also be invited to the media workshop sponsored by the Development Fund - Bandula Gunawardena
-
-*2024-02-21 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176917) · `ta`
-
-Media, Transport and Highways Minister Bandula Gunawardena said that Tamil and Muslim journalists will take steps to invite the media clarification to the media under the sponsor of the United Nations Development Fund.
-
-Opposition Member of Parliament on Tuesday (20). Radhakrishnan said this in response to a question raised by the MP.
-
-Radhakrishnan MP. According to the fact that the journalists are being held in all areas of Sri Lanka. But the Tamil media is not invited to these workshops. The Tamil media has no invitation to the media workshop in Nuwara Eliya in the Nuwara Eliya District on the 21st. It has been reported that the lack of funds is due to the lack of funds and the Tamil media will be held alone on a different day. Do not divide this. He said the Tamil media should also call for the ongoing workshops.
-
-...
-
-[Data](articles/fe947d18.json)
-
-[Extended Data](ext_articles/fe947d18.ext.json)
-
----
-
-### Hope of Speaker has been lost - Leader of the Opposition
-
-*2024-02-21 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176916) · `ta`
-
-The government should make it clear what happened to the amendments made by the High Court to the Ceremony.Opposition Leader Sajith Premadasa said that the Speaker's confidence in the Speaker has not been confident by not implementing the Supreme Court solutions.
-
-The High Court sends its decisions to Parliament on various bills. It is also reported to the House to print the court solutions sent. But when they are legal, High Court amendments are not amended. That is why we are saying that there is no confidence in the Speaker.
-
-In particular, the amendments made by the High Court to the Bill were not enacted when the Bill was admitted to Parliament, especially in Parliament.. No matter what to be done during the committee. We are obliged to implement the High Court's rulings and recommendations on the bills.
-
-So the Supreme Court has not even implemented amendments to the Supreme Court on 9 cases. So the government should make it clear what happens to those amendments.
-
-...
-
-[Data](articles/768a951e.json)
-
-[Extended Data](ext_articles/768a951e.ext.json)
-
----
-
-### Man assaulted by cricket strike
-
-*2024-02-21 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193637) · `si`
-
-A person was attacked with a cricket bind and a stick in the Peradeniya Police Division in Peradeniya.
-
-The deceased has been identified as 55 year old.
-
-It has been revealed that the attack had been carried out due to a personal dispute.
-
-The body has been placed at the Peradeniya Hospital for the post mortem.
-
-◼️
-
-[Data](articles/259062aa.json)
-
-[Extended Data](ext_articles/259062aa.ext.json)
-
----
-
-### Shooting in Ragama leaves a man dead
-
-*2024-02-21 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97423/shooting-in-ragama-leaves-a-man-dead-) · `en`
-
-A shooting incident in Elapitawala, Ragama has left one person dead this morning (Feb.21), the police said.
-
-◼️
-
-[Data](articles/8fcd6102.json)
-
-[Extended Data](ext_articles/8fcd6102.ext.json)
 
 ---

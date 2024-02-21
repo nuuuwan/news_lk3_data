@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 09:02:33**
+As of **2024-02-21 09:17:18**
 
 ## Newspaper Stats
 
-*Scraped **8,371** Articles*
+*Scraped **8,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 429
 islandlk | 443
 dailyftlk | 454
 adalk | 713
-adaderanalk | 1,009
+adaderanalk | 1,011
 tamilmirrorlk | 1,030
 virakesarilk | 1,120
 adaderanasinhalalk | 1,219
@@ -26,25 +26,57 @@ dailymirrorlk | 1,239
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,370 (100.0%) of 8,371 articles have been extended.
+8,371 (100.0%) of 8,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### රාගම වෙඩිතැබීමක්
+### Shooting in Ragama leaves a man dead
+
+*2024-02-21 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97423/shooting-in-ragama-leaves-a-man-dead-) · `en`
+
+A shooting incident in Elapitawala, Ragama has left one person dead this morning (Feb.21), the police said.
+
+◼️
+
+[Data](articles/8fcd6102.json)
+
+---
+
+### Ragama shot
 
 *2024-02-21 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193636) · `si`
 
-අද (21) උදෑසන 7.15ට පමණ මහබාගේ පොලිස් වසමේ ඇලපිටිවල හංදිය ආසන්නයේ දී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් වෙඩිතැබීමක් සිදුකර තිබේ.
+Two unidentified persons who came in a motorcycle have been shot in the junction of the Mahabage Police Division around 7.15 am today.
 
-එම අවස්ථාවේ දී වෙඩිවැදීමෙන් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය පවසයි.
+One person was killed after a shooting at the time, police said.
 
-ඔහු වැල්ලේ සාරංග නැමති සංවිධානාත්මක අපරාධකරුගේ ඥාතියෙකු වන බවට තොරතුරු අනාවරණය වී තිබේ.
+It has been revealed that he is a relative of the organized criminal of the sand.
 
 ◼️
 
 [Data](articles/32d9f896.json)
+
+[Extended Data](ext_articles/32d9f896.ext.json)
+
+---
+
+### Iranian President invited for official visit to Sri Lanka
+
+*2024-02-21 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97422/iranian-president-invited-for-official-visit-to-sri-lanka) · `en`
+
+Iranian President Ebrahim Raisi has been invited for an official visit to Sri Lanka.
+
+Iranian Foreign Minister Hossein Amir-Abdollahian said on Tuesday during a visit to Sri Lanka that he had received the invitation for President Raisi’s visit to the capital Colombo.
+
+“This visit will be a priority for Iran despite Ayatollah Raisi’s busy schedule,” said the minister.
+
+Amir-Abdollahian arrived in Colombo late on Monday for talks with senior officials of the Sri Lankan government amid Iran’s efforts to boost its ties with the Indian Ocean island nation.
+
+◼️
+
+[Data](articles/f60cea5b.json)
 
 ---
 
@@ -1903,43 +1935,5 @@ Investigation by Poly, a resident of the house had died on a chair in the house,
 [Data](articles/982ea89d.json)
 
 [Extended Data](ext_articles/982ea89d.ext.json)
-
----
-
-### Jaffna Pallakalai Fine Arts Faculty Students Struggle
-
-*2024-02-20 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176871) · `ta`
-
-Jaffna University Ramanathan Finance Faculty Students staged a class boycott protest on Tuesday (20).
-
-Jaffna University Ramanathan Fine Arts in the 4th year, we learn in the 3rd year 2nd half year.. So the students demanded that they expedite their lecture activities.
-
-◼️
-
-[Data](articles/1efa9b47.json)
-
-[Extended Data](ext_articles/1efa9b47.ext.json)
-
----
-
-### President's notice of a Sri Lanka - India agreement
-
-*2024-02-20 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193618) · `si`
-
-The 13th round of the proposed Indian-Sri Lanka Economic and Technology Cooperation Agreement was held in New Delhi from 2024-01-08 to 10 days.
-
-There, "Carrier, General Provisions", "Service Trade", "Service Trade", "Service Trade", "Service Trade and Trade" Sanitation and Trade Sanitation and Trade Sanitation and Trade"The nine subcommitse have been held by" Trade Inquiry "and" Economic and Technology Cooperation ".
-
-It is reported that discussions on the matters on the conflict resolution and final arrangements will be held in the late February 2024.
-
-The 14th round of the proposed Cooperation Agreement is scheduled to be held first week of March 1, 2024.
-
-President Ranil Wickremesinghe had presented this information to the Cabinet regarding the current status of the proposed Indian-Sri Lanka Economic and Technology Cooperation Agreement.
-
-◼️
-
-[Data](articles/d3931f49.json)
-
-[Extended Data](ext_articles/d3931f49.ext.json)
 
 ---

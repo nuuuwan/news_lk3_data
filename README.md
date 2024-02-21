@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 10:33:05**
+As of **2024-02-21 10:50:30**
 
 ## Newspaper Stats
 
-*Scraped **8,396** Articles*
+*Scraped **8,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 713
 adaderanalk | 1,013
 tamilmirrorlk | 1,036
 virakesarilk | 1,126
-adaderanasinhalalk | 1,221
+adaderanasinhalalk | 1,222
 dailymirrorlk | 1,243
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,387 (99.9%) of 8,396 articles have been extended.
+8,397 (100.0%) of 8,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Another goal - Meat Mudalali kills
+
+*2024-02-21 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193639) · `si`
+
+The owner of a meat shop owner was shot dead at Mahabage Police Division this morning.
+
+Two unidentified gunmen from a motorbike have been shot dead, police said.
+
+The man who was injured in the shooting has been admitted to the Ragama Hospital.
+
+It has been revealed that Hettiarachchige Don Sujith is a resident of Kandana.
+
+The deceased has also received information that the deceased is a relative of an organized criminal.
+
+The person who was supporting the meat shopping at the time of shooting commented on this.
+
+"Hang meat and putting the three-wheeler, and the hand came out because you wanted to put it here. And he heard a shot. I thought the crackers. Nobody saw. I saw a bicycle stopped on the side. There were more than two or three shots. "
+
+◼️
+
+[Data](articles/00945dbb.json)
+
+[Extended Data](ext_articles/00945dbb.ext.json)
+
+---
 
 ### Electricity tariff to be reduced in greater margin than earlier proposed: Minister
 
@@ -47,6 +73,8 @@ He said the CEB was drafting a new proposal on electricity tariff after consider
 ...
 
 [Data](articles/c3ed7d66.json)
+
+[Extended Data](ext_articles/c3ed7d66.ext.json)
 
 ---
 
@@ -79,6 +107,8 @@ Speaking further, ALC Director Dr. Prasan Ranaweera said the number of leprosy p
 ◼️
 
 [Data](articles/f8652cb9.json)
+
+[Extended Data](ext_articles/f8652cb9.ext.json)
 
 ---
 
@@ -137,6 +167,8 @@ Also, the CEB raised the tariff by 66 percent in February, and there was a reduc
 ◼️
 
 [Data](articles/0c8b1363.json)
+
+[Extended Data](ext_articles/0c8b1363.ext.json)
 
 ---
 
@@ -289,6 +321,8 @@ Mahabage Police is conducting further investigations into the incident to appreh
 ◼️
 
 [Data](articles/98f54a31.json)
+
+[Extended Data](ext_articles/98f54a31.ext.json)
 
 ---
 
@@ -584,6 +618,8 @@ Acting as an excellent platform for PCC to present its upcoming investment prosp
 
 [Data](articles/690de034.json)
 
+[Extended Data](ext_articles/690de034.ext.json)
+
 ---
 
 ### JAT achieves key milestone as operations begins at Alkyd Resin plant in Bangladesh
@@ -599,6 +635,8 @@ This achievement marks a positive moment for JAT Holdings PLC, as its new Alkyd 
 ...
 
 [Data](articles/3738844e.json)
+
+[Extended Data](ext_articles/3738844e.ext.json)
 
 ---
 
@@ -816,6 +854,8 @@ Under the proposed guidelines, measures are included to provide breathing space 
 
 [Data](articles/3e56c025.json)
 
+[Extended Data](ext_articles/3e56c025.ext.json)
+
 ---
 
 ### The model is not affected by the proposed fisheries law
@@ -970,6 +1010,8 @@ In the first two weeks of February, in addition to air travel, visitors entered 
 
 [Data](articles/550808ec.json)
 
+[Extended Data](ext_articles/550808ec.ext.json)
+
 ---
 
 ### US sanction-hit Iran explores new partnerships with crisis-hit Sri Lanka
@@ -989,6 +1031,8 @@ His visit also comes ahead of Iran President Ebrahim Raisi’s official visit la
 ...
 
 [Data](articles/765d147d.json)
+
+[Extended Data](ext_articles/765d147d.ext.json)
 
 ---
 
@@ -1927,29 +1971,5 @@ Accordingly, amendments were made in the Cabinet last week. They have been submi
 [Data](articles/09200891.json)
 
 [Extended Data](ext_articles/09200891.ext.json)
-
----
-
-### MP Gunatilleke Rajapakse is temporary
-
-*2024-02-20 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193622) · `si`
-
-The Kandy District MP Gunatilleke Rajapaksa has received temporary monamia from the Sri Lanka General War.
-
-Mr. Gunatilleke Rajapaksa had gone to India to be temporary monastery.
-
-The Chief Incumbent of the Buddha, the Chief Incumbent of the Buddha served in the Chief Incumbent of the Chief Incumbent of the leader of the leader of the leader and Ven.
-
-Sandakaladu Rajapaksa, son of the profession of Canada, was also included in temporary monsoon as Ven. Ampara Dhammaloka.
-
-The wife of Gunatilleke Rajapaksa has passed away shortly ago and the Kandy Development Committee meeting was held at the end of the Kandy Development Committee meeting.
-
-It was decided to meditate and meditate on the occasional treatment of a severe life due to a serious busy mind.
-
-◼️
-
-[Data](articles/fa2a515c.json)
-
-[Extended Data](ext_articles/fa2a515c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 07:31:14**
+As of **2024-02-21 07:51:53**
 
 ## Newspaper Stats
 
-*Scraped **8,357** Articles*
+*Scraped **8,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 712
 adaderanalk | 1,007
 tamilmirrorlk | 1,028
 virakesarilk | 1,120
-adaderanasinhalalk | 1,214
+adaderanasinhalalk | 1,216
 dailymirrorlk | 1,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,357 (100.0%) of 8,357 articles have been extended.
+8,359 (100.0%) of 8,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Sale fepe for alleged
+
+*2024-02-21 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193633) · `si`
+
+The Mount Lavinia Division Criminal Investigation Department (Mt.
+
+Mt.
+
+The suspect has been arrested in connection with the sale of illegal drugs banned without the approval of a doctor.
+
+Police have recovered 9,032 illegal alcohol at the sale of these drugs.
+
+◼️
+
+[Data](articles/84752ed6.json)
+
+[Extended Data](ext_articles/84752ed6.ext.json)
+
+---
+
+### The leprosy donkey is
+
+*2024-02-21 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193632) · `si`
+
+A special team of doctor is due to arrive in Sri Lanka next month regarding leprosy of the World Health Organization.
+
+Director of the Director Dr. Prasad Ranaweera stated that a road map is to be prepared to eliminate leprosy in the next ten years.
+
+"The leprosy eradication campaign is currently carrying a joint program to eliminate lills in Sri Lanka. This is because the discovery of leprosy patients has increased by about 10% over the year. We have informed the World Health Organization as a cooperation in March to send a special team of leprosy in March to our country. They hope to have a road map to eradicate leprosy in the next 10 years. We accepted it from the factor. There is one criteria to eliminate leprosy. You can't eliminate them at once. Therefore, it has to be obtained as zones as per leprosy. It will be done to do so with experts. "
+
+◼️
+
+[Data](articles/73abcf46.json)
+
+[Extended Data](ext_articles/73abcf46.ext.json)
+
+---
 
 ### CID and Central Bank probe Rs. 8 Bn fraud defrauding over 22000 victims
 
@@ -1889,45 +1927,5 @@ Preparations for the Annual Houses of the National School of Pasarai National Sc
 [Data](articles/e46818bb.json)
 
 [Extended Data](ext_articles/e46818bb.ext.json)
-
----
-
-### Harin Fernando protests in front of the ministry
-
-*2024-02-20 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176861) · `ta`
-
-The protest was carried out in front of the Ministry of Tourism on Tuesday (20) against the recent comment made by Minister Harin Fernando.
-
-The protesters have called for his resignation following his comments during a recent tourism event in India.
-
-Speaking at a tourist event to encourage Sri Lanka for Indian tourists, Minister Harin Fernando said Sri Lanka was a part of India.
-
-Various organizations have been protesting against the minister's comment and urging them to resign.
-
-◼️
-
-[Data](articles/fe603aa3.json)
-
-[Extended Data](ext_articles/fe603aa3.ext.json)
-
----
-
-### An old private library donates an old private library to the national government
-
-*2024-02-20 13:52:52* · [`adalk`](https://www.ada.lk/breaking_news/වසර-හැටපහක්-පැරණි-පෞද්ගලික-පුස්තකාලයක්-ජාතික-ජන-බලවේගයට-පරිත්‍යාග-කරයි/11-408194) · `si`
-
-A powerful figure of the Left Movement and a well-known writer, Attorney-at-Law Sixty Bookcrues, Nimber (19), was held at Rukmaldagama Home Road Road, Kottawa, on the 19th.
-
-JVP PSC Tilvin Silva, Lalvin, and Attorney-at-Law MP Devananda, and Attorney-at-Law Devananda, Maharawarama and Attorney-at-Law MP Devananda, and Attorney-at-Law Devananda, and Attorney-at-Law Devananda, Maharawarama and Attorney-at-Law Devananda, Maharawarama and Attorney-at-Law Devananda, Maharagama Devananda, and Attorney-at-Law Devananda, Maharagama Devananda, and Attorney-at-Law Devananda, Mahama.
-
-Here's the lawyer of law. G. Mr. Punchi Hewa said:
-
-"I'm 91 years old now. I had a number of books related to various subjects assembled for 65 years. I have been thinking about who can use the literature in general. There I realized that the best group to do this was the national folk force.
-
-...
-
-[Data](articles/fe54c720.json)
-
-[Extended Data](ext_articles/fe54c720.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 14:02:40**
+As of **2024-02-21 14:17:32**
 
 ## Newspaper Stats
 
-*Scraped **8,447** Articles*
+*Scraped **8,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ adalk | 718
 adaderanalk | 1,020
 tamilmirrorlk | 1,047
 virakesarilk | 1,131
-adaderanasinhalalk | 1,228
+adaderanasinhalalk | 1,231
 dailymirrorlk | 1,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,430 (99.8%) of 8,447 articles have been extended.
+8,447 (100.0%) of 8,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### STF නිලධාරින් පස් දෙනෙකු පිළිබඳ අධිකරණයෙන් නියෝගයක්
+
+*2024-02-21 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193648) · `si`
+
+පැහැරගෙන යාමේ සිද්ධියක් සම්බන්ධයෙන් සැක කෙරෙන නිලධාරින් පස් දෙනෙකු පිළිබඳ ලබන සඳුදා තෙක් ඉදිරි පියවරක් නොගන්නා ලෙස අභියාචනාධිකරණය අද (21) ආණමඩුව මහෙස්ත්‍රාත් අධිකරණයට නියෝග කර ඇත.
+
+පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් පස් දෙනෙකු පිළිබඳ මෙම නියෝගය ලබා දී ඇති අතර, ආණමඩුව පොලීසියේ කොස්තාපල්වරයකු පැහැරගෙන යාම සිද්ධියක් සම්බන්ධයෙන් සැකකරුවන්ට චෝදනා එල්ල වී තිබේ.
+
+විශේෂ කාර්ය බළකා නිලධාරීන් විසින් ගොනු කළ රිට් පෙත්සමක් සලකා බැලීමෙන් අනතුරු ව අභියාචනාධිකරණය මෙම නියෝග නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/3af4922a.json)
+
+---
+
+### බස් රියදුරු ශාන්ත ජයසේකර ට මගීන්ගෙන් උපහාර
+
+*2024-02-21 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193647) · `si`
+
+වසර 18ක කාලයක් බස් රියදුරෙකු ලෙස සේවය කළ පුද්ගලයෙකුට මගීන් එකතුවී උපහාර දැක්වීමේ සිද්ධියක් වාර්තා විය.
+
+ඒ, හැටන් පෝඩයිස් හරහා ඩයගම දක්වා ධාවනය වූ ලංගම බස් රථයක රියදුරෙකු ට.
+
+වසර 18ක කාලයක් එලෙස සේවය කළ ශාන්ත ජයසේකර මහතාට එම බස් රථයේ ගමන්ගත් මගීන් එක්වී උපහාර දැක්වීමට පසුගියදා කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/5c3bb67c.json)
+
+---
+
+### ඉරාන ජනපති කඩිනමින් ලංකාවට එන්න සැරසෙයි
+
+*2024-02-21 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193646) · `si`
+
+ඉතා කඩිනමින් ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි මහතා ශ්‍රී ලංකාවේ සංචාරයක නිරතවනු ඇති බව එරට විදේශ අමාත්‍ය ආචාර්ය හුසේන් ආමීර් අබ්දුල්ලාහින් මහතා පවසයි.
+
+මෙරට නිල සංචාරයක නිරතවී සිටින ඉරාන විදේශ අමාත්‍යවරයා ඊයේ කොළඹදී එකාබද්ධ ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් මේ බව සඳහන් කළේය.
+
+අනතුරුව ඉරාන විදේශ අමාත්‍ය ආචාර්ය හුසේන් ආමීර් අබ්දුල්ලාහින් මහතා සහ විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතාගේ ප්‍රධානත්වයෙන් පැවැති ඒකාබද්ධ ප්‍රවෘත්ති සාකච්ඡාවක් විදේශ කටයුතු අමාත්‍යාංශයේදී පැවැත්වුණි.
+
+◼️
+
+[Data](articles/69fbcfc4.json)
+
+---
 
 ### Power of Parate execution law to be suspended: Siyambalapitiya
 
@@ -48,29 +96,39 @@ He said this while speaking at the adjournment debate moved by the Ipposition on
 
 [Data](articles/7fbd996b.json)
 
+[Extended Data](ext_articles/7fbd996b.ext.json)
+
 ---
 
-### මහබාගේ උක්කුවා ඝාතනය ගැන තවත් තොරතුරු
+### More information about the assassination of Mahabage
 
 *2024-02-21 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193645) · `si`
 
-විදෙස්ගතව සැඟව සිටින "වැල්ලේ සාරංග" නම් අපරාධකරුගේ සමීප ඥාතියෙකු අද (21) උදෑසන රාගම, මහබාගේ ප්‍රදේශයේදී වෙඩිතබා ඝාතනය කර තිබේ.
+A close relative of the criminal of the "sand Saranga" abroad has been shot in Ragama this morning (21).
 
-"වැල්ලේ සාරංගගේ" ප්‍රතිවාදියෙකු වන ඩුබායි නිපුනගේ පාර්ශ්වය විසින් එම ඝාතනය සිදුකර ඇති බවට සැක කරන බව පොලීසිය පැවසීය.
+Police said that the murder was committed by the murder of the "sand Saranga's opponent."
 
-රාගම, මහබාගේ ඇලපිටිවල ප්‍රදේශයේදී අද උදෑසන 7.30ට පමණ වෙඩිතැබීමක් සිදුවී තිබුණේ ඌරු මස් වෙළෙඳසැලක හිමිකරුවකු ඉලක්කර කරගනිමිනි.
+A shooting at Mahabage was shot at 7.30 am at the area in the Mahabage Kotte this morning.
 
-පොලීසිය පැවසුවේ, යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් රිවෝල්වර් වර්ගයේ ගිනිඅවියකින් වෙඩිතැබීම සිදුකර පළාගොස් ඇති බවය.
+Police said that two unidentified persons who came from a motorbike were shooting by a revolver firearm.
 
-එලෙස මියගිය පුද්ගලයා 42 හැවිරිදි ජා ඇළ උතුරු බටගම ප්‍රදේශයේ පදිංචි දොන් සුජිත් හෙවත් උකුක්වා නැමැත්තෙකි.
+The victim was 42 year old Don Sujith, a resident of Battgama, North Batagama.
 
-ඔහු මේ වනවිට විදෙස්ගතව සැඟව සිටින "වැල්ලේ සාරංග" නම් අපරාධකරුගේ නැගණියගේ සැමියා බව පොලීසිය පැවසීය.
+The husband of the criminal of the criminal of the criminal of the criminal is currently abiding internationally, the police said.
 
-"වැල්ලේ සාරංගගේ" ප්‍රතිවාදියෙකු ලෙස සැලකෙන තවත් අපරාධකරුවකු වන ඩුබායි නිපුන නැමැත්තාගේ පාර්ශ්වයෙන් මියගිය පුද්ගලයාට මරණ තර්ජන තිබීම හේතුවෙන් පොලීසිය ඔහුට අදාළ වෙළඳසැලට නොපැමිණෙන ලෙසද මින්පෙර දැනුම්දී තිබේ.
+The police have also notified him as the deceased, another criminal, who is considered to be an opponent.
 
-...
+The Ada Derana reporter said that a police signature was also held in the relevant shops.
+
+The victim was threatened with death by Dubai Nakayakapian to the victim in such a situation.
+
+Despite this, the murder was taken this morning.
+
+◼️
 
 [Data](articles/c5c723de.json)
+
+[Extended Data](ext_articles/c5c723de.ext.json)
 
 ---
 
@@ -91,6 +149,8 @@ The police action came as the government of Prime Minister Narendra Modi made a 
 ...
 
 [Data](articles/89333fd5.json)
+
+[Extended Data](ext_articles/89333fd5.ext.json)
 
 ---
 
@@ -128,6 +188,8 @@ Completing the overhaul of Sri Lanka’s $27 billion of foreign debt is critical
 
 [Data](articles/0b4da42e.json)
 
+[Extended Data](ext_articles/0b4da42e.ext.json)
+
 ---
 
 ### Man to take the harvest home
@@ -162,21 +224,25 @@ In reply to the accusation Opposition Leader Sajith Premadasa merely asked: “S
 
 [Data](articles/ad61421c.json)
 
+[Extended Data](ext_articles/ad61421c.ext.json)
+
 ---
 
-### தாமரை கோபுரம் சிவப்பு நிறத்தில் ஒளிரும்
+### Lotus tower is flashing in red
 
 *2024-02-21 12:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரம்-சிவப்பு-நிறத்தில்-ஒளிரும்/175-333581) · `ta`
 
-கொழும்பு தாமரை கோபுரம் பெப்ரவரி 22ஆம் திகதியன்று சிவப்பு நிறத்தில் ஒளிரும் என கொழும்பு தாமரை கோபுரம் முகாமைத்துவ நிறுவனம் (தனியார்) லிமிடெட் தெரிவித்துள்ளது.
+The Colombo Lotus Tower will be light on February 22, the Colombo Lotus Tower Management Company (Private) Limited said.
 
-உலக மூளையழற்சி தினமான பெப்ரவரி 22ஆம் திகதியன்று விழிப்புணர்வை ஏற்படுத்தும் வகையிலேயே இவ்வாறு ஒளிரவிடப்படவுள்ளது. இந்த பேரழிவு தரும் நரம்பியல் நிலை குறித்த விழிப்புணர்வை ஏற்படுத்த என்செபாலிடிஸ் இன்டர்நேஷனலின் தற்போதைய பணியின் ஒரு பகுதியாக இவ்வாறு செய்யப்படுகின்றது.
+This is to be blighted on the 22nd of February, the World Metropolitan Day, to raise awareness. This is part of the current task of encyclitis International to raise awareness of this catastrophic neurological status.
 
-கொழும்பு தாமரை கோபுரம் உலகெங்கிலும் உள்ள பல சர்வதேச அடையாளங்களுடன் இணைந்து இந்த இயக்கத்திற்கு ஆதரவளிக்கும்.
+The Colombo Lotus Tower will support the movement with many international identities around the world.
 
 ◼️
 
 [Data](articles/10e199a2.json)
+
+[Extended Data](ext_articles/10e199a2.ext.json)
 
 ---
 
@@ -250,6 +316,8 @@ Colombo Lotus Tower will be supporting this movement by joining the many interna
 
 [Data](articles/a6649103.json)
 
+[Extended Data](ext_articles/a6649103.ext.json)
+
 ---
 
 ### Sri Lanka rupee trades at 311.65/75 to the US dollar
@@ -270,6 +338,8 @@ The Colombo Stock Exchange was trading up; The All Share Price Index was up 0.02
 
 [Data](articles/2cc4e007.json)
 
+[Extended Data](ext_articles/2cc4e007.ext.json)
+
 ---
 
 ### Sri Lanka looking to phase out sending women abroad as domestic workers over 10-year period
@@ -285,6 +355,8 @@ Minister of Labour and Foreign Employment Manusha Nanayakkara in a discussion wi
 ...
 
 [Data](articles/0b446221.json)
+
+[Extended Data](ext_articles/0b446221.ext.json)
 
 ---
 
@@ -326,6 +398,8 @@ The National Scout Jamboree is being held in Trincomalee, with the participation
 
 [Data](articles/adc4ef1f.json)
 
+[Extended Data](ext_articles/adc4ef1f.ext.json)
+
 ---
 
 ### New love that shed blood in the knife
@@ -361,6 +435,8 @@ The conference was attended by representatives from 34 countries including the U
 ...
 
 [Data](articles/56f7341b.json)
+
+[Extended Data](ext_articles/56f7341b.ext.json)
 
 ---
 
@@ -405,6 +481,8 @@ Shehbaz Sharif, the younger brother of Nawaz, said the two parties had the numbe
 ...
 
 [Data](articles/a5adf056.json)
+
+[Extended Data](ext_articles/a5adf056.ext.json)
 
 ---
 
@@ -596,6 +674,8 @@ It also notes that importation of maize, black grams, green grams, and Kurakkan 
 
 [Data](articles/7ce3b57e.json)
 
+[Extended Data](ext_articles/7ce3b57e.ext.json)
+
 ---
 
 ### Sumathi Awards Ceremony 2024...
@@ -665,6 +745,8 @@ The report said that during the first year of the global pandemic, in 2020, ther
 ...
 
 [Data](articles/b538e9d6.json)
+
+[Extended Data](ext_articles/b538e9d6.ext.json)
 
 ---
 
@@ -759,6 +841,8 @@ The rules apply to an integrated development “approved by the minister”, und
 ...
 
 [Data](articles/b689c1c1.json)
+
+[Extended Data](ext_articles/b689c1c1.ext.json)
 
 ---
 
@@ -1848,15 +1932,17 @@ We implemented the housing scheme we got through the Government of India on the 
 
 ---
 
-### பருத்தித்துறையில் வாள் வெட்டு: இருவர் காயம்
+### Sword Cut in Point: Two people injured
 
 *2024-02-21 03:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பருத்தித்துறையில்-வாள்-வெட்டு-இருவர்-காயம்/71-333556) · `ta`
 
-யாழ்ப்பாணம் - பருத்தித்துறை பகுதியில் இடம்பெற்ற வாள் வெட்டுச் சம்பவத்தில் இரண்டு மாணவர்கள் படுகாயமடைந்துள்ளனர்.
+Two students were injured in a sword cutting incident in Jaffna - Point Pedro.
 
 ◼️
 
 [Data](articles/0d86888b.json)
+
+[Extended Data](ext_articles/0d86888b.ext.json)
 
 ---
 
@@ -1899,65 +1985,5 @@ Lecoils of Pitipinations: What is the dispute between the ards and fishermen of 
 [Data](articles/de43c59f.json)
 
 [Extended Data](ext_articles/de43c59f.ext.json)
-
----
-
-### February tourist arrivals exceed 138,000 in 18 days
-
-*2024-02-21 02:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/February-tourist-arrivals-exceed-138-000-in-18-days/108-277442) · `en`
-
-A group of tourists taking a breather from sightseeing in Colombo - Pic by Pradeep Pathirana
-
-Sri Lanka’s tourism surge shows no sign of slowing down, with more than 138,000 international visitors exploring the island nation just in the first 18 days of February.
-
-This figure already surpasses last year’s numbers for the entire month, when 107,639 tourists arrived, data from Sri Lanka Tourism Development Authority (SLTDA) showed. If this pace continues, Sri Lanka is poised to exceed 200,000 visitors for the third consecutive month.
-
-The daily arrival average has increased to 7,707, while the weekly arrival is around 53,000 for the month of February so far.
-
-In the first two weeks of February, in addition to air travel, visitors entered the country by sea as well.
-
-...
-
-[Data](articles/550808ec.json)
-
-[Extended Data](ext_articles/550808ec.ext.json)
-
----
-
-### US sanction-hit Iran explores new partnerships with crisis-hit Sri Lanka
-
-*2024-02-21 00:38:00* · [`economynextcom`](https://economynext.com/us-sanction-hit-iran-explores-new-partnerships-with-crisis-hit-sri-lanka-151708/) · `en`
-
-ECONOMYNEXT – Iran, which is still grappling with a 2012 economic sanction imposed by the United States is exploring new ventures and trade and investment in Sri Lanka, the island nation which is still recovering from an unprecedented economic crisis.
-
-Iranian Foreign Minister Amir Abdullahian met top Sri Lankan government officials including President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, and his counterpart Ali Sabri on Tuesday (20).
-
-Sri Lanka is unable to pay for Iran investment and imports due to the US sanctions, but it has successfully started paying for the dues in crude imports before 2012 through a “tea for oil” deal.
-
-Iranian Foreign Minister comes after an official visit from Sri Lanka Foreign Minister Ali Sabri when he went to Tehran in August last year.
-
-His visit also comes ahead of Iran President Ebrahim Raisi’s official visit later this year, government officials said.
-
-...
-
-[Data](articles/765d147d.json)
-
-[Extended Data](ext_articles/765d147d.ext.json)
-
----
-
-### Chinese countryman beat police officers
-
-*2024-02-21 00:18:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரிகளை-அடித்து-விரட்டிய-சீன-நாட்டுப்பெண்/175-333555) · `ta`
-
-Beruwala police said that a Chinese woman was arrested this afternoon (20) for assaulting two police officers who went to investigate a Chinese woman who was staying in the country without a visa in Mangala Mawatha.
-
-Two police officers who were attacked have been handed over to the legal officer of the Nagoda Teaching Hospital in Kalutara and are to be produced before the Kalutara Magistrate.
-
-◼️
-
-[Data](articles/717ce0a5.json)
-
-[Extended Data](ext_articles/717ce0a5.ext.json)
 
 ---

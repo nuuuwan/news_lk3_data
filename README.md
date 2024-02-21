@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 18:50:56**
+As of **2024-02-21 19:02:32**
 
 ## Newspaper Stats
 
-*Scraped **8,521** Articles*
+*Scraped **8,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 729
 adaderanalk | 1,028
 tamilmirrorlk | 1,055
 virakesarilk | 1,145
-adaderanasinhalalk | 1,248
+adaderanasinhalalk | 1,249
 dailymirrorlk | 1,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,518 (100.0%) of 8,521 articles have been extended.
+8,522 (100.0%) of 8,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### To Afghanistan to advantage
+
+*2024-02-21 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193670) · `si`
+
+Afghanistan Leading Ibrahim was able to win the Third and Final Thirteen match between Sri Lanka and Afghanistan.
+
+◼️
+
+[Data](articles/912f266f.json)
+
+[Extended Data](ext_articles/912f266f.ext.json)
+
+---
 
 ### The decree of the breaking the breaking judgment changes the homach
 
@@ -126,19 +140,23 @@ Among the two countries will commence at the Rangeiri Dambulla Stadium today (21
 
 ---
 
-### பௌத்த பிக்குகள் பாராளுமன்றத்துக்கு வர கூடாது, விகாரைகளில் இருக்க வேண்டும் - இராஜாங்க அமைச்சர் டயனா கமகே
+### Buddhist monks should not come to parliament, should be in the mutilation - Minister of State for Minister Diana Kamage
 
 *2024-02-21 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/176991) · `ta`
 
-பௌத்த பிக்குகள் பாராளுமன்றத்துக்கு வர கூடாது. விகாரைகளில் இருந்து அறத்தை போதிக்க வேண்டும். காவியுடை அணிந்து வருபவர்களுக்கு மக்கள் இனிமேல் வாக்களிக்க கூடாது, விகாரையிலேயே இருக்க சொல்லுங்கள். பாராளுமன்ற உறுப்பினர் ரத்ன தேரர்,நாலக கொடஹேவா ஆகியோரின் ஆலோசனைகளினால் தான் கோட்டபய ராஜபக்ஷ பாரிய நெருக்கடிக்கு உள்ளானார் என சுற்றுலாத்துறை அமைச்சர் டயனா கமகே தெரிவித்தார்.
+Buddhist monks should not come to parliament. To teach the room from the idols. People should no longer vote for those who wear the saffron. Tourism Minister Diana Kamage said that Gotabhaya Rajapaksa was in a huge crisis with the advice of Parliamentarian Ratna Thera and Nalaka Kodaheva.
 
-எனது வீட்டுக்கு பீல்ட் மார்ஷல் சரத் பொன்சேகா மாத்திரமல்ல, ஜனாதிபதி ரணில் விக்கிரமசிங்க,மஹிந்த ராஜபக்ஷ, மைத்திரிபால சிறிசேன, சஜித் பிரேமதாச,அனுரகுமார திஸாநாயக்க ஆகியோர் வருகை தந்துள்ளார்கள். ஆகவே கீழ்த்தரமான கருத்துக்களை குறிப்பிடுவதை எஸ்.எம்.மரிக்கார் தவிர்த்துக் கொள்ள வேண்டும் எனவும் குறிப்பிட்டார்.
+Not only Field Marshal Sarath Fonseka, President Ranil Wickremesinghe, Mahinda Rajapaksa, Maithripala Sirisena, Sajith Premadasa and Anuragumara Dissanayake. Therefore, SM Marikar should avoid referring to the subversive ideas.
 
-பாராளுமன்றத்தில் புதன்கிழமை (21) இடம்பெற்ற நாட்டின் தற்போதைய நிலைவரம் தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He said this while addressing the adjournment debate of the country's current state of affairs in Parliament on Wednesday (21).
+
+When the development activities are carried out with foreign investments, it is the current culture of protesting against it.. When the high -speed highways development work was carried out during the reign of former President Mahinda Rajapaksa, a party protested in the middle of the road.. But they are the ones who use the highway today.
 
 ...
 
 [Data](articles/f41d3337.json)
+
+[Extended Data](ext_articles/f41d3337.ext.json)
 
 ---
 
@@ -212,19 +230,21 @@ Nagananda Kodituwakku has requested the Supreme Court to allow the national folk
 
 ---
 
-### நாளை சிவப்பு நிறத்தில் ஒளிரவுள்ள தாமரைக் கோபுரம்
+### Lotus tower that lightens red tomorrow
 
 *2024-02-21 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176956) · `ta`
 
-சர்வதேச மூளையழற்சி நோய் தினத்தை முன்னிட்டு விழிப்புணர்வை ஏற்படுத்தும் வகையில் நாளை புதன்கிழமை (22) கொழும்பிலுள்ள தாமரை கோபுரம் சிவப்பு நிறத்தில் ஒளிரவிடப்படவுள்ளது.
+The Lotus Tower in Colombo will be flashing in red tomorrow (22) to raise awareness on the Day of International Melinitis.
 
-இந்த ஆபத்துமிக்க நரம்பியல் நிலை குறித்த விழிப்புணர்வை ஏற்படுத்தும் என்செபாலிடிஸ் இன்டர்நேஷனலின் அண்மைய திட்டங்களின் ஒரு பகுதியாக இவ்வாறு ஒளிரவிடப்படவுள்ளது.
+This is to be illuminated as part of the recent programs of the Encypalitis International to raise awareness of this dangerous neurological condition.
 
-கொழும்பு தாமரை கோபுரம் இவ் வருடம் சர்வதேச மூளையழற்சி தினத்தை உண்மையிலேயே குறிப்பிடத்தக்க மாற்றத்தை எற்படுத்தும் வகையில் உலகெங்கிலும் உள்ள பலருடன் இணைந்து இந்த இயக்கத்திற்கு ஆதரவளிக்கும்.
+The Colombo Lotus Tower will support the movement this year with many people around the world to make a significant change in the International Metropolitan Day this year.
 
 ◼️
 
 [Data](articles/a1901e37.json)
+
+[Extended Data](ext_articles/a1901e37.ext.json)
 
 ---
 
@@ -248,23 +268,25 @@ However, if such expressions are deemed detrimental to the functioning of health
 
 ---
 
-### கடும் வெப்பம் ; வைத்திய நிபுணர்கள் விடுத்துள்ள எச்சரிக்கை
+### Heat;Alert
 
 *2024-02-21 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176948) · `ta`
 
-நாட்டில் நிலவும் வெப்பமான வானிலையின் காரணமாக சூரிய ஒளியில் அதிகமாக இருப்பதை தவிர்க்குமாறும், அடிக்கடி  நீராகாரங்களை எடுத்து கொள்ளுமாறும் வைத்திய நிபுணர்கள் மக்களை அறிவுறுத்தியுள்ளனர்.
+Medical experts have advised people to avoid the excessive sunlight of the country due to the hot weather in the country and frequent water.
 
-செயற்கை குளிர்பானங்களை பருகுவதை தவிர்த்து, நீர், இளநீர் போன்ற இயற்கை குளிர்பானங்களை பருகுவதன் மூலம் உடலில் நீர்வற்றிப் போகாமல் பாதுகாக்கலாம்.
+Avoiding artificial soft drinks, drinking natural soft drinks such as water and juices can be protected from watering.
 
-அதிகம் வெப்பத்தினால் சிறுவர்கள், கர்ப்பிணித் தாய்மார்கள், முதியவர்கள் மற்றும் பல்வேறு நோய்களுக்கு சிகிச்சை பெறுபவர்கள் உடலில் நீர்வற்றும் அபாயத்தில் உள்ளனர்.
+Children, pregnant mothers, elderly and people who are treated for various diseases are at risk of watering in the body.
 
-எனவே, இவர்கள் அதிக வெப்பம் உள்ள நேரங்களில் முடிந்த வரை வெளியில் செல்வதை தவிர்க்க வேண்டும் மற்றும் உடலில் நீர்வற்றிப் போகாமல் பார்த்துக் கொள்ளவேண்டும்.  ஆகையால் 2.5 லீற்றர் தண்ணீரை பருக வேண்டும்.
+Therefore, they should avoid going out as far as possible in high temperatures and keeping the body from watering.Therefore, drink 2.5 liters of water.
 
-அத்தோடு, சிறுவர்கள் வீட்டிற்குள்  அல்லது நிழலில் விளையாட இடமளிக்க வேண்டும். சிறிய பிள்ளைகள் வெளியில் செல்லும்போது பாதுகாப்பிற்காக தொப்பிகளை அணிய ஊக்குவிக்க வேண்டும் என தெரிவித்துள்ளார்.
+As well as the boys should be accommodated to play in the house or in the shade. He said that small children should be encouraged to wear hats for safety when they go outside.
 
 ◼️
 
 [Data](articles/f65869d1.json)
+
+[Extended Data](ext_articles/f65869d1.ext.json)
 
 ---
 
@@ -2051,25 +2073,5 @@ The Algerian Representative to the UN said that it is important to support this 
 [Data](articles/39d5891a.json)
 
 [Extended Data](ext_articles/39d5891a.ext.json)
-
----
-
-### The Asgiriya Plateau Maha Sangha
-
-*2024-02-21 11:33:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்கிரிய-பீட-மகா-சங்கத்தினர்-பாராட்டு/175-333574) · `ta`
-
-The Malwathu and the Asgiriya Petta Maha Sangha congratulated the Bill of the Truth and Reconciliation Commission.
-
-Officials, including Dr. Asang Gunawansa, Director General of the Interim Secretariat of the Truth and Reconciliation mechanism, handed over a copy of the Truth, Unity and Reconciliation Commission Bill to the Malwattu Asgiri Mahanaka Thera.
-
-Malwathu Peeta Mahanayakar Tippattuwawe Sri Sumangala Thera and Asgiriyat Mahanayaka Mahanayaka Varakakoda Sri Gnanaradana Thera agreed to further review this and declare the public position.
-
-Officials further explained the progress of the interim secretariat process of the real and reconciliation mechanism.
-
-...
-
-[Data](articles/847389e1.json)
-
-[Extended Data](ext_articles/847389e1.ext.json)
 
 ---

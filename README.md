@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 07:51:53**
+As of **2024-02-21 08:02:27**
 
 ## Newspaper Stats
 
-*Scraped **8,359** Articles*
+*Scraped **8,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 104
 dbsjeyarajcom | 156
 newsfirstlk | 363
 economynextcom | 429
-islandlk | 442
+islandlk | 443
 dailyftlk | 454
 adalk | 712
-adaderanalk | 1,007
+adaderanalk | 1,008
 tamilmirrorlk | 1,028
 virakesarilk | 1,120
 adaderanasinhalalk | 1,216
@@ -26,7 +26,7 @@ dailymirrorlk | 1,237
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,359 (100.0%) of 8,359 articles have been extended.
+8,361 (100.0%) of 8,361 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,22 @@ Director of the Director Dr. Prasad Ranaweera stated that a road map is to be pr
 [Data](articles/73abcf46.json)
 
 [Extended Data](ext_articles/73abcf46.ext.json)
+
+---
+
+### à®‰à®¤à¯à®¤à¯‡à®š à®•à®Ÿà®±à¯à®±à¯Šà®´à®¿à®²à¯ à®šà®Ÿà¯à®Ÿà®®à¯ à®®à¯€à®©à®µ à®šà®®à¯‚à®•à®¤à¯à®¤à®¿à®©à¯ à®‰à®°à®¿à®®à¯ˆà®•à®³à¯ˆà®ªà¯ à®ªà®¾à®¤à®¿à®•à¯à®•à®¾à®¤à¯!
+
+*2024-02-21 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97420/-) · `en`
+
+à®‰à®²à®• à®‰à®£à®µà¯ à®®à®±à¯à®±à¯à®®à¯ à®µà®¿à®µà®šà®¾à®¯ à®…à®®à¯ˆà®ªà¯à®ªà®¿à®©à¯ (FAO) à®‰à®¤à®µà®¿à®¯à¯à®Ÿà®©à¯ à®¨à®©à¯à®©à¯€à®°à¯ à®®à¯€à®©à¯ à®µà®³à®°à¯à®ªà¯à®ªà¯ à®…à®ªà®¿à®µà®¿à®°à¯à®¤à¯à®¤à®¿ à®šà¯†à®¯à¯à®¯à®ªà¯à®ªà®Ÿà¯à®®à¯ à®Žà®© à®•à®Ÿà®±à¯à®±à¯Šà®´à®¿à®²à¯ à®…à®®à¯ˆà®šà¯à®šà®°à¯ à®Ÿà®•à¯à®³à®¸à¯ à®¤à¯‡à®µà®¾à®©à®¨à¯à®¤à®¾ à®¤à¯†à®°à®¿à®µà®¿à®¤à¯à®¤à®¾à®°à¯.
+
+à®‰à®¤à¯à®¤à¯‡à®š à®•à®Ÿà®±à¯à®±à¯Šà®´à®¿à®²à¯ à®šà®Ÿà¯à®Ÿà®¤à¯à®¤à®¿à®©à¯ à®Šà®Ÿà®¾à®• à®®à¯€à®©à®µ à®®à®•à¯à®•à®³à®¿à®©à¯ à®‰à®°à®¿à®®à¯ˆà®•à®³à¯ à®ªà®¾à®¤à¯à®•à®¾à®•à¯à®•à®ªà¯à®ªà®Ÿà¯à®µà®¤à¯‹à®Ÿà¯ à®…à®µà®°à¯à®•à®³à¯à®•à¯à®•à¯ à®Žà®¨à¯à®¤à®ªà¯ à®ªà®¾à®¤à®¿à®ªà¯à®ªà¯à®®à¯ à®à®±à¯à®ªà®Ÿà®¾à®¤à¯ à®Žà®©à®µà¯à®®à¯ à®…à®®à¯ˆà®šà¯à®šà®°à¯ à®•à¯à®±à®¿à®ªà¯à®ªà®¿à®Ÿà¯à®Ÿà®¾à®°à¯.
+
+...
+
+[Data](articles/b0cb829e.json)
+
+[Extended Data](ext_articles/b0cb829e.ext.json)
 
 ---
 
@@ -453,6 +469,26 @@ Google.org, Google’s philanthropic arm, is providing $15M to The Asia Foundati
 [Data](articles/d724267f.json)
 
 [Extended Data](ext_articles/d724267f.ext.json)
+
+---
+
+### Spa Ceylon wins coveted ‘Global Best Beauty Product’ at World Spa Awards 2023
+
+*2024-02-20 22:18:00* · [`islandlk`](http://island.lk/spa-ceylon-wins-coveted-global-best-beauty-product-at-world-spa-awards-2023/) · `en`
+
+Spa Ceylon, the iconic Ayurveda Wellness brand, has won 3 international accolades at the World Luxury Spa Awards 2023, including the prestigious Global Award for Best Beauty Product, alongside Awards for Best Luxury Ayurveda Spa Global & Best Spa Group Global.
+
+‘These awards come at an important & exciting time for us, as we accelerate our European expansion with a heightened focus in the United Kingdom. The award for Beaty products of the year in particular speaks volumes for the innovation in the fusion of ages old Ayurveda wisdom and modern skin science in creating high functioning beauty products that can stand alongside the best products in the world. We believe our unique offering and would be the foundation for our global expansion’, explained Shiwantha Dias, Co-founder / Managing Director.
+
+Related Topics:Spa CeylonSpa Ceylon wins Global Best Beauty Product’ at World Spa Awards 2023
+
+300,000 small businesses to be trained in Asia on digital safety, 5000 in Sri Lanka
+
+...
+
+[Data](articles/07df0df3.json)
+
+[Extended Data](ext_articles/07df0df3.ext.json)
 
 ---
 
@@ -1889,43 +1925,5 @@ The incident took place as preparations for the annual sports event of the Natio
 [Data](articles/e3b55742.json)
 
 [Extended Data](ext_articles/e3b55742.ext.json)
-
----
-
-### A boy arrested for abducting girl in Jaffna
-
-*2024-02-20 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/176863) · `ta`
-
-Police have arrested a 17 -year -old boy who abducted a 15 -year -old girl in Jaffna and stayed at her home.
-
-A complaint has been lodged at the Vaddukoddai police station on Sunday (18) that a 15 -year -old girl from Tholpuram area of the Vaddukoddai police division has been missing.
-
-According to reports, the police rushed to the house and arrested the boy on the basis of information that the girl was staying at the house of a 17 -year -old boy from the area.
-
-Police have handed over the arrested boy to the Jaffna Bodhana Hospital for a medical examination.
-
-◼️
-
-[Data](articles/ecfc8a3d.json)
-
-[Extended Data](ext_articles/ecfc8a3d.ext.json)
-
----
-
-### Rehearsal wasps: 73 students vulnerable
-
-*2024-02-20 13:58:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஒத்திகை-பார்த்த-குளவி-73-மாணவர்கள்-பாதிப்பு/76-333518) · `ta`
-
-73 school children were injured and admitted to Pasarai Hospital on Tuesday (20) during a sports rehearsal between the schools.
-
-The Chief Inspector of the Pasarai Police Station Piyaratne Ekanayake said that 18 students are currently receiving treatment at the hospital.
-
-Preparations for the Annual Houses of the National School of Pasarai National School are being held these days.
-
-◼️
-
-[Data](articles/e46818bb.json)
-
-[Extended Data](ext_articles/e46818bb.ext.json)
 
 ---

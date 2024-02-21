@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 08:17:19**
+As of **2024-02-21 08:33:02**
 
 ## Newspaper Stats
 
-*Scraped **8,364** Articles*
+*Scraped **8,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 economynextcom | 429
 islandlk | 443
 dailyftlk | 454
-adalk | 712
+adalk | 713
 adaderanalk | 1,009
 tamilmirrorlk | 1,030
 virakesarilk | 1,120
-adaderanasinhalalk | 1,216
-dailymirrorlk | 1,237
+adaderanasinhalalk | 1,218
+dailymirrorlk | 1,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,361 (100.0%) of 8,364 articles have been extended.
+8,364 (100.0%) of 8,368 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,48 @@ The public is kindly requested to take adequate precautions to minimize damages 
 ◼️
 
 [Data](articles/56849aed.json)
+
+[Extended Data](ext_articles/56849aed.ext.json)
+
+---
+
+### සෞඛ්‍ය වෘත්තීය ගැටලුව ගැන අවසන් යෝජනාවලිය
+
+*2024-02-21 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193635) · `si`
+
+සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ අදහස් හා යෝජනා පිළිබඳ අමාත්‍යාංශ අවසන් යෝජනාවලිය ලබන 28 වෙනිදා ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+
+සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ යෝජනා සලකා බැලීමට පත්කළ විශේෂ කමිටුව ඊයේ (20) සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතාගේ ප්‍රධානත්වයෙන් සෞඛ්‍ය අමාත්‍යාංශයේ දී රැස්වුණි.
+
+ඒ අනුව එම යෝජනාවලිය ද එළැඹෙන 28 වැනිදා පස්වරු 3ට මෙම විශේෂ කමිටුව හමුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය සිය වෘත්තීය ගැටලුවලට විසඳුම් ලබාගැනීම සඳහා විශේෂ කමිටුවක් පත්කිරීමට පියවර ගන්නා ලෙස සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගෙන් ඉල්ලීමක් කර තිබිණි.
+
+ඒ අනුව අමාත්‍යවරයාගේ නිර්දේශ මත අදාළ කමිටුව පත් කිරීමට පියවර ගත් බව සෞඛ්‍ය අමාත්‍යාංශය සඳහන් කළේය.
+
+සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ වෛද්‍ය රසායනාගාර විද්වත් වෘත්තිකයන්ගේ සංගමයේ සභාපති රවී කුමුදේෂ් මහතා ප්‍රකාශ කළා මූලික වශයෙන් තම යෝජනාවලට එකඟතාව පළ වූ බවය.
+
+රජයේ හෙද නිලධාරීන්ගේ සංගමයේ ජාතික සංවිධායක සුදත් ජයසිරි මහතා සඳහන් කළේ, ගනු ලැබූ තීරණය කඩිනමින් ක්‍රියාත්මක කරණු ඇතැයි විශ්වාසය කරන බවය.
+
+◼️
+
+[Data](articles/9c6ef5a9.json)
+
+---
+
+### ශ්‍රී ලංකා-ඇෆ්ගනිස්තාන තුන්වන 20-20 තරගය අද
+
+*2024-02-21 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193634) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර තෙවන පන්දුවාර 20යි 20 තරගය අද (21) පැවැත් වේ.
+
+පළමු තරග දෙකෙන්ම ජයගත් ශ්‍රී ලංකා කණ්ඩායම මේ වනවිට තරගාවලිය 2-0 ලෙස ජයගෙන තිබේ.
+
+ඇෆ්ගනිස්තානයේ ශ්‍රී ලංකා සංචාරය තුළ මේ දක්වා පැවති ටෙස්ට්, එක්දින සහ පන්දුවාර 20 යි 20 තරග සියල්ල ශ්‍රී ලංකා කණ්ඩායම ජයගැනීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/6ad8dd70.json)
 
 ---
 
@@ -332,35 +374,41 @@ However, the court has further stated that it could be passed by a simple majori
 
 ---
 
-### ’விவசாயம் மீது நம்பிக்கை கொண்டுள்ளோம்’
+### We believe in agriculture
 
 *2024-02-21 03:18:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயம்-மீது-நம்பிக்கை-கொண்டுள்ளோம்/175-333559) · `ta`
 
-இலங்கையில் கடந்த பொருளாதார நெருக்கடியை எதிர்கொள்வதில் விவசாயம் பாரிய பங்களிப்பை ஆற்றியது. நாட்டை விரைவாக மீளக் கட்டியெழுப்பக்கூடிய இரண்டு பிரதான துறைகளாக விவசாயம் மற்றும் சுற்றுலாத்துறை என்பன அடையாளம் காணப்பட்டுள்ளன என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+Agriculture made a massive contribution to the last economic crisis in Sri Lanka. President Ranil Wickremesinghe said that agriculture and tourism have been identified as two main sectors that can quickly rebuild the country.
 
-கொழும்பில் நேற்று  ஆரம்பமான ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின் ஆசிய மற்றும் பசுபிக் பிராந்திய மாநாட்டின் 37 ஆவது அமர்வின் ஆரம்ப அமர்வில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
+The President said this while addressing the inauguration of the 37th session of the Asia and Pacific Regional Conference of the United Nations Food and Agricultural Organization in Colombo yesterday.
 
-அண்மைக் காலமாக நவீன விவசாய முறைகள் குறித்து நாங்கள் கவனம் செலுத்துகிறோம். அதற்கு 10 – 15 வருடங்கள் ஆகும். இருப்பினும் 10 வருடங்களில் அந்த இலக்கை அடைவதே எமது நோக்கமாகும். அதற்காக புதிய விவசாய முறைகளை நாம் நாட்டிற்குள் கொண்டு வருவோம்.
+We are focusing on modern agricultural methods in recent times. It takes 10 - 15 years. However, our purpose is to achieve that goal in 10 years. For that, we will bring new agricultural systems into the country.
+
+But we have another problem. Young people come to the cities from the villages. They do not engage in traditional farming. Modernization of agriculture can be retained again in the villages. Accordingly, the subjects of the Ministry of Agriculture, which were divided into three parts, were brought under a minister.
 
 ...
 
 [Data](articles/8af833ae.json)
 
+[Extended Data](ext_articles/8af833ae.ext.json)
+
 ---
 
-### காமினி ஜயவிக்ரம உடலுக்கு ஜனாதிபதி அஞ்சலி
+### President tributes to Gamini Jayavikrama's body
 
 *2024-02-21 03:10:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காமினி-ஜயவிக்ரம-உடலுக்கு-ஜனாதிபதி-அஞ்சலி/175-333558) · `ta`
 
-மூத்த அரசியல்வாதியும் முன்னாள் அமைச்சருமான மறைந்த காமினி ஜயவிக்ரம பெரேராவுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க இறுதி அஞ்சலி செலுத்தினார்.
+President Ranil Wickremesinghe paid a final tribute to senior politician and former minister Gamini Jayawickrama Perera.
 
-முன்னாள் அமைச்சரின் பூதவுடல் வைக்கப்பட்டுள்ள குருநாகல் கட்டுகம்பலாவில் உள்ள வீட்டிற்கு நேற்று பிற்பகல் சென்ற ஜனாதிபதி இறுதி அஞ்சலி செலுத்தினார் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+The President paid a final tribute to the house in Kuttugambala, Kurunegala, where the former minister's body was placed.
 
-அதன்பின்னர், அவரது மகனான வடமேற்கு மாகாண சபையின் முன்னாள் உறுப்பினர் அசங்க ஜயவிக்ரம உள்ளிட்ட குடும்ப உறுப்பினர்களுக்கு தனது அனுதாபங்களைத் தெரிவித்தார். (a)
+Subsequently, he expressed his sympathies to family members, including his son, Asanga Jayawickrama, a former member of the Northwest Provincial Council.. (A)
 
 ◼️
 
 [Data](articles/02ebe9c0.json)
+
+[Extended Data](ext_articles/02ebe9c0.ext.json)
 
 ---
 
@@ -477,6 +525,18 @@ At least 257 cases filed by the Special Investigations Unit of the NCPA are pend
 ---
 
 ### 2024-02-20 (Tuesday)
+
+### Iranian Foreign Minister calls on Ali Sabry
+
+*2024-02-20 23:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Iranian-Foreign-Minister-calls-on-Ali-Sabry/110-277420) · `en`
+
+The joint media briefing by visiting Iranian Minister of Foreign Affairs Dr. Amir Abdullahian and Sri Lankan Foreign Affairs Minister M.U.M. Ali Sabry took place in Colombo on February 20, 2024. Iran Foreign Affairs Minister Dr. Hossein arrived in Sri Lanka last night, for a three-day official visit. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/d55d9132.json)
+
+---
 
 ### English language to be considered for conducting legal proceedings
 
@@ -775,6 +835,22 @@ The Minister Kanchana Wijesekera was expressed.
 [Data](articles/f6e3492a.json)
 
 [Extended Data](ext_articles/f6e3492a.ext.json)
+
+---
+
+### පොළොන්නරුව යුගයට එහා ගිය ඈත යුගයක සාක්ෂි රැසක් සොයා ගනියි
+
+*2024-02-20 20:12:10* · [`adalk`](https://www.ada.lk/breaking_news/පොළොන්නරුව-යුගයට-එහා-ගිය-ඈත-යුගයක-සාක්ෂි-රැසක්-සොයා-ගනියි/11-408203) · `si`
+
+නවීන තාක්ෂණික ක්‍රමවේදයකට අනුව පොළොන්නරුව ඉපැරණි පරාක්‍රමබාහු රාජ්‍ය මාලිගය පරිශ්‍රය තුළ පොළොව විනිවිද පෙනෙන රේඩාර යන්ත්‍රයක් මගින් පොළොන්නරුව යුගයට එහා ගිය ඈත යුගයක සාක්ෂි රැසක් සොයා ගැනීමට හැකි වූ බව කැලණිය විශ්වවිද්‍යාලයේ මහාචාර්ය ප්‍රිශාන්ත ගුණවර්ධන මහතා පැවසීය.
+
+පොළොව විනිවිද පෙනෙන නව රේඩාර යන්ත්‍රය මගින් මෙහිදී දැනට මතුපිටට පෙනෙන පුරාවිද්‍යාත්මක නටබුන්වලට අමතරව, පොළොව යට මීටර් තුනක් ගැඹුරින් තවත් ගොඩනැගිලි පාදම් පොකුණු මෙන්ම උදුන් ආදී වශයෙන් දැකගැනීමට හැකිවූ බව ඔස්ට්‍රේලියාවේ ලාට්‍රොප් විශ්වවිද්‍යාලයේ ආචාර්ය කියස් ටික්ලින් මහතා ප්‍රකාශ කළේය.
+
+පොළොන්නරුව පුරාවිද්‍යාත්මක මානව සහ නාගරිකකරණය පිළිබඳව තවදුරටත් සොයා බැලීම සඳහා ක්‍රියාත්මක කරන ලද මෙම ව්‍යාපෘතිය, කැලණිය විශ්වවිද්‍යාලය සහ ඔස්ට්‍රේලියාවේ ලාට්‍රොප් විශ්වවිද්‍යාලය එක්ව ඉකුත් 04වනදා ආරම්භ කර ඇත.
+
+...
+
+[Data](articles/1ca5b33f.json)
 
 ---
 
@@ -1851,75 +1927,5 @@ It is reported that the wasps were attacked by a group of students from a wasps 
 [Data](articles/5128387f.json)
 
 [Extended Data](ext_articles/5128387f.ext.json)
-
----
-
-### Plans to provide Galle Face ’Aragalaya site’ for casino centre: Vijitha
-
-*2024-02-20 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-to-provide-Galle-Face-Aragalaya-site-for-casino-centre-Vijitha/108-277403) · `en`
-
-Parliament, Feb. 20 (Daily Mirror)- The government is planning to provide the Galle Face agitation site where the 'GotaGoGama' Aragalaya was conducted, to establish a casino centre, NPP MP Vijith Herath alleged today.
-
-He told Parliament that the government is planning to provide a license through the Urban Development Authority (UDA) to an institution bearing a Chinese name to open a casino centre on the Aragalaya site and that a famous gambler in Negombo was behind this particular institution.
-
-The MP said the 'Aragalaya site', which was a turning point in Sri Lanka's political history, is provided for a casino centre to take revenge from the Aragalaya people and that it was a serious mistake.
-
-State Minister of Finance Ranjith Siyambalapitiya said no casino centre will be opened targeting locals and that Rs. 10 billion needs to be paid when opening a casino.
-
-...
-
-[Data](articles/974ebb1d.json)
-
-[Extended Data](ext_articles/974ebb1d.ext.json)
-
----
-
-### Sri Lanka to seek private investor for off-shore wind plants
-
-*2024-02-20 14:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-private-investor-for-off-shore-wind-plants-151613/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet had approved a proposal to seek private investors for large scale off-shore wind power plants, Minister Bandula Gunwardana said.
-
-A feasibility study by the World Bank has found there was a huge potential for off-shore wind energy off the north, west, and south east coasts he said.
-
-Attempts to bring in renewable energy producers without competitive bidding has run into controversy recently.
-
-Minister Gunawardana said he presumed investors will be called in a transparent manner. (Colombo/Feb20/2024)
-
-◼️
-
-[Data](articles/16414256.json)
-
-[Extended Data](ext_articles/16414256.ext.json)
-
----
-
-### Expel Harin...
-
-*2024-02-20 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Expel-Harin/110-277402) · `en`
-
-A public protest was held in Colombo, demanding the government expel Minister Harin Fernando from his post and stop selling the country to India. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/84377ad0.json)
-
-[Extended Data](ext_articles/84377ad0.ext.json)
-
----
-
-### Presidential candidate: Ready to accept the challenge
-
-*2024-02-20 14:29:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-சவாலை-ஏற்க-தயார்/175-333520) · `ta`
-
-Parliamentarian Patali Champika Ranawaka said he would accept the challenge if he was invited to contest as the presidential candidate.
-
-He said he was ready to accept the challenge if the coalition parties demanded that they be the presidential candidate to resolve the country's crises.
-
-◼️
-
-[Data](articles/7e1da304.json)
-
-[Extended Data](ext_articles/7e1da304.ext.json)
 
 ---

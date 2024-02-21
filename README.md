@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 08:02:27**
+As of **2024-02-21 08:17:19**
 
 ## Newspaper Stats
 
-*Scraped **8,361** Articles*
+*Scraped **8,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 429
 islandlk | 443
 dailyftlk | 454
 adalk | 712
-adaderanalk | 1,008
-tamilmirrorlk | 1,028
+adaderanalk | 1,009
+tamilmirrorlk | 1,030
 virakesarilk | 1,120
 adaderanasinhalalk | 1,216
 dailymirrorlk | 1,237
@@ -26,11 +26,31 @@ dailymirrorlk | 1,237
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,361 (100.0%) of 8,361 articles have been extended.
+8,361 (100.0%) of 8,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Showers expected in certain parts of the country
+
+*2024-02-21 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97421/showers-expected-in-certain-parts-of-the-country) · `en`
+
+Showers or thundershowers may occur at a few places in Kalutara, Galle, Matara and Rathnapura districts in the evening or night.
+
+Mainly fair weather will prevail elsewhere, according to the Meteorology Department.
+
+Fairly strong winds about 30 kmph can be expected at times in eastern slopes of the central hills and in North-central, North-western, Uva, Southern and Eastern provinces and in Matale and Kandy districts.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces during the morning, it said.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/56849aed.json)
+
+---
 
 ### Sale fepe for alleged
 
@@ -309,6 +329,38 @@ However, the court has further stated that it could be passed by a simple majori
 [Data](articles/bc3d93e7.json)
 
 [Extended Data](ext_articles/bc3d93e7.ext.json)
+
+---
+
+### ’விவசாயம் மீது நம்பிக்கை கொண்டுள்ளோம்’
+
+*2024-02-21 03:18:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயம்-மீது-நம்பிக்கை-கொண்டுள்ளோம்/175-333559) · `ta`
+
+இலங்கையில் கடந்த பொருளாதார நெருக்கடியை எதிர்கொள்வதில் விவசாயம் பாரிய பங்களிப்பை ஆற்றியது. நாட்டை விரைவாக மீளக் கட்டியெழுப்பக்கூடிய இரண்டு பிரதான துறைகளாக விவசாயம் மற்றும் சுற்றுலாத்துறை என்பன அடையாளம் காணப்பட்டுள்ளன என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+கொழும்பில் நேற்று  ஆரம்பமான ஐக்கிய நாடுகளின் உணவு மற்றும் விவசாய அமைப்பின் ஆசிய மற்றும் பசுபிக் பிராந்திய மாநாட்டின் 37 ஆவது அமர்வின் ஆரம்ப அமர்வில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
+
+அண்மைக் காலமாக நவீன விவசாய முறைகள் குறித்து நாங்கள் கவனம் செலுத்துகிறோம். அதற்கு 10 – 15 வருடங்கள் ஆகும். இருப்பினும் 10 வருடங்களில் அந்த இலக்கை அடைவதே எமது நோக்கமாகும். அதற்காக புதிய விவசாய முறைகளை நாம் நாட்டிற்குள் கொண்டு வருவோம்.
+
+...
+
+[Data](articles/8af833ae.json)
+
+---
+
+### காமினி ஜயவிக்ரம உடலுக்கு ஜனாதிபதி அஞ்சலி
+
+*2024-02-21 03:10:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காமினி-ஜயவிக்ரம-உடலுக்கு-ஜனாதிபதி-அஞ்சலி/175-333558) · `ta`
+
+மூத்த அரசியல்வாதியும் முன்னாள் அமைச்சருமான மறைந்த காமினி ஜயவிக்ரம பெரேராவுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க இறுதி அஞ்சலி செலுத்தினார்.
+
+முன்னாள் அமைச்சரின் பூதவுடல் வைக்கப்பட்டுள்ள குருநாகல் கட்டுகம்பலாவில் உள்ள வீட்டிற்கு நேற்று பிற்பகல் சென்ற ஜனாதிபதி இறுதி அஞ்சலி செலுத்தினார் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+அதன்பின்னர், அவரது மகனான வடமேற்கு மாகாண சபையின் முன்னாள் உறுப்பினர் அசங்க ஜயவிக்ரம உள்ளிட்ட குடும்ப உறுப்பினர்களுக்கு தனது அனுதாபங்களைத் தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/02ebe9c0.json)
 
 ---
 
@@ -1869,61 +1921,5 @@ He said he was ready to accept the challenge if the coalition parties demanded t
 [Data](articles/7e1da304.json)
 
 [Extended Data](ext_articles/7e1da304.ext.json)
-
----
-
-### US pushes for UN to support temporary Gaza ceasefire, oppose Rafah assault
-
-*2024-02-20 14:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97409/us-pushes-for-un-to-support-temporary-gaza-ceasefire-oppose-rafah-assault) · `en`
-
-The United States has proposed a rival draft United Nations Security Council resolution calling for a temporary ceasefire in the Israel-Hamas war and opposing a major ground offensive by its ally Israel in Rafah, according to the text seen by Reuters.
-
-The move comes after the U.S. signalled it would veto on Tuesday an Algerian-drafted resolution — demanding an immediate humanitarian ceasefire — over concerns it could jeopardize talks between the U.S., Egypt, Israel and Qatar that seek to broker a pause in the war and the release of hostages held by Hamas.
-
-Until now, Washington has been averse to the word ceasefire in any U.N. action on the Israel-Hamas war, but the U.S. text echoes language that President Joe Biden said he used last week in conversations with Israeli Prime Minister Benjamin Netanyahu.
-
-...
-
-[Data](articles/9ee9bfd9.json)
-
-[Extended Data](ext_articles/9ee9bfd9.ext.json)
-
----
-
-### The US Deputy Secretary of State, who has completed his visit to Sri Lanka, emphasized freedom of expression to transparent regime!
-
-*2024-02-20 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176864) · `ta`
-
-US Deputy Secretary of State for Public Diplomacy for the first public diplomacy, Liz Alan, completed his historic three -day visit to Colombo (from February 17 to 19).
-
-During his visit, he was involved in conversations with young leaders, entrepreneurs, and journalists, civil society and journalists, to ensure that Sri Lanka's economic recovery and long -term support for long -term prosperity.
-
-During a meeting with Secretary of the Ministry of Foreign Affairs, Aruni Wijewardene, Deputy Secretary of State Alan and the US Ambassador to Sri Lanka, Julie, discussed the strong partnership between the US and Sri Lanka, and outlined the intersection of vibrant information and sustainable economic growth.
-
-They also accepted the opportunity for Sri Lanka to build a path to forming a regional model for the regime.
-
-...
-
-[Data](articles/f5668e92.json)
-
-[Extended Data](ext_articles/f5668e92.ext.json)
-
----
-
-### 73 students at schoolThe incident in the passenger!
-
-*2024-02-20 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176865) · `ta`
-
-73 schoolchildren who were admitted to the Pasarai Hospital were admitted to the Pasarai Hospital on Tuesday (20), police said.
-
-The Chief Inspector of the Pasarai Police Station Piyaratne Ekanayake said that 18 of these students were being treated at the hospital and the remaining students had gone to the houses from the hospital.
-
-The incident took place as preparations for the annual sports event of the National School of Pasarai National School are being made in these days.
-
-◼️
-
-[Data](articles/e3b55742.json)
-
-[Extended Data](ext_articles/e3b55742.ext.json)
 
 ---

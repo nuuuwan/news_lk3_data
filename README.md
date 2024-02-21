@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 23:02:54**
+As of **2024-02-21 23:17:30**
 
 ## Newspaper Stats
 
-*Scraped **8,561** Articles*
+*Scraped **8,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 735
 adaderanalk | 1,035
 tamilmirrorlk | 1,064
 virakesarilk | 1,147
-adaderanasinhalalk | 1,256
+adaderanasinhalalk | 1,257
 dailymirrorlk | 1,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,561 (100.0%) of 8,561 articles have been extended.
+8,561 (100.0%) of 8,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### ඇෆ්ගනිස්තානයට ලකුණු 03ක ජයක්
+
+*2024-02-21 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193678) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර තෙවැනි සහ අවසන් 20යි 20 තරගයෙන් ඇෆ්ගනිස්තානය ලකුණු 03ක ජයක් වාර්තා කිරීමට සමත් විය.
+
+කාසියේ වාසිය දිනූ ඇෆ්ගනිස්තාන නායකයා පළමුව පන්දුවට පහර දීමට තීරණය කළ අතර, ඒ අනුව ඔවුහු පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 209ක් රැස් කළ හ.
+
+රහමනුල්ලා ගුර්බාස් ලකුණු 70ක් රැස් කළ අතර, හස්රතුල්ලා සසායි ලකුණු 45ක් රැස් කළේ ය.
+
+පන්දු යැවීමේ දී මතීෂ පතිරණ සහ අකිල ධනංජය අතරේ කඩුලු 02 බැගින් බෙදී ගියේ ය.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කළ ශ්‍රි ලංකාවට කඩුලු 06ක් දැවී රැස් කර ගැනීමට හැකි වුණේ ලකුණු 206ක් පමණි.
+
+ශ්‍රී ලංකාව වෙනුවෙන් විශිෂ්ට පිතිකරණයක යෙදුණු පැතුම් නිස්සංක ලකුණු 60ක් රැස් කළේ ය.
+
+නමුත් අවාසනාවන්ත ලෙස ආබාධයකට ලක් වීම නිසා ඔහුට පිටියෙන් ඉවත් වීමට සිදු විය.
+
+පැතුම්ගේ ඉවත් වීමෙන් පසු ශ්‍රී ලංකා ඉනිමේ බර කරට ගත් කමිඳු මෙන්ඩිස් ලකුණු 65ක් රැස් කළේ ය.
+
+◼️
+
+[Data](articles/3c3b2ade.json)
+
+---
 
 ### Minister calls for proposals to halt sending Sri Lankan women overseas as housemaids
 
@@ -2059,25 +2085,5 @@ Shantha Jayasekera, who was serving as 18 years, was held recently to tribute pa
 [Data](articles/5c3bb67c.json)
 
 [Extended Data](ext_articles/5c3bb67c.ext.json)
-
----
-
-### 17 students hospitalized after collision with two students
-
-*2024-02-21 13:37:50* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යභට-පුහුණුවට-පැමිණි-සිසු-දෙපිරිසක්-ගැටී-සිසුන්-17ක්-රෝහලට/11-408215) · `si`
-
-Seventeen children have been admitted to the Mahiyangana Basic Hospital today (21) at the Kananganaya basic hospital today.A hospital spokesman said that he could leave the hospital after the inspections of doctors.
-
-No student has a serious injury and has only minor injuries. It is said that the students have been far away from a small club clash between two groups.
-
-It is reported that children of Colombo, Gampaha districts and other countries have come to training in the Rantawa National Cadet Training Center.. Hasalaka Police are conducting further investigations into the conflict of children.
-
-When inquiring from the National Cadet Training Center in the Rantambe, the Defense Ministry's spokesman said it was obtained from the Defense Secretary.
-
-◼️
-
-[Data](articles/d1dbc367.json)
-
-[Extended Data](ext_articles/d1dbc367.ext.json)
 
 ---

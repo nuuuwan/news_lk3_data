@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 12:48:48**
+As of **2024-02-21 13:02:31**
 
 ## Newspaper Stats
 
-*Scraped **8,423** Articles*
+*Scraped **8,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 715
 adaderanalk | 1,015
 tamilmirrorlk | 1,044
 virakesarilk | 1,130
-adaderanasinhalalk | 1,225
+adaderanasinhalalk | 1,226
 dailymirrorlk | 1,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,423 (100.0%) of 8,423 articles have been extended.
+8,423 (100.0%) of 8,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### විදුලි බිල අඩු කරන නිසා නඩත්තු කටයුතු කල්දාන්න වෙනවා - විදුලිබල මණ්ඩලය
+
+*2024-02-21 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193643) · `si`
+
+පොරොන්දු වූ පරිදි විදුලි බිල අඩුකිරීම සඳහා අවශ්‍ය පියවර ගනිමින් සිටින බව ලංකා විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය සාමාන්‍යධිකාරී නොයෙල් ප්‍රියන්ත මහතා පවසයි.
+
+"අපිට මහජන උපයෝගීතා කොමිසම් කිව්වා අවශ්‍යම නඩත්තු පමණක් කරන්න අනෙක් ඒවා එහාට මෙහාට කරගන්න කියලා. මහජන උපයෝගීතා කොමිසම දුන්නු උපදෙස් අනුව අපි ඒක සකස් කළා. අපි නඩත්තු එහාට මෙහාට කළා. වාහනයක් ඔයිල් මාරු කරලා ෆිල්ටරේට හුළං අල්ලලා පාවිච්චි කරනවා වගේ.  ඒ තත්ත්වයට ආවාම කඩා වැටුණට පස්සේ ගොඩ දාන්න අපහසුවෙයි."
+
+◼️
+
+[Data](articles/4cb108c4.json)
+
+---
 
 ### New love that shed blood in the knife
 
@@ -1929,25 +1943,5 @@ The project was conducted by the University of Kelaniya and Australia, the Unive
 [Data](articles/1ca5b33f.json)
 
 [Extended Data](ext_articles/1ca5b33f.ext.json)
-
----
-
-### Thomians regain Abeynaike Trophy
-
-*2024-02-20 19:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thomians-regain-Abeynaike-Trophy/108-277415) · `en`
-
-Colombo, Feb. 20 (Daily Mirror) - S. Thomas’ College trounced Trinity College by an innings and 114 runs in their Inter-Schools Under-19 cricket encounter, with more than a session to spare at Mount Lavinia.
-
-The Thomians also regained the Ranil Abeynaike Memorial Trophy after a lapse of six years having
-
-Trinity: 64 in 33.3 overs and 58 in 18.5 overs (Nathan Caldera 3/15, Yatendra Siriwardene 2/14, Ashen Perera 2/10, Kavindu Dias 2/18).
-
-S. Thomas’: 236 in 76.2 overs (Thisen Eheliyagoda 94, Ashen Perera 26, Tharana Wimaladharma 4/47, Malith Rathnayake 4/52, Thisal Yapa 2/53).
-
-◼️
-
-[Data](articles/6533e327.json)
-
-[Extended Data](ext_articles/6533e327.ext.json)
 
 ---

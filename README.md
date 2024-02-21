@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 13:17:23**
+As of **2024-02-21 13:33:05**
 
 ## Newspaper Stats
 
-*Scraped **8,426** Articles*
+*Scraped **8,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 economynextcom | 430
 islandlk | 443
 dailyftlk | 456
-adalk | 715
+adalk | 718
 adaderanalk | 1,015
 tamilmirrorlk | 1,044
 virakesarilk | 1,131
-adaderanasinhalalk | 1,226
+adaderanasinhalalk | 1,227
 dailymirrorlk | 1,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,424 (100.0%) of 8,426 articles have been extended.
+8,426 (100.0%) of 8,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් කිහිපයක් ?
+
+*2024-02-21 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193644) · `si`
+
+සංචාරක ඇෆ්ගනිස්තාන කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර  තුන්වන සහ අවසන් විස්සයි 20 තරගය අද (21) රාත්‍රී 7ට පැවැත්වීමට නියමිතය.
+
+ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන විස්සයි 20 තරගාවලියේ අවසන් තරගයේදී ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් කිහිපයක් සිදුකිරීමට නියමිත බව වාර්තා වෙයි.
+
+අද තරගය සඳහා කුසල් ජනිත් පෙරේරා, අකිල ධනංජය සහ නුවන් තුෂාර කණ්ඩායමට කැඳවීමට නියමිත බවත් ධනංජය ද සිල්වා, මහීෂ් තීක්ෂණ සහ බිනුර ප්‍රනාන්දු විවේක ගැන්වීමට නියමිත බවත් අභ්‍යන්තර ක්‍රිකට් ආරංචි මාර්ග සඳහන් කරයි.
+
+එමෙන්ම කමිඳු මෙන්ඩිස්ට ද අද තරගයේදී අවස්ථාවක් හිමිවනු ඇත බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/2e94464a.json)
+
+---
+
+### නෙලාගත් අස්වැන්න නිවසට රැගෙනයාමට ඉඩ නොදුන් මාරයා
+
+*2024-02-21 12:48:59* · [`adalk`](https://www.ada.lk/breaking_news/නෙලාගත්-අස්වැන්න-නිවසට-රැගෙනයාමට-ඉඩ-නොදුන්-මාරයා/11-408209) · `si`
+
+සිය වී අස්වැන්න කුඹුරේ සිට නිවසට රැගෙනයන අවස්ථාවේ, තම ලොරි රථයේ ඉදිරිපස ටයරය පුපපුරා යෑම හේතුවෙන් රියදුරුට එය පාලනය කරගත නොහැකිව, විරුද්ධ දිශාවෙන් පැමිනි ටිපර් රථයක ගැටී තිබිනි. මෙම අනතුර ඉයේ  (20) දින සවස්කාලයේ දඹුල්ල කුරැණෑගල මාර්ගයේ පන්නලියද්ද ප්‍රදේශයේදී සිදුවී ඇත.
+
+අනතුරින් දිවි අහිමිවූ රිය පැදවූ පුද්ගලයාගේ බිරිඳ හා මවද ලෙරි රථයේ ඉදිරි පස ගමන් කොට ඇති අතර ඔවුනද බරපතල තුවාල ලබා කුරුනෑගල රොහලේ ප්‍රතිකාර ලබයි. අනතුරින් මියගොස් ඇත්තේ රත්මල්වත්ත ප්‍රදේශයේ පදිංචි 58 හැවිරීදි අයෙකි.
+
+◼️
+
+[Data](articles/d5fc2d28.json)
+
+---
 
 ### The maintenance of the electricity bill is reduced - the CEB
 
@@ -84,27 +116,33 @@ Colombo Lotus Tower will be supporting this movement by joining the many interna
 
 [Data](articles/93f30f0b.json)
 
+[Extended Data](ext_articles/93f30f0b.ext.json)
+
 ---
 
-### ஊட்டச்சத்து குறைபாடு காரணமாக  காசாவில் சிறுவர்கள் உயிரிழப்பது தாங்க முடியாத அளவிற்கு அதிகரிக்கும் ஆபத்து - யுனிசெவ்
+### Children's death in Gaza due to malnutrition
 
 *2024-02-21 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176940) · `ta`
 
-ஊட்டச்சத்து குறைபாடு காரணமாக காசாவில் சிறுவர்கள் உயிரிழப்பது தாங்கமுடியாத அளவிற்கு அதிகரிக்கவுள்ளது  எனயுனிசெவ் தெரிவித்துள்ளது.
+The deaths of children in Gaza due to malnutrition will increase unbearable, according to Nunisev.
 
-மிகமோசமான நெருக்கடி காரணமாக தாங்கமுடியாத அளவிற்கு சிறுவர்கள் உயிரிழப்பது  காணப்படுகின்றது இது மேலும் அதிகரிக்கலாம் என   யுனிசெவ் எச்சரித்துள்ளது.
+UNICEV has warned that the deaths of children are unbearable due to the worst crisis.
 
-காசாவில் ஐந்து வயதிற்கு உட்பட்ட சிறுவர்களில் 90 வீதமானவர்கள்  கடும்பட்டினி நிலையில் சிக்குண்டுள்ளனர் என யுனிசெவ் தலைமையிலான அமைப்புகள்  வெளியிட்ட அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+UNICEV -led organizations said that 90 percent of the children under the age of five are in a state of affairs in Gaza.
 
-கடந்த சில வாரங்களாக ஐந்து வயதிற்கு உட்பட்ட சிறுவர்களில் 70வீதமானவர்கள் வயிற்றுப்போக்கினால் பாதிக்கப்பட்டுள்ளனர் எனவும் மனிதாபிமான அமைப்புகள் தெரிவித்துள்ளன.
+Over the past few weeks, 70 percent of children under the age of five have been suffering from diarrhea, humanitarian organizations said.
 
-மனிதாபிமான உதவிகள் நுழைவதற்கான பகுதியாக காணப்படும் ரபாவில் போசாக்கின்மை ஐந்து வீதமாக காணப்படுகின்றது  வடகாசாவில் போசாக்கின்மை 15 வீதமாக காணப்படுகின்றது எனவும் தகவல்கள் வெளியாகியுள்ளன.
+Rabba, which is part of humanitarian assistance, is about five percent of the nutrition in Vadakasa.
 
-வடகாசாவை தங்களது முற்றுகைக்குள் இஸ்ரேலிய படையினர்வைத்துள்ளதும் இங்கு பல மாதங்களாக மனிதாபிமான உதவிகள் செல்லாததும் குறிப்பிடத்தக்கது.
+It is noteworthy that the Israeli soldiers have been subjected to Vadakasa in their siege and have not been able to go to humanitarian aid for months.
 
-...
+UNICEV official Techsaliban said that the death of children's death is going to occur in Gaza, which is going to increase the deaths of child deaths that are already unbearable in Gaza.
+
+◼️
 
 [Data](articles/71831ce7.json)
+
+[Extended Data](ext_articles/71831ce7.ext.json)
 
 ---
 
@@ -147,6 +185,24 @@ The official said that such a decision was made to prevent the "black shop".
 [Data](articles/e9297149.json)
 
 [Extended Data](ext_articles/e9297149.ext.json)
+
+---
+
+### වී කිලෝව 130ට ගියොත් සහල් කිලෝව 260ක් වෙනවා
+
+*2024-02-21 11:51:43* · [`adalk`](https://www.ada.lk/breaking_news/වී-කිලෝව-130ට-ගියොත්-සහල්-කිලෝව-260ක්-වෙනවා/11-408207) · `si`
+
+සහල් වලට පනවා ඇති පාලන මිලට අනුව ගොවියාගේ වී මිලට ගන්නා බවත් මේ අනුව ගොවියාගේ වී මිලදී ගැනිමට රජය කෙසේ හෝ මැදිහත් විය යුතු බවත් මහා පරිමාණය සහල් කර්මාන්තකරුවෙකු වන ලංකේෂ්වරගේ මිත්‍රපාල මහතා අද (21) උදෑසන මාධ්‍ය හමුවක් කැඳවමින් පැවසිය.
+
+ගොවියා ඉල්ලන පරිදි රුපියල් 130 ට විකිලෝවක් මිලට ගතහොත් සහල් වෙළෙඳපොළට නිකුත් කිරීමට වෙන්නේ කිලෝවක් රුපියල් 260ක් වැනි මිලකට බවත් රටේ ආර්ථික අපහසුතා මැද ජීවත්වන  පාරිභෝගික ජනතාවට එම මිල දරා ගත නොහැකි තත්ත්වයකට පත්වනු ඇතැයි ද ඒ මහතා අවධාරණය කළේය.
+
+එම නිසා ගොවියා රජය සහ මහපරිමාණයේ ශ්‍රී ලංකාවේ සහල් මෝල්  කර්මාන්තකරුවන් එක මේසයකට රැස්වී එක තීරණයකට පුළුල් සාකච්ඡාවක් කළ යුතු බව ඒ මහතා අවධාරණය කළේය.
+
+"විශාල චෝදනාවක් පවතිනවා වී මිල පිළිබඳව.nරටේ සහල් මිලත් එක්ක තීරණය කරලා තමයි අපට වී මිලදී ගැනීමට සිද්ධ වෙලා තිබෙන්නේ. මෙහිදී අපි අමු වී සහ වේලිච්ච වී කියලා මිල ගණන් දෙකකට පවත්වාගෙන යනවා. ඒක නිසා වී මිල වැඩි කරලා ගන්න නම් හාල් මිල සංශෝධනය වෙන්න ඕනේ.
+
+...
+
+[Data](articles/478bcc86.json)
 
 ---
 
@@ -465,6 +521,24 @@ The person who was supporting the meat shopping at the time of shooting commente
 [Data](articles/00945dbb.json)
 
 [Extended Data](ext_articles/00945dbb.ext.json)
+
+---
+
+### වික්ටෝරියා වේල්ලෙන් සැහැල්ලු වාහන ගමනයට අවසරය  ඉල්ලයි
+
+*2024-02-21 10:09:24* · [`adalk`](https://www.ada.lk/breaking_news/වික්ටෝරියා-වේල්ලෙන්-සැහැල්ලු-වාහන-ගමනයට-අවසරය--ඉල්ලයි/11-408206) · `si`
+
+වික්ටෝරියා වේල්ල මතින් සැහැල්ලු වාහන ධාවනය සඳහා අවශ්‍ය අවසරය ලබා දිය යුතු බවට වු යෝජනාවක්  පසුගියදා මහනුවර දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේදී සම්මත වි තිබේ.
+
+මහනුවර මසහියංගණය මාර්ගයේ මොරගහමුල සිට අධිකාරිගම දක්වා  ප්‍රවාහන කටයුතු පහසුකිරීමේ අරමුණින්  මහනුවර දිස්ත්‍රික් ලේකම් චන්දන තෙන්නකෝන් මහතාගේ ඉල්ලීමක් අනුව  කමිටුව මෙම තීරණයට එළැඹී ඇති  අතර එහි  අවසන් තීරණය ලබා ගැනීම සඳහා එම යෝජනාව මහවැලි සංවර්ධන  අධිකාරිය භාර අමාත්‍යංශය වෙත යොමු කිරීමට ද කමිටුව තව දුරටත් තීරණය කර තිබේ.
+
+වික්ටෝරියා වේල්ල මතින් වාහන ධාවනය කිරීම මේ වන විට  ආරක්ෂක හේතු මත අත්හිටුවා තිබෙන බැවින් ප්‍රදේශවාසීන්ට කිලෝමීටර් 40ක පමණ අමතර දුරක් ගමන් කිරීමට සිදුව තිබේ.  වික්ටෝරියා වේල්ල මතින් වාහන ගමනාගමනයට දැනට අවසර ලබා දී ඇත්තේ මහවැලි අධිකාරියේ සහ අවසර ලත් සැහැල්ලු වාහනවලට පමණි.
+
+කමිටුව හමුවේ අදහස්  දැක්වූ මහනුවර දිස්ත්‍රික් ලේකම් චන්දන තෙන්නකෝන් මහතා, බහුකාර්ය සංවර්ධන යෝජනාවක් වශයෙන් ඉදිවූ වික්ටෝරියා ජලාශය මහජන ක්‍රියාවලිය පහසු කිරීම සඳහා ඉදිවූවක්  මිස ජනතාවට තහනම් වූ ස්ථානයක් නොවිය යුතු බව පැවසුවේය.
+
+...
+
+[Data](articles/32fcd028.json)
 
 ---
 
@@ -1863,85 +1937,5 @@ The meeting took place at the Presidential Secretariat, said the Presidential Me
 [Data](articles/88e6dc89.json)
 
 [Extended Data](ext_articles/88e6dc89.ext.json)
-
----
-
-### Derana was a range of awards at Sumathi Awards
-
-*2024-02-20 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193627) · `si`
-
-The 29th Sumedhi Awards (2024) is currently undermined in Colombo.
-
-TV wins World's Best TV Report Program in 2023. Derana won Buddha bowl.
-
-The Best TV-term program of the year was won by the Rebuild Sri Lanka.
-
-The Best Rupavahini Educational Program of the Year award won 'KIDS Academy ".
-
-Drana Macro Entertainment has passed three awards to win three awards in the Social Media Category.
-
-The best CSR program was won by the National Value of Value and the Periodic Program.
-
-◼️
-
-[Data](articles/b6715091.json)
-
-[Extended Data](ext_articles/b6715091.ext.json)
-
----
-
-### Chamari Athapaththu eyes big team goal in 2024
-
-*2024-02-20 20:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chamari-Athapaththu-eyes-big-team-goal-in-2024/108-277417) · `en`
-
-Feb. 20 (ICC) - Sri Lankan superstar Chamari Athapaththu has set her eyes on the big prize at the ICC Women's T20 World Cup later this year.
-
-After winning the ICC Women's ODI Player of the Year award, Chamari Athapaththu is eyeing a bigger goal later this year at the ICC Women's T20 World Cup 2024.
-
-The Sri Lankan skipper recounted her incredible year in 2023, culminating in the big ICC award, and stated that going unsold at the Women's Premier League [WPL] auction was a big motivating factor behind it.
-
-"Internationally it was the best year I have had in my career," Athapathuthu told Cricbuzz.
-
-"Not just as a batter, but as a captain, and even as a team, we performed really well in 2023. Thanks to those performances, I was nominated for the ICC Player of the Year, T20 Player of the Year, and I won the ODI Player of the Year award. To be honest, I didn't expect to be named captain of the two teams of the year."
-
-...
-
-[Data](articles/b72ceb02.json)
-
-[Extended Data](ext_articles/b72ceb02.ext.json)
-
----
-
-### ILT20 slaps one-year ban on Noor Ahmad
-
-*2024-02-20 20:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ILT20-slaps-one-year-ban-on-Noor-Ahmad/108-277418) · `en`
-
-Feb. 20 (cricbuzz) - Afghanistan leg-spinner Noor Ahmad has been banned for 12 months by ILT20's disciplinary committee for breach of contract with his franchise Sharjah Warriors. Noor becomes the second player after fellow countryman Naveen-ul-Haq to be banned by the ILT20 for the same reason.
-
-The 19-year-old, who was retained by the Warriors, opted against signing the retention notice and instead to ply his trade in the SA20 tournament where he represented Durban Supergiants. Noor's refusal to sign the player agreement contract forced the Warriors to approach the ILT20 for further action on the matter. The disciplinary committee held separate hearings for the player and the franchise before coming to a final decision.
-
-Initially Noor was meted out a 20-month ban, like Naveen-ul-Haq, but given that the former was a minor ahead of the first ILT20 season, the punishment was trimmed down to 12 months.
-
-◼️
-
-[Data](articles/cf136059.json)
-
-[Extended Data](ext_articles/cf136059.ext.json)
-
----
-
-### Iranian Foreign Minister Hossein meets President Ranil
-
-*2024-02-20 20:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-Foreign-Minister-Hossein-meets-President-Ranil/108-277419) · `en`
-
-Colombo, Feb 20 (PMD) - Iranian Foreign Minister Hossein Amir-Abdollahian called on President Ranil Wickremesinghe at the Presidential Secretariat a short while ago, the President’s Media Division (PMD) said.
-
-The Iranian Foreign Minister arrived in Sri Lanka yesterday (19) on an official visit.
-
-◼️
-
-[Data](articles/65fc65ef.json)
-
-[Extended Data](ext_articles/65fc65ef.ext.json)
 
 ---

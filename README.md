@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 05:55:45**
+As of **2024-02-21 06:16:45**
 
 ## Newspaper Stats
 
-*Scraped **8,343** Articles*
+*Scraped **8,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 104
 dbsjeyarajcom | 156
 newsfirstlk | 363
 economynextcom | 429
-islandlk | 434
-dailyftlk | 450
+islandlk | 442
+dailyftlk | 454
 adalk | 712
 adaderanalk | 1,007
 tamilmirrorlk | 1,028
@@ -26,11 +26,87 @@ dailymirrorlk | 1,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,343 (100.0%) of 8,343 articles have been extended.
+8,343 (99.9%) of 8,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Royal College Principal reacts to Daily FT article and Padmasena Dissanayake responds
+
+*2024-02-21 05:06:29* · [`dailyftlk`](https://www.ft.lk/opinion/Royal-College-Principal-reacts-to-Daily-FT-article-and-Padmasena-Dissanayake-responds/14-758703) · `en`
+
+Open Letter to the Education Ministry over alleged anti-secular activities at Royal College
+
+The Daily FT last week (https://www.ft.lk/opinion/Open-letter-to-Education-Ministry-Secretary-over-Royal-College-anti-secular-activities/14-758546) published an Open Letter to the Education Ministry over alleged anti-secular activities at the Royal College, Colombo. The Royal College Principal had reacted to this article via electronic and social media. The Daily FT didn’t get a
+
+direct response from the Royal College Principal. Given the importance, today the Daily FT publishes Royal College Principal’s responses and the rebuttal by the original author Padmasena
+
+I refer to an article published in the Daily FT recently, levelling certain allegations regarding the annual multi-religious programme and alms-giving activities at Royal College.
+
+...
+
+[Data](articles/24450567.json)
+
+---
+
+### False interpretation of secularism to deny freedom of religion to Buddhist students at Royal College
+
+*2024-02-21 05:01:37* · [`dailyftlk`](https://www.ft.lk/opinion/False-interpretation-of-secularism-to-deny-freedom-of-religion-to-Buddhist-students-at-Royal-College/14-758702) · `en`
+
+An old boy who has expressed opposition in an article in the Daily FT recently, to the chanting of pirith in a Buddhist religious ceremony at Royal College on grounds that it is ‘anti secular’, has given a false interpretation of secularism.
+
+Moreover, he has made false allegations against the school authorities that:
+
+1) The authorities were forcibly collecting funds from non-Buddhist children
+
+2) The giving of Atapirikara to 100 monks is being done based by forcing parents of children to contribute
+
+4) Placing of Buddha statues within the school environment increasingly is intimidating to non-Buddhist students
+
+The author of the article admitted in another correspondence last year that he is a “devout Christian, and an Elder of the St. Andrews Scots Kirk Galle Face where he has also been the Treasurer”.
+
+The Royal College Principal has responded to these wild allegations as follows:
+
+...
+
+[Data](articles/08f30753.json)
+
+---
+
+### Overseas Sri Lankans: The missing nexus between foreign policy and domestic policy
+
+*2024-02-21 04:58:30* · [`dailyftlk`](https://www.ft.lk/columns/Overseas-Sri-Lankans-The-missing-nexus-between-foreign-policy-and-domestic-policy/4-758701) · `en`
+
+During my visit to Australia recently I took a keen interest to engage with several young persons of Sri Lankan origin in different cities. They were among the second and third generation youth from Sri Lanka’s migrant community resident Down Under.
+
+The idea of engaging with the youth came in the backdrop of “Sri Lanka Fest” – an expatriate cultural event that took place at the Federation Square in Melbourne on 25 November 2023.
+
+A good many people of Sri Lankan origin and others were thronging the venue at the time I entered. There were several food stalls selling Sri Lankan varieties. A stall run by the Consulate of Sri Lanka in Melbourne exhibited some Sri Lankan items, but ‘Appe Kade’ appeared to be the attraction and the big earner (two plain hoppers, one egg hopper and lunu miris at AUD 20).
+
+...
+
+[Data](articles/ebcf37d4.json)
+
+---
+
+### Deloitte South Asia’s Consulting leadership discuss blueprint for business transformation, growth
+
+*2024-02-21 04:52:08* · [`dailyftlk`](https://www.ft.lk/business/Deloitte-South-Asia-s-Consulting-leadership-discuss-blueprint-for-business-transformation-growth/34-758698) · `en`
+
+The Deloitte Consulting leadership in South Asia convened in Sri Lanka, marking a significant move to drive growth in the South Asian region.
+
+A resolute commitment was made to scale collaboration, nurture talent, and embrace sustainability while shaping the future trajectory of the region’s business landscape.
+
+“As we strive for unprecedented growth in the South Asia region, Deloitte stands united in its commitment to scale this path of development. Together, we envision a future defined by innovation, technology, inclusiveness, and sustainability, where our unwavering collaboration paves the way for lasting success,” said Deloitte South Asia President Consulting Sathish Gopalaiah.
+
+Deloitte Sri Lanka and Maldives Consulting Leader Nishan Mendis said: “The over 50 member delegation, committed to invest in Sri Lanka, its vision for driving meaningful change, and build on the confidence in the country’s young talent and massive growth potential.”
+
+...
+
+[Data](articles/505cb014.json)
+
+---
 
 ### Phoenix Industries launches new collection 2024
 
@@ -271,6 +347,46 @@ Particulars in the commerce sphere related to commercial activities are mainly u
 [Data](articles/43234920.json)
 
 [Extended Data](ext_articles/43234920.ext.json)
+
+---
+
+### International ‘Mother Language’ Day and Multilingual Education in Sri Lanka
+
+*2024-02-20 22:22:00* · [`islandlk`](http://island.lk/international-mother-language-day-and-multilingual-education-in-sri-lanka/) · `en`
+
+International Mother Language Day is celebrated on 21 February every year by UNESCO and the UN to highlight the significance of languages in advancing human and social development. The theme for 2024 is “Multilingual education – a pillar of learning and intergenerational learning” which is crucial for inclusive education and to preserve and develop indigenous languages.
+
+How does this theme relate to Sri Lanka? This paper outlines a few issues for consideration.
+
+...
+
+[Data](articles/9849b1ef.json)
+
+---
+
+### 300,000 small businesses to be trained in Asia on digital safety, 5000 in Sri Lanka
+
+*2024-02-20 22:20:00* · [`islandlk`](http://island.lk/300000-small-businesses-to-be-trained-in-asia-on-digital-safety-5000-in-sri-lanka/) · `en`
+
+Google.org, Google’s philanthropic arm, is providing $15M to The Asia Foundation to launch the APAC Cybersecurity Fund in partnership with CyberPeace Institute and Global Cyber Alliance to bolster cyber capabilities of 300,000 underserved micro and small businesses, nonprofits, and social enterprises. Working with implementing organizations and universities across the region, The Asia Foundation aims to equip local communities and students via upskilling tools and cyber clinics to protect against online risks. The initiative will span 13 locations, including Bangladesh, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Pakistan, Philippines, Singapore, Sri Lanka, Thailand, and Vietnam.
+
+...
+
+[Data](articles/d724267f.json)
+
+---
+
+### Positive investor sentiment eludes CSE in the absence of macroeconomic support
+
+*2024-02-20 22:14:00* · [`islandlk`](http://island.lk/positive-investor-sentiment-eludes-cse-in-the-absence-of-macroeconomic-support/) · `en`
+
+The stock market investor sentiment was not strong yesterday due to the absence of macroeconomic support for the market. The latter was not able to remain positive, despite there having been satisfactory corporate earnings and declaration of dividends, especially in banking sector counters, market analysts revealed.
+
+Due to weak market sentiment both indices indicated mixed reactions. The All- Share Price Index dropped by 4.99 points while S and P SL20 rose by 2.9 points. Turnover stood at Rs 815 million with two crossings. Those crossings were reported in JKH, which crossed 250,000 shares to the tune of Rs 47.75 million; its shares traded at Rs 191 and Hayleys 302,000 shares crossed for Rs 23.1 million; its shares sold at Rs 76.50.
+
+...
+
+[Data](articles/ef773e0b.json)
 
 ---
 
@@ -1803,139 +1919,5 @@ Meanwhile, the sub-committee on conflict solving and final provisions is schedul
 [Data](articles/13666670.json)
 
 [Extended Data](ext_articles/13666670.ext.json)
-
----
-
-### Couple arresting: vomiting for wife
-
-*2024-02-20 13:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோடி-கைது-மனைவிக்கு-வாந்தி/175-333517) · `ta`
-
-When the married couple was arrested, the woman swallowed two colds. The woman was subsequently admitted to the hospital and vomiting, police said.
-
-The police headquarters said that a couple who smuggled heroin into a three -wheeler had been arrested during a roundup by the Wennappuwa Police Station.
-
-Police say the suspect woman has swallowed 02 heroin at the time of the arrest.
-
-Following this, the suspect, the woman, was produced before the Marawila lawyer and admitted to the Marawila Hospital where the woman vomited there.. At the time, 01 grams of heroin had fallen outside, police said.
-
-◼️
-
-[Data](articles/d8e39033.json)
-
-[Extended Data](ext_articles/d8e39033.ext.json)
-
----
-
-### Another shooter
-
-*2024-02-20 13:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-துப்பாக்கிச்சூடு/175-333516) · `ta`
-
-Two people on a motorcycle were shot dead on a house in the early hours of this morning.
-
-The lorry and the window of the house were damaged in the shooting.
-
-◼️
-
-[Data](articles/e8c2986e.json)
-
-[Extended Data](ext_articles/e8c2986e.ext.json)
-
----
-
-### Sri Lanka to allow English as court language in selected courts
-
-*2024-02-20 13:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-allow-english-as-court-language-in-selected-courts-151599/) · `en`
-
-ECONOMYNEXT – Sri Lanka will allow court proceedings to be conducted in English in selected courts, to expedite court proceedings, the cabinet spokesman has said.
-
-Minister of Justice Wijeyadasa Rajapakshe proposed that “Certain courts be allowed to conduct proceedings in English,” Minister Bandula Gunawardena said at a press briefing to announce the week’s Cabinet decisions, on Tuesday (20).
-
-“Especially courts that deal with international trade or business related disputes, commercial disputes.”
-
-Court proceedings and documents are in Sinhala, the State language. “There is a delay when it comes to translating Sinhala documents into English and that has affected the country’s position in the Ease of Doing Business Index,” Gunawardena said. As of 2021, Sri Lanka ranks 99 in the index. (Colombo/Feb20/2024)
-
-◼️
-
-[Data](articles/c2152306.json)
-
-[Extended Data](ext_articles/c2152306.ext.json)
-
----
-
-### Wimal questions Harin’s statement in India
-
-*2024-02-20 13:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wimal-questions-Harins-statement-in-India/108-277401) · `en`
-
-Parliament, Feb. 20 (Daily Mirror)- The government must inform Parliament wether the statement made by Tourism Minister Harin Fernando in India that Sri Lanka was part of India was the government's official stance or his personal opinion, Parliamentarian Wimal Weerawansa said.
-
-He told Parliament that the Minister had stated in India that Sri Lanka was a part of India and the three airports will be given to India.
-
-"The govenment must reveal if the Minister's statement is the official stance of the government or the collective stance of the Cabinet or the Minister's personal opinion. "Can a Minister make such a statement while represnting a country?" he asked.
-
-Chief Government Whip Prasanna Ranatunga said the Cabinet had not discussed any such matter and said the Minister concerned will make a statement in Parliament.
-
-Minister Manusha Nanayakkara said social media had twisted the Minister's statement and said if someone listens to his full statment, his idea would become clear.
-
-...
-
-[Data](articles/09632e7e.json)
-
-[Extended Data](ext_articles/09632e7e.ext.json)
-
----
-
-### Wimal questions Harin’s statement in India
-
-*2024-02-20 13:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Wimal-questions-Harins-statement-in-India/155-277401) · `en`
-
-Parliament, Feb. 20 (Daily Mirror)- The government must inform Parliament wether the statement made by Tourism Minister Harin Fernando in India that Sri Lanka was part of India was the government's official stance or his personal opinion, Parliamentarian Wimal Weerawansa said.
-
-He told Parliament that the Minister had stated in India that Sri Lanka was a part of India and the three airports will be given to India.
-
-"The govenment must reveal if the Minister's statement is the official stance of the government or the collective stance of the Cabinet or the Minister's personal opinion. "Can a Minister make such a statement while represnting a country?" he asked.
-
-Chief Government Whip Prasanna Ranatunga said the Cabinet had not discussed any such matter and said the Minister concerned will make a statement in Parliament.
-
-Minister Manusha Nanayakkara said social media had twisted the Minister's statement and said if someone listens to his full statment, his idea would become clear.
-
-...
-
-[Data](articles/2018ecd8.json)
-
-[Extended Data](ext_articles/2018ecd8.ext.json)
-
----
-
-### Another shot
-
-*2024-02-20 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193614) · `si`
-
-Two persons from a motorbike have been shot dead at the East of Gandara, East.
-
-A lorry and window of the house was damaged and no residents were injured.
-
-◼️
-
-[Data](articles/9f4441b5.json)
-
-[Extended Data](ext_articles/9f4441b5.ext.json)
-
----
-
-### Government hints out at further restrictions on vehicle imports
-
-*2024-02-20 13:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-hints-out-at-further-restrictions-on-vehicle-imports/108-277400) · `en`
-
-Parliament, Feb. 20 (Daily Mirror)- State Minister of Finance Ranjith Siyambalapitiya today informed Parliament that the imports of vehicles will be continued.
-
-"We have appointed a committee to look into how we could restrict the vehicles and to determine how many vehicles we need," the State Minister said.
-
-"Sri Lanka has imported only 29 vehicles during the recent past, including 21 double cabs for the Ministry of Health and three ramps for SriLankan Airlines. These ramps are used for airlines," he said.
-
-◼️
-
-[Data](articles/abc68868.json)
-
-[Extended Data](ext_articles/abc68868.ext.json)
 
 ---

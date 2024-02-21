@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 15:51:22**
+As of **2024-02-21 16:03:08**
 
 ## Newspaper Stats
 
-*Scraped **8,467** Articles*
+*Scraped **8,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 436
 islandlk | 443
 dailyftlk | 456
 adalk | 718
-adaderanalk | 1,022
-tamilmirrorlk | 1,053
-virakesarilk | 1,131
+adaderanalk | 1,024
+tamilmirrorlk | 1,054
+virakesarilk | 1,134
 adaderanasinhalalk | 1,235
 dailymirrorlk | 1,258
 
@@ -26,11 +26,57 @@ dailymirrorlk | 1,258
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,467 (100.0%) of 8,467 articles have been extended.
+8,473 (100.0%) of 8,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Inflation is constantly rising
+
+*2024-02-21 15:33:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணவீக்கம்-தொடர்ந்து-உயர்வு/175-333596) · `ta`
+
+According to the National Consumer Price Index, Sri Lanka's inflation rose to 6.5 in January 2024, according to the Department of Census and Statistics.
+
+Meanwhile, inflation increased from 1.6 per cent in December 2023 to 4.1 per cent in January 2024.
+
+◼️
+
+[Data](articles/0ef44644.json)
+
+[Extended Data](ext_articles/0ef44644.ext.json)
+
+---
+
+### Sarath Fonseka Interview to Indian Media
+
+*2024-02-21 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176963) · `ta`
+
+Joining the government is now a matter of question. Who wants to board a shipwreck.
+
+There are reports that the United People's Power is trying to get rid of you - can we talk about whether these rumors are true or not?
+
+You know that we are facing the most bad situation, especially in relation to the economy.
+
+Everyone knows that the country is in the grip of debt and has reached bankruptcy.
+
+The income of the people has not increased but the costs have increased, causing people to be in great crisis.
+
+What do you want to report in the Sri Lankan media that the United People's Power is trying to get you out of the United States?
+
+Answer- The party is doing well but I have faced some things. I tried to find a solution to these issues.
+
+This is relevant to joining some people in the party, and they are currently joining our opponents with the current ruling party five years ago.
+
+One of them is a former military commander - I think that even though he is in the army, his actions are not acceptable.
+
+...
+
+[Data](articles/b30eaf2a.json)
+
+[Extended Data](ext_articles/b30eaf2a.ext.json)
+
+---
 
 ### Gammanpila presents private member’s bill to remove police powers of Provincial Councils
 
@@ -74,6 +120,72 @@ Bloombe added that Russia plans to send such a satellite weapon or its model thi
 
 ---
 
+### Power Minister explains how electricity tariffs will be reduced
+
+*2024-02-21 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97435/power-minister-explains-how-electricity-tariffs-will-be-reduced) · `en`
+
+The Ceylon Electricity Board (CEB) is to submit a proposal to the Public Utilities Commission of Sri Lanka (PUCSL) to reduce the electricity tariffs that were increased last October, according to Power and Energy Minister Kanchana Wijesekera.
+
+Speaking in Parliament today (21), the minister said that the proposal is expected to be submitted by the CEB to the PUCSL tomorrow.
+
+He stated that in October last year, the electricity tariffs had been increased by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
+
+Minister Wijesekera stated that it has been proposed to slash the electricity tariffs by these same percentages.
+
+◼️
+
+[Data](articles/dd076886.json)
+
+[Extended Data](ext_articles/dd076886.ext.json)
+
+---
+
+### New Chief of Staff appointed to Sri Lanka Navy
+
+*2024-02-21 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97434/new-chief-of-staff-appointed-to-sri-lanka-navy) · `en`
+
+Rear Admiral Pradeep Rathnayake has been appointed the Chief of Staff of Sri Lanka Navy.
+
+The appointment, made by President Ranil Wickremesinghe, retrospectively comes into effect from January 16.
+
+Navy Commander, Vice Admiral Priyantha Perera formally handed over the letter of appointment to Rear Admiral Rathnayake at the Navy Headquarters today (Feb.21) and expressed his best wishes.
+
+Rear Admiral Rathnayake, educated at St. Thomas’ College in Matale, had joined the Navy in 1987 as an Officer Cadet of the 17th intake, in the Executive branch.
+
+On successful completion of his basic training at the Naval and Maritime Academy, Trincomalee, he was commissioned as a Sub Lieutenant in 1989. The senior officer completed his Sub Lieutenant Technical Course at the Naval and Maritime Academy in 1992 and specialized in Marine Navigation from the Indian Navy in 1997. Advancing steadily in his professional journey, he reached the rank of Rear Admiral on July 01, 2021.
+
+...
+
+[Data](articles/613bcaac.json)
+
+[Extended Data](ext_articles/613bcaac.ext.json)
+
+---
+
+### The President urged the Iran Foreign Minister to implement a ceasefire in Gaza
+
+*2024-02-21 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/176958) · `ta`
+
+Iran's Foreign Minister Hussein Amir -Abdollahian, who was on an official visit to Sri Lanka, met President Ranil Wickremesinghe at the Presidential Office on Tuesday (20).
+
+Meanwhile, President Ranil Wickremesinghe urged the Iranian Foreign Minister to implement a ceasefire in the Gaza border and establish a peace agreement.
+
+The President stressed that the peace agreement should not be unilateral and that both sides should be accepted.
+
+The President also pointed out that it is necessary to establish the Palestinian government within five years, confirming the security of the Israeli government.
+
+Pointing to the importance of the Persian Gulf countries within the Indian Ocean, the President said that Sri Lanka would dedicate Sri Lanka to protect the freedom of shipping of the Zone.
+
+Pointing to strengthening the cultural ties between the two countries, Iran's Foreign Minister Hussein Amir - Abdullahian promised that Iran would be committed to promoting Sri Lanka's tourism trade.
+
+...
+
+[Data](articles/127ff3c1.json)
+
+[Extended Data](ext_articles/127ff3c1.ext.json)
+
+---
+
 ### Pradeep Ratnayake as Navy Chief Officer
 
 *2024-02-21 14:54:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்படை-தலைமை-அதிகாரியாக-பிரதீப்-ரத்நாயக்க/175-333592) · `ta`
@@ -101,6 +213,20 @@ The soul of former minister Amarar Arumugan weeps, seeing the current minister's
 [Data](articles/06b438d1.json)
 
 [Extended Data](ext_articles/06b438d1.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-02-21 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176960) · `ta`
+
+The US dollar purchasing price was Rs 307.1414 and the sales price were 316.8174, based on the Central Bank's currency exchange rate on Wednesday (February 21).
+
+◼️
+
+[Data](articles/8be42bc8.json)
+
+[Extended Data](ext_articles/8be42bc8.ext.json)
 
 ---
 
@@ -1164,7 +1290,7 @@ The deceased has been identified as 39 -year -old Hetti Arachike Don Sujit and i
 
 ---
 
-### Sri Lanka brings minimum investment rule for new casinos licenses
+### Sri Lanka new Casino licenses to require minimum investments
 
 *2024-02-21 10:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-brings-minimum-investment-rule-for-new-casinos-licenses-151719/) · `en`
 
@@ -1895,115 +2021,5 @@ Director of the Director Dr. Prasad Ranaweera stated that a road map is to be pr
 [Data](articles/b0cb829e.json)
 
 [Extended Data](ext_articles/b0cb829e.ext.json)
-
----
-
-### CID and Central Bank probe Rs. 8 Bn fraud defrauding over 22000 victims
-
-*2024-02-21 06:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-and-Central-Bank-probe-Rs-8-Bn-fraud-defrauding-over-22000-victims/108-277444) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - The Criminal Investigation Department and the Central Bank of Sri Lanka have initiated separate investigations to apprehend a man and his wife who are alleged to have defrauded approximately Rs. 8 billion from around 22,000 individuals across different parts of the country under the guise of establishing a trading community.
-
-According to a large number of complaints received by the CID and the CB, that they have made about 22000 people in different parts of the country have been caught in this fraud which is very similar to the fraud in the pyramid scheme, a senior official said.
-
-...
-
-[Data](articles/0a22b3ea.json)
-
-[Extended Data](ext_articles/0a22b3ea.ext.json)
-
----
-
-### Heavy rains in several areas
-
-*2024-02-21 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193630) · `si`
-
-Showers or thundershowers will occur at several places in Kalutara, Galle, Matara and Ratnapura districts.
-
-◼️
-
-[Data](articles/ab10b7ce.json)
-
-[Extended Data](ext_articles/ab10b7ce.ext.json)
-
----
-
-### Port City Colombo hosts exclusive networking session with Lord Marland
-
-*2024-02-21 06:10:51* · [`dailyftlk`](https://www.ft.lk/business/Port-City-Colombo-hosts-exclusive-networking-session-with-Lord-Marland/34-758705) · `en`
-
-The Port City Colombo (PCC) on Monday hosted a special business networking session with the Commonwealth Enterprise and Investment Council (CWEIC) Chairman Lord Marland at the Port City Colombo Sales Gallery.
-
-Acting as an excellent platform for PCC to present its upcoming investment prospects, this occasion showcased Lord Marland’s strong support for PCC’s investment promotion drive, through CWEIC, to attract potential investors from across the Commonwealth and beyond. State Minister of Investment Promotion Dilum S. Amunugama, was also present at the event, along with a host of other dignitaries representing state and business interests.
-
-...
-
-[Data](articles/690de034.json)
-
-[Extended Data](ext_articles/690de034.ext.json)
-
----
-
-### JAT achieves key milestone as operations begins at Alkyd Resin plant in Bangladesh
-
-*2024-02-21 06:07:00* · [`dailyftlk`](https://www.ft.lk/business/JAT-achieves-key-milestone-as-operations-begins-at-Alkyd-Resin-plant-in-Bangladesh/34-758704) · `en`
-
-JAT Holdings PLC, has marked a key milestone on the 12 February, with the official commencement of operations at its new Alkyd Resin plant in Bangladesh.
-
-The plant has been purpose-designed and built by JAT Holdings PLC, through its wholly-owned subsidiary in Bangladesh, Asia Coating Ltd.
-
-This achievement marks a positive moment for JAT Holdings PLC, as its new Alkyd Resin Plant will help to boost the Group’s margins as a result of improved backward vertical integration. The new plant is designed to manufacture primary raw materials for solvent-based polyurethane, nitrocellulose, and enamel wood coatings and paint. JAT is Sri Lanka’s market leader in wood coatings and brushes, and emerging regional paint manufacturer.
-
-...
-
-[Data](articles/3738844e.json)
-
-[Extended Data](ext_articles/3738844e.ext.json)
-
----
-
-### Royal College Principal reacts to Daily FT article and Padmasena Dissanayake responds
-
-*2024-02-21 05:06:29* · [`dailyftlk`](https://www.ft.lk/opinion/Royal-College-Principal-reacts-to-Daily-FT-article-and-Padmasena-Dissanayake-responds/14-758703) · `en`
-
-Open Letter to the Education Ministry over alleged anti-secular activities at Royal College
-
-The Daily FT last week (https://www.ft.lk/opinion/Open-letter-to-Education-Ministry-Secretary-over-Royal-College-anti-secular-activities/14-758546) published an Open Letter to the Education Ministry over alleged anti-secular activities at the Royal College, Colombo. The Royal College Principal had reacted to this article via electronic and social media. The Daily FT didn’t get a
-
-direct response from the Royal College Principal. Given the importance, today the Daily FT publishes Royal College Principal’s responses and the rebuttal by the original author Padmasena
-
-I refer to an article published in the Daily FT recently, levelling certain allegations regarding the annual multi-religious programme and alms-giving activities at Royal College.
-
-...
-
-[Data](articles/24450567.json)
-
-[Extended Data](ext_articles/24450567.ext.json)
-
----
-
-### False interpretation of secularism to deny freedom of religion to Buddhist students at Royal College
-
-*2024-02-21 05:01:37* · [`dailyftlk`](https://www.ft.lk/opinion/False-interpretation-of-secularism-to-deny-freedom-of-religion-to-Buddhist-students-at-Royal-College/14-758702) · `en`
-
-An old boy who has expressed opposition in an article in the Daily FT recently, to the chanting of pirith in a Buddhist religious ceremony at Royal College on grounds that it is ‘anti secular’, has given a false interpretation of secularism.
-
-Moreover, he has made false allegations against the school authorities that:
-
-1) The authorities were forcibly collecting funds from non-Buddhist children
-
-2) The giving of Atapirikara to 100 monks is being done based by forcing parents of children to contribute
-
-4) Placing of Buddha statues within the school environment increasingly is intimidating to non-Buddhist students
-
-The author of the article admitted in another correspondence last year that he is a “devout Christian, and an Elder of the St. Andrews Scots Kirk Galle Face where he has also been the Treasurer”.
-
-The Royal College Principal has responded to these wild allegations as follows:
-
-...
-
-[Data](articles/08f30753.json)
-
-[Extended Data](ext_articles/08f30753.ext.json)
 
 ---

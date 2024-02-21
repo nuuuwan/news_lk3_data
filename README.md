@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 22:17:28**
+As of **2024-02-21 22:32:54**
 
 ## Newspaper Stats
 
-*Scraped **8,553** Articles*
+*Scraped **8,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ newsfirstlk | 363
 economynextcom | 436
 islandlk | 443
 dailyftlk | 456
-adalk | 734
+adalk | 735
 adaderanalk | 1,033
-tamilmirrorlk | 1,063
-virakesarilk | 1,146
-adaderanasinhalalk | 1,253
+tamilmirrorlk | 1,064
+virakesarilk | 1,147
+adaderanasinhalalk | 1,255
 dailymirrorlk | 1,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,550 (100.0%) of 8,553 articles have been extended.
+8,553 (99.9%) of 8,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### ගෘහ සේවයට කාන්තාවන් විදේශගත කිරීම අත්හිටුවීමට ඇමති මනූෂගෙන් පියවර
+
+*2024-02-21 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193676) · `si`
+
+ශ්‍රී ලාංකික කාන්තාවන් ගෘහ සේවිකාවන් ලෙස විදේශ රැකියා සඳහා පිටත් කර යැවීම සම්පූර්ණයෙන්ම නතර කිරිමට අවශ්‍ය පියවර ගැනීම සඳහා වන යෝජනාවලියක් සහ කඩිනම් සැලසුමක් තමන් වෙත ලබාදෙන ලෙස කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ ඉහළ කළමනාකාරිත්වයට සහ බලපත්‍රලාභී විදේශ සේවා නියුක්ති නියෝජිත ආයතන සංගමයට ඊයේ (20) දැනුම් දී තිබේ.
+
+ගෘහ සේවිකාවන් ලෙස ශ්‍රමිකයන් පිටත් කර යැවීම නතර කර ඉහළ වැටුප් ලබාගත හැකි පුහුණු රැකියා අවස්ථා සඳහා පමණක් ශ්‍රමිකයන් යැවීමේ වැදගත්කම ද අමාත්‍යවරයා අවධාරණය කර ඇත.
+
+ඒ අනුව වසර දහයක් තුළ දී ගෘහ සේවිකාවන් විදේශ රැකියා සඳහා පිටත් කර යැවීම සම්පූර්ණයෙන්ම නතර කිරීම සඳහා ක්ෂේත්‍රයට සම්බන්ධ සියලුම පාර්ශ්වයන් සම්බන්ධ කරගනිමින් මෙම යෝජනාවලිය තමන් වෙත ලබාදෙන ලෙස ද බලපත්‍රලාභී විදේශ සේවා නියුක්ති නියෝජිත ආයතන සංගමය සමඟ අද පැවති සාකච්ඡාවේ දී අමාත්‍යවරයා දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/acd4393d.json)
+
+---
+
+### “தாமரை கோபுரம்” சிவப்பு நிறத்தில் ஒளிரும்
+
+*2024-02-21 21:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரம்-சிவப்பு-நிறத்தில்-ஒளிரும்/175-333629) · `ta`
+
+சர்வதேச மூளையழற்சி நோய் தினத்தை முன்னிட்டு விழிப்புணர்வை ஏற்படுத்தும் வகையில் கொழும்பிலுள்ள தாமரை கோபுரம் நாளை (22) சிவப்பு நிறத்தில் ஒளிரவிடப்படவுள்ளது.
+
+இந்த ஆபத்துமிக்க நரம்பியல் நிலை குறித்த விழிப்புணர்வை ஏற்படுத்தும் என்செபாலிடிஸ் இன்டர்நேஷனலின் அண்மைய திட்டங்களின் ஒரு பகுதியாக இவ்வாறு ஒளிரவிடப்படவுள்ளது. R
+
+◼️
+
+[Data](articles/f8d9d6fe.json)
+
+---
+
+### யாழ் போதனா வைத்தியசாலை அலுவலருடன் முரண்பட்டதால் ஒருவர் கைது
+
+*2024-02-21 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176998) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அலுவலர்களுடன் முரண்பாட்டில் ஈடுபட்ட நபரொருவர் பொலிஸாரினால் புதன்கிழமை (21) கைது செய்யப்பட்டார்.
+
+வைத்தியசாலையின் மேற்பார்வையாளர் அலுவலகத்திற்குச் சென்று தகாத வார்த்தைகளைப் பேசிய குறித்த நபர், அலுவலகர்களுடன் முரண்பட்டு அங்கிருந்த பெயர் பலகையையும் சேதப்படுத்திய நிலையில் வைத்தியசாலை பொலிஸாரால் கைது செய்யப்பட்டு யாழ்ப்பாணம் பொலிஸாரிடம் ஒப்படைக்கப்பட்டார்.
+
+இதன்போது குறித்த நபர் மதுபோதையிலிருந்தாக தெரிவிக்கப்படும் நிலையில் சந்தேக நபரிடம் யாழ்ப்பாணம் பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/feb50147.json)
+
+---
 
 ### Rising trend of drug addicts turning to pharmaceutical drugs in Western Province
 
@@ -43,6 +89,28 @@ Police and National Medicines Regulatory Authority (NMRA) officials launched a m
 ...
 
 [Data](articles/a30be5e5.json)
+
+[Extended Data](ext_articles/a30be5e5.ext.json)
+
+---
+
+### නාවික හමුදාවේ නව මාණ්ඩලික ප්‍රධානී ධුරය රියර් අද්මිරාල් ප්‍රදීප් රත්නායකට
+
+*2024-02-21 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193675) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාවේ නව මාණ්ඩලික ප්‍රධානී ලෙස රියර් අද්මිරාල් ප්‍රදීප් රත්නායක මහතා පත් කර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මැතිතුමා විසින් මෙම පත් කිරීම සිදු කර ඇති අතර, ඊට අදාළ පත්වීම් ලිපිය නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා මහතා විසින් රියර් අද්මිරාල් ප්‍රදීප් රත්නායක මහතා වෙත අද (21) නිල වශයෙන් භාරදුන් බව නාවික හමුදාව නිවේදනය කර ඇත.
+
+මාතලේ ශාන්ත තෝමස් විද්‍යාලයේ ආදි ශිෂ්‍යයෙකු වන ප්‍රදීප් රත්නායක මහතා 1987 වර්ෂයේ දී ශිෂ්‍යභට නිලධාරියෙකු වශයෙන් ශ්‍රී ලංකා නාවික හමුදාවේ විධායක අංශයට එක් ව තිබිණි.
+
+ක්‍රමාණුකූල ව උසස් වීම් ලැබූ ඔහු 2021 වර්ෂයේ ජූලි මස පළමු වැනි දා රියර් අද්මිරාල් නිලයට උසස් වූ බව නාවික හමුදාව පැවසීය.
+
+රියර් අද්මිරාල් ප්‍රදීප් රත්නායක මහතා සිය සේවා කාලය තුළ නිලතල රැසක් දරා ඇති අතර, නාවික හමුදා මාණ්ඩලික ප්‍රධානී ලෙස පත්වීමට පෙර ඔහු නාවික හමුදා නියෝජ්‍ය මාණ්ඩලික ප්‍රධානී වශයෙන් කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/c77c0887.json)
 
 ---
 
@@ -85,6 +153,8 @@ It also allowed Sri Lanka to pay with tea, as the country was short of foreign c
 ...
 
 [Data](articles/b17876d8.json)
+
+[Extended Data](ext_articles/b17876d8.ext.json)
 
 ---
 
@@ -166,23 +236,25 @@ Afghanistan won the currency spin in the match. Accordingly, the team decided to
 
 ---
 
-### கடைசி டி20 போட்டி; இலங்கைக்கு 210 ஓட்டங்கள் இலக்கு
+### The last T20 match;210 runs for Sri Lanka
 
 *2024-02-21 20:09:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடைசி-டி20-போட்டி-இலங்கைக்கு-210-ஓட்டங்கள்-இலக்கு/175-333616) · `ta`
 
-ஆப்கானிஸ்தான் அணிக்கும் இலங்கை அணிக்கும் இடையிலான மூன்றாவதும் இறுதியுமான டி20 போட்டியில் முதலில் துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் அணி 20 ஓவர்கள் நிறைவில் 05 விக்கெட்டுக்களை இழந்து 209 ஓட்டங்களை பெற்றது.
+In the third and final T20 match between Afghanistan and Sri Lanka, Afghanistan won the first T20 and scored 209 runs for the loss of 5 wickets in 20 overs.
 
-ஆப்கானிஸ்தான் அணி சார்பில் துடுப்பாட்டத்தில் Rahmanullah Gurbaz அதிகபட்சமாக 70 ஓட்டங்களையும், Hazratullah Zazai 45 ஓட்டங்களையும் பெற்றனர்.
+Rahmanullah Gurbaz scored a maximum of 70 runs and Hazratullah Zazai 45 runs.
 
-பந்து வீச்சில் இலங்கை அணி சார்பில் Matheesha Pathirana மற்றும் Akila Dananjaya ஆகியோர் தலா இரண்டு விக்கெட்டுக்களை வீழ்த்தினர்.
+Matheesha Pathirana and Akila Dananjaya took two wickets each for the Sri Lankan team.
 
-இலங்கைக்கு சுற்றுலா மேற்கொண்டுள்ள ஆப்கானிஸ்தான் மற்றும் இலங்கை அணிகளுக்கு இடையிலான இறுதி டி20 கிரிக்கட் போட்டி இன்று (21) நடைபெறவுள்ளது.
+The final T20 cricket match between Afghanistan and Sri Lanka will be held today (21).
 
-குறித்த போட்டியில் நாணய சுழற்சியில் ஆப்கானிஸ்தான் அணி வெற்றிபெற்றுள்ளது. இதன்படி அந்த அணி முதலில் துடுப்பெடுத்தாட தீர்மானித்துள்ளது. R
+Afghanistan won the currency spin in the match. Accordingly, the team decided to bat first. Remble
 
 ◼️
 
 [Data](articles/7fd95d68.json)
+
+[Extended Data](ext_articles/7fd95d68.ext.json)
 
 ---
 
@@ -319,6 +391,22 @@ Accordingly, they have said that the search has been made immediately.
 [Data](articles/b8850de1.json)
 
 [Extended Data](ext_articles/b8850de1.ext.json)
+
+---
+
+### ගාල්ලෙන් ගල් නැංගුරමක් හමුවෙයි
+
+*2024-02-21 19:23:32* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලෙන්-ගල්-නැංගුරමක්-හමුවෙයි/11-408226) · `si`
+
+ගාල්ල පැරණි වරායේ ජැටිය ආසන්න මුහුදේ තිබී 12වන හෝ 13 වන සියවස්වලට අයත් යැයි සැලකෙන ගල් නැංගුරමක් හමු වී ඇතැයි මධ්‍යම සංස්කෘතික අරමුදලේ මුහුදු පුරාවිද්‍යා ඒකකය පවසයි.
+
+මෙම ස්ථානයේ පැරණි නැංගුරම් කිහිපයක්, නැංගුරම් ලෙස භාවිතා කළ එකට ගැටගැසූ කාලතුවක්කු දෙකක් ආදී අවශේෂ කිහිපයක් ම දක්නට ලැබී තිබේ. කෙසේවුවද අවස්ථා කිහිපයක දී ම මුහුදු පුරාවිද්‍යාඥයන්ගේ නිරීක්ෂණයට ලක්ව තිබූ මෙම ගල් නැංගුරම 12-13 වැනි සියවස් තරම් අතීතයට අයත් බව තහවරු කරගෙන ඇත්තේ පසුගිය දිනවල දී ය.
+
+මේ සම්බන්ධයෙන් අදහස් දැක්වූ මුහුදු පුරාවිද්‍යා ඒකකයේ පුරාවිද්‍යාඥ රසික මුතුකුමාරණ මහතා මෙසේ කීවේය.
+
+...
+
+[Data](articles/8a75e15a.json)
 
 ---
 
@@ -1973,103 +2061,5 @@ He said that the project is to be done with the cancer patients, and those who h
 [Data](articles/089723f5.json)
 
 [Extended Data](ext_articles/089723f5.ext.json)
-
----
-
-### Sri Lanka to offer new restructuring plan to bondholders, report
-
-*2024-02-21 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-offer-new-restructuring-plan-to-bondholders-report/108-277480) · `en`
-
-(Bloomberg) -- Sri Lanka sent a new restructuring proposal to dollar bondholders through its adviser Lazard as the South Asian nation seeks to complete overhauling its defaulted debt, according to people familiar with the matter.
-
-A counter proposal to a bondholder group’s offer in October for a 20% haircut and the issuance of macro-linked bonds was conveyed through Lazard, the people said, declining to be named because negotiations are private. They did not elaborate on the details of the offer. Government representatives may travel to London soon to meet Sri Lanka’s commercial creditors, one of the people said.
-
-Completing the overhaul of Sri Lanka’s $27 billion of foreign debt is critical to ensure financing from the International Monetary Fund bailout keeps flowing. President Ranil Wickremesinghe said this month that authorities expect to complete the restructuring within the first six months of the year.
-
-...
-
-[Data](articles/23418f98.json)
-
-[Extended Data](ext_articles/23418f98.ext.json)
-
----
-
-### Power of Parate execution law to be suspended: Siyambalapitiya
-
-*2024-02-21 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Power-of-Parate-execution-law-to-be-suspended-Siyambalapitiya/108-277479) · `en`
-
-Parliament, Feb. 21 (Daily Mirror)- Steps will be taken to suspend the powers of the Parate execution law for a certain period for the purpose of protecting the small and medium-scale entrepreneurs, State Minister of Finance Ranjith Siyambalapitiya said today.
-
-He told Parliament that the Cabinet paper on this will be submitted to the Cabinet next week.
-
-The Minister said Parate execution laws have been introduced for the safety of the banking sector and added that the Cabinet Paper will be submitted to suspend the powers of the law while protecting the safety of the banking sector as well.
-
-He said this while speaking at the adjournment debate moved by the Ipposition on the country’s situation.
-
-◼️
-
-[Data](articles/7fbd996b.json)
-
-[Extended Data](ext_articles/7fbd996b.ext.json)
-
----
-
-### Parate execution law to be suspended: Siyambalapitiya
-
-*2024-02-21 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parate-execution-law-to-be-suspended-Siyambalapitiya/108-277479) · `en`
-
-Parliament, Feb. 21 (Daily Mirror)- Steps will be taken to suspend the powers of the Parate execution law for a certain period for the purpose of protecting the small and medium-scale entrepreneurs, State Minister of Finance Ranjith Siyambalapitiya said today.
-
-He told Parliament that the Cabinet paper on this will be submitted to the Cabinet next week.
-
-The Minister said Parate execution laws have been introduced for the safety of the banking sector and added that the Cabinet Paper will be submitted to suspend the powers of the law while protecting the safety of the banking sector as well.
-
-He said this while speaking at the adjournment debate moved by the Ipposition on the country’s situation.
-
-◼️
-
-[Data](articles/c4ffe525.json)
-
-[Extended Data](ext_articles/c4ffe525.ext.json)
-
----
-
-### Thambuththegama sister arrested with her husband
-
-*2024-02-21 13:30:18* · [`adalk`](https://www.ada.lk/breaking_news/’’තඹුත්තේගම-අක්කා’’-සැමියා-සමග-අත්අඩංගුවට/11-408212) · `si`
-
-A woman named 'Easy Cash' in the Anuradhapura HSZ and Vice Kumara, who is currently under drug charges, is known to the 'Easy Cash' in the Anuradhapura District and her husband nearing heroin near the Anuradhapura district.The Criminal Investigation Bureau of the Criminal Investigation Bureau says he was arrested yesterday (20).
-
-The Rajanganaya Fifth Post is a 32-year-old resident of Randindenigigama, a 32 year old resident of Randindenigigama. Police say that the suspect had been in prison and had telephoned and had their voices.
-
-The woman who is associated with the manner in Minuwangoda area is hiding in different places in the Minuwangoda area, police said the police said.
-
-Police said that the suspect and the suspect was arrested in the Anuradhapura Police Division in Anuradhapura and that the suspect was arrested and found 15 g of drugs.They were to be produced before the Anuradhapura Magistrate's Court today (21).
-
-...
-
-[Data](articles/711ae984.json)
-
-[Extended Data](ext_articles/711ae984.ext.json)
-
----
-
-### Fans standing in line to buy T20 tickets
-
-*2024-02-21 13:28:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/T20-டிக்கெட்-வாங்க-வரிசையில்-நிற்கும்-ரசிகர்கள்/44-333587) · `ta`
-
-There are huge queues at the Rangiri Dambulla International Cricket Ground to buy tickets for the last T20 match between Sri Lanka and Afghanistan.
-
-The Sri Lankan team, which leads 2-0 in the series, will face Afghanistan in the last match of the T20 series at 07.00 pm local time.
-
-Hundreds of people are lined up at the Dambulla Ground to buy tickets to watch the match after the Sri Lankan cricket company announced that some tickets would be available.
-
-According to reports, cricket fans stood in line from 03.00 am today.
-
-◼️
-
-[Data](articles/ace0ed09.json)
-
-[Extended Data](ext_articles/ace0ed09.ext.json)
 
 ---

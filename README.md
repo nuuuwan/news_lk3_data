@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 11:52:00**
+As of **2024-02-21 12:02:34**
 
 ## Newspaper Stats
 
-*Scraped **8,404** Articles*
+*Scraped **8,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 economynextcom | 430
 islandlk | 443
 dailyftlk | 456
-adalk | 713
+adalk | 715
 adaderanalk | 1,015
 tamilmirrorlk | 1,036
 virakesarilk | 1,129
 adaderanasinhalalk | 1,223
-dailymirrorlk | 1,244
+dailymirrorlk | 1,248
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,404 (100.0%) of 8,404 articles have been extended.
+8,410 (100.0%) of 8,410 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -34,7 +34,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### World Health Organization's Medical Committee on Visit Sri Lanka to control leprosy
 
-*2024-02-21 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176934) · `ta`
+*2024-02-21 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/176934) · `ta`
 
 The World Health Organization's Special Medical Committee will visit the country in March to completely control leprosy.
 
@@ -52,6 +52,20 @@ We have already started a comprehensive program to completely control leprosy fr
 
 ---
 
+### Sumathi Awards Ceremony 2024...
+
+*2024-02-21 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sumathi-Awards-Ceremony-2024/110-277474) · `en`
+
+The 29th edition of the Sumathi Awards ceremony was held at the Monarch Imperial yesterday, showcasing the pinnacle of Sri Lankan television excellence. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/7a5c6d52.json)
+
+[Extended Data](ext_articles/7a5c6d52.ext.json)
+
+---
+
 ### Membership resolution to remove police powers from provincial councils
 
 *2024-02-21 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193640) · `si`
@@ -65,6 +79,30 @@ He has proposed that the police powers should be removed from the provincial cou
 [Data](articles/9132f096.json)
 
 [Extended Data](ext_articles/9132f096.ext.json)
+
+---
+
+### Rohitha complains to Speaker over social media post
+
+*2024-02-21 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rohitha-complains-to-Speaker-over-social-media-post/108-277473) · `en`
+
+Parliament, Feb. 21 (Daily Mirror)- SLPP MP Rohitha Abeygunawardane said today his privileges have been infringed due to a social media post posted by a woman in Katukurunda, Kalutara and requested the Speaker to bring her before the Privilege Committee.
+
+Raising a privilege issue in Parliament, MP Abeygunawardane said the woman had posted an insulting post in her social media account, stating that he and acting IGP Deshabandu Tennakoon were thieves and should be arrested immediately.
+
+The MP said his privileges, as a Member of Parliament, had been infringed by this post and that it was a threat to his life.
+
+“This post can cause threats to our lives. It is a dangerous situation,” he said.
+
+He said the particular woman had contested the general election in 2015 and is known to him.
+
+He said all 225 MPs must rise against posts of this nature and said it was pointless enacting the Online Safety Act if actions were not taken against such posts.
+
+...
+
+[Data](articles/057f1917.json)
+
+[Extended Data](ext_articles/057f1917.ext.json)
 
 ---
 
@@ -191,6 +229,52 @@ He said the CEB was drafting a new proposal on electricity tariff after consider
 [Data](articles/c3ed7d66.json)
 
 [Extended Data](ext_articles/c3ed7d66.ext.json)
+
+---
+
+### Man hit fire in Mahabage
+
+*2024-02-21 09:51:35* · [`adalk`](https://www.ada.lk/breaking_news/මහබාගේ-වෙඩි-තැබිමකින්-පුද්ගලයෙක්-ජිවිතක්ෂයට/11-408205) · `si`
+
+A man was killed when two unidentified persons who came in a motorcycle near the joint near the joint at the Maga's police division.
+
+The deceased has been identified as Hettiarachchige Don Sujith was a relative of the organized criminal of the handing of the sand.
+
+◼️
+
+[Data](articles/8d627e07.json)
+
+[Extended Data](ext_articles/8d627e07.ext.json)
+
+---
+
+### More tourists throng Kataragama
+
+*2024-02-21 09:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/More-tourists-throng-Kataragama/110-277462) · `en`
+
+An unprecedented number of tourists visited Kataragama yesterday (20) and attended religious rituals at the Kiriwehera and Devalaya premises.
+
+◼️
+
+[Data](articles/500db76f.json)
+
+[Extended Data](ext_articles/500db76f.ext.json)
+
+---
+
+### Close associate of ‘Welle Saranga’ shot dead
+
+*2024-02-21 09:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Close-associate-of-Welle-Saranga-shot-dead/108-277472) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - A man was killed after two unidentified men on a motorcycle opened fire at him in Mahabage this morning.
+
+According to initial investigations, the victim has also been identified as a close associate of drug trafficker Saranga Pradeep alias 'Welle Saranga'.
+
+◼️
+
+[Data](articles/eb032004.json)
+
+[Extended Data](ext_articles/eb032004.ext.json)
 
 ---
 
@@ -1610,6 +1694,30 @@ S. Thomas’: 236 in 76.2 overs (Thisen Eheliyagoda 94, Ashen Perera 26, Thara
 
 ---
 
+### Justice with justice. 7.8 arrested
+
+*2024-02-20 19:50:11* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තියෙන්-රු-බි--7-8ක-මත්ද්‍රව්‍ය-අල්ලයි/11-408202) · `si`
+
+Attorney-at-December 17, December 17, the raids carried out on the 17th of December, police spokesman lawyer said that allegedly arrested for more than Rs. 7800 million.
+
+He said that 57999 raids have been carried out during this period and 57673 suspects have been arrested in the raids.
+
+He further stated that 210 kilos of heroin and 2764kg of cannabis have been arrested during that period.
+
+Nearly forty kilograms of cannabis and 307 kg of cannars have been dissected and the assets have been launched and about 2098.He said he had taken action to rehabilitate.
+
+He added that there were 6891 persons who were invited by open warrants and other non-poisonous errors among the arrested persons.
+
+He said that the public and organized criminals need the support of the public and that the public will be able to support the public for the operation of the people.
+
+◼️
+
+[Data](articles/c5fd1320.json)
+
+[Extended Data](ext_articles/c5fd1320.ext.json)
+
+---
+
 ### TV Derana scoops top accolades at 2024 Sumathi Awards
 
 *2024-02-20 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97417/tv-derana-scoops-top-accolades-at-2024-sumathi-awards) · `en`
@@ -1845,125 +1953,5 @@ The MP is said to have decided to enter the monk after the death of his wife.
 [Data](articles/70182db5.json)
 
 [Extended Data](ext_articles/70182db5.ext.json)
-
----
-
-### MP and son are temporary ascetic
-
-*2024-02-20 18:53:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியும்-மகனும்-தற்காலிக-துறவறம்/175-333538) · `ta`
-
-Sri Lanka's PA MPHe is currently known as Harispattu Dhammaratana Thera.
-
-The MP is said to have decided to enter the monk after the death of his wife.
-
-◼️
-
-[Data](articles/ea44d0aa.json)
-
-[Extended Data](ext_articles/ea44d0aa.ext.json)
-
----
-
-### Another State Minister of State for Janaka Wakumbe
-
-*2024-02-20 18:52:50* · [`adalk`](https://www.ada.lk/breaking_news/ජානක-වක්කුඹුරට-තවත්-රාජ්‍ය-අමාත්‍යධුරයක්/11-408198) · `si`
-
-Janaka Wakkumbura was sworn in as the Minister of Provincial Councils and Environment in the Presidential Secretariat today (20) before President Ranil Wickremesinghe.
-
-The new appointment has been made in addition to the post of Minister of Local Government and Local Government.
-
-Presidential Secretary Saman Ekanayake was also present at the occasion.
-
-◼️
-
-[Data](articles/878612c7.json)
-
-[Extended Data](ext_articles/878612c7.ext.json)
-
----
-
-### We have now posted the largest privation in the country
-
-*2024-02-20 18:46:58* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ඉතිහාසයේ-විශාලතම-පෞද්ගලීකරණය-අප-දැන්ආරම්භ-කර-තිබෙනවා/11-408197) · `si`
-
-President Ranil Wickremesinghe said that the government is committed to uplifting Sri Lanka as an exporter of the agricultural sector as a major agricultural crop exporter.
-
-The President said that agriculture had played a huge role in the past economic crisis in Sri Lanka as two main areas where the country could be reorganized.
-
-President Ranil Wickremesinghe addressing the inauguration session of the United Nations Food and Agriculture Conference in Colombo today (20th) this morning.
-
-Director General of the United Nations Food and Agriculture Organization (UN FAO) Dr.. Qu Dongyu was also present.
-
-The conference commenced in Colombo on the participation of 46 members of the United Nations Food and Agriculture Organization, the US, China and Russia ended at the 194th tomorrow.
-
-In 2022, Bangladesh hosted the conference, from now until 2026, Sri Lanka will be chaired by the United Nations Food and Agriculture Organization.
-
-...
-
-[Data](articles/fbd3096b.json)
-
-[Extended Data](ext_articles/fbd3096b.ext.json)
-
----
-
-### Russia arrests dual US citizen for Ukraine-linked ‘treason’
-
-*2024-02-20 18:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russia-arrests-dual-US-citizen-for-Ukraine-linked-treason/108-277413) · `en`
-
-Feb 20 (Al Jazeera) - Russia’s internal security and intelligence agency has arrested a woman who holds dual Russian and United States nationality in the Ural district for committing “treason” by raising funds for Ukraine.
-
-The Federal Security Service (FSB) in the city of Yekaterinburg took into custody the unnamed woman, identified only as a 33-year-old resident of Los Angeles, state media reported on Tuesday.
-
-She “was involved in providing financial assistance to a foreign state in activities directed against the security of our country”, said a statement by the security agency carried by Russian media.
-
-It said since February 2022, she was “proactively collecting money” for a Ukrainian organisation that would ultimately benefit the Ukrainian armed forces in the form of purchase of “tactical medicine items, equipment, weapons and ammunition”.
-
-...
-
-[Data](articles/37de90db.json)
-
-[Extended Data](ext_articles/37de90db.ext.json)
-
----
-
-### Sri Lanka Central Bank pay hike questioned in parliament
-
-*2024-02-20 18:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-pay-hike-questioned-in-parliament-151682/) · `en`
-
-ECONOMYNEXT – Steep salary hikes said to have been given to central bank staff came under fire in parliament with the Chief Opposition whip questioning how such large increments were made.
-
-“It says a 700,000 increment was given to a deputy governor and 75,000 to an office assistant,” questioned in parliament Tuesday.
-
-“These are the people who say tighten your belts, reduce staff, taxes have to be raised,” Kiriella pointed out.
-
-“It would be good if people are willing to work for less, but the fact is salary scales for these roles remain high around the world,” State Minister for Finance Ranjith Siyambalapitiya said.
-
-In the last three years “99 Central Bank employees, 10 percent of that grade, left the island,” Siyambalapitiya said, adding that “We have to try to retain economists of a high caliber.”
-
-“What economic knowledge? These are the people who bankrupted the country’s economy!” Kiriella rebutted. (Colombo/Feb20/2024)
-
-◼️
-
-[Data](articles/ab1d5496.json)
-
-[Extended Data](ext_articles/ab1d5496.ext.json)
-
----
-
-### Cabinet approval to prepare composite draft bill on child rights
-
-*2024-02-20 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97414/cabinet-approval-to-prepare-composite-draft-bill-on-child-rights) · `en`
-
-In response to growing concerns over the protection and welfare of children in Sri Lanka, the Cabinet of Ministers has approved a proposal calling for the preparation of the composite draft bill on child rights.
-
-The relevant proposal was submitted by President Ranil Wickremesinghe, in his capacity as the Minister of Women, Child Affairs and Social Empowerment.
-
-Accordingly, the Legal Draftsman will be directed to prepare the composite act, enshrining the rights declared in the UN Convention on the Rights of the Child, in addition to the existing legal provisions pertaining to the protection of child rights, a statement said.
-
-◼️
-
-[Data](articles/8a9c6a5d.json)
-
-[Extended Data](ext_articles/8a9c6a5d.ext.json)
 
 ---

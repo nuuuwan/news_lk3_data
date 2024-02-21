@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 09:51:31**
+As of **2024-02-21 10:02:41**
 
 ## Newspaper Stats
 
-*Scraped **8,380** Articles*
+*Scraped **8,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 713
 adaderanalk | 1,011
 tamilmirrorlk | 1,036
 virakesarilk | 1,120
-adaderanasinhalalk | 1,220
+adaderanasinhalalk | 1,221
 dailymirrorlk | 1,239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,380 (100.0%) of 8,380 articles have been extended.
+8,381 (100.0%) of 8,381 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Parliamentary Council begins
+
+*2024-02-21 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193638) · `si`
+
+Parliamentary Business has commenced under the patronage of the Deputy Speaker.
+
+◼️
+
+[Data](articles/3f47bcc5.json)
+
+[Extended Data](ext_articles/3f47bcc5.ext.json)
+
+---
 
 ### Back firing;Death
 
@@ -1933,21 +1947,5 @@ The two police officers who were assaulted have been sent to the Judiciary of th
 [Data](articles/4266ef89.json)
 
 [Extended Data](ext_articles/4266ef89.ext.json)
-
----
-
-### Mindfulness programme for schoolchildren
-
-*2024-02-20 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Mindfulness-programme-for-schoolchildren/110-277407) · `en`
-
-The Education Ministry today launched the first "Mindfulness" programme for this year for schoolchildren at the Dharmapala Vidyalaya in Pannipitiya with the participation of Education Minister Susil Premajayantha.
-
-By conducting this programme in schools, children will be trained to focus their minds on a single goal.
-
-◼️
-
-[Data](articles/51464a68.json)
-
-[Extended Data](ext_articles/51464a68.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 03:02:25**
+As of **2024-02-22 03:17:19**
 
 ## Newspaper Stats
 
-*Scraped **8,587** Articles*
+*Scraped **8,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 156
 newsfirstlk | 363
 economynextcom | 442
 islandlk | 443
-dailyftlk | 462
+dailyftlk | 464
 adalk | 735
 adaderanalk | 1,035
 tamilmirrorlk | 1,065
@@ -26,27 +26,63 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,586 (100.0%) of 8,587 articles have been extended.
+8,587 (100.0%) of 8,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### மலையக வீட்டுத் திட்டங்களில்  அரசியல், தொழிற்சங்க ரீதியான நடவடிக்கைகள் தவிர்க்கப்பட வேண்டும் - வே. இராதாகிருஷ்ணன்
+### Seylan Bank records strong performance in FY23, despite challenging environment
+
+*2024-02-22 02:39:21* · [`dailyftlk`](https://www.ft.lk/business/Seylan-Bank-records-strong-performance-in-FY23-despite-challenging-environment/34-758773) · `en`
+
+Overall Statutory Liquid Assets Ratio at 38%; Total Capital Adequacy Ratio at 15.84%
+
+Seylan Bank yesterday said it posted strong performance in FY23 despite the challenging environment.
+
+The Net Interest Income of the Bank was reported as Rs. 40.1 billion in 2023 compared to Rs. 40.5 billion reported in 2022, a slight 1% drawback due to volatility in interest rates during the year. The Bank’s Net Interest Margin on Average Total Assets stood at 5.76% in 2023 compared to 6.33% in 2022.
+
+Net fee and commission income of the Bank has shown a notable growth of 16 % to Rs. 7 billion from Rs. 6 billion reported in previous year.  The growth in 2023 is mainly attributable to fee income from cards, loans and other financial services.
+
+The Bank’s Total Operating Income decreased by 3% to Rs. 49.5 billion in 2023 compared to Rs. 51 billion in the previous year mainly due to decrease in foreign exchange income.
+
+...
+
+[Data](articles/8d5bab42.json)
+
+---
+
+### Sun Match honours founder’s legacy with ‘Navatha Avidimu’
+
+*2024-02-22 02:35:11* · [`dailyftlk`](https://www.ft.lk/business/Sun-Match-honours-founder-s-legacy-with-Navatha-Avidimu/34-758772) · `en`
+
+Sun Match Company, the market leader and first company in Sri Lanka to produce wax coated safety matches under the trusted household brand ‘Soorya’ and manufacturer of incense, candles, and hygiene products, honoured the 21st death anniversary of its Founder, the late T.R.R. Rajan at an event recently held on 31 January 2024. The company marked the solemn anniversary by continuing its two-decade-long landmark corporate social responsibility initiative, ‘Navatha Avidimu’.
+
+...
+
+[Data](articles/ba66ce33.json)
+
+---
+
+### Political and trade union activities should be avoided in hill country housing projects - Way. Radhakrishnan
 
 *2024-02-22 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177005) · `ta`
 
-மலையகப் பெருந்தோட்டங்களில்  வீடுகளை நிர்மாணிக்கும் திட்டம் வரவேற்கத்தக்கது எனினும் அதில் அரசியல் மற்றும் தொழிற்சங்க ரீதியான செயற்பாடுகள் தவிர்க்கப்பட வேண்டும் என வே. இராதாகிருஷ்ணன் தெரிவித்தார்.
+The construction of houses in the upland plantations is welcome but the political and trade union activities should be avoided.. Radhakrishnan said.
 
-பாராளுமன்றத்தில் புதன்கிழமை (21) இடம்பெற்ற  நாட்டின் தற்போதைய நிலைமை தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்தார்.
+He said this while addressing the debate on the current state of the country held in Parliament on Wednesday (21).
 
-தோட்ட மக்களுக்கு அன்று ஆரம்பிக்கப்பட்ட ஏழு பேர்ச் காணியில் தான் வீடுகள் கட்டப்பட்டன. அந்த வகையில்  இப்போதும் எந்த முன்னேற்றமும் இல்லாமல் அதேயளவு காணிகளிலேயே வீடுகள் நிர்மாணிக்கப்படவுள்ளன. அதில் மாற்றங்களைக் கொண்டு வருவது அவசியம் அத்துடன் பாதிக்கப்பட்டவர்களுக்கு முன்னுரிமை வழங்குவதும் முக்கியம். மலையகப் பெருந்தோட்டங்களில்  வீடுகளை நிர்மாணிக்கும் திட்டம் வரவேற்கத்தக்கது எனினும் அதில் அரசியல் மற்றும் தொழிற்சங்க ரீதியான செயற்பாடுகள் தவிர்க்கப்பட வேண்டும்
+Houses were built on seven perch land that started on the people of the plantation. In that respect, the houses will be constructed in the same land without any improvement. It is important to bring changes to it as well as prioritizing the victims. The construction of houses in the upland plantations is welcome, but political and trade union activities should be avoided.
 
-அத்துடன் அஸ்வெசும திட்டத்தின் மூலம் வழங்கப்படும் 15,000 ரூபா தோட்ட மக்களுக்கு கிடைக்கச் செய்ய வேண்டும்.
+In addition, the 15,000 rupees provided by the Assembly scheme should be made available to the plantation people.
+
+There have been many changes in the country since 2020. The government of Ranil Wickremesinghe is now in power and the problems of the people have not been solved.
 
 ...
 
 [Data](articles/60f3baa4.json)
+
+[Extended Data](ext_articles/60f3baa4.ext.json)
 
 ---
 
@@ -2083,39 +2119,5 @@ Meanwhile, 1.6 percent in December 2023, food inflation increased to 4.1 percent
 [Data](articles/76b6ae31.json)
 
 [Extended Data](ext_articles/76b6ae31.ext.json)
-
----
-
-### Sri Lanka and Iran discuss bilateral cooperation, violence in Gaza
-
-*2024-02-21 15:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-iran-discuss-bilateral-cooperation-violence-in-gaza-151832/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe and Iran’s Minister of Foreign Affairs Hossein Amir-Abdollahian have discussed the Persian Gulf’s crucial role in broader Indian Ocean security, the ongoing violence in Gaza and opportunities for enhancing bilateral cooperation.
-
-Amir-Abdollahian, who is an official visit, met Wickremesinghe at the Presidential Secretariat on Tuesday evening.
-
-“President Wickremesinghe reiterated the Sri Lankan government’s firm stance on the Gaza conflict, emphasizing the immediate necessity for violence cessation and the urgent need for a peace settlement,” a statement by the president’s media division said.
-
-“He underscored the principle that any peace agreement must be inclusive and not based solely on the demands of either side. Additionally, the President proposed the establishment of a Palestinian State within a timeframe of five years, ensuring the security of both Palestine and Israel.”
-
-...
-
-[Data](articles/b45c6a78.json)
-
-[Extended Data](ext_articles/b45c6a78.ext.json)
-
----
-
-### Against privatising public institutions
-
-*2024-02-21 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-privatising-public-institutions/110-277487) · `en`
-
-The National Resources Protection Movement (NRPM) staged a protest in Colombo today against the government’s moves to privatize several public institutions. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/b9fc4b8d.json)
-
-[Extended Data](ext_articles/b9fc4b8d.ext.json)
 
 ---

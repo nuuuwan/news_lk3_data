@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 10:17:39**
+As of **2024-02-21 10:33:05**
 
 ## Newspaper Stats
 
-*Scraped **8,387** Articles*
+*Scraped **8,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,43 @@ colombotelegraphcom | 91
 bbccomsinhala | 105
 dbsjeyarajcom | 156
 newsfirstlk | 363
-economynextcom | 429
+economynextcom | 430
 islandlk | 443
-dailyftlk | 454
+dailyftlk | 456
 adalk | 713
-adaderanalk | 1,011
+adaderanalk | 1,013
 tamilmirrorlk | 1,036
 virakesarilk | 1,126
 adaderanasinhalalk | 1,221
-dailymirrorlk | 1,239
+dailymirrorlk | 1,243
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,381 (99.9%) of 8,387 articles have been extended.
+8,387 (99.9%) of 8,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Electricity tariff to be reduced in greater margin than earlier proposed: Minister
+
+*2024-02-21 09:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-tariff-to-be-reduced-in-greater-margin-than-earlier-proposed-Minister/108-277469) · `en`
+
+The government had decided to reduce the electricity tariff in a greater margin than proposed in the earlier proposal and that the amended proposal would be submitted to the Public Utilities Commission of Sri Lanka (PUCSL) shortly, Power and Energy Minister Kanchana Wijesekara said yesterday.
+
+He told parliament that the Ceylon Electricity Board (CEB) had included expenditure in the proposal to complete the maintenance work which was due for the last four years within this financial year.
+
+The Minister said the government instructed the CEB not to include the said expenditure for the current financial year and allocate the funds for the maintenance within the next three years.
+
+He said the CEB was drafting a new proposal on electricity tariff after considering the various proposals made during the public hearing of the PUCSL and proposals made by various parties including engineers at universities on tariff revision to the CEB.
+
+...
+
+[Data](articles/c3ed7d66.json)
+
+---
 
 ### Parliamentary Council begins
 
@@ -46,47 +64,101 @@ Parliamentary Business has commenced under the patronage of the Deputy Speaker.
 
 ---
 
-### எட்கா ஒப்பந்தம் கைச்சாத்திடப்பட்டால் இந்தியர்கள்  இலங்கையின் நிரந்தர குடியேற்றவாசிகளாவர் - விமல் வீரவன்ச சாடல்
+### WHO team to travel to Sri Lanka to help eliminate leprosy
+
+*2024-02-21 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97424/who-team-to-travel-to-sri-lanka-to-help-eliminate-leprosy) · `en`
+
+A special medical team of the World Health Organization (WHO) specializing in leprosy is scheduled to travel to Sri Lanka in March.
+
+According to the Anti-Leprosy Campaign (ALC), the WHO will be helping the local health authorities to create a roadmap to eliminate leprosy from Sri Lanka over the next 10 years.
+
+Speaking further, ALC Director Dr. Prasan Ranaweera said the number of leprosy patients found in Sri Lanka has significantly increased.
+
+“Accordingly, we have already initiated a comprehensive program to eliminate leprosy from Sri Lanka. […] The World Health Organization has informed us it would send a team of specialist doctors here in March to assist this [initiative]. They will create a roadmap to eradicate leprosy within the next 10 years.”
+
+◼️
+
+[Data](articles/f8652cb9.json)
+
+---
+
+### If the Edka Agreement is signed, Indians are Sri Lankan permanent immigrants - Wimal Weerawansa Chadal
 
 *2024-02-21 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/176922) · `ta`
 
-200 ஆண்டுகளுக்கு முன்னர் தொழிலுக்காக அழைத்து வரப்பட்டவர்கள் இலங்கையில் நிரந்தரமாக குடி கொண்டதை போன்று எட்கா ஒப்பந்தம் கைச்சாத்திடப்பட்டால் இந்தியர்கள் இலங்கையில் நிரந்தரமாக குடி கொள்வார்கள். ஜனாதிபதியின் தேசியத்துக்கு எதிரான செயற்பாடுகளை பார்த்துக் கொண்டு பொதுஜன பெரமுனவினர் வெட்கமில்லாமல் இருக்கிறார்கள். பிரதமர் தினேஷ் குணவர்தன பூனை போல் செயற்படுகிறார். அமைச்சரவை உறுப்பினர்கள் முட்டாள்களை போல் உள்ளார்கள் என   தேசிய சுதந்திர முன்னணியின்   தலைவரும் பாராளுமன்ற உறுப்பினருமான விமல்   வீரவன்ச தெரிவித்தார்.
+If the Edka Agreement is signed as a permanent drinking in Sri Lanka 200 years ago, Indians will drink permanently in Sri Lanka. The PA is shameless to look at the anti -national activities of the president. Prime Minister Dinesh Gunawardena acts like a cat. Wimal Weerawansa, the leader of the National Freedom Front and Member of Parliament, said that the cabinet members are like fools.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (20) இடம்பெற்ற அமர்வில்  பிணைப் பொறுப்பாக்கப்பட்ட கொடுக்கல் வாங்கல்கள் சட்டமூலம், நம்பிக்கைப் பொறுப்பு பற்றுச்சீட்டுக்கள் (திருத்தச் ) சட்டமூலம் உள்ளிட்ட ஏழு சட்டமூலங்கள் இரண்டாம் வாசிப்புக்காக எடுத்துக் கொள்ளப்பட்டன.இவ்விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+At a session held in Parliament on Tuesday (20), seven Bill Bill, including the Bill of the Bill and the Believers of the Bill, the Bill, were taken for a second reading.
+
+It is not true that the ruling parties have said that the president has taken steps to recover from the economic impact, but only in the case of intensifying the crisis instead of the crisis.
+
+Primitting national institutions and state institutions will threaten national security. Therefore, the Mahanayaka Thera has urged the President to reconsider the restructuring resolutions.
 
 ...
 
 [Data](articles/6f352eb3.json)
 
+[Extended Data](ext_articles/6f352eb3.ext.json)
+
 ---
 
-### தமிழருக்கான அரசியலுக்கான தீர்வு : ஜனாதிபதியின் போலி வாக்குறுதிகள் இனியும் வெற்றி பெறாது - தமிழ் தேசிய கூட்டமைப்பு
+### Solution to Tamil Politics: President's fake promises no longer win - Tamil National Alliance
 
 *2024-02-21 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176921) · `ta`
 
-தமிழரின் பிரச்சினைகளுக்கு தீர்வு காண்பதாக  குறிப்பிட்டுக் கொண்டு சர்வதேசத்தை ஏமாற்றும் செயற்பாடுகளை மாத்திரம் ஜனாதிபதி மேற்கொள்கிறார். ஜனாதிபதி தேர்தலை இலக்காகக் கொண்டு' தமிழருக்கு அரசியல் தீர்வு என்று குறிப்பிடுகிறார். தமிழர் பிரச்சினைக்கு தீர்வு காண்பதற்கு  இந்த ஆண்டு முன்னேற்றகரமான நடவடிக்கைகளை எடுக்காவிடின்  அரசாங்கம் தோல்வி அடைவது உறுதி என தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் தெரிவித்தார்.
+The president only takes the international deceptive activities to address the problems of Tamils. The presidential election targets the election 'as a political solution for Tamils. Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam said that if the government does not take progress this year to address the Tamil issue, the government is sure to fail.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (20) இடம்பெற்ற அமர்வில்  பிணைப் பொறுப்பாக்கப்பட்ட கொடுக்கல் வாங்கல்கள் சட்டமூலம்,நம்பிக்கைப் பொறுப்பு பற்றுச்சீட்டுக்கள் (திருத்தச் ) சட்டமூலம் உள்ளிட்ட ஏழு சட்டமூலங்கள் இரண்டாம் வாசிப்புக்காக எடுத்துக் கொள்ளப்பட்டன. இவ்விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+Seven Bill Bill, including the Bill of the Bill, the Bill of the Bill, and the Bill of the Bill, were taken for a second reading at a session held in Parliament on Tuesday (20).. He mentioned the above.
+
+The government notes that new laws are being brought in to recover from the economic crisis. But last year alone, more than two lakhs of small and medium industries were closed. At present, about 11 thousand industries have been shut down.
 
 ...
 
 [Data](articles/0c624f9e.json)
 
+[Extended Data](ext_articles/0c624f9e.ext.json)
+
 ---
 
-### வங்கி கடன் செலுத்தல் 13 சதவீதத்தால் குறைவடைந்துள்ளன - நிதி இராஜாங்க அமைச்சர்
+### CEB to reduce electricity tariff rates by 18 percent?
+
+*2024-02-21 09:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-to-reduce-electricity-tariff-rates-by-18-percent/108-277460) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - The Ceylon Electricity Board (CEB) is planning to reduce electricity tariff rates by 18 percent soon, Daily Mirror learns.
+
+Earlier, the CEB said the price reduction is possible mainly due to the increased percentage of hydropower in the energy mix of the country. Sri Lanka received sufficient rainfall recently increasing the power generation capacity of major plants.
+
+It is now expected to submit proposals for tariff reduction to the Public Utilities Commission of Sri Lanka. The tariff rates were increased for the last time in October, last year.
+
+The decision to raise tariffs came after the Ceylon Electricity Board requested the PUCSL to adjust electricity prices to offset the costs incurred during periods of arid weather conditions in the South Asian country.
+
+Also, the CEB raised the tariff by 66 percent in February, and there was a reduction in the rates by 14 percent with effect from July.
+
+◼️
+
+[Data](articles/0c8b1363.json)
+
+---
+
+### Bank loans have been reduced by 13 percent - the Minister of Finance
 
 *2024-02-21 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/176919) · `ta`
 
-வாடிக்கையாளர்கள் வங்கிகளிடமிருந்து பெற்றுக் கொண்ட கடன்களை மீள் செலுத்தும் வீதம் 13 சதவீதத்தால் குறைவடைந்துள்ளன. நிதி நிலைமை தொடர்பில் எடுக்கப்பட்டுள்ள தீர்மானங்களை மறுசீரமைப்பதால் ஏற்படும் பாதிப்புக்கள் குறித்து மத்திய வங்கி விசேட கவனம் செலுத்தியுள்ளது என  நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்தார்.
+Customers have declined by 13 percent to repay loans received from banks. Finance Minister Ranjith Siyambalapitiya said that the Central Bank has paid special attention to the impacts of the resolution of the financial situation.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (20) இடம்பெற்ற அமர்வின் போது சிறு மற்றும் நடுத்தர தொழில் முயற்சியாளர்கள் எதிர்க்கொண்டுள்ள பிரச்சினைகள் குறித்து எதிர்க்கட்சித் தலைவர் உட்பட எதிரணியின் உறுப்பினர்கள் முன்வைத்த கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+In response to questions posed by the opposition members, including the Leader of the Opposition, on the issues faced by small and middle -class entrepreneurs during a session in Parliament on Tuesday (20).
 
-பொருளாதார பாதிப்புக்கு மத்தியில் ஒரு தரப்பினர் எதிர்கொண்டுள்ள நெருக்கடிகள் குறித்து மாத்திரம் விசேட கவனம் செலுத்த முடியாது. ஒட்டுமொத்த மக்களின் நலனையும் கருத்திற் கொண்டு தான் நிதி நிலைமை குறித்து முக்கிய தீர்மானங்கள் எடுக்கப்பட்டுள்ளன.
+Special attention cannot be paid to the crises faced by a party amid economic impact. Considering the welfare of the entire people, important decisions have been made on the financial situation.
 
-...
+It is essential to protect the country's bank structure.. There are 5 crore 75 lakh bank deposits in the country.
+
+Of these, 60 percent of depositors have less than 5,000 deposits. Therefore, the Central Bank has paid special attention to the fact that there will be any impact on any of the financial situation.
+
+◼️
 
 [Data](articles/d2107d68.json)
+
+[Extended Data](ext_articles/d2107d68.ext.json)
 
 ---
 
@@ -108,45 +180,61 @@ It is revealed that he is the relative of the organized offender called Wella Sa
 
 ---
 
-### மத்திய வங்கியின் சம்பள அதிகரிப்பு விவகாரத்தில் தலையிட முடியாது - நிதி இராஜாங்க அமைச்சர்
+### Central Bank's salary increase cannot be interfered with - Minister of Finance
 
 *2024-02-21 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176918) · `ta`
 
-மத்திய வங்கியின் அதிகாரிகள் சம்பள அதிகரிப்பை நிதி அமைச்சால் கட்டுப்படுத்த முடியாது,  தலையிடவும் முடியாது. ஒப்பந்தத்துக்கு அமைய மூன்று வருடத்துக்கு ஒருமுறை சம்பளம் அதிகரிக்கப்படுகிறது என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்தார்.
+Central Bank officials cannot control and intervene by the Ministry of Finance. Finance Minister Ranjith Siyambalapitiya said that the salary is increased every three years as per the agreement.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (20) இடம்பெற்ற அமர்வில் உரையாற்றிய எதிர்க்கட்சிகளின் உறுப்பினர்கள் 'நாடு வங்குரோத்து நிலையடைந்தமைக்கு மத்திய வங்கி பொறுப்புக் கூற வேண்டும் .நாட்டு மக்கள் பொருளாதார ரீதியில் பாதிக்கப்பட்டுள்ள நிலையில் மத்திய வங்கியின் அதிகாரிகளின் சம்பளத்தை மாத்திரம் இலட்சக்கணத்தில் அதிகரித்துள்ளமை நியாயமானதா' என கேள்வி எழுப்பினார்கள். இதற்கு பதிலளிக்கையில் இராஜாங்க அமைச்சர் மேற்கண்டவாறு குறிப்பிட்டார்.
+Speaking at a session in Parliament on Tuesday (20), members of the Opposition parties questioned that the central bank should be responsible for the banning of the country.. Responding to this, the Minister of State said the above.
 
-...
+The Central Bank operates independently.. So this salary increase cannot be controlled by the Ministry of Finance. The Central Bank of India will take a resolution on salary increase.
+
+Salary increases as possible as economists are in high positions in the central bank. Salaries are not paid through the joint fund. He said the salary is paid through the central bank's accounts.
+
+◼️
 
 [Data](articles/333faea0.json)
 
+[Extended Data](ext_articles/333faea0.ext.json)
+
 ---
 
-### ஐ.நா. அபிவிருத்தி நிதியத்தின் அனுசரணையில் இடம்பெறும் ஊடக செயலமர்வுக்கு தமிழ் ஊடகங்களுக்கும் அழைப்பு விடுக்கப்படும் - பந்துல குணவர்தன
+### The UN. Tamil media will also be invited to the media workshop sponsored by the Development Fund - Bandula Gunawardena
 
 *2024-02-21 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176917) · `ta`
 
-ஐக்கிய நாடுகள் அபிவிருத்தி நிதியத்தின் அனுசரணையில் ஊடகவியலாளர்களுக்கு நடத்தப்படும்  ஊடக தெளிவுபடுத்தல் செயலமர்வுகளுக்கு தமிழ், முஸ்லிம் ஊடகவியலாளர்களுக்கும் அழைப்பு விடுக்க நடவடிக்கை எடுக்கப்படும் என ஊடகத்துறை,போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+Media, Transport and Highways Minister Bandula Gunawardena said that Tamil and Muslim journalists will take steps to invite the media clarification to the media under the sponsor of the United Nations Development Fund.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (20) எதிர்க்கட்சி உறுப்பினர் வே. இராதாகிருஷ்ணன் எம்.பி எழுப்பிய கேள்வி ஒன்றுக்கு பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+Opposition Member of Parliament on Tuesday (20). Radhakrishnan said this in response to a question raised by the MP.
+
+Radhakrishnan MP. According to the fact that the journalists are being held in all areas of Sri Lanka. But the Tamil media is not invited to these workshops. The Tamil media has no invitation to the media workshop in Nuwara Eliya in the Nuwara Eliya District on the 21st. It has been reported that the lack of funds is due to the lack of funds and the Tamil media will be held alone on a different day. Do not divide this. He said the Tamil media should also call for the ongoing workshops.
 
 ...
 
 [Data](articles/fe947d18.json)
 
+[Extended Data](ext_articles/fe947d18.ext.json)
+
 ---
 
-### சபாநாயகர் தொடர்பான நம்பிக்கை இழக்கப்பட்டிருக்கிறது - எதிர்க்கட்சித் தலைவர்
+### Hope of Speaker has been lost - Leader of the Opposition
 
 *2024-02-21 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/176916) · `ta`
 
-நிகழ்நிலை காப்புச்சட்டத்துக்கு உயர் நீதிமன்றம் முன்வைத்திருந்த திருத்தங்களுக்கு என்ன நடந்தது என்பதை அரசாங்கம் தெளிவுபடுத்த வேண்டும்.  உயர் நீதிமன்றத்தின் தீர்வுகளை செயற்படுத்தாமல் இருப்பதன் மூலம் சபாநாயகர் தொடர்பான நம்பிக்கை இல்லாமல் போயிருக்கிறது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+The government should make it clear what happened to the amendments made by the High Court to the Ceremony.Opposition Leader Sajith Premadasa said that the Speaker's confidence in the Speaker has not been confident by not implementing the Supreme Court solutions.
 
-பல்வேறு சட்டமூலங்கள் தொடர்பாக உயர் நீதிமன்றம் தனது தீர்மானங்களை பாராளுமன்றத்துக்கு அனுப்பிவைக்கிறது. அவ்வாறு அனுப்பப்படும் நீதிமன்ற தீர்வுகளை அச்சிடுமாறும் சபையில் தெரிவிக்கப்படுகிறது. ஆனால் அவை சட்டமூலமாக அமையும்போது குறித்த உயர் நீதிமன்ற  திருத்தங்கள் திருத்தப்படுவதில்லை. அதனால் தான் சபாநாயகர் தொடர்பான நம்பிக்கை இல்லாமல் போயிருப்பதாக நாங்கள் தெரிவித்து வருகிறோம்.
+The High Court sends its decisions to Parliament on various bills. It is also reported to the House to print the court solutions sent. But when they are legal, High Court amendments are not amended. That is why we are saying that there is no confidence in the Speaker.
+
+In particular, the amendments made by the High Court to the Bill were not enacted when the Bill was admitted to Parliament, especially in Parliament.. No matter what to be done during the committee. We are obliged to implement the High Court's rulings and recommendations on the bills.
+
+So the Supreme Court has not even implemented amendments to the Supreme Court on 9 cases. So the government should make it clear what happens to those amendments.
 
 ...
 
 [Data](articles/768a951e.json)
+
+[Extended Data](ext_articles/768a951e.ext.json)
 
 ---
 
@@ -181,6 +269,26 @@ A shooting incident in Elapitawala, Ragama has left one person dead this morning
 [Data](articles/8fcd6102.json)
 
 [Extended Data](ext_articles/8fcd6102.ext.json)
+
+---
+
+### Shooting in Mahabage leaves a man dead
+
+*2024-02-21 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97423/shooting-in-mahabage-leaves-a-man-dead) · `en`
+
+A shooting incident in Mahabage has left a 39-year-old dead this morning (Feb.21), the police said.
+
+According to the police, two unidentified assailants who arrived on a motorcycle had opened fire around 7:15 a.m. near a meat shop in Elapitiwala Junction, Mahabage.
+
+The deceased was identified as Hettiarachchige Don Sujith, reportedly a relative of the criminal gang leader “Welle Saranga”. He was a resident of Kandana area and the owner of the said meat shop.
+
+The body of the deceased has been placed at the mortuary of the Colombo North Teaching Hospital in Ragama.
+
+Mahabage Police is conducting further investigations into the incident to apprehend the assailants.
+
+◼️
+
+[Data](articles/98f54a31.json)
 
 ---
 
@@ -464,6 +572,36 @@ Showers or thundershowers will occur at several places in Kalutara, Galle, Matar
 
 ---
 
+### Port City Colombo hosts exclusive networking session with Lord Marland
+
+*2024-02-21 06:10:51* · [`dailyftlk`](https://www.ft.lk/business/Port-City-Colombo-hosts-exclusive-networking-session-with-Lord-Marland/34-758705) · `en`
+
+The Port City Colombo (PCC) on Monday hosted a special business networking session with the Commonwealth Enterprise and Investment Council (CWEIC) Chairman Lord Marland at the Port City Colombo Sales Gallery.
+
+Acting as an excellent platform for PCC to present its upcoming investment prospects, this occasion showcased Lord Marland’s strong support for PCC’s investment promotion drive, through CWEIC, to attract potential investors from across the Commonwealth and beyond. State Minister of Investment Promotion Dilum S. Amunugama, was also present at the event, along with a host of other dignitaries representing state and business interests.
+
+...
+
+[Data](articles/690de034.json)
+
+---
+
+### JAT achieves key milestone as operations begins at Alkyd Resin plant in Bangladesh
+
+*2024-02-21 06:07:00* · [`dailyftlk`](https://www.ft.lk/business/JAT-achieves-key-milestone-as-operations-begins-at-Alkyd-Resin-plant-in-Bangladesh/34-758704) · `en`
+
+JAT Holdings PLC, has marked a key milestone on the 12 February, with the official commencement of operations at its new Alkyd Resin plant in Bangladesh.
+
+The plant has been purpose-designed and built by JAT Holdings PLC, through its wholly-owned subsidiary in Bangladesh, Asia Coating Ltd.
+
+This achievement marks a positive moment for JAT Holdings PLC, as its new Alkyd Resin Plant will help to boost the Group’s margins as a result of improved backward vertical integration. The new plant is designed to manufacture primary raw materials for solvent-based polyurethane, nitrocellulose, and enamel wood coatings and paint. JAT is Sri Lanka’s market leader in wood coatings and brushes, and emerging regional paint manufacturer.
+
+...
+
+[Data](articles/3738844e.json)
+
+---
+
 ### Royal College Principal reacts to Daily FT article and Padmasena Dissanayake responds
 
 *2024-02-21 05:06:29* · [`dailyftlk`](https://www.ft.lk/opinion/Royal-College-Principal-reacts-to-Daily-FT-article-and-Padmasena-Dissanayake-responds/14-758703) · `en`
@@ -660,6 +798,26 @@ However, the court has further stated that it could be passed by a simple majori
 
 ---
 
+### Lifeline for borrowers under Revival Units: CB
+
+*2024-02-21 04:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lifeline-for-borrowers-under-Revival-Units-CB/108-277443) · `en`
+
+Asserts one of the key objective of BRU is to provide breathing space for businesses to recover
+
+Says parate-execution can be suspended for a pre-agreed period with both parties agreeing
+
+Points out banks are not giving proper instructions to their branches
+
+While some borrowers have criticised the loan recovery methods of financial entities, the Central Bank (CB) has stated that under the proposed detailed guidelines for the establishment of Business Revival Units, borrowers can negotiate with their banks to stay financially afloat.
+
+Under the proposed guidelines, measures are included to provide breathing space for businesses to recover.
+
+...
+
+[Data](articles/3e56c025.json)
+
+---
+
 ### The model is not affected by the proposed fisheries law
 
 *2024-02-21 03:29:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உத்தேச-கடற்றொழில்-சட்டத்தால்-பாதிப்பு-இல்லை/175-333561) · `ta`
@@ -791,6 +949,46 @@ Lecoils of Pitipinations: What is the dispute between the ards and fishermen of 
 [Data](articles/de43c59f.json)
 
 [Extended Data](ext_articles/de43c59f.ext.json)
+
+---
+
+### February tourist arrivals exceed 138,000 in 18 days
+
+*2024-02-21 02:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/February-tourist-arrivals-exceed-138-000-in-18-days/108-277442) · `en`
+
+A group of tourists taking a breather from sightseeing in Colombo - Pic by Pradeep Pathirana
+
+Sri Lanka’s tourism surge shows no sign of slowing down, with more than 138,000 international visitors exploring the island nation just in the first 18 days of February.
+
+This figure already surpasses last year’s numbers for the entire month, when 107,639 tourists arrived, data from Sri Lanka Tourism Development Authority (SLTDA) showed. If this pace continues, Sri Lanka is poised to exceed 200,000 visitors for the third consecutive month.
+
+The daily arrival average has increased to 7,707, while the weekly arrival is around 53,000 for the month of February so far.
+
+In the first two weeks of February, in addition to air travel, visitors entered the country by sea as well.
+
+...
+
+[Data](articles/550808ec.json)
+
+---
+
+### US sanction-hit Iran explores new partnerships with crisis-hit Sri Lanka
+
+*2024-02-21 00:38:00* · [`economynextcom`](https://economynext.com/us-sanction-hit-iran-explores-new-partnerships-with-crisis-hit-sri-lanka-151708/) · `en`
+
+ECONOMYNEXT – Iran, which is still grappling with a 2012 economic sanction imposed by the United States is exploring new ventures and trade and investment in Sri Lanka, the island nation which is still recovering from an unprecedented economic crisis.
+
+Iranian Foreign Minister Amir Abdullahian met top Sri Lankan government officials including President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, and his counterpart Ali Sabri on Tuesday (20).
+
+Sri Lanka is unable to pay for Iran investment and imports due to the US sanctions, but it has successfully started paying for the dues in crude imports before 2012 through a “tea for oil” deal.
+
+Iranian Foreign Minister comes after an official visit from Sri Lanka Foreign Minister Ali Sabri when he went to Tehran in August last year.
+
+His visit also comes ahead of Iran President Ebrahim Raisi’s official visit later this year, government officials said.
+
+...
+
+[Data](articles/765d147d.json)
 
 ---
 
@@ -1753,165 +1951,5 @@ It was decided to meditate and meditate on the occasional treatment of a severe 
 [Data](articles/fa2a515c.json)
 
 [Extended Data](ext_articles/fa2a515c.ext.json)
-
----
-
-### Cabinet nod to slash embarkation tax on ferry services between Sri Lanka and India
-
-*2024-02-20 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97413/cabinet-nod-to-slash-embarkation-tax-on-ferry-services-between-sri-lanka-and-india-) · `en`
-
-A proposal to reduce the embarkation tax currently charged from passengers leaving Sri Lanka by passenger vessels and passenger ships has been approved by the Cabinet of Ministers.
-
-As per the relevant proposal submitted by the Minister of Ports, Shipping and Aviation, the embarkation tax imposed on those travelling by passenger vessels is set to reduce be reduced to USD 5, while the fee for those travelling aboard passenger ships is set to be reduced to USD 20.
-
-The Cabinet also approved to grant free baggage allowance up to 60 kg for passengers traveling by passenger vessels.
-
-The proposal was approved by the Cabinet of Ministers in a bid to introduce a low-cost travel and transportation fee system between India and Sri Lanka, upon recognizing that the promotion of maritime passenger transport between the countries could potentially boost Sri Lanka’s tourism industry, the cabinet spokesman said.
-
-...
-
-[Data](articles/87b9d80e.json)
-
-[Extended Data](ext_articles/87b9d80e.ext.json)
-
----
-
-### The mysterious death of the Madrasa student;4 suspects arrested, including Sisirvi technician
-
-*2024-02-20 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/176893) · `ta`
-
-The Sainthamaruthu police have arrested four suspects, including the Sisiri technician, on the basis of the destruction of the main forecasts involving the Sisirvi scene on the mysterious death of the student.
-
-At the request of Moulavi, the police were ordered to arrest and highlight those who destroyed the Video of the Sisirvi videos at the request of Kalmunai Magistrate MSM Samsuddin last Thursday (15).
-
-Accordingly, four persons, including Sisirvi Technologist, were summoned to the Sainthamaruthu Police Station on Tuesday (20).. Under the guidance of Samsuddin, the Sub -Inspector of Police Rauf has been arrested.
-
-The arrested persons belonged to the Adalaichenai Sainthamaruthu area and were 30,26,22 and 23 years old.
-
-Steps have been taken to produce four suspects in the Kalmunai Magistrate's Court tomorrow (21).
-
-...
-
-[Data](articles/5115f562.json)
-
-[Extended Data](ext_articles/5115f562.ext.json)
-
----
-
-### Janaka Wakkumbura appointed State Minister of Environment
-
-*2024-02-20 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97412/janaka-wakkumbura-appointed-state-minister-of-environment) · `en`
-
-Janaka Wakkumbura has been sworn in as the State Minister of Provincial Councils, Local Government and Environment before President Ranil Wickremesinghe at the Presidential Secretariat in Colombo, a short while ago.
-
-The President’s Media Division reported that this appointment supplements his existing role as the State Minister of Provincial Councils and Local Government.
-
-◼️
-
-[Data](articles/11c33d2a.json)
-
-[Extended Data](ext_articles/11c33d2a.ext.json)
-
----
-
-### Janaka sworn in as Minister of Environment
-
-*2024-02-20 16:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-இராஜாங்க-அமைச்சராக-ஜானக-பதவிப்பிரமாணம்/175-333534) · `ta`
-
-President Ranil Wickremesinghe was sworn in as the Minister of Environment in the presence of President Ranil Wickremesinghe at the Presidential Secretariat.
-
-He has already been sworn in as the Minister of State for Environment and has now been sworn in as provincial councils and local government minister.
-
-◼️
-
-[Data](articles/23ffa4b8.json)
-
-[Extended Data](ext_articles/23ffa4b8.ext.json)
-
----
-
-### Janaka Wakumbura as Minister of Environment
-
-*2024-02-20 16:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-இராஜாங்க-அமைச்சராக-ஜானக-வக்கும்புர/175-333534) · `ta`
-
-President Ranil Wickremesinghe was sworn in as the Minister of Environment in the presence of President Ranil Wickremesinghe at the Presidential Secretariat.
-
-He has already been sworn in as the Minister of State for Environment and has now been sworn in as provincial councils and local government minister.
-
-◼️
-
-[Data](articles/3b6e462e.json)
-
-[Extended Data](ext_articles/3b6e462e.ext.json)
-
----
-
-### Janaka Wakumbura as Minister of Environment
-
-*2024-02-20 16:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-இராஜாங்க-அமைச்சராக-ஜானக-வக்கும்புர-பதவிப்பிரமாணம்/175-333534) · `ta`
-
-President Ranil Wickremesinghe was sworn in as the Minister of Environment in the presence of President Ranil Wickremesinghe at the Presidential Secretariat.
-
-He has already been sworn in as the Minister of State for Environment and has now been sworn in as provincial councils and local government minister.
-
-◼️
-
-[Data](articles/8c915e34.json)
-
-[Extended Data](ext_articles/8c915e34.ext.json)
-
----
-
-### Janaka Wakkumbura gets additional ministerial portfolio
-
-*2024-02-20 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Janaka-Wakkumbura-gets-additional-ministerial-portfolio/108-277408) · `en`
-
-Colombo, Feb 20 (PMD) - Janaka Wakkumbura has been appointed as the State Minister of Provincial Councils, Local Government and Environment.
-
-According to the President’s Media Division, he was sworn in before President Ranil Wickremesinghe at the Presidential Secretariat a short while ago.
-
-This appointment supplements his existing role as the State Minister of Provincial Councils & Local Government.
-
-◼️
-
-[Data](articles/70b0f671.json)
-
-[Extended Data](ext_articles/70b0f671.ext.json)
-
----
-
-### Janaka Wakkumbura is sworn in as the State Minister of Environment
-
-*2024-02-20 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193621) · `si`
-
-Another State Minister has been sworn in before President Ranil Wickremesinghe.
-
-Provincial Councils and Local Government Affairs Janaka Wakkumbura has been sworn in as the State Minister of Environment.
-
-◼️
-
-[Data](articles/9f016909.json)
-
-[Extended Data](ext_articles/9f016909.ext.json)
-
----
-
-### Riduraj, the iconic actor has passed away.
-
-*2024-02-20 16:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/சின்னத்திரை-நடிகர்-ரிதுராஜ்-காலமானார்/54-333533) · `ta`
-
-Amit Behal has confirmed his death close to his close friend and actor. Riduraj died on the night of his death.. He was recently admitted to hospital with pancreatic disease.
-
-He was admitted to the hospital a few years ago for pancreatic treatment and returned home, and he died of a heart attack. ”
-
-Actor Arshad Warsi posted on his Twitter page, “I am very sad to know that Ritu Raj has passed away. We lived in the same building and he was part of my first film as a producer. Losing a friend, the best actor. I miss you so much. ”
-
-Rituraj Singh's full name Rituraj Singh Chandravat Sisodia. He was born in the Sisodia Rajput family in Rajasthan's Kota. Native to Rajasthan, but not living properly in home state. Singh took off school in Delhi. At his young age, he went to the United States and returned to India at the age of 12. He settled in Mumbai in 1993.
-
-...
-
-[Data](articles/c9fc8631.json)
-
-[Extended Data](ext_articles/c9fc8631.ext.json)
 
 ---

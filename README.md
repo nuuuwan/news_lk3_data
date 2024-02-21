@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 15:02:41**
+As of **2024-02-21 15:17:37**
 
 ## Newspaper Stats
 
-*Scraped **8,456** Articles*
+*Scraped **8,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ economynextcom | 436
 islandlk | 443
 dailyftlk | 456
 adalk | 718
-adaderanalk | 1,021
+adaderanalk | 1,022
 tamilmirrorlk | 1,050
 virakesarilk | 1,131
 adaderanasinhalalk | 1,233
-dailymirrorlk | 1,253
+dailymirrorlk | 1,257
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,456 (100.0%) of 8,456 articles have been extended.
+8,456 (99.9%) of 8,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Rear Admiral Pradeep Rathnayake appointed as Navy Chief of Staff
+
+*2024-02-21 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rear-Admiral-Pradeep-Rathnayake-appointed-as-Navy-Chief-of-Staff/108-277485) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - Rear Admiral Pradeep Rathnayake has been appointed as the Chief of Staff of Sri Lanka Navy effective from 16th January by President Ranil Wickremesinghe.
+
+Commander of the Navy, Vice Admiral Priyantha Perera formally handed over the letter of appointment in this regard to Rear Admiral Pradeep Rathnayake at the Navy Headquarters today.
+
+Rear Admiral Pradeep Rathnayake is a distinguished past pupil of St. Thomas' College, Matale. He joined the Sri Lanka Navy in 1987 as an Officer Cadet of 17th intake, in the Executive branch. On successful completion of his basic training from the Naval and Maritime Academy, Trincomalee, he was commissioned as a Sub Lieutenant in 1989. The senior officer completed his Sub Lieutenant Technical Course at the Naval and Maritime Academy in 1992 and specialized in Marine Navigation from the Indian Navy in 1997. Advancing steadily in his professional journey, the senior officer reached the rank of Rear Admiral on 01st July 2021.
+
+...
+
+[Data](articles/f086633c.json)
+
+---
+
+### Parliament up in arms against salary hike for Central Bank employees
+
+*2024-02-21 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-up-in-arms-against-salary-hike-for-Central-Bank-employees/108-277484) · `en`
+
+Members of both the Government and the Opposition are up in arms against the recent salary hike granted to the employees of the Central Bank of Sri Lanka (CBSL).
+
+The latest attack came from Minister Nimal Siripala de Silva who said Parliament should be given the right to decide on the salary increments of the CBSL officials.
+
+"Parliament should approve any salary hikes for Central Bank officials as it is the legislature that has the power over finances. Let us bring in such a law," he said.
+
+"Do office assistants of the Central Bank perform any special role to become entitled to an exorbitant salary," he asked in response to the salary hike given to Central Bank office assistants.
+
+Chief Opposition Whip Lakshman Kiriella also criticised the salary hike.
+
+"The monthly salary of a Deputy Governor of the Central Bank has been increased to Rs. 1.6 million while a peon's salary has been increased by Rs. 70,000," he said.
+
+◼️
+
+[Data](articles/321436d4.json)
+
+---
+
+### Sri Lanka inflation to reach 5% during Q3-Q4: CBSL official
+
+*2024-02-21 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97433/sri-lanka-inflation-to-reach-5-during-q3-q4-cbsl-official) · `en`
+
+Sri Lanka’s inflation is expected to return to the government’s 5% target starting from the last two quarters of the year, a Central Bank of Sri Lanka (CBSL) official said on Wednesday, as the economy stabilises from a crippling financial crisis.
+
+The economy has shown signs of recovery in recent months, aided by a $2.9 billion International Monetary Fund (IMF) programme, after it went into freefall in 2022 due to a severe foreign exchange shortage.
+
+“Inflation is projected to reach 5% in the medium term, which is from about the third quarter to the end of the year,” S. Jegajeevan, the director of CBSL’s economic research department, told reporters.
+
+“The high base effect from the tax increases is expected to benefit inflation in early 2025 and possibly even bring it lower than 5%.”
+
+The South Asian country defaulted on its overseas debt in May 2022 after depleted foreign exchange reserves triggered worst financial crisis since independence from Britain in 1948.
+
+...
+
+[Data](articles/4a2153a2.json)
+
+---
 
 ### Court order issued preventing 10 trade unions from inconveniencing public
 
@@ -160,6 +218,22 @@ Iranian Foreign Minister Dr. Hussein Armir Abdullahin and External Affairs Minis
 
 ---
 
+### Sri Lanka to offer new restructuring plan to bondholders, report
+
+*2024-02-21 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-offer-new-restructuring-plan-to-bondholders-report/108-277480) · `en`
+
+(Bloomberg) -- Sri Lanka sent a new restructuring proposal to dollar bondholders through its adviser Lazard as the South Asian nation seeks to complete overhauling its defaulted debt, according to people familiar with the matter.
+
+A counter proposal to a bondholder group’s offer in October for a 20% haircut and the issuance of macro-linked bonds was conveyed through Lazard, the people said, declining to be named because negotiations are private. They did not elaborate on the details of the offer. Government representatives may travel to London soon to meet Sri Lanka’s commercial creditors, one of the people said.
+
+Completing the overhaul of Sri Lanka’s $27 billion of foreign debt is critical to ensure financing from the International Monetary Fund bailout keeps flowing. President Ranil Wickremesinghe said this month that authorities expect to complete the restructuring within the first six months of the year.
+
+...
+
+[Data](articles/23418f98.json)
+
+---
+
 ### Power of Parate execution law to be suspended: Siyambalapitiya
 
 *2024-02-21 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Power-of-Parate-execution-law-to-be-suspended-Siyambalapitiya/108-277479) · `en`
@@ -177,6 +251,24 @@ He said this while speaking at the adjournment debate moved by the Ipposition on
 [Data](articles/7fbd996b.json)
 
 [Extended Data](ext_articles/7fbd996b.ext.json)
+
+---
+
+### Parate execution law to be suspended: Siyambalapitiya
+
+*2024-02-21 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parate-execution-law-to-be-suspended-Siyambalapitiya/108-277479) · `en`
+
+Parliament, Feb. 21 (Daily Mirror)- Steps will be taken to suspend the powers of the Parate execution law for a certain period for the purpose of protecting the small and medium-scale entrepreneurs, State Minister of Finance Ranjith Siyambalapitiya said today.
+
+He told Parliament that the Cabinet paper on this will be submitted to the Cabinet next week.
+
+The Minister said Parate execution laws have been introduced for the safety of the banking sector and added that the Cabinet Paper will be submitted to suspend the powers of the law while protecting the safety of the banking sector as well.
+
+He said this while speaking at the adjournment debate moved by the Ipposition on the country’s situation.
+
+◼️
+
+[Data](articles/c4ffe525.json)
 
 ---
 
@@ -1903,99 +1995,5 @@ Co-Cabinet Spokesman Gunawardena assured that any amendments to the legislation 
 [Data](articles/2fb0d858.json)
 
 [Extended Data](ext_articles/2fb0d858.ext.json)
-
----
-
-### Iran and Sri Lanka to expand development cooperation, trade and investment
-
-*2024-02-21 04:32:20* · [`dailyftlk`](https://www.ft.lk/news/Iran-and-Sri-Lanka-to-expand-development-cooperation-trade-and-investment/56-758692) · `en`
-
-Prime Minister Dinesh Gunawardena and visiting Iranian Minister of Foreign Affairs Hossein Amir-Abdollahian yesterday held discussion on expanding close bilateral ties and development cooperation, trade and investment.
-
-The Prime Minister thanked Iran for the assistance provided for the Uma Oya hydro-electricity project which will add an additional 120 megawatts of power to the electricity grid. The Uma Oya Project, in addition to generation of electricity, provides 145 million cubic meters of water to irrigate 50,000 acres of dry land.
-
-Expressing satisfaction over the successful project, the Iranian Foreign Minister said Iran is keen to collaborate with Sri Lanka on future projects using their expertise on energy, water, agriculture, nanotechnology, pharmaceuticals and biotechnology.
-
-...
-
-[Data](articles/68de28cd.json)
-
-[Extended Data](ext_articles/68de28cd.ext.json)
-
----
-
-### Some sections of Anti-Terrorism Bill inconsistent with Constitution: Supreme Court
-
-*2024-02-21 04:30:49* · [`dailyftlk`](https://www.ft.lk/news/Some-sections-of-Anti-Terrorism-Bill-inconsistent-with-Constitution-Supreme-Court/56-758691) · `en`
-
-The Supreme Court has informed the Speaker of Parliament that some sections of the proposed Anti-Terrorism Bill are inconsistent with the Constitution and should be approved with a special majority and through a referendum.
-
-Deputy Speaker Ajith Rajapaksa announced yesterday that Sections 3, 40, 53 and 70 are inconsistent with the Constitution and should be approved by a two thirds majority and through a referendum.
-
-However, the court has further stated that it could be passed by a simple majority if the recommended amendments are accommodated.
-
-◼️
-
-[Data](articles/bc3d93e7.json)
-
-[Extended Data](ext_articles/bc3d93e7.ext.json)
-
----
-
-### Lifeline for borrowers under Revival Units: CB
-
-*2024-02-21 04:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lifeline-for-borrowers-under-Revival-Units-CB/108-277443) · `en`
-
-Asserts one of the key objective of BRU is to provide breathing space for businesses to recover
-
-Says parate-execution can be suspended for a pre-agreed period with both parties agreeing
-
-Points out banks are not giving proper instructions to their branches
-
-While some borrowers have criticised the loan recovery methods of financial entities, the Central Bank (CB) has stated that under the proposed detailed guidelines for the establishment of Business Revival Units, borrowers can negotiate with their banks to stay financially afloat.
-
-Under the proposed guidelines, measures are included to provide breathing space for businesses to recover.
-
-...
-
-[Data](articles/3e56c025.json)
-
-[Extended Data](ext_articles/3e56c025.ext.json)
-
----
-
-### The model is not affected by the proposed fisheries law
-
-*2024-02-21 03:29:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உத்தேச-கடற்றொழில்-சட்டத்தால்-பாதிப்பு-இல்லை/175-333561) · `ta`
-
-With the help of the World Food and Agricultural Organization, freshwater fisheries will be developed. The rights of the fisheries community will be protected through the proposed fisheries law. Fisheries Minister Douglas Devananda said they would not be affected.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-Arrangements are being made to implement the new Fisheries Bill. Fishing industry growth is expected to increase fish yields.
-
-The fishermen's unions have been informed about the proposed fisheries bill and their views have been taken to make amendments and present them in Parliament.. We promise that the rights of the fishermen are protected by the appropriate law and will not harm them. He said that foreign ships are not in the process of coming to Sri Lanka for fishing for fishing.. (A)
-
-◼️
-
-[Data](articles/0259fe06.json)
-
-[Extended Data](ext_articles/0259fe06.ext.json)
-
----
-
-### Iran's Foreign Minister meets Prime Minister
-
-*2024-02-21 03:24:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமருடன்-ஈரான்-வெளிவிவகார-அமைச்சர்-சந்திப்பு/175-333560) · `ta`
-
-A discussion between Prime Minister Dinesh Gunawardena and Iran's Foreign Minister Hussein Amir-Abdullahiya was held yesterday at the Alari House.
-
-Sri Lanka has agreed to export tea from Sri Lanka instead of $ 250 million to Iran for lubricant oil. (A)
-
-◼️
-
-[Data](articles/1e5c73e1.json)
-
-[Extended Data](ext_articles/1e5c73e1.ext.json)
 
 ---

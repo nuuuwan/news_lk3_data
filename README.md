@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 15:17:37**
+As of **2024-02-21 15:33:15**
 
 ## Newspaper Stats
 
-*Scraped **8,461** Articles*
+*Scraped **8,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 718
 adaderanalk | 1,022
 tamilmirrorlk | 1,050
 virakesarilk | 1,131
-adaderanasinhalalk | 1,233
+adaderanasinhalalk | 1,235
 dailymirrorlk | 1,257
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,456 (99.9%) of 8,461 articles have been extended.
+8,461 (100.0%) of 8,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### ලෝකයම කලඹන රුසියාවේ චන්ද්‍රිකා නාශක අවි
+
+*2024-02-21 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193654) · `si`
+
+රුසියාව විසින් මේ වසරේ දී චන්ද්‍රිකා නාශක අවි අභ්‍යාවකාශයේ රැඳවීමට ඉඩ ඇති බවට අමෙරිකානු බුද්ධි සේවා මඟින් සිදු කළ අනාවරණයක් නිසා ලොව පුරා ආරක්ෂක ක්‍රමෝපාය අංශවල කැලඹීමක් ඇති වී තිබේ.
+
+අභ්‍යවකාශයේ පෘථිවි කක්ෂයේ ස්ථානගත කෙරෙන එවැනි අවි මඟින් ඉමහත් විනාශයක් සිදු කළ හැකි බවට මත පළ වන අතර, එමඟින් මිනිසුන් නොව චන්ද්‍රිකා පමණක් ඉලක්ක කරගැනෙන බව තවත් පිරිසකගේ මතය වී ඇත.
+
+පසුගිය 2022 වසර මුල දී රුසියාව විසින් සිදු කරන ලද රහසිගත චන්ද්‍රිකා කක්ෂගත කිරීම් පිළිබඳ අධ්‍යයනය කරමින් අමෙරිකානු බුද්ධි අංශ ප්‍රකාශ කර ඇත්තේ, රුසියාව විසින් පෘථිවිය වටා රඳවා ඇති චන්ද්‍රිකා දහස් ගණනක් විනාශ කළ හැකි අවියක් සංවර්ධනය කරමින් සිටින බවයි.
+
+ඒ පිළිබඳ මේ අනාවරණය සිදු කර ඇත්තේ, අමෙරිකාවේ නිව්යෝක් ටයිම්ස් පුවත්පත මඟිනි.
+
+න්‍යෂ්ටික හැකියාවන් සහිත එවැනි අවියක් මඟින් රටවල් සහ වාණිජමය ලෙස උඩුගුවනේ කක්ෂගත කර ඇති දහස් සංඛ්‍යාත චන්ද්‍රිකා විනාශ කළ හැකි අතර, සිතියම්ගත කිරීම්වල සිට අන්තර්ජාල සහ ජංගම දුරකථන සම්බන්ධතා සඳහා යොදාගන්නා චන්ද්‍රිකා ද ඊට ඇතුළත් වන බවට අමෙරිකානු බුද්ධි අංශ අනතුරු අඟවා ඇත.
+
+...
+
+[Data](articles/45cb4fa8.json)
+
+---
+
+### ජස්ප්‍රිට් බුම්රාට විවේකයක්
+
+*2024-02-21 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193651) · `si`
+
+එංගලන්තයට එරෙහි ව පැවැත්වෙන සිව් වැනි ටෙස්ට් තරගයෙන් ඉන්දීය වේගපන්දු යවන ක්‍රීඩක ජස්ප්‍රිට් බුම්රා විවේක ගන්වා තිබේ.
+
+එළැඹෙන විස්සයි විස්ස ක්‍රිකට් ලෝක කුසලානය සහ ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලිය ඉලක්ක කරගනිමින් ඔහු විවේක ගන්වා ඇති බව වාර්තා වේ.
+
+මේ අතර, තරගාවලියේ දෙවැනි සහ තෙවැනි ටෙස්ට් තරග අහිමි වූ කේ.එල් රාහුල්ට සිව් වැනි ටෙස්ට් තරගය ද අහිමි වීමට නියමිත බව සඳහන් ය.
+
+ඉන්දියාව සහ එංගලන්තය අතර සිව් වැනි ටෙස්ට් ක්‍රිකට් තරගය මේ මස 23 වැනි දා ආරම්භ වීමට නියමිත යි.
+
+◼️
+
+[Data](articles/0b6aa725.json)
+
+---
 
 ### Rear Admiral Pradeep Rathnayake appointed as Navy Chief of Staff
 
@@ -45,6 +83,8 @@ Rear Admiral Pradeep Rathnayake is a distinguished past pupil of St. Thomas' Col
 ...
 
 [Data](articles/f086633c.json)
+
+[Extended Data](ext_articles/f086633c.ext.json)
 
 ---
 
@@ -68,6 +108,8 @@ Chief Opposition Whip Lakshman Kiriella also criticised the salary hike.
 
 [Data](articles/321436d4.json)
 
+[Extended Data](ext_articles/321436d4.ext.json)
+
 ---
 
 ### Sri Lanka inflation to reach 5% during Q3-Q4: CBSL official
@@ -87,6 +129,8 @@ The South Asian country defaulted on its overseas debt in May 2022 after deplete
 ...
 
 [Data](articles/4a2153a2.json)
+
+[Extended Data](ext_articles/4a2153a2.ext.json)
 
 ---
 
@@ -232,6 +276,8 @@ Completing the overhaul of Sri Lanka’s $27 billion of foreign debt is critical
 
 [Data](articles/23418f98.json)
 
+[Extended Data](ext_articles/23418f98.ext.json)
+
 ---
 
 ### Power of Parate execution law to be suspended: Siyambalapitiya
@@ -269,6 +315,8 @@ He said this while speaking at the adjournment debate moved by the Ipposition on
 ◼️
 
 [Data](articles/c4ffe525.json)
+
+[Extended Data](ext_articles/c4ffe525.ext.json)
 
 ---
 
@@ -1957,43 +2005,5 @@ National People’s Power (NPP) leader Anura Kumara Dissanayake recently downpla
 [Data](articles/734bfe76.json)
 
 [Extended Data](ext_articles/734bfe76.ext.json)
-
----
-
-### Eran questions Speaker under point of order
-
-*2024-02-21 04:34:56* · [`dailyftlk`](https://www.ft.lk/news/Eran-questions-Speaker-under-point-of-order/56-758694) · `en`
-
-Main Opposition SJB Parliamentarian Eran Wickramaratne yesterday questioned the Speaker by raising a question under the standing orders, whether the Constitutional Assembly, which has been established as an independent institution, has approved the rules for approving Bills adhering to proper methods.
-
-He also questioned whether the Secure Transactions Bill, which was taken for debate in Parliament, was referred to the Consultative Council (CC) of the concerned Ministry and received its approval.
-
-In the recent past when Parliament hastily passed online security Act, there was no required oversight committee report for it. Therefore, this question is especially directed because when an act is passed, it should be done constitutionally and in accordance with standing orders, he said
-
-...
-
-[Data](articles/409ca46b.json)
-
-[Extended Data](ext_articles/409ca46b.ext.json)
-
----
-
-### Bandula asserts sovereignty amid US concerns over Online Safety Act
-
-*2024-02-21 04:33:38* · [`dailyftlk`](https://www.ft.lk/news/Bandula-asserts-sovereignty-amid-US-concerns-over-Online-Safety-Act/56-758693) · `en`
-
-Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday reaffirmed Sri Lanka’s sovereignty and legislative authority in response to concerns raised by the US regarding the recently passed Online Safety Act.
-
-“Sri Lanka is not a State of the US but a sovereign country with the legislative power to enact laws for the country’s governance,” he said in response to a query posed at the post-Cabinet meeting media briefing.
-
-The comments came in the wake of expressions of concern from the US Ambassador in Colombo and US Under Secretary of State for Public Diplomacy Elizabeth Allen regarding the potential impact of the proposed amendments on freedom of expression, innovation and privacy.
-
-Co-Cabinet Spokesman Gunawardena assured that any amendments to the legislation would undergo Parliamentary scrutiny and the civil society organisations opposed to the legislation would have the opportunity to challenge it within the 14-day timeframe.
-
-...
-
-[Data](articles/2fb0d858.json)
-
-[Extended Data](ext_articles/2fb0d858.ext.json)
 
 ---

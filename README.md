@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 01:17:33**
+As of **2024-02-22 01:32:53**
 
 ## Newspaper Stats
 
-*Scraped **8,576** Articles*
+*Scraped **8,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 156
 newsfirstlk | 363
 economynextcom | 442
 islandlk | 443
-dailyftlk | 456
+dailyftlk | 457
 adalk | 735
 adaderanalk | 1,035
 tamilmirrorlk | 1,065
-virakesarilk | 1,149
+virakesarilk | 1,150
 adaderanasinhalalk | 1,257
 dailymirrorlk | 1,279
 
@@ -26,11 +26,29 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,576 (100.0%) of 8,576 articles have been extended.
+8,576 (100.0%) of 8,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### தேற்றாத்தீவு தாழ்நிலப் பகுதியிலிருந்து ஆண் ஒருவரின் சடலம் மீட்பு
+
+*2024-02-22 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177001) · `ta`
+
+மட்டக்களப்பு மாவட்டம் களுவாஞ்சிகுடி பொலிஸ் பிரிவுக்குட்பட்ட தேற்றாத்தீவு குடியிருப்பு கிராமத்தின் வீதியிலிருந்து ஆண் ஒருவரின் சடலம் புதன்கிழமை (21) மாலை மீட்கப்பட்டுள்ளதாக களுவாஞ்சிகுடி பொலிசார் தெரிவித்தனர்.
+
+இச்சம்பவம் தொடர்பில் மேலும் தெரியவருவதாவது… தேற்றாத்தீவு குடியிருப்பு கிராமத்தின் தாழ் நிலத்தை அண்டியுள்ள வீதில் சடலம் ஒன்று கிடப்பதாக பொலிசாருக்கு அப்பகுதி பொதுமக்கள் வழங்கி தகவலுக்கமைய அவ் இடத்திற்கு விரைந்த களுவாஞ்சிகுடி பொலிசார் விசாரணைகளை முன்னெடுத்து சடலத்தை மீட்டுள்ளனர்.
+
+இவ்வாறு சடலமாக மீட்கப்பட்டவர் தேற்றாத்தீவு குடியிருப்பு கிராமத்தைச் சேர்ந்த 84 வயதுடைய ஆறுமுகம் கிருஸ்ணபிள்ளை என அடையாளம் காணப்பட்டுள்ளார்.
+
+இந்நிலையில் களுவாஞ்சிகுடி நீதவான் நீதிமன்ற பதில் நீதிபதி வி.தியாகேஸ்வரன் அவர்களின் உத்தரவுக்கமைய சடலத்தைப் பார்வையிட்ட களுவாஞ்சிகுடி பிரதேச திடீர் மரணவிசாரணை அதிகாரி சிதம்பரப்பிள்ளை ஜீவரெத்தினம், சடலத்தை மட்டக்களப்பு போதனா வைத்தியாலைக்கு கொண்டு சென்று பிரேத பரிசோதனைக்கு உட்படுத்தமாறு உத்தரவிட்டுள்ளார்.
+
+...
+
+[Data](articles/a8448940.json)
+
+---
 
 ### 531 arrested in Jaffna
 
@@ -125,6 +143,24 @@ Sri Lanka required 36 off the last two overs, with Dasun Shanaka bringing the ch
 [Data](articles/772428b0.json)
 
 [Extended Data](ext_articles/772428b0.ext.json)
+
+---
+
+### Anura, Sajith, Champika: Presidential chances, hopes, targeted by abolition ambush
+
+*2024-02-21 23:30:00* · [`dailyftlk`](https://www.ft.lk/columns/Anura-Sajith-Champika-Presidential-chances-hopes-targeted-by-abolition-ambush/4-758738) · `en`
+
+“Ranil will have to go home even before his term of office, if he attempts to evade the Presidential election.”
+
+The interim report of the Presidential Commission headed by former Chief Justice Priyasath Dep, appointed to suggest electoral reforms, will be presented to President Wickremesinghe in April. This gives cause for apprehension on several counts.
+
+As a president who was appointed and not elected, and was not even elected to the legislature in the first place, Ranil has no mandate to examine, still less attempt wide-ranging arrangements which would require a change in or of the Constitution. His task is to complete his predecessor’s term on the basis of his mandate and that mandate was the opposite of one committed to abolishing the executive presidency.
+
+The SLPP has no mandate to support him in doing so, because it was elected on the contrary mandate.
+
+...
+
+[Data](articles/2ef550ff.json)
 
 ---
 
@@ -2073,47 +2109,5 @@ The Four Test match between India and England is scheduled to commence on the 23
 [Data](articles/0b6aa725.json)
 
 [Extended Data](ext_articles/0b6aa725.ext.json)
-
----
-
-### Rear Admiral Pradeep Rathnayake appointed as Navy Chief of Staff
-
-*2024-02-21 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rear-Admiral-Pradeep-Rathnayake-appointed-as-Navy-Chief-of-Staff/108-277485) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - Rear Admiral Pradeep Rathnayake has been appointed as the Chief of Staff of Sri Lanka Navy effective from 16th January by President Ranil Wickremesinghe.
-
-Commander of the Navy, Vice Admiral Priyantha Perera formally handed over the letter of appointment in this regard to Rear Admiral Pradeep Rathnayake at the Navy Headquarters today.
-
-Rear Admiral Pradeep Rathnayake is a distinguished past pupil of St. Thomas' College, Matale. He joined the Sri Lanka Navy in 1987 as an Officer Cadet of 17th intake, in the Executive branch. On successful completion of his basic training from the Naval and Maritime Academy, Trincomalee, he was commissioned as a Sub Lieutenant in 1989. The senior officer completed his Sub Lieutenant Technical Course at the Naval and Maritime Academy in 1992 and specialized in Marine Navigation from the Indian Navy in 1997. Advancing steadily in his professional journey, the senior officer reached the rank of Rear Admiral on 01st July 2021.
-
-...
-
-[Data](articles/f086633c.json)
-
-[Extended Data](ext_articles/f086633c.ext.json)
-
----
-
-### Parliament up in arms against salary hike for Central Bank employees
-
-*2024-02-21 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-up-in-arms-against-salary-hike-for-Central-Bank-employees/108-277484) · `en`
-
-Members of both the Government and the Opposition are up in arms against the recent salary hike granted to the employees of the Central Bank of Sri Lanka (CBSL).
-
-The latest attack came from Minister Nimal Siripala de Silva who said Parliament should be given the right to decide on the salary increments of the CBSL officials.
-
-"Parliament should approve any salary hikes for Central Bank officials as it is the legislature that has the power over finances. Let us bring in such a law," he said.
-
-"Do office assistants of the Central Bank perform any special role to become entitled to an exorbitant salary," he asked in response to the salary hike given to Central Bank office assistants.
-
-Chief Opposition Whip Lakshman Kiriella also criticised the salary hike.
-
-"The monthly salary of a Deputy Governor of the Central Bank has been increased to Rs. 1.6 million while a peon's salary has been increased by Rs. 70,000," he said.
-
-◼️
-
-[Data](articles/321436d4.json)
-
-[Extended Data](ext_articles/321436d4.ext.json)
 
 ---

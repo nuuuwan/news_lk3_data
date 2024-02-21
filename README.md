@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 16:03:08**
+As of **2024-02-21 16:17:38**
 
 ## Newspaper Stats
 
-*Scraped **8,473** Articles*
+*Scraped **8,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 718
 adaderanalk | 1,024
 tamilmirrorlk | 1,054
 virakesarilk | 1,134
-adaderanasinhalalk | 1,235
+adaderanasinhalalk | 1,238
 dailymirrorlk | 1,258
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,473 (100.0%) of 8,473 articles have been extended.
+8,473 (100.0%) of 8,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### රිජ්වේ රෝහලේ වකුගඩු සැත්කමෙන් පසු මියගිය දරුවා ගැන අධිකරණ නියෝගයක්
+
+*2024-02-21 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193658) · `si`
+
+කොළඹ රිජ්වේ ආර්යා ළමා රෝහලට ඇතුළත් කළ 03 හැවිරිදි දරුවෙක් වකුගඩු සැත්කමකින් අනතුරුව මිය යාමේ සිද්ධිය මිනීමැරුමක් බව අගතියට පත් පාර්ශ්වය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා අද (21) කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ ප්‍රකාශ කළේය.
+
+ඔහු සඳහන් කළේ ඒ සම්බන්ධයෙන් පොලීසිය සාධාරණ විමර්ශනයක් පවත්වා නොමැති බවත් ය.
+
+මෙම පැමිණිල්ල අද කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවල මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී අගතියට පත් පාර්ශ්වය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම සිද්ධියෙන් මියගිය දරුවා වකුගඩු දෙකක් සහිතව රෝහල්ගත වූ බවත් සැත්කමෙන් පසුව එම වකුගඩු දෙකම ඉවත් කර තිබෙන බව චෝදනා කළේය.
+
+මෙම සිද්ධියට සම්බන්ධ වෛද්‍යවරු විදේශ රටකට පළාගොස් ඇතැයි චෝදනා කළ ජනාධිපති නීතිඥවරයා, මෙය සම්පූර්ණයෙන්ම මිනීමැරුමක් බවත් කියා සිටියේය.
+
+මීට අදාළව තම සේවාදායකයින් පොලීසිය වෙත පැමිණිලි ඉදිරිපත් කළත් පොලීසිය මේ දක්වා විමර්ශනයක් පවත්වා නොමැති බවටත් ජනාධිපති නීතිඥවරයා චෝදනා කළේය.
+
+...
+
+[Data](articles/979a6700.json)
+
+---
+
+### පරිසර යුක්ති කේන්ද්‍රයෙන් අභියාචනාධිකරණයට ලේඛනයක්
+
+*2024-02-21 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193657) · `si`
+
+අලි - මිනිස් ගැටුම විසඳීමට ගත යුතු යෝජනා ඇතුළත් ලේඛනයක් පරිසර යුක්ති කේන්ද්‍රය විසින් අභියාචනාධිකරණයට භාර දී තිබේ.
+
+වනජීවී අමාත්‍යවරයා සහ වනජීවී අධ්‍යක්ෂ ජනරාල් ඇතුළු පිරිසකට එරෙහි ව ගොනු කර ඇති පෙත්සමක් අද (21) කැඳවූ අවස්ථාවේ එය අභියාචනාධිකරණයට ඉදිරිපත් කළ බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+
+අලි මිනිස් ගැටුම් පවතින ප්‍රදේශවල පදිංචිකරුවන්ගෙන්, ක්ෂේත්‍රයේ බුද්ධිමතුන් ඇතුළු විද්වතුන්ගෙන් අදහස් ලබා ගැනීමෙන් අනතුරු ව මෙම යෝජනාවලිය සකස් කර ඇති බව පෙත්සම්කාර පරිසර යුක්ති කේන්ද්‍රය වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණයට දැනුම් දී තිබේ.
+
+ඒ අනුව මෙම යෝජනාවලිය අධ්‍යයනය කර සුදුසු වැඩපිළිවෙළක් සකස් කිරීම සඳහා එහි පිටපත් වග උත්තරකරුවන්ට ලබාදෙන ලෙස අධිකරණය නියෝග කර ඇති බව සඳහන් ය.
+
+පෙත්සම ලබන මාර්තු මස 26 වැනි දා කැඳවීමට නියම කළ අධිකරණය, අලි මිනිස් ගැටුම නිරාකරණය කිරීම සඳහා සකස් කළ හැකි වැඩපිළිවෙළ සම්බන්ධයෙන් කරුණු දක්වන ලෙස වගඋත්තරකාර පාර්ශ්වයට නියෝග කළ බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/e6ee9840.json)
+
+---
 
 ### Inflation is constantly rising
 
@@ -75,6 +117,22 @@ One of them is a former military commander - I think that even though he is in t
 [Data](articles/b30eaf2a.json)
 
 [Extended Data](ext_articles/b30eaf2a.ext.json)
+
+---
+
+### උද්ධමනය තවත් ඉහළ ට
+
+*2024-02-21 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193656) · `si`
+
+ජාතික පාරිභෝගික මිල දර්ශකය අනුව 2024 ජනවාරි මාසයේදී මෙරට උද්ධමනය සියයට 6.5ක් දක්වා ඉහළගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව එම දර්ශකය අනුව 2023 වසරේ දෙසැම්බර් මාසයේදී උද්ධමනය සටහන් ව ඇත්තේ සියයට 4.2ක් ලෙසටය.
+
+මේ අතර 2023 වසරේ දෙසැම්බර් මාසයේ සියයට 1.6ක් ලෙස පැවති ආහාර උද්ධමනය 2024 ජනවාරි මාසයේදී සියයට 4.1ක් දක්වා ඉහළගොස් ඇත.
+
+◼️
+
+[Data](articles/76b6ae31.json)
 
 ---
 
@@ -1967,59 +2025,5 @@ Sri Lanka won the Sri Lankan team all over the tour of Afghanistan.
 [Data](articles/6ad8dd70.json)
 
 [Extended Data](ext_articles/6ad8dd70.ext.json)
-
----
-
-### Sale fepe for alleged
-
-*2024-02-21 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193633) · `si`
-
-The Mount Lavinia Division Criminal Investigation Department (Mt.
-
-Mt.
-
-The suspect has been arrested in connection with the sale of illegal drugs banned without the approval of a doctor.
-
-Police have recovered 9,032 illegal alcohol at the sale of these drugs.
-
-◼️
-
-[Data](articles/84752ed6.json)
-
-[Extended Data](ext_articles/84752ed6.ext.json)
-
----
-
-### The leprosy donkey is
-
-*2024-02-21 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193632) · `si`
-
-A special team of doctor is due to arrive in Sri Lanka next month regarding leprosy of the World Health Organization.
-
-Director of the Director Dr. Prasad Ranaweera stated that a road map is to be prepared to eliminate leprosy in the next ten years.
-
-"The leprosy eradication campaign is currently carrying a joint program to eliminate lills in Sri Lanka. This is because the discovery of leprosy patients has increased by about 10% over the year. We have informed the World Health Organization as a cooperation in March to send a special team of leprosy in March to our country. They hope to have a road map to eradicate leprosy in the next 10 years. We accepted it from the factor. There is one criteria to eliminate leprosy. You can't eliminate them at once. Therefore, it has to be obtained as zones as per leprosy. It will be done to do so with experts. "
-
-◼️
-
-[Data](articles/73abcf46.json)
-
-[Extended Data](ext_articles/73abcf46.ext.json)
-
----
-
-### à®‰à®¤à¯à®¤à¯‡à®š à®•à®Ÿà®±à¯à®±à¯Šà®´à®¿à®²à¯ à®šà®Ÿà¯à®Ÿà®®à¯ à®®à¯€à®©à®µ à®šà®®à¯‚à®•à®¤à¯à®¤à®¿à®©à¯ à®‰à®°à®¿à®®à¯ˆà®•à®³à¯ˆà®ªà¯ à®ªà®¾à®¤à®¿à®•à¯à®•à®¾à®¤à¯!
-
-*2024-02-21 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97420/-) · `en`
-
-à®‰à®²à®• à®‰à®£à®µà¯ à®®à®±à¯à®±à¯à®®à¯ à®µà®¿à®µà®šà®¾à®¯ à®…à®®à¯ˆà®ªà¯à®ªà®¿à®©à¯ (FAO) à®‰à®¤à®µà®¿à®¯à¯à®Ÿà®©à¯ à®¨à®©à¯à®©à¯€à®°à¯ à®®à¯€à®©à¯ à®µà®³à®°à¯à®ªà¯à®ªà¯ à®…à®ªà®¿à®µà®¿à®°à¯à®¤à¯à®¤à®¿ à®šà¯†à®¯à¯à®¯à®ªà¯à®ªà®Ÿà¯à®®à¯ à®Žà®© à®•à®Ÿà®±à¯à®±à¯Šà®´à®¿à®²à¯ à®…à®®à¯ˆà®šà¯à®šà®°à¯ à®Ÿà®•à¯à®³à®¸à¯ à®¤à¯‡à®µà®¾à®©à®¨à¯à®¤à®¾ à®¤à¯†à®°à®¿à®µà®¿à®¤à¯à®¤à®¾à®°à¯.
-
-à®‰à®¤à¯à®¤à¯‡à®š à®•à®Ÿà®±à¯à®±à¯Šà®´à®¿à®²à¯ à®šà®Ÿà¯à®Ÿà®¤à¯à®¤à®¿à®©à¯ à®Šà®Ÿà®¾à®• à®®à¯€à®©à®µ à®®à®•à¯à®•à®³à®¿à®©à¯ à®‰à®°à®¿à®®à¯ˆà®•à®³à¯ à®ªà®¾à®¤à¯à®•à®¾à®•à¯à®•à®ªà¯à®ªà®Ÿà¯à®µà®¤à¯‹à®Ÿà¯ à®…à®µà®°à¯à®•à®³à¯à®•à¯à®•à¯ à®Žà®¨à¯à®¤à®ªà¯ à®ªà®¾à®¤à®¿à®ªà¯à®ªà¯à®®à¯ à®à®±à¯à®ªà®Ÿà®¾à®¤à¯ à®Žà®©à®µà¯à®®à¯ à®…à®®à¯ˆà®šà¯à®šà®°à¯ à®•à¯à®±à®¿à®ªà¯à®ªà®¿à®Ÿà¯à®Ÿà®¾à®°à¯.
-
-...
-
-[Data](articles/b0cb829e.json)
-
-[Extended Data](ext_articles/b0cb829e.ext.json)
 
 ---

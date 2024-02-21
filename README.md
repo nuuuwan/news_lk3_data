@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 18:09:03**
+As of **2024-02-21 18:20:28**
 
 ## Newspaper Stats
 
-*Scraped **8,506** Articles*
+*Scraped **8,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 436
 islandlk | 443
 dailyftlk | 456
-adalk | 728
+adalk | 729
 adaderanalk | 1,028
 tamilmirrorlk | 1,055
 virakesarilk | 1,142
@@ -26,7 +26,7 @@ dailymirrorlk | 1,258
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,506 (100.0%) of 8,506 articles have been extended.
+8,506 (100.0%) of 8,507 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1025,6 +1025,24 @@ Shantha Jayasekera, who was serving as 18 years, was held recently to tribute pa
 [Data](articles/5c3bb67c.json)
 
 [Extended Data](ext_articles/5c3bb67c.ext.json)
+
+---
+
+### ශිෂ්‍යභට පුහුණුවට පැමිණි සිසු දෙපිරිසක් ගැටී සිසුන් 17ක් රෝහලට
+
+*2024-02-21 13:37:50* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යභට-පුහුණුවට-පැමිණි-සිසු-දෙපිරිසක්-ගැටී-සිසුන්-17ක්-රෝහලට/11-408215) · `si`
+
+රංටැඹේ ජාතික ශිෂ්‍ය භට පුහුණු මධ්‍යස්ථානයේ පුහුණුව සඳහා පැමිණි පාසල් දරුවන් අතර ඇති වු ගැටුමකින්, සුළු තුවාල ලබා ප්‍රතිකාර සඳහා දරුවන් 17 දෙනෙකු මහියංගණ මුලික රොහල අද (21) උදෑසන ඇතුලත් කර ඇති අතර, ඒම ඇතුලත් කරනු ලැබ සිටින සියළු සිසුන් සුළු තුවාල ලබා ඇති අතර, වෛද්‍යවරුන්ගේ පරික්ෂා කිරිම් වලින් අනතුරුව ‌රෝහලෙන් නික්ම යෑමට හැකි වෙතැයි රෝහල් ප්‍රකාශකයෙකු පැවසූහ.
+
+කිසිදු සිසුවෙකුට බරපතල තුවාල තත්වයක් නොමැති අතර සුළු තුවාල පමණක් ඇති බව පැවසේ. සිසුන් දෙපිරිසක් අතර ඇති වු සුළු සිද්ධික් ගැටුමක් දක්වා දුරදිග ගොස් ඇති බව පැවසේ.
+
+රංටැඹේ ජාතික ශිෂ්‍ය භට පුහුණු මධ්‍යස්ථානයේ  පුහුණුව සඳහා පැමිණ ඇත්තේ කොළඹ, ගම්පහ  යන දිස්ත්‍රික්කයන් ඇතුළු රට පුරා පාසැල්වල දරුවන් බව පැවසේ. දරුවන්ගේ ගැටුම සම්බන්ධයෙන් හසලක පොලිසිය විමර්ශණ සිදු කරති.
+
+මේ සම්බන්දයෙන් රංටැඹේ ජාතික ශිෂ්‍ය භට පුහුණු මධ්‍යස්ථානයෙන් විමසීමක් සිදු කල විට ආරක්ෂක අමාත්‍යංශයේ මාධ්‍ය ප්‍රකාශක වරයාගෙන් විස්තර ලබා ගත හැකි බවට ප්‍රකාශ කෙරිණි.
+
+◼️
+
+[Data](articles/d1dbc367.json)
 
 ---
 
@@ -2057,27 +2075,5 @@ The person who was supporting the meat shopping at the time of shooting commente
 [Data](articles/00945dbb.json)
 
 [Extended Data](ext_articles/00945dbb.ext.json)
-
----
-
-### Victoria Dam Light Vehicle Travel begins
-
-*2024-02-21 10:09:24* · [`adalk`](https://www.ada.lk/breaking_news/වික්ටෝරියා-වේල්ලෙන්-සැහැල්ලු-වාහන-ගමනයට-අවසරය--ඉල්ලයි/11-408206) · `si`
-
-A proposal to be given permission to run the permission of light vehicles on Victoria dam has been passed in the Kandy District Coordinating Committee recently.
-
-The committee has decided to facilitate transportation from Moragahamulla to the Kandy Peraiyamala from Moragahamulla to Authority to obtain the final decision.
-
-The driving vehicle driven by Victoria Dam has already been suspended on security reasons, the residents have to travel about 40 kilometers.The vehicle traffic is given to traffic on Victoria Dam at present.
-
-The Kandy District Secretary Chandana Tennakoon said that the Victoria Reservoir built as a multipurpose development proposal as a multipurpose development proposal, said that the people should not be prohibited.
-
-He said that the victoria reservoir is expected to have a large number of ilms, including hydro power generation, and the early residents have been unfair.
-
-...
-
-[Data](articles/32fcd028.json)
-
-[Extended Data](ext_articles/32fcd028.ext.json)
 
 ---

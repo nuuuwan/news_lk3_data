@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 14:33:00**
+As of **2024-02-21 14:51:18**
 
 ## Newspaper Stats
 
-*Scraped **8,453** Articles*
+*Scraped **8,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 436
 islandlk | 443
 dailyftlk | 456
 adalk | 718
-adaderanalk | 1,020
+adaderanalk | 1,021
 tamilmirrorlk | 1,050
 virakesarilk | 1,131
 adaderanasinhalalk | 1,231
@@ -26,11 +26,25 @@ dailymirrorlk | 1,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,453 (100.0%) of 8,453 articles have been extended.
+8,453 (100.0%) of 8,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Court order issued preventing 10 trade unions from inconveniencing public
+
+*2024-02-21 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97432/court-order-issued-preventing-10-trade-unions-from-inconveniencing-public-) · `en`
+
+The Fort Magistrate’s Court on Wednesday (21 Feb.) issued a court order preventing a group of trade unions from entering several places in Colombo during a protest march scheduled for today.
+
+As per the relevant court order, 10 trade unions have been prevented from entering the premises of the Finance Ministry, Presidential Secretariat, Central Bank of Sri Lanka (CBSL) and the President’s House, or inconveniencing the public or traffic.
+
+◼️
+
+[Data](articles/5218ab25.json)
+
+---
 
 ### Court orders five STF officers
 
@@ -1977,23 +1991,5 @@ Subsequently, he expressed his sympathies to family members, including his son, 
 [Data](articles/02ebe9c0.json)
 
 [Extended Data](ext_articles/02ebe9c0.ext.json)
-
----
-
-### Mano's child will cry if the child asks the spiral;Life
-
-*2024-02-21 03:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோவின்-பிள்ளையார்-சுழியை-பிள்ளையார்-கேட்டால்-அழுது-விடுவார்-ஜீவன்/175-333557) · `ta`
-
-Mano Ganesan, the leader of the Tamil Progressive Alliance, said, "I am Pillaiyar Sukuli for this 10000 home project.". If the child asks this, he will cry. I do not come to make a name -nourishing politics. "I came into politics to find permanent solutions," said Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress.
-
-He said this while addressing the debate on the second reading of the Seven Bill, including the Bill of the Bill, the Bureau of Relations (Amendment) Bill, the Bill of Tuesday in Parliament at a session held in Parliament yesterday.
-
-We implemented the housing scheme we got through the Government of India on the 19th of this month. We have introduced 1300 homes in 43 housing projects. This is the first phase of the 10000 housing scheme. Various comments were made on this project. In it, some people said that we are looking at the party. But we are still a list of beneficiaries.
-
-...
-
-[Data](articles/182a6f00.json)
-
-[Extended Data](ext_articles/182a6f00.ext.json)
 
 ---

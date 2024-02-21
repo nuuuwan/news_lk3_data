@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 17:17:24**
+As of **2024-02-21 17:33:22**
 
 ## Newspaper Stats
 
-*Scraped **8,481** Articles*
+*Scraped **8,488** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 436
 islandlk | 443
 dailyftlk | 456
 adalk | 718
-adaderanalk | 1,027
+adaderanalk | 1,028
 tamilmirrorlk | 1,055
-virakesarilk | 1,135
+virakesarilk | 1,141
 adaderanasinhalalk | 1,238
 dailymirrorlk | 1,258
 
@@ -26,11 +26,141 @@ dailymirrorlk | 1,258
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,480 (100.0%) of 8,481 articles have been extended.
+8,481 (99.9%) of 8,488 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Aquaman star Jason Momoa hails Sri Lanka’s mangrove restoration efforts
+
+*2024-02-21 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97439/aquaman-star-jason-momoa-hails-sri-lankas-mangrove-restoration-efforts) · `en`
+
+Hollywood actor Jason Momoa has congratulated Sri Lanka for being declared a UN World Restoration Flagship, in recognition of the island nation’s efforts to rebuild and restore its mangrove ecosystems.
+
+In a video statement, the United Nations Environment Programme (UNEP) Advocate for Life Below Water, commended the island nation.
+
+The Aquaman star further said: “As a native Hawaiian, I saw the impacts of climate change first had this year, the devastating lines of fires. We urgently need to revive the health of our lands, the coasts and oceans.
+
+“After the tsunami, the island of Sri Lanka also had to build back. And they did it using the power of nature as a solution versus fighting against it. I want to celebrate Sri Lanka for its recognition as the UN World Restoration Flagship.
+
+...
+
+[Data](articles/74801b11.json)
+
+---
+
+### இலங்கையர்களாக ஒன்றுபட்டால் நாட்டை துரித அபிவிருத்திக்கு இட்டுச் செல்லலாம் - 10 ஆவது தேசிய சாரணர் ஜம்போரியை ஆரம்பித்து வைத்து ஜனாதிபதி தெரிவிப்பு
+
+*2024-02-21 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176971) · `ta`
+
+அனைவரும் இலங்கையர்களாக ஒன்றுபட்டால் நாட்டை துரித அபிவிருத்திக்கு இட்டுச் செல்ல முடியும். அதனால் எதிர்கால சந்ததியினருக்கு மிகவும் பாதுகாப்பான நாட்டை கட்டியெழுப்ப முடியுமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+திருகோணமலை கோணேஷ்வரா இந்து கல்லூரி மைதானத்தில் ஏற்பாடு செய்யப்பட்டிருந்த 10 ஆவது தேசிய சாரணர் ஜம்போரியை இன்று புதன்கிழமை (21) ஆரம்பித்து வைத்து ஆற்றிய உரையிலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+இனம், மதம் என்ற அடிப்படையில் எவரும் சாரணர் ஜம்போரியின் இணைந்துகொள்வதில்லை எனத் தெரிவித்த ஜனாதிபதி  அனைத்து தருணங்களிலும் இலங்கையர்களாக ஒன்றுபடும் பட்சத்தில் பருத்தித்துறையில் இருந்து தேவேந்திரமுனை வரை ஒற்றுமையை ஏற்படுத்த முடியுமென வலியுறுத்தினார்.
+
+நாட்டுக்குத் தேவையான நல்ல பிரஜைகளை உருவாக்கும் சாரணர் அமைப்பை விரிவுபடுத்த ஒத்துழைப்பு வழங்குவதாகவும், அதற்காக சாரணர் இயக்கம் தொழில்நுட்ப அமைச்சுடன் இணைந்து செயற்படுவதற்கான வாய்ப்புகளை ஏற்படுத்திக் தருவதாகவும் ஜனாதிபதி இதன்போது உறுதியளித்தார்.
+
+...
+
+[Data](articles/dcf13340.json)
+
+---
+
+### நுவரெலியாவில் போக்குவரத்து அனுமதி பத்திரம் பெற்று தருவதாக கூறி இலஞ்சம் பெற்ற இரண்டு அதிகாரிகளுக்கு விளக்கமறியல்!
+
+*2024-02-21 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176982) · `ta`
+
+பொது போக்குவரத்து சேவையில் ஈடுப்படுத்தப்படும் தனியார் பேரூந்து ஒன்றுக்கு "C" தரம் அனுமதி பத்திரம் வழங்க 50,000 ரூபாய் லஞ்சம் பெற்ற  அதிகாரிகள் இருவரை மார்ச் மாதம் (04) ஆம் திகதி வரை விளக்கமறியலில் வைக்க நுவரெலியா மாவட்ட நீதவான் நீதிமன்ற நீதிபதி பிரபுதிகா லங்காதினி நேற்று  (20) செவ்வாய்கிழமை மாலை உத்தரவு பிறப்பித்தார்.
+
+மத்திய மாகாண பொது போக்குவரத்து திணைக்களத்தைச் சேர்ந்த நுவரெலியா மாவட்டத்திற்கு பொறுப்பான மாவட்ட முகாமையாளர் மற்றும் மேலும் ஒரு அதிகாரியை கொழும்பிலிருந்து வருகை தந்திருந்த இலஞ்சம் ஒழிப்பு திணைக்கள அதிகாரிகள் நேற்று  (20) பகல் நுவரெலியாவில் கைது செய்தனர்.
+
+இவ்வாறு கைது செய்யப்பட்ட இரு அதிகாரிகளை நுவரெலியா மாவட்ட நீதிமன்ற நீதிபதி பிரபுதிகா லங்காதினி முன்னிலையில் நேற்று (20) மாலை லஞ்சம் ஒழிப்பு திணைக்கள அதிகாரிகள் முன்னிலை படுத்தினர்.
+
+இதன்போது விசாரணையை மேற்கொண்ட நீதிபதி சந்தேக நபர்களான இரு அதிகாரிகளையும் எதிர்வரும் மார்ச் மாதம் 4 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவு பிறப்பித்தார்.
+
+...
+
+[Data](articles/73cbadf4.json)
+
+---
+
+### கச்சதீவு திருவிழாவை ரத்து செய்வதாக தமிழக வேர்க்கோடு பங்குத்தந்தை அறிவிப்பு!
+
+*2024-02-21 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176979) · `ta`
+
+இலங்கை - இந்தியா இருநாட்டு மீனவர்களும் கலந்து கொள்ளும் கச்சதீவு புனித அந்தோனியார் ஆலய திருவிழா மீனவர்களின் போராட்ட எதிரொலி காரணமாக இந்த ஆண்டு இந்திய தரப்பிலிருந்து எவரும் கலந்து கொள்ளப் போவதில்லை என வேர்க்கோடு  பங்குத்தந்தை சந்தியாகு அறிவித்துள்ளார்.
+
+மேலும், வெளிமாவட்டம் வெளி மாநிலங்களில் இருந்து கச்சதீவு திருவிழாவிற்கு படகுகளில் செல்ல பதிவு செய்தவர்கள் வீண் சிரமங்களை தவிர்க்க வேண்டும் எனவும், அவர்கள் விசைப்படக்கிற்கு செலுத்திய பணம் விரைவில் மீண்டும் வழங்கப்படும் என பங்குத்தந்தை தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/928beeea.json)
+
+---
+
+### மன்னார் - அடம்பன், முள்ளிக்கண்டல் பகுதியில் இருவர் சுட்டுக் கொலை ; சந்தேக நபர்கள் இருவர் கைது
+
+*2024-02-21 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/176974) · `ta`
+
+மன்னார் - அடம்பன், முள்ளிக்கண்டல் பகுதியில் இருவர் சுட்டுக் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் இருவர் கைது செய்யப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+
+உயிலங்குளம் மற்றும் மன்னார் பகுதிகளைச் சேர்ந்த 33 மற்றும் 55 வயதை உடைய குறித்த இருவரும் நேற்று செவ்வாய்க்கிழமை (20) மாலை  கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கடந்த ஆண்டு ஆகஸ்ட் 24 ஆம் திகதி இந்த இரட்டை கொலை சம்பவம் இடம்பெற்றுள்ளது.
+
+வயலுக்கு தண்ணீர் பாய்ச்சுவதற்காக மோட்டார் சைக்கிளில் பயணித்து கொண்டிருந்தவர்கள் மீது துப்பாக்கிப் பிரயோகம் நடத்தப்பட்டு இருந்தது.
+
+குறித்த துப்பாக்கிச் சூட்டில் மன்னார் நொச்சிக்குளம் பகுதியைச் சேர்ந்த ஜேசுதாசன் அருந்தவராஜா (வயது-42) மற்றும் மாந்தை மேற்கு பிரதேச செயலாளர் பிரிவில் உள்ள ஈச்சளவக்கை  கிராமத்தை சேர்ந்த கணபதி காளிமுத்து (வயது-56) ஆகியோரே  உயிரிழந்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் அடம்பன் பொலிஸ் நிலையத்தில் தடுத்துவைக்கப்பட்டு விசாரணைகளுக்கு உட்படுத்தப்பட்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/c37a5f40.json)
+
+---
+
+### கொவிட்தடுப்பூசிகளால் பல உடல்பாதிப்புகள் -சர்வதேச அளவில் மேற்கொள்ளப்பட்ட ஆய்வில் அதிர்ச்சி தகவல்கள்
+
+*2024-02-21 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176972) · `ta`
+
+சர்வதேச அளவில் தற்போது காணப்படும் நோய்கள் உடல்பாதிப்புகளிற்கு கொரோனா தடுப்பூசிகளே காரணமாகயிருக்கலாம் என்பது ஆய்வொன்றின் மூலம் தெரியவந்துள்ளது.
+
+கொவிட் பெருந்தொற்றுகாலத்தில் பொதுமக்கள் பயன்படுத்திய தடுப்பூசிகளே  தற்போது பலநாடுகளில் காணப்படும் பல நோய்களிற்கு காரணமாகயிருக்கலாம் என்பது குளோபல் வக்சின் டேட்டா நெட்வேர்க் என்ற அமைப்பின் ஆய்வின் மூலம் தெரியவந்துள்ளது.
+
+அவுஸ்திரேலியா கனடா உட்பட எட்டு நாடுகளில் சுமார் 100 மில்லியன் மக்களை இந்த அமைப்பு ஆய்விற்குட்படுத்தியுள்ளது.
+
+கொவிட் தடுப்பூசிகளிற்கும் சில மருத்துவநிலைகளிற்கும் இடையில்  தொடர்பிருப்பதை இந்த ஆய்வுகள் உறுதி செய்துள்ளன.
+
+தடுப்பூசி காரணமாக நரம்பியல் இரத்தம் இதயம் தொடர்பான பாதிப்புகள்ஏற்பட்டுள்ளன என ஜிவிடிஎன் செய்திக்குறிப்பொன்றில் தெரிவித்துள்ளது.
+
+குறிப்பாக மொடேர்னா தடுப்பூசி  போட்டவர்களிற்கு மயோகார்டிடிஸ் எனப்படும் இதய தசை பாதிப்பு ஏற்படுவது இந்த ஆய்வின் மூலம் தெரியவந்துள்ளது.
+
+இதேவேளை தடுப்பூசிகள் மூளையில் இரத்த உறைவு மற்றும் நரம்பியல் கோளாறு ஆகியவற்றுடன் தொடர்புபட்டுள்ளமையும் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/97cb5fc2.json)
+
+---
+
+### கடும் வெப்பம் ; 6 மாவட்டங்களுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை ; மக்களே அவதானம்
+
+*2024-02-21 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176966) · `ta`
+
+நாட்டில்  பல மாவட்டங்களில் வெப்பநிலை திடீரென அதிகரித்துள்ளது.  இதன் காரணமாக 6 மாவட்டங்களுக்கு வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+
+நாளை வியாழக்கிழமை (22) வடமேற்கு மாகாணம், கம்பஹா, கொழும்பு, அம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டம் மாவட்டங்களில்  அதிக வெப்பநிலை பதிவாகும் என்று தெரிவித்துள்ளது.
+
+வெளியிடங்களில் தேவையற்ற விதமாக நடமாடுவதை தவிர்க்குமாறும், அதிக நீரை பருகுமாறும், வெளிர்நிறத்திலான மெல்லிய ஆடையை  அணியுமாறும் அறிவுறுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2eb09915.json)
+
+---
 
 ### Research links COVID-19 vaccines with increased heart risks, brain and blood disorders
 
@@ -50,21 +180,25 @@ Despite the widespread vaccination efforts, a recent peer-reviewed study has now
 
 ---
 
-### கருவை சுமந்த 'கர்ப்பிணி ஆண்'
+### 'Pregnant Male'
 
 *2024-02-21 16:26:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கருவை-சுமந்த-கர்ப்பிணி-ஆண்/53-333602) · `ta`
 
-ஆண்கள் கர்ப்பம் அடைய முடியுமா என்பது குறித்து ஏராளமான மருத்துவ ஆராய்ச்சிகள் உலகம் முழுவதும் நடந்து வருகிறது. ஆனால் 36 ஆண்டுகளாக வயிற்றில் குழந்தையை சுமந்து வந்திருக்கிறார். 'கர்ப்பிணி ஆண்' (Pregnant Man) என்று அழைக்கப்பட்ட அந்த நபர் குறித்த விபரங்களை பலரும் அறிந்திருக்க மாட்டார்கள்.
+There is a lot of medical research on the world about whether men can get pregnant. But he has been carrying the baby in the stomach for 36 years. Many people are not aware of the details of the person called 'Pregnant Man'.
 
-அந்தவகையில், மகாராஷ்டிர மாநிலம் நாக்பூரில் சஞ்சு பகத் என்பவர் 1963 ஆம் ஆண்டு பிறந்தார். முதலில் சாதாரண நபரை போன்று தோற்றம் அளித்த அவர், 20 வயதுக்கு மேல் கர்ப்பம் தரித்த ஆண் போன்று காட்சியளிக்கத் தொடங்கினார். பின்னாளில்தான் அவரது வயிற்றில் அவருடன் பிறந்த ஒருவர் இருந்தது கண்டுபிடிக்கப்பட்டது. இந்த நிகழ்வு மிகப்பெரிய அளவில் கடந்த 1999 ஆம் ஆண்டு பேசப்பட்டது.
+In 1963, Sanju Bhagat was born in Nagpur, Maharashtra.. He first looked like a normal person and began to look like a pregnant man over 20 years old. It was only later that he found someone born with her in his stomach. The event was a huge speech in 1999.
 
-அதாவது தான் பிறந்ததில் இருந்து தன்னுடன் பிறந்த ஒருவரை தனது வயிற்றில் அவருக்கே தெரியாமல் வைத்திருந்தார் சஞ்சு பகத். இதனை மெடிக்கல் மிராக்கிள் என்று வைத்தியர்கள் தெரிவிக்கின்றனர்.
+That is, Sanju Bhagat kept a man who was born with him since his birth. Doctors say this is Medical Miracle.
 
-20 வயதுக்கு முன்பு வரை அவரது வயிறு சாதாரணமாக காட்சியளித்தது. அதன்பின்னர், வயிறு திடீரென பெரிதாகத் தொடங்கியதால் அவருக்கும் குடும்பத்தினருக்கும் அதிர்ச்சி ஏற்பட்டது.
+His stomach was normal until the age of 20. After that, the stomach suddenly began to giggle and was shocked by her and his family.
+
+At first he did not take care of this. It was difficult to breathe at one point to grow the stomach to grow up. Only then did he approach the doctor.
 
 ...
 
 [Data](articles/58f41787.json)
+
+[Extended Data](ext_articles/58f41787.ext.json)
 
 ---
 
@@ -1873,157 +2007,5 @@ A shooting incident in Elapitawala, Ragama has left one person dead this morning
 [Data](articles/8fcd6102.json)
 
 [Extended Data](ext_articles/8fcd6102.ext.json)
-
----
-
-### Shooting in Mahabage leaves a man dead
-
-*2024-02-21 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97423/shooting-in-mahabage-leaves-a-man-dead) · `en`
-
-A shooting incident in Mahabage has left a 42-year-old dead this morning (Feb.21), the police said.
-
-According to the police, two unidentified assailants who arrived on a motorcycle had opened fire using a revolver, around 7:15 a.m. near a meat shop in Elapitiwala Junction, Mahabage.
-
-The victim succumbed to injuries while being rushed to the Colombo North Teaching Hospital in Ragama.
-
-The deceased was identified as Hettiarachchige Don Sujith alias “Ukkuwa”, the brother-in-law of the criminal gang leader “Welle Saranga”. He was a resident of North Batagama in Ja-Ela and the owner of the said meat shop.
-
-The motive behind the shooting was not immediately clear, but a rival gang led by “Dubai Nipuna” is under suspicions of orchestrating the murder. Reports also revealed that Sujith had been receiving death threats from “Dubai Nipuna’s” gang.
-
-The body of the deceased has been placed at the mortuary of the Ragama Teaching Hospital.
-
-...
-
-[Data](articles/98f54a31.json)
-
-[Extended Data](ext_articles/98f54a31.ext.json)
-
----
-
-### Ragama shot
-
-*2024-02-21 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193636) · `si`
-
-Two unidentified persons who came in a motorcycle have been shot in the junction of the Mahabage Police Division around 7.15 am today.
-
-One person was killed after a shooting at the time, police said.
-
-It has been revealed that he is a relative of the organized criminal of the sand.
-
-◼️
-
-[Data](articles/32d9f896.json)
-
-[Extended Data](ext_articles/32d9f896.ext.json)
-
----
-
-### "The salary of the Central Bank Deputy Governor has increased to 7 lakhs"
-
-*2024-02-21 08:23:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கி-பிரதி-ஆளுநரின்-சம்பளம்-7இலட்சம்-ஆக-அதிகரித்துள்ளது/175-333564) · `ta`
-
-The monthly salary of central bank officials, which has made the country a bankruptcy, has been increased by 70 per cent.
-
-Opposition Prime Minister Lakshman Kiriella said that it was illegal to do so without notifying parliament.
-
-He said this while addressing the debate on the second assessment of the 9 Bill, including the Bill Bill, the Bureau of Trustees (Amendment) Bill, which was held in Parliament yesterday (20).
-
-The Central Bank Governor, the Secretary of the Ministry of Finance, has not revealed the country or the parliament when the country goes into the bankruptcy.
-
-But the Central Bank has given a 70 percent salary increase to the Central Bank officials who have not revealed the country's bankruptcy. How can the salary increase.
-
-They were advised by the entire country to tighten the pelvic bar and reduce the personnel in offices.
-
-But the salary of the Deputy Governor of the Central Bank has increased to 7 lakhs 12 thousand.
-
-...
-
-[Data](articles/c2f6dba7.json)
-
-[Extended Data](ext_articles/c2f6dba7.ext.json)
-
----
-
-### Today's climate forecast
-
-*2024-02-21 08:17:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-முன்னறிவிப்பு/175-333563) · `ta`
-
-The Department of Meteorology has predicted that rain or thunderstorms are occurring in some places in Kalutara, Galle, Matara and Ratnapura districts.
-
-Heavy winds are expected to blow up to 30 kilometers per hour from time to time in the Eastern Slips of the Central Highlands and the North Central, North Western, Uva, Southern and Eastern Provinces, Matale and Kandy districts.
-
-In some parts of the upper and Sabaragamuwa provinces, there is a snowfall in the morning.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts.
-
-There is a possibility of rain or thunderstorms in some areas beyond the coastal seas from Galle to Pottuvil via Hambantota.
-
-The winds are blowing from the northeastern direction in the seas around the country and the wind is expected to be 25-30 km per hour.
-
-...
-
-[Data](articles/fdf4487e.json)
-
-[Extended Data](ext_articles/fdf4487e.ext.json)
-
----
-
-### Allow to use English language for legal proceedings
-
-*2024-02-21 08:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்ட-நடவடிக்கைகளுக்கு-ஆங்கில-மொழியைப்-பயன்படுத்த-அனுமதி/175-333562) · `ta`
-
-The Government Information Department yesterday said that the English language is being considered to take legal action and registration in some courts.
-
-Details in the business of business activities are mainly used in the English language, and require a significant cost and time to translate those contents in Sinhala. Due to this, the department said that the long -term time to resolve trade disputes would result in entrepreneurship.
-
-“This situation has affected Sri Lanka's position in the rankings for easy business, considering the ability to conduct entrepreneurship in a country. In response, it is appropriate that the Minister of Justice is appropriate to issue an order in parallel with the Rule 24 (4) of the Constitution that allows the use of English with the approval of the Cabinet.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Justice, Prison Affairs and Constitutional Reforms to take necessary action in this regard.
-
-◼️
-
-[Data](articles/51ba3908.json)
-
-[Extended Data](ext_articles/51ba3908.ext.json)
-
----
-
-### English only to the law
-
-*2024-02-21 08:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்துக்கு-ஆங்கிலம்-மட்டும்/175-333562) · `ta`
-
-The Government Information Department yesterday said that the English language is being considered to take legal action and registration in some courts.
-
-Details in the business of business activities are mainly used in the English language, and require a significant cost and time to translate those contents in Sinhala. Due to this, the department said that the long -term time to resolve trade disputes would result in entrepreneurship.
-
-“This situation has affected Sri Lanka's position in the rankings for easy business, considering the ability to conduct entrepreneurship in a country. In response, it is appropriate that the Minister of Justice is appropriate to issue an order in parallel with the Rule 24 (4) of the Constitution that allows the use of English with the approval of the Cabinet.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Justice, Prison Affairs and Constitutional Reforms to take necessary action in this regard.
-
-◼️
-
-[Data](articles/f9bbb8a2.json)
-
-[Extended Data](ext_articles/f9bbb8a2.ext.json)
-
----
-
-### Iranian President invited for official visit to Sri Lanka
-
-*2024-02-21 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97422/iranian-president-invited-for-official-visit-to-sri-lanka) · `en`
-
-Iranian President Ebrahim Raisi has been invited for an official visit to Sri Lanka.
-
-Iranian Foreign Minister Hossein Amir-Abdollahian said on Tuesday during a visit to Sri Lanka that he had received the invitation for President Raisi’s visit to the capital Colombo.
-
-“This visit will be a priority for Iran despite Ayatollah Raisi’s busy schedule,” said the minister.
-
-Amir-Abdollahian arrived in Colombo late on Monday for talks with senior officials of the Sri Lankan government amid Iran’s efforts to boost its ties with the Indian Ocean island nation.
-
-◼️
-
-[Data](articles/f60cea5b.json)
-
-[Extended Data](ext_articles/f60cea5b.ext.json)
 
 ---

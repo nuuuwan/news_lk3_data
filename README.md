@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 06:16:45**
+As of **2024-02-21 06:53:24**
 
 ## Newspaper Stats
 
-*Scraped **8,355** Articles*
+*Scraped **8,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 712
 adaderanalk | 1,007
 tamilmirrorlk | 1,028
 virakesarilk | 1,120
-adaderanasinhalalk | 1,213
+adaderanasinhalalk | 1,214
 dailymirrorlk | 1,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,343 (99.9%) of 8,355 articles have been extended.
+8,346 (99.9%) of 8,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### ප්‍රදේශ කිහිපයකට තද වැසි
+
+*2024-02-21 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193630) · `si`
+
+කළුතර, ගාල්ල, මාතර සහ රත්නපුර දිස්ත්‍රික්කවල ස්ථාන ස්වල්පයක සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+◼️
+
+[Data](articles/ab10b7ce.json)
+
+---
 
 ### Royal College Principal reacts to Daily FT article and Padmasena Dissanayake responds
 
@@ -47,6 +59,8 @@ I refer to an article published in the Daily FT recently, levelling certain alle
 ...
 
 [Data](articles/24450567.json)
+
+[Extended Data](ext_articles/24450567.ext.json)
 
 ---
 
@@ -72,6 +86,8 @@ The Royal College Principal has responded to these wild allegations as follows:
 
 [Data](articles/08f30753.json)
 
+[Extended Data](ext_articles/08f30753.ext.json)
+
 ---
 
 ### Overseas Sri Lankans: The missing nexus between foreign policy and domestic policy
@@ -87,6 +103,8 @@ A good many people of Sri Lankan origin and others were thronging the venue at t
 ...
 
 [Data](articles/ebcf37d4.json)
+
+[Extended Data](ext_articles/ebcf37d4.ext.json)
 
 ---
 
@@ -1899,25 +1917,5 @@ The US dollar purchasing price was Rs 307.3445 and the sales price were 317.1692
 [Data](articles/4398d393.json)
 
 [Extended Data](ext_articles/4398d393.ext.json)
-
----
-
-### 14th round of ETCA negotiations between India, Sri Lanka in March
-
-*2024-02-20 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97408/14th-round-of-etca-negotiations-between-india-sri-lanka-in-march) · `en`
-
-The 14th round of negotiations between Sri Lanka and India on the Economic and Technology Cooperation Agreement (ETCA) are scheduled to be held in New Delhi, in the first week of March 2024.
-
-At its meeting on Monday (19 Dec.), the Cabinet of Ministers took into consideration the submission made by President Ranil Wickremesinghe regarding the current situation of the ECTA, and the 13th Round of discussions which took place in this regard.
-
-Accordingly, the nine sub-committees responsible for ‘goods trade’, ‘introduction, general provisions and general exceptions’, ‘service trade’, ‘rules of the origin’, ‘customs procedure and easing the trade’, ‘measurements for sanitation and sanitation of vegetation’, ‘technical constraints for trade’, ‘trade accords’ and ‘economic and technological cooperation’ had entered into discussions.
-
-Meanwhile, the sub-committee on conflict solving and final provisions is scheduled to conduct their discussions at the end of February 2024 in New Delhi.
-
-◼️
-
-[Data](articles/13666670.json)
-
-[Extended Data](ext_articles/13666670.ext.json)
 
 ---

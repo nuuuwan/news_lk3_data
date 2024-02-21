@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 22:04:08**
+As of **2024-02-21 22:17:28**
 
 ## Newspaper Stats
 
-*Scraped **8,550** Articles*
+*Scraped **8,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ economynextcom | 436
 islandlk | 443
 dailyftlk | 456
 adalk | 734
-adaderanalk | 1,032
-tamilmirrorlk | 1,062
+adaderanalk | 1,033
+tamilmirrorlk | 1,063
 virakesarilk | 1,146
 adaderanasinhalalk | 1,253
-dailymirrorlk | 1,273
+dailymirrorlk | 1,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,550 (100.0%) of 8,550 articles have been extended.
+8,550 (100.0%) of 8,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
+
+### Rising trend of drug addicts turning to pharmaceutical drugs in Western Province
+
+*2024-02-21 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rising-trend-of-drug-addicts-turning-to-pharmaceutical-drugs-in-Western-Province/108-277500) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - Amid the 'Yukthiya Operation' crackdown in the Western Province, there has been a concerning trend of drug addicts increasingly turning to pharmaceutical drugs as alternative sources due to the shortage of heroin, ice, or cannabis and the authorities have launched a major operation in the western province targeting dozens of errant pharmacies that sell psychoactive drugs to drug addicts.
+
+Police and National Medicines Regulatory Authority (NMRA) officials launched a major operation in the Western Province during the last 48 hours targeting dozens of errant pharmacies that would sell psychoactive drugs for the addicts running short of their daily dose due to scarcity of narcotic drugs from the ‘Yukthiya Meheyuma’.
+
+...
+
+[Data](articles/a30be5e5.json)
+
+---
 
 ### Sri Lanka partially repays Iranian oil USD 20 million worth of tea
 
@@ -51,6 +65,26 @@ It also allowed Sri Lanka to pay with tea, as the country was short of foreign c
 [Data](articles/77c6061e.json)
 
 [Extended Data](ext_articles/77c6061e.ext.json)
+
+---
+
+### Sri Lanka partially repays Iranian oil debt with USD 20 million worth of tea
+
+*2024-02-21 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97443/sri-lanka-partially-repays-iranian-oil-debt-with-usd-20-million-worth-of-tea) · `en`
+
+Sri Lanka said on Wednesday (21 Feb.) it had exported tea worth USD 20 million to Iran to partially repay its USD 251 million oil debts, with Colombo saying Tehran’s visiting foreign minister had expressed “satisfaction” at the deal.
+
+“So far USD20 million worth of tea has been exported to Iran under the barter trade agreement,” Sri Lankan Prime Minister Dinesh Gunawardena’s office said in a statement after talks with Iranian Foreign Minister Hossein Amir-Abdollahian.
+
+The tea-for-oil deal was agreed upon in December 2021, but exports were delayed by Colombo’s economic crisis that forced then-president Gotabaya Rajapaksa to step down in July 2022.
+
+The barter deal allows sanctions-hit Iran to avoid having to use up scarce hard currency to pay for imports of popular tea.
+
+It also allowed Sri Lanka to pay with tea, as the country was short of foreign currency.
+
+...
+
+[Data](articles/b17876d8.json)
 
 ---
 
@@ -129,6 +163,26 @@ Afghanistan won the currency spin in the match. Accordingly, the team decided to
 [Data](articles/2a5165e7.json)
 
 [Extended Data](ext_articles/2a5165e7.ext.json)
+
+---
+
+### கடைசி டி20 போட்டி; இலங்கைக்கு 210 ஓட்டங்கள் இலக்கு
+
+*2024-02-21 20:09:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடைசி-டி20-போட்டி-இலங்கைக்கு-210-ஓட்டங்கள்-இலக்கு/175-333616) · `ta`
+
+ஆப்கானிஸ்தான் அணிக்கும் இலங்கை அணிக்கும் இடையிலான மூன்றாவதும் இறுதியுமான டி20 போட்டியில் முதலில் துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் அணி 20 ஓவர்கள் நிறைவில் 05 விக்கெட்டுக்களை இழந்து 209 ஓட்டங்களை பெற்றது.
+
+ஆப்கானிஸ்தான் அணி சார்பில் துடுப்பாட்டத்தில் Rahmanullah Gurbaz அதிகபட்சமாக 70 ஓட்டங்களையும், Hazratullah Zazai 45 ஓட்டங்களையும் பெற்றனர்.
+
+பந்து வீச்சில் இலங்கை அணி சார்பில் Matheesha Pathirana மற்றும் Akila Dananjaya ஆகியோர் தலா இரண்டு விக்கெட்டுக்களை வீழ்த்தினர்.
+
+இலங்கைக்கு சுற்றுலா மேற்கொண்டுள்ள ஆப்கானிஸ்தான் மற்றும் இலங்கை அணிகளுக்கு இடையிலான இறுதி டி20 கிரிக்கட் போட்டி இன்று (21) நடைபெறவுள்ளது.
+
+குறித்த போட்டியில் நாணய சுழற்சியில் ஆப்கானிஸ்தான் அணி வெற்றிபெற்றுள்ளது. இதன்படி அந்த அணி முதலில் துடுப்பெடுத்தாட தீர்மானித்துள்ளது. R
+
+◼️
+
+[Data](articles/7fd95d68.json)
 
 ---
 
@@ -2017,63 +2071,5 @@ According to reports, cricket fans stood in line from 03.00 am today.
 [Data](articles/ace0ed09.json)
 
 [Extended Data](ext_articles/ace0ed09.ext.json)
-
----
-
-### Remembering late pioneer of Ananda Sastralaya
-
-*2024-02-21 13:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Remembering-late-pioneer-of-Ananda-Sastralaya/110-277493) · `en`
-
-A procession (perahera) was held last night to commemorate the 134th birth anniversary of the late pioneer of Ananda Sastralaya, Kotte. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/282b3d00.json)
-
-[Extended Data](ext_articles/282b3d00.ext.json)
-
----
-
-### Kaduwela Magistrate's Order will be powerless in Homagama
-
-*2024-02-21 13:26:44* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙල-මහේස්ත්‍රාත්-නියෝගය-හෝමාගම-මහාධිකරණය-බල-රහිත-කරයි/11-408211) · `si`
-
-Kaduwela Magistrate's Court to be arrested by the Kaduwela Police and the Criminal Investigation Division in the Criminal Investigation Division under the operation of justice.Homal Ranaweera ordered the Inspector General of Police to seize the illegal assets of the Criminal Investigation Division without the re-investigating the Criminal Investigation Department.
-
-Accordingly, Mrs. Chanima Wijaya Bandara was given by Mrs. Chanama Wijaya Bandara on the 17th.
-
-The order of Kaduwela Magistrate Chanima Wije Bandara on the 17th of this order the owners of the property had been taken back on the illegal contact division (5) and the custody of the custody.
-
-Deputy Solicitor General Savigation Division of the Attorney General and the Criminal Investigation Division on behalf of the Attorney General was held on behalf of the Attorney General.
-
-...
-
-[Data](articles/8b8f16b0.json)
-
-[Extended Data](ext_articles/8b8f16b0.ext.json)
-
----
-
-### Twin murder in Mannar: two arrested
-
-*2024-02-21 13:21:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-இரட்டை-படுகொலை-இருவர்-கைது/72-333586) · `ta`
-
-Two persons have been arrested in connection with the murder of two people in the Mannar - Adampan and Mullikandal area, police said.
-
-Two, 33 and 55, from Uilangulam and Mannar, were arrested on Tuesday evening, police said.
-
-The double murder took place on August 24, 2023.
-
-The firing was carried out on those who were traveling on a motorbike to watered the field.
-
-Jesudasan Arundavarajah (age 42) from Nochchikkulam, Mannar and Ganapathi Kalimuthu (age-56) from Ichalavakai village in the Manthai West Divisional Secretariat Division.
-
-The two suspects arrested in connection with the double murder have been detained at the Adampan police station and are being investigated.
-
-◼️
-
-[Data](articles/c99b7cbe.json)
-
-[Extended Data](ext_articles/c99b7cbe.ext.json)
 
 ---

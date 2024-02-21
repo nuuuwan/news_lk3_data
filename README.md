@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 12:17:23**
+As of **2024-02-21 12:33:00**
 
 ## Newspaper Stats
 
-*Scraped **8,419** Articles*
+*Scraped **8,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,92 +17,178 @@ islandlk | 443
 dailyftlk | 456
 adalk | 715
 adaderanalk | 1,015
-tamilmirrorlk | 1,043
-virakesarilk | 1,129
+tamilmirrorlk | 1,044
+virakesarilk | 1,130
 adaderanasinhalalk | 1,225
-dailymirrorlk | 1,248
+dailymirrorlk | 1,249
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,410 (99.9%) of 8,419 articles have been extended.
+8,419 (100.0%) of 8,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### ටිකට් ගන්න දඹුල්ල ට අදත් ලොකු සෙනඟක්
+### கத்திக்குத்தில் இரத்தம் சிந்திய புதிய காதல்
+
+*2024-02-21 11:59:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்திக்குத்தில்-இரத்தம்-சிந்திய-புதிய-காதல்/175-333577) · `ta`
+
+இளைஞன் ஒருவரின் பழைய காதலியுடன் மற்றுமொரு நபர், காதல் தொடர்பை கொண்டிருந்ததால் ஆத்திரமுற்ற பழைய காதலன், அந்த நபரை (புதிய காதலனை) கத்தியால் கழுத்தில் குத்திய சம்பவம் கஹதுடுவ பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது. கத்தியால் குத்திய பழைய காதலன், அங்கிருந்து தப்பியோடியுள்ளார் என கஹதுடுவ பொலிஸார் தெரிவித்தனர்.
+
+கத்திக்குத்துக்கு இலக்காகி கடும் காயமடைந்த இளைஞன், வேதர மாவட்ட வைத்தியாசலையில் அனுமதிக்கப்பட்டதன் பின்னர் மேலதிக சிகிச்சைகளுக்காக களுபோவில வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+கத்தியால் குத்திவிட்டு தப்பியோடியுள்ள இந்த சந்தேகநபருடன் யுவதி காதல் தொடர்பை கொண்டிருந்தார். அந்த தொடர்பை சில மாதங்களுக்கு முன்னர் நிறுதிக்கொண்டார். அதன் பின்னரே, தற்போது கத்திக்குத்துக்கு இலக்கான இளைஞனுடன் காதலை துளிர்விட்டுள்ளாள் என்றும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/6aac7e0e.json)
+
+---
+
+### Ticket to Dambulla is a large number of people
 
 *2024-02-21 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193642) · `si`
 
-ඇෆ්ගනිස්තානය සහ ශ්‍රී ලංකාව අතර තෙවැනි සහ අවසාන විස්සයි විස්ස ජාත්‍යන්තර තරගය අද (21) දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+Third and the final Twenty Twenty Twenty Twenty20 International match will be held today (21) at the Dambulla International Cricket Stadium.
 
-මේ වනවිට එම තරගය නැරඹීම සඳහා ප්‍රවේශපත්‍ර මිලදී ගැනීමට විශාල පිරිසක් පැමිණ සිටින බව අප වාර්තාකරු පැවසීය.
+A large number of people have come to buy tickets to watch the match.
 
-ටිකට් විකිණීමේ කවුන්ටර් දඹුල්ල ප්‍රාදේශීය ලේකම් කාර්යාල පරිශ්‍රයේ ස්ථාපනය කර ඇති අතර එහි දක්වා ඇත්තේ ටිකට් 2,000ක් පමණක් විකිණීමට ඇති බවය.
+The Ticket Selling Council is installed at the Dambulla Divisional Secretariat premises and it is only to sell only 2,000 tickets.
 
-ක්‍රීඩාංගණයේ, ප්‍රේක්ෂකයින් සඳහා ඇති ඉඩ සැලකිල්ලට ගෙන එවැනි ටිකට් ප්‍රමාණයක් විකිණීමට තීරණය කළ බව ඒ සම්බන්ධයෙන් විමසූ විට ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ නිලධාරියෙක් පැවසුවේය.
+At the stadium, when he had decided to sell such a ticket to be taken into account the space for the audience, a SLC official said.
 
-මේ අතර සමහර ප්‍රේක්ෂකයින් චෝදනා කළේ ජාතික හැඳුනුම්පත සඳහා නිකුත්කරන්නේ ප්‍රවේශ පත්‍ර දෙකක් පමණක් බවය.
+In the meantime, some audience accused that only two tickets are issued to the NIC.
 
-එවැනි තීරණයක් ගනු ලැබුවේ "කළු කඩ" තත්ත්වයක් ඇතිවීම වැළැක්වීමට බව එම නිලධාරියා පැවසීය.
+The official said that such a decision was made to prevent the "black shop".
 
 ◼️
 
 [Data](articles/e9297149.json)
 
+[Extended Data](ext_articles/e9297149.ext.json)
+
 ---
 
-### 10ஆவது தேசிய சாரணர் ஜம்போரி: காணொளி
+### 10th National Scout Jambori: Video
 
 *2024-02-21 11:46:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10ஆவது-தேசிய-சாரணர்-ஜம்போரி-காணொளி/175-333575) · `ta`
 
-இலங்கையின் பிரதம சாரணர் என்ற வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்க 10ஆவது தேசிய சாரணர் ஜம்போரியை சற்று முன்னர் ஆரம்பித்து வைத்தார்.
+As the Prime Minister of Sri Lanka, President Ranil Wickremesinghe inaugurated the 10th National Scout Jambori.
 
-இலங்கை மற்றும் ஏனைய 28 நாடுகளைச் சேர்ந்த 11,500 சாரணர்களின் பங்குபற்றுதலுடன் தேசிய சாரணர் ஜம்போரி திருகோணமலையில் நடைபெறுகிறது.
+The National Scout Jambori is being held in Trincomalee with the participation of 11,500 scouts from Sri Lanka and other 28 countries.
 
 ◼️
 
 [Data](articles/184c515a.json)
 
+[Extended Data](ext_articles/184c515a.ext.json)
+
 ---
 
-### அஸ்கிரிய பீட மகா சங்கத்தினர் பாராட்டு
+### Ministry to popularize registration and use of electric vehicles in relation to e-mobility policy
 
-*2024-02-21 11:33:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்கிரிய-பீட-மகா-சங்கத்தினர்-பாராட்டு/175-333574) · `ta`
+*2024-02-21 11:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ministry-to-popularize-registration-and-use-of-electric-vehicles-in-relation-to-e-mobility-policy/108-277475) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - A total of 1,184,423 three-wheelers are currently registered in Sri Lanka and the Transport Ministry is to implement a pilot project to popularize the registration and use of electric vehicles as a basic activity in relation to the e-mobility policy.
+
+With the aim of reducing environmental damage and limiting the increasing use of fuel-efficient three-wheelers, the electrification pilot project was implemented by the Transport and Highways Ministry and the Department of Motor Transport in collaboration with the United Nations Development Agency (UNDP).
+
+A progress review meeting in this regard was held at the Ministry where stakeholders were informed.
+
+In this project, the three-wheelers that are currently powered by fuel will be converted to electricity, and the opinions of all stakeholders were consulted and discussed about the relevant technical, operational and practical conditions.
+
+◼️
+
+[Data](articles/e18f58e3.json)
+
+---
+
+### உண்மை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்திற்கு மல்வத்து, அஸ்கிரிய பீட மகா சங்கத்தினர் பாராட்டு
+
+*2024-02-21 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/176938) · `ta`
 
 உண்மை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்திற்கு மல்வத்து, அஸ்கிரிய பீட மகா சங்கத்தினர் பாராட்டு தெரிவித்தனர்.
 
-உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலகத்தின் பணிப்பாளர் நாயகம் கலாநிதி அசங்க குணவன்ச உள்ளிட்ட அதிகாரிகள், உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்தின் பிரதியொன்றை மல்வத்து அஸ்கிரி மகா மகாநாயக்க தேரர்களிடம் கையளித்தனர்.
+உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலகத்தின் பணிப்பாளர் நாயகம் கலாநிதி அசங்க குணவன்ச உள்ளிட்ட அதிகாரிகள், உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்தின் பிரதியொன்றை திங்கட்கிழமை (19)  மல்வத்து அஸ்கிரி மகா மகாநாயக்க தேரர்களிடம் கையளித்தனர்.
 
-இச்சட்டமூலத்திற்குப் பாராட்டு தெரிவித்த மல்வத்து பீட மகாநாயக்கர் திப்பட்டுவாவே ஸ்ரீ சுமங்கல தேரர் மற்றும் அஸ்கிரியத் தரப்புப் மகாநாயக்கர் வரக்காகொட ஸ்ரீ ஞானரதன தேரர் ஆகியோர் இதனை மேலும் பரிசீலனை செய்து பொது நிலைப்பாட்டை அறிவிக்கவும் இணக்கம் தெரிவித்தனர்.
+இச்சட்டமூலத்திற்குப் பாராட்டு தெரிவித்த மல்வத்து பீட மகாநாயக்கர் திப்பட்டுவாவே ஸ்ரீ சுமங்கல  தேரர் மற்றும் அஸ்கிரியத் தரப்புப் மகாநாயக்கர்  வரக்காகொட ஸ்ரீ ஞானரதன தேரர் ஆகியோர் இதனை மேலும் பரிசீலனை செய்து பொது நிலைப்பாட்டை அறிவிக்கவும் இணக்கம் தெரிவித்தனர்.
 
 உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலகச் செயற்பாட்டின் முன்னேற்றம் குறித்து அதிகாரிகள் மேலும் மகாநாயக்க தேரர்களுக்கு விளக்கமளித்தனர்.
 
 ...
 
-[Data](articles/847389e1.json)
+[Data](articles/28b6fae9.json)
 
 ---
 
-### භාණ්ඩ කිහිපයක විශේෂ වෙළෙඳ භාණ්ඩ බදු ඉහළ දමයි
+### Security Council resolution to demand immediate ceasefire in Gaza - USA used veto for the third time
+
+*2024-02-21 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/176930) · `ta`
+
+The United States has used its veto power against the United Nations Security Council resolution demanding an immediate ceasefire in Gaza.
+
+Significantly, the US has used its veto power for the third time against the United Nations Security Council resolution, seeking an immediate post after October seven.
+
+The US said the immediate ceasefire would affect negotiations on the release of hostages.
+
+The US has only voted against the resolution brought by Algeria - while Britain has avoided voting and 13 countries have voted in favor.
+
+These countries say the humanitarian need for the Palestinian people is a major issue.
+
+While more than 30,000 people have been killed, 2 million people have been hungry and there have been widespread protests against the US use its veto power against the immediate ceasefire.
+
+The Algerian Representative to the UN said that it is important to support this copy of the resolution for the right to live in Palestinians.
+
+...
+
+[Data](articles/39d5891a.json)
+
+[Extended Data](ext_articles/39d5891a.ext.json)
+
+---
+
+### The Asgiriya Plateau Maha Sangha
+
+*2024-02-21 11:33:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்கிரிய-பீட-மகா-சங்கத்தினர்-பாராட்டு/175-333574) · `ta`
+
+The Malwathu and the Asgiriya Petta Maha Sangha congratulated the Bill of the Truth and Reconciliation Commission.
+
+Officials, including Dr. Asang Gunawansa, Director General of the Interim Secretariat of the Truth and Reconciliation mechanism, handed over a copy of the Truth, Unity and Reconciliation Commission Bill to the Malwattu Asgiri Mahanaka Thera.
+
+Malwathu Peeta Mahanayakar Tippattuwawe Sri Sumangala Thera and Asgiriyat Mahanayaka Mahanayaka Varakakoda Sri Gnanaradana Thera agreed to further review this and declare the public position.
+
+Officials further explained the progress of the interim secretariat process of the real and reconciliation mechanism.
+
+...
+
+[Data](articles/847389e1.json)
+
+[Extended Data](ext_articles/847389e1.ext.json)
+
+---
+
+### Special commodity taxes in several items increases
 
 *2024-02-21 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193641) · `si`
 
-උඳු, මුං ඇට, කව්පි, බඩඉරිඟු, කුරක්කන් සහ මිලට් ආනයනයේ දී අය කළ විශේෂ වෙළෙඳ භාණ්ඩ බදු ඉහළ නංවමින් නව ගැසට් පත්‍රයක් නිකුත් කර තිබේ.
+A new gazette issued a new gazette with the increase in potential, green gram, cowpees, maximum and milleted imports.
 
-මෙම ගැසට් පත්‍රයට අනුව උඳු (අනෙකුත්) සඳහා මෙතෙක් කිලෝග්‍රෑමයකට රු. 200 ක්ව පැවති විශේෂ වෙළෙඳ භාණ්ඩ බද්ද රු. 300 ක් දක්වා ඉහළ යයි..
+According to the gazette, so far a kilogram of Rs. 2006 Special Trade Tax Rs. Top up to 300
 
-කව්පි (අනෙකුත්), බීජ කුරක්කන් (ඉලියුසිනේ කොරකාන විශේෂ), බීජ - අනෙකුත් (මිලට්), කුරක්කන් (ඉලියුසිනේ කොරකාන විශේෂ) හා මිලට් (අනෙකුත්) ආනයනයේදී මෙතෙක් පැවති කිලෝග්‍රෑමයකට රු. 70ක් වූ විශේෂ වෙළෙඳ භාණ්ඩ බද්ද රු. 300 ක් දක්වා ත් ඉහළ නංවා ඇත.
+Creats (other), Seedkana Specials (Illusinne Crakana Special), Schedune Special (Illusan Special) and Milacy (Other) in imports of Rs.. 70 Special Trade Tax Rs.. Up to 300 and have been increased.
 
-මීට අමතරව බඩඉරිඟු සඳහා ද රු. 25ක වෙළෙඳ භාණ්ඩ බද්දක් නියම කර තිබේ.
+In addition, maize and Rs.. A trade tax on 25 has been set.
 
-මේ අතර බඩඉරිඟු, උඳු, මුං ඇට, කව්පි හා කුරක්කන් ආනයනය කිරීම කෘෂිකර්ම අමාත්‍යාංශයේ නිර්දේශය මත සිදු කළ යුතු බවට මෙම ගැසට් නිවේදනයෙන් අවධාරණය කර තිබේ.
+In the meantime, the importation of maize, dense, green gram, pea, cowk and kurakkan should be carried out on the recommendation of the Ministry of Agriculture.
 
 ◼️
 
 [Data](articles/0d764132.json)
+
+[Extended Data](ext_articles/0d764132.ext.json)
 
 ---
 
@@ -180,19 +266,21 @@ He said all 225 MPs must rise against posts of this nature and said it was point
 
 ---
 
-### மல்வானை வீட்டுக்கு செல்லும் நீதியமைச்சர்
+### Justice Minister who goes home
 
 *2024-02-21 10:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மல்வானை-வீட்டுக்கு-செல்லும்-நீதியமைச்சர்/175-333572) · `ta`
 
-உரிமையாளர் இல்லாத காரணத்தினால் நீதிமன்றத்தினால் நீதியமைச்சிடம் கையளிக்கப்பட்டுள்ள மல்வானை வீட்டை அவதானித்து அடுத்தகட்ட நடவடிக்கைகளை தீர்மானிக்க நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ தீர்மானித்துள்ளார்.
+Minister of Justice Vijayadasa Rajapakse has decided to look into the house and decide on the next step.
 
-அதன்படி இன்று பிற்பகல் அந்த வீடு அமைந்துள்ள வளாகத்துக்கு நீதி அமைச்சர் செல்ல உள்ளார்.
+Accordingly, the Minister of Justice is to go to the premises where the house is located this afternoon.
 
-வளாகத்தை அவதானித்த பின்னர் இது தொடர்பில் மேற்கொள்ள வேண்டிய அடுத்தக்கட்ட நடவடிக்கைகள் குறித்து ஊடகவியலாளர்கள் முன்னிலையில் அமைச்சர் விளக்கமளிக்க உள்ளார்.
+The Minister is to explain the next steps to be taken after observing the premises in the presence of journalists.
 
 ◼️
 
 [Data](articles/878438a4.json)
+
+[Extended Data](ext_articles/878438a4.ext.json)
 
 ---
 
@@ -212,47 +300,25 @@ It was put forward by way of a Private Member’s Bill tabled in Parliament.
 
 ---
 
-### லஞ்சம் பெற்ற அதிகாரிகளுக்கு விளக்கமறியல்
+### Explanation to bribe officials
 
 *2024-02-21 10:48:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லஞ்சம்-பெற்ற-அதிகாரிகளுக்கு-விளக்கமறியல்/76-333571) · `ta`
 
-பொது போக்குவரத்து சேவையில் ஈடுப்படுத்தப்படும் தனியார்  பேருந்து ஒன்றுக்கு "C" தரம் அனுமதிப் பத்திரம் வழங்க 50,000 ரூபாய் இலஞ்சம் பெற்ற  அதிகாரிகள் இருவரை மார்ச் மாதம் (04)ஆம் திகதி வரை விளக்கமறியலில் வைக்க நுவரெலியா மாவட்ட நீதவான் நீதிமன்ற நீதிபதி பிரபுதிகா லங்காதினி நேற்று (20) மாலை உத்தரவு பிறப்பித்தார்.
+Nuwara Eliya District Magistrate Prabhudhika Lanka yesterday evening (20) issued a directive to remand two bribes of Rs.
 
-மத்திய மாகாண பொது போக்குவரத்து திணைக்களத்தை சேர்ந்த நுவரெலியா மாவட்டத்திற்கு பொறுப்பான மாவட்ட முகாமையாளர் மற்றும் மேலும் ஒரு அதிகாரியை கொழும்பிலிருந்து வருகை தந்திருந்த லஞ்சம் ஒழிப்பு திணைக்கள அதிகாரிகள் நேற்று கைது செய்தனர்.
+Officials of the Bribery Department yesterday arrested the District Manager and another officer in charge of the Nuwara Eliya District of the Central Provincial Public Transport Department.
 
-அதேநேரத்தில் சந்தேகநபர்களின் சார்பில் ஆஜராகி இருந்த சட்டத்தரணி  சந்தேக நபர்களில் ஒருவரான மாவட்ட முகாமையாளருக்கு  சக்கரை நோய் மற்றும் இதய நோய் இருப்பதாக நீதிபதியிடம் தெரிவித்தார்.
+At the same time, one of the suspects, who was present on behalf of the suspects, told the judge that the district manager had sugar disease and heart disease.
 
-இதனை கருத்திற் கொண்டு  நோய்வாய்க்கு உள்ளான சந்தேக நபரை சிறைச்சாலை வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்குமாறு நிதிபதி உத்தரவு பிறப்பித்தார்.
+Considering this, the Finance President ordered the suspect to be admitted to the Prison Hospital for treatment.
 
-...
+The judge adjourned the case till 04.03.2024 and ordered the prison authorities to present the suspects on the day of the case.. Remble
+
+◼️
 
 [Data](articles/58972aa7.json)
 
----
-
-### Security Council resolution to demand immediate ceasefire in Gaza - USA used veto for the third time
-
-*2024-02-21 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/176930) · `ta`
-
-The United States has used its veto power against the United Nations Security Council resolution demanding an immediate ceasefire in Gaza.
-
-Significantly, the US has used its veto power for the third time against the United Nations Security Council resolution, seeking an immediate post after October seven.
-
-The US said the immediate ceasefire would affect negotiations on the release of hostages.
-
-The US has only voted against the resolution brought by Algeria - while Britain has avoided voting and 13 countries have voted in favor.
-
-These countries say the humanitarian need for the Palestinian people is a major issue.
-
-While more than 30,000 people have been killed, 2 million people have been hungry and there have been widespread protests against the US use its veto power against the immediate ceasefire.
-
-The Algerian Representative to the UN said that it is important to support this copy of the resolution for the right to live in Palestinians.
-
-...
-
-[Data](articles/39d5891a.json)
-
-[Extended Data](ext_articles/39d5891a.ext.json)
+[Extended Data](ext_articles/58972aa7.ext.json)
 
 ---
 
@@ -440,35 +506,39 @@ Primitting national institutions and state institutions will threaten national s
 
 ---
 
-### பாம்பு தீண்டி கர்ப்பிணி மரணம்
+### Snake
 
 *2024-02-21 09:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/பாம்பு-தீண்டி-கர்ப்பிணி-மரணம்/75-333568) · `ta`
 
-திருகோணமலை - மொரவெவ பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் பாம்பு கடிக்கு இலக்காகி 3 மாத கர்ப்பிணித் தாயொருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A 3 -month -old pregnant mother has died after being a snake bite in the Trincomalee - Morawewa police division, police said.
 
-இதில், திருகோணமலை மொரவெவ ஆறாம் வாய்க்கால் பகுதியைச் சேர்ந்த இமேஷா குமாரி (வயது 23) என்ற மூன்று மாத கர்ப்பிணித் தாயொருவர்  மாடு கட்டுவதற்காக சென்றபோது பாம்புக்கடிக்கு இலக்காகியுள்ளார்.
+In this, Imesha Kumari (age 23), a three -month -old pregnant mother from the Morawewa Venus area of Trincomalee, was targeted for a cow.
 
-இதில் பாதிக்கப்பட்ட கர்ப்பிணியை மஹதிவுல்வெவ பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்ட போதும்,  உயிரிழந்துள்ளார். சடலம் பிரேத பரிசோதனைக்காக திருகோணமலை பொது வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகின்றது. R
+The pregnant woman was admitted to the Mahadulvewa Divisional Hospital, but died. The body has been sent to the Trincomalee General Hospital for autopsy. Remble
 
 ◼️
 
 [Data](articles/ba90d0eb.json)
 
+[Extended Data](ext_articles/ba90d0eb.ext.json)
+
 ---
 
-### இலங்கை - ஆப்கான் மூன்றாவது டி20 போட்டி இன்று
+### Sri Lanka - Afghan third T20 match today
 
 *2024-02-21 09:24:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கை-ஆப்கான்-மூன்றாவது-டி20-போட்டி-இன்று/44-333567) · `ta`
 
-இலங்கை மற்றும் ஆப்கானிஸ்தான் அணிகளுக்கு இடையிலான மூன்றாவது  டி20  போட்டி இன்று (21) நடைபெறவுள்ளது.
+The third T20 match between Sri Lanka and Afghanistan will be held today (21).
 
-முதல் இரண்டு போட்டிகளிலும் வெற்றி பெற்ற இலங்கை அணி தற்போது தொடரை 2-0 என கைப்பற்றியுள்ளது.
+The Sri Lankan team won the first two matches 2-0.
 
-இலங்கைக்கு ஆப்கானிஸ்தான் அணி இம்முறை மேற்கொண்டுள்ள சுற்றுப்பயணத்தில் இதுவரை நடைபெற்ற அனைத்து டெஸ்ட், ஒருநாள் மற்றும் டி20 போட்டிகளிலும் இலங்கை அணி வெற்றி பெற்றுள்ளமை குறிப்பிடத்தக்கது.
+The Sri Lankan team has won all Tests, ODIs and T20 matches so far.
 
 ◼️
 
 [Data](articles/3977d774.json)
+
+[Extended Data](ext_articles/3977d774.ext.json)
 
 ---
 
@@ -754,19 +824,23 @@ Accordingly, the Cabinet has approved the proposal submitted by the Minister of 
 
 ---
 
-### சட்டத்துக்கு ஆங்கிலம் மட்டும்
+### English only to the law
 
 *2024-02-21 08:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்துக்கு-ஆங்கிலம்-மட்டும்/175-333562) · `ta`
 
-சில நீதிமன்றங்களில் சட்ட நடவடிக்கைகளை மேற்கொள்வதற்கும் பதிவுகளை பேணுவதற்கும் ஆங்கில மொழி பரிசீலிக்கப்பட உள்ளதாக அரசாங்க தகவல் திணைக்களம் நேற்று தெரிவித்துள்ளது.
+The Government Information Department yesterday said that the English language is being considered to take legal action and registration in some courts.
 
-வணிக நடவடிக்கைகள் தொடர்பான வணிகத் துறையில் உள்ள விவரங்கள் முக்கியமாக ஆங்கில மொழியில் பயன்படுத்தப்படுகின்றன, மேலும் அந்த உள்ளடக்கங்களை சிங்கள மொழியில் மொழிபெயர்ப்பதற்கு கணிசமான செலவும் நேரமும் தேவைப்படுகிறது. இதன் காரணமாக, வர்த்தக தகராறுகளைத் தீர்ப்பதற்கான நீண்ட கால அவகாசம் தேவைப்படுவதால், தொழில்முனைவோரைப் பெறுவதில் பாதகங்கள் ஏற்படும் என்று திணைக்களம் தெரிவித்துள்ளது.
+Details in the business of business activities are mainly used in the English language, and require a significant cost and time to translate those contents in Sinhala. Due to this, the department said that the long -term time to resolve trade disputes would result in entrepreneurship.
 
-“இந்தச் சூழ்நிலையானது, ஒரு நாட்டில் தொழில் முயற்சிகளை நடத்தும் திறனைக் கருத்தில் கொண்டு, எளிதாக வணிகம் செய்வதற்கான தரவரிசையில் இலங்கையின் நிலையைப் பாதித்தது. இதற்குப் பரிகாரமாக, அமைச்சரவையின் ஒப்புதலுடன், ஆங்கிலத்தைப் பயன்படுத்த அனுமதிக்கும் அரசியலமைப்பின் 24 (4) விதியின் விதிகளுக்கு இணையாக, நீதி அமைச்சரால் உத்தரவு பிறப்பிக்கப்படுவது பொருத்தமானது என்று அங்கீகரிக்கப்பட்டுள்ளது.
+“This situation has affected Sri Lanka's position in the rankings for easy business, considering the ability to conduct entrepreneurship in a country. In response, it is appropriate that the Minister of Justice is appropriate to issue an order in parallel with the Rule 24 (4) of the Constitution that allows the use of English with the approval of the Cabinet.
 
-...
+Accordingly, the Cabinet has approved the proposal submitted by the Minister of Justice, Prison Affairs and Constitutional Reforms to take necessary action in this regard.
+
+◼️
 
 [Data](articles/f9bbb8a2.json)
+
+[Extended Data](ext_articles/f9bbb8a2.ext.json)
 
 ---
 
@@ -1871,71 +1945,5 @@ He said that the public and organized criminals need the support of the public a
 [Data](articles/c5fd1320.json)
 
 [Extended Data](ext_articles/c5fd1320.ext.json)
-
----
-
-### TV Derana scoops top accolades at 2024 Sumathi Awards
-
-*2024-02-20 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97417/tv-derana-scoops-top-accolades-at-2024-sumathi-awards) · `en`
-
-TV Derana reaffirmed its excellence on Tuesday (Feb.20) by scooping multiple top awards at the 2024 Sumathi Awards ceremony, the 29th edition of one of the most popular television awards shows in Sri Lanka, taking place in Colombo.
-
-This year’s ceremony celebrates the remarkable television programmes aired in the years 2022 and 2023.
-
-As such, Ada Derana bagged the award for Best Television News Bulletin for the year 2022.
-
-The award for the Best Television Documentary 2023 went to TV Derana’s “Buddha Paathra Wandana” while the Best Television Current Affairs Programme 2022 award was conferred on TV Derana’s “Rebuild Sri Lanka”.
-
-Meanwhile, the “Kids Academy” of Ada Derana 24 was awarded the Best Television Educational Programme for the year 2022.
-
-“Gasma” of Derana Macroentertainment, the digital media arm of TV Derana, won big at the ceremony, by bagging three awards for the Best CSR Programme, National Interest Programme, and Current Affairs Programme in the Social Media Category.
-
-...
-
-[Data](articles/b2470a32.json)
-
-[Extended Data](ext_articles/b2470a32.ext.json)
-
----
-
-### Measures to stop Sri Lankan women to domestic work
-
-*2024-02-20 19:33:36* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකික-කතුන්-විදෙස්-ගෘහ-සේවයට-යැවීම-සම්පූර්ණයෙන්-නතර-කිරීමට-පියවර/11-408201) · `si`
-
-Minister Manusha Nanayakkara, Minister of Labor and Foreign Employment said that the Sri Lankan women will stop the disposition of Sri Lankan women as housemaids.
-
-Minister Manusha Nanayakkara, Minister of Labor and Foreign Employment (Licensed Employment) of the Sri Lanka Bureau of Foreign Employment and Licensed Licensed Employment Association (Licensed) informed the Sri Lanka Bureau of Foreign Employment.
-
-The Minister also emphasized the importance of sending workers only for training employment opportunities as housemaids.
-
-Accordingly, the proposal was to be given to all parties involved in the field to stop the sending of domestic workers for ten years, the Minister also informed the proposal to provide the proposal.
-
-◼️
-
-[Data](articles/f8ffba23.json)
-
-[Extended Data](ext_articles/f8ffba23.ext.json)
-
----
-
-### Oh How Mighty Kandy Have Fallen?
-
-*2024-02-20 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Oh-How-Mighty-Kandy-Have-Fallen/108-277414) · `en`
-
-Feb. 20 (Daily Mirror) - CR and FC emerged champions of the Inter-Club League Rugby Tournament last Sunday when they defeated Kandy Sports Club in the last fixture, which was a potential title decider.
-
-Kandy Sports Club have been the most successful club in the history of club rugby in Sri Lanka having secured 22 League titles.
-
-Since the shift of powers of Sri Lanka club rugby in early 90s, Kandy SC have been such a dominant force that in certain seasons, the other contenders could only battle for the second spot.
-
-From season-to-season and generation-to-generation they have been able to produce top class players and their fans are so used to seeing their team tore apart teams.
-
-Kandy SC have had some tricky moments as well, during which the fan base in Colombo thought Kandy SC really slipped up.
-
-...
-
-[Data](articles/3d66a84a.json)
-
-[Extended Data](ext_articles/3d66a84a.ext.json)
 
 ---

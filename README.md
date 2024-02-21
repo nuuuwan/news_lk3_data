@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 16:17:38**
+As of **2024-02-21 16:33:23**
 
 ## Newspaper Stats
 
@@ -26,51 +26,59 @@ dailymirrorlk | 1,258
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,473 (100.0%) of 8,476 articles have been extended.
+8,476 (100.0%) of 8,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### රිජ්වේ රෝහලේ වකුගඩු සැත්කමෙන් පසු මියගිය දරුවා ගැන අධිකරණ නියෝගයක්
+### Court order after the kidney surgery at Ridgeway Hospital
 
 *2024-02-21 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193658) · `si`
 
-කොළඹ රිජ්වේ ආර්යා ළමා රෝහලට ඇතුළත් කළ 03 හැවිරිදි දරුවෙක් වකුගඩු සැත්කමකින් අනතුරුව මිය යාමේ සිද්ධිය මිනීමැරුමක් බව අගතියට පත් පාර්ශ්වය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා අද (21) කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ ප්‍රකාශ කළේය.
+President's Counsel Faizer Mustapha, who appeared in the event of a kidney surgery, was reportedly informed of the aggrieved party to the aggrieved party in Colombo.
 
-ඔහු සඳහන් කළේ ඒ සම්බන්ධයෙන් පොලීසිය සාධාරණ විමර්ශනයක් පවත්වා නොමැති බවත් ය.
+He said the police had not conducted a fair investigation into the matter.
 
-මෙම පැමිණිල්ල අද කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවල මහතා ඉදිරියේ කැඳවනු ලැබීය.
+The complaint was called before Colombo Additional Magistrate Herlers today.
 
-එම අවස්ථාවේදී අගතියට පත් පාර්ශ්වය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම සිද්ධියෙන් මියගිය දරුවා වකුගඩු දෙකක් සහිතව රෝහල්ගත වූ බවත් සැත්කමෙන් පසුව එම වකුගඩු දෙකම ඉවත් කර තිබෙන බව චෝදනා කළේය.
+Attorney-at-Law Faizer Mustapha, who appeared in behalf of the aggrieved party, was admitted to the court and had been hospitalized with two kidneys and removed both kidneys after the surgery.
 
-මෙම සිද්ධියට සම්බන්ධ වෛද්‍යවරු විදේශ රටකට පළාගොස් ඇතැයි චෝදනා කළ ජනාධිපති නීතිඥවරයා, මෙය සම්පූර්ණයෙන්ම මිනීමැරුමක් බවත් කියා සිටියේය.
+The President's Counsel, who accused the doctors involved in the incident, claimed that this is a completely murder.
 
-මීට අදාළව තම සේවාදායකයින් පොලීසිය වෙත පැමිණිලි ඉදිරිපත් කළත් පොලීසිය මේ දක්වා විමර්ශනයක් පවත්වා නොමැති බවටත් ජනාධිපති නීතිඥවරයා චෝදනා කළේය.
+The President's Counsel alleged that the police had complained to the police regarding the complaints.
 
-...
+The Borella police officers informed the court if the court issued an order on the incident.
+
+The Magistrate ordered the police to investigate all parties involved in the incident.
+
+◼️
 
 [Data](articles/979a6700.json)
 
+[Extended Data](ext_articles/979a6700.ext.json)
+
 ---
 
-### පරිසර යුක්ති කේන්ද්‍රයෙන් අභියාචනාධිකරණයට ලේඛනයක්
+### A document from the Court of Appeal from the Center
 
 *2024-02-21 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193657) · `si`
 
-අලි - මිනිස් ගැටුම විසඳීමට ගත යුතු යෝජනා ඇතුළත් ලේඛනයක් පරිසර යුක්ති කේන්ද්‍රය විසින් අභියාචනාධිකරණයට භාර දී තිබේ.
+The Environmental Justice Center has been handed over to the Court of Appeal.
 
-වනජීවී අමාත්‍යවරයා සහ වනජීවී අධ්‍යක්ෂ ජනරාල් ඇතුළු පිරිසකට එරෙහි ව ගොනු කර ඇති පෙත්සමක් අද (21) කැඳවූ අවස්ථාවේ එය අභියාචනාධිකරණයට ඉදිරිපත් කළ බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+The Minister of Wildlife and the Director General of Wildlife and the Director General of Wildlife were presented to the Court of Appeal today, Ada Derana reporter said.
 
-අලි මිනිස් ගැටුම් පවතින ප්‍රදේශවල පදිංචිකරුවන්ගෙන්, ක්ෂේත්‍රයේ බුද්ධිමතුන් ඇතුළු විද්වතුන්ගෙන් අදහස් ලබා ගැනීමෙන් අනතුරු ව මෙම යෝජනාවලිය සකස් කර ඇති බව පෙත්සම්කාර පරිසර යුක්ති කේන්ද්‍රය වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණයට දැනුම් දී තිබේ.
+The lawyer appearing on behalf of the Petitioqualian Citizens Center has informed the court that the proposal has been prepared with the residents of the Elephants, separately and intellectuals.
 
-ඒ අනුව මෙම යෝජනාවලිය අධ්‍යයනය කර සුදුසු වැඩපිළිවෙළක් සකස් කිරීම සඳහා එහි පිටපත් වග උත්තරකරුවන්ට ලබාදෙන ලෙස අධිකරණය නියෝග කර ඇති බව සඳහන් ය.
+Accordingly, the court ordered to be given the proposal to study the proposal and provide a suitable program to the respondents.
 
-පෙත්සම ලබන මාර්තු මස 26 වැනි දා කැඳවීමට නියම කළ අධිකරණය, අලි මිනිස් ගැටුම නිරාකරණය කිරීම සඳහා සකස් කළ හැකි වැඩපිළිවෙළ සම්බන්ධයෙන් කරුණු දක්වන ලෙස වගඋත්තරකාර පාර්ශ්වයට නියෝග කළ බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+The petition was ordered to be called on the 26th of this month, the respondent was ordered to be prepared to resolve the human-elephant conflict.
 
 ◼️
 
 [Data](articles/e6ee9840.json)
+
+[Extended Data](ext_articles/e6ee9840.ext.json)
 
 ---
 
@@ -120,19 +128,21 @@ One of them is a former military commander - I think that even though he is in t
 
 ---
 
-### උද්ධමනය තවත් ඉහළ ට
+### Inflation is more
 
 *2024-02-21 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193656) · `si`
 
-ජාතික පාරිභෝගික මිල දර්ශකය අනුව 2024 ජනවාරි මාසයේදී මෙරට උද්ධමනය සියයට 6.5ක් දක්වා ඉහළගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+The country's inflation has increased to 6.5 percent in January 2024, according to the National Customer Price Index.
 
-ඒ අනුව එම දර්ශකය අනුව 2023 වසරේ දෙසැම්බර් මාසයේදී උද්ධමනය සටහන් ව ඇත්තේ සියයට 4.2ක් ලෙසටය.
+Accordingly, in December 2023, inflation was 4.2 percent in December 2023.
 
-මේ අතර 2023 වසරේ දෙසැම්බර් මාසයේ සියයට 1.6ක් ලෙස පැවති ආහාර උද්ධමනය 2024 ජනවාරි මාසයේදී සියයට 4.1ක් දක්වා ඉහළගොස් ඇත.
+Meanwhile, 1.6 percent in December 2023, food inflation increased to 4.1 percent in January 2024.
 
 ◼️
 
 [Data](articles/76b6ae31.json)
+
+[Extended Data](ext_articles/76b6ae31.ext.json)
 
 ---
 

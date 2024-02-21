@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 23:33:17**
+As of **2024-02-22 00:02:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,275
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,562 (100.0%) of 8,563 articles have been extended.
+8,563 (100.0%) of 8,563 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,8 @@ Minister of Foreign Affairs Ali Sabry also stressed the importance of languages 
 ...
 
 [Data](articles/d8608bc1.json)
+
+[Extended Data](ext_articles/d8608bc1.ext.json)
 
 ---
 

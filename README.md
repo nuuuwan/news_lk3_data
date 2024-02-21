@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 14:51:18**
+As of **2024-02-21 15:02:41**
 
 ## Newspaper Stats
 
-*Scraped **8,454** Articles*
+*Scraped **8,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 718
 adaderanalk | 1,021
 tamilmirrorlk | 1,050
 virakesarilk | 1,131
-adaderanasinhalalk | 1,231
+adaderanasinhalalk | 1,233
 dailymirrorlk | 1,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,453 (100.0%) of 8,454 articles have been extended.
+8,456 (100.0%) of 8,456 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,50 @@ As per the relevant court order, 10 trade unions have been prevented from enteri
 ◼️
 
 [Data](articles/5218ab25.json)
+
+[Extended Data](ext_articles/5218ab25.ext.json)
+
+---
+
+### This is how the electricity tariff goes down
+
+*2024-02-21 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193650) · `si`
+
+The percentage of electricity tariff has been completely removed through the new amendment.
+
+Minister of Power and Energy Kanchana Wijesekara was speaking at a statement to Parliament today.
+
+The Minister further stated that the proposal will be made to the Public Utilities Commission by the CEB tomorrow.
+
+Accordingly, the increase in the 18 percent bill increased by the domestic and religious situations category will be reduced.
+
+The tourism industry is to be completely removed by the electricity industry of the tourism industry by 12 percent.
+
+The electricity bills of government institutions in October will be increased by 24 percent and reduces the same amount by the new amendment.
+
+◼️
+
+[Data](articles/64db8c4b.json)
+
+[Extended Data](ext_articles/64db8c4b.ext.json)
+
+---
+
+### Court order for 10 trade unions
+
+*2024-02-21 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193649) · `si`
+
+Fort Magistrate's Court today (21) has issued an order today.
+
+Accordingly, the Ministry of Finance, Ministry of Finance, the Presidential Secretariat, the Central Bank and the Presidential Board has been issued.
+
+It further states that the public should not be made to cause stress or traffic.
+
+◼️
+
+[Data](articles/c6fe60dd.json)
+
+[Extended Data](ext_articles/c6fe60dd.ext.json)
 
 ---
 
@@ -1953,43 +1997,5 @@ Sri Lanka has agreed to export tea from Sri Lanka instead of $ 250 million to Ir
 [Data](articles/1e5c73e1.json)
 
 [Extended Data](ext_articles/1e5c73e1.ext.json)
-
----
-
-### We believe in agriculture
-
-*2024-02-21 03:18:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயம்-மீது-நம்பிக்கை-கொண்டுள்ளோம்/175-333559) · `ta`
-
-Agriculture made a massive contribution to the last economic crisis in Sri Lanka. President Ranil Wickremesinghe said that agriculture and tourism have been identified as two main sectors that can quickly rebuild the country.
-
-The President said this while addressing the inauguration of the 37th session of the Asia and Pacific Regional Conference of the United Nations Food and Agricultural Organization in Colombo yesterday.
-
-We are focusing on modern agricultural methods in recent times. It takes 10 - 15 years. However, our purpose is to achieve that goal in 10 years. For that, we will bring new agricultural systems into the country.
-
-But we have another problem. Young people come to the cities from the villages. They do not engage in traditional farming. Modernization of agriculture can be retained again in the villages. Accordingly, the subjects of the Ministry of Agriculture, which were divided into three parts, were brought under a minister.
-
-...
-
-[Data](articles/8af833ae.json)
-
-[Extended Data](ext_articles/8af833ae.ext.json)
-
----
-
-### President tributes to Gamini Jayavikrama's body
-
-*2024-02-21 03:10:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காமினி-ஜயவிக்ரம-உடலுக்கு-ஜனாதிபதி-அஞ்சலி/175-333558) · `ta`
-
-President Ranil Wickremesinghe paid a final tribute to senior politician and former minister Gamini Jayawickrama Perera.
-
-The President paid a final tribute to the house in Kuttugambala, Kurunegala, where the former minister's body was placed.
-
-Subsequently, he expressed his sympathies to family members, including his son, Asanga Jayawickrama, a former member of the Northwest Provincial Council.. (A)
-
-◼️
-
-[Data](articles/02ebe9c0.json)
-
-[Extended Data](ext_articles/02ebe9c0.ext.json)
 
 ---

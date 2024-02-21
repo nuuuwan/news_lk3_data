@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 02:33:08**
+As of **2024-02-22 02:48:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,578 (99.9%) of 8,586 articles have been extended.
+8,586 (100.0%) of 8,586 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ He underscored the principle that any peace agreement must be inclusive and not 
 
 [Data](articles/e7a999e2.json)
 
+[Extended Data](ext_articles/e7a999e2.ext.json)
+
 ---
 
 ### Met. Dept. warns public on heat index in several districts
@@ -66,41 +68,55 @@ The warning serves as a reminder for individuals to avoid prolonged exposure to 
 
 [Data](articles/e5b662e8.json)
 
+[Extended Data](ext_articles/e5b662e8.ext.json)
+
 ---
 
-### உண்மையை கண்டறியும் ஆணைக்குழு உருவாக்கத்து முன்தாக 36ஆணைக்குழுக்களை அங்கீகரியுங்கள் - நான்கு சிவில் அமைப்புக்கள் கூட்டாக வலியுறுத்து
+### Recognize 36 Commissions before the creation of the Truth - Four Civil Organizations
 
 *2024-02-22 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177004) · `ta`
 
-இலங்கை அரசாங்கம் புதிய உண்மையைக் கண்டறியும் ஆணைக்குழுவை உருவாக்குவதற்கு முன்னதாக அரசாங்கத்தின் அங்கீகாரத்துடன் ஸ்தாபிக்கப்பட்ட 36ஆணைக்குழுக்களையும் அங்கீகரிக்க வேண்டுமென சிவில் அமைப்புக்கள் கூட்டாக வலியுறுத்தியுள்ளன.
+Civil organizations have jointly urged the Sri Lankan government to recognize the 36 commissions established with the approval of the government before the creation of a new truth.
 
-சர்வதேச உண்மைக்கும் நீதிக்குமான செயற்திட்டம், இலங்கை மனித உரிமைகள் மற்றும் மேம்பாட்டு மையம், காணாமலாக்கப்பட்டவர்களது குடும்பங்களது அமைப்பு, பெண்கள் செயற்பாட்டு வலையமைப்பு ஆகிய அமைப்புக்களே கூட்டாக வலியுறுத்தியுள்ளன.
+The International Truth and Justice Project, the Sri Lanka Human Rights and Development Center, the Families of the Missing Persons and the Women's Operations Network have jointly urged.
 
-பாரதூரமான மனித உரிமைமீறல்கள் தொடர்பாக விசாரணை செய்வதற்கு அமைக்கப்பட்ட அரசாங்க ஆணைக்குழுக்களின் எண்ணிக்கை பாதிக்கப்பட்ட இலங்கையர்களால் கணக்குவைக்க முடியாத எண்ணிக்கைகளைத் தாண்டியுள்ளது.
+The number of government commissions set up to investigate serious human rights violations has exceeded the number of Sri Lankans who have affected the affected Sri Lankans.
 
-இருந்தும் பிறிதொரு ஆணைக்குழு உருவாக்கப்படவுள்ளது. உண்மை, ஐக்கியம் மற்றும் நல்லிணக்க ஆணைக்கு எனப்படும் இப்புதிய ஆணைக்குழு, உண்மையைக் கண்டறிவதற்காக இலங்கை
+However, another commission is to be created. The new Commission, called Truth, Unity and Reconciliation Order, Sri Lanka to find the truth
 
-எனினும், நீதியும் பொறுப்புக்கூறலும் மழுப்பலானதாகவே தொடர்ந்தும் இருந்துவருவதாகப் பாதிக்கப்பட்டவர்கள் கூறுகின்றனர். நடவடிக்கை எடுக்கக்கோரி, காணாமற்போனவர்களின் குடும்பங்கள்
+However, the victims say that justice and accountability continue to remain elusive. To take action, the families of the missing
+
+Over 240 relatives have died without knowing what happened to their loved ones.
 
 ...
 
 [Data](articles/e674f6b1.json)
 
+[Extended Data](ext_articles/e674f6b1.ext.json)
+
 ---
 
-### சித்திரை புத்தாண்டு மகிழ்வுடன் கொண்டாட மதுபான விலைகளை குறைக்க வேண்டும் - இராஜாங்க அமைச்சர் ஜனாதிபதியிடம் வலியுறுத்தல்
+### Celebrating New Year's Eve
 
 *2024-02-22 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177002) · `ta`
 
-பொருளாதார நெருக்கடியினால் நாட்டு மக்கள் கடந்த மூன்றாண்டு காலமாக மகிழ்ச்சியுடன் பண்டிகைகளைக் கொண்டாடவில்லை.இந்த ஆண்டு சித்திரை புத்தாண்டை மகிழ்வுடன்  கொண்டாட மதுபானங்களின் விலைகளைக் குறைக்க வேண்டும். இந்த பணிவான கோரிக்கையை ஜனாதிபதி நிறைவேற்ற வேண்டும் என கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தஸநாயக்க தெரிவித்தார்.
+The people of the country have not celebrated the festivals for the past three years due to the economic crisis.. Minister of State for Industry Samara Sampath Dasanayake said the President should fulfill this humble demand.
 
-பாராளுமன்றத்தில் புதன்கிழமை (21) இடம்பெற்ற நாட்டின் தற்போதைய நிலைவரம் தொடர்பான சபை ஒத்துழைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at a debate on the current state of affairs in Parliament on Wednesday (21).
 
-மத்திய வங்கியின் ஆளுநரின் சம்பளம் அதிகரிப்பு தொடர்பில் மாறுப்பட்ட கருத்துக்கள் குறிப்பிடப்படுகின்றன.நாடு மிக மோசமான பொருளாதார நெருக்கடியை எதிர்க்கொண்ட வேளையில்  அவர் தான் பொருளாதார மீட்சிக்கான பொறுப்பை ஏற்றார்.ஆகவே கடந்து வந்த பாதையை மறந்து விடக் கூடாது.
+While the country resisted the worst economic crisis, he took responsibility for economic recovery.
 
-...
+Opposition Leader and Janatha Vimukthi Peramuna (JVP) leader says that the government is ready to take over the economy after the advancement of the economy.
+
+The people of the country have not been relieved for the past three years due to economic impact.
+
+The country has now recovered from the crisis. This time, the prices of liquor should be reduced to celebrate the New Year.
+
+◼️
 
 [Data](articles/b6e3a57b.json)
+
+[Extended Data](ext_articles/b6e3a57b.ext.json)
 
 ---
 
@@ -116,21 +132,27 @@ Earlier this week, the President’s Media Division issued a statement to the ef
 
 [Data](articles/01a878d3.json)
 
+[Extended Data](ext_articles/01a878d3.ext.json)
+
 ---
 
-### அரபு புத்தங்களை நாட்டுக்குள் கொண்டுவர பாதுகாப்பு அமைச்சு விதித்திருக்கும் தடையை மீள பெற்றுக்கொள்ள  ஜனாதிபதி  நடவடிக்கை எடுக்க வேண்டும் - ரிஷாத் பதியுதீன் சபையில் கோரிக்கை
+### The President should take steps to recover the ban imposed by the Ministry of Defense to bring the Arab Buddha into the country - Rishad Bathiudeen
 
 *2024-02-22 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177003) · `ta`
 
-ஈஸ்டர் குண்டுத்தாக்குலைத் தொடர்ந்து மூடப்பட்ட ராகம மற்றும் மஹர பள்ளிவாசல்களை மீள திறப்பதற்கு அரசாங்கம் விரைவாக நடவடிக்கை எடுக்க வேண்டும். அத்துடன் அரபு புத்தங்களை நாட்டுக்குள் கொண்டுவர பாதுகாப்பு அமைச்சு விதித்திருக்கும் தடையை மீள பெற்றுக்கொள்ள  ஜனாதிபதி  நடவடிக்கை எடுக்க வேண்டும் என தேசிய மக்கள் காங்கிரஸ் தலைவர் ரிஷாத் பதியுதீன் தெரிவித்தார்.
+The government should take immediate action to reopen the Ragama and Mahara schools closed following the Easter bombing. National People's Congress leader Rishad Bathiudeen said that the President should take steps to restore the ban imposed by the Ministry of Defense to bring the Arab Buddha into the country.
 
-பாராளுமன்றத்தில் புதன்கிழமை (21) இடம்பெற்ற  நாட்டின் தற்போதைய நிலைமை தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்தார்.
+He said this while addressing the debate on the current state of the country held in Parliament on Wednesday (21).
 
-ஈஸ்டர் குண்டுத்தாக்குலை தொடர்ந்து அரபு புத்தங்களை நாட்டுக்கொள் கொண்டுவர தடைவித்தித்து பாதுகாப்பு அமைச்சின் செயலாளரின் கடிதம் இன்னும் அமுலில் உள்ளது. அதனால் நாட்டில் இருக்கும் அரபு மத்தரசாக்களுக்கு தேவையான அரபு பத்தகங்களை கொண்டுவர முடியாத நிலை இருந்து வருகிறது.
+The Secretary of the Ministry of Defense is still in force forbidding the Arab Buddha following the Easter bombing. So the Arab Mattarasas in the country are unable to bring the Arabic bottles.
+
+Similarly, even tourists from Arab countries are unable to bring Arab books. The President should therefore take action to withdraw the letter to the Secretary of the Ministry as the Minister of Defense.
 
 ...
 
 [Data](articles/6c7746a3.json)
+
+[Extended Data](ext_articles/6c7746a3.ext.json)
 
 ---
 
@@ -148,6 +170,8 @@ Spa Ceylon, the iconic Ayurveda Wellness brand, has won three international acco
 
 [Data](articles/d0207955.json)
 
+[Extended Data](ext_articles/d0207955.ext.json)
+
 ---
 
 ### CTC recognised as Top Employer for fourth consecutive year
@@ -161,6 +185,8 @@ The Top Employers Institute is a global authority established in 1991. Based in 
 ...
 
 [Data](articles/9336d905.json)
+
+[Extended Data](ext_articles/9336d905.ext.json)
 
 ---
 

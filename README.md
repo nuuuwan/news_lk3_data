@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 14:17:32**
+As of **2024-02-21 14:33:00**
 
 ## Newspaper Stats
 
-*Scraped **8,450** Articles*
+*Scraped **8,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 443
 dailyftlk | 456
 adalk | 718
 adaderanalk | 1,020
-tamilmirrorlk | 1,047
+tamilmirrorlk | 1,050
 virakesarilk | 1,131
 adaderanasinhalalk | 1,231
 dailymirrorlk | 1,253
@@ -26,57 +26,79 @@ dailymirrorlk | 1,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,447 (100.0%) of 8,450 articles have been extended.
+8,453 (100.0%) of 8,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### STF නිලධාරින් පස් දෙනෙකු පිළිබඳ අධිකරණයෙන් නියෝගයක්
+### Court orders five STF officers
 
 *2024-02-21 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193648) · `si`
 
-පැහැරගෙන යාමේ සිද්ධියක් සම්බන්ධයෙන් සැක කෙරෙන නිලධාරින් පස් දෙනෙකු පිළිබඳ ලබන සඳුදා තෙක් ඉදිරි පියවරක් නොගන්නා ලෙස අභියාචනාධිකරණය අද (21) ආණමඩුව මහෙස්ත්‍රාත් අධිකරණයට නියෝග කර ඇත.
+The Court of Appeal today (21) ordered the Anamaduwa Magistrate's Court not to take steps to take steps to take steps to take steps to take five officers in the abduction incident.
 
-පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් පස් දෙනෙකු පිළිබඳ මෙම නියෝගය ලබා දී ඇති අතර, ආණමඩුව පොලීසියේ කොස්තාපල්වරයකු පැහැරගෙන යාම සිද්ධියක් සම්බන්ධයෙන් සැකකරුවන්ට චෝදනා එල්ල වී තිබේ.
+The order has been given the order on five STF officers and the suspects have been accused of abduction of an Anamaduwa Police a constable.
 
-විශේෂ කාර්ය බළකා නිලධාරීන් විසින් ගොනු කළ රිට් පෙත්සමක් සලකා බැලීමෙන් අනතුරු ව අභියාචනාධිකරණය මෙම නියෝග නිකුත් කර ඇත.
+The Court of Appeal has issued the orders after considering a Rit petition filed by STF personnel.
 
 ◼️
 
 [Data](articles/3af4922a.json)
 
+[Extended Data](ext_articles/3af4922a.ext.json)
+
 ---
 
-### බස් රියදුරු ශාන්ත ජයසේකර ට මගීන්ගෙන් උපහාර
+### Iranian President of Sri Lanka soon
+
+*2024-02-21 13:43:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரைவில்-இலங்கை-வரும்-ஈரான்-ஜனாதிபதி/175-333588) · `ta`
+
+Iranian President Ibrahim Raisi will visit Sri Lanka very soon, Foreign Minister Hussein Amir Abdullah said.
+
+The Iranian Foreign Minister, who was on a official visit to Sri Lanka, made this observation at a joint press conference held in Colombo yesterday.
+
+◼️
+
+[Data](articles/34096ae5.json)
+
+[Extended Data](ext_articles/34096ae5.ext.json)
+
+---
+
+### Bus driver felicitates St. Jayasekara
 
 *2024-02-21 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193647) · `si`
 
-වසර 18ක කාලයක් බස් රියදුරෙකු ලෙස සේවය කළ පුද්ගලයෙකුට මගීන් එකතුවී උපහාර දැක්වීමේ සිද්ධියක් වාර්තා විය.
+A person who served as a bus driver for 18 years, a complaint was reported to tribute the passengers.
 
-ඒ, හැටන් පෝඩයිස් හරහා ඩයගම දක්වා ධාවනය වූ ලංගම බස් රථයක රියදුරෙකු ට.
+It was a driver of a SLTB bus, which was traveling to Diagama through Hatton Podis.
 
-වසර 18ක කාලයක් එලෙස සේවය කළ ශාන්ත ජයසේකර මහතාට එම බස් රථයේ ගමන්ගත් මගීන් එක්වී උපහාර දැක්වීමට පසුගියදා කටයුතු කර තිබුණි.
+Shantha Jayasekera, who was serving as 18 years, was held recently to tribute passengers on the bus.
 
 ◼️
 
 [Data](articles/5c3bb67c.json)
 
+[Extended Data](ext_articles/5c3bb67c.ext.json)
+
 ---
 
-### ඉරාන ජනපති කඩිනමින් ලංකාවට එන්න සැරසෙයි
+### Iranian President to visit Sri Lanka soon
 
 *2024-02-21 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193646) · `si`
 
-ඉතා කඩිනමින් ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි මහතා ශ්‍රී ලංකාවේ සංචාරයක නිරතවනු ඇති බව එරට විදේශ අමාත්‍ය ආචාර්ය හුසේන් ආමීර් අබ්දුල්ලාහින් මහතා පවසයි.
+Minister of Foreign Minister Hussein Armir Abdullahin says that Iranian President Irania will visit Sri Lanka.
 
-මෙරට නිල සංචාරයක නිරතවී සිටින ඉරාන විදේශ අමාත්‍යවරයා ඊයේ කොළඹදී එකාබද්ධ ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් මේ බව සඳහන් කළේය.
+The Iranian Foreign Minister of Sri Lanka participated in a joint press conference in Colombo yesterday.
 
-අනතුරුව ඉරාන විදේශ අමාත්‍ය ආචාර්ය හුසේන් ආමීර් අබ්දුල්ලාහින් මහතා සහ විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතාගේ ප්‍රධානත්වයෙන් පැවැති ඒකාබද්ධ ප්‍රවෘත්ති සාකච්ඡාවක් විදේශ කටයුතු අමාත්‍යාංශයේදී පැවැත්වුණි.
+Iranian Foreign Minister Dr. Hussein Armir Abdullahin and External Affairs Minister Ali Sabri presented at the Ministry of External Affairs.
 
 ◼️
 
 [Data](articles/69fbcfc4.json)
+
+[Extended Data](ext_articles/69fbcfc4.ext.json)
 
 ---
 
@@ -97,6 +119,50 @@ He said this while speaking at the adjournment debate moved by the Ipposition on
 [Data](articles/7fbd996b.json)
 
 [Extended Data](ext_articles/7fbd996b.ext.json)
+
+---
+
+### Fans standing in line to buy T20 tickets
+
+*2024-02-21 13:28:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/T20-டிக்கெட்-வாங்க-வரிசையில்-நிற்கும்-ரசிகர்கள்/44-333587) · `ta`
+
+There are huge queues at the Rangiri Dambulla International Cricket Ground to buy tickets for the last T20 match between Sri Lanka and Afghanistan.
+
+The Sri Lankan team, which leads 2-0 in the series, will face Afghanistan in the last match of the T20 series at 07.00 pm local time.
+
+Hundreds of people are lined up at the Dambulla Ground to buy tickets to watch the match after the Sri Lankan cricket company announced that some tickets would be available.
+
+According to reports, cricket fans stood in line from 03.00 am today.
+
+◼️
+
+[Data](articles/ace0ed09.json)
+
+[Extended Data](ext_articles/ace0ed09.ext.json)
+
+---
+
+### Twin murder in Mannar: two arrested
+
+*2024-02-21 13:21:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-இரட்டை-படுகொலை-இருவர்-கைது/72-333586) · `ta`
+
+Two persons have been arrested in connection with the murder of two people in the Mannar - Adampan and Mullikandal area, police said.
+
+Two, 33 and 55, from Uilangulam and Mannar, were arrested on Tuesday evening, police said.
+
+The double murder took place on August 24, 2023.
+
+The firing was carried out on those who were traveling on a motorbike to watered the field.
+
+Jesudasan Arundavarajah (age 42) from Nochchikkulam, Mannar and Ganapathi Kalimuthu (age-56) from Ichalavakai village in the Manthai West Divisional Secretariat Division.
+
+The two suspects arrested in connection with the double murder have been detained at the Adampan police station and are being investigated.
+
+◼️
+
+[Data](articles/c99b7cbe.json)
+
+[Extended Data](ext_articles/c99b7cbe.ext.json)
 
 ---
 
@@ -1929,61 +1995,5 @@ We implemented the housing scheme we got through the Government of India on the 
 [Data](articles/182a6f00.json)
 
 [Extended Data](ext_articles/182a6f00.ext.json)
-
----
-
-### Sword Cut in Point: Two people injured
-
-*2024-02-21 03:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பருத்தித்துறையில்-வாள்-வெட்டு-இருவர்-காயம்/71-333556) · `ta`
-
-Two students were injured in a sword cutting incident in Jaffna - Point Pedro.
-
-◼️
-
-[Data](articles/0d86888b.json)
-
-[Extended Data](ext_articles/0d86888b.ext.json)
-
----
-
-### Sword Cut in Point: Two people injured
-
-*2024-02-21 03:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பருத்தித்துறையில்-வாள்-வெட்டு-இருவர்-காயம்/175-333556) · `ta`
-
-Two students were injured in a sword cutting incident in Jaffna - Point Pedro.
-
-◼️
-
-[Data](articles/d526ee75.json)
-
-[Extended Data](ext_articles/d526ee75.ext.json)
-
----
-
-### Extensive congestion in prisons: How do you know how to rise?
-
-*2024-02-21 02:26:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjrkg4jnr2po) · `si`
-
-Extensive congestion in prisons: How do you know how to rise?
-
-There are about three times the number of inmates who can be detention in prisons.
-
-BBC was able to obtain data on the status of each prison as per the request of the Right to Information Act.
-
-The Colombo remand prison and new Magazine Prison can be identified as prisons. A group of nearly a group of inmates, respectively, respectively, a group of inmates of the country.
-
-Nearly 700 people are arrested as a generally arrested under the operation of 'Justice' operation.
-
-Iranian, Israel, US agents in Sri Lanka: What's going on?
-
-Wind Power Plants: 'Going along the Vani's corridor has to get used to eight to birds.'
-
-Lecoils of Pitipinations: What is the dispute between the ards and fishermen of Colombo?
-
-◼️
-
-[Data](articles/de43c59f.json)
-
-[Extended Data](ext_articles/de43c59f.ext.json)
 
 ---

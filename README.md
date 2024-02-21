@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-21 23:17:30**
+As of **2024-02-21 23:33:17**
 
 ## Newspaper Stats
 
-*Scraped **8,562** Articles*
+*Scraped **8,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,41 +20,61 @@ adaderanalk | 1,035
 tamilmirrorlk | 1,064
 virakesarilk | 1,147
 adaderanasinhalalk | 1,257
-dailymirrorlk | 1,274
+dailymirrorlk | 1,275
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,561 (100.0%) of 8,562 articles have been extended.
+8,562 (100.0%) of 8,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-21 (Wednesday)
 
-### ඇෆ්ගනිස්තානයට ලකුණු 03ක ජයක්
+### Afghanistan win by 3 runs
 
 *2024-02-21 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193678) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර තෙවැනි සහ අවසන් 20යි 20 තරගයෙන් ඇෆ්ගනිස්තානය ලකුණු 03ක ජයක් වාර්තා කිරීමට සමත් විය.
+Afghanistan beat Afghanistan by 3 runs in the third and final between Sri Lanka and Afghanistan.
 
-කාසියේ වාසිය දිනූ ඇෆ්ගනිස්තාන නායකයා පළමුව පන්දුවට පහර දීමට තීරණය කළ අතර, ඒ අනුව ඔවුහු පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 209ක් රැස් කළ හ.
+The Afghanistan decided to bat first, accordingly, they scored 209 runs for the loss of 5 wickets at the end of 20 overs.
 
-රහමනුල්ලා ගුර්බාස් ලකුණු 70ක් රැස් කළ අතර, හස්රතුල්ලා සසායි ලකුණු 45ක් රැස් කළේ ය.
+Hurbas scored 70 runs and Hastuthulla scored 45 runs.
 
-පන්දු යැවීමේ දී මතීෂ පතිරණ සහ අකිල ධනංජය අතරේ කඩුලු 02 බැගින් බෙදී ගියේ ය.
+In bowling, Matha Pathirana and Akila Dananjaya divided 02 wickets each.
 
-පිළිතුරු ඉනිම ක්‍රීඩා කළ ශ්‍රි ලංකාවට කඩුලු 06ක් දැවී රැස් කර ගැනීමට හැකි වුණේ ලකුණු 206ක් පමණි.
+In reply, Sri Lanka were able to score only 206 runs for the loss of 6 wickets.
 
-ශ්‍රී ලංකාව වෙනුවෙන් විශිෂ්ට පිතිකරණයක යෙදුණු පැතුම් නිස්සංක ලකුණු 60ක් රැස් කළේ ය.
+The gathering of excellent bodies of Sri Lanka for Sri Lanka scored 60 runs.
 
-නමුත් අවාසනාවන්ත ලෙස ආබාධයකට ලක් වීම නිසා ඔහුට පිටියෙන් ඉවත් වීමට සිදු විය.
+But unfortunately, he had to leave the flock due to disability.
 
-පැතුම්ගේ ඉවත් වීමෙන් පසු ශ්‍රී ලංකා ඉනිමේ බර කරට ගත් කමිඳු මෙන්ඩිස් ලකුණු 65ක් රැස් කළේ ය.
+Kumindu Mendis, who was weighing the Sri Lankan innings after the dismissal, scored 65 runs.
 
 ◼️
 
 [Data](articles/3c3b2ade.json)
+
+[Extended Data](ext_articles/3c3b2ade.ext.json)
+
+---
+
+### 43 percent of languages of the world endangered
+
+*2024-02-21 22:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/43-percent-of-languages-of-the-world-endangered/108-277502) · `en`
+
+Colombo, Feb 21 (Daily Mirror) - The importance of preserving mother languages were stressed today with the revelation that 43 percent of the 7,000 languages in the world have become endangered.
+
+Bangladesh High Commissioner in Colombo Tareq Md Ariful Islam led the campaign for the preservation of mother tongues during an event organized by the High Commission, the Ministry of Education and the National Scouts Association of Sri Lanka to commemorate the International Day of Mother Languages.
+
+“Around 43 percent of the 7,000 languages in the world have become endangered today. More than 40 percent of the people who speak different languages do not have access to education in their mother tongues. It is time we turned the tide,” High Commissioner Islam said.
+
+Minister of Foreign Affairs Ali Sabry also stressed the importance of languages and thereby stressed that languages bring about harmony in spite of diversity.
+
+...
+
+[Data](articles/d8608bc1.json)
 
 ---
 
@@ -450,7 +470,7 @@ She was unexpected at Battaramulla Wickremesingura Junction in Battaramulla.
 
 *2024-02-21 19:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-wave-warning-issued-for-Colombo-and-several-other-Districts/108-277499) · `en`
 
-Colombo, Feb. 21 (Daily Mirror)- The Meteorology Department yesterday issued a ‘Caution’ level heat warning for some places in North-Western province and Gampaha, Colombo, Hambantota and Moneragala District.
+Colombo, Feb. 21 (Daily Mirror)- The Meteorology Department today issued a ‘Caution’ level heat warning for some places in North-Western province and Gampaha, Colombo, Hambantota and Moneragala District.
 
 The Heat index Advisory issued by the Natural Hazards Early Warning Centre said that the heat index, the temperature felt on the human body is expected to increase up to ‘Caution’ level at some places in North-western province and Gampaha, Colombo, Hambantota and Moneragala District.
 
@@ -2067,23 +2087,5 @@ The Iranian Foreign Minister, who was on a official visit to Sri Lanka, made thi
 [Data](articles/34096ae5.json)
 
 [Extended Data](ext_articles/34096ae5.ext.json)
-
----
-
-### Bus driver felicitates St. Jayasekara
-
-*2024-02-21 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193647) · `si`
-
-A person who served as a bus driver for 18 years, a complaint was reported to tribute the passengers.
-
-It was a driver of a SLTB bus, which was traveling to Diagama through Hatton Podis.
-
-Shantha Jayasekera, who was serving as 18 years, was held recently to tribute passengers on the bus.
-
-◼️
-
-[Data](articles/5c3bb67c.json)
-
-[Extended Data](ext_articles/5c3bb67c.ext.json)
 
 ---

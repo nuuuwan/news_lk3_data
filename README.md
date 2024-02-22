@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 12:33:04**
+As of **2024-02-22 12:49:07**
 
 ## Newspaper Stats
 
-*Scraped **8,660** Articles*
+*Scraped **8,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 442
 islandlk | 451
 dailyftlk | 464
 adalk | 737
-adaderanalk | 1,040
-tamilmirrorlk | 1,079
+adaderanalk | 1,041
+tamilmirrorlk | 1,080
 virakesarilk | 1,164
 adaderanasinhalalk | 1,274
 dailymirrorlk | 1,290
@@ -26,89 +26,145 @@ dailymirrorlk | 1,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,652 (99.9%) of 8,660 articles have been extended.
+8,662 (100.0%) of 8,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### எல்லை தாண்டி மீன் பிடித்த 18 மீனவர்களுக்கு விடுதலை ; ஒருவருக்கு சிறை
+### Resignation
 
-*2024-02-22 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177023) · `ta`
+*2024-02-22 12:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நோயல்-பிரியந்த-இராஜினாமா/175-333653) · `ta`
 
-இலங்கை கடற்பரப்பில் எல்லை தாண்டி மீன் பிடித்த 18 மீனவர்கள் விடுதலை செய்யப்பட்டுள்ளதோடு, ஒருவருக்கு சிறை தண்டனை விதிக்கப்பட்டுள்ளது.
+Media Spokesperson of the Ceylon Electricity Board
 
-இம்மாதம் 7 ஆம் திகதி எல்லை தாண்டி வந்து மீன்பிடியில் ஈடுபட்ட 19 இந்திய மீனவர்கள், இரண்டு படகுகளுடன் நெடுந்தீவு கடற்பரப்பில் வைத்து கைதுசெய்யப்பட்டனர்.
+Power Minister Kanjana Wijesekera said that he has publicly apologized for his comment that students should be educated in the light of the bottle lamp.
 
-அவர்களுக்கு எதிராக ஆம் திகதி ஊர்காவற்துறை நீதிமன்றத்தில் நீதிமன்றத்தில் வழக்கு தாக்கல் செய்யப்பட்டது.
+Media spokesman of the Ceylon Electricity Board (CEB) Media Spokesperson, Nyol Priyantha, interviewed the media that the children of the plantations should be educated in kerosene lamps.
 
-இந்நிலையில், அவர்கள் அனைவரையும் விளக்கமறியலில் வைக்குமாறு நீதிவான் உத்தரவிட்டார். அந்த வழக்கானது இன்று வியாழக்கிழமை (22) ஊர்காவற்துறை நீதிமன்றத்தில் மீண்டும் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+In this regard, Opposition Leader Sajith Premadasa questioned in Parliament on Thursday (21).
 
-இன்றைய தினம் நடைபெற்ற வழக்கு விசாரணைக்கு அமைவாக, IND /TN/10/MM/925 இலக்கத்தினை கொண்ட படகில் பயணித்த 7 இந்திய மீனவர்களும், ஐந்து வருடங்களுக்கு ஒத்திவைக்கப்பட்ட 18 மாத சிறைத்தண்டனை என்ற நிபந்தனைகளுடன் விடுதலை செய்யப்பட்டதுடன் படகு அரசுடமையாக்கப்பட்டது.
+The Prime Minister said that the Electricity Board's media spokesman on the study of plantation children has been issued a directive to investigate the interview with the media and take disciplinary action.
 
 ...
 
-[Data](articles/69311366.json)
+[Data](articles/9cd5c2ec.json)
+
+[Extended Data](ext_articles/9cd5c2ec.ext.json)
 
 ---
 
-### கொக்குதொடுவாய் மனித புதைகுழி  வழக்கு விசாரணை இன்று
+### Switzerland to ban Hamas after Israel attacks
+
+*2024-02-22 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97451/switzerland-to-ban-hamas-after-israel-attacks-) · `en`
+
+Switzerland’s government said on Wednesday it wants to ban Hamas after the Palestinian militant group’s attacks in Israel last year which killed nearly 1,200 people and sparked a war in Gaza.
+
+Bern said it was taking action after the attacks on October 7 which killed two Swiss nationals and resulted in nearly 250 people being taken hostage.
+
+In response, Israel launched a military assault on Gaza that local health authorities say has killed nearly 29,000 Palestinians with thousands more feared lost amid the ruins.
+
+The Swiss government said under the new legislation Hamas and “cover or successor organisations” as well as organisations or groups that act on its behalf or in its name will be banned.
+
+The ban aims to punish Hamas for the October attacks as well as prevent the group using Switzerland as a safe haven or carrying out attacks in the country for example by making entry bans or expulsions easier to arrange.
+
+...
+
+[Data](articles/037ce7b8.json)
+
+[Extended Data](ext_articles/037ce7b8.ext.json)
+
+---
+
+### Release 18 fishermen who cross the border;Prison
+
+*2024-02-22 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177023) · `ta`
+
+18 fishermen who have crossed the Sri Lankan waters have been released and sentenced to death.
+
+On the 7th of this month, 19 Indian fishermen who were fishing along the border were arrested in the Nedundevu sea with two boats.
+
+A case was filed against them in the Kayts court on the day.
+
+In this case, the magistrate ordered all of them to be interrogated. The case was taken up again at the Kayts Court today (22).
+
+In response to today's case, 7 Indian fishermen who were traveling in a boat with Ind/TN/10/mm/925 were released and the boat was released with the conditions of the five -year -old 18 -month imprisonment.
+
+Sudhakaran, Deputy Director of the Jaffna District Aquatic Resources Department, said that 11 persons who were traveling on the boat on Ind/TN/TN/TN/10/Mm/324 were released with the conditions of the 18 -month prison sentence for five years.
+
+◼️
+
+[Data](articles/69311366.json)
+
+[Extended Data](ext_articles/69311366.ext.json)
+
+---
+
+### Kokkuttuvai Human Burial Case Today
 
 *2024-02-22 11:36:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குதொடுவாய்-மனித-புதைகுழி-வழக்கு-விசாரணை-இன்று/175-333650) · `ta`
 
-முல்லைத்தீவு கொக்குதொடுவாய் பகுதியில் 29.06.2023 கண்டுபிடிக்கப்பட்ட மனித புதைகுழி  தொடர்பான  வழக்கானது இன்றையதினம் (22)  முல்லைத்தீவு மாவட்ட நீதிமன்றில் முன்னெடுக்கப்பட்டது.
+The human burial case was found in the Mullaitivu District Court today (22).
 
-இதற்கமைய, முல்லைத்தீவு கொக்குதொடுவாய் பகுதியில் கண்டுபிடிக்கப்பட்ட மனித புதைகுழியின் முதல் கட்ட அகழ்வானது 06.09.2023 அன்று ஆரம்பமாகி பதினொரு நாட்கள் நடைபெற்று 17 உடற்பாகங்கள் மீட்கப்பட்ட நிலையில் இடைநிறுத்தப்பட்டிருந்தது
+Accordingly, the first phase of the human burial ground in Mullaitivu Kokkudoduwai area began on 06.09.2023 and held eleven days after the recovery of 17 trunks.
 
-மேலும், மீண்டும் அகழ்வின் இரண்டாம் கட்ட பணிகள் கடந்த 20.11.2023 அன்று ஆரம்பிக்கப்பட்டு தொடர்ச்சியாக ஒன்பது நாட்கள் நடைபெற்று  40 எலும்புக்கூட்டு தொகுதிகள் மீட்கப்பட்டுள்ளதுடன் இரண்டாம் கட்ட அகழ்வுபணி இடைநிறுத்தப்பட்டிருந்தது.
+In addition, the second phase of the excavation was started on 20.11.2023 and 40 skeletal blocks were recovered for nine consecutive days and the second phase was suspended.
 
-இதனை தொடர்ந்து மூன்றாம் கட்ட அகழ்வுபணிகள் வரும் மார்ச் மாதம்ஆரம்பிப்பது என தெரிவிக்கப்பட்டிருந்தது
+This was followed by the third phase of excavations to begin in March
 
-இதேவேளை, குறித்த விடயம் தொடர்பில் பேராசிரியர் ராஜ் சோமதேவ தனது அறிக்கையை நீதிமன்றுக்கு அனுப்பியுள்ளார் இந்நிலையில் குறித்த வழக்கு விசாரணை இன்றையதினம்(22)  வழக்கு எடுத்துக்கொள்ளப்பட்டது.
+Meanwhile, Professor Raj Somadeva has sent his report on the matter.
 
 ◼️
 
 [Data](articles/da502d4f.json)
 
+[Extended Data](ext_articles/da502d4f.ext.json)
+
 ---
 
-### பெரியப்பாவால் துஷ்பிரயோகம்: சிறுமி சொல்ல மறுத்தது ஏன்?
+### Abuse of Periyappa: Why did the little girl refuse to say?
 
 *2024-02-22 11:32:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரியப்பாவால்-துஷ்பிரயோகம்-சிறுமி-சொல்ல-மறுத்தது-ஏன்/175-333649) · `ta`
 
-11 வயதும் 10 மாதங்களுமான சிறுமியை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினார் என்றக் குற்றச்சாட்டின் பேரில், அவருடைய பெரியப்பா கைது செய்யப்பட்டுள்ளார்.
+His grandfather has been arrested for allegedly sexually abusing a girl, 11 and 10 months old.
 
-இந்த சம்பவம், மொனராகலை, மெதகம பொலிஸ் பிரிவில் ரத்தனதெனிய ஹொகொல்ல பிரதேசத்தில் இடம்பெற்றுள்ளது.
+The incident took place in the Monaragama and Medagama police division in the Ratanatheniya Hogolla area.
 
-11 வயதும் 10 மாதங்களுமேயான இச்சிறுமி, 2019 ஆம் ஆண்டில் இருந்து பெரியப்பாவினால், அச்சிறுமியின் வீட்டில் வைத்தே, இரண்டு வருடங்களாக அவ்வப்போது பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தியுள்ளார் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+Investigations have been found that the little girl, which is 11 and 10 months old, has been sexually abused for two years from time to time since 2019.
 
-அச்சிறுமியின் வீட்டில் ஒருவர் திருடுவதற்கு மறைந்துள்ளார் என்பது தொடர்பில் பொலிஸாரின் கவனத்துக்கு கொண்டு வந்த அயலவர்கள், அவரை பிடித்து பொலிஸாரிடம் ஒப்படைத்தனர்.
+Neighbors who brought him to the attention of the police have caught him and handed him over to the police about the fact that one of them was hiding to steal the house.
 
-அவரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளில், 15 வயதான சிறுமியுடன் காதல் உறவை ​கொண்டிருப்பதால் அந்த வீட்டுக்குச் சென்றதாகவும்,  அச்சிறுமியை எவ்விதமான தொந்தரவுக்கும் உட்படுத்த வில்லையென பொலிஸாரிடம் தெரிவித்துள்ளார்.
+Investigations carried out to him told the police that he had gone to the house because he had a romantic relationship with a 15 -year -old girl.
 
-எனினும், சிறுமியை வைத்திய பரிசோதனைக்கு உட்படுத்திய போது, அச்சிறுமி, அவ்வப்போது பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தப்பட்டுள்ளமை கண்டறியப்பட்டுள்ளது.
+However, when the girl was tested, it was found that the girl had been sexually abused.
+
+In this regard, the girl's investigation, her grandfather, occasionally subjected to sexual abuse. However, in the abdomen, he said he did not say the outside, fearing that there would be a dispute between the two men.
 
 ...
 
 [Data](articles/1b52cf7f.json)
 
+[Extended Data](ext_articles/1b52cf7f.ext.json)
+
 ---
 
-### சென்னையிலிருந்து யாழுக்கு வந்தவர் கைது
+### Arrested from Chennai to Jaffna
 
 *2024-02-22 11:30:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சென்னையிலிருந்து-யாழுக்கு-வந்தவர்-கைது/71-333648) · `ta`
 
-யாழ்ப்பாணத்தில் இடம்பெற்ற வன்முறை சம்பவங்களுடன் தொடர்புடைய குற்றச்சாட்டில் தேடப்பட்டு வந்த நபர் ஒருவர் தமிழகத்தில் தலைமறைவாகி இருந்து, மீண்டும் யாழ்ப்பாணம் திரும்பிய நிலையல் புதன்கிழமை (21) கைது  செய்யப்பட்டுள்ளார்.
+A man who was searching for the violence in Jaffna has been arrested on Wednesday (21) after a return to Jaffna in Tamil Nadu.
 
-சந்தேகநபர் சென்னையில் இருந்து யாழ்ப்பாணம் சர்வதேச விமான நிலையம் ஊடாக யாழ் திரும்புவதாக பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் , விமான நிலைய வளாகத்தில் காத்திருந்த பொலிஸார் குறித்த சந்தேக நபரை கைது செய்துள்ளனர்.
+The suspect has been arrested for waiting at the airport premises on the basis of confidential information available to the police that the suspect is returning from Chennai to Jaffna International Airport.
 
-யாழ்ப்பாணம் மற்றும் கோப்பாய் பகுதிகளில் இடம்பெற்ற வன்முறை சம்பவங்களுடன் தொடர்புடையவர் எனவும் , நீண்ட காலமாக தேடப்பட்ட சந்தேக நபர் எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+Police said he was involved in violent incidents in Jaffna and Kopayi areas and a long -awaited suspect.
 
-மேலும், சந்தேக நபரை பொலிஸ் காவலில் தடுத்து வைத்து விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+In addition, the suspect is being held in police custody and is conducting investigations, police said.
 
 ◼️
 
 [Data](articles/b9b38938.json)
+
+[Extended Data](ext_articles/b9b38938.ext.json)
 
 ---
 
@@ -138,19 +194,23 @@ The region has been identified as the largest and richest area in the kingdom of
 
 ---
 
-### மத்ரஸா மாணவனின் மர்ம மரணம் ; கைதான 4 சந்தேக நபர்களுக்கு விளக்கமறியல்
+### The mysterious death of the Madrasa student;Explanation for 4 suspects arrested
 
 *2024-02-22 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/177020) · `ta`
 
-மத்ரஸா மாணவனின் மர்ம மரணம் தொடர்பிலான சிசிரிவி காட்சி உள்ளடங்கிய முக்கிய தடயப்பொருட்களை அழித்த குற்றச்சாட்டு அடிப்படையில் கைதான  சிசிடிவி தொழிநுட்பவியலாளர் உட்பட 4  சந்தேக நபர்களை விளக்கமறியலில் வைக்குமாறு  கல்முனை நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+The Kalmunai Magistrate has ordered the four suspects, including the arrested CCTV technician, on charges of destroying the main forecasts involving the Sisirvi scene on the mysterious death of the Madrasa student.
 
-குறித்த வழக்கு  புதன்கிழமை (21) கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன்  முன்னிலையில் விசாரணைக்கு எடுத்து கொள்ளப்பட்ட நிலையில் மௌலவியின் வேண்டுகோளிற்கமைய சிசிடிரிவி காணொளிகளை அழித்த குற்றச்சாட்டில் கைது செய்யப்பட்ட 4 சந்தேகநபர்களும்  மன்றில்  முன்னிலைப்படுத்தப்பட்ட போது விளக்கமறியலில் வைக்குமாறு  நீதிவான் உத்தரவிட்டார்.
+The case was taken up in the presence of Kalmunai Magistrate MSM Samsuddin on Wednesday (21) and the four suspects arrested on charges of destroying the CCDRV videos at the request of Moulavi were present at the House.
 
-இதற்கமைய கடந்த செவ்வாய்க்கிழமை (20) சாய்ந்தமருது பொலிஸ் நிலையத்திற்கு சிசிரிவி தொழிநுட்பவியலாளர் உள்ளிட்ட 4 பேர் வரவழைக்கப்பட்டு வாக்குமூலம் பெறப்பட்ட நிலையில்  சாய்ந்தமருது பொலிஸ் நிலைய பொறுப்பதிகாரி எஸ்.எல். சம்சுதீன் வழிகாட்டலில் உப பொலிஸ் பரிசோதகர் ரவூப் தலைமையில்  கைது செய்யப்பட்டிருந்தனர்.
+Accordingly, four persons, including Sisirvi Technologist, were summoned to the Sainthamaruthu Police Station on Tuesday (20).. Under the guidance of Samsuddin, the Sub -Inspector of Police Rauf was arrested.
+
+The four suspects, aged 30, 26, 22 and 23, were produced before the Kalmunai Magistrate's Court until the 29th of February.
 
 ...
 
 [Data](articles/1ba7c1a3.json)
+
+[Extended Data](ext_articles/1ba7c1a3.ext.json)
 
 ---
 
@@ -698,19 +758,21 @@ The mobile phone, SIMP and four tobacco, which had been hidden in the rectum of 
 
 ---
 
-### இன்று கால்கோள் விழா
+### Calcolion Festival Today
 
 *2024-02-22 08:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கால்கோள்-விழா/175-333639) · `ta`
 
-இந்த வருடம் அரச பாடசாலைகளில் முதலாம் தரத்திற்கு மாணவர்களை இணைத்துக்கொள்ளும் நடவடிக்கை இன்று(22) ஆரம்பமாகின்றது.
+The process of enrolling students to the first grade of state schools this year begins today (22).
 
-இதற்கான நிகழ்வு எம்பிலிப்பிட்டிய போதிராஜா வித்தியாலயத்தில், கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தலைமையில் நடைபெறவுள்ளது.
+The event will be held at the Embilipitiya Bodhiraja Vidyalaya under the patronage of Education Minister Susil Premajayantha.
 
-முதலாம் தரத்திற்கு மாணவர்களை இணைத்துக்கொள்ளும் நடவடிக்கைகள் மாகாண மட்டத்திலும் மேற்கொள்ளப்படவுள்ளதாக கல்வி அமைச்சு மேலும் குறிப்பிட்டுள்ளது. R
+The Ministry of Education has further stated that the process of enrolling students for the first grade will be taken at the provincial level.. Remble
 
 ◼️
 
 [Data](articles/7614c8fa.json)
+
+[Extended Data](ext_articles/7614c8fa.ext.json)
 
 ---
 
@@ -792,19 +854,21 @@ Meanwhile, Director of the Family Health Bureau has stressed that women have fal
 
 ---
 
-### யாழில் ஒரே மாதத்தில் 531 பேர் கைது
+### 531 arrested in the same month in Jaffna
 
 *2024-02-22 08:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-ஒரே-மாதத்தில்-531-பேர்-கைது/71-333638) · `ta`
 
-யாழ்ப்பாணத்தில் தேடப்பட்டு வந்த 531 பேர் கடந்த ஒரு மாத கால பகுதிக்குள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+531 people searched in Jaffna have been arrested within the last one month, police said.
 
-பல்வேறு குற்றச் செயல்களுடன் தொடர்புடைய, நீதிமன்றங்களினால் பிடியாணைகள் பிறப்பிக்கப்பட்டவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+The arrests have been arrested by the courts in connection with various crimes.
 
-பிடியாணை பிறப்பிக்கப்பட்ட 230 நபர்களும் திறந்த பிடியாணை பிறப்பிக்கப்பட்ட 301 நபர்களுமே பொலிஸாரினால் கைது செய்யப்பட்டு நீதிமன்றங்களில் முற்படுத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The 230 persons who were issued and 301 were issued by the police and were arrested by the police, police said.
 
 ◼️
 
 [Data](articles/39686a7f.json)
+
+[Extended Data](ext_articles/39686a7f.ext.json)
 
 ---
 
@@ -1972,19 +2036,21 @@ The Minister made these remarks during a news conference held at the Presidentia
 
 ---
 
-### උද්ධමනය ඉහළට
+### Inflation up
 
 *2024-02-21 19:54:51* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-408228) · `si`
 
-මෙරට උද්ධමනය දෙසැම්බර් මාසයට සාපේක්ෂව ජනවාරි මාසයේදී ඉහළ ගොස් තිබේ. ජන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුවේ වාර්තාවල දැක්වෙන්නේ, 2023 දෙසැම්බර් මාසයේදී 4.2%ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය2024 ජනවාරි මාසය සඳහා 6.5%ක් දක්වා වැඩි වී ඇති බවයි.
+Inflation in Sri Lanka has risen in January compared to December. The reports of the Department of Census and Statistics indicate that inflation recorded in December 2023 increased to 6.5% for January 2024.
 
-2023 දෙසැම්බර් මාසයේදී 1.6%ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජනවාරි මාසයේදී 4.1%ක් දක්වා වැඩි වී තිබේ.
+In December 2023, the point of the food category recorded in December 2023 increased to 4.1% in January 2024.
 
-2023 දෙසැම්බර් මාසයේදී 6.3%ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජනවාරි මාසයේදී 8.5%ක් දක්වා වැඩි වී ඇත.
+In December 2023, 6.3% of the non-foods of non-foods increased to 8.5% in January 2024.
 
 ◼️
 
 [Data](articles/80f48ce3.json)
+
+[Extended Data](ext_articles/80f48ce3.ext.json)
 
 ---
 
@@ -2007,53 +2073,5 @@ The police have ordered the suspect to be remanded till the 26th of this month w
 [Data](articles/df9efe0b.json)
 
 [Extended Data](ext_articles/df9efe0b.ext.json)
-
----
-
-### "Can't drink leaks for the New Year"
-
-*2024-02-21 19:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டுக்கு-கசிப்பு-குடிக்க-முடியாது-சாராயம்-குடிக்க-வேண்டும்/175-333614) · `ta`
-
-The government should reduce the price of special liquor that the common people drink ahead of the New Year, said Minister of State for Minister of State.
-
-He told Parliament that the prices of alcoholism have risen and that people are trying to drink counterfeit money.
-
-“The price of alcohol has risen. People are currently drinking counterfeit. Brews are raging. People can't drink 'leaks' everyday. "Drink booze for the New Year," he said emotionally.
-
-He said the price of a bottle of alcohol could be reduced to 1500 rupees.He also said that the necessary compounds for alcohol can be obtained from Belvatte, Sevanagala and Ethimale.
-
-◼️
-
-[Data](articles/d41a8956.json)
-
-[Extended Data](ext_articles/d41a8956.ext.json)
-
----
-
-### Village Discussions on Lakme
-
-*2024-02-21 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193673) · `si`
-
-Lakmini Chulota Boguda Lakshu was carrying out the support of the University of Colombo today.
-
-She was a gender in the literal way of the word and was a support lecturer in the International Connection Division of the University of Colombo.
-
-The only daughter of Senior Lecturer of the University of Kelaniya, is a young girl who has overcome an educational cut.
-
-She is an appointment of the best student of the 2002 International Relations Program of the University of Colombo as well as the highest score, but also in external activities, including dance and external activities.
-
-In 2023, she began her career as a support lecturer in the International Connection Division of the International Connection Division of the University of Colombo.
-
-The victim was also a Dhamma education.
-
-She kept a lovely smile on the face of the face and leaves the university children who wait for the university.
-
-She was unexpected at Battaramulla Wickremesingura Junction in Battaramulla.
-
-...
-
-[Data](articles/2e18d260.json)
-
-[Extended Data](ext_articles/2e18d260.ext.json)
 
 ---

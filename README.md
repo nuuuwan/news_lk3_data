@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 21:17:37**
+As of **2024-02-22 21:33:01**
 
 ## Newspaper Stats
 
-*Scraped **8,741** Articles*
+*Scraped **8,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ newsfirstlk | 363
 islandlk | 451
 economynextcom | 452
 dailyftlk | 464
-adalk | 739
+adalk | 744
 adaderanalk | 1,051
 tamilmirrorlk | 1,089
 virakesarilk | 1,181
-adaderanasinhalalk | 1,290
+adaderanasinhalalk | 1,291
 dailymirrorlk | 1,304
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,738 (100.0%) of 8,741 articles have been extended.
+8,747 (100.0%) of 8,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Woman dies after falling at 7th floor of apartment complex
+
+*2024-02-22 20:49:17* · [`adalk`](https://www.ada.lk/breaking_news/මහල්-නිවාස-සංකීර්ණයක-7-වැනි-මහලින්-වැටී-වයෝවෘධ-කාන්තාවක්-මරුට/11-408237) · `si`
+
+Bambalapitiya Police say that the seventh floor falls into the ground and died of a woman in a Bambalapitiya Millagala Av.
+
+The victim was a 74 year old woman named Jayanandan Wadu Mom, who was residing in the housing complex.
+
+A police officer said that the deceased woman had been treated for mental illness.
+
+The complaint sector is conducting investigations on the instructions of the OIC of the Bambalapitiya Police Chief Inspector Sampath Padmalal.
+
+◼️
+
+[Data](articles/fc12d591.json)
+
+[Extended Data](ext_articles/fc12d591.ext.json)
+
+---
+
+### A new prison has to be opened
+
+*2024-02-22 20:43:52* · [`adalk`](https://www.ada.lk/breaking_news/අලුතෙන්-බන්ධනාගාරයක්-විවෘත-කිරීමට-සිදුවෙලා/11-408236) · `si`
+
+Minister of Justice, Principal Reforms and Constitutional Reforms said that a new prison has had to be opened due to the increase in prisons to 30000 prisons.
+
+When contacted, the minister in response to the front of the suspects arrested on special operations these days.
+
+He said that the Minister said that a new prison should be opened soon to resolve the problem of space in the next two weeks.
+
+The Minister said that the focus of a few who were not used using the use of use premises.
+
+However, Minister said that there was no funds to build expeditiously to build prisons, however, he would have to design prisons.
+
+We have asked whether the prisoner prisoners were to be arrested by the operation of justice and the opening of justice, the Minister said there was no connection between the operation of justice and the opening of a new context
+
+...
+
+[Data](articles/dcf4d006.json)
+
+[Extended Data](ext_articles/dcf4d006.ext.json)
+
+---
+
+### A new prison has to be opened
+
+*2024-02-22 20:43:36* · [`adalk`](https://www.ada.lk/breaking_news/අලුතෙන්-බන්ධනාගාරයක්-විවෘත-කිරීමට-සිදුවෙලා/11-408235) · `si`
+
+Minister of Justice, Principal Reforms and Constitutional Reforms said that a new prison has had to be opened due to the increase in prisons to 30000 prisons.
+
+When contacted, the minister in response to the front of the suspects arrested on special operations these days.
+
+He said that the Minister said that a new prison should be opened soon to resolve the problem of space in the next two weeks.
+
+The Minister said that the focus of a few who were not used using the use of use premises.
+
+However, Minister said that there was no funds to build expeditiously to build prisons, however, he would have to design prisons.
+
+We have asked whether the prisoner prisoners were to be arrested by the operation of justice and the opening of justice, the Minister said there was no connection between the operation of justice and the opening of a new context
+
+...
+
+[Data](articles/8e3998fe.json)
+
+[Extended Data](ext_articles/8e3998fe.ext.json)
+
+---
 
 ### Hot weather warning for seven districts
 
@@ -50,15 +118,61 @@ The Met. Dept. also advised the public to remain hydrated and take breaks in the
 
 [Data](articles/47f0190c.json)
 
+[Extended Data](ext_articles/47f0190c.ext.json)
+
 ---
 
-### நானுஓயா - ரதெல்ல வீதியில் பேருந்து கவிழ்ந்து விபத்து
+### The water leakage cannot stop the water leakage of the Samanala tank
+
+*2024-02-22 20:34:41* · [`adalk`](https://www.ada.lk/breaking_news/සමනල-වැව-ජලාශයේ-ජල-කාන්දුව-නවත්වන්න-බෑ/11-408234) · `si`
+
+The water leakage in the Samanala tank cannot be stopped;In the pretext of losing the fighbora, it is being done by the sectoral Oversight Committee on Energy and Transportation
+
+Sri Lanka is ready to face the radioactive conditions if a nuclear attack in the region
+
+Do not charge the electricity supply of electricity customers who have obtained the electrical meter meter (SMART ELECTRICITY MEET). A recommendation from the Committee
+
+Sri Lanka Ergyis Pvt Ltd. Lists in the Sectoral Supervision Committee on Energy and Transport. They also emphasized that various measures have been taken to prevent the water leakage and no such or the result could be obtained, but they have not been able to recover. Officials said that the commitment of preventing the fringe will work in the Committee.
+
+These facts were revealed when the Sectoral Oversight Committee on Energy and Transport When the Chairman of the Hon.
+
+...
+
+[Data](articles/65427dad.json)
+
+[Extended Data](ext_articles/65427dad.ext.json)
+
+---
+
+### Nanuoya - Radella road accident
 
 *2024-02-22 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177081) · `ta`
 
 ◼️
 
 [Data](articles/0f37d9fe.json)
+
+[Extended Data](ext_articles/0f37d9fe.ext.json)
+
+---
+
+### The Radella short road is a terrible accident on the road
+
+*2024-02-22 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193714) · `si`
+
+The Nanu Oya Rellamalla last night was accidental.
+
+Eight injured have been admitted to the Nuwara Eliya General Hospital.
+
+The victim was a bus carrying Sri Pada pilgrimage from the Matara area.
+
+The bus is severely damaged and the Nanu Oya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/3c68f476.json)
+
+[Extended Data](ext_articles/3c68f476.ext.json)
 
 ---
 
@@ -184,21 +298,23 @@ It is suspected that the real owner of the specific vehicles may be Welitha Sutt
 
 ---
 
-### புதிய கட்டண திருத்த முன்மொழிவை பொது பயன்பாட்டு ஆணைக்குழுவிடம் கையளிப்பு
+### Handing over the new payment amendment to the Public Utilities Commission
 
 *2024-02-22 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177074) · `ta`
 
-புதிய மின்சார கட்டண திருத்தம் தொடர்பான முன்மொழிவை 22 ஆம் திகதி வியாழக்கிழமை பொது பயன்பாட்டு ஆணைக்குழுவிடம் கையளித்ததாக இலங்கை மின்சார சபை தெரிவித்துள்ளது.
+The Ceylon Electricity Board (CEB) said that the proposal for the new electricity tariff revision was handed over to the Public Utilities Commission on Thursday 22nd.
 
-மின்கட்டணத்தை இயலுமான அளவு குறைப்பதற்கு பல்வேறு தரப்பினருடன் பேச்சுவார்த்தைகள் முன்னெடுக்கப்பட்டன. பலர் சாதகமான யோசனைகளை முன்வைத்துள்ளார்கள். இதற்கமைய கடந்த ஒக்டோபர் மாதம் அதிகரிக்கப்பட்ட மின்கட்டணத்தை முழுமையாக இரத்து செய்வதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+Negotiations with various parties were held to reduce the amount of electricity that could. Many have put forward favorable ideas. Accordingly, it has been decided to completely cancel the increased power plant last October.
 
-மின்சார சபையால் ஈட்டப்படும் இலாபத்தை நுகர்வோருக்கு வழங்கும் நோக்கில் இது தொடர்பான முன்மொழிவுகள் சமர்ப்பிக்கப்படுவதாக அதன் ஊடகப் பேச்சாளர் பொறியியலாளர் நோயல் பிரியந்த 21 ஆம் திகதி புதன்கிழமை தெரிவித்திருந்தார்.
+Media Spokesperson Engineer Priyantha said on Wednesday the 21st of Wednesday that the proposals were submitted to provide the profits made by the Electricity Board to consumers.
 
-வீட்டு மற்றும் மத தலங்களில் மின்கட்டணம் 18 சதவீதத்தாலும், கைத்தொழில்சாலைகள், ஹோட்டல்களுக்கான மின்கட்டணம் 12 சதவீதத்தாலும், அரச நிறுவனங்கள் மற்றும் திணைக்களங்களுக்கான மின்கட்டணம் 24  சதவீதத்தாலும் குறைக்கப்படும். திருத்தம் செய்யப்பட்ட மின்கட்டண திருத்த யோசனை இன்று வியாழக்கிழமை (22) பொதுப்பயன்பாடுகள் ஆணைக்குழுவிடம் கையளிக்கப்பட்டது.
+In household and religious places, the electricity will be reduced by 18 percent, the industrial and hotels 12 per cent, and the state institutions and departments will be reduced by 24 per cent.. The Public Use the Commission was handed over to the Commission on Thursday (22).
 
 ...
 
 [Data](articles/d1ff4e7a.json)
+
+[Extended Data](ext_articles/d1ff4e7a.ext.json)
 
 ---
 
@@ -961,6 +1077,22 @@ Following the investigation into the suspect, the main suspect was arrested with
 [Data](articles/bf989d5f.json)
 
 [Extended Data](ext_articles/bf989d5f.ext.json)
+
+---
+
+### Beware - 1143 plane damage to 4 shops
+
+*2024-02-22 14:04:14* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රවේසම්-වන්න----වෙළදසල්-4ක-සිරුරට-ප්‍රභලව-හානි-කරන-ආලේපන-1143ක්/11-408232) · `si`
+
+According to information received by the Wall, the four-large crosswads of the second crosswades have been arrested with 1143 coatings with the use of chemical compounds.
+
+Arrested Beauty Coatings are not complying with the criteria of the World Health Organization. The respective owners are residents of Artagaleihena, Moratuwa and Wattala areas.
+
+◼️
+
+[Data](articles/402afc5c.json)
+
+[Extended Data](ext_articles/402afc5c.ext.json)
 
 ---
 
@@ -1951,127 +2083,5 @@ However, he also went on to comment that the children do not need electricity to
 [Data](articles/2cc2366b.json)
 
 [Extended Data](ext_articles/2cc2366b.ext.json)
-
----
-
-### Two arrested with firearms
-
-*2024-02-22 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193694) · `si`
-
-A person who had a firearm in Sri Lanka has been arrested in the Medawala-Medammard area.
-
-The suspect had been recovered on a raid on information received on information received by the Pinnawala police officers.
-
-Meanwhile, a person who had been produced in the Ingiriya Quran area has also been arrested.
-
-The suspect is a 28 year old resident of the Handadwa area.
-
-◼️
-
-[Data](articles/fe28cbeb.json)
-
-[Extended Data](ext_articles/fe28cbeb.ext.json)
-
----
-
-### Resolution to remove illegal buildings in the area near the Polgola reservoir
-
-*2024-02-22 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177014) · `ta`
-
-The Kandy District Coordinating Committee has decided to conduct field inspections on the unauthorized buildings on both sides of the Tuttukemunu Mawatha, near the Kandy -Polgolla reservoir.
-
-The Coordinating Committee Chairman and Member of Parliament Gunathilaka Rajapaksa has advised that the resolution is being made in accordance with the complaints received by the Kandy, Polgola Dam and the residents of the area without the permission of the Kandy, the residents of the area, and that pedestrians are in a state of disgust.
-
-During a committee meeting held at the Kandy District Secretariat on Monday (19), the Chairman pointed out that the construction of the Pedestrians and the residents was being interrupted from the Levella Bridge to the Polgolla Dam to the Mudugamunu Mawatha and Uyanvatam junction.
-
-...
-
-[Data](articles/fb48810f.json)
-
-[Extended Data](ext_articles/fb48810f.ext.json)
-
----
-
-### Sri Lankan fined $41,000 for illegal fishing in Seychelles
-
-*2024-02-22 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-fined-41-000-for-illegal-fishing-in-Seychelles/108-277548) · `en`
-
-Feb 22, (Seychelles News Agency) - The Seychelles Supreme Court has convicted a Sri Lankan national to a fine of SCR 550,000 ($41,000) after being found guilty of illegally fishing in the island nation’s territorial waters, the police said on Wednesday.
-
-According to the police, Makavita Liyanage Dilesh, 43, was the person in charge of the vessel Rankurulla 4 that was intercepted and arrested in the Seychelles Exclusive Economic Zone (EEZ) on November 24 last year.
-
-The presiding judge in the case took into consideration that the accused pled guilty and did not waste the court’s time. The convict is a married man with two children still at school and his family depends on his revenue to survive.
-
-The Sri Lankan national revealed to the Court that the fish they caught was taken and sold for a sum of SCR 35,320 which was collected by the Seychelles Fishing Authority.
-
-The fine is payable within 60 days if not, the convict will do a term of 18 months in prison.
-
-...
-
-[Data](articles/b0c8aa49.json)
-
-[Extended Data](ext_articles/b0c8aa49.ext.json)
-
----
-
-### Minister apologises, spokesman resigns
-
-*2024-02-22 10:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-apologises-spokesman-resigns/108-277547) · `en`
-
-Colombo, Feb 22 (Daily Mirro) - After facing severe criticism on social media for the remarks by Ceylon Electricity Board (CEB) media spokesman Noel Priyantha, Power and Energy Minister Kanchana Wijesekera has extended an apology on behalf of both the Ministry and the CEB.
-
-In a recent television programme, Noel Priyantha sparked controversy by suggesting that children should resort to studying using oil lamps if necessary. He cited the precedent set by previous generations who excelled in their studies under similar conditions.
-
-However, following the criticism, the media spokesman has resigned from his position and publicly apologized for his statement.
-
-"The statement does not reflect the views of the Government or the CEB and I would like to extend my apology on behalf of the Ministry and the CEB," Minister Wijesekera said.
-
-...
-
-[Data](articles/87c5e161.json)
-
-[Extended Data](ext_articles/87c5e161.ext.json)
-
----
-
-### Lottery outlet in MullaitivuIn a serious investigation police
-
-*2024-02-22 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177010) · `ta`
-
-A Lottery Sales Center in Vallipunam, Mullaitivu, has taken place.
-
-It is reported that a Lotter outlet located in the Vallipunam area of the Mullaitivu Pudukkudiyiruppu police division has been suspected on the night of the 19th.
-
-Inside the shop, the ray, a desk, and 120 lotter records have been set on fire.
-
-Did the incident caught fire by the unknown?Or did you find a fire due to a different incident?Police are conducting intensive investigations at various angles.
-
-◼️
-
-[Data](articles/8fafe475.json)
-
-[Extended Data](ext_articles/8fafe475.ext.json)
-
----
-
-### Sri Lanka rupee opens at 311.10/20 to the US dollar
-
-*2024-02-22 10:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-311-10-20-to-the-us-dollar-151917/) · `en`
-
-WECONOMYNEXT – Sri Lanka’s rupee opened at 311.10/20 to the US dollar Thursday, from 311.30/50 on Wednesday, dealers said.
-
-A bond maturing on 01.08.2026 was quoted at 10.80/11.00 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.95/12.05 percent from 12.05/15 percent.
-
-A bond maturing on 01.07.2028 was quoted at 12.20/25 percent.
-
-The Colombo Stock market opened up; the All Share Price Index was up 0.05 percent at 10,655, and the S&P SL20 was up 0.05 percent at 3,071. (Colombo/Feb22/2024)
-
-◼️
-
-[Data](articles/08c07882.json)
-
-[Extended Data](ext_articles/08c07882.ext.json)
 
 ---

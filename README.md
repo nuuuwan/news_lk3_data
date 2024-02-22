@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 00:32:37**
+As of **2024-02-23 00:47:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,770 (100.0%) of 8,772 articles have been extended.
+8,772 (100.0%) of 8,772 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -66,19 +66,25 @@ People in urban areas of Colombo engaged in construction work during the daytime
 
 ---
 
-### ஐ.நா. அபிவிருத்தி திட்டத்தின் ஊடக செயலமர்வுகளில் அரச மற்றும் தனியார் ஊடக நிறுவனங்கள் பங்கேற்றுள்ளன - அமைச்சர் பந்துல குணவர்தன
+### The UN. State and Private Media Corporations participated in the media workshops of the development project - Minister Bandula Gunawardena
 
 *2024-02-22 23:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177082) · `ta`
 
-ஐக்கிய நாடுகள் அபிவிருத்தி திட்டத்தின் நிதி பங்களிப்புடன் நாடளாவிய ரீதியில் நடத்தப்படும் ஊடகவியலாளர்களைத் தெளிவுபடுத்தும் வேலைத் திட்டத்திற்கு அரச மற்றும் தனியார் ஊடக நிறுவனங்களைச் சேர்ந்த சிங்கள, தமிழ் ஊடகவியலாளர்கள் பங்கேற்றுள்ளனர் என ஊடகத்துறை மற்றும் போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+Media and Transport Minister Bandula Gunawardena said that Sinhala and Tamil journalists from state and private media companies have participated in the program to clarify the journalists across the country with the financial contribution of the United Nations Development Program.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (22) அமைச்சு ஆலாேசனை அறிக்கையை முன்வைத்து உரையாற்றும்போதே இவ்வாறு தெரிவித்தார்.
+He was speaking at the Ministry of Parliament on Thursday (22).
 
-ஐக்கிய நாடுகள் அபிவிருத்தி திட்டத்தின் அனுசரணையில் முன்னெடுக்கப்படும் ஊடகவியலாளர்களுக்கான செயலமர்வு, ஊடகவியலாளர்களைத் தெளிவுபடுத்துவதற்கு மேலதிகமாக சமூக சகவாழ்வை மேம்படுத்துவது, குரோத மனப்பான்மையுடனான விடயங்களை எதிர்ப்பது, பிரதேச ஊடகவியலாளர்களை தெளிவூட்டுவது, சமூக பொறுப்புக்களை புரிந்து ஊடக சம்பிரதாயங்களை நிலை நாட்டுதல் போன்ற விடயங்களை உள்ளடக்கியதாகும். அதற்கான இனக்கப்பாட்டையும் இதன் மூலம் பெற்றுக் கொள்வதற்கு நாம் நடவடிக்கை எடுத்துள்ளோம்.
+The workshop for the journalists under the auspices of the United Nations Development Program, the improvement of social coexistence to clarify the journalists, opposing hostile attitudes, clarifying territorial journalists, understand the social responsibilities, and the upheaval of media rituals.. We have taken steps to obtain the ethnic conformity.
+
+The program to clarify the journalists has been conducted in the North, East, Western Province, Northwest, Northwest, South, Sabaragamuwa and Central Provinces and 377 journalists participated in the program.
+
+Many of the dedicated work has been appointed to conduct a panel of experts to conduct it.
 
 ...
 
 [Data](articles/aa992f00.json)
+
+[Extended Data](ext_articles/aa992f00.ext.json)
 
 ---
 
@@ -722,21 +728,25 @@ Attorney at Law Mohan Priyadarshana De Silva, Lasantha Alagiyawanna, Prasanna Ra
 
 ---
 
-### சனத் நிஷாந்தவின் மரணம் கொலையா ? விபத்தா ? பாரிய சந்தேகம் எழுகிறது என்கிறார் ஜோன்ஸ்டன் பெர்னாண்டோ
+### Is Sanath Nishantha's death killing?An accident?Johnston Fernando says massive doubts arise
 
 *2024-02-22 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177049) · `ta`
 
-இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மரணம்  கொலையா? அல்லது விபத்தா? என்பதில் சந்தேகம் உள்ளது.குற்றப்புலனாய்வுத் திணைக்களம் துரிதகரமான விசாரணைகளை மேற்கொண்டு உண்மையை பகிரங்கப்படுத்த வேண்டும்.
+Is the death of diplomatic minister Sanath Nishantha?Or an accident?The Department of Investigations should conduct a fast investigation and make the truth public.
 
-சனத் நிஷாந்தவை போன்று அரசியல்வாதிகள் அனைவரும் இறக்க வேண்டும் என 3 பேரை கொண்டவர்கள் கருதுகிறார்கள் என  ஆளும் தரப்பின்  பாராளுமன்ற உறுப்பினர் ஜோன்ஸ்டன் பெர்னான்டோ தெரிவித்தார்.
+The ruling party parliamentarian Johnston Fernando said that all politicians, like Sanath Nishantha, should die.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (22) இடம்பெற்ற காலஞ்சென்ற பாராளுமன்ற உறுப்பினர் சனத் நிசாந்தவுக்கான அனுதாப பிரேரணையில் உரையாற்றுகையில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+Speaking at a speech at the late Member of Parliament, Sanath Nishantha, a speech in Parliament on Thursday (22).
 
-பாராளுமன்ற உறுப்பினர் சனத் நிஷாந்தவின் மரணம்  கொலையா? அல்லது  விபத்தா, என்பதில் பாரிய சந்தேகம் உள்ளது. இதனால் தான்  அவரது மனைவி குற்றப்புலனாய்வு திணைக்களத்தில் முறைப்பாடளித்துள்ளார். ஆகவே இந்த முறைப்பாட்டை துரிதமாக விசாரணை செய்து உண்மையை நாட்டு  மக்களுக்கு பகிரங்கப்படுத்த வேண்டும் குற்றவாளிகளுக்கு கடுமையான தண்டனை வழங்க வேண்டும்.
+Is the death of MP Sanath Nishantha?Or there is a huge doubt in the accident. This is why his wife has lodged a complaint with the Criminal Investigation Department. Therefore, the complaint should be expedited and made public the truth to the people of the country.
+
+Criticism of 225 MPs is now a new culture. Three of the 225 people criticize the entire political structure. They also refer to ideas against political culture.
 
 ...
 
 [Data](articles/64a4dc83.json)
+
+[Extended Data](ext_articles/64a4dc83.ext.json)
 
 ---
 

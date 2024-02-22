@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 18:51:32**
+As of **2024-02-22 19:02:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,726 (100.0%) of 8,727 articles have been extended.
+8,727 (100.0%) of 8,727 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Prior to its arrival, the civilian ship had spent more than three weeks surveyin
 ...
 
 [Data](articles/f7a24ad3.json)
+
+[Extended Data](ext_articles/f7a24ad3.ext.json)
 
 ---
 

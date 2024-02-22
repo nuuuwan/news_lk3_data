@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 21:52:00**
+As of **2024-02-22 22:03:54**
 
 ## Newspaper Stats
 
@@ -31,6 +31,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Nanuoya - Radella road accident
+
+*2024-02-22 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177081) · `ta`
+
+◼️
+
+[Data](articles/0f37d9fe.json)
+
+[Extended Data](ext_articles/0f37d9fe.ext.json)
+
+---
 
 ### Nightlife vital to Sri Lanka’s economic growth, tourist experience - Diana
 
@@ -157,18 +169,6 @@ These facts were revealed when the Sectoral Oversight Committee on Energy and Tr
 [Data](articles/65427dad.json)
 
 [Extended Data](ext_articles/65427dad.ext.json)
-
----
-
-### Nanuoya - Radella road accident
-
-*2024-02-22 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177081) · `ta`
-
-◼️
-
-[Data](articles/0f37d9fe.json)
-
-[Extended Data](ext_articles/0f37d9fe.ext.json)
 
 ---
 

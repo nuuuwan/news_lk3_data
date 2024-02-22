@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 22:03:54**
+As of **2024-02-22 22:17:24**
 
 ## Newspaper Stats
 
-*Scraped **8,748** Articles*
+*Scraped **8,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 744
 adaderanalk | 1,052
 tamilmirrorlk | 1,089
 virakesarilk | 1,181
-adaderanasinhalalk | 1,291
+adaderanasinhalalk | 1,292
 dailymirrorlk | 1,304
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,748 (100.0%) of 8,748 articles have been extended.
+8,748 (100.0%) of 8,749 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,28 @@ Extensions include translations and NER (Named Entity Recognition).
 [Data](articles/0f37d9fe.json)
 
 [Extended Data](ext_articles/0f37d9fe.ext.json)
+
+---
+
+### න්‍යෂ්ටික ප්‍රහාරයක් එල්ලවුවහොත් ශ්‍රී ලංකාව සුදානම්
+
+*2024-02-22 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193715) · `si`
+
+කලාපය තුළ යම් අයුරකින් න්‍යෂ්ටික ප්‍රහාරයක් එල්ලවුවහොත් ඉන් ඇතිවන විකිරණශීලි තත්ත්වයන්ට මුහුණ දීමට ශ්‍රී ලංකාව සුදානම් බව පරමාණුක බලශක්ති නියාමන සභාවේ නිලධාරීන් පවසයි.
+
+බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව රැස්වූ අවස්ථාවේදී එම නිලධාරීන් මේ බව දැනුම්දී තිබේ.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ පරමාණුක බලශක්ති නියාමන සභාවේ නිලධාරීන් පවසා ඇත්තේ ඒ සඳහා අවශ්‍ය මානව සම්පත සහ අවශ්‍ය උපකරණ තමන් සතු බවය.
+
+බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව එහි සභාපති, පාර්ලිමේන්තු මන්ත්‍රී නාලක බණ්ඩාර කෝට්ටේගොඩ මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා පාර්ලිමේන්තුවේදී රැස්වී තිබුණි.
+
+මේ අතර දිගු කාලයක් පුරා සමනල වැව ජලාශයේ පවතින ජල කාන්දුව පිළිසකර කර ජල කාන්දුව නතර කළ නොහැකි බව ශ්‍රී ලංකා එනර්ජිස් පුද්ගලික සමාගමේ නිලධාරීහු බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවට දැනුම් දී තිබේ.
+
+දිගින් දිගටම ජල කාන්දුව වැළැක්වීම සඳහා විවිධ ක්‍රියාමාර්ග ගනු ලැබුවත් ඉන් කිසිදු හෝ ප්‍රතිඵලයක් ලබාගත නොහැකි වී ඇති බවද ඔවුන් කාරක සභාවට අවධාරණය කර තිබේ.
+
+...
+
+[Data](articles/af41b9ad.json)
 
 ---
 
@@ -2059,23 +2081,5 @@ Subject to the approval of the shareholders, the bank will issue 100,000,000 Tie
 [Data](articles/d3603916.json)
 
 [Extended Data](ext_articles/d3603916.ext.json)
-
----
-
-### Electricity Board (CEB)
-
-*2024-02-22 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193695) · `si`
-
-The Ceylon Electricity Board (CEB), spokesman Noel Priyantha has resigned from his post.
-
-A recent statement made a wide range of controversy in the society and later issued a statement.
-
-The Minister of Power and Energy Kanchan Wijesekera has been resigned by Noel Priyantha, releasing a message.
-
-◼️
-
-[Data](articles/c0ee6fef.json)
-
-[Extended Data](ext_articles/c0ee6fef.ext.json)
 
 ---

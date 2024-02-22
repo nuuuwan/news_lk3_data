@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 01:50:08**
+As of **2024-02-23 02:02:51**
 
 ## Newspaper Stats
 
-*Scraped **8,789** Articles*
+*Scraped **8,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 479
 adalk | 744
 adaderanalk | 1,054
 tamilmirrorlk | 1,090
-virakesarilk | 1,184
+virakesarilk | 1,187
 adaderanasinhalalk | 1,294
 dailymirrorlk | 1,315
 
@@ -26,11 +26,25 @@ dailymirrorlk | 1,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,787 (100.0%) of 8,789 articles have been extended.
+8,789 (100.0%) of 8,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### சட்டவிரோதமாக அமைக்கப்பெற்ற திஸ்ஸ விகாரைக்கு எதிரான போராட்டம் ஆரம்பம்!
+
+*2024-02-23 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177085) · `ta`
+
+தையிட்டியில் சட்டவிரோதமாக அமைக்கப்பெற்ற திஸ்ஸ விகாரைக்கு எதிரான போராட்டம் வியாழக்கிழமை (22) ஆரம்பமாகியுள்ளது. இந்த போராட்டமானது வெள்ளிக்கிழமை (23) மாலை 6:30 மணிவரை தொடரும் என தெரிவிக்கப்படுகிறது.
+
+இந்த போராட்டத்தில் தமிழ் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஷ், உறுப்பினர்கள் ஆதரவாளர்கள் பொதுமக்கள் அனைவரும் கலந்துகொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/c80a96a1.json)
+
+---
 
 ### When the School Life you Cherish is Threatened! - EDITORIAL
 
@@ -63,6 +77,38 @@ It is revolting to see Washington’s UN envoy Linda Thomas-Greenfield, a politi
 [Data](articles/ba12adcc.json)
 
 [Extended Data](ext_articles/ba12adcc.ext.json)
+
+---
+
+### சிறீதரனுடன் சந்திப்பை ஏற்படுத்திய இந்திய உயர்ஸ்தானிகர் சந்தோஸ் ஜா
+
+*2024-02-23 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177084) · `ta`
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஸ் ஜா, நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரனை அழைத்து, கொழும்பில் (India House) புதன்கிழமை (21) சந்திப்பொன்றை நடாத்தியுள்ளார்.
+
+இலங்கைத் தமிழரசுக் கட்சியின் தலைவராகத் தெரிவுசெய்யப்பட்டமைக்காக சிறீதரனுக்கு வாழ்த்துரைத்த அவர், கட்சியின் அடுத்தகட்ட நகர்வுகளை விரைந்து மேற்கொள்ள வேண்டும் எனவும் கேட்டுக்கொண்டுள்ளார்.
+
+இலங்கைக்கான இந்தியத் தூதரகத்தின் பிரதி உயர்ஸ்தானிகர் சத்யஞ்சல் பாண்டேவும் இணைந்திருந்த இச் சந்திப்பில் ஈழத்தமிழர் நலன்சார் விடயங்களில் இந்தியாவின் முறையான வகிபங்கை உறுதிப்படுத்த வேண்டியுள்ளதன் அவசியம் குறித்தும் கலந்துரையாடப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2f1e3812.json)
+
+---
+
+### றோயல் - தோமியன் கிரிக்கெட் சமருக்கு 19ஆவது  முறையாக டயலொக் அனுசரணை
+
+*2024-02-23 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177083) · `ta`
+
+இந்த வருடம் நடைபெறவுள்ள றோயல் கல்லூரிக்கும் பரி. தோமாவின் கல்லூரிக்கும் இடையிலான நீல வர்ணங்களின் சமருக்கு டயலொக் ஆசிஆட்டா பிஎல்சி அனுசரணை வழங்குகிறது.
+
+இலங்கையின் முன்னணி தொலைத்தொடர்பு இணைப்பு வழங்குனரான டயலொக் ஆசிஆட்டா பிஎல்சி தொடர்ச்சியாக 19ஆவது வருடமாக இப் போட்டிக்கு அனுசரணை வழங்குகின்றமை விசேட அம்சமாகும்.
+
+நீலவர்ணங்களின் சமர் என அழைக்கப்படும் றோயல் - தோமியன் 145ஆவது வருடாந்த கிரிக்கெட் போட்டிக்கான பிரதான அனுசரணை உதவுத் தொகைக்கான மாதிரி காசோலையை டயலொக் ஆசிஆட்டா பிஎல்சி குழுமத்தின் பிரதம சந்தைப்படுத்தல் அதிகாரி லசந்த தேவப்பெருமவிடமிருந்து பரி. தோமாவின் கல்லூரி முதல்வர் வண. மார்க் பிலிமோரியா, றோயல் கல்லூரி அதிபர் திலக் வத்துஹேவா ஆகியோர் பெற்றுக்கொண்டபோது எடுக்கப்பட்ட படம். றோயல் - தோமியன் போட்டி ஏற்பாட்டுக்குழு இணைத் தலைவர்களான ரெஹான் குணசேகர (றோயல் கல்லூரி), அர்ஜுன வைத்யசேகர (பரி. தோமாவின் கல்லூரி) ஆகியோரையும் படத்தில் காணலாம்.
+
+...
+
+[Data](articles/4854ba38.json)
 
 ---
 
@@ -348,6 +394,8 @@ Maxim Impressions Lanka Ltd., a subsidiary company of Maxim Smart Manufacturing 
 
 [Data](articles/0e719293.json)
 
+[Extended Data](ext_articles/0e719293.ext.json)
+
 ---
 
 ### Electrical panel board specialist Pubudu Engineering turns 33
@@ -365,6 +413,8 @@ What began as a micro scale business entity in 1991, Pubudu Engineering has now 
 ...
 
 [Data](articles/846e54fd.json)
+
+[Extended Data](ext_articles/846e54fd.ext.json)
 
 ---
 
@@ -1937,61 +1987,5 @@ The sites that have been plundered date back to the Late Bronze Age and Iron Age
 [Data](articles/15d0db28.json)
 
 [Extended Data](ext_articles/15d0db28.ext.json)
-
----
-
-### Telephone and more items
-
-*2024-02-22 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193701) · `si`
-
-Several mobile phones and accessories have been taken into custody by two mobile phones and accessories at the bus.
-
-The Sudden Examiner of Police (Narcotic Comrade Kosgoda) has been found in the prison, which has stayed at the Syriad and a drug dealer, where the Suddenrian, a drug dealer who stays in the area.
-
-Several four mobile phones, SIM card, phone numbers and several phone devices were found.
-
-They were handed over to the Special Task Force Commanding Officer's Office for further investigations.
-
-◼️
-
-[Data](articles/d6b70baa.json)
-
-[Extended Data](ext_articles/d6b70baa.ext.json)
-
----
-
-### Explanation for a person who stole fruit worth Rs 46,000 in Nuwara Eliya
-
-*2024-02-22 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/177037) · `ta`
-
-Nuwara Eliya Magistrate's Court Judge Prabhudika Langanthini has ordered a person who stole 46,000 rupees worth of fruits at a shop in Topas area on Nuwara Eliya -Kandy main road until Monday 26th.
-
-On the orders of the Chief Inspector of the Nuwara Eliya Police Headquarters, Premalal Hattiyarachchi, the Criminal Investigation Officer of the Criminal Investigation Department, Hindu Munnil, was conducting investigations on the complaint lodged by the Nuwara Eliya Crime Police.
-
-A team of 4603 Surawaweera, 60326 Herath and 104705 Ranasinghe, who had been appointed for investigation, arrested the suspect with the help of a video recorded on the Sisirvi camera.
-
-The arrested suspect is from the age of 44 (44) from Kuda Oya, Lapukkalai. It is noteworthy that the suspect had been ordered to be interrogated until the 26th of this month when the police had subjected to a police investigation and then appeared in the presence of the Nuwara Eliya Magistrate Prabhudika Lanka.
-
-◼️
-
-[Data](articles/38a1a37d.json)
-
-[Extended Data](ext_articles/38a1a37d.ext.json)
-
----
-
-### CEB media spokesman resigns with adequate lamp light
-
-*2024-02-22 13:32:33* · [`adalk`](https://www.ada.lk/breaking_news/ලාම්පු-එළිය-ප්‍රමාණවත්-කියූ-ලංවිම-මාධ්‍ය-ප්‍රකාශක-ඉල්ලා-අස්වෙයි/11-408231) · `si`
-
-Ceylon Electricity Board (CEB) Spokesperson Noel Priyantha resigned from the post, Power and Energy Minister Kanchana Wijesekara had issued an announced that he issued a message from the post.. Noel Priyantha recently created a statement in the Rupavahini Program and was severely criticized in Parliament in Parliament.He later expressed his regrets and issued a statement.
-
-Meanwhile, Prime Minister Dinesh Gunawardena emphasized in parliament today that disciplinary action will be taken regarding the statement of the CEB SSP.
-
-◼️
-
-[Data](articles/ca241066.json)
-
-[Extended Data](ext_articles/ca241066.ext.json)
 
 ---

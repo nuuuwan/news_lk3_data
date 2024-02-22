@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 10:32:51**
+As of **2024-02-22 10:51:22**
 
 ## Newspaper Stats
 
@@ -26,11 +26,31 @@ dailymirrorlk | 1,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,632 (100.0%) of 8,634 articles have been extended.
+8,634 (100.0%) of 8,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Lottery outlet in MullaitivuIn a serious investigation police
+
+*2024-02-22 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177010) · `ta`
+
+A Lottery Sales Center in Vallipunam, Mullaitivu, has taken place.
+
+It is reported that a Lotter outlet located in the Vallipunam area of the Mullaitivu Pudukkudiyiruppu police division has been suspected on the night of the 19th.
+
+Inside the shop, the ray, a desk, and 120 lotter records have been set on fire.
+
+Did the incident caught fire by the unknown?Or did you find a fire due to a different incident?Police are conducting intensive investigations at various angles.
+
+◼️
+
+[Data](articles/8fafe475.json)
+
+[Extended Data](ext_articles/8fafe475.ext.json)
+
+---
 
 ### A cone -shaped tent in the sea
 
@@ -68,25 +88,7 @@ The EU-Sri Lanka Joint Commission serves as a platform for dialogue and cooperat
 
 [Data](articles/ecb2722c.json)
 
----
-
-### Lottery outlet in MullaitivuIn a serious investigation police
-
-*2024-02-22 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177010) · `ta`
-
-A Lottery Sales Center in Vallipunam, Mullaitivu, has taken place.
-
-It is reported that a Lotter outlet located in the Vallipunam area of the Mullaitivu Pudukkudiyiruppu police division has been suspected on the night of the 19th.
-
-Inside the shop, the ray, a desk, and 120 lotter records have been set on fire.
-
-Did the incident caught fire by the unknown?Or did you find a fire due to a different incident?Police are conducting intensive investigations at various angles.
-
-◼️
-
-[Data](articles/8fafe475.json)
-
-[Extended Data](ext_articles/8fafe475.ext.json)
+[Extended Data](ext_articles/ecb2722c.ext.json)
 
 ---
 
@@ -183,6 +185,8 @@ The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustai
 ...
 
 [Data](articles/2c729689.json)
+
+[Extended Data](ext_articles/2c729689.ext.json)
 
 ---
 

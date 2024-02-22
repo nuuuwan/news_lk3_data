@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 11:51:55**
+As of **2024-02-22 12:02:27**
 
 ## Newspaper Stats
 
@@ -202,13 +202,17 @@ The Minister of Power and Energy Kanchan Wijesekera has been resigned by Noel Pr
 
 *2024-02-22 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97450/ceb-spokesman-resigns-from-post-over-controversial-remarks) · `en`
 
-Eng. Noel Priyantha has tendered his resignation as the spokesperson of Ceylon Electricity Board (CEB).
+Eng. Noel Priyantha has tendered his resignation as the spokesperson of the Ceylon Electricity Board (CEB).
 
-Power and Energy Minister Kanchana Wijesekera, taking to X (formerly Twitter), said this was communicated to him by the CEB management.
+Power and Energy Minister Kanchana Wijesekera, taking to his X handle (formerly Twitter), said this was communicated to him by the CEB management.
 
-The CEB spokesperson, who attended Ada Derana ‘Big Focus’ program on Tuesday made controversial remarks that received backlash for lacking empathy.
+The CEB spokesperson, who attended the ‘Big Focus’ program on Ada Derana on Tuesday, made controversial remarks that received backlash for lacking empathy.
 
-◼️
+When asked about the recent electricity tariff hikes and the burden it has placed on consumers, Priyantha said the tariffs should have been increased gradually over the years.
+
+However, he also went on to comment that the children do not need electricity to study, and that the light from kerosene oil lamps should suffice. “Why do you need electricity [to study]? For about two years, I also studied using [kerosene] oil lamps. Why do you need to iron clothes? Wear linen [clothing].”
+
+...
 
 [Data](articles/2cc2366b.json)
 

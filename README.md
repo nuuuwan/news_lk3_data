@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 11:17:34**
+As of **2024-02-22 11:33:03**
 
 ## Newspaper Stats
 
-*Scraped **8,643** Articles*
+*Scraped **8,650** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 91
-bbccomsinhala | 105
+bbccomsinhala | 106
 dbsjeyarajcom | 159
 newsfirstlk | 363
 economynextcom | 442
@@ -18,33 +18,171 @@ dailyftlk | 464
 adalk | 736
 adaderanalk | 1,040
 tamilmirrorlk | 1,074
-virakesarilk | 1,159
+virakesarilk | 1,162
 adaderanasinhalalk | 1,272
-dailymirrorlk | 1,287
+dailymirrorlk | 1,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,641 (100.0%) of 8,643 articles have been extended.
+8,643 (99.9%) of 8,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක තනතුරෙන් යයි
+### Prime Minister assures action against CEB spokesman
+
+*2024-02-22 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prime-Minister-assures-action-against-CEB-spokesman/108-277550) · `en`
+
+Parliament, Feb. 22 (Daily Mirror)- Prime Minister Dinesh Gunawardane assured Parliament that an inquiry will be held into the statement made by the CEB media spokesman and necessary action will be taken against him.
+
+The Prime Minister told Parliament that instructions have been given to respective authorities to take disciplinary action against the media spokesman after an inquiry.
+
+He said this in response to a question raised by Opposition Leader Sajith Premadasa that action must be taken against the CEB spokesman who had said that children should study under the light of oil lamps.
+
+The Opposition Leader added that the spokesman also had stated that men in estates consume booze after 2 pm and that it was an insult to the estate community.
+
+He urged the government to interdict the spokesman and launch an inquiry.
+
+◼️
+
+[Data](articles/680e2a67.json)
+
+---
+
+### Government to introduce E-Passport service to eliminate long queues at Immigration Dept.
+
+*2024-02-22 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-introduce-E-Passport-service-to-eliminate-long-queues-at-Immigration-Dept/108-277551) · `en`
+
+Colombo. Feb. 22 (Daily Mirror) - Efforts are being made to introduce the E-Passport service to eliminate the long queues at the Immigration and Emigration Department office in Battaramulla.
+
+Addressing the media Minister, Tiran Alles said that long queues have been created to obtain passports for the Korean Language Proficiency Test.
+
+He mentioned ongoing discussions with the Korean government to implement a system where passports are issued only to those who pass the exam.
+
+Additionally, the Minister shared updates on measures being taken in various sectors across the nation.
+
+He said that all preparations have been completed to issue the new National Identity Cards (NIC) through the Department for Registration of Persons.
+
+◼️
+
+[Data](articles/b76f9885.json)
+
+---
+
+### Medical fraternity urges health authorities to go on alert
+
+*2024-02-22 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Medical-fraternity-urges-health-authorities-to-go-on-alert/108-277552) · `en`
+
+Colombo, Feb 22 (Daily Mirror) -  In light of recent findings suggesting potential rare occurrences of heart, brain, and blood disorders linked to certain Covid-19 vaccines, medical professionals in Sri Lanka urge the health authorities to remain vigilant on the development.
+
+The study in question, conducted by researchers from the Global Vaccine Data Network, a research arm of the World Health Organization (WHO), unearthed Covid vaccines from companies like Pfizer, Moderna and AstraZeneca were linked to rare occurrences of heart, brain and blood disorders.
+
+It targeted population of 99 million vaccinated individuals across eight countries. This study is said to be the largest Covid vaccine study to date.
+
+Speaking to Daily Mirror, Government Medical Officers' Association (GMOA) Media Spokesman Dr. Chamil Wijesinghe said it is better that Sri Lank goes on alert given the gravity of the findings of the study.
+
+...
+
+[Data](articles/45215a7d.json)
+
+---
+
+### உக்ரைன் யுத்தம் - ஏவுகணை தாக்குதலில் 60க்கும் மேற்பட்ட  ரஸ்ய படையினர் பலி
+
+*2024-02-22 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177018) · `ta`
+
+உக்ரைனின் ஏவுகணை தாக்குதல் காரணமாக 60க்கும் மேற்பட்ட ரஸ்ய படையினர் கொல்லப்பட்டுள்ளனர் என பிபிசி தெரிவித்துள்ளது.
+
+டொனெட்ஸ்க் பிராந்தியத்தில் உள்ள பயிற்சி தளமொன்றில்  முக்கிய அதிகாரியின் வருகைக்கான படையினர் தயார் நிலையிலிருந்தவேளை உக்ரைன் ஏவுகணை தாக்குதலை மேற்கொண்டதாக பிபிசி தகவலறிந்த வட்டாரங்களை மேற்கோள்காட்டி செய்தி வெளியிட்டுள்ளது.
+
+இவ்வாறான தாக்குதலொன்று இடம்பெற்றதை ஏற்றுக்கொண்டுள்ள ரஸ்ய அதிகாரியொருவர் எனினும் உயிரிழந்தவர்களின் எண்ணிக்கை மிகைப்படுத்தப்பட்டுள்ளதாக குறிப்பிட்டுள்ளார்.
+
+சைபீரியாவை தளமாக கொண்ட படையணியின் படையினர் ட்ருடொவ்ஸ்கே கிராமத்திற்கு அருகில் உள்ள பயிற்சி தளத்தில் தளபதியொருவரின் வருகைக்காக காத்திருந்தவேளை உக்ரைனின் ஏவுகணைகள் அவர்களை தாக்கியுள்ளன.
+
+தங்களை தங்களின் தளபதிகள் திறந்தவெளியொன்றில் நிற்கவைத்திருந்தனர் அவ்வேளை ஏவுகணை தாக்குதல் இடம்பெற்றுள்ளது என ரஸ்ய வீரர் ஒருவர் தெரிவித்துள்ளார்.
+
+குறிப்பிட்ட தளத்தில் உயிரிழந்த நிலையில் பல ரஸ்ய வீரர்கள் காணப்படுவதை காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன,
+
+◼️
+
+[Data](articles/96208d25.json)
+
+---
+
+### கறுப்பு ஜூலைக்கு காரணமானவர்கள் ஐக்கிய தேசியக் கட்சித் தலைமைகளே - பிமல் ரத்நாயக்க
+
+*2024-02-22 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177016) · `ta`
+
+83 கறுப்பு ஜூலைக் குற்றச் செயல்கள் ஜே.ஆர்.ஜெயவர்தன, ஆர்.பிரேமதாச, ரணில் விக்ரமசிங்க ஆகியோரின் தலைமையின் கீழ் இயங்கிய ஐக்கிய தேசிய கட்சி அரசாங்கத்தின் தலைமைத்துவத்தின் இடையீட்டின் பேரில்தான் மேற்கொள்ளப்பட்டன என தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் பிமல் ரத்நாயக்க தெரிவித்தார்.
+
+இந்த நாட்டில் தேசிய மக்கள் சக்தி மற்றும் மக்கள் விடுதலை முன்னணிக்கு மக்கள் மத்தியில் வரவேற்பு அதிகரித்து வருவதை நாங்கள் அவதானிக்கின்றோம்.
+
+எனவே, எமக்கு எதிரான பாசறையினர் எம்மீது ஆதாரமற்ற, அடிப்படையற்ற பொய்யான குற்றச்சாட்டுக்களை முன்வைத்து வருகின்றனர்.
+
+குறிப்பாக அநுர குமார திசாநாயக்கவை உள்ளிட்டவர்கள் இந்தியாவின் அழைப்பின் பேரில் இந்திய விஜயத்தை மேற்கொண்டு வந்ததன் பின்னர் இந்நாட்டு தமிழ் மக்கள் மத்தியில் எம்மீதான மிகப் பெரிய ஆர்வமும் கவனமும் அதிகரித்து வருகின்றது.
+
+எனவே, தமிழ் மக்கள் எம்மோடு இணைவதைத் தடுப்பதற்காக ஐக்கிய தேசியக் கட்சியுடன் தொடர்புள்ள பல்வேறு குழுக்கள் மிகவும் தவறான ஒரு செய்தியை புனைந்து வருகின்றன.
+
+...
+
+[Data](articles/2fcd0fb9.json)
+
+---
+
+### Electricity Board spokesman resigns
+
+*2024-02-22 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177013) · `ta`
+
+Ceylon Electricity Board (CEB) spokesman Noel Priyantha has resigned from the claim that students should be used to use the bottle.
+
+Kanchana Vijayasekara has said that many people, including Minister Thondaman, have pointed out that the speaker of the Ceylon Electricity Board (CEB) has no business or compassion or compassion.
+
+Minister of Electricity spokesman Kanjana Wijayasekara said that I am apologizing on behalf of the Ministry and the Electricity Board for his comments.
+
+The Minister said that the Ceylon Electricity Board (CEB) has announced that he has resigned from his post and has demanded amnesty for his comments.
+
+◼️
+
+[Data](articles/ddcde4e0.json)
+
+[Extended Data](ext_articles/ddcde4e0.ext.json)
+
+---
+
+### கொக்குத்தொடுவாய் மனித புதைகுழி 3 ஆம் கட்ட அகழ்வுப் பணி தொடர்பான வழக்கு விசாரணை இன்று
+
+*2024-02-22 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177015) · `ta`
+
+கொக்குதொடுவாய் மனித புதைகுழி அகழ்வு பணி தொடர்பான குறித்த வழக்கானது இன்று வியாழக்கிழமை (22)  முல்லைத்தீவு மாவட்ட நீதிமன்றில் இடம்பெற இருக்கின்றது.
+
+முல்லைத்தீவு மாவட்டத்தில் கொக்குதொடுவாய் பகுதியில் கண்டுபிடிக்கப்பட்ட மனித புதைகுழியின் முதல் கட்ட அகழ்வானது 06.09.2023 அன்று ஆரம்பமாகி பதினொரு நாட்கள் நடைபெற்று 17 உடற்பாகங்கள் மீட்கப்பட்ட நிலையில் இடைநிறுத்தப்பட்டிருந்ததுடன், மீண்டும் அகழ்வின் இரண்டாம் கட்ட பணிகள் கடந்த 20.11.2023 அன்று ஆரம்பிக்கப்பட்டு தொடர்ச்சியாக ஒன்பது நாட்கள் நடைபெற்று  40 எலும்புக்கூட்டு தொகுதிகள் மீட்கப்பட்டுள்ளதுடன் இரண்டாம் கட்ட அகழ்வுபணி இடைநிறுத்தப்பட்டிருந்தது.
+
+இதனை தொடர்ந்து மூன்றாம் கட்ட அகழ்வுபணிகள் ஆரம்பிப்பது குறித்தே  இன்றையதினம்  வழக்கு எடுத்துக்கொள்ளப்பட இருப்பதும் குறிப்பிடதக்கது.
+
+◼️
+
+[Data](articles/aada47ec.json)
+
+---
+
+### Electricity Board (CEB)
 
 *2024-02-22 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193695) · `si`
 
-ලංකා විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක නොයෙල් ප්‍රියන්ත මහතා එම ධුරයෙන් ඉල්ලා අස්වී ඇති බව වාර්තා වෙයි.
+The Ceylon Electricity Board (CEB), spokesman Noel Priyantha has resigned from his post.
 
-ඒ මහතා පසුගියදා සිදුකරන ලද ප්‍රකාශයක් සමාජයේ මහත් ආන්දෝලනයක් ඇති කළ අතර ඒ සම්බන්ධයෙන් ඔහු පසුව සිය කනගාටුව ප්‍රකාශ කරමින් නිවේදනයක් නිකුත් කළේය.
+A recent statement made a wide range of controversy in the society and later issued a statement.
 
-විදුලිබල අමාත්‍ය කංචන විජේසේකර මහතා X පණිවුඩයක් නිකුත් කරමින් නොයෙල් ප්‍රියන්ත මහතා ඉල්ලා අස්වූ බව නිවේදනය කර තිබුණි.
+The Minister of Power and Energy Kanchan Wijesekera has been resigned by Noel Priyantha, releasing a message.
 
 ◼️
 
 [Data](articles/c0ee6fef.json)
+
+[Extended Data](ext_articles/c0ee6fef.ext.json)
 
 ---
 
@@ -66,27 +204,29 @@ The CEB spokesperson, who attended Ada Derana ‘Big Focus’ program on Tuesday
 
 ---
 
-### ගිනි අවි සමඟ දෙදෙනෙක් අත්අඩංගුවට
+### Two arrested with firearms
 
 *2024-02-22 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193694) · `si`
 
-මෙරට නිෂ්පාදිත ගිනි අවියක් ළඟ තබාගෙන සිටි පුද්ගලයෙකු පින්නවල - මැදගම්මැද්ද ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+A person who had a firearm in Sri Lanka has been arrested in the Medawala-Medammard area.
 
-පින්නවල පොලීසියේ නිලධාරින්ට ලද තොරතුරක් මත සිදු කළ වැටලීමක දී සැකකරු අත්අඩංගුඅවට ගෙන ඇති බව සඳහන් ය.
+The suspect had been recovered on a raid on information received on information received by the Pinnawala police officers.
 
-මේ අතර, ඉංගිරිය කුරණ ප්‍රදේශයේ දී ද මෙරට නිෂ්පාදිත ගිනි අවියක් ළඟ තබාගෙන සිටි පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇත.
+Meanwhile, a person who had been produced in the Ingiriya Quran area has also been arrested.
 
-අත්අඩංගුවට ගත් සැකකරු හඳපාන්ගොඩ ප්‍රදේශයේ පදිංචි 28 හැවිරිදි පුද්ගලයෙකු බවට වාර්තා වේ.
+The suspect is a 28 year old resident of the Handadwa area.
 
 ◼️
 
 [Data](articles/fe28cbeb.json)
 
+[Extended Data](ext_articles/fe28cbeb.ext.json)
+
 ---
 
 ### Resolution to remove illegal buildings in the area near the Polgola reservoir
 
-*2024-02-22 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177014) · `ta`
+*2024-02-22 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177014) · `ta`
 
 The Kandy District Coordinating Committee has decided to conduct field inspections on the unauthorized buildings on both sides of the Tuttukemunu Mawatha, near the Kandy -Polgolla reservoir.
 
@@ -99,26 +239,6 @@ During a committee meeting held at the Kandy District Secretariat on Monday (19)
 [Data](articles/fb48810f.json)
 
 [Extended Data](ext_articles/fb48810f.ext.json)
-
----
-
-### Electricity Board spokesman resigns
-
-*2024-02-22 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177013) · `ta`
-
-Ceylon Electricity Board (CEB) spokesman Noel Priyantha has resigned from the claim that students should be used to use the bottle.
-
-Kanchana Vijayasekara has said that many people, including Minister Thondaman, have pointed out that the speaker of the Ceylon Electricity Board (CEB) has no business or compassion or compassion.
-
-Minister of Electricity spokesman Kanjana Wijayasekara said that I am apologizing on behalf of the Ministry and the Electricity Board for his comments.
-
-The Minister said that the Ceylon Electricity Board (CEB) has announced that he has resigned from his post and has demanded amnesty for his comments.
-
-◼️
-
-[Data](articles/ddcde4e0.json)
-
-[Extended Data](ext_articles/ddcde4e0.ext.json)
 
 ---
 
@@ -751,6 +871,28 @@ In some places in the Western and Sabaragamuwa provinces, some places are expect
 [Data](articles/616d99ef.json)
 
 [Extended Data](ext_articles/616d99ef.ext.json)
+
+---
+
+### අනුර කුමාර දිසානායක : 'ප්‍රභූ තන්ත්‍රයේ ආරක්ෂාව ද? පොදු ජනතාවගේ අපේක්ෂාව ද? තීන්දුවක් ගන්න'
+
+*2024-02-22 04:29:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp07724vn2no) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, රට ගොඩ ගන්න NPP වැඩපිලිවල කුමක් ද?
+
+අනුර කුමාර දිසානායක : 'ප්‍රභූ තන්ත්‍රයේ ආරක්ෂාව ද? පොදු ජනතාවගේ අපේක්ෂාව ද? තීන්දුවක් ගන්න'
+
+ප්‍රභූ තන්ත්‍රයේ ආරක්ෂාව වෙනුවෙන් පෙනී සිටිනවා ද? නැතිනම් පොදු ජනතාවගේ වුවමනාවට පෙළ ගැසෙනවා ද? යන්න ගැන රටේ ජනතාව තීන්දුවක් ගත යුතු බව
+
+ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක BBC සිංහල සේවය සමග පැවති සාකච්ඡාවක දී සඳහන් කළේය.
+
+ඉදිරි ජනාධිපතිවරණයට තරග කිරීම සඳහා ජාතික ජන බලවේගය නම් කර ඇති අපේක්ෂකයා ඔහු වේ.
+
+''ප්‍රභූ තන්ත්‍රය රකිනවා ද? පොදු ජනතාවගේ උවමනාවට පෙළ ගැසෙනවා ද? කියන එක අතර ගැටුම තමයි අනාගත දේශපාලන ගැටුම. ඒ නිසා මම හිතන්නේ මේ නිමේෂයේ දී නම් අපේ රටේ කිසිදු පුරවැසියෙකුට තමන් ස්වාධීනයි, අපි පැත්තකට වෙලා ඉන්නවා කියන මතය නියෝජනය කරන්න බෑ. එක්කෝ මේ ආපු දූෂිත ප්‍රභූ තන්ත්‍රයේ ආරක්ෂාවට යන්න ඕනා. එක්කෝ පොදු ජනතාවගේ වුවමනාවට එන්න ඕනා.'' යනුවෙන් අනුර කුමාර දිසානායක කියා සිටියේය.
+
+...
+
+[Data](articles/88c91272.json)
 
 ---
 
@@ -1923,143 +2065,5 @@ The VAT (Amendment) Bill, aims to develop tax rates and registration requirement
 [Data](articles/9d4888aa.json)
 
 [Extended Data](ext_articles/9d4888aa.ext.json)
-
----
-
-### To Afghanistan to advantage
-
-*2024-02-21 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193670) · `si`
-
-Afghanistan Leading Ibrahim was able to win the Third and Final Thirteen match between Sri Lanka and Afghanistan.
-
-◼️
-
-[Data](articles/912f266f.json)
-
-[Extended Data](ext_articles/912f266f.ext.json)
-
----
-
-### Reated percentage is rewasted
-
-*2024-02-21 18:21:11* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-දැමූ-ප්‍රතිශතය-රිවස්-කරයි/11-408222) · `si`
-
-Power and Energy Minister Kanchana Wijesekara said that the percentage of electricity tariffs will be completely removed in October 2023, said Power and Energy Minister Kanchana Wijesekara.
-
-Accordingly, 18% of the household category and religious shrines, the industry and hotel category, and 24% of the government's category 24% participating in the adjournment debate.
-
-"We informed the Public Utilities Commission. I also informed the Cabinet of Monday. There are several places where we can do more than the previously bow suggestion. The Electricity Board announced that we were given that Anneja to the Public Utilities Commission tomorrow.
-
-...
-
-[Data](articles/9255bc43.json)
-
-[Extended Data](ext_articles/9255bc43.ext.json)
-
----
-
-### Sri Lanka indebted to India: Harin
-
-*2024-02-21 18:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-indebted-to-India-Harin/108-277497) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - Justifying the recent remark he had made in Mumbai that Sri Lanka is a part of India, Minister of Tourism and Lands Harin Fernando told Parliament today that Sri Lanka is indebted to the South Asian giant.
-
-“Sri Lanka is indebted to India. India has come forward to help Sri Lanka during the recent difficult times. We have to be grateful to India for sending more and more tourists to Sri Lanka. India has also begun setting up its first overseas hotel in front of Galle face Hotel Colombo. Those who criticize me want to prevent investments such as this,” the Minister said whilst highlighting that India has been a brother to Sri Lanka.
-
-“India and Sri Lanka are traditionally connected. Take the story of Rama and Seetha, Arahath Mahinda came from India and so did Vijaya, Sri Lankan music and film industry are also connected to India,” he said justifying his earlier comment.
-
-...
-
-[Data](articles/4f4e7c93.json)
-
-[Extended Data](ext_articles/4f4e7c93.ext.json)
-
----
-
-### Case against 453 bakeries
-
-*2024-02-21 18:18:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/453-பேக்கரிகளுக்கு-எதிராக-வழக்கு/175-333610) · `ta`
-
-The Consumer Affairs Authority said that steps have been taken to submit a fate of 453 against 453 bakery and shops in the Gazette in the Gazette, which is published in the Gazette, which is published in connection with the stipulated mass.
-
-The Authority said that the tests of the gazette notification were implemented on the 5th of this month, and 453 bakeries and shops were identified in the raids so far.
-
-The Authority has urged the Authority to be certified by the mass and measurement company that the mass and price of the style for sale in all bakeries and stores should be clearly shown and the amount of styles should be certified when the customer requested to measure the color of the style.
-
-The Authority added that officials of the Consumer Affairs Authority will continue to carry out the raid nationwide and that if there are any complaints for the consumers, the Consumer Authority will be able to call the Emergency Telephone number of the Consumer Authority 1977.
-
-◼️
-
-[Data](articles/39ff794c.json)
-
-[Extended Data](ext_articles/39ff794c.ext.json)
-
----
-
-### The decree of the breaking the breaking judgment changes the homach
-
-*2024-02-21 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193669) · `si`
-
-Homagama High Court Judge Nimal Ranaweera today issued an order to be given to Weliwita Suddha to the illegal Asset Investigation Unit of the Criminal Investigation Department.
-
-It is worth about Rs. 10 billion to hand over the Kaduwela Magistrate's Court.
-
-Meanwhile, Illegal asset division was arrested by the Criminal Investigation Department under the operation.
-
-Kaduwela Magistrate Chrishage Wijebandra was ordered to return to its registered vendor to the registered owner of about Rs.
-
-On that order, the respective traffic has been rescued by registered owners of the carved vehicles.
-
-Accordingly, the Criminal Asset Investigation Unit of the Criminal Investigation Unit of the Criminal Asset Investigation Unit of the Criminal Investigation Unit has failed to make the assets to the Homagama High Court today.
-
-The court was presented before the courts that these traffic were purchased with illegal earned money.
-
-...
-
-[Data](articles/8880ad35.json)
-
-[Extended Data](ext_articles/8880ad35.ext.json)
-
----
-
-### Decision is made about justice
-
-*2024-02-21 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193668) · `si`
-
-According to the People's Defense Minister Tiran Alles, which is not the case to suppress the drug and underworld, as well as to suppress the drug and underworld.
-
-The Minister was speaking at a press conference held at the Presidential Media Center today (21) at a press conference held by the President today.
-
-She has been arrested on December 17, 2023, the amount of drugs that have been arrested by now on December 17, was Rs. 7.8 billion.
-
-Speaking further Mr. Tiran Alles, Speaking further,
-
-"The suppression of drugs and underworld and continuously continues to continue in the prevention of violence and violence. None of the effects and we have no preparation to stop these operations. We are being charged with this program. Various people and groups are trying to disrupt this program. We have received information that people who receive money through drug networks are spending money for the same person's groups. "
-
-...
-
-[Data](articles/62a06b59.json)
-
-[Extended Data](ext_articles/62a06b59.ext.json)
-
----
-
-### Reduce price of ‘Gal arrack’ before New Year: State Minister
-
-*2024-02-21 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reduce-price-of-Gal-arrack-before-New-Year-State-Minister/108-277495) · `en`
-
-Parliament, Feb. 21 (Daily Mirror)- The government must reduce the price of special arrack (Gal arrack) before the New Year for the common man to take a booze, State Minister Chamara Sampath said today.
-
-He told Parliament that prices of arrack had gone up exorbitantly and that people tend to drink illicit liquor (Kasippu).
-
-"The price of a bottle of Gal arrack has gone up. People now drink illicit liquor. Taverns are deserted. People cannot drink 'Kasippu' every day. They need to drink 'Gal arrack' at least for the New Year," he said.
-
-The State Minister said a bottle of Gal arrack can be reduced to Rs. 1,500 adding that spirits needed to brew arrack can be obtained from Pelwatte, Sewanagala and Ethimale.
-
-◼️
-
-[Data](articles/e9d57881.json)
-
-[Extended Data](ext_articles/e9d57881.ext.json)
 
 ---

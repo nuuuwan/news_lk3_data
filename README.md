@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 15:02:32**
+As of **2024-02-22 15:17:28**
 
 ## Newspaper Stats
 
-*Scraped **8,683** Articles*
+*Scraped **8,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ newsfirstlk | 363
 economynextcom | 446
 islandlk | 451
 dailyftlk | 464
-adalk | 737
-adaderanalk | 1,044
+adalk | 739
+adaderanalk | 1,045
 tamilmirrorlk | 1,082
 virakesarilk | 1,171
 adaderanasinhalalk | 1,275
-dailymirrorlk | 1,294
+dailymirrorlk | 1,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,683 (100.0%) of 8,683 articles have been extended.
+8,683 (99.9%) of 8,689 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Launch immediate probe on Sanath Nishantha’s death: Johnston
+
+*2024-02-22 14:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Launch-immediate-probe-on-Sanath-Nishanthas-death-Johnston/108-277560) · `en`
+
+Parliament, Feb. 22 (Daily Mirror)- The complaint made by late State Minister Sanath Nishantha's wife regarding the death of her husband must be investigated into soon and the culrpits brought to book if it was an organised murder, Sri Lanka Podujana Peramuna (SLPP) MP Johnston Fernando said today.
+
+Speaking during the vote of condolence in Parliament on the late State Minister, he said it was suspicious whether the death of Sanath Nishantha was an organised murder or death due an accident.
+
+He said Nishantha's wife had complained to the CID as she deemed her husbands death as suspicous.
+
+"The complaint made by Nishanth Nishantha's wife must be investgated into soon and if it was an organised murder, the culprits must be brought before courts and punished," he said.
+
+◼️
+
+[Data](articles/118d0644.json)
+
+---
+
+### Asia-Pacific countries unite for an agrifood systems transformation to ensure food security of future generations
+
+*2024-02-22 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97456/asia-pacific-countries-unite-for-an-agrifood-systems-transformation-to-ensure-food-security-of-future-generations) · `en`
+
+Forty countries from the Asia and Pacific region today agreed that transforming agrifood systems was imperative to providing food security for their children’s generation and beyond, the Food and Agriculture Organization of the United Nations (FAO) reported today.
+
+The summation was delivered at today’s close of the 37th Session of the FAO Regional Conference for Asia and the Pacific (APRC37) in Colombo. The conference was hosted by the Government of Sri Lanka.
+
+Forty countries of Asia and the Pacific attended the APRC, with the vast majority attending in-person, including some 20 government Ministers.
+
+It was the first time since 2018 that a large in-person gathering of the region’s food and agriculture Ministers and other policymakers was convened by FAO, and is seen as emblematic of the attention needed to recover from the pandemic and disruptions caused to food production and distribution that has plagued many countries in the region ever since.
+
+...
+
+[Data](articles/efe486db.json)
+
+---
+
+### Sri Lanka, Vietnam sign MoU to exchange agricultural technology
+
+*2024-02-22 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Vietnam-sign-MoU-to-exchange-agricultural-technology/108-277558) · `en`
+
+Colombo, Feb 22 (Daily Mirror) - A memorandum of understanding (MoU) was signed between Sri Lanka and Vietnam on a number of issues, including the exchange of agricultural technology and the development of the agricultural sector in both countries.
+
+Agriculture and Plantation Industry Minister Mahinda Amaraweera and Agriculture and Rural Development Minister of Vietnam Minh Hoan Le held bilateral discussions yesterday (21) in conjunction with the 37th Asia Pacific Conference of the United Nations Food and Agriculture Organization.
+
+The agreement was signed on several matters such as agricultural technology, studies and research, exchange of experience, advanced seed production, application of fertilizers and pesticides, and training of farmers and officials so that they can get more yields.
+
+...
+
+[Data](articles/6641e4f0.json)
+
+---
+
+### Government refutes plans to provide ‘Aragalaya site’ for casino
+
+*2024-02-22 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-refutes-plans-to-provide-Aragalaya-site-for-casino/108-277557) · `en`
+
+Parliament, Feb. 22 (Daily Mirror)- The government refuted any plans to provide the Galle Face 'Aragalaya site' where the 'GotaGoGama' agitation was held, to establish a casino.
+
+Chief Government Whip and Urban Development Minister Prasanna Ranatunga said the government had not taken any decision to provide the 'Aragalaya site' to establish a casino as alleged by NPP MP Vijitha Herath.
+
+He said a proposal had been received from Barl Investment Pvt. Ltd. for a mixed investment project at Baladaksha Mawatha, Colombo 03 and that an MoU had been signed with the investor on February 16, 2024.
+
+The Minister said the investor had deposited a fee of USD 10,000 in rupees with the Urban Development Authority (UDA) and that steps have been taken to obtain the valuation report on the land.
+
+He said however, the particular investment project had not yet been approved.
+
+◼️
+
+[Data](articles/fa8f6777.json)
+
+---
 
 ### Archaeological sites in Afghanistan bulldozed for ‘systematic looting’
 
@@ -69,6 +141,20 @@ The arrested suspect is from the age of 44 (44) from Kuda Oya, Lapukkalai. It is
 [Data](articles/38a1a37d.json)
 
 [Extended Data](ext_articles/38a1a37d.ext.json)
+
+---
+
+### ලාම්පු එළිය ප්‍රමාණවත් කියූ ලංවිම මාධ්‍ය ප්‍රකාශක ඉල්ලා අස්වෙයි
+
+*2024-02-22 13:32:33* · [`adalk`](https://www.ada.lk/breaking_news/ලාම්පු-එළිය-ප්‍රමාණවත්-කියූ-ලංවිම-මාධ්‍ය-ප්‍රකාශක-ඉල්ලා-අස්වෙයි/11-408231) · `si`
+
+ලංකා විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක ඉංජිනේරු නොයෙල් ප්‍රියන්ත මහතා එම තනතුරෙන් ඉල්ලා අස්වූ බව විදුලිබල හා බලශක්ති අමාත්‍ය කාංචන විජේසේකර මහතා X පණිවුඩයක් නිකුත් කරමින් නිවේදනය කර තිබුණි. නොයෙල් ප්‍රියන්ත මහතා රූපවාහිනී වැඩසටහනේදී පසුගියදා සිදුකරන ලද ප්‍රකාශයක් සමාජයේ මහත් ආන්දෝලනයක් ඇති කළ අතර පාර්ලිමේන්තුවේදී එම සිද්ධිය සම්බන්ධයෙන් දැඩි විවේචනයක් එල්ල විය.  ඒ සම්බන්ධයෙන් ඔහු පසුව සිය කනගාටුව ප්‍රකාශ කරමින් නිවේදනයක් නිකුත් කළේය.
+
+මේ අතර, විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශකවරයාගේ ප්‍රකාශය ගැන සොයා බලා විනය පියවර ගන්නා බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අද පාර්ලිමේන්තුවේ දී අවධාරණය කළේ ය.
+
+◼️
+
+[Data](articles/ca241066.json)
 
 ---
 
@@ -349,6 +435,20 @@ The study of the Global Waksin Data Network has revealed that the public use of 
 [Data](articles/1370c582.json)
 
 [Extended Data](ext_articles/1370c582.ext.json)
+
+---
+
+### විදුලි ගාස්තු අඩුකිරීමේ යෝජනාව මහජන උපයෝගීතා කොමිසමට
+
+*2024-02-22 12:15:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-අඩුකිරීමේ-යෝජනාව-මහජන-උපයෝගීතා-කොමිසමට/11-408230) · `si`
+
+විදුලි ගාස්තු අඩුකිරීමේ සංශෝධිත ‌යෝජනාව අද (22) මහජන උපයෝගීතා කොමිසමට යොමු කරන බවට ශ්‍රී ලංකා විදුලිබල මණ්ඩලය තහවුරු කොට සිටිනවා. විදුලි ගාස්තු අඩුකිරීම පිලිබඳව විදුලිබල මණ්ඩල සේවක සංගම් මෙන්ම පාරිභෝගික සංගම් වලින් නිරන්තරයෙන් ඉල්ලීම් කලද එය යොජනාවක් ලෙස මහජන උපයොගීතා කොමිසමට ඉදිරිපත් කිරීමට වැඩිකාලයක් ගතවිනි.
+
+අමාත්‍ය කංචන විජේසේකර ඊයේ (21) පාර්ලිමේන්තුවේ දි සඳහන් කල ආකාරයට එය සිදුවන්නේ පසුගිය වසරේ ඔක්තොම්බර් මාසයේදී ඉහල දැමූ විදුලි බිල එම ප්‍රමාණයම අඩුකරන බවයි.
+
+◼️
+
+[Data](articles/916b5bfd.json)
 
 ---
 
@@ -1943,135 +2043,5 @@ NPP Leader, Anura Kumara Dissanayake has stated on numerous occasions that the a
 [Data](articles/3a2b8b58.json)
 
 [Extended Data](ext_articles/3a2b8b58.ext.json)
-
----
-
-### Election fever to grip country  after March
-
-*2024-02-22 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Election-fever-to-grip-country-after-March/172-277504) · `en`
-
-The JVP-led National People’s Power (NPP) is engaging grassroots level individuals and organizations in view of the elections
-
-The NPP is now not prepared to accommodate any other political party or individual
-
-Even the National Movement for Social Justice has initiated the discussion on the need to scrap Executive Presidency
-
-The country is abuzz with election fever, despite the presidential election, constitutionally scheduled for this year, not yet being
-
-...
-
-[Data](articles/615f797b.json)
-
-[Extended Data](ext_articles/615f797b.ext.json)
-
----
-
-### Restore the Senaka Bibile Policies
-
-*2024-02-22 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Restore-the-Senaka-Bibile-Policies/172-277501) · `en`
-
-...
-
-[Data](articles/fca8a9c2.json)
-
-[Extended Data](ext_articles/fca8a9c2.ext.json)
-
----
-
-### 2024-02-21 (Wednesday)
-
-### Afghanistan win three-run thriller, but Sri Lanka take T20 series
-
-*2024-02-21 23:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-win-three-run-thriller-but-Sri-Lanka-take-T20-series/108-277516) · `en`
-
-Dambulla, Feb. 21 - Afghanistan salvaged some pride on Wednesday when they secured a nail-biting three-run win over hosts Sri Lanka in the third T20 international, the last game of their multi-format tour.
-
-It has been a wretched tour for the Afghans -- losing six matches in a row -- but skipper Ibrahim Zadran said he was "feeling great" after his team held their nerve in a dramatic close with a hard-fought win.
-
-"I am happy with the win," Zadran said. "Unfortunately, we lost the series."
-
-Sri Lanka had already secured the three-match T20 series after winning the first two games, the first by four runs, and the second by 72 runs.
-
-They had also won the one-off Test match and the one-day international series in a 3-0 clean sweep.
-
-But Afghanistan seemed determined to win at least one match.
-
-Sri Lanka required 36 off the last two overs, with Dasun Shanaka bringing the chase down to 24 off eight balls -- but was run out.
-
-...
-
-[Data](articles/772428b0.json)
-
-[Extended Data](ext_articles/772428b0.ext.json)
-
----
-
-### Anura, Sajith, Champika: Presidential chances, hopes, targeted by abolition ambush
-
-*2024-02-21 23:30:00* · [`dailyftlk`](https://www.ft.lk/columns/Anura-Sajith-Champika-Presidential-chances-hopes-targeted-by-abolition-ambush/4-758738) · `en`
-
-“Ranil will have to go home even before his term of office, if he attempts to evade the Presidential election.”
-
-The interim report of the Presidential Commission headed by former Chief Justice Priyasath Dep, appointed to suggest electoral reforms, will be presented to President Wickremesinghe in April. This gives cause for apprehension on several counts.
-
-As a president who was appointed and not elected, and was not even elected to the legislature in the first place, Ranil has no mandate to examine, still less attempt wide-ranging arrangements which would require a change in or of the Constitution. His task is to complete his predecessor’s term on the basis of his mandate and that mandate was the opposite of one committed to abolishing the executive presidency.
-
-The SLPP has no mandate to support him in doing so, because it was elected on the contrary mandate.
-
-...
-
-[Data](articles/2ef550ff.json)
-
-[Extended Data](ext_articles/2ef550ff.ext.json)
-
----
-
-### Sri Lanka lost by three runs
-
-*2024-02-21 23:24:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-ஓட்டங்களால்-தோற்றது-இலங்கை/175-333630) · `ta`
-
-Afghanistan won by 3 runs in the third and final T20 cricket match between Afghanistan and Sri Lanka.
-
-Sri Lanka scored 206 runs for the loss of 6 wickets in 20 overs.
-
-Kamindu Mendis scored a maximum of 65 runs and Pathum Nissanka scored 60 runs due to disaster.
-
-However, the Sri Lankan team has captured the three -match series as one to two. Remble
-
-◼️
-
-[Data](articles/5404f2ac.json)
-
-[Extended Data](ext_articles/5404f2ac.ext.json)
-
----
-
-### Afghanistan returns to the country with consolation victory by beating Sri Lanka by 3 runs
-
-*2024-02-21 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/176999) · `ta`
-
-Afghanistan won the third and last international T20 cricket match at the Rangiri and Dambulla International Cricket Stadium on Wednesday (21).
-
-Sri Lanka's victory needed 19 runs in the last over.. Afghanistan won by 3 runs to get a White.
-
-Afghanistan returns to the country with the comfort of its last attempt in a single Test match and the 3 -match international ODI series.
-
-However, Sri Lanka made the international T20 cricket series 2 - 1.
-
-In response to a target of 210 runs for Afghanistan, Sri Lanka lost by 6 wickets in 20 overs and lost 206 runs.
-
-The mistakes of this match and the retirement of Beth and the retirement of Nissanka have been the cause of Sri Lanka's failure.
-
-Both and Nissanka and Kusal Mendis shared 64 runs off 34 balls.
-
-Gusal Perera, who was re -featured in the squad, faced only 2 balls and tied the walk without running.
-
-On the other hand, Betham Nissanka, who was playing efficiently, fell on his left leg when he got the 53rd runs.
-
-...
-
-[Data](articles/fbdfa066.json)
-
-[Extended Data](ext_articles/fbdfa066.ext.json)
 
 ---

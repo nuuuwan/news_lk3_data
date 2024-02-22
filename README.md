@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 14:17:27**
+As of **2024-02-22 14:33:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,294
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,670 (99.9%) of 8,681 articles have been extended.
+8,681 (100.0%) of 8,681 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,27 @@ The sites that have been plundered date back to the Late Bronze Age and Iron Age
 
 [Data](articles/15d0db28.json)
 
+[Extended Data](ext_articles/15d0db28.ext.json)
+
 ---
 
-### நுவரெலியாவில் 46,000 ரூபா பெறுமதியான பழங்களை திருடிய நபருக்கு விளக்கமறியல்!
+### Explanation for a person who stole fruit worth Rs 46,000 in Nuwara Eliya
 
 *2024-02-22 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/177037) · `ta`
 
-நுவரெலியா - கண்டி பிரதான வீதியில் டொப்பாஸ் பகுதியில் பழங்கள் மற்றும் மரக்கறி  விற்பனை செய்யும் கடை ஒன்றில் 46,000 ரூபாய் பெறுமதி மிக்க பழங்களை திருடிய நபரை எதிர்வரும் 26 ஆம் திகதி திங்கட்கிழமை வரை விளக்கமறியலில் வைக்குமாறு நுவரெலியா நீதவான் நீதிமன்ற நீதிபதி பிரபுதிகா லங்கான்தினி உத்தரவு பிறப்பித்துள்ளார்.
+Nuwara Eliya Magistrate's Court Judge Prabhudika Langanthini has ordered a person who stole 46,000 rupees worth of fruits at a shop in Topas area on Nuwara Eliya -Kandy main road until Monday 26th.
 
-நுவரெலியா குற்றத்தடுப்பு பொலிஸாருக்கு பழக்கடை உரிமையாளர் செய்திருந்த முறைப்பாட்டுக்கு அமைய நுவரெலியா பொலிஸ் தலமையக பிரதான பொலிஸ் பரிசோதகர் பிரேமலால் ஹட்டியாராச்சியின் உத்தரவின் பேரில், குற்றத்தடுப்புப் பொலிஸ் பிரிவு பொறுப்பதிகாரி இந்துநில் பிரேமலால் விசாரணைகளை முன்னெடுத்திருந்தார்.
+On the orders of the Chief Inspector of the Nuwara Eliya Police Headquarters, Premalal Hattiyarachchi, the Criminal Investigation Officer of the Criminal Investigation Department, Hindu Munnil, was conducting investigations on the complaint lodged by the Nuwara Eliya Crime Police.
 
-இதன்போது, விசாரணைக்காக நியமிக்கப்பட்டிருந்த 4603 சுரவீர, 60326 ஹேரத் மற்றும் 104705 ரணசிங்க ஆகிய மூவர் அடங்கிய குழுவினர் விசாரணையில் ஈடுப்பட்டு சிசிரிவி கமராவில் பதிவாகியிருந்த காணொளி உதவியுடன் சந்தேக நபரை  கைது செய்தனர்.
+A team of 4603 Surawaweera, 60326 Herath and 104705 Ranasinghe, who had been appointed for investigation, arrested the suspect with the help of a video recorded on the Sisirvi camera.
 
-...
+The arrested suspect is from the age of 44 (44) from Kuda Oya, Lapukkalai. It is noteworthy that the suspect had been ordered to be interrogated until the 26th of this month when the police had subjected to a police investigation and then appeared in the presence of the Nuwara Eliya Magistrate Prabhudika Lanka.
+
+◼️
 
 [Data](articles/38a1a37d.json)
+
+[Extended Data](ext_articles/38a1a37d.ext.json)
 
 ---
 
@@ -104,6 +110,8 @@ The plaintiff further sought an enjoining order restraining the ITAK office bear
 
 [Data](articles/2f33cd6f.json)
 
+[Extended Data](ext_articles/2f33cd6f.ext.json)
+
 ---
 
 ### British instagrammer’s appeal against her deportation dismissed
@@ -121,6 +129,8 @@ The Department of Immigration and Emigration had decided to terminate the visa i
 ◼️
 
 [Data](articles/0b4547e1.json)
+
+[Extended Data](ext_articles/0b4547e1.ext.json)
 
 ---
 
@@ -142,71 +152,83 @@ Meanwhile, MP Gunapala Rathnasekara said the Freedom People’s Congress has yet
 
 ---
 
-### கொக்குத்தொடுவாய் மனித புதைகுழி அகழ்வு பணியினை கொண்டு செல்ல நிதி இல்லை ; மார்ச் மாதம்  தீர்மானம்
+### There is no funding to carry the hook of human burial excavation;Resolution in March
 
 *2024-02-22 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177032) · `ta`
 
-கொக்கு தொடுவாய்  மனித  புதைகுழி  அகழ்வு பணி தொடர்பான குறித்த வழக்கானது இன்று வியாழக்கிழமை முல்லைத்தீவு மாவட்ட நீதவான் நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் தலைமையில் எடுத்துக் கொள்ளப்பட்டது.
+The case of the crane touches was taken under the leadership of Mullaitivu District Magistrate Dharmalingam Pradeepan on Thursday.
 
-கொக்குதொடுவாய் பகுதியில் கண்டு பிடிக்கப்பட்ட மனித புதைகுழியின் அகழ்வானது 1ம் 2ம் என இரண்டு கட்டங்களில் நடைபெற்றிருந்தது. முதல் கட்ட அகழ்வானது 06.09.2023 அன்று ஆரம்பமாகி பதினொரு நாட்கள் நடைபெற்று 17 உடற்பாகங்கள் மீட்கப்பட்ட நிலையில் இடைநிறுத்தப்பட்டிருந்தது. மீண்டும் அகழ்வின் இரண்டாம் கட்ட பணிகள் கடந்த 20.11.2023  அன்று ஆரம்பிக்கப்பட்டு  தொடர்ச்சியாக ஒன்பது நாட்கள் நடைபெற்று 40 எலும்புக்கூட்டு தொகுதிகள் மீட்கப்பட்டுள்ளதுடன் இரண்டாம் கட்ட அகழ்வுபணி இடைநிறுத்தப்பட்டிருந்தது.
+The excavation of the human burial found in the Kokkudoduwai area took place in two phases. The first phase of excavation began on 06.09.2023 and held eleven days and 17 trunks were recovered. The second phase of the excavation began on 20.11.2023 and 40 skeletal blocks were recovered for nine consecutive days and the second phase was suspended.
 
-அத்தோடு,  அகழ்வு ஆய்வு நடவடிக்கையின் இறுதி நாட்களில் மேற்கொள்ளப்பட்ட ஸ்கான் பரிசோதனை மூலம் மனித புதை குழிக்கு மேற்கு பக்கமாக இரண்டு மீற்றர் நீளத்திற்கு உடலங்கள் காணப்படுவதாக பரிசோதனை மூலம் கண்டறியப்பட்டிருந்தது. அதனையடுத்து குறித்த அகழ்வுப்பணி இவ்வருடம்  மார்ச் மாதம் நடைபெற திட்டமிடப்பட்டிருப்பதாகவும் தெரிவிக்கப்பட்டிருந்தது.
+In addition, the scan examination carried out in the last days of the excavation process revealed that the bodies were found to be two meters long to the west side of the human burial cavity.. Subsequently, it was reported that the excavation was scheduled for March this year.
 
 ...
 
 [Data](articles/0d0bd8f6.json)
 
+[Extended Data](ext_articles/0d0bd8f6.ext.json)
+
 ---
 
-### பெருந்தோட்ட மக்களை அவமதிக்கும் வகையிலான கருத்து கீழ்த்தரமானது : இ.மி.ச.ஊடக பேச்சாளருக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுங்கள் - எதிர்க்கட்சித் தலைவர்
+### The concept that insults the plantation people is submissive: Take disciplinary action against the EMC spokesman - Opposition Leader
 
 *2024-02-22 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177026) · `ta`
 
-பெருந்தோட்ட மக்களை அவமதிக்கும் வகையில் கருத்து தெரிவித்த மின்சார சபையின் ஊடக பேச்சாளரை பதவி நீக்கி  அவருக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்க வேண்டும். மலையக மக்களை அவமதிக்கும் வகையில் கீழ்த்தரமான முறையில் கருத்து தெரிவித்துள்ளதை வன்மையாக கண்டிக்கிறேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+The Electricity Board (CEB), who has been insulting the plantation people, should take the post of media spokesman against him and take disciplinary action against him. Opposition leader Sajith Premadasa said that I strongly condemn the subversive comments to insult the people of the hill country.
 
-மின்சார சபையின் பேச்சாளர் குறிப்பிட்ட கருத்தின் உண்மை தன்மை தொடர்பில் ஆராய்ந்து அவருக்கு எதிராக ஒழுக்காற்று நடவடிக்கைகளை முன்னெடுக்குமாறு ஆலோசனை வழங்கியுள்ளேன் என பிரதமர் தினேஷ் குணவர்தன தெரிவித்தார்.
+Prime Minister Dinesh Gunawardena said that the spokesman of the Electricity Board (CEB) has advised him to investigate the reality of the comment and take disciplinary action against him.
 
-பாராளுமன்றத்தில்  வியாழக்கிழமை (22) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றிய எதிர்க்கட்சித் தலைவர்,
+The Leader of the Opposition, who presented a special statement during the session held in Parliament on Thursday (22).
 
-பதுளை பகுதியில் பெருந்தோட்டப் பகுதியில் உள்ள வீட்டில் மின்விநியோகம் துண்டிக்கப்பட்டதை தொடர்ந்துஷ, தனது பிள்ளைகளின் கற்றல் நடவடிக்கைகளுக்காக தந்தை ஒருவர் தனது பக்கத்து வீட்டாரின் அனுமதியுடன் அவர்களின் வீட்டில் இருந்து மின்சாரத்தை பெற்றுக்கொள்ள முயற்சித்த போது மின்சார தாக்குதலுக்கு உள்ளாகி உயிரிழந்துள்ளார்.
+Following the disconnection of the house in the Plantation area in Badulla, a father was killed when he tried to get electricity from their home with the permission of his neighbor for the learning activities of his children.
 
 ...
 
 [Data](articles/4c68b264.json)
 
+[Extended Data](ext_articles/4c68b264.ext.json)
+
 ---
 
-### பெலியத்தயில் ஐவர் சுட்டுப் படுகொலை : துப்பாக்கிச்சூடு நடத்திய இருவர் உள்ளிட்ட 13 இலங்கையர்கள் துபாயில் கைது
+### Thirteen Sri Lankans arrested in Dubai
 
 *2024-02-22 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177033) · `ta`
 
-பெலியத்தயில் ஐந்து பேர் சுட்டுக் கொலை செய்யப்பட்ட சம்பவத்தில் துப்பாக்கிச் சூடு நடத்திய இருவர் உட்பட இலங்கையைச் சேர்ந்த 13 சந்தேக நபர்கள் துபாயில் நேற்று (21) துபாய் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Thirteen Sri Lankan suspects, including two men, who were shot dead in Beliatta, were arrested by Dubai police yesterday (21).
 
-கைதானவர்களில் பெலியத்த கொலைச் சம்பவத்தோடு தொடர்புடையவர் என சந்தேகிக்கப்படும் குற்றக்கும்பலைச் சேர்ந்த உரகஹா மைக்கேல் என்பவரும் அடங்குவார்.
+Among the detainees, Urakhaha Michael, who is suspected of involvement in the Beliatta murder.
 
-துபாயிலுள்ள இரவு நேர விடுதியில் ஏற்பட்ட தகராறின்போது பலரை பொலிஸார் கைது செய்தபோதே, இந்த 13 இலங்கையர்களும் சிக்கியுள்ளனர்.
+These 13 Sri Lankans were trapped when police arrested many people during a nightclub in Dubai.
 
-சர்வதேச பொலிஸாரால் சிவப்பு அறிவித்தல் பிறப்பிக்கப்பட்ட குற்றவாளிகளே இதன்போது கைதாகியுள்ளதாக மேலதிக விசாரணைகளின் பின்னர் தெரியவந்துள்ளது.
+Further investigations have revealed that the criminals were arrested by the international police.
 
-இந்நிலையில், இலங்கையர்கள் 13 பேர் கைது செய்யப்பட்டமை தொடர்பான விபரங்கள் இலங்கை அதிகாரிகளுக்கு வழங்கப்பட்டதன் அடிப்படையில், குற்றப் புலனாய்வுத் திணைக்கள அதிகாரிகள் குழுவொன்று மேலதிக சட்ட நடவடிக்கைகளை மேற்கொள்வதற்காக துபாய்க்கு செல்லவுள்ளமை குறிப்பிடத்தக்கது.
+In this backdrop, a team of Criminal Investigation Department officials will go to Dubai to take further legal action on the basis of the details of the arrest of 13 Sri Lankans.
 
 ◼️
 
 [Data](articles/f07137a5.json)
 
+[Extended Data](ext_articles/f07137a5.ext.json)
+
 ---
 
-### யாழ். விமான நிலைய விஸ்தரிப்புக்காக காணி சுவீகரிப்பு ; விபரங்களைக் கோரி ஜனாதிபதியின் செயலாளர் கடிதம்
+### Yall. Land acquisition for airport expansion;The President's Secretary of the President
 
 *2024-02-22 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177029) · `ta`
 
-யாழ்ப்பாணம் சர்வதேச விமான நிலையத்துக்கென விடுவிக்கப்பட்ட காணிகளில் 500 ஏக்கரை மீள அளவீடு செய்வது தொடர்பாக பணிகளின் அறிக்கைகளை அனுப்பி வைக்குமாறு ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்கவால்  துறைமுகங்கள், கப்பல்துறை மற்றும் விமான சேவைகள் அமைச்சின் செயலாளர் ருவன் சந்திரவுக்கு கடிதம் அனுப்பபட்டுள்ளது.
+A letter has been sent to the Secretary of the Ministry of Ports, Shipping and Airlines, Ruwan Chandra, to send reports on the redemption of 500 acres of land released to the Jaffna International Airport.
 
-யாழ்ப்பாணம் சர்வதேச விமான நிலைய விஸ்தரிப்புக்கென மக்கள் மீள குடியேறியுள்ள வலி வடக்கு பிரதேசத்தின் குரும்பசிட்டி J/242, கட்டுவன் J/238, கட்டுவன் மேற்கு J/239, குப்பிளான் வடக்கு J/211, மயிலிட்டி தெற்கு J/240 கிராமங்களில் காணி அளவீடுகள் இடம்பெறுவதாக மக்கள் எதிர்ப்பு தெரிவித்த நிலையில், அது தொடர்பில் ஜனாதிபதியின் கவனத்துக்கு யாழ்ப்பாணம்,கிளிநொச்சி மாவட்ட பாராளுமன்ற உறுப்பினரும் பாராளுமன்ற குழுக்களின் பிரதித் தவிசாளருமான அங்கஜன் இராமநாதன் எழுத்துமூலம் தெரியப்படுத்தியிருந்தார்.
+The President of the Kurumbasiti J/242, Kattuvan West J/239, Kupilan North J/211, Mayiliti South J/240Anganan Ramanathan, a member of the Jaffna and Kilinochchi District Parliament and Deputy Chairperson of Parliamentary Committees, had informed the writing.
 
-...
+Subsequently, the Secretary to the Ministry of Ports, Profession and Airlines has been instructed by the Presidential Secretariat to submit a detailed report on the land measurements to the President before March 5.
+
+Meanwhile, Jaffna was held on the 16th. It is noteworthy that this was presented by Anganan Ramanathan at the District Development Coordinating Committee meeting.
+
+◼️
 
 [Data](articles/da93fe21.json)
+
+[Extended Data](ext_articles/da93fe21.ext.json)
 
 ---
 
@@ -242,35 +264,47 @@ Colombo, Feb 22 (Daily Mirror) -  Samagi Jana Balawegaya (SJB) MP Rajitha Senar
 
 [Data](articles/c6c2c760.json)
 
+[Extended Data](ext_articles/c6c2c760.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-22 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177030) · `ta`
 
-இன்று வியாழக்கிழமை (பெப்ரவரி 22) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 306.5399 ஆகவும் விற்பனை விலை ரூபா 316.0679 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was Rs 306.5399 and the sales price were 316.0679 based on the currency exchange rate released by the Central Bank on Thursday (February 22).
 
 ◼️
 
 [Data](articles/7b22c8d8.json)
 
+[Extended Data](ext_articles/7b22c8d8.ext.json)
+
 ---
 
-### கொவிட் தடுப்பூசிகளால் ஏற்படும் உடல் பாதிப்புகள் குறித்து சுகாதாரத் துறையினர் விழிப்புடன் இருக்க வேண்டும் - அரச மருத்துவ அதிகாரிகள் சங்கம்
+### The Health Department should be aware of the physical effects of bovit vaccines - State Medical Officers Association
 
 *2024-02-22 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177027) · `ta`
 
-கொவிட் தடுப்பூசிகளால் பல உடல்பாதிப்புகள் ஏற்படுகின்றமை சர்வதேஆராய்ச்சியின் மூலம் தெரியவந்துள்ளதை தொடர்ந்து இது குறித்து இலங்கையின் சுகாதார துறையினர் விழிப்புடன் இருக்கவேண்டும் என மருத்துவ நிபுணர்கள் வலியுறுத்தியுள்ளனர்.
+Medical experts have urged the Sri Lankan health department to be aware of the fact that it has been revealed by the universal research.
 
-சர்வதேச ஆராய்ச்சியின் பாரதூர தன்மை காரணமாக இலங்கை எச்சரிக்கை நிலைக்கு செல்வது சிறந்த விடயம் என அரசமருத்துவ அதிகாரிகள் சங்கத்தின் பேச்சாளர் சமில் விஜயசிங்க தெரிவித்துள்ளார்.
+The Government of Sri Lanka's Association's spokesman Samil Wijayasinghe said that it is best to go to Sri Lanka alert due to the seriousness of international research.
 
-உள்நாட்டில் கொவிட்தடுப்பூசிகளால் ஏற்படக்கூடிய பக்க விளைவுகள் குறித்து இலங்கை எச்சரிக்கை நிலையில் இருப்பதும் விழிப்புணர்வையும் அவதானிப்பையும் பேணுவது மிகவும் அவசியம் என அவர் தெரிவித்துள்ளார்.
+He said that Sri Lanka is alerting the side effects of homemade people, he said.
 
-அதேவேளை இந்த ஆராய்;ச்சி இலங்கை சூழமைவிற்கு மாறான ஒரு சூழமைவில் மேற்கொள்ளப்பட்டதால் இதனை இலங்கையுடன்பொருத்திபார்க்க முடியாது எனவும் குறிப்பிட்டுள்ள அரசமருத்துவ அதிகாரிகள் சங்கத்தின் பேச்சாளர் சமில் விஜயசிங்க மேலும் மரபணுக்கள் உட்பட பல விடயங்கள் இந்த விடயத்தில் முக்கிய பங்களிப்பை வழங்குகின்றன எனவும் தெரிவித்துள்ளார்.
+At the same time, the SC of Sri Lanka said that it was not possible to do so as Sri Lanka was carried out in an alternative environment.
+
+However, the Ministry of Health in Sri Lanka should closely observe the situation and conduct a study on the impact of vicid vaccines at home.
+
+According to a study, Corona vaccines may be due to the present -day diseases.
+
+The study of the Global Waksin Data Network has revealed that the public use of public use during the Kovit period may have caused many diseases in many years.
 
 ...
 
 [Data](articles/1370c582.json)
+
+[Extended Data](ext_articles/1370c582.ext.json)
 
 ---
 

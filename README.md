@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 07:52:56**
+As of **2024-02-22 08:02:29**
 
 ## Newspaper Stats
 
-*Scraped **8,602** Articles*
+*Scraped **8,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ islandlk | 451
 dailyftlk | 464
 adalk | 735
 adaderanalk | 1,035
-tamilmirrorlk | 1,067
+tamilmirrorlk | 1,068
 virakesarilk | 1,154
-adaderanasinhalalk | 1,257
+adaderanasinhalalk | 1,261
 dailymirrorlk | 1,279
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,602 (100.0%) of 8,602 articles have been extended.
+8,602 (99.9%) of 8,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### මිනිස් සිරුරට අහිතකර රූපලාවන්‍ය ආලේපන වටලයි
+
+*2024-02-22 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193683) · `si`
+
+මිනිස් සිරුරට ප්‍රබල හානි කරන තත්ත්වයක් ඇති රසායනික සංයෝග අඩංගු රූපලාවන්‍ය ආලේපන තොගයක් වටලා තිබේ.
+
+පොලීසිය සඳහන් කළේ රූපලාවන්‍ය කටයුතු සඳහා භාවිත කරන එම ආලේපන අලෙවි කළ වෙළෙඳසැල් 04ක් එලෙස වැටලූ බවය.
+
+අදාළ වෙළෙඳසැල් හිමිකරුවන් අත්අඩංගුවට ගෙන ඇති අතර මිනිස් සිරුරට අහිතකර ආලේපන වර්ග 1143ක් විමර්ශන නිලධාරීන් භාරයට ගෙන ඇත.
+
+මෙම වැටලීම ඊයේ (21) දහවල් පිටකොටුව දෙවන හරස්වීදියේ සිදුකර තිබුණේ වලාන දූෂණ මර්ධන ප්‍රහාරක ඒකකය විසිනි.
+
+අත්අඩංගුවට ගෙන ඇති සැකකරුවන් 22,25,45,52 යන වයස්වල පසුවන කළගෙඩිහේන, මොරටුව, වත්තල ප්‍රදේශවල පදිංචිකරුවන්ය.
+
+◼️
+
+[Data](articles/efcd8c9e.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධන යෝජනාව අද ලංවිමට
+
+*2024-02-22 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193682) · `si`
+
+විදුලි ගාස්තු සංශෝධනය කිරීමට අදාළ යෝජනාව අද (22) දින මහජන උපයෝගිතා කොමිසම වෙත භාරදීමට කටයුතු කරන බව ලංකා විදුලිබල මණ්ඩලය පවසයි.
+
+විදුලිබල මණ්ඩලය උපයා ඇති ලාභය පාරිභෝගික ජනතාවට ලබාදීමේ අරමුණින් අදාළ යෝජනා ඉදිරිපත් කරන බව එහි මාධ්‍ය ප්‍රකාශක ඉංජිනේරු නොයෙල් ප්‍රියන්ත මහතා පැවසීය.
+
+පසුගිය වසරේ ඔක්තෝම්බර් මාසයේ දී සිදු කෙරුණු විදුලි ගාස්තු සංශෝධනයෙන් වැඩි කරන ලද මුදල මෙම නව ගාස්තු සංශෝධනයේ දී සම්පුර්ණයෙන්ම ඉවත් කිරිමට කටයුතු කරන බවට විදුලිබල මණ්ඩලය දැනුම් දී ඇති බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා ඊයේ (21) පාර්ලිමේන්තුවේ දී ප්‍රකාශ ක‍ළේ ය.
+
+◼️
+
+[Data](articles/723b92ba.json)
+
+---
+
+### නිපන්දුවක් ද නැද්ද? වනිඳු කට අරියි
+
+*2024-02-22 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193681) · `si`
+
+ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්ථානය අතර පැවති තෙවැනි 20යි 20 තරගය ලකුණු 03කින් ජය ගැනීමට ඇෆ්ගනිස්ථාන කණ්ඩායම ඊයේ (21) සමත් විය.
+
+කෙසේ වෙතත් දෙරට අතර පැවති 20යි 20 තරගාවලිය දෙකට එකක් ලෙස ජය ගනු ලැබුවේ ශ්‍රී ලංකා කණ්ඩායමයි.
+
+ඊයේ තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් ඇෆ්ගනිස්ථාන කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 209ක් ලබාගත්තේ ය.
+
+ඇෆ්ගනිස්ථාන ඉනිම වෙනුවෙන් රහමනුල්ලා ගුර්බාස් ලකුණු 70ක් සහ හසරතුල්ලා සසායි ලකුණු 45ක් ලබා ගැනීමට සමත් විය.
+
+පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 06ක් දැවී ලකුණු 206ක් ලබාගත්තේ ය.
+
+ශ්‍රි ලංකා ඉනිම වෙනුවෙන් පැතුම් නිස්සංක ලකුණු 60ක් සහ කමිඳු මෙන්ඩිස් නොදැවී ලකුණු 65ක් ලබා ගැනීමට සමත් විය.
+
+මෙම තරගයේ අවසන් පන්දු වාරයේ සිව් වැනි පන්දුව සම්බන්ධයෙන් තරග විනිසුරුවරයා විසින් ලබාදුන් තීන්දුව පිළිබඳ ශ්‍රී ලංකා කණ්ඩායමේ නායක වනිදු හසරංග තරගයෙන් පසු පැවති මාධ්‍ය හමුවක දී අදහස් පළ කළේ ය.
+
+අන්තර්ජාතික තරගයක දී මෙවැනි විනිසුරු තීරණයන් බලාපොරොත්තු විය නොහැකි බව ඔහු සඳහන් කළේ ය.
+
+...
+
+[Data](articles/7496efac.json)
+
+---
+
+### අද කාලගුණය
+
+*2024-02-22 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193679) · `si`
+
+අද (22) දිනයේ දකුණු පළාතේ සහ රත්නපුර දිස්ත්‍රික්කයේ වැසි වාර ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙන්නේ අද සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී එම වැසි ඇතිවිය හැකි බවය.
+
+ඒ හැරුණුකොට දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+
+බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරෙයි.
+
+◼️
+
+[Data](articles/616d99ef.json)
+
+---
 
 ### Seylan Bank records strong performance in FY23, despite challenging environment
 
@@ -87,6 +167,24 @@ There have been many changes in the country since 2020. The government of Ranil 
 [Data](articles/60f3baa4.json)
 
 [Extended Data](ext_articles/60f3baa4.ext.json)
+
+---
+
+### ’அனைவரும் ஒன்றுபட்டால் நாட்டை அபிவிருத்தி செய்யலாம்’
+
+*2024-02-22 02:12:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைவரும்-ஒன்றுபட்டால்-நாட்டை-அபிவிருத்தி-செய்யலாம்/175-333634) · `ta`
+
+அனைவரும் இலங்கையர்களாக ஒன்றுபட்டால் நாட்டை துரித அபிவிருத்திக்கு இட்டுச் செல்ல முடியும். அதனால் எதிர்கால சந்ததியினருக்கு மிகவும் பாதுகாப்பான நாட்டை கட்டியெழுப்ப முடியும் என்று  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+திருகோணமலை கோணேஷ்வரா இந்து கல்லூரி மைதானத்தில் ஏற்பாடு செய்யப்பட்டிருந்த 10 ஆவது தேசிய சாரணர் ஜம்போரியை நேற்று ஆரம்பித்து வைத்து ஆற்றிய உரையிலேயே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் உரையாற்றுகையில்,
+
+"  சாரணர்கள் மட்டுமின்றி அனைவரும் நாட்டுக்காக தமது பொறுப்பை செய்ய வேண்டும். நம் அனைவரும் அதனை நிறைவேற்றுகிறோமா என்ற கேள்வி எம்முன் இருக்கிறது. அதை அரசில்வாதிகள் நிறைவேற்றுவார்களா என்பதுதான் பிரச்சினை. இரண்டு ஆண்டுகளுக்கு முன்பு நாங்கள் அனைவரும் கஷ்டங்களை எதிர்கொண்டோம்.
+
+நாட்டை வங்குரோத்து நிலையில் இருந்து மீட்ட பிறகு, அடுத்த தலைமுறைக்கு இதனை விட சிறந்த நாட்டை உருவாக்குவது தான் நம் அனைவரினதும் கடமை. இந்த நிலை மீண்டும் ஏற்படாத வகையில் நாடு கட்டியெழுப்பப்பட வேண்டும். அரசியல்வாதிகள் அதற்கு இன்னும் தயாராக இருக்கிறார்களா என்ற கேள்வி நம்முன் இருக்கிறது.
+
+...
+
+[Data](articles/985513e0.json)
 
 ---
 
@@ -1999,113 +2097,5 @@ In a UN video, Jason Momoa said Sri Lanka was an example on working together to 
 [Data](articles/639853e3.json)
 
 [Extended Data](ext_articles/639853e3.ext.json)
-
----
-
-### Court order after the kidney surgery at Ridgeway Hospital
-
-*2024-02-21 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193658) · `si`
-
-President's Counsel Faizer Mustapha, who appeared in the event of a kidney surgery, was reportedly informed of the aggrieved party to the aggrieved party in Colombo.
-
-He said the police had not conducted a fair investigation into the matter.
-
-The complaint was called before Colombo Additional Magistrate Herlers today.
-
-Attorney-at-Law Faizer Mustapha, who appeared in behalf of the aggrieved party, was admitted to the court and had been hospitalized with two kidneys and removed both kidneys after the surgery.
-
-The President's Counsel, who accused the doctors involved in the incident, claimed that this is a completely murder.
-
-The President's Counsel alleged that the police had complained to the police regarding the complaints.
-
-The Borella police officers informed the court if the court issued an order on the incident.
-
-The Magistrate ordered the police to investigate all parties involved in the incident.
-
-◼️
-
-[Data](articles/979a6700.json)
-
-[Extended Data](ext_articles/979a6700.ext.json)
-
----
-
-### A document from the Court of Appeal from the Center
-
-*2024-02-21 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193657) · `si`
-
-The Environmental Justice Center has been handed over to the Court of Appeal.
-
-The Minister of Wildlife and the Director General of Wildlife and the Director General of Wildlife were presented to the Court of Appeal today, Ada Derana reporter said.
-
-The lawyer appearing on behalf of the Petitioqualian Citizens Center has informed the court that the proposal has been prepared with the residents of the Elephants, separately and intellectuals.
-
-Accordingly, the court ordered to be given the proposal to study the proposal and provide a suitable program to the respondents.
-
-The petition was ordered to be called on the 26th of this month, the respondent was ordered to be prepared to resolve the human-elephant conflict.
-
-◼️
-
-[Data](articles/e6ee9840.json)
-
-[Extended Data](ext_articles/e6ee9840.ext.json)
-
----
-
-### Security tightened after terrorist Pannun threatens to disrupt Ranchi test
-
-*2024-02-21 15:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Security-tightened-after-terrorist-Pannun-threatens-to-disrupt-Ranchi-test/108-277488) · `en`
-
-Feb. 21 (IND) - Security has been tightened in the Jharkhand capital after US-based designated terrorist Gurpatwant Singh Pannun threatened to disrupt the fourth Test match between India and England in Ranchi, officials said.
-
-Pannun, who has been designated as a terrorist by the Home Ministry, has also appealed to the banned CPI (Maoist) through a video uploaded on social media to disrupt the match, officials said. The fourth Test will commence at the JSCA International International Stadium Complex here from February 23. The England team reached the city on Tuesday.
-
-Pannun on radar of the National Investigation Agency since 2019:
-
-Pannun has been on the National Investigation Agency’s radar since 2019, when the anti-terror federal agency registered its first case against the "designated individual terrorist", who has been spreading fear and terror in Punjab and elsewhere in in the country through threats and intimidation tactics.
-
-...
-
-[Data](articles/d8707255.json)
-
-[Extended Data](ext_articles/d8707255.ext.json)
-
----
-
-### Sri Lanka’s January consumer price inflation rises to 6.5%
-
-*2024-02-21 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97436/sri-lankas-january-consumer-price-inflation-rises-to-65) · `en`
-
-Sri Lanka inflation, based on the National Consumer Price Index (NCPI), for January 2024 was recorded at 6.5%, as measured by the year-on-year change, the Department of Census and Statistics (DCS) revealed in its latest report published on Wednesday (Feb.21).
-
-This is an increase of 4.2% compared to the headline inflation recorded in December 2023.
-
-Compared to December, the reported inflation for January was mainly due to the higher prices in both food and non-food groups, according to the DCS report.
-
-On a monthly basis, the year-on-year inflation of the food group went up to 4.1% in January from 1.6% in December. The year-on-year inflation of the non-food group meanwhile increased to 8.5% in January from 6.3% in December.
-
-The contributions (year-on-year) to the inflation recorded in January from the food group and non-food group stood at 1.86% and 4.66% respectively, in comparison to December.
-
-◼️
-
-[Data](articles/31ac449f.json)
-
-[Extended Data](ext_articles/31ac449f.ext.json)
-
----
-
-### Inflation is constantly rising
-
-*2024-02-21 15:33:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணவீக்கம்-தொடர்ந்து-உயர்வு/175-333596) · `ta`
-
-According to the National Consumer Price Index, Sri Lanka's inflation rose to 6.5 in January 2024, according to the Department of Census and Statistics.
-
-Meanwhile, inflation increased from 1.6 per cent in December 2023 to 4.1 per cent in January 2024.
-
-◼️
-
-[Data](articles/0ef44644.json)
-
-[Extended Data](ext_articles/0ef44644.ext.json)
 
 ---

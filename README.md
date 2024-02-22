@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 15:50:49**
+As of **2024-02-22 16:02:32**
 
 ## Newspaper Stats
 
-*Scraped **8,696** Articles*
+*Scraped **8,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 739
 adaderanalk | 1,046
 tamilmirrorlk | 1,083
 virakesarilk | 1,173
-adaderanasinhalalk | 1,275
+adaderanasinhalalk | 1,283
 dailymirrorlk | 1,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,689 (99.9%) of 8,696 articles have been extended.
+8,704 (100.0%) of 8,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Meteorological Department alert
+
+*2024-02-22 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193706) · `si`
+
+The Department of Meteorologies has issued a 4-color warning announcement.
+
+The announcement shows that the temperature that is considered to be attentive should be paid at some places in the island.
+
+According to the Department of Meteorology, in the North Western and North Central provinces, the Department of Meteorology states that this situation can occur.
+
+◼️
+
+[Data](articles/64250c96.json)
+
+[Extended Data](ext_articles/64250c96.ext.json)
+
+---
+
+### Two arrested for robbing gold of 29 pounds
+
+*2024-02-22 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193705) · `si`
+
+A husband who robbed a house has been arrested by the police to another woman to give his wife a gift for the Valentine Day on February 14.
+
+The arrested suspect, a 4 year old, a 49-year-old woman, a 49-year-old woman.
+
+The two have lay a house in Velvettithurai, where they had fled 29 pounds.
+
+Police have arrested the suspect when they were later going to a height in Jaffna.
+
+The woman had received information on suspicion that the woman had mortaged by the plant.
+
+◼️
+
+[Data](articles/7c94ac34.json)
+
+[Extended Data](ext_articles/7c94ac34.ext.json)
+
+---
 
 ### MPs appointed to parliamentary committees announced
 
@@ -50,23 +90,59 @@ Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutiona
 
 [Data](articles/660dbdfc.json)
 
+[Extended Data](ext_articles/660dbdfc.ext.json)
+
 ---
 
-### சிகரெட் விற்பனைக்கு கட்டுப்பாடு
+### An artificial intelligence is a cold war between the economic powers
 
-*2024-02-22 15:05:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகரெட்-விற்பனைக்கு-கட்டுப்பாடு/175-333661) · `ta`
+*2024-02-22 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193704) · `si`
 
-கர்நாடக சட்டசபையில் புதன்கிழமை (21) சுகாதாரத்துறை மந்திரி தினேஷ் குண்டுராவ், கர்நாடக சிகரெட்-புகையிலை பொருட்கள் தடை சட்டத்திருத்த மசோதாவை தாக்கல் செய்தார்.
+A sharp cold war has arisen among the economic powers of the world, with the purpose of protecting and acquisition of artificial intelligence technology.
 
-அப்போது அவர், “கர்நாடகத்தில் தற்போது சிகரெட் வாங்க வயது வரம்பு 18 ஆக உள்ளது. இந்த வயது வரம்பை நாங்கள் 21 வயதாக நிர்ணயிக்கிறோம். அதனால் கர்நாடகத்தில் உள்ள கடைகளில் 21 வயதுக்கு உட்பட்டோருக்கு சிகரெட் விற்க தடை விதிக்கப்படுகிறது.
+The year 2024 would decide that the year earlier in the advancement of AI technology.
 
-பாடசாலை-கல்லூரிகளில் இருந்து 100 மீட்டர் சுற்றளவில் சிகரெட் விற்பனை செய்ய அனுமதி இல்லை. இதை மீறினால் ரூ.100 முதல் ரூ.1,000 வரை அபராதம் விதிக்க வழிவகை செய்யப்பட்டுள்ளது. மேலும் பொது இடங்களில் புகைப்பிடித்தால் ரூ.1000 அபராதம் விதிக்கவும் வழிவகை செய்யப்பட்டு இருக்கிறது.
+The event was the most valuable company in the American Stock Exchange today, the leader of the product of a computer with a computer with ai technology.
 
-சிகரெட் விற்பனை செய்பவர்கள் பிற பொருட்களையும் விற்பனை செய்கிறார்கள். அதனால் அவர்களுக்கு அதிகமாக அபராதம் விதித்தால் பாதிக்கப்படுவார்கள். அதனால் தான் அபராதத்தை குறைவாக நிர்ணயித்துள்ளோம்.
+The Nvidia was able to increase his capital's capital in the American stock market, defeating an alphabot of Amazon and Google.
+
+The results were released yesterday on the final quarter of the end of the last quarter and had a great attention.
+
+Restricting market prospects, the Nvidia 2023 recorded $ 22 billion in the final quarter of $ 22 billion.
+
+In 2023, the Nvidia has twice the overall reservoir of US $ 60.9 billion.
+
+Enlidia CEO Jenson Huu mentions this growth is the demand for AI or artificial intelligence chips.
 
 ...
 
+[Data](articles/d8f749ff.json)
+
+[Extended Data](ext_articles/d8f749ff.ext.json)
+
+---
+
+### Control of cigarette sale
+
+*2024-02-22 15:05:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகரெட்-விற்பனைக்கு-கட்டுப்பாடு/175-333661) · `ta`
+
+Health Minister Dinesh Kundurao filed the Karnataka Legislative Assembly on Wednesday (21).
+
+He said, “The age limit is currently 18 in Karnataka. We determine this age limit as we 21 years old. Therefore, people under the age of 21 are banned from selling cigarettes in stores in Karnataka.
+
+Not permitted to sell cigarettes from school-colleges at 100 meters. In case of this, a fine of Rs 100 to Rs 1,000. Smoking in public places is also a fine of Rs.
+
+Cigarette sellers also sell other products. So they will be affected if they are more fined. That is why we have determined the fine.
+
+We have banned 'Huka' hostels. This is what the rich people do. So we impose a fine of up to Rs 1 lakh. Another 3 years will be sentenced to imprisonment. ”Said.
+
+The bill was subsequently passed. Significantly, the bill also supported the opposition parties.
+
+◼️
+
 [Data](articles/7d29f3e9.json)
+
+[Extended Data](ext_articles/7d29f3e9.ext.json)
 
 ---
 
@@ -88,23 +164,31 @@ It also allowed Sri Lanka to pay with tea, as the country was short of foreign c
 
 [Data](articles/f905511a.json)
 
+[Extended Data](ext_articles/f905511a.ext.json)
+
 ---
 
-### ஒருவர் தான் குறிப்பிட்டகட்சியில் அங்கம் வகிக்கின்றார் என்பதற்காக தனது தனிப்பட்ட கருத்துக்களை மூடிமறைக்கவேண்டிய அவசியமில்லை - ராஜித சேனாரத்ன
+### There is no need to cover up his personal views for a person who is a member of the party - Rajitha Senaratne
 
 *2024-02-22 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177043) · `ta`
 
-ஒருவர் தான் குறிப்பிட்டகட்சியில் அங்கம் வகிக்கின்றார் என்பதற்காக தனது தனிப்பட்ட கருத்துக்களை மூடிமறைக்கவேண்டியதில்லை என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் ராஜித சேனாரத்ன தெரிவித்துள்ளார்.
+United People's Power MP Rajitha Senaratne says that one does not have to cover up his personal views for being a member of the party.
 
-நிறைவேற்று அதிகாரஜனாதிபதி முறை நீக்கத்திற்காக தொடர்ந்தும் குரல்கொடுத்துவரும் நிலையிலேயே ராஜித சேனாரத்ன தனது முகநூலில் இந்த கருத்தினை பதிவுசெய்துள்ளார்.
+Rajitha Senaratne has recorded this comment on his Facebook page as the Executive Officer continues to voice his voice.
 
-நீங்கள் ஒரு கட்சியின் உறுப்பினர் என்பதற்காகவே அல்லது கட்சியில் பதவிகளை வகிப்பதற்காகவோ உங்களின் சுதந்திரமான தனிப்பட்ட கருத்துக்களை மறைத்துவைக்கவேண்டியதில்லை எங்கள் கொள்கை மனச்சாட்சிக்கு பொருந்தக்கூடிய கட்சியென்று எதுவுமில்லை எனவும் அவர் தெரிவித்துள்ளார்.
+He said that there is no party that suits our policy conscience, as you are a member of a party or to hold positions in the party.
 
-எங்களின் சில அறிக்கைகள் கட்சியின் நிலைப்பாடுகளிற்கு முரணாக காணப்படலாம் என தனது முகநூலில்  தெரிவித்துள்ள  ராஜிதசேனரட்ண சிலநேரங்களில் கட்சியின் நடவடிக்கைகளுடன் எங்கள் கொள்கைகள் மோதலாம் இதன் அர்த்தம் நாங்கள் கட்சிக்கு துரோகமிழைக்கின்றோம் என்பதல்ல அல்லது கட்சி எங்களிற்கு துரோகமிழைக்கின்றது என்பதல்ல எனவும் அவர் தெரிவித்துள்ளார்.
+He said in his Facebook page that some of our statements may be contrary to the party's positions, Rajitha Senaratne, sometimes our policies may be confronted with the party's actions, does not mean that we are betraying the party or that the party is not betraying us.
 
-...
+Rajitha Senaratne has said that millions of members and strong political leaders may be in a political party.
+
+Rajitha Senaratna said in his Facebook page that our party leaders would understand this.
+
+◼️
 
 [Data](articles/01fb5332.json)
+
+[Extended Data](ext_articles/01fb5332.ext.json)
 
 ---
 
@@ -158,25 +242,67 @@ The inauguration ceremony of the 42nd annual session of ‘Architect 2024’ of 
 
 [Data](articles/f33a1816.json)
 
+[Extended Data](ext_articles/f33a1816.ext.json)
+
 ---
 
-### காதலர் தினத்தன்று மனைவிக்கு பரிசளிப்பதற்காக  29 பவுண் நகைகளை திருடிய கணவர் உள்ளிட்ட இருவர் கைது
+### University student dies
+
+*2024-02-22 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193703) · `si`
+
+A student of the 22-year-old Ramesh Sagandan, who was studying in the University of Jaffna, has been identified.
+
+The accident had occurred as he was traveling to the motorcycle while he was traveling from the motorcycle to Niweli yesterday (21).
+
+The student who was seriously injured, died while receiving treatment at the Jaffna Hospital.
+
+◼️
+
+[Data](articles/755742c7.json)
+
+[Extended Data](ext_articles/755742c7.ext.json)
+
+---
+
+### Two persons, including a husband who stole 29 pounds of jewelery for giving his wife on Valentine's Day
 
 *2024-02-22 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177039) · `ta`
 
-காதலர் தினத்தன்று தனது மனைவிக்கு பரிசளிப்பதற்காக 29 பவுண் நகைகளை திருடிய சம்பவத்துடன் தொடர்புடைய கணவர் உள்ளிட்ட இருவர் யாழ்ப்பாணத்தில் கைது செய்யப்பட்டனர்.
+Two men, including her husband, were arrested in Jaffna for allegedly stealing 29 pounds of jewelery for gifting his wife on Valentine's Day.
 
-யாழ்ப்பாணம் வல்வெட்டித்துறையைச் சேர்ந்த 25 வயதான ஆணும் ஊர்காவற்றுறையைச் சேர்ந்த 49 வயதான பெண்ணுமே காங்கேசன்துறை பிராந்திய குற்றத்தடுப்பு பிரிவு பொலிஸாரால் இவ்வாறு கைது செய்யப்பட்டனர்.
+A 25 -year -old man from Valvettithurai in Jaffna and a 49 -year -old woman from Kayts were arrested by the Kankesanthurai Regional Crime Branch.
 
-காதலர் தினத்தன்று வல்வெட்டித்துறை பகுதியில் முதியவர்கள் உள்ள வீட்டினுள் 29 பவுண் நகைகள் திருடப்பட்டது.
+On Valentine's Day, 29 pounds of jewelery were stolen inside the elderly home in Valvettithurai.
 
-இந்நிலையில், யாழ்ப்பாண நகரில் நேற்று 4 பவுண் நகைகளை அடகு வைக்க சென்றபோது பெண்மணி ஒருவர் கைது செய்யப்பட்டார்.
+A woman was arrested yesterday when he went to mortgage 4 pounds of jewelery in Jaffna.
 
-சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளை தொடர்ந்து பிரதான சந்தேக நபர் 25 பவுண் தாலியுடன் கைது செய்யப்பட்டார்.
+Following the investigation into the suspect, the main suspect was arrested with a 25 -pound talisman.
 
 ◼️
 
 [Data](articles/bf989d5f.json)
+
+[Extended Data](ext_articles/bf989d5f.ext.json)
+
+---
+
+### Prasanna proofs the Gulface Struggle premises
+
+*2024-02-22 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193702) · `si`
+
+Urban Development and Housing Minister Prasanna Ranatunga says that no investor has not given the Gulface Struggle premises.
+
+The statement made by MP Vijitha Herath in Parliament was preparing to lease the area to a casino business.
+
+Minister Prasanna Ranatunga said that when the government acts to bring investors to the country, the opposition is trying to sabotage it.
+
+The Minister further stated that although contrary to the rules of government rules, no land will be provided to foreign investors.
+
+◼️
+
+[Data](articles/a7870cc3.json)
+
+[Extended Data](ext_articles/a7870cc3.ext.json)
 
 ---
 
@@ -240,6 +366,26 @@ The sites that have been plundered date back to the Late Bronze Age and Iron Age
 
 ---
 
+### Telephone and more items
+
+*2024-02-22 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193701) · `si`
+
+Several mobile phones and accessories have been taken into custody by two mobile phones and accessories at the bus.
+
+The Sudden Examiner of Police (Narcotic Comrade Kosgoda) has been found in the prison, which has stayed at the Syriad and a drug dealer, where the Suddenrian, a drug dealer who stays in the area.
+
+Several four mobile phones, SIM card, phone numbers and several phone devices were found.
+
+They were handed over to the Special Task Force Commanding Officer's Office for further investigations.
+
+◼️
+
+[Data](articles/d6b70baa.json)
+
+[Extended Data](ext_articles/d6b70baa.ext.json)
+
+---
+
 ### Explanation for a person who stole fruit worth Rs 46,000 in Nuwara Eliya
 
 *2024-02-22 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/177037) · `ta`
@@ -273,6 +419,34 @@ Meanwhile, Prime Minister Dinesh Gunawardena emphasized in parliament today that
 [Data](articles/ca241066.json)
 
 [Extended Data](ext_articles/ca241066.ext.json)
+
+---
+
+### New story about the online bill
+
+*2024-02-22 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193700) · `si`
+
+DIG Ruwan Gunasekara says that the bill is further practical to bringing some amendments to the security of online methods.
+
+He was speaking at a seminar held at the Finance Ministry auditorium yesterday (21) to inform the Act.
+
+DIG Ruwan Gunasekera said that the civil proceedings can be filed according to the bill and protecting those affected by the prohibited statements.
+
+He also said that the purpose of this bill is also aimed at preventing the claims of contempt into court.
+
+He said the purpose of this bill is also a purpose to prevent the identification of the wrong accounts, repeated communication.
+
+The DIG ended that if it was released to social media, the responsibility of releasing it should bear the responsibility.
+
+Senior Lecturer Lecturer Lecturer Publi Gunawardena, the Faculty of Information Technology, Sri Jayawardenapura University, said that 16,975 incidents were reported in the social media in 2021.
+
+Most of them are incidents of pornography and edited photos.
+
+◼️
+
+[Data](articles/894f479c.json)
+
+[Extended Data](ext_articles/894f479c.ext.json)
 
 ---
 
@@ -359,6 +533,28 @@ The Department of Immigration and Emigration had decided to terminate the visa i
 [Data](articles/0b4547e1.json)
 
 [Extended Data](ext_articles/0b4547e1.ext.json)
+
+---
+
+### Murder of Australia permit
+
+*2024-02-22 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193699) · `si`
+
+Sydney police say that a couple of couple and their young child were assassinated.
+
+At the place where he performed his training class, a seven-year-old boy and his mother had been killed and his mother had gone into a vehicle.
+
+The 49-year-old suspect is a South Korean and he has been hospitalized with cut injuries.
+
+The murders had been conducted last Monday that night and said that the suspect had arrived at the hospital on a car parking.
+
+However, it was revealed that the man had been admitted to the hospital on the same evening and had been hospitalized.
+
+◼️
+
+[Data](articles/9ba93c3b.json)
+
+[Extended Data](ext_articles/9ba93c3b.ext.json)
 
 ---
 
@@ -1464,6 +1660,8 @@ What is a time-tested truism when it comes to any form of colonization? A deep d
 
 [Data](articles/f4ba8c92.json)
 
+[Extended Data](ext_articles/f4ba8c92.ext.json)
+
 ---
 
 ### Sri Lanka political leadership accepts 5 to 7-pct inflation without protest
@@ -1885,167 +2083,5 @@ There have been many changes in the country since 2020. The government of Ranil 
 [Data](articles/60f3baa4.json)
 
 [Extended Data](ext_articles/60f3baa4.ext.json)
-
----
-
-### No action will be stopped
-
-*2024-02-22 02:21:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்தவொரு-நடவடிக்கையும்-நிறுத்தப்படமாட்டாது/175-333635) · `ta`
-
-Public Security Minister Tran Ales said that no actions have been initiated to suppress the drug and the underworld and prevent violence against women and children.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-There is a series of measures to suppress drug and underworld and prevent violence against girls and children. We are not prepared to stop these activities, no matter what pressure.
-
-Various allegations are being made against us regarding this program. Various people and groups are trying to disrupt this activity. We have been informed that those who get paid through the drug network will spend money on the groups. (A)
-
-◼️
-
-[Data](articles/e37071d0.json)
-
-[Extended Data](ext_articles/e37071d0.ext.json)
-
----
-
-### If everyone is united, the country can be developed
-
-*2024-02-22 02:12:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைவரும்-ஒன்றுபட்டால்-நாட்டை-அபிவிருத்தி-செய்யலாம்/175-333634) · `ta`
-
-If everyone is united as Sri Lankans, the country can lead to rapid development. President Ranil Wickremesinghe said that the future generation can build a safe country.
-
-In a speech by the President inaugurating the 10th National Scout Jambori held at the Goneshwara Hindu College grounds in Trincomalee yesterday. When he further addresses,
-
-"Not only scouts but everyone should do their responsibility for the country. The question is whether we all accomplish it. The problem is whether it will be fulfilled by the state. Two years ago we all faced hardship.
-
-It is the duty of all of us to create a better country for the next generation after recovering the country from bankruptcy. The country must be built so that this condition does not occur again. The question is whether politicians are still ready for it.
-
-...
-
-[Data](articles/985513e0.json)
-
-[Extended Data](ext_articles/985513e0.ext.json)
-
----
-
-### High heat: alert people
-
-*2024-02-22 01:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்பம்-மக்களுக்கு-எச்சரிக்கை/175-333633) · `ta`
-
-A warning has been issued in the North Western Province and some districts.
-
-The warning has been issued to the North Western Province and Gampaha, Colombo, Hambantota and Moneragala districts.
-
-The Department of Meteorology has said that the heat that is felt in the human body is expected to continue at the level of observation.
-
-The Department of Meteorology has instructed to adopt adequate water, not engaging in excessive fatigue, wearing white or pale clothes, and staying in shadowy places.. (A)
-
-◼️
-
-[Data](articles/10af6193.json)
-
-[Extended Data](ext_articles/10af6193.ext.json)
-
----
-
-### Sri Lanka, Iran discuss Persian Gulf’s crucial role in broader Indian ocean security
-
-*2024-02-22 01:54:22* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Iran-discuss-Persian-Gulf-s-crucial-role-in-broader-Indian-ocean-security/56-758764) · `en`
-
-Iran’s Minister of Foreign Affairs Hossein Amir-Abdollahian, engaged in discussions with President Ranil Wickremesinghe during an official visit to Sri Lanka.
-
-The meeting, held at the Presidential Secretariat on Tuesday, cantered on key issues including the ongoing violence in Gasa and opportunities for enhancing bilateral cooperation.
-
-President Wickremesinghe reiterated the Sri Lankan Government’s firm stance on the Gasa conflict, emphasising the immediate necessity for violence cessation and the urgent need for a peace settlement.
-
-He underscored the principle that any peace agreement must be inclusive and not based solely on the demands of either side. Additionally, the President proposed the establishment of a Palestinian State within a timeframe of five years, ensuring the security of both Palestine and Israel.
-
-...
-
-[Data](articles/e7a999e2.json)
-
-[Extended Data](ext_articles/e7a999e2.ext.json)
-
----
-
-### Met. Dept. warns public on heat index in several districts
-
-*2024-02-22 01:53:18* · [`dailyftlk`](https://www.ft.lk/news/Met-Dept-warns-public-on-heat-index-in-several-districts/56-758763) · `en`
-
-The Meteorology Department issued a warning yesterday cautioning residents about the rising heat index, which measures the temperature felt on the human body.
-
-According to the department, the heat index is expected to escalate to ‘Caution’ levels in several areas, particularly in the North-Western Province and districts including Gampaha, Colombo, Hambantota and Monaragala.
-
-The advisory underscores the potential for discomfort and health risks associated with high heat index levels. Residents in the mentioned areas are advised to take precautionary measures to stay cool and hydrated, especially during the peak heat hours of the day.
-
-The warning serves as a reminder for individuals to avoid prolonged exposure to direct sunlight, seek shade when outdoors, and drink plenty of water to prevent dehydration. Additionally, vulnerable populations such as the elderly, children, and individuals with pre-existing health conditions are urged to take extra precautions to avoid heat-related illnesses.
-
-◼️
-
-[Data](articles/e5b662e8.json)
-
-[Extended Data](ext_articles/e5b662e8.ext.json)
-
----
-
-### Appointment of Cabinet Secretary
-
-*2024-02-22 01:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-செயலாளர்-நியமனம்/175-333631) · `ta`
-
-It is worth noting that the appointment has been issued from the 14th of this month.. (A)
-
-◼️
-
-[Data](articles/acb5ffb0.json)
-
-[Extended Data](ext_articles/acb5ffb0.ext.json)
-
----
-
-### Recognize 36 Commissions before the creation of the Truth - Four Civil Organizations
-
-*2024-02-22 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177004) · `ta`
-
-Civil organizations have jointly urged the Sri Lankan government to recognize the 36 commissions established with the approval of the government before the creation of a new truth.
-
-The International Truth and Justice Project, the Sri Lanka Human Rights and Development Center, the Families of the Missing Persons and the Women's Operations Network have jointly urged.
-
-The number of government commissions set up to investigate serious human rights violations has exceeded the number of Sri Lankans who have affected the affected Sri Lankans.
-
-However, another commission is to be created. The new Commission, called Truth, Unity and Reconciliation Order, Sri Lanka to find the truth
-
-However, the victims say that justice and accountability continue to remain elusive. To take action, the families of the missing
-
-Over 240 relatives have died without knowing what happened to their loved ones.
-
-...
-
-[Data](articles/e674f6b1.json)
-
-[Extended Data](ext_articles/e674f6b1.ext.json)
-
----
-
-### Celebrating New Year's Eve
-
-*2024-02-22 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177002) · `ta`
-
-The people of the country have not celebrated the festivals for the past three years due to the economic crisis.. Minister of State for Industry Samara Sampath Dasanayake said the President should fulfill this humble demand.
-
-He was speaking at a debate on the current state of affairs in Parliament on Wednesday (21).
-
-While the country resisted the worst economic crisis, he took responsibility for economic recovery.
-
-Opposition Leader and Janatha Vimukthi Peramuna (JVP) leader says that the government is ready to take over the economy after the advancement of the economy.
-
-The people of the country have not been relieved for the past three years due to economic impact.
-
-The country has now recovered from the crisis. This time, the prices of liquor should be reduced to celebrate the New Year.
-
-◼️
-
-[Data](articles/b6e3a57b.json)
-
-[Extended Data](ext_articles/b6e3a57b.ext.json)
 
 ---

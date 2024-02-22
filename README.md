@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 17:02:31**
+As of **2024-02-22 17:17:27**
 
 ## Newspaper Stats
 
-*Scraped **8,716** Articles*
+*Scraped **8,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 739
 adaderanalk | 1,049
 tamilmirrorlk | 1,083
 virakesarilk | 1,175
-adaderanasinhalalk | 1,284
+adaderanasinhalalk | 1,287
 dailymirrorlk | 1,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,708 (99.9%) of 8,716 articles have been extended.
+8,716 (100.0%) of 8,719 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### අධිකරණයේදී වරදක් කළ සැකකරුට දුන් දඬුවම
+
+*2024-02-22 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193710) · `si`
+
+ගංගොඩවිල මහෙස්ත්‍රාත් අධිකරණයේ සිර මැදිරිය තුළට මත්ද්‍රව්‍ය පාර්සලයක් විසිකළ සැකකරුවෙකුට අධිකරණය විසින් සිර දඬුවම් නියම කර තිබේ.
+
+ගංගොඩවිල අතිරේක මහෙස්ත්‍රාත් සංජය ලක්මාල් විජේසිංහ මහතා මෙම සිර දඬුවම නියම කර ඇත.
+
+ඔහුට එරෙහිව පවරා තිබූ නඩු කටයුත්තකට පෙනී සිටීම සඳහා සැකකරු අද (22) අධිකරණය වෙත පැමිණ තිබුණි.
+
+එහිදී විවෘත අධිකරණයේ නඩු කටයුතු විභාග වෙමින් පැවති අවස්ථාවේදී සැකකරු විසින් මෙලෙස සිරමැදිරිය තුළට පාර්සලයක් විසිකර ඇත.
+
+එම සිදුවීම දුටු විනිසුරුවරයා ක්ෂණිකව ක්‍රියාත්මකව ඇති අතර අධිකරණ භාර පොලිස් නිලධාරියා විසින් එම පාර්සලය ගෙන පරීක්ෂා කිරීමේදී එහි අයිස් මත්ද්‍රව්‍ය අඩංගුව ඇති බවට හෙළිවී තිබේ.
+
+එම පාර්සලය තුළ අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 900ක ප්‍රමාණයක් තිබී සොයාගෙන ඇත.
+
+අධිකරණයට අපහාස කිරීමේ චෝදනාව යටතේ මාස 03ක් සහ අයිස් මත්ද්‍රව්‍ය ළඟ තබාගැනීමේ චෝදනාව යටතේ බරපතළ වැඩ සහිතව මාස 03ක් බැගින් ඔහුට මෙලෙස මාස 6ක කාලයක් සිර දඬුවම් නියම කර ඇත.
+
+◼️
+
+[Data](articles/d09bc3ab.json)
+
+---
+
+### හරක් කටා ගැන අභියාචනාධිකරණයෙන් නියෝගයක්
+
+*2024-02-22 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193709) · `si`
+
+ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු බව කියන නඳුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා නමැත්තා දැනට රඳවාගෙන සිටින ස්ථානය වෙනස් කරන්නේ නම් ඒ පිළිබඳව අධිකරණයට දැනුම් දිය යුතු බවට නිකුත් කර තිබූ නියෝගය මාර්තු මස 28 වනදා දක්වා දීර්ඝ කරන ලෙස අභියාචනාධිකරණය අද (22) නියෝග කළේය.
+
+ඔහු මේ වනවිට රැඳවුම් නියෝග මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවා සිටියි.
+
+හරක් කටා නැමැත්තාගේ පියා විසින් ගොනු කළ පෙත්සමක් අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී මෙම නියෝගය නිකුත් කෙරුණි.
+
+මෙම පෙත්සමට අදාළ විරෝධතා තිබේ නම් ඒවා මාර්තු මස 15 වනදාට පෙර ගොනුකරන ලෙස වගඋත්තරකරුවන්ට නියෝග කළ අධිකරණය මාර්තු 28 වනදා පෙත්සම් විභාගය සිදුකරන බවත් නියෝග කළේය.
+
+◼️
+
+[Data](articles/98aebce1.json)
+
+---
 
 ### Sri Lanka stocks close up, turnover tops 1bn
 
@@ -54,6 +96,8 @@ Positive contributors to the indices in the day included Hemas Holdings Plc (73.
 
 [Data](articles/e00ac070.json)
 
+[Extended Data](ext_articles/e00ac070.ext.json)
+
 ---
 
 ### Contraband items seized from 2 cells at Boossa high-security prison
@@ -72,21 +116,47 @@ The seized contraband has been handed over to the office of the STF Commandant f
 
 [Data](articles/8bc7e92a.json)
 
+[Extended Data](ext_articles/8bc7e92a.ext.json)
+
 ---
 
-### வெப்பநிலை அதிகரிப்பு ; 8 மாவட்டங்களுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை
+### වසර දෙකක විනාශය
+
+*2024-02-22 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193708) · `si`
+
+යුක්‍රේන - රුසියානු යුද්ධයට තව නොබෝ දිනකින් වසර දෙකක් සම්පූර්ණ වෙයි.
+
+මේ වනවිට යුක්‍රේනයට, අමෙරිකාව ඇතුළු බටහිර රටවලින් යුද ආධාර ගලා ආවත් රුසියාවට මුදලට හෝ අවි ලබාදීමට ඉදිරිපත්වන රටවල් සංඛ්‍යාව සීමිත ය.
+
+විශේෂයෙන් අමෙරිකාව, පසුගියදා ප්‍රසිද්ධියේම චීනයට තරවටුවක් කළේ, රුසියාවට අවි සැපයීම කළහොත් සම්බාධකවලට මුහුණදීමට සිදුවනු ඇති බව පවසමිනි.
+
+බටහිර රටවල් පවසන දේ ගැන කිසිදු ගරු සරුවක් නොදක්වන උතුරු කොරියානු නායක කිම් ජොං-අන් රුසියාවට මිසයිල ඇතුළු අවි සැපයීමට කටයුතු කර ඇති බව වාර්තා වෙයි.
+
+ජනපති පුටින් ඊට තුති පිදීමක් ලෙස රුසියාවේ නිෂ්පාදිත සුඛෝපභෝගී ලිමොසීන් රථයක් ලබාදුන් බව ඊයේ විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+මීට අමතරව ඉරානය විසින් රුසියාවට මහා පරිමාණ වශයෙන් ඩ්‍රෝන යානා සහ අනෙකුත් අවි ආයුධ ලබාදෙන බවට ද වාර්තා පළවිය.
+
+◼️
+
+[Data](articles/5055ecfe.json)
+
+---
+
+### Temperature increase;Warning to 8 districts
 
 *2024-02-22 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/177051) · `ta`
 
-நாட்டில்  பல மாவட்டங்களில் நேற்று முதல் வெப்பநிலை அதிகரித்துள்ளது.  இதன் காரணமாக 8 மாவட்டங்களுக்கு வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+Temperatures have increased since yesterday in many districts in the country.As a result, the Department of Meteorology has issued a warning to 8 districts.
 
-நாளை வெள்ளிக்கிழமை (23) கொழும்பு, கம்பஹா, குருணாகல், புத்தளம், அநுராதபுரம், திருகோணமலை மற்றும் மொனராகலை  மாவட்டங்களில்  அதிக வெப்பநிலை பதிவாகும் என்று தெரிவித்துள்ளது.
+High temperatures will be recorded tomorrow (23) in Colombo, Gampaha, Kurunegala, Puttalam, Anuradhapura, Trincomalee and Moneragala districts.
 
-எனவே, பொதுமக்கள் வெளியிடங்களில் தேவையற்ற விதமாக நடமாடுவதை தவிர்க்குமாறும், அதிக நீரை பருகுமாறும், வெளிர்நிறத்திலான மெல்லிய ஆடையை  அணியுமாறு அறிவுறுத்தப்பட்டுள்ளது.
+Therefore, it is advised to wear a pale thin clothing to avoid unnecessary walking in public publications.
 
 ◼️
 
 [Data](articles/ed266ebb.json)
+
+[Extended Data](ext_articles/ed266ebb.ext.json)
 
 ---
 
@@ -160,6 +230,8 @@ These are, namely: Jagath Pushpakumara, Janaka Wakkumbura, Lohan Ratwatte,  Ind
 
 [Data](articles/d62a5cf0.json)
 
+[Extended Data](ext_articles/d62a5cf0.ext.json)
+
 ---
 
 ### Sri Lanka, Vietnam to cooperate on agriculture
@@ -177,6 +249,8 @@ Bilateral discussions between the two countries were held in conjunction with th
 ◼️
 
 [Data](articles/8536a273.json)
+
+[Extended Data](ext_articles/8536a273.ext.json)
 
 ---
 
@@ -275,6 +349,8 @@ MBSL is 84.5% owned by Bank of Ceylon (BOC, A(lka)/Stable) and other BOC group e
 ...
 
 [Data](articles/0eec5865.json)
+
+[Extended Data](ext_articles/0eec5865.ext.json)
 
 ---
 
@@ -758,6 +834,8 @@ The 26th session of the Joint Commission between Sri Lanka and the European Unio
 
 [Data](articles/dbfa31db.json)
 
+[Extended Data](ext_articles/dbfa31db.ext.json)
+
 ---
 
 ### Murder of Australia permit
@@ -1051,6 +1129,8 @@ ECONOMYNEXT – India’s BAL Investment has expressed interest in a land in Col
 ◼️
 
 [Data](articles/ccf9d3d3.json)
+
+[Extended Data](ext_articles/ccf9d3d3.ext.json)
 
 ---
 
@@ -2003,67 +2083,5 @@ Parliamentarian Abeygunawardena said that a woman called 'cake Nona' contested t
 [Data](articles/b95cd5d8.json)
 
 [Extended Data](ext_articles/b95cd5d8.ext.json)
-
----
-
-### Electricity bill will be reduced completely
-
-*2024-02-22 07:53:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-முற்றிலும்-குறைக்கப்படும்/175-333636) · `ta`
-
-Minister of Power and Energy Kanchana Wijeshekara yesterday (21) said that a new proposal on the electricity tariff revision has been proposed to reduce the 18 per cent increase in electricity tariffs in October last year.
-
-He said in Parliament that the electricity tariffs of domestic consumers and religious places were 18 per cent, 12 per cent for the industry and hotel sector, 12 per cent, public purposes, including public buildings, and that they would be reduced in the new amendment last October.
-
-He said the new proposals for the Electricity Tax Amendment would be handed over to the Sri Lanka General Utilities Commission (PUCSL) tomorrow.
-
-Earlier, the Ceylon Electricity Board had proposed to reduce the tariff by 3 percent.
-
-◼️
-
-[Data](articles/5d061a99.json)
-
-[Extended Data](ext_articles/5d061a99.ext.json)
-
----
-
-### Warning announcement to the people of several districts
-
-*2024-02-22 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193685) · `si`
-
-With the hot weather, the Department of Meteorology has issued a reputation for several districts in the island.
-
-The warm index will be increased in the North Western and Gampaha, Colombo and Moneragala Districts today (22).
-
-The Director of the Department of Foreign Department said that the people should pay attention to this.
-
-Meanwhile, Dr. Deepal Prarera says that with the warm weather conditions, there is a growth of child disease.
-
-Specialist Dr. Deepala Perera added that children should limit the sun exposure to the sun.
-
-◼️
-
-[Data](articles/2119be7c.json)
-
-[Extended Data](ext_articles/2119be7c.ext.json)
-
----
-
-### Sri Lanka nabs oil polluting tanker using satellite surveillance - report
-
-*2024-02-22 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97446/sri-lanka-nabs-oil-polluting-tanker-using-satellite-surveillance-report) · `en`
-
-The Marine Environment Protection Authority of Sri Lanka is touting its success at nabbing an “unauthorized oil release” as part of a sophisticated new satellite surveillance system it began testing with support from France.
-
-According to the statement released by the authority on social media, it was the first successful case although they have already had more than 100 detection reports from the system.
-
-The Global Crest, a 12,900 dwt crude oil tanker registered in Panama was in Sri Lanka’s anchorage on February 3. The vessel was repositioning to the anchorage near Colombo when on February 4 the initiative funded by the French government detected a large oil slick.
-
-The MEPA reports the stain was confirmed in satellite images nearly seven miles in length and spread over one square kilometer (0.3 sq. miles).
-
-...
-
-[Data](articles/1dc8c2e2.json)
-
-[Extended Data](ext_articles/1dc8c2e2.ext.json)
 
 ---

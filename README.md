@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 11:02:24**
+As of **2024-02-22 11:17:34**
 
 ## Newspaper Stats
 
-*Scraped **8,641** Articles*
+*Scraped **8,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 736
 adaderanalk | 1,040
 tamilmirrorlk | 1,074
 virakesarilk | 1,159
-adaderanasinhalalk | 1,270
+adaderanasinhalalk | 1,272
 dailymirrorlk | 1,287
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,641 (100.0%) of 8,641 articles have been extended.
+8,641 (100.0%) of 8,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක තනතුරෙන් යයි
+
+*2024-02-22 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193695) · `si`
+
+ලංකා විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක නොයෙල් ප්‍රියන්ත මහතා එම ධුරයෙන් ඉල්ලා අස්වී ඇති බව වාර්තා වෙයි.
+
+ඒ මහතා පසුගියදා සිදුකරන ලද ප්‍රකාශයක් සමාජයේ මහත් ආන්දෝලනයක් ඇති කළ අතර ඒ සම්බන්ධයෙන් ඔහු පසුව සිය කනගාටුව ප්‍රකාශ කරමින් නිවේදනයක් නිකුත් කළේය.
+
+විදුලිබල අමාත්‍ය කංචන විජේසේකර මහතා X පණිවුඩයක් නිකුත් කරමින් නොයෙල් ප්‍රියන්ත මහතා ඉල්ලා අස්වූ බව නිවේදනය කර තිබුණි.
+
+◼️
+
+[Data](articles/c0ee6fef.json)
+
+---
 
 ### CEB spokesman resigns from post over controversial remarks
 
@@ -47,6 +63,24 @@ The CEB spokesperson, who attended Ada Derana ‘Big Focus’ program on Tuesday
 [Data](articles/2cc2366b.json)
 
 [Extended Data](ext_articles/2cc2366b.ext.json)
+
+---
+
+### ගිනි අවි සමඟ දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-02-22 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193694) · `si`
+
+මෙරට නිෂ්පාදිත ගිනි අවියක් ළඟ තබාගෙන සිටි පුද්ගලයෙකු පින්නවල - මැදගම්මැද්ද ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+පින්නවල පොලීසියේ නිලධාරින්ට ලද තොරතුරක් මත සිදු කළ වැටලීමක දී සැකකරු අත්අඩංගුඅවට ගෙන ඇති බව සඳහන් ය.
+
+මේ අතර, ඉංගිරිය කුරණ ප්‍රදේශයේ දී ද මෙරට නිෂ්පාදිත ගිනි අවියක් ළඟ තබාගෙන සිටි පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු හඳපාන්ගොඩ ප්‍රදේශයේ පදිංචි 28 හැවිරිදි පුද්ගලයෙකු බවට වාර්තා වේ.
+
+◼️
+
+[Data](articles/fe28cbeb.json)
 
 ---
 
@@ -2027,51 +2061,5 @@ The State Minister said a bottle of Gal arrack can be reduced to Rs. 1,500 addin
 [Data](articles/e9d57881.json)
 
 [Extended Data](ext_articles/e9d57881.ext.json)
-
----
-
-### Fan and Mahin
-
-*2024-02-21 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193667) · `si`
-
-Sri Lanka 20 Sri Lanka (ICC) has been able to reach 20 and 20 leader of the ICC bowlers.
-
-Mah Meesh was inspevatory and 676 bonus marks.
-
-The number one in the rankings of 20s, England spinner, is the England spinner.
-
-Meanwhile, Leader Monduvin was also in the list of 20 Tioral Players.
-
-The first place is still in the first place, Bangladesh player Shakib Al Hassan.
-
-The rankings of Money and Mahish have come forward on the performers of the 20th tournament between Sri Lanka and Afghanistan.
-
-Among the two countries will commence at the Rangeiri Dambulla Stadium today (21) at 07.00 pm today.
-
-◼️
-
-[Data](articles/101e197f.json)
-
-[Extended Data](ext_articles/101e197f.ext.json)
-
----
-
-### Buddhist monks should not come to parliament, should be in the mutilation - Minister of State for Minister Diana Kamage
-
-*2024-02-21 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/176991) · `ta`
-
-Buddhist monks should not come to parliament. To teach the room from the idols. People should no longer vote for those who wear the saffron. Tourism Minister Diana Kamage said that Gotabhaya Rajapaksa was in a huge crisis with the advice of Parliamentarian Ratna Thera and Nalaka Kodaheva.
-
-Not only Field Marshal Sarath Fonseka, President Ranil Wickremesinghe, Mahinda Rajapaksa, Maithripala Sirisena, Sajith Premadasa and Anuragumara Dissanayake. Therefore, SM Marikar should avoid referring to the subversive ideas.
-
-He said this while addressing the adjournment debate of the country's current state of affairs in Parliament on Wednesday (21).
-
-When the development activities are carried out with foreign investments, it is the current culture of protesting against it.. When the high -speed highways development work was carried out during the reign of former President Mahinda Rajapaksa, a party protested in the middle of the road.. But they are the ones who use the highway today.
-
-...
-
-[Data](articles/f41d3337.json)
-
-[Extended Data](ext_articles/f41d3337.ext.json)
 
 ---

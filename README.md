@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 14:50:20**
+As of **2024-02-22 15:02:32**
 
 ## Newspaper Stats
 
-*Scraped **8,681** Articles*
+*Scraped **8,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 451
 dailyftlk | 464
 adalk | 737
 adaderanalk | 1,044
-tamilmirrorlk | 1,080
+tamilmirrorlk | 1,082
 virakesarilk | 1,171
 adaderanasinhalalk | 1,275
 dailymirrorlk | 1,294
@@ -26,7 +26,7 @@ dailymirrorlk | 1,294
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,681 (100.0%) of 8,681 articles have been extended.
+8,683 (100.0%) of 8,683 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -114,6 +114,30 @@ The plaintiff further sought an enjoining order restraining the ITAK office bear
 
 ---
 
+### Periods
+
+*2024-02-22 13:11:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கொக்குத்தொடுவாய்-எச்சங்களின்-காலங்கள்-அறிவிப்பு/72-333657) · `ta`
+
+Attorney -at -Law VK Najanjan said in a statement from Raj Somadeva that the remnants of the Kokkuttuwai human burial ground were from 1994 to 1996.
+
+The case regarding the excavation work of the Kokkudoduwai human burial excavation was taken up for hearing on Thursday (22) under the patronage of Mullaitivu Magistrate Dharmalingam Pradeepan.
+
+Mullaitivu Magistrate's Court Judge T. Pradeepan brought to the notice of the Mullaitivu Magistrate's Court on the basis of the fact that Professor Raj Somadeva was sent to the House of Commons.
+
+Based on analysis, many -page reports have been filed that it may not be prevailed in 1994 and that it may not be late in 1996.. This is seen as an interim report.
+
+The excavation of the rest of the skeleton is probably initiated on March 4.
+
+However, the excavation is expected to take place if the appropriate funds are provided by the Ministry. Therefore, the case has been postponed to March 4.
+
+...
+
+[Data](articles/24f09006.json)
+
+[Extended Data](ext_articles/24f09006.ext.json)
+
+---
+
 ### British instagrammer’s appeal against her deportation dismissed
 
 *2024-02-22 13:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/British-instagrammers-appeal-against-her-deportation-dismissed/108-277553) · `en`
@@ -167,6 +191,26 @@ In addition, the scan examination carried out in the last days of the excavation
 [Data](articles/0d0bd8f6.json)
 
 [Extended Data](ext_articles/0d0bd8f6.ext.json)
+
+---
+
+### Bad upside down and Sachin;Video
+
+*2024-02-22 12:53:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தலைகீழாக-பேட்-பிடித்து-அசத்திய-சச்சின்-காணொளி/44-333656) · `ta`
+
+Cricket Jambavan Sachin Tendulkar has left the love and affection of fans after retirement. Wherever he travels, the fans greeted him and enjoyed photographing him and playing cricket
+
+In this case, Sachin has been touring Jammu and Kashmir for the past few days with his wife Anjali and daughter Sarah.. He went to various tourist attractions during the trip and enjoying playing cricket with local fans and boys.
+
+As such, he played cricket on the road with local youths as he went to the Gulmarg area. A bowler bowled for Sachin. Sachin scored the first 5 balls. Then Sachin, who was upside down the bat, challenged me out in the last ball.. But this time he couldn't get out by the bowler. Sachin was accurately blocked by the handle of the last ball. Then he enjoyed the cellphone with all the local fans.
+
+Sachin has posted this happy moment on his X site. 'Cricket and Kashmir: A competition in paradise!'Titled the video. This video is going viral.
+
+◼️
+
+[Data](articles/b4f303bd.json)
+
+[Extended Data](ext_articles/b4f303bd.ext.json)
 
 ---
 
@@ -2029,49 +2073,5 @@ On the other hand, Betham Nissanka, who was playing efficiently, fell on his lef
 [Data](articles/fbdfa066.json)
 
 [Extended Data](ext_articles/fbdfa066.ext.json)
-
----
-
-### Improved trading in blue-chips lifts CSE fortunes
-
-*2024-02-21 22:54:00* · [`islandlk`](http://island.lk/improved-trading-in-blue-chips-lifts-cse-fortunes/) · `en`
-
-Stock market trading witnessed a degree of negativity early yesterday but during the latter part of the day it evinced some bullish sentiment due to trading improving in blue-chip companies, market analysts said.
-
-Both indices moved upwards. The All Share Price Index went up by 11.2 points and S and P SL20 rose by 5.2 points. Turnover stood at Rs 880 million with three crossings. Those crossings were reported in LB Finance, which crossed 460,000 shares to the tune of Rs 28 million and its shares traded at Rs 61, HNB 165,000 share crossed for Rs 26.4 million; its shares traded at Rs 160 and Melstacope 250,000 shares crossed for Rs 22.25 million; its shares price sold at Rs 89.
-
-...
-
-[Data](articles/3c148302.json)
-
-[Extended Data](ext_articles/3c148302.ext.json)
-
----
-
-### Afghanistan win by 3 runs
-
-*2024-02-21 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193678) · `si`
-
-Afghanistan beat Afghanistan by 3 runs in the third and final between Sri Lanka and Afghanistan.
-
-The Afghanistan decided to bat first, accordingly, they scored 209 runs for the loss of 5 wickets at the end of 20 overs.
-
-Hurbas scored 70 runs and Hastuthulla scored 45 runs.
-
-In bowling, Matha Pathirana and Akila Dananjaya divided 02 wickets each.
-
-In reply, Sri Lanka were able to score only 206 runs for the loss of 6 wickets.
-
-The gathering of excellent bodies of Sri Lanka for Sri Lanka scored 60 runs.
-
-But unfortunately, he had to leave the flock due to disability.
-
-Kumindu Mendis, who was weighing the Sri Lankan innings after the dismissal, scored 65 runs.
-
-◼️
-
-[Data](articles/3c3b2ade.json)
-
-[Extended Data](ext_articles/3c3b2ade.ext.json)
 
 ---

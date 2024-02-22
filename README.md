@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 10:51:22**
+As of **2024-02-22 11:02:24**
 
 ## Newspaper Stats
 
-*Scraped **8,634** Articles*
+*Scraped **8,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,119 @@ economynextcom | 442
 islandlk | 451
 dailyftlk | 464
 adalk | 736
-adaderanalk | 1,039
+adaderanalk | 1,040
 tamilmirrorlk | 1,074
-virakesarilk | 1,157
+virakesarilk | 1,159
 adaderanasinhalalk | 1,270
-dailymirrorlk | 1,283
+dailymirrorlk | 1,287
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,634 (100.0%) of 8,634 articles have been extended.
+8,641 (100.0%) of 8,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### CEB spokesman resigns from post over controversial remarks
+
+*2024-02-22 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97450/ceb-spokesman-resigns-from-post-over-controversial-remarks) · `en`
+
+Eng. Noel Priyantha has tendered his resignation as the spokesperson of Ceylon Electricity Board (CEB).
+
+Power and Energy Minister Kanchana Wijesekera, taking to X (formerly Twitter), said this was communicated to him by the CEB management.
+
+The CEB spokesperson, who attended Ada Derana ‘Big Focus’ program on Tuesday made controversial remarks that received backlash for lacking empathy.
+
+◼️
+
+[Data](articles/2cc2366b.json)
+
+[Extended Data](ext_articles/2cc2366b.ext.json)
+
+---
+
+### Resolution to remove illegal buildings in the area near the Polgola reservoir
+
+*2024-02-22 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177014) · `ta`
+
+The Kandy District Coordinating Committee has decided to conduct field inspections on the unauthorized buildings on both sides of the Tuttukemunu Mawatha, near the Kandy -Polgolla reservoir.
+
+The Coordinating Committee Chairman and Member of Parliament Gunathilaka Rajapaksa has advised that the resolution is being made in accordance with the complaints received by the Kandy, Polgola Dam and the residents of the area without the permission of the Kandy, the residents of the area, and that pedestrians are in a state of disgust.
+
+During a committee meeting held at the Kandy District Secretariat on Monday (19), the Chairman pointed out that the construction of the Pedestrians and the residents was being interrupted from the Levella Bridge to the Polgolla Dam to the Mudugamunu Mawatha and Uyanvatam junction.
+
+...
+
+[Data](articles/fb48810f.json)
+
+[Extended Data](ext_articles/fb48810f.ext.json)
+
+---
+
+### Electricity Board spokesman resigns
+
+*2024-02-22 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177013) · `ta`
+
+Ceylon Electricity Board (CEB) spokesman Noel Priyantha has resigned from the claim that students should be used to use the bottle.
+
+Kanchana Vijayasekara has said that many people, including Minister Thondaman, have pointed out that the speaker of the Ceylon Electricity Board (CEB) has no business or compassion or compassion.
+
+Minister of Electricity spokesman Kanjana Wijayasekara said that I am apologizing on behalf of the Ministry and the Electricity Board for his comments.
+
+The Minister said that the Ceylon Electricity Board (CEB) has announced that he has resigned from his post and has demanded amnesty for his comments.
+
+◼️
+
+[Data](articles/ddcde4e0.json)
+
+[Extended Data](ext_articles/ddcde4e0.ext.json)
+
+---
+
+### Sri Lankan fined $41,000 for illegal fishing in Seychelles
+
+*2024-02-22 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-fined-41-000-for-illegal-fishing-in-Seychelles/108-277548) · `en`
+
+Feb 22, (Seychelles News Agency) - The Seychelles Supreme Court has convicted a Sri Lankan national to a fine of SCR 550,000 ($41,000) after being found guilty of illegally fishing in the island nation’s territorial waters, the police said on Wednesday.
+
+According to the police, Makavita Liyanage Dilesh, 43, was the person in charge of the vessel Rankurulla 4 that was intercepted and arrested in the Seychelles Exclusive Economic Zone (EEZ) on November 24 last year.
+
+The presiding judge in the case took into consideration that the accused pled guilty and did not waste the court’s time. The convict is a married man with two children still at school and his family depends on his revenue to survive.
+
+The Sri Lankan national revealed to the Court that the fish they caught was taken and sold for a sum of SCR 35,320 which was collected by the Seychelles Fishing Authority.
+
+The fine is payable within 60 days if not, the convict will do a term of 18 months in prison.
+
+...
+
+[Data](articles/b0c8aa49.json)
+
+[Extended Data](ext_articles/b0c8aa49.ext.json)
+
+---
+
+### Minister apologises, spokesman resigns
+
+*2024-02-22 10:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-apologises-spokesman-resigns/108-277547) · `en`
+
+Colombo, Feb 22 (Daily Mirrro) - After facing severe criticism on social media for the remarks by Ceylon Electricity Board (CEB) media spokesman Noel Priyantha, Power and Energy Minister Kanchana Wijesekera has extended an apology on behalf of both the Ministry and the CEB.
+
+In a recent television programme, Noel Priyantha sparked controversy by suggesting that children should resort to studying using oil lamps if necessary. He cited the precedent set by previous generations who excelled in their studies under similar conditions.
+
+However, following the criticism, the media spokesman has resigned from his position and publicly apologized for his statement.
+
+"The statement does not reflect the views of the Government or the CEB and I would like to extend my apology on behalf of the Ministry and the CEB," Minister Wijesekera said.
+
+...
+
+[Data](articles/87c5e161.json)
+
+[Extended Data](ext_articles/87c5e161.ext.json)
+
+---
 
 ### Lottery outlet in MullaitivuIn a serious investigation police
 
@@ -577,6 +675,28 @@ Explaining the rationale behind this shift, a senior official of the Central Ban
 [Data](articles/21cf9569.json)
 
 [Extended Data](ext_articles/21cf9569.ext.json)
+
+---
+
+### Central Bank shifts focus to medium-term inflation strategy
+
+*2024-02-22 06:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-shifts-focus-to-medium-term-inflation-strategy/155-277521) · `en`
+
+Addresses inherent lag in transmission that varies between 6-12 months
+
+Approx. 2-month delay between policy decisions and effects on inflation
+
+The Central Bank announced yesterday its intention to shift focus on inflation from the near term to medium term, citing the latter’s greater relevance for the decision-making processes.
+
+This strategic adjustment, according to the monetary authority, aims to address the inherent lag in transmission that limits the immediate impact of policy decisions on near-term inflation outcomes.
+
+Explaining the rationale behind this shift, a senior official of the Central Bank highlighted the approximately two-month delay between policy decisions and observable effects on inflation. By emphasising the medium term, the Central Bank seeks to provide more insightful and predictive guidance to the market and stakeholders. This, in turn, is expected to enhance policy coordination and help anchor expectations.
+
+...
+
+[Data](articles/756e422b.json)
+
+[Extended Data](ext_articles/756e422b.ext.json)
 
 ---
 
@@ -1953,143 +2073,5 @@ When the development activities are carried out with foreign investments, it is 
 [Data](articles/f41d3337.json)
 
 [Extended Data](ext_articles/f41d3337.ext.json)
-
----
-
-### CEB spokesman suggests students should study by oil lamp
-
-*2024-02-21 17:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-spokesman-suggests-students-should-study-by-oil-lamp/108-277494) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - Spokesman for the Ceylon Electricity Board (CEB), Noel Priyantha, stirred a controversy during a recent television programme by suggesting that children should resort to studying using oil lamps if necessary, citing the precedent set by previous generations who excelled in their studies under similar conditions.
-
-Priyantha made these remarks while addressing concerns over the escalating electricity prices in Sri Lanka.
-
-In response to queries about the adverse effects of power disconnections due to unpaid bills, he acknowledged the hardships faced by consumers but attributed them to a shift from a culture of free electricity.
-
-Highlighting that electricity charges had remained stagnant for nearly a decade before the recent increases, Priyantha stressed on the financial challenges faced by the CEB, which owes the government a substantial amount.
-
-...
-
-[Data](articles/2b33a272.json)
-
-[Extended Data](ext_articles/2b33a272.ext.json)
-
----
-
-### CEB spokesman suggests students should study by oil lamp
-
-*2024-02-21 17:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CEB-spokesman-suggests-students-should-study-by-oil-lamp/155-277494) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - Spokesman for the Ceylon Electricity Board (CEB), Noel Priyantha, stirred a controversy during a recent television programme by suggesting that children should resort to studying using oil lamps if necessary, citing the precedent set by previous generations who excelled in their studies under similar conditions.
-
-Priyantha made these remarks while addressing concerns over the escalating electricity prices in Sri Lanka.
-
-In response to queries about the adverse effects of power disconnections due to unpaid bills, he acknowledged the hardships faced by consumers but attributed them to a shift from a culture of free electricity.
-
-Highlighting that electricity charges had remained stagnant for nearly a decade before the recent increases, Priyantha stressed on the financial challenges faced by the CEB, which owes the government a substantial amount.
-
-...
-
-[Data](articles/48a3d413.json)
-
-[Extended Data](ext_articles/48a3d413.ext.json)
-
----
-
-### Sri Lanka to halt parate execution of defaulted SME bank loans: Minister
-
-*2024-02-21 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-halt-parate-execution-of-defaulted-sme-bank-loans-minister-151855/) · `en`
-
-ECONOMYNEXT – Sri Lanka will halt parate execution or the auctioning of assets of small and medium enterprise pledged to take bank loans that have now gone bad, State Minister for Finance Ranjith Siyambalapitiya said.
-
-A cabinet paper suspending the foreclosure powers of banks for a define period will be presented to the cabinet next week, Siyambalapitiya was quoted as saying in parliament.
-
-Related Sri Lanka banks say parate execution needed to protect depositors
-
-Banks have warned that halting parate execution will make lenders more cautious about lending to small and medium enterprises in the future as they have to protect depositors, and good borrowers will also pay a price if recovery is made more difficult.
-
-...
-
-[Data](articles/2b7a4f5d.json)
-
-[Extended Data](ext_articles/2b7a4f5d.ext.json)
-
----
-
-### Sri Lanka rupee closes at 311.30/50 to the US dollar
-
-*2024-02-21 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-311-30-50-to-the-us-dollar-151862/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 311.30/50 to the US dollar Wednesday, from 311.90/95 on Tuesday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.65/85 percent from 10.80/11.00 percent.
-
-A bond maturing on 15.09.2027 closed at 12.05/15 percent from 11.85/12.10 percent.
-
-A bond maturing on 15.03.2028 closed at 12.20/35 percent from 12.15/30 percent.
-
-A bond maturing on 15.07.2029 closed stable at 12.45/95 percent.
-
-A bond maturing on 15.05.2030 closed at 12.35/95 percent from 12.30/13.00 percent.
-
-A bond maturing on 15.05.2030 closed stable at 12.45/13.00 percent.
-
-A bond maturing on 01.07.2032 closed at 12.50/13.20 percent from 12.50/13.30 percent. (Colombo/Feb21/2024)
-
-◼️
-
-[Data](articles/b92acba5.json)
-
-[Extended Data](ext_articles/b92acba5.ext.json)
-
----
-
-### Mullaitivu fishermen are suffering from violation of Indian fishermen
-
-*2024-02-21 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/176962) · `ta`
-
-With the onset of the shrimp season, Mullaitivu fishermen are engaged in fisheries.
-
-However, the fishermen of Mullaitivu are also alive that their fisheries are now in a dullness.
-
-Therefore, the fishermen are worried that they have to face huge difficulties to move their daily lives in the current economic burden of the country.
-
-The fishermen point out that their industrial conditions are slowing down because of the destruction of the marine field by using the trawling net, especially when the Indian dragers have crossed the Mullaitivu seas.
-
-Mullaitivu fishermen say that the fishing of the Indian dragon entry into the Mullaitivu Sea is destroyed by the trawling industry, destroying the habitats of marine organisms and the looting of the sea is completely looted.
-
-In addition, the Mullaitivu fishermen have been accused of destroying the marine resources by the trawling industry and engaging in drug trafficking and destroying our country.
-
-...
-
-[Data](articles/a9338f82.json)
-
-[Extended Data](ext_articles/a9338f82.ext.json)
-
----
-
-### Registration of National Tensity National Force is illegal
-
-*2024-02-21 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193666) · `si`
-
-The Supreme Court today (21) ordered to be summoned to the 4th of March to ensure the monsoonals filed by the Electoral Commission.
-
-The triumphantic Surasena, Preetman Surasena, Achala Walapilluli and Arjuna Oyakarapuli were called before the Supreme Court Bench.
-
-Attorneys-at-Law Nagananda Koditu, appearing on behalf of the petitioner Nagananda, asked the court to consider the relevant motion.
-
-The suspect's panel of judges accepted the request was ordered to be summoned on March 4.
-
-The monsoon has been presented by Kodituwakku, who has filed a Rit petition filed against the decision of the Examinations Commission to register as a political party.
-
-Nagananda Kodituwakku said in the monsoon, the registration of the national folk force, a political party, is completely contrary to the law.
-
-Nagananda Kodituwakku has requested the Supreme Court to allow the national folk force to be illegal.
-
-◼️
-
-[Data](articles/b36e2509.json)
-
-[Extended Data](ext_articles/b36e2509.ext.json)
 
 ---

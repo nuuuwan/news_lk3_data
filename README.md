@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 02:02:51**
+As of **2024-02-23 02:17:33**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 1,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,789 (100.0%) of 8,792 articles have been extended.
+8,792 (100.0%) of 8,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### சட்டவிரோதமாக அமைக்கப்பெற்ற திஸ்ஸ விகாரைக்கு எதிரான போராட்டம் ஆரம்பம்!
+### The struggle against the illegal -set Tissa Vihara begins!
 
 *2024-02-23 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177085) · `ta`
 
-தையிட்டியில் சட்டவிரோதமாக அமைக்கப்பெற்ற திஸ்ஸ விகாரைக்கு எதிரான போராட்டம் வியாழக்கிழமை (22) ஆரம்பமாகியுள்ளது. இந்த போராட்டமானது வெள்ளிக்கிழமை (23) மாலை 6:30 மணிவரை தொடரும் என தெரிவிக்கப்படுகிறது.
+The struggle against Tissa Vihara, which was illegally set up in Tittitti, began on Thursday (22). The struggle is expected to continue till 6:30 pm on Friday (23).
 
-இந்த போராட்டத்தில் தமிழ் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஷ், உறுப்பினர்கள் ஆதரவாளர்கள் பொதுமக்கள் அனைவரும் கலந்துகொண்டுள்ளனர்.
+Media spokesman of the Tamil National People's Front Kanagaratnam Sukash and members of the public were present at the protest.
 
 ◼️
 
 [Data](articles/c80a96a1.json)
+
+[Extended Data](ext_articles/c80a96a1.ext.json)
 
 ---
 
@@ -80,35 +82,43 @@ It is revolting to see Washington’s UN envoy Linda Thomas-Greenfield, a politi
 
 ---
 
-### சிறீதரனுடன் சந்திப்பை ஏற்படுத்திய இந்திய உயர்ஸ்தானிகர் சந்தோஸ் ஜா
+### Indian High Commissioner Santos Ja
 
 *2024-02-23 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177084) · `ta`
 
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஸ் ஜா, நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரனை அழைத்து, கொழும்பில் (India House) புதன்கிழமை (21) சந்திப்பொன்றை நடாத்தியுள்ளார்.
+Indian High Commissioner to Sri Lanka Santos Ja, MP Sivagnanam Sridharan, held a meeting on Wednesday (21) in India House.
 
-இலங்கைத் தமிழரசுக் கட்சியின் தலைவராகத் தெரிவுசெய்யப்பட்டமைக்காக சிறீதரனுக்கு வாழ்த்துரைத்த அவர், கட்சியின் அடுத்தகட்ட நகர்வுகளை விரைந்து மேற்கொள்ள வேண்டும் எனவும் கேட்டுக்கொண்டுள்ளார்.
+He congratulated Sridharan for the election of the leader of the Tamil National Alliance (TNA) and urged the party's next move.
 
-இலங்கைக்கான இந்தியத் தூதரகத்தின் பிரதி உயர்ஸ்தானிகர் சத்யஞ்சல் பாண்டேவும் இணைந்திருந்த இச் சந்திப்பில் ஈழத்தமிழர் நலன்சார் விடயங்களில் இந்தியாவின் முறையான வகிபங்கை உறுதிப்படுத்த வேண்டியுள்ளதன் அவசியம் குறித்தும் கலந்துரையாடப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The meeting was also attended by the Deputy High Commissioner of the Indian Embassy in Sri Lanka, Satyanchal Pandey.
 
 ◼️
 
 [Data](articles/2f1e3812.json)
 
+[Extended Data](ext_articles/2f1e3812.ext.json)
+
 ---
 
-### றோயல் - தோமியன் கிரிக்கெட் சமருக்கு 19ஆவது  முறையாக டயலொக் அனுசரணை
+### Royal - Tomian Cricket Society for the 19th time Dialog sponsor
 
 *2024-02-23 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177083) · `ta`
 
-இந்த வருடம் நடைபெறவுள்ள றோயல் கல்லூரிக்கும் பரி. தோமாவின் கல்லூரிக்கும் இடையிலான நீல வர்ணங்களின் சமருக்கு டயலொக் ஆசிஆட்டா பிஎல்சி அனுசரணை வழங்குகிறது.
+Royal College to be held this year. Dialog Acida PLC sponsorship for the sapphire of the blue paints between Thoma's College.
 
-இலங்கையின் முன்னணி தொலைத்தொடர்பு இணைப்பு வழங்குனரான டயலொக் ஆசிஆட்டா பிஎல்சி தொடர்ச்சியாக 19ஆவது வருடமாக இப் போட்டிக்கு அனுசரணை வழங்குகின்றமை விசேட அம்சமாகும்.
+It is a special feature that Sri Lanka's leading telecommunications affiliate, Dialog Acida PLC, has been sponsoring this competition for the 19th consecutive year.
 
-நீலவர்ணங்களின் சமர் என அழைக்கப்படும் றோயல் - தோமியன் 145ஆவது வருடாந்த கிரிக்கெட் போட்டிக்கான பிரதான அனுசரணை உதவுத் தொகைக்கான மாதிரி காசோலையை டயலொக் ஆசிஆட்டா பிஎல்சி குழுமத்தின் பிரதம சந்தைப்படுத்தல் அதிகாரி லசந்த தேவப்பெருமவிடமிருந்து பரி. தோமாவின் கல்லூரி முதல்வர் வண. மார்க் பிலிமோரியா, றோயல் கல்லூரி அதிபர் திலக் வத்துஹேவா ஆகியோர் பெற்றுக்கொண்டபோது எடுக்கப்பட்ட படம். றோயல் - தோமியன் போட்டி ஏற்பாட்டுக்குழு இணைத் தலைவர்களான ரெஹான் குணசேகர (றோயல் கல்லூரி), அர்ஜுன வைத்யசேகர (பரி. தோமாவின் கல்லூரி) ஆகியோரையும் படத்தில் காணலாம்.
+Royal - Tomian, known as the Samar of the Neelavarna, is the chief marketing officer of the Dialog Acida PLC Group, Lasantha Devapperuma.. Toma's College Principal. The picture taken when Mark Filmoria and Royal College Principal Tilak Vathuhewa received. Royal - Thomian Competition Organization Co -Chairperson Rehan Gunasekera (Royal College) and Arjuna Vaidyasekara (Pari. Toma's College) can also be seen in the picture.
+
+Royal College, Colombo. Samar SSC of the 145th blue paints between Toma's College. The stadium will be held on March 7, 8 and 9.
+
+Meanwhile, the Mastangs Bowl ODI between the two colleges will be held on March 16 at the same stadium.
 
 ...
 
 [Data](articles/4854ba38.json)
+
+[Extended Data](ext_articles/4854ba38.ext.json)
 
 ---
 

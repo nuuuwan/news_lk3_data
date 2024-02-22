@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 17:33:23**
+As of **2024-02-22 17:53:04**
 
 ## Newspaper Stats
 
-*Scraped **8,722** Articles*
+*Scraped **8,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,24 +17,42 @@ economynextcom | 452
 dailyftlk | 464
 adalk | 739
 adaderanalk | 1,049
-tamilmirrorlk | 1,083
-virakesarilk | 1,178
+tamilmirrorlk | 1,085
+virakesarilk | 1,179
 adaderanasinhalalk | 1,287
-dailymirrorlk | 1,299
+dailymirrorlk | 1,300
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,722 (100.0%) of 8,722 articles have been extended.
+8,726 (100.0%) of 8,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
+### The International Court should not demand the exclusion of Israeli soldiers from occupied Palestine - USA
+
+*2024-02-22 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177068) · `ta`
+
+The US has appealed to the International Court of Justice that Israel should withdraw its soldiers from the occupied Palestinian regions.
+
+The US has urged the security of Israel to consider in any attempt to end the conflict.
+
+Richard Wasak, the US State Department's legal adviser, said that Israel's actual security threats should be taken into consideration in any action on the exclusion of Israel from the Western Gaza.
+
+◼️
+
+[Data](articles/fd087e51.json)
+
+[Extended Data](ext_articles/fd087e51.ext.json)
+
+---
+
 ### Criticism of the Goneswara Temple Council membersResolution to file a case against
 
-*2024-02-22 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177060) · `ta`
+*2024-02-22 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177060) · `ta`
 
 Senior Attorney Thirukumaranathan said he would file a lawsuit against those who insult the lawyers against the members of the Goneeswara Temple Council.
 
@@ -47,6 +65,26 @@ He added that the District Judge Ganesarajah had informed the district court tha
 [Data](articles/baae2778.json)
 
 [Extended Data](ext_articles/baae2778.ext.json)
+
+---
+
+### Weliwita Sudda arrested
+
+*2024-02-22 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Weliwita-Sudda-arrested/108-277563) · `en`
+
+Kaduwela, Feb 22 (Daily Mirror) - Malalage Sudath Kithsiri alias 'Weliwita Sudda' suspected as a kingpin behind drug trafficking was arrested by the Kaduwela police. He had in his possession 15.300 grams of heroin at the time of arrest.
+
+Police said the suspect who had fled from the area had been  absconding for a long time.
+
+He was produced before the Kaduwela Magistrate Chanima Wijebandara and remanded till March 06.
+
+He is suspected as the actual owner of the fleet of vehicles, including five luxury buses, a motorcar and a motorcycle seized by the Illegal Assets Investigation Unit of the CID when the registered owner had failed to explain the source of income for the purchase of the vehicles.
+
+◼️
+
+[Data](articles/c9f810e5.json)
+
+[Extended Data](ext_articles/c9f810e5.ext.json)
 
 ---
 
@@ -129,6 +167,26 @@ If there are objections to this petition, the court ordered the respondents to f
 [Data](articles/98aebce1.json)
 
 [Extended Data](ext_articles/98aebce1.ext.json)
+
+---
+
+### Appointment of members of special groups
+
+*2024-02-22 16:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறப்பு-குழுக்களின்-உறுப்பினர்கள்-நியமனம்/175-333676) · `ta`
+
+According to the resolution passed by Parliament on February 9, 2024, Deputy Speaker Ajith Rajapakse presented the names of the members appointed to work in the fifth session of the ninth Parliament on Thursday (22).
+
+Ministry of Advisory Committee on Financial, Economic Stability and National Policy Affairs
+
+Ministry of Advisory Committee on Women, Child Affairs and Social Strengthening Affairs
+
+Ministry of Advisory Committee on Justice, Prison Affairs and Political Reorganization
+
+◼️
+
+[Data](articles/2e7ef85f.json)
+
+[Extended Data](ext_articles/2e7ef85f.ext.json)
 
 ---
 
@@ -217,6 +275,24 @@ Therefore, it is advised to wear a pale thin clothing to avoid unnecessary walki
 [Data](articles/ed266ebb.json)
 
 [Extended Data](ext_articles/ed266ebb.ext.json)
+
+---
+
+### Opposition to Ramadan Food Ceremony
+
+*2024-02-22 16:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரமலான்-உணவு-விழாவுக்கு-எதிர்ப்பு/175-333674) · `ta`
+
+Since the Ramadan fasting season begins on March 12 this year, arrangements are being made for the Food Festival in Bangalore.. In this case, the Brazer Town Resident Welfare Association has protested the food festival. 3,500 people signed on behalf of the association.. They have filed a petition with Srinivasa.
+
+They said in their petition: “Heavy traffic congestion in Brazer Town for 40 days due to the Ramadan Food Festival. Thus, those who go to work are severely affected. A cylinder exploded at a shop at last year's food festival. The patient's ambulance was unable to arrive to rescue the injured.
+
+Ramraj Food Festival causes garbage, smoke and waste water. Meat foods here are cooked and sold in the impure. People who eat it become ill health. So the Ramadan Food Festival should not be held in Brazer Town. ”As said.
+
+◼️
+
+[Data](articles/92c6f063.json)
+
+[Extended Data](ext_articles/92c6f063.ext.json)
 
 ---
 
@@ -2007,81 +2083,5 @@ In October last year, the electricity tariffs were raised by 18% for domestic an
 [Data](articles/822ca0a9.json)
 
 [Extended Data](ext_articles/822ca0a9.ext.json)
-
----
-
-### SL,Iran explores oil trade expansions bypassing US sanctions
-
-*2024-02-22 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Iran-explores-oil-trade-expansions-bypassing-US-sanctions/108-277528) · `en`
-
-Colombo, Feb 22 (Daily Mirror) - Sri Lanka and Iran are exploring the possibility of expanding trade in oil bypassing the U.S. sanctions, an informed source said.  Iran is facing difficulties in trading goods after the US unleashed its “toughest ever” sanctions against that country over the nuclear deal.
-
-Iranian Foreign Affairs Minister Hossein Amir Abdollahian who was in Sri Lanka is reported to have discussed the matter with the Sri Lankan leaders during his interactions with them.
-
-An informed source familiar with what transpired during talks said some oil transactions take place through third parties, but the two decided to explore the possibility of expanding trade despite U.S. sanctions.
-
-An informed source familiar with what transpired during talks said some oil transactions take place through third parties, but the two decided to explore the possibility of expanding trade despite U.S. sanctions.
-
-...
-
-[Data](articles/964a47ee.json)
-
-[Extended Data](ext_articles/964a47ee.ext.json)
-
----
-
-### On [De]criminalizing Fantasies & Pinkwashing
-
-*2024-02-22 08:30:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-decriminalizing-fantasies-pinkwashing/) · `en`
-
-What is a time-tested truism when it comes to any form of colonization? A deep desire to exercise maximal control. The British imperial project, for example, was full of many structures and laws that were precisely meant at reaching this objective – controlling the lives of the colonized, to the best possible extent. Sex-segregated school systems, developing a herd mentality among the local populace, brutal repression of resistance movements, ecocide, genocide, indentured labour, the denigration of centuries-old local languages, literatures, and knowledge systems – to name but a few – were among the strategies they deployed everywhere in their empire. In many countries, it goes without saying that we are still grappling with the long-term consequences of this highly exploitative project.
-
-...
-
-[Data](articles/f4ba8c92.json)
-
-[Extended Data](ext_articles/f4ba8c92.ext.json)
-
----
-
-### Sri Lanka political leadership accepts 5 to 7-pct inflation without protest
-
-*2024-02-22 08:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-political-leadership-accepts-5-to-7-pct-inflation-without-protest-151893/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government headed by people’s representatives, had allowed macro-economists to generate up to 7 percent inflation without protest, under a controversial new monetary law, it has been revealed.
-
-Under the new monetary law, President Ranil Wickremesinghe, had signed an agreement allowing the central bank to generate 5 percent inflation spiking up to 7 percent if mistakes are made.
-
-The new monetary law allows peoples’ representatives to bargain with macro-economists, who, according to critics have been given the power to print money (suppress rates with inflationary liquidity tools and unbridled standing facilities) for multiple ends.
-
-Journalists asked what the process of negotiation and who represented the government and who represented macro-economists at the negotiation and whether a lower inflation rate was asked by the government.
-
-Related Sri Lanka central bank gets political nod to create up to 7-pct inflation
-
-...
-
-[Data](articles/153f9a54.json)
-
-[Extended Data](ext_articles/153f9a54.ext.json)
-
----
-
-### An oral cancer growth
-
-*2024-02-22 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193686) · `si`
-
-The likelihood of oral cancer among the youth has increased, the Ministry of Health said.
-
-Ms. Tanuja Karrija Karraja Pathiraja said that there was a growth of oral cancer during the past period.
-
-Addressing a media brief held at the Health Promotion Bureau, Dhanu Karraja Karraja made this statement.
-
-Meanwhile, Director of the Family Health Bureau has stressed that women have fallen shortly reduced cervical cancer.
-
-◼️
-
-[Data](articles/3f4e5b27.json)
-
-[Extended Data](ext_articles/3f4e5b27.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 16:33:02**
+As of **2024-02-22 16:48:07**
 
 ## Newspaper Stats
 
-*Scraped **8,707** Articles*
+*Scraped **8,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 464
 adalk | 739
 adaderanalk | 1,048
 tamilmirrorlk | 1,083
-virakesarilk | 1,173
+virakesarilk | 1,174
 adaderanasinhalalk | 1,284
 dailymirrorlk | 1,299
 
@@ -26,35 +26,65 @@ dailymirrorlk | 1,299
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,706 (100.0%) of 8,707 articles have been extended.
+8,708 (100.0%) of 8,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### හිතාමතා යටකළ සැකකරුට අධිකරණය දුන් නියෝගය
+### Indian Fisheries Attakasam
+
+*2024-02-22 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177047) · `ta`
+
+More than ten Indian drainage boats have been cut off the Vadamarachchi East Valley Sea on Thursday (22).
+
+Four boats that went to fishing today to fish in the shore were carrying out their valuables.
+
+The furious fishermen immediately returned to shore with the push nets for the safety of the Indian trawling boats.
+
+The two boats were simply returning to shore without any nets, as there were no nets belonging to the two boats.
+
+Most of the fishermen, with a few nets, returned to the shore and appealed to the fishermen's association.
+
+The fisherman who has been affected by the Indian drag boats
+
+Last year, when the Indian drag boats were cut off the nets worth four lakhs of rupees belonging to me, I was very hard to live.
+
+The fisherman expressed concern that the two Tamil parties had cheated the two Tamil parties after the letter was handed over to the Divisional Secretary of the Vadamarachchi East East Maruthankanei demanding compensation.
+
+...
+
+[Data](articles/1827dca3.json)
+
+[Extended Data](ext_articles/1827dca3.ext.json)
+
+---
+
+### Court orders the court intentional
 
 *2024-02-22 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193707) · `si`
 
-දෙහිවලදී හිතාමතා පුද්ගලයෙකු මෝටර් රථයෙන් අනතුරට ලක්කර ඝාතනය කිරීමේ චෝදනාව යටතේ අත්අඩංගුවට ගත් සැකකරු මාර්තු මස 07 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+The suspect was arrested until March 07 on March 07.
 
-දෙහිවල පොලීසිය විසින් අත්අඩංගුවට ගත් 30 හැවිරිදි වියේ පසුවන සැකකරු අද ගල්කිස්ස මහෙස්ත්‍රාත්වරිය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී තිබේ.
+The order was submitted to the Mount Lavinia Magistrate today after the 30-year-old suspect arrested by the Dehiwala police.
 
-දෙහිවල පොලිස් වසමේ කඩවත පාර ප්‍රදේශයේදී ඊයේ පෙරවරු 9.45ට පමණ මෙම අනතුර සිදුව තිබේ.
+The accident occurred at around 9.45 am yesterday at the Kadawatha road in the Dehiwala Police Division.
 
-ස්කූටි වර්ගයේ යතුරුපැදියකින් ගමන් කරමින් සිටි පුද්ගලයෙකු පිටුපසින් පැමිණි මෝටර් රථයේ ගැටීමෙන් මෙම අනතුර සිදුවුණි.
+The accident occurred when the car was hit by a person who was traveling from a traffic motorcycle.
 
-අනතුරින් බරපතළ තුවාල ලැබූ පුද්ගලයා කළුබෝවිල රෝහලට ඇතුළත් කරනවිටත් මියගොස් සිටි බව පොලීසිය පවසයි.
+The police were rushed to the Kalubowila hospital, police said.
 
-මියගිය තැනැත්තා කටුබැද්ද, මොරටුව ප්‍රදේශයේ පදිංචි වයස අවුරුදු 52ක අයෙකි.
+The deceased is a 52 year old resident of Moratuwa, Katubedda, Katubedda.
 
-කෙසේ වෙතත් අනතුර සම්බන්ධයෙන් සිදුකරන ලද මූලික විමර්ශනවලදී අනාවරණය වී ඇත්තේ මෙය මෝටර් රථයේ රියදුරු විසින් යතුරුපැදිකරු හිතාමතා හප්පා සිදුකළ මනුෂ්‍ය ඝාතනයක් බවටය.
+However, the preliminary investigations into the accident have been revealed that the driver of the car has deliberately made the motorcycle.
 
-අනතුර සිදුවූ අවස්ථාවේ ජංගම දුරකථනයෙන් පටිගත කළ දර්ශන පෙළක් ඉහතින්.
+A text of the mobile phone at the mobile phone when the accident occurred.
 
 ◼️
 
 [Data](articles/75bae627.json)
+
+[Extended Data](ext_articles/75bae627.ext.json)
 
 ---
 
@@ -2067,27 +2097,5 @@ He is the candidate named the national folk force to contest the next presidenti
 [Data](articles/88c91272.json)
 
 [Extended Data](ext_articles/88c91272.ext.json)
-
----
-
-### Tax and supply chain woes propel inflation to 6.5%
-
-*2024-02-22 04:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tax-and-supply-chain-woes-propel-inflation-to-6-5/108-277520) · `en`
-
-Pettah’s night market, popularly known as ‘torch market’, where vendors light up the night with produce from across the island
-
-Sri Lanka’s inflation expanded by 6.5 percent year-on-year in January, as the prices rose across almost all categories from the one-off impact from the higher Value Added Tax and supply chain disruptions caused by the weather-related conditions.
-
-On a monthly basis, as measured by the National Consumer Price Index, the prices rose by 3.0 percent in January, from 1.4 percent a month ago, reaching the highest increase recorded in more than a year.
-
-The prices measured by the broader consumer price index followed the closely watched Colombo Consumer Price Index released three weeks ago, which also had a reading of 6.4 percent for January, from 4.0 percent in December.
-
-The recent price pressures aren’t surprising, as the authorities were expecting the price gauges to reach in the neighbourhood of 7.0 percent in both January and February.
-
-...
-
-[Data](articles/385e0691.json)
-
-[Extended Data](ext_articles/385e0691.ext.json)
 
 ---

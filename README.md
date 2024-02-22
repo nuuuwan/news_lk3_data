@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 21:33:01**
+As of **2024-02-22 21:52:00**
 
 ## Newspaper Stats
 
-*Scraped **8,747** Articles*
+*Scraped **8,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 451
 economynextcom | 452
 dailyftlk | 464
 adalk | 744
-adaderanalk | 1,051
+adaderanalk | 1,052
 tamilmirrorlk | 1,089
 virakesarilk | 1,181
 adaderanasinhalalk | 1,291
@@ -26,11 +26,27 @@ dailymirrorlk | 1,304
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,747 (100.0%) of 8,747 articles have been extended.
+8,748 (100.0%) of 8,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Nightlife vital to Sri Lanka’s economic growth, tourist experience - Diana
+
+*2024-02-22 20:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97464/nightlife-vital-to-sri-lankas-economic-growth-tourist-experience-diana-) · `en`
+
+State Minister for Tourism, Diana Gamage says nightlife plays a critical role in driving economic growth, citing it as a cornerstone of the night economy. She underscored that the night economy accounts for a substantial 70% of a country’s revenue, illustrating its significant contribution to national finances.
+
+Highlighting the importance of nightlife, the State Minister pointed out that night time is when people typically engage in activities such as dining and entertainment, resulting in increased revenue generation through taxes, particularly from excise duties. She stated that this revenue is essential for sustaining the country’s operations and development.
+
+...
+
+[Data](articles/533d8b3b.json)
+
+[Extended Data](ext_articles/533d8b3b.ext.json)
+
+---
 
 ### Woman dies after falling at 7th floor of apartment complex
 
@@ -2061,27 +2077,5 @@ The Minister of Power and Energy Kanchan Wijesekera has been resigned by Noel Pr
 [Data](articles/c0ee6fef.json)
 
 [Extended Data](ext_articles/c0ee6fef.ext.json)
-
----
-
-### CEB spokesman resigns from post over controversial remarks
-
-*2024-02-22 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97450/ceb-spokesman-resigns-from-post-over-controversial-remarks) · `en`
-
-Eng. Noel Priyantha has tendered his resignation as the spokesperson of the Ceylon Electricity Board (CEB).
-
-Power and Energy Minister Kanchana Wijesekera, taking to his X handle (formerly Twitter), said this was communicated to him by the CEB management.
-
-The CEB spokesperson, who attended the ‘Big Focus’ program on Ada Derana on Tuesday, made controversial remarks that received backlash for lacking empathy.
-
-When asked about the recent electricity tariff hikes and the burden it has placed on consumers, Priyantha said the tariffs should have been increased gradually over the years.
-
-However, he also went on to comment that the children do not need electricity to study, and that the light from kerosene oil lamps should suffice. “Why do you need electricity [to study]? For about two years, I also studied using [kerosene] oil lamps. Why do you need to iron clothes? Wear linen [clothing].”
-
-...
-
-[Data](articles/2cc2366b.json)
-
-[Extended Data](ext_articles/2cc2366b.ext.json)
 
 ---

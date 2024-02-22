@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 13:33:08**
+As of **2024-02-22 13:51:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,664 (99.9%) of 8,669 articles have been extended.
+8,669 (100.0%) of 8,669 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Meanwhile, MP Gunapala Rathnasekara said the Freedom People’s Congress has yet
 ◼️
 
 [Data](articles/ea509163.json)
+
+[Extended Data](ext_articles/ea509163.ext.json)
 
 ---
 
@@ -284,6 +286,8 @@ CEB spokesman engineer Noel Priyantha told a talk show on the TV station Ada Der
 
 [Data](articles/f2ac454f.json)
 
+[Extended Data](ext_articles/f2ac454f.ext.json)
+
 ---
 
 ### Prime Minister assures action against CEB spokesman
@@ -470,6 +474,8 @@ Subject to the approval of the shareholders, the bank will issue 100,000,000 Tie
 
 [Data](articles/d3603916.json)
 
+[Extended Data](ext_articles/d3603916.ext.json)
+
 ---
 
 ### Electricity Board (CEB)
@@ -629,6 +635,8 @@ The Colombo Stock market opened up; the All Share Price Index was up 0.05 percen
 ◼️
 
 [Data](articles/08c07882.json)
+
+[Extended Data](ext_articles/08c07882.ext.json)
 
 ---
 
@@ -959,6 +967,8 @@ Related Sri Lanka central bank gets political nod to create up to 7-pct inflatio
 ...
 
 [Data](articles/153f9a54.json)
+
+[Extended Data](ext_articles/153f9a54.ext.json)
 
 ---
 

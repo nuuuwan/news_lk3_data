@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 20:33:21**
+As of **2024-02-22 20:50:40**
 
 ## Newspaper Stats
 
-*Scraped **8,734** Articles*
+*Scraped **8,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 452
 dailyftlk | 464
 adalk | 739
 adaderanalk | 1,051
-tamilmirrorlk | 1,085
+tamilmirrorlk | 1,089
 virakesarilk | 1,179
 adaderanasinhalalk | 1,290
 dailymirrorlk | 1,303
@@ -26,7 +26,7 @@ dailymirrorlk | 1,303
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,734 (100.0%) of 8,734 articles have been extended.
+8,738 (100.0%) of 8,738 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,64 @@ It has been revealed in the investigation that the property in question had been
 
 ---
 
+### "I am the next president"
+
+*2024-02-22 19:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-ஜனாதிபதியாகுவதற்கு-பொருத்தமானவர்-நானே/175-333684) · `ta`
+
+Opposition MP Kumara Welgama said he was the most appropriate person to become the next president and that he was ready to contest if he was called.
+
+He also said that former President Maithripala Sirisena is only the leader of the coalition and is deducting to form a new coalition.
+
+◼️
+
+[Data](articles/9238c23d.json)
+
+[Extended Data](ext_articles/9238c23d.ext.json)
+
+---
+
+### "Kota Ko Kama did not turn the telephone into kasino"
+
+*2024-02-22 19:04:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டா-கோ-கம-வை-கசினோவாக-மாற்றவில்லை/175-333683) · `ta`
+
+The government has denied rumors that there has been no plans to establish the Galle Earth as a gambling hotel, the Galle Face of the 'Kota Koh' protest.
+
+The government has not taken any decision to provide a Cassino, as the National PA parliamentarian Vijitha Herath is accused of allegations, said the government's chief minister and city development minister Prasanna Ranatunga.
+
+He said he had received a proposal from Barl Investment Private Limited.The Memorandum of Understanding (MoU) was signed on February 16, 2024 with Limited and investor for a mixed investment project in Palataksha Mawatha, Colombo 03.
+
+The Minister said that the investor had deposited US $ 10,000 in the Urban Development Authority (UDA) and steps have been taken to obtain the land assessment report.
+
+However, he said that the specific investment plan has not yet been granted.
+
+◼️
+
+[Data](articles/4fc74682.json)
+
+[Extended Data](ext_articles/4fc74682.ext.json)
+
+---
+
+### Is Sanath Nishantha's death a systematic assassination?
+
+*2024-02-22 18:57:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-மரணம்-திட்டமிட்ட-படுகொலையா/175-333682) · `ta`
+
+Sri Lanka PA MP Johnston Fernando today said that the complaint made by the wife of the late State Sanath Nishantha, Sanath Nishantha's wife, should soon be investigated and that the criminals should be presented before the law.
+
+He said during a condolence ceremony in Parliament that the death of the late State Minister Sanath Nishantha was suspicious of a systematic murder or a actually death of an accident.
+
+He said that Nishantha's wife had lodged a complaint with the Criminal Investigation Department, considering that she was suspicious of her husband's death.
+
+He said the complaint made by Sanath Nishantha's wife should be investigated soon and if it is a systematic murder, the culprits should be brought to court and punished.
+
+◼️
+
+[Data](articles/859038d1.json)
+
+[Extended Data](ext_articles/859038d1.ext.json)
+
+---
+
 ### Weliwita Sudanda arrested
 
 *2024-02-22 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193713) · `si`
@@ -73,6 +131,26 @@ Investigations have revealed that the suspect had obtained his cousin by his cou
 [Data](articles/a3367745.json)
 
 [Extended Data](ext_articles/a3367745.ext.json)
+
+---
+
+### Arrested Sutta
+
+*2024-02-22 18:50:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெலிவிட்ட-சுத்தா-கைது/175-333681) · `ta`
+
+Malalake Sudath Kitsiri, known as 'Welida Sutta', who is suspected of drug trafficking, has been arrested by the Kaduwela police.
+
+Police said he had 15.300 grams of heroin during the arrest and had fled the area for a long time.
+
+He has been produced in the presence of Kaduwela Magistrate Sanima Wijebandara and has been remanded till March 06.
+
+It is suspected that the real owner of the specific vehicles may be Welitha Sutta, as the owner of the CIT's illegal assets of the CIT did not clarify the income source of 5 luxury buses, motor car and motorcycles.
+
+◼️
+
+[Data](articles/cc58ff80.json)
+
+[Extended Data](ext_articles/cc58ff80.ext.json)
 
 ---
 
@@ -2009,81 +2087,5 @@ Reports of abuse, exploitation and unreasonable professional conditions faced by
 [Data](articles/669ebc29.json)
 
 [Extended Data](ext_articles/669ebc29.ext.json)
-
----
-
-### Kiriella asks for the fulfillment of promises
-
-*2024-02-22 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193692) · `si`
-
-The Chief Opposition Whip MP Lakshman Kiriella requested Deputy Speaker Ajith Rajapaksa to give the Chairman of COPE and Kope committees.
-
-Lakshman Kiriella stated that during the struggle that the plain was given to the Opposition, Mr. Lakshman Kiriella said.
-
-Accordingly, Speaker Mahinda Yapa Abeywardena will be paid to the situation.
-
-◼️
-
-[Data](articles/907ff414.json)
-
-[Extended Data](ext_articles/907ff414.ext.json)
-
----
-
-### Parliamentary proceedings begun
-
-*2024-02-22 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193691) · `si`
-
-The arrangements have commenced today (22) under the patronage of Deputy Speaker Ajith Rajapaksa.
-
-◼️
-
-[Data](articles/a1dc6788.json)
-
-[Extended Data](ext_articles/a1dc6788.ext.json)
-
----
-
-### Decision on Foreign Woman in Sri Lanka during the struggle of Gota Go village
-
-*2024-02-22 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193690) · `si`
-
-The Galle Facer, the Controller of the British woman who stayed in the struggle of the 'Gota Go Village', asking for a delegation commanding command to leave the country during the struggle.The Supreme Court has ordered the dispatch of appeals petition.
-
-Ada Derana reporter said that the petition filed by the petition filed by the woman's lawyers had ordered the petitioner to pay a cases of Rs. 250,000.
-
-The decision has been announced by the Supreme Court Judge Gamini Amarasekera with the agreement of Judges of Shiran Gunaratne.
-
-The petitioner filed the petition filed by the Department of Immigration and Emigration, the Department of Immigration and Emigration, which was issued on residential visa, has been issued to the country to leave the country before 15th August 2022.
-
-The petitioner has been challenged by the Paradise and the Controller of the Controller of the Controller of the Controller.
-
-...
-
-[Data](articles/f8ea6ef8.json)
-
-[Extended Data](ext_articles/f8ea6ef8.ext.json)
-
----
-
-### Young woman arrested over murder of Buddhist monk at temple
-
-*2024-02-22 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97448/young-woman-arrested-over-murder-of-buddhist-monk-at-temple) · `en`
-
-The police have arrested a young woman in connection with the murder of a Buddhist monk, who was shot dead at a temple in the Malwathuhiripitiya area last month.
-
-She was taken into custody in Aralaganwila on Wednesday (Feb.21), on suspicion of sheltering aiding and abetting the main suspect in the shooting, according to the police.
-
-The 22-year-old suspect is reportedly a resident of Devagala area in Weragala.
-
-In the early hours of January 23, a group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha.
-
-The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. But he later succumbed to injuries while receiving treatment.
-
-...
-
-[Data](articles/2c729689.json)
-
-[Extended Data](ext_articles/2c729689.ext.json)
 
 ---

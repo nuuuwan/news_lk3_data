@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 15:17:28**
+As of **2024-02-22 15:32:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,683 (99.9%) of 8,689 articles have been extended.
+8,689 (100.0%) of 8,689 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ He said Nishantha's wife had complained to the CID as she deemed her husbands de
 
 [Data](articles/118d0644.json)
 
+[Extended Data](ext_articles/118d0644.ext.json)
+
 ---
 
 ### Asia-Pacific countries unite for an agrifood systems transformation to ensure food security of future generations
@@ -66,6 +68,8 @@ It was the first time since 2018 that a large in-person gathering of the region�
 
 [Data](articles/efe486db.json)
 
+[Extended Data](ext_articles/efe486db.ext.json)
+
 ---
 
 ### Sri Lanka, Vietnam sign MoU to exchange agricultural technology
@@ -81,6 +85,8 @@ The agreement was signed on several matters such as agricultural technology, stu
 ...
 
 [Data](articles/6641e4f0.json)
+
+[Extended Data](ext_articles/6641e4f0.ext.json)
 
 ---
 
@@ -101,6 +107,8 @@ He said however, the particular investment project had not yet been approved.
 ◼️
 
 [Data](articles/fa8f6777.json)
+
+[Extended Data](ext_articles/fa8f6777.ext.json)
 
 ---
 
@@ -144,17 +152,19 @@ The arrested suspect is from the age of 44 (44) from Kuda Oya, Lapukkalai. It is
 
 ---
 
-### ලාම්පු එළිය ප්‍රමාණවත් කියූ ලංවිම මාධ්‍ය ප්‍රකාශක ඉල්ලා අස්වෙයි
+### CEB media spokesman resigns with adequate lamp light
 
 *2024-02-22 13:32:33* · [`adalk`](https://www.ada.lk/breaking_news/ලාම්පු-එළිය-ප්‍රමාණවත්-කියූ-ලංවිම-මාධ්‍ය-ප්‍රකාශක-ඉල්ලා-අස්වෙයි/11-408231) · `si`
 
-ලංකා විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක ඉංජිනේරු නොයෙල් ප්‍රියන්ත මහතා එම තනතුරෙන් ඉල්ලා අස්වූ බව විදුලිබල හා බලශක්ති අමාත්‍ය කාංචන විජේසේකර මහතා X පණිවුඩයක් නිකුත් කරමින් නිවේදනය කර තිබුණි. නොයෙල් ප්‍රියන්ත මහතා රූපවාහිනී වැඩසටහනේදී පසුගියදා සිදුකරන ලද ප්‍රකාශයක් සමාජයේ මහත් ආන්දෝලනයක් ඇති කළ අතර පාර්ලිමේන්තුවේදී එම සිද්ධිය සම්බන්ධයෙන් දැඩි විවේචනයක් එල්ල විය.  ඒ සම්බන්ධයෙන් ඔහු පසුව සිය කනගාටුව ප්‍රකාශ කරමින් නිවේදනයක් නිකුත් කළේය.
+Ceylon Electricity Board (CEB) Spokesperson Noel Priyantha resigned from the post, Power and Energy Minister Kanchana Wijesekara had issued an announced that he issued a message from the post.. Noel Priyantha recently created a statement in the Rupavahini Program and was severely criticized in Parliament in Parliament.He later expressed his regrets and issued a statement.
 
-මේ අතර, විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශකවරයාගේ ප්‍රකාශය ගැන සොයා බලා විනය පියවර ගන්නා බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අද පාර්ලිමේන්තුවේ දී අවධාරණය කළේ ය.
+Meanwhile, Prime Minister Dinesh Gunawardena emphasized in parliament today that disciplinary action will be taken regarding the statement of the CEB SSP.
 
 ◼️
 
 [Data](articles/ca241066.json)
+
+[Extended Data](ext_articles/ca241066.ext.json)
 
 ---
 
@@ -438,17 +448,19 @@ The study of the Global Waksin Data Network has revealed that the public use of 
 
 ---
 
-### විදුලි ගාස්තු අඩුකිරීමේ යෝජනාව මහජන උපයෝගීතා කොමිසමට
+### The proposal to reduce electricity tariffs to the Public Utilities Commission
 
 *2024-02-22 12:15:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-අඩුකිරීමේ-යෝජනාව-මහජන-උපයෝගීතා-කොමිසමට/11-408230) · `si`
 
-විදුලි ගාස්තු අඩුකිරීමේ සංශෝධිත ‌යෝජනාව අද (22) මහජන උපයෝගීතා කොමිසමට යොමු කරන බවට ශ්‍රී ලංකා විදුලිබල මණ්ඩලය තහවුරු කොට සිටිනවා. විදුලි ගාස්තු අඩුකිරීම පිලිබඳව විදුලිබල මණ්ඩල සේවක සංගම් මෙන්ම පාරිභෝගික සංගම් වලින් නිරන්තරයෙන් ඉල්ලීම් කලද එය යොජනාවක් ලෙස මහජන උපයොගීතා කොමිසමට ඉදිරිපත් කිරීමට වැඩිකාලයක් ගතවිනි.
+The Sri Lanka Electricity Board has confirmed that the revised proposal to reduce electricity tariffs will be referred to the Public Utilities Commission today (22).. The Ceylon Employees Associations, Consumer Associations have been constantly demanded on the reduction of electricity tariffs.
 
-අමාත්‍ය කංචන විජේසේකර ඊයේ (21) පාර්ලිමේන්තුවේ දි සඳහන් කල ආකාරයට එය සිදුවන්නේ පසුගිය වසරේ ඔක්තොම්බර් මාසයේදී ඉහල දැමූ විදුලි බිල එම ප්‍රමාණයම අඩුකරන බවයි.
+As the Minister Kanchana Wijesekered in parliament yesterday (21), it would reduce the electricity bill in October last year.
 
 ◼️
 
 [Data](articles/916b5bfd.json)
+
+[Extended Data](ext_articles/916b5bfd.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 13:02:44**
+As of **2024-02-22 13:17:26**
 
 ## Newspaper Stats
 
-*Scraped **8,662** Articles*
+*Scraped **8,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 737
 adaderanalk | 1,041
 tamilmirrorlk | 1,080
 virakesarilk | 1,164
-adaderanasinhalalk | 1,274
-dailymirrorlk | 1,290
+adaderanasinhalalk | 1,275
+dailymirrorlk | 1,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,662 (100.0%) of 8,662 articles have been extended.
+8,662 (100.0%) of 8,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### වාහන කුලියට ගෙන අපචාර සඳහා දුන් සැකකරුවෙකු අත්අඩංගුවට
+
+*2024-02-22 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193698) · `si`
+
+කුලී පදනම මත වාහන ලබාගෙන ඒවාට ව්‍යාජ ලේඛන සකසා වෙනත් පුද්ගලයන්ට උකස් කළ පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+රුවන්වැල්ල පොලීසිය විසින් මෙම අත්අඩංගුවට ගැනීම සිදු කර ඇති අතර, මෙම වාහන විවිධ අපචාර සඳහා ද ලබා දී ඇති බවට වාර්තා වේ.
+
+අත්අඩංගුවට ගන්නා විටත් සැකකරු සන්තකයේ තිබූ වාහන 05ක් පොලීසිය සොයා ගෙන ඇති අතර, සැකකරු සම්බන්ධයෙන් වැඩිදුර විමර්ශන ක්‍රියාත්මක බව සඳහන් ය.
+
+◼️
+
+[Data](articles/3ac99f97.json)
+
+---
 
 ### Resignation
 
@@ -277,6 +293,24 @@ He said that all preparations have been completed to issue the new National Iden
 [Data](articles/b76f9885.json)
 
 [Extended Data](ext_articles/b76f9885.ext.json)
+
+---
+
+### Medical fraternity urges health authorities to go on alert
+
+*2024-02-22 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Medical-fraternity-urges-health-authorities-to-go-on-alert/155-277552) · `en`
+
+Colombo, Feb 22 (Daily Mirror) -  In light of recent findings suggesting potential rare occurrences of heart, brain, and blood disorders linked to certain Covid-19 vaccines, medical professionals in Sri Lanka urge the health authorities to remain vigilant on the development.
+
+The study in question, conducted by researchers from the Global Vaccine Data Network, a research arm of the World Health Organization (WHO), unearthed Covid vaccines from companies like Pfizer, Moderna and AstraZeneca were linked to rare occurrences of heart, brain and blood disorders.
+
+It targeted population of 99 million vaccinated individuals across eight countries. This study is said to be the largest Covid vaccine study to date.
+
+Speaking to Daily Mirror, Government Medical Officers' Association (GMOA) Media Spokesman Dr. Chamil Wijesinghe said it is better that Sri Lank goes on alert given the gravity of the findings of the study.
+
+...
+
+[Data](articles/4119a3c4.json)
 
 ---
 
@@ -2033,45 +2067,5 @@ The Minister made these remarks during a news conference held at the Presidentia
 [Data](articles/7236ad18.json)
 
 [Extended Data](ext_articles/7236ad18.ext.json)
-
----
-
-### Inflation up
-
-*2024-02-21 19:54:51* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-408228) · `si`
-
-Inflation in Sri Lanka has risen in January compared to December. The reports of the Department of Census and Statistics indicate that inflation recorded in December 2023 increased to 6.5% for January 2024.
-
-In December 2023, the point of the food category recorded in December 2023 increased to 4.1% in January 2024.
-
-In December 2023, 6.3% of the non-foods of non-foods increased to 8.5% in January 2024.
-
-◼️
-
-[Data](articles/80f48ce3.json)
-
-[Extended Data](ext_articles/80f48ce3.ext.json)
-
----
-
-### Nervousness
-
-*2024-02-21 19:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பழ-திருடனுக்கு-விளக்கமறியல்/76-333615) · `ta`
-
-Nuwara Eliya Magistrate's Court Judge Prabhudika Langanthini has ordered a person who stole 46,000 rupees worth Rs 46,000 at a shop selling fruit in Nuwara Eliya, Nuwara Eliya.
-
-The Nuwara Eliya Police Headquarters Chief Inspector Premalal Hattiyarachchi, the Chief Inspector of the Nuwara Eliya Police Headquarters, has launched a complaint filed by the Nuwara Eliya Crime Police.
-
-The three -member delegation who had been appointed to investigate was arrested on Sunday evening (18) with the help of a video recorded on the Sisirvi camera.
-
-The suspect was arrested (44), 44, from Kuda Oya, Lapukkalai.
-
-The police have ordered the suspect to be remanded till the 26th of this month when the police have been presenting the suspect in the presence of the Nuwara Eliya Magistrate Prabhudika Lanka on Monday evening (19).
-
-◼️
-
-[Data](articles/df9efe0b.json)
-
-[Extended Data](ext_articles/df9efe0b.ext.json)
 
 ---

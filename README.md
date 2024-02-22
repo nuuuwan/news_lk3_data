@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 09:02:38**
+As of **2024-02-22 09:17:25**
 
 ## Newspaper Stats
 
-*Scraped **8,616** Articles*
+*Scraped **8,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,108 +19,156 @@ adalk | 736
 adaderanalk | 1,036
 tamilmirrorlk | 1,072
 virakesarilk | 1,154
-adaderanasinhalalk | 1,264
+adaderanasinhalalk | 1,266
 dailymirrorlk | 1,279
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,608 (99.9%) of 8,616 articles have been extended.
+8,616 (100.0%) of 8,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### මුඛ පිළිකා වැළඳීමේ වර්ධනයක්
+### සැකකටයුතු මරණයක් ගැන පොලිස් විමර්ශන
+
+*2024-02-22 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193688) · `si`
+
+සිය පුතා පොල්ලකින් පහරදීමක් සිදුකළ බව පවසමින් පුද්ගලයෙකු ඊයේ (21) දොම්පේ පොලීසියට පැමිණිල්ලක් ඉදිරිපත් කර තිබුණි.
+
+ඒ අනුව පොලීසිය විසින් ඔහුට රෝහල්ගතවීමට අධිකරණ වෛද්‍ය පෝරමයක් ද නිකුත් කර ඇති අතර රෝහල් ගතවීමක් සිදුවී නොමැති බවට විමර්ශනවලදී අනාවරණය වී ඇත.
+
+ඒ අනුව ඊයේ දහවල් කාලයේ දොම්පේ පොලිස් වසමේ ගිරිදර හන්දිය අසල සැකකටයුතු ලෙස පුද්ගලයෙක් වැටී සිටින බවට දොම්පේ පොලීසියට තොරතුරක් ලැබී තිබුණි.
+
+අදාළ පුද්ගලයා එලෙස වැටී මියගොස් තිබූ අතර ඔහු 60 හැවිරිදි මැදවරණිය තිත්තපත්තර ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/bbdfb0ec.json)
+
+---
+
+### බන්ධනාගාරයට ගෙන ගිය තහනම් ද්‍රව්‍ය
+
+*2024-02-22 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193687) · `si`
+
+ගුද මාර්ගයේ සඟවාගෙන තහනම් ද්‍රව්‍ය බන්ධනාගාරය තුළට රැගෙන යාමට උත්සාහ කළ රැදවියන් දෙදෙනෙකු සම්බන්ධයෙන් කොළඹ රිමාන්ඩ් බන්ධනාගාරය විශේෂ විමර්ශනයක් ආරම්භ කර තිබේ.
+
+කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ රඳවා සිටි සැකකරුවන් දෙදෙනෙකු මෙම විමර්ශනය ආරම්භ කර ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි දිසානායක මහතා සඳහන් කළේ ය.
+
+අදාළ සැකකරුවන් දෙදෙනා ඊයේ (21) දිනයේ බන්ධනාගාරයේ සිට කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර යළි බන්ධනාගාරය තුළට පැමිණෙන අවස්ථාවේ දී බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බළකායේ නිලධාරින් විසින් සෝදිසි කිරීමකට ලක් කර ඇත.
+
+එහි දී එක් රැඳවියෙකුගේ ගුද මාර්ගයේ සඟවා තිබිය දී ජංගම දුරකථනයක්, සිම්පතක් සහ බැටරියක් ද අනෙක් රැඳවියාගේ ගුද මාර්ගයේ තිබී දුම්කොළ 04ක් ද සොයාගෙන ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක ගාමිණී දිසානායක මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/ed3a835a.json)
+
+---
+
+### An oral cancer growth
 
 *2024-02-22 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193686) · `si`
 
-තරුණයන් අතර මුඛ පිළිකා වැළඳීමේ සම්භාවිතාව ඉහළ ගොස් ඇති බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
+The likelihood of oral cancer among the youth has increased, the Ministry of Health said.
 
-මුඛ හා හනුක ශල්‍ය වෛද්‍ය තනුජා දක්ෂිලි පතිරාජ මහත්මිය පැවසුවේ, පසුගිය කාලසීමාව තුළ මුඛ පිළිකා වැළඳීමේ වර්ධනයක් පෙන්නුම් කරන බවයි.
+Ms. Tanuja Karrija Karraja Pathiraja said that there was a growth of oral cancer during the past period.
 
-සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් වෛද්‍ය තනුජා දක්ෂිලි පතිරාජ මහත්මිය මේ බව සඳහන් කළා ය.
+Addressing a media brief held at the Health Promotion Bureau, Dhanu Karraja Karraja made this statement.
 
-මේ අතර, කාන්තාවන්ට ගැබ්ගෙල පිළිකා වැළදීම යම්තාක් දුරට අඩු වී ඇති බව පවුල් සෞඛ්‍ය කාර්යාංශයේ අධ්‍යක්ෂ විශේෂඥ වෛද්‍ය චිත්‍රමාලි ද සිල්වා මහත්මිය අවධාරණය කර තිබේ.
+Meanwhile, Director of the Family Health Bureau has stressed that women have fallen shortly reduced cervical cancer.
 
 ◼️
 
 [Data](articles/3f4e5b27.json)
 
+[Extended Data](ext_articles/3f4e5b27.ext.json)
+
 ---
 
-### யாழில் ஒரே மாதத்தில் 531 பேர் கைது
+### 531 arrested in the same month in Jaffna
 
 *2024-02-22 08:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-ஒரே-மாதத்தில்-531-பேர்-கைது/175-333638) · `ta`
 
-யாழ்ப்பாணத்தில் தேடப்பட்டு வந்த 531 பேர் கடந்த ஒரு மாத கால பகுதிக்குள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+531 people searched in Jaffna have been arrested within the last one month, police said.
 
-பல்வேறு குற்றச் செயல்களுடன் தொடர்புடைய, நீதிமன்றங்களினால் பிடியாணைகள் பிறப்பிக்கப்பட்டவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+The arrests have been arrested by the courts in connection with various crimes.
 
-பிடியாணை பிறப்பிக்கப்பட்ட 230 நபர்களும் திறந்த பிடியாணை பிறப்பிக்கப்பட்ட 301 நபர்களுமே பொலிஸாரினால் கைது செய்யப்பட்டு நீதிமன்றங்களில் முற்படுத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The 230 persons who were issued and 301 were issued by the police and were arrested by the police, police said.
 
 ◼️
 
 [Data](articles/6f055a18.json)
 
+[Extended Data](ext_articles/6f055a18.ext.json)
+
 ---
 
-### கேக் நோனாவை உடனடியாக கைது செய்யவும்;எம்.பி கோரிக்கை
+### Immediately arrest cake Nona; MP request
 
 *2024-02-22 08:01:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேக்-நோனாவை-உடனடியாக-கைது-செய்யவும்-எம்-பி-கோரிக்கை/175-333637) · `ta`
 
-சமூக ஊடகங்களில் தன்னை அவதூறாகப் பேசியதாகக் கூறப்படும் களுத்துறையைச் சேர்ந்த கேக் நோனா என்ற பெண்ணுக்கு எதிராக நடவடிக்கை எடுக்குமாறு ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன சபாநாயகரிடம் கோரிக்கை விடுத்துள்ளார்.
+Sri Lanka PA (SLPP) Parliamentarian Rohitha Abeygunawardena has called on the Speaker to take action against a woman named Cake Nona, who is alleged to have slandered her on social media.
 
-நேற்று (பிப்ரவரி 21) பாராளுமன்றத்தில் உரையாற்றிய பாராளுமன்ற உறுப்பினர் அபேகுணவர்தன, தனக்கும் பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனுக்கும் எதிராக குறித்த பெண் சமூக ஊடகங்களில் தீங்கிழைக்கும் பதிவுகளை வெளியிடுவதாக தெரிவித்தார்.
+Speaking in Parliament yesterday (February 21), Parliamentarian Abeygunawardena said that he would publish harmful records on the social media against the Inspector General of Police, Patriot and Tennakoon.
 
-SLPP எம்.பி., அந்த பெண் தனது சமூக ஊடக பதிவுகள் மூலம் அவரை திருடன் என்று அழைத்ததாகவும், அவரை உடனடியாக கைது செய்யுமாறும் அழைப்பு விடுத்துள்ளார்.
+The SLPP MP has called on the woman to call her a thief through her social media posts and to arrest him immediately.
 
-இது தனது பாராளுமன்ற சிறப்புரிமைகளை மீறுவதாகக் கூறியுள்ள பாராளுமன்ற உறுப்பினர் அபேகுணவர்தன, இவ்வாறான தீங்கிழைக்கும் கருத்துக்கள் தம்முடைய உயிருக்கு அச்சுறுத்தலை ஏற்படுத்தும் எனவும் சுட்டிக்காட்டினார்.
+Member of Parliament Abeygunawardena, who said it violated his parliamentary privileges, pointed out that such harmful ideas would threaten his life.
 
-தவறு செய்திருந்தால் மட்டுமே இவ்வாறான கருத்துக்களை ஏற்றுக்கொள்ள முடியும் என தெரிவித்த அவர், அவ்வாறு இல்லை எனில் இவ்வாறு விமர்சிப்பது நியாயமற்றது எனவும் தெரிவித்தார்.
+He said that such comments could only be accepted if they did wrong, and that it was unreasonable to criticize if it was not.
 
-...
+Parliamentarian Abeygunawardena said that a woman called 'cake Nona' contested the 2015 parliamentary elections.
+
+◼️
 
 [Data](articles/b95cd5d8.json)
 
+[Extended Data](ext_articles/b95cd5d8.ext.json)
+
 ---
 
-### மின் கட்டணம் முற்றிலும் குறைக்கப்படும்
+### Electricity bill will be reduced completely
 
 *2024-02-22 07:53:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-முற்றிலும்-குறைக்கப்படும்/175-333636) · `ta`
 
-கடந்த ஆண்டு ஒக்டோபரில் அதிகரிக்கப்பட்ட 18 சதவீத மின் கட்டணத்தை உள்நாட்டு பிரிவினருக்கு குறைக்கும் வகையில், மின் கட்டண திருத்தம் குறித்த புதிய முன்மொழிவு முன்வைக்கப்பட்டுள்ளதாக, மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சனா விஜேசேகர நேற்று (21) தெரிவித்தார்.
+Minister of Power and Energy Kanchana Wijeshekara yesterday (21) said that a new proposal on the electricity tariff revision has been proposed to reduce the 18 per cent increase in electricity tariffs in October last year.
 
-கடந்த ஒக்டோபர் மாதம் உள்நாட்டு நுகர்வோர் மற்றும் மத வழிபாட்டுத் தலங்களின் மின்சாரக் கட்டணம் 18 சதவீதத்தாலும், தொழில் மற்றும் ஹோட்டல் துறைக்கான கட்டணங்கள் 12 சதவீதத்தாலும், பொதுக் கட்டிடங்கள் உள்ளிட்ட பொது நோக்கங்களுக்கான கட்டணங்கள் 24 சதவீதத்தாலும் அதிகரிக்கப்பட்டதாகவும் அவை யாவும் புதிய திருத்தத்தில் முற்றாக குறைக்கப்படும் எனவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+He said in Parliament that the electricity tariffs of domestic consumers and religious places were 18 per cent, 12 per cent for the industry and hotel sector, 12 per cent, public purposes, including public buildings, and that they would be reduced in the new amendment last October.
 
-மின்சாரக் கட்டணத் திருத்தம் தொடர்பான புதிய முன்மொழிவுகள் நாளை இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் (PUCSL) கையளிக்கப்படும் என்றார்.
+He said the new proposals for the Electricity Tax Amendment would be handed over to the Sri Lanka General Utilities Commission (PUCSL) tomorrow.
 
-முன்னதாக இலங்கை மின்சார சபையானது கட்டணத்தை 3 வீதத்தால் குறைக்க முன்மொழிந்திருந்ததாக அவர் கூறினார்.
+Earlier, the Ceylon Electricity Board had proposed to reduce the tariff by 3 percent.
 
 ◼️
 
 [Data](articles/5d061a99.json)
 
+[Extended Data](ext_articles/5d061a99.ext.json)
+
 ---
 
-### දිස්ත්‍රික් කිහිපයක ජනතාවට අවවාදාත්මක නිවේදනයක්
+### Warning announcement to the people of several districts
 
 *2024-02-22 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193685) · `si`
 
-පවතින උණුසුම් කාලගුණ තත්ත්වයත් සමඟ දිවයිනේ දිස්ත්‍රික් කිහිපයක් සඳහා කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+With the hot weather, the Department of Meteorology has issued a reputation for several districts in the island.
 
-වයඹ පළාත සහ ගම්පහ, කොළඹ, හම්බන්තොට, මොණරාගල යන දිස්ත්‍රික්කවල අද (22) දිනයේ උණුසුම් දර්ශකය ඉහළ අගයක් ගනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+The warm index will be increased in the North Western and Gampaha, Colombo and Moneragala Districts today (22).
 
-මේ සම්බන්ධයෙන් ජනතාව අවධානය යොමු කළ යුතු බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ අනාවැකිකරණ අංශයේ අධ්‍යක්ෂ අජිත් විජේමාන්න මහතා පැවසීය.
+The Director of the Department of Foreign Department said that the people should pay attention to this.
 
-මේ අතර, පවතින උණුසුම් කාලගුණ තත්ත්වය සමඟ ළමුන් අතර සමේ රෝග වර්ධනය වීමක් දක්නට ලැබෙන බව ළමා රෝග පිළිබඳ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+Meanwhile, Dr. Deepal Prarera says that with the warm weather conditions, there is a growth of child disease.
 
-පවතින තත්ත්වය හමුවේ දරුවන් හිරු එළියට නිරාවරණය කිරීම සීමා කළ යුතු බව විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා වැඩිදුරටත් සඳහන් කළේ ය.
+Specialist Dr. Deepala Perera added that children should limit the sun exposure to the sun.
 
 ◼️
 
 [Data](articles/2119be7c.json)
+
+[Extended Data](ext_articles/2119be7c.ext.json)
 
 ---
 
@@ -144,19 +192,21 @@ The MEPA reports the stain was confirmed in satellite images nearly seven miles 
 
 ---
 
-### හිමිනම ඝාතන සිද්ධියට සැකකාරියක් අත්අඩංගුවට
+### Suspect arrested for killing of monk
 
 *2024-02-22 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193684) · `si`
 
-මල්වතුහිරිපිටිය කහටාන ශ්‍රී ඝනාරාම විහාරස්ථානයේ වැඩවිසූ හිමිනමක් වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට අදාළව තරුණියක් අත්අඩංගුවට ගෙන තිබේ.
+A young girl has been arrested in connection with the shooting of the shooting of a man of the Malwathana, Kahanarama Viharaya.
 
-අදාළ ඝාතනයේ ප්‍රධාන සැකකරුට ආධාර අනුබල දීම, රැකවරණය ලබාදීම සහ සත්‍ය තොරතුරු වසන් කිරීමේ චෝදනාව යටතේ සැකකාරියව මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+The suspect was arrested, protection, protection and collecting the actual information to protect the murder.
 
-පොලීසිය සඳහන් කළේ ඊයේ (21) උදෑසන අරලගංවිල වේරගල ප්‍රදේශයේදී ඇයව අත්අඩංගුවට ගත් බවය.
+The police stated that she was arrested in the Weragala area in Aralaganwila morning.
 
 ◼️
 
 [Data](articles/6746f03b.json)
+
+[Extended Data](ext_articles/6746f03b.ext.json)
 
 ---
 
@@ -310,21 +360,23 @@ There have been many changes in the country since 2020. The government of Ranil 
 
 ---
 
-### ’எந்தவொரு நடவடிக்கையும் நிறுத்தப்படமாட்டாது’
+### No action will be stopped
 
 *2024-02-22 02:21:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்தவொரு-நடவடிக்கையும்-நிறுத்தப்படமாட்டாது/175-333635) · `ta`
 
-போதைப்பொருள் மற்றும் பாதாள உலகத்தை ஒடுக்குவதற்கும், பெண்கள் மற்றும் சிறுவர்களுக்கு எதிரான வன்முறைகளைத் தடுக்கும் நோக்கிலும் ஆரம்பிக்கப்பட்டுள்ள எந்தவொரு நடவடிக்கையையும் நிறுத்தத் தயாரில்லை என்று  பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்தார்.
+Public Security Minister Tran Ales said that no actions have been initiated to suppress the drug and the underworld and prevent violence against women and children.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று  நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
 
-போதைப்பொருள் மற்றும் பாதாள உலகத்தை ஒடுக்குதல் மற்றும் பெண்கள் மற்றும் சிறுவர்களுக்கு எதிரான வன்முறைகளைத் தடுப்பது தொடர்பான நடவடிக்கைகள் தொடர்ச்சியாக மேற்கொள்ளப்பட்டு வருகின்றன. எத்தகைய அழுத்தங்கள் வந்தாலும் இந்த செயற்பாடுகளை நிறுத்துவதற்கு நாங்கள் தயாராக இல்லை.
+There is a series of measures to suppress drug and underworld and prevent violence against girls and children. We are not prepared to stop these activities, no matter what pressure.
 
-இந்த வேலைத்திட்டம் தொடர்பில் எம்மீது பல்வேறு குற்றச்சாட்டுகள் முன்வைக்கப்படுகின்றன. இந்த செயற்பாட்டைச் சீர்குலைக்க பல்வேறு நபர்களும் குழுக்களும் முயற்சித்து வருகின்றனர். போதைப்பொருள் வலையமைப்பு மூலம் பணம் பெறுபவர்கள் அந்தக் குழுக்களுக்கு பணத்தை செலவிடுவதாக எமக்கு தகவல் கிடைத்துள்ளது என்றார். (a)
+Various allegations are being made against us regarding this program. Various people and groups are trying to disrupt this activity. We have been informed that those who get paid through the drug network will spend money on the groups. (A)
 
 ◼️
 
 [Data](articles/e37071d0.json)
+
+[Extended Data](ext_articles/e37071d0.ext.json)
 
 ---
 
@@ -1180,23 +1232,25 @@ She was unexpected at Battaramulla Wickremesingura Junction in Battaramulla.
 
 ---
 
-### ධාන්‍ය වර්ග කිහිපයක වෙළඳ භාණ්ඩ බද්ද ඉහළට
+### Merchant tax on several grains
 
 *2024-02-21 19:36:00* · [`adalk`](https://www.ada.lk/breaking_news/ධාන්‍ය-වර්ග-කිහිපයක-වෙළඳ-භාණ්ඩ-බද්ද-ඉහළට/11-408227) · `si`
 
-උඳු, මුං ඇට, කව්පි, බඩඉරිඟු, කුරක්කන් සහ මිලට් ආනයනයේදී අය කළ විශේෂ වෙළෙඳ භාණ්ඩ බදු ඉහළ නංවමින් නව ගැසට් පත්‍රයක් නිකුත් කර තිබේ.
+A new gazette issued a new gazette, raising the potential, green gram, pea, caukkan and millets.
 
-ඒ අනුව කව්පි (අනෙකුත්), බීජ කුරක්කන් (ඉලියුසිනේ කොරකාන විශේෂ), බීජ - අනෙකුත් (මිලට්), කුරක්කන් (ඉලියුසිනේ කොරකාන විශේෂ) හා මිලට් (අනෙකුත්) ආනයනයේදී මෙතෙක් පැවති කිලෝග්‍රෑමයකට රුපියල්70ක් වූ විශේෂ වෙළෙඳ භාණ්ඩ බද්ද රුපියල් 300ක් දක්වාත් ඉහළ නංවා ඇත.
+Accordingly, the Cockana Special (Illusena Ceremony Special) and Milakana Specials (Illiverse) and Milaks, Kurakana Specials (Illiverse) and Milaks (Other) have been increased by Rs. 300 to Rs.
 
-මෙම ගැසට් පත්‍රයට අනුව උඳු (අනෙකුත්) සඳහා මෙතෙක් කිලෝග්‍රෑමයකට රුපියල්200ක්ව පැවති විශේෂ වෙළෙඳ භාණ්ඩ බද්ද රුපියල්300ක් දක්වා ඉහළ නංවා තිබේ.ඒ අනුව එම බද්ද සියයට 50කින් ඉහළ දමා ඇත.
+The Gazette has increased the special commodity tax of Rs. 300 per kilogram of Rs.
 
-මීට අමතරව බඩඉරිඟු සඳහාද රුපියල් 25ක වෙළෙඳ භාණ්ඩ බද්දක් නියම කර ඇත.
+Maize also prescribed a merchant tax of Rs.
 
-මේ අතර බඩඉරිඟු, උඳු, මුං ඇට, කව්පි හා කුරක්කන් ආනයනය කිරීම කෘෂිකර්ම අමාත්‍යාංශයේ නිර්දේශය මත සිදු කළ යුතු බවට මෙම ගැසට් නිවේදනයෙන් අවධාරණය කර තිබේ.
+In the meantime, the importation of maize, dense, green gram, pea, cowk and kurakkan should be carried out on the recommendation of the Ministry of Agriculture.
 
 ◼️
 
 [Data](articles/6d8682f0.json)
+
+[Extended Data](ext_articles/6d8682f0.ext.json)
 
 ---
 
@@ -2061,41 +2115,5 @@ It is advised to avoid unnecessary walking in publications, drink more water and
 [Data](articles/2eb09915.json)
 
 [Extended Data](ext_articles/2eb09915.ext.json)
-
----
-
-### The youngest Sri Lankan girl in the world of foot to go on foot
-
-*2024-02-21 16:32:08* · [`adalk`](https://www.ada.lk/breaking_news/පයින්-ගිහින්-ලෝක-වාර්තාවක්-තැබූ-ලෝකයේ--ළාබාලතම-ලාංකික-දැරිය/11-408221) · `si`
-
-In a shortest period of 10 miles [9 km] in the world where the world's youngest girl, a world record was a world record, and published in India.
-
-The World Scholarship was able to pass from the Chalan, Kelaniya, Pilapitiya presidential collector in Parandeniya.
-
-Officials of the Sri Lankan Branch Vice President Indranath Pelan Institute of Cholan attended this event. She says that the reason for this world record is to learn to walk with his father.
-
-◼️
-
-[Data](articles/b69ddf1e.json)
-
-[Extended Data](ext_articles/b69ddf1e.ext.json)
-
----
-
-### Sri Lanka should not become Indianized: Government MP
-
-*2024-02-21 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-should-not-become-Indianized-Government-MP/108-277491) · `en`
-
-Parliament, Feb. 21 (Daily Mirror)- A government MP said today that Sri Lanka should not be subjected to Indianisation, claiming that he was against the Indian rupee being used in Sri Lanka and to provide Sri Lankan airports to Indian investors.
-
-SLPP MP Sarath Weerasekara told Parliament that the President's efforts to rescue the country from economic shambles was praiseworthy and that he was against it if Sri Lanka was gradually subjected to indianisation.
-
-"We are against if the Indian rupee is used in Sri Lanka or Sri Lanka becoming the 29th State of India. We highly appreciate the support extended to Sri Lanka by India. However, we are against providing the airports to Indian investors. The airport, the access point to the country is a sensitive place. It is a threat to the sovereignty of the country if a foreign company gets hold of the country's airport," he said.
-
-...
-
-[Data](articles/4c930d48.json)
-
-[Extended Data](ext_articles/4c930d48.ext.json)
 
 ---

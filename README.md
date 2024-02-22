@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 12:02:27**
+As of **2024-02-22 12:17:33**
 
 ## Newspaper Stats
 
-*Scraped **8,650** Articles*
+*Scraped **8,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 736
 adaderanalk | 1,040
 tamilmirrorlk | 1,074
 virakesarilk | 1,162
-adaderanasinhalalk | 1,272
+adaderanasinhalalk | 1,274
 dailymirrorlk | 1,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,650 (100.0%) of 8,650 articles have been extended.
+8,650 (100.0%) of 8,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### ලෝක උරුමය වනසන ඇෆ්ගන්වරු
+
+*2024-02-22 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193697) · `si`
+
+ඇෆ්ගනිස්තානයේ පුරාවිද්‍යාත්මක වටිනාකමක් ඇති භූමි ප්‍රදේශ සැලසුම් සහගතව විශාල යන්ත්‍ර භාවිත කර විනාශ කර ඇති බව පර්යේෂකයින් කණ්ඩායමක් පවසයි.
+
+එසේ විනාශ කර ඇති ස්ථානවල ඇතැයි අනුමාන කෙරෙන පෞරාණික වටිනාකමක් ඇති භාණ්ඩ සොයා සමහර පිරිස් කැණීම් සිදුකරන බව ද වාර්තා වෙයි.
+
+චන්ද්‍රිකා ඡායාරූප භාවිතයෙන් සිදුකර ඇති එම පර්යේෂණයෙන් හෙළිවී ඇත්තේ 2021 වසරේ ඇෆ්ගනිස්තානයේ බලය අල්ලා ගත් තලිබාන්වරුන් සහ ඊට පෙර පැවති රජයේ පූර්ණ සහාය ඇතිව එම විනාශය සිදුකරන බවයි.
+
+ක්‍රිස්තු පූර්ව 1,000ට පෙර ජනපද පැවති බොහෝ පුරාවිද්‍යාත්මක වටිනාකමක් ඇති ස්ථාන මේ වනවිට ඒ ආකාරයෙන් විනාශ කර ඇති බව චිකාගෝ විශ්වවිද්‍යාලයේ පර්යේෂකයින් පවසයි.
+
+උතුරු ඇෆ්ගනිස්තානයේ බල්ඛ් ප්‍රදේශය දැඩි ලෙස විනාශ කර ඇති බව සඳහන් ය.
+
+මීට වසර 2,000කට පමණ පෙර බැක්ට්‍රියා හි ඉතා සශ්‍රික ව පැවති ප්‍රදේශයක් ලෙස එය සැලකෙයි.
+
+පුරාණ ඇෆ්ගනිස්තානයේ Achaemenid රාජධානිය තුළ පිහිටි ජනගහනය වැඩිම මෙන්ම ධනවත්ම ප්‍රදේශය වශයෙන් එම කලාපය හඳුනාගෙන තිබේ.
+
+◼️
+
+[Data](articles/e16130cd.json)
+
+---
+
+### මාර්ග අසල සිටින වනඅලින් ළඟට යන්න එපා
+
+*2024-02-22 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193696) · `si`
+
+හබරණ රක්ෂිතයේ සැරිසරන වනඅලියෙකු හබරණ - දඹුල්ල ප්‍රධාන මාර්ගයේ සැරිසරමින් සිටියදී එම වනඅලියා ආසන්නයට ගොස් අනතුරුදායක ලෙස කටයුතු කරන සංචාරකයින් කිහිපදෙනෙකු පිළිබඳව මෙලෙස කැමරාවක සටහන්වී තිබුණි.
+
+මෙලෙස මාර්ගය අසලට පැමිණෙන වනඅලින්ට ජනතාව ආහාර ලබාදීමට පුරුදුවී සිටීම හේතුවෙන් එම සතුන් දිනපතාම මෙම මාර්ගයේ සැරිසරමින් සිටී.
+
+ඒ අතරතුර ත්‍රීරෝද රථයකින් සංචාරකයින් රැගෙන යමින් සිටි පුද්ගලයෙකු රථය නවතා වනඅලියා ආසන්නයට ගොස් සංචාරකයෙකුට ඡායාරූපයක් ලබාදීමට කටයුතු කළ අයුරුද මෙලෙස කැමරාවේ සටහන්වී තිබුණි.
+
+මෙවැනි සිද්ධීන් හමුවේ වනඅලින් රථවාහනවලට පහරදීමේ සිද්ධීන්ද මීන් පෙර වාර්තා වී තිබුණි.
+
+වනජීවී නිලධාරීන් ඉල්ලා සිටින්නේ සංචාරකයින් සහ මගීන් මෙවැනි අවදානම් ක්‍රියාවලින් වැළැකී සිටිය යුතු බවය.
+
+◼️
+
+[Data](articles/c28a9a00.json)
+
+---
 
 ### Prime Minister assures action against CEB spokesman
 
@@ -2041,47 +2085,5 @@ The police say that the lady detained in the prison was revealed that the racket
 [Data](articles/d8d75b2e.json)
 
 [Extended Data](ext_articles/d8d75b2e.ext.json)
-
----
-
-### The court heard the report on Shani
-
-*2024-02-21 18:46:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷானி-தொடர்பிலான-அறிக்கையை-கேட்டது-நீதிமன்றம்/175-333611) · `ta`
-
-The Court of Appeal has ordered the Attorney General to submit a report on the provision of special police protection to the former chief of the secret police division.
-
-The Court of Appeal has ordered the writ petition filed by former Chief of Criminal Investigation (CID) Shani Abeysekera demanding his safety.
-
-The writ petition was taken on Wednesday (21) in the presence of a session of the Court of Appeal Judge Nishanga Bandula Karunaratne and Sashi Mahendran.
-
-Former chief of the Criminal Investigation Division, Shani Abeysekera, has filed the writ petition demanding that the security provided to him inadequate inadequate.
-
-President's Attorney Upul Jayasuriya, Additional Solicitor General and President's Attorney Rhanda Abeesuriya appeared on behalf of the Attorney General.
-
-◼️
-
-[Data](articles/4ee3510f.json)
-
-[Extended Data](ext_articles/4ee3510f.ext.json)
-
----
-
-### Discussion on VAT
-
-*2024-02-21 18:40:11* · [`adalk`](https://www.ada.lk/breaking_news/වැට්-ගැන-මුදල්-කාරක-සභාවේ-සාකච්ඡාවක්/11-408223) · `si`
-
-In November 2023, all VAT exemptions were removed, the Tax Release (Amendment) Bill was removed by the Committee on the VAT to the VAT Recommendation by the Committee.Was.
-
-Accordingly, the Committee was recommended to the Ministry of Finance to reconside medical equipment, ambulances and children of the Ministry of medical equipment, ambulances and children.
-
-The committee was discussed when the Committee on Public Finance Member (Dr.) Harsha De Silva yesterday (20) was held yesterday.
-
-The VAT (Amendment) Bill, aims to develop tax rates and registration requirements in accordance with the Government's goal of increasing the income of the income of Sri Lankan income to 14% of GDP. For the VAT tax registrationThe threshold of Rs. 80 million and Rs. Dropped by 60 million. The committee was questioned as to why the local digital and software suppliers will delay the VAT on foreign digital and software suppliers.
-
-...
-
-[Data](articles/9d4888aa.json)
-
-[Extended Data](ext_articles/9d4888aa.ext.json)
 
 ---

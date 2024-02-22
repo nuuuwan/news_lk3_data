@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 22:17:24**
+As of **2024-02-22 22:32:58**
 
 ## Newspaper Stats
 
-*Scraped **8,749** Articles*
+*Scraped **8,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,107 @@ islandlk | 451
 economynextcom | 452
 dailyftlk | 464
 adalk | 744
-adaderanalk | 1,052
-tamilmirrorlk | 1,089
+adaderanalk | 1,053
+tamilmirrorlk | 1,090
 virakesarilk | 1,181
 adaderanasinhalalk | 1,292
-dailymirrorlk | 1,304
+dailymirrorlk | 1,308
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,748 (100.0%) of 8,749 articles have been extended.
+8,749 (99.9%) of 8,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### UK parliament descends into chaos over Gaza ceasefire vote
+
+*2024-02-22 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97465/uk-parliament-descends-into-chaos-over-gaza-ceasefire-vote) · `en`
+
+Dozens of lawmakers stormed out of Britain’s parliament on Wednesday with tempers flaring as the three biggest political parties sought to outmanoeuvre each other over a vote on a ceasefire in Gaza.
+
+The uproar followed a decision by the speaker to ignore precedent and allow a vote which helped the opposition Labour Party avoid a large-scale rebellion among its own lawmakers over its position on the Israel-Hamas war.
+
+Lawmakers from the governing Conservatives and the opposition Scottish National Party (SNP) left the debating chamber in protest and some tried to take the rare step of holding proceedings in private.
+
+The speaker, Lindsay Hoyle, eventually apologised and said he had made his decision to allow lawmakers to vote on a range of views because he was concerned about their security after some had faced threats of violence over their stance on the war.
+
+“It is regrettable and I apologise for the decision,” he told parliament. “I did not want it to end like this.”
+
+...
+
+[Data](articles/2195bcc6.json)
+
+---
+
+### Incumbent and former Health Minister walk on a single track: Dr. Bellana
+
+*2024-02-22 21:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Incumbent-and-former-Health-Minister-walk-on-a-single-track-Dr-Bellana/108-277566) · `en`
+
+Colombo, Feb 22 (Daily Mirror) - The problems relating to drugs are not the only issue in the health sector, and both the former and incumbent health ministers have been prone to viewing health matters narrowly, focusing primarily on drug-related issues, Deputy Director of the National Hospital Colombo (NHC) Dr. Rukshan Bellana said.
+
+Addressing the media, he said that when considering health issues, the incumbent and former Health Minister walk on a single track.
+
+"Drugs are not the sole issue in the country's health sector. The health administration of the hospitals has gone from bad to worse. We cannot treat patients without implementing rules in hospitals. If the Health Ministry cannot understand the issues faced by the patients and cannot understand what they mean, it is better for everyone to go home," he said.
+
+"We should prioritize on a patient-centred hospital management system while shifting away from an employee-centred approach," he added.
+
+...
+
+[Data](articles/819a9891.json)
+
+---
+
+### நானுஓயா - ரதெல்ல வீதியில் பாரிய விபத்து
+
+*2024-02-22 21:20:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-ரதெல்ல-வீதியில்-பாரிய-விபத்து/76-333685) · `ta`
+
+நானுஓயா ரதெல்ல குறுக்கு வழி வீதியில் இன்று மாலை பேருந்து ஒன்று கவிழ்ந்து விபத்துக்குள்ளானதில் காயமடைந்த 8 பேர் நுவரெலியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+மாத்தறை பிரதேசத்தில் இருந்து யாத்திரிகர்கள் குழுவை ஏற்றிச் சென்ற பேருந்தே இவ்வாறு விபத்துக்குள்ளாகியுள்ளது.
+
+விபத்தில் பேருந்துக்கு பலத்த சேதம் ஏற்பட்டுள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை நானுஓயா பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/8f0d45dc.json)
+
+---
+
+### U.W. Sumathipala remembered
+
+*2024-02-22 21:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/U-W-Sumathipala-remembered/110-277569) · `en`
+
+The 100th commemoration of U.W. Sumathipala, founder of the Sumathi Group of Companies, was held today at the Cinnamon Lakeside Hotel in Colombo. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/2ff96d63.json)
+
+---
+
+### Bus topples in Nanu Oya injuring eight
+
+*2024-02-22 21:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bus-topples-in-Nanu-Oya-injuring-eight/108-277568) · `en`
+
+Nanu Oya, Feb 22 (Daily Mirror) - At least eight persons were injured after a bus carrying pilgrims to Sri Pada toppled at around 7.30 p.m. today at Nanu Oya on the Nuwara Eliya-Hatton Road, the Nanu Oya police said.
+
+They said the injured were admitted to the Nuwara Eliya base hospital.
+
+The accident happened when the bus was driving on a section of the road with a steep slope where vehicles were not allowed to enter.
+
+The bus had arrived from Matara, carrying 34 pilgrims to Sri Pada.
+
+The bus had tipped over since the driver could not control it. The Nanu Oya Police said it was fortunate that a serious accident was avoided because the bus had almost gone off the road but had not gone down the precipice.
+
+◼️
+
+[Data](articles/ce92b98b.json)
+
+---
 
 ### Nanuoya - Radella road accident
 
@@ -44,25 +130,45 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### න්‍යෂ්ටික ප්‍රහාරයක් එල්ලවුවහොත් ශ්‍රී ලංකාව සුදානම්
+### Sri Lanka is ready for a nuclear attack
 
 *2024-02-22 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193715) · `si`
 
-කලාපය තුළ යම් අයුරකින් න්‍යෂ්ටික ප්‍රහාරයක් එල්ලවුවහොත් ඉන් ඇතිවන විකිරණශීලි තත්ත්වයන්ට මුහුණ දීමට ශ්‍රී ලංකාව සුදානම් බව පරමාණුක බලශක්ති නියාමන සභාවේ නිලධාරීන් පවසයි.
+According to officials, Sri Lanka is ready to face the radioactive situations in the region.
 
-බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව රැස්වූ අවස්ථාවේදී එම නිලධාරීන් මේ බව දැනුම්දී තිබේ.
+The officials have been informed when the Sectoral Oversight Committee on Energy and Transport met.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ පරමාණුක බලශක්ති නියාමන සභාවේ නිලධාරීන් පවසා ඇත්තේ ඒ සඳහා අවශ්‍ය මානව සම්පත සහ අවශ්‍ය උපකරණ තමන් සතු බවය.
+Speaking further the officials of the Atomic Energy Regulatory Council have said that they have the necessary human resources and equipment.
 
-බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව එහි සභාපති, පාර්ලිමේන්තු මන්ත්‍රී නාලක බණ්ඩාර කෝට්ටේගොඩ මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා පාර්ලිමේන්තුවේදී රැස්වී තිබුණි.
+Sectoral Oversight Committee on Energy and Transport The Chairman of Parliament, MP Nalaka Bandara recently met in parliament.
 
-මේ අතර දිගු කාලයක් පුරා සමනල වැව ජලාශයේ පවතින ජල කාන්දුව පිළිසකර කර ජල කාන්දුව නතර කළ නොහැකි බව ශ්‍රී ලංකා එනර්ජිස් පුද්ගලික සමාගමේ නිලධාරීහු බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවට දැනුම් දී තිබේ.
+Meanwhile, officials of Sri Lanka Energis (Pvt) Ltd has informed the Sectoral Oversight Committee on Energy and Transport that the water leakage in the Samanala tank has been repaired.
 
-දිගින් දිගටම ජල කාන්දුව වැළැක්වීම සඳහා විවිධ ක්‍රියාමාර්ග ගනු ලැබුවත් ඉන් කිසිදු හෝ ප්‍රතිඵලයක් ලබාගත නොහැකි වී ඇති බවද ඔවුන් කාරක සභාවට අවධාරණය කර තිබේ.
+They have emphasized that various measures have been taken to prevent the water leakage.
+
+The committee has informed the Committee on the outside of the prevention of the water to prevent the water.
 
 ...
 
 [Data](articles/af41b9ad.json)
+
+[Extended Data](ext_articles/af41b9ad.ext.json)
+
+---
+
+### Police launch operation to combat cattle theft
+
+*2024-02-22 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-launch-operation-to-combat-cattle-theft/108-277567) · `en`
+
+Colombo, Feb 22 (Daily Mirror) - In a bid to address the rising issue of cattle theft plaguing the dairy farmers nationwide, Police have initiated a special programme under the 'Yukthiya' operation, with the support of intelligence units, to crack down on cattle thieves.
+
+Police said dairy farmers raising cows all over the country had complained that their cows were being stolen by cattle thieves on various occasions.
+
+They said that various requests were also received from government officials in relevant fields in this regard. Acting Inspector General of Police Deshabandu Tennakoon, after examining relevant statistics and discussing with senior police officers, including those from the Civil Defense Security Department, had conducted an investigation into this matter.
+
+...
+
+[Data](articles/ee7b8355.json)
 
 ---
 
@@ -1957,129 +2063,5 @@ Speaking to Daily Mirror, Government Medical Officers' Association (GMOA) Media 
 [Data](articles/4119a3c4.json)
 
 [Extended Data](ext_articles/4119a3c4.ext.json)
-
----
-
-### Medical fraternity urges health authorities to go on alert
-
-*2024-02-22 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Medical-fraternity-urges-health-authorities-to-go-on-alert/108-277552) · `en`
-
-Colombo, Feb 22 (Daily Mirror) -  In light of recent findings suggesting potential rare occurrences of heart, brain, and blood disorders linked to certain Covid-19 vaccines, medical professionals in Sri Lanka urge the health authorities to remain vigilant on the development.
-
-The study in question, conducted by researchers from the Global Vaccine Data Network, a research arm of the World Health Organization (WHO), unearthed Covid vaccines from companies like Pfizer, Moderna and AstraZeneca were linked to rare occurrences of heart, brain and blood disorders.
-
-It targeted population of 99 million vaccinated individuals across eight countries. This study is said to be the largest Covid vaccine study to date.
-
-Speaking to Daily Mirror, Government Medical Officers' Association (GMOA) Media Spokesman Dr. Chamil Wijesinghe said it is better that Sri Lank goes on alert given the gravity of the findings of the study.
-
-...
-
-[Data](articles/45215a7d.json)
-
-[Extended Data](ext_articles/45215a7d.ext.json)
-
----
-
-### Ukraine War - More than 60 Russian soldiers killed in missile attack
-
-*2024-02-22 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177018) · `ta`
-
-More than 60 Russian soldiers have been killed in Ukraine missile attack, the BBC said.
-
-The BBC has cited sources that the Ukraine missile strike was launched while the soldiers were ready for the arrival of a prominent officer at a training site in the Donetsk region.
-
-A Russian official who has accepted the attack has not been exaggerated, but the number of casualties has been exaggerated.
-
-Ukraine's missiles have been attacked while the Siberia -based regiment waited for the arrival of a commander at the training site near Trudawske village.
-
-A Russian soldier said that their commanders were in an open space.
-
-Videos have been revealed that many Russian soldiers have been found dead on a particular site,
-
-◼️
-
-[Data](articles/96208d25.json)
-
-[Extended Data](ext_articles/96208d25.ext.json)
-
----
-
-### UNP leaders - Bimal Ratnayake
-
-*2024-02-22 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177016) · `ta`
-
-83 Black Julie Crimes were carried out in the interim of the leadership of the United National Party (UNP) leadership under the leadership of JR Jayawardena, R. Premadasa and Ranil Wickremesinghe, said National Executive Member Bimal Ratnayake.
-
-We observe that the National People's Power and the People's Liberation Front are increasing among the people in this country.
-
-Therefore, the passengers against us are making unfounded and baseless false allegations against us.
-
-Especially after the people of India, including Anura Kumara Dissanayake, made a visit to India at the invitation of India, the biggest interest and attention of the Tamil people in the country is increasing.
-
-Therefore, various groups associated with the United National Party are making a very false message to prevent the Tamil people from joining us.
-
-...
-
-[Data](articles/2fcd0fb9.json)
-
-[Extended Data](ext_articles/2fcd0fb9.ext.json)
-
----
-
-### Electricity Board spokesman resigns
-
-*2024-02-22 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177013) · `ta`
-
-Ceylon Electricity Board (CEB) spokesman Noel Priyantha has resigned from the claim that students should be used to use the bottle.
-
-Kanchana Vijayasekara has said that many people, including Minister Thondaman, have pointed out that the speaker of the Ceylon Electricity Board (CEB) has no business or compassion or compassion.
-
-Minister of Electricity spokesman Kanjana Wijayasekara said that I am apologizing on behalf of the Ministry and the Electricity Board for his comments.
-
-The Minister said that the Ceylon Electricity Board (CEB) has announced that he has resigned from his post and has demanded amnesty for his comments.
-
-◼️
-
-[Data](articles/ddcde4e0.json)
-
-[Extended Data](ext_articles/ddcde4e0.ext.json)
-
----
-
-### Kokkuttuwai Human Burial 3rd Phase Excavation Case
-
-*2024-02-22 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177015) · `ta`
-
-The case of the Kokkuttuwai human burial excavation work is scheduled to take place today (22) at the Mullaitivu District Court.
-
-The first phase of the human burial ground in the Kokkudoduwai area in the Mullaitivu district began on 06.09.2023 and 17 trunk was suspended and the second phase of the excavation was restored on 20.11.2023 and the second phase of the excavation was held on 20.11.2023.
-
-It is also worth noting that the case will be taken up today for the ongoing third phase of excavations.
-
-◼️
-
-[Data](articles/aada47ec.json)
-
-[Extended Data](ext_articles/aada47ec.ext.json)
-
----
-
-### Sri Lanka’s Seylan Bank to raise 10bn through debenture issue
-
-*2024-02-22 10:36:00* · [`economynextcom`](https://economynext.com/sri-lankas-seylan-bank-to-raise-10bn-through-debenture-issue-151921/) · `en`
-
-ECONOMYNEXT – Seylan Bank Plc said it was planning to raise up to 10 billion through a Basel III compliant debenture sale.
-
-Subject to the approval of the shareholders, the bank will issue 100,000,000 Tier II listed, rated, unsecured, subordinated, redeemable debentures with a non-viability conversion at 100 rupees each, to raise 10 billion rupees.
-
-“One hundred million (100,000,000) debentures will be issued in one or more issuances until 31st December 2024,” the bank said in stock exchange filing.
-
-“The size, tenure/maturity period (minimum five years), coupon rate/s, frequency of coupon/s etc as determined by the Board will be notified prior to the opening of each issue.”
-
-...
-
-[Data](articles/d3603916.json)
-
-[Extended Data](ext_articles/d3603916.ext.json)
 
 ---

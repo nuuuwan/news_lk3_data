@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 23:02:30**
+As of **2024-02-22 23:17:24**
 
 ## Newspaper Stats
 
@@ -26,29 +26,33 @@ dailymirrorlk | 1,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,757 (99.9%) of 8,762 articles have been extended.
+8,762 (100.0%) of 8,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### රෑ වැඩවලින් රට ගොඩගන්න හැටි ඩයනා පෙන්වයි
+### Dianian shows how to recover the country from nightwork
 
 *2024-02-22 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193717) · `si`
 
-රාත්‍රී ආර්ථිකයක් වෙත යොමුවීම මඟින් රටේ විදේශ විනිමය 70%කින් පමණ ඉහළ නංවාගත හැකි බව සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පැවසුවාය.
+Minister of Tourism Diana Gamage said that the country's foreign exchange could increase by 70% by turning to a night economy.
 
-ස්ථාවර රටකට සැවොම එක මඟකට” මැයෙන් අද (22) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් සංචාරක රාජ්‍ය අමාත්‍යවරිය මෙම අදහස් පළකළාය
+At a press conference held at the press conference held at the Presidential Media Center today commented on a press conference held today (22).
 
-ඒ වෙනුවෙන් සංචාරකයන්ගේ ආකර්ෂණය වැඩි වශයෙන් යොමුවී ඇති ස්ථාන ආශ්‍රිතව පවතින නීති රෙගුලාසි සංශෝධනය කරමින් අවශ්‍ය පහසුකම් සැලසිය යුතු බවද රාජ්‍ය අමාත්‍යවරිය සඳහන් කළාය.
+The government minister said that the necessary facilities should be facilitated with the prevailing regulations of the tourist attraction.
 
-ඇතැම් පාර්ශ්ව රාත්‍රී ආර්ථිකය සම්බන්ධව විවිධ චෝදනා එල්ල කළද ලෝකයේ බොහෝ රටවල ආර්ථික වර්ධනය වෙනුවෙන් රාත්‍රී ආර්ථිකය වැදගත් භූමිකාවක් ඉටු කරන බවද රාජ්‍ය අමාත්‍යවරිය පෙන්වා දුන්නාය.
+The Minister of State pointed out that the night economy will play an important role in the late night's economy.
 
-මෙහිදී වැඩිදුරටත් අදහස් දක්වමින් සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය,
+Speaking further Minister of Tourism Diana Gamage added
+
+Different fun activities of various entertainment activities playing a country's economy play a significant role to increase the economy. At night, the country's foreign exchange has increased by 70% to the night economy, including entertainment and restaurants in the night.. Most countries in the world get the contribution of the night economy for economic growth.
 
 ...
 
 [Data](articles/ec8c7ac6.json)
+
+[Extended Data](ext_articles/ec8c7ac6.ext.json)
 
 ---
 
@@ -125,6 +129,8 @@ King coconut water has become an attraction in Colombo these days with the hot w
 ◼️
 
 [Data](articles/8e3f2837.json)
+
+[Extended Data](ext_articles/8e3f2837.ext.json)
 
 ---
 
@@ -548,6 +554,8 @@ Colombo, Feb 22 (Daily Mirror) - In the wake of scathing criticisms on the Minis
 
 [Data](articles/5929b25c.json)
 
+[Extended Data](ext_articles/5929b25c.ext.json)
+
 ---
 
 ### GMOA slams Health Ministry over bogus doctors
@@ -687,6 +695,8 @@ Despite the high prices, people were observed buying vegetables and other commod
 ◼️
 
 [Data](articles/03002556.json)
+
+[Extended Data](ext_articles/03002556.ext.json)
 
 ---
 

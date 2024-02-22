@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 21:02:46**
+As of **2024-02-22 21:17:37**
 
 ## Newspaper Stats
 
-*Scraped **8,738** Articles*
+*Scraped **8,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 464
 adalk | 739
 adaderanalk | 1,051
 tamilmirrorlk | 1,089
-virakesarilk | 1,179
+virakesarilk | 1,181
 adaderanasinhalalk | 1,290
-dailymirrorlk | 1,303
+dailymirrorlk | 1,304
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,738 (100.0%) of 8,738 articles have been extended.
+8,738 (100.0%) of 8,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Hot weather warning for seven districts
+
+*2024-02-22 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hot-weather-warning-for-seven-districts/108-277565) · `en`
+
+Colombo, Feb 22 (Daily Mirror) - The Meteorology Department issued a caution-level heat weather advisory, particularly for the North-Western and North-Central Provinces and Gampaha, Colombo, Hambantota and Trincomalee districts.
+
+According to the heat index issued by the department, the Anuradhapura, Trincomalee, Puttalam, Kurunegala, Polonnaruwa, Gampaha and Colombo Districts will be affected by hot weather conditions.
+
+In the caution level, the department mentioned that fatigue is possible with prolonged exposure and activity and continued activity could result in heat cramps.
+
+“People may suffer heat cramps and exhaustion and continuing activity in the heat or sun could lead to heatstroke,” the advisory warns.
+
+The Met. Dept. also advised the public to remain hydrated and take breaks in the shade as often as possible.
+
+...
+
+[Data](articles/47f0190c.json)
+
+---
+
+### நானுஓயா - ரதெல்ல வீதியில் பேருந்து கவிழ்ந்து விபத்து
+
+*2024-02-22 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177081) · `ta`
+
+◼️
+
+[Data](articles/0f37d9fe.json)
+
+---
 
 ### ‘Welivita Sudda’ arrested with heroin, illegal property seized
 
@@ -151,6 +181,24 @@ It is suspected that the real owner of the specific vehicles may be Welitha Sutt
 [Data](articles/cc58ff80.json)
 
 [Extended Data](ext_articles/cc58ff80.ext.json)
+
+---
+
+### புதிய கட்டண திருத்த முன்மொழிவை பொது பயன்பாட்டு ஆணைக்குழுவிடம் கையளிப்பு
+
+*2024-02-22 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177074) · `ta`
+
+புதிய மின்சார கட்டண திருத்தம் தொடர்பான முன்மொழிவை 22 ஆம் திகதி வியாழக்கிழமை பொது பயன்பாட்டு ஆணைக்குழுவிடம் கையளித்ததாக இலங்கை மின்சார சபை தெரிவித்துள்ளது.
+
+மின்கட்டணத்தை இயலுமான அளவு குறைப்பதற்கு பல்வேறு தரப்பினருடன் பேச்சுவார்த்தைகள் முன்னெடுக்கப்பட்டன. பலர் சாதகமான யோசனைகளை முன்வைத்துள்ளார்கள். இதற்கமைய கடந்த ஒக்டோபர் மாதம் அதிகரிக்கப்பட்ட மின்கட்டணத்தை முழுமையாக இரத்து செய்வதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+மின்சார சபையால் ஈட்டப்படும் இலாபத்தை நுகர்வோருக்கு வழங்கும் நோக்கில் இது தொடர்பான முன்மொழிவுகள் சமர்ப்பிக்கப்படுவதாக அதன் ஊடகப் பேச்சாளர் பொறியியலாளர் நோயல் பிரியந்த 21 ஆம் திகதி புதன்கிழமை தெரிவித்திருந்தார்.
+
+வீட்டு மற்றும் மத தலங்களில் மின்கட்டணம் 18 சதவீதத்தாலும், கைத்தொழில்சாலைகள், ஹோட்டல்களுக்கான மின்கட்டணம் 12 சதவீதத்தாலும், அரச நிறுவனங்கள் மற்றும் திணைக்களங்களுக்கான மின்கட்டணம் 24  சதவீதத்தாலும் குறைக்கப்படும். திருத்தம் செய்யப்பட்ட மின்கட்டண திருத்த யோசனை இன்று வியாழக்கிழமை (22) பொதுப்பயன்பாடுகள் ஆணைக்குழுவிடம் கையளிக்கப்பட்டது.
+
+...
+
+[Data](articles/d1ff4e7a.json)
 
 ---
 
@@ -2025,67 +2073,5 @@ The Colombo Stock market opened up; the All Share Price Index was up 0.05 percen
 [Data](articles/08c07882.json)
 
 [Extended Data](ext_articles/08c07882.ext.json)
-
----
-
-### A cone -shaped tent in the sea
-
-*2024-02-22 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177008) · `ta`
-
-An iron -cone -shaped tent in the Vadamarachchi East Kattaikkadu seas landed on Thursday morning (22).
-
-The fishermen who went to the sea for fishing were immediately observed and informed the navy.
-
-The fishermen's efforts to bring to the shore of the fishermen by their efforts to remove the tent were removed.
-
-It is noteworthy that the Thailand flag was found in such tents in the recent past and that there was no flag in the tent.
-
-◼️
-
-[Data](articles/18da0932.json)
-
-[Extended Data](ext_articles/18da0932.ext.json)
-
----
-
-### EU to brief Sri Lanka on new GSP Regulation today
-
-*2024-02-22 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97449/eu-to-brief-sri-lanka-on-new-gsp-regulation-today) · `en`
-
-The 26th session of the Joint Commission between Sri Lanka and the European Union (EU) will be convened today (Feb.22) in Brussels.
-
-The meeting will be co-chaired by Sri Lanka’s Foreign Secretary, Aruni Wijewardane and EU European External Action Service Deputy Managing Director for Asia Pacific, Paola Pampaloni.
-
-Sri Lanka delegation to the Joint Commission comprises senior officials of the Ministry of Foreign Affairs, Attorney General’s Department and Ministry of Finance.
-
-The EU-Sri Lanka Joint Commission serves as a platform for dialogue and cooperation between Sri Lanka and the European Union, covering a broad range of bilateral and multilateral issues of mutual interest inter alia trade and investments, development assistance, fisheries, education, counter-terrorism, governance and human rights,  Indo-pacific and maritime security and environment.
-
-...
-
-[Data](articles/ecb2722c.json)
-
-[Extended Data](ext_articles/ecb2722c.ext.json)
-
----
-
-### Resolution to stop sending women for homework abroad
-
-*2024-02-22 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177007) · `ta`
-
-The Minister of Labor and Foreign Employment has issued a directive to Manusha Nanayakkara to create a plan to stop sending women for homework overseas.
-
-He has issued the order following a meeting with representatives of the Sri Lanka Foreign Employment Bureau and the Licensed Foreign Employment Agency Association.
-
-At the same time, he emphasized in a statement issued by the Ministry on the importance of moving more skills and higher -paid employment opportunities to improve the rights of immigrant workers.
-
-The action is being taken as the problems faced by Sri Lankan household workers abroad are on the rise.
-
-Reports of abuse, exploitation and unreasonable professional conditions faced by household workers have prompted calls for reform.
-
-◼️
-
-[Data](articles/669ebc29.json)
-
-[Extended Data](ext_articles/669ebc29.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 02:48:50**
+As of **2024-02-23 03:02:28**
 
 ## Newspaper Stats
 
-*Scraped **8,797** Articles*
+*Scraped **8,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 1,054
 tamilmirrorlk | 1,090
 virakesarilk | 1,188
 adaderanasinhalalk | 1,294
-dailymirrorlk | 1,315
+dailymirrorlk | 1,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,797 (100.0%) of 8,797 articles have been extended.
+8,797 (100.0%) of 8,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Adhering to safety rules...
+
+*2024-02-23 02:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Adhering-to-safety-rules/110-277571) · `en`
+
+An elephant brought for the Nawam Perahera at Hunupitiya Gangaramaya temple safely crosses the road at the Viharamahadevi Park pedestrian crossing and enjoys a snack at the library junction food truck. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/1eac66c6.json)
+
+---
 
 ### Members of Parliamentary Committees
 
@@ -1983,27 +1995,5 @@ The student who was seriously injured, died while receiving treatment at the Jaf
 [Data](articles/755742c7.json)
 
 [Extended Data](ext_articles/755742c7.ext.json)
-
----
-
-### Two persons, including a husband who stole 29 pounds of jewelery for giving his wife on Valentine's Day
-
-*2024-02-22 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177039) · `ta`
-
-Two men, including her husband, were arrested in Jaffna for allegedly stealing 29 pounds of jewelery for gifting his wife on Valentine's Day.
-
-A 25 -year -old man from Valvettithurai in Jaffna and a 49 -year -old woman from Kayts were arrested by the Kankesanthurai Regional Crime Branch.
-
-On Valentine's Day, 29 pounds of jewelery were stolen inside the elderly home in Valvettithurai.
-
-A woman was arrested yesterday when he went to mortgage 4 pounds of jewelery in Jaffna.
-
-Following the investigation into the suspect, the main suspect was arrested with a 25 -pound talisman.
-
-◼️
-
-[Data](articles/bf989d5f.json)
-
-[Extended Data](ext_articles/bf989d5f.ext.json)
 
 ---

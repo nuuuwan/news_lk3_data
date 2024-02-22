@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 07:15:25**
+As of **2024-02-22 07:30:28**
 
 ## Newspaper Stats
 
-*Scraped **8,593** Articles*
+*Scraped **8,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 105
 dbsjeyarajcom | 159
 newsfirstlk | 363
 economynextcom | 442
-islandlk | 443
+islandlk | 451
 dailyftlk | 464
 adalk | 735
 adaderanalk | 1,035
-tamilmirrorlk | 1,066
+tamilmirrorlk | 1,067
 virakesarilk | 1,154
 adaderanasinhalalk | 1,257
 dailymirrorlk | 1,279
@@ -26,7 +26,7 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,593 (100.0%) of 8,593 articles have been extended.
+8,593 (99.9%) of 8,602 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -87,6 +87,24 @@ There have been many changes in the country since 2020. The government of Ranil 
 [Data](articles/60f3baa4.json)
 
 [Extended Data](ext_articles/60f3baa4.ext.json)
+
+---
+
+### அதிக வெப்பம்: மக்களுக்கு எச்சரிக்கை
+
+*2024-02-22 01:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்பம்-மக்களுக்கு-எச்சரிக்கை/175-333633) · `ta`
+
+வடமேல் மாகாணத்திலும் சில மாவட்டங்களிலும் அதிக வெப்பம் நிலவும் என எச்சரிக்கை அறிவித்தல் பிறப்பிக்கப்பட்டுள்ளது.
+
+வடமேல் மாகாணம் மற்றும் கம்பஹா, கொழும்பு, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களுக்கு இந்த எச்சரிக்கை அறிவித்தல் பிறப்பிக்கப்பட்டுள்ளது.
+
+சில இடங்களில் மனித உடலில் உணரப்படும் வெப்பம் அவதான மட்டத்தில் தொடரும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+போதுமான தண்ணீர் அருந்துதல், அதிக சோர்வை ஏற்படுத்தும் செயற்பாடுகளில் ஈடுபடாதிருத்தல், வெள்ளை அல்லது வெளிர் நிற ஆடைகளை அணிதல், நிழலான இடங்களில் தங்கியிருத்தல் என்பனவற்றை பின்பற்றுமாறு வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. (a)
+
+◼️
+
+[Data](articles/10af6193.json)
 
 ---
 
@@ -447,6 +465,20 @@ On the other hand, Betham Nissanka, who was playing efficiently, fell on his lef
 [Data](articles/fbdfa066.json)
 
 [Extended Data](ext_articles/fbdfa066.ext.json)
+
+---
+
+### Improved trading in blue-chips lifts CSE fortunes
+
+*2024-02-21 22:54:00* · [`islandlk`](http://island.lk/improved-trading-in-blue-chips-lifts-cse-fortunes/) · `en`
+
+Stock market trading witnessed a degree of negativity early yesterday but during the latter part of the day it evinced some bullish sentiment due to trading improving in blue-chip companies, market analysts said.
+
+Both indices moved upwards. The All Share Price Index went up by 11.2 points and S and P SL20 rose by 5.2 points. Turnover stood at Rs 880 million with three crossings. Those crossings were reported in LB Finance, which crossed 460,000 shares to the tune of Rs 28 million and its shares traded at Rs 61, HNB 165,000 share crossed for Rs 26.4 million; its shares traded at Rs 160 and Melstacope 250,000 shares crossed for Rs 22.25 million; its shares price sold at Rs 89.
+
+...
+
+[Data](articles/3c148302.json)
 
 ---
 
@@ -2071,53 +2103,5 @@ Meanwhile, inflation increased from 1.6 per cent in December 2023 to 4.1 per cen
 [Data](articles/0ef44644.json)
 
 [Extended Data](ext_articles/0ef44644.ext.json)
-
----
-
-### Fine if you sell cotton candy
-
-*2024-02-21 15:26:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஞ்சு-மிட்டாய்-விற்றால்-அபராதம்/175-333594) · `ta`
-
-Pink Color Punch Candidate, which is sold at tourist attractions, including beaches and entertainment parks, has been mixed with toxic chemicals.. Following this, food security officials inspected the cotton candies.
-
-It is then that the toxic substance that produces cancer that is harmful to the body. Following this, the Government of Tamil Nadu banned 'Pink' color cotton candy. Following this, the food officer headed by Chennai District Food Nomination Officer Satish Kumar is sold in Chennai in Chennai?They are actively investigating and monitoring.
-
-“The cotton candy, which is made of 'pink' that is harmful to the body, is not currently sold in any part of Chennai. Only white cotton candy that does not include color is being sold.
-
-...
-
-[Data](articles/057f4309.json)
-
-[Extended Data](ext_articles/057f4309.ext.json)
-
----
-
-### Sarath Fonseka Interview to Indian Media
-
-*2024-02-21 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/176963) · `ta`
-
-Joining the government is now a matter of question. Who wants to board a shipwreck.
-
-There are reports that the United People's Power is trying to get rid of you - can we talk about whether these rumors are true or not?
-
-You know that we are facing the most bad situation, especially in relation to the economy.
-
-Everyone knows that the country is in the grip of debt and has reached bankruptcy.
-
-The income of the people has not increased but the costs have increased, causing people to be in great crisis.
-
-What do you want to report in the Sri Lankan media that the United People's Power is trying to get you out of the United States?
-
-Answer- The party is doing well but I have faced some things. I tried to find a solution to these issues.
-
-This is relevant to joining some people in the party, and they are currently joining our opponents with the current ruling party five years ago.
-
-One of them is a former military commander - I think that even though he is in the army, his actions are not acceptable.
-
-...
-
-[Data](articles/b30eaf2a.json)
-
-[Extended Data](ext_articles/b30eaf2a.ext.json)
 
 ---

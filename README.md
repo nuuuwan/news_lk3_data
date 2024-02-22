@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 01:02:43**
+As of **2024-02-23 01:17:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,772 (99.8%) of 8,787 articles have been extended.
+8,778 (99.9%) of 8,787 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Sirisena should have been heard by the students. From every dialog there is some
 ...
 
 [Data](articles/070026e2.json)
+
+[Extended Data](ext_articles/070026e2.ext.json)
 
 ---
 
@@ -82,6 +84,8 @@ While every conflict is different, there were – and are – features of the Ga
 
 [Data](articles/936b846b.json)
 
+[Extended Data](ext_articles/936b846b.ext.json)
+
 ---
 
 ### Values mixed up?
@@ -95,6 +99,8 @@ In recent times, there is a massive campaign launched in Sri Lanka to eliminate 
 ...
 
 [Data](articles/946be25b.json)
+
+[Extended Data](ext_articles/946be25b.ext.json)
 
 ---
 
@@ -112,6 +118,8 @@ Forty countries of Asia and the Pacific attended the APRC, with the vast majorit
 
 [Data](articles/d219c636.json)
 
+[Extended Data](ext_articles/d219c636.ext.json)
+
 ---
 
 ### Indian High Commissioner makes first visit to Northern Province
@@ -126,6 +134,8 @@ Diverse engagements during the visit attest to the deep-rooted nature of the bil
 
 [Data](articles/d5ddc30e.json)
 
+[Extended Data](ext_articles/d5ddc30e.ext.json)
+
 ---
 
 ### JICA partners Medico-Legal Society in creating awareness on addressing sexual bribery
@@ -139,6 +149,8 @@ The oration was delivered by University of Kelaniya Chief Professor of English S
 ...
 
 [Data](articles/b5de0a18.json)
+
+[Extended Data](ext_articles/b5de0a18.ext.json)
 
 ---
 

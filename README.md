@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 22:49:53**
+As of **2024-02-22 23:02:30**
 
 ## Newspaper Stats
 
-*Scraped **8,757** Articles*
+*Scraped **8,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 744
 adaderanalk | 1,053
 tamilmirrorlk | 1,090
 virakesarilk | 1,182
-adaderanasinhalalk | 1,293
-dailymirrorlk | 1,308
+adaderanasinhalalk | 1,294
+dailymirrorlk | 1,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,757 (100.0%) of 8,757 articles have been extended.
+8,757 (99.9%) of 8,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### රෑ වැඩවලින් රට ගොඩගන්න හැටි ඩයනා පෙන්වයි
+
+*2024-02-22 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193717) · `si`
+
+රාත්‍රී ආර්ථිකයක් වෙත යොමුවීම මඟින් රටේ විදේශ විනිමය 70%කින් පමණ ඉහළ නංවාගත හැකි බව සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පැවසුවාය.
+
+ස්ථාවර රටකට සැවොම එක මඟකට” මැයෙන් අද (22) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් සංචාරක රාජ්‍ය අමාත්‍යවරිය මෙම අදහස් පළකළාය
+
+ඒ වෙනුවෙන් සංචාරකයන්ගේ ආකර්ෂණය වැඩි වශයෙන් යොමුවී ඇති ස්ථාන ආශ්‍රිතව පවතින නීති රෙගුලාසි සංශෝධනය කරමින් අවශ්‍ය පහසුකම් සැලසිය යුතු බවද රාජ්‍ය අමාත්‍යවරිය සඳහන් කළාය.
+
+ඇතැම් පාර්ශ්ව රාත්‍රී ආර්ථිකය සම්බන්ධව විවිධ චෝදනා එල්ල කළද ලෝකයේ බොහෝ රටවල ආර්ථික වර්ධනය වෙනුවෙන් රාත්‍රී ආර්ථිකය වැදගත් භූමිකාවක් ඉටු කරන බවද රාජ්‍ය අමාත්‍යවරිය පෙන්වා දුන්නාය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දක්වමින් සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය,
+
+...
+
+[Data](articles/ec8c7ac6.json)
+
+---
 
 ### Two arrested for misleading school children
 
@@ -93,6 +113,18 @@ The speaker, Lindsay Hoyle, eventually apologised and said he had made his decis
 [Data](articles/0f37d9fe.json)
 
 [Extended Data](ext_articles/0f37d9fe.ext.json)
+
+---
+
+### King Coconut to quench thirst...
+
+*2024-02-22 21:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/King-Coconut-to-quench-thirst/110-277572) · `en`
+
+King coconut water has become an attraction in Colombo these days with the hot weather, with people seeking to quench their thirst.  The Department of Meteorology has warned the public not to stay in the sunlight for long periods. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/8e3f2837.json)
 
 ---
 
@@ -504,6 +536,20 @@ In household and religious places, the electricity will be reduced by 18 percent
 
 ---
 
+### GMOA slams Health Ministry over quacks
+
+*2024-02-22 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/GMOA-slams-Health-Ministry-over-quacks/155-277564) · `en`
+
+Colombo, Feb 22 (Daily Mirror) - In the wake of scathing criticisms on the Ministry of Health's handling of the proliferation of quacks in Sri Lanka, the Government Medical Officers' Association (GMOA) has raised serious concerns over the rampant illegal practice of medicine across the country.
+
+“In Sri Lanka, the practice of medicine has to be strictly regulated, requiring individuals to possess a valid registration with either the Sri Lanka Medical Council, Ayurvedic Medical Council, or Homeopathic Medical Council, and meet required qualifications. Those practicing without such registrations are deemed fake doctors, posing a grave risk to public health,” the GMOA said in a special statement.
+
+...
+
+[Data](articles/5929b25c.json)
+
+---
+
 ### GMOA slams Health Ministry over bogus doctors
 
 *2024-02-22 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-slams-Health-Ministry-over-bogus-doctors/108-277564) · `en`
@@ -629,6 +675,18 @@ He is suspected as the actual owner of the fleet of vehicles, including five lux
 [Data](articles/c9f810e5.json)
 
 [Extended Data](ext_articles/c9f810e5.ext.json)
+
+---
+
+### Buying expensive veggies...
+
+*2024-02-22 16:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Buying-expensive-veggies/110-277573) · `en`
+
+Despite the high prices, people were observed buying vegetables and other commodities at Bodhiraja Mawatha in Colombo Fort today. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/03002556.json)
 
 ---
 
@@ -2003,89 +2061,5 @@ The four suspects, aged 30, 26, 22 and 23, were produced before the Kalmunai Mag
 [Data](articles/1ba7c1a3.json)
 
 [Extended Data](ext_articles/1ba7c1a3.ext.json)
-
----
-
-### Don't go near the forestry nearby
-
-*2024-02-22 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193696) · `si`
-
-While roaming the Habarana forest reserve, a wild elephant was wandering at Habarana - Dambulla main road, and several tourists were invented by the Wanlon.
-
-The animals are hanging on this road daily due to the use of food to provide food.
-
-In the meantime, a person who was carrying tourists from a three-wheeler was stopped, and the camera had been given a photo near the tourist.
-
-Meenals were previously reported beforehadowing the vehicle-wielding vessels in the face of such incidents.
-
-Wildlife officials demand that tourists and passengers should avoid such risks.
-
-◼️
-
-[Data](articles/c28a9a00.json)
-
-[Extended Data](ext_articles/c28a9a00.ext.json)
-
----
-
-### CEB spokesman resigns after insensitive comments
-
-*2024-02-22 11:04:00* · [`economynextcom`](https://economynext.com/ceb-spokesman-resigns-after-insensitive-comments-151927/) · `en`
-
-ECONOMYNEXT – The official spokesman of the Ceylon Electricity Board, Sri Lanka’s state-owned electricity supplier, has resigned from the post after controversial comments he made on a talk show sparked anger.
-
-CEB spokesman engineer Noel Priyantha told a talk show on the TV station Ada Derana on Tuesday that children don’t need electricity, or lights, to study and can do so with a kerosene lamp. “People have got used to free electricity… Why do children need electricity to study? If there is no electricity they can use a bottle lamp (ku-ppi lam-pu-wa).. That’s how I studied. People should know to use what they have and come up in life.”
-
-“The Management of CEB has also informed me that the spokesperson has tendered his resignation from the post and issued a public apology for his statement. The management will also take appropriate steps regarding the statement made,” Minister of Power and Energy Kanchana Wijesekera said on X (twitter) Thursday.
-
-...
-
-[Data](articles/f2ac454f.json)
-
-[Extended Data](ext_articles/f2ac454f.ext.json)
-
----
-
-### Prime Minister assures action against CEB spokesman
-
-*2024-02-22 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prime-Minister-assures-action-against-CEB-spokesman/108-277550) · `en`
-
-Parliament, Feb. 22 (Daily Mirror)- Prime Minister Dinesh Gunawardane assured Parliament that an inquiry will be held into the statement made by the CEB media spokesman and necessary action will be taken against him.
-
-The Prime Minister told Parliament that instructions have been given to respective authorities to take disciplinary action against the media spokesman after an inquiry.
-
-He said this in response to a question raised by Opposition Leader Sajith Premadasa that action must be taken against the CEB spokesman who had said that children should study under the light of oil lamps.
-
-The Opposition Leader added that the spokesman also had stated that men in estates consume booze after 2 pm and that it was an insult to the estate community.
-
-He urged the government to interdict the spokesman and launch an inquiry.
-
-◼️
-
-[Data](articles/680e2a67.json)
-
-[Extended Data](ext_articles/680e2a67.ext.json)
-
----
-
-### Government to introduce E-Passport service to eliminate long queues at Immigration Dept.
-
-*2024-02-22 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-introduce-E-Passport-service-to-eliminate-long-queues-at-Immigration-Dept/108-277551) · `en`
-
-Colombo. Feb. 22 (Daily Mirror) - Efforts are being made to introduce the E-Passport service to eliminate the long queues at the Immigration and Emigration Department office in Battaramulla.
-
-Addressing the media Minister, Tiran Alles said that long queues have been created to obtain passports for the Korean Language Proficiency Test.
-
-He mentioned ongoing discussions with the Korean government to implement a system where passports are issued only to those who pass the exam.
-
-Additionally, the Minister shared updates on measures being taken in various sectors across the nation.
-
-He said that all preparations have been completed to issue the new National Identity Cards (NIC) through the Department for Registration of Persons.
-
-◼️
-
-[Data](articles/b76f9885.json)
-
-[Extended Data](ext_articles/b76f9885.ext.json)
 
 ---

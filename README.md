@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 03:02:28**
+As of **2024-02-23 03:17:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,797 (100.0%) of 8,798 articles have been extended.
+8,798 (100.0%) of 8,798 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ An elephant brought for the Nawam Perahera at Hunupitiya Gangaramaya temple safe
 ◼️
 
 [Data](articles/1eac66c6.json)
+
+[Extended Data](ext_articles/1eac66c6.ext.json)
 
 ---
 

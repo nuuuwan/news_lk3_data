@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 08:50:24**
+As of **2024-02-22 09:02:38**
 
 ## Newspaper Stats
 
-*Scraped **8,608** Articles*
+*Scraped **8,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,114 @@ newsfirstlk | 363
 economynextcom | 442
 islandlk | 451
 dailyftlk | 464
-adalk | 735
+adalk | 736
 adaderanalk | 1,036
-tamilmirrorlk | 1,068
+tamilmirrorlk | 1,072
 virakesarilk | 1,154
-adaderanasinhalalk | 1,261
+adaderanasinhalalk | 1,264
 dailymirrorlk | 1,279
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,608 (100.0%) of 8,608 articles have been extended.
+8,608 (99.9%) of 8,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### මුඛ පිළිකා වැළඳීමේ වර්ධනයක්
+
+*2024-02-22 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193686) · `si`
+
+තරුණයන් අතර මුඛ පිළිකා වැළඳීමේ සම්භාවිතාව ඉහළ ගොස් ඇති බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
+
+මුඛ හා හනුක ශල්‍ය වෛද්‍ය තනුජා දක්ෂිලි පතිරාජ මහත්මිය පැවසුවේ, පසුගිය කාලසීමාව තුළ මුඛ පිළිකා වැළඳීමේ වර්ධනයක් පෙන්නුම් කරන බවයි.
+
+සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් වෛද්‍ය තනුජා දක්ෂිලි පතිරාජ මහත්මිය මේ බව සඳහන් කළා ය.
+
+මේ අතර, කාන්තාවන්ට ගැබ්ගෙල පිළිකා වැළදීම යම්තාක් දුරට අඩු වී ඇති බව පවුල් සෞඛ්‍ය කාර්යාංශයේ අධ්‍යක්ෂ විශේෂඥ වෛද්‍ය චිත්‍රමාලි ද සිල්වා මහත්මිය අවධාරණය කර තිබේ.
+
+◼️
+
+[Data](articles/3f4e5b27.json)
+
+---
+
+### யாழில் ஒரே மாதத்தில் 531 பேர் கைது
+
+*2024-02-22 08:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-ஒரே-மாதத்தில்-531-பேர்-கைது/175-333638) · `ta`
+
+யாழ்ப்பாணத்தில் தேடப்பட்டு வந்த 531 பேர் கடந்த ஒரு மாத கால பகுதிக்குள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பல்வேறு குற்றச் செயல்களுடன் தொடர்புடைய, நீதிமன்றங்களினால் பிடியாணைகள் பிறப்பிக்கப்பட்டவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+பிடியாணை பிறப்பிக்கப்பட்ட 230 நபர்களும் திறந்த பிடியாணை பிறப்பிக்கப்பட்ட 301 நபர்களுமே பொலிஸாரினால் கைது செய்யப்பட்டு நீதிமன்றங்களில் முற்படுத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/6f055a18.json)
+
+---
+
+### கேக் நோனாவை உடனடியாக கைது செய்யவும்;எம்.பி கோரிக்கை
+
+*2024-02-22 08:01:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேக்-நோனாவை-உடனடியாக-கைது-செய்யவும்-எம்-பி-கோரிக்கை/175-333637) · `ta`
+
+சமூக ஊடகங்களில் தன்னை அவதூறாகப் பேசியதாகக் கூறப்படும் களுத்துறையைச் சேர்ந்த கேக் நோனா என்ற பெண்ணுக்கு எதிராக நடவடிக்கை எடுக்குமாறு ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன சபாநாயகரிடம் கோரிக்கை விடுத்துள்ளார்.
+
+நேற்று (பிப்ரவரி 21) பாராளுமன்றத்தில் உரையாற்றிய பாராளுமன்ற உறுப்பினர் அபேகுணவர்தன, தனக்கும் பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனுக்கும் எதிராக குறித்த பெண் சமூக ஊடகங்களில் தீங்கிழைக்கும் பதிவுகளை வெளியிடுவதாக தெரிவித்தார்.
+
+SLPP எம்.பி., அந்த பெண் தனது சமூக ஊடக பதிவுகள் மூலம் அவரை திருடன் என்று அழைத்ததாகவும், அவரை உடனடியாக கைது செய்யுமாறும் அழைப்பு விடுத்துள்ளார்.
+
+இது தனது பாராளுமன்ற சிறப்புரிமைகளை மீறுவதாகக் கூறியுள்ள பாராளுமன்ற உறுப்பினர் அபேகுணவர்தன, இவ்வாறான தீங்கிழைக்கும் கருத்துக்கள் தம்முடைய உயிருக்கு அச்சுறுத்தலை ஏற்படுத்தும் எனவும் சுட்டிக்காட்டினார்.
+
+தவறு செய்திருந்தால் மட்டுமே இவ்வாறான கருத்துக்களை ஏற்றுக்கொள்ள முடியும் என தெரிவித்த அவர், அவ்வாறு இல்லை எனில் இவ்வாறு விமர்சிப்பது நியாயமற்றது எனவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/b95cd5d8.json)
+
+---
+
+### மின் கட்டணம் முற்றிலும் குறைக்கப்படும்
+
+*2024-02-22 07:53:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-முற்றிலும்-குறைக்கப்படும்/175-333636) · `ta`
+
+கடந்த ஆண்டு ஒக்டோபரில் அதிகரிக்கப்பட்ட 18 சதவீத மின் கட்டணத்தை உள்நாட்டு பிரிவினருக்கு குறைக்கும் வகையில், மின் கட்டண திருத்தம் குறித்த புதிய முன்மொழிவு முன்வைக்கப்பட்டுள்ளதாக, மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சனா விஜேசேகர நேற்று (21) தெரிவித்தார்.
+
+கடந்த ஒக்டோபர் மாதம் உள்நாட்டு நுகர்வோர் மற்றும் மத வழிபாட்டுத் தலங்களின் மின்சாரக் கட்டணம் 18 சதவீதத்தாலும், தொழில் மற்றும் ஹோட்டல் துறைக்கான கட்டணங்கள் 12 சதவீதத்தாலும், பொதுக் கட்டிடங்கள் உள்ளிட்ட பொது நோக்கங்களுக்கான கட்டணங்கள் 24 சதவீதத்தாலும் அதிகரிக்கப்பட்டதாகவும் அவை யாவும் புதிய திருத்தத்தில் முற்றாக குறைக்கப்படும் எனவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+மின்சாரக் கட்டணத் திருத்தம் தொடர்பான புதிய முன்மொழிவுகள் நாளை இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் (PUCSL) கையளிக்கப்படும் என்றார்.
+
+முன்னதாக இலங்கை மின்சார சபையானது கட்டணத்தை 3 வீதத்தால் குறைக்க முன்மொழிந்திருந்ததாக அவர் கூறினார்.
+
+◼️
+
+[Data](articles/5d061a99.json)
+
+---
+
+### දිස්ත්‍රික් කිහිපයක ජනතාවට අවවාදාත්මක නිවේදනයක්
+
+*2024-02-22 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193685) · `si`
+
+පවතින උණුසුම් කාලගුණ තත්ත්වයත් සමඟ දිවයිනේ දිස්ත්‍රික් කිහිපයක් සඳහා කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+
+වයඹ පළාත සහ ගම්පහ, කොළඹ, හම්බන්තොට, මොණරාගල යන දිස්ත්‍රික්කවල අද (22) දිනයේ උණුසුම් දර්ශකය ඉහළ අගයක් ගනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+මේ සම්බන්ධයෙන් ජනතාව අවධානය යොමු කළ යුතු බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ අනාවැකිකරණ අංශයේ අධ්‍යක්ෂ අජිත් විජේමාන්න මහතා පැවසීය.
+
+මේ අතර, පවතින උණුසුම් කාලගුණ තත්ත්වය සමඟ ළමුන් අතර සමේ රෝග වර්ධනය වීමක් දක්නට ලැබෙන බව ළමා රෝග පිළිබඳ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+
+පවතින තත්ත්වය හමුවේ දරුවන් හිරු එළියට නිරාවරණය කිරීම සීමා කළ යුතු බව විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා වැඩිදුරටත් සඳහන් කළේ ය.
+
+◼️
+
+[Data](articles/2119be7c.json)
+
+---
 
 ### Sri Lanka nabs oil polluting tanker using satellite surveillance - report
 
@@ -49,6 +141,22 @@ The MEPA reports the stain was confirmed in satellite images nearly seven miles 
 [Data](articles/1dc8c2e2.json)
 
 [Extended Data](ext_articles/1dc8c2e2.ext.json)
+
+---
+
+### හිමිනම ඝාතන සිද්ධියට සැකකාරියක් අත්අඩංගුවට
+
+*2024-02-22 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193684) · `si`
+
+මල්වතුහිරිපිටිය කහටාන ශ්‍රී ඝනාරාම විහාරස්ථානයේ වැඩවිසූ හිමිනමක් වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට අදාළව තරුණියක් අත්අඩංගුවට ගෙන තිබේ.
+
+අදාළ ඝාතනයේ ප්‍රධාන සැකකරුට ආධාර අනුබල දීම, රැකවරණය ලබාදීම සහ සත්‍ය තොරතුරු වසන් කිරීමේ චෝදනාව යටතේ සැකකාරියව මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+පොලීසිය සඳහන් කළේ ඊයේ (21) උදෑසන අරලගංවිල වේරගල ප්‍රදේශයේදී ඇයව අත්අඩංගුවට ගත් බවය.
+
+◼️
+
+[Data](articles/6746f03b.json)
 
 ---
 
@@ -199,6 +307,24 @@ There have been many changes in the country since 2020. The government of Ranil 
 [Data](articles/60f3baa4.json)
 
 [Extended Data](ext_articles/60f3baa4.ext.json)
+
+---
+
+### ’எந்தவொரு நடவடிக்கையும் நிறுத்தப்படமாட்டாது’
+
+*2024-02-22 02:21:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்தவொரு-நடவடிக்கையும்-நிறுத்தப்படமாட்டாது/175-333635) · `ta`
+
+போதைப்பொருள் மற்றும் பாதாள உலகத்தை ஒடுக்குவதற்கும், பெண்கள் மற்றும் சிறுவர்களுக்கு எதிரான வன்முறைகளைத் தடுக்கும் நோக்கிலும் ஆரம்பிக்கப்பட்டுள்ள எந்தவொரு நடவடிக்கையையும் நிறுத்தத் தயாரில்லை என்று  பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று  நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+போதைப்பொருள் மற்றும் பாதாள உலகத்தை ஒடுக்குதல் மற்றும் பெண்கள் மற்றும் சிறுவர்களுக்கு எதிரான வன்முறைகளைத் தடுப்பது தொடர்பான நடவடிக்கைகள் தொடர்ச்சியாக மேற்கொள்ளப்பட்டு வருகின்றன. எத்தகைய அழுத்தங்கள் வந்தாலும் இந்த செயற்பாடுகளை நிறுத்துவதற்கு நாங்கள் தயாராக இல்லை.
+
+இந்த வேலைத்திட்டம் தொடர்பில் எம்மீது பல்வேறு குற்றச்சாட்டுகள் முன்வைக்கப்படுகின்றன. இந்த செயற்பாட்டைச் சீர்குலைக்க பல்வேறு நபர்களும் குழுக்களும் முயற்சித்து வருகின்றனர். போதைப்பொருள் வலையமைப்பு மூலம் பணம் பெறுபவர்கள் அந்தக் குழுக்களுக்கு பணத்தை செலவிடுவதாக எமக்கு தகவல் கிடைத்துள்ளது என்றார். (a)
+
+◼️
+
+[Data](articles/e37071d0.json)
 
 ---
 
@@ -1051,6 +1177,26 @@ She was unexpected at Battaramulla Wickremesingura Junction in Battaramulla.
 [Data](articles/2e18d260.json)
 
 [Extended Data](ext_articles/2e18d260.ext.json)
+
+---
+
+### ධාන්‍ය වර්ග කිහිපයක වෙළඳ භාණ්ඩ බද්ද ඉහළට
+
+*2024-02-21 19:36:00* · [`adalk`](https://www.ada.lk/breaking_news/ධාන්‍ය-වර්ග-කිහිපයක-වෙළඳ-භාණ්ඩ-බද්ද-ඉහළට/11-408227) · `si`
+
+උඳු, මුං ඇට, කව්පි, බඩඉරිඟු, කුරක්කන් සහ මිලට් ආනයනයේදී අය කළ විශේෂ වෙළෙඳ භාණ්ඩ බදු ඉහළ නංවමින් නව ගැසට් පත්‍රයක් නිකුත් කර තිබේ.
+
+ඒ අනුව කව්පි (අනෙකුත්), බීජ කුරක්කන් (ඉලියුසිනේ කොරකාන විශේෂ), බීජ - අනෙකුත් (මිලට්), කුරක්කන් (ඉලියුසිනේ කොරකාන විශේෂ) හා මිලට් (අනෙකුත්) ආනයනයේදී මෙතෙක් පැවති කිලෝග්‍රෑමයකට රුපියල්70ක් වූ විශේෂ වෙළෙඳ භාණ්ඩ බද්ද රුපියල් 300ක් දක්වාත් ඉහළ නංවා ඇත.
+
+මෙම ගැසට් පත්‍රයට අනුව උඳු (අනෙකුත්) සඳහා මෙතෙක් කිලෝග්‍රෑමයකට රුපියල්200ක්ව පැවති විශේෂ වෙළෙඳ භාණ්ඩ බද්ද රුපියල්300ක් දක්වා ඉහළ නංවා තිබේ.ඒ අනුව එම බද්ද සියයට 50කින් ඉහළ දමා ඇත.
+
+මීට අමතරව බඩඉරිඟු සඳහාද රුපියල් 25ක වෙළෙඳ භාණ්ඩ බද්දක් නියම කර ඇත.
+
+මේ අතර බඩඉරිඟු, උඳු, මුං ඇට, කව්පි හා කුරක්කන් ආනයනය කිරීම කෘෂිකර්ම අමාත්‍යාංශයේ නිර්දේශය මත සිදු කළ යුතු බවට මෙම ගැසට් නිවේදනයෙන් අවධාරණය කර තිබේ.
+
+◼️
+
+[Data](articles/6d8682f0.json)
 
 ---
 
@@ -1951,169 +2097,5 @@ SLPP MP Sarath Weerasekara told Parliament that the President's efforts to rescu
 [Data](articles/4c930d48.json)
 
 [Extended Data](ext_articles/4c930d48.ext.json)
-
----
-
-### Research links COVID-19 vaccines with increased heart risks, brain and blood disorders
-
-*2024-02-21 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97438/research-links-covid-19-vaccines-with-increased-heart-risks-brain-and-blood-disorders) · `en`
-
-Amidst the battle against the COVID-19 pandemic, vaccines emerged as a beacon of hope, offering humanity a vital tool against the deadly virus. However, recent research has introduced a concerning twist to this narrative.
-
-Since the onset of the pandemic, approximately 13.5 billion COVID-19 vaccines have been administered worldwide, marking a significant milestone in the fight against the virus. Notably, around 71% of the global population has received at least one dose of a COVID vaccine.
-
-Despite the widespread vaccination efforts, a recent peer-reviewed study has now sparked health concerns among this substantial portion of the global population. Its findings have linked COVID vaccines from prominent companies such as Pfizer, Moderna and AstraZeneca to rare occurrences of heart, brain and blood disorders.
-
-...
-
-[Data](articles/d2c7b7bd.json)
-
-[Extended Data](ext_articles/d2c7b7bd.ext.json)
-
----
-
-### President declares open Scout Jamboree
-
-*2024-02-21 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193660) · `si`
-
-The 10th National Scout Jamboree opened President Ranil Wickremesinghe.
-
-The President reportedly opened the Scout Jamboree as the Chief Scout in the country this morning.
-
-Sri Lanka and the participation of 11,500 Scouts of 28 other countries will be held in Trincomalee.
-
-The President has emphasized that the import of the Scout Movement that creates the good citizens of the country.
-
-◼️
-
-[Data](articles/dcec40d3.json)
-
-[Extended Data](ext_articles/dcec40d3.ext.json)
-
----
-
-### 'Pregnant Male'
-
-*2024-02-21 16:26:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கருவை-சுமந்த-கர்ப்பிணி-ஆண்/53-333602) · `ta`
-
-There is a lot of medical research on the world about whether men can get pregnant. But he has been carrying the baby in the stomach for 36 years. Many people are not aware of the details of the person called 'Pregnant Man'.
-
-In 1963, Sanju Bhagat was born in Nagpur, Maharashtra.. He first looked like a normal person and began to look like a pregnant man over 20 years old. It was only later that he found someone born with her in his stomach. The event was a huge speech in 1999.
-
-That is, Sanju Bhagat kept a man who was born with him since his birth. Doctors say this is Medical Miracle.
-
-His stomach was normal until the age of 20. After that, the stomach suddenly began to giggle and was shocked by her and his family.
-
-At first he did not take care of this. It was difficult to breathe at one point to grow the stomach to grow up. Only then did he approach the doctor.
-
-...
-
-[Data](articles/58f41787.json)
-
-[Extended Data](ext_articles/58f41787.ext.json)
-
----
-
-### Sister in Anuradhapura arrested
-
-*2024-02-21 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193659) · `si`
-
-Police have arrested a woman in Anuradhapura to be arrested on suspicion of heroin racket.
-
-The suspect is a racketeer called the aliasing 'sister'.
-
-The suspect is revealed that the 'Vaulum Prisoners' in the Boossa Prison and the racketeer of Kosgoda Prisoners.
-
-Nearly 15 grams of heroin were found in possession of the suspect in the Thambuththegama area.
-
-The suspect was arrested in a raid conducted by the Anuradhapura Police Crime Investigation Unit.
-
-The police were also arrested by the police and they will be conducting detention orders and obtain detention orders.
-
-Police have also revealed that the traffickers detained at the suspect and the Boossa Prison have taken place.
-
-◼️
-
-[Data](articles/10a4cb59.json)
-
-[Extended Data](ext_articles/10a4cb59.ext.json)
-
----
-
-### Sri Lanka Education Administrative Service Officer in the East protests against the attack
-
-*2024-02-21 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/176968) · `ta`
-
-A protest march was launched in front of the Eastern Provincial Department of Education on Wednesday (21) over the attack on the Sri Lanka Education Administrative Service Officer.
-
-Deputy Director of Education of the Eastern Province. Sri Lanka Teachers' Union Representative. The struggle was carried out by the Udayarupan's duty at the time of duty and condemned it.
-
-Deputy Director of Education has been admitted to the Trincomalee General Hospital. The teacher has been arrested in connection with the attack, the Trincomalee headquarters police said.
-
-An appeal meeting on teacher transfers for 2024 was held at the Provincial Department of Education on Tuesday 20th. Sri Lanka Teachers Union Member Bee, who was presented at the meeting. The office staff quietly expressed their opposition to the Udaya Ruben meeting, saying that the first provincial education director was appointed to the Director of Education and that he had attacked the Deputy Director of Education and condemned it.
-
-...
-
-[Data](articles/110895ed.json)
-
-[Extended Data](ext_articles/110895ed.ext.json)
-
----
-
-### Tomorrow, Gampaha, Colombo, Hambantota and Moneragala
-
-*2024-02-21 16:08:14* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වයඹ--ගම්පහ--කොළඹ---හම්බන්තොට-සහ-මොණරාගල-රත්වෙයි/11-408220) · `si`
-
-The Meteorological Department has been informed that the warm index of the North Western provinces and the warmth of the human body is expected in the North Western Provinces and the Colombo-Hambantota and Moneragala districts.
-
-Speaking further, they say that if the workplace is used to drink enough water, to rest in the shadow.
-
-Similarly, small children are used to use white or light, and lightwear for clothes. Working in outdoors should be restricted to limit the hard work.
-
-◼️
-
-[Data](articles/a8ef4e73.json)
-
-[Extended Data](ext_articles/a8ef4e73.ext.json)
-
----
-
-### President and Iranian FM discuss Persian Gulf’s crucial role in broader Indian Ocean security
-
-*2024-02-21 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97437/president-and-iranian-fm-discuss-persian-gulfs-crucial-role-in-broader-indian-ocean-security-) · `en`
-
-Iranian Minister of Foreign Affairs, Hossein Amir-Abdollahian has reaffirmed Iran’s dedication to fostering tourism to Sri Lanka and strengthening cultural ties between the two nations.
-
-Engaging in a discussion with President Ranil Wickremesinghe during an official visit to Sri Lanka, the Iranian Foreign Minister also conveyed Iran’s eagerness to explore avenues for expanded economic cooperation with Sri Lanka.
-
-The meeting, held at the Presidential Secretariat on Tuesday evening (20 Feb.), cantered on key issues including the ongoing violence in Gaza and opportunities for enhancing bilateral cooperation.
-
-President Wickremesinghe reiterated the Sri Lankan government’s firm stance on the Gaza conflict, emphasizing the immediate necessity for violence cessation and the urgent need for a peace settlement.
-
-...
-
-[Data](articles/de10b7ca.json)
-
-[Extended Data](ext_articles/de10b7ca.ext.json)
-
----
-
-### Colombo University lecturer dies in accident
-
-*2024-02-21 15:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-University-lecturer-dies-in-accident/108-277489) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - An Assistant Lecturer of the Colombo University who was knocked down by a lorry at Wickremesnghe Pura Junction in Battaramulla succumbed to her injuries on admission to the National Hospital in Colombo.
-
-The victim Lakmini Bogamuwa (24) was an Assistant Lecturer of the Arts Faculty of the Colombo University and a resident of Wickremesinha Pura.
-
-She was on her way to the university to report for duty when she met with the accident. The injured was admitted immediately to a private hospital and later transferred to the National Hospital, Colombo.
-
-The driver of the lorry was taken into custody pending further investigations.
-
-◼️
-
-[Data](articles/395d9fec.json)
-
-[Extended Data](ext_articles/395d9fec.ext.json)
 
 ---

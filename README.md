@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 00:47:26**
+As of **2024-02-23 01:02:43**
 
 ## Newspaper Stats
 
-*Scraped **8,772** Articles*
+*Scraped **8,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 159
 newsfirstlk | 363
 islandlk | 451
 economynextcom | 458
-dailyftlk | 464
+dailyftlk | 479
 adalk | 744
 adaderanalk | 1,054
 tamilmirrorlk | 1,090
@@ -26,11 +26,29 @@ dailymirrorlk | 1,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,772 (100.0%) of 8,772 articles have been extended.
+8,772 (99.8%) of 8,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Let Dudley speak
+
+*2024-02-22 23:52:43* · [`dailyftlk`](https://www.ft.lk/columns/Let-Dudley-speak/4-758798) · `en`
+
+By chasing away Dudley Sirisena in that manner, the students violated a basic tenet of higher learning
+
+“Everything is abnormal in our society; that is how these things happen, and, when they do, nobody knows how to act – not only in the most difficult situations, but even in the simplest”
+
+“Happy families are all alike, every unhappy family is unhappy in its own way” – Anna Karenina-Leo Tolstoy
+
+Sirisena should have been heard by the students. From every dialog there is something to be learnt. When a person talks about his career, he is invariably the hero of the story, his success is presented in heroic terms. It is for the listener to give an intelligent ear. Openness to the ‘other’ is fundamental to the intellectual process
+
+...
+
+[Data](articles/070026e2.json)
+
+---
 
 ### COPF questions Fin. Min.’s reluctance to adopt VAT amendment recommendations
 
@@ -52,6 +70,78 @@ Despite this explanation, the COPF members pressed the officials for data on cer
 
 ---
 
+### Sri Lanka’s Gazan lessons
+
+*2024-02-22 23:50:06* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-Gazan-lessons/4-758797) · `en`
+
+While every conflict is different, there were – and are – features of the Gazan conflagration that resonate strongly with the final stages of Sri Lanka’s 26-year-long civil war
+
+“This seems familiar” was the response of many Sri Lankans to the Israeli military action in Gaza initiated in the wake of the appalling 7 October Hamas attack. While every conflict is different, there were – and are – features of the Gazan conflagration that resonate strongly with the final stages of Sri Lanka’s 26-year-long civil war, played out in and around the beaches of the country’s northeast during spring 2009.
+
+...
+
+[Data](articles/936b846b.json)
+
+---
+
+### Values mixed up?
+
+*2024-02-22 23:48:28* · [`dailyftlk`](https://www.ft.lk/opinion/Values-mixed-up/14-758796) · `en`
+
+Those who possess drugs are in custody, while those who enabled these persons to possess the drugs are walking free and continuing to bring more drugs into the country
+
+In recent times, there is a massive campaign launched in Sri Lanka to eliminate drugs in the country. It is an excellent objective. But who are those being caught and disciplined? Those who are in possession of drugs. But has it ever occurred to these knights in shining armour, who go after those who possess drugs, that there is another group on whom no drugs are found or will ever be found, who are nevertheless, the masterminds of the drug trade?
+
+...
+
+[Data](articles/946be25b.json)
+
+---
+
+### 40 Asia-Pacific countries unite for agrifood systems transformation to ensure food security of future generations
+
+*2024-02-22 23:46:38* · [`dailyftlk`](https://www.ft.lk/news/40-Asia-Pacific-countries-unite-for-agrifood-systems-transformation-to-ensure-food-security-of-future-generations/56-758795) · `en`
+
+Forty countries from the Asia and Pacific region have agreed that transforming agrifood systems was imperative to providing food security for their children’s generation and beyond, the Food and Agriculture Organization of the United Nations (FAO) reported today.
+
+The summation was delivered at yesterday’s close of the 37th Session of the FAO Regional Conference for Asia and the Pacific (APRC37). The conference was hosted by the Government of Sri Lanka.
+
+Forty countries of Asia and the Pacific attended the APRC, with the vast majority attending in-person, including some 20 Government Ministers. It was the first time since 2018 that a large in-person gathering of the region’s food and agriculture ministers and other policymakers was convened by FAO, and is seen as emblematic of the attention needed to recover from the pandemic and disruptions caused to food production and distribution that has plagued many countries in the region ever since.
+
+...
+
+[Data](articles/d219c636.json)
+
+---
+
+### Indian High Commissioner makes first visit to Northern Province
+
+*2024-02-22 23:44:26* · [`dailyftlk`](https://www.ft.lk/news/Indian-High-Commissioner-makes-first-visit-to-Northern-Province/56-758794) · `en`
+
+High Commissioner of India Santosh Jha undertook his first official visit to Northern Province from 15-17 February.
+
+Diverse engagements during the visit attest to the deep-rooted nature of the bilateral partnership as also India’s firm commitment to deepening socio-economic and cultural ties with Northern Province.
+
+...
+
+[Data](articles/d5ddc30e.json)
+
+---
+
+### JICA partners Medico-Legal Society in creating awareness on addressing sexual bribery
+
+*2024-02-22 23:42:35* · [`dailyftlk`](https://www.ft.lk/news/JICA-partners-Medico-Legal-Society-in-creating-awareness-on-addressing-sexual-bribery/56-758793) · `en`
+
+The Medico-Legal Society in collaboration with JICA, held the Professor M. S. L. Salgado 3rd Memorial Oration on the topic of Sexual and Gender based Violence in Sri Lanka on 16 February, followed by the Symposium and Annual Scientific Sessions 2024 on Sexual Bribery and Criminal Justice on 17 February.
+
+The oration was delivered by University of Kelaniya Chief Professor of English Senior Professor Maithree Wickramasinghe, who spoke of the interdisciplinary, intersectional and integrated perspectives of sexual and gender-based violence. Medico-Legal Society President Justice Yasantha Kodagoda, PC, and JICA Sri Lanka Office Senior Representative Ide Yuri, also addressed the audience of over 250.
+
+...
+
+[Data](articles/b5de0a18.json)
+
+---
+
 ### Hot weather no obstacle for them...
 
 *2024-02-22 23:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Hot-weather-no-obstacle-for-them/110-277574) · `en`
@@ -63,6 +153,46 @@ People in urban areas of Colombo engaged in construction work during the daytime
 [Data](articles/2cf0f618.json)
 
 [Extended Data](ext_articles/2cf0f618.ext.json)
+
+---
+
+### Saboteurs of system change
+
+*2024-02-22 23:32:14* · [`dailyftlk`](https://www.ft.lk/columns/Saboteurs-of-system-change/4-758786) · `en`
+
+Those elections would see a direct clash between a generation of geriatric leaders who grew in and groomed by a society stratified by castes, ethnicity, religions, and so on, and a younger, talented and globally connected generation to which the society of their elders has become alien. This intergenerational dichotomy may sound political rhetoric and difficult to fathom by many. But it is well recognised global phenomenon that continues to trouble many a regime. This is why when the country is at the cusp of breaking away from the old order the three ethno-religious minority parties are appearing to be trio of saboteurs
+
+...
+
+[Data](articles/55385ec7.json)
+
+---
+
+### Buddha: The scientist of suffering and existence
+
+*2024-02-22 23:29:56* · [`dailyftlk`](https://www.ft.lk/columns/Buddha-The-scientist-of-suffering-and-existence/4-758785) · `en`
+
+Buddha may not be credited with inventing groundbreaking scientific discoveries like the law of gravity, the steam engine, or penicillin. Still, he stands as a scientist par excellence who unravelled the causes and remedies for human suffering. His teachings, imparted to spiritual seekers, encompassed both mundane and supra-mundane aspects.
+
+The mundane teachings outlined a path to a life devoid of conflict, as evidenced in discourses such as Singalowada, Parabhawa, Mangala, Ratana, and Karaneeyametta, among thousands of others. Yet, Buddha’s true innovation lay in his profound exploration of the nature of existence, a revelation that is currently gaining widespread recognition though among smaller segments of seekers across the globe.
+
+...
+
+[Data](articles/c4b854b7.json)
+
+---
+
+### Marie Colvin: Intrepid journalist who lost an eye in northern Sri Lanka
+
+*2024-02-22 23:14:14* · [`dailyftlk`](https://www.ft.lk/columns/Marie-Colvin-Intrepid-journalist-who-lost-an-eye-in-northern-Sri-Lanka/4-758784) · `en`
+
+The life and work of Marie Colvin is multi-faceted and a manifestation of exemplary bravery and commitment
+
+It is said of war correspondents that they have to “Get in, Get it and Get out”. Marie did just that in many conflict zones from Chechnya to Bosnia, from Sri Lanka to Syria. In Sri Lanka she lost an eye but in Syria she lost her life. She got in, got it but couldn’t get out. To her credit it must be said that she had the option of leaving like many other scribes but opted to stay on and report the travails of ordinary civilians in war situations. One of her final reports was a first person account of seeing a baby die
+
+...
+
+[Data](articles/48fd9940.json)
 
 ---
 
@@ -85,6 +215,94 @@ Many of the dedicated work has been appointed to conduct a panel of experts to c
 [Data](articles/aa992f00.json)
 
 [Extended Data](ext_articles/aa992f00.ext.json)
+
+---
+
+### Sir Oliver Goonetilleke: The negotiator behind independence
+
+*2024-02-22 23:10:19* · [`dailyftlk`](https://www.ft.lk/columns/Sir-Oliver-Goonetilleke-The-negotiator-behind-independence/4-758783) · `en`
+
+The independence that Sri Lankans won from the British empire, which pervaded nearly two centuries on the island was unique in many ways. From an optimistic point of view, the independence that the British granted us was a triumph of the liberal democratic tradition implanted by the British themselves. Contrary to the aggressive nature of the Indian freedom struggle, which often shuddered the White Hall of London, our own path to independence epitomised the British liberal values absorbed by the native leaders. Although it contains a sense mortifying feeling regarding the absence of a rigorous freedom struggle, Sri Lanka can boast of the pacific nature of the power transition from the British to the natives.
+
+...
+
+[Data](articles/25cea042.json)
+
+---
+
+### IPC Hand Soldering fundamental course and practical workshop on ESD and Electronic Assembly
+
+*2024-02-22 23:05:43* · [`dailyftlk`](https://www.ft.lk/business/IPC-Hand-Soldering-fundamental-course-and-practical-workshop-on-ESD-and-Electronic-Assembly/34-758780) · `en`
+
+A fundamental course on Hand Soldering and a practical workshop on ESD and Electronic Assembly was held on 13 February at the Department of Electronic and Telecommunication Engineering, University of Moratuwa, in association with IPC India, Sri Lanka Export Development Board (SLEDB), and Sri Lanka Electronic Manufacturers and Exporters Association (SLEMEA).
+
+IPC is a global organisation that supports Original Equipment Manufacturers (OEMs), Electronic Manufacturing Services (EMS), Printed Circuit Board (PCB) manufacturers, Cable and Wire Harness Manufacturers and suppliers to the electronics industry. IPC members increase their bottom lines and deliver dependable, high-quality products through set standards, certification, education, training, thought leadership, advocacy, creative solutions, and industry knowledge.
+
+...
+
+[Data](articles/bc055d04.json)
+
+---
+
+### Baur’s CEO delivers leadership session to BOI top executives
+
+*2024-02-22 23:04:21* · [`dailyftlk`](https://www.ft.lk/business/Baur-s-CEO-delivers-leadership-session-to-BOI-top-executives/34-758779) · `en`
+
+A. Baur & Co. Managing Director/CEO Rolf Blaser recently addressed the top management of the Board of Investment on leadership and delivery. The BOI HR Department has been organising monthly leadership power sessions by inviting top external experts from the private sector on several related fields as part of an ongoing HRD program to strengthen HR capacity within the BOI.
+
+◼️
+
+[Data](articles/bc5303d4.json)
+
+---
+
+### Samsung unveils Galaxy A15 5G, elevating accessibility and innovation in Sri Lanka
+
+*2024-02-22 23:03:46* · [`dailyftlk`](https://www.ft.lk/business/Samsung-unveils-Galaxy-A15-5G-elevating-accessibility-and-innovation-in-Sri-Lanka/34-758778) · `en`
+
+Samsung, the leading consumer electronics brand in Sri Lanka, has unveiled the latest addition to its lineup – the Galaxy A15 5G, in 2024.
+
+As part of the Galaxy A series, this release underscores Samsung’s commitment to providing cutting-edge technology at an accessible price point, ensuring that innovation is within reach for all.
+
+The Galaxy A series represents Samsung’s ability to deliver transformative features without compromising affordability, earning it the trust of millions of consumers in Sri Lanka. With the Galaxy A15 5G, Samsung continues this legacy by introducing an exceptional camera and a suite of intuitive photo-editing tools, empowering users to capture and refine their creativity effortlessly, wherever they go.
+
+Distinguished by Galaxy’s renowned design philosophy, the Galaxy A15 5G features a glastic back panel with a subtle haze finish, complemented by a redesigned side panel and a flat linear camera housing, enhancing both aesthetics and grip.
+
+...
+
+[Data](articles/54eac223.json)
+
+---
+
+### Maxim Sri Lanka wins Gold at IDB Awards
+
+*2024-02-22 23:03:38* · [`dailyftlk`](https://www.ft.lk/business/Maxim-Sri-Lanka-wins-Gold-at-IDB-Awards/34-758777) · `en`
+
+Maxim Impressions Chairman Ravi Karunarathne receives the award. Director – Sustainable Business M.D. Dain, Deputy General Manager Suraji Dissanayake, and Operations Manager Salith Yatawara are also present
+
+Maxim Impressions Lanka Ltd., a subsidiary company of Maxim Smart Manufacturing Company Ltd., the globally known destination for retailers to source high-quality garment labels, packaging and related services, bagged the Gold Award in the Large-Scale Category (Advance Manufacturing and Digital Technology Sector) at the National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB).
+
+...
+
+[Data](articles/0e719293.json)
+
+---
+
+### Electrical panel board specialist Pubudu Engineering turns 33
+
+*2024-02-22 23:02:52* · [`dailyftlk`](https://www.ft.lk/business/Electrical-panel-board-specialist-Pubudu-Engineering-turns-33/34-758776) · `en`
+
+Pubudu Engineering Chairman and Managing Director T.A.S. Premalal, the management and the staff celebrating the 33rd anniversary
+
+Pubudu Engineering Ltd., a leading electrical panel board manufacturing company in Sri Lanka under the chairmanship of T.A.S. Premalal, celebrated its 33rd anniversary in the presence of the staff and a distinguished gathering recently.
+
+Employees who have been serving the company during the past 10, 15, 20, 25 years and over were felicitated for their services at this occasion. The staff and the management hailed the leadership of the chairman, managing director and presented a token of appreciation to him at the ceremony.
+
+What began as a micro scale business entity in 1991, Pubudu Engineering has now risen to be one of the largest and well respected electrical engineering firms in Sri Lanka, employing over 200 people and housing state of the art machinery.
+
+...
+
+[Data](articles/846e54fd.json)
 
 ---
 
@@ -1761,307 +1979,5 @@ PM Gunawardena congratulated Vietnam for the success of rapid economic developme
 [Data](articles/59d019b1.json)
 
 [Extended Data](ext_articles/59d019b1.ext.json)
-
----
-
-### Enjoining order issued restraining ITAK from holding national convention
-
-*2024-02-22 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Enjoining-order-issued-restraining-ITAK-from-holding-national-convention/108-277555) · `en`
-
-Colombo, Feb 22 (Daily Mirror) - The Trincomalee District Court issued an enjoining order restraining office bearers of Ilankai Tamil Arasu Kadchi (ITAK) from holding the National Convention which was scheduled to be held on February 19.
-
-The District Court made this order consequent to a plaint filed by plaintiff Chandrasekaram Para, a member of the ITAK, and this enjoining order will be effective till February 29.
-
-The plaintiff is challenging the election of the newly elected leader of the ITAK based on alleged irregularities followed at the election.
-
-The plaintiff has named Mavai Senathirajah, S. Sritharan, P. Sathiyalingam, S. Kugathasan, S.X. Kulanayagam, M.A. Sumanthiran and S. Yogeshwaran as defendants.
-
-The plaintiff further sought an enjoining order restraining the ITAK office bearers from implementing any of the decisions taken at the purported General Council meetings held on January 21, 2024 and January 27, 2024.
-
-◼️
-
-[Data](articles/2f33cd6f.json)
-
-[Extended Data](ext_articles/2f33cd6f.ext.json)
-
----
-
-### Periods
-
-*2024-02-22 13:11:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கொக்குத்தொடுவாய்-எச்சங்களின்-காலங்கள்-அறிவிப்பு/72-333657) · `ta`
-
-Attorney -at -Law VK Najanjan said in a statement from Raj Somadeva that the remnants of the Kokkuttuwai human burial ground were from 1994 to 1996.
-
-The case regarding the excavation work of the Kokkudoduwai human burial excavation was taken up for hearing on Thursday (22) under the patronage of Mullaitivu Magistrate Dharmalingam Pradeepan.
-
-Mullaitivu Magistrate's Court Judge T. Pradeepan brought to the notice of the Mullaitivu Magistrate's Court on the basis of the fact that Professor Raj Somadeva was sent to the House of Commons.
-
-Based on analysis, many -page reports have been filed that it may not be prevailed in 1994 and that it may not be late in 1996.. This is seen as an interim report.
-
-The excavation of the rest of the skeleton is probably initiated on March 4.
-
-However, the excavation is expected to take place if the appropriate funds are provided by the Ministry. Therefore, the case has been postponed to March 4.
-
-...
-
-[Data](articles/24f09006.json)
-
-[Extended Data](ext_articles/24f09006.ext.json)
-
----
-
-### British instagrammer’s appeal against her deportation dismissed
-
-*2024-02-22 13:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/British-instagrammers-appeal-against-her-deportation-dismissed/108-277553) · `en`
-
-Colombo, Feb 22 (Daily Mirror) - An appeal application filed by a British woman instagrammer Kayleigh Fraser challenging the authorities' decision to deport her from Sri Lanka has been dismissed by the Supreme Court.
-
-Kayleigh Fraser who had been documenting Sri Lanka’s anti-government protests on social media filed this appeal challenging the legality of the Court of Appeal decision to dismiss her writ petition. In her writ petition, the appellant sought an order to quash the decision of the Department of Immigration and Emigration to deport her in an arbitrary manner.
-
-The Attorney General had raised preliminary objections against the appeal on the basis that there is no proper affidavit before court and that the appellant has suppressed material facts and misrepresented facts to court.
-
-The Department of Immigration and Emigration had decided to terminate the visa issued to Fraser for violating visa conditions and had informed her to leave the country by 15 August 2022.
-
-◼️
-
-[Data](articles/0b4547e1.json)
-
-[Extended Data](ext_articles/0b4547e1.ext.json)
-
----
-
-### Sri Lanka to get update on GSP+ cycle at EU joint commission meeting
-
-*2024-02-22 13:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-update-on-gsp-cycle-at-eu-joint-commission-meeting-151961/) · `en`
-
-ECONOMYNEXT – Sri Lanka will get an update on the GSP+ trade concessions at a Joint Commission meeting with the European Union, the Foreign Ministry said.
-
-Three working groups on Governance, Rule of Law and Human Rights, Trade and Economic Cooperation, Development Cooperation will report to the Joint Commission.
-
-“The European Union will also brief on the current developments in the EU including an update on new GSP Regulation and the new cycle of the EU GSP+ concessions,” the statement said.
-
-The 26th session of the Joint Commission between Sri Lanka and the European Union will be  convened on 22 February 2024 in Brussels. The meeting will be co-chaired by Secretary of the Ministry of Foreign Affairs of Sri Lanka Aruni Wijewardane and EU European External Action Service Deputy Managing Director for Asia Pacific Paola Pampaloni.
-
-...
-
-[Data](articles/dbfa31db.json)
-
-[Extended Data](ext_articles/dbfa31db.ext.json)
-
----
-
-### Murder of Australia permit
-
-*2024-02-22 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193699) · `si`
-
-Sydney police say that a couple of couple and their young child were assassinated.
-
-At the place where he performed his training class, a seven-year-old boy and his mother had been killed and his mother had gone into a vehicle.
-
-The 49-year-old suspect is a South Korean and he has been hospitalized with cut injuries.
-
-The murders had been conducted last Monday that night and said that the suspect had arrived at the hospital on a car parking.
-
-However, it was revealed that the man had been admitted to the hospital on the same evening and had been hospitalized.
-
-◼️
-
-[Data](articles/9ba93c3b.json)
-
-[Extended Data](ext_articles/9ba93c3b.ext.json)
-
----
-
-### Presidential election will be held in due time - Wijeyadasa
-
-*2024-02-22 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97452/presidential-election-will-be-held-in-due-time-wijeyadasa) · `en`
-
-The Presidential Election will be held in due time, in compliance with the constitutional provisions, says Justice Minister Wijeyadasa Rajapakshe.
-
-He said the members of the public should not have any undue fears in this regard, the lawmaker added.
-
-Meanwhile, MP Gunapala Rathnasekara said the Freedom People’s Congress has yet to decide on supporting a presidential candidate in the upcoming election.
-
-◼️
-
-[Data](articles/ea509163.json)
-
-[Extended Data](ext_articles/ea509163.ext.json)
-
----
-
-### There is no funding to carry the hook of human burial excavation;Resolution in March
-
-*2024-02-22 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177032) · `ta`
-
-The case of the crane touches was taken under the leadership of Mullaitivu District Magistrate Dharmalingam Pradeepan on Thursday.
-
-The excavation of the human burial found in the Kokkudoduwai area took place in two phases. The first phase of excavation began on 06.09.2023 and held eleven days and 17 trunks were recovered. The second phase of the excavation began on 20.11.2023 and 40 skeletal blocks were recovered for nine consecutive days and the second phase was suspended.
-
-In addition, the scan examination carried out in the last days of the excavation process revealed that the bodies were found to be two meters long to the west side of the human burial cavity.. Subsequently, it was reported that the excavation was scheduled for March this year.
-
-...
-
-[Data](articles/0d0bd8f6.json)
-
-[Extended Data](ext_articles/0d0bd8f6.ext.json)
-
----
-
-### Bad upside down and Sachin;Video
-
-*2024-02-22 12:53:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தலைகீழாக-பேட்-பிடித்து-அசத்திய-சச்சின்-காணொளி/44-333656) · `ta`
-
-Cricket Jambavan Sachin Tendulkar has left the love and affection of fans after retirement. Wherever he travels, the fans greeted him and enjoyed photographing him and playing cricket
-
-In this case, Sachin has been touring Jammu and Kashmir for the past few days with his wife Anjali and daughter Sarah.. He went to various tourist attractions during the trip and enjoying playing cricket with local fans and boys.
-
-As such, he played cricket on the road with local youths as he went to the Gulmarg area. A bowler bowled for Sachin. Sachin scored the first 5 balls. Then Sachin, who was upside down the bat, challenged me out in the last ball.. But this time he couldn't get out by the bowler. Sachin was accurately blocked by the handle of the last ball. Then he enjoyed the cellphone with all the local fans.
-
-Sachin has posted this happy moment on his X site. 'Cricket and Kashmir: A competition in paradise!'Titled the video. This video is going viral.
-
-◼️
-
-[Data](articles/b4f303bd.json)
-
-[Extended Data](ext_articles/b4f303bd.ext.json)
-
----
-
-### The concept that insults the plantation people is submissive: Take disciplinary action against the EMC spokesman - Opposition Leader
-
-*2024-02-22 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177026) · `ta`
-
-The Electricity Board (CEB), who has been insulting the plantation people, should take the post of media spokesman against him and take disciplinary action against him. Opposition leader Sajith Premadasa said that I strongly condemn the subversive comments to insult the people of the hill country.
-
-Prime Minister Dinesh Gunawardena said that the spokesman of the Electricity Board (CEB) has advised him to investigate the reality of the comment and take disciplinary action against him.
-
-The Leader of the Opposition, who presented a special statement during the session held in Parliament on Thursday (22).
-
-Following the disconnection of the house in the Plantation area in Badulla, a father was killed when he tried to get electricity from their home with the permission of his neighbor for the learning activities of his children.
-
-...
-
-[Data](articles/4c68b264.json)
-
-[Extended Data](ext_articles/4c68b264.ext.json)
-
----
-
-### Thirteen Sri Lankans arrested in Dubai
-
-*2024-02-22 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177033) · `ta`
-
-Thirteen Sri Lankan suspects, including two men, who were shot dead in Beliatta, were arrested by Dubai police yesterday (21).
-
-Among the detainees, Urakhaha Michael, who is suspected of involvement in the Beliatta murder.
-
-These 13 Sri Lankans were trapped when police arrested many people during a nightclub in Dubai.
-
-Further investigations have revealed that the criminals were arrested by the international police.
-
-In this backdrop, a team of Criminal Investigation Department officials will go to Dubai to take further legal action on the basis of the details of the arrest of 13 Sri Lankans.
-
-◼️
-
-[Data](articles/f07137a5.json)
-
-[Extended Data](ext_articles/f07137a5.ext.json)
-
----
-
-### Yall. Land acquisition for airport expansion;The President's Secretary of the President
-
-*2024-02-22 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177029) · `ta`
-
-A letter has been sent to the Secretary of the Ministry of Ports, Shipping and Airlines, Ruwan Chandra, to send reports on the redemption of 500 acres of land released to the Jaffna International Airport.
-
-The President of the Kurumbasiti J/242, Kattuvan West J/239, Kupilan North J/211, Mayiliti South J/240Anganan Ramanathan, a member of the Jaffna and Kilinochchi District Parliament and Deputy Chairperson of Parliamentary Committees, had informed the writing.
-
-Subsequently, the Secretary to the Ministry of Ports, Profession and Airlines has been instructed by the Presidential Secretariat to submit a detailed report on the land measurements to the President before March 5.
-
-Meanwhile, Jaffna was held on the 16th. It is noteworthy that this was presented by Anganan Ramanathan at the District Development Coordinating Committee meeting.
-
-◼️
-
-[Data](articles/da93fe21.json)
-
-[Extended Data](ext_articles/da93fe21.ext.json)
-
----
-
-### Suspect arrested for renting vehicles
-
-*2024-02-22 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193698) · `si`
-
-A person has been arrested for renting and false documents and mortgaged others.
-
-The arrests were made by Ruwanwella Police and these vehicles have been given to various abuse.
-
-The police have found 5 vehicles in possession of the suspect when the arrests were carried out.
-
-◼️
-
-[Data](articles/3ac99f97.json)
-
-[Extended Data](ext_articles/3ac99f97.ext.json)
-
----
-
-### Independent views should not be suppressed just because one joins a party: Rajitha
-
-*2024-02-22 12:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Independent-views-should-not-be-suppressed-just-because-one-joins-a-party-Rajitha/108-277554) · `en`
-
-Colombo, Feb 22 (Daily Mirror) -  Samagi Jana Balawegaya (SJB) MP Rajitha Senaratne who has been continously expressing his support for the scrapping of the Executive Presidency today stressed that one should not suppress his or her independent views just because he or she belongs to a political party.
-
-"I don't think you should keep suppressing your independent views just because you have joined a party or are holding a post in it. There is no party in the world that fits into  our ideology or conscience," Dr. Senaratne said in his latest Facebook Post.
-
-"Some of our statements may clash with the party's stance. There may be times that some actions of the party clash with our ideologies as well. This does not mean we have  betrayed the party or that the party has betrayed us," he added.
-
-...
-
-[Data](articles/c6c2c760.json)
-
-[Extended Data](ext_articles/c6c2c760.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-22 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177030) · `ta`
-
-The US dollar purchasing price was Rs 306.5399 and the sales price were 316.0679 based on the currency exchange rate released by the Central Bank on Thursday (February 22).
-
-◼️
-
-[Data](articles/7b22c8d8.json)
-
-[Extended Data](ext_articles/7b22c8d8.ext.json)
-
----
-
-### The Health Department should be aware of the physical effects of bovit vaccines - State Medical Officers Association
-
-*2024-02-22 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177027) · `ta`
-
-Medical experts have urged the Sri Lankan health department to be aware of the fact that it has been revealed by the universal research.
-
-The Government of Sri Lanka's Association's spokesman Samil Wijayasinghe said that it is best to go to Sri Lanka alert due to the seriousness of international research.
-
-He said that Sri Lanka is alerting the side effects of homemade people, he said.
-
-At the same time, the SC of Sri Lanka said that it was not possible to do so as Sri Lanka was carried out in an alternative environment.
-
-However, the Ministry of Health in Sri Lanka should closely observe the situation and conduct a study on the impact of vicid vaccines at home.
-
-According to a study, Corona vaccines may be due to the present -day diseases.
-
-The study of the Global Waksin Data Network has revealed that the public use of public use during the Kovit period may have caused many diseases in many years.
-
-...
-
-[Data](articles/1370c582.json)
-
-[Extended Data](ext_articles/1370c582.ext.json)
 
 ---

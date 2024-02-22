@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 02:17:33**
+As of **2024-02-23 02:33:11**
 
 ## Newspaper Stats
 
-*Scraped **8,792** Articles*
+*Scraped **8,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 159
 newsfirstlk | 363
 islandlk | 451
 economynextcom | 458
-dailyftlk | 479
+dailyftlk | 483
 adalk | 744
 adaderanalk | 1,054
 tamilmirrorlk | 1,090
-virakesarilk | 1,187
+virakesarilk | 1,188
 adaderanasinhalalk | 1,294
 dailymirrorlk | 1,315
 
@@ -26,11 +26,25 @@ dailymirrorlk | 1,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,792 (100.0%) of 8,792 articles have been extended.
+8,792 (99.9%) of 8,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### பாராளுமன்ற குழுக்கள் சிலவற்றுக்கு உறுப்பினர்கள் நியமனம் பிரதி சபாநாயகர் சபைக்கு அறிவிப்பு
+
+*2024-02-23 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/177086) · `ta`
+
+பாராளுமன்றத்தினால் 2024 பெப்ரவரி 09 ஆம் திகதி நிறைவேற்றப்பட்ட தீர்மானத்தின் பிரகாரம், ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடரில் குழுக்களில் பணியாற்றுவதற்காக நியமிக்கப்பட்ட உறுப்பினர்களின் பெயர்களை பிரதி சபாநாயகர் அஜித் ராஜபக்ஷ் வியாழக்கிழமை (22) சபையில் சமர்ப்பித்தார்.
+
+இதற்கமைய ஒழுக்கவியல் மற்றும் சிறப்புரிமைகள் பற்றிய குழு, அரசாங்கக் கணக்குகள் பற்றிய குழு, பொது மனுக்கள் பற்றிய குழு,பாதுகாப்பு அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசியக் கொள்கை அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, மகளிர், சிறுவர் அலுவல்கள் மற்றும் சமூக வலுப்படுத்துகை அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, முதலீட்டு மேம்பாடு அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, கல்வி அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, வெகுசன ஊடக அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, சுகாதார அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, கமத்தொழில் அலுவல்கள் மற்றும் பெருந்தோட்டக் கைத்தொழில் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு ஆகியவற்றுக்கும்
+
+...
+
+[Data](articles/14fd8644.json)
+
+---
 
 ### The struggle against the illegal -set Tissa Vihara begins!
 
@@ -45,6 +59,86 @@ Media spokesman of the Tamil National People's Front Kanagaratnam Sukash and mem
 [Data](articles/c80a96a1.json)
 
 [Extended Data](ext_articles/c80a96a1.ext.json)
+
+---
+
+### Cabinet nod to extend National Mine Action Centre till 2027
+
+*2024-02-23 01:16:50* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-extend-National-Mine-Action-Centre-till-2027/56-758802) · `en`
+
+Aims to make Sri Lanka mine-free by 2027, aligning with international obligations
+
+Ongoing demining efforts by NGOs to continue, with further approval for implementation
+
+Strategic program for demining from 2023-2027 involves collaboration with national and international stakeholders
+
+Financial assistance from Govt. and international agencies supports demining efforts with an annual allocation of $ 17.5 m
+
+Initiates special livelihood program to over 3,000 civilians engaged in demining activities
+
+Inks MoUs to facilitate international aid-based programs in Northern and Eastern provinces
+
+Progress includes clearing over 204 square kilometres of land of landmines, disposing of landmines and unexploded ordnance in 2023
+
+The Cabinet of Ministers this week approved the extension of the National Mine Action Centre till 2027 to oversee and direct demining activities across the country.
+
+...
+
+[Data](articles/d667d251.json)
+
+---
+
+### Cabinet clears six-acre land to construct monastery in Nuwara Eliya with Indian aid
+
+*2024-02-23 01:15:54* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-six-acre-land-to-construct-monastery-in-Nuwara-Eliya-with-Indian-aid/56-758801) · `en`
+
+The Cabinet of Ministers cleared the allocation of land to the Sri Narayana Dharma Sangam Colombo Trust on a 30-year long-term lease basis to construct a monastery in the Nuwara Eliya district with Indian assistance.
+
+The construction of the monastery is in commemoration of the centennial of Sri Narayan Guru.
+
+“The Sri Narayana Dharma Sangam Colombo Trust had submitted a request for the allotment of land from the Nuwara Eliya district to build the monastery. A land measuring six acres and two roods, known as ‘Rambodawatta’ and belonging to the Land Reform Commission in the Kothmale Divisional Secretariat of the Nuwara Eliya District is identified for this purpose,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/9f3a2146.json)
+
+---
+
+### Colombo to host Indian Ocean Rim Association Day celebrations on 10 March
+
+*2024-02-23 01:15:47* · [`dailyftlk`](https://www.ft.lk/news/Colombo-to-host-Indian-Ocean-Rim-Association-Day-celebrations-on-10-March/56-758800) · `en`
+
+The Indian Ocean Rim Association (IORA) Day celebrations will be held in Colombo on 10 March at the Galle Face Green.
+
+The Cabinet of Ministers has been briefed by the Foreign Affairs Minister Ali Sabry on preparations in progress for the upcoming celebration under the theme ‘A Sustainable Indian Ocean for Future Generations’.
+
+One of the notable features of this year’s celebration is the inclusion of a significant number of school students from all provinces of Sri Lanka.
+
+The IORA Day celebration aims to highlight the importance of sustainability and environmental stewardship in the Indian Ocean region. With the participation of diplomatic missions from member countries and partner States, as well as representatives from various sectors, the event seeks to foster dialogue and cooperation towards addressing common challenges and promoting sustainable development.
+
+◼️
+
+[Data](articles/2b8e803e.json)
+
+---
+
+### Deputy Speaker reveals MPs appointed to Parliamentary committees
+
+*2024-02-23 01:15:42* · [`dailyftlk`](https://www.ft.lk/news/Deputy-Speaker-reveals-MPs-appointed-to-Parliamentary-committees/56-758799) · `en`
+
+Deputy Speaker of the House Ajith Rajapakse revealed the lists of members appointed to 24 committees for the Fifth Session of the Ninth Parliament.
+
+The appointments were made in accordance with the motions approved by Parliament on 9 February.
+
+Ministerial Consultative Committee on Finance, Economic Stabilisation and National Policies
+
+Ministerial Consultative Committee on Women, Child Affairs and Social Empowerment
+
+Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutional Reforms
+
+◼️
+
+[Data](articles/44da9808.json)
 
 ---
 
@@ -1901,101 +1995,5 @@ Following the investigation into the suspect, the main suspect was arrested with
 [Data](articles/bf989d5f.json)
 
 [Extended Data](ext_articles/bf989d5f.ext.json)
-
----
-
-### Beware - 1143 plane damage to 4 shops
-
-*2024-02-22 14:04:14* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රවේසම්-වන්න----වෙළදසල්-4ක-සිරුරට-ප්‍රභලව-හානි-කරන-ආලේපන-1143ක්/11-408232) · `si`
-
-According to information received by the Wall, the four-large crosswads of the second crosswades have been arrested with 1143 coatings with the use of chemical compounds.
-
-Arrested Beauty Coatings are not complying with the criteria of the World Health Organization. The respective owners are residents of Artagaleihena, Moratuwa and Wattala areas.
-
-◼️
-
-[Data](articles/402afc5c.json)
-
-[Extended Data](ext_articles/402afc5c.ext.json)
-
----
-
-### Prasanna proofs the Gulface Struggle premises
-
-*2024-02-22 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193702) · `si`
-
-Urban Development and Housing Minister Prasanna Ranatunga says that no investor has not given the Gulface Struggle premises.
-
-The statement made by MP Vijitha Herath in Parliament was preparing to lease the area to a casino business.
-
-Minister Prasanna Ranatunga said that when the government acts to bring investors to the country, the opposition is trying to sabotage it.
-
-The Minister further stated that although contrary to the rules of government rules, no land will be provided to foreign investors.
-
-◼️
-
-[Data](articles/a7870cc3.json)
-
-[Extended Data](ext_articles/a7870cc3.ext.json)
-
----
-
-### Sri Lanka, Vietnam sign MoU to exchange agricultural technology
-
-*2024-02-22 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Vietnam-sign-MoU-to-exchange-agricultural-technology/108-277558) · `en`
-
-Colombo, Feb 22 (Daily Mirror) - A memorandum of understanding (MoU) was signed between Sri Lanka and Vietnam on a number of issues, including the exchange of agricultural technology and the development of the agricultural sector in both countries.
-
-Agriculture and Plantation Industry Minister Mahinda Amaraweera and Agriculture and Rural Development Minister of Vietnam Minh Hoan Le held bilateral discussions yesterday (21) in conjunction with the 37th Asia Pacific Conference of the United Nations Food and Agriculture Organization.
-
-The agreement was signed on several matters such as agricultural technology, studies and research, exchange of experience, advanced seed production, application of fertilizers and pesticides, and training of farmers and officials so that they can get more yields.
-
-...
-
-[Data](articles/6641e4f0.json)
-
-[Extended Data](ext_articles/6641e4f0.ext.json)
-
----
-
-### Government refutes plans to provide ‘Aragalaya site’ for casino
-
-*2024-02-22 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-refutes-plans-to-provide-Aragalaya-site-for-casino/108-277557) · `en`
-
-Parliament, Feb. 22 (Daily Mirror)- The government refuted any plans to provide the Galle Face 'Aragalaya site' where the 'GotaGoGama' agitation was held, to establish a casino.
-
-Chief Government Whip and Urban Development Minister Prasanna Ranatunga said the government had not taken any decision to provide the 'Aragalaya site' to establish a casino as alleged by NPP MP Vijitha Herath.
-
-He said a proposal had been received from Barl Investment Pvt. Ltd. for a mixed investment project at Baladaksha Mawatha, Colombo 03 and that an MoU had been signed with the investor on February 16, 2024.
-
-The Minister said the investor had deposited a fee of USD 10,000 in rupees with the Urban Development Authority (UDA) and that steps have been taken to obtain the valuation report on the land.
-
-He said however, the particular investment project had not yet been approved.
-
-◼️
-
-[Data](articles/fa8f6777.json)
-
-[Extended Data](ext_articles/fa8f6777.ext.json)
-
----
-
-### Archaeological sites in Afghanistan bulldozed for ‘systematic looting’
-
-*2024-02-22 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97455/archaeological-sites-in-afghanistan-bulldozed-for-systematic-looting) · `en`
-
-More than 37 archaeological sites in Afghanistan have been destroyed and targeted with “systematic looting” under the Taliban-run government, according to researchers at the University of Chicago.
-
-Researchers at the university’s Center for Cultural Heritage Preservation identified 162 ancient settlements that faced devastation at an alarming rate between 2018 and 2021, continuing at 37 sites since the Taliban returned to power in 2021.
-
-The analysis of satellite images of sites identified around northern Afghanistan’s Balkh region has provided the first evidence of patterns of looting that were initially identified under the Taliban’s first stint in power and have continued since, according to a BBC report.
-
-The sites that have been plundered date back to the Late Bronze Age and Iron Age, with some even predating 1000 BC, researchers say.
-
-...
-
-[Data](articles/15d0db28.json)
-
-[Extended Data](ext_articles/15d0db28.ext.json)
 
 ---

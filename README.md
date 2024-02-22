@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 16:17:38**
+As of **2024-02-22 16:33:02**
 
 ## Newspaper Stats
 
-*Scraped **8,706** Articles*
+*Scraped **8,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 739
 adaderanalk | 1,048
 tamilmirrorlk | 1,083
 virakesarilk | 1,173
-adaderanasinhalalk | 1,283
+adaderanasinhalalk | 1,284
 dailymirrorlk | 1,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,704 (100.0%) of 8,706 articles have been extended.
+8,706 (100.0%) of 8,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### හිතාමතා යටකළ සැකකරුට අධිකරණය දුන් නියෝගය
+
+*2024-02-22 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193707) · `si`
+
+දෙහිවලදී හිතාමතා පුද්ගලයෙකු මෝටර් රථයෙන් අනතුරට ලක්කර ඝාතනය කිරීමේ චෝදනාව යටතේ අත්අඩංගුවට ගත් සැකකරු මාර්තු මස 07 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+දෙහිවල පොලීසිය විසින් අත්අඩංගුවට ගත් 30 හැවිරිදි වියේ පසුවන සැකකරු අද ගල්කිස්ස මහෙස්ත්‍රාත්වරිය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී තිබේ.
+
+දෙහිවල පොලිස් වසමේ කඩවත පාර ප්‍රදේශයේදී ඊයේ පෙරවරු 9.45ට පමණ මෙම අනතුර සිදුව තිබේ.
+
+ස්කූටි වර්ගයේ යතුරුපැදියකින් ගමන් කරමින් සිටි පුද්ගලයෙකු පිටුපසින් පැමිණි මෝටර් රථයේ ගැටීමෙන් මෙම අනතුර සිදුවුණි.
+
+අනතුරින් බරපතළ තුවාල ලැබූ පුද්ගලයා කළුබෝවිල රෝහලට ඇතුළත් කරනවිටත් මියගොස් සිටි බව පොලීසිය පවසයි.
+
+මියගිය තැනැත්තා කටුබැද්ද, මොරටුව ප්‍රදේශයේ පදිංචි වයස අවුරුදු 52ක අයෙකි.
+
+කෙසේ වෙතත් අනතුර සම්බන්ධයෙන් සිදුකරන ලද මූලික විමර්ශනවලදී අනාවරණය වී ඇත්තේ මෙය මෝටර් රථයේ රියදුරු විසින් යතුරුපැදිකරු හිතාමතා හප්පා සිදුකළ මනුෂ්‍ය ඝාතනයක් බවටය.
+
+අනතුර සිදුවූ අවස්ථාවේ ජංගම දුරකථනයෙන් පටිගත කළ දර්ශන පෙළක් ඉහතින්.
+
+◼️
+
+[Data](articles/75bae627.json)
+
+---
 
 ### President outlines plans to amalgamate vocational training institutes in Sri Lanka
 
@@ -45,6 +71,8 @@ Wickremesinghe conveyed these initiatives during his observation tour at the Rat
 ...
 
 [Data](articles/632c6134.json)
+
+[Extended Data](ext_articles/632c6134.ext.json)
 
 ---
 
@@ -103,6 +131,8 @@ Accordingly, the general public is requested to stay hydrated, take breaks in th
 ...
 
 [Data](articles/4a227794.json)
+
+[Extended Data](ext_articles/4a227794.ext.json)
 
 ---
 
@@ -2059,27 +2089,5 @@ The recent price pressures aren’t surprising, as the authorities were expectin
 [Data](articles/385e0691.json)
 
 [Extended Data](ext_articles/385e0691.ext.json)
-
----
-
-### Seylan Bank records strong performance in FY23, despite challenging environment
-
-*2024-02-22 02:39:21* · [`dailyftlk`](https://www.ft.lk/business/Seylan-Bank-records-strong-performance-in-FY23-despite-challenging-environment/34-758773) · `en`
-
-Overall Statutory Liquid Assets Ratio at 38%; Total Capital Adequacy Ratio at 15.84%
-
-Seylan Bank yesterday said it posted strong performance in FY23 despite the challenging environment.
-
-The Net Interest Income of the Bank was reported as Rs. 40.1 billion in 2023 compared to Rs. 40.5 billion reported in 2022, a slight 1% drawback due to volatility in interest rates during the year. The Bank’s Net Interest Margin on Average Total Assets stood at 5.76% in 2023 compared to 6.33% in 2022.
-
-Net fee and commission income of the Bank has shown a notable growth of 16 % to Rs. 7 billion from Rs. 6 billion reported in previous year.  The growth in 2023 is mainly attributable to fee income from cards, loans and other financial services.
-
-The Bank’s Total Operating Income decreased by 3% to Rs. 49.5 billion in 2023 compared to Rs. 51 billion in the previous year mainly due to decrease in foreign exchange income.
-
-...
-
-[Data](articles/8d5bab42.json)
-
-[Extended Data](ext_articles/8d5bab42.ext.json)
 
 ---

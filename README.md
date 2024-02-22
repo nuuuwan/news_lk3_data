@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 00:02:38**
+As of **2024-02-23 00:17:43**
 
 ## Newspaper Stats
 
-*Scraped **8,762** Articles*
+*Scraped **8,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,54 @@ bbccomsinhala | 106
 dbsjeyarajcom | 159
 newsfirstlk | 363
 islandlk | 451
-economynextcom | 452
+economynextcom | 458
 dailyftlk | 464
 adalk | 744
-adaderanalk | 1,053
+adaderanalk | 1,054
 tamilmirrorlk | 1,090
 virakesarilk | 1,182
 adaderanasinhalalk | 1,294
-dailymirrorlk | 1,312
+dailymirrorlk | 1,313
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,762 (100.0%) of 8,762 articles have been extended.
+8,762 (99.9%) of 8,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### COPF questions Fin. Min.’s reluctance to adopt VAT amendment recommendations
+
+*2024-02-22 23:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97466/copf-questions-fin-mins-reluctance-to-adopt-vat-amendment-recommendations) · `en`
+
+The Finance Ministry officials have told the Committee on Public Finance (COPF) that the revenue loss incurred from the initial ‘sugar scam’ should be classified as tax foregone, instead of a tax loss.
+
+This was mentioned when the Finance Ministry officials were summoned before the COPF on Tuesday (22).
+
+When asked about the progress of recovering the lost revenue resulting from the initial ‘sugar scam’, as highlighted in the report by the Auditor General, the ministerial officials contended that it should not be classified as a tax loss, but rather as tax foregone due to the reduction of the special commodity levy from Rs. 50 to 25 cents.
+
+Despite this explanation, the COPF members pressed the officials for data on certain companies that had disproportionately profited from this tax adjustment, amounting to Rs. 1.4 billion from six companies, with an additional six companies yet to be investigated.
+
+...
+
+[Data](articles/37799f0f.json)
+
+---
+
+### Hot weather no obstacle for them...
+
+*2024-02-22 23:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Hot-weather-no-obstacle-for-them/110-277574) · `en`
+
+People in urban areas of Colombo engaged in construction work during the daytime despite the hot weather. Some labourers were also transporting goods in Pettah to earn their living, persevering the the heat. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/2cf0f618.json)
+
+---
 
 ### Dianian shows how to recover the country from nightwork
 
@@ -380,6 +410,24 @@ These facts were revealed when the Sectoral Oversight Committee on Energy and Tr
 
 ---
 
+### India has given “lot of offers” for Ramayana Trail, Sri Lanka state minister says
+
+*2024-02-22 20:17:00* · [`economynextcom`](https://economynext.com/india-has-given-lot-of-offers-for-ramayana-trail-sri-lanka-state-minister-says-152016/) · `en`
+
+ECONOMYNEXT – India has given a lot of offers to establish Ramayana Trails in Sri Lanka, State Tourism Minister Diana Gamage said, as the island nation is focusing more on Indian tourists to boost the hospitality industry.
+
+Historians say, according to Hindu mythology, Sri Lanka was the kingdom of Ravana, the ten-headed demon king who abducted Sita, the wife of Rama, the hero of the Ramayana, a smriti text from ancient India, one of the two important epics of Hinduism known as the Itihasas, the other being the Mahabharata.
+
+The epic narrates the life of Rama, a prince of Ayodhya in the kingdom of Kosala.
+
+With the opening of Ram Mandhir in Ayodhya, Sri Lanka has renewed the establishment of Ramayana Trails, which includes all the places believed to be associated with Ramayana.
+
+...
+
+[Data](articles/6c4112f5.json)
+
+---
+
 ### The Radella short road is a terrible accident on the road
 
 *2024-02-22 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193714) · `si`
@@ -610,6 +658,26 @@ Prior to its arrival, the civilian ship had spent more than three weeks surveyin
 
 ---
 
+### Sri Lanka offers fresh debt plan to bondholders amid Hamilton case extension hopes: Sources
+
+*2024-02-22 18:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-offers-fresh-debt-plan-to-bondholders-amid-hamilton-case-extension-hopes-sources-152014/) · `en`
+
+ECONOMYNEXT – Sri Lanka offered a revised restructuring proposal to sovereign bond holders sources said, as the country tries to wrap up debt restructuring by the middle of the year and a holdout investor sues to force payment on one series of bonds.
+
+A US court had stayed proceedings of case by holdout investor Hamilton Reserve for six months, which has the required volumes of bond with a ‘single series’ collective action clause to file action following request which was supported by the US, UK and France.
+
+An extension of at least three months may be sought to help wrap up the debt restructuring, sources said.
+
+Sri Lanka is expecting to sign memoranda of understanding with Paris Club, within weeks, according to official sources.
+
+Courts had earlier granted the stay saying Hamilton had the option of renewing case for summary judgement once it is lifted.
+
+...
+
+[Data](articles/ed9ce4db.json)
+
+---
+
 ### Members Members Members Members of Parliament
 
 *2024-02-22 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193712) · `si`
@@ -627,6 +695,44 @@ Attorney at Law Mohan Priyadarshana De Silva, Lasantha Alagiyawanna, Prasanna Ra
 [Data](articles/7e41a960.json)
 
 [Extended Data](ext_articles/7e41a960.ext.json)
+
+---
+
+### Sri Lanka to consolidate all vocational training institutes into one college: president
+
+*2024-02-22 17:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-consolidate-all-vocational-training-institutes-into-one-college-president-152006/) · `en`
+
+ECONOMYNEXT — Sri Lanka plans to consolidate all vocational training institutes in the country into a single vocational college, offering contemporary subject-related courses, President Ranil Wickremesinghe said.
+
+Speaking at an observation tour at the Ratmalana Lalith Athulathmudali Vocational Training Centre on Thursday February 22, Wickremesinghe highlighted the need to restructure vocational education to align with the demands of the modern world.
+
+A statement from the president’s office said quoting the president that such restructuring is needed to ensure that Sri Lanka’s youth are equipped to excel in the competitive global job market.
+
+According to the statement, Wickremesinghe had also outlined to students at the institute the government’s plans for a swift digital transformation and the prioritisation of advancements such as Artificial Intelligence (AI).
+
+“He expressed optimism about Sri Lanka’s trajectory in embracing evolving technologies,” the statement said.
+
+...
+
+[Data](articles/7d5e3087.json)
+
+---
+
+### ADB country chief hopes Sri Lanka could sustain policy reforms despite elections
+
+*2024-02-22 17:13:00* · [`economynextcom`](https://economynext.com/adb-country-chief-hopes-sri-lanka-could-sustain-policy-reforms-despite-elections-152002/) · `en`
+
+ECONOMYNEXT – The Asian Development Bank (ADB) expects Sri Lanka not to reverse its International Monetary Fund-led policy reforms despite elections soon, the ADB Country Director for Sri Lanka Takafumi Kadono said.
+
+The island nation has witnessed repeated reversals of policy reforms in the past due to greedy politicians who misled  the people to vote for them by sowing the seeds of subsidy mentality with unsustainable debts at expensive borrowing costs, economists say.
+
+That led the country into an unprecedented economic crisis in 2022 with a sovereign debt default. Sri Lanka is still struggling to come out of the crisis.
+
+The IMF has strictly placed some reforms including in state sector enterprises, fiscal and monetary sectors.
+
+...
+
+[Data](articles/ef4eb908.json)
 
 ---
 
@@ -734,6 +840,32 @@ Accordingly, Jagath Pushpakumara, Janaka Wakumbura, Lohan Ratwatte, Indika Anuru
 
 ---
 
+### Sri Lanka rupee closes at 310.95/311.05 to the US dollar
+
+*2024-02-22 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-310-95-311-05-to-the-us-dollar-151998/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 310.95/311.05 to the US dollar Thursday, from 311.30/50 on Wednesday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.60/80 percent from 10.65/85 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.05 percent from 12.05/15 percent.
+
+A bond maturing on 15.03.2028 closed at 12.10/25 percent from 12.20/35 percent.
+
+A bond maturing on 15.07.2029 closed at 12.20/95 percent from 12.45/95 percent.
+
+A bond maturing on 15.05.2030 closed at 12.40/95 percent from 12.35/95 percent.
+
+A bond maturing on 15.05.2031 closed stable at 12.45/13.00 percent.
+
+A bond maturing on 01.07.2032 closed at 12.50/13.30 percent from 12.50/13.20 percent. (Colombo/Feb22/2024)
+
+◼️
+
+[Data](articles/71e7a8e9.json)
+
+---
+
 ### Young people and women will be created to win the competitive world market - the President
 
 *2024-02-22 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177061) · `ta`
@@ -777,6 +909,22 @@ He has been sentenced to six months in prison for six months under the accusatio
 [Data](articles/d09bc3ab.json)
 
 [Extended Data](ext_articles/d09bc3ab.ext.json)
+
+---
+
+### Sri Lanka’s CEB to submit significant power tariff reduction proposal to regulator
+
+*2024-02-22 16:36:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-to-submit-significant-power-tariff-reduction-proposal-to-regulator-151991/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s state-run Ceylon Electricity Board (CEB) is expected to submit to the country’s public utilities regulator on Thursday February 22 a proposal to slash a power tariff hike made in October 2023.
+
+Power & Energy Minister Kanchana Wijesekara said on Wednesday February 22 that the CEB expects to reduce rates by at least the same rates and percentages it was increased in October 2023: by 18 percent for the domestic and religious sectors, 12 percent for the industries and hotel sectors, and 24 percent for the general purpose and government buildings sectors.
+
+CEB management and tariff department officials had briefed the ministry on the revised new tariff proposal, taking into account costs reduced from capital and operating expenses from the original proposal, cash flow requirements for 2024 and suggestions received from public consultation and stakeholder meetings, Wijesekara said.
+
+...
+
+[Data](articles/7bb133f9.json)
 
 ---
 
@@ -1895,181 +2043,5 @@ Sudhakaran, Deputy Director of the Jaffna District Aquatic Resources Department,
 [Data](articles/69311366.json)
 
 [Extended Data](ext_articles/69311366.ext.json)
-
----
-
-### Resignation
-
-*2024-02-22 12:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நோயல்-பிரியந்த-இராஜினாமா/175-333653) · `ta`
-
-Media Spokesperson of the Ceylon Electricity Board
-
-Power Minister Kanjana Wijesekera said that he has publicly apologized for his comment that students should be educated in the light of the bottle lamp.
-
-Media spokesman of the Ceylon Electricity Board (CEB) Media Spokesperson, Nyol Priyantha, interviewed the media that the children of the plantations should be educated in kerosene lamps.
-
-In this regard, Opposition Leader Sajith Premadasa questioned in Parliament on Thursday (21).
-
-The Prime Minister said that the Electricity Board's media spokesman on the study of plantation children has been issued a directive to investigate the interview with the media and take disciplinary action.
-
-...
-
-[Data](articles/9cd5c2ec.json)
-
-[Extended Data](ext_articles/9cd5c2ec.ext.json)
-
----
-
-### India’s BAL Investment interested in land around aragalaya site
-
-*2024-02-22 12:00:00* · [`economynextcom`](https://economynext.com/indias-bal-investment-interested-in-land-around-aragalaya-site-151950/) · `en`
-
-ECONOMYNEXT – India’s BAL Investment has expressed interest in a land in Colombo which was used as a popular people’s protest site in 2022.
-
-“An acre of land at Baladaksha Mawatha was requested for a joint development project by Bal Investments,” Prasanna Ranatunga, Minister of Urban Development and Housing said in parliament on Thursday.
-
-“They have deposited a fee of 10,000 dollars and signed a memorandum of understanding on 16 February 2024. We are waiting for the government’s assessment report. The project has not been approved, we are still considering it in keeping with all rules and regulations,” Ranatunga said in reply to a statement by National People’s Power MP Vijitha Herath. (Colombo/Feb22/2024)
-
-◼️
-
-[Data](articles/ccf9d3d3.json)
-
-[Extended Data](ext_articles/ccf9d3d3.ext.json)
-
----
-
-### Switzerland to ban Hamas after Israel attacks
-
-*2024-02-22 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97451/switzerland-to-ban-hamas-after-israel-attacks-) · `en`
-
-Switzerland’s government said on Wednesday it wants to ban Hamas after the Palestinian militant group’s attacks in Israel last year which killed nearly 1,200 people and sparked a war in Gaza.
-
-Bern said it was taking action after the attacks on October 7 which killed two Swiss nationals and resulted in nearly 250 people being taken hostage.
-
-In response, Israel launched a military assault on Gaza that local health authorities say has killed nearly 29,000 Palestinians with thousands more feared lost amid the ruins.
-
-The Swiss government said under the new legislation Hamas and “cover or successor organisations” as well as organisations or groups that act on its behalf or in its name will be banned.
-
-The ban aims to punish Hamas for the October attacks as well as prevent the group using Switzerland as a safe haven or carrying out attacks in the country for example by making entry bans or expulsions easier to arrange.
-
-...
-
-[Data](articles/037ce7b8.json)
-
-[Extended Data](ext_articles/037ce7b8.ext.json)
-
----
-
-### Kokkuttuvai Human Burial Case Today
-
-*2024-02-22 11:36:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குதொடுவாய்-மனித-புதைகுழி-வழக்கு-விசாரணை-இன்று/175-333650) · `ta`
-
-The human burial case was found in the Mullaitivu District Court today (22).
-
-Accordingly, the first phase of the human burial ground in Mullaitivu Kokkudoduwai area began on 06.09.2023 and held eleven days after the recovery of 17 trunks.
-
-In addition, the second phase of the excavation was started on 20.11.2023 and 40 skeletal blocks were recovered for nine consecutive days and the second phase was suspended.
-
-This was followed by the third phase of excavations to begin in March
-
-Meanwhile, Professor Raj Somadeva has sent his report on the matter.
-
-◼️
-
-[Data](articles/da502d4f.json)
-
-[Extended Data](ext_articles/da502d4f.ext.json)
-
----
-
-### Abuse of Periyappa: Why did the little girl refuse to say?
-
-*2024-02-22 11:32:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரியப்பாவால்-துஷ்பிரயோகம்-சிறுமி-சொல்ல-மறுத்தது-ஏன்/175-333649) · `ta`
-
-His grandfather has been arrested for allegedly sexually abusing a girl, 11 and 10 months old.
-
-The incident took place in the Monaragama and Medagama police division in the Ratanatheniya Hogolla area.
-
-Investigations have been found that the little girl, which is 11 and 10 months old, has been sexually abused for two years from time to time since 2019.
-
-Neighbors who brought him to the attention of the police have caught him and handed him over to the police about the fact that one of them was hiding to steal the house.
-
-Investigations carried out to him told the police that he had gone to the house because he had a romantic relationship with a 15 -year -old girl.
-
-However, when the girl was tested, it was found that the girl had been sexually abused.
-
-In this regard, the girl's investigation, her grandfather, occasionally subjected to sexual abuse. However, in the abdomen, he said he did not say the outside, fearing that there would be a dispute between the two men.
-
-...
-
-[Data](articles/1b52cf7f.json)
-
-[Extended Data](ext_articles/1b52cf7f.ext.json)
-
----
-
-### Arrested from Chennai to Jaffna
-
-*2024-02-22 11:30:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சென்னையிலிருந்து-யாழுக்கு-வந்தவர்-கைது/71-333648) · `ta`
-
-A man who was searching for the violence in Jaffna has been arrested on Wednesday (21) after a return to Jaffna in Tamil Nadu.
-
-The suspect has been arrested for waiting at the airport premises on the basis of confidential information available to the police that the suspect is returning from Chennai to Jaffna International Airport.
-
-Police said he was involved in violent incidents in Jaffna and Kopayi areas and a long -awaited suspect.
-
-In addition, the suspect is being held in police custody and is conducting investigations, police said.
-
-◼️
-
-[Data](articles/b9b38938.json)
-
-[Extended Data](ext_articles/b9b38938.ext.json)
-
----
-
-### Afghanists who destroy World Heritage
-
-*2024-02-22 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193697) · `si`
-
-A researchers say that the archaeological value of archaeological value in Afghanistan has been destroyed using large machines.
-
-It is also reported that some people have been excavated in search of antique value of antique.
-
-The research has revealed that the satellite portions of satellite has been revealed that the Taliban, who captured the power of Afghanistan and fully supported by the previous government.
-
-Researchers at the University of Chicago said that many archaeological value of many archaeological value in the colonies have been destroyed before 1,000 BCE.
-
-It is said that the area of Balkh was severely destroyed in North Afghanistan.
-
-It is considered as a very prosperous area of Baclex, some 2,000 years ago.
-
-The region has been identified as the largest and richest area in the kingdom of ancient Afghanistan.
-
-◼️
-
-[Data](articles/e16130cd.json)
-
-[Extended Data](ext_articles/e16130cd.ext.json)
-
----
-
-### The mysterious death of the Madrasa student;Explanation for 4 suspects arrested
-
-*2024-02-22 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/177020) · `ta`
-
-The Kalmunai Magistrate has ordered the four suspects, including the arrested CCTV technician, on charges of destroying the main forecasts involving the Sisirvi scene on the mysterious death of the Madrasa student.
-
-The case was taken up in the presence of Kalmunai Magistrate MSM Samsuddin on Wednesday (21) and the four suspects arrested on charges of destroying the CCDRV videos at the request of Moulavi were present at the House.
-
-Accordingly, four persons, including Sisirvi Technologist, were summoned to the Sainthamaruthu Police Station on Tuesday (20).. Under the guidance of Samsuddin, the Sub -Inspector of Police Rauf was arrested.
-
-The four suspects, aged 30, 26, 22 and 23, were produced before the Kalmunai Magistrate's Court until the 29th of February.
-
-...
-
-[Data](articles/1ba7c1a3.json)
-
-[Extended Data](ext_articles/1ba7c1a3.ext.json)
 
 ---

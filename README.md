@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 02:33:11**
+As of **2024-02-23 02:48:50**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 1,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,792 (99.9%) of 8,797 articles have been extended.
+8,797 (100.0%) of 8,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### பாராளுமன்ற குழுக்கள் சிலவற்றுக்கு உறுப்பினர்கள் நியமனம் பிரதி சபாநாயகர் சபைக்கு அறிவிப்பு
+### Members of Parliamentary Committees
 
 *2024-02-23 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/177086) · `ta`
 
-பாராளுமன்றத்தினால் 2024 பெப்ரவரி 09 ஆம் திகதி நிறைவேற்றப்பட்ட தீர்மானத்தின் பிரகாரம், ஒன்பதாவது பாராளுமன்றத்தின் ஐந்தாவது கூட்டத்தொடரில் குழுக்களில் பணியாற்றுவதற்காக நியமிக்கப்பட்ட உறுப்பினர்களின் பெயர்களை பிரதி சபாநாயகர் அஜித் ராஜபக்ஷ் வியாழக்கிழமை (22) சபையில் சமர்ப்பித்தார்.
+According to the resolution passed by Parliament on February 9, 2024, Deputy Speaker Ajith Rajapaksa presented the names of the members appointed to work in the fifth session of the ninth Parliament on Thursday (22).
 
-இதற்கமைய ஒழுக்கவியல் மற்றும் சிறப்புரிமைகள் பற்றிய குழு, அரசாங்கக் கணக்குகள் பற்றிய குழு, பொது மனுக்கள் பற்றிய குழு,பாதுகாப்பு அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசியக் கொள்கை அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, மகளிர், சிறுவர் அலுவல்கள் மற்றும் சமூக வலுப்படுத்துகை அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, முதலீட்டு மேம்பாடு அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, கல்வி அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, வெகுசன ஊடக அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, சுகாதார அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு, கமத்தொழில் அலுவல்கள் மற்றும் பெருந்தோட்டக் கைத்தொழில் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு ஆகியவற்றுக்கும்
+Accordingly, Committee on Moral and Privitations, Committee on Government Accounts, Committee on Public Petitions, Ministry of Security Affairs Advisory Committee, Ministry of Finance, Economic Stability and National Policy AffairsMinistry of Investment Development Affairs, Ministry of Education, Ministry of Education, Ministry of Media Affairs Advisory Committee, Health Affairs Advisory Committee, Ministry of Plantation Industries and Plantation Industry
 
 ...
 
 [Data](articles/14fd8644.json)
+
+[Extended Data](ext_articles/14fd8644.ext.json)
 
 ---
 
@@ -86,6 +88,8 @@ The Cabinet of Ministers this week approved the extension of the National Mine A
 
 [Data](articles/d667d251.json)
 
+[Extended Data](ext_articles/d667d251.ext.json)
+
 ---
 
 ### Cabinet clears six-acre land to construct monastery in Nuwara Eliya with Indian aid
@@ -101,6 +105,8 @@ The construction of the monastery is in commemoration of the centennial of Sri N
 ...
 
 [Data](articles/9f3a2146.json)
+
+[Extended Data](ext_articles/9f3a2146.ext.json)
 
 ---
 
@@ -119,6 +125,8 @@ The IORA Day celebration aims to highlight the importance of sustainability and 
 ◼️
 
 [Data](articles/2b8e803e.json)
+
+[Extended Data](ext_articles/2b8e803e.ext.json)
 
 ---
 
@@ -139,6 +147,8 @@ Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutiona
 ◼️
 
 [Data](articles/44da9808.json)
+
+[Extended Data](ext_articles/44da9808.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 19:17:33**
+As of **2024-02-22 19:33:05**
 
 ## Newspaper Stats
 
-*Scraped **8,727** Articles*
+*Scraped **8,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,050
 tamilmirrorlk | 1,085
 virakesarilk | 1,179
 adaderanasinhalalk | 1,287
-dailymirrorlk | 1,300
+dailymirrorlk | 1,302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,727 (100.0%) of 8,727 articles have been extended.
+8,727 (100.0%) of 8,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### GMOA slams Health Ministry over bogus doctors
+
+*2024-02-22 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-slams-Health-Ministry-over-bogus-doctors/108-277564) · `en`
+
+Colombo, Feb 22 (Daily Mirror) - In the wake of scathing criticisms on the Ministry of Health's handling of the proliferation of fake doctors in Sri Lanka, the Government Medical Officers' Association (GMOA) has raised serious concerns over the rampant illegal practice of medicine across the country.
+
+“In Sri Lanka, the practice of medicine has to be strictly regulated, requiring individuals to possess a valid registration with either the Sri Lanka Medical Council, Ayurvedic Medical Council, or Homeopathic Medical Council, and meet required qualifications. Those practicing without such registrations are deemed fake doctors, posing a grave risk to public health,” the GMOA said in a special statement.
+
+...
+
+[Data](articles/6c792e4b.json)
+
+---
 
 ### Maldives visit of Chinese survey ship could rouse Indian Ocean security concerns - report
 
@@ -1510,6 +1524,24 @@ He said that all preparations have been completed to issue the new National Iden
 
 ---
 
+### Medical fraternity urges health authorities to be on alert
+
+*2024-02-22 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Medical-fraternity-urges-health-authorities-to-be-on-alert/155-277552) · `en`
+
+Colombo, Feb 22 (Daily Mirror) -  In light of recent findings suggesting potential rare occurrences of heart, brain, and blood disorders linked to certain Covid-19 vaccines, medical professionals in Sri Lanka urge the health authorities to remain vigilant on the development.
+
+The study in question, conducted by researchers from the Global Vaccine Data Network, a research arm of the World Health Organization (WHO), unearthed Covid vaccines from companies like Pfizer, Moderna and AstraZeneca were linked to rare occurrences of heart, brain and blood disorders.
+
+It targeted population of 99 million vaccinated individuals across eight countries. This study is said to be the largest Covid vaccine study to date.
+
+Speaking to Daily Mirror, Government Medical Officers' Association (GMOA) Media Spokesman Dr. Chamil Wijesinghe said it is better that Sri Lank goes on alert given the gravity of the findings of the study.
+
+...
+
+[Data](articles/3b8df587.json)
+
+---
+
 ### Medical fraternity urges health authorities to go on alert
 
 *2024-02-22 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Medical-fraternity-urges-health-authorities-to-go-on-alert/155-277552) · `en`
@@ -2047,41 +2079,5 @@ The mobile phone, SIMP and four tobacco, which had been hidden in the rectum of 
 [Data](articles/ed3a835a.json)
 
 [Extended Data](ext_articles/ed3a835a.ext.json)
-
----
-
-### Calcolion Festival Today
-
-*2024-02-22 08:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கால்கோள்-விழா/175-333639) · `ta`
-
-The process of enrolling students to the first grade of state schools this year begins today (22).
-
-The event will be held at the Embilipitiya Bodhiraja Vidyalaya under the patronage of Education Minister Susil Premajayantha.
-
-The Ministry of Education has further stated that the process of enrolling students for the first grade will be taken at the provincial level.. Remble
-
-◼️
-
-[Data](articles/7614c8fa.json)
-
-[Extended Data](ext_articles/7614c8fa.ext.json)
-
----
-
-### The beginning of action to connect students
-
-*2024-02-22 08:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-இணைக்கும்-நடவடிக்கை-ஆரம்பம்/175-333639) · `ta`
-
-The process of enrolling students to the first grade of state schools this year begins today (22).
-
-The event will be held at the Embilipitiya Bodhiraja Vidyalaya under the patronage of Education Minister Susil Premajayantha.
-
-The Ministry of Education has further stated that the process of enrolling students for the first grade will be taken at the provincial level.. Remble
-
-◼️
-
-[Data](articles/7af35d50.json)
-
-[Extended Data](ext_articles/7af35d50.ext.json)
 
 ---

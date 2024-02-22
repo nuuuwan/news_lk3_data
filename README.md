@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 04:33:16**
+As of **2024-02-23 04:51:41**
 
 ## Newspaper Stats
 
@@ -26,73 +26,85 @@ dailymirrorlk | 1,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,798 (100.0%) of 8,801 articles have been extended.
+8,801 (100.0%) of 8,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### தமிழக மீனவர்கள் நிபந்தனையுடன் விடுதலை
+### Tamil Nadu fishermen released on condition
 
 *2024-02-23 03:47:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-நிபந்தனையுடன்-விடுதலை/175-333698) · `ta`
 
-எல்லை தாண்டி மீன் பிடியில் ஈடுபட்டமைக்காக இம்மாதம் 8 ஆம் திகதி கைது செய்யப்பட்ட 18 தமிழக மீனவர்கள் விடுதலை செய்யப்பட்டுள்ளனர்.
+18 Tamil Nadu fishermen arrested on the 8th of this month have been released for allegedly fishing.
 
-மீனவர்கள் பயணித்த படகொன்று அரசுடைமையாக்கப்பட்டுள்ளது.  படகோட்டி ஒருவருக்கு 6 மாத சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+A boat pasted by fishermen has been nationalized.A sailor has been sentenced to 6 months in prison.
 
-நெடுந்தீவு கடற்பரப்பில் இரண்டு படகுகளுடன் எல்லை தாண்டி மீன்பிடித்துக்கொண்டிருந்த போது 19 தமிழக மீனவர்களும் கடற்படையினரால் கைது செய்யப்பட்டிருந்தனர்.
+19 Tamil Nadu fishermen were arrested by the Navy while fishing with two boats on the Neduntivu seas.
 
-கடற்படையினரால் ஒப்படைக்கப்பட்ட தமிழக மீனவர்களை யாழ். மாவட்ட கடற்றொழில் நீரியல் வளத்துறை திணைக்கள அதிகாரிகள் ஊர்காவற்றுறை நீதிமன்றத்தில் ஆஜர்ப்படுத்தினர்.
+Jaffna fishermen handed over by Navy. Officials of the District Fisheries and Aquatic Resources Department were produced at the Kayts Court.
 
-இந்த வழக்கு நேற்று ஊற்காவற்றுறை நீதவான் ஜே .கஜநிதிபாலன் முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது, தமிழக மீனவர்கள் 19 பேருக்கு எதிராக குற்றப்பத்திரம் தாக்கல் செய்யப்பட்டது.
+When the case was taken up for hearing in the presence of Magistrate J. Gajanidipalan yesterday, the chargesheet was filed against 19 fishermen.
 
-ஒரு படகின் உரிமையாளர் குற்றம் இடம்பெற்ற போது படகில் இருந்தமையால், அந்த படகை அரசுடைமையாக்கி நீதவான் உத்தரவிட்டார். மற்றைய படகின் படகோட்டி ஜி.பி.எஸ். கருவியை பாவித்தும் எல்லை தாண்டியமையால், அவருக்கு 6 மாதங்கள் சிறைத்தண்டணை விதித்து நீதவான் உத்தரவு பிறப்பித்தார்.
+Since the owner of a boat was on the crime, the boat was ruled by the magistrate. The other boat's sailboat GPS. The magistrate ordered him to be sentenced to six months in prison for the use of the tool.
 
-...
+The other 18 fishermen were released on the basis of the 18 -month prison postponed for 5 years.(a)
+
+◼️
 
 [Data](articles/deb5aad4.json)
 
+[Extended Data](ext_articles/deb5aad4.ext.json)
+
 ---
 
-### நீர்கொழும்பு பிடிபன இறங்குதுறை: பேராயரும் மீனவர்களும் முரண்படுவது ஏன்?
+### Negombo Capacity Land: Why Do Archbishop and Fishermen Contrary?
 
 *2024-02-23 02:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177088) · `ta`
 
-ஆறு தசாப்தங்களுக்கு மேலாக பயன்பாட்டில் இருந்து வரும் நீர்கொழும்பில் உள்ள மீன்பிடி இறங்குதுறையின் உரிமம் தொடர்பில் மீனவர் சங்கத்திற்கும் இலங்கை கத்தோலிக்க திருச்சபைக்கும் இடையில் முரண்பாடுகள் தோன்றியுள்ளன.
+There have been contradictions between the Fishermen's Association and the Catholic Church of Sri Lanka regarding the license of the fishing landing in Negombo, which has been in use for more than six decades.
 
-நீர்கொழும்பு - பிட்டிபன இறங்குதுறையின் நிர்வாகத்தை தங்களுக்கு வழங்குமாறு கோரி கொழும்பில் உள்ள பேராயர் இல்லத்திற்கு முன்பாக இந்த வார ஆரம்பத்தில் (பெப்ரவரி 19) ஆர்ப்பாட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+A demonstration was held early this week (February 19) in front of the Archbishop's House in Colombo demanding that the administration of the Negombo - Pittipana landing department be given to them.
 
-2008ஆம் ஆண்டு தாக்கல் செய்யப்பட்ட இறங்குதுறையின் நிர்வாக உரிமை தொடர்பான வழக்கில் நீர்கொழும்பு மாவட்ட நீதிமன்றம் இடைக்கால தடையுத்தரவு ஒன்றை பிறப்பித்துள்ள நிலையில் இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+The demonstration was carried out as the Negombo District Court issued an interim injunction in the 2008 case of the administrative rights of the landing department.
 
-இந்த வழக்கு இன்னும் நீதிமன்றத்தில் நிலுவையில் உள்ள நிலையில் நீண்ட விசாரணையின் பின்னர் நீர்கொழும்பு மாவட்ட நீதிமன்றம் இடைக்கால உத்தரவை பிறப்பித்துள்ளது.
+The Negombo District Court has issued an interim order after a long hearing as the case is still pending in court.
 
-கொழும்பில் உள்ள புனித பாப்பரசரின் பிரதிநிதிகளிடம் மீனவர்கள் தமது பிரச்சினைகள் அடங்கிய மகஜர் ஒன்றையும் கையளித்ததோடு, பேராயர் இல்லத்திற் முன்பாக ஆர்ப்பாட்டத்திலும் ஈடுபட்டனர்.
+Representatives of the Holy Pope in Colombo handed over a Major with their problems and protested in front of the Archbishop's house.
+
+In 2008, the then Archbishop of Colombo, Osult Comes, filed a case against the United Fishermen's Association for violating the conditions for managing the landing.
 
 ...
 
 [Data](articles/da3fc4db.json)
 
+[Extended Data](ext_articles/da3fc4db.ext.json)
+
 ---
 
-### பொறியியல் துறை மற்றும் நிர்மாணத்துறைகளில் அனர்த்த முகாமைத்துவம் தொடர்பில் அதிக கவனம் செலுத்தப்பட வேண்டும் - வடக்குமாகாண ஆளுநர்
+### More attention should be paid to the Disaster Management in the Department of Engineering and Construction - Governor of the Northern Province
 
 *2024-02-23 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177087) · `ta`
 
-பொறியியல் துறை மற்றும் நிர்மாணத்துறைகளில்  அனர்த்த முகாமைத்துவம் தொடர்பில் அதிக கவனம் செலுத்தப்பட வேண்டும் என வடக்குமாகாண ஆளுநர் பி.எஸ்.எம் சார்ள்ஸ் அறிவுறுத்தியுள்ளார்.
+Governor of the Northern Province BSM Charles has advised more attention to disaster management in the engineering sector and construction sector.
 
-இலங்கை தொழில்நுட்பவியல் சேவையாளர் சங்கத்தின் வட பிராந்திய சங்கத்தினரால் நடாத்தப்பட்ட "தொழில்நுட்ப வழிகாட்டி" நூல் வெளியீட்டு விழா, வடமாகாண பிரதம செயலாளர் செயலகத்தின் கேட்போர் கூடத்தில் வியாழக்கிழமை (22) நடைபெற்றது.
+The launch of the "Technical Guidance" book conducted by the Northern Regional Association of the Sri Lanka Technical Technology Servants Association was held on Thursday (22) at the auditorium of the Northern Province Chief Secretariat Secretariat.
 
-இந்நிகழ்வின் பிரதம விருந்தினராக வடக்கு மாகாண  கெளரவ ஆளுநர் பி.எஸ்.எம் சார்ள்ஸ் அவர்களும், விஷேட விருந்தினராக மாகாண பிரதம செயலாளர் எஸ்.எம் சமன்  பந்துலசேன அவர்களும் கலந்து சிறப்பித்தனர் .
+The Chief Guest of the event was the Hon.
 
-நூல்வெளியீட்டின் முதற்பிரதியை வடக்கு மாகாண  கெளரவ ஆளுநர், பிரதம செயலாளருக்கு வழங்கி சிறப்புரை ஆற்றினார்.
+The Governor of the Northern Province, the Chief Secretary of the Hon.
 
-பொறியியல் மற்றும் கட்டுமான துறைகளில் திட்டமிடல் என்பது மிக முக்கியமான ஒரு விடயமாகும்.
+Planning in the fields of engineering and construction is one of the most important things.
 
-உரிய திட்டமிடல் காணப்படாததன் காரணமாக பல்வேறு  சவால்களை எதிர்நோக்க வேண்டியுள்ளது. காணி உரிமை தொடர்பில் உறுதிப்பாட்டை பெற்றுக் கொள்ளாமை மிகப் பிரதான சிக்கலாக காணப்படுகிறது.
+Have to face various challenges due to the lack of appropriate planning. The lack of commitment to land rights is the main problem.
+
+It is essential to ensure the certainty of the land and get permission from the Divisional Secretary. Through this to avoid unnecessary challenges. Previously, pre -examination of the analysis of disasters is a very important issue.
 
 ...
 
 [Data](articles/260cdb07.json)
+
+[Extended Data](ext_articles/260cdb07.ext.json)
 
 ---
 

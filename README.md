@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 13:17:26**
+As of **2024-02-22 13:33:08**
 
 ## Newspaper Stats
 
-*Scraped **8,664** Articles*
+*Scraped **8,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 91
 bbccomsinhala | 106
 dbsjeyarajcom | 159
 newsfirstlk | 363
-economynextcom | 442
+economynextcom | 446
 islandlk | 451
 dailyftlk | 464
 adalk | 737
-adaderanalk | 1,041
+adaderanalk | 1,042
 tamilmirrorlk | 1,080
 virakesarilk | 1,164
 adaderanasinhalalk | 1,275
@@ -26,25 +26,43 @@ dailymirrorlk | 1,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,662 (100.0%) of 8,664 articles have been extended.
+8,664 (99.9%) of 8,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### වාහන කුලියට ගෙන අපචාර සඳහා දුන් සැකකරුවෙකු අත්අඩංගුවට
+### Presidential election will be held in due time - Wijeyadasa
+
+*2024-02-22 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97452/presidential-election-will-be-held-in-due-time-wijeyadasa) · `en`
+
+The Presidential Election will be held in due time, in compliance with the constitutional provisions, says Justice Minister Wijeyadasa Rajapakshe.
+
+He said the members of the public should not have any undue fears in this regard, the lawmaker added.
+
+Meanwhile, MP Gunapala Rathnasekara said the Freedom People’s Congress has yet to decide on supporting a presidential candidate in the upcoming election.
+
+◼️
+
+[Data](articles/ea509163.json)
+
+---
+
+### Suspect arrested for renting vehicles
 
 *2024-02-22 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193698) · `si`
 
-කුලී පදනම මත වාහන ලබාගෙන ඒවාට ව්‍යාජ ලේඛන සකසා වෙනත් පුද්ගලයන්ට උකස් කළ පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A person has been arrested for renting and false documents and mortgaged others.
 
-රුවන්වැල්ල පොලීසිය විසින් මෙම අත්අඩංගුවට ගැනීම සිදු කර ඇති අතර, මෙම වාහන විවිධ අපචාර සඳහා ද ලබා දී ඇති බවට වාර්තා වේ.
+The arrests were made by Ruwanwella Police and these vehicles have been given to various abuse.
 
-අත්අඩංගුවට ගන්නා විටත් සැකකරු සන්තකයේ තිබූ වාහන 05ක් පොලීසිය සොයා ගෙන ඇති අතර, සැකකරු සම්බන්ධයෙන් වැඩිදුර විමර්ශන ක්‍රියාත්මක බව සඳහන් ය.
+The police have found 5 vehicles in possession of the suspect when the arrests were carried out.
 
 ◼️
 
 [Data](articles/3ac99f97.json)
+
+[Extended Data](ext_articles/3ac99f97.ext.json)
 
 ---
 
@@ -252,6 +270,22 @@ Wildlife officials demand that tourists and passengers should avoid such risks.
 
 ---
 
+### CEB spokesman resigns after insensitive comments
+
+*2024-02-22 11:04:00* · [`economynextcom`](https://economynext.com/ceb-spokesman-resigns-after-insensitive-comments-151927/) · `en`
+
+ECONOMYNEXT – The official spokesman of the Ceylon Electricity Board, Sri Lanka’s state-owned electricity supplier, has resigned from the post after controversial comments he made on a talk show sparked anger.
+
+CEB spokesman engineer Noel Priyantha told a talk show on the TV station Ada Derana on Tuesday that children don’t need electricity, or lights, to study and can do so with a kerosene lamp. “People have got used to free electricity… Why do children need electricity to study? If there is no electricity they can use a bottle lamp (ku-ppi lam-pu-wa).. That’s how I studied. People should know to use what they have and come up in life.”
+
+“The Management of CEB has also informed me that the spokesperson has tendered his resignation from the post and issued a public apology for his statement. The management will also take appropriate steps regarding the statement made,” Minister of Power and Energy Kanchana Wijesekera said on X (twitter) Thursday.
+
+...
+
+[Data](articles/f2ac454f.json)
+
+---
+
 ### Prime Minister assures action against CEB spokesman
 
 *2024-02-22 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prime-Minister-assures-action-against-CEB-spokesman/108-277550) · `en`
@@ -311,6 +345,8 @@ Speaking to Daily Mirror, Government Medical Officers' Association (GMOA) Media 
 ...
 
 [Data](articles/4119a3c4.json)
+
+[Extended Data](ext_articles/4119a3c4.ext.json)
 
 ---
 
@@ -415,6 +451,24 @@ It is also worth noting that the case will be taken up today for the ongoing thi
 [Data](articles/aada47ec.json)
 
 [Extended Data](ext_articles/aada47ec.ext.json)
+
+---
+
+### Sri Lanka’s Seylan Bank to raise 10bn through debenture issue
+
+*2024-02-22 10:36:00* · [`economynextcom`](https://economynext.com/sri-lankas-seylan-bank-to-raise-10bn-through-debenture-issue-151921/) · `en`
+
+ECONOMYNEXT – Seylan Bank Plc said it was planning to raise up to 10 billion through a Basel III compliant debenture sale.
+
+Subject to the approval of the shareholders, the bank will issue 100,000,000 Tier II listed, rated, unsecured, subordinated, redeemable debentures with a non-viability conversion at 100 rupees each, to raise 10 billion rupees.
+
+“One hundred million (100,000,000) debentures will be issued in one or more issuances until 31st December 2024,” the bank said in stock exchange filing.
+
+“The size, tenure/maturity period (minimum five years), coupon rate/s, frequency of coupon/s etc as determined by the Board will be notified prior to the opening of each issue.”
+
+...
+
+[Data](articles/d3603916.json)
 
 ---
 
@@ -555,6 +609,26 @@ Did the incident caught fire by the unknown?Or did you find a fire due to a diff
 [Data](articles/8fafe475.json)
 
 [Extended Data](ext_articles/8fafe475.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 311.10/20 to the US dollar
+
+*2024-02-22 10:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-311-10-20-to-the-us-dollar-151917/) · `en`
+
+WECONOMYNEXT – Sri Lanka’s rupee opened at 311.10/20 to the US dollar Thursday, from 311.30/50 on Wednesday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted at 10.80/11.00 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.95/12.05 percent from 12.05/15 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.20/25 percent.
+
+The Colombo Stock market opened up; the All Share Price Index was up 0.05 percent at 10,655, and the S&P SL20 was up 0.05 percent at 3,071. (Colombo/Feb22/2024)
+
+◼️
+
+[Data](articles/08c07882.json)
 
 ---
 
@@ -865,6 +939,26 @@ An informed source familiar with what transpired during talks said some oil tran
 [Data](articles/964a47ee.json)
 
 [Extended Data](ext_articles/964a47ee.ext.json)
+
+---
+
+### Sri Lanka political leadership accepts 5 to 7-pct inflation without protest
+
+*2024-02-22 08:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-political-leadership-accepts-5-to-7-pct-inflation-without-protest-151893/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government headed by people’s representatives, had allowed macro-economists to generate up to 7 percent inflation without protest, under a controversial new monetary law, it has been revealed.
+
+Under the new monetary law, President Ranil Wickremesinghe, had signed an agreement allowing the central bank to generate 5 percent inflation spiking up to 7 percent if mistakes are made.
+
+The new monetary law allows peoples’ representatives to bargain with macro-economists, who, according to critics have been given the power to print money (suppress rates with inflationary liquidity tools and unbridled standing facilities) for multiple ends.
+
+Journalists asked what the process of negotiation and who represented the government and who represented macro-economists at the negotiation and whether a lower inflation rate was asked by the government.
+
+Related Sri Lanka central bank gets political nod to create up to 7-pct inflation
+
+...
+
+[Data](articles/153f9a54.json)
 
 ---
 
@@ -1969,103 +2063,5 @@ Matheyathirana took 2 wickets for 42 runs and Akila Dananjaya took two wickets f
 [Data](articles/925dfc48.json)
 
 [Extended Data](ext_articles/925dfc48.ext.json)
-
----
-
-### Electricity tariffs increased in October to be totally reduced in new revision: Minister
-
-*2024-02-21 20:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-tariffs-increased-in-October-to-be-totally-reduced-in-new-revision-Minister/108-277498) · `en`
-
-Parliament, Feb. 21 (Daily Mirror)- The new proposal on the electricity tariff revision aims to reduce the electricity tariffs increased in October last year, which included 18 percent for the domestic category, Power and Energy Minister Kanchana Wijesekara said today.
-
-He told Parliament that the electricity tariffs of domestic consumers and religious places of worship were increased by 18 percent and tariffs on the industry and hotel sector were increased by 12 percent while tariffs on general purpose category including public buildings were increased by 24 percent in October last year and that this tariff increase will be totally reduced in the new tariff revision.
-
-He said the new proposals on the electricity tariff revision will be handed over to the Public Utilities Commission of Sri Lanka (PUCSL) tomorrow.
-
-He said the Ceylon Electricity Board (CEB) had earlier proposed to reduce the tariffs by 3 percent.
-
-◼️
-
-[Data](articles/a833c0e4.json)
-
-[Extended Data](ext_articles/a833c0e4.ext.json)
-
----
-
-### Sri Lankan skipper fined $41,000 for illegal fishing in Seychelles’ EEZ
-
-*2024-02-21 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97442/sri-lankan-skipper-fined-41000-for-illegal-fishing-in-seychelles-eez) · `en`
-
-The Seychelles Supreme Court has convicted a Sri Lankan national to a fine of SCR 550,000 (USD 41,000) after being found guilty of illegally fishing in the island nation’s territorial waters, the police said on Wednesday (21 Feb.).
-
-According to the police, Makavita Liyanage Dilesh, 43, was the person in charge of the vessel, ‘Rankurulla 4’, that was intercepted and arrested in the Seychelles Exclusive Economic Zone (EEZ) on 24 November 2023.
-
-The presiding judge in the case took into consideration that the accused pled guilty and did not waste the court’s time. The convict is a married man with two children still at school and his family depends on his revenue to survive.
-
-The Sri Lankan national revealed to the Court that the fish they caught was taken and sold for a sum of SCR 35,320 which was collected by the Seychelles Fishing Authority.
-
-The fine is payable within 60 days if not, the convict will do a term of 18 months in prison.
-
-...
-
-[Data](articles/a3acc275.json)
-
-[Extended Data](ext_articles/a3acc275.ext.json)
-
----
-
-### The last T20 match is the beginning
-
-*2024-02-21 20:09:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடைசி-டி20-போட்டி-ஆரம்பம்/175-333616) · `ta`
-
-The final T20 cricket match between Afghanistan and Sri Lanka will be held today (21).
-
-Afghanistan won the currency spin in the match. Accordingly, the team decided to bat first. Remble
-
-◼️
-
-[Data](articles/2a5165e7.json)
-
-[Extended Data](ext_articles/2a5165e7.ext.json)
-
----
-
-### The last T20 match;210 runs for Sri Lanka
-
-*2024-02-21 20:09:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடைசி-டி20-போட்டி-இலங்கைக்கு-210-ஓட்டங்கள்-இலக்கு/175-333616) · `ta`
-
-In the third and final T20 match between Afghanistan and Sri Lanka, Afghanistan won the first T20 and scored 209 runs for the loss of 5 wickets in 20 overs.
-
-Rahmanullah Gurbaz scored a maximum of 70 runs and Hazratullah Zazai 45 runs.
-
-Matheesha Pathirana and Akila Dananjaya took two wickets each for the Sri Lankan team.
-
-The final T20 cricket match between Afghanistan and Sri Lanka will be held today (21).
-
-Afghanistan won the currency spin in the match. Accordingly, the team decided to bat first. Remble
-
-◼️
-
-[Data](articles/7fd95d68.json)
-
-[Extended Data](ext_articles/7fd95d68.ext.json)
-
----
-
-### Tiran claims attempts to disrupt operation ‘Yukthiya’ funded by drug networks
-
-*2024-02-21 20:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97441/tiran-claims-attempts-to-disrupt-operation-yukthiya-funded-by-drug-networks) · `en`
-
-Minister of Public Security, Tiran Alles, emphasized his unwavering commitment to continue operations aimed at suppressing drugs, tackling the underworld and preventing violence against women and children, regardless of any pressure encountered.
-
-Furthermore, Minister Alles disclosed that the value of drugs seized thus far during the ‘Yukthiya’ operation, which commenced on December 17, 2023, amounts to Rs. 7.8 billion.
-
-The Minister made these remarks during a news conference held at the Presidential Media Centre today (21 Feb.) under the theme ‘Collective Path to a Stable Country’.
-
-...
-
-[Data](articles/7236ad18.json)
-
-[Extended Data](ext_articles/7236ad18.ext.json)
 
 ---

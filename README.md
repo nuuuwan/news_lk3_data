@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 17:17:27**
+As of **2024-02-22 17:33:23**
 
 ## Newspaper Stats
 
-*Scraped **8,719** Articles*
+*Scraped **8,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 464
 adalk | 739
 adaderanalk | 1,049
 tamilmirrorlk | 1,083
-virakesarilk | 1,175
+virakesarilk | 1,178
 adaderanasinhalalk | 1,287
 dailymirrorlk | 1,299
 
@@ -26,51 +26,109 @@ dailymirrorlk | 1,299
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,716 (100.0%) of 8,719 articles have been extended.
+8,722 (100.0%) of 8,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### අධිකරණයේදී වරදක් කළ සැකකරුට දුන් දඬුවම
+### Criticism of the Goneswara Temple Council membersResolution to file a case against
+
+*2024-02-22 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177060) · `ta`
+
+Senior Attorney Thirukumaranathan said he would file a lawsuit against those who insult the lawyers against the members of the Goneeswara Temple Council.
+
+The Trincomalee District Court issued an interim injunction on Wednesday (21) to prohibit members of the Goneeswara Temple Operation Council members.. Senior Attorney Thirukumaranathan was present in the case.
+
+He added that the District Judge Ganesarajah had informed the district court that he would file a case against those who have issued comments on social media and directly on social media and directly on social media.
+
+◼️
+
+[Data](articles/baae2778.json)
+
+[Extended Data](ext_articles/baae2778.ext.json)
+
+---
+
+### Appointment of members to Cobb Committee - Notice to Deputy Speaker's Council
+
+*2024-02-22 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177066) · `ta`
+
+Deputy Speaker Ajith Rajapaksa announced to the House on Thursday (22) that the members of the government have been appointed to the COPE Committee on Government Responsibility.
+
+Accordingly, Jagath Pushpakumara, Janaka Wakumbura, Lohan Ratwatte, Indika Anurutha Herath, Shantha Bandara, Mahindananda Aluthgamage, Duminda Dissanayake, Rohitha Abeygunawardena, Nimal Lansa, UK. Sumith Udugumbura, Sanjeeva Enemy, Jagath Kumara Sumitrarachchi, (Major) Sudarshana Thenipidiya, Premnath C. Tolawatta, Upul Mahendra Rajapaksa, M. Rameshwaran, Rajika Wickramasinghe, Madurai Vidanage and Professor Ranjith Bandara have been appointed.
+
+◼️
+
+[Data](articles/15d38b77.json)
+
+[Extended Data](ext_articles/15d38b77.ext.json)
+
+---
+
+### Young people and women will be created to win the competitive world market - the President
+
+*2024-02-22 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177061) · `ta`
+
+President Ranil Wickremesinghe has promised to create a conducive environment for the youth of the country to revive vocational education to suit the modern world.
+
+The President said that all vocational training institutes in the country are being integrated and brought under the same university structure and are planning to introduce new subjects.
+
+President Ranil Wickremesinghe made this observation when he was conducting a supervision visit to Lalith Athulathmudali Vocational Training Center on Thursday morning.
+
+Established in memory of Lalith Athulathmudali, the company is currently operating under the National Youth Service Council and Motor Mechanics, Information Technology, Three Demonstration 3D, Preschool Teacher Course, Modern Technology Course, Aesthetics Course, Language Course, Language CourseAre held here.
+
+...
+
+[Data](articles/dc71b173.json)
+
+[Extended Data](ext_articles/dc71b173.ext.json)
+
+---
+
+### The punishment to the suspect who committed an offense in court
 
 *2024-02-22 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193710) · `si`
 
-ගංගොඩවිල මහෙස්ත්‍රාත් අධිකරණයේ සිර මැදිරිය තුළට මත්ද්‍රව්‍ය පාර්සලයක් විසිකළ සැකකරුවෙකුට අධිකරණය විසින් සිර දඬුවම් නියම කර තිබේ.
+The Court has sentenced the court in prison in the Gangodawila Magistrate's Court.
 
-ගංගොඩවිල අතිරේක මහෙස්ත්‍රාත් සංජය ලක්මාල් විජේසිංහ මහතා මෙම සිර දඬුවම නියම කර ඇත.
+Gangodawila Additional Magistrate Sanjaya Lakmal Wijesinghe has been sentenced to death.
 
-ඔහුට එරෙහිව පවරා තිබූ නඩු කටයුත්තකට පෙනී සිටීම සඳහා සැකකරු අද (22) අධිකරණය වෙත පැමිණ තිබුණි.
+The suspect had come to court today (22) to sit for the cases filed against him.
 
-එහිදී විවෘත අධිකරණයේ නඩු කටයුතු විභාග වෙමින් පැවති අවස්ථාවේදී සැකකරු විසින් මෙලෙස සිරමැදිරිය තුළට පාර්සලයක් විසිකර ඇත.
+The suspect had thrown a parcel to the prison in the opening of the court.
 
-එම සිදුවීම දුටු විනිසුරුවරයා ක්ෂණිකව ක්‍රියාත්මකව ඇති අතර අධිකරණ භාර පොලිස් නිලධාරියා විසින් එම පාර්සලය ගෙන පරීක්ෂා කිරීමේදී එහි අයිස් මත්ද්‍රව්‍ය අඩංගුව ඇති බවට හෙළිවී තිබේ.
+The judge has been implemented instantly, while inspecting the parcel in charge of the judiciary in charge of the Judicial Office has been found.
 
-එම පාර්සලය තුළ අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 900ක ප්‍රමාණයක් තිබී සොයාගෙන ඇත.
+The parcel has found 900 milligrams of ice narcotics.
 
-අධිකරණයට අපහාස කිරීමේ චෝදනාව යටතේ මාස 03ක් සහ අයිස් මත්ද්‍රව්‍ය ළඟ තබාගැනීමේ චෝදනාව යටතේ බරපතළ වැඩ සහිතව මාස 03ක් බැගින් ඔහුට මෙලෙස මාස 6ක කාලයක් සිර දඬුවම් නියම කර ඇත.
+He has been sentenced to six months in prison for six months under the accusation of insulting the judiciary.
 
 ◼️
 
 [Data](articles/d09bc3ab.json)
 
+[Extended Data](ext_articles/d09bc3ab.ext.json)
+
 ---
 
-### හරක් කටා ගැන අභියාචනාධිකරණයෙන් නියෝගයක්
+### Court of Appeal ordered the beef
 
 *2024-02-22 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193709) · `si`
 
-ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු බව කියන නඳුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා නමැත්තා දැනට රඳවාගෙන සිටින ස්ථානය වෙනස් කරන්නේ නම් ඒ පිළිබඳව අධිකරණයට දැනුම් දිය යුතු බවට නිකුත් කර තිබූ නියෝගය මාර්තු මස 28 වනදා දක්වා දීර්ඝ කරන ලෙස අභියාචනාධිකරණය අද (22) නියෝග කළේය.
+The Court of Appeal today (22) ordered that the orders issued by a strong drug dealer to be detained.
 
-ඔහු මේ වනවිට රැඳවුම් නියෝග මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවා සිටියි.
+He is currently in the custody of the CID on detention orders.
 
-හරක් කටා නැමැත්තාගේ පියා විසින් ගොනු කළ පෙත්සමක් අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී මෙම නියෝගය නිකුත් කෙරුණි.
+Court of Appeal Judge D. N. The order was issued when he was called before Mr. Samarakoon.
 
-මෙම පෙත්සමට අදාළ විරෝධතා තිබේ නම් ඒවා මාර්තු මස 15 වනදාට පෙර ගොනුකරන ලෙස වගඋත්තරකරුවන්ට නියෝග කළ අධිකරණය මාර්තු 28 වනදා පෙත්සම් විභාගය සිදුකරන බවත් නියෝග කළේය.
+If there are objections to this petition, the court ordered the respondents to file them before March 15.
 
 ◼️
 
 [Data](articles/98aebce1.json)
+
+[Extended Data](ext_articles/98aebce1.ext.json)
 
 ---
 
@@ -120,25 +178,27 @@ The seized contraband has been handed over to the office of the STF Commandant f
 
 ---
 
-### වසර දෙකක විනාශය
+### Two years of destruction
 
 *2024-02-22 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193708) · `si`
 
-යුක්‍රේන - රුසියානු යුද්ධයට තව නොබෝ දිනකින් වසර දෙකක් සම්පූර්ණ වෙයි.
+Ukrainian and Russian war will be more than two years.
 
-මේ වනවිට යුක්‍රේනයට, අමෙරිකාව ඇතුළු බටහිර රටවලින් යුද ආධාර ගලා ආවත් රුසියාවට මුදලට හෝ අවි ලබාදීමට ඉදිරිපත්වන රටවල් සංඛ්‍යාව සීමිත ය.
+The number of countries that will be provided to Russia or the number of countries will be limited to Russia.
 
-විශේෂයෙන් අමෙරිකාව, පසුගියදා ප්‍රසිද්ධියේම චීනයට තරවටුවක් කළේ, රුසියාවට අවි සැපයීම කළහොත් සම්බාධකවලට මුහුණදීමට සිදුවනු ඇති බව පවසමිනි.
+In particular, America publicly reprimanded China recently, saying that if the weapons of Russia would have to face sanctions.
 
-බටහිර රටවල් පවසන දේ ගැන කිසිදු ගරු සරුවක් නොදක්වන උතුරු කොරියානු නායක කිම් ජොං-අන් රුසියාවට මිසයිල ඇතුළු අවි සැපයීමට කටයුතු කර ඇති බව වාර්තා වෙයි.
+It is reported that the North Korean leader Kim-other Russia, including the Western countries, has been supplied to Jong-Other Russia.
 
-ජනපති පුටින් ඊට තුති පිදීමක් ලෙස රුසියාවේ නිෂ්පාදිත සුඛෝපභෝගී ලිමොසීන් රථයක් ලබාදුන් බව ඊයේ විදෙස් මාධ්‍ය වාර්තා කළේය.
+President Mahinda Rajapaksa reported yesterday that Sri Lanka was given a luxury limoust of livelihoods in Russia.
 
-මීට අමතරව ඉරානය විසින් රුසියාවට මහා පරිමාණ වශයෙන් ඩ්‍රෝන යානා සහ අනෙකුත් අවි ආයුධ ලබාදෙන බවට ද වාර්තා පළවිය.
+In addition, Iran was also present on Russia to provide the drones and other weapons to Russia.
 
 ◼️
 
 [Data](articles/5055ecfe.json)
+
+[Extended Data](ext_articles/5055ecfe.ext.json)
 
 ---
 
@@ -2023,65 +2083,5 @@ Meanwhile, Director of the Family Health Bureau has stressed that women have fal
 [Data](articles/3f4e5b27.json)
 
 [Extended Data](ext_articles/3f4e5b27.ext.json)
-
----
-
-### 531 arrested in the same month in Jaffna
-
-*2024-02-22 08:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-ஒரே-மாதத்தில்-531-பேர்-கைது/71-333638) · `ta`
-
-531 people searched in Jaffna have been arrested within the last one month, police said.
-
-The arrests have been arrested by the courts in connection with various crimes.
-
-The 230 persons who were issued and 301 were issued by the police and were arrested by the police, police said.
-
-◼️
-
-[Data](articles/39686a7f.json)
-
-[Extended Data](ext_articles/39686a7f.ext.json)
-
----
-
-### 531 arrested in the same month in Jaffna
-
-*2024-02-22 08:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-ஒரே-மாதத்தில்-531-பேர்-கைது/175-333638) · `ta`
-
-531 people searched in Jaffna have been arrested within the last one month, police said.
-
-The arrests have been arrested by the courts in connection with various crimes.
-
-The 230 persons who were issued and 301 were issued by the police and were arrested by the police, police said.
-
-◼️
-
-[Data](articles/6f055a18.json)
-
-[Extended Data](ext_articles/6f055a18.ext.json)
-
----
-
-### Immediately arrest cake Nona; MP request
-
-*2024-02-22 08:01:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேக்-நோனாவை-உடனடியாக-கைது-செய்யவும்-எம்-பி-கோரிக்கை/175-333637) · `ta`
-
-Sri Lanka PA (SLPP) Parliamentarian Rohitha Abeygunawardena has called on the Speaker to take action against a woman named Cake Nona, who is alleged to have slandered her on social media.
-
-Speaking in Parliament yesterday (February 21), Parliamentarian Abeygunawardena said that he would publish harmful records on the social media against the Inspector General of Police, Patriot and Tennakoon.
-
-The SLPP MP has called on the woman to call her a thief through her social media posts and to arrest him immediately.
-
-Member of Parliament Abeygunawardena, who said it violated his parliamentary privileges, pointed out that such harmful ideas would threaten his life.
-
-He said that such comments could only be accepted if they did wrong, and that it was unreasonable to criticize if it was not.
-
-Parliamentarian Abeygunawardena said that a woman called 'cake Nona' contested the 2015 parliamentary elections.
-
-◼️
-
-[Data](articles/b95cd5d8.json)
-
-[Extended Data](ext_articles/b95cd5d8.ext.json)
 
 ---

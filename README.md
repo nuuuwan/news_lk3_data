@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 15:32:56**
+As of **2024-02-22 15:50:49**
 
 ## Newspaper Stats
 
-*Scraped **8,689** Articles*
+*Scraped **8,696** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 91
+colombotelegraphcom | 92
 bbccomsinhala | 106
 dbsjeyarajcom | 159
 newsfirstlk | 363
@@ -16,21 +16,97 @@ economynextcom | 446
 islandlk | 451
 dailyftlk | 464
 adalk | 739
-adaderanalk | 1,045
-tamilmirrorlk | 1,082
-virakesarilk | 1,171
+adaderanalk | 1,046
+tamilmirrorlk | 1,083
+virakesarilk | 1,173
 adaderanasinhalalk | 1,275
-dailymirrorlk | 1,297
+dailymirrorlk | 1,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,689 (100.0%) of 8,689 articles have been extended.
+8,689 (99.9%) of 8,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### MPs appointed to parliamentary committees announced
+
+*2024-02-22 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97457/mps-appointed-to-parliamentary-committees-announced) · `en`
+
+The lists of names of the members appointed to several parliamentary committees during the Fifth Session of the Ninth Parliament have been announced.
+
+This was communicated to the House by Deputy Speaker Ajith Rajapakse this morning (Feb.22).
+
+Ministerial Consultative Committee on Finance, Economic Stabilization and National Policies
+
+Ministerial Consultative Committee on Women, Child Affairs and Social Empowerment
+
+Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutional Reforms
+
+◼️
+
+[Data](articles/660dbdfc.json)
+
+---
+
+### சிகரெட் விற்பனைக்கு கட்டுப்பாடு
+
+*2024-02-22 15:05:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகரெட்-விற்பனைக்கு-கட்டுப்பாடு/175-333661) · `ta`
+
+கர்நாடக சட்டசபையில் புதன்கிழமை (21) சுகாதாரத்துறை மந்திரி தினேஷ் குண்டுராவ், கர்நாடக சிகரெட்-புகையிலை பொருட்கள் தடை சட்டத்திருத்த மசோதாவை தாக்கல் செய்தார்.
+
+அப்போது அவர், “கர்நாடகத்தில் தற்போது சிகரெட் வாங்க வயது வரம்பு 18 ஆக உள்ளது. இந்த வயது வரம்பை நாங்கள் 21 வயதாக நிர்ணயிக்கிறோம். அதனால் கர்நாடகத்தில் உள்ள கடைகளில் 21 வயதுக்கு உட்பட்டோருக்கு சிகரெட் விற்க தடை விதிக்கப்படுகிறது.
+
+பாடசாலை-கல்லூரிகளில் இருந்து 100 மீட்டர் சுற்றளவில் சிகரெட் விற்பனை செய்ய அனுமதி இல்லை. இதை மீறினால் ரூ.100 முதல் ரூ.1,000 வரை அபராதம் விதிக்க வழிவகை செய்யப்பட்டுள்ளது. மேலும் பொது இடங்களில் புகைப்பிடித்தால் ரூ.1000 அபராதம் விதிக்கவும் வழிவகை செய்யப்பட்டு இருக்கிறது.
+
+சிகரெட் விற்பனை செய்பவர்கள் பிற பொருட்களையும் விற்பனை செய்கிறார்கள். அதனால் அவர்களுக்கு அதிகமாக அபராதம் விதித்தால் பாதிக்கப்படுவார்கள். அதனால் தான் அபராதத்தை குறைவாக நிர்ணயித்துள்ளோம்.
+
+...
+
+[Data](articles/7d29f3e9.json)
+
+---
+
+### Sri Lanka repays $20m Iranian oil debt with tea
+
+*2024-02-22 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-repays-20m-Iranian-oil-debt-with-tea/108-277561) · `en`
+
+Colombo, Feb 22 (Daily Star) -  Sri Lanka said Wednesday it had exported tea worth $20 million to Iran to partially repay its $251 million oil debts, with Colombo saying Tehran's visiting foreign minister had expressed "satisfaction" at the deal.
+
+"So far $20 million worth of tea has been exported to Iran under the barter trade agreement," Sri Lankan Prime Minister Dinesh Gunawardena's office said in a statement after talks with Iranian Foreign Minister Hossein Amir-Abdollahian.
+
+The tea-for-oil deal was agreed upon in December 2021, but exports were delayed by Colombo's economic crisis that forced then-president Gotabaya Rajapaksa to step down in July 2022.
+
+The barter deal allows sanctions-hit Iran to avoid having to use scarce hard currency to pay for imports of popular tea.
+
+It also allowed Sri Lanka to pay with tea, as the country was short of foreign currency.
+
+...
+
+[Data](articles/f905511a.json)
+
+---
+
+### ஒருவர் தான் குறிப்பிட்டகட்சியில் அங்கம் வகிக்கின்றார் என்பதற்காக தனது தனிப்பட்ட கருத்துக்களை மூடிமறைக்கவேண்டிய அவசியமில்லை - ராஜித சேனாரத்ன
+
+*2024-02-22 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177043) · `ta`
+
+ஒருவர் தான் குறிப்பிட்டகட்சியில் அங்கம் வகிக்கின்றார் என்பதற்காக தனது தனிப்பட்ட கருத்துக்களை மூடிமறைக்கவேண்டியதில்லை என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் ராஜித சேனாரத்ன தெரிவித்துள்ளார்.
+
+நிறைவேற்று அதிகாரஜனாதிபதி முறை நீக்கத்திற்காக தொடர்ந்தும் குரல்கொடுத்துவரும் நிலையிலேயே ராஜித சேனாரத்ன தனது முகநூலில் இந்த கருத்தினை பதிவுசெய்துள்ளார்.
+
+நீங்கள் ஒரு கட்சியின் உறுப்பினர் என்பதற்காகவே அல்லது கட்சியில் பதவிகளை வகிப்பதற்காகவோ உங்களின் சுதந்திரமான தனிப்பட்ட கருத்துக்களை மறைத்துவைக்கவேண்டியதில்லை எங்கள் கொள்கை மனச்சாட்சிக்கு பொருந்தக்கூடிய கட்சியென்று எதுவுமில்லை எனவும் அவர் தெரிவித்துள்ளார்.
+
+எங்களின் சில அறிக்கைகள் கட்சியின் நிலைப்பாடுகளிற்கு முரணாக காணப்படலாம் என தனது முகநூலில்  தெரிவித்துள்ள  ராஜிதசேனரட்ண சிலநேரங்களில் கட்சியின் நடவடிக்கைகளுடன் எங்கள் கொள்கைகள் மோதலாம் இதன் அர்த்தம் நாங்கள் கட்சிக்கு துரோகமிழைக்கின்றோம் என்பதல்ல அல்லது கட்சி எங்களிற்கு துரோகமிழைக்கின்றது என்பதல்ல எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/01fb5332.json)
+
+---
 
 ### Launch immediate probe on Sanath Nishantha’s death: Johnston
 
@@ -38,11 +114,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Parliament, Feb. 22 (Daily Mirror)- The complaint made by late State Minister Sanath Nishantha's wife regarding the death of her husband must be investigated into soon and the culrpits brought to book if it was an organised murder, Sri Lanka Podujana Peramuna (SLPP) MP Johnston Fernando said today.
 
-Speaking during the vote of condolence in Parliament on the late State Minister, he said it was suspicious whether the death of Sanath Nishantha was an organised murder or death due an accident.
+Speaking during the vote of condolence in Parliament on the late State Minister, he said it was suspicious whether the death of Sanath Nishantha was an organised murder or death due to an accident.
 
 He said Nishantha's wife had complained to the CID as she deemed her husbands death as suspicous.
 
-"The complaint made by Nishanth Nishantha's wife must be investgated into soon and if it was an organised murder, the culprits must be brought before courts and punished," he said.
+"The complaint made by Sanath Nishantha's wife must be investgated into soon and if it was an organised murder, the culprits must be brought before courts and punished," he said.
 
 ◼️
 
@@ -69,6 +145,38 @@ It was the first time since 2018 that a large in-person gathering of the region�
 [Data](articles/efe486db.json)
 
 [Extended Data](ext_articles/efe486db.ext.json)
+
+---
+
+### 'Architect 2024': 42nd annual session
+
+*2024-02-22 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Architect-2024-42nd-annual-session/110-277559) · `en`
+
+The inauguration ceremony of the 42nd annual session of ‘Architect 2024’ of the Sri Lanka Institute of Architects (SLIA) was held today at the BMICH. The ceremony will include the formal induction of newly elected Chartered Architects for 2023, the presentation of SLIA Design Awards, Colour Awards, Research Awards and Product Awards for 2024. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/f33a1816.json)
+
+---
+
+### காதலர் தினத்தன்று மனைவிக்கு பரிசளிப்பதற்காக  29 பவுண் நகைகளை திருடிய கணவர் உள்ளிட்ட இருவர் கைது
+
+*2024-02-22 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177039) · `ta`
+
+காதலர் தினத்தன்று தனது மனைவிக்கு பரிசளிப்பதற்காக 29 பவுண் நகைகளை திருடிய சம்பவத்துடன் தொடர்புடைய கணவர் உள்ளிட்ட இருவர் யாழ்ப்பாணத்தில் கைது செய்யப்பட்டனர்.
+
+யாழ்ப்பாணம் வல்வெட்டித்துறையைச் சேர்ந்த 25 வயதான ஆணும் ஊர்காவற்றுறையைச் சேர்ந்த 49 வயதான பெண்ணுமே காங்கேசன்துறை பிராந்திய குற்றத்தடுப்பு பிரிவு பொலிஸாரால் இவ்வாறு கைது செய்யப்பட்டனர்.
+
+காதலர் தினத்தன்று வல்வெட்டித்துறை பகுதியில் முதியவர்கள் உள்ள வீட்டினுள் 29 பவுண் நகைகள் திருடப்பட்டது.
+
+இந்நிலையில், யாழ்ப்பாண நகரில் நேற்று 4 பவுண் நகைகளை அடகு வைக்க சென்றபோது பெண்மணி ஒருவர் கைது செய்யப்பட்டார்.
+
+சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளை தொடர்ந்து பிரதான சந்தேக நபர் 25 பவுண் தாலியுடன் கைது செய்யப்பட்டார்.
+
+◼️
+
+[Data](articles/bf989d5f.json)
 
 ---
 
@@ -1346,6 +1454,18 @@ An informed source familiar with what transpired during talks said some oil tran
 
 ---
 
+### On [De]criminalizing Fantasies & Pinkwashing
+
+*2024-02-22 08:30:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-decriminalizing-fantasies-pinkwashing/) · `en`
+
+What is a time-tested truism when it comes to any form of colonization? A deep desire to exercise maximal control. The British imperial project, for example, was full of many structures and laws that were precisely meant at reaching this objective – controlling the lives of the colonized, to the best possible extent. Sex-segregated school systems, developing a herd mentality among the local populace, brutal repression of resistance movements, ecocide, genocide, indentured labour, the denigration of centuries-old local languages, literatures, and knowledge systems – to name but a few – were among the strategies they deployed everywhere in their empire. In many countries, it goes without saying that we are still grappling with the long-term consequences of this highly exploitative project.
+
+...
+
+[Data](articles/f4ba8c92.json)
+
+---
+
 ### Sri Lanka political leadership accepts 5 to 7-pct inflation without protest
 
 *2024-02-22 08:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-political-leadership-accepts-5-to-7-pct-inflation-without-protest-151893/) · `en`
@@ -1927,133 +2047,5 @@ The country has now recovered from the crisis. This time, the prices of liquor s
 [Data](articles/b6e3a57b.json)
 
 [Extended Data](ext_articles/b6e3a57b.ext.json)
-
----
-
-### Abolishing the executive presidency – is time running out?
-
-*2024-02-22 01:24:04* · [`dailyftlk`](https://www.ft.lk/columns/Abolishing-the-executive-presidency-is-time-running-out/4-758749) · `en`
-
-In this crucial election year, we need to ask ourselves why it is necessary to change the existing system – Pic by Shehan Gunasekara
-
-Earlier this week, the President’s Media Division issued a statement to the effect that the next Presidential election will be held on schedule. What was the need for that statement? In terms of the Constitution, the President’s term of office ends not later than 18 November 2024. As far as I am aware, no Member of Parliament has given any indication that he or she intends to introduce a Bill to amend the Constitution to extend the term of office of the President, as required by article 83 of the Constitution. Such a Bill, if passed with a two-third majority, will also need to be approved by the people at a referendum. In the absence of any such move, what was the need for the President’s Media Division to assert the obvious? Was it to stifle the movement for restoring the parliamentary executive that now appears to be gathering wide public support?
-
-...
-
-[Data](articles/01a878d3.json)
-
-[Extended Data](ext_articles/01a878d3.ext.json)
-
----
-
-### The President should take steps to recover the ban imposed by the Ministry of Defense to bring the Arab Buddha into the country - Rishad Bathiudeen
-
-*2024-02-22 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177003) · `ta`
-
-The government should take immediate action to reopen the Ragama and Mahara schools closed following the Easter bombing. National People's Congress leader Rishad Bathiudeen said that the President should take steps to restore the ban imposed by the Ministry of Defense to bring the Arab Buddha into the country.
-
-He said this while addressing the debate on the current state of the country held in Parliament on Wednesday (21).
-
-The Secretary of the Ministry of Defense is still in force forbidding the Arab Buddha following the Easter bombing. So the Arab Mattarasas in the country are unable to bring the Arabic bottles.
-
-Similarly, even tourists from Arab countries are unable to bring Arab books. The President should therefore take action to withdraw the letter to the Secretary of the Ministry as the Minister of Defense.
-
-...
-
-[Data](articles/6c7746a3.json)
-
-[Extended Data](ext_articles/6c7746a3.ext.json)
-
----
-
-### Spa Ceylon wins coveted ‘Global Best Beauty Product’ at World Spa Awards 2023
-
-*2024-02-22 01:12:26* · [`dailyftlk`](https://www.ft.lk/business/Spa-Ceylon-wins-coveted-Global-Best-Beauty-Product-at-World-Spa-Awards-2023/34-758746) · `en`
-
-From left: Co-founder and Managing Director Shiwantha Dias, Director, Skin and Wellness Consultant Shenuka Fernando, and Co-founder and Director Shalin Balasuriya
-
-Spa Ceylon, the iconic Ayurveda Wellness brand, has won three international accolades at the World Luxury Spa Awards 2023, including the prestigious Global Award for Best Beauty Product, alongside Awards for Best Luxury Ayurveda Spa Global and Best Spa Group Global.
-
-“These awards come at an important and exciting time for us, as we accelerate our European expansion with a heightened focus in the United Kingdom. The award for Beauty Products of the Year in particular speaks volumes for the innovation in the fusion of ages old Ayurveda wisdom and modern skin science in creating high functioning beauty products that can stand alongside the best products in the world. We believe our unique offering and would be the foundation for our global expansion,” said Co-founder/Managing Director Shiwantha Dias.
-
-...
-
-[Data](articles/d0207955.json)
-
-[Extended Data](ext_articles/d0207955.ext.json)
-
----
-
-### CTC recognised as Top Employer for fourth consecutive year
-
-*2024-02-22 01:11:17* · [`dailyftlk`](https://www.ft.lk/business/CTC-recognised-as-Top-Employer-for-fourth-consecutive-year/34-758745) · `en`
-
-Ceylon Tobacco Company PLC (CTC) has once again achieved the prestigious title of ‘Top Employer’ this time, for the fourth consecutive year. It is a distinction bestowed by the esteemed Top Employers Institute. This accolade, spanning 2021 to 2024, highlights CTC’s unwavering commitment to nurturing an exceptional work environment and robust human resource practices.
-
-The Top Employers Institute is a global authority established in 1991. Based in Amsterdam, it has evaluated over 2,300 organisations across 121 regions. The accreditation received acknowledges companies that prioritise the well-being and professional development of their employees, which promotes a culture of excellence and innovation. Renowned globally for its rigorous evaluation process and credibility, it positions CTC among the vanguard of organisations esteemed for their exemplary employee conditions and HR practices.
-
-...
-
-[Data](articles/9336d905.json)
-
-[Extended Data](ext_articles/9336d905.ext.json)
-
----
-
-### Recovery of a man's body from Thethadeevu lowland
-
-*2024-02-22 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177001) · `ta`
-
-The body of a man has been recovered on Wednesday evening (21st) evening from the temple of Thettadeevu residential village belonging to the Kaluwanchikudi police division of the Batticaloa district, Kaluwanchikudi police said.
-
-The Kaluwanchikudi police, who rushed to the spot, have recovered the body of the police in the area, who have been given a body of a body of a body near the village of Thetadheevu residential village.
-
-The body of the body has been identified as Arumugam Krishna Pillai, aged 84, from Thetadheevu residential village.
-
-In this backdrop, Kaluwanchikudi Divisional Death Officer Chidambarappillai Jeeveratnam, who visited the body on the orders of the Kaluwanchikudi Magistrate's Court in response to the orders of Judge V.Teeswaran.
-
-The body has been taken to the Batticaloa Teaching Hospital and further investigations are being carried out by the Kaluwanchikudi police.
-
-◼️
-
-[Data](articles/a8448940.json)
-
-[Extended Data](ext_articles/a8448940.ext.json)
-
----
-
-### 531 arrested in Jaffna
-
-*2024-02-22 00:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177000) · `ta`
-
-531 people have been arrested in Jaffna within a month, police said.
-
-The arrests have been arrested by the courts on charges of criminal activity.
-
-The 301 persons were arrested and 230 persons who had been issued an ordinary person were arrested by the police and appeared in courts, police said.
-
-◼️
-
-[Data](articles/9b7fe4cd.json)
-
-[Extended Data](ext_articles/9b7fe4cd.ext.json)
-
----
-
-### Comrade Dissanayake Must Visit Nuwara Eliya
-
-*2024-02-22 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Comrade-Dissanayake-Must-Visit-Nuwara-Eliya/172-277503) · `en`
-
-Nuwara Eliya’s extreme cold condition might make the less affluent locals shiver, but it is promoted as a holiday destination among the rich
-
-If we turn the pages of time there were two groups which were clearly not involved in developing this nation by being involved with the work of past governments. One is the private sector and the other is the JVP which is the key party marshalling the NPP. The private sector preferred to mind its business and the JVP didn’t wish to team up with any government and get its hands dirty.
-
-NPP Leader, Anura Kumara Dissanayake has stated on numerous occasions that the alliance he leads will appoint as Heads of State Institutions, professionals with a proven educational background.
-
-...
-
-[Data](articles/3a2b8b58.json)
-
-[Extended Data](ext_articles/3a2b8b58.ext.json)
 
 ---

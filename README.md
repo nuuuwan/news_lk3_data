@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 09:32:59**
+As of **2024-02-22 09:51:15**
 
 ## Newspaper Stats
 
-*Scraped **8,620** Articles*
+*Scraped **8,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ islandlk | 451
 dailyftlk | 464
 adalk | 736
 adaderanalk | 1,037
-tamilmirrorlk | 1,073
+tamilmirrorlk | 1,074
 virakesarilk | 1,154
-adaderanasinhalalk | 1,266
-dailymirrorlk | 1,279
+adaderanasinhalalk | 1,268
+dailymirrorlk | 1,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,618 (100.0%) of 8,620 articles have been extended.
+8,620 (99.9%) of 8,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### ගෝඨා ගෝ ගම අරගලය සමයේ මෙරට සිටි විදෙස් කාන්තාව ගැන තීරණයක්
+
+*2024-02-22 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193690) · `si`
+
+ගාලු මුවදොර 'ගෝඨා ගෝ ගම' අරගලය පැවති සමයේ මෙරට රැඳී සිටි බ්‍රිතාන්‍ය ජාතික කාන්තාවක වන 'කෙලිග් ෆ්‍රේසර්' නමැත්තියගේ වීසා අවලංගු කොට ඇයට රටින් පිට විය යුතු යැයි ආගමන හා විගමන පාලකවරයා විසින් නිකුත් කරනු ලැබූ නියෝගය බල රහිත කිරීමේ ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කළ අභියාචනා පෙත්සම නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබේ.
+
+අදාළ කාන්තාවගේ නීතිඥවරුන් මාර්ගයෙන් ගොනු කළ පෙත්සම නිශ්ප්‍රභ කළ ශ්‍රේෂ්ඨාකරණ විනිසුරු මඬුල්ල රුපියල් 250,000ක නඩු ගාස්තුවක් ගෙවන ලෙසට පෙත්සම්කාරියට නියෝග කර ඇති බව අද දෙරණ අධිකරණ වාර්තාකරු සඳහන් කළේ ය.
+
+මහින්ද සමයවර්ධන, ශිරාන් ගුණරත්න යන විනිසුරුවරුන්ගේ එකඟත්වය සහිත ව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ගාමිණී අමරසේකර මහතා විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කර තිබේ.
+
+නේවාසික වීසා මත මෙරට රැඳී සිටි තමන්ට නිකුත් කර තිබූ වීසා බලපත්‍ර අවලංගු කළ ආගමන හා විගමන දෙපාර්තමේන්තුව විසින් 2022 වසරේ අගෝස්තු මස 15 වැනි දාට පෙර රටින් පිට වන ලෙස තමාට නියෝග කළ බව පෙත්සම්කාරිය අධිකරණය හමුවේ ගොනු කළ පෙත්සමේ සඳහන් කර ඇත.
+
+...
+
+[Data](articles/f8ea6ef8.json)
+
+---
+
+### தேடப்பட்டு வந்த பல சந்தேகநபர்கள் துபாயில் கைது
+
+*2024-02-22 09:06:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்த-பல-சந்தேகநபர்கள்-துபாயில்-கைது/175-333641) · `ta`
+
+கைது செய்யப்பட்டவர்கள் தொடர்பில் சர்வதேச பொலிஸாருடன் இணைந்து  விசாரணைகள் முன்னெடுக்கப்பட்டு வருவதாக பதில் பொலிஸ்மா அதிபர் தேஷபந்து தென்னகோன் தெரிவித்தார்.
+
+நாடட்டில் இடம்பெறும் துப்பாக்கிச்சூட்டு சம்பவங்கள், கடத்தல்கள், கொலைகள் என்பவற்றுக்கு டுபாயிலிருந்துதான் செயற்படுத்தப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/a08d2d53.json)
+
+---
+
+### ජනාධිපතිවරණය නිසි කලට
+
+*2024-02-22 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193689) · `si`
+
+ජනාධිපතිවරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව නිසි කලට පැවැත්වෙනු ඇති බව අධිකරණ අමාත්‍ය ආචාර්ය විජේදාස රාජපක්ෂ මහතා පවසයි.
+
+අමාත්‍යවරයා පෙන්වා දෙන්නේ, ඒ සම්බන්ධයෙන් ජනතාව කිසිදු සැකයක් ඇති කරගත නොගත යුතු බවයි.
+
+මේ අතර, නිදහස ජනතා සභාව මෙතෙක් කිසිදු ජනාධිපති අපේක්ෂකයෙකුට සහාය පළ කිරීම සම්බන්ධයෙන් අවසන්  එකඟතාවකට පැමිණ නොමැති බව පාර්ලිමේන්තු මන්ත්‍රී ගුණපාල රත්නසේකර මහතා පවසයි.
+
+මාධ්‍යවේදීන් නැගු පැනයකට පිළිතුරු ලබාදෙමින් ගුණපාල රත්නසේකර මන්ත්‍රීවරයා මේ බව සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/9127108e.json)
+
+---
+
+### ’’Better if he did another job’’ - Hasaranga lashes out at umpire
+
+*2024-02-22 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Better-if-he-did-another-job-Hasaranga-lashes-out-at-umpire/108-277534) · `en`
+
+Dambulla, Feb 22 (Daily Mirror) - Sri Lanka's T20 captain lashed out at the umpiring during the third and final T20I against Afghanistan at Palekelle on Wednesday, claiming that a missed no ball call in the final over influenced his team's three-run defeat.
+
+With 11 runs needed in the final three balls for Sri Lanka to win, a full toss from Afghanistan's fast bowler Wafadar Mohammad soared above the waist of all-rounder Kamindu Mendis, as he stepped out of the crease and attempted to heave the ball onto the leg side.
+
+With the no ball not signaled, Kamindu Mendis pleaded with umpires Ravindra Wimalasiri and square leg umpire Lyndon Hannibal to review the call, but the umpires chose not to.
+
+"To be honest, this is not something that can happen in an international cricket match. If it was just above the waist, then it's understandable, but had that gone a little higher, it would have hit the batsman on the head!" a visibly annoyed Hasaranga told journalists after the match.
+
+...
+
+[Data](articles/d6bae937.json)
+
+---
 
 ### Police Investigations into suspicious death
 
@@ -72,19 +140,21 @@ The mobile phone, SIMP and four tobacco, which had been hidden in the rectum of 
 
 ---
 
-### மாணவர்களை இணைக்கும் நடவடிக்கை ஆரம்பம்
+### The beginning of action to connect students
 
 *2024-02-22 08:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-இணைக்கும்-நடவடிக்கை-ஆரம்பம்/175-333639) · `ta`
 
-இந்த வருடம் அரச பாடசாலைகளில் முதலாம் தரத்திற்கு மாணவர்களை இணைத்துக்கொள்ளும் நடவடிக்கை இன்று(22) ஆரம்பமாகின்றது.
+The process of enrolling students to the first grade of state schools this year begins today (22).
 
-இதற்கான நிகழ்வு எம்பிலிப்பிட்டிய போதிராஜா வித்தியாலயத்தில், கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தலைமையில் நடைபெறவுள்ளது.
+The event will be held at the Embilipitiya Bodhiraja Vidyalaya under the patronage of Education Minister Susil Premajayantha.
 
-முதலாம் தரத்திற்கு மாணவர்களை இணைத்துக்கொள்ளும் நடவடிக்கைகள் மாகாண மட்டத்திலும் மேற்கொள்ளப்படவுள்ளதாக கல்வி அமைச்சு மேலும் குறிப்பிட்டுள்ளது. R
+The Ministry of Education has further stated that the process of enrolling students for the first grade will be taken at the provincial level.. Remble
 
 ◼️
 
 [Data](articles/7af35d50.json)
+
+[Extended Data](ext_articles/7af35d50.ext.json)
 
 ---
 
@@ -103,6 +173,26 @@ In October last year, the electricity tariffs were raised by 18% for domestic an
 ◼️
 
 [Data](articles/822ca0a9.json)
+
+[Extended Data](ext_articles/822ca0a9.ext.json)
+
+---
+
+### SL,Iran explores oil trade expansions bypassing US sanctions
+
+*2024-02-22 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Iran-explores-oil-trade-expansions-bypassing-US-sanctions/108-277528) · `en`
+
+Colombo, Feb 22 (Daily Mirror) - Sri Lanka and Iran are exploring the possibility of expanding trade in oil bypassing the U.S. sanctions, an informed source said.  Iran is facing difficulties in trading goods after the US unleashed its “toughest ever” sanctions against that country over the nuclear deal.
+
+Iranian Foreign Affairs Minister Hossein Amir Abdollahian who was in Sri Lanka is reported to have discussed the matter with the Sri Lankan leaders during his interactions with them.
+
+An informed source familiar with what transpired during talks said some oil transactions take place through third parties, but the two decided to explore the possibility of expanding trade despite U.S. sanctions.
+
+An informed source familiar with what transpired during talks said some oil transactions take place through third parties, but the two decided to explore the possibility of expanding trade despite U.S. sanctions.
+
+...
+
+[Data](articles/964a47ee.json)
 
 ---
 
@@ -320,6 +410,26 @@ He also emphasized that the judge is to choose another job.
 
 ---
 
+### Central Bank shifts focus to medium-term inflation strategy
+
+*2024-02-22 06:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-shifts-focus-to-medium-term-inflation-strategy/108-277521) · `en`
+
+Addresses inherent lag in transmission that varies between 6-12 months
+
+Approx. 2-month delay between policy decisions and effects on inflation
+
+The Central Bank announced yesterday its intention to shift focus on inflation from the near term to medium term, citing the latter’s greater relevance for the decision-making processes.
+
+This strategic adjustment, according to the monetary authority, aims to address the inherent lag in transmission that limits the immediate impact of policy decisions on near-term inflation outcomes.
+
+Explaining the rationale behind this shift, a senior official of the Central Bank highlighted the approximately two-month delay between policy decisions and observable effects on inflation. By emphasising the medium term, the Central Bank seeks to provide more insightful and predictive guidance to the market and stakeholders. This, in turn, is expected to enhance policy coordination and help anchor expectations.
+
+...
+
+[Data](articles/21cf9569.json)
+
+---
+
 ### Weather today
 
 *2024-02-22 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193679) · `si`
@@ -337,6 +447,26 @@ In some places in the Western and Sabaragamuwa provinces, some places are expect
 [Data](articles/616d99ef.json)
 
 [Extended Data](ext_articles/616d99ef.ext.json)
+
+---
+
+### Tax and supply chain woes propel inflation to 6.5%
+
+*2024-02-22 04:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tax-and-supply-chain-woes-propel-inflation-to-6-5/108-277520) · `en`
+
+Pettah’s night market, popularly known as ‘torch market’, where vendors light up the night with produce from across the island
+
+Sri Lanka’s inflation expanded by 6.5 percent year-on-year in January, as the prices rose across almost all categories from the one-off impact from the higher Value Added Tax and supply chain disruptions caused by the weather-related conditions.
+
+On a monthly basis, as measured by the National Consumer Price Index, the prices rose by 3.0 percent in January, from 1.4 percent a month ago, reaching the highest increase recorded in more than a year.
+
+The prices measured by the broader consumer price index followed the closely watched Colombo Consumer Price Index released three weeks ago, which also had a reading of 6.4 percent for January, from 4.0 percent in December.
+
+The recent price pressures aren’t surprising, as the authorities were expecting the price gauges to reach in the neighbourhood of 7.0 percent in both January and February.
+
+...
+
+[Data](articles/385e0691.json)
 
 ---
 
@@ -1955,165 +2085,5 @@ The Aquaman star further said: “As a native Hawaiian, I saw the impacts of cli
 [Data](articles/74801b11.json)
 
 [Extended Data](ext_articles/74801b11.ext.json)
-
----
-
-### Two men shot dead in Mullikandal, Mannar - Adampan;Two suspects arrested
-
-*2024-02-21 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/176974) · `ta`
-
-Two persons have been arrested in connection with the murder of two people in the Mannar - Adampan and Mullikandal area, police said.
-
-The two men aged 33 and 55 from Uilangulam and Mannar were arrested on Tuesday evening, police said.
-
-The double murder took place on August 24 last year.
-
-A motorcycle riding on a motorcycle was fired at the field.
-
-Jesudasan Arundavarajah (age 42) from Nochchikkulam, Mannar and Ganapathi Kalimuthu (age-56) from Ichalakkai village in the Manthai West Divisional Secretariat Division were killed.
-
-The arrested suspects are being detained at the Adampan police station and are being investigated.
-
-◼️
-
-[Data](articles/c37a5f40.json)
-
-[Extended Data](ext_articles/c37a5f40.ext.json)
-
----
-
-### If you are united as Sri Lankans, the country can lead to fast development - the President has started the 10th National Scout Jambori
-
-*2024-02-21 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/176971) · `ta`
-
-If everyone is united as Sri Lankans, the country can lead to rapid development. President Ranil Wickremesinghe said that the future generation can be built to build a safe country.
-
-The President said this in a speech at the Goneshwara Hindu College grounds in Trincomalee on Wednesday (21).
-
-The President said that no one would join the scout Jambori on the basis of race and religion, and urged that Sri Lankans unite at all moments would be united from Point Pedro to Devendra.
-
-The President promised to cooperate to expand the scout organization that creates good citizens for the country and give the scout movement opportunities to work with the Ministry of Technology.
-
-The 10th National Scout Jambori, organized by the Sri Lanka Scout Movement, was opened by President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/dcf13340.json)
-
-[Extended Data](ext_articles/dcf13340.ext.json)
-
----
-
-### Two bribery officers expressed in Nuwara Eliya
-
-*2024-02-21 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/176982) · `ta`
-
-Nuwara Eliya District Magistrate Prabhudhika Lanka on Tuesday evening issued a directive to two bribes of Rs 50,000 to issue a "C" quality permit for a private bus for a private transport service.
-
-Officials of the Bribery Department, who was in Colombo, arrested a district manager and another officer in charge of the Nuwara Eliya District of the Central Provincial Public Transport Department yesterday (20) in Nuwara Eliya.
-
-The two arrested officers were taken up in the presence of the Nuwara Eliya District Court Judge Prabhudika Lanka, the Bribery Department yesterday evening.
-
-The judge, who conducted the hearing, ordered the two suspects to be remanded until March 4.
-
-At the same time, the lawyer, who was present on behalf of the suspects, told the judge that the district manager had diabetes and heart disease.
-
-Considering this, the Finance President ordered the suspect to be admitted to the Prison Hospital for treatment.
-
-...
-
-[Data](articles/73cbadf4.json)
-
-[Extended Data](ext_articles/73cbadf4.ext.json)
-
----
-
-### Tamil Nadu Cancer
-
-*2024-02-21 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/176979) · `ta`
-
-Sri Lanka -India fishermen have announced that no one from the Indian side will attend this year due to the echo of the fishermen of St. Anthony's Temple, Kachchativu.
-
-In addition, those who have registered in the boats for the Kachchativu festival from outside states should avoid the difficulties and that the money paid for the boys will be replaced soon.
-
-◼️
-
-[Data](articles/928beeea.json)
-
-[Extended Data](ext_articles/928beeea.ext.json)
-
----
-
-### Indian farmers attacked severe tears
-
-*2024-02-21 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193664) · `si`
-
-The Indian farmers have resumed their march after the negotiations with the federal government authorities.
-
-Farmers who claim to be given a specific price for their products warns that protests are escalating protests.
-
-It was reported that the barbed and other obstacles were reported for roads to Delhi to prevent the arrival of farmers.
-
-But the protesters say they have the strength to revert these obstacles.
-
-Some protesters were brought to this protest with bulldozers and other large tractors.
-
-As farmers in Haryana and Punjab states, the police acted in tear gas against them.
-
-◼️
-
-[Data](articles/288448ad.json)
-
-[Extended Data](ext_articles/288448ad.ext.json)
-
----
-
-### Many bodybuildings by mosquitoes -an international study
-
-*2024-02-21 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/176972) · `ta`
-
-According to a study, Corona vaccines may be due to the current diseases of the internationally present.
-
-The study of the Global Waksin Data Network has revealed that the public use of public use during the Kovit period may have caused many diseases in many years.
-
-The organization has studied about 100 million people in eight countries, including Australia Canada.
-
-These studies have confirmed that there is a linked between vitamin vaccines and some medical conditions.
-
-In a GVDN newsletter, neurological blood has been affected by the vaccine.
-
-The study reveals that myocarditis, especially myocarditis, has a heart muscle.
-
-At the same time, vaccines are also associated with brain clotting and neurological disorder.
-
-The study has also revealed that the spinal cord inflammation is found among those who used Modena vaccine, such as inflammation of the brain and the spinal cord.
-
-◼️
-
-[Data](articles/97cb5fc2.json)
-
-[Extended Data](ext_articles/97cb5fc2.ext.json)
-
----
-
-### A scary story about Covid Vaccine
-
-*2024-02-21 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193662) · `si`
-
-Research by scientists have revealed that the covard vaccine has caused the increase in the heart of the heart and the brain.
-
-However, the report states that the coronary virus is the increase in the risk.
-
-The research was carried out by a Global Waxin Data Network, the Researchage of the Health Organization.
-
-The research has been carried out using 99 million people who have received 29 countries, which have received 299 million people.
-
-71% of the world's population has obtained one dose or covard vaccine.
-
-◼️
-
-[Data](articles/7d0d9f42.json)
-
-[Extended Data](ext_articles/7d0d9f42.ext.json)
 
 ---

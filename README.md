@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 01:17:28**
+As of **2024-02-23 01:32:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,778 (99.9%) of 8,787 articles have been extended.
+8,781 (99.9%) of 8,787 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -178,6 +178,8 @@ Those elections would see a direct clash between a generation of geriatric leade
 
 [Data](articles/55385ec7.json)
 
+[Extended Data](ext_articles/55385ec7.ext.json)
+
 ---
 
 ### Buddha: The scientist of suffering and existence
@@ -192,6 +194,8 @@ The mundane teachings outlined a path to a life devoid of conflict, as evidenced
 
 [Data](articles/c4b854b7.json)
 
+[Extended Data](ext_articles/c4b854b7.ext.json)
+
 ---
 
 ### Marie Colvin: Intrepid journalist who lost an eye in northern Sri Lanka
@@ -205,6 +209,8 @@ It is said of war correspondents that they have to “Get in, Get it and Get out
 ...
 
 [Data](articles/48fd9940.json)
+
+[Extended Data](ext_articles/48fd9940.ext.json)
 
 ---
 

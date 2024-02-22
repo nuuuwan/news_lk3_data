@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 08:17:33**
+As of **2024-02-22 08:33:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,607 (100.0%) of 8,608 articles have been extended.
+8,608 (100.0%) of 8,608 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The MEPA reports the stain was confirmed in satellite images nearly seven miles 
 ...
 
 [Data](articles/1dc8c2e2.json)
+
+[Extended Data](ext_articles/1dc8c2e2.ext.json)
 
 ---
 

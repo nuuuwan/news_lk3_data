@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 09:17:25**
+As of **2024-02-22 09:32:59**
 
 ## Newspaper Stats
 
-*Scraped **8,618** Articles*
+*Scraped **8,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 442
 islandlk | 451
 dailyftlk | 464
 adalk | 736
-adaderanalk | 1,036
-tamilmirrorlk | 1,072
+adaderanalk | 1,037
+tamilmirrorlk | 1,073
 virakesarilk | 1,154
 adaderanasinhalalk | 1,266
 dailymirrorlk | 1,279
@@ -26,45 +26,83 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,616 (100.0%) of 8,618 articles have been extended.
+8,618 (100.0%) of 8,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### සැකකටයුතු මරණයක් ගැන පොලිස් විමර්ශන
+### Police Investigations into suspicious death
 
 *2024-02-22 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193688) · `si`
 
-සිය පුතා පොල්ලකින් පහරදීමක් සිදුකළ බව පවසමින් පුද්ගලයෙකු ඊයේ (21) දොම්පේ පොලීසියට පැමිණිල්ලක් ඉදිරිපත් කර තිබුණි.
+A person has lodged a complaint with the Dompe Police yesterday (21), saying that his son had assaulted his son.
 
-ඒ අනුව පොලීසිය විසින් ඔහුට රෝහල්ගතවීමට අධිකරණ වෛද්‍ය පෝරමයක් ද නිකුත් කර ඇති අතර රෝහල් ගතවීමක් සිදුවී නොමැති බවට විමර්ශනවලදී අනාවරණය වී ඇත.
+Investigations have also been revealed that the police have also issued a court medical form to hospital.
 
-ඒ අනුව ඊයේ දහවල් කාලයේ දොම්පේ පොලිස් වසමේ ගිරිදර හන්දිය අසල සැකකටයුතු ලෙස පුද්ගලයෙක් වැටී සිටින බවට දොම්පේ පොලීසියට තොරතුරක් ලැබී තිබුණි.
+Accordingly, Dompe police had received suspicious man near the Dompe Police Division in the Dompe Police Division yesterday afternoon.
 
-අදාළ පුද්ගලයා එලෙස වැටී මියගොස් තිබූ අතර ඔහු 60 හැවිරිදි මැදවරණිය තිත්තපත්තර ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The man died of fallen in the same way and was a 60 year old resident of the Tittapattapatta area.
 
 ◼️
 
 [Data](articles/bbdfb0ec.json)
 
+[Extended Data](ext_articles/bbdfb0ec.ext.json)
+
 ---
 
-### බන්ධනාගාරයට ගෙන ගිය තහනම් ද්‍රව්‍ය
+### Forbidden material taken to the prison
 
 *2024-02-22 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193687) · `si`
 
-ගුද මාර්ගයේ සඟවාගෙන තහනම් ද්‍රව්‍ය බන්ධනාගාරය තුළට රැගෙන යාමට උත්සාහ කළ රැදවියන් දෙදෙනෙකු සම්බන්ධයෙන් කොළඹ රිමාන්ඩ් බන්ධනාගාරය විශේෂ විමර්ශනයක් ආරම්භ කර තිබේ.
+The Colombo remanded has commenced a special investigation into two detainees attempting to take the prohibited substances into the rectangular.
 
-කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ රඳවා සිටි සැකකරුවන් දෙදෙනෙකු මෙම විමර්ශනය ආරම්භ කර ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි දිසානායක මහතා සඳහන් කළේ ය.
+The investigation was commenced in the Colombo Remand Prison.
 
-අදාළ සැකකරුවන් දෙදෙනා ඊයේ (21) දිනයේ බන්ධනාගාරයේ සිට කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර යළි බන්ධනාගාරය තුළට පැමිණෙන අවස්ථාවේ දී බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බළකායේ නිලධාරින් විසින් සෝදිසි කිරීමකට ලක් කර ඇත.
+The two suspects have been submitted to the Kaduwela Magistrate's Court yesterday (21) and resumed the prison emergency infatable.
 
-එහි දී එක් රැඳවියෙකුගේ ගුද මාර්ගයේ සඟවා තිබිය දී ජංගම දුරකථනයක්, සිම්පතක් සහ බැටරියක් ද අනෙක් රැඳවියාගේ ගුද මාර්ගයේ තිබී දුම්කොළ 04ක් ද සොයාගෙන ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක ගාමිණී දිසානායක මහතා වැඩිදුරටත් පැවසීය.
+The mobile phone, SIMP and four tobacco, which had been hidden in the rectum of a inmate, has also recovered four tobacco, four tobacco.
 
 ◼️
 
 [Data](articles/ed3a835a.json)
+
+[Extended Data](ext_articles/ed3a835a.ext.json)
+
+---
+
+### மாணவர்களை இணைக்கும் நடவடிக்கை ஆரம்பம்
+
+*2024-02-22 08:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-இணைக்கும்-நடவடிக்கை-ஆரம்பம்/175-333639) · `ta`
+
+இந்த வருடம் அரச பாடசாலைகளில் முதலாம் தரத்திற்கு மாணவர்களை இணைத்துக்கொள்ளும் நடவடிக்கை இன்று(22) ஆரம்பமாகின்றது.
+
+இதற்கான நிகழ்வு எம்பிலிப்பிட்டிய போதிராஜா வித்தியாலயத்தில், கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தலைமையில் நடைபெறவுள்ளது.
+
+முதலாம் தரத்திற்கு மாணவர்களை இணைத்துக்கொள்ளும் நடவடிக்கைகள் மாகாண மட்டத்திலும் மேற்கொள்ளப்படவுள்ளதாக கல்வி அமைச்சு மேலும் குறிப்பிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/7af35d50.json)
+
+---
+
+### CEB to submit electricity tariff reduction proposal to PUCSL today
+
+*2024-02-22 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97447/ceb-to-submit-electricity-tariff-reduction-proposal-to-pucsl-today) · `en`
+
+The proposal seeking to reduce electricity tariffs will be handed over to the Public Utilities Commission of Sri Lanka (PUCSL) during the course of the day, the Ceylon Electricity Board (CEB) says.
+
+CEB Spokesperson, Eng. Noel Priyantha said the state-owned electricity supplier intends to provide the benefits of the profits it earned to the consumers through this tariff revision.
+
+Power and Energy Minister Kanchana Wijesekera told the Parliament yesterday (Feb.22) that the CEB expects to reduce the rates by at least the same rates and percentages as was increased in October 2023.
+
+In October last year, the electricity tariffs were raised by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
+
+◼️
+
+[Data](articles/822ca0a9.json)
 
 ---
 
@@ -2077,43 +2115,5 @@ The research has been carried out using 99 million people who have received 29 c
 [Data](articles/7d0d9f42.json)
 
 [Extended Data](ext_articles/7d0d9f42.ext.json)
-
----
-
-### Decision on Malwane house without owner
-
-*2024-02-21 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193661) · `si`
-
-Attorney at Law, Dr. Wijayadasa Rajapakse, Dr. Wijayadasa Rajapakse said that the house with no owner without the owner of Malwane and 15 acres of land will be deployed to an effective development project.
-
-He said that a detailed proposal will be presented to the Cabinet.
-
-The Minister made this statement when he arrived in observing the house in the house.
-
-"It is said that this is an object of the subject of a controversial case in this country. At the court prosecuted, all the members of the land were not owned by the land when they were prosecuted in the court.. The land was handed over to the Cabinet of the Cabinet by submitting a tract to the Cabinet. We suggested this house as a research and training center for judges internationally. "
-
-...
-
-[Data](articles/66c352fb.json)
-
-[Extended Data](ext_articles/66c352fb.ext.json)
-
----
-
-### Heat;Warning for 6 districts;People are the ones who are
-
-*2024-02-21 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/176966) · `ta`
-
-Temperature has suddenly increased in many districts in the country.As a result, the Department of Meteorology has issued a warning to 6 districts.
-
-Temperature will be recorded in the Northwest Province, Gampaha, Colombo, Hambantota and Moneragala districts tomorrow (22).
-
-It is advised to avoid unnecessary walking in publications, drink more water and wear a pale thin clothing.
-
-◼️
-
-[Data](articles/2eb09915.json)
-
-[Extended Data](ext_articles/2eb09915.ext.json)
 
 ---

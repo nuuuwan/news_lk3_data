@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 16:48:07**
+As of **2024-02-22 17:02:31**
 
 ## Newspaper Stats
 
-*Scraped **8,708** Articles*
+*Scraped **8,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 92
 bbccomsinhala | 106
 dbsjeyarajcom | 159
 newsfirstlk | 363
-economynextcom | 446
 islandlk | 451
+economynextcom | 452
 dailyftlk | 464
 adalk | 739
-adaderanalk | 1,048
+adaderanalk | 1,049
 tamilmirrorlk | 1,083
-virakesarilk | 1,174
+virakesarilk | 1,175
 adaderanasinhalalk | 1,284
 dailymirrorlk | 1,299
 
@@ -26,11 +26,69 @@ dailymirrorlk | 1,299
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,708 (100.0%) of 8,708 articles have been extended.
+8,708 (99.9%) of 8,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Sri Lanka stocks close up, turnover tops 1bn
+
+*2024-02-22 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-tops-1bn-151985/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 6.05 points, or 0.06 percent at 10,655 while the S&P SL20 Index closed down at 3,064 points, up 0.18 percent, or 5.43 points.
+
+Turnover was at 1.4 million. A large part of this came from trading in John Keells Holdings Plc (571 million); the share closed up at 194.00.
+
+Expolanka Holdings Plc also saw large volumes being traded, contributing 202 million to the day’s turnover. The share closed up at 143.75.
+
+Sectors that attracted investor interest were Capital Goods (608mn), Transportation (203mn), Food, Beverage and Tobacco (141mn), and Banks (157mn).
+
+Several companies that announced dividends yesterday saw share prices trade up today. Commercial Bank of Ceylon Plc closed up at 91.30. Overseas Realty (Ceylon) Plc closed up at 16.20.
+
+Positive contributors to the indices in the day included Hemas Holdings Plc (73.60), and Haycarb Plc (72.00). (Colombo/Feb22/2024).
+
+◼️
+
+[Data](articles/e00ac070.json)
+
+---
+
+### Contraband items seized from 2 cells at Boossa high-security prison
+
+*2024-02-22 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97460/contraband-items-seized-from-2-cells-at-boossa-high-security-prison) · `en`
+
+Several contraband items have been found inside two cells at the Boossa high-security prison, in which two criminal gang members were kept incarcerated.
+
+During an unanticipated search operation conducted at the facility on Wednesday (Feb.21), the Police Special Task Force (STF) officers had discovered 4 mobile phones, one SIM card, a notebook containing telephone numbers and several mobile phone accessories.
+
+According to reports, these items were found from the possession of a drug trafficker alias “Rewul Kumara and the brother of the infamous criminal gang leader “Kosgoda Tharaka”.
+
+The seized contraband has been handed over to the office of the STF Commandant for onward investigations.
+
+◼️
+
+[Data](articles/8bc7e92a.json)
+
+---
+
+### வெப்பநிலை அதிகரிப்பு ; 8 மாவட்டங்களுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை
+
+*2024-02-22 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/177051) · `ta`
+
+நாட்டில்  பல மாவட்டங்களில் நேற்று முதல் வெப்பநிலை அதிகரித்துள்ளது.  இதன் காரணமாக 8 மாவட்டங்களுக்கு வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+
+நாளை வெள்ளிக்கிழமை (23) கொழும்பு, கம்பஹா, குருணாகல், புத்தளம், அநுராதபுரம், திருகோணமலை மற்றும் மொனராகலை  மாவட்டங்களில்  அதிக வெப்பநிலை பதிவாகும் என்று தெரிவித்துள்ளது.
+
+எனவே, பொதுமக்கள் வெளியிடங்களில் தேவையற்ற விதமாக நடமாடுவதை தவிர்க்குமாறும், அதிக நீரை பருகுமாறும், வெளிர்நிறத்திலான மெல்லிய ஆடையை  அணியுமாறு அறிவுறுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ed266ebb.json)
+
+---
 
 ### Indian Fisheries Attakasam
 
@@ -85,6 +143,40 @@ A text of the mobile phone at the mobile phone when the accident occurred.
 [Data](articles/75bae627.json)
 
 [Extended Data](ext_articles/75bae627.ext.json)
+
+---
+
+### Sri Lanka parliament appoints members to committees including COPE, COPA
+
+*2024-02-22 15:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-appoints-members-to-committees-including-cope-copa-151978/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s parliament has announced the names of legislators appointed to a number of committees, including the Committee on Public Enterprises (COPE) and the Committee on Public Accounts (COPA).
+
+A statement from parliament citing Deputy Speaker Ajith Rajapakse said on Thursday February 22 that 19 members have been appointed to COPE.
+
+These are, namely: Jagath Pushpakumara, Janaka Wakkumbura, Lohan Ratwatte,  Indika Anuruddha Herath,  Shantha Bandara,  Mahindananda Aluthgamage,  Duminda Dissanayake,  Rohitha Abegunawardhana,  Nimal Lanza,  U K Sumith Udukumbura,  Sanjeeva Edirimanna,  Jagath Kumara Sumithraarachchi,  (Major) Sudarshana Denipitiya,  Premnath C Dolawatte,  Upul Mahendra Rajapaksha,  M Rameshwaran,  (Mrs) Rajika Wickramasinghe,  Madhura Withanage, and  (Prof) Ranjith Bandara.
+
+...
+
+[Data](articles/d62a5cf0.json)
+
+---
+
+### Sri Lanka, Vietnam to cooperate on agriculture
+
+*2024-02-22 15:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-vietnam-to-cooperate-on-agriculture-151979/) · `en`
+
+ECONOMYNEXT – Sri Lanka and Vietnam have signed an agreement to develop the agricultural sector in the island.
+
+The agreement will include the exchange of agricultural technology, studies and research, expertise, production of advanced seeds, application of fertilizers and pesticides, and training of farmers and officials to increase harvests.
+
+Sri Lanka’s Minister of Agriculture and Plantation Industry Mahinda Amaraweera and Minister of Agriculture and Rural Development of Vietnam Minh Hoan Le signed a memorandum of understanding on Wednesday, a statement by the Government Information Department said.
+
+Bilateral discussions between the two countries were held in conjunction with the 37th Asia Pacific Conference of the United Nations Food and Agriculture Organization. (Colombo/Feb22/2024)
+
+◼️
+
+[Data](articles/8536a273.json)
 
 ---
 
@@ -163,6 +255,26 @@ Accordingly, the general public is requested to stay hydrated, take breaks in th
 [Data](articles/4a227794.json)
 
 [Extended Data](ext_articles/4a227794.ext.json)
+
+---
+
+### Merchant Bank of Sri Lanka and Finance given ‘BBB+(lka)’ rating by Fitch
+
+*2024-02-22 15:13:00* · [`economynextcom`](https://economynext.com/merchant-bank-of-sri-lanka-and-finance-given-bbblka-rating-by-fitch-151974/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it assigned Merchant Bank of Sri Lanka and Finance Plc (MBSL) a first-time national long-term rating of ‘BBB+(lka)’.
+
+“MBSL’s rating is driven by our view that the parent, BOC, would provide extraordinary support to MBSL, if required,” the rating agency said.
+
+“We assess MBSL’s standalone credit profile as being weaker than its support-driven rating because of its small franchise with 1.8% market share of sector loans, evolving business model, and weak financial profile, which is reflected in its poor asset-quality metrics, weak profitability and high leverage.”
+
+Fitch Ratings – Mumbai – 22 Feb 2024: Fitch Ratings has assigned Merchant Bank of Sri Lanka & Finance PLC (MBSL) a first-time National Long-Term Rating of ‘BBB+(lka)’.
+
+MBSL is 84.5% owned by Bank of Ceylon (BOC, A(lka)/Stable) and other BOC group entities. BOC is the largest banking group in the country.
+
+...
+
+[Data](articles/0eec5865.json)
 
 ---
 
@@ -630,6 +742,24 @@ The Department of Immigration and Emigration had decided to terminate the visa i
 
 ---
 
+### Sri Lanka to get update on GSP+ cycle at EU joint commission meeting
+
+*2024-02-22 13:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-update-on-gsp-cycle-at-eu-joint-commission-meeting-151961/) · `en`
+
+ECONOMYNEXT – Sri Lanka will get an update on the GSP+ trade concessions at a Joint Commission meeting with the European Union, the Foreign Ministry said.
+
+Three working groups on Governance, Rule of Law and Human Rights, Trade and Economic Cooperation, Development Cooperation will report to the Joint Commission.
+
+“The European Union will also brief on the current developments in the EU including an update on new GSP Regulation and the new cycle of the EU GSP+ concessions,” the statement said.
+
+The 26th session of the Joint Commission between Sri Lanka and the European Union will be  convened on 22 February 2024 in Brussels. The meeting will be co-chaired by Secretary of the Ministry of Foreign Affairs of Sri Lanka Aruni Wijewardane and EU European External Action Service Deputy Managing Director for Asia Pacific Paola Pampaloni.
+
+...
+
+[Data](articles/dbfa31db.json)
+
+---
+
 ### Murder of Australia permit
 
 *2024-02-22 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193699) · `si`
@@ -905,6 +1035,22 @@ The Prime Minister said that the Electricity Board's media spokesman on the stud
 [Data](articles/9cd5c2ec.json)
 
 [Extended Data](ext_articles/9cd5c2ec.ext.json)
+
+---
+
+### India’s BAL Investment interested in land around aragalaya site
+
+*2024-02-22 12:00:00* · [`economynextcom`](https://economynext.com/indias-bal-investment-interested-in-land-around-aragalaya-site-151950/) · `en`
+
+ECONOMYNEXT – India’s BAL Investment has expressed interest in a land in Colombo which was used as a popular people’s protest site in 2022.
+
+“An acre of land at Baladaksha Mawatha was requested for a joint development project by Bal Investments,” Prasanna Ranatunga, Minister of Urban Development and Housing said in parliament on Thursday.
+
+“They have deposited a fee of 10,000 dollars and signed a memorandum of understanding on 16 February 2024. We are waiting for the government’s assessment report. The project has not been approved, we are still considering it in keeping with all rules and regulations,” Ranatunga said in reply to a statement by National People’s Power MP Vijitha Herath. (Colombo/Feb22/2024)
+
+◼️
+
+[Data](articles/ccf9d3d3.json)
 
 ---
 
@@ -1919,183 +2065,5 @@ The MEPA reports the stain was confirmed in satellite images nearly seven miles 
 [Data](articles/1dc8c2e2.json)
 
 [Extended Data](ext_articles/1dc8c2e2.ext.json)
-
----
-
-### Suspect arrested for killing of monk
-
-*2024-02-22 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193684) · `si`
-
-A young girl has been arrested in connection with the shooting of the shooting of a man of the Malwathana, Kahanarama Viharaya.
-
-The suspect was arrested, protection, protection and collecting the actual information to protect the murder.
-
-The police stated that she was arrested in the Weragala area in Aralaganwila morning.
-
-◼️
-
-[Data](articles/6746f03b.json)
-
-[Extended Data](ext_articles/6746f03b.ext.json)
-
----
-
-### Amount of beauty cosmetics raided
-
-*2024-02-22 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193683) · `si`
-
-A stock of beauty cosmetics containing chemical compounds, which are severely damaged, has been raided.
-
-Police said that four selling stores of coatings used for beauty purposes fell.
-
-The owners of the respective shop owners have been arrested and the Investigations have been seized by 1143 cosmetics.
-
-The raid was carried out yesterday afternoon by the Walana Corruption Assistance Unit yesterday.
-
-Residents of Kalagedihena, Moratuwa, Wattala, who have been arrested in the age group of 22,25,45,52.
-
-◼️
-
-[Data](articles/efcd8c9e.json)
-
-[Extended Data](ext_articles/efcd8c9e.ext.json)
-
----
-
-### Electricity tariff resolution today
-
-*2024-02-22 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193682) · `si`
-
-The Ceylon Electricity Board (CEB) says that the proposal to revise the electricity tariffs will be handed over to the Public Utilities Commission today (22).
-
-According to the Engineer Priyantha said that the proposals will be submitted to the consumers with the objective of providing profits to the people.
-
-The Ceylon Electricity Board Kanchana Wijesekara has stated that the Ceylon Electricity Board Kanchana Wijesekara has stated that the Ceylon Electricity Board (CEB) has been instructed to completely remove the new fees last year.
-
-◼️
-
-[Data](articles/723b92ba.json)
-
-[Extended Data](ext_articles/723b92ba.ext.json)
-
----
-
-### N'T N'T N'T N'T CONSTRUCTION?Bringing funds
-
-*2024-02-22 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193681) · `si`
-
-The Afghan group won the third match between Sri Lanka and Afghanistan by 3 runs.
-
-However, Sri Lanka won the 20th tournament between the two countries.
-
-The Afghan group scored 209 runs for the loss of 5 wickets at the end of the end of 20 overs.
-
-Kurbas scored 70 runs and the Harakulla Sazai, 70 runs in the innings of Afghanistan.
-
-Sri Lanka scored 206 runs for the loss of 6 wickets at the end of the first 20 overs.
-
-Due to 19 runs and Kamindu Mendis scored 65 runs for the loss of Sri Lanka.
-
-The Sri Lanka team told a media briefing regarding the fourth ball in the final will commented on the judge's decision.
-
-He said such judges could not be expected in an international competition.
-
-Leader Mountma Hasaranga said that if the ball was rise, the ball would not be in the head of the batsman and that the judge would not be incompatible with the international judge.
-
-He also emphasized that the judge is to choose another job.
-
-...
-
-[Data](articles/7496efac.json)
-
-[Extended Data](ext_articles/7496efac.ext.json)
-
----
-
-### Central Bank shifts focus to medium-term inflation strategy
-
-*2024-02-22 06:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-shifts-focus-to-medium-term-inflation-strategy/108-277521) · `en`
-
-Addresses inherent lag in transmission that varies between 6-12 months
-
-Approx. 2-month delay between policy decisions and effects on inflation
-
-The Central Bank announced yesterday its intention to shift focus on inflation from the near term to medium term, citing the latter’s greater relevance for the decision-making processes.
-
-This strategic adjustment, according to the monetary authority, aims to address the inherent lag in transmission that limits the immediate impact of policy decisions on near-term inflation outcomes.
-
-Explaining the rationale behind this shift, a senior official of the Central Bank highlighted the approximately two-month delay between policy decisions and observable effects on inflation. By emphasising the medium term, the Central Bank seeks to provide more insightful and predictive guidance to the market and stakeholders. This, in turn, is expected to enhance policy coordination and help anchor expectations.
-
-...
-
-[Data](articles/21cf9569.json)
-
-[Extended Data](ext_articles/21cf9569.ext.json)
-
----
-
-### Central Bank shifts focus to medium-term inflation strategy
-
-*2024-02-22 06:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-shifts-focus-to-medium-term-inflation-strategy/155-277521) · `en`
-
-Addresses inherent lag in transmission that varies between 6-12 months
-
-Approx. 2-month delay between policy decisions and effects on inflation
-
-The Central Bank announced yesterday its intention to shift focus on inflation from the near term to medium term, citing the latter’s greater relevance for the decision-making processes.
-
-This strategic adjustment, according to the monetary authority, aims to address the inherent lag in transmission that limits the immediate impact of policy decisions on near-term inflation outcomes.
-
-Explaining the rationale behind this shift, a senior official of the Central Bank highlighted the approximately two-month delay between policy decisions and observable effects on inflation. By emphasising the medium term, the Central Bank seeks to provide more insightful and predictive guidance to the market and stakeholders. This, in turn, is expected to enhance policy coordination and help anchor expectations.
-
-...
-
-[Data](articles/756e422b.json)
-
-[Extended Data](ext_articles/756e422b.ext.json)
-
----
-
-### Weather today
-
-*2024-02-22 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193679) · `si`
-
-The Southern Province, the Southern Province and in the Southern Province can occur today (22).
-
-The latest announcement issued by the Department appeared in the evening or night during the evening.
-
-In addition, there are mainly rainy weather in the rest of the island.
-
-In some places in the Western and Sabaragamuwa provinces, some places are expected to be found.
-
-◼️
-
-[Data](articles/616d99ef.json)
-
-[Extended Data](ext_articles/616d99ef.ext.json)
-
----
-
-### Anura Kumara Dissanayake: The 'security of the elite regime'?Is the prospect of the common people?Take a decision '
-
-*2024-02-22 04:29:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp07724vn2no) · `si`
-
-There is nothing here nor contains noviodio heading and land in NPP.
-
-Anura Kumara Dissanayake: The 'security of the elite regime'?Is the prospect of the common people?Take a decision '
-
-Are you standing for the safety of the elite regime?Or do you rally the needs of the public?That the people of the country should take a decision about going
-
-Leader of the National Power Anura Kumara Dissanayake said in a discussion with BBC Sinhala service.
-
-He is the candidate named the national folk force to contest the next presidential election.
-
-"Does the elite protect?Do you rally the common people?The conflict between the saying is the future political conflict. So I think if no citizen in our country is independent of our country and we cannot represent the view that we are aside. Either to go to the safety of this cutely corrupt elite regime. Either the public needs to come to the needs of the public. "
-
-...
-
-[Data](articles/88c91272.json)
-
-[Extended Data](ext_articles/88c91272.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 14:02:36**
+As of **2024-02-22 14:17:27**
 
 ## Newspaper Stats
 
-*Scraped **8,670** Articles*
+*Scraped **8,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 446
 islandlk | 451
 dailyftlk | 464
 adalk | 737
-adaderanalk | 1,043
+adaderanalk | 1,044
 tamilmirrorlk | 1,080
-virakesarilk | 1,164
+virakesarilk | 1,171
 adaderanasinhalalk | 1,275
-dailymirrorlk | 1,291
+dailymirrorlk | 1,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,670 (100.0%) of 8,670 articles have been extended.
+8,670 (99.9%) of 8,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Archaeological sites in Afghanistan bulldozed for ‘systematic looting’
+
+*2024-02-22 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97455/archaeological-sites-in-afghanistan-bulldozed-for-systematic-looting) · `en`
+
+More than 37 archaeological sites in Afghanistan have been destroyed and targeted with “systematic looting” under the Taliban-run government, according to researchers at the University of Chicago.
+
+Researchers at the university’s Center for Cultural Heritage Preservation identified 162 ancient settlements that faced devastation at an alarming rate between 2018 and 2021, continuing at 37 sites since the Taliban returned to power in 2021.
+
+The analysis of satellite images of sites identified around northern Afghanistan’s Balkh region has provided the first evidence of patterns of looting that were initially identified under the Taliban’s first stint in power and have continued since, according to a BBC report.
+
+The sites that have been plundered date back to the Late Bronze Age and Iron Age, with some even predating 1000 BC, researchers say.
+
+...
+
+[Data](articles/15d0db28.json)
+
+---
+
+### நுவரெலியாவில் 46,000 ரூபா பெறுமதியான பழங்களை திருடிய நபருக்கு விளக்கமறியல்!
+
+*2024-02-22 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/177037) · `ta`
+
+நுவரெலியா - கண்டி பிரதான வீதியில் டொப்பாஸ் பகுதியில் பழங்கள் மற்றும் மரக்கறி  விற்பனை செய்யும் கடை ஒன்றில் 46,000 ரூபாய் பெறுமதி மிக்க பழங்களை திருடிய நபரை எதிர்வரும் 26 ஆம் திகதி திங்கட்கிழமை வரை விளக்கமறியலில் வைக்குமாறு நுவரெலியா நீதவான் நீதிமன்ற நீதிபதி பிரபுதிகா லங்கான்தினி உத்தரவு பிறப்பித்துள்ளார்.
+
+நுவரெலியா குற்றத்தடுப்பு பொலிஸாருக்கு பழக்கடை உரிமையாளர் செய்திருந்த முறைப்பாட்டுக்கு அமைய நுவரெலியா பொலிஸ் தலமையக பிரதான பொலிஸ் பரிசோதகர் பிரேமலால் ஹட்டியாராச்சியின் உத்தரவின் பேரில், குற்றத்தடுப்புப் பொலிஸ் பிரிவு பொறுப்பதிகாரி இந்துநில் பிரேமலால் விசாரணைகளை முன்னெடுத்திருந்தார்.
+
+இதன்போது, விசாரணைக்காக நியமிக்கப்பட்டிருந்த 4603 சுரவீர, 60326 ஹேரத் மற்றும் 104705 ரணசிங்க ஆகிய மூவர் அடங்கிய குழுவினர் விசாரணையில் ஈடுப்பட்டு சிசிரிவி கமராவில் பதிவாகியிருந்த காணொளி உதவியுடன் சந்தேக நபரை  கைது செய்தனர்.
+
+...
+
+[Data](articles/38a1a37d.json)
+
+---
 
 ### Vietnam to share digital agriculture expertise with Sri Lanka
 
@@ -52,6 +86,44 @@ PM Gunawardena congratulated Vietnam for the success of rapid economic developme
 
 ---
 
+### Enjoining order issued restraining ITAK from holding national convention
+
+*2024-02-22 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Enjoining-order-issued-restraining-ITAK-from-holding-national-convention/108-277555) · `en`
+
+Colombo, Feb 22 (Daily Mirror) - The Trincomalee District Court issued an enjoining order restraining office bearers of Ilankai Tamil Arasu Kadchi (ITAK) from holding the National Convention scheduled to be held on February 19.
+
+The District Court made this order consequent to a plaint filed by plaintiff Chandrasekaram Para, a member of the ITAK, and this enjoining order will be effective till February 29.
+
+The plaintiff is challenging the election of the newly elected leader of the ITAK based on alleged irregularities followed at the election.
+
+The plaintiff has named Mavai Senathirajah, S. Sritharan, P. Sathiyalingam, S. Kugathasan, S.X. Kulanayagam, M.A. Sumanthiran and S. Yogeshwaran as defendants.
+
+The plaintiff further sought an enjoining order restraining the ITAK office bearers from implementing any of the decisions taken at the purported General Council meetings held on January 21, 2024 and January 27, 2024.
+
+◼️
+
+[Data](articles/2f33cd6f.json)
+
+---
+
+### British instagrammer’s appeal against her deportation dismissed
+
+*2024-02-22 13:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/British-instagrammers-appeal-against-her-deportation-dismissed/108-277553) · `en`
+
+Colombo, Feb 22 (Daily Mirror) - An appeal application filed by a British woman instagrammer Kayleigh Fraser challenging the authorities' decision to deport her from Sri Lanka has been dismissed by the Supreme Court.
+
+Kayleigh Fraser who had been documenting Sri Lanka’s anti-government protests on social media filed this appeal challenging the legality of the Court of Appeal decision to dismiss her writ petition. In her writ petition, the appellant sought an order to quash the decision of the Department of Immigration and Emigration to deport her in an arbitrary manner.
+
+The Attorney General had raised preliminary objections against the appeal on the basis that there is no proper affidavit before court and that the appellant has suppressed material facts and misrepresented facts to court.
+
+The Department of Immigration and Emigration had decided to terminate the visa issued to Fraser for violating visa conditions and had informed her to leave the country by 15 August 2022.
+
+◼️
+
+[Data](articles/0b4547e1.json)
+
+---
+
 ### Presidential election will be held in due time - Wijeyadasa
 
 *2024-02-22 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97452/presidential-election-will-be-held-in-due-time-wijeyadasa) · `en`
@@ -70,6 +142,74 @@ Meanwhile, MP Gunapala Rathnasekara said the Freedom People’s Congress has yet
 
 ---
 
+### கொக்குத்தொடுவாய் மனித புதைகுழி அகழ்வு பணியினை கொண்டு செல்ல நிதி இல்லை ; மார்ச் மாதம்  தீர்மானம்
+
+*2024-02-22 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177032) · `ta`
+
+கொக்கு தொடுவாய்  மனித  புதைகுழி  அகழ்வு பணி தொடர்பான குறித்த வழக்கானது இன்று வியாழக்கிழமை முல்லைத்தீவு மாவட்ட நீதவான் நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் தலைமையில் எடுத்துக் கொள்ளப்பட்டது.
+
+கொக்குதொடுவாய் பகுதியில் கண்டு பிடிக்கப்பட்ட மனித புதைகுழியின் அகழ்வானது 1ம் 2ம் என இரண்டு கட்டங்களில் நடைபெற்றிருந்தது. முதல் கட்ட அகழ்வானது 06.09.2023 அன்று ஆரம்பமாகி பதினொரு நாட்கள் நடைபெற்று 17 உடற்பாகங்கள் மீட்கப்பட்ட நிலையில் இடைநிறுத்தப்பட்டிருந்தது. மீண்டும் அகழ்வின் இரண்டாம் கட்ட பணிகள் கடந்த 20.11.2023  அன்று ஆரம்பிக்கப்பட்டு  தொடர்ச்சியாக ஒன்பது நாட்கள் நடைபெற்று 40 எலும்புக்கூட்டு தொகுதிகள் மீட்கப்பட்டுள்ளதுடன் இரண்டாம் கட்ட அகழ்வுபணி இடைநிறுத்தப்பட்டிருந்தது.
+
+அத்தோடு,  அகழ்வு ஆய்வு நடவடிக்கையின் இறுதி நாட்களில் மேற்கொள்ளப்பட்ட ஸ்கான் பரிசோதனை மூலம் மனித புதை குழிக்கு மேற்கு பக்கமாக இரண்டு மீற்றர் நீளத்திற்கு உடலங்கள் காணப்படுவதாக பரிசோதனை மூலம் கண்டறியப்பட்டிருந்தது. அதனையடுத்து குறித்த அகழ்வுப்பணி இவ்வருடம்  மார்ச் மாதம் நடைபெற திட்டமிடப்பட்டிருப்பதாகவும் தெரிவிக்கப்பட்டிருந்தது.
+
+...
+
+[Data](articles/0d0bd8f6.json)
+
+---
+
+### பெருந்தோட்ட மக்களை அவமதிக்கும் வகையிலான கருத்து கீழ்த்தரமானது : இ.மி.ச.ஊடக பேச்சாளருக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுங்கள் - எதிர்க்கட்சித் தலைவர்
+
+*2024-02-22 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177026) · `ta`
+
+பெருந்தோட்ட மக்களை அவமதிக்கும் வகையில் கருத்து தெரிவித்த மின்சார சபையின் ஊடக பேச்சாளரை பதவி நீக்கி  அவருக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்க வேண்டும். மலையக மக்களை அவமதிக்கும் வகையில் கீழ்த்தரமான முறையில் கருத்து தெரிவித்துள்ளதை வன்மையாக கண்டிக்கிறேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+மின்சார சபையின் பேச்சாளர் குறிப்பிட்ட கருத்தின் உண்மை தன்மை தொடர்பில் ஆராய்ந்து அவருக்கு எதிராக ஒழுக்காற்று நடவடிக்கைகளை முன்னெடுக்குமாறு ஆலோசனை வழங்கியுள்ளேன் என பிரதமர் தினேஷ் குணவர்தன தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  வியாழக்கிழமை (22) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றிய எதிர்க்கட்சித் தலைவர்,
+
+பதுளை பகுதியில் பெருந்தோட்டப் பகுதியில் உள்ள வீட்டில் மின்விநியோகம் துண்டிக்கப்பட்டதை தொடர்ந்துஷ, தனது பிள்ளைகளின் கற்றல் நடவடிக்கைகளுக்காக தந்தை ஒருவர் தனது பக்கத்து வீட்டாரின் அனுமதியுடன் அவர்களின் வீட்டில் இருந்து மின்சாரத்தை பெற்றுக்கொள்ள முயற்சித்த போது மின்சார தாக்குதலுக்கு உள்ளாகி உயிரிழந்துள்ளார்.
+
+...
+
+[Data](articles/4c68b264.json)
+
+---
+
+### பெலியத்தயில் ஐவர் சுட்டுப் படுகொலை : துப்பாக்கிச்சூடு நடத்திய இருவர் உள்ளிட்ட 13 இலங்கையர்கள் துபாயில் கைது
+
+*2024-02-22 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177033) · `ta`
+
+பெலியத்தயில் ஐந்து பேர் சுட்டுக் கொலை செய்யப்பட்ட சம்பவத்தில் துப்பாக்கிச் சூடு நடத்திய இருவர் உட்பட இலங்கையைச் சேர்ந்த 13 சந்தேக நபர்கள் துபாயில் நேற்று (21) துபாய் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கைதானவர்களில் பெலியத்த கொலைச் சம்பவத்தோடு தொடர்புடையவர் என சந்தேகிக்கப்படும் குற்றக்கும்பலைச் சேர்ந்த உரகஹா மைக்கேல் என்பவரும் அடங்குவார்.
+
+துபாயிலுள்ள இரவு நேர விடுதியில் ஏற்பட்ட தகராறின்போது பலரை பொலிஸார் கைது செய்தபோதே, இந்த 13 இலங்கையர்களும் சிக்கியுள்ளனர்.
+
+சர்வதேச பொலிஸாரால் சிவப்பு அறிவித்தல் பிறப்பிக்கப்பட்ட குற்றவாளிகளே இதன்போது கைதாகியுள்ளதாக மேலதிக விசாரணைகளின் பின்னர் தெரியவந்துள்ளது.
+
+இந்நிலையில், இலங்கையர்கள் 13 பேர் கைது செய்யப்பட்டமை தொடர்பான விபரங்கள் இலங்கை அதிகாரிகளுக்கு வழங்கப்பட்டதன் அடிப்படையில், குற்றப் புலனாய்வுத் திணைக்கள அதிகாரிகள் குழுவொன்று மேலதிக சட்ட நடவடிக்கைகளை மேற்கொள்வதற்காக துபாய்க்கு செல்லவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f07137a5.json)
+
+---
+
+### யாழ். விமான நிலைய விஸ்தரிப்புக்காக காணி சுவீகரிப்பு ; விபரங்களைக் கோரி ஜனாதிபதியின் செயலாளர் கடிதம்
+
+*2024-02-22 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177029) · `ta`
+
+யாழ்ப்பாணம் சர்வதேச விமான நிலையத்துக்கென விடுவிக்கப்பட்ட காணிகளில் 500 ஏக்கரை மீள அளவீடு செய்வது தொடர்பாக பணிகளின் அறிக்கைகளை அனுப்பி வைக்குமாறு ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்கவால்  துறைமுகங்கள், கப்பல்துறை மற்றும் விமான சேவைகள் அமைச்சின் செயலாளர் ருவன் சந்திரவுக்கு கடிதம் அனுப்பபட்டுள்ளது.
+
+யாழ்ப்பாணம் சர்வதேச விமான நிலைய விஸ்தரிப்புக்கென மக்கள் மீள குடியேறியுள்ள வலி வடக்கு பிரதேசத்தின் குரும்பசிட்டி J/242, கட்டுவன் J/238, கட்டுவன் மேற்கு J/239, குப்பிளான் வடக்கு J/211, மயிலிட்டி தெற்கு J/240 கிராமங்களில் காணி அளவீடுகள் இடம்பெறுவதாக மக்கள் எதிர்ப்பு தெரிவித்த நிலையில், அது தொடர்பில் ஜனாதிபதியின் கவனத்துக்கு யாழ்ப்பாணம்,கிளிநொச்சி மாவட்ட பாராளுமன்ற உறுப்பினரும் பாராளுமன்ற குழுக்களின் பிரதித் தவிசாளருமான அங்கஜன் இராமநாதன் எழுத்துமூலம் தெரியப்படுத்தியிருந்தார்.
+
+...
+
+[Data](articles/da93fe21.json)
+
+---
+
 ### Suspect arrested for renting vehicles
 
 *2024-02-22 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193698) · `si`
@@ -85,6 +225,76 @@ The police have found 5 vehicles in possession of the suspect when the arrests w
 [Data](articles/3ac99f97.json)
 
 [Extended Data](ext_articles/3ac99f97.ext.json)
+
+---
+
+### Independent views should not be suppressed just because one joins a party: Rajitha
+
+*2024-02-22 12:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Independent-views-should-not-be-suppressed-just-because-one-joins-a-party-Rajitha/108-277554) · `en`
+
+Colombo, Feb 22 (Daily Mirror) -  Samagi Jana Balawegaya (SJB) MP Rajitha Senaratne who has been continously expressing his support for the scrapping of the Executive Presidency today stressed that one should not suppress his or her independent views just because he or she belongs to a political party.
+
+"I don't think you should keep suppressing your independent views just because you have joined a party or are holding a post in it. There is no party in the world that fits into  our ideology or conscience," Dr. Senaratne said in his latest Facebook Post.
+
+"Some of our statements may clash with the party's stance. There may be times that some actions of the party clash with our ideologies as well. This does not mean we have  betrayed the party or that the party has betrayed us," he added.
+
+...
+
+[Data](articles/c6c2c760.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-22 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177030) · `ta`
+
+இன்று வியாழக்கிழமை (பெப்ரவரி 22) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 306.5399 ஆகவும் விற்பனை விலை ரூபா 316.0679 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7b22c8d8.json)
+
+---
+
+### கொவிட் தடுப்பூசிகளால் ஏற்படும் உடல் பாதிப்புகள் குறித்து சுகாதாரத் துறையினர் விழிப்புடன் இருக்க வேண்டும் - அரச மருத்துவ அதிகாரிகள் சங்கம்
+
+*2024-02-22 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177027) · `ta`
+
+கொவிட் தடுப்பூசிகளால் பல உடல்பாதிப்புகள் ஏற்படுகின்றமை சர்வதேஆராய்ச்சியின் மூலம் தெரியவந்துள்ளதை தொடர்ந்து இது குறித்து இலங்கையின் சுகாதார துறையினர் விழிப்புடன் இருக்கவேண்டும் என மருத்துவ நிபுணர்கள் வலியுறுத்தியுள்ளனர்.
+
+சர்வதேச ஆராய்ச்சியின் பாரதூர தன்மை காரணமாக இலங்கை எச்சரிக்கை நிலைக்கு செல்வது சிறந்த விடயம் என அரசமருத்துவ அதிகாரிகள் சங்கத்தின் பேச்சாளர் சமில் விஜயசிங்க தெரிவித்துள்ளார்.
+
+உள்நாட்டில் கொவிட்தடுப்பூசிகளால் ஏற்படக்கூடிய பக்க விளைவுகள் குறித்து இலங்கை எச்சரிக்கை நிலையில் இருப்பதும் விழிப்புணர்வையும் அவதானிப்பையும் பேணுவது மிகவும் அவசியம் என அவர் தெரிவித்துள்ளார்.
+
+அதேவேளை இந்த ஆராய்;ச்சி இலங்கை சூழமைவிற்கு மாறான ஒரு சூழமைவில் மேற்கொள்ளப்பட்டதால் இதனை இலங்கையுடன்பொருத்திபார்க்க முடியாது எனவும் குறிப்பிட்டுள்ள அரசமருத்துவ அதிகாரிகள் சங்கத்தின் பேச்சாளர் சமில் விஜயசிங்க மேலும் மரபணுக்கள் உட்பட பல விடயங்கள் இந்த விடயத்தில் முக்கிய பங்களிப்பை வழங்குகின்றன எனவும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/1370c582.json)
+
+---
+
+### Release 18 fishermen who cross the border;Prison
+
+*2024-02-22 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177023) · `ta`
+
+18 fishermen who have crossed the Sri Lankan waters have been released and sentenced to death.
+
+On the 7th of this month, 19 Indian fishermen who were fishing along the border were arrested in the Nedundevu sea with two boats.
+
+A case was filed against them in the Kayts court on the day.
+
+In this case, the magistrate ordered all of them to be interrogated. The case was taken up again at the Kayts Court today (22).
+
+In response to today's case, 7 Indian fishermen who were traveling in a boat with Ind/TN/10/mm/925 were released and the boat was released with the conditions of the five -year -old 18 -month imprisonment.
+
+Sudhakaran, Deputy Director of the Jaffna District Aquatic Resources Department, said that 11 persons who were traveling on the boat on Ind/TN/TN/TN/10/Mm/324 were released with the conditions of the 18 -month prison sentence for five years.
+
+◼️
+
+[Data](articles/69311366.json)
+
+[Extended Data](ext_articles/69311366.ext.json)
 
 ---
 
@@ -129,30 +339,6 @@ The ban aims to punish Hamas for the October attacks as well as prevent the grou
 [Data](articles/037ce7b8.json)
 
 [Extended Data](ext_articles/037ce7b8.ext.json)
-
----
-
-### Release 18 fishermen who cross the border;Prison
-
-*2024-02-22 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177023) · `ta`
-
-18 fishermen who have crossed the Sri Lankan waters have been released and sentenced to death.
-
-On the 7th of this month, 19 Indian fishermen who were fishing along the border were arrested in the Nedundevu sea with two boats.
-
-A case was filed against them in the Kayts court on the day.
-
-In this case, the magistrate ordered all of them to be interrogated. The case was taken up again at the Kayts Court today (22).
-
-In response to today's case, 7 Indian fishermen who were traveling in a boat with Ind/TN/10/mm/925 were released and the boat was released with the conditions of the five -year -old 18 -month imprisonment.
-
-Sudhakaran, Deputy Director of the Jaffna District Aquatic Resources Department, said that 11 persons who were traveling on the boat on Ind/TN/TN/TN/10/Mm/324 were released with the conditions of the 18 -month prison sentence for five years.
-
-◼️
-
-[Data](articles/69311366.json)
-
-[Extended Data](ext_articles/69311366.ext.json)
 
 ---
 
@@ -602,7 +788,7 @@ The fine is payable within 60 days if not, the convict will do a term of 18 mont
 
 *2024-02-22 10:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-apologises-spokesman-resigns/108-277547) · `en`
 
-Colombo, Feb 22 (Daily Mirrro) - After facing severe criticism on social media for the remarks by Ceylon Electricity Board (CEB) media spokesman Noel Priyantha, Power and Energy Minister Kanchana Wijesekera has extended an apology on behalf of both the Ministry and the CEB.
+Colombo, Feb 22 (Daily Mirro) - After facing severe criticism on social media for the remarks by Ceylon Electricity Board (CEB) media spokesman Noel Priyantha, Power and Energy Minister Kanchana Wijesekera has extended an apology on behalf of both the Ministry and the CEB.
 
 In a recent television programme, Noel Priyantha sparked controversy by suggesting that children should resort to studying using oil lamps if necessary. He cited the precedent set by previous generations who excelled in their studies under similar conditions.
 
@@ -1853,225 +2039,5 @@ Kumindu Mendis, who was weighing the Sri Lankan innings after the dismissal, sco
 [Data](articles/3c3b2ade.json)
 
 [Extended Data](ext_articles/3c3b2ade.ext.json)
-
----
-
-### 43 percent of languages of the world endangered
-
-*2024-02-21 22:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/43-percent-of-languages-of-the-world-endangered/108-277502) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - The importance of preserving mother languages were stressed today with the revelation that 43 percent of the 7,000 languages in the world have become endangered.
-
-Bangladesh High Commissioner in Colombo Tareq Md Ariful Islam led the campaign for the preservation of mother tongues during an event organized by the High Commission, the Ministry of Education and the National Scouts Association of Sri Lanka to commemorate the International Day of Mother Languages.
-
-“Around 43 percent of the 7,000 languages in the world have become endangered today. More than 40 percent of the people who speak different languages do not have access to education in their mother tongues. It is time we turned the tide,” High Commissioner Islam said.
-
-Minister of Foreign Affairs Ali Sabry also stressed the importance of languages and thereby stressed that languages bring about harmony in spite of diversity.
-
-...
-
-[Data](articles/d8608bc1.json)
-
-[Extended Data](ext_articles/d8608bc1.ext.json)
-
----
-
-### Minister calls for proposals to halt sending Sri Lankan women overseas as housemaids
-
-*2024-02-21 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97445/minister-calls-for-proposals-to-halt-sending-sri-lankan-women-overseas-as-housemaids) · `en`
-
-Minister of Labour and Foreign Employment Manusha Nanayakkara says he has sought proposals from officials of the SLBFE and foreign employment agencies to “completely stop” sending Sri Lankan women overseas to serve as housemaids.
-
-Taking to ‘X’ (formerly Twitter), the Minister stated that he has urged the management of the Sri Lanka Bureau of Foreign Employment (SLBFE) and the Association of Licensed Foreign Employment Agencies (ALFEA) to submit proposals and plans to completely stop sending Sri Lankan women overseas to work as housemaids.
-
-Nanayakkara emphasised the importance of halting the practice of sending women for overseas employment as domestic workers and instead proposed that women should be encouraged to seek foreign jobs in high paying skilled categories of work.
-
-...
-
-[Data](articles/30d7efca.json)
-
-[Extended Data](ext_articles/30d7efca.ext.json)
-
----
-
-### Is a car accident?Is a murder?
-
-*2024-02-21 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193677) · `si`
-
-A person has been identified as a car collided with a corporate motorcycle in Dehiwala.
-
-The accident had occurred near the intersection of Parakumba Mawatha on Kadawatha Road, Dehiwala.
-
-The police have commenced investigations into whether the accident was deliberately committed.
-
-Police investigations have also commenced the argument between the driver of the suspect car and the victim.
-
-However, the Driver of the suspect car has been arrested by the Dehiwala Police.
-
-The arrested was a 30 year old resident of Dehiwala.
-
-The suspect is to be produced before the Mount Lavinia Magistrate's Court tomorrow.
-
-◼️
-
-[Data](articles/4393d5fb.json)
-
-[Extended Data](ext_articles/4393d5fb.ext.json)
-
----
-
-### Suspect arrested with commercial explosives during search of a bus
-
-*2024-02-21 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97444/suspect-arrested-with-commercial-explosives-during-search-of-a-bus) · `en`
-
-A resident of Mundal, Mannar was apprehended by the Sri Lanka Navy on Wednesday morning (21 Feb.) with a stock of 650 water gel sticks – a type of commercial explosive.
-
-The 43-year-old suspect was arrested during a search of a public transport bus in the Pallemunai area, and was handed over to the Mannar Police, along with the seized explosives, Sri Lanka Navy reported.
-
-The special coordinated search operation was carried out by the SLNS Gajaba in the North Central Naval Command, with the assistance of the Mannar Divisional Crime Detective Bureau.
-
-It is suspected that the explosive items have been obtained with the intention of using them for illegal fishing activities.
-
-The Sri Lanka Navy says it has been conducting regular operations to crack down on fishing using explosives as it poses a serious threat to marine life and can cause long-lasting damage to the marine ecosystems.
-
-◼️
-
-[Data](articles/8fc0c890.json)
-
-[Extended Data](ext_articles/8fc0c890.ext.json)
-
----
-
-### Measures from Minister Manushetu suspension of women abroad to domestic work
-
-*2024-02-21 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193676) · `si`
-
-Minister of Labor and Foreign Employment, Minister of Labor and Foreign Employment to take necessary steps to stop Sri Lankan women to abstain from unhappy as domestic workers and an accelerated foreign employment agentThe Establishment Association has been informed yesterday (20th).
-
-The Minister also emphasized the importance of sending workers only for training employment opportunities as housemaids.
-
-Accordingly, in ten years, the Minister has informed the Licensed Foreign Employment Association today with the Licensed Appointed Representative Association (Licensed Affairs Association).
-
-◼️
-
-[Data](articles/acd4393d.json)
-
-[Extended Data](ext_articles/acd4393d.ext.json)
-
----
-
-### “Lotus Tower” flashing in red
-
-*2024-02-21 21:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரம்-சிவப்பு-நிறத்தில்-ஒளிரும்/175-333629) · `ta`
-
-The Lotus Tower in Colombo will be blinking tomorrow (22) to raise awareness on the day of International Meanitis.
-
-This is to be illuminated as part of the recent programs of the Encypalitis International to raise awareness of this dangerous neurological condition.. Remble
-
-◼️
-
-[Data](articles/f8d9d6fe.json)
-
-[Extended Data](ext_articles/f8d9d6fe.ext.json)
-
----
-
-### A man arrested for conflicting with Jaffna Teaching Hospital Officer
-
-*2024-02-21 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/176998) · `ta`
-
-A man was arrested by the police on Wednesday (21) at the Jaffna Teaching Hospital.
-
-The man who went to the hospital's superintendent's office and spoke inappropriate words, was arrested by the hospital police and handed over to the Jaffna police after he was conflicted with the officers.
-
-Jaffna police are conducting investigations to the suspect as the man is reported to be in the liquor.
-
-◼️
-
-[Data](articles/feb50147.json)
-
-[Extended Data](ext_articles/feb50147.ext.json)
-
----
-
-### Rising trend of drug addicts turning to pharmaceutical drugs in Western Province
-
-*2024-02-21 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rising-trend-of-drug-addicts-turning-to-pharmaceutical-drugs-in-Western-Province/108-277500) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - Amid the 'Yukthiya Operation' crackdown in the Western Province, there has been a concerning trend of drug addicts increasingly turning to pharmaceutical drugs as alternative sources due to the shortage of heroin, ice, or cannabis and the authorities have launched a major operation in the western province targeting dozens of errant pharmacies that sell psychoactive drugs to drug addicts.
-
-Police and National Medicines Regulatory Authority (NMRA) officials launched a major operation in the Western Province during the last 48 hours targeting dozens of errant pharmacies that would sell psychoactive drugs for the addicts running short of their daily dose due to scarcity of narcotic drugs from the ‘Yukthiya Meheyuma’.
-
-...
-
-[Data](articles/a30be5e5.json)
-
-[Extended Data](ext_articles/a30be5e5.ext.json)
-
----
-
-### Rear Admiral Pradeep Ratnayake appointed by the Navy Staff
-
-*2024-02-21 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193675) · `si`
-
-Rear Admiral Pradeep Ratnayake has been appointed as the new Chief of Staff of the Sri Lanka Navy.
-
-The appointment was made by President Ranil Wickremesinghe this appointments to the Navy Commander of the Navy Vice Admiral Pradeep Ratnayake.
-
-Pradeep Ratnayake, an old boy of St. Thomas' College, Matale, was one of the Cadet Officer of the Sri Lanka Navy.
-
-He was promoted with the calculations, he was promoted to the rank of Rear Admiral in July 2021.
-
-Rear Admiral Pradeep Ratnayake has held a large number of positions during his tenure and he served as the Chief of the Navy.
-
-◼️
-
-[Data](articles/c77c0887.json)
-
-[Extended Data](ext_articles/c77c0887.ext.json)
-
----
-
-### Sri Lanka partially repays Iranian oil USD 20 million worth of tea
-
-*2024-02-21 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97443/sri-lanka-partially-repays-iranian-oil-usd-20-million-worth-of-tea) · `en`
-
-Sri Lanka said on Wednesday (21 Feb.) it had exported tea worth USD 20 million to Iran to partially repay its USD 251 million oil debts, with Colombo saying Tehran’s visiting foreign minister had expressed “satisfaction” at the deal.
-
-“So far USD20 million worth of tea has been exported to Iran under the barter trade agreement,” Sri Lankan Prime Minister Dinesh Gunawardena’s office said in a statement after talks with Iranian Foreign Minister Hossein Amir-Abdollahian.
-
-The tea-for-oil deal was agreed upon in December 2021, but exports were delayed by Colombo’s economic crisis that forced then-president Gotabaya Rajapaksa to step down in July 2022.
-
-The barter deal allows sanctions-hit Iran to avoid having to use up scarce hard currency to pay for imports of popular tea.
-
-It also allowed Sri Lanka to pay with tea, as the country was short of foreign currency.
-
-...
-
-[Data](articles/77c6061e.json)
-
-[Extended Data](ext_articles/77c6061e.ext.json)
-
----
-
-### Sri Lanka partially repays Iranian oil debt with USD 20 million worth of tea
-
-*2024-02-21 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97443/sri-lanka-partially-repays-iranian-oil-debt-with-usd-20-million-worth-of-tea) · `en`
-
-Sri Lanka said on Wednesday (21 Feb.) it had exported tea worth USD 20 million to Iran to partially repay its USD 251 million oil debts, with Colombo saying Tehran’s visiting foreign minister had expressed “satisfaction” at the deal.
-
-“So far USD20 million worth of tea has been exported to Iran under the barter trade agreement,” Sri Lankan Prime Minister Dinesh Gunawardena’s office said in a statement after talks with Iranian Foreign Minister Hossein Amir-Abdollahian.
-
-The tea-for-oil deal was agreed upon in December 2021, but exports were delayed by Colombo’s economic crisis that forced then-president Gotabaya Rajapaksa to step down in July 2022.
-
-The barter deal allows sanctions-hit Iran to avoid having to use up scarce hard currency to pay for imports of popular tea.
-
-It also allowed Sri Lanka to pay with tea, as the country was short of foreign currency.
-
-...
-
-[Data](articles/b17876d8.json)
-
-[Extended Data](ext_articles/b17876d8.ext.json)
 
 ---

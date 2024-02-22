@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 12:17:33**
+As of **2024-02-22 12:33:04**
 
 ## Newspaper Stats
 
-*Scraped **8,652** Articles*
+*Scraped **8,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 442
 islandlk | 451
 dailyftlk | 464
-adalk | 736
+adalk | 737
 adaderanalk | 1,040
-tamilmirrorlk | 1,074
-virakesarilk | 1,162
+tamilmirrorlk | 1,079
+virakesarilk | 1,164
 adaderanasinhalalk | 1,274
 dailymirrorlk | 1,290
 
@@ -26,53 +26,153 @@ dailymirrorlk | 1,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,650 (100.0%) of 8,652 articles have been extended.
+8,652 (99.9%) of 8,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### ලෝක උරුමය වනසන ඇෆ්ගන්වරු
+### எல்லை தாண்டி மீன் பிடித்த 18 மீனவர்களுக்கு விடுதலை ; ஒருவருக்கு சிறை
+
+*2024-02-22 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177023) · `ta`
+
+இலங்கை கடற்பரப்பில் எல்லை தாண்டி மீன் பிடித்த 18 மீனவர்கள் விடுதலை செய்யப்பட்டுள்ளதோடு, ஒருவருக்கு சிறை தண்டனை விதிக்கப்பட்டுள்ளது.
+
+இம்மாதம் 7 ஆம் திகதி எல்லை தாண்டி வந்து மீன்பிடியில் ஈடுபட்ட 19 இந்திய மீனவர்கள், இரண்டு படகுகளுடன் நெடுந்தீவு கடற்பரப்பில் வைத்து கைதுசெய்யப்பட்டனர்.
+
+அவர்களுக்கு எதிராக ஆம் திகதி ஊர்காவற்துறை நீதிமன்றத்தில் நீதிமன்றத்தில் வழக்கு தாக்கல் செய்யப்பட்டது.
+
+இந்நிலையில், அவர்கள் அனைவரையும் விளக்கமறியலில் வைக்குமாறு நீதிவான் உத்தரவிட்டார். அந்த வழக்கானது இன்று வியாழக்கிழமை (22) ஊர்காவற்துறை நீதிமன்றத்தில் மீண்டும் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+
+இன்றைய தினம் நடைபெற்ற வழக்கு விசாரணைக்கு அமைவாக, IND /TN/10/MM/925 இலக்கத்தினை கொண்ட படகில் பயணித்த 7 இந்திய மீனவர்களும், ஐந்து வருடங்களுக்கு ஒத்திவைக்கப்பட்ட 18 மாத சிறைத்தண்டனை என்ற நிபந்தனைகளுடன் விடுதலை செய்யப்பட்டதுடன் படகு அரசுடமையாக்கப்பட்டது.
+
+...
+
+[Data](articles/69311366.json)
+
+---
+
+### கொக்குதொடுவாய் மனித புதைகுழி  வழக்கு விசாரணை இன்று
+
+*2024-02-22 11:36:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குதொடுவாய்-மனித-புதைகுழி-வழக்கு-விசாரணை-இன்று/175-333650) · `ta`
+
+முல்லைத்தீவு கொக்குதொடுவாய் பகுதியில் 29.06.2023 கண்டுபிடிக்கப்பட்ட மனித புதைகுழி  தொடர்பான  வழக்கானது இன்றையதினம் (22)  முல்லைத்தீவு மாவட்ட நீதிமன்றில் முன்னெடுக்கப்பட்டது.
+
+இதற்கமைய, முல்லைத்தீவு கொக்குதொடுவாய் பகுதியில் கண்டுபிடிக்கப்பட்ட மனித புதைகுழியின் முதல் கட்ட அகழ்வானது 06.09.2023 அன்று ஆரம்பமாகி பதினொரு நாட்கள் நடைபெற்று 17 உடற்பாகங்கள் மீட்கப்பட்ட நிலையில் இடைநிறுத்தப்பட்டிருந்தது
+
+மேலும், மீண்டும் அகழ்வின் இரண்டாம் கட்ட பணிகள் கடந்த 20.11.2023 அன்று ஆரம்பிக்கப்பட்டு தொடர்ச்சியாக ஒன்பது நாட்கள் நடைபெற்று  40 எலும்புக்கூட்டு தொகுதிகள் மீட்கப்பட்டுள்ளதுடன் இரண்டாம் கட்ட அகழ்வுபணி இடைநிறுத்தப்பட்டிருந்தது.
+
+இதனை தொடர்ந்து மூன்றாம் கட்ட அகழ்வுபணிகள் வரும் மார்ச் மாதம்ஆரம்பிப்பது என தெரிவிக்கப்பட்டிருந்தது
+
+இதேவேளை, குறித்த விடயம் தொடர்பில் பேராசிரியர் ராஜ் சோமதேவ தனது அறிக்கையை நீதிமன்றுக்கு அனுப்பியுள்ளார் இந்நிலையில் குறித்த வழக்கு விசாரணை இன்றையதினம்(22)  வழக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+◼️
+
+[Data](articles/da502d4f.json)
+
+---
+
+### பெரியப்பாவால் துஷ்பிரயோகம்: சிறுமி சொல்ல மறுத்தது ஏன்?
+
+*2024-02-22 11:32:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரியப்பாவால்-துஷ்பிரயோகம்-சிறுமி-சொல்ல-மறுத்தது-ஏன்/175-333649) · `ta`
+
+11 வயதும் 10 மாதங்களுமான சிறுமியை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினார் என்றக் குற்றச்சாட்டின் பேரில், அவருடைய பெரியப்பா கைது செய்யப்பட்டுள்ளார்.
+
+இந்த சம்பவம், மொனராகலை, மெதகம பொலிஸ் பிரிவில் ரத்தனதெனிய ஹொகொல்ல பிரதேசத்தில் இடம்பெற்றுள்ளது.
+
+11 வயதும் 10 மாதங்களுமேயான இச்சிறுமி, 2019 ஆம் ஆண்டில் இருந்து பெரியப்பாவினால், அச்சிறுமியின் வீட்டில் வைத்தே, இரண்டு வருடங்களாக அவ்வப்போது பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தியுள்ளார் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+அச்சிறுமியின் வீட்டில் ஒருவர் திருடுவதற்கு மறைந்துள்ளார் என்பது தொடர்பில் பொலிஸாரின் கவனத்துக்கு கொண்டு வந்த அயலவர்கள், அவரை பிடித்து பொலிஸாரிடம் ஒப்படைத்தனர்.
+
+அவரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளில், 15 வயதான சிறுமியுடன் காதல் உறவை ​கொண்டிருப்பதால் அந்த வீட்டுக்குச் சென்றதாகவும்,  அச்சிறுமியை எவ்விதமான தொந்தரவுக்கும் உட்படுத்த வில்லையென பொலிஸாரிடம் தெரிவித்துள்ளார்.
+
+எனினும், சிறுமியை வைத்திய பரிசோதனைக்கு உட்படுத்திய போது, அச்சிறுமி, அவ்வப்போது பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தப்பட்டுள்ளமை கண்டறியப்பட்டுள்ளது.
+
+...
+
+[Data](articles/1b52cf7f.json)
+
+---
+
+### சென்னையிலிருந்து யாழுக்கு வந்தவர் கைது
+
+*2024-02-22 11:30:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சென்னையிலிருந்து-யாழுக்கு-வந்தவர்-கைது/71-333648) · `ta`
+
+யாழ்ப்பாணத்தில் இடம்பெற்ற வன்முறை சம்பவங்களுடன் தொடர்புடைய குற்றச்சாட்டில் தேடப்பட்டு வந்த நபர் ஒருவர் தமிழகத்தில் தலைமறைவாகி இருந்து, மீண்டும் யாழ்ப்பாணம் திரும்பிய நிலையல் புதன்கிழமை (21) கைது  செய்யப்பட்டுள்ளார்.
+
+சந்தேகநபர் சென்னையில் இருந்து யாழ்ப்பாணம் சர்வதேச விமான நிலையம் ஊடாக யாழ் திரும்புவதாக பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் , விமான நிலைய வளாகத்தில் காத்திருந்த பொலிஸார் குறித்த சந்தேக நபரை கைது செய்துள்ளனர்.
+
+யாழ்ப்பாணம் மற்றும் கோப்பாய் பகுதிகளில் இடம்பெற்ற வன்முறை சம்பவங்களுடன் தொடர்புடையவர் எனவும் , நீண்ட காலமாக தேடப்பட்ட சந்தேக நபர் எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், சந்தேக நபரை பொலிஸ் காவலில் தடுத்து வைத்து விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/b9b38938.json)
+
+---
+
+### Afghanists who destroy World Heritage
 
 *2024-02-22 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193697) · `si`
 
-ඇෆ්ගනිස්තානයේ පුරාවිද්‍යාත්මක වටිනාකමක් ඇති භූමි ප්‍රදේශ සැලසුම් සහගතව විශාල යන්ත්‍ර භාවිත කර විනාශ කර ඇති බව පර්යේෂකයින් කණ්ඩායමක් පවසයි.
+A researchers say that the archaeological value of archaeological value in Afghanistan has been destroyed using large machines.
 
-එසේ විනාශ කර ඇති ස්ථානවල ඇතැයි අනුමාන කෙරෙන පෞරාණික වටිනාකමක් ඇති භාණ්ඩ සොයා සමහර පිරිස් කැණීම් සිදුකරන බව ද වාර්තා වෙයි.
+It is also reported that some people have been excavated in search of antique value of antique.
 
-චන්ද්‍රිකා ඡායාරූප භාවිතයෙන් සිදුකර ඇති එම පර්යේෂණයෙන් හෙළිවී ඇත්තේ 2021 වසරේ ඇෆ්ගනිස්තානයේ බලය අල්ලා ගත් තලිබාන්වරුන් සහ ඊට පෙර පැවති රජයේ පූර්ණ සහාය ඇතිව එම විනාශය සිදුකරන බවයි.
+The research has revealed that the satellite portions of satellite has been revealed that the Taliban, who captured the power of Afghanistan and fully supported by the previous government.
 
-ක්‍රිස්තු පූර්ව 1,000ට පෙර ජනපද පැවති බොහෝ පුරාවිද්‍යාත්මක වටිනාකමක් ඇති ස්ථාන මේ වනවිට ඒ ආකාරයෙන් විනාශ කර ඇති බව චිකාගෝ විශ්වවිද්‍යාලයේ පර්යේෂකයින් පවසයි.
+Researchers at the University of Chicago said that many archaeological value of many archaeological value in the colonies have been destroyed before 1,000 BCE.
 
-උතුරු ඇෆ්ගනිස්තානයේ බල්ඛ් ප්‍රදේශය දැඩි ලෙස විනාශ කර ඇති බව සඳහන් ය.
+It is said that the area of Balkh was severely destroyed in North Afghanistan.
 
-මීට වසර 2,000කට පමණ පෙර බැක්ට්‍රියා හි ඉතා සශ්‍රික ව පැවති ප්‍රදේශයක් ලෙස එය සැලකෙයි.
+It is considered as a very prosperous area of Baclex, some 2,000 years ago.
 
-පුරාණ ඇෆ්ගනිස්තානයේ Achaemenid රාජධානිය තුළ පිහිටි ජනගහනය වැඩිම මෙන්ම ධනවත්ම ප්‍රදේශය වශයෙන් එම කලාපය හඳුනාගෙන තිබේ.
+The region has been identified as the largest and richest area in the kingdom of ancient Afghanistan.
 
 ◼️
 
 [Data](articles/e16130cd.json)
 
+[Extended Data](ext_articles/e16130cd.ext.json)
+
 ---
 
-### මාර්ග අසල සිටින වනඅලින් ළඟට යන්න එපා
+### மத்ரஸா மாணவனின் மர்ம மரணம் ; கைதான 4 சந்தேக நபர்களுக்கு விளக்கமறியல்
+
+*2024-02-22 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/177020) · `ta`
+
+மத்ரஸா மாணவனின் மர்ம மரணம் தொடர்பிலான சிசிரிவி காட்சி உள்ளடங்கிய முக்கிய தடயப்பொருட்களை அழித்த குற்றச்சாட்டு அடிப்படையில் கைதான  சிசிடிவி தொழிநுட்பவியலாளர் உட்பட 4  சந்தேக நபர்களை விளக்கமறியலில் வைக்குமாறு  கல்முனை நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+
+குறித்த வழக்கு  புதன்கிழமை (21) கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன்  முன்னிலையில் விசாரணைக்கு எடுத்து கொள்ளப்பட்ட நிலையில் மௌலவியின் வேண்டுகோளிற்கமைய சிசிடிரிவி காணொளிகளை அழித்த குற்றச்சாட்டில் கைது செய்யப்பட்ட 4 சந்தேகநபர்களும்  மன்றில்  முன்னிலைப்படுத்தப்பட்ட போது விளக்கமறியலில் வைக்குமாறு  நீதிவான் உத்தரவிட்டார்.
+
+இதற்கமைய கடந்த செவ்வாய்க்கிழமை (20) சாய்ந்தமருது பொலிஸ் நிலையத்திற்கு சிசிரிவி தொழிநுட்பவியலாளர் உள்ளிட்ட 4 பேர் வரவழைக்கப்பட்டு வாக்குமூலம் பெறப்பட்ட நிலையில்  சாய்ந்தமருது பொலிஸ் நிலைய பொறுப்பதிகாரி எஸ்.எல். சம்சுதீன் வழிகாட்டலில் உப பொலிஸ் பரிசோதகர் ரவூப் தலைமையில்  கைது செய்யப்பட்டிருந்தனர்.
+
+...
+
+[Data](articles/1ba7c1a3.json)
+
+---
+
+### Don't go near the forestry nearby
 
 *2024-02-22 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193696) · `si`
 
-හබරණ රක්ෂිතයේ සැරිසරන වනඅලියෙකු හබරණ - දඹුල්ල ප්‍රධාන මාර්ගයේ සැරිසරමින් සිටියදී එම වනඅලියා ආසන්නයට ගොස් අනතුරුදායක ලෙස කටයුතු කරන සංචාරකයින් කිහිපදෙනෙකු පිළිබඳව මෙලෙස කැමරාවක සටහන්වී තිබුණි.
+While roaming the Habarana forest reserve, a wild elephant was wandering at Habarana - Dambulla main road, and several tourists were invented by the Wanlon.
 
-මෙලෙස මාර්ගය අසලට පැමිණෙන වනඅලින්ට ජනතාව ආහාර ලබාදීමට පුරුදුවී සිටීම හේතුවෙන් එම සතුන් දිනපතාම මෙම මාර්ගයේ සැරිසරමින් සිටී.
+The animals are hanging on this road daily due to the use of food to provide food.
 
-ඒ අතරතුර ත්‍රීරෝද රථයකින් සංචාරකයින් රැගෙන යමින් සිටි පුද්ගලයෙකු රථය නවතා වනඅලියා ආසන්නයට ගොස් සංචාරකයෙකුට ඡායාරූපයක් ලබාදීමට කටයුතු කළ අයුරුද මෙලෙස කැමරාවේ සටහන්වී තිබුණි.
+In the meantime, a person who was carrying tourists from a three-wheeler was stopped, and the camera had been given a photo near the tourist.
 
-මෙවැනි සිද්ධීන් හමුවේ වනඅලින් රථවාහනවලට පහරදීමේ සිද්ධීන්ද මීන් පෙර වාර්තා වී තිබුණි.
+Meenals were previously reported beforehadowing the vehicle-wielding vessels in the face of such incidents.
 
-වනජීවී නිලධාරීන් ඉල්ලා සිටින්නේ සංචාරකයින් සහ මගීන් මෙවැනි අවදානම් ක්‍රියාවලින් වැළැකී සිටිය යුතු බවය.
+Wildlife officials demand that tourists and passengers should avoid such risks.
 
 ◼️
 
 [Data](articles/c28a9a00.json)
+
+[Extended Data](ext_articles/c28a9a00.ext.json)
 
 ---
 
@@ -598,6 +698,22 @@ The mobile phone, SIMP and four tobacco, which had been hidden in the rectum of 
 
 ---
 
+### இன்று கால்கோள் விழா
+
+*2024-02-22 08:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கால்கோள்-விழா/175-333639) · `ta`
+
+இந்த வருடம் அரச பாடசாலைகளில் முதலாம் தரத்திற்கு மாணவர்களை இணைத்துக்கொள்ளும் நடவடிக்கை இன்று(22) ஆரம்பமாகின்றது.
+
+இதற்கான நிகழ்வு எம்பிலிப்பிட்டிய போதிராஜா வித்தியாலயத்தில், கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தலைமையில் நடைபெறவுள்ளது.
+
+முதலாம் தரத்திற்கு மாணவர்களை இணைத்துக்கொள்ளும் நடவடிக்கைகள் மாகாண மட்டத்திலும் மேற்கொள்ளப்படவுள்ளதாக கல்வி அமைச்சு மேலும் குறிப்பிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/7614c8fa.json)
+
+---
+
 ### The beginning of action to connect students
 
 *2024-02-22 08:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-இணைக்கும்-நடவடிக்கை-ஆரம்பம்/175-333639) · `ta`
@@ -673,6 +789,22 @@ Meanwhile, Director of the Family Health Bureau has stressed that women have fal
 [Data](articles/3f4e5b27.json)
 
 [Extended Data](ext_articles/3f4e5b27.ext.json)
+
+---
+
+### யாழில் ஒரே மாதத்தில் 531 பேர் கைது
+
+*2024-02-22 08:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-ஒரே-மாதத்தில்-531-பேர்-கைது/71-333638) · `ta`
+
+யாழ்ப்பாணத்தில் தேடப்பட்டு வந்த 531 பேர் கடந்த ஒரு மாத கால பகுதிக்குள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பல்வேறு குற்றச் செயல்களுடன் தொடர்புடைய, நீதிமன்றங்களினால் பிடியாணைகள் பிறப்பிக்கப்பட்டவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+பிடியாணை பிறப்பிக்கப்பட்ட 230 நபர்களும் திறந்த பிடியாணை பிறப்பிக்கப்பட்ட 301 நபர்களுமே பொலிஸாரினால் கைது செய்யப்பட்டு நீதிமன்றங்களில் முற்படுத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/39686a7f.json)
 
 ---
 
@@ -1840,6 +1972,22 @@ The Minister made these remarks during a news conference held at the Presidentia
 
 ---
 
+### උද්ධමනය ඉහළට
+
+*2024-02-21 19:54:51* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-408228) · `si`
+
+මෙරට උද්ධමනය දෙසැම්බර් මාසයට සාපේක්ෂව ජනවාරි මාසයේදී ඉහළ ගොස් තිබේ. ජන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුවේ වාර්තාවල දැක්වෙන්නේ, 2023 දෙසැම්බර් මාසයේදී 4.2%ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය2024 ජනවාරි මාසය සඳහා 6.5%ක් දක්වා වැඩි වී ඇති බවයි.
+
+2023 දෙසැම්බර් මාසයේදී 1.6%ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජනවාරි මාසයේදී 4.1%ක් දක්වා වැඩි වී තිබේ.
+
+2023 දෙසැම්බර් මාසයේදී 6.3%ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජනවාරි මාසයේදී 8.5%ක් දක්වා වැඩි වී ඇත.
+
+◼️
+
+[Data](articles/80f48ce3.json)
+
+---
+
 ### Nervousness
 
 *2024-02-21 19:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பழ-திருடனுக்கு-விளக்கமறியல்/76-333615) · `ta`
@@ -1907,183 +2055,5 @@ She was unexpected at Battaramulla Wickremesingura Junction in Battaramulla.
 [Data](articles/2e18d260.json)
 
 [Extended Data](ext_articles/2e18d260.ext.json)
-
----
-
-### Merchant tax on several grains
-
-*2024-02-21 19:36:00* · [`adalk`](https://www.ada.lk/breaking_news/ධාන්‍ය-වර්ග-කිහිපයක-වෙළඳ-භාණ්ඩ-බද්ද-ඉහළට/11-408227) · `si`
-
-A new gazette issued a new gazette, raising the potential, green gram, pea, caukkan and millets.
-
-Accordingly, the Cockana Special (Illusena Ceremony Special) and Milakana Specials (Illiverse) and Milaks, Kurakana Specials (Illiverse) and Milaks (Other) have been increased by Rs. 300 to Rs.
-
-The Gazette has increased the special commodity tax of Rs. 300 per kilogram of Rs.
-
-Maize also prescribed a merchant tax of Rs.
-
-In the meantime, the importation of maize, dense, green gram, pea, cowk and kurakkan should be carried out on the recommendation of the Ministry of Agriculture.
-
-◼️
-
-[Data](articles/6d8682f0.json)
-
-[Extended Data](ext_articles/6d8682f0.ext.json)
-
----
-
-### Heat wave warning issued for Colombo and several other Districts
-
-*2024-02-21 19:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-wave-warning-issued-for-Colombo-and-several-other-Districts/108-277499) · `en`
-
-Colombo, Feb. 21 (Daily Mirror)- The Meteorology Department today issued a ‘Caution’ level heat warning for some places in North-Western province and Gampaha, Colombo, Hambantota and Moneragala District.
-
-The Heat index Advisory issued by the Natural Hazards Early Warning Centre said that the heat index, the temperature felt on the human body is expected to increase up to ‘Caution’ level at some places in North-western province and Gampaha, Colombo, Hambantota and Moneragala District.
-
-According to the Meteorology Department, temperature at 39-45 Celsius is considered caution level and fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
-
-People are expected to stay hydrated and take breaks in the shade as often as possible at job sites and check up on the elderly and the sick while indoors.
-
-...
-
-[Data](articles/83c79aee.json)
-
-[Extended Data](ext_articles/83c79aee.ext.json)
-
----
-
-### A youth who went to work in a ship fell into the sea
-
-*2024-02-21 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193672) · `si`
-
-It is reported that a Sri Lankan who has gone to the service of a foreign country has died after falls into the sea.
-
-A 21-year-old youth from the Udurutota area in Udurutota and a 21 year old youth from a German shipping company in Germany had been serving in a new service.
-
-Later, he had joined the service to serve the ship, Spain, in Spain.
-
-Accordingly, two managers of the Sri Lankan managers who had arrived in the Udunu-East of the 18th of the 18th have said that Chiran had fallen into the sea.
-
-The two men have fallen to the 1700 to the sea on the 17th and the captain of the ship has learned that about four hours later.
-
-Accordingly, Kotahena Police have lodged a complaint with the incident.
-
-Meanwhile, the two persons returned to these 18 people on the 18th of the afternoon that the attendee had fallen into the sea around 2.30 pm, this was the captain of the ship.
-
-Accordingly, they have said that the search has been made immediately.
-
-...
-
-[Data](articles/b8850de1.json)
-
-[Extended Data](ext_articles/b8850de1.ext.json)
-
----
-
-### Liquor meets at Galle
-
-*2024-02-21 19:23:32* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලෙන්-ගල්-නැංගුරමක්-හමුවෙයි/11-408226) · `si`
-
-The Colombo Old Harbor jetty is found in the 12th or 13th centuries of the Colombo Central Cultural Fund
-
-Several ancient anchors, two older anchors, have two areas of artillery used as anchorage. However, at several times, the stone anchor 12-13 have been asserted in recent days.
-
-The archaeologist archaeologist fan Muthukumarana said:
-
-"We knew that there was a stone anchor at this place. Meeting parts of iron anchor. So this was not new. But recently we checked this anchor. So we saw it was three holes anchor. Three holes used with three holes used in the 12th and 13th centuries of the Chinese vessels and Arabic. Accordingly, the anchor has been asserted that the time belongs to the time. Only an anchor here see. There is no residual on a ship. "
-
-Further investigations are further investigations into the anchor from the Divisional Secretariat Division of the Sea, Prof. Gamini Ranin Ranuda, the Director General of the Central Cultural Fund.
-
-◼️
-
-[Data](articles/8a75e15a.json)
-
-[Extended Data](ext_articles/8a75e15a.ext.json)
-
----
-
-### No action that has been initiated in any pressures will not be stopped - Public Safety Minister Tran Alles
-
-*2024-02-21 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176996) · `ta`
-
-Public Security Minister Tran Ales said that no action has been initiated to suppress the drug and the underworld and prevent violence against women and children.
-
-The Minister also noted that the value of drugs seized by the "strategy" operation, which began on December 17, 2023, was 7.8 billion rupees.
-
-Public Security Minister Tran Ales said this at a media briefing held at the Presidential Media Center on Wednesday (21).
-
-There is a series of measures to suppress drug and underworld and prevent violence against girls and children. We are not prepared to stop these activities, no matter what pressure.
-
-Various allegations are being made against us regarding this program. Various people and groups are trying to disrupt this activity. We have been informed that those who receive money from the drug network will spend money on the groups.
-
-...
-
-[Data](articles/09b7f077.json)
-
-[Extended Data](ext_articles/09b7f077.ext.json)
-
----
-
-### "If you want to read the oil lamp"
-
-*2024-02-21 19:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேண்டுமென்றால்-எண்ணெய்-விளக்கேற்றிப்-படிக்கலாம்/175-333613) · `ta`
-
-The Ceylon Electricity Board (CEB) Media Spokesperson Ill Priyantha has stirred controversy, saying that during the latest television show, the current children who excelled in their studies should be used to use oil lights.
-
-Priyantha said he was concerned about the increasing power prices in Sri Lanka.
-
-Responding to questions about the adverse effects of electricity cutting down by unpaid fees, he acknowledged the difficulties faced by consumers, but that this was the reason for changing from free electric culture.
-
-Priyantha, who highlighted the stagnation of electricity charges before the recent increase, emphasized the financial challenges faced by CEB, which has to pay a considerable amount of money.
-
-Responding to the report of the CEB media spokesman, the television presenter said that with the appearance of technology and the appearance of electronic devices, the current children cannot be compared to the previous generation because things have changed sharply over time.
-
-...
-
-[Data](articles/fd4c1cdc.json)
-
-[Extended Data](ext_articles/fd4c1cdc.ext.json)
-
----
-
-### Thirteen suspects arrested in Dubai
-
-*2024-02-21 19:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193671) · `si`
-
-According to sources, 13 leading criminals who need the Sri Lankan police have been arrested in Dubai sources.
-
-Meanwhile, it is reported that Uragasiiki is a manner that supported the murder of Beliatta.
-
-Meanwhile, a personnel who shot dead in a haircut in Borella near the Borella police, including a criminal in the Borella area about 10 years ago, had immediately conducted a formal investigation into misplace.Colombo High Court Judge Navaratne Marasinghe has ordered the Senior Superintendent of the area to submit a report to the judiciary.
-
-The case will be ordered until May 6's post, the first and seventh Witnesses in the complaint to appear in court that day.
-
-Dematagoda Chaminda, SF Sarath and SF Sarathja, and SF Saraka, and SF Saranawa had been accused of the first of August 2014.
-
-◼️
-
-[Data](articles/05d00206.json)
-
-[Extended Data](ext_articles/05d00206.ext.json)
-
----
-
-### Megascular prison is out of a drug trafficking
-
-*2024-02-21 18:49:47* · [`adalk`](https://www.ada.lk/breaking_news/මැගසින්-බන්ධනාගාරයේ-සිට-මෙහෙයවන-මත්ද්‍රව්‍ය-ජාවාරමක-තොරතුරු-එළියට/11-408224) · `si`
-
-The Colombo Crimes Division says that a person involved in a drug trafficking of a female inmate at Magazine Prison has been arrested with drugs worth nearly Rs.
-
-Police have taken over 762 ml 7 million millions of drugs. The suspect has been arrested in the house of Borella Road, Borella Road.
-
-Farrier to her racketeers, Bask Inspector Buddhika Rajapaksa, who was brought to buyers from the Bandarawela, Avissawella Kadugamuwa, Avissawella Kadugamuwa and the suspect was brought to buyers from the Navagamuwa, Avissawella Kadugamuwa.According to police, the raid was carried out.
-
-The police say that the lady detained in the prison was revealed that the racket was carried out on the instructions of the prison.. The suspect is 37 person. The suspect is to be produced before the Maligakanda Court.
-
-◼️
-
-[Data](articles/d8d75b2e.json)
-
-[Extended Data](ext_articles/d8d75b2e.ext.json)
 
 ---

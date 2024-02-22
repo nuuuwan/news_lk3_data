@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 01:32:58**
+As of **2024-02-23 01:50:08**
 
 ## Newspaper Stats
 
-*Scraped **8,787** Articles*
+*Scraped **8,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,51 @@ adaderanalk | 1,054
 tamilmirrorlk | 1,090
 virakesarilk | 1,184
 adaderanasinhalalk | 1,294
-dailymirrorlk | 1,313
+dailymirrorlk | 1,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,781 (99.9%) of 8,787 articles have been extended.
+8,787 (100.0%) of 8,789 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-23 (Friday)
+
+### When the School Life you Cherish is Threatened! - EDITORIAL
+
+*2024-02-23 01:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/When-the-School-Life-you-Cherish-is-Threatened-EDITORIAL/172-277595) · `en`
+
+The Government of Sri Lanka (GoSL) must consider the plight of mothers and fathers who are struggling to send their children to school and complete the basic education of their offspring. General Secretary of the Ceylon Teachers’ Union (CTU), Joseph Stalin has been quoted in the media stating that the dropout and the absenteeism rate in schools is high and alarming at present; despite such figures not having reached their peak as yet.
+
+The once in a lifetime opportunity children get to spend a 13-year-period in school is now threatened. Parents are finding it extremely difficult to send their children to school because academic institutes are now expecting parents to bear certain education expenses which were once borne by the state.
+
+...
+
+[Data](articles/03fa434d.json)
+
+[Extended Data](ext_articles/03fa434d.ext.json)
+
+---
+
+### Palestine question: US blamed for veto; Brazil, Guyana hailed, Lanka nowhere
+
+*2024-02-23 01:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Palestine-question-US-blamed-for-veto-Brazil-Guyana-hailed-Lanka-nowhere/172-277594) · `en`
+
+US Ambassador Linda Thomas-Greenfield casting the veto vote against the UN Security Council resolution that called for an immediate ceasefire in Gaza. AFP
+
+Burying the values the United States presidents often speak highly of during their policy speeches, Washington once again inhumanely used its veto power at the United Nations Security Council on Tuesday to kill Algeria’s resolution calling for an immediate ceasefire in the Gaza Strip.
+
+It is revolting to see Washington’s UN envoy Linda Thomas-Greenfield, a political science lecturer, diplomat, and private sector executive not known for human rights or humanitarian activism, raise her hand at the UNSC to veto the resolution. This was the third time her hand went up in support of genocide, ethnic cleansing, and Israel’s war crimes in the Gaza Strip. As a paid servant of the US administration, she does whatever she is commanded to do by President Joe Biden, who is being flayed on social media as Genocide Joe.
+
+...
+
+[Data](articles/ba12adcc.json)
+
+[Extended Data](ext_articles/ba12adcc.ext.json)
+
+---
 
 ### 2024-02-22 (Thursday)
 
@@ -246,6 +282,8 @@ The independence that Sri Lankans won from the British empire, which pervaded ne
 
 [Data](articles/25cea042.json)
 
+[Extended Data](ext_articles/25cea042.ext.json)
+
 ---
 
 ### IPC Hand Soldering fundamental course and practical workshop on ESD and Electronic Assembly
@@ -260,6 +298,8 @@ IPC is a global organisation that supports Original Equipment Manufacturers (OEM
 
 [Data](articles/bc055d04.json)
 
+[Extended Data](ext_articles/bc055d04.ext.json)
+
 ---
 
 ### Baur’s CEO delivers leadership session to BOI top executives
@@ -271,6 +311,8 @@ A. Baur & Co. Managing Director/CEO Rolf Blaser recently addressed the top manag
 ◼️
 
 [Data](articles/bc5303d4.json)
+
+[Extended Data](ext_articles/bc5303d4.ext.json)
 
 ---
 
@@ -289,6 +331,8 @@ Distinguished by Galaxy’s renowned design philosophy, the Galaxy A15 5G featur
 ...
 
 [Data](articles/54eac223.json)
+
+[Extended Data](ext_articles/54eac223.ext.json)
 
 ---
 
@@ -1949,53 +1993,5 @@ Meanwhile, Prime Minister Dinesh Gunawardena emphasized in parliament today that
 [Data](articles/ca241066.json)
 
 [Extended Data](ext_articles/ca241066.ext.json)
-
----
-
-### New story about the online bill
-
-*2024-02-22 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193700) · `si`
-
-DIG Ruwan Gunasekara says that the bill is further practical to bringing some amendments to the security of online methods.
-
-He was speaking at a seminar held at the Finance Ministry auditorium yesterday (21) to inform the Act.
-
-DIG Ruwan Gunasekera said that the civil proceedings can be filed according to the bill and protecting those affected by the prohibited statements.
-
-He also said that the purpose of this bill is also aimed at preventing the claims of contempt into court.
-
-He said the purpose of this bill is also a purpose to prevent the identification of the wrong accounts, repeated communication.
-
-The DIG ended that if it was released to social media, the responsibility of releasing it should bear the responsibility.
-
-Senior Lecturer Lecturer Lecturer Publi Gunawardena, the Faculty of Information Technology, Sri Jayawardenapura University, said that 16,975 incidents were reported in the social media in 2021.
-
-Most of them are incidents of pornography and edited photos.
-
-◼️
-
-[Data](articles/894f479c.json)
-
-[Extended Data](ext_articles/894f479c.ext.json)
-
----
-
-### Vietnam to share digital agriculture expertise with Sri Lanka
-
-*2024-02-22 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97453/vietnam-to-share-digital-agriculture-expertise-with-sri-lanka) · `en`
-
-Vietnam’s Agriculture and Rural Development Minister, Minh Hoan Le called on Sri Lankan Prime Minister Dinesh Gunawardena at Temple Trees in Colombo on Wednesday (Feb.21).
-
-They have discussed close bilateral ties and ways and means of enhancing cooperation in many spheres, especially on rural development and social empowerment, according to the PM’s Office.
-
-Vietnamese Minister thanked Sri Lanka for the support extended during the Vietnamese liberation movement. He said Sri Lanka was one of the first countries to recognize Vietnam immediately after its independence and unification.
-
-PM Gunawardena congratulated Vietnam for the success of rapid economic development after gaining independence after a valiant freedom struggle. He praised the innovative methods adopted by Vietnam to successfully attract foreign investments and requested to share its experience with Sri Lanka for modernization of agriculture.
-
-...
-
-[Data](articles/59d019b1.json)
-
-[Extended Data](ext_articles/59d019b1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 10:17:40**
+As of **2024-02-22 10:32:51**
 
 ## Newspaper Stats
 
-*Scraped **8,632** Articles*
+*Scraped **8,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 442
 islandlk | 451
 dailyftlk | 464
 adalk | 736
-adaderanalk | 1,037
+adaderanalk | 1,039
 tamilmirrorlk | 1,074
 virakesarilk | 1,157
 adaderanasinhalalk | 1,270
@@ -26,7 +26,7 @@ dailymirrorlk | 1,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,629 (100.0%) of 8,632 articles have been extended.
+8,632 (100.0%) of 8,634 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,57 +52,81 @@ It is noteworthy that the Thailand flag was found in such tents in the recent pa
 
 ---
 
-### முல்லைத்தீவில் லொட்டரி விற்பனை நிலையம் ஒன்று தீக்கிரை ; தீவிர விசாரணையில் பொலிஸார்
+### EU to brief Sri Lanka on new GSP Regulation today
+
+*2024-02-22 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97449/eu-to-brief-sri-lanka-on-new-gsp-regulation-today) · `en`
+
+The 26th session of the Joint Commission between Sri Lanka and the European Union (EU) will be convened today (Feb.22) in Brussels.
+
+The meeting will be co-chaired by Sri Lanka’s Foreign Secretary, Aruni Wijewardane and EU European External Action Service Deputy Managing Director for Asia Pacific, Paola Pampaloni.
+
+Sri Lanka delegation to the Joint Commission comprises senior officials of the Ministry of Foreign Affairs, Attorney General’s Department and Ministry of Finance.
+
+The EU-Sri Lanka Joint Commission serves as a platform for dialogue and cooperation between Sri Lanka and the European Union, covering a broad range of bilateral and multilateral issues of mutual interest inter alia trade and investments, development assistance, fisheries, education, counter-terrorism, governance and human rights,  Indo-pacific and maritime security and environment.
+
+...
+
+[Data](articles/ecb2722c.json)
+
+---
+
+### Lottery outlet in MullaitivuIn a serious investigation police
 
 *2024-02-22 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177010) · `ta`
 
-முல்லைத்தீவு, வள்ளிபுனம் பகுதியில்  லொட்டரி விற்பனை நிலையம் ஒன்று தீக்கிரையாக்கப்பட்ட சம்பவம் ஒன்று  இடம்பெற்றுள்ளது.
+A Lottery Sales Center in Vallipunam, Mullaitivu, has taken place.
 
-முல்லைத்தீவு புதுக்குடியிருப்பு  பொலிஸ் பிரிவிற்குட்பட்ட  வள்ளிபுனம் பகுதியில்  அமைந்துள்ள லொத்தர் விற்பனை நிலையம் ஒன்று கடந்த 19 ஆம் திகதி இரவு சந்தேகத்திற்கு இடமான முறையில் தீக்கிரையாக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that a Lotter outlet located in the Vallipunam area of the Mullaitivu Pudukkudiyiruppu police division has been suspected on the night of the 19th.
 
-குறித்த விற்பனை நிலையத்திற்குள் கதிரை, மேசை ஒன்றும், 120 லொத்தர் ரிக்கட்டுக்களும் தீக்கிரையாக்கப்பட்டுள்ளது.
+Inside the shop, the ray, a desk, and 120 lotter records have been set on fire.
 
-குறித்த சம்பவம் இனம் தெரியாதவர்களால் தீ மூட்டப்பட்டதா? அல்லது வேறு அசம்பாவிதத்தினால் தீ ஏற்பட்டதா? போன்ற  பல்வேறு கோணங்களில்  பொலிஸார் தீவிர விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+Did the incident caught fire by the unknown?Or did you find a fire due to a different incident?Police are conducting intensive investigations at various angles.
 
 ◼️
 
 [Data](articles/8fafe475.json)
 
+[Extended Data](ext_articles/8fafe475.ext.json)
+
 ---
 
-### வெளிநாடுகளுக்கு வீட்டுப்பணிகளுக்காக பெண்களை அனுப்புவதை நிறுத்த தீர்மானம்
+### Resolution to stop sending women for homework abroad
 
 *2024-02-22 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177007) · `ta`
 
-வெளிநாடுகளுக்கு வீட்டுப்பணிகளுக்காக பெண்களை அனுப்புவதை முற்றாக நிறுத்துவதற்கான திட்டத்தை உருவாக்குமாறு  தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+The Minister of Labor and Foreign Employment has issued a directive to Manusha Nanayakkara to create a plan to stop sending women for homework overseas.
 
-இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகம் மற்றும் உரிமம் பெற்ற வெளிநாட்டு வேலைவாய்ப்பு முகவர் சங்கத்தின் பிரதிநிதிகளுடனான சந்திப்பைத் தொடர்ந்து இந்த உத்தரவை அவர் பிறப்பித்துள்ளார்.
+He has issued the order following a meeting with representatives of the Sri Lanka Foreign Employment Bureau and the Licensed Foreign Employment Agency Association.
 
-இதேவேளை,  புலம்பெயர்ந்த தொழிலாளர்களின் உரிமைகளை மேம்படுத்தும் வகையில் அதிக திறன் மற்றும் அதிக சம்பளம் பெறும்  வேலை வாய்ப்புகளை நோக்கி நகர்த்துவதன் முக்கியத்துவத்தை  அமைச்சகம் வெளியிட்டுள்ள அறிக்கையில் அவர் வலியுறுத்தியுள்ளார்.
+At the same time, he emphasized in a statement issued by the Ministry on the importance of moving more skills and higher -paid employment opportunities to improve the rights of immigrant workers.
 
-வெளிநாட்டில் உள்ள இலங்கை வீட்டுப் பணியாளர்கள் எதிர்கொள்ளும் பிரச்சினைகள் அதிகரித்துவரும்  நிலையில்  இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+The action is being taken as the problems faced by Sri Lankan household workers abroad are on the rise.
 
-வீட்டுப் பணியாளர்கள் எதிர்கொள்ளும் துஷ்பிரயோகம், சுரண்டல் மற்றும் நியாயமற்ற தொழில் நிலைமைகள் பற்றிய அறிக்கைகள் சீர்திருத்தத்திற்கான அழைப்புகளைத் தூண்டியுள்ளன.
+Reports of abuse, exploitation and unreasonable professional conditions faced by household workers have prompted calls for reform.
 
 ◼️
 
 [Data](articles/669ebc29.json)
 
+[Extended Data](ext_articles/669ebc29.ext.json)
+
 ---
 
-### පොරොන්දු ඉටු කරන්නැයි කිරිඇල්ල ඉල්ලයි
+### Kiriella asks for the fulfillment of promises
 
 *2024-02-22 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193692) · `si`
 
-කෝප් සහ කෝපා කමිටුවල සභාපති ධුර විපක්ෂයට ලබා දෙන ලෙස විපක්ෂයේ ප්‍රධාන සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල මහතා, නියෝජ්‍ය කථානායක අජිත් රාජපක්ෂ මහතාගෙන් ඉල්ලීමක් කළේ ය.
+The Chief Opposition Whip MP Lakshman Kiriella requested Deputy Speaker Ajith Rajapaksa to give the Chairman of COPE and Kope committees.
 
-මෙම ධුර විපක්ෂයට ලබා දෙන බවට ගත වූ අරගල සමයේ දී කථානායකවරයා විපක්ෂයට ලිඛිත ව පොරොන්දු වූ බව ද ලක්ෂ්මන් කිරිඇල්ල මහතා සඳහන් කළේ ය.
+Lakshman Kiriella stated that during the struggle that the plain was given to the Opposition, Mr. Lakshman Kiriella said.
 
-ඒ අනුව අදාළ තත්ත්වය පිළිබඳ කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ අවධානයට යොමු කරන බව නියෝජ්‍ය කථානායකවරයා පැවසීය.
+Accordingly, Speaker Mahinda Yapa Abeywardena will be paid to the situation.
 
 ◼️
 
 [Data](articles/907ff414.json)
+
+[Extended Data](ext_articles/907ff414.ext.json)
 
 ---
 
@@ -139,6 +163,26 @@ The petitioner has been challenged by the Paradise and the Controller of the Con
 [Data](articles/f8ea6ef8.json)
 
 [Extended Data](ext_articles/f8ea6ef8.ext.json)
+
+---
+
+### Young woman arrested over murder of Buddhist monk at temple
+
+*2024-02-22 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97448/young-woman-arrested-over-murder-of-buddhist-monk-at-temple) · `en`
+
+The police have arrested a young woman in connection with the murder of a Buddhist monk, who was shot dead at a temple in the Malwathuhiripitiya area last month.
+
+She was taken into custody in Aralaganwila on Wednesday (Feb.21), on suspicion of sheltering aiding and abetting the main suspect in the shooting, according to the police.
+
+The 22-year-old suspect is reportedly a resident of Devagala area in Weragala.
+
+In the early hours of January 23, a group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha.
+
+The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. But he later succumbed to injuries while receiving treatment.
+
+...
+
+[Data](articles/2c729689.json)
 
 ---
 
@@ -262,9 +306,9 @@ The Ministry of Education has further stated that the process of enrolling stude
 
 The proposal seeking to reduce electricity tariffs will be handed over to the Public Utilities Commission of Sri Lanka (PUCSL) during the course of the day, the Ceylon Electricity Board (CEB) says.
 
-CEB Spokesperson, Eng. Noel Priyantha said the state-owned electricity supplier intends to provide the benefits of the profits it earned to the consumers through this tariff revision.
+Its spokesperson, Eng. Noel Priyantha said the state-owned electricity supplier intends to provide the benefits of the profits it earned to the consumers through this tariff revision.
 
-Power and Energy Minister Kanchana Wijesekera told the Parliament yesterday (Feb.22) that the CEB expects to reduce the rates by at least the same rates and percentages as was increased in October 2023.
+Power and Energy Minister Kanchana Wijesekera told the Parliament yesterday (Feb.22) that the CEB expects to reduce the rates by at least the same rates and percentages increased in October 2023.
 
 In October last year, the electricity tariffs were raised by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
 
@@ -2043,47 +2087,5 @@ Nagananda Kodituwakku has requested the Supreme Court to allow the national folk
 [Data](articles/b36e2509.json)
 
 [Extended Data](ext_articles/b36e2509.ext.json)
-
----
-
-### Lotus tower that lightens red tomorrow
-
-*2024-02-21 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/176956) · `ta`
-
-The Lotus Tower in Colombo will be flashing in red tomorrow (22) to raise awareness on the Day of International Melinitis.
-
-This is to be illuminated as part of the recent programs of the Encypalitis International to raise awareness of this dangerous neurological condition.
-
-The Colombo Lotus Tower will support the movement this year with many people around the world to make a significant change in the International Metropolitan Day this year.
-
-◼️
-
-[Data](articles/a1901e37.json)
-
-[Extended Data](ext_articles/a1901e37.ext.json)
-
----
-
-### Sri Lanka stocks close up, consumer sector picking up
-
-*2024-02-21 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-consumer-sector-picking-up-151860/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 11.24 points, or 0.11 percent at 10,649 while the S&P SL20 Index closed up at 3,070 points, up 0.05 percent, or 1.48 points.
-
-Turnover was at 880 million. “Buyers are coming into the market, but it doesn’t translate to significant turnover because they are at lower prices,” a market participant said.
-
-Sectors that attracted investor interest were Capital Goods (196mn), Food, Beverage and Tobacco (189mn), and Banks (167mn).
-
-Royal Ceramics Lanka Plc saw high volumes traded, contributing 59 million to the day’s turnover, and the share closed up at 29.60.
-
-With the uptick in tourist arrivals there was construction in hotels, “mainly refurbishment, in the construction sector” market participants said. “So there is buying interest in tiles, not cement.”
-
-...
-
-[Data](articles/13ca4099.json)
-
-[Extended Data](ext_articles/13ca4099.ext.json)
 
 ---

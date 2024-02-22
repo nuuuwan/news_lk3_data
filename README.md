@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 11:33:03**
+As of **2024-02-22 11:51:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,643 (99.9%) of 8,650 articles have been extended.
+8,650 (100.0%) of 8,650 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ He urged the government to interdict the spokesman and launch an inquiry.
 
 [Data](articles/680e2a67.json)
 
+[Extended Data](ext_articles/680e2a67.ext.json)
+
 ---
 
 ### Government to introduce E-Passport service to eliminate long queues at Immigration Dept.
@@ -70,6 +72,8 @@ He said that all preparations have been completed to issue the new National Iden
 
 [Data](articles/b76f9885.json)
 
+[Extended Data](ext_articles/b76f9885.ext.json)
+
 ---
 
 ### Medical fraternity urges health authorities to go on alert
@@ -88,47 +92,53 @@ Speaking to Daily Mirror, Government Medical Officers' Association (GMOA) Media 
 
 [Data](articles/45215a7d.json)
 
+[Extended Data](ext_articles/45215a7d.ext.json)
+
 ---
 
-### உக்ரைன் யுத்தம் - ஏவுகணை தாக்குதலில் 60க்கும் மேற்பட்ட  ரஸ்ய படையினர் பலி
+### Ukraine War - More than 60 Russian soldiers killed in missile attack
 
 *2024-02-22 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177018) · `ta`
 
-உக்ரைனின் ஏவுகணை தாக்குதல் காரணமாக 60க்கும் மேற்பட்ட ரஸ்ய படையினர் கொல்லப்பட்டுள்ளனர் என பிபிசி தெரிவித்துள்ளது.
+More than 60 Russian soldiers have been killed in Ukraine missile attack, the BBC said.
 
-டொனெட்ஸ்க் பிராந்தியத்தில் உள்ள பயிற்சி தளமொன்றில்  முக்கிய அதிகாரியின் வருகைக்கான படையினர் தயார் நிலையிலிருந்தவேளை உக்ரைன் ஏவுகணை தாக்குதலை மேற்கொண்டதாக பிபிசி தகவலறிந்த வட்டாரங்களை மேற்கோள்காட்டி செய்தி வெளியிட்டுள்ளது.
+The BBC has cited sources that the Ukraine missile strike was launched while the soldiers were ready for the arrival of a prominent officer at a training site in the Donetsk region.
 
-இவ்வாறான தாக்குதலொன்று இடம்பெற்றதை ஏற்றுக்கொண்டுள்ள ரஸ்ய அதிகாரியொருவர் எனினும் உயிரிழந்தவர்களின் எண்ணிக்கை மிகைப்படுத்தப்பட்டுள்ளதாக குறிப்பிட்டுள்ளார்.
+A Russian official who has accepted the attack has not been exaggerated, but the number of casualties has been exaggerated.
 
-சைபீரியாவை தளமாக கொண்ட படையணியின் படையினர் ட்ருடொவ்ஸ்கே கிராமத்திற்கு அருகில் உள்ள பயிற்சி தளத்தில் தளபதியொருவரின் வருகைக்காக காத்திருந்தவேளை உக்ரைனின் ஏவுகணைகள் அவர்களை தாக்கியுள்ளன.
+Ukraine's missiles have been attacked while the Siberia -based regiment waited for the arrival of a commander at the training site near Trudawske village.
 
-தங்களை தங்களின் தளபதிகள் திறந்தவெளியொன்றில் நிற்கவைத்திருந்தனர் அவ்வேளை ஏவுகணை தாக்குதல் இடம்பெற்றுள்ளது என ரஸ்ய வீரர் ஒருவர் தெரிவித்துள்ளார்.
+A Russian soldier said that their commanders were in an open space.
 
-குறிப்பிட்ட தளத்தில் உயிரிழந்த நிலையில் பல ரஸ்ய வீரர்கள் காணப்படுவதை காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன,
+Videos have been revealed that many Russian soldiers have been found dead on a particular site,
 
 ◼️
 
 [Data](articles/96208d25.json)
 
+[Extended Data](ext_articles/96208d25.ext.json)
+
 ---
 
-### கறுப்பு ஜூலைக்கு காரணமானவர்கள் ஐக்கிய தேசியக் கட்சித் தலைமைகளே - பிமல் ரத்நாயக்க
+### UNP leaders - Bimal Ratnayake
 
 *2024-02-22 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177016) · `ta`
 
-83 கறுப்பு ஜூலைக் குற்றச் செயல்கள் ஜே.ஆர்.ஜெயவர்தன, ஆர்.பிரேமதாச, ரணில் விக்ரமசிங்க ஆகியோரின் தலைமையின் கீழ் இயங்கிய ஐக்கிய தேசிய கட்சி அரசாங்கத்தின் தலைமைத்துவத்தின் இடையீட்டின் பேரில்தான் மேற்கொள்ளப்பட்டன என தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் பிமல் ரத்நாயக்க தெரிவித்தார்.
+83 Black Julie Crimes were carried out in the interim of the leadership of the United National Party (UNP) leadership under the leadership of JR Jayawardena, R. Premadasa and Ranil Wickremesinghe, said National Executive Member Bimal Ratnayake.
 
-இந்த நாட்டில் தேசிய மக்கள் சக்தி மற்றும் மக்கள் விடுதலை முன்னணிக்கு மக்கள் மத்தியில் வரவேற்பு அதிகரித்து வருவதை நாங்கள் அவதானிக்கின்றோம்.
+We observe that the National People's Power and the People's Liberation Front are increasing among the people in this country.
 
-எனவே, எமக்கு எதிரான பாசறையினர் எம்மீது ஆதாரமற்ற, அடிப்படையற்ற பொய்யான குற்றச்சாட்டுக்களை முன்வைத்து வருகின்றனர்.
+Therefore, the passengers against us are making unfounded and baseless false allegations against us.
 
-குறிப்பாக அநுர குமார திசாநாயக்கவை உள்ளிட்டவர்கள் இந்தியாவின் அழைப்பின் பேரில் இந்திய விஜயத்தை மேற்கொண்டு வந்ததன் பின்னர் இந்நாட்டு தமிழ் மக்கள் மத்தியில் எம்மீதான மிகப் பெரிய ஆர்வமும் கவனமும் அதிகரித்து வருகின்றது.
+Especially after the people of India, including Anura Kumara Dissanayake, made a visit to India at the invitation of India, the biggest interest and attention of the Tamil people in the country is increasing.
 
-எனவே, தமிழ் மக்கள் எம்மோடு இணைவதைத் தடுப்பதற்காக ஐக்கிய தேசியக் கட்சியுடன் தொடர்புள்ள பல்வேறு குழுக்கள் மிகவும் தவறான ஒரு செய்தியை புனைந்து வருகின்றன.
+Therefore, various groups associated with the United National Party are making a very false message to prevent the Tamil people from joining us.
 
 ...
 
 [Data](articles/2fcd0fb9.json)
+
+[Extended Data](ext_articles/2fcd0fb9.ext.json)
 
 ---
 
@@ -152,19 +162,21 @@ The Minister said that the Ceylon Electricity Board (CEB) has announced that he 
 
 ---
 
-### கொக்குத்தொடுவாய் மனித புதைகுழி 3 ஆம் கட்ட அகழ்வுப் பணி தொடர்பான வழக்கு விசாரணை இன்று
+### Kokkuttuwai Human Burial 3rd Phase Excavation Case
 
 *2024-02-22 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177015) · `ta`
 
-கொக்குதொடுவாய் மனித புதைகுழி அகழ்வு பணி தொடர்பான குறித்த வழக்கானது இன்று வியாழக்கிழமை (22)  முல்லைத்தீவு மாவட்ட நீதிமன்றில் இடம்பெற இருக்கின்றது.
+The case of the Kokkuttuwai human burial excavation work is scheduled to take place today (22) at the Mullaitivu District Court.
 
-முல்லைத்தீவு மாவட்டத்தில் கொக்குதொடுவாய் பகுதியில் கண்டுபிடிக்கப்பட்ட மனித புதைகுழியின் முதல் கட்ட அகழ்வானது 06.09.2023 அன்று ஆரம்பமாகி பதினொரு நாட்கள் நடைபெற்று 17 உடற்பாகங்கள் மீட்கப்பட்ட நிலையில் இடைநிறுத்தப்பட்டிருந்ததுடன், மீண்டும் அகழ்வின் இரண்டாம் கட்ட பணிகள் கடந்த 20.11.2023 அன்று ஆரம்பிக்கப்பட்டு தொடர்ச்சியாக ஒன்பது நாட்கள் நடைபெற்று  40 எலும்புக்கூட்டு தொகுதிகள் மீட்கப்பட்டுள்ளதுடன் இரண்டாம் கட்ட அகழ்வுபணி இடைநிறுத்தப்பட்டிருந்தது.
+The first phase of the human burial ground in the Kokkudoduwai area in the Mullaitivu district began on 06.09.2023 and 17 trunk was suspended and the second phase of the excavation was restored on 20.11.2023 and the second phase of the excavation was held on 20.11.2023.
 
-இதனை தொடர்ந்து மூன்றாம் கட்ட அகழ்வுபணிகள் ஆரம்பிப்பது குறித்தே  இன்றையதினம்  வழக்கு எடுத்துக்கொள்ளப்பட இருப்பதும் குறிப்பிடதக்கது.
+It is also worth noting that the case will be taken up today for the ongoing third phase of excavations.
 
 ◼️
 
 [Data](articles/aada47ec.json)
+
+[Extended Data](ext_articles/aada47ec.ext.json)
 
 ---
 
@@ -874,25 +886,27 @@ In some places in the Western and Sabaragamuwa provinces, some places are expect
 
 ---
 
-### අනුර කුමාර දිසානායක : 'ප්‍රභූ තන්ත්‍රයේ ආරක්ෂාව ද? පොදු ජනතාවගේ අපේක්ෂාව ද? තීන්දුවක් ගන්න'
+### Anura Kumara Dissanayake: The 'security of the elite regime'?Is the prospect of the common people?Take a decision '
 
 *2024-02-22 04:29:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp07724vn2no) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, රට ගොඩ ගන්න NPP වැඩපිලිවල කුමක් ද?
+There is nothing here nor contains noviodio heading and land in NPP.
 
-අනුර කුමාර දිසානායක : 'ප්‍රභූ තන්ත්‍රයේ ආරක්ෂාව ද? පොදු ජනතාවගේ අපේක්ෂාව ද? තීන්දුවක් ගන්න'
+Anura Kumara Dissanayake: The 'security of the elite regime'?Is the prospect of the common people?Take a decision '
 
-ප්‍රභූ තන්ත්‍රයේ ආරක්ෂාව වෙනුවෙන් පෙනී සිටිනවා ද? නැතිනම් පොදු ජනතාවගේ වුවමනාවට පෙළ ගැසෙනවා ද? යන්න ගැන රටේ ජනතාව තීන්දුවක් ගත යුතු බව
+Are you standing for the safety of the elite regime?Or do you rally the needs of the public?That the people of the country should take a decision about going
 
-ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක BBC සිංහල සේවය සමග පැවති සාකච්ඡාවක දී සඳහන් කළේය.
+Leader of the National Power Anura Kumara Dissanayake said in a discussion with BBC Sinhala service.
 
-ඉදිරි ජනාධිපතිවරණයට තරග කිරීම සඳහා ජාතික ජන බලවේගය නම් කර ඇති අපේක්ෂකයා ඔහු වේ.
+He is the candidate named the national folk force to contest the next presidential election.
 
-''ප්‍රභූ තන්ත්‍රය රකිනවා ද? පොදු ජනතාවගේ උවමනාවට පෙළ ගැසෙනවා ද? කියන එක අතර ගැටුම තමයි අනාගත දේශපාලන ගැටුම. ඒ නිසා මම හිතන්නේ මේ නිමේෂයේ දී නම් අපේ රටේ කිසිදු පුරවැසියෙකුට තමන් ස්වාධීනයි, අපි පැත්තකට වෙලා ඉන්නවා කියන මතය නියෝජනය කරන්න බෑ. එක්කෝ මේ ආපු දූෂිත ප්‍රභූ තන්ත්‍රයේ ආරක්ෂාවට යන්න ඕනා. එක්කෝ පොදු ජනතාවගේ වුවමනාවට එන්න ඕනා.'' යනුවෙන් අනුර කුමාර දිසානායක කියා සිටියේය.
+"Does the elite protect?Do you rally the common people?The conflict between the saying is the future political conflict. So I think if no citizen in our country is independent of our country and we cannot represent the view that we are aside. Either to go to the safety of this cutely corrupt elite regime. Either the public needs to come to the needs of the public. "
 
 ...
 
 [Data](articles/88c91272.json)
+
+[Extended Data](ext_articles/88c91272.ext.json)
 
 ---
 

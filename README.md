@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 16:02:32**
+As of **2024-02-22 16:17:38**
 
 ## Newspaper Stats
 
-*Scraped **8,704** Articles*
+*Scraped **8,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 446
 islandlk | 451
 dailyftlk | 464
 adalk | 739
-adaderanalk | 1,046
+adaderanalk | 1,048
 tamilmirrorlk | 1,083
 virakesarilk | 1,173
 adaderanasinhalalk | 1,283
@@ -26,11 +26,27 @@ dailymirrorlk | 1,299
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,704 (100.0%) of 8,704 articles have been extended.
+8,704 (100.0%) of 8,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### President outlines plans to amalgamate vocational training institutes in Sri Lanka
+
+*2024-02-22 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97459/president-outlines-plans-to-amalgamate-vocational-training-institutes-in-sri-lanka) · `en`
+
+President Ranil Wickremesinghe on Thursday (Feb.22) underscored that restructuring of vocational education should align with the demands of the modern world, ensuring that the country’s youth are equipped to excel in the competitive global job market.
+
+He also outlined plans to consolidate all vocational training institutes in Sri Lanka into a single vocational college, offering contemporary subject-related courses, the President’s Media Division (PMD) said.
+
+Wickremesinghe conveyed these initiatives during his observation tour at the Ratmalana Lalith Athulathmudali Vocational Training Centre, where he interacted with the students.
+
+...
+
+[Data](articles/632c6134.json)
+
+---
 
 ### Meteorological Department alert
 
@@ -69,6 +85,24 @@ The woman had received information on suspicion that the woman had mortaged by t
 [Data](articles/7c94ac34.json)
 
 [Extended Data](ext_articles/7c94ac34.ext.json)
+
+---
+
+### Heat advisory issued warning of increased temperatures
+
+*2024-02-22 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97458/heat-advisory-issued-warning-of-increased-temperatures) · `en`
+
+The Department of Meteorology has issued a Heat Index Advisory for tomorrow (Feb. 23) for several parts of the country including Gampaha and Colombo districts.
+
+The heat index, the temperature felt on the human body is expected to increase up to ‘caution’ level at some places in North-western and North-central provinces and Gampaha, Colombo, Hambantota and Trincomalee Districts, it said.
+
+The advisory states that under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat strokes.
+
+Accordingly, the general public is requested to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. People are also urged to wear lightweight and white or light-coloured clothing.
+
+...
+
+[Data](articles/4a227794.json)
 
 ---
 
@@ -474,7 +508,7 @@ PM Gunawardena congratulated Vietnam for the success of rapid economic developme
 
 *2024-02-22 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Enjoining-order-issued-restraining-ITAK-from-holding-national-convention/108-277555) · `en`
 
-Colombo, Feb 22 (Daily Mirror) - The Trincomalee District Court issued an enjoining order restraining office bearers of Ilankai Tamil Arasu Kadchi (ITAK) from holding the National Convention scheduled to be held on February 19.
+Colombo, Feb 22 (Daily Mirror) - The Trincomalee District Court issued an enjoining order restraining office bearers of Ilankai Tamil Arasu Kadchi (ITAK) from holding the National Convention which was scheduled to be held on February 19.
 
 The District Court made this order consequent to a plaint filed by plaintiff Chandrasekaram Para, a member of the ITAK, and this enjoining order will be effective till February 29.
 
@@ -2047,41 +2081,5 @@ The Bank’s Total Operating Income decreased by 3% to Rs. 49.5 billion in 2023 
 [Data](articles/8d5bab42.json)
 
 [Extended Data](ext_articles/8d5bab42.ext.json)
-
----
-
-### Sun Match honours founder’s legacy with ‘Navatha Avidimu’
-
-*2024-02-22 02:35:11* · [`dailyftlk`](https://www.ft.lk/business/Sun-Match-honours-founder-s-legacy-with-Navatha-Avidimu/34-758772) · `en`
-
-Sun Match Company, the market leader and first company in Sri Lanka to produce wax coated safety matches under the trusted household brand ‘Soorya’ and manufacturer of incense, candles, and hygiene products, honoured the 21st death anniversary of its Founder, the late T.R.R. Rajan at an event recently held on 31 January 2024. The company marked the solemn anniversary by continuing its two-decade-long landmark corporate social responsibility initiative, ‘Navatha Avidimu’.
-
-...
-
-[Data](articles/ba66ce33.json)
-
-[Extended Data](ext_articles/ba66ce33.ext.json)
-
----
-
-### Political and trade union activities should be avoided in hill country housing projects - Way. Radhakrishnan
-
-*2024-02-22 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177005) · `ta`
-
-The construction of houses in the upland plantations is welcome but the political and trade union activities should be avoided.. Radhakrishnan said.
-
-He said this while addressing the debate on the current state of the country held in Parliament on Wednesday (21).
-
-Houses were built on seven perch land that started on the people of the plantation. In that respect, the houses will be constructed in the same land without any improvement. It is important to bring changes to it as well as prioritizing the victims. The construction of houses in the upland plantations is welcome, but political and trade union activities should be avoided.
-
-In addition, the 15,000 rupees provided by the Assembly scheme should be made available to the plantation people.
-
-There have been many changes in the country since 2020. The government of Ranil Wickremesinghe is now in power and the problems of the people have not been solved.
-
-...
-
-[Data](articles/60f3baa4.json)
-
-[Extended Data](ext_articles/60f3baa4.ext.json)
 
 ---

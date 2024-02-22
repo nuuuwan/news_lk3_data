@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 10:02:32**
+As of **2024-02-22 10:17:40**
 
 ## Newspaper Stats
 
-*Scraped **8,629** Articles*
+*Scraped **8,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,23 @@ dailyftlk | 464
 adalk | 736
 adaderanalk | 1,037
 tamilmirrorlk | 1,074
-virakesarilk | 1,155
-adaderanasinhalalk | 1,269
+virakesarilk | 1,157
+adaderanasinhalalk | 1,270
 dailymirrorlk | 1,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,629 (100.0%) of 8,629 articles have been extended.
+8,629 (100.0%) of 8,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### Parliamentary proceedings begun
-
-*2024-02-22 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193691) · `si`
-
-The arrangements have commenced today (22) under the patronage of Deputy Speaker Ajith Rajapaksa.
-
-◼️
-
-[Data](articles/a1dc6788.json)
-
-[Extended Data](ext_articles/a1dc6788.ext.json)
-
----
-
 ### A cone -shaped tent in the sea
 
-*2024-02-22 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177008) · `ta`
+*2024-02-22 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177008) · `ta`
 
 An iron -cone -shaped tent in the Vadamarachchi East Kattaikkadu seas landed on Thursday morning (22).
 
@@ -63,6 +49,74 @@ It is noteworthy that the Thailand flag was found in such tents in the recent pa
 [Data](articles/18da0932.json)
 
 [Extended Data](ext_articles/18da0932.ext.json)
+
+---
+
+### முல்லைத்தீவில் லொட்டரி விற்பனை நிலையம் ஒன்று தீக்கிரை ; தீவிர விசாரணையில் பொலிஸார்
+
+*2024-02-22 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177010) · `ta`
+
+முல்லைத்தீவு, வள்ளிபுனம் பகுதியில்  லொட்டரி விற்பனை நிலையம் ஒன்று தீக்கிரையாக்கப்பட்ட சம்பவம் ஒன்று  இடம்பெற்றுள்ளது.
+
+முல்லைத்தீவு புதுக்குடியிருப்பு  பொலிஸ் பிரிவிற்குட்பட்ட  வள்ளிபுனம் பகுதியில்  அமைந்துள்ள லொத்தர் விற்பனை நிலையம் ஒன்று கடந்த 19 ஆம் திகதி இரவு சந்தேகத்திற்கு இடமான முறையில் தீக்கிரையாக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+குறித்த விற்பனை நிலையத்திற்குள் கதிரை, மேசை ஒன்றும், 120 லொத்தர் ரிக்கட்டுக்களும் தீக்கிரையாக்கப்பட்டுள்ளது.
+
+குறித்த சம்பவம் இனம் தெரியாதவர்களால் தீ மூட்டப்பட்டதா? அல்லது வேறு அசம்பாவிதத்தினால் தீ ஏற்பட்டதா? போன்ற  பல்வேறு கோணங்களில்  பொலிஸார் தீவிர விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/8fafe475.json)
+
+---
+
+### வெளிநாடுகளுக்கு வீட்டுப்பணிகளுக்காக பெண்களை அனுப்புவதை நிறுத்த தீர்மானம்
+
+*2024-02-22 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177007) · `ta`
+
+வெளிநாடுகளுக்கு வீட்டுப்பணிகளுக்காக பெண்களை அனுப்புவதை முற்றாக நிறுத்துவதற்கான திட்டத்தை உருவாக்குமாறு  தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகம் மற்றும் உரிமம் பெற்ற வெளிநாட்டு வேலைவாய்ப்பு முகவர் சங்கத்தின் பிரதிநிதிகளுடனான சந்திப்பைத் தொடர்ந்து இந்த உத்தரவை அவர் பிறப்பித்துள்ளார்.
+
+இதேவேளை,  புலம்பெயர்ந்த தொழிலாளர்களின் உரிமைகளை மேம்படுத்தும் வகையில் அதிக திறன் மற்றும் அதிக சம்பளம் பெறும்  வேலை வாய்ப்புகளை நோக்கி நகர்த்துவதன் முக்கியத்துவத்தை  அமைச்சகம் வெளியிட்டுள்ள அறிக்கையில் அவர் வலியுறுத்தியுள்ளார்.
+
+வெளிநாட்டில் உள்ள இலங்கை வீட்டுப் பணியாளர்கள் எதிர்கொள்ளும் பிரச்சினைகள் அதிகரித்துவரும்  நிலையில்  இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+வீட்டுப் பணியாளர்கள் எதிர்கொள்ளும் துஷ்பிரயோகம், சுரண்டல் மற்றும் நியாயமற்ற தொழில் நிலைமைகள் பற்றிய அறிக்கைகள் சீர்திருத்தத்திற்கான அழைப்புகளைத் தூண்டியுள்ளன.
+
+◼️
+
+[Data](articles/669ebc29.json)
+
+---
+
+### පොරොන්දු ඉටු කරන්නැයි කිරිඇල්ල ඉල්ලයි
+
+*2024-02-22 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193692) · `si`
+
+කෝප් සහ කෝපා කමිටුවල සභාපති ධුර විපක්ෂයට ලබා දෙන ලෙස විපක්ෂයේ ප්‍රධාන සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල මහතා, නියෝජ්‍ය කථානායක අජිත් රාජපක්ෂ මහතාගෙන් ඉල්ලීමක් කළේ ය.
+
+මෙම ධුර විපක්ෂයට ලබා දෙන බවට ගත වූ අරගල සමයේ දී කථානායකවරයා විපක්ෂයට ලිඛිත ව පොරොන්දු වූ බව ද ලක්ෂ්මන් කිරිඇල්ල මහතා සඳහන් කළේ ය.
+
+ඒ අනුව අදාළ තත්ත්වය පිළිබඳ කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ අවධානයට යොමු කරන බව නියෝජ්‍ය කථානායකවරයා පැවසීය.
+
+◼️
+
+[Data](articles/907ff414.json)
+
+---
+
+### Parliamentary proceedings begun
+
+*2024-02-22 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193691) · `si`
+
+The arrangements have commenced today (22) under the patronage of Deputy Speaker Ajith Rajapaksa.
+
+◼️
+
+[Data](articles/a1dc6788.json)
+
+[Extended Data](ext_articles/a1dc6788.ext.json)
 
 ---
 
@@ -2031,67 +2085,5 @@ With the uptick in tourist arrivals there was construction in hotels, “mainly 
 [Data](articles/13ca4099.json)
 
 [Extended Data](ext_articles/13ca4099.ext.json)
-
----
-
-### AMS urges fairness amidst National Hospital turmoil
-
-*2024-02-21 17:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AMS-urges-fairness-amidst-National-Hospital-turmoil/108-277492) · `en`
-
-Colombo, Feb 21 (Daily Mirror) - In response to the recent upheaval at the National Hospital of Sri Lanka (NHSL), the Association of Medical Specialists (AMS) raised deep concern over the events that transpired on the premises.
-
-The AMS observed an unsettling incident where a group of healthcare workers reportedly obstructed a deputy director of NHSL from leaving his office, demanding his removal over contentious statements made in the recent past.
-
-In their press release, the AMS highlighted several crucial points surrounding the issue. Firstly, they emphasized that while the deputy director in question holds the position of President of a trade union, expressing opinions and views is within the rights of trade union leaders.
-
-However, if such expressions are deemed detrimental to the functioning of health services or specific categories of health workers, a formal complaint process should be initiated followed by an impartial inquiry.
-
-...
-
-[Data](articles/e87dfce7.json)
-
-[Extended Data](ext_articles/e87dfce7.ext.json)
-
----
-
-### Heat;Alert
-
-*2024-02-21 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/176948) · `ta`
-
-Medical experts have advised people to avoid the excessive sunlight of the country due to the hot weather in the country and frequent water.
-
-Avoiding artificial soft drinks, drinking natural soft drinks such as water and juices can be protected from watering.
-
-Children, pregnant mothers, elderly and people who are treated for various diseases are at risk of watering in the body.
-
-Therefore, they should avoid going out as far as possible in high temperatures and keeping the body from watering.Therefore, drink 2.5 liters of water.
-
-As well as the boys should be accommodated to play in the house or in the shade. He said that small children should be encouraged to wear hats for safety when they go outside.
-
-◼️
-
-[Data](articles/f65869d1.json)
-
-[Extended Data](ext_articles/f65869d1.ext.json)
-
----
-
-### ‘I can’t sell Sri Lanka to India’ – Minister Harin hits back at Wimal and Gammanpila
-
-*2024-02-21 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97440/i-cant-sell-sri-lanka-to-india-minister-harin-hits-back-at-wimal-and-gammanpila) · `en`
-
-Delivering a statement in Parliament today (21 Feb.), Tourism Minister Harin Fernando hit out at opposition MPs Wimal Weerawansa and Udaya Gammanpila over their criticism of his recent speech in India.
-
-Weerawansa and Gammanpila had yesterday (20 Feb.) accused Minister Fernando of attempting to sell the country to India, in reference to certain comments made by the Tourism Minister during a recent event held in Mumbai, India.
-
-Responding to the allegations against him, Fernando stated that he had only thanked India for extending their support at a time when Sri Lanka was facing its worst economic crisis, and that his statement was gravely misconstrued by the MPs in question.
-
-“I humbly thanked India for saving Sri Lanka for the last 13 – 14 months, with giving us the maximum amount of tourists”, he said.
-
-...
-
-[Data](articles/375af3c3.json)
-
-[Extended Data](ext_articles/375af3c3.ext.json)
 
 ---

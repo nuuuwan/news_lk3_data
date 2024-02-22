@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 09:51:15**
+As of **2024-02-22 10:02:32**
 
 ## Newspaper Stats
 
-*Scraped **8,627** Articles*
+*Scraped **8,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,67 +18,109 @@ dailyftlk | 464
 adalk | 736
 adaderanalk | 1,037
 tamilmirrorlk | 1,074
-virakesarilk | 1,154
-adaderanasinhalalk | 1,268
+virakesarilk | 1,155
+adaderanasinhalalk | 1,269
 dailymirrorlk | 1,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,620 (99.9%) of 8,627 articles have been extended.
+8,629 (100.0%) of 8,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### ගෝඨා ගෝ ගම අරගලය සමයේ මෙරට සිටි විදෙස් කාන්තාව ගැන තීරණයක්
+### Parliamentary proceedings begun
+
+*2024-02-22 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193691) · `si`
+
+The arrangements have commenced today (22) under the patronage of Deputy Speaker Ajith Rajapaksa.
+
+◼️
+
+[Data](articles/a1dc6788.json)
+
+[Extended Data](ext_articles/a1dc6788.ext.json)
+
+---
+
+### A cone -shaped tent in the sea
+
+*2024-02-22 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177008) · `ta`
+
+An iron -cone -shaped tent in the Vadamarachchi East Kattaikkadu seas landed on Thursday morning (22).
+
+The fishermen who went to the sea for fishing were immediately observed and informed the navy.
+
+The fishermen's efforts to bring to the shore of the fishermen by their efforts to remove the tent were removed.
+
+It is noteworthy that the Thailand flag was found in such tents in the recent past and that there was no flag in the tent.
+
+◼️
+
+[Data](articles/18da0932.json)
+
+[Extended Data](ext_articles/18da0932.ext.json)
+
+---
+
+### Decision on Foreign Woman in Sri Lanka during the struggle of Gota Go village
 
 *2024-02-22 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193690) · `si`
 
-ගාලු මුවදොර 'ගෝඨා ගෝ ගම' අරගලය පැවති සමයේ මෙරට රැඳී සිටි බ්‍රිතාන්‍ය ජාතික කාන්තාවක වන 'කෙලිග් ෆ්‍රේසර්' නමැත්තියගේ වීසා අවලංගු කොට ඇයට රටින් පිට විය යුතු යැයි ආගමන හා විගමන පාලකවරයා විසින් නිකුත් කරනු ලැබූ නියෝගය බල රහිත කිරීමේ ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කළ අභියාචනා පෙත්සම නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබේ.
+The Galle Facer, the Controller of the British woman who stayed in the struggle of the 'Gota Go Village', asking for a delegation commanding command to leave the country during the struggle.The Supreme Court has ordered the dispatch of appeals petition.
 
-අදාළ කාන්තාවගේ නීතිඥවරුන් මාර්ගයෙන් ගොනු කළ පෙත්සම නිශ්ප්‍රභ කළ ශ්‍රේෂ්ඨාකරණ විනිසුරු මඬුල්ල රුපියල් 250,000ක නඩු ගාස්තුවක් ගෙවන ලෙසට පෙත්සම්කාරියට නියෝග කර ඇති බව අද දෙරණ අධිකරණ වාර්තාකරු සඳහන් කළේ ය.
+Ada Derana reporter said that the petition filed by the petition filed by the woman's lawyers had ordered the petitioner to pay a cases of Rs. 250,000.
 
-මහින්ද සමයවර්ධන, ශිරාන් ගුණරත්න යන විනිසුරුවරුන්ගේ එකඟත්වය සහිත ව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ගාමිණී අමරසේකර මහතා විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කර තිබේ.
+The decision has been announced by the Supreme Court Judge Gamini Amarasekera with the agreement of Judges of Shiran Gunaratne.
 
-නේවාසික වීසා මත මෙරට රැඳී සිටි තමන්ට නිකුත් කර තිබූ වීසා බලපත්‍ර අවලංගු කළ ආගමන හා විගමන දෙපාර්තමේන්තුව විසින් 2022 වසරේ අගෝස්තු මස 15 වැනි දාට පෙර රටින් පිට වන ලෙස තමාට නියෝග කළ බව පෙත්සම්කාරිය අධිකරණය හමුවේ ගොනු කළ පෙත්සමේ සඳහන් කර ඇත.
+The petitioner filed the petition filed by the Department of Immigration and Emigration, the Department of Immigration and Emigration, which was issued on residential visa, has been issued to the country to leave the country before 15th August 2022.
+
+The petitioner has been challenged by the Paradise and the Controller of the Controller of the Controller of the Controller.
 
 ...
 
 [Data](articles/f8ea6ef8.json)
 
+[Extended Data](ext_articles/f8ea6ef8.ext.json)
+
 ---
 
-### தேடப்பட்டு வந்த பல சந்தேகநபர்கள் துபாயில் கைது
+### Many suspects arrested in Dubai
 
 *2024-02-22 09:06:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்த-பல-சந்தேகநபர்கள்-துபாயில்-கைது/175-333641) · `ta`
 
-கைது செய்யப்பட்டவர்கள் தொடர்பில் சர்வதேச பொலிஸாருடன் இணைந்து  விசாரணைகள் முன்னெடுக்கப்பட்டு வருவதாக பதில் பொலிஸ்மா அதிபர் தேஷபந்து தென்னகோன் தெரிவித்தார்.
+Investigations are being carried out with the International Police regarding the arrested persons.
 
-நாடட்டில் இடம்பெறும் துப்பாக்கிச்சூட்டு சம்பவங்கள், கடத்தல்கள், கொலைகள் என்பவற்றுக்கு டுபாயிலிருந்துதான் செயற்படுத்தப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது. R
+It is noteworthy that the shootings, kidnapping and killings in the country are being operated from Dubai.. Remble
 
 ◼️
 
 [Data](articles/a08d2d53.json)
 
+[Extended Data](ext_articles/a08d2d53.ext.json)
+
 ---
 
-### ජනාධිපතිවරණය නිසි කලට
+### Processing the presidential election
 
 *2024-02-22 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193689) · `si`
 
-ජනාධිපතිවරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව නිසි කලට පැවැත්වෙනු ඇති බව අධිකරණ අමාත්‍ය ආචාර්ය විජේදාස රාජපක්ෂ මහතා පවසයි.
+The Hon. Minister of Justice Dr. Wijedasa Rajapakse says that the presidential election will be properly held in accordance with the Constitution.
 
-අමාත්‍යවරයා පෙන්වා දෙන්නේ, ඒ සම්බන්ධයෙන් ජනතාව කිසිදු සැකයක් ඇති කරගත නොගත යුතු බවයි.
+The Minister pointed out that the people should not be able to make any doubt.
 
-මේ අතර, නිදහස ජනතා සභාව මෙතෙක් කිසිදු ජනාධිපති අපේක්ෂකයෙකුට සහාය පළ කිරීම සම්බන්ධයෙන් අවසන්  එකඟතාවකට පැමිණ නොමැති බව පාර්ලිමේන්තු මන්ත්‍රී ගුණපාල රත්නසේකර මහතා පවසයි.
+Meanwhile, MP Gunapala Ratnasekera says that the freedom has not reached support any presidential candidate so far.
 
-මාධ්‍යවේදීන් නැගු පැනයකට පිළිතුරු ලබාදෙමින් ගුණපාල රත්නසේකර මන්ත්‍රීවරයා මේ බව සඳහන් කර ඇත.
+Mr. Gunapala Ratnasekera has said this by responding to a question raised by journalists.
 
 ◼️
 
 [Data](articles/9127108e.json)
+
+[Extended Data](ext_articles/9127108e.ext.json)
 
 ---
 
@@ -97,6 +139,8 @@ With the no ball not signaled, Kamindu Mendis pleaded with umpires Ravindra Wima
 ...
 
 [Data](articles/d6bae937.json)
+
+[Extended Data](ext_articles/d6bae937.ext.json)
 
 ---
 
@@ -193,6 +237,8 @@ An informed source familiar with what transpired during talks said some oil tran
 ...
 
 [Data](articles/964a47ee.json)
+
+[Extended Data](ext_articles/964a47ee.ext.json)
 
 ---
 
@@ -428,6 +474,8 @@ Explaining the rationale behind this shift, a senior official of the Central Ban
 
 [Data](articles/21cf9569.json)
 
+[Extended Data](ext_articles/21cf9569.ext.json)
+
 ---
 
 ### Weather today
@@ -467,6 +515,8 @@ The recent price pressures aren’t surprising, as the authorities were expectin
 ...
 
 [Data](articles/385e0691.json)
+
+[Extended Data](ext_articles/385e0691.ext.json)
 
 ---
 
@@ -2043,47 +2093,5 @@ Responding to the allegations against him, Fernando stated that he had only than
 [Data](articles/375af3c3.json)
 
 [Extended Data](ext_articles/375af3c3.ext.json)
-
----
-
-### Appeal message from the mother of Alexi Navalni's mother
-
-*2024-02-21 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193665) · `si`
-
-Russian opposition leader Alexi Navalni's mother has requested Russian President Vladmini Putin to free his son's body.
-
-Foreign media reports that Navalni's mother had made a video message through the social media.
-
-Alexi Naveldi died on a prison last Friday, and the authorities have not taken steps to hand over his body to relatives.
-
-Accordingly, Navalni's mother, Putin, is said to be an appealing message to the President, to free his Son's body to perform a dignified and humanitarian manner.
-
-However, the Russian President has not responded so far regarding the video.
-
-◼️
-
-[Data](articles/7d3bd5a1.json)
-
-[Extended Data](ext_articles/7d3bd5a1.ext.json)
-
----
-
-### Aquaman star Jason Momoa hails Sri Lanka’s mangrove restoration efforts
-
-*2024-02-21 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97439/aquaman-star-jason-momoa-hails-sri-lankas-mangrove-restoration-efforts) · `en`
-
-Hollywood actor Jason Momoa has congratulated Sri Lanka for being declared a UN World Restoration Flagship, in recognition of the island nation’s efforts to rebuild and restore its mangrove ecosystems.
-
-In a video statement, the United Nations Environment Programme (UNEP) Advocate for Life Below Water, commended the endeavours of the island nation.
-
-The Aquaman star further said: “As a native Hawaiian, I saw the impacts of climate change first had this year, the devastating lines of fires. We urgently need to revive the health of our lands, the coasts and oceans.
-
-“After the tsunami, the island of Sri Lanka also had to build back. And they did it using the power of nature as a solution versus fighting against it. I want to celebrate Sri Lanka for its recognition as the UN World Restoration Flagship.
-
-...
-
-[Data](articles/74801b11.json)
-
-[Extended Data](ext_articles/74801b11.ext.json)
 
 ---

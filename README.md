@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 00:17:43**
+As of **2024-02-23 00:32:37**
 
 ## Newspaper Stats
 
-*Scraped **8,770** Articles*
+*Scraped **8,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 464
 adalk | 744
 adaderanalk | 1,054
 tamilmirrorlk | 1,090
-virakesarilk | 1,182
+virakesarilk | 1,184
 adaderanasinhalalk | 1,294
 dailymirrorlk | 1,313
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,762 (99.9%) of 8,770 articles have been extended.
+8,770 (100.0%) of 8,772 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Despite this explanation, the COPF members pressed the officials for data on cer
 
 [Data](articles/37799f0f.json)
 
+[Extended Data](ext_articles/37799f0f.ext.json)
+
 ---
 
 ### Hot weather no obstacle for them...
@@ -59,6 +61,24 @@ People in urban areas of Colombo engaged in construction work during the daytime
 ◼️
 
 [Data](articles/2cf0f618.json)
+
+[Extended Data](ext_articles/2cf0f618.ext.json)
+
+---
+
+### ஐ.நா. அபிவிருத்தி திட்டத்தின் ஊடக செயலமர்வுகளில் அரச மற்றும் தனியார் ஊடக நிறுவனங்கள் பங்கேற்றுள்ளன - அமைச்சர் பந்துல குணவர்தன
+
+*2024-02-22 23:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177082) · `ta`
+
+ஐக்கிய நாடுகள் அபிவிருத்தி திட்டத்தின் நிதி பங்களிப்புடன் நாடளாவிய ரீதியில் நடத்தப்படும் ஊடகவியலாளர்களைத் தெளிவுபடுத்தும் வேலைத் திட்டத்திற்கு அரச மற்றும் தனியார் ஊடக நிறுவனங்களைச் சேர்ந்த சிங்கள, தமிழ் ஊடகவியலாளர்கள் பங்கேற்றுள்ளனர் என ஊடகத்துறை மற்றும் போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (22) அமைச்சு ஆலாேசனை அறிக்கையை முன்வைத்து உரையாற்றும்போதே இவ்வாறு தெரிவித்தார்.
+
+ஐக்கிய நாடுகள் அபிவிருத்தி திட்டத்தின் அனுசரணையில் முன்னெடுக்கப்படும் ஊடகவியலாளர்களுக்கான செயலமர்வு, ஊடகவியலாளர்களைத் தெளிவுபடுத்துவதற்கு மேலதிகமாக சமூக சகவாழ்வை மேம்படுத்துவது, குரோத மனப்பான்மையுடனான விடயங்களை எதிர்ப்பது, பிரதேச ஊடகவியலாளர்களை தெளிவூட்டுவது, சமூக பொறுப்புக்களை புரிந்து ஊடக சம்பிரதாயங்களை நிலை நாட்டுதல் போன்ற விடயங்களை உள்ளடக்கியதாகும். அதற்கான இனக்கப்பாட்டையும் இதன் மூலம் பெற்றுக் கொள்வதற்கு நாம் நடவடிக்கை எடுத்துள்ளோம்.
+
+...
+
+[Data](articles/aa992f00.json)
 
 ---
 
@@ -426,6 +446,8 @@ With the opening of Ram Mandhir in Ayodhya, Sri Lanka has renewed the establishm
 
 [Data](articles/6c4112f5.json)
 
+[Extended Data](ext_articles/6c4112f5.ext.json)
+
 ---
 
 ### The Radella short road is a terrible accident on the road
@@ -676,6 +698,8 @@ Courts had earlier granted the stay saying Hamilton had the option of renewing c
 
 [Data](articles/ed9ce4db.json)
 
+[Extended Data](ext_articles/ed9ce4db.ext.json)
+
 ---
 
 ### Members Members Members Members of Parliament
@@ -698,6 +722,24 @@ Attorney at Law Mohan Priyadarshana De Silva, Lasantha Alagiyawanna, Prasanna Ra
 
 ---
 
+### சனத் நிஷாந்தவின் மரணம் கொலையா ? விபத்தா ? பாரிய சந்தேகம் எழுகிறது என்கிறார் ஜோன்ஸ்டன் பெர்னாண்டோ
+
+*2024-02-22 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177049) · `ta`
+
+இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மரணம்  கொலையா? அல்லது விபத்தா? என்பதில் சந்தேகம் உள்ளது.குற்றப்புலனாய்வுத் திணைக்களம் துரிதகரமான விசாரணைகளை மேற்கொண்டு உண்மையை பகிரங்கப்படுத்த வேண்டும்.
+
+சனத் நிஷாந்தவை போன்று அரசியல்வாதிகள் அனைவரும் இறக்க வேண்டும் என 3 பேரை கொண்டவர்கள் கருதுகிறார்கள் என  ஆளும் தரப்பின்  பாராளுமன்ற உறுப்பினர் ஜோன்ஸ்டன் பெர்னான்டோ தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (22) இடம்பெற்ற காலஞ்சென்ற பாராளுமன்ற உறுப்பினர் சனத் நிசாந்தவுக்கான அனுதாப பிரேரணையில் உரையாற்றுகையில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பாராளுமன்ற உறுப்பினர் சனத் நிஷாந்தவின் மரணம்  கொலையா? அல்லது  விபத்தா, என்பதில் பாரிய சந்தேகம் உள்ளது. இதனால் தான்  அவரது மனைவி குற்றப்புலனாய்வு திணைக்களத்தில் முறைப்பாடளித்துள்ளார். ஆகவே இந்த முறைப்பாட்டை துரிதமாக விசாரணை செய்து உண்மையை நாட்டு  மக்களுக்கு பகிரங்கப்படுத்த வேண்டும் குற்றவாளிகளுக்கு கடுமையான தண்டனை வழங்க வேண்டும்.
+
+...
+
+[Data](articles/64a4dc83.json)
+
+---
+
 ### Sri Lanka to consolidate all vocational training institutes into one college: president
 
 *2024-02-22 17:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-consolidate-all-vocational-training-institutes-into-one-college-president-152006/) · `en`
@@ -716,6 +758,8 @@ According to the statement, Wickremesinghe had also outlined to students at the 
 
 [Data](articles/7d5e3087.json)
 
+[Extended Data](ext_articles/7d5e3087.ext.json)
+
 ---
 
 ### ADB country chief hopes Sri Lanka could sustain policy reforms despite elections
@@ -733,6 +777,8 @@ The IMF has strictly placed some reforms including in state sector enterprises, 
 ...
 
 [Data](articles/ef4eb908.json)
+
+[Extended Data](ext_articles/ef4eb908.ext.json)
 
 ---
 
@@ -864,6 +910,8 @@ A bond maturing on 01.07.2032 closed at 12.50/13.30 percent from 12.50/13.20 per
 
 [Data](articles/71e7a8e9.json)
 
+[Extended Data](ext_articles/71e7a8e9.ext.json)
+
 ---
 
 ### Young people and women will be created to win the competitive world market - the President
@@ -925,6 +973,8 @@ CEB management and tariff department officials had briefed the ministry on the r
 ...
 
 [Data](articles/7bb133f9.json)
+
+[Extended Data](ext_articles/7bb133f9.ext.json)
 
 ---
 
@@ -2003,45 +2053,5 @@ The study of the Global Waksin Data Network has revealed that the public use of 
 [Data](articles/1370c582.json)
 
 [Extended Data](ext_articles/1370c582.ext.json)
-
----
-
-### The proposal to reduce electricity tariffs to the Public Utilities Commission
-
-*2024-02-22 12:15:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-අඩුකිරීමේ-යෝජනාව-මහජන-උපයෝගීතා-කොමිසමට/11-408230) · `si`
-
-The Sri Lanka Electricity Board has confirmed that the revised proposal to reduce electricity tariffs will be referred to the Public Utilities Commission today (22).. The Ceylon Employees Associations, Consumer Associations have been constantly demanded on the reduction of electricity tariffs.
-
-As the Minister Kanchana Wijesekered in parliament yesterday (21), it would reduce the electricity bill in October last year.
-
-◼️
-
-[Data](articles/916b5bfd.json)
-
-[Extended Data](ext_articles/916b5bfd.ext.json)
-
----
-
-### Release 18 fishermen who cross the border;Prison
-
-*2024-02-22 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177023) · `ta`
-
-18 fishermen who have crossed the Sri Lankan waters have been released and sentenced to death.
-
-On the 7th of this month, 19 Indian fishermen who were fishing along the border were arrested in the Nedundevu sea with two boats.
-
-A case was filed against them in the Kayts court on the day.
-
-In this case, the magistrate ordered all of them to be interrogated. The case was taken up again at the Kayts Court today (22).
-
-In response to today's case, 7 Indian fishermen who were traveling in a boat with Ind/TN/10/mm/925 were released and the boat was released with the conditions of the five -year -old 18 -month imprisonment.
-
-Sudhakaran, Deputy Director of the Jaffna District Aquatic Resources Department, said that 11 persons who were traveling on the boat on Ind/TN/TN/TN/10/Mm/324 were released with the conditions of the 18 -month prison sentence for five years.
-
-◼️
-
-[Data](articles/69311366.json)
-
-[Extended Data](ext_articles/69311366.ext.json)
 
 ---

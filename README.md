@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 19:33:05**
+As of **2024-02-22 20:02:34**
 
 ## Newspaper Stats
 
-*Scraped **8,729** Articles*
+*Scraped **8,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 451
 economynextcom | 452
 dailyftlk | 464
 adalk | 739
-adaderanalk | 1,050
+adaderanalk | 1,051
 tamilmirrorlk | 1,085
 virakesarilk | 1,179
-adaderanasinhalalk | 1,287
-dailymirrorlk | 1,302
+adaderanasinhalalk | 1,290
+dailymirrorlk | 1,303
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,727 (100.0%) of 8,729 articles have been extended.
+8,734 (100.0%) of 8,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### ‘Welivita Sudda’ arrested with heroin, illegal property seized
+
+*2024-02-22 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97463/welivita-sudda-arrested-with-heroin-illegal-property-seized) · `en`
+
+Kaduwela Police today arrested suspected drug trafficker and organised criminal gang member, Sudath Kithsiri alias ‘Welivita Sudda’.
+
+Police said the suspect was arrested in the Welivita area in Malabe, while in possession of 15 grams and 300 milligrams of heroin.
+
+‘Welivita Sudda’ had been out on bail following a previous arrest for the possession of crystal methamphetamine (Ice) while the Illegal Assets and Property Investigation Division of Sri Lanka Police had launched a probe into him.
+
+Meanwhile, five buses, a car and a motorcycle, which are suspected to be illegally acquired property by the suspect, have been taken into police custody, based on information received by the Kaduwela Police Station.
+
+It has been revealed in the investigation that the property in question had been obtained by the suspect under the name of his cousin brother.
+
+◼️
+
+[Data](articles/a6fc742f.json)
+
+[Extended Data](ext_articles/a6fc742f.ext.json)
+
+---
+
+### Weliwita Sudanda arrested
+
+*2024-02-22 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193713) · `si`
+
+Kaduwela Police have arrested Sudath Kithsiri alias Sudath Kithsiri alias, who is considered a drug dealer.
+
+The suspect was arrested along with 15 grams and 300 milligrams of heroin during a raid committed in Weliwita.
+
+The illegal assets and the Investigation Division of the Illegal Asset and Investigation Division have commenced investigations into the release of the ice drugs.
+
+In the meantime, five buses suspected to be taken into custody by the suspect, a car and a motorcycle.
+
+Investigations have revealed that the suspect had obtained his cousin by his cousin.
+
+◼️
+
+[Data](articles/a3367745.json)
+
+[Extended Data](ext_articles/a3367745.ext.json)
+
+---
 
 ### GMOA slams Health Ministry over bogus doctors
 
@@ -43,6 +87,24 @@ Colombo, Feb 22 (Daily Mirror) - In the wake of scathing criticisms on the Minis
 ...
 
 [Data](articles/6c792e4b.json)
+
+[Extended Data](ext_articles/6c792e4b.ext.json)
+
+---
+
+### GMOA slams Health Ministry over quacks
+
+*2024-02-22 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-slams-Health-Ministry-over-quacks/108-277564) · `en`
+
+Colombo, Feb 22 (Daily Mirror) - In the wake of scathing criticisms on the Ministry of Health's handling of the proliferation of quacks in Sri Lanka, the Government Medical Officers' Association (GMOA) has raised serious concerns over the rampant illegal practice of medicine across the country.
+
+“In Sri Lanka, the practice of medicine has to be strictly regulated, requiring individuals to possess a valid registration with either the Sri Lanka Medical Council, Ayurvedic Medical Council, or Homeopathic Medical Council, and meet required qualifications. Those practicing without such registrations are deemed fake doctors, posing a grave risk to public health,” the GMOA said in a special statement.
+
+...
+
+[Data](articles/faa9cca5.json)
+
+[Extended Data](ext_articles/faa9cca5.ext.json)
 
 ---
 
@@ -63,6 +125,26 @@ Prior to its arrival, the civilian ship had spent more than three weeks surveyin
 [Data](articles/f7a24ad3.json)
 
 [Extended Data](ext_articles/f7a24ad3.ext.json)
+
+---
+
+### Members Members Members Members of Parliament
+
+*2024-02-22 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193712) · `si`
+
+Nominations of Member Membershibha in Parliament today announced the nomination of Member Members (22) in Parliament today (22).
+
+The nomination of the nominations was announced by the Deputy Speaker Ajith Rajapakse as the proposals were passed on February 9, 2024 on February 9, 2024.
+
+Attorney Pavithradevi Wanniarachchi, President's Counsel (Dr.) Wijeyadasa Rajapakse, Johnston Fernando, Magadenanda Aluthgamage, Attorney Madura Withanaage and Samanphra Herath.
+
+Attorney at Law Mohan Priyadarshana De Silva, Lasantha Alagiyawanna, Prasanna Ranaweera, K.. Kader Masathan, Diana Gamage, Chamara Sampath Dasanayake, Vajira Abeywardena, A. L. M. Ahalaweera Dissanayake, Jayantha Ketaweera, (Dr.) Major Pradeep Undugoda, Rahandas Kodithaku, Isuru Dodangoda, Attorney Dodangoda. Deliwaththa, Tapata Procedure, M. W. D. Sahan Pradeep Withana, Attorney-at-Law Madura Withanage, D. Weerasinghe and Manjula Dissanayake.
+
+...
+
+[Data](articles/7e41a960.json)
+
+[Extended Data](ext_articles/7e41a960.ext.json)
 
 ---
 
@@ -119,6 +201,24 @@ He is suspected as the actual owner of the fleet of vehicles, including five lux
 [Data](articles/c9f810e5.json)
 
 [Extended Data](ext_articles/c9f810e5.ext.json)
+
+---
+
+### Super football player to jail for rape
+
+*2024-02-22 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193711) · `si`
+
+Danny Alwas has been imprisoned, who was guilty of sexual abuse.
+
+In a nightclub in Barcelona, 2022, Always declared a woman to abuse a woman's decision today (22).
+
+However, the judiciary was sentenced to 4 1/2 years in prison against him and paid a compensation of $ 163,000.
+
+◼️
+
+[Data](articles/68f89280.json)
+
+[Extended Data](ext_articles/68f89280.ext.json)
 
 ---
 
@@ -1540,6 +1640,8 @@ Speaking to Daily Mirror, Government Medical Officers' Association (GMOA) Media 
 
 [Data](articles/3b8df587.json)
 
+[Extended Data](ext_articles/3b8df587.ext.json)
+
 ---
 
 ### Medical fraternity urges health authorities to go on alert
@@ -1983,101 +2085,5 @@ The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustai
 [Data](articles/2c729689.json)
 
 [Extended Data](ext_articles/2c729689.ext.json)
-
----
-
-### Many suspects arrested in Dubai
-
-*2024-02-22 09:06:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்த-பல-சந்தேகநபர்கள்-துபாயில்-கைது/175-333641) · `ta`
-
-Investigations are being carried out with the International Police regarding the arrested persons.
-
-It is noteworthy that the shootings, kidnapping and killings in the country are being operated from Dubai.. Remble
-
-◼️
-
-[Data](articles/a08d2d53.json)
-
-[Extended Data](ext_articles/a08d2d53.ext.json)
-
----
-
-### Processing the presidential election
-
-*2024-02-22 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193689) · `si`
-
-The Hon. Minister of Justice Dr. Wijedasa Rajapakse says that the presidential election will be properly held in accordance with the Constitution.
-
-The Minister pointed out that the people should not be able to make any doubt.
-
-Meanwhile, MP Gunapala Ratnasekera says that the freedom has not reached support any presidential candidate so far.
-
-Mr. Gunapala Ratnasekera has said this by responding to a question raised by journalists.
-
-◼️
-
-[Data](articles/9127108e.json)
-
-[Extended Data](ext_articles/9127108e.ext.json)
-
----
-
-### ’’Better if he did another job’’ - Hasaranga lashes out at umpire
-
-*2024-02-22 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Better-if-he-did-another-job-Hasaranga-lashes-out-at-umpire/108-277534) · `en`
-
-Dambulla, Feb 22 (Daily Mirror) - Sri Lanka's T20 captain lashed out at the umpiring during the third and final T20I against Afghanistan at Palekelle on Wednesday, claiming that a missed no ball call in the final over influenced his team's three-run defeat.
-
-With 11 runs needed in the final three balls for Sri Lanka to win, a full toss from Afghanistan's fast bowler Wafadar Mohammad soared above the waist of all-rounder Kamindu Mendis, as he stepped out of the crease and attempted to heave the ball onto the leg side.
-
-With the no ball not signaled, Kamindu Mendis pleaded with umpires Ravindra Wimalasiri and square leg umpire Lyndon Hannibal to review the call, but the umpires chose not to.
-
-"To be honest, this is not something that can happen in an international cricket match. If it was just above the waist, then it's understandable, but had that gone a little higher, it would have hit the batsman on the head!" a visibly annoyed Hasaranga told journalists after the match.
-
-...
-
-[Data](articles/d6bae937.json)
-
-[Extended Data](ext_articles/d6bae937.ext.json)
-
----
-
-### Police Investigations into suspicious death
-
-*2024-02-22 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193688) · `si`
-
-A person has lodged a complaint with the Dompe Police yesterday (21), saying that his son had assaulted his son.
-
-Investigations have also been revealed that the police have also issued a court medical form to hospital.
-
-Accordingly, Dompe police had received suspicious man near the Dompe Police Division in the Dompe Police Division yesterday afternoon.
-
-The man died of fallen in the same way and was a 60 year old resident of the Tittapattapatta area.
-
-◼️
-
-[Data](articles/bbdfb0ec.json)
-
-[Extended Data](ext_articles/bbdfb0ec.ext.json)
-
----
-
-### Forbidden material taken to the prison
-
-*2024-02-22 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193687) · `si`
-
-The Colombo remanded has commenced a special investigation into two detainees attempting to take the prohibited substances into the rectangular.
-
-The investigation was commenced in the Colombo Remand Prison.
-
-The two suspects have been submitted to the Kaduwela Magistrate's Court yesterday (21) and resumed the prison emergency infatable.
-
-The mobile phone, SIMP and four tobacco, which had been hidden in the rectum of a inmate, has also recovered four tobacco, four tobacco.
-
-◼️
-
-[Data](articles/ed3a835a.json)
-
-[Extended Data](ext_articles/ed3a835a.ext.json)
 
 ---

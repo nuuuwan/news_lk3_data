@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 18:33:05**
+As of **2024-02-22 18:51:32**
 
 ## Newspaper Stats
 
-*Scraped **8,726** Articles*
+*Scraped **8,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 451
 economynextcom | 452
 dailyftlk | 464
 adalk | 739
-adaderanalk | 1,049
+adaderanalk | 1,050
 tamilmirrorlk | 1,085
 virakesarilk | 1,179
 adaderanasinhalalk | 1,287
@@ -26,11 +26,29 @@ dailymirrorlk | 1,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,726 (100.0%) of 8,726 articles have been extended.
+8,726 (100.0%) of 8,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Maldives visit of Chinese survey ship could rouse Indian Ocean security concerns - report
+
+*2024-02-22 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97462/maldives-visit-of-chinese-survey-ship-could-rouse-indian-ocean-security-concerns-report) · `en`
+
+(Reuters) - A Chinese research ship arrived in the Maldives on Thursday, global ship-tracking data showed, just three months after a similar vessel visited the Indian Ocean and sparked New Delhi’s security concerns.
+
+The visit follows January comments by a U.S. think tank, that China’s navy could “leverage the insights gained from these missions” for deployment of naval forces, a claim Beijing calls part of a concocted image-smearing “China threat” narrative.
+
+Xiang Yang Hong 03, owned by a research institute that reports to China’s natural resources ministry, made a port call in the Maldives capital of Male, data from MarineTraffic showed, more than a month after leaving its home port of Xiamen in southeastern China.
+
+Prior to its arrival, the civilian ship had spent more than three weeks surveying waters just outside the exclusive economic zones of India, the Maldives and Sri Lanka, the ship-tracking data showed.
+
+...
+
+[Data](articles/f7a24ad3.json)
+
+---
 
 ### The International Court should not demand the exclusion of Israeli soldiers from occupied Palestine - USA
 
@@ -2063,25 +2081,5 @@ The Ministry of Education has further stated that the process of enrolling stude
 [Data](articles/7af35d50.json)
 
 [Extended Data](ext_articles/7af35d50.ext.json)
-
----
-
-### CEB to submit electricity tariff reduction proposal to PUCSL today
-
-*2024-02-22 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97447/ceb-to-submit-electricity-tariff-reduction-proposal-to-pucsl-today) · `en`
-
-The proposal seeking to reduce electricity tariffs will be handed over to the Public Utilities Commission of Sri Lanka (PUCSL) during the course of the day, the Ceylon Electricity Board (CEB) says.
-
-Its spokesperson, Eng. Noel Priyantha said the state-owned electricity supplier intends to provide the benefits of the profits it earned to the consumers through this tariff revision.
-
-Power and Energy Minister Kanchana Wijesekera told the Parliament yesterday (Feb.22) that the CEB expects to reduce the rates by at least the same rates and percentages increased in October 2023.
-
-In October last year, the electricity tariffs were raised by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
-
-◼️
-
-[Data](articles/822ca0a9.json)
-
-[Extended Data](ext_articles/822ca0a9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 13:51:53**
+As of **2024-02-22 14:02:36**
 
 ## Newspaper Stats
 
-*Scraped **8,669** Articles*
+*Scraped **8,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 446
 islandlk | 451
 dailyftlk | 464
 adalk | 737
-adaderanalk | 1,042
+adaderanalk | 1,043
 tamilmirrorlk | 1,080
 virakesarilk | 1,164
 adaderanasinhalalk | 1,275
@@ -26,11 +26,31 @@ dailymirrorlk | 1,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,669 (100.0%) of 8,669 articles have been extended.
+8,670 (100.0%) of 8,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Vietnam to share digital agriculture expertise with Sri Lanka
+
+*2024-02-22 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97453/vietnam-to-share-digital-agriculture-expertise-with-sri-lanka) · `en`
+
+Vietnam’s Agriculture and Rural Development Minister, Minh Hoan Le called on Sri Lankan Prime Minister Dinesh Gunawardena at Temple Trees in Colombo on Wednesday (Feb.21).
+
+They have discussed close bilateral ties and ways and means of enhancing cooperation in many spheres, especially on rural development and social empowerment, according to the PM’s Office.
+
+Vietnamese Minister thanked Sri Lanka for the support extended during the Vietnamese liberation movement. He said Sri Lanka was one of the first countries to recognize Vietnam immediately after its independence and unification.
+
+PM Gunawardena congratulated Vietnam for the success of rapid economic development after gaining independence after a valiant freedom struggle. He praised the innovative methods adopted by Vietnam to successfully attract foreign investments and requested to share its experience with Sri Lanka for modernization of agriculture.
+
+...
+
+[Data](articles/59d019b1.json)
+
+[Extended Data](ext_articles/59d019b1.ext.json)
+
+---
 
 ### Presidential election will be held in due time - Wijeyadasa
 
@@ -2053,25 +2073,5 @@ It also allowed Sri Lanka to pay with tea, as the country was short of foreign c
 [Data](articles/b17876d8.json)
 
 [Extended Data](ext_articles/b17876d8.ext.json)
-
----
-
-### Sri Lanka target 210 runs
-
-*2024-02-21 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193674) · `si`
-
-The Afghan group scored 209 runs for the loss of 20 wickets in the final 20 overs.
-
-Gurbas scored 70 runs in a great brand.
-
-Hastuthulla Shadows 45 runs and gave him a good support.
-
-Matheyathirana took 2 wickets for 42 runs and Akila Dananjaya took two wickets for 37 runs.
-
-◼️
-
-[Data](articles/925dfc48.json)
-
-[Extended Data](ext_articles/925dfc48.ext.json)
 
 ---

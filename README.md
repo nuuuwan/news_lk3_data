@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 22:32:58**
+As of **2024-02-22 22:49:53**
 
 ## Newspaper Stats
 
-*Scraped **8,755** Articles*
+*Scraped **8,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 464
 adalk | 744
 adaderanalk | 1,053
 tamilmirrorlk | 1,090
-virakesarilk | 1,181
-adaderanasinhalalk | 1,292
+virakesarilk | 1,182
+adaderanasinhalalk | 1,293
 dailymirrorlk | 1,308
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,749 (99.9%) of 8,755 articles have been extended.
+8,757 (100.0%) of 8,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
+
+### Two arrested for misleading school children
+
+*2024-02-22 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193716) · `si`
+
+Police have found an electronic smoking device in Mawathagama.
+
+The OIC Chief Inspector of Mawathagama Police OIC Chief Inspector Nishantha Hettiarachchi has been investigated by the Chief Inspector Nishantha Hettiarachchi.
+
+The student had left the bag with the same device at the time of the student at the time of his traveling student every day.
+
+The police have been aware of the incident on suspicion of the home.
+
+The electrical extermination device has been found when examining the parcel.
+
+The school student who had come into police custody and information has been revealed in a normal dress for the completion of the school.
+
+The police inspected the shoppers on a businessman who was purchased from a businessman in Mawathagama.
+
+The suspect was revealed that the suspect was sold to the student for Rs. 6,500.
+
+The businessman later arrested was two more electronic smokers in the house of a friend in front of the school, according to the work of the business.
+
+...
+
+[Data](articles/1dfea6ef.json)
+
+[Extended Data](ext_articles/1dfea6ef.ext.json)
+
+---
 
 ### UK parliament descends into chaos over Gaza ceasefire vote
 
@@ -50,6 +80,20 @@ The speaker, Lindsay Hoyle, eventually apologised and said he had made his decis
 
 [Data](articles/2195bcc6.json)
 
+[Extended Data](ext_articles/2195bcc6.ext.json)
+
+---
+
+### Nanuoya - Radella road accident
+
+*2024-02-22 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177081) · `ta`
+
+◼️
+
+[Data](articles/0f37d9fe.json)
+
+[Extended Data](ext_articles/0f37d9fe.ext.json)
+
 ---
 
 ### Incumbent and former Health Minister walk on a single track: Dr. Bellana
@@ -68,21 +112,25 @@ Addressing the media, he said that when considering health issues, the incumbent
 
 [Data](articles/819a9891.json)
 
+[Extended Data](ext_articles/819a9891.ext.json)
+
 ---
 
-### நானுஓயா - ரதெல்ல வீதியில் பாரிய விபத்து
+### Nanuoya - Massive accident on Radella Road
 
 *2024-02-22 21:20:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-ரதெல்ல-வீதியில்-பாரிய-விபத்து/76-333685) · `ta`
 
-நானுஓயா ரதெல்ல குறுக்கு வழி வீதியில் இன்று மாலை பேருந்து ஒன்று கவிழ்ந்து விபத்துக்குள்ளானதில் காயமடைந்த 8 பேர் நுவரெலியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Eight people were admitted to the Nuwara Eliya Hospital when a bus crashed into a bus this evening on Nanuoya Radella Cross Road.
 
-மாத்தறை பிரதேசத்தில் இருந்து யாத்திரிகர்கள் குழுவை ஏற்றிச் சென்ற பேருந்தே இவ்வாறு விபத்துக்குள்ளாகியுள்ளது.
+The bus was carrying a group of pilgrims from Matara.
 
-விபத்தில் பேருந்துக்கு பலத்த சேதம் ஏற்பட்டுள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை நானுஓயா பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+Nanuoya police are conducting further investigations into the incident.. Remble
 
 ◼️
 
 [Data](articles/8f0d45dc.json)
+
+[Extended Data](ext_articles/8f0d45dc.ext.json)
 
 ---
 
@@ -95,6 +143,8 @@ The 100th commemoration of U.W. Sumathipala, founder of the Sumathi Group of Com
 ◼️
 
 [Data](articles/2ff96d63.json)
+
+[Extended Data](ext_articles/2ff96d63.ext.json)
 
 ---
 
@@ -116,17 +166,7 @@ The bus had tipped over since the driver could not control it. The Nanu Oya Poli
 
 [Data](articles/ce92b98b.json)
 
----
-
-### Nanuoya - Radella road accident
-
-*2024-02-22 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177081) · `ta`
-
-◼️
-
-[Data](articles/0f37d9fe.json)
-
-[Extended Data](ext_articles/0f37d9fe.ext.json)
+[Extended Data](ext_articles/ce92b98b.ext.json)
 
 ---
 
@@ -169,6 +209,8 @@ They said that various requests were also received from government officials in 
 ...
 
 [Data](articles/ee7b8355.json)
+
+[Extended Data](ext_articles/ee7b8355.ext.json)
 
 ---
 
@@ -887,6 +929,28 @@ These are, namely: Jagath Pushpakumara, Janaka Wakkumbura, Lohan Ratwatte,  Ind
 [Data](articles/d62a5cf0.json)
 
 [Extended Data](ext_articles/d62a5cf0.ext.json)
+
+---
+
+### Galle Face
+
+*2024-02-22 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177041) · `ta`
+
+National People's Power Member Vijitha Herath has falsely falsely that the government has decided to provide the Galle Face Field 'land field' for the Cassino gambling measures.
+
+Prasanna Ranatunga, the Prime Minister and Minister of the ruling party, said that the opposition parties are trying to make a wrong position among the people to prevent investors to the country.
+
+He was speaking at a special statement during a session held in Parliament on Thursday (22).
+
+Speaking in Parliament on Tuesday (20th), Parliamentarian Vijitha Herath stated that the Urban Development Authority has taken steps to provide the landscape in the Galle Face to the Kasino gambling and that the Visumbaye building is issued to foreign investors.
+
+At the Cabinet meeting held on 2022.11.14 to get more foreign investment, the land belonging to the Urban Development Authority was granted permission to the foreign investors on a long lease.
+
+...
+
+[Data](articles/340b3d3d.json)
+
+[Extended Data](ext_articles/340b3d3d.ext.json)
 
 ---
 
@@ -2023,45 +2087,5 @@ He said that all preparations have been completed to issue the new National Iden
 [Data](articles/b76f9885.json)
 
 [Extended Data](ext_articles/b76f9885.ext.json)
-
----
-
-### Medical fraternity urges health authorities to be on alert
-
-*2024-02-22 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Medical-fraternity-urges-health-authorities-to-be-on-alert/155-277552) · `en`
-
-Colombo, Feb 22 (Daily Mirror) -  In light of recent findings suggesting potential rare occurrences of heart, brain, and blood disorders linked to certain Covid-19 vaccines, medical professionals in Sri Lanka urge the health authorities to remain vigilant on the development.
-
-The study in question, conducted by researchers from the Global Vaccine Data Network, a research arm of the World Health Organization (WHO), unearthed Covid vaccines from companies like Pfizer, Moderna and AstraZeneca were linked to rare occurrences of heart, brain and blood disorders.
-
-It targeted population of 99 million vaccinated individuals across eight countries. This study is said to be the largest Covid vaccine study to date.
-
-Speaking to Daily Mirror, Government Medical Officers' Association (GMOA) Media Spokesman Dr. Chamil Wijesinghe said it is better that Sri Lank goes on alert given the gravity of the findings of the study.
-
-...
-
-[Data](articles/3b8df587.json)
-
-[Extended Data](ext_articles/3b8df587.ext.json)
-
----
-
-### Medical fraternity urges health authorities to go on alert
-
-*2024-02-22 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Medical-fraternity-urges-health-authorities-to-go-on-alert/155-277552) · `en`
-
-Colombo, Feb 22 (Daily Mirror) -  In light of recent findings suggesting potential rare occurrences of heart, brain, and blood disorders linked to certain Covid-19 vaccines, medical professionals in Sri Lanka urge the health authorities to remain vigilant on the development.
-
-The study in question, conducted by researchers from the Global Vaccine Data Network, a research arm of the World Health Organization (WHO), unearthed Covid vaccines from companies like Pfizer, Moderna and AstraZeneca were linked to rare occurrences of heart, brain and blood disorders.
-
-It targeted population of 99 million vaccinated individuals across eight countries. This study is said to be the largest Covid vaccine study to date.
-
-Speaking to Daily Mirror, Government Medical Officers' Association (GMOA) Media Spokesman Dr. Chamil Wijesinghe said it is better that Sri Lank goes on alert given the gravity of the findings of the study.
-
-...
-
-[Data](articles/4119a3c4.json)
-
-[Extended Data](ext_articles/4119a3c4.ext.json)
 
 ---

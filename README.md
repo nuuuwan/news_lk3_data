@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 07:42:09**
+As of **2024-02-22 07:30:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,601 (100.0%) of 8,602 articles have been extended.
+8,593 (99.9%) of 8,602 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,23 +90,21 @@ There have been many changes in the country since 2020. The government of Ranil 
 
 ---
 
-### High heat: alert people
+### அதிக வெப்பம்: மக்களுக்கு எச்சரிக்கை
 
 *2024-02-22 01:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்பம்-மக்களுக்கு-எச்சரிக்கை/175-333633) · `ta`
 
-A warning has been issued in the North Western Province and some districts.
+வடமேல் மாகாணத்திலும் சில மாவட்டங்களிலும் அதிக வெப்பம் நிலவும் என எச்சரிக்கை அறிவித்தல் பிறப்பிக்கப்பட்டுள்ளது.
 
-The warning has been issued to the North Western Province and Gampaha, Colombo, Hambantota and Moneragala districts.
+வடமேல் மாகாணம் மற்றும் கம்பஹா, கொழும்பு, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களுக்கு இந்த எச்சரிக்கை அறிவித்தல் பிறப்பிக்கப்பட்டுள்ளது.
 
-The Department of Meteorology has said that the heat that is felt in the human body is expected to continue at the level of observation.
+சில இடங்களில் மனித உடலில் உணரப்படும் வெப்பம் அவதான மட்டத்தில் தொடரும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
 
-The Department of Meteorology has instructed to adopt adequate water, not engaging in excessive fatigue, wearing white or pale clothes, and staying in shadowy places.. (A)
+போதுமான தண்ணீர் அருந்துதல், அதிக சோர்வை ஏற்படுத்தும் செயற்பாடுகளில் ஈடுபடாதிருத்தல், வெள்ளை அல்லது வெளிர் நிற ஆடைகளை அணிதல், நிழலான இடங்களில் தங்கியிருத்தல் என்பனவற்றை பின்பற்றுமாறு வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. (a)
 
 ◼️
 
 [Data](articles/10af6193.json)
-
-[Extended Data](ext_articles/10af6193.ext.json)
 
 ---
 
@@ -481,8 +479,6 @@ Both indices moved upwards. The All Share Price Index went up by 11.2 points and
 ...
 
 [Data](articles/3c148302.json)
-
-[Extended Data](ext_articles/3c148302.ext.json)
 
 ---
 

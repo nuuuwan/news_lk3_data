@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 04:17:19**
+As of **2024-02-23 04:33:16**
 
 ## Newspaper Stats
 
-*Scraped **8,798** Articles*
+*Scraped **8,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 458
 dailyftlk | 483
 adalk | 744
 adaderanalk | 1,054
-tamilmirrorlk | 1,090
-virakesarilk | 1,188
+tamilmirrorlk | 1,091
+virakesarilk | 1,190
 adaderanasinhalalk | 1,294
 dailymirrorlk | 1,316
 
@@ -26,11 +26,75 @@ dailymirrorlk | 1,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,798 (100.0%) of 8,798 articles have been extended.
+8,798 (100.0%) of 8,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### தமிழக மீனவர்கள் நிபந்தனையுடன் விடுதலை
+
+*2024-02-23 03:47:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-நிபந்தனையுடன்-விடுதலை/175-333698) · `ta`
+
+எல்லை தாண்டி மீன் பிடியில் ஈடுபட்டமைக்காக இம்மாதம் 8 ஆம் திகதி கைது செய்யப்பட்ட 18 தமிழக மீனவர்கள் விடுதலை செய்யப்பட்டுள்ளனர்.
+
+மீனவர்கள் பயணித்த படகொன்று அரசுடைமையாக்கப்பட்டுள்ளது.  படகோட்டி ஒருவருக்கு 6 மாத சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+
+நெடுந்தீவு கடற்பரப்பில் இரண்டு படகுகளுடன் எல்லை தாண்டி மீன்பிடித்துக்கொண்டிருந்த போது 19 தமிழக மீனவர்களும் கடற்படையினரால் கைது செய்யப்பட்டிருந்தனர்.
+
+கடற்படையினரால் ஒப்படைக்கப்பட்ட தமிழக மீனவர்களை யாழ். மாவட்ட கடற்றொழில் நீரியல் வளத்துறை திணைக்கள அதிகாரிகள் ஊர்காவற்றுறை நீதிமன்றத்தில் ஆஜர்ப்படுத்தினர்.
+
+இந்த வழக்கு நேற்று ஊற்காவற்றுறை நீதவான் ஜே .கஜநிதிபாலன் முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது, தமிழக மீனவர்கள் 19 பேருக்கு எதிராக குற்றப்பத்திரம் தாக்கல் செய்யப்பட்டது.
+
+ஒரு படகின் உரிமையாளர் குற்றம் இடம்பெற்ற போது படகில் இருந்தமையால், அந்த படகை அரசுடைமையாக்கி நீதவான் உத்தரவிட்டார். மற்றைய படகின் படகோட்டி ஜி.பி.எஸ். கருவியை பாவித்தும் எல்லை தாண்டியமையால், அவருக்கு 6 மாதங்கள் சிறைத்தண்டணை விதித்து நீதவான் உத்தரவு பிறப்பித்தார்.
+
+...
+
+[Data](articles/deb5aad4.json)
+
+---
+
+### நீர்கொழும்பு பிடிபன இறங்குதுறை: பேராயரும் மீனவர்களும் முரண்படுவது ஏன்?
+
+*2024-02-23 02:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177088) · `ta`
+
+ஆறு தசாப்தங்களுக்கு மேலாக பயன்பாட்டில் இருந்து வரும் நீர்கொழும்பில் உள்ள மீன்பிடி இறங்குதுறையின் உரிமம் தொடர்பில் மீனவர் சங்கத்திற்கும் இலங்கை கத்தோலிக்க திருச்சபைக்கும் இடையில் முரண்பாடுகள் தோன்றியுள்ளன.
+
+நீர்கொழும்பு - பிட்டிபன இறங்குதுறையின் நிர்வாகத்தை தங்களுக்கு வழங்குமாறு கோரி கொழும்பில் உள்ள பேராயர் இல்லத்திற்கு முன்பாக இந்த வார ஆரம்பத்தில் (பெப்ரவரி 19) ஆர்ப்பாட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+
+2008ஆம் ஆண்டு தாக்கல் செய்யப்பட்ட இறங்குதுறையின் நிர்வாக உரிமை தொடர்பான வழக்கில் நீர்கொழும்பு மாவட்ட நீதிமன்றம் இடைக்கால தடையுத்தரவு ஒன்றை பிறப்பித்துள்ள நிலையில் இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+
+இந்த வழக்கு இன்னும் நீதிமன்றத்தில் நிலுவையில் உள்ள நிலையில் நீண்ட விசாரணையின் பின்னர் நீர்கொழும்பு மாவட்ட நீதிமன்றம் இடைக்கால உத்தரவை பிறப்பித்துள்ளது.
+
+கொழும்பில் உள்ள புனித பாப்பரசரின் பிரதிநிதிகளிடம் மீனவர்கள் தமது பிரச்சினைகள் அடங்கிய மகஜர் ஒன்றையும் கையளித்ததோடு, பேராயர் இல்லத்திற் முன்பாக ஆர்ப்பாட்டத்திலும் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/da3fc4db.json)
+
+---
+
+### பொறியியல் துறை மற்றும் நிர்மாணத்துறைகளில் அனர்த்த முகாமைத்துவம் தொடர்பில் அதிக கவனம் செலுத்தப்பட வேண்டும் - வடக்குமாகாண ஆளுநர்
+
+*2024-02-23 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177087) · `ta`
+
+பொறியியல் துறை மற்றும் நிர்மாணத்துறைகளில்  அனர்த்த முகாமைத்துவம் தொடர்பில் அதிக கவனம் செலுத்தப்பட வேண்டும் என வடக்குமாகாண ஆளுநர் பி.எஸ்.எம் சார்ள்ஸ் அறிவுறுத்தியுள்ளார்.
+
+இலங்கை தொழில்நுட்பவியல் சேவையாளர் சங்கத்தின் வட பிராந்திய சங்கத்தினரால் நடாத்தப்பட்ட "தொழில்நுட்ப வழிகாட்டி" நூல் வெளியீட்டு விழா, வடமாகாண பிரதம செயலாளர் செயலகத்தின் கேட்போர் கூடத்தில் வியாழக்கிழமை (22) நடைபெற்றது.
+
+இந்நிகழ்வின் பிரதம விருந்தினராக வடக்கு மாகாண  கெளரவ ஆளுநர் பி.எஸ்.எம் சார்ள்ஸ் அவர்களும், விஷேட விருந்தினராக மாகாண பிரதம செயலாளர் எஸ்.எம் சமன்  பந்துலசேன அவர்களும் கலந்து சிறப்பித்தனர் .
+
+நூல்வெளியீட்டின் முதற்பிரதியை வடக்கு மாகாண  கெளரவ ஆளுநர், பிரதம செயலாளருக்கு வழங்கி சிறப்புரை ஆற்றினார்.
+
+பொறியியல் மற்றும் கட்டுமான துறைகளில் திட்டமிடல் என்பது மிக முக்கியமான ஒரு விடயமாகும்.
+
+உரிய திட்டமிடல் காணப்படாததன் காரணமாக பல்வேறு  சவால்களை எதிர்நோக்க வேண்டியுள்ளது. காணி உரிமை தொடர்பில் உறுதிப்பாட்டை பெற்றுக் கொள்ளாமை மிகப் பிரதான சிக்கலாக காணப்படுகிறது.
+
+...
+
+[Data](articles/260cdb07.json)
+
+---
 
 ### Adhering to safety rules...
 
@@ -1945,57 +2009,5 @@ He said Nishantha's wife had complained to the CID as she deemed her husbands de
 [Data](articles/118d0644.json)
 
 [Extended Data](ext_articles/118d0644.ext.json)
-
----
-
-### Asia-Pacific countries unite for an agrifood systems transformation to ensure food security of future generations
-
-*2024-02-22 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97456/asia-pacific-countries-unite-for-an-agrifood-systems-transformation-to-ensure-food-security-of-future-generations) · `en`
-
-Forty countries from the Asia and Pacific region today agreed that transforming agrifood systems was imperative to providing food security for their children’s generation and beyond, the Food and Agriculture Organization of the United Nations (FAO) reported today.
-
-The summation was delivered at today’s close of the 37th Session of the FAO Regional Conference for Asia and the Pacific (APRC37) in Colombo. The conference was hosted by the Government of Sri Lanka.
-
-Forty countries of Asia and the Pacific attended the APRC, with the vast majority attending in-person, including some 20 government Ministers.
-
-It was the first time since 2018 that a large in-person gathering of the region’s food and agriculture Ministers and other policymakers was convened by FAO, and is seen as emblematic of the attention needed to recover from the pandemic and disruptions caused to food production and distribution that has plagued many countries in the region ever since.
-
-...
-
-[Data](articles/efe486db.json)
-
-[Extended Data](ext_articles/efe486db.ext.json)
-
----
-
-### 'Architect 2024': 42nd annual session
-
-*2024-02-22 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Architect-2024-42nd-annual-session/110-277559) · `en`
-
-The inauguration ceremony of the 42nd annual session of ‘Architect 2024’ of the Sri Lanka Institute of Architects (SLIA) was held today at the BMICH. The ceremony will include the formal induction of newly elected Chartered Architects for 2023, the presentation of SLIA Design Awards, Colour Awards, Research Awards and Product Awards for 2024. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/f33a1816.json)
-
-[Extended Data](ext_articles/f33a1816.ext.json)
-
----
-
-### University student dies
-
-*2024-02-22 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193703) · `si`
-
-A student of the 22-year-old Ramesh Sagandan, who was studying in the University of Jaffna, has been identified.
-
-The accident had occurred as he was traveling to the motorcycle while he was traveling from the motorcycle to Niweli yesterday (21).
-
-The student who was seriously injured, died while receiving treatment at the Jaffna Hospital.
-
-◼️
-
-[Data](articles/755742c7.json)
-
-[Extended Data](ext_articles/755742c7.ext.json)
 
 ---

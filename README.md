@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-22 08:02:29**
+As of **2024-02-22 08:17:33**
 
 ## Newspaper Stats
 
-*Scraped **8,607** Articles*
+*Scraped **8,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 442
 islandlk | 451
 dailyftlk | 464
 adalk | 735
-adaderanalk | 1,035
+adaderanalk | 1,036
 tamilmirrorlk | 1,068
 virakesarilk | 1,154
 adaderanasinhalalk | 1,261
@@ -26,89 +26,119 @@ dailymirrorlk | 1,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,602 (99.9%) of 8,607 articles have been extended.
+8,607 (100.0%) of 8,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-22 (Thursday)
 
-### මිනිස් සිරුරට අහිතකර රූපලාවන්‍ය ආලේපන වටලයි
+### Sri Lanka nabs oil polluting tanker using satellite surveillance - report
+
+*2024-02-22 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97446/sri-lanka-nabs-oil-polluting-tanker-using-satellite-surveillance-report) · `en`
+
+The Marine Environment Protection Authority of Sri Lanka is touting its success at nabbing an “unauthorized oil release” as part of a sophisticated new satellite surveillance system it began testing with support from France.
+
+According to the statement released by the authority on social media, it was the first successful case although they have already had more than 100 detection reports from the system.
+
+The Global Crest, a 12,900 dwt crude oil tanker registered in Panama was in Sri Lanka’s anchorage on February 3. The vessel was repositioning to the anchorage near Colombo when on February 4 the initiative funded by the French government detected a large oil slick.
+
+The MEPA reports the stain was confirmed in satellite images nearly seven miles in length and spread over one square kilometer (0.3 sq. miles).
+
+...
+
+[Data](articles/1dc8c2e2.json)
+
+---
+
+### Amount of beauty cosmetics raided
 
 *2024-02-22 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193683) · `si`
 
-මිනිස් සිරුරට ප්‍රබල හානි කරන තත්ත්වයක් ඇති රසායනික සංයෝග අඩංගු රූපලාවන්‍ය ආලේපන තොගයක් වටලා තිබේ.
+A stock of beauty cosmetics containing chemical compounds, which are severely damaged, has been raided.
 
-පොලීසිය සඳහන් කළේ රූපලාවන්‍ය කටයුතු සඳහා භාවිත කරන එම ආලේපන අලෙවි කළ වෙළෙඳසැල් 04ක් එලෙස වැටලූ බවය.
+Police said that four selling stores of coatings used for beauty purposes fell.
 
-අදාළ වෙළෙඳසැල් හිමිකරුවන් අත්අඩංගුවට ගෙන ඇති අතර මිනිස් සිරුරට අහිතකර ආලේපන වර්ග 1143ක් විමර්ශන නිලධාරීන් භාරයට ගෙන ඇත.
+The owners of the respective shop owners have been arrested and the Investigations have been seized by 1143 cosmetics.
 
-මෙම වැටලීම ඊයේ (21) දහවල් පිටකොටුව දෙවන හරස්වීදියේ සිදුකර තිබුණේ වලාන දූෂණ මර්ධන ප්‍රහාරක ඒකකය විසිනි.
+The raid was carried out yesterday afternoon by the Walana Corruption Assistance Unit yesterday.
 
-අත්අඩංගුවට ගෙන ඇති සැකකරුවන් 22,25,45,52 යන වයස්වල පසුවන කළගෙඩිහේන, මොරටුව, වත්තල ප්‍රදේශවල පදිංචිකරුවන්ය.
+Residents of Kalagedihena, Moratuwa, Wattala, who have been arrested in the age group of 22,25,45,52.
 
 ◼️
 
 [Data](articles/efcd8c9e.json)
 
+[Extended Data](ext_articles/efcd8c9e.ext.json)
+
 ---
 
-### විදුලි ගාස්තු සංශෝධන යෝජනාව අද ලංවිමට
+### Electricity tariff resolution today
 
 *2024-02-22 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193682) · `si`
 
-විදුලි ගාස්තු සංශෝධනය කිරීමට අදාළ යෝජනාව අද (22) දින මහජන උපයෝගිතා කොමිසම වෙත භාරදීමට කටයුතු කරන බව ලංකා විදුලිබල මණ්ඩලය පවසයි.
+The Ceylon Electricity Board (CEB) says that the proposal to revise the electricity tariffs will be handed over to the Public Utilities Commission today (22).
 
-විදුලිබල මණ්ඩලය උපයා ඇති ලාභය පාරිභෝගික ජනතාවට ලබාදීමේ අරමුණින් අදාළ යෝජනා ඉදිරිපත් කරන බව එහි මාධ්‍ය ප්‍රකාශක ඉංජිනේරු නොයෙල් ප්‍රියන්ත මහතා පැවසීය.
+According to the Engineer Priyantha said that the proposals will be submitted to the consumers with the objective of providing profits to the people.
 
-පසුගිය වසරේ ඔක්තෝම්බර් මාසයේ දී සිදු කෙරුණු විදුලි ගාස්තු සංශෝධනයෙන් වැඩි කරන ලද මුදල මෙම නව ගාස්තු සංශෝධනයේ දී සම්පුර්ණයෙන්ම ඉවත් කිරිමට කටයුතු කරන බවට විදුලිබල මණ්ඩලය දැනුම් දී ඇති බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා ඊයේ (21) පාර්ලිමේන්තුවේ දී ප්‍රකාශ ක‍ළේ ය.
+The Ceylon Electricity Board Kanchana Wijesekara has stated that the Ceylon Electricity Board Kanchana Wijesekara has stated that the Ceylon Electricity Board (CEB) has been instructed to completely remove the new fees last year.
 
 ◼️
 
 [Data](articles/723b92ba.json)
 
+[Extended Data](ext_articles/723b92ba.ext.json)
+
 ---
 
-### නිපන්දුවක් ද නැද්ද? වනිඳු කට අරියි
+### N'T N'T N'T N'T CONSTRUCTION?Bringing funds
 
 *2024-02-22 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193681) · `si`
 
-ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්ථානය අතර පැවති තෙවැනි 20යි 20 තරගය ලකුණු 03කින් ජය ගැනීමට ඇෆ්ගනිස්ථාන කණ්ඩායම ඊයේ (21) සමත් විය.
+The Afghan group won the third match between Sri Lanka and Afghanistan by 3 runs.
 
-කෙසේ වෙතත් දෙරට අතර පැවති 20යි 20 තරගාවලිය දෙකට එකක් ලෙස ජය ගනු ලැබුවේ ශ්‍රී ලංකා කණ්ඩායමයි.
+However, Sri Lanka won the 20th tournament between the two countries.
 
-ඊයේ තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් ඇෆ්ගනිස්ථාන කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 209ක් ලබාගත්තේ ය.
+The Afghan group scored 209 runs for the loss of 5 wickets at the end of the end of 20 overs.
 
-ඇෆ්ගනිස්ථාන ඉනිම වෙනුවෙන් රහමනුල්ලා ගුර්බාස් ලකුණු 70ක් සහ හසරතුල්ලා සසායි ලකුණු 45ක් ලබා ගැනීමට සමත් විය.
+Kurbas scored 70 runs and the Harakulla Sazai, 70 runs in the innings of Afghanistan.
 
-පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 06ක් දැවී ලකුණු 206ක් ලබාගත්තේ ය.
+Sri Lanka scored 206 runs for the loss of 6 wickets at the end of the first 20 overs.
 
-ශ්‍රි ලංකා ඉනිම වෙනුවෙන් පැතුම් නිස්සංක ලකුණු 60ක් සහ කමිඳු මෙන්ඩිස් නොදැවී ලකුණු 65ක් ලබා ගැනීමට සමත් විය.
+Due to 19 runs and Kamindu Mendis scored 65 runs for the loss of Sri Lanka.
 
-මෙම තරගයේ අවසන් පන්දු වාරයේ සිව් වැනි පන්දුව සම්බන්ධයෙන් තරග විනිසුරුවරයා විසින් ලබාදුන් තීන්දුව පිළිබඳ ශ්‍රී ලංකා කණ්ඩායමේ නායක වනිදු හසරංග තරගයෙන් පසු පැවති මාධ්‍ය හමුවක දී අදහස් පළ කළේ ය.
+The Sri Lanka team told a media briefing regarding the fourth ball in the final will commented on the judge's decision.
 
-අන්තර්ජාතික තරගයක දී මෙවැනි විනිසුරු තීරණයන් බලාපොරොත්තු විය නොහැකි බව ඔහු සඳහන් කළේ ය.
+He said such judges could not be expected in an international competition.
+
+Leader Mountma Hasaranga said that if the ball was rise, the ball would not be in the head of the batsman and that the judge would not be incompatible with the international judge.
+
+He also emphasized that the judge is to choose another job.
 
 ...
 
 [Data](articles/7496efac.json)
 
+[Extended Data](ext_articles/7496efac.ext.json)
+
 ---
 
-### අද කාලගුණය
+### Weather today
 
 *2024-02-22 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193679) · `si`
 
-අද (22) දිනයේ දකුණු පළාතේ සහ රත්නපුර දිස්ත්‍රික්කයේ වැසි වාර ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Southern Province, the Southern Province and in the Southern Province can occur today (22).
 
-එම දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙන්නේ අද සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී එම වැසි ඇතිවිය හැකි බවය.
+The latest announcement issued by the Department appeared in the evening or night during the evening.
 
-ඒ හැරුණුකොට දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+In addition, there are mainly rainy weather in the rest of the island.
 
-බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරෙයි.
+In some places in the Western and Sabaragamuwa provinces, some places are expected to be found.
 
 ◼️
 
 [Data](articles/616d99ef.json)
+
+[Extended Data](ext_articles/616d99ef.ext.json)
 
 ---
 
@@ -170,21 +200,23 @@ There have been many changes in the country since 2020. The government of Ranil 
 
 ---
 
-### ’அனைவரும் ஒன்றுபட்டால் நாட்டை அபிவிருத்தி செய்யலாம்’
+### If everyone is united, the country can be developed
 
 *2024-02-22 02:12:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைவரும்-ஒன்றுபட்டால்-நாட்டை-அபிவிருத்தி-செய்யலாம்/175-333634) · `ta`
 
-அனைவரும் இலங்கையர்களாக ஒன்றுபட்டால் நாட்டை துரித அபிவிருத்திக்கு இட்டுச் செல்ல முடியும். அதனால் எதிர்கால சந்ததியினருக்கு மிகவும் பாதுகாப்பான நாட்டை கட்டியெழுப்ப முடியும் என்று  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+If everyone is united as Sri Lankans, the country can lead to rapid development. President Ranil Wickremesinghe said that the future generation can build a safe country.
 
-திருகோணமலை கோணேஷ்வரா இந்து கல்லூரி மைதானத்தில் ஏற்பாடு செய்யப்பட்டிருந்த 10 ஆவது தேசிய சாரணர் ஜம்போரியை நேற்று ஆரம்பித்து வைத்து ஆற்றிய உரையிலேயே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் உரையாற்றுகையில்,
+In a speech by the President inaugurating the 10th National Scout Jambori held at the Goneshwara Hindu College grounds in Trincomalee yesterday. When he further addresses,
 
-"  சாரணர்கள் மட்டுமின்றி அனைவரும் நாட்டுக்காக தமது பொறுப்பை செய்ய வேண்டும். நம் அனைவரும் அதனை நிறைவேற்றுகிறோமா என்ற கேள்வி எம்முன் இருக்கிறது. அதை அரசில்வாதிகள் நிறைவேற்றுவார்களா என்பதுதான் பிரச்சினை. இரண்டு ஆண்டுகளுக்கு முன்பு நாங்கள் அனைவரும் கஷ்டங்களை எதிர்கொண்டோம்.
+"Not only scouts but everyone should do their responsibility for the country. The question is whether we all accomplish it. The problem is whether it will be fulfilled by the state. Two years ago we all faced hardship.
 
-நாட்டை வங்குரோத்து நிலையில் இருந்து மீட்ட பிறகு, அடுத்த தலைமுறைக்கு இதனை விட சிறந்த நாட்டை உருவாக்குவது தான் நம் அனைவரினதும் கடமை. இந்த நிலை மீண்டும் ஏற்படாத வகையில் நாடு கட்டியெழுப்பப்பட வேண்டும். அரசியல்வாதிகள் அதற்கு இன்னும் தயாராக இருக்கிறார்களா என்ற கேள்வி நம்முன் இருக்கிறது.
+It is the duty of all of us to create a better country for the next generation after recovering the country from bankruptcy. The country must be built so that this condition does not occur again. The question is whether politicians are still ready for it.
 
 ...
 
 [Data](articles/985513e0.json)
+
+[Extended Data](ext_articles/985513e0.ext.json)
 
 ---
 
@@ -2081,21 +2113,5 @@ The driver of the lorry was taken into custody pending further investigations.
 [Data](articles/395d9fec.json)
 
 [Extended Data](ext_articles/395d9fec.ext.json)
-
----
-
-### Hollywood star Jason Momoa congratulates Sri Lanka
-
-*2024-02-21 15:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hollywood-star-Jason-Momoa-congratulates-Sri-Lanka/108-277490) · `en`
-
-Feb 21- Hollywood star Jason Momoa, best known for his role in the movie Aquaman, congratulated Sri Lanka after the island was declared a UN World Restoration Flagship, in recognition of its vital efforts to rebuild and restore the mangrove ecosystems.
-
-In a UN video, Jason Momoa said Sri Lanka was an example on working together to make positive change.
-
-◼️
-
-[Data](articles/639853e3.json)
-
-[Extended Data](ext_articles/639853e3.ext.json)
 
 ---

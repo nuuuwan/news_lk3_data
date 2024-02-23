@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 13:17:33**
+As of **2024-02-23 13:33:28**
 
 ## Newspaper Stats
 
-*Scraped **8,877** Articles*
+*Scraped **8,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,82 @@ adalk | 749
 adaderanalk | 1,061
 tamilmirrorlk | 1,100
 virakesarilk | 1,201
-adaderanasinhalalk | 1,309
+adaderanasinhalalk | 1,310
 dailymirrorlk | 1,329
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,870 (99.9%) of 8,877 articles have been extended.
+8,877 (100.0%) of 8,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### 3 கோடி முட்டைகளை  இறக்குமதி செய்ய அனுமதி
+### පෞද්ගලික සමාගමක් සඳ ජය ගනී
+
+*2024-02-23 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193733) · `si`
+
+සඳේ දක්ෂිණ ධ්‍රැවය වෙත සාර්ථකව යානයක් ගොඩ බැස්සවීමට අමෙරිකාවේ පෞද්ගලික සමාගමක් සමත් වී තිබේ.
+
+මෙය පෞද්ගලික සමාගමක් සඳ වෙත යානයක් ගොඩ බැස්සවූ පළමු අවස්ථාව වන අතරම 1972න් පසු එනම් වසර 52කින් පසු අමෙරිකාව සඳ වෙත යානයක් ගොඩ බැස්සවූ පළමු අවස්ථාව වීම ද විශේෂත්වයකි.
+
+අමෙරිකාවේ හූස්ටන් පාදක කරගෙන ක්‍රියාත්මක ඉන්ටූටිව් මැෂීන්ස් පෞද්ගලික සමාගම සිය ප්‍රථම සඳ තරණ මෙහෙයුම ආරම්භ කළේ පසුගිය සතියේ දී ය.
+
+ඒ යටතේ පසුගිය 15 වනදා සඳ වෙත යැවූ ඔඩිසියස් යානය කැනවරල් තුඩුවෙන් අභ්‍යාවකාශ ගත කෙරුණි.
+
+ඔඩිසියස් යානය අද (23) සාර්ථකව සඳේ දක්ෂිණ ධ්‍රැවයට ගොඩ බැස්සවීමට ඉන්ටූටිව් මැෂීන්ස් පෞද්ගලික සමාගම සමත් විය.
+
+සඳේ දූවිලි අංශුවල හැසිරීම ඇතුළු ශිත ජලය ඇති බවට විශ්වාස කෙරෙන සඳේ දක්ෂිණ ධ්‍රැවය පිළිබඳ පර්යේෂණ කිරීම ඉන්ටූටිව් මැෂීන්ස් සමාගමේ අරමුණ වේ.
+
+ඒ අනුව, කිලෝමීටර 5ක උසකින් යුතු කඳුකර ස්ථානයක් ආසන්නේ මැලපර්ට් ලෙසින් හඳුන්වන ආවාට සහිත භූමියකට යානය ගොඩබස්සවා ඇත.
+
+ඒ, අභ්‍යාවකාශ යානයක් සඳෙහි දකුණු කෙලවර වෙත ගිය වැඩිම දුර සනිටුහන් කරමිනි.
+
+...
+
+[Data](articles/20bdbb89.json)
+
+---
+
+### Allow 3 crore eggs to be imported
 
 *2024-02-23 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177115) · `ta`
 
-பண்டிகைக் காலத்திற்காக இந்தியாவில் இருந்து மேலும் 3 கோடி முட்டைகளை இறக்குமதி செய்ய அனுமதி வழங்கப்பட்டுள்ளது.
+The import of another 3 crore eggs from India has been allowed for the festive season.
 
-ஜனவரி மற்றும் ஏப்ரல் மாதங்களுக்கு இடையில் 6 கோடி முட்டைகளை இறக்குமதி செய்வதற்கு அண்மையில் அனுமதி வழங்கப்பட்டதாக வர்த்தகம், வாணிப மற்றும் உணவுப் பாதுகாப்பு அமைச்சின் செயலாளர் தெரிவித்தார்.
+The Secretary of the Ministry of Commerce, Commerce and Food Defense said that the import of 6 crore eggs was recently allowed between January and April.
 
-அதன்படி 9 கோடி முட்டைகள் இறக்குமதி செய்யப்பட உள்ளதாக செயலாளர் மேலும் தெரிவித்தார்.
+Accordingly, 9 crore eggs are to be imported, the secretary added.
 
 ◼️
 
 [Data](articles/61ca5a2b.json)
 
+[Extended Data](ext_articles/61ca5a2b.ext.json)
+
 ---
 
-### நாட்டில் 40,000க்கும் மேற்பட்ட போலி வைத்தியர்கள் - அரச வைத்திய அதிகாரிகள் சங்கம்
+### More than 40,000 fake doctors in the country - State Medical Officers Association
 
 *2024-02-23 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177110) · `ta`
 
-நடளாவிய ரீதியில் 40,000 க்கும் அதிகமான போலி வைத்தியர்கள் உள்ளதாக  அரச வைத்திய அதிகாரிகள் சங்கம் (GMOA) தெரிவித்துள்ளது.
+The State Medical Officers Association (GMOA) said that there are more than 40,000 fake doctors in the middle of the country.
 
-இவ்வாறான வைத்தியர்கள் ஆபத்தான நிலையில் நோயாளிகளுக்கு சிகிச்சையளிப்பது தொடர்பில் முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாக அரச வைத்திய அதிகாரிகள் சங்க பேச்சாளர் வைத்தியர் சமில் விஜேசிங்க தெரிவித்துள்ளார்.
+State Medical Officers Association spokesman Dr. Samil Wijesinghe said that complaints have been received regarding the treatment of patients in dangerous conditions.
 
-வைத்திய உதவியாளர்கள், தாதியர்கள் அல்லது துணை வைத்திய சேவைகளில் அங்கம் வகிக்கும் ஒருவர்  வைத்தியர் போன்று அடையாளப்படுத்தி அவர்கள் இருக்கும் கிராமத்திலோ அல்லது சொந்த ஊரிலோ நோயாளிகளுக்கு சிகிச்சையளிப்பது கண்டறியப்பட்டுள்ளது
+Medical assistants, nurses or a member of the sub -medical services have been identified as a doctor and treating patients in the village or hometown where they are present.
 
-இந்நிலையில், இலங்கையின் சுகாதார அமைப்பிற்குள், ஒரு நோயாளிக்கு மருந்துகளை பரிந்துரைக்கும் திறனும், பொறுப்பும் மற்றும் அதிகாரமும் ஒரு வைத்தியருக்கு மட்டுமே உண்டு. அவ்வாறு செய்யக்கூடிய திறனோ அல்லது அதிகாரமோ  வேறு யாருக்கும்  இல்லை,
+In this case, within the Sri Lankan health organization, only one doctor has the ability, responsibility and authority to prescribe medication for a patient. No one else has the ability or authority to do so,
 
-நோயாளிக்கு  வைத்தியர் ஒருவரால்  பரிந்துரைக்கப்பட்ட மருந்து அல்லது ஆய்வக சோதனைக்கு மட்டுமே உட்படுத்த முடியும் என தெரிவித்துள்ளார்.
+He said that the patient could only undergo a prescribed drug or laboratory test.
 
 ◼️
 
 [Data](articles/87206586.json)
+
+[Extended Data](ext_articles/87206586.ext.json)
 
 ---
 
@@ -172,6 +202,8 @@ This initiative ensures that Sri Lankan High-Performance athletes to receive all
 
 [Data](articles/9c59924a.json)
 
+[Extended Data](ext_articles/9c59924a.ext.json)
+
 ---
 
 ### Action to import 1,000 vans and cars!
@@ -224,6 +256,8 @@ Major General Liyanage has also been appointed as an advisor to Sajith Premadasa
 
 [Data](articles/ce695114.json)
 
+[Extended Data](ext_articles/ce695114.ext.json)
+
 ---
 
 ### Maj. Gen. Sathyapriya Liyanage joins SJB
@@ -268,6 +302,8 @@ Colombo, Feb. 23 (Daily Mirror)- United States Deputy Secretary of State for Man
 
 [Data](articles/c1e3ba3c.json)
 
+[Extended Data](ext_articles/c1e3ba3c.ext.json)
+
 ---
 
 ### Richard Werma and President meets President
@@ -301,6 +337,8 @@ The victim is a resident of Moragolla, Beruwala and a father of a 10-year-old ch
 ◼️
 
 [Data](articles/3a321c0a.json)
+
+[Extended Data](ext_articles/3a321c0a.ext.json)
 
 ---
 
@@ -517,6 +555,8 @@ The arrested individuals are to be produced before the Anuradhapura magistrate's
 ◼️
 
 [Data](articles/9fb24ca2.json)
+
+[Extended Data](ext_articles/9fb24ca2.ext.json)
 
 ---
 
@@ -1933,25 +1973,5 @@ Addressing the media, he said that when considering health issues, the incumbent
 [Data](articles/5bdfac53.json)
 
 [Extended Data](ext_articles/5bdfac53.ext.json)
-
----
-
-### Incumbent and former Health Minister walk on a single track: Dr. Bellana
-
-*2024-02-22 21:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Incumbent-and-former-Health-Minister-walk-on-a-single-track-Dr-Bellana/108-277566) · `en`
-
-Colombo, Feb 22 (Daily Mirror) - The problems relating to drugs are not the only issue in the health sector, and both the former and incumbent health ministers have been prone to viewing health matters narrowly, focusing primarily on drug-related issues, Deputy Director of the National Hospital Colombo (NHC) Dr. Rukshan Bellana said.
-
-Addressing the media, he said that when considering health issues, the incumbent and former Health Minister walk on a single track.
-
-"Drugs are not the sole issue in the country's health sector. The health administration of the hospitals has gone from bad to worse. We cannot treat patients without implementing rules in hospitals. If the Health Ministry cannot understand the issues faced by the patients and cannot understand what they mean, it is better for everyone to go home," he said.
-
-"We should prioritize on a patient-centred hospital management system while shifting away from an employee-centred approach," he added.
-
-...
-
-[Data](articles/819a9891.json)
-
-[Extended Data](ext_articles/819a9891.ext.json)
 
 ---

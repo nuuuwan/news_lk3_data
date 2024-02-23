@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 09:51:11**
+As of **2024-02-23 10:02:30**
 
 ## Newspaper Stats
 
-*Scraped **8,839** Articles*
+*Scraped **8,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,056
 tamilmirrorlk | 1,096
 virakesarilk | 1,192
 adaderanasinhalalk | 1,301
-dailymirrorlk | 1,321
+dailymirrorlk | 1,322
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,839 (100.0%) of 8,839 articles have been extended.
+8,840 (100.0%) of 8,840 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,24 @@ It was during a raid on the second cross-street in the Hingurakgoda yesterday.
 [Data](articles/e828d13f.json)
 
 [Extended Data](ext_articles/e828d13f.ext.json)
+
+---
+
+### U.S. lands unmanned Odysseus spacecraft on moon
+
+*2024-02-23 08:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/U-S-lands-unmanned-Odysseus-spacecraft-on-moon/108-277600) · `en`
+
+An unmanned, robotic lunar lander launched by a private U.S. company landed on the moon Thursday evening.
+
+“We can confirm, without a doubt, that our equipment is on the surface of the moon,” said Stephen Altemus, CEO of Intuitive Machines, the Houston-based company that operated the Odysseus spacecraft. “Welcome to the moon.”
+
+As it approached the surface of the moon, Odysseus lost contact with NASA, resulting in several anxious minutes for those who worked on the joint project. But after approximately 15 minutes of searching, officials confirmed that they were once again receiving signals from the spacecraft.
+
+...
+
+[Data](articles/e56c83fb.json)
+
+[Extended Data](ext_articles/e56c83fb.ext.json)
 
 ---
 
@@ -1935,23 +1953,5 @@ The IMF has strictly placed some reforms including in state sector enterprises, 
 [Data](articles/ef4eb908.json)
 
 [Extended Data](ext_articles/ef4eb908.ext.json)
-
----
-
-### The International Court should not demand the exclusion of Israeli soldiers from occupied Palestine - USA
-
-*2024-02-22 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177068) · `ta`
-
-The US has appealed to the International Court of Justice that Israel should withdraw its soldiers from the occupied Palestinian regions.
-
-The US has urged the security of Israel to consider in any attempt to end the conflict.
-
-Richard Wasak, the US State Department's legal adviser, said that Israel's actual security threats should be taken into consideration in any action on the exclusion of Israel from the Western Gaza.
-
-◼️
-
-[Data](articles/fd087e51.json)
-
-[Extended Data](ext_articles/fd087e51.ext.json)
 
 ---

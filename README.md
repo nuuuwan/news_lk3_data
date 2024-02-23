@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 21:02:29**
+As of **2024-02-23 21:17:43**
 
 ## Newspaper Stats
 
-*Scraped **8,940** Articles*
+*Scraped **8,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 751
 adaderanalk | 1,070
 tamilmirrorlk | 1,106
 virakesarilk | 1,217
-adaderanasinhalalk | 1,323
-dailymirrorlk | 1,342
+adaderanasinhalalk | 1,324
+dailymirrorlk | 1,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,940 (100.0%) of 8,940 articles have been extended.
+8,940 (100.0%) of 8,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### අස්වැසුම කියා මහලු කතුන්ගෙන් මුදල් ගැරූ පුද්ගලයා
+
+*2024-02-23 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193747) · `si`
+
+අස්වැසුම සහ වැඩිහිටි දීමනාවේ වසර කිහිපයක් සඳහා වන මුදල් එකවර ලබාදෙන බව පවසමින් නිවෙස් වෙත පැමිණ මුදල් කොල්ල කන ජාවාරමක් සම්බන්ධයෙන් කන්තලේ ප්‍රදේශයෙන් වාර්තා වේ.
+
+රාජ්‍ය නිලධාරියෙකු ලෙස පෙනී සිටින ජාවාරම්කරු කන්තලේ ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ මොල්ලිපොතාන - පරාක්‍රම මාවත - ආරියවංස මාවත ආදී ප්‍රදේශ කිහිපයක මහලු කාන්තාවන් ඉලක්ක කර මෙම කොල්ලකෑම් සිදුකර තිබේ.
+
+ප්‍රාදේශීය ලේකම් කාර්යාලයේ සේවයේ නියුතු රාජ්‍ය නිලධාරියෙකු ලෙස පෙනී සිටින මෙම පුද්ගලයා කන්තලේ ප්‍රදේශයේ තෝරාගත් නිවෙස්වලට යතුරුපැදියකින් පැමිණෙන්නේ, වැඩිහිටි දීමනාවට අදාළ වසර කිහිපයක මුදල් එකවර ලබාදෙන බව පවසමිනි.
+
+වයෝවෘද්ධ කාන්තාවන් සිටින නිවාස ඉලක්ක කරගත් මොහු, අස්වැසුම ලේඛනයට අදාළව වැඩිහිටි දීමනාව ද ලැබීමට ඔවුන් සුදුස්සන් බවට හැඟවීමට පොතක් ද පෙන්වන බව වාර්තා වේ.
+
+මොහු කාන්තාවන්ට ප්‍රකාශ කර ඇත්තේ, එකවර ලබාදෙන මුදල ලබාගැනීමට නම් මුද්දර ගාස්තු සහ රජයේ ගාස්තු වශයෙන් රුපියල් 4,000කට වැඩි මුදලක් ලබාදිය යුතු බවය.
+
+මුදල් ලබාදීමට නොහැකි නම් කාන්තාවන් සතු රත්‍රං භාණ්ඩ ඇපයට ලබාගැනීමට ඔහු කටයුතු කරන බව ද වංචාවට හසුවූ කාන්තාවෝ පවසති.
+
+...
+
+[Data](articles/5149b838.json)
+
+---
+
+### Controversial ’white only’ party cancelled amid public outcry
+
+*2024-02-23 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversial-white-only-party-cancelled-amid-public-outcry/108-277617) · `en`
+
+Feb 23 (Daily Mirror) - A controversial 'white only' themed party scheduled to take place on February 24 at a Russian run cafe in the south has been cancelled by its organizers following widespread public backlash.
+
+The event, which was promoted as an 'Opening White Party,' stirred significant controversy due to its discriminatory nature. Organizers intended to implement a face control policy where entry would be restricted solely to individuals deemed fitting by bouncers based on their white skin, wealth, style, or demeanor.
+
+'Face control,' a term commonly used in upscale nightclubs, refers to the practice of regulating entry based on subjective assessments of individuals' appearances and social status.Announcing the cancellation on Instagram, the organizers cited escalating concerns about racism as the primary reason behind their decision. In a post, they expressed regret for the hurt feelings caused by the event's concept and apologized to those offended by the idea.
+
+...
+
+[Data](articles/d8e9897f.json)
+
+---
 
 ### Beginning with the flag;Kachchativu Festival
 
@@ -2051,47 +2089,5 @@ He said that he was suffering in order to succeed his hope. His wife said his hu
 [Data](articles/4d0289cb.json)
 
 [Extended Data](ext_articles/4d0289cb.ext.json)
-
----
-
-### Sri Lanka’s Grisly Recent History Goes Unpunished
-
-*2024-02-23 07:53:00* · [`economynextcom`](https://economynext.com/sri-lankas-grisly-recent-history-goes-unpunished-152021/) · `en`
-
-ECONOMYNEXT – They lie buried in numerous mass graves, all evidence of Sri Lanka’s murderous recent past which has been punctuated by multiple civil conflicts.
-
-Whatever remains is evidence of Sri Lanka’s grisly history of the extrajudicial executions of rebels in both Northern and Southern insurrections.
-
-Most of the bodies remain in mass graves that stretch from Chemmani and Duraiappah Stadium in  Jaffna to burial sites in the Colombo and Matale Districts and the Southern and Central Provinces.
-
-The dead could be anyone; captured rebels, those caught in crossfires and others who were deemed to be “inconvenient,” according to a report titled ‘Gotabaya Rajapaksa’s War Time Role’ released by the International Truth and Justice Project (ITJP) on 17 January 2024.
-
-Sri Lanka’s recent blood-soaked history is replete with mass killings and many “disappearances” from the various incidents during the insurgencies of the JVP as well as the Tamil separatist war.
-
-...
-
-[Data](articles/658178da.json)
-
-[Extended Data](ext_articles/658178da.ext.json)
-
----
-
-### Two suspects arrested for shooting
-
-*2024-02-23 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193722) · `si`
-
-Two unidentified persons who came in a motorbike were shot dead in the Modara Lessigree.
-
-Modara Police and Colombo Crimes Division held investigations on the crime of attempting to be killed.
-
-Accordingly, two suspects have been arrested yesterday (22).
-
-Police said that the suspect had found 4 Ice drug and 451 milligrams.
-
-◼️
-
-[Data](articles/89a04af8.json)
-
-[Extended Data](ext_articles/89a04af8.ext.json)
 
 ---

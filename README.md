@@ -1,66 +1,108 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 08:02:32**
+As of **2024-02-23 08:17:36**
 
 ## Newspaper Stats
 
-*Scraped **8,820** Articles*
+*Scraped **8,829** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 92
-bbccomsinhala | 106
+bbccomsinhala | 107
 dbsjeyarajcom | 160
 newsfirstlk | 363
-islandlk | 458
 economynextcom | 458
+islandlk | 464
 dailyftlk | 483
 adalk | 744
-adaderanalk | 1,055
+adaderanalk | 1,056
 tamilmirrorlk | 1,094
 virakesarilk | 1,190
 adaderanasinhalalk | 1,298
-dailymirrorlk | 1,319
+dailymirrorlk | 1,320
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,818 (100.0%) of 8,820 articles have been extended.
+8,820 (99.9%) of 8,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### දරුවන් 1500ක් පමණ බන්ධනාගාරවල
+### About 1500 children in prisons
 
 *2024-02-23 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193721) · `si`
 
-බන්ධනාගාරගතව සිටින පිරිස්වලින් සියයට 65ක ප්‍රතිශතයක් මත්ද්‍රව්‍ය සම්බන්ධ වැරදිවලට චෝදනා ලැබුවන් බව බන්ධනාගාර කොමසාරිස් ජගත් චන්දන වීරසිංහ මහතා පවසයි.
+The Commissioner of Prisons Jagath Chandana Weerasinghe says that 65 percent of the victims have been charged with drugs.
 
-ඔහු ප්‍රකාශ කළේ මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් දරුවන් 1000ත් 1500ත් අතර පිරිසක් බන්ධනාගාරගතව සිටින බවය.
+He said that between 1,000 and 1500 children were in remandrock regarding drugs.
 
-ගාල්ල නාගොඩ ප්‍රදේශයේ පාසලක පැවැති උත්සවයකට එක්වෙමින් බන්ධනාගාර කොමසාරිස් ජගත් චන්දන වීරසිංහ මහතා මේ බව සඳහන් කළේය.
+The Commissioner of Prisons Jagath Chandana Weerasinghe said this was speaking at a function held at a school in Nagoda, Galle.
 
 ◼️
 
 [Data](articles/dfe12145.json)
 
+[Extended Data](ext_articles/dfe12145.ext.json)
+
 ---
 
-### ඇල්ල කඳුවැටියෙන් වැටී පුද්ගලයෙකු මරුට
+### Private spacecraft lands on lunar surface; first U.S. moon landing since 1972
+
+*2024-02-23 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97469/private-spacecraft-lands-on-lunar-surface-first-us-moon-landing-since-1972) · `en`
+
+A spacecraft built and flown by Texas-based company Intuitive Machines landed near the south pole of the moon on Thursday, the first U.S. touchdown on the lunar surface in more than half a century and the first ever achieved by the private sector.
+
+The uncrewed six-legged robot lander, dubbed Odysseus, touched down at about 6:23 p.m. EST (2323 GMT), the company and NASA commentators said in a joint webcast of the landing from Intuitive Machines’ mission operations center in Houston.
+
+The landing capped a nail-biting final approach and descent in which a problem surfaced with the spacecraft’s autonomous navigation system that required engineers on the ground to employ an untested work-around at the 11th hour.
+
+It also took some time after an anticipated radio blackout to re-establish communications with the spacecraft and determine its fate some 239,000 miles (384,000 km) from Earth.
+
+...
+
+[Data](articles/7ab0babc.json)
+
+---
+
+### Man dies after falling into the mountain mountain
 
 *2024-02-23 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193720) · `si`
 
-ඇල්ල ප්‍රදේශයේ සංචාරය කළ පුද්ගලයෙකු ඊයේ (22) රාත්‍රියේ අවාසනාවන්ත අනතුරකට මුහුණදී ජීවිතක්ෂයට පත්වී තිබේ.
+A person visited in the Ella area was killed in an unfortunate accident last night.
 
-පොලීසිය සඳහන් කළේ ඊයේ උදෑසන මිතුරෙකු සමග ඇල්ල කඳුවැටියට නැග සවස් කාලයේදී ඉන් බැසීමට ගිය පුද්ගලයෙකු ප්‍රපාතයකට ඇදවැටී මෙලෙස මියගොස් ඇති බවය.
+The police said that a man who had gone to the Ella Kanduwatte yesterday morning and died in the evening.
 
-මෙලෙස රාවනා ඇල්ල ප්‍රදේශයෙන් ඇද වැටුණු පුද්ගලයාව වැල්ලවාය රෝහලට ඇතුළත් කිරීමට පියවර ගෙන තිබුණත් ඔහු මියගොස් තිබූ බව පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+Steps were admitted to the Wellawaya hospital, but he had died.
 
 ◼️
 
 [Data](articles/b0997ef1.json)
+
+[Extended Data](ext_articles/b0997ef1.ext.json)
+
+---
+
+### Sajith Premadasa seeks to retain private lawyer instead of Attorney General
+
+*2024-02-23 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-Premadasa-seeks-to-retain-private-lawyer-instead-of-Attorney-General/108-277598) · `en`
+
+Colombo, Feb 23 (Daily Mirror) - Opposition Leader Sajith Premadasa, as a member of the Constitutional Council (CC), has sought to retain a private lawyer instead of the Attorney General in the case in which the CC’s rejection of the nomination of Appeal Court President Nissanka Bandula Karunaratne as a judge of the Supreme Court has been challenged.
+
+The CC which met last Monday discussed the matter. Mr. Premadasa sought to retain a private lawyer to intervene in the case.
+
+The CC will meet again next Monday to take a final decision in this regard.
+
+Mr. Premadasa has taken such a decision against the backdrop of the Attorney General informing the Supreme Court that the CC’s rejection of the appointment was not based on a collective decision.
+
+A Fundamental Rights petition filed challenging the CC’s decision to reject Justice Karunaratne’s name has now been taken up for hearing .
+
+◼️
+
+[Data](articles/03c6c1c2.json)
 
 ---
 
@@ -307,6 +349,28 @@ An elephant brought for the Nawam Perahera at Hunupitiya Gangaramaya temple safe
 [Data](articles/1eac66c6.json)
 
 [Extended Data](ext_articles/1eac66c6.ext.json)
+
+---
+
+### ඓතිහාසික වටිනාකමක් සහිත ස්ථානවල නව ඉදිකිරීම්, පෞරාණික වටිනාකම්වලට සිදු කරන හානියක්ද?
+
+*2024-02-23 02:07:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n66y666j6o) · `si`
+
+ඓතිහාසික වටිනාකමක් සහිත ස්ථානවල නව ඉදිකිරීම්, පෞරාණික වටිනාකම්වලට සිදු කරන හානියක්ද?
+
+සමාජ මාධ්‍ය හරහා මුදල් රැස් කරමින් සිදුකරන දැවැන්ත ආගමික ගොඩනැගිලි ඉදිකිරීම් සම්බන්ධයෙන් කලින් කලට අපට අසන්නට දක්නට ලැබේ.
+
+විශේෂයෙන් ම  කඳු මුදුන්වල සිදු කරන එවන් ඉදිකිරීම් සම්බන්ධයෙන් යම් ප්‍රතිරෝධයක් ද සමාජය තුළ ඇතැම් අවස්ථාවන්හි නිර්මාණය වූ අතර, එනිසාම ඇතැම් ඉදිකිරීම් අතරමඟ නවතා දැමීමට ද සිදු විය.
+
+අලුතෙන් ඉදිකෙරෙන මහා පරිමාණ ඉදිකිරීම් වලින් පරිසරයට සිදුවන බලපෑම හැරුණුවිට, මෙවැනි ඉදිකිරීම් සිදු කිරීමට පුරාවිද්‍යාත්මක වටිනාකමක් සහිත ස්ථාන තෝරාගැනීමේ ප්‍රවණතාවයක් ද තිබේ.
+
+මෑතකාලීනව මුහුදු මහා විහාරය, කුරුන්දි විහාරය, කූරගල මෙන් ම ආසන්නතම සිදුවීම වන කවුඩාගල ඒ සඳහා නිදසුන් ය.
+
+වර්තමානයවන විට කුරුන්දිය සම්බන්ධයෙන් නඩුවක් ක්‍රියාත්මක ය. දාගැබක නටඹුන් හමුවී ඇති කවුඩාගල ඉදිකිරීම් සති කිහිපයකට පෙර ආරම්භ වූ අතර, ඒ සම්බන්ධයෙන් මිශ්‍ර ප්‍රතිචාර සමාජ මාධ්‍ය පුරා දැකගතහැකි විය.
+
+...
+
+[Data](articles/f0f2c74d.json)
 
 ---
 
@@ -1258,6 +1322,20 @@ With the opening of Ram Mandhir in Ayodhya, Sri Lanka has renewed the establishm
 
 ---
 
+### Presidency; spending and elections; Harin’s proclamation
+
+*2024-02-22 20:11:00* · [`islandlk`](http://island.lk/presidency-spending-and-elections-harins-proclamation/) · `en`
+
+The ever-present topic since Ranasinghe Premadasa was assassinated has cropped up again: the abolition of the executive presidency.  JRJ and Premadasa Snr, sat comfortably and all powerful on the Seat of the President, created by the former and charmed with smoky incense by the latter. Sat they did, all powerfully and comfortingly, at least JRJ did.
+
+Prez Premadasa was uncomfortable at times when likely contenders who seemed to be popular with the voting masses appeared within eyesight. Some were even not likely candidates in a presidential election and eyeing his seat. But he knew how to deal with them.  Then came CBK who promised to do away with the post and return power to the Prime Minister and Parliament. That was while campaigning. Once she was voted to occupy the seat, she enjoyed its comfort too much and savoured the power it gave her and she forgot her election promise.
+
+...
+
+[Data](articles/8bf3f9d2.json)
+
+---
+
 ### The Radella short road is a terrible accident on the road
 
 *2024-02-22 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193714) · `si`
@@ -1275,6 +1353,20 @@ The bus is severely damaged and the Nanu Oya Police are conducting further inves
 [Data](articles/3c68f476.json)
 
 [Extended Data](ext_articles/3c68f476.ext.json)
+
+---
+
+### Relevance of Buddhism in contemporary world
+
+*2024-02-22 19:43:00* · [`islandlk`](http://island.lk/relevance-of-buddhism-in-contemporary-world/) · `en`
+
+Buddhism is a teaching expounded by the Buddha, who lived in northern India between the mid-6th century and mid-4th century BCE. However, there is a disagreement among some scholars as to the exact dates of his birth and death. It is believed that Buddhism has an estimated 500 million followers worldwide today. Many civilisations and countless lives have been shaped by the Buddha’s thinking enunciated in his discourses. What the Buddha expounded for nearly half a century is known as dhamma which is just as pertinent in the contemporary world as it was several centuries ago. In brief, dhamma means reality.
+
+Buddhism has played a central role in spiritual, and cultural social life from its very inception. It has brought immense psychological, and spiritual solace and relief to people who are overwhelmed by immense suffering and challenges in their lives. Moreover, the advent of Buddhism has paved the way for social equality and democratic values.
+
+...
+
+[Data](articles/4da9546f.json)
 
 ---
 
@@ -1853,113 +1945,5 @@ If there are objections to this petition, the court ordered the respondents to f
 [Data](articles/98aebce1.json)
 
 [Extended Data](ext_articles/98aebce1.ext.json)
-
----
-
-### Appointment of members of special groups
-
-*2024-02-22 16:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறப்பு-குழுக்களின்-உறுப்பினர்கள்-நியமனம்/175-333676) · `ta`
-
-According to the resolution passed by Parliament on February 9, 2024, Deputy Speaker Ajith Rajapakse presented the names of the members appointed to work in the fifth session of the ninth Parliament on Thursday (22).
-
-Ministry of Advisory Committee on Financial, Economic Stability and National Policy Affairs
-
-Ministry of Advisory Committee on Women, Child Affairs and Social Strengthening Affairs
-
-Ministry of Advisory Committee on Justice, Prison Affairs and Political Reorganization
-
-◼️
-
-[Data](articles/2e7ef85f.json)
-
-[Extended Data](ext_articles/2e7ef85f.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover tops 1bn
-
-*2024-02-22 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-tops-1bn-151985/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 6.05 points, or 0.06 percent at 10,655 while the S&P SL20 Index closed down at 3,064 points, up 0.18 percent, or 5.43 points.
-
-Turnover was at 1.4 million. A large part of this came from trading in John Keells Holdings Plc (571 million); the share closed up at 194.00.
-
-Expolanka Holdings Plc also saw large volumes being traded, contributing 202 million to the day’s turnover. The share closed up at 143.75.
-
-Sectors that attracted investor interest were Capital Goods (608mn), Transportation (203mn), Food, Beverage and Tobacco (141mn), and Banks (157mn).
-
-Several companies that announced dividends yesterday saw share prices trade up today. Commercial Bank of Ceylon Plc closed up at 91.30. Overseas Realty (Ceylon) Plc closed up at 16.20.
-
-Positive contributors to the indices in the day included Hemas Holdings Plc (73.60), and Haycarb Plc (72.00). (Colombo/Feb22/2024).
-
-◼️
-
-[Data](articles/e00ac070.json)
-
-[Extended Data](ext_articles/e00ac070.ext.json)
-
----
-
-### Contraband items seized from 2 cells at Boossa high-security prison
-
-*2024-02-22 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97460/contraband-items-seized-from-2-cells-at-boossa-high-security-prison) · `en`
-
-Several contraband items have been found inside two cells at the Boossa high-security prison, in which two criminal gang members were kept incarcerated.
-
-During an unanticipated search operation conducted at the facility on Wednesday (Feb.21), the Police Special Task Force (STF) officers had discovered 4 mobile phones, one SIM card, a notebook containing telephone numbers and several mobile phone accessories.
-
-According to reports, these items were found from the possession of a drug trafficker alias “Rewul Kumara and the brother of the infamous criminal gang leader “Kosgoda Tharaka”.
-
-The seized contraband has been handed over to the office of the STF Commandant for onward investigations.
-
-◼️
-
-[Data](articles/8bc7e92a.json)
-
-[Extended Data](ext_articles/8bc7e92a.ext.json)
-
----
-
-### Two years of destruction
-
-*2024-02-22 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193708) · `si`
-
-Ukrainian and Russian war will be more than two years.
-
-The number of countries that will be provided to Russia or the number of countries will be limited to Russia.
-
-In particular, America publicly reprimanded China recently, saying that if the weapons of Russia would have to face sanctions.
-
-It is reported that the North Korean leader Kim-other Russia, including the Western countries, has been supplied to Jong-Other Russia.
-
-President Mahinda Rajapaksa reported yesterday that Sri Lanka was given a luxury limoust of livelihoods in Russia.
-
-In addition, Iran was also present on Russia to provide the drones and other weapons to Russia.
-
-◼️
-
-[Data](articles/5055ecfe.json)
-
-[Extended Data](ext_articles/5055ecfe.ext.json)
-
----
-
-### Temperature increase;Warning to 8 districts
-
-*2024-02-22 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/177051) · `ta`
-
-Temperatures have increased since yesterday in many districts in the country.As a result, the Department of Meteorology has issued a warning to 8 districts.
-
-High temperatures will be recorded tomorrow (23) in Colombo, Gampaha, Kurunegala, Puttalam, Anuradhapura, Trincomalee and Moneragala districts.
-
-Therefore, it is advised to wear a pale thin clothing to avoid unnecessary walking in public publications.
-
-◼️
-
-[Data](articles/ed266ebb.json)
-
-[Extended Data](ext_articles/ed266ebb.ext.json)
 
 ---

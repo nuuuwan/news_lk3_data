@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 17:53:12**
+As of **2024-02-23 18:08:11**
 
 ## Newspaper Stats
 
@@ -26,49 +26,53 @@ dailymirrorlk | 1,338
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,920 (100.0%) of 8,922 articles have been extended.
+8,922 (100.0%) of 8,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### மியன்மார் சைபர் கிரிமினல் பகுதியில் மற்றுமொரு இலங்கையர்
+### Another Sri Lankans in Myanmar Cyber Criminal
 
 *2024-02-23 17:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மார்-சைபர்-கிரிமினல்-பகுதியில்-மற்றுமொரு-இலங்கையர்/175-333712) · `ta`
 
-மியன்மாரின் சைபர் கிரிமினல் ஏரியா எனப்படும் இணைய குற்றச் செயல்கள் இடம்பெறும் பகுதிக்கு மற்றுமொரு இலங்கையர் சென்றுள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+It has been reported that another Sri Lankans have gone to the area where Myanmar's cyber criminal area is known as the Internet criminal area.
 
-முன்னாத அங்கு தடுத்து வைக்கப்பட்டுள்ள இலங்கையர்களை மீட்பதற்கான கலந்துரையாடல்கள் இடம்பெற்று வரும் நிலையில், இவ்வடயம் நடைபெற்றுள்ளது.
+This has taken place as discussions are underway to rescue Sri Lankans who have been detained there.
 
-கணினித் துறையில் வேலைவாய்ப்பு தேடிச் சென்ற 56 இலங்கையர்கள் பலவந்தமாக குறித்த முகாம்களில் தடுத்து வைக்கப்பட்டுள்ளனர்.
+56 Sri Lankans who have been employed in the computer sector have been forcibly detained in the camps.
 
-இந்தநிலையில் டுபாயில் உள்ள ஒரு இடைத்தரகர் ஊடாக குறித்த இலங்கையர் அங்கு வேலைவாய்ப்பைக் கோரியுள்ளார்.
+In this case, the Sri Lankan has demanded employment through an intermediary in Dubai.
 
-புதிதாக அங்கு சென்றுள்ள இலங்கையர் விமானம் மூலம் மியன்மார் தலைநகருக்கு சென்று, அங்கிருந்து குறித்த முகாமை அடைந்துள்ளதாக தகவல்கள் வெளியாகியுள்ளன. R
+According to reports, the Sri Lankan Sri Lankan has gone to Myanmar's capital and has been managed from there.. Remble
 
 ◼️
 
 [Data](articles/4a2e6bd3.json)
 
+[Extended Data](ext_articles/4a2e6bd3.ext.json)
+
 ---
 
-### හොර පාරෙන් රට යන්න හැදූ දෙදෙනෙක් කටුනායක දී කොටු
+### Two persons who were trying to go to the country from the mouth of the stagnation were trapped in the Katunayake
 
 *2024-02-23 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193743) · `si`
 
-ව්‍යාජ ලෙස සකස් කළ ග්‍රීක සංචාරක වීසා භාවිත කරමින් විදෙස්ගත වීමට උත්සාහ කළ ශ්‍රි ලාංකිකයන් දෙදෙනෙකු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+Two Sri Lankans who were trying to abroad with fake adjusted Greek tourists have been arrested at the Katunayake International Airport.
 
-ආගමන විගමන දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරින් විසින් අත්අඩංගුවට ගත් එම තරුණයන් දෙදෙනා වව්නියාව සහ යාපනය ප්‍රදේශවල පදිංචිකරුවන් බව වාර්තා වේ.
+The two youths who were arrested by the Immigration of Immigration and Emigration Borderness Unit residents of Vavuniya and Jaffna.
 
-ඔවුන් දෙදෙනා අද (23) අලුයම දෝහා බලා පිටත් ව යාමට පැමිණ තිබූ අතර, මඟී ගුවන් සේවා නිෂ්කාශන කටයුතු සඳහා සිය ලියකියවිලි ඉදිරිපත් කළ අවස්ථාවේ ඔවුන් සතු ව තිබූ ග්‍රීක සංචාරක වීසා බලපත්‍ර කූට ලෙස සකස් කර ඇති බවට අනාවරණය වී ඇත.
+The two had come to Doha this morning, and it was revealed that their documents were prepared for the passenger airline clearance.
 
-ඉන්දියාව වෙත ගොස් තැරැව්කරුවකු මඟින් එම වීසා බලපත්‍ර සකස් කර ගෙන ඇති බව ඔවුන්ගෙන් සිදු කළ ප්‍රශ්න කිරීම්වල දී වැඩිදුරටත් අනාවරණය වී ඇත.
+According to the interrogations they had to go to India and had prepared the visas by a broker.
 
-සැකකරුවන් දෙදෙනා ඉදිරි විමර්ශන සඳහා කටුනායක ගුවන් තොටුපොළ අපරාධ විමර්ශන දෙපාර්තමේන්තු නිලධාරින් වෙත භාර දී තිබේ.
+The two suspects have been handed over to the Criminal Investigation Department (CID) of the Katunayake airport.
 
 ◼️
 
 [Data](articles/b42f517d.json)
+
+[Extended Data](ext_articles/b42f517d.ext.json)
 
 ---
 

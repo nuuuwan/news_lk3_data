@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 16:48:23**
+As of **2024-02-23 17:02:30**
 
 ## Newspaper Stats
 
-*Scraped **8,914** Articles*
+*Scraped **8,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 483
 adalk | 751
 adaderanalk | 1,065
 tamilmirrorlk | 1,103
-virakesarilk | 1,211
+virakesarilk | 1,212
 adaderanasinhalalk | 1,318
 dailymirrorlk | 1,337
 
@@ -26,25 +26,45 @@ dailymirrorlk | 1,337
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,909 (99.9%) of 8,914 articles have been extended.
+8,914 (100.0%) of 8,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### திடீர் சுற்றிவளைப்புகளில்  யாழ்ப்பாணத்தில் 531 பேர் கைது!
+### யாழில் தேர்த் திருவிழாவில் நகை திருட்டு ; இருவர் கைது
+
+*2024-02-23 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177142) · `ta`
+
+யாழ்ப்பாணம் – கன்னாதிட்டி காளி அம்பாள் ஆலய தேர்த் திருவிழாவில் நகைத் திருட்டில் ஈடுபட்ட இரண்டு பெண்கள் கைது செய்யப்பட்டனர்.
+
+கன்னாதிட்டி காளி அம்பாள் ஆலய தேர்த் திருவிழா இன்று வெள்ளிக்கிழமை (23) காலை இடம்பெற்றபோது பெருமளவான பக்தர்கள் ஆலயத்தில் கூடியிருந்தனர்.
+
+இதனை சாதகமாக பயன்படுத்தி நகைத் திருட்டில் ஈடுபட்ட கொழும்பு கொச்சிக்கடை பகுதியைச் சேர்ந்த இரண்டு பெண்களே இவ்வாறு கைது செய்யப்பட்டனர்.
+
+விசாரணைகளின் பின்னர் இருவரையும் யாழ்ப்பாணம் நீதவான் நீதிமன்றத்தில் முற்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/29b9692b.json)
+
+---
+
+### 531 arrested in Jaffna
 
 *2024-02-23 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177140) · `ta`
 
-கடந்த ஒரு மாத கால பகுதிக்குள் யாழ்ப்பாணத்தில் 531 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+531 people have been arrested in Jaffna within the last one month, police said.
 
-குற்றச் செயல்களுடன் தொடர்புடைய குற்றச்சாட்டுக்களில் யாழ்ப்பாணத்தில் தேடப்பட்டு வந்த வர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+The arrested persons have been searched in Jaffna on charges of crime.
 
-இதற்கமைய திறந்த பிடியாணை பிறப்பிக்கப்பட்ட 301 நபர்களும், சாதாரண பிடியாணை பிறப்பிக்கப்பட்ட 230 நபர்களுமே பொலிஸாரினால் கைது செய்யப்பட்டு நீதிமன்றங்களில் ஆஜர.படுத்தப்பட்டனர் எனப் பொலிஸார் தெரிவித்துள்ளனர்.
+According to the police, 301 persons were arrested and 230 persons were arrested by the police and produced in courts, police said.
 
 ◼️
 
 [Data](articles/6060fbde.json)
+
+[Extended Data](ext_articles/6060fbde.ext.json)
 
 ---
 
@@ -64,6 +84,8 @@ President Wickremesinghe stated that Sri Lanka remains committed to Freedom of N
 
 [Data](articles/066f4251.json)
 
+[Extended Data](ext_articles/066f4251.ext.json)
+
 ---
 
 ### Uganda National Cricket team in town, calls on Ali Sabry
@@ -77,6 +99,8 @@ He said in a message on ‘x’ that he appreciated the efforts of Speaker Mahin
 ◼️
 
 [Data](articles/2b35c315.json)
+
+[Extended Data](ext_articles/2b35c315.ext.json)
 
 ---
 
@@ -166,39 +190,43 @@ The case for others is to be filed on 26.02.2024. The seized food items were des
 
 ---
 
-### யாழில் கொள்ளையிட்ட கொழும்பு பெண்கள்
+### Colombo women who robbed Jaffna
 
 *2024-02-23 15:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-கொள்ளையிட்ட-கொழும்பு-பெண்கள்/71-333711) · `ta`
 
-யாழ்ப்பாணம் - கன்னாதிட்டி காளி அம்பாள் ஆலய தேர்த் திருவிழாவில் நகைத் திருட்டில் ஈடுபட்ட இரண்டு பெண்கள்  கைது செய்யப்பட்டனர்.
+Two women arrested for jewelery theft at the Jaffna - Kannaditi Kali Ambal Temple election festival.
 
-கன்னாதிட்டி காளி அம்பாள் ஆலய தேர்த் திருவிழா இன்று(23) காலை இடம்பெற்றபோது பெருமளவான பக்தர்கள் ஆலயத்தில் கூடியிருந்தனர்.
+A large number of devotees gathered at the temple when the Kannaditi Kali Ambal Temple Election Festival was held this morning.
 
-இதனை சாதகமாக பயன்படுத்தி நகைத் திருட்டில் ஈடுபட்ட கொழும்பு - கொச்சிக்கடை பகுதியைச் சேர்ந்த இரண்டு பெண்களே இவ்வாறு கைது செய்யப்பட்டனர்.
+Two women from the Colombo -Kochikkadai area were arrested for taking advantage of this.
 
-யாழ்ப்பாண பிராந்திய சிரேஸ்ட பொலிஸ் அத்தியட்சகர் ஜகத் விசாந்தவின் கீழ் இயங்கும் குற்றப் புலனாய்வுப் பிரிவினரால் இருவரும் 15 நிமிடத்தில் கைது செய்யப்பட்டனர். சந்தேக நபர்களிடம் இருந்து நான்கரை பவுண் தாலி பொலிஸாரால் கைப்பற்றப்பட்டது.
+The two were arrested in 15 minutes by the Criminal Investigation Department (CID) under the Jaffna Regional Senior Superintendent of Police, Jagath Visantha.. Four and a half pound Tali was seized from the suspects.
 
-விசாரணைகளின் பின்னர் இருவரையும் யாழ்ப்பாணம் நீதவான் நீதிமன்றத்தில் முற்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர். R
+Police have taken steps to appear at the Jaffna Magistrate's Court after investigations. Remble
 
 ◼️
 
 [Data](articles/06f2c11c.json)
 
+[Extended Data](ext_articles/06f2c11c.ext.json)
+
 ---
 
-### நள்ளிரவில் ஊருக்குள் புகுந்த முதலை
+### Midnight
 
 *2024-02-23 15:28:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/நள்ளிரவில்-ஊருக்குள்-புகுந்த-முதலை/74-333710) · `ta`
 
-அம்பாறை - திருக்கோவில் பொலிஸ் பிரிவிற்குட்பட்ட திருக்கோவில் 03 பிரதேசத்தில் நேற்று(22) இரவு ஊருக்குள் புகுந்த முதலை ஒன்றை பிரதேசவாசிகள் மடக்கி பிடிக்கும் முயற்சியில் ஈடுபட்டனர்.
+Residents of the Ampara - Tirukovil police division were trying to fold a crocodile that entered the town last night in three areas of Tirukovil.
 
-ஊருக்குள் புகுந்த முதலை தொடர்பில் பொலிஸாருக்கும் வனஜீவராசிகள் திணைக்கள உத்தியோகத்தர்களுக்கும் பொதுமக்கள் அறிவித்தனர்.
+The public has reported to the police and the Department of Wildlife Department regarding the crocodile that entered the town.
 
-குறித்த இடத்திற்கு விரைந்த வனஜீவராசிகள் திணைக்கள உத்தியோகத்தர்கள் பொதுமக்கள் உதவியுடன் முதலையினை பிடித்து பாதுகாப்பான முறையில் அங்கிருந்து எடுத்துச் சென்றனர். R
+Officers of the Department of Wildlife, who rushed to the spot, took the first with the help of the public.. Remble
 
 ◼️
 
 [Data](articles/13003c06.json)
+
+[Extended Data](ext_articles/13003c06.ext.json)
 
 ---
 
@@ -2025,25 +2053,5 @@ The construction of the monastery is in commemoration of the centennial of Sri N
 [Data](articles/9f3a2146.json)
 
 [Extended Data](ext_articles/9f3a2146.ext.json)
-
----
-
-### Colombo to host Indian Ocean Rim Association Day celebrations on 10 March
-
-*2024-02-23 01:15:47* · [`dailyftlk`](https://www.ft.lk/news/Colombo-to-host-Indian-Ocean-Rim-Association-Day-celebrations-on-10-March/56-758800) · `en`
-
-The Indian Ocean Rim Association (IORA) Day celebrations will be held in Colombo on 10 March at the Galle Face Green.
-
-The Cabinet of Ministers has been briefed by the Foreign Affairs Minister Ali Sabry on preparations in progress for the upcoming celebration under the theme ‘A Sustainable Indian Ocean for Future Generations’.
-
-One of the notable features of this year’s celebration is the inclusion of a significant number of school students from all provinces of Sri Lanka.
-
-The IORA Day celebration aims to highlight the importance of sustainability and environmental stewardship in the Indian Ocean region. With the participation of diplomatic missions from member countries and partner States, as well as representatives from various sectors, the event seeks to foster dialogue and cooperation towards addressing common challenges and promoting sustainable development.
-
-◼️
-
-[Data](articles/2b8e803e.json)
-
-[Extended Data](ext_articles/2b8e803e.ext.json)
 
 ---

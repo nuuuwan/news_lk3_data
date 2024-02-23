@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 10:02:30**
+As of **2024-02-23 10:17:28**
 
 ## Newspaper Stats
 
-*Scraped **8,840** Articles*
+*Scraped **8,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 458
 islandlk | 464
 dailyftlk | 483
 adalk | 746
-adaderanalk | 1,056
+adaderanalk | 1,058
 tamilmirrorlk | 1,096
 virakesarilk | 1,192
 adaderanasinhalalk | 1,301
@@ -26,11 +26,33 @@ dailymirrorlk | 1,322
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,840 (100.0%) of 8,840 articles have been extended.
+8,840 (100.0%) of 8,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Two including teen arrested for aiding and abetting attempted murder
+
+*2024-02-23 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97472/two-including-teen-arrested-for-aiding-and-abetting-attempted-murder) · `en`
+
+The police have arrested two suspects in connection with the attempted murder of a man in Lellama area of Modara.
+
+On February 16, two unidentified assailants who had arrived on a motorcycle had opened fire at a man.
+
+Accordingly, two suspects, aged 16 and 21, have been arrested for aiding and abetting the crime.
+
+The arrests were made by the Colombo Crimes Division (CCD) officers in Sedawatta area and Ferguson’s Road in Colombo 15.
+
+As per reports, the duo was identified as residents of Colombo 15.
+
+Modara Police and the CCD are conducting further investigations into this attempted murder.
+
+◼️
+
+[Data](articles/7589f0b7.json)
+
+---
 
 ### A large number of cannabis mix mine
 
@@ -45,6 +67,22 @@ It was during a raid on the second cross-street in the Hingurakgoda yesterday.
 [Data](articles/e828d13f.json)
 
 [Extended Data](ext_articles/e828d13f.ext.json)
+
+---
+
+### Rameswaram fishers sore over detention of TN fisherman by Sri Lanka
+
+*2024-02-23 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97471/rameswaram-fishers-sore-over-detention-of-tn-fisherman-by-sri-lanka) · `en`
+
+Many fishermen in Rameswaram, India were upset over the detention of a fellow fisherman at jail in Sri Lanka for allegedly crossing the International Maritime Boundary Line.
+
+“It’s unfortunate that several Tamil Nadu fishermen, especially from Rameswaram and Thangachimadam, were arrested and sentenced to imprisonment by the Sri Lankan court at frequent intervals in the recent past”, V.P. Sesuraja, president, Traditional Indian Fishermen Welfare Association said on Thursday.
+
+The Indian fisher folks were shocked to learn that A. Salson (40) of Thangachimadam, Ramanathapuram district, one of the 19 fishermen crew aboard two vessels that set sail off Rameswaram on February 8, was imprisoned.
+
+◼️
+
+[Data](articles/9d01c508.json)
 
 ---
 
@@ -1915,43 +1953,5 @@ According to the statement, Wickremesinghe had also outlined to students at the 
 [Data](articles/7d5e3087.json)
 
 [Extended Data](ext_articles/7d5e3087.ext.json)
-
----
-
-### People are careful!The hottest weather will continue for a few more months
-
-*2024-02-22 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177059) · `ta`
-
-The Department of Meteorology said that the heat index in 8 districts, including Colombo and Gampaha, is expected to be more heat than the temperature alarm level in the human body.
-
-The announcement has been issued to 8 districts of Colombo, Gampaha, Puttalam, Kurunegala, Hambantota, Anuradhapura, Polonnaruwa, and Trincomalee -. Ajith Wijemanna, Deputy Inspector of the Department of Meteorology, said that the heat is expected more than the heat that the human body can bear in these districts.
-
-Moreover, this situation has been caused by the decline in the amount of air nationwide. Temperature will continue for a few more months. The Department has also issued instructions to protect people from high heat. He added that he should follow instructions such as consumption of excessive water, not involved in excessive fatigue, wearing white or pale clothes and staying in shadowy places.
-
-...
-
-[Data](articles/0cc809f5.json)
-
-[Extended Data](ext_articles/0cc809f5.ext.json)
-
----
-
-### ADB country chief hopes Sri Lanka could sustain policy reforms despite elections
-
-*2024-02-22 17:13:00* · [`economynextcom`](https://economynext.com/adb-country-chief-hopes-sri-lanka-could-sustain-policy-reforms-despite-elections-152002/) · `en`
-
-ECONOMYNEXT – The Asian Development Bank (ADB) expects Sri Lanka not to reverse its International Monetary Fund-led policy reforms despite elections soon, the ADB Country Director for Sri Lanka Takafumi Kadono said.
-
-The island nation has witnessed repeated reversals of policy reforms in the past due to greedy politicians who misled  the people to vote for them by sowing the seeds of subsidy mentality with unsustainable debts at expensive borrowing costs, economists say.
-
-That led the country into an unprecedented economic crisis in 2022 with a sovereign debt default. Sri Lanka is still struggling to come out of the crisis.
-
-The IMF has strictly placed some reforms including in state sector enterprises, fiscal and monetary sectors.
-
-...
-
-[Data](articles/ef4eb908.json)
-
-[Extended Data](ext_articles/ef4eb908.ext.json)
 
 ---

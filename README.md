@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 22:33:43**
+As of **2024-02-23 22:50:29**
 
 ## Newspaper Stats
 
-*Scraped **8,949** Articles*
+*Scraped **8,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 751
-adaderanalk | 1,071
+adaderanalk | 1,072
 tamilmirrorlk | 1,106
 virakesarilk | 1,220
 adaderanasinhalalk | 1,327
@@ -26,11 +26,31 @@ dailymirrorlk | 1,343
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,948 (100.0%) of 8,949 articles have been extended.
+8,950 (100.0%) of 8,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Pursuing all avenues for repatriation of Sri Lankans trafficked into Myanmar - Foreign Ministry
+
+*2024-02-23 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97487/pursuing-all-avenues-for-repatriation-of-sri-lankans-trafficked-into-myanmar-foreign-ministry) · `en`
+
+The Ministry of Foreign Affairs, in coordination with the Embassy of Sri Lanka in Myanmar continues to make every effort to rescue and repatriate the Sri Lankan nationals who have become victims of human trafficking and are trapped in Myanmar, the ministry said in a statement.
+
+These Sri Lankans have been coerced into various online scams in multiple locations within the Myawaddy area of Myanmar, under the pretext of legitimate job offers in the IT field.
+
+Foreign Minister M.U.M. Ali Sabry took this issue up with the Deputy Prime Minister and Minister of Foreign Affairs of Myanmar, requesting urgent intervention to rescue Sri Lankan nationals, the statement said.
+
+The Embassy of Sri Lanka in Myanmar has also been consistently bringing to the notice of the Myanmar authorities the serious situation of Sri Lankan victims enslaved in cybercriminal activities by traffickers, urging the authorities to take immediate action to rescue the victims from these distressing circumstances.
+
+...
+
+[Data](articles/b814b341.json)
+
+[Extended Data](ext_articles/b814b341.ext.json)
+
+---
 
 ### US to further strengthen defense cooperation with Sri Lanka, donate fourth patrol vessel
 
@@ -52,25 +72,27 @@ They also explored opportunities to deepen defense and maritime cooperation betw
 
 ---
 
-### බෙලිඅත්ත ඝාතනයේ තවත් කතාවක් එළියට
+### Another story in Beliatta's murder out
 
 *2024-02-23 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193750) · `si`
 
-බෙලිඅත්ත පංච පුද්ගල ඝාතනයට ආධාර අනුබල දුන් ඌරගහ මයිකල් සහ බූස්සේ හර්ෂ යන දෙදෙනා සහ වෙඩි තැබීම සිදුකළ බවට සැක කෙරෙන දෙදෙනෙකු ඩුබායිහි දී එරට පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+Police have arrested two persons who were suspected of shooting and shooting of the prick Michael and Boisha Harsha Harsha Harsha Harsha Harsha Harsha Harsha Harsha, who supported the murder of the Beliatta.
 
-ඒහිදී ශ්‍රී ලාංකිකයින් 13 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+Thirteen Sri Lankans have been arrested in the area.
 
-අත්අඩංගුවට පත්වූ 13 දෙනාම බෙලිඅත්ත පංච පුද්ගල ඝාතනය මෙහෙයවූ බවට සැක කෙරෙන කොස්ගොඩ සුජීගේ සමීපතමයින් බව පැවසේ.
+It is said that Kosgoda will be the close associates of the killing of the killing of all 13 persons who were arrested.
 
-වැඩිදුරටත් හෙළිවී ඇත්තේ කොස්ගොඩ සුජී එම පිරිස මුදාගැනීමට මේ වන විට උත්සාහ කරමින් සිටින බවය.
+It is revealed that Kosgoda Sujee is trying to rescue them.
 
-කෙසේ වෙතත් මෙම අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් ඩුබායි රාජ්‍යය තවමත් ලක් රජයට නිල වශයෙන් දැනුම්දීමක් සිදුකර නැත.
+However, Dubai has not yet been officially informed of this arrest.
 
-සැකකරුවන් මෙරටට ගෙන්වාගැනීම සම්බන්ධයෙන් වන ඉදිරි ක්‍රියාමාර්ග පිළිබඳ දෙරටේ ආරක්ෂක අංශ සාකච්ඡා කරමින් සිටින බව වාර්තා වේ.
+It is reported that the two countries are discussing the future action against importing the suspects.
 
 ◼️
 
 [Data](articles/918709aa.json)
+
+[Extended Data](ext_articles/918709aa.ext.json)
 
 ---
 
@@ -2105,23 +2127,5 @@ The Indian fisher folks were shocked to learn that A. Salson (40) of Thangachima
 [Data](articles/9d01c508.json)
 
 [Extended Data](ext_articles/9d01c508.ext.json)
-
----
-
-### U.S. lands unmanned Odysseus spacecraft on moon
-
-*2024-02-23 08:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/U-S-lands-unmanned-Odysseus-spacecraft-on-moon/108-277600) · `en`
-
-An unmanned, robotic lunar lander launched by a private U.S. company landed on the moon Thursday evening.
-
-“We can confirm, without a doubt, that our equipment is on the surface of the moon,” said Stephen Altemus, CEO of Intuitive Machines, the Houston-based company that operated the Odysseus spacecraft. “Welcome to the moon.”
-
-As it approached the surface of the moon, Odysseus lost contact with NASA, resulting in several anxious minutes for those who worked on the joint project. But after approximately 15 minutes of searching, officials confirmed that they were once again receiving signals from the spacecraft.
-
-...
-
-[Data](articles/e56c83fb.json)
-
-[Extended Data](ext_articles/e56c83fb.ext.json)
 
 ---

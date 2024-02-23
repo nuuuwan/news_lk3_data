@@ -1,36 +1,92 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 19:50:10**
+As of **2024-02-23 20:02:30**
 
 ## Newspaper Stats
 
-*Scraped **8,929** Articles*
+*Scraped **8,933** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 92
-bbccomsinhala | 109
+bbccomsinhala | 110
 dbsjeyarajcom | 160
 newsfirstlk | 363
 economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 751
-adaderanalk | 1,068
+adaderanalk | 1,069
 tamilmirrorlk | 1,104
 virakesarilk | 1,214
 adaderanasinhalalk | 1,322
-dailymirrorlk | 1,340
+dailymirrorlk | 1,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,929 (100.0%) of 8,929 articles have been extended.
+8,929 (100.0%) of 8,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Legal action against unauthorized conferment of national awards, honorary titles
+
+*2024-02-23 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97484/legal-action-against-unauthorized-conferment-of-national-awards-honorary-titles) · `en`
+
+Presidential Secretary Saman Ekanayake has directed the respective officials to initiate legal actions against the unauthorized conferment and utilization of national awards and honorary titles.
+
+The Presidential Secretariat said it is actively overseeing instances where individuals and non-governmental entities are bestowing awards, certificates, and titles falsely representing the prestigious national honours granted by the President to distinguished Sri Lankans.
+
+These recognitions are traditionally bestowed through a formal process meticulously evaluated by designated authorities.
+
+Emphasizing the imperative to promptly cease the misappropriation of national award titles by unauthorized entities, the Presidential Secretary underscored the potential for such unauthorized actions to inflict considerable injustice and disrespect upon the genuinely esteemed Sri Lankan recipients of these honours.
+
+...
+
+[Data](articles/976cd12f.json)
+
+---
+
+### ISIS bride Shamima Begum loses bid to regain UK citizenship
+
+*2024-02-23 19:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ISIS-bride-Shamima-Begum-loses-bid-to-regain-UK-citizenship/108-277616) · `en`
+
+Feb 23 - Shamima Begum, the London-born Bangladeshi-origin woman, who fled the UK as a 15-year-old schoolgirl to join the Islamic State (ISIS) terrorist network, on Friday lost yet another legal bid to regain her British citizenship and return to the UK.
+
+The ruling means the 24-year-old must remain in Syria. The government stripped her citizenship on national security grounds in 2019.
+
+Ms Begum left London nine years ago aged 15 to travel to Syria and join Islamic State group, or IS.
+
+The ruling by three appeal judges was unanimous. It could still be challenged in the Supreme Court by Ms Begum.
+
+Her solicitor, Daniel Furner said that her legal team was "not going to stop fighting until she does get justice and until she is safely back home".
+
+However the judges wholly dismissed all of Ms Begum's arguments - a highly significant rejection that could affect her ability to gain a full appeal at the Supreme Court.
+
+...
+
+[Data](articles/39f6c847.json)
+
+---
+
+### Two youths attempting to use fake visas to reach Europe arrested
+
+*2024-02-23 18:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-youths-attempting-to-use-fake-visas-to-reach-Europe-arrested/108-277615) · `en`
+
+Katunayake, Feb 23 (Daily Mirror) - Immigration officers at the Katunayake Airport arrested two Sri Lankan youths attempting to flee to Europe using counterfeit "Greek" tourist visas during the early hours today.
+
+The individuals, identified as a 34-year-old resident of Vavuniya and a 26-year-old resident of Jaffna, were intercepted at the airport's arrival terminal.
+
+The duo intended to board Qatar Airways flight QRR-663 bound for Doha, scheduled to depart at 4:35 AM on February 23. From Doha, their plan involved transiting to Paris, France, and ultimately reaching Munich, Germany.
+
+◼️
+
+[Data](articles/f4d3f8eb.json)
+
+---
 
 ### Plot Irakavan's tribute events initiative
 
@@ -995,6 +1051,28 @@ He said that the patient could only undergo a prescribed drug or laboratory test
 [Data](articles/87206586.json)
 
 [Extended Data](ext_articles/87206586.ext.json)
+
+---
+
+### කච්චතිව්: මංගල්‍යයට හරස්වන ඉන්දු - ලංකා ධීවර ගැටළුව
+
+*2024-02-23 12:33:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p9k80yleyo) · `si`
+
+ශ්‍රී ලංකා සාගර කලාපයට ඇතුළු වී අනවසරයෙන් ධීවර කටයුතුවල නිරත වු ඉන්දීය ධීවරයින් පිරිසක් ශ්‍රී ලංකා නාවික හමුදාව විසින් අත්අඩංගුවට ගැනීමට විරුද්ධව පසුගිය සමයේ දකුණු ඉන්දීය ධීවරයෝ විරෝධතා මාලාවක් දියත් කළහ.
+
+එහිදී ඔවුන් පැවසූවේ  ශ්‍රී ලංකා අත්අඩංගුවේ පසුවන දකුණු ඉන්දීය ධීවරයින් නිදහස් නොකරන්නේ නම් තමන් 2024 කච්චතිව් දේව මංගල්‍යයට සහභාගි වීම වර්ජනය කරන බව ය.
+
+කච්චතිව් දූපත මෙරටට අයත් දූපත් සමූහයට අයත් එක් දූපතක් වන අතර, ශ්‍රී ලංකාවට වඩාත් දුරින්ම පිහිටි දූපත වන්නේද කච්චතිව් දූපතයි.
+
+දකුණු ඉන්දියාවේ රාමේෂ්වරම් නගරයට වඩාත් ආසන්නව කච්චතිව් දූපත පිහිටා ඇති අතර, ඇතැම් අවස්ථාවල රාමේශ්වරන්හි පවතින උසින් වැඩි කුළුනු ශීර්ෂ කච්චතිව් දූපත අවට මුහුදු සීමාවට නිරීක්ෂණය වන බව ධීවරයෝ පවසති.
+
+දකුණු ඉන්දියාවේ රාමේශ්වරම් සිට කච්චතිව් දූපත දක්වා කිලෝමීටර 24 කට ආසන්න දුරක් පවතින අතර, යාපනය සිට කච්චතිව් දූපත දක්වා කිලෝමීටර 63 කට ආසන්න දුරක් පවතින බව ගූගල් සිතියම පෙන්වාදෙයි.
+
+කච්චතිව් දූපත භූමි ප්‍රමාණය අක්කර 280 කට ආසන්න වපසරියකින් යුතු අතර,ඉන්දු ලංකා ධීවරයින්ගේ ධීවර නවතැන්පොළක් ලෙස එකල කච්චතිව් දුපත භාවිත කෙරුණි.
+
+...
+
+[Data](articles/55dfd4b7.json)
 
 ---
 
@@ -1989,91 +2067,5 @@ The 111th Ashadowa Poya Program is a number of programs including Dharma preachi
 [Data](articles/f9de6fe6.json)
 
 [Extended Data](ext_articles/f9de6fe6.ext.json)
-
----
-
-### Evening thundershowers possible in 6 provinces including Western
-
-*2024-02-23 06:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97467/evening-thundershowers-possible-in-6-provinces-including-western) · `en`
-
-Showers or thundershowers will occur at several places in Western, Southern, Sabaragamuwa, Central, North-western and Uva provinces in the evening or at night, the Department of Meteorology says.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and Galle and Matara districts during the morning.
-
-The public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers or thundershowers may occur at a few places in the sea areas extending from Puttalam to Hambantota via Colombo and Galle in the evening or night.
-
-Wind will be variable and wind speed will be 15-25 kmph in the sea areas around the island
-
-Temporarily strong gusty winds and very rough seas can be expected during thundershowers.
-
-◼️
-
-[Data](articles/c2d42b30.json)
-
-[Extended Data](ext_articles/c2d42b30.ext.json)
-
----
-
-### No heatwave threat to Sri Lanka: Met. Dept.
-
-*2024-02-23 06:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-heatwave-threat-to-Sri-Lanka-Met-Dept/108-277596) · `en`
-
-Colombo, Feb 23 (Daily Mirror) - The Department of Meteorology yesterday assured that Sri Lanka is not facing a heatwave threat though it has adviced people in some areas to be vigilant.
-
-"Heat index does not indicate a rise in temperature alone. It actually refers to the level to which the people feel the heat. People feel uncomfortable when their perspiration does not get absorbed by the atmosphere. Perspiration or sweat does not get absorbed by the atmosphere when the humidity level is high," an official attached to the Department of Meteorology said.
-
-"In addition there is a drop in wind flow towards the island. This situation also makes people uncomfortable as they feel the heat," he added.
-
-It was highlighted that the heat index is calculated by taking all these factors into consideration.
-
-...
-
-[Data](articles/a028e942.json)
-
-[Extended Data](ext_articles/a028e942.ext.json)
-
----
-
-### Showers in the evening today
-
-*2024-02-23 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193718) · `si`
-
-Showers, in the evening or night in the Western, Southern, Sabaragamuwa, Central, North Western and Uva provinces today (23) can occur.
-
-The Department of Meteorology issues a latest announcement.
-
-Accordingly, in some places in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts are looking forward to a mist.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/61e0f9e5.json)
-
-[Extended Data](ext_articles/61e0f9e5.ext.json)
-
----
-
-### Massive fire in a series of a series of a series of fire in Valencia, Spain
-
-*2024-02-23 05:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177089) · `ta`
-
-There are fears that a large number of people may have been in their homes following a massive fire in a series of fire in Valencia, Spain.
-
-The fire that spreads in a 14 -storied series in Kampanar is also spread to nearby buildings.
-
-The building has 138 houses and more than 450 people live.
-
-Firefighters have rescued many people, including a couple living in the seventh mud, have rescued many people.
-
-One person living on the second floor of the series said that the fire began to spread rapidly after the first fire broke out in the fourth.
-
-◼️
-
-[Data](articles/741ce541.json)
-
-[Extended Data](ext_articles/741ce541.ext.json)
 
 ---

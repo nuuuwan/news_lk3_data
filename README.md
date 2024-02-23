@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 21:33:07**
+As of **2024-02-23 21:51:43**
 
 ## Newspaper Stats
 
-*Scraped **8,942** Articles*
+*Scraped **8,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 751
 adaderanalk | 1,070
 tamilmirrorlk | 1,106
 virakesarilk | 1,217
-adaderanasinhalalk | 1,324
+adaderanasinhalalk | 1,326
 dailymirrorlk | 1,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,942 (100.0%) of 8,942 articles have been extended.
+8,942 (100.0%) of 8,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### රට සිහින පෙන්වා මුදල් ගැරූ කතක් අත්අඩංගුවට
+
+*2024-02-23 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193749) · `si`
+
+ජපානයේ රැකියා ලබාදෙන බව පවසමින් මුදල් වංචාකර සැ﻿ඟව සිටි කාන්තාවක් මිරිහාන විශේෂ වංචා විමර්ශන ඒකකය විසින් අද (23) අත්අඩංගුවට ගෙන තිබේ.
+
+51 හැවිරිදි සැකකාරිය කඩවත ප්‍රදේශයේ පදිංචිව සිට ඇති අතර ජපානයේ රැකියා ලබාදෙන බව පවසා පුද්ගලයින් 250කට ආසන්න පිරිසකගෙන් රුපියල් කෝටි 100ක් පමණ වංචාකර ඇත.
+
+පසුව ඇය ගනුදෙනුකරුවන් මඟහරිමින් අනුරාධපුර, පුත්තලම, කුරුණෑගල ආදී ප්‍රදේශවල සැඟව සිට ඇති අතර ඇයට එරෙහිව විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ වංචා වැටලීම් ඒකකයට පමණක් පැමිණිලි 180ක් පමණ ලැබී තිබේ.
+
+සැකකාරියට මහර මහෙස්ත්‍රාත් අධිකරණයෙන් වරෙන්තු 36ක් සහ කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයෙන් වරෙන්තු 11ක් නිකුත් කර තිබූණ ද ඇය විවිධ ප්‍රදේශවලට පළා යමින් සැඟව සිටීම නිසා අත්අඩංගුවට ගැනීමට නොහැකිව තිබූ බව පොලීසිය පැවසුවේය.
+
+පසුව සැකකාරිය අත්අඩංගුවට ගෙන ඇත්තේ මීගමුව - හලාවත මාර්ගයේ කුලී නිවසක සැඟව සිටියදීය.
+
+ඇය සමීප සබඳතා පවත්වාගෙන ගිය, රැකියාව අහිමිවූ පොලිස් නිලධාරියෙකුද ඇයට අනුබල දීමේ චෝදනාව යටතේ අත්අඩංගුවට ගෙන ඇත.
+
+සැකකාරිය මාර්තු 07 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/85d8fc91.json)
+
+---
+
+### මියන්මාරයේ ශ්‍රී ලංකා තානාපතිගෙන් ඉල්ලීමක්
+
+*2024-02-23 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193748) · `si`
+
+මියන්මාරයේ ත්‍රස්තවාදීන් යටතේ පාලනය වන සයිබර් අපරාධ කඳවුර වෙත තවත් ශ්‍රී ලාංකිකයින් කණ්ඩායම් දෙකක් පැමිණිමට නියමිතව ඇති බවට තමාට වාර්තා වූ බව මියන්මාරයේ ශ්‍රී ලංකා තානාපති ජානක බණ්ඩාර මහතා පවසයි.
+
+තානාපතිවරයා පවසන්නේ එම කඳවුරේ දැනට රඳවා සිටින ශ්‍රී ලාංකිකයින් මුදාගැනීමට නොහැකි පසුබිමක තවත් කණ්ඩායමක් එම කඳවුරට පැමිණීමෙන් ගැටලුව විසඳීම අසීරු වන බවය.
+
+තම දරුවන් විදෙස්ගත වීමට නියමිත ව ඇති නම්, ඒ ගැන නිවැරදිව සොයා බලා කටයුතු කරන ලෙස මෙරට වැඩිහිටියන්ගෙන් මියන්මාරයේ ශ්‍රී ලංකා තානාපති ජානක බණ්ඩාර මහතා ඉල්ලා සිටියි.
+
+මේ අතර, විදුලි සැර වැද්දවීම, කසයෙන් තැලීම වැනි වධ හිංසා දීම ත්‍රස්තවාදීන් තවත් වැඩිකර ඇති බව ග්‍රහණයේ සිටින ලාංකික‍යෝ පවසති.
+
+◼️
+
+[Data](articles/9f3e91fc.json)
+
+---
 
 ### The person who made money from elderly women, as the relief
 
@@ -2053,47 +2095,5 @@ The public is asked to take adequate precautions to reduce the effects of lightn
 [Data](articles/56a1b136.json)
 
 [Extended Data](ext_articles/56a1b136.ext.json)
-
----
-
-### New company instead of the University Grants Commission
-
-*2024-02-23 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193723) · `si`
-
-State Minister of Higher Education Dr. Surean Saggan Sanghavan says that the new institution has taken the new institution to be activated with the UGC instead of the University Grants Commission.
-
-The State Minister stated that the new Commission was planned to be presented to parliament in the future and was planned to enforce the new Commission.
-
-Minister of Higher Education Dr. Suren Sanghavan made these comments holding a press conference in Colombo.
-
-Speaking to the media after the meeting, Mr. Sunil Handunneththi stated that it has been a situation that has not produced a criterly graduate through the country's university system.
-
-◼️
-
-[Data](articles/be90e19e.json)
-
-[Extended Data](ext_articles/be90e19e.ext.json)
-
----
-
-### Toward you need to save the country then your Saviya today
-
-*2024-02-23 07:55:19* · [`adalk`](https://www.ada.lk/breaking_news/එදා-රට-බේරා-ගන්න-ගිය-විරුවට-අද-ඔබේ-සවිය-අවශ්‍යයි/11-408240) · `si`
-
-An unruly driver was ridiculous in Ratyawa, Matale, Matale.
-
-In the Army, he was traveling from Matale to Colombo while traveling from Matale due to complications of the body, the bus from Matale was traveling from Matale to Colombo and losing his father to her father in an accidentHave been.
-
-P. Mr. G. Gr. Fudshal Thilakawardana, Matale, Ratwela.Residents of the address. The wife of tears indicate that his beloved wife and small daughter, or two months old, and the oldest son, or two months old.
-
-Within one hand, he has begun a garden cultivation as much as he could. That is for consumption of the house. He says that he was carrying out the city and the help of his wife and his daughter, he says that he has made the road to the shops and the shops.
-
-He said that he was suffering in order to succeed his hope. His wife said his husband loses her hand, but no children, including he and their children will be starved.
-
-...
-
-[Data](articles/4d0289cb.json)
-
-[Extended Data](ext_articles/4d0289cb.ext.json)
 
 ---

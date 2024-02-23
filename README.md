@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 11:52:07**
+As of **2024-02-23 12:02:35**
 
 ## Newspaper Stats
 
-*Scraped **8,859** Articles*
+*Scraped **8,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailyftlk | 483
 adalk | 748
 adaderanalk | 1,060
 tamilmirrorlk | 1,098
-virakesarilk | 1,196
-adaderanasinhalalk | 1,306
+virakesarilk | 1,197
+adaderanasinhalalk | 1,308
 dailymirrorlk | 1,324
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,859 (100.0%) of 8,859 articles have been extended.
+8,862 (100.0%) of 8,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Maj
+
+*2024-02-23 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193731) · `si`
+
+Major General Major General Major General A Saraprari Liyanage has joined the reconciliation of the reconciliation.
+
+He has met with Opposition Leader Sajith Premadasa today (23) and has supported the resiry forces.
+
+Opposition Leader Sajith Premadasa has been appointed as the Head of the Anti-Corruption Policy and the Implementation Unit as a consultant on the anti-corruption unit of the Opposition and the opposition leader Sajith Premadasa.
+
+◼️
+
+[Data](articles/c46f3466.json)
+
+[Extended Data](ext_articles/c46f3466.ext.json)
+
+---
+
+### The Secretary of State for Management of the US State Department met the President
+
+*2024-02-23 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177105) · `ta`
+
+There is a meeting between Richard Verma, Deputy Secretary of State for Management and Resources of the US State Department and President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/aa0340c6.json)
+
+[Extended Data](ext_articles/aa0340c6.ext.json)
+
+---
+
+### Richard Werma and President meets President
+
+*2024-02-23 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193730) · `si`
+
+US Deputy Secretary of State for management and resources have been found to President Ranil Wickremesinghe.
+
+The meeting was said that the meeting took place at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/c39bf3f3.json)
+
+[Extended Data](ext_articles/c39bf3f3.ext.json)
+
+---
 
 ### Tanica Business For Savievana Donates a Stories Rs.
 
@@ -1935,59 +1983,5 @@ The bus is severely damaged and the Nanu Oya Police are conducting further inves
 [Data](articles/3c68f476.json)
 
 [Extended Data](ext_articles/3c68f476.ext.json)
-
----
-
-### Relevance of Buddhism in contemporary world
-
-*2024-02-22 19:43:00* · [`islandlk`](http://island.lk/relevance-of-buddhism-in-contemporary-world/) · `en`
-
-Buddhism is a teaching expounded by the Buddha, who lived in northern India between the mid-6th century and mid-4th century BCE. However, there is a disagreement among some scholars as to the exact dates of his birth and death. It is believed that Buddhism has an estimated 500 million followers worldwide today. Many civilisations and countless lives have been shaped by the Buddha’s thinking enunciated in his discourses. What the Buddha expounded for nearly half a century is known as dhamma which is just as pertinent in the contemporary world as it was several centuries ago. In brief, dhamma means reality.
-
-Buddhism has played a central role in spiritual, and cultural social life from its very inception. It has brought immense psychological, and spiritual solace and relief to people who are overwhelmed by immense suffering and challenges in their lives. Moreover, the advent of Buddhism has paved the way for social equality and democratic values.
-
-...
-
-[Data](articles/4da9546f.json)
-
-[Extended Data](ext_articles/4da9546f.ext.json)
-
----
-
-### ‘Welivita Sudda’ arrested with heroin, illegal property seized
-
-*2024-02-22 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97463/welivita-sudda-arrested-with-heroin-illegal-property-seized) · `en`
-
-Kaduwela Police today arrested suspected drug trafficker and organised criminal gang member, Sudath Kithsiri alias ‘Welivita Sudda’.
-
-Police said the suspect was arrested in the Welivita area in Malabe, while in possession of 15 grams and 300 milligrams of heroin.
-
-‘Welivita Sudda’ had been out on bail following a previous arrest for the possession of crystal methamphetamine (Ice) while the Illegal Assets and Property Investigation Division of Sri Lanka Police had launched a probe into him.
-
-Meanwhile, five buses, a car and a motorcycle, which are suspected to be illegally acquired property by the suspect, have been taken into police custody, based on information received by the Kaduwela Police Station.
-
-It has been revealed in the investigation that the property in question had been obtained by the suspect under the name of his cousin brother.
-
-◼️
-
-[Data](articles/a6fc742f.json)
-
-[Extended Data](ext_articles/a6fc742f.ext.json)
-
----
-
-### Cargills collaborates with MAS Foundation for Change to combat plastic pollution
-
-*2024-02-22 19:25:00* · [`islandlk`](http://island.lk/cargills-collaborates-with-mas-foundation-for-change-to-combat-plastic-pollution/) · `en`
-
-Cargills Food and Beverage Limited, along with its brands KIST and KNUCKLES, has taken a significant step forward to address the issue of ocean plastic pollution by installing an Ocean Strainer in collaboration with the MAS Foundation for Change. The Interact Club of Colombo is a key collaborator in this initiative, as part of project ‘Ocean Revival’, which aims to contribute towards reducing plastic pollution in water bodies.
-
-The primary objective of the Ocean Strainer installation is to trap, collect, and remove plastic waste from waterways, minimizing plastic pollution and promoting the responsible recycling of collected materials. By addressing the issue at its source, this project strives to create a positive impact on the environment and remove plastic waste before it enters the ocean.
-
-...
-
-[Data](articles/0014586e.json)
-
-[Extended Data](ext_articles/0014586e.ext.json)
 
 ---

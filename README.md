@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 12:17:28**
+As of **2024-02-23 12:32:57**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 1,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,862 (100.0%) of 8,865 articles have been extended.
+8,865 (100.0%) of 8,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### 1,000 வேன்களையும் கார்களையும் இறக்குமதி செய்ய நடவடிக்கை !
+### Action to import 1,000 vans and cars!
 
 *2024-02-23 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177108) · `ta`
 
-சுற்றுலாத் துறையை ஊக்குவிப்பதற்கு தேவையான வாகனங்களை இறக்குமதி செய்வதற்கு தேவையான பிரேரணைகள் அமைச்சரவையில் சமர்பிக்கப்பட்டுள்ளது.
+The Cabinet has presented the proposals to import vehicles to promote the tourism sector.
 
-அதற்கமைய, சுமார் ஆயிரம் வேன்களையும் கார்களையும் இறக்குமதி செய்ய நடவடிக்கை எடுத்து வருவதாக அவர் தெரிவித்தார்.
+Accordingly, he said that steps are being taken to import about a thousand vans and cars.
 
-குறித்த பிரேரணைக்கு அடுத்த அமைச்சரவைக் கூட்டத்தில் அனுமதி கிடைக்கப்பெறும் என எதிர்பார்ப்பதாக சுற்றுலாத் துறை அமைச்சர் ஹரின் பெர்ணான்டோ மேலும் குறிப்பிட்டார்.
+Tourism Minister Harin Fernando added that the next Cabinet meeting expects permission to get permission at the next Cabinet meeting.
 
 ◼️
 
 [Data](articles/b246ae7e.json)
+
+[Extended Data](ext_articles/b246ae7e.ext.json)
 
 ---
 
@@ -79,6 +81,8 @@ According to a statement from the SJB, Maj. Gen. Liyanage has been appointed as 
 ◼️
 
 [Data](articles/36b5afd5.json)
+
+[Extended Data](ext_articles/36b5afd5.ext.json)
 
 ---
 
@@ -557,6 +561,8 @@ Sri Lanka’s recent blood-soaked history is replete with mass killings and many
 ...
 
 [Data](articles/658178da.json)
+
+[Extended Data](ext_articles/658178da.ext.json)
 
 ---
 

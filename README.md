@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 11:33:19**
+As of **2024-02-23 11:52:07**
 
 ## Newspaper Stats
 
-*Scraped **8,857** Articles*
+*Scraped **8,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 458
 islandlk | 464
 dailyftlk | 483
-adalk | 747
-adaderanalk | 1,059
+adalk | 748
+adaderanalk | 1,060
 tamilmirrorlk | 1,098
 virakesarilk | 1,196
 adaderanasinhalalk | 1,306
@@ -26,27 +26,49 @@ dailymirrorlk | 1,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,855 (100.0%) of 8,857 articles have been extended.
+8,859 (100.0%) of 8,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### දානපති ව්‍යාපාරික ප්‍රේමජීව මහතා හෝමාගම රෝහලට 05 මහල් ගොඩනැගිල්ලක් පරිත්‍යාග කරයි
+### Tanica Business For Savievana Donates a Stories Rs.
 
 *2024-02-23 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193729) · `si`
 
-සිය පෞද්ගලික මුදල්වලින් හෝමාගම මූලික රෝහල සඳහා 05 මහල් ගොඩනැගිල්ලක් පරිත්‍යාග කළ දානපතියෙකු ගැන අද දෙරණ ට වාර්තා විය.
+In Derana, a philosophy was a pipel of a factory for a 5 storied building for his personal money.
 
-කොට්ටාව ප්‍රදේශයේ දානපති ව්‍යාපාරිකයෙකු වන බී.ඒ.පී. ප්‍රේමජීව මහතා රුපියල් කෝටි 10කට ආසන්න පෞද්ගලික මුදලින් ඊයේ (22) මෙම පරිත්‍යාගය සිදුකර තිබුණි.
+BAP, a primary delegation in Kottawa. Mr. Premajeewa had made this donation yesterday (22).
 
-ප්‍රේමා මෙටල් අධිපති ප්‍රේමජීව මහතා විසින් මෙලෙස පරිත්‍යාග කළ පස් මහල් ගොඩනැගිල්ලේ අංග සම්පූර්ණ හදිසි ප්‍රතිකාර ඒකකයක්, මූලික ප්‍රතිකාර ඒකකය, ශල්‍යාගාරය සහ ගෙවන වාට්ටු ඇතුලත් වෙයි.
+The five-storey building donated by Mr. Prema Metal Governor, Premium and basic treatment unit, basement, and paid wards.
 
-2016 වසරේදී වැඩ ආරම්භ කළ මෙම ගොඩනැගිල්ලේ ඉදිකිරීම් සඳහා අවසර ලබාගැනීමට වසර දෙකකට ආසන්න කාලයක් ගතවූ බැවින් මෙම උත්සවය සඳහා කිසිදු දේශපාලනඥයෙකුට ආරාධනා කර නොතිබීම විශේෂත්වයකි.
+The construction work was started in 2016, so that no politician had been invited to the event.
 
 ◼️
 
 [Data](articles/8118fd99.json)
+
+[Extended Data](ext_articles/8118fd99.ext.json)
+
+---
+
+### U.S. Deputy Secretary of State calls on President Ranil
+
+*2024-02-23 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97475/us-deputy-secretary-of-state-calls-on-president-ranil) · `en`
+
+U.S. Deputy Secretary of State for Management and Resources Richard R. Verma, who is in Sri Lanka on an official visit, called on President Ranil Wickremesinghe this morning (Feb.23).
+
+The Deputy Secretary’s meetings with senior officials in Colombo is expected to support U.S.-Sri Lanka defense and maritime security cooperation.
+
+During his stay, Verma is slated to visit the Colombo Port’s West Container Terminal, where the U.S. is supporting Sri Lanka’s ongoing economic recovery through USD 553 million in financing to transform Colombo into a regional shipping hub.
+
+He will also meet with civil society leaders to hear their perspective on democratic governance in Sri Lanka and with government officials to voice the support of the U.S. for the protection of free speech and open discourse.
+
+...
+
+[Data](articles/629f2fb3.json)
+
+[Extended Data](ext_articles/629f2fb3.ext.json)
 
 ---
 
@@ -218,6 +240,8 @@ Religious observances at Bellanwila People gathered at the Bellanwila Raja Maha 
 
 [Data](articles/0d179406.json)
 
+[Extended Data](ext_articles/0d179406.ext.json)
+
 ---
 
 ### Explanation on providing land deeds
@@ -355,6 +379,24 @@ However, there are reports about some Sri Lankan workers expressing dissatisfact
 [Data](articles/0efac5d6.json)
 
 [Extended Data](ext_articles/0efac5d6.ext.json)
+
+---
+
+### People's beneficiaries go further
+
+*2024-02-23 08:10:54* · [`adalk`](https://www.ada.lk/breaking_news/අනුරට-ජනතා-හිතකරත්ව-තවදුරටත්-ඉහළට/11-408241) · `si`
+
+The new survey of Health Policy Agency has revealed that the leader of the national popularity in January 2024 is a decline that the beneficiary rating of the people of the other party leaders.
+
+However, in January, the fisheries rating of the people will continue to be a negative rating.
+
+The overall reliable rating of the National Guaranteed / JVP Anura Kumara Dissanayake has increased by 12 runs and reaches negative 10. Sajith Premadasa, leader of the Sihily Power and Ranil Wickremesinghe has fallen by 9 runs. Accordingly, both of them are 53 and 77 respectively.
+
+◼️
+
+[Data](articles/67f1e2cf.json)
+
+[Extended Data](ext_articles/67f1e2cf.ext.json)
 
 ---
 
@@ -1947,35 +1989,5 @@ The primary objective of the Ocean Strainer installation is to trap, collect, an
 [Data](articles/0014586e.json)
 
 [Extended Data](ext_articles/0014586e.ext.json)
-
----
-
-### An exclusive webinar to explain the research methodology behind SLIM-KANTAR People’s Awards 2024
-
-*2024-02-22 19:25:00* · [`islandlk`](http://island.lk/an-exclusive-webinar-to-explain-the-research-methodology-behind-slim-kantar-peoples-awards-2024/) · `en`
-
-Sri Lanka Institute of Marketing proudly announces the upcoming SLIM-KANTAR People’s Awards – 2024, a highly anticipated event renowned in the Sri Lankan corporate landscape and masses. Kantar, a global leader in marketing research, has played a crucial role as the esteemed research partner for the SLIM-KANTAR People’s Awards since 2022. These awards, hosted by SLIM, signify a transformational approach to positioning the SLIM KANTAR People’s Awards, fostering top-of-mind awareness of brands and personalities close to the hearts of Sri Lankans.
-
-...
-
-[Data](articles/ea5f4233.json)
-
-[Extended Data](ext_articles/ea5f4233.ext.json)
-
----
-
-### "I am the next president"
-
-*2024-02-22 19:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-ஜனாதிபதியாகுவதற்கு-பொருத்தமானவர்-நானே/175-333684) · `ta`
-
-Opposition MP Kumara Welgama said he was the most appropriate person to become the next president and that he was ready to contest if he was called.
-
-He also said that former President Maithripala Sirisena is only the leader of the coalition and is deducting to form a new coalition.
-
-◼️
-
-[Data](articles/9238c23d.json)
-
-[Extended Data](ext_articles/9238c23d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 07:53:13**
+As of **2024-02-23 08:02:32**
 
 ## Newspaper Stats
 
-*Scraped **8,818** Articles*
+*Scraped **8,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 744
 adaderanalk | 1,055
 tamilmirrorlk | 1,094
 virakesarilk | 1,190
-adaderanasinhalalk | 1,296
+adaderanasinhalalk | 1,298
 dailymirrorlk | 1,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,818 (100.0%) of 8,818 articles have been extended.
+8,818 (100.0%) of 8,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### දරුවන් 1500ක් පමණ බන්ධනාගාරවල
+
+*2024-02-23 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193721) · `si`
+
+බන්ධනාගාරගතව සිටින පිරිස්වලින් සියයට 65ක ප්‍රතිශතයක් මත්ද්‍රව්‍ය සම්බන්ධ වැරදිවලට චෝදනා ලැබුවන් බව බන්ධනාගාර කොමසාරිස් ජගත් චන්දන වීරසිංහ මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කළේ මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් දරුවන් 1000ත් 1500ත් අතර පිරිසක් බන්ධනාගාරගතව සිටින බවය.
+
+ගාල්ල නාගොඩ ප්‍රදේශයේ පාසලක පැවැති උත්සවයකට එක්වෙමින් බන්ධනාගාර කොමසාරිස් ජගත් චන්දන වීරසිංහ මහතා මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/dfe12145.json)
+
+---
+
+### ඇල්ල කඳුවැටියෙන් වැටී පුද්ගලයෙකු මරුට
+
+*2024-02-23 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193720) · `si`
+
+ඇල්ල ප්‍රදේශයේ සංචාරය කළ පුද්ගලයෙකු ඊයේ (22) රාත්‍රියේ අවාසනාවන්ත අනතුරකට මුහුණදී ජීවිතක්ෂයට පත්වී තිබේ.
+
+පොලීසිය සඳහන් කළේ ඊයේ උදෑසන මිතුරෙකු සමග ඇල්ල කඳුවැටියට නැග සවස් කාලයේදී ඉන් බැසීමට ගිය පුද්ගලයෙකු ප්‍රපාතයකට ඇදවැටී මෙලෙස මියගොස් ඇති බවය.
+
+මෙලෙස රාවනා ඇල්ල ප්‍රදේශයෙන් ඇද වැටුණු පුද්ගලයාව වැල්ලවාය රෝහලට ඇතුළත් කිරීමට පියවර ගෙන තිබුණත් ඔහු මියගොස් තිබූ බව පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b0997ef1.json)
+
+---
 
 ### Foods that are not inappropriate for human consumption
 
@@ -1929,51 +1961,5 @@ Therefore, it is advised to wear a pale thin clothing to avoid unnecessary walki
 [Data](articles/ed266ebb.json)
 
 [Extended Data](ext_articles/ed266ebb.ext.json)
-
----
-
-### Opposition to Ramadan Food Ceremony
-
-*2024-02-22 16:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரமலான்-உணவு-விழாவுக்கு-எதிர்ப்பு/175-333674) · `ta`
-
-Since the Ramadan fasting season begins on March 12 this year, arrangements are being made for the Food Festival in Bangalore.. In this case, the Brazer Town Resident Welfare Association has protested the food festival. 3,500 people signed on behalf of the association.. They have filed a petition with Srinivasa.
-
-They said in their petition: “Heavy traffic congestion in Brazer Town for 40 days due to the Ramadan Food Festival. Thus, those who go to work are severely affected. A cylinder exploded at a shop at last year's food festival. The patient's ambulance was unable to arrive to rescue the injured.
-
-Ramraj Food Festival causes garbage, smoke and waste water. Meat foods here are cooked and sold in the impure. People who eat it become ill health. So the Ramadan Food Festival should not be held in Brazer Town. ”As said.
-
-◼️
-
-[Data](articles/92c6f063.json)
-
-[Extended Data](ext_articles/92c6f063.ext.json)
-
----
-
-### Indian Fisheries Attakasam
-
-*2024-02-22 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177047) · `ta`
-
-More than ten Indian drainage boats have been cut off the Vadamarachchi East Valley Sea on Thursday (22).
-
-Four boats that went to fishing today to fish in the shore were carrying out their valuables.
-
-The furious fishermen immediately returned to shore with the push nets for the safety of the Indian trawling boats.
-
-The two boats were simply returning to shore without any nets, as there were no nets belonging to the two boats.
-
-Most of the fishermen, with a few nets, returned to the shore and appealed to the fishermen's association.
-
-The fisherman who has been affected by the Indian drag boats
-
-Last year, when the Indian drag boats were cut off the nets worth four lakhs of rupees belonging to me, I was very hard to live.
-
-The fisherman expressed concern that the two Tamil parties had cheated the two Tamil parties after the letter was handed over to the Divisional Secretary of the Vadamarachchi East East Maruthankanei demanding compensation.
-
-...
-
-[Data](articles/1827dca3.json)
-
-[Extended Data](ext_articles/1827dca3.ext.json)
 
 ---

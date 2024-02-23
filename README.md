@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 15:17:35**
+As of **2024-02-23 15:33:02**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 1,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,894 (100.0%) of 8,898 articles have been extended.
+8,898 (100.0%) of 8,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### ස්පාඤ්ඤයේ තට්ටු නිවාස සංකීර්ණයක බිහිසුණු ගින්නක්
+### A horrible fire in a flat complex in Spain
 
 *2024-02-23 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193738) · `si`
 
-ස්පාඤ්ඤයේ වැලෙන්සියා නගරයේ පිහිටි තට්ටු නිවාස සංකීර්ණයක බිහිසුණු ගින්නක් හටගෙන තිබේ.
+A horrific fire has erupted at a flat complex in Valencia, Spain.
 
-එම තට්ටු නිවාස සංකීර්ණයේ 450ක් පමණ පිරිසක් ජීවත්වන බව එරට මාධ්‍ය වාර්තා සඳහන් කරයි.
+About 450 people live in the shop complex living in the country.
 
-වැලෙන්සියා බලධාරීන් පවසන්නේ මේ වනවිට එම ගින්න හේතුවෙන් සිව්දෙනෙකු මියගොස් ඇති බවත් 14 දෙනෙකු තුවාල ලබා ඇති බවත් ය.
+Valencia authorities say that four have died due to the fire and 14 were injured.
 
-එසේම තවත් පිරිසක් පිළිබඳ තොරතුරු මෙතෙක් තහවුරු වී නොමැති බවද ඔවුන් පැවසීය.
+They also said that information about others has not yet been confirmed.
 
 ◼️
 
 [Data](articles/3088a68e.json)
+
+[Extended Data](ext_articles/3088a68e.ext.json)
 
 ---
 
@@ -72,25 +74,27 @@ Therefore, the name 'spa' has to be changed and they should not be allowed to us
 
 ---
 
-### බළලා මැරුණාට අසල්වාසීන් ගුටි කෙළියක
+### Neighbors' beat to death
 
 *2024-02-23 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193737) · `si`
 
-නිවසක සුරතලයට ඇතිකළ බළලෙකු අසල්වැසි නිවසේ ලොරි රථයට යටවී මියයාමේ සිද්ධියක් මුල්කරගනිමින් අතුරුගිරිය ප්‍රදේශයේ දෙපිරිසක් අතර ඊයේ (22) රාත්‍රියේ ගැටුමක් ඇතිවී තිබේ.
+A cat in the neighboring house, a cat that had caused a house from the neighboring house, had clashed at the Athurugiriya last night (22).
 
-ප්‍රදේශවාසීන් පවසන්නේ, ලොරි රථයකින් කඩු රැගෙන පැමිණි පිරිසක් නිවසකට අලාභහානි සිදුකර ඇති අතර පහරදීමෙන් අසල්වැසි නිවසක පුද්ගලයෙකුට ද තුවාල සිදු වූ බවය.
+Residents say a group of swords carried out by a lorry.
 
-ඊයේ රාත්‍රී 8ට පමණ  අතුරුගිරිය - බක්මීගහ පාර ප්‍රදේශයේ දී මෙම දෙපිරිසක් අතර බහින්බස්වීමක් ඇතිවී ඇති අතර එය දුරදිගයාමෙන් මෙම ගැටුමක් සිදුවී තිබුණි.
+A blown in Bakmigaha road around 8 pm last night, there was a heated argument in the Bakmigaha Road area last night and was in progress.
 
-නිවෙස්හිමි කාන්තාව පැවසුවේ අසල්වැසි නිවසේ සිටින කුඩා දරුවෙකු විසින් සිය නිවසේ හුරතලයට ඇති කරන බළලාව ඔහුගේ නිවසට රැගෙන ගොස් ඇති බවත් එම අවස්ථාවේදී ඔවුන්ගේ ලොරි රථයට යටවී බළලා ගිය ගොස් සිටි බවත්ය.
+The home woman said that the host of the neighboring house was taken to his home, and that the cat had gone to their lorry.
 
-සිය සුරතල් බළලා මියායාම සම්බන්ධයෙන් තමන් දෝෂාරෝපනය කළ අතර ඉන් පසුව අදාළ පිරිස පැමිණ මෙම පහරදීම සිදුකළ බව නිවෙස්හිමි කාන්තාව වැඩදුරටත් පැවසීය.
+They were bugging about the death of their pet cat, and then the assault had then assaulted the attack.
 
-සිද්ධිය සම්බන්ධයෙන් දෙපාර්ශ්වයම අතුරුගිරිය පොලීසියට සිදුකර ඇති පැමිණිලි මත වැඩිදුර පරීක්ෂණ ආරම්භ කර තිබේ.
+Further investigations have been launched on complaints made by the Athurugiriya Police regarding the incident.
 
 ◼️
 
 [Data](articles/fc80b88a.json)
+
+[Extended Data](ext_articles/fc80b88a.ext.json)
 
 ---
 
@@ -366,21 +370,25 @@ Accordingly, 9 crore eggs are to be imported, the secretary added.
 
 ---
 
-### பௌர்ணமி பொங்கலை தடுத்து நிறுத்திய பொலிஸார்
+### Police stopped Pongal
 
 *2024-02-23 12:51:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/பௌர்ணமி-பொங்கலை-தடுத்து-நிறுத்திய-பொலிஸார்/75-333709) · `ta`
 
-திருகோணமலை - தென்னைமரவாடி மக்களால் ஒழுங்கு செய்யப்பட்டிருந்த கந்தசாமி மலை முருகன் ஆலயத்தின் மாதாந்த பௌர்ணமி தின பொங்கல் நிகழ்வினை இன்று (23) தடுத்து நிறுத்தியதாக தெரிய வந்துள்ளது.
+It has been reported that the monthly full moon day of the Kandaswamy Hill Murugan Temple, which was organized by the people of the Trincomalee - Coconut people, has been stopped today (23).
 
-மாதாந்தம் பௌர்ணமி தினத்தன்று தென்னமரவாடி கிராம மக்களால் நடத்தப்படும் பொங்கல் விழா வழமை போன்று இன்றைய தினமும் ஒழுங்குபடுத்தப்பட்டிருந்தது.
+The Pongal Festival held by the villagers of Thennamaravadi on the full moon day of the month was organized today.
 
-இப்பொங்கல் விழாவிற்கு கிராம மக்கள் மற்றும்  திருகோணமலை மாவட்டத்தின் பல பிரதேசங்களிலிருந்து பக்தர்கள் உட்பட சிவில் அமைப்புக்களைச் சேர்ந்தவர்கள்  கலந்து கொண்டனர்.
+The festival was attended by the villagers and members of civil organizations, including pilgrims from several parts of the Trincomalee district.
 
-இச்சந்தர்ப்பத்தில் இக்கிராம மக்களால் பொங்கலுக்கான ஏற்பாடுகள் இடம்பெற்றுக்கொண்டிருந்த வேளையில் ஆலய வளாகத்திற்குள் திடீரென நுழைந்த 100க்கு மேற்பட்ட பொலிஸார் மற்றும் விசேட அதிரடி படையினர் ஆயுதங்களுடன் வருகை தந்து அப்பிரதேசத்திலிருந்த கிராம மக்களையும் வெளி பிரதேசத்திலிருந்து வருகை தந்த மக்களையும் விரட்டினர்.
+While the arrangements were being made by the people of the village on this occasion, more than 100 police and Special Task Force personnel who had suddenly entered the temple premises with weapons and chased away the villagers from the area and the people from the outside.
+
+Mr. Civil activist who attended the event.. Lavakusarasa and the activists who were accompanied by him had been dismissed from the court and stopped the Pongal and the people of Akirama were evacuated and the village situation was tense.
 
 ...
 
 [Data](articles/eb77e239.json)
+
+[Extended Data](ext_articles/eb77e239.ext.json)
 
 ---
 
@@ -1042,21 +1050,27 @@ As it approached the surface of the moon, Odysseus lost contact with NASA, resul
 
 ---
 
-### කොක්කුතුඩුවායි සමූහ මිනිවළ: 1994 - 1996 කාලයට අයත්
+### Kokkuthunu Agrate: 1994 - 1996
 
 *2024-02-23 08:32:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czq4z3xe407o) · `si`
 
-කොක්කුතුඩුවායි සමූහ මිනිවළ 1994 - 1996 දක්වා කාලයට අයත්විය හැකි බවට සමූහ මිනිවළ සම්බන්ධයෙන් කැනීම් කටයුතුවලට එක්වු පුරාවිද්‍යා නිලධාරීන් නිගමනය කරන බවට මුලතිව් මහේස්ත්‍රාත් අධිකරණයට වාර්තාවක් මඟින් දන්වා ඇතැයි, මුලතිව් දිස්ත්‍රික් රෝහලේ විශේෂඥ අධිකරණ වෛද්‍ය නිලධාරි කනකසභාපති වාසුදේව පවසයි.
+A report to the Mullaitivu District Secretary of the Mullaitivu District Secretary of the Mullaitivu District Hospital, the Mullaitivu District Secretary of the Mullaitivu District Court has decided to conclude that the Kokkuthupuwara and Group Ministers can belong to the date of excavation from the Group Ministers 1994.
 
-මුලතිව් කොක්කුතුඩුවායි සමූහ මිනිවළ කැනීම සම්බන්ධයෙන් මේ දක්වා තත්ත්වය සම්බන්ධයෙන් විශේෂඥ කමිටු වාර්තාව (පෙබරවාරි 22වැනිදා)  මුලතිව් මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරුණු අතර, අනතුරුව මාධ්‍ය වෙත අදහස් පළ කරමින් කනකසභාපති වාසුදේව එලෙස පැවසුවේය.
+Mullaittivu was produced before the Mullaitivu Kokkuthudunuwela Group mass grave (February 22), saying:
 
-කොක්කුතුඩුවායි සමූහ මිනිවළ සම්බන්ධයෙන් මේ දක්වා කැනීම් කටයුතු, කැනීම්වලීන් ලබාගත් දෑ, කැනීම් නැවත ආරම්භ කිරීම සම්බන්ධයෙන් වන වාර්තාවක් කැනීම් කමිටුව විසින් මුලතිව් මහේස්ත්‍රාත් ධර්මලිංගම් ප්‍රදීපන් වෙත ඉදිරිපත් කොට තිබුණි.
+Mullaitivu Magistrate Dharmalingam was presented to Pradeepanam, a report on the Kokkuthudunuwela Group mass Ministers.
 
-සමූහ මිනිවළ නැවත කැනීම මාර්තු මස 4 වැනිදා යළි ආරම්භ කිරීමට නියමිත අතර,කැනීම් කටයුතු වෙනුවෙන් මුල්‍ය ප්‍රතිපාදන ලබා ගැනීම ගැටළුවක් වී ඇති බව අතුරුදන්වූවන්ගේ ඥාතීහූ විසින් සඳහන් කරනු ලැබූහ.
+The graduation of the mass mini is to be resumed on March 4, and the relatives of the disappeared have been referred to the availability of funds for exviation.
+
+Kokkuthudui and third phase of the third phase. 40 bone categories raises 40 parts
+
+A group of water supply board employees had a number of human bone parts on June 29, 2023.
 
 ...
 
 [Data](articles/f5182a4c.json)
+
+[Extended Data](ext_articles/f5182a4c.ext.json)
 
 ---
 

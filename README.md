@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 18:19:59**
+As of **2024-02-23 18:33:12**
 
 ## Newspaper Stats
 
-*Scraped **8,922** Articles*
+*Scraped **8,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 751
 adaderanalk | 1,066
 tamilmirrorlk | 1,104
 virakesarilk | 1,213
-adaderanasinhalalk | 1,320
-dailymirrorlk | 1,338
+adaderanasinhalalk | 1,321
+dailymirrorlk | 1,339
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,922 (100.0%) of 8,922 articles have been extended.
+8,922 (100.0%) of 8,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### කහතුඩුව - රිලාවල දී දරුණු රිය අනතුරක්
+
+*2024-02-23 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193744) · `si`
+
+කහතුඩුව - රිලාවල ප්‍රදේශයේ දී අද (23) පස්වරුවේ යතුරුපැදියක් සහ මෝටර් රථයක් එකිනෙක ගැටීමෙන් සිදු වූ අනතුරකින් පුද්ගලයකු බරපතළ තුවාල ලබා තිබේ.
+
+කහතුඩුව පොලීසිය පැවසුවේ, තුවාලකරු මේ වන විට වෑතර දිසාරෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටින බවයි.
+
+කහතුඩුව දෙස සිට පැමිණි යතුරු පැදියක් හොරණ - කොළඹ මාර්ගයේ මත්තෙගොඩ දෙසට හැරවීමේ දී කොළඹ සිට පැමිණි මෝටර් රථයක ගැටී මෙම අනතුර සිදු ව තිබේ.
+
+යතුරුපැදිකරුගේ සහ මෝටර් රථ රියදුරුගේ අපරීක්ෂාකාරී රිය ධාවනය අනතුරට හේතුව බව පොලීසිය සිදු කළ විමර්ශනවල දී හෙළි වී ඇත.
+
+◼️
+
+[Data](articles/dfff2cff.json)
+
+---
+
+### Sri Lanka will not jeopardise India’s security concerns: State Minister
+
+*2024-02-23 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-will-not-jeopardise-Indias-security-concerns-State-Minister/108-277614) · `en`
+
+Feb 23 - State Minister of Foreign Affairs Tharaka Balasuriya has assured India that the island will not be used by another country jeopardising India’s security concerns.
+
+The Minister made these comments speaking to Indian media on the sidelines of the 9th edition of Raisina Dialogue in Delhi, responding to questions about a Chinese vessel docking in the Maldives waters on Friday.
+
+"India should not be worried about the security concern. We know India’s growing stature and we will not be used by any third party or country to jeopardize India’s security. So through honest and candid exchange of views, we can overcome any problem," Balasuriya said.
+
+Assuring New Delhi on security concerns, he said: "We are open for business with any country. But when it comes to India we have a special relationship. I think India should not be worried about our relationship with China. It’s not only with China, we have good relations with Western countries, the US, Russia, and the Middle East.”
+
+◼️
+
+[Data](articles/f1525b71.json)
+
+---
 
 ### Sri Lanka does not have the greatest political aspirations of all countries to trade with all countries
 
@@ -2025,55 +2061,5 @@ Meanwhile, Rameswaram - Werkod Stockbrobbing Sandyaku announced yesterday that n
 [Data](articles/b8daf690.json)
 
 [Extended Data](ext_articles/b8daf690.ext.json)
-
----
-
-### Tamil Nadu fishermen released on condition
-
-*2024-02-23 03:47:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-நிபந்தனையுடன்-விடுதலை/175-333698) · `ta`
-
-18 Tamil Nadu fishermen arrested on the 8th of this month have been released for allegedly fishing.
-
-A boat pasted by fishermen has been nationalized.A sailor has been sentenced to 6 months in prison.
-
-19 Tamil Nadu fishermen were arrested by the Navy while fishing with two boats on the Neduntivu seas.
-
-Jaffna fishermen handed over by Navy. Officials of the District Fisheries and Aquatic Resources Department were produced at the Kayts Court.
-
-When the case was taken up for hearing in the presence of Magistrate J. Gajanidipalan yesterday, the chargesheet was filed against 19 fishermen.
-
-Since the owner of a boat was on the crime, the boat was ruled by the magistrate. The other boat's sailboat GPS. The magistrate ordered him to be sentenced to six months in prison for the use of the tool.
-
-The other 18 fishermen were released on the basis of the 18 -month prison postponed for 5 years.(a)
-
-◼️
-
-[Data](articles/deb5aad4.json)
-
-[Extended Data](ext_articles/deb5aad4.ext.json)
-
----
-
-### Negombo Capacity Land: Why Do Archbishop and Fishermen Contrary?
-
-*2024-02-23 02:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177088) · `ta`
-
-There have been contradictions between the Fishermen's Association and the Catholic Church of Sri Lanka regarding the license of the fishing landing in Negombo, which has been in use for more than six decades.
-
-A demonstration was held early this week (February 19) in front of the Archbishop's House in Colombo demanding that the administration of the Negombo - Pittipana landing department be given to them.
-
-The demonstration was carried out as the Negombo District Court issued an interim injunction in the 2008 case of the administrative rights of the landing department.
-
-The Negombo District Court has issued an interim order after a long hearing as the case is still pending in court.
-
-Representatives of the Holy Pope in Colombo handed over a Major with their problems and protested in front of the Archbishop's house.
-
-In 2008, the then Archbishop of Colombo, Osult Comes, filed a case against the United Fishermen's Association for violating the conditions for managing the landing.
-
-...
-
-[Data](articles/da3fc4db.json)
-
-[Extended Data](ext_articles/da3fc4db.ext.json)
 
 ---

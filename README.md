@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 14:17:24**
+As of **2024-02-23 14:32:56**
 
 ## Newspaper Stats
 
-*Scraped **8,883** Articles*
+*Scraped **8,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,56 +19,78 @@ adalk | 750
 adaderanalk | 1,061
 tamilmirrorlk | 1,100
 virakesarilk | 1,203
-adaderanasinhalalk | 1,312
+adaderanasinhalalk | 1,313
 dailymirrorlk | 1,329
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,881 (100.0%) of 8,883 articles have been extended.
+8,883 (100.0%) of 8,884 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### රට පුරා ව්‍යාජ වෛද්‍යවරුන් 50,000ක්
+### මියන්මාර මිනිස් ජාවාරමට තවත් ශ්‍රී ලාංකිකයෙක් රැගෙන එයි
+
+*2024-02-23 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193736) · `si`
+
+සංචාරක වීසා මත තායිලන්තයට ගොස් එහි දේශසීමාව හරහා මියන්මාරයට ඇතුළුවූ ශ්‍රී ලාංකිකයින් 25කට වැඩි පිරිසක් එරට ත්‍රස්තවාදී සංවිධානයක් විසින් සිය ග්‍රහණයට ගෙන ඇති බව අප පසුගිය මාස කිහිපය තුළ වාර්තා කළේය.
+
+එම පිරිස මියන්මාරයේ ත්‍රස්ත කඳවුරක් තුළ බලහත්කාරයෙන් රඳවාගෙන සයිබර් වහලුන් ලෙස සේවය ලබාගන්නා බව අනාවරණය වුණි.
+
+එවැනි පසුබිමක් තුළ තවත් ශ්‍රී ලාංකිකයෙක් එම සයිබර් වහල් කඳවුර වෙත රැගෙන ගොස් ඇති අතර එම ශ්‍රී ලාංකිකයා මියන්මාරයේ ත්‍රස්තවාදින් රැගෙන යන අයුරු වීඩියෝ කර තිබුණි.
+
+ඔහු තොරතුරු අනාවරණය කර ඇති පරිදි ඉදිරියේදී තවත් 15 දෙනෙකුගෙන් යුත් කණ්ඩායමක් අදාළ කඳවුර වෙත රැගෙන ඒමට ද නියමිතය.
+
+◼️
+
+[Data](articles/72dff205.json)
+
+---
+
+### 50,000 fake doctors across the country
 
 *2024-02-23 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193735) · `si`
 
-රට පුරා ව්‍යාජ වෛද්‍යවරුන් 50,000ක් පමණ සිටින බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+There are about 50,000 fake doctors across the country, says the Government Medical Officers Association (GMOA).
 
-කොළඹදී ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් එම සංගමය සඳහන් කළේ, එය නියාමනය කිරීම සඳහා සෞඛ්‍ය අමාත්‍යාංශය කිසිඳු පියවරක් ගෙන නොමැති බවය.
+The association said that a press conference in Colombo was conducting further action to regulate it.
 
-එහිදී අදහස් දැක්වූ රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ නියෝජ්‍ය ලේකම් වෛද්‍ය ප්‍රසාද් හේරත් මහතා පැවසුවේ සෑම නගරයකම ප්‍රධාන ගම් ආශ්‍රිතව, ආසන්න වශයෙන් ව්‍යාජ වෛද්‍යවරුන් තුන් හතරදෙනෙකු පමණ සිටින බවය.
+Deputy Secretary of the Government Medical Officers' Association Dr. Prasad Herath said that there were about three four fake doctors in all the main villages in every town.
 
-රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ වෛද්‍ය ප්‍රභාත් සුගතදාස මහතා පැවසුවේ ඇතැම් ඖෂධ වෙළෙඳසැල්වල ක්‍රියාකාරීත්ව ද සෞඛ්‍ය ක්ෂේත්‍රයට විශාල තර්ජනයක් එල්ල කරන බවය.
+The Government Medical Office Association Dr. Prabatha Sugathadasa said the functions of certain pharmaceutical shops are a major threat to the health sector.
 
-වෛද්‍ය නිර්දේශයක් නොමැතිව රෝග ලක්ෂණ අනුව ඖෂධ වෙළෙඳසැල්වල පිරිස විසින් රෝගීන් ට ඖෂධ ලබාදීම හේතුවෙන් රෝගීන් මරණයට පවා ලක්විය හැකි බව වෛද්‍යවරයා පෙන්වා දෙයි.
+The doctor points out that the patients may even kill patients by the symptoms without a medical recommendation.
 
-මේ හේතුවෙන් නිසි නියාමනයක් වහාම සිදුකර යුතු බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය වැඩිදුරටත් අවධාරණය කරයි.
+The Government Medical Officers' Association further emphasizes that due to proper regulation should be carried out immediately.
 
 ◼️
 
 [Data](articles/d9438a5d.json)
 
+[Extended Data](ext_articles/d9438a5d.ext.json)
+
 ---
 
-### අනීතික සම්මාන සහ ගෞරව නාමවලට වැට බැඳෙයි
+### Balanced to invalidity and honorary
 
 *2024-02-23 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193734) · `si`
 
-නීත්‍යනුකූල නොවන ආකාරයට ජාතික සම්මාන සහ ගෞරව නාම පුද්ගලයන් වෙත ලබාදීම හා එලෙස ගෞරව නාම ලබාගැනීමට එරෙහිව නීත්‍යනුකූල පියවර ගන්නා ලෙස ජනාධිපති ලේකම් සමන් ඒකනායක මහතා අදාළ විෂය පිළිබඳ කටයුතු කරන රාජ්‍ය නිලධාරින්ට උපදෙස් දී තිබේ.
+The Secretary to the President Saman Ekanayake has instructed the public officials of the subject to take legal action against the national awards and honorary registers.
 
-එක් එක් නිශ්චිත නිර්නායක පදනම් කරගනිමින් විධිමත් ක්‍රමවේදයකට අනුව තෝරාගනු ලබන සුවිශේෂ ශ්‍රී ලාංකික පුරවැසියන් වෙත ජනාධිපතිවරයා විසින් පිරිනමනු ලබන ජාතික සම්මාන හා ගෞරව නාම සඳහා යොදාගන්නා නාමයන් භාවිත කරමින් විවිධ පුද්ගලයන් සහ රාජ්‍ය නොවන සංවිධාන මගින් සම්මාන, සන්නස් පත්‍ර හා සහතික ලබා දෙන අවස්ථා නිරීක්ෂණයට ලක්ව ඇති බව සඳහන් ය.
+It is observed by various individuals and NGOs using the names of the National Awards and NGOs, which are used by the President and NGOs to the special procedures, based on each specific criteria.Said.
 
-මෙවැනි ආකාරයේ අසංවිධිත සම්මාන ප්‍රදානයන් මගින් මේ දක්වා ගෞරව ප්‍රණාමයට පත් සුවිශේෂ ශ්‍රී ලාංකිකයන් හට දැඩි අසාධාරණයක් හා අගෞරවයක් සිදු වන බව ජනාධිපති ලේකම්වරයා පෙන්වා දී ඇත.
+The Presidential Secretary has pointed out that the uniformed awards such as the unsorganized awards have been treated in honorable and disrespect.
 
-ජාතික සම්මාන සඳහා යොදා ගනු ලබන එවැනි ගෞරව නාමයන් වෙනත් පාර්ශ්වයන් විසින් වැරදි ආකාරයට භාවිත කිරීම වහා නතර කළ යුතු අතර, එවැනි ක්‍රියාවන්ට එරෙහිව කඩිනමින් නීතිය ක්‍රියාත්මක කළ යුතු බව ජනාධිපති ලේකම් සමන් ඒකනායක මහතා අවධාරණය කර තිබේ.
+The Secretary to the President Saman Ekanayake has emphasized that other honors used for national awards should be immediately stopped using the law against such acts.
 
 ...
 
 [Data](articles/bf94de8c.json)
+
+[Extended Data](ext_articles/bf94de8c.ext.json)
 
 ---
 
@@ -1959,29 +1981,5 @@ What began as a micro scale business entity in 1991, Pubudu Engineering has now 
 [Data](articles/846e54fd.json)
 
 [Extended Data](ext_articles/846e54fd.ext.json)
-
----
-
-### Dianian shows how to recover the country from nightwork
-
-*2024-02-22 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193717) · `si`
-
-Minister of Tourism Diana Gamage said that the country's foreign exchange could increase by 70% by turning to a night economy.
-
-At a press conference held at the press conference held at the Presidential Media Center today commented on a press conference held today (22).
-
-The government minister said that the necessary facilities should be facilitated with the prevailing regulations of the tourist attraction.
-
-The Minister of State pointed out that the night economy will play an important role in the late night's economy.
-
-Speaking further Minister of Tourism Diana Gamage added
-
-Different fun activities of various entertainment activities playing a country's economy play a significant role to increase the economy. At night, the country's foreign exchange has increased by 70% to the night economy, including entertainment and restaurants in the night.. Most countries in the world get the contribution of the night economy for economic growth.
-
-...
-
-[Data](articles/ec8c7ac6.json)
-
-[Extended Data](ext_articles/ec8c7ac6.ext.json)
 
 ---

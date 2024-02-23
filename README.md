@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 16:32:47**
+As of **2024-02-23 16:48:23**
 
 ## Newspaper Stats
 
-*Scraped **8,909** Articles*
+*Scraped **8,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,105 @@ economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 751
-adaderanalk | 1,064
-tamilmirrorlk | 1,101
-virakesarilk | 1,210
+adaderanalk | 1,065
+tamilmirrorlk | 1,103
+virakesarilk | 1,211
 adaderanasinhalalk | 1,318
-dailymirrorlk | 1,336
+dailymirrorlk | 1,337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,903 (99.9%) of 8,909 articles have been extended.
+8,909 (99.9%) of 8,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### சட்டத்துக்கு முரணாக தேசிய விருதுகள், கௌரவ நாமங்களை பயன்படுத்துவோருக்கு எதிராக சட்ட நடவடிக்கை - ஜனாதிபதி செயலாளர்
+### திடீர் சுற்றிவளைப்புகளில்  யாழ்ப்பாணத்தில் 531 பேர் கைது!
+
+*2024-02-23 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177140) · `ta`
+
+கடந்த ஒரு மாத கால பகுதிக்குள் யாழ்ப்பாணத்தில் 531 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+குற்றச் செயல்களுடன் தொடர்புடைய குற்றச்சாட்டுக்களில் யாழ்ப்பாணத்தில் தேடப்பட்டு வந்த வர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+இதற்கமைய திறந்த பிடியாணை பிறப்பிக்கப்பட்ட 301 நபர்களும், சாதாரண பிடியாணை பிறப்பிக்கப்பட்ட 230 நபர்களுமே பொலிஸாரினால் கைது செய்யப்பட்டு நீதிமன்றங்களில் ஆஜர.படுத்தப்பட்டனர் எனப் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/6060fbde.json)
+
+---
+
+### U.S. Deputy Secretary Verma commends Sri Lanka’s economic recovery efforts
+
+*2024-02-23 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97480/us-deputy-secretary-verma-commends-sri-lankas-economic-recovery-efforts) · `en`
+
+The U.S. Deputy Secretary of State for Management and Resources, Richard Verma, who called on President Ranil Wickremesinghe on Friday (Feb.23), has expressed appreciation for the efforts taken by the Sri Lankan government to turn the economy around.
+
+During the discussions, the Sri Lankan leader outlined the progress of the debt restructuring, along with several key economic reforms measures, including the agriculture modernisation program.
+
+Commenting on matters related to global security, the Deputy Secretary thanked the island nation’s government for their assistance in the on-going naval operations in the Red Sea.
+
+President Wickremesinghe stated that Sri Lanka remains committed to Freedom of Navigation in the Indian Ocean, echoing solidarity with Saudi Arabia’s stance on the Houthi rebels.
+
+◼️
+
+[Data](articles/066f4251.json)
+
+---
+
+### Uganda National Cricket team in town, calls on Ali Sabry
+
+*2024-02-23 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uganda-National-Cricket-team-in-town-calls-on-Ali-Sabry/108-277612) · `en`
+
+Colombo, Feb 23 *Daily Mirror) - Foreign Minister Ali Sabry had a meeting with the Uganda National Cricket team at the Foreign Affairs Ministry.
+
+He said in a message on ‘x’ that he appreciated the efforts of Speaker Mahinda Yapa Abeywardena and Sri Lanka's Ambassador to Uganda V. Kananathan in facilitating this tour which will further strengthen the Uganda-Sri Lanka relationships.
+
+◼️
+
+[Data](articles/2b35c315.json)
+
+---
+
+### Legal action against those who use national awards and honorary names - President Secretary
 
 *2024-02-23 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177138) · `ta`
 
-சட்டத்துக்கு முரணாக தேசிய விருதுகளை பெற்றுக்கொடுத்தல் மற்றும் அவ்வாறான  கௌரவ நாமங்களை பயன்படுத்துவோருக்கு எதிராக சட்ட நடவடிக்கை எடுக்குமாறு ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க உரிய அதிகாரிகளுக்கு அறிவுறுத்தினார்.
+President's Secretary Saman Ekanayake advised the relevant authorities to take legal action against those who use national awards and such honorary names.
 
-குறிப்பிட்ட ஒரு சில நியதிகளின் அடிப்படையில் உரிய செயன்முறைக்கமைய தெரிவு செய்யப்படும் சிறப்புக்குரிய இலங்கை பிரஜைகளுக்காக ஜனாதிபதியால் வழங்கப்படும் விருதுகள் மற்றும் கௌரவ நாமங்களுக்காக பயன்படுத்தப்படும் பெயர்களை பயன்படுத்தி சில நபர்கள் மற்றும் அரச சார்பற்ற நிறுவனங்கள் ஊடாக விருதுகள் மற்றும் சன்னஸ் பத்திரங்கள், சான்றிதழ்கள் வழங்கப்படுகின்றமை ஜனாதிபதி அலுவலகத்திற்கு தெரியவந்துள்ளது.
+The President's Office has informed the President's Office that awards, Sunnnes and Certificates are issued through some persons and NGOs using the names used by the President for the President's Awards and Honorary Names for the Special Sri Lankan citizens.
+
+The president's secretary pointed out that the immediate abuse of the honorary names used for the National Awards should be stopped immediately and that it is an injustice and disgrace to those who are honored in Sri Lanka due to improper awards.. He also advised to take immediate legal action against such sedatives.
 
 ...
 
 [Data](articles/56851ef3.json)
 
+[Extended Data](ext_articles/56851ef3.ext.json)
+
 ---
 
-### வவுனியாப் பல்கலைக்கழகத் துணைவேந்தர் பதவிக்குப் பெரும்பான்மை இனப் பேராசிரியர் உட்பட நால்வர் விண்ணப்பம்!
+### Four people, including a majority of ethnic professor for the post of Vice Chancellor of Vavuniya University!
 
 *2024-02-23 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177136) · `ta`
 
-வவுனியாப் பல்கலைக்கழகத் துணைவேந்தர் பதவிக்கு பெரும்பான்மை இனப் பேராசிரியர் ஒருவர் உட்பட நான்கு விண்ணப்பங்கள் கிடைத்துள்ளதாக அறிய வருகிறது.
+Four applications have been received, including a majority of ethnic professor of the Vavuniya University Vice Chancellor.
 
-தற்போதைய துணைவேந்தர் பேராசிரியர் தம்பு மங்களேஸ்வரனின் பதவிக் காலம் எதிர்வரும் ஜூலை 13 ஆம் திகதியுடன் நிறைவடையவுள்ள நிலையில், அந்தப் பல்கலைக்கழகத்தின் பேரவைச் செயலாளரால் புதிய துணைவேந்தர் பதவிக்கான விண்ணப்பங்கள் கோரப்பட்டிருந்தன. அதற்கான இறுதித் தினம் நேற்று 21 ஆம் திகதி புதன்கிழமையாகும்.
+Applications for the new Vice Chancellor were requested by the Secretary of the University Council, as the current Vice Chancellor Professor Thambu Mangeshwaran's term ends on July 13.. The final day is on Wednesday, the 21st.
 
-நேற்றுப் பிற்பகல் 3:00 மணியுடன் துணைவேந்தர் பதவிக்கான விண்ணப்பங் கோரல் நிறைவடைந்த வேளையில் வவுனியாப் பல்கலைக் கழகப் பேராசிரியர்கள் இருவரும், யாழ்ப்பாணப் பல்கலைக்கழப் பேராசிரியர் ஒருவரும், ருகுண மற்றும் ரஜரட்ட பல்கலைக் கழகங்களில் பணியாற்றிய பெரும்பான்மை இனப் பேராசிரியர் ஒருவருமாக நான்கு பேர் துணைவேந்தர் பதவிக்காக விண்ணப்பித்திருப்பதாகத் தெரிவிக்கப்படுகிறது.
+At 3:00 pm yesterday, the Vavuniya University Professors, a Professor of Jaffna University, and a majority of ethnic professors who worked at Rukuna and Rajarata Universities, were reported to have applied for the post of Vice Chancellor at 3:00 pm yesterday.
 
-எதிர்வரும் 24 ஆம் திகதி சனிக்கிழமை நடைபெறவுள்ள பல்கலைக்கழகப் பேரவையின் மாதாந்தக் கூட்டத்தில் பேரவையின் பதவிவழிச் செயலாளரான பதிவாளரால் நால்வரது விண்ணப்பங்களும் சமர்ப்பிக்கப்படவுள்ளன.
+Four applications will be presented by the Registrar of the Council, the Secretary of the Council, at the monthly meeting of the University Council to be held on Saturday 24th.
 
 ...
 
 [Data](articles/477d7c4b.json)
+
+[Extended Data](ext_articles/477d7c4b.ext.json)
 
 ---
 
@@ -92,21 +146,59 @@ The casual was a 13-year-old and 10-year-old schools, and he demands that he wou
 
 ---
 
-### மட்டுவில் வர்த்தக நிலையங்கள் சுற்றிவளைப்பு  ; 4 பேர் மீது வழக்குத் தாக்கல்
+### Rounding in Matuvil Business Centers;Sued 4 people
 
 *2024-02-23 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177131) · `ta`
 
-மட்டக்களப்பு செங்கலடி சுகாதார வைத்திய அதிகாரி பிரிவில் மனித பாவனைக்கு உதவாத உணவுப் பொருட்கள் விற்பனை செய்த ஹோட்டல்கள், பேக்கரிகள் சுற்றிவளைக்கப்பட்டன.
+In the Batticaloa Sengaladi Health Officer Division, hotels and bakeries were surrounded by hotels and bakeries that sold for human use.
 
-இதன்போது, மனித நுகர்விற்கு பொருத்தமற்ற முறையில் நோய்  தொற்றை உண்டாக்க கூடியவாறு உணவை களஞ்சியப்படுத்தி விற்பனை செய்த உணவக உரிமையாளர்களிடம் இருந்து பெரும்தொகையிலான உணவுகள் கைப்பற்றப்பட்டுள்ளது.
+In the meantime, large sums of foods have been seized from restaurant owners who have sold foods that are infected with the infection of human consumption.
 
-04 பேருக்கு எதிராக ஏறாவூர் நீதிவான் நீதிமன்றில் இன்று வியாழக்கிழமை (22) தாக்கல் செய்யப்பட்ட வழக்கில் ஒவ்வொருவருக்கும் தலா 10,000/- தண்டப்பணம் அறவிடப்பட்டதுடன், உணவக உரிமையாளர்களிற்கு நீதிவானினால் கடுமையாக எச்சரிக்கை வழங்கப்பட்டுள்ளது.
+A total of 10,000/- each has been sentenced to each of them in the case of the Eravur Magistrate's Court on Thursday (22).
 
-ஏனையவர்களிற்கான வழக்கு 26.02.2024 அன்று தாக்கல் செய்யப்படவுள்ளது. கைப்பற்றப்பட்ட உணவு பொருட்கள் நீதிவானின் கட்டளைக்கமைய அழிக்கப்பட்டது.
+The case for others is to be filed on 26.02.2024. The seized food items were destroyed at the behest of the Justice.
 
 ◼️
 
 [Data](articles/360fb780.json)
+
+[Extended Data](ext_articles/360fb780.ext.json)
+
+---
+
+### யாழில் கொள்ளையிட்ட கொழும்பு பெண்கள்
+
+*2024-02-23 15:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-கொள்ளையிட்ட-கொழும்பு-பெண்கள்/71-333711) · `ta`
+
+யாழ்ப்பாணம் - கன்னாதிட்டி காளி அம்பாள் ஆலய தேர்த் திருவிழாவில் நகைத் திருட்டில் ஈடுபட்ட இரண்டு பெண்கள்  கைது செய்யப்பட்டனர்.
+
+கன்னாதிட்டி காளி அம்பாள் ஆலய தேர்த் திருவிழா இன்று(23) காலை இடம்பெற்றபோது பெருமளவான பக்தர்கள் ஆலயத்தில் கூடியிருந்தனர்.
+
+இதனை சாதகமாக பயன்படுத்தி நகைத் திருட்டில் ஈடுபட்ட கொழும்பு - கொச்சிக்கடை பகுதியைச் சேர்ந்த இரண்டு பெண்களே இவ்வாறு கைது செய்யப்பட்டனர்.
+
+யாழ்ப்பாண பிராந்திய சிரேஸ்ட பொலிஸ் அத்தியட்சகர் ஜகத் விசாந்தவின் கீழ் இயங்கும் குற்றப் புலனாய்வுப் பிரிவினரால் இருவரும் 15 நிமிடத்தில் கைது செய்யப்பட்டனர். சந்தேக நபர்களிடம் இருந்து நான்கரை பவுண் தாலி பொலிஸாரால் கைப்பற்றப்பட்டது.
+
+விசாரணைகளின் பின்னர் இருவரையும் யாழ்ப்பாணம் நீதவான் நீதிமன்றத்தில் முற்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர். R
+
+◼️
+
+[Data](articles/06f2c11c.json)
+
+---
+
+### நள்ளிரவில் ஊருக்குள் புகுந்த முதலை
+
+*2024-02-23 15:28:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/நள்ளிரவில்-ஊருக்குள்-புகுந்த-முதலை/74-333710) · `ta`
+
+அம்பாறை - திருக்கோவில் பொலிஸ் பிரிவிற்குட்பட்ட திருக்கோவில் 03 பிரதேசத்தில் நேற்று(22) இரவு ஊருக்குள் புகுந்த முதலை ஒன்றை பிரதேசவாசிகள் மடக்கி பிடிக்கும் முயற்சியில் ஈடுபட்டனர்.
+
+ஊருக்குள் புகுந்த முதலை தொடர்பில் பொலிஸாருக்கும் வனஜீவராசிகள் திணைக்கள உத்தியோகத்தர்களுக்கும் பொதுமக்கள் அறிவித்தனர்.
+
+குறித்த இடத்திற்கு விரைந்த வனஜீவராசிகள் திணைக்கள உத்தியோகத்தர்கள் பொதுமக்கள் உதவியுடன் முதலையினை பிடித்து பாதுகாப்பான முறையில் அங்கிருந்து எடுத்துச் சென்றனர். R
+
+◼️
+
+[Data](articles/13003c06.json)
 
 ---
 
@@ -154,15 +246,19 @@ Sadly, the authorities fail to be named as an archaeological site so far.
 
 ---
 
-### ஜனாஸாக்களை எரிக்க தீர்மானம் எடுத்தவர்கள் தண்டிக்கப்பட வேண்டும் : சுதந்திர போராட்ட முஸ்லிம் வீரர்களை வர்த்தமானியில் அறிவிக்க வேண்டும் - ஹரீஸ் எம்.பி
+### Those who have decided to burn the Janasas should be punished:
 
 *2024-02-23 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/177129) · `ta`
 
-கொரோனா தொற்றுக்காலத்தில் முஸ்லிம்களின் மார்க்க ஒழுங்கின்படி நல்லடக்கம் செய்ய வேண்டிய ஜனாஸாக்கள் எரிக்கப்பட்டது. உலகின் சகல பாகங்களிலும் அந்த காலத்தில் ஜனாஸாக்கள் நல்லடக்கம் செய்யப்பட்டுக்கொண்டிந்தபோது இலங்கையில் மட்டும் இந்த ஜனாஸாக்களை எரிக்க தீர்மானம் எடுத்த சுகாதார அமைச்சின் அதிகாரிகள், அரச உயர்மட்டத்தினர், பின்னணியில் இருந்தவர்களை குற்றப்புலனாய்வு பிரிவினரை கொண்டு விசாரணை செய்து இப்படியான தீர்மானம் எடுத்தமைக்காக அவர்கள் தண்டிக்கப்பட வேண்டும் என்று ஸ்ரீலங்கா முஸ்லிம் காங்கிரசின் பிரதித்தலைவரும், பாராளுமன்ற உறுப்பினருமான சட்டத்தரணி எச்.எம்.எம். ஹரீஸ் பாராளுமன்றத்தில் தெரிவித்தார்.
+The Janasas, who had to be good at the time of the Corona infection. The Sri Lanka Muslim Congress Deputy Leader and Member of Parliament by the Health Ministry officials, who have decided to burn these janasas in Sri Lanka alone in all parts of the world, should be punished for such a decision by the State High Commission and the Criminal Investigation Division.. Haris told parliament.
+
+To pay compensation to the family of burned Janasas. And for the liberation of our country, many martyred for independence and fought in prisons and fought against the British. Some of them were declared as traitors by the English rulers. In my Kalmunai constituency, five more brothers, including Isa Anees Lepp and Kariyapar, were declared traitors.
 
 ...
 
 [Data](articles/257025ea.json)
+
+[Extended Data](ext_articles/257025ea.ext.json)
 
 ---
 
@@ -188,21 +284,27 @@ More than 20 fire crews tackled the blaze, which was made worse by high winds. B
 
 [Data](articles/d3a27b79.json)
 
+[Extended Data](ext_articles/d3a27b79.ext.json)
+
 ---
 
-### மூன்று நாட்கள் பணி பகிஷ்ரிப்பில் ஈடுபட்டுவந்த தொழிலாளர்கள் இன்று வேலைக்கு திரும்பினார்கள்
+### Workers who were engaged in a three -day work boycott returned to work today
 
 *2024-02-23 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177130) · `ta`
 
-நுவரெலியாவில் களனிவெளி பெருந்தோட்ட முகாமைத்துவ கம்பனிக்கு கீழ் இயங்கும் பீற்று தோட்டப் பிரிவிக்கு உட்பட்ட நேஸ்பி தோட்ட தொழிலாளர்கள் தோட்ட நிர்வாகத்திற்கு எதிராக கடந்த மூன்று நாட்களாக பணி நிறுத்த போராட்டத்தினை முன்னெடுத்து வந்தனர்.
+The Naspy plantation workers, which are under the Beettu estate, which are under the Beetu estate, have been carrying out a struggle for the plantation management for the past three days.
 
-தோட்ட நிர்வாகம் தொழிலாளர்களின் கோரிக்கை தொடர்பாக எதிர்வரும் 28 ஆம் திகதி புதன்கிழமை 3 மணிக்கு பேச்சுவார்த்தை நடத்துவதற்கு இணக்கம் தெரிவித்ததையடுத்து தொழிலாளர்கள் பணி பகிஷ்கரிப்பை கைவிட்டு இன்று வெள்ளிக்கிழமை (23) வேலைக்கு திரும்பினார்கள்.
+The workers have abandoned their job boycott and returned to work on Friday (23) after the plantation administration agreed to hold talks on Wednesday 28th at 3 pm.
 
-இந்திய அரசாங்கத்தின் நிதி உதவியுடன் மலையக பெருந்தோட்ட மக்களுக்கு கிடைக்கப்பட்டுள்ள  10 ஆயிரம் தனி வீடுகள் அமைக்கும்  திட்டத்தில் ஆரம்ப கட்டமாக நிர்மாணிக்கப்படவுள்ள 1300 தனி வீடு திட்டத்தில்  நுவரெலியா நேஸ்பி தோட்ட  மக்களுக்கும் தனி வீடுகள் கிடைக்கவுள்ளது. இந்நிலையில், 53 வீடுகளுக்கு நேஸ்பி தோட்டத்தில் 05 ஏக்கர்களை கொண்டுள்ள இலக்கம் 02 தேயிலை மலையில் வீடுகள் அமைக்க தோட்ட நிர்வாகம் இடம் ஒதுக்கி தருமாறு கோரிக்கை விடுத்து இந்த பணி புறக்கணிப்பு போராட்டத்தை தொழிலாளர்கள் முன்னெடுத்து வந்தனர்.
+With the financial assistance of the Government of India, the Nuwara Eliya Naspi estate will find separate houses for the establishment of 10 thousand separate houses available to the upland plantation people.. In this case, the workers have launched a boycott of the work, demanding that the plantation administration allocate space to set up houses in the Naspy Garden of 53 houses.
+
+At the same time, the Nuwara Eliya Naspy garden is a garden of natural beauty.
 
 ...
 
 [Data](articles/65e41e3c.json)
+
+[Extended Data](ext_articles/65e41e3c.ext.json)
 
 ---
 
@@ -1943,101 +2045,5 @@ The IORA Day celebration aims to highlight the importance of sustainability and 
 [Data](articles/2b8e803e.json)
 
 [Extended Data](ext_articles/2b8e803e.ext.json)
-
----
-
-### Deputy Speaker reveals MPs appointed to Parliamentary committees
-
-*2024-02-23 01:15:42* · [`dailyftlk`](https://www.ft.lk/news/Deputy-Speaker-reveals-MPs-appointed-to-Parliamentary-committees/56-758799) · `en`
-
-Deputy Speaker of the House Ajith Rajapakse revealed the lists of members appointed to 24 committees for the Fifth Session of the Ninth Parliament.
-
-The appointments were made in accordance with the motions approved by Parliament on 9 February.
-
-Ministerial Consultative Committee on Finance, Economic Stabilisation and National Policies
-
-Ministerial Consultative Committee on Women, Child Affairs and Social Empowerment
-
-Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutional Reforms
-
-◼️
-
-[Data](articles/44da9808.json)
-
-[Extended Data](ext_articles/44da9808.ext.json)
-
----
-
-### When the School Life you Cherish is Threatened! - EDITORIAL
-
-*2024-02-23 01:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/When-the-School-Life-you-Cherish-is-Threatened-EDITORIAL/172-277595) · `en`
-
-The Government of Sri Lanka (GoSL) must consider the plight of mothers and fathers who are struggling to send their children to school and complete the basic education of their offspring. General Secretary of the Ceylon Teachers’ Union (CTU), Joseph Stalin has been quoted in the media stating that the dropout and the absenteeism rate in schools is high and alarming at present; despite such figures not having reached their peak as yet.
-
-The once in a lifetime opportunity children get to spend a 13-year-period in school is now threatened. Parents are finding it extremely difficult to send their children to school because academic institutes are now expecting parents to bear certain education expenses which were once borne by the state.
-
-...
-
-[Data](articles/03fa434d.json)
-
-[Extended Data](ext_articles/03fa434d.ext.json)
-
----
-
-### Palestine question: US blamed for veto; Brazil, Guyana hailed, Lanka nowhere
-
-*2024-02-23 01:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Palestine-question-US-blamed-for-veto-Brazil-Guyana-hailed-Lanka-nowhere/172-277594) · `en`
-
-US Ambassador Linda Thomas-Greenfield casting the veto vote against the UN Security Council resolution that called for an immediate ceasefire in Gaza. AFP
-
-Burying the values the United States presidents often speak highly of during their policy speeches, Washington once again inhumanely used its veto power at the United Nations Security Council on Tuesday to kill Algeria’s resolution calling for an immediate ceasefire in the Gaza Strip.
-
-It is revolting to see Washington’s UN envoy Linda Thomas-Greenfield, a political science lecturer, diplomat, and private sector executive not known for human rights or humanitarian activism, raise her hand at the UNSC to veto the resolution. This was the third time her hand went up in support of genocide, ethnic cleansing, and Israel’s war crimes in the Gaza Strip. As a paid servant of the US administration, she does whatever she is commanded to do by President Joe Biden, who is being flayed on social media as Genocide Joe.
-
-...
-
-[Data](articles/ba12adcc.json)
-
-[Extended Data](ext_articles/ba12adcc.ext.json)
-
----
-
-### Sri Lanka's debt woes deepen as it joins IMF surcharge list
-
-*2024-02-23 01:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-s-debt-woes-deepen-as-it-joins-IMF-surcharge-list/108-277587) · `en`
-
-Subjected to surcharges following the disbursement of two tranches amounting to US$ 670 million
-
-Liable to pay US$ 1.06 million in GRA Level Based Surcharges from this February
-
-Sri Lanka has been added to the list of 22 heavily indebted countries facing controversial surcharges imposed by the International Monetary Fund (IMF) from recently. These additional payments, aimed at countries whose outstanding credit to the IMF’s main account exceeds 187.5 percent of their quota, have stirred debate and concern.
-
-A recent report by the United States-based think tank, Center for Economic and Policy Research (CEPR) highlighted that Sri Lanka is among the latest additions to this list, joining countries such as Benin, Côte d’Ivoire, Kenya, Moldova, North Macedonia, and Senegal. Sri Lanka’s inclusion underscores the financial challenges faced by these nations.
-
-...
-
-[Data](articles/9d875cd7.json)
-
-[Extended Data](ext_articles/9d875cd7.ext.json)
-
----
-
-### Sri Lanka has to start paying surcharge now on IMF loan
-
-*2024-02-23 01:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-has-to-start-paying-surcharge-now-on-IMF-loan/108-277587) · `en`
-
-Subjected to surcharges following the disbursement of two tranches amounting to US$ 670 million
-
-Liable to pay US$ 1.06 million in GRA Level Based Surcharges from this February
-
-Sri Lanka has been added to the list of 22 heavily indebted countries facing controversial surcharges imposed by the International Monetary Fund (IMF) from recently. These additional payments, aimed at countries whose outstanding credit to the IMF’s main account exceeds 187.5 percent of their quota, have stirred debate and concern.
-
-A recent report by the United States-based think tank, Center for Economic and Policy Research (CEPR) highlighted that Sri Lanka is among the latest additions to this list, joining countries such as Benin, Côte d’Ivoire, Kenya, Moldova, North Macedonia, and Senegal. Sri Lanka’s inclusion underscores the financial challenges faced by these nations.
-
-...
-
-[Data](articles/ee486c1e.json)
-
-[Extended Data](ext_articles/ee486c1e.ext.json)
 
 ---

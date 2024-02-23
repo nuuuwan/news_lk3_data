@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 19:17:26**
+As of **2024-02-23 19:33:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,340
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,928 (100.0%) of 8,929 articles have been extended.
+8,929 (100.0%) of 8,929 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,21 +52,23 @@ Later, the final events were held at 11 am. In the Vavuniya Kovilkulam, the seed
 
 ---
 
-### සෞඛ්‍ය අමාත්‍යවරයාගෙන් දැනුම්දීමක්
+### Notice from the Minister of Health
 
 *2024-02-23 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193745) · `si`
 
-සෞඛ්‍ය ක්ෂේත්‍රය සඳහා මේ වර්ෂයට වෙන්කර ඇති රුපියල් බිලියන 410ක මුදලින් බිලියන 180ක් වෛද්‍ය උපකරණ ලබා ගැනීම සඳහා වෙන්කර ඇති බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පවසයි.
+Health Minister Dr. Ramesh Pathiran says that 180 billion has been allocated for this year to obtain medical equipment for this year.
 
-අමාත්‍යවරයා පෙන්වා දෙන්නේ, පසුගිය කාලයේ ඇති වූ ආර්ථික අර්බුදයත් සමඟ සෞඛ්‍ය ක්ෂේත්‍රයේ ද යම් පසුබෑමක් ඇතිවුව ද මේ වන විට එම තත්ත්වයන් කළමනාකරණය කර ගැනීමට හැකි වී ඇති බවයි.
+The Minister pointed out that the health sector has also been able to manage the situation.
 
-ශ්‍රී ලංකා වෛද්‍ය උපකරණ කර්මාන්ත මණ්ඩලයේ ප්‍රධාන විධායක නිලධාරින්ගේ වාර්ෂික හමුවට සහභාගි වෙමින් රමේෂ් පතිරණ අමාත්‍යවරයා එම අදහස් පළ කළේ ය.
+Minister Ramesh Pathirana expressed these views from the annual meeting of the Sri Lanka Medical Equipment Board CEO.
 
-මෙහි දී වැඩිදුරටත් අදහස් දැක්වූ අමාත්‍යවරයා පැවසුවේ, 2015 වසරේ දී ආරම්භ කරන ලද මෙම සංගමය මෙරටට අවශ්‍ය වෛද්‍ය උපකරණ සහ සේවා සැපයීමෙන් සුවිශේෂී මෙහෙවරක් ඉටුකරන බවයි.
+The association said that the association, which was established in 2015, will fulfill a special role in the country's medical equipment and services.
 
 ◼️
 
 [Data](articles/827f3714.json)
+
+[Extended Data](ext_articles/827f3714.ext.json)
 
 ---
 

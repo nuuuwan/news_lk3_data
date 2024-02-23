@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 20:32:57**
+As of **2024-02-23 20:51:32**
 
 ## Newspaper Stats
 
@@ -26,119 +26,139 @@ dailymirrorlk | 1,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,934 (99.9%) of 8,940 articles have been extended.
+8,940 (100.0%) of 8,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### கொடியேற்றத்துடன் ஆரம்பமானது; கச்சதீவு திருவிழா
+### Beginning with the flag;Kachchativu Festival
 
 *2024-02-23 20:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கொடியேற்றத்துடன்-ஆரம்பமானது-கச்சதீவு-திருவிழா/72-333714) · `ta`
 
-கச்சதீவு புனித அந்தோனியார் ஆலயத்தின் வருடாந்த திருவிழா இன்று (23) மாலை கொடியேற்றத்துடன் ஆரம்பமானது.
+The annual festival of St. Anthony's Temple in Kachchativu commenced this evening with the flag.
 
-கொடியேற்றத்தை அடுத்து சிலுவைப் பாதை, நற்கருணை ஆராதனை மற்றும் திருச்சொரூப பவனி ஆகியன இடம்பெற்றன. திருப்பலி நிகழ்வு நாளை(24) காலை  ஒப்புக்கொடுக்கப்பட்டு திருவிழா நிறைவு பெறும்.
+Following the flag, the Crusade, the Eucharistic Adoration and the Church. The Tirupali event will be dedicated tomorrow (24) and the festival will be completed.
 
-இத்திருவிழாவிற்கு பெருமளவு  பக்தர்கள் வருகை தந்ததுடன் குறித்த நிகழ்வில் உணர்வுபூர்வமாக கலந்து கொண்டனர்.
+A large number of devotees attended the event and attended the event.
 
-இத்திருவிழாவில் பக்தர்களின் நலன் கருதி சுகாதார வசதிகள் போக்குவரத்து ஒழுங்குகள், உணவு வசதிகள் என்பன ஏற்பாடு செய்யப்பட்டுள்ளன. R
+The festival is organized for the benefit of the devotees, the health facilities, transport regulations and food facilities are organized.. Remble
 
 ◼️
 
 [Data](articles/22d0f35b.json)
 
+[Extended Data](ext_articles/22d0f35b.ext.json)
+
 ---
 
-### මෙරට දරු ජීවිත ලක්ෂක් අනතුරේ
+### Sri Lanka lives in danger
 
 *2024-02-23 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193746) · `si`
 
-විදුලි ගාස්තු ඉහළ යාම හමුවේ ආර්ථිකය කඩාවැටුණු පවුල්වල දරුවන් ලක්ෂයක පමණ පාසල් ගමන අතරමඟ නතර වී ඇති බවට ආර්ථික පාර්ලිමේන්තු ආංශික අධීක්ෂණ කාරක සභාවේ දී අනාවරණය වී තිබේ.
+The Economic Partition Oversight Committee has revealed that around 100,000 children had stopped the school journey at the time of the increase in electricity tariffs.
 
-එම සභාවේදී ප්‍රකාශ වූයේ විදුලි ගාස්තු ඉහළ දැමීමට අනුමැතිය දුන් මහජන උපයෝගිතා කොමිසම ඊට වගකිව යුතු බවය.
+The meeting stated that the Public Utilities Commission approved to increase electricity tariffs.
 
-මීට අමතරව විදුලි ගාස්තු ඉහළ දැමීම හේතුවෙන් පසුගිය වසර තුළ කර්මාන්ත දෙලක්ෂ පනස් දහසක් පමණ වැසී ගොස් ඇති බව ආර්ථික අර්බුදයේ බලපෑම සමනය කිරීම පිළිබඳ පාර්ලිමේන්තු ආංශික අධීක්ෂණ කාරක සභාවේ දී අනාවරණය විය.
+In the recent past, the parliamentary sector Oversight Committee revealed that over Rs.
 
-ආර්ථික අර්බුදයේ බලපෑම සමනය කිරීම පිළිබඳ පාර්ලිමේන්තු ආංශික අධීක්ෂණ කාරක සභාව හමුවට ඊයේ (22) දිනයේ දී කර්මාන්ත අමාත්‍යාංශය, මහජන උපයෝගිතා කොමිසම, විදුලිබල මණ්ඩලය, මුදල් අමාත්‍යාංශය, ශ්‍රී ලංකා මහ බැංකුව සහ ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුවේ නිලධාරින් කැඳවා තිබුණි.
+The officers of the Ministry of Industry, Public Utilities Commission, the Ministry of Ceylon, Ministry of Ceylon, Ministry of Ceylon, Central Bank and Cabinet Ministry of Ceylon and Department of Ceylon and Census and Statistics Department
 
-එහිදී අනාවරණ වුණේ විදුලි ගාස්තු ඉහළ යාම හේතුවෙන් 2023 දෙසැම්බර් 31 වනවිට දිවයින පුරා විදුලිය විසන්ධි කිරීම් ද 1,069,000ක් සිදුව ඇති බවය.
+The discovery was revealed that 1,069,000 has taken place island wide due to increased electricity tariffs.
 
-ඊට නිවාස, කර්මාන්තශාලා, ආගමික ස්ථාන මෙන්ම පාසල් ද ඇතුළත් වේ.
+It includes housing, factories, religious places and schools.
 
-...
+As a result of this, 250,000 industries have been killed and 214,000 factories have been closed.
+
+About 50,000 factories have been temporarily closed and the industry owners have not made a final decision.
+
+◼️
 
 [Data](articles/9a638bce.json)
 
+[Extended Data](ext_articles/9a638bce.ext.json)
+
 ---
 
-### கச்சதீவு திருவிழாவுக்கு  தலைமன்னாரிலிருந்து சென்ற 40 படகுகள்
+### 40 boats from Talaimannar for the Kachchativu festival
 
 *2024-02-23 20:00:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கச்சதீவு-திருவிழாவுக்கு-தலைமன்னாரிலிருந்து-சென்ற-40-படகுகள்/72-333713) · `ta`
 
-கச்சதீவு புனித அந்தோனியார்  ஆலய    2024 ம் வருடத்திற்கான திருவிழாவை சிறப்பிக்கும் முகமாக மன்னார் மாவட்டத்தின் பல பகுதிகளில் இருந்தும் பக்தர்கள் கச்சதீவு பயணமாகி உள்ளனர்.
+Devotees from many parts of the Mannar district have traveled to Kachchativu to highlight the festival of St. Anthony's Temple in Kachchativu.
 
-இந்த நிலையில் இன்றைய தினம் (23) 40 படகுகளில்  400க்கும்  மேற்பட்ட பக்தர்கள்   தலைமன்னார் துறைமுகத்தின் ஊடாக  கச்சதீவு ஆலயத்திற்கு சென்றுள்ளனர்.
+More than 400 pilgrims in 40 boats today (23) have traveled to the Kachchativu Temple through the Talaimannar port.
 
-இன்று மலை வழிபாடுகளுடன் ஆரம்பமாகும் திருவிழாவானது நாளை சனிக்கிழமை காலையில் யாழ்ப்பாணம் நெடுந்தீவு பங்கின் பங்கு தந்தையர்களின் தலைமையில் விசேட திருப்பலிகள் ஒப்புக் கொடுக்க புனித  அந்தோனியார்  திருவிழா சிறப்பாக நடைபெறும் .
+The St. Anthony's Festival will be held tomorrow morning with the fathers of the Jaffna Nedundevu share of the fathers.
 
-மேலும் இந்த வருட கச்சதீவு புனித   அந்தோனியார்    ஆலய திருவிழாவுக்கு இந்தியாவிலிருந்து  பக்தர்கள் எவரும் வருகை தரவில்லை என கச்சதீவு புனித அந்தோனியார் ஆலயத்தில் இருந்து கிடைக்கும் செய்திகள் தெரிவிக்கின்றன. R
+Reports from St. Anthony's Temple in Kachchativu say that no pilgrims from India attend this year's St. Anthony's Temple Festival this year.. Remble
 
 ◼️
 
 [Data](articles/dcd42ecb.json)
 
+[Extended Data](ext_articles/dcd42ecb.ext.json)
+
 ---
 
-### கட்டுநாயக்கவில் கைதான யாழ்ப்பாணம், வவுனியாவைச் சேர்ந்த இருவர்!
+### Two persons from Jaffna and Vavuniya arrested in Katunayake!
 
 *2024-02-23 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177153) · `ta`
 
-மோசடியான முறையில் தயாரிக்கப்பட்ட கிரேக்க  சுற்றுலா விசாக்களைப் பயன்படுத்தி ஐரோப்பாவுக்குச் செல்வதற்காக கட்டுநாயக்க விமான நிலையத்துக்கு சென்றிருந்த இரு இளைஞர்கள் வெள்ளிக்கிழமை (23) அதிகாலை குடிவரவு மற்றும் குடியகல்வு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
+Two youths who went to the Katunayake airport to travel to Europe using fraudulently manufactured Greek tourist visas have been arrested by Immigration and Emigration Officers early Friday morning.
 
-அவர்களில் ஒருவர் வவுனியாவைச் சேர்ந்த 34 வயதுடையவர், மற்றையவர் யாழ்ப்பாணத்தைச் சேர்ந்த 26 வயதுடையவர்.
+One of them is a 34 -year -old from Vavuniya and the other is 26 years old from Jaffna.
 
-அதிகாலை 4.35 மணியளவில் தோஹா நோக்கிப் புறப்படவிருந்த கத்தார் எயார்வேஸின் QRR-663 விமானத்தில் பயணிப்பதற்காக அவர்கள் இருவரும் கட்டுநாயக்க விமான நிலையத்துக்கு வந்துள்ளனர்.
+The two arrived at the Katunayake airport to board Qatar Airways' QRR-663 flight to Doha at 4.35 am.
 
-முதலில் கத்தாரின் தோஹாவுக்கும், அங்கிருந்து பிரான்ஸின் பாரிஸுக்கும் கடைசியாக ஜெர்மனியின் மூனிச் நகருக்கும் செல்ல திட்டமிட்டிருந்தமையும் விசாரணைகளில் தெரிய வந்துள்ளது.
+Investigations have revealed that they were planning to go to Qatar's Doha and the last to France's Paris and the last to Munich, Germany.
 
 ◼️
 
 [Data](articles/07c7269c.json)
 
+[Extended Data](ext_articles/07c7269c.ext.json)
+
 ---
 
-### தேசிய பாதுகாப்பைப் பலப்படுத்த இந்தோ-பசிபிக் பிராந்தியத்தில் கடல்சார் ஒத்துழைப்பை ஆழப்படுத்தஆராய்வு : நவீன கப்பலை இலங்கைக்கு வழங்குவதாக அமெரிக்க இராஜாங்க பிரதிச் செயலாளர் வர்மா உறுதி
+### US Secretary of State Verma confirms that Sri Lanka will provide Sri Lanka to Sri Lanka to deepen maritime cooperation in Indo-Pacific region
 
 *2024-02-23 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177151) · `ta`
 
-இலங்கையின் பொருளாதார வளர்ச்சி மற்றும் செழிப்பிற்கு உதவி செய்வதற்கு அமெரிக்கா தொடர்ந்தும் அர்ப்பணிப்புடன் உள்ளதென அமெரிக்க இராஜாங்க முகாமைத்துவம் மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மா தெரிவித்தார்.
+Richard Verma, Deputy Secretary of State for US State Management and Resources, said the United States continues to dedicate to helping Sri Lanka's economic growth and prosperity.
 
-இரு தினங்கள் (பெப்ரவரி 23 - 24 ) இலங்கைக்கு விஜயம் மேற்கொண்டுள்ள  அமெரிக்க இராஜாங்க முகாமைத்துவம் மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மா அரசாங்க, சிவில் சமூகம் மற்றும் பொருளாதாரத் தலைவர்களுடன் சந்திப்பை மேற்கொண்ட நிலையில், மேற்கண்டவாறு தெரிவித்தார்.
+Richard Verma, Deputy Secretary of State for US State Management and Resources, who visited Sri Lanka for two days (February 23 - 24), said this as he met with government, civil society and economic leaders.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் வெளிவிவகார அமைச்சர் அலி சப்ரி ஆகியோரைச் சந்தித்த செயலாளர் வர்மா இலங்கையினை நிலைபேறான பொருளாதார வளர்ச்சிக்கான பாதையில் தொடர்ந்தும் வைத்திருப்பதை நோக்கமாகக் கொண்ட அனைவரையும் உள்ளடக்கிய பொருளாதார மற்றும் நிர்வாக சீர்திருத்தங்கள் உட்பட இலங்கையில் மேற்கொள்ளப்படும் சர்வதேச நாணய நிதிய நிகழ்ச்சித்திட்டத்தின் முன்னேற்றம் குறித்து கலந்துரையாடினார்.
+Secretary Verma, who met with President Ranil Wickremesinghe and External Affairs Minister Ali Sabri, discussed the progress of the IMF in Sri Lanka, including economic and administrative reforms, aimed at continuing to keep Sri Lanka on the path of stabilized economic growth.
+
+Deputy Secretary Verma also stressed the need to protect basic freedoms, including human rights and freedom of expression.
 
 ...
 
 [Data](articles/dafe40a5.json)
 
+[Extended Data](ext_articles/dafe40a5.ext.json)
+
 ---
 
-### வழக்குத் தொடுநர்களுடன் சமரசத்துக்காக மூவர் கொண்ட குழுவை நியமித்தது தமிழரசுகட்சி ; மீள் தெரிவுக்கு தாயாரென மீண்டும் அறிவித்தார் சிறீதரன்
+### The TNA appointed a three -member committee for compromise with prosecutors;Sreedharan again declared that the mother was the mother
 
 *2024-02-23 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177152) · `ta`
 
-இலங்கைத் தமிழரசுக்கட்சியின் புதிய தலைமை உட்பட அனைத்துப் பதவி நிலைகளுக்கான தெரிவுகளுக்கு எதிராகவும், தேசிய மாநாட்டுக்கு எதிராகவும் நீதிமன்றத்தில் வழக்குத் தொடுத்துள்ளவர்களுடன் சமரசத்தை ஏற்படுத்திக் கொள்வதற்காக இலங்கைத் தமிழரசுக்கட்சி மூவர் கொண்ட குழுவொன்றை நியமித்துள்ளது.
+The Sri Lankan Tamil National Party has appointed a three -member committee to compromise with those who have filed a lawsuit in court against all the positions of all positions, including the new leadership of the Sri Lankan TNA.
 
-குறித்த குழுவின் வன்னிமாவட்ட பாராளுமன்ற உறுப்பினரான சாள்ஸ்நிர்மலநாதன், வைத்தியர்.ப.சத்தியலிங்கம், மட்டக்களப்பு மாவட்ட முன்னாள் மேயர் தி.சரவணபவன் ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.
+The Committee of the Committee has been appointed by the Vannimavatta MP of the Committee, Charznirmalanathan, Dr. Sathiyalingam and former Mayor of Batticaloa District T. Saravanapavan.
 
-அத்துடன்,  குறித்த வழக்கில் பிரதிவாதிகளாகக் குறிப்பிடப்பட்டுள்ள கட்சியின் சிரேஷ்ட உறுப்பினர்கள் எழுவரும் வழக்கை நீதிமன்றத்தின் ஊடாக கையாள்வது தொடர்பாக, பொதுநிலைப்பாடொன்றை எடுத்து அறிவிக்க வேண்டும் என்றும் கோரப்பட்டுள்ளது.
+In addition, the senior members of the party, who are referred to as defendants in the case, have been asked to take a public standing case regarding the raising case through the court.
 
-இதேநேரம், தெரிவு செய்யப்பட்டுள்ள தலைவர் சிவஞானம் சிறீதரன், தனது தலைமைப்பதவி உட்பட அனைத்துப் பதவிகளையும் மீளவும் தெரிவு செய்வதற்கு தயாராகவுள்ளதாகவும் அறிவித்துள்ளார்.
+Meanwhile, Sivagnanam Sreedharan, the selected leader, has announced that he is ready to recover all the posts, including his chief chairman.
+
+A special meeting was held yesterday at the office of the party in Kilinochchi to discuss the cases filed against the Sri Lankan Tamil party and to discuss the next step.
 
 ...
 
 [Data](articles/2ebf9b18.json)
+
+[Extended Data](ext_articles/2ebf9b18.ext.json)
 
 ---
 

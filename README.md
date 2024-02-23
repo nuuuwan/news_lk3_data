@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 06:52:33**
+As of **2024-02-23 07:15:45**
 
 ## Newspaper Stats
 
-*Scraped **8,808** Articles*
+*Scraped **8,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 458
 economynextcom | 458
 dailyftlk | 483
 adalk | 744
-adaderanalk | 1,054
+adaderanalk | 1,055
 tamilmirrorlk | 1,091
 virakesarilk | 1,190
 adaderanasinhalalk | 1,294
@@ -26,11 +26,33 @@ dailymirrorlk | 1,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,808 (100.0%) of 8,808 articles have been extended.
+8,808 (100.0%) of 8,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Evening thundershowers possible in 6 provinces including Western
+
+*2024-02-23 06:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97467/evening-thundershowers-possible-in-6-provinces-including-western) · `en`
+
+Showers or thundershowers will occur at several places in Western, Southern, Sabaragamuwa, Central, North-western and Uva provinces in the evening or at night, the Department of Meteorology says.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
+
+The public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers or thundershowers may occur at a few places in the sea areas extending from Puttalam to Hambantota via Colombo and Galle in the evening or night.
+
+Wind will be variable and wind speed will be 15-25 kmph in the sea areas around the island
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.
+
+◼️
+
+[Data](articles/c2d42b30.json)
+
+---
 
 ### Tamil Nadu fishermen released on condition
 
@@ -1969,27 +1991,5 @@ MBSL is 84.5% owned by Bank of Ceylon (BOC, A(lka)/Stable) and other BOC group e
 [Data](articles/0eec5865.json)
 
 [Extended Data](ext_articles/0eec5865.ext.json)
-
----
-
-### MPs appointed to parliamentary committees announced
-
-*2024-02-22 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97457/mps-appointed-to-parliamentary-committees-announced) · `en`
-
-The lists of names of the members appointed to several parliamentary committees during the Fifth Session of the Ninth Parliament have been announced.
-
-This was communicated to the House by Deputy Speaker Ajith Rajapakse this morning (Feb.22).
-
-Ministerial Consultative Committee on Finance, Economic Stabilization and National Policies
-
-Ministerial Consultative Committee on Women, Child Affairs and Social Empowerment
-
-Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutional Reforms
-
-◼️
-
-[Data](articles/660dbdfc.json)
-
-[Extended Data](ext_articles/660dbdfc.ext.json)
 
 ---

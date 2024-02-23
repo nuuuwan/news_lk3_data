@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 13:02:39**
+As of **2024-02-23 13:17:33**
 
 ## Newspaper Stats
 
-*Scraped **8,870** Articles*
+*Scraped **8,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,91 +18,159 @@ dailyftlk | 483
 adalk | 749
 adaderanalk | 1,061
 tamilmirrorlk | 1,100
-virakesarilk | 1,199
+virakesarilk | 1,201
 adaderanasinhalalk | 1,309
-dailymirrorlk | 1,324
+dailymirrorlk | 1,329
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,865 (99.9%) of 8,870 articles have been extended.
+8,870 (99.9%) of 8,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### உயிரிழந்த பல்கலைக்கழக மாணவன் குறித்து அதிர்ச்சி செய்தி
+### 3 கோடி முட்டைகளை  இறக்குமதி செய்ய அனுமதி
+
+*2024-02-23 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177115) · `ta`
+
+பண்டிகைக் காலத்திற்காக இந்தியாவில் இருந்து மேலும் 3 கோடி முட்டைகளை இறக்குமதி செய்ய அனுமதி வழங்கப்பட்டுள்ளது.
+
+ஜனவரி மற்றும் ஏப்ரல் மாதங்களுக்கு இடையில் 6 கோடி முட்டைகளை இறக்குமதி செய்வதற்கு அண்மையில் அனுமதி வழங்கப்பட்டதாக வர்த்தகம், வாணிப மற்றும் உணவுப் பாதுகாப்பு அமைச்சின் செயலாளர் தெரிவித்தார்.
+
+அதன்படி 9 கோடி முட்டைகள் இறக்குமதி செய்யப்பட உள்ளதாக செயலாளர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/61ca5a2b.json)
+
+---
+
+### நாட்டில் 40,000க்கும் மேற்பட்ட போலி வைத்தியர்கள் - அரச வைத்திய அதிகாரிகள் சங்கம்
+
+*2024-02-23 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177110) · `ta`
+
+நடளாவிய ரீதியில் 40,000 க்கும் அதிகமான போலி வைத்தியர்கள் உள்ளதாக  அரச வைத்திய அதிகாரிகள் சங்கம் (GMOA) தெரிவித்துள்ளது.
+
+இவ்வாறான வைத்தியர்கள் ஆபத்தான நிலையில் நோயாளிகளுக்கு சிகிச்சையளிப்பது தொடர்பில் முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாக அரச வைத்திய அதிகாரிகள் சங்க பேச்சாளர் வைத்தியர் சமில் விஜேசிங்க தெரிவித்துள்ளார்.
+
+வைத்திய உதவியாளர்கள், தாதியர்கள் அல்லது துணை வைத்திய சேவைகளில் அங்கம் வகிக்கும் ஒருவர்  வைத்தியர் போன்று அடையாளப்படுத்தி அவர்கள் இருக்கும் கிராமத்திலோ அல்லது சொந்த ஊரிலோ நோயாளிகளுக்கு சிகிச்சையளிப்பது கண்டறியப்பட்டுள்ளது
+
+இந்நிலையில், இலங்கையின் சுகாதார அமைப்பிற்குள், ஒரு நோயாளிக்கு மருந்துகளை பரிந்துரைக்கும் திறனும், பொறுப்பும் மற்றும் அதிகாரமும் ஒரு வைத்தியருக்கு மட்டுமே உண்டு. அவ்வாறு செய்யக்கூடிய திறனோ அல்லது அதிகாரமோ  வேறு யாருக்கும்  இல்லை,
+
+நோயாளிக்கு  வைத்தியர் ஒருவரால்  பரிந்துரைக்கப்பட்ட மருந்து அல்லது ஆய்வக சோதனைக்கு மட்டுமே உட்படுத்த முடியும் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/87206586.json)
+
+---
+
+### Shocking news about the university student who died
 
 *2024-02-23 12:28:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/உயிரிழந்த-பல்கலைக்கழக-மாணவன்-குறித்து-அதிர்ச்சி-செய்தி/71-333708) · `ta`
 
-யாழ்ப்பாணம் - நீர்வேலியில் நேற்று (21) விபத்தில் உயிரிழந்த பல்கலைக்கழக மாணவன் குறித்து அதிர்ச்சி செய்தி வெளியாகி உள்ளது.
+Shocking news about a university student who died in an accident yesterday (21) in Jaffna
 
-குறித்த மாணவன், வீடொன்றில் புகுந்து வன்முறையில் ஈடுபட்டு வாகனத்துக்கு தீவைத்து விட்டு திரும்பிய போதே விபத்தில் சிக்கி உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that the student was killed when he returned to a house and set fire to the vehicle.
 
-அச்சுவேலி பொலிஸ் பிரிவிற்குட்பட்ட சிறுப்பிட்டி பகுதியில் நேற்று அதிகாலை நாய் குறுக்காக ஓடியதால் மோட்டார் சைக்கிளை கட்டுப்படுத்த முடியாமல் விபத்துக்குள்ளாகி பல்கலைக்கழக மாணவன் உயிரிழந்தார்.
+The university student died after being unable to control the motorcycle as the dog ran across the Achchuveli police division in the early hours of this morning.
 
-யாழ். பல்கலைக்கழகத்தில் புதிதாக தெரிவு செய்யப்பட்டுள்ள  மானிப்பாய், வேம்படி பகுதியைச் சேர்ந்த ரமேஸ் சகீந்தன் (22) என்ற மாணவனே இதில் உயிரிழந்துள்ளார்.
+Yall. Ramesh Saintan (22), a newly elected man from Manipay, Vembadi, has died.
 
-மாணவன் உயிரிழந்த விவகாரம் மர்மமாக இருந்த நிலையில், மானிப்பாயை சேர்ந்த மற்றொரு இளைஞன் படுகாயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்தார்.
+Another young man from Manipayi was admitted to the Jaffna Teaching Hospital after the student's death was mysterious.
 
-அவரிடம் நடத்தப்பட்ட விசாரணையில், உயிரிழந்த பல்கலைக்கழக மாணவனுடன் மோட்டார் சைக்கிளில் பயணித்து, விபத்தில் சிக்கியவர் என்பது தெரியவந்தது.
+Investigations conducted by him revealed that he was traveling on a motorbike with a university student who died.
+
+At this point, an attempt was attended by a house in Udupitiya, which belongs to the Valvettithurai police division. When the police investigated the matter at various angles, it was revealed that the university student had been involved in the accident while entering the house and using a paddle batting and returning to the air.
 
 ...
 
 [Data](articles/b36e3f2a.json)
 
+[Extended Data](ext_articles/b36e3f2a.ext.json)
+
 ---
 
-### அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ பிரதி இராஜாங்கச் செயலாளர் இலங்கை விஜயம்
+### Deputy Deputy Secretary of State of the US State Department visits Sri Lanka
 
 *2024-02-23 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177112) · `ta`
 
-அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மா (Richard Verma) இலங்கைக்கு விஜயம் மேற்கொண்டுள்ளார்.
+Richard Verma, Deputy Secretary of State for Management and Resources of the US State Department, has visited Sri Lanka.
 
-இலங்கைக்கு விஜயம் மேற்கொண்டுள்ள அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மாவை அமெரிக்கத் தூதர் ஜூலி சங் வரவேற்று எக்ஸ் தளத்தில் பதிவொன்றை இட்டுள்ளார்.
+US Ambassador Julie Sung welcomed Richard Verma, Deputy Secretary of State for Management and Resources of the US State Department, who has visited Sri Lanka.
 
-இவரது இலங்கைக்கான விஜயம் அமெரிக்க -இலங்கை நட்புறவின் சிறந்த பெறுபேறை பிரதிபலிப்பதுடன் இந்தோ -பசிபிக்கில் முக்கியமானது எனவும் அதில் அமெரிக்க தூதுவர் பதிவிட்டுள்ளார்.
+His visit to Sri Lanka reflects the best results of the US -Sri Lankan friendship and the US Ambassador posted that it is important in Indo -Pacific.
 
-இதேவேளை, அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மாவிற்கும் (Richard Verma) ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இடையிலான சந்திப்பொன்று இன்று வெள்ளிக்கிழமை (23) இடம்பெற்றமை குறிப்பிடத்தக்கது.
+Meanwhile, a meeting between Richard Verma, Deputy Secretary of State for Management and Resources, Richard Verma, was held today (23).
 
 ◼️
 
 [Data](articles/8ce1e65c.json)
 
+[Extended Data](ext_articles/8ce1e65c.ext.json)
+
 ---
 
-### ටානියා ගේ මරණය ට IPL තරුවක නම පැටලෙයි
+### Tania's death gets IPL star
 
 *2024-02-23 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193732) · `si`
 
-ඉන්දීය මොස්තර නිරූපිකාවක් වන ටානියා සිං ගේ මරණය සම්බන්ධයෙන් ඇය සමඟ සමීප ඇසුරක් පවත්වා ඇති ඉන්දීය ක්‍රිකට් ක්‍රීඩක අභිෂේක් ෂර්මාගෙන් ප්‍රශ්න කිරීම සඳහා නොතිසි නිකුත් කිරීමට ඉන්දීය පොලීසිය කටයුතු කර තිබේ.
+Indian police have also issued notice to Indian cricketer Abhishek Shiram questioned Indian cricketer, Tania Singh, an Indian fashion.
 
-28 හැවිරිදි වියේ පසු වූ ටානියා සිං පසුගිය සඳුදා (19) සිය නිවසේ නිදන කාමරයේ දී ගෙල වැළලාගෙන සියදිවිනසා ගෙන තිබුණි.
+The 28-year-old Tania Singh had taken place on Monday (19) and took the neck in the bedroom in the bedroom.
 
-නමුත් ඇයගේ මෙම සිය දිවි නසා ගැනීමට හේතුවක් මෙතෙක් නිශ්චිතව සොයා ගැනීමට නොහැකි වී ඇති අතර ඇයගේ ජංගම දුරකථනය සම්බන්ධයෙන් සිදුකළ විමර්ශනවලදී හෙළි වී ඇත්තේ ඇය සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායමට ක්‍රීඩා කරන IPL ක්‍රීඩක අභිෂේක් ෂර්මා සමඟ සමීප ඇසුරක් පවත්වා ඇති බවය.
+However, investigations have been unable to find out to the death of her suicide and revealed that she had close association with IPL player Abhishek Sharma playing to the Sunrises Hyderabad team.
 
-නමුත් දින කිහිපයක සිට ඇය යැවූ WhatsApp පණිවුඩ සඳහා ඔහු කිසිදු පිළිතුරක් ලබා දී නොමැති බව මූලික විමර්ශන වලදී අනාවරණය වී තිබේ.
+However, preliminary investigations have revealed that he had not given any answer for what she sent to her for a few days.
 
-ඒ අනුව ටානියා සිං ගේ මරණය සම්බන්ධයෙන් ක්‍රිකට් ක්‍රීඩක අභිෂේක් ෂර්මාගෙන් ප්‍රශ්න කිරීමට කටයුතු කරන බව ඉන්දීය පොලීසිය වැඩිදුරටත් පවසා ඇත.
+Accordingly, cricketer Abhishek Sham is also questioned by Tania Singh's death.
 
-තුන් ඉරියව් ක්‍රීඩකයෙකු වන අභිෂේක් ෂර්මා ඉන්දීය ප්‍රිමියර් ලීග් තරඟාවලියේ සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කරයි.
+Apol, a three-genuine player, plays for Sunrises Hyderabad team in Indian Premier League.
 
-...
+Abhishek was first played at the IPL Capitals team at the IPL.
+
+◼️
 
 [Data](articles/2ad88d13.json)
 
+[Extended Data](ext_articles/2ad88d13.ext.json)
+
 ---
 
-### ஜனாதிபதியை சந்தித்த ரிச்சர்ட் வர்மா
+### Richard Verma met the president
 
 *2024-02-23 11:47:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்த-ரிச்சர்ட்-வர்மா/175-333707) · `ta`
 
-அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மாவிற்கும் (Richard Verma) ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இடையிலான சந்திப்பு ஒன்று இடம்பெற்றுள்ளது.
+A meeting between Richard Verma, Deputy Secretary of State for Management and Resources of the US State Department, and President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/8998f30e.json)
+
+[Extended Data](ext_articles/8998f30e.ext.json)
+
+---
+
+### Sri Lankan athletes gearing up for Paris Olympics
+
+*2024-02-23 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-athletes-gearing-up-for-Paris-Olympics/108-277607) · `en`
+
+Colombo, Feb. 23 (Daily Mirror) - The Minister of Sports Harin Fernando has recommended a squad of 58 athletes for the High-Performance Pool in preparation for the Paris Olympic Games and the Paralympics Games 2024.
+
+The Paris Summer Olympic Games will be held from July 26 to August 11 and the Paralympics Games from August 28 to September 8 in Paris, France.
+
+A total of 33 athletes are preparing for the Paris Olympics Games in 11 different sports disciplines while a total of 25 athletes are gearing up for the Paralympics Games in eight different sports disciplines, Director General, Department of Sports Development Dr. Shemal Fernando said yesterday.
+
+Of the 33 athletes 19 of them will be vying for honours in the track and field events at the Paris Olympic Games.
+
+This initiative ensures that Sri Lankan High-Performance athletes to receive all necessary facilities and funding to participate, besides a monthly allowance ahead of the Olympics and Paralympics Games.
+
+...
+
+[Data](articles/9c59924a.json)
 
 ---
 
@@ -142,6 +210,22 @@ Opposition Leader Sajith Premadasa has been appointed as the Head of the Anti-Co
 
 ---
 
+### Major General Sathyapriya Liyanage joins SJB
+
+*2024-02-23 11:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Major-General-Sathyapriya-Liyanage-joins-SJB/108-277606) · `en`
+
+Colombo, Feb. 23 (Daily Mirror)- Former Chief of Defence Staff Major General Sathyapriya Liyanage has been appointed as the head of the Samagi Jana Balawegaya (SJB) Anti Corruption Unit, the party office said today.
+
+He obtained the party membership and the appointment letter from Opposition Leader Sajith Premadasa today.
+
+Major General Liyanage has also been appointed as an advisor to Sajith Premadasa.
+
+◼️
+
+[Data](articles/ce695114.json)
+
+---
+
 ### Maj. Gen. Sathyapriya Liyanage joins SJB
 
 *2024-02-23 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97476/maj-gen-sathyapriya-liyanage-joins-sjb) · `en`
@@ -174,6 +258,18 @@ There is a meeting between Richard Verma, Deputy Secretary of State for Manageme
 
 ---
 
+### US Deputy Secretary of State calls on President
+
+*2024-02-23 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Deputy-Secretary-of-State-calls-on-President/108-277605) · `en`
+
+Colombo, Feb. 23 (Daily Mirror)- United States Deputy Secretary of State for Management and Resources Richard Verma called on President Ranil Wickremesinghe a short while ago at the Presidential Secretariat, the President's Media Division (PMD) said.
+
+◼️
+
+[Data](articles/c1e3ba3c.json)
+
+---
+
 ### Richard Werma and President meets President
 
 *2024-02-23 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193730) · `si`
@@ -187,6 +283,24 @@ The meeting was said that the meeting took place at the Presidential Secretariat
 [Data](articles/c39bf3f3.json)
 
 [Extended Data](ext_articles/c39bf3f3.ext.json)
+
+---
+
+### Hotel manager falls to death from Rawana Ella mountain
+
+*2024-02-23 11:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hotel-manager-falls-to-death-from-Rawana-Ella-mountain/108-277602) · `en`
+
+Ella, Feb. 23 (Daily Mirror)- A 32-year-old manager of a tourist hotel in Ella died after falling down a precipice while on a hiking expedition in Rawana Ella mountain yesterday afternoon.
+
+He was pronounced dead on admission to the Wellawaya Hospital.
+
+The victim had gone hiking with a friend and while descending the mountain he had slipped off a rock and fallen down a 100 feet precipice.
+
+The victim is a resident of Moragolla, Beruwala and a father of a 10-year-old child.
+
+◼️
+
+[Data](articles/3a321c0a.json)
 
 ---
 
@@ -388,6 +502,24 @@ Further investigations into the murder are being carried out by the police and t
 
 ---
 
+### ’Yukthiya’ Operation nets 83 suspects on Poya day
+
+*2024-02-23 10:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukthiya-Operation-nets-83-suspects-on-Poya-day/108-277603) · `en`
+
+Anuradhapura, Feb 23 (Daily Mirror) - A total of 83 suspects were arrested during the continuing 'Yukthiya Operation' conducted targeting those arriving at the Anuradhapura town in view of Nawam Poya Day, police said.
+
+Anuradhapura Divisional Senior Superintendent of Police, Thilinahewa Pathirana and more than 250 police and Police Special Task Force personnel joined this operation.
+
+Fifty five persons were arrested for possession of drugs, cannabis and illegal liquor; 21 with pending warrants and 4 drivers for driving their vehicles while under the influence of liquor.
+
+The arrested individuals are to be produced before the Anuradhapura magistrate's court and further investigations will be conducted by the Anuradhapura police.
+
+◼️
+
+[Data](articles/9fb24ca2.json)
+
+---
+
 ### Religious observances at Bellanwila
 
 *2024-02-23 10:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Religious-observances-at-Bellanwila/110-277601) · `en`
@@ -522,15 +654,17 @@ As it approached the surface of the moon, Odysseus lost contact with NASA, resul
 
 ---
 
-### උණුසුම් දර්ශකය අවධානය යොමුකළ යුතු තත්ත්වයක
+### In a situation where the warm index should be focused
 
 *2024-02-23 08:19:29* · [`adalk`](https://www.ada.lk/breaking_news/උණුසුම්-දර්ශකය-අවධානය-යොමුකළ-යුතු-තත්ත්වයක/11-408242) · `si`
 
-වයඹ සහ උතුරු මැද පළාත් වලත් ගම්පහ, කොළඹ, හම්බන්තොට හා ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් දර්ශකය එනම් මිනිස් සිරුට දැනෙන උණුසුම ‘අවධානය’ යොමුකළ යුතු තත්ත්වයක පවතීයැයි අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The warm index of the North Western and North Central provinces, the warm index of the Met Department, the heat of the human cell is expected to be "focused".
 
 ◼️
 
 [Data](articles/1fbe6d80.json)
+
+[Extended Data](ext_articles/1fbe6d80.ext.json)
 
 ---
 
@@ -1819,139 +1953,5 @@ Addressing the media, he said that when considering health issues, the incumbent
 [Data](articles/819a9891.json)
 
 [Extended Data](ext_articles/819a9891.ext.json)
-
----
-
-### Nanuoya - Massive accident on Radella Road
-
-*2024-02-22 21:20:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-ரதெல்ல-வீதியில்-பாரிய-விபத்து/76-333685) · `ta`
-
-Eight people were admitted to the Nuwara Eliya Hospital when a bus crashed into a bus this evening on Nanuoya Radella Cross Road.
-
-The bus was carrying a group of pilgrims from Matara.
-
-Nanuoya police are conducting further investigations into the incident.. Remble
-
-◼️
-
-[Data](articles/8f0d45dc.json)
-
-[Extended Data](ext_articles/8f0d45dc.ext.json)
-
----
-
-### U.W. Sumathipala remembered
-
-*2024-02-22 21:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/U-W-Sumathipala-remembered/110-277569) · `en`
-
-The 100th commemoration of U.W. Sumathipala, founder of the Sumathi Group of Companies, was held today at the Cinnamon Lakeside Hotel in Colombo. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/2ff96d63.json)
-
-[Extended Data](ext_articles/2ff96d63.ext.json)
-
----
-
-### Bus topples in Nanu Oya injuring eight
-
-*2024-02-22 21:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bus-topples-in-Nanu-Oya-injuring-eight/108-277568) · `en`
-
-Nanu Oya, Feb 22 (Daily Mirror) - At least eight persons were injured after a bus carrying pilgrims to Sri Pada toppled at around 7.30 p.m. today at Nanu Oya on the Nuwara Eliya-Hatton Road, the Nanu Oya police said.
-
-They said the injured were admitted to the Nuwara Eliya base hospital.
-
-The accident happened when the bus was driving on a section of the road with a steep slope where vehicles were not allowed to enter.
-
-The bus had arrived from Matara, carrying 34 pilgrims to Sri Pada.
-
-The bus had tipped over since the driver could not control it. The Nanu Oya Police said it was fortunate that a serious accident was avoided because the bus had almost gone off the road but had not gone down the precipice.
-
-◼️
-
-[Data](articles/ce92b98b.json)
-
-[Extended Data](ext_articles/ce92b98b.ext.json)
-
----
-
-### Sri Lanka is ready for a nuclear attack
-
-*2024-02-22 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193715) · `si`
-
-According to officials, Sri Lanka is ready to face the radioactive situations in the region.
-
-The officials have been informed when the Sectoral Oversight Committee on Energy and Transport met.
-
-Speaking further the officials of the Atomic Energy Regulatory Council have said that they have the necessary human resources and equipment.
-
-Sectoral Oversight Committee on Energy and Transport The Chairman of Parliament, MP Nalaka Bandara recently met in parliament.
-
-Meanwhile, officials of Sri Lanka Energis (Pvt) Ltd has informed the Sectoral Oversight Committee on Energy and Transport that the water leakage in the Samanala tank has been repaired.
-
-They have emphasized that various measures have been taken to prevent the water leakage.
-
-The committee has informed the Committee on the outside of the prevention of the water to prevent the water.
-
-...
-
-[Data](articles/af41b9ad.json)
-
-[Extended Data](ext_articles/af41b9ad.ext.json)
-
----
-
-### Police launch operation to combat cattle theft
-
-*2024-02-22 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-launch-operation-to-combat-cattle-theft/108-277567) · `en`
-
-Colombo, Feb 22 (Daily Mirror) - In a bid to address the rising issue of cattle theft plaguing the dairy farmers nationwide, Police have initiated a special programme under the 'Yukthiya' operation, with the support of intelligence units, to crack down on cattle thieves.
-
-Police said dairy farmers raising cows all over the country had complained that their cows were being stolen by cattle thieves on various occasions.
-
-They said that various requests were also received from government officials in relevant fields in this regard. Acting Inspector General of Police Deshabandu Tennakoon, after examining relevant statistics and discussing with senior police officers, including those from the Civil Defense Security Department, had conducted an investigation into this matter.
-
-...
-
-[Data](articles/ee7b8355.json)
-
-[Extended Data](ext_articles/ee7b8355.ext.json)
-
----
-
-### Nightlife vital to Sri Lanka’s economic growth, tourist experience - Diana
-
-*2024-02-22 20:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97464/nightlife-vital-to-sri-lankas-economic-growth-tourist-experience-diana-) · `en`
-
-State Minister for Tourism, Diana Gamage says nightlife plays a critical role in driving economic growth, citing it as a cornerstone of the night economy. She underscored that the night economy accounts for a substantial 70% of a country’s revenue, illustrating its significant contribution to national finances.
-
-Highlighting the importance of nightlife, the State Minister pointed out that night time is when people typically engage in activities such as dining and entertainment, resulting in increased revenue generation through taxes, particularly from excise duties. She stated that this revenue is essential for sustaining the country’s operations and development.
-
-...
-
-[Data](articles/533d8b3b.json)
-
-[Extended Data](ext_articles/533d8b3b.ext.json)
-
----
-
-### Woman dies after falling at 7th floor of apartment complex
-
-*2024-02-22 20:49:17* · [`adalk`](https://www.ada.lk/breaking_news/මහල්-නිවාස-සංකීර්ණයක-7-වැනි-මහලින්-වැටී-වයෝවෘධ-කාන්තාවක්-මරුට/11-408237) · `si`
-
-Bambalapitiya Police say that the seventh floor falls into the ground and died of a woman in a Bambalapitiya Millagala Av.
-
-The victim was a 74 year old woman named Jayanandan Wadu Mom, who was residing in the housing complex.
-
-A police officer said that the deceased woman had been treated for mental illness.
-
-The complaint sector is conducting investigations on the instructions of the OIC of the Bambalapitiya Police Chief Inspector Sampath Padmalal.
-
-◼️
-
-[Data](articles/fc12d591.json)
-
-[Extended Data](ext_articles/fc12d591.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 07:15:45**
+As of **2024-02-23 07:30:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,808 (100.0%) of 8,809 articles have been extended.
+8,809 (100.0%) of 8,809 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Temporarily strong gusty winds and very rough seas can be expected during thunde
 ◼️
 
 [Data](articles/c2d42b30.json)
+
+[Extended Data](ext_articles/c2d42b30.ext.json)
 
 ---
 

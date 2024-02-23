@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 08:17:36**
+As of **2024-02-23 08:33:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,320
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,820 (99.9%) of 8,829 articles have been extended.
+8,825 (100.0%) of 8,829 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -66,6 +66,8 @@ It also took some time after an anticipated radio blackout to re-establish commu
 
 [Data](articles/7ab0babc.json)
 
+[Extended Data](ext_articles/7ab0babc.ext.json)
+
 ---
 
 ### Man dies after falling into the mountain mountain
@@ -103,6 +105,8 @@ A Fundamental Rights petition filed challenging the CC’s decision to reject Ju
 ◼️
 
 [Data](articles/03c6c1c2.json)
+
+[Extended Data](ext_articles/03c6c1c2.ext.json)
 
 ---
 
@@ -352,25 +356,27 @@ An elephant brought for the Nawam Perahera at Hunupitiya Gangaramaya temple safe
 
 ---
 
-### ඓතිහාසික වටිනාකමක් සහිත ස්ථානවල නව ඉදිකිරීම්, පෞරාණික වටිනාකම්වලට සිදු කරන හානියක්ද?
+### Is new construction, ancient values in historical value?
 
 *2024-02-23 02:07:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n66y666j6o) · `si`
 
-ඓතිහාසික වටිනාකමක් සහිත ස්ථානවල නව ඉදිකිරීම්, පෞරාණික වටිනාකම්වලට සිදු කරන හානියක්ද?
+Is new construction, ancient values in historical value?
 
-සමාජ මාධ්‍ය හරහා මුදල් රැස් කරමින් සිදුකරන දැවැන්ත ආගමික ගොඩනැගිලි ඉදිකිරීම් සම්බන්ධයෙන් කලින් කලට අපට අසන්නට දක්නට ලැබේ.
+From time to time, we will have to hear from time to time to cover up money on social media.
 
-විශේෂයෙන් ම  කඳු මුදුන්වල සිදු කරන එවන් ඉදිකිරීම් සම්බන්ධයෙන් යම් ප්‍රතිරෝධයක් ද සමාජය තුළ ඇතැම් අවස්ථාවන්හි නිර්මාණය වූ අතර, එනිසාම ඇතැම් ඉදිකිරීම් අතරමඟ නවතා දැමීමට ද සිදු විය.
+In particular, a resistance in such constructions, especially in the peaks of the mountains, were created in some cases in the society, and some constructions were stopped.
 
-අලුතෙන් ඉදිකෙරෙන මහා පරිමාණ ඉදිකිරීම් වලින් පරිසරයට සිදුවන බලපෑම හැරුණුවිට, මෙවැනි ඉදිකිරීම් සිදු කිරීමට පුරාවිද්‍යාත්මක වටිනාකමක් සහිත ස්ථාන තෝරාගැනීමේ ප්‍රවණතාවයක් ද තිබේ.
+There is also a tendency to select archaeological places to carry out such constructions except the influence of the newly built major construction.
 
-මෑතකාලීනව මුහුදු මහා විහාරය, කුරුන්දි විහාරය, කූරගල මෙන් ම ආසන්නතම සිදුවීම වන කවුඩාගල ඒ සඳහා නිදසුන් ය.
+The Karunadagala, as well as the immediate event, as recently seawater is the Kurudgine Viharaya, as well as the Kuragala.
 
-වර්තමානයවන විට කුරුන්දිය සම්බන්ධයෙන් නඩුවක් ක්‍රියාත්මක ය. දාගැබක නටඹුන් හමුවී ඇති කවුඩාගල ඉදිකිරීම් සති කිහිපයකට පෙර ආරම්භ වූ අතර, ඒ සම්බන්ධයෙන් මිශ්‍ර ප්‍රතිචාර සමාජ මාධ්‍ය පුරා දැකගතහැකි විය.
+A case is being implemented in the ruthurcy at present. The number of people who have met the ruins of the Dagaba began a few weeks ago, and mixed responses were seen throughout the social media.
 
 ...
 
 [Data](articles/f0f2c74d.json)
+
+[Extended Data](ext_articles/f0f2c74d.ext.json)
 
 ---
 
@@ -1334,6 +1340,8 @@ Prez Premadasa was uncomfortable at times when likely contenders who seemed to b
 
 [Data](articles/8bf3f9d2.json)
 
+[Extended Data](ext_articles/8bf3f9d2.ext.json)
+
 ---
 
 ### The Radella short road is a terrible accident on the road
@@ -1367,6 +1375,8 @@ Buddhism has played a central role in spiritual, and cultural social life from i
 ...
 
 [Data](articles/4da9546f.json)
+
+[Extended Data](ext_articles/4da9546f.ext.json)
 
 ---
 

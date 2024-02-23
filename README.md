@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 17:33:50**
+As of **2024-02-23 17:53:12**
 
 ## Newspaper Stats
 
-*Scraped **8,919** Articles*
+*Scraped **8,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,25 +16,85 @@ economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 751
-adaderanalk | 1,065
-tamilmirrorlk | 1,103
+adaderanalk | 1,066
+tamilmirrorlk | 1,104
 virakesarilk | 1,213
-adaderanasinhalalk | 1,319
+adaderanasinhalalk | 1,320
 dailymirrorlk | 1,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,919 (100.0%) of 8,919 articles have been extended.
+8,920 (100.0%) of 8,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
+### மியன்மார் சைபர் கிரிமினல் பகுதியில் மற்றுமொரு இலங்கையர்
+
+*2024-02-23 17:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மார்-சைபர்-கிரிமினல்-பகுதியில்-மற்றுமொரு-இலங்கையர்/175-333712) · `ta`
+
+மியன்மாரின் சைபர் கிரிமினல் ஏரியா எனப்படும் இணைய குற்றச் செயல்கள் இடம்பெறும் பகுதிக்கு மற்றுமொரு இலங்கையர் சென்றுள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+
+முன்னாத அங்கு தடுத்து வைக்கப்பட்டுள்ள இலங்கையர்களை மீட்பதற்கான கலந்துரையாடல்கள் இடம்பெற்று வரும் நிலையில், இவ்வடயம் நடைபெற்றுள்ளது.
+
+கணினித் துறையில் வேலைவாய்ப்பு தேடிச் சென்ற 56 இலங்கையர்கள் பலவந்தமாக குறித்த முகாம்களில் தடுத்து வைக்கப்பட்டுள்ளனர்.
+
+இந்தநிலையில் டுபாயில் உள்ள ஒரு இடைத்தரகர் ஊடாக குறித்த இலங்கையர் அங்கு வேலைவாய்ப்பைக் கோரியுள்ளார்.
+
+புதிதாக அங்கு சென்றுள்ள இலங்கையர் விமானம் மூலம் மியன்மார் தலைநகருக்கு சென்று, அங்கிருந்து குறித்த முகாமை அடைந்துள்ளதாக தகவல்கள் வெளியாகியுள்ளன. R
+
+◼️
+
+[Data](articles/4a2e6bd3.json)
+
+---
+
+### හොර පාරෙන් රට යන්න හැදූ දෙදෙනෙක් කටුනායක දී කොටු
+
+*2024-02-23 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193743) · `si`
+
+ව්‍යාජ ලෙස සකස් කළ ග්‍රීක සංචාරක වීසා භාවිත කරමින් විදෙස්ගත වීමට උත්සාහ කළ ශ්‍රි ලාංකිකයන් දෙදෙනෙකු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+ආගමන විගමන දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරින් විසින් අත්අඩංගුවට ගත් එම තරුණයන් දෙදෙනා වව්නියාව සහ යාපනය ප්‍රදේශවල පදිංචිකරුවන් බව වාර්තා වේ.
+
+ඔවුන් දෙදෙනා අද (23) අලුයම දෝහා බලා පිටත් ව යාමට පැමිණ තිබූ අතර, මඟී ගුවන් සේවා නිෂ්කාශන කටයුතු සඳහා සිය ලියකියවිලි ඉදිරිපත් කළ අවස්ථාවේ ඔවුන් සතු ව තිබූ ග්‍රීක සංචාරක වීසා බලපත්‍ර කූට ලෙස සකස් කර ඇති බවට අනාවරණය වී ඇත.
+
+ඉන්දියාව වෙත ගොස් තැරැව්කරුවකු මඟින් එම වීසා බලපත්‍ර සකස් කර ගෙන ඇති බව ඔවුන්ගෙන් සිදු කළ ප්‍රශ්න කිරීම්වල දී වැඩිදුරටත් අනාවරණය වී ඇත.
+
+සැකකරුවන් දෙදෙනා ඉදිරි විමර්ශන සඳහා කටුනායක ගුවන් තොටුපොළ අපරාධ විමර්ශන දෙපාර්තමේන්තු නිලධාරින් වෙත භාර දී තිබේ.
+
+◼️
+
+[Data](articles/b42f517d.json)
+
+---
+
+### Suspect arrested with 54,000 foreign cigarettes
+
+*2024-02-23 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97481/suspect-arrested-with-54000-foreign-cigarettes) · `en`
+
+The Police Special Task Force (STF) has arrested a suspect who was in possession of a large cache of foreign cigarettes illegally brought into the country.
+
+The seized cartons contained a total of 54,000 cigarette sticks, the STF said.
+
+Arrest was made in Thalawitawatta area in Kudagama, Eheliyagoda on Thursday (Feb.22) during a raid conducted under the ongoing ‘Yukthiya’ operation to crack down on drug syndicates and criminal activities.
+
+The 48-year-old suspect and the impounded contraband have been handed over to the Eheliyagoda Police for onward investigations.
+
+◼️
+
+[Data](articles/afe07a0a.json)
+
+[Extended Data](ext_articles/afe07a0a.ext.json)
+
+---
+
 ### Sri Lanka does not have the greatest political aspirations of all countries to trade with all countries
 
-*2024-02-23 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177143) · `ta`
+*2024-02-23 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177143) · `ta`
 
 Sri Lanka has no major political aspirations.
 
@@ -1816,7 +1876,7 @@ Temporarily strong gusty winds and very rough seas can be expected during thunde
 
 Colombo, Feb 23 (Daily Mirror) - The Department of Meteorology yesterday assured that Sri Lanka is not facing a heatwave threat though it has adviced people in some areas to be vigilant.
 
-"Heat index does not indicate a rise in temperature alone. It actually refers to the level to which the people feel the heat. People feel uncomfortable when their perspiration does not get absorbed by the atmosphere. Perspiration or sweat does not get absorbed by the atmosphere when the humidity level is high," he said.
+"Heat index does not indicate a rise in temperature alone. It actually refers to the level to which the people feel the heat. People feel uncomfortable when their perspiration does not get absorbed by the atmosphere. Perspiration or sweat does not get absorbed by the atmosphere when the humidity level is high," an official attached to the Department of Meteorology said.
 
 "In addition there is a drop in wind flow towards the island. This situation also makes people uncomfortable as they feel the heat," he added.
 
@@ -2011,69 +2071,5 @@ In 2008, the then Archbishop of Colombo, Osult Comes, filed a case against the U
 [Data](articles/da3fc4db.json)
 
 [Extended Data](ext_articles/da3fc4db.ext.json)
-
----
-
-### More attention should be paid to the Disaster Management in the Department of Engineering and Construction - Governor of the Northern Province
-
-*2024-02-23 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177087) · `ta`
-
-Governor of the Northern Province BSM Charles has advised more attention to disaster management in the engineering sector and construction sector.
-
-The launch of the "Technical Guidance" book conducted by the Northern Regional Association of the Sri Lanka Technical Technology Servants Association was held on Thursday (22) at the auditorium of the Northern Province Chief Secretariat Secretariat.
-
-The Chief Guest of the event was the Hon.
-
-The Governor of the Northern Province, the Chief Secretary of the Hon.
-
-Planning in the fields of engineering and construction is one of the most important things.
-
-Have to face various challenges due to the lack of appropriate planning. The lack of commitment to land rights is the main problem.
-
-It is essential to ensure the certainty of the land and get permission from the Divisional Secretary. Through this to avoid unnecessary challenges. Previously, pre -examination of the analysis of disasters is a very important issue.
-
-...
-
-[Data](articles/260cdb07.json)
-
-[Extended Data](ext_articles/260cdb07.ext.json)
-
----
-
-### Adhering to safety rules...
-
-*2024-02-23 02:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Adhering-to-safety-rules/110-277571) · `en`
-
-An elephant brought for the Nawam Perahera at Hunupitiya Gangaramaya temple safely crosses the road at the Viharamahadevi Park pedestrian crossing and enjoys a snack at the library junction food truck. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/1eac66c6.json)
-
-[Extended Data](ext_articles/1eac66c6.ext.json)
-
----
-
-### Is new construction, ancient values in historical value?
-
-*2024-02-23 02:07:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n66y666j6o) · `si`
-
-Is new construction, ancient values in historical value?
-
-From time to time, we will have to hear from time to time to cover up money on social media.
-
-In particular, a resistance in such constructions, especially in the peaks of the mountains, were created in some cases in the society, and some constructions were stopped.
-
-There is also a tendency to select archaeological places to carry out such constructions except the influence of the newly built major construction.
-
-The Karunadagala, as well as the immediate event, as recently seawater is the Kurudgine Viharaya, as well as the Kuragala.
-
-A case is being implemented in the ruthurcy at present. The number of people who have met the ruins of the Dagaba began a few weeks ago, and mixed responses were seen throughout the social media.
-
-...
-
-[Data](articles/f0f2c74d.json)
-
-[Extended Data](ext_articles/f0f2c74d.ext.json)
 
 ---

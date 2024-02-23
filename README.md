@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 19:02:33**
+As of **2024-02-23 19:17:26**
 
 ## Newspaper Stats
 
-*Scraped **8,928** Articles*
+*Scraped **8,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 751
 adaderanalk | 1,068
 tamilmirrorlk | 1,104
 virakesarilk | 1,214
-adaderanasinhalalk | 1,321
+adaderanasinhalalk | 1,322
 dailymirrorlk | 1,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,928 (100.0%) of 8,928 articles have been extended.
+8,928 (100.0%) of 8,929 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,24 @@ Later, the final events were held at 11 am. In the Vavuniya Kovilkulam, the seed
 [Data](articles/66b071d3.json)
 
 [Extended Data](ext_articles/66b071d3.ext.json)
+
+---
+
+### සෞඛ්‍ය අමාත්‍යවරයාගෙන් දැනුම්දීමක්
+
+*2024-02-23 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193745) · `si`
+
+සෞඛ්‍ය ක්ෂේත්‍රය සඳහා මේ වර්ෂයට වෙන්කර ඇති රුපියල් බිලියන 410ක මුදලින් බිලියන 180ක් වෛද්‍ය උපකරණ ලබා ගැනීම සඳහා වෙන්කර ඇති බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පවසයි.
+
+අමාත්‍යවරයා පෙන්වා දෙන්නේ, පසුගිය කාලයේ ඇති වූ ආර්ථික අර්බුදයත් සමඟ සෞඛ්‍ය ක්ෂේත්‍රයේ ද යම් පසුබෑමක් ඇතිවුව ද මේ වන විට එම තත්ත්වයන් කළමනාකරණය කර ගැනීමට හැකි වී ඇති බවයි.
+
+ශ්‍රී ලංකා වෛද්‍ය උපකරණ කර්මාන්ත මණ්ඩලයේ ප්‍රධාන විධායක නිලධාරින්ගේ වාර්ෂික හමුවට සහභාගි වෙමින් රමේෂ් පතිරණ අමාත්‍යවරයා එම අදහස් පළ කළේ ය.
+
+මෙහි දී වැඩිදුරටත් අදහස් දැක්වූ අමාත්‍යවරයා පැවසුවේ, 2015 වසරේ දී ආරම්භ කරන ලද මෙම සංගමය මෙරටට අවශ්‍ය වෛද්‍ය උපකරණ සහ සේවා සැපයීමෙන් සුවිශේෂී මෙහෙවරක් ඉටුකරන බවයි.
+
+◼️
+
+[Data](articles/827f3714.json)
 
 ---
 
@@ -2055,23 +2073,5 @@ One person living on the second floor of the series said that the fire began to 
 [Data](articles/741ce541.json)
 
 [Extended Data](ext_articles/741ce541.ext.json)
-
----
-
-### Leakage of water in Samanalawewa reservoir cannot be stopped, say officials
-
-*2024-02-23 04:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leakage-of-water-in-Samanalawewa-reservoir-cannot-be-stopped-say-officials/108-277597) · `en`
-
-The leakage of water in the Samanalawewa reservoir cannot be stopped, Ceylon Electricity Board’s accessory manufacturing arm Sri Lanka Energies Private Limited (SLE) said.
-
-The SLE told the Sectoral Oversight Committee on Energy and Transport that met on Tuesday at the Parliamentary complex that even though various measures have been taken to prevent the continuous water leakage, no result has yet been found.
-
-They also told the committee that a ‘covert operation’ is also being carried out by a group under the pretense of preventing the water spill.
-
-◼️
-
-[Data](articles/892f8a35.json)
-
-[Extended Data](ext_articles/892f8a35.ext.json)
 
 ---

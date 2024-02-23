@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 05:55:33**
+As of **2024-02-23 05:36:39**
 
 ## Newspaper Stats
 
-*Scraped **8,808** Articles*
+*Scraped **8,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 92
 bbccomsinhala | 106
 dbsjeyarajcom | 159
 newsfirstlk | 363
-islandlk | 458
+islandlk | 451
 economynextcom | 458
 dailyftlk | 483
 adalk | 744
@@ -26,7 +26,7 @@ dailymirrorlk | 1,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,801 (99.9%) of 8,808 articles have been extended.
+8,801 (100.0%) of 8,801 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -440,42 +440,6 @@ The oration was delivered by University of Kelaniya Chief Professor of English S
 
 ---
 
-### Automobile Association enters into MOU with Wurth
-
-*2024-02-22 23:38:00* · [`islandlk`](http://island.lk/automobile-association-enters-into-mou-with-wurth/) · `en`
-
-Wurth Lanka Pvt. Ltd. celebrated its 25TH anniversary on February 12, at Water’s Edge, Battaramulla. The Automobile Association of Ceylon who is the number one Automotive Partner of Wurth and their local dealers were also invited to grace the occasion.
-
-Tino Fruh, Head of Division- Auto and Cargo International of Wurth Group, Germany was the Chief Guest, the new CEO of Wurth – Sri Lanka, Suranga Kekuluwawala, was introduced to the gathering.
-
-It was a colorful event where all participants introduced themselves to form a network for future correspondence and activities.
-
-The Automobile Association signed a MOU with Wurth to continue as an Automotive Partner.
-
-An exclusive webinar to explain the research methodology behind SLIM-KANTAR People’s Awards 2024
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/17aee05d.json)
-
----
-
-### Union Assurance delivers a 13.5% dividend rate for 2023
-
-*2024-02-22 23:37:00* · [`islandlk`](http://island.lk/union-assurance-delivers-a-13-5-dividend-rate-for-2023/) · `en`
-
-Union Assurance, Sri Lanka’s premier Life Insurer known for its commitment to excellence and customer-centric approach, proudly announces the declaration of a 13.5% Universal Life Policyholder Dividend Rate for the financial year 2023. Once again, the Company has demonstrated its financial strength and resilience by surpassing expectations with this remarkable Dividend Rate of 13.5%, compared to the minimum guaranteed Dividend Rate of 10% for the year 2023. This achievement not only underscores the Company’s robust performance but also reaffirms its position as a trustworthy partner that maximises value for customers and shareholders alike.
-
-...
-
-[Data](articles/b76682f3.json)
-
----
-
 ### Hot weather no obstacle for them...
 
 *2024-02-22 23:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Hot-weather-no-obstacle-for-them/110-277574) · `en`
@@ -487,22 +451,6 @@ People in urban areas of Colombo engaged in construction work during the daytime
 [Data](articles/2cf0f618.json)
 
 [Extended Data](ext_articles/2cf0f618.ext.json)
-
----
-
-### JKH and Expolanka Holdings drive share market on an otherwise dull day
-
-*2024-02-22 23:36:00* · [`islandlk`](http://island.lk/jkh-and-expolanka-holdings-drive-share-market-on-an-otherwise-dull-day/) · `en`
-
-Stock market activities were sluggish throughout yesterday but two major blue- chip companies, JKH and Expolanka Holdings, drove the market considerably.However, banking stocks which were the most sought after over the last few weeks, noted some selling pressure, and that trend shifted to a few blue- chips during the day, market analysts said.
-
-Amid those developments both indices moved slightly upwards. All Share Price Index went up by 6 points while the S and P SL-20 rose by 0.22 points.
-
-Turnover stood at Rs 1.47 billion with three crossings. Those crossings were reported in JKH, which crossed 2.27 million shares to the tune of Rs 440 million; its shares traded at Rs 194, Expolanka Holdings 485,000 shares crossed for Rs 67.3 million; its shares sold at Rs 140 and LB Finance crossed 930,000 shares to the tune of Rs 56.7 million.
-
-...
-
-[Data](articles/3fcc0a1d.json)
 
 ---
 
@@ -1081,32 +1029,6 @@ It has been revealed in the investigation that the property in question had been
 [Data](articles/a6fc742f.json)
 
 [Extended Data](ext_articles/a6fc742f.ext.json)
-
----
-
-### Cargills collaborates with MAS Foundation for Change to combat plastic pollution
-
-*2024-02-22 19:25:00* · [`islandlk`](http://island.lk/cargills-collaborates-with-mas-foundation-for-change-to-combat-plastic-pollution/) · `en`
-
-Cargills Food and Beverage Limited, along with its brands KIST and KNUCKLES, has taken a significant step forward to address the issue of ocean plastic pollution by installing an Ocean Strainer in collaboration with the MAS Foundation for Change. The Interact Club of Colombo is a key collaborator in this initiative, as part of project ‘Ocean Revival’, which aims to contribute towards reducing plastic pollution in water bodies.
-
-The primary objective of the Ocean Strainer installation is to trap, collect, and remove plastic waste from waterways, minimizing plastic pollution and promoting the responsible recycling of collected materials. By addressing the issue at its source, this project strives to create a positive impact on the environment and remove plastic waste before it enters the ocean.
-
-...
-
-[Data](articles/0014586e.json)
-
----
-
-### An exclusive webinar to explain the research methodology behind SLIM-KANTAR People’s Awards 2024
-
-*2024-02-22 19:25:00* · [`islandlk`](http://island.lk/an-exclusive-webinar-to-explain-the-research-methodology-behind-slim-kantar-peoples-awards-2024/) · `en`
-
-Sri Lanka Institute of Marketing proudly announces the upcoming SLIM-KANTAR People’s Awards – 2024, a highly anticipated event renowned in the Sri Lankan corporate landscape and masses. Kantar, a global leader in marketing research, has played a crucial role as the esteemed research partner for the SLIM-KANTAR People’s Awards since 2022. These awards, hosted by SLIM, signify a transformational approach to positioning the SLIM KANTAR People’s Awards, fostering top-of-mind awareness of brands and personalities close to the hearts of Sri Lankans.
-
-...
-
-[Data](articles/ea5f4233.json)
 
 ---
 
@@ -1981,5 +1903,123 @@ Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutiona
 [Data](articles/660dbdfc.json)
 
 [Extended Data](ext_articles/660dbdfc.ext.json)
+
+---
+
+### An artificial intelligence is a cold war between the economic powers
+
+*2024-02-22 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193704) · `si`
+
+A sharp cold war has arisen among the economic powers of the world, with the purpose of protecting and acquisition of artificial intelligence technology.
+
+The year 2024 would decide that the year earlier in the advancement of AI technology.
+
+The event was the most valuable company in the American Stock Exchange today, the leader of the product of a computer with a computer with ai technology.
+
+The Nvidia was able to increase his capital's capital in the American stock market, defeating an alphabot of Amazon and Google.
+
+The results were released yesterday on the final quarter of the end of the last quarter and had a great attention.
+
+Restricting market prospects, the Nvidia 2023 recorded $ 22 billion in the final quarter of $ 22 billion.
+
+In 2023, the Nvidia has twice the overall reservoir of US $ 60.9 billion.
+
+Enlidia CEO Jenson Huu mentions this growth is the demand for AI or artificial intelligence chips.
+
+...
+
+[Data](articles/d8f749ff.json)
+
+[Extended Data](ext_articles/d8f749ff.ext.json)
+
+---
+
+### Control of cigarette sale
+
+*2024-02-22 15:05:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகரெட்-விற்பனைக்கு-கட்டுப்பாடு/175-333661) · `ta`
+
+Health Minister Dinesh Kundurao filed the Karnataka Legislative Assembly on Wednesday (21).
+
+He said, “The age limit is currently 18 in Karnataka. We determine this age limit as we 21 years old. Therefore, people under the age of 21 are banned from selling cigarettes in stores in Karnataka.
+
+Not permitted to sell cigarettes from school-colleges at 100 meters. In case of this, a fine of Rs 100 to Rs 1,000. Smoking in public places is also a fine of Rs.
+
+Cigarette sellers also sell other products. So they will be affected if they are more fined. That is why we have determined the fine.
+
+We have banned 'Huka' hostels. This is what the rich people do. So we impose a fine of up to Rs 1 lakh. Another 3 years will be sentenced to imprisonment. ”Said.
+
+The bill was subsequently passed. Significantly, the bill also supported the opposition parties.
+
+◼️
+
+[Data](articles/7d29f3e9.json)
+
+[Extended Data](ext_articles/7d29f3e9.ext.json)
+
+---
+
+### Sri Lanka repays $20m Iranian oil debt with tea
+
+*2024-02-22 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-repays-20m-Iranian-oil-debt-with-tea/108-277561) · `en`
+
+Colombo, Feb 22 (Daily Star) -  Sri Lanka said Wednesday it had exported tea worth $20 million to Iran to partially repay its $251 million oil debts, with Colombo saying Tehran's visiting foreign minister had expressed "satisfaction" at the deal.
+
+"So far $20 million worth of tea has been exported to Iran under the barter trade agreement," Sri Lankan Prime Minister Dinesh Gunawardena's office said in a statement after talks with Iranian Foreign Minister Hossein Amir-Abdollahian.
+
+The tea-for-oil deal was agreed upon in December 2021, but exports were delayed by Colombo's economic crisis that forced then-president Gotabaya Rajapaksa to step down in July 2022.
+
+The barter deal allows sanctions-hit Iran to avoid having to use scarce hard currency to pay for imports of popular tea.
+
+It also allowed Sri Lanka to pay with tea, as the country was short of foreign currency.
+
+...
+
+[Data](articles/f905511a.json)
+
+[Extended Data](ext_articles/f905511a.ext.json)
+
+---
+
+### There is no need to cover up his personal views for a person who is a member of the party - Rajitha Senaratne
+
+*2024-02-22 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177043) · `ta`
+
+United People's Power MP Rajitha Senaratne says that one does not have to cover up his personal views for being a member of the party.
+
+Rajitha Senaratne has recorded this comment on his Facebook page as the Executive Officer continues to voice his voice.
+
+He said that there is no party that suits our policy conscience, as you are a member of a party or to hold positions in the party.
+
+He said in his Facebook page that some of our statements may be contrary to the party's positions, Rajitha Senaratne, sometimes our policies may be confronted with the party's actions, does not mean that we are betraying the party or that the party is not betraying us.
+
+Rajitha Senaratne has said that millions of members and strong political leaders may be in a political party.
+
+Rajitha Senaratna said in his Facebook page that our party leaders would understand this.
+
+◼️
+
+[Data](articles/01fb5332.json)
+
+[Extended Data](ext_articles/01fb5332.ext.json)
+
+---
+
+### Launch immediate probe on Sanath Nishantha’s death: Johnston
+
+*2024-02-22 14:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Launch-immediate-probe-on-Sanath-Nishanthas-death-Johnston/108-277560) · `en`
+
+Parliament, Feb. 22 (Daily Mirror)- The complaint made by late State Minister Sanath Nishantha's wife regarding the death of her husband must be investigated into soon and the culrpits brought to book if it was an organised murder, Sri Lanka Podujana Peramuna (SLPP) MP Johnston Fernando said today.
+
+Speaking during the vote of condolence in Parliament on the late State Minister, he said it was suspicious whether the death of Sanath Nishantha was an organised murder or death due to an accident.
+
+He said Nishantha's wife had complained to the CID as she deemed her husbands death as suspicous.
+
+"The complaint made by Sanath Nishantha's wife must be investgated into soon and if it was an organised murder, the culprits must be brought before courts and punished," he said.
+
+◼️
+
+[Data](articles/118d0644.json)
+
+[Extended Data](ext_articles/118d0644.ext.json)
 
 ---

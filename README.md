@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 11:02:24**
+As of **2024-02-23 11:17:25**
 
 ## Newspaper Stats
 
-*Scraped **8,850** Articles*
+*Scraped **8,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,119 @@ dailyftlk | 483
 adalk | 747
 adaderanalk | 1,059
 tamilmirrorlk | 1,098
-virakesarilk | 1,193
-adaderanasinhalalk | 1,303
+virakesarilk | 1,196
+adaderanasinhalalk | 1,305
 dailymirrorlk | 1,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,850 (100.0%) of 8,850 articles have been extended.
+8,850 (99.9%) of 8,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### ரஸ்ய எதிர்கட்சி தலைவரின் உடலை இரகசிய இடத்தில் புதைப்பதற்கு அனுமதிதரவேண்டும் -- தாயாரை மிரட்டும் ரஸ்ய அதிகாரிகள்
+
+*2024-02-23 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177101) · `ta`
+
+ரஸ்ய எதிர்கட்சி தலைவர் அலெக்சேநவால்னியின்  உடலை தான் பார்வையிட்டுள்ளமதாக தெரிவித்துள்ள அவரது தாயார் தனது மகனின் உடலை இரகசியமாக புதைப்பதற்கு அனுமதிக்கவேண்டும் என ரஸ்ய அதிகாரிகள் வற்புறுத்துவதாகவும் தெரிவித்துள்ளார்.
+
+மகனின் உடல் வைக்கப்பட்டுள்ள பிரேதஅறைக்கு என்னை கொண்டு சென்றனர் நான் ஆவணங்களில் கைச்சாத்திட்டேன் என லியுட்மிலா நவல்ன்யா தெரிவித்துள்ளார்.
+
+சட்டத்தின்படி அதிகாரிகள் எனது மகனின் உடலை கையளிக்கவேண்டும் ஆனால் தற்போது என்னை மிரட்டுகின்றனர் உடலை வழங்கமறுக்கின்றனர் என நவால்னியின் தாயார் தெரிவித்துள்ளார்.
+
+எனது மகனின் உடலை புதைப்பதற்கு அதிகாரிகள் நிபந்தனை விதிக்கின்றனர் உடலை புதைக்கும் நேரம் உட்பட தாங்கள் தெரிவிப்பதை ஏற்றுக்கொள்ளவேண்டும் என அழுத்தம் கொடுக்கின்றனர் என நவால்னியின் தாயார் தெரிவித்துள்ளார்.
+
+மயானத்தின் தொலைதூர பகுதியில் உள்ள புதிய புதைகுழிக்கு என்னை கொண்டு சென்று இதுதான் எனது மகனின் புதைகுழி என காண்பிப்பதற்கு அவர்கள் முயல்கின்றனர்  அதிகாரிகள் என்னை அச்சுறுத்துகின்றனர் எனவும் நவால்னியின் தாயார் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/7d913186.json)
+
+---
+
+### நிலவின் தென்துருவத்தில் வெற்றிகரமாகத் தரையிறங்கிய தனியார் நிறுவனத்தின் விண்கலம்
+
+*2024-02-23 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177094) · `ta`
+
+அமெரிக்காவின் தனியார் நிறுவனம் ஒன்று அனுப்பிய விண்கலம் வெற்றிகரமாக நிலவின் தென்துருவத்தில்  தரையிறங்கியுள்ளது. தனியார் நிறுவனத்தின் விண்கலம் நிலவில் தரையிறங்குவது இதுவே முதல்முறையாகும்.
+
+சுமார் 50 ஆண்டுகளுக்குப் பிறகு முதல்முறையாக அமெரிக்காவுக்கு சொந்தமான விண்கலம் வெற்றிகரமாக நிலவில் தரையிறங்கியுள்ளது.
+
+டெக்சாஸ் மாநிலத்தின் ஹூஸ்டன்  நகரிலுள்ள தனியார் நிறுவனம் அனுப்பிய ஒடிஸியஸ் விண்கலம் (Odysseus lander) தான் இப்போது நிலவில் வெற்றிகரமாகத் தரையிறக்கியுள்ளது.
+
+நாசாவின் நிதியுதவியுடன் அனுப்பப்பட்டுள்ள இந்த விண்கலத்தில் நிலவு குறித்து ஆய்வு செய்யப் பல வகை ரோபோக்கள் உள்ளன. முதற்கட்டமாக நிலவில் தரையிறங்கிய அந்த விண்கலத்தில் இருந்து லேசான சிக்னல் கிடைப்பதாக நாசா ஆய்வாளர்கள் கூறியுள்ளனர்.
+
+இருப்பினும், ஒடிஸியஸ் விண்கலம் தற்போது முழுமையாகச் செயல்படும் நிலையில் இருக்கிறதா என்பது குறித்து உறுதியாகத் தெரியவில்லை என்றே ஆய்வாளர்கள் கூறியுள்ளனர்.
+
+அறுகோண வடிவில் அமைந்துள்ள இந்த விண்கலம் நிலவின் அருகே சென்றதும் தனது வேகத்தைப் பல மடங்கு குறைத்துள்ளது.
+
+...
+
+[Data](articles/ae733071.json)
+
+---
+
+### Sri Lanka should switch to night economy - Diana Kamage
+
+*2024-02-23 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177097) · `ta`
+
+Tourism Minister Diana Kamage said the country's foreign exchange could be increased by about 70 percent by switching to the night economy.
+
+The Minister of State has stated that the existing laws and regulations should be amended and provided with the necessary facilities on places that attract more tourists.
+
+State Minister Diana Kamage said this at a media briefing held at the Presidential Media Center on Thursday (22).
+
+The Minister of State pointed out that the night economy is playing a key role in the economic growth of many countries in the world, although some parties have made various allegations regarding the night economy.
+
+...
+
+[Data](articles/da37a19d.json)
+
+[Extended Data](ext_articles/da37a19d.ext.json)
+
+---
+
+### ඉන්දියාවේ මන්ත්‍රීවරියක් රිය අනතුරකින් මරුට
+
+*2024-02-23 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193727) · `si`
+
+ඉන්දියාවේ තෙලන්ගානා ප්‍රාන්ත ආණ්ඩු මන්ත්‍රීවරියක් වන 37 හැවිරිදි ලාස්‍යා නන්දිතා ජීවිතක්ෂයට පත්වී තිබේ.
+
+ඇය භාරත් රාෂ්ට්‍ර සමිති පක්ෂයේ "Bharat Rashtra Samithi" කැපීපෙනෙන චරිතයක් බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+ඇය ගමන් ගත් මෝටර් රථයේ වේගය රියදුරුට පාලනය කරගත නොහැකිව, මාර්ගයේ සවිකර තිබූ ආරක්ෂිත යකඩ වැටේ ගැටී මෙම අනතුර සිදුවී ඇති බව වාර්තා වෙයි.
+
+ඇයගේ රියැදුරා ද අනතුරෙන් බරපතළ තුවාල ලබා මේ වනවිට වෛද්‍ය ප්‍රතිකාර ලබමින් පසුවෙයි.
+
+මීට දින 10කට පෙර එනම් පසුගිය පෙබරවාරි 13 වනදා නාකට්පල්ලි ප්‍රදේශයේදී සිදුවූ තවත් අනතුරකින් ලාස්‍යා දිවි බෙරාගෙන ඇති අතර එහිදී ඇය සුළු තුවාල ලබා තිබේ.
+
+ඇයගේ පියා ද දේශපාලනඥයෙක් වන අතර ඔහු ද පසුගිය වසරේ මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/a85a5317.json)
+
+---
+
+### ශ්‍රී ලංකාව ඉන්දියාව දෙස බලන්නේ හවුල්කරුවෙකු ලෙසයි
+
+*2024-02-23 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193728) · `si`
+
+ශ්‍රී ලංකාව ඉන්දියාව දෙස බලන්නේ සහෝදරයෙකු සහ හවුල්කරුවෙකු ලෙස බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය ඉන්දීය මාධ්‍ය වෙත පවසා තිබේ.
+
+ඉන්දියාව තම රට පරිවර්තනය කර ඇති ආකාරය බැලීමට අවශ්‍ය බවත් 2047 වන විට එය සංවර්ධිත ජාතියක් බවට පත්වන ආකාරය දැකීමට අවශ්‍ය බවත් ඉන්දීය මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු තවදුරටත් පවසා ඇත.
+
+එමෙන්ම ඉන්දීය සමාගම්වලට ශ්‍රී ලංකාවට පැමිණෙන ලෙස ආරාධනා කරන බවත්, 2048 වනවිට ශ්‍රී ලංකාව සංවර්ධිත රාජ්‍යයක් බවට පත්වීමට අපේක්ෂාවෙන් සිටින බවද ඔහු ඉන්දීය මාධ්‍ය වෙත පවසා තිබේ.
+
+◼️
+
+[Data](articles/ad641ef3.json)
+
+---
 
 ### At least 8 injured after bus topples in Nanu Oya
 
@@ -56,23 +156,23 @@ The accident happened a year after a fatal multiple-vehicle collision on the Rad
 
 ---
 
-### Sri Lanka should switch to night economy - Diana Kamage
+### கொலை முயற்சிக்கு உதவிய இருவர் கைது!
 
-*2024-02-23 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/177097) · `ta`
+*2024-02-23 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177092) · `ta`
 
-Tourism Minister Diana Kamage said the country's foreign exchange could be increased by about 70 percent by switching to the night economy.
+கொழும்பு, முகத்துவாரம்  பகுதியில் நபரொருவரை  கொலை செய்ய முயற்சித்த சம்பவம் தொடர்பில் இரண்டு சந்தேக நபர்களை பொலிஸார் கைது செய்துள்ளனர்.
 
-The Minister of State has stated that the existing laws and regulations should be amended and provided with the necessary facilities on places that attract more tourists.
+இம்மாதம் 16 ஆம் திகதி  மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர் நபரொருவர் மீது துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
 
-State Minister Diana Kamage said this at a media briefing held at the Presidential Media Center on Thursday (22).
+அதன்படி, இந்தச் சம்பவத்துக்கு  உதவியதாக 16 மற்றும் 21 வயதுடைய இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
 
-The Minister of State pointed out that the night economy is playing a key role in the economic growth of many countries in the world, although some parties have made various allegations regarding the night economy.
+இவர்கள்  கொழும்பு 15,  பெர்குசன் வீதியிலும்  சேதவத்தை பிரதேசத்திலும் வைத்து கொழும்பு குற்றத்தடுப்பு பிரிவு   அதிகாரிகளினால் கைது செய்யப்பட்டுள்ளனர். கைதான இருவரும் கொழும்பு 15 இல் வசிப்பவர்கள் என அடையாளம் காணப்பட்டுள்ளனர்.
 
-...
+இந்த கொலை முயற்சி தொடர்பான மேலதிக விசாரணைகளை முகத்துவாரம் பொலிஸார் மற்றும் கொழும்பு குற்றத்தடுப்பு பிரிவினர் மேற்கொண்டு வருகின்றனர்.
 
-[Data](articles/da37a19d.json)
+◼️
 
-[Extended Data](ext_articles/da37a19d.ext.json)
+[Data](articles/d8da0e73.json)
 
 ---
 
@@ -1875,99 +1975,5 @@ He said the complaint made by Sanath Nishantha's wife should be investigated soo
 [Data](articles/859038d1.json)
 
 [Extended Data](ext_articles/859038d1.ext.json)
-
----
-
-### Weliwita Sudanda arrested
-
-*2024-02-22 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193713) · `si`
-
-Kaduwela Police have arrested Sudath Kithsiri alias Sudath Kithsiri alias, who is considered a drug dealer.
-
-The suspect was arrested along with 15 grams and 300 milligrams of heroin during a raid committed in Weliwita.
-
-The illegal assets and the Investigation Division of the Illegal Asset and Investigation Division have commenced investigations into the release of the ice drugs.
-
-In the meantime, five buses suspected to be taken into custody by the suspect, a car and a motorcycle.
-
-Investigations have revealed that the suspect had obtained his cousin by his cousin.
-
-◼️
-
-[Data](articles/a3367745.json)
-
-[Extended Data](ext_articles/a3367745.ext.json)
-
----
-
-### Arrested Sutta
-
-*2024-02-22 18:50:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெலிவிட்ட-சுத்தா-கைது/175-333681) · `ta`
-
-Malalake Sudath Kitsiri, known as 'Welida Sutta', who is suspected of drug trafficking, has been arrested by the Kaduwela police.
-
-Police said he had 15.300 grams of heroin during the arrest and had fled the area for a long time.
-
-He has been produced in the presence of Kaduwela Magistrate Sanima Wijebandara and has been remanded till March 06.
-
-It is suspected that the real owner of the specific vehicles may be Welitha Sutta, as the owner of the CIT's illegal assets of the CIT did not clarify the income source of 5 luxury buses, motor car and motorcycles.
-
-◼️
-
-[Data](articles/cc58ff80.json)
-
-[Extended Data](ext_articles/cc58ff80.ext.json)
-
----
-
-### Handing over the new payment amendment to the Public Utilities Commission
-
-*2024-02-22 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177074) · `ta`
-
-The Ceylon Electricity Board (CEB) said that the proposal for the new electricity tariff revision was handed over to the Public Utilities Commission on Thursday 22nd.
-
-Negotiations with various parties were held to reduce the amount of electricity that could. Many have put forward favorable ideas. Accordingly, it has been decided to completely cancel the increased power plant last October.
-
-Media Spokesperson Engineer Priyantha said on Wednesday the 21st of Wednesday that the proposals were submitted to provide the profits made by the Electricity Board to consumers.
-
-In household and religious places, the electricity will be reduced by 18 percent, the industrial and hotels 12 per cent, and the state institutions and departments will be reduced by 24 per cent.. The Public Use the Commission was handed over to the Commission on Thursday (22).
-
-...
-
-[Data](articles/d1ff4e7a.json)
-
-[Extended Data](ext_articles/d1ff4e7a.ext.json)
-
----
-
-### GMOA slams Health Ministry over quacks
-
-*2024-02-22 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/GMOA-slams-Health-Ministry-over-quacks/155-277564) · `en`
-
-Colombo, Feb 22 (Daily Mirror) - In the wake of scathing criticisms on the Ministry of Health's handling of the proliferation of quacks in Sri Lanka, the Government Medical Officers' Association (GMOA) has raised serious concerns over the rampant illegal practice of medicine across the country.
-
-“In Sri Lanka, the practice of medicine has to be strictly regulated, requiring individuals to possess a valid registration with either the Sri Lanka Medical Council, Ayurvedic Medical Council, or Homeopathic Medical Council, and meet required qualifications. Those practicing without such registrations are deemed fake doctors, posing a grave risk to public health,” the GMOA said in a special statement.
-
-...
-
-[Data](articles/5929b25c.json)
-
-[Extended Data](ext_articles/5929b25c.ext.json)
-
----
-
-### GMOA slams Health Ministry over bogus doctors
-
-*2024-02-22 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-slams-Health-Ministry-over-bogus-doctors/108-277564) · `en`
-
-Colombo, Feb 22 (Daily Mirror) - In the wake of scathing criticisms on the Ministry of Health's handling of the proliferation of fake doctors in Sri Lanka, the Government Medical Officers' Association (GMOA) has raised serious concerns over the rampant illegal practice of medicine across the country.
-
-“In Sri Lanka, the practice of medicine has to be strictly regulated, requiring individuals to possess a valid registration with either the Sri Lanka Medical Council, Ayurvedic Medical Council, or Homeopathic Medical Council, and meet required qualifications. Those practicing without such registrations are deemed fake doctors, posing a grave risk to public health,” the GMOA said in a special statement.
-
-...
-
-[Data](articles/6c792e4b.json)
-
-[Extended Data](ext_articles/6c792e4b.ext.json)
 
 ---

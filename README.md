@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 20:02:30**
+As of **2024-02-23 20:17:30**
 
 ## Newspaper Stats
 
-*Scraped **8,933** Articles*
+*Scraped **8,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 751
-adaderanalk | 1,069
+adaderanalk | 1,070
 tamilmirrorlk | 1,104
 virakesarilk | 1,214
 adaderanasinhalalk | 1,322
@@ -26,11 +26,31 @@ dailymirrorlk | 1,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,929 (100.0%) of 8,933 articles have been extended.
+8,933 (100.0%) of 8,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Sri Lankan in Kuwait reportedly shot by customer over delayed food order
+
+*2024-02-23 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97485/sri-lankan-in-kuwait-reportedly-shot-by-customer-over-delayed-food-order) · `en`
+
+A Sri Lankan expatriate employed as a food delivery driver in Kuwait has reportedly been shot by a customer over a delayed order.
+
+The 44-year-old, hailing from Rajanganaya, says he has been living in Kuwait for about 8 years now.
+
+Giving his account of the incident, Lakshman Thilakaratne, said he received a food order on January 10, adding that the initial location details given by the customer were wrong. As such, he had to drive to a different location to complete the delivery.
+
+However, as the order was delayed, the customer in question has opened fire when Thilakaratne arrived at his doorstep. He reportedly sustained serious injuries to his abdomen.
+
+After being shot, he said he drove his car back with blood out from the wounds and contacted an Indian acquaintance who rushed him to the hospital.
+
+...
+
+[Data](articles/b9776b03.json)
+
+---
 
 ### Legal action against unauthorized conferment of national awards, honorary titles
 
@@ -47,6 +67,8 @@ Emphasizing the imperative to promptly cease the misappropriation of national aw
 ...
 
 [Data](articles/976cd12f.json)
+
+[Extended Data](ext_articles/976cd12f.ext.json)
 
 ---
 
@@ -70,6 +92,8 @@ However the judges wholly dismissed all of Ms Begum's arguments - a highly signi
 
 [Data](articles/39f6c847.json)
 
+[Extended Data](ext_articles/39f6c847.ext.json)
+
 ---
 
 ### Two youths attempting to use fake visas to reach Europe arrested
@@ -85,6 +109,8 @@ The duo intended to board Qatar Airways flight QRR-663 bound for Doha, scheduled
 ◼️
 
 [Data](articles/f4d3f8eb.json)
+
+[Extended Data](ext_articles/f4d3f8eb.ext.json)
 
 ---
 
@@ -1054,25 +1080,29 @@ He said that the patient could only undergo a prescribed drug or laboratory test
 
 ---
 
-### කච්චතිව්: මංගල්‍යයට හරස්වන ඉන්දු - ලංකා ධීවර ගැටළුව
+### Kachchativu: Festival of Indo-Lanka Fisheries Program
 
 *2024-02-23 12:33:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p9k80yleyo) · `si`
 
-ශ්‍රී ලංකා සාගර කලාපයට ඇතුළු වී අනවසරයෙන් ධීවර කටයුතුවල නිරත වු ඉන්දීය ධීවරයින් පිරිසක් ශ්‍රී ලංකා නාවික හමුදාව විසින් අත්අඩංගුවට ගැනීමට විරුද්ධව පසුගිය සමයේ දකුණු ඉන්දීය ධීවරයෝ විරෝධතා මාලාවක් දියත් කළහ.
+South Indian fishermen launched a series of protests against the arrest of a group of Indian fishermen engaged by the Sri Lanka Navy.
 
-එහිදී ඔවුන් පැවසූවේ  ශ්‍රී ලංකා අත්අඩංගුවේ පසුවන දකුණු ඉන්දීය ධීවරයින් නිදහස් නොකරන්නේ නම් තමන් 2024 කච්චතිව් දේව මංගල්‍යයට සහභාගි වීම වර්ජනය කරන බව ය.
+They said that if South Indian fishermen were released in Sri Lankan custody, they would boycott their attendance to attend the 2024 Kachchativu Deva.
 
-කච්චතිව් දූපත මෙරටට අයත් දූපත් සමූහයට අයත් එක් දූපතක් වන අතර, ශ්‍රී ලංකාවට වඩාත් දුරින්ම පිහිටි දූපත වන්නේද කච්චතිව් දූපතයි.
+Kachchativu Island is an island group of islands belonging to Sri Lanka and the island of Sri Lanka is the island of Sri Lanka.
 
-දකුණු ඉන්දියාවේ රාමේෂ්වරම් නගරයට වඩාත් ආසන්නව කච්චතිව් දූපත පිහිටා ඇති අතර, ඇතැම් අවස්ථාවල රාමේශ්වරන්හි පවතින උසින් වැඩි කුළුනු ශීර්ෂ කච්චතිව් දූපත අවට මුහුදු සීමාවට නිරීක්ෂණය වන බව ධීවරයෝ පවසති.
+The Kachchativu Island is located near the city of Rameshwaram, South India, and in some cases, the height of the height of Rameswaran is observed.
 
-දකුණු ඉන්දියාවේ රාමේශ්වරම් සිට කච්චතිව් දූපත දක්වා කිලෝමීටර 24 කට ආසන්න දුරක් පවතින අතර, යාපනය සිට කච්චතිව් දූපත දක්වා කිලෝමීටර 63 කට ආසන්න දුරක් පවතින බව ගූගල් සිතියම පෙන්වාදෙයි.
+The Google map shows that there is nearly 63 km from Jaffna to Kachchativu Island, from Jaffna, from Jaffna to Kachchativu Island.
 
-කච්චතිව් දූපත භූමි ප්‍රමාණය අක්කර 280 කට ආසන්න වපසරියකින් යුතු අතර,ඉන්දු ලංකා ධීවරයින්ගේ ධීවර නවතැන්පොළක් ලෙස එකල කච්චතිව් දුපත භාවිත කෙරුණි.
+The Kachchativu Island is nearly 280 acres and the Kachchativu Island was used as a fishing halt.
+
+Indian fishermen and Sri Lankan fishermen are in the most common fishing operation of the Natural Resources of the Natural Resources.
 
 ...
 
 [Data](articles/55dfd4b7.json)
+
+[Extended Data](ext_articles/55dfd4b7.ext.json)
 
 ---
 
@@ -2047,25 +2077,5 @@ Meanwhile, the case will be filed against the owners of restaurants who have bee
 [Data](articles/a1ec222e.json)
 
 [Extended Data](ext_articles/a1ec222e.ext.json)
-
----
-
-### Navamy full moon Poya today
-
-*2024-02-23 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193719) · `si`
-
-In the history of Buddhist history, there was a number of unique events in a state, including the preaching of the synonyms in some Buddhist events, including Sarynera, and the Buddhas.
-
-Meanwhile, the Nawam Perahera of the Hunupitiya Gangarama Temple, Colombo is scheduled to visit Streets today and tomorrow (24).
-
-FM. The Derana, Nawam Poya, is held at Katugastota Veirikanda Sri Sarakanda Sri Sarakanda Viharaya.
-
-The 111th Ashadowa Poya Program is a number of programs including Dharma preaching, Dhamma discussions. M. The Derana is broadcast.
-
-◼️
-
-[Data](articles/f9de6fe6.json)
-
-[Extended Data](ext_articles/f9de6fe6.ext.json)
 
 ---

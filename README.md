@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 16:17:44**
+As of **2024-02-23 16:32:47**
 
 ## Newspaper Stats
 
-*Scraped **8,903** Articles*
+*Scraped **8,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 751
-adaderanalk | 1,063
+adaderanalk | 1,064
 tamilmirrorlk | 1,101
-virakesarilk | 1,205
+virakesarilk | 1,210
 adaderanasinhalalk | 1,318
 dailymirrorlk | 1,336
 
@@ -26,35 +26,87 @@ dailymirrorlk | 1,336
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,902 (100.0%) of 8,903 articles have been extended.
+8,903 (99.9%) of 8,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### ආහාර ඇණවුම ප්‍රමාද වූ බව පවසා විදෙස්ගත ලාංකිකයකුට වෙඩි තබලා
+### சட்டத்துக்கு முரணாக தேசிய விருதுகள், கௌரவ நாமங்களை பயன்படுத்துவோருக்கு எதிராக சட்ட நடவடிக்கை - ஜனாதிபதி செயலாளர்
+
+*2024-02-23 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177138) · `ta`
+
+சட்டத்துக்கு முரணாக தேசிய விருதுகளை பெற்றுக்கொடுத்தல் மற்றும் அவ்வாறான  கௌரவ நாமங்களை பயன்படுத்துவோருக்கு எதிராக சட்ட நடவடிக்கை எடுக்குமாறு ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க உரிய அதிகாரிகளுக்கு அறிவுறுத்தினார்.
+
+குறிப்பிட்ட ஒரு சில நியதிகளின் அடிப்படையில் உரிய செயன்முறைக்கமைய தெரிவு செய்யப்படும் சிறப்புக்குரிய இலங்கை பிரஜைகளுக்காக ஜனாதிபதியால் வழங்கப்படும் விருதுகள் மற்றும் கௌரவ நாமங்களுக்காக பயன்படுத்தப்படும் பெயர்களை பயன்படுத்தி சில நபர்கள் மற்றும் அரச சார்பற்ற நிறுவனங்கள் ஊடாக விருதுகள் மற்றும் சன்னஸ் பத்திரங்கள், சான்றிதழ்கள் வழங்கப்படுகின்றமை ஜனாதிபதி அலுவலகத்திற்கு தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/56851ef3.json)
+
+---
+
+### வவுனியாப் பல்கலைக்கழகத் துணைவேந்தர் பதவிக்குப் பெரும்பான்மை இனப் பேராசிரியர் உட்பட நால்வர் விண்ணப்பம்!
+
+*2024-02-23 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177136) · `ta`
+
+வவுனியாப் பல்கலைக்கழகத் துணைவேந்தர் பதவிக்கு பெரும்பான்மை இனப் பேராசிரியர் ஒருவர் உட்பட நான்கு விண்ணப்பங்கள் கிடைத்துள்ளதாக அறிய வருகிறது.
+
+தற்போதைய துணைவேந்தர் பேராசிரியர் தம்பு மங்களேஸ்வரனின் பதவிக் காலம் எதிர்வரும் ஜூலை 13 ஆம் திகதியுடன் நிறைவடையவுள்ள நிலையில், அந்தப் பல்கலைக்கழகத்தின் பேரவைச் செயலாளரால் புதிய துணைவேந்தர் பதவிக்கான விண்ணப்பங்கள் கோரப்பட்டிருந்தன. அதற்கான இறுதித் தினம் நேற்று 21 ஆம் திகதி புதன்கிழமையாகும்.
+
+நேற்றுப் பிற்பகல் 3:00 மணியுடன் துணைவேந்தர் பதவிக்கான விண்ணப்பங் கோரல் நிறைவடைந்த வேளையில் வவுனியாப் பல்கலைக் கழகப் பேராசிரியர்கள் இருவரும், யாழ்ப்பாணப் பல்கலைக்கழப் பேராசிரியர் ஒருவரும், ருகுண மற்றும் ரஜரட்ட பல்கலைக் கழகங்களில் பணியாற்றிய பெரும்பான்மை இனப் பேராசிரியர் ஒருவருமாக நான்கு பேர் துணைவேந்தர் பதவிக்காக விண்ணப்பித்திருப்பதாகத் தெரிவிக்கப்படுகிறது.
+
+எதிர்வரும் 24 ஆம் திகதி சனிக்கிழமை நடைபெறவுள்ள பல்கலைக்கழகப் பேரவையின் மாதாந்தக் கூட்டத்தில் பேரவையின் பதவிவழிச் செயலாளரான பதிவாளரால் நால்வரது விண்ணப்பங்களும் சமர்ப்பிக்கப்படவுள்ளன.
+
+...
+
+[Data](articles/477d7c4b.json)
+
+---
+
+### Sri Lanka shot deadly claimed that the food order was delayed
 
 *2024-02-23 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193741) · `si`
 
-කුවේට් රාජ්‍යයේ රියදුරු රැකියාවක නිරත වූ ශ්‍රී ලාංකිකයකුට කිසියම් පුද්ගලයකු විසින් වෙඩි තබා ඇතැයි වාර්තා වේ.
+It is reported that a Sri Lankan who has worked for a job in Kuwait state has been shot dead.
 
-රාජාංගණයේ පදිංචි කේ.පී.ලක්ෂ්මන් තිලකරත්න නමැති 44 හැවිරිදි දෙදරු පියකුට මෙසේ වෙඩි තබා ඇත.
+KP Wheekman Thilakanka Tilakaratne, a resident of Rajanganiya, has shot to a father of two.
 
-මොහු වසර 08ක් පමණ කුවේට් රාජ්‍යයේ රැකියාව කර ඇති අතර, අවසන් වරට ඔහු ලංකාවට පැමිණ ඇත්තේ, 2022-10-25 වැනි දා ය.
+He had worked in Kuwait for about eight years and was the last time he had arrived in Sri Lanka on Tuesday, 2022-10.
 
-ආහාර ඇණවුම් රැගෙන යන රියදුරකු වශයෙන් මොහු රැකියාව සිදු කර ඇති අතර, ඉකුත් ජනවාරි 10 වැනි දා ලද ඇණවුමක් රැගෙන යාමේ දී මෙම වෙඩි තැබීම සිදු කර ඇත.
+He had done a job as a driver carrying food orders and took place in carrying an order on January 10.
 
-රැගෙන ගිය ආහාර ඇණවුම ප්‍රමාද වී ඇති බව පවසා අදාළ පාරිභෝගිකයා තමාට වෙඩි තැබූ බව තුවාලකරු පවසයි.
+The suspect said the customer shot himself, saying that the car had been delayed.
 
-වෙඩි තැබීමෙන් තුවාලකරුගේ උදරය ප්‍රදේශයට බරපතළ තුවාල සිදු ව ඇති අතර, ඔහුට මැහුම් 30ක් ද දමා ඇතැයි වාර්තා වේ.
+The injured person's abdominal area has been seriously injured and 30 stitches have been launched.
 
-වෙඩි වැදීමෙන් පසු තුවාලකරු, සිය මෝටර් රථයෙන්ම නැවත පැමිණ ඇති අතර, අතරමඟ රථය නවතා සිය ඉන්දියානු මිතුරකුට දුරකථන ඇමතුමක් ලබා දී සිද්ධිය පිළිබඳ පවසා ඇත.
+After the shooting, the casualty returned from her car and parked the vehicle and telephoned his friend.
 
-තුවාලකරුට 13 හැවිරිදි සහ 10 හැවිරිදි පාසල් යන දියණියන් දෙදෙනෙකු ද සිටින අතර, ඔහු ඉල්ලා සිටින්නේ, සාධාරණයක් ඉටු කර තමා ව ලංකාවට ගෙන්වාගන්නා ලෙසයි.
+The casual was a 13-year-old and 10-year-old schools, and he demands that he would be brought to Sri Lanka.
 
 ◼️
 
 [Data](articles/c2852404.json)
+
+[Extended Data](ext_articles/c2852404.ext.json)
+
+---
+
+### மட்டுவில் வர்த்தக நிலையங்கள் சுற்றிவளைப்பு  ; 4 பேர் மீது வழக்குத் தாக்கல்
+
+*2024-02-23 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177131) · `ta`
+
+மட்டக்களப்பு செங்கலடி சுகாதார வைத்திய அதிகாரி பிரிவில் மனித பாவனைக்கு உதவாத உணவுப் பொருட்கள் விற்பனை செய்த ஹோட்டல்கள், பேக்கரிகள் சுற்றிவளைக்கப்பட்டன.
+
+இதன்போது, மனித நுகர்விற்கு பொருத்தமற்ற முறையில் நோய்  தொற்றை உண்டாக்க கூடியவாறு உணவை களஞ்சியப்படுத்தி விற்பனை செய்த உணவக உரிமையாளர்களிடம் இருந்து பெரும்தொகையிலான உணவுகள் கைப்பற்றப்பட்டுள்ளது.
+
+04 பேருக்கு எதிராக ஏறாவூர் நீதிவான் நீதிமன்றில் இன்று வியாழக்கிழமை (22) தாக்கல் செய்யப்பட்ட வழக்கில் ஒவ்வொருவருக்கும் தலா 10,000/- தண்டப்பணம் அறவிடப்பட்டதுடன், உணவக உரிமையாளர்களிற்கு நீதிவானினால் கடுமையாக எச்சரிக்கை வழங்கப்பட்டுள்ளது.
+
+ஏனையவர்களிற்கான வழக்கு 26.02.2024 அன்று தாக்கல் செய்யப்படவுள்ளது. கைப்பற்றப்பட்ட உணவு பொருட்கள் நீதிவானின் கட்டளைக்கமைய அழிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/360fb780.json)
 
 ---
 
@@ -99,6 +151,58 @@ Sadly, the authorities fail to be named as an archaeological site so far.
 [Data](articles/b94d0ca1.json)
 
 [Extended Data](ext_articles/b94d0ca1.ext.json)
+
+---
+
+### ஜனாஸாக்களை எரிக்க தீர்மானம் எடுத்தவர்கள் தண்டிக்கப்பட வேண்டும் : சுதந்திர போராட்ட முஸ்லிம் வீரர்களை வர்த்தமானியில் அறிவிக்க வேண்டும் - ஹரீஸ் எம்.பி
+
+*2024-02-23 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/177129) · `ta`
+
+கொரோனா தொற்றுக்காலத்தில் முஸ்லிம்களின் மார்க்க ஒழுங்கின்படி நல்லடக்கம் செய்ய வேண்டிய ஜனாஸாக்கள் எரிக்கப்பட்டது. உலகின் சகல பாகங்களிலும் அந்த காலத்தில் ஜனாஸாக்கள் நல்லடக்கம் செய்யப்பட்டுக்கொண்டிந்தபோது இலங்கையில் மட்டும் இந்த ஜனாஸாக்களை எரிக்க தீர்மானம் எடுத்த சுகாதார அமைச்சின் அதிகாரிகள், அரச உயர்மட்டத்தினர், பின்னணியில் இருந்தவர்களை குற்றப்புலனாய்வு பிரிவினரை கொண்டு விசாரணை செய்து இப்படியான தீர்மானம் எடுத்தமைக்காக அவர்கள் தண்டிக்கப்பட வேண்டும் என்று ஸ்ரீலங்கா முஸ்லிம் காங்கிரசின் பிரதித்தலைவரும், பாராளுமன்ற உறுப்பினருமான சட்டத்தரணி எச்.எம்.எம். ஹரீஸ் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+...
+
+[Data](articles/257025ea.json)
+
+---
+
+### Four killed, many others missing as blaze engulfs apartment blocks in Spain
+
+*2024-02-23 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97479/four-killed-many-others-missing-as-blaze-engulfs-apartment-blocks-in-spain) · `en`
+
+At least four people have died and up to 15 are missing after a massive fire ripped through two joined apartment blocks in the Spanish city of Valencia, emergency services say.
+
+The blaze engulfed a 14-storey block in the Campanar neighbourhood and spread to an adjoining building.
+
+Experts say that highly flammable cladding on the building enabled the fire to spread rapidly.
+
+The building contains 138 flats and was home to 450 residents, newspaper El Pais reported, citing the building’s manager.
+
+Fifteen people, including six firefighters and a young child, have been injured although their lives are not in danger.
+
+Valencia Mayor María José Catalá said authorities were still trying to locate between nine and 15 people, while the government’s regional representative said 14 people remained unaccounted for.
+
+More than 20 fire crews tackled the blaze, which was made worse by high winds. By early Friday the block was a giant fire-blackened shell. People were urged to stay away from the area.
+
+...
+
+[Data](articles/d3a27b79.json)
+
+---
+
+### மூன்று நாட்கள் பணி பகிஷ்ரிப்பில் ஈடுபட்டுவந்த தொழிலாளர்கள் இன்று வேலைக்கு திரும்பினார்கள்
+
+*2024-02-23 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177130) · `ta`
+
+நுவரெலியாவில் களனிவெளி பெருந்தோட்ட முகாமைத்துவ கம்பனிக்கு கீழ் இயங்கும் பீற்று தோட்டப் பிரிவிக்கு உட்பட்ட நேஸ்பி தோட்ட தொழிலாளர்கள் தோட்ட நிர்வாகத்திற்கு எதிராக கடந்த மூன்று நாட்களாக பணி நிறுத்த போராட்டத்தினை முன்னெடுத்து வந்தனர்.
+
+தோட்ட நிர்வாகம் தொழிலாளர்களின் கோரிக்கை தொடர்பாக எதிர்வரும் 28 ஆம் திகதி புதன்கிழமை 3 மணிக்கு பேச்சுவார்த்தை நடத்துவதற்கு இணக்கம் தெரிவித்ததையடுத்து தொழிலாளர்கள் பணி பகிஷ்கரிப்பை கைவிட்டு இன்று வெள்ளிக்கிழமை (23) வேலைக்கு திரும்பினார்கள்.
+
+இந்திய அரசாங்கத்தின் நிதி உதவியுடன் மலையக பெருந்தோட்ட மக்களுக்கு கிடைக்கப்பட்டுள்ள  10 ஆயிரம் தனி வீடுகள் அமைக்கும்  திட்டத்தில் ஆரம்ப கட்டமாக நிர்மாணிக்கப்படவுள்ள 1300 தனி வீடு திட்டத்தில்  நுவரெலியா நேஸ்பி தோட்ட  மக்களுக்கும் தனி வீடுகள் கிடைக்கவுள்ளது. இந்நிலையில், 53 வீடுகளுக்கு நேஸ்பி தோட்டத்தில் 05 ஏக்கர்களை கொண்டுள்ள இலக்கம் 02 தேயிலை மலையில் வீடுகள் அமைக்க தோட்ட நிர்வாகம் இடம் ஒதுக்கி தருமாறு கோரிக்கை விடுத்து இந்த பணி புறக்கணிப்பு போராட்டத்தை தொழிலாளர்கள் முன்னெடுத்து வந்தனர்.
+
+...
+
+[Data](articles/65e41e3c.json)
 
 ---
 
@@ -1935,131 +2039,5 @@ A recent report by the United States-based think tank, Center for Economic and P
 [Data](articles/ee486c1e.json)
 
 [Extended Data](ext_articles/ee486c1e.ext.json)
-
----
-
-### Indian High Commissioner Santos Ja
-
-*2024-02-23 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177084) · `ta`
-
-Indian High Commissioner to Sri Lanka Santos Ja, MP Sivagnanam Sridharan, held a meeting on Wednesday (21) in India House.
-
-He congratulated Sridharan for the election of the leader of the Tamil National Alliance (TNA) and urged the party's next move.
-
-The meeting was also attended by the Deputy High Commissioner of the Indian Embassy in Sri Lanka, Satyanchal Pandey.
-
-◼️
-
-[Data](articles/2f1e3812.json)
-
-[Extended Data](ext_articles/2f1e3812.ext.json)
-
----
-
-### Royal - Tomian Cricket Society for the 19th time Dialog sponsor
-
-*2024-02-23 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177083) · `ta`
-
-Royal College to be held this year. Dialog Acida PLC sponsorship for the sapphire of the blue paints between Thoma's College.
-
-It is a special feature that Sri Lanka's leading telecommunications affiliate, Dialog Acida PLC, has been sponsoring this competition for the 19th consecutive year.
-
-Royal - Tomian, known as the Samar of the Neelavarna, is the chief marketing officer of the Dialog Acida PLC Group, Lasantha Devapperuma.. Toma's College Principal. The picture taken when Mark Filmoria and Royal College Principal Tilak Vathuhewa received. Royal - Thomian Competition Organization Co -Chairperson Rehan Gunasekera (Royal College) and Arjuna Vaidyasekara (Pari. Toma's College) can also be seen in the picture.
-
-Royal College, Colombo. Samar SSC of the 145th blue paints between Toma's College. The stadium will be held on March 7, 8 and 9.
-
-Meanwhile, the Mastangs Bowl ODI between the two colleges will be held on March 16 at the same stadium.
-
-...
-
-[Data](articles/4854ba38.json)
-
-[Extended Data](ext_articles/4854ba38.ext.json)
-
----
-
-### Banks alarmed over parate execution suspension move
-
-*2024-02-23 00:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Banks-alarmed-over-parate-execution-suspension-move/155-277588) · `en`
-
-Move seen as caving to pressure from debt evaders’ intense lobbying
-
-Stress any move to amend parate rights of banks must be initiated with the financial sector regulator
-
-Sri Lanka’s banking sector is on the edge of following the government’s decision to suspend parate execution rights. This move, seen as caving to pressure from debt evaders’ intense lobbying, is raising concerns about the sector’s ability to support economic recovery.
-
-“The banks believe that this is an unnecessary intervention that  will weaken the strength of banks to perform their role in supporting the economic sectors that will revive the country,” the Sri Lanka Banks Association (SLBA) told Mirror Business, while pointing out they are “alarmed” by the statement made by the State Minister of Finance, Ranjith Siyambalapitiya, in parliament this week.
-
-The SLBA urged the government not to play into the delaying tactics of these borrowers.
-
-...
-
-[Data](articles/3252b3d6.json)
-
-[Extended Data](ext_articles/3252b3d6.ext.json)
-
----
-
-### Banks alarmed over parate execution suspension move
-
-*2024-02-23 00:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Banks-alarmed-over-parate-execution-suspension-move/108-277588) · `en`
-
-Move seen as caving to pressure from debt evaders’ intense lobbying
-
-Stress any move to amend parate rights of banks must be initiated with the financial sector regulator
-
-Sri Lanka’s banking sector is on the edge of following the government’s decision to suspend parate execution rights. This move, seen as caving to pressure from debt evaders’ intense lobbying, is raising concerns about the sector’s ability to support economic recovery.
-
-“The banks believe that this is an unnecessary intervention that  will weaken the strength of banks to perform their role in supporting the economic sectors that will revive the country,” the Sri Lanka Banks Association (SLBA) told Mirror Business, while pointing out they are “alarmed” by the statement made by the State Minister of Finance, Ranjith Siyambalapitiya, in parliament this week.
-
-The SLBA urged the government not to play into the delaying tactics of these borrowers.
-
-...
-
-[Data](articles/7c2a46fe.json)
-
-[Extended Data](ext_articles/7c2a46fe.ext.json)
-
----
-
-### 2024-02-22 (Thursday)
-
-### Let Dudley speak
-
-*2024-02-22 23:52:43* · [`dailyftlk`](https://www.ft.lk/columns/Let-Dudley-speak/4-758798) · `en`
-
-By chasing away Dudley Sirisena in that manner, the students violated a basic tenet of higher learning
-
-“Everything is abnormal in our society; that is how these things happen, and, when they do, nobody knows how to act – not only in the most difficult situations, but even in the simplest”
-
-“Happy families are all alike, every unhappy family is unhappy in its own way” – Anna Karenina-Leo Tolstoy
-
-Sirisena should have been heard by the students. From every dialog there is something to be learnt. When a person talks about his career, he is invariably the hero of the story, his success is presented in heroic terms. It is for the listener to give an intelligent ear. Openness to the ‘other’ is fundamental to the intellectual process
-
-...
-
-[Data](articles/070026e2.json)
-
-[Extended Data](ext_articles/070026e2.ext.json)
-
----
-
-### COPF questions Fin. Min.’s reluctance to adopt VAT amendment recommendations
-
-*2024-02-22 23:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97466/copf-questions-fin-mins-reluctance-to-adopt-vat-amendment-recommendations) · `en`
-
-The Finance Ministry officials have told the Committee on Public Finance (COPF) that the revenue loss incurred from the initial ‘sugar scam’ should be classified as tax foregone, instead of a tax loss.
-
-This was mentioned when the Finance Ministry officials were summoned before the COPF on Tuesday (22).
-
-When asked about the progress of recovering the lost revenue resulting from the initial ‘sugar scam’, as highlighted in the report by the Auditor General, the ministerial officials contended that it should not be classified as a tax loss, but rather as tax foregone due to the reduction of the special commodity levy from Rs. 50 to 25 cents.
-
-Despite this explanation, the COPF members pressed the officials for data on certain companies that had disproportionately profited from this tax adjustment, amounting to Rs. 1.4 billion from six companies, with an additional six companies yet to be investigated.
-
-...
-
-[Data](articles/37799f0f.json)
-
-[Extended Data](ext_articles/37799f0f.ext.json)
 
 ---

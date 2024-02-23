@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 14:32:56**
+As of **2024-02-23 14:49:27**
 
 ## Newspaper Stats
 
-*Scraped **8,884** Articles*
+*Scraped **8,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 750
-adaderanalk | 1,061
+adaderanalk | 1,063
 tamilmirrorlk | 1,100
-virakesarilk | 1,203
+virakesarilk | 1,205
 adaderanasinhalalk | 1,313
 dailymirrorlk | 1,329
 
@@ -26,27 +26,49 @@ dailymirrorlk | 1,329
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,883 (100.0%) of 8,884 articles have been extended.
+8,888 (100.0%) of 8,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### මියන්මාර මිනිස් ජාවාරමට තවත් ශ්‍රී ලාංකිකයෙක් රැගෙන එයි
+### Another Sri Lankan brings another Sri Lankan to human racket
 
 *2024-02-23 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193736) · `si`
 
-සංචාරක වීසා මත තායිලන්තයට ගොස් එහි දේශසීමාව හරහා මියන්මාරයට ඇතුළුවූ ශ්‍රී ලාංකිකයින් 25කට වැඩි පිරිසක් එරට ත්‍රස්තවාදී සංවිධානයක් විසින් සිය ග්‍රහණයට ගෙන ඇති බව අප පසුගිය මාස කිහිපය තුළ වාර්තා කළේය.
+In the past few months, we reported over the past few months that more than 25 Sri Lankans have gone to Thailand on tourist visa.
 
-එම පිරිස මියන්මාරයේ ත්‍රස්ත කඳවුරක් තුළ බලහත්කාරයෙන් රඳවාගෙන සයිබර් වහලුන් ලෙස සේවය ලබාගන්නා බව අනාවරණය වුණි.
+It was revealed that they were forcibly held in a terrorist camp in Myanmar.
 
-එවැනි පසුබිමක් තුළ තවත් ශ්‍රී ලාංකිකයෙක් එම සයිබර් වහල් කඳවුර වෙත රැගෙන ගොස් ඇති අතර එම ශ්‍රී ලාංකිකයා මියන්මාරයේ ත්‍රස්තවාදින් රැගෙන යන අයුරු වීඩියෝ කර තිබුණි.
+In such a backdrop, another Sri Lankan has been taken to the Cyber slavery camp, and the Sri Lankan has been videoing the LTTE terrorists in Myanmar.
 
-ඔහු තොරතුරු අනාවරණය කර ඇති පරිදි ඉදිරියේදී තවත් 15 දෙනෙකුගෙන් යුත් කණ්ඩායමක් අදාළ කඳවුර වෙත රැගෙන ඒමට ද නියමිතය.
+He is also due to be taken to the camp in the future, as he has revealed.
 
 ◼️
 
 [Data](articles/72dff205.json)
+
+[Extended Data](ext_articles/72dff205.ext.json)
+
+---
+
+### World’s largest snake: New species of green anaconda discovered in Amazon
+
+*2024-02-23 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97478/worlds-largest-snake-new-species-of-green-anaconda-discovered-in-amazon) · `en`
+
+Scientists have discovered a previously undocumented species of giant anaconda in the Amazon which they say can grow up to 7.5m and weighing close to 500kg, making it the largest and heaviest snake yet known in the world.
+
+Until now, four species of anacondas were known, with the largest one – the green anaconda – inhabiting tropical parts of South America such as the basins of the Amazon, Orinoco, and Esequibo rivers, as well as some smaller watersheds.
+
+These anacondas, found in the rivers and wetlands of South America, are well known for their lightning speed and ability to squeeze the life out of prey by coiling around, asphyxiating them, and swallowing them whole.
+
+A newly published decades-long study has now found that the green anaconda is genetically two different species.
+
+...
+
+[Data](articles/b1c207ba.json)
+
+[Extended Data](ext_articles/b1c207ba.ext.json)
 
 ---
 
@@ -94,9 +116,53 @@ The Secretary to the President Saman Ekanayake has emphasized that other honors 
 
 ---
 
+### Sword cut in Jaffna - two injured
+
+*2024-02-23 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177126) · `ta`
+
+The violent gang, which entered a house on Thursday (22) in the Jaffna - Achchu area, has damaged the house and carried out a sword attack on two people.
+
+The two injured have been admitted to the Kopay Hospital and then sent to the Jaffna Teaching Hospital for further treatment.
+
+Achchuveli police, which are responsible for the violence, are investigating the incident.
+
+◼️
+
+[Data](articles/ddf2f132.json)
+
+[Extended Data](ext_articles/ddf2f132.ext.json)
+
+---
+
+### Army threatened 3 Tamil journalists in Jaffna
+
+*2024-02-23 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177125) · `ta`
+
+Three Tamil journalists who were on duty in Jaffna, Palali and Vasavilan area have been threatened by the military, as there are allegations of security forces in the North and East.
+
+The cell phones of three journalists have been seized by the military and the photos and videos of it have been destroyed.
+
+Three Tamil journalists - Prabhakaran Dilkson, Sundarambillai Rajeskaran and Chinnaiah Yogeswaran have been threatened by the military.
+
+Journalist Prabhakaran Dilkson reports that the soldiers who photographed him have registered their names.
+
+The public has been granted permission to worship the army of temples in the military control area in Palali Vasavilan, Jaffna.
+
+In this backdrop, the public was gathered in the area liberated by the army in front of the military residence near Palali Road to visit the military -controlled temples at around 8 am today.
+
+It was threatened by the military and the videos and photos on their mobile phone.
+
+...
+
+[Data](articles/7086b1fe.json)
+
+[Extended Data](ext_articles/7086b1fe.ext.json)
+
+---
+
 ### Tamil people who went to Pongal events at Kandaswamy Hill Temple in Trincomalee
 
-*2024-02-23 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177123) · `ta`
+*2024-02-23 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177123) · `ta`
 
 The Pulmottai police have issued a ban on the Pongal event by the Pulmottai police who went to the annual Pongal worship at the Kandaswamy Kandaswamy Hill Murugan Temple, a border in the Trincomalee district.
 
@@ -205,6 +271,26 @@ He said that the patient could only undergo a prescribed drug or laboratory test
 [Data](articles/87206586.json)
 
 [Extended Data](ext_articles/87206586.ext.json)
+
+---
+
+### State Minister hails Sri Lanka’s ‘civilisational link’ with India, calls China ‘important trading partner’
+
+*2024-02-23 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97477/state-minister-hails-sri-lankas-civilisational-link-with-india-calls-china-important-trading-partner) · `en`
+
+Tharaka Balasuriya, Sri Lanka’s Minister of State for Foreign Affairs, spoke to WION’s diplomatic correspondent Sidhant Sibal on the sidelines of Raisina Dialogue 2024 in New Delhi.
+
+Balasuriya weighed in on several issues ranging from the India-Lanka relationship, Colombo’s ties with China, tourism, Unified Payments Interface (UPI), and more.
+
+While speaking on China, Balasuriya said that “both countries are friends”, but in India’s case it’s a “civilisational link” as he pointed out the historical connection of cultures. He said that China is an “important trading partner”, but so are other countries.
+
+WION: How do you see the India-Sri Lanka relationship, especially in the light of financial connectivity? We saw recently the launch of UPI in your country.
+
+...
+
+[Data](articles/962454e5.json)
+
+[Extended Data](ext_articles/962454e5.ext.json)
 
 ---
 
@@ -1118,7 +1204,7 @@ The 111th Ashadowa Poya Program is a number of programs including Dharma preachi
 
 Showers or thundershowers will occur at several places in Western, Southern, Sabaragamuwa, Central, North-western and Uva provinces in the evening or at night, the Department of Meteorology says.
 
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and Galle and Matara districts during the morning.
 
 The public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
 
@@ -1911,75 +1997,5 @@ IPC is a global organisation that supports Original Equipment Manufacturers (OEM
 [Data](articles/bc055d04.json)
 
 [Extended Data](ext_articles/bc055d04.ext.json)
-
----
-
-### Baur’s CEO delivers leadership session to BOI top executives
-
-*2024-02-22 23:04:21* · [`dailyftlk`](https://www.ft.lk/business/Baur-s-CEO-delivers-leadership-session-to-BOI-top-executives/34-758779) · `en`
-
-A. Baur & Co. Managing Director/CEO Rolf Blaser recently addressed the top management of the Board of Investment on leadership and delivery. The BOI HR Department has been organising monthly leadership power sessions by inviting top external experts from the private sector on several related fields as part of an ongoing HRD program to strengthen HR capacity within the BOI.
-
-◼️
-
-[Data](articles/bc5303d4.json)
-
-[Extended Data](ext_articles/bc5303d4.ext.json)
-
----
-
-### Samsung unveils Galaxy A15 5G, elevating accessibility and innovation in Sri Lanka
-
-*2024-02-22 23:03:46* · [`dailyftlk`](https://www.ft.lk/business/Samsung-unveils-Galaxy-A15-5G-elevating-accessibility-and-innovation-in-Sri-Lanka/34-758778) · `en`
-
-Samsung, the leading consumer electronics brand in Sri Lanka, has unveiled the latest addition to its lineup – the Galaxy A15 5G, in 2024.
-
-As part of the Galaxy A series, this release underscores Samsung’s commitment to providing cutting-edge technology at an accessible price point, ensuring that innovation is within reach for all.
-
-The Galaxy A series represents Samsung’s ability to deliver transformative features without compromising affordability, earning it the trust of millions of consumers in Sri Lanka. With the Galaxy A15 5G, Samsung continues this legacy by introducing an exceptional camera and a suite of intuitive photo-editing tools, empowering users to capture and refine their creativity effortlessly, wherever they go.
-
-Distinguished by Galaxy’s renowned design philosophy, the Galaxy A15 5G features a glastic back panel with a subtle haze finish, complemented by a redesigned side panel and a flat linear camera housing, enhancing both aesthetics and grip.
-
-...
-
-[Data](articles/54eac223.json)
-
-[Extended Data](ext_articles/54eac223.ext.json)
-
----
-
-### Maxim Sri Lanka wins Gold at IDB Awards
-
-*2024-02-22 23:03:38* · [`dailyftlk`](https://www.ft.lk/business/Maxim-Sri-Lanka-wins-Gold-at-IDB-Awards/34-758777) · `en`
-
-Maxim Impressions Chairman Ravi Karunarathne receives the award. Director – Sustainable Business M.D. Dain, Deputy General Manager Suraji Dissanayake, and Operations Manager Salith Yatawara are also present
-
-Maxim Impressions Lanka Ltd., a subsidiary company of Maxim Smart Manufacturing Company Ltd., the globally known destination for retailers to source high-quality garment labels, packaging and related services, bagged the Gold Award in the Large-Scale Category (Advance Manufacturing and Digital Technology Sector) at the National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB).
-
-...
-
-[Data](articles/0e719293.json)
-
-[Extended Data](ext_articles/0e719293.ext.json)
-
----
-
-### Electrical panel board specialist Pubudu Engineering turns 33
-
-*2024-02-22 23:02:52* · [`dailyftlk`](https://www.ft.lk/business/Electrical-panel-board-specialist-Pubudu-Engineering-turns-33/34-758776) · `en`
-
-Pubudu Engineering Chairman and Managing Director T.A.S. Premalal, the management and the staff celebrating the 33rd anniversary
-
-Pubudu Engineering Ltd., a leading electrical panel board manufacturing company in Sri Lanka under the chairmanship of T.A.S. Premalal, celebrated its 33rd anniversary in the presence of the staff and a distinguished gathering recently.
-
-Employees who have been serving the company during the past 10, 15, 20, 25 years and over were felicitated for their services at this occasion. The staff and the management hailed the leadership of the chairman, managing director and presented a token of appreciation to him at the ceremony.
-
-What began as a micro scale business entity in 1991, Pubudu Engineering has now risen to be one of the largest and well respected electrical engineering firms in Sri Lanka, employing over 200 people and housing state of the art machinery.
-
-...
-
-[Data](articles/846e54fd.json)
-
-[Extended Data](ext_articles/846e54fd.ext.json)
 
 ---

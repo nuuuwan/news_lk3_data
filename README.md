@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 22:50:29**
+As of **2024-02-23 23:02:26**
 
 ## Newspaper Stats
 
-*Scraped **8,950** Articles*
+*Scraped **8,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 economynextcom | 459
 islandlk | 464
 dailyftlk | 483
-adalk | 751
+adalk | 754
 adaderanalk | 1,072
 tamilmirrorlk | 1,106
-virakesarilk | 1,220
-adaderanasinhalalk | 1,327
-dailymirrorlk | 1,343
+virakesarilk | 1,224
+adaderanasinhalalk | 1,328
+dailymirrorlk | 1,346
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,950 (100.0%) of 8,950 articles have been extended.
+8,950 (99.9%) of 8,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### சதம் குவித்து இங்கிலாந்தை மீட்டெடுத்தார் ஜோ ரூட் ; அறிமுக வீரர் தீப் அபாரம், அஷ்வின் மைல்கல் சாதனை
+
+*2024-02-23 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177160) · `ta`
+
+இந்தியாவுக்கு எதிரான ஐந்து போட்டிகள் கொண்ட டெஸ்ட் தோடரில் தோல்வியைத் தவிர்க்க வேண்டிய கட்டாயத்தில் ரஞ்சி விளையாட்டரங்கில் நான்காவது டெஸ்ட் போட்டியை எதிர்கொண்ட இங்கிலாந்து, முன்னாள் அணித் தலைவர் ஜோ ரூட்டின் அற்புதமான சதத்தின் உதவியுடன் சிறந்த நிலையை அடைந்துள்ளது.
+
+இந்திய டெஸ்ட் அணியில் அறிமுகமான ஆகாஷ் தீப் போட்டி ஆரம்பமாவதற்கு முன்னர் தனது குடும்பத்தினரிடம் ஆசி பெறுவதைப் படத்தில் காணலாம்.
+
+இன்று வெள்ளிக்கிழமை ஆரம்பமான இப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இங்கிலாந்து முதலாம் நாள் ஆட்ட நேர முடிவில் அதன் முதல் இன்னிங்ஸில் 7 விக்கெட்களை இழந்து 302 ஓட்டங்களைப் பெற்றிருந்தது.
+
+முதல் 3 டெஸ்ட் போட்டிகளில் பிரகாசிக்கத் தவறிய ஜோ ரூட் இந்தப் போட்டியில் மிகத் திறமையாக துடுப்பெடுத்தாடி தனது 31ஆவது டெஸ்ட் சதத்தைப் பூர்த்திசெய்தார்.
+
+அதேவேளை, இந்த டெஸ்ட் போட்டிக்கு ஓய்வு வழங்கப்பட்ட ஜஸ்ப்ரிட் பும்ராவுக்குப் பதிலாக அணியில் இடம்பெற்ற அறிமுக வீரர் ஆகாஷ் தீப் எதிரணியின் முதல் 3 வீரர்களை ஆட்டம் இழக்கச் செய்து அணியினரின் பாராட்டைப் பெற்றார். ஆனால், அதன் பின்னர் அவரால் சாதிக்க முடியாமல் போனது.
+
+...
+
+[Data](articles/b4efcdcb.json)
+
+---
+
+### Protecting sea lanes vital for Indo-Pacific economic growth: US Deputy Secretary of State Verma
+
+*2024-02-23 22:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protecting-sea-lanes-vital-for-Indo-Pacific-economic-growth-US-Deputy-Secretary-of-State-Verma/108-277620) · `en`
+
+Colombo, Feb 23 - The United States remains committed to the economic growth and prosperity of Sri Lanka, Deputy Secretary of State for Management and Resources Richard Verma told government, civil society and economic leaders during his February 23 to 24 visit to Sri Lanka.
+
+Verma met President Ranil Wickremesinghe and Foreign Minister Ali Sabry to discuss the progress on Sri Lanka’s IMF programme, including inclusive economic and governance reforms aimed at keeping Sri Lanka on the path to sustainable economic growth.
+
+Deputy Secretary Verma stressed the vital need to protect human rights and fundamental freedoms, including freedom of expression. They also explored opportunities to deepen defense and maritime cooperation between the United States and Sri Lanka, including strengthening the Sri Lanka Navy’s capabilities to safeguard national security and promote a more stable Indo-Pacific region.
+
+...
+
+[Data](articles/53538a1b.json)
+
+---
 
 ### Pursuing all avenues for repatriation of Sri Lankans trafficked into Myanmar - Foreign Ministry
 
@@ -52,6 +88,64 @@ The Embassy of Sri Lanka in Myanmar has also been consistently bringing to the n
 
 ---
 
+### துபாய் இரவு விடுதியில் மோதல்: 13 இலங்கையர்கள் கைது!
+
+*2024-02-23 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/177159) · `ta`
+
+பெலியத்தவில் ஐவர் படுகொலை செய்யப்பட்ட சம்பவத்துக்கு  ஆதரவளித்தார்கள் எனக் கூறப்படும் உரகஹ மைக்கல், பௌஸ் ஹர்ஷா ஆகியோரும் துப்பாக்கிச் சூடு நடத்தியதாக சந்தேகிக்கப்படும் இருவரும் துபாய் நாட்டு பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+துபாயில் உள்ள ஒரு இரவு விடுதியில் இடம்பெற்ற மோதல் சம்பவம் தொடர்பில் குறித்த நால்வர் உட்பட 13 இலங்கையர்கள் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+கைது செய்யப்பட்ட 13 பேரும் பெலியத்தவில் ஐவரின் படுகொலைகளுக்கு தலைமை தாங்கியதாக சந்தேகிக்கப்படும் கொஸ்கொட சுஜீயின் நெருங்கிய உறவினர்கள் எனத் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/906ffd3d.json)
+
+---
+
+### වෙඩි තැබීමකට අදාළ සැකකරුවෙකු අත්අඩංගුවට
+
+*2024-02-23 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193751) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු වන ගනේමුල්ල සංජීවගේ මෙහෙයවීමෙන් කඳාන ප්‍රදේශයේ ව්‍යාපාරිකයෙකුගේ නිවසට වෙඩි තැබීම සඳහා පැමිණි යතුරුපැදියේ පැදිකරු අත්අඩංගුවට ගත් බව මත්තේගොඩ පොලීසිය පවසයි.
+
+සැකකරු සූරියආර ප්‍රදේශයේ පදිංචි 'කොට්ටාවේ සුද්දා' නැමැති 40 හැවිරිදි අයෙකි.
+
+ගනේමුල්ල සංජීව අවස්ථා කිහිපයක දී ව්‍යාපාරිකයාගෙන් කප්පම් ඉල්ලා ඊට යහපත් ප්‍රතිචාරයක් නොලැබීම මත ඔහුව බිය ගැන්වීමේ අරමුණින් ඔහුගේ නිවසට වෙඩිතබා ඇති බව වාර්තා වේ.
+
+කඳාන පොලීසිය සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මේ පිළිබඳ කළ විමර්ශන අතරතුරදී කොට්ටාවේ සුද්දා නැමැත්තා  මෙලෙස අත්අඩංගුවට පත්ව ඇත.
+
+කෙසේ වෙතත් වෙඩික්කරු මේ වන විට විදේශයකට පළා ගොස් ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/cad1984a.json)
+
+---
+
+### மகளிர் பிறீமியர் லீக் பெங்களூருவில் இன்று ஆரம்பம்
+
+*2024-02-23 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177158) · `ta`
+
+உலகம் முழுவதும் உள்ள கிரிக்கெட் இரசிகர்களால் மிகவும் ஆவலுடன் எதிர்பார்க்கப்பட்ட மகளிர் பிறீமியர் லீக்கின் (WPL 2024) இரண்டாவது அத்தியாயம் வெள்ளிக்கிழமை (23) ஆரம்பமாகிறது.
+
+ஆரம்பப் போட்டியில் டெல்ஹி கெப்பிட்டல்ஸ் அணியும் நடப்பு சம்பியன் மும்பை இண்டியன்ஸ் அணியும் மோதுகின்றன.
+
+கிரிக்கெட் விளையாடும் நாடுகளில் மகளிர் கிரிக்கெட் போட்டிகளில் அசத்திவரும் வீராங்கனைகள் பலர் இவ் வருட மகளிர் பிறீமியர் லீக் கிரிக்கெட் போட்டியில் விளையாடுகின்றனர்.
+
+இன்றைய போட்டிக்கு முன்பதாக சினிமா நட்சத்திரங்களின் பங்கேற்புடன் பிரமாண்டமான ஆரம்ப விழா வைபவம் பெங்களூருவில் நடைபெற்றது.
+
+இம்முறை டெல்ஹி கெப்பிட்டல்ஸ், குஜராத் டைட்டன்ஸ், மும்பை இண்டியன்ஸ், றோயல் செலஞ்சர்ஸ் பெங்களூர், யூபி வொரியர்ஸ் ஆகிய ஐந்து அணிகள் இரண்டு சுற்றுகளில் விளையாடுகின்றன.
+
+இந்த அணிகளின் தலைவிகளாக  முறையே மெக் லெனிங், பெத் மூனி, ஹாமன்ப்ரீத் கோர், ஸ்ம்ரிதி மந்தானா, அலிசா ஹீலி ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/1004ce8b.json)
+
+---
+
 ### US to further strengthen defense cooperation with Sri Lanka, donate fourth patrol vessel
 
 *2024-02-23 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97486/us-to-further-strengthen-defense-cooperation-with-sri-lanka-donate-fourth-patrol-vessel) · `en`
@@ -69,6 +163,20 @@ They also explored opportunities to deepen defense and maritime cooperation betw
 [Data](articles/9c94f5fe.json)
 
 [Extended Data](ext_articles/9c94f5fe.ext.json)
+
+---
+
+### சீன நகரில் 100 வாகனங்கள் ஒன்றுடன் ஒன்று மோதி விபத்து!
+
+*2024-02-23 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177157) · `ta`
+
+சீனாவின் சௌச்சோவ் (Souchov) நகரில் உள்ள வீதியொன்றில் சுமார் 100 வாகனங்கள் ஒன்றுடன் ஒன்று மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+
+விபத்தில் காயமடைந்த மூவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் மேலும் ஆறு பேர் சிறு காயங்களுக்கு உள்ளாகியுள்ளதாகவும் வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+◼️
+
+[Data](articles/0a0adcdd.json)
 
 ---
 
@@ -213,6 +321,46 @@ The government has decided to implement a visa -free entrance plan to seven coun
 [Data](articles/6bbfc493.json)
 
 [Extended Data](ext_articles/6bbfc493.ext.json)
+
+---
+
+### ජනපති සහ එක්සත් ජනපද නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා අතර හමුවක්
+
+*2024-02-23 20:47:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-එක්සත්-ජනපද-නියෝජ්‍ය-රාජ්‍ය-ලේකම්වරයා-අතර-හමුවක්/11-408248) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඇමෙරිකා එක්සත් ජනපදයේ කළමනාකරණ සහ සම්පත් පිළිබඳ නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් වර්මා මහතා අතර හමුවක් ජනාධිපති කාර්යාලයේදී අද (23) පෙරවරුවේදී සිදු විය.
+
+ශ්‍රී ලංකා ආර්ථිකය යථා තත්ත්වයට පත් කිරීමට රජය ප්‍රමුඛ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගනු ලබන පියවර මෙහිදී නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා ගේ ඇගයීමට ලක් විය.
+
+කෘෂිකාර්මික නවීකරණ වැඩසටහන ඇතුළු ශ්‍රී ලංකාව තුළ මේ වන විට සිදු කෙරෙන ප්‍රධාන ආර්ථික ප්‍රතිසංස්කරණ සහ ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියෙහි ප්‍රගතිය පිළිබඳව ජනාධිපතිවරයා මෙහිදී එක්සත් ජනපද නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා දැනුවත් කළේය.
+
+ගෝලීය ආරක්ෂාවට අදාළ කරුණු සම්බන්ධයෙන් ද මෙහිදී සාකච්ඡාවට ලක් වූ අතර රතු මුහුදේ සිදු කෙරෙන නාවික මෙහෙයුම් සඳහා ශ්‍රී ලංකා රජය ලබාදුන් සහය වෙනුවෙන් නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ස්තූතිය පළ කර සිටියේය.
+
+හුති කැරලිකරුවන් සම්බන්ධයෙන් සෞදි අරාබියේ ස්ථාවරත්වයට සහාය පළ කරමින් ඉන්දීය සාගරයේ නාවික ගමනාගමනයේ නිදහස වෙනුවෙන් ශ්‍රී ලංකාව තවදුරටත් කැපවී සිටින බව මෙහිදී ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+
+...
+
+[Data](articles/bd4c7b0c.json)
+
+---
+
+### ගාල්ලෙන් ඇවිත් ඉබ්බන්කටුවේ අවසන් ගමන් යයි
+
+*2024-02-23 20:40:07* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලෙන්-ඇවිත්-ඉබ්බන්කටුවේ-අවසන්-ගමන්-යයි/11-408246) · `si`
+
+දඹුල්ල ඉබ්බන්කටුව ජලාශයේ විදුලි බලාගාරය ආසන්නයේ දිය  නෑමට  ගිය පාසල් සිසුවෙක් 23 දින පස්වරුවේ දියේ ගිලි  මියගොස් ඇතැයි දඹුල්ල පොලිස් ජීවිත ආරක්ෂක ඒකකය කියයි.
+
+මෙසේ මියගොස්  ඇත්තේ  ගාල්ල  හල්විටිගල  ප්‍රදේශයේ පදිංචි වයස අවුරුදු දාසයක් වූ සමිඳු නෙත්මිණ  නැමැති පාසල් සිසුවෙකි
+
+තම පුංචි අම්මා මිත්තණිය කුඩා මලනුවන් සමඟින් අනුරාධපුරයේ වන්දනාවේ යන අතරතුර සීගිරි  ගලේ ගොස් මෙම පිරිස ඉබ්බං කටුව ජලාශයේ ඉතා අනාරක්ෂිත ස්ථානයක දිය නෑමට ගොස් ඇතැයි පොලිසිය කියයි.
+
+මෙම ස්ථානයේ විදුලි  බලාගාරයට ජලය සැපයෙන ප්‍රධාන  හැරවූම පිහිටා ඇති අතර  එම ස්ථානයෙන් දිය නෑම සඳහා මිත්තණිය  පුංචි අම්මා  මලනුවන් සමග   වැවට බැසීමත් සමඟින් මෙම පාසල් සිසුවා  දිය වැලට හසු වී ගසාගෙන ගිය බව මිත්තණිය සඳහන් කළාය.
+
+පසුව දඹුල්ල පොලිසියේ  ජීවිත ආරක්ෂක ඒකකයේ කණ්ඩායම පැමිණ  කිමුදුම්  කට්ටල යොදාගෙන පැය දෙකකට පමණ පසුව   සිසුවාගේ මළ සිරුර ගොඩ  ගැනීම සිදුකරන ලදී
+
+◼️
+
+[Data](articles/af22b916.json)
 
 ---
 
@@ -709,6 +857,22 @@ The Deputy Secretary of State has thanked President Ranil Wickremesinghe for the
 [Data](articles/7f7e7495.json)
 
 [Extended Data](ext_articles/7f7e7495.ext.json)
+
+---
+
+### Indian legislator, 37, dies in car accident
+
+*2024-02-23 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Indian-legislator-37-dies-in-car-accident/107-277613) · `en`
+
+Sangareddy, Feb 23 (India Today) -  G Lasya Nanditha, a prominent Bharat Rashtra Samithi (BRS) politician and Member of the Telangana Legislative Assembly, died in a car accident in Sangareddy on Friday.
+
+The accident occurred on the Sultanpur Outer Ring Road (ORR) in the district’s Aminpur mandal. Nanditha, 37, was travelling in an SUV when it reportedly lost control and collided with the divider, leading to fatal injuries for the MLA.
+
+She was rushed to a nearby hospital, where doctors declared her dead on arrival. The driver was critically injured in the crash and is currently receiving medical treatment.
+
+...
+
+[Data](articles/58743fda.json)
 
 ---
 
@@ -1440,6 +1604,22 @@ He said that the patient could only undergo a prescribed drug or laboratory test
 
 ---
 
+### හර්ෂ ඔස්ට්‍රේලියාවේ නිල සංචාරයක
+
+*2024-02-23 12:43:37* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂ-ඔස්ට්‍රේලියාවේ-නිල-සංචාරයක/11-408245) · `si`
+
+සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී සහ රාජ්‍ය මුදල් කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා ඕස්ට්‍රේලියානු රජයේ නිළ ආරාධනාවකට අනුව මේ දිනවල ඕස්ට්‍රේලියාවේ සංචාරයක යෙදෙනවා.
+
+මෙහිදී, විශේෂ අමුත්තෙකු ලෙස ඔහු දින 09 ක් පුරා ඕස්ට්‍රේලියාවේ වැදගත් පාර්ශව ගණනාවක් මුණගැසී සාකච්ඡා කිරීමට නියමිත අතර පළමුවෙන්ම  මෙල්බර්න් නගරයේ ප්‍රතිපත්ති සම්පාදකයින්, විද්වතුන්, විද්‍යාඥයින් සහ ආයෝජන කළමනාකරුවන් මුණ ගැසෙනවා.
+
+ඉන් අනතුරුව, ඔහු ඇඩිලේඩ් සහ කැන්බරා හි වෙසෙන රජයේ නිළධාරීන් සහ දේශපාලනඥයින් ගණනාවක් මුණ ගැසීමට නියමිතයි.
+
+◼️
+
+[Data](articles/c360f181.json)
+
+---
+
 ### Kachchativu: Festival of Indo-Lanka Fisheries Program
 
 *2024-02-23 12:33:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p9k80yleyo) · `si`
@@ -1925,207 +2105,5 @@ Further investigations into the murder are being carried out by the police and t
 [Data](articles/d8da0e73.json)
 
 [Extended Data](ext_articles/d8da0e73.ext.json)
-
----
-
-### ’Yukthiya’ Operation nets 83 suspects on Poya day
-
-*2024-02-23 10:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukthiya-Operation-nets-83-suspects-on-Poya-day/108-277603) · `en`
-
-Anuradhapura, Feb 23 (Daily Mirror) - A total of 83 suspects were arrested during the continuing 'Yukthiya Operation' conducted targeting those arriving at the Anuradhapura town in view of Nawam Poya Day, police said.
-
-Anuradhapura Divisional Senior Superintendent of Police, Thilinahewa Pathirana and more than 250 police and Police Special Task Force personnel joined this operation.
-
-Fifty five persons were arrested for possession of drugs, cannabis and illegal liquor; 21 with pending warrants and 4 drivers for driving their vehicles while under the influence of liquor.
-
-The arrested individuals are to be produced before the Anuradhapura magistrate's court and further investigations will be conducted by the Anuradhapura police.
-
-◼️
-
-[Data](articles/9fb24ca2.json)
-
-[Extended Data](ext_articles/9fb24ca2.ext.json)
-
----
-
-### Religious observances at Bellanwila
-
-*2024-02-23 10:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Religious-observances-at-Bellanwila/110-277601) · `en`
-
-Religious observances at Bellanwila People gathered at the Bellanwila Raja Maha Viharaya were seen taking part in religious observances today on Nawam Full Moon Poya day. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/0d179406.json)
-
-[Extended Data](ext_articles/0d179406.ext.json)
-
----
-
-### Explanation on providing land deeds
-
-*2024-02-23 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193726) · `si`
-
-State Minister Ranjith Siyambalapitiya said that the Land Deeding Program is scheduled to be planned for several categories.
-
-The State Minister stated that necessary steps will be taken to provide the relevant lands with a document responsible subject to a specific methodology.
-
-"This divides this to several groups. We admit you as an asparam of your land. This is the program to provide a freehold deed. The government needs is to prove their right to support them. "
-
-Team 01 - Allowance has been received. The land is measured. Category with no problems
-
-2nd Team - has been given permits. The land is measured. Category with no problems
-
-◼️
-
-[Data](articles/7149cfd8.json)
-
-[Extended Data](ext_articles/7149cfd8.ext.json)
-
----
-
-### 'How I Write': K K Saman Kumara
-
-*2024-02-23 09:53:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0xl34p7wd8o) · `si`
-
-Ki Saman Kumara is a novelist cannot be avoided in contemporary Sinhala literature.
-
-Also, the novelist who constantly challenges the dominant forms to modernize Sinhala literary.
-
-Neuroshenna, the hole of the Naramanna, high, highlights the honeycohel, the Sri Lankan and Mahailawana like Sri Lanka, Mahailawlanda and has contributed immensely short stories, poetry and criticism.
-
-I talk to him as a novelist as a noteworthy person with the objective of understanding the emotions and writing he felt as a dominant.
-
-The questions I hear in this discussion is currently written by the history (2019) and pressing from this link wind (2014) and have emerged from the experience I faced.
-
-Every writer is well-known for his own way of writing. Where writing, writing, writing, how to write, the writing of the coffee, belong to the writer's abundance.
-
-The conversation is seeking to pointer to that secret site of the newcomers.
-
-...
-
-[Data](articles/51944c28.json)
-
-[Extended Data](ext_articles/51944c28.ext.json)
-
----
-
-### A stock of illegal e cigarettes raided
-
-*2024-02-23 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193725) · `si`
-
-The Ja-Canal Excise has evacuated to raid a network of electronic cigarettes in the online system.
-
-A 25-year-old suspect was arrested and was a resident of Panadura.
-
-Superior Excise Superior Author Prash Fernando said that a stock of Rs.
-
-He said that the youth and children were addicted to the e cigarettes and that this is a dangerous situation.
-
-"This is a fierce addicer than cigarettes. Cannot help you drink cigarettes. Different scents are released. If you get your baby next, look in please. These e cigarettes have produced many different ways. Sometimes a smart Watch is manufactured in a way that is not clearly identified as such as a karadi donation. "
-
-◼️
-
-[Data](articles/1bfb8cad.json)
-
-[Extended Data](ext_articles/1bfb8cad.ext.json)
-
----
-
-### The body of the Agriculture Research Assistant behind the house
-
-*2024-02-23 09:15:39* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂිකර්ම-පර්යේෂණ-සහකාරවරයගේ-සිරුර-නිවස-පසුපස/11-408244) · `si`
-
-Uragasmanhaya Police say that the ownership of the house of agriculture and manufacturers in the house while his wife and daughter went to the house.
-
-The deceased has been identified as Nilantha Wijesundara, a 50 year old Nilantha Wijesundara of the Bentota Kanhedthi resident of the Bentota Kanhedtin.
-
-The body of his house was found on the ground and told the police in the house where the wife and daughter who had gone back home this evening.
-
-The police and Uragasmanhaya Emergency Inspector WN Jayaratne has come to the Elpitiya hospital and the post-election dependence will be held tomorrow.
-
-◼️
-
-[Data](articles/f5779962.json)
-
-[Extended Data](ext_articles/f5779962.ext.json)
-
----
-
-### To climbs and finish on the cliff
-
-*2024-02-23 09:13:06* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-කඳු-තරණයට-ගොස්-අවසන්-ගමන්-යයි/11-408243) · `si`
-
-The Ella Police have died in maintaining serious injuries from the mountains.
-
-The victim is a 20 year old resident of Beruwala, Moragolla, No. 172/4.
-
-The police said that he had been sentenced to death at the bottom of the lower falls along the Ellawala road with a friend.
-
-The death inspection and the post mortem will be held at the Wellawaya Magistro.Ella Police are conducting further investigations.
-
-◼️
-
-[Data](articles/332dc672.json)
-
-[Extended Data](ext_articles/332dc672.ext.json)
-
----
-
-### Two including teen arrested for aiding and abetting attempted murder
-
-*2024-02-23 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97472/two-including-teen-arrested-for-aiding-and-abetting-attempted-murder) · `en`
-
-The police have arrested two suspects in connection with the attempted murder of a man in Lellama area of Modara.
-
-On February 16, two unidentified assailants who had arrived on a motorcycle had opened fire at a man.
-
-Accordingly, two suspects, aged 16 and 21, have been arrested for aiding and abetting the crime.
-
-The arrests were made by the Colombo Crimes Division (CCD) officers in Sedawatta area and Ferguson’s Road in Colombo 15.
-
-As per reports, the duo was identified as residents of Colombo 15.
-
-Modara Police and the CCD are conducting further investigations into this attempted murder.
-
-◼️
-
-[Data](articles/7589f0b7.json)
-
-[Extended Data](ext_articles/7589f0b7.ext.json)
-
----
-
-### A large number of cannabis mix mine
-
-*2024-02-23 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193724) · `si`
-
-The STF has arrested a 25 year old man who had set up an illegal cannabis mixed area.
-
-It was during a raid on the second cross-street in the Hingurakgoda yesterday.
-
-◼️
-
-[Data](articles/e828d13f.json)
-
-[Extended Data](ext_articles/e828d13f.ext.json)
-
----
-
-### Rameswaram fishers sore over detention of TN fisherman by Sri Lanka
-
-*2024-02-23 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97471/rameswaram-fishers-sore-over-detention-of-tn-fisherman-by-sri-lanka) · `en`
-
-Many fishermen in Rameswaram, India were upset over the detention of a fellow fisherman at jail in Sri Lanka for allegedly crossing the International Maritime Boundary Line.
-
-“It’s unfortunate that several Tamil Nadu fishermen, especially from Rameswaram and Thangachimadam, were arrested and sentenced to imprisonment by the Sri Lankan court at frequent intervals in the recent past”, V.P. Sesuraja, president, Traditional Indian Fishermen Welfare Association said on Thursday.
-
-The Indian fisher folks were shocked to learn that A. Salson (40) of Thangachimadam, Ramanathapuram district, one of the 19 fishermen crew aboard two vessels that set sail off Rameswaram on February 8, was imprisoned.
-
-◼️
-
-[Data](articles/9d01c508.json)
-
-[Extended Data](ext_articles/9d01c508.ext.json)
 
 ---

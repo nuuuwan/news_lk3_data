@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 23:02:26**
+As of **2024-02-23 23:17:35**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ dailymirrorlk | 1,346
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,950 (99.9%) of 8,961 articles have been extended.
+8,961 (100.0%) of 8,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### சதம் குவித்து இங்கிலாந்தை மீட்டெடுத்தார் ஜோ ரூட் ; அறிமுக வீரர் தீப் அபாரம், அஷ்வின் மைல்கல் சாதனை
+### Joe Root recovered England with a century;Introducer Deep Abaram, Ashwin Milestone Adventure
 
 *2024-02-23 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177160) · `ta`
 
-இந்தியாவுக்கு எதிரான ஐந்து போட்டிகள் கொண்ட டெஸ்ட் தோடரில் தோல்வியைத் தவிர்க்க வேண்டிய கட்டாயத்தில் ரஞ்சி விளையாட்டரங்கில் நான்காவது டெஸ்ட் போட்டியை எதிர்கொண்ட இங்கிலாந்து, முன்னாள் அணித் தலைவர் ஜோ ரூட்டின் அற்புதமான சதத்தின் உதவியுடன் சிறந்த நிலையை அடைந்துள்ளது.
+England, who faced the fourth Test at the Ranji Stadium in order to avoid losing the five -match Test Test against India, has reached the best position with the help of former team captain Joe Root.
 
-இந்திய டெஸ்ட் அணியில் அறிமுகமான ஆகாஷ் தீப் போட்டி ஆரம்பமாவதற்கு முன்னர் தனது குடும்பத்தினரிடம் ஆசி பெறுவதைப் படத்தில் காணலாம்.
+Akash Deep, a debut in the Indian Test squad, can be seen in the picture of his family before the beginning of the tournament.
 
-இன்று வெள்ளிக்கிழமை ஆரம்பமான இப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இங்கிலாந்து முதலாம் நாள் ஆட்ட நேர முடிவில் அதன் முதல் இன்னிங்ஸில் 7 விக்கெட்களை இழந்து 302 ஓட்டங்களைப் பெற்றிருந்தது.
+England, who decided to bat first in the match, started today and scored 302 runs for the loss of 7 wickets in its first innings.
 
-முதல் 3 டெஸ்ட் போட்டிகளில் பிரகாசிக்கத் தவறிய ஜோ ரூட் இந்தப் போட்டியில் மிகத் திறமையாக துடுப்பெடுத்தாடி தனது 31ஆவது டெஸ்ட் சதத்தைப் பூர்த்திசெய்தார்.
+Joe Root, who failed to shine in the first 3 Tests, completed his 31st Test century in the match.
 
-அதேவேளை, இந்த டெஸ்ட் போட்டிக்கு ஓய்வு வழங்கப்பட்ட ஜஸ்ப்ரிட் பும்ராவுக்குப் பதிலாக அணியில் இடம்பெற்ற அறிமுக வீரர் ஆகாஷ் தீப் எதிரணியின் முதல் 3 வீரர்களை ஆட்டம் இழக்கச் செய்து அணியினரின் பாராட்டைப் பெற்றார். ஆனால், அதன் பின்னர் அவரால் சாதிக்க முடியாமல் போனது.
+Meanwhile, Akash Deep, who was replaced by Jasprit Bumrah, who was retired to the Test match, lost the first three players of the opposition to the team by losing the team.. But after that, he was unable to achieve.
+
+Ravichandran Ashwin set a milestone record in this Test cricket match against England.
+
+Ashwin set the record of being the first Indian bowler to beat England 100 against England by capturing Johnny Paiso's wicket.
 
 ...
 
 [Data](articles/b4efcdcb.json)
+
+[Extended Data](ext_articles/b4efcdcb.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Deputy Secretary Verma stressed the vital need to protect human rights and funda
 ...
 
 [Data](articles/53538a1b.json)
+
+[Extended Data](ext_articles/53538a1b.ext.json)
 
 ---
 
@@ -88,61 +96,67 @@ The Embassy of Sri Lanka in Myanmar has also been consistently bringing to the n
 
 ---
 
-### துபாய் இரவு விடுதியில் மோதல்: 13 இலங்கையர்கள் கைது!
+### Dubai nightclub clashes: 13 Sri Lankans arrested
 
 *2024-02-23 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/177159) · `ta`
 
-பெலியத்தவில் ஐவர் படுகொலை செய்யப்பட்ட சம்பவத்துக்கு  ஆதரவளித்தார்கள் எனக் கூறப்படும் உரகஹ மைக்கல், பௌஸ் ஹர்ஷா ஆகியோரும் துப்பாக்கிச் சூடு நடத்தியதாக சந்தேகிக்கப்படும் இருவரும் துபாய் நாட்டு பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Urakhaha Michael and Bows Harsha, who are alleged to have supported the murder of five in Beliatta, have been arrested by the Dubai police.
 
-துபாயில் உள்ள ஒரு இரவு விடுதியில் இடம்பெற்ற மோதல் சம்பவம் தொடர்பில் குறித்த நால்வர் உட்பட 13 இலங்கையர்கள் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Thirteen Sri Lankans, including four, have been arrested in connection with the clash that took place in a nightclub in Dubai.
 
-கைது செய்யப்பட்ட 13 பேரும் பெலியத்தவில் ஐவரின் படுகொலைகளுக்கு தலைமை தாங்கியதாக சந்தேகிக்கப்படும் கொஸ்கொட சுஜீயின் நெருங்கிய உறவினர்கள் எனத் தெரிவிக்கப்படுகிறது.
+Koskoda Suji's close relatives are reportedly suspected of leading the five murders of the Ivar in Beliatta.
 
 ◼️
 
 [Data](articles/906ffd3d.json)
 
+[Extended Data](ext_articles/906ffd3d.ext.json)
+
 ---
 
-### වෙඩි තැබීමකට අදාළ සැකකරුවෙකු අත්අඩංගුවට
+### Suspect arrested for shooting
 
 *2024-02-23 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193751) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු වන ගනේමුල්ල සංජීවගේ මෙහෙයවීමෙන් කඳාන ප්‍රදේශයේ ව්‍යාපාරිකයෙකුගේ නිවසට වෙඩි තැබීම සඳහා පැමිණි යතුරුපැදියේ පැදිකරු අත්අඩංගුවට ගත් බව මත්තේගොඩ පොලීසිය පවසයි.
+Mattegoda Police say that the motorcyclist who had come to shoot the house of a businessman in Kandana, a group of organized crime leader Ganelawa.
 
-සැකකරු සූරියආර ප්‍රදේශයේ පදිංචි 'කොට්ටාවේ සුද්දා' නැමැති 40 හැවිරිදි අයෙකි.
+The suspect is a 40-year-old resident of Suriyarariya.
 
-ගනේමුල්ල සංජීව අවස්ථා කිහිපයක දී ව්‍යාපාරිකයාගෙන් කප්පම් ඉල්ලා ඊට යහපත් ප්‍රතිචාරයක් නොලැබීම මත ඔහුව බිය ගැන්වීමේ අරමුණින් ඔහුගේ නිවසට වෙඩිතබා ඇති බව වාර්තා වේ.
+It is reported that Ganemulla has shot to his house to intimidate him on a positive response to the businessman on several occasions.
 
-කඳාන පොලීසිය සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මේ පිළිබඳ කළ විමර්ශන අතරතුරදී කොට්ටාවේ සුද්දා නැමැත්තා  මෙලෙස අත්අඩංගුවට පත්ව ඇත.
+The Kandana Police and the Criminal Investigations Department (CID) have been arrested during investigation.
 
-කෙසේ වෙතත් වෙඩික්කරු මේ වන විට විදේශයකට පළා ගොස් ඇති බව වාර්තා වේ.
+However, the shooter has already fled the country.
 
 ◼️
 
 [Data](articles/cad1984a.json)
 
+[Extended Data](ext_articles/cad1984a.ext.json)
+
 ---
 
-### மகளிர் பிறீமியர் லீக் பெங்களூருவில் இன்று ஆரம்பம்
+### Women's Premier League Beginning Today in Bangalore
 
 *2024-02-23 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177158) · `ta`
 
-உலகம் முழுவதும் உள்ள கிரிக்கெட் இரசிகர்களால் மிகவும் ஆவலுடன் எதிர்பார்க்கப்பட்ட மகளிர் பிறீமியர் லீக்கின் (WPL 2024) இரண்டாவது அத்தியாயம் வெள்ளிக்கிழமை (23) ஆரம்பமாகிறது.
+The second chapter of the Women's Premier League (WPL 2024), the most eagerly anticipated by cricket fans around the world, begins on Friday (23).
 
-ஆரம்பப் போட்டியில் டெல்ஹி கெப்பிட்டல்ஸ் அணியும் நடப்பு சம்பியன் மும்பை இண்டியன்ஸ் அணியும் மோதுகின்றன.
+Telhi Capitles and current champions Mumbai Indians clash in the opening match.
 
-கிரிக்கெட் விளையாடும் நாடுகளில் மகளிர் கிரிக்கெட் போட்டிகளில் அசத்திவரும் வீராங்கனைகள் பலர் இவ் வருட மகளிர் பிறீமியர் லீக் கிரிக்கெட் போட்டியில் விளையாடுகின்றனர்.
+Many of the players in women's cricket are playing in the women's Premier League cricket tournament in women's cricket.
 
-இன்றைய போட்டிக்கு முன்பதாக சினிமா நட்சத்திரங்களின் பங்கேற்புடன் பிரமாண்டமான ஆரம்ப விழா வைபவம் பெங்களூருவில் நடைபெற்றது.
+Prior to today's competition, a massive opening ceremony was held in Bangalore with the participation of cinema stars.
 
-இம்முறை டெல்ஹி கெப்பிட்டல்ஸ், குஜராத் டைட்டன்ஸ், மும்பை இண்டியன்ஸ், றோயல் செலஞ்சர்ஸ் பெங்களூர், யூபி வொரியர்ஸ் ஆகிய ஐந்து அணிகள் இரண்டு சுற்றுகளில் விளையாடுகின்றன.
+This time, Telhi Capitols, Gujarat Titans, Mumbai Indians, Royal Challengers Bangalore and UP Warriors have played two rounds.
 
-இந்த அணிகளின் தலைவிகளாக  முறையே மெக் லெனிங், பெத் மூனி, ஹாமன்ப்ரீத் கோர், ஸ்ம்ரிதி மந்தானா, அலிசா ஹீலி ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.
+The leaders of the teams have been appointed as Meg Lenting, Beth Mooney, Hamanpreet Gor, Smriti Mantana and Alyssa Heeli respectively.
 
 ◼️
 
 [Data](articles/1004ce8b.json)
+
+[Extended Data](ext_articles/1004ce8b.ext.json)
 
 ---
 
@@ -166,17 +180,19 @@ They also explored opportunities to deepen defense and maritime cooperation betw
 
 ---
 
-### சீன நகரில் 100 வாகனங்கள் ஒன்றுடன் ஒன்று மோதி விபத்து!
+### 100 vehicles collide with one another in China
 
 *2024-02-23 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177157) · `ta`
 
-சீனாவின் சௌச்சோவ் (Souchov) நகரில் உள்ள வீதியொன்றில் சுமார் 100 வாகனங்கள் ஒன்றுடன் ஒன்று மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+About 100 vehicles crashed into a road in Souchov, China.
 
-விபத்தில் காயமடைந்த மூவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் மேலும் ஆறு பேர் சிறு காயங்களுக்கு உள்ளாகியுள்ளதாகவும் வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Foreign media reports that three people who were injured in the accident have been admitted to the hospital and six others have been injured.
 
 ◼️
 
 [Data](articles/0a0adcdd.json)
+
+[Extended Data](ext_articles/0a0adcdd.ext.json)
 
 ---
 
@@ -324,43 +340,47 @@ The government has decided to implement a visa -free entrance plan to seven coun
 
 ---
 
-### ජනපති සහ එක්සත් ජනපද නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා අතර හමුවක්
+### President meets the US Deputy Secretary of State
 
 *2024-02-23 20:47:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-එක්සත්-ජනපද-නියෝජ්‍ය-රාජ්‍ය-ලේකම්වරයා-අතර-හමුවක්/11-408248) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඇමෙරිකා එක්සත් ජනපදයේ කළමනාකරණ සහ සම්පත් පිළිබඳ නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් වර්මා මහතා අතර හමුවක් ජනාධිපති කාර්යාලයේදී අද (23) පෙරවරුවේදී සිදු විය.
+President Ranil Wickremesinghe and Deputy Secretary of Health Richard Verma took place this morning at the Presidential Secretariat this morning.
 
-ශ්‍රී ලංකා ආර්ථිකය යථා තත්ත්වයට පත් කිරීමට රජය ප්‍රමුඛ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගනු ලබන පියවර මෙහිදී නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා ගේ ඇගයීමට ලක් විය.
+The Deputy Secretary of State was evaluated by President Ranil Wickremesinghe to restore the Sri Lankan economy.
 
-කෘෂිකාර්මික නවීකරණ වැඩසටහන ඇතුළු ශ්‍රී ලංකාව තුළ මේ වන විට සිදු කෙරෙන ප්‍රධාන ආර්ථික ප්‍රතිසංස්කරණ සහ ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියෙහි ප්‍රගතිය පිළිබඳව ජනාධිපතිවරයා මෙහිදී එක්සත් ජනපද නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා දැනුවත් කළේය.
+The President informed the US Deputy Secretary of State for the progress of the main economic reforms and the restructuring process of restructuring the main economic reforms and loans.
 
-ගෝලීය ආරක්ෂාවට අදාළ කරුණු සම්බන්ධයෙන් ද මෙහිදී සාකච්ඡාවට ලක් වූ අතර රතු මුහුදේ සිදු කෙරෙන නාවික මෙහෙයුම් සඳහා ශ්‍රී ලංකා රජය ලබාදුන් සහය වෙනුවෙන් නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ස්තූතිය පළ කර සිටියේය.
+The Deputy Secretary of State thanked President Ranil Wickremesinghe to support the support of the Government of Sri Lanka for the Supreme Government of Sri Lanka for the assistance of the Government of Sri Lanka.
 
-හුති කැරලිකරුවන් සම්බන්ධයෙන් සෞදි අරාබියේ ස්ථාවරත්වයට සහාය පළ කරමින් ඉන්දීය සාගරයේ නාවික ගමනාගමනයේ නිදහස වෙනුවෙන් ශ්‍රී ලංකාව තවදුරටත් කැපවී සිටින බව මෙහිදී ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+The President stated that Sri Lanka is further dedicated to the freedom of the Indian Ocean, supporting the stability of Hudi Arabia regarding the stability of Hudthudi.
 
 ...
 
 [Data](articles/bd4c7b0c.json)
 
+[Extended Data](ext_articles/bd4c7b0c.ext.json)
+
 ---
 
-### ගාල්ලෙන් ඇවිත් ඉබ්බන්කටුවේ අවසන් ගමන් යයි
+### Comes from Galle and finish the final of the tortoise
 
 *2024-02-23 20:40:07* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලෙන්-ඇවිත්-ඉබ්බන්කටුවේ-අවසන්-ගමන්-යයි/11-408246) · `si`
 
-දඹුල්ල ඉබ්බන්කටුව ජලාශයේ විදුලි බලාගාරය ආසන්නයේ දිය  නෑමට  ගිය පාසල් සිසුවෙක් 23 දින පස්වරුවේ දියේ ගිලි  මියගොස් ඇතැයි දඹුල්ල පොලිස් ජීවිත ආරක්ෂක ඒකකය කියයි.
+Dambulla Police are killed after 23 days, a schoolgirl has died in the Dambulla Tower Plant.
 
-මෙසේ මියගොස්  ඇත්තේ  ගාල්ල  හල්විටිගල  ප්‍රදේශයේ පදිංචි වයස අවුරුදු දාසයක් වූ සමිඳු නෙත්මිණ  නැමැති පාසල් සිසුවෙකි
+The deceased has been identified as a resident of Halvitigala area in Halvitigala, Galle
 
-තම පුංචි අම්මා මිත්තණිය කුඩා මලනුවන් සමඟින් අනුරාධපුරයේ වන්දනාවේ යන අතරතුර සීගිරි  ගලේ ගොස් මෙම පිරිස ඉබ්බං කටුව ජලාශයේ ඉතා අනාරක්ෂිත ස්ථානයක දිය නෑමට ගොස් ඇතැයි පොලිසිය කියයි.
+Police say that their little Muttah went with small conmersions with small conmersions in Anuradhapura and went to the Sigiriya reservoir, police said.
 
-මෙම ස්ථානයේ විදුලි  බලාගාරයට ජලය සැපයෙන ප්‍රධාන  හැරවූම පිහිටා ඇති අතර  එම ස්ථානයෙන් දිය නෑම සඳහා මිත්තණිය  පුංචි අම්මා  මලනුවන් සමග   වැවට බැසීමත් සමඟින් මෙම පාසල් සිසුවා  දිය වැලට හසු වී ගසාගෙන ගිය බව මිත්තණිය සඳහන් කළාය.
+The grandmother said that the mainstream supply of the power plant is located in the place, with the lake of the lake with Kendeen, with the lake of the lake with Keeth.
 
-පසුව දඹුල්ල පොලිසියේ  ජීවිත ආරක්ෂක ඒකකයේ කණ්ඩායම පැමිණ  කිමුදුම්  කට්ටල යොදාගෙන පැය දෙකකට පමණ පසුව   සිසුවාගේ මළ සිරුර ගොඩ  ගැනීම සිදුකරන ලදී
+Later the body of the student was recovered after two hours after the life of the Dambulla Police arrives.
 
 ◼️
 
 [Data](articles/af22b916.json)
+
+[Extended Data](ext_articles/af22b916.ext.json)
 
 ---
 
@@ -873,6 +893,8 @@ She was rushed to a nearby hospital, where doctors declared her dead on arrival.
 ...
 
 [Data](articles/58743fda.json)
+
+[Extended Data](ext_articles/58743fda.ext.json)
 
 ---
 
@@ -1604,19 +1626,21 @@ He said that the patient could only undergo a prescribed drug or laboratory test
 
 ---
 
-### හර්ෂ ඔස්ට්‍රේලියාවේ නිල සංචාරයක
+### Harsha on an official visit to Australia
 
 *2024-02-23 12:43:37* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂ-ඔස්ට්‍රේලියාවේ-නිල-සංචාරයක/11-408245) · `si`
 
-සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී සහ රාජ්‍ය මුදල් කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා ඕස්ට්‍රේලියානු රජයේ නිළ ආරාධනාවකට අනුව මේ දිනවල ඕස්ට්‍රේලියාවේ සංචාරයක යෙදෙනවා.
+Dr. Harsha de Silva, Chairman of the House of Representatives and Public Finance Committee, will visit Australia on a tourist government's official invitation.
 
-මෙහිදී, විශේෂ අමුත්තෙකු ලෙස ඔහු දින 09 ක් පුරා ඕස්ට්‍රේලියාවේ වැදගත් පාර්ශව ගණනාවක් මුණගැසී සාකච්ඡා කිරීමට නියමිත අතර පළමුවෙන්ම  මෙල්බර්න් නගරයේ ප්‍රතිපත්ති සම්පාදකයින්, විද්වතුන්, විද්‍යාඥයින් සහ ආයෝජන කළමනාකරුවන් මුණ ගැසෙනවා.
+He is to meet a number of important parties for nine days, as a special guest, and meet the policy makers, scholars, scientists and investment managers of Melbourne first.
 
-ඉන් අනතුරුව, ඔහු ඇඩිලේඩ් සහ කැන්බරා හි වෙසෙන රජයේ නිළධාරීන් සහ දේශපාලනඥයින් ගණනාවක් මුණ ගැසීමට නියමිතයි.
+Thereafter, he is to meet a number of government officials and politicians living in Adelaide and Canberra.
 
 ◼️
 
 [Data](articles/c360f181.json)
+
+[Extended Data](ext_articles/c360f181.ext.json)
 
 ---
 

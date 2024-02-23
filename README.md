@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 15:02:36**
+As of **2024-02-23 15:17:35**
 
 ## Newspaper Stats
 
-*Scraped **8,894** Articles*
+*Scraped **8,898** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 92
-bbccomsinhala | 107
+bbccomsinhala | 108
 dbsjeyarajcom | 160
 newsfirstlk | 363
 economynextcom | 459
@@ -17,20 +17,38 @@ islandlk | 464
 dailyftlk | 483
 adalk | 750
 adaderanalk | 1,063
-tamilmirrorlk | 1,100
+tamilmirrorlk | 1,101
 virakesarilk | 1,205
-adaderanasinhalalk | 1,313
+adaderanasinhalalk | 1,315
 dailymirrorlk | 1,335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,888 (99.9%) of 8,894 articles have been extended.
+8,894 (100.0%) of 8,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### ස්පාඤ්ඤයේ තට්ටු නිවාස සංකීර්ණයක බිහිසුණු ගින්නක්
+
+*2024-02-23 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193738) · `si`
+
+ස්පාඤ්ඤයේ වැලෙන්සියා නගරයේ පිහිටි තට්ටු නිවාස සංකීර්ණයක බිහිසුණු ගින්නක් හටගෙන තිබේ.
+
+එම තට්ටු නිවාස සංකීර්ණයේ 450ක් පමණ පිරිසක් ජීවත්වන බව එරට මාධ්‍ය වාර්තා සඳහන් කරයි.
+
+වැලෙන්සියා බලධාරීන් පවසන්නේ මේ වනවිට එම ගින්න හේතුවෙන් සිව්දෙනෙකු මියගොස් ඇති බවත් 14 දෙනෙකු තුවාල ලබා ඇති බවත් ය.
+
+එසේම තවත් පිරිසක් පිළිබඳ තොරතුරු මෙතෙක් තහවුරු වී නොමැති බවද ඔවුන් පැවසීය.
+
+◼️
+
+[Data](articles/3088a68e.json)
+
+---
 
 ### Name ’spa’ has to be changed; spa is something very professional: Diana
 
@@ -50,6 +68,30 @@ Therefore, the name 'spa' has to be changed and they should not be allowed to us
 
 [Data](articles/a0549627.json)
 
+[Extended Data](ext_articles/a0549627.ext.json)
+
+---
+
+### බළලා මැරුණාට අසල්වාසීන් ගුටි කෙළියක
+
+*2024-02-23 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193737) · `si`
+
+නිවසක සුරතලයට ඇතිකළ බළලෙකු අසල්වැසි නිවසේ ලොරි රථයට යටවී මියයාමේ සිද්ධියක් මුල්කරගනිමින් අතුරුගිරිය ප්‍රදේශයේ දෙපිරිසක් අතර ඊයේ (22) රාත්‍රියේ ගැටුමක් ඇතිවී තිබේ.
+
+ප්‍රදේශවාසීන් පවසන්නේ, ලොරි රථයකින් කඩු රැගෙන පැමිණි පිරිසක් නිවසකට අලාභහානි සිදුකර ඇති අතර පහරදීමෙන් අසල්වැසි නිවසක පුද්ගලයෙකුට ද තුවාල සිදු වූ බවය.
+
+ඊයේ රාත්‍රී 8ට පමණ  අතුරුගිරිය - බක්මීගහ පාර ප්‍රදේශයේ දී මෙම දෙපිරිසක් අතර බහින්බස්වීමක් ඇතිවී ඇති අතර එය දුරදිගයාමෙන් මෙම ගැටුමක් සිදුවී තිබුණි.
+
+නිවෙස්හිමි කාන්තාව පැවසුවේ අසල්වැසි නිවසේ සිටින කුඩා දරුවෙකු විසින් සිය නිවසේ හුරතලයට ඇති කරන බළලාව ඔහුගේ නිවසට රැගෙන ගොස් ඇති බවත් එම අවස්ථාවේදී ඔවුන්ගේ ලොරි රථයට යටවී බළලා ගිය ගොස් සිටි බවත්ය.
+
+සිය සුරතල් බළලා මියායාම සම්බන්ධයෙන් තමන් දෝෂාරෝපනය කළ අතර ඉන් පසුව අදාළ පිරිස පැමිණ මෙම පහරදීම සිදුකළ බව නිවෙස්හිමි කාන්තාව වැඩදුරටත් පැවසීය.
+
+සිද්ධිය සම්බන්ධයෙන් දෙපාර්ශ්වයම අතුරුගිරිය පොලීසියට සිදුකර ඇති පැමිණිලි මත වැඩිදුර පරීක්ෂණ ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/fc80b88a.json)
+
 ---
 
 ### Legal action to be taken against unauthorized granting of national awards
@@ -65,6 +107,8 @@ Ekanayake underscored the urgency of halting this misuse to prevent grave injust
 ◼️
 
 [Data](articles/e7567a80.json)
+
+[Extended Data](ext_articles/e7567a80.ext.json)
 
 ---
 
@@ -232,6 +276,8 @@ After the discussion, she told the media that the prelates had no trust in wheth
 
 [Data](articles/34c20e13.json)
 
+[Extended Data](ext_articles/34c20e13.ext.json)
+
 ---
 
 ### Architect 2024 at BMICH
@@ -243,6 +289,8 @@ Architect 2024, the biggest construction and architecture exhibition of the year
 ◼️
 
 [Data](articles/0a0a7b28.json)
+
+[Extended Data](ext_articles/0a0a7b28.ext.json)
 
 ---
 
@@ -315,6 +363,24 @@ Accordingly, 9 crore eggs are to be imported, the secretary added.
 [Data](articles/61ca5a2b.json)
 
 [Extended Data](ext_articles/61ca5a2b.ext.json)
+
+---
+
+### பௌர்ணமி பொங்கலை தடுத்து நிறுத்திய பொலிஸார்
+
+*2024-02-23 12:51:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/பௌர்ணமி-பொங்கலை-தடுத்து-நிறுத்திய-பொலிஸார்/75-333709) · `ta`
+
+திருகோணமலை - தென்னைமரவாடி மக்களால் ஒழுங்கு செய்யப்பட்டிருந்த கந்தசாமி மலை முருகன் ஆலயத்தின் மாதாந்த பௌர்ணமி தின பொங்கல் நிகழ்வினை இன்று (23) தடுத்து நிறுத்தியதாக தெரிய வந்துள்ளது.
+
+மாதாந்தம் பௌர்ணமி தினத்தன்று தென்னமரவாடி கிராம மக்களால் நடத்தப்படும் பொங்கல் விழா வழமை போன்று இன்றைய தினமும் ஒழுங்குபடுத்தப்பட்டிருந்தது.
+
+இப்பொங்கல் விழாவிற்கு கிராம மக்கள் மற்றும்  திருகோணமலை மாவட்டத்தின் பல பிரதேசங்களிலிருந்து பக்தர்கள் உட்பட சிவில் அமைப்புக்களைச் சேர்ந்தவர்கள்  கலந்து கொண்டனர்.
+
+இச்சந்தர்ப்பத்தில் இக்கிராம மக்களால் பொங்கலுக்கான ஏற்பாடுகள் இடம்பெற்றுக்கொண்டிருந்த வேளையில் ஆலய வளாகத்திற்குள் திடீரென நுழைந்த 100க்கு மேற்பட்ட பொலிஸார் மற்றும் விசேட அதிரடி படையினர் ஆயுதங்களுடன் வருகை தந்து அப்பிரதேசத்திலிருந்த கிராம மக்களையும் வெளி பிரதேசத்திலிருந்து வருகை தந்த மக்களையும் விரட்டினர்.
+
+...
+
+[Data](articles/eb77e239.json)
 
 ---
 
@@ -973,6 +1039,24 @@ As it approached the surface of the moon, Odysseus lost contact with NASA, resul
 [Data](articles/e56c83fb.json)
 
 [Extended Data](ext_articles/e56c83fb.ext.json)
+
+---
+
+### කොක්කුතුඩුවායි සමූහ මිනිවළ: 1994 - 1996 කාලයට අයත්
+
+*2024-02-23 08:32:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czq4z3xe407o) · `si`
+
+කොක්කුතුඩුවායි සමූහ මිනිවළ 1994 - 1996 දක්වා කාලයට අයත්විය හැකි බවට සමූහ මිනිවළ සම්බන්ධයෙන් කැනීම් කටයුතුවලට එක්වු පුරාවිද්‍යා නිලධාරීන් නිගමනය කරන බවට මුලතිව් මහේස්ත්‍රාත් අධිකරණයට වාර්තාවක් මඟින් දන්වා ඇතැයි, මුලතිව් දිස්ත්‍රික් රෝහලේ විශේෂඥ අධිකරණ වෛද්‍ය නිලධාරි කනකසභාපති වාසුදේව පවසයි.
+
+මුලතිව් කොක්කුතුඩුවායි සමූහ මිනිවළ කැනීම සම්බන්ධයෙන් මේ දක්වා තත්ත්වය සම්බන්ධයෙන් විශේෂඥ කමිටු වාර්තාව (පෙබරවාරි 22වැනිදා)  මුලතිව් මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරුණු අතර, අනතුරුව මාධ්‍ය වෙත අදහස් පළ කරමින් කනකසභාපති වාසුදේව එලෙස පැවසුවේය.
+
+කොක්කුතුඩුවායි සමූහ මිනිවළ සම්බන්ධයෙන් මේ දක්වා කැනීම් කටයුතු, කැනීම්වලීන් ලබාගත් දෑ, කැනීම් නැවත ආරම්භ කිරීම සම්බන්ධයෙන් වන වාර්තාවක් කැනීම් කමිටුව විසින් මුලතිව් මහේස්ත්‍රාත් ධර්මලිංගම් ප්‍රදීපන් වෙත ඉදිරිපත් කොට තිබුණි.
+
+සමූහ මිනිවළ නැවත කැනීම මාර්තු මස 4 වැනිදා යළි ආරම්භ කිරීමට නියමිත අතර,කැනීම් කටයුතු වෙනුවෙන් මුල්‍ය ප්‍රතිපාදන ලබා ගැනීම ගැටළුවක් වී ඇති බව අතුරුදන්වූවන්ගේ ඥාතීහූ විසින් සඳහන් කරනු ලැබූහ.
+
+...
+
+[Data](articles/f5182a4c.json)
 
 ---
 
@@ -1726,6 +1810,8 @@ A recent report by the United States-based think tank, Center for Economic and P
 
 [Data](articles/ee486c1e.json)
 
+[Extended Data](ext_articles/ee486c1e.ext.json)
+
 ---
 
 ### Indian High Commissioner Santos Ja
@@ -1785,6 +1871,8 @@ The SLBA urged the government not to play into the delaying tactics of these bor
 ...
 
 [Data](articles/3252b3d6.json)
+
+[Extended Data](ext_articles/3252b3d6.ext.json)
 
 ---
 
@@ -1931,77 +2019,5 @@ The oration was delivered by University of Kelaniya Chief Professor of English S
 [Data](articles/b5de0a18.json)
 
 [Extended Data](ext_articles/b5de0a18.ext.json)
-
----
-
-### Automobile Association enters into MOU with Wurth
-
-*2024-02-22 23:38:00* · [`islandlk`](http://island.lk/automobile-association-enters-into-mou-with-wurth/) · `en`
-
-Wurth Lanka Pvt. Ltd. celebrated its 25TH anniversary on February 12, at Water’s Edge, Battaramulla. The Automobile Association of Ceylon who is the number one Automotive Partner of Wurth and their local dealers were also invited to grace the occasion.
-
-Tino Fruh, Head of Division- Auto and Cargo International of Wurth Group, Germany was the Chief Guest, the new CEO of Wurth – Sri Lanka, Suranga Kekuluwawala, was introduced to the gathering.
-
-It was a colorful event where all participants introduced themselves to form a network for future correspondence and activities.
-
-The Automobile Association signed a MOU with Wurth to continue as an Automotive Partner.
-
-An exclusive webinar to explain the research methodology behind SLIM-KANTAR People’s Awards 2024
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/17aee05d.json)
-
-[Extended Data](ext_articles/17aee05d.ext.json)
-
----
-
-### Union Assurance delivers a 13.5% dividend rate for 2023
-
-*2024-02-22 23:37:00* · [`islandlk`](http://island.lk/union-assurance-delivers-a-13-5-dividend-rate-for-2023/) · `en`
-
-Union Assurance, Sri Lanka’s premier Life Insurer known for its commitment to excellence and customer-centric approach, proudly announces the declaration of a 13.5% Universal Life Policyholder Dividend Rate for the financial year 2023. Once again, the Company has demonstrated its financial strength and resilience by surpassing expectations with this remarkable Dividend Rate of 13.5%, compared to the minimum guaranteed Dividend Rate of 10% for the year 2023. This achievement not only underscores the Company’s robust performance but also reaffirms its position as a trustworthy partner that maximises value for customers and shareholders alike.
-
-...
-
-[Data](articles/b76682f3.json)
-
-[Extended Data](ext_articles/b76682f3.ext.json)
-
----
-
-### Hot weather no obstacle for them...
-
-*2024-02-22 23:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Hot-weather-no-obstacle-for-them/110-277574) · `en`
-
-People in urban areas of Colombo engaged in construction work during the daytime despite the hot weather. Some labourers were also transporting goods in Pettah to earn their living, persevering the the heat. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/2cf0f618.json)
-
-[Extended Data](ext_articles/2cf0f618.ext.json)
-
----
-
-### JKH and Expolanka Holdings drive share market on an otherwise dull day
-
-*2024-02-22 23:36:00* · [`islandlk`](http://island.lk/jkh-and-expolanka-holdings-drive-share-market-on-an-otherwise-dull-day/) · `en`
-
-Stock market activities were sluggish throughout yesterday but two major blue- chip companies, JKH and Expolanka Holdings, drove the market considerably.However, banking stocks which were the most sought after over the last few weeks, noted some selling pressure, and that trend shifted to a few blue- chips during the day, market analysts said.
-
-Amid those developments both indices moved slightly upwards. All Share Price Index went up by 6 points while the S and P SL-20 rose by 0.22 points.
-
-Turnover stood at Rs 1.47 billion with three crossings. Those crossings were reported in JKH, which crossed 2.27 million shares to the tune of Rs 440 million; its shares traded at Rs 194, Expolanka Holdings 485,000 shares crossed for Rs 67.3 million; its shares sold at Rs 140 and LB Finance crossed 930,000 shares to the tune of Rs 56.7 million.
-
-...
-
-[Data](articles/3fcc0a1d.json)
-
-[Extended Data](ext_articles/3fcc0a1d.ext.json)
 
 ---

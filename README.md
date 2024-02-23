@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 00:17:28**
+As of **2024-02-24 00:32:50**
 
 ## Newspaper Stats
 
@@ -26,21 +26,23 @@ dailymirrorlk | 1,346
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,962 (100.0%) of 8,966 articles have been extended.
+8,966 (100.0%) of 8,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### நவம் மஹா பெரஹராவை ஜனாதிபதி ஆரம்பித்து வைத்தார்
+### The President inaugurated Navam Maha Perahara
 
 *2024-02-23 23:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/நவம்-மஹா-பெரஹராவை-ஜனாதிபதி-ஆரம்பித்து-வைத்தார்/46-333727) · `ta`
 
-கொழும்பு ஹுனுப்பிட்டிய கங்காராம விகாரையின் 45 ஆவது நவம் மஹா பெரஹராவை ஜனாதிபதி ரணில் விக்ரமசிங்க யானையின் மீது புனித கரடுவ்வை வைத்து ஆரம்பித்து வைத்தார்.
+President Ranil Wickremesinghe inaugurated the 45th Navam Maha Perahara of the Hunupitiya Gangarama Vihara in Colombo with a holy bear on the elephant.
 
 ◼️
 
 [Data](articles/a36a1105.json)
+
+[Extended Data](ext_articles/a36a1105.ext.json)
 
 ---
 
@@ -650,6 +652,8 @@ However, the central bank has not taken a decision to release the minutes of the
 
 [Data](articles/7c57d3e8.json)
 
+[Extended Data](ext_articles/7c57d3e8.ext.json)
+
 ---
 
 ### ISIS bride Shamima Begum loses bid to regain UK citizenship
@@ -928,6 +932,8 @@ Suren Raghavan, the State Minister for Higher Education said the shortage has ag
 
 [Data](articles/613ebb88.json)
 
+[Extended Data](ext_articles/613ebb88.ext.json)
+
 ---
 
 ### Richard Verma's compliments to the government's process
@@ -1023,6 +1029,8 @@ Tea in bulk was 8.5 million kilograms valued at 12.79 billion rupees, tea in pac
 ...
 
 [Data](articles/b6c4d926.json)
+
+[Extended Data](ext_articles/b6c4d926.ext.json)
 
 ---
 

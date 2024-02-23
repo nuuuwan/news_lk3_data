@@ -1,70 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 07:42:15**
+As of **2024-02-23 07:30:25**
 
 ## Newspaper Stats
 
-*Scraped **8,818** Articles*
+*Scraped **8,809** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 92
 bbccomsinhala | 106
-dbsjeyarajcom | 160
+dbsjeyarajcom | 159
 newsfirstlk | 363
 islandlk | 458
 economynextcom | 458
 dailyftlk | 483
 adalk | 744
 adaderanalk | 1,055
-tamilmirrorlk | 1,094
+tamilmirrorlk | 1,091
 virakesarilk | 1,190
-adaderanasinhalalk | 1,296
-dailymirrorlk | 1,319
+adaderanasinhalalk | 1,294
+dailymirrorlk | 1,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,809 (99.9%) of 8,818 articles have been extended.
+8,809 (100.0%) of 8,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
-
-### மனித நுகர்விற்கு பொருத்தமற்ற உணவுப்பொருட்கள்
-
-*2024-02-23 07:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மனித-நுகர்விற்கு-பொருத்தமற்ற-உணவுப்பொருட்கள்/73-333705) · `ta`
-
-மட்டக்களப்பு - செங்கலடி சுகாதார பிரிவின் கீழ் உள்ள உணவகங்களில் மனித நுகர்விற்கு பொருத்தமற்ற முறையில் உணவை களஞ்சியப்படுத்தி விற்பனை செய்த 4 உணவக உரிமையாளர்களுக்கு எதிராக ஏறாவூர் சுற்றுலா நீதவான் நீதிமன்றில்  நேற்று வியாழக்கிழமை (22) வழக்கு தாக்கல் செய்யப்பட்டது.
-
-இதையடுத்து அவர்களை கடுமையாக எச்சரித்து  தலா ஒருவருக்கு 10 ஆயிரம் ரூபா தண்டமாக செலுத்துமாறும் உத்தரவிட்டதுடன்  கைப்பற்றப்பட்ட உணவு பொருட்களை அழிக்குமாறு நீதவான் கட்டளையிட்டார்.
-
-இதேவேளை இந்த திடீர் சோதனை நடவடிக்கையில் மேலும் கண்டுபிடிக்கப்பட்ட சுகாதாரமற்ற முறையில் உணவுகளை விற்பனை செய்து வந்த உணவகங்களின் உரிமையாளர்களுக்கு எதிராக எதிர்வரும் 26ம் திகதி வழக்கு தாக்கல் செய்யப்படவுள்ளதாகவும்  செங்கலடி சுகாதார வைத்திய அதிகாரி பரமானந்தராசா தெரிவித்தார். R
-
-◼️
-
-[Data](articles/a1ec222e.json)
-
----
-
-### නවම් පුර පසළොස්වක පොහොය අද
-
-*2024-02-23 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193719) · `si`
-
-සැරියුත් මුගලන් මහරහතන් වහන්සේට අග්‍රශ්‍රාවක තනතුරු පිරිනැමීම, ඇතැම් භික්ෂුන් තුළ ඇතිවූ දුර්මත දුරු කිරීමට ඕවාද පාතිමෝක්ෂය දේශනා කිරීම මෙන්ම බුදුහිමියන් ආයු සංස්කාරය අත්හැරීම ඇතුළු ශාසනික වශයෙන් සුවිශේෂී සිදුවීම් රැසක් අද වැනි පොහෝ දිනක සිදුවූ බව බෞද්ධ ඉතිහාසයේ සඳහන් ය.
-
-මේ අතර කොළඹ හුණුපිටිය ගංඟාරාම විහාරස්ථානයේ නවම් පෙරහැර මංගල්‍ය අද සහ හෙට (24) වීථී සංචාරය කිරීමට නියමිතව තිබේ.
-
-එෆ්.එම්. දෙරණ අසපුව නවම් පොහොය සජීව විකාශය අද දවස පුරා කටුගස්තොට වේගිරිකන්ද ශ්‍රී සාරානන්ද විහාරස්ථානයේ දී පැවැත්වෙයි.
-
-111 වන වරට පැවැත්වෙන අසපුව පොහොය වැඩසටහනේදී ධර්ම දේශනා, ධර්ම සාකච්ඡා ඇතුළු වැඩසටහන් රැසක් සජීවී ලෙස එෆ්. එම්. දෙරණ ඔස්සේ විකාශය කෙරෙයි.
-
-◼️
-
-[Data](articles/f9de6fe6.json)
-
----
 
 ### Evening thundershowers possible in 6 provinces including Western
 
@@ -87,90 +53,6 @@ Temporarily strong gusty winds and very rough seas can be expected during thunde
 [Data](articles/c2d42b30.json)
 
 [Extended Data](ext_articles/c2d42b30.ext.json)
-
----
-
-### No heatwave threat to Sri Lanka: Met. Dept.
-
-*2024-02-23 06:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-heatwave-threat-to-Sri-Lanka-Met-Dept/108-277596) · `en`
-
-Colombo, Feb 23 (Daily Mirror) - The Department of Meteorology yesterday assured that Sri Lanka is not facing a heatwave threat though it has adviced people in some areas to be vigilant.
-
-"Heat index does not indicate a rise in temperature alone. It actually refers to the level to which the people feel the heat. People feel uncomfortable when their perspiration does not get absorbed by the atmosphere. Perspiration or sweat does not get absorbed by the atmosphere when the humidity level is high," he said.
-
-"In addition there is a drop in wind flow towards the island. This situation also makes people uncomfortable as they feel the heat," he added.
-
-It was highlighted that the heat index is calculated by taking all these factors into consideration.
-
-...
-
-[Data](articles/a028e942.json)
-
----
-
-### අද සවස් කාලයේදී වැසි
-
-*2024-02-23 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193718) · `si`
-
-අද (23) දිනයේ බස්නාහිර, දකුණු, සබරගමුව, මධ්‍යම, වයඹ සහ ඌව පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
-
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ බව සඳහන් කරයි.
-
-ඒ අනුව බස්නාහිර, සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල අද උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරෙයි.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
-
-◼️
-
-[Data](articles/61e0f9e5.json)
-
----
-
-### Leakage of water in Samanalawewa reservoir cannot be stopped, say officials
-
-*2024-02-23 04:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leakage-of-water-in-Samanalawewa-reservoir-cannot-be-stopped-say-officials/108-277597) · `en`
-
-The leakage of water in the Samanalawewa reservoir cannot be stopped, Ceylon Electricity Board’s accessory manufacturing arm Sri Lanka Energies Private Limited (SLE) said.
-
-The SLE told the Sectoral Oversight Committee on Energy and Transport that met on Tuesday at the Parliamentary complex that even though various measures have been taken to prevent the continuous water leakage, no result has yet been found.
-
-They also told the committee that a ‘covert operation’ is also being carried out by a group under the pretense of preventing the water spill.
-
-◼️
-
-[Data](articles/892f8a35.json)
-
----
-
-### ’பல்கலை கட்டமைப்பின் கீழ் தொழிற்பயிற்சி’
-
-*2024-02-23 04:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-கட்டமைப்பின்-கீழ்-தொழிற்பயிற்சி/175-333700) · `ta`
-
-நவீன உலகிற்கு ஏற்றவாறு தொழில் கல்வியை மறுசீரமைத்து, இந்நாட்டின் இளைஞர் யுவதிகள் போட்டித்தன்மை நிறைந்த உலக தொழில் சந்தையில் வெற்றி பெறுவதற்கு உகந்த சூழல் உருவாக்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்தார்.
-
-அதற்கமைய, நாட்டின் அனைத்து தொழிற்பயிற்சி நிறுவனங்களையும் ஒருங்கிணைத்து ஒரே பல்கலைக்கழக கட்டமைப்பின் கீழ் கொண்டு வருவதோடு, புதிய விடயப்பரப்புகளை உள்ளடக்கிய பாடநெறிகளை அறிமுகப்படுத்த திட்டமிட்டிருப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
-
-ஜனாதிபதி ரணில் விக்கிரமசிங்க இரத்மலானை லலித் அத்துலத்முதலி தொழிற்பயிற்சி நிலையத்திற்கு நேற்று மேற்பார்வை விஜயமொன்றை மேற்கொண்டிருந்த போதே இதனை கூறினார்.
-
-தற்போது டிஜிட்டல் மாற்றத்திற்கான முன்னெடுப்புகள் துரிதமாக இடம்பெற்று வருவதோடு, இதன்போது செயற்கை நுண்ணறிவு உள்ளிட்ட துறைகள் குறித்து விசேட கவனம் செலுத்தப்படும் எனவும், நாளாந்தம் மாற்றமடையும் தொழில்நுட்பத்துடன் முன்னேறிச் செல்ல வேண்டும் என்பதே இலங்கையின் எதிர்பார்ப்பு எனவும் ஜனாதிபதி தெரிவித்தார். (a)
-
-◼️
-
-[Data](articles/3971c0c0.json)
-
----
-
-### கச்சதீவு திருவிழா இன்று ஆரம்பம்
-
-*2024-02-23 04:01:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சதீவு-திருவிழா-இன்று-ஆரம்பம்/175-333699) · `ta`
-
-இதற்கான சகல ஏற்பாடுகளும் பூர்த்தி செய்யப்பட்டுள்ளன என்று யாழ்ப்பாணம் மாவட்ட செயலாளர் அம்பலவாணர் சிவபாலசுந்தரம் நேற்று ஊடகங்களிடம் தெரிவித்தார்.
-
-இதேவேளை, சிறைத்தண்டனை விதிக்கப்பட்டுள்ள இந்திய மீனவர்களை விடுவிக்காத நிலையில் இந்திய யாத்திரிகர்கள் எவரும் கச்சதீவு திருவிழாவில் பங்கேற்கமாட்டார்கள் என்று இராமேஸ்வரம் - வேர்க்கோடு பங்குத்தந்தை சந்தியாகு நேற்றுமுன்தினம் எழுத்தில் அறிவித்திருந்தார். (a)
-
-◼️
-
-[Data](articles/b8daf690.json)
 
 ---
 
@@ -455,26 +337,6 @@ Meanwhile, the Mastangs Bowl ODI between the two colleges will be held on March 
 [Data](articles/4854ba38.json)
 
 [Extended Data](ext_articles/4854ba38.ext.json)
-
----
-
-### Banks alarmed over parate execution suspension move
-
-*2024-02-23 00:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Banks-alarmed-over-parate-execution-suspension-move/108-277588) · `en`
-
-Move seen as caving to pressure from debt evaders’ intense lobbying
-
-Stress any move to amend parate rights of banks must be initiated with the financial sector regulator
-
-Sri Lanka’s banking sector is on the edge of following the government’s decision to suspend parate execution rights. This move, seen as caving to pressure from debt evaders’ intense lobbying, is raising concerns about the sector’s ability to support economic recovery.
-
-“The banks believe that this is an unnecessary intervention that  will weaken the strength of banks to perform their role in supporting the economic sectors that will revive the country,” the Sri Lanka Banks Association (SLBA) told Mirror Business, while pointing out they are “alarmed” by the statement made by the State Minister of Finance, Ranjith Siyambalapitiya, in parliament this week.
-
-The SLBA urged the government not to play into the delaying tactics of these borrowers.
-
-...
-
-[Data](articles/7c2a46fe.json)
 
 ---
 
@@ -1450,20 +1312,6 @@ Colombo, Feb 22 (Daily Mirror) - In the wake of scathing criticisms on the Minis
 
 ---
 
-### Marie Colvin : Intrepid War Correspondent  who Lost her Eye in Northern Sri Lanka.
-
-*2024-02-22 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83662) · `en`
-
-Marie Catherine Colvin, the respected war correspondent of Britain’s “Sunday Times” was targeted and killed on February 22, 2012 by Syrian forces as she reported on the suffering of civilians in Homs,Syria. At the time of her death, Marie Colvin was reporting from the Baba Amr Media Centre, a makeshift broadcast studio run by Syrian media activists in a secret facility located in a residential building.
-
-The rocket attack also killed acclaimed French photographer Rémi Ochlik and injured British photographer Paul Conroy, Syrian translator Wael al-Omar and French journalist Edith Bouvier. A Syrian photo journalist was also killed in the attack.
-
-...
-
-[Data](articles/18f630a1.json)
-
----
-
 ### Maldives visit of Chinese survey ship could rouse Indian Ocean security concerns - report
 
 *2024-02-22 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97462/maldives-visit-of-chinese-survey-ship-could-rouse-indian-ocean-security-concerns-report) · `en`
@@ -1957,5 +1805,193 @@ The fisherman expressed concern that the two Tamil parties had cheated the two T
 [Data](articles/1827dca3.json)
 
 [Extended Data](ext_articles/1827dca3.ext.json)
+
+---
+
+### Court orders the court intentional
+
+*2024-02-22 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193707) · `si`
+
+The suspect was arrested until March 07 on March 07.
+
+The order was submitted to the Mount Lavinia Magistrate today after the 30-year-old suspect arrested by the Dehiwala police.
+
+The accident occurred at around 9.45 am yesterday at the Kadawatha road in the Dehiwala Police Division.
+
+The accident occurred when the car was hit by a person who was traveling from a traffic motorcycle.
+
+The police were rushed to the Kalubowila hospital, police said.
+
+The deceased is a 52 year old resident of Moratuwa, Katubedda, Katubedda.
+
+However, the preliminary investigations into the accident have been revealed that the driver of the car has deliberately made the motorcycle.
+
+A text of the mobile phone at the mobile phone when the accident occurred.
+
+◼️
+
+[Data](articles/75bae627.json)
+
+[Extended Data](ext_articles/75bae627.ext.json)
+
+---
+
+### Sri Lanka parliament appoints members to committees including COPE, COPA
+
+*2024-02-22 15:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-appoints-members-to-committees-including-cope-copa-151978/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s parliament has announced the names of legislators appointed to a number of committees, including the Committee on Public Enterprises (COPE) and the Committee on Public Accounts (COPA).
+
+A statement from parliament citing Deputy Speaker Ajith Rajapakse said on Thursday February 22 that 19 members have been appointed to COPE.
+
+These are, namely: Jagath Pushpakumara, Janaka Wakkumbura, Lohan Ratwatte,  Indika Anuruddha Herath,  Shantha Bandara,  Mahindananda Aluthgamage,  Duminda Dissanayake,  Rohitha Abegunawardhana,  Nimal Lanza,  U K Sumith Udukumbura,  Sanjeeva Edirimanna,  Jagath Kumara Sumithraarachchi,  (Major) Sudarshana Denipitiya,  Premnath C Dolawatte,  Upul Mahendra Rajapaksha,  M Rameshwaran,  (Mrs) Rajika Wickramasinghe,  Madhura Withanage, and  (Prof) Ranjith Bandara.
+
+...
+
+[Data](articles/d62a5cf0.json)
+
+[Extended Data](ext_articles/d62a5cf0.ext.json)
+
+---
+
+### Galle Face
+
+*2024-02-22 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177041) · `ta`
+
+National People's Power Member Vijitha Herath has falsely falsely that the government has decided to provide the Galle Face Field 'land field' for the Cassino gambling measures.
+
+Prasanna Ranatunga, the Prime Minister and Minister of the ruling party, said that the opposition parties are trying to make a wrong position among the people to prevent investors to the country.
+
+He was speaking at a special statement during a session held in Parliament on Thursday (22).
+
+Speaking in Parliament on Tuesday (20th), Parliamentarian Vijitha Herath stated that the Urban Development Authority has taken steps to provide the landscape in the Galle Face to the Kasino gambling and that the Visumbaye building is issued to foreign investors.
+
+At the Cabinet meeting held on 2022.11.14 to get more foreign investment, the land belonging to the Urban Development Authority was granted permission to the foreign investors on a long lease.
+
+...
+
+[Data](articles/340b3d3d.json)
+
+[Extended Data](ext_articles/340b3d3d.ext.json)
+
+---
+
+### Sri Lanka, Vietnam to cooperate on agriculture
+
+*2024-02-22 15:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-vietnam-to-cooperate-on-agriculture-151979/) · `en`
+
+ECONOMYNEXT – Sri Lanka and Vietnam have signed an agreement to develop the agricultural sector in the island.
+
+The agreement will include the exchange of agricultural technology, studies and research, expertise, production of advanced seeds, application of fertilizers and pesticides, and training of farmers and officials to increase harvests.
+
+Sri Lanka’s Minister of Agriculture and Plantation Industry Mahinda Amaraweera and Minister of Agriculture and Rural Development of Vietnam Minh Hoan Le signed a memorandum of understanding on Wednesday, a statement by the Government Information Department said.
+
+Bilateral discussions between the two countries were held in conjunction with the 37th Asia Pacific Conference of the United Nations Food and Agriculture Organization. (Colombo/Feb22/2024)
+
+◼️
+
+[Data](articles/8536a273.json)
+
+[Extended Data](ext_articles/8536a273.ext.json)
+
+---
+
+### President outlines plans to amalgamate vocational training institutes in Sri Lanka
+
+*2024-02-22 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97459/president-outlines-plans-to-amalgamate-vocational-training-institutes-in-sri-lanka) · `en`
+
+President Ranil Wickremesinghe on Thursday (Feb.22) underscored that restructuring of vocational education should align with the demands of the modern world, ensuring that the country’s youth are equipped to excel in the competitive global job market.
+
+He also outlined plans to consolidate all vocational training institutes in Sri Lanka into a single vocational college, offering contemporary subject-related courses, the President’s Media Division (PMD) said.
+
+Wickremesinghe conveyed these initiatives during his observation tour at the Ratmalana Lalith Athulathmudali Vocational Training Centre, where he interacted with the students.
+
+...
+
+[Data](articles/632c6134.json)
+
+[Extended Data](ext_articles/632c6134.ext.json)
+
+---
+
+### Meteorological Department alert
+
+*2024-02-22 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193706) · `si`
+
+The Department of Meteorologies has issued a 4-color warning announcement.
+
+The announcement shows that the temperature that is considered to be attentive should be paid at some places in the island.
+
+According to the Department of Meteorology, in the North Western and North Central provinces, the Department of Meteorology states that this situation can occur.
+
+◼️
+
+[Data](articles/64250c96.json)
+
+[Extended Data](ext_articles/64250c96.ext.json)
+
+---
+
+### Two arrested for robbing gold of 29 pounds
+
+*2024-02-22 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193705) · `si`
+
+A husband who robbed a house has been arrested by the police to another woman to give his wife a gift for the Valentine Day on February 14.
+
+The arrested suspect, a 4 year old, a 49-year-old woman, a 49-year-old woman.
+
+The two have lay a house in Velvettithurai, where they had fled 29 pounds.
+
+Police have arrested the suspect when they were later going to a height in Jaffna.
+
+The woman had received information on suspicion that the woman had mortaged by the plant.
+
+◼️
+
+[Data](articles/7c94ac34.json)
+
+[Extended Data](ext_articles/7c94ac34.ext.json)
+
+---
+
+### Heat advisory issued warning of increased temperatures
+
+*2024-02-22 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97458/heat-advisory-issued-warning-of-increased-temperatures) · `en`
+
+The Department of Meteorology has issued a Heat Index Advisory for tomorrow (Feb. 23) for several parts of the country including Gampaha and Colombo districts.
+
+The heat index, the temperature felt on the human body is expected to increase up to ‘caution’ level at some places in North-western and North-central provinces and Gampaha, Colombo, Hambantota and Trincomalee Districts, it said.
+
+The advisory states that under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat strokes.
+
+Accordingly, the general public is requested to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. People are also urged to wear lightweight and white or light-coloured clothing.
+
+...
+
+[Data](articles/4a227794.json)
+
+[Extended Data](ext_articles/4a227794.ext.json)
+
+---
+
+### Merchant Bank of Sri Lanka and Finance given ‘BBB+(lka)’ rating by Fitch
+
+*2024-02-22 15:13:00* · [`economynextcom`](https://economynext.com/merchant-bank-of-sri-lanka-and-finance-given-bbblka-rating-by-fitch-151974/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it assigned Merchant Bank of Sri Lanka and Finance Plc (MBSL) a first-time national long-term rating of ‘BBB+(lka)’.
+
+“MBSL’s rating is driven by our view that the parent, BOC, would provide extraordinary support to MBSL, if required,” the rating agency said.
+
+“We assess MBSL’s standalone credit profile as being weaker than its support-driven rating because of its small franchise with 1.8% market share of sector loans, evolving business model, and weak financial profile, which is reflected in its poor asset-quality metrics, weak profitability and high leverage.”
+
+Fitch Ratings – Mumbai – 22 Feb 2024: Fitch Ratings has assigned Merchant Bank of Sri Lanka & Finance PLC (MBSL) a first-time National Long-Term Rating of ‘BBB+(lka)’.
+
+MBSL is 84.5% owned by Bank of Ceylon (BOC, A(lka)/Stable) and other BOC group entities. BOC is the largest banking group in the country.
+
+...
+
+[Data](articles/0eec5865.json)
+
+[Extended Data](ext_articles/0eec5865.ext.json)
 
 ---

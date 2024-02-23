@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 14:49:27**
+As of **2024-02-23 15:02:36**
 
 ## Newspaper Stats
 
-*Scraped **8,888** Articles*
+*Scraped **8,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 1,063
 tamilmirrorlk | 1,100
 virakesarilk | 1,205
 adaderanasinhalalk | 1,313
-dailymirrorlk | 1,329
+dailymirrorlk | 1,335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,888 (100.0%) of 8,888 articles have been extended.
+8,888 (99.9%) of 8,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Name ’spa’ has to be changed; spa is something very professional: Diana
+
+*2024-02-23 14:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Name-spa-has-to-be-changed-spa-is-something-very-professional-Diana/108-277610) · `en`
+
+Colombo, Feb 23 (Daily Mirror) - The name 'spa' has to be changed and people should not be allowed to merely use the name spa, Tourism State Minister Diana Gamage said.
+
+Addressing the media, she said the use of the name 'spa' is not appropriate as it implies a high level of professionalism and denotes a wellness center. Therefore, it is imperative to cease using that name.
+
+"The utilization of the name'spa' disrespects the professionalism of individuals working in such establishments. It is important to refrain from using this name to uphold the dignity and respect associated with the spa industry," she said.
+
+"If a lady has to work as a masseur in a spa or in a hotel, and if she goes and says to someone that she is working in a spa, people look at her as if at a prostitute. Because the name spa is being used like that," the State Minister said.
+
+Therefore, the name 'spa' has to be changed and they should not be allowed to use the name spa, she said.
+
+...
+
+[Data](articles/a0549627.json)
+
+---
+
+### Legal action to be taken against unauthorized granting of national awards
+
+*2024-02-23 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legal-action-to-be-taken-against-unauthorized-granting-of-national-awards/108-277611) · `en`
+
+Colombo, Feb. 23 (Daily Mirror)- President's Secretary Saman Ekanayake has directed officials to take legal action against the unauthorized granting of national awards and honorary titles.
+
+He said cases where individuals and organizations wrongly present awards similar to those bestowed by the President to deserving Sri Lankans, have been observed.
+
+Ekanayake underscored the urgency of halting this misuse to prevent grave injustice and disrespect to genuinely honoured individuals.
+
+◼️
+
+[Data](articles/e7567a80.json)
+
+---
 
 ### Another Sri Lankan brings another Sri Lankan to human racket
 
@@ -177,6 +213,36 @@ While the arrangements were being made by the people of the village on this occa
 [Data](articles/c93efaf2.json)
 
 [Extended Data](ext_articles/c93efaf2.ext.json)
+
+---
+
+### Chief Prelates have lost faith on President, government: Hirunika
+
+*2024-02-23 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chief-Prelates-have-lost-faith-on-President-government-Hirunika/108-277609) · `en`
+
+Colombo, Feb 23 (Daily Mirror) - The Malwathu and Asgiri Chief Prelates have lost their faith on President Ranil Wickremesinghe and with the government as they have begun to raise doubts about the elections being held as scheduled, former MP Hirunika Premachandra said.
+
+Premachandra visited the Chief Prelates yesterday to receive blessings for the launch of the first ever women's summit in Kandy.
+
+After the discussion, she told the media that the prelates had no trust in whether or not the government was going to hold the Presidential election.
+
+"Sometimes the government says that they are going to hold a Presidential election, sometimes they talk about a parliamentary election, and sometimes they say that they are going to have a referandum," she said.
+
+...
+
+[Data](articles/34c20e13.json)
+
+---
+
+### Architect 2024 at BMICH
+
+*2024-02-23 13:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Architect-2024-at-BMICH/110-277608) · `en`
+
+Architect 2024, the biggest construction and architecture exhibition of the year, was launched at the BMICH. The exhibition is organized by the Sri Lankan Architects' Association with the masters in the field. It will be held till Sunday (25) from 10 a.m. to 10 p.m. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/0a0a7b28.json)
 
 ---
 
@@ -1644,6 +1710,24 @@ It is revolting to see Washington’s UN envoy Linda Thomas-Greenfield, a politi
 
 ---
 
+### Sri Lanka has to start paying surcharge now on IMF loan
+
+*2024-02-23 01:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-has-to-start-paying-surcharge-now-on-IMF-loan/108-277587) · `en`
+
+Subjected to surcharges following the disbursement of two tranches amounting to US$ 670 million
+
+Liable to pay US$ 1.06 million in GRA Level Based Surcharges from this February
+
+Sri Lanka has been added to the list of 22 heavily indebted countries facing controversial surcharges imposed by the International Monetary Fund (IMF) from recently. These additional payments, aimed at countries whose outstanding credit to the IMF’s main account exceeds 187.5 percent of their quota, have stirred debate and concern.
+
+A recent report by the United States-based think tank, Center for Economic and Policy Research (CEPR) highlighted that Sri Lanka is among the latest additions to this list, joining countries such as Benin, Côte d’Ivoire, Kenya, Moldova, North Macedonia, and Senegal. Sri Lanka’s inclusion underscores the financial challenges faced by these nations.
+
+...
+
+[Data](articles/ee486c1e.json)
+
+---
+
 ### Indian High Commissioner Santos Ja
 
 *2024-02-23 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177084) · `ta`
@@ -1681,6 +1765,26 @@ Meanwhile, the Mastangs Bowl ODI between the two colleges will be held on March 
 [Data](articles/4854ba38.json)
 
 [Extended Data](ext_articles/4854ba38.ext.json)
+
+---
+
+### Banks alarmed over parate execution suspension move
+
+*2024-02-23 00:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Banks-alarmed-over-parate-execution-suspension-move/155-277588) · `en`
+
+Move seen as caving to pressure from debt evaders’ intense lobbying
+
+Stress any move to amend parate rights of banks must be initiated with the financial sector regulator
+
+Sri Lanka’s banking sector is on the edge of following the government’s decision to suspend parate execution rights. This move, seen as caving to pressure from debt evaders’ intense lobbying, is raising concerns about the sector’s ability to support economic recovery.
+
+“The banks believe that this is an unnecessary intervention that  will weaken the strength of banks to perform their role in supporting the economic sectors that will revive the country,” the Sri Lanka Banks Association (SLBA) told Mirror Business, while pointing out they are “alarmed” by the statement made by the State Minister of Finance, Ranjith Siyambalapitiya, in parliament this week.
+
+The SLBA urged the government not to play into the delaying tactics of these borrowers.
+
+...
+
+[Data](articles/3252b3d6.json)
 
 ---
 
@@ -1899,103 +2003,5 @@ Turnover stood at Rs 1.47 billion with three crossings. Those crossings were rep
 [Data](articles/3fcc0a1d.json)
 
 [Extended Data](ext_articles/3fcc0a1d.ext.json)
-
----
-
-### Saboteurs of system change
-
-*2024-02-22 23:32:14* · [`dailyftlk`](https://www.ft.lk/columns/Saboteurs-of-system-change/4-758786) · `en`
-
-Those elections would see a direct clash between a generation of geriatric leaders who grew in and groomed by a society stratified by castes, ethnicity, religions, and so on, and a younger, talented and globally connected generation to which the society of their elders has become alien. This intergenerational dichotomy may sound political rhetoric and difficult to fathom by many. But it is well recognised global phenomenon that continues to trouble many a regime. This is why when the country is at the cusp of breaking away from the old order the three ethno-religious minority parties are appearing to be trio of saboteurs
-
-...
-
-[Data](articles/55385ec7.json)
-
-[Extended Data](ext_articles/55385ec7.ext.json)
-
----
-
-### Buddha: The scientist of suffering and existence
-
-*2024-02-22 23:29:56* · [`dailyftlk`](https://www.ft.lk/columns/Buddha-The-scientist-of-suffering-and-existence/4-758785) · `en`
-
-Buddha may not be credited with inventing groundbreaking scientific discoveries like the law of gravity, the steam engine, or penicillin. Still, he stands as a scientist par excellence who unravelled the causes and remedies for human suffering. His teachings, imparted to spiritual seekers, encompassed both mundane and supra-mundane aspects.
-
-The mundane teachings outlined a path to a life devoid of conflict, as evidenced in discourses such as Singalowada, Parabhawa, Mangala, Ratana, and Karaneeyametta, among thousands of others. Yet, Buddha’s true innovation lay in his profound exploration of the nature of existence, a revelation that is currently gaining widespread recognition though among smaller segments of seekers across the globe.
-
-...
-
-[Data](articles/c4b854b7.json)
-
-[Extended Data](ext_articles/c4b854b7.ext.json)
-
----
-
-### Marie Colvin: Intrepid journalist who lost an eye in northern Sri Lanka
-
-*2024-02-22 23:14:14* · [`dailyftlk`](https://www.ft.lk/columns/Marie-Colvin-Intrepid-journalist-who-lost-an-eye-in-northern-Sri-Lanka/4-758784) · `en`
-
-The life and work of Marie Colvin is multi-faceted and a manifestation of exemplary bravery and commitment
-
-It is said of war correspondents that they have to “Get in, Get it and Get out”. Marie did just that in many conflict zones from Chechnya to Bosnia, from Sri Lanka to Syria. In Sri Lanka she lost an eye but in Syria she lost her life. She got in, got it but couldn’t get out. To her credit it must be said that she had the option of leaving like many other scribes but opted to stay on and report the travails of ordinary civilians in war situations. One of her final reports was a first person account of seeing a baby die
-
-...
-
-[Data](articles/48fd9940.json)
-
-[Extended Data](ext_articles/48fd9940.ext.json)
-
----
-
-### The UN. State and Private Media Corporations participated in the media workshops of the development project - Minister Bandula Gunawardena
-
-*2024-02-22 23:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177082) · `ta`
-
-Media and Transport Minister Bandula Gunawardena said that Sinhala and Tamil journalists from state and private media companies have participated in the program to clarify the journalists across the country with the financial contribution of the United Nations Development Program.
-
-He was speaking at the Ministry of Parliament on Thursday (22).
-
-The workshop for the journalists under the auspices of the United Nations Development Program, the improvement of social coexistence to clarify the journalists, opposing hostile attitudes, clarifying territorial journalists, understand the social responsibilities, and the upheaval of media rituals.. We have taken steps to obtain the ethnic conformity.
-
-The program to clarify the journalists has been conducted in the North, East, Western Province, Northwest, Northwest, South, Sabaragamuwa and Central Provinces and 377 journalists participated in the program.
-
-Many of the dedicated work has been appointed to conduct a panel of experts to conduct it.
-
-...
-
-[Data](articles/aa992f00.json)
-
-[Extended Data](ext_articles/aa992f00.ext.json)
-
----
-
-### Sir Oliver Goonetilleke: The negotiator behind independence
-
-*2024-02-22 23:10:19* · [`dailyftlk`](https://www.ft.lk/columns/Sir-Oliver-Goonetilleke-The-negotiator-behind-independence/4-758783) · `en`
-
-The independence that Sri Lankans won from the British empire, which pervaded nearly two centuries on the island was unique in many ways. From an optimistic point of view, the independence that the British granted us was a triumph of the liberal democratic tradition implanted by the British themselves. Contrary to the aggressive nature of the Indian freedom struggle, which often shuddered the White Hall of London, our own path to independence epitomised the British liberal values absorbed by the native leaders. Although it contains a sense mortifying feeling regarding the absence of a rigorous freedom struggle, Sri Lanka can boast of the pacific nature of the power transition from the British to the natives.
-
-...
-
-[Data](articles/25cea042.json)
-
-[Extended Data](ext_articles/25cea042.ext.json)
-
----
-
-### IPC Hand Soldering fundamental course and practical workshop on ESD and Electronic Assembly
-
-*2024-02-22 23:05:43* · [`dailyftlk`](https://www.ft.lk/business/IPC-Hand-Soldering-fundamental-course-and-practical-workshop-on-ESD-and-Electronic-Assembly/34-758780) · `en`
-
-A fundamental course on Hand Soldering and a practical workshop on ESD and Electronic Assembly was held on 13 February at the Department of Electronic and Telecommunication Engineering, University of Moratuwa, in association with IPC India, Sri Lanka Export Development Board (SLEDB), and Sri Lanka Electronic Manufacturers and Exporters Association (SLEMEA).
-
-IPC is a global organisation that supports Original Equipment Manufacturers (OEMs), Electronic Manufacturing Services (EMS), Printed Circuit Board (PCB) manufacturers, Cable and Wire Harness Manufacturers and suppliers to the electronics industry. IPC members increase their bottom lines and deliver dependable, high-quality products through set standards, certification, education, training, thought leadership, advocacy, creative solutions, and industry knowledge.
-
-...
-
-[Data](articles/bc055d04.json)
-
-[Extended Data](ext_articles/bc055d04.ext.json)
 
 ---

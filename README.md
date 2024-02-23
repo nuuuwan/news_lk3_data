@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 17:02:30**
+As of **2024-02-23 17:17:35**
 
 ## Newspaper Stats
 
-*Scraped **8,915** Articles*
+*Scraped **8,919** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 92
-bbccomsinhala | 108
+bbccomsinhala | 109
 dbsjeyarajcom | 160
 newsfirstlk | 363
 economynextcom | 459
@@ -18,35 +18,89 @@ dailyftlk | 483
 adalk | 751
 adaderanalk | 1,065
 tamilmirrorlk | 1,103
-virakesarilk | 1,212
-adaderanasinhalalk | 1,318
-dailymirrorlk | 1,337
+virakesarilk | 1,213
+adaderanasinhalalk | 1,319
+dailymirrorlk | 1,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,914 (100.0%) of 8,915 articles have been extended.
+8,915 (100.0%) of 8,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### யாழில் தேர்த் திருவிழாவில் நகை திருட்டு ; இருவர் கைது
+### இலங்கை மிகப் பெரும் அரசியல் சர்வதேச அரசியல் அபிலாசைகளை கொண்டிருக்கவில்லை  அனைத்து நாடுகளுடனும் வர்த்தகத்தில்  ஈடுபடவிரும்புகின்றது - இந்திய ஊடகத்திற்கு  தாரகபாலசூரிய கருத்து
+
+*2024-02-23 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177143) · `ta`
+
+இலங்கை மிகப்பெரிய அரசியல் சர்வதேச அரசியல் அபிலாசைகளை கொண்டிருக்கவில்லை நாங்கள் அனைத்து நாடுகளுடனும் வர்த்தகத்தில் ஈடுபடவிரும்புகின்றோம் இலங்கை மக்கள் அதன் மூலம் பயனடைவார்கள் என இலங்கையின் வெளிவிவகார இராஜாங்க அமைச்சர் தாரகபாலசூரிய தெரிவித்துள்ளார்
+
+இலங்கை இந்திய உறவுகளை எவ்வாறு பார்க்கின்றீர்கள் குறிப்பாக நிதிசார் இணைந்த செயற்பாடுகள் ஆரம்பிக்கப்பட்டுள்ள நிலையில் சமீபத்தில் உங்கள் நாட்டில் யுபிஐ ஆரம்பித்து வைக்கப்பட்டதை நாங்கள் பார்த்தோம்.
+
+பதில்- இந்திய உறவுகள் முன்னர் ஒருபோதும் இல்லா வலுவான உயர்ந்த நிலையில் காணப்படுவதாக நான் கருதுகின்றேன்.யுபிஐ இரு நாடுகளிற்கும் நன்மையளிக்கின்ற விடயம்.
+
+இலங்கையி;ல் ஒன்றரை வருடங்களிற்கு முன்னர் இடம்பெற்ற விடயங்களை பார்த்தால் அவை நிதிநெருக்கடியாக டொலர் இல்லாததால் உருவாகியது.
+
+...
+
+[Data](articles/69cc9862.json)
+
+---
+
+### රජයේ ක්‍රියාවලියට රිචඩ් වර්මාගේ පැසසුම්
+
+*2024-02-23 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193742) · `si`
+
+ශ්‍රී ලංකාවේ ආර්ථිකය යථා තත්ත්වයට පත්කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ රජය ගනු ලබන පියවර අගය කරන බව අමෙරිකා එක්සත් ජනපදයේ කළමනාකරණ සහ සම්පත් පිළිබඳ නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් වර්මා මහතා පවසයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ අමෙරිකා එක්සත් ජනපදයේ කළමනාකරණ සහ සම්පත් පිළිබඳ නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් වර්මා මහතා අතර ජනාධිපති කාර්යාලයේ අද (23) පෙරවරුවේ පැවති හමුවේ දී මේ බව සඳහන් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+කෘෂිකාර්මික නවීකරණ වැඩසටහන ඇතුළු ශ්‍රී ලංකාව තුළ මේ වන විට සිදු කෙරෙන ප්‍රධාන ආර්ථික ප්‍රතිසංස්කරණ සහ ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියෙහි ප්‍රගතිය පිළිබඳ ජනාධිපතිවරයා මෙහි දී එක්සත් ජනපද නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා දැනුම්වත් කර තිබේ.
+
+ගෝලීය ආරක්ෂාවට අදාළ කරුණු සම්බන්ධයෙන් ද මෙහි දී සාකච්ඡාවට ලක් වූ අතර, රතු මුහුදේ සිදු කෙරෙන නාවික මෙහෙයුම් සඳහා ශ්‍රී ලංකා රජය ලබාදුන් සහාය වෙනුවෙන් නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ස්තූතිය ද පළ කර ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/7f7e7495.json)
+
+---
+
+### Indian legislator, 37, dies in car accident
+
+*2024-02-23 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-legislator-37-dies-in-car-accident/108-277613) · `en`
+
+Sangareddy, Feb 23 (India Today) -  G Lasya Nanditha, a prominent Bharat Rashtra Samithi (BRS) politician and Member of the Telangana Legislative Assembly, died in a car accident in Sangareddy on Friday.
+
+The accident occurred on the Sultanpur Outer Ring Road (ORR) in the district’s Aminpur mandal. Nanditha, 37, was travelling in an SUV when it reportedly lost control and collided with the divider, leading to fatal injuries for the MLA.
+
+She was rushed to a nearby hospital, where doctors declared her dead on arrival. The driver was critically injured in the crash and is currently receiving medical treatment.
+
+...
+
+[Data](articles/a7fa9372.json)
+
+---
+
+### Jewelry theft at the election festival in Jaffna;Two arrests
 
 *2024-02-23 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177142) · `ta`
 
-யாழ்ப்பாணம் – கன்னாதிட்டி காளி அம்பாள் ஆலய தேர்த் திருவிழாவில் நகைத் திருட்டில் ஈடுபட்ட இரண்டு பெண்கள் கைது செய்யப்பட்டனர்.
+Two women arrested for jewelery theft at the Jaffna - Kannaditi Kali Ambal Temple election festival.
 
-கன்னாதிட்டி காளி அம்பாள் ஆலய தேர்த் திருவிழா இன்று வெள்ளிக்கிழமை (23) காலை இடம்பெற்றபோது பெருமளவான பக்தர்கள் ஆலயத்தில் கூடியிருந்தனர்.
+A large number of devotees gathered at the temple when the Kannaditi Kali Ambal Temple Election Festival was held on Friday morning.
 
-இதனை சாதகமாக பயன்படுத்தி நகைத் திருட்டில் ஈடுபட்ட கொழும்பு கொச்சிக்கடை பகுதியைச் சேர்ந்த இரண்டு பெண்களே இவ்வாறு கைது செய்யப்பட்டனர்.
+Two women from Kochikkadai, Colombo, who took advantage of this, were arrested.
 
-விசாரணைகளின் பின்னர் இருவரையும் யாழ்ப்பாணம் நீதவான் நீதிமன்றத்தில் முற்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+After the investigation, the police have taken steps to appear at the Jaffna Magistrate's Court.
 
 ◼️
 
 [Data](articles/29b9692b.json)
+
+[Extended Data](ext_articles/29b9692b.ext.json)
 
 ---
 
@@ -1236,6 +1290,30 @@ Team 01 - Allowance has been received. The land is measured. Category with no pr
 
 ---
 
+### 'මම ලියන හැටි' : කේ කේ සමන් කුමාර
+
+*2024-02-23 09:53:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0xl34p7wd8o) · `si`
+
+කේ කේ සමන් කුමාර යනු සමකාලීන සිංහල සාහිත්‍යයේ මඟහැරයා නොහැකි නවකතාකරුවෙකි.
+
+එසේම සිංහල සාහිත්‍ය නවීකරණය කිරීමට අධිපති ආකෘතීන්ට නිරන්තරයෙන් අභියෝග කරන නවකතාකරුවෙකි.
+
+නේරංජනේ ඉස්නානේ, පිණි අහුරක් ඉහිරුණා, මාක්ස් ලයිව් ඉන් ශ්‍රී ලංකා, මහිලාවංශය වැනි නවකතා ඔස්සේ සේම ඔහු විශිෂ්ට කෙටිකතා, කවි සහ විචාර ග්‍රන්ථ ඔස්සේ සිංහල සාහිත්‍යයේ වර්ධනයට සුවිශාල ලෙස දායක වී ඇත.
+
+මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමග බැඳුණු  ඔහුට ම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+
+මේ සාකච්ඡාව තුළ  මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති නිම්නාගේ ඉතිහාසය (2019) සහ මේ රහස් කවුලුවෙන් එබෙන්න (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු  ඒවා ය.
+
+හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකටය යන්න ප්‍රකට කරුණකි. ලියන තැන, ලියන විදිහ, ලියන විට බොන කෝපි කෝප්ප ගණන, ලිවීම තමන්ම විඳින හැටි වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය.
+
+මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+
+...
+
+[Data](articles/51944c28.json)
+
+---
+
 ### A stock of illegal e cigarettes raided
 
 *2024-02-23 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193725) · `si`
@@ -1975,83 +2053,5 @@ A case is being implemented in the ruthurcy at present. The number of people who
 [Data](articles/f0f2c74d.json)
 
 [Extended Data](ext_articles/f0f2c74d.ext.json)
-
----
-
-### Members of Parliamentary Committees
-
-*2024-02-23 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/177086) · `ta`
-
-According to the resolution passed by Parliament on February 9, 2024, Deputy Speaker Ajith Rajapaksa presented the names of the members appointed to work in the fifth session of the ninth Parliament on Thursday (22).
-
-Accordingly, Committee on Moral and Privitations, Committee on Government Accounts, Committee on Public Petitions, Ministry of Security Affairs Advisory Committee, Ministry of Finance, Economic Stability and National Policy AffairsMinistry of Investment Development Affairs, Ministry of Education, Ministry of Education, Ministry of Media Affairs Advisory Committee, Health Affairs Advisory Committee, Ministry of Plantation Industries and Plantation Industry
-
-...
-
-[Data](articles/14fd8644.json)
-
-[Extended Data](ext_articles/14fd8644.ext.json)
-
----
-
-### The struggle against the illegal -set Tissa Vihara begins!
-
-*2024-02-23 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177085) · `ta`
-
-The struggle against Tissa Vihara, which was illegally set up in Tittitti, began on Thursday (22). The struggle is expected to continue till 6:30 pm on Friday (23).
-
-Media spokesman of the Tamil National People's Front Kanagaratnam Sukash and members of the public were present at the protest.
-
-◼️
-
-[Data](articles/c80a96a1.json)
-
-[Extended Data](ext_articles/c80a96a1.ext.json)
-
----
-
-### Cabinet nod to extend National Mine Action Centre till 2027
-
-*2024-02-23 01:16:50* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-extend-National-Mine-Action-Centre-till-2027/56-758802) · `en`
-
-Aims to make Sri Lanka mine-free by 2027, aligning with international obligations
-
-Ongoing demining efforts by NGOs to continue, with further approval for implementation
-
-Strategic program for demining from 2023-2027 involves collaboration with national and international stakeholders
-
-Financial assistance from Govt. and international agencies supports demining efforts with an annual allocation of $ 17.5 m
-
-Initiates special livelihood program to over 3,000 civilians engaged in demining activities
-
-Inks MoUs to facilitate international aid-based programs in Northern and Eastern provinces
-
-Progress includes clearing over 204 square kilometres of land of landmines, disposing of landmines and unexploded ordnance in 2023
-
-The Cabinet of Ministers this week approved the extension of the National Mine Action Centre till 2027 to oversee and direct demining activities across the country.
-
-...
-
-[Data](articles/d667d251.json)
-
-[Extended Data](ext_articles/d667d251.ext.json)
-
----
-
-### Cabinet clears six-acre land to construct monastery in Nuwara Eliya with Indian aid
-
-*2024-02-23 01:15:54* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-six-acre-land-to-construct-monastery-in-Nuwara-Eliya-with-Indian-aid/56-758801) · `en`
-
-The Cabinet of Ministers cleared the allocation of land to the Sri Narayana Dharma Sangam Colombo Trust on a 30-year long-term lease basis to construct a monastery in the Nuwara Eliya district with Indian assistance.
-
-The construction of the monastery is in commemoration of the centennial of Sri Narayan Guru.
-
-“The Sri Narayana Dharma Sangam Colombo Trust had submitted a request for the allotment of land from the Nuwara Eliya district to build the monastery. A land measuring six acres and two roods, known as ‘Rambodawatta’ and belonging to the Land Reform Commission in the Kothmale Divisional Secretariat of the Nuwara Eliya District is identified for this purpose,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
-
-...
-
-[Data](articles/9f3a2146.json)
-
-[Extended Data](ext_articles/9f3a2146.ext.json)
 
 ---

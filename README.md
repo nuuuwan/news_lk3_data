@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 22:03:11**
+As of **2024-02-23 22:17:14**
 
 ## Newspaper Stats
 
-*Scraped **8,947** Articles*
+*Scraped **8,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 751
-adaderanalk | 1,070
+adaderanalk | 1,071
 tamilmirrorlk | 1,106
 virakesarilk | 1,220
 adaderanasinhalalk | 1,326
@@ -26,11 +26,29 @@ dailymirrorlk | 1,343
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,947 (100.0%) of 8,947 articles have been extended.
+8,947 (100.0%) of 8,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### US to further strengthen defense cooperation with Sri Lanka, donate fourth patrol vessel
+
+*2024-02-23 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97486/us-to-further-strengthen-defense-cooperation-with-sri-lanka-donate-fourth-patrol-vessel) · `en`
+
+The United States remains committed to the economic growth and prosperity of Sri Lanka, Deputy Secretary of State for Management and Resources Richard Verma told government, civil society and economic leaders during his visit to Sri Lanka.
+
+Verma met with President Ranil Wickremesinghe and Foreign Minister Ali Sabry to discuss progress on Sri Lanka’s IMF program, including inclusive economic and governance reforms aimed at keeping Sri Lanka on the path to sustainable economic growth, the US Embassy in Colombo said.
+
+Deputy Secretary Verma stressed the vital need to protect human rights and fundamental freedoms, including freedom of expression, the statement said.
+
+They also explored opportunities to deepen defense and maritime cooperation between the United States and Sri Lanka, including strengthening the Sri Lanka Navy’s capabilities to safeguard national security and promote a more stable Indo-Pacific region.
+
+...
+
+[Data](articles/9c94f5fe.json)
+
+---
 
 ### Benz - Wesley equal conflict;Benz players Akshan, Mewan shining
 
@@ -2105,19 +2123,5 @@ A group of water supply board employees had a number of human bone parts on June
 [Data](articles/f5182a4c.json)
 
 [Extended Data](ext_articles/f5182a4c.ext.json)
-
----
-
-### In a situation where the warm index should be focused
-
-*2024-02-23 08:19:29* · [`adalk`](https://www.ada.lk/breaking_news/උණුසුම්-දර්ශකය-අවධානය-යොමුකළ-යුතු-තත්ත්වයක/11-408242) · `si`
-
-The warm index of the North Western and North Central provinces, the warm index of the Met Department, the heat of the human cell is expected to be "focused".
-
-◼️
-
-[Data](articles/1fbe6d80.json)
-
-[Extended Data](ext_articles/1fbe6d80.ext.json)
 
 ---

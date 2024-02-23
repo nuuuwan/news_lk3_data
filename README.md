@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 18:33:12**
+As of **2024-02-23 18:50:41**
 
 ## Newspaper Stats
 
-*Scraped **8,924** Articles*
+*Scraped **8,925** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 751
-adaderanalk | 1,066
+adaderanalk | 1,067
 tamilmirrorlk | 1,104
 virakesarilk | 1,213
 adaderanasinhalalk | 1,321
@@ -26,27 +26,49 @@ dailymirrorlk | 1,339
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,922 (100.0%) of 8,924 articles have been extended.
+8,925 (100.0%) of 8,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### කහතුඩුව - රිලාවල දී දරුණු රිය අනතුරක්
+### More Sri Lankans fall victim to Myanmar human trafficking racket?
+
+*2024-02-23 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97482/more-sri-lankans-fall-victim-to-myanmar-human-trafficking-racket) · `en`
+
+The human trafficking racket in Myanmar goes on unabated as more Sri Lankans continue to be brought in for cyber slavery, according to a harrowing statement given by a youth who had fallen victim to the Burmese terror group.
+
+The young man revealed that another Sri Lankan national was recently moved to the cyber slavery camp where he is being forcibly held, and as many as 15 other Sri Lankans including two females were also slated be brought there.
+
+He said the Sri Lankan embassy in Myanmar, the foreign ministry, the immigration authorities, the president and all respective authorities have been informed about their situation, urging them to take necessary action without delay.
+
+In December 2023, media reports shed light on the plight of a group of about 50-60 Sri Lankans, who were lured with tourist visas behind the false front of lucrative IT sector job offers and are being held captive in Myanmar by a notorious ethnic armed group.
+
+...
+
+[Data](articles/e7dd80c0.json)
+
+[Extended Data](ext_articles/e7dd80c0.ext.json)
+
+---
+
+### Heavy accidents in Kahathuduwa - Rilawala
 
 *2024-02-23 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193744) · `si`
 
-කහතුඩුව - රිලාවල ප්‍රදේශයේ දී අද (23) පස්වරුවේ යතුරුපැදියක් සහ මෝටර් රථයක් එකිනෙක ගැටීමෙන් සිදු වූ අනතුරකින් පුද්ගලයකු බරපතළ තුවාල ලබා තිබේ.
+A motorbike and a car collided at Kahathuduwa - Rilawala area in Kahathuduwa today (23).
 
-කහතුඩුව පොලීසිය පැවසුවේ, තුවාලකරු මේ වන විට වෑතර දිසාරෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටින බවයි.
+Kahathuduwa police said that the injured is currently being treated at the cost of length.
 
-කහතුඩුව දෙස සිට පැමිණි යතුරු පැදියක් හොරණ - කොළඹ මාර්ගයේ මත්තෙගොඩ දෙසට හැරවීමේ දී කොළඹ සිට පැමිණි මෝටර් රථයක ගැටී මෙම අනතුර සිදු ව තිබේ.
+The accident occurred when a motorbike from Kawathu to reach the Mattagoda - Galle road in Colombo, the accident occurred.
 
-යතුරුපැදිකරුගේ සහ මෝටර් රථ රියදුරුගේ අපරීක්ෂාකාරී රිය ධාවනය අනතුරට හේතුව බව පොලීසිය සිදු කළ විමර්ශනවල දී හෙළි වී ඇත.
+Investigations carried out by the police have revealed that the motorcyclist and the car driver's unfuse driver was the cause of the accident.
 
 ◼️
 
 [Data](articles/dfff2cff.json)
+
+[Extended Data](ext_articles/dfff2cff.ext.json)
 
 ---
 
@@ -65,6 +87,8 @@ Assuring New Delhi on security concerns, he said: "We are open for business with
 ◼️
 
 [Data](articles/f1525b71.json)
+
+[Extended Data](ext_articles/f1525b71.ext.json)
 
 ---
 
@@ -2045,21 +2069,5 @@ The President said that the process of digital change is currently underway and 
 [Data](articles/3971c0c0.json)
 
 [Extended Data](ext_articles/3971c0c0.ext.json)
-
----
-
-### The Kachchativu Festival begins today
-
-*2024-02-23 04:01:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சதீவு-திருவிழா-இன்று-ஆரம்பம்/175-333699) · `ta`
-
-Jaffna District Secretary Ambalavanar Sivapalasundaram told the media yesterday that all arrangements have been made.
-
-Meanwhile, Rameswaram - Werkod Stockbrobbing Sandyaku announced yesterday that none of the Indian pilgrims will participate in the Kachchativu festival as the Indian fishermen have not been released.. (A)
-
-◼️
-
-[Data](articles/b8daf690.json)
-
-[Extended Data](ext_articles/b8daf690.ext.json)
 
 ---

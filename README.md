@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 22:17:14**
+As of **2024-02-23 22:33:43**
 
 ## Newspaper Stats
 
-*Scraped **8,948** Articles*
+*Scraped **8,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 751
 adaderanalk | 1,071
 tamilmirrorlk | 1,106
 virakesarilk | 1,220
-adaderanasinhalalk | 1,326
+adaderanasinhalalk | 1,327
 dailymirrorlk | 1,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,947 (100.0%) of 8,948 articles have been extended.
+8,948 (100.0%) of 8,949 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,30 @@ They also explored opportunities to deepen defense and maritime cooperation betw
 ...
 
 [Data](articles/9c94f5fe.json)
+
+[Extended Data](ext_articles/9c94f5fe.ext.json)
+
+---
+
+### බෙලිඅත්ත ඝාතනයේ තවත් කතාවක් එළියට
+
+*2024-02-23 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193750) · `si`
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනයට ආධාර අනුබල දුන් ඌරගහ මයිකල් සහ බූස්සේ හර්ෂ යන දෙදෙනා සහ වෙඩි තැබීම සිදුකළ බවට සැක කෙරෙන දෙදෙනෙකු ඩුබායිහි දී එරට පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+ඒහිදී ශ්‍රී ලාංකිකයින් 13 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+
+අත්අඩංගුවට පත්වූ 13 දෙනාම බෙලිඅත්ත පංච පුද්ගල ඝාතනය මෙහෙයවූ බවට සැක කෙරෙන කොස්ගොඩ සුජීගේ සමීපතමයින් බව පැවසේ.
+
+වැඩිදුරටත් හෙළිවී ඇත්තේ කොස්ගොඩ සුජී එම පිරිස මුදාගැනීමට මේ වන විට උත්සාහ කරමින් සිටින බවය.
+
+කෙසේ වෙතත් මෙම අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් ඩුබායි රාජ්‍යය තවමත් ලක් රජයට නිල වශයෙන් දැනුම්දීමක් සිදුකර නැත.
+
+සැකකරුවන් මෙරටට ගෙන්වාගැනීම සම්බන්ධයෙන් වන ඉදිරි ක්‍රියාමාර්ග පිළිබඳ දෙරටේ ආරක්ෂක අංශ සාකච්ඡා කරමින් සිටින බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/918709aa.json)
 
 ---
 
@@ -2099,29 +2123,5 @@ As it approached the surface of the moon, Odysseus lost contact with NASA, resul
 [Data](articles/e56c83fb.json)
 
 [Extended Data](ext_articles/e56c83fb.ext.json)
-
----
-
-### Kokkuthunu Agrate: 1994 - 1996
-
-*2024-02-23 08:32:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czq4z3xe407o) · `si`
-
-A report to the Mullaitivu District Secretary of the Mullaitivu District Secretary of the Mullaitivu District Hospital, the Mullaitivu District Secretary of the Mullaitivu District Court has decided to conclude that the Kokkuthupuwara and Group Ministers can belong to the date of excavation from the Group Ministers 1994.
-
-Mullaittivu was produced before the Mullaitivu Kokkuthudunuwela Group mass grave (February 22), saying:
-
-Mullaitivu Magistrate Dharmalingam was presented to Pradeepanam, a report on the Kokkuthudunuwela Group mass Ministers.
-
-The graduation of the mass mini is to be resumed on March 4, and the relatives of the disappeared have been referred to the availability of funds for exviation.
-
-Kokkuthudui and third phase of the third phase. 40 bone categories raises 40 parts
-
-A group of water supply board employees had a number of human bone parts on June 29, 2023.
-
-...
-
-[Data](articles/f5182a4c.json)
-
-[Extended Data](ext_articles/f5182a4c.ext.json)
 
 ---

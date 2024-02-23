@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 17:17:35**
+As of **2024-02-23 17:33:50**
 
 ## Newspaper Stats
 
@@ -26,45 +26,63 @@ dailymirrorlk | 1,338
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,915 (100.0%) of 8,919 articles have been extended.
+8,919 (100.0%) of 8,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### இலங்கை மிகப் பெரும் அரசியல் சர்வதேச அரசியல் அபிலாசைகளை கொண்டிருக்கவில்லை  அனைத்து நாடுகளுடனும் வர்த்தகத்தில்  ஈடுபடவிரும்புகின்றது - இந்திய ஊடகத்திற்கு  தாரகபாலசூரிய கருத்து
+### Sri Lanka does not have the greatest political aspirations of all countries to trade with all countries
 
 *2024-02-23 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177143) · `ta`
 
-இலங்கை மிகப்பெரிய அரசியல் சர்வதேச அரசியல் அபிலாசைகளை கொண்டிருக்கவில்லை நாங்கள் அனைத்து நாடுகளுடனும் வர்த்தகத்தில் ஈடுபடவிரும்புகின்றோம் இலங்கை மக்கள் அதன் மூலம் பயனடைவார்கள் என இலங்கையின் வெளிவிவகார இராஜாங்க அமைச்சர் தாரகபாலசூரிய தெரிவித்துள்ளார்
+Sri Lanka has no major political aspirations.
 
-இலங்கை இந்திய உறவுகளை எவ்வாறு பார்க்கின்றீர்கள் குறிப்பாக நிதிசார் இணைந்த செயற்பாடுகள் ஆரம்பிக்கப்பட்டுள்ள நிலையில் சமீபத்தில் உங்கள் நாட்டில் யுபிஐ ஆரம்பித்து வைக்கப்பட்டதை நாங்கள் பார்த்தோம்.
+We have recently seen the UPI in your country, as the financial combination of financial affiliation has begun.
 
-பதில்- இந்திய உறவுகள் முன்னர் ஒருபோதும் இல்லா வலுவான உயர்ந்த நிலையில் காணப்படுவதாக நான் கருதுகின்றேன்.யுபிஐ இரு நாடுகளிற்கும் நன்மையளிக்கின்ற விடயம்.
+Answer: I think Indian relations are never in a strong higher level.
 
-இலங்கையி;ல் ஒன்றரை வருடங்களிற்கு முன்னர் இடம்பெற்ற விடயங்களை பார்த்தால் அவை நிதிநெருக்கடியாக டொலர் இல்லாததால் உருவாகியது.
+If you look at the issues that took place over a year and a half ago in Sri Lanka, they were formed due to lack of financial dollars.
+
+Our biggest tourist market is India.
+
+Indians travel to Sri Lanka and make it easier to make the Indian rupee.
+
+Question: Indian Foreign Minister appealed to Indians to visit Sri Lanka?How do you consider the tourist attraction for Indians?
+
+Reporter -I have visited Sri Lanka but it is in an unprecedented moment -after a Sunday attack
+
+Taraka- Your Foreign Minister said that Sri Lanka is a country of 65,000 squaremm in a country but everyone has everything.
+
+It is not surprising that Markapolos said Sri Lanka was the best island.
+
+The best beaches in the world are in our country. There are very cold climates.
 
 ...
 
 [Data](articles/69cc9862.json)
 
+[Extended Data](ext_articles/69cc9862.ext.json)
+
 ---
 
-### රජයේ ක්‍රියාවලියට රිචඩ් වර්මාගේ පැසසුම්
+### Richard Verma's compliments to the government's process
 
 *2024-02-23 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193742) · `si`
 
-ශ්‍රී ලංකාවේ ආර්ථිකය යථා තත්ත්වයට පත්කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ රජය ගනු ලබන පියවර අගය කරන බව අමෙරිකා එක්සත් ජනපදයේ කළමනාකරණ සහ සම්පත් පිළිබඳ නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් වර්මා මහතා පවසයි.
+Deputy Secretary of State Secretary Richard Werma says that President Ranil Wickremesinghe is the leading government to restore the economy of Sri Lanka.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ අමෙරිකා එක්සත් ජනපදයේ කළමනාකරණ සහ සම්පත් පිළිබඳ නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් වර්මා මහතා අතර ජනාධිපති කාර්යාලයේ අද (23) පෙරවරුවේ පැවති හමුවේ දී මේ බව සඳහන් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+President Ranil Wickremesinghe and Deputy Secretary of State Secretary Richard Werma (JVP) said that the Presidential Secretariat was held at the Presidential Secretariat this morning.
 
-කෘෂිකාර්මික නවීකරණ වැඩසටහන ඇතුළු ශ්‍රී ලංකාව තුළ මේ වන විට සිදු කෙරෙන ප්‍රධාන ආර්ථික ප්‍රතිසංස්කරණ සහ ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියෙහි ප්‍රගතිය පිළිබඳ ජනාධිපතිවරයා මෙහි දී එක්සත් ජනපද නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා දැනුම්වත් කර තිබේ.
+The President has notified the procedure of the US Deputy Secretary of State on the progress of the procedure for the restructuring of the main economic reforms and the proceeds in Sri Lanka.
 
-ගෝලීය ආරක්ෂාවට අදාළ කරුණු සම්බන්ධයෙන් ද මෙහි දී සාකච්ඡාවට ලක් වූ අතර, රතු මුහුදේ සිදු කෙරෙන නාවික මෙහෙයුම් සඳහා ශ්‍රී ලංකා රජය ලබාදුන් සහාය වෙනුවෙන් නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ස්තූතිය ද පළ කර ඇති බව සඳහන් ය.
+The Deputy Secretary of State has thanked President Ranil Wickremesinghe for the assistance of the Government of Sri Lanka for the Supreme Government of Sri Lanka for the Supreme Government of Sri Lanka for the Red Sea Naval Operations.
 
 ◼️
 
 [Data](articles/7f7e7495.json)
+
+[Extended Data](ext_articles/7f7e7495.ext.json)
 
 ---
 
@@ -81,6 +99,8 @@ She was rushed to a nearby hospital, where doctors declared her dead on arrival.
 ...
 
 [Data](articles/a7fa9372.json)
+
+[Extended Data](ext_articles/a7fa9372.ext.json)
 
 ---
 
@@ -1290,27 +1310,29 @@ Team 01 - Allowance has been received. The land is measured. Category with no pr
 
 ---
 
-### 'මම ලියන හැටි' : කේ කේ සමන් කුමාර
+### 'How I Write': K K Saman Kumara
 
 *2024-02-23 09:53:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0xl34p7wd8o) · `si`
 
-කේ කේ සමන් කුමාර යනු සමකාලීන සිංහල සාහිත්‍යයේ මඟහැරයා නොහැකි නවකතාකරුවෙකි.
+Ki Saman Kumara is a novelist cannot be avoided in contemporary Sinhala literature.
 
-එසේම සිංහල සාහිත්‍ය නවීකරණය කිරීමට අධිපති ආකෘතීන්ට නිරන්තරයෙන් අභියෝග කරන නවකතාකරුවෙකි.
+Also, the novelist who constantly challenges the dominant forms to modernize Sinhala literary.
 
-නේරංජනේ ඉස්නානේ, පිණි අහුරක් ඉහිරුණා, මාක්ස් ලයිව් ඉන් ශ්‍රී ලංකා, මහිලාවංශය වැනි නවකතා ඔස්සේ සේම ඔහු විශිෂ්ට කෙටිකතා, කවි සහ විචාර ග්‍රන්ථ ඔස්සේ සිංහල සාහිත්‍යයේ වර්ධනයට සුවිශාල ලෙස දායක වී ඇත.
+Neuroshenna, the hole of the Naramanna, high, highlights the honeycohel, the Sri Lankan and Mahailawana like Sri Lanka, Mahailawlanda and has contributed immensely short stories, poetry and criticism.
 
-මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමග බැඳුණු  ඔහුට ම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+I talk to him as a novelist as a noteworthy person with the objective of understanding the emotions and writing he felt as a dominant.
 
-මේ සාකච්ඡාව තුළ  මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති නිම්නාගේ ඉතිහාසය (2019) සහ මේ රහස් කවුලුවෙන් එබෙන්න (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු  ඒවා ය.
+The questions I hear in this discussion is currently written by the history (2019) and pressing from this link wind (2014) and have emerged from the experience I faced.
 
-හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකටය යන්න ප්‍රකට කරුණකි. ලියන තැන, ලියන විදිහ, ලියන විට බොන කෝපි කෝප්ප ගණන, ලිවීම තමන්ම විඳින හැටි වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය.
+Every writer is well-known for his own way of writing. Where writing, writing, writing, how to write, the writing of the coffee, belong to the writer's abundance.
 
-මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+The conversation is seeking to pointer to that secret site of the newcomers.
 
 ...
 
 [Data](articles/51944c28.json)
+
+[Extended Data](ext_articles/51944c28.ext.json)
 
 ---
 

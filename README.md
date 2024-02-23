@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 10:17:28**
+As of **2024-02-23 10:33:36**
 
 ## Newspaper Stats
 
-*Scraped **8,842** Articles*
+*Scraped **8,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 economynextcom | 458
 islandlk | 464
 dailyftlk | 483
-adalk | 746
+adalk | 747
 adaderanalk | 1,058
-tamilmirrorlk | 1,096
+tamilmirrorlk | 1,097
 virakesarilk | 1,192
-adaderanasinhalalk | 1,301
-dailymirrorlk | 1,322
+adaderanasinhalalk | 1,303
+dailymirrorlk | 1,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,840 (100.0%) of 8,842 articles have been extended.
+8,842 (99.9%) of 8,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### ඉඩම් ඔප්පු ලබාදීම ගැන පැහැදිලි කිරීමක්
+
+*2024-02-23 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193726) · `si`
+
+පවුල් ලක්ෂ 20ක් සඳහා ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහන කාණ්ඩ කිහිපයක් යටතේ සිදුකිරීමට සැලසුම් කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+
+රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේ නිශ්චිත ක්‍රමවේදයකට යටත්ව වගකිව හැකි ලියවිල්ලක් සහිතව අදාළ ඉඩම් ලබාදීමට අවශ්‍ය පියවර ගන්නා බවය.
+
+"මෙය කාණ්ඩායම් කිහිපයකට බෙදනවා. ඔබ ඔබේ ඉඩමේ උරුමකරුවෙකු ලෙස අපි පිළිගන්නවා. ඒ සඳහා සින්නක්කර ඔප්පුවක් ලබාදීමේ වැඩපිළිවෙල තමයි මේ දියත් කරන්නේ. ඔවුන්ගේ අයිතිය හැකි ඉක්මණින් සනාථ කිරීම තමයි රජයේ අවශ්‍යතාව තියෙන්නේ."
+
+01 වන කණ්ඩායම - දීමනා පත්‍ර ලැබී ඇත. ඉඩම මැන තිබේ. ගැටලු කිසිවක් නොමැති කාණ්ඩය
+
+02 වන කණ්ඩායම - අවසර පත්‍ර දී ඇත. ඉඩම මැන තිබේ. ගැටලු කිසිවක් නොමැති කාණ්ඩය
+
+◼️
+
+[Data](articles/7149cfd8.json)
+
+---
+
+### නීතිවිරෝධී ඊ සිගරට් තොගයක් වටලයි
+
+*2024-02-23 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193725) · `si`
+
+ඔන්ලයින් ක්‍රමය ඔස්සේ නීතිවිරෝධී ලෙස මෙරටට ඉලෙක්ට්‍රොනික් සිගරට් ගෙන්වා අලෙවි කළ ජාලයක් වැටලීමට ජා-ඇළ සුරාබදු ඒකකය සමත්වී තිබේ.
+
+එහිදී 25 හැවිරිදි සැකකරුවෙක් අත්අඩංගුවට ගත් අතර ඔහු පානදුර ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+ජා-ඇළ සුරාබදු අධිකාරී ප්‍රිමේෂ් ප්‍රනාන්දු මහතා සඳහන් කළේ රුපියල් ලක්ෂ 30ක ඊ සිගරට් තොගයක් මෙලෙස වටලා ඇති බවත් ඉන් රුපියල් කෝටි 10ක බදු ආදායමක් රජයට අහිමිවී ඇති බවත් ය.
+
+මෙම ඊ සිගරට් සඳහා තරුණ ප්‍රජාව සහ දරුවන් වැඩි වශයෙන් ඇබ්බැහි වෙමින් ඇති බවත් මෙය භයානක තත්ත්වයක් බවත් ඔහු පැවසීය.
+
+"මෙය දුම්වැටිවලට වඩා දරුණු ඇබ්බැහිකාරකයක්. ඊ සිගරට් බොනවා කියලා හොයා ගන්නවත් බැහැ. විවිධ සුවඳවල් තමයි නිකුත් වෙන්නේ. මෙවැනි සුවඳක් ඔබේ දරුවා ළඟින් එනවා නම් කරුණා කරලා සොයා බලන්න. මෙම ඊ සිගරට් විවිධ ආකාරයට නිෂ්පාදනය කරලා තියෙනවා. ඇතැම් විට අතේ බඳින ස්මාර්ට් වොච් එකක් ආකාරයෙන්, කරේ දාන පටියක් ආකාරයෙන් ආදී වශයෙන් පැහැදිලිව හඳුනාගන්න බැරි ආකාරයට නිෂ්පාදනය කර තිබෙනවා."
+
+◼️
+
+[Data](articles/1bfb8cad.json)
+
+---
 
 ### Two including teen arrested for aiding and abetting attempted murder
 
@@ -51,6 +91,8 @@ Modara Police and the CCD are conducting further investigations into this attemp
 ◼️
 
 [Data](articles/7589f0b7.json)
+
+[Extended Data](ext_articles/7589f0b7.ext.json)
 
 ---
 
@@ -83,6 +125,8 @@ The Indian fisher folks were shocked to learn that A. Salson (40) of Thangachima
 ◼️
 
 [Data](articles/9d01c508.json)
+
+[Extended Data](ext_articles/9d01c508.ext.json)
 
 ---
 
@@ -157,6 +201,22 @@ Speaking to the media after the meeting, Mr. Sunil Handunneththi stated that it 
 [Data](articles/be90e19e.json)
 
 [Extended Data](ext_articles/be90e19e.ext.json)
+
+---
+
+### එදා රට බේරා ගන්න ගිය විරුවට අද ඔබේ සවිය අවශ්‍යයි
+
+*2024-02-23 07:55:19* · [`adalk`](https://www.ada.lk/breaking_news/එදා-රට-බේරා-ගන්න-ගිය-විරුවට-අද-ඔබේ-සවිය-අවශ්‍යයි/11-408240) · `si`
+
+නොහික්මුණු රියදුරෙක් නිසාවෙන් සදහටම එක අතක් අහිමිවූ දෙදරුපියෙකු කෘතිම අතක් ලබා ගැනීම සඳහා විඳින අනේක දුක් පිළිබඳ පුවතක් උතුම් පුන් පොහෝ දිනයේ මාතලේ  රතලවැව ප්‍රදේශයේදී වා ර් තා  විය.
+
+කලක් යුද හමුදාවේ සේවය කළ ඔහුට සිරුරේ ඇති වූ සංකූලතා හේතුවෙන් යුධ හමුදාවෙන් ඉවත්ව කොළඹ ප්‍රදේශයේ පෞද්ගලික ආයතනයක කරණ වෑමියෙකු ලෙස සේවය කරමින් සිටියදී මාතලේ සිට කොළඹ බලා ගමන් කරද්දී අතර මග බස් රථය තවත් ලොරි රථයක ගැටීමෙන් සිදුවූ අනතුරකින් මෙම උදේශ්  මධුමල් තිලකවර්ධන නැමති දෙදරු පියාට එක අතක් අහිමි වී තිබේ.
+
+පී. ජී .උදේශ්  මධුමල් තිලකවර්ධන මහතා  මාතලේ  රතලවැව, මහවෙල.   ලිපිනයේ පදිංචිව සිටි . මේ වන විට ඔහුට තම ආදරණීය බිරිඳත් පුංචි දියණියත් වයෝවෘද්ධ මවත් මාස දෙකක් පමණ වයස ඇති පුංචි පුතාත් ජීවත් කරවීම සඳහා අනේක දුක් වේදනා විඳිමින් සිටින බව මෙම බිරිඳ හැඬු කඳුළින් අප සමග සඳහන් කළාය.
+
+...
+
+[Data](articles/4d0289cb.json)
 
 ---
 
@@ -435,6 +495,24 @@ Various entertainment activities play an important role at night in raising the 
 [Data](articles/4f491862.json)
 
 [Extended Data](ext_articles/4f491862.ext.json)
+
+---
+
+### ’பல்கலைக்கழக கட்டமைப்பின் கீழ் தொழிற்பயிற்சி’
+
+*2024-02-23 04:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-கட்டமைப்பின்-கீழ்-தொழிற்பயிற்சி/175-333700) · `ta`
+
+நவீன உலகிற்கு ஏற்றவாறு தொழில் கல்வியை மறுசீரமைத்து, இந்நாட்டின் இளைஞர் யுவதிகள் போட்டித்தன்மை நிறைந்த உலக தொழில் சந்தையில் வெற்றி பெறுவதற்கு உகந்த சூழல் உருவாக்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்தார்.
+
+அதற்கமைய, நாட்டின் அனைத்து தொழிற்பயிற்சி நிறுவனங்களையும் ஒருங்கிணைத்து ஒரே பல்கலைக்கழக கட்டமைப்பின் கீழ் கொண்டு வருவதோடு, புதிய விடயப்பரப்புகளை உள்ளடக்கிய பாடநெறிகளை அறிமுகப்படுத்த திட்டமிட்டிருப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க இரத்மலானை லலித் அத்துலத்முதலி தொழிற்பயிற்சி நிலையத்திற்கு நேற்று மேற்பார்வை விஜயமொன்றை மேற்கொண்டிருந்த போதே இதனை கூறினார்.
+
+தற்போது டிஜிட்டல் மாற்றத்திற்கான முன்னெடுப்புகள் துரிதமாக இடம்பெற்று வருவதோடு, இதன்போது செயற்கை நுண்ணறிவு உள்ளிட்ட துறைகள் குறித்து விசேட கவனம் செலுத்தப்படும் எனவும், நாளாந்தம் மாற்றமடையும் தொழில்நுட்பத்துடன் முன்னேறிச் செல்ல வேண்டும் என்பதே இலங்கையின் எதிர்பார்ப்பு எனவும் ஜனாதிபதி தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/2d3dd44e.json)
 
 ---
 
@@ -1270,6 +1348,24 @@ King coconut water has become an attraction in Colombo these days with the hot w
 
 ---
 
+### Incumbent and former Health Minister walk on same track: Dr. Bellana
+
+*2024-02-22 21:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Incumbent-and-former-Health-Minister-walk-on-same-track-Dr-Bellana/108-277566) · `en`
+
+Colombo, Feb 22 (Daily Mirror) - The problems relating to drugs are not the only issue in the health sector, and both the former and incumbent health ministers have been prone to viewing health matters narrowly, focusing primarily on drug-related issues, Deputy Director of the National Hospital Colombo (NHC) Dr. Rukshan Bellana said.
+
+Addressing the media, he said that when considering health issues, the incumbent and former Health Minister walk on a same track.
+
+"Drugs are not the sole issue in the country's health sector. The health administration of the hospitals has gone from bad to worse. We cannot treat patients without implementing rules in hospitals. If the Health Ministry cannot understand the issues faced by the patients and cannot understand what they mean, it is better for everyone to go home," he said.
+
+"We should prioritize on a patient-centred hospital management system while shifting away from an employee-centred approach," he added.
+
+...
+
+[Data](articles/5bdfac53.json)
+
+---
+
 ### Incumbent and former Health Minister walk on a single track: Dr. Bellana
 
 *2024-02-22 21:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Incumbent-and-former-Health-Minister-walk-on-a-single-track-Dr-Bellana/108-277566) · `en`
@@ -1847,111 +1943,5 @@ The rocket attack also killed acclaimed French photographer Rémi Ochlik and inj
 [Data](articles/18f630a1.json)
 
 [Extended Data](ext_articles/18f630a1.ext.json)
-
----
-
-### Maldives visit of Chinese survey ship could rouse Indian Ocean security concerns - report
-
-*2024-02-22 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97462/maldives-visit-of-chinese-survey-ship-could-rouse-indian-ocean-security-concerns-report) · `en`
-
-(Reuters) - A Chinese research ship arrived in the Maldives on Thursday, global ship-tracking data showed, just three months after a similar vessel visited the Indian Ocean and sparked New Delhi’s security concerns.
-
-The visit follows January comments by a U.S. think tank, that China’s navy could “leverage the insights gained from these missions” for deployment of naval forces, a claim Beijing calls part of a concocted image-smearing “China threat” narrative.
-
-Xiang Yang Hong 03, owned by a research institute that reports to China’s natural resources ministry, made a port call in the Maldives capital of Male, data from MarineTraffic showed, more than a month after leaving its home port of Xiamen in southeastern China.
-
-Prior to its arrival, the civilian ship had spent more than three weeks surveying waters just outside the exclusive economic zones of India, the Maldives and Sri Lanka, the ship-tracking data showed.
-
-...
-
-[Data](articles/f7a24ad3.json)
-
-[Extended Data](ext_articles/f7a24ad3.ext.json)
-
----
-
-### Sri Lanka offers fresh debt plan to bondholders amid Hamilton case extension hopes: Sources
-
-*2024-02-22 18:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-offers-fresh-debt-plan-to-bondholders-amid-hamilton-case-extension-hopes-sources-152014/) · `en`
-
-ECONOMYNEXT – Sri Lanka offered a revised restructuring proposal to sovereign bond holders sources said, as the country tries to wrap up debt restructuring by the middle of the year and a holdout investor sues to force payment on one series of bonds.
-
-A US court had stayed proceedings of case by holdout investor Hamilton Reserve for six months, which has the required volumes of bond with a ‘single series’ collective action clause to file action following request which was supported by the US, UK and France.
-
-An extension of at least three months may be sought to help wrap up the debt restructuring, sources said.
-
-Sri Lanka is expecting to sign memoranda of understanding with Paris Club, within weeks, according to official sources.
-
-Courts had earlier granted the stay saying Hamilton had the option of renewing case for summary judgement once it is lifted.
-
-...
-
-[Data](articles/ed9ce4db.json)
-
-[Extended Data](ext_articles/ed9ce4db.ext.json)
-
----
-
-### Members Members Members Members of Parliament
-
-*2024-02-22 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193712) · `si`
-
-Nominations of Member Membershibha in Parliament today announced the nomination of Member Members (22) in Parliament today (22).
-
-The nomination of the nominations was announced by the Deputy Speaker Ajith Rajapakse as the proposals were passed on February 9, 2024 on February 9, 2024.
-
-Attorney Pavithradevi Wanniarachchi, President's Counsel (Dr.) Wijeyadasa Rajapakse, Johnston Fernando, Magadenanda Aluthgamage, Attorney Madura Withanaage and Samanphra Herath.
-
-Attorney at Law Mohan Priyadarshana De Silva, Lasantha Alagiyawanna, Prasanna Ranaweera, K.. Kader Masathan, Diana Gamage, Chamara Sampath Dasanayake, Vajira Abeywardena, A. L. M. Ahalaweera Dissanayake, Jayantha Ketaweera, (Dr.) Major Pradeep Undugoda, Rahandas Kodithaku, Isuru Dodangoda, Attorney Dodangoda. Deliwaththa, Tapata Procedure, M. W. D. Sahan Pradeep Withana, Attorney-at-Law Madura Withanage, D. Weerasinghe and Manjula Dissanayake.
-
-...
-
-[Data](articles/7e41a960.json)
-
-[Extended Data](ext_articles/7e41a960.ext.json)
-
----
-
-### Is Sanath Nishantha's death killing?An accident?Johnston Fernando says massive doubts arise
-
-*2024-02-22 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177049) · `ta`
-
-Is the death of diplomatic minister Sanath Nishantha?Or an accident?The Department of Investigations should conduct a fast investigation and make the truth public.
-
-The ruling party parliamentarian Johnston Fernando said that all politicians, like Sanath Nishantha, should die.
-
-Speaking at a speech at the late Member of Parliament, Sanath Nishantha, a speech in Parliament on Thursday (22).
-
-Is the death of MP Sanath Nishantha?Or there is a huge doubt in the accident. This is why his wife has lodged a complaint with the Criminal Investigation Department. Therefore, the complaint should be expedited and made public the truth to the people of the country.
-
-Criticism of 225 MPs is now a new culture. Three of the 225 people criticize the entire political structure. They also refer to ideas against political culture.
-
-...
-
-[Data](articles/64a4dc83.json)
-
-[Extended Data](ext_articles/64a4dc83.ext.json)
-
----
-
-### Sri Lanka to consolidate all vocational training institutes into one college: president
-
-*2024-02-22 17:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-consolidate-all-vocational-training-institutes-into-one-college-president-152006/) · `en`
-
-ECONOMYNEXT — Sri Lanka plans to consolidate all vocational training institutes in the country into a single vocational college, offering contemporary subject-related courses, President Ranil Wickremesinghe said.
-
-Speaking at an observation tour at the Ratmalana Lalith Athulathmudali Vocational Training Centre on Thursday February 22, Wickremesinghe highlighted the need to restructure vocational education to align with the demands of the modern world.
-
-A statement from the president’s office said quoting the president that such restructuring is needed to ensure that Sri Lanka’s youth are equipped to excel in the competitive global job market.
-
-According to the statement, Wickremesinghe had also outlined to students at the institute the government’s plans for a swift digital transformation and the prioritisation of advancements such as Artificial Intelligence (AI).
-
-“He expressed optimism about Sri Lanka’s trajectory in embracing evolving technologies,” the statement said.
-
-...
-
-[Data](articles/7d5e3087.json)
-
-[Extended Data](ext_articles/7d5e3087.ext.json)
 
 ---

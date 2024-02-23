@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 14:02:26**
+As of **2024-02-23 14:17:24**
 
 ## Newspaper Stats
 
-*Scraped **8,881** Articles*
+*Scraped **8,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,98 @@ adalk | 750
 adaderanalk | 1,061
 tamilmirrorlk | 1,100
 virakesarilk | 1,203
-adaderanasinhalalk | 1,310
+adaderanasinhalalk | 1,312
 dailymirrorlk | 1,329
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,878 (100.0%) of 8,881 articles have been extended.
+8,881 (100.0%) of 8,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### திருகோணமலை தென்னைமரவாடி கந்தசாமி மலை ஆலயத்தில் பொங்கல் நிகழ்வுகளுக்கு சென்ற தமிழ்மக்களுக்கு தடை உத்தரவு
+### රට පුරා ව්‍යාජ වෛද්‍යවරුන් 50,000ක්
+
+*2024-02-23 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193735) · `si`
+
+රට පුරා ව්‍යාජ වෛද්‍යවරුන් 50,000ක් පමණ සිටින බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+
+කොළඹදී ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් එම සංගමය සඳහන් කළේ, එය නියාමනය කිරීම සඳහා සෞඛ්‍ය අමාත්‍යාංශය කිසිඳු පියවරක් ගෙන නොමැති බවය.
+
+එහිදී අදහස් දැක්වූ රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ නියෝජ්‍ය ලේකම් වෛද්‍ය ප්‍රසාද් හේරත් මහතා පැවසුවේ සෑම නගරයකම ප්‍රධාන ගම් ආශ්‍රිතව, ආසන්න වශයෙන් ව්‍යාජ වෛද්‍යවරුන් තුන් හතරදෙනෙකු පමණ සිටින බවය.
+
+රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ වෛද්‍ය ප්‍රභාත් සුගතදාස මහතා පැවසුවේ ඇතැම් ඖෂධ වෙළෙඳසැල්වල ක්‍රියාකාරීත්ව ද සෞඛ්‍ය ක්ෂේත්‍රයට විශාල තර්ජනයක් එල්ල කරන බවය.
+
+වෛද්‍ය නිර්දේශයක් නොමැතිව රෝග ලක්ෂණ අනුව ඖෂධ වෙළෙඳසැල්වල පිරිස විසින් රෝගීන් ට ඖෂධ ලබාදීම හේතුවෙන් රෝගීන් මරණයට පවා ලක්විය හැකි බව වෛද්‍යවරයා පෙන්වා දෙයි.
+
+මේ හේතුවෙන් නිසි නියාමනයක් වහාම සිදුකර යුතු බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය වැඩිදුරටත් අවධාරණය කරයි.
+
+◼️
+
+[Data](articles/d9438a5d.json)
+
+---
+
+### අනීතික සම්මාන සහ ගෞරව නාමවලට වැට බැඳෙයි
+
+*2024-02-23 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193734) · `si`
+
+නීත්‍යනුකූල නොවන ආකාරයට ජාතික සම්මාන සහ ගෞරව නාම පුද්ගලයන් වෙත ලබාදීම හා එලෙස ගෞරව නාම ලබාගැනීමට එරෙහිව නීත්‍යනුකූල පියවර ගන්නා ලෙස ජනාධිපති ලේකම් සමන් ඒකනායක මහතා අදාළ විෂය පිළිබඳ කටයුතු කරන රාජ්‍ය නිලධාරින්ට උපදෙස් දී තිබේ.
+
+එක් එක් නිශ්චිත නිර්නායක පදනම් කරගනිමින් විධිමත් ක්‍රමවේදයකට අනුව තෝරාගනු ලබන සුවිශේෂ ශ්‍රී ලාංකික පුරවැසියන් වෙත ජනාධිපතිවරයා විසින් පිරිනමනු ලබන ජාතික සම්මාන හා ගෞරව නාම සඳහා යොදාගන්නා නාමයන් භාවිත කරමින් විවිධ පුද්ගලයන් සහ රාජ්‍ය නොවන සංවිධාන මගින් සම්මාන, සන්නස් පත්‍ර හා සහතික ලබා දෙන අවස්ථා නිරීක්ෂණයට ලක්ව ඇති බව සඳහන් ය.
+
+මෙවැනි ආකාරයේ අසංවිධිත සම්මාන ප්‍රදානයන් මගින් මේ දක්වා ගෞරව ප්‍රණාමයට පත් සුවිශේෂ ශ්‍රී ලාංකිකයන් හට දැඩි අසාධාරණයක් හා අගෞරවයක් සිදු වන බව ජනාධිපති ලේකම්වරයා පෙන්වා දී ඇත.
+
+ජාතික සම්මාන සඳහා යොදා ගනු ලබන එවැනි ගෞරව නාමයන් වෙනත් පාර්ශ්වයන් විසින් වැරදි ආකාරයට භාවිත කිරීම වහා නතර කළ යුතු අතර, එවැනි ක්‍රියාවන්ට එරෙහිව කඩිනමින් නීතිය ක්‍රියාත්මක කළ යුතු බව ජනාධිපති ලේකම් සමන් ඒකනායක මහතා අවධාරණය කර තිබේ.
+
+...
+
+[Data](articles/bf94de8c.json)
+
+---
+
+### Tamil people who went to Pongal events at Kandaswamy Hill Temple in Trincomalee
 
 *2024-02-23 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177123) · `ta`
 
-திருகோணமலை மாவட்டத்தின் எல்லைக்கிராமமான தென்னைமரவாடி கந்தசாமி மலை முருகன் ஆலயத்தில் வருடாந்த பொங்கல் வழிபாடுகளுக்கு சென்ற மக்களுக்கு புல்மோட்டை பொலிஸாரால் நீதிமன்ற தடையுத்தரவு வழங்கப்பட்டு பொங்கல் நிகழ்வை நடாத்த விடாது தடை ஏற்படுத்தப்பட்டுள்ளது.
+The Pulmottai police have issued a ban on the Pongal event by the Pulmottai police who went to the annual Pongal worship at the Kandaswamy Kandaswamy Hill Murugan Temple, a border in the Trincomalee district.
 
-இன்று வெள்ளிக்கிழமை (23) தென்னைமரவாடி மக்களால் ஒழுங்கு செய்யப்பட்டிருந்த கந்தசாமி மலை முருகன் ஆலயத்தின் மாதாந்த பௌர்ணமி தின பொங்கல் மற்றும் அன்னதான நிகழ்வினை புல்மோட்டை பொலிஸார் தடுத்து நிறுத்தியுள்ளனர்.
+Pulmottai Police have stopped the monthly full moon day Pongal and Annadhanam of the Kandaswamy Hill Murugan Temple, which was organized by the people of the coconut tree today (23).
 
-மாதாந்தம் பௌர்ணமி தினத்தன்று தென்னமரவாடி கிராம மக்களால் நடத்தப்படும் பொங்கல் விழா வழமை போன்று இன்றைய தினமும் ஒழுங்குபடுத்தப்பட்டிருந்தது. இப்பொங்கல் விழாவிற்கு கிராம மக்கள் மற்றும் திருகோணமலை மாவட்டத்தின் பல பிரதேசங்களிலிருந்து பக்தர்கள் மற்றும் சிவில் அமைப்புகள் விழாவில் கலந்து கொள்ள வந்திருந்தனர்.
+The Pongal Festival held by the villagers of Thennamaravadi on the full moon day of the month was organized today.. Pilgrims and civil organizations from various parts of the Trincomalee district attended the festival.
+
+While the arrangements were being made by the people of the village on this occasion, hundreds of police and Special Task Force (Soldiers, Soldiers, Investigators, Investigators, and Rebellions, had come to the temple premises and prevented the villagers from the area and the people from the outskirts.
 
 ...
 
 [Data](articles/c93efaf2.json)
 
+[Extended Data](ext_articles/c93efaf2.ext.json)
+
 ---
 
-### யாழில் பெண் உயிரிழந்த சம்பவம்: பஸ்ஸின் வழித்தட அனுமதி இரத்து
+### Woman dies in Jaffna
 
 *2024-02-23 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177120) · `ta`
 
-சாரதியின் அவசரத்தால் பெண்ணொருவர் உயிரிழந்த சம்பவத்தை அடுத்து, குறித்த பஸ்ஸின்  வழித்தட அனுமதி வடமாகாண போக்குவரத்து அதிகார சபையினால் இரத்து செய்யப்பட்டள்ளது.
+The bus route has been canceled by the Northern Provincial Transport Authority in the wake of the driver's emergency.
 
-யாழ்ப்பாணம் - அனலைதீவு பகுதியில் கடந்த திங்கட்கிழமை பஸ்ஸிலிருந்து பெண்ணொருவர் இறங்க முற்பட்டபோது சாரதி அவசரமாக பஸ்ஸை நகர்த்திமையால், அப்பெண் விழுந்து படுகாயமடைந்தார்.
+The woman fell and fell into a hurry when the driver had hurriedly moved the bus when a woman tried to get off the bus last Monday in Jaffna - Analadeevu area.
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த ஊர்காவற்துறை பொலிஸார் சாரதியை கைது செய்து நீதிமன்றில் முற்படுத்தியதை அடுத்து, நீதிமன்ற உத்தரவில் சாரதி விளக்கமறியலில் வைக்கப்பட்டார்.
+The driver of the Kayts police, who investigated the incident, arrested the driver of the Kayts, and the driver was placed on a court order.
 
-இந்நிலையில், குறித்த விபத்து சம்பவம் தொடர்பில் வடமாகாண போக்குவரத்து அதிகார சபையினர் விசாரணைகளை முன்னெடுத்து, பஸ்ஸின் வழித்தட அனுமதியினை இரத்து செய்துள்ளனர்.
+In this case, the Northern Provincial Transport Authority has investigated the incident and canceled the bus's permission.
 
-பஸ்கள் போட்டி போட்டு ஓடுவதனாலேயே அதிகளவான விபத்துகள் இடம்பெற்று வருவதாகவும், அவ்வாறு அதிக வேகமாக பஸ்களை செலுத்தும் சாரதிகள் தொடர்பில், யாழ்.மாவட்ட செயலக வளாகத்தில் உள்ள  வடமாகாண போக்குவரத்து அதிகார சபையினருக்கு முறையிடலாம் என தெரிவிக்கப்பட்டுள்ளது.
+It has been reported that the buses are competing due to the rivalry and the Northern Provincial Transport Authority at the Jaffna Mawatha Secretariat Complex can appeal to the drivers who are pushing so fast.
 
 ◼️
 
 [Data](articles/f46c7491.json)
+
+[Extended Data](ext_articles/f46c7491.ext.json)
 
 ---
 
@@ -660,21 +706,23 @@ He said that the youth and children were addicted to the e cigarettes and that t
 
 ---
 
-### ඇල්ලේ කඳු තරණයට ගොස් අවසන් ගමන් යයි
+### To climbs and finish on the cliff
 
 *2024-02-23 09:13:06* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-කඳු-තරණයට-ගොස්-අවසන්-ගමන්-යයි/11-408243) · `si`
 
-ඇල්ලේ කඳු තරණයට ගිය විසි දෙක හැවිරිදි තරුණයකු 22 සවස කඳු මුදුනේ සිට ප්‍රපාතයකට ඇද වැටී බරපතල තුවාල ලබා රෝහල් ගත කිරීමේ දී ජීවිතක්ෂයට පත්වී ඇති බව ඇල්ල පොලීසිය පැවසීය.
+The Ella Police have died in maintaining serious injuries from the mountains.
 
-මෙසේ ජීවිතක්ෂයට පත් වී ඇත්තේ අංක 172/4, මොරගොල්ල, බේරුවල පදිංචිව සිටි විසි දෙක හැවිරිදි තරුණයෙකි.
+The victim is a 20 year old resident of Beruwala, Moragolla, No. 172/4.
 
-මිතුරෙකු සමග ඇල්ලවැල්ලවාය මාර්ගයේ පහළ ඇල්ල ගම්මානයට ඉහළ කන්ද තරණය කරමින් සිටියදී එක්වරම ලිස්සා ප්‍රපාතයකට ඇද වැටී  මොහු මෙසේ බරපතල තුවාල ලබා වැල්ලවාය දිසාරෝහලට ඇතුළත් කිරීමේ දී ජීවිතක්ෂයට පත්වී ඇති බව පොලිසිය පැවසීය.
+The police said that he had been sentenced to death at the bottom of the lower falls along the Ellawala road with a friend.
 
-මේ සම්බන්ධ  මරණ පරීක්ෂණය සහ පශ්චාත් මරණ පරීක්ෂණය වැල්ලවාය දිසාරෝහලේ දී පැවැත්වීමට නියමිතය. ඇල්ල පොලීසිය පරීක්ෂණ පවත්වයි.
+The death inspection and the post mortem will be held at the Wellawaya Magistro.Ella Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/332dc672.json)
+
+[Extended Data](ext_articles/332dc672.ext.json)
 
 ---
 
@@ -1935,57 +1983,5 @@ Different fun activities of various entertainment activities playing a country's
 [Data](articles/ec8c7ac6.json)
 
 [Extended Data](ext_articles/ec8c7ac6.ext.json)
-
----
-
-### Two arrested for misleading school children
-
-*2024-02-22 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193716) · `si`
-
-Police have found an electronic smoking device in Mawathagama.
-
-The OIC Chief Inspector of Mawathagama Police OIC Chief Inspector Nishantha Hettiarachchi has been investigated by the Chief Inspector Nishantha Hettiarachchi.
-
-The student had left the bag with the same device at the time of the student at the time of his traveling student every day.
-
-The police have been aware of the incident on suspicion of the home.
-
-The electrical extermination device has been found when examining the parcel.
-
-The school student who had come into police custody and information has been revealed in a normal dress for the completion of the school.
-
-The police inspected the shoppers on a businessman who was purchased from a businessman in Mawathagama.
-
-The suspect was revealed that the suspect was sold to the student for Rs. 6,500.
-
-The businessman later arrested was two more electronic smokers in the house of a friend in front of the school, according to the work of the business.
-
-...
-
-[Data](articles/1dfea6ef.json)
-
-[Extended Data](ext_articles/1dfea6ef.ext.json)
-
----
-
-### UK parliament descends into chaos over Gaza ceasefire vote
-
-*2024-02-22 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97465/uk-parliament-descends-into-chaos-over-gaza-ceasefire-vote) · `en`
-
-Dozens of lawmakers stormed out of Britain’s parliament on Wednesday with tempers flaring as the three biggest political parties sought to outmanoeuvre each other over a vote on a ceasefire in Gaza.
-
-The uproar followed a decision by the speaker to ignore precedent and allow a vote which helped the opposition Labour Party avoid a large-scale rebellion among its own lawmakers over its position on the Israel-Hamas war.
-
-Lawmakers from the governing Conservatives and the opposition Scottish National Party (SNP) left the debating chamber in protest and some tried to take the rare step of holding proceedings in private.
-
-The speaker, Lindsay Hoyle, eventually apologised and said he had made his decision to allow lawmakers to vote on a range of views because he was concerned about their security after some had faced threats of violence over their stance on the war.
-
-“It is regrettable and I apologise for the decision,” he told parliament. “I did not want it to end like this.”
-
-...
-
-[Data](articles/2195bcc6.json)
-
-[Extended Data](ext_articles/2195bcc6.ext.json)
 
 ---

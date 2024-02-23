@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 08:33:06**
+As of **2024-02-23 08:50:21**
 
 ## Newspaper Stats
 
-*Scraped **8,829** Articles*
+*Scraped **8,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 economynextcom | 458
 islandlk | 464
 dailyftlk | 483
-adalk | 744
+adalk | 745
 adaderanalk | 1,056
-tamilmirrorlk | 1,094
-virakesarilk | 1,190
+tamilmirrorlk | 1,096
+virakesarilk | 1,192
 adaderanasinhalalk | 1,298
-dailymirrorlk | 1,320
+dailymirrorlk | 1,321
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,825 (100.0%) of 8,829 articles have been extended.
+8,829 (99.9%) of 8,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Sri Lankan workers in Israel face dilemma, seek job shifts
+
+*2024-02-23 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-workers-in-Israel-face-dilemma-seek-job-shifts/108-277599) · `en`
+
+Colombo, Feb 23 (Daily Mirror) - A contingent of Sri Lankan workers dispatched to Israel to work in the agriculture sector has encountered challenges, with some seeking alternative employment due to reported difficulties on the job, Daily Mirror learns.
+
+Israel's recruitment drive for foreign labourers was prompted by the deportation of thousands of Palestinian workers after the Hamas’ attack on October 7, last year. It led to opportunities for workers from countries like India and Sri Lanka. Sri Lanka which seized the opportunity sent workers to Israel to work both in the construction and agriculture industries.
+
+However, there are reports about some Sri Lankan workers expressing dissatisfaction with the working conditions in the agriculture sector. Complaints range from inadequate facilities to the strenuous nature of farm work. Several workers have reportedly approached the Sri Lankan mission in Tel Aviv, exploring the possibility of switching to different job sectors.
+
+...
+
+[Data](articles/0efac5d6.json)
+
+---
+
+### இடியுடன் கூடிய மழை பெய்யும்
+
+*2024-02-23 08:05:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-333706) · `ta`
+
+மேல், தெற்கு, சப்ரகமுவ, மத்திய, வடமேல் மற்றும் ஊவா மாகாணங்களில் பல இடங்களில் மாலை அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்.
+
+மேல், சப்ரகமுவ, மத்திய மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படலாம்.
+
+மேலும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள போதுமான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்படுகிறார்கள். R
+
+◼️
+
+[Data](articles/56a1b136.json)
+
+---
 
 ### About 1500 children in prisons
 
@@ -212,6 +244,26 @@ The public requests the public to take steps to reduce the damages caused by tem
 
 ---
 
+### ஸ்பெயினில்   வலென்சியா நகரில்  தொடர்மாடிக்குடியிருப்பொன்றில் பாரிய தீவிபத்து – பெருமளவு பொதுமக்கள் வீடுகளிற்குள் சிக்குண்டுள்ளதால் அச்சம்
+
+*2024-02-23 05:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177089) · `ta`
+
+ஸ்பெயினின் வலென்சியா நகரில் தொடர்மாடிக்குடியிருப்பொன்றில் பாரிய தீவிபத்து ஏற்பட்டுள்ளதை தொடர்ந்து பெருமளவு மக்கள் தங்கள் வீடுகளிற்குள் சிக்குண்டிருக்கலாம் என அச்சம் வெளியாகியுள்ளது.
+
+கம்பனார் என்ற பகுதியில் உள்ள 14 அடுக்குகளை கொண்ட தொடர்மாடிக்கட்டிடமொன்றில் பரவிய தீ அருகில் உள்ள கட்டிடங்களிற்கும் பரவியுள்ளது.
+
+இந்த கட்டிடத்தில் 138 வீடுகள் உள்ளதாகவும் 450க்கும் அதிகமானவர்கள் வசிப்பதாகவும் தகவல்கள் வெளியாகியுள்ளன.
+
+தீயணைப்பு படையினர் ஏழாம்மாடியில் வசிக்கும் தம்பதியினர் உட்பட பலரை மீட்டுள்ளனர் என பொதுமக்கள் தெரிவித்துள்ளனர்.
+
+நாலாம்மாடியிலேயே முதலில் தீ மூண்டது பின்னர் தீ மிகவேகமாக பரவத்தொடங்கியது என தொடர்மாடிக்குடியிருப்பின் இரண்டாவது தளத்தில் வசிக்கும் ஒருவர் தெரிவித்துள்ளார்.பத்து நிமிடங்களில் முழுமையாக பரவிட்டது என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/741ce541.json)
+
+---
+
 ### Leakage of water in Samanalawewa reservoir cannot be stopped, say officials
 
 *2024-02-23 04:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leakage-of-water-in-Samanalawewa-reservoir-cannot-be-stopped-say-officials/108-277597) · `en`
@@ -227,6 +279,22 @@ They also told the committee that a ‘covert operation’ is also being carried
 [Data](articles/892f8a35.json)
 
 [Extended Data](ext_articles/892f8a35.ext.json)
+
+---
+
+### ’இரவு நேரப் பொருளாதாரத்திற்கு மாறவேண்டும்’
+
+*2024-02-23 04:27:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவு-நேரப்-பொருளாதாரத்திற்கு-மாறவேண்டும்/175-333701) · `ta`
+
+இரவு நேரப் பொருளாதாரத்திற்கு மாறுவதன் மூலம் நாட்டின் அந்நிய செலாவணியை சுமார் 70 வீதம் வரை அதிகரிக்க முடியும். அதற்காக சுற்றுலாப் பயணிகளை அதிகம் கவரக் கூடிய இடங்கள் தொடர்பாக தற்போதுள்ள சட்டங்களையும் ஒழுங்குமுறைகளையும் திருத்தியமைத்து, தேவையான வசதிகளை ஏற்படுத்திக் கொடுக்க வேண்டும் என்று சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+ஒரு நாட்டின் பொருளாதாரத்தை உயர்த்துவதில் இரவு நேரங்களில் பல்வேறு பொழுதுபோக்கு நடவடிக்கைகள் முக்கிய பங்கு வகிக்கின்றன. சுற்றுலாப் பயணிகளுக்கான பொழுதுபோக்கு நடவடிக்கைகள் மற்றும் இரவில் உணவகங்களைத் திறந்து வைப்பது உள்ளிட்ட இரவு நேரப் பொருளாதாரத்தை நாடுவதன் மூலம் நாட்டின் அந்நிய செலாவணியை சுமார் 70 வீதம் அதிகரிக்க முடியும். உலகின் பல நாடுகள் பொருளாதார வளர்ச்சிக்கு இரவு நேரப் பொருளாதாரத்தின் பங்களிப்பை பயன்படுத்திக் கொள்கின்றன.
+
+...
+
+[Data](articles/4f491862.json)
 
 ---
 
@@ -1308,6 +1376,26 @@ These facts were revealed when the Sectoral Oversight Committee on Energy and Tr
 
 ---
 
+### පාලකයන් ඡන්දය නොතියන්න හැදුවොත් ඉඩ දෙන්න එපා
+
+*2024-02-22 20:21:48* · [`adalk`](https://www.ada.lk/breaking_news/පාලකයන්-ඡන්දය-නොතියන්න-හැදුවොත්-ඉඩ-දෙන්න-එපා/11-408233) · `si`
+
+වත්මන් පාලකයන් ඡන්දය නොතැබීමට කටයුතු කළහොත් ඊට ඉඩ නොදෙන ලෙස මල්වතු පාර්ශවයේ මහනායක හිමියන් සමගි වනිතා බලවේගයේ  සාමාජිකාවන් මල්වතු මහ නා හිමියන් බැහැදුටු අවස්ථාවේදී පැවසූහ .
+
+එහිදී මහනාහිමියන් වැඩිදුරටත් පවසා සිටියේ සෑම  දේශපාලන පක්ෂයකම කාන්තාවන් දේශපාලනික වශයෙන් ක්‍රියාශීලව සිටීම සතුටට කරුණක් බවයි .
+
+සමගි වනිතා බලවේගයේ ලේකම් හිටපු පාර්ලිමේන්තු මන්ත්‍රීනි හිරුණකා ප්‍රේමචන්ද්‍ර මහත්මිය සහ සමගි ජන බලවේගයේ කාන්තා හා ළමා කටයුතු පිළිබඳ උපලේකම් චමින්ද්‍රාණී කිරිඇල්ල මහත්මිය ඇතුළු පිරිසක් මල්වතු මහනාහිමියන් බැහැදුටු අවස්ථාවේදී මහනාහිමියන් වැඩිදුරටත් අවධාරණය කර සිටියේ ජනතාව අතර ඡන්දයකට මේවන විට වැඩි උනන්දුවක් තිබෙන බවය .
+
+එදා එක්සත් ජාතික පක්ෂයට මහනුවර තිබූ බලය දැන් නැතිවී තිබෙන බවක් පෙනෙන්නට තිබෙන බව අවධාරණය කළ මහ නා හිමියන් මේ අවස්ථාවේදී සියලු දෙනා අමාරුවෙන් සිටින අවස්ථාවක් බවද අවධාරණයක් කළේය .
+
+රටේ ආර්ථිකය වැටී තිබෙන අවස්ථාවක අප සියලු දෙනා එකම ආකාරයෙන් සිටිය යුතු බවත් එක් අයෙක් එක් විදිහකටත් තවත් අයෙක් තවත් විදියකටත් සිටීම සඳහා මාසික වැටුප වෙනස් කර ගැනීම අනුමත නොකළ හැකි බවද පැවසීය .
+
+...
+
+[Data](articles/019e7275.json)
+
+---
+
 ### India has given “lot of offers” for Ramayana Trail, Sri Lanka state minister says
 
 *2024-02-22 20:17:00* · [`economynextcom`](https://economynext.com/india-has-given-lot-of-offers-for-ramayana-trail-sri-lanka-state-minister-says-152016/) · `en`
@@ -1722,6 +1810,20 @@ According to the statement, Wickremesinghe had also outlined to students at the 
 
 ---
 
+### மக்களே அவதானம் ! வெப்பமான வானிலை மேலும் சில மாதங்களுக்கு தொடரும்
+
+*2024-02-22 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177059) · `ta`
+
+கொழும்பு, கம்பஹா உள்ளிட்ட 8 மாவட்டங்களில் வெப்பச் சுட்டெண் மனித உடலில் உணரப்படும் வெப்பநிலை எச்சரிக்கை மட்டத்தை விட அதிக உஷ்ணம் எதிர்பாரக்கப்படுவதாகவும், இந்த நிலைமை எதிர்வரும் சில மாதங்களுக்கு தொடரும் எனவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+கொழும்பு, கம்பஹா, புத்தளம், குருநாகல், அம்பாந்தோட்டை,அநுராதபுரம், பொலன்னறுவை, மற்றும்  திருகோணமலை ஆகிய 8  மாவட்டஙகளுக்கே இந்த அறிவித்தல் பிறப்பிக்கப்பட்டுள்ளது. இந்த மாவட்டங்களில் மனித உடலால் தாங்கிக் கொள்ளக்கூடிய வெப்பத்தை விட அதிக உஷ்ணம் எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களத்தின் முன்னெச்சரிக்கை பிரிவுக்கான பிரதிப்பணிப்பாளர் அஜித் விஜேமான்ன தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/0cc809f5.json)
+
+---
+
 ### ADB country chief hopes Sri Lanka could sustain policy reforms despite elections
 
 *2024-02-22 17:13:00* · [`economynextcom`](https://economynext.com/adb-country-chief-hopes-sri-lanka-could-sustain-policy-reforms-despite-elections-152002/) · `en`
@@ -1827,133 +1929,5 @@ However, the judiciary was sentenced to 4 1/2 years in prison against him and pa
 [Data](articles/68f89280.json)
 
 [Extended Data](ext_articles/68f89280.ext.json)
-
----
-
-### Appointment of members to Cobb Committee - Notice to Deputy Speaker's Council
-
-*2024-02-22 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177066) · `ta`
-
-Deputy Speaker Ajith Rajapaksa announced to the House on Thursday (22) that the members of the government have been appointed to the COPE Committee on Government Responsibility.
-
-Accordingly, Jagath Pushpakumara, Janaka Wakumbura, Lohan Ratwatte, Indika Anurutha Herath, Shantha Bandara, Mahindananda Aluthgamage, Duminda Dissanayake, Rohitha Abeygunawardena, Nimal Lansa, UK. Sumith Udugumbura, Sanjeeva Enemy, Jagath Kumara Sumitrarachchi, (Major) Sudarshana Thenipidiya, Premnath C. Tolawatta, Upul Mahendra Rajapaksa, M. Rameshwaran, Rajika Wickramasinghe, Madurai Vidanage and Professor Ranjith Bandara have been appointed.
-
-◼️
-
-[Data](articles/15d38b77.json)
-
-[Extended Data](ext_articles/15d38b77.ext.json)
-
----
-
-### Sri Lanka rupee closes at 310.95/311.05 to the US dollar
-
-*2024-02-22 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-310-95-311-05-to-the-us-dollar-151998/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 310.95/311.05 to the US dollar Thursday, from 311.30/50 on Wednesday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.60/80 percent from 10.65/85 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.05 percent from 12.05/15 percent.
-
-A bond maturing on 15.03.2028 closed at 12.10/25 percent from 12.20/35 percent.
-
-A bond maturing on 15.07.2029 closed at 12.20/95 percent from 12.45/95 percent.
-
-A bond maturing on 15.05.2030 closed at 12.40/95 percent from 12.35/95 percent.
-
-A bond maturing on 15.05.2031 closed stable at 12.45/13.00 percent.
-
-A bond maturing on 01.07.2032 closed at 12.50/13.30 percent from 12.50/13.20 percent. (Colombo/Feb22/2024)
-
-◼️
-
-[Data](articles/71e7a8e9.json)
-
-[Extended Data](ext_articles/71e7a8e9.ext.json)
-
----
-
-### Young people and women will be created to win the competitive world market - the President
-
-*2024-02-22 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177061) · `ta`
-
-President Ranil Wickremesinghe has promised to create a conducive environment for the youth of the country to revive vocational education to suit the modern world.
-
-The President said that all vocational training institutes in the country are being integrated and brought under the same university structure and are planning to introduce new subjects.
-
-President Ranil Wickremesinghe made this observation when he was conducting a supervision visit to Lalith Athulathmudali Vocational Training Center on Thursday morning.
-
-Established in memory of Lalith Athulathmudali, the company is currently operating under the National Youth Service Council and Motor Mechanics, Information Technology, Three Demonstration 3D, Preschool Teacher Course, Modern Technology Course, Aesthetics Course, Language Course, Language CourseAre held here.
-
-...
-
-[Data](articles/dc71b173.json)
-
-[Extended Data](ext_articles/dc71b173.ext.json)
-
----
-
-### The punishment to the suspect who committed an offense in court
-
-*2024-02-22 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193710) · `si`
-
-The Court has sentenced the court in prison in the Gangodawila Magistrate's Court.
-
-Gangodawila Additional Magistrate Sanjaya Lakmal Wijesinghe has been sentenced to death.
-
-The suspect had come to court today (22) to sit for the cases filed against him.
-
-The suspect had thrown a parcel to the prison in the opening of the court.
-
-The judge has been implemented instantly, while inspecting the parcel in charge of the judiciary in charge of the Judicial Office has been found.
-
-The parcel has found 900 milligrams of ice narcotics.
-
-He has been sentenced to six months in prison for six months under the accusation of insulting the judiciary.
-
-◼️
-
-[Data](articles/d09bc3ab.json)
-
-[Extended Data](ext_articles/d09bc3ab.ext.json)
-
----
-
-### Sri Lanka’s CEB to submit significant power tariff reduction proposal to regulator
-
-*2024-02-22 16:36:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-to-submit-significant-power-tariff-reduction-proposal-to-regulator-151991/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s state-run Ceylon Electricity Board (CEB) is expected to submit to the country’s public utilities regulator on Thursday February 22 a proposal to slash a power tariff hike made in October 2023.
-
-Power & Energy Minister Kanchana Wijesekara said on Wednesday February 22 that the CEB expects to reduce rates by at least the same rates and percentages it was increased in October 2023: by 18 percent for the domestic and religious sectors, 12 percent for the industries and hotel sectors, and 24 percent for the general purpose and government buildings sectors.
-
-CEB management and tariff department officials had briefed the ministry on the revised new tariff proposal, taking into account costs reduced from capital and operating expenses from the original proposal, cash flow requirements for 2024 and suggestions received from public consultation and stakeholder meetings, Wijesekara said.
-
-...
-
-[Data](articles/7bb133f9.json)
-
-[Extended Data](ext_articles/7bb133f9.ext.json)
-
----
-
-### Court of Appeal ordered the beef
-
-*2024-02-22 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193709) · `si`
-
-The Court of Appeal today (22) ordered that the orders issued by a strong drug dealer to be detained.
-
-He is currently in the custody of the CID on detention orders.
-
-Court of Appeal Judge D. N. The order was issued when he was called before Mr. Samarakoon.
-
-If there are objections to this petition, the court ordered the respondents to file them before March 15.
-
-◼️
-
-[Data](articles/98aebce1.json)
-
-[Extended Data](ext_articles/98aebce1.ext.json)
 
 ---

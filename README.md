@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 21:17:43**
+As of **2024-02-23 21:33:07**
 
 ## Newspaper Stats
 
@@ -26,31 +26,35 @@ dailymirrorlk | 1,343
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,940 (100.0%) of 8,942 articles have been extended.
+8,942 (100.0%) of 8,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### අස්වැසුම කියා මහලු කතුන්ගෙන් මුදල් ගැරූ පුද්ගලයා
+### The person who made money from elderly women, as the relief
 
 *2024-02-23 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193747) · `si`
 
-අස්වැසුම සහ වැඩිහිටි දීමනාවේ වසර කිහිපයක් සඳහා වන මුදල් එකවර ලබාදෙන බව පවසමින් නිවෙස් වෙත පැමිණ මුදල් කොල්ල කන ජාවාරමක් සම්බන්ධයෙන් කන්තලේ ප්‍රදේශයෙන් වාර්තා වේ.
+In the Kantale area, the house has come to the home and a money robbery racket, claiming that the income of the revenue and the elderly allowance will be given simultaneously.
 
-රාජ්‍ය නිලධාරියෙකු ලෙස පෙනී සිටින ජාවාරම්කරු කන්තලේ ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ මොල්ලිපොතාන - පරාක්‍රම මාවත - ආරියවංස මාවත ආදී ප්‍රදේශ කිහිපයක මහලු කාන්තාවන් ඉලක්ක කර මෙම කොල්ලකෑම් සිදුකර තිබේ.
+The racketeer who appeared as a public official has targeted the old women from the Ariyvansa Mawatha - Parakrama Mawatha - Parakrama Mawatha - Parakrama Mawatha - Ariyavansa.
 
-ප්‍රාදේශීය ලේකම් කාර්යාලයේ සේවයේ නියුතු රාජ්‍ය නිලධාරියෙකු ලෙස පෙනී සිටින මෙම පුද්ගලයා කන්තලේ ප්‍රදේශයේ තෝරාගත් නිවෙස්වලට යතුරුපැදියකින් පැමිණෙන්නේ, වැඩිහිටි දීමනාවට අදාළ වසර කිහිපයක මුදල් එකවර ලබාදෙන බව පවසමිනි.
+The man appearing as a public official at the Divisional Secretariat, the person comes from a motorbike in Kantale, claiming that the elderly allowance will be given a few years in the same time.
 
-වයෝවෘද්ධ කාන්තාවන් සිටින නිවාස ඉලක්ක කරගත් මොහු, අස්වැසුම ලේඛනයට අදාළව වැඩිහිටි දීමනාව ද ලැබීමට ඔවුන් සුදුස්සන් බවට හැඟවීමට පොතක් ද පෙන්වන බව වාර්තා වේ.
+It is reported that he also shows that he is suitable for the elderly allowance they deserve in relation to the elderly allowance.
 
-මොහු කාන්තාවන්ට ප්‍රකාශ කර ඇත්තේ, එකවර ලබාදෙන මුදල ලබාගැනීමට නම් මුද්දර ගාස්තු සහ රජයේ ගාස්තු වශයෙන් රුපියල් 4,000කට වැඩි මුදලක් ලබාදිය යුතු බවය.
+He has told women that the stamp duties and the government fees should be paid more than Rs. 4,000 as a government fee.
 
-මුදල් ලබාදීමට නොහැකි නම් කාන්තාවන් සතු රත්‍රං භාණ්ඩ ඇපයට ලබාගැනීමට ඔහු කටයුතු කරන බව ද වංචාවට හසුවූ කාන්තාවෝ පවසති.
+Women say that if they are unable to grant money, the women who cheat him to obtain the gold items of women.
 
-...
+Residents have been informed of the Kantale Divisional Secretariat and the police in this regard.
+
+◼️
 
 [Data](articles/5149b838.json)
+
+[Extended Data](ext_articles/5149b838.ext.json)
 
 ---
 
@@ -67,6 +71,8 @@ The event, which was promoted as an 'Opening White Party,' stirred significant c
 ...
 
 [Data](articles/d8e9897f.json)
+
+[Extended Data](ext_articles/d8e9897f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 11:17:25**
+As of **2024-02-23 11:33:19**
 
 ## Newspaper Stats
 
-*Scraped **8,855** Articles*
+*Scraped **8,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,58 +19,84 @@ adalk | 747
 adaderanalk | 1,059
 tamilmirrorlk | 1,098
 virakesarilk | 1,196
-adaderanasinhalalk | 1,305
-dailymirrorlk | 1,323
+adaderanasinhalalk | 1,306
+dailymirrorlk | 1,324
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,850 (99.9%) of 8,855 articles have been extended.
+8,855 (100.0%) of 8,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### ரஸ்ய எதிர்கட்சி தலைவரின் உடலை இரகசிய இடத்தில் புதைப்பதற்கு அனுமதிதரவேண்டும் -- தாயாரை மிரட்டும் ரஸ்ய அதிகாரிகள்
+### දානපති ව්‍යාපාරික ප්‍රේමජීව මහතා හෝමාගම රෝහලට 05 මහල් ගොඩනැගිල්ලක් පරිත්‍යාග කරයි
 
-*2024-02-23 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177101) · `ta`
+*2024-02-23 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193729) · `si`
 
-ரஸ்ய எதிர்கட்சி தலைவர் அலெக்சேநவால்னியின்  உடலை தான் பார்வையிட்டுள்ளமதாக தெரிவித்துள்ள அவரது தாயார் தனது மகனின் உடலை இரகசியமாக புதைப்பதற்கு அனுமதிக்கவேண்டும் என ரஸ்ய அதிகாரிகள் வற்புறுத்துவதாகவும் தெரிவித்துள்ளார்.
+සිය පෞද්ගලික මුදල්වලින් හෝමාගම මූලික රෝහල සඳහා 05 මහල් ගොඩනැගිල්ලක් පරිත්‍යාග කළ දානපතියෙකු ගැන අද දෙරණ ට වාර්තා විය.
 
-மகனின் உடல் வைக்கப்பட்டுள்ள பிரேதஅறைக்கு என்னை கொண்டு சென்றனர் நான் ஆவணங்களில் கைச்சாத்திட்டேன் என லியுட்மிலா நவல்ன்யா தெரிவித்துள்ளார்.
+කොට්ටාව ප්‍රදේශයේ දානපති ව්‍යාපාරිකයෙකු වන බී.ඒ.පී. ප්‍රේමජීව මහතා රුපියල් කෝටි 10කට ආසන්න පෞද්ගලික මුදලින් ඊයේ (22) මෙම පරිත්‍යාගය සිදුකර තිබුණි.
 
-சட்டத்தின்படி அதிகாரிகள் எனது மகனின் உடலை கையளிக்கவேண்டும் ஆனால் தற்போது என்னை மிரட்டுகின்றனர் உடலை வழங்கமறுக்கின்றனர் என நவால்னியின் தாயார் தெரிவித்துள்ளார்.
+ප්‍රේමා මෙටල් අධිපති ප්‍රේමජීව මහතා විසින් මෙලෙස පරිත්‍යාග කළ පස් මහල් ගොඩනැගිල්ලේ අංග සම්පූර්ණ හදිසි ප්‍රතිකාර ඒකකයක්, මූලික ප්‍රතිකාර ඒකකය, ශල්‍යාගාරය සහ ගෙවන වාට්ටු ඇතුලත් වෙයි.
 
-எனது மகனின் உடலை புதைப்பதற்கு அதிகாரிகள் நிபந்தனை விதிக்கின்றனர் உடலை புதைக்கும் நேரம் உட்பட தாங்கள் தெரிவிப்பதை ஏற்றுக்கொள்ளவேண்டும் என அழுத்தம் கொடுக்கின்றனர் என நவால்னியின் தாயார் தெரிவித்துள்ளார்.
+2016 වසරේදී වැඩ ආරම්භ කළ මෙම ගොඩනැගිල්ලේ ඉදිකිරීම් සඳහා අවසර ලබාගැනීමට වසර දෙකකට ආසන්න කාලයක් ගතවූ බැවින් මෙම උත්සවය සඳහා කිසිදු දේශපාලනඥයෙකුට ආරාධනා කර නොතිබීම විශේෂත්වයකි.
 
-மயானத்தின் தொலைதூர பகுதியில் உள்ள புதிய புதைகுழிக்கு என்னை கொண்டு சென்று இதுதான் எனது மகனின் புதைகுழி என காண்பிப்பதற்கு அவர்கள் முயல்கின்றனர்  அதிகாரிகள் என்னை அச்சுறுத்துகின்றனர் எனவும் நவால்னியின் தாயார் தெரிவித்துள்ளார்.
+◼️
 
-...
-
-[Data](articles/7d913186.json)
+[Data](articles/8118fd99.json)
 
 ---
 
-### நிலவின் தென்துருவத்தில் வெற்றிகரமாகத் தரையிறங்கிய தனியார் நிறுவனத்தின் விண்கலம்
+### Spacecraft of a private company that has successfully landed in the south of the moon
 
-*2024-02-23 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177094) · `ta`
+*2024-02-23 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177094) · `ta`
 
-அமெரிக்காவின் தனியார் நிறுவனம் ஒன்று அனுப்பிய விண்கலம் வெற்றிகரமாக நிலவின் தென்துருவத்தில்  தரையிறங்கியுள்ளது. தனியார் நிறுவனத்தின் விண்கலம் நிலவில் தரையிறங்குவது இதுவே முதல்முறையாகும்.
+A spacecraft sent by a private company in the US has successfully landed in the south of the moon. This is the first time that the private company's spacecraft landed on the moon.
 
-சுமார் 50 ஆண்டுகளுக்குப் பிறகு முதல்முறையாக அமெரிக்காவுக்கு சொந்தமான விண்கலம் வெற்றிகரமாக நிலவில் தரையிறங்கியுள்ளது.
+The US -owned spacecraft has successfully landed on the moon for the first time after about 50 years.
 
-டெக்சாஸ் மாநிலத்தின் ஹூஸ்டன்  நகரிலுள்ள தனியார் நிறுவனம் அனுப்பிய ஒடிஸியஸ் விண்கலம் (Odysseus lander) தான் இப்போது நிலவில் வெற்றிகரமாகத் தரையிறக்கியுள்ளது.
+The Odyseus Lander, sent by a private company in Houston, Texas, has now landed on the moon.
 
-நாசாவின் நிதியுதவியுடன் அனுப்பப்பட்டுள்ள இந்த விண்கலத்தில் நிலவு குறித்து ஆய்வு செய்யப் பல வகை ரோபோக்கள் உள்ளன. முதற்கட்டமாக நிலவில் தரையிறங்கிய அந்த விண்கலத்தில் இருந்து லேசான சிக்னல் கிடைப்பதாக நாசா ஆய்வாளர்கள் கூறியுள்ளனர்.
+The spacecraft, which has been funded with NASA's funding, has a variety of robots to examine the moon. NASA researchers have said that the mildly signal is available from the spacecraft that landed on the moon for the first time.
 
-இருப்பினும், ஒடிஸியஸ் விண்கலம் தற்போது முழுமையாகச் செயல்படும் நிலையில் இருக்கிறதா என்பது குறித்து உறுதியாகத் தெரியவில்லை என்றே ஆய்வாளர்கள் கூறியுள்ளனர்.
+However, researchers have said that it is not sure whether the Odisius spacecraft is currently in its entirety.
 
-அறுகோண வடிவில் அமைந்துள்ள இந்த விண்கலம் நிலவின் அருகே சென்றதும் தனது வேகத்தைப் பல மடங்கு குறைத்துள்ளது.
+Located in the shape of a hexagonal spacecraft, the spacecraft has slowed its speed as it approached the moon.
 
-...
+Then the spacecraft that went very slow for an hour landed near the south pole of the moon. According to Sri Lanka, the spacecraft is landing this morning.
+
+◼️
 
 [Data](articles/ae733071.json)
+
+[Extended Data](ext_articles/ae733071.ext.json)
+
+---
+
+### Russian opposition leader should be allowed to bury the body of the leader of the opposition
+
+*2024-02-23 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177101) · `ta`
+
+Russian Opposition Leader Alexenawalni has said that her mother has been visiting the body of the Russian opposition leader, saying that her mother should be allowed to bury her son's body secretly.
+
+Lyutmila Navalnya said that I took me to the postponement of the son's body.
+
+According to the law, the authorities have to hand over my son's body but are currently intimidating me, Navalni's mother said.
+
+Navalni's mother said that the authorities are conditional to bury my son's body.
+
+Navalni's mother said that they are trying to take me to the new grave in the distant area of the cemetery and see this is my son's burial.
+
+Navalni's mother said that if they do not comply with the body, they will do something for the body.
+
+◼️
+
+[Data](articles/7d913186.json)
+
+[Extended Data](ext_articles/7d913186.ext.json)
 
 ---
 
@@ -94,41 +120,45 @@ The Minister of State pointed out that the night economy is playing a key role i
 
 ---
 
-### ඉන්දියාවේ මන්ත්‍රීවරියක් රිය අනතුරකින් මරුට
+### Indian MP dies in accident
 
 *2024-02-23 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193727) · `si`
 
-ඉන්දියාවේ තෙලන්ගානා ප්‍රාන්ත ආණ්ඩු මන්ත්‍රීවරියක් වන 37 හැවිරිදි ලාස්‍යා නන්දිතා ජීවිතක්ෂයට පත්වී තිබේ.
+Lasa Silva, a 37-year-old government, India, is a member of the House of Telenganana.
 
-ඇය භාරත් රාෂ්ට්‍ර සමිති පක්ෂයේ "Bharat Rashtra Samithi" කැපීපෙනෙන චරිතයක් බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+"Bharaat Rashtra Samithi Party" is a prominent figure, Indian media.
 
-ඇය ගමන් ගත් මෝටර් රථයේ වේගය රියදුරුට පාලනය කරගත නොහැකිව, මාර්ගයේ සවිකර තිබූ ආරක්ෂිත යකඩ වැටේ ගැටී මෙම අනතුර සිදුවී ඇති බව වාර්තා වෙයි.
+The accident had occurred when the vehicle of the car was not controlled by the car and cannot control the vehicle, and the safe iron was hit.
 
-ඇයගේ රියැදුරා ද අනතුරෙන් බරපතළ තුවාල ලබා මේ වනවිට වෛද්‍ය ප්‍රතිකාර ලබමින් පසුවෙයි.
+Her driver is also seriously injured in the accident.
 
-මීට දින 10කට පෙර එනම් පසුගිය පෙබරවාරි 13 වනදා නාකට්පල්ලි ප්‍රදේශයේදී සිදුවූ තවත් අනතුරකින් ලාස්‍යා දිවි බෙරාගෙන ඇති අතර එහිදී ඇය සුළු තුවාල ලබා තිබේ.
+Last 10 days ago, another accident in the Nakatpalli on February 13, Lasya was also suffered.
 
-ඇයගේ පියා ද දේශපාලනඥයෙක් වන අතර ඔහු ද පසුගිය වසරේ මියගොස් තිබේ.
+Her father was also politician and he died last year.
 
 ◼️
 
 [Data](articles/a85a5317.json)
 
+[Extended Data](ext_articles/a85a5317.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව ඉන්දියාව දෙස බලන්නේ හවුල්කරුවෙකු ලෙසයි
+### Sri Lanka looks at India as a partner
 
 *2024-02-23 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193728) · `si`
 
-ශ්‍රී ලංකාව ඉන්දියාව දෙස බලන්නේ සහෝදරයෙකු සහ හවුල්කරුවෙකු ලෙස බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය ඉන්දීය මාධ්‍ය වෙත පවසා තිබේ.
+External Affairs Minister of External Affairs Tharaka Balasuriya has told India as a brother and partner as a brother and partner.
 
-ඉන්දියාව තම රට පරිවර්තනය කර ඇති ආකාරය බැලීමට අවශ්‍ය බවත් 2047 වන විට එය සංවර්ධිත ජාතියක් බවට පත්වන ආකාරය දැකීමට අවශ්‍ය බවත් ඉන්දීය මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු තවදුරටත් පවසා ඇත.
+Speaking to the Indian media, he added that India was translated into how to translate its country and wanted to see a developed nation.
 
-එමෙන්ම ඉන්දීය සමාගම්වලට ශ්‍රී ලංකාවට පැමිණෙන ලෙස ආරාධනා කරන බවත්, 2048 වනවිට ශ්‍රී ලංකාව සංවර්ධිත රාජ්‍යයක් බවට පත්වීමට අපේක්ෂාවෙන් සිටින බවද ඔහු ඉන්දීය මාධ්‍ය වෙත පවසා තිබේ.
+He has also invited Indian companies to visit Sri Lanka and is expected to become a developed state by 2048.
 
 ◼️
 
 [Data](articles/ad641ef3.json)
+
+[Extended Data](ext_articles/ad641ef3.ext.json)
 
 ---
 
@@ -156,23 +186,37 @@ The accident happened a year after a fatal multiple-vehicle collision on the Rad
 
 ---
 
-### கொலை முயற்சிக்கு உதவிய இருவர் கைது!
+### Two persons arrested for helping murder
 
 *2024-02-23 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177092) · `ta`
 
-கொழும்பு, முகத்துவாரம்  பகுதியில் நபரொருவரை  கொலை செய்ய முயற்சித்த சம்பவம் தொடர்பில் இரண்டு சந்தேக நபர்களை பொலிஸார் கைது செய்துள்ளனர்.
+Police have arrested two suspects in connection with an attempt to kill a man in the Assembly area in Colombo.
 
-இம்மாதம் 16 ஆம் திகதி  மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர் நபரொருவர் மீது துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+Two unidentified men on a motorcycle on the 16th of this month opened fire on a man.
 
-அதன்படி, இந்தச் சம்பவத்துக்கு  உதவியதாக 16 மற்றும் 21 வயதுடைய இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Accordingly, two suspects, aged 16 and 21, have been arrested for allegedly assisting the incident.
 
-இவர்கள்  கொழும்பு 15,  பெர்குசன் வீதியிலும்  சேதவத்தை பிரதேசத்திலும் வைத்து கொழும்பு குற்றத்தடுப்பு பிரிவு   அதிகாரிகளினால் கைது செய்யப்பட்டுள்ளனர். கைதான இருவரும் கொழும்பு 15 இல் வசிப்பவர்கள் என அடையாளம் காணப்பட்டுள்ளனர்.
+They have been arrested by the Colombo Crime Division officials in Colombo 15, Ferguson Road and Sethawatte area. Both arrested have been identified as residents in Colombo 15.
 
-இந்த கொலை முயற்சி தொடர்பான மேலதிக விசாரணைகளை முகத்துவாரம் பொலிஸார் மற்றும் கொழும்பு குற்றத்தடுப்பு பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+Further investigations into the murder are being carried out by the police and the Colombo Crime Branch.
 
 ◼️
 
 [Data](articles/d8da0e73.json)
+
+[Extended Data](ext_articles/d8da0e73.ext.json)
+
+---
+
+### Religious observances at Bellanwila
+
+*2024-02-23 10:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Religious-observances-at-Bellanwila/110-277601) · `en`
+
+Religious observances at Bellanwila People gathered at the Bellanwila Raja Maha Viharaya were seen taking part in religious observances today on Nawam Full Moon Poya day. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/0d179406.json)
 
 ---
 
@@ -1933,47 +1977,5 @@ He also said that former President Maithripala Sirisena is only the leader of th
 [Data](articles/9238c23d.json)
 
 [Extended Data](ext_articles/9238c23d.ext.json)
-
----
-
-### "Kota Ko Kama did not turn the telephone into kasino"
-
-*2024-02-22 19:04:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டா-கோ-கம-வை-கசினோவாக-மாற்றவில்லை/175-333683) · `ta`
-
-The government has denied rumors that there has been no plans to establish the Galle Earth as a gambling hotel, the Galle Face of the 'Kota Koh' protest.
-
-The government has not taken any decision to provide a Cassino, as the National PA parliamentarian Vijitha Herath is accused of allegations, said the government's chief minister and city development minister Prasanna Ranatunga.
-
-He said he had received a proposal from Barl Investment Private Limited.The Memorandum of Understanding (MoU) was signed on February 16, 2024 with Limited and investor for a mixed investment project in Palataksha Mawatha, Colombo 03.
-
-The Minister said that the investor had deposited US $ 10,000 in the Urban Development Authority (UDA) and steps have been taken to obtain the land assessment report.
-
-However, he said that the specific investment plan has not yet been granted.
-
-◼️
-
-[Data](articles/4fc74682.json)
-
-[Extended Data](ext_articles/4fc74682.ext.json)
-
----
-
-### Is Sanath Nishantha's death a systematic assassination?
-
-*2024-02-22 18:57:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-மரணம்-திட்டமிட்ட-படுகொலையா/175-333682) · `ta`
-
-Sri Lanka PA MP Johnston Fernando today said that the complaint made by the wife of the late State Sanath Nishantha, Sanath Nishantha's wife, should soon be investigated and that the criminals should be presented before the law.
-
-He said during a condolence ceremony in Parliament that the death of the late State Minister Sanath Nishantha was suspicious of a systematic murder or a actually death of an accident.
-
-He said that Nishantha's wife had lodged a complaint with the Criminal Investigation Department, considering that she was suspicious of her husband's death.
-
-He said the complaint made by Sanath Nishantha's wife should be investigated soon and if it is a systematic murder, the culprits should be brought to court and punished.
-
-◼️
-
-[Data](articles/859038d1.json)
-
-[Extended Data](ext_articles/859038d1.ext.json)
 
 ---

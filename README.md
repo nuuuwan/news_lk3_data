@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 02:17:26**
+As of **2024-02-24 02:32:45**
 
 ## Newspaper Stats
 
-*Scraped **8,968** Articles*
+*Scraped **8,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,073
 tamilmirrorlk | 1,107
 virakesarilk | 1,226
 adaderanasinhalalk | 1,328
-dailymirrorlk | 1,346
+dailymirrorlk | 1,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,968 (100.0%) of 8,968 articles have been extended.
+8,968 (100.0%) of 8,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Internally Divided ITAK is in the Eye of a Legal Storm
+
+*2024-02-24 01:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Internally-Divided-ITAK-is-in-the-Eye-of-a-Legal-Storm/172-277639) · `en`
+
+The Ilankai Tamil Arasu Kachchi (ITAK) known in English as the Federal Party (FP) is in the eye of a legal storm. The premier political party representing the Sri Lankan Tamils of the Northern and Eastern provinces is currently undergoing an internal crisis mainly due to recently held inner-party elections. Issues relating to the intra-party elections have brought about a clearly visible divide within the ITAK.
+
+This in turn has led to an unprecedented situation where two members of the ITAK have sought legal recourse against allegedly illegal action by party authorities. Enjoining orders were obtained. Party Leaders were restrained from conducting its postponed National Convention on 19 February.
+
+...
+
+[Data](articles/846948a0.json)
+
+---
 
 ### Shiv Sena Maravanpulavu Sachidanandan Iya under the obstacles
 
@@ -499,6 +513,24 @@ The event, which was promoted as an 'Opening White Party,' stirred significant c
 [Data](articles/d8e9897f.json)
 
 [Extended Data](ext_articles/d8e9897f.ext.json)
+
+---
+
+### Controversial ’white only’ party cancelled amid public outcry
+
+*2024-02-23 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Controversial-white-only-party-cancelled-amid-public-outcry/155-277617) · `en`
+
+Feb 23 (Daily Mirror) - A controversial 'white only' themed party scheduled to take place on February 24 at a Russian run cafe in the south has been cancelled by its organizers following widespread public backlash.
+
+The event, which was promoted as an 'Opening White Party,' stirred significant controversy due to its discriminatory nature. Organizers intended to implement a face control policy where entry would be restricted solely to individuals deemed fitting by bouncers based on their white skin, wealth, style, or demeanor.
+
+'Face control,' a term commonly used in upscale nightclubs, refers to the practice of regulating entry based on subjective assessments of individuals' appearances and social status.
+
+Announcing the cancellation on Instagram, the organizers cited escalating concerns about racism as the primary reason behind their decision. In a post, they expressed regret for the hurt feelings caused by the event's concept and apologized to those offended by the idea.
+
+...
+
+[Data](articles/df3a05fd.json)
 
 ---
 
@@ -2069,45 +2101,5 @@ The victim is a resident of Moragolla, Beruwala and a father of a 10-year-old ch
 [Data](articles/3a321c0a.json)
 
 [Extended Data](ext_articles/3a321c0a.ext.json)
-
----
-
-### Tanica Business For Savievana Donates a Stories Rs.
-
-*2024-02-23 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193729) · `si`
-
-In Derana, a philosophy was a pipel of a factory for a 5 storied building for his personal money.
-
-BAP, a primary delegation in Kottawa. Mr. Premajeewa had made this donation yesterday (22).
-
-The five-storey building donated by Mr. Prema Metal Governor, Premium and basic treatment unit, basement, and paid wards.
-
-The construction work was started in 2016, so that no politician had been invited to the event.
-
-◼️
-
-[Data](articles/8118fd99.json)
-
-[Extended Data](ext_articles/8118fd99.ext.json)
-
----
-
-### U.S. Deputy Secretary of State calls on President Ranil
-
-*2024-02-23 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97475/us-deputy-secretary-of-state-calls-on-president-ranil) · `en`
-
-U.S. Deputy Secretary of State for Management and Resources Richard R. Verma, who is in Sri Lanka on an official visit, called on President Ranil Wickremesinghe this morning (Feb.23).
-
-The Deputy Secretary’s meetings with senior officials in Colombo is expected to support U.S.-Sri Lanka defense and maritime security cooperation.
-
-During his stay, Verma is slated to visit the Colombo Port’s West Container Terminal, where the U.S. is supporting Sri Lanka’s ongoing economic recovery through USD 553 million in financing to transform Colombo into a regional shipping hub.
-
-He will also meet with civil society leaders to hear their perspective on democratic governance in Sri Lanka and with government officials to voice the support of the U.S. for the protection of free speech and open discourse.
-
-...
-
-[Data](articles/629f2fb3.json)
-
-[Extended Data](ext_articles/629f2fb3.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 01:02:32**
+As of **2024-02-24 01:17:26**
 
 ## Newspaper Stats
 
@@ -26,39 +26,47 @@ dailymirrorlk | 1,346
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,966 (100.0%) of 8,968 articles have been extended.
+8,968 (100.0%) of 8,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### தடைகளை மீறி சிவசேனை மறவன்புலவு சச்சிதானந்தன் ஐயா தலைமையில் மட்டுவில் அண்ணமார் கோவிலில் பெளர்ணமி தினப் பொங்கல்
+### Shiv Sena Maravanpulavu Sachidanandan Iya under the obstacles
 
 *2024-02-24 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177162) · `ta`
 
-மட்டுவில் கிராமத்தில் பல நூற்றாண்டுகளாய் வீற்றிருந்து அருள்பாலித்து வரும் அருள்மிகு அண்ணமார் ஆலயத்தின் அருகில் உள்ள நிலப்பரப்பை புதிதாக வாங்கியவர் மதம் மாறியதால் தனது வீட்டு வேலியோடு இருக்கும் அண்ணமார் ஆலயத்தினை அகற்றக்கோரி பிரதேச சபைக்கு அழுத்தம் கொடுத்ததை அடுத்து கோவிலில் வழிபாட்டுக்கு தடைவிதிப்பதாக பிரதேச சபையால் ஊர் மக்களுக்கு அறிவிக்கப்பட்ட நிலையில், ஊரார் நேரடியாக சிவசேனை தலைவர் மறவன்புலவு சச்சிதானந்தன் ஐயா வீட்டிற்கு சென்று தமது மரபுசார் வழிபாட்டை மீட்டுத்தரும்படி வைத்த கோரிக்கையின் அடிப்படையில் மறவன்புலவு சச்சிதானந்தன் ஐயா தலைமையில் இன்று அண்ணமார் ஆலயத்தில் பொங்கல் நிகழ்வு சிறப்பாக நடைபெற்றது.
+As the newly acquaintance of the land of the Arulmigu Annamar Temple, which has been in the village of Matuvil for centuries, the newly acquired religion has been converted to the Pradeshiya Sabha after the Pradeshiya Sabha has been informed by the Pradeshiya Sabha that the Pradeshiya Sabha has been informed by the Pradeshiya Sabha.The Pongal event was held today at the Annamar Temple under the leadership of Maravanpulavu Sachidanandan Iya on the basis of the demand for the restoration of the worship.
 
 ◼️
 
 [Data](articles/dac11700.json)
 
+[Extended Data](ext_articles/dac11700.ext.json)
+
 ---
 
-### வெற்றிலைக்கேணியில் விபத்து : செய்தி சேகரிக்க சென்ற ஊடகவியலாளருக்கு பொலிசாரால் அச்சுறுத்தல்
+### Accident in Valley: Police threaten journalist
 
 *2024-02-24 00:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177161) · `ta`
 
-வடமராட்சி கிழக்கு வெற்றிலைக்கேணியடி பகுதியில் வெள்ளிக்கிழமை (23) இடம்பெற்ற விபத்தில் இருவர் படுகாயமடைந்துள்ளனர்.
+Two persons were injured in an accident on Friday (23) in the Vadamarachchi East.
 
-வெற்றிலைக்கேணியில் இருந்து மருதங்கேணி நோக்கி சென்ற மோட்டார் சைக்கிளும், மருதங்கேணியில் இருந்து வெற்றிலைக்கேணி நோக்கி சென்ற மோட்டார் சைக்கிளும் நேருக்கு நேர் மோதியதிலையே குறித்த விபத்து சம்பவம் பதிவாகியுள்ளது.
+The accident was reported when a motorcycle traveling from Maruthankani and a motorcycle from Maruthankani to Vaikkavaikkuni collided head -on.
 
-சம்பவ இடத்திற்கு வருகைதந்த மருதங்கேணி போக்குவரத்து பொலிசார் விபத்து தொடர்பாக விசாரணைகளை மேற்கொண்டிருந்தவளைச் சம்பவ இடத்திற்கு மருதங்கேணி பொலிசார் சீருடையிலும்  சிவில் உடையில் வந்திருந்தனர்.
+Maruthankeni traffic police arrived at the scene and were conducting investigations into the accident.
 
-சம்பவம் அறிந்து செய்தி சேகரிக்க சென்ற வடமராட்சி கிழக்கு  ஊடகவியலாளரைச் செய்தி சேகரிக்க விடாது சிவில் உடையில் வந்த பொலிசார் தடுத்தது நிறுத்தி அவரது தொலைபேசியையும் பறித்து அதில் பதிவு செய்த வீடியோ மற்றும் புகைப்படங்களை அழித்துள்ளதுடன் அவரது ஊடக அட்டை,  மோட்டார்சைக்கிள் பத்திரங்கள் பறிமுதல் செய்து சிறிது நேரத்தில்  மீண்டும் ஒப்படைத்துள்ளதுடன் அவர் கடுமையாக  மிரட்டப்பட்டுள்ளார்.
+Vadamarachchi, who went to collect the incident, did not collect the news of the East, and stopped the police in civilian clothes, stopped his phone and destroyed the video and photos of it, and confiscated his media card and motorcycle bonds and handed over again.
 
-...
+It is also worth noting that the police have been brought to the notice of the Maradankeni Police Officer regarding the police who threatened to prevent the journalist from working.
+
+At the same time, the police who came in civil clothes have been videotaped without a helmet.
+
+◼️
 
 [Data](articles/846ed466.json)
+
+[Extended Data](ext_articles/846ed466.ext.json)
 
 ---
 

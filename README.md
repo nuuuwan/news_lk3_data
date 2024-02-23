@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 20:17:30**
+As of **2024-02-23 20:32:57**
 
 ## Newspaper Stats
 
-*Scraped **8,934** Articles*
+*Scraped **8,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,130 @@ islandlk | 464
 dailyftlk | 483
 adalk | 751
 adaderanalk | 1,070
-tamilmirrorlk | 1,104
-virakesarilk | 1,214
-adaderanasinhalalk | 1,322
+tamilmirrorlk | 1,106
+virakesarilk | 1,217
+adaderanasinhalalk | 1,323
 dailymirrorlk | 1,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,933 (100.0%) of 8,934 articles have been extended.
+8,934 (99.9%) of 8,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### கொடியேற்றத்துடன் ஆரம்பமானது; கச்சதீவு திருவிழா
+
+*2024-02-23 20:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கொடியேற்றத்துடன்-ஆரம்பமானது-கச்சதீவு-திருவிழா/72-333714) · `ta`
+
+கச்சதீவு புனித அந்தோனியார் ஆலயத்தின் வருடாந்த திருவிழா இன்று (23) மாலை கொடியேற்றத்துடன் ஆரம்பமானது.
+
+கொடியேற்றத்தை அடுத்து சிலுவைப் பாதை, நற்கருணை ஆராதனை மற்றும் திருச்சொரூப பவனி ஆகியன இடம்பெற்றன. திருப்பலி நிகழ்வு நாளை(24) காலை  ஒப்புக்கொடுக்கப்பட்டு திருவிழா நிறைவு பெறும்.
+
+இத்திருவிழாவிற்கு பெருமளவு  பக்தர்கள் வருகை தந்ததுடன் குறித்த நிகழ்வில் உணர்வுபூர்வமாக கலந்து கொண்டனர்.
+
+இத்திருவிழாவில் பக்தர்களின் நலன் கருதி சுகாதார வசதிகள் போக்குவரத்து ஒழுங்குகள், உணவு வசதிகள் என்பன ஏற்பாடு செய்யப்பட்டுள்ளன. R
+
+◼️
+
+[Data](articles/22d0f35b.json)
+
+---
+
+### මෙරට දරු ජීවිත ලක්ෂක් අනතුරේ
+
+*2024-02-23 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193746) · `si`
+
+විදුලි ගාස්තු ඉහළ යාම හමුවේ ආර්ථිකය කඩාවැටුණු පවුල්වල දරුවන් ලක්ෂයක පමණ පාසල් ගමන අතරමඟ නතර වී ඇති බවට ආර්ථික පාර්ලිමේන්තු ආංශික අධීක්ෂණ කාරක සභාවේ දී අනාවරණය වී තිබේ.
+
+එම සභාවේදී ප්‍රකාශ වූයේ විදුලි ගාස්තු ඉහළ දැමීමට අනුමැතිය දුන් මහජන උපයෝගිතා කොමිසම ඊට වගකිව යුතු බවය.
+
+මීට අමතරව විදුලි ගාස්තු ඉහළ දැමීම හේතුවෙන් පසුගිය වසර තුළ කර්මාන්ත දෙලක්ෂ පනස් දහසක් පමණ වැසී ගොස් ඇති බව ආර්ථික අර්බුදයේ බලපෑම සමනය කිරීම පිළිබඳ පාර්ලිමේන්තු ආංශික අධීක්ෂණ කාරක සභාවේ දී අනාවරණය විය.
+
+ආර්ථික අර්බුදයේ බලපෑම සමනය කිරීම පිළිබඳ පාර්ලිමේන්තු ආංශික අධීක්ෂණ කාරක සභාව හමුවට ඊයේ (22) දිනයේ දී කර්මාන්ත අමාත්‍යාංශය, මහජන උපයෝගිතා කොමිසම, විදුලිබල මණ්ඩලය, මුදල් අමාත්‍යාංශය, ශ්‍රී ලංකා මහ බැංකුව සහ ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුවේ නිලධාරින් කැඳවා තිබුණි.
+
+එහිදී අනාවරණ වුණේ විදුලි ගාස්තු ඉහළ යාම හේතුවෙන් 2023 දෙසැම්බර් 31 වනවිට දිවයින පුරා විදුලිය විසන්ධි කිරීම් ද 1,069,000ක් සිදුව ඇති බවය.
+
+ඊට නිවාස, කර්මාන්තශාලා, ආගමික ස්ථාන මෙන්ම පාසල් ද ඇතුළත් වේ.
+
+...
+
+[Data](articles/9a638bce.json)
+
+---
+
+### கச்சதீவு திருவிழாவுக்கு  தலைமன்னாரிலிருந்து சென்ற 40 படகுகள்
+
+*2024-02-23 20:00:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கச்சதீவு-திருவிழாவுக்கு-தலைமன்னாரிலிருந்து-சென்ற-40-படகுகள்/72-333713) · `ta`
+
+கச்சதீவு புனித அந்தோனியார்  ஆலய    2024 ம் வருடத்திற்கான திருவிழாவை சிறப்பிக்கும் முகமாக மன்னார் மாவட்டத்தின் பல பகுதிகளில் இருந்தும் பக்தர்கள் கச்சதீவு பயணமாகி உள்ளனர்.
+
+இந்த நிலையில் இன்றைய தினம் (23) 40 படகுகளில்  400க்கும்  மேற்பட்ட பக்தர்கள்   தலைமன்னார் துறைமுகத்தின் ஊடாக  கச்சதீவு ஆலயத்திற்கு சென்றுள்ளனர்.
+
+இன்று மலை வழிபாடுகளுடன் ஆரம்பமாகும் திருவிழாவானது நாளை சனிக்கிழமை காலையில் யாழ்ப்பாணம் நெடுந்தீவு பங்கின் பங்கு தந்தையர்களின் தலைமையில் விசேட திருப்பலிகள் ஒப்புக் கொடுக்க புனித  அந்தோனியார்  திருவிழா சிறப்பாக நடைபெறும் .
+
+மேலும் இந்த வருட கச்சதீவு புனித   அந்தோனியார்    ஆலய திருவிழாவுக்கு இந்தியாவிலிருந்து  பக்தர்கள் எவரும் வருகை தரவில்லை என கச்சதீவு புனித அந்தோனியார் ஆலயத்தில் இருந்து கிடைக்கும் செய்திகள் தெரிவிக்கின்றன. R
+
+◼️
+
+[Data](articles/dcd42ecb.json)
+
+---
+
+### கட்டுநாயக்கவில் கைதான யாழ்ப்பாணம், வவுனியாவைச் சேர்ந்த இருவர்!
+
+*2024-02-23 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177153) · `ta`
+
+மோசடியான முறையில் தயாரிக்கப்பட்ட கிரேக்க  சுற்றுலா விசாக்களைப் பயன்படுத்தி ஐரோப்பாவுக்குச் செல்வதற்காக கட்டுநாயக்க விமான நிலையத்துக்கு சென்றிருந்த இரு இளைஞர்கள் வெள்ளிக்கிழமை (23) அதிகாலை குடிவரவு மற்றும் குடியகல்வு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
+
+அவர்களில் ஒருவர் வவுனியாவைச் சேர்ந்த 34 வயதுடையவர், மற்றையவர் யாழ்ப்பாணத்தைச் சேர்ந்த 26 வயதுடையவர்.
+
+அதிகாலை 4.35 மணியளவில் தோஹா நோக்கிப் புறப்படவிருந்த கத்தார் எயார்வேஸின் QRR-663 விமானத்தில் பயணிப்பதற்காக அவர்கள் இருவரும் கட்டுநாயக்க விமான நிலையத்துக்கு வந்துள்ளனர்.
+
+முதலில் கத்தாரின் தோஹாவுக்கும், அங்கிருந்து பிரான்ஸின் பாரிஸுக்கும் கடைசியாக ஜெர்மனியின் மூனிச் நகருக்கும் செல்ல திட்டமிட்டிருந்தமையும் விசாரணைகளில் தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/07c7269c.json)
+
+---
+
+### தேசிய பாதுகாப்பைப் பலப்படுத்த இந்தோ-பசிபிக் பிராந்தியத்தில் கடல்சார் ஒத்துழைப்பை ஆழப்படுத்தஆராய்வு : நவீன கப்பலை இலங்கைக்கு வழங்குவதாக அமெரிக்க இராஜாங்க பிரதிச் செயலாளர் வர்மா உறுதி
+
+*2024-02-23 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177151) · `ta`
+
+இலங்கையின் பொருளாதார வளர்ச்சி மற்றும் செழிப்பிற்கு உதவி செய்வதற்கு அமெரிக்கா தொடர்ந்தும் அர்ப்பணிப்புடன் உள்ளதென அமெரிக்க இராஜாங்க முகாமைத்துவம் மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மா தெரிவித்தார்.
+
+இரு தினங்கள் (பெப்ரவரி 23 - 24 ) இலங்கைக்கு விஜயம் மேற்கொண்டுள்ள  அமெரிக்க இராஜாங்க முகாமைத்துவம் மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மா அரசாங்க, சிவில் சமூகம் மற்றும் பொருளாதாரத் தலைவர்களுடன் சந்திப்பை மேற்கொண்ட நிலையில், மேற்கண்டவாறு தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் வெளிவிவகார அமைச்சர் அலி சப்ரி ஆகியோரைச் சந்தித்த செயலாளர் வர்மா இலங்கையினை நிலைபேறான பொருளாதார வளர்ச்சிக்கான பாதையில் தொடர்ந்தும் வைத்திருப்பதை நோக்கமாகக் கொண்ட அனைவரையும் உள்ளடக்கிய பொருளாதார மற்றும் நிர்வாக சீர்திருத்தங்கள் உட்பட இலங்கையில் மேற்கொள்ளப்படும் சர்வதேச நாணய நிதிய நிகழ்ச்சித்திட்டத்தின் முன்னேற்றம் குறித்து கலந்துரையாடினார்.
+
+...
+
+[Data](articles/dafe40a5.json)
+
+---
+
+### வழக்குத் தொடுநர்களுடன் சமரசத்துக்காக மூவர் கொண்ட குழுவை நியமித்தது தமிழரசுகட்சி ; மீள் தெரிவுக்கு தாயாரென மீண்டும் அறிவித்தார் சிறீதரன்
+
+*2024-02-23 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177152) · `ta`
+
+இலங்கைத் தமிழரசுக்கட்சியின் புதிய தலைமை உட்பட அனைத்துப் பதவி நிலைகளுக்கான தெரிவுகளுக்கு எதிராகவும், தேசிய மாநாட்டுக்கு எதிராகவும் நீதிமன்றத்தில் வழக்குத் தொடுத்துள்ளவர்களுடன் சமரசத்தை ஏற்படுத்திக் கொள்வதற்காக இலங்கைத் தமிழரசுக்கட்சி மூவர் கொண்ட குழுவொன்றை நியமித்துள்ளது.
+
+குறித்த குழுவின் வன்னிமாவட்ட பாராளுமன்ற உறுப்பினரான சாள்ஸ்நிர்மலநாதன், வைத்தியர்.ப.சத்தியலிங்கம், மட்டக்களப்பு மாவட்ட முன்னாள் மேயர் தி.சரவணபவன் ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.
+
+அத்துடன்,  குறித்த வழக்கில் பிரதிவாதிகளாகக் குறிப்பிடப்பட்டுள்ள கட்சியின் சிரேஷ்ட உறுப்பினர்கள் எழுவரும் வழக்கை நீதிமன்றத்தின் ஊடாக கையாள்வது தொடர்பாக, பொதுநிலைப்பாடொன்றை எடுத்து அறிவிக்க வேண்டும் என்றும் கோரப்பட்டுள்ளது.
+
+இதேநேரம், தெரிவு செய்யப்பட்டுள்ள தலைவர் சிவஞானம் சிறீதரன், தனது தலைமைப்பதவி உட்பட அனைத்துப் பதவிகளையும் மீளவும் தெரிவு செய்வதற்கு தயாராகவுள்ளதாகவும் அறிவித்துள்ளார்.
+
+...
+
+[Data](articles/2ebf9b18.json)
+
+---
 
 ### Sri Lankan in Kuwait reportedly shot by customer over delayed food order
 
@@ -49,6 +159,8 @@ After being shot, he said he drove his car back with blood out from the wounds a
 ...
 
 [Data](articles/b9776b03.json)
+
+[Extended Data](ext_articles/b9776b03.ext.json)
 
 ---
 
@@ -1961,121 +2073,5 @@ Police said that the suspect had found 4 Ice drug and 451 milligrams.
 [Data](articles/89a04af8.json)
 
 [Extended Data](ext_articles/89a04af8.ext.json)
-
----
-
-### About 1500 children in prisons
-
-*2024-02-23 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193721) · `si`
-
-The Commissioner of Prisons Jagath Chandana Weerasinghe says that 65 percent of the victims have been charged with drugs.
-
-He said that between 1,000 and 1500 children were in remandrock regarding drugs.
-
-The Commissioner of Prisons Jagath Chandana Weerasinghe said this was speaking at a function held at a school in Nagoda, Galle.
-
-◼️
-
-[Data](articles/dfe12145.json)
-
-[Extended Data](ext_articles/dfe12145.ext.json)
-
----
-
-### Rear Admiral Pradeep Ratnayake for the second chair of the Navy
-
-*2024-02-23 07:32:44* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදාවේ-දෙවැනි-පුටුවට-රියර්-අද්මිරාල්-ප්‍රදීප්-රත්නායක/11-408238) · `si`
-
-Rear Admiral Pradeep Ratnayake has been appointed as the President of the Sri Lanka Navy and Armed Forces Commander of the Democratic Socialist Republic of Sri Lanka.
-
-Commander of the Navy Vice Admiral Priyantha Perera officially handed over the relevant Appointment Letter to Rear Admiral Pradeep Ratnayake.
-
-Rear Admiral Pradeep Ratnayake, a bright alummer student at St. Thomas' College, Matale, has joined the Sri Lanka Navy Executive as a Cadet Officer of the 17th.
-
-He was successfully completed the Trincomalee Marine and Maritime Academy successfully as a subutenan of the Naval and Maritimed Science Collection in 1992.On 1st of July, on 1st of July 2021, he was promoted to the rank of Rear Admiral.
-
-...
-
-[Data](articles/83420432.json)
-
-[Extended Data](ext_articles/83420432.ext.json)
-
----
-
-### Private spacecraft lands on lunar surface; first U.S. moon landing since 1972
-
-*2024-02-23 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97469/private-spacecraft-lands-on-lunar-surface-first-us-moon-landing-since-1972) · `en`
-
-A spacecraft built and flown by Texas-based company Intuitive Machines landed near the south pole of the moon on Thursday, the first U.S. touchdown on the lunar surface in more than half a century and the first ever achieved by the private sector.
-
-The uncrewed six-legged robot lander, dubbed Odysseus, touched down at about 6:23 p.m. EST (2323 GMT), the company and NASA commentators said in a joint webcast of the landing from Intuitive Machines’ mission operations center in Houston.
-
-The landing capped a nail-biting final approach and descent in which a problem surfaced with the spacecraft’s autonomous navigation system that required engineers on the ground to employ an untested work-around at the 11th hour.
-
-It also took some time after an anticipated radio blackout to re-establish communications with the spacecraft and determine its fate some 239,000 miles (384,000 km) from Earth.
-
-...
-
-[Data](articles/7ab0babc.json)
-
-[Extended Data](ext_articles/7ab0babc.ext.json)
-
----
-
-### Man dies after falling into the mountain mountain
-
-*2024-02-23 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193720) · `si`
-
-A person visited in the Ella area was killed in an unfortunate accident last night.
-
-The police said that a man who had gone to the Ella Kanduwatte yesterday morning and died in the evening.
-
-Steps were admitted to the Wellawaya hospital, but he had died.
-
-◼️
-
-[Data](articles/b0997ef1.json)
-
-[Extended Data](ext_articles/b0997ef1.ext.json)
-
----
-
-### Sajith Premadasa seeks to retain private lawyer instead of Attorney General
-
-*2024-02-23 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-Premadasa-seeks-to-retain-private-lawyer-instead-of-Attorney-General/108-277598) · `en`
-
-Colombo, Feb 23 (Daily Mirror) - Opposition Leader Sajith Premadasa, as a member of the Constitutional Council (CC), has sought to retain a private lawyer instead of the Attorney General in the case in which the CC’s rejection of the nomination of Appeal Court President Nissanka Bandula Karunaratne as a judge of the Supreme Court has been challenged.
-
-The CC which met last Monday discussed the matter. Mr. Premadasa sought to retain a private lawyer to intervene in the case.
-
-The CC will meet again next Monday to take a final decision in this regard.
-
-Mr. Premadasa has taken such a decision against the backdrop of the Attorney General informing the Supreme Court that the CC’s rejection of the appointment was not based on a collective decision.
-
-A Fundamental Rights petition filed challenging the CC’s decision to reject Justice Karunaratne’s name has now been taken up for hearing .
-
-◼️
-
-[Data](articles/03c6c1c2.json)
-
-[Extended Data](ext_articles/03c6c1c2.ext.json)
-
----
-
-### Foods that are not inappropriate for human consumption
-
-*2024-02-23 07:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மனித-நுகர்விற்கு-பொருத்தமற்ற-உணவுப்பொருட்கள்/73-333705) · `ta`
-
-The Eravur Tourism Magistrate's Court on Thursday (22) filed a case against four restaurant owners who sold food in the restaurants under the Batticaloa - Chengaladi Health Division.
-
-Subsequently, the magistrate ordered them to pay a fine of 10 thousand rupees each and destroy the seized food items.
-
-Meanwhile, the case will be filed against the owners of restaurants who have been unhealthy invented in the raid on the 26th of this month.. Remble
-
-◼️
-
-[Data](articles/a1ec222e.json)
-
-[Extended Data](ext_articles/a1ec222e.ext.json)
 
 ---

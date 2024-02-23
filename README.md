@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 18:08:11**
+As of **2024-02-23 18:19:59**
 
 ## Newspaper Stats
 
@@ -31,6 +31,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Sri Lanka does not have the greatest political aspirations of all countries to trade with all countries
+
+*2024-02-23 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177143) · `ta`
+
+Sri Lanka has no major political aspirations.
+
+We have recently seen the UPI in your country, as the financial combination of financial affiliation has begun.
+
+Answer: I think Indian relations are never in a strong higher level.
+
+If you look at the issues that took place over a year and a half ago in Sri Lanka, they were formed due to lack of financial dollars.
+
+Our biggest tourist market is India.
+
+Indians travel to Sri Lanka and make it easier to make the Indian rupee.
+
+Question: Indian Foreign Minister appealed to Indians to visit Sri Lanka?How do you consider the tourist attraction for Indians?
+
+Reporter -I have visited Sri Lanka but it is in an unprecedented moment -after a Sunday attack
+
+Taraka- Your Foreign Minister said that Sri Lanka is a country of 65,000 squaremm in a country but everyone has everything.
+
+It is not surprising that Markapolos said Sri Lanka was the best island.
+
+The best beaches in the world are in our country. There are very cold climates.
+
+...
+
+[Data](articles/69cc9862.json)
+
+[Extended Data](ext_articles/69cc9862.ext.json)
+
+---
 
 ### Another Sri Lankans in Myanmar Cyber Criminal
 
@@ -93,40 +127,6 @@ The 48-year-old suspect and the impounded contraband have been handed over to th
 [Data](articles/afe07a0a.json)
 
 [Extended Data](ext_articles/afe07a0a.ext.json)
-
----
-
-### Sri Lanka does not have the greatest political aspirations of all countries to trade with all countries
-
-*2024-02-23 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177143) · `ta`
-
-Sri Lanka has no major political aspirations.
-
-We have recently seen the UPI in your country, as the financial combination of financial affiliation has begun.
-
-Answer: I think Indian relations are never in a strong higher level.
-
-If you look at the issues that took place over a year and a half ago in Sri Lanka, they were formed due to lack of financial dollars.
-
-Our biggest tourist market is India.
-
-Indians travel to Sri Lanka and make it easier to make the Indian rupee.
-
-Question: Indian Foreign Minister appealed to Indians to visit Sri Lanka?How do you consider the tourist attraction for Indians?
-
-Reporter -I have visited Sri Lanka but it is in an unprecedented moment -after a Sunday attack
-
-Taraka- Your Foreign Minister said that Sri Lanka is a country of 65,000 squaremm in a country but everyone has everything.
-
-It is not surprising that Markapolos said Sri Lanka was the best island.
-
-The best beaches in the world are in our country. There are very cold climates.
-
-...
-
-[Data](articles/69cc9862.json)
-
-[Extended Data](ext_articles/69cc9862.ext.json)
 
 ---
 

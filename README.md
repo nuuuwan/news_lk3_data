@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 13:33:28**
+As of **2024-02-23 13:51:56**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ dailymirrorlk | 1,329
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,877 (100.0%) of 8,878 articles have been extended.
+8,878 (100.0%) of 8,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### පෞද්ගලික සමාගමක් සඳ ජය ගනී
+### A private company wins the moon
 
 *2024-02-23 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193733) · `si`
 
-සඳේ දක්ෂිණ ධ්‍රැවය වෙත සාර්ථකව යානයක් ගොඩ බැස්සවීමට අමෙරිකාවේ පෞද්ගලික සමාගමක් සමත් වී තිබේ.
+US private company has been able to lay a plane successfully to the Southern Sundantha Pole.
 
-මෙය පෞද්ගලික සමාගමක් සඳ වෙත යානයක් ගොඩ බැස්සවූ පළමු අවස්ථාව වන අතරම 1972න් පසු එනම් වසර 52කින් පසු අමෙරිකාව සඳ වෙත යානයක් ගොඩ බැස්සවූ පළමු අවස්ථාව වීම ද විශේෂත්වයකි.
+It is the first time this is the first time a private company has landed a plane to the Moon, and is the first time since 1972, after 192 years.
 
-අමෙරිකාවේ හූස්ටන් පාදක කරගෙන ක්‍රියාත්මක ඉන්ටූටිව් මැෂීන්ස් පෞද්ගලික සමාගම සිය ප්‍රථම සඳ තරණ මෙහෙයුම ආරම්භ කළේ පසුගිය සතියේ දී ය.
+The Houston, University of America, was launched in the first Moonage Menatana last week.
 
-ඒ යටතේ පසුගිය 15 වනදා සඳ වෙත යැවූ ඔඩිසියස් යානය කැනවරල් තුඩුවෙන් අභ්‍යාවකාශ ගත කෙරුණි.
+Odysius, who sent to the Moon on the 15th, was passed by Canavaral Trust.
 
-ඔඩිසියස් යානය අද (23) සාර්ථකව සඳේ දක්ෂිණ ධ්‍රැවයට ගොඩ බැස්සවීමට ඉන්ටූටිව් මැෂීන්ස් පෞද්ගලික සමාගම සමත් විය.
+Intertive (Pvt) Ltd was able to landed the Odysius today (23).
 
-සඳේ දූවිලි අංශුවල හැසිරීම ඇතුළු ශිත ජලය ඇති බවට විශ්වාස කෙරෙන සඳේ දක්ෂිණ ධ්‍රැවය පිළිබඳ පර්යේෂණ කිරීම ඉන්ටූටිව් මැෂීන්ස් සමාගමේ අරමුණ වේ.
+Interests, research on the southern pole of the moon is the behavior of the moon is the aim of Iutive Machines.
 
-ඒ අනුව, කිලෝමීටර 5ක උසකින් යුතු කඳුකර ස්ථානයක් ආසන්නේ මැලපර්ට් ලෙසින් හඳුන්වන ආවාට සහිත භූමියකට යානය ගොඩබස්සවා ඇත.
+Accordingly, the plane has been landed on a mountain range of mountains with 5 km high.
 
-ඒ, අභ්‍යාවකාශ යානයක් සඳෙහි දකුණු කෙලවර වෙත ගිය වැඩිම දුර සනිටුහන් කරමිනි.
+A spacecraft marked the highest mark to the right hand of the moon.
+
+Scientists believe that there are very deep crater that is not the case with the sunlight, and there is a cold water.
+
+Scientists say they are able to obtain oxygen for fuel and the astronauts.
 
 ...
 
 [Data](articles/20bdbb89.json)
+
+[Extended Data](ext_articles/20bdbb89.ext.json)
 
 ---
 

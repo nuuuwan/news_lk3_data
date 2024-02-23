@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 10:50:38**
+As of **2024-02-23 11:02:24**
 
 ## Newspaper Stats
 
-*Scraped **8,849** Articles*
+*Scraped **8,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 458
 islandlk | 464
 dailyftlk | 483
 adalk | 747
-adaderanalk | 1,058
+adaderanalk | 1,059
 tamilmirrorlk | 1,098
 virakesarilk | 1,193
 adaderanasinhalalk | 1,303
@@ -26,11 +26,35 @@ dailymirrorlk | 1,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,849 (100.0%) of 8,849 articles have been extended.
+8,850 (100.0%) of 8,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### At least 8 injured after bus topples in Nanu Oya
+
+*2024-02-23 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97473/at-least-8-injured-after-bus-topples-in-nanu-oya-) · `en`
+
+Eight people have been injured after a bus toppled on Radella Shortcut Road in Nanu Oya on Thursday night (Feb.22).
+
+As many as 35 passengers including the driver had been inside the vehicle at the time of the accident.
+
+The injured were rushed to the Nuwara-Eliya District General Hospital for treatment. According to the police, two of them have since been discharged while the remaining six are still under medical care.
+
+The bus was reportedly carrying a group of pilgrims from Akuressa, Galle and Weherahena areas.
+
+Nanu Oya Police is conducting further investigations into the incident.
+
+The accident happened a year after a fatal multiple-vehicle collision on the Radella Shortcut Road claimed the lives of seven people including 2 children and injured at least 53 others. The deadly accident was caused by the careless driving of a bus driver transporting a group of students returning from a school trip to Nuwara Eliya on January 20, 2023.
+
+...
+
+[Data](articles/56e21e97.json)
+
+[Extended Data](ext_articles/56e21e97.ext.json)
+
+---
 
 ### Sri Lanka should switch to night economy - Diana Kamage
 
@@ -1945,21 +1969,5 @@ Colombo, Feb 22 (Daily Mirror) - In the wake of scathing criticisms on the Minis
 [Data](articles/6c792e4b.json)
 
 [Extended Data](ext_articles/6c792e4b.ext.json)
-
----
-
-### GMOA slams Health Ministry over quacks
-
-*2024-02-22 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-slams-Health-Ministry-over-quacks/108-277564) · `en`
-
-Colombo, Feb 22 (Daily Mirror) - In the wake of scathing criticisms on the Ministry of Health's handling of the proliferation of quacks in Sri Lanka, the Government Medical Officers' Association (GMOA) has raised serious concerns over the rampant illegal practice of medicine across the country.
-
-“In Sri Lanka, the practice of medicine has to be strictly regulated, requiring individuals to possess a valid registration with either the Sri Lanka Medical Council, Ayurvedic Medical Council, or Homeopathic Medical Council, and meet required qualifications. Those practicing without such registrations are deemed fake doctors, posing a grave risk to public health,” the GMOA said in a special statement.
-
-...
-
-[Data](articles/faa9cca5.json)
-
-[Extended Data](ext_articles/faa9cca5.ext.json)
 
 ---

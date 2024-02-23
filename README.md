@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 23:17:35**
+As of **2024-02-23 23:33:19**
 
 ## Newspaper Stats
 
-*Scraped **8,961** Articles*
+*Scraped **8,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 754
-adaderanalk | 1,072
+adaderanalk | 1,073
 tamilmirrorlk | 1,106
 virakesarilk | 1,224
 adaderanasinhalalk | 1,328
@@ -26,11 +26,29 @@ dailymirrorlk | 1,346
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,961 (100.0%) of 8,961 articles have been extended.
+8,961 (100.0%) of 8,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Germany’s parliament votes to legalize limited marijuana possession and allow ‘cannabis clubs’
+
+*2024-02-23 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97488/germanys-parliament-votes-to-legalize-limited-marijuana-possession-and-allow-cannabis-clubs) · `en`
+
+BERLIN (AP) — German lawmakers on Friday approved a government plan to liberalize rules on cannabis, paving the way for the country to decriminalize limited amounts of marijuana and allow members of “cannabis clubs” to buy it for recreational purposes.
+
+Parliament’s lower house, or Bundestag, backed the legislation, a prominent reform project of Chancellor Olaf Scholz’s socially liberal governing coalition, by 407 votes to 226. There were four abstentions.
+
+Health Minister Karl Lauterbach said the government’s aim is to “fight the black market” and better protect young people. He said current laws in the European Union’s most populous nation have failed, with consumption rising and increasing problems with contaminated or overly concentrated cannabis.
+
+“Whatever we do, we can’t carry on like this,” he told lawmakers. “You can stick your head in the sand … but we won’t solve a single problem that way.”
+
+...
+
+[Data](articles/2b38a8ef.json)
+
+---
 
 ### Joe Root recovered England with a century;Introducer Deep Abaram, Ashwin Milestone Adventure
 
@@ -2107,27 +2125,5 @@ The accident happened a year after a fatal multiple-vehicle collision on the Rad
 [Data](articles/56e21e97.json)
 
 [Extended Data](ext_articles/56e21e97.ext.json)
-
----
-
-### Two persons arrested for helping murder
-
-*2024-02-23 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177092) · `ta`
-
-Police have arrested two suspects in connection with an attempt to kill a man in the Assembly area in Colombo.
-
-Two unidentified men on a motorcycle on the 16th of this month opened fire on a man.
-
-Accordingly, two suspects, aged 16 and 21, have been arrested for allegedly assisting the incident.
-
-They have been arrested by the Colombo Crime Division officials in Colombo 15, Ferguson Road and Sethawatte area. Both arrested have been identified as residents in Colombo 15.
-
-Further investigations into the murder are being carried out by the police and the Colombo Crime Branch.
-
-◼️
-
-[Data](articles/d8da0e73.json)
-
-[Extended Data](ext_articles/d8da0e73.ext.json)
 
 ---

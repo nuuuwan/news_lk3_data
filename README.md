@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 12:49:26**
+As of **2024-02-23 13:02:39**
 
 ## Newspaper Stats
 
-*Scraped **8,865** Articles*
+*Scraped **8,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ newsfirstlk | 363
 economynextcom | 459
 islandlk | 464
 dailyftlk | 483
-adalk | 748
+adalk | 749
 adaderanalk | 1,061
-tamilmirrorlk | 1,098
-virakesarilk | 1,198
-adaderanasinhalalk | 1,308
+tamilmirrorlk | 1,100
+virakesarilk | 1,199
+adaderanasinhalalk | 1,309
 dailymirrorlk | 1,324
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,865 (100.0%) of 8,865 articles have been extended.
+8,865 (99.9%) of 8,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### உயிரிழந்த பல்கலைக்கழக மாணவன் குறித்து அதிர்ச்சி செய்தி
+
+*2024-02-23 12:28:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/உயிரிழந்த-பல்கலைக்கழக-மாணவன்-குறித்து-அதிர்ச்சி-செய்தி/71-333708) · `ta`
+
+யாழ்ப்பாணம் - நீர்வேலியில் நேற்று (21) விபத்தில் உயிரிழந்த பல்கலைக்கழக மாணவன் குறித்து அதிர்ச்சி செய்தி வெளியாகி உள்ளது.
+
+குறித்த மாணவன், வீடொன்றில் புகுந்து வன்முறையில் ஈடுபட்டு வாகனத்துக்கு தீவைத்து விட்டு திரும்பிய போதே விபத்தில் சிக்கி உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+அச்சுவேலி பொலிஸ் பிரிவிற்குட்பட்ட சிறுப்பிட்டி பகுதியில் நேற்று அதிகாலை நாய் குறுக்காக ஓடியதால் மோட்டார் சைக்கிளை கட்டுப்படுத்த முடியாமல் விபத்துக்குள்ளாகி பல்கலைக்கழக மாணவன் உயிரிழந்தார்.
+
+யாழ். பல்கலைக்கழகத்தில் புதிதாக தெரிவு செய்யப்பட்டுள்ள  மானிப்பாய், வேம்படி பகுதியைச் சேர்ந்த ரமேஸ் சகீந்தன் (22) என்ற மாணவனே இதில் உயிரிழந்துள்ளார்.
+
+மாணவன் உயிரிழந்த விவகாரம் மர்மமாக இருந்த நிலையில், மானிப்பாயை சேர்ந்த மற்றொரு இளைஞன் படுகாயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்தார்.
+
+அவரிடம் நடத்தப்பட்ட விசாரணையில், உயிரிழந்த பல்கலைக்கழக மாணவனுடன் மோட்டார் சைக்கிளில் பயணித்து, விபத்தில் சிக்கியவர் என்பது தெரியவந்தது.
+
+...
+
+[Data](articles/b36e3f2a.json)
+
+---
+
+### அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ பிரதி இராஜாங்கச் செயலாளர் இலங்கை விஜயம்
+
+*2024-02-23 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177112) · `ta`
+
+அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மா (Richard Verma) இலங்கைக்கு விஜயம் மேற்கொண்டுள்ளார்.
+
+இலங்கைக்கு விஜயம் மேற்கொண்டுள்ள அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மாவை அமெரிக்கத் தூதர் ஜூலி சங் வரவேற்று எக்ஸ் தளத்தில் பதிவொன்றை இட்டுள்ளார்.
+
+இவரது இலங்கைக்கான விஜயம் அமெரிக்க -இலங்கை நட்புறவின் சிறந்த பெறுபேறை பிரதிபலிப்பதுடன் இந்தோ -பசிபிக்கில் முக்கியமானது எனவும் அதில் அமெரிக்க தூதுவர் பதிவிட்டுள்ளார்.
+
+இதேவேளை, அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மாவிற்கும் (Richard Verma) ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இடையிலான சந்திப்பொன்று இன்று வெள்ளிக்கிழமை (23) இடம்பெற்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8ce1e65c.json)
+
+---
+
+### ටානියා ගේ මරණය ට IPL තරුවක නම පැටලෙයි
+
+*2024-02-23 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193732) · `si`
+
+ඉන්දීය මොස්තර නිරූපිකාවක් වන ටානියා සිං ගේ මරණය සම්බන්ධයෙන් ඇය සමඟ සමීප ඇසුරක් පවත්වා ඇති ඉන්දීය ක්‍රිකට් ක්‍රීඩක අභිෂේක් ෂර්මාගෙන් ප්‍රශ්න කිරීම සඳහා නොතිසි නිකුත් කිරීමට ඉන්දීය පොලීසිය කටයුතු කර තිබේ.
+
+28 හැවිරිදි වියේ පසු වූ ටානියා සිං පසුගිය සඳුදා (19) සිය නිවසේ නිදන කාමරයේ දී ගෙල වැළලාගෙන සියදිවිනසා ගෙන තිබුණි.
+
+නමුත් ඇයගේ මෙම සිය දිවි නසා ගැනීමට හේතුවක් මෙතෙක් නිශ්චිතව සොයා ගැනීමට නොහැකි වී ඇති අතර ඇයගේ ජංගම දුරකථනය සම්බන්ධයෙන් සිදුකළ විමර්ශනවලදී හෙළි වී ඇත්තේ ඇය සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායමට ක්‍රීඩා කරන IPL ක්‍රීඩක අභිෂේක් ෂර්මා සමඟ සමීප ඇසුරක් පවත්වා ඇති බවය.
+
+නමුත් දින කිහිපයක සිට ඇය යැවූ WhatsApp පණිවුඩ සඳහා ඔහු කිසිදු පිළිතුරක් ලබා දී නොමැති බව මූලික විමර්ශන වලදී අනාවරණය වී තිබේ.
+
+ඒ අනුව ටානියා සිං ගේ මරණය සම්බන්ධයෙන් ක්‍රිකට් ක්‍රීඩක අභිෂේක් ෂර්මාගෙන් ප්‍රශ්න කිරීමට කටයුතු කරන බව ඉන්දීය පොලීසිය වැඩිදුරටත් පවසා ඇත.
+
+තුන් ඉරියව් ක්‍රීඩකයෙකු වන අභිෂේක් ෂර්මා ඉන්දීය ප්‍රිමියර් ලීග් තරඟාවලියේ සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කරයි.
+
+...
+
+[Data](articles/2ad88d13.json)
+
+---
+
+### ஜனாதிபதியை சந்தித்த ரிச்சர்ட் வர்மா
+
+*2024-02-23 11:47:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்த-ரிச்சர்ட்-வர்மா/175-333707) · `ta`
+
+அமெரிக்க இராஜாங்கத் திணைக்களத்தின் முகாமைத்துவ மற்றும் வளங்களுக்கான பிரதி இராஜாங்கச் செயலாளர் ரிச்சர்ட் வர்மாவிற்கும் (Richard Verma) ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இடையிலான சந்திப்பு ஒன்று இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/8998f30e.json)
+
+---
 
 ### Action to import 1,000 vans and cars!
 
@@ -445,6 +519,18 @@ As it approached the surface of the moon, Odysseus lost contact with NASA, resul
 [Data](articles/e56c83fb.json)
 
 [Extended Data](ext_articles/e56c83fb.ext.json)
+
+---
+
+### උණුසුම් දර්ශකය අවධානය යොමුකළ යුතු තත්ත්වයක
+
+*2024-02-23 08:19:29* · [`adalk`](https://www.ada.lk/breaking_news/උණුසුම්-දර්ශකය-අවධානය-යොමුකළ-යුතු-තත්ත්වයක/11-408242) · `si`
+
+වයඹ සහ උතුරු මැද පළාත් වලත් ගම්පහ, කොළඹ, හම්බන්තොට හා ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් දර්ශකය එනම් මිනිස් සිරුට දැනෙන උණුසුම ‘අවධානය’ යොමුකළ යුතු තත්ත්වයක පවතීයැයි අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/1fbe6d80.json)
 
 ---
 
@@ -1867,123 +1953,5 @@ The complaint sector is conducting investigations on the instructions of the OIC
 [Data](articles/fc12d591.json)
 
 [Extended Data](ext_articles/fc12d591.ext.json)
-
----
-
-### A new prison has to be opened
-
-*2024-02-22 20:43:52* · [`adalk`](https://www.ada.lk/breaking_news/අලුතෙන්-බන්ධනාගාරයක්-විවෘත-කිරීමට-සිදුවෙලා/11-408236) · `si`
-
-Minister of Justice, Principal Reforms and Constitutional Reforms said that a new prison has had to be opened due to the increase in prisons to 30000 prisons.
-
-When contacted, the minister in response to the front of the suspects arrested on special operations these days.
-
-He said that the Minister said that a new prison should be opened soon to resolve the problem of space in the next two weeks.
-
-The Minister said that the focus of a few who were not used using the use of use premises.
-
-However, Minister said that there was no funds to build expeditiously to build prisons, however, he would have to design prisons.
-
-We have asked whether the prisoner prisoners were to be arrested by the operation of justice and the opening of justice, the Minister said there was no connection between the operation of justice and the opening of a new context
-
-...
-
-[Data](articles/dcf4d006.json)
-
-[Extended Data](ext_articles/dcf4d006.ext.json)
-
----
-
-### A new prison has to be opened
-
-*2024-02-22 20:43:36* · [`adalk`](https://www.ada.lk/breaking_news/අලුතෙන්-බන්ධනාගාරයක්-විවෘත-කිරීමට-සිදුවෙලා/11-408235) · `si`
-
-Minister of Justice, Principal Reforms and Constitutional Reforms said that a new prison has had to be opened due to the increase in prisons to 30000 prisons.
-
-When contacted, the minister in response to the front of the suspects arrested on special operations these days.
-
-He said that the Minister said that a new prison should be opened soon to resolve the problem of space in the next two weeks.
-
-The Minister said that the focus of a few who were not used using the use of use premises.
-
-However, Minister said that there was no funds to build expeditiously to build prisons, however, he would have to design prisons.
-
-We have asked whether the prisoner prisoners were to be arrested by the operation of justice and the opening of justice, the Minister said there was no connection between the operation of justice and the opening of a new context
-
-...
-
-[Data](articles/8e3998fe.json)
-
-[Extended Data](ext_articles/8e3998fe.ext.json)
-
----
-
-### Hot weather warning for seven districts
-
-*2024-02-22 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hot-weather-warning-for-seven-districts/108-277565) · `en`
-
-Colombo, Feb 22 (Daily Mirror) - The Meteorology Department issued a caution-level heat weather advisory, particularly for the North-Western and North-Central Provinces and Gampaha, Colombo, Hambantota and Trincomalee districts.
-
-According to the heat index issued by the department, the Anuradhapura, Trincomalee, Puttalam, Kurunegala, Polonnaruwa, Gampaha and Colombo Districts will be affected by hot weather conditions.
-
-In the caution level, the department mentioned that fatigue is possible with prolonged exposure and activity and continued activity could result in heat cramps.
-
-“People may suffer heat cramps and exhaustion and continuing activity in the heat or sun could lead to heatstroke,” the advisory warns.
-
-The Met. Dept. also advised the public to remain hydrated and take breaks in the shade as often as possible.
-
-...
-
-[Data](articles/47f0190c.json)
-
-[Extended Data](ext_articles/47f0190c.ext.json)
-
----
-
-### The water leakage cannot stop the water leakage of the Samanala tank
-
-*2024-02-22 20:34:41* · [`adalk`](https://www.ada.lk/breaking_news/සමනල-වැව-ජලාශයේ-ජල-කාන්දුව-නවත්වන්න-බෑ/11-408234) · `si`
-
-The water leakage in the Samanala tank cannot be stopped;In the pretext of losing the fighbora, it is being done by the sectoral Oversight Committee on Energy and Transportation
-
-Sri Lanka is ready to face the radioactive conditions if a nuclear attack in the region
-
-Do not charge the electricity supply of electricity customers who have obtained the electrical meter meter (SMART ELECTRICITY MEET). A recommendation from the Committee
-
-Sri Lanka Ergyis Pvt Ltd. Lists in the Sectoral Supervision Committee on Energy and Transport. They also emphasized that various measures have been taken to prevent the water leakage and no such or the result could be obtained, but they have not been able to recover. Officials said that the commitment of preventing the fringe will work in the Committee.
-
-These facts were revealed when the Sectoral Oversight Committee on Energy and Transport When the Chairman of the Hon.
-
-...
-
-[Data](articles/65427dad.json)
-
-[Extended Data](ext_articles/65427dad.ext.json)
-
----
-
-### Do not allow the rulers don't vote
-
-*2024-02-22 20:21:48* · [`adalk`](https://www.ada.lk/breaking_news/පාලකයන්-ඡන්දය-නොතියන්න-හැදුවොත්-ඉඩ-දෙන්න-එපා/11-408233) · `si`
-
-The Malwathu Maha Naraman visited members of the Malwathu Maha Vanitan Thero not to allow if the present rulers would not be voted.
-
-The Mahanayakapians added that the women in every political party is a pleasure to be politically acting.
-
-The Secretary of the Samagi Vascular Force and the Ms. Hirunka Premachandra and a group of people visited the Malwathu Premachandra and a group of people visited the Malwathu Mahanayam.
-
-The Mahan owner, emphasized that the power to the UNP is now seemed to be lost.
-
-He said that when all of us fall into the country's economy, we could not endorse the monthly salary for another, one another.
-
-Former Parliamentarian Premacharandra stressed that the Kandy District Women's Workshop was chaired by 10,000 women at the Venerable Weekalpitiya Stadium on the 24th of this month.
-
-Ms. Hirunika Premachandra stressed the presidential election, whether the present rulers had a vote and if it was a popular election.
-
-◼️
-
-[Data](articles/019e7275.json)
-
-[Extended Data](ext_articles/019e7275.ext.json)
 
 ---

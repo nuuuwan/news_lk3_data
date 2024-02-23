@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 10:33:36**
+As of **2024-02-23 10:50:38**
 
 ## Newspaper Stats
 
-*Scraped **8,847** Articles*
+*Scraped **8,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 464
 dailyftlk | 483
 adalk | 747
 adaderanalk | 1,058
-tamilmirrorlk | 1,097
-virakesarilk | 1,192
+tamilmirrorlk | 1,098
+virakesarilk | 1,193
 adaderanasinhalalk | 1,303
 dailymirrorlk | 1,323
 
@@ -26,49 +26,73 @@ dailymirrorlk | 1,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,842 (99.9%) of 8,847 articles have been extended.
+8,849 (100.0%) of 8,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### ඉඩම් ඔප්පු ලබාදීම ගැන පැහැදිලි කිරීමක්
+### Sri Lanka should switch to night economy - Diana Kamage
+
+*2024-02-23 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/177097) · `ta`
+
+Tourism Minister Diana Kamage said the country's foreign exchange could be increased by about 70 percent by switching to the night economy.
+
+The Minister of State has stated that the existing laws and regulations should be amended and provided with the necessary facilities on places that attract more tourists.
+
+State Minister Diana Kamage said this at a media briefing held at the Presidential Media Center on Thursday (22).
+
+The Minister of State pointed out that the night economy is playing a key role in the economic growth of many countries in the world, although some parties have made various allegations regarding the night economy.
+
+...
+
+[Data](articles/da37a19d.json)
+
+[Extended Data](ext_articles/da37a19d.ext.json)
+
+---
+
+### Explanation on providing land deeds
 
 *2024-02-23 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193726) · `si`
 
-පවුල් ලක්ෂ 20ක් සඳහා ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහන කාණ්ඩ කිහිපයක් යටතේ සිදුකිරීමට සැලසුම් කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+State Minister Ranjith Siyambalapitiya said that the Land Deeding Program is scheduled to be planned for several categories.
 
-රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේ නිශ්චිත ක්‍රමවේදයකට යටත්ව වගකිව හැකි ලියවිල්ලක් සහිතව අදාළ ඉඩම් ලබාදීමට අවශ්‍ය පියවර ගන්නා බවය.
+The State Minister stated that necessary steps will be taken to provide the relevant lands with a document responsible subject to a specific methodology.
 
-"මෙය කාණ්ඩායම් කිහිපයකට බෙදනවා. ඔබ ඔබේ ඉඩමේ උරුමකරුවෙකු ලෙස අපි පිළිගන්නවා. ඒ සඳහා සින්නක්කර ඔප්පුවක් ලබාදීමේ වැඩපිළිවෙල තමයි මේ දියත් කරන්නේ. ඔවුන්ගේ අයිතිය හැකි ඉක්මණින් සනාථ කිරීම තමයි රජයේ අවශ්‍යතාව තියෙන්නේ."
+"This divides this to several groups. We admit you as an asparam of your land. This is the program to provide a freehold deed. The government needs is to prove their right to support them. "
 
-01 වන කණ්ඩායම - දීමනා පත්‍ර ලැබී ඇත. ඉඩම මැන තිබේ. ගැටලු කිසිවක් නොමැති කාණ්ඩය
+Team 01 - Allowance has been received. The land is measured. Category with no problems
 
-02 වන කණ්ඩායම - අවසර පත්‍ර දී ඇත. ඉඩම මැන තිබේ. ගැටලු කිසිවක් නොමැති කාණ්ඩය
+2nd Team - has been given permits. The land is measured. Category with no problems
 
 ◼️
 
 [Data](articles/7149cfd8.json)
 
+[Extended Data](ext_articles/7149cfd8.ext.json)
+
 ---
 
-### නීතිවිරෝධී ඊ සිගරට් තොගයක් වටලයි
+### A stock of illegal e cigarettes raided
 
 *2024-02-23 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193725) · `si`
 
-ඔන්ලයින් ක්‍රමය ඔස්සේ නීතිවිරෝධී ලෙස මෙරටට ඉලෙක්ට්‍රොනික් සිගරට් ගෙන්වා අලෙවි කළ ජාලයක් වැටලීමට ජා-ඇළ සුරාබදු ඒකකය සමත්වී තිබේ.
+The Ja-Canal Excise has evacuated to raid a network of electronic cigarettes in the online system.
 
-එහිදී 25 හැවිරිදි සැකකරුවෙක් අත්අඩංගුවට ගත් අතර ඔහු පානදුර ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A 25-year-old suspect was arrested and was a resident of Panadura.
 
-ජා-ඇළ සුරාබදු අධිකාරී ප්‍රිමේෂ් ප්‍රනාන්දු මහතා සඳහන් කළේ රුපියල් ලක්ෂ 30ක ඊ සිගරට් තොගයක් මෙලෙස වටලා ඇති බවත් ඉන් රුපියල් කෝටි 10ක බදු ආදායමක් රජයට අහිමිවී ඇති බවත් ය.
+Superior Excise Superior Author Prash Fernando said that a stock of Rs.
 
-මෙම ඊ සිගරට් සඳහා තරුණ ප්‍රජාව සහ දරුවන් වැඩි වශයෙන් ඇබ්බැහි වෙමින් ඇති බවත් මෙය භයානක තත්ත්වයක් බවත් ඔහු පැවසීය.
+He said that the youth and children were addicted to the e cigarettes and that this is a dangerous situation.
 
-"මෙය දුම්වැටිවලට වඩා දරුණු ඇබ්බැහිකාරකයක්. ඊ සිගරට් බොනවා කියලා හොයා ගන්නවත් බැහැ. විවිධ සුවඳවල් තමයි නිකුත් වෙන්නේ. මෙවැනි සුවඳක් ඔබේ දරුවා ළඟින් එනවා නම් කරුණා කරලා සොයා බලන්න. මෙම ඊ සිගරට් විවිධ ආකාරයට නිෂ්පාදනය කරලා තියෙනවා. ඇතැම් විට අතේ බඳින ස්මාර්ට් වොච් එකක් ආකාරයෙන්, කරේ දාන පටියක් ආකාරයෙන් ආදී වශයෙන් පැහැදිලිව හඳුනාගන්න බැරි ආකාරයට නිෂ්පාදනය කර තිබෙනවා."
+"This is a fierce addicer than cigarettes. Cannot help you drink cigarettes. Different scents are released. If you get your baby next, look in please. These e cigarettes have produced many different ways. Sometimes a smart Watch is manufactured in a way that is not clearly identified as such as a karadi donation. "
 
 ◼️
 
 [Data](articles/1bfb8cad.json)
+
+[Extended Data](ext_articles/1bfb8cad.ext.json)
 
 ---
 
@@ -204,19 +228,25 @@ Speaking to the media after the meeting, Mr. Sunil Handunneththi stated that it 
 
 ---
 
-### එදා රට බේරා ගන්න ගිය විරුවට අද ඔබේ සවිය අවශ්‍යයි
+### Toward you need to save the country then your Saviya today
 
 *2024-02-23 07:55:19* · [`adalk`](https://www.ada.lk/breaking_news/එදා-රට-බේරා-ගන්න-ගිය-විරුවට-අද-ඔබේ-සවිය-අවශ්‍යයි/11-408240) · `si`
 
-නොහික්මුණු රියදුරෙක් නිසාවෙන් සදහටම එක අතක් අහිමිවූ දෙදරුපියෙකු කෘතිම අතක් ලබා ගැනීම සඳහා විඳින අනේක දුක් පිළිබඳ පුවතක් උතුම් පුන් පොහෝ දිනයේ මාතලේ  රතලවැව ප්‍රදේශයේදී වා ර් තා  විය.
+An unruly driver was ridiculous in Ratyawa, Matale, Matale.
 
-කලක් යුද හමුදාවේ සේවය කළ ඔහුට සිරුරේ ඇති වූ සංකූලතා හේතුවෙන් යුධ හමුදාවෙන් ඉවත්ව කොළඹ ප්‍රදේශයේ පෞද්ගලික ආයතනයක කරණ වෑමියෙකු ලෙස සේවය කරමින් සිටියදී මාතලේ සිට කොළඹ බලා ගමන් කරද්දී අතර මග බස් රථය තවත් ලොරි රථයක ගැටීමෙන් සිදුවූ අනතුරකින් මෙම උදේශ්  මධුමල් තිලකවර්ධන නැමති දෙදරු පියාට එක අතක් අහිමි වී තිබේ.
+In the Army, he was traveling from Matale to Colombo while traveling from Matale due to complications of the body, the bus from Matale was traveling from Matale to Colombo and losing his father to her father in an accidentHave been.
 
-පී. ජී .උදේශ්  මධුමල් තිලකවර්ධන මහතා  මාතලේ  රතලවැව, මහවෙල.   ලිපිනයේ පදිංචිව සිටි . මේ වන විට ඔහුට තම ආදරණීය බිරිඳත් පුංචි දියණියත් වයෝවෘද්ධ මවත් මාස දෙකක් පමණ වයස ඇති පුංචි පුතාත් ජීවත් කරවීම සඳහා අනේක දුක් වේදනා විඳිමින් සිටින බව මෙම බිරිඳ හැඬු කඳුළින් අප සමග සඳහන් කළාය.
+P. Mr. G. Gr. Fudshal Thilakawardana, Matale, Ratwela.Residents of the address. The wife of tears indicate that his beloved wife and small daughter, or two months old, and the oldest son, or two months old.
+
+Within one hand, he has begun a garden cultivation as much as he could. That is for consumption of the house. He says that he was carrying out the city and the help of his wife and his daughter, he says that he has made the road to the shops and the shops.
+
+He said that he was suffering in order to succeed his hope. His wife said his husband loses her hand, but no children, including he and their children will be starved.
 
 ...
 
 [Data](articles/4d0289cb.json)
+
+[Extended Data](ext_articles/4d0289cb.ext.json)
 
 ---
 
@@ -498,21 +528,23 @@ Various entertainment activities play an important role at night in raising the 
 
 ---
 
-### ’பல்கலைக்கழக கட்டமைப்பின் கீழ் தொழிற்பயிற்சி’
+### Vocational Training Under the University Framework
 
 *2024-02-23 04:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-கட்டமைப்பின்-கீழ்-தொழிற்பயிற்சி/175-333700) · `ta`
 
-நவீன உலகிற்கு ஏற்றவாறு தொழில் கல்வியை மறுசீரமைத்து, இந்நாட்டின் இளைஞர் யுவதிகள் போட்டித்தன்மை நிறைந்த உலக தொழில் சந்தையில் வெற்றி பெறுவதற்கு உகந்த சூழல் உருவாக்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்தார்.
+President Ranil Wickremesinghe has promised to create a conducive environment for the youth of the country to revive vocational education to suit the modern world.
 
-அதற்கமைய, நாட்டின் அனைத்து தொழிற்பயிற்சி நிறுவனங்களையும் ஒருங்கிணைத்து ஒரே பல்கலைக்கழக கட்டமைப்பின் கீழ் கொண்டு வருவதோடு, புதிய விடயப்பரப்புகளை உள்ளடக்கிய பாடநெறிகளை அறிமுகப்படுத்த திட்டமிட்டிருப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+Accordingly, the President said that it is planning to introduce all the vocational training institutions in the country and bring under the same university structure and introduce textbooks that include new subjects.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க இரத்மலானை லலித் அத்துலத்முதலி தொழிற்பயிற்சி நிலையத்திற்கு நேற்று மேற்பார்வை விஜயமொன்றை மேற்கொண்டிருந்த போதே இதனை கூறினார்.
+President Ranil Wickremesinghe said this while on a supervision visit to the Lalith Athulathali Vocational Training Center yesterday.
 
-தற்போது டிஜிட்டல் மாற்றத்திற்கான முன்னெடுப்புகள் துரிதமாக இடம்பெற்று வருவதோடு, இதன்போது செயற்கை நுண்ணறிவு உள்ளிட்ட துறைகள் குறித்து விசேட கவனம் செலுத்தப்படும் எனவும், நாளாந்தம் மாற்றமடையும் தொழில்நுட்பத்துடன் முன்னேறிச் செல்ல வேண்டும் என்பதே இலங்கையின் எதிர்பார்ப்பு எனவும் ஜனாதிபதி தெரிவித்தார். (a)
+The President said that the process of digital change is currently underway and that it is expected to progress with the technology of the day -to -day change.. (A)
 
 ◼️
 
 [Data](articles/2d3dd44e.json)
+
+[Extended Data](ext_articles/2d3dd44e.ext.json)
 
 ---
 
@@ -1364,6 +1396,8 @@ Addressing the media, he said that when considering health issues, the incumbent
 
 [Data](articles/5bdfac53.json)
 
+[Extended Data](ext_articles/5bdfac53.ext.json)
+
 ---
 
 ### Incumbent and former Health Minister walk on a single track: Dr. Bellana
@@ -1927,21 +1961,5 @@ Colombo, Feb 22 (Daily Mirror) - In the wake of scathing criticisms on the Minis
 [Data](articles/faa9cca5.json)
 
 [Extended Data](ext_articles/faa9cca5.ext.json)
-
----
-
-### Marie Colvin : Intrepid War Correspondent  who Lost her Eye in Northern Sri Lanka.
-
-*2024-02-22 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83662) · `en`
-
-Marie Catherine Colvin, the respected war correspondent of Britain’s “Sunday Times” was targeted and killed on February 22, 2012 by Syrian forces as she reported on the suffering of civilians in Homs,Syria. At the time of her death, Marie Colvin was reporting from the Baba Amr Media Centre, a makeshift broadcast studio run by Syrian media activists in a secret facility located in a residential building.
-
-The rocket attack also killed acclaimed French photographer Rémi Ochlik and injured British photographer Paul Conroy, Syrian translator Wael al-Omar and French journalist Edith Bouvier. A Syrian photo journalist was also killed in the attack.
-
-...
-
-[Data](articles/18f630a1.json)
-
-[Extended Data](ext_articles/18f630a1.ext.json)
 
 ---

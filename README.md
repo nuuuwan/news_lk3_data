@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 08:50:21**
+As of **2024-02-23 09:02:31**
 
 ## Newspaper Stats
 
-*Scraped **8,835** Articles*
+*Scraped **8,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 745
 adaderanalk | 1,056
 tamilmirrorlk | 1,096
 virakesarilk | 1,192
-adaderanasinhalalk | 1,298
+adaderanasinhalalk | 1,300
 dailymirrorlk | 1,321
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,829 (99.9%) of 8,835 articles have been extended.
+8,835 (100.0%) of 8,837 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,61 @@ However, there are reports about some Sri Lankan workers expressing dissatisfact
 
 [Data](articles/0efac5d6.json)
 
+[Extended Data](ext_articles/0efac5d6.ext.json)
+
 ---
 
-### இடியுடன் கூடிய மழை பெய்யும்
+### Thunderstorm
 
 *2024-02-23 08:05:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-333706) · `ta`
 
-மேல், தெற்கு, சப்ரகமுவ, மத்திய, வடமேல் மற்றும் ஊவா மாகாணங்களில் பல இடங்களில் மாலை அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்.
+Showers or thunderstorms are expected in many places in the upper, southern, saparagamuwa, central, northwestern and Uva provinces.
 
-மேல், சப்ரகமுவ, மத்திய மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படலாம்.
+In the morning, in some parts of the Galle and Matara districts, the snow may be seen in the morning.
 
-மேலும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள போதுமான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்படுகிறார்கள். R
+The public is asked to take adequate precautions to reduce the effects of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/56a1b136.json)
+
+[Extended Data](ext_articles/56a1b136.ext.json)
+
+---
+
+### විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව වෙනුවට නව ආයතනයක්
+
+*2024-02-23 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193723) · `si`
+
+විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව වෙනුවට උසස් අධ්‍යාපන සංවර්ධන කොමිෂන් සභාව නම්වූ නව ආයතනය කඩිනමින් සක්‍රීය කිරීමට අවශ්‍ය මූලික පියවර ගෙන ඇති බව උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා පවසයි.
+
+රාජ්‍ය අමාත්‍යවරයා ප්‍රකාශ කළේ ඊට අදාළ කෙටුම්පත ඉදිරියේදී පාර්ලිමේන්තුවට ඉදිරිපත් කර සම්මත කරගැනීමෙන් අනතුරුව නව කොමිෂන් සභාව බලාත්මක කිරීමට සැලසුම් කර ඇති බවය.
+
+කොළඹදී මාධ්‍ය හමුවක් පවත්වමින් උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා මෙම අදහස් පළ කළේය.
+
+එම හමුවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වු හිටපු පාර්ලිමේන්තු මන්ත්‍රී සුනිල් හදුන්නෙත්ති මහතා ප්‍රකාශ කළේ වර්තමානයේ මෙරට විශ්වවිද්‍යාල පද්ධතිය තුළින් නිර්මාණශිලි උපාධිධාරීයෙකු බිහිනොවන තත්ත්වයක් උද්ගතවී ඇති බවය.
+
+◼️
+
+[Data](articles/be90e19e.json)
+
+---
+
+### ලෙල්ලම වෙඩිතැබීමට සැකපිට දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-02-23 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193722) · `si`
+
+මෝදර ලෙල්ලම ප්‍රදේශයේදී ඉකුත් 16 වනදා යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු තවත් පුද්ගලයෙකුට වෙඩිතබා තිබුණි.
+
+එලෙස මනුෂ්‍ය ඝාතනයක් සිදුකිරීමට තැත් කිරීමේ අපරාධය සම්බන්ධයෙන් මෝදර පොලීසිය සහ කොළඹ අපරාධ කොට්ඨාසය විමර්ශන පැවැත්විය.
+
+ඒ අනුව මෙම අපරාධය සඳහා ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙකු ඊයේ (22) සවස අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය වැඩිදුරටත් සඳහන් කළේ එක් සැකකරුවෙක් සතුව තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 4යි මිලිග්‍රෑම් 451ක් සොයාගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/89a04af8.json)
 
 ---
 
@@ -244,23 +284,25 @@ The public requests the public to take steps to reduce the damages caused by tem
 
 ---
 
-### ஸ்பெயினில்   வலென்சியா நகரில்  தொடர்மாடிக்குடியிருப்பொன்றில் பாரிய தீவிபத்து – பெருமளவு பொதுமக்கள் வீடுகளிற்குள் சிக்குண்டுள்ளதால் அச்சம்
+### Massive fire in a series of a series of a series of fire in Valencia, Spain
 
 *2024-02-23 05:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177089) · `ta`
 
-ஸ்பெயினின் வலென்சியா நகரில் தொடர்மாடிக்குடியிருப்பொன்றில் பாரிய தீவிபத்து ஏற்பட்டுள்ளதை தொடர்ந்து பெருமளவு மக்கள் தங்கள் வீடுகளிற்குள் சிக்குண்டிருக்கலாம் என அச்சம் வெளியாகியுள்ளது.
+There are fears that a large number of people may have been in their homes following a massive fire in a series of fire in Valencia, Spain.
 
-கம்பனார் என்ற பகுதியில் உள்ள 14 அடுக்குகளை கொண்ட தொடர்மாடிக்கட்டிடமொன்றில் பரவிய தீ அருகில் உள்ள கட்டிடங்களிற்கும் பரவியுள்ளது.
+The fire that spreads in a 14 -storied series in Kampanar is also spread to nearby buildings.
 
-இந்த கட்டிடத்தில் 138 வீடுகள் உள்ளதாகவும் 450க்கும் அதிகமானவர்கள் வசிப்பதாகவும் தகவல்கள் வெளியாகியுள்ளன.
+The building has 138 houses and more than 450 people live.
 
-தீயணைப்பு படையினர் ஏழாம்மாடியில் வசிக்கும் தம்பதியினர் உட்பட பலரை மீட்டுள்ளனர் என பொதுமக்கள் தெரிவித்துள்ளனர்.
+Firefighters have rescued many people, including a couple living in the seventh mud, have rescued many people.
 
-நாலாம்மாடியிலேயே முதலில் தீ மூண்டது பின்னர் தீ மிகவேகமாக பரவத்தொடங்கியது என தொடர்மாடிக்குடியிருப்பின் இரண்டாவது தளத்தில் வசிக்கும் ஒருவர் தெரிவித்துள்ளார்.பத்து நிமிடங்களில் முழுமையாக பரவிட்டது என அவர் தெரிவித்துள்ளார்.
+One person living on the second floor of the series said that the fire began to spread rapidly after the first fire broke out in the fourth.
 
 ◼️
 
 [Data](articles/741ce541.json)
+
+[Extended Data](ext_articles/741ce541.ext.json)
 
 ---
 
@@ -282,19 +324,21 @@ They also told the committee that a ‘covert operation’ is also being carried
 
 ---
 
-### ’இரவு நேரப் பொருளாதாரத்திற்கு மாறவேண்டும்’
+### The telephone should switch to the night economy
 
 *2024-02-23 04:27:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவு-நேரப்-பொருளாதாரத்திற்கு-மாறவேண்டும்/175-333701) · `ta`
 
-இரவு நேரப் பொருளாதாரத்திற்கு மாறுவதன் மூலம் நாட்டின் அந்நிய செலாவணியை சுமார் 70 வீதம் வரை அதிகரிக்க முடியும். அதற்காக சுற்றுலாப் பயணிகளை அதிகம் கவரக் கூடிய இடங்கள் தொடர்பாக தற்போதுள்ள சட்டங்களையும் ஒழுங்குமுறைகளையும் திருத்தியமைத்து, தேவையான வசதிகளை ஏற்படுத்திக் கொடுக்க வேண்டும் என்று சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே தெரிவித்தார்.
+Can increase the country's foreign exchange up to 70 percent by switching to a nightly economy. Minister of Tourism Diana Kamage said that the existing laws and regulations should be amended and provided with the necessary facilities on places that attract more tourists.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
 
-ஒரு நாட்டின் பொருளாதாரத்தை உயர்த்துவதில் இரவு நேரங்களில் பல்வேறு பொழுதுபோக்கு நடவடிக்கைகள் முக்கிய பங்கு வகிக்கின்றன. சுற்றுலாப் பயணிகளுக்கான பொழுதுபோக்கு நடவடிக்கைகள் மற்றும் இரவில் உணவகங்களைத் திறந்து வைப்பது உள்ளிட்ட இரவு நேரப் பொருளாதாரத்தை நாடுவதன் மூலம் நாட்டின் அந்நிய செலாவணியை சுமார் 70 வீதம் அதிகரிக்க முடியும். உலகின் பல நாடுகள் பொருளாதார வளர்ச்சிக்கு இரவு நேரப் பொருளாதாரத்தின் பங்களிப்பை பயன்படுத்திக் கொள்கின்றன.
+Various entertainment activities play an important role at night in raising the economy of a country. Seeking a night time economy, including entertainment activities for tourists and opening restaurants at night, can increase the country's foreign exchange by about 70 %.. Many countries in the world are using the contribution of the night economy for economic growth.
 
 ...
 
 [Data](articles/4f491862.json)
+
+[Extended Data](ext_articles/4f491862.ext.json)
 
 ---
 
@@ -1376,23 +1420,29 @@ These facts were revealed when the Sectoral Oversight Committee on Energy and Tr
 
 ---
 
-### පාලකයන් ඡන්දය නොතියන්න හැදුවොත් ඉඩ දෙන්න එපා
+### Do not allow the rulers don't vote
 
 *2024-02-22 20:21:48* · [`adalk`](https://www.ada.lk/breaking_news/පාලකයන්-ඡන්දය-නොතියන්න-හැදුවොත්-ඉඩ-දෙන්න-එපා/11-408233) · `si`
 
-වත්මන් පාලකයන් ඡන්දය නොතැබීමට කටයුතු කළහොත් ඊට ඉඩ නොදෙන ලෙස මල්වතු පාර්ශවයේ මහනායක හිමියන් සමගි වනිතා බලවේගයේ  සාමාජිකාවන් මල්වතු මහ නා හිමියන් බැහැදුටු අවස්ථාවේදී පැවසූහ .
+The Malwathu Maha Naraman visited members of the Malwathu Maha Vanitan Thero not to allow if the present rulers would not be voted.
 
-එහිදී මහනාහිමියන් වැඩිදුරටත් පවසා සිටියේ සෑම  දේශපාලන පක්ෂයකම කාන්තාවන් දේශපාලනික වශයෙන් ක්‍රියාශීලව සිටීම සතුටට කරුණක් බවයි .
+The Mahanayakapians added that the women in every political party is a pleasure to be politically acting.
 
-සමගි වනිතා බලවේගයේ ලේකම් හිටපු පාර්ලිමේන්තු මන්ත්‍රීනි හිරුණකා ප්‍රේමචන්ද්‍ර මහත්මිය සහ සමගි ජන බලවේගයේ කාන්තා හා ළමා කටයුතු පිළිබඳ උපලේකම් චමින්ද්‍රාණී කිරිඇල්ල මහත්මිය ඇතුළු පිරිසක් මල්වතු මහනාහිමියන් බැහැදුටු අවස්ථාවේදී මහනාහිමියන් වැඩිදුරටත් අවධාරණය කර සිටියේ ජනතාව අතර ඡන්දයකට මේවන විට වැඩි උනන්දුවක් තිබෙන බවය .
+The Secretary of the Samagi Vascular Force and the Ms. Hirunka Premachandra and a group of people visited the Malwathu Premachandra and a group of people visited the Malwathu Mahanayam.
 
-එදා එක්සත් ජාතික පක්ෂයට මහනුවර තිබූ බලය දැන් නැතිවී තිබෙන බවක් පෙනෙන්නට තිබෙන බව අවධාරණය කළ මහ නා හිමියන් මේ අවස්ථාවේදී සියලු දෙනා අමාරුවෙන් සිටින අවස්ථාවක් බවද අවධාරණයක් කළේය .
+The Mahan owner, emphasized that the power to the UNP is now seemed to be lost.
 
-රටේ ආර්ථිකය වැටී තිබෙන අවස්ථාවක අප සියලු දෙනා එකම ආකාරයෙන් සිටිය යුතු බවත් එක් අයෙක් එක් විදිහකටත් තවත් අයෙක් තවත් විදියකටත් සිටීම සඳහා මාසික වැටුප වෙනස් කර ගැනීම අනුමත නොකළ හැකි බවද පැවසීය .
+He said that when all of us fall into the country's economy, we could not endorse the monthly salary for another, one another.
 
-...
+Former Parliamentarian Premacharandra stressed that the Kandy District Women's Workshop was chaired by 10,000 women at the Venerable Weekalpitiya Stadium on the 24th of this month.
+
+Ms. Hirunika Premachandra stressed the presidential election, whether the present rulers had a vote and if it was a popular election.
+
+◼️
 
 [Data](articles/019e7275.json)
+
+[Extended Data](ext_articles/019e7275.ext.json)
 
 ---
 
@@ -1810,17 +1860,21 @@ According to the statement, Wickremesinghe had also outlined to students at the 
 
 ---
 
-### மக்களே அவதானம் ! வெப்பமான வானிலை மேலும் சில மாதங்களுக்கு தொடரும்
+### People are careful!The hottest weather will continue for a few more months
 
 *2024-02-22 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177059) · `ta`
 
-கொழும்பு, கம்பஹா உள்ளிட்ட 8 மாவட்டங்களில் வெப்பச் சுட்டெண் மனித உடலில் உணரப்படும் வெப்பநிலை எச்சரிக்கை மட்டத்தை விட அதிக உஷ்ணம் எதிர்பாரக்கப்படுவதாகவும், இந்த நிலைமை எதிர்வரும் சில மாதங்களுக்கு தொடரும் எனவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology said that the heat index in 8 districts, including Colombo and Gampaha, is expected to be more heat than the temperature alarm level in the human body.
 
-கொழும்பு, கம்பஹா, புத்தளம், குருநாகல், அம்பாந்தோட்டை,அநுராதபுரம், பொலன்னறுவை, மற்றும்  திருகோணமலை ஆகிய 8  மாவட்டஙகளுக்கே இந்த அறிவித்தல் பிறப்பிக்கப்பட்டுள்ளது. இந்த மாவட்டங்களில் மனித உடலால் தாங்கிக் கொள்ளக்கூடிய வெப்பத்தை விட அதிக உஷ்ணம் எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களத்தின் முன்னெச்சரிக்கை பிரிவுக்கான பிரதிப்பணிப்பாளர் அஜித் விஜேமான்ன தெரிவித்துள்ளார்.
+The announcement has been issued to 8 districts of Colombo, Gampaha, Puttalam, Kurunegala, Hambantota, Anuradhapura, Polonnaruwa, and Trincomalee -. Ajith Wijemanna, Deputy Inspector of the Department of Meteorology, said that the heat is expected more than the heat that the human body can bear in these districts.
+
+Moreover, this situation has been caused by the decline in the amount of air nationwide. Temperature will continue for a few more months. The Department has also issued instructions to protect people from high heat. He added that he should follow instructions such as consumption of excessive water, not involved in excessive fatigue, wearing white or pale clothes and staying in shadowy places.
 
 ...
 
 [Data](articles/0cc809f5.json)
+
+[Extended Data](ext_articles/0cc809f5.ext.json)
 
 ---
 
@@ -1897,37 +1951,5 @@ He is suspected as the actual owner of the fleet of vehicles, including five lux
 [Data](articles/c9f810e5.json)
 
 [Extended Data](ext_articles/c9f810e5.ext.json)
-
----
-
-### Buying expensive veggies...
-
-*2024-02-22 16:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Buying-expensive-veggies/110-277573) · `en`
-
-Despite the high prices, people were observed buying vegetables and other commodities at Bodhiraja Mawatha in Colombo Fort today. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/03002556.json)
-
-[Extended Data](ext_articles/03002556.ext.json)
-
----
-
-### Super football player to jail for rape
-
-*2024-02-22 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193711) · `si`
-
-Danny Alwas has been imprisoned, who was guilty of sexual abuse.
-
-In a nightclub in Barcelona, 2022, Always declared a woman to abuse a woman's decision today (22).
-
-However, the judiciary was sentenced to 4 1/2 years in prison against him and paid a compensation of $ 163,000.
-
-◼️
-
-[Data](articles/68f89280.json)
-
-[Extended Data](ext_articles/68f89280.ext.json)
 
 ---

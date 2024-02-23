@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 00:02:41**
+As of **2024-02-24 00:17:28**
 
 ## Newspaper Stats
 
-*Scraped **8,962** Articles*
+*Scraped **8,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 92
 bbccomsinhala | 110
 dbsjeyarajcom | 160
 newsfirstlk | 363
-economynextcom | 459
+economynextcom | 462
 islandlk | 464
 dailyftlk | 483
 adalk | 754
 adaderanalk | 1,073
-tamilmirrorlk | 1,106
+tamilmirrorlk | 1,107
 virakesarilk | 1,224
 adaderanasinhalalk | 1,328
 dailymirrorlk | 1,346
@@ -26,11 +26,23 @@ dailymirrorlk | 1,346
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,962 (100.0%) of 8,962 articles have been extended.
+8,962 (100.0%) of 8,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### நவம் மஹா பெரஹராவை ஜனாதிபதி ஆரம்பித்து வைத்தார்
+
+*2024-02-23 23:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/நவம்-மஹா-பெரஹராவை-ஜனாதிபதி-ஆரம்பித்து-வைத்தார்/46-333727) · `ta`
+
+கொழும்பு ஹுனுப்பிட்டிய கங்காராம விகாரையின் 45 ஆவது நவம் மஹா பெரஹராவை ஜனாதிபதி ரணில் விக்ரமசிங்க யானையின் மீது புனித கரடுவ்வை வைத்து ஆரம்பித்து வைத்தார்.
+
+◼️
+
+[Data](articles/a36a1105.json)
+
+---
 
 ### Germany’s parliament votes to legalize limited marijuana possession and allow ‘cannabis clubs’
 
@@ -620,6 +632,26 @@ Emphasizing the imperative to promptly cease the misappropriation of national aw
 
 ---
 
+### Sri Lankans may need to wait for Monetary Board meeting minutes despite new Act
+
+*2024-02-23 19:02:00* · [`economynextcom`](https://economynext.com/sri-lankans-may-need-to-wait-for-monetary-board-meeting-minutes-despite-new-act-152034/) · `en`
+
+ECONOMYNEXT – Sri Lankans may have to wait more time to read the meeting minutes of the Central Bank’s Monetary Board, a top official said, despite a new act that has made the central bank to be more transparent and accountable for its decisions.
+
+Many central banks including the United States’ Federal Reserve, India’s Reserve Bank, and Bank of Mexico release the minutes of their monetary policy meeting to ensure transparency.
+
+The new Central Bank Act passed by the Parliament in line with the guidance by the International Monetary Fund (IMF) includes measures for Sri Lanka’s central bank to be more transparent and accountable.
+
+These measures include releasing the Monetary Policy Report every six months and the first such report was released on February 15.
+
+However, the central bank has not taken a decision to release the minutes of the Monetary Board meetings on the monetary policy.
+
+...
+
+[Data](articles/7c57d3e8.json)
+
+---
+
 ### ISIS bride Shamima Begum loses bid to regain UK citizenship
 
 *2024-02-23 19:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ISIS-bride-Shamima-Begum-loses-bid-to-regain-UK-citizenship/108-277616) · `en`
@@ -880,6 +912,24 @@ The 48-year-old suspect and the impounded contraband have been handed over to th
 
 ---
 
+### Amid mass migration, Sri Lanka to recruit volunteers as English teachers
+
+*2024-02-23 16:50:00* · [`economynextcom`](https://economynext.com/amid-mass-migration-sri-lanka-to-recruit-volunteers-as-english-teachers-152028/) · `en`
+
+ECONOMYNEXT- Sri Lanka is planning to appoint foreign and expatriate volunteers to teach English for Sri Lanka students, the Ministry of Higher Education said, amid thousand of teachers migrating to other countries after the island nation’s unprecedented economic crisis.
+
+Over five thousand teachers have left the country with the Education Ministry permission using the government’s circular of temporarily leaving state jobs while tens of thousands of teachers have left the country without informing the relevant authorities, Education Ministry officials say.
+
+Suren Raghavan, the State Minister for Higher Education said the shortage has aggravated because most of the graduates who have an English degree become writers and join the private sector due to higher salary.
+
+“They do not join government schools. This is a problem all over the country which is why we need to have an online system,” Raghavan told EconomyNext.
+
+...
+
+[Data](articles/613ebb88.json)
+
+---
+
 ### Richard Verma's compliments to the government's process
 
 *2024-02-23 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193742) · `si`
@@ -953,6 +1003,26 @@ After the investigation, the police have taken steps to appear at the Jaffna Mag
 [Data](articles/29b9692b.json)
 
 [Extended Data](ext_articles/29b9692b.ext.json)
+
+---
+
+### Sri Lanka tea production up 1.4-pct in Jan 2024, exports up 6.8-pct
+
+*2024-02-23 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-up-1-4-pct-in-jan-2024-exports-up-6-8-pct-152029/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tea production was up 1.4 percent to 18.73 million kilograms in January 2024, with high growns falling and low and mid growns rising, industry data shows.
+
+High grown tea in January 2024 was 3.56 million kilograms, down from 3.36 million, medium growns were 2.6, up from 2.5 million kilograms and low growns were 12.56 million, up from 12.32 million kilograms last year.
+
+Exports, including re-exports were up 6.88 percent to 18.76 million kilograms, industry data published by Ceylon Tea Brokers show.
+
+Export earnings were reported at 102 million US dollars, up from 99.5 million dollars last year. The average FOB price was 5.45 US dollars a kilo down from 5.67 dollars last year.
+
+Tea in bulk was 8.5 million kilograms valued at 12.79 billion rupees, tea in packets was 7.8 million kilograms valued  at 13.1 billion rupees and tea in bags was 1.8 million kilos, valued at 5.06 billion rupees.
+
+...
+
+[Data](articles/b6c4d926.json)
 
 ---
 
@@ -2041,91 +2111,5 @@ Navalni's mother said that if they do not comply with the body, they will do som
 [Data](articles/7d913186.json)
 
 [Extended Data](ext_articles/7d913186.ext.json)
-
----
-
-### Sri Lanka should switch to night economy - Diana Kamage
-
-*2024-02-23 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177097) · `ta`
-
-Tourism Minister Diana Kamage said the country's foreign exchange could be increased by about 70 percent by switching to the night economy.
-
-The Minister of State has stated that the existing laws and regulations should be amended and provided with the necessary facilities on places that attract more tourists.
-
-State Minister Diana Kamage said this at a media briefing held at the Presidential Media Center on Thursday (22).
-
-The Minister of State pointed out that the night economy is playing a key role in the economic growth of many countries in the world, although some parties have made various allegations regarding the night economy.
-
-...
-
-[Data](articles/da37a19d.json)
-
-[Extended Data](ext_articles/da37a19d.ext.json)
-
----
-
-### Indian MP dies in accident
-
-*2024-02-23 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193727) · `si`
-
-Lasa Silva, a 37-year-old government, India, is a member of the House of Telenganana.
-
-"Bharaat Rashtra Samithi Party" is a prominent figure, Indian media.
-
-The accident had occurred when the vehicle of the car was not controlled by the car and cannot control the vehicle, and the safe iron was hit.
-
-Her driver is also seriously injured in the accident.
-
-Last 10 days ago, another accident in the Nakatpalli on February 13, Lasya was also suffered.
-
-Her father was also politician and he died last year.
-
-◼️
-
-[Data](articles/a85a5317.json)
-
-[Extended Data](ext_articles/a85a5317.ext.json)
-
----
-
-### Sri Lanka looks at India as a partner
-
-*2024-02-23 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193728) · `si`
-
-External Affairs Minister of External Affairs Tharaka Balasuriya has told India as a brother and partner as a brother and partner.
-
-Speaking to the Indian media, he added that India was translated into how to translate its country and wanted to see a developed nation.
-
-He has also invited Indian companies to visit Sri Lanka and is expected to become a developed state by 2048.
-
-◼️
-
-[Data](articles/ad641ef3.json)
-
-[Extended Data](ext_articles/ad641ef3.ext.json)
-
----
-
-### At least 8 injured after bus topples in Nanu Oya
-
-*2024-02-23 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97473/at-least-8-injured-after-bus-topples-in-nanu-oya-) · `en`
-
-Eight people have been injured after a bus toppled on Radella Shortcut Road in Nanu Oya on Thursday night (Feb.22).
-
-As many as 35 passengers including the driver had been inside the vehicle at the time of the accident.
-
-The injured were rushed to the Nuwara-Eliya District General Hospital for treatment. According to the police, two of them have since been discharged while the remaining six are still under medical care.
-
-The bus was reportedly carrying a group of pilgrims from Akuressa, Galle and Weherahena areas.
-
-Nanu Oya Police is conducting further investigations into the incident.
-
-The accident happened a year after a fatal multiple-vehicle collision on the Radella Shortcut Road claimed the lives of seven people including 2 children and injured at least 53 others. The deadly accident was caused by the careless driving of a bus driver transporting a group of students returning from a school trip to Nuwara Eliya on January 20, 2023.
-
-...
-
-[Data](articles/56e21e97.json)
-
-[Extended Data](ext_articles/56e21e97.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 16:02:53**
+As of **2024-02-23 16:17:44**
 
 ## Newspaper Stats
 
-*Scraped **8,902** Articles*
+*Scraped **8,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 751
 adaderanalk | 1,063
 tamilmirrorlk | 1,101
 virakesarilk | 1,205
-adaderanasinhalalk | 1,317
+adaderanasinhalalk | 1,318
 dailymirrorlk | 1,336
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,902 (100.0%) of 8,902 articles have been extended.
+8,902 (100.0%) of 8,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### ආහාර ඇණවුම ප්‍රමාද වූ බව පවසා විදෙස්ගත ලාංකිකයකුට වෙඩි තබලා
+
+*2024-02-23 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193741) · `si`
+
+කුවේට් රාජ්‍යයේ රියදුරු රැකියාවක නිරත වූ ශ්‍රී ලාංකිකයකුට කිසියම් පුද්ගලයකු විසින් වෙඩි තබා ඇතැයි වාර්තා වේ.
+
+රාජාංගණයේ පදිංචි කේ.පී.ලක්ෂ්මන් තිලකරත්න නමැති 44 හැවිරිදි දෙදරු පියකුට මෙසේ වෙඩි තබා ඇත.
+
+මොහු වසර 08ක් පමණ කුවේට් රාජ්‍යයේ රැකියාව කර ඇති අතර, අවසන් වරට ඔහු ලංකාවට පැමිණ ඇත්තේ, 2022-10-25 වැනි දා ය.
+
+ආහාර ඇණවුම් රැගෙන යන රියදුරකු වශයෙන් මොහු රැකියාව සිදු කර ඇති අතර, ඉකුත් ජනවාරි 10 වැනි දා ලද ඇණවුමක් රැගෙන යාමේ දී මෙම වෙඩි තැබීම සිදු කර ඇත.
+
+රැගෙන ගිය ආහාර ඇණවුම ප්‍රමාද වී ඇති බව පවසා අදාළ පාරිභෝගිකයා තමාට වෙඩි තැබූ බව තුවාලකරු පවසයි.
+
+වෙඩි තැබීමෙන් තුවාලකරුගේ උදරය ප්‍රදේශයට බරපතළ තුවාල සිදු ව ඇති අතර, ඔහුට මැහුම් 30ක් ද දමා ඇතැයි වාර්තා වේ.
+
+වෙඩි වැදීමෙන් පසු තුවාලකරු, සිය මෝටර් රථයෙන්ම නැවත පැමිණ ඇති අතර, අතරමඟ රථය නවතා සිය ඉන්දියානු මිතුරකුට දුරකථන ඇමතුමක් ලබා දී සිද්ධිය පිළිබඳ පවසා ඇත.
+
+තුවාලකරුට 13 හැවිරිදි සහ 10 හැවිරිදි පාසල් යන දියණියන් දෙදෙනෙකු ද සිටින අතර, ඔහු ඉල්ලා සිටින්නේ, සාධාරණයක් ඉටු කර තමා ව ලංකාවට ගෙන්වාගන්නා ලෙසයි.
+
+◼️
+
+[Data](articles/c2852404.json)
+
+---
 
 ### A notification for Sri Pada pilgrims
 
@@ -2035,21 +2061,5 @@ Despite this explanation, the COPF members pressed the officials for data on cer
 [Data](articles/37799f0f.json)
 
 [Extended Data](ext_articles/37799f0f.ext.json)
-
----
-
-### Sri Lanka’s Gazan lessons
-
-*2024-02-22 23:50:06* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-Gazan-lessons/4-758797) · `en`
-
-While every conflict is different, there were – and are – features of the Gazan conflagration that resonate strongly with the final stages of Sri Lanka’s 26-year-long civil war
-
-“This seems familiar” was the response of many Sri Lankans to the Israeli military action in Gaza initiated in the wake of the appalling 7 October Hamas attack. While every conflict is different, there were – and are – features of the Gazan conflagration that resonate strongly with the final stages of Sri Lanka’s 26-year-long civil war, played out in and around the beaches of the country’s northeast during spring 2009.
-
-...
-
-[Data](articles/936b846b.json)
-
-[Extended Data](ext_articles/936b846b.ext.json)
 
 ---

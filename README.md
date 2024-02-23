@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 20:51:32**
+As of **2024-02-23 21:02:29**
 
 ## Newspaper Stats
 
@@ -170,11 +170,11 @@ A Sri Lankan expatriate employed as a food delivery driver in Kuwait has reporte
 
 The 44-year-old, hailing from Rajanganaya, says he has been living in Kuwait for about 8 years now.
 
-Giving his account of the incident, Lakshman Thilakaratne, said he received a food order on January 10, adding that the initial location details given by the customer were wrong. As such, he had to drive to a different location to complete the delivery.
+Giving his account of the incident, Lakshman Thilakaratne, said the incident happened on January 10. According to him, the initial location details given by the customer were wrong, and as a result he had to drive to a different location to complete the delivery.
 
 However, as the order was delayed, the customer in question has opened fire when Thilakaratne arrived at his doorstep. He reportedly sustained serious injuries to his abdomen.
 
-After being shot, he said he drove his car back with blood out from the wounds and contacted an Indian acquaintance who rushed him to the hospital.
+After being shot, he said he drove his car back with blood gushing out from the wounds and contacted an Indian acquaintance who rushed him to the hospital.
 
 ...
 

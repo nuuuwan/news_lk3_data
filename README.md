@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 23:33:19**
+As of **2024-02-23 23:51:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,346
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,961 (100.0%) of 8,962 articles have been extended.
+8,962 (100.0%) of 8,962 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Health Minister Karl Lauterbach said the government’s aim is to “fight the b
 ...
 
 [Data](articles/2b38a8ef.json)
+
+[Extended Data](ext_articles/2b38a8ef.ext.json)
 
 ---
 

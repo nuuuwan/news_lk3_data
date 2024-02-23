@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 09:02:31**
+As of **2024-02-23 09:27:06**
 
 ## Newspaper Stats
 
-*Scraped **8,837** Articles*
+*Scraped **8,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 economynextcom | 458
 islandlk | 464
 dailyftlk | 483
-adalk | 745
+adalk | 746
 adaderanalk | 1,056
 tamilmirrorlk | 1,096
 virakesarilk | 1,192
-adaderanasinhalalk | 1,300
+adaderanasinhalalk | 1,301
 dailymirrorlk | 1,321
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,835 (100.0%) of 8,837 articles have been extended.
+8,839 (100.0%) of 8,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### A large number of cannabis mix mine
+
+*2024-02-23 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193724) · `si`
+
+The STF has arrested a 25 year old man who had set up an illegal cannabis mixed area.
+
+It was during a raid on the second cross-street in the Hingurakgoda yesterday.
+
+◼️
+
+[Data](articles/e828d13f.json)
+
+[Extended Data](ext_articles/e828d13f.ext.json)
+
+---
 
 ### Sri Lankan workers in Israel face dilemma, seek job shifts
 
@@ -68,39 +84,43 @@ The public is asked to take adequate precautions to reduce the effects of lightn
 
 ---
 
-### විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව වෙනුවට නව ආයතනයක්
+### New company instead of the University Grants Commission
 
 *2024-02-23 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193723) · `si`
 
-විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව වෙනුවට උසස් අධ්‍යාපන සංවර්ධන කොමිෂන් සභාව නම්වූ නව ආයතනය කඩිනමින් සක්‍රීය කිරීමට අවශ්‍ය මූලික පියවර ගෙන ඇති බව උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා පවසයි.
+State Minister of Higher Education Dr. Surean Saggan Sanghavan says that the new institution has taken the new institution to be activated with the UGC instead of the University Grants Commission.
 
-රාජ්‍ය අමාත්‍යවරයා ප්‍රකාශ කළේ ඊට අදාළ කෙටුම්පත ඉදිරියේදී පාර්ලිමේන්තුවට ඉදිරිපත් කර සම්මත කරගැනීමෙන් අනතුරුව නව කොමිෂන් සභාව බලාත්මක කිරීමට සැලසුම් කර ඇති බවය.
+The State Minister stated that the new Commission was planned to be presented to parliament in the future and was planned to enforce the new Commission.
 
-කොළඹදී මාධ්‍ය හමුවක් පවත්වමින් උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා මෙම අදහස් පළ කළේය.
+Minister of Higher Education Dr. Suren Sanghavan made these comments holding a press conference in Colombo.
 
-එම හමුවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වු හිටපු පාර්ලිමේන්තු මන්ත්‍රී සුනිල් හදුන්නෙත්ති මහතා ප්‍රකාශ කළේ වර්තමානයේ මෙරට විශ්වවිද්‍යාල පද්ධතිය තුළින් නිර්මාණශිලි උපාධිධාරීයෙකු බිහිනොවන තත්ත්වයක් උද්ගතවී ඇති බවය.
+Speaking to the media after the meeting, Mr. Sunil Handunneththi stated that it has been a situation that has not produced a criterly graduate through the country's university system.
 
 ◼️
 
 [Data](articles/be90e19e.json)
 
+[Extended Data](ext_articles/be90e19e.ext.json)
+
 ---
 
-### ලෙල්ලම වෙඩිතැබීමට සැකපිට දෙදෙනෙක් අත්අඩංගුවට
+### Two suspects arrested for shooting
 
 *2024-02-23 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193722) · `si`
 
-මෝදර ලෙල්ලම ප්‍රදේශයේදී ඉකුත් 16 වනදා යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු තවත් පුද්ගලයෙකුට වෙඩිතබා තිබුණි.
+Two unidentified persons who came in a motorbike were shot dead in the Modara Lessigree.
 
-එලෙස මනුෂ්‍ය ඝාතනයක් සිදුකිරීමට තැත් කිරීමේ අපරාධය සම්බන්ධයෙන් මෝදර පොලීසිය සහ කොළඹ අපරාධ කොට්ඨාසය විමර්ශන පැවැත්විය.
+Modara Police and Colombo Crimes Division held investigations on the crime of attempting to be killed.
 
-ඒ අනුව මෙම අපරාධය සඳහා ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙකු ඊයේ (22) සවස අත්අඩංගුවට ගෙන තිබේ.
+Accordingly, two suspects have been arrested yesterday (22).
 
-පොලීසිය වැඩිදුරටත් සඳහන් කළේ එක් සැකකරුවෙක් සතුව තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 4යි මිලිග්‍රෑම් 451ක් සොයාගෙන ඇති බවය.
+Police said that the suspect had found 4 Ice drug and 451 milligrams.
 
 ◼️
 
 [Data](articles/89a04af8.json)
+
+[Extended Data](ext_articles/89a04af8.ext.json)
 
 ---
 
@@ -119,6 +139,26 @@ The Commissioner of Prisons Jagath Chandana Weerasinghe said this was speaking a
 [Data](articles/dfe12145.json)
 
 [Extended Data](ext_articles/dfe12145.ext.json)
+
+---
+
+### Rear Admiral Pradeep Ratnayake for the second chair of the Navy
+
+*2024-02-23 07:32:44* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදාවේ-දෙවැනි-පුටුවට-රියර්-අද්මිරාල්-ප්‍රදීප්-රත්නායක/11-408238) · `si`
+
+Rear Admiral Pradeep Ratnayake has been appointed as the President of the Sri Lanka Navy and Armed Forces Commander of the Democratic Socialist Republic of Sri Lanka.
+
+Commander of the Navy Vice Admiral Priyantha Perera officially handed over the relevant Appointment Letter to Rear Admiral Pradeep Ratnayake.
+
+Rear Admiral Pradeep Ratnayake, a bright alummer student at St. Thomas' College, Matale, has joined the Sri Lanka Navy Executive as a Cadet Officer of the 17th.
+
+He was successfully completed the Trincomalee Marine and Maritime Academy successfully as a subutenan of the Naval and Maritimed Science Collection in 1992.On 1st of July, on 1st of July 2021, he was promoted to the rank of Rear Admiral.
+
+...
+
+[Data](articles/83420432.json)
+
+[Extended Data](ext_articles/83420432.ext.json)
 
 ---
 
@@ -1913,43 +1953,5 @@ Richard Wasak, the US State Department's legal adviser, said that Israel's actua
 [Data](articles/fd087e51.json)
 
 [Extended Data](ext_articles/fd087e51.ext.json)
-
----
-
-### Criticism of the Goneswara Temple Council membersResolution to file a case against
-
-*2024-02-22 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177060) · `ta`
-
-Senior Attorney Thirukumaranathan said he would file a lawsuit against those who insult the lawyers against the members of the Goneeswara Temple Council.
-
-The Trincomalee District Court issued an interim injunction on Wednesday (21) to prohibit members of the Goneeswara Temple Operation Council members.. Senior Attorney Thirukumaranathan was present in the case.
-
-He added that the District Judge Ganesarajah had informed the district court that he would file a case against those who have issued comments on social media and directly on social media and directly on social media.
-
-◼️
-
-[Data](articles/baae2778.json)
-
-[Extended Data](ext_articles/baae2778.ext.json)
-
----
-
-### Weliwita Sudda arrested
-
-*2024-02-22 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Weliwita-Sudda-arrested/108-277563) · `en`
-
-Kaduwela, Feb 22 (Daily Mirror) - Malalage Sudath Kithsiri alias 'Weliwita Sudda' suspected as a kingpin behind drug trafficking was arrested by the Kaduwela police. He had in his possession 15.300 grams of heroin at the time of arrest.
-
-Police said the suspect who had fled from the area had been  absconding for a long time.
-
-He was produced before the Kaduwela Magistrate Chanima Wijebandara and remanded till March 06.
-
-He is suspected as the actual owner of the fleet of vehicles, including five luxury buses, a motorcar and a motorcycle seized by the Illegal Assets Investigation Unit of the CID when the registered owner had failed to explain the source of income for the purchase of the vehicles.
-
-◼️
-
-[Data](articles/c9f810e5.json)
-
-[Extended Data](ext_articles/c9f810e5.ext.json)
 
 ---

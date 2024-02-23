@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 13:51:56**
+As of **2024-02-23 14:02:26**
 
 ## Newspaper Stats
 
-*Scraped **8,878** Articles*
+*Scraped **8,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 459
 islandlk | 464
 dailyftlk | 483
-adalk | 749
+adalk | 750
 adaderanalk | 1,061
 tamilmirrorlk | 1,100
-virakesarilk | 1,201
+virakesarilk | 1,203
 adaderanasinhalalk | 1,310
 dailymirrorlk | 1,329
 
@@ -26,11 +26,47 @@ dailymirrorlk | 1,329
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,878 (100.0%) of 8,878 articles have been extended.
+8,878 (100.0%) of 8,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### திருகோணமலை தென்னைமரவாடி கந்தசாமி மலை ஆலயத்தில் பொங்கல் நிகழ்வுகளுக்கு சென்ற தமிழ்மக்களுக்கு தடை உத்தரவு
+
+*2024-02-23 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177123) · `ta`
+
+திருகோணமலை மாவட்டத்தின் எல்லைக்கிராமமான தென்னைமரவாடி கந்தசாமி மலை முருகன் ஆலயத்தில் வருடாந்த பொங்கல் வழிபாடுகளுக்கு சென்ற மக்களுக்கு புல்மோட்டை பொலிஸாரால் நீதிமன்ற தடையுத்தரவு வழங்கப்பட்டு பொங்கல் நிகழ்வை நடாத்த விடாது தடை ஏற்படுத்தப்பட்டுள்ளது.
+
+இன்று வெள்ளிக்கிழமை (23) தென்னைமரவாடி மக்களால் ஒழுங்கு செய்யப்பட்டிருந்த கந்தசாமி மலை முருகன் ஆலயத்தின் மாதாந்த பௌர்ணமி தின பொங்கல் மற்றும் அன்னதான நிகழ்வினை புல்மோட்டை பொலிஸார் தடுத்து நிறுத்தியுள்ளனர்.
+
+மாதாந்தம் பௌர்ணமி தினத்தன்று தென்னமரவாடி கிராம மக்களால் நடத்தப்படும் பொங்கல் விழா வழமை போன்று இன்றைய தினமும் ஒழுங்குபடுத்தப்பட்டிருந்தது. இப்பொங்கல் விழாவிற்கு கிராம மக்கள் மற்றும் திருகோணமலை மாவட்டத்தின் பல பிரதேசங்களிலிருந்து பக்தர்கள் மற்றும் சிவில் அமைப்புகள் விழாவில் கலந்து கொள்ள வந்திருந்தனர்.
+
+...
+
+[Data](articles/c93efaf2.json)
+
+---
+
+### யாழில் பெண் உயிரிழந்த சம்பவம்: பஸ்ஸின் வழித்தட அனுமதி இரத்து
+
+*2024-02-23 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177120) · `ta`
+
+சாரதியின் அவசரத்தால் பெண்ணொருவர் உயிரிழந்த சம்பவத்தை அடுத்து, குறித்த பஸ்ஸின்  வழித்தட அனுமதி வடமாகாண போக்குவரத்து அதிகார சபையினால் இரத்து செய்யப்பட்டள்ளது.
+
+யாழ்ப்பாணம் - அனலைதீவு பகுதியில் கடந்த திங்கட்கிழமை பஸ்ஸிலிருந்து பெண்ணொருவர் இறங்க முற்பட்டபோது சாரதி அவசரமாக பஸ்ஸை நகர்த்திமையால், அப்பெண் விழுந்து படுகாயமடைந்தார்.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த ஊர்காவற்துறை பொலிஸார் சாரதியை கைது செய்து நீதிமன்றில் முற்படுத்தியதை அடுத்து, நீதிமன்ற உத்தரவில் சாரதி விளக்கமறியலில் வைக்கப்பட்டார்.
+
+இந்நிலையில், குறித்த விபத்து சம்பவம் தொடர்பில் வடமாகாண போக்குவரத்து அதிகார சபையினர் விசாரணைகளை முன்னெடுத்து, பஸ்ஸின் வழித்தட அனுமதியினை இரத்து செய்துள்ளனர்.
+
+பஸ்கள் போட்டி போட்டு ஓடுவதனாலேயே அதிகளவான விபத்துகள் இடம்பெற்று வருவதாகவும், அவ்வாறு அதிக வேகமாக பஸ்களை செலுத்தும் சாரதிகள் தொடர்பில், யாழ்.மாவட்ட செயலக வளாகத்தில் உள்ள  வடமாகாண போக்குவரத்து அதிகார சபையினருக்கு முறையிடலாம் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f46c7491.json)
+
+---
 
 ### A private company wins the moon
 
@@ -66,7 +102,7 @@ Scientists say they are able to obtain oxygen for fuel and the astronauts.
 
 ### Allow 3 crore eggs to be imported
 
-*2024-02-23 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177115) · `ta`
+*2024-02-23 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177115) · `ta`
 
 The import of another 3 crore eggs from India has been allowed for the festive season.
 
@@ -84,7 +120,7 @@ Accordingly, 9 crore eggs are to be imported, the secretary added.
 
 ### More than 40,000 fake doctors in the country - State Medical Officers Association
 
-*2024-02-23 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177110) · `ta`
+*2024-02-23 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177110) · `ta`
 
 The State Medical Officers Association (GMOA) said that there are more than 40,000 fake doctors in the middle of the country.
 
@@ -621,6 +657,24 @@ He said that the youth and children were addicted to the e cigarettes and that t
 [Data](articles/1bfb8cad.json)
 
 [Extended Data](ext_articles/1bfb8cad.ext.json)
+
+---
+
+### ඇල්ලේ කඳු තරණයට ගොස් අවසන් ගමන් යයි
+
+*2024-02-23 09:13:06* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-කඳු-තරණයට-ගොස්-අවසන්-ගමන්-යයි/11-408243) · `si`
+
+ඇල්ලේ කඳු තරණයට ගිය විසි දෙක හැවිරිදි තරුණයකු 22 සවස කඳු මුදුනේ සිට ප්‍රපාතයකට ඇද වැටී බරපතල තුවාල ලබා රෝහල් ගත කිරීමේ දී ජීවිතක්ෂයට පත්වී ඇති බව ඇල්ල පොලීසිය පැවසීය.
+
+මෙසේ ජීවිතක්ෂයට පත් වී ඇත්තේ අංක 172/4, මොරගොල්ල, බේරුවල පදිංචිව සිටි විසි දෙක හැවිරිදි තරුණයෙකි.
+
+මිතුරෙකු සමග ඇල්ලවැල්ලවාය මාර්ගයේ පහළ ඇල්ල ගම්මානයට ඉහළ කන්ද තරණය කරමින් සිටියදී එක්වරම ලිස්සා ප්‍රපාතයකට ඇද වැටී  මොහු මෙසේ බරපතල තුවාල ලබා වැල්ලවාය දිසාරෝහලට ඇතුළත් කිරීමේ දී ජීවිතක්ෂයට පත්වී ඇති බව පොලිසිය පැවසීය.
+
+මේ සම්බන්ධ  මරණ පරීක්ෂණය සහ පශ්චාත් මරණ පරීක්ෂණය වැල්ලවාය දිසාරෝහලේ දී පැවැත්වීමට නියමිතය. ඇල්ල පොලීසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/332dc672.json)
 
 ---
 
@@ -1933,51 +1987,5 @@ The speaker, Lindsay Hoyle, eventually apologised and said he had made his decis
 [Data](articles/2195bcc6.json)
 
 [Extended Data](ext_articles/2195bcc6.ext.json)
-
----
-
-### Nanuoya - Radella road accident
-
-*2024-02-22 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177081) · `ta`
-
-◼️
-
-[Data](articles/0f37d9fe.json)
-
-[Extended Data](ext_articles/0f37d9fe.ext.json)
-
----
-
-### King Coconut to quench thirst...
-
-*2024-02-22 21:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/King-Coconut-to-quench-thirst/110-277572) · `en`
-
-King coconut water has become an attraction in Colombo these days with the hot weather, with people seeking to quench their thirst.  The Department of Meteorology has warned the public not to stay in the sunlight for long periods. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/8e3f2837.json)
-
-[Extended Data](ext_articles/8e3f2837.ext.json)
-
----
-
-### Incumbent and former Health Minister walk on same track: Dr. Bellana
-
-*2024-02-22 21:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Incumbent-and-former-Health-Minister-walk-on-same-track-Dr-Bellana/108-277566) · `en`
-
-Colombo, Feb 22 (Daily Mirror) - The problems relating to drugs are not the only issue in the health sector, and both the former and incumbent health ministers have been prone to viewing health matters narrowly, focusing primarily on drug-related issues, Deputy Director of the National Hospital Colombo (NHC) Dr. Rukshan Bellana said.
-
-Addressing the media, he said that when considering health issues, the incumbent and former Health Minister walk on a same track.
-
-"Drugs are not the sole issue in the country's health sector. The health administration of the hospitals has gone from bad to worse. We cannot treat patients without implementing rules in hospitals. If the Health Ministry cannot understand the issues faced by the patients and cannot understand what they mean, it is better for everyone to go home," he said.
-
-"We should prioritize on a patient-centred hospital management system while shifting away from an employee-centred approach," he added.
-
-...
-
-[Data](articles/5bdfac53.json)
-
-[Extended Data](ext_articles/5bdfac53.ext.json)
 
 ---

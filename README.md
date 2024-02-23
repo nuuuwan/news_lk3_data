@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 15:33:02**
+As of **2024-02-23 15:53:17**
 
 ## Newspaper Stats
 
-*Scraped **8,898** Articles*
+*Scraped **8,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 economynextcom | 459
 islandlk | 464
 dailyftlk | 483
-adalk | 750
+adalk | 751
 adaderanalk | 1,063
 tamilmirrorlk | 1,101
 virakesarilk | 1,205
-adaderanasinhalalk | 1,315
-dailymirrorlk | 1,335
+adaderanasinhalalk | 1,317
+dailymirrorlk | 1,336
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,898 (100.0%) of 8,898 articles have been extended.
+8,901 (100.0%) of 8,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### A notification for Sri Pada pilgrims
+
+*2024-02-23 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193740) · `si`
+
+A large number of pilgrims are coming from various parts of the country, from different parts of the island with the weekend.
+
+The Ada Derana reporter said that a large number of pilgrims from the train were present at the Hatton Station.
+
+Due to the weekend long hole, several special trains have been added to the period.
+
+The pilgrims come from train have been opened to provide transport facilities to the Nalluthenna, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/0b5b7308.json)
+
+[Extended Data](ext_articles/0b5b7308.ext.json)
+
+---
+
+### Temple Treasury, Ampara goes to destroy
+
+*2024-02-23 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193739) · `si`
+
+A large number of ruins that have been able to renew history are found near the Temple Thimbirigolla Reserve in Ampara.
+
+There are many historical archaeological sources in this area where Bakmetiya is traveling through the Tembirigolla area.
+
+The land can be seen in this land that a king had built a kingdom in the same territory and maintain his control.
+
+A number of ancient measures that have been built on an ancient buildings, inscriptions, water restores, stupa, has been still being balanced.
+
+It is sad that this historical value, which is able to renew history, become a paradise of treasure hunters today.
+
+Sadly, the authorities fail to be named as an archaeological site so far.
+
+◼️
+
+[Data](articles/b94d0ca1.json)
+
+[Extended Data](ext_articles/b94d0ca1.ext.json)
+
+---
 
 ### A horrible fire in a flat complex in Spain
 
@@ -954,6 +998,26 @@ He said that the youth and children were addicted to the e cigarettes and that t
 
 ---
 
+### The body of the Agriculture Research Assistant behind the house
+
+*2024-02-23 09:15:39* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂිකර්ම-පර්යේෂණ-සහකාරවරයගේ-සිරුර-නිවස-පසුපස/11-408244) · `si`
+
+Uragasmanhaya Police say that the ownership of the house of agriculture and manufacturers in the house while his wife and daughter went to the house.
+
+The deceased has been identified as Nilantha Wijesundara, a 50 year old Nilantha Wijesundara of the Bentota Kanhedthi resident of the Bentota Kanhedtin.
+
+The body of his house was found on the ground and told the police in the house where the wife and daughter who had gone back home this evening.
+
+The police and Uragasmanhaya Emergency Inspector WN Jayaratne has come to the Elpitiya hospital and the post-election dependence will be held tomorrow.
+
+◼️
+
+[Data](articles/f5779962.json)
+
+[Extended Data](ext_articles/f5779962.ext.json)
+
+---
+
 ### To climbs and finish on the cliff
 
 *2024-02-23 09:13:06* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-කඳු-තරණයට-ගොස්-අවසන්-ගමන්-යයි/11-408243) · `si`
@@ -1808,6 +1872,24 @@ It is revolting to see Washington’s UN envoy Linda Thomas-Greenfield, a politi
 
 ---
 
+### Sri Lanka's debt woes deepen as it joins IMF surcharge list
+
+*2024-02-23 01:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-s-debt-woes-deepen-as-it-joins-IMF-surcharge-list/108-277587) · `en`
+
+Subjected to surcharges following the disbursement of two tranches amounting to US$ 670 million
+
+Liable to pay US$ 1.06 million in GRA Level Based Surcharges from this February
+
+Sri Lanka has been added to the list of 22 heavily indebted countries facing controversial surcharges imposed by the International Monetary Fund (IMF) from recently. These additional payments, aimed at countries whose outstanding credit to the IMF’s main account exceeds 187.5 percent of their quota, have stirred debate and concern.
+
+A recent report by the United States-based think tank, Center for Economic and Policy Research (CEPR) highlighted that Sri Lanka is among the latest additions to this list, joining countries such as Benin, Côte d’Ivoire, Kenya, Moldova, North Macedonia, and Senegal. Sri Lanka’s inclusion underscores the financial challenges faced by these nations.
+
+...
+
+[Data](articles/9d875cd7.json)
+
+---
+
 ### Sri Lanka has to start paying surcharge now on IMF loan
 
 *2024-02-23 01:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-has-to-start-paying-surcharge-now-on-IMF-loan/108-277587) · `en`
@@ -1967,71 +2049,5 @@ While every conflict is different, there were – and are – features of the Ga
 [Data](articles/936b846b.json)
 
 [Extended Data](ext_articles/936b846b.ext.json)
-
----
-
-### Values mixed up?
-
-*2024-02-22 23:48:28* · [`dailyftlk`](https://www.ft.lk/opinion/Values-mixed-up/14-758796) · `en`
-
-Those who possess drugs are in custody, while those who enabled these persons to possess the drugs are walking free and continuing to bring more drugs into the country
-
-In recent times, there is a massive campaign launched in Sri Lanka to eliminate drugs in the country. It is an excellent objective. But who are those being caught and disciplined? Those who are in possession of drugs. But has it ever occurred to these knights in shining armour, who go after those who possess drugs, that there is another group on whom no drugs are found or will ever be found, who are nevertheless, the masterminds of the drug trade?
-
-...
-
-[Data](articles/946be25b.json)
-
-[Extended Data](ext_articles/946be25b.ext.json)
-
----
-
-### 40 Asia-Pacific countries unite for agrifood systems transformation to ensure food security of future generations
-
-*2024-02-22 23:46:38* · [`dailyftlk`](https://www.ft.lk/news/40-Asia-Pacific-countries-unite-for-agrifood-systems-transformation-to-ensure-food-security-of-future-generations/56-758795) · `en`
-
-Forty countries from the Asia and Pacific region have agreed that transforming agrifood systems was imperative to providing food security for their children’s generation and beyond, the Food and Agriculture Organization of the United Nations (FAO) reported today.
-
-The summation was delivered at yesterday’s close of the 37th Session of the FAO Regional Conference for Asia and the Pacific (APRC37). The conference was hosted by the Government of Sri Lanka.
-
-Forty countries of Asia and the Pacific attended the APRC, with the vast majority attending in-person, including some 20 Government Ministers. It was the first time since 2018 that a large in-person gathering of the region’s food and agriculture ministers and other policymakers was convened by FAO, and is seen as emblematic of the attention needed to recover from the pandemic and disruptions caused to food production and distribution that has plagued many countries in the region ever since.
-
-...
-
-[Data](articles/d219c636.json)
-
-[Extended Data](ext_articles/d219c636.ext.json)
-
----
-
-### Indian High Commissioner makes first visit to Northern Province
-
-*2024-02-22 23:44:26* · [`dailyftlk`](https://www.ft.lk/news/Indian-High-Commissioner-makes-first-visit-to-Northern-Province/56-758794) · `en`
-
-High Commissioner of India Santosh Jha undertook his first official visit to Northern Province from 15-17 February.
-
-Diverse engagements during the visit attest to the deep-rooted nature of the bilateral partnership as also India’s firm commitment to deepening socio-economic and cultural ties with Northern Province.
-
-...
-
-[Data](articles/d5ddc30e.json)
-
-[Extended Data](ext_articles/d5ddc30e.ext.json)
-
----
-
-### JICA partners Medico-Legal Society in creating awareness on addressing sexual bribery
-
-*2024-02-22 23:42:35* · [`dailyftlk`](https://www.ft.lk/news/JICA-partners-Medico-Legal-Society-in-creating-awareness-on-addressing-sexual-bribery/56-758793) · `en`
-
-The Medico-Legal Society in collaboration with JICA, held the Professor M. S. L. Salgado 3rd Memorial Oration on the topic of Sexual and Gender based Violence in Sri Lanka on 16 February, followed by the Symposium and Annual Scientific Sessions 2024 on Sexual Bribery and Criminal Justice on 17 February.
-
-The oration was delivered by University of Kelaniya Chief Professor of English Senior Professor Maithree Wickramasinghe, who spoke of the interdisciplinary, intersectional and integrated perspectives of sexual and gender-based violence. Medico-Legal Society President Justice Yasantha Kodagoda, PC, and JICA Sri Lanka Office Senior Representative Ide Yuri, also addressed the audience of over 250.
-
-...
-
-[Data](articles/b5de0a18.json)
-
-[Extended Data](ext_articles/b5de0a18.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 12:02:35**
+As of **2024-02-23 12:17:28**
 
 ## Newspaper Stats
 
-*Scraped **8,862** Articles*
+*Scraped **8,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 92
 bbccomsinhala | 107
 dbsjeyarajcom | 160
 newsfirstlk | 363
-economynextcom | 458
+economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 748
-adaderanalk | 1,060
+adaderanalk | 1,061
 tamilmirrorlk | 1,098
-virakesarilk | 1,197
+virakesarilk | 1,198
 adaderanasinhalalk | 1,308
 dailymirrorlk | 1,324
 
@@ -26,11 +26,27 @@ dailymirrorlk | 1,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,862 (100.0%) of 8,862 articles have been extended.
+8,862 (100.0%) of 8,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### 1,000 வேன்களையும் கார்களையும் இறக்குமதி செய்ய நடவடிக்கை !
+
+*2024-02-23 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177108) · `ta`
+
+சுற்றுலாத் துறையை ஊக்குவிப்பதற்கு தேவையான வாகனங்களை இறக்குமதி செய்வதற்கு தேவையான பிரேரணைகள் அமைச்சரவையில் சமர்பிக்கப்பட்டுள்ளது.
+
+அதற்கமைய, சுமார் ஆயிரம் வேன்களையும் கார்களையும் இறக்குமதி செய்ய நடவடிக்கை எடுத்து வருவதாக அவர் தெரிவித்தார்.
+
+குறித்த பிரேரணைக்கு அடுத்த அமைச்சரவைக் கூட்டத்தில் அனுமதி கிடைக்கப்பெறும் என எதிர்பார்ப்பதாக சுற்றுலாத் துறை அமைச்சர் ஹரின் பெர்ணான்டோ மேலும் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/b246ae7e.json)
+
+---
 
 ### Maj
 
@@ -47,6 +63,22 @@ Opposition Leader Sajith Premadasa has been appointed as the Head of the Anti-Co
 [Data](articles/c46f3466.json)
 
 [Extended Data](ext_articles/c46f3466.ext.json)
+
+---
+
+### Maj. Gen. Sathyapriya Liyanage joins SJB
+
+*2024-02-23 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97476/maj-gen-sathyapriya-liyanage-joins-sjb) · `en`
+
+Major General Sathyapriya Liyanage, former Chief of Staff of Sri Lanka Army, has joined the main opposition Samagi Jana Balawegaya (SJB).
+
+He met with Opposition Leader Sajith Premadasa and SJB General Secretary Ranjith Madduma Bandara this morning (Feb.23) to convey his support for the party’s future course of action.
+
+According to a statement from the SJB, Maj. Gen. Liyanage has been appointed as the head of the party’s anti-corruption policy implementation unit and as a consultant to Premadasa in his endeavours to fight corruption.
+
+◼️
+
+[Data](articles/36b5afd5.json)
 
 ---
 
@@ -505,6 +537,26 @@ He said that he was suffering in order to succeed his hope. His wife said his hu
 [Data](articles/4d0289cb.json)
 
 [Extended Data](ext_articles/4d0289cb.ext.json)
+
+---
+
+### Sri Lanka’s Grisly Recent History Goes Unpunished
+
+*2024-02-23 07:53:00* · [`economynextcom`](https://economynext.com/sri-lankas-grisly-recent-history-goes-unpunished-152021/) · `en`
+
+ECONOMYNEXT – They lie buried in numerous mass graves, all evidence of Sri Lanka’s murderous recent past which has been punctuated by multiple civil conflicts.
+
+Whatever remains is evidence of Sri Lanka’s grisly history of the extrajudicial executions of rebels in both Northern and Southern insurrections.
+
+Most of the bodies remain in mass graves that stretch from Chemmani and Duraiappah Stadium in  Jaffna to burial sites in the Colombo and Matale Districts and the Southern and Central Provinces.
+
+The dead could be anyone; captured rebels, those caught in crossfires and others who were deemed to be “inconvenient,” according to a report titled ‘Gotabaya Rajapaksa’s War Time Role’ released by the International Truth and Justice Project (ITJP) on 17 January 2024.
+
+Sri Lanka’s recent blood-soaked history is replete with mass killings and many “disappearances” from the various incidents during the insurgencies of the JVP as well as the Tamil separatist war.
+
+...
+
+[Data](articles/658178da.json)
 
 ---
 
@@ -1927,61 +1979,5 @@ Ms. Hirunika Premachandra stressed the presidential election, whether the presen
 [Data](articles/019e7275.json)
 
 [Extended Data](ext_articles/019e7275.ext.json)
-
----
-
-### India has given “lot of offers” for Ramayana Trail, Sri Lanka state minister says
-
-*2024-02-22 20:17:00* · [`economynextcom`](https://economynext.com/india-has-given-lot-of-offers-for-ramayana-trail-sri-lanka-state-minister-says-152016/) · `en`
-
-ECONOMYNEXT – India has given a lot of offers to establish Ramayana Trails in Sri Lanka, State Tourism Minister Diana Gamage said, as the island nation is focusing more on Indian tourists to boost the hospitality industry.
-
-Historians say, according to Hindu mythology, Sri Lanka was the kingdom of Ravana, the ten-headed demon king who abducted Sita, the wife of Rama, the hero of the Ramayana, a smriti text from ancient India, one of the two important epics of Hinduism known as the Itihasas, the other being the Mahabharata.
-
-The epic narrates the life of Rama, a prince of Ayodhya in the kingdom of Kosala.
-
-With the opening of Ram Mandhir in Ayodhya, Sri Lanka has renewed the establishment of Ramayana Trails, which includes all the places believed to be associated with Ramayana.
-
-...
-
-[Data](articles/6c4112f5.json)
-
-[Extended Data](ext_articles/6c4112f5.ext.json)
-
----
-
-### Presidency; spending and elections; Harin’s proclamation
-
-*2024-02-22 20:11:00* · [`islandlk`](http://island.lk/presidency-spending-and-elections-harins-proclamation/) · `en`
-
-The ever-present topic since Ranasinghe Premadasa was assassinated has cropped up again: the abolition of the executive presidency.  JRJ and Premadasa Snr, sat comfortably and all powerful on the Seat of the President, created by the former and charmed with smoky incense by the latter. Sat they did, all powerfully and comfortingly, at least JRJ did.
-
-Prez Premadasa was uncomfortable at times when likely contenders who seemed to be popular with the voting masses appeared within eyesight. Some were even not likely candidates in a presidential election and eyeing his seat. But he knew how to deal with them.  Then came CBK who promised to do away with the post and return power to the Prime Minister and Parliament. That was while campaigning. Once she was voted to occupy the seat, she enjoyed its comfort too much and savoured the power it gave her and she forgot her election promise.
-
-...
-
-[Data](articles/8bf3f9d2.json)
-
-[Extended Data](ext_articles/8bf3f9d2.ext.json)
-
----
-
-### The Radella short road is a terrible accident on the road
-
-*2024-02-22 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193714) · `si`
-
-The Nanu Oya Rellamalla last night was accidental.
-
-Eight injured have been admitted to the Nuwara Eliya General Hospital.
-
-The victim was a bus carrying Sri Pada pilgrimage from the Matara area.
-
-The bus is severely damaged and the Nanu Oya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/3c68f476.json)
-
-[Extended Data](ext_articles/3c68f476.ext.json)
 
 ---

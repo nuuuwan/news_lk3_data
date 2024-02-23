@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 21:51:43**
+As of **2024-02-23 22:03:11**
 
 ## Newspaper Stats
 
-*Scraped **8,944** Articles*
+*Scraped **8,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 483
 adalk | 751
 adaderanalk | 1,070
 tamilmirrorlk | 1,106
-virakesarilk | 1,217
+virakesarilk | 1,220
 adaderanasinhalalk | 1,326
 dailymirrorlk | 1,343
 
@@ -26,51 +26,129 @@ dailymirrorlk | 1,343
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,942 (100.0%) of 8,944 articles have been extended.
+8,947 (100.0%) of 8,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
 
-### රට සිහින පෙන්වා මුදල් ගැරූ කතක් අත්අඩංගුවට
+### Benz - Wesley equal conflict;Benz players Akshan, Mewan shining
+
+*2024-02-23 21:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177156) · `ta`
+
+The commencement of the P. Saravanamuthu Oval Stadium on Friday (23) between St. Blessed College and Wesley College. In the 4th annual 2 -day cricket match for the James Gatman Bowl, two Holy Blessings Players shone, but the rivalry is equal.
+
+Assistant Team Leader Arshan Joseph scored more than 40 runs and Mewan Dissanayake recorded a 5 -wicket row in bowling.
+
+However, it is seen that the two teams are equal to the first day of the game.
+
+The St. Blessed team, who won the first match, lost the wicket in the first innings and scored 150 runs.
+
+The St. Blessed team lost 3 wickets at one point and scored only 35 runs.
+
+In the fourth wicket, the team captain Shanmuganathan Shah Rujan shared 57 runs and rescued the team from the fall.
+
+Shah Rujan got 29 runs and lost the game with 30 runs.
+
+Arshan Joseph, a left -handed and assistant team captain, lost 42 runs to the 8th.
+
+Lalin Subasinghe took 4 wickets for 40 runs while team captain Sanitu Amarasinghe took 4 wickets for 45 runs.
+
+...
+
+[Data](articles/bc167893.json)
+
+[Extended Data](ext_articles/bc167893.ext.json)
+
+---
+
+### A woman arrested for a diverging country
 
 *2024-02-23 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193749) · `si`
 
-ජපානයේ රැකියා ලබාදෙන බව පවසමින් මුදල් වංචාකර සැ﻿ඟව සිටි කාන්තාවක් මිරිහාන විශේෂ වංචා විමර්ශන ඒකකය විසින් අද (23) අත්අඩංගුවට ගෙන තිබේ.
+The Mirihana Special Investigation Unit has been arrested by the Mirihana Special Investigation Unit today (23).
 
-51 හැවිරිදි සැකකාරිය කඩවත ප්‍රදේශයේ පදිංචිව සිට ඇති අතර ජපානයේ රැකියා ලබාදෙන බව පවසා පුද්ගලයින් 250කට ආසන්න පිරිසකගෙන් රුපියල් කෝටි 100ක් පමණ වංචාකර ඇත.
+The 51-year-old resident of Kadawatha has been resident in Kadawatha and about 250 people have been cheated on Rs. 100 million from Japan.
 
-පසුව ඇය ගනුදෙනුකරුවන් මඟහරිමින් අනුරාධපුර, පුත්තලම, කුරුණෑගල ආදී ප්‍රදේශවල සැඟව සිට ඇති අතර ඇයට එරෙහිව විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ වංචා වැටලීම් ඒකකයට පමණක් පැමිණිලි 180ක් පමණ ලැබී තිබේ.
+She was later abiding in the Anuradhapura, Puttalam and Kurunegala, and about 180 complaints of the Foreign Employment Bureau.
 
-සැකකාරියට මහර මහෙස්ත්‍රාත් අධිකරණයෙන් වරෙන්තු 36ක් සහ කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයෙන් වරෙන්තු 11ක් නිකුත් කර තිබූණ ද ඇය විවිධ ප්‍රදේශවලට පළා යමින් සැඟව සිටීම නිසා අත්අඩංගුවට ගැනීමට නොහැකිව තිබූ බව පොලීසිය පැවසුවේය.
+The suspect had been issued 36 warrants from the Mahara Magistrate's Court and 11 warrants from Kaduwela Magistrate's Court.
 
-පසුව සැකකාරිය අත්අඩංගුවට ගෙන ඇත්තේ මීගමුව - හලාවත මාර්ගයේ කුලී නිවසක සැඟව සිටියදීය.
+The suspect was arrested while he was in a rented house at the Negombo and Chilaw road.
 
-ඇය සමීප සබඳතා පවත්වාගෙන ගිය, රැකියාව අහිමිවූ පොලිස් නිලධාරියෙකුද ඇයට අනුබල දීමේ චෝදනාව යටතේ අත්අඩංගුවට ගෙන ඇත.
+She was arrested by a police officer who has maintained close relations and the jobs have been allegedly supporting her.
 
-සැකකාරිය මාර්තු 07 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+Kaduwela Magistrate has ordered the remand of the suspect until March 07.
 
 ◼️
 
 [Data](articles/85d8fc91.json)
 
+[Extended Data](ext_articles/85d8fc91.ext.json)
+
 ---
 
-### මියන්මාරයේ ශ්‍රී ලංකා තානාපතිගෙන් ඉල්ලීමක්
+### Sri Lankans who were targeted in Kuwait were admitted to the hospital with a car when blood was bleeding!
+
+*2024-02-23 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177155) · `ta`
+
+A Sri Lankan who works as a driver of food distribution in Kuwait has been targeted for a customer's shooting for delaying the delivery.
+
+The 44 -year -old from Rajanganaya says he has been living in Kuwait for about 8 years.
+
+Lakshman Tilakaratne, the target of the shooting, said the incident took place on January 10.
+
+The initial location details provided by the customer were incorrect. Because of this, I had to go elsewhere.
+
+However, he said that the customer fired at him as his food supplies were delayed.
+
+As a result, he was admitted to the hospital with the help of an Indian friend who had been bleeding from the wounds and bleeding from the wounds.
+
+Tilakaratne, the father of two girls aged 10 and 13, has asked the concerned authorities to take justice for the horrific incident she faced and to repay her to Sri Lanka.
+
+◼️
+
+[Data](articles/3ec87de9.json)
+
+[Extended Data](ext_articles/3ec87de9.ext.json)
+
+---
+
+### Sri Lankan Ambassador to Myanmar
 
 *2024-02-23 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193748) · `si`
 
-මියන්මාරයේ ත්‍රස්තවාදීන් යටතේ පාලනය වන සයිබර් අපරාධ කඳවුර වෙත තවත් ශ්‍රී ලාංකිකයින් කණ්ඩායම් දෙකක් පැමිණිමට නියමිතව ඇති බවට තමාට වාර්තා වූ බව මියන්මාරයේ ශ්‍රී ලංකා තානාපති ජානක බණ්ඩාර මහතා පවසයි.
+Ambassador of Myanmar says that he had to attend two other Sri Lankans to attend the Cybercriminial Camp administered by Myanmar.
 
-තානාපතිවරයා පවසන්නේ එම කඳවුරේ දැනට රඳවා සිටින ශ්‍රී ලාංකිකයින් මුදාගැනීමට නොහැකි පසුබිමක තවත් කණ්ඩායමක් එම කඳවුරට පැමිණීමෙන් ගැටලුව විසඳීම අසීරු වන බවය.
+The Ambassador says that another team is difficult to resolve the problem with the arrival of the Sri Lankans who are currently detained in the camp.
 
-තම දරුවන් විදෙස්ගත වීමට නියමිත ව ඇති නම්, ඒ ගැන නිවැරදිව සොයා බලා කටයුතු කරන ලෙස මෙරට වැඩිහිටියන්ගෙන් මියන්මාරයේ ශ්‍රී ලංකා තානාපති ජානක බණ්ඩාර මහතා ඉල්ලා සිටියි.
+Ambassador of Myanmar Asks the Elders of Sri Lanka to take a closer look at it, if their children are to be abroad,
 
-මේ අතර, විදුලි සැර වැද්දවීම, කසයෙන් තැලීම වැනි වධ හිංසා දීම ත්‍රස්තවාදීන් තවත් වැඩිකර ඇති බව ග්‍රහණයේ සිටින ලාංකික‍යෝ පවසති.
+Meanwhile, Sri Lankans are in the clutches that the terrorists have increased further more terrorists.
 
 ◼️
 
 [Data](articles/9f3e91fc.json)
+
+[Extended Data](ext_articles/9f3e91fc.ext.json)
+
+---
+
+### Russian tourists who visit the sex industry;Local sex workers are worried
+
+*2024-02-23 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177154) · `ta`
+
+The Sri Lankan government has granted a visa -free entrance permit to seven countries to promote the tourism sector.. Tourists, especially from India, China and Russia, are increasingly visiting.
+
+It has been revealed that many women from Russia have been staying in Sri Lanka for a month and engaged in sex trade. Officials of the Department of Immigration have confirmed that such incidents take place. It is reported that Russian women are collecting money from the wealthy and the elite for only one time or a few hours.
+
+The government has decided to implement a visa -free entrance plan to seven countries, including Russia, aims to revive the tourism industry, which has suffered a severe setback following Easter Sunday attacks, Kovit infection and political crisis.. However, there are now concerns about controlling the activities of individuals who use this plan for illegal purposes.
+
+...
+
+[Data](articles/6bbfc493.json)
+
+[Extended Data](ext_articles/6bbfc493.ext.json)
 
 ---
 
@@ -2041,59 +2119,5 @@ The warm index of the North Western and North Central provinces, the warm index 
 [Data](articles/1fbe6d80.json)
 
 [Extended Data](ext_articles/1fbe6d80.ext.json)
-
----
-
-### Sri Lankan workers in Israel face dilemma, seek job shifts
-
-*2024-02-23 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-workers-in-Israel-face-dilemma-seek-job-shifts/108-277599) · `en`
-
-Colombo, Feb 23 (Daily Mirror) - A contingent of Sri Lankan workers dispatched to Israel to work in the agriculture sector has encountered challenges, with some seeking alternative employment due to reported difficulties on the job, Daily Mirror learns.
-
-Israel's recruitment drive for foreign labourers was prompted by the deportation of thousands of Palestinian workers after the Hamas’ attack on October 7, last year. It led to opportunities for workers from countries like India and Sri Lanka. Sri Lanka which seized the opportunity sent workers to Israel to work both in the construction and agriculture industries.
-
-However, there are reports about some Sri Lankan workers expressing dissatisfaction with the working conditions in the agriculture sector. Complaints range from inadequate facilities to the strenuous nature of farm work. Several workers have reportedly approached the Sri Lankan mission in Tel Aviv, exploring the possibility of switching to different job sectors.
-
-...
-
-[Data](articles/0efac5d6.json)
-
-[Extended Data](ext_articles/0efac5d6.ext.json)
-
----
-
-### People's beneficiaries go further
-
-*2024-02-23 08:10:54* · [`adalk`](https://www.ada.lk/breaking_news/අනුරට-ජනතා-හිතකරත්ව-තවදුරටත්-ඉහළට/11-408241) · `si`
-
-The new survey of Health Policy Agency has revealed that the leader of the national popularity in January 2024 is a decline that the beneficiary rating of the people of the other party leaders.
-
-However, in January, the fisheries rating of the people will continue to be a negative rating.
-
-The overall reliable rating of the National Guaranteed / JVP Anura Kumara Dissanayake has increased by 12 runs and reaches negative 10. Sajith Premadasa, leader of the Sihily Power and Ranil Wickremesinghe has fallen by 9 runs. Accordingly, both of them are 53 and 77 respectively.
-
-◼️
-
-[Data](articles/67f1e2cf.json)
-
-[Extended Data](ext_articles/67f1e2cf.ext.json)
-
----
-
-### Thunderstorm
-
-*2024-02-23 08:05:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-333706) · `ta`
-
-Showers or thunderstorms are expected in many places in the upper, southern, saparagamuwa, central, northwestern and Uva provinces.
-
-In the morning, in some parts of the Galle and Matara districts, the snow may be seen in the morning.
-
-The public is asked to take adequate precautions to reduce the effects of lightning impacts. Remble
-
-◼️
-
-[Data](articles/56a1b136.json)
-
-[Extended Data](ext_articles/56a1b136.ext.json)
 
 ---

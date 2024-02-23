@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-23 18:50:41**
+As of **2024-02-23 19:02:33**
 
 ## Newspaper Stats
 
-*Scraped **8,925** Articles*
+*Scraped **8,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ economynextcom | 459
 islandlk | 464
 dailyftlk | 483
 adalk | 751
-adaderanalk | 1,067
+adaderanalk | 1,068
 tamilmirrorlk | 1,104
-virakesarilk | 1,213
+virakesarilk | 1,214
 adaderanasinhalalk | 1,321
-dailymirrorlk | 1,339
+dailymirrorlk | 1,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,925 (100.0%) of 8,925 articles have been extended.
+8,928 (100.0%) of 8,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-23 (Friday)
+
+### Plot Irakavan's tribute events initiative
+
+*2024-02-23 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177150) · `ta`
+
+Comrade Iragavan or RR (Velayutham Nalnadar), one of the senior generals of the Liberation Tigers of Tamil Eelam (LTTE), and its political wing, the Senior Vice President of the Democratic People's Liberation Front and the Secretary of the Democratic Tamil National Alliance (TNA).
+
+In the Liberation Tigers of Tamil Eelam (LTTE), from 1980 to the present - RR is a senior militant who has completely dedicated a large part of his life on the journey of liberation of the Tamil people.
+
+R.R.. Worship Events for Vittudal will be held at the Colombo office in Bambalapitiya from 9 am to 12 pm on Saturday (24) at the Umamakeswaran Memorial at the Vavuniya Temple Pond on Sunday (25).
+
+Later, the final events were held at 11 am. In the Vavuniya Kovilkulam, the seed is to be done.
+
+◼️
+
+[Data](articles/66b071d3.json)
+
+[Extended Data](ext_articles/66b071d3.ext.json)
+
+---
+
+### Scientists announce discovery of 240-million-year-old ‘Chinese dragon’ fossil
+
+*2024-02-23 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97483/scientists-announce-discovery-of-240-million-year-old-chinese-dragon-fossil) · `en`
+
+Scientists in Scotland have revealed a remarkable discovery of a ‘very strange’ 240-million-year-old ‘Chinese dragon’ fossil.
+
+The international team from National Museums Scotland revealed their discovery -- found in Guizhou Province in southern China -- of the Dinocephalosaurus orientalis, a 5-meter-long aquatic reptile from the Triassic period dating back an estimated 240 million years.
+
+‘With 32 separate neck vertebrae Dinocephalosaurus orientalis had an extraordinarily long neck that draws comparison with that of Tanystropheus hydroides, another strange marine reptile from the Middle Triassic of both Europe and China,’ scientists said announcing the discovery.
+
+‘Both reptiles were of similar size and have several features of the skull in common, including a fish-trap type of dentition,’ officials continued. ‘However, Dinocephalosaurus is unique in possessing many more vertebrae both in the neck and in the torso, giving the animal a much more snake-like appearance.’
+
+...
+
+[Data](articles/ce9ce9fe.json)
+
+[Extended Data](ext_articles/ce9ce9fe.ext.json)
+
+---
 
 ### More Sri Lankans fall victim to Myanmar human trafficking racket?
 
@@ -573,6 +613,28 @@ Therefore, the name 'spa' has to be changed and they should not be allowed to us
 [Data](articles/a0549627.json)
 
 [Extended Data](ext_articles/a0549627.ext.json)
+
+---
+
+### Name ’spa’ has to be changed; spa is something very professional: Diana
+
+*2024-02-23 14:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Name-spa-has-to-be-changed-spa-is-something-very-professional-Diana/155-277610) · `en`
+
+Colombo, Feb 23 (Daily Mirror) - The name 'spa' has to be changed and people should not be allowed to merely use the name spa, Tourism State Minister Diana Gamage said.
+
+Addressing the media, she said the use of the name 'spa' is not appropriate as it implies a high level of professionalism and denotes a wellness center. Therefore, it is imperative to cease using that name.
+
+"The utilization of the name'spa' disrespects the professionalism of individuals working in such establishments. It is important to refrain from using this name to uphold the dignity and respect associated with the spa industry," she said.
+
+"If a lady has to work as a masseur in a spa or in a hotel, and if she goes and says to someone that she is working in a spa, people look at her as if at a prostitute. Because the name spa is being used like that," the State Minister said.
+
+Therefore, the name 'spa' has to be changed and they should not be allowed to use the name spa, she said.
+
+...
+
+[Data](articles/f33c6fd7.json)
+
+[Extended Data](ext_articles/f33c6fd7.ext.json)
 
 ---
 
@@ -2011,63 +2073,5 @@ They also told the committee that a ‘covert operation’ is also being carried
 [Data](articles/892f8a35.json)
 
 [Extended Data](ext_articles/892f8a35.ext.json)
-
----
-
-### The telephone should switch to the night economy
-
-*2024-02-23 04:27:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவு-நேரப்-பொருளாதாரத்திற்கு-மாறவேண்டும்/175-333701) · `ta`
-
-Can increase the country's foreign exchange up to 70 percent by switching to a nightly economy. Minister of Tourism Diana Kamage said that the existing laws and regulations should be amended and provided with the necessary facilities on places that attract more tourists.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-Various entertainment activities play an important role at night in raising the economy of a country. Seeking a night time economy, including entertainment activities for tourists and opening restaurants at night, can increase the country's foreign exchange by about 70 %.. Many countries in the world are using the contribution of the night economy for economic growth.
-
-...
-
-[Data](articles/4f491862.json)
-
-[Extended Data](ext_articles/4f491862.ext.json)
-
----
-
-### Vocational Training Under the University Framework
-
-*2024-02-23 04:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-கட்டமைப்பின்-கீழ்-தொழிற்பயிற்சி/175-333700) · `ta`
-
-President Ranil Wickremesinghe has promised to create a conducive environment for the youth of the country to revive vocational education to suit the modern world.
-
-Accordingly, the President said that it is planning to introduce all the vocational training institutions in the country and bring under the same university structure and introduce textbooks that include new subjects.
-
-President Ranil Wickremesinghe said this while on a supervision visit to the Lalith Athulathali Vocational Training Center yesterday.
-
-The President said that the process of digital change is currently underway and that it is expected to progress with the technology of the day -to -day change.. (A)
-
-◼️
-
-[Data](articles/2d3dd44e.json)
-
-[Extended Data](ext_articles/2d3dd44e.ext.json)
-
----
-
-### Vocational Training Under the University Structure
-
-*2024-02-23 04:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-கட்டமைப்பின்-கீழ்-தொழிற்பயிற்சி/175-333700) · `ta`
-
-President Ranil Wickremesinghe has promised to create a conducive environment for the youth of the country to revive vocational education to suit the modern world.
-
-Accordingly, the President said that it is planning to introduce all the vocational training institutions in the country and bring under the same university structure and introduce textbooks that include new subjects.
-
-President Ranil Wickremesinghe said this while on a supervision visit to the Lalith Athulathali Vocational Training Center yesterday.
-
-The President said that the process of digital change is currently underway and that it is expected to progress with the technology of the day -to -day change.. (A)
-
-◼️
-
-[Data](articles/3971c0c0.json)
-
-[Extended Data](ext_articles/3971c0c0.ext.json)
 
 ---

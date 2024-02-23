@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 00:48:52**
+As of **2024-02-24 01:02:32**
 
 ## Newspaper Stats
 
-*Scraped **8,966** Articles*
+*Scraped **8,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 483
 adalk | 754
 adaderanalk | 1,073
 tamilmirrorlk | 1,107
-virakesarilk | 1,224
+virakesarilk | 1,226
 adaderanasinhalalk | 1,328
 dailymirrorlk | 1,346
 
@@ -26,9 +26,41 @@ dailymirrorlk | 1,346
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,966 (100.0%) of 8,966 articles have been extended.
+8,966 (100.0%) of 8,968 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-24 (Saturday)
+
+### தடைகளை மீறி சிவசேனை மறவன்புலவு சச்சிதானந்தன் ஐயா தலைமையில் மட்டுவில் அண்ணமார் கோவிலில் பெளர்ணமி தினப் பொங்கல்
+
+*2024-02-24 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177162) · `ta`
+
+மட்டுவில் கிராமத்தில் பல நூற்றாண்டுகளாய் வீற்றிருந்து அருள்பாலித்து வரும் அருள்மிகு அண்ணமார் ஆலயத்தின் அருகில் உள்ள நிலப்பரப்பை புதிதாக வாங்கியவர் மதம் மாறியதால் தனது வீட்டு வேலியோடு இருக்கும் அண்ணமார் ஆலயத்தினை அகற்றக்கோரி பிரதேச சபைக்கு அழுத்தம் கொடுத்ததை அடுத்து கோவிலில் வழிபாட்டுக்கு தடைவிதிப்பதாக பிரதேச சபையால் ஊர் மக்களுக்கு அறிவிக்கப்பட்ட நிலையில், ஊரார் நேரடியாக சிவசேனை தலைவர் மறவன்புலவு சச்சிதானந்தன் ஐயா வீட்டிற்கு சென்று தமது மரபுசார் வழிபாட்டை மீட்டுத்தரும்படி வைத்த கோரிக்கையின் அடிப்படையில் மறவன்புலவு சச்சிதானந்தன் ஐயா தலைமையில் இன்று அண்ணமார் ஆலயத்தில் பொங்கல் நிகழ்வு சிறப்பாக நடைபெற்றது.
+
+◼️
+
+[Data](articles/dac11700.json)
+
+---
+
+### வெற்றிலைக்கேணியில் விபத்து : செய்தி சேகரிக்க சென்ற ஊடகவியலாளருக்கு பொலிசாரால் அச்சுறுத்தல்
+
+*2024-02-24 00:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177161) · `ta`
+
+வடமராட்சி கிழக்கு வெற்றிலைக்கேணியடி பகுதியில் வெள்ளிக்கிழமை (23) இடம்பெற்ற விபத்தில் இருவர் படுகாயமடைந்துள்ளனர்.
+
+வெற்றிலைக்கேணியில் இருந்து மருதங்கேணி நோக்கி சென்ற மோட்டார் சைக்கிளும், மருதங்கேணியில் இருந்து வெற்றிலைக்கேணி நோக்கி சென்ற மோட்டார் சைக்கிளும் நேருக்கு நேர் மோதியதிலையே குறித்த விபத்து சம்பவம் பதிவாகியுள்ளது.
+
+சம்பவ இடத்திற்கு வருகைதந்த மருதங்கேணி போக்குவரத்து பொலிசார் விபத்து தொடர்பாக விசாரணைகளை மேற்கொண்டிருந்தவளைச் சம்பவ இடத்திற்கு மருதங்கேணி பொலிசார் சீருடையிலும்  சிவில் உடையில் வந்திருந்தனர்.
+
+சம்பவம் அறிந்து செய்தி சேகரிக்க சென்ற வடமராட்சி கிழக்கு  ஊடகவியலாளரைச் செய்தி சேகரிக்க விடாது சிவில் உடையில் வந்த பொலிசார் தடுத்தது நிறுத்தி அவரது தொலைபேசியையும் பறித்து அதில் பதிவு செய்த வீடியோ மற்றும் புகைப்படங்களை அழித்துள்ளதுடன் அவரது ஊடக அட்டை,  மோட்டார்சைக்கிள் பத்திரங்கள் பறிமுதல் செய்து சிறிது நேரத்தில்  மீண்டும் ஒப்படைத்துள்ளதுடன் அவர் கடுமையாக  மிரட்டப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/846ed466.json)
+
+---
 
 ### 2024-02-23 (Friday)
 
@@ -2069,55 +2101,5 @@ He will also meet with civil society leaders to hear their perspective on democr
 [Data](articles/629f2fb3.json)
 
 [Extended Data](ext_articles/629f2fb3.ext.json)
-
----
-
-### Spacecraft of a private company that has successfully landed in the south of the moon
-
-*2024-02-23 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177094) · `ta`
-
-A spacecraft sent by a private company in the US has successfully landed in the south of the moon. This is the first time that the private company's spacecraft landed on the moon.
-
-The US -owned spacecraft has successfully landed on the moon for the first time after about 50 years.
-
-The Odyseus Lander, sent by a private company in Houston, Texas, has now landed on the moon.
-
-The spacecraft, which has been funded with NASA's funding, has a variety of robots to examine the moon. NASA researchers have said that the mildly signal is available from the spacecraft that landed on the moon for the first time.
-
-However, researchers have said that it is not sure whether the Odisius spacecraft is currently in its entirety.
-
-Located in the shape of a hexagonal spacecraft, the spacecraft has slowed its speed as it approached the moon.
-
-Then the spacecraft that went very slow for an hour landed near the south pole of the moon. According to Sri Lanka, the spacecraft is landing this morning.
-
-◼️
-
-[Data](articles/ae733071.json)
-
-[Extended Data](ext_articles/ae733071.ext.json)
-
----
-
-### Russian opposition leader should be allowed to bury the body of the leader of the opposition
-
-*2024-02-23 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177101) · `ta`
-
-Russian Opposition Leader Alexenawalni has said that her mother has been visiting the body of the Russian opposition leader, saying that her mother should be allowed to bury her son's body secretly.
-
-Lyutmila Navalnya said that I took me to the postponement of the son's body.
-
-According to the law, the authorities have to hand over my son's body but are currently intimidating me, Navalni's mother said.
-
-Navalni's mother said that the authorities are conditional to bury my son's body.
-
-Navalni's mother said that they are trying to take me to the new grave in the distant area of the cemetery and see this is my son's burial.
-
-Navalni's mother said that if they do not comply with the body, they will do something for the body.
-
-◼️
-
-[Data](articles/7d913186.json)
-
-[Extended Data](ext_articles/7d913186.ext.json)
 
 ---

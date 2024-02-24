@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 17:53:03**
+As of **2024-02-24 18:07:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,365
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,049 (100.0%) of 9,052 articles have been extended.
+9,052 (100.0%) of 9,052 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The panel led by Dr. Samitha Ginige, the head of the Epidemiology Unit has arriv
 ...
 
 [Data](articles/107a2234.json)
+
+[Extended Data](ext_articles/107a2234.ext.json)
 
 ---
 
@@ -94,6 +96,8 @@ After engaging in discussions with the President, the leader of the United Repub
 
 [Data](articles/470eb6bc.json)
 
+[Extended Data](ext_articles/470eb6bc.ext.json)
+
 ---
 
 ### China deports two Lankans arrested from empty container
@@ -115,6 +119,8 @@ The two deported individuals were sent from China to the Katunayake Airport by S
 ...
 
 [Data](articles/d15193c4.json)
+
+[Extended Data](ext_articles/d15193c4.ext.json)
 
 ---
 

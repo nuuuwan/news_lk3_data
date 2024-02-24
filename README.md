@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 09:17:17**
+As of **2024-02-24 09:32:51**
 
 ## Newspaper Stats
 
-*Scraped **8,997** Articles*
+*Scraped **8,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 462
 islandlk | 472
 dailyftlk | 483
 adalk | 754
-adaderanalk | 1,074
+adaderanalk | 1,075
 tamilmirrorlk | 1,108
 virakesarilk | 1,228
 adaderanasinhalalk | 1,336
@@ -26,51 +26,75 @@ dailymirrorlk | 1,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,995 (100.0%) of 8,997 articles have been extended.
+8,997 (100.0%) of 8,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### மட்டக்களப்பு வாகனேரியில் மாமியாரை அடித்து கொலை செய்துவிட்டு மருமகன் தப்பி ஓட்டம்
+### The son -in -law escaped after beating her mother -in -law in Batticaloa
 
 *2024-02-24 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177166) · `ta`
 
-மட்டக்களப்பு வாழைச்சேனை பொலிஸ் பிரிவிலுள்ள வாகனேரி பிரதேசத்தில் மருமகன் மாமியாரை  அடித்து கொலை செய்துவிட்டு தப்பி ஓடிய சம்பவம் நேற்று வெள்ளிக்கிழமை (23) இரவு இடம்பெற்றுள்ளதாக வாழசைசேனை பொலிஸார் தெரிவித்தனர்.
+The incident took place last Friday night (23), police said that the incident took place last Friday night (23).
 
-வாகனேரி கூளையடிச்சேனையைச் சேர்ந்த 45 வயதுடைய வைரமுத்து கோமதனி என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+The deceased is 45 -year -old Vairamuthu Gomatani from Wadieri Koolaiyadichenai.
 
-குறித்த சம்பவத்தில் உயிரிழந்தவரின் மகள் திருமணம் முடித்து இரு குழந்தைகள் உள்ள நிலையில் தொழில் வாய்ப்புக்காக வெளிநாடு சென்றுள்ளார். அவரது தாயாருடன் குழந்தைகள் மற்றும் மகளின் கணவன் வாழ்ந்து வருகின்றனர்.
+The daughter of the deceased has gone abroad for employment opportunities. Children and daughter's husband live with her mother.
 
-சம்பவதினமான நேற்று இரவு மாமியார் வீட்டில் தனிமையில் இருந்துள்ளபோது மது போதையில் வந்த மருமகனுக்கும் மாமியாருக்கும் இடையே சண்டை ஏற்பட்டுள்ளது.
+There was a fight between a mother -in -law and mother -in -law when the mother -in -law was alone in the house last night.
 
-இந்நிலையில், மாமியாரின் தலை மீது பாரிய பொருள் ஒன்றால் தாக்கியதையடுத்து அவர் உயிரிழந்துள்ளார். மாமியார் உயிரிழந்ததை அடுத்து 30 வயதுடைய மருமகன் அங்கிருந்து தப்பிஓடியுள்ளார்.
+In this case, he died after he hit a massive object on his mother -in -law's head. The 30 -year -old son -in -law has fled after the mother -in -law died.
 
-இதனையடுத்து அயலவர்கள் பொலிஸாருக்கு தெரிவித்ததையடுத்து சம்பவ இடத்துக்கு சென்ற பொலிஸார் விசாரணைகளை முன்னெடுத்ததுள்ளனர்.
+Following this, neighbors informed the police that the police went to the scene and are conducting investigations.
 
-...
+In addition, they are taking steps to obtain court permission and take steps to hand over the body to the hospital for autopsy.
+
+◼️
 
 [Data](articles/4acf3b61.json)
 
+[Extended Data](ext_articles/4acf3b61.ext.json)
+
 ---
 
-### පොල්අතු පැලක් ගිනිගෙන කාන්තාවක් මිය යයි
+### Woman dies after a coconut plant fire
 
 *2024-02-24 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193759) · `si`
 
-ඊයේ (23) රාත්‍රී කාලයේ ආරච්චිකට්ටුව පොලිස් වසමේ කිරිවල්කැලේ නිවසක් තුළ සිටි කාන්තාවක් පිළිස්සී මිය ගොස් ඇති බව  ආරච්චිකට්ටුව පොලීසිය වාර්තා කරයි.
+Arachchikattuwa Police are buried in a house in the Arachchikattle police division yesterday (23).
 
-මිය ගොස් ඇත්තේ, වයස අවුරුදු 65ක කිරිවල්කැලේ ප්‍රදේශයේ පදිංචි කාන්තාවකි.
+The deceased has been identified as a woman living in the 65-year-old Kiriwalkele area.
 
-මරණකාරිය සිය ස්වාමි පුරුෂයා සමඟ පොල් අතුවලින් තැනූ කුඩා නිවසක ජීවත් ව සිට ඇති අතර, නිවස ගිනි ගැනීමට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
+The victim was living in a small house with her husband, and the cause of the house is yet to be determined.
 
-මරණකාරියගේ ස්වාමි පුරුෂයා මේ වන විට ආරච්චිකට්ටුව පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+The husband of the deceased husband has been arrested by the Arachchikattuwa Police.
 
-ඔහුගෙන් පොලීසිය කළ ප්‍රශ්නකිරීම්වල දී සඳහන් කර ඇත්තේ,  පොල්අතු පැල ගිනි ගන්නා විට තමන් ඉක්මනින් එළියට පැන දිවි බේරා ගත් බව යි.
+According to police interrogation, he is said to raise the coconut shelter when they were burnt to death.
 
 ◼️
 
 [Data](articles/a8f5a22b.json)
+
+[Extended Data](ext_articles/a8f5a22b.ext.json)
+
+---
+
+### Rajiv Gandhi assassination case convict gets document to return to Sri Lanka
+
+*2024-02-24 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97490/rajiv-gandhi-assassination-case-convict-gets-document-to-return-to-sri-lanka-) · `en`
+
+India’s Ministry of External Affairs has issued an emergency travel document for Santhan, one of the freed convicts in the Rajiv Gandhi assassination case, facilitating his immediate deportation to Sri Lanka, foreign media reported.
+
+Santhan, who is currently being held at the special camp at the Tiruchirappalli central prison, will subsequently be escorted by the officials to the Tiruchirappalli International Airport, according to The New Indian Express (TNIE).
+
+Acting on a request from Santhan, the Sri Lankan Deputy High Commission had earlier issued a temporary travel document to him and now India’s Foreigners Registration Office (FRRO) has given an exit permit.
+
+“Once Santhan books the ticket, he will be deported. Instructions have been given to the district administration to escort him until the airport,” District Collector & District Magistrate of Tiruchirappalli, M Pradeep Kumar was quoted as saying by TNIE.
+
+◼️
+
+[Data](articles/055cdc34.json)
 
 ---
 
@@ -2073,31 +2097,5 @@ Achchuveli police, which are responsible for the violence, are investigating the
 [Data](articles/ddf2f132.json)
 
 [Extended Data](ext_articles/ddf2f132.ext.json)
-
----
-
-### Army threatened 3 Tamil journalists in Jaffna
-
-*2024-02-23 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177125) · `ta`
-
-Three Tamil journalists who were on duty in Jaffna, Palali and Vasavilan area have been threatened by the military, as there are allegations of security forces in the North and East.
-
-The cell phones of three journalists have been seized by the military and the photos and videos of it have been destroyed.
-
-Three Tamil journalists - Prabhakaran Dilkson, Sundarambillai Rajeskaran and Chinnaiah Yogeswaran have been threatened by the military.
-
-Journalist Prabhakaran Dilkson reports that the soldiers who photographed him have registered their names.
-
-The public has been granted permission to worship the army of temples in the military control area in Palali Vasavilan, Jaffna.
-
-In this backdrop, the public was gathered in the area liberated by the army in front of the military residence near Palali Road to visit the military -controlled temples at around 8 am today.
-
-It was threatened by the military and the videos and photos on their mobile phone.
-
-...
-
-[Data](articles/7086b1fe.json)
-
-[Extended Data](ext_articles/7086b1fe.ext.json)
 
 ---

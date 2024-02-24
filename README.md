@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 14:33:07**
+As of **2024-02-24 14:48:58**
 
 ## Newspaper Stats
 
-*Scraped **9,033** Articles*
+*Scraped **9,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,083
 tamilmirrorlk | 1,111
 virakesarilk | 1,235
 adaderanasinhalalk | 1,345
-dailymirrorlk | 1,358
+dailymirrorlk | 1,361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,032 (100.0%) of 9,033 articles have been extended.
+9,036 (100.0%) of 9,036 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,28 @@ Others target the state-owned operator of Mir, Russia’s main payment system, w
 ...
 
 [Data](articles/1d39e1e5.json)
+
+[Extended Data](ext_articles/1d39e1e5.ext.json)
+
+---
+
+### Suspected deaths of patients at Kurunegala Hospital raise concern
+
+*2024-02-24 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspected-deaths-of-patients-at-Kurunegala-Hospital-raise-concern/108-277651) · `en`
+
+Feb 24, (Daily Mirror) - The Health Ministry has launched an investigation and appointed a committee to look into the incident surrounding the suspected deaths at the dialysis unit of the Kurunegala Teaching Hospital, sources said.
+
+According to sources, the incident may have occurred due to the entry of certain unidentified pathogens into the blood dialysis unit.
+
+However, the Health Ministry is investigating the entire scenario to ascertain the actual cause of the deaths.
+
+In light of the situation, the health authorities have taken prompt measures to shut down the unit and direct the kidney patients to other nearest units.
+
+◼️
+
+[Data](articles/115dd5d5.json)
+
+[Extended Data](ext_articles/115dd5d5.ext.json)
 
 ---
 
@@ -82,6 +104,20 @@ Investigations are being carried out by the Negombo Excise Office.
 
 ---
 
+### Enrollment to Grade One
+
+*2024-02-24 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Enrollment-to-Grade-One/110-277648) · `en`
+
+An official ceremony was held recently at the Samudradevi Girls' College, Nugegoda for the admission of new children to Grade One for the year 2024. Principal N.P. Sureka Siriwardena, Sri Jayawardenepura Region Education Deputy Director Methsila Ratnayake, Nugegoda Regional Director of Education Dhammi Sujeevani Kodikaraarachchi and officials from the Regional Education Office, teachers, parents and students participated in the event.
+
+◼️
+
+[Data](articles/9bccc31c.json)
+
+[Extended Data](ext_articles/9bccc31c.ext.json)
+
+---
+
 ### Police promise a protestor against a dead body
 
 *2024-02-24 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193767) · `si`
@@ -103,6 +139,20 @@ Police said that investigations are conducting investigations into the suspects 
 [Data](articles/f3af4e47.json)
 
 [Extended Data](ext_articles/f3af4e47.ext.json)
+
+---
+
+### Annual Navam Perahera commences
+
+*2024-02-24 13:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Annual-Navam-Perahera-commences/110-277650) · `en`
+
+President Ranil Wickremesinghe and former President Gotabaya Rajapaksa graced the first day of the Gangarama Navam Perahara in Colombo along with several other dignitaries last night. Traditional drummers, dancers and whip-crackers added colour to the Perahera. Pic by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/7db4987b.json)
+
+[Extended Data](ext_articles/7db4987b.ext.json)
 
 ---
 
@@ -2079,65 +2129,5 @@ The international team from National Museums Scotland revealed their discovery -
 [Data](articles/ce9ce9fe.json)
 
 [Extended Data](ext_articles/ce9ce9fe.ext.json)
-
----
-
-### More Sri Lankans fall victim to Myanmar human trafficking racket?
-
-*2024-02-23 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97482/more-sri-lankans-fall-victim-to-myanmar-human-trafficking-racket) · `en`
-
-The human trafficking racket in Myanmar goes on unabated as more Sri Lankans continue to be brought in for cyber slavery, according to a harrowing statement given by a youth who had fallen victim to the Burmese terror group.
-
-The young man revealed that another Sri Lankan national was recently moved to the cyber slavery camp where he is being forcibly held, and as many as 15 other Sri Lankans including two females were also slated to be brought there.
-
-He said the Sri Lankan embassy in Myanmar, the foreign ministry, the immigration authorities, the president and all respective authorities have been informed about their situation, urging them to take necessary action without delay.
-
-In December 2023, media reports shed light on the plight of a group of about 50-60 Sri Lankans, who were lured with tourist visas behind the false front of lucrative IT sector job offers and are being held captive in Myanmar by a notorious ethnic armed group.
-
-...
-
-[Data](articles/e7dd80c0.json)
-
-[Extended Data](ext_articles/e7dd80c0.ext.json)
-
----
-
-### Heavy accidents in Kahathuduwa - Rilawala
-
-*2024-02-23 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193744) · `si`
-
-A motorbike and a car collided at Kahathuduwa - Rilawala area in Kahathuduwa today (23).
-
-Kahathuduwa police said that the injured is currently being treated at the cost of length.
-
-The accident occurred when a motorbike from Kawathu to reach the Mattagoda - Galle road in Colombo, the accident occurred.
-
-Investigations carried out by the police have revealed that the motorcyclist and the car driver's unfuse driver was the cause of the accident.
-
-◼️
-
-[Data](articles/dfff2cff.json)
-
-[Extended Data](ext_articles/dfff2cff.ext.json)
-
----
-
-### Sri Lanka will not jeopardise India’s security concerns: State Minister
-
-*2024-02-23 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-will-not-jeopardise-Indias-security-concerns-State-Minister/108-277614) · `en`
-
-Feb 23 - State Minister of Foreign Affairs Tharaka Balasuriya has assured India that the island will not be used by another country jeopardising India’s security concerns.
-
-The Minister made these comments speaking to Indian media on the sidelines of the 9th edition of Raisina Dialogue in Delhi, responding to questions about a Chinese vessel docking in the Maldives waters on Friday.
-
-"India should not be worried about the security concern. We know India’s growing stature and we will not be used by any third party or country to jeopardize India’s security. So through honest and candid exchange of views, we can overcome any problem," Balasuriya said.
-
-Assuring New Delhi on security concerns, he said: "We are open for business with any country. But when it comes to India we have a special relationship. I think India should not be worried about our relationship with China. It’s not only with China, we have good relations with Western countries, the US, Russia, and the Middle East.”
-
-◼️
-
-[Data](articles/f1525b71.json)
-
-[Extended Data](ext_articles/f1525b71.ext.json)
 
 ---

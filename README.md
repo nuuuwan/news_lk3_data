@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 08:17:47**
+As of **2024-02-24 08:33:52**
 
 ## Newspaper Stats
 
-*Scraped **8,978** Articles*
+*Scraped **8,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 110
 dbsjeyarajcom | 160
 newsfirstlk | 363
 economynextcom | 462
-islandlk | 464
+islandlk | 472
 dailyftlk | 483
 adalk | 754
 adaderanalk | 1,074
@@ -26,7 +26,7 @@ dailymirrorlk | 1,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,977 (100.0%) of 8,978 articles have been extended.
+8,978 (99.9%) of 8,986 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Wind will be variable and wind speed will be 15-25 kmph in the sea areas around 
 ...
 
 [Data](articles/3c05c5e9.json)
+
+[Extended Data](ext_articles/3c05c5e9.ext.json)
 
 ---
 
@@ -211,6 +213,80 @@ International security issues were also discussed during the meeting. Deputy Sec
 [Data](articles/15a6da34.json)
 
 [Extended Data](ext_articles/15a6da34.ext.json)
+
+---
+
+### LOLC Divi Saviya initiative garners national recognition
+
+*2024-02-24 02:25:00* · [`islandlk`](http://island.lk/lolc-divi-saviya-initiative-garners-national-recognition/) · `en`
+
+LOLC Holdings PLC, the esteemed Sri Lankan multinational conglomerate, received a prestigious recognition from the Ministry of Education at national level, for its outstanding humanitarian endeavour, “LOLC Divi Saviya,” dedicated to enhancing the educational prospects of the nation’s children. This historic accolade signifies the first time a private sector entity has been honoured by the Ministry with such an esteemed national-level acknowledgment for its impactful efforts in enriching the educational space of the country.
+
+...
+
+[Data](articles/2e4b0203.json)
+
+---
+
+### CSE launches version3 of its Business Intelligence Dashboard – CSE Market IQ (MIQ)
+
+*2024-02-24 02:25:00* · [`islandlk`](http://island.lk/cse-launches-version3-of-its-business-intelligence-dashboard-cse-market-iq-miq/) · `en`
+
+The Colombo Stock Exchange (CSE) recently launched the 3rd version of its internal business intelligence dashboard coined the CSE ‘Market IQ’ (MIQ). This advanced version of the business intelligence dashboard, which was specifically designed to convert analysed data into insights for the convenience of internal stakeholders, is a major step into the future of market analysis and reporting.
+
+As the operator of the Stock Exchange in Sri Lanka, the CSE is statutorily mandated to operate an orderly and efficient securities market. The CSE’s ‘Market IQ’ aims to further facilitate this mandate by integrating key information into a single platform that can be accessed easily, facilitating accuracy and efficiency.
+
+The advanced level of this dashboard further elevates the effectiveness of managerial decision-making by providing a seamless understanding of investors’ trading behaviour, paving the way for strategic decisions aligned with investor needs.
+
+...
+
+[Data](articles/69537dc8.json)
+
+---
+
+### Bilateral talks on facilitation of Sticky Rice imports to Sri Lanka
+
+*2024-02-24 02:25:00* · [`islandlk`](http://island.lk/bilateral-talks-on-facilitation-of-sticky-rice-imports-to-sri-lanka/) · `en`
+
+Visiting Japanese Agriculture Minister Norikasu Suzuki had requested the government to ease stringent laws governing the importation of Sticky Rice to Sri Lanka, The Island Financial Review reliably learns.
+
+Responding to the Japanese minister, Agriculture and Plantation Industries Minister Mahinda Amaraweera said that already a Cabinet paper had been submitted in this regard.
+
+The Lankan minister agreed that strict laws were implemented during the Covid epidemic and that they had been a stumbling block when it comes to importing some goods and material.
+
+Sticky Rice health benefits include increased bone density, decreased inflammation and improved heart health. The Japanese Sticky Rice is believed to boost metabolism as well. Sticky Rice is usually served to tourists in star class hotels in Sri Lanka.
+
+...
+
+[Data](articles/9d040576.json)
+
+---
+
+### SLT-MOBITEL Enterprise launches tailored suite solutions for MSMEs to ‘Soar Beyond Limits’
+
+*2024-02-24 02:24:00* · [`islandlk`](http://island.lk/slt-mobitel-enterprise-launches-tailored-suite-solutions-for-msmes-to-soar-beyond-limits/) · `en`
+
+SLT-MOBITEL, the National ICT Solutions Provider, has unleashed its new SLT-MOBITEL Enterprise initiative titled ‘Soar Beyond Limits’ presenting Micro, Small, And Medium-Sized Enterprises (MSMEs) a tailored suite of business solutions to achieve digital transformation and increase their contribution towards the economic development of the nation. Through this initiative, SLT-MOBITEL looks forward to enabling MSMEs to drive substantial progress across key metrics including economic growth, technological readiness, and the ability to harness technology for innovation to meet local demands.
+
+At an Enterprise product Forum held recently, SLT-MOBITEL Enterprise provided MSME business owners launched Cubkit web builder, Akaza HR, Akaza ERP and provided participants with the opportunity to immerse and interact with these products.
+
+...
+
+[Data](articles/72c86427.json)
+
+---
+
+### Uber Eats celebrates couriers with awards worth LKR 8 million
+
+*2024-02-24 02:12:00* · [`islandlk`](http://island.lk/uber-eats-celebrates-couriers-with-awards-worth-lkr-8-million/) · `en`
+
+Uber Eats, Sri Lanka’s most loved food and grocery delivery platform, celebrated the contribution of couriers on its platform at the fourth edition of ‘Delivery Bonanza’. The company recognized 300 most-engaged couriers who provided a great platform experience to eaters through reliable and seamless deliveries. The couriers were recognised basis maximum deliveries with least cancellations, quality or safety-related issues.
+
+As part of Delivery Bonanza 4.0, select couriers across Colombo, Kandy, Kurunegala, Negombo, Kaluthra, Galle, Beruwala, and Bandaragama were recognized for their consistent contribution to the Uber Eats platform with gifts worth LKR 8 million. Gifts ranged from different large home appliances to multi-store gift vouchers and rain-shield packs. Grand prizes for eleven of the most engaged couriers included an electric motorbike, electric scooters and e-cycles.
+
+...
+
+[Data](articles/e6e05faf.json)
 
 ---
 
@@ -2029,113 +2105,5 @@ WION: How do you see the India-Sri Lanka relationship, especially in the light o
 [Data](articles/962454e5.json)
 
 [Extended Data](ext_articles/962454e5.ext.json)
-
----
-
-### Shocking news about the university student who died
-
-*2024-02-23 12:28:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/உயிரிழந்த-பல்கலைக்கழக-மாணவன்-குறித்து-அதிர்ச்சி-செய்தி/71-333708) · `ta`
-
-Shocking news about a university student who died in an accident yesterday (21) in Jaffna
-
-It is reported that the student was killed when he returned to a house and set fire to the vehicle.
-
-The university student died after being unable to control the motorcycle as the dog ran across the Achchuveli police division in the early hours of this morning.
-
-Yall. Ramesh Saintan (22), a newly elected man from Manipay, Vembadi, has died.
-
-Another young man from Manipayi was admitted to the Jaffna Teaching Hospital after the student's death was mysterious.
-
-Investigations conducted by him revealed that he was traveling on a motorbike with a university student who died.
-
-At this point, an attempt was attended by a house in Udupitiya, which belongs to the Valvettithurai police division. When the police investigated the matter at various angles, it was revealed that the university student had been involved in the accident while entering the house and using a paddle batting and returning to the air.
-
-...
-
-[Data](articles/b36e3f2a.json)
-
-[Extended Data](ext_articles/b36e3f2a.ext.json)
-
----
-
-### Deputy Deputy Secretary of State of the US State Department visits Sri Lanka
-
-*2024-02-23 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177112) · `ta`
-
-Richard Verma, Deputy Secretary of State for Management and Resources of the US State Department, has visited Sri Lanka.
-
-US Ambassador Julie Sung welcomed Richard Verma, Deputy Secretary of State for Management and Resources of the US State Department, who has visited Sri Lanka.
-
-His visit to Sri Lanka reflects the best results of the US -Sri Lankan friendship and the US Ambassador posted that it is important in Indo -Pacific.
-
-Meanwhile, a meeting between Richard Verma, Deputy Secretary of State for Management and Resources, Richard Verma, was held today (23).
-
-◼️
-
-[Data](articles/8ce1e65c.json)
-
-[Extended Data](ext_articles/8ce1e65c.ext.json)
-
----
-
-### Tania's death gets IPL star
-
-*2024-02-23 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193732) · `si`
-
-Indian police have also issued notice to Indian cricketer Abhishek Shiram questioned Indian cricketer, Tania Singh, an Indian fashion.
-
-The 28-year-old Tania Singh had taken place on Monday (19) and took the neck in the bedroom in the bedroom.
-
-However, investigations have been unable to find out to the death of her suicide and revealed that she had close association with IPL player Abhishek Sharma playing to the Sunrises Hyderabad team.
-
-However, preliminary investigations have revealed that he had not given any answer for what she sent to her for a few days.
-
-Accordingly, cricketer Abhishek Sham is also questioned by Tania Singh's death.
-
-Apol, a three-genuine player, plays for Sunrises Hyderabad team in Indian Premier League.
-
-Abhishek was first played at the IPL Capitals team at the IPL.
-
-◼️
-
-[Data](articles/2ad88d13.json)
-
-[Extended Data](ext_articles/2ad88d13.ext.json)
-
----
-
-### Richard Verma met the president
-
-*2024-02-23 11:47:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்த-ரிச்சர்ட்-வர்மா/175-333707) · `ta`
-
-A meeting between Richard Verma, Deputy Secretary of State for Management and Resources of the US State Department, and President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/8998f30e.json)
-
-[Extended Data](ext_articles/8998f30e.ext.json)
-
----
-
-### Sri Lankan athletes gearing up for Paris Olympics
-
-*2024-02-23 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-athletes-gearing-up-for-Paris-Olympics/108-277607) · `en`
-
-Colombo, Feb. 23 (Daily Mirror) - The Minister of Sports Harin Fernando has recommended a squad of 58 athletes for the High-Performance Pool in preparation for the Paris Olympic Games and the Paralympics Games 2024.
-
-The Paris Summer Olympic Games will be held from July 26 to August 11 and the Paralympics Games from August 28 to September 8 in Paris, France.
-
-A total of 33 athletes are preparing for the Paris Olympics Games in 11 different sports disciplines while a total of 25 athletes are gearing up for the Paralympics Games in eight different sports disciplines, Director General, Department of Sports Development Dr. Shemal Fernando said yesterday.
-
-Of the 33 athletes 19 of them will be vying for honours in the track and field events at the Paris Olympic Games.
-
-This initiative ensures that Sri Lankan High-Performance athletes to receive all necessary facilities and funding to participate, besides a monthly allowance ahead of the Olympics and Paralympics Games.
-
-...
-
-[Data](articles/9c59924a.json)
-
-[Extended Data](ext_articles/9c59924a.ext.json)
 
 ---

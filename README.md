@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 18:33:56**
+As of **2024-02-24 18:51:35**
 
 ## Newspaper Stats
 
-*Scraped **9,054** Articles*
+*Scraped **9,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,90 @@ adalk | 759
 adaderanalk | 1,087
 tamilmirrorlk | 1,113
 virakesarilk | 1,240
-adaderanasinhalalk | 1,346
+adaderanasinhalalk | 1,353
 dailymirrorlk | 1,365
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,052 (100.0%) of 9,054 articles have been extended.
+9,054 (99.9%) of 9,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### ஒரு வருடத்திற்குப்பின் இலங்கையர்களை நாடு கடத்திய சீனா
+### 2024 සිට මේ දක්වා වනඅලි 33ක් මරුට
+
+*2024-02-24 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193777) · `si`
+
+2024 ජනවාරි මස සිට මේ දක්වා වනඅලි 33 දෙනෙකු පමණ මියගොස් ඇති බව පරිසරවේදීන් පෙන්වා දෙයි.
+
+අද (24) දිනයේ මහියංගනය ප්‍රදෙශයේදී ද අනවසර විදුලි රැහැනක පැටලී වනඅලියෙකු මියගොස් ඇත.
+
+වනඅලි මරණයට පත්කරන පුද්ගලයන්ට එරෙහිව තදින් නීතිය ක්‍රියාත්මක කරන ලෙස පරිසර සංවිධාන රජයෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/bc1627e6.json)
+
+---
+
+### පඩි වැඩිකර ගත් මහ බැංකු නිලධාරීන් පාර්ලිමේන්තුවට කැඳවයි ?
+
+*2024-02-24 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193776) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුවේ නිලධාරීන් පාර්ලිමේන්තුවට කැඳවීමට මුදල් කමිටු කිහිපයක් තීරණය කර තිබේ.
+
+ඒ මහ බැංකු සේවකයින්ගේ වැටුප ඔවුන් විසින් සියයට 70කින් ඉහළ නංවාගෙන ඇති බව කියන සිද්ධිය සම්බන්ධයෙන් ප්‍රශ්න කිරීම සඳහා බව වාර්තා වෙයි.
+
+මහ බැංකු නිලධාරීන් විසින් ඔවුන්ගේ වැටුප ඉහළ නංවාගෙන ඇති බවට පසුගියදා තොරතුරු වාර්තා වුණි.
+
+එම සිද්ධිය රට තුළ මහත් ආන්දෝලානාත්මක තත්ත්වයක් ඇති කළ අතර විපක්ෂයේ මන්ත්‍රීවරුන් පාර්ලිමේන්තුව තුළ පවා ඒ සම්බන්ධයෙන් ප්‍රශ්න කර සිටියේය.
+
+විපක්ෂයේ ප්‍රධාන සංවිධායක ලක්ෂමන් කිරිඇල්ල මන්ත්‍රීවරයා පසුගියදා පාර්ලිමේන්තුවේදී, මහ බැංකු නිලධාරීන් පාර්ලිමේන්තුවට කැඳවා ප්‍රශ්න කරන ලෙස කථානායකවරයාගෙන් ඉල්ලීමක් ද කළේය.
+
+◼️
+
+[Data](articles/36d0bff4.json)
+
+---
+
+### China deported Sri Lankans a year later
 
 *2024-02-24 17:40:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-வருடத்திற்குப்பின்-இலங்கையர்களை-நாடு-கடத்திய-சீனா/175-333732) · `ta`
 
-கொள்கலன் ஒன்றில் மறைந்திருந்து மலேசியாவிற்கு தப்பிச் செல்ல முயன்ற போது சீனாவில் கைது செய்யப்பட்ட இரு இலங்கையர்களும் ஒரு வருடத்தின் பின்னர் இன்று (24) நாடு கடத்தப்பட்டுள்ளனர்.
+Two Sri Lankans arrested in China have been deported today (24) after they tried to flee to Malaysia.
 
-இந்த 2 சந்தேக நபர்களும் கொழும்பு துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டிருந்த கப்பலில் இருந்த கொள்கலனில் மறைந்து மலேசியாவிற்கு தப்பிச் செல்ல முயற்சித்துள்ளனர்.
+The two suspects have tried to flee to Malaysia in the container on the ship parked at the port of Colombo.
 
-அவர்களில் ஒருவர் 26 வயதுடைய மலர்மதி ராஜேந்திரன் என்றும் மற்றவர் 39 வயதான ஜெயக்குமார் தருமராசா என்றும் தெரிவிக்கப்படுகின்றது.
+One of them is said to be 26 -year -old Mallarmathi Rajendran and the other is 39 -year -old Jayakumar Darumarasa.
 
-கடந்த ஜனவரி 30, 2023 அன்று குறித்த இருவரும் மலேசியா செல்வதற்காக கொழும்பு துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டிருந்த 'மெர்க்ஸ் யூனிகார்ன்' கப்பலில் ஏற்றப்பட்ட வெற்று கொள்கலனுக்குள் இரகசியமாக நுழைந்துள்ளனர்.
+On January 30, 2023, the two men secretly entered the empty container loaded with the 'Merks Unicorn' ship parked at the Port of Colombo to go to Malaysia.
 
-ஆனால் குறித்த கப்பல் மலேசியாவிற்கு வந்தபோது, ​​கொள்கலனில் மறைந்திருந்த இரு சந்தேக நபர்களையும் மலேசியா ஏற்றுக்கொள்ள மறுத்ததால், அதிகாரிகள் சந்தேக நபர்களை ஏற்றிக்கொண்டு பல நாடுகளுக்குச் சென்று இறுதியாக சீனாவிற்கு சென்றுள்ளனர்.
+But when the ship arrived in Malaysia, Malaysia refused to accept the two suspects in the container, and the authorities had gone to many countries and finally went to China.
+
+The two suspects were sent to Katunayake airport from Shanghai, China, by SriLankan Airlines (UL-867) at 5.01 am this morning.
 
 ...
 
 [Data](articles/ac5fa494.json)
+
+[Extended Data](ext_articles/ac5fa494.ext.json)
+
+---
+
+### මමත් දැන් දරුවෙක් ඉන්න පියෙක් - සජිත්
+
+*2024-02-24 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193775) · `si`
+
+තමා ද දැන් දරුවෙක් ඉන්න පියෙක් බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අද ජනහමුවකදී පැවසීය.
+
+මේ රටේ බිහිවෙන සෑම දරුවෙකුටම පෞද්ගලික රෝහල්වලින් ලැබෙන සැලකිල්ලම රජයේ රෝහල් තුළින් ලබාදීමේ වැඩපිළිවෙල තමන් දියත් කරන බවද ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/bb6695a9.json)
 
 ---
 
@@ -71,6 +125,24 @@ The panel led by Dr. Samitha Ginige, the head of the Epidemiology Unit has arriv
 [Data](articles/107a2234.json)
 
 [Extended Data](ext_articles/107a2234.ext.json)
+
+---
+
+### මාන්තිව් දූපතේ නව බන්ධනාගාරයක් ස්ථාපිත කිරීමට අවධානය
+
+*2024-02-24 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193774) · `si`
+
+නැගෙනහිර පළාතේ මඩකලපුව නගරයට ආසන්න මුහුදු තීරයේ පිහිටා ඇති මාන්තිව් දූපතේ නව බන්ධනාගාරයක් හෝ පුනරුත්ථාපන මධ්‍යස්ථානයක් ස්ථාපිත කිරීමේ හැකියාව පවතින බව අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ මාන්තිව් දූපත නිරීක්ෂණ කිරීමට ඊයේ (23) එම ස්ථානයට ගිය අවස්ථාවේ දීය.
+
+කොවිඩ් සමයේ ශ්‍රී ලංකා ගුවන් හමුදාව භාරයට ගෙන කොවිඩ් වැළඳුන ගුවන් හමුදා නිලධාරීන් නිරෝධායනය කිරීමට පහසුකම් සලසාදී තිබූ මාන්තිව් දූපතේ මේ වනවිට ලාදුරු රෝගීන් දෙදෙනෙකු පමණක් රඳවා සිටින බවත් ඊට වඩා ඵලදායී කාර්ය්‍යක් එයින් ලබාගත හැකි බවත් අමාත්‍යවරයා පවසයි.
+
+එබැවින් එම ලාදුරු රෝගීන් දෙදෙනා සෞඛ්‍ය අමාත්‍යාංශය සමග සාකච්ඡා කර බෝ වන රෝගීන් සිටින ස්ථානයක් කරා මාරුකිරීමේ හැකියාව පවතින බවත් ඒ සම්බන්ධයෙන් අදාළ බලධාරීන් සමග සාකච්ඡා කර මෙම ස්ථානයේ බන්ධනාගාරයක් හෝ පුනරුත්ථාපන මධ්‍යස්ථානයක් ස්ථාපිත කිරීමට ඇති හැකියාව පිළිබඳ සොයා බැලීමට කටයුතු කරන බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/221b8534.json)
 
 ---
 
@@ -97,6 +169,22 @@ Onward investigations into the incident are being carried out by the Negombo Exc
 [Data](articles/d87ec85c.json)
 
 [Extended Data](ext_articles/d87ec85c.ext.json)
+
+---
+
+### කුරුණෑගල රෝහලේ සිද්ධිය සොයන්න කමිටුවක්
+
+*2024-02-24 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193773) · `si`
+
+කුරුණෑගල ශික්ෂණ රෝහලේ රුධිර කාන්දුකරණ ඒකකයේ සිදුවීම පිළිබඳව කරුණු සෙවීමට සෞඛ්‍ය ආමාත්‍යාංශයෙන් පංච පුද්ගල විද්වත් කමිටුවක් පත්කර තිබේ.
+
+කුරුණෑගල ශික්ෂණ රෝහලේ රුධිර කාන්දුකරණ ඒකකයට ඇතුළත් කළ සමහර රෝගීන්ගේ යම්කිසි සංකූලතා කිහිපයක් සහ ජනවාරි මස සිට මේ දක්වා මරණ කිහිපයක් වාර්තා වී ඇත.
+
+ඒ පිළිබඳ වැඩිදුර සොයා බැලීම සඳහා සෞඛ්‍ය අමාත්‍යාංශය මෙලෙස 05 දෙනෙකුගෙන් යුත් විද්වත් කමිටුවක් පත්කර ඇති බව සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසයි.
+
+◼️
+
+[Data](articles/b750e293.json)
 
 ---
 
@@ -144,6 +232,26 @@ The two deported individuals were sent from China to the Katunayake Airport by S
 
 ---
 
+### පාඨලී ජනපතිව හමුවෙයි
+
+*2024-02-24 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193772) · `si`
+
+ජනාධිපතිවරණය නියමිත කාලයට පැවැත්වීමට කටයුතු කරන අතර මහ මැතිවරණය ලබන වසර මුලදී පැවැත්වීමට අපේක්ෂා කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා ඒ බව පවසා සිටියේ,  එක්සත් ජනරජ පෙරමුණේ නායක පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා ඇතුළු නියෝජිත කණ්ඩායම ජනාධිපතිවරයා හමුවූ අවස්ථාවේදීය.
+
+“දේශය වෙනුවෙන් එක් වන පියවරක්” මැයෙන් එක්සත් ජනරජ පෙරමුණ විසින් පසුගියදා රටට ඉදිරිපත් කළ යෝජනාවලිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගැන්වීම කොළඹ සිරිකොත එක්සත් ජාතික පක්ෂ මූලස්ථානයේදී අද (24) පෙරවරුවේ සිදු විය.
+
+එක්සත් ජනරජ පෙරමුණේ නායක පාර්ලිමේන්තු මන්ත්‍රී පාඨලි චම්පික රණවක මහතා ඇතුළු නියෝජිත කණ්ඩායම ජනාධිපතිවරයා හමුවී සාකච්ඡාවක නිරත වීමෙන් අනතුරුව අදාළ යෝජනාවලිය ජනාධිපතිවරයා වෙත පිළිගැන්වීය.
+
+මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ රටේ බිඳවැටුණු ආර්ථිකය යළි ස්ථාවර කරගැනීමට පසුගිය දෙවසරක කාලය තුළ රජය මහත් පරිශ්‍රමයකින් කටයුතු කළ බවය.
+
+...
+
+[Data](articles/e151974b.json)
+
+---
+
 ### “United Action for the Country”
 
 *2024-02-24 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177203) · `ta`
@@ -179,6 +287,22 @@ Kandy, Feb. 24 (Daily Mirror)- Renewing his pledge made during the 2019 Presiden
 [Data](articles/9087af98.json)
 
 [Extended Data](ext_articles/9087af98.ext.json)
+
+---
+
+### රාජගිරියේ ගින්නක්
+
+*2024-02-24 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193770) · `si`
+
+රාජගිරිය ඔබේසේකරපුර ප්‍රදේශයේ පිහිටි වෙළෙඳසැලක අද (24) දහවල් ගින්නක් හටගෙන තිබේ.
+
+උත්සව භාණ්ඩ නිෂ්පාදන වෙළෙඳසැලක මෙම ගින්න හටගෙන ඇති බව අප වාර්තාකරු සඳහන් කළේය.
+
+ගින්න මැඩපැවැත්වීම සඳහා කෝට්ටේ මහනගර සභාවේ ගිනි නිවීම් ඒකකය කැඳවා තිබුණි.
+
+◼️
+
+[Data](articles/887abd8e.json)
 
 ---
 
@@ -874,21 +998,25 @@ The officials of the Sri Lanka Atomic Energy Regulatory Council told the committ
 
 ---
 
-### மாமியார்‌ அடித்து கொலை; மருமகன் தப்பியோட்டம்
+### Mother -in -law beaten;Nephew escapes
 
 *2024-02-24 10:33:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மாமியார்-அடித்து-கொலை-மருமகன்-தப்பியோட்டம்/73-333731) · `ta`
 
-மட்டக்களப்பு வாழைச்சேனை பொலிஸ் பிரிவிலுள்ள வாகனேரி பிரதேசத்தில் மருமகன் மாமியாரை  அடித்து கொலை செய்துவிட்டு தப்பி ஓடிய சம்பவம் வெள்ளிக்கிழமை (23) இரவு 9 மணியளவில் இடம்பெற்றுள்ளதாக வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
+Valaichenai police said that the incident took place at 9 pm on Friday (23) at 9 pm.
 
-வாகனேரி கூளையடிச்சேனையைச் சேர்ந்த 45 வயதுடைய வைரமுத்து கோமதனி என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+The deceased is 45 -year -old Vairamuthu Gomatani, a 45 -year -old from Wadieri Koolayadichenai.
 
-குறித்த சம்பவத்தில் உயிரிழந்தவரின் மகள் திருமணம் முடித்து இரு குழந்தைகள் உள்ள நிலையில் தொழில் வாய்ப்புக்காக வெளிநாடு சென்றுள்ள நிலையில் அவரது தாயாருடன் குழந்தைகள் மற்றும் அவரது கணவன் வாழ்ந்து வருகின்றனர்.
+The daughter of the deceased and her husband is living with her mother and her mother who has gone abroad for employment opportunities.
 
-இந்த நிலையில் மருமகன் மதுபோதையில் மாமியாருடன் தினமும் சண்டையிட்டு வந்துள்ள நிலையில் சம்பவ தினம்‌ இரவு மாமியார்வீட்டில் தனிமையில் இருந்துள்ளபோது மது போதையில் வந்த மருமகனுக்கும் மாமியாருக்கும் இடையே சண்டை ஏற்பட்ட நிலையில் மாமியாரின் தலை மீது பாரிய பொருள் ஒன்றால் தாக்கியதையடுத்து அவர் உயிரிழந்ததையடுத்து 30 வயதுடைய மருமகன் அங்கிருந்து தப்பி ஓடியுள்ளார் என பொலிசாரின் ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+The 30 -year -old son -in -law has fled the scene after he died after he died after he died after a massive object was attacked by a mother -in -law when he was in a lonely mother -in -law.
 
-...
+Subsequently, the police informed the police that the police went to the scene and were conducting investigations and taking steps to recruit the body for autopsy.
+
+◼️
 
 [Data](articles/55bf745a.json)
+
+[Extended Data](ext_articles/55bf745a.ext.json)
 
 ---
 
@@ -1965,169 +2093,5 @@ It is reported that the two countries are discussing the future action against i
 [Data](articles/918709aa.json)
 
 [Extended Data](ext_articles/918709aa.ext.json)
-
----
-
-### Benz - Wesley equal conflict;Benz players Akshan, Mewan shining
-
-*2024-02-23 21:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177156) · `ta`
-
-The commencement of the P. Saravanamuthu Oval Stadium on Friday (23) between St. Blessed College and Wesley College. In the 4th annual 2 -day cricket match for the James Gatman Bowl, two Holy Blessings Players shone, but the rivalry is equal.
-
-Assistant Team Leader Arshan Joseph scored more than 40 runs and Mewan Dissanayake recorded a 5 -wicket row in bowling.
-
-However, it is seen that the two teams are equal to the first day of the game.
-
-The St. Blessed team, who won the first match, lost the wicket in the first innings and scored 150 runs.
-
-The St. Blessed team lost 3 wickets at one point and scored only 35 runs.
-
-In the fourth wicket, the team captain Shanmuganathan Shah Rujan shared 57 runs and rescued the team from the fall.
-
-Shah Rujan got 29 runs and lost the game with 30 runs.
-
-Arshan Joseph, a left -handed and assistant team captain, lost 42 runs to the 8th.
-
-Lalin Subasinghe took 4 wickets for 40 runs while team captain Sanitu Amarasinghe took 4 wickets for 45 runs.
-
-...
-
-[Data](articles/bc167893.json)
-
-[Extended Data](ext_articles/bc167893.ext.json)
-
----
-
-### A woman arrested for a diverging country
-
-*2024-02-23 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193749) · `si`
-
-The Mirihana Special Investigation Unit has been arrested by the Mirihana Special Investigation Unit today (23).
-
-The 51-year-old resident of Kadawatha has been resident in Kadawatha and about 250 people have been cheated on Rs. 100 million from Japan.
-
-She was later abiding in the Anuradhapura, Puttalam and Kurunegala, and about 180 complaints of the Foreign Employment Bureau.
-
-The suspect had been issued 36 warrants from the Mahara Magistrate's Court and 11 warrants from Kaduwela Magistrate's Court.
-
-The suspect was arrested while he was in a rented house at the Negombo and Chilaw road.
-
-She was arrested by a police officer who has maintained close relations and the jobs have been allegedly supporting her.
-
-Kaduwela Magistrate has ordered the remand of the suspect until March 07.
-
-◼️
-
-[Data](articles/85d8fc91.json)
-
-[Extended Data](ext_articles/85d8fc91.ext.json)
-
----
-
-### Sri Lankans who were targeted in Kuwait were admitted to the hospital with a car when blood was bleeding!
-
-*2024-02-23 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177155) · `ta`
-
-A Sri Lankan who works as a driver of food distribution in Kuwait has been targeted for a customer's shooting for delaying the delivery.
-
-The 44 -year -old from Rajanganaya says he has been living in Kuwait for about 8 years.
-
-Lakshman Tilakaratne, the target of the shooting, said the incident took place on January 10.
-
-The initial location details provided by the customer were incorrect. Because of this, I had to go elsewhere.
-
-However, he said that the customer fired at him as his food supplies were delayed.
-
-As a result, he was admitted to the hospital with the help of an Indian friend who had been bleeding from the wounds and bleeding from the wounds.
-
-Tilakaratne, the father of two girls aged 10 and 13, has asked the concerned authorities to take justice for the horrific incident she faced and to repay her to Sri Lanka.
-
-◼️
-
-[Data](articles/3ec87de9.json)
-
-[Extended Data](ext_articles/3ec87de9.ext.json)
-
----
-
-### Sri Lankan Ambassador to Myanmar
-
-*2024-02-23 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193748) · `si`
-
-Ambassador of Myanmar says that he had to attend two other Sri Lankans to attend the Cybercriminial Camp administered by Myanmar.
-
-The Ambassador says that another team is difficult to resolve the problem with the arrival of the Sri Lankans who are currently detained in the camp.
-
-Ambassador of Myanmar Asks the Elders of Sri Lanka to take a closer look at it, if their children are to be abroad,
-
-Meanwhile, Sri Lankans are in the clutches that the terrorists have increased further more terrorists.
-
-◼️
-
-[Data](articles/9f3e91fc.json)
-
-[Extended Data](ext_articles/9f3e91fc.ext.json)
-
----
-
-### Russian tourists who visit the sex industry;Local sex workers are worried
-
-*2024-02-23 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177154) · `ta`
-
-The Sri Lankan government has granted a visa -free entrance permit to seven countries to promote the tourism sector.. Tourists, especially from India, China and Russia, are increasingly visiting.
-
-It has been revealed that many women from Russia have been staying in Sri Lanka for a month and engaged in sex trade. Officials of the Department of Immigration have confirmed that such incidents take place. It is reported that Russian women are collecting money from the wealthy and the elite for only one time or a few hours.
-
-The government has decided to implement a visa -free entrance plan to seven countries, including Russia, aims to revive the tourism industry, which has suffered a severe setback following Easter Sunday attacks, Kovit infection and political crisis.. However, there are now concerns about controlling the activities of individuals who use this plan for illegal purposes.
-
-...
-
-[Data](articles/6bbfc493.json)
-
-[Extended Data](ext_articles/6bbfc493.ext.json)
-
----
-
-### President meets the US Deputy Secretary of State
-
-*2024-02-23 20:47:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-එක්සත්-ජනපද-නියෝජ්‍ය-රාජ්‍ය-ලේකම්වරයා-අතර-හමුවක්/11-408248) · `si`
-
-President Ranil Wickremesinghe and Deputy Secretary of Health Richard Verma took place this morning at the Presidential Secretariat this morning.
-
-The Deputy Secretary of State was evaluated by President Ranil Wickremesinghe to restore the Sri Lankan economy.
-
-The President informed the US Deputy Secretary of State for the progress of the main economic reforms and the restructuring process of restructuring the main economic reforms and loans.
-
-The Deputy Secretary of State thanked President Ranil Wickremesinghe to support the support of the Government of Sri Lanka for the Supreme Government of Sri Lanka for the assistance of the Government of Sri Lanka.
-
-The President stated that Sri Lanka is further dedicated to the freedom of the Indian Ocean, supporting the stability of Hudi Arabia regarding the stability of Hudthudi.
-
-...
-
-[Data](articles/bd4c7b0c.json)
-
-[Extended Data](ext_articles/bd4c7b0c.ext.json)
-
----
-
-### President meets the US Deputy Secretary of State
-
-*2024-02-23 20:45:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-එක්සත්-ජනපද-නියෝජ්‍ය-රාජ්‍ය-ලේකම්වරයා-අතර-හමුවක්/11-408247) · `si`
-
-President Ranil Wickremesinghe and Deputy Secretary of Health Richard Verma took place this morning at the Presidential Secretariat this morning.
-
-The Deputy Secretary of State was evaluated by President Ranil Wickremesinghe to restore the Sri Lankan economy.
-
-The President informed the US Deputy Secretary of State for the progress of the main economic reforms and the restructuring process of restructuring the main economic reforms and loans.
-
-The Deputy Secretary of State thanked President Ranil Wickremesinghe to support the support of the Government of Sri Lanka for the Supreme Government of Sri Lanka for the assistance of the Government of Sri Lanka.
-
-The President stated that Sri Lanka is further dedicated to the freedom of the Indian Ocean, supporting the stability of Hudi Arabia regarding the stability of Hudthudi.
-
-...
-
-[Data](articles/0738f1dd.json)
-
-[Extended Data](ext_articles/0738f1dd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 19:49:22**
+As of **2024-02-24 20:02:43**
 
 ## Newspaper Stats
 
-*Scraped **9,065** Articles*
+*Scraped **9,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 463
 islandlk | 472
 dailyftlk | 483
 adalk | 759
-adaderanalk | 1,089
+adaderanalk | 1,090
 tamilmirrorlk | 1,113
 virakesarilk | 1,241
 adaderanasinhalalk | 1,353
@@ -26,11 +26,31 @@ dailymirrorlk | 1,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,065 (100.0%) of 9,065 articles have been extended.
+9,066 (100.0%) of 9,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### CBSL officials summoned by parliamentary committees over salary hike?
+
+*2024-02-24 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97505/cbsl-officials-summoned-by-parliamentary-committees-over-salary-hike) · `en`
+
+Several parliamentary committees have decided to summon Central Bank officials to inquire into the legal basis of the substantial salary hike granted to its employees.
+
+Recent media reports revealed that the Central Bank had increased the salaries of its employees by 70% and the move was heavily criticized by both parliamentarians of both the ruling party and the opposition.
+
+In light of the situation that stirred much controversy in the country, Central Bank officials have reportedly been summoned by several parliamentary committees.
+
+Chief Opposition Whip, MP Lakshman Kiriella also recently requested Speaker of Parliament Mahinda Yapa Abeywardena to call the Central Bank officials to the parliament to question them about the matter.
+
+◼️
+
+[Data](articles/d42fe2b4.json)
+
+[Extended Data](ext_articles/d42fe2b4.ext.json)
+
+---
 
 ### Unexploded World War II bomb found in a garden in England
 
@@ -736,17 +756,17 @@ Dr. Nick Frazer, a member of the International Team who studied this fossil, sai
 
 *2024-02-24 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97498/mahabage-shooting-army-deserter-arrested-over-ukkuwas-murder) · `en`
 
-A Sri Lanka Army deserter has been arrested by the Police Special Task Force (STF) this morning (Feb.24), in connection with the shooting incident in Mahabage earlier this week.
+A Sri Lanka Army deserter has been arrested by the Army intelligence officers this morning (Feb.24), in connection with the shooting incident in Mahabage earlier this week.
 
-He is said to be one of the main suspects wanted in the murder case.
+He is said to be one of the prime suspects wanted in the murder case.
 
-According to the STF, the arrestee was a Corporal attached to the 4th Battalion of the Gemunu Watch Regiment at the Army camp in Chenkalady, Batticaloa.
+According to the Army, the arrestee, named Nuwan Chamara de Silva, was a Corporal attached to the 4th Battalion of the Gemunu Watch Regiment at the camp in Chenkalady, Batticaloa.
 
-He had fled the camp when the STF officers were approaching but was later taken into custody in the Ampara area.
+He had fled the camp when the Army intelligence officers were approaching but was later taken into custody in the Ampara area following an extensive search operation.
+
+The suspect was later handed over to the Police Special Task Force (STF) officers for onward investigations.
 
 Three unidentified assailants had opened fire using a revolver, around 7:15 a.m. on Feb.21 near a meat shop in Elapitiwala Junction, Mahabage, leaving the shop owner dead. The victim had succumbed to injuries while being rushed to the Colombo North Teaching Hospital in Ragama.
-
-The deceased was identified as Hettiarachchige Don Sujith alias “Ukkuwa”, the brother-in-law of the criminal gang leader “Welle Saranga” and a resident of North Batagama in Ja-Ela.
 
 ...
 
@@ -2081,27 +2101,5 @@ Koskoda Suji's close relatives are reportedly suspected of leading the five murd
 [Data](articles/906ffd3d.json)
 
 [Extended Data](ext_articles/906ffd3d.ext.json)
-
----
-
-### Suspect arrested for shooting
-
-*2024-02-23 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193751) · `si`
-
-Mattegoda Police say that the motorcyclist who had come to shoot the house of a businessman in Kandana, a group of organized crime leader Ganelawa.
-
-The suspect is a 40-year-old resident of Suriyarariya.
-
-It is reported that Ganemulla has shot to his house to intimidate him on a positive response to the businessman on several occasions.
-
-The Kandana Police and the Criminal Investigations Department (CID) have been arrested during investigation.
-
-However, the shooter has already fled the country.
-
-◼️
-
-[Data](articles/cad1984a.json)
-
-[Extended Data](ext_articles/cad1984a.ext.json)
 
 ---

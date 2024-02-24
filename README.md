@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 11:33:03**
+As of **2024-02-24 11:53:50**
 
 ## Newspaper Stats
 
-*Scraped **9,016** Articles*
+*Scraped **9,020** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 92
 bbccomsinhala | 110
-dbsjeyarajcom | 160
+dbsjeyarajcom | 161
 newsfirstlk | 363
-economynextcom | 462
+economynextcom | 463
 islandlk | 472
 dailyftlk | 483
-adalk | 756
+adalk | 757
 adaderanalk | 1,079
 tamilmirrorlk | 1,111
 virakesarilk | 1,231
-adaderanasinhalalk | 1,339
+adaderanasinhalalk | 1,340
 dailymirrorlk | 1,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,012 (100.0%) of 9,016 articles have been extended.
+9,017 (100.0%) of 9,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### විදුලි ගාස්තු සංශෝධනය පිළිබඳ අවසන් තීරණය ලබන 28
+
+*2024-02-24 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193763) · `si`
+
+විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් ඉදිරිපත් ව ඇති යෝජනාවලිය පිළිබඳ සාකච්ඡා කිරීමට ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභාව ලබන 28 වැනි දා රැස්වීමට නියමිත ව තිබේ.
+
+කොමිසමේ ප්‍රකාශකයකු සඳහන් කරන්නේ, එහි දී විදුලි ගාස්තු සංශෝධනයට අදාළ යෝජනාවලිය සම්බන්ධයෙන් අවසන් තීරණයක් ගැනීමට නියමිත බවයි.
+
+විදුලි ගාස්තු අඩු කිරීමට අදාළ ලංකා විදුලි බල මණ්ඩලයේ යෝජනාවලිය පසුගිය 22 වැනි දා උපයෝගිතා කොමිසම වෙත භාර දී තිබිණි.
+
+පසුගිය වසරේ ඔක්තෝබර් මාසයේ වැඩි කළ විදුලි ගාස්තු මෙවර සංශෝධනයේ දී අඩු කිරීමට මෙමඟින් යෝජනා කර ඇති බව විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පසුගිය දා පාර්ලිමේන්තුවේ දී ප්‍රකාශ කළේ ය.
+
+◼️
+
+[Data](articles/d4998e88.json)
+
+---
+
+### මොන බලපෑම් ආවත් කිසිදු මෙහෙයුමක් නවත්වන්නේ නෑ
+
+*2024-02-24 11:07:47* · [`adalk`](https://www.ada.lk/breaking_news/මොන-බලපෑම්-ආවත්-කිසිදු-මෙහෙයුමක්-නවත්වන්නේ-නෑ/11-408251) · `si`
+
+කුමන බලපෑම් පැමිණිය ද මත්ද්‍රව්‍ය හා පාතාලය මර්දනය කිරීමට මෙන්ම කාන්තාවන්ට සහ දරුවන්ට සිදුවන හිංසනය වැළැක්වීම අරමුණු කරගනිමින් දියත්කර ඇති කිසිදු මෙහෙයුමක් නැවැත්වීමට සූදානම් නැති බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පැවසීය.
+
+එසේම 2023 දෙසැම්බර් 17 වනදා ආරම්භ කළ යුක්තිය මෙහෙයුමෙන් මේ වන විට අත්අඩංගුවට ගෙන ඇති මත්ද්‍රව්‍යවල වටිනාකම රුපියල් බිලියන 7.8ක් වන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+"මත්ද්‍රව්‍ය හා පාතාලය මර්දනය කිරීම මෙන්ම කාන්තාවන්ට සහ දරුවන්ට සිදුවන හිංසනය වැළැක්වීම සම්බන්ධයෙන් වන මෙහෙයුම් අඛණ්ඩව ඉදිරියටත් සිදුකරනවා. කුමන බලපෑම් පැමිණිය ද අප විසින් සිදුකරන මෙම මෙහෙයුම් නැවැත්වීමට කිසිදු සූදානමක් නැහැ. මෙම වැඩපිළිවෙළ සම්බන්ධයෙන් අපට විවිධ චෝදනා එල්ල වනවා.
+
+...
+
+[Data](articles/9486f4b1.json)
+
+---
 
 ### Lellama shooting: Two more youths arrested over attempted murder
 
@@ -54,21 +90,29 @@ Modara Police and the CCD are conducting further investigations into this attemp
 
 [Data](articles/ee2b42bb.json)
 
+[Extended Data](ext_articles/ee2b42bb.ext.json)
+
 ---
 
-### ජාතික සම්මාන සහ ගෞරව නාම ලබාදීම ගැන රජයෙන් විශේෂ නිවේදනයක්
+### Govt
 
 *2024-02-24 10:58:18* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-සම්මාන-සහ-ගෞරව-නාම-ලබාදීම-ගැන-රජයෙන්-විශේෂ-නිවේදනයක්/11-408249) · `si`
 
-නීත්‍යානුකූල නොවන ආකාරයට ජාතික සම්මාන සහ ගෞරව නාම පුද්ගලයන් වෙත ලබාදීම, එසේ ගෞරව නාම ලබා ගැනීම හෝ භාවිතා කිරීමට එරෙහිව නීත්‍යානුකූල පියවර ගන්නා ලෙස ජනාධිපති ලේකම් සමන් ඒකනායක මහතා අදාළ විෂය පිළිබඳ කටයුතු කරන රාජ්‍ය නිලධාරීන්ට උපදෙස් දී තිබේ.
+The Secretary to the President Saman Ekanayake has instructed public officials to take legal action against non-legitimate and honorary.
 
-එක් එක් නිශ්චිත නිර්නායක පදනම් කරගනිමින් විධිමත් ක්‍රමවේදයකට අනුව තෝරාගනු ලබන සුවිශේෂී ශ්‍රී ලාංකික පුරවැසියන් වෙත ජනාධිපතිවරයා විසින් පිරිනමනු ලබන ජාතික සම්මාන හා ගෞරව නාම සඳහා යොදාගන්නා නාමයන් භාවිතා කරමින් විවිධ පුද්ගලයන් සහ රාජ්‍ය නොවන සංවිධාන මගින් සම්මාන, සන්නස් පත්‍ර හා සහතික ලබා දෙන අවස්ථා ජනාධිපති කාර්යාලයේ නිරීක්ෂණයට ලක්ව ඇත.
+The Presidential Secretariat is observed by various individuals and NGOs using the names of the National Awards and NGOs who are selected by the President on a formal procedure, based on a formal procedure.has.
 
-මෙවැනි ආකාරයේ අසංවිධිත සම්මාන ප්‍රදානයන් මගින් මේ දක්වා ගෞරව ප්‍රණාමයට පත් සුවිශේෂී ශ්‍රි ලාංකිකයන් හට දැඩි අසාධාරණයක් හා අගෞරවයක් සිදුවන බව පෙන්වා දෙන ජනාධිපති ලේකම්වරයා ජාතික සම්මාන සඳහා යොදා ගනු ලබන එවැනි ගෞරව නාමයන් වෙනත් පාර්ශ්වයන් විසින් වැරදි ආකාරයට භාවිතා කිරීම වහා නතර කළයුතු අතර, එවැනි ක්‍රියාවන්ට එරෙහිව කඩිනමින් නීතිය ක්‍රියාත්මක කළයතු බවද අවධාරණය කරයි.
+The Presidential Secretary of the President should immediately stop the honors used by the National Awards to the National Awards, the Presidential Secretary to the National Awards.It also emphasizes that the law is implemented.
+
+In 1986, the President has introduced national awards from a special gazette notification No. 387/3 and 03.02.1986.. Extraordinary Gazette, Extraordinary Gazette, No. 627/8, No. 627/8, No. 627/8, No.The National Awards will be amended by the National Awards.
+
+The Cabinet note that President Ranil Wickremesinghe has introduced the two New Cabinet / 95/1, "Excellent Republic Abhimani".
 
 ...
 
 [Data](articles/a72162af.json)
+
+[Extended Data](ext_articles/a72162af.ext.json)
 
 ---
 
@@ -105,6 +149,8 @@ The officials of the Sri Lanka Atomic Energy Regulatory Council told the committ
 ◼️
 
 [Data](articles/b5528eb3.json)
+
+[Extended Data](ext_articles/b5528eb3.ext.json)
 
 ---
 
@@ -619,6 +665,26 @@ Meanwhile, the Ceylon Electricity Association (CEB) Association has stated that 
 [Data](articles/200f9969.json)
 
 [Extended Data](ext_articles/200f9969.ext.json)
+
+---
+
+### Sri Lanka’s Commercial Bank Dec net down on tax provisions
+
+*2024-02-24 07:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-dec-net-down-on-tax-provisions-152042/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Commercial Bank of Ceylon reported profits of 6.9 billion rupees from the December 2023 quarter down 21 percent, despite an improvement in net interest income and lower provisions, amid a change in tax provisions.
+
+Pre-tax profits were 8.89 billion rupees up from 2.4 billion rupees. There was a 6.4 billion tax reversal last year compared to a 1.7 billion rupee tax charge this year.
+
+Commercial Bank reported earnings of 5.26 rupees for the quarter. For the year to December 2023 earnings were 16.07 rupees per share on total profits of 21.1 billion rupees, down 11.3 percent.
+
+Net fee and commission income was down 1.2 percent to 6.1 billion rupees.
+
+Net interest income went up 16.8 percent to 25.5 billion rupees, with interest income rising marginally by 1.3 percent to 73.0 billion rupees and interest expense falling 5.45 percent to 47.5 billion rupees.
+
+...
+
+[Data](articles/98d6edd5.json)
 
 ---
 
@@ -1304,23 +1370,25 @@ The President stated that Sri Lanka is further dedicated to the freedom of the I
 
 ---
 
-### ජනපති සහ එක්සත් ජනපද නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා අතර හමුවක්
+### President meets the US Deputy Secretary of State
 
 *2024-02-23 20:45:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-එක්සත්-ජනපද-නියෝජ්‍ය-රාජ්‍ය-ලේකම්වරයා-අතර-හමුවක්/11-408247) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඇමෙරිකා එක්සත් ජනපදයේ කළමනාකරණ සහ සම්පත් පිළිබඳ නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් වර්මා මහතා අතර හමුවක් ජනාධිපති කාර්යාලයේදී අද (23) පෙරවරුවේදී සිදු විය.
+President Ranil Wickremesinghe and Deputy Secretary of Health Richard Verma took place this morning at the Presidential Secretariat this morning.
 
-ශ්‍රී ලංකා ආර්ථිකය යථා තත්ත්වයට පත් කිරීමට රජය ප්‍රමුඛ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගනු ලබන පියවර මෙහිදී නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා ගේ ඇගයීමට ලක් විය.
+The Deputy Secretary of State was evaluated by President Ranil Wickremesinghe to restore the Sri Lankan economy.
 
-කෘෂිකාර්මික නවීකරණ වැඩසටහන ඇතුළු ශ්‍රී ලංකාව තුළ මේ වන විට සිදු කෙරෙන ප්‍රධාන ආර්ථික ප්‍රතිසංස්කරණ සහ ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියෙහි ප්‍රගතිය පිළිබඳව ජනාධිපතිවරයා මෙහිදී එක්සත් ජනපද නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා දැනුවත් කළේය.
+The President informed the US Deputy Secretary of State for the progress of the main economic reforms and the restructuring process of restructuring the main economic reforms and loans.
 
-ගෝලීය ආරක්ෂාවට අදාළ කරුණු සම්බන්ධයෙන් ද මෙහිදී සාකච්ඡාවට ලක් වූ අතර රතු මුහුදේ සිදු කෙරෙන නාවික මෙහෙයුම් සඳහා ශ්‍රී ලංකා රජය ලබාදුන් සහය වෙනුවෙන් නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ස්තූතිය පළ කර සිටියේය.
+The Deputy Secretary of State thanked President Ranil Wickremesinghe to support the support of the Government of Sri Lanka for the Supreme Government of Sri Lanka for the assistance of the Government of Sri Lanka.
 
-හුති කැරලිකරුවන් සම්බන්ධයෙන් සෞදි අරාබියේ ස්ථාවරත්වයට සහාය පළ කරමින් ඉන්දීය සාගරයේ නාවික ගමනාගමනයේ නිදහස වෙනුවෙන් ශ්‍රී ලංකාව තවදුරටත් කැපවී සිටින බව මෙහිදී ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+The President stated that Sri Lanka is further dedicated to the freedom of the Indian Ocean, supporting the stability of Hudi Arabia regarding the stability of Hudthudi.
 
 ...
 
 [Data](articles/0738f1dd.json)
+
+[Extended Data](ext_articles/0738f1dd.ext.json)
 
 ---
 
@@ -2035,71 +2103,5 @@ He said in a message on ‘x’ that he appreciated the efforts of Speaker Mahin
 [Data](articles/2b35c315.json)
 
 [Extended Data](ext_articles/2b35c315.ext.json)
-
----
-
-### Legal action against those who use national awards and honorary names - President Secretary
-
-*2024-02-23 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177138) · `ta`
-
-President's Secretary Saman Ekanayake advised the relevant authorities to take legal action against those who use national awards and such honorary names.
-
-The President's Office has informed the President's Office that awards, Sunnnes and Certificates are issued through some persons and NGOs using the names used by the President for the President's Awards and Honorary Names for the Special Sri Lankan citizens.
-
-The president's secretary pointed out that the immediate abuse of the honorary names used for the National Awards should be stopped immediately and that it is an injustice and disgrace to those who are honored in Sri Lanka due to improper awards.. He also advised to take immediate legal action against such sedatives.
-
-...
-
-[Data](articles/56851ef3.json)
-
-[Extended Data](ext_articles/56851ef3.ext.json)
-
----
-
-### Four people, including a majority of ethnic professor for the post of Vice Chancellor of Vavuniya University!
-
-*2024-02-23 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177136) · `ta`
-
-Four applications have been received, including a majority of ethnic professor of the Vavuniya University Vice Chancellor.
-
-Applications for the new Vice Chancellor were requested by the Secretary of the University Council, as the current Vice Chancellor Professor Thambu Mangeshwaran's term ends on July 13.. The final day is on Wednesday, the 21st.
-
-At 3:00 pm yesterday, the Vavuniya University Professors, a Professor of Jaffna University, and a majority of ethnic professors who worked at Rukuna and Rajarata Universities, were reported to have applied for the post of Vice Chancellor at 3:00 pm yesterday.
-
-Four applications will be presented by the Registrar of the Council, the Secretary of the Council, at the monthly meeting of the University Council to be held on Saturday 24th.
-
-...
-
-[Data](articles/477d7c4b.json)
-
-[Extended Data](ext_articles/477d7c4b.ext.json)
-
----
-
-### Sri Lanka shot deadly claimed that the food order was delayed
-
-*2024-02-23 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193741) · `si`
-
-It is reported that a Sri Lankan who has worked for a job in Kuwait state has been shot dead.
-
-KP Wheekman Thilakanka Tilakaratne, a resident of Rajanganiya, has shot to a father of two.
-
-He had worked in Kuwait for about eight years and was the last time he had arrived in Sri Lanka on Tuesday, 2022-10.
-
-He had done a job as a driver carrying food orders and took place in carrying an order on January 10.
-
-The suspect said the customer shot himself, saying that the car had been delayed.
-
-The injured person's abdominal area has been seriously injured and 30 stitches have been launched.
-
-After the shooting, the casualty returned from her car and parked the vehicle and telephoned his friend.
-
-The casual was a 13-year-old and 10-year-old schools, and he demands that he would be brought to Sri Lanka.
-
-◼️
-
-[Data](articles/c2852404.json)
-
-[Extended Data](ext_articles/c2852404.ext.json)
 
 ---

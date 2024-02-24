@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 07:03:30**
+As of **2024-02-24 07:26:18**
 
 ## Newspaper Stats
 
-*Scraped **8,970** Articles*
+*Scraped **8,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ islandlk | 464
 dailyftlk | 483
 adalk | 754
 adaderanalk | 1,073
-tamilmirrorlk | 1,107
+tamilmirrorlk | 1,108
 virakesarilk | 1,226
-adaderanasinhalalk | 1,328
+adaderanasinhalalk | 1,330
 dailymirrorlk | 1,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,970 (100.0%) of 8,970 articles have been extended.
+8,973 (100.0%) of 8,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Magistrate's death on Sanath Nishantha's death
+
+*2024-02-24 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193753) · `si`
+
+Water Supply: Welisara Magistratesitha Dhammika Uddasa has not been able to declare the death of former State Minister Sanath Nishantha.
+
+The Magistrate made this statement that the post mortem report of Mr. Sanath Nishantha has not been referred to courts ever before the Judicial Medical Officer.
+
+Attorney-at-Law Dhanaraj Samarakoon appeared to be discontinued by the death accident on the Colombo-Katunayake Expressway at the Colombo-Katunayake Expressway at the Colombo-Katunayake Expressway at the Colombo-Katunayake Expressway at the Colombo-Katunayake Expressway at the Colombo-Katunayake Expressway.Requested the court to do.
+
+The Magistrate said that the post mortem report of Sanath Nishantha who died in the accident had not been published in this case, as the post mortem report had not been forwarded to court.
+
+The Magistratesitha Magistrate's Court reporter said that the accident had been observed on the 24th of January until the accident had been inspected.Is.
+
+...
+
+[Data](articles/7f66d820.json)
+
+[Extended Data](ext_articles/7f66d820.ext.json)
+
+---
+
+### Showers or thunderstorms
+
+*2024-02-24 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193752) · `si`
+
+Thundershowers will develop at several places in the Western, Southern, Sabaragamuwa, Central, North Western and Uva provinces.
+
+Showers or thundershowers during the evening or night during the evening in the North Central Province.
+
+Some locations in the Western, Sabaragamuwa, Central and Uva provinces are expected in the Galle and Matara districts.
+
+The Meteorological Department urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/14ea17ad.json)
+
+[Extended Data](ext_articles/14ea17ad.ext.json)
+
+---
+
+### Thanks for the support of Sri Lanka
+
+*2024-02-24 03:41:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வழங்கும்-ஆதரவிற்கு-நன்றி/175-333728) · `ta`
+
+President Ranil Wickremesinghe has assured US representatives that Sri Lanka is still dedicated to the Indian Ocean.
+
+The President said this when he met Richard Verma, Deputy Secretary of State for Management and Resources of the US State Department.
+
+It is also worth noting that Richard Verma, the fourth American representative who visited Sri Lanka within a week.
+
+President Ranil Wickremesinghe met the Deputy Secretary of State for Management and Resources of the US State Department at the Presidential Secretariat.
+
+International security issues were also discussed during the meeting. Deputy Secretary of State Ranil Wickremesinghe thanked President Ranil Wickremesinghe for the support of the Sri Lankan government for the naval operations in the Red Sea.. (A)
+
+◼️
+
+[Data](articles/15a6da34.json)
+
+[Extended Data](ext_articles/15a6da34.ext.json)
+
+---
 
 ### Internally Divided ITAK is in the Eye of a Legal Storm
 
@@ -2055,55 +2119,5 @@ There is a meeting between Richard Verma, Deputy Secretary of State for Manageme
 [Data](articles/aa0340c6.json)
 
 [Extended Data](ext_articles/aa0340c6.ext.json)
-
----
-
-### US Deputy Secretary of State calls on President
-
-*2024-02-23 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Deputy-Secretary-of-State-calls-on-President/108-277605) · `en`
-
-Colombo, Feb. 23 (Daily Mirror)- United States Deputy Secretary of State for Management and Resources Richard Verma called on President Ranil Wickremesinghe a short while ago at the Presidential Secretariat, the President's Media Division (PMD) said.
-
-◼️
-
-[Data](articles/c1e3ba3c.json)
-
-[Extended Data](ext_articles/c1e3ba3c.ext.json)
-
----
-
-### Richard Werma and President meets President
-
-*2024-02-23 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193730) · `si`
-
-US Deputy Secretary of State for management and resources have been found to President Ranil Wickremesinghe.
-
-The meeting was said that the meeting took place at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/c39bf3f3.json)
-
-[Extended Data](ext_articles/c39bf3f3.ext.json)
-
----
-
-### Hotel manager falls to death from Rawana Ella mountain
-
-*2024-02-23 11:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hotel-manager-falls-to-death-from-Rawana-Ella-mountain/108-277602) · `en`
-
-Ella, Feb. 23 (Daily Mirror)- A 32-year-old manager of a tourist hotel in Ella died after falling down a precipice while on a hiking expedition in Rawana Ella mountain yesterday afternoon.
-
-He was pronounced dead on admission to the Wellawaya Hospital.
-
-The victim had gone hiking with a friend and while descending the mountain he had slipped off a rock and fallen down a 100 feet precipice.
-
-The victim is a resident of Moragolla, Beruwala and a father of a 10-year-old child.
-
-◼️
-
-[Data](articles/3a321c0a.json)
-
-[Extended Data](ext_articles/3a321c0a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 15:32:55**
+As of **2024-02-24 15:51:16**
 
 ## Newspaper Stats
 
-*Scraped **9,040** Articles*
+*Scraped **9,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 757
 adaderanalk | 1,083
 tamilmirrorlk | 1,111
 virakesarilk | 1,238
-adaderanasinhalalk | 1,345
+adaderanasinhalalk | 1,346
 dailymirrorlk | 1,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,040 (100.0%) of 9,040 articles have been extended.
+9,041 (100.0%) of 9,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Two Sri Lankans deported China
+
+*2024-02-24 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193769) · `si`
+
+Two Sri Lankans arrested in China have been deported in China after attempting to hide in a container box and attempted to flee to Malaysia.
+
+They had sent to the Katunayake airport this morning (24). Ada Derana reporter said.
+
+The two suspects were hidden in an empty container that was placed on a ship's ship.
+
+They are the 26-year-old Madi Rajitha and 39-year-old Jayakumar Tirasa.
+
+The two persons have entered into a vacant container to Malaysia on the 30th of January 2023.
+
+However, when the ship arrives in Malaysia, the ship was finalized to China, as the suspects were taken to the suspects.
+
+After the two suspects were taken to deport the latter, 5:30 am from Shanghai from Shanghai from Shanghai to Katunayake airport.
+
+They were arrested by the Katunayake Airport Criminal Investigation Department, Katunayake Airport Criminal Investigation Division, the main office of the Katunayake Airport and Raffick Investigation Division.
+
+◼️
+
+[Data](articles/b2e4ddd0.json)
+
+[Extended Data](ext_articles/b2e4ddd0.ext.json)
+
+---
+
+### The President inaugurated the 45th Navam Maha Perahara
+
+*2024-02-24 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177177) · `ta`
+
+President Ranil Wickremesinghe inaugurated the 45th Navam Maha Perahara of the Gangarama Viharaya of Hunupitiya, Colombo on Friday (23).
+
+◼️
+
+[Data](articles/fbf14f84.json)
+
+[Extended Data](ext_articles/fbf14f84.ext.json)
+
+---
 
 ### STF arrests Army Corporal over Mahabage shooting
 
@@ -100,7 +142,11 @@ Others target the state-owned operator of Mir, Russia’s main payment system, w
 
 *2024-02-24 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspected-deaths-of-patients-at-Kurunegala-Hospital-raise-concern/108-277651) · `en`
 
-Feb 24, (Daily Mirror) - The Health Ministry has launched an investigation and appointed a committee to look into the incident surrounding the suspected deaths at the dialysis unit of the Kurunegala Teaching Hospital, sources said.
+Feb 24, (Daily Mirror) - The Health Ministry has launched an investigation and appointed a committee to look into the incident surrounding the suspected deaths at the dialysis unit of the Kurunegala Teaching Hospital.
+
+Speaking of the matter, Secretary of the Ministry of Health Dr. Palitha Mahipala said the at least five deaths have occurred since January at the dialysis unit.
+
+Accordingly, a five-member committee headed by Chief Epidemiologist Dr Samitha Ginige has been appointed to look into the matter.
 
 According to sources, the incident may have occurred due to the entry of certain unidentified pathogens into the blood dialysis unit.
 
@@ -459,20 +505,6 @@ The Minister of Power and Energy Kanchana Wijesekera recently stated that this h
 [Data](articles/d4998e88.json)
 
 [Extended Data](ext_articles/d4998e88.ext.json)
-
----
-
-### The President inaugurated the 45th Navam Maha Perahara
-
-*2024-02-24 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/177177) · `ta`
-
-President Ranil Wickremesinghe inaugurated the 45th Navam Maha Perahara of the Gangarama Viharaya of Hunupitiya, Colombo on Friday (23).
-
-◼️
-
-[Data](articles/fbf14f84.json)
-
-[Extended Data](ext_articles/fbf14f84.ext.json)
 
 ---
 
@@ -2103,29 +2135,5 @@ However, the central bank has not taken a decision to release the minutes of the
 [Data](articles/7c57d3e8.json)
 
 [Extended Data](ext_articles/7c57d3e8.ext.json)
-
----
-
-### ISIS bride Shamima Begum loses bid to regain UK citizenship
-
-*2024-02-23 19:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ISIS-bride-Shamima-Begum-loses-bid-to-regain-UK-citizenship/108-277616) · `en`
-
-Feb 23 - Shamima Begum, the London-born Bangladeshi-origin woman, who fled the UK as a 15-year-old schoolgirl to join the Islamic State (ISIS) terrorist network, on Friday lost yet another legal bid to regain her British citizenship and return to the UK.
-
-The ruling means the 24-year-old must remain in Syria. The government stripped her citizenship on national security grounds in 2019.
-
-Ms Begum left London nine years ago aged 15 to travel to Syria and join Islamic State group, or IS.
-
-The ruling by three appeal judges was unanimous. It could still be challenged in the Supreme Court by Ms Begum.
-
-Her solicitor, Daniel Furner said that her legal team was "not going to stop fighting until she does get justice and until she is safely back home".
-
-However the judges wholly dismissed all of Ms Begum's arguments - a highly significant rejection that could affect her ability to gain a full appeal at the Supreme Court.
-
-...
-
-[Data](articles/39f6c847.json)
-
-[Extended Data](ext_articles/39f6c847.ext.json)
 
 ---

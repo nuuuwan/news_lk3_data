@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 13:33:06**
+As of **2024-02-24 13:51:06**
 
 ## Newspaper Stats
 
-*Scraped **9,029** Articles*
+*Scraped **9,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ adalk | 757
 adaderanalk | 1,082
 tamilmirrorlk | 1,111
 virakesarilk | 1,235
-adaderanasinhalalk | 1,342
+adaderanasinhalalk | 1,344
 dailymirrorlk | 1,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,028 (100.0%) of 9,029 articles have been extended.
+9,031 (100.0%) of 9,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Police promise a protestor against a dead body
+
+*2024-02-24 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193767) · `si`
+
+A 46-year-old man in the Wellawaya - Colombo main road was placed on the Wellawaya - Colombo main road, which was murdered two days ago.
+
+The police accused the police that he failed to implement the law against the people involved in the murder.
+
+The group protest against the up to 8 pm and there was a warm quality between the protesters and the police.
+
+With the protesters, the police, they were taken away from the police, that the protesters were implemented expedited to the party responsible for the party responsible for the party.
+
+However, the houses of two persons suspected of murder have set on fire last night.
+
+Police said that investigations are conducting investigations into the suspects of the murder as well as the dead.
+
+◼️
+
+[Data](articles/f3af4e47.json)
+
+[Extended Data](ext_articles/f3af4e47.ext.json)
+
+---
+
+### The fossil of a family of 240 million years is found
+
+*2024-02-24 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193766) · `si`
+
+Scientists have passed a complete fossil of a family like 240 million years old.
+
+In 2003, the fossil of the fossil was found in South China's old lime stone treasure.
+
+According to the research made by scientists, the entire fossil has been raised.
+
+Scientists say that the fossil was believed that the fossil is believed to have lived in the last century.
+
+It is assumed that the animal could be a dragon due to the extremely long neck of this creature.
+
+Dr. Nick Frazer, a member of the International Team who studied this fossil, said that the neck, its neck and tail, is more than the sum of both the body and tail.
+
+◼️
+
+[Data](articles/18158270.json)
+
+[Extended Data](ext_articles/18158270.ext.json)
+
+---
 
 ### Army deserter arrested over Mahabage meat shop shooting
 
@@ -45,6 +93,8 @@ Two unidentified assailants on a motorcycle had opened fire using a revolver, ar
 ◼️
 
 [Data](articles/fab45d1f.json)
+
+[Extended Data](ext_articles/fab45d1f.ext.json)
 
 ---
 
@@ -2095,47 +2145,5 @@ According to reports, the Sri Lankan Sri Lankan has gone to Myanmar's capital an
 [Data](articles/4a2e6bd3.json)
 
 [Extended Data](ext_articles/4a2e6bd3.ext.json)
-
----
-
-### Two persons who were trying to go to the country from the mouth of the stagnation were trapped in the Katunayake
-
-*2024-02-23 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193743) · `si`
-
-Two Sri Lankans who were trying to abroad with fake adjusted Greek tourists have been arrested at the Katunayake International Airport.
-
-The two youths who were arrested by the Immigration of Immigration and Emigration Borderness Unit residents of Vavuniya and Jaffna.
-
-The two had come to Doha this morning, and it was revealed that their documents were prepared for the passenger airline clearance.
-
-According to the interrogations they had to go to India and had prepared the visas by a broker.
-
-The two suspects have been handed over to the Criminal Investigation Department (CID) of the Katunayake airport.
-
-◼️
-
-[Data](articles/b42f517d.json)
-
-[Extended Data](ext_articles/b42f517d.ext.json)
-
----
-
-### Suspect arrested with 54,000 foreign cigarettes
-
-*2024-02-23 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97481/suspect-arrested-with-54000-foreign-cigarettes) · `en`
-
-The Police Special Task Force (STF) has arrested a suspect who was in possession of a large cache of foreign cigarettes illegally brought into the country.
-
-The seized cartons contained a total of 54,000 cigarette sticks, the STF said.
-
-Arrest was made in Thalawitawatta area in Kudagama, Eheliyagoda on Thursday (Feb.22) during a raid conducted under the ongoing ‘Yukthiya’ operation to crack down on drug syndicates and criminal activities.
-
-The 48-year-old suspect and the impounded contraband have been handed over to the Eheliyagoda Police for onward investigations.
-
-◼️
-
-[Data](articles/afe07a0a.json)
-
-[Extended Data](ext_articles/afe07a0a.ext.json)
 
 ---

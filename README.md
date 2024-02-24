@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 21:51:31**
+As of **2024-02-24 22:02:33**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 1,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,073 (100.0%) of 9,076 articles have been extended.
+9,076 (100.0%) of 9,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### “நானும் ஒரு குழந்தைக்கு அப்பாவாகி விட்டேன்” சஜித்
+### “I have become a father of a child” Sajith
 
 *2024-02-24 21:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானும்-ஒரு-குழந்தைக்கு-அப்பாவாகி-விட்டேன்-சஜித்/175-333734) · `ta`
 
-தானும் தற்போது ஒரு குழந்தைக்கு தந்தையாகிவிட்டதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+Opposition leader Sajith Premadasa says he is now the father of a child.
 
-தனது மனைவியை வைத்தியசாலைக்கு அழைத்துச்செல்லும் ஒவ்வொரு சந்தர்ப்பத்திலும் வழங்கப்படும் மருந்துகள் குறித்து அவதானம் செலுத்தியதாகவும் தெரிவித்தார்.
+He also said that he had taken care of the drugs offered every occasion to take his wife to the hospital.
 
-மேலும், பிறந்தவுடன் போடவேண்டிய ஊசி ஒன்று உள்ளது. அதை தனியார் வைத்தியசாலைகளில் மட்டுமே போடப்படுகின்றன. காரணம் இதன் விலை அதிகம்.
+Also, there is a need to put on birth. It is only put in private hospitals. The reason is expensive.
 
-இதுதான் இந்த நாட்டின் நிலை. இந்த நாட்டில் பிறக்கும் ஒவ்வொரு குழந்தைக்கும் தனியார் வைத்தியசாலைகள் வழங்குகின்ற அதே பராமரிப்பினை அரச வைத்தியசாலைகள் ஊடாக வழங்கும் வேலைத்திட்டத்தை முன்னெடுக்கவுள்ளதாகவும் சஜித் பிரேமதாச தெரிவித்தார். R
+This is the state of this country. Sajith Premadasa said that every child born in this country will be implementing the same maintenance of private hospitals through state hospitals.. Remble
 
 ◼️
 
 [Data](articles/423316d2.json)
+
+[Extended Data](ext_articles/423316d2.ext.json)
 
 ---
 
@@ -919,6 +921,8 @@ Three unidentified assailants had opened fire using a revolver, around 7:15 a.m.
 ...
 
 [Data](articles/3dd5641a.json)
+
+[Extended Data](ext_articles/3dd5641a.ext.json)
 
 ---
 

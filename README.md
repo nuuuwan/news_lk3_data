@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 13:17:24**
+As of **2024-02-24 13:33:06**
 
 ## Newspaper Stats
 
-*Scraped **9,028** Articles*
+*Scraped **9,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 463
 islandlk | 472
 dailyftlk | 483
 adalk | 757
-adaderanalk | 1,081
+adaderanalk | 1,082
 tamilmirrorlk | 1,111
 virakesarilk | 1,235
 adaderanasinhalalk | 1,342
@@ -26,31 +26,49 @@ dailymirrorlk | 1,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,027 (100.0%) of 9,028 articles have been extended.
+9,028 (100.0%) of 9,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### උක්කුවා ඝාතන සිද්ධියට අවශ්‍ය කර සිටි සැකකරුවෙකු අත්අඩංගුවට
+### Army deserter arrested over Mahabage meat shop shooting
+
+*2024-02-24 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97498/army-deserter-arrested-over-mahabage-meat-shop-shooting-) · `en`
+
+A Sri Lanka Army deserter has been arrested by the STF over the shooting incident in Mahabage on Feb.21.
+
+He is said to be one of the main suspects wanted over the murder.
+
+Two unidentified assailants on a motorcycle had opened fire using a revolver, around 7:15 a.m. on Feb.21 near a meat shop in Elapitiwala Junction, Mahabage, leaving the shop owner dead.
+
+◼️
+
+[Data](articles/fab45d1f.json)
+
+---
+
+### Suspect arrested for cooking murder
 
 *2024-02-24 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193765) · `si`
 
-මහබාගේ ප්‍රදේශයේ දී පසුගිය 21 වැනි දා සිදු කළ වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට අවශ්‍ය ව සිටි ප්‍රධාන සැකකරුවකු පොලිස් විශේෂ කාර්ය බළකාය විසින් අද (24) පෙරවරුවේ අත්අඩංගුවට ගෙන ඇත.
+The Police Special Task Force has been arrested by the STF in the Mahabage area this morning (24).
 
-සැකකරු දැනට සක්‍රීය සේවයේ යෙදී සිටින, යුද හමුදා චෙංකලඩි කඳවුරේ හතර වැනි ගැමුණු හේවා බලඇණියේ සේවය කරන කෝප්‍රල්වරයෙකි.
+The suspect is currently an corporal who is currently working in active service.
 
-සැකකරු පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගැනීමට යාමේ දී මඩකලපුව - චෙංකලඩි කඳවුරේ සිට පළා ගොස් තිබේ.
+The suspect was arrested by the STF to arrest him by the STF to arrest him in Batticaloa.
 
-පසු ව යුද හමුදා බුද්ධි අංශයේ නිලධාරින් විසින් අම්පාර ප්‍රදේශයේ දී සැකකරු අත්අඩංගුවට ගෙන ඇත.
+The suspect was arrested by the army intelligence officers in Ampara.
 
-සංවිධානාත්මක අපරාධකරුවෙකු ලෙස සැලකෙන 'වැල්ලේ සාරංග' යන අයගේ ඥාතියෙකු වන 'උක්කුවා' නමැත්තාට සංවිධානාත්මක අපාරාධකරුවෙකු ලෙස සැලකෙන නිපුන නැමත්තාගේ පිරිසක් විසින් පසුගිය 21 වැනි දා ‍වෙඩි තබා ඝාතනය කර තිබිණි.
+The 'Ukhakuwa Ukka', a relative of the 'Sala Saranga', is considered as an organized criminal.
 
-මෙම වෙඩි තැබීම සඳහා අත්අඩංගුවට ගත් ප්‍රධාන සැකකරු ඇතුළු තවත් යුද හමුදාවේ හිටපු සෙබළුන් දෙදෙනෙකු පැමිණ තිබූ බව ‍පොලීසිය පවසයි.
+Two other soldiers including the main suspect arrested for shooting have come.
 
 ◼️
 
 [Data](articles/0131e3f2.json)
+
+[Extended Data](ext_articles/0131e3f2.ext.json)
 
 ---
 
@@ -2119,25 +2137,5 @@ The 48-year-old suspect and the impounded contraband have been handed over to th
 [Data](articles/afe07a0a.json)
 
 [Extended Data](ext_articles/afe07a0a.ext.json)
-
----
-
-### Amid mass migration, Sri Lanka to recruit volunteers as English teachers
-
-*2024-02-23 16:50:00* · [`economynextcom`](https://economynext.com/amid-mass-migration-sri-lanka-to-recruit-volunteers-as-english-teachers-152028/) · `en`
-
-ECONOMYNEXT- Sri Lanka is planning to appoint foreign and expatriate volunteers to teach English for Sri Lanka students, the Ministry of Higher Education said, amid thousand of teachers migrating to other countries after the island nation’s unprecedented economic crisis.
-
-Over five thousand teachers have left the country with the Education Ministry permission using the government’s circular of temporarily leaving state jobs while tens of thousands of teachers have left the country without informing the relevant authorities, Education Ministry officials say.
-
-Suren Raghavan, the State Minister for Higher Education said the shortage has aggravated because most of the graduates who have an English degree become writers and join the private sector due to higher salary.
-
-“They do not join government schools. This is a problem all over the country which is why we need to have an online system,” Raghavan told EconomyNext.
-
-...
-
-[Data](articles/613ebb88.json)
-
-[Extended Data](ext_articles/613ebb88.ext.json)
 
 ---

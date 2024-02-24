@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 14:48:58**
+As of **2024-02-24 15:02:45**
 
 ## Newspaper Stats
 
-*Scraped **9,036** Articles*
+*Scraped **9,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 483
 adalk | 757
 adaderanalk | 1,083
 tamilmirrorlk | 1,111
-virakesarilk | 1,235
+virakesarilk | 1,238
 adaderanasinhalalk | 1,345
 dailymirrorlk | 1,361
 
@@ -26,11 +26,27 @@ dailymirrorlk | 1,361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,036 (100.0%) of 9,036 articles have been extended.
+9,036 (100.0%) of 9,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### கடந்த வருடம் 10 இலட்சத்திற்கும் மேற்பட்ட  மின்சார இணைப்புகள் துண்டிப்பு!
+
+*2024-02-24 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177186) · `ta`
+
+நாடளாவிய ரீதியில்  கடந்த வருடம் 10,69,000 பேருக்கு மின்சார இணைப்புகள் துண்டிக்கப்பட்டுள்ளதாக பொருளாதார நெருக்கடியின் தாக்கத்தை குறைப்பதற்கான துறைசார் மேற்பார்வைக் குழுவின் தலைவர் பாராளுமன்ற உறுப்பினர் காமினி வலேபொட தெரிவித்துள்ளார்.
+
+இந்நிலையில், துண்டிக்கப்பட்ட இணைப்புகளுக்கு மறு இணைப்பை பொருத்த கட்டணத்தை 50 சதவீதம் குறைப்பதோடு, நிலுவையில் உள்ள கட்டண தொகையை தவணையாக செலுத்த அனுமதிக்குமாறு துறைசார் அதிகாரிகளுக்கு வலியுறுத்தப்பட்டுள்ளது.
+
+மேலும், கடன் அடிப்படையில் புதிய இணைப்புகளை வழங்குவதற்கான பொறிமுறையை உருவாக்கவும், மின் கட்டணத்துடன் முழு இணைப்புக் கட்டணத்தையும் தவணை முறையில் செலுத்தவும் அறிவுறுத்தப்பட்டுள்ளது என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a05dfea7.json)
+
+---
 
 ### US targets Russia with more than 500 new sanctions
 
@@ -78,6 +94,26 @@ In light of the situation, the health authorities have taken prompt measures to 
 
 ---
 
+### கழிவுத் தேயிலையை வீட்டுக்கு எடுத்து செல்ல முயன்ற உதவி தோட்ட அதிகாரிக்கு எதிர்ப்பு
+
+*2024-02-24 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177193) · `ta`
+
+தலவாக்கலை பொலிஸ் பிரிவுக்கு உட்பட்ட சென் கிளயார் தோட்ட பிரிவில் தேயிலை தொழிற்சாலையில் ஒதுக்கப்பட்ட கழிவு தேயிலை தூளை (சொனை தூள்) தோட்ட உதவி அதிகாரியின் பங்களாவுக்கு ஏற்றிச் சென்ற தோட்ட வாகனத்தை மறித்துள்ள தொழிலாளர்கள் ஏற்றி சென்ற கழிவு தூளையும் கொண்டு செல்ல விடாது தடுத்துள்ளனர்.
+
+வெள்ளிக்கிழமை  (23) மாலை இடம்பெற்றுள்ளதாக  சொல்லப்படும் இந்த சம்பவத்தில் உதவி தோட்ட அதிகாரி முறைக்கேடாக இந்த கழிவு தேயிலையை பொதி செய்து கொண்டு சென்றதாக சொல்லப்படுகிறது.
+
+இருந்தபோதிலும் உதவி தோட்ட அதிகாரி பங்களாவில் உள்ள காணியில் தனிப்பட்ட ரீதியில் "கொம்பஸ்ட்" உர சேமிப்புக்கு இந்த கழிவு தேயிலையை கொண்டு செல்வதாக தொழிலாளர்களிடம் தெரிவித்துள்ளார்.
+
+ஆனால் இவ்வாறு கழிவு தேயிலையை தோட்ட அதிகாரி கொண்டு சென்றதை தொழிலாளர்கள் ஆட்சேபித்துள்ளனர். இன்று கழிவு தேயிலையை கொண்டு சென்றுவிட்டு நாளை நல்ல தேயிலை தூளை கொண்டு செல்ல வாய்ப்புள்ளதாகவும் தொழிலாளர்கள் சுட்டிக்காட்டுகின்றனர்.
+
+இந்நிலையில், ஏற்றிச்செல்லும் கழிவு தேயிலை தூளை மீண்டும் தொழிற்சாலைக்கு கொண்டு செல்ல வேண்டும் எனவும் தொழிலாளர்கள் குரல் எழுப்பியுள்ளனர்.
+
+◼️
+
+[Data](articles/7f385615.json)
+
+---
+
 ### Five Indian nationals arrested with bedicho
 
 *2024-02-24 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193768) · `si`
@@ -115,6 +151,20 @@ An official ceremony was held recently at the Samudradevi Girls' College, Nugego
 [Data](articles/9bccc31c.json)
 
 [Extended Data](ext_articles/9bccc31c.ext.json)
+
+---
+
+### சிவனொளிபாத மலைக்கு பின்னால் சூரிய உதயம் : தாமரை கோபுரத்திலிருந்து பிடிக்கப்பட்ட அழகிய காட்சி
+
+*2024-02-24 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177191) · `ta`
+
+கொழும்பு தாமரை கோபுரத்திலிருந்து சிவனொளிபாத மலைக்கு பின்னால் சூரியன் உதிக்கும் அழகிய காட்சியை புகைப்படப்பிடிப்பாளர் ஒருவர் தனது கமெராவில் மிகவும் தத்ரூபமாக எடுத்துள்ளார்.
+
+இந்த அழகிய தருணத்தை லக்ஷ்மணன் நடராஜா என்ற புகைப்படப்பிடிப்பாளரால் வெள்ளிக்கிழமை (23) எடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/9a3bf5a0.json)
 
 ---
 
@@ -2069,65 +2119,5 @@ The duo intended to board Qatar Airways flight QRR-663 bound for Doha, scheduled
 [Data](articles/f4d3f8eb.json)
 
 [Extended Data](ext_articles/f4d3f8eb.ext.json)
-
----
-
-### Plot Irakavan's tribute events initiative
-
-*2024-02-23 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177150) · `ta`
-
-Comrade Iragavan or RR (Velayutham Nalnadar), one of the senior generals of the Liberation Tigers of Tamil Eelam (LTTE), and its political wing, the Senior Vice President of the Democratic People's Liberation Front and the Secretary of the Democratic Tamil National Alliance (TNA).
-
-In the Liberation Tigers of Tamil Eelam (LTTE), from 1980 to the present - RR is a senior militant who has completely dedicated a large part of his life on the journey of liberation of the Tamil people.
-
-R.R.. Worship Events for Vittudal will be held at the Colombo office in Bambalapitiya from 9 am to 12 pm on Saturday (24) at the Umamakeswaran Memorial at the Vavuniya Temple Pond on Sunday (25).
-
-Later, the final events were held at 11 am. In the Vavuniya Kovilkulam, the seed is to be done.
-
-◼️
-
-[Data](articles/66b071d3.json)
-
-[Extended Data](ext_articles/66b071d3.ext.json)
-
----
-
-### Notice from the Minister of Health
-
-*2024-02-23 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193745) · `si`
-
-Health Minister Dr. Ramesh Pathiran says that 180 billion has been allocated for this year to obtain medical equipment for this year.
-
-The Minister pointed out that the health sector has also been able to manage the situation.
-
-Minister Ramesh Pathirana expressed these views from the annual meeting of the Sri Lanka Medical Equipment Board CEO.
-
-The association said that the association, which was established in 2015, will fulfill a special role in the country's medical equipment and services.
-
-◼️
-
-[Data](articles/827f3714.json)
-
-[Extended Data](ext_articles/827f3714.ext.json)
-
----
-
-### Scientists announce discovery of 240-million-year-old ‘Chinese dragon’ fossil
-
-*2024-02-23 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97483/scientists-announce-discovery-of-240-million-year-old-chinese-dragon-fossil) · `en`
-
-Scientists in Scotland have revealed a remarkable discovery of a ‘very strange’ 240-million-year-old ‘Chinese dragon’ fossil.
-
-The international team from National Museums Scotland revealed their discovery -- found in Guizhou Province in southern China -- of the Dinocephalosaurus orientalis, a 5-meter-long aquatic reptile from the Triassic period dating back an estimated 240 million years.
-
-‘With 32 separate neck vertebrae Dinocephalosaurus orientalis had an extraordinarily long neck that draws comparison with that of Tanystropheus hydroides, another strange marine reptile from the Middle Triassic of both Europe and China,’ scientists said announcing the discovery.
-
-‘Both reptiles were of similar size and have several features of the skull in common, including a fish-trap type of dentition,’ officials continued. ‘However, Dinocephalosaurus is unique in possessing many more vertebrae both in the neck and in the torso, giving the animal a much more snake-like appearance.’
-
-...
-
-[Data](articles/ce9ce9fe.json)
-
-[Extended Data](ext_articles/ce9ce9fe.ext.json)
 
 ---

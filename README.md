@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 18:19:29**
+As of **2024-02-24 18:33:56**
 
 ## Newspaper Stats
 
-*Scraped **9,052** Articles*
+*Scraped **9,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 472
 dailyftlk | 483
 adalk | 759
 adaderanalk | 1,087
-tamilmirrorlk | 1,111
+tamilmirrorlk | 1,113
 virakesarilk | 1,240
 adaderanasinhalalk | 1,346
 dailymirrorlk | 1,365
@@ -26,11 +26,31 @@ dailymirrorlk | 1,365
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,052 (100.0%) of 9,052 articles have been extended.
+9,052 (100.0%) of 9,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### ஒரு வருடத்திற்குப்பின் இலங்கையர்களை நாடு கடத்திய சீனா
+
+*2024-02-24 17:40:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-வருடத்திற்குப்பின்-இலங்கையர்களை-நாடு-கடத்திய-சீனா/175-333732) · `ta`
+
+கொள்கலன் ஒன்றில் மறைந்திருந்து மலேசியாவிற்கு தப்பிச் செல்ல முயன்ற போது சீனாவில் கைது செய்யப்பட்ட இரு இலங்கையர்களும் ஒரு வருடத்தின் பின்னர் இன்று (24) நாடு கடத்தப்பட்டுள்ளனர்.
+
+இந்த 2 சந்தேக நபர்களும் கொழும்பு துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டிருந்த கப்பலில் இருந்த கொள்கலனில் மறைந்து மலேசியாவிற்கு தப்பிச் செல்ல முயற்சித்துள்ளனர்.
+
+அவர்களில் ஒருவர் 26 வயதுடைய மலர்மதி ராஜேந்திரன் என்றும் மற்றவர் 39 வயதான ஜெயக்குமார் தருமராசா என்றும் தெரிவிக்கப்படுகின்றது.
+
+கடந்த ஜனவரி 30, 2023 அன்று குறித்த இருவரும் மலேசியா செல்வதற்காக கொழும்பு துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டிருந்த 'மெர்க்ஸ் யூனிகார்ன்' கப்பலில் ஏற்றப்பட்ட வெற்று கொள்கலனுக்குள் இரகசியமாக நுழைந்துள்ளனர்.
+
+ஆனால் குறித்த கப்பல் மலேசியாவிற்கு வந்தபோது, ​​கொள்கலனில் மறைந்திருந்த இரு சந்தேக நபர்களையும் மலேசியா ஏற்றுக்கொள்ள மறுத்ததால், அதிகாரிகள் சந்தேக நபர்களை ஏற்றிக்கொண்டு பல நாடுகளுக்குச் சென்று இறுதியாக சீனாவிற்கு சென்றுள்ளனர்.
+
+...
+
+[Data](articles/ac5fa494.json)
+
+---
 
 ### Kurunegala hospital’s dialysis unit closed after patient deaths; experts committee begins probe
 
@@ -851,6 +871,24 @@ The officials of the Sri Lanka Atomic Energy Regulatory Council told the committ
 [Data](articles/b5528eb3.json)
 
 [Extended Data](ext_articles/b5528eb3.ext.json)
+
+---
+
+### மாமியார்‌ அடித்து கொலை; மருமகன் தப்பியோட்டம்
+
+*2024-02-24 10:33:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மாமியார்-அடித்து-கொலை-மருமகன்-தப்பியோட்டம்/73-333731) · `ta`
+
+மட்டக்களப்பு வாழைச்சேனை பொலிஸ் பிரிவிலுள்ள வாகனேரி பிரதேசத்தில் மருமகன் மாமியாரை  அடித்து கொலை செய்துவிட்டு தப்பி ஓடிய சம்பவம் வெள்ளிக்கிழமை (23) இரவு 9 மணியளவில் இடம்பெற்றுள்ளதாக வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
+
+வாகனேரி கூளையடிச்சேனையைச் சேர்ந்த 45 வயதுடைய வைரமுத்து கோமதனி என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த சம்பவத்தில் உயிரிழந்தவரின் மகள் திருமணம் முடித்து இரு குழந்தைகள் உள்ள நிலையில் தொழில் வாய்ப்புக்காக வெளிநாடு சென்றுள்ள நிலையில் அவரது தாயாருடன் குழந்தைகள் மற்றும் அவரது கணவன் வாழ்ந்து வருகின்றனர்.
+
+இந்த நிலையில் மருமகன் மதுபோதையில் மாமியாருடன் தினமும் சண்டையிட்டு வந்துள்ள நிலையில் சம்பவ தினம்‌ இரவு மாமியார்வீட்டில் தனிமையில் இருந்துள்ளபோது மது போதையில் வந்த மருமகனுக்கும் மாமியாருக்கும் இடையே சண்டை ஏற்பட்ட நிலையில் மாமியாரின் தலை மீது பாரிய பொருள் ஒன்றால் தாக்கியதையடுத்து அவர் உயிரிழந்ததையடுத்து 30 வயதுடைய மருமகன் அங்கிருந்து தப்பி ஓடியுள்ளார் என பொலிசாரின் ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/55bf745a.json)
 
 ---
 
@@ -2091,53 +2129,5 @@ The President stated that Sri Lanka is further dedicated to the freedom of the I
 [Data](articles/0738f1dd.json)
 
 [Extended Data](ext_articles/0738f1dd.ext.json)
-
----
-
-### Comes from Galle and finish the final of the tortoise
-
-*2024-02-23 20:40:07* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලෙන්-ඇවිත්-ඉබ්බන්කටුවේ-අවසන්-ගමන්-යයි/11-408246) · `si`
-
-Dambulla Police are killed after 23 days, a schoolgirl has died in the Dambulla Tower Plant.
-
-The deceased has been identified as a resident of Halvitigala area in Halvitigala, Galle
-
-Police say that their little Muttah went with small conmersions with small conmersions in Anuradhapura and went to the Sigiriya reservoir, police said.
-
-The grandmother said that the mainstream supply of the power plant is located in the place, with the lake of the lake with Kendeen, with the lake of the lake with Keeth.
-
-Later the body of the student was recovered after two hours after the life of the Dambulla Police arrives.
-
-◼️
-
-[Data](articles/af22b916.json)
-
-[Extended Data](ext_articles/af22b916.ext.json)
-
----
-
-### The person who made money from elderly women, as the relief
-
-*2024-02-23 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193747) · `si`
-
-In the Kantale area, the house has come to the home and a money robbery racket, claiming that the income of the revenue and the elderly allowance will be given simultaneously.
-
-The racketeer who appeared as a public official has targeted the old women from the Ariyvansa Mawatha - Parakrama Mawatha - Parakrama Mawatha - Parakrama Mawatha - Ariyavansa.
-
-The man appearing as a public official at the Divisional Secretariat, the person comes from a motorbike in Kantale, claiming that the elderly allowance will be given a few years in the same time.
-
-It is reported that he also shows that he is suitable for the elderly allowance they deserve in relation to the elderly allowance.
-
-He has told women that the stamp duties and the government fees should be paid more than Rs. 4,000 as a government fee.
-
-Women say that if they are unable to grant money, the women who cheat him to obtain the gold items of women.
-
-Residents have been informed of the Kantale Divisional Secretariat and the police in this regard.
-
-◼️
-
-[Data](articles/5149b838.json)
-
-[Extended Data](ext_articles/5149b838.ext.json)
 
 ---

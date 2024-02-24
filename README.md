@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 08:51:28**
+As of **2024-02-24 09:17:17**
 
 ## Newspaper Stats
 
-*Scraped **8,995** Articles*
+*Scraped **8,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailyftlk | 483
 adalk | 754
 adaderanalk | 1,074
 tamilmirrorlk | 1,108
-virakesarilk | 1,227
-adaderanasinhalalk | 1,335
+virakesarilk | 1,228
+adaderanasinhalalk | 1,336
 dailymirrorlk | 1,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,978 (99.8%) of 8,995 articles have been extended.
+8,995 (100.0%) of 8,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### மட்டக்களப்பு வாகனேரியில் மாமியாரை அடித்து கொலை செய்துவிட்டு மருமகன் தப்பி ஓட்டம்
+
+*2024-02-24 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177166) · `ta`
+
+மட்டக்களப்பு வாழைச்சேனை பொலிஸ் பிரிவிலுள்ள வாகனேரி பிரதேசத்தில் மருமகன் மாமியாரை  அடித்து கொலை செய்துவிட்டு தப்பி ஓடிய சம்பவம் நேற்று வெள்ளிக்கிழமை (23) இரவு இடம்பெற்றுள்ளதாக வாழசைசேனை பொலிஸார் தெரிவித்தனர்.
+
+வாகனேரி கூளையடிச்சேனையைச் சேர்ந்த 45 வயதுடைய வைரமுத்து கோமதனி என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த சம்பவத்தில் உயிரிழந்தவரின் மகள் திருமணம் முடித்து இரு குழந்தைகள் உள்ள நிலையில் தொழில் வாய்ப்புக்காக வெளிநாடு சென்றுள்ளார். அவரது தாயாருடன் குழந்தைகள் மற்றும் மகளின் கணவன் வாழ்ந்து வருகின்றனர்.
+
+சம்பவதினமான நேற்று இரவு மாமியார் வீட்டில் தனிமையில் இருந்துள்ளபோது மது போதையில் வந்த மருமகனுக்கும் மாமியாருக்கும் இடையே சண்டை ஏற்பட்டுள்ளது.
+
+இந்நிலையில், மாமியாரின் தலை மீது பாரிய பொருள் ஒன்றால் தாக்கியதையடுத்து அவர் உயிரிழந்துள்ளார். மாமியார் உயிரிழந்ததை அடுத்து 30 வயதுடைய மருமகன் அங்கிருந்து தப்பிஓடியுள்ளார்.
+
+இதனையடுத்து அயலவர்கள் பொலிஸாருக்கு தெரிவித்ததையடுத்து சம்பவ இடத்துக்கு சென்ற பொலிஸார் விசாரணைகளை முன்னெடுத்ததுள்ளனர்.
+
+...
+
+[Data](articles/4acf3b61.json)
+
+---
+
+### පොල්අතු පැලක් ගිනිගෙන කාන්තාවක් මිය යයි
+
+*2024-02-24 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193759) · `si`
+
+ඊයේ (23) රාත්‍රී කාලයේ ආරච්චිකට්ටුව පොලිස් වසමේ කිරිවල්කැලේ නිවසක් තුළ සිටි කාන්තාවක් පිළිස්සී මිය ගොස් ඇති බව  ආරච්චිකට්ටුව පොලීසිය වාර්තා කරයි.
+
+මිය ගොස් ඇත්තේ, වයස අවුරුදු 65ක කිරිවල්කැලේ ප්‍රදේශයේ පදිංචි කාන්තාවකි.
+
+මරණකාරිය සිය ස්වාමි පුරුෂයා සමඟ පොල් අතුවලින් තැනූ කුඩා නිවසක ජීවත් ව සිට ඇති අතර, නිවස ගිනි ගැනීමට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
+
+මරණකාරියගේ ස්වාමි පුරුෂයා මේ වන විට ආරච්චිකට්ටුව පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඔහුගෙන් පොලීසිය කළ ප්‍රශ්නකිරීම්වල දී සඳහන් කර ඇත්තේ,  පොල්අතු පැල ගිනි ගන්නා විට තමන් ඉක්මනින් එළියට පැන දිවි බේරා ගත් බව යි.
+
+◼️
+
+[Data](articles/a8f5a22b.json)
+
+---
 
 ### Annual Navam Perahera commences
 
@@ -42,25 +84,29 @@ President Ranil Wickremesinghe and former President Gotabaya Rajapaksa graced th
 
 [Data](articles/bd5c4d18.json)
 
+[Extended Data](ext_articles/bd5c4d18.ext.json)
+
 ---
 
-### කැත්තකින් පහර දී කාන්තාවක් ඝාතනය කෙරේ
+### A woman was assassinated with the coat
 
 *2024-02-24 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193758) · `si`
 
-ඊයේ (23) රාත්‍රියේ වාලච්චේන පොලිස් වසමේ කුලාවඩිච්චේන ප්‍රදේශයේ දී කැත්තකින් පහර දී කාන්තාවක් ඝාතනය කර තිබේ.
+A woman was assaulted by a woman with a woman in the Kandakechina area last night.
 
-මරණකාරිය වයස අවුරුදු 48ක කුලාවඩිච්චේන - වාකනේරි ප්‍රදේශයේ පදිංචිකාරියක් බව වාර්තා වේ.
+The victim is a 48 year old town, a resident of Vakanari, Vakanari.
 
-පෞද්ගලික ආරවුලක් හේතුවෙන් මරණකාරියගේ දියණියගේ පුරුෂයා විසින් මෙම පහර දීම සිදු කර ඇති බව අනාවරණය වී ඇත.
+It has been revealed that the attack had been assaulted by the husband of the deceased due to a personal dispute.
 
-සැකකරු ප්‍රදේශයෙන් පළා ගොස් ඇති අතර, ඔහු ඉකුත් පෙබරවාරි 10 වැනි දා මරණකාරියගේ පුරුෂයාට පොල්ලකින් පහර දී ඝාතනය කළ සිද්ධියකට අදාළ ව සිරගත ව සිට ඇප මත නිදහස ලබා සිටි අයෙකු බවට වාර්තා වේ.
+The suspect had fled the area and he was released on bail after the death of the deceased.
 
-සැකකරු අත්අඩංගුවට ගැනීම සඳහා වාලච්චේන පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+Valachchena Police are conducting further investigations to arrest the suspect.
 
 ◼️
 
 [Data](articles/6c40f0e1.json)
+
+[Extended Data](ext_articles/6c40f0e1.ext.json)
 
 ---
 
@@ -78,6 +124,8 @@ A climatologist from the Department of Meteorology told Daily Mirror that the de
 
 [Data](articles/76f2601f.json)
 
+[Extended Data](ext_articles/76f2601f.ext.json)
+
 ---
 
 ### Rain expected in several areas today
@@ -94,31 +142,35 @@ Misty conditions can be expected at some places in the Western, Sabaragamuwa, Ce
 
 [Data](articles/db69123b.json)
 
+[Extended Data](ext_articles/db69123b.ext.json)
+
 ---
 
-### ගංජා සමඟ හසු වූ කොස්තාපල්ගේ වැඩ තහනම්
+### Constable suspended with cannabis
 
 *2024-02-24 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193757) · `si`
 
-පුත්තලම පොලීසියේ සේවය කරමින් සිටි පොලිස් කොස්තාපල්වරයෙකුගේ වැඩ තහනම් කිරීමට පුත්තලම නියෝජ්‍ය පොලිස්පතිවරයා ඉකුත් 23 වැනි දා කටයුතු කර තිබේ.
+Puttalam DIG has banned the work of a police constable working at the Puttalam police station on the 23rd.
 
-වැඩ තහනමට ලක් ව ඇත්තේ, කල්පිටිය - ආන්දන්කන්නියේ පදිංචි වයස අවුරුදු 40ක පොලිස් කොස්තාපල්වරයෙකි.
+The work was banned from Kalpitiya - Anandankaniya resident of Andankanna, Kalpitiya.
 
-ඒත්තාලේ - ආංකුඩාව ප්‍රදේශයේ රහසිගත ස්ථානයක කිසියම් පිරිසක් ගංජා පානය කරමින් සිටින බවට ඉකුත් 22 වැනි දා සවස නොරොච්චෝලේ පොලීසියට තොරතුරක් ලැබී ඇත.
+Norochcholai Police received information on a secret location in the area of Akakawa.
 
-එම තොරතුරට අනුව අදාළ ස්ථානය වටලා සැකකරුවන් 07 දෙනෙකු නොරොච්චෝලේ පොලීසියේ නිලධාරින් විසින් අත්අඩංගුවට ගෙන තිබේ.
+According to the information, seven suspects have been arrested by Norochcholai police officers.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අතර වැඩ තහනමට ලක් ව ඇති පොලිස් කොස්තාපල්වරයා ද සිට ඇති බව සඳහන් ය.
+The police constable was also present between the suspects.
 
-ඔහු සතු ව තිබී ගංජා මිලි ග්‍රෑම් 1,200ක් ද වැටලීම කළ නිලධාරින් විසින් සොයාගෙන තිබේ.
+The officers who raided transfer of 1,200 millions of cannabis.
 
-සැකකාර පොලිස් කොස්තාපල්වරයා ඇතුළු 07 දෙනා 23 වැනි දා සවස කල්පිටිය වැඩ බලන මහෙස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කර ඇත.
+The suspects were produced before the Kalpitiya Acting Magistrate on the 23rd.
 
-එහි දී සැකකරුවන් රුපියල් ලක්ෂයක වෙන් වෙන් වූ ශරීර ඇප මත මුදා හැර තිබේ.
+The suspects have been released on bail of Rs 100,000.
 
 ◼️
 
 [Data](articles/c6d50415.json)
+
+[Extended Data](ext_articles/c6d50415.ext.json)
 
 ---
 
@@ -139,6 +191,8 @@ A kilo of mutton was at Rs. 3,300, and a kilo of beef Rs. 2,300.
 ◼️
 
 [Data](articles/a88bcd15.json)
+
+[Extended Data](ext_articles/a88bcd15.ext.json)
 
 ---
 
@@ -201,6 +255,8 @@ He said the committee raised heavy criticism about the 70 per cent salary increa
 ...
 
 [Data](articles/58a1ba8f.json)
+
+[Extended Data](ext_articles/58a1ba8f.ext.json)
 
 ---
 
@@ -314,6 +370,8 @@ They said these Sri Lankans have been coerced into various online scams in multi
 
 [Data](articles/1cbd1dc8.json)
 
+[Extended Data](ext_articles/1cbd1dc8.ext.json)
+
 ---
 
 ### Showers or thunderstorms
@@ -347,6 +405,8 @@ It transpired during the meetings between U.S. Deputy Secretary of State for Man
 ...
 
 [Data](articles/69e2b0ff.json)
+
+[Extended Data](ext_articles/69e2b0ff.ext.json)
 
 ---
 
@@ -382,6 +442,8 @@ LOLC Holdings PLC, the esteemed Sri Lankan multinational conglomerate, received 
 
 [Data](articles/2e4b0203.json)
 
+[Extended Data](ext_articles/2e4b0203.ext.json)
+
 ---
 
 ### CSE launches version3 of its Business Intelligence Dashboard – CSE Market IQ (MIQ)
@@ -397,6 +459,8 @@ The advanced level of this dashboard further elevates the effectiveness of manag
 ...
 
 [Data](articles/69537dc8.json)
+
+[Extended Data](ext_articles/69537dc8.ext.json)
 
 ---
 
@@ -416,6 +480,8 @@ Sticky Rice health benefits include increased bone density, decreased inflammati
 
 [Data](articles/9d040576.json)
 
+[Extended Data](ext_articles/9d040576.ext.json)
+
 ---
 
 ### SLT-MOBITEL Enterprise launches tailored suite solutions for MSMEs to ‘Soar Beyond Limits’
@@ -430,6 +496,8 @@ At an Enterprise product Forum held recently, SLT-MOBITEL Enterprise provided MS
 
 [Data](articles/72c86427.json)
 
+[Extended Data](ext_articles/72c86427.ext.json)
+
 ---
 
 ### Uber Eats celebrates couriers with awards worth LKR 8 million
@@ -443,6 +511,8 @@ As part of Delivery Bonanza 4.0, select couriers across Colombo, Kandy, Kurunega
 ...
 
 [Data](articles/e6e05faf.json)
+
+[Extended Data](ext_articles/e6e05faf.ext.json)
 
 ---
 
@@ -2029,45 +2099,5 @@ It was threatened by the military and the videos and photos on their mobile phon
 [Data](articles/7086b1fe.json)
 
 [Extended Data](ext_articles/7086b1fe.ext.json)
-
----
-
-### Tamil people who went to Pongal events at Kandaswamy Hill Temple in Trincomalee
-
-*2024-02-23 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177123) · `ta`
-
-The Pulmottai police have issued a ban on the Pongal event by the Pulmottai police who went to the annual Pongal worship at the Kandaswamy Kandaswamy Hill Murugan Temple, a border in the Trincomalee district.
-
-Pulmottai Police have stopped the monthly full moon day Pongal and Annadhanam of the Kandaswamy Hill Murugan Temple, which was organized by the people of the coconut tree today (23).
-
-The Pongal Festival held by the villagers of Thennamaravadi on the full moon day of the month was organized today.. Pilgrims and civil organizations from various parts of the Trincomalee district attended the festival.
-
-While the arrangements were being made by the people of the village on this occasion, hundreds of police and Special Task Force (Soldiers, Soldiers, Investigators, Investigators, and Rebellions, had come to the temple premises and prevented the villagers from the area and the people from the outskirts.
-
-...
-
-[Data](articles/c93efaf2.json)
-
-[Extended Data](ext_articles/c93efaf2.ext.json)
-
----
-
-### Chief Prelates have lost faith on President, government: Hirunika
-
-*2024-02-23 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chief-Prelates-have-lost-faith-on-President-government-Hirunika/108-277609) · `en`
-
-Colombo, Feb 23 (Daily Mirror) - The Malwathu and Asgiri Chief Prelates have lost their faith on President Ranil Wickremesinghe and with the government as they have begun to raise doubts about the elections being held as scheduled, former MP Hirunika Premachandra said.
-
-Premachandra visited the Chief Prelates yesterday to receive blessings for the launch of the first ever women's summit in Kandy.
-
-After the discussion, she told the media that the prelates had no trust in whether or not the government was going to hold the Presidential election.
-
-"Sometimes the government says that they are going to hold a Presidential election, sometimes they talk about a parliamentary election, and sometimes they say that they are going to have a referandum," she said.
-
-...
-
-[Data](articles/34c20e13.json)
-
-[Extended Data](ext_articles/34c20e13.ext.json)
 
 ---

@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 21:17:19**
+As of **2024-02-24 21:33:05**
 
 ## Newspaper Stats
 
-*Scraped **9,069** Articles*
+*Scraped **9,073** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 92
 bbccomsinhala | 110
-dbsjeyarajcom | 161
+dbsjeyarajcom | 162
 newsfirstlk | 363
 economynextcom | 463
 islandlk | 472
 dailyftlk | 483
 adalk | 759
-adaderanalk | 1,090
-tamilmirrorlk | 1,113
+adaderanalk | 1,092
+tamilmirrorlk | 1,114
 virakesarilk | 1,241
 adaderanasinhalalk | 1,356
 dailymirrorlk | 1,366
@@ -26,35 +26,55 @@ dailymirrorlk | 1,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,068 (100.0%) of 9,069 articles have been extended.
+9,069 (100.0%) of 9,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### වසර 22කට පසු ඝාතන සැකකරුවෙක් අත්අඩංගුවට
+### திடீரென தீப்பற்றி எரிந்த வீடு
+
+*2024-02-24 20:54:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/திடீரென-தீப்பற்றி-எரிந்த-வீடு/74-333733) · `ta`
+
+சாய்ந்தமருது பொலிவேரியன் கிராமத்தில் உள்ள வீடொன்றில் இன்று காலை திடீரென தீப்பற்றி எரிந்தமையால் வீட்டில் இருந்த பொருட்கள் தீக்கிரையானதுடன் வீட்டின் கூரைகள் சேதமாகியுள்ளது.
+
+தீப்பற்றிய நேரத்தில் வீட்டில் யாரும் இருக்கவில்லை என்பதுடன் தீப்பற்றிய வீட்டின் தீயை அணைக்க அயலவர்கள் போராடி தீயணைப்பை மேற்கொண்டதுடன் கல்முனை மாநகர ஆணையாளர் ஏ.எல்.எம். அஸ்மியின் துரித நடவடிக்கையின் பயனாக விரைந்து வந்த கல்முனை மாநகர தீயணைப்பு வாகனமும் தீயணைப்பு நடவடிக்கையில் ஈடுபட்டது.
+
+தீயினால் வீட்டின் பொருட்கள் முற்றாக சேதமாகியதுடன் வீட்டின் கூரையும் அழிவடைந்துள்ளதுடன் உயிராபத்துக்கள் எதுவும் ஏற்படவிலை.
+
+ஸ்தலத்திற்கு விரைந்த பாராளுமன்ற உறுப்பினரும், முன்னாள் இராஜாங்க அமைச்சருமான சட்டத்தரணி எச்.எம்.எம். ஹரீஸ் பாதிக்கப்பட்ட குடும்பத்திற்கு தேவையான உதவிகளை வழங்க விரைவாக தேவையான மேலதிக நடவடிக்கைகளை எடுக்குமாறு உரிய அதிகாரிகளை பணித்திருந்தார். R
+
+◼️
+
+[Data](articles/853e7116.json)
+
+---
+
+### Suspect arrested for 22 years
 
 *2024-02-24 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193781) · `si`
 
-කුරුවිට ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙක් 2002 වසරේදී ඝාතනය කර තිබූ අතර ඊට සැකකෙරුණේ ඔහුගේ බිරිඳගේ සහෝදරයා ය.
+A man who was residing in Kuruwita was murdered in 2002 and suspect his wife's brother.
 
-එවක 22 හැවිරිදි වියේ පසුවූ සැකකරු ඝාතන සිද්ධියෙන් මාස 3කට පසු පොලිස් අත්අඩංගුවට පත්වී පසුව ඇප මත මුදා හැරුණි.
+The suspect was arrested after the murder of the 22 years after the murder of the suspect, he was arrested and released on bail.
 
-සැකකරු දිගින් දිගටම නඩුවට ඉදිරිපත් නොවීම නිසා සැකකරු නොමැතිව පැමිණිල්ලේ සාක්ෂි මත පමණක් පදනම් කරගෙන ක්‍රියාත්මක වූ නීති කෘත්‍යයේදී රත්නපුර මහාධිකරණය 2019දී  තීන්දු කළේ, සැකකරුට මරණ දඬුවම නියම කිරීමටය.
+The Ratnapura High Court ruled in 2019 in 2019, as the suspect was not present with the evidence of the suspect.
 
-කෙසේවෙතත් විදේශ රටවල සංචාරය කළ සැකකරු මේ වසරේ ජනවාරි මස යළි දිවයිනට පැමිණ බෝපත් ඇල්ල - අගලවත්ත ප්‍රදේශයේ අත්හැර දැමූ නිවසක රහසිගතව ජීවත්වී තිබේ.
+However, the suspect who visited foreign countries came to the island again in January this year and lived in a house that was abandoned in Agalawatta area.
 
-සැඟව සිටින මෙම සැකකරු සම්බන්ධයෙන් කුරුවිට පොලිසියේ අපරාධ අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ජී. උදයශාන්ත මහතාට තොරතුරක් ලැබී ඇත්තේ ඒ අතරවාරයේදීය.
+Kuruwita Police OIC Chief Inspector of Police of Kuruwita. At the same time, information received by Mr. Udayashantha has received information.
 
-වහා ක්‍රියාත්මක වූ පොලීසිය ඊයේ රාත්‍රියේ අදාළ සැකකරු අත්අඩංගුවට ගෙන තිබුණි.
+The suspect was arrested last night.
 
-ඒ අනුව තම අක්කාගේ ස්වාමි පුරුෂයා ඝාතනය කිරීමේ සැකකරු අත්අඩංගුවට ගෙන තිබුණේ, වසර 22කට පසුවය.
+The suspect was arrested by the murder of her sister's husband, 22 years later.
 
-සැකකරු අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු එළැඹෙන සඳුදා දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+The suspect was produced in court and remanded until Monday.
 
 ◼️
 
 [Data](articles/92325ba5.json)
+
+[Extended Data](ext_articles/92325ba5.ext.json)
 
 ---
 
@@ -97,6 +117,42 @@ Sri Lanka's 20th group leader Monduwatta has been banned from the ICC.
 [Data](articles/45d507dc.json)
 
 [Extended Data](ext_articles/45d507dc.ext.json)
+
+---
+
+### Wanindu Hasaranga suspended for two matches, fined
+
+*2024-02-24 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97506/wanindu-hasaranga-suspended-for-two-matches-fined) · `en`
+
+Sri Lanka’s T20I captain Wanindu Hasaranga has been suspended for two international matches after his accumulated demerit points reached five within a 24-month period following his latest breach of the ICC Code of Conduct, for which he received a 50 percent fine and three demerit points.
+
+Hasaranga was found guilty of breaching article 2.13 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to ”Personal abuse of a Player, Player Support Personnel, Umpire or Match Referee during an International Match.
+
+Hasaranga’s five demerit points convert to two suspension points. As two suspension points equate to a ban from one Test or two ODIs or T20Is, whatever comes first for the player or player support personnel, Hasaranga stands suspended from Sri Lanka’s first two T20Is against Bangladesh next month.
+
+The incident occurred after the end of the match, when Hasaranga confronted umpire Lyndon Hanibal to criticise him over a decision.
+
+...
+
+[Data](articles/8dcce7bd.json)
+
+---
+
+### CBSL officials summoned by parliamentary committees over 70% salary hike?
+
+*2024-02-24 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97505/cbsl-officials-summoned-by-parliamentary-committees-over-70-salary-hike) · `en`
+
+Several parliamentary committees have decided to summon Central Bank officials to inquire into the legal basis of the substantial salary hike granted to its employees.
+
+Recent media reports revealed that the Central Bank had increased the salaries of its employees by 70% and the move was heavily criticized by both parliamentarians of both the ruling party and the opposition.
+
+In light of the situation that stirred much controversy in the country, Central Bank officials have reportedly been summoned by several parliamentary committees.
+
+Chief Opposition Whip, MP Lakshman Kiriella also recently requested Speaker of Parliament Mahinda Yapa Abeywardena to call the Central Bank officials to the parliament to question them about the matter.
+
+◼️
+
+[Data](articles/09ec286f.json)
 
 ---
 
@@ -2051,67 +2107,5 @@ At the same time, the police who came in civil clothes have been videotaped with
 [Data](articles/846ed466.json)
 
 [Extended Data](ext_articles/846ed466.ext.json)
-
----
-
-### 2024-02-23 (Friday)
-
-### The President inaugurated Navam Maha Perahara
-
-*2024-02-23 23:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/நவம்-மஹா-பெரஹராவை-ஜனாதிபதி-ஆரம்பித்து-வைத்தார்/46-333727) · `ta`
-
-President Ranil Wickremesinghe inaugurated the 45th Navam Maha Perahara of the Hunupitiya Gangarama Vihara in Colombo with a holy bear on the elephant.
-
-◼️
-
-[Data](articles/a36a1105.json)
-
-[Extended Data](ext_articles/a36a1105.ext.json)
-
----
-
-### Germany’s parliament votes to legalize limited marijuana possession and allow ‘cannabis clubs’
-
-*2024-02-23 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97488/germanys-parliament-votes-to-legalize-limited-marijuana-possession-and-allow-cannabis-clubs) · `en`
-
-BERLIN (AP) — German lawmakers on Friday approved a government plan to liberalize rules on cannabis, paving the way for the country to decriminalize limited amounts of marijuana and allow members of “cannabis clubs” to buy it for recreational purposes.
-
-Parliament’s lower house, or Bundestag, backed the legislation, a prominent reform project of Chancellor Olaf Scholz’s socially liberal governing coalition, by 407 votes to 226. There were four abstentions.
-
-Health Minister Karl Lauterbach said the government’s aim is to “fight the black market” and better protect young people. He said current laws in the European Union’s most populous nation have failed, with consumption rising and increasing problems with contaminated or overly concentrated cannabis.
-
-“Whatever we do, we can’t carry on like this,” he told lawmakers. “You can stick your head in the sand … but we won’t solve a single problem that way.”
-
-...
-
-[Data](articles/2b38a8ef.json)
-
-[Extended Data](ext_articles/2b38a8ef.ext.json)
-
----
-
-### Joe Root recovered England with a century;Introducer Deep Abaram, Ashwin Milestone Adventure
-
-*2024-02-23 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177160) · `ta`
-
-England, who faced the fourth Test at the Ranji Stadium in order to avoid losing the five -match Test Test against India, has reached the best position with the help of former team captain Joe Root.
-
-Akash Deep, a debut in the Indian Test squad, can be seen in the picture of his family before the beginning of the tournament.
-
-England, who decided to bat first in the match, started today and scored 302 runs for the loss of 7 wickets in its first innings.
-
-Joe Root, who failed to shine in the first 3 Tests, completed his 31st Test century in the match.
-
-Meanwhile, Akash Deep, who was replaced by Jasprit Bumrah, who was retired to the Test match, lost the first three players of the opposition to the team by losing the team.. But after that, he was unable to achieve.
-
-Ravichandran Ashwin set a milestone record in this Test cricket match against England.
-
-Ashwin set the record of being the first Indian bowler to beat England 100 against England by capturing Johnny Paiso's wicket.
-
-...
-
-[Data](articles/b4efcdcb.json)
-
-[Extended Data](ext_articles/b4efcdcb.ext.json)
 
 ---

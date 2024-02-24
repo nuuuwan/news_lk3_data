@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 08:33:52**
+As of **2024-02-24 08:51:28**
 
 ## Newspaper Stats
 
-*Scraped **8,986** Articles*
+*Scraped **8,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,128 @@ adalk | 754
 adaderanalk | 1,074
 tamilmirrorlk | 1,108
 virakesarilk | 1,227
-adaderanasinhalalk | 1,333
-dailymirrorlk | 1,348
+adaderanasinhalalk | 1,335
+dailymirrorlk | 1,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,978 (99.9%) of 8,986 articles have been extended.
+8,978 (99.8%) of 8,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Annual Navam Perahera commences
+
+*2024-02-24 08:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Annual-Navam-Perahera-commences/110-277645) · `en`
+
+President Ranil Wickremesinghe and former President Gotabaya Rajapaksa graced the first day of the Gangarama Navam Perahara in Colombo along with several other dignitaries last night. Traditional drummers, dancers and whip-crackers added colour to the Perahera. Pic by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/bd5c4d18.json)
+
+---
+
+### කැත්තකින් පහර දී කාන්තාවක් ඝාතනය කෙරේ
+
+*2024-02-24 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193758) · `si`
+
+ඊයේ (23) රාත්‍රියේ වාලච්චේන පොලිස් වසමේ කුලාවඩිච්චේන ප්‍රදේශයේ දී කැත්තකින් පහර දී කාන්තාවක් ඝාතනය කර තිබේ.
+
+මරණකාරිය වයස අවුරුදු 48ක කුලාවඩිච්චේන - වාකනේරි ප්‍රදේශයේ පදිංචිකාරියක් බව වාර්තා වේ.
+
+පෞද්ගලික ආරවුලක් හේතුවෙන් මරණකාරියගේ දියණියගේ පුරුෂයා විසින් මෙම පහර දීම සිදු කර ඇති බව අනාවරණය වී ඇත.
+
+සැකකරු ප්‍රදේශයෙන් පළා ගොස් ඇති අතර, ඔහු ඉකුත් පෙබරවාරි 10 වැනි දා මරණකාරියගේ පුරුෂයාට පොල්ලකින් පහර දී ඝාතනය කළ සිද්ධියකට අදාළ ව සිරගත ව සිට ඇප මත නිදහස ලබා සිටි අයෙකු බවට වාර්තා වේ.
+
+සැකකරු අත්අඩංගුවට ගැනීම සඳහා වාලච්චේන පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/6c40f0e1.json)
+
+---
+
+### Ratnapura turns hot with the highest temperature
+
+*2024-02-24 08:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ratnapura-turns-hot-with-the-highest-temperature/108-277642) · `en`
+
+Colombo, Feb 24 (Daily Mirror) - The temperature in Ratnapura District in Sabaragamuwa Province and Kandy, Nuwara-Eliya in the Central Province had increased due to the decline of wind flow, the Department of Meteorology said.
+
+The temperature in Ratnapura was recorded to be 36c degrees, while Kandy recorded 30c and Nuwaraeliya 21c degrees.
+
+A climatologist from the Department of Meteorology told Daily Mirror that the decline of wind flow had resulted in the temperature rise.“the atmosphere does not get a cooling effect when winds decline.this is why temperatures rise.this is a usual happening during this time of the year,” she said.
+
+...
+
+[Data](articles/76f2601f.json)
+
+---
+
+### Rain expected in several areas today
+
+*2024-02-24 07:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rain-expected-in-several-areas-today/108-277644) · `en`
+
+Colombo, Feb 24 (Daily Mirror) - Thundershowers will occur at several places in the Western, Southern, Sabaragamuwa, Central, North-Western, and Uva Provinces in the evening, the Forecasting Division of the National Meteorological Centre said.
+
+They said showers may occur at a few places in the North-Central Province in the evening.
+
+Misty conditions can be expected at some places in the Western, Sabaragamuwa, Central and Uva Provinces and in the Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/db69123b.json)
+
+---
+
+### ගංජා සමඟ හසු වූ කොස්තාපල්ගේ වැඩ තහනම්
+
+*2024-02-24 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193757) · `si`
+
+පුත්තලම පොලීසියේ සේවය කරමින් සිටි පොලිස් කොස්තාපල්වරයෙකුගේ වැඩ තහනම් කිරීමට පුත්තලම නියෝජ්‍ය පොලිස්පතිවරයා ඉකුත් 23 වැනි දා කටයුතු කර තිබේ.
+
+වැඩ තහනමට ලක් ව ඇත්තේ, කල්පිටිය - ආන්දන්කන්නියේ පදිංචි වයස අවුරුදු 40ක පොලිස් කොස්තාපල්වරයෙකි.
+
+ඒත්තාලේ - ආංකුඩාව ප්‍රදේශයේ රහසිගත ස්ථානයක කිසියම් පිරිසක් ගංජා පානය කරමින් සිටින බවට ඉකුත් 22 වැනි දා සවස නොරොච්චෝලේ පොලීසියට තොරතුරක් ලැබී ඇත.
+
+එම තොරතුරට අනුව අදාළ ස්ථානය වටලා සැකකරුවන් 07 දෙනෙකු නොරොච්චෝලේ පොලීසියේ නිලධාරින් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අතර වැඩ තහනමට ලක් ව ඇති පොලිස් කොස්තාපල්වරයා ද සිට ඇති බව සඳහන් ය.
+
+ඔහු සතු ව තිබී ගංජා මිලි ග්‍රෑම් 1,200ක් ද වැටලීම කළ නිලධාරින් විසින් සොයාගෙන තිබේ.
+
+සැකකාර පොලිස් කොස්තාපල්වරයා ඇතුළු 07 දෙනා 23 වැනි දා සවස කල්පිටිය වැඩ බලන මහෙස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කර ඇත.
+
+එහි දී සැකකරුවන් රුපියල් ලක්ෂයක වෙන් වෙන් වූ ශරීර ඇප මත මුදා හැර තිබේ.
+
+◼️
+
+[Data](articles/c6d50415.json)
+
+---
+
+### Lowest vegetable prices today, high chicken prices
+
+*2024-02-24 07:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lowest-vegetable-prices-today-high-chicken-prices/108-277643) · `en`
+
+Colombo, Feb 24 (Daily Mirror) - The wholesale prices of vegetables at the New Manning Market in Peliyagoda today recorded lower while bringing down the price of carrots to Rs. 350 per kilo.
+
+Accordingly, the wholesale price of a kilo of tomato was Rs. 450, Beans Rs. 450 and Leeks Rs. 300.
+
+The wholesale price of Capsicum and Green Chillies were a bit higher as Rs. 700 and Rs. 600, while a kilo of ginger was Rs. 1,200.
+
+However, the price of a kilo of fresh chicken was Rs. 1,150; skinless chicken Rs. 1,100 and curry chicken Rs. 1,150.
+
+A kilo of mutton was at Rs. 3,300, and a kilo of beef Rs. 2,300.
+
+◼️
+
+[Data](articles/a88bcd15.json)
+
+---
 
 ### Showers or thundershowers likely in some areas today
 
@@ -73,6 +183,24 @@ Meanwhile, the Ceylon Electricity Association (CEB) Association has stated that 
 [Data](articles/200f9969.json)
 
 [Extended Data](ext_articles/200f9969.ext.json)
+
+---
+
+### Central Bank asked to provide report within one week
+
+*2024-02-24 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-asked-to-provide-report-within-one-week/155-277641) · `en`
+
+Colombo, Feb 24 (Daily Mirror) - Amidst criticism over the exorbitant salary hike of the Central Bank employees, a top parliamentary committee has called for a report from the Central Bank on the legal provisions for such a salary increment without parliamentary approval.
+
+Chairman of the Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis MP Gamini Waleboda said the matter regarding the salary hike was raised during the committee meeting on Thursday when the Central Bank officials were present.
+
+He said the Central Bank is expected to submit the report on the salary increment next week and after that, the Central Bank and its Monetary Board would be summoned before the Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis.
+
+He said the committee raised heavy criticism about the 70 per cent salary increase of the Central Bank employees amidst the economic crisis, and called it an immoral act.
+
+...
+
+[Data](articles/58a1ba8f.json)
 
 ---
 
@@ -174,6 +302,20 @@ The Magistratesitha Magistrate's Court reporter said that the accident had been 
 
 ---
 
+### Foreign Ministry pursues all avenues for repatriation of Sri Lankan victims trafficked into Myanmar
+
+*2024-02-24 06:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foreign-Ministry-pursues-all-avenues-for-repatriation-of-Sri-Lankan-victims-trafficked-into-Myanmar/108-277640) · `en`
+
+Colombo, Feb 24 (Daily Mirror) - The Foreign Affairs Ministry, in coordination with the Embassy of Sri Lanka in Myanmar continues to make every effort to rescue and repatriate the Sri Lankan nationals who have become victims of human trafficking and are trapped in Myanmar, the Foreign Affairs Ministry in Colombo said.
+
+They said these Sri Lankans have been coerced into various online scams in multiple locations within the Myawaddy area of Myanmar, under the pretext of legitimate job offers in the IT field.
+
+...
+
+[Data](articles/1cbd1dc8.json)
+
+---
+
 ### Showers or thunderstorms
 
 *2024-02-24 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193752) · `si`
@@ -191,6 +333,20 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/14ea17ad.json)
 
 [Extended Data](ext_articles/14ea17ad.ext.json)
+
+---
+
+### US ready for further financial cooperation with Sri Lanka
+
+*2024-02-24 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-ready-for-further-financial-cooperation-with-Sri-Lanka/108-277618) · `en`
+
+Feb 23, (Daily Mirror) -  The United States (US) which invested half a billion dollars in the development of the West Container Terminal of the Colombo Port has expressed interest in similar financial cooperation with Sri Lanka, Daily Mirror learns.
+
+It transpired during the meetings between U.S. Deputy Secretary of State for Management and Resources Richard Verma and the Sri Lankan leaders during his visit to the country. Last year, the US, through its International Development Finance Corporation (DFC) provided US $ 553 million loan to the Colombo West International Terminal Private Limited to support the development of the deep water West Container Terminal located within the Port of Colombo. The US set up this institution under the current administration as it competes with China in international development financing.
+
+...
+
+[Data](articles/69e2b0ff.json)
 
 ---
 
@@ -752,7 +908,9 @@ Feb 23 (Daily Mirror) - A controversial 'white only' themed party scheduled to t
 
 The event, which was promoted as an 'Opening White Party,' stirred significant controversy due to its discriminatory nature. Organizers intended to implement a face control policy where entry would be restricted solely to individuals deemed fitting by bouncers based on their white skin, wealth, style, or demeanor.
 
-'Face control,' a term commonly used in upscale nightclubs, refers to the practice of regulating entry based on subjective assessments of individuals' appearances and social status.Announcing the cancellation on Instagram, the organizers cited escalating concerns about racism as the primary reason behind their decision. In a post, they expressed regret for the hurt feelings caused by the event's concept and apologized to those offended by the idea.
+'Face control,' a term commonly used in upscale nightclubs, refers to the practice of regulating entry based on subjective assessments of individuals' appearances and social status.
+
+Announcing the cancellation on Instagram, the organizers cited escalating concerns about racism as the primary reason behind their decision. In a post, they expressed regret for the hurt feelings caused by the event's concept and apologized to those offended by the idea.
 
 ...
 
@@ -1911,199 +2069,5 @@ After the discussion, she told the media that the prelates had no trust in wheth
 [Data](articles/34c20e13.json)
 
 [Extended Data](ext_articles/34c20e13.ext.json)
-
----
-
-### Architect 2024 at BMICH
-
-*2024-02-23 13:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Architect-2024-at-BMICH/110-277608) · `en`
-
-Architect 2024, the biggest construction and architecture exhibition of the year, was launched at the BMICH. The exhibition is organized by the Sri Lankan Architects' Association with the masters in the field. It will be held till Sunday (25) from 10 a.m. to 10 p.m. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/0a0a7b28.json)
-
-[Extended Data](ext_articles/0a0a7b28.ext.json)
-
----
-
-### Woman dies in Jaffna
-
-*2024-02-23 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177120) · `ta`
-
-The bus route has been canceled by the Northern Provincial Transport Authority in the wake of the driver's emergency.
-
-The woman fell and fell into a hurry when the driver had hurriedly moved the bus when a woman tried to get off the bus last Monday in Jaffna - Analadeevu area.
-
-The driver of the Kayts police, who investigated the incident, arrested the driver of the Kayts, and the driver was placed on a court order.
-
-In this case, the Northern Provincial Transport Authority has investigated the incident and canceled the bus's permission.
-
-It has been reported that the buses are competing due to the rivalry and the Northern Provincial Transport Authority at the Jaffna Mawatha Secretariat Complex can appeal to the drivers who are pushing so fast.
-
-◼️
-
-[Data](articles/f46c7491.json)
-
-[Extended Data](ext_articles/f46c7491.ext.json)
-
----
-
-### A private company wins the moon
-
-*2024-02-23 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193733) · `si`
-
-US private company has been able to lay a plane successfully to the Southern Sundantha Pole.
-
-It is the first time this is the first time a private company has landed a plane to the Moon, and is the first time since 1972, after 192 years.
-
-The Houston, University of America, was launched in the first Moonage Menatana last week.
-
-Odysius, who sent to the Moon on the 15th, was passed by Canavaral Trust.
-
-Intertive (Pvt) Ltd was able to landed the Odysius today (23).
-
-Interests, research on the southern pole of the moon is the behavior of the moon is the aim of Iutive Machines.
-
-Accordingly, the plane has been landed on a mountain range of mountains with 5 km high.
-
-A spacecraft marked the highest mark to the right hand of the moon.
-
-Scientists believe that there are very deep crater that is not the case with the sunlight, and there is a cold water.
-
-Scientists say they are able to obtain oxygen for fuel and the astronauts.
-
-...
-
-[Data](articles/20bdbb89.json)
-
-[Extended Data](ext_articles/20bdbb89.ext.json)
-
----
-
-### Allow 3 crore eggs to be imported
-
-*2024-02-23 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177115) · `ta`
-
-The import of another 3 crore eggs from India has been allowed for the festive season.
-
-The Secretary of the Ministry of Commerce, Commerce and Food Defense said that the import of 6 crore eggs was recently allowed between January and April.
-
-Accordingly, 9 crore eggs are to be imported, the secretary added.
-
-◼️
-
-[Data](articles/61ca5a2b.json)
-
-[Extended Data](ext_articles/61ca5a2b.ext.json)
-
----
-
-### Police stopped Pongal
-
-*2024-02-23 12:51:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/பௌர்ணமி-பொங்கலை-தடுத்து-நிறுத்திய-பொலிஸார்/75-333709) · `ta`
-
-It has been reported that the monthly full moon day of the Kandaswamy Hill Murugan Temple, which was organized by the people of the Trincomalee - Coconut people, has been stopped today (23).
-
-The Pongal Festival held by the villagers of Thennamaravadi on the full moon day of the month was organized today.
-
-The festival was attended by the villagers and members of civil organizations, including pilgrims from several parts of the Trincomalee district.
-
-While the arrangements were being made by the people of the village on this occasion, more than 100 police and Special Task Force personnel who had suddenly entered the temple premises with weapons and chased away the villagers from the area and the people from the outside.
-
-Mr. Civil activist who attended the event.. Lavakusarasa and the activists who were accompanied by him had been dismissed from the court and stopped the Pongal and the people of Akirama were evacuated and the village situation was tense.
-
-...
-
-[Data](articles/eb77e239.json)
-
-[Extended Data](ext_articles/eb77e239.ext.json)
-
----
-
-### More than 40,000 fake doctors in the country - State Medical Officers Association
-
-*2024-02-23 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177110) · `ta`
-
-The State Medical Officers Association (GMOA) said that there are more than 40,000 fake doctors in the middle of the country.
-
-State Medical Officers Association spokesman Dr. Samil Wijesinghe said that complaints have been received regarding the treatment of patients in dangerous conditions.
-
-Medical assistants, nurses or a member of the sub -medical services have been identified as a doctor and treating patients in the village or hometown where they are present.
-
-In this case, within the Sri Lankan health organization, only one doctor has the ability, responsibility and authority to prescribe medication for a patient. No one else has the ability or authority to do so,
-
-He said that the patient could only undergo a prescribed drug or laboratory test.
-
-◼️
-
-[Data](articles/87206586.json)
-
-[Extended Data](ext_articles/87206586.ext.json)
-
----
-
-### Harsha on an official visit to Australia
-
-*2024-02-23 12:43:37* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂ-ඔස්ට්‍රේලියාවේ-නිල-සංචාරයක/11-408245) · `si`
-
-Dr. Harsha de Silva, Chairman of the House of Representatives and Public Finance Committee, will visit Australia on a tourist government's official invitation.
-
-He is to meet a number of important parties for nine days, as a special guest, and meet the policy makers, scholars, scientists and investment managers of Melbourne first.
-
-Thereafter, he is to meet a number of government officials and politicians living in Adelaide and Canberra.
-
-◼️
-
-[Data](articles/c360f181.json)
-
-[Extended Data](ext_articles/c360f181.ext.json)
-
----
-
-### Kachchativu: Festival of Indo-Lanka Fisheries Program
-
-*2024-02-23 12:33:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p9k80yleyo) · `si`
-
-South Indian fishermen launched a series of protests against the arrest of a group of Indian fishermen engaged by the Sri Lanka Navy.
-
-They said that if South Indian fishermen were released in Sri Lankan custody, they would boycott their attendance to attend the 2024 Kachchativu Deva.
-
-Kachchativu Island is an island group of islands belonging to Sri Lanka and the island of Sri Lanka is the island of Sri Lanka.
-
-The Kachchativu Island is located near the city of Rameshwaram, South India, and in some cases, the height of the height of Rameswaran is observed.
-
-The Google map shows that there is nearly 63 km from Jaffna to Kachchativu Island, from Jaffna, from Jaffna to Kachchativu Island.
-
-The Kachchativu Island is nearly 280 acres and the Kachchativu Island was used as a fishing halt.
-
-Indian fishermen and Sri Lankan fishermen are in the most common fishing operation of the Natural Resources of the Natural Resources.
-
-...
-
-[Data](articles/55dfd4b7.json)
-
-[Extended Data](ext_articles/55dfd4b7.ext.json)
-
----
-
-### State Minister hails Sri Lanka’s ‘civilisational link’ with India, calls China ‘important trading partner’
-
-*2024-02-23 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97477/state-minister-hails-sri-lankas-civilisational-link-with-india-calls-china-important-trading-partner) · `en`
-
-Tharaka Balasuriya, Sri Lanka’s Minister of State for Foreign Affairs, spoke to WION’s diplomatic correspondent Sidhant Sibal on the sidelines of Raisina Dialogue 2024 in New Delhi.
-
-Balasuriya weighed in on several issues ranging from the India-Lanka relationship, Colombo’s ties with China, tourism, Unified Payments Interface (UPI), and more.
-
-While speaking on China, Balasuriya said that “both countries are friends”, but in India’s case it’s a “civilisational link” as he pointed out the historical connection of cultures. He said that China is an “important trading partner”, but so are other countries.
-
-WION: How do you see the India-Sri Lanka relationship, especially in the light of financial connectivity? We saw recently the launch of UPI in your country.
-
-...
-
-[Data](articles/962454e5.json)
-
-[Extended Data](ext_articles/962454e5.ext.json)
 
 ---

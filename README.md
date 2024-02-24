@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 12:49:12**
+As of **2024-02-24 13:02:46**
 
 ## Newspaper Stats
 
-*Scraped **9,025** Articles*
+*Scraped **9,027** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 483
 adalk | 757
 adaderanalk | 1,081
 tamilmirrorlk | 1,111
-virakesarilk | 1,233
+virakesarilk | 1,235
 adaderanasinhalalk | 1,341
 dailymirrorlk | 1,358
 
@@ -26,11 +26,49 @@ dailymirrorlk | 1,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,025 (100.0%) of 9,025 articles have been extended.
+9,025 (100.0%) of 9,027 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### மோட்டார் சைக்கிள் விபத்தில் இளைஞன் உயிரிழப்பு ; ஒருவர் காயம்
+
+*2024-02-24 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177184) · `ta`
+
+கலென்பிந்துனுவெவ - கெட்டலாவ பகுதியில் மோட்டார் சைக்கிள் விபத்துக்குள்ளானதில் 19 வயது இளைஞர் உயிரிழந்ததுடன், மற்றுமொருவர் படுகாயமடைந்து மருத்துவமனையில் சிகிச்சை பெற்று வருகிறார்.
+
+வேகமாக பயணித்த மோட்டார் சைக்கிள் அதன் கட்டுபாட்டை இழந்ததால், வீதியை விட்டு விலகி, வீதியோரத்தில் இருந்த சுவரில் மோதியுள்ளது.
+
+இதன்போது மோட்டார் சைக்கிளில் பயணித்த இருவரும் காயமடைந்த நிலையில், சிகிச்சைக்காக கலன்பிந்துனுவெவ வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+
+அதனையடுத்து, சிகிச்சை பெற்றுவரும் இருவரில் ராஜாங்கனை தெற்கு பிரதேசத்தைச் சேர்ந்த  இளைஞர் சிகிச்சை பலனின்றி உயிரிழந்தார்.
+
+காயமடைந்த மற்றைய நபர் மேலதிக சிகிச்சைக்காக அனுராதபுரம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2fba0748.json)
+
+---
+
+### இந்தியா ஒரு மூத்த சகோதரன் - சீனாவுடனான உறவு குறித்து இந்தியா கவலைப்படவேண்டியதில்லை –  வெளிவிவகார இராஜாங்க அமைச்சர்
+
+*2024-02-24 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177181) · `ta`
+
+இலங்கை இந்தியாவை ஒரு மூத்தசகோதரனாக கருதுவதாக தெரிவித்துள்ள வெளிவிவகார இராஜாங்க அமைச்சர் தாரகபாலசூர்ய 2048ம் ஆண்டுக்குள் நாட்டை அபிவிருத்தி செய்யும் நோக்கத்துடன் உள்ள இலங்கை இந்தியாவின் முன்மாதிரியை அறிந்துகொள்ள விரும்புவதாகவும் தெரிவித்துள்ளார்.
+
+இலங்கை இந்தியாவுடன் இணைந்து செயற்படவிரும்புகின்றது என ஏன்ஐக்கு தெரிவித்துள்ள அவர் இந்திய நிறுவனங்கள் இலங்கையில் முதலீடு செய்ய முன்வரவேண்டும் என வேண்டுகோள் விடுத்துள்ளார்.
+
+இலங்கையை அபிவிருத்தி செய்வதற்கான முயற்சிகள் குறித்து கருத்து தெரிவித்துள்ள அவர் நாங்கள் உதவிகளை எதிர்பார்க்கவில்லை இணைந்த செயற்பாடுகளையே எதிர்பார்க்கின்றோம் நாங்கள் இந்தியாவை ஒரு சகாவாக பார்க்கின்றோம் நாங்கள் இந்தியாவை ஒரு மூத்தசகோதரனாக பார்க்கின்றோம் அதன் வெற்றிகதையை பார்க்கின்றோம் எனவும் தெரிவித்துள்ளார்.
+
+இந்தியா ஒரு அபிவிருத்தியடைந்த நாடு என்ற நிலையை நோக்கி சென்றுகொண்டிருக்கின்ற இந்த தருணத்தில் இந்தியா அதனை எவ்வாறு சாதித்தது என்பதை அறிந்துகொள்ள விரும்புகின்றோம் எனவும் தாரகபாலசூர்ய தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/30015435.json)
+
+---
 
 ### Blood-leakage treatment at Kurunegala Hospital closes
 
@@ -2085,41 +2123,5 @@ The Deputy Secretary of State has thanked President Ranil Wickremesinghe for the
 [Data](articles/7f7e7495.json)
 
 [Extended Data](ext_articles/7f7e7495.ext.json)
-
----
-
-### Indian legislator, 37, dies in car accident
-
-*2024-02-23 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Indian-legislator-37-dies-in-car-accident/107-277613) · `en`
-
-Sangareddy, Feb 23 (India Today) -  G Lasya Nanditha, a prominent Bharat Rashtra Samithi (BRS) politician and Member of the Telangana Legislative Assembly, died in a car accident in Sangareddy on Friday.
-
-The accident occurred on the Sultanpur Outer Ring Road (ORR) in the district’s Aminpur mandal. Nanditha, 37, was travelling in an SUV when it reportedly lost control and collided with the divider, leading to fatal injuries for the MLA.
-
-She was rushed to a nearby hospital, where doctors declared her dead on arrival. The driver was critically injured in the crash and is currently receiving medical treatment.
-
-...
-
-[Data](articles/58743fda.json)
-
-[Extended Data](ext_articles/58743fda.ext.json)
-
----
-
-### Indian legislator, 37, dies in car accident
-
-*2024-02-23 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-legislator-37-dies-in-car-accident/108-277613) · `en`
-
-Sangareddy, Feb 23 (India Today) -  G Lasya Nanditha, a prominent Bharat Rashtra Samithi (BRS) politician and Member of the Telangana Legislative Assembly, died in a car accident in Sangareddy on Friday.
-
-The accident occurred on the Sultanpur Outer Ring Road (ORR) in the district’s Aminpur mandal. Nanditha, 37, was travelling in an SUV when it reportedly lost control and collided with the divider, leading to fatal injuries for the MLA.
-
-She was rushed to a nearby hospital, where doctors declared her dead on arrival. The driver was critically injured in the crash and is currently receiving medical treatment.
-
-...
-
-[Data](articles/a7fa9372.json)
-
-[Extended Data](ext_articles/a7fa9372.ext.json)
 
 ---

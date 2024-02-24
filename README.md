@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 14:17:29**
+As of **2024-02-24 14:33:07**
 
 ## Newspaper Stats
 
-*Scraped **9,032** Articles*
+*Scraped **9,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 463
 islandlk | 472
 dailyftlk | 483
 adalk | 757
-adaderanalk | 1,082
+adaderanalk | 1,083
 tamilmirrorlk | 1,111
 virakesarilk | 1,235
 adaderanasinhalalk | 1,345
@@ -26,33 +26,59 @@ dailymirrorlk | 1,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,031 (100.0%) of 9,032 articles have been extended.
+9,032 (100.0%) of 9,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### බීඩිකොළ සමඟ ඉන්දීය ජාතිකයන් පස් දෙනෙකු අත්අඩංගුවට
+### US targets Russia with more than 500 new sanctions
+
+*2024-02-24 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97499/us-targets-russia-with-more-than-500-new-sanctions) · `en`
+
+The US has announced more than 500 new sanctions against Russia over its invasion of Ukraine and the death of opposition leader Alexei Navalny.
+
+These include measures against Russia’s main card payment system, financial and military institutions, and officials involved in Navalny’s imprisonment.
+
+The EU has also announced new sanctions on access to military technology.
+
+The measures mark a week since Navalny suddenly died in an Arctic Circle jail.
+
+US President Joe Biden, who met Navalny’s widow and daughter in San Francisco on Thursday, has said there can be “no doubt” the Russian president was to blame for his death.
+
+The newly-announced US measures also include nearly 100 firms and individuals which will also face export restrictions.
+
+Others target the state-owned operator of Mir, Russia’s main payment system, which has become more prominent since Visa and Mastercard suspended their services there.
+
+...
+
+[Data](articles/1d39e1e5.json)
+
+---
+
+### Five Indian nationals arrested with bedicho
 
 *2024-02-24 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193768) · `si`
 
-ඉන්දියාවේ සිට නීති විරෝධී ව ඩිංගි යාත්‍රාවක් මඟින් බීඩි කොළ තොගයක් රැගෙන එන බවට මීගමුව සුරාබදු කාර්යාලය වෙත තොරතුරක් ලැබී ඇත.
+Information is received from the Negombo Excise Office that a manuscript is carrying a stock of beady from India from India.
 
-ඒ අනුව ශ්‍රී ලංකා නාවික හමුදාවේ සහාය ඇති ව මීගමුව සුරාබදු කාර්යාලයේ කණ්ඩායමක් එක් ව පුත්තලමට ආසන්න මෙරට මුහුදු සීමාවේ දී පසුගිය මස 19 වැනි දා මෙහෙයුමක් සිදු කර තිබිණි.
+Accordingly, a group of the Negombo Excise Office at the Sri Lanka Navy, a team of the Negombo Excise office had been operated on the 19th of last month.
 
-එහි දී  ඩිංගි යාත්‍රාවක සිටි ඉන්දීය ජාතිකයන් 05 දෙනෙකු නාවික හමුදාව සිය භාරයට ගෙන ඇති අතර, ඔවුන් පැමිණි යාත්‍රාවේ තිබී බීඩි එතීමට ගන්නා තෙන්දු කොළ ඇසිරූ උර 75ක් හමු ව ඇත.
+The navy has taken into custody by the Navy in a dingry vessel, and 75 students who have been in the vessel they arrived.
 
-පසු ව නාවික හමුදාව සිය භාරයට ගත් සැකකරුවන් සහ තෙන්දු කොළ තොගය සුරාබදු දොපාර්තමේන්තුව වෙත භාර දී තිබේ.
+Later, the suspects and the collapses were handed over to the Excise Department.
 
-එම දෙපාර්තමේන්තුව සඳහන් කළේ, බීඩී කොළ කිලෝග්‍රෑම් 2,175ක් එහි තිබී හමු වූ බවය.
+The department stated that 2,175 kilograms of BD leaves were found there.
 
-සුරාබදු දෙපාර්තමේන්තුව භාරයට ගත් ඉන්දියානු ජාතිකයන් සියලු දෙනා වයස අවුරුදු 20ට අඩු පුද්ගලයන් වන අතර, ඔවුන් ඉන්දියාවේ තූත්තුකුඩි සිට මෙරටට මුහුදු සීමාවට පැමිණ තිබිණි.
+All Indians who were taken into custody by the Excise Department are under 20 years of age and they have reached the country to Sri Lanka from Tuturukudi.
 
-මීගමුව සුරාබදු කාර්යාලය මඟින් ඉදිරි විමර්ශන කටයුතු ක්‍රියාත්මක කරනු ලබයි.
+Investigations are being carried out by the Negombo Excise Office.
 
 ◼️
 
 [Data](articles/4af45b3d.json)
+
+[Extended Data](ext_articles/4af45b3d.ext.json)
 
 ---
 
@@ -2113,39 +2139,5 @@ Assuring New Delhi on security concerns, he said: "We are open for business with
 [Data](articles/f1525b71.json)
 
 [Extended Data](ext_articles/f1525b71.ext.json)
-
----
-
-### Sri Lanka does not have the greatest political aspirations of all countries to trade with all countries
-
-*2024-02-23 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177143) · `ta`
-
-Sri Lanka has no major political aspirations.
-
-We have recently seen the UPI in your country, as the financial combination of financial affiliation has begun.
-
-Answer: I think Indian relations are never in a strong higher level.
-
-If you look at the issues that took place over a year and a half ago in Sri Lanka, they were formed due to lack of financial dollars.
-
-Our biggest tourist market is India.
-
-Indians travel to Sri Lanka and make it easier to make the Indian rupee.
-
-Question: Indian Foreign Minister appealed to Indians to visit Sri Lanka?How do you consider the tourist attraction for Indians?
-
-Reporter -I have visited Sri Lanka but it is in an unprecedented moment -after a Sunday attack
-
-Taraka- Your Foreign Minister said that Sri Lanka is a country of 65,000 squaremm in a country but everyone has everything.
-
-It is not surprising that Markapolos said Sri Lanka was the best island.
-
-The best beaches in the world are in our country. There are very cold climates.
-
-...
-
-[Data](articles/69cc9862.json)
-
-[Extended Data](ext_articles/69cc9862.ext.json)
 
 ---

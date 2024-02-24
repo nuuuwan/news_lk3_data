@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 15:51:16**
+As of **2024-02-24 16:02:50**
 
 ## Newspaper Stats
 
-*Scraped **9,041** Articles*
+*Scraped **9,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 463
 islandlk | 472
 dailyftlk | 483
 adalk | 757
-adaderanalk | 1,083
+adaderanalk | 1,085
 tamilmirrorlk | 1,111
-virakesarilk | 1,238
+virakesarilk | 1,239
 adaderanasinhalalk | 1,346
 dailymirrorlk | 1,362
 
@@ -26,11 +26,53 @@ dailymirrorlk | 1,362
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,041 (100.0%) of 9,041 articles have been extended.
+9,044 (100.0%) of 9,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Gangarama Temple’s Annual Navam Maha Perahara parade the streets
+
+*2024-02-24 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97500/gangarama-temples-annual-navam-maha-perahara-parade-the-streets) · `en`
+
+The 45th Nawam Maha Perahera of the Hunupitiya Gangarama Temple in Colombo kicked off on Friday (Feb.23) with President Ranil Wickremesinghe placing the sacred casket on the ceremonial elephant, symbolizing the start of the procession.
+
+Emphasizing the significance of unity among devotees, the State of Head underscored that it forms the foundation of a vibrant cultural festival.
+
+Addressing the gathering as the chief guest at the Navam Maha Perahara organized by the Gangarama Temple in Colombo, President Wickremesinghe highlighted the annual event as a testament to the unity and devotion of its participants. He inaugurated the temple’s digital website, noting its role in enhancing the audience’s experience of the Perahera through modern technology.
+
+...
+
+[Data](articles/629ad9f5.json)
+
+[Extended Data](ext_articles/629ad9f5.ext.json)
+
+---
+
+### Fisheries community calls for struggle on Indo -Sri Lanka
+
+*2024-02-24 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177201) · `ta`
+
+The Jaffna District Rural Fisheries Organization has called for a black flag struggle against Indian drag boats on the Indo -Sri Lankan waters.
+
+The representative of the organization, Bhakiyanathan Regan, called on a media briefing held at their office in Jaffna on Saturday (24).
+
+When the Indian drag boats entered our waters and destroyed the entrepreneurship, the fishermen who were traveled by the Indian navy were seized by the Emata Navy.. Now the Indian government is putting pressure on our government to release the fishermen.
+
+How can we release those who destroyed our resources?They can be released only after they have been sentenced. Because our resources have been destroyed for many years.
+
+Those who have survived our resources and survivors ask their fishermen to release them when our government holds our government.
+
+Next week, our marine workers will hold a black flag struggle on the Sri Lankan -Indian waters.
+
+...
+
+[Data](articles/4fd120a7.json)
+
+[Extended Data](ext_articles/4fd120a7.ext.json)
+
+---
 
 ### Two Sri Lankans deported China
 
@@ -299,6 +341,30 @@ Dr. Nick Frazer, a member of the International Team who studied this fossil, sai
 [Data](articles/18158270.json)
 
 [Extended Data](ext_articles/18158270.ext.json)
+
+---
+
+### Mahabage shooting: Army deserter arrested over “Ukkuwa’s” murder
+
+*2024-02-24 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97498/mahabage-shooting-army-deserter-arrested-over-ukkuwas-murder) · `en`
+
+A Sri Lanka Army deserter has been arrested by the Police Special Task Force (STF) this morning (Feb.24), in connection with the shooting incident in Mahabage earlier this week.
+
+He is said to be one of the main suspects wanted in the murder case.
+
+According to the STF, the arrestee was a Corporal attached to the 4th Battalion of the Gemunu Watch Regiment at the Army camp in Chenkalady, Batticaloa.
+
+He had fled the camp when the STF officers were approaching but was later taken into custody in the Ampara area.
+
+Three unidentified assailants had opened fire using a revolver, around 7:15 a.m. on Feb.21 near a meat shop in Elapitiwala Junction, Mahabage, leaving the shop owner dead. The victim had succumbed to injuries while being rushed to the Colombo North Teaching Hospital in Ragama.
+
+The deceased was identified as Hettiarachchige Don Sujith alias “Ukkuwa”, the brother-in-law of the criminal gang leader “Welle Saranga” and a resident of North Batagama in Ja-Ela.
+
+...
+
+[Data](articles/c31df97c.json)
+
+[Extended Data](ext_articles/c31df97c.ext.json)
 
 ---
 
@@ -2071,69 +2137,5 @@ A special meeting was held yesterday at the office of the party in Kilinochchi t
 [Data](articles/2ebf9b18.json)
 
 [Extended Data](ext_articles/2ebf9b18.ext.json)
-
----
-
-### Sri Lankan in Kuwait reportedly shot by customer over delayed food order
-
-*2024-02-23 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97485/sri-lankan-in-kuwait-reportedly-shot-by-customer-over-delayed-food-order) · `en`
-
-A Sri Lankan expatriate employed as a food delivery driver in Kuwait has reportedly been shot by a customer over a delayed order.
-
-The 44-year-old, hailing from Rajanganaya, says he has been living in Kuwait for about 8 years now.
-
-Giving his account of the incident, Lakshman Thilakaratne, said it happened on January 10. According to him, the initial location details given by the customer were wrong, and as a result, he had to drive to a different location to complete the delivery.
-
-However, the customer in question, agitated by the delay, had opened fire when Thilakaratne arrived at his doorstep. He reportedly sustained serious injuries to his abdomen.
-
-After being shot, he said he drove his car back with blood gushing out from the wounds and contacted an Indian acquaintance who rushed him to the hospital.
-
-...
-
-[Data](articles/b9776b03.json)
-
-[Extended Data](ext_articles/b9776b03.ext.json)
-
----
-
-### Legal action against unauthorized conferment of national awards, honorary titles
-
-*2024-02-23 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97484/legal-action-against-unauthorized-conferment-of-national-awards-honorary-titles) · `en`
-
-Presidential Secretary Saman Ekanayake has directed the respective officials to initiate legal actions against the unauthorized conferment and utilization of national awards and honorary titles.
-
-The Presidential Secretariat said it is actively overseeing instances where individuals and non-governmental entities are bestowing awards, certificates, and titles falsely representing the prestigious national honours granted by the President to distinguished Sri Lankans.
-
-These recognitions are traditionally bestowed through a formal process meticulously evaluated by designated authorities.
-
-Emphasizing the imperative to promptly cease the misappropriation of national award titles by unauthorized entities, the Presidential Secretary underscored the potential for such unauthorized actions to inflict considerable injustice and disrespect upon the genuinely esteemed Sri Lankan recipients of these honours.
-
-...
-
-[Data](articles/976cd12f.json)
-
-[Extended Data](ext_articles/976cd12f.ext.json)
-
----
-
-### Sri Lankans may need to wait for Monetary Board meeting minutes despite new Act
-
-*2024-02-23 19:02:00* · [`economynextcom`](https://economynext.com/sri-lankans-may-need-to-wait-for-monetary-board-meeting-minutes-despite-new-act-152034/) · `en`
-
-ECONOMYNEXT – Sri Lankans may have to wait more time to read the meeting minutes of the Central Bank’s Monetary Board, a top official said, despite a new act that has made the central bank to be more transparent and accountable for its decisions.
-
-Many central banks including the United States’ Federal Reserve, India’s Reserve Bank, and Bank of Mexico release the minutes of their monetary policy meeting to ensure transparency.
-
-The new Central Bank Act passed by the Parliament in line with the guidance by the International Monetary Fund (IMF) includes measures for Sri Lanka’s central bank to be more transparent and accountable.
-
-These measures include releasing the Monetary Policy Report every six months and the first such report was released on February 15.
-
-However, the central bank has not taken a decision to release the minutes of the Monetary Board meetings on the monetary policy.
-
-...
-
-[Data](articles/7c57d3e8.json)
-
-[Extended Data](ext_articles/7c57d3e8.ext.json)
 
 ---

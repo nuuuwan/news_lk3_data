@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 11:17:29**
+As of **2024-02-24 11:33:03**
 
 ## Newspaper Stats
 
-*Scraped **9,012** Articles*
+*Scraped **9,016** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,96 @@ newsfirstlk | 363
 economynextcom | 462
 islandlk | 472
 dailyftlk | 483
-adalk | 754
-adaderanalk | 1,078
+adalk | 756
+adaderanalk | 1,079
 tamilmirrorlk | 1,111
 virakesarilk | 1,231
 adaderanasinhalalk | 1,339
-dailymirrorlk | 1,357
+dailymirrorlk | 1,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,008 (100.0%) of 9,012 articles have been extended.
+9,012 (100.0%) of 9,016 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### ඉබ්බන්කටුව ජලාශයේ ගිලී පාසල් සිසුවෙකු ජීවිතක්ෂයට
+### Lellama shooting: Two more youths arrested over attempted murder
+
+*2024-02-24 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97494/lellama-shooting-two-more-youths-arrested-over-attempted-murder) · `en`
+
+The police have arrested two more suspects implicated in the recent attempted murder of a man in Lellama area of Modara.
+
+On February 16, two unidentified assailants who had arrived on a motorcycle had opened fire at a man.
+
+Accordingly, this duo was arrested in Modara and Grandpass areas for allegedly aiding and abetting the shooting.
+
+The two suspects, aged 19 and 28 years, are reportedly residents of Colombo 14 and 15 areas.
+
+Investigating officers have also found 5g 800mg of heroin on one of the suspects.
+
+As such, a total of 5 suspects including two teens have thus far been apprehended in connection with the murder attempt, according to the police.
+
+Modara Police and the CCD are conducting further investigations into this attempted murder.
+
+◼️
+
+[Data](articles/ee2b42bb.json)
+
+---
+
+### ජාතික සම්මාන සහ ගෞරව නාම ලබාදීම ගැන රජයෙන් විශේෂ නිවේදනයක්
+
+*2024-02-24 10:58:18* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-සම්මාන-සහ-ගෞරව-නාම-ලබාදීම-ගැන-රජයෙන්-විශේෂ-නිවේදනයක්/11-408249) · `si`
+
+නීත්‍යානුකූල නොවන ආකාරයට ජාතික සම්මාන සහ ගෞරව නාම පුද්ගලයන් වෙත ලබාදීම, එසේ ගෞරව නාම ලබා ගැනීම හෝ භාවිතා කිරීමට එරෙහිව නීත්‍යානුකූල පියවර ගන්නා ලෙස ජනාධිපති ලේකම් සමන් ඒකනායක මහතා අදාළ විෂය පිළිබඳ කටයුතු කරන රාජ්‍ය නිලධාරීන්ට උපදෙස් දී තිබේ.
+
+එක් එක් නිශ්චිත නිර්නායක පදනම් කරගනිමින් විධිමත් ක්‍රමවේදයකට අනුව තෝරාගනු ලබන සුවිශේෂී ශ්‍රී ලාංකික පුරවැසියන් වෙත ජනාධිපතිවරයා විසින් පිරිනමනු ලබන ජාතික සම්මාන හා ගෞරව නාම සඳහා යොදාගන්නා නාමයන් භාවිතා කරමින් විවිධ පුද්ගලයන් සහ රාජ්‍ය නොවන සංවිධාන මගින් සම්මාන, සන්නස් පත්‍ර හා සහතික ලබා දෙන අවස්ථා ජනාධිපති කාර්යාලයේ නිරීක්ෂණයට ලක්ව ඇත.
+
+මෙවැනි ආකාරයේ අසංවිධිත සම්මාන ප්‍රදානයන් මගින් මේ දක්වා ගෞරව ප්‍රණාමයට පත් සුවිශේෂී ශ්‍රි ලාංකිකයන් හට දැඩි අසාධාරණයක් හා අගෞරවයක් සිදුවන බව පෙන්වා දෙන ජනාධිපති ලේකම්වරයා ජාතික සම්මාන සඳහා යොදා ගනු ලබන එවැනි ගෞරව නාමයන් වෙනත් පාර්ශ්වයන් විසින් වැරදි ආකාරයට භාවිතා කිරීම වහා නතර කළයුතු අතර, එවැනි ක්‍රියාවන්ට එරෙහිව කඩිනමින් නීතිය ක්‍රියාත්මක කළයතු බවද අවධාරණය කරයි.
+
+...
+
+[Data](articles/a72162af.json)
+
+---
+
+### Schoolgirl killed in the reservoir reservoir
 
 *2024-02-24 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193762) · `si`
 
-‍දඹුල්ල - ඉබ්බන්කටුව ජලාශයේ දිය නෑමට ගිය පාසල් සිසුවෙකු දියේ ගිලී මිය ගොස් තිබේ.
+A schoolgirl drowned with the Tabbanakatuwa reservoir reservoir.
 
-ඊයේ (23) පස්වරුවේ ඉබ්බන්කටුව ජලාශ‍යේ අනාරක්ෂිත ස්ථානයක දිය නෑමට ගොස් සිටිය දී එම සිසුවා දියේ ගිලී අතුරුදන් ව ඇති අතර, දඹුල්ල පොලීසියේ ජීවිතාරක්ෂක ඒකකයේ නිලධාරින් සිදු කළ සෝදිසි කිරීමක දී සිසුවාගේ මළ සිරුර සොයාගෙන ඇති බව වාර්තා වේ.
+The student was disappeared while he was not bathing in an unsecured place in the reservoir yesterday (23).
 
-සිය මිත්තණිය සහ සොහොයුරා ඇතුළු පිරිසක් සමඟ අනුරාධපුර වන්දනාවේ යන අතරතුර ඔහු මෙම අනතුරට ලක් ව ඇත.
+He was in charge of the Anuradhapura pilgrimage with his grandmother and brother and other people.
 
-මිය ගොස් ඇත්තේ ගාල්ල - හල්විටිගල ජනපදය ප්‍රදේශයේ පදිංචි ව සිටි 16 හැවිරිදි පාසල් සිසුවෙකි.
+The deceased is a 16 year old schoolgirl, a 16 year old resident of Halvitigala Colony, Galle.
 
 ◼️
 
 [Data](articles/c2dc4364.json)
+
+[Extended Data](ext_articles/c2dc4364.ext.json)
+
+---
+
+### Sri Lanka ready to face any radiation emission if nuclear attack occurs: SLAERC
+
+*2024-02-24 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-ready-to-face-any-radiation-emission-if-nuclear-attack-occurs-SLAERC/108-277647) · `en`
+
+Colombo, Feb. 24 (Daily Mirror)- Sri Lanka is ready to face any radiation emission if a nuclear accident occurs in the region, Sri Lanka Atomic Energy Regulatory Council told a Parliamentary Committee recently.
+
+They informed this to the Sectoral Oversight Committee on Energy and Transport, which met in Parliament recently under the chairmanship of MP Nalaka Bandara Kottegoda.
+
+The officials of the Sri Lanka Atomic Energy Regulatory Council told the committee that they were equipped with human resources and equipment to face any radiation emission from a nuclear attack.
+
+◼️
+
+[Data](articles/b5528eb3.json)
 
 ---
 
@@ -94,23 +152,25 @@ Police found 9 bodies in the gutted residential buildings. Valencia’s national
 
 ---
 
-### மரக்கறிகளின் விலை குறைந்த போதிலும் கோழி இறைச்சியின் விலை அதிகரிப்பு
+### The price of chicken meat is an increase in the price of vegetables
 
 *2024-02-24 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/177171) · `ta`
 
-அதன்படி, விலை அதிகரித்து காணப்பட்ட ஒரு கிலோ கரட் 350 ரூபாவாக விலை குறைவடைந்துள்ளது.
+Accordingly, the price has increased to 350 rupees per kilogram.
 
-ஒரு கிலோ தக்காளி மற்றும் போஞ்சிக்காய் 450 ரூபாவாகவும்,  லீக்ஸ் 300 ரூபாவாகவும் விலை குறைவடைந்துள்ளது.
+The price has fallen to 450 rupees per kg of tomatoes and ponchikai and leaks 300 rupees.
 
-இதேவேளை, குடைளகாய் மற்றும் பச்சை மிளகாய் ஆகியவற்றின் விலைகள் 700 ரூபாவாகவும், 600 ரூபாவாகவும் சற்று அதிகரித்துள்ளது.   ஒரு கிலோ இஞ்சி 1200 ரூபாவாகும்.
+Meanwhile, the prices of umbrella and green chillies have increased to 700 rupees and 600 rupees.One kg of ginger is 1200 rupees.
 
-ஆனால், ஒரு கிலோ கோழி  இறைச்சி 1,150 ரூபாவாகவும், தோல் நீக்கப்பட்ட கோழி  இறைச்சி 1,100 ரூபாவாகவும் விற்பனை செய்யப்படுகிறது.
+But, one kilogram of chicken meat is sold at 1,150 rupees and the skin removed chicken meat is 1,100 rupees.
 
-ஒரு கிலோ ஆட்டிறைச்சி  3,300 ரூபாவாகவும், மாட்டிறைச்சி 2,300 ரூபாவாகவும் விற்பனை செய்யப்படுகிறது.
+3,300 rupees per kg and beef at Rs 2,300.
 
 ◼️
 
 [Data](articles/15b74794.json)
+
+[Extended Data](ext_articles/15b74794.ext.json)
 
 ---
 
@@ -178,21 +238,27 @@ The Maldives National Defence Force (MNDF) late Thursday evening extended a warm
 
 ---
 
-### ‘சீதா’, ‘அக்பர்’ சர்ச்சை முடிவுக்கு வந்தது
+### The controversy ended
 
 *2024-02-24 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177168) · `ta`
 
-இந்தியாவில் சிலிகுரி மிருகக்காட்சி சாலையில் அடைக்கப்பட்டுள்ள சீதா, அக்பர் என்ற இரு சிங்கங்கள் பெயரை மாற்ற வேண்டும் என்று கொல்கத்தா உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Kolkata High Court has ordered that two lions, Sita and Akbar, which are located at the Siliguri Zoo in India, should be changed.
 
-மிருகக்காட்சி சாலையில்  ஒரே பகுதியில் சீதா, அக்பர் என்ற இரு சிங்கங்களை அடைக்க எதிர்ப்பு தெரிவித்து உயர் நீதிமன்றத்தில் விஹெச்பி தாக்கல் செய்த மனுவின் கீழ் இந்த உத்தரவை பிறப்பித்துள்ளது.
+The order has been issued under a petition filed by VHP in the Supreme Court in protest of the retention of two lions, Sita and Akbar.
 
-திரிபுரா மாநிலம் செபஹிஜாலா மிருகக்காட்சி சாலையில் இருந்து மேற்கு வங்க மாநிலம் சிலிகுரியில் உள்ள பெங்கால் மிருகக்காட்சி சாலைக்கு பெப்ரவரி 12-ம் திகதி இரண்டு சிங்கங்கள் கொண்டு செல்லப்பட்டுள்ளன.
+Two lions were taken from the Sebahijala Zoo in Tripura on February 12 to the Bengal Zoo in Siliguri, West Bengal.
 
-இந்த இரண்டு சிங்கங்களில் ஏழு வயதுள்ள சிங்கத்துக்கு ‘அக்பர்’ என்றும், 6 வயதுள்ள சிங்கத்துக்கு ‘சீதா’ என்றும் பெயர் சூட்டப்பட்டது. இந்தப் பெயர்களுக்கு எதிராக விஸ்வ ஹிந்து பரிஷத் என்ற இந்து அமைப்பு கொல்கத்தா உயர் நீதிமன்றத்தை நாடியது.
+Of these two lions, a seven -year -old lion was named as Akbar and a 6 -year -old lion.. The Hindu organization Vishwa Hindu Parishad has sought the Kolkata High Court against these names.
+
+In the petition, Vishwa Hindu Parishad, who demanded that the lion be changed to the name of Sita ". Akbar was one of the famous Mughal emperors. Sita is a character in Valmiki's Ramayana.
+
+Also, Sita is celebrated in Hindu practices. Therefore, the name of the lions should be changed because it is an act of contempt of Hinduism with 'Akbar' with 'Sita'. Akbar's companion cannot be a companion. ”
 
 ...
 
 [Data](articles/5e3e47c3.json)
+
+[Extended Data](ext_articles/5e3e47c3.ext.json)
 
 ---
 
@@ -234,19 +300,21 @@ Sri Lanka has since made progress on about $11 billion of bilateral debt restruc
 
 ---
 
-### இரத்தினபுரியில் வெப்பநிலை அதிகரிப்பு
+### Rhythm
 
 *2024-02-24 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/177167) · `ta`
 
-நாட்டில் சப்ரகமுவ மாகாணத்தில் இரத்தினபுரி மாவட்டம் மற்றும் மத்திய மாகாணத்தில் கண்டி, நுவரெலியா ஆகிய பகுதிகளில் காற்றின் அளவு குறைந்துள்ளமையால் வெப்பநிலை அதிகரித்துள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has said that the temperature has increased due to the decline in the amount of air in the Ratnapura district and the Central Province of Sabaragamuwa Province in the country.
 
-அதன்படி,  வெப்பநிலை 36 பாகை செல்சியஸ் இரத்தினபுரியிலும் ,  30 பாகை செல்சியஸ் கண்டியிலும் மற்றும் 21 பாகை செல்சியஸ் நுவரெலியாவிலும் பதிவாகியுள்ளது.
+Accordingly, the temperature is recorded in 36 degrees Celsius, 30 degrees Celsius Kandy and 21 degrees Celsius Nuwara Eliya.
 
-காற்று குறையும் போது வளிமண்டலம் குளிர்ச்சியான நிலையை அடையாது. அதனால்தான் வெப்பநிலை அதிகரித்துள்ளது. ஆண்டின் இக்காலப்பகுதியில் வெப்பநிலை அதிகரிப்பது வழமையான ஒன்றாகும்.
+The atmosphere does not reach the cooling position when the air is reduced. That is why the temperature has increased. Increasing temperature during this period of the year is one of the usuals.
 
 ◼️
 
 [Data](articles/dbad1438.json)
+
+[Extended Data](ext_articles/dbad1438.ext.json)
 
 ---
 
@@ -1236,6 +1304,26 @@ The President stated that Sri Lanka is further dedicated to the freedom of the I
 
 ---
 
+### ජනපති සහ එක්සත් ජනපද නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා අතර හමුවක්
+
+*2024-02-23 20:45:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-එක්සත්-ජනපද-නියෝජ්‍ය-රාජ්‍ය-ලේකම්වරයා-අතර-හමුවක්/11-408247) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ඇමෙරිකා එක්සත් ජනපදයේ කළමනාකරණ සහ සම්පත් පිළිබඳ නියෝජ්‍ය රාජ්‍ය ලේකම් රිචඩ් වර්මා මහතා අතර හමුවක් ජනාධිපති කාර්යාලයේදී අද (23) පෙරවරුවේදී සිදු විය.
+
+ශ්‍රී ලංකා ආර්ථිකය යථා තත්ත්වයට පත් කිරීමට රජය ප්‍රමුඛ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගනු ලබන පියවර මෙහිදී නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා ගේ ඇගයීමට ලක් විය.
+
+කෘෂිකාර්මික නවීකරණ වැඩසටහන ඇතුළු ශ්‍රී ලංකාව තුළ මේ වන විට සිදු කෙරෙන ප්‍රධාන ආර්ථික ප්‍රතිසංස්කරණ සහ ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියෙහි ප්‍රගතිය පිළිබඳව ජනාධිපතිවරයා මෙහිදී එක්සත් ජනපද නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා දැනුවත් කළේය.
+
+ගෝලීය ආරක්ෂාවට අදාළ කරුණු සම්බන්ධයෙන් ද මෙහිදී සාකච්ඡාවට ලක් වූ අතර රතු මුහුදේ සිදු කෙරෙන නාවික මෙහෙයුම් සඳහා ශ්‍රී ලංකා රජය ලබාදුන් සහය වෙනුවෙන් නියෝජ්‍ය රාජ්‍ය ලේකම්වරයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ස්තූතිය පළ කර සිටියේය.
+
+හුති කැරලිකරුවන් සම්බන්ධයෙන් සෞදි අරාබියේ ස්ථාවරත්වයට සහාය පළ කරමින් ඉන්දීය සාගරයේ නාවික ගමනාගමනයේ නිදහස වෙනුවෙන් ශ්‍රී ලංකාව තවදුරටත් කැපවී සිටින බව මෙහිදී ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+
+...
+
+[Data](articles/0738f1dd.json)
+
+---
+
 ### Comes from Galle and finish the final of the tortoise
 
 *2024-02-23 20:40:07* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලෙන්-ඇවිත්-ඉබ්බන්කටුවේ-අවසන්-ගමන්-යයි/11-408246) · `si`
@@ -2013,85 +2101,5 @@ The casual was a 13-year-old and 10-year-old schools, and he demands that he wou
 [Data](articles/c2852404.json)
 
 [Extended Data](ext_articles/c2852404.ext.json)
-
----
-
-### Rounding in Matuvil Business Centers;Sued 4 people
-
-*2024-02-23 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177131) · `ta`
-
-In the Batticaloa Sengaladi Health Officer Division, hotels and bakeries were surrounded by hotels and bakeries that sold for human use.
-
-In the meantime, large sums of foods have been seized from restaurant owners who have sold foods that are infected with the infection of human consumption.
-
-A total of 10,000/- each has been sentenced to each of them in the case of the Eravur Magistrate's Court on Thursday (22).
-
-The case for others is to be filed on 26.02.2024. The seized food items were destroyed at the behest of the Justice.
-
-◼️
-
-[Data](articles/360fb780.json)
-
-[Extended Data](ext_articles/360fb780.ext.json)
-
----
-
-### Colombo women who robbed Jaffna
-
-*2024-02-23 15:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-கொள்ளையிட்ட-கொழும்பு-பெண்கள்/71-333711) · `ta`
-
-Two women arrested for jewelery theft at the Jaffna - Kannaditi Kali Ambal Temple election festival.
-
-A large number of devotees gathered at the temple when the Kannaditi Kali Ambal Temple Election Festival was held this morning.
-
-Two women from the Colombo -Kochikkadai area were arrested for taking advantage of this.
-
-The two were arrested in 15 minutes by the Criminal Investigation Department (CID) under the Jaffna Regional Senior Superintendent of Police, Jagath Visantha.. Four and a half pound Tali was seized from the suspects.
-
-Police have taken steps to appear at the Jaffna Magistrate's Court after investigations. Remble
-
-◼️
-
-[Data](articles/06f2c11c.json)
-
-[Extended Data](ext_articles/06f2c11c.ext.json)
-
----
-
-### Midnight
-
-*2024-02-23 15:28:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/நள்ளிரவில்-ஊருக்குள்-புகுந்த-முதலை/74-333710) · `ta`
-
-Residents of the Ampara - Tirukovil police division were trying to fold a crocodile that entered the town last night in three areas of Tirukovil.
-
-The public has reported to the police and the Department of Wildlife Department regarding the crocodile that entered the town.
-
-Officers of the Department of Wildlife, who rushed to the spot, took the first with the help of the public.. Remble
-
-◼️
-
-[Data](articles/13003c06.json)
-
-[Extended Data](ext_articles/13003c06.ext.json)
-
----
-
-### A notification for Sri Pada pilgrims
-
-*2024-02-23 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193740) · `si`
-
-A large number of pilgrims are coming from various parts of the country, from different parts of the island with the weekend.
-
-The Ada Derana reporter said that a large number of pilgrims from the train were present at the Hatton Station.
-
-Due to the weekend long hole, several special trains have been added to the period.
-
-The pilgrims come from train have been opened to provide transport facilities to the Nalluthenna, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/0b5b7308.json)
-
-[Extended Data](ext_articles/0b5b7308.ext.json)
 
 ---

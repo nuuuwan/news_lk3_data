@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 17:33:07**
+As of **2024-02-24 17:53:03**
 
 ## Newspaper Stats
 
-*Scraped **9,049** Articles*
+*Scraped **9,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ economynextcom | 463
 islandlk | 472
 dailyftlk | 483
 adalk | 759
-adaderanalk | 1,086
+adaderanalk | 1,087
 tamilmirrorlk | 1,111
 virakesarilk | 1,240
 adaderanasinhalalk | 1,346
-dailymirrorlk | 1,363
+dailymirrorlk | 1,365
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,049 (100.0%) of 9,049 articles have been extended.
+9,049 (100.0%) of 9,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Kurunegala hospital’s dialysis unit closed after patient deaths; experts committee begins probe
+
+*2024-02-24 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97502/kurunegala-hospitals-dialysis-unit-closed-after-patient-deaths-experts-committee-begins-probe) · `en`
+
+The dialysis unit of the Teaching Hospital in Kurunegala has been temporarily closed on Friday (Feb.23) after a series of patient deaths attributed to a suspected infection.
+
+According to reports, the deaths have taken place since January.
+
+A spokesperson from the hospital said an investigation was previously conducted at the institutional level to determine if the fatalities were a result of an infection caused by the germs that entered the bloodstream or the chemicals administered during the dialysis procedure. However, the exact cause of the deaths remains unknown.
+
+Accordingly, the Ministry of Health has appointed a 5-member committee of experts to look into the matter at the ministerial level, Health Secretary Dr. Palitha Maheepala said.
+
+The panel led by Dr. Samitha Ginige, the head of the Epidemiology Unit has arrived at the hospital for the investigation.
+
+...
+
+[Data](articles/107a2234.json)
+
+---
 
 ### Five Indians apprehended off Sri Lanka as ‘Beedi’ smuggling attempt foiled
 
@@ -55,6 +75,46 @@ Onward investigations into the incident are being carried out by the Negombo Exc
 [Data](articles/d87ec85c.json)
 
 [Extended Data](ext_articles/d87ec85c.ext.json)
+
+---
+
+### Presidential poll will be held first as scheduled: President affirms
+
+*2024-02-24 16:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-poll-will-be-held-first-as-scheduled-President-affirms/108-277655) · `en`
+
+Colombo, Feb. 24 (Daily Mirror)- President Ranil Wickremesinghe affirmed that the Presidential election will be held as scheduled with the General Elections anticipated to be held early next year, the President’s Media Division (PMD) said.
+
+The President gave this assurance during a meeting with the representatives of the United Republic Front headed by by its leader Parliamentarian Patali Champika Ranawaka at Sirikotha today.
+
+The United Republic Front presented a proposal titled "A United Step for the Country" to President Ranil Wickremesinghe this morning (24), at ‘Srikotha’, the United National Party headquarters in Colombo.
+
+After engaging in discussions with the President, the leader of the United Republic Front, Member of Parliament Patali Champika Ranawaka, along with his delegation, presented this proposal to the President.
+
+...
+
+[Data](articles/470eb6bc.json)
+
+---
+
+### China deports two Lankans arrested from empty container
+
+*2024-02-24 16:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-deports-two-Lankans-arrested-from-empty-container/108-277654) · `en`
+
+Two Sri Lankans who tried to hide in an empty container on a ship anchored in the Colombo port and escape to Malaysia were deported from China a year after they were arrested.
+
+The two individuals thus deported from China, arrived at the Katunayake Airport this morning.
+
+On January 30, 2023, they had secretly entered an empty container loaded on the 'MV Merks Unicorn' ship anchored at the CICT jetty in the Colombo port to leave for Malaysia.
+
+After the ship arrived in Malaysia, the two were refused entry by the Malaysian government.
+
+Hence, the authorities of the ship finally arrived in China after taking them to a number of other countries where the Chinese authorities arrested the two individuals.
+
+The two deported individuals were sent from China to the Katunayake Airport by SriLankan Airlines flight UL-867 from Shanghai, China.
+
+...
+
+[Data](articles/d15193c4.json)
 
 ---
 
@@ -2073,65 +2133,5 @@ Residents have been informed of the Kantale Divisional Secretariat and the polic
 [Data](articles/5149b838.json)
 
 [Extended Data](ext_articles/5149b838.ext.json)
-
----
-
-### Controversial ’white only’ party cancelled amid public outcry
-
-*2024-02-23 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversial-white-only-party-cancelled-amid-public-outcry/108-277617) · `en`
-
-Feb 23 (Daily Mirror) - A controversial 'white only' themed party scheduled to take place on February 24 at a Russian run cafe in the south has been cancelled by its organizers following widespread public backlash.
-
-The event, which was promoted as an 'Opening White Party,' stirred significant controversy due to its discriminatory nature. Organizers intended to implement a face control policy where entry would be restricted solely to individuals deemed fitting by bouncers based on their white skin, wealth, style, or demeanor.
-
-'Face control,' a term commonly used in upscale nightclubs, refers to the practice of regulating entry based on subjective assessments of individuals' appearances and social status.
-
-Announcing the cancellation on Instagram, the organizers cited escalating concerns about racism as the primary reason behind their decision. In a post, they expressed regret for the hurt feelings caused by the event's concept and apologized to those offended by the idea.
-
-...
-
-[Data](articles/d8e9897f.json)
-
-[Extended Data](ext_articles/d8e9897f.ext.json)
-
----
-
-### Controversial ’white only’ party cancelled amid public outcry
-
-*2024-02-23 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Controversial-white-only-party-cancelled-amid-public-outcry/155-277617) · `en`
-
-Feb 23 (Daily Mirror) - A controversial 'white only' themed party scheduled to take place on February 24 at a Russian run cafe in the south has been cancelled by its organizers following widespread public backlash.
-
-The event, which was promoted as an 'Opening White Party,' stirred significant controversy due to its discriminatory nature. Organizers intended to implement a face control policy where entry would be restricted solely to individuals deemed fitting by bouncers based on their white skin, wealth, style, or demeanor.
-
-'Face control,' a term commonly used in upscale nightclubs, refers to the practice of regulating entry based on subjective assessments of individuals' appearances and social status.
-
-Announcing the cancellation on Instagram, the organizers cited escalating concerns about racism as the primary reason behind their decision. In a post, they expressed regret for the hurt feelings caused by the event's concept and apologized to those offended by the idea.
-
-...
-
-[Data](articles/df3a05fd.json)
-
-[Extended Data](ext_articles/df3a05fd.ext.json)
-
----
-
-### Beginning with the flag;Kachchativu Festival
-
-*2024-02-23 20:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கொடியேற்றத்துடன்-ஆரம்பமானது-கச்சதீவு-திருவிழா/72-333714) · `ta`
-
-The annual festival of St. Anthony's Temple in Kachchativu commenced this evening with the flag.
-
-Following the flag, the Crusade, the Eucharistic Adoration and the Church. The Tirupali event will be dedicated tomorrow (24) and the festival will be completed.
-
-A large number of devotees attended the event and attended the event.
-
-The festival is organized for the benefit of the devotees, the health facilities, transport regulations and food facilities are organized.. Remble
-
-◼️
-
-[Data](articles/22d0f35b.json)
-
-[Extended Data](ext_articles/22d0f35b.ext.json)
 
 ---

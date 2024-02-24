@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 17:02:26**
+As of **2024-02-24 17:17:22**
 
 ## Newspaper Stats
 
-*Scraped **9,048** Articles*
+*Scraped **9,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 463
 islandlk | 472
 dailyftlk | 483
 adalk | 759
-adaderanalk | 1,085
+adaderanalk | 1,086
 tamilmirrorlk | 1,111
 virakesarilk | 1,240
 adaderanasinhalalk | 1,346
@@ -26,11 +26,37 @@ dailymirrorlk | 1,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,048 (100.0%) of 9,048 articles have been extended.
+9,049 (100.0%) of 9,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Five Indians apprehended off Sri Lanka as ‘Beedi’ smuggling attempt foiled
+
+*2024-02-24 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97501/five-indians-apprehended-off-sri-lanka-as-beedi-smuggling-attempt-foiled) · `en`
+
+Five Indians have been apprehended in Sri Lanka for attempting to smuggle in a consignment of ‘Beedi’ leaves via sea routes.
+
+The suspects were apprehended by the Sri Lanka Navy, along with 75 sacks of ‘Beedi’ leaves found in the dinghy they were on.
+
+The ‘Beedi’ smuggling attempt was thwarted based on a tip-off received by the Excise Station in Negombo. Upon receiving the piece of information, the excise officers, along with a group of naval personnel, had mounted a special operation in the seas off Puttalam on Feb.19.
+
+During the operation, a small boat with five Indians aboard was impounded while 2,175 kilograms of ‘Beedi’ leaves were seized.
+
+The contraband is believed to have a value of around Rs. 20 million.
+
+The apprehended Indian nationals, all aged below 20 years, had reportedly set sail from Thoothukudi, India.
+
+Onward investigations into the incident are being carried out by the Negombo Excise Station.
+
+◼️
+
+[Data](articles/d87ec85c.json)
+
+[Extended Data](ext_articles/d87ec85c.ext.json)
+
+---
 
 ### “United Action for the Country”
 
@@ -2107,33 +2133,5 @@ The festival is organized for the benefit of the devotees, the health facilities
 [Data](articles/22d0f35b.json)
 
 [Extended Data](ext_articles/22d0f35b.ext.json)
-
----
-
-### Sri Lanka lives in danger
-
-*2024-02-23 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193746) · `si`
-
-The Economic Partition Oversight Committee has revealed that around 100,000 children had stopped the school journey at the time of the increase in electricity tariffs.
-
-The meeting stated that the Public Utilities Commission approved to increase electricity tariffs.
-
-In the recent past, the parliamentary sector Oversight Committee revealed that over Rs.
-
-The officers of the Ministry of Industry, Public Utilities Commission, the Ministry of Ceylon, Ministry of Ceylon, Ministry of Ceylon, Central Bank and Cabinet Ministry of Ceylon and Department of Ceylon and Census and Statistics Department
-
-The discovery was revealed that 1,069,000 has taken place island wide due to increased electricity tariffs.
-
-It includes housing, factories, religious places and schools.
-
-As a result of this, 250,000 industries have been killed and 214,000 factories have been closed.
-
-About 50,000 factories have been temporarily closed and the industry owners have not made a final decision.
-
-◼️
-
-[Data](articles/9a638bce.json)
-
-[Extended Data](ext_articles/9a638bce.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 14:02:29**
+As of **2024-02-24 14:17:29**
 
 ## Newspaper Stats
 
-*Scraped **9,031** Articles*
+*Scraped **9,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 757
 adaderanalk | 1,082
 tamilmirrorlk | 1,111
 virakesarilk | 1,235
-adaderanasinhalalk | 1,344
+adaderanasinhalalk | 1,345
 dailymirrorlk | 1,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,031 (100.0%) of 9,031 articles have been extended.
+9,031 (100.0%) of 9,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### බීඩිකොළ සමඟ ඉන්දීය ජාතිකයන් පස් දෙනෙකු අත්අඩංගුවට
+
+*2024-02-24 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193768) · `si`
+
+ඉන්දියාවේ සිට නීති විරෝධී ව ඩිංගි යාත්‍රාවක් මඟින් බීඩි කොළ තොගයක් රැගෙන එන බවට මීගමුව සුරාබදු කාර්යාලය වෙත තොරතුරක් ලැබී ඇත.
+
+ඒ අනුව ශ්‍රී ලංකා නාවික හමුදාවේ සහාය ඇති ව මීගමුව සුරාබදු කාර්යාලයේ කණ්ඩායමක් එක් ව පුත්තලමට ආසන්න මෙරට මුහුදු සීමාවේ දී පසුගිය මස 19 වැනි දා මෙහෙයුමක් සිදු කර තිබිණි.
+
+එහි දී  ඩිංගි යාත්‍රාවක සිටි ඉන්දීය ජාතිකයන් 05 දෙනෙකු නාවික හමුදාව සිය භාරයට ගෙන ඇති අතර, ඔවුන් පැමිණි යාත්‍රාවේ තිබී බීඩි එතීමට ගන්නා තෙන්දු කොළ ඇසිරූ උර 75ක් හමු ව ඇත.
+
+පසු ව නාවික හමුදාව සිය භාරයට ගත් සැකකරුවන් සහ තෙන්දු කොළ තොගය සුරාබදු දොපාර්තමේන්තුව වෙත භාර දී තිබේ.
+
+එම දෙපාර්තමේන්තුව සඳහන් කළේ, බීඩී කොළ කිලෝග්‍රෑම් 2,175ක් එහි තිබී හමු වූ බවය.
+
+සුරාබදු දෙපාර්තමේන්තුව භාරයට ගත් ඉන්දියානු ජාතිකයන් සියලු දෙනා වයස අවුරුදු 20ට අඩු පුද්ගලයන් වන අතර, ඔවුන් ඉන්දියාවේ තූත්තුකුඩි සිට මෙරටට මුහුදු සීමාවට පැමිණ තිබිණි.
+
+මීගමුව සුරාබදු කාර්යාලය මඟින් ඉදිරි විමර්ශන කටයුතු ක්‍රියාත්මක කරනු ලබයි.
+
+◼️
+
+[Data](articles/4af45b3d.json)
+
+---
 
 ### Police promise a protestor against a dead body
 
@@ -2123,27 +2147,5 @@ The best beaches in the world are in our country. There are very cold climates.
 [Data](articles/69cc9862.json)
 
 [Extended Data](ext_articles/69cc9862.ext.json)
-
----
-
-### Another Sri Lankans in Myanmar Cyber Criminal
-
-*2024-02-23 17:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மார்-சைபர்-கிரிமினல்-பகுதியில்-மற்றுமொரு-இலங்கையர்/175-333712) · `ta`
-
-It has been reported that another Sri Lankans have gone to the area where Myanmar's cyber criminal area is known as the Internet criminal area.
-
-This has taken place as discussions are underway to rescue Sri Lankans who have been detained there.
-
-56 Sri Lankans who have been employed in the computer sector have been forcibly detained in the camps.
-
-In this case, the Sri Lankan has demanded employment through an intermediary in Dubai.
-
-According to reports, the Sri Lankan Sri Lankan has gone to Myanmar's capital and has been managed from there.. Remble
-
-◼️
-
-[Data](articles/4a2e6bd3.json)
-
-[Extended Data](ext_articles/4a2e6bd3.ext.json)
 
 ---

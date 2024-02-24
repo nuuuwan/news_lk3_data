@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 12:32:46**
+As of **2024-02-24 12:49:12**
 
 ## Newspaper Stats
 
@@ -26,31 +26,35 @@ dailymirrorlk | 1,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,024 (100.0%) of 9,025 articles have been extended.
+9,025 (100.0%) of 9,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### කුරුණෑගල රෝහලේ රුධිර කාන්දුකරණ ප්‍රතිකාර ඒකකය වසා දැමෙයි
+### Blood-leakage treatment at Kurunegala Hospital closes
 
 *2024-02-24 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193764) · `si`
 
-කුරුණෑගල ශික්ෂණ රෝහලේ වකුගඩු රෝගින් සඳහා ක්‍රියාත්මක රුධිර කාන්දුකරණ ප්‍රතිකාර ඒකකය තාවකාලික ව වසා දැමීමට පියවර ගෙන තිබේ.
+Steps have been taken to close the blood leakage treatment unit for kidney patients at the Kurunegala Teaching Hospital.
 
-ගත වූ දින කිහිපය තුළ එම ඒකකයෙන් ප්‍රතිකාර ලැබූ වකුගඩු රෝගින් කිහිප දෙනෙකු මිය යාම සැලකිල්ලට ගනිමින් ඊයේ (23) දිනයේ සිට ක්‍රියාත්මක වන පරිදි අදාළ ඒකකය වසා දැමීමට පියවර ගෙන ඇති බව වාර්තා වේ.
+It is reported that the relevant unit has been closed since the death of several kidney patients who were treated by the unit during the past few days.
 
-මාසයක පමණ කාලය තුළ එම ඒකකයෙන් රුධිර කාන්දුකරණයට ලක්කළ වකුගඩු රෝගීන් 05 දෙනෙකු මෙලෙස මිය ගොස් ඇති බව වාර්තා විය.
+During a month, five cases were killed in the same unit, five cases of kidney patients.
 
-විෂබීජ ආසාධනයක් හෝ රුධිර කාන්දුකරණය සඳහා භාවිත කරන රසායනික ද්‍රව්‍ය හෝ උපකරණවල ගැටලුවක් මෙම තත්ත්වයට හේතු වී ඇති ද යන්න සම්බන්ධයෙන් රෝහල් මට්ටමින් පරීක්ෂණයක් සිදු කර තිබුණ ද එහි දී නිශ්චිත හේතුවක් අනාවරණය කරගැනීමට නොහැකි වී ඇති බව රෝහල් ප්‍රකාශකයකු පැවසුවේය.
+A hospital spokesman said that although a chemical or equipment used in a chemical or equipment used for a chemicals or equipment used for blood leakage, a special reason has been uncovered.
 
-ඒ අනුව සෞඛ්‍ය අමාත්‍යාංශය මට්ටමින් ද සිද්ධිය සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+Accordingly, the Ministry of Health has decided to commence an investigation into the incident.
 
-මේ වන විට ඊට අදාළ කණ්ඩායමක් කුරුණෑගල ශික්ෂණ රෝහල වෙත යොමු කර ඇති බව අද දෙරණ කළ විමසීමක දී සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල් වෛද්‍ය අසේල ගුණවර්ධන මහතා පැවසුවේය.
+The Director General of Health Services Dr. Asela Gunawardena said that a group has been referred to the Kurunegala Teaching Hospital.
 
-...
+Steps have also been taken to direct the patriotic unit of Kurunegala Teaching Hospital to restore the patients who submit to other hospitals.
+
+◼️
 
 [Data](articles/775fbfd0.json)
+
+[Extended Data](ext_articles/775fbfd0.ext.json)
 
 ---
 

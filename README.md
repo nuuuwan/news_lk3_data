@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 19:17:32**
+As of **2024-02-24 19:32:43**
 
 ## Newspaper Stats
 
-*Scraped **9,061** Articles*
+*Scraped **9,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 463
 islandlk | 472
 dailyftlk | 483
 adalk | 759
-adaderanalk | 1,087
+adaderanalk | 1,089
 tamilmirrorlk | 1,113
 virakesarilk | 1,240
 adaderanasinhalalk | 1,353
@@ -26,11 +26,51 @@ dailymirrorlk | 1,365
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,061 (100.0%) of 9,061 articles have been extended.
+9,061 (100.0%) of 9,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Unexploded World War II bomb found in a garden in England
+
+*2024-02-24 18:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97504/unexploded-world-war-ii-bomb-found-in-a-garden-in-england) · `en`
+
+An unexploded bomb from World War II has been taken out to sea and detonated after being found in a garden in the English city of Plymouth, authorities said Friday.
+
+As many as 10,000 people were impacted when parts of the southern English city were cordoned off to enable bomb disposal experts to take the device away, a member of the local parliament, Johnny Mercer, said in a post on social media.
+
+The decision to detonate the bomb at sea was taken “after considering all options, including a controlled detonation on site,” according to a government statement.
+
+“I think it is fair to say that the last few days will go down in history for Plymouth. This war-time bomb has really brought out war-time spirit, people coming together to really support each other and whilst it has been really tough – we got through it,” said Tudor Evans, leader of Plymouth City Council.
+
+...
+
+[Data](articles/6fccb344.json)
+
+---
+
+### China deports 2 Sri Lankans arrested while hiding in empty container
+
+*2024-02-24 18:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97503/china-deports-2-sri-lankans-arrested-while-hiding-in-empty-container) · `en`
+
+Two Sri Lankans who were arrested in China while attempting to escape to Malaysia by hiding themselves inside a container have been deported.
+
+They arrived at the Bandaranaike International Airport (BIA) in Katunayake early this morning. Via SriLankan Airlines flight UL-867 around 5.00 a.m.
+
+Their return to the island comes a year after their arrest by the Chinese authorities.
+
+According to Ada Derana correspondent, the duo had secretly boarded an empty container loaded onto MV Merks Unicorn docked at Colombo International Container Terminal (CICT) of the Colombo Port on January 30, 2023 in a bid to flee to Malaysia.
+
+However, when the ship reached Malaysia, they had been denied entry by the Malaysian authorities.
+
+The duo was later arrested when the vessel eventually arrived in China, after concluding visits to several other countries, with the two Sri Lankans aboard.
+
+...
+
+[Data](articles/e25c92bc.json)
+
+---
 
 ### 33 wild wildarians killed since 2024
 
@@ -2071,45 +2111,5 @@ They also explored opportunities to deepen defense and maritime cooperation betw
 [Data](articles/9c94f5fe.json)
 
 [Extended Data](ext_articles/9c94f5fe.ext.json)
-
----
-
-### 100 vehicles collide with one another in China
-
-*2024-02-23 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177157) · `ta`
-
-About 100 vehicles crashed into a road in Souchov, China.
-
-Foreign media reports that three people who were injured in the accident have been admitted to the hospital and six others have been injured.
-
-◼️
-
-[Data](articles/0a0adcdd.json)
-
-[Extended Data](ext_articles/0a0adcdd.ext.json)
-
----
-
-### Another story in Beliatta's murder out
-
-*2024-02-23 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193750) · `si`
-
-Police have arrested two persons who were suspected of shooting and shooting of the prick Michael and Boisha Harsha Harsha Harsha Harsha Harsha Harsha Harsha Harsha, who supported the murder of the Beliatta.
-
-Thirteen Sri Lankans have been arrested in the area.
-
-It is said that Kosgoda will be the close associates of the killing of the killing of all 13 persons who were arrested.
-
-It is revealed that Kosgoda Sujee is trying to rescue them.
-
-However, Dubai has not yet been officially informed of this arrest.
-
-It is reported that the two countries are discussing the future action against importing the suspects.
-
-◼️
-
-[Data](articles/918709aa.json)
-
-[Extended Data](ext_articles/918709aa.ext.json)
 
 ---

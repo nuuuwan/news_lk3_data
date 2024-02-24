@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 15:02:45**
+As of **2024-02-24 15:17:17**
 
 ## Newspaper Stats
 
-*Scraped **9,039** Articles*
+*Scraped **9,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,51 @@ adaderanalk | 1,083
 tamilmirrorlk | 1,111
 virakesarilk | 1,238
 adaderanasinhalalk | 1,345
-dailymirrorlk | 1,361
+dailymirrorlk | 1,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,036 (100.0%) of 9,039 articles have been extended.
+9,039 (100.0%) of 9,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### கடந்த வருடம் 10 இலட்சத்திற்கும் மேற்பட்ட  மின்சார இணைப்புகள் துண்டிப்பு!
+### STF arrests Army Corporal over Mahabage shooting
+
+*2024-02-24 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-arrests-Army-Corporal-over-Mahabage-shooting/108-277652) · `en`
+
+Ampara, Feb 24 (Daily Mirror) - The Police Special Task Force arrested a key suspect linked to the shooting incident at Mahabage on Thursday.
+
+The suspect, identified as a Corporal in the Sri Lanka Army serving with the 4th Gamunu Hewa Battalion in Chenkaladi camp, attempted to flee when the STF moved to arrest him.
+
+Later, army intelligence officers detained the suspect in the Ampara area.
+
+He was wanted over the shooting incident on Thursday in which 'Ukkua,' an associate of 'Welle Saranga' engaged in organised crimes, was killed.
+
+◼️
+
+[Data](articles/58dbeb1b.json)
+
+---
+
+### Over 10 lakh power lines disconnect last year!
 
 *2024-02-24 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177186) · `ta`
 
-நாடளாவிய ரீதியில்  கடந்த வருடம் 10,69,000 பேருக்கு மின்சார இணைப்புகள் துண்டிக்கப்பட்டுள்ளதாக பொருளாதார நெருக்கடியின் தாக்கத்தை குறைப்பதற்கான துறைசார் மேற்பார்வைக் குழுவின் தலைவர் பாராளுமன்ற உறுப்பினர் காமினி வலேபொட தெரிவித்துள்ளார்.
+Chairman of the Department of Department of Supervisor Gamini Valaboda said that 10,69,000 people were cut off last year across the country.
 
-இந்நிலையில், துண்டிக்கப்பட்ட இணைப்புகளுக்கு மறு இணைப்பை பொருத்த கட்டணத்தை 50 சதவீதம் குறைப்பதோடு, நிலுவையில் உள்ள கட்டண தொகையை தவணையாக செலுத்த அனுமதிக்குமாறு துறைசார் அதிகாரிகளுக்கு வலியுறுத்தப்பட்டுள்ளது.
+In this case, departmental authorities have been urged to reduce the fee to the re -connection to the disconnected connections by 50 per cent and allow the outstanding fee to be paid.
 
-மேலும், கடன் அடிப்படையில் புதிய இணைப்புகளை வழங்குவதற்கான பொறிமுறையை உருவாக்கவும், மின் கட்டணத்துடன் முழு இணைப்புக் கட்டணத்தையும் தவணை முறையில் செலுத்தவும் அறிவுறுத்தப்பட்டுள்ளது என தெரிவித்துள்ளார்.
+He has also been advised to create a mechanism for providing new connections on the basis of credit and to pay the full connection fee with electricity bills.
 
 ◼️
 
 [Data](articles/a05dfea7.json)
+
+[Extended Data](ext_articles/a05dfea7.ext.json)
 
 ---
 
@@ -94,23 +114,25 @@ In light of the situation, the health authorities have taken prompt measures to 
 
 ---
 
-### கழிவுத் தேயிலையை வீட்டுக்கு எடுத்து செல்ல முயன்ற உதவி தோட்ட அதிகாரிக்கு எதிர்ப்பு
+### Opposition to the plantation officer who tried to take waste tea home
 
 *2024-02-24 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177193) · `ta`
 
-தலவாக்கலை பொலிஸ் பிரிவுக்கு உட்பட்ட சென் கிளயார் தோட்ட பிரிவில் தேயிலை தொழிற்சாலையில் ஒதுக்கப்பட்ட கழிவு தேயிலை தூளை (சொனை தூள்) தோட்ட உதவி அதிகாரியின் பங்களாவுக்கு ஏற்றிச் சென்ற தோட்ட வாகனத்தை மறித்துள்ள தொழிலாளர்கள் ஏற்றி சென்ற கழிவு தூளையும் கொண்டு செல்ல விடாது தடுத்துள்ளனர்.
+Workers who have transported to the Bungalow of Waste Tea Powder (Sonu Powder) at the St. Claiyar Estate Division, which belongs to the Talawakelle Police Division, have been prevented from carrying the waste powder carrying the plantation vehicle.
 
-வெள்ளிக்கிழமை  (23) மாலை இடம்பெற்றுள்ளதாக  சொல்லப்படும் இந்த சம்பவத்தில் உதவி தோட்ட அதிகாரி முறைக்கேடாக இந்த கழிவு தேயிலையை பொதி செய்து கொண்டு சென்றதாக சொல்லப்படுகிறது.
+It is said that the Assistant Estate Officer abused the waste tea in the incident, which is said to have taken place on Friday evening.
 
-இருந்தபோதிலும் உதவி தோட்ட அதிகாரி பங்களாவில் உள்ள காணியில் தனிப்பட்ட ரீதியில் "கொம்பஸ்ட்" உர சேமிப்புக்கு இந்த கழிவு தேயிலையை கொண்டு செல்வதாக தொழிலாளர்களிடம் தெரிவித்துள்ளார்.
+However, the Assistant Estate Officer told the workers that the waste tea was carried out for "Combast" fertilizer in the land in the bungalow.
 
-ஆனால் இவ்வாறு கழிவு தேயிலையை தோட்ட அதிகாரி கொண்டு சென்றதை தொழிலாளர்கள் ஆட்சேபித்துள்ளனர். இன்று கழிவு தேயிலையை கொண்டு சென்றுவிட்டு நாளை நல்ல தேயிலை தூளை கொண்டு செல்ல வாய்ப்புள்ளதாகவும் தொழிலாளர்கள் சுட்டிக்காட்டுகின்றனர்.
+But workers have objected to the plantation officer's carrying the waste tea. Workers also point out that they are likely to carry the waste tea today and take good tea powder tomorrow.
 
-இந்நிலையில், ஏற்றிச்செல்லும் கழிவு தேயிலை தூளை மீண்டும் தொழிற்சாலைக்கு கொண்டு செல்ல வேண்டும் எனவும் தொழிலாளர்கள் குரல் எழுப்பியுள்ளனர்.
+In this case, the workers have also voiced the transporting waste tea powder to the factory.
 
 ◼️
 
 [Data](articles/7f385615.json)
+
+[Extended Data](ext_articles/7f385615.ext.json)
 
 ---
 
@@ -154,17 +176,19 @@ An official ceremony was held recently at the Samudradevi Girls' College, Nugego
 
 ---
 
-### சிவனொளிபாத மலைக்கு பின்னால் சூரிய உதயம் : தாமரை கோபுரத்திலிருந்து பிடிக்கப்பட்ட அழகிய காட்சி
+### Sun Disease behind the Sivanolipada mountain: The beautiful view captured from the lotus tower
 
 *2024-02-24 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177191) · `ta`
 
-கொழும்பு தாமரை கோபுரத்திலிருந்து சிவனொளிபாத மலைக்கு பின்னால் சூரியன் உதிக்கும் அழகிய காட்சியை புகைப்படப்பிடிப்பாளர் ஒருவர் தனது கமெராவில் மிகவும் தத்ரூபமாக எடுத்துள்ளார்.
+A photographer has taken a very realistic scene from the Lotus Tower of Colombo to the Sivanolipada hill.
 
-இந்த அழகிய தருணத்தை லக்ஷ்மணன் நடராஜா என்ற புகைப்படப்பிடிப்பாளரால் வெள்ளிக்கிழமை (23) எடுக்கப்பட்டுள்ளது.
+This beautiful moment was taken by a photographer named Lakshmanan Nataraja on Friday (23).
 
 ◼️
 
 [Data](articles/9a3bf5a0.json)
+
+[Extended Data](ext_articles/9a3bf5a0.ext.json)
 
 ---
 
@@ -2101,23 +2125,5 @@ However the judges wholly dismissed all of Ms Begum's arguments - a highly signi
 [Data](articles/39f6c847.json)
 
 [Extended Data](ext_articles/39f6c847.ext.json)
-
----
-
-### Two youths attempting to use fake visas to reach Europe arrested
-
-*2024-02-23 18:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-youths-attempting-to-use-fake-visas-to-reach-Europe-arrested/108-277615) · `en`
-
-Katunayake, Feb 23 (Daily Mirror) - Immigration officers at the Katunayake Airport arrested two Sri Lankan youths attempting to flee to Europe using counterfeit "Greek" tourist visas during the early hours today.
-
-The individuals, identified as a 34-year-old resident of Vavuniya and a 26-year-old resident of Jaffna, were intercepted at the airport's arrival terminal.
-
-The duo intended to board Qatar Airways flight QRR-663 bound for Doha, scheduled to depart at 4:35 AM on February 23. From Doha, their plan involved transiting to Paris, France, and ultimately reaching Munich, Germany.
-
-◼️
-
-[Data](articles/f4d3f8eb.json)
-
-[Extended Data](ext_articles/f4d3f8eb.ext.json)
 
 ---

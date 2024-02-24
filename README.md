@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 16:33:04**
+As of **2024-02-24 16:47:38**
 
 ## Newspaper Stats
 
@@ -26,27 +26,31 @@ dailymirrorlk | 1,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,047 (100.0%) of 9,048 articles have been extended.
+9,048 (100.0%) of 9,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### “நாட்டிற்கான ஒன்றுபட்ட நடவடிக்கை" ஐக்கிய குடியரசு முன்னணியின் முன்மொழிவு ஜனாதிபதியிடம் கையளிப்பு
+### “United Action for the Country”
 
 *2024-02-24 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177203) · `ta`
 
-ஐக்கிய குடியரசு முன்னணியின் “நாட்டிற்கான ஒன்றுபட்ட நடவடிக்கை” என்ற தலைப்பிலான முன்மொழிவு ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கையளிக்கும் நிகழ்வு இன்று சனிக்கிழமை (24) முற்பகல் கொழும்பில் உள்ள ஐக்கிய தேசியக் கட்சியின் தலைமையகமான சிறிகொத்தவில் இடம்பெற்றது.
+The proposal, titled "United Action for the Nation", was handed over to President Ranil Wickremesinghe on Saturday (24) at the UNP headquarters in Colombo.
 
-ஐக்கிய குடியரசு முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க உள்ளிட்ட குழுவினர், ஜனாதிபதியை சந்தித்து கலந்துரையாடலில் ஈடுபட்டதுடன், குறித்த முன்மொழிவை ஜனாதிபதியிடம் கையளித்தனர்.
+The group, including the leader of the United Republic Front and Member of Parliament, Patali Champika Ranawaka, met with the President and handed over the proposal to the President.
 
-இந்நிகழ்வில் கலந்து கொண்டு உரையாற்றிய ஜனாதிபதி ரணில் விக்ரமசிங்க, நாட்டின் வீழ்ச்சி அடைந்த பொருளாதாரத்தை ஸ்திரப்படுத்த அரசாங்கம் கடந்த இரண்டு வருடங்களில் கடுமையாக உழைத்துள்ளதாகக் குறிப்பிட்டார்.
+Speaking at the event, President Ranil Wickremesinghe said the government had worked hard in the last two years to stabilize the country's collapse economy.
 
-மறுசீரமைப்புத் தீர்மானங்கள் மூலம் நாட்டின் பொருளாதாரத்தை மிகச்சரியான பாதையில் கொண்டு செல்வதற்கு அரசாங்கம் செயற்பட்டுள்ளதாக சுட்டிக்காட்டிய ஜனாதிபதி, அனைவரினதும் ஆதரவுடன் அதனை மேலும் நடைமுறைப்படுத்துவதே தமது நோக்கமாகும் எனவும் தெரிவித்தார்.
+The President pointed out that the government was acting to take the country's economy on a very good path through resolutions, adding that his aim was to further implement it with the support of all.
+
+Recalling the open call to all political parties to join the country without political discrimination, the President said he would not hesitate to include all the positive proposals of other political parties in the program of building the country.
 
 ...
 
 [Data](articles/b9825af3.json)
+
+[Extended Data](ext_articles/b9825af3.ext.json)
 
 ---
 

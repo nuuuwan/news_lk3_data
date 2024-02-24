@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 07:51:22**
+As of **2024-02-24 08:02:31**
 
 ## Newspaper Stats
 
-*Scraped **8,974** Articles*
+*Scraped **8,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,84 @@ adalk | 754
 adaderanalk | 1,073
 tamilmirrorlk | 1,108
 virakesarilk | 1,227
-adaderanasinhalalk | 1,330
+adaderanasinhalalk | 1,333
 dailymirrorlk | 1,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,974 (100.0%) of 8,974 articles have been extended.
+8,974 (100.0%) of 8,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### විදුලි ගාස්තුව ගැන පාඨලීගේ අදහස
+
+*2024-02-24 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193756) · `si`
+
+විදුලි ගාස්තු සියයට 20කින් අඩු කිරීමට විදුලි බල මණ්ඩලයට හැකියාව පවතින බව පාඨලී චම්පික රණවක මන්ත්‍රීවරයා පවසයි.
+
+ඔහු සඳහන් කළේ, එම මණ්ඩලය අසත්‍ය සංඛ්‍යා ලේඛන ඉදිරිපත් කරමින් විදුලි ගාස්තු වැඩිකර ඇති බවයි.
+
+ජනතාවට සහන මිලට විදුලිය ලබා දීමට විදුලි බල මණ්ඩලයට කිසිදු අවශ්‍යතාවක් නොමැති බව ජාතික ජන බලවේගයේ වසන්ත සමරසිංහ මහතා සඳහන් කර තිබේ.
+
+මේ අතර, ජනතාවගෙන් අනීතික ලෙස මුදල් අයකරමින් විදුලි බල මණ්ඩලය රුපියල් බිලියන 60කට වඩා ලාභයක් උපයා ඇති බව විදුලිය පාවිච්චි කරන්නන්ගේ සංගමයේ සංජීව ධම්මික මහතා සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/200f9969.json)
+
+---
+
+### කාන්තාවගේ අභිවෘද්ධිය ගැන සජිත් කියයි
+
+*2024-02-24 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193755) · `si`
+
+ගෘහ සේවිකා සංකල්පයෙන් බැහැර ව කාන්තාව නව කුසලතාවලින් සවිබල ගැන්විය යුතු බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+ඔහු පවසන්නේ, මෙරට කාන්තාවන් තොරතුරු තාක්ෂණයෙන් සවිබල ගැන්විය යුතු බවයි.
+
+ඒ හරහා කාන්තාවන් මෘදුකාංග ඉංජිනේරුවන් ලෙස, සෞඛ්‍ය පහසුකම් සපයන්නන් ලෙස සහ හෙදියන් ලෙස විදේශ රටවලට යැවීමේ වැඩපිළිවෙළක් සකස් කළ යුතු බව ද ඔහු අවධාරණය කර ඇත.
+
+◼️
+
+[Data](articles/76757bc9.json)
+
+---
+
+### Shiv Sena Maravanpulavu Sachidanandan Iya under the obstacles
+
+*2024-02-24 07:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177162) · `ta`
+
+As the newly acquaintance of the land of the Arulmigu Annamar Temple, which has been in the village of Matuvil for centuries, the newly acquired religion has been converted to the Pradeshiya Sabha after the Pradeshiya Sabha has been informed by the Pradeshiya Sabha that the Pradeshiya Sabha has been informed by the Pradeshiya Sabha.The Pongal event was held today at the Annamar Temple under the leadership of Maravanpulavu Sachidanandan Iya on the basis of the demand for the restoration of the worship.
+
+◼️
+
+[Data](articles/dac11700.json)
+
+[Extended Data](ext_articles/dac11700.ext.json)
+
+---
+
+### වී ගොවීන්ගෙන් මැසිවිල්ලක්
+
+*2024-02-24 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193754) · `si`
+
+වෙළෙඳපොළේ සහල් මිල ඉහළ ගොස් තිබුණ ද මහා පරිමාණ වී මෝල් හිමියන් ඉතා අවම මුදලකට වී මිල දී ගන්නා බව ගොවීහු පවසති.
+
+මේ හේතුවෙන් වී අස්වනු අලෙවි කිරීමේ දී තමන් දැඩි දුෂ්කරතාවට පත් ව සිටින බව ඔවුහු සඳහන් කරති.
+
+මේ අතර, අස්වනු අලෙවි කිරීමේ දී ගොවියාට විශාල අසාධාරණයක් සිදු වන බව සමස්ත ලංකා ගොවිජන සම්මේලනයේ නාමල් කරුණාරත්න මහතා පවසයි.
+
+එසේම වී මිල ඉහළ දැමීමට නම් සහල් මිල තවදුරටත් ඉහළ දැමිය යුතු බව  'රත්න' සහල් අධිපති මිත්‍රපාල ලංකේෂ්වර මහතා සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/7f076f90.json)
+
+---
 
 ### Indian Central Government permits Santhan to Sri Lanka
 
@@ -133,20 +199,6 @@ This in turn has led to an unprecedented situation where two members of the ITAK
 [Data](articles/846948a0.json)
 
 [Extended Data](ext_articles/846948a0.ext.json)
-
----
-
-### Shiv Sena Maravanpulavu Sachidanandan Iya under the obstacles
-
-*2024-02-24 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177162) · `ta`
-
-As the newly acquaintance of the land of the Arulmigu Annamar Temple, which has been in the village of Matuvil for centuries, the newly acquired religion has been converted to the Pradeshiya Sabha after the Pradeshiya Sabha has been informed by the Pradeshiya Sabha that the Pradeshiya Sabha has been informed by the Pradeshiya Sabha.The Pongal event was held today at the Annamar Temple under the leadership of Maravanpulavu Sachidanandan Iya on the basis of the demand for the restoration of the worship.
-
-◼️
-
-[Data](articles/dac11700.json)
-
-[Extended Data](ext_articles/dac11700.ext.json)
 
 ---
 
@@ -2075,59 +2127,5 @@ Tourism Minister Harin Fernando added that the next Cabinet meeting expects perm
 [Data](articles/b246ae7e.json)
 
 [Extended Data](ext_articles/b246ae7e.ext.json)
-
----
-
-### Maj
-
-*2024-02-23 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193731) · `si`
-
-Major General Major General Major General A Saraprari Liyanage has joined the reconciliation of the reconciliation.
-
-He has met with Opposition Leader Sajith Premadasa today (23) and has supported the resiry forces.
-
-Opposition Leader Sajith Premadasa has been appointed as the Head of the Anti-Corruption Policy and the Implementation Unit as a consultant on the anti-corruption unit of the Opposition and the opposition leader Sajith Premadasa.
-
-◼️
-
-[Data](articles/c46f3466.json)
-
-[Extended Data](ext_articles/c46f3466.ext.json)
-
----
-
-### Major General Sathyapriya Liyanage joins SJB
-
-*2024-02-23 11:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Major-General-Sathyapriya-Liyanage-joins-SJB/108-277606) · `en`
-
-Colombo, Feb. 23 (Daily Mirror)- Former Chief of Defence Staff Major General Sathyapriya Liyanage has been appointed as the head of the Samagi Jana Balawegaya (SJB) Anti Corruption Unit, the party office said today.
-
-He obtained the party membership and the appointment letter from Opposition Leader Sajith Premadasa today.
-
-Major General Liyanage has also been appointed as an advisor to Sajith Premadasa.
-
-◼️
-
-[Data](articles/ce695114.json)
-
-[Extended Data](ext_articles/ce695114.ext.json)
-
----
-
-### Maj. Gen. Sathyapriya Liyanage joins SJB
-
-*2024-02-23 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97476/maj-gen-sathyapriya-liyanage-joins-sjb) · `en`
-
-Major General Sathyapriya Liyanage, former Chief of Staff of Sri Lanka Army, has joined the main opposition Samagi Jana Balawegaya (SJB).
-
-He met with Opposition Leader Sajith Premadasa and SJB General Secretary Ranjith Madduma Bandara this morning (Feb.23) to convey his support for the party’s future course of action.
-
-According to a statement from the SJB, Maj. Gen. Liyanage has been appointed as the head of the party’s anti-corruption policy implementation unit and as a consultant to Premadasa in his endeavours to fight corruption.
-
-◼️
-
-[Data](articles/36b5afd5.json)
-
-[Extended Data](ext_articles/36b5afd5.ext.json)
 
 ---

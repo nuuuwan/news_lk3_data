@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 00:32:44**
+As of **2024-02-25 00:47:23**
 
 ## Newspaper Stats
 
-*Scraped **9,091** Articles*
+*Scraped **9,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 464
 islandlk | 473
 dailyftlk | 483
 adalk | 761
-adaderanalk | 1,096
+adaderanalk | 1,097
 tamilmirrorlk | 1,115
 virakesarilk | 1,241
 adaderanasinhalalk | 1,360
@@ -26,11 +26,23 @@ dailymirrorlk | 1,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,091 (100.0%) of 9,091 articles have been extended.
+9,092 (100.0%) of 9,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### China: 15 dead and dozens more injured in Nanjing flat fire
+
+*2024-02-24 23:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97509/china-15-dead-and-dozens-more-injured-in-nanjing-flat-fire) · `en`
+
+◼️
+
+[Data](articles/f36c71ee.json)
+
+[Extended Data](ext_articles/f36c71ee.ext.json)
+
+---
 
 ### “Ukkuwa’s” killing: Another suspect arrested over Mahabage shooting
 
@@ -2141,25 +2153,5 @@ Net interest income went up 16.8 percent to 25.5 billion rupees, with interest i
 [Data](articles/98d6edd5.json)
 
 [Extended Data](ext_articles/98d6edd5.ext.json)
-
----
-
-### Central Bank asked to provide report within one week
-
-*2024-02-24 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-asked-to-provide-report-within-one-week/108-277641) · `en`
-
-Colombo, Feb 24 (Daily Mirror) - Amidst criticism over the exorbitant salary hike of the Central Bank employees, a top parliamentary committee has called for a report from the Central Bank on the legal provisions for such a salary increment without parliamentary approval.
-
-Chairman of the Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis MP Gamini Waleboda said the matter regarding the salary hike was raised during the committee meeting on Thursday when the Central Bank officials were present.
-
-He said the Central Bank is expected to submit the report on the salary increment next week and after that, the Central Bank and its Monetary Board would be summoned before the Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis.
-
-He said the committee raised heavy criticism about the 70 per cent salary increase of the Central Bank employees amidst the economic crisis, and called it an immoral act.
-
-...
-
-[Data](articles/16df41f4.json)
-
-[Extended Data](ext_articles/16df41f4.ext.json)
 
 ---

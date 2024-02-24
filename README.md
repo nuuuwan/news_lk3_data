@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 13:02:46**
+As of **2024-02-24 13:17:24**
 
 ## Newspaper Stats
 
-*Scraped **9,027** Articles*
+*Scraped **9,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,54 +19,90 @@ adalk | 757
 adaderanalk | 1,081
 tamilmirrorlk | 1,111
 virakesarilk | 1,235
-adaderanasinhalalk | 1,341
+adaderanasinhalalk | 1,342
 dailymirrorlk | 1,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,025 (100.0%) of 9,027 articles have been extended.
+9,027 (100.0%) of 9,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### மோட்டார் சைக்கிள் விபத்தில் இளைஞன் உயிரிழப்பு ; ஒருவர் காயம்
+### උක්කුවා ඝාතන සිද්ධියට අවශ්‍ය කර සිටි සැකකරුවෙකු අත්අඩංගුවට
+
+*2024-02-24 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193765) · `si`
+
+මහබාගේ ප්‍රදේශයේ දී පසුගිය 21 වැනි දා සිදු කළ වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට අවශ්‍ය ව සිටි ප්‍රධාන සැකකරුවකු පොලිස් විශේෂ කාර්ය බළකාය විසින් අද (24) පෙරවරුවේ අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරු දැනට සක්‍රීය සේවයේ යෙදී සිටින, යුද හමුදා චෙංකලඩි කඳවුරේ හතර වැනි ගැමුණු හේවා බලඇණියේ සේවය කරන කෝප්‍රල්වරයෙකි.
+
+සැකකරු පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගැනීමට යාමේ දී මඩකලපුව - චෙංකලඩි කඳවුරේ සිට පළා ගොස් තිබේ.
+
+පසු ව යුද හමුදා බුද්ධි අංශයේ නිලධාරින් විසින් අම්පාර ප්‍රදේශයේ දී සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+සංවිධානාත්මක අපරාධකරුවෙකු ලෙස සැලකෙන 'වැල්ලේ සාරංග' යන අයගේ ඥාතියෙකු වන 'උක්කුවා' නමැත්තාට සංවිධානාත්මක අපාරාධකරුවෙකු ලෙස සැලකෙන නිපුන නැමත්තාගේ පිරිසක් විසින් පසුගිය 21 වැනි දා ‍වෙඩි තබා ඝාතනය කර තිබිණි.
+
+මෙම වෙඩි තැබීම සඳහා අත්අඩංගුවට ගත් ප්‍රධාන සැකකරු ඇතුළු තවත් යුද හමුදාවේ හිටපු සෙබළුන් දෙදෙනෙකු පැමිණ තිබූ බව ‍පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/0131e3f2.json)
+
+---
+
+### Youth killed in motorcycle accidentOne injury
 
 *2024-02-24 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177184) · `ta`
 
-கலென்பிந்துனுவெவ - கெட்டலாவ பகுதியில் மோட்டார் சைக்கிள் விபத்துக்குள்ளானதில் 19 வயது இளைஞர் உயிரிழந்ததுடன், மற்றுமொருவர் படுகாயமடைந்து மருத்துவமனையில் சிகிச்சை பெற்று வருகிறார்.
+A 19 -year -old youth died in a motorcycle accident in Kalanpindunuwewa - Ketalawa area and another man was injured and is being treated at the hospital.
 
-வேகமாக பயணித்த மோட்டார் சைக்கிள் அதன் கட்டுபாட்டை இழந்ததால், வீதியை விட்டு விலகி, வீதியோரத்தில் இருந்த சுவரில் மோதியுள்ளது.
+As the fast -paced motorcycle lost its control, it left the road and crashed into the wall on the street.
 
-இதன்போது மோட்டார் சைக்கிளில் பயணித்த இருவரும் காயமடைந்த நிலையில், சிகிச்சைக்காக கலன்பிந்துனுவெவ வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+The two men who were traveling on a motorcycle were injured and admitted to the Kalapindunuwewa Hospital for treatment.
 
-அதனையடுத்து, சிகிச்சை பெற்றுவரும் இருவரில் ராஜாங்கனை தெற்கு பிரதேசத்தைச் சேர்ந்த  இளைஞர் சிகிச்சை பலனின்றி உயிரிழந்தார்.
+Subsequently, two of the two were treated for the youth of Rajanganan died without treatment.
 
-காயமடைந்த மற்றைய நபர் மேலதிக சிகிச்சைக்காக அனுராதபுரம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that the other injured person has been transferred to the Anuradhapura Teaching Hospital for further treatment.
 
 ◼️
 
 [Data](articles/2fba0748.json)
 
+[Extended Data](ext_articles/2fba0748.ext.json)
+
 ---
 
-### இந்தியா ஒரு மூத்த சகோதரன் - சீனாவுடனான உறவு குறித்து இந்தியா கவலைப்படவேண்டியதில்லை –  வெளிவிவகார இராஜாங்க அமைச்சர்
+### India is a elder brother - India does not have to worry about relations with China - Minister of State for Foreign Affairs
 
 *2024-02-24 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177181) · `ta`
 
-இலங்கை இந்தியாவை ஒரு மூத்தசகோதரனாக கருதுவதாக தெரிவித்துள்ள வெளிவிவகார இராஜாங்க அமைச்சர் தாரகபாலசூர்ய 2048ம் ஆண்டுக்குள் நாட்டை அபிவிருத்தி செய்யும் நோக்கத்துடன் உள்ள இலங்கை இந்தியாவின் முன்மாதிரியை அறிந்துகொள்ள விரும்புவதாகவும் தெரிவித்துள்ளார்.
+External Affairs Minister Tarakapalasuriya, who has said that Sri Lanka is considered a senior coordinator, said Sri Lanka wants to know the role model of India with the aim of developing the country by 2048.
 
-இலங்கை இந்தியாவுடன் இணைந்து செயற்படவிரும்புகின்றது என ஏன்ஐக்கு தெரிவித்துள்ள அவர் இந்திய நிறுவனங்கள் இலங்கையில் முதலீடு செய்ய முன்வரவேண்டும் என வேண்டுகோள் விடுத்துள்ளார்.
+He has told the government why Sri Lanka wants to work with India.
 
-இலங்கையை அபிவிருத்தி செய்வதற்கான முயற்சிகள் குறித்து கருத்து தெரிவித்துள்ள அவர் நாங்கள் உதவிகளை எதிர்பார்க்கவில்லை இணைந்த செயற்பாடுகளையே எதிர்பார்க்கின்றோம் நாங்கள் இந்தியாவை ஒரு சகாவாக பார்க்கின்றோம் நாங்கள் இந்தியாவை ஒரு மூத்தசகோதரனாக பார்க்கின்றோம் அதன் வெற்றிகதையை பார்க்கின்றோம் எனவும் தெரிவித்துள்ளார்.
+Commenting on efforts to develop Sri Lanka, he said, "We are not expecting help. We are looking at India as a colleague. We see India as a senior coordinator.
 
-இந்தியா ஒரு அபிவிருத்தியடைந்த நாடு என்ற நிலையை நோக்கி சென்றுகொண்டிருக்கின்ற இந்த தருணத்தில் இந்தியா அதனை எவ்வாறு சாதித்தது என்பதை அறிந்துகொள்ள விரும்புகின்றோம் எனவும் தாரகபாலசூர்ய தெரிவித்துள்ளார்.
+"We would like to know how India achieved it at this moment," he said.
+
+"We want to become a developed country by 2048," he said.
+
+Asked whether Sri Lanka is under the influence of China, we are trading with any country, but for India, we have special ties.
+
+Tarakapalasuriya said that India does not have to worry much about our relations with China.
+
+He said that we have better relationships with China but we have better relationships with Russia.
+
+We are not going to invade any country, we are not going to invade any country.
 
 ...
 
 [Data](articles/30015435.json)
+
+[Extended Data](ext_articles/30015435.ext.json)
 
 ---
 
@@ -2103,25 +2139,5 @@ Suren Raghavan, the State Minister for Higher Education said the shortage has ag
 [Data](articles/613ebb88.json)
 
 [Extended Data](ext_articles/613ebb88.ext.json)
-
----
-
-### Richard Verma's compliments to the government's process
-
-*2024-02-23 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193742) · `si`
-
-Deputy Secretary of State Secretary Richard Werma says that President Ranil Wickremesinghe is the leading government to restore the economy of Sri Lanka.
-
-President Ranil Wickremesinghe and Deputy Secretary of State Secretary Richard Werma (JVP) said that the Presidential Secretariat was held at the Presidential Secretariat this morning.
-
-The President has notified the procedure of the US Deputy Secretary of State on the progress of the procedure for the restructuring of the main economic reforms and the proceeds in Sri Lanka.
-
-The Deputy Secretary of State has thanked President Ranil Wickremesinghe for the assistance of the Government of Sri Lanka for the Supreme Government of Sri Lanka for the Supreme Government of Sri Lanka for the Red Sea Naval Operations.
-
-◼️
-
-[Data](articles/7f7e7495.json)
-
-[Extended Data](ext_articles/7f7e7495.ext.json)
 
 ---

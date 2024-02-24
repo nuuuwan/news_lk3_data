@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 10:17:33**
+As of **2024-02-24 10:33:04**
 
 ## Newspaper Stats
 
-*Scraped **9,000** Articles*
+*Scraped **9,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 462
 islandlk | 472
 dailyftlk | 483
 adalk | 754
-adaderanalk | 1,075
+adaderanalk | 1,077
 tamilmirrorlk | 1,109
 virakesarilk | 1,228
 adaderanasinhalalk | 1,337
@@ -26,11 +26,47 @@ dailymirrorlk | 1,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,999 (100.0%) of 9,000 articles have been extended.
+9,000 (100.0%) of 9,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Sri Lankan, Indian coast guard ships in Malé for 16th ‘Dosti’ trilateral exercise
+
+*2024-02-24 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97492/sri-lankan-indian-coast-guard-ships-in-mal-for-16th-dosti-trilateral-exercise) · `en`
+
+Seeking to enhance maritime security and interoperability, coast guard personnel from India, the Maldives and Sri Lanka have embarked on a four-day trilateral exercise to identify emerging maritime challenges in the Indian Ocean Region.
+
+Indian Coast Guard ship Samarth and ICGS Abhinav along with Sri Lanka Naval Ship Samudura reached Malé on Thursday for the exercise ‘DOSTI-16′ that would be held between February 22 and 25. Bangladesh is participating as an observer.
+
+Coast guard helicopter ICGS Dornier too is part of the trilateral exercise ‘Dosti,’ which Sri Lanka said aims to enhance cooperation, strengthen friendship, improve mutual operational capability, and develop interoperability among the Coast Guard personnel of India, the Maldives, and Sri Lanka.
+
+The Maldives National Defence Force (MNDF) late Thursday evening extended a warm welcome to ADG S Paramesh, Additional Director General of the Indian Coast Guard.
+
+...
+
+[Data](articles/8bf679a5.json)
+
+---
+
+### Senior US official discusses Sri Lanka’s IMF program in Colombo
+
+*2024-02-24 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97491/senior-us-official-discusses-sri-lankas-imf-program-in-colombo) · `en`
+
+Senior U.S. diplomat Richard Verma on Friday met Sri Lankan President Ranil Wickremesinghe and Foreign Minister Ali Sabry in Colombo, and discussed Sri Lanka’s economic recovery and progress on its IMF program, the U.S. State Department said.
+
+The South Asian island nation finalised a $2.9 billion bailout, from the International Monetary Fund in March 2023, which helped temper skyrocketing inflation, improved state revenue and boosted foreign exchange reserves.
+
+The country defaulted on its overseas debt in May 2022 after a severe shortage of foreign exchange reserves triggered the worst financial crisis since independence from Britain in 1948.
+
+Sri Lanka has since made progress on about $11 billion of bilateral debt restructuring and hopes to have agreements in place with all key creditors, including bondholders, by May at the latest, Sabry told Reuters earlier this month.
+
+...
+
+[Data](articles/abd78319.json)
+
+---
 
 ### Excessive speed called the kill
 
@@ -54,27 +90,29 @@ Motorcyclist has been admitted to the Anuradhapura Teaching Hospital for further
 
 ---
 
-### தேடப்பட்டு வந்த பலர் டுபாய் பொலிஸாரால் கைது
+### Many people arrested by Dubai police
 
 *2024-02-24 08:49:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்த-பலர்-டுபாய்-பொலிஸாரால்-கைது/175-333729) · `ta`
 
-பெலியத்தவில் ஐந்து பேர் படுகொலை செய்யப்பட்ட சம்பவத்துக்கு ஆதரவளித்த சிலர் டுபாயில் அந்நாட்டு பொலிஸாரால்  கைது செய்யப்பட்டுள்ளனர்.
+Some people who supported the murder of five people in Beliatta have been arrested by the police in Dubai.
 
-இதில் ஊரகஹா மைக்கல், புஸ்ஸே ஹர்ஷ மற்றும் துப்பாக்கிச் சூடு நடத்தியதாக சந்தேகிக்கப்படும் இருவர் டுபாயில் கைது செய்யப்பட்டுள்ளனர்.
+Two suspects suspected of firing Michael, Pussy Harsha and firing have been arrested in Dubai.
 
-அந்நாட்டில் உள்ள ஒரு இரவு விடுதியில் நடந்த மோதலின் போது இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+They were arrested during a clash at a nightclub in the country.
 
-கைது செய்யப்பட்ட 13 பேரும் பெலியத்தவில் ஐந்து பேரின் கொலைக்கு தலைமை தாங்கியதாக சந்தேகிக்கப்படும் கொஸ்கொட சுஜீயின் நெருங்கிய உதவியாளர்கள் எனத் தெரிவிக்கப்படுகிறது.
+Kosgoda Suji's closest assistants are suspected of the murder of five people in Beliatta.
 
-தற்போது கொஸ்கொட சுஜீ குறித்த குழுவை மீட்கும் முயற்சியில் ஈடுபட்டுள்ளதாக மேலும் தெரியவந்துள்ளது.
+It is also reported that the group of Kosgoda Sujee is currently trying to recover.
 
-எனினும், இந்த கைது தொடர்பாக டுபாய் இராச்சியம் இதுவரை அதிகாரபூர்வமாக இலங்கை அரசுக்கு அறிவிக்கவில்லை.
+However, the Dubai kingdom has not officially notified the Sri Lankan government regarding the arrest.
 
-சந்தேக நபர்களை இலங்கைக்கு அழைத்து வருவதற்கான அடுத்தக்கட்ட நடவடிக்கைகள் குறித்து இரு நாட்டு பாதுகாப்பு தரப்பினரும் கலந்துரையாடி வருவதாகத் தெரிவிக்கப்படுகிறது. R
+It is reported that the two countries are discussing the next steps to bring the suspects to Sri Lanka.. Remble
 
 ◼️
 
 [Data](articles/4c4ccb5c.json)
+
+[Extended Data](ext_articles/4c4ccb5c.ext.json)
 
 ---
 
@@ -2063,49 +2101,5 @@ He is also due to be taken to the camp in the future, as he has revealed.
 [Data](articles/72dff205.json)
 
 [Extended Data](ext_articles/72dff205.ext.json)
-
----
-
-### World’s largest snake: New species of green anaconda discovered in Amazon
-
-*2024-02-23 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97478/worlds-largest-snake-new-species-of-green-anaconda-discovered-in-amazon) · `en`
-
-Scientists have discovered a previously undocumented species of giant anaconda in the Amazon which they say can grow up to 7.5m and weighing close to 500kg, making it the largest and heaviest snake yet known in the world.
-
-Until now, four species of anacondas were known, with the largest one – the green anaconda – inhabiting tropical parts of South America such as the basins of the Amazon, Orinoco, and Esequibo rivers, as well as some smaller watersheds.
-
-These anacondas, found in the rivers and wetlands of South America, are well known for their lightning speed and ability to squeeze the life out of prey by coiling around, asphyxiating them, and swallowing them whole.
-
-A newly published decades-long study has now found that the green anaconda is genetically two different species.
-
-...
-
-[Data](articles/b1c207ba.json)
-
-[Extended Data](ext_articles/b1c207ba.ext.json)
-
----
-
-### 50,000 fake doctors across the country
-
-*2024-02-23 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193735) · `si`
-
-There are about 50,000 fake doctors across the country, says the Government Medical Officers Association (GMOA).
-
-The association said that a press conference in Colombo was conducting further action to regulate it.
-
-Deputy Secretary of the Government Medical Officers' Association Dr. Prasad Herath said that there were about three four fake doctors in all the main villages in every town.
-
-The Government Medical Office Association Dr. Prabatha Sugathadasa said the functions of certain pharmaceutical shops are a major threat to the health sector.
-
-The doctor points out that the patients may even kill patients by the symptoms without a medical recommendation.
-
-The Government Medical Officers' Association further emphasizes that due to proper regulation should be carried out immediately.
-
-◼️
-
-[Data](articles/d9438a5d.json)
-
-[Extended Data](ext_articles/d9438a5d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 12:02:35**
+As of **2024-02-24 12:17:28**
 
 ## Newspaper Stats
 
-*Scraped **9,020** Articles*
+*Scraped **9,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 463
 islandlk | 472
 dailyftlk | 483
 adalk | 757
-adaderanalk | 1,079
+adaderanalk | 1,081
 tamilmirrorlk | 1,111
-virakesarilk | 1,231
+virakesarilk | 1,233
 adaderanasinhalalk | 1,340
 dailymirrorlk | 1,358
 
@@ -26,11 +26,69 @@ dailymirrorlk | 1,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,020 (100.0%) of 9,020 articles have been extended.
+9,020 (100.0%) of 9,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### மட்டக்களப்பு உன்னிச்சை, நெடியமடு கிராமங்களுக்குள் ஊடுருவிய காட்டு யானைகளால் வீடுகள், பயிர்கள் துவசம்
+
+*2024-02-24 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177179) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தின் வவுணதீவு பிரதேசத்திலுள்ள  உன்னிச்சை, நெடியமடு கற்பானைக்குளம் போன்ற கிராமங்களுக்குள்  இன்று சனிக்கிழமை (24) அதிகாலை சில காட்டு யானைகள் ஊடுருவி அங்குள்ள இரண்டு வீடுகளையும் விவசாயிகளின் தென்னை மரங்களையும் அழித்து துவசம் செய்துள்ளது.
+
+யானை பாதுகாப்பு மின்சார வேலிகள் இருந்தும், அவ் வேலிகளைத் தாண்டி மாலை  கிராமங்களுக்குள் ஊடுருவி தமது பயிர்களையும் வீடுகளையும் தாக்கி சேதப்படுத்தி வருவதாகவும், இம்மாதம் 12ம், 16ம் திகதிகளில் வயோதிபப்பெண் ஒருவரையும் விவசாயி ஒருவரையும் நெடியமடு, களிக்குளம் கிராமத்தில் வீதியால் சென்றே போது யானை தாக்கி தெய்வாதீனமாக சிறு காயங்களுடன் உயிர் தப்பியுள்ளனர் என இப் பிரதேச மக்கள் தெரிவித்தனர்.
+
+இந்த காட்டு யானை அனர்த்தங்களில் இருந்து எங்கள் பகுதி மக்களை பாதுகாப்பதற்கு இன்று வரை அரசாங்கம், ஒரு சரியான நடவடிக்கை எடுக்கவில்லை.
+
+இங்குள்ள காந்திநகர், உன்னிச்சை போன்ற சில கிராமங்களில் உள்ள சிறு காடுகளுக்குள் இரவு பகலாக யானைகள் நிற்கின்றது.
+
+இரவிலும் பகலிலும் நாங்கள் குழந்தைகளையும் வைத்துக் கொண்டு விழித்த கண்ணுடன் வாழ வேண்டிய சூழலில் இருக்கின்றோம்.
+
+...
+
+[Data](articles/92dbc268.json)
+
+---
+
+### PUCSL to meet next week to decide on CEB’s electricity tariffs revision proposal
+
+*2024-02-24 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97496/pucsl-to-meet-next-week-to-decide-on-cebs-electricity-tariffs-revision-proposal) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) is scheduled to convene a meeting on February 28 to discuss the proposal for tariffs reduction submitted by the Ceylon Electricity Board (CEB).
+
+A PUCSL spokesperson said the final decision on the electricity tariffs revision proposal would be taken on that day.
+
+The state-owned electricity supplier’s proposal to reduce electricity charges was handed over to the PUCSL on February 22.
+
+Kanchana Wijesekera, the Minister of Power and Energy, recently told the parliament that the CEB expects to reduce the rates by at least the same rates and percentages increased in October 2023.
+
+In October last year, the electricity tariffs were raised by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
+
+◼️
+
+[Data](articles/dd98e29a.json)
+
+---
+
+### Sanath Nishantha’s death: Court says yet to receive postmortem report
+
+*2024-02-24 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97495/sanath-nishanthas-death-court-says-yet-to-receive-postmortem-report) · `en`
+
+The Welisara Magistrate’s Court says the Judicial Medical Officer (JMO) has yet to submit the report on the postmortem of late State Minister Sanath Nishantha.
+
+As such, Welisara Magistrate Thusitha Dhammika Uduwawidana has stated that the exact cause of death of the deceased lawmaker could not be announced under the circumstances.
+
+This was communicated when Attorney-at-Law Dhanaraj Samarakoon, who appeared on behalf the late state minister’s wife, requested the court to reveal the exact cause of death of Sanath Nishantha, who died in a crash that took place on the Colombo - Katunayake expressway on January 25.
+
+The magistrate, directing the Kandana police officers to inform the JMO to submit the postmortem report to the court, subsequently fixed the complaint to be taken up again on July 01.
+
+...
+
+[Data](articles/b22faea6.json)
+
+---
 
 ### Total decision on electricity tariffs will be received 28
 
@@ -49,6 +107,18 @@ The Minister of Power and Energy Kanchana Wijesekera recently stated that this h
 [Data](articles/d4998e88.json)
 
 [Extended Data](ext_articles/d4998e88.ext.json)
+
+---
+
+### 45ஆவது நவம் மஹா பெரஹராவை ஜனாதிபதி ஆரம்பித்து வைத்தார்
+
+*2024-02-24 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/177177) · `ta`
+
+கொழும்பு ஹுனுப்பிட்டிய கங்காராம விகாரையின் 45ஆவது நவம் மஹா பெரஹராவை நேற்று வெள்ளிக்கிழமை (23) ஜனாதிபதி ரணில் விக்ரமசிங்க யானையின் மீது புனித கரடுவ்வை வைத்து ஆரம்பித்து வைத்தார்.
+
+◼️
+
+[Data](articles/fbf14f84.json)
 
 ---
 
@@ -2035,81 +2105,5 @@ After the investigation, the police have taken steps to appear at the Jaffna Mag
 [Data](articles/29b9692b.json)
 
 [Extended Data](ext_articles/29b9692b.ext.json)
-
----
-
-### Sri Lanka tea production up 1.4-pct in Jan 2024, exports up 6.8-pct
-
-*2024-02-23 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-up-1-4-pct-in-jan-2024-exports-up-6-8-pct-152029/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tea production was up 1.4 percent to 18.73 million kilograms in January 2024, with high growns falling and low and mid growns rising, industry data shows.
-
-High grown tea in January 2024 was 3.56 million kilograms, down from 3.36 million, medium growns were 2.6, up from 2.5 million kilograms and low growns were 12.56 million, up from 12.32 million kilograms last year.
-
-Exports, including re-exports were up 6.88 percent to 18.76 million kilograms, industry data published by Ceylon Tea Brokers show.
-
-Export earnings were reported at 102 million US dollars, up from 99.5 million dollars last year. The average FOB price was 5.45 US dollars a kilo down from 5.67 dollars last year.
-
-Tea in bulk was 8.5 million kilograms valued at 12.79 billion rupees, tea in packets was 7.8 million kilograms valued  at 13.1 billion rupees and tea in bags was 1.8 million kilos, valued at 5.06 billion rupees.
-
-...
-
-[Data](articles/b6c4d926.json)
-
-[Extended Data](ext_articles/b6c4d926.ext.json)
-
----
-
-### 531 arrested in Jaffna
-
-*2024-02-23 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177140) · `ta`
-
-531 people have been arrested in Jaffna within the last one month, police said.
-
-The arrested persons have been searched in Jaffna on charges of crime.
-
-According to the police, 301 persons were arrested and 230 persons were arrested by the police and produced in courts, police said.
-
-◼️
-
-[Data](articles/6060fbde.json)
-
-[Extended Data](ext_articles/6060fbde.ext.json)
-
----
-
-### U.S. Deputy Secretary Verma commends Sri Lanka’s economic recovery efforts
-
-*2024-02-23 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97480/us-deputy-secretary-verma-commends-sri-lankas-economic-recovery-efforts) · `en`
-
-The U.S. Deputy Secretary of State for Management and Resources, Richard Verma, who called on President Ranil Wickremesinghe on Friday (Feb.23), has expressed appreciation for the efforts taken by the Sri Lankan government to turn the economy around.
-
-During the discussions, the Sri Lankan leader outlined the progress of the debt restructuring, along with several key economic reforms measures, including the agriculture modernisation program.
-
-Commenting on matters related to global security, the Deputy Secretary thanked the island nation’s government for their assistance in the on-going naval operations in the Red Sea.
-
-President Wickremesinghe stated that Sri Lanka remains committed to Freedom of Navigation in the Indian Ocean, echoing solidarity with Saudi Arabia’s stance on the Houthi rebels.
-
-◼️
-
-[Data](articles/066f4251.json)
-
-[Extended Data](ext_articles/066f4251.ext.json)
-
----
-
-### Uganda National Cricket team in town, calls on Ali Sabry
-
-*2024-02-23 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uganda-National-Cricket-team-in-town-calls-on-Ali-Sabry/108-277612) · `en`
-
-Colombo, Feb 23 *Daily Mirror) - Foreign Minister Ali Sabry had a meeting with the Uganda National Cricket team at the Foreign Affairs Ministry.
-
-He said in a message on ‘x’ that he appreciated the efforts of Speaker Mahinda Yapa Abeywardena and Sri Lanka's Ambassador to Uganda V. Kananathan in facilitating this tour which will further strengthen the Uganda-Sri Lanka relationships.
-
-◼️
-
-[Data](articles/2b35c315.json)
-
-[Extended Data](ext_articles/2b35c315.ext.json)
 
 ---

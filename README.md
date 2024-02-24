@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 10:02:32**
+As of **2024-02-24 10:17:33**
 
 ## Newspaper Stats
 
-*Scraped **8,999** Articles*
+*Scraped **9,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 472
 dailyftlk | 483
 adalk | 754
 adaderanalk | 1,075
-tamilmirrorlk | 1,108
+tamilmirrorlk | 1,109
 virakesarilk | 1,228
 adaderanasinhalalk | 1,337
 dailymirrorlk | 1,355
@@ -26,7 +26,7 @@ dailymirrorlk | 1,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,999 (100.0%) of 8,999 articles have been extended.
+8,999 (100.0%) of 9,000 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,30 @@ Motorcyclist has been admitted to the Anuradhapura Teaching Hospital for further
 [Data](articles/13f18620.json)
 
 [Extended Data](ext_articles/13f18620.ext.json)
+
+---
+
+### தேடப்பட்டு வந்த பலர் டுபாய் பொலிஸாரால் கைது
+
+*2024-02-24 08:49:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்த-பலர்-டுபாய்-பொலிஸாரால்-கைது/175-333729) · `ta`
+
+பெலியத்தவில் ஐந்து பேர் படுகொலை செய்யப்பட்ட சம்பவத்துக்கு ஆதரவளித்த சிலர் டுபாயில் அந்நாட்டு பொலிஸாரால்  கைது செய்யப்பட்டுள்ளனர்.
+
+இதில் ஊரகஹா மைக்கல், புஸ்ஸே ஹர்ஷ மற்றும் துப்பாக்கிச் சூடு நடத்தியதாக சந்தேகிக்கப்படும் இருவர் டுபாயில் கைது செய்யப்பட்டுள்ளனர்.
+
+அந்நாட்டில் உள்ள ஒரு இரவு விடுதியில் நடந்த மோதலின் போது இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட 13 பேரும் பெலியத்தவில் ஐந்து பேரின் கொலைக்கு தலைமை தாங்கியதாக சந்தேகிக்கப்படும் கொஸ்கொட சுஜீயின் நெருங்கிய உதவியாளர்கள் எனத் தெரிவிக்கப்படுகிறது.
+
+தற்போது கொஸ்கொட சுஜீ குறித்த குழுவை மீட்கும் முயற்சியில் ஈடுபட்டுள்ளதாக மேலும் தெரியவந்துள்ளது.
+
+எனினும், இந்த கைது தொடர்பாக டுபாய் இராச்சியம் இதுவரை அதிகாரபூர்வமாக இலங்கை அரசுக்கு அறிவிக்கவில்லை.
+
+சந்தேக நபர்களை இலங்கைக்கு அழைத்து வருவதற்கான அடுத்தக்கட்ட நடவடிக்கைகள் குறித்து இரு நாட்டு பாதுகாப்பு தரப்பினரும் கலந்துரையாடி வருவதாகத் தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/4c4ccb5c.json)
 
 ---
 
@@ -2083,25 +2107,5 @@ The Government Medical Officers' Association further emphasizes that due to prop
 [Data](articles/d9438a5d.json)
 
 [Extended Data](ext_articles/d9438a5d.ext.json)
-
----
-
-### Balanced to invalidity and honorary
-
-*2024-02-23 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193734) · `si`
-
-The Secretary to the President Saman Ekanayake has instructed the public officials of the subject to take legal action against the national awards and honorary registers.
-
-It is observed by various individuals and NGOs using the names of the National Awards and NGOs, which are used by the President and NGOs to the special procedures, based on each specific criteria.Said.
-
-The Presidential Secretary has pointed out that the uniformed awards such as the unsorganized awards have been treated in honorable and disrespect.
-
-The Secretary to the President Saman Ekanayake has emphasized that other honors used for national awards should be immediately stopped using the law against such acts.
-
-...
-
-[Data](articles/bf94de8c.json)
-
-[Extended Data](ext_articles/bf94de8c.ext.json)
 
 ---

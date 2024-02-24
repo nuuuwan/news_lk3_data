@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 22:33:32**
+As of **2024-02-24 22:50:45**
 
 ## Newspaper Stats
 
-*Scraped **9,083** Articles*
+*Scraped **9,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ newsfirstlk | 363
 economynextcom | 463
 islandlk | 473
 dailyftlk | 483
-adalk | 759
+adalk | 760
 adaderanalk | 1,095
 tamilmirrorlk | 1,115
 virakesarilk | 1,241
-adaderanasinhalalk | 1,356
+adaderanasinhalalk | 1,360
 dailymirrorlk | 1,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,076 (99.9%) of 9,083 articles have been extended.
+9,088 (100.0%) of 9,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### ANE MAERSK leaves Colombo
+
+*2024-02-24 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193785) · `si`
+
+The world's largest container ship, which empowered in Metal, arrived at the Port of Colombo today (24).
+
+This commence vessel, "Annie Mursk" is over 16,000 containers.
+
+Mersk's first namellar, "Annie Mursk" first joins the transportation of the goods on the 26th of January.
+
+It is used to reduce air pollution caused to sulfur and carbon dioxide environment and it will use these ships to minimize the impact on the environment in addition to the harmful influence of human health.
+
+Accordingly, there are two tanks of 16,000 dinmeters in the ship to use it for fuel.
+
+The ship produced by Hundai, South Korea, is sailing in the Danish flag.
+
+The ship's full capacity is 1900 tons and consists of an Annie Mursk, 10 in 10 containers.
+
+The ship moves from Asia to Europe from Asia to Europe, which is one destination in the AE7 road from the AE7 road.
+
+This is the first time a container ship arrived in Sri Lanka and a special celebration was held at the Colombo International Container Terminal.
+
+◼️
+
+[Data](articles/bb95b97e.json)
+
+[Extended Data](ext_articles/bb95b97e.ext.json)
+
+---
+
+### Earth slip falls down
+
+*2024-02-24 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193784) · `si`
+
+The accident had occurred in Annulawatta, Kandy today.
+
+The injured in the accident has been admitted to the Kandy General Hospital and his condition is reported.
+
+◼️
+
+[Data](articles/a51b64de.json)
+
+[Extended Data](ext_articles/a51b64de.ext.json)
+
+---
 
 ### ‘A united step for the country’: Patali’s party submits proposal to President
 
@@ -47,6 +93,26 @@ Stressing the government’s commitment to steering the economy towards recovery
 ...
 
 [Data](articles/9bd9c9d2.json)
+
+[Extended Data](ext_articles/9bd9c9d2.ext.json)
+
+---
+
+### Alexyi Navalni's body to the mother
+
+*2024-02-24 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193783) · `si`
+
+It is reported that the Russian authorities have agreed to give Alexi Navalni's body to his mother, a leading Russian opposition leader.
+
+But his body has agreed to burial in a secret place, BBC News.
+
+Navalney died on the 16th in a Russian prison camp.
+
+◼️
+
+[Data](articles/87d7e19b.json)
+
+[Extended Data](ext_articles/87d7e19b.ext.json)
 
 ---
 
@@ -70,6 +136,40 @@ This is the state of this country. Sajith Premadasa said that every child born i
 
 ---
 
+### More information about the suspects of Mahabage murder
+
+*2024-02-24 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193782) · `si`
+
+A soldier and two others have been arrested in connection with the assassination of Saranga's brother-in-law.
+
+The army soldier was arrested while he was raised from the basin.
+
+On the 21st, organized criminal sand, a organized criminal, was shot dead in the Passara, Ragama, Ragama.
+
+The murder was accused of Dubai Skildara, who is currently abroad.
+
+The main suspect is an active corporal in the four-third Gemunu Watch of the Sri Lanka Army Ceykaladi camp.
+
+He had escaped from the Batticaloa Chenkali camp when the STF and main suspect was arrested.
+
+Army intelligence officers were able to arrest him in the Ampara Police.
+
+He was suspicious as the shooter in the incident.
+
+The other suspect is a person who is said to be spying on shooting.
+
+The suspect was arrested in the Udahawatta area in Udahaduwatta.
+
+The motorcyclist who had come to the murder have come to the murder and is currently a soldier former soldier.
+
+◼️
+
+[Data](articles/18344a5b.json)
+
+[Extended Data](ext_articles/18344a5b.ext.json)
+
+---
+
 ### Kegalle district gets new foreign employment bureau office
 
 *2024-02-24 21:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kegalle-district-gets-new-foreign-employment-bureau-office/108-277659) · `en`
@@ -85,6 +185,8 @@ They underscored the critical need for an SLBFE office to address the welfare an
 ◼️
 
 [Data](articles/de82a8af.json)
+
+[Extended Data](ext_articles/de82a8af.ext.json)
 
 ---
 
@@ -123,6 +225,8 @@ The incident occurred after the end of the match, when Hasaranga confronted umpi
 ...
 
 [Data](articles/d4bf6ea5.json)
+
+[Extended Data](ext_articles/d4bf6ea5.ext.json)
 
 ---
 
@@ -347,6 +451,8 @@ A big crowd gathered at Hyde Park, Colombo today as Sugeeshwara Bandara made his
 ◼️
 
 [Data](articles/60a2b0a0.json)
+
+[Extended Data](ext_articles/60a2b0a0.ext.json)
 
 ---
 
@@ -758,6 +864,24 @@ He has also been advised to create a mechanism for providing new connections on 
 
 ---
 
+### Decision on electricity tariff
+
+*2024-02-24 14:03:33* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-ගැන-තීරණය-28-දා/11-408253) · `si`
+
+The Public Utilities Commission of Sri Lanka is scheduled to meet on the 28th of this month.
+
+The final decision is due to be taken regarding the proposal for the revision of the electricity tariff.
+
+The Ceylon Electricity Board has already proposed to reduce the increased electricity tariffs in October last year.
+
+◼️
+
+[Data](articles/1bd43cb9.json)
+
+[Extended Data](ext_articles/1bd43cb9.ext.json)
+
+---
+
 ### US targets Russia with more than 500 new sanctions
 
 *2024-02-24 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97499/us-targets-russia-with-more-than-500-new-sanctions) · `en`
@@ -847,6 +971,8 @@ In light of the situation, the health authorities have taken prompt measures to 
 ◼️
 
 [Data](articles/7515f8c9.json)
+
+[Extended Data](ext_articles/7515f8c9.ext.json)
 
 ---
 
@@ -1033,6 +1159,8 @@ Three unidentified assailants had opened fire using a revolver, around 7:15 a.m.
 ...
 
 [Data](articles/62cb8f8f.json)
+
+[Extended Data](ext_articles/62cb8f8f.ext.json)
 
 ---
 
@@ -1970,6 +2098,8 @@ He said the committee raised heavy criticism about the 70 per cent salary increa
 
 [Data](articles/16df41f4.json)
 
+[Extended Data](ext_articles/16df41f4.ext.json)
+
 ---
 
 ### Central Bank asked to provide report within one week
@@ -2021,107 +2151,5 @@ As the newly acquaintance of the land of the Arulmigu Annamar Temple, which has 
 [Data](articles/dac11700.json)
 
 [Extended Data](ext_articles/dac11700.ext.json)
-
----
-
-### A complaint from the paddy farmers
-
-*2024-02-24 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193754) · `si`
-
-The farmers say that the rice price of rice has gone up, but the large-scale and mill owners buy paddy.
-
-As a result, they are suffering at difficulty in selling paddy.
-
-Meanwhile, at All Ceylon Agrarian Federation, the farmer will be unfair to the farmer in harvesting.
-
-The rice price should be further increased to increase the price of paddy.
-
-◼️
-
-[Data](articles/7f076f90.json)
-
-[Extended Data](ext_articles/7f076f90.ext.json)
-
----
-
-### Indian Central Government permits Santhan to Sri Lanka
-
-*2024-02-24 07:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/177164) · `ta`
-
-The central government has sent a letter to Sri Lanka to send Shantan to Sri Lanka on Friday (23.02.2024).
-
-Former Prime Minister Rajiv Gandhi was convicted in the murder of Supreme Court on the advice of Supreme Court in 2022. After that, Av was placed in a special camp in Trichy.
-
-Janan to Sri Lankan Tamil. He was admitted to the Trichy Government Hospital on the 24th.
-
-Later, after Santhan's request, he was brought to the Rajiv Gandhi Government General Hospital in Chennai for treatment and is being treated in the intensive care unit for treatment.. Doctors say that Shantan, who has been infected with liver failure (chirosis), has had various health problems.
-
-Doctors said that the heartbeat, blood pressure and respiratory circulation are steady, while other effects are being treated.
-
-In this backdrop, the central government has sent a letter of permission to send Shantana from Sri Lanka to the country on Friday (23.02.2024).
-
-◼️
-
-[Data](articles/820c4a68.json)
-
-[Extended Data](ext_articles/820c4a68.ext.json)
-
----
-
-### Magistrate's death on Sanath Nishantha's death
-
-*2024-02-24 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193753) · `si`
-
-Water Supply: Welisara Magistratesitha Dhammika Uddasa has not been able to declare the death of former State Minister Sanath Nishantha.
-
-The Magistrate made this statement that the post mortem report of Mr. Sanath Nishantha has not been referred to courts ever before the Judicial Medical Officer.
-
-Attorney-at-Law Dhanaraj Samarakoon appeared to be discontinued by the death accident on the Colombo-Katunayake Expressway at the Colombo-Katunayake Expressway at the Colombo-Katunayake Expressway at the Colombo-Katunayake Expressway at the Colombo-Katunayake Expressway at the Colombo-Katunayake Expressway.Requested the court to do.
-
-The Magistrate said that the post mortem report of Sanath Nishantha who died in the accident had not been published in this case, as the post mortem report had not been forwarded to court.
-
-The Magistratesitha Magistrate's Court reporter said that the accident had been observed on the 24th of January until the accident had been inspected.Is.
-
-...
-
-[Data](articles/7f66d820.json)
-
-[Extended Data](ext_articles/7f66d820.ext.json)
-
----
-
-### Foreign Ministry pursues all avenues for repatriation of Sri Lankan victims trafficked into Myanmar
-
-*2024-02-24 06:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foreign-Ministry-pursues-all-avenues-for-repatriation-of-Sri-Lankan-victims-trafficked-into-Myanmar/108-277640) · `en`
-
-Colombo, Feb 24 (Daily Mirror) - The Foreign Affairs Ministry, in coordination with the Embassy of Sri Lanka in Myanmar continues to make every effort to rescue and repatriate the Sri Lankan nationals who have become victims of human trafficking and are trapped in Myanmar, the Foreign Affairs Ministry in Colombo said.
-
-They said these Sri Lankans have been coerced into various online scams in multiple locations within the Myawaddy area of Myanmar, under the pretext of legitimate job offers in the IT field.
-
-...
-
-[Data](articles/1cbd1dc8.json)
-
-[Extended Data](ext_articles/1cbd1dc8.ext.json)
-
----
-
-### Showers or thunderstorms
-
-*2024-02-24 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193752) · `si`
-
-Thundershowers will develop at several places in the Western, Southern, Sabaragamuwa, Central, North Western and Uva provinces.
-
-Showers or thundershowers during the evening or night during the evening in the North Central Province.
-
-Some locations in the Western, Sabaragamuwa, Central and Uva provinces are expected in the Galle and Matara districts.
-
-The Meteorological Department urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/14ea17ad.json)
-
-[Extended Data](ext_articles/14ea17ad.ext.json)
 
 ---

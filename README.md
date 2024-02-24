@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 00:02:24**
+As of **2024-02-25 00:17:15**
 
 ## Newspaper Stats
 
-*Scraped **9,090** Articles*
+*Scraped **9,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 92
 bbccomsinhala | 110
 dbsjeyarajcom | 162
 newsfirstlk | 363
-economynextcom | 463
+economynextcom | 464
 islandlk | 473
 dailyftlk | 483
 adalk | 761
@@ -26,7 +26,7 @@ dailymirrorlk | 1,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,090 (100.0%) of 9,090 articles have been extended.
+9,090 (100.0%) of 9,091 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -529,6 +529,24 @@ The Chief Organizer of the Opposition Lakshman Kiriella summarized the Speaker t
 [Data](articles/36d0bff4.json)
 
 [Extended Data](ext_articles/36d0bff4.ext.json)
+
+---
+
+### Sri Lanka’s multi-aligned foreign policy based on friendship: Min
+
+*2024-02-24 17:41:00* · [`economynextcom`](https://economynext.com/sri-lankas-multi-aligned-foreign-policy-based-on-friendship-min-152048/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s multi-aligned foreign policy is based on friendship to all and enmity to none, its Minister of Foreign Affairs has said.
+
+“Non-alignment means not becoming a bystander. Non-alignment means you are not forced or coerced into a camp to take sovereign decisions… you make your own choices. Whether it is commercial, security, regional or otherwise,”  M U M Ali Sabry said on X (twitter).
+
+“I have repeatedly stressed that sovereignty is the right to have your own opinion on what’s right and wrong, and to stand by your principles. Our multi-aligned foreign policy is based on friendship to all and enmity to none,” Sabry was quoting from his speech at the Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI) Foreign Policy Forum, on the theme ‘Reassessing Non-Alignment in a Polarised World’.
+
+Sri Lanka is one of the founding members of the Non-Aligned Movement.
+
+...
+
+[Data](articles/8959d062.json)
 
 ---
 
@@ -2141,25 +2159,5 @@ He said the committee raised heavy criticism about the 70 per cent salary increa
 [Data](articles/16df41f4.json)
 
 [Extended Data](ext_articles/16df41f4.ext.json)
-
----
-
-### Central Bank asked to provide report within one week
-
-*2024-02-24 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-asked-to-provide-report-within-one-week/155-277641) · `en`
-
-Colombo, Feb 24 (Daily Mirror) - Amidst criticism over the exorbitant salary hike of the Central Bank employees, a top parliamentary committee has called for a report from the Central Bank on the legal provisions for such a salary increment without parliamentary approval.
-
-Chairman of the Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis MP Gamini Waleboda said the matter regarding the salary hike was raised during the committee meeting on Thursday when the Central Bank officials were present.
-
-He said the Central Bank is expected to submit the report on the salary increment next week and after that, the Central Bank and its Monetary Board would be summoned before the Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis.
-
-He said the committee raised heavy criticism about the 70 per cent salary increase of the Central Bank employees amidst the economic crisis, and called it an immoral act.
-
-...
-
-[Data](articles/58a1ba8f.json)
-
-[Extended Data](ext_articles/58a1ba8f.ext.json)
 
 ---

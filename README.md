@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 20:17:25**
+As of **2024-02-24 20:33:01**
 
 ## Newspaper Stats
 
-*Scraped **9,066** Articles*
+*Scraped **9,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 759
 adaderanalk | 1,090
 tamilmirrorlk | 1,113
 virakesarilk | 1,241
-adaderanasinhalalk | 1,353
+adaderanasinhalalk | 1,354
 dailymirrorlk | 1,366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,066 (100.0%) of 9,066 articles have been extended.
+9,066 (100.0%) of 9,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### වනිඳු හසරංග ට තරග තහනමක්
+
+*2024-02-24 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193779) · `si`
+
+ශ්‍රී ලංකා 20යි 20 කණ්ඩායමේ නායක වනිඳු හසරංග ට ICCයෙන් තරග තහනමක් පවනවා තිබේ.
+
+◼️
+
+[Data](articles/45d507dc.json)
+
+---
 
 ### CBSL officials summoned by parliamentary committees over salary hike?
 
@@ -2083,23 +2095,5 @@ The Embassy of Sri Lanka in Myanmar has also been consistently bringing to the n
 [Data](articles/b814b341.json)
 
 [Extended Data](ext_articles/b814b341.ext.json)
-
----
-
-### Dubai nightclub clashes: 13 Sri Lankans arrested
-
-*2024-02-23 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/177159) · `ta`
-
-Urakhaha Michael and Bows Harsha, who are alleged to have supported the murder of five in Beliatta, have been arrested by the Dubai police.
-
-Thirteen Sri Lankans, including four, have been arrested in connection with the clash that took place in a nightclub in Dubai.
-
-Koskoda Suji's close relatives are reportedly suspected of leading the five murders of the Ivar in Beliatta.
-
-◼️
-
-[Data](articles/906ffd3d.json)
-
-[Extended Data](ext_articles/906ffd3d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 21:33:05**
+As of **2024-02-24 21:51:31**
 
 ## Newspaper Stats
 
-*Scraped **9,073** Articles*
+*Scraped **9,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 110
 dbsjeyarajcom | 162
 newsfirstlk | 363
 economynextcom | 463
-islandlk | 472
+islandlk | 473
 dailyftlk | 483
 adalk | 759
-adaderanalk | 1,092
-tamilmirrorlk | 1,114
+adaderanalk | 1,093
+tamilmirrorlk | 1,115
 virakesarilk | 1,241
 adaderanasinhalalk | 1,356
 dailymirrorlk | 1,366
@@ -26,27 +26,47 @@ dailymirrorlk | 1,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,069 (100.0%) of 9,073 articles have been extended.
+9,073 (100.0%) of 9,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### திடீரென தீப்பற்றி எரிந்த வீடு
+### “நானும் ஒரு குழந்தைக்கு அப்பாவாகி விட்டேன்” சஜித்
+
+*2024-02-24 21:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானும்-ஒரு-குழந்தைக்கு-அப்பாவாகி-விட்டேன்-சஜித்/175-333734) · `ta`
+
+தானும் தற்போது ஒரு குழந்தைக்கு தந்தையாகிவிட்டதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+தனது மனைவியை வைத்தியசாலைக்கு அழைத்துச்செல்லும் ஒவ்வொரு சந்தர்ப்பத்திலும் வழங்கப்படும் மருந்துகள் குறித்து அவதானம் செலுத்தியதாகவும் தெரிவித்தார்.
+
+மேலும், பிறந்தவுடன் போடவேண்டிய ஊசி ஒன்று உள்ளது. அதை தனியார் வைத்தியசாலைகளில் மட்டுமே போடப்படுகின்றன. காரணம் இதன் விலை அதிகம்.
+
+இதுதான் இந்த நாட்டின் நிலை. இந்த நாட்டில் பிறக்கும் ஒவ்வொரு குழந்தைக்கும் தனியார் வைத்தியசாலைகள் வழங்குகின்ற அதே பராமரிப்பினை அரச வைத்தியசாலைகள் ஊடாக வழங்கும் வேலைத்திட்டத்தை முன்னெடுக்கவுள்ளதாகவும் சஜித் பிரேமதாச தெரிவித்தார். R
+
+◼️
+
+[Data](articles/423316d2.json)
+
+---
+
+### Fire
 
 *2024-02-24 20:54:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/திடீரென-தீப்பற்றி-எரிந்த-வீடு/74-333733) · `ta`
 
-சாய்ந்தமருது பொலிவேரியன் கிராமத்தில் உள்ள வீடொன்றில் இன்று காலை திடீரென தீப்பற்றி எரிந்தமையால் வீட்டில் இருந்த பொருட்கள் தீக்கிரையானதுடன் வீட்டின் கூரைகள் சேதமாகியுள்ளது.
+Suddenly burning fire in a house in the village of Sainthamaruthu, a house in the house of the house, the roofs of the house were damaged and the roofs of the house were damaged.
 
-தீப்பற்றிய நேரத்தில் வீட்டில் யாரும் இருக்கவில்லை என்பதுடன் தீப்பற்றிய வீட்டின் தீயை அணைக்க அயலவர்கள் போராடி தீயணைப்பை மேற்கொண்டதுடன் கல்முனை மாநகர ஆணையாளர் ஏ.எல்.எம். அஸ்மியின் துரித நடவடிக்கையின் பயனாக விரைந்து வந்த கல்முனை மாநகர தீயணைப்பு வாகனமும் தீயணைப்பு நடவடிக்கையில் ஈடுபட்டது.
+There was no one in the house at the time of the fire and the fire of the house was extinguished by neighbors and carried out a fire.. The Kalmunai Municipal Fire truck, which rushed to use Azmi's rapid action, also engaged in fire.
 
-தீயினால் வீட்டின் பொருட்கள் முற்றாக சேதமாகியதுடன் வீட்டின் கூரையும் அழிவடைந்துள்ளதுடன் உயிராபத்துக்கள் எதுவும் ஏற்படவிலை.
+The fire has been completely damaged by the fire and the roof of the house has been destroyed and there is no life.
 
-ஸ்தலத்திற்கு விரைந்த பாராளுமன்ற உறுப்பினரும், முன்னாள் இராஜாங்க அமைச்சருமான சட்டத்தரணி எச்.எம்.எம். ஹரீஸ் பாதிக்கப்பட்ட குடும்பத்திற்கு தேவையான உதவிகளை வழங்க விரைவாக தேவையான மேலதிக நடவடிக்கைகளை எடுக்குமாறு உரிய அதிகாரிகளை பணித்திருந்தார். R
+Attorney -at -Law HMM, a Member of Parliament and former Minister of State. Haris worked with the relevant authorities to take up further steps to provide the necessary assistance to the affected family. Remble
 
 ◼️
 
 [Data](articles/853e7116.json)
+
+[Extended Data](ext_articles/853e7116.ext.json)
 
 ---
 
@@ -136,6 +156,8 @@ The incident occurred after the end of the match, when Hasaranga confronted umpi
 
 [Data](articles/8dcce7bd.json)
 
+[Extended Data](ext_articles/8dcce7bd.ext.json)
+
 ---
 
 ### CBSL officials summoned by parliamentary committees over 70% salary hike?
@@ -153,6 +175,8 @@ Chief Opposition Whip, MP Lakshman Kiriella also recently requested Speaker of P
 ◼️
 
 [Data](articles/09ec286f.json)
+
+[Extended Data](ext_articles/09ec286f.ext.json)
 
 ---
 
@@ -873,6 +897,28 @@ Dr. Nick Frazer, a member of the International Team who studied this fossil, sai
 [Data](articles/18158270.json)
 
 [Extended Data](ext_articles/18158270.ext.json)
+
+---
+
+### Mahabage shooting: Feeling army soldier arrested over “Ukkuwa’s” murder
+
+*2024-02-24 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97498/mahabage-shooting-feeling-army-soldier-arrested-over-ukkuwas-murder) · `en`
+
+A Sri Lanka Army deserter has been arrested by the Army intelligence officers this morning (Feb.24), in connection with the shooting incident in Mahabage earlier this week.
+
+He is said to be one of the prime suspects wanted in the murder case.
+
+According to the Army, the arrestee, named Nuwan Chamara de Silva, was a Corporal attached to the 4th Battalion of the Gemunu Watch Regiment at the camp in Chenkalady, Batticaloa.
+
+He had fled the camp yesterday when the Army intelligence officers were approaching but was later taken into custody in the Ampara area following an extensive search operation.
+
+The suspect was later handed over to the Police Special Task Force (STF) officers for onward investigations.
+
+Three unidentified assailants had opened fire using a revolver, around 7:15 a.m. on Feb.21 near a meat shop in Elapitiwala Junction, Mahabage, leaving the shop owner dead. The victim had succumbed to injuries while being rushed to the Colombo North Teaching Hospital in Ragama.
+
+...
+
+[Data](articles/3dd5641a.json)
 
 ---
 
@@ -2067,45 +2113,5 @@ As part of Delivery Bonanza 4.0, select couriers across Colombo, Kandy, Kurunega
 [Data](articles/e6e05faf.json)
 
 [Extended Data](ext_articles/e6e05faf.ext.json)
-
----
-
-### Internally Divided ITAK is in the Eye of a Legal Storm
-
-*2024-02-24 01:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Internally-Divided-ITAK-is-in-the-Eye-of-a-Legal-Storm/172-277639) · `en`
-
-The Ilankai Tamil Arasu Kachchi (ITAK) known in English as the Federal Party (FP) is in the eye of a legal storm. The premier political party representing the Sri Lankan Tamils of the Northern and Eastern provinces is currently undergoing an internal crisis mainly due to recently held inner-party elections. Issues relating to the intra-party elections have brought about a clearly visible divide within the ITAK.
-
-This in turn has led to an unprecedented situation where two members of the ITAK have sought legal recourse against allegedly illegal action by party authorities. Enjoining orders were obtained. Party Leaders were restrained from conducting its postponed National Convention on 19 February.
-
-...
-
-[Data](articles/846948a0.json)
-
-[Extended Data](ext_articles/846948a0.ext.json)
-
----
-
-### Accident in Valley: Police threaten journalist
-
-*2024-02-24 00:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177161) · `ta`
-
-Two persons were injured in an accident on Friday (23) in the Vadamarachchi East.
-
-The accident was reported when a motorcycle traveling from Maruthankani and a motorcycle from Maruthankani to Vaikkavaikkuni collided head -on.
-
-Maruthankeni traffic police arrived at the scene and were conducting investigations into the accident.
-
-Vadamarachchi, who went to collect the incident, did not collect the news of the East, and stopped the police in civilian clothes, stopped his phone and destroyed the video and photos of it, and confiscated his media card and motorcycle bonds and handed over again.
-
-It is also worth noting that the police have been brought to the notice of the Maradankeni Police Officer regarding the police who threatened to prevent the journalist from working.
-
-At the same time, the police who came in civil clothes have been videotaped without a helmet.
-
-◼️
-
-[Data](articles/846ed466.json)
-
-[Extended Data](ext_articles/846ed466.ext.json)
 
 ---

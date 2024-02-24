@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 20:50:18**
+As of **2024-02-24 21:02:33**
 
 ## Newspaper Stats
 
-*Scraped **9,067** Articles*
+*Scraped **9,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ adalk | 759
 adaderanalk | 1,090
 tamilmirrorlk | 1,113
 virakesarilk | 1,241
-adaderanasinhalalk | 1,354
+adaderanasinhalalk | 1,355
 dailymirrorlk | 1,366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,067 (100.0%) of 9,067 articles have been extended.
+9,068 (100.0%) of 9,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Colombo Large scale housing racket
+
+*2024-02-24 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193780) · `si`
+
+Derana Ukasa has revealed that the housing facilities have been provided with houses in Colombo, the Housing Development Authority (Housing Development Authority).
+
+A racketeer gang has defrauded people to deceive people in two apartment complexes in the Housing Development Authority in Slavnia and Modara.
+
+Accordingly, the investigation was revealed that the racket had been caught in various levels.
+
+The apartment complexes are cut into the keys to houses and enter the houses to the people who come to buy houses.
+
+The racketeers had also worked to prepare postheads and documents of the Presidential Secretariat and Housing Development Authority.
+
+The Ukasa was also adopted to the name of Power and Hygylands to the name of the home.
+
+It was revealed that several brokers were recovered from Rs.
+
+The racketeers had even provided the documents that were built to the houses of the Metromax Housing Complex at the Metromrax Housing Complex at the UDA.
+
+...
+
+[Data](articles/0de9bbc9.json)
+
+[Extended Data](ext_articles/0de9bbc9.ext.json)
+
+---
 
 ### Fanuvu Hasaranga banned
 
@@ -2077,25 +2105,5 @@ Deputy Secretary Verma stressed the vital need to protect human rights and funda
 [Data](articles/53538a1b.json)
 
 [Extended Data](ext_articles/53538a1b.ext.json)
-
----
-
-### Pursuing all avenues for repatriation of Sri Lankans trafficked into Myanmar - Foreign Ministry
-
-*2024-02-23 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97487/pursuing-all-avenues-for-repatriation-of-sri-lankans-trafficked-into-myanmar-foreign-ministry) · `en`
-
-The Ministry of Foreign Affairs, in coordination with the Embassy of Sri Lanka in Myanmar continues to make every effort to rescue and repatriate the Sri Lankan nationals who have become victims of human trafficking and are trapped in Myanmar, the ministry said in a statement.
-
-These Sri Lankans have been coerced into various online scams in multiple locations within the Myawaddy area of Myanmar, under the pretext of legitimate job offers in the IT field.
-
-Foreign Minister M.U.M. Ali Sabry took this issue up with the Deputy Prime Minister and Minister of Foreign Affairs of Myanmar, requesting urgent intervention to rescue Sri Lankan nationals, the statement said.
-
-The Embassy of Sri Lanka in Myanmar has also been consistently bringing to the notice of the Myanmar authorities the serious situation of Sri Lankan victims enslaved in cybercriminal activities by traffickers, urging the authorities to take immediate action to rescue the victims from these distressing circumstances.
-
-...
-
-[Data](articles/b814b341.json)
-
-[Extended Data](ext_articles/b814b341.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 12:17:28**
+As of **2024-02-24 12:32:46**
 
 ## Newspaper Stats
 
-*Scraped **9,024** Articles*
+*Scraped **9,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,62 @@ adalk | 757
 adaderanalk | 1,081
 tamilmirrorlk | 1,111
 virakesarilk | 1,233
-adaderanasinhalalk | 1,340
+adaderanasinhalalk | 1,341
 dailymirrorlk | 1,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,020 (100.0%) of 9,024 articles have been extended.
+9,024 (100.0%) of 9,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### மட்டக்களப்பு உன்னிச்சை, நெடியமடு கிராமங்களுக்குள் ஊடுருவிய காட்டு யானைகளால் வீடுகள், பயிர்கள் துவசம்
+### කුරුණෑගල රෝහලේ රුධිර කාන්දුකරණ ප්‍රතිකාර ඒකකය වසා දැමෙයි
 
-*2024-02-24 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177179) · `ta`
+*2024-02-24 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193764) · `si`
 
-மட்டக்களப்பு மாவட்டத்தின் வவுணதீவு பிரதேசத்திலுள்ள  உன்னிச்சை, நெடியமடு கற்பானைக்குளம் போன்ற கிராமங்களுக்குள்  இன்று சனிக்கிழமை (24) அதிகாலை சில காட்டு யானைகள் ஊடுருவி அங்குள்ள இரண்டு வீடுகளையும் விவசாயிகளின் தென்னை மரங்களையும் அழித்து துவசம் செய்துள்ளது.
+කුරුණෑගල ශික්ෂණ රෝහලේ වකුගඩු රෝගින් සඳහා ක්‍රියාත්මක රුධිර කාන්දුකරණ ප්‍රතිකාර ඒකකය තාවකාලික ව වසා දැමීමට පියවර ගෙන තිබේ.
 
-யானை பாதுகாப்பு மின்சார வேலிகள் இருந்தும், அவ் வேலிகளைத் தாண்டி மாலை  கிராமங்களுக்குள் ஊடுருவி தமது பயிர்களையும் வீடுகளையும் தாக்கி சேதப்படுத்தி வருவதாகவும், இம்மாதம் 12ம், 16ம் திகதிகளில் வயோதிபப்பெண் ஒருவரையும் விவசாயி ஒருவரையும் நெடியமடு, களிக்குளம் கிராமத்தில் வீதியால் சென்றே போது யானை தாக்கி தெய்வாதீனமாக சிறு காயங்களுடன் உயிர் தப்பியுள்ளனர் என இப் பிரதேச மக்கள் தெரிவித்தனர்.
+ගත වූ දින කිහිපය තුළ එම ඒකකයෙන් ප්‍රතිකාර ලැබූ වකුගඩු රෝගින් කිහිප දෙනෙකු මිය යාම සැලකිල්ලට ගනිමින් ඊයේ (23) දිනයේ සිට ක්‍රියාත්මක වන පරිදි අදාළ ඒකකය වසා දැමීමට පියවර ගෙන ඇති බව වාර්තා වේ.
 
-இந்த காட்டு யானை அனர்த்தங்களில் இருந்து எங்கள் பகுதி மக்களை பாதுகாப்பதற்கு இன்று வரை அரசாங்கம், ஒரு சரியான நடவடிக்கை எடுக்கவில்லை.
+මාසයක පමණ කාලය තුළ එම ඒකකයෙන් රුධිර කාන්දුකරණයට ලක්කළ වකුගඩු රෝගීන් 05 දෙනෙකු මෙලෙස මිය ගොස් ඇති බව වාර්තා විය.
 
-இங்குள்ள காந்திநகர், உன்னிச்சை போன்ற சில கிராமங்களில் உள்ள சிறு காடுகளுக்குள் இரவு பகலாக யானைகள் நிற்கின்றது.
+විෂබීජ ආසාධනයක් හෝ රුධිර කාන්දුකරණය සඳහා භාවිත කරන රසායනික ද්‍රව්‍ය හෝ උපකරණවල ගැටලුවක් මෙම තත්ත්වයට හේතු වී ඇති ද යන්න සම්බන්ධයෙන් රෝහල් මට්ටමින් පරීක්ෂණයක් සිදු කර තිබුණ ද එහි දී නිශ්චිත හේතුවක් අනාවරණය කරගැනීමට නොහැකි වී ඇති බව රෝහල් ප්‍රකාශකයකු පැවසුවේය.
 
-இரவிலும் பகலிலும் நாங்கள் குழந்தைகளையும் வைத்துக் கொண்டு விழித்த கண்ணுடன் வாழ வேண்டிய சூழலில் இருக்கின்றோம்.
+ඒ අනුව සෞඛ්‍ය අමාත්‍යාංශය මට්ටමින් ද සිද්ධිය සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+
+මේ වන විට ඊට අදාළ කණ්ඩායමක් කුරුණෑගල ශික්ෂණ රෝහල වෙත යොමු කර ඇති බව අද දෙරණ කළ විමසීමක දී සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල් වෛද්‍ය අසේල ගුණවර්ධන මහතා පැවසුවේය.
 
 ...
 
+[Data](articles/775fbfd0.json)
+
+---
+
+### Wild elephants that infiltrated the villages of Batticaloa and Nediyamadu
+
+*2024-02-24 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177179) · `ta`
+
+Some wild elephants have infiltrated the two houses and the coconut trees of the farmers in the early hours of Saturday morning (24) in villages like Unnichi and Nediyamadu Karunanikulam in the Vavuniya area of the Batticaloa district.
+
+Elephant safety electric fences, infiltrating the villages in the evening and attacking their crops and houses and damaging their crops and houses.
+
+To this day the government has not taken a proper action to protect the people of our area from these wild elephant disasters.
+
+Elephants stand in the small forests in some villages like Gandhinagar and Unnichi.
+
+We are in a situation where we have to live with the children in the night and day.
+
+Taking note of this, the people have appealed to government officials to evict elephants and elephants outside the fence and chase them into the forests.
+
+◼️
+
 [Data](articles/92dbc268.json)
+
+[Extended Data](ext_articles/92dbc268.ext.json)
 
 ---
 
@@ -70,6 +96,8 @@ In October last year, the electricity tariffs were raised by 18% for domestic an
 
 [Data](articles/dd98e29a.json)
 
+[Extended Data](ext_articles/dd98e29a.ext.json)
+
 ---
 
 ### Sanath Nishantha’s death: Court says yet to receive postmortem report
@@ -87,6 +115,8 @@ The magistrate, directing the Kandana police officers to inform the JMO to submi
 ...
 
 [Data](articles/b22faea6.json)
+
+[Extended Data](ext_articles/b22faea6.ext.json)
 
 ---
 
@@ -110,15 +140,17 @@ The Minister of Power and Energy Kanchana Wijesekera recently stated that this h
 
 ---
 
-### 45ஆவது நவம் மஹா பெரஹராவை ஜனாதிபதி ஆரம்பித்து வைத்தார்
+### The President inaugurated the 45th Navam Maha Perahara
 
 *2024-02-24 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/177177) · `ta`
 
-கொழும்பு ஹுனுப்பிட்டிய கங்காராம விகாரையின் 45ஆவது நவம் மஹா பெரஹராவை நேற்று வெள்ளிக்கிழமை (23) ஜனாதிபதி ரணில் விக்ரமசிங்க யானையின் மீது புனித கரடுவ்வை வைத்து ஆரம்பித்து வைத்தார்.
+President Ranil Wickremesinghe inaugurated the 45th Navam Maha Perahara of the Gangarama Viharaya of Hunupitiya, Colombo on Friday (23).
 
 ◼️
 
 [Data](articles/fbf14f84.json)
+
+[Extended Data](ext_articles/fbf14f84.ext.json)
 
 ---
 
@@ -2085,25 +2117,5 @@ She was rushed to a nearby hospital, where doctors declared her dead on arrival.
 [Data](articles/a7fa9372.json)
 
 [Extended Data](ext_articles/a7fa9372.ext.json)
-
----
-
-### Jewelry theft at the election festival in Jaffna;Two arrests
-
-*2024-02-23 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177142) · `ta`
-
-Two women arrested for jewelery theft at the Jaffna - Kannaditi Kali Ambal Temple election festival.
-
-A large number of devotees gathered at the temple when the Kannaditi Kali Ambal Temple Election Festival was held on Friday morning.
-
-Two women from Kochikkadai, Colombo, who took advantage of this, were arrested.
-
-After the investigation, the police have taken steps to appear at the Jaffna Magistrate's Court.
-
-◼️
-
-[Data](articles/29b9692b.json)
-
-[Extended Data](ext_articles/29b9692b.ext.json)
 
 ---

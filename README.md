@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 15:17:17**
+As of **2024-02-24 15:32:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,362
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,039 (100.0%) of 9,040 articles have been extended.
+9,040 (100.0%) of 9,040 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ He was wanted over the shooting incident on Thursday in which 'Ukkua,' an associ
 ◼️
 
 [Data](articles/58dbeb1b.json)
+
+[Extended Data](ext_articles/58dbeb1b.ext.json)
 
 ---
 

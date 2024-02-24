@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 23:52:11**
+As of **2024-02-25 00:02:24**
 
 ## Newspaper Stats
 
-*Scraped **9,089** Articles*
+*Scraped **9,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 463
 islandlk | 473
 dailyftlk | 483
 adalk | 761
-adaderanalk | 1,095
+adaderanalk | 1,096
 tamilmirrorlk | 1,115
 virakesarilk | 1,241
 adaderanasinhalalk | 1,360
@@ -26,11 +26,35 @@ dailymirrorlk | 1,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,089 (100.0%) of 9,089 articles have been extended.
+9,090 (100.0%) of 9,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### “Ukkuwa’s” killing: Another suspect arrested over Mahabage shooting
+
+*2024-02-24 23:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97508/ukkuwas-killing-another-suspect-arrested-over-mahabage-shooting) · `en`
+
+Another suspect has been arrested in connection with the deadly shooting incident in Mahabage earlier this week.
+
+As per reports, this suspect had deserted the Army in 2009 while following the basic training program and had later officially left the service.
+
+The suspect was taken into custody this afternoon (Feb. 24) in Narawelpiya South, Hakmana.
+
+Identified as Sadees Kumara, he is charged with aiding and abetting the shooting which took place on Feb. 21 near a meat shop in Elapitiwala Junction, Mahabage and killed the shop owner.
+
+Three unidentified assailants had opened fire using a revolver, around 7:15 a.m. on Feb. 21. The victim had succumbed to injuries while being rushed to the Colombo North Teaching Hospital in Ragama.
+
+The deceased, named Hettiarachchige Don Sujith alias “Ukkuwa”, was the brother-in-law of the criminal gang leader “Welle Saranga” and a resident of North Batagama in Ja-Ela.
+
+...
+
+[Data](articles/f91b3285.json)
+
+[Extended Data](ext_articles/f91b3285.ext.json)
+
+---
 
 ### Mondu has banned for two matches
 
@@ -2137,23 +2161,5 @@ He said the committee raised heavy criticism about the 70 per cent salary increa
 [Data](articles/58a1ba8f.json)
 
 [Extended Data](ext_articles/58a1ba8f.ext.json)
-
----
-
-### Sajith says about the betterment of the woman
-
-*2024-02-24 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193755) · `si`
-
-Opposition Leader Sajith Premadasa says that the woman should be empowered outside the concept of housemaid.
-
-He says that in Sri Lanka should empower information technology.
-
-He also emphasized that women should be prepared as software engineers, healthier as health facilities and nurses.
-
-◼️
-
-[Data](articles/76757bc9.json)
-
-[Extended Data](ext_articles/76757bc9.ext.json)
 
 ---

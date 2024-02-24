@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 10:33:04**
+As of **2024-02-24 10:50:54**
 
 ## Newspaper Stats
 
-*Scraped **9,002** Articles*
+*Scraped **9,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ islandlk | 472
 dailyftlk | 483
 adalk | 754
 adaderanalk | 1,077
-tamilmirrorlk | 1,109
+tamilmirrorlk | 1,110
 virakesarilk | 1,228
-adaderanasinhalalk | 1,337
-dailymirrorlk | 1,355
+adaderanasinhalalk | 1,338
+dailymirrorlk | 1,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,000 (100.0%) of 9,002 articles have been extended.
+9,006 (100.0%) of 9,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Two arrested for the shooting incident
+
+*2024-02-24 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193761) · `si`
+
+Two more youths have been arrested on suspicion of aiding attempting to shoot and kill a person in the Modara area.
+
+Three other youths have been arrested in connection with the incident.
+
+Investigations into the incident, two 19-year-old and 28-year-old persons were arrested in Modara and Grandpass areas yesterday (23).
+
+Residents of Colombo 15 and 14 were residents of Colombo 15 and 14.
+
+◼️
+
+[Data](articles/2290fba7.json)
+
+[Extended Data](ext_articles/2290fba7.ext.json)
+
+---
+
+### Infant recovery: four arrested including mother
+
+*2024-02-24 09:56:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிசு-மீட்பு-தாய்-உட்பட-நால்வர்-கைது/76-333730) · `ta`
+
+The body of an infant, who was buried in the back of a house in the Vattawala Garden of the Hatton -Wattawala police division, has been excavated on the 22nd of the house, the Vattawala police said.
+
+According to the confidential information available to the Vattawala police, the Vattawala police rushed to the spot and recovered the body of the infant buried in a cloth.
+
+At the same time, the police have arrested the mother of Colombo and the husband of the woman, the husband, a daughter, and the neighbor who helped the cavity in connection with the incident.
+
+The mother (37), a 37 -year -old woman from Diyagama, who was in hiding in the incident, was found.
+
+Is the baby who was found dead in the incident?Police are investigating a different angle whether the infant was killed and buried in the back of the house.
+
+At the same time, the body of the fetus has been sent to the body of the fetus and the body parts of the fetus have been sent for examination.
+
+◼️
+
+[Data](articles/ca8ecbfb.json)
+
+[Extended Data](ext_articles/ca8ecbfb.ext.json)
+
+---
 
 ### Sri Lankan, Indian coast guard ships in Malé for 16th ‘Dosti’ trilateral exercise
 
@@ -47,6 +91,26 @@ The Maldives National Defence Force (MNDF) late Thursday evening extended a warm
 ...
 
 [Data](articles/8bf679a5.json)
+
+[Extended Data](ext_articles/8bf679a5.ext.json)
+
+---
+
+### Rajiv Gandhi assassination case convict gets document to return to Sri Lanka
+
+*2024-02-24 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rajiv-Gandhi-assassination-case-convict-gets-document-to-return-to-Sri-Lanka/108-277649) · `en`
+
+TIRUCHY, Feb 24 (The Indian Express) -  The Foreigners Regional Registration Officer (FRRO) of the Union Ministry of External Affairs has issued an emergency travel document for Santhan, one of the freed convicts in the Rajiv Gandhi assassination case, facilitating his immediate deportation to Sri Lanka. Santhan, who is currently lodged in the special camp at the Tiruchy central prison, will be escorted by officials to the international airport in Tiruchy.
+
+Acting on a request from Santhan, the Sri Lankan Deputy High Commission earlier issued a temporary travel document to him and now the FRRO has given an exit permit.
+
+“Once Santhan books the ticket, he will be deported. Instructions have been given to the district administration to escort him until the airport,” Collector M Pradeep Kumar told TNIE.
+
+◼️
+
+[Data](articles/ca3c10be.json)
+
+[Extended Data](ext_articles/ca3c10be.ext.json)
 
 ---
 
@@ -65,6 +129,8 @@ Sri Lanka has since made progress on about $11 billion of bilateral debt restruc
 ...
 
 [Data](articles/abd78319.json)
+
+[Extended Data](ext_articles/abd78319.ext.json)
 
 ---
 
@@ -181,6 +247,28 @@ Acting on a request from Santhan, the Sri Lankan Deputy High Commission had earl
 [Data](articles/055cdc34.json)
 
 [Extended Data](ext_articles/055cdc34.ext.json)
+
+---
+
+### Over 1Mn power disconnections last year: Parliamentary Committee reveals
+
+*2024-02-24 08:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-1Mn-power-disconnections-last-year-Parliamentary-Committee-reveals/108-277646) · `en`
+
+Colombo, Feb. 24 (Daily Mirror)- More than one million power disconnections have been  imposed within the past year throughout the country, a parliamentary  committee has revealed.
+
+It was revealed when the Sectoral Oversight Committee on  Alleviating the Impact of the Economic Crisis chaired by MP Gamini  Waleboda met in the parliament complex on Thursday.
+
+Chairman Waleboda said it was revealed that some 10,69,000 power disconnections were reported last year.
+
+He said the Committee instructed the respective officials  to provide some relief to the consumers whose connections were  disconnected, which included cutting down the re-connection fee by 50 per cent and to allow the outstanding bill to be paid in instalments.
+
+He said instructions were also given to formulate a  mechanism to provide new connections on credit basis and pay the full  connection fee in instalments with the electricity bill.
+
+...
+
+[Data](articles/aa5f7a4e.json)
+
+[Extended Data](ext_articles/aa5f7a4e.ext.json)
 
 ---
 
@@ -2017,89 +2105,5 @@ Therefore, the name 'spa' has to be changed and they should not be allowed to us
 [Data](articles/a0549627.json)
 
 [Extended Data](ext_articles/a0549627.ext.json)
-
----
-
-### Name ’spa’ has to be changed; spa is something very professional: Diana
-
-*2024-02-23 14:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Name-spa-has-to-be-changed-spa-is-something-very-professional-Diana/155-277610) · `en`
-
-Colombo, Feb 23 (Daily Mirror) - The name 'spa' has to be changed and people should not be allowed to merely use the name spa, Tourism State Minister Diana Gamage said.
-
-Addressing the media, she said the use of the name 'spa' is not appropriate as it implies a high level of professionalism and denotes a wellness center. Therefore, it is imperative to cease using that name.
-
-"The utilization of the name'spa' disrespects the professionalism of individuals working in such establishments. It is important to refrain from using this name to uphold the dignity and respect associated with the spa industry," she said.
-
-"If a lady has to work as a masseur in a spa or in a hotel, and if she goes and says to someone that she is working in a spa, people look at her as if at a prostitute. Because the name spa is being used like that," the State Minister said.
-
-Therefore, the name 'spa' has to be changed and they should not be allowed to use the name spa, she said.
-
-...
-
-[Data](articles/f33c6fd7.json)
-
-[Extended Data](ext_articles/f33c6fd7.ext.json)
-
----
-
-### Neighbors' beat to death
-
-*2024-02-23 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193737) · `si`
-
-A cat in the neighboring house, a cat that had caused a house from the neighboring house, had clashed at the Athurugiriya last night (22).
-
-Residents say a group of swords carried out by a lorry.
-
-A blown in Bakmigaha road around 8 pm last night, there was a heated argument in the Bakmigaha Road area last night and was in progress.
-
-The home woman said that the host of the neighboring house was taken to his home, and that the cat had gone to their lorry.
-
-They were bugging about the death of their pet cat, and then the assault had then assaulted the attack.
-
-Further investigations have been launched on complaints made by the Athurugiriya Police regarding the incident.
-
-◼️
-
-[Data](articles/fc80b88a.json)
-
-[Extended Data](ext_articles/fc80b88a.ext.json)
-
----
-
-### Legal action to be taken against unauthorized granting of national awards
-
-*2024-02-23 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legal-action-to-be-taken-against-unauthorized-granting-of-national-awards/108-277611) · `en`
-
-Colombo, Feb. 23 (Daily Mirror)- President's Secretary Saman Ekanayake has directed officials to take legal action against the unauthorized granting of national awards and honorary titles.
-
-He said cases where individuals and organizations wrongly present awards similar to those bestowed by the President to deserving Sri Lankans, have been observed.
-
-Ekanayake underscored the urgency of halting this misuse to prevent grave injustice and disrespect to genuinely honoured individuals.
-
-◼️
-
-[Data](articles/e7567a80.json)
-
-[Extended Data](ext_articles/e7567a80.ext.json)
-
----
-
-### Another Sri Lankan brings another Sri Lankan to human racket
-
-*2024-02-23 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193736) · `si`
-
-In the past few months, we reported over the past few months that more than 25 Sri Lankans have gone to Thailand on tourist visa.
-
-It was revealed that they were forcibly held in a terrorist camp in Myanmar.
-
-In such a backdrop, another Sri Lankan has been taken to the Cyber slavery camp, and the Sri Lankan has been videoing the LTTE terrorists in Myanmar.
-
-He is also due to be taken to the camp in the future, as he has revealed.
-
-◼️
-
-[Data](articles/72dff205.json)
-
-[Extended Data](ext_articles/72dff205.ext.json)
 
 ---

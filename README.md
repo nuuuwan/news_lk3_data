@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 08:02:31**
+As of **2024-02-24 08:17:47**
 
 ## Newspaper Stats
 
-*Scraped **8,977** Articles*
+*Scraped **8,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 462
 islandlk | 464
 dailyftlk | 483
 adalk | 754
-adaderanalk | 1,073
+adaderanalk | 1,074
 tamilmirrorlk | 1,108
 virakesarilk | 1,227
 adaderanasinhalalk | 1,333
@@ -26,43 +26,69 @@ dailymirrorlk | 1,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,974 (100.0%) of 8,977 articles have been extended.
+8,977 (100.0%) of 8,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### විදුලි ගාස්තුව ගැන පාඨලීගේ අදහස
+### Showers or thundershowers likely in some areas today
+
+*2024-02-24 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97489/showers-or-thundershowers-likely-in-some-areas-today) · `en`
+
+Showers or thundershowers are possible in parts of Western, Southern, Sabaragamuwa, Central, North-western and Uva provinces in the evening or at night today (Feb.24), the Department of Meteorology says.
+
+Showers or thundershowers may occur at a few places in North-central province in the evening or night.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers or thundershowers may occur at a few places in the sea areas extending from Puttalam to Hambantota via Colombo and Galle in the evening or night.
+
+Wind will be variable and wind speed will be 15-25 kmph in the sea areas around the island.
+
+...
+
+[Data](articles/3c05c5e9.json)
+
+---
+
+### Patali's idea of electricity charge
 
 *2024-02-24 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193756) · `si`
 
-විදුලි ගාස්තු සියයට 20කින් අඩු කිරීමට විදුලි බල මණ්ඩලයට හැකියාව පවතින බව පාඨලී චම්පික රණවක මන්ත්‍රීවරයා පවසයි.
+Patali Champika Ranawaka says the CEB has been able to reduce electricity tariffs by 20 percent.
 
-ඔහු සඳහන් කළේ, එම මණ්ඩලය අසත්‍ය සංඛ්‍යා ලේඛන ඉදිරිපත් කරමින් විදුලි ගාස්තු වැඩිකර ඇති බවයි.
+He said that the board had increased electrical tariffs and electricity tariffs.
 
-ජනතාවට සහන මිලට විදුලිය ලබා දීමට විදුලි බල මණ්ඩලයට කිසිදු අවශ්‍යතාවක් නොමැති බව ජාතික ජන බලවේගයේ වසන්ත සමරසිංහ මහතා සඳහන් කර තිබේ.
+Wasantha Samarasinghe, the National Power Department (CEB) has no need to provide electricity to relief prices.
 
-මේ අතර, ජනතාවගෙන් අනීතික ලෙස මුදල් අයකරමින් විදුලි බල මණ්ඩලය රුපියල් බිලියන 60කට වඩා ලාභයක් උපයා ඇති බව විදුලිය පාවිච්චි කරන්නන්ගේ සංගමයේ සංජීව ධම්මික මහතා සඳහන් කර ඇත.
+Meanwhile, the Ceylon Electricity Association (CEB) Association has stated that the CEB has earned more than Rs. 60 billion.
 
 ◼️
 
 [Data](articles/200f9969.json)
 
+[Extended Data](ext_articles/200f9969.ext.json)
+
 ---
 
-### කාන්තාවගේ අභිවෘද්ධිය ගැන සජිත් කියයි
+### Sajith says about the betterment of the woman
 
 *2024-02-24 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193755) · `si`
 
-ගෘහ සේවිකා සංකල්පයෙන් බැහැර ව කාන්තාව නව කුසලතාවලින් සවිබල ගැන්විය යුතු බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Opposition Leader Sajith Premadasa says that the woman should be empowered outside the concept of housemaid.
 
-ඔහු පවසන්නේ, මෙරට කාන්තාවන් තොරතුරු තාක්ෂණයෙන් සවිබල ගැන්විය යුතු බවයි.
+He says that in Sri Lanka should empower information technology.
 
-ඒ හරහා කාන්තාවන් මෘදුකාංග ඉංජිනේරුවන් ලෙස, සෞඛ්‍ය පහසුකම් සපයන්නන් ලෙස සහ හෙදියන් ලෙස විදේශ රටවලට යැවීමේ වැඩපිළිවෙළක් සකස් කළ යුතු බව ද ඔහු අවධාරණය කර ඇත.
+He also emphasized that women should be prepared as software engineers, healthier as health facilities and nurses.
 
 ◼️
 
 [Data](articles/76757bc9.json)
+
+[Extended Data](ext_articles/76757bc9.ext.json)
 
 ---
 
@@ -80,21 +106,23 @@ As the newly acquaintance of the land of the Arulmigu Annamar Temple, which has 
 
 ---
 
-### වී ගොවීන්ගෙන් මැසිවිල්ලක්
+### A complaint from the paddy farmers
 
 *2024-02-24 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193754) · `si`
 
-වෙළෙඳපොළේ සහල් මිල ඉහළ ගොස් තිබුණ ද මහා පරිමාණ වී මෝල් හිමියන් ඉතා අවම මුදලකට වී මිල දී ගන්නා බව ගොවීහු පවසති.
+The farmers say that the rice price of rice has gone up, but the large-scale and mill owners buy paddy.
 
-මේ හේතුවෙන් වී අස්වනු අලෙවි කිරීමේ දී තමන් දැඩි දුෂ්කරතාවට පත් ව සිටින බව ඔවුහු සඳහන් කරති.
+As a result, they are suffering at difficulty in selling paddy.
 
-මේ අතර, අස්වනු අලෙවි කිරීමේ දී ගොවියාට විශාල අසාධාරණයක් සිදු වන බව සමස්ත ලංකා ගොවිජන සම්මේලනයේ නාමල් කරුණාරත්න මහතා පවසයි.
+Meanwhile, at All Ceylon Agrarian Federation, the farmer will be unfair to the farmer in harvesting.
 
-එසේම වී මිල ඉහළ දැමීමට නම් සහල් මිල තවදුරටත් ඉහළ දැමිය යුතු බව  'රත්න' සහල් අධිපති මිත්‍රපාල ලංකේෂ්වර මහතා සඳහන් කර තිබේ.
+The rice price should be further increased to increase the price of paddy.
 
 ◼️
 
 [Data](articles/7f076f90.json)
+
+[Extended Data](ext_articles/7f076f90.ext.json)
 
 ---
 
@@ -816,9 +844,9 @@ A Sri Lankan expatriate employed as a food delivery driver in Kuwait has reporte
 
 The 44-year-old, hailing from Rajanganaya, says he has been living in Kuwait for about 8 years now.
 
-Giving his account of the incident, Lakshman Thilakaratne, said the incident happened on January 10. According to him, the initial location details given by the customer were wrong, and as a result he had to drive to a different location to complete the delivery.
+Giving his account of the incident, Lakshman Thilakaratne, said it happened on January 10. According to him, the initial location details given by the customer were wrong, and as a result, he had to drive to a different location to complete the delivery.
 
-However, as the order was delayed, the customer in question has opened fire when Thilakaratne arrived at his doorstep. He reportedly sustained serious injuries to his abdomen.
+However, the customer in question, agitated by the delay, had opened fire when Thilakaratne arrived at his doorstep. He reportedly sustained serious injuries to his abdomen.
 
 After being shot, he said he drove his car back with blood gushing out from the wounds and contacted an Indian acquaintance who rushed him to the hospital.
 
@@ -980,7 +1008,7 @@ The international team from National Museums Scotland revealed their discovery -
 
 The human trafficking racket in Myanmar goes on unabated as more Sri Lankans continue to be brought in for cyber slavery, according to a harrowing statement given by a youth who had fallen victim to the Burmese terror group.
 
-The young man revealed that another Sri Lankan national was recently moved to the cyber slavery camp where he is being forcibly held, and as many as 15 other Sri Lankans including two females were also slated be brought there.
+The young man revealed that another Sri Lankan national was recently moved to the cyber slavery camp where he is being forcibly held, and as many as 15 other Sri Lankans including two females were also slated to be brought there.
 
 He said the Sri Lankan embassy in Myanmar, the foreign ministry, the immigration authorities, the president and all respective authorities have been informed about their situation, urging them to take necessary action without delay.
 
@@ -2109,23 +2137,5 @@ This initiative ensures that Sri Lankan High-Performance athletes to receive all
 [Data](articles/9c59924a.json)
 
 [Extended Data](ext_articles/9c59924a.ext.json)
-
----
-
-### Action to import 1,000 vans and cars!
-
-*2024-02-23 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177108) · `ta`
-
-The Cabinet has presented the proposals to import vehicles to promote the tourism sector.
-
-Accordingly, he said that steps are being taken to import about a thousand vans and cars.
-
-Tourism Minister Harin Fernando added that the next Cabinet meeting expects permission to get permission at the next Cabinet meeting.
-
-◼️
-
-[Data](articles/b246ae7e.json)
-
-[Extended Data](ext_articles/b246ae7e.ext.json)
 
 ---

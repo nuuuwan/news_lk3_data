@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 19:32:43**
+As of **2024-02-24 19:49:22**
 
 ## Newspaper Stats
 
-*Scraped **9,063** Articles*
+*Scraped **9,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ dailyftlk | 483
 adalk | 759
 adaderanalk | 1,089
 tamilmirrorlk | 1,113
-virakesarilk | 1,240
+virakesarilk | 1,241
 adaderanasinhalalk | 1,353
-dailymirrorlk | 1,365
+dailymirrorlk | 1,366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,061 (100.0%) of 9,063 articles have been extended.
+9,065 (100.0%) of 9,065 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The decision to detonate the bomb at sea was taken “after considering all opti
 ...
 
 [Data](articles/6fccb344.json)
+
+[Extended Data](ext_articles/6fccb344.ext.json)
 
 ---
 
@@ -70,6 +72,8 @@ The duo was later arrested when the vessel eventually arrived in China, after co
 
 [Data](articles/e25c92bc.json)
 
+[Extended Data](ext_articles/e25c92bc.ext.json)
+
 ---
 
 ### 33 wild wildarians killed since 2024
@@ -87,6 +91,38 @@ The Environmental Organizations calls for the government to implement the law to
 [Data](articles/bc1627e6.json)
 
 [Extended Data](ext_articles/bc1627e6.ext.json)
+
+---
+
+### The justification of Indian fishermen cannot be accepted;Arrests are held in accordance with the law of the country - the Navy Commander
+
+*2024-02-24 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177207) · `ta`
+
+The justification of Indian fishermen cannot be accepted that we boycotted the Kachchativu festival due to fisherman's arrest. We act in accordance with the law of the country. Navy Commander Vice Admiral Priyantha Perera said I expect a smooth solution to be reached before next year's festival.
+
+The Annual Festival of St. Anthony's Purchase in Kachchativu commenced on Friday (23) and ended on Saturday (24). Speaking to the media after attending the festival as a special guest, the Navy Commander said the above.
+
+St. Anthony's Festival of Kachchativu is a great example of national reconciliation in Sri Lanka. I am happy that all the people of the country attended the festival on the basis of Sri Lankans without any differences in race, religion and language.
+
+I thank all parties who presented the historic annual festival of St. Anthony's Corporation of Kachchativu. The festival is identified as the bridge of the relationship of India and Sri Lanka.
+
+...
+
+[Data](articles/ac1206e9.json)
+
+[Extended Data](ext_articles/ac1206e9.ext.json)
+
+---
+
+### Sugeeshwara pulls big crowd for debut rally...
+
+*2024-02-24 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sugeeshwara-pulls-big-crowd-for-debut-rally/110-277656) · `en`
+
+◼️
+
+[Data](articles/d078855c.json)
+
+[Extended Data](ext_articles/d078855c.ext.json)
 
 ---
 
@@ -2067,49 +2103,5 @@ However, the shooter has already fled the country.
 [Data](articles/cad1984a.json)
 
 [Extended Data](ext_articles/cad1984a.ext.json)
-
----
-
-### Women's Premier League Beginning Today in Bangalore
-
-*2024-02-23 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177158) · `ta`
-
-The second chapter of the Women's Premier League (WPL 2024), the most eagerly anticipated by cricket fans around the world, begins on Friday (23).
-
-Telhi Capitles and current champions Mumbai Indians clash in the opening match.
-
-Many of the players in women's cricket are playing in the women's Premier League cricket tournament in women's cricket.
-
-Prior to today's competition, a massive opening ceremony was held in Bangalore with the participation of cinema stars.
-
-This time, Telhi Capitols, Gujarat Titans, Mumbai Indians, Royal Challengers Bangalore and UP Warriors have played two rounds.
-
-The leaders of the teams have been appointed as Meg Lenting, Beth Mooney, Hamanpreet Gor, Smriti Mantana and Alyssa Heeli respectively.
-
-◼️
-
-[Data](articles/1004ce8b.json)
-
-[Extended Data](ext_articles/1004ce8b.ext.json)
-
----
-
-### US to further strengthen defense cooperation with Sri Lanka, donate fourth patrol vessel
-
-*2024-02-23 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97486/us-to-further-strengthen-defense-cooperation-with-sri-lanka-donate-fourth-patrol-vessel) · `en`
-
-The United States remains committed to the economic growth and prosperity of Sri Lanka, Deputy Secretary of State for Management and Resources Richard Verma told government, civil society and economic leaders during his visit to Sri Lanka.
-
-Verma met with President Ranil Wickremesinghe and Foreign Minister Ali Sabry to discuss progress on Sri Lanka’s IMF program, including inclusive economic and governance reforms aimed at keeping Sri Lanka on the path to sustainable economic growth, the US Embassy in Colombo said.
-
-Deputy Secretary Verma stressed the vital need to protect human rights and fundamental freedoms, including freedom of expression, the statement said.
-
-They also explored opportunities to deepen defense and maritime cooperation between the United States and Sri Lanka, including strengthening the Sri Lanka Navy’s capabilities to safeguard national security and promote a more stable Indo-Pacific region.
-
-...
-
-[Data](articles/9c94f5fe.json)
-
-[Extended Data](ext_articles/9c94f5fe.ext.json)
 
 ---

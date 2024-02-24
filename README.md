@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 10:50:54**
+As of **2024-02-24 11:02:29**
 
 ## Newspaper Stats
 
-*Scraped **9,006** Articles*
+*Scraped **9,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 462
 islandlk | 472
 dailyftlk | 483
 adalk | 754
-adaderanalk | 1,077
-tamilmirrorlk | 1,110
+adaderanalk | 1,078
+tamilmirrorlk | 1,111
 virakesarilk | 1,228
 adaderanasinhalalk | 1,338
 dailymirrorlk | 1,357
@@ -26,11 +26,55 @@ dailymirrorlk | 1,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,006 (100.0%) of 9,006 articles have been extended.
+9,008 (100.0%) of 9,008 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Mother -in -law beaten;Nephew escape
+
+*2024-02-24 10:33:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மாமியார்-அடித்து-கொலை-மருமகன்-தப்பியொட்டம்/73-333731) · `ta`
+
+Valaichenai police said that the incident took place at 9 pm on Friday (23) at 9 pm.
+
+The deceased is 45 -year -old Vairamuthu Gomatani from Wadieri Koolaiyadichenai.
+
+The daughter of the deceased and her husband is living with her mother and her mother who has gone abroad for employment opportunities.
+
+The 30 -year -old son -in -law has fled the scene after he died after he died after he died after he died with a massive object when he was in a state of loneliness at the mother -in -law.
+
+Following this, the police informed the police that the police went to the scene and obtained court permission and are taking steps to hand over the body to the hospital for autopsy.
+
+◼️
+
+[Data](articles/a045887d.json)
+
+[Extended Data](ext_articles/a045887d.ext.json)
+
+---
+
+### Death toll in Spanish building fire rises as questions grow about speed of blaze
+
+*2024-02-24 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97493/death-toll-in-spanish-building-fire-rises-as-questions-grow-about-speed-of-blaze) · `en`
+
+The death toll in a fire that engulfed an apartment block in the Spanish city of Valencia rose Friday to nine as questions were raised about whether construction materials caused the fire to spread so rapidly.
+
+One person remained missing, according to forensic police, who after identification procedures downgraded the death toll from an official’s account of 10 provided earlier following a visual count of remains.
+
+The fire started Thursday evening and quickly engulfed the two residential buildings. Neighbors described seeing the rapid spread of the blaze, residents stuck on balconies and hearing children screaming.
+
+“I have no words to describe the suffering of those poor people,” said Sara Plaza.
+
+Police found 9 bodies in the gutted residential buildings. Valencia’s national government delegate confirmed that the bodies matched the list of people that authorities had been trying to locate and that one person remained missing.
+
+...
+
+[Data](articles/428148e7.json)
+
+[Extended Data](ext_articles/428148e7.ext.json)
+
+---
 
 ### Two arrested for the shooting incident
 
@@ -2063,47 +2107,5 @@ At the same time, the Nuwara Eliya Naspy garden is a garden of natural beauty.
 [Data](articles/65e41e3c.json)
 
 [Extended Data](ext_articles/65e41e3c.ext.json)
-
----
-
-### A horrible fire in a flat complex in Spain
-
-*2024-02-23 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193738) · `si`
-
-A horrific fire has erupted at a flat complex in Valencia, Spain.
-
-About 450 people live in the shop complex living in the country.
-
-Valencia authorities say that four have died due to the fire and 14 were injured.
-
-They also said that information about others has not yet been confirmed.
-
-◼️
-
-[Data](articles/3088a68e.json)
-
-[Extended Data](ext_articles/3088a68e.ext.json)
-
----
-
-### Name ’spa’ has to be changed; spa is something very professional: Diana
-
-*2024-02-23 14:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Name-spa-has-to-be-changed-spa-is-something-very-professional-Diana/108-277610) · `en`
-
-Colombo, Feb 23 (Daily Mirror) - The name 'spa' has to be changed and people should not be allowed to merely use the name spa, Tourism State Minister Diana Gamage said.
-
-Addressing the media, she said the use of the name 'spa' is not appropriate as it implies a high level of professionalism and denotes a wellness center. Therefore, it is imperative to cease using that name.
-
-"The utilization of the name'spa' disrespects the professionalism of individuals working in such establishments. It is important to refrain from using this name to uphold the dignity and respect associated with the spa industry," she said.
-
-"If a lady has to work as a masseur in a spa or in a hotel, and if she goes and says to someone that she is working in a spa, people look at her as if at a prostitute. Because the name spa is being used like that," the State Minister said.
-
-Therefore, the name 'spa' has to be changed and they should not be allowed to use the name spa, she said.
-
-...
-
-[Data](articles/a0549627.json)
-
-[Extended Data](ext_articles/a0549627.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 22:17:18**
+As of **2024-02-24 22:33:32**
 
 ## Newspaper Stats
 
-*Scraped **9,076** Articles*
+*Scraped **9,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 463
 islandlk | 473
 dailyftlk | 483
 adalk | 759
-adaderanalk | 1,093
+adaderanalk | 1,095
 tamilmirrorlk | 1,115
 virakesarilk | 1,241
 adaderanasinhalalk | 1,356
-dailymirrorlk | 1,366
+dailymirrorlk | 1,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,076 (100.0%) of 9,076 articles have been extended.
+9,076 (99.9%) of 9,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### ‘A united step for the country’: Patali’s party submits proposal to President
+
+*2024-02-24 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97507/a-united-step-for-the-country-patalis-party-submits-proposal-to-president) · `en`
+
+The United Republic Front presented the proposal titled “A United Step for the Country” to President Ranil Wickremesinghe this morning (Feb.24), at ‘Sirikotha, the United National Party (UNP) headquarters in Colombo.
+
+After engaging in discussions with the President, the leader of the United Republic Front, MP Patali Champika Ranawaka, along with the delegation, presented the relevant proposal to the President.
+
+Speaking at the event President Ranil Wickremesinghe, highlighted the government’s concerted efforts over the past two years to stabilize the country’s economy, which had faced significant challenges.
+
+Stressing the government’s commitment to steering the economy towards recovery through strategic reforms, the President expressed his determination to continue these initiatives with the collective support of everyone.
+
+...
+
+[Data](articles/9bd9c9d2.json)
+
+---
 
 ### “I have become a father of a child” Sajith
 
@@ -52,6 +70,24 @@ This is the state of this country. Sajith Premadasa said that every child born i
 
 ---
 
+### Kegalle district gets new foreign employment bureau office
+
+*2024-02-24 21:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kegalle-district-gets-new-foreign-employment-bureau-office/108-277659) · `en`
+
+Kegalle, Feb 24 - Labour and Foreign Employment Minister Manusha Nanayakkara has addressed a joint request from the Kegalle Migrant Workers Committee and the Kegalle District political authority by committing to establish a Sri Lanka Bureau of Foreign Employment (SLBFE) office in Kegalle District.
+
+The decision comes in response to concerns raised about the absence of an SLBFE office in the district, despite it hosting the highest number of migrant workers in the Sabaragamuwa Province.
+
+The announcement was made during the Jayagamu Sri Lanka program, organized by the Ministry of Labour and Foreign Employment in Kegalle, where the Committee presented their request.
+
+They underscored the critical need for an SLBFE office to address the welfare and concerns of migrant workers from the region.
+
+◼️
+
+[Data](articles/de82a8af.json)
+
+---
+
 ### Fire
 
 *2024-02-24 20:54:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/திடீரென-தீப்பற்றி-எரிந்த-வீடு/74-333733) · `ta`
@@ -69,6 +105,24 @@ Attorney -at -Law HMM, a Member of Parliament and former Minister of State. Hari
 [Data](articles/853e7116.json)
 
 [Extended Data](ext_articles/853e7116.ext.json)
+
+---
+
+### Hasaranga to miss first two T20Is against Bangladesh for suspension
+
+*2024-02-24 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hasaranga-to-miss-first-two-T20Is-against-Bangladesh-for-suspension/108-277658) · `en`
+
+Colombo, Feb 24 (ICC) - Sri Lanka’s T20I captain Wanindu Hasaranga has been suspended for two international matches after his accumulated demerit points reached five within a 24-month period following his latest breach of the ICC Code of Conduct, for which he received a 50 percent fine and three demerit points.
+
+Hasaranga was found guilty of breaching article 2.13 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to “Personal abuse of a Player, Player Support Personnel, Umpire or Match Referee during an International Match.
+
+Hasaranga’s five demerit points convert to two suspension points. As two suspension points equate to a ban from one Test or two ODIs or T20Is, whatever comes first for the player or player support personnel, Hasaranga stands suspended from Sri Lanka’s first two T20Is against Bangladesh next month.
+
+The incident occurred after the end of the match, when Hasaranga confronted umpire Lyndon Hanibal to criticise him over a decision.
+
+...
+
+[Data](articles/d4bf6ea5.json)
 
 ---
 
@@ -281,6 +335,18 @@ I thank all parties who presented the historic annual festival of St. Anthony's 
 [Data](articles/ac1206e9.json)
 
 [Extended Data](ext_articles/ac1206e9.ext.json)
+
+---
+
+### Sugeeshwara pulls big crowd to debut rally...
+
+*2024-02-24 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sugeeshwara-pulls-big-crowd-to-debut-rally/110-277656) · `en`
+
+A big crowd gathered at Hyde Park, Colombo today as Sugeeshwara Bandara made his debut in national politics as Colombo district organizer of the new alliance led by ex-Minister Anura Yapa. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/60a2b0a0.json)
 
 ---
 
@@ -762,6 +828,28 @@ In light of the situation, the health authorities have taken prompt measures to 
 
 ---
 
+### Suspected deaths of patients at Kurunegala Hospital raise concern
+
+*2024-02-24 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Suspected-deaths-of-patients-at-Kurunegala-Hospital-raise-concern/155-277651) · `en`
+
+Feb 24, (Daily Mirror) - The Health Ministry has launched an investigation and appointed a committee to look into the incident surrounding the suspected deaths at the dialysis unit of the Kurunegala Teaching Hospital.
+
+Speaking of the matter, Secretary of the Ministry of Health Dr. Palitha Mahipala said the at least five deaths have occurred since January at the dialysis unit.
+
+Accordingly, a five-member committee headed by Chief Epidemiologist Dr Samitha Ginige has been appointed to look into the matter.
+
+According to sources, the incident may have occurred due to the entry of certain unidentified pathogens into the blood dialysis unit.
+
+However, the Health Ministry is investigating the entire scenario to ascertain the actual cause of the deaths.
+
+In light of the situation, the health authorities have taken prompt measures to shut down the unit and direct the kidney patients to other nearest units.
+
+◼️
+
+[Data](articles/7515f8c9.json)
+
+---
+
 ### Opposition to the plantation officer who tried to take waste tea home
 
 *2024-02-24 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177193) · `ta`
@@ -923,6 +1011,28 @@ Three unidentified assailants had opened fire using a revolver, around 7:15 a.m.
 [Data](articles/3dd5641a.json)
 
 [Extended Data](ext_articles/3dd5641a.ext.json)
+
+---
+
+### Mahabage shooting: Fleeing  army soldier arrested over “Ukkuwa’s” murder
+
+*2024-02-24 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97498/mahabage-shooting-fleeing-army-soldier-arrested-over-ukkuwas-murder) · `en`
+
+A Sri Lanka Army deserter has been arrested by the Army intelligence officers this morning (Feb.24), in connection with the shooting incident in Mahabage earlier this week.
+
+He is said to be one of the prime suspects wanted in the murder case.
+
+According to the Army, the arrestee, named Nuwan Chamara de Silva, was a Corporal attached to the 4th Battalion of the Gemunu Watch Regiment at the camp in Chenkalady, Batticaloa.
+
+He had fled the camp yesterday when the Army intelligence officers were approaching but was later taken into custody in the Ampara area following an extensive search operation.
+
+The suspect was later handed over to the Police Special Task Force (STF) officers for onward investigations.
+
+Three unidentified assailants had opened fire using a revolver, around 7:15 a.m. on Feb.21 near a meat shop in Elapitiwala Junction, Mahabage, leaving the shop owner dead. The victim had succumbed to injuries while being rushed to the Colombo North Teaching Hospital in Ragama.
+
+...
+
+[Data](articles/62cb8f8f.json)
 
 ---
 
@@ -1846,6 +1956,24 @@ Net interest income went up 16.8 percent to 25.5 billion rupees, with interest i
 
 ### Central Bank asked to provide report within one week
 
+*2024-02-24 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-asked-to-provide-report-within-one-week/108-277641) · `en`
+
+Colombo, Feb 24 (Daily Mirror) - Amidst criticism over the exorbitant salary hike of the Central Bank employees, a top parliamentary committee has called for a report from the Central Bank on the legal provisions for such a salary increment without parliamentary approval.
+
+Chairman of the Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis MP Gamini Waleboda said the matter regarding the salary hike was raised during the committee meeting on Thursday when the Central Bank officials were present.
+
+He said the Central Bank is expected to submit the report on the salary increment next week and after that, the Central Bank and its Monetary Board would be summoned before the Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis.
+
+He said the committee raised heavy criticism about the 70 per cent salary increase of the Central Bank employees amidst the economic crisis, and called it an immoral act.
+
+...
+
+[Data](articles/16df41f4.json)
+
+---
+
+### Central Bank asked to provide report within one week
+
 *2024-02-24 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-asked-to-provide-report-within-one-week/155-277641) · `en`
 
 Colombo, Feb 24 (Daily Mirror) - Amidst criticism over the exorbitant salary hike of the Central Bank employees, a top parliamentary committee has called for a report from the Central Bank on the legal provisions for such a salary increment without parliamentary approval.
@@ -1995,127 +2123,5 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/14ea17ad.json)
 
 [Extended Data](ext_articles/14ea17ad.ext.json)
-
----
-
-### US ready for further financial cooperation with Sri Lanka
-
-*2024-02-24 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-ready-for-further-financial-cooperation-with-Sri-Lanka/108-277618) · `en`
-
-Feb 23, (Daily Mirror) -  The United States (US) which invested half a billion dollars in the development of the West Container Terminal of the Colombo Port has expressed interest in similar financial cooperation with Sri Lanka, Daily Mirror learns.
-
-It transpired during the meetings between U.S. Deputy Secretary of State for Management and Resources Richard Verma and the Sri Lankan leaders during his visit to the country. Last year, the US, through its International Development Finance Corporation (DFC) provided US $ 553 million loan to the Colombo West International Terminal Private Limited to support the development of the deep water West Container Terminal located within the Port of Colombo. The US set up this institution under the current administration as it competes with China in international development financing.
-
-...
-
-[Data](articles/69e2b0ff.json)
-
-[Extended Data](ext_articles/69e2b0ff.ext.json)
-
----
-
-### Thanks for the support of Sri Lanka
-
-*2024-02-24 03:41:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வழங்கும்-ஆதரவிற்கு-நன்றி/175-333728) · `ta`
-
-President Ranil Wickremesinghe has assured US representatives that Sri Lanka is still dedicated to the Indian Ocean.
-
-The President said this when he met Richard Verma, Deputy Secretary of State for Management and Resources of the US State Department.
-
-It is also worth noting that Richard Verma, the fourth American representative who visited Sri Lanka within a week.
-
-President Ranil Wickremesinghe met the Deputy Secretary of State for Management and Resources of the US State Department at the Presidential Secretariat.
-
-International security issues were also discussed during the meeting. Deputy Secretary of State Ranil Wickremesinghe thanked President Ranil Wickremesinghe for the support of the Sri Lankan government for the naval operations in the Red Sea.. (A)
-
-◼️
-
-[Data](articles/15a6da34.json)
-
-[Extended Data](ext_articles/15a6da34.ext.json)
-
----
-
-### LOLC Divi Saviya initiative garners national recognition
-
-*2024-02-24 02:25:00* · [`islandlk`](http://island.lk/lolc-divi-saviya-initiative-garners-national-recognition/) · `en`
-
-LOLC Holdings PLC, the esteemed Sri Lankan multinational conglomerate, received a prestigious recognition from the Ministry of Education at national level, for its outstanding humanitarian endeavour, “LOLC Divi Saviya,” dedicated to enhancing the educational prospects of the nation’s children. This historic accolade signifies the first time a private sector entity has been honoured by the Ministry with such an esteemed national-level acknowledgment for its impactful efforts in enriching the educational space of the country.
-
-...
-
-[Data](articles/2e4b0203.json)
-
-[Extended Data](ext_articles/2e4b0203.ext.json)
-
----
-
-### CSE launches version3 of its Business Intelligence Dashboard – CSE Market IQ (MIQ)
-
-*2024-02-24 02:25:00* · [`islandlk`](http://island.lk/cse-launches-version3-of-its-business-intelligence-dashboard-cse-market-iq-miq/) · `en`
-
-The Colombo Stock Exchange (CSE) recently launched the 3rd version of its internal business intelligence dashboard coined the CSE ‘Market IQ’ (MIQ). This advanced version of the business intelligence dashboard, which was specifically designed to convert analysed data into insights for the convenience of internal stakeholders, is a major step into the future of market analysis and reporting.
-
-As the operator of the Stock Exchange in Sri Lanka, the CSE is statutorily mandated to operate an orderly and efficient securities market. The CSE’s ‘Market IQ’ aims to further facilitate this mandate by integrating key information into a single platform that can be accessed easily, facilitating accuracy and efficiency.
-
-The advanced level of this dashboard further elevates the effectiveness of managerial decision-making by providing a seamless understanding of investors’ trading behaviour, paving the way for strategic decisions aligned with investor needs.
-
-...
-
-[Data](articles/69537dc8.json)
-
-[Extended Data](ext_articles/69537dc8.ext.json)
-
----
-
-### Bilateral talks on facilitation of Sticky Rice imports to Sri Lanka
-
-*2024-02-24 02:25:00* · [`islandlk`](http://island.lk/bilateral-talks-on-facilitation-of-sticky-rice-imports-to-sri-lanka/) · `en`
-
-Visiting Japanese Agriculture Minister Norikasu Suzuki had requested the government to ease stringent laws governing the importation of Sticky Rice to Sri Lanka, The Island Financial Review reliably learns.
-
-Responding to the Japanese minister, Agriculture and Plantation Industries Minister Mahinda Amaraweera said that already a Cabinet paper had been submitted in this regard.
-
-The Lankan minister agreed that strict laws were implemented during the Covid epidemic and that they had been a stumbling block when it comes to importing some goods and material.
-
-Sticky Rice health benefits include increased bone density, decreased inflammation and improved heart health. The Japanese Sticky Rice is believed to boost metabolism as well. Sticky Rice is usually served to tourists in star class hotels in Sri Lanka.
-
-...
-
-[Data](articles/9d040576.json)
-
-[Extended Data](ext_articles/9d040576.ext.json)
-
----
-
-### SLT-MOBITEL Enterprise launches tailored suite solutions for MSMEs to ‘Soar Beyond Limits’
-
-*2024-02-24 02:24:00* · [`islandlk`](http://island.lk/slt-mobitel-enterprise-launches-tailored-suite-solutions-for-msmes-to-soar-beyond-limits/) · `en`
-
-SLT-MOBITEL, the National ICT Solutions Provider, has unleashed its new SLT-MOBITEL Enterprise initiative titled ‘Soar Beyond Limits’ presenting Micro, Small, And Medium-Sized Enterprises (MSMEs) a tailored suite of business solutions to achieve digital transformation and increase their contribution towards the economic development of the nation. Through this initiative, SLT-MOBITEL looks forward to enabling MSMEs to drive substantial progress across key metrics including economic growth, technological readiness, and the ability to harness technology for innovation to meet local demands.
-
-At an Enterprise product Forum held recently, SLT-MOBITEL Enterprise provided MSME business owners launched Cubkit web builder, Akaza HR, Akaza ERP and provided participants with the opportunity to immerse and interact with these products.
-
-...
-
-[Data](articles/72c86427.json)
-
-[Extended Data](ext_articles/72c86427.ext.json)
-
----
-
-### Uber Eats celebrates couriers with awards worth LKR 8 million
-
-*2024-02-24 02:12:00* · [`islandlk`](http://island.lk/uber-eats-celebrates-couriers-with-awards-worth-lkr-8-million/) · `en`
-
-Uber Eats, Sri Lanka’s most loved food and grocery delivery platform, celebrated the contribution of couriers on its platform at the fourth edition of ‘Delivery Bonanza’. The company recognized 300 most-engaged couriers who provided a great platform experience to eaters through reliable and seamless deliveries. The couriers were recognised basis maximum deliveries with least cancellations, quality or safety-related issues.
-
-As part of Delivery Bonanza 4.0, select couriers across Colombo, Kandy, Kurunegala, Negombo, Kaluthra, Galle, Beruwala, and Bandaragama were recognized for their consistent contribution to the Uber Eats platform with gifts worth LKR 8 million. Gifts ranged from different large home appliances to multi-store gift vouchers and rain-shield packs. Grand prizes for eleven of the most engaged couriers included an electric motorbike, electric scooters and e-cycles.
-
-...
-
-[Data](articles/e6e05faf.json)
-
-[Extended Data](ext_articles/e6e05faf.ext.json)
 
 ---

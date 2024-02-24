@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 22:50:45**
+As of **2024-02-24 23:02:41**
 
 ## Newspaper Stats
 
-*Scraped **9,088** Articles*
+*Scraped **9,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 463
 islandlk | 473
 dailyftlk | 483
-adalk | 760
+adalk | 761
 adaderanalk | 1,095
 tamilmirrorlk | 1,115
 virakesarilk | 1,241
@@ -26,11 +26,29 @@ dailymirrorlk | 1,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,088 (100.0%) of 9,088 articles have been extended.
+9,089 (100.0%) of 9,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Mondu has banned for two matches
+
+*2024-02-24 22:16:05* · [`adalk`](https://www.ada.lk/sports/වනිඳුට-තරග-දෙකක-තහනමක්/9-408254) · `si`
+
+Sri Lanka's 5-month leader of Sri Lankan ethical code for violations of the International Critical Code has been imposed in two international matches.
+
+Thusaranga will lose both the first matches of the Twenty20 tournament against Bangladesh next month.
+
+The critical reasoning in a decision that Judge Lindon Hannibles was given in the third match with the Afghanistan's group was critical, he was banned.
+
+◼️
+
+[Data](articles/96a248b9.json)
+
+[Extended Data](ext_articles/96a248b9.ext.json)
+
+---
 
 ### ANE MAERSK leaves Colombo
 
@@ -2137,19 +2155,5 @@ He also emphasized that women should be prepared as software engineers, healthie
 [Data](articles/76757bc9.json)
 
 [Extended Data](ext_articles/76757bc9.ext.json)
-
----
-
-### Shiv Sena Maravanpulavu Sachidanandan Iya under the obstacles
-
-*2024-02-24 07:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177162) · `ta`
-
-As the newly acquaintance of the land of the Arulmigu Annamar Temple, which has been in the village of Matuvil for centuries, the newly acquired religion has been converted to the Pradeshiya Sabha after the Pradeshiya Sabha has been informed by the Pradeshiya Sabha that the Pradeshiya Sabha has been informed by the Pradeshiya Sabha.The Pongal event was held today at the Annamar Temple under the leadership of Maravanpulavu Sachidanandan Iya on the basis of the demand for the restoration of the worship.
-
-◼️
-
-[Data](articles/dac11700.json)
-
-[Extended Data](ext_articles/dac11700.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 16:02:50**
+As of **2024-02-24 16:17:20**
 
 ## Newspaper Stats
 
-*Scraped **9,044** Articles*
+*Scraped **9,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 economynextcom | 463
 islandlk | 472
 dailyftlk | 483
-adalk | 757
+adalk | 759
 adaderanalk | 1,085
 tamilmirrorlk | 1,111
 virakesarilk | 1,239
 adaderanasinhalalk | 1,346
-dailymirrorlk | 1,362
+dailymirrorlk | 1,363
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,044 (100.0%) of 9,044 articles have been extended.
+9,044 (100.0%) of 9,047 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### You can call me ’Pad Man’ but I will focus on women’s health: Sajith
+
+*2024-02-24 15:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/You-can-call-me-Pad-Man-but-I-will-focus-on-womens-health-Sajith/108-277653) · `en`
+
+Kandy, Feb. 24 (Daily Mirror)- Renewing his pledge made during the 2019 Presidential election, Opposition Leader Sajith Premadasa today said he will focus on the maximum on women's health if elected as President of this country.
+
+"I was called 'Pad Man' during the last Presidential election when I spoke of women's health. Talking of women's health is taboo only in Sri Lanka. However, Scotland and New Zealand provide sanitary pads to women free of charge. I will follow these countries and will do the same. You can call me Pad Man," Premadasa told a women's convention organized by SJB in Kandy.
+
+◼️
+
+[Data](articles/9087af98.json)
+
+---
 
 ### Gangarama Temple’s Annual Navam Maha Perahara parade the streets
 
@@ -177,6 +191,22 @@ Others target the state-owned operator of Mir, Russia’s main payment system, w
 [Data](articles/1d39e1e5.json)
 
 [Extended Data](ext_articles/1d39e1e5.ext.json)
+
+---
+
+### මාන්තිව් දූපත නව බන්ධනාගාරයකට
+
+*2024-02-24 13:56:28* · [`adalk`](https://www.ada.lk/breaking_news/මාන්තිව්-දූපත-නව-බන්ධනාගාරයකට/11-408252) · `si`
+
+බන්ධනාගාර දෙපාර්තමේත්ව මුහුණපා ඇති ප්‍රධාන ගැටලුවක් වන බන්ධනාගාර රැඳවියන් රඳවා තබගැනීමට ඇති ධාරිතාවය අවම වීම වන අතර නැගෙනහිර පළාතේ පිහිටා ඇති මාන්තිව් දූපත අක්කර සියයක පමණ වපසරියකින් යුක්ත වන නිසා ඒහි නව බන්ධනාගාරයක් හෝ පුනරුත්ථාපන මධ්‍යස්ථානයක් ස්ථාපිත කිරීමේ හැකියාව පවතින බව අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ ආචාර්ය විජයදාස රාජපක්ෂ මහතා පැවැසීය.
+
+ඔහු මෙම අදහස් පලකලේ නැගෙනහිර පළාතේ මඩකලපුව නගරයට ආසන්න මුහුදු තීරයේ පිහිටා ඇති මාන්තිව් දූපත නිරීක්ෂණ චාරිකාවක් සඳහා ඊයේ (23දා) එක්වෙමිනි.
+
+මෙහිදී මාධ්‍ය වෙත අදහස් පලකරමින්  සඳහන් කලේ  පසුගිය කොවිඩ් සමය තුළ ශ්‍රී ලංකා ගුවන් හමුදාව භාරයට ගෙන කොවිඩ් වැලඳුන ගුවන් හමුදා නිළධාරීන් නිරෝධායනය කිරීමට පහසුකම් සලසාදී තිබූ මාන්තිව් ගොඩබිමේ මේ වන විට ළාදුරු රෝගීන් දෙදෙනෙකු පමණක් රඳවා සිටින දූපත ඉන් ඒහා ගිය මාතෘභූමියට ඵලදායී වැඩක් ලබාගත හැකි ස්ථානයක් වන බවයි.
+
+...
+
+[Data](articles/0192ea24.json)
 
 ---
 
@@ -593,6 +623,24 @@ Various people and groups are trying to disrupt this program. We have received i
 [Data](articles/9486f4b1.json)
 
 [Extended Data](ext_articles/9486f4b1.ext.json)
+
+---
+
+### රාත්‍රී ආර්ථිකයක වාසි ඩයනා පෙන්වයි
+
+*2024-02-24 11:02:24* · [`adalk`](https://www.ada.lk/breaking_news/රාත්‍රී-ආර්ථිකයක-වාසි-ඩයනා-පෙන්වයි/11-408250) · `si`
+
+රාත්‍රී ආර්ථිකයක් වෙත යොමුවීම මඟින් රටේ විදේශ විනිමය 70%කින් පමණ ඉහළ නංවාගත හැකි බව සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පැවසුවාය.
+
+ඒ වෙනුවෙන් සංචාරකයන්ගේ ආකර්ෂණය වැඩි වශයෙන් යොමුවී ඇති ස්ථාන ආශ්‍රිතව පවතින නීති රෙගුලාසි සංශෝධනය කරමින් අවශ්‍ය පහසුකම් සැලසිය යුතු බවද රාජ්‍ය අමාත්‍යවරිය සඳහන් කළාය.
+
+සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය මේ බව සඳහන් කළේ “ස්ථාවර රටකට සැවොම එක මඟකට” මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+ඇතැම් පාර්ශ්ව රාත්‍රී ආර්ථිකය සම්බන්ධව විවිධ චෝදනා එල්ල කළද ලෝකයේ බොහෝ රටවල ආර්ථික වර්ධනය වෙනුවෙන් රාත්‍රී ආර්ථිකය වැදගත් භූමිකාවක් ඉටු කරන බවද රාජ්‍ය අමාත්‍යවරිය පෙන්වා දුන්නාය.
+
+...
+
+[Data](articles/43092b91.json)
 
 ---
 
@@ -2075,67 +2123,5 @@ Reports from St. Anthony's Temple in Kachchativu say that no pilgrims from India
 [Data](articles/dcd42ecb.json)
 
 [Extended Data](ext_articles/dcd42ecb.ext.json)
-
----
-
-### Two persons from Jaffna and Vavuniya arrested in Katunayake!
-
-*2024-02-23 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177153) · `ta`
-
-Two youths who went to the Katunayake airport to travel to Europe using fraudulently manufactured Greek tourist visas have been arrested by Immigration and Emigration Officers early Friday morning.
-
-One of them is a 34 -year -old from Vavuniya and the other is 26 years old from Jaffna.
-
-The two arrived at the Katunayake airport to board Qatar Airways' QRR-663 flight to Doha at 4.35 am.
-
-Investigations have revealed that they were planning to go to Qatar's Doha and the last to France's Paris and the last to Munich, Germany.
-
-◼️
-
-[Data](articles/07c7269c.json)
-
-[Extended Data](ext_articles/07c7269c.ext.json)
-
----
-
-### US Secretary of State Verma confirms that Sri Lanka will provide Sri Lanka to Sri Lanka to deepen maritime cooperation in Indo-Pacific region
-
-*2024-02-23 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177151) · `ta`
-
-Richard Verma, Deputy Secretary of State for US State Management and Resources, said the United States continues to dedicate to helping Sri Lanka's economic growth and prosperity.
-
-Richard Verma, Deputy Secretary of State for US State Management and Resources, who visited Sri Lanka for two days (February 23 - 24), said this as he met with government, civil society and economic leaders.
-
-Secretary Verma, who met with President Ranil Wickremesinghe and External Affairs Minister Ali Sabri, discussed the progress of the IMF in Sri Lanka, including economic and administrative reforms, aimed at continuing to keep Sri Lanka on the path of stabilized economic growth.
-
-Deputy Secretary Verma also stressed the need to protect basic freedoms, including human rights and freedom of expression.
-
-...
-
-[Data](articles/dafe40a5.json)
-
-[Extended Data](ext_articles/dafe40a5.ext.json)
-
----
-
-### The TNA appointed a three -member committee for compromise with prosecutors;Sreedharan again declared that the mother was the mother
-
-*2024-02-23 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177152) · `ta`
-
-The Sri Lankan Tamil National Party has appointed a three -member committee to compromise with those who have filed a lawsuit in court against all the positions of all positions, including the new leadership of the Sri Lankan TNA.
-
-The Committee of the Committee has been appointed by the Vannimavatta MP of the Committee, Charznirmalanathan, Dr. Sathiyalingam and former Mayor of Batticaloa District T. Saravanapavan.
-
-In addition, the senior members of the party, who are referred to as defendants in the case, have been asked to take a public standing case regarding the raising case through the court.
-
-Meanwhile, Sivagnanam Sreedharan, the selected leader, has announced that he is ready to recover all the posts, including his chief chairman.
-
-A special meeting was held yesterday at the office of the party in Kilinochchi to discuss the cases filed against the Sri Lankan Tamil party and to discuss the next step.
-
-...
-
-[Data](articles/2ebf9b18.json)
-
-[Extended Data](ext_articles/2ebf9b18.ext.json)
 
 ---

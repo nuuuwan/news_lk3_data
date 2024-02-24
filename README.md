@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 00:17:15**
+As of **2024-02-25 00:32:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,090 (100.0%) of 9,091 articles have been extended.
+9,091 (100.0%) of 9,091 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -547,6 +547,8 @@ Sri Lanka is one of the founding members of the Non-Aligned Movement.
 ...
 
 [Data](articles/8959d062.json)
+
+[Extended Data](ext_articles/8959d062.ext.json)
 
 ---
 

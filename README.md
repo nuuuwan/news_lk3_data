@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 20:33:01**
+As of **2024-02-24 20:50:18**
 
 ## Newspaper Stats
 
@@ -26,21 +26,23 @@ dailymirrorlk | 1,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,066 (100.0%) of 9,067 articles have been extended.
+9,067 (100.0%) of 9,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### වනිඳු හසරංග ට තරග තහනමක්
+### Fanuvu Hasaranga banned
 
 *2024-02-24 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193779) · `si`
 
-ශ්‍රී ලංකා 20යි 20 කණ්ඩායමේ නායක වනිඳු හසරංග ට ICCයෙන් තරග තහනමක් පවනවා තිබේ.
+Sri Lanka's 20th group leader Monduwatta has been banned from the ICC.
 
 ◼️
 
 [Data](articles/45d507dc.json)
+
+[Extended Data](ext_articles/45d507dc.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 07:26:18**
+As of **2024-02-24 07:36:36**
 
 ## Newspaper Stats
 
-*Scraped **8,973** Articles*
+*Scraped **8,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 483
 adalk | 754
 adaderanalk | 1,073
 tamilmirrorlk | 1,108
-virakesarilk | 1,226
+virakesarilk | 1,227
 adaderanasinhalalk | 1,330
 dailymirrorlk | 1,348
 
@@ -26,11 +26,29 @@ dailymirrorlk | 1,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,973 (100.0%) of 8,973 articles have been extended.
+8,973 (100.0%) of 8,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### சாந்தனை இலங்கைக்கு அனுப்ப இந்திய மத்திய அரசு அனுமதி
+
+*2024-02-24 07:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/177164) · `ta`
+
+ராஜீவ் காந்தி கொலை வழக்கில் விடுதலை செய்யப்பட்ட,  சாந்தனை இலங்கைக்கு அனுப்ப மத்திய அரசு அனுமதி கடிதத்தை வெள்ளிக்கிழமை (23.02.2024) அனுப்பியுள்ளது.
+
+முன்னாள் பிரதமா் ராஜீவ் காந்தி கொலை வழக்கில் தண்டனை பெற்று, வேலூா் மத்திய சிறையில் அடைக்கப்பட்டிருந்த சாந்தன் 2022-ல் உச்சநீதிமன்ற அறிவுறுத்தலின்பேரில் விடுவிக்கப்பட்டாா். அதன் பின்னா், அவா் திருச்சியில் உள்ள சிறப்பு முகாமில் தங்க வைக்கப்பட்டிருந்தாா்.
+
+இலங்கை தமிழரான சாந்தனுக்கு ஜன. 24-ம் தேதி உடல் நிலை பாதிக்கப்பட்டதைத் தொடா்ந்து, அவா் திருச்சி அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டாா்.
+
+பின்னர், சாந்தனின் வேண்டுகோளை அடுத்தும், உயா் சிகிச்சைக்காகவும் சென்னை ராஜீவ் காந்தி அரசு பொது மருத்துவமனைக்கு அழைத்துவரப்பட்ட அவா், தீவிர சிகிச்சை பிரிவில் சிகிச்சை பெற்று வருகிறார். கல்லீரல் செயலிழப்புக்கு (சிரோஸிஸ்) உள்ளான சாந்தனுக்கு பல்வேறு உடல் நல பாதிப்புகள் ஏற்பட்டிருப்பதாக மருத்துவா்கள் கூறினா்.
+
+...
+
+[Data](articles/820c4a68.json)
+
+---
 
 ### Magistrate's death on Sanath Nishantha's death
 
@@ -2105,19 +2123,5 @@ According to a statement from the SJB, Maj. Gen. Liyanage has been appointed as 
 [Data](articles/36b5afd5.json)
 
 [Extended Data](ext_articles/36b5afd5.ext.json)
-
----
-
-### The Secretary of State for Management of the US State Department met the President
-
-*2024-02-23 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177105) · `ta`
-
-There is a meeting between Richard Verma, Deputy Secretary of State for Management and Resources of the US State Department and President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/aa0340c6.json)
-
-[Extended Data](ext_articles/aa0340c6.ext.json)
 
 ---

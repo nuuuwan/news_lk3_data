@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 18:07:24**
+As of **2024-02-24 18:19:29**
 
 ## Newspaper Stats
 
@@ -166,7 +166,7 @@ Kandy, Feb. 24 (Daily Mirror)- Renewing his pledge made during the 2019 Presiden
 
 *2024-02-24 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97500/gangarama-temples-annual-navam-maha-perahara-parade-the-streets) · `en`
 
-The 45th Nawam Maha Perahera of the Hunupitiya Gangarama Temple in Colombo kicked off on Friday (Feb.23) with President Ranil Wickremesinghe placing the sacred casket on the ceremonial elephant, symbolizing the start of the procession.
+The 45th Navam Maha Perahera of the Hunupitiya Gangarama Temple in Colombo kicked off on Friday (Feb.23) with President Ranil Wickremesinghe placing the sacred casket on the ceremonial elephant, symbolizing the start of the procession.
 
 Emphasizing the significance of unity among devotees, the State of Head underscored that it forms the foundation of a vibrant cultural festival.
 

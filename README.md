@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 21:02:33**
+As of **2024-02-24 21:17:19**
 
 ## Newspaper Stats
 
-*Scraped **9,068** Articles*
+*Scraped **9,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 759
 adaderanalk | 1,090
 tamilmirrorlk | 1,113
 virakesarilk | 1,241
-adaderanasinhalalk | 1,355
+adaderanasinhalalk | 1,356
 dailymirrorlk | 1,366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,068 (100.0%) of 9,068 articles have been extended.
+9,068 (100.0%) of 9,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### වසර 22කට පසු ඝාතන සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-02-24 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193781) · `si`
+
+කුරුවිට ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙක් 2002 වසරේදී ඝාතනය කර තිබූ අතර ඊට සැකකෙරුණේ ඔහුගේ බිරිඳගේ සහෝදරයා ය.
+
+එවක 22 හැවිරිදි වියේ පසුවූ සැකකරු ඝාතන සිද්ධියෙන් මාස 3කට පසු පොලිස් අත්අඩංගුවට පත්වී පසුව ඇප මත මුදා හැරුණි.
+
+සැකකරු දිගින් දිගටම නඩුවට ඉදිරිපත් නොවීම නිසා සැකකරු නොමැතිව පැමිණිල්ලේ සාක්ෂි මත පමණක් පදනම් කරගෙන ක්‍රියාත්මක වූ නීති කෘත්‍යයේදී රත්නපුර මහාධිකරණය 2019දී  තීන්දු කළේ, සැකකරුට මරණ දඬුවම නියම කිරීමටය.
+
+කෙසේවෙතත් විදේශ රටවල සංචාරය කළ සැකකරු මේ වසරේ ජනවාරි මස යළි දිවයිනට පැමිණ බෝපත් ඇල්ල - අගලවත්ත ප්‍රදේශයේ අත්හැර දැමූ නිවසක රහසිගතව ජීවත්වී තිබේ.
+
+සැඟව සිටින මෙම සැකකරු සම්බන්ධයෙන් කුරුවිට පොලිසියේ අපරාධ අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ජී. උදයශාන්ත මහතාට තොරතුරක් ලැබී ඇත්තේ ඒ අතරවාරයේදීය.
+
+වහා ක්‍රියාත්මක වූ පොලීසිය ඊයේ රාත්‍රියේ අදාළ සැකකරු අත්අඩංගුවට ගෙන තිබුණි.
+
+ඒ අනුව තම අක්කාගේ ස්වාමි පුරුෂයා ඝාතනය කිරීමේ සැකකරු අත්අඩංගුවට ගෙන තිබුණේ, වසර 22කට පසුවය.
+
+සැකකරු අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු එළැඹෙන සඳුදා දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+
+◼️
+
+[Data](articles/92325ba5.json)
+
+---
 
 ### Colombo Large scale housing racket
 
@@ -2087,23 +2113,5 @@ Ashwin set the record of being the first Indian bowler to beat England 100 again
 [Data](articles/b4efcdcb.json)
 
 [Extended Data](ext_articles/b4efcdcb.ext.json)
-
----
-
-### Protecting sea lanes vital for Indo-Pacific economic growth: US Deputy Secretary of State Verma
-
-*2024-02-23 22:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protecting-sea-lanes-vital-for-Indo-Pacific-economic-growth-US-Deputy-Secretary-of-State-Verma/108-277620) · `en`
-
-Colombo, Feb 23 - The United States remains committed to the economic growth and prosperity of Sri Lanka, Deputy Secretary of State for Management and Resources Richard Verma told government, civil society and economic leaders during his February 23 to 24 visit to Sri Lanka.
-
-Verma met President Ranil Wickremesinghe and Foreign Minister Ali Sabry to discuss the progress on Sri Lanka’s IMF programme, including inclusive economic and governance reforms aimed at keeping Sri Lanka on the path to sustainable economic growth.
-
-Deputy Secretary Verma stressed the vital need to protect human rights and fundamental freedoms, including freedom of expression. They also explored opportunities to deepen defense and maritime cooperation between the United States and Sri Lanka, including strengthening the Sri Lanka Navy’s capabilities to safeguard national security and promote a more stable Indo-Pacific region.
-
-...
-
-[Data](articles/53538a1b.json)
-
-[Extended Data](ext_articles/53538a1b.ext.json)
 
 ---

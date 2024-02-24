@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 16:17:20**
+As of **2024-02-24 16:33:04**
 
 ## Newspaper Stats
 
-*Scraped **9,047** Articles*
+*Scraped **9,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 483
 adalk | 759
 adaderanalk | 1,085
 tamilmirrorlk | 1,111
-virakesarilk | 1,239
+virakesarilk | 1,240
 adaderanasinhalalk | 1,346
 dailymirrorlk | 1,363
 
@@ -26,11 +26,29 @@ dailymirrorlk | 1,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,044 (100.0%) of 9,047 articles have been extended.
+9,047 (100.0%) of 9,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### “நாட்டிற்கான ஒன்றுபட்ட நடவடிக்கை" ஐக்கிய குடியரசு முன்னணியின் முன்மொழிவு ஜனாதிபதியிடம் கையளிப்பு
+
+*2024-02-24 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177203) · `ta`
+
+ஐக்கிய குடியரசு முன்னணியின் “நாட்டிற்கான ஒன்றுபட்ட நடவடிக்கை” என்ற தலைப்பிலான முன்மொழிவு ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கையளிக்கும் நிகழ்வு இன்று சனிக்கிழமை (24) முற்பகல் கொழும்பில் உள்ள ஐக்கிய தேசியக் கட்சியின் தலைமையகமான சிறிகொத்தவில் இடம்பெற்றது.
+
+ஐக்கிய குடியரசு முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க உள்ளிட்ட குழுவினர், ஜனாதிபதியை சந்தித்து கலந்துரையாடலில் ஈடுபட்டதுடன், குறித்த முன்மொழிவை ஜனாதிபதியிடம் கையளித்தனர்.
+
+இந்நிகழ்வில் கலந்து கொண்டு உரையாற்றிய ஜனாதிபதி ரணில் விக்ரமசிங்க, நாட்டின் வீழ்ச்சி அடைந்த பொருளாதாரத்தை ஸ்திரப்படுத்த அரசாங்கம் கடந்த இரண்டு வருடங்களில் கடுமையாக உழைத்துள்ளதாகக் குறிப்பிட்டார்.
+
+மறுசீரமைப்புத் தீர்மானங்கள் மூலம் நாட்டின் பொருளாதாரத்தை மிகச்சரியான பாதையில் கொண்டு செல்வதற்கு அரசாங்கம் செயற்பட்டுள்ளதாக சுட்டிக்காட்டிய ஜனாதிபதி, அனைவரினதும் ஆதரவுடன் அதனை மேலும் நடைமுறைப்படுத்துவதே தமது நோக்கமாகும் எனவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/b9825af3.json)
+
+---
 
 ### You can call me ’Pad Man’ but I will focus on women’s health: Sajith
 
@@ -43,6 +61,8 @@ Kandy, Feb. 24 (Daily Mirror)- Renewing his pledge made during the 2019 Presiden
 ◼️
 
 [Data](articles/9087af98.json)
+
+[Extended Data](ext_articles/9087af98.ext.json)
 
 ---
 
@@ -194,19 +214,23 @@ Others target the state-owned operator of Mir, Russia’s main payment system, w
 
 ---
 
-### මාන්තිව් දූපත නව බන්ධනාගාරයකට
+### Munivev Island to a new prison
 
 *2024-02-24 13:56:28* · [`adalk`](https://www.ada.lk/breaking_news/මාන්තිව්-දූපත-නව-බන්ධනාගාරයකට/11-408252) · `si`
 
-බන්ධනාගාර දෙපාර්තමේත්ව මුහුණපා ඇති ප්‍රධාන ගැටලුවක් වන බන්ධනාගාර රැඳවියන් රඳවා තබගැනීමට ඇති ධාරිතාවය අවම වීම වන අතර නැගෙනහිර පළාතේ පිහිටා ඇති මාන්තිව් දූපත අක්කර සියයක පමණ වපසරියකින් යුක්ත වන නිසා ඒහි නව බන්ධනාගාරයක් හෝ පුනරුත්ථාපන මධ්‍යස්ථානයක් ස්ථාපිත කිරීමේ හැකියාව පවතින බව අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ ආචාර්ය විජයදාස රාජපක්ෂ මහතා පැවැසීය.
+Minister of Justice or Constitutional Reforms is the ability to retain a new prison or rehabilitation center, which is a major problem facing the prison departure.President's Counsel Dr. Wijayadasa Rajapaksa said.
 
-ඔහු මෙම අදහස් පලකලේ නැගෙනහිර පළාතේ මඩකලපුව නගරයට ආසන්න මුහුදු තීරයේ පිහිටා ඇති මාන්තිව් දූපත නිරීක්ෂණ චාරිකාවක් සඳහා ඊයේ (23දා) එක්වෙමිනි.
+He participated in a tour of the Mahanv Island at the sea in the sea in the Eastern Province of Batticaloa town yesterday (23).
 
-මෙහිදී මාධ්‍ය වෙත අදහස් පලකරමින්  සඳහන් කලේ  පසුගිය කොවිඩ් සමය තුළ ශ්‍රී ලංකා ගුවන් හමුදාව භාරයට ගෙන කොවිඩ් වැලඳුන ගුවන් හමුදා නිළධාරීන් නිරෝධායනය කිරීමට පහසුකම් සලසාදී තිබූ මාන්තිව් ගොඩබිමේ මේ වන විට ළාදුරු රෝගීන් දෙදෙනෙකු පමණක් රඳවා සිටින දූපත ඉන් ඒහා ගිය මාතෘභූමියට ඵලදායී වැඩක් ලබාගත හැකි ස්ථානයක් වන බවයි.
+Speaking to the media and said that the island of only two patients who have been detained in the construction of the Coconugh officers in the construction of the Kovid and the Colombo Air Forces in the construction of the Kovid prestigious..
 
-...
+The Minister said that the two patients in the area are able to discuss with the Ministry to discuss with the Ministry and to look into the ability to establish a prison or rehabilitation center.
+
+◼️
 
 [Data](articles/0192ea24.json)
+
+[Extended Data](ext_articles/0192ea24.ext.json)
 
 ---
 
@@ -626,21 +650,25 @@ Various people and groups are trying to disrupt this program. We have received i
 
 ---
 
-### රාත්‍රී ආර්ථිකයක වාසි ඩයනා පෙන්වයි
+### Shows the gain of a night economy
 
 *2024-02-24 11:02:24* · [`adalk`](https://www.ada.lk/breaking_news/රාත්‍රී-ආර්ථිකයක-වාසි-ඩයනා-පෙන්වයි/11-408250) · `si`
 
-රාත්‍රී ආර්ථිකයක් වෙත යොමුවීම මඟින් රටේ විදේශ විනිමය 70%කින් පමණ ඉහළ නංවාගත හැකි බව සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පැවසුවාය.
+Minister of Tourism Diana Gamage said that the country's foreign exchange could increase by 70% by turning to a night economy.
 
-ඒ වෙනුවෙන් සංචාරකයන්ගේ ආකර්ෂණය වැඩි වශයෙන් යොමුවී ඇති ස්ථාන ආශ්‍රිතව පවතින නීති රෙගුලාසි සංශෝධනය කරමින් අවශ්‍ය පහසුකම් සැලසිය යුතු බවද රාජ්‍ය අමාත්‍යවරිය සඳහන් කළාය.
+The government minister said that the necessary facilities should be facilitated with the prevailing regulations of the tourist attraction.
 
-සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය මේ බව සඳහන් කළේ “ස්ථාවර රටකට සැවොම එක මඟකට” මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The Minister of Tourism Diana Gamage was speaking at a press conference held at the Presidential Media Center by a "stable country."
 
-ඇතැම් පාර්ශ්ව රාත්‍රී ආර්ථිකය සම්බන්ධව විවිධ චෝදනා එල්ල කළද ලෝකයේ බොහෝ රටවල ආර්ථික වර්ධනය වෙනුවෙන් රාත්‍රී ආර්ථිකය වැදගත් භූමිකාවක් ඉටු කරන බවද රාජ්‍ය අමාත්‍යවරිය පෙන්වා දුන්නාය.
+The Minister of State pointed out that the night economy will play an important role in the late night's economy.
+
+"Various role in the night-day entertainment activities play considerable role to increase the economy of a country. At night, the country's foreign exchange has increased by 70% to the night economy, including entertainment and restaurants in the night.. Most countries in the world get the contribution of the night economy for economic growth.
 
 ...
 
 [Data](articles/43092b91.json)
+
+[Extended Data](ext_articles/43092b91.ext.json)
 
 ---
 
@@ -2103,25 +2131,5 @@ About 50,000 factories have been temporarily closed and the industry owners have
 [Data](articles/9a638bce.json)
 
 [Extended Data](ext_articles/9a638bce.ext.json)
-
----
-
-### 40 boats from Talaimannar for the Kachchativu festival
-
-*2024-02-23 20:00:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கச்சதீவு-திருவிழாவுக்கு-தலைமன்னாரிலிருந்து-சென்ற-40-படகுகள்/72-333713) · `ta`
-
-Devotees from many parts of the Mannar district have traveled to Kachchativu to highlight the festival of St. Anthony's Temple in Kachchativu.
-
-More than 400 pilgrims in 40 boats today (23) have traveled to the Kachchativu Temple through the Talaimannar port.
-
-The St. Anthony's Festival will be held tomorrow morning with the fathers of the Jaffna Nedundevu share of the fathers.
-
-Reports from St. Anthony's Temple in Kachchativu say that no pilgrims from India attend this year's St. Anthony's Temple Festival this year.. Remble
-
-◼️
-
-[Data](articles/dcd42ecb.json)
-
-[Extended Data](ext_articles/dcd42ecb.ext.json)
 
 ---

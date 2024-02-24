@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 07:36:36**
+As of **2024-02-24 07:51:22**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ dailymirrorlk | 1,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,973 (100.0%) of 8,974 articles have been extended.
+8,974 (100.0%) of 8,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### சாந்தனை இலங்கைக்கு அனுப்ப இந்திய மத்திய அரசு அனுமதி
+### Indian Central Government permits Santhan to Sri Lanka
 
 *2024-02-24 07:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/177164) · `ta`
 
-ராஜீவ் காந்தி கொலை வழக்கில் விடுதலை செய்யப்பட்ட,  சாந்தனை இலங்கைக்கு அனுப்ப மத்திய அரசு அனுமதி கடிதத்தை வெள்ளிக்கிழமை (23.02.2024) அனுப்பியுள்ளது.
+The central government has sent a letter to Sri Lanka to send Shantan to Sri Lanka on Friday (23.02.2024).
 
-முன்னாள் பிரதமா் ராஜீவ் காந்தி கொலை வழக்கில் தண்டனை பெற்று, வேலூா் மத்திய சிறையில் அடைக்கப்பட்டிருந்த சாந்தன் 2022-ல் உச்சநீதிமன்ற அறிவுறுத்தலின்பேரில் விடுவிக்கப்பட்டாா். அதன் பின்னா், அவா் திருச்சியில் உள்ள சிறப்பு முகாமில் தங்க வைக்கப்பட்டிருந்தாா்.
+Former Prime Minister Rajiv Gandhi was convicted in the murder of Supreme Court on the advice of Supreme Court in 2022. After that, Av was placed in a special camp in Trichy.
 
-இலங்கை தமிழரான சாந்தனுக்கு ஜன. 24-ம் தேதி உடல் நிலை பாதிக்கப்பட்டதைத் தொடா்ந்து, அவா் திருச்சி அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டாா்.
+Janan to Sri Lankan Tamil. He was admitted to the Trichy Government Hospital on the 24th.
 
-பின்னர், சாந்தனின் வேண்டுகோளை அடுத்தும், உயா் சிகிச்சைக்காகவும் சென்னை ராஜீவ் காந்தி அரசு பொது மருத்துவமனைக்கு அழைத்துவரப்பட்ட அவா், தீவிர சிகிச்சை பிரிவில் சிகிச்சை பெற்று வருகிறார். கல்லீரல் செயலிழப்புக்கு (சிரோஸிஸ்) உள்ளான சாந்தனுக்கு பல்வேறு உடல் நல பாதிப்புகள் ஏற்பட்டிருப்பதாக மருத்துவா்கள் கூறினா்.
+Later, after Santhan's request, he was brought to the Rajiv Gandhi Government General Hospital in Chennai for treatment and is being treated in the intensive care unit for treatment.. Doctors say that Shantan, who has been infected with liver failure (chirosis), has had various health problems.
 
-...
+Doctors said that the heartbeat, blood pressure and respiratory circulation are steady, while other effects are being treated.
+
+In this backdrop, the central government has sent a letter of permission to send Shantana from Sri Lanka to the country on Friday (23.02.2024).
+
+◼️
 
 [Data](articles/820c4a68.json)
+
+[Extended Data](ext_articles/820c4a68.ext.json)
 
 ---
 

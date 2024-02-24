@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 18:51:35**
+As of **2024-02-24 19:02:35**
 
 ## Newspaper Stats
 
@@ -26,45 +26,49 @@ dailymirrorlk | 1,365
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,054 (99.9%) of 9,061 articles have been extended.
+9,061 (100.0%) of 9,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
 
-### 2024 සිට මේ දක්වා වනඅලි 33ක් මරුට
+### 33 wild wildarians killed since 2024
 
 *2024-02-24 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193777) · `si`
 
-2024 ජනවාරි මස සිට මේ දක්වා වනඅලි 33 දෙනෙකු පමණ මියගොස් ඇති බව පරිසරවේදීන් පෙන්වා දෙයි.
+Interlours have been killed in January 2024 to date.
 
-අද (24) දිනයේ මහියංගනය ප්‍රදෙශයේදී ද අනවසර විදුලි රැහැනක පැටලී වනඅලියෙකු මියගොස් ඇත.
+A wild elephant has died in the Mahiyanganaya area today (24).
 
-වනඅලි මරණයට පත්කරන පුද්ගලයන්ට එරෙහිව තදින් නීතිය ක්‍රියාත්මක කරන ලෙස පරිසර සංවිධාන රජයෙන් ඉල්ලා සිටී.
+The Environmental Organizations calls for the government to implement the law to be implemented strongly against the people who are killed.
 
 ◼️
 
 [Data](articles/bc1627e6.json)
 
+[Extended Data](ext_articles/bc1627e6.ext.json)
+
 ---
 
-### පඩි වැඩිකර ගත් මහ බැංකු නිලධාරීන් පාර්ලිමේන්තුවට කැඳවයි ?
+### Central Bank officials summoned to parliament?
 
 *2024-02-24 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193776) · `si`
 
-ශ්‍රී ලංකා මහ බැංකුවේ නිලධාරීන් පාර්ලිමේන්තුවට කැඳවීමට මුදල් කමිටු කිහිපයක් තීරණය කර තිබේ.
+The officers of the Central Bank have decided to call to Parliament.
 
-ඒ මහ බැංකු සේවකයින්ගේ වැටුප ඔවුන් විසින් සියයට 70කින් ඉහළ නංවාගෙන ඇති බව කියන සිද්ධිය සම්බන්ධයෙන් ප්‍රශ්න කිරීම සඳහා බව වාර්තා වෙයි.
+It is reported that the sum of the Central Bank employees has been questioned about the incident that they have increased by 70 percent.
 
-මහ බැංකු නිලධාරීන් විසින් ඔවුන්ගේ වැටුප ඉහළ නංවාගෙන ඇති බවට පසුගියදා තොරතුරු වාර්තා වුණි.
+The Central Bank officials had increased their salary recently.
 
-එම සිද්ධිය රට තුළ මහත් ආන්දෝලානාත්මක තත්ත්වයක් ඇති කළ අතර විපක්ෂයේ මන්ත්‍රීවරුන් පාර්ලිමේන්තුව තුළ පවා ඒ සම්බන්ධයෙන් ප්‍රශ්න කර සිටියේය.
+The incident was a great controversy in the country and the opposition MPs questioned even in Parliament.
 
-විපක්ෂයේ ප්‍රධාන සංවිධායක ලක්ෂමන් කිරිඇල්ල මන්ත්‍රීවරයා පසුගියදා පාර්ලිමේන්තුවේදී, මහ බැංකු නිලධාරීන් පාර්ලිමේන්තුවට කැඳවා ප්‍රශ්න කරන ලෙස කථානායකවරයාගෙන් ඉල්ලීමක් ද කළේය.
+The Chief Organizer of the Opposition Lakshman Kiriella summarized the Speaker to call on the MP and questioned in parliament.
 
 ◼️
 
 [Data](articles/36d0bff4.json)
+
+[Extended Data](ext_articles/36d0bff4.ext.json)
 
 ---
 
@@ -92,17 +96,19 @@ The two suspects were sent to Katunayake airport from Shanghai, China, by SriLan
 
 ---
 
-### මමත් දැන් දරුවෙක් ඉන්න පියෙක් - සජිත්
+### I'm a father who is now a child - Sajith
 
 *2024-02-24 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193775) · `si`
 
-තමා ද දැන් දරුවෙක් ඉන්න පියෙක් බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අද ජනහමුවකදී පැවසීය.
+Opposition Leader Sajith Premadasa told him that he is a father of now.
 
-මේ රටේ බිහිවෙන සෑම දරුවෙකුටම පෞද්ගලික රෝහල්වලින් ලැබෙන සැලකිල්ලම රජයේ රෝහල් තුළින් ලබාදීමේ වැඩපිළිවෙල තමන් දියත් කරන බවද ඔහු පැවසීය.
+He said he would launch the concern of the government hospitals for every child in this country.
 
 ◼️
 
 [Data](articles/bb6695a9.json)
+
+[Extended Data](ext_articles/bb6695a9.ext.json)
 
 ---
 
@@ -128,21 +134,25 @@ The panel led by Dr. Samitha Ginige, the head of the Epidemiology Unit has arriv
 
 ---
 
-### මාන්තිව් දූපතේ නව බන්ධනාගාරයක් ස්ථාපිත කිරීමට අවධානය
+### Attention to establish a new prison on the Munivev Island
 
 *2024-02-24 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193774) · `si`
 
-නැගෙනහිර පළාතේ මඩකලපුව නගරයට ආසන්න මුහුදු තීරයේ පිහිටා ඇති මාන්තිව් දූපතේ නව බන්ධනාගාරයක් හෝ පුනරුත්ථාපන මධ්‍යස්ථානයක් ස්ථාපිත කිරීමේ හැකියාව පවතින බව අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+Minister of Justice, Principal and Constitutional Reforms Mr. Wijayadasa Rajapaksa, said that there is a possibility of establishing a new prison or rehabilitation center in the East of Batticaloa town, Batticaloa town.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ මාන්තිව් දූපත නිරීක්ෂණ කිරීමට ඊයේ (23) එම ස්ථානයට ගිය අවස්ථාවේ දීය.
+The Minister made this observation at the time of his visit to the Mathv Island yesterday.
 
-කොවිඩ් සමයේ ශ්‍රී ලංකා ගුවන් හමුදාව භාරයට ගෙන කොවිඩ් වැළඳුන ගුවන් හමුදා නිලධාරීන් නිරෝධායනය කිරීමට පහසුකම් සලසාදී තිබූ මාන්තිව් දූපතේ මේ වනවිට ලාදුරු රෝගීන් දෙදෙනෙකු පමණක් රඳවා සිටින බවත් ඊට වඩා ඵලදායී කාර්ය්‍යක් එයින් ලබාගත හැකි බවත් අමාත්‍යවරයා පවසයි.
+The Minister said that only two leprosy patients who had been planting to quarantine the Covand seized by the Sri Lanka Air Force and that there are only two lepers.
 
-එබැවින් එම ලාදුරු රෝගීන් දෙදෙනා සෞඛ්‍ය අමාත්‍යාංශය සමග සාකච්ඡා කර බෝ වන රෝගීන් සිටින ස්ථානයක් කරා මාරුකිරීමේ හැකියාව පවතින බවත් ඒ සම්බන්ධයෙන් අදාළ බලධාරීන් සමග සාකච්ඡා කර මෙම ස්ථානයේ බන්ධනාගාරයක් හෝ පුනරුත්ථාපන මධ්‍යස්ථානයක් ස්ථාපිත කිරීමට ඇති හැකියාව පිළිබඳ සොයා බැලීමට කටයුතු කරන බවත් අමාත්‍යවරයා සඳහන් කළේය.
+Therefore, the two lepers have been able to transfer the Sri Lankan patients with the Ministry of Health and to look into the possibility of establishing a prison or rehabilitation center.
 
-...
+The Minister is currently the main problem with the prison department.
+
+◼️
 
 [Data](articles/221b8534.json)
+
+[Extended Data](ext_articles/221b8534.ext.json)
 
 ---
 
@@ -172,19 +182,21 @@ Onward investigations into the incident are being carried out by the Negombo Exc
 
 ---
 
-### කුරුණෑගල රෝහලේ සිද්ධිය සොයන්න කමිටුවක්
+### Committee to investigate the incident in Kurunegala Hospital
 
 *2024-02-24 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193773) · `si`
 
-කුරුණෑගල ශික්ෂණ රෝහලේ රුධිර කාන්දුකරණ ඒකකයේ සිදුවීම පිළිබඳව කරුණු සෙවීමට සෞඛ්‍ය ආමාත්‍යාංශයෙන් පංච පුද්ගල විද්වත් කමිටුවක් පත්කර තිබේ.
+Health Ministry has appointed a five-person expert panel of experts from the Secretary to the Teaching Hospital in the Kurunegala Teaching Hospital.
 
-කුරුණෑගල ශික්ෂණ රෝහලේ රුධිර කාන්දුකරණ ඒකකයට ඇතුළත් කළ සමහර රෝගීන්ගේ යම්කිසි සංකූලතා කිහිපයක් සහ ජනවාරි මස සිට මේ දක්වා මරණ කිහිපයක් වාර්තා වී ඇත.
+Some of the complications of some of the patients in the Kurunegala Teaching Hospital have been reported and several deaths since January.
 
-ඒ පිළිබඳ වැඩිදුර සොයා බැලීම සඳහා සෞඛ්‍ය අමාත්‍යාංශය මෙලෙස 05 දෙනෙකුගෙන් යුත් විද්වත් කමිටුවක් පත්කර ඇති බව සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසයි.
+Health Secretary Palitha Mahipala said that a committee of the Ministry has appointed a five-member panel of experts for further investigation.
 
 ◼️
 
 [Data](articles/b750e293.json)
+
+[Extended Data](ext_articles/b750e293.ext.json)
 
 ---
 
@@ -232,23 +244,27 @@ The two deported individuals were sent from China to the Katunayake Airport by S
 
 ---
 
-### පාඨලී ජනපතිව හමුවෙයි
+### Engkk Patali meet President
 
 *2024-02-24 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193772) · `si`
 
-ජනාධිපතිවරණය නියමිත කාලයට පැවැත්වීමට කටයුතු කරන අතර මහ මැතිවරණය ලබන වසර මුලදී පැවැත්වීමට අපේක්ෂා කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe says that the presidential election will be held for the time and the general election is expected to be held early next year.
 
-ජනාධිපතිවරයා ඒ බව පවසා සිටියේ,  එක්සත් ජනරජ පෙරමුණේ නායක පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා ඇතුළු නියෝජිත කණ්ඩායම ජනාධිපතිවරයා හමුවූ අවස්ථාවේදීය.
+The President made this statement when he met the leader of the leader Patali Champika Ranawaka and the delegation.
 
-“දේශය වෙනුවෙන් එක් වන පියවරක්” මැයෙන් එක්සත් ජනරජ පෙරමුණ විසින් පසුගියදා රටට ඉදිරිපත් කළ යෝජනාවලිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගැන්වීම කොළඹ සිරිකොත එක්සත් ජාතික පක්ෂ මූලස්ථානයේදී අද (24) පෙරවරුවේ සිදු විය.
+The proposal to the country was presented to the country by the United States's proposal by the United States recently to President Ranil Wickremesinghe this morning at Sirikotha today (24) at the UNP.
 
-එක්සත් ජනරජ පෙරමුණේ නායක පාර්ලිමේන්තු මන්ත්‍රී පාඨලි චම්පික රණවක මහතා ඇතුළු නියෝජිත කණ්ඩායම ජනාධිපතිවරයා හමුවී සාකච්ඡාවක නිරත වීමෙන් අනතුරුව අදාළ යෝජනාවලිය ජනාධිපතිවරයා වෙත පිළිගැන්වීය.
+The proposal was presented to the President of the United Kingdom of the UPFA MP Champika Ranawaka.
 
-මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ රටේ බිඳවැටුණු ආර්ථිකය යළි ස්ථාවර කරගැනීමට පසුගිය දෙවසරක කාලය තුළ රජය මහත් පරිශ්‍රමයකින් කටයුතු කළ බවය.
+President Ranil Wickremesinghe said that the government was prevented in the past two years to restore the country's collapse economy.
+
+The President has said that the government has said that the government has taken steps to bring the country's economy to the right road with the reform decision decisions.
 
 ...
 
 [Data](articles/e151974b.json)
+
+[Extended Data](ext_articles/e151974b.ext.json)
 
 ---
 
@@ -290,19 +306,21 @@ Kandy, Feb. 24 (Daily Mirror)- Renewing his pledge made during the 2019 Presiden
 
 ---
 
-### රාජගිරියේ ගින්නක්
+### Fire in Rajagiriya
 
 *2024-02-24 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193770) · `si`
 
-රාජගිරිය ඔබේසේකරපුර ප්‍රදේශයේ පිහිටි වෙළෙඳසැලක අද (24) දහවල් ගින්නක් හටගෙන තිබේ.
+A fire has erupted in an afternoon at Obeysekarapura area in Rajagiriya.
 
-උත්සව භාණ්ඩ නිෂ්පාදන වෙළෙඳසැලක මෙම ගින්න හටගෙන ඇති බව අප වාර්තාකරු සඳහන් කළේය.
+Our correspondent stated that the fire has erupted in a festive cargo manufacturing shop.
 
-ගින්න මැඩපැවැත්වීම සඳහා කෝට්ටේ මහනගර සභාවේ ගිනි නිවීම් ඒකකය කැඳවා තිබුණි.
+The fire brigade of the Kotte Municipal Council was convened to suppress the fire.
 
 ◼️
 
 [Data](articles/887abd8e.json)
+
+[Extended Data](ext_articles/887abd8e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 09:32:51**
+As of **2024-02-24 09:51:39**
 
 ## Newspaper Stats
 
-*Scraped **8,998** Articles*
+*Scraped **8,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 754
 adaderanalk | 1,075
 tamilmirrorlk | 1,108
 virakesarilk | 1,228
-adaderanasinhalalk | 1,336
+adaderanasinhalalk | 1,337
 dailymirrorlk | 1,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-8,997 (100.0%) of 8,998 articles have been extended.
+8,999 (100.0%) of 8,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### Excessive speed called the kill
+
+*2024-02-24 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193760) · `si`
+
+One person was killed and another injured in a car accident in general area Galenilawa.
+
+The accident had occurred when the police collided with a wall and collided with the prices of bouting of heavy rapidly fast-speed motorcycle board.
+
+The backdrop, the victim has been killed by the motorcyclist and the victims of the accident.
+
+The deceased is a 19 year old Rajanganaya South Uganasaya.
+
+Motorcyclist has been admitted to the Anuradhapura Teaching Hospital for further treatment.
+
+◼️
+
+[Data](articles/13f18620.json)
+
+[Extended Data](ext_articles/13f18620.ext.json)
+
+---
 
 ### The son -in -law escaped after beating her mother -in -law in Batticaloa
 
@@ -95,6 +117,8 @@ Acting on a request from Santhan, the Sri Lankan Deputy High Commission had earl
 ◼️
 
 [Data](articles/055cdc34.json)
+
+[Extended Data](ext_articles/055cdc34.ext.json)
 
 ---
 
@@ -2079,23 +2103,5 @@ The Secretary to the President Saman Ekanayake has emphasized that other honors 
 [Data](articles/bf94de8c.json)
 
 [Extended Data](ext_articles/bf94de8c.ext.json)
-
----
-
-### Sword cut in Jaffna - two injured
-
-*2024-02-23 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177126) · `ta`
-
-The violent gang, which entered a house on Thursday (22) in the Jaffna - Achchu area, has damaged the house and carried out a sword attack on two people.
-
-The two injured have been admitted to the Kopay Hospital and then sent to the Jaffna Teaching Hospital for further treatment.
-
-Achchuveli police, which are responsible for the violence, are investigating the incident.
-
-◼️
-
-[Data](articles/ddf2f132.json)
-
-[Extended Data](ext_articles/ddf2f132.ext.json)
 
 ---

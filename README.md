@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-24 11:02:29**
+As of **2024-02-24 11:17:29**
 
 ## Newspaper Stats
 
-*Scraped **9,008** Articles*
+*Scraped **9,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ dailyftlk | 483
 adalk | 754
 adaderanalk | 1,078
 tamilmirrorlk | 1,111
-virakesarilk | 1,228
-adaderanasinhalalk | 1,338
+virakesarilk | 1,231
+adaderanasinhalalk | 1,339
 dailymirrorlk | 1,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,008 (100.0%) of 9,008 articles have been extended.
+9,008 (100.0%) of 9,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-24 (Saturday)
+
+### ඉබ්බන්කටුව ජලාශයේ ගිලී පාසල් සිසුවෙකු ජීවිතක්ෂයට
+
+*2024-02-24 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193762) · `si`
+
+‍දඹුල්ල - ඉබ්බන්කටුව ජලාශයේ දිය නෑමට ගිය පාසල් සිසුවෙකු දියේ ගිලී මිය ගොස් තිබේ.
+
+ඊයේ (23) පස්වරුවේ ඉබ්බන්කටුව ජලාශ‍යේ අනාරක්ෂිත ස්ථානයක දිය නෑමට ගොස් සිටිය දී එම සිසුවා දියේ ගිලී අතුරුදන් ව ඇති අතර, දඹුල්ල පොලීසියේ ජීවිතාරක්ෂක ඒකකයේ නිලධාරින් සිදු කළ සෝදිසි කිරීමක දී සිසුවාගේ මළ සිරුර සොයාගෙන ඇති බව වාර්තා වේ.
+
+සිය මිත්තණිය සහ සොහොයුරා ඇතුළු පිරිසක් සමඟ අනුරාධපුර වන්දනාවේ යන අතරතුර ඔහු මෙම අනතුරට ලක් ව ඇත.
+
+මිය ගොස් ඇත්තේ ගාල්ල - හල්විටිගල ජනපදය ප්‍රදේශයේ පදිංචි ව සිටි 16 හැවිරිදි පාසල් සිසුවෙකි.
+
+◼️
+
+[Data](articles/c2dc4364.json)
+
+---
 
 ### Mother -in -law beaten;Nephew escape
 
@@ -73,6 +91,26 @@ Police found 9 bodies in the gutted residential buildings. Valencia’s national
 [Data](articles/428148e7.json)
 
 [Extended Data](ext_articles/428148e7.ext.json)
+
+---
+
+### மரக்கறிகளின் விலை குறைந்த போதிலும் கோழி இறைச்சியின் விலை அதிகரிப்பு
+
+*2024-02-24 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/177171) · `ta`
+
+அதன்படி, விலை அதிகரித்து காணப்பட்ட ஒரு கிலோ கரட் 350 ரூபாவாக விலை குறைவடைந்துள்ளது.
+
+ஒரு கிலோ தக்காளி மற்றும் போஞ்சிக்காய் 450 ரூபாவாகவும்,  லீக்ஸ் 300 ரூபாவாகவும் விலை குறைவடைந்துள்ளது.
+
+இதேவேளை, குடைளகாய் மற்றும் பச்சை மிளகாய் ஆகியவற்றின் விலைகள் 700 ரூபாவாகவும், 600 ரூபாவாகவும் சற்று அதிகரித்துள்ளது.   ஒரு கிலோ இஞ்சி 1200 ரூபாவாகும்.
+
+ஆனால், ஒரு கிலோ கோழி  இறைச்சி 1,150 ரூபாவாகவும், தோல் நீக்கப்பட்ட கோழி  இறைச்சி 1,100 ரூபாவாகவும் விற்பனை செய்யப்படுகிறது.
+
+ஒரு கிலோ ஆட்டிறைச்சி  3,300 ரூபாவாகவும், மாட்டிறைச்சி 2,300 ரூபாவாகவும் விற்பனை செய்யப்படுகிறது.
+
+◼️
+
+[Data](articles/15b74794.json)
 
 ---
 
@@ -140,6 +178,24 @@ The Maldives National Defence Force (MNDF) late Thursday evening extended a warm
 
 ---
 
+### ‘சீதா’, ‘அக்பர்’ சர்ச்சை முடிவுக்கு வந்தது
+
+*2024-02-24 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177168) · `ta`
+
+இந்தியாவில் சிலிகுரி மிருகக்காட்சி சாலையில் அடைக்கப்பட்டுள்ள சீதா, அக்பர் என்ற இரு சிங்கங்கள் பெயரை மாற்ற வேண்டும் என்று கொல்கத்தா உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+மிருகக்காட்சி சாலையில்  ஒரே பகுதியில் சீதா, அக்பர் என்ற இரு சிங்கங்களை அடைக்க எதிர்ப்பு தெரிவித்து உயர் நீதிமன்றத்தில் விஹெச்பி தாக்கல் செய்த மனுவின் கீழ் இந்த உத்தரவை பிறப்பித்துள்ளது.
+
+திரிபுரா மாநிலம் செபஹிஜாலா மிருகக்காட்சி சாலையில் இருந்து மேற்கு வங்க மாநிலம் சிலிகுரியில் உள்ள பெங்கால் மிருகக்காட்சி சாலைக்கு பெப்ரவரி 12-ம் திகதி இரண்டு சிங்கங்கள் கொண்டு செல்லப்பட்டுள்ளன.
+
+இந்த இரண்டு சிங்கங்களில் ஏழு வயதுள்ள சிங்கத்துக்கு ‘அக்பர்’ என்றும், 6 வயதுள்ள சிங்கத்துக்கு ‘சீதா’ என்றும் பெயர் சூட்டப்பட்டது. இந்தப் பெயர்களுக்கு எதிராக விஸ்வ ஹிந்து பரிஷத் என்ற இந்து அமைப்பு கொல்கத்தா உயர் நீதிமன்றத்தை நாடியது.
+
+...
+
+[Data](articles/5e3e47c3.json)
+
+---
+
 ### Rajiv Gandhi assassination case convict gets document to return to Sri Lanka
 
 *2024-02-24 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rajiv-Gandhi-assassination-case-convict-gets-document-to-return-to-Sri-Lanka/108-277649) · `en`
@@ -178,6 +234,22 @@ Sri Lanka has since made progress on about $11 billion of bilateral debt restruc
 
 ---
 
+### இரத்தினபுரியில் வெப்பநிலை அதிகரிப்பு
+
+*2024-02-24 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/177167) · `ta`
+
+நாட்டில் சப்ரகமுவ மாகாணத்தில் இரத்தினபுரி மாவட்டம் மற்றும் மத்திய மாகாணத்தில் கண்டி, நுவரெலியா ஆகிய பகுதிகளில் காற்றின் அளவு குறைந்துள்ளமையால் வெப்பநிலை அதிகரித்துள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி,  வெப்பநிலை 36 பாகை செல்சியஸ் இரத்தினபுரியிலும் ,  30 பாகை செல்சியஸ் கண்டியிலும் மற்றும் 21 பாகை செல்சியஸ் நுவரெலியாவிலும் பதிவாகியுள்ளது.
+
+காற்று குறையும் போது வளிமண்டலம் குளிர்ச்சியான நிலையை அடையாது. அதனால்தான் வெப்பநிலை அதிகரித்துள்ளது. ஆண்டின் இக்காலப்பகுதியில் வெப்பநிலை அதிகரிப்பது வழமையான ஒன்றாகும்.
+
+◼️
+
+[Data](articles/dbad1438.json)
+
+---
+
 ### Excessive speed called the kill
 
 *2024-02-24 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193760) · `si`
@@ -197,6 +269,32 @@ Motorcyclist has been admitted to the Anuradhapura Teaching Hospital for further
 [Data](articles/13f18620.json)
 
 [Extended Data](ext_articles/13f18620.ext.json)
+
+---
+
+### The son -in -law escaped after beating her mother -in -law in Batticaloa
+
+*2024-02-24 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177166) · `ta`
+
+The incident took place last Friday night (23), police said that the incident took place last Friday night (23).
+
+The deceased is 45 -year -old Vairamuthu Gomatani from Wadieri Koolaiyadichenai.
+
+The daughter of the deceased has gone abroad for employment opportunities. Children and daughter's husband live with her mother.
+
+There was a fight between a mother -in -law and mother -in -law when the mother -in -law was alone in the house last night.
+
+In this case, he died after he hit a massive object on his mother -in -law's head. The 30 -year -old son -in -law has fled after the mother -in -law died.
+
+Following this, neighbors informed the police that the police went to the scene and are conducting investigations.
+
+In addition, they are taking steps to obtain court permission and take steps to hand over the body to the hospital for autopsy.
+
+◼️
+
+[Data](articles/4acf3b61.json)
+
+[Extended Data](ext_articles/4acf3b61.ext.json)
 
 ---
 
@@ -223,32 +321,6 @@ It is reported that the two countries are discussing the next steps to bring the
 [Data](articles/4c4ccb5c.json)
 
 [Extended Data](ext_articles/4c4ccb5c.ext.json)
-
----
-
-### The son -in -law escaped after beating her mother -in -law in Batticaloa
-
-*2024-02-24 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177166) · `ta`
-
-The incident took place last Friday night (23), police said that the incident took place last Friday night (23).
-
-The deceased is 45 -year -old Vairamuthu Gomatani from Wadieri Koolaiyadichenai.
-
-The daughter of the deceased has gone abroad for employment opportunities. Children and daughter's husband live with her mother.
-
-There was a fight between a mother -in -law and mother -in -law when the mother -in -law was alone in the house last night.
-
-In this case, he died after he hit a massive object on his mother -in -law's head. The 30 -year -old son -in -law has fled after the mother -in -law died.
-
-Following this, neighbors informed the police that the police went to the scene and are conducting investigations.
-
-In addition, they are taking steps to obtain court permission and take steps to hand over the body to the hospital for autopsy.
-
-◼️
-
-[Data](articles/4acf3b61.json)
-
-[Extended Data](ext_articles/4acf3b61.ext.json)
 
 ---
 
@@ -2021,91 +2093,5 @@ The pilgrims come from train have been opened to provide transport facilities to
 [Data](articles/0b5b7308.json)
 
 [Extended Data](ext_articles/0b5b7308.ext.json)
-
----
-
-### Temple Treasury, Ampara goes to destroy
-
-*2024-02-23 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193739) · `si`
-
-A large number of ruins that have been able to renew history are found near the Temple Thimbirigolla Reserve in Ampara.
-
-There are many historical archaeological sources in this area where Bakmetiya is traveling through the Tembirigolla area.
-
-The land can be seen in this land that a king had built a kingdom in the same territory and maintain his control.
-
-A number of ancient measures that have been built on an ancient buildings, inscriptions, water restores, stupa, has been still being balanced.
-
-It is sad that this historical value, which is able to renew history, become a paradise of treasure hunters today.
-
-Sadly, the authorities fail to be named as an archaeological site so far.
-
-◼️
-
-[Data](articles/b94d0ca1.json)
-
-[Extended Data](ext_articles/b94d0ca1.ext.json)
-
----
-
-### Those who have decided to burn the Janasas should be punished:
-
-*2024-02-23 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/177129) · `ta`
-
-The Janasas, who had to be good at the time of the Corona infection. The Sri Lanka Muslim Congress Deputy Leader and Member of Parliament by the Health Ministry officials, who have decided to burn these janasas in Sri Lanka alone in all parts of the world, should be punished for such a decision by the State High Commission and the Criminal Investigation Division.. Haris told parliament.
-
-To pay compensation to the family of burned Janasas. And for the liberation of our country, many martyred for independence and fought in prisons and fought against the British. Some of them were declared as traitors by the English rulers. In my Kalmunai constituency, five more brothers, including Isa Anees Lepp and Kariyapar, were declared traitors.
-
-...
-
-[Data](articles/257025ea.json)
-
-[Extended Data](ext_articles/257025ea.ext.json)
-
----
-
-### Four killed, many others missing as blaze engulfs apartment blocks in Spain
-
-*2024-02-23 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97479/four-killed-many-others-missing-as-blaze-engulfs-apartment-blocks-in-spain) · `en`
-
-At least four people have died and up to 15 are missing after a massive fire ripped through two joined apartment blocks in the Spanish city of Valencia, emergency services say.
-
-The blaze engulfed a 14-storey block in the Campanar neighbourhood and spread to an adjoining building.
-
-Experts say that highly flammable cladding on the building enabled the fire to spread rapidly.
-
-The building contains 138 flats and was home to 450 residents, newspaper El Pais reported, citing the building’s manager.
-
-Fifteen people, including six firefighters and a young child, have been injured although their lives are not in danger.
-
-Valencia Mayor María José Catalá said authorities were still trying to locate between nine and 15 people, while the government’s regional representative said 14 people remained unaccounted for.
-
-More than 20 fire crews tackled the blaze, which was made worse by high winds. By early Friday the block was a giant fire-blackened shell. People were urged to stay away from the area.
-
-...
-
-[Data](articles/d3a27b79.json)
-
-[Extended Data](ext_articles/d3a27b79.ext.json)
-
----
-
-### Workers who were engaged in a three -day work boycott returned to work today
-
-*2024-02-23 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177130) · `ta`
-
-The Naspy plantation workers, which are under the Beettu estate, which are under the Beetu estate, have been carrying out a struggle for the plantation management for the past three days.
-
-The workers have abandoned their job boycott and returned to work on Friday (23) after the plantation administration agreed to hold talks on Wednesday 28th at 3 pm.
-
-With the financial assistance of the Government of India, the Nuwara Eliya Naspi estate will find separate houses for the establishment of 10 thousand separate houses available to the upland plantation people.. In this case, the workers have launched a boycott of the work, demanding that the plantation administration allocate space to set up houses in the Naspy Garden of 53 houses.
-
-At the same time, the Nuwara Eliya Naspy garden is a garden of natural beauty.
-
-...
-
-[Data](articles/65e41e3c.json)
-
-[Extended Data](ext_articles/65e41e3c.ext.json)
 
 ---

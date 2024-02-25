@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 09:02:37**
+As of **2024-02-25 09:17:13**
 
 ## Newspaper Stats
 
-*Scraped **9,118** Articles*
+*Scraped **9,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 464
 dailyftlk | 483
 islandlk | 486
 adalk | 761
-adaderanalk | 1,099
+adaderanalk | 1,100
 tamilmirrorlk | 1,117
 virakesarilk | 1,241
 adaderanasinhalalk | 1,368
@@ -26,7 +26,7 @@ dailymirrorlk | 1,372
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,118 (100.0%) of 9,118 articles have been extended.
+9,118 (100.0%) of 9,119 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,22 @@ But the new political alliance has not yet been created until now.
 [Data](articles/f2ca6a12.json)
 
 [Extended Data](ext_articles/f2ca6a12.ext.json)
+
+---
+
+### At least 15 killed in apartment fire in China’s Nanjing
+
+*2024-02-25 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97512/at-least-15-killed-in-apartment-fire-in-chinas-nanjing) · `en`
+
+At least 15 people were killed and 44 injured in a fire at an apartment building in eastern China’s Nanjing, local authorities said Saturday.
+
+The blaze broke out at a news conference Friday morning, with officials saying a preliminary investigation suggested the fire started on the first floor of the building, where electric bicycles were stored. The building is located in the Yuhua District of Nanjing, a city of more than eight million people, about 260 kilometers (162 miles) northwest of Shanghai.
+
+The fire was put out by 6:00 a.m. (2200 GMT Thursday) and the search and rescue operation ended around 2:00 p.m., officials said. According to the emergency services, 25 fire engines were mobilized to fight the fire. Footage shared on Chinese social media shows a skyscraper on fire in the middle of the night, with black smoke pouring out of it.
+
+...
+
+[Data](articles/96167940.json)
 
 ---
 
@@ -2063,25 +2079,5 @@ The Cabinet note that President Ranil Wickremesinghe has introduced the two New 
 [Data](articles/a72162af.json)
 
 [Extended Data](ext_articles/a72162af.ext.json)
-
----
-
-### Schoolgirl killed in the reservoir reservoir
-
-*2024-02-24 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193762) · `si`
-
-A schoolgirl drowned with the Tabbanakatuwa reservoir reservoir.
-
-The student was disappeared while he was not bathing in an unsecured place in the reservoir yesterday (23).
-
-He was in charge of the Anuradhapura pilgrimage with his grandmother and brother and other people.
-
-The deceased is a 16 year old schoolgirl, a 16 year old resident of Halvitigala Colony, Galle.
-
-◼️
-
-[Data](articles/c2dc4364.json)
-
-[Extended Data](ext_articles/c2dc4364.ext.json)
 
 ---

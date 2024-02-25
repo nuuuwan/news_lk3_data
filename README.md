@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 13:02:31**
+As of **2024-02-25 13:17:36**
 
 ## Newspaper Stats
 
-*Scraped **9,164** Articles*
+*Scraped **9,166** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 92
 bbccomsinhala | 111
-dbsjeyarajcom | 162
+dbsjeyarajcom | 163
 newsfirstlk | 363
 economynextcom | 465
 dailyftlk | 483
 islandlk | 486
-adalk | 766
+adalk | 767
 adaderanalk | 1,105
 tamilmirrorlk | 1,128
 virakesarilk | 1,246
@@ -26,23 +26,25 @@ dailymirrorlk | 1,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,154 (99.9%) of 9,164 articles have been extended.
+9,164 (100.0%) of 9,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### காட்டுப்பன்றி தாக்கி மூவர் சிகிச்சை
+### Trio therapy
 
 *2024-02-25 12:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டுப்பன்றி-தாக்கி-மூவர்-சிகிச்சை/175-333767) · `ta`
 
-மீரிகம விஜய ரஜதஹன வீட்டுத் தொகுதிக்குள் புகுந்த காட்டுப்பன்றியின் தாக்குதலுக்கு இலக்காகி வீதியில் நடந்து சென்ற பெண் உட்பட மூவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Three persons, including a woman walking on the street, were injured and admitted to the hospital.
 
-மேலும், காயமடைந்த ஒருவர் மீரிகம ஆதார வைத்தியசாலையிலும் மற்றைய இருவர் வத்துபிட்டிவல ஆதார வைத்தியசாலையிலும் அனுமதிக்கப்பட்டுள்ளனர்.
+In addition, one of the injured has been admitted to the Mirigama Resource Hospital and the other two are admitted to the Watupitivala Resource Hospital.
 
 ◼️
 
 [Data](articles/b64b8a70.json)
+
+[Extended Data](ext_articles/b64b8a70.ext.json)
 
 ---
 
@@ -62,6 +64,8 @@ As a new Aussie and local resident, the MP said that he hopes Dilshan will join 
 
 [Data](articles/1a3e2376.json)
 
+[Extended Data](ext_articles/1a3e2376.ext.json)
+
 ---
 
 ### Chinese woman arrested in connection with over Rs. 8 mn fraud
@@ -80,47 +84,75 @@ As such, further investigations are being carried out by the Colombo Fraud Inves
 
 [Data](articles/97c68bd7.json)
 
+[Extended Data](ext_articles/97c68bd7.ext.json)
+
 ---
 
-### பால்குடி மறவாத சிசுவை விட்டு பறந்த பெற்றோர்
+### නිවසක් ළඟට පැමිණි අඩි 10ක කිඹුලෙක් අල්ලයි
+
+*2024-02-25 12:29:29* · [`adalk`](https://www.ada.lk/breaking_news/නිවසක්-ළඟට-පැමිණි-අඩි-10ක-කිඹුලෙක්-අල්ලයි/11-408261) · `si`
+
+රාත්‍රි කාලයේ නිවසක්් ආසන්නයට  පැමිණි අඩි දහයක් පමණ දිගැති  විශාල කිඔුලෙකු ,මීගලෑව වනජීවි නිලධාරීන් විසින්   පොල්පිතිගම රක්වාන  ප්‍රදේශයේ දී  අල්ලා ගත් බව මීගලෑව වනජීවි කාර්යාලය පවසයි.
+
+මෙම හැල කිඹුලා  ගම් වැදී ඇති බවට එම ප්‍රදේශයෙන් කල දැනුම්  දීමක් අනුව ප්‍රදේශවාසීන්ගේද  සහය  ඇතිව වනජීවි නිලධාරීන්  විසින් කිඹුලා අල්ලා ගත් බවද මීගලෑව වනජීවි කාර්යාලය තවදුරටත් සඳහන් කළේය.
+
+අඩි දහයක් පමණ දිගින් යුතු මෙම හැල කිඹුලා සතුන් දඩයම් කිරීම සඳහා මෙලෙස ගම්වදින්නට ඇති බවට සැක කෙරෙන බවද  මීගලෑව වනජීවි කාර්යාලය වැඩිදුරටත් සඳහන් කළේය.
+
+මෙම වීශාල හැල කිඹුලා  රැගෙන ගොස් විල්පත්තු ජාතික වනෝද්‍යානයට මුදා  හරින බවද මීගලෑව වනජීවි  කාර්යාලය වැඩිදුරටත් සඳහන් කළේය.ි
+
+◼️
+
+[Data](articles/f32e3847.json)
+
+---
+
+### Parents who flew away from the Balgudi
 
 *2024-02-25 12:28:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பால்குடி-மறவாத-சிசுவை-விட்டு-பறந்த-பெற்றோர்/76-333765) · `ta`
 
-தற்காலிகமாக தங்கியிருந்த இளம் ​ஜோடி, ஐந்தரை வயது மதிக்கத்தக்க சிசுவை அவ்வீட்டிலேயே விட்டு தலைமறைவாகிவிட்டனர். இந்த சம்பவம் தொடர்பில் கலஹா பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர். கலஹா, லூல்கந்துர பிரதேசத்தில் உள்ள தோட்ட வீட்டில் விட்டுவிட்டே இவ்வாறு தலைமறைவாகிவிட்டனர்.
+The young couple, who was temporarily stayed, left the five -and -a -half -year -old fetus.. Kalaha police are investigating the incident. They left the garden home in Lulkandura, Kalaha.
 
-மட்டக்களப்பு- வாகரை பிதேசத்தில் இருந்து தற்காலிகமாக தங்குவதற்கு கலஹாவுக்கு வந்திருந்த இளம் ஜோடியே, சிசுவை கைவிட்டுச்சென்றுள்ளது.
+The young couple, who had come to Kalaha to temporarily stay from Batticaloa-Vaharai, has abandoned the baby.
 
-இந்த இளம் ஜோடி, ஒரு கிழமைக்கு முன்னர், மற்றுமொரு ​பெண்ணின் உதவியுடன், கைக்குழந்தையுடன் இந்த தோட்டத்துக்கு தற்காலிகமாக வசிப்பதற்கு வந்துள்ளனர். அங்கிருந்து ரகசியமான முறையில் தப்பிச்சென்றுள்ளனர் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+The young couple, with the help of another woman, came to live with the infant in the garden temporarily.. Investigations have been found that they have escaped secretly.
 
-அங்கிருந்த போது அடையாளம் கண்டுகொண்ட மற்றுமொரு நபருக்கு தொலைபேசி அழைப்பை எடுத்துள்ள அந்த ஜோடி,  தாங்கள் இருவரும் வெளிநாட்டுக்குச் செல்வதாகவும், கைக்குழந்தை தாங்கள் தங்கியிருந்த வீட்டின் அறையில் இருப்பதாகவும், அதனை வளர்ப்பதற்கு யாரிடமாவது கொடுத்துவிடுமாறும் கேட்டுக்கொண்டுள்ளனர்.
+The couple, who had taken a phone call to another person who identified, asked them to go abroad and give it to someone to raise the house where the child was in the house where they were staying.
 
-...
+In this regard, the police rescued the infant after the information received by the police and took the Achisuu to the Kalaha Hospital.. Due to the lack of facilities for breast milk, they have been transferred to the Peradeniya Hospital.
+
+◼️
 
 [Data](articles/8388aa72.json)
 
+[Extended Data](ext_articles/8388aa72.ext.json)
+
 ---
 
-### பெரும்பான்மைவாதம் குறித்து இலங்கை எச்சரிக்கையுடன் இருக்கவேண்டும் அதிகாரபகிர்வு  அபிவிருத்திக்கு மிகவும் அவசியம் -இந்தியாவில் வெளிவிவகார இராஜாங்க அமைச்சர் தாரகபாலசூர்ய
+### Sri Lanka should be cautious about majority
 
 *2024-02-25 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177246) · `ta`
 
-அதிகார பகிர்வு  அனைவரையும் உள்வாங்கும் அபிவிருத்தி ஆகியவை இலங்கையின் பேண்தகு அபிவிருத்திக்கு மிகவும் அவசியம் என  தெரிவித்துள்ள இலங்கையின் வெளிவிவகார இராஜாங்க அமைச்சர் தாரகபாலசூர்ய பெரும்பான்மைவாதம் குறித்தும் எச்சரித்துள்ளார்
+Sri Lanka's External Affairs Minister Tarakapalasuriya has warned the majority of the majority of the devolution of power.
 
-இந்தியாவின் 2022 ரைசினா டயலொக் 2024 நிகழ்வின் ஒரு பகுதியாக இடம்பெற்ற கலந்துரையாடலில்கருத்து தெரிவிக்கையில்  அவர் இதனை தெரிவித்துள்ளார்
+He was speaking at a discussion which was held as part of the 2022 event of India's 2022 Risina Dialog 2024
 
-இலங்கை 1980களின் நடுப்பகுதியில் இனமோதலை எதிர்கொண்டது என்பது உங்களிற்கு தெரியும்- இனமோதலிற்கு முன்னர் நாங்கள் பாதுகாப்பு செலவீனங்களிற்காக மிகவும்குறைவாகவே 0.5செலவிட்டோம்.
+You know that Sri Lanka faced racism in the middle of the 1980s- before the racism, we spent 0.5 more and less than safety expenses.
 
-இது 1985 இல் மூன்று வீதமாக அதிகரித்தது பின்னர் பத்து வருடங்களின் 1995 இல் 5.9 வீதமாக அதிகரித்தது.
+It increased to three percent in 1985 and increased to 5.9 percent in 1995 in ten years.
 
-1985 இல் எங்களின் பாதுகாப்பு செலவீனம் 188 மில்லியன் டொலர் 2008 இல் இது 1.5 மில்லியன் டொலராக மாறியது.
+In 1985, our safety cost became $ 188 million in 2008, it became $ 1.5 million.
 
-1980-90களில் எங்களின் சமூகஅபிவிருத்தி சுட்டிகள் ஏனைய தென்னாசிய நாடுகளை மிகவும் சிறப்பானவையாக காணப்பட்டன.
+In the 1980-90s, our social development pointers were very good for other South Asian countries.
 
-இலங்கையை பொறுத்தவரை நாங்கள்அனைவரும் ஜனநாயகம் குறித்து நம்பிக்கை கொண்டுள்ள போதிலும் நாங்கள் பெரும்பான்மைவாதம் குறித்து அவதானமாகயிருக்கவேண்டும்.
+As for Sri Lanka, we should be concerned about majorityism, despite all we believe in democracy.
+
+When the academic reform in Sri Lanka was carried out in the 1970s, it caused some communities to be discriminated against. This caused the community to carry arms.
 
 ...
 
 [Data](articles/64bb9ed6.json)
+
+[Extended Data](ext_articles/64bb9ed6.ext.json)
 
 ---
 
@@ -160,25 +192,29 @@ Referred to as India's longest cable-stayed bridge, Sudarshan Setu holds immense
 
 [Data](articles/28e66c84.json)
 
+[Extended Data](ext_articles/28e66c84.ext.json)
+
 ---
 
-### අංගොඩ සිට ආපු පුතාගේ පොරෝ පහරින් පියා මරුට
+### Son, son of Angoda, kills father
 
 *2024-02-25 12:06:03* · [`adalk`](https://www.ada.lk/breaking_news/අංගොඩ-සිට-ආපු-පුතාගේ-පොරෝ-පහරින්-පියා-මරුට/11-408259) · `si`
 
-අංගොඩ මානසික රෝහලේ ප්‍රතිකාර ලබා සුවවී ඇතැයි කියා ආපසු නිවසට පැමිණ සිටි පුතෙකු විසින් එල්ල කරන ලද පොරෝ පහරකින් බරපතල තුවාල ලැබූ පියෙක්   මියගොස් ඇතැයි පිටිගල පොලිසිය කියයි.
+Pitigala Police say that a father who was seriously injured by a son who was taken back home was recovered from the Angoda Mother Hospital.
 
-මෙසේ මියගොස් ඇත්තේ පිටිගල ,කලුආරච්චිගොඩ  පදිංචිව සිටි පියදාස ජයසිංහ හෙවත් අන්දිරිස් ජයසිංහ නැමති 80 හැවිරිදි සිව්දරු  පියෙක් බව පොලිසිය පැවසීය.
+The deceased has been identified as Piyadasha Jayasinghe, Aliyandas Jayasinghe, a resident of Kaluarachchi, Padaigala and Kaluarachchi.
 
-මෙම පියා ඊයේ( 24)දහවල් නිවසේ වාඩිවී සිටියදී පුතා පිටුපසින්  පැමිණ පොරවකින් පියාට පහර දීමෙන් පසු පියා මියගොස් ඇතැයි පොලිසිය කියයි.
+The father had died behind the father after the father was sitting at the time yesterday (24).
 
-මේ සම්බන්ධයෙන් සැකපිට පොරවෙන් පහරදුන්නේයැයි කියන පුතා සැකපිට  අත් අඩංගුවට ගත් බවත් මෙම සැකකරු කලක් අංගොඩ මානසික රෝහලේ ප්‍රතිකාර ලබා සුවවී පැමිණ සිටි අයෙකු බව පරීක්ෂණවලදී අනාවරණය වූ බවත් පොලිසිය පැවසීය.
+The suspect was arrested on suspicion that his son was allegedly assaulted by the blacks.
 
-පිටිගල පොලිස් ස්තානාධිපති පොලිස් පරීක්ෂක අනුර පුෂ්පකුමාර මහතා ඇතුළු නිළධාරීහු සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ පවත්වති.
+Pitigala Police Director General of Police Inspector Anura Pushpakumara, including Anura Pushpakumara, and other officials are conducting further investigations.
 
 ◼️
 
 [Data](articles/109801f6.json)
+
+[Extended Data](ext_articles/109801f6.ext.json)
 
 ---
 
@@ -197,6 +233,8 @@ It was reported, earlier this morning, that four SriLankan Airlines flights were
 ◼️
 
 [Data](articles/e7a26d5a.json)
+
+[Extended Data](ext_articles/e7a26d5a.ext.json)
 
 ---
 
@@ -239,6 +277,8 @@ The current number of computer resource centres is 100 and arrangements have alr
 ...
 
 [Data](articles/aecdd042.json)
+
+[Extended Data](ext_articles/aecdd042.ext.json)
 
 ---
 
@@ -650,27 +690,31 @@ Morning said that the Sri Lankan navy sent its ship and when the ship completed 
 
 ---
 
-### අනුර හීනෙන් ජනපති වෙලා
+### Anura's dream decision
 
 *2024-02-25 09:46:31* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හීනෙන්-ජනපති-වෙලා/11-408258) · `si`
 
-අනුර කුමාර දිසානායක සිහිනෙන් මේ රටේ ජනාධිපති වි ඇති බව ජනසෙත පෙරමුණේ නායක පුජ්‍ය බත්තරමුල්ලේ සීලරතන හිමියන් පැවසිය.
+The Janasha Battaramulla Salarathana Thero said that the president had been pleased with Anura Kumara Dissanayake.
 
-සීලරතන හිමියන් ඒ බැව් කියා සිටියේ (24) දින හැටන් ප්‍රදේශයේ වතු කම්කරුවන්ගේ ගැටළු සම්බන්ධයෙන් සොයා බැලිමට පැමිණිමෙන් අනතුරුව මාධ්‍යයට අදහස් දක්වමිණි.
+Seelaratana Thero said that (24), he commenced to the media after the arrival of plantation workers' issues in Hatton.
 
-“වතුකරයේ ජනතාවගේ ජන්දයෙන් පත් වෙලා ඉන්න ඇමතිවරු මන්ත්‍රිවරු ජනතාවට කිසිදු දෙයක් කරලා නැ , වතු කම්කරුවන්ගෙන් මාසිකව රු 350 ක සමාජික මුදලක් ආරුමුගන් තොණ්ඩමන් ගත්තා දැන් පුතත් ගන්නවා.
+"The MPs who have become the victims of the plantation sector have not done anything to the public's monthly Rs. 350 from plantation workers.
 
-එහෙම සමාජික මුදල් අරගෙන වතු කම්කරුවන්ට සහනක් ලබා දෙන්නෙත් නැ,  ඒ සල්ලි වලින් තොණ්ඩමන්ලා සැප විදිනවා.
+Those who have not taken such a member money and giving the plantation workers in the money and pierce the pleasure of that money.
 
-වතු කම්කරුවෙකුට රු දහසක් ලැබෙන්නේ  තේ කොල කිලෝ 20 ක් කැඩුවොත් විතරයි , එතකොට කොහොමද මේ ජනතාව ජිවත් වෙන්නේ.
+A total of Rs.
 
-වතු කම්කරුවන්ගේ වැටුප වැඩි කරන්න ඕනි කියලා පාර්ලිමේන්තුවේ එකෙක් කතා කරලා නැ. වතුකරයේ සිංහල දමිල ඇමතිවරු එකෙක් වැඩ කරලා නැ ඒ අය වැඩ කරගත්තා එයාලගේ පවුල් වලට.
+One of Parliament has not said that the salary of plantation workers should increase.One of the Sinhalese Tamil ministers in the plantation stone did not work to their families.
 
-මහින්ද රාජපක්ෂගෙන් අහන්න ඕනි රනිල් වික්‍රමසිංහව ජනාධිපති කරලා දැන් සැපද කියලා , එයා දැන් පුතාව පන්සල් ගානේ යවලා මැතිවරණයට ඉදිරිපත් කරන්න හදනවා.
+The Ranil Wickremesinghe president has made the president of Mahinda Rajapaksa, he is now being signed, he is now trying to send the son and present the election.
+
+The country was destroyed by the Rajapaksas and Ranil will be auctioned and postponed the presidential election.
 
 ...
 
 [Data](articles/8c8f98a6.json)
+
+[Extended Data](ext_articles/8c8f98a6.ext.json)
 
 ---
 
@@ -1279,6 +1323,20 @@ For a period of about two decades after the ceasing of hostiities in World War 2
 [Data](articles/316d6d6c.json)
 
 [Extended Data](ext_articles/316d6d6c.ext.json)
+
+---
+
+### Internally  Divided ITAK  in the Eye of a Legal Storm: Courts Restrain Newly Elected Party Officials From Functioning.
+
+*2024-02-25 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83676) · `en`
+
+The Ilankai Thamil Arasuk Katchi(ITAK)known in English as the Federal Party(FP) is in the eye of a legal storm.  The premier political party representing the Sri Lankan Tamils of the Northern and Eastern provinces is currently undergoing an internal crisis mainly due to recently held inner-party elections. Issues relating to the intra-party elections have brought about a clearly visible divide within the ITAK.
+
+This in turn has led to an unprecedented situation where  two members of the ITAK  have sought legal recourse against allegedy illegal action by party authorities.Enjoining orders were  obtained. Party Leaders were restrained from conducting its  postponed National Convention on 19 February.
+
+...
+
+[Data](articles/751698bc.json)
 
 ---
 
@@ -1995,49 +2053,5 @@ The Chief Organizer of the Opposition Lakshman Kiriella summarized the Speaker t
 [Data](articles/36d0bff4.json)
 
 [Extended Data](ext_articles/36d0bff4.ext.json)
-
----
-
-### Sri Lanka’s multi-aligned foreign policy based on friendship: Min
-
-*2024-02-24 17:41:00* · [`economynextcom`](https://economynext.com/sri-lankas-multi-aligned-foreign-policy-based-on-friendship-min-152048/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s multi-aligned foreign policy is based on friendship to all and enmity to none, its Minister of Foreign Affairs has said.
-
-“Non-alignment means not becoming a bystander. Non-alignment means you are not forced or coerced into a camp to take sovereign decisions… you make your own choices. Whether it is commercial, security, regional or otherwise,”  M U M Ali Sabry said on X (twitter).
-
-“I have repeatedly stressed that sovereignty is the right to have your own opinion on what’s right and wrong, and to stand by your principles. Our multi-aligned foreign policy is based on friendship to all and enmity to none,” Sabry was quoting from his speech at the Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI) Foreign Policy Forum, on the theme ‘Reassessing Non-Alignment in a Polarised World’.
-
-Sri Lanka is one of the founding members of the Non-Aligned Movement.
-
-...
-
-[Data](articles/8959d062.json)
-
-[Extended Data](ext_articles/8959d062.ext.json)
-
----
-
-### China deported Sri Lankans a year later
-
-*2024-02-24 17:40:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-வருடத்திற்குப்பின்-இலங்கையர்களை-நாடு-கடத்திய-சீனா/175-333732) · `ta`
-
-Two Sri Lankans arrested in China have been deported today (24) after they tried to flee to Malaysia.
-
-The two suspects have tried to flee to Malaysia in the container on the ship parked at the port of Colombo.
-
-One of them is said to be 26 -year -old Mallarmathi Rajendran and the other is 39 -year -old Jayakumar Darumarasa.
-
-On January 30, 2023, the two men secretly entered the empty container loaded with the 'Merks Unicorn' ship parked at the Port of Colombo to go to Malaysia.
-
-But when the ship arrived in Malaysia, Malaysia refused to accept the two suspects in the container, and the authorities had gone to many countries and finally went to China.
-
-The two suspects were sent to Katunayake airport from Shanghai, China, by SriLankan Airlines (UL-867) at 5.01 am this morning.
-
-...
-
-[Data](articles/ac5fa494.json)
-
-[Extended Data](ext_articles/ac5fa494.ext.json)
 
 ---

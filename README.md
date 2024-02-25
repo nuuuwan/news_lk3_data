@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 17:33:45**
+As of **2024-02-25 17:52:56**
 
 ## Newspaper Stats
 
-*Scraped **9,200** Articles*
+*Scraped **9,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 465
 dailyftlk | 483
 islandlk | 486
 adalk | 773
-adaderanalk | 1,111
+adaderanalk | 1,112
 tamilmirrorlk | 1,133
 virakesarilk | 1,246
 dailymirrorlk | 1,384
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,387
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,199 (100.0%) of 9,200 articles have been extended.
+9,201 (100.0%) of 9,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### ‘Presidential Scholarships’ for 100,000 school students annually
+
+*2024-02-25 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97524/presidential-scholarships-for-100000-school-students-annually) · `en`
+
+In an effort to support the education of Sri Lankan children, President Ranil Wickremesinghe introduced the “Presidential Academic Scholarship Program 2024/2025,” the President’s Media Division reported.
+
+This special scholarship initiative, launched through the President’s Fund, aims to provide financial assistance to 100,000 students from Grade 01 to Grade 11 across all 10,126 schools in the country, the statement said.
+
+The program is designed to annually award scholarships to one hundred thousand (100,000) students spanning from Grade 01 to Grade 11, covering all 10,126 schools in Sri Lanka while a total allocation of Rs. 3,600 million has been designated from the President’s Fund to sustain this initiative.
+
+...
+
+[Data](articles/de19d18a.json)
+
+[Extended Data](ext_articles/de19d18a.ext.json)
+
+---
 
 ### Woman dies in a terrible accident
 
@@ -356,21 +374,23 @@ A 2020 rematch between Trump and President Joe Biden is becoming increasingly in
 
 ---
 
-### “போருக்கு பிறகு இதுதான் நடக்கும்”
+### “This will happen after the war”
 
 *2024-02-25 13:58:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/போருக்கு-பிறகு-இதுதான்-நடக்கும்/50-333777) · `ta`
 
-ஹமாஸ் உடனான போர் நிறைவுற்ற பிந்தைய திட்டம் குறித்த விவரங்களை இஸ்ரேல் பிரதமர் பெஞ்சமின் நேதன்யாகு தெரிவித்துள்ளார். இது தொடர்பாக அந்நாட்டு பிரதமர் அலுவலகம் சார்பில் அறிக்கை வெளியிடப்பட்டுள்ளது. இதே விவரங்கள் அந்நாட்டு மந்திரிகளுக்கும் வழங்கப்பட்டுள்ளது.
+Israeli Prime Minister Benjamin Netanyahu has said that the post -war project with Hamas. A report has been issued on behalf of the Prime Minister's Office. The same details have been provided to the ministers.
 
-இந்த அறிக்கையில் போருக்கு பிறகு, காசாவை நிர்வகிப்பதில் இஸ்ரேல் பங்கு குறித்த திட்டங்கள் இடம்பெற்றுள்ளன. அதன்படி, “போர் நிறைவுற்று, இராணுவம் விலக்கப்பட்ட காசா முனையின் பாதுகாப்பு இஸ்ரேல் கட்டுப்பாட்டில் இருக்கும்.
+After the war, the Israeli role plans to manage Gaza after the war. Accordingly, “The war is over and the military will be under Israel's control of the Gaza Tip.
 
-பாதுகாப்பு அச்சுறுத்தல்களை முறியடிக்கும் வகையில், காசா முழுக்க இஸ்ரேல் இராணுவம் சுதந்திரமாக செயல்படும். காசாவிற்குள் பாதுகாப்பு மண்டலத்தை நிறுவப்படும். இதற்கு அமெரிக்கா எதிர்ப்பு தெரிவிக்கலாம்.
+The Israeli military will act independently of Gaza to defeat security threats. The safety zone will be installed within the Gaza. The US can protest this.
 
-பயங்கரவாதத்தை ஆதரிக்கும் நாடுகள், அமைப்புகளுடன் தொடர்பில் இல்லாத மற்றும் அவர்களிடம் நிதியுதவி பெறாத உள்ளூர் அதிகாரிகளால் காசா நிர்வாக பணிகள் மேற்கொள்ளப்படும்” என தெரிவிக்கப்பட்டுள்ளது.
+Countries that support terrorism will be carried out by local authorities who are not in touch with organizations and not funding them. ”
 
 ◼️
 
 [Data](articles/3fc2425a.json)
+
+[Extended Data](ext_articles/3fc2425a.ext.json)
 
 ---
 
@@ -2063,27 +2083,5 @@ The deceased, named Hettiarachchige Don Sujith alias “Ukkuwa”, was the broth
 [Data](articles/f91b3285.json)
 
 [Extended Data](ext_articles/f91b3285.ext.json)
-
----
-
-### Patali meet President
-
-*2024-02-24 22:28:52* · [`adalk`](https://www.ada.lk/picture_story/පාඨලී-ජනපති-හමුවෙයි/10-408255) · `si`
-
-The UNP presented the proposal to the country was presented to the country to the country by the United States's proposal by the United States's proposal to the country recently.
-
-The proposal was presented to the President of the United Kingdom of the UPFA MP Champika Ranawaka.
-
-President Ranil Wickremesinghe said that the government was prevented in the past two years to restore the country's collapse economy. The President pointed out that the government has taken the country's economy to the right road with the rehabilitation decision, he is his aim to implement it.
-
-The President whom he was always commemorating to all political parties to join the country without a political division, the President said he would not hesitate to join all other political parties and to join the country building program.
-
-Parliamentarian Patali Champika Ranawaka responded to other political parties to participate in other political parties next month with the International Monetary Fund for foreign debts.
-
-...
-
-[Data](articles/cfc06b0d.json)
-
-[Extended Data](ext_articles/cfc06b0d.ext.json)
 
 ---

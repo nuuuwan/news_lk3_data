@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 12:17:30**
+As of **2024-02-25 12:33:24**
 
 ## Newspaper Stats
 
-*Scraped **9,151** Articles*
+*Scraped **9,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 465
 dailyftlk | 483
 islandlk | 486
 adalk | 764
-adaderanalk | 1,102
+adaderanalk | 1,103
 tamilmirrorlk | 1,126
 virakesarilk | 1,245
 adaderanasinhalalk | 1,374
@@ -26,43 +26,65 @@ dailymirrorlk | 1,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,147 (100.0%) of 9,151 articles have been extended.
+9,151 (100.0%) of 9,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### தென்னகோனுக்கு பதவி நீடிப்பு
+### State Minister urges COPF to summon CBSL over controversial salary hikes
+
+*2024-02-25 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97515/state-minister-urges-copf-to-summon-cbsl-over-controversial-salary-hikes) · `en`
+
+State Minister of Finance Shehan Semasinghe has suggested that officials of the Central Bank of Sri Lanka (CBSL) be summoned before the parliamentary Committee on Public Finance (COPF), for clarifications pertaining to the recent increase in salaries of CBSL staff.
+
+Taking to ‘X’ (formerly Twitter), the State Minister said, “I suggest to the Committee on Public Finance, that it is appropriate to summon the Central Bank of Sri Lanka to the Committee and seek clarification on the recent controversy regarding salary increments”.
+
+Recent media reports revealed that the Central Bank had increased the salaries of its employees by 70% and the move was heavily criticized by parliamentarians of both the ruling party and the opposition.
+
+Thus, in light of the situation that stirred much controversy in the country, it was reported that CBSL officials have been summoned by several parliamentary committees.
+
+◼️
+
+[Data](articles/ed7dd70e.json)
+
+---
+
+### Establishment for Thenkon
 
 *2024-02-25 11:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோனுக்கு-பதவி-நீடிப்பு/175-333763) · `ta`
 
-பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனுக்கு மேலும் சேவை நீடிப்பு வழங்குவதற்கு அரசியலமைப்பு சபைக்கு முன்மொழிய ஜனாதிபதி தீர்மானித்துள்ளார்.
+In response, the President has decided to propose to the Constituent Assembly to provide further service to the Inspector General of Police Deshabandu.
 
-பதில்​ பொலிஸ் மா அதிபராக தேசபந்து தென்னகோன், 2013 நவம்பர் 29,  ஆம் திகதி நியமிக்கப்பட்டார்.
+In response, Deshabandu Tennakoon was appointed as the Inspector General of Police on November 29, 2013.
 
 ◼️
 
 [Data](articles/a4c3ba96.json)
 
+[Extended Data](ext_articles/a4c3ba96.ext.json)
+
 ---
 
-### புட்டின் அனைத்தையும் இழக்கவேண்டும்-  உக்ரைன் ஜனாதிபதி
+### Putin should lose everything- Ukrainian President
 
 *2024-02-25 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177239) · `ta`
 
-ரஸ்ய ஜனாதிபதி விளாடிமிர் புட்டின் அனைத்தையும் இழக்கவேண்டும் என உக்ரைன் ஜனாதிபதி வொளொடிமிர் ஜெலென்ஸ்கி தெரிவித்துள்ளார்.
+Ukrainian President Woodimir Jelensky has said that Russian President Vladimir Putin should lose everything.
 
-உக்ரைன் மீது ரஸ்யா படையெடுத்து இரண்டுவருடங்களாவதை குறிக்கும் நிகழ்வில் கலந்துகொள்வதற்காக உக்ரைன் தலைநகருக்கு சென்ற மேற்குலக தலைவர்களை வரவேற்று உரையாற்றும்போதே உக்ரைன் ஜனாதிபதி இதனை தெரிவித்துள்ளார்.
+The President of Ukrainian said this while addressing the Western leaders who went to the capital of Ukraine to attend the event that Russia invaded Ukraine and referred to for two years.
 
-உக்ரைன் தலைநகரை கைப்பற்றும் நோக்கத்துடன் ரஸ்யாவின் பரசூட் பிரிவினர் கைப்பற்றிய இந்த விமானநிலையத்தை பின்னர் உக்ரைன் படைப்பிரிவினர் கைப்பற்றினர்.
+The airport was later seized by Russia's Parasood faction with the aim of capturing the capital of Ukraine.
 
-இரண்டு வருடங்களின் பின்னர் இங்கு எதிரிகளின் துப்பாக்கி சூட்டினை சந்தி;த்தோம் தற்போது இரண்டு வருடங்களின் பின்னர்  நண்பர்களை சந்திக்கின்றோம் என உக்ரைன் ஜனாதிபதி தெரிவித்துள்ளார்.
+Two years later, we met with the enemy's firing here.
 
-எந்த மனிதனும் போர் முடிவிற்கு வரவேண்டும் என விரும்புவான் ஆனால் நாங்கள் எவரும் எங்கள் உக்ரைன் முடிவி;ற்கு வருவதை அனுமதிக்கமாட்டோம் எனவும் அவர் தெரிவித்துள்ளார்.
+He wants any man to come to the end of the war, but we will not allow none of us to come to our Ukraine.
 
 ◼️
 
 [Data](articles/de2fd6bc.json)
+
+[Extended Data](ext_articles/de2fd6bc.ext.json)
 
 ---
 
@@ -220,21 +242,23 @@ In addition, the police handed over the girl who went with the young man to thei
 
 ---
 
-### கடையை உடைத்த காதலன் கைது: கவலையுடன் காதலி
+### Lover arrested for breaking shop: girlfriend with worrying
 
 *2024-02-25 10:33:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/கடையை-உடைத்த-காதலன்-கைது-கவலையுடன்-காதலி/74-333756) · `ta`
 
-தனது காதலியுடன் விடுமுறையை கழிப்பதற்கு பதுளையில் இருந்து அம்பாறைக்கு வந்த இளைஞனொருவர் விடுதிக்கு செலுத்த பணம் இல்லாத காரணத்தினால் கடையொன்றில் 10,000 ரூபாய் பணத்தை திருடிச் சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say a youth who came to Amparai from Badulla to spend the holidays with his girlfriend had stolen Rs 10,000 in a shop as there was no money to pay for the hostel.
 
-அம்பாறை பஸ் நிலையத்தில் யுவதியை இருக்குமாறு தெரிவித்து  நகரின் பிரபல மொத்த விற்பனை நிறுவனத்திற்குள் நுழைந்த குறித்த இளைஞன் பணத்தை திருடி சென்றுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+It is reported that the young man who entered the city's popular wholesale company has stolen money at the Ampara bus station.
 
-அம்பாறை பொலிஸ் போக்குவரத்து பிரிவில் கடமையாற்றும் உத்தியோகத்தர் ஒருவருக்கு கிடைத்த தகவலின் அடிப்படையிலேயே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+The suspect has been arrested on the basis of information received by an officer working in the Ampara Police Transport Division.
 
-மேலும், இளைஞனுடன் சென்ற யுவதியை பெற்றோரிடம்  ஒப்படைத்த பொலிஸார், சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளதாக தெரிவித்துள்ளனர்.
+In addition, the police handed over the girl who went with the young man to their parents and said the suspect would be produced in court.
 
 ◼️
 
 [Data](articles/900b6ffa.json)
+
+[Extended Data](ext_articles/900b6ffa.ext.json)
 
 ---
 
@@ -623,6 +647,8 @@ Sri Lanka could get around 200 to 300 million US dollars a year at the lowest ra
 ...
 
 [Data](articles/dcf3a11a.json)
+
+[Extended Data](ext_articles/dcf3a11a.ext.json)
 
 ---
 
@@ -2015,29 +2041,5 @@ Addressing the gathering as the chief guest at the Navam Maha Perahara organized
 [Data](articles/629ad9f5.json)
 
 [Extended Data](ext_articles/629ad9f5.ext.json)
-
----
-
-### Fisheries community calls for struggle on Indo -Sri Lanka
-
-*2024-02-24 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177201) · `ta`
-
-The Jaffna District Rural Fisheries Organization has called for a black flag struggle against Indian drag boats on the Indo -Sri Lankan waters.
-
-The representative of the organization, Bhakiyanathan Regan, called on a media briefing held at their office in Jaffna on Saturday (24).
-
-When the Indian drag boats entered our waters and destroyed the entrepreneurship, the fishermen who were traveled by the Indian navy were seized by the Emata Navy.. Now the Indian government is putting pressure on our government to release the fishermen.
-
-How can we release those who destroyed our resources?They can be released only after they have been sentenced. Because our resources have been destroyed for many years.
-
-Those who have survived our resources and survivors ask their fishermen to release them when our government holds our government.
-
-Next week, our marine workers will hold a black flag struggle on the Sri Lankan -Indian waters.
-
-...
-
-[Data](articles/4fd120a7.json)
-
-[Extended Data](ext_articles/4fd120a7.ext.json)
 
 ---

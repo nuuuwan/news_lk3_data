@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 22:17:27**
+As of **2024-02-25 22:33:22**
 
 ## Newspaper Stats
 
-*Scraped **9,221** Articles*
+*Scraped **9,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 465
 dailyftlk | 483
 islandlk | 486
-adalk | 775
+adalk | 776
 adaderanalk | 1,114
 tamilmirrorlk | 1,135
 virakesarilk | 1,250
@@ -26,29 +26,45 @@ adaderanasinhalalk | 1,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,220 (100.0%) of 9,221 articles have been extended.
+9,221 (100.0%) of 9,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### ලස්සන වෙන්න මෙහෙම කළොත් උරුමය මරණයයි
+### If you do this to be beautiful, the inheritance is death
 
 *2024-02-25 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193818) · `si`
 
-පුහුණු වෛද්‍යවරයෙකුගේ මැදිහත්වීමකින් තොරව ප්ලාස්ටික් සැත්කම් සිදුකිරීමෙන් ජීවිත අවදානමකට පවා ලක්විය හැකි බව ප්ලාස්ටික් සැත්කම් පිළිබඳ වෛද්‍යවරුන්ගේ සංගමය පවසයි.
+The doctors' association of plastic surgery says that plastic surgeries may even risk the plastic surgery without the intervention of a skilled doctor.
 
-අද (25) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඔවුන් අනාවරණ කළේ එවැනි සුදුසුකම් නොමැති වෛද්‍යවරුන් රැසක් ක්ෂේත්‍රය තුළ කටයුතු කරමින් සිටින බවය.
+At a press conference held today (25), they were disclosed in the field of doctors without such qualifications.
 
-නිසි සුදුසුකම් නැති වෛද්‍යවරුන් ප්ලාස්ටික් සැත්කම් සිදුකිරීමේදී මතුවන අවධානම සම්බන්ධයෙන් ජනතාව දැනුවත් කිරීම සඳහා එම සංගමයේ විශේෂඥ වෛද්‍යවරුන් පිරිසක් අද ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවා තිබුණි.
+A group of experts had convened a press conference to educate the public about the risk of doctors who are not eligible to make the risk of plastic surgery.
 
-මේ අතර පසුගියදා මහනුවර පෞද්ගලික රෝහලකදී සිදුකළ උදරයේ තැන්පත්ව තිබූ ලීටර 13.5 ක මේදය ඉවත්කිරීමේ සැත්කමද රෝගී ජීවිත අවදානමක් සහිත සැත්කමක් බව එහිදී වෛද්‍යවරුන් අනාවරණ කළේය.
+Meanwhile, doctors revealed that the loss of 13.5 liters of the abduction of 13.5 liters of the abdomen in Kandy recently.
 
-එහිදී අදහස් දැක්වූ එම සංගමයේ විශේෂඥ වෛද්‍ය අමිල ශසංක රත්නායක මහතා,
+Specialist Dr. Amila Sasanka Ratnage, speaking at the occasion,
 
 ...
 
 [Data](articles/c5aca1b0.json)
+
+[Extended Data](ext_articles/c5aca1b0.ext.json)
+
+---
+
+### සජ‌බේ රජයක තනතුරු දෙන්නේ සුර සැප විදින්න නෙමෙයි
+
+*2024-02-25 21:17:23* · [`adalk`](https://www.ada.lk/breaking_news/සජ‌බේ-රජයක-තනතුරු-දෙන්නේ-සුර-සැප-විදින්න-නෙමෙයි/11-408270) · `si`
+
+සමගි ජන බලවේගය ප්‍රතිචාර දක්වන්නේ වෙනත් දේශපාලන පක්ෂ ඉදිරිපත් කරන කරුණු කාරණාවලට නොව රට බංකොලොත් වීමත් සමඟ මෙරට කාන්තාවන් ප්‍රමුඛ ජන සමාජයේ සෙසු පාර්ශ්වයන්ට මුහුණ දීමට සිදුවන බරපතල ඛේදනීය තත්ත්වයට උත්තර සහ විසඳුම ලබා දීම සදහා බවත් බොහෝ දෙනකුට කාන්තාව අමතක වී ඇති මොහොතක කාන්තා ප්‍රඥප්තියක් සකස් කිරිමට යොමු වූයේ අද ඊයේ නොව 2019 වසරේ බවත් මේ එහි දිගුවක් බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+මේ අවස්ථාවේ රටේ ඇති ලොකුම අභියෝගය වන්නේ දුප්පත්කම තුරන් කර ආර්ථික වර්ධන වේගය වැඩි කිරීමත් තොරතුරු තාක්ෂණය සිහිනයක් නොව යථාර්ථයක් කරන්නේ කෙසේද යන්න මිස දේශපාලන පක්ෂ නොවන බවත් ආර්ථික වර්ධනය සැමට ප්‍රතිලාභ ලැබෙන ආකාරයට බෙදී යන ආකාරයට ක්‍රියාත්මක කිරීම අභියෝගයක් බවත් අනෙකුත් පක්ෂවල අභියෝග තැකීමකට ලක් නොවන බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+...
+
+[Data](articles/af487209.json)
 
 ---
 
@@ -2097,33 +2113,5 @@ The fire was put out by 6:00 a.m. (2200 GMT Thursday) and the search and rescue 
 [Data](articles/96167940.json)
 
 [Extended Data](ext_articles/96167940.ext.json)
-
----
-
-### Rapid decline in dengue patients
-
-*2024-02-25 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193792) · `si`
-
-The National Dengue Control Unit says that the number of dengue patients reported in February relative to January.
-
-However, 5 dengue deaths have been reported during the period of time.
-
-By January, more than 24 dengue emergence zones were down to 24.
-
-Accordingly, the number of dengue patients is 5,181 in February.
-
-But in January, 10,417 dengue patients were identified in January, which was a high number of dengue in January last year.
-
-Accordingly, 15,598 dengue patronage has been identified in this year.
-
-The highest number of patients have been identified from the Colombo District in February, one of the number is 3,359.
-
-3,245 dengue patients have been identified from the Jaffna district and 1,324 patients and 1,052 patients have been identified from the Kandy district.
-
-◼️
-
-[Data](articles/c544a0e3.json)
-
-[Extended Data](ext_articles/c544a0e3.ext.json)
 
 ---

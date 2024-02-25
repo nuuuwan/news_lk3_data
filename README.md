@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 02:02:50**
+As of **2024-02-26 02:17:17**
 
 ## Newspaper Stats
 
-*Scraped **9,236** Articles*
+*Scraped **9,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 111
 dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 467
-dailyftlk | 484
 islandlk | 486
+dailyftlk | 487
 adalk | 776
 adaderanalk | 1,118
 tamilmirrorlk | 1,135
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,234 (100.0%) of 9,236 articles have been extended.
+9,236 (100.0%) of 9,239 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,58 @@ This perception of ‘legalized robbery’ is gaining momentum among the general
 ...
 
 [Data](articles/8d7c4779.json)
+
+[Extended Data](ext_articles/8d7c4779.ext.json)
+
+---
+
+### Shamil Mendis appointed to Overseas Realty (Ceylon) Board
+
+*2024-02-26 01:20:51* · [`dailyftlk`](https://www.ft.lk/business/Shamil-Mendis-appointed-to-Overseas-Realty-Ceylon-Board/34-758826) · `en`
+
+Overseas Realty Ceylon PLC has announced the appointment of Shamil Mendis as an Independent Director to its Board of Directors.
+
+In compliance with the CSE new listing rules on independent directors, the Company also announced the retirement of Rohini Nanayakkara, the veteran banker who had served on the Board for over 20 years.
+
+Mendis is the Chairman/Managing Director of Spear Global Holdings Ltd., which is engaged in the export of coir substrates, value added coir/coconut fiber products, food ingredients and spices. These products are exported to over 33 countries worldwide.
+
+Mendis was the Deputy Chairman and Group Director of the Delmege Forsyth Group from 1982 – 2011 and was responsible for the growth of diverse businesses ranging from a variety of businesses in Imports, Exports, Shipping, Airlines, Logistics, and Insurance.
+
+...
+
+[Data](articles/6da5d1ca.json)
+
+---
+
+### SriLankan Airlines clarifies delays
+
+*2024-02-26 01:18:47* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Airlines-clarifies-delays/34-758825) · `en`
+
+SriLankan Airlines yesterday clarified that the delays experienced by its passengers at the check-in counters in Bandaranaike International Airport during the early hours of Sunday, were caused by temporary, unplanned operational conditions at the airport and not due to any type of trade union action.
+
+“The check-in counter operations have been stabilised and returned to normal as of now. SriLankan Airlines would like to apologise to any passengers inconvenienced by these operational delays, while the airline continues to monitor the situation and take steps to avoid a recurrence,” the carrier said in a statement.
+
+In a related development, the Ministry of Ports, Shipping and Aviation said SriLankan Airlines scheduled to fly from Katunayake to European, Asian and Middle Eastern countries on 24.02.2024 and 25.02.2024 have been delayed for more than 8 hours. The Ministry said it will hold a media conference on the same today.
+
+◼️
+
+[Data](articles/d0b06622.json)
+
+---
+
+### AMW appoints Andre Bonthuys as new Group Managing Director, pledging revitalisation and growth
+
+*2024-02-26 01:17:47* · [`dailyftlk`](https://www.ft.lk/business/AMW-appoints-Andre-Bonthuys-as-new-Group-Managing-Director-pledging-revitalisation-and-growth/34-758824) · `en`
+
+Associated Motorways Ltd. (AMW), a key player in Sri Lanka’s automotive industry, has announced Andre Bonthuys as its new Group Managing Director.
+
+Established in 1949, AMW initially focused on tire manufacturing, re-treading, and exports. Over 75 years, it has expanded into automotive sales and services, lubricants, batteries, tires, and financial services. AMW represents renowned international brands such as Nissan, Yamaha, Suzuki, Renault, and Castrol.
+
+AMW is known for its innovation and commitment to quality, catering to its loyal customers’ needs. Since July 2008, AMW has been part of Al-Futtaim Engineering (AFE), a subsidiary of the UAE-based multinational conglomerate Al-Futtaim Group. Al-Futtaim Group has interests in various sectors globally, including automotive, electronics, insurance, real estate, and retail, highlighting its integrated commercial and industrial approach.
+
+...
+
+[Data](articles/f7136e96.json)
 
 ---
 
@@ -481,6 +533,8 @@ In April 2022, Sri Lanka announced that it will not honour the debt servicing ob
 ...
 
 [Data](articles/0028eb3a.json)
+
+[Extended Data](ext_articles/0028eb3a.ext.json)
 
 ---
 
@@ -2041,67 +2095,5 @@ SriLankan Airlines extends apologies to any inconvenienced passengers and assure
 [Data](articles/2220e152.json)
 
 [Extended Data](ext_articles/2220e152.ext.json)
-
----
-
-### Disturbing Echoes Of The Last Phase Of The Civil War In Sri Lanka & The Treatment Of Palestinians Under Zionist Occupation – Part II
-
-*2024-02-25 10:01:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/disturbing-echoes-of-the-last-phase-of-the-civil-war-in-sri-lanka-the-treatment-of-palestinians-under-zionist-occupation-part-ii/) · `en`
-
-Faced with a growing body of evidence of mass killings of civilians, the Lankan and the Israeli governments, as mentioned have fallen back on demonising the colonised . Professor Tony Taylor has discussed this historical and political trend in the discussion of the Armenian Genocide, the denial of the methodical killing of the Jews in Europe by the Nazis and their collaborators (6 million died out of out of 9 million in the occupied territories), the stubborn denial of successive Japanese governments of the Japanese role in the massacres of indigenous populations  in China and Korea, the denial of atrocities committed by Stalinists in the USSR, Serbian and Croatian atrocities during the breakup of Yugoslavia, and a reluctance by Australians (only now changing) to acknowledge the massacres of Aboriginal people by colonial occupiers[1].
-
-...
-
-[Data](articles/b5390f64.json)
-
-[Extended Data](ext_articles/b5390f64.ext.json)
-
----
-
-### Two suspects arrested
-
-*2024-02-25 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193797) · `si`
-
-Two suspects have been arrested for assistance to the crime of the site at the main entrance of the Modara Police Division.
-
-One suspect was arrested and produced before the Modara Police Station at the Colombo Nutuity Divisional Secretariat Division yesterday morning.
-
-The suspect is a 36 year old resident of Kotahena.
-
-The suspect was produced before the Hulftsdathi Magistrates at the Magistrate yesterday.
-
-Another suspect who supported the shooting was custody in the evening yesterday evening.
-
-Police have found 10 Ice drug 10 and 875 milligrams in possession of the suspect.
-
-The police also recovered the three-wheeler arrived in the suspects and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/40b6cb21.json)
-
-[Extended Data](ext_articles/40b6cb21.ext.json)
-
----
-
-### Sri Lanka - Morning Information
-
-*2024-02-25 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177225) · `ta`
-
-Morning reports that the Sri Lankan navy ship, which was very secretly sent to patrols to the Red Sea, is returning to Sri Lanka by completing its joint patrols.
-
-Navy spokesman Gayan Wickremasuriya has said that the Sri Lankan navy ship was shipped to the Publ Mantep Strait and said that Sri Lanka is returning to Sri Lanka after completing any problems.
-
-Morning said that the Navy did not publish further information due to the secret of the dangerous action launched by the Sri Lankan navy after the war with the Liberation Tigers.
-
-The Sri Lankan navy has not informed any of the Sri Lankan navy again.
-
-Morning said that the Sri Lankan navy sent its ship and when the ship completed its patrols.
-
-◼️
-
-[Data](articles/7e252d25.json)
-
-[Extended Data](ext_articles/7e252d25.ext.json)
 
 ---

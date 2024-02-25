@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 12:02:42**
+As of **2024-02-25 12:17:30**
 
 ## Newspaper Stats
 
-*Scraped **9,147** Articles*
+*Scraped **9,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 92
 bbccomsinhala | 111
 dbsjeyarajcom | 162
 newsfirstlk | 363
-economynextcom | 464
+economynextcom | 465
 dailyftlk | 483
 islandlk | 486
 adalk | 764
 adaderanalk | 1,102
-tamilmirrorlk | 1,124
-virakesarilk | 1,244
+tamilmirrorlk | 1,126
+virakesarilk | 1,245
 adaderanasinhalalk | 1,374
 dailymirrorlk | 1,378
 
@@ -26,11 +26,45 @@ dailymirrorlk | 1,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,147 (100.0%) of 9,147 articles have been extended.
+9,147 (100.0%) of 9,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### தென்னகோனுக்கு பதவி நீடிப்பு
+
+*2024-02-25 11:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோனுக்கு-பதவி-நீடிப்பு/175-333763) · `ta`
+
+பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனுக்கு மேலும் சேவை நீடிப்பு வழங்குவதற்கு அரசியலமைப்பு சபைக்கு முன்மொழிய ஜனாதிபதி தீர்மானித்துள்ளார்.
+
+பதில்​ பொலிஸ் மா அதிபராக தேசபந்து தென்னகோன், 2013 நவம்பர் 29,  ஆம் திகதி நியமிக்கப்பட்டார்.
+
+◼️
+
+[Data](articles/a4c3ba96.json)
+
+---
+
+### புட்டின் அனைத்தையும் இழக்கவேண்டும்-  உக்ரைன் ஜனாதிபதி
+
+*2024-02-25 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177239) · `ta`
+
+ரஸ்ய ஜனாதிபதி விளாடிமிர் புட்டின் அனைத்தையும் இழக்கவேண்டும் என உக்ரைன் ஜனாதிபதி வொளொடிமிர் ஜெலென்ஸ்கி தெரிவித்துள்ளார்.
+
+உக்ரைன் மீது ரஸ்யா படையெடுத்து இரண்டுவருடங்களாவதை குறிக்கும் நிகழ்வில் கலந்துகொள்வதற்காக உக்ரைன் தலைநகருக்கு சென்ற மேற்குலக தலைவர்களை வரவேற்று உரையாற்றும்போதே உக்ரைன் ஜனாதிபதி இதனை தெரிவித்துள்ளார்.
+
+உக்ரைன் தலைநகரை கைப்பற்றும் நோக்கத்துடன் ரஸ்யாவின் பரசூட் பிரிவினர் கைப்பற்றிய இந்த விமானநிலையத்தை பின்னர் உக்ரைன் படைப்பிரிவினர் கைப்பற்றினர்.
+
+இரண்டு வருடங்களின் பின்னர் இங்கு எதிரிகளின் துப்பாக்கி சூட்டினை சந்தி;த்தோம் தற்போது இரண்டு வருடங்களின் பின்னர்  நண்பர்களை சந்திக்கின்றோம் என உக்ரைன் ஜனாதிபதி தெரிவித்துள்ளார்.
+
+எந்த மனிதனும் போர் முடிவிற்கு வரவேண்டும் என விரும்புவான் ஆனால் நாங்கள் எவரும் எங்கள் உக்ரைன் முடிவி;ற்கு வருவதை அனுமதிக்கமாட்டோம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/de2fd6bc.json)
+
+---
 
 ### Father killed in son's ax attack
 
@@ -183,6 +217,24 @@ In addition, the police handed over the girl who went with the young man to thei
 [Data](articles/13f0d369.json)
 
 [Extended Data](ext_articles/13f0d369.ext.json)
+
+---
+
+### கடையை உடைத்த காதலன் கைது: கவலையுடன் காதலி
+
+*2024-02-25 10:33:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/கடையை-உடைத்த-காதலன்-கைது-கவலையுடன்-காதலி/74-333756) · `ta`
+
+தனது காதலியுடன் விடுமுறையை கழிப்பதற்கு பதுளையில் இருந்து அம்பாறைக்கு வந்த இளைஞனொருவர் விடுதிக்கு செலுத்த பணம் இல்லாத காரணத்தினால் கடையொன்றில் 10,000 ரூபாய் பணத்தை திருடிச் சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+அம்பாறை பஸ் நிலையத்தில் யுவதியை இருக்குமாறு தெரிவித்து  நகரின் பிரபல மொத்த விற்பனை நிறுவனத்திற்குள் நுழைந்த குறித்த இளைஞன் பணத்தை திருடி சென்றுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அம்பாறை பொலிஸ் போக்குவரத்து பிரிவில் கடமையாற்றும் உத்தியோகத்தர் ஒருவருக்கு கிடைத்த தகவலின் அடிப்படையிலேயே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+மேலும், இளைஞனுடன் சென்ற யுவதியை பெற்றோரிடம்  ஒப்படைத்த பொலிஸார், சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/900b6ffa.json)
 
 ---
 
@@ -549,6 +601,28 @@ Anuradha Jayaratne, State Minister of Justice, Prison Hon.. N. Mr. Ranasinghe, B
 [Data](articles/f6205e7f.json)
 
 [Extended Data](ext_articles/f6205e7f.ext.json)
+
+---
+
+### Sri Lanka could get US$500mn from ADB in 2024
+
+*2024-02-25 08:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-could-get-us500mn-from-adb-in-2024-152051/) · `en`
+
+ECONOMYNEXT – Sri Lanka could receive 500 million US dollars in support from the Asian Development Bank in 2024 based on the progress of policy reforms, Country Director of the Manila-based lender, Takafumi Kadono said.
+
+The ADB expect to go to its Board around March or April with a 100 million US dollar power sector loan subject to the cabinet of ministers of approving a revised electricity reform bill.
+
+A 100 million dollar loan to support SMEs could also be approved in the early part of the year. Sri Lanka is setting up a credit guarantee agency to support credit for small firms.
+
+A 200 million dollar credit for financial sector was also slated for the year. The ADB gave the first tranche of the financial sector policy loan late last year.
+
+A $100mn for the water sector could also be approved later in the year.
+
+Sri Lanka could get around 200 to 300 million US dollars a year at the lowest rate, or concessional ordinary capital resources (COL) rate of 2 percent.
+
+...
+
+[Data](articles/dcf3a11a.json)
 
 ---
 
@@ -1965,85 +2039,5 @@ Next week, our marine workers will hold a black flag struggle on the Sri Lankan 
 [Data](articles/4fd120a7.json)
 
 [Extended Data](ext_articles/4fd120a7.ext.json)
-
----
-
-### Two Sri Lankans deported China
-
-*2024-02-24 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193769) · `si`
-
-Two Sri Lankans arrested in China have been deported in China after attempting to hide in a container box and attempted to flee to Malaysia.
-
-They had sent to the Katunayake airport this morning (24). Ada Derana reporter said.
-
-The two suspects were hidden in an empty container that was placed on a ship's ship.
-
-They are the 26-year-old Madi Rajitha and 39-year-old Jayakumar Tirasa.
-
-The two persons have entered into a vacant container to Malaysia on the 30th of January 2023.
-
-However, when the ship arrives in Malaysia, the ship was finalized to China, as the suspects were taken to the suspects.
-
-After the two suspects were taken to deport the latter, 5:30 am from Shanghai from Shanghai from Shanghai to Katunayake airport.
-
-They were arrested by the Katunayake Airport Criminal Investigation Department, Katunayake Airport Criminal Investigation Division, the main office of the Katunayake Airport and Raffick Investigation Division.
-
-◼️
-
-[Data](articles/b2e4ddd0.json)
-
-[Extended Data](ext_articles/b2e4ddd0.ext.json)
-
----
-
-### The President inaugurated the 45th Navam Maha Perahara
-
-*2024-02-24 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177177) · `ta`
-
-President Ranil Wickremesinghe inaugurated the 45th Navam Maha Perahara of the Gangarama Viharaya of Hunupitiya, Colombo on Friday (23).
-
-◼️
-
-[Data](articles/fbf14f84.json)
-
-[Extended Data](ext_articles/fbf14f84.ext.json)
-
----
-
-### STF arrests Army Corporal over Mahabage shooting
-
-*2024-02-24 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-arrests-Army-Corporal-over-Mahabage-shooting/108-277652) · `en`
-
-Ampara, Feb 24 (Daily Mirror) - The Police Special Task Force arrested a key suspect linked to the shooting incident at Mahabage on Thursday.
-
-The suspect, identified as a Corporal in the Sri Lanka Army serving with the 4th Gamunu Hewa Battalion in Chenkaladi camp, attempted to flee when the STF moved to arrest him.
-
-Later, army intelligence officers detained the suspect in the Ampara area.
-
-He was wanted over the shooting incident on Thursday in which 'Ukkua,' an associate of 'Welle Saranga' engaged in organised crimes, was killed.
-
-◼️
-
-[Data](articles/58dbeb1b.json)
-
-[Extended Data](ext_articles/58dbeb1b.ext.json)
-
----
-
-### Over 10 lakh power lines disconnect last year!
-
-*2024-02-24 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177186) · `ta`
-
-Chairman of the Department of Department of Supervisor Gamini Valaboda said that 10,69,000 people were cut off last year across the country.
-
-In this case, departmental authorities have been urged to reduce the fee to the re -connection to the disconnected connections by 50 per cent and allow the outstanding fee to be paid.
-
-He has also been advised to create a mechanism for providing new connections on the basis of credit and to pay the full connection fee with electricity bills.
-
-◼️
-
-[Data](articles/a05dfea7.json)
-
-[Extended Data](ext_articles/a05dfea7.ext.json)
 
 ---

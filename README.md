@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 03:17:22**
+As of **2024-02-26 03:33:20**
 
 ## Newspaper Stats
 
@@ -26,39 +26,43 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,244 (100.0%) of 9,246 articles have been extended.
+9,246 (100.0%) of 9,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### வவுனியா புதிய பேரூந்து நிலையம் அருகில் நிறுத்தி வைக்கப்பட்ட மோட்டர் சைக்கிள் திருட்டு
+### Motor Cycle theft near the new bus station in Vavuniya
 
 *2024-02-26 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/177286) · `ta`
 
-வவுனியா, புதிய பேரூந்து நிலையம் முன்பாக நிறுத்தி வைக்கப்பட்டிருந்த மோட்டர் சைக்கிள் ஒன்று திருடப்பட்டுள்ளதாக வவுனியா பொலிசார்தெரிவித்தனர்.
+Vavuniya police have reported that a motorcycle that was parked in front of the new bus station in Vavuniya has been stolen.
 
-வவுனியா, புதிய பேரூந்து நிலையம் அருகில் மோட்டர் சைக்கிள் ஒன்றை இரவு நிறுத்திவிட்டு கொழும்பு பயணித்த ஒருவர் மறுநாள் பகல் வந்து பார்த்த போது அவரது மோட்டர் சைக்கிள் விட்ட இடத்தில் காணப்படவில்லை. அப் பகுதியில் தேடிய போதும் மோட்டர் சைக்கிள் கிடைக்காத நிலையில் வவுனியா பொலிஸ் நிலையத்தில் பாதிக்கப்பட்டவர் முறைப்பாடு செய்துள்ளார். முறைப்பாடு தொடர்பில் வவுனியா பொலிசார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+A motorcycle parked near the new bus station in Vavuniya at night and a traveler who was traveling in Colombo daylight came to his motorcycle.. The victim has lodged a complaint at the Vavuniya Police Station as the motorcycle was not available. Vavuniya police are conducting investigations into the complaint.
 
-இதேவேளை, மோட்டர் சைக்கிள்களை பொது இடங்களில், வீதியோரங்களில் நிறுத்தி விட்டு தூர பயணங்களை மேற்கொள்ளாது அதனை பாதுகாப்பான இடத்தில் நிறுத்தி விட்டு செல்லுமாறு வவுனியா பொலிசார் பொதுமக்களுக்கு அறிவுறுத்தியுள்ளனர்.
+Meanwhile, the Vavuniya police have advised the public to stop motorcycles in public places, on the streets and leave it.
 
 ◼️
 
 [Data](articles/60a56859.json)
 
+[Extended Data](ext_articles/60a56859.ext.json)
+
 ---
 
-### ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் முன்னாள் நாடாளுமன்ற உறுப்பினர் சந்திரகுமாருக்கும் இடையில் சந்திப்பு
+### President Ranil Wickremesinghe and former MP Chandrakumar meet
 
 *2024-02-26 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/177285) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவை முன்னாள் நாடாளுமன்ற உறுப்பினரும், சமத்துவக் கட்சியின் பொதுச் செயலாளருமான மு.சந்திரகுமார் மற்றும் சமத்துவக் கட்சியின் தலைவர் சு.மனோகரன் ஆகியோர்  சனிக்கிழமை (24) கொழும்பில் சந்தித்துக் கலந்துரையாடியுள்ளனர்.
+President Ranil Wickremesinghe, former MP and General Secretary of the Equality Party, and Samajwadi Party leader Su Manoharan met in Colombo on Saturday (24).
 
-சனிக்கிழமை (24) காலை இடம்பெற்ற இச் சந்திப்பின் போது கிளிநொச்சி மாவட்டம் உட்பட வடக்கின் தற்போதைய அரசியல் பொருளாதார நிலைமைகள், பிரதேச அபிவிருத்தி பற்றிப் பேசப்பட்டதோடு, எதிர்கால அரசியல் செயற்பாடுகள் பற்றியும் கலந்துரையாடப்பட்டதாக  முன்னாள் நாடாளுமன்ற உறுப்பினர் மு. சந்திரகுமார் தெரிவித்துள்ளார்.
+During the meeting, which was held on Saturday morning (24), the former parliamentarian was discussed on the current political economic conditions of the North, including the Kilinochchi district, and the future political activities of the country.. Chandrakumar said.
 
 ◼️
 
 [Data](articles/b9afed19.json)
+
+[Extended Data](ext_articles/b9afed19.ext.json)
 
 ---
 

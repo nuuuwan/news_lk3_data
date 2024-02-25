@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 18:50:10**
+As of **2024-02-25 19:02:31**
 
 ## Newspaper Stats
 
-*Scraped **9,203** Articles*
+*Scraped **9,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 1,112
 tamilmirrorlk | 1,133
 virakesarilk | 1,247
 dailymirrorlk | 1,384
-adaderanasinhalalk | 1,388
+adaderanasinhalalk | 1,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,203 (100.0%) of 9,203 articles have been extended.
+9,203 (100.0%) of 9,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### අයිෆල් කුලුන ගැන අලුත් ආරංචියක්
+
+*2024-02-25 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193815) · `si`
+
+දින හයක සේවක වැඩ වර්ජනයෙන් අනතුරුව ප්‍රංශයේ පැරිස් අගනුවර පිහිටි ලෝ ප්‍රකට අයිෆල් කුලුන නරඹන්නන් සඳහා යළි විවෘත කර තිබේ.
+
+කළමනාකාරීත්වය සමග ඇතිවූ ගැටලුකාරී තත්ත්වයක් හේතුවෙන් පසුගිය සඳුදා දිනයේ අයිෆල් කුලුන ආශ්‍රිතව සේවයේ නිරත වූ සේවකයින් වැඩ වර්ජනයක් ආරම්භ කර තිබුණි.
+
+මේ හේතුවෙන් කුලුන නැරඹීම සඳහා අවස්ථාව හිමි නොවූ අතර දින 06කට පසු එය අද දිනයේ සිට යළි විවෘත කර ඇති බවයි විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+සේවක වර්ජන හේතුවෙන් මාස 03ක් වැනි කෙටි කාලයක් තුළ අයිෆල් කුලුන නරඹන්නන් සඳහා වසා තැබුණු දෙවන අවස්ථාව මෙයයි.
+
+◼️
+
+[Data](articles/10143b85.json)
+
+---
+
+### ආශිර්වාද ගන්න මෝදි කිමිදෙයි
+
+*2024-02-25 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193814) · `si`
+
+අරාබි මුහුදේ ගුජරාට් වෙරළට ඔබ්බෙන් දිය යට පිහිටි පුරාණ ද්වාර්කා කෝවිලේ ක්‍රිෂ්ණ දෙවියන් වෙනුවෙන් සිදුකළ පූජාවකට ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි අද (25) සහභාගි වී තිබුණි.
+
+ප්‍රසිද්ධ පුරාණ ද්වාර්කා කොවිල කලකට පෙර සශ්‍රීක නගරයක් වූ අතර එය සියවස් ගණනාවකට පෙර දී මුහුදට යට වී ඇතැයි විශ්වාස කෙරේ.
+
+ඉන්දීය මාධ්‍ය සඳහන් කර ඇත්තේ පුරාණ ද්වාර්කා කෝවිලේ නටබුන් පුරාවිද්‍යාඥයින් විසින් කැණීම් කර ඇති අතර දිය යටදී එය දැකගත හැකි බවය.
+
+අගමැති මෝදි ද කිමිදුම් ඇඳුමින් සැරසී එම පූජාව පැවැත් වූ ආකාරය දැක්වෙන වීඩියෝපට සමාජ මාධ්‍ය පුරා පැතිරී ගිය බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+ක්‍රිෂ්ණ දෙවියන්ට සංකේතාත්මක උපහාරයක් ලෙස මොණර පිහාටු රැගෙන අගමැති මෝදි ද පුරාණ කෝවිල සහිත නගරය වැඳපුදා ගත් බව ඉන්දීය මාධ්‍ය වාර්තාකරයි.
+
+අග්‍රාමාත්‍යවරයා සිය අත්දැකීම සම්බන්ධයෙන් සිය X ගිණුමේ සටහනක් ද තබා තිබේ.
+
+ඔහු පවසා ඇත්තේ ජලයේ ගිලී ඇති පුරාණ ද්වාර්කා කොවිල යාඥා කිරීම දිව්‍යමය අත්දැකීමක් වූ බවය.
+
+...
+
+[Data](articles/4df4bc8b.json)
+
+---
 
 ### The salary was increased with the approval of the Board of Executive;Ready to clarify to MPs - Central Bank
 
@@ -2053,45 +2095,5 @@ This in turn has led to an unprecedented situation where  two members of the ITA
 [Data](articles/751698bc.json)
 
 [Extended Data](ext_articles/751698bc.ext.json)
-
----
-
-### Relatives of  victims  of Sri Lanka’s Grisly Violence  Unlikely to  find closure until justice is served and those whose hands are bloodstained are held accountable for their actions.
-
-*2024-02-25 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83683) · `en`
-
-They lie buried in numerous mass graves, all evidence of Sri Lanka’s murderous recent past which has been punctuated by multiple civil conflicts.
-
-Whatever remains is evidence of Sri Lanka’s grisly history of the extrajudicial executions of rebels in both Northern and Southern insurrections.
-
-Most of the bodies remain in mass graves that stretch from Chemmani and Duraiappah Stadium in  Jaffna to burial sites in the Colombo and Matale Districts and the Southern and Central Provinces.
-
-The dead could be anyone; captured rebels, those caught in crossfires and others who were deemed to be “inconvenient,” according to a report titled ‘Gotabaya Rajapaksa’s War Time Role’ released by the International Truth and Justice Project (ITJP) on 17 January 2024.
-
-Sri Lanka’s recent blood-soaked history is replete with mass killings and many “disappearances” from the various incidents during the insurgencies of the JVP as well as the Tamil separatist war.
-
-...
-
-[Data](articles/d1aae8b4.json)
-
-[Extended Data](ext_articles/d1aae8b4.ext.json)
-
----
-
-### Disregarding Court ruling on Bills has ominous consequences given that the Sri Lankan judiciary lacks the power to review enacted law.
-
-*2024-02-25 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83680) · `en`
-
-As much as lawyers, activists and civic conscious citizens, South Asia’s judges seem to be fighting with their backs proverbially against the wall in these extraordinarily fraught times.
-
-At a forum of constitutional lawyers in Katmandu last week, a Nepali legal practitioner confessed deep standing concerns regarding executive interference into the judiciary. This was in a backdrop where the Supreme Court had been left with an acting Chief Justice for more than fifteen months last year at a time when key public interest litigation was pending.
-
-Earlier, an unprecedented crisis had gripped the Court when judges and lawyers demanded the resignation of the Chief Justice for having ‘a close relationship’ with the executive. “The judicial institution does not recover from such a crisis quickly’ he told me. ‘Even when we have positive responses in some cases, we are concerned about systemic independence. There is a long way more to go.’
-
-...
-
-[Data](articles/5c2cf304.json)
-
-[Extended Data](ext_articles/5c2cf304.ext.json)
 
 ---

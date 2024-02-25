@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 15:50:30**
+As of **2024-02-25 16:02:36**
 
 ## Newspaper Stats
 
@@ -26,43 +26,47 @@ dailymirrorlk | 1,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,182 (99.9%) of 9,187 articles have been extended.
+9,187 (100.0%) of 9,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### குருநாகல் வைத்தியசாலையில் திடீரென அதிகரித்த மரணங்கள்
+### Increased deaths at Kurunegala Hospital
 
 *2024-02-25 15:11:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/குருநாகல்-வைத்தியசாலையில்-திடீரென-அதிகரித்த-மரணங்கள்/94-333784) · `ta`
 
-குருநாகல் போதனா வைத்தியசாலையில் சிறுநீரக நோயாளர்களுக்கான டயாலிசிஸ் பிரிவிற்குள் கிருமிகள் பரவி நோயாளர்கள் பலியாகியுள்ளமையை கருத்திற்கொண்டு அந்த பிரிவை தற்காலிகமாக மூடுவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+Steps have been taken to temporarily close the section, considering the spread of germs into the dialysis unit for kidney patients at the Kurunegala Teaching Hospital.
 
-இதற்கான காரணம் இதுவரை வெளிவராத நிலையில் சுகாதார அமைச்சு இது தொடர்பில் விசாரணைகளை ஆரம்பித்துள்ளது.
+The reason for this is that the Ministry of Health has launched an investigation into the matter.
 
-சுமார் ஒரு வாரமாக இரத்தம் ஏற்றுவதற்காக அனுமதிக்கப்பட்ட நோயாளிகள் இறக்கத் தொடங்கியுள்ளனர், இதுவரை ஐந்துக்கும் மேற்பட்ட நோயாளிகள் இரத்தம் ஏற்றும் செயல்முறையின் போது இறந்துள்ளனர்.
+Patients who have been allowed to bleed for about a week have begun to die, and more than five patients have died during the bleeding process.
 
-இரத்தம் ஏற்றிய பின்பும் ரத்த அளவு குறைந்ததால் இந்த மரணங்கள் ஏற்பட்டதாக கூறப்படுகிறது.
+These deaths are said to have caused the blood level after the blood.
 
-இச்சம்பவம் தொடர்பில் ஆராய்வதற்காக சுகாதார அமைச்சின் அதிகாரிகள் குழுவொன்று இன்று (24) குருநாகலுக்கு விஜயம் செய்யவுள்ளது. R
+A team of Health Ministry officials will visit Kurunegala today (24) to investigate the incident.. Remble
 
 ◼️
 
 [Data](articles/1b89e804.json)
 
+[Extended Data](ext_articles/1b89e804.ext.json)
+
 ---
 
-### ஹசரங்கவுக்குத் தடை
+### Hazaranga prohibited
 
 *2024-02-25 15:03:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/ஹசரங்கவுக்குத்-தடை/88-333780) · `ta`
 
-இலங்கையின் இருபதுக்கு – 20 சர்வதேசப் போட்டிகளுக்கான அணித்தலைவர் வனிடு ஹசரங்கவுக்கு, சர்வதேச கிரிக்கெட் சபையால் இரண்டு போட்டித் தடை விதிக்கப்பட்டுள்ளது.
+Twenty -20 International Tournament Team Leader Vanidu Hasaranga has been banned by the International Cricket Board.
 
-ஆப்கானிஸ்தானுக்கெதிரான மூன்றாவது இருபதுக்கு – 20 சர்வதேசப் போட்டியில் நோ போல் வழங்காத நடுவர் லின்டன் ஹனிபல்லுடன் மோதியமையடுத்தே போட்டித் தடையும், அவரது போட்டி ஊதியத்தின் 50 சதவீத அபராதமும் ஹசரங்கவுக்கு வழங்கப்பட்டுள்ளது.
+Hazaranga has been awarded a rivalry and a 50 per cent fine of his rival wage, with no referee Linden Hanipal, who has not been given No -like in the third Twenty -20 International match against Afghanistan.
 
 ◼️
 
 [Data](articles/2caf0a10.json)
+
+[Extended Data](ext_articles/2caf0a10.ext.json)
 
 ---
 
@@ -221,6 +225,8 @@ A counter-protest was held in Negombo today in response to allegations that the 
 ◼️
 
 [Data](articles/3ba06f73.json)
+
+[Extended Data](ext_articles/3ba06f73.ext.json)
 
 ---
 
@@ -736,19 +742,23 @@ Then pours water in it. Then there is a small cloth with a laundry scenes. It gi
 
 ---
 
-### உலகின் மிகச்சிறிய வாஷிங் மெஷின் ; காணொளி
+### The smallest washing machine in the world;Video
 
 *2024-02-25 10:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகின்-மிகச்சிறிய-வாஷிங்-மெஷின்-காணொளி/175-333758) · `ta`
 
-உலகின் மிகச்சிறிய வாஷிங் மெஷினை உருவாக்கி ஆந்திராவை சேர்ந்த சாய் திருமலாநீதி என்பவர் புதிய கின்னஸ் சாதனை படைத்துள்ளார். இதுதொடர்பான வீடியோ இணையத்தில் வைரலாகி வருகிறது.
+Sai Thirumalanidhi from Andhra Pradesh has set a new Guinness record by creating the world's smallest washing machine. The related video is going viral on the Internet.
 
-இன்ஸ்டாகிராமில் பகிரப்பட்டுள்ள அந்த வீடியோவில், சாய் திருமலாநீதி ஒரு சிறிய வாஷிங் மெஷினை உருவாக்கும் செயல்முறை காட்சிகள் உள்ளது. மிகவும் நுணுக்கமான கவனிப்புடன், சுவிட்ச் மற்றும் ஒரு சிறிய பைப் உள்ளிட்ட சிறிய பாகங்களை பயன்படுத்தி அவர் வாஷிங் மெஷினை ஒருங்கிணைக்கிறார். அது முழுமையாக செயல்பட தொடங்குகிறது.
+In the video shared on Instagram, Sai Thirumalanthi has the process of creating a small washing machine. With very sophisticated care, he coordinates the washing machine using small parts including switch and a small pipe. It begins to function fully.
 
-பின்னர் அதில் தண்ணீர் ஊற்றுகிறார். அதன்பிறகு ஒரு சிறிய துணியை போட்டு சலவை செய்யும் காட்சிகள் இடம்பெற்றுள்ளது. சிறிது நேரத்தில் அந்த துணியை வெளியே எடுத்தபோது அது சுத்தமாக காட்சி அளிக்கிறது. இணையத்தில் வைரலான இந்த வீடியோ 70 லட்சத்திற்கும் அதிகமான பார்வைகளை பெற்றுள்ளது. இதைப்பார்த்த பயனர்கள் பலரும் சாய் திருமலாநீதியை பாராட்டி கருத்துக்களை பதிவிட்டு வருகின்றனர்.
+Then pours water in it. Then there is a small cloth with a laundry scenes. It gives the sight to clean that when the cloth is taken out in a while. This video, which is viral on the Internet, has received over 70 lakh views. Many users who have heard this are commenting on Sai Tirumalanidhi.
 
-...
+Administration is not responsible for any of the comments you make. They are your personal opinions. Consider that your comments will be uploaded after the author's appropriate audit. Send us your ideas too.
+
+◼️
 
 [Data](articles/fb299f86.json)
+
+[Extended Data](ext_articles/fb299f86.ext.json)
 
 ---
 
@@ -997,6 +1007,8 @@ Faced with a growing body of evidence of mass killings of civilians, the Lankan 
 ...
 
 [Data](articles/b5390f64.json)
+
+[Extended Data](ext_articles/b5390f64.ext.json)
 
 ---
 

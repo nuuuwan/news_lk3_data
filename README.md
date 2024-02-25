@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 08:17:30**
+As of **2024-02-25 08:33:00**
 
 ## Newspaper Stats
 
-*Scraped **9,108** Articles*
+*Scraped **9,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 464
 dailyftlk | 483
 islandlk | 486
 adalk | 761
-adaderanalk | 1,098
-tamilmirrorlk | 1,115
+adaderanalk | 1,099
+tamilmirrorlk | 1,117
 virakesarilk | 1,241
 adaderanasinhalalk | 1,362
 dailymirrorlk | 1,371
@@ -26,21 +26,41 @@ dailymirrorlk | 1,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,107 (100.0%) of 9,108 articles have been extended.
+9,108 (100.0%) of 9,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
+### Showers expected in several provinces
+
+*2024-02-25 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97511/showers-expected-in-several-provinces) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Southern, Sabaragamuwa and Central provinces in the evening or night.
+
+A few showers may occur in Uva and Eastern provinces, it said.
+
+Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Badulla district during the morning.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/d47448b4.json)
+
+---
+
 ### Four SriLankan Airlines flights delayed
 
 *2024-02-25 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97510/four-srilankan-airlines-flights-delayed) · `en`
 
-Four SriLankan Airlines flights have been delayed so far this morning (25) as ground staff have refrained from performing some of their duties, Ada Derana reporter said.
+Four SriLankan Airlines flights have been delayed at the Katunayake Airport so far this morning (25) as ground staff have refrained from performing some of their duties, Ada Derana reporter said.
 
 ◼️
 
 [Data](articles/5533e2bf.json)
+
+[Extended Data](ext_articles/5533e2bf.ext.json)
 
 ---
 
@@ -95,6 +115,38 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/263ea413.json)
 
 [Extended Data](ext_articles/263ea413.ext.json)
+
+---
+
+### சு.க. மகளிர் முன்னணிக்கான நிர்வாக சபை தெரிவு ஒத்திவைப்பு
+
+*2024-02-25 04:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-க-மகளிர்-முன்னணிக்கான-நிர்வாக-சபை-தெரிவு-ஒத்திவைப்பு/175-333748) · `ta`
+
+ஶ்ரீ லங்கா சுதந்திரக் கட்சியின் மகளிர் முன்னணிக்கான புதிய நிர்வாக சபை உறுப்பினர்களை தெரிவு செய்யும் நடவடிக்கை ஒத்திவைக்கப்பட்டுள்ளது
+
+இரண்டு மாதங்களுக்கு முன்னர் கலைக்கப்பட்ட ஶ்ரீ லங்கா சுதந்திர மகளிர் முன்னணிக்கான புதிய நிர்வாக சபையை தெரிவு செய்வதற்கு நேற்று வேளையில் ஶ்ரீ லங்கா சுதந்திரக் கட்சி உறுப்பினர்கள் ஒன்றுகூடினர்.
+
+கட்சியின் தவிசாளர் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் தலைமையில் இந்த கூட்டம் இடம்பெற்றது.
+
+◼️
+
+[Data](articles/7fe3670a.json)
+
+---
+
+### ஜனாதிபதியுடன் சம்பிக்க கலந்துரையாடல்
+
+*2024-02-25 04:33:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-சம்பிக்க-கலந்துரையாடல்/175-333747) · `ta`
+
+ஐக்கிய குடியரசு முன்னணியின் தலைவர், பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க, ஜனாதிபதி ரணில் விக்கிரமசிங்கவை நேற்று சந்தித்துள்ளார்.
+
+'தேசத்திற்காக ஒன்றிணையும் நடவடிக்கை' கொள்கை பிரகடனம் தொடர்பில் கலந்துரையாடுவதற்காக இந்த சந்திப்பு ஒழுங்கு செய்யப்பட்டிருந்ததாக ஐக்கிய குடியரசு முன்னணி தெரிவித்துள்ளது.
+
+பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க, குறித்த கொள்கை பிரகடனத்தை அண்மையில் வெளியிட்டிருந்தார். (a)
+
+◼️
+
+[Data](articles/2343d74b.json)
 
 ---
 
@@ -2023,67 +2075,5 @@ At the same time, the body of the fetus has been sent to the body of the fetus a
 [Data](articles/ca8ecbfb.json)
 
 [Extended Data](ext_articles/ca8ecbfb.ext.json)
-
----
-
-### Sri Lankan, Indian coast guard ships in Malé for 16th ‘Dosti’ trilateral exercise
-
-*2024-02-24 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97492/sri-lankan-indian-coast-guard-ships-in-mal-for-16th-dosti-trilateral-exercise) · `en`
-
-Seeking to enhance maritime security and interoperability, coast guard personnel from India, the Maldives and Sri Lanka have embarked on a four-day trilateral exercise to identify emerging maritime challenges in the Indian Ocean Region.
-
-Indian Coast Guard ship Samarth and ICGS Abhinav along with Sri Lanka Naval Ship Samudura reached Malé on Thursday for the exercise ‘DOSTI-16′ that would be held between February 22 and 25. Bangladesh is participating as an observer.
-
-Coast guard helicopter ICGS Dornier too is part of the trilateral exercise ‘Dosti,’ which Sri Lanka said aims to enhance cooperation, strengthen friendship, improve mutual operational capability, and develop interoperability among the Coast Guard personnel of India, the Maldives, and Sri Lanka.
-
-The Maldives National Defence Force (MNDF) late Thursday evening extended a warm welcome to ADG S Paramesh, Additional Director General of the Indian Coast Guard.
-
-...
-
-[Data](articles/8bf679a5.json)
-
-[Extended Data](ext_articles/8bf679a5.ext.json)
-
----
-
-### The controversy ended
-
-*2024-02-24 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177168) · `ta`
-
-The Kolkata High Court has ordered that two lions, Sita and Akbar, which are located at the Siliguri Zoo in India, should be changed.
-
-The order has been issued under a petition filed by VHP in the Supreme Court in protest of the retention of two lions, Sita and Akbar.
-
-Two lions were taken from the Sebahijala Zoo in Tripura on February 12 to the Bengal Zoo in Siliguri, West Bengal.
-
-Of these two lions, a seven -year -old lion was named as Akbar and a 6 -year -old lion.. The Hindu organization Vishwa Hindu Parishad has sought the Kolkata High Court against these names.
-
-In the petition, Vishwa Hindu Parishad, who demanded that the lion be changed to the name of Sita ". Akbar was one of the famous Mughal emperors. Sita is a character in Valmiki's Ramayana.
-
-Also, Sita is celebrated in Hindu practices. Therefore, the name of the lions should be changed because it is an act of contempt of Hinduism with 'Akbar' with 'Sita'. Akbar's companion cannot be a companion. ”
-
-...
-
-[Data](articles/5e3e47c3.json)
-
-[Extended Data](ext_articles/5e3e47c3.ext.json)
-
----
-
-### Rajiv Gandhi assassination case convict gets document to return to Sri Lanka
-
-*2024-02-24 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rajiv-Gandhi-assassination-case-convict-gets-document-to-return-to-Sri-Lanka/108-277649) · `en`
-
-TIRUCHY, Feb 24 (The Indian Express) -  The Foreigners Regional Registration Officer (FRRO) of the Union Ministry of External Affairs has issued an emergency travel document for Santhan, one of the freed convicts in the Rajiv Gandhi assassination case, facilitating his immediate deportation to Sri Lanka. Santhan, who is currently lodged in the special camp at the Tiruchy central prison, will be escorted by officials to the international airport in Tiruchy.
-
-Acting on a request from Santhan, the Sri Lankan Deputy High Commission earlier issued a temporary travel document to him and now the FRRO has given an exit permit.
-
-“Once Santhan books the ticket, he will be deported. Instructions have been given to the district administration to escort him until the airport,” Collector M Pradeep Kumar told TNIE.
-
-◼️
-
-[Data](articles/ca3c10be.json)
-
-[Extended Data](ext_articles/ca3c10be.ext.json)
 
 ---

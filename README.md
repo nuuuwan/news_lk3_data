@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 02:49:00**
+As of **2024-02-26 03:02:32**
 
 ## Newspaper Stats
 
@@ -26,41 +26,47 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,240 (100.0%) of 9,244 articles have been extended.
+9,244 (100.0%) of 9,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### ஜனாதிபதி தேர்தலில் ரணில் விக்ரமசிங்க கட்சி சார்பற்ற வேட்பாளராக களமிறங்குவார் - ஐ.தே.க. முன்னாள் பாராளுமன்ற உறுப்பினர் ரவி கருணாநாயக்க
+### Ranil Wickremesinghe will field a non -party candidate in the presidential election -UNP. Former MP Ravi Karunanayake
 
 *2024-02-26 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177284) · `ta`
 
-ஒக்டோபர் மாதம் இடம்பெறும் ஜனாதிபதி தேர்தலில் விரிவான கூட்டணி அமைக்க இருக்கிறோம். அதில்  ரணில் விக்ரமசிங்க கட்சி சார்பற்ற வேட்பாளராக களமிறங்குவார் என ஐக்கிய தேசிய கட்சி முன்னாள் பாராளுமன்ற உறுப்பினர் ரவி கருணாநாயக்க தெரிவித்தார்.
+We are set to form a comprehensive alliance in the presidential election in October. Former United National Party (UNP) parliamentarian Ravi Karunanayake said that Ranil Wickremesinghe would field a non -party candidate.
 
-கொழும்பில் ஞாயிற்றுக்கிழமை (25) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking at a press conference held in Colombo on Sunday (25).
 
-நாடு தற்போதுள்ள பொருளாதார நெருக்கடி நிலையில், நாட்டை மீட்பதற்குத் தனி ஒரு கட்சியால் முடியாது. அனைவரின் ஒத்துழைப்பு அவசியமாகும். அதனால் எதிர்வரும் ஒக்டோபர் மாதம் இடம்பெறும் ஜனாதிபதி தேர்தலில் மக்களுக்காக அர்ப்பணிப்புடன் வேலை செய்ய முடியுமான அனைத்து தரப்பினரையும் ஒன்றிணைத்துக்கொண்டு விரவான கூட்டணி ஒன்றை அமைக்க இருக்கிறோம். அதுதொடர்பான நடவடிக்கைகள் தற்போது இடம்பெற்று வருகின்றன. அந்த கூட்டணியில் ரணில் விக்ரமசிங்க கட்சி சார்பற்ற வேட்பாளராக  களமிறங்குவார்.
+In the current economic crisis of the country, a single party cannot be able to recover the country. Everyone's cooperation is essential. So we have to form a coalition to unite all parties that can work for the people in the upcoming presidential election in October.. Related actions are currently underway. Ranil Wickremesinghe will field a non -party candidate in that alliance.
 
 ...
 
 [Data](articles/42811ae5.json)
 
+[Extended Data](ext_articles/42811ae5.ext.json)
+
 ---
 
-### எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மல்வத்து மற்றும் அஸ்கிரிய பீட மகாநாயக்க தேரர்களைச் சந்தித்தார்
+### Opposition Leader Sajith Premadasa meets Malwathu and Asgiriya Peeta Mahanayaka Thera
 
 *2024-02-26 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177283) · `ta`
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஞாயிற்றுக்கிழமை (25) கண்டியில், மல்வத்து மகா விகாரையின் மகாநாயக்க தேரர் திப்படுவாவே ஸ்ரீ சுமங்கல தேரர், மல்வத்து பீடத்தின் அனுநாயக்க திம்புல் கும்புரே ஸ்ரீ விஜய தம்ம தேரர், அஸ்கிரிய பீடத்தின் மகாநாயக்க தேரர் வரகாகொட ஸ்ரீ ஞானரதன தேரர் மற்றும் அஸ்கிரி பீடத்தின் பிரதான ஆவணக் காப்பாளர் மெதகம தம்மானந்த தேரர்களை சந்தித்து,நலன் விசாரித்து தனது எதிர்கால அரசியல் பயணத்திற்கு ஆசிகளைப் பெற்றுக் கொண்டார்.
+Opposition Leader Sajith Premadasa on Sunday (25) in KandyHe inquired and got blessings for his future political journey.
 
-இந்த வங்குரோத்து நிலையில் இருந்து நாட்டை மீட்பதே எமக்கு உள்ள ஒரே சவால்
+The only challenge we have is to recover the country from this bankruptcy
 
-ஐக்கிய மக்கள் சக்தி ஏனைய அரசியல் கட்சிகள் முன்வைக்கும் விடயங்களுக்கு  பதிலளிக்காமல், நாட்டின் வங்குரோத்து நிலையுடன் இந்நாட்டில் பெண்கள் தலைமையிலான ஏனைய சமூகம் எதிர்நோக்கும் பாரதூரமான அவல நிலைக்கு பதில்களையும் தீர்வுகளையும் வழங்கவே செயற்படுகின்றது. பெண்களை பலர் மறந்துவிட்ட இந்த வேளையில், இன்று நேற்றல்ல 2019 ஆம் ஆண்டிலயே பெண்களுக்கான சாசனம் தயாரிக்கப்பட்டுள்ளதாகவும், அதன் நீட்சியே நேற்றைய நிகழ்வு என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Without responding to the issues put forward by the United People's Power, other women -led community in the country, with the bankruptcy of the country, is working to provide answers and solutions to the plight of the country in the country.. While many women have forgotten, the opposition leader said that the charter of women has been prepared in 2019, but its extension was yesterday.
+
+The biggest challenge at this time is to eradicate poverty and increase the economic development rate and how to make information technology dreams come true.. Implementing economic growth to benefit everyone is challenging. Opposition leader Sajith Premadasa said the challenges of other parties would not be harmful to him.
 
 ...
 
 [Data](articles/a771e7eb.json)
+
+[Extended Data](ext_articles/a771e7eb.ext.json)
 
 ---
 
@@ -102,6 +108,8 @@ Even worse, the Meteorology Department authorities too are sending out mixed sig
 
 [Data](articles/28b2184f.json)
 
+[Extended Data](ext_articles/28b2184f.ext.json)
+
 ---
 
 ### Navalny Died Trying to Politicise the Russians
@@ -117,6 +125,8 @@ Little noticed was the murder of Maksim Kuzminov, a Russian helicopter pilot who
 ...
 
 [Data](articles/1a583a35.json)
+
+[Extended Data](ext_articles/1a583a35.ext.json)
 
 ---
 

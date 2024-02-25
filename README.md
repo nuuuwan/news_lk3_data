@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 23:17:35**
+As of **2024-02-25 23:33:12**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,227 (100.0%) of 9,228 articles have been extended.
+9,228 (100.0%) of 9,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### යුක්‍රේන ජනපතිගෙන් ප්‍රකාශයක්
+### Declaration from Ukutani President
 
 *2024-02-25 22:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193820) · `si`
 
-ගෙවුණු වසර දෙකක කාලය තුළදී යුක්‍රේනයේ සෙබළුන් 31,000ක් මියගොස් ඇති බව එරට ජනාධිපතිවරයා පවසයි.
+Over the past two years, 31,000 soldiers have been killed in the Ukraine.
 
-රුසියානු හමුදා විසින් යුක්‍රේනයේ ආක්‍රමණය ආරම්භ කර වසර දෙකක් සැපිරීම නිමිත්තෙන් විශේෂ ප්‍රකාශයක් සිදුකරමින්
+Special Statement in the event of a special statement to mark the invasion of Ukraine by Russian troops
 
-එසේම මෙම යුදමය වාතාවරණය සමග සිවිල් වැසියන් දස දහසකට ආසන්න පිරිසක් මියගොස් ඇති බවද යුක්‍රේන ජනපති පවසයි.
+According to the Ukutani President, nearly 10,000 civilians have died of the death toll with this war environment.
 
 ◼️
 
 [Data](articles/ac9c482e.json)
+
+[Extended Data](ext_articles/ac9c482e.ext.json)
 
 ---
 

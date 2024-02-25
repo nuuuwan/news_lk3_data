@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 15:17:27**
+As of **2024-02-25 15:33:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,179 (100.0%) of 9,182 articles have been extended.
+9,182 (100.0%) of 9,182 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ According to police, the injured individual was immediately rushed to hospital w
 ◼️
 
 [Data](articles/e9a9da60.json)
+
+[Extended Data](ext_articles/e9a9da60.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ Accordingly, the Ministry expects to take a policy decision on the Cabinet Memor
 ◼️
 
 [Data](articles/9b88c8c2.json)
+
+[Extended Data](ext_articles/9b88c8c2.ext.json)
 
 ---
 
@@ -97,6 +101,8 @@ This request, made in accordance with Section 80 (2) (b) of the Central Bank of 
 ...
 
 [Data](articles/ebf5e01a.json)
+
+[Extended Data](ext_articles/ebf5e01a.ext.json)
 
 ---
 

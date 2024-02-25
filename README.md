@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 03:02:32**
+As of **2024-02-26 03:17:22**
 
 ## Newspaper Stats
 
-*Scraped **9,244** Articles*
+*Scraped **9,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 487
 adalk | 776
 adaderanalk | 1,118
 tamilmirrorlk | 1,135
-virakesarilk | 1,256
+virakesarilk | 1,258
 dailymirrorlk | 1,390
 adaderanasinhalalk | 1,395
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,244 (100.0%) of 9,244 articles have been extended.
+9,244 (100.0%) of 9,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### வவுனியா புதிய பேரூந்து நிலையம் அருகில் நிறுத்தி வைக்கப்பட்ட மோட்டர் சைக்கிள் திருட்டு
+
+*2024-02-26 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/177286) · `ta`
+
+வவுனியா, புதிய பேரூந்து நிலையம் முன்பாக நிறுத்தி வைக்கப்பட்டிருந்த மோட்டர் சைக்கிள் ஒன்று திருடப்பட்டுள்ளதாக வவுனியா பொலிசார்தெரிவித்தனர்.
+
+வவுனியா, புதிய பேரூந்து நிலையம் அருகில் மோட்டர் சைக்கிள் ஒன்றை இரவு நிறுத்திவிட்டு கொழும்பு பயணித்த ஒருவர் மறுநாள் பகல் வந்து பார்த்த போது அவரது மோட்டர் சைக்கிள் விட்ட இடத்தில் காணப்படவில்லை. அப் பகுதியில் தேடிய போதும் மோட்டர் சைக்கிள் கிடைக்காத நிலையில் வவுனியா பொலிஸ் நிலையத்தில் பாதிக்கப்பட்டவர் முறைப்பாடு செய்துள்ளார். முறைப்பாடு தொடர்பில் வவுனியா பொலிசார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+இதேவேளை, மோட்டர் சைக்கிள்களை பொது இடங்களில், வீதியோரங்களில் நிறுத்தி விட்டு தூர பயணங்களை மேற்கொள்ளாது அதனை பாதுகாப்பான இடத்தில் நிறுத்தி விட்டு செல்லுமாறு வவுனியா பொலிசார் பொதுமக்களுக்கு அறிவுறுத்தியுள்ளனர்.
+
+◼️
+
+[Data](articles/60a56859.json)
+
+---
+
+### ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் முன்னாள் நாடாளுமன்ற உறுப்பினர் சந்திரகுமாருக்கும் இடையில் சந்திப்பு
+
+*2024-02-26 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/177285) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவை முன்னாள் நாடாளுமன்ற உறுப்பினரும், சமத்துவக் கட்சியின் பொதுச் செயலாளருமான மு.சந்திரகுமார் மற்றும் சமத்துவக் கட்சியின் தலைவர் சு.மனோகரன் ஆகியோர்  சனிக்கிழமை (24) கொழும்பில் சந்தித்துக் கலந்துரையாடியுள்ளனர்.
+
+சனிக்கிழமை (24) காலை இடம்பெற்ற இச் சந்திப்பின் போது கிளிநொச்சி மாவட்டம் உட்பட வடக்கின் தற்போதைய அரசியல் பொருளாதார நிலைமைகள், பிரதேச அபிவிருத்தி பற்றிப் பேசப்பட்டதோடு, எதிர்கால அரசியல் செயற்பாடுகள் பற்றியும் கலந்துரையாடப்பட்டதாக  முன்னாள் நாடாளுமன்ற உறுப்பினர் மு. சந்திரகுமார் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/b9afed19.json)
+
+---
 
 ### Ranil Wickremesinghe will field a non -party candidate in the presidential election -UNP. Former MP Ravi Karunanayake
 
@@ -2059,45 +2089,5 @@ In addition, the police handed over the girl who went with the young man to thei
 [Data](articles/13f0d369.json)
 
 [Extended Data](ext_articles/13f0d369.ext.json)
-
----
-
-### Lover arrested for breaking shop: girlfriend with worrying
-
-*2024-02-25 10:33:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/கடையை-உடைத்த-காதலன்-கைது-கவலையுடன்-காதலி/74-333756) · `ta`
-
-Police say a youth who came to Amparai from Badulla to spend the holidays with his girlfriend had stolen Rs 10,000 in a shop as there was no money to pay for the hostel.
-
-It is reported that the young man who entered the city's popular wholesale company has stolen money at the Ampara bus station.
-
-The suspect has been arrested on the basis of information received by an officer working in the Ampara Police Transport Division.
-
-In addition, the police handed over the girl who went with the young man to their parents and said the suspect would be produced in court.
-
-◼️
-
-[Data](articles/900b6ffa.json)
-
-[Extended Data](ext_articles/900b6ffa.ext.json)
-
----
-
-### Lover arrested for breaking shop: girlfriend with worrying
-
-*2024-02-25 10:33:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடையை-உடைத்த-காதலன்-கைது-கவலையுடன்-காதலி/175-333756) · `ta`
-
-Police say a youth who came to Amparai from Badulla to spend the holidays with his girlfriend had stolen Rs 10,000 in a shop as there was no money to pay for the hostel.
-
-It is reported that the young man who entered the city's popular wholesale company has stolen money at the Ampara bus station.
-
-The suspect has been arrested on the basis of information received by an officer working in the Ampara Police Transport Division.
-
-In addition, the police handed over the girl who went with the young man to their parents and said the suspect would be produced in court.
-
-◼️
-
-[Data](articles/d57bb46d.json)
-
-[Extended Data](ext_articles/d57bb46d.ext.json)
 
 ---

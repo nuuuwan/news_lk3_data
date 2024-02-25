@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 01:49:29**
+As of **2024-02-26 02:02:50**
 
 ## Newspaper Stats
 
-*Scraped **9,234** Articles*
+*Scraped **9,236** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 94
+colombotelegraphcom | 95
 bbccomsinhala | 111
 dbsjeyarajcom | 165
 newsfirstlk | 363
@@ -19,16 +19,36 @@ adalk | 776
 adaderanalk | 1,118
 tamilmirrorlk | 1,135
 virakesarilk | 1,253
-dailymirrorlk | 1,387
+dailymirrorlk | 1,388
 adaderanasinhalalk | 1,395
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,234 (100.0%) of 9,234 articles have been extended.
+9,234 (100.0%) of 9,236 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-26 (Monday)
+
+### Tax is not a Monster, but…
+
+*2024-02-26 01:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Tax-is-not-a-Monster-but/172-277678) · `en`
+
+The reason for such mockery aimed at the recent taxes is the sheer disregard by the government for the two main principles of taxation, namely fairness and consistency
+
+These days, tax has become the talk of the town, the laughing-stock and the attractive subject matter for cartoonists. The general public perceives it as a ‘legalized robbery’ executed by the state using rules and regulations, backed by the threat of legal consequences for non-compliances.
+
+The reason for such mockery aimed at the recent taxes, is the sheer disregard by the government of the two main principles of taxation, namely the fairness (ability to pay) and consistency.
+
+This perception of ‘legalized robbery’ is gaining momentum among the general public especially in the backdrop of the unparalleled financial crisis and sky-rocketing cost of living, while the income of the public has been drastically slashed.
+
+...
+
+[Data](articles/8d7c4779.json)
+
+---
 
 ### 2024-02-25 (Sunday)
 
@@ -447,6 +467,20 @@ The Russian Embassy underscored Russia's firm condemnation of all forms of racia
 [Data](articles/7943233d.json)
 
 [Extended Data](ext_articles/7943233d.ext.json)
+
+---
+
+### Navigating The Economic Reawakening & Sustainable Growth
+
+*2024-02-25 19:28:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/navigating-the-economic-reawakening-sustainable-growth/) · `en`
+
+By any standard, Sri Lanka is recovering from economic bankruptcy today, though chief economic policymakers seem to be disputing the claim of bankruptcy.i In the case of a private venture, bankruptcy means inability to honour financial obligations to outsiders due to its financial net worth becoming negative. By the same token, the bankruptcy of a country means that it is not able to honour its debt obligations to foreign creditors or a given segment of foreign creditors.
+
+In April 2022, Sri Lanka announced that it will not honour the debt servicing obligations – that is, repayment of the principal and payment of interest on the debt when they become due – in the case of two selected foreign creditors, commercial and bilateral creditors. Since then, several policy measures have been taken by Sri Lankan authorities to get out of the economic crisis and place the country on a sustainable growth path.
+
+...
+
+[Data](articles/0028eb3a.json)
 
 ---
 
@@ -2069,51 +2103,5 @@ Morning said that the Sri Lankan navy sent its ship and when the ship completed 
 [Data](articles/7e252d25.json)
 
 [Extended Data](ext_articles/7e252d25.ext.json)
-
----
-
-### Anura's dream decision
-
-*2024-02-25 09:46:31* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හීනෙන්-ජනපති-වෙලා/11-408258) · `si`
-
-The Janasha Battaramulla Salarathana Thero said that the president had been pleased with Anura Kumara Dissanayake.
-
-Seelaratana Thero said that (24), he commenced to the media after the arrival of plantation workers' issues in Hatton.
-
-"The MPs who have become the victims of the plantation sector have not done anything to the public's monthly Rs. 350 from plantation workers.
-
-Those who have not taken such a member money and giving the plantation workers in the money and pierce the pleasure of that money.
-
-A total of Rs.
-
-One of Parliament has not said that the salary of plantation workers should increase.One of the Sinhalese Tamil ministers in the plantation stone did not work to their families.
-
-The Ranil Wickremesinghe president has made the president of Mahinda Rajapaksa, he is now being signed, he is now trying to send the son and present the election.
-
-The country was destroyed by the Rajapaksas and Ranil will be auctioned and postponed the presidential election.
-
-...
-
-[Data](articles/8c8f98a6.json)
-
-[Extended Data](ext_articles/8c8f98a6.ext.json)
-
----
-
-### Chinese woman arrested for money fraud
-
-*2024-02-25 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193796) · `si`
-
-Chinese woman has been arrested in connection with over Rs.
-
-The suspect was arrested in Kollupitiya area yesterday.
-
-The woman was arrested in the investigation by a complaint with a complaint with the Colombo Fraud Investigation Bureau on January 31.
-
-◼️
-
-[Data](articles/04f6df28.json)
-
-[Extended Data](ext_articles/04f6df28.ext.json)
 
 ---

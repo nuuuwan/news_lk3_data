@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 05:02:35**
+As of **2024-02-26 05:17:36**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,252 (100.0%) of 9,253 articles have been extended.
+9,253 (100.0%) of 9,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### வீதி அபிவிருத்தி திட்டம் 29 ஆம் திகதி ஆரம்பம்
+### Street Development Project Beginning on the 29th
 
 *2024-02-26 04:20:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதி-அபிவிருத்தி-திட்டம்-29-ஆம்-திகதி-ஆரம்பம்/175-333804) · `ta`
 
-ஒரு லட்சம் கிலோமீட்டர் கிராமிய வீதிகளை அபிவிருத்தி செய்யும் வேலைத்திட்டத்தின் மற்றுமொரு கட்டம் எதிர்வரும் 29 ஆம் திகதி ஆரம்பிக்கப்படவுள்ளது.
+Another phase of the project to develop one million kilometers of rural roads will be launched on the 29th.
 
-நாடளாவிய ரீதியில் இந்த திட்டம் நடைமுறைப்படுத்தப்படுவதாக வீதி அபிவிருத்தி அதிகாரசபையின் பணிப்பாளர் நாயகம் எல்.வி.எஸ். வீரகோன் தெரிவித்துள்ளார். (a)
+The Director General of the Road Development Authority, LVS, says the project is being implemented nationwide.. Weerakoon said. (A)
 
 ◼️
 
 [Data](articles/5b96bb39.json)
+
+[Extended Data](ext_articles/5b96bb39.ext.json)
 
 ---
 

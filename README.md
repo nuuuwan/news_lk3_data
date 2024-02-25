@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 23:02:28**
+As of **2024-02-25 23:17:35**
 
 ## Newspaper Stats
 
-*Scraped **9,227** Articles*
+*Scraped **9,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,63 @@ adaderanalk | 1,116
 tamilmirrorlk | 1,135
 virakesarilk | 1,252
 dailymirrorlk | 1,387
-adaderanasinhalalk | 1,394
+adaderanasinhalalk | 1,395
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,223 (100.0%) of 9,227 articles have been extended.
+9,227 (100.0%) of 9,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### இந்தியாவின் டெஸ்ட் தொடர் வெற்றிக்கு மேலும் 152 ஓட்டங்கள் தேவை
+### යුක්‍රේන ජනපතිගෙන් ප්‍රකාශයක්
+
+*2024-02-25 22:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193820) · `si`
+
+ගෙවුණු වසර දෙකක කාලය තුළදී යුක්‍රේනයේ සෙබළුන් 31,000ක් මියගොස් ඇති බව එරට ජනාධිපතිවරයා පවසයි.
+
+රුසියානු හමුදා විසින් යුක්‍රේනයේ ආක්‍රමණය ආරම්භ කර වසර දෙකක් සැපිරීම නිමිත්තෙන් විශේෂ ප්‍රකාශයක් සිදුකරමින්
+
+එසේම මෙම යුදමය වාතාවරණය සමග සිවිල් වැසියන් දස දහසකට ආසන්න පිරිසක් මියගොස් ඇති බවද යුක්‍රේන ජනපති පවසයි.
+
+◼️
+
+[Data](articles/ac9c482e.json)
+
+---
+
+### India's Test series requires a further 152 runs
 
 *2024-02-25 22:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/177280) · `ta`
 
-இங்கிலாந்துக்கு எதிராக ரஞ்சி விளையாட்டரங்கில் நடைபெற்றுவரும் நான்காவது டெஸ்ட் கிரிக்கெட் போட்டியில் வெற்றிபெற்று  தொடரைக் கைப்பற்றுவதற்கு இந்தியாவுக்கு மேலும் 152 ஓட்டங்கள் தேவைப்படுகிறது.
+India need a further 152 runs to win the fourth Test cricket match against England and win the series.
 
-இங்கிலாந்தை இரண்டாவது இன்னிங்ஸில் 145 ஓட்டங்களுக்கு சுருட்டிய இந்தியா, வெற்றிக்கு தேவைப்பட்ட 192 ஓட்டங்களில் 40 ஓட்டங்களை விக்கெட் இழப்பின்றி எடுத்து பலமான நிலையில் இருக்கிறது.
+India, who scored 145 runs in the second innings, are in a strong position to score 40 runs in 192 runs.
 
-ரொஹித் ஷர்மா 24 ஓட்டங்களுடனும் யஷஸ்வி ஜய்ஸ்வால் 16 ஓட்டங்களுடனும் ஆட்டம் இழக்காதுள்ளனர்.
+Rohit Sharma has not lost 24 runs and Yaswvi Jaiswal 16 runs.
 
-முதல் இன்னிங்ஸ் நிறைவில் 46 ஓட்டங்களால் பின்னிலையில் இருந்த இந்தியா, மூன்றாம் நாள் ஆட்டடத்தில் தனது சுழற்பந்துவீச்சாளர்களைக் கொண்டு இங்கிலாந்தை திக்குமுக்காட வைத்தது.
+India, with 46 runs in the first innings, scored England with its spinners in the third day.
 
-இங்கிலாந்தின் இரண்டாவது இன்னிங்ஸில் ஆரம்ப பந்துவீச்சாளராக பயன்படுத்தப்பட்ட ரவிச்சந்திரன் அஷ்வின் 51 ஓட்டங்களுக்கு 5 விக்கெட்களைக் கைப்பற்றினார்.
+Ravichandran Ashwin took 5 wickets for 51 runs in England's second innings.
 
-இதன் மூலம் தனது 35ஆவது 5 விக்கெட் குவியலை டெஸ்ட் கிரிக்கெட்டில் பதிவுசெய்தார்.
+Through this he recorded his 35th 5 wickets in Test cricket.
 
-மூன்றாவது சுழற்பந்துவீச்சாளர் குல்தீப் யாதவ் 22 ஓட்டங்களுக்கு 4 விக்கெட்களை வீழ்த்தினார். மற்றைய விக்கெட்டை ரவீந்த்ர ஜடேஜா கைப்பற்றினார்.
+Third spinner Kuldeep Yadav took 4 wickets for 22 runs. Ravindra Jadeja took the other wicket.
+
+Suck Groovli (60) and Johnny Nyrevov (30) were playing in England.
+
+India scored 307 runs for the last 3 wickets for the last 3 wickets from 219 runs for the loss of 219 runs for the loss of 7 wickets.
+
+Dhruw Jurel and Kuldeep Yadav, who were not at the end of the second day's play, continued to bat and shared 76 runs in the 8th wicket.
 
 ...
 
 [Data](articles/572692ee.json)
+
+[Extended Data](ext_articles/572692ee.ext.json)
 
 ---
 
@@ -71,6 +95,8 @@ A joint statement from countries that either took part in the strikes or provide
 ...
 
 [Data](articles/64effb1d.json)
+
+[Extended Data](ext_articles/64effb1d.ext.json)
 
 ---
 
@@ -91,6 +117,8 @@ Mohommed Rilwan was subsequently rushed to the Colombo National Hospital, and is
 ◼️
 
 [Data](articles/f785223e.json)
+
+[Extended Data](ext_articles/f785223e.ext.json)
 
 ---
 
@@ -122,23 +150,25 @@ Under the E-9 or E-10 Visa categories, there should be a person who has not work
 
 ---
 
-### மட்டக்களப்பில் 15 வயது சிறுமி கடத்தல்  : 18 வயது காதலனும் அவரது சிறியதாயாரும் கைது
+### A 15 -year -old girl abducted in Batticaloa: 18 -year -old lover and her little man arrested
 
 *2024-02-25 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177279) · `ta`
 
-மட்டக்களப்பு  கொக்குவில் பொலிஸ் பிரிவில் 15 வயது சிறுமியைக் கடத்திச் சென்ற 18 வயது இளைஞனையும் அவரது சிறிய தாயாரையும் பொலிஸார் வாகரையில் வைத்து சனிக்கிழமை (24) இரவு கைது செய்துள்ளனர்.
+A 15 -year -old girl and her little mother were arrested by the police on Saturday night (24).
 
-கொக்குவில் பொலிஸ் பிரிவில் வசித்து வந்த சிறுமி கடந்த 7ம் திகதி பாடசாலைக்குச் சென்ற நிலையில் அவர் வீடு திரும்பாததையடுத்து அவரது உறவினர்கள் பொலிசாரிடம் முறைப்பாடு செய்தனர்.
+The girl who was living in the Kokuvil police division went to school on the 7th and her relatives lodged a complaint with the police.
 
-இதையடுத்து கொக்குவில் பொலிஸார் முன்னெடுத்த நடவடிக்கையின் போது குறித்த சிறுமியை அவரது காதலன் வாகரைப் பிரதேசத்திலுள்ள அவரது சிறியதாயாரின் வீட்டிற்கு கடத்திச் சென்று வைத்துள்ளமை தெரியவந்தது.
+It was later revealed that the girl had been abducted by her boyfriend's house in Vaharai area during the operation of the Kokuvil police.
 
-இதனையடுத்து குறித்த வீட்டை சுற்றுவளைத்த பொலிஸார்  சிறுமியை மீட்டதுடன் கடத்தல் குற்றச்சாட்டில் 18 வயதுடைய காதலனையும் அவருக்கு உடந்தையாகச் செயற்பட்ட 47 வயதுடைய சிறிய தாயாரையும் கைது செய்தனர்.
+Subsequently, the police rescued the girl and arrested the 18 -year -old boyfriend and a 47 -year -old little mother who was accompanied by her.
 
-கைது செய்யப்பட்ட இருவரையும் மட்டக்களப்பு நீதவான் நீதிமன்றத்தில் இன்று ஞாயிற்றுக்கிழமை (25) பொலிஸார் ஆஜர்படுத்திய போது அவர்களை எதிர்வரும் 07 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டது.
+The two arrested were ordered to be remanded until the 07th of this month when the police produced the Batticaloa Magistrate's Court on Sunday (25).
 
 ◼️
 
 [Data](articles/b9b965b1.json)
+
+[Extended Data](ext_articles/b9b965b1.ext.json)
 
 ---
 
@@ -2101,23 +2131,5 @@ The committee is also entrusted with the responsibility of presenting the cabine
 [Data](articles/01f138d0.json)
 
 [Extended Data](ext_articles/01f138d0.ext.json)
-
----
-
-### SriLankan flights delayed as airport ground staff protest
-
-*2024-02-25 08:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-flights-delayed-as-airport-ground-staff-protest/108-277662) · `en`
-
-BIA, Feb 25 (Daily Mirror) - At least four SriLankan flights were delayed at Bandaranaike International Airport this morning due to ground staff refraining from performing some of their duties.
-
-The ground staff reportedly ceased their duties at 4:30 AM but resumed after two and a half hours following a call from authorities for a discussion.
-
-The protest was allegedly initiated by airport workers demanding immediate solutions to inefficiencies within SriLankan Airlines.
-
-◼️
-
-[Data](articles/b9528606.json)
-
-[Extended Data](ext_articles/b9528606.ext.json)
 
 ---

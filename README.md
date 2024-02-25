@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 00:47:44**
+As of **2024-02-26 01:02:37**
 
 ## Newspaper Stats
 
-*Scraped **9,230** Articles*
+*Scraped **9,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 94
 bbccomsinhala | 111
 dbsjeyarajcom | 165
 newsfirstlk | 363
-economynextcom | 465
+economynextcom | 467
 dailyftlk | 483
 islandlk | 486
 adalk | 776
 adaderanalk | 1,118
 tamilmirrorlk | 1,135
-virakesarilk | 1,252
+virakesarilk | 1,253
 dailymirrorlk | 1,387
 adaderanasinhalalk | 1,395
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,230 (100.0%) of 9,230 articles have been extended.
+9,230 (100.0%) of 9,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### மட்டக்களப்பில் கல்விச் சமூகத்தினர் முன்னெடுத்த போராட்டம்!
+
+*2024-02-25 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177281) · `ta`
+
+கிழக்கு மாகாணத்தில் பொருளாதார நெருக்கடிக்கு மத்தியிலும் பின்தங்கிய பிரதேச மாணவர்கள் தற்போது தேசிய ரீதியில் சிறந்த பெறுபேறுகளைப் பெற்று வருகின்ற இவ்வேளையில் சிலர் அரசியல் சுயநலம் காரணமாக மட்டக்களப்பு மாவட்டத்தில் கல்விப் பணிமனைகளில் சேவையாற்றும் அதிபர்கள் ஆசிரியர்கள் வளையக்கல்வி பணிமனையின் ஊழியர்களை இலக்கு வைத்து சமூக ஊடகங்களில் பிழையான கருத்துக்களைத் தெரிவித்து பொதுமக்களைக் குழப்புகின்ற செயற்பாட்டைக் கண்டித்து இன்று காலை மட்டக்களப்பு காந்தி பூங்காவில் மட்டக்களப்பு கல்வி சமூகம் கல்வி நலன்புரி அமைப்புகள் அதிபர்கள் ஆசிரியர்கள் தொழிற்சங்கங்கள் இணைந்து கண்டன ஆர்ப்பாட்டம் ஒன்றை முன்னெடுத்திருந்தனர்.
+
+மிகவும் அமைதியான முறையில் முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தில், ஆசிரியர் சேவைக்கும் தொழிற்சங்க சேவைக்கும் பொருத்தம் இல்லாத உதயரூபன் என்பவரை அனைத்து பதவியிலிருந்தும் நீக்குமாறும் தொழிற்சங்க அதிகார  அடாவடித்தனத்திற்கும் முடிவு கட்ட வேண்டிய இவர்கள் இங்கு ஆர்ப்பாட்டத்தை முன்னெடுத்திருந்தனர்.
+
+...
+
+[Data](articles/3db9abdc.json)
+
+---
 
 ### 31,000 Ukrainian troops killed since the start of Russia’s full-scale invasion, Zelenskyy says
 
@@ -562,6 +576,28 @@ The bridge has been constructed to facilitate the famous binary binocula, built 
 
 ---
 
+### Sri Lanka’s central bank offers explain salary hike to parliament
+
+*2024-02-25 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-offers-explain-salary-hike-to-parliament-152060/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank, which has gained independence through monetary law has offered to explain a recent steep salary hikes to its staff, to the parliament.
+
+According to reports, which have not yet been denied, office assistants have been given a salary hike of 47,000 rupees to 199,000 rupees on average, management assistance a 94,000 average to 306,000, a staff officer 184,000 to 514,000.
+
+Heads of Departments were given 430,000 hike to 1,030,000 rupees, Assistant Governors by 522,000 to 1,238 million and Deputy Governors by 712,000 to 1.68 million.
+
+The central bank said in a statement the increases were given according to a three-year collective agreement.
+
+The central bank’s Governor has made a request to the Finance Minister to explain its position following a decision by its governing board.
+
+“CBSL will explain its position upon being offered the requested opportunity or on receipt of a request for information,” the central bank said in a statement.
+
+...
+
+[Data](articles/fd1caca6.json)
+
+---
+
 ### The salary was increased with the approval of the Board of Executive;Ready to clarify to MPs - Central Bank
 
 *2024-02-25 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177269) · `ta`
@@ -687,6 +723,24 @@ The shooting was a motorbike with two people from a motorcycle while he was sitt
 [Data](articles/aa8c01ab.json)
 
 [Extended Data](ext_articles/aa8c01ab.ext.json)
+
+---
+
+### SriLankan Airlines denies TU action for flight delays
+
+*2024-02-25 16:15:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-denies-tu-action-for-flight-delays-152053/) · `en`
+
+ECONOMYNEXT – State-owned loss-making SriLankan Airlines denied any trade union action for the delay of its flights at the country’s main airport early on Sunday.
+
+Airport sources said four SriLankan Airlines flights faced delay and a frustrated ground handling staff were unable to coop up with the situation after the delays.
+
+“SriLankan Airlines would like to clarify that the delays experienced by its passengers at the check-in counters in Bandaranaike International Airport during the early hours of this morning, were caused by temporary, unplanned operational conditions at the airport and not due to any type of trade union action,” SriLankan said in a statement.
+
+“The check-in counter operations have been stabilized and returned to normal as of now,” said the firm which is now seeking opportunities for divestment under the government’s restructuring plans of state-owned enterprises reforms.
+
+...
+
+[Data](articles/fb4f5886.json)
 
 ---
 
@@ -2063,83 +2117,5 @@ At first, they planned to leave Bahrain and board another flight to Athens, Gree
 [Data](articles/2a5a3511.json)
 
 [Extended Data](ext_articles/2a5a3511.ext.json)
-
----
-
-### Unidentified bodies found
-
-*2024-02-25 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193795) · `si`
-
-Four unidentified bodies have been found in several parts of the island, police said.
-
-Police say the bodies were found in Kuruwita, Peliyagoda, Marawila and Ragama.
-
-The Kuruwita had a naked body in Kuruwita police division in Pingwala area.
-
-It is reported that the corpse has not been identified until the age of 35 and 40 years old and about 8 feet of height.
-
-Meanwhile, a person's unidentified body has been found among the Peligoda - 04 Post and Paktiye Junction.
-
-The victim is about 55 years old.
-
-The last time he was dressed in a white and black T-shirt.
-
-Meanwhile, a unidentified body of a stranger has been found in the Jayatgama area in Marawila.
-
-The victim is about 65-year-old height.
-
-Meanwhile, an unidentified body has been found in front of a private company in the hospital round of Ragama-Kadawatha road.
-
-The victim has not yet been identified, and the deceased is about five feet and a male aged at the age of 60 and 65.
-
-He has acquired a gray gray and black and wearing a T-shirt.
-
-◼️
-
-[Data](articles/ad091c2b.json)
-
-[Extended Data](ext_articles/ad091c2b.ext.json)
-
----
-
-### Prison to be set up on Mantheevu island in Batticaloa
-
-*2024-02-25 09:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prison-to-be-set-up-on-Mantheevu-island-in-Batticaloa/108-277664) · `en`
-
-The government is exploring the possibility of setting up a prison or a rehabilitation centre on the lonely Mantheevu Island off the coast of Batticaloa, a statement from the Justice, Prisons and Constitutional Reforms said.
-
-Mantheevu is an island in the Eastern Province with 100 acres in extent, currently housing leprosy patients.
-
-Minister Wijeyadasa Rajapaksha was on an observation tour of the island recently to explore the possibility of using the island to set up a prison or a rehabilitation centre as a solution to current congestion.
-
-The Ministry said there are only two leprosy patients in the hospital now. During the Covid 19 pandemic, it was used as a quarantine facility.
-
-◼️
-
-[Data](articles/a77fc5b5.json)
-
-[Extended Data](ext_articles/a77fc5b5.ext.json)
-
----
-
-### Youth killed in drowning
-
-*2024-02-25 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193794) · `si`
-
-Among the people who were drinking in Bathewa - Dickwella - two men were hit by the waves.
-
-After taking out of the coast, the people were killed when they were taken to the hospital at the Bethagama hospital and the other was disappeared.
-
-The deceased is a resident of Balangoda - Balangoda, aged 27, a resident of Balangoda, aged 25.
-
-Investigations have revealed that they were in danger when they were a grief.
-
-Police life officers are engaged in search of the disappearance of the disappearance of the Tangalle.
-
-◼️
-
-[Data](articles/edd640a6.json)
-
-[Extended Data](ext_articles/edd640a6.ext.json)
 
 ---

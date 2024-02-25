@@ -1,36 +1,96 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 13:32:51**
+As of **2024-02-25 13:51:13**
 
 ## Newspaper Stats
 
-*Scraped **9,167** Articles*
+*Scraped **9,173** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 92
 bbccomsinhala | 111
-dbsjeyarajcom | 163
+dbsjeyarajcom | 164
 newsfirstlk | 363
 economynextcom | 465
 dailyftlk | 483
 islandlk | 486
-adalk | 767
-adaderanalk | 1,106
-tamilmirrorlk | 1,128
+adalk | 768
+adaderanalk | 1,107
+tamilmirrorlk | 1,129
 virakesarilk | 1,246
-adaderanasinhalalk | 1,376
+adaderanasinhalalk | 1,378
 dailymirrorlk | 1,381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,166 (100.0%) of 9,167 articles have been extended.
+9,171 (100.0%) of 9,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### CBSL requests President for opportunity to explain recent salary hike
+
+*2024-02-25 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97519/cbsl-requests-president-for-opportunity-to-explain-recent-salary-hike-) · `en`
+
+The Central Bank of Sri Lanka (CBSL) has requested the President, in his capacity as the Minister of Finance, for an opportunity to apprise the Members of Parliament, through an appropriate Parliamentary Committee, of the process and rationale behind the recent salary hike for CBSL employees.
+
+The written request was made by CBSL Governor Dr. Nandalal Weerasinghe.
+
+Issuing a release in this regard, the CBSL noted that the latest revision of remuneration of the CBSL employees had been approved by the Governing Board under the triennial Collective Agreement entered into with the Trade Unions covering the period 2024- 2026.
+
+Thus, the Governing Board, at a meeting held on 21 February, had requested CBSL Governor Dr. Weersinghe to make a written request to President Ranil Wickremesinghe, seeking an opportunity to apprise the Members of the Parliament of recent revision of remuneration of CBSL staff.
+
+...
+
+[Data](articles/c705f261.json)
+
+---
+
+### India's longest cable bridge opens
+
+*2024-02-25 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193803) · `si`
+
+The Cable Cable Cable Bridge was constructed at the cost of a cost of Rs. 979 billion.
+
+The total length of the bridge that connects the port city of Gujette and Biatha Island is 2.3 kilometers.
+
+The bridge has been constructed to facilitate the famous secondca tank built on Biatka Island.
+
+◼️
+
+[Data](articles/927f454d.json)
+
+[Extended Data](ext_articles/927f454d.ext.json)
+
+---
+
+### The crisis in Negombo to a warm hand
+
+*2024-02-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193802) · `si`
+
+The clergy and Catholics in the Pitipana, Negombo and Catholics in Negombo engaged in a silent protest in front of the shrine of the temple of the temple.
+
+They say that the fishing group is making false statements against the Archbed and the Catholic Church.
+
+The Negombo District Court recently ordered the Pitipana of the Negombo Fisheries Trading Center, which is known as the Legest.
+
+It is related to a complaint filed by the Archbishop filed against the Pitipana United Fisheries Society.
+
+The fishermen of the Catholic Church had also held a protest recently in front of the Archbishop of Colombo, but the Catholic Church said he was legalized to provide a small group of people to the majority of the fisheries community.
+
+The clergy and a group of priests in Negombo Pitipana, which belongs to the Catholic Church, was silent protest in front of the temple of the temple of the temple.
+
+...
+
+[Data](articles/938e049c.json)
+
+[Extended Data](ext_articles/938e049c.ext.json)
+
+---
 
 ### Thorough investigation to be conducted on notice sent to Russian, Ukraine tourists – Public Security Ministry
 
@@ -49,6 +109,26 @@ The Department of Immigration and Emigration recently issued a notice, granting 
 ...
 
 [Data](articles/fe358655.json)
+
+[Extended Data](ext_articles/fe358655.ext.json)
+
+---
+
+### Treatment for three
+
+*2024-02-25 12:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டுப்பன்றி-தாக்கியதில்-மூவருக்கு-சிகிச்சை/175-333767) · `ta`
+
+Three persons, including a woman who was walking on the street, were injured and admitted to the hospital.
+
+In addition, one of the injured has been treated at the Mirigama Resource Hospital and the other two have been transferred to the Vatupitivala Resource Hospital.
+
+Hospital sources said that the situation of one of them is worrisome and has undergone surgery.
+
+◼️
+
+[Data](articles/6bf425e4.json)
+
+[Extended Data](ext_articles/6bf425e4.ext.json)
 
 ---
 
@@ -175,6 +255,24 @@ When the academic reform in Sri Lanka was carried out in the 1970s, it caused so
 [Data](articles/64bb9ed6.json)
 
 [Extended Data](ext_articles/64bb9ed6.ext.json)
+
+---
+
+### A change in dry weather in the Eastern and Uva provinces
+
+*2024-02-25 12:19:23* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-හා-ඌව-පළාත්වල-වියළි-කාලගුණයේ-වෙනසක්/11-408260) · `si`
+
+The Department of Meteorology says that the dry weather conditions in the Eastern and Uva provinces will be expected of the dry weather conditions tomorrow (26).
+
+Accordingly, several showers will be in the East and Uduvila provinces and in the Matale and Polonnaruwa districts.
+
+Thundershowers will occur at the Western and Sabaragamuwa provinces, the Kandy, Nuwara Eliya, Galle and Matara districts.
+
+◼️
+
+[Data](articles/2854beeb.json)
+
+[Extended Data](ext_articles/2854beeb.ext.json)
 
 ---
 
@@ -1364,6 +1462,22 @@ This in turn has led to an unprecedented situation where  two members of the ITA
 
 ---
 
+### Disregarding Court ruling on Bills has ominous consequences given that the Sri Lankan judiciary lacks the power to review enacted law.
+
+*2024-02-25 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83680) · `en`
+
+As much as lawyers, activists and civic conscious citizens, South Asia’s judges seem to be fighting with their backs proverbially against the wall in these extraordinarily fraught times.
+
+At a forum of constitutional lawyers in Katmandu last week, a Nepali legal practitioner confessed deep standing concerns regarding executive interference into the judiciary. This was in a backdrop where the Supreme Court had been left with an acting Chief Justice for more than fifteen months last year at a time when key public interest litigation was pending.
+
+Earlier, an unprecedented crisis had gripped the Court when judges and lawyers demanded the resignation of the Chief Justice for having ‘a close relationship’ with the executive. “The judicial institution does not recover from such a crisis quickly’ he told me. ‘Even when we have positive responses in some cases, we are concerned about systemic independence. There is a long way more to go.’
+
+...
+
+[Data](articles/5c2cf304.json)
+
+---
+
 ### 2024-02-24 (Saturday)
 
 ### China: 15 dead and dozens more injured in Nanjing flat fire
@@ -1947,113 +2061,5 @@ The dedication of the staff, including those from international universities, en
 [Data](articles/28bafa00.json)
 
 [Extended Data](ext_articles/28bafa00.ext.json)
-
----
-
-### Unexploded World War II bomb found in a garden in England
-
-*2024-02-24 18:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97504/unexploded-world-war-ii-bomb-found-in-a-garden-in-england) · `en`
-
-An unexploded bomb from World War II has been taken out to sea and detonated after being found in a garden in the English city of Plymouth, authorities said Friday.
-
-As many as 10,000 people were impacted when parts of the southern English city were cordoned off to enable bomb disposal experts to take the device away, a member of the local parliament, Johnny Mercer, said in a post on social media.
-
-The decision to detonate the bomb at sea was taken “after considering all options, including a controlled detonation on site,” according to a government statement.
-
-“I think it is fair to say that the last few days will go down in history for Plymouth. This war-time bomb has really brought out war-time spirit, people coming together to really support each other and whilst it has been really tough – we got through it,” said Tudor Evans, leader of Plymouth City Council.
-
-...
-
-[Data](articles/6fccb344.json)
-
-[Extended Data](ext_articles/6fccb344.ext.json)
-
----
-
-### China deports 2 Sri Lankans arrested while hiding in empty container
-
-*2024-02-24 18:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97503/china-deports-2-sri-lankans-arrested-while-hiding-in-empty-container) · `en`
-
-Two Sri Lankans who were arrested in China while attempting to escape to Malaysia by hiding themselves inside a container have been deported.
-
-They arrived at the Bandaranaike International Airport (BIA) in Katunayake early this morning. Via SriLankan Airlines flight UL-867 around 5.00 a.m.
-
-Their return to the island comes a year after their arrest by the Chinese authorities.
-
-According to Ada Derana correspondent, the duo had secretly boarded an empty container loaded onto MV Merks Unicorn docked at Colombo International Container Terminal (CICT) of the Colombo Port on January 30, 2023 in a bid to flee to Malaysia.
-
-However, when the ship reached Malaysia, they had been denied entry by the Malaysian authorities.
-
-The duo was later arrested when the vessel eventually arrived in China, after concluding visits to several other countries, with the two Sri Lankans aboard.
-
-...
-
-[Data](articles/e25c92bc.json)
-
-[Extended Data](ext_articles/e25c92bc.ext.json)
-
----
-
-### 33 wild wildarians killed since 2024
-
-*2024-02-24 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193777) · `si`
-
-Interlours have been killed in January 2024 to date.
-
-A wild elephant has died in the Mahiyanganaya area today (24).
-
-The Environmental Organizations calls for the government to implement the law to be implemented strongly against the people who are killed.
-
-◼️
-
-[Data](articles/bc1627e6.json)
-
-[Extended Data](ext_articles/bc1627e6.ext.json)
-
----
-
-### The justification of Indian fishermen cannot be accepted;Arrests are held in accordance with the law of the country - the Navy Commander
-
-*2024-02-24 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177207) · `ta`
-
-The justification of Indian fishermen cannot be accepted that we boycotted the Kachchativu festival due to fisherman's arrest. We act in accordance with the law of the country. Navy Commander Vice Admiral Priyantha Perera said I expect a smooth solution to be reached before next year's festival.
-
-The Annual Festival of St. Anthony's Purchase in Kachchativu commenced on Friday (23) and ended on Saturday (24). Speaking to the media after attending the festival as a special guest, the Navy Commander said the above.
-
-St. Anthony's Festival of Kachchativu is a great example of national reconciliation in Sri Lanka. I am happy that all the people of the country attended the festival on the basis of Sri Lankans without any differences in race, religion and language.
-
-I thank all parties who presented the historic annual festival of St. Anthony's Corporation of Kachchativu. The festival is identified as the bridge of the relationship of India and Sri Lanka.
-
-...
-
-[Data](articles/ac1206e9.json)
-
-[Extended Data](ext_articles/ac1206e9.ext.json)
-
----
-
-### Sugeeshwara pulls big crowd to debut rally...
-
-*2024-02-24 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sugeeshwara-pulls-big-crowd-to-debut-rally/110-277656) · `en`
-
-A big crowd gathered at Hyde Park, Colombo today as Sugeeshwara Bandara made his debut in national politics as Colombo district organizer of the new alliance led by ex-Minister Anura Yapa. Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/60a2b0a0.json)
-
-[Extended Data](ext_articles/60a2b0a0.ext.json)
-
----
-
-### Sugeeshwara pulls big crowd for debut rally...
-
-*2024-02-24 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sugeeshwara-pulls-big-crowd-for-debut-rally/110-277656) · `en`
-
-◼️
-
-[Data](articles/d078855c.json)
-
-[Extended Data](ext_articles/d078855c.ext.json)
 
 ---

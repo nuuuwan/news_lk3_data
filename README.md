@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 22:03:59**
+As of **2024-02-25 22:17:27**
 
 ## Newspaper Stats
 
-*Scraped **9,220** Articles*
+*Scraped **9,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 1,114
 tamilmirrorlk | 1,135
 virakesarilk | 1,250
 dailymirrorlk | 1,387
-adaderanasinhalalk | 1,392
+adaderanasinhalalk | 1,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,220 (100.0%) of 9,220 articles have been extended.
+9,220 (100.0%) of 9,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### ලස්සන වෙන්න මෙහෙම කළොත් උරුමය මරණයයි
+
+*2024-02-25 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193818) · `si`
+
+පුහුණු වෛද්‍යවරයෙකුගේ මැදිහත්වීමකින් තොරව ප්ලාස්ටික් සැත්කම් සිදුකිරීමෙන් ජීවිත අවදානමකට පවා ලක්විය හැකි බව ප්ලාස්ටික් සැත්කම් පිළිබඳ වෛද්‍යවරුන්ගේ සංගමය පවසයි.
+
+අද (25) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඔවුන් අනාවරණ කළේ එවැනි සුදුසුකම් නොමැති වෛද්‍යවරුන් රැසක් ක්ෂේත්‍රය තුළ කටයුතු කරමින් සිටින බවය.
+
+නිසි සුදුසුකම් නැති වෛද්‍යවරුන් ප්ලාස්ටික් සැත්කම් සිදුකිරීමේදී මතුවන අවධානම සම්බන්ධයෙන් ජනතාව දැනුවත් කිරීම සඳහා එම සංගමයේ විශේෂඥ වෛද්‍යවරුන් පිරිසක් අද ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවා තිබුණි.
+
+මේ අතර පසුගියදා මහනුවර පෞද්ගලික රෝහලකදී සිදුකළ උදරයේ තැන්පත්ව තිබූ ලීටර 13.5 ක මේදය ඉවත්කිරීමේ සැත්කමද රෝගී ජීවිත අවදානමක් සහිත සැත්කමක් බව එහිදී වෛද්‍යවරුන් අනාවරණ කළේය.
+
+එහිදී අදහස් දැක්වූ එම සංගමයේ විශේෂඥ වෛද්‍ය අමිල ශසංක රත්නායක මහතා,
+
+...
+
+[Data](articles/c5aca1b0.json)
+
+---
 
 ### Father has been accused of daughter's death
 
@@ -2105,25 +2125,5 @@ The highest number of patients have been identified from the Colombo District in
 [Data](articles/c544a0e3.json)
 
 [Extended Data](ext_articles/c544a0e3.ext.json)
-
----
-
-### Showers expected in several provinces
-
-*2024-02-25 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97511/showers-expected-in-several-provinces) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Southern, Sabaragamuwa and Central provinces in the evening or night.
-
-A few showers may occur in Uva and Eastern provinces, it said.
-
-Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Badulla district during the morning.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/d47448b4.json)
-
-[Extended Data](ext_articles/d47448b4.ext.json)
 
 ---

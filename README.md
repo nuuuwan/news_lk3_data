@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 11:17:27**
+As of **2024-02-25 11:33:07**
 
 ## Newspaper Stats
 
-*Scraped **9,140** Articles*
+*Scraped **9,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 464
 dailyftlk | 483
 islandlk | 486
-adalk | 763
+adalk | 764
 adaderanalk | 1,102
 tamilmirrorlk | 1,120
-virakesarilk | 1,242
+virakesarilk | 1,244
 adaderanasinhalalk | 1,374
 dailymirrorlk | 1,378
 
@@ -26,11 +26,31 @@ dailymirrorlk | 1,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,136 (100.0%) of 9,140 articles have been extended.
+9,140 (100.0%) of 9,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### ஜனாதிபதியுடன் தனிப்பட்ட சந்திப்பை கோரிய அமெரிக்க பிரதி இராஜாங்க செயலாளர்
+
+*2024-02-25 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/177234) · `ta`
+
+இலங்கைக்குவிஜயம் மேற்கொண்ட அமெரிக்காவின் பிரதி இராஜாங்க செயலாளர்ரிச்சட் வெர்மா உத்தியோகபூர்வ சந்திப்பில் ஈடுபடுவதற்கு முன்னதாக ஜனாதிபதி ரணில்விக்கிரமசிங்கவுடன்  தனிப்பட்ட சந்திப்பொன்றில் ஈடுபட்டார் .
+
+ஜனாதிபதியை சந்திப்பதற்காக வெர்மா வந்த வெர்மா  தனிப்பட்ட சந்திப்பொன்றிற்காக வேண்டுகோள் விடுத்தார் என தகவல்கள் வெளியாகியுள்ளன.
+
+ரணில்விக்கிரமசிங்க இதற்கு இணங்கியதுடன் மூடிய கதவுகளிற்குள் பேச்சுவார்த்தைகளை மேற்கொண்ட பின்னரே உத்தியோகபூர்வ பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ளார்.
+
+உத்தியோகபூர்வ பேச்சுவார்த்தைகளி;ன் போது  பயங்கரவாத எதிர்ப்பு சட்டம் நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்து ஆராயப்பட்டதாகவும் ஜனாதிபதி அரசாங்கத்தின் நிலைப்பாடுகளை தெளிவுபடுத்தியதுடன் அரசாங்கம் முன்னெடுத்த நடவடிக்கைகள் குறித்தும் சுட்டிக்காட்டியுள்ளார்.
+
+இதேவேளை பயங்கரவாதத்தை எதிர்ப்பு சட்டமூலம்  அடுத்த புதிய நாடாளுமன்றத்தின் காலம்வரை பிற்போடப்படும் என ஜனாதிபதி தெரிவிக்கவில்லை என தகவல்கள் வெளியாகியுள்ளன.
+
+◼️
+
+[Data](articles/ff4e20ed.json)
+
+---
 
 ### President orders probe into directive for Russian, Ukrainian tourists to depart
 
@@ -44,19 +64,41 @@ The President's Media Division said that the Sri Lankan government has not offic
 
 [Data](articles/5321e3f1.json)
 
+[Extended Data](ext_articles/5321e3f1.ext.json)
+
 ---
 
-### ජනපතිගෙන් විශේෂ නියෝගයක්
+### உயிர்த்த ஞாயிறு தாக்குதல்கள் குறித்த விசாரணைகளை வலியுறுத்தினார் அமெரிக்க பிரதி இராஜாங்க செயலாளர்
+
+*2024-02-25 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177229) · `ta`
+
+உயிர்த்த ஞாயிறுதாக்குதல்கள்குறித்த விசாரணகளின் அவசியத்தை அமெரிக்காவின் முகாமைத்துவம் மற்றும் வளங்கள் பிரதி  இராஜாங்க செயலாளர்  ரிச்சட் வெர்மா வலியுறுத்தியுள்ளார்.
+
+பொருளாதார நெருக்கடி உத்தேபயங்கரவாத எதிர்ப்பு சட்டம் நிகழ்நிலை பாதுகாப்பு சட்டம் நல்லிணக்கம் போன்றவழமையான விவகாரங்களிற்கு அப்பால்  2019 உயிர்த்த ஞாயிறு தாக்குதல் விசாரணகள் குறித்தும் வெர்மா ஜனாதிபதியுடன் பேச்சுவார்த்தைகளை மேற்கொண்டுள்ளார்.
+
+வெளிவிவகார அமைச்சர் அலிசப்ரியுடனான சந்திப்பின்போதும் பின்னர் ஜனாதிபதியுடனான சந்திப்பின்போதும்  ரிச்சட்உயிர்த்த ஞாயிறுதாக்குதல் விசாரணைகள்  குறித்து ஆராய்ந்துள்ளார் என தகவல்கள் வெளியாகியுள்ளன.
+
+2019 உயிர்த்த ஞாயிறுதாக்குதலில் தனக்கு தெரிந்த ஒருவரை வெர்மா இழந்தார் எனவும் இதன் காரணமாக விசாரணைகள் குறித்து தனிப்பட்ட முறையில் வலியுறுத்தினார் எனவும் தகவல்கள் வெளியாகியுள்ளன.
+
+...
+
+[Data](articles/9d625703.json)
+
+---
+
+### President is a special order from President
 
 *2024-02-25 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193799) · `si`
 
-මෙරට රැඳී සිටින රුසියානු සහ යුක්‍රේන සංචාරකයින් දින 14ක් ඇතුළත රටින් පිට විය යුතු බවට කැබිනට් අනුමැතියකින් තොර ව කර ඇති දැනුම්දීම සම්බන්ධයෙන් පරීක්ෂණයක් පවත්වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නියෝග කර තිබේ.
+President Ranil Wickremesinghe has ordered an inquiry into the notification of Cabinet approval to leave the country within 14 days.
 
-රුසියානු සහ යුක්‍රේන සංචාරකයන් සඳහා මීට පෙර ලබා දී ඇති වීසා දීර්ඝ කිරීම් අවලංගු කිරීමට ශ්‍රී ලංකා රජය නිල වශයෙන් තීරණය කර නොමැති බව ද ජනාධිපති මාධ්‍ය අංශය නිකුත් කළ නිවේදනයේ සඳහන් වේ.
+The Government of Sri Lanka has not yet been officially determined to cancel the visa extensions given to Russian and Ukrainian tourists.
 
 ◼️
 
 [Data](articles/ada282a5.json)
+
+[Extended Data](ext_articles/ada282a5.ext.json)
 
 ---
 
@@ -80,23 +122,25 @@ In addition, the police handed over the girl who went with the young man to thei
 
 ---
 
-### ශ්‍රීලන්කන් සමාව ඉල්ලයි
+### SriLankan apologizes
 
 *2024-02-25 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193798) · `si`
 
-අද (25) දින සිදු වූ ගුවන් ගමන් ප්‍රමාදය පිළිබඳ ශ්‍රීලන්කන් ගුවන් සේවය මාධ්‍ය නිවේදනයක් නිකුත් කර තිබේ.
+SriLankan Airlines has issued a press release regarding the delay incurred delay in the air travel today (25).
 
-එම ප්‍රමාදයන්, තාවකාලික සහ සැලසුම් නොකළ මෙහෙයුම් තත්ත්වයක් නිසා සිදු වූවක් බව ශ්‍රීලන්කන් ගුවන් සේවය සඳහන් කර ඇත.
+The SriLankan Airlines has stated that the delays were caused by a temporary and non-planned operation.
 
-එය කිසිදු ආකාරයක වෘත්තීය සමිති ක්‍රියාමාර්ගයක් නිසා සිදු වූවක් නොවන බව ද එම සමාගම දක්වා තිබේ.
+The company has noted that it is not caused by any trade union action.
 
-එසේම, ප්‍රමාදයන් නිසා ඇති වූ අපහසුතාව පිළිබඳ ශ්‍රීලන්කන් ගුවන් සමාගම සියලු මඟීන්ගෙන් සමාව අයදින බව ද මාධ්‍ය නිවේදනයේ සඳහන් කර ඇත.
+Also, SriLankan Airlines is forgiven of the inconvenience caused by delay.
 
-නැවත එවැනි තත්ත්වයක් ඇති වීම වළක්වා ගැනීම සඳහා ශ්‍රී ලන්කන් ගුවන් සේවය කටයුතු කරන බව ද දක්වා තිබේ.
+SriLankan Airlines is also expected to prevent such a situation again.
 
 ◼️
 
 [Data](articles/a3649495.json)
+
+[Extended Data](ext_articles/a3649495.ext.json)
 
 ---
 
@@ -135,6 +179,8 @@ The arrested woman, a 52-year-old Chinese national, is currently under investiga
 ◼️
 
 [Data](articles/5971edfa.json)
+
+[Extended Data](ext_articles/5971edfa.ext.json)
 
 ---
 
@@ -204,7 +250,7 @@ The police also recovered the three-wheeler arrived in the suspects and the poli
 
 ### Sri Lanka - Morning Information
 
-*2024-02-25 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177225) · `ta`
+*2024-02-25 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177225) · `ta`
 
 Morning reports that the Sri Lankan navy ship, which was very secretly sent to patrols to the Red Sea, is returning to Sri Lanka by completing its joint patrols.
 
@@ -359,6 +405,24 @@ Addressing a political meeting, he said this amidst thundering applause by parti
 [Data](articles/e911772f.json)
 
 [Extended Data](ext_articles/e911772f.ext.json)
+
+---
+
+### කැබිනට් පත්‍රිකා සදහා නිවැරදි තොරතුරු ලබා නොදෙන නිළධාරීන්ට වැඩ වරදියි
+
+*2024-02-25 08:56:10* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-පත්‍රිකා-සදහා-නිවැරදි-තොරතුරු-ලබා-නොදෙන-නිළධාරීන්ට-වැඩ-වරදියි/11-408257) · `si`
+
+ අනුමත කැබිනට් යෝජනා කඩිනමින් ක්‍රියාත්මක කිරීමට නාගරික සංවර්ධන හා නිවාස අමාත්‍යංශයේ ඉහළ පෙලේ කමිටුවක්.
+
+කැබිනට් අනුමැතිය හිමිවු අමාතංශයට අදාළ කැබිනට් යෝජනා කඩිනමින් ක්‍රියාත්මක කිරීම සදහා නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා ඉහළ පෙළේ කමිටුවක් පත් කරයි. අමාත්‍යාංශ ලේකම් ඩබ්ලිව්.එස්. සත්‍යානන්ද මහතා අදාළ කමිටුවේ සභාපතිවරයායි. අමාත්‍යංශයේ අතිරේක ලේකම් ඇතුළු තවත් නිළධාරීන් 4 දෙනෙක් එහි සෙසු සාමාජිකයෝ වෙති.
+
+සති දෙකකට වරක් රැස්වී කැබිනට් යෝජනා ක්‍රියාත්මක කිරීමේ ප්‍රගතිය සමාලෝචනය කර තමන්ට වාර්තාවක් ලබා දෙන ලෙසද නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අමාත්‍යාංශ ලේකම්වරයා ප්‍රමුඛ කමිටුවටට පසුගියදා (22) උපදෙස් දුන්නේය.
+
+කැබිනට් පත්‍රිකා ප්‍රමාදයකින් තොරව ඉදිරිපත් කිරීමේ වගකීමද මෙම කමිටුවට පැවරෙන බව ඇමතිවරයා කිවේය.
+
+...
+
+[Data](articles/01f138d0.json)
 
 ---
 
@@ -1983,77 +2047,5 @@ In light of the situation, the health authorities have taken prompt measures to 
 [Data](articles/115dd5d5.json)
 
 [Extended Data](ext_articles/115dd5d5.ext.json)
-
----
-
-### Suspected deaths of patients at Kurunegala Hospital raise concern
-
-*2024-02-24 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Suspected-deaths-of-patients-at-Kurunegala-Hospital-raise-concern/155-277651) · `en`
-
-Feb 24, (Daily Mirror) - The Health Ministry has launched an investigation and appointed a committee to look into the incident surrounding the suspected deaths at the dialysis unit of the Kurunegala Teaching Hospital.
-
-Speaking of the matter, Secretary of the Ministry of Health Dr. Palitha Mahipala said the at least five deaths have occurred since January at the dialysis unit.
-
-Accordingly, a five-member committee headed by Chief Epidemiologist Dr Samitha Ginige has been appointed to look into the matter.
-
-According to sources, the incident may have occurred due to the entry of certain unidentified pathogens into the blood dialysis unit.
-
-However, the Health Ministry is investigating the entire scenario to ascertain the actual cause of the deaths.
-
-In light of the situation, the health authorities have taken prompt measures to shut down the unit and direct the kidney patients to other nearest units.
-
-◼️
-
-[Data](articles/7515f8c9.json)
-
-[Extended Data](ext_articles/7515f8c9.ext.json)
-
----
-
-### Opposition to the plantation officer who tried to take waste tea home
-
-*2024-02-24 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177193) · `ta`
-
-Workers who have transported to the Bungalow of Waste Tea Powder (Sonu Powder) at the St. Claiyar Estate Division, which belongs to the Talawakelle Police Division, have been prevented from carrying the waste powder carrying the plantation vehicle.
-
-It is said that the Assistant Estate Officer abused the waste tea in the incident, which is said to have taken place on Friday evening.
-
-However, the Assistant Estate Officer told the workers that the waste tea was carried out for "Combast" fertilizer in the land in the bungalow.
-
-But workers have objected to the plantation officer's carrying the waste tea. Workers also point out that they are likely to carry the waste tea today and take good tea powder tomorrow.
-
-In this case, the workers have also voiced the transporting waste tea powder to the factory.
-
-◼️
-
-[Data](articles/7f385615.json)
-
-[Extended Data](ext_articles/7f385615.ext.json)
-
----
-
-### Five Indian nationals arrested with bedicho
-
-*2024-02-24 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193768) · `si`
-
-Information is received from the Negombo Excise Office that a manuscript is carrying a stock of beady from India from India.
-
-Accordingly, a group of the Negombo Excise Office at the Sri Lanka Navy, a team of the Negombo Excise office had been operated on the 19th of last month.
-
-The navy has taken into custody by the Navy in a dingry vessel, and 75 students who have been in the vessel they arrived.
-
-Later, the suspects and the collapses were handed over to the Excise Department.
-
-The department stated that 2,175 kilograms of BD leaves were found there.
-
-All Indians who were taken into custody by the Excise Department are under 20 years of age and they have reached the country to Sri Lanka from Tuturukudi.
-
-Investigations are being carried out by the Negombo Excise Office.
-
-◼️
-
-[Data](articles/4af45b3d.json)
-
-[Extended Data](ext_articles/4af45b3d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 16:33:00**
+As of **2024-02-25 16:47:58**
 
 ## Newspaper Stats
 
-*Scraped **9,194** Articles*
+*Scraped **9,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 465
 dailyftlk | 483
 islandlk | 486
-adalk | 771
+adalk | 772
 adaderanalk | 1,110
 tamilmirrorlk | 1,132
 virakesarilk | 1,246
@@ -26,27 +26,55 @@ adaderanasinhalalk | 1,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,191 (100.0%) of 9,194 articles have been extended.
+9,195 (100.0%) of 9,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### හම්බන්තොට වරාය මියන්මාර වරාය සමඟ සම්බන්ධ කිරීමට සැලසුම්
+### Plans to connect Hambantota port with Myanmar Harbor
 
 *2024-02-25 15:54:27* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-වරාය-මියන්මාර-වරාය-සමඟ-සම්බන්ධ-කිරීමට-සැලසුම්/11-408265) · `si`
 
-හම්බන්තොට ප්‍රදේශයේ යටිතල පහසුකම් සඳහා දැනටමත් සිදුකර ඇති පුළුල් ආයෝජන ජාතික ආර්ථිකයට ප්‍රතිලාභ සැලසෙන අයුරින් සක්‍රීයව භාවිතයට ගැනීමේ වැදගත්කම ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+President Ranil Wickremesinghe stressed the importance of being actively using the widespread investment in the infrastructure of the Hambantota area.
 
-හම්බන්තොට වරාය මියන්මාර වරාය සමඟ සම්බන්ධ කිරීමට සැලසුම් කර ඇති බවත්, එය නැගෙනහිර චීනයේ චොංකිං වරාය දක්වා සහ අප්‍රිකාව දක්වා තවදුරටත් ව්‍යාප්ත කිරීමට අපේක්ෂා කරන බවත් සඳහන් කළ ජනාධිපතිවරයා මෙරට ප්‍රධාන ආර්ථික කේන්ද්‍රස්ථානයක් බවට හම්බන්තොට පත් කිරීමේ හැකියාවද පෙන්වා දුන්නේය.
+The President has planned to be connected to the Hambantota port with Myanmar Port and further expanding to the Chongki Port and Africa.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව පෙන්වා දුන්නේ බස්නාහිර, නැගෙනහිර සහ හම්බන්තොට නගර සංවර්ධන සැලැස්ම පිළිබඳ පසුගියදා ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවේදීය.
+President Ranil Wickremesinghe made this statement at the Presidential Secretariat recently regarding the Western, Eastern and Hambantota Town City Development Plan.
 
-කොළඹ නගරය ඇතුළු බස්නාහිර පළාතේ, නැගෙනහිර පළාතේ මෙන්ම හම්බන්තොට ප්‍රදේශයේ සංචාරක කලාප ආශ්‍රිත ක්‍රමෝපායික සංවර්ධන සැලසුම් සහ නාගරික සංවර්ධන සැලසුම් පිළිබඳව මෙහිදී දීර්ඝ වශයෙන් සමාලෝචනය කෙරුණු අතර ඊට අදාළ නව ආයෝජන අවස්ථා පිළිබඳව ද විමසා බැලිණි.
+The Eastern Province and the Western Province of Colombo and tourism zonal development plans and urban development plans were also informed of new investment opportunities.
+
+The President also revealed the plan to establish new investment zones using thousands of acres in Moneragala.
+
+The President also pointed out the importance of developing the new towns, including the strategic capabilities of Awissawella and Eheliyagoda to reduce urban congestion.
 
 ...
 
 [Data](articles/76257cd8.json)
+
+[Extended Data](ext_articles/76257cd8.ext.json)
+
+---
+
+### President's scholarships per 100,000 students from Presidentials
+
+*2024-02-25 15:50:21* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-උපදෙසින්-වසරකට-පාසල්-සිසුන්-ලක්ෂයකට-“ජනාධිපති-ශිෂ්‍යත්ව”/11-408264) · `si`
+
+The Presidential Fund is planned to implement the "Presidential Scholarship Program to encourage school children to encourage school children to encourage school children.
+
+Accordingly, the number of students who study the number of schools in 10,126 schools in Sri Lanka will be implemented annually to implement a program to 11 million students from the first grade to 11 (100,000).
+
+The program aims to provide school equipment and exercise books to meet children in the country today and to provide a variety of difficulties, such as transport facilities.
+
+President Ranil Wickremesinghe's prospect is to provide students with the students who are studying at the most minimal facilities at every school.
+
+Accordingly, the selection process of selecting the recipients and the following information is to be informed in the next few days, www.facebook.com, www.facebook.com.
+
+◼️
+
+[Data](articles/b36457b7.json)
+
+[Extended Data](ext_articles/b36457b7.ext.json)
 
 ---
 
@@ -115,6 +143,8 @@ Additionally, the embassy urged all Russian citizens visiting or residing in Sri
 ◼️
 
 [Data](articles/898866e0.json)
+
+[Extended Data](ext_articles/898866e0.ext.json)
 
 ---
 
@@ -262,23 +292,29 @@ This request, made in accordance with Section 80 (2) (b) of the Central Bank of 
 
 ---
 
-### මෑලේසියාවට හිස් බහාලුමක යන්න ගිහින් චීනයේදී අත්අඩංගුවට පත්වූ ලාංකිකයන දෙදෙනා වසරකට පසු ලංකාවට
+### Two Sri Lankans who were arrested in China to Sri Lanka to visit Maleezia to go to an empty container
 
 *2024-02-25 13:39:22* · [`adalk`](https://www.ada.lk/breaking_news/මෑලේසියාවට-හිස්-බහාලුමක-යන්න-ගිහින්-චීනයේදී-අත්අඩංගුවට-පත්වූ-ලාංකිකයන-දෙදෙනා-වසරකට-පසු-ලංකාවට/11-408263) · `si`
 
-කොළඹ වරායේ නවතා තිබූ නැවකට පැටවූ හිස් බහාලුමක (Container )සැගවී මැලේසියාවට පළා යාමට තැත් කළ ශ්‍රී ලාංකිකයන් දෙදෙනෙකු , චීනයේ දී අත් අඩංගුවට පත් වී වසරකට පසුව එරටින් පිටුවහල් කර 02/24 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත එවා තිබුණි.
+Two Sri Lankans attempting to flee in an empty container on an empty container on an empty container had been arrested in China and was deported in China and sent to Katunayake airport on 24th.
 
-26 හැවිරිදි මලාල් මාදි රාජේන්ද්‍රන් සහ 39 හැවිරිදි ජයකුමාර් තරුමරාසා ශ්‍රී ලාංකික ද්‍රවිඩ ජාතිකයන් දෙදෙනෙකි.
+The 26-year-old Madi Rajitha and 39 year old Jayakumar inspects two Sri Lankan Tamils.
 
-මොවුන් ඉකුත් 2023 වසරේ ජනවාරි මස 30 දින කොළඹ වරායේ සී.අයි.සී.ටී.ජැටියේ නවතා තිබූ " මර්ක්ස් යුනිකෝන් " නැවට පටවා තිබූ හිස් බහාලුමක් තුළට රහසිගතව ඇතුළු වී ඇත්තේ  මැලේසියාව බලා පිටත්ව යාමටය.
+They had entered a blanket in the CIC Katjato, which was parked in the CICTRC.
 
-එහෙත් අදාළ නැව මැලේසියාවට පැමිණි විට , මෙම බහාලුම තුළ සැගවී සිටි මොවුන් දෙදෙනා භාර ගැනීම ප්‍රතික්ෂේප කිරීම නිසා , මෙම නැවේ නාවුක බලධාරීන් මොවුන් රැගෙන තවත් රටවල් ගනනාවකට යෑමෙන් පසු අවසාන වශයෙන් චීනය වෙත පැමිණ තිබුණි .
+However, when the ship arrives in Malaysia, the sailors of the ship had finally arrived at China after the refusal of the two higraments.
 
-එහිදී චීන බලධාරීන් විසින් මොවුන් දෙදෙනා අත් අඩංගුවට ගෙන තිබේ .
+The two of the two have been arrested by the Chinese authorities.
 
-...
+After these two were deported to be deported, 05.01 am on the 4.01 o'clock from Shanghai from Shanghai to the Katunayake airport.
+
+The Katunayake Airport Criminal Investigation Department (CID) has been arrested by the Katunayake Airport and Railway Investigation Division after his arrival at the Katunayake airport.
+
+◼️
 
 [Data](articles/52fcacce.json)
+
+[Extended Data](ext_articles/52fcacce.ext.json)
 
 ---
 
@@ -2047,23 +2083,5 @@ Stressing the government’s commitment to steering the economy towards recovery
 [Data](articles/9bd9c9d2.json)
 
 [Extended Data](ext_articles/9bd9c9d2.ext.json)
-
----
-
-### Alexyi Navalni's body to the mother
-
-*2024-02-24 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193783) · `si`
-
-It is reported that the Russian authorities have agreed to give Alexi Navalni's body to his mother, a leading Russian opposition leader.
-
-But his body has agreed to burial in a secret place, BBC News.
-
-Navalney died on the 16th in a Russian prison camp.
-
-◼️
-
-[Data](articles/87d7e19b.json)
-
-[Extended Data](ext_articles/87d7e19b.ext.json)
 
 ---

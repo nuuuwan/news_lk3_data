@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 10:33:03**
+As of **2024-02-25 10:50:17**
 
 ## Newspaper Stats
 
-*Scraped **9,130** Articles*
+*Scraped **9,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 763
 adaderanalk | 1,100
 tamilmirrorlk | 1,119
 virakesarilk | 1,242
-adaderanasinhalalk | 1,370
-dailymirrorlk | 1,375
+adaderanasinhalalk | 1,372
+dailymirrorlk | 1,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,130 (100.0%) of 9,130 articles have been extended.
+9,133 (100.0%) of 9,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### SriLankan clarifies flight delays
+
+*2024-02-25 10:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-clarifies-flight-delays/108-277666) · `en`
+
+Colombo, Feb 25 (Daily Mirror) - SriLankan Airlines clarified that the delays experienced by passengers at the check-in counters in Bandaranaike International Airport during the early hours of the morning were due to temporary, unplanned operational conditions at the airport and not any form of trade union action.
+
+The check-in counter operations have since stabilized and returned to normal.
+
+SriLankan Airlines extends apologies to any inconvenienced passengers and assures continued monitoring of the situation to prevent recurrence.
+
+◼️
+
+[Data](articles/2220e152.json)
+
+[Extended Data](ext_articles/2220e152.ext.json)
+
+---
+
+### Two suspects arrested
+
+*2024-02-25 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193797) · `si`
+
+Two suspects have been arrested for assistance to the crime of the site at the main entrance of the Modara Police Division.
+
+One suspect was arrested and produced before the Modara Police Station at the Colombo Nutuity Divisional Secretariat Division yesterday morning.
+
+The suspect is a 36 year old resident of Kotahena.
+
+The suspect was produced before the Hulftsdathi Magistrates at the Magistrate yesterday.
+
+Another suspect who supported the shooting was custody in the evening yesterday evening.
+
+Police have found 10 Ice drug 10 and 875 milligrams in possession of the suspect.
+
+The police also recovered the three-wheeler arrived in the suspects and the police are conducting further investigations.
+
+◼️
+
+[Data](articles/40b6cb21.json)
+
+[Extended Data](ext_articles/40b6cb21.ext.json)
+
+---
 
 ### Sri Lanka - Morning Information
 
@@ -51,6 +95,24 @@ Morning said that the Sri Lankan navy sent its ship and when the ship completed 
 [Data](articles/7e252d25.json)
 
 [Extended Data](ext_articles/7e252d25.ext.json)
+
+---
+
+### Chinese woman arrested for money fraud
+
+*2024-02-25 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193796) · `si`
+
+Chinese woman has been arrested in connection with over Rs.
+
+The suspect was arrested in Kollupitiya area yesterday.
+
+The woman was arrested in the investigation by a complaint with a complaint with the Colombo Fraud Investigation Bureau on January 31.
+
+◼️
+
+[Data](articles/04f6df28.json)
+
+[Extended Data](ext_articles/04f6df28.ext.json)
 
 ---
 
@@ -2007,71 +2069,5 @@ Three unidentified assailants had opened fire using a revolver, around 7:15 a.m.
 [Data](articles/62cb8f8f.json)
 
 [Extended Data](ext_articles/62cb8f8f.ext.json)
-
----
-
-### Mahabage shooting: Army deserter arrested over “Ukkuwa’s” murder
-
-*2024-02-24 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97498/mahabage-shooting-army-deserter-arrested-over-ukkuwas-murder) · `en`
-
-A Sri Lanka Army deserter has been arrested by the Army intelligence officers this morning (Feb.24), in connection with the shooting incident in Mahabage earlier this week.
-
-He is said to be one of the prime suspects wanted in the murder case.
-
-According to the Army, the arrestee, named Nuwan Chamara de Silva, was a Corporal attached to the 4th Battalion of the Gemunu Watch Regiment at the camp in Chenkalady, Batticaloa.
-
-He had fled the camp when the Army intelligence officers were approaching but was later taken into custody in the Ampara area following an extensive search operation.
-
-The suspect was later handed over to the Police Special Task Force (STF) officers for onward investigations.
-
-Three unidentified assailants had opened fire using a revolver, around 7:15 a.m. on Feb.21 near a meat shop in Elapitiwala Junction, Mahabage, leaving the shop owner dead. The victim had succumbed to injuries while being rushed to the Colombo North Teaching Hospital in Ragama.
-
-...
-
-[Data](articles/c31df97c.json)
-
-[Extended Data](ext_articles/c31df97c.ext.json)
-
----
-
-### Army deserter arrested over Mahabage meat shop shooting
-
-*2024-02-24 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97498/army-deserter-arrested-over-mahabage-meat-shop-shooting-) · `en`
-
-A Sri Lanka Army deserter has been arrested by the STF over the shooting incident in Mahabage on Feb.21.
-
-He is said to be one of the main suspects wanted over the murder.
-
-Two unidentified assailants on a motorcycle had opened fire using a revolver, around 7:15 a.m. on Feb.21 near a meat shop in Elapitiwala Junction, Mahabage, leaving the shop owner dead.
-
-◼️
-
-[Data](articles/fab45d1f.json)
-
-[Extended Data](ext_articles/fab45d1f.ext.json)
-
----
-
-### Suspect arrested for cooking murder
-
-*2024-02-24 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193765) · `si`
-
-The Police Special Task Force has been arrested by the STF in the Mahabage area this morning (24).
-
-The suspect is currently an corporal who is currently working in active service.
-
-The suspect was arrested by the STF to arrest him by the STF to arrest him in Batticaloa.
-
-The suspect was arrested by the army intelligence officers in Ampara.
-
-The 'Ukhakuwa Ukka', a relative of the 'Sala Saranga', is considered as an organized criminal.
-
-Two other soldiers including the main suspect arrested for shooting have come.
-
-◼️
-
-[Data](articles/0131e3f2.json)
-
-[Extended Data](ext_articles/0131e3f2.ext.json)
 
 ---

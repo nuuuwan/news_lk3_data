@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 20:32:45**
+As of **2024-02-25 20:48:54**
 
 ## Newspaper Stats
 
-*Scraped **9,212** Articles*
+*Scraped **9,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,79 @@ economynextcom | 465
 dailyftlk | 483
 islandlk | 486
 adalk | 773
-adaderanalk | 1,113
+adaderanalk | 1,114
 tamilmirrorlk | 1,135
 virakesarilk | 1,248
-dailymirrorlk | 1,386
+dailymirrorlk | 1,387
 adaderanasinhalalk | 1,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,210 (100.0%) of 9,212 articles have been extended.
+9,214 (100.0%) of 9,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### சிறுமியை கடத்திய காதலனும், சிறிய தாயும் கைது
+### Hunger strike launched in TN against arrest of fishermen by Sri Lankan Navy
+
+*2024-02-25 19:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97526/hunger-strike-launched-in-tn-against-arrest-of-fishermen-by-sri-lankan-navy) · `en`
+
+Fishermen of Thangachimadam and Rameswaram areas in Tamil Nadu, along with their families, started a relay hunger on Saturday (24 Feb.) against the arrests of Tamil Nadu fishermen by the Sri Lankan Navy.
+
+“Sri Lankan government has jailed five of our fishermen. They have been sentenced in between six months to two years. We have not ventured into the sea for the last eight days now,” P Jesu Raja, a fishermen leader, told IANS.
+
+He said that the hunger strike will continue till all the fishermen are released unconditionally and an assurance is given that the Sri Lankan government will not arrest fishermen anymore.
+
+The fishermen association leaders said that they will continue with the strike even if they die due to starvation. Jesu Raja appealed to the Central government to immediately intervene to get the fishermen released along with their mechanised boats.
+
+◼️
+
+[Data](articles/6a3c3b93.json)
+
+[Extended Data](ext_articles/6a3c3b93.ext.json)
+
+---
+
+### Civilians allowed to visit seven Hindu temples in Jaffna High Security Zone
+
+*2024-02-25 19:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Civilians-allowed-to-visit-seven-Hindu-temples-in-Jaffna-High-Security-Zone/108-277676) · `en`
+
+Jaffna, Feb 25 (Daily Mirror) - The Sri Lanka Army has announced the granting of permission for the public to visit seven Hindu temples (Kovils) situated within the high-security zone under the jurisdiction of the Security Forces Headquarters in Jaffna.
+
+Under this decision, civilians will be permitted to participate in weekly poojas and other associated rituals at the Kaduwan Muttumari Amman Kovil, Vasavilan Manampirai Kovil, Visavilan Shivam Kovil, Vasavilan Naga Kovil, Palali Raja Rajeswari Kovil, Palali Naga Thampilan Kovil and Palali Shaktiveli Murugan Kovil.
+
+The Army said that this decision was made in response to numerous requests from temple trustees and civil organizations.
+
+Previously, permissions were limited to monthly and special poojas at these kovil premises.
+
+◼️
+
+[Data](articles/27ab93fa.json)
+
+[Extended Data](ext_articles/27ab93fa.ext.json)
+
+---
+
+### A boyfriend and little mother arrested for abducting a girl
 
 *2024-02-25 19:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/சிறுமியை-கடத்திய-காதலனும்-சிறிய-தாயும்-கைது/73-333790) · `ta`
 
-மட்டக்களப்பு  - கொக்குவில் பொலிஸ் பிரிவில் 15 வயது சிறுமியை கடத்திச் சென்ற 18 வயது இளைஞன் மற்றும் அவரது சிறிய தாயார் உட்பட இருவரை நேற்று (24) இரவு வாகரையில் வைத்து கைது செய்துள்ளதுடன் சிறுமியை மீட்டு வைத்தியசாலையில் ஒப்படைத்துள்ளதாக கொக்குவில் பொலிஸார் தெரிவித்தனர்.
+Kokuvil police said that the 18 -year -old youth and her little mother, who were abducted by a 15 -year -old girl in the Batticaloa - Kokuvil police division, have been arrested in the wake of last night and handed over the girl to the hospital.
 
-குறித்த பொலிஸ் பிரிவிலுள்ள சிறுமி கடந்த 7ஆம் திகதி பாடாலைக்கு சென்ற நிலையில் அவர் வீடு திரும்பாததை அடுத்து அவரது உறவினர்கள் பொலிஸாரிடம் முறைப்பாடு செய்தனர்.
+When the girl in the police division went to Padal on the 7th, her relatives lodged a complaint with the police after she did not return home.
 
-இதையடுத்து முன்னெடுக்கப்பட்ட விசாரணையில், சிறுமியை அவரது காதலன் வாகரைப் பிரதேசத்திலுள்ள அவனது சிறிய தாயாரின் வீட்டிற்கு கடத்திச் சென்று வைத்துள்ளதாக கண்டறிந்த பொலிஸார், வீட்டை சுற்றுவளைத்து முற்றுகையிட்டு சிறுமியை மீட்டதுடன் கடத்திய குற்றச்சாட்டின் பேரில் 18 வயதுடைய காதலன் மற்றும் சிறுமிக்கு இடம்கொடுத்த குற்றச்சாட்டில்  47 வயதுடைய சிறிய தாயார் ஆகிய இருவரையும் கைது செய்தனர்.
+Investigations carried out by the police, who found that the girl had been abducted at the house of her little mother in the Vaharai area, was arrested by the police and rescued the girl and rescued the girl.
 
-...
+The rescued girl was admitted to the hospital and the two arrested were produced before the Batticaloa Magistrate's Court on Sunday (25).. Remble
+
+◼️
 
 [Data](articles/eb4e63a5.json)
+
+[Extended Data](ext_articles/eb4e63a5.ext.json)
 
 ---
 
@@ -70,19 +114,23 @@ The Russian Embassy underscored Russia's firm condemnation of all forms of racia
 
 ---
 
-### மாணவர்களுக்கு ஜனாதிபதியின் மகிழ்ச்சியான செய்தி
+### Happy news of the president for students
 
 *2024-02-25 19:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-ஜனாதிபதியின்-மகிழ்ச்சியான-செய்தி/175-333789) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பேரில் பாடசாலை மாணவர்களின் கல்வி நடவடிக்கைகளுக்கு ஊக்குவிப்புகளை வழங்கும் நோக்கில் ஜனாதிபதி நிதியம் “ஜனாதிபதி கல்வி புலமைப்பரிசில் 2024/2025” திட்டம் ஒன்றை நடைமுறைப்படுத்த திட்டமிட்டுள்ளது.
+The President's Fund is planning to implement a “Presidential Education Scholarship 2024/2025” program to promote the educational activities of school students under the direction of President Ranil Wickremesinghe.
 
-இதன்படி, மொத்தமாக இலங்கையில் உள்ள 10,126 பாடசாலைகளையும் உள்ளடக்கிய வகையில், தரம் 01 முதல் தரம் 11 வரை கல்வி கற்கும் ஒரு இலட்சம் (100,000) மாணவர்களுக்கு, வருடாந்தம் இந்த நிதியுதவித் திட்டத்தை நடைமுறைப்படுத்த திட்டமிடப்பட்டுள்ளதுடன், இந்த முழுமையான திட்டத்திற்கும் 3600 மில்லியன் ரூபாவை ஜனாதிபதி நிதியம் ஒதுக்கியுள்ளது.
+Accordingly, the President's Fund has allocated 3600 million rupees for this complete project, with 10,126 schools in Sri Lanka, including one lakh (100,000) students who study in Grade 01 to Grade 11.
 
-நாட்டின் தற்போதைய பொருளாதார நிலைமையை கருத்திற்கொண்டு, குறைந்த மற்றும் நடுத்தர வருமானம் பெறும் குடும்பங்களில் உள்ள மாணவர்கள் எதிர்நோக்கும் பாடசாலை உபகரணங்கள், பயிற்சி புத்தகங்களைப் பெற்றுக்கொள்ளல் மற்றும் போக்குவரத்து வசதிகளை ஏற்படுத்திக்கொள்ளல் போன்ற விடயங்களில் நிலவும் சிரமங்களுக்கு ஓரளவு நிவாரணம் வழங்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
+Considering the country's current economic situation, students in low and middle -income families are facing some relief to the difficulties of school equipment, training books and transport facilities.
+
+President Ranil Wickremesinghe's expectation is to provide continuous school education to the students of the country by selecting talented students and educating the children under the lowest facilities in each school and investing in the country's human resources through it.
 
 ...
 
 [Data](articles/e8ad0b95.json)
+
+[Extended Data](ext_articles/e8ad0b95.ext.json)
 
 ---
 
@@ -2073,45 +2121,5 @@ Meanwhile, the son has been murdered in Kattigala - Thunkama area.
 [Data](articles/ec8e9eb0.json)
 
 [Extended Data](ext_articles/ec8e9eb0.ext.json)
-
----
-
-### Showers in the evening today
-
-*2024-02-25 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193786) · `si`
-
-Showers or thundershowers will occur at several places in the Western, Southern, Sabaragamuwa and Central provinces today (25).
-
-The department states that the Uva and Eastern provinces can occur in the areas.
-
-In some places in the Sabaragamuwa and Central provinces, some locations are expected to be found in some morning in some places.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/263ea413.json)
-
-[Extended Data](ext_articles/263ea413.ext.json)
-
----
-
-### Discussion on Fisheries issue
-
-*2024-02-25 05:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்-பிரச்சினை-தொடர்பில்-கலந்துரையாடல்/175-333751) · `ta`
-
-The Sri Lankan government has asked India to come forward to discuss the fishermen issue.
-
-External Affairs Minister Ali Sabri has said that the Ministry of Foreign Affairs of Sri Lanka has requested India to discuss the matter.
-
-The Minister of External Affairs has said that India's response is looking forward to the fishermen's problem.
-
-Ali Sabri said that the Ministry of Fisheries will engage in these talks and the Foreign Ministry will participate in the matter.. (A)
-
-◼️
-
-[Data](articles/ccff1eb9.json)
-
-[Extended Data](ext_articles/ccff1eb9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 19:02:31**
+As of **2024-02-25 19:17:27**
 
 ## Newspaper Stats
 
-*Scraped **9,205** Articles*
+*Scraped **9,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,83 @@ adaderanalk | 1,112
 tamilmirrorlk | 1,133
 virakesarilk | 1,247
 dailymirrorlk | 1,384
-adaderanasinhalalk | 1,390
+adaderanasinhalalk | 1,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,203 (100.0%) of 9,205 articles have been extended.
+9,205 (100.0%) of 9,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### අයිෆල් කුලුන ගැන අලුත් ආරංචියක්
+### ආන්දෝලනාත්මක නිපන්දුව ගැන ජයසූරිය හිනාවෙවී කී කතාව
+
+*2024-02-25 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193816) · `si`
+
+ඇෆ්ගනිස්තානය සමග පැවති තෙවන විස්සයි විස්ස තරගයේ අවසන් පන්දුවාරයේ දී විනිසුරුවරයා ලබා දුන් තීරණය අනුමත කළ නොහැකි බව ශ්‍රී ලංකා ක්‍රිකට් පුහුණු උපදේශක, ප්‍රවීණ ක්‍රිකට් ක්‍රීඩක සනත් ජයසුරිය මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ අදාල විනිසුරුවරයාගේ තීරණය සම්බන්ධයෙන් ශ්‍රී ලංකා ක්‍රිකට් ආයතනය ඉදිරියේ දී පියවරක් ගනු ඇති බවය.
+
+ගාල්ල ප්‍රදේශයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් සනත් ජයසුරිය මහතා මෙම අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/b0e580d9.json)
+
+---
+
+### New news about Eiffel Tower
 
 *2024-02-25 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193815) · `si`
 
-දින හයක සේවක වැඩ වර්ජනයෙන් අනතුරුව ප්‍රංශයේ පැරිස් අගනුවර පිහිටි ලෝ ප්‍රකට අයිෆල් කුලුන නරඹන්නන් සඳහා යළි විවෘත කර තිබේ.
+After the six days employee strike, the world's capital city has been reopened for visitors in the capital city of Paris.
 
-කළමනාකාරීත්වය සමග ඇතිවූ ගැටලුකාරී තත්ත්වයක් හේතුවෙන් පසුගිය සඳුදා දිනයේ අයිෆල් කුලුන ආශ්‍රිතව සේවයේ නිරත වූ සේවකයින් වැඩ වර්ජනයක් ආරම්භ කර තිබුණි.
+Workers in the Eiffel Tower of Eiffel Tower last Monday Monday had launched a strike on Monday last Monday Monday.
 
-මේ හේතුවෙන් කුලුන නැරඹීම සඳහා අවස්ථාව හිමි නොවූ අතර දින 06කට පසු එය අද දිනයේ සිට යළි විවෘත කර ඇති බවයි විදෙස් මාධ්‍ය වාර්තා කළේය.
+According to foreign media reports, it has been reopened from today after the tower has been opened today.
 
-සේවක වර්ජන හේතුවෙන් මාස 03ක් වැනි කෙටි කාලයක් තුළ අයිෆල් කුලුන නරඹන්නන් සඳහා වසා තැබුණු දෙවන අවස්ථාව මෙයයි.
+This is the second time Eiffel tower has been closed for a short period of 3 months due to employee strike.
 
 ◼️
 
 [Data](articles/10143b85.json)
 
+[Extended Data](ext_articles/10143b85.ext.json)
+
 ---
 
-### ආශිර්වාද ගන්න මෝදි කිමිදෙයි
+### Moki dives to take blessings
 
 *2024-02-25 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193814) · `si`
 
-අරාබි මුහුදේ ගුජරාට් වෙරළට ඔබ්බෙන් දිය යට පිහිටි පුරාණ ද්වාර්කා කෝවිලේ ක්‍රිෂ්ණ දෙවියන් වෙනුවෙන් සිදුකළ පූජාවකට ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි අද (25) සහභාගි වී තිබුණි.
+Indian Prime Minister Narendra Modi had participated in the Anchord Kovil of the Arab Sea.
 
-ප්‍රසිද්ධ පුරාණ ද්වාර්කා කොවිල කලකට පෙර සශ්‍රීක නගරයක් වූ අතර එය සියවස් ගණනාවකට පෙර දී මුහුදට යට වී ඇතැයි විශ්වාස කෙරේ.
+A famous ancient duel is a fertile town, which was a fertile city centuries ago.
 
-ඉන්දීය මාධ්‍ය සඳහන් කර ඇත්තේ පුරාණ ද්වාර්කා කෝවිලේ නටබුන් පුරාවිද්‍යාඥයින් විසින් කැණීම් කර ඇති අතර දිය යටදී එය දැකගත හැකි බවය.
+The Indian media has been excavated by archaeologists in the ancient binary temple and it is being seen underwater.
 
-අගමැති මෝදි ද කිමිදුම් ඇඳුමින් සැරසී එම පූජාව පැවැත් වූ ආකාරය දැක්වෙන වීඩියෝපට සමාජ මාධ්‍ය පුරා පැතිරී ගිය බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+According to Indian media reports, the Vidyalaya spread throughout the prime minor to the prime minor.
 
-ක්‍රිෂ්ණ දෙවියන්ට සංකේතාත්මක උපහාරයක් ලෙස මොණර පිහාටු රැගෙන අගමැති මෝදි ද පුරාණ කෝවිල සහිත නගරය වැඳපුදා ගත් බව ඉන්දීය මාධ්‍ය වාර්තාකරයි.
+According to Indian media reports, Prime Minister Modi and the town of the ancient temple have been bowed down as a symbolic tribute to the Krishna.
 
-අග්‍රාමාත්‍යවරයා සිය අත්දැකීම සම්බන්ධයෙන් සිය X ගිණුමේ සටහනක් ද තබා තිබේ.
+The Prime Minister has also given his X account note on his experience.
 
-ඔහු පවසා ඇත්තේ ජලයේ ගිලී ඇති පුරාණ ද්වාර්කා කොවිල යාඥා කිරීම දිව්‍යමය අත්දැකීමක් වූ බවය.
+He has said that the ancient Both Kindara Kovil of water was a divine experience.
 
-...
+Gujarat, 2.3 km of the Hall City of the Hall City and Both Actors, opened the 2.3 km of Sudarshan Petha Bridge opened by Prime Minister Narendra Modi.
+
+The Prime Minister had led to these religious observances underwater.
+
+The bridge has been constructed to facilitate the famous binary binocula, built for Krish.
+
+◼️
 
 [Data](articles/4df4bc8b.json)
+
+[Extended Data](ext_articles/4df4bc8b.ext.json)
 
 ---
 
@@ -2079,21 +2105,5 @@ For a period of about two decades after the ceasing of hostiities in World War 2
 [Data](articles/316d6d6c.json)
 
 [Extended Data](ext_articles/316d6d6c.ext.json)
-
----
-
-### Internally  Divided ITAK  in the Eye of a Legal Storm: Courts Restrain Newly Elected Party Officials From Functioning.
-
-*2024-02-25 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83676) · `en`
-
-The Ilankai Thamil Arasuk Katchi(ITAK)known in English as the Federal Party(FP) is in the eye of a legal storm.  The premier political party representing the Sri Lankan Tamils of the Northern and Eastern provinces is currently undergoing an internal crisis mainly due to recently held inner-party elections. Issues relating to the intra-party elections have brought about a clearly visible divide within the ITAK.
-
-This in turn has led to an unprecedented situation where  two members of the ITAK  have sought legal recourse against allegedy illegal action by party authorities.Enjoining orders were  obtained. Party Leaders were restrained from conducting its  postponed National Convention on 19 February.
-
-...
-
-[Data](articles/751698bc.json)
-
-[Extended Data](ext_articles/751698bc.ext.json)
 
 ---

@@ -1,36 +1,76 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 10:02:51**
+As of **2024-02-25 10:17:25**
 
 ## Newspaper Stats
 
-*Scraped **9,122** Articles*
+*Scraped **9,130** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 92
-bbccomsinhala | 110
+bbccomsinhala | 111
 dbsjeyarajcom | 162
 newsfirstlk | 363
 economynextcom | 464
 dailyftlk | 483
 islandlk | 486
-adalk | 761
+adalk | 763
 adaderanalk | 1,100
-tamilmirrorlk | 1,118
-virakesarilk | 1,241
+tamilmirrorlk | 1,119
+virakesarilk | 1,242
 adaderanasinhalalk | 1,370
-dailymirrorlk | 1,372
+dailymirrorlk | 1,375
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,122 (100.0%) of 9,122 articles have been extended.
+9,122 (99.9%) of 9,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### செங்கடல் பகுதிக்கு இரகசியமாக கடற்படை கப்பலை  அனுப்பியது இலங்கை - மோர்னிங் தகவல்
+
+*2024-02-25 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177225) · `ta`
+
+செங்கடல் பகுதிக்கு ரோந்து நடவடிக்கைகளிற்காக மிகவும் இரகசியமாக அனுப்பப்பட்ட இலங்கை கடற்படையின் கப்பல் தனது கூட்டு ரோந்து நடவடிக்கைகளை பூர்த்திசெய்துகொண்டு இலங்கைக்கு திரும்புகின்றது என மோர்னிங் செய்தி வெளியிட்டுள்ளது.
+
+பப் எல் மன்டெப் நீரிணைக்கு இலங்கை கடற்படை கப்பல் அனுப்பப்பட்டதை கடற்படை பேச்சாளர் கயன் விக்கிரமசூர்யஉறுதி செய்துள்ளதுடன்  எந்த பிரச்சினைகளையும் எதிர்கொள்ளாமல் இலங்கை கடற்படை கப்பல் ரோந்துநடவடிக்கையை பூர்த்தி செய்துவிட்டு இலங்கை திரும்புகின்றது என தெரிவித்துள்ளார்.
+
+விடுதலைப்புலிகளுடனான யுத்தத்தின் பின்னர் இலங்கை கடற்படை முன்னெடுத்த ஆபத்தான இந்த நடவடிக்கையின் இரகசிய தன்மை காரணமாக கடற்படை மேலதிக தகவல்களை வெளியிடவில்லை என மோர்னிங் தெரிவித்துள்ளது.
+
+மீண்டும் எப்போது இலங்கை கடற்படை தனது கப்பலை அனுப்பும் என்பது குறித்து இலங்கை கடற்படை எதனையும் தெரிவிக்கவில்லை.
+
+இலங்கை கடற்படை தனது கப்பலை எப்போது அனுப்பியது கப்பல் எப்போது தனது ரோந்துநடவடிக்கைகளை பூர்த்தி செய்தது போன்ற விபரங்கள் இரகசியமானவையாக காணப்படுகின்றன என மோர்னிங் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/7e252d25.json)
+
+---
+
+### ‘Greek’விசாவில் வர்த்தக குடும்பம் சிக்கியது
+
+*2024-02-25 09:22:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Greek-விசாவில்-வர்த்தக-குடும்பம்-சிக்கியது/175-333752) · `ta`
+
+சுமார் ஒரு கோடியே 40 இலட்சம் ரூபாவை தரகருக்கு கொடுத்து, போலியான ஆவணங்க​ளை தயாரித்து, ‘Greek’விசாவை பயன்படுத்தி, ஐரோப்பிய நாடுக்கு தப்பியோடுவதற்கு வருகைதந்திருந்த நால்வர் அடங்கிய வர்த்தக குடும்பத்தைச் சேர்ந்த நால்வர், கட்டுநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து, கைது செய்யப்பட்டுள்ளார்.
+
+சனிக்கிழமை (24) பிற்பகல் வேளையிலேயே இவர்கள் கைது செய்யப்பட்டுள்ளார் என்று கட்டுநாயக்க விமான நிலைய அதிகாரிகள் தெரிவித்தனர்.
+
+நாத்தாண்டியவை வசிப்பிடமாகக் கொண்ட வாகன வர்த்தகத்தில் ஈடுபடும் வர்த்தகரான 43 வயதான நபர், அவருடைய மனைவி (வயது 47) மற்றும் 21, 16 வயதுகளைச் சேர்ந்த அவ்விருவரின் மகன்மார் ஆகியோரே கைது செய்யப்பட்டுள்ளனர்.
+
+ஐரோப்பிய நாடுகளில் உள்ள தூதரகங்களில் அதிக பணிச்சுமை இருப்பதால், அந்த நாடுகளுக்கு விசா வழங்குவது "குளோபல் விசா வசதி சேவை"( Global Visa Facilitation Service )  என்ற அமைப்பால் செய்யப்படுகிறது.
+
+தரகர், இந்த தொழிலதிபரை இந்தியாவில் உள்ள இந்த நிறுவனத்தின் அலுவலகத்துக்கு அழைத்துச்சென்று வாக்குறுதி அளித்த பணத்தை கொடுத்து  இந்த விசாக்களை கொடுத்துள்ளார்.
+
+...
+
+[Data](articles/2a5a3511.json)
+
+---
 
 ### Unidentified bodies found
 
@@ -68,6 +108,24 @@ He has acquired a gray gray and black and wearing a T-shirt.
 
 ---
 
+### Prison to be set up on Mantheevu island in Batticaloa
+
+*2024-02-25 09:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prison-to-be-set-up-on-Mantheevu-island-in-Batticaloa/108-277664) · `en`
+
+The government is exploring the possibility of setting up a prison or a rehabilitation centre on the lonely Mantheevu Island off the coast of Batticaloa, a statement from the Justice, Prisons and Constitutional Reforms said.
+
+Mantheevu is an island in the Eastern Province with 100 acres in extent, currently housing leprosy patients.
+
+Minister Wijeyadasa Rajapaksha was on an observation tour of the island recently to explore the possibility of using the island to set up a prison or a rehabilitation centre as a solution to current congestion.
+
+The Ministry said there are only two leprosy patients in the hospital now. During the Covid 19 pandemic, it was used as a quarantine facility.
+
+◼️
+
+[Data](articles/a77fc5b5.json)
+
+---
+
 ### Youth killed in drowning
 
 *2024-02-25 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193794) · `si`
@@ -87,6 +145,54 @@ Police life officers are engaged in search of the disappearance of the disappear
 [Data](articles/edd640a6.json)
 
 [Extended Data](ext_articles/edd640a6.ext.json)
+
+---
+
+### I am a proud father of a baby girl, Sajith tells first time in public
+
+*2024-02-25 08:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-am-a-proud-father-of-a-baby-girl-Sajith-tells-first-time-in-public/108-277663) · `en`
+
+Colombo, Feb 25 (Daily Mirror) - Samagi Jana Balawegaya (SJB) leader Sajith Premadasa revealed in public for the first time that he is now the proud father of a baby girl.
+
+Addressing a political meeting, he said this amidst thundering applause by participants.
+
+◼️
+
+[Data](articles/e911772f.json)
+
+---
+
+### SriLankan flights delayed as airport ground staff protest
+
+*2024-02-25 08:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-flights-delayed-as-airport-ground-staff-protest/108-277662) · `en`
+
+BIA, Feb 25 (Daily Mirror) - At least four SriLankan flights were delayed at Bandaranaike International Airport this morning due to ground staff refraining from performing some of their duties.
+
+The ground staff reportedly ceased their duties at 4:30 AM but resumed after two and a half hours following a call from authorities for a discussion.
+
+The protest was allegedly initiated by airport workers demanding immediate solutions to inefficiencies within SriLankan Airlines.
+
+◼️
+
+[Data](articles/b9528606.json)
+
+---
+
+### නීත්‍යානුකූල නොවන ලෙස ඉඩම් භාවිත කර තිබෙනවානම් නීත්‍යානුකූල පියවර ගන්නවා
+
+*2024-02-25 08:47:11* · [`adalk`](https://www.ada.lk/breaking_news/නීත්‍යානුකූල-නොවන-ලෙස-ඉඩම්-භාවිත-කර-තිබෙනවානම්-නීත්‍යානුකූල-පියවර-ගන්නවා/11-408256) · `si`
+
+යුද සමයෙන් පසු නැගෙනහිර පළාතේ ඉඩම් නීත්‍යානුකූල නොවන ආකාරයෙන් භාවිතා කර තිබේ නම් ඒ පිළිබඳව ඉඩම් අමාත්‍යවරයා සහ නීතිපතිවරයා සමඟ සාකච්ඡා කර විසඳුම් ලබාදීමට කඩිනම් පියවර ගන්නා බව අධිකරණ බන්ධනාගාර හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ  අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+
+නැගෙනහිර පළාතේ ඉඩම් සම්බන්ධයෙන් පවතින ගැටලු පිළිබඳව අධිකරණ ඇමැති ආචාර්ය විජයදාස රාජපක්ෂ මහතා සහ ප්‍රාදේශීය ලේකම්වරුන් සමඟ  ඊයේ (24දා) දින මඩකලපුව දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පැවති සාකච්ඡාවකදී ඇමතිවරයා මේ බව සඳහන් කළේය.
+
+යුද සමයෙන් පසු නැගෙනහිර පළාතේ ඉඩම් නීත්‍යානුකූල නොවන ආකාරයෙන් භාවිතා කිරීම් ඇතුළු ජනතාවට පවතින ඉඩම් ගැටලු සම්බන්ධයෙන් නැගෙනහිර පළාතේ ප්‍රාදේශීය ලේකම්වරුන් සහ ඇමතිවරයා  අතර පැවති සාකච්ඡාවේදී ප්‍රාදේශීය ලේකම්වරුන් විසින් ඇමතිවරයාගේ අවධානයට යොමු කළ ඉඩම් ගැටලු  සම්බන්ධයෙන් පිළිතුරු ලබාදෙමින් ඇමතිවරයාම ඒ බව සඳහන් කළේය.
+
+ඉඩම් සම්බන්ධයෙන් කටයුතු කිරීම සඳහා ප්‍රාදේශය ලේකම්වරුන්ට තිබෙන නීතිමය බලතල සහ හැකියාවන් පිළිබඳවද ඇමතිවරයා විසින් මෙහිදී ඔවුන්ගේ අවධානයට යොමු කරන ලදී.
+
+...
+
+[Data](articles/f6205e7f.json)
 
 ---
 
@@ -404,6 +510,26 @@ Parliamentarian Patali Champika Ranawaka recently issued a policy declaration. (
 
 ---
 
+### පෘතුගීසීන් හැදූ, ලන්දේසීන් වැඩිදියුණු කළ, ඉංග්‍රීසීන් අල්ලාගත් උතුරේ බලකොටු
+
+*2024-02-25 03:22:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c88nnn0zjg4o) · `si`
+
+යුරෝපීයයන් නැව්නැගී පෙරදිගට යාත්‍රා කර සිය බල පරාක්‍රමය ලොව පුරා පැතිර වූ ක්‍රියාදාමයේ ප්‍රතිඵලයක් ලෙසට ශ්‍රී ලංකාවටත් බටහිර ජාතීන්ගේ බලපෑමට යටත්වන්නට  සිදු විය.
+
+පෘතුගීසි ජාතික ලොරෙන්සෝ ද අල්මේදා විසින් ශ්‍රී ලංකාවට ගොඩබැසීමෙන් පසුව පෘතුගීසීන් ශ්‍රී ලංකාවේ විවිධ ප්‍රදේශ අත්පත් කරගත් අතර, ඔවුන්ගේ බලය රැකගැනීම උදෙසා තීරණාත්මක මුහුදුබඩ ප්‍රදේශවල බලකොටු ගොඩනැගීමේ පුරෝගාමී කටයුත්ත ද සිදු කරන ලදි.
+
+පෘතුගීසි පාලනයෙන් හෙම්බත්ව සිටි ලක් වැසියන් "ඉඟුරු දී මිරිස් ගත්තා සේ" පෘතුගීසීන් පලවා හැරීමට ලන්දේසීන්ගේ සහය ලබා ගැනීමෙන් පසුව ලන්දේසීන් එම බලකොටු අත්පත් කර ගත් අතර වත්මනේ අප දකින බොහෝ බලකොටුවල නටඹුන් ලන්දේසීන් විසින් වැඩිදියුණු කරන ලදුව 1796 දී ඉංග්‍රීසීන් විසින් අත්පත් කරගත් ඒවා යි.
+
+මිලියනයක් ඉක්මවා ගිය සංචාරකයින්ට අවශ්‍ය පහසුකම් දෙන්න ශ්‍රී ලංකාවට හැකිද?
+
+සියවසකටත් වඩා වැඩි කාලයක් මුහුදුබඩ ප්‍රදේශ අත්පත් කරගෙන සිටි ලන්දේසීන්, ලන්දේසි පෙරදිග ඉන්දීය වෙළඳ සමාගම (VOC) හරහා පවත්වාගෙන ගිය බලකොටු සිය ඉතාලි ආභාසය සහිත ගෘහ නිර්මාණශිල්පයන් සහිතව සුන්දර ලෙස ඉදි කර තිබේ.
+
+...
+
+[Data](articles/51a0af25.json)
+
+---
+
 ### Colombo’s most popular caricaturist in a bygone era
 
 *2024-02-25 03:18:00* · [`islandlk`](http://island.lk/colombos-most-popular-caricaturist-in-a-bygone-era/) · `en`
@@ -487,6 +613,22 @@ The deceased, named Hettiarachchige Don Sujith alias “Ukkuwa”, was the broth
 [Data](articles/f91b3285.json)
 
 [Extended Data](ext_articles/f91b3285.ext.json)
+
+---
+
+### පාඨලී ජනපති හමුවෙයි
+
+*2024-02-24 22:28:52* · [`adalk`](https://www.ada.lk/picture_story/පාඨලී-ජනපති-හමුවෙයි/10-408255) · `si`
+
+“දේශය වෙනුවෙන් එක් වන පියවරක්” මැයෙන් එක්සත් ජනරජ පෙරමුණ විසින් පසුගියදා රටට ඉදිරිපත් කළ යෝජනාවලිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගැන්වීම කොළඹ සිරිකොත එක්සත් ජාතික පක්ෂ මූලස්ථානයේ දී අද (24) පෙරවරුවේ සිදු විය.
+
+එක්සත් ජනරජ පෙරමුණේ නායක පාර්ලිමේන්තු මන්ත්‍රී පාඨලි චම්පික රණවක මහතා ඇතුළු නියෝජිත කණ්ඩායම ජනාධිපතිවරයා හමුවී සාකච්ඡාවක නිරත වීමෙන් අනතුරුව අදාළ යෝජනාවලිය ජනාධිපතිවරයා වෙත පිළිගැන්වීය.
+
+මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ රටේ බිඳවැටුණු ආර්ථිකය යළි ස්ථාවර කර ගැනීමට පසුගිය දෙවසරක කාලය තුළ රජය මහත් පරිශ්‍රමයකින් කටයුතු කළ බවයි. ප්‍රතිසංස්කරණමය තීන්දු තීරණ සමඟ රටේ ආර්ථිකය නිවැරදි මාවතට ගෙන ඒමට රජය මේ වන විට කටයුතු කර තිබෙන බව පෙන්වා දුන් ජනාධිපතිවරයා සියලු දෙනාගේ සහාය ඇතිව එය ඉදිරියට ක්‍රියාත්මක කිරීම තම අරමුණ බවද පැවසීය.
+
+...
+
+[Data](articles/cfc06b0d.json)
 
 ---
 
@@ -1903,191 +2045,5 @@ Two other soldiers including the main suspect arrested for shooting have come.
 [Data](articles/0131e3f2.json)
 
 [Extended Data](ext_articles/0131e3f2.ext.json)
-
----
-
-### Youth killed in motorcycle accidentOne injury
-
-*2024-02-24 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177184) · `ta`
-
-A 19 -year -old youth died in a motorcycle accident in Kalanpindunuwewa - Ketalawa area and another man was injured and is being treated at the hospital.
-
-As the fast -paced motorcycle lost its control, it left the road and crashed into the wall on the street.
-
-The two men who were traveling on a motorcycle were injured and admitted to the Kalapindunuwewa Hospital for treatment.
-
-Subsequently, two of the two were treated for the youth of Rajanganan died without treatment.
-
-It is noteworthy that the other injured person has been transferred to the Anuradhapura Teaching Hospital for further treatment.
-
-◼️
-
-[Data](articles/2fba0748.json)
-
-[Extended Data](ext_articles/2fba0748.ext.json)
-
----
-
-### India is a elder brother - India does not have to worry about relations with China - Minister of State for Foreign Affairs
-
-*2024-02-24 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177181) · `ta`
-
-External Affairs Minister Tarakapalasuriya, who has said that Sri Lanka is considered a senior coordinator, said Sri Lanka wants to know the role model of India with the aim of developing the country by 2048.
-
-He has told the government why Sri Lanka wants to work with India.
-
-Commenting on efforts to develop Sri Lanka, he said, "We are not expecting help. We are looking at India as a colleague. We see India as a senior coordinator.
-
-"We would like to know how India achieved it at this moment," he said.
-
-"We want to become a developed country by 2048," he said.
-
-Asked whether Sri Lanka is under the influence of China, we are trading with any country, but for India, we have special ties.
-
-Tarakapalasuriya said that India does not have to worry much about our relations with China.
-
-He said that we have better relationships with China but we have better relationships with Russia.
-
-We are not going to invade any country, we are not going to invade any country.
-
-...
-
-[Data](articles/30015435.json)
-
-[Extended Data](ext_articles/30015435.ext.json)
-
----
-
-### Blood-leakage treatment at Kurunegala Hospital closes
-
-*2024-02-24 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193764) · `si`
-
-Steps have been taken to close the blood leakage treatment unit for kidney patients at the Kurunegala Teaching Hospital.
-
-It is reported that the relevant unit has been closed since the death of several kidney patients who were treated by the unit during the past few days.
-
-During a month, five cases were killed in the same unit, five cases of kidney patients.
-
-A hospital spokesman said that although a chemical or equipment used in a chemical or equipment used for a chemicals or equipment used for blood leakage, a special reason has been uncovered.
-
-Accordingly, the Ministry of Health has decided to commence an investigation into the incident.
-
-The Director General of Health Services Dr. Asela Gunawardena said that a group has been referred to the Kurunegala Teaching Hospital.
-
-Steps have also been taken to direct the patriotic unit of Kurunegala Teaching Hospital to restore the patients who submit to other hospitals.
-
-◼️
-
-[Data](articles/775fbfd0.json)
-
-[Extended Data](ext_articles/775fbfd0.ext.json)
-
----
-
-### Wild elephants that infiltrated the villages of Batticaloa and Nediyamadu
-
-*2024-02-24 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177179) · `ta`
-
-Some wild elephants have infiltrated the two houses and the coconut trees of the farmers in the early hours of Saturday morning (24) in villages like Unnichi and Nediyamadu Karunanikulam in the Vavuniya area of the Batticaloa district.
-
-Elephant safety electric fences, infiltrating the villages in the evening and attacking their crops and houses and damaging their crops and houses.
-
-To this day the government has not taken a proper action to protect the people of our area from these wild elephant disasters.
-
-Elephants stand in the small forests in some villages like Gandhinagar and Unnichi.
-
-We are in a situation where we have to live with the children in the night and day.
-
-Taking note of this, the people have appealed to government officials to evict elephants and elephants outside the fence and chase them into the forests.
-
-◼️
-
-[Data](articles/92dbc268.json)
-
-[Extended Data](ext_articles/92dbc268.ext.json)
-
----
-
-### PUCSL to meet next week to decide on CEB’s electricity tariffs revision proposal
-
-*2024-02-24 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97496/pucsl-to-meet-next-week-to-decide-on-cebs-electricity-tariffs-revision-proposal) · `en`
-
-The Public Utilities Commission of Sri Lanka (PUCSL) is scheduled to convene a meeting on February 28 to discuss the proposal for tariffs reduction submitted by the Ceylon Electricity Board (CEB).
-
-A PUCSL spokesperson said the final decision on the electricity tariffs revision proposal would be taken on that day.
-
-The state-owned electricity supplier’s proposal to reduce electricity charges was handed over to the PUCSL on February 22.
-
-Kanchana Wijesekera, the Minister of Power and Energy, recently told the parliament that the CEB expects to reduce the rates by at least the same rates and percentages increased in October 2023.
-
-In October last year, the electricity tariffs were raised by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
-
-◼️
-
-[Data](articles/dd98e29a.json)
-
-[Extended Data](ext_articles/dd98e29a.ext.json)
-
----
-
-### Sanath Nishantha’s death: Court says yet to receive postmortem report
-
-*2024-02-24 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97495/sanath-nishanthas-death-court-says-yet-to-receive-postmortem-report) · `en`
-
-The Welisara Magistrate’s Court says the Judicial Medical Officer (JMO) has yet to submit the report on the postmortem of late State Minister Sanath Nishantha.
-
-As such, Welisara Magistrate Thusitha Dhammika Uduwawidana has stated that the exact cause of death of the deceased lawmaker could not be announced under the circumstances.
-
-This was communicated when Attorney-at-Law Dhanaraj Samarakoon, who appeared on behalf the late state minister’s wife, requested the court to reveal the exact cause of death of Sanath Nishantha, who died in a crash that took place on the Colombo - Katunayake expressway on January 25.
-
-The magistrate, directing the Kandana police officers to inform the JMO to submit the postmortem report to the court, subsequently fixed the complaint to be taken up again on July 01.
-
-...
-
-[Data](articles/b22faea6.json)
-
-[Extended Data](ext_articles/b22faea6.ext.json)
-
----
-
-### Total decision on electricity tariffs will be received 28
-
-*2024-02-24 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193763) · `si`
-
-The Public Utilities Commission of Sri Lanka is scheduled to meet on the 28th of this month.
-
-A spokesman for the Commission states that a final decision will be taken regarding the proposal for the revision of the electricity tariff.
-
-The Ceylon Electricity Board (CEB) was handed over to the Utilities Commission on the 22nd to reduce electricity tariffs.
-
-The Minister of Power and Energy Kanchana Wijesekera recently stated that this has been proposed to reduce the increased electricity tariffs in October last year.
-
-◼️
-
-[Data](articles/d4998e88.json)
-
-[Extended Data](ext_articles/d4998e88.ext.json)
-
----
-
-### No matter what influences, no operation will not stop
-
-*2024-02-24 11:07:47* · [`adalk`](https://www.ada.lk/breaking_news/මොන-බලපෑම්-ආවත්-කිසිදු-මෙහෙයුමක්-නවත්වන්නේ-නෑ/11-408251) · `si`
-
-According to the People's Defense Minister Tiran Alles said none of the effects of the drug and children to prevent drugs and children and preventing their violence.
-
-She has been arrested on December 17, 2023, the amount of drugs that have been arrested by now on December 17, was Rs. 7.8 billion.
-
-PS Deputy Defense Minister Tiran Alles said this at a press conference held at the Presidential Media Center by one way.
-
-"The suppression of drugs and underworld and continuously continues to continue in the prevention of violence and violence. None of the effects and we have no preparation to stop these operations. We are accused of this program.
-
-Various people and groups are trying to disrupt this program. We have received information that people who receive money through drug networks are spending money for those groups.
-
-...
-
-[Data](articles/9486f4b1.json)
-
-[Extended Data](ext_articles/9486f4b1.ext.json)
 
 ---

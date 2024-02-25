@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 07:16:42**
+As of **2024-02-25 07:39:58**
 
 ## Newspaper Stats
 
@@ -26,57 +26,63 @@ dailymirrorlk | 1,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,099 (99.9%) of 9,107 articles have been extended.
+9,107 (100.0%) of 9,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### ප්‍රදේශ 04කින් ඝාතන 04ක්
+### Four murder in four areas
 
 *2024-02-25 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193787) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයකින් මනුෂ්‍ය ඝාතන 04ක් වාර්තා වී ඇති බව පොලීසිය පවසයි.
+Four murders have been reported from several parts of the island, police said.
 
-පිටිගල පොලිස් වසමේ කලුආරච්චිගොඩ - පිටිගල ප්‍රදේශයේ දී පුතා විසින් පියාගේ හිසට පොරවකින් පහර දී ඝාතනය කර තිබේ.
+The son has assaulted his father's head into the head of his father in Pitigala Police Division.
 
-මිය ගොස් ඇත්තේ, කලුආරච්චිගොඩ - පිටිගල ප්‍රදේශයේ පදිංචි 80 හැවිරිදි පුද්ගලයෙකි.
+The deceased has been identified as Kaluarachchi - Pitigala area in Pitigala.
 
-සැකකරු මානසික රෝගී තත්ත්වයකින් පෙළෙන අයෙකු වන අතර, 47 හැවිරිදි සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The suspect is a mental illness and the 47-year-old suspect has been arrested by the police.
 
-සැකකරු මීට පෙර අංගොඩ මානසික රෝහලේ ප්‍රතිකාර ලබා පැමිණි පුද්ගලයෙකු බවට අනාවරණය වී ඇත.
+The suspect had been admitted to the Angoda Mental Hospital.
 
-මේ අතර කඹුරුපිටිය - නාරන්දෙණිය ප්‍රදේශයේ දී තියුණු ආයුධයකින් පහර දී පුද්ගලයෙකු ඝාතනය කර තිබේ.
+Meanwhile, a sharp object has been attacked with a sharp object in the Narandeniya area in Kamburupitiya.
 
-මරණකරු මව සමඟ නිවසේ ජීවත් ව සිට ඇති අතර, මව නොමැති අවස්ථාවේ දී අසල්වාසී පුද්ගලයෙකු සමඟ බීමතින් පැමිණ ආරවුලක් ඇති කරගෙන ඇත.
+The deceased has been living at home with the mother, and in the absence of the mother, and had a dispute with a neighborhood.
 
-එහි දී අනෙක් පුද්ගලයා විසින් තියුණු ආයුධයකින් පහර දී එම ඝාතනය කර ඇති බවට පොලීසිය සැකකරනු ලබයි.
+The police suspect that the other person was hit with a sharp object and had been killed.
 
-මිය ගොස් ඇත්තේ, නාරන්දෙණිය නැඟෙනහිර - කඹුරුපිටිය ප්‍රදේශයේ පදිංචි 57 හැවිරිදි පුද්ගලයෙකි.
+The deceased has been identified as a 57 year old resident of the East of Narandeniya and Kamburupitiya.
 
-ඝාතනයට සම්බන්ධ සැකකරු පළා ගොස් ඇති අතර, අත්අඩංගුවට ගැනීම සඳහා කඹුරුපිටිය පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+The suspect in connection with the murder Kamburupitiya Police are conducting further investigations.
+
+Meanwhile, the son has been murdered in Kattigala - Thunkama area.
 
 ...
 
 [Data](articles/ec8e9eb0.json)
 
+[Extended Data](ext_articles/ec8e9eb0.ext.json)
+
 ---
 
-### අද සවස් කාලයේදී වැසි
+### Showers in the evening today
 
 *2024-02-25 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193786) · `si`
 
-බස්නාහිර, දකුණු, සබරගමුව සහ මධ්‍යම පළාත්වල අද (25) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers or thundershowers will occur at several places in the Western, Southern, Sabaragamuwa and Central provinces today (25).
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඌව සහ නැගෙනහිර පළාත්වල වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+The department states that the Uva and Eastern provinces can occur in the areas.
 
-සබරගමුව සහ මධ්‍යම පළාත්වලත් බදුල්ල  දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+In some places in the Sabaragamuwa and Central provinces, some locations are expected to be found in some morning in some places.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/263ea413.json)
+
+[Extended Data](ext_articles/263ea413.ext.json)
 
 ---
 
@@ -552,6 +558,8 @@ Furthermore, an analysis on the Sectoral Performance & Market Opportunities was 
 
 [Data](articles/26a915ae.json)
 
+[Extended Data](ext_articles/26a915ae.ext.json)
+
 ---
 
 ### CBSL officials summoned by parliamentary committees over 70% salary hike?
@@ -606,6 +614,8 @@ The FireGuard cable, initially launched almost twenty years ago, has undergone s
 
 [Data](articles/593a2255.json)
 
+[Extended Data](ext_articles/593a2255.ext.json)
+
 ---
 
 ### SLT-MOBITEL launches tailored suite solutions for MSMEs to ‘Soar Beyond Limits’
@@ -652,6 +662,8 @@ From the inception Sithara Limited diligently focused on Research & Development 
 
 [Data](articles/5d81b314.json)
 
+[Extended Data](ext_articles/5d81b314.ext.json)
+
 ---
 
 ### Sun Siyam Pasikudah invites locals and residents to experience East coast luxury
@@ -666,6 +678,8 @@ It said: Guests staying a minimum of two nights will be treated to exclusive ben
 
 [Data](articles/f67ce435.json)
 
+[Extended Data](ext_articles/f67ce435.ext.json)
+
 ---
 
 ### Coventry University and IIHS collaborates to offer Bachelors in Biomedical Sciences degree
@@ -679,6 +693,8 @@ The dedication of the staff, including those from international universities, en
 ...
 
 [Data](articles/28bafa00.json)
+
+[Extended Data](ext_articles/28bafa00.ext.json)
 
 ---
 

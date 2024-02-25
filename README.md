@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 08:33:00**
+As of **2024-02-25 08:51:11**
 
 ## Newspaper Stats
 
-*Scraped **9,111** Articles*
+*Scraped **9,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 761
 adaderanalk | 1,099
 tamilmirrorlk | 1,117
 virakesarilk | 1,241
-adaderanasinhalalk | 1,362
+adaderanasinhalalk | 1,367
 dailymirrorlk | 1,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,108 (100.0%) of 9,111 articles have been extended.
+9,111 (99.9%) of 9,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### ඩෙංගු රෝගින්ගේ ශීඝ්‍ර පහළ යාමක්
+
+*2024-02-25 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193792) · `si`
+
+ජනවාරි මාසයට සාපේක්ෂ ව පෙබරවාරි මාසය තුළ වාර්තා වී ඇති ඩෙංගු රෝගින්ගේ සංඛ්‍යාවේ ශීඝ්‍ර පහළ යාමක් පෙන්නුම් කරන බව ජාතික ඩෙංගු මර්දන ඒකකය පවසයි.
+
+කෙසේ වෙතත් මේ වසරේ ගත වූ කාලසීමාව තුළ ඩෙංගු මරණ 05ක් වාර්තා වී ඇති බව එම ඒකකය සඳහන් කරයි.
+
+ජනවාරි මාසය වන විට 60කට අධික සංඛ්‍යාවක පැවති ඩෙංගු අධිඅවදානම් කලාප සංඛ්‍යාව ද 24ක් දක්වා පහත බැස තිබේ.
+
+ඒ අනුව පෙබරවාරි මාසයේ ගත වූ කාලය තුළ ඩෙංගු රෝගින්ගේ සංඛ්‍යාව 5,181ක් බව ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කර ඇත.
+
+එහෙත් ජනවාරි මාසයේ දී මෙරටින් ඩෙංගු රෝගින් 10,417 දෙනෙකු හඳුනා ගැනුණු අතර, එය පසුගිය වසරේ ජනවාරි මාසයට සාපේක්ෂ ව ඉතා ඉහළ සංඛ්‍යාවක් බව සඳහන් ය.
+
+ඒ අනුව මේ වසරේ ගත වූ කාල සීමාව තුළ ඩෙංගු රොගින් 15,598 දෙනෙකු මෙරටින් හඳුනාගෙන තිබේ.
+
+පෙබරවාරි මාසයේ දී  වැඩි ම රෝගින් සංඛ්‍යාවක් කොළඹ දිස්ත්‍රික්කයෙන් හඳුනාගෙන ඇති අතර, එම සංඛ්‍යාව 3,359කි.
+
+යාපනය දිස්ත්‍රික්කයෙන් ඩෙංගු රෝගින් 3,245 දෙනෙකු හඳුනාගෙන ඇති අතර, ගම්පහ දිස්ත්‍රික්කයෙන් රෝගින් 1,324ක් සහ මහනුවර දිස්ත්‍රික්කයෙන් රෝගින් 1,052ක් හඳුනාගෙන ඇත.
+
+◼️
+
+[Data](articles/c544a0e3.json)
+
+---
 
 ### Showers expected in several provinces
 
@@ -48,6 +74,8 @@ The public is kindly requested to take adequate precautions to minimize damages 
 
 [Data](articles/d47448b4.json)
 
+[Extended Data](ext_articles/d47448b4.ext.json)
+
 ---
 
 ### Four SriLankan Airlines flights delayed
@@ -61,6 +89,76 @@ Four SriLankan Airlines flights have been delayed at the Katunayake Airport so f
 [Data](articles/5533e2bf.json)
 
 [Extended Data](ext_articles/5533e2bf.ext.json)
+
+---
+
+### එට්කා ගිවිසුම ගැන අලි සබ්රි කියයි
+
+*2024-02-25 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193791) · `si`
+
+ඉන්දියාව සමඟ එට්කා ගිවිසුම අත්සන් කිරීම හරහා මෙරටට කිසිදු අවාසි සහගත තත්ත්වයක් ඇති නොවන බව විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කළේ, මෙරට ආර්ථිකය ගොඩ නැඟීමට නම්, ලෝක වෙළෙඳපොළ හා සම්බන්ධ වෙළෙඳ ගිවිසුම් ඇතිකර ගත යුතු බවයි.
+
+අපනයනය පාදක කරගත් ආර්ථිකයකින් තොර ව රටේ ආර්ථිකය ඉහළ නංවා ගත නොහැකි බව ද අලි සබ්රි අමාත්‍යවරයා සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/7aac44a5.json)
+
+---
+
+### පොදුජන එක්සත් පෙරමුණ ගැන අලුත් ආරංචියක් එළියට
+
+*2024-02-25 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193790) · `si`
+
+පොදුජන එක්සත් පෙරමුණේ නව නිලධාරි මණ්ඩලය පත්කිරීම මෙම සතියේ දී සිදු වනු ඇති බව පක්ෂ අභ්‍යන්තර ආරංචි මාර්ග පවසයි.
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ අමෙරිකානු සංචාරයෙන් අනතුරු ව නව නිලධාරි මණ්ඩලය පත්කරනු ඇති බව මීට පෙර ප්‍රකාශ කර තිබිණි.
+
+කෙසේ වෙතත් හිටපු ජනාධිපතිවරයා සිය අමෙරිකානු සංචාරය නිමවා දිවයිනට පැමිණ සතියකට අධික කාලයක් ගත වී ඇතත් නව නිලධාරි මණ්ඩලය පත් කිරීමේ කටයුතු මේ දක්වාත් සිදු වී නැත.
+
+ඒ අනුව එළැඹෙන සතියේ දී බොහෝ විට නව නිලධාරි මණ්ඩලය පත් කෙරෙනු ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+
+පොදුජන එක්සත් පෙරමුණ ප්‍රමුඛ නව සන්ධානයේ නායකයා, මහලේකම්වරයා ඇතුළු තනතුරු රැසක් මෙහි දී පත්කිරීමට නියමිත ව ඇත.
+
+එළැඹෙන මහ මැතිවරණය සඳහා නව සන්ධානයක් යටතේ තරග කිරීමට ශ්‍රී ලංකා නිදහස් පක්ෂය තීරණය කර තිබිණි.
+
+බුලත් කොළය ලකුණින් එක්සත් ජනතා නිදහස් සන්ධානය යටතේ තරග කිරීමට තීරණය කළ ද එහි මහලේකම් ධුරය සම්බන්ධයෙන් මතු ව ඇති අර්බුදකාරී තත්ත්වය මත ඔවුහු පොදුජන එක්සත් පෙරමුණ යටතේ නව සන්ධානය ගොඩනැඟීමට තීරණය කළ හ.
+
+◼️
+
+[Data](articles/c056aa37.json)
+
+---
+
+### ගුවන් ගමන් 04ක් ප්‍රමාද වෙයි
+
+*2024-02-25 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193789) · `si`
+
+ශ්‍රීලන්කන් ගුවන් සේවයට අයත් ගුවන් යානා 04ක් අද (25) උදෑසන සිට මේ දක්වා ප්‍රමාද වී තිබේ.
+
+භූමි කාර්‍ය මණ්ඩලය (ground staff) සිය රාජකාරි කිහිපයක් ඉටු කිරීමෙන් වැළකී සිටීම නිසා මෙම ප්‍රමාදය සිදු වී ඇත.
+
+◼️
+
+[Data](articles/3a7b9904.json)
+
+---
+
+### අධ්‍යාපනයේ විශේෂ ප්‍රතිසංස්කරණයක්
+
+*2024-02-25 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193788) · `si`
+
+අධ්‍යාපනය ඩිජිටල්කරණය කිරීමේ නියමු ව්‍යාපෘතිය මාර්තු මාසයේ සිට ආරම්භ කිරීමට සැලසුම් කර ඇති බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කළේ, ඒ සඳහා ගුරුවරුන් පුහුණු කිරීමේ කටයුතු ද මේ හා සමගාමී ව සිදු කිරීමට නියමිත බවයි.
+
+ගාල්ල - තවලම විද්‍යාරාජ ජාතික පාසලේ නව තාක්ෂණ පීඨ ගොඩනැඟිල්ල විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා මේ බව සඳහන් කළේ ය.
+
+◼️
+
+[Data](articles/9259e165.json)
 
 ---
 
@@ -118,35 +216,39 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### சு.க. மகளிர் முன்னணிக்கான நிர்வாக சபை தெரிவு ஒத்திவைப்பு
+### .க .க .க .க .க .க. Executive Board of Executive Board for Women's Front
 
 *2024-02-25 04:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-க-மகளிர்-முன்னணிக்கான-நிர்வாக-சபை-தெரிவு-ஒத்திவைப்பு/175-333748) · `ta`
 
-ஶ்ரீ லங்கா சுதந்திரக் கட்சியின் மகளிர் முன்னணிக்கான புதிய நிர்வாக சபை உறுப்பினர்களை தெரிவு செய்யும் நடவடிக்கை ஒத்திவைக்கப்பட்டுள்ளது
+The Sri Lanka Freedom Party (SLFP) Women's Front
 
-இரண்டு மாதங்களுக்கு முன்னர் கலைக்கப்பட்ட ஶ்ரீ லங்கா சுதந்திர மகளிர் முன்னணிக்கான புதிய நிர்வாக சபையை தெரிவு செய்வதற்கு நேற்று வேளையில் ஶ்ரீ லங்கா சுதந்திரக் கட்சி உறுப்பினர்கள் ஒன்றுகூடினர்.
+The Sri Lanka Freedom Party (SLFP) members met yesterday to elect a new executive council for the Sri Lanka Freedom Women's Front, which was dissolved two months ago.
 
-கட்சியின் தவிசாளர் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் தலைமையில் இந்த கூட்டம் இடம்பெற்றது.
+The meeting was chaired by former President Maithripala Sirisena.
 
 ◼️
 
 [Data](articles/7fe3670a.json)
 
+[Extended Data](ext_articles/7fe3670a.ext.json)
+
 ---
 
-### ஜனாதிபதியுடன் சம்பிக்க கலந்துரையாடல்
+### Discussion with President
 
 *2024-02-25 04:33:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-சம்பிக்க-கலந்துரையாடல்/175-333747) · `ta`
 
-ஐக்கிய குடியரசு முன்னணியின் தலைவர், பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க, ஜனாதிபதி ரணில் விக்கிரமசிங்கவை நேற்று சந்தித்துள்ளார்.
+The UNP leader and parliamentarian Patali Champika Ranawaka met President Ranil Wickremesinghe yesterday.
 
-'தேசத்திற்காக ஒன்றிணையும் நடவடிக்கை' கொள்கை பிரகடனம் தொடர்பில் கலந்துரையாடுவதற்காக இந்த சந்திப்பு ஒழுங்கு செய்யப்பட்டிருந்ததாக ஐக்கிய குடியரசு முன்னணி தெரிவித்துள்ளது.
+The United Republic of India (UNP) has stated that the meeting has been organized to discuss the policy announcement of the 'Nations' Action for the nation.
 
-பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க, குறித்த கொள்கை பிரகடனத்தை அண்மையில் வெளியிட்டிருந்தார். (a)
+Parliamentarian Patali Champika Ranawaka recently issued a policy declaration. (A)
 
 ◼️
 
 [Data](articles/2343d74b.json)
+
+[Extended Data](ext_articles/2343d74b.ext.json)
 
 ---
 
@@ -1965,115 +2067,5 @@ Subsequently, the police informed the police that the police went to the scene a
 [Data](articles/55bf745a.json)
 
 [Extended Data](ext_articles/55bf745a.ext.json)
-
----
-
-### Mother -in -law beaten;Nephew escape
-
-*2024-02-24 10:33:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மாமியார்-அடித்து-கொலை-மருமகன்-தப்பியொட்டம்/73-333731) · `ta`
-
-Valaichenai police said that the incident took place at 9 pm on Friday (23) at 9 pm.
-
-The deceased is 45 -year -old Vairamuthu Gomatani from Wadieri Koolaiyadichenai.
-
-The daughter of the deceased and her husband is living with her mother and her mother who has gone abroad for employment opportunities.
-
-The 30 -year -old son -in -law has fled the scene after he died after he died after he died after he died with a massive object when he was in a state of loneliness at the mother -in -law.
-
-Following this, the police informed the police that the police went to the scene and obtained court permission and are taking steps to hand over the body to the hospital for autopsy.
-
-◼️
-
-[Data](articles/a045887d.json)
-
-[Extended Data](ext_articles/a045887d.ext.json)
-
----
-
-### Death toll in Spanish building fire rises as questions grow about speed of blaze
-
-*2024-02-24 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97493/death-toll-in-spanish-building-fire-rises-as-questions-grow-about-speed-of-blaze) · `en`
-
-The death toll in a fire that engulfed an apartment block in the Spanish city of Valencia rose Friday to nine as questions were raised about whether construction materials caused the fire to spread so rapidly.
-
-One person remained missing, according to forensic police, who after identification procedures downgraded the death toll from an official’s account of 10 provided earlier following a visual count of remains.
-
-The fire started Thursday evening and quickly engulfed the two residential buildings. Neighbors described seeing the rapid spread of the blaze, residents stuck on balconies and hearing children screaming.
-
-“I have no words to describe the suffering of those poor people,” said Sara Plaza.
-
-Police found 9 bodies in the gutted residential buildings. Valencia’s national government delegate confirmed that the bodies matched the list of people that authorities had been trying to locate and that one person remained missing.
-
-...
-
-[Data](articles/428148e7.json)
-
-[Extended Data](ext_articles/428148e7.ext.json)
-
----
-
-### The price of chicken meat is an increase in the price of vegetables
-
-*2024-02-24 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/177171) · `ta`
-
-Accordingly, the price has increased to 350 rupees per kilogram.
-
-The price has fallen to 450 rupees per kg of tomatoes and ponchikai and leaks 300 rupees.
-
-Meanwhile, the prices of umbrella and green chillies have increased to 700 rupees and 600 rupees.One kg of ginger is 1200 rupees.
-
-But, one kilogram of chicken meat is sold at 1,150 rupees and the skin removed chicken meat is 1,100 rupees.
-
-3,300 rupees per kg and beef at Rs 2,300.
-
-◼️
-
-[Data](articles/15b74794.json)
-
-[Extended Data](ext_articles/15b74794.ext.json)
-
----
-
-### Two arrested for the shooting incident
-
-*2024-02-24 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193761) · `si`
-
-Two more youths have been arrested on suspicion of aiding attempting to shoot and kill a person in the Modara area.
-
-Three other youths have been arrested in connection with the incident.
-
-Investigations into the incident, two 19-year-old and 28-year-old persons were arrested in Modara and Grandpass areas yesterday (23).
-
-Residents of Colombo 15 and 14 were residents of Colombo 15 and 14.
-
-◼️
-
-[Data](articles/2290fba7.json)
-
-[Extended Data](ext_articles/2290fba7.ext.json)
-
----
-
-### Infant recovery: four arrested including mother
-
-*2024-02-24 09:56:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிசு-மீட்பு-தாய்-உட்பட-நால்வர்-கைது/76-333730) · `ta`
-
-The body of an infant, who was buried in the back of a house in the Vattawala Garden of the Hatton -Wattawala police division, has been excavated on the 22nd of the house, the Vattawala police said.
-
-According to the confidential information available to the Vattawala police, the Vattawala police rushed to the spot and recovered the body of the infant buried in a cloth.
-
-At the same time, the police have arrested the mother of Colombo and the husband of the woman, the husband, a daughter, and the neighbor who helped the cavity in connection with the incident.
-
-The mother (37), a 37 -year -old woman from Diyagama, who was in hiding in the incident, was found.
-
-Is the baby who was found dead in the incident?Police are investigating a different angle whether the infant was killed and buried in the back of the house.
-
-At the same time, the body of the fetus has been sent to the body of the fetus and the body parts of the fetus have been sent for examination.
-
-◼️
-
-[Data](articles/ca8ecbfb.json)
-
-[Extended Data](ext_articles/ca8ecbfb.ext.json)
 
 ---

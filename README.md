@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 22:33:22**
+As of **2024-02-25 22:49:41**
 
 ## Newspaper Stats
 
-*Scraped **9,222** Articles*
+*Scraped **9,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adaderanalk | 1,114
 tamilmirrorlk | 1,135
 virakesarilk | 1,250
 dailymirrorlk | 1,387
-adaderanasinhalalk | 1,393
+adaderanasinhalalk | 1,394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,221 (100.0%) of 9,222 articles have been extended.
+9,223 (100.0%) of 9,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### Korean Language Testicle Ticketing For Online
+
+*2024-02-25 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193819) · `si`
+
+The issuance of tickets of Korean language test in 2024 has been made to be done tomorrow (26) to 29th online system.
+
+The Foreign Employment Bureau has issued a statement.
+
+The announcement further states to the official website of the Bureau (http://www.slbfe.lk).That is the need to be.
+
+The Foreign Employment Bureau said that the link will be closed down after 29, the foreign employment will be informed in any way further means.
+
+Applications, fisheries, shipping, swelling, in the main areas and services should be applied under the 2 service.
+
+Being a person between the ages of 18 - 39 (Born in February 27 from February 27, 2006,
+
+A court of a court must be a fined, a fines or fined. Also, the Republic of Korea was not reversed or expelled,
+
+Under the E-9 or E-10 Visa categories, there should be a person who has not worked in South Korea for five years or more.
+
+...
+
+[Data](articles/f2c5c12a.json)
+
+[Extended Data](ext_articles/f2c5c12a.ext.json)
+
+---
 
 ### If you do this to be beautiful, the inheritance is death
 
@@ -54,17 +82,23 @@ Specialist Dr. Amila Sasanka Ratnage, speaking at the occasion,
 
 ---
 
-### සජ‌බේ රජයක තනතුරු දෙන්නේ සුර සැප විදින්න නෙමෙයි
+### Sajobe's posts in a government's posts not to shoot
 
 *2024-02-25 21:17:23* · [`adalk`](https://www.ada.lk/breaking_news/සජ‌බේ-රජයක-තනතුරු-දෙන්නේ-සුර-සැප-විදින්න-නෙමෙයි/11-408270) · `si`
 
-සමගි ජන බලවේගය ප්‍රතිචාර දක්වන්නේ වෙනත් දේශපාලන පක්ෂ ඉදිරිපත් කරන කරුණු කාරණාවලට නොව රට බංකොලොත් වීමත් සමඟ මෙරට කාන්තාවන් ප්‍රමුඛ ජන සමාජයේ සෙසු පාර්ශ්වයන්ට මුහුණ දීමට සිදුවන බරපතල ඛේදනීය තත්ත්වයට උත්තර සහ විසඳුම ලබා දීම සදහා බවත් බොහෝ දෙනකුට කාන්තාව අමතක වී ඇති මොහොතක කාන්තා ප්‍රඥප්තියක් සකස් කිරිමට යොමු වූයේ අද ඊයේ නොව 2019 වසරේ බවත් මේ එහි දිගුවක් බවත් විපක්ෂ නායකවරයා පැවසීය.
+The reconciliation respond to a woman's Charter, which is forgotten to provide the best tragic status of the leading society of Sri Lanka, not to make other political parties, but the country's leading community in Sri Lanka.The Opposition Leader said that not in the year 2019 but not today.
 
-මේ අවස්ථාවේ රටේ ඇති ලොකුම අභියෝගය වන්නේ දුප්පත්කම තුරන් කර ආර්ථික වර්ධන වේගය වැඩි කිරීමත් තොරතුරු තාක්ෂණය සිහිනයක් නොව යථාර්ථයක් කරන්නේ කෙසේද යන්න මිස දේශපාලන පක්ෂ නොවන බවත් ආර්ථික වර්ධනය සැමට ප්‍රතිලාභ ලැබෙන ආකාරයට බෙදී යන ආකාරයට ක්‍රියාත්මක කිරීම අභියෝගයක් බවත් අනෙකුත් පක්ෂවල අභියෝග තැකීමකට ලක් නොවන බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+The biggest challenge of the country is not political partnership and how to make economic growth, not a dream, and the challenges of the benefits of benefits to all, the leadership of the opposition is not considered.Sajith Premadasa said.
+
+Opposition Leader Sajith Premadasa made this statement in Kandy, Mahanavarara and Damrowani Dhammani Dhammani Dhammani Dhammani Dhammani, Mahanaekara and Asgiriya Chapter Dhammani Dhammani.
+
+Samagi folk force. M. F.. The Opposition Leader said that the people had a clear vision and that the masses would agree with the people and the people will face the issue and the challenges of the masses.
 
 ...
 
 [Data](articles/af487209.json)
+
+[Extended Data](ext_articles/af487209.ext.json)
 
 ---
 
@@ -2095,23 +2129,5 @@ But the new political alliance has not yet been created until now.
 [Data](articles/f2ca6a12.json)
 
 [Extended Data](ext_articles/f2ca6a12.ext.json)
-
----
-
-### At least 15 killed in apartment fire in China’s Nanjing
-
-*2024-02-25 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97512/at-least-15-killed-in-apartment-fire-in-chinas-nanjing) · `en`
-
-At least 15 people were killed and 44 injured in a fire at an apartment building in eastern China’s Nanjing, local authorities said Saturday.
-
-The blaze broke out at a news conference Friday morning, with officials saying a preliminary investigation suggested the fire started on the first floor of the building, where electric bicycles were stored. The building is located in the Yuhua District of Nanjing, a city of more than eight million people, about 260 kilometers (162 miles) northwest of Shanghai.
-
-The fire was put out by 6:00 a.m. (2200 GMT Thursday) and the search and rescue operation ended around 2:00 p.m., officials said. According to the emergency services, 25 fire engines were mobilized to fight the fire. Footage shared on Chinese social media shows a skyscraper on fire in the middle of the night, with black smoke pouring out of it.
-
-...
-
-[Data](articles/96167940.json)
-
-[Extended Data](ext_articles/96167940.ext.json)
 
 ---

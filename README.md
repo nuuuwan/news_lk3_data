@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 12:33:24**
+As of **2024-02-25 12:49:55**
 
 ## Newspaper Stats
 
-*Scraped **9,152** Articles*
+*Scraped **9,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 764
 adaderanalk | 1,103
 tamilmirrorlk | 1,126
 virakesarilk | 1,245
-adaderanasinhalalk | 1,374
+adaderanasinhalalk | 1,376
 dailymirrorlk | 1,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,151 (100.0%) of 9,152 articles have been extended.
+9,154 (100.0%) of 9,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### Demand from Dilantha Malagamuwa
+
+*2024-02-25 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193801) · `si`
+
+Two of Sri Lanka's proficient runners to participate in the European Motor race, Dilantha Malagamuwa and Ashan Silva are looking for lobeen.
+
+They are noted that they will cost about 3,500,000 euros per year.
+
+Two Sri Lankan veteran motor rides, Dilantha Malagamuwa and Ashan Silva is due to attend the GT 2 GT 2 GT 2.
+
+However, they have participated in a press conference held in Colombo that he would cost a lot of money to participate in the tournament.
+
+They have also asked Lulindha to spend about three hundred,000 euros per year.
+
+◼️
+
+[Data](articles/06a54f33.json)
+
+[Extended Data](ext_articles/06a54f33.ext.json)
+
+---
 
 ### State Minister urges COPF to summon CBSL over controversial salary hikes
 
@@ -47,6 +69,8 @@ Thus, in light of the situation that stirred much controversy in the country, it
 ◼️
 
 [Data](articles/ed7dd70e.json)
+
+[Extended Data](ext_articles/ed7dd70e.ext.json)
 
 ---
 
@@ -85,6 +109,34 @@ He wants any man to come to the end of the war, but we will not allow none of us
 [Data](articles/de2fd6bc.json)
 
 [Extended Data](ext_articles/de2fd6bc.ext.json)
+
+---
+
+### A story from Chandika Hathurusinghe
+
+*2024-02-25 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193800) · `si`
+
+The head coach of the Bangladesh is not 20 cricket through the Bangladesh Premier League (BPL) cricket tournament.
+
+Chandika Hathurusinghe emphasizes that it will declare it with a serious criticism.
+
+This is a well-known cricket website.
+
+He has said that the Bangladesh representation of Bangladesh in major battle batches and bowling roles.
+
+Chandika Hathurusinghe has emphasized that many groups have relied on foreign players for the major roles of competitions.
+
+"This is a strange thing for me. Sometimes the bpl sometimes I turn off TV. I have a big problem with the current system. The ICC must intervene, 'he said.
+
+Bangladesh bowlers have also emphasized that the Bangladeshi players should play a leading role in the competition.
+
+This year, all three groups in the BPL series, chattogram challengers, Sylit Strikers and Durdanano Dhaka were used for the first three of their batting list.
+
+...
+
+[Data](articles/b2f87809.json)
+
+[Extended Data](ext_articles/b2f87809.ext.json)
 
 ---
 
@@ -2005,41 +2057,5 @@ Kandy, Feb. 24 (Daily Mirror)- Renewing his pledge made during the 2019 Presiden
 [Data](articles/9087af98.json)
 
 [Extended Data](ext_articles/9087af98.ext.json)
-
----
-
-### Fire in Rajagiriya
-
-*2024-02-24 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193770) · `si`
-
-A fire has erupted in an afternoon at Obeysekarapura area in Rajagiriya.
-
-Our correspondent stated that the fire has erupted in a festive cargo manufacturing shop.
-
-The fire brigade of the Kotte Municipal Council was convened to suppress the fire.
-
-◼️
-
-[Data](articles/887abd8e.json)
-
-[Extended Data](ext_articles/887abd8e.ext.json)
-
----
-
-### Gangarama Temple’s Annual Navam Maha Perahara parade the streets
-
-*2024-02-24 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97500/gangarama-temples-annual-navam-maha-perahara-parade-the-streets) · `en`
-
-The 45th Navam Maha Perahera of the Hunupitiya Gangarama Temple in Colombo kicked off on Friday (Feb.23) with President Ranil Wickremesinghe placing the sacred casket on the ceremonial elephant, symbolizing the start of the procession.
-
-Emphasizing the significance of unity among devotees, the State of Head underscored that it forms the foundation of a vibrant cultural festival.
-
-Addressing the gathering as the chief guest at the Navam Maha Perahara organized by the Gangarama Temple in Colombo, President Wickremesinghe highlighted the annual event as a testament to the unity and devotion of its participants. He inaugurated the temple’s digital website, noting its role in enhancing the audience’s experience of the Perahera through modern technology.
-
-...
-
-[Data](articles/629ad9f5.json)
-
-[Extended Data](ext_articles/629ad9f5.ext.json)
 
 ---

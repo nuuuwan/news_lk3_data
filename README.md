@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 17:52:56**
+As of **2024-02-25 18:07:26**
 
 ## Newspaper Stats
 
-*Scraped **9,201** Articles*
+*Scraped **9,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ islandlk | 486
 adalk | 773
 adaderanalk | 1,112
 tamilmirrorlk | 1,133
-virakesarilk | 1,246
+virakesarilk | 1,247
 dailymirrorlk | 1,384
-adaderanasinhalalk | 1,387
+adaderanasinhalalk | 1,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,201 (100.0%) of 9,201 articles have been extended.
+9,203 (100.0%) of 9,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### The salary was increased with the approval of the Board of Executive;Ready to clarify to MPs - Central Bank
+
+*2024-02-25 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177269) · `ta`
+
+The Central Bank said the salary increase for its employees was based on the approval of the Central Bank of Sri Lanka and the agreement with the trade unions.
+
+The Central Bank said it was ready to explain to MPs who have made allegations of salary increases.
+
+The Central Bank said in a statement stating that several parliamentary sessions of the Central Bank employees of the Central Bank of Sri Lanka were on the lookout for the comments made by several MPs in the last parliamentary session.
+
+At the same time, the report also pointed out that the Central Bank Governor had sent a letter to the President, who serves as the Finance Minister, on the 22nd of last month, in response to the instructions of the Executive Council to seek a written source.
+
+The Central Bank has stated that the Central Bank is ready to explain to MPs through the appropriate parliamentary committee after that time.
+
+◼️
+
+[Data](articles/66548902.json)
+
+[Extended Data](ext_articles/66548902.ext.json)
+
+---
+
+### 70 km traveling without driver
+
+*2024-02-25 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193813) · `si`
+
+Foreign media reports, protesting a terrible train accident.
+
+From Panjab to Jammu from Panjab, Jammu has been running without its driver.
+
+The train stopped near the rural railway station, which was near the rural railway station, which had gone to brake to brake at the time.
+
+The train continues to move forward without the driver because it was a slope.
+
+Foreign media reports that it had been route nearly 100 kilometers per hour.
+
+However, the authorities have been able to stop the train that train the train rose about 70 kilometers.
+
+How the Railway Running Upper Faster With Social Media The circumstances have a strong conversation.
+
+◼️
+
+[Data](articles/44e64866.json)
+
+[Extended Data](ext_articles/44e64866.ext.json)
+
+---
 
 ### ‘Presidential Scholarships’ for 100,000 school students annually
 
@@ -2045,43 +2093,5 @@ Earlier, an unprecedented crisis had gripped the Court when judges and lawyers d
 [Data](articles/5c2cf304.json)
 
 [Extended Data](ext_articles/5c2cf304.ext.json)
-
----
-
-### 2024-02-24 (Saturday)
-
-### China: 15 dead and dozens more injured in Nanjing flat fire
-
-*2024-02-24 23:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97509/china-15-dead-and-dozens-more-injured-in-nanjing-flat-fire) · `en`
-
-◼️
-
-[Data](articles/f36c71ee.json)
-
-[Extended Data](ext_articles/f36c71ee.ext.json)
-
----
-
-### “Ukkuwa’s” killing: Another suspect arrested over Mahabage shooting
-
-*2024-02-24 23:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97508/ukkuwas-killing-another-suspect-arrested-over-mahabage-shooting) · `en`
-
-Another suspect has been arrested in connection with the deadly shooting incident in Mahabage earlier this week.
-
-As per reports, this suspect had deserted the Army in 2009 while following the basic training program and had later officially left the service.
-
-The suspect was taken into custody this afternoon (Feb. 24) in Narawelpiya South, Hakmana.
-
-Identified as Sadees Kumara, he is charged with aiding and abetting the shooting which took place on Feb. 21 near a meat shop in Elapitiwala Junction, Mahabage and killed the shop owner.
-
-Three unidentified assailants had opened fire using a revolver, around 7:15 a.m. on Feb. 21. The victim had succumbed to injuries while being rushed to the Colombo North Teaching Hospital in Ragama.
-
-The deceased, named Hettiarachchige Don Sujith alias “Ukkuwa”, was the brother-in-law of the criminal gang leader “Welle Saranga” and a resident of North Batagama in Ja-Ela.
-
-...
-
-[Data](articles/f91b3285.json)
-
-[Extended Data](ext_articles/f91b3285.ext.json)
 
 ---

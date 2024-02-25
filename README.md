@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 05:57:21**
+As of **2024-02-25 06:18:07**
 
 ## Newspaper Stats
 
-*Scraped **9,092** Articles*
+*Scraped **9,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 110
 dbsjeyarajcom | 162
 newsfirstlk | 363
 economynextcom | 464
-islandlk | 473
 dailyftlk | 483
+islandlk | 486
 adalk | 761
 adaderanalk | 1,097
 tamilmirrorlk | 1,115
@@ -26,9 +26,53 @@ dailymirrorlk | 1,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,092 (100.0%) of 9,092 articles have been extended.
+9,092 (99.9%) of 9,105 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-25 (Sunday)
+
+### Colombo’s most popular caricaturist in a bygone era
+
+*2024-02-25 03:18:00* · [`islandlk`](http://island.lk/colombos-most-popular-caricaturist-in-a-bygone-era/) · `en`
+
+With the passing of time, Lorenz did not have the time he would like to dedicate to the arts as before. The demand on his time in other fields such as in law and politics necessitated him to mainly if not totally focus on those aspects. However, his pencil and sketchbook never left his side. When inspiration struck him, out came a fine caricature. It has been over 150 years since his death and most of his once famous caricatures have been lost. A few have been reproduced as plates in some important publications over the last 100 years and preserved for posterity.
+
+Caricatures have always been endearing pieces of art which have commented on sophisticated matters. In the dynasty of Lankan caricature artists such as J. L. K. van Dort, Bevis Bawa, Aubrey Collette, W. R. Wijesoma and Gihan de Chickera, C.A. Lorenz can be safely positioned as the ‘pioneer’.
+
+...
+
+[Data](articles/7d2675f3.json)
+
+---
+
+### KEY TO DEVELOPMENT IS COMMITTED AND ETHICAL LEADERSHIP
+
+*2024-02-25 02:59:00* · [`islandlk`](http://island.lk/key-to-development-is-committed-and-ethical-leadership/) · `en`
+
+The Presidential Election of 1988 was held amid fear of disruption and death threats to campaigners. During the election period, a curfew was in force from 11 pm to 5 am throughout the month from Nomination to Polling Day while the forces of disruption were also enforcing fear psychosis, causing shops, government institutions, offices, and even court houses to close regularly.
+
+From Nomination Day, the candidates Prime Minister Ranasinghe Premadasa, Mrs. Sirima Bandaranaike and Mr. Ossie Abeygunasekara were conducting their election campaigns under heavy security. People were fearful of attending meetings, and attendance at most meetings was limited. The JVP did not run at this election.
+
+...
+
+[Data](articles/39497d13.json)
+
+---
+
+### WHEN TIGER (RAY) HOLDEN MET DARA SINGH
+
+*2024-02-25 02:52:00* · [`islandlk`](http://island.lk/when-tiger-ray-holden-met-dara-singh/) · `en`
+
+Professional wrestling was introduced to Sri Lanka (then known as Ceylon) by Donovan Andree, a prominent organiser of sporting and musical events for the middle class. An entertainment starved nation was quick to lap up the fare so diligently selected by Donovan.
+
+For a period of about two decades after the ceasing of hostiities in World War 2, Ceylon’s middle class woke up from a long war induced slumber to find that we were living in a virtual cultural desert. For the Sinhala speaking folk there was some relief from the emergence of Sunil Santha waxing lyrical on the joys and the beauty of the rural countryside through songs like “Olu Pipeela,” “Handapane” and “Bovitiya dhang palukam waray” For the English speaking Colombo centric middle class there was only Radio Ceylon and the Western movies and associated music like Jimmy Rodgers epic “Moonlight and Skies” and Doris Day’s “Que Sera “and the like.
+
+...
+
+[Data](articles/316d6d6c.json)
+
+---
 
 ### 2024-02-24 (Saturday)
 
@@ -116,6 +160,20 @@ This is the first time a container ship arrived in Sri Lanka and a special celeb
 
 ---
 
+### The Academician and the Elephant: an adventure in the wilds of Wasgamuwa
+
+*2024-02-24 22:11:00* · [`islandlk`](http://island.lk/the-academician-and-the-elephant-an-adventure-in-the-wilds-of-wasgamuwa/) · `en`
+
+Accounts of conflicts in remote jungle areas between man and elephant appear in our newspapers regularly. They make sad reading – man and beast each fighting a never ending battle for survival under increasingly difficult circumstances. There are then accounts of people getting killed, seriously injured or narrowly escaping when on tour in parks, sanctuaries and even outside these while seeking entertainment from seeing animals in their natural habitat. And then, of course, we’ve been inundated with press articles about the two baby elephants taken forcibly from Pinnawela to Kandy.
+
+With elephants so much in the news, an incident came to mind a few weeks ago listening to a brilliant academician at a seminar in Colombo. This academician, a friend of many years, had been living abroad for a long time excelling in his studies and profession. On his return he had an almost insatiable thirst for travel – off the beaten track – the more remote the better.
+
+...
+
+[Data](articles/d2fea074.json)
+
+---
+
 ### Earth slip falls down
 
 *2024-02-24 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193784) · `si`
@@ -167,6 +225,48 @@ Navalney died on the 16th in a Russian prison camp.
 [Data](articles/87d7e19b.json)
 
 [Extended Data](ext_articles/87d7e19b.ext.json)
+
+---
+
+### The late Alexei Navalny
+
+*2024-02-24 21:45:00* · [`islandlk`](http://island.lk/the-late-alexei-navalny/) · `en`
+
+You may wonder why I write about a now dead Russian, this Sunday. Three reasons: I had seen news on him on BBC newscasts a couple of years back and then very recently too and read about him; admired his fearless stand on corruption in Russia and then his mysterious death. I was saddened. Disturbing thoughts on how things could turn out even in democratic Sri Lanka crowded my mind. Third reason: his life and death are relevant to all countries for one reason or another, chiefly that opposition to governments and leaders is of such vital importance.
+
+Alexei Anatolyevich Navalny, born June 4, 1976, was of Russian and Ukrainian descent. His father was from a village on the Belarusian border and was evacuated to a region in Ukraine after the Chernobyl disaster. He grew up in Obninsk, about 100 km southwest of Moscow but spent holidays with his grandmother in Ukraine. His parents owned a basket weaving factory which they still manage.
+
+...
+
+[Data](articles/6d287a60.json)
+
+---
+
+### N.E. Weerasooria ( 1895 – 1974):lawyer with wide interests
+
+*2024-02-24 21:43:00* · [`islandlk`](http://island.lk/n-e-weerasooria-1895-1974lawyer-with-wide-interests/) · `en`
+
+Norman Edward Weerasooria was the youngest of the three sons of Mudaliyar Weerasooria who came of an old Kandyan family. “F. E.” was a much-loved doctor and “D. E.” a proctor with many irons in the fire. One sister married C. W. W. Kannangara, several times a Minister, and the other was the wife of Charles Batuvantudawe, son of the oriental scholar, and himself a Minister in the State Council for a short time.
+
+“Normie” as he was always called even by men much younger than himself, had a brilliant career at the Royal College, taking first classes and exhibitions in the Junior and Senior Cambridge Local Examinations. He just missed the Government University Scholarship which was then awarded to a classics student and a science student for further studies in England.
+
+...
+
+[Data](articles/ed53facc.json)
+
+---
+
+### Dilmah Conservation – an effort to combat “an inconvenient truth”
+
+*2024-02-24 21:24:00* · [`islandlk`](http://island.lk/dilmah-conservation-an-effort-to-combat-an-inconvenient-truth/) · `en`
+
+“There should be no greater priority than ensuring that the quality of the air we breathe, the rainfall that provides our sustenance, and the host of ecosystems that make human life possible are protected for our children and their generations.”
+
+The bounty of nature is a gift from God that mankind, for centuries, has taken for granted and quite often abused. The evidence of such destruction is seen all over the world – in polluted beaches, dirty waterways, denuded forests, and the regular killing of wild animals, even those which are endangered and protected by law. Mankind’s refusal or inability to live in harmony with nature has resulted in damage to the environment which cannot be repaired…
+
+...
+
+[Data](articles/c380ca9c.json)
 
 ---
 
@@ -374,6 +474,24 @@ The incident occurred after the end of the match, when Hasaranga confronted umpi
 
 ---
 
+### SEC and CSE hosts Investor Forum in Vavuniya
+
+*2024-02-24 19:44:00* · [`islandlk`](http://island.lk/sec-and-cse-hosts-investor-forum-in-vavuniya/) · `en`
+
+The Securities and Exchange Commission of Sri Lanka (SEC) in collaboration with the Colombo Stock Exchange (CSE) conducted their first Investor Forum for this year in Vavuniya on Feb. 17 with an event designed to raise awareness of stock market opportunities, investor education and investor protection, a CSE news release said.
+
+The event attracted over 130 participants, which included both existing and potential investors, providing valuable insights, the release said.
+
+Mr. Shanmukananthan Sabananthan, the Branch Manager of the CSE Jaffna, delivered a basic introduction to investing at CSE, including the process of investing as well as the pros and cons of Stock Market investment. A session to create awareness on the CSE Mobile App was conducted by Mr. Nathuram Sivarajah from the Colombo Stock Exchange.
+
+Furthermore, an analysis on the Sectoral Performance & Market Opportunities was presented by Mr. Arumainayagam Visaahan, Research Analyst, Asha Securities Ltd.
+
+...
+
+[Data](articles/26a915ae.json)
+
+---
+
 ### CBSL officials summoned by parliamentary committees over 70% salary hike?
 
 *2024-02-24 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97505/cbsl-officials-summoned-by-parliamentary-committees-over-70-salary-hike) · `en`
@@ -411,6 +529,94 @@ Chief Opposition Whip, MP Lakshman Kiriella also recently requested Speaker of P
 [Data](articles/d42fe2b4.json)
 
 [Extended Data](ext_articles/d42fe2b4.ext.json)
+
+---
+
+### ACL sets new standards in cable innovation
+
+*2024-02-24 19:33:00* · [`islandlk`](http://island.lk/acl-sets-new-standards-in-cable-innovation/) · `en`
+
+ACL, a pioneering force in the industry for over six decades, has introduced two groundbreaking cable solutions: the enhanced FireGuard cable and the energy-saving “Super Conductivity Cable.”
+
+The FireGuard cable, initially launched almost twenty years ago, has undergone substantial advancements, incorporating fire-resistant retardant attributes into its proprietary PVC formulation. ACL’s rigorous research and development efforts have ensured that FireGuard remains the only proven solution in the market, effectively preventing the spread of fire. Recent upgrades have further augmented FireGuard cables with improved energy-saving properties, solidifying ACL’s reputation as an industry leader in safety and innovation.
+
+...
+
+[Data](articles/593a2255.json)
+
+---
+
+### SLT-MOBITEL launches tailored suite solutions for MSMEs to ‘Soar Beyond Limits’
+
+*2024-02-24 19:33:00* · [`islandlk`](http://island.lk/slt-mobitel-enterprise-launches-tailored-suite-solutions-for-msmes-to-soar-beyond-limits/) · `en`
+
+SLT-MOBITEL has unleashed its new SLT-MOBITEL Enterprise initiative titled ‘Soar Beyond Limits’ presenting Micro, Small, And Medium-Sized Enterprises (MSMEs) a tailored suite of business solutions to achieve digital transformation and increase their contribution towards the economic development of the nation. Through this initiative, SLT-MOBITEL looks forward to enabling MSMEs to drive substantial progress across key metrics including economic growth, technological readiness, and the ability to harness technology for innovation to meet local demands.
+
+At an Enterprise product Forum held recently, SLT-MOBITEL Enterprise provided MSME business owners launched Cubkit web builder, Akaza HR, Akaza ERP and provided participants with the opportunity to immerse and interact with these products.
+
+...
+
+[Data](articles/72c86427.json)
+
+[Extended Data](ext_articles/72c86427.ext.json)
+
+---
+
+### Union Assurance delivers remarkable 13.5% dividend rate for 2023
+
+*2024-02-24 19:33:00* · [`islandlk`](http://island.lk/union-assurance-delivers-a-13-5-dividend-rate-for-2023/) · `en`
+
+Union Assurance announced the declaration of a 13.5% Universal Life Policyholder Dividend Rate for the financial year 2023. Once again, the Company has demonstrated its financial strength and resilience by surpassing expectations with this remarkable Dividend Rate of 13.5%, compared to the minimum guaranteed Dividend Rate of 10% for the year 2023. This achievement not only underscores the Company’s robust performance but also reaffirms its position as a trustworthy partner that maximises value for customers and shareholders alike.
+
+The Chief Executive Officer of Union Assurance, Senath Jayatilake, said: “We are delighted to announce an exceptional Dividend Rate, surpassing our guaranteed rate for 2023, which is a clear testimony to our commitment to delivering optimal value to our stakeholders. Notably, this marks the highest Dividend Rate declared in the past decade, underscoring our sustained progress over the years, even in the face of formidable external challenges.”
+
+...
+
+[Data](articles/b76682f3.json)
+
+[Extended Data](ext_articles/b76682f3.ext.json)
+
+---
+
+### Sithara Limited has been awarded with a ‘Merit’ at National Quality Awards
+
+*2024-02-24 19:32:00* · [`islandlk`](http://island.lk/sithara-limited-has-been-awarded-with-a-merit-at-national-quality-awards/) · `en`
+
+Sithara Limited, thas been awarded with a ‘Merit’ at the recently concluded National Quality Awards (2022), conducted by the Sri Lanka Standards Institute. National Quality Award is an annual award to recognize Sri Lankan companies that excel in Quality Management and Quality Achievement, which was conducted for the 27th consecutive year. This achievement is a result of company’s total commitment towards quality and consistency of its products and services offered to its clientele. Sithara Limited was founded in 1964 by visionary businessman and strategist C. E. L. Wickremesinghe to manufacture printing inks in Sri Lanka as a substitution to the imports that inundated into the country from European and Japanese counterparts.
+
+From the inception Sithara Limited diligently focused on Research & Development while consistently adapting and embracing newer technology.
+
+...
+
+[Data](articles/5d81b314.json)
+
+---
+
+### Sun Siyam Pasikudah invites locals and residents to experience East coast luxury
+
+*2024-02-24 19:32:00* · [`islandlk`](http://island.lk/sun-siyam-pasikudah-invites-locals-and-residents-to-experience-east-coast-luxury/) · `en`
+
+Sun Siyam Pasikudah announced an offer for locals and residents in Lanka to experience the captivating beauty and cultural richness of the country’s East Coast, said a press release.
+
+It said: Guests staying a minimum of two nights will be treated to exclusive benefits, including 20% discount on all food & beverage experiences, 10% discount at The Spa treatments, complimentary room upgrades, and early check-ins, late check-outs that are subject to availability. This enticing offer is available until March 31st, 2024, providing an opportunity for guests to seize the moment and experience the best of Pasikudah in unparalleled luxury and style.
+
+...
+
+[Data](articles/f67ce435.json)
+
+---
+
+### Coventry University and IIHS collaborates to offer Bachelors in Biomedical Sciences degree
+
+*2024-02-24 19:31:00* · [`islandlk`](http://island.lk/coventry-university-and-iihs-collaborates-to-offer-bachelors-in-biomedical-sciences-degree/) · `en`
+
+Coventry University in the United Kingdom (UK) has collaborated with the International Institute of Health Sciences (IIHS) to offer a ground-breaking Bachelors in Biomedical Sciences degree which will propel graduates into the forefront of healthcare advancements. Biomedical Sciences serves as the cornerstone of medical practice, providing the essential knowledge for health professionals to comprehend, diagnose, and treat illnesses effectively.
+
+The dedication of the staff, including those from international universities, ensures a comprehensive learning experience. Biomedical Science BSc (Hons) programme offered by Coventry University and IIHS is designed to prepare graduates for various careers in biomedical and biological science, including professional practice within the NHS or private sector as biomedical scientists.
+
+...
+
+[Data](articles/28bafa00.json)
 
 ---
 
@@ -1849,309 +2055,5 @@ Motorcyclist has been admitted to the Anuradhapura Teaching Hospital for further
 [Data](articles/13f18620.json)
 
 [Extended Data](ext_articles/13f18620.ext.json)
-
----
-
-### The son -in -law escaped after beating her mother -in -law in Batticaloa
-
-*2024-02-24 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177166) · `ta`
-
-The incident took place last Friday night (23), police said that the incident took place last Friday night (23).
-
-The deceased is 45 -year -old Vairamuthu Gomatani from Wadieri Koolaiyadichenai.
-
-The daughter of the deceased has gone abroad for employment opportunities. Children and daughter's husband live with her mother.
-
-There was a fight between a mother -in -law and mother -in -law when the mother -in -law was alone in the house last night.
-
-In this case, he died after he hit a massive object on his mother -in -law's head. The 30 -year -old son -in -law has fled after the mother -in -law died.
-
-Following this, neighbors informed the police that the police went to the scene and are conducting investigations.
-
-In addition, they are taking steps to obtain court permission and take steps to hand over the body to the hospital for autopsy.
-
-◼️
-
-[Data](articles/4acf3b61.json)
-
-[Extended Data](ext_articles/4acf3b61.ext.json)
-
----
-
-### Many people arrested by Dubai police
-
-*2024-02-24 08:49:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்த-பலர்-டுபாய்-பொலிஸாரால்-கைது/175-333729) · `ta`
-
-Some people who supported the murder of five people in Beliatta have been arrested by the police in Dubai.
-
-Two suspects suspected of firing Michael, Pussy Harsha and firing have been arrested in Dubai.
-
-They were arrested during a clash at a nightclub in the country.
-
-Kosgoda Suji's closest assistants are suspected of the murder of five people in Beliatta.
-
-It is also reported that the group of Kosgoda Sujee is currently trying to recover.
-
-However, the Dubai kingdom has not officially notified the Sri Lankan government regarding the arrest.
-
-It is reported that the two countries are discussing the next steps to bring the suspects to Sri Lanka.. Remble
-
-◼️
-
-[Data](articles/4c4ccb5c.json)
-
-[Extended Data](ext_articles/4c4ccb5c.ext.json)
-
----
-
-### Woman dies after a coconut plant fire
-
-*2024-02-24 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193759) · `si`
-
-Arachchikattuwa Police are buried in a house in the Arachchikattle police division yesterday (23).
-
-The deceased has been identified as a woman living in the 65-year-old Kiriwalkele area.
-
-The victim was living in a small house with her husband, and the cause of the house is yet to be determined.
-
-The husband of the deceased husband has been arrested by the Arachchikattuwa Police.
-
-According to police interrogation, he is said to raise the coconut shelter when they were burnt to death.
-
-◼️
-
-[Data](articles/a8f5a22b.json)
-
-[Extended Data](ext_articles/a8f5a22b.ext.json)
-
----
-
-### Rajiv Gandhi assassination case convict gets document to return to Sri Lanka
-
-*2024-02-24 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97490/rajiv-gandhi-assassination-case-convict-gets-document-to-return-to-sri-lanka-) · `en`
-
-India’s Ministry of External Affairs has issued an emergency travel document for Santhan, one of the freed convicts in the Rajiv Gandhi assassination case, facilitating his immediate deportation to Sri Lanka, foreign media reported.
-
-Santhan, who is currently being held at the special camp at the Tiruchirappalli central prison, will subsequently be escorted by the officials to the Tiruchirappalli International Airport, according to The New Indian Express (TNIE).
-
-Acting on a request from Santhan, the Sri Lankan Deputy High Commission had earlier issued a temporary travel document to him and now India’s Foreigners Registration Office (FRRO) has given an exit permit.
-
-“Once Santhan books the ticket, he will be deported. Instructions have been given to the district administration to escort him until the airport,” District Collector & District Magistrate of Tiruchirappalli, M Pradeep Kumar was quoted as saying by TNIE.
-
-◼️
-
-[Data](articles/055cdc34.json)
-
-[Extended Data](ext_articles/055cdc34.ext.json)
-
----
-
-### Over 1Mn power disconnections last year: Parliamentary Committee reveals
-
-*2024-02-24 08:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-1Mn-power-disconnections-last-year-Parliamentary-Committee-reveals/108-277646) · `en`
-
-Colombo, Feb. 24 (Daily Mirror)- More than one million power disconnections have been  imposed within the past year throughout the country, a parliamentary  committee has revealed.
-
-It was revealed when the Sectoral Oversight Committee on  Alleviating the Impact of the Economic Crisis chaired by MP Gamini  Waleboda met in the parliament complex on Thursday.
-
-Chairman Waleboda said it was revealed that some 10,69,000 power disconnections were reported last year.
-
-He said the Committee instructed the respective officials  to provide some relief to the consumers whose connections were  disconnected, which included cutting down the re-connection fee by 50 per cent and to allow the outstanding bill to be paid in instalments.
-
-He said instructions were also given to formulate a  mechanism to provide new connections on credit basis and pay the full  connection fee in instalments with the electricity bill.
-
-...
-
-[Data](articles/aa5f7a4e.json)
-
-[Extended Data](ext_articles/aa5f7a4e.ext.json)
-
----
-
-### Annual Navam Perahera commences
-
-*2024-02-24 08:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Annual-Navam-Perahera-commences/110-277645) · `en`
-
-President Ranil Wickremesinghe and former President Gotabaya Rajapaksa graced the first day of the Gangarama Navam Perahara in Colombo along with several other dignitaries last night. Traditional drummers, dancers and whip-crackers added colour to the Perahera. Pic by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/bd5c4d18.json)
-
-[Extended Data](ext_articles/bd5c4d18.ext.json)
-
----
-
-### A woman was assassinated with the coat
-
-*2024-02-24 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193758) · `si`
-
-A woman was assaulted by a woman with a woman in the Kandakechina area last night.
-
-The victim is a 48 year old town, a resident of Vakanari, Vakanari.
-
-It has been revealed that the attack had been assaulted by the husband of the deceased due to a personal dispute.
-
-The suspect had fled the area and he was released on bail after the death of the deceased.
-
-Valachchena Police are conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/6c40f0e1.json)
-
-[Extended Data](ext_articles/6c40f0e1.ext.json)
-
----
-
-### Ratnapura turns hot with the highest temperature
-
-*2024-02-24 08:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ratnapura-turns-hot-with-the-highest-temperature/108-277642) · `en`
-
-Colombo, Feb 24 (Daily Mirror) - The temperature in Ratnapura District in Sabaragamuwa Province and Kandy, Nuwara-Eliya in the Central Province had increased due to the decline of wind flow, the Department of Meteorology said.
-
-The temperature in Ratnapura was recorded to be 36c degrees, while Kandy recorded 30c and Nuwaraeliya 21c degrees.
-
-A climatologist from the Department of Meteorology told Daily Mirror that the decline of wind flow had resulted in the temperature rise.“the atmosphere does not get a cooling effect when winds decline.this is why temperatures rise.this is a usual happening during this time of the year,” she said.
-
-...
-
-[Data](articles/76f2601f.json)
-
-[Extended Data](ext_articles/76f2601f.ext.json)
-
----
-
-### Rain expected in several areas today
-
-*2024-02-24 07:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rain-expected-in-several-areas-today/108-277644) · `en`
-
-Colombo, Feb 24 (Daily Mirror) - Thundershowers will occur at several places in the Western, Southern, Sabaragamuwa, Central, North-Western, and Uva Provinces in the evening, the Forecasting Division of the National Meteorological Centre said.
-
-They said showers may occur at a few places in the North-Central Province in the evening.
-
-Misty conditions can be expected at some places in the Western, Sabaragamuwa, Central and Uva Provinces and in the Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/db69123b.json)
-
-[Extended Data](ext_articles/db69123b.ext.json)
-
----
-
-### Constable suspended with cannabis
-
-*2024-02-24 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193757) · `si`
-
-Puttalam DIG has banned the work of a police constable working at the Puttalam police station on the 23rd.
-
-The work was banned from Kalpitiya - Anandankaniya resident of Andankanna, Kalpitiya.
-
-Norochcholai Police received information on a secret location in the area of Akakawa.
-
-According to the information, seven suspects have been arrested by Norochcholai police officers.
-
-The police constable was also present between the suspects.
-
-The officers who raided transfer of 1,200 millions of cannabis.
-
-The suspects were produced before the Kalpitiya Acting Magistrate on the 23rd.
-
-The suspects have been released on bail of Rs 100,000.
-
-◼️
-
-[Data](articles/c6d50415.json)
-
-[Extended Data](ext_articles/c6d50415.ext.json)
-
----
-
-### Lowest vegetable prices today, high chicken prices
-
-*2024-02-24 07:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lowest-vegetable-prices-today-high-chicken-prices/108-277643) · `en`
-
-Colombo, Feb 24 (Daily Mirror) - The wholesale prices of vegetables at the New Manning Market in Peliyagoda today recorded lower while bringing down the price of carrots to Rs. 350 per kilo.
-
-Accordingly, the wholesale price of a kilo of tomato was Rs. 450, Beans Rs. 450 and Leeks Rs. 300.
-
-The wholesale price of Capsicum and Green Chillies were a bit higher as Rs. 700 and Rs. 600, while a kilo of ginger was Rs. 1,200.
-
-However, the price of a kilo of fresh chicken was Rs. 1,150; skinless chicken Rs. 1,100 and curry chicken Rs. 1,150.
-
-A kilo of mutton was at Rs. 3,300, and a kilo of beef Rs. 2,300.
-
-◼️
-
-[Data](articles/a88bcd15.json)
-
-[Extended Data](ext_articles/a88bcd15.ext.json)
-
----
-
-### Showers or thundershowers likely in some areas today
-
-*2024-02-24 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97489/showers-or-thundershowers-likely-in-some-areas-today) · `en`
-
-Showers or thundershowers are possible in parts of Western, Southern, Sabaragamuwa, Central, North-western and Uva provinces in the evening or at night today (Feb.24), the Department of Meteorology says.
-
-Showers or thundershowers may occur at a few places in North-central province in the evening or night.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers or thundershowers may occur at a few places in the sea areas extending from Puttalam to Hambantota via Colombo and Galle in the evening or night.
-
-Wind will be variable and wind speed will be 15-25 kmph in the sea areas around the island.
-
-...
-
-[Data](articles/3c05c5e9.json)
-
-[Extended Data](ext_articles/3c05c5e9.ext.json)
-
----
-
-### Patali's idea of electricity charge
-
-*2024-02-24 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193756) · `si`
-
-Patali Champika Ranawaka says the CEB has been able to reduce electricity tariffs by 20 percent.
-
-He said that the board had increased electrical tariffs and electricity tariffs.
-
-Wasantha Samarasinghe, the National Power Department (CEB) has no need to provide electricity to relief prices.
-
-Meanwhile, the Ceylon Electricity Association (CEB) Association has stated that the CEB has earned more than Rs. 60 billion.
-
-◼️
-
-[Data](articles/200f9969.json)
-
-[Extended Data](ext_articles/200f9969.ext.json)
-
----
-
-### Sri Lanka’s Commercial Bank Dec net down on tax provisions
-
-*2024-02-24 07:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-dec-net-down-on-tax-provisions-152042/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commercial Bank of Ceylon reported profits of 6.9 billion rupees from the December 2023 quarter down 21 percent, despite an improvement in net interest income and lower provisions, amid a change in tax provisions.
-
-Pre-tax profits were 8.89 billion rupees up from 2.4 billion rupees. There was a 6.4 billion tax reversal last year compared to a 1.7 billion rupee tax charge this year.
-
-Commercial Bank reported earnings of 5.26 rupees for the quarter. For the year to December 2023 earnings were 16.07 rupees per share on total profits of 21.1 billion rupees, down 11.3 percent.
-
-Net fee and commission income was down 1.2 percent to 6.1 billion rupees.
-
-Net interest income went up 16.8 percent to 25.5 billion rupees, with interest income rising marginally by 1.3 percent to 73.0 billion rupees and interest expense falling 5.45 percent to 47.5 billion rupees.
-
-...
-
-[Data](articles/98d6edd5.json)
-
-[Extended Data](ext_articles/98d6edd5.ext.json)
 
 ---

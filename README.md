@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 04:33:01**
+As of **2024-02-26 04:49:39**
 
 ## Newspaper Stats
 
-*Scraped **9,247** Articles*
+*Scraped **9,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 467
 islandlk | 486
-dailyftlk | 487
+dailyftlk | 492
 adalk | 776
 adaderanalk | 1,118
 tamilmirrorlk | 1,135
@@ -26,11 +26,87 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,247 (100.0%) of 9,247 articles have been extended.
+9,252 (100.0%) of 9,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Presidential first - Ranil assures Patali
+
+*2024-02-26 04:03:07* · [`dailyftlk`](https://www.ft.lk/news/Presidential-first-Ranil-assures-Patali/56-758856) · `en`
+
+Patali meets President Ranil Wickremesinghe to discuss Common Minimum Plan proposed by URF
+
+Wickremesinghe expresses agreement with need to form an alliance to implement proposed program
+
+Stresses that neither a general election nor a referendum would take place before a Presidential poll
+
+Patali Champika Ranawaka says URF will discuss plan with all parties except for SLPP
+
+President Ranil Wickremesinghe yesterday assured United Republic Fund (URF) leader Patali Champika Ranawaka that Presidential elections will be held as scheduled. The President said the Presidential election will be held first, with a parliamentary expected to follow in early 2025.
+
+The President provided this assurance during his meeting with Ranawaka yesterday at the United National Party (UNP) headquarters, Sirikotha. The discussion centred on the URF’s recently revealed Common Minimum Plan, which aims to revive the nation.
+
+...
+
+[Data](articles/45ec8e53.json)
+
+[Extended Data](ext_articles/45ec8e53.ext.json)
+
+---
+
+### India to deport Rajiv Gandhi assassination convict to SL
+
+*2024-02-26 04:00:22* · [`dailyftlk`](https://www.ft.lk/news/India-to-deport-Rajiv-Gandhi-assassination-convict-to-SL/56-758855) · `en`
+
+Indian authorities on Friday issued an order for the deportation of Santhan, also known as Thilliampalam Suthenthiraraja, a convict in the 1991 Rajiv Gandhi assassination case, to Sri Lanka. Santhan, aged 55, was granted premature release in November 2022 after serving 32 years in prison and is currently staying in a special camp within the Trichy central jail premises.
+
+The Indian Foreigners Regional Registration Office (FRRO) in Chennai issued the exit permit for Santhan’s deportation on Friday. Depending on his wishes, Santhan is likely to be able to return to Sri Lanka as early as this week.
+
+...
+
+[Data](articles/300397b7.json)
+
+[Extended Data](ext_articles/300397b7.ext.json)
+
+---
+
+### Overseas Realty records Rs. 4.3 b profit before tax in FY23
+
+*2024-02-26 03:43:59* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-records-Rs-4-3-b-profit-before-tax-in-FY23/34-758854) · `en`
+
+Overseas Realty (Ceylon) PLC has recorded a Group Revenue of Rs. 5,076 million and a Group Profit Before Tax of Rs. 4,311 million for the year ended 31 December 2023.
+
+In a statement the company said the appreciation of the LKR by 11.26% resulted in a significant exchange gain of Rs. 2,429 million on foreign currency loans.
+
+The company revenue of Rs. 2,400 million at the World Trade Center, Colombo, was 14% higher than the corresponding period of last year, due mainly to higher rental rates. Revenue of Rs. 1,163 million was recorded from Residential Sales of Havelock City which was significantly lower than the corresponding period in 2022.
+
+Apartment sales slowed down due to depressed economic conditions, higher construction costs and new taxes which increased sales prices. A limited number of move-in ready luxury apartments are available for immediate purchase in the fourth and final phase of Havelock City Residential.
+
+...
+
+[Data](articles/1da2fcc3.json)
+
+[Extended Data](ext_articles/1da2fcc3.ext.json)
+
+---
+
+### NCE seminar highlights latest developments of VAT and TIEP schemes
+
+*2024-02-26 03:38:01* · [`dailyftlk`](https://www.ft.lk/business/NCE-seminar-highlights-latest-developments-of-VAT-and-TIEP-schemes/34-758853) · `en`
+
+The National Chamber of Exporters of Sri Lanka (NCE) recently organised a seminar for exporters with the participation of around 140 to disseminate information on important topics related to exports.
+
+The event commenced with an illuminating keynote address by KPMG Principal, Head of Tax & Regulatory Division Suresh Perera, Sri Lanka Inland Revenue Department Senior Deputy Commissioner P.N. Kumara and Sri Lanka Customs Director of Customs, Industries and services Division R.H.R.W. Kamalsiri.
+
+...
+
+[Data](articles/ffea674c.json)
+
+[Extended Data](ext_articles/ffea674c.ext.json)
+
+---
 
 ### Bashil: Udayanga Weeratunga
 
@@ -87,6 +163,22 @@ During the meeting, which was held on Saturday morning (24), the former parliame
 [Data](articles/b9afed19.json)
 
 [Extended Data](ext_articles/b9afed19.ext.json)
+
+---
+
+### Reflection of economic policies in post-independence Sri Lanka
+
+*2024-02-26 02:20:54* · [`dailyftlk`](https://www.ft.lk/columns/Reflection-of-economic-policies-in-post-independence-Sri-Lanka/4-758841) · `en`
+
+Owing to a long persisted inward-looking economic policy, large unproductive public sector and unfavourable monetary and exchange rate policies, the country failed to develop a sufficiently large export-oriented industrial sector
+
+Sri Lanka is celebrating 76 years of independence this year, and the country is just emerging from its worst ever economic crisis which erupted in 2022. With the support of the IMF Extended Fund Facility arrangement and debt restructuring, which aims to restore long-term public debt sustainability, the country is obligated to make certain structural economic policy reforms to avoid the repetition of a similar crisis in the future.
+
+...
+
+[Data](articles/c88e4ffd.json)
+
+[Extended Data](ext_articles/c88e4ffd.ext.json)
 
 ---
 
@@ -2001,101 +2093,5 @@ Then pours water in it. Then there is a small cloth with a laundry scenes. It gi
 [Data](articles/65fc1ca4.json)
 
 [Extended Data](ext_articles/65fc1ca4.ext.json)
-
----
-
-### The smallest washing machine in the world;Video
-
-*2024-02-25 10:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகின்-மிகச்சிறிய-வாஷிங்-மெஷின்-காணொளி/175-333758) · `ta`
-
-Sai Thirumalanidhi from Andhra Pradesh has set a new Guinness record by creating the world's smallest washing machine. The related video is going viral on the Internet.
-
-In the video shared on Instagram, Sai Thirumalanthi has the process of creating a small washing machine. With very sophisticated care, he coordinates the washing machine using small parts including switch and a small pipe. It begins to function fully.
-
-Then pours water in it. Then there is a small cloth with a laundry scenes. It gives the sight to clean that when the cloth is taken out in a while. This video, which is viral on the Internet, has received over 70 lakh views. Many users who have heard this are commenting on Sai Tirumalanidhi.
-
-Administration is not responsible for any of the comments you make. They are your personal opinions. Consider that your comments will be uploaded after the author's appropriate audit. Send us your ideas too.
-
-◼️
-
-[Data](articles/fb299f86.json)
-
-[Extended Data](ext_articles/fb299f86.ext.json)
-
----
-
-### President orders probe into directive for Russian, Ukrainian tourists to depart
-
-*2024-02-25 10:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-orders-probe-into-directive-for-Russian-Ukrainian-tourists-to-depart/108-277668) · `en`
-
-Colombo, Feb 25 ( Daily Mirror) - President Ranil Wickremesinghe has ordered an investigation into the notification issued to Russian and Ukrainian tourists, without prior Cabinet approval, requiring them to leave the country within 14 days.
-
-The President's Media Division said that the Sri Lankan government has not officially decided to revoke the visa extensions previously granted to these tourists.
-
-◼️
-
-[Data](articles/5321e3f1.json)
-
-[Extended Data](ext_articles/5321e3f1.ext.json)
-
----
-
-### Strike with dust word: air passenger impact
-
-*2024-02-25 10:42:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூசண-வார்த்தையால்-வேலை-நிறுத்தம்-விமான-பயணிகள்-பாதிப்பு/175-333757) · `ta`
-
-SriLankan Airlines 'Sri Lanka Freedom Services Association President Janaka Vijayapatrana said that the SriLankan Airlines' staff went on an immediate strike on Sunday morning (25) that the SriLankan Airlines flights were often delayed and canceled.
-
-He said, "If the car is loaded with overweight, the cow will die without being able to pull the cart."
-
-He added that there is a shortage of employees at Sri Lanka Airlines, and that there is a shortage of employees who have now matured and left the country and joined other foreign airlines.
-
-As a solution to these issues, Janaka Vijayapatrana said that his union is urgently requesting the union to prepare the new airlines to suit Sri Lanka's Airlines -owned airlines, recruiting employees of experience and maturity.. He said the aircraft could prevent the cancellation and delay.
-
-The situation of SriLankan Airlines will adversely affect SriLankan Airlines and the country's pride and reputation, said Janaka Vijayapatiratne.
-
-...
-
-[Data](articles/f0f2b921.json)
-
-[Extended Data](ext_articles/f0f2b921.ext.json)
-
----
-
-### US Deputy Secretary of State emphasizes inquiries into lifeblood attacks
-
-*2024-02-25 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177229) · `ta`
-
-Deputy Secretary of State for Management and Resources, Richard Verma, has emphasized the need for investigation into the survival Sunday attacks.
-
-Verma is also in talks with the president on the 2019 resurrection Sunday attacks, beyond the issues such as the economic crisis and the anti -governmental law of reconciliation.
-
-It is reported that Richard was investigating the Sunday attack on Sunday's Sunday during a meeting with External Affairs Minister Alisabri and later with the president.
-
-It has been reported that Verma lost a man who knew he knew in the Sunday Sunday 2019 and had personally emphasized the investigation.
-
-According to reports, the US has announced that the US has sought the help of the resurrection and that the US has announced that the US has announced that the investigation has ended from its side.
-
-◼️
-
-[Data](articles/9d625703.json)
-
-[Extended Data](ext_articles/9d625703.ext.json)
-
----
-
-### President is a special order from President
-
-*2024-02-25 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193799) · `si`
-
-President Ranil Wickremesinghe has ordered an inquiry into the notification of Cabinet approval to leave the country within 14 days.
-
-The Government of Sri Lanka has not yet been officially determined to cancel the visa extensions given to Russian and Ukrainian tourists.
-
-◼️
-
-[Data](articles/ada282a5.json)
-
-[Extended Data](ext_articles/ada282a5.ext.json)
 
 ---

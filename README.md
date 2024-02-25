@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 04:49:39**
+As of **2024-02-26 05:02:35**
 
 ## Newspaper Stats
 
-*Scraped **9,252** Articles*
+*Scraped **9,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 486
 dailyftlk | 492
 adalk | 776
 adaderanalk | 1,118
-tamilmirrorlk | 1,135
+tamilmirrorlk | 1,136
 virakesarilk | 1,259
 dailymirrorlk | 1,390
 adaderanasinhalalk | 1,395
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,252 (100.0%) of 9,252 articles have been extended.
+9,252 (100.0%) of 9,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### வீதி அபிவிருத்தி திட்டம் 29 ஆம் திகதி ஆரம்பம்
+
+*2024-02-26 04:20:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதி-அபிவிருத்தி-திட்டம்-29-ஆம்-திகதி-ஆரம்பம்/175-333804) · `ta`
+
+ஒரு லட்சம் கிலோமீட்டர் கிராமிய வீதிகளை அபிவிருத்தி செய்யும் வேலைத்திட்டத்தின் மற்றுமொரு கட்டம் எதிர்வரும் 29 ஆம் திகதி ஆரம்பிக்கப்படவுள்ளது.
+
+நாடளாவிய ரீதியில் இந்த திட்டம் நடைமுறைப்படுத்தப்படுவதாக வீதி அபிவிருத்தி அதிகாரசபையின் பணிப்பாளர் நாயகம் எல்.வி.எஸ். வீரகோன் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/5b96bb39.json)
+
+---
 
 ### Presidential first - Ranil assures Patali
 
@@ -2075,23 +2089,5 @@ The police said that the son was arrested in court (24).
 [Data](articles/481833f1.json)
 
 [Extended Data](ext_articles/481833f1.ext.json)
-
----
-
-### The smallest washing machine in the world
-
-*2024-02-25 10:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகின்-மிகச்சிறிய-வாஷிங்-மெஷின்/175-333758) · `ta`
-
-Sai Thirumalanidhi from Andhra Pradesh has set a new Guinness record by creating the world's smallest washing machine. The related video is going viral on the Internet.
-
-In the video shared on Instagram, Sai Thirumalanthi has the process of creating a small washing machine. With very sophisticated care, he coordinates the washing machine using small parts including switch and a small pipe. It begins to function fully.
-
-Then pours water in it. Then there is a small cloth with a laundry scenes. It gives the sight to clean that when the cloth is taken out in a while. This video, which is viral on the Internet, has received over 70 lakh views. Many users who have heard this are commenting on Sai Tirumalanidhi.
-
-◼️
-
-[Data](articles/65fc1ca4.json)
-
-[Extended Data](ext_articles/65fc1ca4.ext.json)
 
 ---

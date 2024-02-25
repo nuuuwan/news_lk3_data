@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 01:02:37**
+As of **2024-02-26 01:17:30**
 
 ## Newspaper Stats
 
-*Scraped **9,233** Articles*
+*Scraped **9,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 111
 dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 467
-dailyftlk | 483
+dailyftlk | 484
 islandlk | 486
 adalk | 776
 adaderanalk | 1,118
@@ -26,23 +26,41 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,230 (100.0%) of 9,233 articles have been extended.
+9,233 (100.0%) of 9,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### மட்டக்களப்பில் கல்விச் சமூகத்தினர் முன்னெடுத்த போராட்டம்!
+### Navigating the economic reawakening and sustainable growth
 
-*2024-02-25 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177281) · `ta`
+*2024-02-25 23:48:12* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-the-economic-reawakening-and-sustainable-growth/4-758814) · `en`
 
-கிழக்கு மாகாணத்தில் பொருளாதார நெருக்கடிக்கு மத்தியிலும் பின்தங்கிய பிரதேச மாணவர்கள் தற்போது தேசிய ரீதியில் சிறந்த பெறுபேறுகளைப் பெற்று வருகின்ற இவ்வேளையில் சிலர் அரசியல் சுயநலம் காரணமாக மட்டக்களப்பு மாவட்டத்தில் கல்விப் பணிமனைகளில் சேவையாற்றும் அதிபர்கள் ஆசிரியர்கள் வளையக்கல்வி பணிமனையின் ஊழியர்களை இலக்கு வைத்து சமூக ஊடகங்களில் பிழையான கருத்துக்களைத் தெரிவித்து பொதுமக்களைக் குழப்புகின்ற செயற்பாட்டைக் கண்டித்து இன்று காலை மட்டக்களப்பு காந்தி பூங்காவில் மட்டக்களப்பு கல்வி சமூகம் கல்வி நலன்புரி அமைப்புகள் அதிபர்கள் ஆசிரியர்கள் தொழிற்சங்கங்கள் இணைந்து கண்டன ஆர்ப்பாட்டம் ஒன்றை முன்னெடுத்திருந்தனர்.
+Sri Lanka cannot promote its export sector while having an unproductive tariff structure and restrictions on imports
 
-மிகவும் அமைதியான முறையில் முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தில், ஆசிரியர் சேவைக்கும் தொழிற்சங்க சேவைக்கும் பொருத்தம் இல்லாத உதயரூபன் என்பவரை அனைத்து பதவியிலிருந்தும் நீக்குமாறும் தொழிற்சங்க அதிகார  அடாவடித்தனத்திற்கும் முடிவு கட்ட வேண்டிய இவர்கள் இங்கு ஆர்ப்பாட்டத்தை முன்னெடுத்திருந்தனர்.
+No country can get out of poverty, or indebtedness without having sustained economic expansion. It is the economic surplus that is produced that will be used to reduce poverty through new investments and repay the creditors without being indebted further. However, growth is necessary but not sufficient to sustain the expansion of an economy. Growth will produce a higher volume of goods and services for consumption by people. But unless the people within the country have purchasing power to buy the same, producers will find that they are saddled with unsold stocks
 
 ...
 
+[Data](articles/0cd7e59b.json)
+
+---
+
+### The struggle of the education community in Batticaloa
+
+*2024-02-25 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177281) · `ta`
+
+Due to the political selfishness of the Eastern Province, some people who are now receiving the best results in the Eastern Province, due to the political selfishness, some of the Educational Workshops in the Batticaloa District, Principals, Teachers, Teachers' Education WorkshopWelfare Organizations, Principals, Teachers and Trade Unions staged a protest demonstration.
+
+In a very peaceful demonstration, those who had to end the demonstration here, who had to end up with the removal of Udayarupan, who did not apply to the Teacher Service and the Trade Union Service.
+
+The protest was carried out in accordance with the theme not to insult the principals of the dedicated teacher community. At this time, the teacher union members made comments to the media about their protests.
+
+◼️
+
 [Data](articles/3db9abdc.json)
+
+[Extended Data](ext_articles/3db9abdc.ext.json)
 
 ---
 
@@ -596,6 +614,8 @@ The central bank’s Governor has made a request to the Finance Minister to expl
 
 [Data](articles/fd1caca6.json)
 
+[Extended Data](ext_articles/fd1caca6.ext.json)
+
 ---
 
 ### The salary was increased with the approval of the Board of Executive;Ready to clarify to MPs - Central Bank
@@ -741,6 +761,8 @@ Airport sources said four SriLankan Airlines flights faced delay and a frustrate
 ...
 
 [Data](articles/fb4f5886.json)
+
+[Extended Data](ext_articles/fb4f5886.ext.json)
 
 ---
 
@@ -2091,31 +2113,5 @@ The woman was arrested in the investigation by a complaint with a complaint with
 [Data](articles/04f6df28.json)
 
 [Extended Data](ext_articles/04f6df28.ext.json)
-
----
-
-### Business family caught on a Greek number visa
-
-*2024-02-25 09:22:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Greek-விசாவில்-வர்த்தக-குடும்பம்-சிக்கியது/175-333752) · `ta`
-
-Four people from a four -year -old business family who have come to escape to the European country, who have been using the GREEK telephone visa, have been arrested at the Katunayake International Airport.
-
-Katunayake airport officials said they were arrested in the afternoon (24) afternoon.
-
-The 43 -year -old man who is a businessman who is a resident of Nathanthiya, his wife (47 years old) and the sons of the 21 and 16 year olds have been arrested.
-
-Global Visa Facilitation Service (Global Visa Facilitation Service "is being issued by the Global Visa Facilitation Service.
-
-The broker has taken the businessman to the office of the company in India and gave these visas.
-
-The business family arrived at the Katunayake airport at 5 pm on Saturday (24) to board the Gulf Airlines GF-145 flight.
-
-At first, they planned to leave Bahrain and board another flight to Athens, Greece.
-
-...
-
-[Data](articles/2a5a3511.json)
-
-[Extended Data](ext_articles/2a5a3511.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 17:02:37**
+As of **2024-02-25 17:17:34**
 
 ## Newspaper Stats
 
-*Scraped **9,196** Articles*
+*Scraped **9,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ newsfirstlk | 363
 economynextcom | 465
 dailyftlk | 483
 islandlk | 486
-adalk | 772
+adalk | 773
 adaderanalk | 1,111
 tamilmirrorlk | 1,132
 virakesarilk | 1,246
 dailymirrorlk | 1,384
-adaderanasinhalalk | 1,385
+adaderanasinhalalk | 1,387
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,195 (100.0%) of 9,196 articles have been extended.
+9,196 (100.0%) of 9,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### බිහිසුණු රිය අනතුරකින් කාන්තාවක් මරුට
+
+*2024-02-25 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193812) · `si`
+
+තංගල්ල මාතර ප්‍රධාන මාර්ගයේ තලල්ල ප්‍රදේශයේදී සිදුවූ රිය අනතුරකින් කාන්තාවක් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+
+ත්‍රිරෝද රථයක් සහ ටිපර් රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+
+අනතුරින් මියගොස් ඇත්තේ කෝට්ටගොඩ ප්‍රදේශයේ පදිංචි 30 හැවිරිදි වියේ පසුවූ කාන්තාවකි.
+
+අනතුර සිදුවන අවස්ථාවේ ත්‍රිරෝද රථයේ පුද්ගලයින් පස්දෙනෙකු ගමන්කර ඇති බව පොලීසිය පවසයි.
+
+තුවාල ලැබූ 33 හැවිරිදි වියේ පසුවන ත්‍රිරෝද රථයේ රියදුරු, 15 හැවිරිදි වියේ පසුවන පිරිමි ළමයෙකු, 14 හැවිරිදි වියේ පසුවන ගැහැණු ළමයෙකු සහ මාස 11ක කුඩා බිළිඳෙකු ප්‍රතිකාර සඳහා මාතර රෝහලට ඇතුළත් කර තිබේ.
+
+අනතුරින් තුවාල ලැබූ බිළිඳාගේ තත්ත්වය බරපතළ බව රෝහල් ආරංචි මාර්ග පවසයි.
+
+◼️
+
+[Data](articles/bca9187a.json)
+
+---
 
 ### TM Dilshan gains Australian citizenship
 
@@ -47,6 +69,44 @@ TM Dilshan, renowned for his explosive batting style, played a pivotal role in n
 ...
 
 [Data](articles/09c0169b.json)
+
+[Extended Data](ext_articles/09c0169b.ext.json)
+
+---
+
+### අදත් කොළඹ වෙඩි ප්‍රහාරයක්
+
+*2024-02-25 16:16:24* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-කොළඹ-වෙඩි-ප්‍රහාරයක්/11-408267) · `si`
+
+කොළඹ ජම්පටා වීදිය නිව්හැම් චතුරස්‍රය ප්‍රදේශයේ කුකුල් මස් අලෙවි සැලක හිමිකරුවකු ඉලක්ක කරගෙන සිදුකළ වෙඩි ප්‍රහාරයකින් එම පුද්ගලයා තුවාල ලබා රෝහල් ගත කළ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව  මහතා පැවසීය.
+
+වෙඩි ප්‍රහාරයෙන් තුවාල ලබා ඇත්තේ මොහොමඩ් රිල්වාන් නමැති 57 හැවිරිදි පුද්ගලයෙකි.
+
+වෙඩි ප්‍රහාරය එල්ල වූ පුද්ගලයා වෙළඳ සැල තුළ පුටුවක අසුන්ගෙන සිටියදී යතුරුපැදියකින් පැමිණ තිබූ පුද්ගලයන් දෙදෙනෙකුගෙන් අයකු ඔහු අසලටම පැමිණ රිවොල්වර  වර්ගයේ ගිනි අවියකින් වෙඩි ප්‍රහාර තුනක් එල්ල කර ඇති අතර එයින් එක් වෙඩි ප්‍රහාරයක් එම පුද්ගලයාගේ උරහිස ප්‍රදේශයට වැදී ඇති බව මාධ්‍ය ප්‍රකාශකවරයා කීය.
+
+◼️
+
+[Data](articles/aa8c01ab.json)
+
+---
+
+### පාසල් දරුවන් 100,000කට ශිෂ්‍යත්වයක්
+
+*2024-02-25 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193811) · `si`
+
+පාසල් දරුවන් සඳහා විශේෂ ශිෂ්‍යත්ව වැඩසටහනක් ඇරඹීමට ජනපති තීරණය කර ඇත.
+
+මෙරට 10,126ක් වූ සමස්ත පාසල් සංඛ්‍යාවම ආවරණය වන අයුරින් පළමු ශ්‍රේණියේ සිට 11 වන ශ්‍රේණිය දක්වා දරුවන් 100,000 ක් තෝරාගෙන ඔවුන් සඳහා මෙම ශිෂ්‍යත්ව වැඩසටහන ක්‍රියාත්මක කිරීමට නියමිතය.
+
+ඒ අනුව මෙම සමස්ත වැඩසටහන සදහා ජනාධිපති අරමුදලින් රුපියල් මිලියන 3,600ක ප්‍රතිපාදන වෙන් කර තිබේ.
+
+වර්තමානයේ රට තුළ පවතින ආර්ථික තත්ත්වය හමුවේ අඩු සහ මධ්‍ය ආදායම්ලාභී පවුල්වල දරුවන් මුහුණ දෙන පාසල් උපකරණ සහ අභ්‍යාස පොත් සපයා ගැනීම මෙන්ම ප්‍රවාහන පහසුකම් සලසා ගැනීම වැනි කටයුතුවල දුෂ්කරතාවයන් සැලකිල්ලට ගනිමින් ඒ සඳහා යම් අස්වැසිල්ලක් සැලසීම මෙම වැඩසටහනේ අරමුණ වී ඇත.
+
+ඒ අනුව මෙම ශිෂ්‍යත්වලාභීන් තෝරා ගැනීමේ ක්‍රියාවලිය සහ මීට අදාළ සියලු තොරතුරු ඉදිරියේදී දැනුම්දීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+◼️
+
+[Data](articles/9dbacc24.json)
 
 ---
 
@@ -2019,67 +2079,5 @@ The critical reasoning in a decision that Judge Lindon Hannibles was given in th
 [Data](articles/96a248b9.json)
 
 [Extended Data](ext_articles/96a248b9.ext.json)
-
----
-
-### ANE MAERSK leaves Colombo
-
-*2024-02-24 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193785) · `si`
-
-The world's largest container ship, which empowered in Metal, arrived at the Port of Colombo today (24).
-
-This commence vessel, "Annie Mursk" is over 16,000 containers.
-
-Mersk's first namellar, "Annie Mursk" first joins the transportation of the goods on the 26th of January.
-
-It is used to reduce air pollution caused to sulfur and carbon dioxide environment and it will use these ships to minimize the impact on the environment in addition to the harmful influence of human health.
-
-Accordingly, there are two tanks of 16,000 dinmeters in the ship to use it for fuel.
-
-The ship produced by Hundai, South Korea, is sailing in the Danish flag.
-
-The ship's full capacity is 1900 tons and consists of an Annie Mursk, 10 in 10 containers.
-
-The ship moves from Asia to Europe from Asia to Europe, which is one destination in the AE7 road from the AE7 road.
-
-This is the first time a container ship arrived in Sri Lanka and a special celebration was held at the Colombo International Container Terminal.
-
-◼️
-
-[Data](articles/bb95b97e.json)
-
-[Extended Data](ext_articles/bb95b97e.ext.json)
-
----
-
-### The Academician and the Elephant: an adventure in the wilds of Wasgamuwa
-
-*2024-02-24 22:11:00* · [`islandlk`](http://island.lk/the-academician-and-the-elephant-an-adventure-in-the-wilds-of-wasgamuwa/) · `en`
-
-Accounts of conflicts in remote jungle areas between man and elephant appear in our newspapers regularly. They make sad reading – man and beast each fighting a never ending battle for survival under increasingly difficult circumstances. There are then accounts of people getting killed, seriously injured or narrowly escaping when on tour in parks, sanctuaries and even outside these while seeking entertainment from seeing animals in their natural habitat. And then, of course, we’ve been inundated with press articles about the two baby elephants taken forcibly from Pinnawela to Kandy.
-
-With elephants so much in the news, an incident came to mind a few weeks ago listening to a brilliant academician at a seminar in Colombo. This academician, a friend of many years, had been living abroad for a long time excelling in his studies and profession. On his return he had an almost insatiable thirst for travel – off the beaten track – the more remote the better.
-
-...
-
-[Data](articles/d2fea074.json)
-
-[Extended Data](ext_articles/d2fea074.ext.json)
-
----
-
-### Earth slip falls down
-
-*2024-02-24 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193784) · `si`
-
-The accident had occurred in Annulawatta, Kandy today.
-
-The injured in the accident has been admitted to the Kandy General Hospital and his condition is reported.
-
-◼️
-
-[Data](articles/a51b64de.json)
-
-[Extended Data](ext_articles/a51b64de.ext.json)
 
 ---

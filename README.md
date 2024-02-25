@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 10:50:17**
+As of **2024-02-25 11:02:35**
 
 ## Newspaper Stats
 
-*Scraped **9,133** Articles*
+*Scraped **9,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 464
 dailyftlk | 483
 islandlk | 486
 adalk | 763
-adaderanalk | 1,100
-tamilmirrorlk | 1,119
+adaderanalk | 1,102
+tamilmirrorlk | 1,120
 virakesarilk | 1,242
 adaderanasinhalalk | 1,372
 dailymirrorlk | 1,376
@@ -26,11 +26,67 @@ dailymirrorlk | 1,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,133 (100.0%) of 9,133 articles have been extended.
+9,133 (100.0%) of 9,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### கடையை உடைத்த காதலன் கைது
+
+*2024-02-25 10:33:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடையை-உடைத்த-காதலன்-கைது/175-333756) · `ta`
+
+தனது காதலியுடன் விடுமுறையை கழிப்பதற்கு பதுளையில் இருந்து அம்பாறைக்கு வந்த இளைஞனொருவர் விடுதிக்கு செலுத்த பணம் இல்லாத காரணத்தினால் கடையொன்றில் 10,000 ரூபா பணத்தை திருடிச் சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+அம்பாறை பஸ் நிலையத்தில் யுவதியை இருக்குமாறு தெரிவித்து  நகரின் பிரபல மொத்த விற்பனை நிறுவனத்திற்குள் நுழைந்த குறித்த இளைஞன் பணத்தை திருடி சென்றுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அம்பாறை பொலிஸ் போக்குவரத்து பிரிவில் கடமையாற்றும் உத்தியோகத்தர் ஒருவருக்கு கிடைத்த தகவலின் அடிப்படையிலேயே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+மேலும், இளைஞனுடன் சென்ற யுவதியை பெற்றோரிடம்  ஒப்படைத்த பொலிஸார், சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/13f0d369.json)
+
+---
+
+### President orders probe into notification requiring Russian, Ukraine tourists to leave within 14 days
+
+*2024-02-25 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97514/president-orders-probe-into-notification-requiring-russian-ukraine-tourists-to-leave-within-14-days-) · `en`
+
+President Ranil Wickremesinghe has ordered an investigation into the notification issued to Russian and Ukrainian tourists, requiring them to leave the country within 14 days.
+
+According to the President’s Media Division (PMD), the relevant notification was issued by the Department of Immigration and Emigration without prior approval from the Cabinet of Ministers.
+
+As such, the Government of Sri Lanka has not officially decided to revoke the visa extensions previously granted to these tourists who have been staying in the country since the start of the Russia-Ukraine war, the PMD reported.
+
+The Department of Immigration and Emigration recently issued a notice, granting a period of 14 days from 23 February for all Russian and Ukrainian tourists residing long-term in Sri Lanka to leave the country.
+
+The department had stated that it would no longer keep extending tourist visas free of charge for Russians and Ukrainians who had started staying back in Sri Lanka two years ago, owing to the war.
+
+...
+
+[Data](articles/4c6ed595.json)
+
+---
+
+### Minister assures ETCA will not be disadvantageous to Sri Lanka
+
+*2024-02-25 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97513/minister-assures-etca-will-not-be-disadvantageous-to-sri-lanka) · `en`
+
+Foreign Affairs Minister Ali Sabry has assured that signing the Economic and Technology Cooperation Agreement (ETCA) with India will have no disadvantageous result to Sri Lanka.
+
+Accordingly, the Minister emphasised that trade agreements with the global market must be established if Sri Lanka’s economy is to be built and strengthened, and highlighted that the country’s economy cannot be further boosted in the absence of an export-based economy.
+
+India has expressed hopes for the early conclusion of the ETCA, which seeks to add to the existing free trade agreement with Sri Lanka, to pave the way to boost the island’s export potential.
+
+The 14th round of negotiations between Sri Lanka and India on the ETCA are scheduled to be held in New Delhi, in the first week of March 2024.
+
+◼️
+
+[Data](articles/5c8c00f1.json)
+
+---
 
 ### SriLankan clarifies flight delays
 
@@ -1997,77 +2053,5 @@ President Ranil Wickremesinghe and former President Gotabaya Rajapaksa graced th
 [Data](articles/7db4987b.json)
 
 [Extended Data](ext_articles/7db4987b.ext.json)
-
----
-
-### The fossil of a family of 240 million years is found
-
-*2024-02-24 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193766) · `si`
-
-Scientists have passed a complete fossil of a family like 240 million years old.
-
-In 2003, the fossil of the fossil was found in South China's old lime stone treasure.
-
-According to the research made by scientists, the entire fossil has been raised.
-
-Scientists say that the fossil was believed that the fossil is believed to have lived in the last century.
-
-It is assumed that the animal could be a dragon due to the extremely long neck of this creature.
-
-Dr. Nick Frazer, a member of the International Team who studied this fossil, said that the neck, its neck and tail, is more than the sum of both the body and tail.
-
-◼️
-
-[Data](articles/18158270.json)
-
-[Extended Data](ext_articles/18158270.ext.json)
-
----
-
-### Mahabage shooting: Feeling army soldier arrested over “Ukkuwa’s” murder
-
-*2024-02-24 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97498/mahabage-shooting-feeling-army-soldier-arrested-over-ukkuwas-murder) · `en`
-
-A Sri Lanka Army deserter has been arrested by the Army intelligence officers this morning (Feb.24), in connection with the shooting incident in Mahabage earlier this week.
-
-He is said to be one of the prime suspects wanted in the murder case.
-
-According to the Army, the arrestee, named Nuwan Chamara de Silva, was a Corporal attached to the 4th Battalion of the Gemunu Watch Regiment at the camp in Chenkalady, Batticaloa.
-
-He had fled the camp yesterday when the Army intelligence officers were approaching but was later taken into custody in the Ampara area following an extensive search operation.
-
-The suspect was later handed over to the Police Special Task Force (STF) officers for onward investigations.
-
-Three unidentified assailants had opened fire using a revolver, around 7:15 a.m. on Feb.21 near a meat shop in Elapitiwala Junction, Mahabage, leaving the shop owner dead. The victim had succumbed to injuries while being rushed to the Colombo North Teaching Hospital in Ragama.
-
-...
-
-[Data](articles/3dd5641a.json)
-
-[Extended Data](ext_articles/3dd5641a.ext.json)
-
----
-
-### Mahabage shooting: Fleeing  army soldier arrested over “Ukkuwa’s” murder
-
-*2024-02-24 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97498/mahabage-shooting-fleeing-army-soldier-arrested-over-ukkuwas-murder) · `en`
-
-A Sri Lanka Army deserter has been arrested by the Army intelligence officers this morning (Feb.24), in connection with the shooting incident in Mahabage earlier this week.
-
-He is said to be one of the prime suspects wanted in the murder case.
-
-According to the Army, the arrestee, named Nuwan Chamara de Silva, was a Corporal attached to the 4th Battalion of the Gemunu Watch Regiment at the camp in Chenkalady, Batticaloa.
-
-He had fled the camp yesterday when the Army intelligence officers were approaching but was later taken into custody in the Ampara area following an extensive search operation.
-
-The suspect was later handed over to the Police Special Task Force (STF) officers for onward investigations.
-
-Three unidentified assailants had opened fire using a revolver, around 7:15 a.m. on Feb.21 near a meat shop in Elapitiwala Junction, Mahabage, leaving the shop owner dead. The victim had succumbed to injuries while being rushed to the Colombo North Teaching Hospital in Ragama.
-
-...
-
-[Data](articles/62cb8f8f.json)
-
-[Extended Data](ext_articles/62cb8f8f.ext.json)
 
 ---

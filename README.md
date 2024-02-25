@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 06:18:07**
+As of **2024-02-25 06:56:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,092 (99.9%) of 9,105 articles have been extended.
+9,094 (99.9%) of 9,105 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Caricatures have always been endearing pieces of art which have commented on sop
 
 [Data](articles/7d2675f3.json)
 
+[Extended Data](ext_articles/7d2675f3.ext.json)
+
 ---
 
 ### KEY TO DEVELOPMENT IS COMMITTED AND ETHICAL LEADERSHIP
@@ -57,6 +59,8 @@ From Nomination Day, the candidates Prime Minister Ranasinghe Premadasa, Mrs. Si
 ...
 
 [Data](articles/39497d13.json)
+
+[Extended Data](ext_articles/39497d13.ext.json)
 
 ---
 

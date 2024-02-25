@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 20:17:19**
+As of **2024-02-25 20:32:45**
 
 ## Newspaper Stats
 
-*Scraped **9,210** Articles*
+*Scraped **9,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 483
 islandlk | 486
 adalk | 773
 adaderanalk | 1,113
-tamilmirrorlk | 1,133
+tamilmirrorlk | 1,135
 virakesarilk | 1,248
 dailymirrorlk | 1,386
 adaderanasinhalalk | 1,391
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,208 (100.0%) of 9,210 articles have been extended.
+9,210 (100.0%) of 9,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### சிறுமியை கடத்திய காதலனும், சிறிய தாயும் கைது
+
+*2024-02-25 19:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/சிறுமியை-கடத்திய-காதலனும்-சிறிய-தாயும்-கைது/73-333790) · `ta`
+
+மட்டக்களப்பு  - கொக்குவில் பொலிஸ் பிரிவில் 15 வயது சிறுமியை கடத்திச் சென்ற 18 வயது இளைஞன் மற்றும் அவரது சிறிய தாயார் உட்பட இருவரை நேற்று (24) இரவு வாகரையில் வைத்து கைது செய்துள்ளதுடன் சிறுமியை மீட்டு வைத்தியசாலையில் ஒப்படைத்துள்ளதாக கொக்குவில் பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பொலிஸ் பிரிவிலுள்ள சிறுமி கடந்த 7ஆம் திகதி பாடாலைக்கு சென்ற நிலையில் அவர் வீடு திரும்பாததை அடுத்து அவரது உறவினர்கள் பொலிஸாரிடம் முறைப்பாடு செய்தனர்.
+
+இதையடுத்து முன்னெடுக்கப்பட்ட விசாரணையில், சிறுமியை அவரது காதலன் வாகரைப் பிரதேசத்திலுள்ள அவனது சிறிய தாயாரின் வீட்டிற்கு கடத்திச் சென்று வைத்துள்ளதாக கண்டறிந்த பொலிஸார், வீட்டை சுற்றுவளைத்து முற்றுகையிட்டு சிறுமியை மீட்டதுடன் கடத்திய குற்றச்சாட்டின் பேரில் 18 வயதுடைய காதலன் மற்றும் சிறுமிக்கு இடம்கொடுத்த குற்றச்சாட்டில்  47 வயதுடைய சிறிய தாயார் ஆகிய இருவரையும் கைது செய்தனர்.
+
+...
+
+[Data](articles/eb4e63a5.json)
+
+---
 
 ### Russian Embassy responds to controversial ‘white only’ party
 
@@ -49,6 +65,24 @@ The Russian Embassy underscored Russia's firm condemnation of all forms of racia
 ...
 
 [Data](articles/7943233d.json)
+
+[Extended Data](ext_articles/7943233d.ext.json)
+
+---
+
+### மாணவர்களுக்கு ஜனாதிபதியின் மகிழ்ச்சியான செய்தி
+
+*2024-02-25 19:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-ஜனாதிபதியின்-மகிழ்ச்சியான-செய்தி/175-333789) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பேரில் பாடசாலை மாணவர்களின் கல்வி நடவடிக்கைகளுக்கு ஊக்குவிப்புகளை வழங்கும் நோக்கில் ஜனாதிபதி நிதியம் “ஜனாதிபதி கல்வி புலமைப்பரிசில் 2024/2025” திட்டம் ஒன்றை நடைமுறைப்படுத்த திட்டமிட்டுள்ளது.
+
+இதன்படி, மொத்தமாக இலங்கையில் உள்ள 10,126 பாடசாலைகளையும் உள்ளடக்கிய வகையில், தரம் 01 முதல் தரம் 11 வரை கல்வி கற்கும் ஒரு இலட்சம் (100,000) மாணவர்களுக்கு, வருடாந்தம் இந்த நிதியுதவித் திட்டத்தை நடைமுறைப்படுத்த திட்டமிடப்பட்டுள்ளதுடன், இந்த முழுமையான திட்டத்திற்கும் 3600 மில்லியன் ரூபாவை ஜனாதிபதி நிதியம் ஒதுக்கியுள்ளது.
+
+நாட்டின் தற்போதைய பொருளாதார நிலைமையை கருத்திற்கொண்டு, குறைந்த மற்றும் நடுத்தர வருமானம் பெறும் குடும்பங்களில் உள்ள மாணவர்கள் எதிர்நோக்கும் பாடசாலை உபகரணங்கள், பயிற்சி புத்தகங்களைப் பெற்றுக்கொள்ளல் மற்றும் போக்குவரத்து வசதிகளை ஏற்படுத்திக்கொள்ளல் போன்ற விடயங்களில் நிலவும் சிரமங்களுக்கு ஓரளவு நிவாரணம் வழங்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
+
+...
+
+[Data](articles/e8ad0b95.json)
 
 ---
 
@@ -587,6 +621,8 @@ This request, made in accordance with Section 80 (2) (b) of the Central Bank of 
 ...
 
 [Data](articles/2a1fce59.json)
+
+[Extended Data](ext_articles/2a1fce59.ext.json)
 
 ---
 
@@ -2077,41 +2113,5 @@ Ali Sabri said that the Ministry of Fisheries will engage in these talks and the
 [Data](articles/ccff1eb9.json)
 
 [Extended Data](ext_articles/ccff1eb9.ext.json)
-
----
-
-### .க .க .க .க .க .க. Executive Board of Executive Board for Women's Front
-
-*2024-02-25 04:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-க-மகளிர்-முன்னணிக்கான-நிர்வாக-சபை-தெரிவு-ஒத்திவைப்பு/175-333748) · `ta`
-
-The Sri Lanka Freedom Party (SLFP) Women's Front
-
-The Sri Lanka Freedom Party (SLFP) members met yesterday to elect a new executive council for the Sri Lanka Freedom Women's Front, which was dissolved two months ago.
-
-The meeting was chaired by former President Maithripala Sirisena.
-
-◼️
-
-[Data](articles/7fe3670a.json)
-
-[Extended Data](ext_articles/7fe3670a.ext.json)
-
----
-
-### Discussion with President
-
-*2024-02-25 04:33:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-சம்பிக்க-கலந்துரையாடல்/175-333747) · `ta`
-
-The UNP leader and parliamentarian Patali Champika Ranawaka met President Ranil Wickremesinghe yesterday.
-
-The United Republic of India (UNP) has stated that the meeting has been organized to discuss the policy announcement of the 'Nations' Action for the nation.
-
-Parliamentarian Patali Champika Ranawaka recently issued a policy declaration. (A)
-
-◼️
-
-[Data](articles/2343d74b.json)
-
-[Extended Data](ext_articles/2343d74b.ext.json)
 
 ---

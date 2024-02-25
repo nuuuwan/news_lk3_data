@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 10:17:25**
+As of **2024-02-25 10:33:03**
 
 ## Newspaper Stats
 
@@ -26,49 +26,57 @@ dailymirrorlk | 1,375
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,122 (99.9%) of 9,130 articles have been extended.
+9,130 (100.0%) of 9,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### செங்கடல் பகுதிக்கு இரகசியமாக கடற்படை கப்பலை  அனுப்பியது இலங்கை - மோர்னிங் தகவல்
+### Sri Lanka - Morning Information
 
 *2024-02-25 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177225) · `ta`
 
-செங்கடல் பகுதிக்கு ரோந்து நடவடிக்கைகளிற்காக மிகவும் இரகசியமாக அனுப்பப்பட்ட இலங்கை கடற்படையின் கப்பல் தனது கூட்டு ரோந்து நடவடிக்கைகளை பூர்த்திசெய்துகொண்டு இலங்கைக்கு திரும்புகின்றது என மோர்னிங் செய்தி வெளியிட்டுள்ளது.
+Morning reports that the Sri Lankan navy ship, which was very secretly sent to patrols to the Red Sea, is returning to Sri Lanka by completing its joint patrols.
 
-பப் எல் மன்டெப் நீரிணைக்கு இலங்கை கடற்படை கப்பல் அனுப்பப்பட்டதை கடற்படை பேச்சாளர் கயன் விக்கிரமசூர்யஉறுதி செய்துள்ளதுடன்  எந்த பிரச்சினைகளையும் எதிர்கொள்ளாமல் இலங்கை கடற்படை கப்பல் ரோந்துநடவடிக்கையை பூர்த்தி செய்துவிட்டு இலங்கை திரும்புகின்றது என தெரிவித்துள்ளார்.
+Navy spokesman Gayan Wickremasuriya has said that the Sri Lankan navy ship was shipped to the Publ Mantep Strait and said that Sri Lanka is returning to Sri Lanka after completing any problems.
 
-விடுதலைப்புலிகளுடனான யுத்தத்தின் பின்னர் இலங்கை கடற்படை முன்னெடுத்த ஆபத்தான இந்த நடவடிக்கையின் இரகசிய தன்மை காரணமாக கடற்படை மேலதிக தகவல்களை வெளியிடவில்லை என மோர்னிங் தெரிவித்துள்ளது.
+Morning said that the Navy did not publish further information due to the secret of the dangerous action launched by the Sri Lankan navy after the war with the Liberation Tigers.
 
-மீண்டும் எப்போது இலங்கை கடற்படை தனது கப்பலை அனுப்பும் என்பது குறித்து இலங்கை கடற்படை எதனையும் தெரிவிக்கவில்லை.
+The Sri Lankan navy has not informed any of the Sri Lankan navy again.
 
-இலங்கை கடற்படை தனது கப்பலை எப்போது அனுப்பியது கப்பல் எப்போது தனது ரோந்துநடவடிக்கைகளை பூர்த்தி செய்தது போன்ற விபரங்கள் இரகசியமானவையாக காணப்படுகின்றன என மோர்னிங் தெரிவித்துள்ளது.
+Morning said that the Sri Lankan navy sent its ship and when the ship completed its patrols.
 
 ◼️
 
 [Data](articles/7e252d25.json)
 
+[Extended Data](ext_articles/7e252d25.ext.json)
+
 ---
 
-### ‘Greek’விசாவில் வர்த்தக குடும்பம் சிக்கியது
+### Business family caught on a Greek number visa
 
 *2024-02-25 09:22:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Greek-விசாவில்-வர்த்தக-குடும்பம்-சிக்கியது/175-333752) · `ta`
 
-சுமார் ஒரு கோடியே 40 இலட்சம் ரூபாவை தரகருக்கு கொடுத்து, போலியான ஆவணங்க​ளை தயாரித்து, ‘Greek’விசாவை பயன்படுத்தி, ஐரோப்பிய நாடுக்கு தப்பியோடுவதற்கு வருகைதந்திருந்த நால்வர் அடங்கிய வர்த்தக குடும்பத்தைச் சேர்ந்த நால்வர், கட்டுநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து, கைது செய்யப்பட்டுள்ளார்.
+Four people from a four -year -old business family who have come to escape to the European country, who have been using the GREEK telephone visa, have been arrested at the Katunayake International Airport.
 
-சனிக்கிழமை (24) பிற்பகல் வேளையிலேயே இவர்கள் கைது செய்யப்பட்டுள்ளார் என்று கட்டுநாயக்க விமான நிலைய அதிகாரிகள் தெரிவித்தனர்.
+Katunayake airport officials said they were arrested in the afternoon (24) afternoon.
 
-நாத்தாண்டியவை வசிப்பிடமாகக் கொண்ட வாகன வர்த்தகத்தில் ஈடுபடும் வர்த்தகரான 43 வயதான நபர், அவருடைய மனைவி (வயது 47) மற்றும் 21, 16 வயதுகளைச் சேர்ந்த அவ்விருவரின் மகன்மார் ஆகியோரே கைது செய்யப்பட்டுள்ளனர்.
+The 43 -year -old man who is a businessman who is a resident of Nathanthiya, his wife (47 years old) and the sons of the 21 and 16 year olds have been arrested.
 
-ஐரோப்பிய நாடுகளில் உள்ள தூதரகங்களில் அதிக பணிச்சுமை இருப்பதால், அந்த நாடுகளுக்கு விசா வழங்குவது "குளோபல் விசா வசதி சேவை"( Global Visa Facilitation Service )  என்ற அமைப்பால் செய்யப்படுகிறது.
+Global Visa Facilitation Service (Global Visa Facilitation Service "is being issued by the Global Visa Facilitation Service.
 
-தரகர், இந்த தொழிலதிபரை இந்தியாவில் உள்ள இந்த நிறுவனத்தின் அலுவலகத்துக்கு அழைத்துச்சென்று வாக்குறுதி அளித்த பணத்தை கொடுத்து  இந்த விசாக்களை கொடுத்துள்ளார்.
+The broker has taken the businessman to the office of the company in India and gave these visas.
+
+The business family arrived at the Katunayake airport at 5 pm on Saturday (24) to board the Gulf Airlines GF-145 flight.
+
+At first, they planned to leave Bahrain and board another flight to Athens, Greece.
 
 ...
 
 [Data](articles/2a5a3511.json)
+
+[Extended Data](ext_articles/2a5a3511.ext.json)
 
 ---
 
@@ -124,6 +132,8 @@ The Ministry said there are only two leprosy patients in the hospital now. Durin
 
 [Data](articles/a77fc5b5.json)
 
+[Extended Data](ext_articles/a77fc5b5.ext.json)
+
 ---
 
 ### Youth killed in drowning
@@ -160,6 +170,8 @@ Addressing a political meeting, he said this amidst thundering applause by parti
 
 [Data](articles/e911772f.json)
 
+[Extended Data](ext_articles/e911772f.ext.json)
+
 ---
 
 ### SriLankan flights delayed as airport ground staff protest
@@ -176,23 +188,29 @@ The protest was allegedly initiated by airport workers demanding immediate solut
 
 [Data](articles/b9528606.json)
 
+[Extended Data](ext_articles/b9528606.ext.json)
+
 ---
 
-### නීත්‍යානුකූල නොවන ලෙස ඉඩම් භාවිත කර තිබෙනවානම් නීත්‍යානුකූල පියවර ගන්නවා
+### If the land is used as legal, legal action will be taken
 
 *2024-02-25 08:47:11* · [`adalk`](https://www.ada.lk/breaking_news/නීත්‍යානුකූල-නොවන-ලෙස-ඉඩම්-භාවිත-කර-තිබෙනවානම්-නීත්‍යානුකූල-පියවර-ගන්නවා/11-408256) · `si`
 
-යුද සමයෙන් පසු නැගෙනහිර පළාතේ ඉඩම් නීත්‍යානුකූල නොවන ආකාරයෙන් භාවිතා කර තිබේ නම් ඒ පිළිබඳව ඉඩම් අමාත්‍යවරයා සහ නීතිපතිවරයා සමඟ සාකච්ඡා කර විසඳුම් ලබාදීමට කඩිනම් පියවර ගන්නා බව අධිකරණ බන්ධනාගාර හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ  අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+Dr. Wijayadasa Reforms Minister Dr. Wijayadasa Rajapakse, Dr. Wijayadasa Rajapakse, Dr. Wijayadasa Rajapakse, Dr. Wijayadasa Rajapakse, Dr. Wijayadasa Rajapaksa said.
 
-නැගෙනහිර පළාතේ ඉඩම් සම්බන්ධයෙන් පවතින ගැටලු පිළිබඳව අධිකරණ ඇමැති ආචාර්ය විජයදාස රාජපක්ෂ මහතා සහ ප්‍රාදේශීය ලේකම්වරුන් සමඟ  ඊයේ (24දා) දින මඩකලපුව දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පැවති සාකච්ඡාවකදී ඇමතිවරයා මේ බව සඳහන් කළේය.
+The Minister made this observation at a discussion held at the District Secretar's Office on the issues regarding land in the Eastern Province yesterday (24).
 
-යුද සමයෙන් පසු නැගෙනහිර පළාතේ ඉඩම් නීත්‍යානුකූල නොවන ආකාරයෙන් භාවිතා කිරීම් ඇතුළු ජනතාවට පවතින ඉඩම් ගැටලු සම්බන්ධයෙන් නැගෙනහිර පළාතේ ප්‍රාදේශීය ලේකම්වරුන් සහ ඇමතිවරයා  අතර පැවති සාකච්ඡාවේදී ප්‍රාදේශීය ලේකම්වරුන් විසින් ඇමතිවරයාගේ අවධානයට යොමු කළ ඉඩම් ගැටලු  සම්බන්ධයෙන් පිළිතුරු ලබාදෙමින් ඇමතිවරයාම ඒ බව සඳහන් කළේය.
+The minister said that at a meeting of the land issues and the ministerial issues, including land issues and the ministerial issues, including the people of the Eastern Province after the war period, the public secretaries have been responding to the attention of the Minister.
 
-ඉඩම් සම්බන්ධයෙන් කටයුතු කිරීම සඳහා ප්‍රාදේශය ලේකම්වරුන්ට තිබෙන නීතිමය බලතල සහ හැකියාවන් පිළිබඳවද ඇමතිවරයා විසින් මෙහිදී ඔවුන්ගේ අවධානයට යොමු කරන ලදී.
+The Minister also paid attention to the legal powers and talents of the Divisional Secretaries to deal with land.
 
-...
+Anuradha Jayaratne, State Minister of Justice, Prison Hon.. N. Mr. Ranasinghe, Batticaloa District Secretary JJ. Mrs. Mrs. Mrs. Mrs. Eastern Divisional Secretaries were also present at the occasion.
+
+◼️
 
 [Data](articles/f6205e7f.json)
+
+[Extended Data](ext_articles/f6205e7f.ext.json)
 
 ---
 
@@ -510,23 +528,27 @@ Parliamentarian Patali Champika Ranawaka recently issued a policy declaration. (
 
 ---
 
-### පෘතුගීසීන් හැදූ, ලන්දේසීන් වැඩිදියුණු කළ, ඉංග්‍රීසීන් අල්ලාගත් උතුරේ බලකොටු
+### The forts in the north of the Portuguese, the Dutch enhanced and familiar with the English
 
 *2024-02-25 03:22:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c88nnn0zjg4o) · `si`
 
-යුරෝපීයයන් නැව්නැගී පෙරදිගට යාත්‍රා කර සිය බල පරාක්‍රමය ලොව පුරා පැතිර වූ ක්‍රියාදාමයේ ප්‍රතිඵලයක් ලෙසට ශ්‍රී ලංකාවටත් බටහිර ජාතීන්ගේ බලපෑමට යටත්වන්නට  සිදු විය.
+Europeans sailed to ships to ships, and the worldwide process was affected by the Western nations as a result of the worldwide process.
 
-පෘතුගීසි ජාතික ලොරෙන්සෝ ද අල්මේදා විසින් ශ්‍රී ලංකාවට ගොඩබැසීමෙන් පසුව පෘතුගීසීන් ශ්‍රී ලංකාවේ විවිධ ප්‍රදේශ අත්පත් කරගත් අතර, ඔවුන්ගේ බලය රැකගැනීම උදෙසා තීරණාත්මක මුහුදුබඩ ප්‍රදේශවල බලකොටු ගොඩනැගීමේ පුරෝගාමී කටයුත්ත ද සිදු කරන ලදි.
+After the Portuguese Lorenzo de Almeida, the Portuguese acquired various territories in Sri Lanka, and the fortified task of building the fortifications of decisive coastal areas to protect their power.
 
-පෘතුගීසි පාලනයෙන් හෙම්බත්ව සිටි ලක් වැසියන් "ඉඟුරු දී මිරිස් ගත්තා සේ" පෘතුගීසීන් පලවා හැරීමට ලන්දේසීන්ගේ සහය ලබා ගැනීමෙන් පසුව ලන්දේසීන් එම බලකොටු අත්පත් කර ගත් අතර වත්මනේ අප දකින බොහෝ බලකොටුවල නටඹුන් ලන්දේසීන් විසින් වැඩිදියුණු කරන ලදුව 1796 දී ඉංග්‍රීසීන් විසින් අත්පත් කරගත් ඒවා යි.
+The Dutch acquired the forts of the Dutch to optimize the Portuguese to optimize the Portuguese, as the Dutch were acquired, and the Dutch of the Dutch we see in the many forties, and the Dutch of the Dutch we see have been enhanced in 1796.
 
-මිලියනයක් ඉක්මවා ගිය සංචාරකයින්ට අවශ්‍ය පහසුකම් දෙන්න ශ්‍රී ලංකාවට හැකිද?
+Can Sri Lanka provide the necessary facilities to tourists over one million?
 
-සියවසකටත් වඩා වැඩි කාලයක් මුහුදුබඩ ප්‍රදේශ අත්පත් කරගෙන සිටි ලන්දේසීන්, ලන්දේසි පෙරදිග ඉන්දීය වෙළඳ සමාගම (VOC) හරහා පවත්වාගෙන ගිය බලකොටු සිය ඉතාලි ආභාසය සහිත ගෘහ නිර්මාණශිල්පයන් සහිතව සුන්දර ලෙස ඉදි කර තිබේ.
+The forts carried out by the Dutch Eighty Indian Trade Company (VOC) occupied in the coastal area for more than a century have been beautifully built with his Italian influence.
+
+They did not forget to maintain several important forts of security for security of the Northern Province, which is an important milestone in naval traffic.
 
 ...
 
 [Data](articles/51a0af25.json)
+
+[Extended Data](ext_articles/51a0af25.ext.json)
 
 ---
 
@@ -616,19 +638,25 @@ The deceased, named Hettiarachchige Don Sujith alias “Ukkuwa”, was the broth
 
 ---
 
-### පාඨලී ජනපති හමුවෙයි
+### Patali meet President
 
 *2024-02-24 22:28:52* · [`adalk`](https://www.ada.lk/picture_story/පාඨලී-ජනපති-හමුවෙයි/10-408255) · `si`
 
-“දේශය වෙනුවෙන් එක් වන පියවරක්” මැයෙන් එක්සත් ජනරජ පෙරමුණ විසින් පසුගියදා රටට ඉදිරිපත් කළ යෝජනාවලිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගැන්වීම කොළඹ සිරිකොත එක්සත් ජාතික පක්ෂ මූලස්ථානයේ දී අද (24) පෙරවරුවේ සිදු විය.
+The UNP presented the proposal to the country was presented to the country to the country by the United States's proposal by the United States's proposal to the country recently.
 
-එක්සත් ජනරජ පෙරමුණේ නායක පාර්ලිමේන්තු මන්ත්‍රී පාඨලි චම්පික රණවක මහතා ඇතුළු නියෝජිත කණ්ඩායම ජනාධිපතිවරයා හමුවී සාකච්ඡාවක නිරත වීමෙන් අනතුරුව අදාළ යෝජනාවලිය ජනාධිපතිවරයා වෙත පිළිගැන්වීය.
+The proposal was presented to the President of the United Kingdom of the UPFA MP Champika Ranawaka.
 
-මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ රටේ බිඳවැටුණු ආර්ථිකය යළි ස්ථාවර කර ගැනීමට පසුගිය දෙවසරක කාලය තුළ රජය මහත් පරිශ්‍රමයකින් කටයුතු කළ බවයි. ප්‍රතිසංස්කරණමය තීන්දු තීරණ සමඟ රටේ ආර්ථිකය නිවැරදි මාවතට ගෙන ඒමට රජය මේ වන විට කටයුතු කර තිබෙන බව පෙන්වා දුන් ජනාධිපතිවරයා සියලු දෙනාගේ සහාය ඇතිව එය ඉදිරියට ක්‍රියාත්මක කිරීම තම අරමුණ බවද පැවසීය.
+President Ranil Wickremesinghe said that the government was prevented in the past two years to restore the country's collapse economy. The President pointed out that the government has taken the country's economy to the right road with the rehabilitation decision, he is his aim to implement it.
+
+The President whom he was always commemorating to all political parties to join the country without a political division, the President said he would not hesitate to join all other political parties and to join the country building program.
+
+Parliamentarian Patali Champika Ranawaka responded to other political parties to participate in other political parties next month with the International Monetary Fund for foreign debts.
 
 ...
 
 [Data](articles/cfc06b0d.json)
+
+[Extended Data](ext_articles/cfc06b0d.ext.json)
 
 ---
 

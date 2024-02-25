@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 04:17:29**
+As of **2024-02-26 04:33:01**
 
 ## Newspaper Stats
 
@@ -26,29 +26,33 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,246 (100.0%) of 9,247 articles have been extended.
+9,247 (100.0%) of 9,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### பொதுத் தேர்தலை முதலில் நடத்துவதே மொட்டுவின் தெரிவு வியூகத்துடன் மார்ச்சில் வருகிறார் பஷில்: உதயங்க வீரதுங்க தெரிவிப்பு
+### Bashil: Udayanga Weeratunga
 
 *2024-02-26 03:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177287) · `ta`
 
-பொதுத்தேர்தலை முதலில் நடத்துவதையே பொதுஜனபெரமுனவின் பெரும்பாலான அங்கத்தவர்களின் நிலைப்பாடாகவுள்ளதாகத் தெரிவித்துள்ள ரஷ்யாவுக்கான முன்னாள் தூதுவரும், ராஜபக்ஷக்களின் சகோதரருமான உதயங்க வீரதுங்க, அதற்கான வியூகத்துடன் பஷில் ராஜபக்ஷ மார்ச் மாதத்தில் நாடு திரும்பவுள்ளார் என்றும் குறிப்பிட்டுள்ளார்.
+Udayanga Weeratunga, a former Ambassador to Russia and Rajapaksa's brother, said that the general election was the first to hold the general election, and said that Basil Rajapaksa would return to the country in March with a strategy.
 
-பொதுஜனபெரமுன மற்றும் பஷில் ராஜபக்ஷவின் அடுத்தகட்டச் செயற்பாடுகள் சம்பந்தமாக கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+He said this while commenting on Rajapakse's next activities of PA.
 
-பொதுஜனபெரமுனவினை ஸ்தாபித்து கடந்த காலத்தில் நாட்டில் நடத்தப்பட்ட அனைத்து தேர்தல்களிலும் பெருவெற்றிபெறச் செய்ததில் பஷில் ராஜபக்ஷவின் புத்திசாதுரியம் மிகவும் முக்கியமானது.
+Basil Rajapaksa's intelligence is very important in the establishment of the PA and the majority of the elections in the country in the past.
 
-அந்த வகையில், அவர் நாட்டிலிருந்து வெளியேறியபோது, நாமல் ராஜபக்ஷவிடத்தில் கட்சிப்பணிகளை ஒப்படைத்துவிட்டுச் சென்றிருந்தார்.
+In that respect, when he left the country, Namal had handed over party work in Rajapaksa.
 
-கட்சிக்கும், கிராமங்களில் உள்ள சாதாரண பொதுமக்களுக்கும் இடையிலான பிணைப்பினை வலுவாக வைத்துக்கொள்வதற்குரிய நடவடிக்களை தொடர்ச்சியாக முன்னெடுப்பதோடு அவர்களின் கோரிக்கைகள், பிரச்சினைகள் சம்பந்தமாக கவனம் செலுத்துவது தான் நாமல் ராஜபக்ஷவின் பிரதான பணியாக இருந்தது.
+The main task of Namal Rajapaksa was to continue to take steps to keep the bond between the party and the ordinary civilians in the villages and focus on their demands and issues.
+
+In this case, Basil Rajapaksa will return to the country in mid -March. He returns to the country, not for Ranil Wickremesinghe again in the presidential seat.
 
 ...
 
 [Data](articles/5dc20636.json)
+
+[Extended Data](ext_articles/5dc20636.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 20:02:30**
+As of **2024-02-25 20:17:19**
 
 ## Newspaper Stats
 
-*Scraped **9,208** Articles*
+*Scraped **9,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 773
 adaderanalk | 1,113
 tamilmirrorlk | 1,133
 virakesarilk | 1,248
-dailymirrorlk | 1,384
+dailymirrorlk | 1,386
 adaderanasinhalalk | 1,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,208 (100.0%) of 9,208 articles have been extended.
+9,208 (100.0%) of 9,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### Russian Embassy responds to controversial ‘white only’ party
+
+*2024-02-25 19:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-Embassy-responds-to-controversial-white-only-party/108-277675) · `en`
+
+The Russian Embassy in Colombo expressed serious concern over the recent controversial night party planned in Unawatuna on February 24, 2024, which was subsequently called off following public outcry.
+
+In a statement, the Embassy said the event, which was organized by entrepreneurs in Unawatuna, was to be held with a "dress-code: white."
+
+“While unconfirmed reports suggest that the main promoter and the owners of the bar agreeing to host the party are Russian citizens, it is essential to clarify that the event's cancellation was due to the ambiguous conditions of entry and the resulting confusion among the public,” it stated.
+
+“The organizers have presented their apologies, acknowledging that there was no intention to cause harm or offense to anyone,” the statement added.
+
+The Russian Embassy underscored Russia's firm condemnation of all forms of racial discrimination and nationalism. The Embassy reaffirms its commitment to combatting such atrocities.
+
+...
+
+[Data](articles/7943233d.json)
+
+---
 
 ### The story that Jayasuriya was laughing about the controversial skills
 
@@ -549,6 +569,24 @@ Countries that support terrorism will be carried out by local authorities who ar
 [Data](articles/3fc2425a.json)
 
 [Extended Data](ext_articles/3fc2425a.ext.json)
+
+---
+
+### Central Bank of Sri Lanka clarifies reports on salary hike
+
+*2024-02-25 13:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-of-Sri-Lanka-clarifies-reports-on-salary-hike/155-277673) · `en`
+
+Colombo, Feb 25 -  The Central Bank of Sri Lanka (CBSL) has responded to recent media reports surrounding comments made by Members of Parliament regarding the latest revision of remuneration for CBSL employees.
+
+In a statement released today, the CBSL emphasized its commitment to transparency and accountability in its operations.
+
+The Governing Board of the CBSL, at a meeting held on 21.02.2024, directed the Governor to formally request an opportunity to address Members of Parliament through an appropriate parliamentary committee.
+
+This request, made in accordance with Section 80 (2) (b) of the Central Bank of Sri Lanka Act No. 16 of 2023, aims to provide clarity on the process and rationale behind the recent remuneration revision, which was approved under the triennial Collective Agreement with Trade Unions covering the period 2024-2026.
+
+...
+
+[Data](articles/2a1fce59.json)
 
 ---
 
@@ -2075,45 +2113,5 @@ Parliamentarian Patali Champika Ranawaka recently issued a policy declaration. (
 [Data](articles/2343d74b.json)
 
 [Extended Data](ext_articles/2343d74b.ext.json)
-
----
-
-### The forts in the north of the Portuguese, the Dutch enhanced and familiar with the English
-
-*2024-02-25 03:22:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c88nnn0zjg4o) · `si`
-
-Europeans sailed to ships to ships, and the worldwide process was affected by the Western nations as a result of the worldwide process.
-
-After the Portuguese Lorenzo de Almeida, the Portuguese acquired various territories in Sri Lanka, and the fortified task of building the fortifications of decisive coastal areas to protect their power.
-
-The Dutch acquired the forts of the Dutch to optimize the Portuguese to optimize the Portuguese, as the Dutch were acquired, and the Dutch of the Dutch we see in the many forties, and the Dutch of the Dutch we see have been enhanced in 1796.
-
-Can Sri Lanka provide the necessary facilities to tourists over one million?
-
-The forts carried out by the Dutch Eighty Indian Trade Company (VOC) occupied in the coastal area for more than a century have been beautifully built with his Italian influence.
-
-They did not forget to maintain several important forts of security for security of the Northern Province, which is an important milestone in naval traffic.
-
-...
-
-[Data](articles/51a0af25.json)
-
-[Extended Data](ext_articles/51a0af25.ext.json)
-
----
-
-### Colombo’s most popular caricaturist in a bygone era
-
-*2024-02-25 03:18:00* · [`islandlk`](http://island.lk/colombos-most-popular-caricaturist-in-a-bygone-era/) · `en`
-
-With the passing of time, Lorenz did not have the time he would like to dedicate to the arts as before. The demand on his time in other fields such as in law and politics necessitated him to mainly if not totally focus on those aspects. However, his pencil and sketchbook never left his side. When inspiration struck him, out came a fine caricature. It has been over 150 years since his death and most of his once famous caricatures have been lost. A few have been reproduced as plates in some important publications over the last 100 years and preserved for posterity.
-
-Caricatures have always been endearing pieces of art which have commented on sophisticated matters. In the dynasty of Lankan caricature artists such as J. L. K. van Dort, Bevis Bawa, Aubrey Collette, W. R. Wijesoma and Gihan de Chickera, C.A. Lorenz can be safely positioned as the ‘pioneer’.
-
-...
-
-[Data](articles/7d2675f3.json)
-
-[Extended Data](ext_articles/7d2675f3.ext.json)
 
 ---

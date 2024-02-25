@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 11:02:35**
+As of **2024-02-25 11:17:27**
 
 ## Newspaper Stats
 
-*Scraped **9,136** Articles*
+*Scraped **9,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,84 @@ adalk | 763
 adaderanalk | 1,102
 tamilmirrorlk | 1,120
 virakesarilk | 1,242
-adaderanasinhalalk | 1,372
-dailymirrorlk | 1,376
+adaderanasinhalalk | 1,374
+dailymirrorlk | 1,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,133 (100.0%) of 9,136 articles have been extended.
+9,136 (100.0%) of 9,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### கடையை உடைத்த காதலன் கைது
+### President orders probe into directive for Russian, Ukrainian tourists to depart
+
+*2024-02-25 10:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-orders-probe-into-directive-for-Russian-Ukrainian-tourists-to-depart/108-277668) · `en`
+
+Colombo, Feb 25 ( Daily Mirror) - President Ranil Wickremesinghe has ordered an investigation into the notification issued to Russian and Ukrainian tourists, without prior Cabinet approval, requiring them to leave the country within 14 days.
+
+The President's Media Division said that the Sri Lankan government has not officially decided to revoke the visa extensions previously granted to these tourists.
+
+◼️
+
+[Data](articles/5321e3f1.json)
+
+---
+
+### ජනපතිගෙන් විශේෂ නියෝගයක්
+
+*2024-02-25 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193799) · `si`
+
+මෙරට රැඳී සිටින රුසියානු සහ යුක්‍රේන සංචාරකයින් දින 14ක් ඇතුළත රටින් පිට විය යුතු බවට කැබිනට් අනුමැතියකින් තොර ව කර ඇති දැනුම්දීම සම්බන්ධයෙන් පරීක්ෂණයක් පවත්වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නියෝග කර තිබේ.
+
+රුසියානු සහ යුක්‍රේන සංචාරකයන් සඳහා මීට පෙර ලබා දී ඇති වීසා දීර්ඝ කිරීම් අවලංගු කිරීමට ශ්‍රී ලංකා රජය නිල වශයෙන් තීරණය කර නොමැති බව ද ජනාධිපති මාධ්‍ය අංශය නිකුත් කළ නිවේදනයේ සඳහන් වේ.
+
+◼️
+
+[Data](articles/ada282a5.json)
+
+---
+
+### Arrested lover who broke the shop
 
 *2024-02-25 10:33:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடையை-உடைத்த-காதலன்-கைது/175-333756) · `ta`
 
-தனது காதலியுடன் விடுமுறையை கழிப்பதற்கு பதுளையில் இருந்து அம்பாறைக்கு வந்த இளைஞனொருவர் விடுதிக்கு செலுத்த பணம் இல்லாத காரணத்தினால் கடையொன்றில் 10,000 ரூபா பணத்தை திருடிச் சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say a youth who came to Ampara from Badulla to spend the holiday with his girlfriend had stolen 10,000 rupees in a shop as there was no money to pay for the hostel.
 
-அம்பாறை பஸ் நிலையத்தில் யுவதியை இருக்குமாறு தெரிவித்து  நகரின் பிரபல மொத்த விற்பனை நிறுவனத்திற்குள் நுழைந்த குறித்த இளைஞன் பணத்தை திருடி சென்றுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+It is reported that the young man who entered the city's popular wholesale company has stolen money at the Ampara bus station.
 
-அம்பாறை பொலிஸ் போக்குவரத்து பிரிவில் கடமையாற்றும் உத்தியோகத்தர் ஒருவருக்கு கிடைத்த தகவலின் அடிப்படையிலேயே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+The suspect has been arrested on the basis of information received by an officer working in the Ampara Police Transport Division.
 
-மேலும், இளைஞனுடன் சென்ற யுவதியை பெற்றோரிடம்  ஒப்படைத்த பொலிஸார், சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளதாக தெரிவித்துள்ளனர்.
+In addition, the police handed over the girl who went with the young man to their parents and said the suspect would be produced in court.
 
 ◼️
 
 [Data](articles/13f0d369.json)
+
+[Extended Data](ext_articles/13f0d369.ext.json)
+
+---
+
+### ශ්‍රීලන්කන් සමාව ඉල්ලයි
+
+*2024-02-25 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193798) · `si`
+
+අද (25) දින සිදු වූ ගුවන් ගමන් ප්‍රමාදය පිළිබඳ ශ්‍රීලන්කන් ගුවන් සේවය මාධ්‍ය නිවේදනයක් නිකුත් කර තිබේ.
+
+එම ප්‍රමාදයන්, තාවකාලික සහ සැලසුම් නොකළ මෙහෙයුම් තත්ත්වයක් නිසා සිදු වූවක් බව ශ්‍රීලන්කන් ගුවන් සේවය සඳහන් කර ඇත.
+
+එය කිසිදු ආකාරයක වෘත්තීය සමිති ක්‍රියාමාර්ගයක් නිසා සිදු වූවක් නොවන බව ද එම සමාගම දක්වා තිබේ.
+
+එසේම, ප්‍රමාදයන් නිසා ඇති වූ අපහසුතාව පිළිබඳ ශ්‍රීලන්කන් ගුවන් සමාගම සියලු මඟීන්ගෙන් සමාව අයදින බව ද මාධ්‍ය නිවේදනයේ සඳහන් කර ඇත.
+
+නැවත එවැනි තත්ත්වයක් ඇති වීම වළක්වා ගැනීම සඳහා ශ්‍රී ලන්කන් ගුවන් සේවය කටයුතු කරන බව ද දක්වා තිබේ.
+
+◼️
+
+[Data](articles/a3649495.json)
 
 ---
 
@@ -68,6 +118,24 @@ The department had stated that it would no longer keep extending tourist visas f
 
 [Data](articles/4c6ed595.json)
 
+[Extended Data](ext_articles/4c6ed595.ext.json)
+
+---
+
+### Police arrest Chinese woman over Rs. 8.4 million fraud
+
+*2024-02-25 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-arrest-Chinese-woman-over-Rs-8-4-million-fraud/108-277667) · `en`
+
+Colombo, Feb 25 (Daily Mirror) - A Chinese woman was arrested in connection with a fraud exceeding Rs. 8.4 million, Police said.
+
+The woman was arrested in Kollupitiya on Saturday following investigations into a complaint received by the Colombo Fraud Investigation Bureau on January 31. The complaint alleged that the woman had obtained the money for business ventures and had failed to return it.
+
+The arrested woman, a 52-year-old Chinese national, is currently under investigation by the Colombo Fraud Investigation Bureau.
+
+◼️
+
+[Data](articles/5971edfa.json)
+
 ---
 
 ### Minister assures ETCA will not be disadvantageous to Sri Lanka
@@ -85,6 +153,8 @@ The 14th round of negotiations between Sri Lanka and India on the ETCA are sched
 ◼️
 
 [Data](articles/5c8c00f1.json)
+
+[Extended Data](ext_articles/5c8c00f1.ext.json)
 
 ---
 
@@ -1985,73 +2055,5 @@ Investigations are being carried out by the Negombo Excise Office.
 [Data](articles/4af45b3d.json)
 
 [Extended Data](ext_articles/4af45b3d.ext.json)
-
----
-
-### Enrollment to Grade One
-
-*2024-02-24 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Enrollment-to-Grade-One/110-277648) · `en`
-
-An official ceremony was held recently at the Samudradevi Girls' College, Nugegoda for the admission of new children to Grade One for the year 2024. Principal N.P. Sureka Siriwardena, Sri Jayawardenepura Region Education Deputy Director Methsila Ratnayake, Nugegoda Regional Director of Education Dhammi Sujeevani Kodikaraarachchi and officials from the Regional Education Office, teachers, parents and students participated in the event.
-
-◼️
-
-[Data](articles/9bccc31c.json)
-
-[Extended Data](ext_articles/9bccc31c.ext.json)
-
----
-
-### Sun Disease behind the Sivanolipada mountain: The beautiful view captured from the lotus tower
-
-*2024-02-24 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177191) · `ta`
-
-A photographer has taken a very realistic scene from the Lotus Tower of Colombo to the Sivanolipada hill.
-
-This beautiful moment was taken by a photographer named Lakshmanan Nataraja on Friday (23).
-
-◼️
-
-[Data](articles/9a3bf5a0.json)
-
-[Extended Data](ext_articles/9a3bf5a0.ext.json)
-
----
-
-### Police promise a protestor against a dead body
-
-*2024-02-24 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193767) · `si`
-
-A 46-year-old man in the Wellawaya - Colombo main road was placed on the Wellawaya - Colombo main road, which was murdered two days ago.
-
-The police accused the police that he failed to implement the law against the people involved in the murder.
-
-The group protest against the up to 8 pm and there was a warm quality between the protesters and the police.
-
-With the protesters, the police, they were taken away from the police, that the protesters were implemented expedited to the party responsible for the party responsible for the party.
-
-However, the houses of two persons suspected of murder have set on fire last night.
-
-Police said that investigations are conducting investigations into the suspects of the murder as well as the dead.
-
-◼️
-
-[Data](articles/f3af4e47.json)
-
-[Extended Data](ext_articles/f3af4e47.ext.json)
-
----
-
-### Annual Navam Perahera commences
-
-*2024-02-24 13:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Annual-Navam-Perahera-commences/110-277650) · `en`
-
-President Ranil Wickremesinghe and former President Gotabaya Rajapaksa graced the first day of the Gangarama Navam Perahara in Colombo along with several other dignitaries last night. Traditional drummers, dancers and whip-crackers added colour to the Perahera. Pic by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/7db4987b.json)
-
-[Extended Data](ext_articles/7db4987b.ext.json)
 
 ---

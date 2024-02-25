@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 11:51:42**
+As of **2024-02-25 12:02:42**
 
 ## Newspaper Stats
 
-*Scraped **9,146** Articles*
+*Scraped **9,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 483
 islandlk | 486
 adalk | 764
 adaderanalk | 1,102
-tamilmirrorlk | 1,123
+tamilmirrorlk | 1,124
 virakesarilk | 1,244
 adaderanasinhalalk | 1,374
 dailymirrorlk | 1,378
@@ -26,25 +26,27 @@ dailymirrorlk | 1,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,143 (100.0%) of 9,146 articles have been extended.
+9,147 (100.0%) of 9,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### மகனின் கோடரி தாக்குதலில் தந்தை பலி
+### Father killed in son's ax attack
 
 *2024-02-25 11:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனின்-கோடரி-தாக்குதலில்-தந்தை-பலி/175-333760) · `ta`
 
-மகனின் கோடரி தாக்குதில், தந்தை மரணமடைந்த சம்பவம், காலி பிடிகல களுஆராச்சிகொட பகுதியில் சனிக்கிழமை (24)  இடம்பெற்றுள்ளது என பிடிகல பொலிஸார் தெரிவித்துள்ளனர்.
+The death of his father in the son's ax attack took place on Saturday (24) in the Galle Pitigala Kalu Arachikoda area, Bidigala police said.
 
-உயிரிழந்தவர் பிட்டிகல களுஆராச்சிகொட பகுதியைச் சேர்ந்த இரண்டு பிள்ளைகளின் தந்தையான பியதாச ஜயசிங்க வயது(73) என்பவர் என தெரிவிக்கப்பட்டுள்ளது.
+The deceased is Piyadasa Jayasinghe age (73), father of two children from Pitigala Kalu Arachigoda.
 
-மேலும், தாக்குதலை மேற்கொண்ட மகனை நீதிமன்றில் ஆஜரப்படுத்தவுள்ளதாக (24) கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The police said that the son was arrested in court (24).
 
 ◼️
 
 [Data](articles/481833f1.json)
+
+[Extended Data](ext_articles/481833f1.ext.json)
 
 ---
 
@@ -70,6 +72,24 @@ Meanwhile, the President has not announced that the Terrorism Act will be delaye
 
 ---
 
+### The smallest washing machine in the world
+
+*2024-02-25 10:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகின்-மிகச்சிறிய-வாஷிங்-மெஷின்/175-333758) · `ta`
+
+Sai Thirumalanidhi from Andhra Pradesh has set a new Guinness record by creating the world's smallest washing machine. The related video is going viral on the Internet.
+
+In the video shared on Instagram, Sai Thirumalanthi has the process of creating a small washing machine. With very sophisticated care, he coordinates the washing machine using small parts including switch and a small pipe. It begins to function fully.
+
+Then pours water in it. Then there is a small cloth with a laundry scenes. It gives the sight to clean that when the cloth is taken out in a while. This video, which is viral on the Internet, has received over 70 lakh views. Many users who have heard this are commenting on Sai Tirumalanidhi.
+
+◼️
+
+[Data](articles/65fc1ca4.json)
+
+[Extended Data](ext_articles/65fc1ca4.ext.json)
+
+---
+
 ### President orders probe into directive for Russian, Ukrainian tourists to depart
 
 *2024-02-25 10:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-orders-probe-into-directive-for-Russian-Ukrainian-tourists-to-depart/108-277668) · `en`
@@ -86,19 +106,25 @@ The President's Media Division said that the Sri Lankan government has not offic
 
 ---
 
-### தூசண வார்த்தையால் வேலை நிறுத்தம்: விமான பயணிகள் பாதிப்பு
+### Strike with dust word: air passenger impact
 
 *2024-02-25 10:42:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூசண-வார்த்தையால்-வேலை-நிறுத்தம்-விமான-பயணிகள்-பாதிப்பு/175-333757) · `ta`
 
-ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானங்கள் அடிக்கடி தாமதம் மற்றும் இரத்துச் செய்யப்படுவதால், கட்டுநாயக்க விமான நிலையத்திற்கு வரும் பயணிகளின் தூசண வார்த்தை பிரயோகங்களை சகித்துக்கொள்ள முடியாமல் ஸ்ரீலங்கன் எயார்லைன்ஸ் ஊழியர்கள் ஞாயிற்றுக்கிழமை (25) காலை உடனடி வேலை நிறுத்தத்தில் ஈடுபட்டனர் என  ஸ்ரீலங்கன் எயார்லைன்ஸ் நிறுவனத்தின் ஸ்ரீலங்கா சுதந்திர சேவைகள் சங்கத்தின் தலைவர் ஜனக்க விஜயபத்திரண  தெரிவித்தார்.
+SriLankan Airlines 'Sri Lanka Freedom Services Association President Janaka Vijayapatrana said that the SriLankan Airlines' staff went on an immediate strike on Sunday morning (25) that the SriLankan Airlines flights were often delayed and canceled.
 
-“அதிக எடையுடன் வண்டியை ஏற்றினால், மாடு வண்டியை இழுக்க முடியாமல் மாடு இறந்துவிடும்” என்பது போன்ற நிலை உள்ளது என்றார்.
+He said, "If the car is loaded with overweight, the cow will die without being able to pull the cart."
 
-ஸ்ரீலங்கன் எயார்லைன்ஸ் நிறுவனத்தில் பாரியளவு பணியாளர்கள் பற்றாக்குறை நிலவுவதாகவும், தற்போது அனுபவமுள்ள முதிர்ச்சியடைந்த பெருமளவிலான பணியாளர்கள் நாட்டை விட்டு வெளியேறி வேறு வெளிநாட்டு விமான நிறுவனங்களில் இணைந்துள்ளதாகவும் அவர் மேலும் தெரிவித்தார்.
+He added that there is a shortage of employees at Sri Lanka Airlines, and that there is a shortage of employees who have now matured and left the country and joined other foreign airlines.
+
+As a solution to these issues, Janaka Vijayapatrana said that his union is urgently requesting the union to prepare the new airlines to suit Sri Lanka's Airlines -owned airlines, recruiting employees of experience and maturity.. He said the aircraft could prevent the cancellation and delay.
+
+The situation of SriLankan Airlines will adversely affect SriLankan Airlines and the country's pride and reputation, said Janaka Vijayapatiratne.
 
 ...
 
 [Data](articles/f0f2b921.json)
+
+[Extended Data](ext_articles/f0f2b921.ext.json)
 
 ---
 
@@ -160,21 +186,23 @@ In addition, the police handed over the girl who went with the young man to thei
 
 ---
 
-### கடையை உடைத்த காதலன் கைது: கவலையுடன் காதலி
+### Lover arrested for breaking shop: girlfriend with worrying
 
 *2024-02-25 10:33:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடையை-உடைத்த-காதலன்-கைது-கவலையுடன்-காதலி/175-333756) · `ta`
 
-தனது காதலியுடன் விடுமுறையை கழிப்பதற்கு பதுளையில் இருந்து அம்பாறைக்கு வந்த இளைஞனொருவர் விடுதிக்கு செலுத்த பணம் இல்லாத காரணத்தினால் கடையொன்றில் 10,000 ரூபாய் பணத்தை திருடிச் சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say a youth who came to Amparai from Badulla to spend the holidays with his girlfriend had stolen Rs 10,000 in a shop as there was no money to pay for the hostel.
 
-அம்பாறை பஸ் நிலையத்தில் யுவதியை இருக்குமாறு தெரிவித்து  நகரின் பிரபல மொத்த விற்பனை நிறுவனத்திற்குள் நுழைந்த குறித்த இளைஞன் பணத்தை திருடி சென்றுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+It is reported that the young man who entered the city's popular wholesale company has stolen money at the Ampara bus station.
 
-அம்பாறை பொலிஸ் போக்குவரத்து பிரிவில் கடமையாற்றும் உத்தியோகத்தர் ஒருவருக்கு கிடைத்த தகவலின் அடிப்படையிலேயே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+The suspect has been arrested on the basis of information received by an officer working in the Ampara Police Transport Division.
 
-மேலும், இளைஞனுடன் சென்ற யுவதியை பெற்றோரிடம்  ஒப்படைத்த பொலிஸார், சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளதாக தெரிவித்துள்ளனர்.
+In addition, the police handed over the girl who went with the young man to their parents and said the suspect would be produced in court.
 
 ◼️
 
 [Data](articles/d57bb46d.json)
+
+[Extended Data](ext_articles/d57bb46d.ext.json)
 
 ---
 
@@ -2017,23 +2045,5 @@ He has also been advised to create a mechanism for providing new connections on 
 [Data](articles/a05dfea7.json)
 
 [Extended Data](ext_articles/a05dfea7.ext.json)
-
----
-
-### Decision on electricity tariff
-
-*2024-02-24 14:03:33* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-ගැන-තීරණය-28-දා/11-408253) · `si`
-
-The Public Utilities Commission of Sri Lanka is scheduled to meet on the 28th of this month.
-
-The final decision is due to be taken regarding the proposal for the revision of the electricity tariff.
-
-The Ceylon Electricity Board has already proposed to reduce the increased electricity tariffs in October last year.
-
-◼️
-
-[Data](articles/1bd43cb9.json)
-
-[Extended Data](ext_articles/1bd43cb9.ext.json)
 
 ---

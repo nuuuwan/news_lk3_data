@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 21:17:36**
+As of **2024-02-25 21:33:09**
 
 ## Newspaper Stats
 
-*Scraped **9,215** Articles*
+*Scraped **9,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 economynextcom | 465
 dailyftlk | 483
 islandlk | 486
-adalk | 773
+adalk | 775
 adaderanalk | 1,114
 tamilmirrorlk | 1,135
-virakesarilk | 1,248
+virakesarilk | 1,250
 dailymirrorlk | 1,387
-adaderanasinhalalk | 1,391
+adaderanasinhalalk | 1,392
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,214 (100.0%) of 9,215 articles have been extended.
+9,215 (99.9%) of 9,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### දියණියගේ මරණය ගැන පියාගෙන් රිජ්වේ රෝහලට චෝදනාවක්
+
+*2024-02-25 20:52:07* · [`adalk`](https://www.ada.lk/breaking_news/දියණියගේ-මරණය-ගැන-පියාගෙන්-රිජ්වේ-රෝහලට-චෝදනාවක්/11-408269) · `si`
+
+හෘදය වස්තුවේ සිදුරක සැත්කමක් සඳහා සඳහා  කොළඹ  රිජ්වේ  ආර්යා ළමා රෝහල වෙත ඇතුලත් කල තම දියණිය මියගියේ රෝහල් කාර්ය මණ්ඩලයේ වරදින් බව ඇයගේ පියා වන උපුල් ප්‍රියන්ත මහතා පවසයි.
+
+මෙලෙස මියගොස් තිබුනේ පන්නිපිටිය පැලැන්වත්ත  හොරණ පාර පදිංචිව සිටි ආස්නා සෙනදි නමැති වයස අවුරුදු 3 යි මාස 3 ක් වයසැති  සිඟිත්තියකි.
+
+ඇය යසාරා රන්මිණි 29 හා උපුල් ප්‍රියන්ත 33 යන යුවළගේ දෙටු දියණියයි.
+
+පියා පවසන්නේ තම දියණියගේ සෙම්ප්‍රතිශ්‍යාව  රෝගී තත්ත්වයට වෛද්‍යවරුන් නිසි ප්‍රතිකාර නොකිරීම හේතුවෙන්  තම දියණිය ට නිව් මෝනියා රෝගය වැළඳුන බවයි.
+
+ඉකුත්  ජනවාරි 8 වෙනි දින රිජ්වේ ආර්යා ළමා රෝල වෙත ඇතුළත් කර තිබූ තම දියණියට අංක 20 ඒ වාට්ටුවේ ප්‍රතිකාර ලැබූ බවත්  රෝහ‍ලේදී කැස්ස සහ හෙම්බිරිස්සාව සෑදුණු නමුත් නිසි ප්‍රතිකාරයක් ලබා නුදුන් බවත් රෝහල් කාර්ය මණ්ඩලය එය ගණන් නොගත් බවත් දරුවාගේ පියා පවසයි.
+
+...
+
+[Data](articles/53b6a23f.json)
+
+---
+
+### ජම්පටාවීදියේ වෙඩිතැබීම ගැන තොරතුරු එළියට
+
+*2024-02-25 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193817) · `si`
+
+කොළඹ ජම්පටාවීදිය පොලිස් මුරපොළ ආසන්නයේ දහවල් සිදකළ වෙඩිතැබීමේ සිද්ධිය ගැන තවත් තොරතුරු කිහිපයක් මේ වනවිට අනාවරණය වී තිබේ.
+
+මෙලෙස වෙඩි ප්‍රහාරයට ලක්ව තිබුණේ 55 හැවිරිදි මොහොමඩ් රිල්වාන් නමැති පුද්ගලයෙකි.
+
+මේ වනවිට අනාවරණය වී ඇත්තේ වෙඩිවැදුණු තැනැත්තා ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වන පූකුඩුකන්නාගේ සමීපතයෙකු බවටය.
+
+කලක පටන් පූකුඩුකන්නා සහ කුඩු සෙල්විගේ පුතාවන රිමෝෂන් නැමැත්තා අතර පැවති ආරවුලක ප්‍රතිඵලයක් ලෙස මෙම වෙඩිතැබීම සිදුකර ඇති බවට පොලීසිය සැකපළ කරයි.
+
+ජම්පටාවීදිය පොලිස් මුරපොළ ආසන්නයේ නිව්හැම් චතුරස්‍රයේදී අද (25) දහවල් 1.45ට පමණ එම වෙඩි තැබීම සිදුකර තිබුණි.
+
+එහිදී තුවාල ලැබූ රිල්වාන් නමැති එම පුද්ගලයා කොළඹ ජාතික රෝහලට ඇතුළත් කෙරිණි.
+
+යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු කුකුළු මස් වෙළෙඳසැලක් අසළට පැමිණ මෙම වෙඩි තැබීම සිදුකර පළායන අයුරු අසළ තිබූ සීසීටීවී කැමරාවක සටහන්ව ඇත.
+
+◼️
+
+[Data](articles/cc491689.json)
+
+---
 
 ### Hunger strike launched in TN against arrest of fishermen by Sri Lankan Navy
 
@@ -49,6 +93,22 @@ The fishermen association leaders said that they will continue with the strike e
 [Data](articles/6a3c3b93.json)
 
 [Extended Data](ext_articles/6a3c3b93.ext.json)
+
+---
+
+### ரணில் பொது வேட்பாளராக பொது சின்னத்திலேயே போட்டி
+
+*2024-02-25 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177278) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க நிச்சயமாக  அடுத்த ஜனாதிபதி தேர்தலில் போட்டியிடுவார். ஆனால் ஜனாதிபதி ஐக்கிய தேசிய கட்சியில் போட்டியிட மாட்டார். அவர் கட்சி பேதமற்ற பொது வேட்பாளராக சின்னத்தில் களமிறங்குவார் என்று ஐக்கிய தேசிய கட்சியின் முக்கியஸ்தரும் முன்னாள் நிதி அமைச்சருமான ரவி கருணாநாயக்க தெரிவித்தார்.
+
+சமகால அரசியல் விவகாரங்கள், ஜனாதிபதி தேர்தல், பொருளாதார மீட்சி நடவடிக்கைகள், இனப்பிரச்சனைக்கான அரசியல் தீர்வு விவகாரம்,  ஐக்கிய தேசிய கட்சி கடந்த 2020 ஆம் ஆண்டு பாராளுமன்ற தேர்தலில் தோல்வியடைந்தமை உள்ளிட்ட பல்வேறு விடைகள் தொடர்பாக அவர் இந்த செவ்வியின் போது பதிலளித்தார்.
+
+முக்கியமாக அடுத்த ஜனாதிபதி தேர்தலில் சகல கட்சிகளையும் இணைத்துக்கொண்டு பொது சின்னத்தில் ரணில் களமிறங்குவார் என்றும் அவர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/a293924e.json)
 
 ---
 
@@ -131,6 +191,20 @@ President Ranil Wickremesinghe's expectation is to provide continuous school edu
 [Data](articles/e8ad0b95.json)
 
 [Extended Data](ext_articles/e8ad0b95.ext.json)
+
+---
+
+### வறட்சியான காலநிலைக்கு பொதுமக்களால் மட்டுமே தீர்வுகளை வழங்க முடியுமாம்!
+
+*2024-02-25 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/177277) · `ta`
+
+காலநிலை மாற்றத்தினால் ஏற்படும் வறட்சியான காலநிலைக்கு பொதுமக்களால் மட்டுமே தீர்வுகளை வழங்க முடியும் சுட்டிக் காட்டப்பட்டுள்ளது.
+
+ஒருவர் வருடத்துக்கு ஒருவர் ஒரு மரக்கன்றையாவது நட்டினால் எதிர்காலத்தில் இவ்வாறான நிலைமைகளைத் தவிர்க்க முடியும் என ரிட்ஜ்வே சிறுவர் வைத்தியசாலையின் குழந்தைகள் நல நிபுணர் டாக்டர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/fba36a50.json)
 
 ---
 
@@ -394,6 +468,26 @@ According to the Presidential Media Unit, the selection process of selecting the
 
 ---
 
+### ජම්පටා වීදියේ වෙඩි තැබීමකින් පුද්ගලයෙක් තුවාල ලබයි
+
+*2024-02-25 15:58:36* · [`adalk`](https://www.ada.lk/breaking_news/ජම්පටා-වීදියේ-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-තුවාල-ලබයි/11-408266) · `si`
+
+ජම්පටා වීදිය නිව්හැම් චතුරස්‍රය ප්‍රදේශයේ කුකුල් මස් අලෙවි සැලක හිමිකරුවකු ඉලක්ක කරගෙන සිදුකළ වෙඩි ප්‍රහාරයකින් එම පුද්ගලයා තුවාල ලබා රෝහල් ගත කළ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව  මහතා පැවසීය.
+
+වෙඩි ප්‍රහාරයෙන් තුවාල ලබා ඇත්තේ මොහොමඩ් රිල්වාන් නමැති 57 හැවිරිදි පුද්ගලයෙකි.
+
+වෙඩි ප්‍රහාරය එල්ල වූ පුද්ගලයා වෙළඳ සැල තුළ පුටුවක අසුන්ගෙන සිටියදී යතුරුපැදියකින් පැමිණ තිබූ පුද්ගලයන් දෙදෙනෙකු ගෙන් අයකු ඔහු අසලටම පැමිණ රිවොල්වර  වර්ගයේ ගිනි අවියකින් වෙඩි ප්‍රහාර තුනක් එල්ල කර ඇති අතර එයින් එක් වෙඩි ප්‍රහාරයක් එම පුද්ගලයාගේ උරහිස ප්‍රදේශයට වැදී ඇති බව මාධ්‍ය ප්‍රකාශකවරයා කීය.
+
+වෙඩි වැදුණු පුද්ගලයා  සංවිධානාත්මක අපරාධ කල්ලි නායකයකු වන පූකුඩු කන්නාගේ සමීපතම ඥාතියකු ඔහු මස් වෙළඳසැල පවත්වාගෙන  යන ගොඩනැගිල්ලද පූකුඩු කන්නාට අයත් එකක් බවටද තොරතුරු ලැබී ඇතැයි පොලිසිය කියයි.
+
+මෙම වෙඩි ප්‍රහාරය එල්ල කර ඇත්තේ ඝාතනයට ලක් වූ කුඩු සෙල්වි නැමැත්තියගේ  පුතෙකු වන රිමෝශන් නැමැත්තාගේ මෙහෙයවීම  මත බවට තොරතුරු ලැබී ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+...
+
+[Data](articles/d91f89de.json)
+
+---
+
 ### Plans to connect Hambantota port with Myanmar Harbor
 
 *2024-02-25 15:54:27* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-වරාය-මියන්මාර-වරාය-සමඟ-සම්බන්ධ-කිරීමට-සැලසුම්/11-408265) · `si`
@@ -519,6 +613,8 @@ As the brutal Gazan genocide is being continually livestreamed into our living r
 ...
 
 [Data](articles/944e3294.json)
+
+[Extended Data](ext_articles/944e3294.ext.json)
 
 ---
 
@@ -2007,97 +2103,5 @@ The public is kindly requested to take adequate precautions to minimize damages 
 [Data](articles/d47448b4.json)
 
 [Extended Data](ext_articles/d47448b4.ext.json)
-
----
-
-### Four SriLankan Airlines flights delayed
-
-*2024-02-25 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97510/four-srilankan-airlines-flights-delayed) · `en`
-
-Four SriLankan Airlines flights have been delayed at the Katunayake Airport so far this morning (25) as ground staff have refrained from performing some of their duties, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/5533e2bf.json)
-
-[Extended Data](ext_articles/5533e2bf.ext.json)
-
----
-
-### Ali Sabri says Etka agreement
-
-*2024-02-25 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193791) · `si`
-
-Foreign Minister Ali Sabri says Sri Lanka does not have any disadvantage through the signing of the Etka Agreement with India.
-
-He stated that if it is to build the economy of the country, he should be established to establish trade agreements.
-
-Ali Sabri has said that the economy of the country cannot increase without export-based economy.
-
-◼️
-
-[Data](articles/7aac44a5.json)
-
-[Extended Data](ext_articles/7aac44a5.ext.json)
-
----
-
-### New news about new news about the United Front
-
-*2024-02-25 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193790) · `si`
-
-According to internal sources, the appointment of the new Officers of the United Front will be appointed this week.
-
-Previously, the new office council had been appointed by the new office of the former President Maithripala Sirisena.
-
-However, the former President has spent more than a week, but the appointment of the new Officers have not yet taken place.
-
-Accordingly, the new Officership Board will probably be appointed in the coming week.
-
-The Leadership Leaders Leading the United Front Leader is to be appointed as the Secretary General and the Secretary General.
-
-The Sri Lanka Freedom Party (SLFP) had decided to contest the coming general election.
-
-They decided to compete under the UPFA mark under the United People's Freedom Alliance (UPFA).
-
-◼️
-
-[Data](articles/c056aa37.json)
-
-[Extended Data](ext_articles/c056aa37.ext.json)
-
----
-
-### Four flights delay
-
-*2024-02-25 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193789) · `si`
-
-Four aircrafts belonging to SriLankan Airlines have been delayed from this morning (25).
-
-The delay has taken place due to the guard of land staff (Ground STAFF).
-
-◼️
-
-[Data](articles/3a7b9904.json)
-
-[Extended Data](ext_articles/3a7b9904.ext.json)
-
----
-
-### Special reforms of education
-
-*2024-02-25 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193788) · `si`
-
-Minister of Education Susil Premajayantha says that the digital pilot project is scheduled to commence education from March.
-
-He stated that teachers training will be conducted simultaneously.
-
-Minister of Education Susil Premajayantha made this statement participating at the opening of the new technology faculty of the Thawalama Vidyarama National School.
-
-◼️
-
-[Data](articles/9259e165.json)
-
-[Extended Data](ext_articles/9259e165.ext.json)
 
 ---

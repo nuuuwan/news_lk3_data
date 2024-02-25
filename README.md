@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 21:02:51**
+As of **2024-02-25 21:17:36**
 
 ## Newspaper Stats
 
-*Scraped **9,214** Articles*
+*Scraped **9,215** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 93
+colombotelegraphcom | 94
 bbccomsinhala | 111
 dbsjeyarajcom | 165
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,214 (100.0%) of 9,214 articles have been extended.
+9,214 (100.0%) of 9,215 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -507,6 +507,18 @@ Additionally, the embassy urged all Russian citizens visiting or residing in Sri
 [Data](articles/898866e0.json)
 
 [Extended Data](ext_articles/898866e0.ext.json)
+
+---
+
+### Gazan Fire Fuelled By Western Genocide Enablers With A Scrambled Moral Compass!
+
+*2024-02-25 15:12:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/gazan-fire-fuelled-by-western-genocide-enablers-with-a-scrambled-moral-compass/) · `en`
+
+As the brutal Gazan genocide is being continually livestreamed into our living rooms, two social media posts which addresses the failing humanity should engage our attention. “When you need to have hundreds of protests just to tell the world that bombing innocent civilians and children is not OK, that is when you know that humanity has failed”. Then, “Gaza today has become the moral compass of the world. Gaza was hell before October 7 and the world was silent. Should we be surprised at their silence now. If you are not appalled by what is happening in Gaza, if you are not shaken to your core, there is something wrong with your humanity”.
+
+...
+
+[Data](articles/944e3294.json)
 
 ---
 
@@ -2087,39 +2099,5 @@ Minister of Education Susil Premajayantha made this statement participating at t
 [Data](articles/9259e165.json)
 
 [Extended Data](ext_articles/9259e165.ext.json)
-
----
-
-### Four murder in four areas
-
-*2024-02-25 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193787) · `si`
-
-Four murders have been reported from several parts of the island, police said.
-
-The son has assaulted his father's head into the head of his father in Pitigala Police Division.
-
-The deceased has been identified as Kaluarachchi - Pitigala area in Pitigala.
-
-The suspect is a mental illness and the 47-year-old suspect has been arrested by the police.
-
-The suspect had been admitted to the Angoda Mental Hospital.
-
-Meanwhile, a sharp object has been attacked with a sharp object in the Narandeniya area in Kamburupitiya.
-
-The deceased has been living at home with the mother, and in the absence of the mother, and had a dispute with a neighborhood.
-
-The police suspect that the other person was hit with a sharp object and had been killed.
-
-The deceased has been identified as a 57 year old resident of the East of Narandeniya and Kamburupitiya.
-
-The suspect in connection with the murder Kamburupitiya Police are conducting further investigations.
-
-Meanwhile, the son has been murdered in Kattigala - Thunkama area.
-
-...
-
-[Data](articles/ec8e9eb0.json)
-
-[Extended Data](ext_articles/ec8e9eb0.ext.json)
 
 ---

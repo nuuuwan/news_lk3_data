@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 08:03:20**
+As of **2024-02-25 08:17:30**
 
 ## Newspaper Stats
 
-*Scraped **9,107** Articles*
+*Scraped **9,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 464
 dailyftlk | 483
 islandlk | 486
 adalk | 761
-adaderanalk | 1,097
+adaderanalk | 1,098
 tamilmirrorlk | 1,115
 virakesarilk | 1,241
 adaderanasinhalalk | 1,362
@@ -26,11 +26,23 @@ dailymirrorlk | 1,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,107 (100.0%) of 9,107 articles have been extended.
+9,107 (100.0%) of 9,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### Four SriLankan Airlines flights delayed
+
+*2024-02-25 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97510/four-srilankan-airlines-flights-delayed) · `en`
+
+Four SriLankan Airlines flights have been delayed so far this morning (25) as ground staff have refrained from performing some of their duties, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/5533e2bf.json)
+
+---
 
 ### Four murder in four areas
 
@@ -2073,25 +2085,5 @@ Acting on a request from Santhan, the Sri Lankan Deputy High Commission earlier 
 [Data](articles/ca3c10be.json)
 
 [Extended Data](ext_articles/ca3c10be.ext.json)
-
----
-
-### Senior US official discusses Sri Lanka’s IMF program in Colombo
-
-*2024-02-24 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97491/senior-us-official-discusses-sri-lankas-imf-program-in-colombo) · `en`
-
-Senior U.S. diplomat Richard Verma on Friday met Sri Lankan President Ranil Wickremesinghe and Foreign Minister Ali Sabry in Colombo, and discussed Sri Lanka’s economic recovery and progress on its IMF program, the U.S. State Department said.
-
-The South Asian island nation finalised a $2.9 billion bailout, from the International Monetary Fund in March 2023, which helped temper skyrocketing inflation, improved state revenue and boosted foreign exchange reserves.
-
-The country defaulted on its overseas debt in May 2022 after a severe shortage of foreign exchange reserves triggered the worst financial crisis since independence from Britain in 1948.
-
-Sri Lanka has since made progress on about $11 billion of bilateral debt restructuring and hopes to have agreements in place with all key creditors, including bondholders, by May at the latest, Sabry told Reuters earlier this month.
-
-...
-
-[Data](articles/abd78319.json)
-
-[Extended Data](ext_articles/abd78319.ext.json)
 
 ---

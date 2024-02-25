@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 15:02:29**
+As of **2024-02-25 15:17:27**
 
 ## Newspaper Stats
 
-*Scraped **9,179** Articles*
+*Scraped **9,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ economynextcom | 465
 dailyftlk | 483
 islandlk | 486
 adalk | 769
-adaderanalk | 1,108
+adaderanalk | 1,109
 tamilmirrorlk | 1,129
 virakesarilk | 1,246
 adaderanasinhalalk | 1,381
-dailymirrorlk | 1,381
+dailymirrorlk | 1,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,178 (100.0%) of 9,179 articles have been extended.
+9,179 (100.0%) of 9,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### Shooting at Jampettah Street leaves one injured
+
+*2024-02-25 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97521/shooting-at-jampettah-street-leaves-one-injured-) · `en`
+
+One person was reportedly left injured following a shooting incident at Jampettah Street in Colombo 13.
+
+According to police, the injured individual was immediately rushed to hospital where he is presently receiving treatment.
+
+◼️
+
+[Data](articles/e9a9da60.json)
+
+---
+
+### Cabinet receives recommendations to address salary anomalies in state universities
+
+*2024-02-25 14:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-receives-recommendations-to-address-salary-anomalies-in-state-universities/108-277674) · `en`
+
+Recommendations were presented to the Cabinet to resolve the salary anomalies of the non-academic staff in state universities, the Education Ministry said.
+
+They said a joint decision was announced following a discussion held with the unions of university non-academic staff, Higher Education Ministry officials and Treasury officials.
+
+Colombo, Feb 25 (Daily Mirror) - They decided to resolve the salary disparity to provide 92% instead of the salary disparity that existed since 2016, which was 107% for the non-academic staff of state universities.
+
+Accordingly, the Ministry expects to take a policy decision on the Cabinet Memorandum, and the Ministry will act accordingly after receiving the relevant Cabinet decisions in the near future.
+
+◼️
+
+[Data](articles/9b88c8c2.json)
+
+---
 
 ### Trump wins South Carolina, easily beating Haley in her home state and closing in on GOP nomination
 
@@ -45,6 +77,26 @@ A 2020 rematch between Trump and President Joe Biden is becoming increasingly in
 ...
 
 [Data](articles/0d83dbd5.json)
+
+[Extended Data](ext_articles/0d83dbd5.ext.json)
+
+---
+
+### Central Bank of Sri Lanka clarifies reports on salary hike
+
+*2024-02-25 13:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-of-Sri-Lanka-clarifies-reports-on-salary-hike/108-277673) · `en`
+
+Colombo, Feb 25 -  The Central Bank of Sri Lanka (CBSL) has responded to recent media reports surrounding comments made by Members of Parliament regarding the latest revision of remuneration for CBSL employees.
+
+In a statement released today, the CBSL emphasized its commitment to transparency and accountability in its operations.
+
+The Governing Board of the CBSL, at a meeting held on 21.02.2024, directed the Governor to formally request an opportunity to address Members of Parliament through an appropriate parliamentary committee.
+
+This request, made in accordance with Section 80 (2) (b) of the Central Bank of Sri Lanka Act No. 16 of 2023, aims to provide clarity on the process and rationale behind the recent remuneration revision, which was approved under the triennial Collective Agreement with Trade Unions covering the period 2024-2026.
+
+...
+
+[Data](articles/ebf5e01a.json)
 
 ---
 
@@ -2035,65 +2087,5 @@ The incident occurred after the end of the match, when Hasaranga confronted umpi
 [Data](articles/8dcce7bd.json)
 
 [Extended Data](ext_articles/8dcce7bd.ext.json)
-
----
-
-### SEC and CSE hosts Investor Forum in Vavuniya
-
-*2024-02-24 19:44:00* · [`islandlk`](http://island.lk/sec-and-cse-hosts-investor-forum-in-vavuniya/) · `en`
-
-The Securities and Exchange Commission of Sri Lanka (SEC) in collaboration with the Colombo Stock Exchange (CSE) conducted their first Investor Forum for this year in Vavuniya on Feb. 17 with an event designed to raise awareness of stock market opportunities, investor education and investor protection, a CSE news release said.
-
-The event attracted over 130 participants, which included both existing and potential investors, providing valuable insights, the release said.
-
-Mr. Shanmukananthan Sabananthan, the Branch Manager of the CSE Jaffna, delivered a basic introduction to investing at CSE, including the process of investing as well as the pros and cons of Stock Market investment. A session to create awareness on the CSE Mobile App was conducted by Mr. Nathuram Sivarajah from the Colombo Stock Exchange.
-
-Furthermore, an analysis on the Sectoral Performance & Market Opportunities was presented by Mr. Arumainayagam Visaahan, Research Analyst, Asha Securities Ltd.
-
-...
-
-[Data](articles/26a915ae.json)
-
-[Extended Data](ext_articles/26a915ae.ext.json)
-
----
-
-### CBSL officials summoned by parliamentary committees over 70% salary hike?
-
-*2024-02-24 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97505/cbsl-officials-summoned-by-parliamentary-committees-over-70-salary-hike) · `en`
-
-Several parliamentary committees have decided to summon Central Bank officials to inquire into the legal basis of the substantial salary hike granted to its employees.
-
-Recent media reports revealed that the Central Bank had increased the salaries of its employees by 70% and the move was heavily criticized by both parliamentarians of both the ruling party and the opposition.
-
-In light of the situation that stirred much controversy in the country, Central Bank officials have reportedly been summoned by several parliamentary committees.
-
-Chief Opposition Whip, MP Lakshman Kiriella also recently requested Speaker of Parliament Mahinda Yapa Abeywardena to call the Central Bank officials to the parliament to question them about the matter.
-
-◼️
-
-[Data](articles/09ec286f.json)
-
-[Extended Data](ext_articles/09ec286f.ext.json)
-
----
-
-### CBSL officials summoned by parliamentary committees over salary hike?
-
-*2024-02-24 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97505/cbsl-officials-summoned-by-parliamentary-committees-over-salary-hike) · `en`
-
-Several parliamentary committees have decided to summon Central Bank officials to inquire into the legal basis of the substantial salary hike granted to its employees.
-
-Recent media reports revealed that the Central Bank had increased the salaries of its employees by 70% and the move was heavily criticized by both parliamentarians of both the ruling party and the opposition.
-
-In light of the situation that stirred much controversy in the country, Central Bank officials have reportedly been summoned by several parliamentary committees.
-
-Chief Opposition Whip, MP Lakshman Kiriella also recently requested Speaker of Parliament Mahinda Yapa Abeywardena to call the Central Bank officials to the parliament to question them about the matter.
-
-◼️
-
-[Data](articles/d42fe2b4.json)
-
-[Extended Data](ext_articles/d42fe2b4.ext.json)
 
 ---

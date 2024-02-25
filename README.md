@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 13:17:36**
+As of **2024-02-25 13:32:51**
 
 ## Newspaper Stats
 
-*Scraped **9,166** Articles*
+*Scraped **9,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 465
 dailyftlk | 483
 islandlk | 486
 adalk | 767
-adaderanalk | 1,105
+adaderanalk | 1,106
 tamilmirrorlk | 1,128
 virakesarilk | 1,246
 adaderanasinhalalk | 1,376
@@ -26,11 +26,31 @@ dailymirrorlk | 1,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,164 (100.0%) of 9,166 articles have been extended.
+9,166 (100.0%) of 9,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### Thorough investigation to be conducted on notice sent to Russian, Ukraine tourists – Public Security Ministry
+
+*2024-02-25 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97518/thorough-investigation-to-be-conducted-on-notice-sent-to-russian-ukraine-tourists-public-security-ministry) · `en`
+
+The Ministry of Public Security has asserted that Government of Sri Lanka has not made any decision thus far pertaining to Russian and Ukrainian tourists despite recent reports, adding that the matter will be thoroughly investigated.
+
+Accordingly, a thorough investigation is to be carried out into the recent notification issued to Russian and Ukrainian tourists by the Department of Immigration and Emigration, requiring them to leave the country within 14 days.
+
+Meanwhile, earlier today (25 Feb.), President Ranil Wickremesinghe had also ordered an investigation into the matter.
+
+According to the President’s Media Division (PMD), the relevant notice had been issued without approval from the Cabinet of Ministers.
+
+The Department of Immigration and Emigration recently issued a notice, granting a period of 14 days from 23 February for all Russian and Ukrainian tourists residing long-term in Sri Lanka to leave the country.
+
+...
+
+[Data](articles/fe358655.json)
+
+---
 
 ### Trio therapy
 
@@ -88,21 +108,23 @@ As such, further investigations are being carried out by the Colombo Fraud Inves
 
 ---
 
-### නිවසක් ළඟට පැමිණි අඩි 10ක කිඹුලෙක් අල්ලයි
+### 10 feet crocodile arrested for house nearby
 
 *2024-02-25 12:29:29* · [`adalk`](https://www.ada.lk/breaking_news/නිවසක්-ළඟට-පැමිණි-අඩි-10ක-කිඹුලෙක්-අල්ලයි/11-408261) · `si`
 
-රාත්‍රි කාලයේ නිවසක්් ආසන්නයට  පැමිණි අඩි දහයක් පමණ දිගැති  විශාල කිඔුලෙකු ,මීගලෑව වනජීවි නිලධාරීන් විසින්   පොල්පිතිගම රක්වාන  ප්‍රදේශයේ දී  අල්ලා ගත් බව මීගලෑව වනජීවි කාර්යාලය පවසයි.
+The Meegalewa Wandivovid office said that a large Kituwe and Meegalewa Wildlife Officers near the house near the house at night.
 
-මෙම හැල කිඹුලා  ගම් වැදී ඇති බවට එම ප්‍රදේශයෙන් කල දැනුම්  දීමක් අනුව ප්‍රදේශවාසීන්ගේද  සහය  ඇතිව වනජීවි නිලධාරීන්  විසින් කිඹුලා අල්ලා ගත් බවද මීගලෑව වනජීවි කාර්යාලය තවදුරටත් සඳහන් කළේය.
+The Meemena Wildlife Office further stated that the crocodiles were captured by wildlife officials with the assistance of the area.
 
-අඩි දහයක් පමණ දිගින් යුතු මෙම හැල කිඹුලා සතුන් දඩයම් කිරීම සඳහා මෙලෙස ගම්වදින්නට ඇති බවට සැක කෙරෙන බවද  මීගලෑව වනජීවි කාර්යාලය වැඩිදුරටත් සඳහන් කළේය.
+The Meemena Wildlife Office is suspected to be distributed to hunting these crocodiles for ten feet.
 
-මෙම වීශාල හැල කිඹුලා  රැගෙන ගොස් විල්පත්තු ජාතික වනෝද්‍යානයට මුදා  හරින බවද මීගලෑව වනජීවි  කාර්යාලය වැඩිදුරටත් සඳහන් කළේය.ි
+The shop is taken to the Wilpattu National Park and released to the Wilpattu National Park.
 
 ◼️
 
 [Data](articles/f32e3847.json)
+
+[Extended Data](ext_articles/f32e3847.ext.json)
 
 ---
 
@@ -1338,6 +1360,8 @@ This in turn has led to an unprecedented situation where  two members of the ITA
 
 [Data](articles/751698bc.json)
 
+[Extended Data](ext_articles/751698bc.ext.json)
+
 ---
 
 ### 2024-02-24 (Saturday)
@@ -2031,27 +2055,5 @@ A big crowd gathered at Hyde Park, Colombo today as Sugeeshwara Bandara made his
 [Data](articles/d078855c.json)
 
 [Extended Data](ext_articles/d078855c.ext.json)
-
----
-
-### Central Bank officials summoned to parliament?
-
-*2024-02-24 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193776) · `si`
-
-The officers of the Central Bank have decided to call to Parliament.
-
-It is reported that the sum of the Central Bank employees has been questioned about the incident that they have increased by 70 percent.
-
-The Central Bank officials had increased their salary recently.
-
-The incident was a great controversy in the country and the opposition MPs questioned even in Parliament.
-
-The Chief Organizer of the Opposition Lakshman Kiriella summarized the Speaker to call on the MP and questioned in parliament.
-
-◼️
-
-[Data](articles/36d0bff4.json)
-
-[Extended Data](ext_articles/36d0bff4.ext.json)
 
 ---

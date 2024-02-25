@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 12:49:55**
+As of **2024-02-25 13:02:31**
 
 ## Newspaper Stats
 
-*Scraped **9,154** Articles*
+*Scraped **9,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,114 @@ newsfirstlk | 363
 economynextcom | 465
 dailyftlk | 483
 islandlk | 486
-adalk | 764
-adaderanalk | 1,103
-tamilmirrorlk | 1,126
-virakesarilk | 1,245
+adalk | 766
+adaderanalk | 1,105
+tamilmirrorlk | 1,128
+virakesarilk | 1,246
 adaderanasinhalalk | 1,376
-dailymirrorlk | 1,378
+dailymirrorlk | 1,381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,154 (100.0%) of 9,154 articles have been extended.
+9,154 (99.9%) of 9,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### காட்டுப்பன்றி தாக்கி மூவர் சிகிச்சை
+
+*2024-02-25 12:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டுப்பன்றி-தாக்கி-மூவர்-சிகிச்சை/175-333767) · `ta`
+
+மீரிகம விஜய ரஜதஹன வீட்டுத் தொகுதிக்குள் புகுந்த காட்டுப்பன்றியின் தாக்குதலுக்கு இலக்காகி வீதியில் நடந்து சென்ற பெண் உட்பட மூவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+மேலும், காயமடைந்த ஒருவர் மீரிகம ஆதார வைத்தியசாலையிலும் மற்றைய இருவர் வத்துபிட்டிவல ஆதார வைத்தியசாலையிலும் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/b64b8a70.json)
+
+---
+
+### T.M. Dilshan gains Australian citizenship
+
+*2024-02-25 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/T-M-Dilshan-gains-Australian-citizenship/108-277671) · `en`
+
+Australia, Feb 25 (Daily Mirror) - Former Sri Lankan cricketer Tillakaratne Dilshan has obtained Australian citizenship following a citizenship ceremony, Australian MP Jason Wood said.
+
+"Dilshan is regarded as the best Sri Lankan player in run-chases in ODI history. He also holds the record for being the top run scorer in the 2011 ICC Cricket World Cup with 500 runs and scored a century against England in the semi-final. Additionally, he was part of the Sri Lankan team that won the 2014 ICC World Twenty20," the MP posted on social media.
+
+As a new Aussie and local resident, the MP said that he hopes Dilshan will join a local team and continue to share his talents with the community.
+
+"It was great to hear that his daughter Resandi is following in her father’s footsteps," he added.
+
+◼️
+
+[Data](articles/1a3e2376.json)
+
+---
+
+### Chinese woman arrested in connection with over Rs. 8 mn fraud
+
+*2024-02-25 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97517/chinese-woman-arrested-in-connection-with-over-rs-8-mn-fraud-) · `en`
+
+Police have arrested a 52-year-old Chinese national for her alleged involvement in financial fraud amounting to nearly Rs. 8.4 million.
+
+The female suspect was arrested in the Kollupitiya police division on Saturday (24 Feb.), after investigations were launched into a complaint received by the Colombo Fraud Investigation Bureau on 31 January.
+
+According to police, the arrestee had obtained Rs. 8.4 million in total from several persons, claiming that it was for the purpose of a business venture, and would be returned.
+
+As such, further investigations are being carried out by the Colombo Fraud Investigation Bureau.
+
+◼️
+
+[Data](articles/97c68bd7.json)
+
+---
+
+### பால்குடி மறவாத சிசுவை விட்டு பறந்த பெற்றோர்
+
+*2024-02-25 12:28:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பால்குடி-மறவாத-சிசுவை-விட்டு-பறந்த-பெற்றோர்/76-333765) · `ta`
+
+தற்காலிகமாக தங்கியிருந்த இளம் ​ஜோடி, ஐந்தரை வயது மதிக்கத்தக்க சிசுவை அவ்வீட்டிலேயே விட்டு தலைமறைவாகிவிட்டனர். இந்த சம்பவம் தொடர்பில் கலஹா பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர். கலஹா, லூல்கந்துர பிரதேசத்தில் உள்ள தோட்ட வீட்டில் விட்டுவிட்டே இவ்வாறு தலைமறைவாகிவிட்டனர்.
+
+மட்டக்களப்பு- வாகரை பிதேசத்தில் இருந்து தற்காலிகமாக தங்குவதற்கு கலஹாவுக்கு வந்திருந்த இளம் ஜோடியே, சிசுவை கைவிட்டுச்சென்றுள்ளது.
+
+இந்த இளம் ஜோடி, ஒரு கிழமைக்கு முன்னர், மற்றுமொரு ​பெண்ணின் உதவியுடன், கைக்குழந்தையுடன் இந்த தோட்டத்துக்கு தற்காலிகமாக வசிப்பதற்கு வந்துள்ளனர். அங்கிருந்து ரகசியமான முறையில் தப்பிச்சென்றுள்ளனர் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+அங்கிருந்த போது அடையாளம் கண்டுகொண்ட மற்றுமொரு நபருக்கு தொலைபேசி அழைப்பை எடுத்துள்ள அந்த ஜோடி,  தாங்கள் இருவரும் வெளிநாட்டுக்குச் செல்வதாகவும், கைக்குழந்தை தாங்கள் தங்கியிருந்த வீட்டின் அறையில் இருப்பதாகவும், அதனை வளர்ப்பதற்கு யாரிடமாவது கொடுத்துவிடுமாறும் கேட்டுக்கொண்டுள்ளனர்.
+
+...
+
+[Data](articles/8388aa72.json)
+
+---
+
+### பெரும்பான்மைவாதம் குறித்து இலங்கை எச்சரிக்கையுடன் இருக்கவேண்டும் அதிகாரபகிர்வு  அபிவிருத்திக்கு மிகவும் அவசியம் -இந்தியாவில் வெளிவிவகார இராஜாங்க அமைச்சர் தாரகபாலசூர்ய
+
+*2024-02-25 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177246) · `ta`
+
+அதிகார பகிர்வு  அனைவரையும் உள்வாங்கும் அபிவிருத்தி ஆகியவை இலங்கையின் பேண்தகு அபிவிருத்திக்கு மிகவும் அவசியம் என  தெரிவித்துள்ள இலங்கையின் வெளிவிவகார இராஜாங்க அமைச்சர் தாரகபாலசூர்ய பெரும்பான்மைவாதம் குறித்தும் எச்சரித்துள்ளார்
+
+இந்தியாவின் 2022 ரைசினா டயலொக் 2024 நிகழ்வின் ஒரு பகுதியாக இடம்பெற்ற கலந்துரையாடலில்கருத்து தெரிவிக்கையில்  அவர் இதனை தெரிவித்துள்ளார்
+
+இலங்கை 1980களின் நடுப்பகுதியில் இனமோதலை எதிர்கொண்டது என்பது உங்களிற்கு தெரியும்- இனமோதலிற்கு முன்னர் நாங்கள் பாதுகாப்பு செலவீனங்களிற்காக மிகவும்குறைவாகவே 0.5செலவிட்டோம்.
+
+இது 1985 இல் மூன்று வீதமாக அதிகரித்தது பின்னர் பத்து வருடங்களின் 1995 இல் 5.9 வீதமாக அதிகரித்தது.
+
+1985 இல் எங்களின் பாதுகாப்பு செலவீனம் 188 மில்லியன் டொலர் 2008 இல் இது 1.5 மில்லியன் டொலராக மாறியது.
+
+1980-90களில் எங்களின் சமூகஅபிவிருத்தி சுட்டிகள் ஏனைய தென்னாசிய நாடுகளை மிகவும் சிறப்பானவையாக காணப்பட்டன.
+
+இலங்கையை பொறுத்தவரை நாங்கள்அனைவரும் ஜனநாயகம் குறித்து நம்பிக்கை கொண்டுள்ள போதிலும் நாங்கள் பெரும்பான்மைவாதம் குறித்து அவதானமாகயிருக்கவேண்டும்.
+
+...
+
+[Data](articles/64bb9ed6.json)
+
+---
 
 ### Demand from Dilantha Malagamuwa
 
@@ -54,6 +146,60 @@ They have also asked Lulindha to spend about three hundred,000 euros per year.
 
 ---
 
+### Modi inaugurates India’s longest cable-stayed bridge in Gujarat
+
+*2024-02-25 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Modi-inaugurates-Indias-longest-cable-stayed-bridge-in-Gujarat/107-277670) · `en`
+
+NEW DELHI, Feb 25 (Times of India) - Prime Minister Narendra Modi recently inaugurated the Sudarshan Setu, a monumental cable-stayed bridge that spans approximately 2.32 km, connecting the Okha mainland to Beyt Dwarka in Gujarat. This bridge, formerly known as the 'Signature Bridge,' has been renamed Sudarshan Setu.
+
+Situated near the Okha port, Beyt Dwarka is an island about 30 km from Dwarka town, home to the famous Dwarkadhish temple dedicated to Lord Krishna.
+
+Referred to as India's longest cable-stayed bridge, Sudarshan Setu holds immense importance for both residents and pilgrims, especially those visiting the revered Dwarkadhish Temple. Prime Minister Modi, accompanied by Gujarat chief minister Bhupendra Patel, marked the inauguration as a momentous occasion for Gujarat's developmental journey.
+
+...
+
+[Data](articles/28e66c84.json)
+
+---
+
+### අංගොඩ සිට ආපු පුතාගේ පොරෝ පහරින් පියා මරුට
+
+*2024-02-25 12:06:03* · [`adalk`](https://www.ada.lk/breaking_news/අංගොඩ-සිට-ආපු-පුතාගේ-පොරෝ-පහරින්-පියා-මරුට/11-408259) · `si`
+
+අංගොඩ මානසික රෝහලේ ප්‍රතිකාර ලබා සුවවී ඇතැයි කියා ආපසු නිවසට පැමිණ සිටි පුතෙකු විසින් එල්ල කරන ලද පොරෝ පහරකින් බරපතල තුවාල ලැබූ පියෙක්   මියගොස් ඇතැයි පිටිගල පොලිසිය කියයි.
+
+මෙසේ මියගොස් ඇත්තේ පිටිගල ,කලුආරච්චිගොඩ  පදිංචිව සිටි පියදාස ජයසිංහ හෙවත් අන්දිරිස් ජයසිංහ නැමති 80 හැවිරිදි සිව්දරු  පියෙක් බව පොලිසිය පැවසීය.
+
+මෙම පියා ඊයේ( 24)දහවල් නිවසේ වාඩිවී සිටියදී පුතා පිටුපසින්  පැමිණ පොරවකින් පියාට පහර දීමෙන් පසු පියා මියගොස් ඇතැයි පොලිසිය කියයි.
+
+මේ සම්බන්ධයෙන් සැකපිට පොරවෙන් පහරදුන්නේයැයි කියන පුතා සැකපිට  අත් අඩංගුවට ගත් බවත් මෙම සැකකරු කලක් අංගොඩ මානසික රෝහලේ ප්‍රතිකාර ලබා සුවවී පැමිණ සිටි අයෙකු බව පරීක්ෂණවලදී අනාවරණය වූ බවත් පොලිසිය පැවසීය.
+
+පිටිගල පොලිස් ස්තානාධිපති පොලිස් පරීක්ෂක අනුර පුෂ්පකුමාර මහතා ඇතුළු නිළධාරීහු සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/109801f6.json)
+
+---
+
+### SriLankan Airlines issues clarification on multiple flight delays
+
+*2024-02-25 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97516/srilankan-airlines-issues-clarification-on-multiple-flight-delays) · `en`
+
+SriLankan Airlines has issued a clarification on the delay experienced at the check-in counters at the Bandaranaike International Airport (BIA) in Katunayake earlier today (25 Feb.).
+
+Issuing a statement in this regard, the national carrier assured that the delays were caused due to temporary, unplanned operational conditions at the airport and not due to any type of trade union action.
+
+“The check-in counter operations have been stabilized and returned to normal as of now. SriLankan Airlines would like to apologize to any passengers inconvenienced by these operational delays, while the airline continues to monitor the situation and take steps to avoid a recurrence”, the statement concluded.
+
+It was reported, earlier this morning, that four SriLankan Airlines flights were delayed at the BIA, as ground staff had reportedly refrained from performing some of their duties.
+
+◼️
+
+[Data](articles/e7a26d5a.json)
+
+---
+
 ### State Minister urges COPF to summon CBSL over controversial salary hikes
 
 *2024-02-25 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97515/state-minister-urges-copf-to-summon-cbsl-over-controversial-salary-hikes) · `en`
@@ -71,6 +217,28 @@ Thus, in light of the situation that stirred much controversy in the country, it
 [Data](articles/ed7dd70e.json)
 
 [Extended Data](ext_articles/ed7dd70e.ext.json)
+
+---
+
+### Vocational training for students who have sat their A/L exams
+
+*2024-02-25 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vocational-training-for-students-who-have-sat-their-AL-exams/108-277669) · `en`
+
+English language guidance for students who have sat for their Advanced Level (A/L) examinations this year will also be given an opportunity to study a vocational subject of their choice free of charge from March 5, Education Minister Susil Premajayantha said.
+
+This training programme will be implemented at 300 centres around the country.
+
+Meanwhile, it has been planned to implement the same type of training programmes soon after the end of the GCE Ordinary Level (O/L) examinations as well.
+
+Also, the Minister said that all teachers in schools should be well equipped with the knowledge on information technology.
+
+He also pointed out that a wide programme has been implemented to train teachers through computer resource centres established in each region.
+
+The current number of computer resource centres is 100 and arrangements have already been made to increase these by seventeen more in the future.
+
+...
+
+[Data](articles/aecdd042.json)
 
 ---
 
@@ -479,6 +647,30 @@ Morning said that the Sri Lankan navy sent its ship and when the ship completed 
 [Data](articles/7e252d25.json)
 
 [Extended Data](ext_articles/7e252d25.ext.json)
+
+---
+
+### අනුර හීනෙන් ජනපති වෙලා
+
+*2024-02-25 09:46:31* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හීනෙන්-ජනපති-වෙලා/11-408258) · `si`
+
+අනුර කුමාර දිසානායක සිහිනෙන් මේ රටේ ජනාධිපති වි ඇති බව ජනසෙත පෙරමුණේ නායක පුජ්‍ය බත්තරමුල්ලේ සීලරතන හිමියන් පැවසිය.
+
+සීලරතන හිමියන් ඒ බැව් කියා සිටියේ (24) දින හැටන් ප්‍රදේශයේ වතු කම්කරුවන්ගේ ගැටළු සම්බන්ධයෙන් සොයා බැලිමට පැමිණිමෙන් අනතුරුව මාධ්‍යයට අදහස් දක්වමිණි.
+
+“වතුකරයේ ජනතාවගේ ජන්දයෙන් පත් වෙලා ඉන්න ඇමතිවරු මන්ත්‍රිවරු ජනතාවට කිසිදු දෙයක් කරලා නැ , වතු කම්කරුවන්ගෙන් මාසිකව රු 350 ක සමාජික මුදලක් ආරුමුගන් තොණ්ඩමන් ගත්තා දැන් පුතත් ගන්නවා.
+
+එහෙම සමාජික මුදල් අරගෙන වතු කම්කරුවන්ට සහනක් ලබා දෙන්නෙත් නැ,  ඒ සල්ලි වලින් තොණ්ඩමන්ලා සැප විදිනවා.
+
+වතු කම්කරුවෙකුට රු දහසක් ලැබෙන්නේ  තේ කොල කිලෝ 20 ක් කැඩුවොත් විතරයි , එතකොට කොහොමද මේ ජනතාව ජිවත් වෙන්නේ.
+
+වතු කම්කරුවන්ගේ වැටුප වැඩි කරන්න ඕනි කියලා පාර්ලිමේන්තුවේ එකෙක් කතා කරලා නැ. වතුකරයේ සිංහල දමිල ඇමතිවරු එකෙක් වැඩ කරලා නැ ඒ අය වැඩ කරගත්තා එයාලගේ පවුල් වලට.
+
+මහින්ද රාජපක්ෂගෙන් අහන්න ඕනි රනිල් වික්‍රමසිංහව ජනාධිපති කරලා දැන් සැපද කියලා , එයා දැන් පුතාව පන්සල් ගානේ යවලා මැතිවරණයට ඉදිරිපත් කරන්න හදනවා.
+
+...
+
+[Data](articles/8c8f98a6.json)
 
 ---
 
@@ -1847,215 +2039,5 @@ The two suspects were sent to Katunayake airport from Shanghai, China, by SriLan
 [Data](articles/ac5fa494.json)
 
 [Extended Data](ext_articles/ac5fa494.ext.json)
-
----
-
-### I'm a father who is now a child - Sajith
-
-*2024-02-24 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193775) · `si`
-
-Opposition Leader Sajith Premadasa told him that he is a father of now.
-
-He said he would launch the concern of the government hospitals for every child in this country.
-
-◼️
-
-[Data](articles/bb6695a9.json)
-
-[Extended Data](ext_articles/bb6695a9.ext.json)
-
----
-
-### Kurunegala hospital’s dialysis unit closed after patient deaths; experts committee begins probe
-
-*2024-02-24 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97502/kurunegala-hospitals-dialysis-unit-closed-after-patient-deaths-experts-committee-begins-probe) · `en`
-
-The dialysis unit of the Teaching Hospital in Kurunegala has been temporarily closed on Friday (Feb.23) after a series of patient deaths attributed to a suspected infection.
-
-According to reports, the deaths have taken place since January.
-
-A spokesperson from the hospital said an investigation was previously conducted at the institutional level to determine if the fatalities were a result of an infection caused by the germs that entered the bloodstream or the chemicals administered during the dialysis procedure. However, the exact cause of the deaths remains unknown.
-
-Accordingly, the Ministry of Health has appointed a 5-member committee of experts to look into the matter at the ministerial level, Health Secretary Dr. Palitha Maheepala said.
-
-The panel led by Dr. Samitha Ginige, the head of the Epidemiology Unit has arrived at the hospital for the investigation.
-
-...
-
-[Data](articles/107a2234.json)
-
-[Extended Data](ext_articles/107a2234.ext.json)
-
----
-
-### Attention to establish a new prison on the Munivev Island
-
-*2024-02-24 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193774) · `si`
-
-Minister of Justice, Principal and Constitutional Reforms Mr. Wijayadasa Rajapaksa, said that there is a possibility of establishing a new prison or rehabilitation center in the East of Batticaloa town, Batticaloa town.
-
-The Minister made this observation at the time of his visit to the Mathv Island yesterday.
-
-The Minister said that only two leprosy patients who had been planting to quarantine the Covand seized by the Sri Lanka Air Force and that there are only two lepers.
-
-Therefore, the two lepers have been able to transfer the Sri Lankan patients with the Ministry of Health and to look into the possibility of establishing a prison or rehabilitation center.
-
-The Minister is currently the main problem with the prison department.
-
-◼️
-
-[Data](articles/221b8534.json)
-
-[Extended Data](ext_articles/221b8534.ext.json)
-
----
-
-### Five Indians apprehended off Sri Lanka as ‘Beedi’ smuggling attempt foiled
-
-*2024-02-24 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97501/five-indians-apprehended-off-sri-lanka-as-beedi-smuggling-attempt-foiled) · `en`
-
-Five Indians have been apprehended in Sri Lanka for attempting to smuggle in a consignment of ‘Beedi’ leaves via sea routes.
-
-The suspects were apprehended by the Sri Lanka Navy, along with 75 sacks of ‘Beedi’ leaves found in the dinghy they were on.
-
-The ‘Beedi’ smuggling attempt was thwarted based on a tip-off received by the Excise Station in Negombo. Upon receiving the piece of information, the excise officers, along with a group of naval personnel, had mounted a special operation in the seas off Puttalam on Feb.19.
-
-During the operation, a small boat with five Indians aboard was impounded while 2,175 kilograms of ‘Beedi’ leaves were seized.
-
-The contraband is believed to have a value of around Rs. 20 million.
-
-The apprehended Indian nationals, all aged below 20 years, had reportedly set sail from Thoothukudi, India.
-
-Onward investigations into the incident are being carried out by the Negombo Excise Station.
-
-◼️
-
-[Data](articles/d87ec85c.json)
-
-[Extended Data](ext_articles/d87ec85c.ext.json)
-
----
-
-### Committee to investigate the incident in Kurunegala Hospital
-
-*2024-02-24 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193773) · `si`
-
-Health Ministry has appointed a five-person expert panel of experts from the Secretary to the Teaching Hospital in the Kurunegala Teaching Hospital.
-
-Some of the complications of some of the patients in the Kurunegala Teaching Hospital have been reported and several deaths since January.
-
-Health Secretary Palitha Mahipala said that a committee of the Ministry has appointed a five-member panel of experts for further investigation.
-
-◼️
-
-[Data](articles/b750e293.json)
-
-[Extended Data](ext_articles/b750e293.ext.json)
-
----
-
-### Presidential poll will be held first as scheduled: President affirms
-
-*2024-02-24 16:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-poll-will-be-held-first-as-scheduled-President-affirms/108-277655) · `en`
-
-Colombo, Feb. 24 (Daily Mirror)- President Ranil Wickremesinghe affirmed that the Presidential election will be held as scheduled with the General Elections anticipated to be held early next year, the President’s Media Division (PMD) said.
-
-The President gave this assurance during a meeting with the representatives of the United Republic Front headed by by its leader Parliamentarian Patali Champika Ranawaka at Sirikotha today.
-
-The United Republic Front presented a proposal titled "A United Step for the Country" to President Ranil Wickremesinghe this morning (24), at ‘Srikotha’, the United National Party headquarters in Colombo.
-
-After engaging in discussions with the President, the leader of the United Republic Front, Member of Parliament Patali Champika Ranawaka, along with his delegation, presented this proposal to the President.
-
-...
-
-[Data](articles/470eb6bc.json)
-
-[Extended Data](ext_articles/470eb6bc.ext.json)
-
----
-
-### China deports two Lankans arrested from empty container
-
-*2024-02-24 16:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-deports-two-Lankans-arrested-from-empty-container/108-277654) · `en`
-
-Two Sri Lankans who tried to hide in an empty container on a ship anchored in the Colombo port and escape to Malaysia were deported from China a year after they were arrested.
-
-The two individuals thus deported from China, arrived at the Katunayake Airport this morning.
-
-On January 30, 2023, they had secretly entered an empty container loaded on the 'MV Merks Unicorn' ship anchored at the CICT jetty in the Colombo port to leave for Malaysia.
-
-After the ship arrived in Malaysia, the two were refused entry by the Malaysian government.
-
-Hence, the authorities of the ship finally arrived in China after taking them to a number of other countries where the Chinese authorities arrested the two individuals.
-
-The two deported individuals were sent from China to the Katunayake Airport by SriLankan Airlines flight UL-867 from Shanghai, China.
-
-...
-
-[Data](articles/d15193c4.json)
-
-[Extended Data](ext_articles/d15193c4.ext.json)
-
----
-
-### Engkk Patali meet President
-
-*2024-02-24 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193772) · `si`
-
-President Ranil Wickremesinghe says that the presidential election will be held for the time and the general election is expected to be held early next year.
-
-The President made this statement when he met the leader of the leader Patali Champika Ranawaka and the delegation.
-
-The proposal to the country was presented to the country by the United States's proposal by the United States recently to President Ranil Wickremesinghe this morning at Sirikotha today (24) at the UNP.
-
-The proposal was presented to the President of the United Kingdom of the UPFA MP Champika Ranawaka.
-
-President Ranil Wickremesinghe said that the government was prevented in the past two years to restore the country's collapse economy.
-
-The President has said that the government has said that the government has taken steps to bring the country's economy to the right road with the reform decision decisions.
-
-...
-
-[Data](articles/e151974b.json)
-
-[Extended Data](ext_articles/e151974b.ext.json)
-
----
-
-### “United Action for the Country”
-
-*2024-02-24 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177203) · `ta`
-
-The proposal, titled "United Action for the Nation", was handed over to President Ranil Wickremesinghe on Saturday (24) at the UNP headquarters in Colombo.
-
-The group, including the leader of the United Republic Front and Member of Parliament, Patali Champika Ranawaka, met with the President and handed over the proposal to the President.
-
-Speaking at the event, President Ranil Wickremesinghe said the government had worked hard in the last two years to stabilize the country's collapse economy.
-
-The President pointed out that the government was acting to take the country's economy on a very good path through resolutions, adding that his aim was to further implement it with the support of all.
-
-Recalling the open call to all political parties to join the country without political discrimination, the President said he would not hesitate to include all the positive proposals of other political parties in the program of building the country.
-
-...
-
-[Data](articles/b9825af3.json)
-
-[Extended Data](ext_articles/b9825af3.ext.json)
-
----
-
-### You can call me ’Pad Man’ but I will focus on women’s health: Sajith
-
-*2024-02-24 15:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/You-can-call-me-Pad-Man-but-I-will-focus-on-womens-health-Sajith/108-277653) · `en`
-
-Kandy, Feb. 24 (Daily Mirror)- Renewing his pledge made during the 2019 Presidential election, Opposition Leader Sajith Premadasa today said he will focus on the maximum on women's health if elected as President of this country.
-
-"I was called 'Pad Man' during the last Presidential election when I spoke of women's health. Talking of women's health is taboo only in Sri Lanka. However, Scotland and New Zealand provide sanitary pads to women free of charge. I will follow these countries and will do the same. You can call me Pad Man," Premadasa told a women's convention organized by SJB in Kandy.
-
-◼️
-
-[Data](articles/9087af98.json)
-
-[Extended Data](ext_articles/9087af98.ext.json)
 
 ---

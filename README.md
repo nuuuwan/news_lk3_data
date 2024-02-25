@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 17:17:34**
+As of **2024-02-25 17:33:45**
 
 ## Newspaper Stats
 
-*Scraped **9,199** Articles*
+*Scraped **9,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 483
 islandlk | 486
 adalk | 773
 adaderanalk | 1,111
-tamilmirrorlk | 1,132
+tamilmirrorlk | 1,133
 virakesarilk | 1,246
 dailymirrorlk | 1,384
 adaderanasinhalalk | 1,387
@@ -26,31 +26,33 @@ adaderanasinhalalk | 1,387
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,196 (100.0%) of 9,199 articles have been extended.
+9,199 (100.0%) of 9,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### බිහිසුණු රිය අනතුරකින් කාන්තාවක් මරුට
+### Woman dies in a terrible accident
 
 *2024-02-25 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193812) · `si`
 
-තංගල්ල මාතර ප්‍රධාන මාර්ගයේ තලල්ල ප්‍රදේශයේදී සිදුවූ රිය අනතුරකින් කාන්තාවක් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+A woman was killed in an accident in the Tangalle Matara main road.
 
-ත්‍රිරෝද රථයක් සහ ටිපර් රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+The accident had occurred when a three-wheeler and tipper collided.
 
-අනතුරින් මියගොස් ඇත්තේ කෝට්ටගොඩ ප්‍රදේශයේ පදිංචි 30 හැවිරිදි වියේ පසුවූ කාන්තාවකි.
+The deceased has been identified as a 30 year old resident of the Kotagoda area.
 
-අනතුර සිදුවන අවස්ථාවේ ත්‍රිරෝද රථයේ පුද්ගලයින් පස්දෙනෙකු ගමන්කර ඇති බව පොලීසිය පවසයි.
+Five persons in the three-wheeler had traveled at the time of the accident.
 
-තුවාල ලැබූ 33 හැවිරිදි වියේ පසුවන ත්‍රිරෝද රථයේ රියදුරු, 15 හැවිරිදි වියේ පසුවන පිරිමි ළමයෙකු, 14 හැවිරිදි වියේ පසුවන ගැහැණු ළමයෙකු සහ මාස 11ක කුඩා බිළිඳෙකු ප්‍රතිකාර සඳහා මාතර රෝහලට ඇතුළත් කර තිබේ.
+The driver of a 33-year-old three-year-old three-year-old three-year-old three-year-old boy, a 14-year-old girl and a small infant have been admitted to the Matara Hospital.
 
-අනතුරින් තුවාල ලැබූ බිළිඳාගේ තත්ත්වය බරපතළ බව රෝහල් ආරංචි මාර්ග පවසයි.
+Infantry, hospital sources said that the infant's condition was serious.
 
 ◼️
 
 [Data](articles/bca9187a.json)
+
+[Extended Data](ext_articles/bca9187a.ext.json)
 
 ---
 
@@ -74,39 +76,43 @@ TM Dilshan, renowned for his explosive batting style, played a pivotal role in n
 
 ---
 
-### අදත් කොළඹ වෙඩි ප්‍රහාරයක්
+### Colombo shooting today
 
 *2024-02-25 16:16:24* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-කොළඹ-වෙඩි-ප්‍රහාරයක්/11-408267) · `si`
 
-කොළඹ ජම්පටා වීදිය නිව්හැම් චතුරස්‍රය ප්‍රදේශයේ කුකුල් මස් අලෙවි සැලක හිමිකරුවකු ඉලක්ක කරගෙන සිදුකළ වෙඩි ප්‍රහාරයකින් එම පුද්ගලයා තුවාල ලබා රෝහල් ගත කළ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව  මහතා පැවසීය.
+According to the DIG Talduuwa, a shooting owner of a chicken selling owner in New Nathham Street, Colombo, said that the man was injured and hospitalized.
 
-වෙඩි ප්‍රහාරයෙන් තුවාල ලබා ඇත්තේ මොහොමඩ් රිල්වාන් නමැති 57 හැවිරිදි පුද්ගලයෙකි.
+Mohamed Relwan, 57, was injured in the shooting.
 
-වෙඩි ප්‍රහාරය එල්ල වූ පුද්ගලයා වෙළඳ සැල තුළ පුටුවක අසුන්ගෙන සිටියදී යතුරුපැදියකින් පැමිණ තිබූ පුද්ගලයන් දෙදෙනෙකුගෙන් අයකු ඔහු අසලටම පැමිණ රිවොල්වර  වර්ගයේ ගිනි අවියකින් වෙඩි ප්‍රහාර තුනක් එල්ල කර ඇති අතර එයින් එක් වෙඩි ප්‍රහාරයක් එම පුද්ගලයාගේ උරහිස ප්‍රදේශයට වැදී ඇති බව මාධ්‍ය ප්‍රකාශකවරයා කීය.
+The shooting was a motorbike with two people from a motorcycle while he was sitting in a chair.
 
 ◼️
 
 [Data](articles/aa8c01ab.json)
 
+[Extended Data](ext_articles/aa8c01ab.ext.json)
+
 ---
 
-### පාසල් දරුවන් 100,000කට ශිෂ්‍යත්වයක්
+### 100,000 school children
 
 *2024-02-25 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193811) · `si`
 
-පාසල් දරුවන් සඳහා විශේෂ ශිෂ්‍යත්ව වැඩසටහනක් ඇරඹීමට ජනපති තීරණය කර ඇත.
+President has decided to open a special scholarship program for school children.
 
-මෙරට 10,126ක් වූ සමස්ත පාසල් සංඛ්‍යාවම ආවරණය වන අයුරින් පළමු ශ්‍රේණියේ සිට 11 වන ශ්‍රේණිය දක්වා දරුවන් 100,000 ක් තෝරාගෙන ඔවුන් සඳහා මෙම ශිෂ්‍යත්ව වැඩසටහන ක්‍රියාත්මක කිරීමට නියමිතය.
+The scholarship program is to be implemented to be selected from the first grade to 11th grade, covering the number of total number of schools in the country.
 
-ඒ අනුව මෙම සමස්ත වැඩසටහන සදහා ජනාධිපති අරමුදලින් රුපියල් මිලියන 3,600ක ප්‍රතිපාදන වෙන් කර තිබේ.
+Accordingly, Rs. 3,600 million has been allocated from the President's Fund.
 
-වර්තමානයේ රට තුළ පවතින ආර්ථික තත්ත්වය හමුවේ අඩු සහ මධ්‍ය ආදායම්ලාභී පවුල්වල දරුවන් මුහුණ දෙන පාසල් උපකරණ සහ අභ්‍යාස පොත් සපයා ගැනීම මෙන්ම ප්‍රවාහන පහසුකම් සලසා ගැනීම වැනි කටයුතුවල දුෂ්කරතාවයන් සැලකිල්ලට ගනිමින් ඒ සඳහා යම් අස්වැසිල්ලක් සැලසීම මෙම වැඩසටහනේ අරමුණ වී ඇත.
+The program aims to provide school equipment and exercise books to meet children in the country today and provide some reliefs for the difficulties of employment.
 
-ඒ අනුව මෙම ශිෂ්‍යත්වලාභීන් තෝරා ගැනීමේ ක්‍රියාවලිය සහ මීට අදාළ සියලු තොරතුරු ඉදිරියේදී දැනුම්දීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+According to the Presidential Media Unit, the selection process of selecting these scholarships and all relevant information will be notified in the future.
 
 ◼️
 
 [Data](articles/9dbacc24.json)
+
+[Extended Data](ext_articles/9dbacc24.ext.json)
 
 ---
 
@@ -347,6 +353,24 @@ A 2020 rematch between Trump and President Joe Biden is becoming increasingly in
 [Data](articles/0d83dbd5.json)
 
 [Extended Data](ext_articles/0d83dbd5.ext.json)
+
+---
+
+### “போருக்கு பிறகு இதுதான் நடக்கும்”
+
+*2024-02-25 13:58:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/போருக்கு-பிறகு-இதுதான்-நடக்கும்/50-333777) · `ta`
+
+ஹமாஸ் உடனான போர் நிறைவுற்ற பிந்தைய திட்டம் குறித்த விவரங்களை இஸ்ரேல் பிரதமர் பெஞ்சமின் நேதன்யாகு தெரிவித்துள்ளார். இது தொடர்பாக அந்நாட்டு பிரதமர் அலுவலகம் சார்பில் அறிக்கை வெளியிடப்பட்டுள்ளது. இதே விவரங்கள் அந்நாட்டு மந்திரிகளுக்கும் வழங்கப்பட்டுள்ளது.
+
+இந்த அறிக்கையில் போருக்கு பிறகு, காசாவை நிர்வகிப்பதில் இஸ்ரேல் பங்கு குறித்த திட்டங்கள் இடம்பெற்றுள்ளன. அதன்படி, “போர் நிறைவுற்று, இராணுவம் விலக்கப்பட்ட காசா முனையின் பாதுகாப்பு இஸ்ரேல் கட்டுப்பாட்டில் இருக்கும்.
+
+பாதுகாப்பு அச்சுறுத்தல்களை முறியடிக்கும் வகையில், காசா முழுக்க இஸ்ரேல் இராணுவம் சுதந்திரமாக செயல்படும். காசாவிற்குள் பாதுகாப்பு மண்டலத்தை நிறுவப்படும். இதற்கு அமெரிக்கா எதிர்ப்பு தெரிவிக்கலாம்.
+
+பயங்கரவாதத்தை ஆதரிக்கும் நாடுகள், அமைப்புகளுடன் தொடர்பில் இல்லாத மற்றும் அவர்களிடம் நிதியுதவி பெறாத உள்ளூர் அதிகாரிகளால் காசா நிர்வாக பணிகள் மேற்கொள்ளப்படும்” என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3fc2425a.json)
 
 ---
 
@@ -2061,23 +2085,5 @@ Parliamentarian Patali Champika Ranawaka responded to other political parties to
 [Data](articles/cfc06b0d.json)
 
 [Extended Data](ext_articles/cfc06b0d.ext.json)
-
----
-
-### Mondu has banned for two matches
-
-*2024-02-24 22:16:05* · [`adalk`](https://www.ada.lk/sports/වනිඳුට-තරග-දෙකක-තහනමක්/9-408254) · `si`
-
-Sri Lanka's 5-month leader of Sri Lankan ethical code for violations of the International Critical Code has been imposed in two international matches.
-
-Thusaranga will lose both the first matches of the Twenty20 tournament against Bangladesh next month.
-
-The critical reasoning in a decision that Judge Lindon Hannibles was given in the third match with the Afghanistan's group was critical, he was banned.
-
-◼️
-
-[Data](articles/96a248b9.json)
-
-[Extended Data](ext_articles/96a248b9.ext.json)
 
 ---

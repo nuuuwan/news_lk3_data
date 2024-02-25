@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 23:51:36**
+As of **2024-02-26 00:02:28**
 
 ## Newspaper Stats
 
-*Scraped **9,228** Articles*
+*Scraped **9,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 465
 dailyftlk | 483
 islandlk | 486
 adalk | 776
-adaderanalk | 1,116
+adaderanalk | 1,118
 tamilmirrorlk | 1,135
 virakesarilk | 1,252
 dailymirrorlk | 1,387
@@ -26,11 +26,55 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,228 (100.0%) of 9,228 articles have been extended.
+9,230 (100.0%) of 9,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### 31,000 Ukrainian troops killed since the start of Russia’s full-scale invasion, Zelenskyy says
+
+*2024-02-25 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97531/31000-ukrainian-troops-killed-since-the-start-of-russias-full-scale-invasion-zelenskyy-says) · `en`
+
+Ukrainian President Volodymyr Zelenskyy said Sunday that 31,000 Ukrainian soldiers have been killed in action in the two years since Russia launched its full-scale invasion.
+
+Zelenskyy said that the number was far lower than estimates given by Russian President Vladimir Putin’s government.
+
+“31,000 Ukrainian military personnel have been killed in this war. Not 300,000, not 150,000, not whatever Putin and his deceitful circle have been lying about. But nevertheless, each of these losses is a great sacrifice for us”, Zelenskyy said at the “Ukraine. Year 2024” forum in Kyiv.
+
+The Ukrainian leader said that he wouldn’t disclose the number of troops that were wounded or missing. He also said that “tens of thousands of civilians” had been killed in occupied areas of Ukraine, but said that no exact figures would be available until the war was over.
+
+“We don’t know how many of our civilians they killed. We don’t,” he said.
+
+...
+
+[Data](articles/859146ce.json)
+
+[Extended Data](ext_articles/859146ce.ext.json)
+
+---
+
+### Pope Francis urges diplomatic solution to Ukraine war on anniversary of invasion
+
+*2024-02-25 22:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97530/pope-francis-urges-diplomatic-solution-to-ukraine-war-on-anniversary-of-invasion) · `en`
+
+Pope Francis on Sunday called for a diplomatic solution to the war in Ukraine that would lead to a just and lasting peace, as the second anniversary of Russia’s invasion was marked a day earlier.
+
+“So many victims, wounded, destruction, anguish, and tears in a period that is becoming terribly long and whose end is not in sight. It is a war that not only devastates that region but also unleashes global waves of hate and fear”, Pope Francis said during his weekly Angelus message.
+
+“I plead for that little bit of humanity to be found to create the conditions for a diplomatic solution in search of a just and lasting peace”, he said.
+
+Heads of the Group of Seven major democracies on Saturday pledged to stand by war-weary Ukraine, and Western leaders travelled to Kyiv to show solidarity on the second anniversary of Russia’s invasion.
+
+Francis said he was also concerned about escalating violence in the east region of the Democratic Republic of Congo (DRC).
+
+...
+
+[Data](articles/6dba0b69.json)
+
+[Extended Data](ext_articles/6dba0b69.ext.json)
+
+---
 
 ### Declaration from Ukutani President
 
@@ -2097,41 +2141,5 @@ Police life officers are engaged in search of the disappearance of the disappear
 [Data](articles/edd640a6.json)
 
 [Extended Data](ext_articles/edd640a6.ext.json)
-
----
-
-### I am a proud father of a baby girl, Sajith tells first time in public
-
-*2024-02-25 08:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-am-a-proud-father-of-a-baby-girl-Sajith-tells-first-time-in-public/108-277663) · `en`
-
-Colombo, Feb 25 (Daily Mirror) - Samagi Jana Balawegaya (SJB) leader Sajith Premadasa revealed in public for the first time that he is now the proud father of a baby girl.
-
-Addressing a political meeting, he said this amidst thundering applause by participants.
-
-◼️
-
-[Data](articles/e911772f.json)
-
-[Extended Data](ext_articles/e911772f.ext.json)
-
----
-
-### Officers who do not get accurate information for cabinet papers
-
-*2024-02-25 08:56:10* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-පත්‍රිකා-සදහා-නිවැරදි-තොරතුරු-ලබා-නොදෙන-නිළධාරීන්ට-වැඩ-වරදියි/11-408257) · `si`
-
-කිරීම Top committee of the Ministry of Urban Development and Housing to implement the approved Cabinet proposals expeditiously implemented.
-
-Urban Development and Housing Minister Prasanna Ranatunga appointed a top committee to promptly implement Cabinet proposals related to the Ministry of Cabinet. Secretary to the Ministry WS. Mr. Satyananda is the Chairman of the relevant committee. The Additional Secretary of the Ministry and four other officials are the other members.
-
-The Ministry of Urban Development and Housing Prasanna Ranatunga recently instructed the Secretary to the Ministry (22) to review the Cabinet proposals for two weeks.
-
-The committee is also entrusted with the responsibility of presenting the cabinet papers without delay.
-
-...
-
-[Data](articles/01f138d0.json)
-
-[Extended Data](ext_articles/01f138d0.ext.json)
 
 ---

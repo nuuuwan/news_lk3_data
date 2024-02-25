@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 22:49:41**
+As of **2024-02-25 23:02:28**
 
 ## Newspaper Stats
 
-*Scraped **9,223** Articles*
+*Scraped **9,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 465
 dailyftlk | 483
 islandlk | 486
 adalk | 776
-adaderanalk | 1,114
+adaderanalk | 1,116
 tamilmirrorlk | 1,135
-virakesarilk | 1,250
+virakesarilk | 1,252
 dailymirrorlk | 1,387
 adaderanasinhalalk | 1,394
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 1,394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,223 (100.0%) of 9,223 articles have been extended.
+9,223 (100.0%) of 9,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### இந்தியாவின் டெஸ்ட் தொடர் வெற்றிக்கு மேலும் 152 ஓட்டங்கள் தேவை
+
+*2024-02-25 22:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/177280) · `ta`
+
+இங்கிலாந்துக்கு எதிராக ரஞ்சி விளையாட்டரங்கில் நடைபெற்றுவரும் நான்காவது டெஸ்ட் கிரிக்கெட் போட்டியில் வெற்றிபெற்று  தொடரைக் கைப்பற்றுவதற்கு இந்தியாவுக்கு மேலும் 152 ஓட்டங்கள் தேவைப்படுகிறது.
+
+இங்கிலாந்தை இரண்டாவது இன்னிங்ஸில் 145 ஓட்டங்களுக்கு சுருட்டிய இந்தியா, வெற்றிக்கு தேவைப்பட்ட 192 ஓட்டங்களில் 40 ஓட்டங்களை விக்கெட் இழப்பின்றி எடுத்து பலமான நிலையில் இருக்கிறது.
+
+ரொஹித் ஷர்மா 24 ஓட்டங்களுடனும் யஷஸ்வி ஜய்ஸ்வால் 16 ஓட்டங்களுடனும் ஆட்டம் இழக்காதுள்ளனர்.
+
+முதல் இன்னிங்ஸ் நிறைவில் 46 ஓட்டங்களால் பின்னிலையில் இருந்த இந்தியா, மூன்றாம் நாள் ஆட்டடத்தில் தனது சுழற்பந்துவீச்சாளர்களைக் கொண்டு இங்கிலாந்தை திக்குமுக்காட வைத்தது.
+
+இங்கிலாந்தின் இரண்டாவது இன்னிங்ஸில் ஆரம்ப பந்துவீச்சாளராக பயன்படுத்தப்பட்ட ரவிச்சந்திரன் அஷ்வின் 51 ஓட்டங்களுக்கு 5 விக்கெட்களைக் கைப்பற்றினார்.
+
+இதன் மூலம் தனது 35ஆவது 5 விக்கெட் குவியலை டெஸ்ட் கிரிக்கெட்டில் பதிவுசெய்தார்.
+
+மூன்றாவது சுழற்பந்துவீச்சாளர் குல்தீப் யாதவ் 22 ஓட்டங்களுக்கு 4 விக்கெட்களை வீழ்த்தினார். மற்றைய விக்கெட்டை ரவீந்த்ர ஜடேஜா கைப்பற்றினார்.
+
+...
+
+[Data](articles/572692ee.json)
+
+---
+
+### US, British forces carry out more strikes against Houthis in Yemen
+
+*2024-02-25 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97529/us-british-forces-carry-out-more-strikes-against-houthis-in-yemen) · `en`
+
+U.S. and British forces carried out strikes against more than a dozen Houthi targets in Yemen on Saturday, officials said, the latest round of military action against the Iran-linked group that continues to attack shipping in the region.
+
+The United States has carried out near daily strikes against the Houthis, who control the most populous parts of Yemen and have said their attacks on shipping are in solidarity with Palestinians as Israel strikes Gaza.
+
+The strikes have so far failed to halt the Houthis’ attacks, which have upset global trade and raised shipping rates.
+
+A joint statement from countries that either took part in the strikes or provided support, said the military action was against 18 Houthi targets across eight locations in Yemen including underground weapons and missile storage facilities, air defense systems, radars and a helicopter.
+
+...
+
+[Data](articles/64effb1d.json)
+
+---
+
+### Jampettah Street shooting: Victim identified as close associate of ‘Pukudu Kanna’
+
+*2024-02-25 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97528/jampettah-street-shooting-victim-identified-as-close-associate-of-pukudu-kanna-) · `en`
+
+Sri Lanka Police says the 55-year-old who was injured in the shooting incident at Jampettah Street in Colombo earlier today (25 Feb.) is suspected to be a close associate of the notorious underworld figure known by the alias ‘Pukudu Kanna’.
+
+The shooting victim has been identified as Mohommed Rilwan, a resident of the ‘Methsanda Sewana’ housing scheme in Henamulla, police reported.
+
+Police suspect that the shooting had been carried out as a result of a dispute between ‘Pukudu Kanna’ and rival gang member ‘Rimoshan’, the son of ‘Kudu Selvi’.
+
+According to police, CCTV footage had shown two suspects arriving on a motorcycle near a meat shop in Jampettah Street at around 01:45 p.m. today, and they had subsequently opened fire at the 55-year-old victim.
+
+Mohommed Rilwan was subsequently rushed to the Colombo National Hospital, and is currently receiving medical treatment, police stated.
+
+◼️
+
+[Data](articles/f785223e.json)
+
+---
 
 ### Korean Language Testicle Ticketing For Online
 
@@ -57,6 +119,26 @@ Under the E-9 or E-10 Visa categories, there should be a person who has not work
 [Data](articles/f2c5c12a.json)
 
 [Extended Data](ext_articles/f2c5c12a.ext.json)
+
+---
+
+### மட்டக்களப்பில் 15 வயது சிறுமி கடத்தல்  : 18 வயது காதலனும் அவரது சிறியதாயாரும் கைது
+
+*2024-02-25 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177279) · `ta`
+
+மட்டக்களப்பு  கொக்குவில் பொலிஸ் பிரிவில் 15 வயது சிறுமியைக் கடத்திச் சென்ற 18 வயது இளைஞனையும் அவரது சிறிய தாயாரையும் பொலிஸார் வாகரையில் வைத்து சனிக்கிழமை (24) இரவு கைது செய்துள்ளனர்.
+
+கொக்குவில் பொலிஸ் பிரிவில் வசித்து வந்த சிறுமி கடந்த 7ம் திகதி பாடசாலைக்குச் சென்ற நிலையில் அவர் வீடு திரும்பாததையடுத்து அவரது உறவினர்கள் பொலிசாரிடம் முறைப்பாடு செய்தனர்.
+
+இதையடுத்து கொக்குவில் பொலிஸார் முன்னெடுத்த நடவடிக்கையின் போது குறித்த சிறுமியை அவரது காதலன் வாகரைப் பிரதேசத்திலுள்ள அவரது சிறியதாயாரின் வீட்டிற்கு கடத்திச் சென்று வைத்துள்ளமை தெரியவந்தது.
+
+இதனையடுத்து குறித்த வீட்டை சுற்றுவளைத்த பொலிஸார்  சிறுமியை மீட்டதுடன் கடத்தல் குற்றச்சாட்டில் 18 வயதுடைய காதலனையும் அவருக்கு உடந்தையாகச் செயற்பட்ட 47 வயதுடைய சிறிய தாயாரையும் கைது செய்தனர்.
+
+கைது செய்யப்பட்ட இருவரையும் மட்டக்களப்பு நீதவான் நீதிமன்றத்தில் இன்று ஞாயிற்றுக்கிழமை (25) பொலிஸார் ஆஜர்படுத்திய போது அவர்களை எதிர்வரும் 07 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டது.
+
+◼️
+
+[Data](articles/b9b965b1.json)
 
 ---
 
@@ -2037,97 +2119,5 @@ The protest was allegedly initiated by airport workers demanding immediate solut
 [Data](articles/b9528606.json)
 
 [Extended Data](ext_articles/b9528606.ext.json)
-
----
-
-### If the land is used as legal, legal action will be taken
-
-*2024-02-25 08:47:11* · [`adalk`](https://www.ada.lk/breaking_news/නීත්‍යානුකූල-නොවන-ලෙස-ඉඩම්-භාවිත-කර-තිබෙනවානම්-නීත්‍යානුකූල-පියවර-ගන්නවා/11-408256) · `si`
-
-Dr. Wijayadasa Reforms Minister Dr. Wijayadasa Rajapakse, Dr. Wijayadasa Rajapakse, Dr. Wijayadasa Rajapakse, Dr. Wijayadasa Rajapakse, Dr. Wijayadasa Rajapaksa said.
-
-The Minister made this observation at a discussion held at the District Secretar's Office on the issues regarding land in the Eastern Province yesterday (24).
-
-The minister said that at a meeting of the land issues and the ministerial issues, including land issues and the ministerial issues, including the people of the Eastern Province after the war period, the public secretaries have been responding to the attention of the Minister.
-
-The Minister also paid attention to the legal powers and talents of the Divisional Secretaries to deal with land.
-
-Anuradha Jayaratne, State Minister of Justice, Prison Hon.. N. Mr. Ranasinghe, Batticaloa District Secretary JJ. Mrs. Mrs. Mrs. Mrs. Eastern Divisional Secretaries were also present at the occasion.
-
-◼️
-
-[Data](articles/f6205e7f.json)
-
-[Extended Data](ext_articles/f6205e7f.ext.json)
-
----
-
-### Sri Lanka could get US$500mn from ADB in 2024
-
-*2024-02-25 08:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-could-get-us500mn-from-adb-in-2024-152051/) · `en`
-
-ECONOMYNEXT – Sri Lanka could receive 500 million US dollars in support from the Asian Development Bank in 2024 based on the progress of policy reforms, Country Director of the Manila-based lender, Takafumi Kadono said.
-
-The ADB expect to go to its Board around March or April with a 100 million US dollar power sector loan subject to the cabinet of ministers of approving a revised electricity reform bill.
-
-A 100 million dollar loan to support SMEs could also be approved in the early part of the year. Sri Lanka is setting up a credit guarantee agency to support credit for small firms.
-
-A 200 million dollar credit for financial sector was also slated for the year. The ADB gave the first tranche of the financial sector policy loan late last year.
-
-A $100mn for the water sector could also be approved later in the year.
-
-Sri Lanka could get around 200 to 300 million US dollars a year at the lowest rate, or concessional ordinary capital resources (COL) rate of 2 percent.
-
-...
-
-[Data](articles/dcf3a11a.json)
-
-[Extended Data](ext_articles/dcf3a11a.ext.json)
-
----
-
-### India, Maldives, Sri Lanka hold ’Dosti’ exercises in Indian Ocean
-
-*2024-02-25 08:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-Maldives-Sri-Lanka-hold-Dosti-exercises-in-Indian-Ocean/108-277661) · `en`
-
-Male, Feb 25 (NDTV): Seeking to enhance maritime security and interoperability, coast guard personnel from India, the Maldives and Sri Lanka have embarked on a four-day trilateral exercise to identify emerging maritime challenges in the Indian Ocean Region.
-
-Indian Coast Guard ship Samarth and ICGS Abhinav along with Sri Lanka Naval Ship Samudura reached Male on Thursday for the exercise 'DOSTI-16' that is being held between February 22 and 25. Bangladesh is participating as an observer.
-
-Coast guard helicopter ICGS Dornier too is part of the trilateral exercise 'Dosti,' which Sri Lanka said aims to enhance cooperation, strengthen friendship, improve mutual operational capability, and develop interoperability among the Coast Guard personnel of India, the Maldives, and Sri Lanka.
-
-The Maldives National Defence Force (MNDF) late Thursday evening extended a warm welcome to ADG S Paramesh, Additional Director General of the Indian Coast Guard.
-
-...
-
-[Data](articles/0a3e42ad.json)
-
-[Extended Data](ext_articles/0a3e42ad.ext.json)
-
----
-
-### Is the presidential election?
-
-*2024-02-25 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193793) · `si`
-
-In the face of the present political confusion, many MPs have already begun talks with the political alliance.
-
-If the election will be held or not, any of the elections is, no one can get into a definite situation.
-
-The reason is that the President does not make an official statement regarding the election.
-
-However, President Ranil Wickremesinghe said that this year's presidential election will be held in the first quarter of next year.
-
-However, many MPs and other ministers have faced a problem.
-
-Therefore, they have already begun negotiations with all the political alliance.
-
-But the new political alliance has not yet been created until now.
-
-◼️
-
-[Data](articles/f2ca6a12.json)
-
-[Extended Data](ext_articles/f2ca6a12.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 08:51:11**
+As of **2024-02-25 09:02:37**
 
 ## Newspaper Stats
 
-*Scraped **9,116** Articles*
+*Scraped **9,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,42 +19,90 @@ adalk | 761
 adaderanalk | 1,099
 tamilmirrorlk | 1,117
 virakesarilk | 1,241
-adaderanasinhalalk | 1,367
-dailymirrorlk | 1,371
+adaderanasinhalalk | 1,368
+dailymirrorlk | 1,372
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,111 (99.9%) of 9,116 articles have been extended.
+9,118 (100.0%) of 9,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### ඩෙංගු රෝගින්ගේ ශීඝ්‍ර පහළ යාමක්
+### India, Maldives, Sri Lanka hold ’Dosti’ exercises in Indian Ocean
+
+*2024-02-25 08:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-Maldives-Sri-Lanka-hold-Dosti-exercises-in-Indian-Ocean/108-277661) · `en`
+
+Male, Feb 25 (NDTV): Seeking to enhance maritime security and interoperability, coast guard personnel from India, the Maldives and Sri Lanka have embarked on a four-day trilateral exercise to identify emerging maritime challenges in the Indian Ocean Region.
+
+Indian Coast Guard ship Samarth and ICGS Abhinav along with Sri Lanka Naval Ship Samudura reached Male on Thursday for the exercise 'DOSTI-16' that is being held between February 22 and 25. Bangladesh is participating as an observer.
+
+Coast guard helicopter ICGS Dornier too is part of the trilateral exercise 'Dosti,' which Sri Lanka said aims to enhance cooperation, strengthen friendship, improve mutual operational capability, and develop interoperability among the Coast Guard personnel of India, the Maldives, and Sri Lanka.
+
+The Maldives National Defence Force (MNDF) late Thursday evening extended a warm welcome to ADG S Paramesh, Additional Director General of the Indian Coast Guard.
+
+...
+
+[Data](articles/0a3e42ad.json)
+
+[Extended Data](ext_articles/0a3e42ad.ext.json)
+
+---
+
+### Is the presidential election?
+
+*2024-02-25 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193793) · `si`
+
+In the face of the present political confusion, many MPs have already begun talks with the political alliance.
+
+If the election will be held or not, any of the elections is, no one can get into a definite situation.
+
+The reason is that the President does not make an official statement regarding the election.
+
+However, President Ranil Wickremesinghe said that this year's presidential election will be held in the first quarter of next year.
+
+However, many MPs and other ministers have faced a problem.
+
+Therefore, they have already begun negotiations with all the political alliance.
+
+But the new political alliance has not yet been created until now.
+
+◼️
+
+[Data](articles/f2ca6a12.json)
+
+[Extended Data](ext_articles/f2ca6a12.ext.json)
+
+---
+
+### Rapid decline in dengue patients
 
 *2024-02-25 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193792) · `si`
 
-ජනවාරි මාසයට සාපේක්ෂ ව පෙබරවාරි මාසය තුළ වාර්තා වී ඇති ඩෙංගු රෝගින්ගේ සංඛ්‍යාවේ ශීඝ්‍ර පහළ යාමක් පෙන්නුම් කරන බව ජාතික ඩෙංගු මර්දන ඒකකය පවසයි.
+The National Dengue Control Unit says that the number of dengue patients reported in February relative to January.
 
-කෙසේ වෙතත් මේ වසරේ ගත වූ කාලසීමාව තුළ ඩෙංගු මරණ 05ක් වාර්තා වී ඇති බව එම ඒකකය සඳහන් කරයි.
+However, 5 dengue deaths have been reported during the period of time.
 
-ජනවාරි මාසය වන විට 60කට අධික සංඛ්‍යාවක පැවති ඩෙංගු අධිඅවදානම් කලාප සංඛ්‍යාව ද 24ක් දක්වා පහත බැස තිබේ.
+By January, more than 24 dengue emergence zones were down to 24.
 
-ඒ අනුව පෙබරවාරි මාසයේ ගත වූ කාලය තුළ ඩෙංගු රෝගින්ගේ සංඛ්‍යාව 5,181ක් බව ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කර ඇත.
+Accordingly, the number of dengue patients is 5,181 in February.
 
-එහෙත් ජනවාරි මාසයේ දී මෙරටින් ඩෙංගු රෝගින් 10,417 දෙනෙකු හඳුනා ගැනුණු අතර, එය පසුගිය වසරේ ජනවාරි මාසයට සාපේක්ෂ ව ඉතා ඉහළ සංඛ්‍යාවක් බව සඳහන් ය.
+But in January, 10,417 dengue patients were identified in January, which was a high number of dengue in January last year.
 
-ඒ අනුව මේ වසරේ ගත වූ කාල සීමාව තුළ ඩෙංගු රොගින් 15,598 දෙනෙකු මෙරටින් හඳුනාගෙන තිබේ.
+Accordingly, 15,598 dengue patronage has been identified in this year.
 
-පෙබරවාරි මාසයේ දී  වැඩි ම රෝගින් සංඛ්‍යාවක් කොළඹ දිස්ත්‍රික්කයෙන් හඳුනාගෙන ඇති අතර, එම සංඛ්‍යාව 3,359කි.
+The highest number of patients have been identified from the Colombo District in February, one of the number is 3,359.
 
-යාපනය දිස්ත්‍රික්කයෙන් ඩෙංගු රෝගින් 3,245 දෙනෙකු හඳුනාගෙන ඇති අතර, ගම්පහ දිස්ත්‍රික්කයෙන් රෝගින් 1,324ක් සහ මහනුවර දිස්ත්‍රික්කයෙන් රෝගින් 1,052ක් හඳුනාගෙන ඇත.
+3,245 dengue patients have been identified from the Jaffna district and 1,324 patients and 1,052 patients have been identified from the Kandy district.
 
 ◼️
 
 [Data](articles/c544a0e3.json)
+
+[Extended Data](ext_articles/c544a0e3.ext.json)
 
 ---
 
@@ -92,73 +140,81 @@ Four SriLankan Airlines flights have been delayed at the Katunayake Airport so f
 
 ---
 
-### එට්කා ගිවිසුම ගැන අලි සබ්රි කියයි
+### Ali Sabri says Etka agreement
 
 *2024-02-25 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193791) · `si`
 
-ඉන්දියාව සමඟ එට්කා ගිවිසුම අත්සන් කිරීම හරහා මෙරටට කිසිදු අවාසි සහගත තත්ත්වයක් ඇති නොවන බව විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා පවසයි.
+Foreign Minister Ali Sabri says Sri Lanka does not have any disadvantage through the signing of the Etka Agreement with India.
 
-ඔහු ප්‍රකාශ කළේ, මෙරට ආර්ථිකය ගොඩ නැඟීමට නම්, ලෝක වෙළෙඳපොළ හා සම්බන්ධ වෙළෙඳ ගිවිසුම් ඇතිකර ගත යුතු බවයි.
+He stated that if it is to build the economy of the country, he should be established to establish trade agreements.
 
-අපනයනය පාදක කරගත් ආර්ථිකයකින් තොර ව රටේ ආර්ථිකය ඉහළ නංවා ගත නොහැකි බව ද අලි සබ්රි අමාත්‍යවරයා සඳහන් කර ඇත.
+Ali Sabri has said that the economy of the country cannot increase without export-based economy.
 
 ◼️
 
 [Data](articles/7aac44a5.json)
 
+[Extended Data](ext_articles/7aac44a5.ext.json)
+
 ---
 
-### පොදුජන එක්සත් පෙරමුණ ගැන අලුත් ආරංචියක් එළියට
+### New news about new news about the United Front
 
 *2024-02-25 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193790) · `si`
 
-පොදුජන එක්සත් පෙරමුණේ නව නිලධාරි මණ්ඩලය පත්කිරීම මෙම සතියේ දී සිදු වනු ඇති බව පක්ෂ අභ්‍යන්තර ආරංචි මාර්ග පවසයි.
+According to internal sources, the appointment of the new Officers of the United Front will be appointed this week.
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ අමෙරිකානු සංචාරයෙන් අනතුරු ව නව නිලධාරි මණ්ඩලය පත්කරනු ඇති බව මීට පෙර ප්‍රකාශ කර තිබිණි.
+Previously, the new office council had been appointed by the new office of the former President Maithripala Sirisena.
 
-කෙසේ වෙතත් හිටපු ජනාධිපතිවරයා සිය අමෙරිකානු සංචාරය නිමවා දිවයිනට පැමිණ සතියකට අධික කාලයක් ගත වී ඇතත් නව නිලධාරි මණ්ඩලය පත් කිරීමේ කටයුතු මේ දක්වාත් සිදු වී නැත.
+However, the former President has spent more than a week, but the appointment of the new Officers have not yet taken place.
 
-ඒ අනුව එළැඹෙන සතියේ දී බොහෝ විට නව නිලධාරි මණ්ඩලය පත් කෙරෙනු ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+Accordingly, the new Officership Board will probably be appointed in the coming week.
 
-පොදුජන එක්සත් පෙරමුණ ප්‍රමුඛ නව සන්ධානයේ නායකයා, මහලේකම්වරයා ඇතුළු තනතුරු රැසක් මෙහි දී පත්කිරීමට නියමිත ව ඇත.
+The Leadership Leaders Leading the United Front Leader is to be appointed as the Secretary General and the Secretary General.
 
-එළැඹෙන මහ මැතිවරණය සඳහා නව සන්ධානයක් යටතේ තරග කිරීමට ශ්‍රී ලංකා නිදහස් පක්ෂය තීරණය කර තිබිණි.
+The Sri Lanka Freedom Party (SLFP) had decided to contest the coming general election.
 
-බුලත් කොළය ලකුණින් එක්සත් ජනතා නිදහස් සන්ධානය යටතේ තරග කිරීමට තීරණය කළ ද එහි මහලේකම් ධුරය සම්බන්ධයෙන් මතු ව ඇති අර්බුදකාරී තත්ත්වය මත ඔවුහු පොදුජන එක්සත් පෙරමුණ යටතේ නව සන්ධානය ගොඩනැඟීමට තීරණය කළ හ.
+They decided to compete under the UPFA mark under the United People's Freedom Alliance (UPFA).
 
 ◼️
 
 [Data](articles/c056aa37.json)
 
+[Extended Data](ext_articles/c056aa37.ext.json)
+
 ---
 
-### ගුවන් ගමන් 04ක් ප්‍රමාද වෙයි
+### Four flights delay
 
 *2024-02-25 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193789) · `si`
 
-ශ්‍රීලන්කන් ගුවන් සේවයට අයත් ගුවන් යානා 04ක් අද (25) උදෑසන සිට මේ දක්වා ප්‍රමාද වී තිබේ.
+Four aircrafts belonging to SriLankan Airlines have been delayed from this morning (25).
 
-භූමි කාර්‍ය මණ්ඩලය (ground staff) සිය රාජකාරි කිහිපයක් ඉටු කිරීමෙන් වැළකී සිටීම නිසා මෙම ප්‍රමාදය සිදු වී ඇත.
+The delay has taken place due to the guard of land staff (Ground STAFF).
 
 ◼️
 
 [Data](articles/3a7b9904.json)
 
+[Extended Data](ext_articles/3a7b9904.ext.json)
+
 ---
 
-### අධ්‍යාපනයේ විශේෂ ප්‍රතිසංස්කරණයක්
+### Special reforms of education
 
 *2024-02-25 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193788) · `si`
 
-අධ්‍යාපනය ඩිජිටල්කරණය කිරීමේ නියමු ව්‍යාපෘතිය මාර්තු මාසයේ සිට ආරම්භ කිරීමට සැලසුම් කර ඇති බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+Minister of Education Susil Premajayantha says that the digital pilot project is scheduled to commence education from March.
 
-ඔහු ප්‍රකාශ කළේ, ඒ සඳහා ගුරුවරුන් පුහුණු කිරීමේ කටයුතු ද මේ හා සමගාමී ව සිදු කිරීමට නියමිත බවයි.
+He stated that teachers training will be conducted simultaneously.
 
-ගාල්ල - තවලම විද්‍යාරාජ ජාතික පාසලේ නව තාක්ෂණ පීඨ ගොඩනැඟිල්ල විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා මේ බව සඳහන් කළේ ය.
+Minister of Education Susil Premajayantha made this statement participating at the opening of the new technology faculty of the Thawalama Vidyarama National School.
 
 ◼️
 
 [Data](articles/9259e165.json)
+
+[Extended Data](ext_articles/9259e165.ext.json)
 
 ---
 
@@ -2027,45 +2083,5 @@ The deceased is a 16 year old schoolgirl, a 16 year old resident of Halvitigala 
 [Data](articles/c2dc4364.json)
 
 [Extended Data](ext_articles/c2dc4364.ext.json)
-
----
-
-### Sri Lanka ready to face any radiation emission if nuclear attack occurs: SLAERC
-
-*2024-02-24 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-ready-to-face-any-radiation-emission-if-nuclear-attack-occurs-SLAERC/108-277647) · `en`
-
-Colombo, Feb. 24 (Daily Mirror)- Sri Lanka is ready to face any radiation emission if a nuclear accident occurs in the region, Sri Lanka Atomic Energy Regulatory Council told a Parliamentary Committee recently.
-
-They informed this to the Sectoral Oversight Committee on Energy and Transport, which met in Parliament recently under the chairmanship of MP Nalaka Bandara Kottegoda.
-
-The officials of the Sri Lanka Atomic Energy Regulatory Council told the committee that they were equipped with human resources and equipment to face any radiation emission from a nuclear attack.
-
-◼️
-
-[Data](articles/b5528eb3.json)
-
-[Extended Data](ext_articles/b5528eb3.ext.json)
-
----
-
-### Mother -in -law beaten;Nephew escapes
-
-*2024-02-24 10:33:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மாமியார்-அடித்து-கொலை-மருமகன்-தப்பியோட்டம்/73-333731) · `ta`
-
-Valaichenai police said that the incident took place at 9 pm on Friday (23) at 9 pm.
-
-The deceased is 45 -year -old Vairamuthu Gomatani, a 45 -year -old from Wadieri Koolayadichenai.
-
-The daughter of the deceased and her husband is living with her mother and her mother who has gone abroad for employment opportunities.
-
-The 30 -year -old son -in -law has fled the scene after he died after he died after he died after a massive object was attacked by a mother -in -law when he was in a lonely mother -in -law.
-
-Subsequently, the police informed the police that the police went to the scene and were conducting investigations and taking steps to recruit the body for autopsy.
-
-◼️
-
-[Data](articles/55bf745a.json)
-
-[Extended Data](ext_articles/55bf745a.ext.json)
 
 ---

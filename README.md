@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 02:17:17**
+As of **2024-02-26 02:32:45**
 
 ## Newspaper Stats
 
-*Scraped **9,239** Articles*
+*Scraped **9,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 487
 adalk | 776
 adaderanalk | 1,118
 tamilmirrorlk | 1,135
-virakesarilk | 1,253
+virakesarilk | 1,254
 dailymirrorlk | 1,388
 adaderanasinhalalk | 1,395
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,236 (100.0%) of 9,239 articles have been extended.
+9,239 (100.0%) of 9,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### நுவரெலியா குதிரை பந்தய திடலில் இடம்பெற்ற குதிரைப் பந்தய ஓட்ட போட்டி!
+
+*2024-02-26 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177282) · `ta`
+
+வெளிநாட்டுச் சுற்றுலாப் பயணிகளின் வருகையை அதிகரிக்கும் நோக்கில் இலங்கை விளையாட்டுத் துறை அமைச்சர் ஹரீன் பெனார்ன்டோவின் ஆலோசனைக்கமைய "ரோயல் டேப்" கிளப்பினால் நுவரெலியாவில் குதிரை ஓட்ட போட்டி  சனிக்கிழமை (24) இடம்பெற்றது.
+
+நுவரெலியா குதிரை பந்தய திடலில் சனிக்கிழமை (24)  இடம்பெற்ற குதிரை ஓட்ட போட்டியில் நான்கு சுற்றுப் போட்டிகள் இடம்பெற்றது.
+
+இதன்போது இடம்பெற்ற முதலாவது மற்றும் இரண்டாவது சுற்றுப் போட்டியில் அசரங்க மற்றும் பிரபா ஜெயரத்தின ஆகிய குதிரை பந்தய உரிமையாளர்களின் சார்பாகப் போட்டியில் பங்கு பெற்றிருந்த குதிரை ஓட்ட வீரர் பி.விக்ரமன் என்பவர் வெற்றி பெற்றார்.
+
+அதேநேரத்தில் இடம்பெற்ற மூன்றாவது மற்றும் நான்காவது சுற்று குதிரை ஓட்ட போட்டியில் எல்.ரவிக்குமார்,மற்றும் பி. எஸ் கவிராஜ் ஆகியோர் வெற்றி பெற்றிருந்தார்கள்.
+
+இவ்விரு போட்டியாளர்களும் திரு, திருமதி எட்வர்ட் என்பவரின் குதிரைப் பந்தயத்தின் உரிமையாளர் சார்பாகப் போட்டியில்  பங்குப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/0d3b5065.json)
+
+---
 
 ### Tax is not a Monster, but…
 
@@ -68,6 +88,8 @@ Mendis was the Deputy Chairman and Group Director of the Delmege Forsyth Group f
 
 [Data](articles/6da5d1ca.json)
 
+[Extended Data](ext_articles/6da5d1ca.ext.json)
+
 ---
 
 ### SriLankan Airlines clarifies delays
@@ -84,6 +106,8 @@ In a related development, the Ministry of Ports, Shipping and Aviation said SriL
 
 [Data](articles/d0b06622.json)
 
+[Extended Data](ext_articles/d0b06622.ext.json)
+
 ---
 
 ### AMW appoints Andre Bonthuys as new Group Managing Director, pledging revitalisation and growth
@@ -99,6 +123,8 @@ AMW is known for its innovation and commitment to quality, catering to its loyal
 ...
 
 [Data](articles/f7136e96.json)
+
+[Extended Data](ext_articles/f7136e96.ext.json)
 
 ---
 
@@ -2077,23 +2103,5 @@ The 14th round of negotiations between Sri Lanka and India on the ETCA are sched
 [Data](articles/5c8c00f1.json)
 
 [Extended Data](ext_articles/5c8c00f1.ext.json)
-
----
-
-### SriLankan clarifies flight delays
-
-*2024-02-25 10:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-clarifies-flight-delays/108-277666) · `en`
-
-Colombo, Feb 25 (Daily Mirror) - SriLankan Airlines clarified that the delays experienced by passengers at the check-in counters in Bandaranaike International Airport during the early hours of the morning were due to temporary, unplanned operational conditions at the airport and not any form of trade union action.
-
-The check-in counter operations have since stabilized and returned to normal.
-
-SriLankan Airlines extends apologies to any inconvenienced passengers and assures continued monitoring of the situation to prevent recurrence.
-
-◼️
-
-[Data](articles/2220e152.json)
-
-[Extended Data](ext_articles/2220e152.ext.json)
 
 ---

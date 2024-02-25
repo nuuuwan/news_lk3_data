@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 09:17:13**
+As of **2024-02-25 09:33:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,372
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,118 (100.0%) of 9,119 articles have been extended.
+9,119 (100.0%) of 9,119 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,8 @@ The fire was put out by 6:00 a.m. (2200 GMT Thursday) and the search and rescue 
 ...
 
 [Data](articles/96167940.json)
+
+[Extended Data](ext_articles/96167940.ext.json)
 
 ---
 

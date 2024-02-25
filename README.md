@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 02:32:45**
+As of **2024-02-26 02:49:00**
 
 ## Newspaper Stats
 
-*Scraped **9,240** Articles*
+*Scraped **9,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,105 @@ dailyftlk | 487
 adalk | 776
 adaderanalk | 1,118
 tamilmirrorlk | 1,135
-virakesarilk | 1,254
-dailymirrorlk | 1,388
+virakesarilk | 1,256
+dailymirrorlk | 1,390
 adaderanasinhalalk | 1,395
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,239 (100.0%) of 9,240 articles have been extended.
+9,240 (100.0%) of 9,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### நுவரெலியா குதிரை பந்தய திடலில் இடம்பெற்ற குதிரைப் பந்தய ஓட்ட போட்டி!
+### ஜனாதிபதி தேர்தலில் ரணில் விக்ரமசிங்க கட்சி சார்பற்ற வேட்பாளராக களமிறங்குவார் - ஐ.தே.க. முன்னாள் பாராளுமன்ற உறுப்பினர் ரவி கருணாநாயக்க
 
-*2024-02-26 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177282) · `ta`
+*2024-02-26 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177284) · `ta`
 
-வெளிநாட்டுச் சுற்றுலாப் பயணிகளின் வருகையை அதிகரிக்கும் நோக்கில் இலங்கை விளையாட்டுத் துறை அமைச்சர் ஹரீன் பெனார்ன்டோவின் ஆலோசனைக்கமைய "ரோயல் டேப்" கிளப்பினால் நுவரெலியாவில் குதிரை ஓட்ட போட்டி  சனிக்கிழமை (24) இடம்பெற்றது.
+ஒக்டோபர் மாதம் இடம்பெறும் ஜனாதிபதி தேர்தலில் விரிவான கூட்டணி அமைக்க இருக்கிறோம். அதில்  ரணில் விக்ரமசிங்க கட்சி சார்பற்ற வேட்பாளராக களமிறங்குவார் என ஐக்கிய தேசிய கட்சி முன்னாள் பாராளுமன்ற உறுப்பினர் ரவி கருணாநாயக்க தெரிவித்தார்.
 
-நுவரெலியா குதிரை பந்தய திடலில் சனிக்கிழமை (24)  இடம்பெற்ற குதிரை ஓட்ட போட்டியில் நான்கு சுற்றுப் போட்டிகள் இடம்பெற்றது.
+கொழும்பில் ஞாயிற்றுக்கிழமை (25) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
 
-இதன்போது இடம்பெற்ற முதலாவது மற்றும் இரண்டாவது சுற்றுப் போட்டியில் அசரங்க மற்றும் பிரபா ஜெயரத்தின ஆகிய குதிரை பந்தய உரிமையாளர்களின் சார்பாகப் போட்டியில் பங்கு பெற்றிருந்த குதிரை ஓட்ட வீரர் பி.விக்ரமன் என்பவர் வெற்றி பெற்றார்.
-
-அதேநேரத்தில் இடம்பெற்ற மூன்றாவது மற்றும் நான்காவது சுற்று குதிரை ஓட்ட போட்டியில் எல்.ரவிக்குமார்,மற்றும் பி. எஸ் கவிராஜ் ஆகியோர் வெற்றி பெற்றிருந்தார்கள்.
-
-இவ்விரு போட்டியாளர்களும் திரு, திருமதி எட்வர்ட் என்பவரின் குதிரைப் பந்தயத்தின் உரிமையாளர் சார்பாகப் போட்டியில்  பங்குப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+நாடு தற்போதுள்ள பொருளாதார நெருக்கடி நிலையில், நாட்டை மீட்பதற்குத் தனி ஒரு கட்சியால் முடியாது. அனைவரின் ஒத்துழைப்பு அவசியமாகும். அதனால் எதிர்வரும் ஒக்டோபர் மாதம் இடம்பெறும் ஜனாதிபதி தேர்தலில் மக்களுக்காக அர்ப்பணிப்புடன் வேலை செய்ய முடியுமான அனைத்து தரப்பினரையும் ஒன்றிணைத்துக்கொண்டு விரவான கூட்டணி ஒன்றை அமைக்க இருக்கிறோம். அதுதொடர்பான நடவடிக்கைகள் தற்போது இடம்பெற்று வருகின்றன. அந்த கூட்டணியில் ரணில் விக்ரமசிங்க கட்சி சார்பற்ற வேட்பாளராக  களமிறங்குவார்.
 
 ...
 
+[Data](articles/42811ae5.json)
+
+---
+
+### எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மல்வத்து மற்றும் அஸ்கிரிய பீட மகாநாயக்க தேரர்களைச் சந்தித்தார்
+
+*2024-02-26 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177283) · `ta`
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஞாயிற்றுக்கிழமை (25) கண்டியில், மல்வத்து மகா விகாரையின் மகாநாயக்க தேரர் திப்படுவாவே ஸ்ரீ சுமங்கல தேரர், மல்வத்து பீடத்தின் அனுநாயக்க திம்புல் கும்புரே ஸ்ரீ விஜய தம்ம தேரர், அஸ்கிரிய பீடத்தின் மகாநாயக்க தேரர் வரகாகொட ஸ்ரீ ஞானரதன தேரர் மற்றும் அஸ்கிரி பீடத்தின் பிரதான ஆவணக் காப்பாளர் மெதகம தம்மானந்த தேரர்களை சந்தித்து,நலன் விசாரித்து தனது எதிர்கால அரசியல் பயணத்திற்கு ஆசிகளைப் பெற்றுக் கொண்டார்.
+
+இந்த வங்குரோத்து நிலையில் இருந்து நாட்டை மீட்பதே எமக்கு உள்ள ஒரே சவால்
+
+ஐக்கிய மக்கள் சக்தி ஏனைய அரசியல் கட்சிகள் முன்வைக்கும் விடயங்களுக்கு  பதிலளிக்காமல், நாட்டின் வங்குரோத்து நிலையுடன் இந்நாட்டில் பெண்கள் தலைமையிலான ஏனைய சமூகம் எதிர்நோக்கும் பாரதூரமான அவல நிலைக்கு பதில்களையும் தீர்வுகளையும் வழங்கவே செயற்படுகின்றது. பெண்களை பலர் மறந்துவிட்ட இந்த வேளையில், இன்று நேற்றல்ல 2019 ஆம் ஆண்டிலயே பெண்களுக்கான சாசனம் தயாரிக்கப்பட்டுள்ளதாகவும், அதன் நீட்சியே நேற்றைய நிகழ்வு என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/a771e7eb.json)
+
+---
+
+### Horse Racing Tournament at Nuwara Eliya Horse Racing
+
+*2024-02-26 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177282) · `ta`
+
+The Royal Tape Club was held on Saturday (24) by the "Royal Tape" club on the advice of Sri Lanka's Sports Minister Harin Benorno to increase the arrival of foreign tourists.
+
+Four tournaments were held on Saturday (24) at the Nuwara Eliya Horse Racing Tournament.
+
+In the first and second round of the event, P. Vikraman, a horse rider, won the competition on behalf of the horse racing owners of Asaranga and Prabha Jayaratne.
+
+At the same time, L. Ravikumar, and B.. S Gaviraj was also a success.
+
+It is noteworthy that the two contestants participated in the competition on behalf of the owner of Mr. Edward's horse race.
+
+In Nuwara Eliya, the horse racing competition, which was held in Nuwara Eliya before the upcoming April, participated in all four rounds.
+
+The event was attended by foreign passengers and many dignitaries.
+
+◼️
+
 [Data](articles/0d3b5065.json)
+
+[Extended Data](ext_articles/0d3b5065.ext.json)
+
+---
+
+### Heatwaves and Dry Spell Warnings but no Remedial Alternatives - EDITORIAL
+
+*2024-02-26 01:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Heatwaves-and-Dry-Spell-Warnings-but-no-Remedial-Alternatives-EDITORIAL/172-277681) · `en`
+
+Sri Lanka is presently caught up in the middle of a heatwave. The Department of Meteorology had forecast the present spell of dry weather some months earlier. As is usual in our country, other than a few media outlets making passing mention of the forecast, neither the government nor the private sector has made plans to mitigate or counter the effects of the present spell of dry weather.
+
+Even worse, the Meteorology Department authorities too are sending out mixed signals regarding the effects of the ‘heatwave’. On one hand, it warns the public to take protective measures by limiting exposure to the sun, recommends greater intake of liquids (water), etc, while at the same time claiming present conditions are merely statistics on a Heat Index.
+
+...
+
+[Data](articles/28b2184f.json)
+
+---
+
+### Navalny Died Trying to Politicise the Russians
+
+*2024-02-26 01:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Navalny-Died-Trying-to-Politicise-the-Russians/172-277680) · `en`
+
+The sudden, mysterious death of Aleksei Navalny, the charismatic Russian Opposition Leader imprisoned on trumped up charges, came as a shock to many. It’s not totally surprising, however, given the long list of Russians killed by gunmen or by poisoning over the past decade. They all have one thing in common, running afoul of the Kremlin (which is Vladimir Putin) for one reason or another.
+
+The shadowy Yevgeny Prigozhin, Head of the Wagner Mercenary Group (with close ties to Putin) who led an armed rebellion against Putin from Ukraine in June 2023, died in a plane crash with top associates in August 2023.
+
+Little noticed was the murder of Maksim Kuzminov, a Russian helicopter pilot who defected from the fighting in Ukraine. He was shot dead in February this year near Alicante in Spain. Spanish intelligence services accused the Kremlin of orchestrating the killing.
+
+...
+
+[Data](articles/1a583a35.json)
 
 ---
 
@@ -2021,87 +2089,5 @@ In addition, the police handed over the girl who went with the young man to thei
 [Data](articles/d57bb46d.json)
 
 [Extended Data](ext_articles/d57bb46d.ext.json)
-
----
-
-### SriLankan apologizes
-
-*2024-02-25 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193798) · `si`
-
-SriLankan Airlines has issued a press release regarding the delay incurred delay in the air travel today (25).
-
-The SriLankan Airlines has stated that the delays were caused by a temporary and non-planned operation.
-
-The company has noted that it is not caused by any trade union action.
-
-Also, SriLankan Airlines is forgiven of the inconvenience caused by delay.
-
-SriLankan Airlines is also expected to prevent such a situation again.
-
-◼️
-
-[Data](articles/a3649495.json)
-
-[Extended Data](ext_articles/a3649495.ext.json)
-
----
-
-### President orders probe into notification requiring Russian, Ukraine tourists to leave within 14 days
-
-*2024-02-25 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97514/president-orders-probe-into-notification-requiring-russian-ukraine-tourists-to-leave-within-14-days-) · `en`
-
-President Ranil Wickremesinghe has ordered an investigation into the notification issued to Russian and Ukrainian tourists, requiring them to leave the country within 14 days.
-
-According to the President’s Media Division (PMD), the relevant notification was issued by the Department of Immigration and Emigration without prior approval from the Cabinet of Ministers.
-
-As such, the Government of Sri Lanka has not officially decided to revoke the visa extensions previously granted to these tourists who have been staying in the country since the start of the Russia-Ukraine war, the PMD reported.
-
-The Department of Immigration and Emigration recently issued a notice, granting a period of 14 days from 23 February for all Russian and Ukrainian tourists residing long-term in Sri Lanka to leave the country.
-
-The department had stated that it would no longer keep extending tourist visas free of charge for Russians and Ukrainians who had started staying back in Sri Lanka two years ago, owing to the war.
-
-...
-
-[Data](articles/4c6ed595.json)
-
-[Extended Data](ext_articles/4c6ed595.ext.json)
-
----
-
-### Police arrest Chinese woman over Rs. 8.4 million fraud
-
-*2024-02-25 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-arrest-Chinese-woman-over-Rs-8-4-million-fraud/108-277667) · `en`
-
-Colombo, Feb 25 (Daily Mirror) - A Chinese woman was arrested in connection with a fraud exceeding Rs. 8.4 million, Police said.
-
-The woman was arrested in Kollupitiya on Saturday following investigations into a complaint received by the Colombo Fraud Investigation Bureau on January 31. The complaint alleged that the woman had obtained the money for business ventures and had failed to return it.
-
-The arrested woman, a 52-year-old Chinese national, is currently under investigation by the Colombo Fraud Investigation Bureau.
-
-◼️
-
-[Data](articles/5971edfa.json)
-
-[Extended Data](ext_articles/5971edfa.ext.json)
-
----
-
-### Minister assures ETCA will not be disadvantageous to Sri Lanka
-
-*2024-02-25 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97513/minister-assures-etca-will-not-be-disadvantageous-to-sri-lanka) · `en`
-
-Foreign Affairs Minister Ali Sabry has assured that signing the Economic and Technology Cooperation Agreement (ETCA) with India will have no disadvantageous result to Sri Lanka.
-
-Accordingly, the Minister emphasised that trade agreements with the global market must be established if Sri Lanka’s economy is to be built and strengthened, and highlighted that the country’s economy cannot be further boosted in the absence of an export-based economy.
-
-India has expressed hopes for the early conclusion of the ETCA, which seeks to add to the existing free trade agreement with Sri Lanka, to pave the way to boost the island’s export potential.
-
-The 14th round of negotiations between Sri Lanka and India on the ETCA are scheduled to be held in New Delhi, in the first week of March 2024.
-
-◼️
-
-[Data](articles/5c8c00f1.json)
-
-[Extended Data](ext_articles/5c8c00f1.ext.json)
 
 ---

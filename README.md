@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 09:33:00**
+As of **2024-02-25 09:51:53**
 
 ## Newspaper Stats
 
-*Scraped **9,119** Articles*
+*Scraped **9,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ dailyftlk | 483
 islandlk | 486
 adalk | 761
 adaderanalk | 1,100
-tamilmirrorlk | 1,117
+tamilmirrorlk | 1,118
 virakesarilk | 1,241
-adaderanasinhalalk | 1,368
+adaderanasinhalalk | 1,370
 dailymirrorlk | 1,372
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,119 (100.0%) of 9,119 articles have been extended.
+9,122 (100.0%) of 9,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### Unidentified bodies found
+
+*2024-02-25 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193795) · `si`
+
+Four unidentified bodies have been found in several parts of the island, police said.
+
+Police say the bodies were found in Kuruwita, Peliyagoda, Marawila and Ragama.
+
+The Kuruwita had a naked body in Kuruwita police division in Pingwala area.
+
+It is reported that the corpse has not been identified until the age of 35 and 40 years old and about 8 feet of height.
+
+Meanwhile, a person's unidentified body has been found among the Peligoda - 04 Post and Paktiye Junction.
+
+The victim is about 55 years old.
+
+The last time he was dressed in a white and black T-shirt.
+
+Meanwhile, a unidentified body of a stranger has been found in the Jayatgama area in Marawila.
+
+The victim is about 65-year-old height.
+
+Meanwhile, an unidentified body has been found in front of a private company in the hospital round of Ragama-Kadawatha road.
+
+The victim has not yet been identified, and the deceased is about five feet and a male aged at the age of 60 and 65.
+
+He has acquired a gray gray and black and wearing a T-shirt.
+
+◼️
+
+[Data](articles/ad091c2b.json)
+
+[Extended Data](ext_articles/ad091c2b.ext.json)
+
+---
+
+### Youth killed in drowning
+
+*2024-02-25 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193794) · `si`
+
+Among the people who were drinking in Bathewa - Dickwella - two men were hit by the waves.
+
+After taking out of the coast, the people were killed when they were taken to the hospital at the Bethagama hospital and the other was disappeared.
+
+The deceased is a resident of Balangoda - Balangoda, aged 27, a resident of Balangoda, aged 25.
+
+Investigations have revealed that they were in danger when they were a grief.
+
+Police life officers are engaged in search of the disappearance of the disappearance of the Tangalle.
+
+◼️
+
+[Data](articles/edd640a6.json)
+
+[Extended Data](ext_articles/edd640a6.ext.json)
+
+---
 
 ### India, Maldives, Sri Lanka hold ’Dosti’ exercises in Indian Ocean
 
@@ -287,6 +345,26 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/263ea413.json)
 
 [Extended Data](ext_articles/263ea413.ext.json)
+
+---
+
+### Discussion on Fisheries issue
+
+*2024-02-25 05:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்-பிரச்சினை-தொடர்பில்-கலந்துரையாடல்/175-333751) · `ta`
+
+The Sri Lankan government has asked India to come forward to discuss the fishermen issue.
+
+External Affairs Minister Ali Sabri has said that the Ministry of Foreign Affairs of Sri Lanka has requested India to discuss the matter.
+
+The Minister of External Affairs has said that India's response is looking forward to the fishermen's problem.
+
+Ali Sabri said that the Ministry of Fisheries will engage in these talks and the Foreign Ministry will participate in the matter.. (A)
+
+◼️
+
+[Data](articles/ccff1eb9.json)
+
+[Extended Data](ext_articles/ccff1eb9.ext.json)
 
 ---
 
@@ -2011,75 +2089,5 @@ Various people and groups are trying to disrupt this program. We have received i
 [Data](articles/9486f4b1.json)
 
 [Extended Data](ext_articles/9486f4b1.ext.json)
-
----
-
-### Shows the gain of a night economy
-
-*2024-02-24 11:02:24* · [`adalk`](https://www.ada.lk/breaking_news/රාත්‍රී-ආර්ථිකයක-වාසි-ඩයනා-පෙන්වයි/11-408250) · `si`
-
-Minister of Tourism Diana Gamage said that the country's foreign exchange could increase by 70% by turning to a night economy.
-
-The government minister said that the necessary facilities should be facilitated with the prevailing regulations of the tourist attraction.
-
-The Minister of Tourism Diana Gamage was speaking at a press conference held at the Presidential Media Center by a "stable country."
-
-The Minister of State pointed out that the night economy will play an important role in the late night's economy.
-
-"Various role in the night-day entertainment activities play considerable role to increase the economy of a country. At night, the country's foreign exchange has increased by 70% to the night economy, including entertainment and restaurants in the night.. Most countries in the world get the contribution of the night economy for economic growth.
-
-...
-
-[Data](articles/43092b91.json)
-
-[Extended Data](ext_articles/43092b91.ext.json)
-
----
-
-### Lellama shooting: Two more youths arrested over attempted murder
-
-*2024-02-24 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97494/lellama-shooting-two-more-youths-arrested-over-attempted-murder) · `en`
-
-The police have arrested two more suspects implicated in the recent attempted murder of a man in Lellama area of Modara.
-
-On February 16, two unidentified assailants who had arrived on a motorcycle had opened fire at a man.
-
-Accordingly, this duo was arrested in Modara and Grandpass areas for allegedly aiding and abetting the shooting.
-
-The two suspects, aged 19 and 28 years, are reportedly residents of Colombo 14 and 15 areas.
-
-Investigating officers have also found 5g 800mg of heroin on one of the suspects.
-
-As such, a total of 5 suspects including two teens have thus far been apprehended in connection with the murder attempt, according to the police.
-
-Modara Police and the CCD are conducting further investigations into this attempted murder.
-
-◼️
-
-[Data](articles/ee2b42bb.json)
-
-[Extended Data](ext_articles/ee2b42bb.ext.json)
-
----
-
-### Govt
-
-*2024-02-24 10:58:18* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-සම්මාන-සහ-ගෞරව-නාම-ලබාදීම-ගැන-රජයෙන්-විශේෂ-නිවේදනයක්/11-408249) · `si`
-
-The Secretary to the President Saman Ekanayake has instructed public officials to take legal action against non-legitimate and honorary.
-
-The Presidential Secretariat is observed by various individuals and NGOs using the names of the National Awards and NGOs who are selected by the President on a formal procedure, based on a formal procedure.has.
-
-The Presidential Secretary of the President should immediately stop the honors used by the National Awards to the National Awards, the Presidential Secretary to the National Awards.It also emphasizes that the law is implemented.
-
-In 1986, the President has introduced national awards from a special gazette notification No. 387/3 and 03.02.1986.. Extraordinary Gazette, Extraordinary Gazette, No. 627/8, No. 627/8, No. 627/8, No.The National Awards will be amended by the National Awards.
-
-The Cabinet note that President Ranil Wickremesinghe has introduced the two New Cabinet / 95/1, "Excellent Republic Abhimani".
-
-...
-
-[Data](articles/a72162af.json)
-
-[Extended Data](ext_articles/a72162af.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 21:33:09**
+As of **2024-02-25 21:51:52**
 
 ## Newspaper Stats
 
@@ -26,53 +26,63 @@ adaderanasinhalalk | 1,392
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,215 (99.9%) of 9,220 articles have been extended.
+9,220 (100.0%) of 9,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### දියණියගේ මරණය ගැන පියාගෙන් රිජ්වේ රෝහලට චෝදනාවක්
+### Father has been accused of daughter's death
 
 *2024-02-25 20:52:07* · [`adalk`](https://www.ada.lk/breaking_news/දියණියගේ-මරණය-ගැන-පියාගෙන්-රිජ්වේ-රෝහලට-චෝදනාවක්/11-408269) · `si`
 
-හෘදය වස්තුවේ සිදුරක සැත්කමක් සඳහා සඳහා  කොළඹ  රිජ්වේ  ආර්යා ළමා රෝහල වෙත ඇතුලත් කල තම දියණිය මියගියේ රෝහල් කාර්ය මණ්ඩලයේ වරදින් බව ඇයගේ පියා වන උපුල් ප්‍රියන්ත මහතා පවසයි.
+Her father, Upul Priyantha says that his daughter has been accused of a holiday staff of the Hall staff of the Head of the Heart.
 
-මෙලෙස මියගොස් තිබුනේ පන්නිපිටිය පැලැන්වත්ත  හොරණ පාර පදිංචිව සිටි ආස්නා සෙනදි නමැති වයස අවුරුදු 3 යි මාස 3 ක් වයසැති  සිඟිත්තියකි.
+The victim was a 3-month old year old, a resident of Palanwatta, Pannipitiya, Pannipitiya, Pannipitiya.
 
-ඇය යසාරා රන්මිණි 29 හා උපුල් ප්‍රියන්ත 33 යන යුවළගේ දෙටු දියණියයි.
+She is the crowd of Yasara Ranmini and the couple of Upul Priyantha 33.
 
-පියා පවසන්නේ තම දියණියගේ සෙම්ප්‍රතිශ්‍යාව  රෝගී තත්ත්වයට වෛද්‍යවරුන් නිසි ප්‍රතිකාර නොකිරීම හේතුවෙන්  තම දියණිය ට නිව් මෝනියා රෝගය වැළඳුන බවයි.
+The father says that his daughter had used New Moonia due to the non-treatment of the children of his daughter.
 
-ඉකුත්  ජනවාරි 8 වෙනි දින රිජ්වේ ආර්යා ළමා රෝල වෙත ඇතුළත් කර තිබූ තම දියණියට අංක 20 ඒ වාට්ටුවේ ප්‍රතිකාර ලැබූ බවත්  රෝහ‍ලේදී කැස්ස සහ හෙම්බිරිස්සාව සෑදුණු නමුත් නිසි ප්‍රතිකාරයක් ලබා නුදුන් බවත් රෝහල් කාර්ය මණ්ඩලය එය ගණන් නොගත් බවත් දරුවාගේ පියා පවසයි.
+The child's father says that the hospital staff had not been treated at the ward, which was admitted to the Lady of Lady 8th January 8.
+
+He further said that although he had been treated by a doctor, he had been treated with a slightly healed her daughter and her daughter was in the case of the 21st after the 21st of his daughter.
+
+The father added that his daughter had died on the morning 24 night.
+
+Lady Ridgeway Hospital Medical Director Ji.When contacted, Wijesuriya said:
 
 ...
 
 [Data](articles/53b6a23f.json)
 
+[Extended Data](ext_articles/53b6a23f.ext.json)
+
 ---
 
-### ජම්පටාවීදියේ වෙඩිතැබීම ගැන තොරතුරු එළියට
+### Information about the shooting of jampaavi
 
 *2024-02-25 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193817) · `si`
 
-කොළඹ ජම්පටාවීදිය පොලිස් මුරපොළ ආසන්නයේ දහවල් සිදකළ වෙඩිතැබීමේ සිද්ධිය ගැන තවත් තොරතුරු කිහිපයක් මේ වනවිට අනාවරණය වී තිබේ.
+Several further information has been revealed that the shooting incident of the Colombo Jumphendiya police post.
 
-මෙලෙස වෙඩි ප්‍රහාරයට ලක්ව තිබුණේ 55 හැවිරිදි මොහොමඩ් රිල්වාන් නමැති පුද්ගලයෙකි.
+The shooting was shot dead, 55-year-old Mohamed Relwan.
 
-මේ වනවිට අනාවරණය වී ඇත්තේ වෙඩිවැදුණු තැනැත්තා ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වන පූකුඩුකන්නාගේ සමීපතයෙකු බවටය.
+It is revealed that the victim was a strong drug dealer, Pookunduknana, a strong drug dealer.
 
-කලක පටන් පූකුඩුකන්නා සහ කුඩු සෙල්විගේ පුතාවන රිමෝෂන් නැමැත්තා අතර පැවති ආරවුලක ප්‍රතිඵලයක් ලෙස මෙම වෙඩිතැබීම සිදුකර ඇති බවට පොලීසිය සැකපළ කරයි.
+The police suspect that the shooting has been made as a result of a dispute between Rimantukman and Kudu Selvi's son.
 
-ජම්පටාවීදිය පොලිස් මුරපොළ ආසන්නයේ නිව්හැම් චතුරස්‍රයේදී අද (25) දහවල් 1.45ට පමණ එම වෙඩි තැබීම සිදුකර තිබුණි.
+The shooting was carried out at around 1.45 pm at the NewHam Square near the police checkpoint.
 
-එහිදී තුවාල ලැබූ රිල්වාන් නමැති එම පුද්ගලයා කොළඹ ජාතික රෝහලට ඇතුළත් කෙරිණි.
+The victim was rushed to the Colombo National Hospital.
 
-යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු කුකුළු මස් වෙළෙඳසැලක් අසළට පැමිණ මෙම වෙඩි තැබීම සිදුකර පළායන අයුරු අසළ තිබූ සීසීටීවී කැමරාවක සටහන්ව ඇත.
+Two persons from a motorbike have come to a chicken shooting near a chicken shooting and shooting.
 
 ◼️
 
 [Data](articles/cc491689.json)
+
+[Extended Data](ext_articles/cc491689.ext.json)
 
 ---
 
@@ -96,19 +106,23 @@ The fishermen association leaders said that they will continue with the strike e
 
 ---
 
-### ரணில் பொது வேட்பாளராக பொது சின்னத்திலேயே போட்டி
+### Ranil contests as common candidate in public symbol
 
 *2024-02-25 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177278) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க நிச்சயமாக  அடுத்த ஜனாதிபதி தேர்தலில் போட்டியிடுவார். ஆனால் ஜனாதிபதி ஐக்கிய தேசிய கட்சியில் போட்டியிட மாட்டார். அவர் கட்சி பேதமற்ற பொது வேட்பாளராக சின்னத்தில் களமிறங்குவார் என்று ஐக்கிய தேசிய கட்சியின் முக்கியஸ்தரும் முன்னாள் நிதி அமைச்சருமான ரவி கருணாநாயக்க தெரிவித்தார்.
+President Ranil Wickremesinghe will definitely contest the next presidential election. But the president will not contest the United National Party. Ravi Karunanayake, a UNP chief and former finance minister, said that he would field the party as a party -free general candidate.
 
-சமகால அரசியல் விவகாரங்கள், ஜனாதிபதி தேர்தல், பொருளாதார மீட்சி நடவடிக்கைகள், இனப்பிரச்சனைக்கான அரசியல் தீர்வு விவகாரம்,  ஐக்கிய தேசிய கட்சி கடந்த 2020 ஆம் ஆண்டு பாராளுமன்ற தேர்தலில் தோல்வியடைந்தமை உள்ளிட்ட பல்வேறு விடைகள் தொடர்பாக அவர் இந்த செவ்வியின் போது பதிலளித்தார்.
+He responded to various answers, including contemporary political affairs, presidential election, economic recovery, political settlement for ethnic problem, and the UNP lost the 2020 parliamentary elections.
 
-முக்கியமாக அடுத்த ஜனாதிபதி தேர்தலில் சகல கட்சிகளையும் இணைத்துக்கொண்டு பொது சின்னத்தில் ரணில் களமிறங்குவார் என்றும் அவர் சுட்டிக்காட்டினார்.
+He also pointed out that Ranil would join all parties in the next presidential election and make a public symbol.
+
+The presidential election is scheduled for the end of this year. Arrangements are being made. Political parties are also preparing for the presidential election. It is against this backdrop that Ravi Karunanayake, the main representative of the party, has publicly announced that President Ranil Wickremesinghe will contest the common symbol as a common candidate.
 
 ...
 
 [Data](articles/a293924e.json)
+
+[Extended Data](ext_articles/a293924e.ext.json)
 
 ---
 
@@ -194,17 +208,19 @@ President Ranil Wickremesinghe's expectation is to provide continuous school edu
 
 ---
 
-### வறட்சியான காலநிலைக்கு பொதுமக்களால் மட்டுமே தீர்வுகளை வழங்க முடியுமாம்!
+### Only the public can provide solutions to the dry weather!
 
 *2024-02-25 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/177277) · `ta`
 
-காலநிலை மாற்றத்தினால் ஏற்படும் வறட்சியான காலநிலைக்கு பொதுமக்களால் மட்டுமே தீர்வுகளை வழங்க முடியும் சுட்டிக் காட்டப்பட்டுள்ளது.
+It is pointed out that the public can only provide solutions to the dry climate caused by climate change.
 
-ஒருவர் வருடத்துக்கு ஒருவர் ஒரு மரக்கன்றையாவது நட்டினால் எதிர்காலத்தில் இவ்வாறான நிலைமைகளைத் தவிர்க்க முடியும் என ரிட்ஜ்வே சிறுவர் வைத்தியசாலையின் குழந்தைகள் நல நிபுணர் டாக்டர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+Dr. Deepal Perera, a children's welfare expert at the Ridgeway Children's Hospital, said that if one plants at least one tree per year, such conditions can be avoided in the future.
 
 ◼️
 
 [Data](articles/fba36a50.json)
+
+[Extended Data](ext_articles/fba36a50.ext.json)
 
 ---
 
@@ -468,23 +484,29 @@ According to the Presidential Media Unit, the selection process of selecting the
 
 ---
 
-### ජම්පටා වීදියේ වෙඩි තැබීමකින් පුද්ගලයෙක් තුවාල ලබයි
+### Man shot dead in Jampatta Street
 
 *2024-02-25 15:58:36* · [`adalk`](https://www.ada.lk/breaking_news/ජම්පටා-වීදියේ-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-තුවාල-ලබයි/11-408266) · `si`
 
-ජම්පටා වීදිය නිව්හැම් චතුරස්‍රය ප්‍රදේශයේ කුකුල් මස් අලෙවි සැලක හිමිකරුවකු ඉලක්ක කරගෙන සිදුකළ වෙඩි ප්‍රහාරයකින් එම පුද්ගලයා තුවාල ලබා රෝහල් ගත කළ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව  මහතා පැවසීය.
+According to the DIG Talduuwa, he was hospitalized after a gunshot wound the owner of a chicken selling owner in Newhham Square, Newhham Square.
 
-වෙඩි ප්‍රහාරයෙන් තුවාල ලබා ඇත්තේ මොහොමඩ් රිල්වාන් නමැති 57 හැවිරිදි පුද්ගලයෙකි.
+Mohamed Relwan, 57, was injured in the shooting.
 
-වෙඩි ප්‍රහාරය එල්ල වූ පුද්ගලයා වෙළඳ සැල තුළ පුටුවක අසුන්ගෙන සිටියදී යතුරුපැදියකින් පැමිණ තිබූ පුද්ගලයන් දෙදෙනෙකු ගෙන් අයකු ඔහු අසලටම පැමිණ රිවොල්වර  වර්ගයේ ගිනි අවියකින් වෙඩි ප්‍රහාර තුනක් එල්ල කර ඇති අතර එයින් එක් වෙඩි ප්‍රහාරයක් එම පුද්ගලයාගේ උරහිස ප්‍රදේශයට වැදී ඇති බව මාධ්‍ය ප්‍රකාශකවරයා කීය.
+The shooting had come to a motorbike with a motorbike with a motorcycle while he was sitting in a motorbike with a shooting.
 
-වෙඩි වැදුණු පුද්ගලයා  සංවිධානාත්මක අපරාධ කල්ලි නායකයකු වන පූකුඩු කන්නාගේ සමීපතම ඥාතියකු ඔහු මස් වෙළඳසැල පවත්වාගෙන  යන ගොඩනැගිල්ලද පූකුඩු කන්නාට අයත් එකක් බවටද තොරතුරු ලැබී ඇතැයි පොලිසිය කියයි.
+The police say that the person who was shot was a close relative of the rumuda, a close relative of the fleet of the meley shop, and belonging to the meat.
 
-මෙම වෙඩි ප්‍රහාරය එල්ල කර ඇත්තේ ඝාතනයට ලක් වූ කුඩු සෙල්වි නැමැත්තියගේ  පුතෙකු වන රිමෝශන් නැමැත්තාගේ මෙහෙයවීම  මත බවට තොරතුරු ලැබී ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+A high-ranking police officer said that the shooting had been carried out on the direction of the son of Kudu Selvi, a son of Kudu Selvi, River.
 
-...
+The Kukudu Selvi's group was shot dead by the night of January 24th on January 24.
+
+In addition to the coastal police OIC Chief Inspector Sanath Ranjith, Colombo Crimes Division also conducts investigations.
+
+◼️
 
 [Data](articles/d91f89de.json)
+
+[Extended Data](ext_articles/d91f89de.ext.json)
 
 ---
 

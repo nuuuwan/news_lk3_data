@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 16:47:58**
+As of **2024-02-25 17:02:37**
 
 ## Newspaper Stats
 
-*Scraped **9,195** Articles*
+*Scraped **9,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 465
 dailyftlk | 483
 islandlk | 486
 adalk | 772
-adaderanalk | 1,110
+adaderanalk | 1,111
 tamilmirrorlk | 1,132
 virakesarilk | 1,246
 dailymirrorlk | 1,384
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,195 (100.0%) of 9,195 articles have been extended.
+9,195 (100.0%) of 9,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### TM Dilshan gains Australian citizenship
+
+*2024-02-25 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97523/tm-dilshan-gains-australian-citizenship) · `en`
+
+Former Sri Lankan cricketer Tillakaratne Dilshan has been granted Australian citizenship, as confirmed by Australian MP Jason Wood in a social media post.
+
+TM Dilshan, renowned for his explosive batting style, played a pivotal role in numerous victories for the Sri Lankan cricket team throughout his career. The 47-year-old’s acquisition of Australian citizenship marks a new chapter in his life post-retirement from professional cricket.
+
+“Today’s citizenship ceremony was made even more special with the attendance of Tillakaratne Dilshan, a former Sri Lankan cricketer and captain of the Sri Lanka national cricket team.
+
+“Dilshan is regarded as the best Sri Lankan player in run-chases in ODI history. He also holds the record for being the top run scorer in the 2011 ICC Cricket World Cup with 500 runs and scored a century against England in the semi-final. Additionally, he was part of the Sri Lankan team that won the 2014 ICC World Twenty20,” the MP posted on social media.
+
+...
+
+[Data](articles/09c0169b.json)
+
+---
 
 ### Plans to connect Hambantota port with Myanmar Harbor
 
@@ -2063,25 +2081,5 @@ The injured in the accident has been admitted to the Kandy General Hospital and 
 [Data](articles/a51b64de.json)
 
 [Extended Data](ext_articles/a51b64de.ext.json)
-
----
-
-### ‘A united step for the country’: Patali’s party submits proposal to President
-
-*2024-02-24 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97507/a-united-step-for-the-country-patalis-party-submits-proposal-to-president) · `en`
-
-The United Republic Front presented the proposal titled “A United Step for the Country” to President Ranil Wickremesinghe this morning (Feb.24), at ‘Sirikotha, the United National Party (UNP) headquarters in Colombo.
-
-After engaging in discussions with the President, the leader of the United Republic Front, MP Patali Champika Ranawaka, along with the delegation, presented the relevant proposal to the President.
-
-Speaking at the event President Ranil Wickremesinghe, highlighted the government’s concerted efforts over the past two years to stabilize the country’s economy, which had faced significant challenges.
-
-Stressing the government’s commitment to steering the economy towards recovery through strategic reforms, the President expressed his determination to continue these initiatives with the collective support of everyone.
-
-...
-
-[Data](articles/9bd9c9d2.json)
-
-[Extended Data](ext_articles/9bd9c9d2.ext.json)
 
 ---

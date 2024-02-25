@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 16:02:36**
+As of **2024-02-25 16:17:29**
 
 ## Newspaper Stats
 
-*Scraped **9,187** Articles*
+*Scraped **9,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 769
 adaderanalk | 1,109
 tamilmirrorlk | 1,132
 virakesarilk | 1,246
-adaderanasinhalalk | 1,381
 dailymirrorlk | 1,384
+adaderanasinhalalk | 1,385
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,187 (100.0%) of 9,187 articles have been extended.
+9,187 (100.0%) of 9,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### පාසල් විෂය අඩුවෙන්නේ මෙහෙමයි
+
+*2024-02-25 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193810) · `si`
+
+06 වන ශ්‍රේණියෙන් ඉහළ දරුවන්ට දැනට පාසලේදී හැදෑරීමට ඇති විෂය සංඛ්‍යාව ඉදිරියේ දී විෂයන් 07ක් දක්වා අඩු කිරීමට පියවර ගන්නා බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ වරාපිටිය ප්‍රදේශයේ ඊයේ (24) පැවති උත්සවයකදීය.
+
+මේ අතර එහිදී අමාත්‍යවරයා වැඩිදුරටත් පවසා ඇත්තේ ඉතිරි විෂයන් 03 සිසුන් වෙසෙන ඒ ඒ පළාත් අනුව ආවේණික කර්මාන්ත ව්‍යාපාර සම්බන්ධ කර ගනිමින් හැදෑරීමට අවස්ථාව සලසා දෙන බවය.
+
+එමෙන්ම, ඉදිරියේදී පාසලට පැමිණෙන සියලු‍ ගුරුවරුන් තොරතුරු තාක්ෂණ දැනුමෙන් හොඳින් සන්නද්ධව සිටිය යුතු බවත් මේ වනවිට සෑම කලාපයකටම එක බැගින් පිහිටුවා ඇති පරිගණක සම්පත් මධ්‍යස්ථාන ඇසුරින් ගුරුවරුන් පුහුණු කිරීමට විශාල වැඩ පිළිවෙලක් ක්‍රියාවට නංවා ඇති බවත් අමාත්‍යවරයා පවසා ඇත.
+
+ගුරුවරුන් වෙත පරිගණක පුහුණුව ලබාදෙන අතරම මෘදුකාංග සංවර්ධනයට සහ අලු‍ත්වැඩියා කටයුතු වෙනුවෙන් ද කලාප මට්ටමින් පිරිසක් සකස් කිරීමට පියවර ගෙන ඇති බවද අමාත්‍යවරයා පැහැදිළි කර තිබේ.
+
+...
+
+[Data](articles/16ca9c3d.json)
+
+---
+
+### ඩිල්ෂාන්ට ඔස්ට්‍රේලියාවේ පුරවැසිභාවය
+
+*2024-02-25 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193809) · `si`
+
+ශ්‍රී ලංකා හිටපු සුපිරි ක්‍රිකට් ක්‍රීඩක තිලකරත්න ඩිල්ෂාන් හට ඔස්ට්‍රේලියානු පුරවැසිභාවය හිමිව තිබේ.
+
+එරට පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වන Jason Wood සිය නිල ෆේස්බුක් ගිණුමේ සටහනක් තබමින් මේ බව සඳහන් කර ඇත.
+
+එම සටහනින් පාර්ලිමේන්තු මන්ත්‍රී Jason Wood පෙන්වාදෙන්නේ පුරවැසිභාවය පිරිනැමීම සඳහා පැවති උත්සවය මේ හේතුවෙන් තවත් සුවිශේෂී වූ බවය.
+
+එසේම ඉදිරියේදී ඩිල්ශාන් විසින් එරට ක්‍රිකට් ක්‍රීඩාවට සුවිශේෂී මෙහෙයක් සිදුකරනු ඇති බවට බලාපොරොත්තු වන බවද ඒ මහතා තැබූ සටහනේ වැඩිදුරටත් දැක්වෙයි.
+
+මේ අතර එහිදී මන්ත්‍රීවරයා විසින් ඩිල්ෂාන්ගේ දියණිය වන රෙසඳි ගැන ද සඳහන් කර ඇති අතර ඇයගේ ක්‍රිකට් අනාගතයටද සුබපැතුම් එක්කර තිබේ.
+
+◼️
+
+[Data](articles/8056db83.json)
+
+---
 
 ### Increased deaths at Kurunegala Hospital
 
@@ -83,6 +123,34 @@ According to police, the injured individual was immediately rushed to hospital w
 [Data](articles/e9a9da60.json)
 
 [Extended Data](ext_articles/e9a9da60.ext.json)
+
+---
+
+### කොළඹ වෙඩිතැබීමක්
+
+*2024-02-25 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193808) · `si`
+
+වෙඩිවැදීමෙන් තුවාල ලැබූ පුද්ගලයෙකු රෝහල්ගතකර ඇති බව ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/5ce87375.json)
+
+---
+
+### මහබැංකුවේ වැටුප් සිද්ධිය ගැන රාජ්‍ය අමාත්‍යවරයාගෙන් ප්‍රකාශයක්
+
+*2024-02-25 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193807) · `si`
+
+ආන්දෝලනාත්මක කතාබහක් ඇති කළ, මහ බැංකුවේ වැටුප් වැඩි කිරීමේ සිද්ධිය පිළිබඳ මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා කරුණු දැක්වීමක් සිදු කර තිබේ.
+
+ඒ අනුව ශ්‍රී ලංකා මහ බැංකුව, මහජන මුදල් පිළිබඳ කාරක සභාවට කැඳවීමට යෝජනා කරන බව ඔහු අවධාරණය කර ඇත.
+
+එසේ කැඳවා අදාළ වැටුප් වර්ධක සම්බන්ධ ව මෑත කාලීන ව ඇති වූ මතභේදාත්මක තත්ත්වයන් පිළිබඳ පැහැදිලි කිරීමක් ලබා ගැනීම සුදුසු බව අමාත්‍යවරයාගේ අදහස යි.
+
+◼️
+
+[Data](articles/5f44957b.json)
 
 ---
 
@@ -1975,99 +2043,5 @@ The bounty of nature is a gift from God that mankind, for centuries, has taken f
 [Data](articles/c380ca9c.json)
 
 [Extended Data](ext_articles/c380ca9c.ext.json)
-
----
-
-### “I have become a father of a child” Sajith
-
-*2024-02-24 21:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானும்-ஒரு-குழந்தைக்கு-அப்பாவாகி-விட்டேன்-சஜித்/175-333734) · `ta`
-
-Opposition leader Sajith Premadasa says he is now the father of a child.
-
-He also said that he had taken care of the drugs offered every occasion to take his wife to the hospital.
-
-Also, there is a need to put on birth. It is only put in private hospitals. The reason is expensive.
-
-This is the state of this country. Sajith Premadasa said that every child born in this country will be implementing the same maintenance of private hospitals through state hospitals.. Remble
-
-◼️
-
-[Data](articles/423316d2.json)
-
-[Extended Data](ext_articles/423316d2.ext.json)
-
----
-
-### More information about the suspects of Mahabage murder
-
-*2024-02-24 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193782) · `si`
-
-A soldier and two others have been arrested in connection with the assassination of Saranga's brother-in-law.
-
-The army soldier was arrested while he was raised from the basin.
-
-On the 21st, organized criminal sand, a organized criminal, was shot dead in the Passara, Ragama, Ragama.
-
-The murder was accused of Dubai Skildara, who is currently abroad.
-
-The main suspect is an active corporal in the four-third Gemunu Watch of the Sri Lanka Army Ceykaladi camp.
-
-He had escaped from the Batticaloa Chenkali camp when the STF and main suspect was arrested.
-
-Army intelligence officers were able to arrest him in the Ampara Police.
-
-He was suspicious as the shooter in the incident.
-
-The other suspect is a person who is said to be spying on shooting.
-
-The suspect was arrested in the Udahawatta area in Udahaduwatta.
-
-The motorcyclist who had come to the murder have come to the murder and is currently a soldier former soldier.
-
-◼️
-
-[Data](articles/18344a5b.json)
-
-[Extended Data](ext_articles/18344a5b.ext.json)
-
----
-
-### Kegalle district gets new foreign employment bureau office
-
-*2024-02-24 21:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kegalle-district-gets-new-foreign-employment-bureau-office/108-277659) · `en`
-
-Kegalle, Feb 24 - Labour and Foreign Employment Minister Manusha Nanayakkara has addressed a joint request from the Kegalle Migrant Workers Committee and the Kegalle District political authority by committing to establish a Sri Lanka Bureau of Foreign Employment (SLBFE) office in Kegalle District.
-
-The decision comes in response to concerns raised about the absence of an SLBFE office in the district, despite it hosting the highest number of migrant workers in the Sabaragamuwa Province.
-
-The announcement was made during the Jayagamu Sri Lanka program, organized by the Ministry of Labour and Foreign Employment in Kegalle, where the Committee presented their request.
-
-They underscored the critical need for an SLBFE office to address the welfare and concerns of migrant workers from the region.
-
-◼️
-
-[Data](articles/de82a8af.json)
-
-[Extended Data](ext_articles/de82a8af.ext.json)
-
----
-
-### Fire
-
-*2024-02-24 20:54:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/திடீரென-தீப்பற்றி-எரிந்த-வீடு/74-333733) · `ta`
-
-Suddenly burning fire in a house in the village of Sainthamaruthu, a house in the house of the house, the roofs of the house were damaged and the roofs of the house were damaged.
-
-There was no one in the house at the time of the fire and the fire of the house was extinguished by neighbors and carried out a fire.. The Kalmunai Municipal Fire truck, which rushed to use Azmi's rapid action, also engaged in fire.
-
-The fire has been completely damaged by the fire and the roof of the house has been destroyed and there is no life.
-
-Attorney -at -Law HMM, a Member of Parliament and former Minister of State. Haris worked with the relevant authorities to take up further steps to provide the necessary assistance to the affected family. Remble
-
-◼️
-
-[Data](articles/853e7116.json)
-
-[Extended Data](ext_articles/853e7116.ext.json)
 
 ---

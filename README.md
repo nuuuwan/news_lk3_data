@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 16:17:29**
+As of **2024-02-25 16:33:00**
 
 ## Newspaper Stats
 
-*Scraped **9,191** Articles*
+*Scraped **9,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 465
 dailyftlk | 483
 islandlk | 486
-adalk | 769
-adaderanalk | 1,109
+adalk | 771
+adaderanalk | 1,110
 tamilmirrorlk | 1,132
 virakesarilk | 1,246
 dailymirrorlk | 1,384
@@ -26,49 +26,95 @@ adaderanasinhalalk | 1,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,187 (100.0%) of 9,191 articles have been extended.
+9,191 (100.0%) of 9,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### පාසල් විෂය අඩුවෙන්නේ මෙහෙමයි
+### හම්බන්තොට වරාය මියන්මාර වරාය සමඟ සම්බන්ධ කිරීමට සැලසුම්
+
+*2024-02-25 15:54:27* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-වරාය-මියන්මාර-වරාය-සමඟ-සම්බන්ධ-කිරීමට-සැලසුම්/11-408265) · `si`
+
+හම්බන්තොට ප්‍රදේශයේ යටිතල පහසුකම් සඳහා දැනටමත් සිදුකර ඇති පුළුල් ආයෝජන ජාතික ආර්ථිකයට ප්‍රතිලාභ සැලසෙන අයුරින් සක්‍රීයව භාවිතයට ගැනීමේ වැදගත්කම ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+හම්බන්තොට වරාය මියන්මාර වරාය සමඟ සම්බන්ධ කිරීමට සැලසුම් කර ඇති බවත්, එය නැගෙනහිර චීනයේ චොංකිං වරාය දක්වා සහ අප්‍රිකාව දක්වා තවදුරටත් ව්‍යාප්ත කිරීමට අපේක්ෂා කරන බවත් සඳහන් කළ ජනාධිපතිවරයා මෙරට ප්‍රධාන ආර්ථික කේන්ද්‍රස්ථානයක් බවට හම්බන්තොට පත් කිරීමේ හැකියාවද පෙන්වා දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව පෙන්වා දුන්නේ බස්නාහිර, නැගෙනහිර සහ හම්බන්තොට නගර සංවර්ධන සැලැස්ම පිළිබඳ පසුගියදා ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවේදීය.
+
+කොළඹ නගරය ඇතුළු බස්නාහිර පළාතේ, නැගෙනහිර පළාතේ මෙන්ම හම්බන්තොට ප්‍රදේශයේ සංචාරක කලාප ආශ්‍රිත ක්‍රමෝපායික සංවර්ධන සැලසුම් සහ නාගරික සංවර්ධන සැලසුම් පිළිබඳව මෙහිදී දීර්ඝ වශයෙන් සමාලෝචනය කෙරුණු අතර ඊට අදාළ නව ආයෝජන අවස්ථා පිළිබඳව ද විමසා බැලිණි.
+
+...
+
+[Data](articles/76257cd8.json)
+
+---
+
+### This is how the school is reduced
 
 *2024-02-25 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193810) · `si`
 
-06 වන ශ්‍රේණියෙන් ඉහළ දරුවන්ට දැනට පාසලේදී හැදෑරීමට ඇති විෂය සංඛ්‍යාව ඉදිරියේ දී විෂයන් 07ක් දක්වා අඩු කිරීමට පියවර ගන්නා බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+Minister of Education Susil Premajayantha says that steps will be taken to reduce the subject of the 6th grade 6.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ වරාපිටිය ප්‍රදේශයේ ඊයේ (24) පැවති උත්සවයකදීය.
+The Minister was speaking at a function held in Warapitiya yesterday.
 
-මේ අතර එහිදී අමාත්‍යවරයා වැඩිදුරටත් පවසා ඇත්තේ ඉතිරි විෂයන් 03 සිසුන් වෙසෙන ඒ ඒ පළාත් අනුව ආවේණික කර්මාන්ත ව්‍යාපාර සම්බන්ධ කර ගනිමින් හැදෑරීමට අවස්ථාව සලසා දෙන බවය.
+Meanwhile, the Minister further stated that the remaining three subjects will include the opportunity to study its unique industrial enterprises in each of the subjects.
 
-එමෙන්ම, ඉදිරියේදී පාසලට පැමිණෙන සියලු‍ ගුරුවරුන් තොරතුරු තාක්ෂණ දැනුමෙන් හොඳින් සන්නද්ධව සිටිය යුතු බවත් මේ වනවිට සෑම කලාපයකටම එක බැගින් පිහිටුවා ඇති පරිගණක සම්පත් මධ්‍යස්ථාන ඇසුරින් ගුරුවරුන් පුහුණු කිරීමට විශාල වැඩ පිළිවෙලක් ක්‍රියාවට නංවා ඇති බවත් අමාත්‍යවරයා පවසා ඇත.
+Also, all teachers who visit the school should be well equipped with IT knowledge and have implemented a large program to train teachers with the computer resource centers established in one area.
 
-ගුරුවරුන් වෙත පරිගණක පුහුණුව ලබාදෙන අතරම මෘදුකාංග සංවර්ධනයට සහ අලු‍ත්වැඩියා කටයුතු වෙනුවෙන් ද කලාප මට්ටමින් පිරිසක් සකස් කිරීමට පියවර ගෙන ඇති බවද අමාත්‍යවරයා පැහැදිළි කර තිබේ.
+The Minister also explained that the teachers will be provided with computer training and to prepare a group of zonal levels for software development and repairs.
+
+Meanwhile, the Minister has said that the students who sat the GCE A / L examination will take effect from March 5, the Minister said.
+
+The training program will be implemented using 300 centers across the country and the students who appeared this year will be planned for the students.
 
 ...
 
 [Data](articles/16ca9c3d.json)
 
+[Extended Data](ext_articles/16ca9c3d.ext.json)
+
 ---
 
-### ඩිල්ෂාන්ට ඔස්ට්‍රේලියාවේ පුරවැසිභාවය
+### Dilshan's citizenship in Australia
 
 *2024-02-25 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193809) · `si`
 
-ශ්‍රී ලංකා හිටපු සුපිරි ක්‍රිකට් ක්‍රීඩක තිලකරත්න ඩිල්ෂාන් හට ඔස්ට්‍රේලියානු පුරවැසිභාවය හිමිව තිබේ.
+Former Sri Lanka Gelkadhand Tillakaratne Dilshan has been owned by Australian citizenship.
 
-එරට පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වන Jason Wood සිය නිල ෆේස්බුක් ගිණුමේ සටහනක් තබමින් මේ බව සඳහන් කර ඇත.
+This is stated that the Jason WOOD, a Member of Parliament, has made a note at its official Facebook account.
 
-එම සටහනින් පාර්ලිමේන්තු මන්ත්‍රී Jason Wood පෙන්වාදෙන්නේ පුරවැසිභාවය පිරිනැමීම සඳහා පැවති උත්සවය මේ හේතුවෙන් තවත් සුවිශේෂී වූ බවය.
+The note, parliamentarian Jason WOOD shows the event to offer citizenship.
 
-එසේම ඉදිරියේදී ඩිල්ශාන් විසින් එරට ක්‍රිකට් ක්‍රීඩාවට සුවිශේෂී මෙහෙයක් සිදුකරනු ඇති බවට බලාපොරොත්තු වන බවද ඒ මහතා තැබූ සටහනේ වැඩිදුරටත් දැක්වෙයි.
+He added that Dilshan will also be conducted by Dilshan to play cricket in the future.
 
-මේ අතර එහිදී මන්ත්‍රීවරයා විසින් ඩිල්ෂාන්ගේ දියණිය වන රෙසඳි ගැන ද සඳහන් කර ඇති අතර ඇයගේ ක්‍රිකට් අනාගතයටද සුබපැතුම් එක්කර තිබේ.
+Meanwhile, the MP has also stated about the residents of Dilshan's daughter and joined her cricket.
 
 ◼️
 
 [Data](articles/8056db83.json)
+
+[Extended Data](ext_articles/8056db83.ext.json)
+
+---
+
+### Russian Embassy issues statement on controversial night event in Unawatuna
+
+*2024-02-25 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97522/russian-embassy-issues-statement-on-controversial-night-event-in-unawatuna) · `en`
+
+In response to recent controversy surrounding a planned night event in Unawatuna, the Russian Embassy in Colombo has issued a statement condemning all forms of racial discrimination and nationalism.
+
+It said the event in question had been organized with a “dress-code: white” theme by a group of entrepreneurs. According to unconfirmed data, however, the Embassy stated that the main promoter and the bar owners who had agreed to accommodate the party have been identified as Russian citizens.
+
+Amidst confusion and concerns regarding entry conditions, however, the organizers had later issued apologies and clarified that their intentions were not to cause harm, and subsequently called off the event.
+
+Issuing a statement, the Russian Embassy emphasized Russia’s firm stance against such injustices and expressed a commitment to combatting them.
+
+Additionally, the embassy urged all Russian citizens visiting or residing in Sri Lanka to strictly adhere to the country’s laws and respect local customs.
+
+◼️
+
+[Data](articles/898866e0.json)
 
 ---
 
@@ -126,31 +172,35 @@ According to police, the injured individual was immediately rushed to hospital w
 
 ---
 
-### කොළඹ වෙඩිතැබීමක්
+### Shooting in Colombo
 
 *2024-02-25 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193808) · `si`
 
-වෙඩිවැදීමෙන් තුවාල ලැබූ පුද්ගලයෙකු රෝහල්ගතකර ඇති බව ආරංචි මාර්ග සඳහන් කරයි.
+According to sources, a person who was injured in shooting has been hospitalized.
 
 ◼️
 
 [Data](articles/5ce87375.json)
 
+[Extended Data](ext_articles/5ce87375.ext.json)
+
 ---
 
-### මහබැංකුවේ වැටුප් සිද්ධිය ගැන රාජ්‍ය අමාත්‍යවරයාගෙන් ප්‍රකාශයක්
+### State Minister on salary incident in the Central Bank
 
 *2024-02-25 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193807) · `si`
 
-ආන්දෝලනාත්මක කතාබහක් ඇති කළ, මහ බැංකුවේ වැටුප් වැඩි කිරීමේ සිද්ධිය පිළිබඳ මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා කරුණු දැක්වීමක් සිදු කර තිබේ.
+State Minister Shehan Semasinghe has made a statement on controversial conversation, the Central Bank's salary increase.
 
-ඒ අනුව ශ්‍රී ලංකා මහ බැංකුව, මහජන මුදල් පිළිබඳ කාරක සභාවට කැඳවීමට යෝජනා කරන බව ඔහු අවධාරණය කර ඇත.
+He emphasized that the Central Bank of Sri Lanka has called for the Committee on Public Finance Council.
 
-එසේ කැඳවා අදාළ වැටුප් වර්ධක සම්බන්ධ ව මෑත කාලීන ව ඇති වූ මතභේදාත්මක තත්ත්වයන් පිළිබඳ පැහැදිලි කිරීමක් ලබා ගැනීම සුදුසු බව අමාත්‍යවරයාගේ අදහස යි.
+The Minister is the view that it is proper to explain the controversial areas of the relevant increment.
 
 ◼️
 
 [Data](articles/5f44957b.json)
+
+[Extended Data](ext_articles/5f44957b.ext.json)
 
 ---
 
@@ -209,6 +259,26 @@ This request, made in accordance with Section 80 (2) (b) of the Central Bank of 
 [Data](articles/ebf5e01a.json)
 
 [Extended Data](ext_articles/ebf5e01a.ext.json)
+
+---
+
+### මෑලේසියාවට හිස් බහාලුමක යන්න ගිහින් චීනයේදී අත්අඩංගුවට පත්වූ ලාංකිකයන දෙදෙනා වසරකට පසු ලංකාවට
+
+*2024-02-25 13:39:22* · [`adalk`](https://www.ada.lk/breaking_news/මෑලේසියාවට-හිස්-බහාලුමක-යන්න-ගිහින්-චීනයේදී-අත්අඩංගුවට-පත්වූ-ලාංකිකයන-දෙදෙනා-වසරකට-පසු-ලංකාවට/11-408263) · `si`
+
+කොළඹ වරායේ නවතා තිබූ නැවකට පැටවූ හිස් බහාලුමක (Container )සැගවී මැලේසියාවට පළා යාමට තැත් කළ ශ්‍රී ලාංකිකයන් දෙදෙනෙකු , චීනයේ දී අත් අඩංගුවට පත් වී වසරකට පසුව එරටින් පිටුවහල් කර 02/24 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත එවා තිබුණි.
+
+26 හැවිරිදි මලාල් මාදි රාජේන්ද්‍රන් සහ 39 හැවිරිදි ජයකුමාර් තරුමරාසා ශ්‍රී ලාංකික ද්‍රවිඩ ජාතිකයන් දෙදෙනෙකි.
+
+මොවුන් ඉකුත් 2023 වසරේ ජනවාරි මස 30 දින කොළඹ වරායේ සී.අයි.සී.ටී.ජැටියේ නවතා තිබූ " මර්ක්ස් යුනිකෝන් " නැවට පටවා තිබූ හිස් බහාලුමක් තුළට රහසිගතව ඇතුළු වී ඇත්තේ  මැලේසියාව බලා පිටත්ව යාමටය.
+
+එහෙත් අදාළ නැව මැලේසියාවට පැමිණි විට , මෙම බහාලුම තුළ සැගවී සිටි මොවුන් දෙදෙනා භාර ගැනීම ප්‍රතික්ෂේප කිරීම නිසා , මෙම නැවේ නාවුක බලධාරීන් මොවුන් රැගෙන තවත් රටවල් ගනනාවකට යෑමෙන් පසු අවසාන වශයෙන් චීනය වෙත පැමිණ තිබුණි .
+
+එහිදී චීන බලධාරීන් විසින් මොවුන් දෙදෙනා අත් අඩංගුවට ගෙන තිබේ .
+
+...
+
+[Data](articles/52fcacce.json)
 
 ---
 
@@ -1995,53 +2065,5 @@ Navalney died on the 16th in a Russian prison camp.
 [Data](articles/87d7e19b.json)
 
 [Extended Data](ext_articles/87d7e19b.ext.json)
-
----
-
-### The late Alexei Navalny
-
-*2024-02-24 21:45:00* · [`islandlk`](http://island.lk/the-late-alexei-navalny/) · `en`
-
-You may wonder why I write about a now dead Russian, this Sunday. Three reasons: I had seen news on him on BBC newscasts a couple of years back and then very recently too and read about him; admired his fearless stand on corruption in Russia and then his mysterious death. I was saddened. Disturbing thoughts on how things could turn out even in democratic Sri Lanka crowded my mind. Third reason: his life and death are relevant to all countries for one reason or another, chiefly that opposition to governments and leaders is of such vital importance.
-
-Alexei Anatolyevich Navalny, born June 4, 1976, was of Russian and Ukrainian descent. His father was from a village on the Belarusian border and was evacuated to a region in Ukraine after the Chernobyl disaster. He grew up in Obninsk, about 100 km southwest of Moscow but spent holidays with his grandmother in Ukraine. His parents owned a basket weaving factory which they still manage.
-
-...
-
-[Data](articles/6d287a60.json)
-
-[Extended Data](ext_articles/6d287a60.ext.json)
-
----
-
-### N.E. Weerasooria ( 1895 – 1974):lawyer with wide interests
-
-*2024-02-24 21:43:00* · [`islandlk`](http://island.lk/n-e-weerasooria-1895-1974lawyer-with-wide-interests/) · `en`
-
-Norman Edward Weerasooria was the youngest of the three sons of Mudaliyar Weerasooria who came of an old Kandyan family. “F. E.” was a much-loved doctor and “D. E.” a proctor with many irons in the fire. One sister married C. W. W. Kannangara, several times a Minister, and the other was the wife of Charles Batuvantudawe, son of the oriental scholar, and himself a Minister in the State Council for a short time.
-
-“Normie” as he was always called even by men much younger than himself, had a brilliant career at the Royal College, taking first classes and exhibitions in the Junior and Senior Cambridge Local Examinations. He just missed the Government University Scholarship which was then awarded to a classics student and a science student for further studies in England.
-
-...
-
-[Data](articles/ed53facc.json)
-
-[Extended Data](ext_articles/ed53facc.ext.json)
-
----
-
-### Dilmah Conservation – an effort to combat “an inconvenient truth”
-
-*2024-02-24 21:24:00* · [`islandlk`](http://island.lk/dilmah-conservation-an-effort-to-combat-an-inconvenient-truth/) · `en`
-
-“There should be no greater priority than ensuring that the quality of the air we breathe, the rainfall that provides our sustenance, and the host of ecosystems that make human life possible are protected for our children and their generations.”
-
-The bounty of nature is a gift from God that mankind, for centuries, has taken for granted and quite often abused. The evidence of such destruction is seen all over the world – in polluted beaches, dirty waterways, denuded forests, and the regular killing of wild animals, even those which are endangered and protected by law. Mankind’s refusal or inability to live in harmony with nature has resulted in damage to the environment which cannot be repaired…
-
-...
-
-[Data](articles/c380ca9c.json)
-
-[Extended Data](ext_articles/c380ca9c.ext.json)
 
 ---

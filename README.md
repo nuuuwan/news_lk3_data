@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 14:17:31**
+As of **2024-02-25 14:32:54**
 
 ## Newspaper Stats
 
@@ -26,75 +26,81 @@ dailymirrorlk | 1,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,173 (100.0%) of 9,177 articles have been extended.
+9,177 (100.0%) of 9,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### අඟහිඟකම් මැදින් අධ්‍යාපනය ඉල්ලන පුංචි දිනිඳු
+### Dinch of Little Requesting Teaching
 
 *2024-02-25 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193806) · `si`
 
-කෙතරම් අඟහිඟකම් මධ්‍යයේ වුව ද ජීවිතය සරිකර ගැනීමට අපමණ වෙහෙසක් දරන යුවළක් පිළිබඳ අද දෙරණට දිඹුලාගලින් වාර්තා විය.
+In the midst of the horror, Ada Derana was reported to be a loving couple to save lives.
 
-ඒ, පොල්කටු හැඳි සකසමින් තම පවුලේ කුසගිනි නිවන්නට වෙර දරන පියෙකු පිළිබඳව යි.
+It is also about a father who tries to explogetching coconut and hunger.
 
-දිඹුලාගල - යාය 8 - දේවගල ප්‍රදේශයේ පදිංචි චමින්ද, යම් ශාරීරික සහ මානසික ආබාධයකින් පෙළුණ ද සිය පවුල ජීවත් කරවීමට තිබෙන උත්සාහය නම් අත් හැරීමට සූදානම් නැත.
+Chaminda, a resident of Dimbulagala - a resident of Devalagala area, but not ready to give up.
 
-චමින්දගේ බිරිඳ වූ උදයංගනී ද යම් යම් ආබාධවලින් පෙළුණත් ඇය සිය සැමියාගේ මේ උත්සාහයට ශක්තියක් වන්නේ, කිසිවකුටත් අත නොපා කෙලෙසක හෝ තම ජීවිතය සරිකර ගැනීමේ බලාපොරොත්තුවෙනි.
+Chaminda's wife, Hajangi, also strengthens his husband's efforts, and the hope of the hope of her husband.
 
-ඔවුන් ජීවත් වන්නේ, ගමේ පුද්ගලයකු ඔවුන්ට තාවකාලික ව ලබා දුන් නිවසක ය.
+They live in a village in a village in a house where they were temporary.
 
-වයස අවුරුදු 05ක් වන දිනිඳු සඳකැන් අකුරු කරන්නට ආස වුණත් පවුලේ ආර්ථික තත්ත්වය ඔහුගේ මේ ආසාවට බාධාවක් වී තිබේ.
+Although the first day of the 5-year-old Moon is an interruption of his family.
 
 ◼️
 
 [Data](articles/01c7e77d.json)
 
+[Extended Data](ext_articles/01c7e77d.ext.json)
+
 ---
 
-### පැරිස් අගනුවර කෘෂිකාර්මික ප්‍රදර්ශනයක් අතරතුර විරෝධතාවක්
+### Protest during a Agricultural Exhibition of Paris Capital Exhibition
 
 *2024-02-25 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193805) · `si`
 
-ප්‍රංශයේ පැරිස් අගනුවර වාර්ෂික කෘෂිකාර්මික ප්‍රදර්ශනයට එරට ගොවීන් පිරිසක් කඩා වැදී විරෝධතාවක නිරත වී තිබේ.
+Paris in France has collapsed on the annual agricultural exhibition of the capital of the Paradas in the country.
 
-එහි දී විරෝධතාකරුවන් පාලනයට ආරක්ෂක අංශවලට දැඩි පරිශ්‍රමයක් දැරීමට සිදු වූ බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+Foreign media reports that the protesters had to stringe the security forces to control the protesters.
 
-ඒ සමඟ එහි උණුසුම් තත්ත්වයක් ද හටගත් බව විදෙස් මාධ්‍යය සඳහන් කර ඇත.
+The foreign media has said that there was a warm quality.
 
-ප්‍රදර්ශනයට ගොවීන් ඇතුළු වීම වැළැක්වීමට ප්‍රංශ ආරක්ෂක නිලධාරින්ට දැඩි පරිශ්‍රමයක් දැරීමට සිදු ව තිබිණි.
+French security personnel had to take to prevent farmers to prevent farmers' entry.
 
-විදෙස් මාධ්‍යය වාර්තා කරන්නේ, එහි දී දෙපාර්ශ්වය අතර ගැටුම් ද හටගත් බවයි.
+Foreign media reports that clashes between the two sides.
 
-ප්‍රංශයේ ගොවීන් මෙලෙස විරෝධතාවේ නිරත වන්නේ, සිය ආදායම් අවම වීම, කාලගුණ විපර්යාස ඇතුළු ගොවීන්ට මුහුණ දීමට සිදු ව ඇති ගැටලු සඳහා සහාය වන ලෙස සහ කෘෂිකර්මාන්ත ක්ෂේත්‍රයට වෙන් කර ඇති ආයෝජන ඉහළ දමන ලෙස ඉල්ලමිනි.
+Farmers in France are protesting, asking for their income, including their income, and enhance investment in agriculture.
 
-ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රොන් ධුරයෙන් ඉල්ලා අස් විය යුතු බවට විරෝධතාවේ නියුතු වූ ගොවීන් අවධාරණය කර ඇත.
+Farmers who protested against the resignation of the French President Ekanuel McConon.
 
-දින 09ක් පුරා පැවැත්වෙන ප්‍රදර්ශනයට ලක්ෂ 06 ඉක්ම වූ පිරිසක් එක් වී ඇති බව වාර්තා වේ.
+It is reported that a group of Rs.
 
 ◼️
 
 [Data](articles/9c65010f.json)
 
+[Extended Data](ext_articles/9c65010f.ext.json)
+
 ---
 
-### වැඩි කළ වැටුප ගැන මහ බැංකුවෙන් පැහැදිලි කිරීමක්
+### Central Bank explains about increased salary
 
 *2024-02-25 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193804) · `si`
 
-ශ්‍රී ලංකා මහ බැංකු සේවකයින්ගේ වැටුප් වැඩි කිරීම සම්බන්ධයෙන් පසුගිය පාර්ලිමේන්තු සැසිවාරවල දී මන්ත්‍රීවරු කිහිප දෙනෙක් සිදුකළ අදහස් දැක්වීම් සම්බන්ධයෙන් සිය අවධානය යොමුවූ බව නිවේදනයක් නිකුත් කරමින් මහ බැංකුව පවසයි.
+The Central Bank said in a statement that several MPs have paid attention to the comments made by several MPs regarding the increase in salaries of Central Bank employees.
 
-එම වැටුප් වැඩි කිරීම ශ්‍රී ලංකා මහ බැංකු පාලක මණ්ඩලයේ අනුමැතිය සහිතව වෘත්තිය සමිති හා එළැඹ ඇති එකඟතා ගිවිසුමට අනුකූලව සිදුකර ඇති බව සඳහන් ය.
+It is said that the salary increase was carried out in accordance with the Trade Unions and Agreement Agreement with the approval of the Central Bank of Sri Lanka.
 
-මේ සම්බන්ධයෙන් කරුණු පැහැදිලි කිරීම සඳහා ලිඛිතව අවස්ථාව ඉල්ලන ලෙස පාලක මණ්ඩලය කළ දැනුම්දීම අනූව මුදල් අමාත්‍යවරයා ලෙස ද කටයුතු කරන ජනාධිපතිවරයා වෙත 22 වනදා මහ බැංකු අධිපති ලිපියක් යොමු කළ බව අදාළ නිවේදනයේ දැක්වෙයි.
+The statement made by a Governor of the Central Bank, a central bank's letter to the President, has written to the Government Minister has written to the Government Minister asking for its writing to explain the matter.
 
-එම අවස්ථාව ලැබුණු පසු සුදුසු පාර්ලිමේන්තු කමිටුවක් ඔස්සේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ව දැනුවත් කිරීමට මහ බැංකුව සූදානමින් පසුවන බව එම නිවේදනයේ සඳහන් ය.
+Once the occasion was received, the Central Bank will be prepared to educate Members of Parliament.
 
 ◼️
 
 [Data](articles/ce2558f8.json)
+
+[Extended Data](ext_articles/ce2558f8.ext.json)
 
 ---
 
@@ -1547,6 +1553,8 @@ Sri Lanka’s recent blood-soaked history is replete with mass killings and many
 ...
 
 [Data](articles/d1aae8b4.json)
+
+[Extended Data](ext_articles/d1aae8b4.ext.json)
 
 ---
 

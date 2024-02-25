@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 06:56:00**
+As of **2024-02-25 07:16:42**
 
 ## Newspaper Stats
 
-*Scraped **9,105** Articles*
+*Scraped **9,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ adalk | 761
 adaderanalk | 1,097
 tamilmirrorlk | 1,115
 virakesarilk | 1,241
-adaderanasinhalalk | 1,360
+adaderanasinhalalk | 1,362
 dailymirrorlk | 1,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,094 (99.9%) of 9,105 articles have been extended.
+9,099 (99.9%) of 9,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### ප්‍රදේශ 04කින් ඝාතන 04ක්
+
+*2024-02-25 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193787) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයකින් මනුෂ්‍ය ඝාතන 04ක් වාර්තා වී ඇති බව පොලීසිය පවසයි.
+
+පිටිගල පොලිස් වසමේ කලුආරච්චිගොඩ - පිටිගල ප්‍රදේශයේ දී පුතා විසින් පියාගේ හිසට පොරවකින් පහර දී ඝාතනය කර තිබේ.
+
+මිය ගොස් ඇත්තේ, කලුආරච්චිගොඩ - පිටිගල ප්‍රදේශයේ පදිංචි 80 හැවිරිදි පුද්ගලයෙකි.
+
+සැකකරු මානසික රෝගී තත්ත්වයකින් පෙළෙන අයෙකු වන අතර, 47 හැවිරිදි සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු මීට පෙර අංගොඩ මානසික රෝහලේ ප්‍රතිකාර ලබා පැමිණි පුද්ගලයෙකු බවට අනාවරණය වී ඇත.
+
+මේ අතර කඹුරුපිටිය - නාරන්දෙණිය ප්‍රදේශයේ දී තියුණු ආයුධයකින් පහර දී පුද්ගලයෙකු ඝාතනය කර තිබේ.
+
+මරණකරු මව සමඟ නිවසේ ජීවත් ව සිට ඇති අතර, මව නොමැති අවස්ථාවේ දී අසල්වාසී පුද්ගලයෙකු සමඟ බීමතින් පැමිණ ආරවුලක් ඇති කරගෙන ඇත.
+
+එහි දී අනෙක් පුද්ගලයා විසින් තියුණු ආයුධයකින් පහර දී එම ඝාතනය කර ඇති බවට පොලීසිය සැකකරනු ලබයි.
+
+මිය ගොස් ඇත්තේ, නාරන්දෙණිය නැඟෙනහිර - කඹුරුපිටිය ප්‍රදේශයේ පදිංචි 57 හැවිරිදි පුද්ගලයෙකි.
+
+ඝාතනයට සම්බන්ධ සැකකරු පළා ගොස් ඇති අතර, අත්අඩංගුවට ගැනීම සඳහා කඹුරුපිටිය පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+
+...
+
+[Data](articles/ec8e9eb0.json)
+
+---
+
+### අද සවස් කාලයේදී වැසි
+
+*2024-02-25 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193786) · `si`
+
+බස්නාහිර, දකුණු, සබරගමුව සහ මධ්‍යම පළාත්වල අද (25) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඌව සහ නැගෙනහිර පළාත්වල වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+
+සබරගමුව සහ මධ්‍යම පළාත්වලත් බදුල්ල  දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/263ea413.json)
+
+---
 
 ### Colombo’s most popular caricaturist in a bygone era
 
@@ -75,6 +123,8 @@ For a period of about two decades after the ceasing of hostiities in World War 2
 ...
 
 [Data](articles/316d6d6c.json)
+
+[Extended Data](ext_articles/316d6d6c.ext.json)
 
 ---
 
@@ -176,6 +226,8 @@ With elephants so much in the news, an incident came to mind a few weeks ago lis
 
 [Data](articles/d2fea074.json)
 
+[Extended Data](ext_articles/d2fea074.ext.json)
+
 ---
 
 ### Earth slip falls down
@@ -244,6 +296,8 @@ Alexei Anatolyevich Navalny, born June 4, 1976, was of Russian and Ukrainian des
 
 [Data](articles/6d287a60.json)
 
+[Extended Data](ext_articles/6d287a60.ext.json)
+
 ---
 
 ### N.E. Weerasooria ( 1895 – 1974):lawyer with wide interests
@@ -258,6 +312,8 @@ Norman Edward Weerasooria was the youngest of the three sons of Mudaliyar Weeras
 
 [Data](articles/ed53facc.json)
 
+[Extended Data](ext_articles/ed53facc.ext.json)
+
 ---
 
 ### Dilmah Conservation – an effort to combat “an inconvenient truth”
@@ -271,6 +327,8 @@ The bounty of nature is a gift from God that mankind, for centuries, has taken f
 ...
 
 [Data](articles/c380ca9c.json)
+
+[Extended Data](ext_articles/c380ca9c.ext.json)
 
 ---
 
@@ -2019,45 +2077,5 @@ Sri Lanka has since made progress on about $11 billion of bilateral debt restruc
 [Data](articles/abd78319.json)
 
 [Extended Data](ext_articles/abd78319.ext.json)
-
----
-
-### Rhythm
-
-*2024-02-24 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/177167) · `ta`
-
-The Department of Meteorology has said that the temperature has increased due to the decline in the amount of air in the Ratnapura district and the Central Province of Sabaragamuwa Province in the country.
-
-Accordingly, the temperature is recorded in 36 degrees Celsius, 30 degrees Celsius Kandy and 21 degrees Celsius Nuwara Eliya.
-
-The atmosphere does not reach the cooling position when the air is reduced. That is why the temperature has increased. Increasing temperature during this period of the year is one of the usuals.
-
-◼️
-
-[Data](articles/dbad1438.json)
-
-[Extended Data](ext_articles/dbad1438.ext.json)
-
----
-
-### Excessive speed called the kill
-
-*2024-02-24 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193760) · `si`
-
-One person was killed and another injured in a car accident in general area Galenilawa.
-
-The accident had occurred when the police collided with a wall and collided with the prices of bouting of heavy rapidly fast-speed motorcycle board.
-
-The backdrop, the victim has been killed by the motorcyclist and the victims of the accident.
-
-The deceased is a 19 year old Rajanganaya South Uganasaya.
-
-Motorcyclist has been admitted to the Anuradhapura Teaching Hospital for further treatment.
-
-◼️
-
-[Data](articles/13f18620.json)
-
-[Extended Data](ext_articles/13f18620.ext.json)
 
 ---

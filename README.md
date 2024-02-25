@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 19:17:27**
+As of **2024-02-25 19:33:11**
 
 ## Newspaper Stats
 
-*Scraped **9,206** Articles*
+*Scraped **9,208** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 465
 dailyftlk | 483
 islandlk | 486
 adalk | 773
-adaderanalk | 1,112
+adaderanalk | 1,113
 tamilmirrorlk | 1,133
-virakesarilk | 1,247
+virakesarilk | 1,248
 dailymirrorlk | 1,384
 adaderanasinhalalk | 1,391
 
@@ -26,25 +26,63 @@ adaderanasinhalalk | 1,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,205 (100.0%) of 9,206 articles have been extended.
+9,206 (100.0%) of 9,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### ආන්දෝලනාත්මක නිපන්දුව ගැන ජයසූරිය හිනාවෙවී කී කතාව
+### The story that Jayasuriya was laughing about the controversial skills
 
 *2024-02-25 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193816) · `si`
 
-ඇෆ්ගනිස්තානය සමග පැවති තෙවන විස්සයි විස්ස තරගයේ අවසන් පන්දුවාරයේ දී විනිසුරුවරයා ලබා දුන් තීරණය අනුමත කළ නොහැකි බව ශ්‍රී ලංකා ක්‍රිකට් පුහුණු උපදේශක, ප්‍රවීණ ක්‍රිකට් ක්‍රීඩක සනත් ජයසුරිය මහතා පවසයි.
+Sri Lanka Cricketer Training Consultant, Veteran cricketer Sanath Jayasuriya says that the decision of the judge in the final Twenty20 match with Afghanistan.
 
-ඔහු පෙන්වා දෙන්නේ අදාල විනිසුරුවරයාගේ තීරණය සම්බන්ධයෙන් ශ්‍රී ලංකා ක්‍රිකට් ආයතනය ඉදිරියේ දී පියවරක් ගනු ඇති බවය.
+He points out that SLC will take action in the future of the judge.
 
-ගාල්ල ප්‍රදේශයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් සනත් ජයසුරිය මහතා මෙම අදහස් පළ කළේය.
+Speaking to the media in Galle, Sanath Jayasuriya expressed these views.
 
 ◼️
 
 [Data](articles/b0e580d9.json)
+
+[Extended Data](ext_articles/b0e580d9.ext.json)
+
+---
+
+### தாயின் பிரிவால்  துயரமடைந்த மகன் மாரடைப்பால் மரணம்!
+
+*2024-02-25 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177276) · `ta`
+
+தாயின் மரணத்தால் மிகவும் துயரமடைந்து காணப்பட்ட அவரது மகன், தனது தாயார் உயிரிழந்து சில மணித்தியாலங்களில் திடீர் மாரடைப்பால் உயிரிழந்த சம்பவம் இந்துருவ பிரதேசத்தில் பதிவாகியுள்ளது.
+
+இந்துருவ, அகாடகொட, கல்தரமுல்லையில் வசித்து வந்த 71 வயதுடைய  ஏழு பிள்ளைகளின் தாயாரே உயிரிழந்துள்ளார்.
+
+உயிரிழந்த மகன் 47 வயதான ஒரு பிள்ளையின் தந்தையாவார், இவரின் தாய் கடந்த 22ஆம் திகதி உயிரிழந்தமையினால் அவரது மகன்  மிகுந்த அதிர்ச்சியும் துயரமும் அடைந்திருந்தார் என குடும்பத்தினர் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/9dc5443e.json)
+
+---
+
+### Gaza truce talks resume in Doha - Egyptian media
+
+*2024-02-25 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97525/gaza-truce-talks-resume-in-doha-egyptian-media) · `en`
+
+Negotiations for a ceasefire in Gaza have resumed in Doha between “experts from Egypt, Qatar, the United States and Israel”, as well as Hamas representatives, state-linked Egyptian media reported Sunday.
+
+An Israeli delegation led by Mossad chief David Barnea was in Paris on Friday discussing possibilities of a deal to ensure a fresh ceasefire and the release of hostages held by Hamas in Gaza in exchange for Palestinian prisoners held by Israel.
+
+Israel’s war cabinet agreed on Saturday to send a delegation to Qatar to continue the talks, according to Israeli media reports.
+
+The talks are a “continuation of what was discussed in Paris” and “will be followed by meetings in Cairo,” reported Al-Qahera News, which is linked to Egyptian state intelligence services.
+
+During the unprecedented Hamas attack on Israel on October 7, Palestinian militants took some 250 hostages, 130 of whom remain in Gaza, including 30 presumed dead, according to Israel.
+
+...
+
+[Data](articles/b3c9e9a1.json)
 
 ---
 
@@ -2073,37 +2111,5 @@ Caricatures have always been endearing pieces of art which have commented on sop
 [Data](articles/7d2675f3.json)
 
 [Extended Data](ext_articles/7d2675f3.ext.json)
-
----
-
-### KEY TO DEVELOPMENT IS COMMITTED AND ETHICAL LEADERSHIP
-
-*2024-02-25 02:59:00* · [`islandlk`](http://island.lk/key-to-development-is-committed-and-ethical-leadership/) · `en`
-
-The Presidential Election of 1988 was held amid fear of disruption and death threats to campaigners. During the election period, a curfew was in force from 11 pm to 5 am throughout the month from Nomination to Polling Day while the forces of disruption were also enforcing fear psychosis, causing shops, government institutions, offices, and even court houses to close regularly.
-
-From Nomination Day, the candidates Prime Minister Ranasinghe Premadasa, Mrs. Sirima Bandaranaike and Mr. Ossie Abeygunasekara were conducting their election campaigns under heavy security. People were fearful of attending meetings, and attendance at most meetings was limited. The JVP did not run at this election.
-
-...
-
-[Data](articles/39497d13.json)
-
-[Extended Data](ext_articles/39497d13.ext.json)
-
----
-
-### WHEN TIGER (RAY) HOLDEN MET DARA SINGH
-
-*2024-02-25 02:52:00* · [`islandlk`](http://island.lk/when-tiger-ray-holden-met-dara-singh/) · `en`
-
-Professional wrestling was introduced to Sri Lanka (then known as Ceylon) by Donovan Andree, a prominent organiser of sporting and musical events for the middle class. An entertainment starved nation was quick to lap up the fare so diligently selected by Donovan.
-
-For a period of about two decades after the ceasing of hostiities in World War 2, Ceylon’s middle class woke up from a long war induced slumber to find that we were living in a virtual cultural desert. For the Sinhala speaking folk there was some relief from the emergence of Sunil Santha waxing lyrical on the joys and the beauty of the rural countryside through songs like “Olu Pipeela,” “Handapane” and “Bovitiya dhang palukam waray” For the English speaking Colombo centric middle class there was only Radio Ceylon and the Western movies and associated music like Jimmy Rodgers epic “Moonlight and Skies” and Doris Day’s “Que Sera “and the like.
-
-...
-
-[Data](articles/316d6d6c.json)
-
-[Extended Data](ext_articles/316d6d6c.ext.json)
 
 ---

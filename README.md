@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 15:33:03**
+As of **2024-02-25 15:50:30**
 
 ## Newspaper Stats
 
-*Scraped **9,182** Articles*
+*Scraped **9,187** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 92
+colombotelegraphcom | 93
 bbccomsinhala | 111
 dbsjeyarajcom | 165
 newsfirstlk | 363
@@ -17,20 +17,54 @@ dailyftlk | 483
 islandlk | 486
 adalk | 769
 adaderanalk | 1,109
-tamilmirrorlk | 1,129
+tamilmirrorlk | 1,132
 virakesarilk | 1,246
 adaderanasinhalalk | 1,381
-dailymirrorlk | 1,383
+dailymirrorlk | 1,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,182 (100.0%) of 9,182 articles have been extended.
+9,182 (99.9%) of 9,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### குருநாகல் வைத்தியசாலையில் திடீரென அதிகரித்த மரணங்கள்
+
+*2024-02-25 15:11:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/குருநாகல்-வைத்தியசாலையில்-திடீரென-அதிகரித்த-மரணங்கள்/94-333784) · `ta`
+
+குருநாகல் போதனா வைத்தியசாலையில் சிறுநீரக நோயாளர்களுக்கான டயாலிசிஸ் பிரிவிற்குள் கிருமிகள் பரவி நோயாளர்கள் பலியாகியுள்ளமையை கருத்திற்கொண்டு அந்த பிரிவை தற்காலிகமாக மூடுவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இதற்கான காரணம் இதுவரை வெளிவராத நிலையில் சுகாதார அமைச்சு இது தொடர்பில் விசாரணைகளை ஆரம்பித்துள்ளது.
+
+சுமார் ஒரு வாரமாக இரத்தம் ஏற்றுவதற்காக அனுமதிக்கப்பட்ட நோயாளிகள் இறக்கத் தொடங்கியுள்ளனர், இதுவரை ஐந்துக்கும் மேற்பட்ட நோயாளிகள் இரத்தம் ஏற்றும் செயல்முறையின் போது இறந்துள்ளனர்.
+
+இரத்தம் ஏற்றிய பின்பும் ரத்த அளவு குறைந்ததால் இந்த மரணங்கள் ஏற்பட்டதாக கூறப்படுகிறது.
+
+இச்சம்பவம் தொடர்பில் ஆராய்வதற்காக சுகாதார அமைச்சின் அதிகாரிகள் குழுவொன்று இன்று (24) குருநாகலுக்கு விஜயம் செய்யவுள்ளது. R
+
+◼️
+
+[Data](articles/1b89e804.json)
+
+---
+
+### ஹசரங்கவுக்குத் தடை
+
+*2024-02-25 15:03:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/ஹசரங்கவுக்குத்-தடை/88-333780) · `ta`
+
+இலங்கையின் இருபதுக்கு – 20 சர்வதேசப் போட்டிகளுக்கான அணித்தலைவர் வனிடு ஹசரங்கவுக்கு, சர்வதேச கிரிக்கெட் சபையால் இரண்டு போட்டித் தடை விதிக்கப்பட்டுள்ளது.
+
+ஆப்கானிஸ்தானுக்கெதிரான மூன்றாவது இருபதுக்கு – 20 சர்வதேசப் போட்டியில் நோ போல் வழங்காத நடுவர் லின்டன் ஹனிபல்லுடன் மோதியமையடுத்தே போட்டித் தடையும், அவரது போட்டி ஊதியத்தின் 50 சதவீத அபராதமும் ஹசரங்கவுக்கு வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2caf0a10.json)
+
+---
 
 ### Shooting at Jampettah Street leaves one injured
 
@@ -175,6 +209,18 @@ Once the occasion was received, the Central Bank will be prepared to educate Mem
 [Data](articles/ce2558f8.json)
 
 [Extended Data](ext_articles/ce2558f8.ext.json)
+
+---
+
+### Counter-protest in Pitipana…
+
+*2024-02-25 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Counter-protest-in-Pitipana/110-277672) · `en`
+
+A counter-protest was held in Negombo today in response to allegations that the fisheries harbour in Pitipana has been taken over by the Archdiocese of Colombo. Demonstrators accused the opposing group of spreading falsehoods and claimed that the decision by the Archdiocese of Colombo is correct. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/3ba06f73.json)
 
 ---
 
@@ -690,6 +736,22 @@ Then pours water in it. Then there is a small cloth with a laundry scenes. It gi
 
 ---
 
+### உலகின் மிகச்சிறிய வாஷிங் மெஷின் ; காணொளி
+
+*2024-02-25 10:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகின்-மிகச்சிறிய-வாஷிங்-மெஷின்-காணொளி/175-333758) · `ta`
+
+உலகின் மிகச்சிறிய வாஷிங் மெஷினை உருவாக்கி ஆந்திராவை சேர்ந்த சாய் திருமலாநீதி என்பவர் புதிய கின்னஸ் சாதனை படைத்துள்ளார். இதுதொடர்பான வீடியோ இணையத்தில் வைரலாகி வருகிறது.
+
+இன்ஸ்டாகிராமில் பகிரப்பட்டுள்ள அந்த வீடியோவில், சாய் திருமலாநீதி ஒரு சிறிய வாஷிங் மெஷினை உருவாக்கும் செயல்முறை காட்சிகள் உள்ளது. மிகவும் நுணுக்கமான கவனிப்புடன், சுவிட்ச் மற்றும் ஒரு சிறிய பைப் உள்ளிட்ட சிறிய பாகங்களை பயன்படுத்தி அவர் வாஷிங் மெஷினை ஒருங்கிணைக்கிறார். அது முழுமையாக செயல்பட தொடங்குகிறது.
+
+பின்னர் அதில் தண்ணீர் ஊற்றுகிறார். அதன்பிறகு ஒரு சிறிய துணியை போட்டு சலவை செய்யும் காட்சிகள் இடம்பெற்றுள்ளது. சிறிது நேரத்தில் அந்த துணியை வெளியே எடுத்தபோது அது சுத்தமாக காட்சி அளிக்கிறது. இணையத்தில் வைரலான இந்த வீடியோ 70 லட்சத்திற்கும் அதிகமான பார்வைகளை பெற்றுள்ளது. இதைப்பார்த்த பயனர்கள் பலரும் சாய் திருமலாநீதியை பாராட்டி கருத்துக்களை பதிவிட்டு வருகின்றனர்.
+
+...
+
+[Data](articles/fb299f86.json)
+
+---
+
 ### President orders probe into directive for Russian, Ukrainian tourists to depart
 
 *2024-02-25 10:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-orders-probe-into-directive-for-Russian-Ukrainian-tourists-to-depart/108-277668) · `en`
@@ -923,6 +985,18 @@ SriLankan Airlines extends apologies to any inconvenienced passengers and assure
 [Data](articles/2220e152.json)
 
 [Extended Data](ext_articles/2220e152.ext.json)
+
+---
+
+### Disturbing Echoes Of The Last Phase Of The Civil War In Sri Lanka & The Treatment Of Palestinians Under Zionist Occupation – Part II
+
+*2024-02-25 10:01:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/disturbing-echoes-of-the-last-phase-of-the-civil-war-in-sri-lanka-the-treatment-of-palestinians-under-zionist-occupation-part-ii/) · `en`
+
+Faced with a growing body of evidence of mass killings of civilians, the Lankan and the Israeli governments, as mentioned have fallen back on demonising the colonised . Professor Tony Taylor has discussed this historical and political trend in the discussion of the Armenian Genocide, the denial of the methodical killing of the Jews in Europe by the Nazis and their collaborators (6 million died out of out of 9 million in the occupied territories), the stubborn denial of successive Japanese governments of the Japanese role in the massacres of indigenous populations  in China and Korea, the denial of atrocities committed by Stalinists in the USSR, Serbian and Croatian atrocities during the breakup of Yugoslavia, and a reluctance by Australians (only now changing) to acknowledge the massacres of Aboriginal people by colonial occupiers[1].
+
+...
+
+[Data](articles/b5390f64.json)
 
 ---
 
@@ -1983,115 +2057,5 @@ Attorney -at -Law HMM, a Member of Parliament and former Minister of State. Hari
 [Data](articles/853e7116.json)
 
 [Extended Data](ext_articles/853e7116.ext.json)
-
----
-
-### Hasaranga to miss first two T20Is against Bangladesh for suspension
-
-*2024-02-24 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hasaranga-to-miss-first-two-T20Is-against-Bangladesh-for-suspension/108-277658) · `en`
-
-Colombo, Feb 24 (ICC) - Sri Lanka’s T20I captain Wanindu Hasaranga has been suspended for two international matches after his accumulated demerit points reached five within a 24-month period following his latest breach of the ICC Code of Conduct, for which he received a 50 percent fine and three demerit points.
-
-Hasaranga was found guilty of breaching article 2.13 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to “Personal abuse of a Player, Player Support Personnel, Umpire or Match Referee during an International Match.
-
-Hasaranga’s five demerit points convert to two suspension points. As two suspension points equate to a ban from one Test or two ODIs or T20Is, whatever comes first for the player or player support personnel, Hasaranga stands suspended from Sri Lanka’s first two T20Is against Bangladesh next month.
-
-The incident occurred after the end of the match, when Hasaranga confronted umpire Lyndon Hanibal to criticise him over a decision.
-
-...
-
-[Data](articles/d4bf6ea5.json)
-
-[Extended Data](ext_articles/d4bf6ea5.ext.json)
-
----
-
-### Suspect arrested for 22 years
-
-*2024-02-24 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193781) · `si`
-
-A man who was residing in Kuruwita was murdered in 2002 and suspect his wife's brother.
-
-The suspect was arrested after the murder of the 22 years after the murder of the suspect, he was arrested and released on bail.
-
-The Ratnapura High Court ruled in 2019 in 2019, as the suspect was not present with the evidence of the suspect.
-
-However, the suspect who visited foreign countries came to the island again in January this year and lived in a house that was abandoned in Agalawatta area.
-
-Kuruwita Police OIC Chief Inspector of Police of Kuruwita. At the same time, information received by Mr. Udayashantha has received information.
-
-The suspect was arrested last night.
-
-The suspect was arrested by the murder of her sister's husband, 22 years later.
-
-The suspect was produced in court and remanded until Monday.
-
-◼️
-
-[Data](articles/92325ba5.json)
-
-[Extended Data](ext_articles/92325ba5.ext.json)
-
----
-
-### Colombo Large scale housing racket
-
-*2024-02-24 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193780) · `si`
-
-Derana Ukasa has revealed that the housing facilities have been provided with houses in Colombo, the Housing Development Authority (Housing Development Authority).
-
-A racketeer gang has defrauded people to deceive people in two apartment complexes in the Housing Development Authority in Slavnia and Modara.
-
-Accordingly, the investigation was revealed that the racket had been caught in various levels.
-
-The apartment complexes are cut into the keys to houses and enter the houses to the people who come to buy houses.
-
-The racketeers had also worked to prepare postheads and documents of the Presidential Secretariat and Housing Development Authority.
-
-The Ukasa was also adopted to the name of Power and Hygylands to the name of the home.
-
-It was revealed that several brokers were recovered from Rs.
-
-The racketeers had even provided the documents that were built to the houses of the Metromax Housing Complex at the Metromrax Housing Complex at the UDA.
-
-...
-
-[Data](articles/0de9bbc9.json)
-
-[Extended Data](ext_articles/0de9bbc9.ext.json)
-
----
-
-### Fanuvu Hasaranga banned
-
-*2024-02-24 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193779) · `si`
-
-Sri Lanka's 20th group leader Monduwatta has been banned from the ICC.
-
-◼️
-
-[Data](articles/45d507dc.json)
-
-[Extended Data](ext_articles/45d507dc.ext.json)
-
----
-
-### Wanindu Hasaranga suspended for two matches, fined
-
-*2024-02-24 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97506/wanindu-hasaranga-suspended-for-two-matches-fined) · `en`
-
-Sri Lanka’s T20I captain Wanindu Hasaranga has been suspended for two international matches after his accumulated demerit points reached five within a 24-month period following his latest breach of the ICC Code of Conduct, for which he received a 50 percent fine and three demerit points.
-
-Hasaranga was found guilty of breaching article 2.13 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to ”Personal abuse of a Player, Player Support Personnel, Umpire or Match Referee during an International Match.
-
-Hasaranga’s five demerit points convert to two suspension points. As two suspension points equate to a ban from one Test or two ODIs or T20Is, whatever comes first for the player or player support personnel, Hasaranga stands suspended from Sri Lanka’s first two T20Is against Bangladesh next month.
-
-The incident occurred after the end of the match, when Hasaranga confronted umpire Lyndon Hanibal to criticise him over a decision.
-
-...
-
-[Data](articles/8dcce7bd.json)
-
-[Extended Data](ext_articles/8dcce7bd.ext.json)
 
 ---

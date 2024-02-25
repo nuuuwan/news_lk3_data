@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 14:48:37**
+As of **2024-02-25 15:02:29**
 
 ## Newspaper Stats
 
-*Scraped **9,178** Articles*
+*Scraped **9,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 465
 dailyftlk | 483
 islandlk | 486
 adalk | 769
-adaderanalk | 1,107
+adaderanalk | 1,108
 tamilmirrorlk | 1,129
 virakesarilk | 1,246
 adaderanasinhalalk | 1,381
@@ -26,11 +26,27 @@ dailymirrorlk | 1,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,178 (100.0%) of 9,178 articles have been extended.
+9,178 (100.0%) of 9,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### Trump wins South Carolina, easily beating Haley in her home state and closing in on GOP nomination
+
+*2024-02-25 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97520/trump-wins-south-carolina-easily-beating-haley-in-her-home-state-and-closing-in-on-gop-nomination) · `en`
+
+Donald Trump won South Carolina’s Republican primary on Saturday, easily beating former U.N. Ambassador Nikki Haley in her home state and further consolidating his path to a third straight GOP nomination.
+
+Trump has now swept every contest that counted for Republican delegates, adding to previous wins in Iowa, New Hampshire, Nevada and the U.S. Virgin Islands. Haley is facing growing pressure to leave the race but says she’s not going anywhere despite losing the state where she was governor from 2011 to 2017.
+
+A 2020 rematch between Trump and President Joe Biden is becoming increasingly inevitable. Haley has vowed to stay in the race through at least the batch of primaries on March 5, known as Super Tuesday, but was unable to dent Trump’s momentum in her home state despite holding far more campaign events and arguing that the indictments against Trump will hamstring him against Biden.
+
+...
+
+[Data](articles/0d83dbd5.json)
+
+---
 
 ### Dinch of Little Requesting Teaching
 
@@ -2079,21 +2095,5 @@ Chief Opposition Whip, MP Lakshman Kiriella also recently requested Speaker of P
 [Data](articles/d42fe2b4.json)
 
 [Extended Data](ext_articles/d42fe2b4.ext.json)
-
----
-
-### ACL sets new standards in cable innovation
-
-*2024-02-24 19:33:00* · [`islandlk`](http://island.lk/acl-sets-new-standards-in-cable-innovation/) · `en`
-
-ACL, a pioneering force in the industry for over six decades, has introduced two groundbreaking cable solutions: the enhanced FireGuard cable and the energy-saving “Super Conductivity Cable.”
-
-The FireGuard cable, initially launched almost twenty years ago, has undergone substantial advancements, incorporating fire-resistant retardant attributes into its proprietary PVC formulation. ACL’s rigorous research and development efforts have ensured that FireGuard remains the only proven solution in the market, effectively preventing the spread of fire. Recent upgrades have further augmented FireGuard cables with improved energy-saving properties, solidifying ACL’s reputation as an industry leader in safety and innovation.
-
-...
-
-[Data](articles/593a2255.json)
-
-[Extended Data](ext_articles/593a2255.ext.json)
 
 ---

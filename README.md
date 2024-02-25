@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 14:32:54**
+As of **2024-02-25 14:48:37**
 
 ## Newspaper Stats
 
-*Scraped **9,177** Articles*
+*Scraped **9,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 465
 dailyftlk | 483
 islandlk | 486
-adalk | 768
+adalk | 769
 adaderanalk | 1,107
 tamilmirrorlk | 1,129
 virakesarilk | 1,246
@@ -26,7 +26,7 @@ dailymirrorlk | 1,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,177 (100.0%) of 9,177 articles have been extended.
+9,178 (100.0%) of 9,178 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,22 @@ Thus, the Governing Board, at a meeting held on 21 February, had requested CBSL 
 [Data](articles/c705f261.json)
 
 [Extended Data](ext_articles/c705f261.ext.json)
+
+---
+
+### Dilantha humblers seek assistance
+
+*2024-02-25 13:17:45* · [`adalk`](https://www.ada.lk/breaking_news/ඩිලන්ත-නිහතමානී-ශ්‍රී-ලාංකිකයන්ගේ-සහය-පතයි/11-408262) · `si`
+
+Dilantha Malagamuwa and Ashan Silva in Sri Lanka, Dilantha Silva, Ashan Silva, in 2024 countries, calls for Lolin 'support to participate in the European Motor Race.
+
+Participating in a press conference held to participate in this tournament and participating in a press conference held in Colombo to be able to support it.
+
+◼️
+
+[Data](articles/9f3b2cf5.json)
+
+[Extended Data](ext_articles/9f3b2cf5.ext.json)
 
 ---
 
@@ -2079,21 +2095,5 @@ The FireGuard cable, initially launched almost twenty years ago, has undergone s
 [Data](articles/593a2255.json)
 
 [Extended Data](ext_articles/593a2255.ext.json)
-
----
-
-### SLT-MOBITEL launches tailored suite solutions for MSMEs to ‘Soar Beyond Limits’
-
-*2024-02-24 19:33:00* · [`islandlk`](http://island.lk/slt-mobitel-enterprise-launches-tailored-suite-solutions-for-msmes-to-soar-beyond-limits/) · `en`
-
-SLT-MOBITEL has unleashed its new SLT-MOBITEL Enterprise initiative titled ‘Soar Beyond Limits’ presenting Micro, Small, And Medium-Sized Enterprises (MSMEs) a tailored suite of business solutions to achieve digital transformation and increase their contribution towards the economic development of the nation. Through this initiative, SLT-MOBITEL looks forward to enabling MSMEs to drive substantial progress across key metrics including economic growth, technological readiness, and the ability to harness technology for innovation to meet local demands.
-
-At an Enterprise product Forum held recently, SLT-MOBITEL Enterprise provided MSME business owners launched Cubkit web builder, Akaza HR, Akaza ERP and provided participants with the opportunity to immerse and interact with these products.
-
-...
-
-[Data](articles/72c86427.json)
-
-[Extended Data](ext_articles/72c86427.ext.json)
 
 ---

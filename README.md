@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 14:02:33**
+As of **2024-02-25 14:17:31**
 
 ## Newspaper Stats
 
-*Scraped **9,173** Articles*
+*Scraped **9,177** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 92
 bbccomsinhala | 111
-dbsjeyarajcom | 164
+dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 465
 dailyftlk | 483
@@ -19,18 +19,84 @@ adalk | 768
 adaderanalk | 1,107
 tamilmirrorlk | 1,129
 virakesarilk | 1,246
-adaderanasinhalalk | 1,378
+adaderanasinhalalk | 1,381
 dailymirrorlk | 1,381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,173 (100.0%) of 9,173 articles have been extended.
+9,173 (100.0%) of 9,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
+
+### අඟහිඟකම් මැදින් අධ්‍යාපනය ඉල්ලන පුංචි දිනිඳු
+
+*2024-02-25 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193806) · `si`
+
+කෙතරම් අඟහිඟකම් මධ්‍යයේ වුව ද ජීවිතය සරිකර ගැනීමට අපමණ වෙහෙසක් දරන යුවළක් පිළිබඳ අද දෙරණට දිඹුලාගලින් වාර්තා විය.
+
+ඒ, පොල්කටු හැඳි සකසමින් තම පවුලේ කුසගිනි නිවන්නට වෙර දරන පියෙකු පිළිබඳව යි.
+
+දිඹුලාගල - යාය 8 - දේවගල ප්‍රදේශයේ පදිංචි චමින්ද, යම් ශාරීරික සහ මානසික ආබාධයකින් පෙළුණ ද සිය පවුල ජීවත් කරවීමට තිබෙන උත්සාහය නම් අත් හැරීමට සූදානම් නැත.
+
+චමින්දගේ බිරිඳ වූ උදයංගනී ද යම් යම් ආබාධවලින් පෙළුණත් ඇය සිය සැමියාගේ මේ උත්සාහයට ශක්තියක් වන්නේ, කිසිවකුටත් අත නොපා කෙලෙසක හෝ තම ජීවිතය සරිකර ගැනීමේ බලාපොරොත්තුවෙනි.
+
+ඔවුන් ජීවත් වන්නේ, ගමේ පුද්ගලයකු ඔවුන්ට තාවකාලික ව ලබා දුන් නිවසක ය.
+
+වයස අවුරුදු 05ක් වන දිනිඳු සඳකැන් අකුරු කරන්නට ආස වුණත් පවුලේ ආර්ථික තත්ත්වය ඔහුගේ මේ ආසාවට බාධාවක් වී තිබේ.
+
+◼️
+
+[Data](articles/01c7e77d.json)
+
+---
+
+### පැරිස් අගනුවර කෘෂිකාර්මික ප්‍රදර්ශනයක් අතරතුර විරෝධතාවක්
+
+*2024-02-25 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193805) · `si`
+
+ප්‍රංශයේ පැරිස් අගනුවර වාර්ෂික කෘෂිකාර්මික ප්‍රදර්ශනයට එරට ගොවීන් පිරිසක් කඩා වැදී විරෝධතාවක නිරත වී තිබේ.
+
+එහි දී විරෝධතාකරුවන් පාලනයට ආරක්ෂක අංශවලට දැඩි පරිශ්‍රමයක් දැරීමට සිදු වූ බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+ඒ සමඟ එහි උණුසුම් තත්ත්වයක් ද හටගත් බව විදෙස් මාධ්‍යය සඳහන් කර ඇත.
+
+ප්‍රදර්ශනයට ගොවීන් ඇතුළු වීම වැළැක්වීමට ප්‍රංශ ආරක්ෂක නිලධාරින්ට දැඩි පරිශ්‍රමයක් දැරීමට සිදු ව තිබිණි.
+
+විදෙස් මාධ්‍යය වාර්තා කරන්නේ, එහි දී දෙපාර්ශ්වය අතර ගැටුම් ද හටගත් බවයි.
+
+ප්‍රංශයේ ගොවීන් මෙලෙස විරෝධතාවේ නිරත වන්නේ, සිය ආදායම් අවම වීම, කාලගුණ විපර්යාස ඇතුළු ගොවීන්ට මුහුණ දීමට සිදු ව ඇති ගැටලු සඳහා සහාය වන ලෙස සහ කෘෂිකර්මාන්ත ක්ෂේත්‍රයට වෙන් කර ඇති ආයෝජන ඉහළ දමන ලෙස ඉල්ලමිනි.
+
+ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රොන් ධුරයෙන් ඉල්ලා අස් විය යුතු බවට විරෝධතාවේ නියුතු වූ ගොවීන් අවධාරණය කර ඇත.
+
+දින 09ක් පුරා පැවැත්වෙන ප්‍රදර්ශනයට ලක්ෂ 06 ඉක්ම වූ පිරිසක් එක් වී ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/9c65010f.json)
+
+---
+
+### වැඩි කළ වැටුප ගැන මහ බැංකුවෙන් පැහැදිලි කිරීමක්
+
+*2024-02-25 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193804) · `si`
+
+ශ්‍රී ලංකා මහ බැංකු සේවකයින්ගේ වැටුප් වැඩි කිරීම සම්බන්ධයෙන් පසුගිය පාර්ලිමේන්තු සැසිවාරවල දී මන්ත්‍රීවරු කිහිප දෙනෙක් සිදුකළ අදහස් දැක්වීම් සම්බන්ධයෙන් සිය අවධානය යොමුවූ බව නිවේදනයක් නිකුත් කරමින් මහ බැංකුව පවසයි.
+
+එම වැටුප් වැඩි කිරීම ශ්‍රී ලංකා මහ බැංකු පාලක මණ්ඩලයේ අනුමැතිය සහිතව වෘත්තිය සමිති හා එළැඹ ඇති එකඟතා ගිවිසුමට අනුකූලව සිදුකර ඇති බව සඳහන් ය.
+
+මේ සම්බන්ධයෙන් කරුණු පැහැදිලි කිරීම සඳහා ලිඛිතව අවස්ථාව ඉල්ලන ලෙස පාලක මණ්ඩලය කළ දැනුම්දීම අනූව මුදල් අමාත්‍යවරයා ලෙස ද කටයුතු කරන ජනාධිපතිවරයා වෙත 22 වනදා මහ බැංකු අධිපති ලිපියක් යොමු කළ බව අදාළ නිවේදනයේ දැක්වෙයි.
+
+එම අවස්ථාව ලැබුණු පසු සුදුසු පාර්ලිමේන්තු කමිටුවක් ඔස්සේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ව දැනුවත් කිරීමට මහ බැංකුව සූදානමින් පසුවන බව එම නිවේදනයේ සඳහන් ය.
+
+◼️
+
+[Data](articles/ce2558f8.json)
+
+---
 
 ### CBSL requests President for opportunity to explain recent salary hike
 
@@ -67,6 +133,28 @@ The bridge has been constructed to facilitate the famous secondca tank built on 
 [Data](articles/927f454d.json)
 
 [Extended Data](ext_articles/927f454d.ext.json)
+
+---
+
+### US Deputy Secretary of State to seek a personal meeting with the president
+
+*2024-02-25 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177234) · `ta`
+
+Prior to an official meeting, Deputy Secretary of State of Sri Lanka, Ranil Wickremesinghe, held a personal meeting with President Ranil Wickremesinghe.
+
+It is reported that Verma, who came to meet the president, appealed for a personal meeting.
+
+Ranil Wickremesinghe has agreed to this and has been in official talks only after negotiations within the closed doors.
+
+During the official negotiations, the Anti -Terrorism Act was investigated on the Protection Act and clarified the positions of the president's government and pointed out the steps taken by the government.
+
+Meanwhile, the President has not announced that the Terrorism Act will be delayed until the time of the new parliament.
+
+◼️
+
+[Data](articles/ff4e20ed.json)
+
+[Extended Data](ext_articles/ff4e20ed.ext.json)
 
 ---
 
@@ -234,7 +322,7 @@ In this regard, the police rescued the infant after the information received by 
 
 ### Sri Lanka should be cautious about majority
 
-*2024-02-25 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177246) · `ta`
+*2024-02-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177246) · `ta`
 
 Sri Lanka's External Affairs Minister Tarakapalasuriya has warned the majority of the majority of the devolution of power.
 
@@ -485,28 +573,6 @@ The police said that the son was arrested in court (24).
 [Data](articles/481833f1.json)
 
 [Extended Data](ext_articles/481833f1.ext.json)
-
----
-
-### US Deputy Secretary of State to seek a personal meeting with the president
-
-*2024-02-25 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177234) · `ta`
-
-Prior to an official meeting, Deputy Secretary of State of Sri Lanka, Ranil Wickremesinghe, held a personal meeting with President Ranil Wickremesinghe.
-
-It is reported that Verma, who came to meet the president, appealed for a personal meeting.
-
-Ranil Wickremesinghe has agreed to this and has been in official talks only after negotiations within the closed doors.
-
-During the official negotiations, the Anti -Terrorism Act was investigated on the Protection Act and clarified the positions of the president's government and pointed out the steps taken by the government.
-
-Meanwhile, the President has not announced that the Terrorism Act will be delayed until the time of the new parliament.
-
-◼️
-
-[Data](articles/ff4e20ed.json)
-
-[Extended Data](ext_articles/ff4e20ed.ext.json)
 
 ---
 
@@ -1464,6 +1530,26 @@ This in turn has led to an unprecedented situation where  two members of the ITA
 
 ---
 
+### Relatives of  victims  of Sri Lanka’s Grisly Violence  Unlikely to  find closure until justice is served and those whose hands are bloodstained are held accountable for their actions.
+
+*2024-02-25 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83683) · `en`
+
+They lie buried in numerous mass graves, all evidence of Sri Lanka’s murderous recent past which has been punctuated by multiple civil conflicts.
+
+Whatever remains is evidence of Sri Lanka’s grisly history of the extrajudicial executions of rebels in both Northern and Southern insurrections.
+
+Most of the bodies remain in mass graves that stretch from Chemmani and Duraiappah Stadium in  Jaffna to burial sites in the Colombo and Matale Districts and the Southern and Central Provinces.
+
+The dead could be anyone; captured rebels, those caught in crossfires and others who were deemed to be “inconvenient,” according to a report titled ‘Gotabaya Rajapaksa’s War Time Role’ released by the International Truth and Justice Project (ITJP) on 17 January 2024.
+
+Sri Lanka’s recent blood-soaked history is replete with mass killings and many “disappearances” from the various incidents during the insurgencies of the JVP as well as the Tamil separatist war.
+
+...
+
+[Data](articles/d1aae8b4.json)
+
+---
+
 ### Disregarding Court ruling on Bills has ominous consequences given that the Sri Lankan judiciary lacks the power to review enacted law.
 
 *2024-02-25 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83680) · `en`
@@ -2001,69 +2087,5 @@ At an Enterprise product Forum held recently, SLT-MOBITEL Enterprise provided MS
 [Data](articles/72c86427.json)
 
 [Extended Data](ext_articles/72c86427.ext.json)
-
----
-
-### Union Assurance delivers remarkable 13.5% dividend rate for 2023
-
-*2024-02-24 19:33:00* · [`islandlk`](http://island.lk/union-assurance-delivers-a-13-5-dividend-rate-for-2023/) · `en`
-
-Union Assurance announced the declaration of a 13.5% Universal Life Policyholder Dividend Rate for the financial year 2023. Once again, the Company has demonstrated its financial strength and resilience by surpassing expectations with this remarkable Dividend Rate of 13.5%, compared to the minimum guaranteed Dividend Rate of 10% for the year 2023. This achievement not only underscores the Company’s robust performance but also reaffirms its position as a trustworthy partner that maximises value for customers and shareholders alike.
-
-The Chief Executive Officer of Union Assurance, Senath Jayatilake, said: “We are delighted to announce an exceptional Dividend Rate, surpassing our guaranteed rate for 2023, which is a clear testimony to our commitment to delivering optimal value to our stakeholders. Notably, this marks the highest Dividend Rate declared in the past decade, underscoring our sustained progress over the years, even in the face of formidable external challenges.”
-
-...
-
-[Data](articles/b76682f3.json)
-
-[Extended Data](ext_articles/b76682f3.ext.json)
-
----
-
-### Sithara Limited has been awarded with a ‘Merit’ at National Quality Awards
-
-*2024-02-24 19:32:00* · [`islandlk`](http://island.lk/sithara-limited-has-been-awarded-with-a-merit-at-national-quality-awards/) · `en`
-
-Sithara Limited, thas been awarded with a ‘Merit’ at the recently concluded National Quality Awards (2022), conducted by the Sri Lanka Standards Institute. National Quality Award is an annual award to recognize Sri Lankan companies that excel in Quality Management and Quality Achievement, which was conducted for the 27th consecutive year. This achievement is a result of company’s total commitment towards quality and consistency of its products and services offered to its clientele. Sithara Limited was founded in 1964 by visionary businessman and strategist C. E. L. Wickremesinghe to manufacture printing inks in Sri Lanka as a substitution to the imports that inundated into the country from European and Japanese counterparts.
-
-From the inception Sithara Limited diligently focused on Research & Development while consistently adapting and embracing newer technology.
-
-...
-
-[Data](articles/5d81b314.json)
-
-[Extended Data](ext_articles/5d81b314.ext.json)
-
----
-
-### Sun Siyam Pasikudah invites locals and residents to experience East coast luxury
-
-*2024-02-24 19:32:00* · [`islandlk`](http://island.lk/sun-siyam-pasikudah-invites-locals-and-residents-to-experience-east-coast-luxury/) · `en`
-
-Sun Siyam Pasikudah announced an offer for locals and residents in Lanka to experience the captivating beauty and cultural richness of the country’s East Coast, said a press release.
-
-It said: Guests staying a minimum of two nights will be treated to exclusive benefits, including 20% discount on all food & beverage experiences, 10% discount at The Spa treatments, complimentary room upgrades, and early check-ins, late check-outs that are subject to availability. This enticing offer is available until March 31st, 2024, providing an opportunity for guests to seize the moment and experience the best of Pasikudah in unparalleled luxury and style.
-
-...
-
-[Data](articles/f67ce435.json)
-
-[Extended Data](ext_articles/f67ce435.ext.json)
-
----
-
-### Coventry University and IIHS collaborates to offer Bachelors in Biomedical Sciences degree
-
-*2024-02-24 19:31:00* · [`islandlk`](http://island.lk/coventry-university-and-iihs-collaborates-to-offer-bachelors-in-biomedical-sciences-degree/) · `en`
-
-Coventry University in the United Kingdom (UK) has collaborated with the International Institute of Health Sciences (IIHS) to offer a ground-breaking Bachelors in Biomedical Sciences degree which will propel graduates into the forefront of healthcare advancements. Biomedical Sciences serves as the cornerstone of medical practice, providing the essential knowledge for health professionals to comprehend, diagnose, and treat illnesses effectively.
-
-The dedication of the staff, including those from international universities, ensures a comprehensive learning experience. Biomedical Science BSc (Hons) programme offered by Coventry University and IIHS is designed to prepare graduates for various careers in biomedical and biological science, including professional practice within the NHS or private sector as biomedical scientists.
-
-...
-
-[Data](articles/28bafa00.json)
-
-[Extended Data](ext_articles/28bafa00.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 11:33:07**
+As of **2024-02-25 11:51:42**
 
 ## Newspaper Stats
 
-*Scraped **9,143** Articles*
+*Scraped **9,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 483
 islandlk | 486
 adalk | 764
 adaderanalk | 1,102
-tamilmirrorlk | 1,120
+tamilmirrorlk | 1,123
 virakesarilk | 1,244
 adaderanasinhalalk | 1,374
 dailymirrorlk | 1,378
@@ -26,29 +26,47 @@ dailymirrorlk | 1,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,140 (100.0%) of 9,143 articles have been extended.
+9,143 (100.0%) of 9,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-25 (Sunday)
 
-### ஜனாதிபதியுடன் தனிப்பட்ட சந்திப்பை கோரிய அமெரிக்க பிரதி இராஜாங்க செயலாளர்
+### மகனின் கோடரி தாக்குதலில் தந்தை பலி
 
-*2024-02-25 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/177234) · `ta`
+*2024-02-25 11:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனின்-கோடரி-தாக்குதலில்-தந்தை-பலி/175-333760) · `ta`
 
-இலங்கைக்குவிஜயம் மேற்கொண்ட அமெரிக்காவின் பிரதி இராஜாங்க செயலாளர்ரிச்சட் வெர்மா உத்தியோகபூர்வ சந்திப்பில் ஈடுபடுவதற்கு முன்னதாக ஜனாதிபதி ரணில்விக்கிரமசிங்கவுடன்  தனிப்பட்ட சந்திப்பொன்றில் ஈடுபட்டார் .
+மகனின் கோடரி தாக்குதில், தந்தை மரணமடைந்த சம்பவம், காலி பிடிகல களுஆராச்சிகொட பகுதியில் சனிக்கிழமை (24)  இடம்பெற்றுள்ளது என பிடிகல பொலிஸார் தெரிவித்துள்ளனர்.
 
-ஜனாதிபதியை சந்திப்பதற்காக வெர்மா வந்த வெர்மா  தனிப்பட்ட சந்திப்பொன்றிற்காக வேண்டுகோள் விடுத்தார் என தகவல்கள் வெளியாகியுள்ளன.
+உயிரிழந்தவர் பிட்டிகல களுஆராச்சிகொட பகுதியைச் சேர்ந்த இரண்டு பிள்ளைகளின் தந்தையான பியதாச ஜயசிங்க வயது(73) என்பவர் என தெரிவிக்கப்பட்டுள்ளது.
 
-ரணில்விக்கிரமசிங்க இதற்கு இணங்கியதுடன் மூடிய கதவுகளிற்குள் பேச்சுவார்த்தைகளை மேற்கொண்ட பின்னரே உத்தியோகபூர்வ பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ளார்.
+மேலும், தாக்குதலை மேற்கொண்ட மகனை நீதிமன்றில் ஆஜரப்படுத்தவுள்ளதாக (24) கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
 
-உத்தியோகபூர்வ பேச்சுவார்த்தைகளி;ன் போது  பயங்கரவாத எதிர்ப்பு சட்டம் நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்து ஆராயப்பட்டதாகவும் ஜனாதிபதி அரசாங்கத்தின் நிலைப்பாடுகளை தெளிவுபடுத்தியதுடன் அரசாங்கம் முன்னெடுத்த நடவடிக்கைகள் குறித்தும் சுட்டிக்காட்டியுள்ளார்.
+◼️
 
-இதேவேளை பயங்கரவாதத்தை எதிர்ப்பு சட்டமூலம்  அடுத்த புதிய நாடாளுமன்றத்தின் காலம்வரை பிற்போடப்படும் என ஜனாதிபதி தெரிவிக்கவில்லை என தகவல்கள் வெளியாகியுள்ளன.
+[Data](articles/481833f1.json)
+
+---
+
+### US Deputy Secretary of State to seek a personal meeting with the president
+
+*2024-02-25 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177234) · `ta`
+
+Prior to an official meeting, Deputy Secretary of State of Sri Lanka, Ranil Wickremesinghe, held a personal meeting with President Ranil Wickremesinghe.
+
+It is reported that Verma, who came to meet the president, appealed for a personal meeting.
+
+Ranil Wickremesinghe has agreed to this and has been in official talks only after negotiations within the closed doors.
+
+During the official negotiations, the Anti -Terrorism Act was investigated on the Protection Act and clarified the positions of the president's government and pointed out the steps taken by the government.
+
+Meanwhile, the President has not announced that the Terrorism Act will be delayed until the time of the new parliament.
 
 ◼️
 
 [Data](articles/ff4e20ed.json)
+
+[Extended Data](ext_articles/ff4e20ed.ext.json)
 
 ---
 
@@ -68,21 +86,41 @@ The President's Media Division said that the Sri Lankan government has not offic
 
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதல்கள் குறித்த விசாரணைகளை வலியுறுத்தினார் அமெரிக்க பிரதி இராஜாங்க செயலாளர்
+### தூசண வார்த்தையால் வேலை நிறுத்தம்: விமான பயணிகள் பாதிப்பு
 
-*2024-02-25 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177229) · `ta`
+*2024-02-25 10:42:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூசண-வார்த்தையால்-வேலை-நிறுத்தம்-விமான-பயணிகள்-பாதிப்பு/175-333757) · `ta`
 
-உயிர்த்த ஞாயிறுதாக்குதல்கள்குறித்த விசாரணகளின் அவசியத்தை அமெரிக்காவின் முகாமைத்துவம் மற்றும் வளங்கள் பிரதி  இராஜாங்க செயலாளர்  ரிச்சட் வெர்மா வலியுறுத்தியுள்ளார்.
+ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானங்கள் அடிக்கடி தாமதம் மற்றும் இரத்துச் செய்யப்படுவதால், கட்டுநாயக்க விமான நிலையத்திற்கு வரும் பயணிகளின் தூசண வார்த்தை பிரயோகங்களை சகித்துக்கொள்ள முடியாமல் ஸ்ரீலங்கன் எயார்லைன்ஸ் ஊழியர்கள் ஞாயிற்றுக்கிழமை (25) காலை உடனடி வேலை நிறுத்தத்தில் ஈடுபட்டனர் என  ஸ்ரீலங்கன் எயார்லைன்ஸ் நிறுவனத்தின் ஸ்ரீலங்கா சுதந்திர சேவைகள் சங்கத்தின் தலைவர் ஜனக்க விஜயபத்திரண  தெரிவித்தார்.
 
-பொருளாதார நெருக்கடி உத்தேபயங்கரவாத எதிர்ப்பு சட்டம் நிகழ்நிலை பாதுகாப்பு சட்டம் நல்லிணக்கம் போன்றவழமையான விவகாரங்களிற்கு அப்பால்  2019 உயிர்த்த ஞாயிறு தாக்குதல் விசாரணகள் குறித்தும் வெர்மா ஜனாதிபதியுடன் பேச்சுவார்த்தைகளை மேற்கொண்டுள்ளார்.
+“அதிக எடையுடன் வண்டியை ஏற்றினால், மாடு வண்டியை இழுக்க முடியாமல் மாடு இறந்துவிடும்” என்பது போன்ற நிலை உள்ளது என்றார்.
 
-வெளிவிவகார அமைச்சர் அலிசப்ரியுடனான சந்திப்பின்போதும் பின்னர் ஜனாதிபதியுடனான சந்திப்பின்போதும்  ரிச்சட்உயிர்த்த ஞாயிறுதாக்குதல் விசாரணைகள்  குறித்து ஆராய்ந்துள்ளார் என தகவல்கள் வெளியாகியுள்ளன.
-
-2019 உயிர்த்த ஞாயிறுதாக்குதலில் தனக்கு தெரிந்த ஒருவரை வெர்மா இழந்தார் எனவும் இதன் காரணமாக விசாரணைகள் குறித்து தனிப்பட்ட முறையில் வலியுறுத்தினார் எனவும் தகவல்கள் வெளியாகியுள்ளன.
+ஸ்ரீலங்கன் எயார்லைன்ஸ் நிறுவனத்தில் பாரியளவு பணியாளர்கள் பற்றாக்குறை நிலவுவதாகவும், தற்போது அனுபவமுள்ள முதிர்ச்சியடைந்த பெருமளவிலான பணியாளர்கள் நாட்டை விட்டு வெளியேறி வேறு வெளிநாட்டு விமான நிறுவனங்களில் இணைந்துள்ளதாகவும் அவர் மேலும் தெரிவித்தார்.
 
 ...
 
+[Data](articles/f0f2b921.json)
+
+---
+
+### US Deputy Secretary of State emphasizes inquiries into lifeblood attacks
+
+*2024-02-25 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177229) · `ta`
+
+Deputy Secretary of State for Management and Resources, Richard Verma, has emphasized the need for investigation into the survival Sunday attacks.
+
+Verma is also in talks with the president on the 2019 resurrection Sunday attacks, beyond the issues such as the economic crisis and the anti -governmental law of reconciliation.
+
+It is reported that Richard was investigating the Sunday attack on Sunday's Sunday during a meeting with External Affairs Minister Alisabri and later with the president.
+
+It has been reported that Verma lost a man who knew he knew in the Sunday Sunday 2019 and had personally emphasized the investigation.
+
+According to reports, the US has announced that the US has sought the help of the resurrection and that the US has announced that the US has announced that the investigation has ended from its side.
+
+◼️
+
 [Data](articles/9d625703.json)
+
+[Extended Data](ext_articles/9d625703.ext.json)
 
 ---
 
@@ -119,6 +157,24 @@ In addition, the police handed over the girl who went with the young man to thei
 [Data](articles/13f0d369.json)
 
 [Extended Data](ext_articles/13f0d369.ext.json)
+
+---
+
+### கடையை உடைத்த காதலன் கைது: கவலையுடன் காதலி
+
+*2024-02-25 10:33:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடையை-உடைத்த-காதலன்-கைது-கவலையுடன்-காதலி/175-333756) · `ta`
+
+தனது காதலியுடன் விடுமுறையை கழிப்பதற்கு பதுளையில் இருந்து அம்பாறைக்கு வந்த இளைஞனொருவர் விடுதிக்கு செலுத்த பணம் இல்லாத காரணத்தினால் கடையொன்றில் 10,000 ரூபாய் பணத்தை திருடிச் சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+அம்பாறை பஸ் நிலையத்தில் யுவதியை இருக்குமாறு தெரிவித்து  நகரின் பிரபல மொத்த விற்பனை நிறுவனத்திற்குள் நுழைந்த குறித்த இளைஞன் பணத்தை திருடி சென்றுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அம்பாறை பொலிஸ் போக்குவரத்து பிரிவில் கடமையாற்றும் உத்தியோகத்தர் ஒருவருக்கு கிடைத்த தகவலின் அடிப்படையிலேயே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+மேலும், இளைஞனுடன் சென்ற யுவதியை பெற்றோரிடம்  ஒப்படைத்த பொலிஸார், சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d57bb46d.json)
 
 ---
 
@@ -408,21 +464,23 @@ Addressing a political meeting, he said this amidst thundering applause by parti
 
 ---
 
-### කැබිනට් පත්‍රිකා සදහා නිවැරදි තොරතුරු ලබා නොදෙන නිළධාරීන්ට වැඩ වරදියි
+### Officers who do not get accurate information for cabinet papers
 
 *2024-02-25 08:56:10* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-පත්‍රිකා-සදහා-නිවැරදි-තොරතුරු-ලබා-නොදෙන-නිළධාරීන්ට-වැඩ-වරදියි/11-408257) · `si`
 
- අනුමත කැබිනට් යෝජනා කඩිනමින් ක්‍රියාත්මක කිරීමට නාගරික සංවර්ධන හා නිවාස අමාත්‍යංශයේ ඉහළ පෙලේ කමිටුවක්.
+කිරීම Top committee of the Ministry of Urban Development and Housing to implement the approved Cabinet proposals expeditiously implemented.
 
-කැබිනට් අනුමැතිය හිමිවු අමාතංශයට අදාළ කැබිනට් යෝජනා කඩිනමින් ක්‍රියාත්මක කිරීම සදහා නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා ඉහළ පෙළේ කමිටුවක් පත් කරයි. අමාත්‍යාංශ ලේකම් ඩබ්ලිව්.එස්. සත්‍යානන්ද මහතා අදාළ කමිටුවේ සභාපතිවරයායි. අමාත්‍යංශයේ අතිරේක ලේකම් ඇතුළු තවත් නිළධාරීන් 4 දෙනෙක් එහි සෙසු සාමාජිකයෝ වෙති.
+Urban Development and Housing Minister Prasanna Ranatunga appointed a top committee to promptly implement Cabinet proposals related to the Ministry of Cabinet. Secretary to the Ministry WS. Mr. Satyananda is the Chairman of the relevant committee. The Additional Secretary of the Ministry and four other officials are the other members.
 
-සති දෙකකට වරක් රැස්වී කැබිනට් යෝජනා ක්‍රියාත්මක කිරීමේ ප්‍රගතිය සමාලෝචනය කර තමන්ට වාර්තාවක් ලබා දෙන ලෙසද නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අමාත්‍යාංශ ලේකම්වරයා ප්‍රමුඛ කමිටුවටට පසුගියදා (22) උපදෙස් දුන්නේය.
+The Ministry of Urban Development and Housing Prasanna Ranatunga recently instructed the Secretary to the Ministry (22) to review the Cabinet proposals for two weeks.
 
-කැබිනට් පත්‍රිකා ප්‍රමාදයකින් තොරව ඉදිරිපත් කිරීමේ වගකීමද මෙම කමිටුවට පැවරෙන බව ඇමතිවරයා කිවේය.
+The committee is also entrusted with the responsibility of presenting the cabinet papers without delay.
 
 ...
 
 [Data](articles/01f138d0.json)
+
+[Extended Data](ext_articles/01f138d0.ext.json)
 
 ---
 
@@ -1977,75 +2035,5 @@ The Ceylon Electricity Board has already proposed to reduce the increased electr
 [Data](articles/1bd43cb9.json)
 
 [Extended Data](ext_articles/1bd43cb9.ext.json)
-
----
-
-### US targets Russia with more than 500 new sanctions
-
-*2024-02-24 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97499/us-targets-russia-with-more-than-500-new-sanctions) · `en`
-
-The US has announced more than 500 new sanctions against Russia over its invasion of Ukraine and the death of opposition leader Alexei Navalny.
-
-These include measures against Russia’s main card payment system, financial and military institutions, and officials involved in Navalny’s imprisonment.
-
-The EU has also announced new sanctions on access to military technology.
-
-The measures mark a week since Navalny suddenly died in an Arctic Circle jail.
-
-US President Joe Biden, who met Navalny’s widow and daughter in San Francisco on Thursday, has said there can be “no doubt” the Russian president was to blame for his death.
-
-The newly-announced US measures also include nearly 100 firms and individuals which will also face export restrictions.
-
-Others target the state-owned operator of Mir, Russia’s main payment system, which has become more prominent since Visa and Mastercard suspended their services there.
-
-...
-
-[Data](articles/1d39e1e5.json)
-
-[Extended Data](ext_articles/1d39e1e5.ext.json)
-
----
-
-### Munivev Island to a new prison
-
-*2024-02-24 13:56:28* · [`adalk`](https://www.ada.lk/breaking_news/මාන්තිව්-දූපත-නව-බන්ධනාගාරයකට/11-408252) · `si`
-
-Minister of Justice or Constitutional Reforms is the ability to retain a new prison or rehabilitation center, which is a major problem facing the prison departure.President's Counsel Dr. Wijayadasa Rajapaksa said.
-
-He participated in a tour of the Mahanv Island at the sea in the sea in the Eastern Province of Batticaloa town yesterday (23).
-
-Speaking to the media and said that the island of only two patients who have been detained in the construction of the Coconugh officers in the construction of the Kovid and the Colombo Air Forces in the construction of the Kovid prestigious..
-
-The Minister said that the two patients in the area are able to discuss with the Ministry to discuss with the Ministry and to look into the ability to establish a prison or rehabilitation center.
-
-◼️
-
-[Data](articles/0192ea24.json)
-
-[Extended Data](ext_articles/0192ea24.ext.json)
-
----
-
-### Suspected deaths of patients at Kurunegala Hospital raise concern
-
-*2024-02-24 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspected-deaths-of-patients-at-Kurunegala-Hospital-raise-concern/108-277651) · `en`
-
-Feb 24, (Daily Mirror) - The Health Ministry has launched an investigation and appointed a committee to look into the incident surrounding the suspected deaths at the dialysis unit of the Kurunegala Teaching Hospital.
-
-Speaking of the matter, Secretary of the Ministry of Health Dr. Palitha Mahipala said the at least five deaths have occurred since January at the dialysis unit.
-
-Accordingly, a five-member committee headed by Chief Epidemiologist Dr Samitha Ginige has been appointed to look into the matter.
-
-According to sources, the incident may have occurred due to the entry of certain unidentified pathogens into the blood dialysis unit.
-
-However, the Health Ministry is investigating the entire scenario to ascertain the actual cause of the deaths.
-
-In light of the situation, the health authorities have taken prompt measures to shut down the unit and direct the kidney patients to other nearest units.
-
-◼️
-
-[Data](articles/115dd5d5.json)
-
-[Extended Data](ext_articles/115dd5d5.ext.json)
 
 ---

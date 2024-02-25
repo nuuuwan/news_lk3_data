@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-25 19:33:11**
+As of **2024-02-25 19:49:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,206 (100.0%) of 9,208 articles have been extended.
+9,208 (100.0%) of 9,208 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,21 @@ Speaking to the media in Galle, Sanath Jayasuriya expressed these views.
 
 ---
 
-### தாயின் பிரிவால்  துயரமடைந்த மகன் மாரடைப்பால் மரணம்!
+### Son died of heart attack
 
 *2024-02-25 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177276) · `ta`
 
-தாயின் மரணத்தால் மிகவும் துயரமடைந்து காணப்பட்ட அவரது மகன், தனது தாயார் உயிரிழந்து சில மணித்தியாலங்களில் திடீர் மாரடைப்பால் உயிரிழந்த சம்பவம் இந்துருவ பிரதேசத்தில் பதிவாகியுள்ளது.
+Her son, who was very disturbed by the mother's death, died of a sudden heart attack in the Hinduva area in the Hindu area.
 
-இந்துருவ, அகாடகொட, கல்தரமுல்லையில் வசித்து வந்த 71 வயதுடைய  ஏழு பிள்ளைகளின் தாயாரே உயிரிழந்துள்ளார்.
+The mother of seven -year -old children, aged 71, who lived in Hindu, Acadgoda and Kaldaramulla, died.
 
-உயிரிழந்த மகன் 47 வயதான ஒரு பிள்ளையின் தந்தையாவார், இவரின் தாய் கடந்த 22ஆம் திகதி உயிரிழந்தமையினால் அவரது மகன்  மிகுந்த அதிர்ச்சியும் துயரமும் அடைந்திருந்தார் என குடும்பத்தினர் தெரிவித்துள்ளனர்.
+The father of a 47 -year -old child is the father of a 47 -year -old child, and his mother has been shocked and saddened by the death of his mother on the 22nd.
 
 ◼️
 
 [Data](articles/9dc5443e.json)
+
+[Extended Data](ext_articles/9dc5443e.ext.json)
 
 ---
 
@@ -83,6 +85,8 @@ During the unprecedented Hamas attack on Israel on October 7, Palestinian milita
 ...
 
 [Data](articles/b3c9e9a1.json)
+
+[Extended Data](ext_articles/b3c9e9a1.ext.json)
 
 ---
 

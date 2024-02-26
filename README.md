@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 10:17:17**
+As of **2024-02-26 10:33:09**
 
 ## Newspaper Stats
 
-*Scraped **9,290** Articles*
+*Scraped **9,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 467
 dailyftlk | 492
 islandlk | 494
 adalk | 777
-adaderanalk | 1,120
-tamilmirrorlk | 1,145
+adaderanalk | 1,121
+tamilmirrorlk | 1,147
 virakesarilk | 1,261
 dailymirrorlk | 1,396
 adaderanasinhalalk | 1,403
@@ -26,21 +26,73 @@ adaderanasinhalalk | 1,403
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,289 (100.0%) of 9,290 articles have been extended.
+9,290 (100.0%) of 9,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### තැඹිලි ගෙඩියක් රුපියල් 2,000කට - සල්ලි හොයන අලුත්ම විදිය
+### President highlights plans to link Hambantota to Myanmar port
+
+*2024-02-26 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97534/president-highlights-plans-to-link-hambantota-to-myanmar-port) · `en`
+
+In a recent discussion convened at the Presidential Secretariat, President Ranil Wickremesinghe articulated his vision for economic development and infrastructure investment, particularly focusing on the master plans for strategic tourism zones in the Eastern Province, the Colombo City & the Western Region and Greater Hambantota.
+
+The President emphasized the economic potential of Hambantota, envisioning it as a pivotal hub for infrastructure development and connectivity. He highlighted plans to link Hambantota to the Myanmar port, with further extensions anticipated up to Chongqing in eastern China and down to Africa.
+
+President Wickremesinghe stressed the importance of leveraging the extensive investments already made in infrastructure in Hambantota, despite previous challenges, the President’s Media Division (PMD) reported.
+
+...
+
+[Data](articles/8bff08d5.json)
+
+---
+
+### Orange for Rs 2,000 - the latest way
 
 *2024-02-26 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193829) · `si`
 
-අපනයනය ඉලක්ක කර ගනිමින් තැඹිලි වගාකිරීමේ දෙවන ගම්මානය මුරුතවෙල රළුව ගම්මානය ආශ්‍රිතව ස්ථාපිත කර තිබේ.
+The second village of orange cultivation is established in the village of Muruthawela.
 
 ◼️
 
 [Data](articles/b43e86f0.json)
+
+[Extended Data](ext_articles/b43e86f0.ext.json)
+
+---
+
+### விபத்தில் மனைவி பலி; கணவர் மற்றும் இரண்டு குழந்தைகள் படுகாயம்
+
+*2024-02-26 09:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-மனைவி-பலி-கணவர்-மற்றும்-இரண்டு-குழந்தைகள்-படுகாயம்/175-333816) · `ta`
+
+தங்கல்ல பிரதேசத்தில் இருந்து மாத்தறை நோக்கி பயணித்த லொறியொன்று தலல்ல பிரதேசத்தில் வைத்து முச்சக்கர வண்டியில் மோதியதில் பெண் உயிரிழந்துள்ளார்.
+
+அத்துடன், கணவன் மற்றும் இரண்டு பிள்ளைகள் உட்பட நால்வர் படுகாயமடைந்து தலல்ல வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக கந்தர பொலிஸார் தெரிவித்தனர். .
+
+இந்த விபத்தில் உயிரிழந்தவர் கப்பரவெல்ல கொட்டகொட பகுதியைச் சேர்ந்த 31 வயதுடையவர் என பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்த பெண் தனது 14 வயது மகள் மற்றும் பதினொரு மாத ஆண் குழந்தை மற்றும் மற்றுமொரு உறவினருடன் முச்சக்கரவண்டியில் பயணித்துள்ளதுடன், பெண்ணின் கணவர் முச்சக்கரவண்டியை ஓட்டிச் சென்றுள்ளார்.
+
+◼️
+
+[Data](articles/58459553.json)
+
+---
+
+### துப்பாக்கிச்சூட்டில் ஒருவர் உயிரிழப்பு
+
+*2024-02-26 09:32:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-உயிரிழப்பு/175-333815) · `ta`
+
+எல்பிட்டிய, பத்திராஜவத்த பிரதேசத்தில் வீடொன்றில் வைத்து பொது சுகாதார பரிசோதகர் ஒருவர் சுட்டுக்கொல்லப்பட்டுள்ளார்.
+
+இன்று (26) காலை 07.00 மணியளவில் மோட்டார் சைக்கிளில் வந்த இருவரே துப்பாக்கிச் சூடு நடத்தியதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+
+கரந்தெனிய பிரதேசத்தில் பொது சுகாதார பரிசோதகராக பணியாற்றிய 51 வயதுடைய ரொஷான் குமார விதானகே என்ற நபரே துப்பாக்கிச் சூட்டுக்கு இலக்காகி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/cffe398f.json)
 
 ---
 
@@ -1979,59 +2031,5 @@ As the brutal Gazan genocide is being continually livestreamed into our living r
 [Data](articles/944e3294.json)
 
 [Extended Data](ext_articles/944e3294.ext.json)
-
----
-
-### Increased deaths at Kurunegala Hospital
-
-*2024-02-25 15:11:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/குருநாகல்-வைத்தியசாலையில்-திடீரென-அதிகரித்த-மரணங்கள்/94-333784) · `ta`
-
-Steps have been taken to temporarily close the section, considering the spread of germs into the dialysis unit for kidney patients at the Kurunegala Teaching Hospital.
-
-The reason for this is that the Ministry of Health has launched an investigation into the matter.
-
-Patients who have been allowed to bleed for about a week have begun to die, and more than five patients have died during the bleeding process.
-
-These deaths are said to have caused the blood level after the blood.
-
-A team of Health Ministry officials will visit Kurunegala today (24) to investigate the incident.. Remble
-
-◼️
-
-[Data](articles/1b89e804.json)
-
-[Extended Data](ext_articles/1b89e804.ext.json)
-
----
-
-### Hazaranga prohibited
-
-*2024-02-25 15:03:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/ஹசரங்கவுக்குத்-தடை/88-333780) · `ta`
-
-Twenty -20 International Tournament Team Leader Vanidu Hasaranga has been banned by the International Cricket Board.
-
-Hazaranga has been awarded a rivalry and a 50 per cent fine of his rival wage, with no referee Linden Hanipal, who has not been given No -like in the third Twenty -20 International match against Afghanistan.
-
-◼️
-
-[Data](articles/2caf0a10.json)
-
-[Extended Data](ext_articles/2caf0a10.ext.json)
-
----
-
-### Shooting at Jampettah Street leaves one injured
-
-*2024-02-25 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97521/shooting-at-jampettah-street-leaves-one-injured-) · `en`
-
-One person was reportedly left injured following a shooting incident at Jampettah Street in Colombo 13.
-
-According to police, the injured individual was immediately rushed to hospital where he is presently receiving treatment.
-
-◼️
-
-[Data](articles/e9a9da60.json)
-
-[Extended Data](ext_articles/e9a9da60.ext.json)
 
 ---

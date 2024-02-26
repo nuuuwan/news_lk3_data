@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 02:33:11**
+As of **2024-02-27 02:49:45**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,454 (99.9%) of 9,460 articles have been extended.
+9,460 (100.0%) of 9,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### கனடாவிலிருந்து மாதகலுக்கு வந்தவர் மூச்சுவிட சிரமப்பட்ட நிலையில் உயிரிழப்பு!
+### Died from Canada to breathe
 
 *2024-02-27 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177384) · `ta`
 
-மூச்செடுக்க சிரமப்பட்ட நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட ஆணொருவர் திங்கட்கிழமை (26) உயிரிழந்துள்ளார். கனடாவில் வசிக்கும் சோதிலிங்கம் கந்தசாமி என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+A man who was admitted to hospital in a state of trouble was killed on Monday (26). Sodhilingam Kandasamy, who lives in Canada, died.
 
-இவர் கடந்த சில நாட்களுக்கு முன்னர் மாதகல் கிழக்கு, மாதகல் என்ற முகவரியில் உள்ள உறவினர் வீட்டுக்கு வருகை தந்திருந்தார். இந்நிலையில் அவருக்கு ஞாயிற்றுக்கிழமை (25) மூச்சு எடுப்பதில் சிரமம் ஏற்பட்டதால் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சை பலனின்றி திங்கட்கிழமை (26) உயிரிழந்துள்ளார்.
+He was visiting a relative's house at Madhakal East, Madhakal, a few days ago. He was admitted to the Jaffna Teaching Hospital after being admitted to the Jaffna Teaching Hospital on Sunday (25).
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார்.  உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+A sudden death investigation officer A. Jayabalasingham carried out the deaths of his body.The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/a7d8ffa9.json)
 
+[Extended Data](ext_articles/a7d8ffa9.ext.json)
+
 ---
 
-### மட்டக்களப்பில் பாதுகாப்பற்ற புகையிரத கடவை ஊழியர்கள் பணிபுறக்கனிப்பு ; 2 நாளாகத் தொடர் ஆர்பாட்டம்
+### Unsurprising railway staff in Batticaloa;2 days of continuous demonstration
 
 *2024-02-27 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177383) · `ta`
 
-மட்டக்களப்பில் பாதுகாப்பற்ற புகையிரத கடவை ஊழியர்கள் தம்மை பொலிஸ் அடிமையிலிருந்து விடுவிக்குமாறும் வழங்கப்பட்டுவரும் மாதாந்த சம்பளமான 7 ஆயிரத்து 500 ரூபா சம்பளத்தை உயர்த்தி தருமாறும் பணியை நிரந்தரமாக்குமாறு கோரி  திங்கட்கிழமை (26) இரண்டாவது நாளாக பணிபுறக்கணிப்பு மேற்கொண்டுவருவதுடன்  மட்டு. புகையிரத நிலையத்தின் முன்னால்; தொடர் ஆர்பாட்டத்தில் ஈடுபட்டுவருகின்றனர்.
+In Batticaloa, unsafe railway staff in Batticaloa will be working for the second day on Monday (26), demanding the permanent task of raising the salary of 7 thousand 500 rupees.. In front of the railway station;They are engaged in a series of demonstrations.
 
-கடந்த 2013 ம் ஆண்டு பொலிஸ் அதிகாரிகளால் பாதுகாப்பற்ற புகையிரத கடவை ஊழியர்களாக நியமிக்கப்பட்டு நாள் ஒன்றிற்கு 250 ரூபா வீதம் மாதாந்தம் 7 ஆயிரத்து 500 ரூபா கொடுக்கப்பட்டுவருகின்றது எனவே தற்போது குடும்ப செலவுக்கு மாதாந்தம் 35 ஆயிரம் ரூபா தேவைப்படுகின்றது எனவே சம்பளத்தை உயர்த்தியும் பணியை நிரந்தரமாக்கியும் தருமாறு கோரி மட்டக்களப்பு மாவட்டத்தில்  கடமையாற்றிவரும் பாதுகாப்பற்ற புகையிரத கடவை ஊழியர்கள் ஞாயிற்றுக்கிழமை (25) பணியை புறக்கணித்து ஆர்பாட்ட போராட்டத்தை ஆரம்பித்தனர்.
+In 2013, police officers were appointed as unsafe railway workers and Rs.They launched a protest protest.
 
-...
+As the demonstration continues for the second consecutive day today, the staff told the media that we have been working as a police slave for over 10 years.
+
+If you work for 31 days, 7 thousand 500 rupees a day will be cut at 500 rupees.
+
+Due to the current economic crisis, 35 thousand rupees per month for a family cost of Rs.
+
+Therefore, the police are taking us as slaves without paying the salary.There was no solution to the politicians. There was no solution to it on Sunday (25) night.So this struggle will continue until we give us a solution.
+
+◼️
 
 [Data](articles/f6996327.json)
+
+[Extended Data](ext_articles/f6996327.ext.json)
 
 ---
 
@@ -78,6 +90,8 @@ Aravinda Perera was presented with a memento of appreciation by Vice President I
 
 [Data](articles/284ef5ea.json)
 
+[Extended Data](ext_articles/284ef5ea.ext.json)
+
 ---
 
 ### Envoy in UK, BOI Chief meet investors in London
@@ -89,6 +103,8 @@ Sri Lanka’s High Commissioner in the United Kingdom Rohitha Bogollagama and th
 ◼️
 
 [Data](articles/edf8c915.json)
+
+[Extended Data](ext_articles/edf8c915.ext.json)
 
 ---
 
@@ -108,6 +124,8 @@ The topics delivered generated a high level of interest and lively discussions b
 
 [Data](articles/35f4f51c.json)
 
+[Extended Data](ext_articles/35f4f51c.ext.json)
+
 ---
 
 ### Seminar on new anti-corruption laws and impact on private sector
@@ -125,6 +143,8 @@ The seminar will feature insights from other prominent officials such as CIABOC 
 ...
 
 [Data](articles/33a90d15.json)
+
+[Extended Data](ext_articles/33a90d15.ext.json)
 
 ---
 

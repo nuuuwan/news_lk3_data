@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 09:02:41**
+As of **2024-02-26 09:17:40**
 
 ## Newspaper Stats
 
@@ -26,21 +26,23 @@ adaderanasinhalalk | 1,401
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,269 (99.9%) of 9,278 articles have been extended.
+9,278 (100.0%) of 9,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### වකුගඩු රෝගීන්ගේ මරණ ගැන අලුත් සැකයක්
+### New suspicion of death patients
 
 *2024-02-26 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193827) · `si`
 
-කුරුණෑගල ශික්ෂණ රෝහලේ වකුගඩු රෝගීන් සඳහා ක්‍රියාත්මක රුධිර කාන්දුකරණ ප්‍රතිකාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි රෝගීන් පිරිසක් හදිසියේම මරණයට පත්වීමට හේතුව ප්‍රතිකාර සඳහා ලබාදෙන රසායනිකයක බලපෑමක් දැයි රෝහලේ වෛද්‍යවරු සැක පළ කරති.
+Doctors at the hospital suspects a chemical to treat the treatment of the Blood Catients at the Kurunegala Teaching Hospital.
 
 ◼️
 
 [Data](articles/cc7146af.json)
+
+[Extended Data](ext_articles/cc7146af.ext.json)
 
 ---
 
@@ -60,53 +62,59 @@ Police said that the shooting had been carried out by an unidentified gunman who
 
 ---
 
-### தில்ஷானுக்கு ஆஸ்திரேலிய குடியுரிமை
+### Australian citizenship to Dilshan
 
 *2024-02-26 08:14:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தில்ஷானுக்கு-ஆஸ்திரேலிய-குடியுரிமை/175-333811) · `ta`
 
-இலங்கையின் முன்னாள் கிரிக்கெட் வீரர் திலகரத்ன தில்ஷான், ஒரு குடியுரிமை விழாவைத் தொடர்ந்து ஆஸ்திரேலியக் குடியுரிமையைப் பெற்றுள்ளதாக ஆஸ்திரேலிய பாராளுமன்ற உறுப்பினர் ஜேசன் வுட் தெரிவித்துள்ளார்.
+Australian parliamentarian Jason Wood has said that former Sri Lankan cricketer Tilakaratne Dilshan has been given Australian citizenship following a citizenship ceremony.
 
-"ஒரு நாள் போட்டி வரலாற்றில் சிறந்த இலங்கை வீரராக தில்ஷன் கருதப்படுகிறார். 2011 ஐசிசி கிரிக்கெட் உலகக் கோப்பையில் 500 ஓட்டங்கள் மற்றும் அரையிறுதியில் இங்கிலாந்துக்கு எதிராக சதம் அடித்து அதிக ஓட்டம் எடுத்தவர் என்ற சாதனையையும் படைத்துள்ளார். மேலும், 2014 ஐசிசி இருபதுக்கு 20ஐ வென்ற இலங்கை அணியில் அவர் அங்கம் வகித்தார்" என எம்.பி சமூக ஊடகங்களில் பதிவிட்டுள்ளார்.
+“Dilshan is considered the best Sri Lankan player in a one -day competition history. He holds the record for scoring 500 runs in the 2011 ICC Cricket World Cup and the highest run against England in the semifinals. Moreover, he was a member of the Sri Lankan squad that won 20 of the 2014 ICC Twenty20, ”he posted on the MP social media.
 
-புதிய ஆஸி மற்றும் உள்ளூர்வாசி என்ற வகையில், தில்ஷான் உள்ளூர் அணியில் இணைந்து தனது திறமைகளை சமூகத்துடன் தொடர்ந்து பகிர்ந்து கொள்வார் என நம்புவதாக குறித்த எம்.பி தெரிவித்துள்ளார்.
+As a new Aussie and locals, the MP said that Dilshan would continue to share his talents with the local team.
 
-"அவரது மகள் ரெசாண்டி தனது தந்தையின் அடிச்சுவடுகளைப் பின்பற்றுவதைக் கேட்பது மிகவும் மகிழ்ச்சியாக இருந்தது," என்று அவர் மேலும் கூறினார்.
+"It was very happy to hear his daughter Resand to follow his father's footsteps," he added.
 
 ◼️
 
 [Data](articles/417ecd59.json)
 
+[Extended Data](ext_articles/417ecd59.ext.json)
+
 ---
 
-### දකුණේ තවත් වෙඩිල්ලක් - ජීවිතයක් අහිමිවෙයි
+### Another shower in the South - A loss of life
 
 *2024-02-26 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193826) · `si`
 
-ඇල්පිටිය, පතිරාජ මාවතේ නිවසකට යතුරුපැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවෙකු විසින් පුද්ගලයෙකුට වෙඩිතබා ඝාතනය කර ඇතැයි පොලීසිය පවසයි.
+Elpitiya has been shot dead by an unidentified gunman who came to a motorbike at Pathiraja Mawatha.
 
-අප කළ විමසීමක දී පොලිස් මාධ්‍ය ප්‍රකාශක, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී නීතීඥ නිහාල් තල්දූව මහතා පවසා සිටියේ, 51 හැවිරිදි කරන්දෙණියේ මහජන සෞඛ්‍ය පරීක්ෂකවරයෙකුට එලෙස වෙඩි ප්‍රහාරයට ලක්ව ඇති බවය.
+At an inquiry, police spokesman SSP Attorney Nihal Talduuwa said that a 51-year-old public health inspector in Karandeniya had been shot.
 
 ◼️
 
 [Data](articles/c4416669.json)
 
+[Extended Data](ext_articles/c4416669.ext.json)
+
 ---
 
-### மக்கள் யாழ் கோவில்களுக்கு செல்ல இராணுவம் அனுமதி
+### Army permits people to go to Jaffna temples
 
 *2024-02-26 08:07:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மக்கள்-யாழ்-கோவில்களுக்கு-செல்ல-இராணுவம்-அனுமதி/71-333810) · `ta`
 
-யாழ்ப்பாணத்தில் பாதுகாப்புப் படைத் தலைமையகத்திற்கு உட்பட்ட அதியுயர் பாதுகாப்பு வலயத்திற்குள் அமைந்துள்ள ஏழு இந்து கோவில்களுக்கு பொதுமக்கள் செல்வதற்கு அனுமதி வழங்கப்பட்டுள்ளதாக இலங்கை இராணுவம் அறிவித்துள்ளது.
+The Sri Lankan military has announced that seven Hindu temples located within the High Security Zone, which belongs to the Security Forces Headquarters in Jaffna, have been allowed to visit the public.
 
-இந்த முடிவின் கீழ், கடுவன் முத்துமாரி அம்மன் கோவில், வசாவிளான் மணம்பிறை கோவில், விசாவிளான் சிவன் கோவில், வசாவிளான் நாக கோவில், பலாலி ராஜ ராஜேஸ்வரி கோவில், பலாலி நாக தம்பிலான் கோவில் மற்றும் பலாலி சக்திவேலி முருகன் கோவில் ஆகியவற்றில் வாராந்திர பூஜை மற்றும் பிற சடங்குகளில் பொதுமக்கள் பங்கேற்க அனுமதிக்கப்படுவார்கள். .
+Under this decision, the public will be allowed to participate in the weekly pooja and other rituals at the Kaduvan Muthumari Amman Temple, Vasavilan Manampirai Temple, Visavilan Shiva Temple, Vasavilan Naga Temple, Palali Raja Rajeswari Temple, Palali Naga Thambilan Temple and Palali Sakthiveli Murugan Temple.. .
 
-கோவில் அறங்காவலர்கள் மற்றும் சிவில் அமைப்புகளின் பல கோரிக்கைகளுக்கு இணங்க இந்த முடிவு எடுக்கப்பட்டுள்ளதாக ராணுவம் தெரிவித்துள்ளது.
+The decision has been taken in accordance with the demands of the temple trustees and civil organizations.
 
-முன்பு இந்த கோவில் வளாகத்தில் மாதாந்திர மற்றும் சிறப்பு பூஜைகளுக்கு மட்டுமே அனுமதி வழங்கப்பட்டமை குறிப்பிடத்தக்கது.
+It is noteworthy that only monthly and special poojas were approved in the temple premises.
 
 ◼️
 
 [Data](articles/44fb5e35.json)
+
+[Extended Data](ext_articles/44fb5e35.ext.json)
 
 ---
 
@@ -132,21 +140,27 @@ The public is kindly requested to take adequate precautions to minimize damages 
 
 ---
 
-### சம்பள அதிகரிப்பு குறித்து மத்திய வங்கி அறிக்கை
+### Central Bank Report on Salary Increase
 
 *2024-02-26 07:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-அதிகரிப்பு-குறித்து-மத்திய-வங்கி-அறிக்கை/175-333809) · `ta`
 
-மத்திய வங்கி ஊழியர்களுக்கான ஊதியத்தில் சமீபத்தில் ஏற்பட்ட திருத்தம் தொடர்பாக பாராளுமன்ற உறுப்பினர்கள் தெரிவித்த கருத்துகள் தொடர்பாக வெளியாகிய ஊடக அறிக்கைகளுக்கு இலங்கை மத்திய வங்கி (CBSL) பதிலளித்துள்ளது.
+The Central Bank of Sri Lanka (CBSL) has responded to media reports on the recent amendment to the Central Bank employees.
 
-நேற்று வெளியிடப்பட்ட ஒரு அறிக்கையில், CBSL அதன் செயல்பாடுகளில் வெளிப்படைத்தன்மை மற்றும் பொறுப்புக்கூறல் ஆகியவற்றுக்கான அதன் உறுதிப்பாட்டை வலியுறுத்தியுள்ளது.
+In a statement issued yesterday, CBSL emphasizes its commitment to transparency and accountability in its operations.
 
-CBSL இன் ஆளும் குழு, 21.02.2024 அன்று நடைபெற்ற கூட்டத்தில், உரிய பாராளுமன்றக் குழு மூலம் பாராளுமன்ற உறுப்பினர்களிடம் உரையாடுவதற்கான வாய்ப்பை முறையாகக் கோருமாறு ஆளுநருக்கு உத்தரவிட்டது.
+At a meeting held on 21.02.2024, the Governing Committee of the CBSL ordered the Governor to formally request the opportunity to speak to MPs through the appropriate parliamentary committee.
 
-2023 ஆம் ஆண்டின் 16 ஆம் இலக்க இலங்கை மத்திய வங்கிச் சட்டத்தின் பிரிவு 80 (2) (b) க்கு இணங்க இந்த கோரிக்கை முன்வைக்கப்பட்டது, இது முப்பெரும்பான்மையின் கீழ் அங்கீகரிக்கப்பட்ட சமீபத்திய ஊதியத் திருத்தத்தின் பின்னணியில் உள்ள செயல்முறை மற்றும் நியாயத்தை தெளிவுபடுத்துவதை நோக்கமாகக் கொண்டுள்ளது.
+This request was made in accordance with section 80 (2) (b) of the Central Bank Act No. 16 of 2023, which aims to clarify the procedure and justification in the context of the latest wage amendment approved under the Muperfire.
+
+On 22.02.2024, the Governor of the CBSL submitted a written request to the president, he serves as the Finance Minister and acts as a way to communicate with the CBSL Parliament.
+
+This request requested an opportunity to inform MPs the reasons for changing the salary for CBSL employees.
 
 ...
 
 [Data](articles/116102d1.json)
+
+[Extended Data](ext_articles/116102d1.ext.json)
 
 ---
 
@@ -162,31 +176,35 @@ In an urgent move to prevent any diplomatic tension between Russia and Sri Lanka
 
 [Data](articles/ce8eaf47.json)
 
+[Extended Data](ext_articles/ce8eaf47.ext.json)
+
 ---
 
-### බෙහෙත් බොන්න බල කළැයි පුතා පියාට පොරොවකින් ගහලා
+### Son has a concerns that he forced to drink medicine
 
 *2024-02-26 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193825) · `si`
 
-මානසික රෝගයකින් පෙලෙන තම දරුවාට බෙහෙත් බීමට බලකළ පියෙකු රෝගී දරුවා විසින්ම පොරොවකින් කොටා ඝාතනය කර ඇතැයි පිටිගල පොලීසිය පවසයි.
+Pitigala Police say that a father has aimed to death by a father who devoted her child with a mental child.
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ පියදාස ජයසිංහ නමැති පිටිගල, කලුආරච්චිගොඩ ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
+The victim was a resident of Kaluarachchi, Kaluarachchi.
 
-මෙම ඝාතනයට අදාළව මරණකරුගේ 47 හැවිරිදි පුතු පිටිගල පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+The 47 year old son of the deceased has been arrested by the Puthigala Police.
 
-මරණකරුගේ පුතු අංගොඩ මානසික රෝහලේ දීර්ඝ කාලයක් ප්‍රතිකාර ලබා මානසික රෝගයෙන් සුවපත් වූ බවට වෛද්‍යවරුන් තීරණය කර ඇත.
+Doctors have decided that the deceased's son Angoda Mental Hospital was well-treated for a long treatment of mental illness.
 
-මේ අනුව මීට මාස එකහමාරකට පෙර එම පුද්ගලයාව අධිකරණ අවසරය මත මාපියන්ට බාර දී තිබෙන අතර දෛනිකව ඖෂධ වට්ටෝරු ද ලබාදෙන ලෙස වෛද්‍යවරුන් නිර්දේශ කර තිබේ.
+Accordingly, the person has been handed over to parents on the court permission and the doctors are recommended to provide medicines daily.
 
-පෙරේදා (24 වැනිදා) රාත්‍රියේ පියා පුතුට අවශ්‍ය ඖෂධ ලබාදීමට උත්සහා දරා ඇති අතර එය ලබාගැනීම පුතු විසින් ප්‍රතික්ෂේප කරමින් නිවසේ සැඟවී සිට ඇත.
+The father's son had attempted to provide the father's son at night and had been hidden in the house, refusing to obtain it.
 
-ඒ අනුව පියා ආලින්දයේ පුටුවක වාඩි වී සිටියදී පුතු විසින් පොරොවකින් හිසට පහරදී ඝාතනය කර තිබෙන අතර පිටිගල පොලීසිය විසින් සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+The son had been assaulted by the son, while the father sat in a chair of the porch and was assaulted by the Pitigala Police.
 
-එහිදී අනාවරණය වී ඇත්තේ මෙම පුද්ගලයා මානසික රෝගයෙන් තවමත් පෙළෙන අයෙකු බවය.
+The man is still suffering from mental illness.
 
 ◼️
 
 [Data](articles/52a62399.json)
+
+[Extended Data](ext_articles/52a62399.ext.json)
 
 ---
 
@@ -250,21 +268,25 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### மோடி ‛ஸ்கூபா டைவிங்’
+### Modi ‛Scuba Diving
 
 *2024-02-26 04:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-ஸ்கூபா-டைவிங்/175-333808) · `ta`
 
-'என் பல வருட ஆசை நிறைவேறியது” என்று கடலுக்குள் மூழ்கியதாக கூறப்படும் துவாரகாவில் வழிபட்டது குறித்து பிரதமர் மோடி மகிழ்ச்சி தெரிவித்துள்ளார்.
+Prime Minister Modi is happy to have been worshiped in Dwarka, who is said to have drowned in the sea, saying, "My many years of wish have come true."
 
-குஜராத்தின் துவாரகாவில் 4150 கோடி ரூபா மதிப்பிலான பல வளர்ச்சித் திட்டங்களுக்கு பிரதமர் நரேந்திர மோடி நேற்று அடிக்கல் நாட்டிவைத்தார்.
+Prime Minister Narendra Modi yesterday laid the foundation stone for several development projects worth Rs 4150 crore in Dwarka, Gujarat.
 
-முன்னதாக, கடலுக்குள் மூழ்கியதாக கூறப்படும் துவாரகா நகருக்கு சென்று பூஜை செய்ய விரும்பிய பிரதமர் மோடி, நேற்று ஸ்கூபா டைவிங் வீரர்கள் உதவியுடன் படகில் அரபிக்கடலுக்குள் பயணித்தார்.
+Earlier, Prime Minister Modi, who wanted to go to Dwarka, allegedly drowned in the sea, was traveling in the boat with the help of scuba diving soldiers yesterday.
 
-துவாரகா நகரை உருவாக்கியவராக நம்பப்படும் கடவுள் கிருஷ்ணருக்கு மயிலிறகு விருப்பமான ஒன்று, காவி உடை அணிந்து தனது கையில் மயிலறகுடன் ‛ஸ்கூபா டைவிங்' கருவிகளை உடலில் பொருத்திக் கொண்டு பிரதமர் மோடி கடலுக்கடியில் சென்று தரிசனம் செய்தார். அவருக்கு பாதுகாப்பாக ஏனைய ஸ்கூபா டைவிங் வீரர்கள் உடன் சென்றனர்.
+God Krishna, who is believed to be the creator of Dwarka, is a favorite of the peacock.. He was safe with other scuba diving players.
 
-...
+Prime Minister Modi, who went into the ground floor of the deep sea, made a special pooja on the ground where he carried. Prime Minister Modi came out of the sea afterwards touched the ground. Related photos and videos are currently being released on websites and spreading rapidly. (A)
+
+◼️
 
 [Data](articles/136b0068.json)
+
+[Extended Data](ext_articles/136b0068.ext.json)
 
 ---
 
@@ -1066,17 +1088,19 @@ Lady Ridgeway Hospital Medical Director Ji.When contacted, Wijesuriya said:
 
 ---
 
-### සරසවි අනධ්‍යන කාර්ය මණ්ඩලයට සුබ ආරංචියක්
+### Good news to university level staff
 
 *2024-02-25 20:42:31* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-කාර්ය-මණ්ඩලයට-සුබ-ආරංචියක්/11-408268) · `si`
 
-රාජ්‍ය විශ්ව විද්‍යාලවල අනධ්‍යයන කාර්ය මණ්ඩල සඳහා 2016 සිට තිබූ වැටුප් විෂමතාවය එනම් 107% වෙනුවට 92%ක් ලබා දීම පිළිබඳ වැටුප් විෂමතාව ඉවත් කිරීම සඳහා විශ්ව විද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩලවල වෘත්තීය සමිති, උසස් අධ්‍යාපන අමාත්‍යාංශ නිලධාරීන් සහ භාණ්ඩාගාර නිලධාරීන් එක්ව පැවති සාකච්ඡාවේ දී තීරණය කළ පරිදි පත් කරන ලද කමිටු වාර්තාව පදනම් කර ගනිමින් අධ්‍යාපන අමාත්‍යාංශය විසින් අමාත්‍ය මණ්ඩල සංදේශය ඉදිරිපත් කර ඇතැයි අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+State Universities In 2016 Salary Anomalies Since 2016The Ministry of Education has announced that the Ministry of Education has presented the Memorandum of the Ministry of Education based on the report of the committee report.
 
-ඒ අනුව අමාත්‍ය මණ්ඩල සංදේශය පිළිබඳ ප්‍රතිපත්තිමය තීන්දුවක් ගැනීම අධ්‍යාපන අමාත්‍යාංශය අපේක්ෂා කරන අතර ඉදිරි ආසන්නත ම කාලසීමාවේ දී ඊට අදාළ අමාත්‍ය මණ්ඩල තීරණ ලැබුනු පසුව ඒ අනුව කටයුතු කිරීමට අමාත්‍යාංශය ක්‍රියාකරනු ලබන බවද අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+The Ministry of Education expects to take a policy decision on the Cabinet Memorandum and the Ministry will act according to the next approximate period of the next approximate district.
 
 ◼️
 
 [Data](articles/8164028e.json)
+
+[Extended Data](ext_articles/8164028e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 08:33:10**
+As of **2024-02-26 08:51:07**
 
 ## Newspaper Stats
 
-*Scraped **9,268** Articles*
+*Scraped **9,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 467
 dailyftlk | 492
 islandlk | 494
 adalk | 776
-adaderanalk | 1,119
+adaderanalk | 1,120
 tamilmirrorlk | 1,139
 virakesarilk | 1,259
 dailymirrorlk | 1,390
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,398
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,267 (100.0%) of 9,268 articles have been extended.
+9,269 (100.0%) of 9,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Public Health Inspector shot dead in Elpitiya
+
+*2024-02-26 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97533/public-health-inspector-shot-dead-in-elpitiya) · `en`
+
+A 51-year-old Public Health Inspector (PHI) has been shot dead at his residence in Pathiraja Mawatha, Elpitiya.
+
+Police said that the shooting had been carried out by an unidentified gunman who had arrived at the residence on a motorcycle and subsequently fled the scene.
+
+◼️
+
+[Data](articles/6fa44acc.json)
+
+[Extended Data](ext_articles/6fa44acc.ext.json)
+
+---
 
 ### Prevailing dry weather condition expected to change from today
 
@@ -49,6 +65,8 @@ The public is kindly requested to take adequate precautions to minimize damages 
 ◼️
 
 [Data](articles/46e2ddd0.json)
+
+[Extended Data](ext_articles/46e2ddd0.ext.json)
 
 ---
 
@@ -2019,25 +2037,5 @@ As a new Aussie and local resident, the MP said that he hopes Dilshan will join 
 [Data](articles/1a3e2376.json)
 
 [Extended Data](ext_articles/1a3e2376.ext.json)
-
----
-
-### Chinese woman arrested in connection with over Rs. 8 mn fraud
-
-*2024-02-25 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97517/chinese-woman-arrested-in-connection-with-over-rs-8-mn-fraud-) · `en`
-
-Police have arrested a 52-year-old Chinese national for her alleged involvement in financial fraud amounting to nearly Rs. 8.4 million.
-
-The female suspect was arrested in the Kollupitiya police division on Saturday (24 Feb.), after investigations were launched into a complaint received by the Colombo Fraud Investigation Bureau on 31 January.
-
-According to police, the arrestee had obtained Rs. 8.4 million in total from several persons, claiming that it was for the purpose of a business venture, and would be returned.
-
-As such, further investigations are being carried out by the Colombo Fraud Investigation Bureau.
-
-◼️
-
-[Data](articles/97c68bd7.json)
-
-[Extended Data](ext_articles/97c68bd7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 19:02:33**
+As of **2024-02-26 19:17:50**
 
 ## Newspaper Stats
 
-*Scraped **9,388** Articles*
+*Scraped **9,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 469
 dailyftlk | 492
 islandlk | 495
 adalk | 793
-adaderanalk | 1,132
+adaderanalk | 1,135
 tamilmirrorlk | 1,153
 virakesarilk | 1,279
 dailymirrorlk | 1,414
@@ -26,11 +26,47 @@ adaderanasinhalalk | 1,425
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,388 (100.0%) of 9,388 articles have been extended.
+9,388 (100.0%) of 9,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Israel attack on Rafah would be ‘final nail in coffin’ of Gaza aid: UN chief
+
+*2024-02-26 18:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97548/israel-attack-on-rafah-would-be-final-nail-in-coffin-of-gaza-aid-un-chief) · `en`
+
+A full-scale Israeli military operation in Rafah would deliver a death blow to aid programs in Gaza, where humanitarian assistance remains “completely insufficient,” the UN chief warned Monday.
+
+Speaking before the UN Human Rights Council in Geneva, Antonio Guterres said that Gaza’s southernmost city, where more than 1.4 million Palestinians are crowded together in tent cities, was “the core of the humanitarian aid operation” in the Palestinian territory.
+
+“An all-out Israeli offensive on the city would not only be terrifying for more than a million Palestinian civilians sheltering there; it would put the final nail in the coffin of our aid programs,” he said.
+
+His comments came after Israeli Prime Minister Benjamin Netanyahu on Sunday reiterated that his country was intent on a ground invasion in Rafah, in its bid for “total victory” over Hamas, whose October 7 attack triggered the war.
+
+...
+
+[Data](articles/f70c878a.json)
+
+---
+
+### 83 persons killed in homicides so far in 2024 – Police Spokesman
+
+*2024-02-26 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97547/83-persons-killed-in-homicides-so-far-in-2024-police-spokesman) · `en`
+
+A total of 83 people have been killed in homicides in 2024 thus far, Police Spokesman DIG Nihal Thalduwa reported.
+
+Meanwhile, 1,180 incidents of burglary and 310 robberies were also reported since January this year, he said while speaking at a press conference today (26 Feb.).
+
+DIG Thalduwa further revealed that while nearly 20 shootings have been reported in this year so far, 10 of them are suspected to have been orchestrated by, or linked to members of organised crime syndicates.
+
+He assured, however, that Sri Lanka Police has already taken various measures required to curb the crime rate.
+
+◼️
+
+[Data](articles/bd603e57.json)
+
+---
 
 ### Special decision from Cabinet
 
@@ -47,6 +83,24 @@ The proposal made by the President of the Minister Wijayines Rajapaksa and the M
 [Data](articles/5cb22661.json)
 
 [Extended Data](ext_articles/5cb22661.ext.json)
+
+---
+
+### Cabinet decides to suspend ‘Parate Executions’
+
+*2024-02-26 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97546/cabinet-decides-to-suspend-parate-executions) · `en`
+
+All Parate Executions have been suspended until 15 December, as per a Cabinet decision made on Monday (26 Feb.).
+
+The relevant proposal was furnished by President Ranil Wickremesinghe, in his capacity as the Minister of Finance, following a request made by Justice Minister Wijeyadasa Rajapakshe, Minister of Industries Ramesh Pathirana and President Ranil Wickremesinghe.
+
+Accordingly, the relevant amendments are due to be presented before the Parliament soon.
+
+State Minister of Finance Ranjith Siyambalapitiya had informed Parliament last week that steps will be taken to suspend the powers of the ‘Parate execution’ law for a certain period for the purpose of protecting the small and medium-scale entrepreneurs (SMEs).
+
+◼️
+
+[Data](articles/cbdc261f.json)
 
 ---
 
@@ -1979,57 +2033,5 @@ Dilshan, including Dilshan, departed to Dilshan for years ago. Dilshan's elder d
 [Data](articles/0bf26240.json)
 
 [Extended Data](ext_articles/0bf26240.ext.json)
-
----
-
-### Senior U.S Diplomat Elizabeth Horst tipped to be new Ambassador to SL
-
-*2024-02-26 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Senior-U-S-Diplomat-Elizabeth-Horst-tipped-to-be-new-Ambassador-to-SL/108-277705) · `en`
-
-Colombo, Feb 26 (Daily Mirror) - Senior U. S. diplomat Elizabeth Kathryn Horst is designated to be appointed new American ambassador to Sri Lanka succeeding Ms. Julie Chung whose stint will end soon , Daily Mirror learns.
-
-The Sri Lankan government has given its concurrence to the appointment subject to clearance by the U.S Senate .
-
-Ms. Horst is currently is the Principal Deputy Assistant Secretary and Deputy Assistant Secretary responsible for Pakistan. She came from U.S. Embassy Berlin, where she was Minister Counselor for Public Diplomacy for Mission Germany. She is a member of the Senior Foreign Service. Previously, Elizabeth served as SCA’s Director of the Security, Transnational Affairs and Assistance (STA) Office. As Chargé d’Affaires and Deputy Chief of Mission at U.S. Embassy Tallinn, Estonia, she focused on Transatlantic security on NATO’s eastern flank.
-
-...
-
-[Data](articles/dac07239.json)
-
-[Extended Data](ext_articles/dac07239.ext.json)
-
----
-
-### Public Health Inspector shot dead in Elpitiya
-
-*2024-02-26 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-Health-Inspector-shot-dead-in-Elpitiya/108-277706) · `en`
-
-Elpitiya, Feb 26 (Daily Mirror) - A Public Health Inspector (PHI) was shot dead in Divithurugama, Elpitiya this morning, police said.
-
-They said the shooting took place at his residence near the Kurundugaha Hathekma Southern Expressway interchange in Divithurugama.
-
-The deceased, a father of three, is identified as Deepal Roshan Kumara, who is attached to the Karandeniya Public Health Inspector's office.
-
-◼️
-
-[Data](articles/1dd1b015.json)
-
-[Extended Data](ext_articles/1dd1b015.ext.json)
-
----
-
-### Shooting in Elpitiya;The Public Health Inspector killed
-
-*2024-02-26 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177289) · `ta`
-
-A Public Health Inspector in Badja Mawatha, Elpitiya, has been shot dead at his home.
-
-The shooting was carried out by an unidentified person who was on a motorcycle at the public health examiner's home.
-
-◼️
-
-[Data](articles/b8eb655b.json)
-
-[Extended Data](ext_articles/b8eb655b.ext.json)
 
 ---

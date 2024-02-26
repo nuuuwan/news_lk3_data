@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 13:51:50**
+As of **2024-02-26 14:03:25**
 
 ## Newspaper Stats
 
-*Scraped **9,335** Articles*
+*Scraped **9,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,126
 tamilmirrorlk | 1,150
 virakesarilk | 1,269
 dailymirrorlk | 1,404
-adaderanasinhalalk | 1,409
+adaderanasinhalalk | 1,410
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,335 (100.0%) of 9,335 articles have been extended.
+9,336 (100.0%) of 9,336 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,32 @@ The standard digits of 98 local bodies, 23 municipal councils and 36 municipal c
 [Data](articles/905f46c1.json)
 
 [Extended Data](ext_articles/905f46c1.ext.json)
+
+---
+
+### 49% of the telephone numbers of state officials are not working
+
+*2024-02-26 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193836) · `si`
+
+According to a survey, 49% of the telephone numbers of the Public Service Officers who have been opened and the public service providers who have opened the public.
+
+The survey was covered with the entire island by the Department of Economics and Statistical Studies of the University of Peradeniya.
+
+The survey has been carried out considering telephone numbers on the website of the Divi Niladhari, the Grama Niladhari, the official secretary of the country.
+
+Is the relevant numbers are used?Does the number respond to the phone when calling the number?And answers?To go.
+
+It has been revealed that 286 of the 589 telephone numbers of the survey were 286, ie 49% of the noble numbers.
+
+The answer to the reply to calls is 29%.
+
+In addition, the study has been used for this study of 98 regional councils, 23 municipal councils and 36 municipalities.
+
+...
+
+[Data](articles/0f8a8d67.json)
+
+[Extended Data](ext_articles/0f8a8d67.ext.json)
 
 ---
 
@@ -1993,37 +2019,5 @@ According to the Ukutani President, nearly 10,000 civilians have died of the dea
 [Data](articles/ac9c482e.json)
 
 [Extended Data](ext_articles/ac9c482e.ext.json)
-
----
-
-### India's Test series requires a further 152 runs
-
-*2024-02-25 22:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/177280) · `ta`
-
-India need a further 152 runs to win the fourth Test cricket match against England and win the series.
-
-India, who scored 145 runs in the second innings, are in a strong position to score 40 runs in 192 runs.
-
-Rohit Sharma has not lost 24 runs and Yaswvi Jaiswal 16 runs.
-
-India, with 46 runs in the first innings, scored England with its spinners in the third day.
-
-Ravichandran Ashwin took 5 wickets for 51 runs in England's second innings.
-
-Through this he recorded his 35th 5 wickets in Test cricket.
-
-Third spinner Kuldeep Yadav took 4 wickets for 22 runs. Ravindra Jadeja took the other wicket.
-
-Suck Groovli (60) and Johnny Nyrevov (30) were playing in England.
-
-India scored 307 runs for the last 3 wickets for the last 3 wickets from 219 runs for the loss of 219 runs for the loss of 7 wickets.
-
-Dhruw Jurel and Kuldeep Yadav, who were not at the end of the second day's play, continued to bat and shared 76 runs in the 8th wicket.
-
-...
-
-[Data](articles/572692ee.json)
-
-[Extended Data](ext_articles/572692ee.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 11:02:32**
+As of **2024-02-26 11:17:13**
 
 ## Newspaper Stats
 
-*Scraped **9,297** Articles*
+*Scraped **9,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 467
 dailyftlk | 492
 islandlk | 494
 adalk | 779
-adaderanalk | 1,121
+adaderanalk | 1,122
 tamilmirrorlk | 1,147
 virakesarilk | 1,261
 dailymirrorlk | 1,396
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,297 (100.0%) of 9,297 articles have been extended.
+9,297 (100.0%) of 9,298 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,30 @@ The American intelligence officers near the embassy were hospitalized.
 [Data](articles/95525233.json)
 
 [Extended Data](ext_articles/95525233.ext.json)
+
+---
+
+### Bangladesh court halts wild elephant adoption
+
+*2024-02-26 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97535/bangladesh-court-halts-wild-elephant-adoption) · `en`
+
+A Bangladeshi court on Sunday barred the adoption of elephants from the wild, a move hailed by animal rights activists as a “landmark” order to help stop cruelty.
+
+Rights groups said the high court order suspending licences will stop the torture of captive Asian elephants in the name of training.
+
+“The high court today suspended all licenses for the captive rearing of elephants,” Amit Das Gupta, deputy attorney general of the country, told AFP.
+
+Bangladesh was once one of the major homes for Asian elephants.
+
+But poaching and habitat loss saw their number dwindle so much that they are now declared critically endangered in the South Asian country.
+
+The International Union for Conservation of Nature (IUCN) says there are nearly 100 captive Asian elephants in Bangladesh, nearly half the amount of elephants left in the wild in the country.
+
+As logging and farming encroach on elephant territory, young animals are captured in the country’s northern and southeastern hills.
+
+...
+
+[Data](articles/3e467bde.json)
 
 ---
 
@@ -346,7 +370,9 @@ Doctors at the hospital suspects a chemical to treat the treatment of the Blood 
 
 A 51-year-old Public Health Inspector (PHI) has been shot dead at his residence in Pathiraja Mawatha, Elpitiya.
 
-Police said that the shooting had been carried out by an unidentified gunman who had arrived at the residence on a motorcycle and subsequently fled the scene.
+Police said that the shooting had been carried out at around 7.00 a.m. this morning (26) by two unidentified gunmen who had arrived at the residence on a motorcycle and subsequently fled the scene.
+
+The deceased has been identified as Roshan Kumara Vithanage, 51, who had been serving as the Public Health Inspector for the Karandeniya area.
 
 ◼️
 
@@ -2007,27 +2033,5 @@ The President also pointed out the importance of developing the new towns, inclu
 [Data](articles/76257cd8.json)
 
 [Extended Data](ext_articles/76257cd8.ext.json)
-
----
-
-### President's scholarships per 100,000 students from Presidentials
-
-*2024-02-25 15:50:21* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-උපදෙසින්-වසරකට-පාසල්-සිසුන්-ලක්ෂයකට-“ජනාධිපති-ශිෂ්‍යත්ව”/11-408264) · `si`
-
-The Presidential Fund is planned to implement the "Presidential Scholarship Program to encourage school children to encourage school children to encourage school children.
-
-Accordingly, the number of students who study the number of schools in 10,126 schools in Sri Lanka will be implemented annually to implement a program to 11 million students from the first grade to 11 (100,000).
-
-The program aims to provide school equipment and exercise books to meet children in the country today and to provide a variety of difficulties, such as transport facilities.
-
-President Ranil Wickremesinghe's prospect is to provide students with the students who are studying at the most minimal facilities at every school.
-
-Accordingly, the selection process of selecting the recipients and the following information is to be informed in the next few days, www.facebook.com, www.facebook.com.
-
-◼️
-
-[Data](articles/b36457b7.json)
-
-[Extended Data](ext_articles/b36457b7.ext.json)
 
 ---

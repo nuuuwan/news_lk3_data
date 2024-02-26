@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 08:04:35**
+As of **2024-02-26 08:17:41**
 
 ## Newspaper Stats
 
@@ -26,45 +26,49 @@ adaderanasinhalalk | 1,398
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,262 (99.9%) of 9,267 articles have been extended.
+9,267 (100.0%) of 9,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### දියේ ගිලී පාසල් දරුවෙක් මරුට
+### School child killed in drowning
 
 *2024-02-26 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193824) · `si`
 
-ලිඳුල පොලිස් වසමේ නාගසේන ප්‍රදේශයේ ආග්‍රා ඔයේ දියනෑමට ගිය පිරිමි දරුවෙක් දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+A boy drowned in the Nagasena area in the Lindula Police Division.
 
-පොලීසිය සඳහන් කළේ, ඊයේ (25) තවත් පිරිමි දරුවන් 5 දෙනෙකු සමග මෙම දරුවා ද ඔයේ දියනෑමට ගොස් ඇති බවය.
+Police said that the child had gone to the daughter yesterday (25) with five other boys.
 
-එහිදී සිසුවාගේ සිරුර ඔයේ ගැඹුරු වළක තිබී හමුවු බවට සිදුකළ විමර්ශනයේ දී අනාවරණය වී තිබේ.
+The student's body was revealed in the investigation that the body was found in a deep hoa.
 
-එලෙස මියගොස් ඇත්තේ අවුරුදු 16ක් වූ දිනුක ගමගේ නැමති නුවරඑළිය ප්‍රදේශයේ පදිංචි පාසල් සිසුවෙකි.
+The victim was a 16 year old resident of Nuwara Eliya.
 
 ◼️
 
 [Data](articles/ce7d36a9.json)
 
+[Extended Data](ext_articles/ce7d36a9.ext.json)
+
 ---
 
-### ලෙල්ලමේ වෙඩිතැබීමට සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+### Two suspects arrested for shooting
 
 *2024-02-26 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193823) · `si`
 
-මීගමුව පමුණුගම මාර්ගයේ ලෙල්ලම අසල දී පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Two suspects have been arrested for assisting a person's shooting at the Negombo Pamunugama road.
 
-පසුගිය අගෝස්තු මස 12වන දා වෙඩි තැබීම සිදුකළ තිබූ අතර ඒ සඳහා වෙඩික්කරුවන් පැමිණි යතුරුපැදිය ප්‍රවාහනය කර සඟවා තැබීමට ආධාර අනුබල දීම සම්බන්ධයෙන් මෙම සැකකරුවන් අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+The suspects were arrested on the 12th of August and was arrested on supporting and hinded the shotypists.
 
-ඔවුන් අවුරුදු 32 හා 40 යන වයස්වල පසුවන බදුවත්ත සහ අම්බලයාය යන ප්‍රදේශවල පදිංචිකරුවන් වේ.
+They are residents of Karawaththa and Ambalaya in ages and 40.
 
-සැකකරුවන්ගෙන් සුදුකළ ප්‍රශ්න කිරීම්වලදී අපරාධකරුවන් පැමිණි යතුරුපැදිය ද මීගමුව කොට්ඨාස අපරාධ ඒකකයේ නිලධාරීන් විසින් සොයාගෙන තිබේ.
+In the Negombo Divisional Criminal Unit, the Negombo Criminal Unit has also recovered the motorcycle for criminals.
 
 ◼️
 
 [Data](articles/06b15350.json)
+
+[Extended Data](ext_articles/06b15350.ext.json)
 
 ---
 
@@ -88,51 +92,57 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### தேர்தல் செலவுகள் குறித்து அறிவிப்பு
+### Notification on election expenses
 
 *2024-02-26 04:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவுகள்-குறித்து-அறிவிப்பு/175-333807) · `ta`
 
-தேர்தல் செலவுகள் ஒழுங்குமுறை சட்டம் தொடர்பில் அரசியல் கட்சிகளுக்கு அறிவிக்க தேசிய தேர்தல் ஆணைக்குழு தீர்மானித்துள்ளது.
+The National Election Commission has decided to announce to political parties regarding election expenses regulatory law.
 
-இது தொடர்பான விழிப்புணர்வு நடவடிக்கை எதிர்வரும் 27 மற்றும் மார்ச் 06 ஆம் திகதிகளில் நடைபெறவுள்ளதாக தேசிய தேர்தல் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க தெரிவித்துள்ளார்.
+The National Election Commission Chairman RMAL said that the awareness campaign will be held on the 27th and March 6th of March.. Ratnayake said.
 
-தேர்தல் செலவுகள் ஒழுங்குமுறை சட்டத்தின்படி, தேர்தலுக்கு செலவிடப்படும் பணம் மட்டுப்படுத்தப்பட வேண்டுமெனவும்  அவர் தெரிவித்துள்ளார். (a)
+He also said that under the Election Expenditure Regulatory Act, the money spent on the election should be limited.. (A)
 
 ◼️
 
 [Data](articles/1d7b1383.json)
 
+[Extended Data](ext_articles/1d7b1383.ext.json)
+
 ---
 
-### அமைச்சர் டக்ளஸ் - இந்திய உயர்ஸ்தானிகர் சந்திப்பு
+### Minister Douglas - Indian High Commissioner Meeting
 
 *2024-02-26 04:30:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-டக்ளஸ்-இந்திய-உயர்ஸ்தானிகர்-சந்திப்பு/175-333806) · `ta`
 
-கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா மற்றும் இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா ஆகியோருக்கு இடையில் விசேட சந்திப்பொன்று இலங்கைக்கான இந்திய உயர்ஸ்தானிகராலயத்தில் நேற்று மாலை இடம்பெற்றுள்ளது.
+A special meeting was held at the Indian High Commission in Sri Lanka yesterday evening between Fisheries Minister Douglas Devananda and Indian High Commissioner to Sri Lanka Santosh Ja.
 
-இதன்போது மீனவர் பிரச்சினை தொடர்பில் இந்தியா - இலங்கை இடையேயான ஆக்கபூர்வமான அணுகுமுறைகளை மேற்கொள்ள வேண்டும் என வலியுறுத்தப்பட்டது.
+It was urged to take constructive approaches between India and Sri Lanka on the fishermen issue.
 
-இருதரப்பு மீனவர்களின் நலன்சார்ந்து மனிதாபிமான முறையில் மீனவர் பிரச்சினையை அணுகுமாறு இந்திய உயர்ஸ்தானிகர் இதன்போது வலியுறுத்தியுள்ளார். (a)
+Indian High Commissioner urged the welfare of bilateral fishermen to approach the fishermen issue in a humanitarian manner.. (A)
 
 ◼️
 
 [Data](articles/7dc39e6f.json)
 
+[Extended Data](ext_articles/7dc39e6f.ext.json)
+
 ---
 
-### நாட்டில் இன்று மழை
+### Rain in the country today
 
 *2024-02-26 04:23:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-இன்று-மழை/175-333805) · `ta`
 
-நாட்டின் சில பகுதிகளில் இன்று (26) மழை பெய்யக்கூடிய சாத்தியம் நிலவுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+The Department of Meteorology has predicted that rainfall is likely to occur in some parts of the country today.
 
-இதன்படி, கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் மாத்தளை மற்றும் பொலன்னறுவை மாவட்டங்களிலும் மழை பெய்யக்கூடுமென தெரிவிக்கப்பட்டுள்ளது.
+Accordingly, rainfall is expected in the Eastern and Uva Provinces and Matale and Polonnaruwa districts.
 
-அத்துடன், சபரகமுவ மாகாணத்திலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இரவு வேளைகளில் மழை பெய்யக்கூடுமெனவும் வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது. (a)
+The Department of Meteorology has also forecast rainfall in the Sabaragamuwa Province and the Kandy, Nuwara Eliya, Galle and Matara districts at night.. (A)
 
 ◼️
 
 [Data](articles/2aa4e560.json)
+
+[Extended Data](ext_articles/2aa4e560.ext.json)
 
 ---
 

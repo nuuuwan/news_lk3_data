@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 00:17:21**
+As of **2024-02-27 00:33:08**
 
 ## Newspaper Stats
 
-*Scraped **9,430** Articles*
+*Scraped **9,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 95
 bbccomsinhala | 114
 dbsjeyarajcom | 165
 newsfirstlk | 363
-economynextcom | 469
+economynextcom | 481
 dailyftlk | 493
 islandlk | 495
 adalk | 799
 adaderanalk | 1,139
 tamilmirrorlk | 1,157
-virakesarilk | 1,287
+virakesarilk | 1,290
 dailymirrorlk | 1,424
 adaderanasinhalalk | 1,430
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,428 (100.0%) of 9,430 articles have been extended.
+9,430 (99.8%) of 9,445 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-02-27 (Tuesday)
+
+### மத்திய வங்கி நாட்டு மக்களிடம் மன்னிப்பு கோர வேண்டும் - உதய கம்மன்பில
+
+*2024-02-27 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177382) · `ta`
+
+பொருளாதார நெருக்கடியிலிருந்து மீள்வதற்கு நாட்டு மக்கள் அர்ப்பணிக்க வேண்டும் என்று உபதேசம் வழங்கும் மத்திய வங்கியின் ஆளுநர் தான் சம்பள அதிகரிப்பு தொடர்பான யோசனையை மத்திய வங்கியின் நிதி சபைக்கு முன்வைத்துள்ளார். மத்திய வங்கியின் பணியாளர்கள் மாத்திரமல்ல ஒட்டுமொத்த மக்களும் பொருளாதார ரீதியில் பாதிக்கப்பட்டுள்ளார்கள் அவ்வாறாயின் அனைவருக்கும் சம்பளத்தை அதிகரிக்க வேண்டும்.முறையற்ற வகையில் செயற்படும் மத்திய வங்கி நாட்டு மக்களிடம் மன்னிப்பு கோர வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் திங்கட்கிழமை (26) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/4a6f320e.json)
+
+---
+
 ### 2024-02-26 (Monday)
+
+### நிறைவேற்றதிகார பிரதமரின் கீழ் நாட்டை ஆட்சி செய்ய அரசாங்கம் சூழ்ச்சி - ஐக்கிய மக்கள் சக்தி
+
+*2024-02-26 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177381) · `ta`
+
+நிறைவேற்றதிகார பிரதமரின் கீழ் நாட்டை ஆட்சி செய்வதே தற்போதைய அரசாங்கத்தின் திட்டமாகும். அதற்கு ஒருபோதும் ஐக்கிய மக்கள் இடமளிக்காது. சர்வசன வாக்கெடுப்பிற்கான அரசாங்கத்தின் சூழ்ச்சியை நாம் தோற்கடிப்போம் என்று பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் திங்கட்கிழமை (26) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+இவ்வாண்டு ஜனாதிபதித் தேர்தல் நடத்தப்பட வேண்டும். ஜனாதிபதி தேர்தலுக்கு மிகக் குறைந்த நாட்களே உள்ளன. தேர்தலை நடத்தாமலிருப்பதற்கு முயற்சிக்க வேண்டாம் என்பதை அரசாங்கத்துக்கு கூறிக் கொள்கின்றோம். ஜனாதிபதி முறைமையை நீக்குதல் என்று பாரிய பதாதையை காட்சிப்படுத்திக் கொண்டிருப்பதே தற்போது அரசாங்கம் பின்பற்றும் தந்திரமாகும்.
+
+இந்த தீர்மானத்தை பாராளுமன்றத்தில் சமர்ப்பித்து, மூன்றில் இரண்டு பெரும்பான்மையுடன் அதனை நிறைவேற்றி அதன் பின்னர் சர்வசன வாக்கெடுப்புக்கு செல்வதே அரசாங்கத்தின் திட்டமாகும். இந்த தந்திரத்தின் ஊடாக மேலும் ஒரு வருடத்துக்கு தேர்தலைக் காலம் தாழ்த்துவதே அரசாங்கத்தின் சூழ்ச்சியாகும்.
+
+...
+
+[Data](articles/b0d8e603.json)
+
+---
+
+### சர்வதேச நாணய நிதியத்தின் பரிந்துரைகளை செயற்படுத்த சகல அரசியல் கட்சிகளின் ஒத்துழைப்பும் அத்தியாவசியமானது - பாட்டலி சம்பிக்க ரணவக்க
+
+*2024-02-26 23:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177380) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் பரிந்துரைகளைச் செயற்படுத்த சகல அரசியல் கட்சிகளின் ஒத்துழைப்பும் அத்தியாவசியமானது. யார் ஆட்சிக்கு வந்தாலும் வெளிநாட்டு கடன்கள் மறுசீரமைக்கப்பட வேண்டும். சர்வதேச நாணய நிதியத்துடனான செயற்பாட்டில் தனித்து செயற்பட வேண்டாம்,எதிர்க்கட்சிகளையும் இணைத்துக் கொள்ளுமாறு ஜனாதிபதியிடம் வலியுறுத்தியுள்ளோம்.ஜனாதிபதி தேர்தல் மற்றும் பொதுத்தேர்தலை இலக்காகக் கொண்டு பரந்துப்பட்ட அரசியல் கூட்டணியை அமைப்பதற்குப் பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ளோம் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+ஐக்கிய குடியரசு முன்னணி கடந்த 14 ஆம் திகதி வெளியிட்ட ' தேசியத்துக்காக ஒன்றிணைவோம்' என்ற கொள்கை பிரகடனத்தை வெளியிட்டது.பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க  தலைமையிலான ஐக்கிய குடியரசு முன்னணிக்கும், ஸ்ரீ லங்கா சுதந்திர கட்சி மற்றும் ஐக்கிய தேசியக் கட்சிக்கும் இடையிலான சந்திப்பு அண்மையில் கொழும்பில் இடம்பெற்றது.
+
+...
+
+[Data](articles/6831c989.json)
+
+---
 
 ### Sweden to join NATO in historic move as Hungary ratifies bid
 
@@ -90,6 +138,8 @@ Meanwhile, the report reveals that 22 percent of the phone numbers are active bu
 
 [Data](articles/9283f5fc.json)
 
+[Extended Data](ext_articles/9283f5fc.ext.json)
+
 ---
 
 ### Court of Appeal recognises applicability of RTI Act on State bank exam
@@ -103,6 +153,8 @@ The Court of Appeal delivered a judgment dismissing an appeal filed by Bank of C
 ...
 
 [Data](articles/fc62dca7.json)
+
+[Extended Data](ext_articles/fc62dca7.ext.json)
 
 ---
 
@@ -245,6 +297,22 @@ Colombo, Feb 26 (Daily Mirror) - Opposition Leader Sajith Premadasa said the Con
 [Data](articles/37c4289e.json)
 
 [Extended Data](ext_articles/37c4289e.ext.json)
+
+---
+
+### Sri Lanka president appoints Supreme Court-faulted official as police chief after CC clearance
+
+*2024-02-26 20:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-supreme-court-faulted-official-as-police-chief-after-cc-clearance-152160/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe appointed Deshbandu Tennakoon as the 36th Inspector General of Police (IGP) of the country after the Constitutional Council (CC) cleared the official who along with three other police officers were asked by the Supreme Court to compensate 2 million rupees in a fundamental rights case last year.
+
+“President Ranil Wickremesinghe has appointed Deshbandu Tennakoon as the IGP in accordance with the provisions of the Constitution,” the President’s Media Division (PMD) said.
+
+The island nation’s Supreme Court on December 14 ordered Tennakoon when he was the Acting IGP and three other officials to pay a compensation of 500,000 rupees each for the violation of the fundamental rights of an individual.
+
+...
+
+[Data](articles/5220de25.json)
 
 ---
 
@@ -664,6 +732,26 @@ The Ministry of Education has informed the Directors of all provinces to inform 
 
 ---
 
+### No water tariff hike in Sri Lanka this year: Minister
+
+*2024-02-26 18:12:00* · [`economynextcom`](https://economynext.com/no-water-tariff-hike-in-sri-lanka-this-year-minister-152158/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s planned water tariff formula is ready, and the government will implement it this year only if the formula’s tariff is lower than the current price, Water Supply Minister Jeevan Thondaman said.
+
+President Ranil Wickremesinghe’s government has been implementing IMF-led pricing policies on utilities and the Water Supply Ministry has already come up with a formula.
+
+“There is a water tariff formula in place right now and we are waiting for it to be drafted and seek approval from the cabinet,” Thondaman told reporters at a media briefing in Colombo on Monday.
+
+“Once this water tariff formula is in place, there will be an annual revision with an option of biannual review.
+
+The formula has been developed with the help of the Asian Development Bank. The formula includes electricity and exchange rate among many others as components like the fuel formula.
+
+...
+
+[Data](articles/87cecd5c.json)
+
+---
+
 ### Rs. Two policemen arrested for bribe of 10000
 
 *2024-02-26 18:11:29* · [`adalk`](https://www.ada.lk/breaking_news/රු--10000ක-අල්ලස්-ගත්-පොලිස්-නිලධාරීන්-දෙදෙනෙක්-අල්ලයි/11-408290) · `si`
@@ -763,6 +851,32 @@ As a result, Ulhupitiya Ratakada, the people of the area, the people of the area
 [Data](articles/808305c0.json)
 
 [Extended Data](ext_articles/808305c0.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 310.80/311.00 to the US dollar
+
+*2024-02-26 17:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-310-80-311-00-to-the-us-dollar-152140/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 310.80/311.00 to the US dollar Monday, from 310.95/311.05 on Thursday, dealers said.
+
+A bond maturing on 01.02.2026 closed stable at 10.60/80 percent.
+
+A bond maturing on 15.09.2027 closed at 11.80/90 percent down from 11.90/12.05 percent.
+
+A bond maturing on 15.03.2028 closed at 12.00/12.15 percent down from 12.10/25 percent.
+
+A bond maturing on 15.07.2029 closed at 12.20/70 percent from 12.20/95 percent.
+
+A bond maturing on 15.05.2030 closed at 12.30/70 percent down from 12.40/95 percent.
+
+A bond maturing on 15.05.2031 closed at 12.60/80 percent from 12.45/13.00 percent.
+
+A bond maturing on 01.07.2032 closed at 12.50/90 percent from 12.50/13.30 percent. (Colombo/Feb26/2024)
+
+◼️
+
+[Data](articles/2db39203.json)
 
 ---
 
@@ -1146,6 +1260,28 @@ There are 150 filling stations in the country will be transferred to the company
 
 ---
 
+### Sri Lanka stocks close down, turnover at 1.6bn
+
+*2024-02-26 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-at-1-6bn-152138/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, after the long weekend in the island, data on its site showed.
+
+The broader All Share Index closed down 43.18 points, or 0.41 percent at 10,612; while the S&P SL20 Index closed down at 3,057 points, down 0.25 percent, or 7.64 points.
+
+Turnover was at 1.6 million. Nearly half of this came from trading in Melstacorp Plc (474 million); the share closed up at 88.80.
+
+Expolanka Holdings Plc also saw large volumes being traded, contributing 392 million to the day’s turnover. The share closed up at 146.75.
+
+Sectors that attracted investor interest were Food, Beverage and Tobacco (608mn), Transportation (392mn), and Capital Goods (263mn).
+
+Positive contributors to the indices in the day included Sampath Bank Plc (up at 73.20), Amana Bank Plc (up at 2.30), and Hemas Holdings Plc (74.30). (Colombo/Feb26/2024).
+
+◼️
+
+[Data](articles/930d9ef6.json)
+
+---
+
 ### Opposition Leader’s donation stolen from primary school
 
 *2024-02-26 15:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-Leaders-donation-stolen-from-primary-school/108-277741) · `en`
@@ -1224,6 +1360,24 @@ The Ministry of Education issues a statement saying that all Provincial Director
 
 ---
 
+### Vietnam delegation on agriculture, fisheries, meets Sri Lanka chamber
+
+*2024-02-26 15:48:00* · [`economynextcom`](https://economynext.com/vietnam-delegation-on-agriculture-fisheries-meets-sri-lanka-chamber-152125/) · `en`
+
+ECONOMYNEXT – A roundtable discussion between a delegation from Vietnam’s Ministry of Agriculture and Rural Development, and the Ceylon Chamber of Commerce, looked for collaboration opportunities in agriculture, forestry, and fisheries.
+
+The delegation led by Minister of Agriculture and Rural Development of Vietnam Le Minh Hoan, comprised Ministry officials and entrepreneurs of Vietnam’s agriculture sector.
+
+‘Sri Lanka is strong in several agricultural sectors, with tea, fruit and vegetables especially, having strong export potential to Vietnam. Similarly, Vietnam’s progressive technology can strengthen the agriculture sector in Sri Lanka,’ Chairman of the Ceylon Chamber Duminda Hulangamuwa said in a statement.
+
+Minister Le Minh Hoan said that “bilateral agricultural trade between Vietnam and Sri Lanka has potential for growth,” and highlighted “the respective strengths of the two countries to complement mutual progress and development.”
+
+...
+
+[Data](articles/bdb283c5.json)
+
+---
+
 ### Bus topples a bus with school children
 
 *2024-02-26 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193844) · `si`
@@ -1243,6 +1397,22 @@ Five school children who were injured in the accident have been hospitalized for
 [Data](articles/b10ed34f.json)
 
 [Extended Data](ext_articles/b10ed34f.ext.json)
+
+---
+
+### Patali wants Sri Lanka presidential powers pruned, meets party leaders
+
+*2024-02-26 15:43:00* · [`economynextcom`](https://economynext.com/patali-wants-sri-lanka-presidential-powers-pruned-meets-party-leaders-152127/) · `en`
+
+ECONOMYNEXT — Sri Lanka opposition MP Patali Champika Ranawaka has presented a ‘common minimum progamme’ to President Ranil Wickremesinghe and representatives of the main opposition Samagi Jana Balawegaya (SJB), with a proposal to trim the executive powers of the president’s office to 2015 levels.
+
+Titled “A Step Forward with Unity for Our Nation”, the 32-page document contains proposed short and long term solutions to Sri Lanka’s ongoing issues.
+
+Among these is a proposal that reads “Revisiting and reducing the President’s executive powers to the levels observed in 2015, fostering a more balanced distribution of authority”.
+
+...
+
+[Data](articles/121febaf.json)
 
 ---
 
@@ -1388,6 +1558,56 @@ Speaking further Minister Nimal Siripala de Silva said.
 
 ---
 
+### Sri Lanka meets only 10 pct of global demand for king coconuts, plans to develop crop
+
+*2024-02-26 15:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-meets-only-10-pct-of-global-demand-for-king-coconuts-plans-to-develop-crop-152116/) · `en`
+
+ECONOMYNEXT — Sri Lanka plans to expedite a programme to develop king coconut cultivation as an export crop as demand has outgrown supply, meeting only 10 percent of global demand, Agriculture Minister Mahinda Amaraweera said.
+
+The Coconut Research Institute of Sri Lanka (CRI), the Coconut Cultivation Board, and the Coconut Development Authority, all of which come under the purview of the Agriculture Ministry, will work together in this regard, Amaraweera said.
+
+Speaking at an event on Sunday February 25, the minister said the ministry has identified the king coconut as an export crop that can boost foreign exchange earnings for Sri Lanka.
+
+“The variety of king coconut grown here is not available anywhere else in the world. There may be coconuts of this colour in other regions, but this particular king coconut is only grown here.
+
+“There is huge demand from the Dubai market. The competition is not with another country. The competition has been created by our own people,” he said.
+
+...
+
+[Data](articles/5f3a2f27.json)
+
+---
+
+### Sri Lanka central bank officers’ union issues statement on salary hike
+
+*2024-02-26 15:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-officers-union-issues-statement-on-salary-hike-152117/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank’s Executive Officers Union has issued a statement on the controversy over a steep salary increment said to have been given after the latest currency collapse.
+
+Key points in the statement issued in Sinhalese are as follows
+
+a)	The central bank was set up as an independent institution from the beginning
+
+c)	The earlier monetary board and the current board were not employees of the central bank but experts in various fields
+
+d)	The salary revisions have taken place in three year periods over several decades
+
+e)	The collective agreement for 2024-2026 was a result of negotiation between the management and the unions
+
+f)	It is no secret that the central bank’s salaries are higher than other services
+
+g)	They require a competitive salary to do their jobs without pressure
+
+h)	As a result, there is interest in working at the agency and highly qualified young people enter the agency
+
+j)	Due to being a closed service, promotional opportunities are limited
+
+...
+
+[Data](articles/d8e81dde.json)
+
+---
+
 ### Central Bank Executives
 
 *2024-02-26 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193840) · `si`
@@ -1529,6 +1749,24 @@ The activities of the Kopay Teacher College have begun daily with the greeting o
 [Data](articles/5e3f352d.json)
 
 [Extended Data](ext_articles/5e3f352d.ext.json)
+
+---
+
+### Sri Lanka main opposition files no-confidence motion against speaker
+
+*2024-02-26 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-main-opposition-files-no-confidence-motion-against-speaker-152111/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition, the Samagi Jana Balawegaya (SJB), has filed a motion of no confidence against the Speaker of Parliament for approving the controversial Online Safety Bill allegedly in violation of Supreme Court recommendations.
+
+The SJB said on Monday February 26 that the motion is being filed against Speaker Mahinda Yapa Abeywardena’s “gross misconduct and disregard for the supreme law of the land”.
+
+“He has betrayed the trust of the people and the parliament. It’s time to unite for transparency and accountability,” the party said in a statement.
+
+Apart from SJB leader and Opposition Leader Sajith Premadasa, Chief Opposition MP and SJB MP Lakshman Kiriella and SJB National Organiser MP Tissa Attanayake, former members of the government who are now allied with the SJB also signed the motion on behalf the SJB-led Samagi Jana Alliance. These MPs included G L Peiris, Chandima Weerakkody and Shan Wijayalal de Silva.
+
+...
+
+[Data](articles/75e0fb51.json)
 
 ---
 
@@ -1739,247 +1977,5 @@ The standard digits of 98 local bodies, 23 municipal councils and 36 municipal c
 [Data](articles/905f46c1.json)
 
 [Extended Data](ext_articles/905f46c1.ext.json)
-
----
-
-### 49% of the telephone numbers of state officials are not working
-
-*2024-02-26 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193836) · `si`
-
-According to a survey, 49% of the telephone numbers of the Public Service Officers who have been opened and the public service providers who have opened the public.
-
-The survey was covered with the entire island by the Department of Economics and Statistical Studies of the University of Peradeniya.
-
-The survey has been carried out considering telephone numbers on the website of the Divi Niladhari, the Grama Niladhari, the official secretary of the country.
-
-Is the relevant numbers are used?Does the number respond to the phone when calling the number?And answers?To go.
-
-It has been revealed that 286 of the 589 telephone numbers of the survey were 286, ie 49% of the noble numbers.
-
-The answer to the reply to calls is 29%.
-
-In addition, the study has been used for this study of 98 regional councils, 23 municipal councils and 36 municipalities.
-
-...
-
-[Data](articles/0f8a8d67.json)
-
-[Extended Data](ext_articles/0f8a8d67.ext.json)
-
----
-
-### Alexi Navalney's death - Australia announces sanctions against Russian prison officials
-
-*2024-02-26 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177326) · `ta`
-
-Australia has imposed financial and traffic sanctions against prison authorities associated with Alexi Navalney's death.
-
-He said the Australian government was deeply concerned about Nawalni's death and said that the next step towards taking responsibility for Navalni's human rights.
-
-"We will work with our colleagues to ensure that the Russian government is responsible for the death of Navalney," he said.
-
-Richardmarles, who said that the Russian president and the government are responsible for the manner in which Navalney carried out the death and death, said that we are demanding an independent investigation into this.
-
-◼️
-
-[Data](articles/8a383878.json)
-
-[Extended Data](ext_articles/8a383878.ext.json)
-
----
-
-### Magistrati do not suspect your children about my death
-
-*2024-02-26 12:54:19* · [`adalk`](https://www.ada.lk/breaking_news/මහෙස්ත්‍රාත්-තුමියනි-මගේ-මරණය-ගැන-‌බිරිඳ-දරුවන්-සැක-කරන්න-එපා/11-408281) · `si`
-
-Suicide has committed suicide by writing a letter from a police officer in Medawachchiya, Salupachuwa village. The deceased has been identified as Pchentnasiri calls
-
-A farm is a residential residential in Saliyachchi village. Continuing charges of continuously charged
-
-The letter states that the OIC has been mistarded by Mr. Farmer.
-
-The villagers have found that the villagers have found the dead.
-
-The deceased body has been admitted to the Medawachchiya Hospital and the death inspection has been carried out. There
-
-An open decision has been given and the body of Medawachchiya has been sent to the Task Inspector Office for further investigations. A special police team has commenced investigations into the incident.
-
-◼️
-
-[Data](articles/f16d3a8f.json)
-
-[Extended Data](ext_articles/f16d3a8f.ext.json)
-
----
-
-### Souvenir
-
-*2024-02-26 12:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயின்-இறப்பைத்-தாங்க-முடியாமல்-உயிரிழந்த-மகன்/175-333820) · `ta`
-
-It is reported that the son of the mother, who was suffering from the mother's death, died of a heart attack in a few hours of death.
-
-Mettilda, the mother of 71 -year -old children, who lived in Kaldaramulla, Induva Akadegoda, died on the 22nd.
-
-In this case, a man named Laksiri, the father of a 47 -year -old child, his fifth son, has been deeply distressed by the death of his mother.
-
-In this case, the funeral of the mother and son was held yesterday (24).
-
-◼️
-
-[Data](articles/ef330ea7.json)
-
-[Extended Data](ext_articles/ef330ea7.ext.json)
-
----
-
-### Emergency Telephone Number to register for the "Urumaya" land ownership
-
-*2024-02-26 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177323) · `ta`
-
-An emergency telephone number has been introduced to apply for the aspirations of the "Urumaya" National Program and give people the opportunity to enjoy the full rights of their land.
-
-From 8.30 am to 8.30 pm, the President's Office, the Urumaya National Operations Office, the Emergency Telephone No. 1908 and the telephone number 0114 354600/0114 354601 have been provided with facilities to register their demands.
-
-www.tiniurl.com/urumaya (Digital Application Form) has been announced that it can be completed by completing the form.
-
-The Land Development Ordinance of 1935 is a unique proposal put forward in the 2024 budget by President Ranil Wickremesinghe to give the government the right to the people with the conditions of government lands with conditions / allowances with conditions for the farmers and low income earners.
-
-...
-
-[Data](articles/b242b76a.json)
-
-[Extended Data](ext_articles/b242b76a.ext.json)
-
----
-
-### Intended messages and their interpretation
-
-*2024-02-26 12:40:00* · [`islandlk`](http://island.lk/intended-messages-and-their-interpretation/) · `en`
-
-It is common for short clips of statements by public figures, often taken out of context, to go viral
-
-Few things on social media go as viral as short clips of statements by public figures, often taken out of context. In platforms designed to capitalise on our shrinking attention spans, users rarely have the time or patience for context. Even if some may wish to trace a circulating video clip to its original, longer video source, it would have likely gone viral by then, prompting journalists to play catch up, although we may not report on it.
-
-While it is hard to pin motivations based on short clips, the instant reactions they trigger can be interesting and telling. Among other things, they show us how an intended message and its interpretation can be very different while consumed on social media. A case in point is a remark made by External Affairs Minister S. Jaishankar at the Indian Institute of Management (IIM), Mumbai, last month.
-
-...
-
-[Data](articles/86584ebb.json)
-
-[Extended Data](ext_articles/86584ebb.ext.json)
-
----
-
-### Diplomatic solution to the crisis of Ukraine - I plead for a little humanity
-
-*2024-02-26 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/177320) · `ta`
-
-Holy Pope Francis has requested that a diplomatic solution to the Ukraine crisis be found.
-
-The Holy Prophet has requested a diplomatic solution that can cause permanent fair peace.
-
-He made the request for two years since Russia's invasion of Ukraine began yesterday.
-
-Many people have been affected by the long -standing war - the wounded, the destruction, the grief and the tears, said the war has not caused a disaster in the region.
-
-I plead for a little humanity to create a diplomatic situation that seeks a fair and lasting peace, ”the pope said.
-
-◼️
-
-[Data](articles/185f07b6.json)
-
-[Extended Data](ext_articles/185f07b6.ext.json)
-
----
-
-### KEY TO DEVELOPMENT IS COMMITTED AND ETHICAL LEADERSHIP
-
-*2024-02-26 12:34:00* · [`islandlk`](http://island.lk/key-to-development-is-committed-and-ethical-leadership/) · `en`
-
-The Presidential Election of 1988 was held amid fear of disruption and death threats to campaigners. During the election period, a curfew was in force from 11 pm to 5 am throughout the month from Nomination to Polling Day while the forces of disruption were also enforcing fear psychosis, causing shops, government institutions, offices, and even court houses to close regularly.
-
-From Nomination Day, the candidates Prime Minister Ranasinghe Premadasa, Mrs. Sirima Bandaranaike and Mr. Ossie Abeygunasekara were conducting their election campaigns under heavy security. People were fearful of attending meetings, and attendance at most meetings was limited. The JVP did not run at this election.
-
-...
-
-[Data](articles/39497d13.json)
-
-[Extended Data](ext_articles/39497d13.ext.json)
-
----
-
-### Son dies after a few hours inaugurating mother's death
-
-*2024-02-26 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193835) · `si`
-
-The mother has reported from Induruwa within a few hours after the death of his mother's death.
-
-Induruwa, 71-year-old, aged 71-year-old, has been killed in a resident of Galtamulla, Akadagoda, Galtamulla.
-
-Laksiri Kottahachchi, 47-year-old father of Laksiri Kottacki, who was holding was careful.
-
-The mother died in the same time and the funeral of the mother and son (24) was taken by the mother.
-
-◼️
-
-[Data](articles/1d4a7b61.json)
-
-[Extended Data](ext_articles/1d4a7b61.ext.json)
-
----
-
-### Opposition MPs sign no-confidence motion against the Speaker
-
-*2024-02-26 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97539/opposition-mps-sign-no-confidence-motion-against-the-speaker-) · `en`
-
-Several opposition parties, led by Opposition Leader Sajith Premadasa, signed a motion of no confidence against Speaker of Parliament Mahinda Yapa Abeywardene on Monday (26 Feb.), claiming that he had violated the Constitution of Sri Lanka.
-
-Accordingly, several MPs belonging to the opposition in Parliament including M. A. Sumanthiran, Lakshman Kiriella, G. L. Pieris, Tissa Attanayake, Chandima Weerakkody and Shan Wijayalal de Silva, have signed the no-confidence motion against the Speaker for approving the much-disputed Online Safety Bill amidst ‘irregular procedures’.
-
-Speaking in this regard earlier this month, Samgi Jana Balawegaya (SJB) leader Sajith Premadasa charged that the Speaker had ignored nine recommendations given by the Supreme Court while enacting the Online Safety Act, adding that they no longer have faith in him.
-
-...
-
-[Data](articles/d3a13d4c.json)
-
-[Extended Data](ext_articles/d3a13d4c.ext.json)
-
----
-
-### United Petroleum secures contract to supply petroleum products in Sri Lanka
-
-*2024-02-26 12:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/United-Petroleum-secures-contract-to-supply-petroleum-products-in-Sri-Lanka/108-277732) · `en`
-
-Feb 26 - United Petroleum Australia Pty Ltd has entered a contract with Ministry of Power and Energy to supply Petroleum products in Sri Lankan Market, a statement from the company said.
-
-This event came into live after selecting the company based on RFP issued by Sri Lankan government to further liberalizing the country’s retail petroleum sector early last year.
-
-United Petroleum Australia Pty Ltd is a leading Petroleum Trading company in Australia owning over 500 fuel stations all over Australian sub-continent. United group also has many other businesses in Australia and Singapore and this is the first time, company expanded their retail petroleum business outside Australia.
-
-United is a billion-dollar company with focus on quality, safety, and environment. Owners of the company believe that they should be able to benchmark good practices to Sri Lankan retail petroleum market and enhance the quality of products and service to its customers.
-
-...
-
-[Data](articles/a71682e3.json)
-
-[Extended Data](ext_articles/a71682e3.ext.json)
-
----
-
-### Elizabeth Coret is the new Ambassador to Sri Lanka?
-
-*2024-02-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177315) · `ta`
-
-According to reports, Elizabeth K. Corpst will be appointed as the new Ambassador to Sri Lanka.
-
-Elizabeth K Corpst will be appointed as the new ambassador as US Ambassador Julie Sangh's term ends.
-
-Sri Lanka said it was ready to accept the appointment if the US Senate approved the appointment.
-
-◼️
-
-[Data](articles/808e6762.json)
-
-[Extended Data](ext_articles/808e6762.ext.json)
 
 ---

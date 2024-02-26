@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 12:03:20**
+As of **2024-02-26 12:17:38**
 
 ## Newspaper Stats
 
-*Scraped **9,299** Articles*
+*Scraped **9,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanalk | 1,123
 tamilmirrorlk | 1,147
 virakesarilk | 1,261
 dailymirrorlk | 1,396
-adaderanasinhalalk | 1,405
+adaderanasinhalalk | 1,407
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,299 (100.0%) of 9,299 articles have been extended.
+9,299 (100.0%) of 9,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### කථානායකට එරෙහි විශ්වාසභංගයට අත්සන් තැබීම ඇරඹේ
+
+*2024-02-26 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193834) · `si`
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතා පාර්ලිමේන්තුවේ විශ්වාසයත් ආණ්ඩුක්‍රම ව්‍යවස්ථාවත් උල්ලංඝනය කර ඇති බව පවසමින් සමගි ජන බලවේගය ප්‍රමුඛ සමගි ජන සන්ධානය කථානායකවරයාට විරුද්ධව විශ්වාසභංග යෝජනාවට අත්සන් තැබීම ආරම්භ කර තිබේ.
+
+විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ මූලිකත්වයෙන් මේ විශ්වාසභංග යෝජනාව ගෙන ඒම සඳහා සමගි ජන බලවේගය සහ සමගි ජන සන්ධානය නියෝජනය කරමින් පාර්ලිමේන්තු මන්ත්‍රී එම්. ඒ. සුමන්තිරන්, ලක්ෂ්මන් කිරිඇල්ල, ජී. ඇල්. පීරිස්, තිස්ස අත්තනායක, චන්දිම වීරක්කොඩි සහ ශාන් විජයලාල් ද සිල්වා මහතා ඇතුළු පිරිසක් අත්සන් විශ්වාසභංග යෝජනාවට අත්සන් කර තිබේ.
+
+එම විශ්වාසභංග යෝජනාව තුළින් මාර්ගගත සුරක්ෂිතභාවය සම්බන්ධ පනත් කෙටුම්පතේ 13, 17, 20, 33 (6), 34 (1),  35 (1), 21, 22, 31 වගන්ති සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය විසින් ලබා දී ඇති යෝජනා නොසලකා කටයුතු කර ඇති බව මෙහි සඳහන් වේ.
+
+...
+
+[Data](articles/58957c2e.json)
+
+---
+
+### ශ්‍රී ලංකාවේ ඉන්ධන විකුණන්න එන අලුත්ම සමාගම
+
+*2024-02-26 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193833) · `si`
+
+ශ්‍රී ලංකාවේ ඉන්ධන වෙළෙඳපොළ තරගකාරීත්වය වැඩිකරමින් තවත් විදේශීය සමාගමක් මෙරට වෙළෙඳපොළට අවතීර්ණ වී තිබේ.
+
+එම සමාගම සහ විදුලිබල සහ බලශක්ති අමාත්‍යංශය අතර ගිවිසුම පසුගිය 22 වනදා අත්සන් කර තිබේ.
+
+දැනට මෙරට ක්‍රියාත්මක වන ඉන්ධන පිරවුම්හල් 150ක් එම සමාගම ට පැවරීමට නියමිත අතර තවත් ඉන්ධන පිරවුම්හල් 50ක් ඔවුන් විසින් ස්ථාපනය කිරීමට නියමිතය.
+
+ශ්‍රී ලංකාව තුළ මෙහෙයුම් කටයුතු සිදුකිරීම සඳහා ඔවුන් විසින් "යුනයිටඩ් පෙට්‍රෝලියම් ලංකා ලිමිටඩ්" නමින් සමාගමක් ලියාපදිංචි කර තිබේ.
+
+◼️
+
+[Data](articles/228c229c.json)
+
+---
 
 ### Two arrested for aiding and abetting shooting in Lellama
 
@@ -1987,53 +2021,5 @@ Airport sources said four SriLankan Airlines flights faced delay and a frustrate
 [Data](articles/fb4f5886.json)
 
 [Extended Data](ext_articles/fb4f5886.ext.json)
-
----
-
-### 100,000 school children
-
-*2024-02-25 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193811) · `si`
-
-President has decided to open a special scholarship program for school children.
-
-The scholarship program is to be implemented to be selected from the first grade to 11th grade, covering the number of total number of schools in the country.
-
-Accordingly, Rs. 3,600 million has been allocated from the President's Fund.
-
-The program aims to provide school equipment and exercise books to meet children in the country today and provide some reliefs for the difficulties of employment.
-
-According to the Presidential Media Unit, the selection process of selecting these scholarships and all relevant information will be notified in the future.
-
-◼️
-
-[Data](articles/9dbacc24.json)
-
-[Extended Data](ext_articles/9dbacc24.ext.json)
-
----
-
-### Man shot dead in Jampatta Street
-
-*2024-02-25 15:58:36* · [`adalk`](https://www.ada.lk/breaking_news/ජම්පටා-වීදියේ-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-තුවාල-ලබයි/11-408266) · `si`
-
-According to the DIG Talduuwa, he was hospitalized after a gunshot wound the owner of a chicken selling owner in Newhham Square, Newhham Square.
-
-Mohamed Relwan, 57, was injured in the shooting.
-
-The shooting had come to a motorbike with a motorbike with a motorcycle while he was sitting in a motorbike with a shooting.
-
-The police say that the person who was shot was a close relative of the rumuda, a close relative of the fleet of the meley shop, and belonging to the meat.
-
-A high-ranking police officer said that the shooting had been carried out on the direction of the son of Kudu Selvi, a son of Kudu Selvi, River.
-
-The Kukudu Selvi's group was shot dead by the night of January 24th on January 24.
-
-In addition to the coastal police OIC Chief Inspector Sanath Ranjith, Colombo Crimes Division also conducts investigations.
-
-◼️
-
-[Data](articles/d91f89de.json)
-
-[Extended Data](ext_articles/d91f89de.ext.json)
 
 ---

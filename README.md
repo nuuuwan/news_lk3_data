@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 21:17:28**
+As of **2024-02-26 21:33:20**
 
 ## Newspaper Stats
 
-*Scraped **9,411** Articles*
+*Scraped **9,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 493
 islandlk | 495
 adalk | 798
 adaderanalk | 1,136
-tamilmirrorlk | 1,156
+tamilmirrorlk | 1,157
 virakesarilk | 1,285
 dailymirrorlk | 1,416
 adaderanasinhalalk | 1,426
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,410 (100.0%) of 9,411 articles have been extended.
+9,411 (100.0%) of 9,412 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -107,6 +107,20 @@ It is noteworthy that President Ranil Wickremesinghe was appointed as the Inspec
 [Data](articles/b42d88ff.json)
 
 [Extended Data](ext_articles/b42d88ff.ext.json)
+
+---
+
+### பொலிஸ்மா அதிபராக தேசபந்து தென்னகோன் நியமனம்
+
+*2024-02-26 19:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபராக-தேசபந்து-தென்னகோன்-நியமனம்/175-333843) · `ta`
+
+இலங்கையின் 36வது பொலிஸ் மா அதிபராக பதில் பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோன் நியமிக்கப்பட்டுள்ளார்.
+
+ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவிடமிருந்து சற்றுமுன்னர் அவர் தனது நியமனக் கடிதத்தைப் பெற்றுக்கொண்டதாக ஜனாதிபதி ஊடக பிரிவு குறிப்பிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/c95d8ff0.json)
 
 ---
 
@@ -218,21 +232,23 @@ The body was subsequently recovered by the police and handed over to the hospita
 
 ---
 
-### බැසිල් සති දෙකකින් එනවා - පුතා යන්නේ පියාගේ අඩිපාරේ
+### Basil comes in two weeks - son goes on the footsteps of the father
 
 *2024-02-26 18:54:42* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-සති-දෙකකින්-එනවා---පුතා-යන්නේ-පියාගේ-අඩිපාරේ/11-408291) · `si`
 
-හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතා තව සතියකින් හෝ දෙකකින් දිවයිනට පැමිණෙනු ඇති බවත් ඉන් අනතුරුව පක්ෂයේ සංවිධාන කටයුතු ආරම්භ කරන බව හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා පැවැසීය.
+Former Minister Basil Rajapaksa will arrive in the island within two or two weeks, former President Mahinda Rajapaksa said that the organizational activities of the party will commence.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ පක්ෂ මූලස්ථානයේ පැවැති වැඩසටහකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවැසීය.
+He was speaking to the media after the program held at the Sri Lanka Civil Front Party Headquarters.
 
-එසේම කථානායකවරයාට එරෙහිව සමගි ජන බලවේගය ගෙන එන විශ්වාසභංග යෝජනාව පරාජයට  පත්කරන බවත් ඔහු පැවැසීය.
+He also defeated the no-confidence motion that brings the reconciliation proposal against the Speaker.
 
-එසේම නාමල් රාජපක්ෂ මහතා මේ වන විට විහාරස්ථානවලට යන්නේ ඇයිදැයි විමසූ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු පැවැසුවේ ඔහු බෞද්ධයෙක් බවයි. එසේම පුතාද ගමන් කරන්නේද පියාගේ අඩිපාරේ බවයි.
+He further stated that Namal Rajapaksa has asked why the temples are currently going to temples.. Also, son of the father is also in the footsteps of his father.
 
 ◼️
 
 [Data](articles/c6afb457.json)
+
+[Extended Data](ext_articles/c6afb457.ext.json)
 
 ---
 
@@ -1987,23 +2003,5 @@ Through the Land Development Ordinance of 1935, the proposal put forward by Pres
 [Data](articles/3ecc1267.json)
 
 [Extended Data](ext_articles/3ecc1267.ext.json)
-
----
-
-### Yall. The massive shark trapped in the Vadamarachchi East Sea
-
-*2024-02-26 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177301) · `ta`
-
-A large shark fish in the Vadamarachchi East Sea in Jaffna is trapped in the trap of a fisherman.
-
-The shark is said to be about 3 thousand 700 kg.
-
-The large shark that was trapped in a trap of a fisherman from Vadamarachchi East Uttarakal has been brought to the shore with the help of fellow fishermen amidst fierce struggle.
-
-◼️
-
-[Data](articles/18086451.json)
-
-[Extended Data](ext_articles/18086451.ext.json)
 
 ---

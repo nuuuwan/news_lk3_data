@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 17:53:15**
+As of **2024-02-26 18:08:37**
 
 ## Newspaper Stats
 
-*Scraped **9,378** Articles*
+*Scraped **9,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 495
 adalk | 792
 adaderanalk | 1,132
 tamilmirrorlk | 1,153
-virakesarilk | 1,274
+virakesarilk | 1,278
 dailymirrorlk | 1,413
 adaderanasinhalalk | 1,422
 
@@ -26,11 +26,93 @@ adaderanasinhalalk | 1,422
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,378 (100.0%) of 9,378 articles have been extended.
+9,382 (100.0%) of 9,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Speaker of the Constitution and Parliamentary Democracy - GL Peiris accuses
+
+*2024-02-26 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177368) · `ta`
+
+The actions of Speaker Mahinda Yapa Abeywardena are the constitutional and the democratic of parliamentary democracy. Professor GL Peiris, a representative of the Independent People's Council and Member of Parliament, said that if the Speaker's actions as the representative of the Executive, it would be a false example of the future.
+
+He made this statement during a media briefing held at the Office of the Independent People's Council in Nawala on Monday (26).
+
+We have signed the first phase to bring a no -confidence motion against Speaker Mahinda Yapa Abeywardena. We will negotiate with all the opposition parties that are a member of Parliament.
+
+The Speaker is acting to affect the features of the 93 -year -old parliamentary democracy.
+
+The Speaker is acting in parliament as the executive president's representative.
+
+...
+
+[Data](articles/2d34139e.json)
+
+[Extended Data](ext_articles/2d34139e.ext.json)
+
+---
+
+### 71 % of the official telephone lines of state agencies do not function properly: Information on the survey!
+
+*2024-02-26 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177367) · `ta`
+
+A study conducted by the University of Peradeniya has revealed that 71 % of the official telephone lines allocated to state institutions in the country did not function properly.
+
+The survey was conducted by a group of students of the Department of Economics and Statistics of the University under the guidance of Professor Vasantha Attukorala.
+
+According to the survey, only 29 percent of the official telephone lines introduced to contact state institutions are not functioning properly and 49 percent are not functioning and 22 percent will be responded.
+
+The survey includes the official telephone lines allocated to Grama Niladhari Officers, Samurdhi Officers and Development Officers from Divisional Secretariats across the country.
+
+Accordingly, according to data collected from 98 regions of the 276 regional councils, 14 percent of the telephone lines are not operating and 42 % are not responded.Only 44 % have been responded.
+
+...
+
+[Data](articles/5e4f9431.json)
+
+[Extended Data](ext_articles/5e4f9431.ext.json)
+
+---
+
+### Romanian Ambassador met Prime Minister
+
+*2024-02-26 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177364) · `ta`
+
+The meeting between Prime Minister Dinesh Gunawardena and Romanian Ambassador Domina Stelusa Ahru was held at the Alari House on Monday (26).
+
+◼️
+
+[Data](articles/200b6a7c.json)
+
+[Extended Data](ext_articles/200b6a7c.ext.json)
+
+---
+
+### Prohibition of adoption of wild elephant;Bangladesh court
+
+*2024-02-26 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177333) · `ta`
+
+Bangladesh Deputy Attorney Amit Das Gupta says the High Court has canceled all the licenses to adopt elephants.
+
+The verdict has been hailed as a milestone of victory for animal rights activists who pressure them to prevent the torture on beasts.
+
+In addition, animal rights activists have said that the cancellation of elephants will stop torture in the name of Asian elephants.
+
+Bangladesh was once one of the main places where Asian elephants live. But hunting and habitat loss have decreased their number. They are currently reported to be very dangerous in the South Asian country.
+
+In addition, about 100 Asian elephants have been captured in Bangladesh, the International Union for Natural Protection (IUCN) said that half of the forest elephants in the country.
+
+In the northern and southeastern highlands of Bangladesh, small animals are captured by the elephants where the elephants live in the area.
+
+...
+
+[Data](articles/aca1defc.json)
+
+[Extended Data](ext_articles/aca1defc.ext.json)
+
+---
 
 ### Inaugural T10 League to get underway in December
 
@@ -73,6 +155,22 @@ Attached below is the list of guidelines issued by the Ministry:
 [Data](articles/19a5e362.json)
 
 [Extended Data](ext_articles/19a5e362.ext.json)
+
+---
+
+### What is Sri Lanka in countries that are sold at high prices?
+
+*2024-02-26 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177344) · `ta`
+
+Sri Lanka is the second largest apple fruit in the world.
+
+The Visitor Index posted on its X site that Numbeo, the world's largest living database, has published it.
+
+◼️
+
+[Data](articles/4c8bc164.json)
+
+[Extended Data](ext_articles/4c8bc164.ext.json)
 
 ---
 
@@ -303,22 +401,6 @@ Five school children who were injured in the accident have been hospitalized for
 [Data](articles/b10ed34f.json)
 
 [Extended Data](ext_articles/b10ed34f.ext.json)
-
----
-
-### What is Sri Lanka in countries that are sold at high prices?
-
-*2024-02-26 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177344) · `ta`
-
-Sri Lanka is the second largest apple fruit in the world.
-
-The Visitor Index posted on its X site that Numbeo, the world's largest living database, has published it.
-
-◼️
-
-[Data](articles/4c8bc164.json)
-
-[Extended Data](ext_articles/4c8bc164.ext.json)
 
 ---
 
@@ -1963,81 +2045,5 @@ The practice of transferring billions to defined-benefit pension staff funds whe
 [Data](articles/e4e96f25.json)
 
 [Extended Data](ext_articles/e4e96f25.ext.json)
-
----
-
-### Australian citizenship to Dilshan
-
-*2024-02-26 08:14:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தில்ஷானுக்கு-ஆஸ்திரேலிய-குடியுரிமை/175-333811) · `ta`
-
-Australian parliamentarian Jason Wood has said that former Sri Lankan cricketer Tilakaratne Dilshan has been given Australian citizenship following a citizenship ceremony.
-
-“Dilshan is considered the best Sri Lankan player in a one -day competition history. He holds the record for scoring 500 runs in the 2011 ICC Cricket World Cup and the highest run against England in the semifinals. Moreover, he was a member of the Sri Lankan squad that won 20 of the 2014 ICC Twenty20, ”he posted on the MP social media.
-
-As a new Aussie and locals, the MP said that Dilshan would continue to share his talents with the local team.
-
-"It was very happy to hear his daughter Resand to follow his father's footsteps," he added.
-
-◼️
-
-[Data](articles/417ecd59.json)
-
-[Extended Data](ext_articles/417ecd59.ext.json)
-
----
-
-### Another shower in the South - A loss of life
-
-*2024-02-26 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193826) · `si`
-
-Elpitiya has been shot dead by an unidentified gunman who came to a motorbike at Pathiraja Mawatha.
-
-At an inquiry, police spokesman SSP Attorney Nihal Talduuwa said that a 51-year-old public health inspector in Karandeniya had been shot.
-
-◼️
-
-[Data](articles/c4416669.json)
-
-[Extended Data](ext_articles/c4416669.ext.json)
-
----
-
-### Army permits people to go to Jaffna temples
-
-*2024-02-26 08:07:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மக்கள்-யாழ்-கோவில்களுக்கு-செல்ல-இராணுவம்-அனுமதி/71-333810) · `ta`
-
-The Sri Lankan military has announced that seven Hindu temples located within the High Security Zone, which belongs to the Security Forces Headquarters in Jaffna, have been allowed to visit the public.
-
-Under this decision, the public will be allowed to participate in the weekly pooja and other rituals at the Kaduvan Muthumari Amman Temple, Vasavilan Manampirai Temple, Visavilan Shiva Temple, Vasavilan Naga Temple, Palali Raja Rajeswari Temple, Palali Naga Thambilan Temple and Palali Sakthiveli Murugan Temple.. .
-
-The decision has been taken in accordance with the demands of the temple trustees and civil organizations.
-
-It is noteworthy that only monthly and special poojas were approved in the temple premises.
-
-◼️
-
-[Data](articles/44fb5e35.json)
-
-[Extended Data](ext_articles/44fb5e35.ext.json)
-
----
-
-### Army permits to go to Jaffna
-
-*2024-02-26 08:07:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-கோவில்களுக்கு-செல்ல-இராணுவம்-அனுமதி/71-333810) · `ta`
-
-The Sri Lankan military has announced that seven Hindu temples located within the High Security Zone, which belongs to the Security Forces Headquarters in Jaffna, have been allowed to visit the public.
-
-Under this decision, the public will be allowed to participate in the weekly pooja and other rituals at the Kaduvan Muthumari Amman Temple, Vasavilan Manampirai Temple, Visavilan Shiva Temple, Vasavilan Naga Temple, Palali Raja Rajeswari Temple, Palali Naga Thambilan Temple and Palali Sakthiveli Murugan Temple.. .
-
-The decision has been taken in accordance with the demands of the temple trustees and civil organizations.
-
-It is noteworthy that only monthly and special poojas were approved in the temple premises.
-
-◼️
-
-[Data](articles/a3f55c42.json)
-
-[Extended Data](ext_articles/a3f55c42.ext.json)
 
 ---

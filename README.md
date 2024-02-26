@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 12:32:58**
+As of **2024-02-26 12:50:18**
 
 ## Newspaper Stats
 
-*Scraped **9,304** Articles*
+*Scraped **9,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 492
 islandlk | 494
-adalk | 779
+adalk | 784
 adaderanalk | 1,123
-tamilmirrorlk | 1,147
-virakesarilk | 1,261
-dailymirrorlk | 1,396
+tamilmirrorlk | 1,148
+virakesarilk | 1,266
+dailymirrorlk | 1,404
 adaderanasinhalalk | 1,408
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,301 (100.0%) of 9,304 articles have been extended.
+9,304 (99.8%) of 9,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### United Petroleum secures contract to supply petroleum products in Sri Lanka
+
+*2024-02-26 12:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/United-Petroleum-secures-contract-to-supply-petroleum-products-in-Sri-Lanka/108-277732) · `en`
+
+Feb 26 - United Petroleum Australia Pty Ltd has entered a contract with Ministry of Power and Energy to supply Petroleum products in Sri Lankan Market, a statement from the company said.
+
+This event came into live after selecting the company based on RFP issued by Sri Lankan government to further liberalizing the country’s retail petroleum sector early last year.
+
+United Petroleum Australia Pty Ltd is a leading Petroleum Trading company in Australia owning over 500 fuel stations all over Australian sub-continent. United group also has many other businesses in Australia and Singapore and this is the first time, company expanded their retail petroleum business outside Australia.
+
+United is a billion-dollar company with focus on quality, safety, and environment. Owners of the company believe that they should be able to benchmark good practices to Sri Lankan retail petroleum market and enhance the quality of products and service to its customers.
+
+...
+
+[Data](articles/a71682e3.json)
+
+---
+
+### இலங்கைக்கான அமெரிக்காவின் புதிய தூதுவர்  எலிசபெத் கோர்ஸ்ட் ?
+
+*2024-02-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177315) · `ta`
+
+இலங்கைக்கான அமெரிக்காவின் புதிய தூதுவராக எலிசபெத் கே கோர்ஸ்ட் நியமிக்கப்படவுள்ளார் என தகவல்கள் வெளியாகியுள்ளன.
+
+அமெரிக்க தூதுவர் ஜூலி சங்கின் பதவிக்காலம் முடிவடைகின்ற நிலையில் புதிய தூதுவராக  எலிசபெத் கே கோர்ஸ்ட்  நியமிக்கப்படவுள்ளார்.
+
+அமெரிக்க செனெட் இந்த நியமனத்திற்கு அங்கீகாரம் வழங்கினால் இந்த நியமனத்தை ஏற்க தயார் என இலங்கை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/808e6762.json)
+
+---
+
+### US airman sets himself on fire outside Israeli embassy in Washington
+
+*2024-02-26 11:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-airman-sets-himself-on-fire-outside-Israeli-embassy-in-Washington/108-277733) · `en`
+
+WASHINGTON, Feb 25 (Reuters) - A U.S. military service member set himself on fire, in an apparent act of protest against the war in Gaza, outside the Israeli Embassy in Washington on Sunday afternoon, authorities said.
+
+The man was transported to an area hospital after the fire was put out by U.S. Secret Service officers, DC Fire and EMS posted online. The man remains in critical condition, a Metropolitan Police Department spokesperson said Sunday afternoon. An Air Force spokesperson confirmed that the incident involved a active duty airman.
+
+"I will no longer be complicit in genocide," said the man, wearing military fatigues, in a video he broadcasted live over the internet, according to the New York Times.
+
+He then doused himself in a clear liquid and set himself on fire, screaming "Free Palestine," the Times reported.
+
+...
+
+[Data](articles/bd4cb655.json)
+
+---
 
 ### Signing of the no-confidence in the speaker begins
 
@@ -49,6 +101,22 @@ Also, a powerful problem has been made by the Supreme Court's decisions in the f
 [Data](articles/58957c2e.json)
 
 [Extended Data](ext_articles/58957c2e.ext.json)
+
+---
+
+### யாழ்.நகரில் வாகனம் தீக்கிரை
+
+*2024-02-26 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177310) · `ta`
+
+யாழ்ப்பாணம் நகரின் மத்திய பகுதியில் சிறிய ரக வாகனம் ஒன்று இன்று திங்கட்கிழமை (26) தீக்கிரையாகியுள்ளது.
+
+யாழ்.மத்திய பஸ் நிலையத்திற்கு அண்மையில் உள்ள வெற்று காணி ஒன்றில் நிறுத்தி வைக்கப்பட்டு இருந்த வாகனமே தீக்கிரையாகியுள்ளது.
+
+தீ விபத்து ஏற்பட்டதா அல்லது குழுவினரால் தீ வைக்கப்பட்டதா என்பது தொடர்பில் தெரிய வராத நிலையில் சம்பவம் தொடர்பில் யாழ்ப்பாண பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/90c91a5e.json)
 
 ---
 
@@ -72,25 +140,137 @@ They have registered a company called "United Petroleum Lanka Limited" to carry 
 
 ---
 
-### දක්ෂිණ අධිවේගයේ තවත් බිහිසුණු අනතුරක් - ජීවිතයක් අහිමිවෙයි
+### Opposition decides to bring in no faith motion against Speaker
+
+*2024-02-26 11:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-decides-to-bring-in-no-faith-motion-against-Speaker/108-277731) · `en`
+
+Colombo, Feb 26 (Daily Mirror) -  Opposition parties have decided to bring in a no confidence motion against Speaker Mahinda Yapa Abeywardena a short while ago.
+
+SJB MP Nalin Bandara Jayamaha who confirmed the move at a media briefing said the Opposition parties decided to bring in the no faith motion as the Speaker had violated Parliamentary procedures by neglecting instructions given by the Judiciary with regard to the Online Safety Bill.
+
+"The no faith motion will be handed over within the coming days," Bandara said.
+
+The decision on the no faith motion was made during a meeting of the Opposition parties today.
+
+◼️
+
+[Data](articles/c61db341.json)
+
+---
+
+### Another danger accident on Southern Express - Life is lost
 
 *2024-02-26 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193832) · `si`
 
-දක්ෂිණ අධිවේගී මාර්ගයේ කොට්ටාව සහ කහතුඩුව අතර කිලෝමීටර්  4 දශම 1 කණුව අසලදී අද (26) අලුයම බිහිසුණු අනතුරක් සිදුව තිබිණි.
+The Southern Expressway was terrible accident between Kottawa and Kahathuduwa.
 
-කුඩා ලොරි රථයක් ඉදිරියෙන් ගමන්ගත් ලොරියක ගැටීමෙන් අනතුර සිදුව තිබූ අතර, රෝහල්ගත කළ කුඩා ලොරි රථයේ රියදුරු ජීවිතක්ෂයට පත්ව තිබේ.
+The driver of the small lorry was killed and the hospital was killed and the hospital was killed.
 
-අනතුරින් තුවාල ලැබූ පුද්ගලයින් තිදෙනෙක් රෝහල්ගත කළ අතර ඒ අතර බරපතළ තත්ත්වයෙන් සිටි රියදුරු මෙලෙස මියගොස් ඇත.
+Three persons who were injured in the accident were hospitalized and the driver of the seriousness has died.
 
-පෑලියගොඩ මාළු වෙළෙඳ සංකීර්ණය වෙත මාළු මිලදී ගැනීම සඳහා රත්ගම සිට යමින් සිටි පුද්ගලයන් තිදෙනෙකු රැගත් ලොරියක් මෙලෙස හම්බන්තොට සිට කුරුණෑගල දක්වා සිමෙන්ති ප්‍රවාහනය කරමින් තිබූ ලොරියේ පිටුපස ගැටීමෙන් අනතුරට ලක්ව තිබිණි.
+A lorry from Hambantota from Rathgama to the Peliyagoda fish market was reported from Hambantota to Kurunegala.
 
-අනතුර සිදු වූ වහාම එම ස්ථානයට ළඟා වූ ගැලණිගම රථවාහන ඒකකයේ නිලධාරීන් සහ ගිනිනිවීමේ හා ජීවිත ගලවා ගැනීමේ ඒකකයේ පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් විනාඩි 20ක පමණක් මෙහෙයුමකින් අනතුරුව යාන්ත්‍රික උපකරණ භාවිතා කරමින් කුඩා ලොරිය තුළ සිරවී සිටි පුද්ගලයන් තිදෙනා දැඩි වෙහෙසක් දරා ලොරියෙන් පිටතට ගන්නා අයුරු ජංගම දුරකථනයක ද සටහන්ව තිබිණි.
+SME officers of the Traffic Unit and the Police Rescue Service Officers of the Galanigama Traffic Unit, which reach the scene, the three-minor employees of the rescue unit of the rescue unit of the rescue unit and the police consisted of mineral equipment after 20 minutes of operation is in a mobile phone.There were notes.
 
-කුඩා ලොරි රථයේ රියදුරුට නින්ද යෑම අනතුරට හේතුවන්නට ඇතැයි පොලීසිය සැක පළ කරයි.
+Police suspect that the driver of the small lorry is reduced to death.
+
+The little lorry was severely damaged, a resident of Rathgama, a 55 year old Kamal Zoysa.
+
+◼️
+
+[Data](articles/8f42a3d7.json)
+
+[Extended Data](ext_articles/8f42a3d7.ext.json)
+
+---
+
+### අනුරගෙන් සහතිකයක්
+
+*2024-02-26 11:19:54* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගෙන්-සහතිකයක්/11-408278) · `si`
+
+" අතීතය තුල රටෙහි සිදුවීම් සැලකීමේදී ජනතාව කනාමැදිරි එළියටත් බිය තත්ත්වයක් ඇති නිසා අපෙන් අහනව , අපි ඔබ විශ්වාස කරන්නේ කෙසේද කියා. අපි ඔබට එක සහතිකයක් දෙනව. ඔබ අපි කෙරෙහි තබන විශ්වාසය , අබමල් රේණුවකින්වත් හානිවීමට ඉඩ නොතබන බවට අපි සහතික වෙනවා"  යැයි ජාතික ජනබල වේගය නායක , පාර්ලිමේන්තු මන්ත්‍රී අනුර කුමාර දිසානායක මහතා ගම්පහදී සදහන් කළේය.
+
+ජාතික ජනබල වේගයේ  කාන්තා නියෝජනය දකිනවිට ඉදිරි ඡන්දයක් තියාවිද යන සැකය ඇතිවන  මුත් අධික කාන්තා සහභාගිත්වයක් දකිනවිට ඡන්දය නොතියා සිටීමට  බියවනු ඇති බවද  හෙතෙම පැවසීය.
+
+" ගැහැනු අපි එක මිටට මාලිමාවට " යන්න තේමා කරගනිමින්, ගම්පහ නගර සභා පිටියේ පැවති ජාතික ජනබල වේගය , ගම්පහ දිස්ත්‍රික් කාන්තා සමුළුව අමතමින් එසේ පැවසු අනුර දිසානායක මහතා මහතා තවදුරටත් අදහස් දක්වමින් මෙසේද කීය.
 
 ...
 
-[Data](articles/8f42a3d7.json)
+[Data](articles/f01a3f02.json)
+
+---
+
+### நான் தொடர்ந்தும்இனப்படுகொலையுடன் தொடர்புபட்டிருக்க விரும்பவில்லை - இஸ்ரேலிய தூதரகத்திற்கு வெளியே அமெரிக்க விமானப்படை வீரர் தீக்குளிக்க முயற்சி
+
+*2024-02-26 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177304) · `ta`
+
+காசா யுத்தத்திற்கு எதிர்ப்பு தெரிவிக்கும்வகையில் அமெரிக்க விமானப்படையை  சேர்ந்த ஒருவர் வோசிங்டனில் உள்ள இஸ்ரேலிய தூதரகத்திற்கு வெளியே தனக்குதானனே தீமூட்டிக்கொண்டார்  என  சர்வதேச ஊடகங்கள் செய்திவெளியிட்டுள்ளன.
+
+உடனடியாக தீயை அணைத்த அமெரிக்க இரகசிய சேவையை சேர்ந்தவர்கள் அந்த நபரை மருத்துவமனையில் அனுமதித்துள்ளனர்.
+
+தீக்குளிக்க முயற்சித்த நபர் தொடர்ந்தும் ஆபத்தான நிலையில் காணப்படுகின்றார் அவர் விமானப்படையை சேர்ந்தவர் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இராணுவசீருடையில் காணப்படும்  அந்த நான் தொடர்ந்தும்இனப்படுகொலையுடன் தொடர்புபட்டிருக்க விரும்பவில்லை என தெரிவிக்கும் இணையவீடியோவொன்று வெளியாகியுள்ளது.
+
+தன்மேல்எரிபொருளை ஊற்றி தனக்குதானே தீமூட்டிக்கொள்வதற்கு முன்னர் அந்த நபர் சுதந்திர பாலஸ்தீனம் என கோசமிட்டார் என டைம்ஸ் செய்தி வெளியிட்டுள்ளது.
+
+காசாவில் யுத்தம் ஆரம்பித்த பின்னர் வோசிங்டனில் உள்ள இஸ்ரேலிய தூதரகத்திற்கு முன்னால் தொடர்ச்சியாக ஆர்ப்பாட்டங்கள் இடம்பெறுகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/36cf3ef7.json)
+
+---
+
+### Kelaniya University Students’ Union president arrested
+
+*2024-02-26 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kelaniya-University-Students-Union-president-arrested/108-277729) · `en`
+
+BIA, Feb 26 (Daily Mirror) - Kelum Mudannayake, the president of the Kelaniya University Students' Union, has been taken into custody by the Public Complaints Division of the Criminal Investigation Department.
+
+Police said he was arrested in connection with a recent incident of ragging at the university.
+
+They said that Mudannayake had been avoiding the police and was intercepted while attempting to depart from the Katunayake Airport.
+
+He is scheduled to be produced before the Mahara Magistrate's Court.
+
+◼️
+
+[Data](articles/79e862c0.json)
+
+---
+
+### காணி உரிமைக்கு பதிவு செய்ய அவசரத் தொலைபேசி இலக்கம்
+
+*2024-02-26 11:08:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-உரிமைக்கு-பதிவு-செய்ய-அவசரத்-தொலைபேசி-இலக்கம்/175-333819) · `ta`
+
+“உறுமய” தேசிய வேலைத் திட்டத்தின் ஊடாக மக்கள் தமது காணியின் முழுமையான உரிமையை அனுபவிக்கும் வாய்ப்பை வழங்கும் நோக்கில் அதற்காக விண்ணப்பிப்பதற்கு அவசரத் தொலைபேசி இலக்கமொன்று அறிமுகப்படுத்தப்பட்டுள்ளது.
+
+தினமும் காலை 8.30 மணி முதல் இரவு 8.30 மணி வரை ஜனாதிபதி அலுவலகம், உறுமய தேசிய செயற்பாட்டு அலுவலகம், 1908 என்ற அவசரத் தொலைபேசி இலக்கம் மற்றும் 0114 354600/ 0114 354601 என்ற தொலைபேசி இலக்கத்துடன் தொடர்பு கொண்டு பொதுமக்கள் தமது கோரிக்கைகளைப் பதிவு செய்வதற்கான வசதிகள் செய்யப்பட்டுள்ளன.
+
+www.tinyurl.com/urumaya (டிஜிட்டல் விண்ணப்பப் படிவம்) படிவத்தைப் பூர்த்தி செய்தும் இதற்கான பதிவுகளை மேற்கொள்ள முடியும் என அறிவிக்கப்பட்டுள்ளது.
+
+1935 ஆம் ஆண்டின் 19 ஆம் இலக்க நில மேம்பாட்டுக் கட்டளைச் சட்டத்தின் மூலம் விவசாயிகள் மற்றும் குறைந்த வருமானம் பெறுபவர்களுக்கு நிபந்தனைகளுடன் கூடிய  அனுமதிப் பத்திரங்கள் / கொடுப்பனவுப் பத்திரங்கள் உள்ள அரசாங்கக் காணிகளை நிபந்தனைகளின்றி முழுமையான உரிமையை மக்களுக்கு வழங்குவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் 2024 வரவு - செலவுத் திட்டத்தில் முன்வைக்கப்பட்ட முன்மொழிவாகும்.
+
+...
+
+[Data](articles/3ecc1267.json)
+
+---
+
+### யாழ். வடமராட்சி கிழக்கு கடலில் சிக்கிய பாரிய சுறா
+
+*2024-02-26 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177301) · `ta`
+
+யாழ்ப்பாணம் வடமராட்சி கிழக்கு கடல் பகுதியில் பெரியளவிலான சுறா மீன் ஒன்று கடற்தொழிலாளரின் வலையில் சிக்கியுள்ளது.
+
+குறித்த சுறா சுமார் 3 ஆயிரத்து 700 கிலோ கிராம் என தெரிவிக்கப்படுகிறது.
+
+வடமராட்சி கிழக்கு உடுத்துறை பகுதியைச் சேர்ந்த கடற்தொழிலாளர் ஒருவரின் வலையில் சிக்கிய பெரியளவிலான சுறாவை கடுமையான போராட்டத்தின் மத்தியில், சக கடற்தொழிலாளர்களின் உதவியுடன் கரைக்கு கொண்டு வரப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/18086451.json)
 
 ---
 
@@ -115,6 +295,76 @@ The youth, identified as a resident of the Pitipana area, was immediately rushed
 [Data](articles/f877a68f.json)
 
 [Extended Data](ext_articles/f877a68f.ext.json)
+
+---
+
+### Philatelic Exhibition at Public Library
+
+*2024-02-26 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Philatelic-Exhibition-at-Public-Library/110-277677) · `en`
+
+An exhibition of vintage stamps and coins was held over the weekend at the Public Library in Colombo. Several stamps and other vintage articles were also exhibited and sold at this exhibition. Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/b8f7b02e.json)
+
+---
+
+### Composition of expert committee to be expanded
+
+*2024-02-26 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Composition-of-expert-committee-to-be-expanded/108-277728) · `en`
+
+Colombo, Feb 26 (Daily Mirror) -  In light of the gravity and complexity of the sequence of events surrounding the recent deaths at the dialysis unit of the Kurunegala Teaching Hospital, the Health Ministry is considering expanding the composition of the five-member committee tasked with investigating into the matter, the Daily Mirror learns.
+
+According to a top source, the initial investigations conducted at hospital level have failed to determine the actual cause of deaths prompting the hospital management to request the Health Ministry to conduct a through investigation.
+
+Hence, the Health Ministry appointed a five-member committee headed by Chief Epidemiologist Dr. Samitha Ginige.
+
+However, the source revealed that the composition of the committee may be expanded given the complexity of the scenario.
+
+Furthermore, sources are of the opinion that the incident may have occurred due to the entry of certain unidentified pathogens into the dialysis unit.
+
+...
+
+[Data](articles/b3f30708.json)
+
+---
+
+### Bangladesh court halts wild elephant adoption
+
+*2024-02-26 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-court-halts-wild-elephant-adoption/108-277727) · `en`
+
+Dhaka, Feb 26 (AFP) - A Bangladeshi court on Sunday barred the adoption of elephants from the wild, a move hailed by animal rights activists as a "landmark" order to help stop cruelty.
+
+Rights groups said the high court order suspending licences will stop the torture of captive Asian elephants in the name of training.
+
+"The high court today suspended all licences for the captive rearing of elephants," said Amit Das Gupta, deputy attorney general of the country.
+
+Bangladesh was once one of the major homes for Asian elephants.
+
+But poaching and habitat loss saw their number dwindle so much that they are now declared critically endangered in the South Asian country.
+
+The International Union for Conservation of Nature (IUCN) says there are nearly 100 captive Asian elephants in Bangladesh, nearly half the amount of elephants left in the wild in the country.
+
+As logging and farming encroach on elephant territory, young animals are captured in the country's northern and southeastern hills.
+
+...
+
+[Data](articles/00565419.json)
+
+---
+
+### மட்டு. கொக்கட்டிச்சோலையில் சுற்றுலா நீதிமன்றம் அமைப்பதற்கு நீதி அமைச்சர் அனுமதி
+
+*2024-02-26 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177296) · `ta`
+
+கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சரும், மாவட்ட அபிவிருத்திக் குழு தலைவருமான சிவநேசதுறை சந்திரகாந்தனின் அழைப்பின் பேரில் மட்டக்களப்பு மாவட்டத்திற்கு இரண்டு நாள் விஜயத்தினை மேற்கொண்டுள்ள நீதி அமைச்சர் கலாநிதி விஜயதாச ராஜபக்ஸ மட்டக்களப்பு மாவட்டத்தின் நீதித்துறை சார்ந்த பல்வேறு கலந்துரையாடல்கள் மற்றும் கள விஷயங்களை மேற்கொண்டுள்ளார்.
+
+அந்த வகையில் மண்முனை தென்மேற்கு பிரதேசத்துக்குட்பட்ட கொக்கட்டிச்சோலைக்கான கள விஜயம் மேற்கொண்டிருந்த நீதி அமைச்சர் யுத்த காலத்திற்கு முன்னர் கொக்கட்டிச்சோலை"கிராமக்கோடு" இயங்கி வந்த இடத்தில் புதிய சுற்றுலா நீதிமன்றம் அமைப்பதற்கான அனுமதியை வழங்கியதோடு அவற்றுக்கான முனைப்பான நடவடிக்கைகளை முன்னெடுக்குமாறு சம்பந்தப்பட்ட அதிகாரிகளுக்கு பணிப்புரை விடுத்திருந்தார்.
+
+...
+
+[Data](articles/d6e2796b.json)
 
 ---
 
@@ -157,6 +407,46 @@ The American intelligence officers near the embassy were hospitalized.
 [Data](articles/95525233.json)
 
 [Extended Data](ext_articles/95525233.ext.json)
+
+---
+
+### කොරියානු විභාගයට ප්‍රවේශපත්‍ර නිකුත් කරයි
+
+*2024-02-26 10:26:06* · [`adalk`](https://www.ada.lk/breaking_news/කොරියානු-විභාගයට-ප්‍රවේශපත්‍ර-නිකුත්-කරයි/11-408275) · `si`
+
+2024 වර්ෂයට අදාලව පැවැත්විමට නියමිත කොරියානු භාෂා පරීක්ෂණය ප්‍රෙව්ශ පත්‍ර නිකුත් කිරිම 2024 පෙබරවාරි 26 සිට 29 දක්වා මාර්ග ගත ක්‍රමය ඔස්සේ පමණක් සිදුකරන බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කරයි.
+
+කාර්යාංශයේ නිල වෙබ් අඩවියට (www.slbfe.lk) පිවිස Registration for Point System Examination -2024 (Manufacturing, Fishery, Construction, Shipbuilding, Service 1 & Service 2)‍ වෙත පිවිස අයදුම් කරුවන් සිය තොරතුරු ඇතුළත් කළ යුතුය. මෙම සබැදිය විවෘත වන්නේ 2024.2.26 සිට වන අතර එය 29 දක්වා විවෘතව පවති. ඉන්පසුව එම සබැදිය වසා දැමෙන අතර අයදුම් කිරිමටද නොහැකි වේ.
+
+නිෂ්පොදන, ධීවර, නැව් කර්මාන්තය, ඉදකිරීම්, යන ප්‍රධාන ක්ෂේත්‍ර යටතේ  ‍සේවා1 සහ සේවා 2 යටතේ අයදුම් කළ යුතු වේ. විභාග ප්‍රවේශ පත්‍ර ලබාගැනීමට පහත සුදුසුකම් සපුරා තිබිය යුතුය.
+
+...
+
+[Data](articles/47b5e665.json)
+
+---
+
+### මියගිය සැමියාගේ සිරුර දින තුනක් නිවසේ තියාගෙන සිටිය බිරිඳක්
+
+*2024-02-26 10:20:49* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-සැමියාගේ-සිරුර-දින-තුනක්-නිවසේ-තියාගෙන-සිටිය-බිරිඳක්/11-408274) · `si`
+
+මියගිය සැමියාගේ මළසිරුර දින තුනක් පමණ නිවස තුල තබාගෙන සුරතලයට ඇතිකරන සුනඛයා සමග සිටී කාන්තාවක දොරවල් කඩා ඉවතට ගත්බව පානදුර දකුණ පොලිසිය පවසයි.
+
+පානදුර ඇටඹගොඩවත්ත ජනජය නිවාස සංකීර්ණයේ අඹුසැමි යුවලක් පමණක් පදිංචිව සිටින  නිවසකින් අධික දුගඳක් හමන බවට ඊයේ (25) රාත්‍රි පානදුර දකුණ පොලිසියට ලද තොරතුරක් මත පොලිස් නිළධාරින් පිරිසක් එහි ගොස් තිබේ.
+
+පොලිස් කණ්ඩායම් එහි යනවිට මියගොස් ඇති පුද්ගලයා ගේ බිරිද  නිවසේ දොරගුලු වසාගෙන සිට ඇති බවත් ඒවා කඩා නිවසට ඇතුළුවී පරීක්ෂා කිරීමේදී ඇදක් මත මුනින් අතට තිබූ මළසිරුර සොයාගත් බවත් පොලිසිය කීය.
+
+පානදුර ඇටඹගොඩවත්ත, ජනජය නිවාස සංකීර්ණයේ පදිංචිව සිටී අත්තනායක මුදියන්සේලාගේ ජගත් බණ්ඩාර නමැති (52) හැවිරිදි  පුද්ගලයකු මෙලෙස මියගොස් ඇති බව පොලිසිය කීය.
+
+මියගොස් ඇති පුද්ගලයා ගේ බිරිඳ කිසියම් මානසික රෝග තත්ත්වයකින් පෙලෙන බවට සැක පලකරන උසස් පොලිස් නිළධාරීයෙක් කීය.
+
+පානදුර කොට්ඨාස අපරාධ ස්ථාන පරීක්ෂණාගාර නිළධාරීන්ද එදින රාත්‍රි යේම  පරීක්ෂණ සිදුකරන ලදී.
+
+මෘතදේහය පශ්චාත් මරණ පරීක්ෂණය සදහා පානදුර මූලික රෝහලට රැගෙන යනු ලැබීය.
+
+...
+
+[Data](articles/49c9ed21.json)
 
 ---
 
@@ -256,6 +546,8 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.17 perc
 
 [Data](articles/12255f91.json)
 
+[Extended Data](ext_articles/12255f91.ext.json)
+
 ---
 
 ### Death
@@ -295,6 +587,22 @@ Mohamed Rilvan, who was injured in the shooting, has been admitted to the Colomb
 [Data](articles/dfa453ca.json)
 
 [Extended Data](ext_articles/dfa453ca.ext.json)
+
+---
+
+### රුසියානුවන්ට හා යුක්රේනියානුවන්ට දින 14කින් රටින් පිටවෙන්නැයි කීම ගැන ජනපති නියමයෙන් විමර්ශනයක්
+
+*2024-02-26 09:20:49* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානුවන්ට-හා-යුක්රේනියානුවන්ට-දින-14කින්-රටින්-පිටවෙන්නැයි-කීම-ගැන-ජනපති-නියමයෙන්-විමර්ශනයක්/11-408273) · `si`
+
+දීර්ඝ කාලීනව ශ්‍රී ලංකාවේ රැදී සිටින රුසියානු හා යුක්රේන ජාතිකයන්ට දින 14ක කාලයක් තුළදී රටින් පිටවන ලෙස දැනුම් දෙන්නැයි ආගමන විගමන පාලක විසින් සංචාරක අමාත්‍යාංශයේ ලේකම්වරයා වෙත මීට දින කිහිපයකට පෙරාතුව ලිඛිතව දන්නා තිබුණි.
+
+කෙසේ වෙතත් නිසි කැබිනට් අවසරයකින් තොරව මෙවැනි තීරණයක් ගැනීම සම්බන්ධයෙන් විමර්ශනයක් පවත්වන ලෙස ජනපති රනල් වික්‍රමසිංහ මහතා මේ වන විට අදාළ අංශ වෙත උපදෙස් දී ඇති බව ජනපති මාධ්‍ය අංශය පවසයි.
+
+ශ්‍රී ලංකා රජය මේ සම්බන්ධයෙන් තීරණයක් ගෙන නොමැති බවත් රුසියනු හා යුක්රේන සංචාරකයන්ට ලබාදී ඇති වීසා දිගු කිරීම අවලංගු කිරීමට මේ දක්වා තීරණයක් ගෙන නොමැති බවත් ජනපති මාධ්‍ය අංශය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/93ca414d.json)
 
 ---
 
@@ -508,6 +816,8 @@ The practice of transferring billions to defined-benefit pension staff funds whe
 
 [Data](articles/e4e96f25.json)
 
+[Extended Data](ext_articles/e4e96f25.ext.json)
+
 ---
 
 ### Australian citizenship to Dilshan
@@ -629,6 +939,20 @@ This request requested an opportunity to inform MPs the reasons for changing the
 [Data](articles/116102d1.json)
 
 [Extended Data](ext_articles/116102d1.ext.json)
+
+---
+
+### Long term Ukraine, Russian tourists asked to leave amidst rising concerns
+
+*2024-02-26 07:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Long-term-Ukraine-Russian-tourists-asked-to-leave-amidst-rising-concerns/155-277703) · `en`
+
+In an urgent move to prevent any diplomatic tension between Russia and Sri Lanka, President Ranil Wickremesinghe yesterday ordered an immediate investigation into the circular that had been released by the Head of the Immigration and Emigration Department to the Tourism Ministry Secretary stating that Russian and Ukrainian tourists living long term in Sri Lanka had to leave within 14 days.
+
+In a hurriedly released statement, the President’s Media Division said that the President had ordered an investigation into the circular that had been released without prior cabinet approval and added that the government had not officially decided to revoke the visa extensions previously granted to the tourists.
+
+...
+
+[Data](articles/67b9cbb9.json)
 
 ---
 
@@ -1653,383 +1977,5 @@ Two persons from a motorbike have come to a chicken shooting near a chicken shoo
 [Data](articles/cc491689.json)
 
 [Extended Data](ext_articles/cc491689.ext.json)
-
----
-
-### Hunger strike launched in TN against arrest of fishermen by Sri Lankan Navy
-
-*2024-02-25 19:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97526/hunger-strike-launched-in-tn-against-arrest-of-fishermen-by-sri-lankan-navy) · `en`
-
-Fishermen of Thangachimadam and Rameswaram areas in Tamil Nadu, along with their families, started a relay hunger on Saturday (24 Feb.) against the arrests of Tamil Nadu fishermen by the Sri Lankan Navy.
-
-“Sri Lankan government has jailed five of our fishermen. They have been sentenced in between six months to two years. We have not ventured into the sea for the last eight days now,” P Jesu Raja, a fishermen leader, told IANS.
-
-He said that the hunger strike will continue till all the fishermen are released unconditionally and an assurance is given that the Sri Lankan government will not arrest fishermen anymore.
-
-The fishermen association leaders said that they will continue with the strike even if they die due to starvation. Jesu Raja appealed to the Central government to immediately intervene to get the fishermen released along with their mechanised boats.
-
-◼️
-
-[Data](articles/6a3c3b93.json)
-
-[Extended Data](ext_articles/6a3c3b93.ext.json)
-
----
-
-### Ranil contests as common candidate in public symbol
-
-*2024-02-25 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177278) · `ta`
-
-President Ranil Wickremesinghe will definitely contest the next presidential election. But the president will not contest the United National Party. Ravi Karunanayake, a UNP chief and former finance minister, said that he would field the party as a party -free general candidate.
-
-He responded to various answers, including contemporary political affairs, presidential election, economic recovery, political settlement for ethnic problem, and the UNP lost the 2020 parliamentary elections.
-
-He also pointed out that Ranil would join all parties in the next presidential election and make a public symbol.
-
-The presidential election is scheduled for the end of this year. Arrangements are being made. Political parties are also preparing for the presidential election. It is against this backdrop that Ravi Karunanayake, the main representative of the party, has publicly announced that President Ranil Wickremesinghe will contest the common symbol as a common candidate.
-
-...
-
-[Data](articles/a293924e.json)
-
-[Extended Data](ext_articles/a293924e.ext.json)
-
----
-
-### Civilians allowed to visit seven Hindu temples in Jaffna High Security Zone
-
-*2024-02-25 19:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Civilians-allowed-to-visit-seven-Hindu-temples-in-Jaffna-High-Security-Zone/108-277676) · `en`
-
-Jaffna, Feb 25 (Daily Mirror) - The Sri Lanka Army has announced the granting of permission for the public to visit seven Hindu temples (Kovils) situated within the high-security zone under the jurisdiction of the Security Forces Headquarters in Jaffna.
-
-Under this decision, civilians will be permitted to participate in weekly poojas and other associated rituals at the Kaduwan Muttumari Amman Kovil, Vasavilan Manampirai Kovil, Visavilan Shivam Kovil, Vasavilan Naga Kovil, Palali Raja Rajeswari Kovil, Palali Naga Thampilan Kovil and Palali Shaktiveli Murugan Kovil.
-
-The Army said that this decision was made in response to numerous requests from temple trustees and civil organizations.
-
-Previously, permissions were limited to monthly and special poojas at these kovil premises.
-
-◼️
-
-[Data](articles/27ab93fa.json)
-
-[Extended Data](ext_articles/27ab93fa.ext.json)
-
----
-
-### A boyfriend and little mother arrested for abducting a girl
-
-*2024-02-25 19:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/சிறுமியை-கடத்திய-காதலனும்-சிறிய-தாயும்-கைது/73-333790) · `ta`
-
-Kokuvil police said that the 18 -year -old youth and her little mother, who were abducted by a 15 -year -old girl in the Batticaloa - Kokuvil police division, have been arrested in the wake of last night and handed over the girl to the hospital.
-
-When the girl in the police division went to Padal on the 7th, her relatives lodged a complaint with the police after she did not return home.
-
-Investigations carried out by the police, who found that the girl had been abducted at the house of her little mother in the Vaharai area, was arrested by the police and rescued the girl and rescued the girl.
-
-The rescued girl was admitted to the hospital and the two arrested were produced before the Batticaloa Magistrate's Court on Sunday (25).. Remble
-
-◼️
-
-[Data](articles/eb4e63a5.json)
-
-[Extended Data](ext_articles/eb4e63a5.ext.json)
-
----
-
-### Russian Embassy responds to controversial ‘white only’ party
-
-*2024-02-25 19:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-Embassy-responds-to-controversial-white-only-party/108-277675) · `en`
-
-The Russian Embassy in Colombo expressed serious concern over the recent controversial night party planned in Unawatuna on February 24, 2024, which was subsequently called off following public outcry.
-
-In a statement, the Embassy said the event, which was organized by entrepreneurs in Unawatuna, was to be held with a "dress-code: white."
-
-“While unconfirmed reports suggest that the main promoter and the owners of the bar agreeing to host the party are Russian citizens, it is essential to clarify that the event's cancellation was due to the ambiguous conditions of entry and the resulting confusion among the public,” it stated.
-
-“The organizers have presented their apologies, acknowledging that there was no intention to cause harm or offense to anyone,” the statement added.
-
-The Russian Embassy underscored Russia's firm condemnation of all forms of racial discrimination and nationalism. The Embassy reaffirms its commitment to combatting such atrocities.
-
-...
-
-[Data](articles/7943233d.json)
-
-[Extended Data](ext_articles/7943233d.ext.json)
-
----
-
-### Navigating The Economic Reawakening & Sustainable Growth
-
-*2024-02-25 19:28:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/navigating-the-economic-reawakening-sustainable-growth/) · `en`
-
-By any standard, Sri Lanka is recovering from economic bankruptcy today, though chief economic policymakers seem to be disputing the claim of bankruptcy.i In the case of a private venture, bankruptcy means inability to honour financial obligations to outsiders due to its financial net worth becoming negative. By the same token, the bankruptcy of a country means that it is not able to honour its debt obligations to foreign creditors or a given segment of foreign creditors.
-
-In April 2022, Sri Lanka announced that it will not honour the debt servicing obligations – that is, repayment of the principal and payment of interest on the debt when they become due – in the case of two selected foreign creditors, commercial and bilateral creditors. Since then, several policy measures have been taken by Sri Lankan authorities to get out of the economic crisis and place the country on a sustainable growth path.
-
-...
-
-[Data](articles/0028eb3a.json)
-
-[Extended Data](ext_articles/0028eb3a.ext.json)
-
----
-
-### Happy news of the president for students
-
-*2024-02-25 19:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-ஜனாதிபதியின்-மகிழ்ச்சியான-செய்தி/175-333789) · `ta`
-
-The President's Fund is planning to implement a “Presidential Education Scholarship 2024/2025” program to promote the educational activities of school students under the direction of President Ranil Wickremesinghe.
-
-Accordingly, the President's Fund has allocated 3600 million rupees for this complete project, with 10,126 schools in Sri Lanka, including one lakh (100,000) students who study in Grade 01 to Grade 11.
-
-Considering the country's current economic situation, students in low and middle -income families are facing some relief to the difficulties of school equipment, training books and transport facilities.
-
-President Ranil Wickremesinghe's expectation is to provide continuous school education to the students of the country by selecting talented students and educating the children under the lowest facilities in each school and investing in the country's human resources through it.
-
-...
-
-[Data](articles/e8ad0b95.json)
-
-[Extended Data](ext_articles/e8ad0b95.ext.json)
-
----
-
-### Only the public can provide solutions to the dry weather!
-
-*2024-02-25 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/177277) · `ta`
-
-It is pointed out that the public can only provide solutions to the dry climate caused by climate change.
-
-Dr. Deepal Perera, a children's welfare expert at the Ridgeway Children's Hospital, said that if one plants at least one tree per year, such conditions can be avoided in the future.
-
-◼️
-
-[Data](articles/fba36a50.json)
-
-[Extended Data](ext_articles/fba36a50.ext.json)
-
----
-
-### The story that Jayasuriya was laughing about the controversial skills
-
-*2024-02-25 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193816) · `si`
-
-Sri Lanka Cricketer Training Consultant, Veteran cricketer Sanath Jayasuriya says that the decision of the judge in the final Twenty20 match with Afghanistan.
-
-He points out that SLC will take action in the future of the judge.
-
-Speaking to the media in Galle, Sanath Jayasuriya expressed these views.
-
-◼️
-
-[Data](articles/b0e580d9.json)
-
-[Extended Data](ext_articles/b0e580d9.ext.json)
-
----
-
-### Son died of heart attack
-
-*2024-02-25 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177276) · `ta`
-
-Her son, who was very disturbed by the mother's death, died of a sudden heart attack in the Hinduva area in the Hindu area.
-
-The mother of seven -year -old children, aged 71, who lived in Hindu, Acadgoda and Kaldaramulla, died.
-
-The father of a 47 -year -old child is the father of a 47 -year -old child, and his mother has been shocked and saddened by the death of his mother on the 22nd.
-
-◼️
-
-[Data](articles/9dc5443e.json)
-
-[Extended Data](ext_articles/9dc5443e.ext.json)
-
----
-
-### Gaza truce talks resume in Doha - Egyptian media
-
-*2024-02-25 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97525/gaza-truce-talks-resume-in-doha-egyptian-media) · `en`
-
-Negotiations for a ceasefire in Gaza have resumed in Doha between “experts from Egypt, Qatar, the United States and Israel”, as well as Hamas representatives, state-linked Egyptian media reported Sunday.
-
-An Israeli delegation led by Mossad chief David Barnea was in Paris on Friday discussing possibilities of a deal to ensure a fresh ceasefire and the release of hostages held by Hamas in Gaza in exchange for Palestinian prisoners held by Israel.
-
-Israel’s war cabinet agreed on Saturday to send a delegation to Qatar to continue the talks, according to Israeli media reports.
-
-The talks are a “continuation of what was discussed in Paris” and “will be followed by meetings in Cairo,” reported Al-Qahera News, which is linked to Egyptian state intelligence services.
-
-During the unprecedented Hamas attack on Israel on October 7, Palestinian militants took some 250 hostages, 130 of whom remain in Gaza, including 30 presumed dead, according to Israel.
-
-...
-
-[Data](articles/b3c9e9a1.json)
-
-[Extended Data](ext_articles/b3c9e9a1.ext.json)
-
----
-
-### New news about Eiffel Tower
-
-*2024-02-25 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193815) · `si`
-
-After the six days employee strike, the world's capital city has been reopened for visitors in the capital city of Paris.
-
-Workers in the Eiffel Tower of Eiffel Tower last Monday Monday had launched a strike on Monday last Monday Monday.
-
-According to foreign media reports, it has been reopened from today after the tower has been opened today.
-
-This is the second time Eiffel tower has been closed for a short period of 3 months due to employee strike.
-
-◼️
-
-[Data](articles/10143b85.json)
-
-[Extended Data](ext_articles/10143b85.ext.json)
-
----
-
-### Moki dives to take blessings
-
-*2024-02-25 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193814) · `si`
-
-Indian Prime Minister Narendra Modi had participated in the Anchord Kovil of the Arab Sea.
-
-A famous ancient duel is a fertile town, which was a fertile city centuries ago.
-
-The Indian media has been excavated by archaeologists in the ancient binary temple and it is being seen underwater.
-
-According to Indian media reports, the Vidyalaya spread throughout the prime minor to the prime minor.
-
-According to Indian media reports, Prime Minister Modi and the town of the ancient temple have been bowed down as a symbolic tribute to the Krishna.
-
-The Prime Minister has also given his X account note on his experience.
-
-He has said that the ancient Both Kindara Kovil of water was a divine experience.
-
-Gujarat, 2.3 km of the Hall City of the Hall City and Both Actors, opened the 2.3 km of Sudarshan Petha Bridge opened by Prime Minister Narendra Modi.
-
-The Prime Minister had led to these religious observances underwater.
-
-The bridge has been constructed to facilitate the famous binary binocula, built for Krish.
-
-◼️
-
-[Data](articles/4df4bc8b.json)
-
-[Extended Data](ext_articles/4df4bc8b.ext.json)
-
----
-
-### Sri Lanka’s central bank offers explain salary hike to parliament
-
-*2024-02-25 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-offers-explain-salary-hike-to-parliament-152060/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank, which has gained independence through monetary law has offered to explain a recent steep salary hikes to its staff, to the parliament.
-
-According to reports, which have not yet been denied, office assistants have been given a salary hike of 47,000 rupees to 199,000 rupees on average, management assistance a 94,000 average to 306,000, a staff officer 184,000 to 514,000.
-
-Heads of Departments were given 430,000 hike to 1,030,000 rupees, Assistant Governors by 522,000 to 1,238 million and Deputy Governors by 712,000 to 1.68 million.
-
-The central bank said in a statement the increases were given according to a three-year collective agreement.
-
-The central bank’s Governor has made a request to the Finance Minister to explain its position following a decision by its governing board.
-
-“CBSL will explain its position upon being offered the requested opportunity or on receipt of a request for information,” the central bank said in a statement.
-
-...
-
-[Data](articles/fd1caca6.json)
-
-[Extended Data](ext_articles/fd1caca6.ext.json)
-
----
-
-### The salary was increased with the approval of the Board of Executive;Ready to clarify to MPs - Central Bank
-
-*2024-02-25 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177269) · `ta`
-
-The Central Bank said the salary increase for its employees was based on the approval of the Central Bank of Sri Lanka and the agreement with the trade unions.
-
-The Central Bank said it was ready to explain to MPs who have made allegations of salary increases.
-
-The Central Bank said in a statement stating that several parliamentary sessions of the Central Bank employees of the Central Bank of Sri Lanka were on the lookout for the comments made by several MPs in the last parliamentary session.
-
-At the same time, the report also pointed out that the Central Bank Governor had sent a letter to the President, who serves as the Finance Minister, on the 22nd of last month, in response to the instructions of the Executive Council to seek a written source.
-
-The Central Bank has stated that the Central Bank is ready to explain to MPs through the appropriate parliamentary committee after that time.
-
-◼️
-
-[Data](articles/66548902.json)
-
-[Extended Data](ext_articles/66548902.ext.json)
-
----
-
-### 70 km traveling without driver
-
-*2024-02-25 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193813) · `si`
-
-Foreign media reports, protesting a terrible train accident.
-
-From Panjab to Jammu from Panjab, Jammu has been running without its driver.
-
-The train stopped near the rural railway station, which was near the rural railway station, which had gone to brake to brake at the time.
-
-The train continues to move forward without the driver because it was a slope.
-
-Foreign media reports that it had been route nearly 100 kilometers per hour.
-
-However, the authorities have been able to stop the train that train the train rose about 70 kilometers.
-
-How the Railway Running Upper Faster With Social Media The circumstances have a strong conversation.
-
-◼️
-
-[Data](articles/44e64866.json)
-
-[Extended Data](ext_articles/44e64866.ext.json)
-
----
-
-### ‘Presidential Scholarships’ for 100,000 school students annually
-
-*2024-02-25 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97524/presidential-scholarships-for-100000-school-students-annually) · `en`
-
-In an effort to support the education of Sri Lankan children, President Ranil Wickremesinghe introduced the “Presidential Academic Scholarship Program 2024/2025,” the President’s Media Division reported.
-
-This special scholarship initiative, launched through the President’s Fund, aims to provide financial assistance to 100,000 students from Grade 01 to Grade 11 across all 10,126 schools in the country, the statement said.
-
-The program is designed to annually award scholarships to one hundred thousand (100,000) students spanning from Grade 01 to Grade 11, covering all 10,126 schools in Sri Lanka while a total allocation of Rs. 3,600 million has been designated from the President’s Fund to sustain this initiative.
-
-...
-
-[Data](articles/de19d18a.json)
-
-[Extended Data](ext_articles/de19d18a.ext.json)
-
----
-
-### Woman dies in a terrible accident
-
-*2024-02-25 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193812) · `si`
-
-A woman was killed in an accident in the Tangalle Matara main road.
-
-The accident had occurred when a three-wheeler and tipper collided.
-
-The deceased has been identified as a 30 year old resident of the Kotagoda area.
-
-Five persons in the three-wheeler had traveled at the time of the accident.
-
-The driver of a 33-year-old three-year-old three-year-old three-year-old three-year-old boy, a 14-year-old girl and a small infant have been admitted to the Matara Hospital.
-
-Infantry, hospital sources said that the infant's condition was serious.
-
-◼️
-
-[Data](articles/bca9187a.json)
-
-[Extended Data](ext_articles/bca9187a.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 01:33:24**
+As of **2024-02-27 01:50:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,451 (100.0%) of 9,454 articles have been extended.
+9,454 (100.0%) of 9,454 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Opposition parties under the leadership of the Samagi Jana Balawegaya (SJB) yest
 
 [Data](articles/c7af7575.json)
 
+[Extended Data](ext_articles/c7af7575.ext.json)
+
 ---
 
 ### Deshabandu Tennekoon appointed as 36th IGP
@@ -70,6 +72,8 @@ Wickramaratne was forced to remain in service until mid-November, due to the ina
 
 [Data](articles/066d5f52.json)
 
+[Extended Data](ext_articles/066d5f52.ext.json)
+
 ---
 
 ### Premdasa claims Deshabandu appointed sans CC approval
@@ -87,6 +91,8 @@ Premadasa said that during the Constitutional Council’s deliberations, four vo
 ...
 
 [Data](articles/5b9b2f18.json)
+
+[Extended Data](ext_articles/5b9b2f18.ext.json)
 
 ---
 

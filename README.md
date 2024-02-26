@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 16:47:43**
+As of **2024-02-26 17:02:30**
 
 ## Newspaper Stats
 
-*Scraped **9,365** Articles*
+*Scraped **9,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 492
 islandlk | 495
-adalk | 789
-adaderanalk | 1,129
+adalk | 791
+adaderanalk | 1,130
 tamilmirrorlk | 1,152
 virakesarilk | 1,273
 dailymirrorlk | 1,410
@@ -26,11 +26,43 @@ adaderanasinhalalk | 1,420
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,365 (100.0%) of 9,365 articles have been extended.
+9,365 (100.0%) of 9,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### ලංකාවේ ඉන්ධන වෙළඳාමට තවත්  සමාගමක්
+
+*2024-02-26 16:21:45* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ඉන්ධන-වෙළඳාමට-තවත්--සමාගමක්/11-408286) · `si`
+
+ඉන්ධන වෙළෙඳපොළ තරගකාරීත්වය වැඩිකරමින් තවත් විදේශීය සමාගමක් වන ඔස්ට්‍රේලියාවේ "United Petroleum "ශ්‍රී ලංකාවේ වෙළෙඳපොළට අවතීර්ණ වී තිබේ. එම සමාගම සහ විදුලිබල සහ බලශක්ති අමාත්‍යංශය අතර ගිවිසුම පසුගිය 22 වනදා අත්සන් කර බව සඳහන් වේ.
+
+දැනට මෙරට ක්‍රියාත්මක වන ඉන්ධන පිරවුම්හල් 150ක් එම සමාගම ට පැවරීමට නියමිත අතර තවත් ඉන්ධන පිරවුම්හල් 50ක් ඔවුන් විසින් ස්ථාපනය කිරීමට නියමිතව ඇත. ශ්‍රී ලංකාව තුළ මෙහෙයුම් කටයුතු සිදුකිරීම සඳහා ඔවුන් විසින් "United Petroleum Lanka LTD" නමින් සමාගමක් ලියාපදිංචි කර තිබේ.
+
+◼️
+
+[Data](articles/462ef5a4.json)
+
+---
+
+### 71% of official telephone lines of state institutions not functioning properly – survey
+
+*2024-02-26 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97543/71-of-official-telephone-lines-of-state-institutions-not-functioning-properly-survey-) · `en`
+
+A survey conducted by the University of Peradeniya has revealed that 71% of the official telephone lines assigned to state institutions in the country are not functioning properly.
+
+The relevant survey was conducted by a group of students from the University’s Department of Economics and Statistics, under the guidance of Prof. Wasantha Athukorala.
+
+Accordingly, Prof. Athukorala revealed that as per the survey, only 29% of the official telephone lines introduced for the public to contact state institutions operate properly, while 49% of these lines do not operate at all and 22%, albeit being in operation, are not answered by anyone.
+
+The survey pool included the official telephone lines assigned to Grama Niladhari officers, Samurdhi officers and development officers from Divisional Secretariats across the island.
+
+...
+
+[Data](articles/76615d1f.json)
+
+---
 
 ### Big change in crude oil
 
@@ -489,6 +521,28 @@ It has been reported that the United Nations Petroleum Lanka Limited has been re
 [Data](articles/23a27ee8.json)
 
 [Extended Data](ext_articles/23a27ee8.ext.json)
+
+---
+
+### අයිස් සමග කොස්තාපල් අල්ලයි
+
+*2024-02-26 13:37:00* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සමග-කොස්තාපල්-අල්ලයි/11-408282) · `si`
+
+අනුරාධපුර මූලස්ථාන පොලිසියට අනුයුක්තව  පරිගණක පණිවිඩ ක්‍රියාකරුවකු ලෙස රාජකාරී කල කොස්තාපල්වරයෙකු අයිස් මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් බව අනුරාධපුර පෝයස්ථාන පොලිසිය පවසයි
+
+මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ මාවනැල්ල ප්‍රදේශයේ පදිංචිව සිට දැනට මිහින්තලය රුවන්ගම ප්‍රදේශයේ පදිංචිව සිටින 30වන වියේ පසුවන කොස්තාපල්වරයෙකි.
+
+මත්ද්‍රව්‍ය පානයට තදින් ඇබ්බැහිව සිටින  අනුරාධපුර නුවර පාරේ පදිංචි 23 හැවිරිදි සැකකරුවෙකු අත්අඩංගුවට ගෙන සිදු කල ප්‍රශ්න කිරීම් වලදී සැකකාර පොලිස් කොස්තාපල්වරයා  අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+සැකකාර කොස්තාපල්වරයා අත්අඩංගුවට පත්වන අවස්ථාවේදී ඔහු සන්තකයේ තිබී, අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 190ක ප්‍රමාණයක් තිබී හමුවූ බවද පොලිසිය සඳහන් කළේය.
+
+සැකකරුට මෙම අයිස් මත්ද්‍රව්‍ය ලැබුණු ආකාරය සහ කාලෙක සිට වෙළඳාමක් ලෙස මෙය සිදු කළේද යන්න දැන ගැනීම සඳහා වැඩි දුර විමර්ශන ක්‍රියාත්මක බවද පොලිසිය කියයි.
+
+සැකකරු අද (26 දා) අනුරාධපුර   මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට තිබුණි.
+
+◼️
+
+[Data](articles/0f2f7c3d.json)
 
 ---
 
@@ -1987,65 +2041,5 @@ The two drug trafficking in Sri Lanka were also taken into custody at the Madaga
 [Data](articles/236b6478.json)
 
 [Extended Data](ext_articles/236b6478.ext.json)
-
----
-
-### A change in the weather
-
-*2024-02-26 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193821) · `si`
-
-The Department of Meteorology says that the dry weather in the Eastern and Uva provinces will be expected today.
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces or in the evening or night in the Kandy, Galle and Matara districts.
-
-From time to time in the East, East, Southern, Southern, Uva and Eastern Provinces, North, North, Southern, Uva and Eastern Provinces.. (30-40) Strong winds can occur.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/f93a1881.json)
-
-[Extended Data](ext_articles/f93a1881.ext.json)
-
----
-
-### Modi ‛Scuba Diving
-
-*2024-02-26 04:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-ஸ்கூபா-டைவிங்/175-333808) · `ta`
-
-Prime Minister Modi is happy to have been worshiped in Dwarka, who is said to have drowned in the sea, saying, "My many years of wish have come true."
-
-Prime Minister Narendra Modi yesterday laid the foundation stone for several development projects worth Rs 4150 crore in Dwarka, Gujarat.
-
-Earlier, Prime Minister Modi, who wanted to go to Dwarka, allegedly drowned in the sea, was traveling in the boat with the help of scuba diving soldiers yesterday.
-
-God Krishna, who is believed to be the creator of Dwarka, is a favorite of the peacock.. He was safe with other scuba diving players.
-
-Prime Minister Modi, who went into the ground floor of the deep sea, made a special pooja on the ground where he carried. Prime Minister Modi came out of the sea afterwards touched the ground. Related photos and videos are currently being released on websites and spreading rapidly. (A)
-
-◼️
-
-[Data](articles/136b0068.json)
-
-[Extended Data](ext_articles/136b0068.ext.json)
-
----
-
-### Notification on election expenses
-
-*2024-02-26 04:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவுகள்-குறித்து-அறிவிப்பு/175-333807) · `ta`
-
-The National Election Commission has decided to announce to political parties regarding election expenses regulatory law.
-
-The National Election Commission Chairman RMAL said that the awareness campaign will be held on the 27th and March 6th of March.. Ratnayake said.
-
-He also said that under the Election Expenditure Regulatory Act, the money spent on the election should be limited.. (A)
-
-◼️
-
-[Data](articles/1d7b1383.json)
-
-[Extended Data](ext_articles/1d7b1383.ext.json)
 
 ---

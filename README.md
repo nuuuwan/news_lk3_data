@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 19:17:50**
+As of **2024-02-26 19:33:11**
 
 ## Newspaper Stats
 
-*Scraped **9,391** Articles*
+*Scraped **9,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 469
 dailyftlk | 492
 islandlk | 495
 adalk | 793
-adaderanalk | 1,135
+adaderanalk | 1,136
 tamilmirrorlk | 1,153
 virakesarilk | 1,279
 dailymirrorlk | 1,414
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,425
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,388 (100.0%) of 9,391 articles have been extended.
+9,391 (100.0%) of 9,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Deshabandu Tennakoon appointed IGP
+
+*2024-02-26 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97549/deshabandu-tennakoon-appointed-igp) · `en`
+
+Deshabandu Tennakoon has been appointed as the 36th Inspector General of Police (IGP) of Sri Lanka.
+
+Tennakoon received his letter of appointment as the 36th IGP from the Secretary to the President on Monday (26 Feb.).
+
+He had been appointed as the Acting IGP on November 29, 2023.
+
+◼️
+
+[Data](articles/7d606a32.json)
+
+---
 
 ### Israel attack on Rafah would be ‘final nail in coffin’ of Gaza aid: UN chief
 
@@ -47,6 +63,8 @@ His comments came after Israeli Prime Minister Benjamin Netanyahu on Sunday reit
 ...
 
 [Data](articles/f70c878a.json)
+
+[Extended Data](ext_articles/f70c878a.ext.json)
 
 ---
 
@@ -65,6 +83,8 @@ He assured, however, that Sri Lanka Police has already taken various measures re
 ◼️
 
 [Data](articles/bd603e57.json)
+
+[Extended Data](ext_articles/bd603e57.ext.json)
 
 ---
 
@@ -101,6 +121,8 @@ State Minister of Finance Ranjith Siyambalapitiya had informed Parliament last w
 ◼️
 
 [Data](articles/cbdc261f.json)
+
+[Extended Data](ext_articles/cbdc261f.ext.json)
 
 ---
 
@@ -2017,21 +2039,5 @@ His potential extended or permanent appointment comes on the heels of the nation
 [Data](articles/d44dea62.json)
 
 [Extended Data](ext_articles/d44dea62.ext.json)
-
----
-
-### Dilshan gets citizenship in Australia
-
-*2024-02-26 09:10:15* · [`adalk`](https://www.ada.lk/sports/ඩිල්ෂාන්-ඔස්ට්‍රේලියාවේ-පුරවැසිභාවය-ලබා-ගනියි/9-408272) · `si`
-
-Sri Lanka's former Sri Lanka captain Tilakaratne Dilshan has obtained the citizenship of Australia. At a ceremony held on the 24th of this month, he obtained citizenship in the country on the 24th of this month.
-
-Dilshan, including Dilshan, departed to Dilshan for years ago. Dilshan's elder daughter is currently in Australia.
-
-◼️
-
-[Data](articles/0bf26240.json)
-
-[Extended Data](ext_articles/0bf26240.ext.json)
 
 ---

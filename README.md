@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 17:33:34**
+As of **2024-02-26 17:53:15**
 
 ## Newspaper Stats
 
-*Scraped **9,376** Articles*
+*Scraped **9,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 469
 dailyftlk | 492
 islandlk | 495
 adalk | 792
-adaderanalk | 1,130
+adaderanalk | 1,132
 tamilmirrorlk | 1,153
 virakesarilk | 1,274
 dailymirrorlk | 1,413
@@ -26,25 +26,73 @@ adaderanasinhalalk | 1,422
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,373 (100.0%) of 9,376 articles have been extended.
+9,378 (100.0%) of 9,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### மேய்ச்சல் தரையை மீட்கும் பண்ணையாளர்களின் போராட்டம் தொடர்கிறது
+### Inaugural T10 League to get underway in December
+
+*2024-02-26 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97545/inaugural-t10-league-to-get-underway-in-december-) · `en`
+
+The inaugural edition of the Lanka T10 League is scheduled to be held from 12 – 22 December, Sri Lanka Cricket (SLC) announced on Monday (26 Feb.).
+
+The tournament, which was initially planned to be held in June 2023, was later shifted to December 2023, and now December 2024, as SLC deemed the ‘December window’ the most appropriate to conduct the league successfully.
+
+Lanka T10 League, Sri Lanka’s newest addition to its annual cricket calendar, will feature some of the finest international stars along with Sri Lanka’s top international stars, with six men’s teams of 16 players each, including six foreign players per team.
+
+The action-packed competition will also provide opportunities for the brightest young talents in the country to mix, mingle, and play along with international stars.
+
+“I have full confidence that this tournament will be a resounding success, contributing to Sri Lanka Cricket’s ability to stay current with the evolving trends in the game”, SLC President Shammi Silva opined.
+
+...
+
+[Data](articles/9c094dad.json)
+
+[Extended Data](ext_articles/9c094dad.ext.json)
+
+---
+
+### Education Ministry issues guidelines to safeguard schoolchildren amidst soaring temperatures
+
+*2024-02-26 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97544/education-ministry-issues-guidelines-to-safeguard-schoolchildren-amidst-soaring-temperatures) · `en`
+
+In response to the prevailing high-temperature weather conditions, the Ministry of Education has released a set of guidelines aimed at ensuring the protection of school children from potential adverse effects.
+
+A statement from the Ministry announced that directives have been communicated to all provincial directors of education, instructing them to disseminate the guidelines among school principals.
+
+The guidelines, aimed at addressing the challenges posed by the elevated temperatures, encompass a range of measures to safeguard the well-being of students and protect them from complications such as heat cramps, heat strokes, and heat exhaustion.
+
+Specific details include recommendations for hydration, appropriate clothing, and modifications to outdoor activities to mitigate the impact of the heat.
+
+Attached below is the list of guidelines issued by the Ministry:
+
+◼️
+
+[Data](articles/19a5e362.json)
+
+[Extended Data](ext_articles/19a5e362.ext.json)
+
+---
+
+### Farmers' struggle to restore grazing grounds continues
 
 *2024-02-26 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177356) · `ta`
 
-ஐந்து மாதங்களுக்கும் மேலாக தொடர்ச்சியாக போராட்டத்தில் ஈடுபட்டுள்ள தமக்கும், தமது கால் நடைகளுக்கும், பெரும்பான்மையின விவசாயிகளால் இழைக்கப்படும் அட்டூழியங்களும், அநியாயங்களும் அதிகரித்துள்ளதாக கிழக்கு மாகாணத்தின் பாற்பண்ணையாளர்கள் தெரிவிக்கின்றனர்.
+The Eastern Province dairy farmers say that the atrocities and injustices committed by the majority farmers have increased for more than five months.
 
-பெரும்பான்மையின விவசாயிகள் தமது கால்நடைகளை தொடர்ச்சியாக துன்புறுத்தி வருவதோடு கொலை செய்வதாக, தொடர்ச்சியாக 160 நாட்களைக் கடந்து போராட்டத்தில் ஈடுபட்டுள்ள, மயிலத்தமடு, மாதவனை தமிழ் பால் பண்ணையாளர்கள் தெரிவிக்கின்றனர்.
+Tamil dairy farmers say that the majority of peasants are continuously harassing their livestock and killing and killing for 160 consecutive days.
 
-“அதிகூடிய மின்சாரத்தைக் கொடுத்து குறைமாதத்தில் கன்றை ஈன்றுள்ளது. குறை மாதத்தில் பிறந்த கன்றால் எழும்பிகூட நிற்க முடியவில்லை. இந்த கன்று குட்டி. இது அநியாயம்தானே? இது வாய்பேச முடியாத மிருகம் தானே இது? இது மின்சாரக் கம்பியா? இல்லையா என இதுக்கு தெரியுமா? பௌத்த தர்மத்தை மதிக்கும் அனைவரும் பாருங்கள். வாய்பேச முடியாத ஜீவன்களுக்கு இவ்வாறு செய்கிறீர்கள்? சுடுகிறீர்கள். வாய் வெடியை  போடுகிறீர்கள். கட்டுத் துப்பாக்கியை  கட்டுகிறீர்கள். வெட்டுகிறீர்கள். நீங்களா, பௌத்த தர்மத்தை மதிப்பவர்கள்?” என கால் பண்ணையாளர் ஒருவர் கவலை வெளியிடுகின்றார்.
+“The calf has been given in the month after giving excessive electricity. Born in a short month could not stand up. This is the calf cub. Is this unjust?Is this the unprecedented animal?Is this an electric wire?Do you know this?Look at everyone who respects Buddhist Dharma. Do you do this for the unpopular life?Shoot. You put the mouth explosive. Build the rifle. Cutting. Are you valued Buddhist Dharma? ”A call farmer is worried.
+
+Farmers are constantly demanding the removal of farmers who have forcibly occupied the grazing ground in Mayilathamadu and Madhavan.
 
 ...
 
 [Data](articles/96572c18.json)
+
+[Extended Data](ext_articles/96572c18.ext.json)
 
 ---
 
@@ -124,19 +172,21 @@ The decision to close the Planetarium stems from the necessity for urgent repair
 
 ---
 
-### எம்.பிக்களுக்கிடையில் சந்திப்பு
+### Meeting between MPs
 
 *2024-02-26 16:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கிடையில்-சந்திப்பு/175-333834) · `ta`
 
-ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பி ரணவக்க மற்றும் ஐக்கிய மக்கள் சக்கி கட்சியினருக்கிடையில் சந்திப்பு இன்று (26)  கொழும்பில் உள்ள கட்சியின் தலைமையகத்தில் இடம்பெற்றது.
+The meeting was held today at the party headquarters in Colombo today (26).
 
-ஐக்கிய குடியரசு முன்னணியினால் வெளியிடப்பட்டுள்ள  'தேசிய சதேய ஆறு எட எதேக்' பிரசுரத்தின் உள்ளடக்கம் குறித்து அனைத்து அரசியல் கட்சிகள் மற்றும் அமைப்புக்களுக்கு தெரியப்படுத்த எடுக்கப்பட்ட தீர்மானத்தின் பிரகாரம் இந்த சந்திப்பு இடம்பெற்றதாக பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+Patali Champika Ranawaka said that the meeting took place in accordance with the resolution taken to inform all political parties and organizations about the content of the 'National Sadya River Edak' publication published by the United Republic Front.
 
-இக்கலந்துரையாடலுக்காக பொதுச் செயலாளர் ரஞ்சித் மத்துமபண்டார, தேசிய அமைப்பாளர் திஸ்ஸ அத்தநாயக்க, கயந்த கருணாதிலக்க, முஜிபுர் ரஹ்மான், ஐக்கிய குடியரசு முன்னணியின் சார்பில் அதன் தலைவர் பாட்டலி சம்பிக்க ரணவக்க, ஜனாதிபதி நிபுணர் கலாநிதி அஜித் அமரசிங்க, செயலாளர் நாயகம் பந்துல சந்திரசேகர, சிரேஷ்ட உப தலைவர் சட்டத்தரணி. இக்கலந்துரையாடலுக்கு ஷிரால் கலந்து கொண்டார்.திரு.லக்திலக, தேசிய அமைப்பாளர் பொறியியலாளர் சுமேதா ரத்நாயக்க ஆகியோரும் கலந்துகொண்டனர்.
+General Secretary Ranjith Mathumapandara, National Organizer Tissa Attanayake, Gayantha Karunathilaka, Mujibur Rahman, its President Patali Champika Ranawaka on behalf of the UNP. Shiral also participated in the event.
 
 ◼️
 
 [Data](articles/db475ae2.json)
+
+[Extended Data](ext_articles/db475ae2.ext.json)
 
 ---
 
@@ -616,21 +666,25 @@ The filling of the form on the inheritance website has also facilitated the need
 
 ---
 
-### උරුමයට ලියාපදිංචි වෙන්න ක්ෂණික ඇමතුම් අංකයක්
+### Immediate call number to sign up to heritage
 
 *2024-02-26 13:44:33* · [`adalk`](https://www.ada.lk/breaking_news/උරුමයට-ලියාපදිංචි-වෙන්න-ක්ෂණික-ඇමතුම්-අංකයක්/11-408284) · `si`
 
-“උරුමය” ජාතික වැඩසටහනින් අපේක්ෂිත අභිමතාර්ථ යථාර්ථයක් බවට පත් කර ගනිමින් ප්‍රජාව වෙත සිය භුමියේ සින්නක්කර අයිතිය භුක්ති විඳීමේ අවස්ථාව ලබා දීමට අදාළව ඉල්ලුම් කිරීමට ක්ෂණික ඇමතුම් අංකයක් හඳුන්වා දී තිබේ.
+The immediate call number has been introduced to apply for the Community to make the community to the community in relation to the intended ownership of the "Heritage" National Program.
 
-ඒ අනුව දිනපතා පෙ.ව 8.30 සිට රාත්‍රී 8.30 දක්වා 1908 ක්ෂණික ඇමතුම් අංකය සහ දුරකථන අංක 0114 354600/ 0114 354601 ඔස්සේ ජනාධිපති කාර්යාලයේ, උරුමය ජාතික මෙහෙයුම් කාර්යාලය සමඟ සම්බන්ධ වීමෙන් ජනතාවට සිය ඉල්ලීම යොමු කරමින් ලියාපදිංචි වීම සඳහා අවස්ථාව සලසා ඇත.
+Accordingly, by the Presidential Secretariat, the inheritance National Office of the National Office of the National Office of the Public Office on 808 to 8.30 am to 8.30 am to 8.30 am to 8.30 pm, the Presidential Secretariat has enabled the public to register its request.
 
-www.tinyurl.com/urumaya (ඩිජිටල් ඉල්ලුම් පත්‍රය) පෝරමය පිරවීම මඟින් ද අදාළ අවශ්‍යතාව ඉටු කිරීමට පහසුකම් සපයා තිබේ.
+Www.tinyurl.com/URUMAYA (Digital Application) The filling of the form has also been facilitated to satisfy the need.
 
-1935 අංක 19 දරණ ඉඩම් සංවර්ධන ආඥා පනත මඟින් ගොවි ජනතාව හා අඩු ආදායම්ලාභීන් වෙත කොන්දේසි සහිත අවසර පත්‍ර/ දීමනා පත්‍ර සහිත රජයේ ඉඩම් කොන්දේසි විරහිත සින්නක්කර අයිතියට පත් කරමින් ජනතාව වෙත ලබා දීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත් කරන ලද 2024 අයවැය යෝජනා අතර සුවිශේෂී යෝජනාවකි.
+The 2024 Budget Proposals presented by President Ranil Wickremesinghe, presented by the Land Development Ordinance No 19, 1935, is a significant proposal.
 
-...
+This heritage is a new value for the land, and there is the opportunity to strengthen their family economy.
+
+◼️
 
 [Data](articles/1afc7474.json)
+
+[Extended Data](ext_articles/1afc7474.ext.json)
 
 ---
 
@@ -1985,51 +2039,5 @@ It is noteworthy that only monthly and special poojas were approved in the templ
 [Data](articles/a3f55c42.json)
 
 [Extended Data](ext_articles/a3f55c42.ext.json)
-
----
-
-### Prevailing dry weather condition expected to change from today
-
-*2024-02-26 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97532/prevailing-dry-weather-condition-expected-to-change-from-today) · `en`
-
-The prevailing dry weather condition in Eastern and Uva provinces is expected to temporarily change from today (26), according to the Meteorology Department.
-
-Showers will occur at times in Nuwara-Eliya, Matale and Polonnaruwa districts while several spells of showers will occur in Eastern and Uva provinces, it said.
-
-Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Kandy, Galle and Matara districts in the evening or night.
-
-Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, Southern, North-western, Uva and Eastern provinces.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/46e2ddd0.json)
-
-[Extended Data](ext_articles/46e2ddd0.ext.json)
-
----
-
-### Central Bank Report on Salary Increase
-
-*2024-02-26 07:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-அதிகரிப்பு-குறித்து-மத்திய-வங்கி-அறிக்கை/175-333809) · `ta`
-
-The Central Bank of Sri Lanka (CBSL) has responded to media reports on the recent amendment to the Central Bank employees.
-
-In a statement issued yesterday, CBSL emphasizes its commitment to transparency and accountability in its operations.
-
-At a meeting held on 21.02.2024, the Governing Committee of the CBSL ordered the Governor to formally request the opportunity to speak to MPs through the appropriate parliamentary committee.
-
-This request was made in accordance with section 80 (2) (b) of the Central Bank Act No. 16 of 2023, which aims to clarify the procedure and justification in the context of the latest wage amendment approved under the Muperfire.
-
-On 22.02.2024, the Governor of the CBSL submitted a written request to the president, he serves as the Finance Minister and acts as a way to communicate with the CBSL Parliament.
-
-This request requested an opportunity to inform MPs the reasons for changing the salary for CBSL employees.
-
-...
-
-[Data](articles/116102d1.json)
-
-[Extended Data](ext_articles/116102d1.ext.json)
 
 ---

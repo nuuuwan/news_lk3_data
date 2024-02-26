@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 05:02:44**
+As of **2024-02-27 05:17:37**
 
 ## Newspaper Stats
 
-*Scraped **9,462** Articles*
+*Scraped **9,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 495
 dailyftlk | 504
 adalk | 799
 adaderanalk | 1,139
-tamilmirrorlk | 1,158
+tamilmirrorlk | 1,159
 virakesarilk | 1,294
 dailymirrorlk | 1,425
 adaderanasinhalalk | 1,430
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,462 (100.0%) of 9,462 articles have been extended.
+9,462 (100.0%) of 9,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### மாணவ செயற்பாட்டாளர் கைது
+
+*2024-02-27 04:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவ-செயற்பாட்டாளர்-கைது/175-333857) · `ta`
+
+களனி பல்கலைக்கழகத்தின் முன்னாள் மாணவ செயற்பாட்டாளரான சஞ்ஜய ஹெட்டிமுல்ல குற்றப்புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+பகிடிவதை சம்பவங்கள் மற்றும் மாணவர்களை தடுத்து வைத்திருந்தமை உள்ளிட்ட குற்றச்சாட்டுகளின் அடிப்படையில் அவர் கைது செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர்.
+
+சந்தேகநபர் நாட்டிலிருந்து வெளியேறுவதற்காக கட்டுநாயக்க சர்வதேச விமான நிலையத்திற்கு சென்ற சந்தர்ப்பத்திலேயே செய்யப்பட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/24372b7e.json)
+
+---
 
 ### In the months of marriage in Jaffna, a man made a wrong decision!
 
@@ -1991,21 +2007,5 @@ They also emphasize that the politicians should be explained in the face of the 
 [Data](articles/7e280b77.json)
 
 [Extended Data](ext_articles/7e280b77.ext.json)
-
----
-
-### Plastics account for 10 percent of waste collected by local authorities
-
-*2024-02-26 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plastics-account-for-10-percent-of-waste-collected-by-local-authorities/108-277735) · `en`
-
-Colombo, Feb 26 (Daily Mirror) - Plastic wastes account for about 10 percent of the waste collected by local authorities, out of which about 70 percent is packaging plastic such as single-use plastic (SUP) shopping bags (40%) and lunch sheets (10%), according to a survey conducted by the Japan International Cooperation Agency (JICA).
-
-JICA conducted a survey through “Project for Strengthening Plastic Management Capacity” launched in September 2023 on the current situation of plastic waste management, which was not grasped in the past. The main findings of the survey so far are summarized as below, while the survey will continue with more samples to improve its accuracy.
-
-...
-
-[Data](articles/a7868b72.json)
-
-[Extended Data](ext_articles/a7868b72.ext.json)
 
 ---

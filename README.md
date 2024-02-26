@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 19:50:43**
+As of **2024-02-26 20:02:40**
 
 ## Newspaper Stats
 
-*Scraped **9,400** Articles*
+*Scraped **9,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 493
 islandlk | 495
-adalk | 793
+adalk | 796
 adaderanalk | 1,136
 tamilmirrorlk | 1,156
 virakesarilk | 1,283
@@ -26,23 +26,25 @@ adaderanasinhalalk | 1,425
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,392 (99.9%) of 9,400 articles have been extended.
+9,403 (100.0%) of 9,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### பொலிஸ் மா அதிபராக தேசபந்து தென்னகோன் நியமிப்பு
+### Deshand Tennakoon's assignment as Inspector General of Police
 
 *2024-02-26 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177375) · `ta`
 
-தென்னகோன் 36ஆவது பொலிஸ் மா அதிபராக தனது நியமனக் கடிதத்தை ஜனாதிபதியின் செயலாளரிடமிருந்து திங்கட்கிழமை (26) பெற்றுக்கொண்டார்.
+Tennakoon received his appointment letter as the 36th Police Inspector of Police on Monday (26) from the President's Secretary.
 
-தேசபந்து தென்னகோன் கடந்த வருடம்  நவம்பர் மாதம் 29 ஆம் திகதி பதில் பொலிஸ் மா அதிபராக ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் நியமிக்கப்பட்டமை குறிப்பிடத்தக்கது.
+It is noteworthy that President Ranil Wickremesinghe was appointed as the Inspector General of Police on November 29 last year.
 
 ◼️
 
 [Data](articles/b42d88ff.json)
+
+[Extended Data](ext_articles/b42d88ff.ext.json)
 
 ---
 
@@ -60,23 +62,43 @@ However, the industry faces dire challenges, especially the drastic declining av
 
 [Data](articles/47f5a68f.json)
 
+[Extended Data](ext_articles/47f5a68f.ext.json)
+
 ---
 
-### மாணவர்களுக்கு விசேட அறிவித்தல்
+### New IGP Deshabandu Tennakoon
+
+*2024-02-26 19:14:03* · [`adalk`](https://www.ada.lk/breaking_news/නව-පොලිස්පති-දේශබන්දු-තෙන්නකෝන්/11-408292) · `si`
+
+Ranil Wickremesinghe has said that Ranil Wickremesinghe has said that Ranil Wickremesinghe has taken steps to appoint Deshabandu Tennakoon as the new IGP.
+
+This appointment has been made in accordance with the President's powers. Deshabandu Tennakoon was appointed Acting IGP three months ago.
+
+◼️
+
+[Data](articles/440136a5.json)
+
+[Extended Data](ext_articles/440136a5.ext.json)
+
+---
+
+### Special notification
 
 *2024-02-26 19:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-விசேட-அறிவித்தல்/175-333842) · `ta`
 
-இலங்கை முழுவதும் நிலவும் வறட்சியான காலநிலை காரணமாக பாடசாலை மாணவர்களுக்காக எடுக்க வேண்டிய முன்னெச்சரிக்கை நடவடிக்கைகள் குறித்து கல்வி அமைச்சு சுற்றறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+The Ministry of Education has issued a circular on the precautionary measures taken for school children due to the prevailing drought climate across Sri Lanka.
 
-சுற்றறிக்கையில் சாத்தியமான வெப்ப தசை பிடிப்புகள், வெப்ப சோர்வு மற்றும் வெப்ப பக்கவாதம் மற்றும் அவற்றின் தாக்கத்தை குறைப்பதற்கான முன்னெச்சரிக்கைகள் தொடர்பான வழிமுறைகளின் பட்டியல் குறிப்பிடப்பட்டுள்ளது.
+In the circular, a list of possible heat muscle cramps, thermal fatigue and thermal stroke and the precautionary measures to reduce their impact.
 
-அதிக வெப்பநிலையின் போது வெளிப்புற நடவடிக்கைகள், விளையாட்டு மற்றும் பிற வெளிப்புற நடவடிக்கைகளை கட்டுப்படுத்துதல் தொடர்பான அறிவுறுத்தல்களையும் அமைச்சகம் வழங்கியுள்ளது.
+The Ministry has also issued instructions on exterior activities, sports and other outdoor activities during high temperatures.
 
-இந்த காலப்பகுதியில் மாணவர்களுக்கு தேவையான தண்ணீர் இடைவேளையை அடிக்கடி ஏற்படுத்தி தருமாறு பாடசாலை நிர்வாகத்திடம் அமைச்சு கோரிக்கை விடுத்துள்ளது.
+The Ministry has requested the school administration to provide frequent water breaks for students during this period.
 
 ◼️
 
 [Data](articles/a193bf0e.json)
+
+[Extended Data](ext_articles/a193bf0e.ext.json)
 
 ---
 
@@ -98,53 +120,59 @@ He had been appointed as the Acting IGP on November 29, 2023.
 
 ---
 
-### மட்டு நகர் பகுதில் புகையிரத்துடன் மோதி இளைஞன் ஒருவர் உயிரிழப்பு
+### A young man dies after colliding with train
 
 *2024-02-26 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177374) · `ta`
 
-மட்டக்களப்பு பொலிஸ் பிரிவிலுள்ள கருவப்பங்கேணி பகுதியில் புகையிரதத்துடன்  மோதி இளைஞர் ஒருவர் உயிரிழந்த சம்பவம்  ஞாயிற்றுக்கிழமை (25)  இரவு 11 மணியவில் இடம்பெற்றுள்ளதாக பொலிசார் தெரிவித்தனர்.
+The death of a youth in the Batticaloa Police Division in the Kerupanai area of the Batticaloa Police Division, the death of a youth took place on Sunday (25) at 11 pm, police said.
 
-கருவப்பங்கேணியைச் சேர்ந்த 25 வயதுடைய ஆகாஸ் என்றழைக்கப்படும் அசோக்குமார் சனுஜன் என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+The deceased is Ashok Kumar Sanujan, a 25 -year -old Akas, from Karupa Bengeni.
 
-மட்டக்களப்பிலிருந்து கொழும்பை நோக்கி  ஞாயிற்றுக்கிழமை (25)  இரவு பயணித்த இன்டசிற்றி புகையிரதத்தில் கருவப்பங்கேணி பகுதி தண்டவாளத்தில் வைத்து புகையிரத்தில் குறித்த இளைஞன் மோதியதையடுத்து சம்பவ இடத்தில் உயிரிழந்துள்ளார்.
+The youth has died on the spot after a train collided with a train from Batticaloa to Colombo on Sunday night (25).
 
-இதனையடுத்து குறித்த சடலத்தை பொலிசார் மீட்டு பிரேதப் பரிசோதனைக்காக வைத்தியசாலையில் ஒப்படைத்தனர் இது தொடர்பாக மேலதிக விசாரணைகளை மட்டு தலைமையக பொலிசார் முன்னெடுத்துவருகின்றனர்.
+The body was subsequently recovered by the police and handed over to the hospital for autopsy.
 
 ◼️
 
 [Data](articles/9a0235a0.json)
 
+[Extended Data](ext_articles/9a0235a0.ext.json)
+
 ---
 
-### எதிர்க்கட்சித் தலைவரின் நன்கொடைப் பணம் திருட்டு
+### Opposition Leader's donation money theft
 
 *2024-02-26 18:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவரின்-நன்கொடைப்-பணம்-திருட்டு/175-333841) · `ta`
 
-சில நாட்களுக்கு முன்னர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவினால் ஆரம்பப் பாடசாலை ஒன்றுக்கு நன்கொடையாக வழங்கப்பட்ட  100,000 ரூபாய் பணம் பாடசாலை அலுவலகத்திலிருந்து திருடப்பட்ட சம்பவம் குறித்து அவிசாவளை பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+A few days ago, the Avissawella police have launched an investigation into the incident of the stolen from the school office by Opposition Leader Sajith Premadasa.
 
-பெப்ரவரி 23ஆம் திகதி புவக்பிட்டிய தெற்கு ஆரம்பப் பாடசாலைக்கு எதிர்க்கட்சித் தலைவர் விஜயம் செய்திருந்த போது 'சக்வல' நிகழ்ச்சியின் ஒரு பகுதியாக இந்த நன்கொடை வழங்கப்பட்டது.
+The donation was issued as part of the 'Sakwala' event when the Opposition Leader visited the Southern Primary School of Puwakpitiya on February 23.
 
-அலுவலகத்தின் முன்பக்க கதவு மற்றும் அலமாரிகள் அனைத்தையும் உடைத்து பணம் திருடப்பட்டுள்ளதாக பாடசாலை அதிபரினால் அவிசாவளை பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+The school principal has lodged a complaint with the Avissawella police alleging that all the front door and shelves of the office have been broken.
 
-வகுப்பறையை ஒழுங்கமைப்பதற்காக மாணவர்கள் பாடசாலைக்கு வந்தபோது, ​​அலுவலக கதவு உடைக்கப்பட்டு இருப்பதை கண்டு அதிபர் மற்றும் ஆசிரியருக்கு தகவல் தெரிவித்துள்ளனர்.
+When the students came to school to organize the classroom, they reported to the Chancellor and the teacher that the office door had been broken.
 
 ◼️
 
 [Data](articles/17328c99.json)
 
+[Extended Data](ext_articles/17328c99.ext.json)
+
 ---
 
-### கோள்மண்டலத்தை பொதுமக்கள் பார்வையிட தடை
+### Public view of the public
 
 *2024-02-26 18:40:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோள்மண்டலத்தை-பொதுமக்கள்-பார்வையிட-தடை/175-333840) · `ta`
 
-இலங்கை கோள்மண்டலத்தை நாளை (27) முதல் மார்ச் மாதம் 12 வரை பொதுமக்கள் பார்வையிட முடியாதவாறு மூடவுள்ளதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+The Ministry of Education has announced that the public will be closed from tomorrow (27) to March 12.
 
-கோள் மண்டலத்தை மூடுவதற்கான முடிவு அவசரமாக பழுதுபார்க்க வேண்டியுள்ளதால், தேவையான பராமரிப்புப் பணிகளை எளிதாக்கும் வகையில் இந்த காலகட்டத்தில் வசதிக்கான அணுகல் தடைசெய்யப்படும் கோள்மண்டலத்தை பொதுமக்கள் பார்வையிட தடை விதிக்கப்பட்டுள்ளது.
+The decision to close the planetary zone is urgently repaired and the public has been banned from viewing the facility for facilities to facilitate the necessary maintenance work.
 
 ◼️
 
 [Data](articles/33b54644.json)
+
+[Extended Data](ext_articles/33b54644.ext.json)
 
 ---
 
@@ -188,19 +216,21 @@ He assured, however, that Sri Lanka Police has already taken various measures re
 
 ---
 
-### அதிகவெப்ப நிலை தொடர்பில் பாடசாலை மாணவர்களுக்கு விசேட அறிவித்தல்!
+### Special announcement for school students
 
 *2024-02-26 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177373) · `ta`
 
-அதிக வெப்பநிலை காரணமாக ஏற்படும் பாதிப்புக்களிலிருந்து பாடசாலை மாணவர்களைப் பாதுகாப்பதற்குத் தேவையான ஆலோசனைகளை குறிப்பிட்டு கல்வி அமைச்சு அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+The Ministry of Education has issued a report on the advice required to protect school children from the damage caused by high temperature.
 
-இந்த அறிக்கை குறித்து அனைத்து பாடசாலை அதிபர்களுக்கும் தெரியபடுத்துமாறு கல்வி அமைச்சு ,அனைத்து மாகாணங்களின் கல்விப் பணிப்பாளர்களுக்கும் அறிவித்துள்ளது.
+The Ministry of Education has informed the Directors of all provinces to inform all school principals.
 
-5. அதின வெப்பநிலை காரணமாக ஏதேனும் நோய் அறிகுறிகள் அல்லது ஒவ்வாமை ஏற்பட்டால் பாடசாலை ஆசிரியர்கள் அல்லது பெற்றோர்களிடம் தெரிவிக்கவும்.
+௫. Tell school teachers or parents in the event of any symptoms or allergies due to its temperature.
 
 ◼️
 
 [Data](articles/8acd7374.json)
+
+[Extended Data](ext_articles/8acd7374.ext.json)
 
 ---
 
@@ -242,23 +272,43 @@ State Minister of Finance Ranjith Siyambalapitiya had informed Parliament last w
 
 ---
 
-### பொதுச் சுகாதார பரிசோதகர் ரொஷான் புஷ்பகுமார கொலை தொடர்பில் விசாரணைகளில் வெளிவந்தவை!
+### Investigations into the murder of Public Health Inspector Roshan Pushpakumara!
 
 *2024-02-26 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177371) · `ta`
 
-எல்பிட்டிய, பத்திராஜ வத்த பகுதியில் திங்கட்கிழமை (26)  சுட்டுக் கொல்லப்பட்ட பொது சுகாதாரப் பரிசோதகர் டபிள்யூ.டி. ரொஷான் புஷ்பகுமார என்பவர்  தனது இளைய மகனை முதலாம் ஆண்டுக்கு அனுப்புவதற்கு தயாராகிக்கொண்டிருந்தபோதே கொலை செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Public Health Inspector WD was shot dead on Monday (26). Police said Roshan Pushpakumara was murdered while preparing to send his youngest son for the first year.
 
-கரந்தெனிய சுகாதார வைத்திய அதிகாரி அலுவலகத்தில் நிர்வாக பொது சுகாதார பரிசோதகராக பணியாற்றிய 51 வயதான மூன்று பிள்ளைகளின் தந்தையே சுட்டுக் கொல்லப்பட்டவராவார்.
+The father of the 51 -year -old children who worked as an administrative health inspector at the Karandeniya Health Medical Officer's office was shot dead.
 
-எல்பிட்டிய பதில் நீதிவான் வஜிரா பொன்னம்பெரும சம்பவ இடத்துக்குச் சென்று விசாரணைகளை மேற்கொண்டார்.
+Elpitiya responded to Judge Vajira Ponnamperuma visited the scene and investigated.
 
-கொலை செய்யப்பட்ட  புஷ்பகுமாரவின் மனைவி ஆசிரியை என்பதுடன், அவர் எல்பிட்டிய எல்ல பிரதேசத்தில் உள்ள பாடசாலைக்கு அதிகாலையில் சென்றுள்ளார்.
+The wife of the murdered Pushpakumara is a teacher and she has gone to the school in Ella, Elpitiya.
 
-இளைய மகன் இன்று முதலாம் ஆண்டுக்குச் செல்ல தயாராகிக் கொண்டிருந்தபோதே இந்த துப்பாக்கிச் சூடு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The shooting took place while the youngest son was preparing to go for the first year today, police said.
 
 ◼️
 
 [Data](articles/7f94aed5.json)
+
+[Extended Data](ext_articles/7f94aed5.ext.json)
+
+---
+
+### Opens three gates of the Ratkkanda Reservoir
+
+*2024-02-26 17:54:36* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-පිටවානේ-ගේට්ටු-තුනක්-විවෘත-කරයි/11-408288) · `si`
+
+Ulhiva Warana Jayasekara says that three gates of the reservoir of the reservoir will be opened at 0.1 am today due to the increase in the water levels in the reservoir of the water level.
+
+As a result, Ulhupitiya Ratakada, the people of the area, the people of the area, considers the attention of the people who are residentful.
+
+2023-2024 The gates of the reservoir have ended the reservoir, which has ended the reference to the sort of irrigation to the Mahaweli C region for the Mahaweli C zone.Ulhivarathkara Reservoir Reservoir Reservoir (SLBA) has said.
+
+◼️
+
+[Data](articles/808305c0.json)
+
+[Extended Data](ext_articles/808305c0.ext.json)
 
 ---
 
@@ -279,6 +329,20 @@ Fort Justice Dilina Kamage said the court could not issue a summons as the two w
 [Data](articles/3993c132.json)
 
 [Extended Data](ext_articles/3993c132.ext.json)
+
+---
+
+### Planetarium temporarily closed
+
+*2024-02-26 17:42:32* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රහලෝකාගාරය-තාවකාලිකව-වසයි/11-408287) · `si`
+
+Planetarium announced that it will close the Sri Lanka Planetarium maintaining workplaces until the 12th will be closed from tomorrow.
+
+◼️
+
+[Data](articles/9fcf8dd3.json)
+
+[Extended Data](ext_articles/9fcf8dd3.ext.json)
 
 ---
 
@@ -1947,79 +2011,5 @@ The American intelligence officers near the embassy were hospitalized.
 [Data](articles/95525233.json)
 
 [Extended Data](ext_articles/95525233.ext.json)
-
----
-
-### Ticketing issues tickets for Korean examination
-
-*2024-02-26 10:26:06* · [`adalk`](https://www.ada.lk/breaking_news/කොරියානු-විභාගයට-ප්‍රවේශපත්‍ර-නිකුත්-කරයි/11-408275) · `si`
-
-The Korean Language Examination testing of the Korean language test will be issued only between February 26 to 29 2024, the Sri Lanka Foreign Employment Bureau.
-
-Entering the official website of the Bureau (www.slbfe.lk) and enter the manufactolution, fisher, construction, construct, 1 & service.. The link is open from 2024.26 and is open until 29. The link then is closed and not able to apply.
-
-Applications should be applied to 1 and 2 services under the use of fisheries, fisheries, shipping, rifles, rims, main areas.The following qualifications should be met to obtain examination tickets.
-
-Being someone between the ages of 18 - 39 (born February 27, 19, 1984, a court guilty should be a fined, or fined. Also, under the Republic of Korea, the E-9 or E-10 should be a person who has not worked in South Korea for five years or more. (More details on this area can be accessed to the official website of the Bureau.)
-
-...
-
-[Data](articles/47b5e665.json)
-
-[Extended Data](ext_articles/47b5e665.ext.json)
-
----
-
-### A wife who had died for three days at home
-
-*2024-02-26 10:20:49* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-සැමියාගේ-සිරුර-දින-තුනක්-නිවසේ-තියාගෙන-සිටිය-බිරිඳක්/11-408274) · `si`
-
-Panadura South Police say the doors of a woman who is with a woman who is in the house for about three days in the house for about three days and had a woman with a woman who is in the house.
-
-Angam Atambigamuwa Janage Janage alone a couple of residents of the housing scheme has gone to a tip off received yesterday (25).
-
-The victim's wife had covered the gates of the deceased as the victim was covered with the gunshots and was found in a bed when they were broken into the home.
-
-The deceased has been identified as Attigguewatta, Panadura, Panadanaya, a resident of Attanayake.
-
-The victim's wife, a high-minor police officer, spoke to a mental illness.
-
-Panadura Division Criminal Laboratory Laboratory Laboratory Laboratory Laboratory was conducted that night.
-
-The body was taken to the Panadura Base Hospital for the post mortem.
-
-Senior Superintendent of Police Samantha Wedge, Assistant Inspector Nishantha Senaratne holds to the headquarters Inspector Upul Priyankara.
-
-◼️
-
-[Data](articles/49c9ed21.json)
-
-[Extended Data](ext_articles/49c9ed21.ext.json)
-
----
-
-### Bangladesh court halts wild elephant adoption
-
-*2024-02-26 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97535/bangladesh-court-halts-wild-elephant-adoption) · `en`
-
-A Bangladeshi court on Sunday barred the adoption of elephants from the wild, a move hailed by animal rights activists as a “landmark” order to help stop cruelty.
-
-Rights groups said the high court order suspending licences will stop the torture of captive Asian elephants in the name of training.
-
-“The high court today suspended all licenses for the captive rearing of elephants,” Amit Das Gupta, deputy attorney general of the country, told AFP.
-
-Bangladesh was once one of the major homes for Asian elephants.
-
-But poaching and habitat loss saw their number dwindle so much that they are now declared critically endangered in the South Asian country.
-
-The International Union for Conservation of Nature (IUCN) says there are nearly 100 captive Asian elephants in Bangladesh, nearly half the amount of elephants left in the wild in the country.
-
-As logging and farming encroach on elephant territory, young animals are captured in the country’s northern and southeastern hills.
-
-...
-
-[Data](articles/3e467bde.json)
-
-[Extended Data](ext_articles/3e467bde.ext.json)
 
 ---

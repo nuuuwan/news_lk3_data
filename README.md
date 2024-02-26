@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 12:50:18**
+As of **2024-02-26 13:02:35**
 
 ## Newspaper Stats
 
-*Scraped **9,323** Articles*
+*Scraped **9,327** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 95
-bbccomsinhala | 112
+bbccomsinhala | 113
 dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 492
 islandlk | 494
 adalk | 784
-adaderanalk | 1,123
+adaderanalk | 1,126
 tamilmirrorlk | 1,148
 virakesarilk | 1,266
 dailymirrorlk | 1,404
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,408
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,304 (99.8%) of 9,323 articles have been extended.
+9,323 (100.0%) of 9,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Opposition MPs sign no-confidence motion against the Speaker
+
+*2024-02-26 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97539/opposition-mps-sign-no-confidence-motion-against-the-speaker-) · `en`
+
+Several opposition parties, led by Opposition Leader Sajith Premadasa, signed a motion of no confidence against Speaker of Parliament Mahinda Yapa Abeywardene on Monday (26 Feb.), claiming that he had violated the Constitution of Sri Lanka.
+
+Accordingly, several MPs belonging to the opposition in Parliament including M. A. Sumanthiran, Lakshman Kiriella, G. L. Pieris, Tissa Attanayake, Chandima Weerakkody and Shan Wijayalal de Silva, have signed the no-confidence motion against the Speaker for approving the much-disputed Online Safety Bill amidst ‘irregular procedures’.
+
+Speaking in this regard earlier this month, Samgi Jana Balawegaya (SJB) leader Sajith Premadasa charged that the Speaker had ignored nine recommendations given by the Supreme Court while enacting the Online Safety Act, adding that they no longer have faith in him.
+
+...
+
+[Data](articles/d3a13d4c.json)
+
+---
 
 ### United Petroleum secures contract to supply petroleum products in Sri Lanka
 
@@ -48,21 +64,61 @@ United is a billion-dollar company with focus on quality, safety, and environmen
 
 [Data](articles/a71682e3.json)
 
+[Extended Data](ext_articles/a71682e3.ext.json)
+
 ---
 
-### இலங்கைக்கான அமெரிக்காவின் புதிய தூதுவர்  எலிசபெத் கோர்ஸ்ட் ?
+### Elizabeth Coret is the new Ambassador to Sri Lanka?
 
 *2024-02-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177315) · `ta`
 
-இலங்கைக்கான அமெரிக்காவின் புதிய தூதுவராக எலிசபெத் கே கோர்ஸ்ட் நியமிக்கப்படவுள்ளார் என தகவல்கள் வெளியாகியுள்ளன.
+According to reports, Elizabeth K. Corpst will be appointed as the new Ambassador to Sri Lanka.
 
-அமெரிக்க தூதுவர் ஜூலி சங்கின் பதவிக்காலம் முடிவடைகின்ற நிலையில் புதிய தூதுவராக  எலிசபெத் கே கோர்ஸ்ட்  நியமிக்கப்படவுள்ளார்.
+Elizabeth K Corpst will be appointed as the new ambassador as US Ambassador Julie Sangh's term ends.
 
-அமெரிக்க செனெட் இந்த நியமனத்திற்கு அங்கீகாரம் வழங்கினால் இந்த நியமனத்தை ஏற்க தயார் என இலங்கை தெரிவித்துள்ளது.
+Sri Lanka said it was ready to accept the appointment if the US Senate approved the appointment.
 
 ◼️
 
 [Data](articles/808e6762.json)
+
+[Extended Data](ext_articles/808e6762.ext.json)
+
+---
+
+### United Petroleum Australia enters Sri Lanka’s retail fuel market
+
+*2024-02-26 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97538/united-petroleum-australia-enters-sri-lankas-retail-fuel-market-) · `en`
+
+United Petroleum Australia Pty Ltd has entered into a contract with Sri Lanka’s Ministry of Power and Energy to supply petroleum products into the local market.
+
+The agreement was signed on 22 February by Secretary to the Ministry of Power and Energy Dr. Sulakshana Jayawardena on behalf of the Government of Sri Lanka, and Eddie Hirsch, on behalf of United Petroleum Australia, in his capacity as the owner of the company.
+
+The Australian-owned petroleum retailer and importer has been assigned 150 fuel stations across Sri Lanka, and has also been given the right to build 50 new fuel stations.
+
+Accordingly, United Petroleum Australia incorporated a company in Sri Lanka under the name ‘United Petroleum Lanka Pvt. Ltd.’, to carry out operations within the country, with former Ceylon Petroleum Corporation (CEYPETCO) Board Member Dr. Prabath Samarasinghe having been appointed as the Director and CEO of the company.
+
+...
+
+[Data](articles/c45c6276.json)
+
+---
+
+### Doctors suspect chemical used for dialysis caused series of deaths at Kurunegala Hospital
+
+*2024-02-26 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97537/doctors-suspect-chemical-used-for-dialysis-caused-series-of-deaths-at-kurunegala-hospital) · `en`
+
+Doctors of the Kurunegala Teaching Hospital suspect that the recent deaths of several dialysis patients was due to a chemical used for the treatment.
+
+The dialysis unit of the hospital was temporarily closed on 23 February, after a series of patient deaths, attributed to a suspected infection at the time, were reported since January this year.
+
+While an investigation was previously conducted at the institutional level to determine if the fatalities were a result of an infection caused by the germs that entered the bloodstream or the chemicals administered during the dialysis procedure, the Ministry of Health also appointed a 5-member committee of experts to look into the matter at the ministerial level.
+
+Meanwhile, measures are also afoot to appoint a two-member committee of expert doctors specializing in blood and blood transfusion procedures, Health Secretary Dr. Palitha Maheepala said.
+
+...
+
+[Data](articles/bb2e8a1c.json)
 
 ---
 
@@ -81,6 +137,8 @@ He then doused himself in a clear liquid and set himself on fire, screaming "Fre
 ...
 
 [Data](articles/bd4cb655.json)
+
+[Extended Data](ext_articles/bd4cb655.ext.json)
 
 ---
 
@@ -104,19 +162,21 @@ Also, a powerful problem has been made by the Supreme Court's decisions in the f
 
 ---
 
-### யாழ்.நகரில் வாகனம் தீக்கிரை
+### The vehicle in Jaffna Nagar
 
 *2024-02-26 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177310) · `ta`
 
-யாழ்ப்பாணம் நகரின் மத்திய பகுதியில் சிறிய ரக வாகனம் ஒன்று இன்று திங்கட்கிழமை (26) தீக்கிரையாகியுள்ளது.
+A small vehicle in the central part of the city of Jaffna was on fire on Monday (26).
 
-யாழ்.மத்திய பஸ் நிலையத்திற்கு அண்மையில் உள்ள வெற்று காணி ஒன்றில் நிறுத்தி வைக்கப்பட்டு இருந்த வாகனமே தீக்கிரையாகியுள்ளது.
+The vehicle that had been parked in a recent hollow land to the Jaffna Central Bus Stand has been set on fire.
 
-தீ விபத்து ஏற்பட்டதா அல்லது குழுவினரால் தீ வைக்கப்பட்டதா என்பது தொடர்பில் தெரிய வராத நிலையில் சம்பவம் தொடர்பில் யாழ்ப்பாண பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+Jaffna police are conducting investigations into the incident as it is not known whether the fire or the crew is set on fire.
 
 ◼️
 
 [Data](articles/90c91a5e.json)
+
+[Extended Data](ext_articles/90c91a5e.ext.json)
 
 ---
 
@@ -156,6 +216,8 @@ The decision on the no faith motion was made during a meeting of the Opposition 
 
 [Data](articles/c61db341.json)
 
+[Extended Data](ext_articles/c61db341.ext.json)
+
 ---
 
 ### Another danger accident on Southern Express - Life is lost
@@ -184,41 +246,47 @@ The little lorry was severely damaged, a resident of Rathgama, a 55 year old Kam
 
 ---
 
-### අනුරගෙන් සහතිකයක්
+### A certificate from Anura
 
 *2024-02-26 11:19:54* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගෙන්-සහතිකයක්/11-408278) · `si`
 
-" අතීතය තුල රටෙහි සිදුවීම් සැලකීමේදී ජනතාව කනාමැදිරි එළියටත් බිය තත්ත්වයක් ඇති නිසා අපෙන් අහනව , අපි ඔබ විශ්වාස කරන්නේ කෙසේද කියා. අපි ඔබට එක සහතිකයක් දෙනව. ඔබ අපි කෙරෙහි තබන විශ්වාසය , අබමල් රේණුවකින්වත් හානිවීමට ඉඩ නොතබන බවට අපි සහතික වෙනවා"  යැයි ජාතික ජනබල වේගය නායක , පාර්ලිමේන්තු මන්ත්‍රී අනුර කුමාර දිසානායක මහතා ගම්පහදී සදහන් කළේය.
+"As you fear and fear of the people in the past, the people are terrified and afraid of people. We give you one sure. We ensure that the confidence you put on we will not allow the damage to us, "MP Anura Kumara Dissanayake in Gampaha.
 
-ජාතික ජනබල වේගයේ  කාන්තා නියෝජනය දකිනවිට ඉදිරි ඡන්දයක් තියාවිද යන සැකය ඇතිවන  මුත් අධික කාන්තා සහභාගිත්වයක් දකිනවිට ඡන්දය නොතියා සිටීමට  බියවනු ඇති බවද  හෙතෙම පැවසීය.
+He said that when the women's representation of the national arost speed, there would be a continuing election.
 
-" ගැහැනු අපි එක මිටට මාලිමාවට " යන්න තේමා කරගනිමින්, ගම්පහ නගර සභා පිටියේ පැවති ජාතික ජනබල වේගය , ගම්පහ දිස්ත්‍රික් කාන්තා සමුළුව අමතමින් එසේ පැවසු අනුර දිසානායක මහතා මහතා තවදුරටත් අදහස් දක්වමින් මෙසේද කීය.
+Addressing the National Capital Speed at the Gampaha Municipal Council, saying:
+
+"Such a sense of women participation in such women's participation. Ambitation, determination, purpose and a good dream. Therefore, we too have strong faith, hope, that your uprising, assurance is assuredly a victory to our country. When the national apographical speed is piled up, delabited the electoral, when the presidential election will be held on October month, how can we have a little spouse.
 
 ...
 
 [Data](articles/f01a3f02.json)
 
+[Extended Data](ext_articles/f01a3f02.ext.json)
+
 ---
 
-### நான் தொடர்ந்தும்இனப்படுகொலையுடன் தொடர்புபட்டிருக்க விரும்பவில்லை - இஸ்ரேலிய தூதரகத்திற்கு வெளியே அமெரிக்க விமானப்படை வீரர் தீக்குளிக்க முயற்சி
+### I don't want to continue to be involved in the murder - US Air Force soldier tried to set fire to the Israeli embassy
 
 *2024-02-26 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177304) · `ta`
 
-காசா யுத்தத்திற்கு எதிர்ப்பு தெரிவிக்கும்வகையில் அமெரிக்க விமானப்படையை  சேர்ந்த ஒருவர் வோசிங்டனில் உள்ள இஸ்ரேலிய தூதரகத்திற்கு வெளியே தனக்குதானனே தீமூட்டிக்கொண்டார்  என  சர்வதேச ஊடகங்கள் செய்திவெளியிட்டுள்ளன.
+International media reports that a US Air Force personnel have set himself on the outside of the Israeli embassy in Wosnington, in protest of the Gaza War.
 
-உடனடியாக தீயை அணைத்த அமெரிக்க இரகசிய சேவையை சேர்ந்தவர்கள் அந்த நபரை மருத்துவமனையில் அனுமதித்துள்ளனர்.
+The man who immediately extinguished the fire was taken to the hospital.
 
-தீக்குளிக்க முயற்சித்த நபர் தொடர்ந்தும் ஆபத்தான நிலையில் காணப்படுகின்றார் அவர் விமானப்படையை சேர்ந்தவர் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+Officials said that the person who tried to set fire to the fire continues to be in danger.
 
-இராணுவசீருடையில் காணப்படும்  அந்த நான் தொடர்ந்தும்இனப்படுகொலையுடன் தொடர்புபட்டிருக்க விரும்பவில்லை என தெரிவிக்கும் இணையவீடியோவொன்று வெளியாகியுள்ளது.
+A web site has revealed that I am not interested in the massacre, which is still found in the military.
 
-தன்மேல்எரிபொருளை ஊற்றி தனக்குதானே தீமூட்டிக்கொள்வதற்கு முன்னர் அந்த நபர் சுதந்திர பாலஸ்தீனம் என கோசமிட்டார் என டைம்ஸ் செய்தி வெளியிட்டுள்ளது.
+The Times reports that the person was chanting as an independent Palestine before pouring fetuses himself.
 
-காசாவில் யுத்தம் ஆரம்பித்த பின்னர் வோசிங்டனில் உள்ள இஸ்ரேலிய தூதரகத்திற்கு முன்னால் தொடர்ச்சியாக ஆர்ப்பாட்டங்கள் இடம்பெறுகின்றமை குறிப்பிடத்தக்கது.
+It is noteworthy that there are a series of demonstrations in front of the Israeli embassy in Wosnington after the war began in Gaza.
 
 ◼️
 
 [Data](articles/36cf3ef7.json)
+
+[Extended Data](ext_articles/36cf3ef7.ext.json)
 
 ---
 
@@ -238,39 +306,45 @@ He is scheduled to be produced before the Mahara Magistrate's Court.
 
 [Data](articles/79e862c0.json)
 
+[Extended Data](ext_articles/79e862c0.ext.json)
+
 ---
 
-### காணி உரிமைக்கு பதிவு செய்ய அவசரத் தொலைபேசி இலக்கம்
+### Emergency Telephone to register for land ownership
 
 *2024-02-26 11:08:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-உரிமைக்கு-பதிவு-செய்ய-அவசரத்-தொலைபேசி-இலக்கம்/175-333819) · `ta`
 
-“உறுமய” தேசிய வேலைத் திட்டத்தின் ஊடாக மக்கள் தமது காணியின் முழுமையான உரிமையை அனுபவிக்கும் வாய்ப்பை வழங்கும் நோக்கில் அதற்காக விண்ணப்பிப்பதற்கு அவசரத் தொலைபேசி இலக்கமொன்று அறிமுகப்படுத்தப்பட்டுள்ளது.
+An emergency telephone number has been introduced to apply for the opportunity to enjoy the full rights of their land through the "Urumaya" National Program.
 
-தினமும் காலை 8.30 மணி முதல் இரவு 8.30 மணி வரை ஜனாதிபதி அலுவலகம், உறுமய தேசிய செயற்பாட்டு அலுவலகம், 1908 என்ற அவசரத் தொலைபேசி இலக்கம் மற்றும் 0114 354600/ 0114 354601 என்ற தொலைபேசி இலக்கத்துடன் தொடர்பு கொண்டு பொதுமக்கள் தமது கோரிக்கைகளைப் பதிவு செய்வதற்கான வசதிகள் செய்யப்பட்டுள்ளன.
+From 8.30 am to 8.30 pm, the President's Office, the Urumaya National Operations Office, the Emergency Telephone No. 1908 and the telephone number 0114 354600/0114 354601 have been provided with facilities to register their demands.
 
-www.tinyurl.com/urumaya (டிஜிட்டல் விண்ணப்பப் படிவம்) படிவத்தைப் பூர்த்தி செய்தும் இதற்கான பதிவுகளை மேற்கொள்ள முடியும் என அறிவிக்கப்பட்டுள்ளது.
+www.tiniurl.com/urumaya (Digital Application Form) has been announced that it can be completed by completing the form.
 
-1935 ஆம் ஆண்டின் 19 ஆம் இலக்க நில மேம்பாட்டுக் கட்டளைச் சட்டத்தின் மூலம் விவசாயிகள் மற்றும் குறைந்த வருமானம் பெறுபவர்களுக்கு நிபந்தனைகளுடன் கூடிய  அனுமதிப் பத்திரங்கள் / கொடுப்பனவுப் பத்திரங்கள் உள்ள அரசாங்கக் காணிகளை நிபந்தனைகளின்றி முழுமையான உரிமையை மக்களுக்கு வழங்குவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் 2024 வரவு - செலவுத் திட்டத்தில் முன்வைக்கப்பட்ட முன்மொழிவாகும்.
+Through the Land Development Ordinance of 1935, the proposal put forward by President Ranil Wickremesinghe in the budget by President Ranil Wickremesinghe to give the people the right of the people with the conditions of government lands that are conditional / allowances with conditions for farmers and low income earners.
 
 ...
 
 [Data](articles/3ecc1267.json)
 
+[Extended Data](ext_articles/3ecc1267.ext.json)
+
 ---
 
-### யாழ். வடமராட்சி கிழக்கு கடலில் சிக்கிய பாரிய சுறா
+### Yall. The massive shark trapped in the Vadamarachchi East Sea
 
 *2024-02-26 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177301) · `ta`
 
-யாழ்ப்பாணம் வடமராட்சி கிழக்கு கடல் பகுதியில் பெரியளவிலான சுறா மீன் ஒன்று கடற்தொழிலாளரின் வலையில் சிக்கியுள்ளது.
+A large shark fish in the Vadamarachchi East Sea in Jaffna is trapped in the trap of a fisherman.
 
-குறித்த சுறா சுமார் 3 ஆயிரத்து 700 கிலோ கிராம் என தெரிவிக்கப்படுகிறது.
+The shark is said to be about 3 thousand 700 kg.
 
-வடமராட்சி கிழக்கு உடுத்துறை பகுதியைச் சேர்ந்த கடற்தொழிலாளர் ஒருவரின் வலையில் சிக்கிய பெரியளவிலான சுறாவை கடுமையான போராட்டத்தின் மத்தியில், சக கடற்தொழிலாளர்களின் உதவியுடன் கரைக்கு கொண்டு வரப்பட்டுள்ளது.
+The large shark that was trapped in a trap of a fisherman from Vadamarachchi East Uttarakal has been brought to the shore with the help of fellow fishermen amidst fierce struggle.
 
 ◼️
 
 [Data](articles/18086451.json)
+
+[Extended Data](ext_articles/18086451.ext.json)
 
 ---
 
@@ -308,6 +382,8 @@ An exhibition of vintage stamps and coins was held over the weekend at the Publi
 
 [Data](articles/b8f7b02e.json)
 
+[Extended Data](ext_articles/b8f7b02e.ext.json)
+
 ---
 
 ### Composition of expert committee to be expanded
@@ -327,6 +403,8 @@ Furthermore, sources are of the opinion that the incident may have occurred due 
 ...
 
 [Data](articles/b3f30708.json)
+
+[Extended Data](ext_articles/b3f30708.ext.json)
 
 ---
 
@@ -352,19 +430,25 @@ As logging and farming encroach on elephant territory, young animals are capture
 
 [Data](articles/00565419.json)
 
+[Extended Data](ext_articles/00565419.ext.json)
+
 ---
 
-### மட்டு. கொக்கட்டிச்சோலையில் சுற்றுலா நீதிமன்றம் அமைப்பதற்கு நீதி அமைச்சர் அனுமதி
+### Bore. Minister of Justice to set up a tourism court in Kokkadicholai
 
 *2024-02-26 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177296) · `ta`
 
-கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சரும், மாவட்ட அபிவிருத்திக் குழு தலைவருமான சிவநேசதுறை சந்திரகாந்தனின் அழைப்பின் பேரில் மட்டக்களப்பு மாவட்டத்திற்கு இரண்டு நாள் விஜயத்தினை மேற்கொண்டுள்ள நீதி அமைச்சர் கலாநிதி விஜயதாச ராஜபக்ஸ மட்டக்களப்பு மாவட்டத்தின் நீதித்துறை சார்ந்த பல்வேறு கலந்துரையாடல்கள் மற்றும் கள விஷயங்களை மேற்கொண்டுள்ளார்.
+At the invitation of Sivanesathurai Chandrakanthan, the Minister of Rural Roads Development and District Development Committee, has made a two -day visit to the Batticaloa district.
 
-அந்த வகையில் மண்முனை தென்மேற்கு பிரதேசத்துக்குட்பட்ட கொக்கட்டிச்சோலைக்கான கள விஜயம் மேற்கொண்டிருந்த நீதி அமைச்சர் யுத்த காலத்திற்கு முன்னர் கொக்கட்டிச்சோலை"கிராமக்கோடு" இயங்கி வந்த இடத்தில் புதிய சுற்றுலா நீதிமன்றம் அமைப்பதற்கான அனுமதியை வழங்கியதோடு அவற்றுக்கான முனைப்பான நடவடிக்கைகளை முன்னெடுக்குமாறு சம்பந்தப்பட்ட அதிகாரிகளுக்கு பணிப்புரை விடுத்திருந்தார்.
+Accordingly, the Minister of Justice, who was on a field visit to the Kokkattikollai area of Manmunai southwest, gave permission to set up a new tourist court in Kokkadichcholai "Gramakkodu" and directed the relevant authorities to take action.
 
-...
+Rural Roads Development Minister and Chairman of Batticaloa District Development Committee, Sivanesathurai Chandrakanthan, Justice Minister Anuradha Jayaratne, Justice Secretary MN RanasinghePrashanthan, party youth secretary Shanmugalingam Sureskumar and many other members of the party were present.
+
+◼️
 
 [Data](articles/d6e2796b.json)
+
+[Extended Data](ext_articles/d6e2796b.ext.json)
 
 ---
 
@@ -410,43 +494,51 @@ The American intelligence officers near the embassy were hospitalized.
 
 ---
 
-### කොරියානු විභාගයට ප්‍රවේශපත්‍ර නිකුත් කරයි
+### Ticketing issues tickets for Korean examination
 
 *2024-02-26 10:26:06* · [`adalk`](https://www.ada.lk/breaking_news/කොරියානු-විභාගයට-ප්‍රවේශපත්‍ර-නිකුත්-කරයි/11-408275) · `si`
 
-2024 වර්ෂයට අදාලව පැවැත්විමට නියමිත කොරියානු භාෂා පරීක්ෂණය ප්‍රෙව්ශ පත්‍ර නිකුත් කිරිම 2024 පෙබරවාරි 26 සිට 29 දක්වා මාර්ග ගත ක්‍රමය ඔස්සේ පමණක් සිදුකරන බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කරයි.
+The Korean Language Examination testing of the Korean language test will be issued only between February 26 to 29 2024, the Sri Lanka Foreign Employment Bureau.
 
-කාර්යාංශයේ නිල වෙබ් අඩවියට (www.slbfe.lk) පිවිස Registration for Point System Examination -2024 (Manufacturing, Fishery, Construction, Shipbuilding, Service 1 & Service 2)‍ වෙත පිවිස අයදුම් කරුවන් සිය තොරතුරු ඇතුළත් කළ යුතුය. මෙම සබැදිය විවෘත වන්නේ 2024.2.26 සිට වන අතර එය 29 දක්වා විවෘතව පවති. ඉන්පසුව එම සබැදිය වසා දැමෙන අතර අයදුම් කිරිමටද නොහැකි වේ.
+Entering the official website of the Bureau (www.slbfe.lk) and enter the manufactolution, fisher, construction, construct, 1 & service.. The link is open from 2024.26 and is open until 29. The link then is closed and not able to apply.
 
-නිෂ්පොදන, ධීවර, නැව් කර්මාන්තය, ඉදකිරීම්, යන ප්‍රධාන ක්ෂේත්‍ර යටතේ  ‍සේවා1 සහ සේවා 2 යටතේ අයදුම් කළ යුතු වේ. විභාග ප්‍රවේශ පත්‍ර ලබාගැනීමට පහත සුදුසුකම් සපුරා තිබිය යුතුය.
+Applications should be applied to 1 and 2 services under the use of fisheries, fisheries, shipping, rifles, rims, main areas.The following qualifications should be met to obtain examination tickets.
+
+Being someone between the ages of 18 - 39 (born February 27, 19, 1984, a court guilty should be a fined, or fined. Also, under the Republic of Korea, the E-9 or E-10 should be a person who has not worked in South Korea for five years or more. (More details on this area can be accessed to the official website of the Bureau.)
 
 ...
 
 [Data](articles/47b5e665.json)
 
+[Extended Data](ext_articles/47b5e665.ext.json)
+
 ---
 
-### මියගිය සැමියාගේ සිරුර දින තුනක් නිවසේ තියාගෙන සිටිය බිරිඳක්
+### A wife who had died for three days at home
 
 *2024-02-26 10:20:49* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-සැමියාගේ-සිරුර-දින-තුනක්-නිවසේ-තියාගෙන-සිටිය-බිරිඳක්/11-408274) · `si`
 
-මියගිය සැමියාගේ මළසිරුර දින තුනක් පමණ නිවස තුල තබාගෙන සුරතලයට ඇතිකරන සුනඛයා සමග සිටී කාන්තාවක දොරවල් කඩා ඉවතට ගත්බව පානදුර දකුණ පොලිසිය පවසයි.
+Panadura South Police say the doors of a woman who is with a woman who is in the house for about three days in the house for about three days and had a woman with a woman who is in the house.
 
-පානදුර ඇටඹගොඩවත්ත ජනජය නිවාස සංකීර්ණයේ අඹුසැමි යුවලක් පමණක් පදිංචිව සිටින  නිවසකින් අධික දුගඳක් හමන බවට ඊයේ (25) රාත්‍රි පානදුර දකුණ පොලිසියට ලද තොරතුරක් මත පොලිස් නිළධාරින් පිරිසක් එහි ගොස් තිබේ.
+Angam Atambigamuwa Janage Janage alone a couple of residents of the housing scheme has gone to a tip off received yesterday (25).
 
-පොලිස් කණ්ඩායම් එහි යනවිට මියගොස් ඇති පුද්ගලයා ගේ බිරිද  නිවසේ දොරගුලු වසාගෙන සිට ඇති බවත් ඒවා කඩා නිවසට ඇතුළුවී පරීක්ෂා කිරීමේදී ඇදක් මත මුනින් අතට තිබූ මළසිරුර සොයාගත් බවත් පොලිසිය කීය.
+The victim's wife had covered the gates of the deceased as the victim was covered with the gunshots and was found in a bed when they were broken into the home.
 
-පානදුර ඇටඹගොඩවත්ත, ජනජය නිවාස සංකීර්ණයේ පදිංචිව සිටී අත්තනායක මුදියන්සේලාගේ ජගත් බණ්ඩාර නමැති (52) හැවිරිදි  පුද්ගලයකු මෙලෙස මියගොස් ඇති බව පොලිසිය කීය.
+The deceased has been identified as Attigguewatta, Panadura, Panadanaya, a resident of Attanayake.
 
-මියගොස් ඇති පුද්ගලයා ගේ බිරිඳ කිසියම් මානසික රෝග තත්ත්වයකින් පෙලෙන බවට සැක පලකරන උසස් පොලිස් නිළධාරීයෙක් කීය.
+The victim's wife, a high-minor police officer, spoke to a mental illness.
 
-පානදුර කොට්ඨාස අපරාධ ස්ථාන පරීක්ෂණාගාර නිළධාරීන්ද එදින රාත්‍රි යේම  පරීක්ෂණ සිදුකරන ලදී.
+Panadura Division Criminal Laboratory Laboratory Laboratory Laboratory Laboratory was conducted that night.
 
-මෘතදේහය පශ්චාත් මරණ පරීක්ෂණය සදහා පානදුර මූලික රෝහලට රැගෙන යනු ලැබීය.
+The body was taken to the Panadura Base Hospital for the post mortem.
 
-...
+Senior Superintendent of Police Samantha Wedge, Assistant Inspector Nishantha Senaratne holds to the headquarters Inspector Upul Priyankara.
+
+◼️
 
 [Data](articles/49c9ed21.json)
+
+[Extended Data](ext_articles/49c9ed21.ext.json)
 
 ---
 
@@ -590,19 +682,21 @@ Mohamed Rilvan, who was injured in the shooting, has been admitted to the Colomb
 
 ---
 
-### රුසියානුවන්ට හා යුක්රේනියානුවන්ට දින 14කින් රටින් පිටවෙන්නැයි කීම ගැන ජනපති නියමයෙන් විමර්ශනයක්
+### President orders an investigation into the Russian and Ukrainians to leave the country in 14 days
 
 *2024-02-26 09:20:49* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානුවන්ට-හා-යුක්රේනියානුවන්ට-දින-14කින්-රටින්-පිටවෙන්නැයි-කීම-ගැන-ජනපති-නියමයෙන්-විමර්ශනයක්/11-408273) · `si`
 
-දීර්ඝ කාලීනව ශ්‍රී ලංකාවේ රැදී සිටින රුසියානු හා යුක්රේන ජාතිකයන්ට දින 14ක කාලයක් තුළදී රටින් පිටවන ලෙස දැනුම් දෙන්නැයි ආගමන විගමන පාලක විසින් සංචාරක අමාත්‍යාංශයේ ලේකම්වරයා වෙත මීට දින කිහිපයකට පෙරාතුව ලිඛිතව දන්නා තිබුණි.
+The Controller of the Immigration and Emigration was known to the Secretary to the Ministry of Finance and the Ministry of the Ministry of Immigration and Ukrainians to leave the country within 14 days.
 
-කෙසේ වෙතත් නිසි කැබිනට් අවසරයකින් තොරව මෙවැනි තීරණයක් ගැනීම සම්බන්ධයෙන් විමර්ශනයක් පවත්වන ලෙස ජනපති රනල් වික්‍රමසිංහ මහතා මේ වන විට අදාළ අංශ වෙත උපදෙස් දී ඇති බව ජනපති මාධ්‍ය අංශය පවසයි.
+However, President Ranal Wickremesinghe has instructed the relevant divisions to conduct an investigation into the decision making regarding the decision without the permission without proper cabinet.
 
-ශ්‍රී ලංකා රජය මේ සම්බන්ධයෙන් තීරණයක් ගෙන නොමැති බවත් රුසියනු හා යුක්රේන සංචාරකයන්ට ලබාදී ඇති වීසා දිගු කිරීම අවලංගු කිරීමට මේ දක්වා තීරණයක් ගෙන නොමැති බවත් ජනපති මාධ්‍ය අංශය වැඩිදුරටත් පවසයි.
+The President has no decision to cancel the extension of visas for the Sri Lankan government has decided this.
 
 ◼️
 
 [Data](articles/93ca414d.json)
+
+[Extended Data](ext_articles/93ca414d.ext.json)
 
 ---
 
@@ -954,6 +1048,8 @@ In a hurriedly released statement, the President’s Media Division said that th
 
 [Data](articles/67b9cbb9.json)
 
+[Extended Data](ext_articles/67b9cbb9.ext.json)
+
 ---
 
 ### Long term Ukraine, Russian tourists asked to leave
@@ -1071,6 +1167,28 @@ In the Negombo Divisional Criminal Unit, the Negombo Criminal Unit has also reco
 [Data](articles/06b15350.json)
 
 [Extended Data](ext_articles/06b15350.ext.json)
+
+---
+
+### රතු වරෙන්තු: අපරාධකරුවන් මෙරටට ගෙන්වා ගන්නේ කෙසේද ?
+
+*2024-02-26 06:54:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqv6n51g6xwo) · `si`
+
+රට තුළ ක්‍රියාත්මක වන මත්ද්‍රව්‍ය සහ සංවිධානාත්මක අපරාධ මැඩලීමට පසුගිය දෙසැම්බර් මස 17 වෙනිදා සිට ආරම්භ කෙරුණු යුක්තියේ මෙහෙයුමට අද (පෙබරවාරි 26වැනිදා) වන විට දින 70ක් ගෙවී ගොස් අවසන් ය.
+
+පාතාලයට සහ මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ පුද්ගලයින් විදේශගතව සිටිමින් මෙරට තුළ එවැනි ක්‍රියාකාරකම් කරන බවට කරුණු හෙළි වී ඇති බව පොලිසිය අවස්ථා ගණනාවක දී ප්‍රකාශ කර තිබේ.
+
+වෙඩි තැබීම් රැල්ලට හේතුව ඝාතන කොන්ත්‍රාත්ද? සංවිධානාත්මක කල්ලි අතර ගැටුම්ද?
+
+විදේශගතව සිටියදි අත්අඩංගුවට ගෙන මෙරටට රැගෙන පැමිණි අපරාධකරුවන් කවුද ?
+
+විදේශ ගතව සිට මෙරට තුළ සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාවාරම් මෙහෙයවනු ලබන පුද්ගලයින් නීතියේ රැහැනට හසුකර ගැනීමට කටයුතු කළ අවස්ථා කිහිපයක් මෑත කාලයේදී දැක ගත හැකිවිය.
+
+2015 වසරේදී ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ ජාවාරම්කරුවකු ලෙස ප්‍රසිද්ධියට පත්ව ශ්‍රී ලංකාවට අවශ්‍යව සිටි සමන්ත කුමාර නොහොත් 'වෙලේ සුදා' පකිස්ථානයේදි අත්අඩංගුවට ගෙන මෙරටට රැගෙන එන ලදී.
+
+...
+
+[Data](articles/236b6478.json)
 
 ---
 
@@ -1887,95 +2005,5 @@ Specialist Dr. Amila Sasanka Ratnage, speaking at the occasion,
 [Data](articles/c5aca1b0.json)
 
 [Extended Data](ext_articles/c5aca1b0.ext.json)
-
----
-
-### Sajobe's posts in a government's posts not to shoot
-
-*2024-02-25 21:17:23* · [`adalk`](https://www.ada.lk/breaking_news/සජ‌බේ-රජයක-තනතුරු-දෙන්නේ-සුර-සැප-විදින්න-නෙමෙයි/11-408270) · `si`
-
-The reconciliation respond to a woman's Charter, which is forgotten to provide the best tragic status of the leading society of Sri Lanka, not to make other political parties, but the country's leading community in Sri Lanka.The Opposition Leader said that not in the year 2019 but not today.
-
-The biggest challenge of the country is not political partnership and how to make economic growth, not a dream, and the challenges of the benefits of benefits to all, the leadership of the opposition is not considered.Sajith Premadasa said.
-
-Opposition Leader Sajith Premadasa made this statement in Kandy, Mahanavarara and Damrowani Dhammani Dhammani Dhammani Dhammani Dhammani, Mahanaekara and Asgiriya Chapter Dhammani Dhammani.
-
-Samagi folk force. M. F.. The Opposition Leader said that the people had a clear vision and that the masses would agree with the people and the people will face the issue and the challenges of the masses.
-
-...
-
-[Data](articles/af487209.json)
-
-[Extended Data](ext_articles/af487209.ext.json)
-
----
-
-### Father has been accused of daughter's death
-
-*2024-02-25 20:52:07* · [`adalk`](https://www.ada.lk/breaking_news/දියණියගේ-මරණය-ගැන-පියාගෙන්-රිජ්වේ-රෝහලට-චෝදනාවක්/11-408269) · `si`
-
-Her father, Upul Priyantha says that his daughter has been accused of a holiday staff of the Hall staff of the Head of the Heart.
-
-The victim was a 3-month old year old, a resident of Palanwatta, Pannipitiya, Pannipitiya, Pannipitiya.
-
-She is the crowd of Yasara Ranmini and the couple of Upul Priyantha 33.
-
-The father says that his daughter had used New Moonia due to the non-treatment of the children of his daughter.
-
-The child's father says that the hospital staff had not been treated at the ward, which was admitted to the Lady of Lady 8th January 8.
-
-He further said that although he had been treated by a doctor, he had been treated with a slightly healed her daughter and her daughter was in the case of the 21st after the 21st of his daughter.
-
-The father added that his daughter had died on the morning 24 night.
-
-Lady Ridgeway Hospital Medical Director Ji.When contacted, Wijesuriya said:
-
-...
-
-[Data](articles/53b6a23f.json)
-
-[Extended Data](ext_articles/53b6a23f.ext.json)
-
----
-
-### Good news to university level staff
-
-*2024-02-25 20:42:31* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-කාර්ය-මණ්ඩලයට-සුබ-ආරංචියක්/11-408268) · `si`
-
-State Universities In 2016 Salary Anomalies Since 2016The Ministry of Education has announced that the Ministry of Education has presented the Memorandum of the Ministry of Education based on the report of the committee report.
-
-The Ministry of Education expects to take a policy decision on the Cabinet Memorandum and the Ministry will act according to the next approximate period of the next approximate district.
-
-◼️
-
-[Data](articles/8164028e.json)
-
-[Extended Data](ext_articles/8164028e.ext.json)
-
----
-
-### Information about the shooting of jampaavi
-
-*2024-02-25 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193817) · `si`
-
-Several further information has been revealed that the shooting incident of the Colombo Jumphendiya police post.
-
-The shooting was shot dead, 55-year-old Mohamed Relwan.
-
-It is revealed that the victim was a strong drug dealer, Pookunduknana, a strong drug dealer.
-
-The police suspect that the shooting has been made as a result of a dispute between Rimantukman and Kudu Selvi's son.
-
-The shooting was carried out at around 1.45 pm at the NewHam Square near the police checkpoint.
-
-The victim was rushed to the Colombo National Hospital.
-
-Two persons from a motorbike have come to a chicken shooting near a chicken shooting and shooting.
-
-◼️
-
-[Data](articles/cc491689.json)
-
-[Extended Data](ext_articles/cc491689.ext.json)
 
 ---

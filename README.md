@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 16:03:07**
+As of **2024-02-26 16:17:26**
 
 ## Newspaper Stats
 
-*Scraped **9,360** Articles*
+*Scraped **9,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 492
 islandlk | 495
-adalk | 788
+adalk | 789
 adaderanalk | 1,129
-tamilmirrorlk | 1,151
+tamilmirrorlk | 1,152
 virakesarilk | 1,273
 dailymirrorlk | 1,410
-adaderanasinhalalk | 1,417
+adaderanasinhalalk | 1,418
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,360 (100.0%) of 9,360 articles have been extended.
+9,360 (100.0%) of 9,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### පාසල් ළමුන් ප්‍රවාහනය කරමින් තිබූ බස් රථයක් ඇළකට පෙරළෙයි
+
+*2024-02-26 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193844) · `si`
+
+අම්පාර ප්‍රදේශයේදී පාසල් ළමුන් ප්‍රවාහනය කරමින් තිබූ බස් රථයක් ඇළකට පෙරළීයාමෙන් අනතුරක් සිදුව තිබේ.
+
+අනතුර සිදුවන අවස්ථාවේ බස් රථයේ ළමුන් 30කට ආසන්න ප්‍රමාණයක් සිට ඇති බවට තොරතුරු වාර්තා වෙයි.
+
+අම්පාර ප්‍රදේශයේදී පාසල් ළමුන් ප්‍රවාහනය කරමින් තිබූ බස් රථයක් ඇළකට පෙරළීයාමෙන් අනතුරක් සිදුව තිබේ.
+
+අනතුර සිදුවන අවස්ථාවේ බස් රථයේ ළමුන් 30කට ආසන්න ප්‍රමාණයක් සිට ඇති බවට තොරතුරු වාර්තා වෙයි.
+
+අනතුරින් තුවාල ලැබූ පාසල් සිසුන් පස්දෙනෙකු ප්‍රතිකාර සඳහා රෝහල්ගතකර තිබේ.
+
+◼️
+
+[Data](articles/b10ed34f.json)
+
+---
 
 ### Air Force Exhibition in Jaffna
 
@@ -55,6 +75,22 @@ For these exhibitions free for school students and the entry fee for others is 1
 [Data](articles/6749c043.json)
 
 [Extended Data](ext_articles/6749c043.ext.json)
+
+---
+
+### What is Sri Lanka in countries that are sold at high prices?
+
+*2024-02-26 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177344) · `ta`
+
+Sri Lanka is the second largest apple fruit in the world.
+
+The Visitor Index posted on its X site that Numbeo, the world's largest living database, has published it.
+
+◼️
+
+[Data](articles/4c8bc164.json)
+
+[Extended Data](ext_articles/4c8bc164.ext.json)
 
 ---
 
@@ -111,22 +147,6 @@ The planetarium will be closed due to essential maintenance of projected machine
 [Data](articles/19f9ebc4.json)
 
 [Extended Data](ext_articles/19f9ebc4.ext.json)
-
----
-
-### What is Sri Lanka in countries that are sold at high prices?
-
-*2024-02-26 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177344) · `ta`
-
-Sri Lanka is the second largest apple fruit in the world.
-
-The Visitor Index posted on its X site that Numbeo, the world's largest living database, has published it.
-
-◼️
-
-[Data](articles/4c8bc164.json)
-
-[Extended Data](ext_articles/4c8bc164.ext.json)
 
 ---
 
@@ -293,6 +313,20 @@ The U.S. wants a reformed Palestinian Authority to govern Gaza once the war is o
 [Data](articles/bae48d7f.json)
 
 [Extended Data](ext_articles/bae48d7f.ext.json)
+
+---
+
+### எதிர்க்கட்சிகளைப் போல திரள்வோம்
+
+*2024-02-26 14:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகளைப்-போல-திரள்வோம்/175-333825) · `ta`
+
+93 வருடங்களாகப் பாதுகாக்கப்பட்டு வந்த பாராளுமன்ற ஜனநாயகத்தை அழிக்க சபாநாயகருக்கு இடமளிக்கப் போவதில்லை .பாராளுமன்ற பாரம்பரியத்தையும் சுதந்திரத்தையும் பாதுகாக்க எதிர்க்கட்சிகளைப் போன்று திரள்வதாகவும் பாராளுமன்ற உறுப்பினர் பேராசிரியர் ஜீ.எல்.பீரிஸ் இன்று (26) தெரிவித்துள்ளார்.
+
+மேலும், சபாநாயகருக்கு எதிரான நம்பிக்கையில்லாப் பிரேரணையின் கையொப்பம் எதிர்க்கட்சித் தலைவர் தலைமையில் இன்று இடம்பெற்றதாகத் தெரிவித்த பேராசிரியர், அரசியல் சாசனத்தை மீறி இணையவழி பாதுகாப்புச் சட்டம் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டதாகவும் பேராசிரியர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/2b33b733.json)
 
 ---
 
@@ -701,6 +735,28 @@ Sri Lanka said it was ready to accept the appointment if the US Senate approved 
 [Data](articles/808e6762.json)
 
 [Extended Data](ext_articles/808e6762.ext.json)
+
+---
+
+### රිවස් එකට ගොස් ලෝක වාර්තාවක් තැබීමට යයි
+
+*2024-02-26 12:04:13* · [`adalk`](https://www.ada.lk/sports/රිවස්-එකට-ගොස්-ලෝක-වාර්තාවක්-තැබීමට-යයි/9-408280) · `si`
+
+ගුවන් හමුදාවේ හිටපු සෙබළකු තම ත්‍රි රෝද රථය කිලෝ මිටර් 72 ක් අඩුම කාලයකින්  පසුපසට ධාවනය කරමින් ලෝක වාර්තාවක් තැබිම සදහා උත්සහයක නිරත වි 26 දින සිදුවිය.
+
+මෙලෙස ත්‍රි රෝද රථය පසුපසට ධාවනය කරමින් ලෝක වාර්තාවක් තැබිමට සුදානම් වන්නේ ශ්‍රී ලංකා ගුවන් හමුදාවේ සේවය කර විශ්‍රාම ගොස් සිටින මදුරන්කුලිය මුක්කුතොඩුවාව පදිංචි ඉන්ද්‍රනායක මුදියන්සේලාගේ ලක්ෂමන් නිශාන්ත කුමාර නැමති 45 හැවිරිදි  දරුවන් පස් දෙනෙකුගෙ පියෙකී.
+
+ත්‍රී රෝද රථයක  පටුපසට ධාවනය කරමින් මුක්කුතොඩුවාව ගම්මානයේ සිට  මදුරන්කුලිය නගරයට පැමිණ අනතුරුව පුත්තලම කොළඹ ප්‍රධාන මාර්ගයේ බත්තුළුඔය මාර්ග  බාධකය වෙත පැමිණ   නැවතත් ආපසු මුක්කුතොඩුවාව  ගම්මානයට පැමිණියේය.
+
+මෙම අවස්ථාව දැක බලා ගැනීමට විශාල  පිරිසක් මඟ දෙපස රැඳී සිටිමින්  සිටිමින් ඔහුව ධෛර්යමත් කරන්නට කටයුතු අයුරු දක්නට ලැබිණි.
+
+පැයට කිලෝමීටර් හතළිහත් පනහත් අතර වේගයෙන්  ධාවනය කළ ඔහු මෙම දුර ප්‍රමාණය පැය 2 යි  විනාඩි 33 කින් නිම කිරීමට සමත් විය.
+
+කිසිදු උපද්‍රවයකින් තොරව සාර්ථක අන්දමින් මෙම  ක්‍රියාව නිම කළ ඔහු  ගම්මානයේ ජනතාව උණුසුම් අන්දමින් පිළිගත්හ.
+
+...
+
+[Data](articles/230d2e38.json)
 
 ---
 
@@ -1977,61 +2033,5 @@ The Department of Meteorology has also forecast rainfall in the Sabaragamuwa Pro
 [Data](articles/2aa4e560.json)
 
 [Extended Data](ext_articles/2aa4e560.ext.json)
-
----
-
-### Street Development Project Beginning on the 29th
-
-*2024-02-26 04:20:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதி-அபிவிருத்தி-திட்டம்-29-ஆம்-திகதி-ஆரம்பம்/175-333804) · `ta`
-
-Another phase of the project to develop one million kilometers of rural roads will be launched on the 29th.
-
-The Director General of the Road Development Authority, LVS, says the project is being implemented nationwide.. Weerakoon said. (A)
-
-◼️
-
-[Data](articles/5b96bb39.json)
-
-[Extended Data](ext_articles/5b96bb39.ext.json)
-
----
-
-### Presidential first - Ranil assures Patali
-
-*2024-02-26 04:03:07* · [`dailyftlk`](https://www.ft.lk/news/Presidential-first-Ranil-assures-Patali/56-758856) · `en`
-
-Patali meets President Ranil Wickremesinghe to discuss Common Minimum Plan proposed by URF
-
-Wickremesinghe expresses agreement with need to form an alliance to implement proposed program
-
-Stresses that neither a general election nor a referendum would take place before a Presidential poll
-
-Patali Champika Ranawaka says URF will discuss plan with all parties except for SLPP
-
-President Ranil Wickremesinghe yesterday assured United Republic Fund (URF) leader Patali Champika Ranawaka that Presidential elections will be held as scheduled. The President said the Presidential election will be held first, with a parliamentary expected to follow in early 2025.
-
-The President provided this assurance during his meeting with Ranawaka yesterday at the United National Party (UNP) headquarters, Sirikotha. The discussion centred on the URF’s recently revealed Common Minimum Plan, which aims to revive the nation.
-
-...
-
-[Data](articles/45ec8e53.json)
-
-[Extended Data](ext_articles/45ec8e53.ext.json)
-
----
-
-### India to deport Rajiv Gandhi assassination convict to SL
-
-*2024-02-26 04:00:22* · [`dailyftlk`](https://www.ft.lk/news/India-to-deport-Rajiv-Gandhi-assassination-convict-to-SL/56-758855) · `en`
-
-Indian authorities on Friday issued an order for the deportation of Santhan, also known as Thilliampalam Suthenthiraraja, a convict in the 1991 Rajiv Gandhi assassination case, to Sri Lanka. Santhan, aged 55, was granted premature release in November 2022 after serving 32 years in prison and is currently staying in a special camp within the Trichy central jail premises.
-
-The Indian Foreigners Regional Registration Office (FRRO) in Chennai issued the exit permit for Santhan’s deportation on Friday. Depending on his wishes, Santhan is likely to be able to return to Sri Lanka as early as this week.
-
-...
-
-[Data](articles/300397b7.json)
-
-[Extended Data](ext_articles/300397b7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 12:17:38**
+As of **2024-02-26 12:32:58**
 
 ## Newspaper Stats
 
-*Scraped **9,301** Articles*
+*Scraped **9,304** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 95
 bbccomsinhala | 112
 dbsjeyarajcom | 165
 newsfirstlk | 363
-economynextcom | 467
+economynextcom | 469
 dailyftlk | 492
 islandlk | 494
 adalk | 779
@@ -20,49 +20,77 @@ adaderanalk | 1,123
 tamilmirrorlk | 1,147
 virakesarilk | 1,261
 dailymirrorlk | 1,396
-adaderanasinhalalk | 1,407
+adaderanasinhalalk | 1,408
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,299 (100.0%) of 9,301 articles have been extended.
+9,301 (100.0%) of 9,304 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### කථානායකට එරෙහි විශ්වාසභංගයට අත්සන් තැබීම ඇරඹේ
+### Signing of the no-confidence in the speaker begins
 
 *2024-02-26 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193834) · `si`
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතා පාර්ලිමේන්තුවේ විශ්වාසයත් ආණ්ඩුක්‍රම ව්‍යවස්ථාවත් උල්ලංඝනය කර ඇති බව පවසමින් සමගි ජන බලවේගය ප්‍රමුඛ සමගි ජන සන්ධානය කථානායකවරයාට විරුද්ධව විශ්වාසභංග යෝජනාවට අත්සන් තැබීම ආරම්භ කර තිබේ.
+The reconciliation alliance leading the reconciliation of the reliability of Parliament Mahinda Yapa Abeywardena has launched a no-confidence proposal against the Speaker.
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ මූලිකත්වයෙන් මේ විශ්වාසභංග යෝජනාව ගෙන ඒම සඳහා සමගි ජන බලවේගය සහ සමගි ජන සන්ධානය නියෝජනය කරමින් පාර්ලිමේන්තු මන්ත්‍රී එම්. ඒ. සුමන්තිරන්, ලක්ෂ්මන් කිරිඇල්ල, ජී. ඇල්. පීරිස්, තිස්ස අත්තනායක, චන්දිම වීරක්කොඩි සහ ශාන් විජයලාල් ද සිල්වා මහතා ඇතුළු පිරිසක් අත්සන් විශ්වාසභංග යෝජනාවට අත්සන් කර තිබේ.
+Opposition Leader Sajith Premadasa led to this no-confidence motion and reconciliation alliance. it. Sumanthiran, Lakshman Kiriella, G. Also. Peiris, Tissa Attanayake, Chandima Weerakkody and Shan Wijayalal De Silva have signed a no-confidence motion.
 
-එම විශ්වාසභංග යෝජනාව තුළින් මාර්ගගත සුරක්ෂිතභාවය සම්බන්ධ පනත් කෙටුම්පතේ 13, 17, 20, 33 (6), 34 (1),  35 (1), 21, 22, 31 වගන්ති සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය විසින් ලබා දී ඇති යෝජනා නොසලකා කටයුතු කර ඇති බව මෙහි සඳහන් වේ.
+The no-confidential proposal on the security proposition of online safety is 13, 17, 20, 33 (6, 33), 34 (3), 35 (1), 3, 21, 31 of the Supreme Court has been ignored by the Supreme Court.Is.
+
+Also, a powerful problem has been made by the Supreme Court's decisions in the forestry of the Bill, due to the fact that the bill has been given by the Supreme Court, has come up with a powerful issue of the parliament.The Human Rights Commission of Sri Lanka (HRC) has stated in a letter to the Speaker.
 
 ...
 
 [Data](articles/58957c2e.json)
 
+[Extended Data](ext_articles/58957c2e.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවේ ඉන්ධන විකුණන්න එන අලුත්ම සමාගම
+### The latest company to sell fuel in Sri Lanka
 
 *2024-02-26 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193833) · `si`
 
-ශ්‍රී ලංකාවේ ඉන්ධන වෙළෙඳපොළ තරගකාරීත්වය වැඩිකරමින් තවත් විදේශීය සමාගමක් මෙරට වෙළෙඳපොළට අවතීර්ණ වී තිබේ.
+Another foreign company has entered the local market by increasing the fuel market competition in Sri Lanka.
 
-එම සමාගම සහ විදුලිබල සහ බලශක්ති අමාත්‍යංශය අතර ගිවිසුම පසුගිය 22 වනදා අත්සන් කර තිබේ.
+The agreement between the company and the Ministry of Power and Energy has been signed on the 22nd.
 
-දැනට මෙරට ක්‍රියාත්මක වන ඉන්ධන පිරවුම්හල් 150ක් එම සමාගම ට පැවරීමට නියමිත අතර තවත් ඉන්ධන පිරවුම්හල් 50ක් ඔවුන් විසින් ස්ථාපනය කිරීමට නියමිතය.
+There are 150 filling stations in the country will be transferred to the company and 50 more filling stations will be established by them.
 
-ශ්‍රී ලංකාව තුළ මෙහෙයුම් කටයුතු සිදුකිරීම සඳහා ඔවුන් විසින් "යුනයිටඩ් පෙට්‍රෝලියම් ලංකා ලිමිටඩ්" නමින් සමාගමක් ලියාපදිංචි කර තිබේ.
+They have registered a company called "United Petroleum Lanka Limited" to carry out operations in Sri Lanka.
 
 ◼️
 
 [Data](articles/228c229c.json)
+
+[Extended Data](ext_articles/228c229c.ext.json)
+
+---
+
+### දක්ෂිණ අධිවේගයේ තවත් බිහිසුණු අනතුරක් - ජීවිතයක් අහිමිවෙයි
+
+*2024-02-26 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193832) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ කොට්ටාව සහ කහතුඩුව අතර කිලෝමීටර්  4 දශම 1 කණුව අසලදී අද (26) අලුයම බිහිසුණු අනතුරක් සිදුව තිබිණි.
+
+කුඩා ලොරි රථයක් ඉදිරියෙන් ගමන්ගත් ලොරියක ගැටීමෙන් අනතුර සිදුව තිබූ අතර, රෝහල්ගත කළ කුඩා ලොරි රථයේ රියදුරු ජීවිතක්ෂයට පත්ව තිබේ.
+
+අනතුරින් තුවාල ලැබූ පුද්ගලයින් තිදෙනෙක් රෝහල්ගත කළ අතර ඒ අතර බරපතළ තත්ත්වයෙන් සිටි රියදුරු මෙලෙස මියගොස් ඇත.
+
+පෑලියගොඩ මාළු වෙළෙඳ සංකීර්ණය වෙත මාළු මිලදී ගැනීම සඳහා රත්ගම සිට යමින් සිටි පුද්ගලයන් තිදෙනෙකු රැගත් ලොරියක් මෙලෙස හම්බන්තොට සිට කුරුණෑගල දක්වා සිමෙන්ති ප්‍රවාහනය කරමින් තිබූ ලොරියේ පිටුපස ගැටීමෙන් අනතුරට ලක්ව තිබිණි.
+
+අනතුර සිදු වූ වහාම එම ස්ථානයට ළඟා වූ ගැලණිගම රථවාහන ඒකකයේ නිලධාරීන් සහ ගිනිනිවීමේ හා ජීවිත ගලවා ගැනීමේ ඒකකයේ පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් විනාඩි 20ක පමණක් මෙහෙයුමකින් අනතුරුව යාන්ත්‍රික උපකරණ භාවිතා කරමින් කුඩා ලොරිය තුළ සිරවී සිටි පුද්ගලයන් තිදෙනා දැඩි වෙහෙසක් දරා ලොරියෙන් පිටතට ගන්නා අයුරු ජංගම දුරකථනයක ද සටහන්ව තිබිණි.
+
+කුඩා ලොරි රථයේ රියදුරුට නින්ද යෑම අනතුරට හේතුවන්නට ඇතැයි පොලීසිය සැක පළ කරයි.
+
+...
+
+[Data](articles/8f42a3d7.json)
 
 ---
 
@@ -207,6 +235,26 @@ The deceased woman has traveled in a three -wheeler with her 14 -year -old daugh
 [Data](articles/58459553.json)
 
 [Extended Data](ext_articles/58459553.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 310.70/311.00 to the US dollar
+
+*2024-02-26 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-310-70-311-00-to-the-us-dollar-152069/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 310.70/311.00 to the US dollar Monday, from 310.95/311.05 on Thursday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted at 10.95/11.05 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.90/12.00 percent from 11.90/12.05 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.25/12.35 percent.
+
+The Colombo Stock Exchange opened up; The All Share Price Index was up 0.17 percent at 10,673, the S&P SL20 was up 0.32 at 3,074.(Colombo/Feb26/2024)
+
+◼️
+
+[Data](articles/12255f91.json)
 
 ---
 
@@ -439,6 +487,26 @@ The deceased has been identified as Roshan Kumara Vithanage, 51, who had been se
 [Data](articles/6fa44acc.json)
 
 [Extended Data](ext_articles/6fa44acc.ext.json)
+
+---
+
+### Sri Lanka central bank salary hikes show lack of accountability for its actions
+
+*2024-02-26 08:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-salary-hikes-show-lack-of-accountability-for-its-actions-152064/) · `en`
+
+ECONOMYNEXT – The steep salary hikes of Sri Lanka’s central bank after the inflation the agency itself created, has drawn public and legislators’ ire, but the deeper problem is that it is yet another sign of the lack of accountability in the new monetary law.
+
+Some legislators are upset that the Parliament’s control of public finances has been usurped by the ‘independent’ central bank.
+
+But Sri Lanka’s central bank has a history of topping up pensions also to cover for inflation  – whether low or high  – while giving low interest loans for staff.
+
+This is questionable because unlike other SOEs, the central bank itself is responsible for cutting rates and driving up inflation and interest rates to stabilize the currency after blowing a hole in the balance of payments.
+
+The practice of transferring billions to defined-benefit pension staff funds when inflation and interest rates are down, can perhaps be excused as a reward for not triggering monetary instability.
+
+...
+
+[Data](articles/e4e96f25.json)
 
 ---
 
@@ -1963,63 +2031,5 @@ Infantry, hospital sources said that the infant's condition was serious.
 [Data](articles/bca9187a.json)
 
 [Extended Data](ext_articles/bca9187a.ext.json)
-
----
-
-### TM Dilshan gains Australian citizenship
-
-*2024-02-25 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97523/tm-dilshan-gains-australian-citizenship) · `en`
-
-Former Sri Lankan cricketer Tillakaratne Dilshan has been granted Australian citizenship, as confirmed by Australian MP Jason Wood in a social media post.
-
-TM Dilshan, renowned for his explosive batting style, played a pivotal role in numerous victories for the Sri Lankan cricket team throughout his career. The 47-year-old’s acquisition of Australian citizenship marks a new chapter in his life post-retirement from professional cricket.
-
-“Today’s citizenship ceremony was made even more special with the attendance of Tillakaratne Dilshan, a former Sri Lankan cricketer and captain of the Sri Lanka national cricket team.
-
-“Dilshan is regarded as the best Sri Lankan player in run-chases in ODI history. He also holds the record for being the top run scorer in the 2011 ICC Cricket World Cup with 500 runs and scored a century against England in the semi-final. Additionally, he was part of the Sri Lankan team that won the 2014 ICC World Twenty20,” the MP posted on social media.
-
-...
-
-[Data](articles/09c0169b.json)
-
-[Extended Data](ext_articles/09c0169b.ext.json)
-
----
-
-### Colombo shooting today
-
-*2024-02-25 16:16:24* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-කොළඹ-වෙඩි-ප්‍රහාරයක්/11-408267) · `si`
-
-According to the DIG Talduuwa, a shooting owner of a chicken selling owner in New Nathham Street, Colombo, said that the man was injured and hospitalized.
-
-Mohamed Relwan, 57, was injured in the shooting.
-
-The shooting was a motorbike with two people from a motorcycle while he was sitting in a chair.
-
-◼️
-
-[Data](articles/aa8c01ab.json)
-
-[Extended Data](ext_articles/aa8c01ab.ext.json)
-
----
-
-### SriLankan Airlines denies TU action for flight delays
-
-*2024-02-25 16:15:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-denies-tu-action-for-flight-delays-152053/) · `en`
-
-ECONOMYNEXT – State-owned SriLankan Airlines denied any trade union action for the delay of its flights at the country’s main airport early on Sunday.
-
-Airport sources said four SriLankan Airlines flights faced delay and a frustrated ground handling staff were unable to coop up with the situation after the delays.
-
-“SriLankan Airlines would like to clarify that the delays experienced by its passengers at the check-in counters in Bandaranaike International Airport during the early hours of this morning, were caused by temporary, unplanned operational conditions at the airport and not due to any type of trade union action,” SriLankan said in a statement.
-
-“The check-in counter operations have been stabilized and returned to normal as of now,” said the firm which is now seeking opportunities for divestment under the government’s restructuring plans of state-owned enterprises reforms.
-
-...
-
-[Data](articles/fb4f5886.json)
-
-[Extended Data](ext_articles/fb4f5886.ext.json)
 
 ---

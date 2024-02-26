@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 00:02:41**
+As of **2024-02-27 00:17:21**
 
 ## Newspaper Stats
 
-*Scraped **9,428** Articles*
+*Scraped **9,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 799
 adaderanalk | 1,139
 tamilmirrorlk | 1,157
 virakesarilk | 1,287
-dailymirrorlk | 1,422
+dailymirrorlk | 1,424
 adaderanasinhalalk | 1,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,428 (100.0%) of 9,428 articles have been extended.
+9,428 (100.0%) of 9,430 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,38 @@ These petitions were called before the Supreme Court Bench comprised of Journali
 [Data](articles/2a09da11.json)
 
 [Extended Data](ext_articles/2a09da11.ext.json)
+
+---
+
+### Half of issued public service telephone numbers inactive, unreachable: University report reveals
+
+*2024-02-26 22:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Half-of-issued-public-service-telephone-numbers-inactive-unreachable-University-report-reveals/108-277755) · `en`
+
+Colombo, Feb 26 (Daily Mirror) - Nearly half of the telephone numbers provided to public service officials are inactive and unreachable, a survey conducted by the Peradeniya University Economics and Statistics Department has revealed.
+
+According to them, the survey was conducted across the country, covering the telephone numbers posted on the website of the Regional Secretariat office of Grama Niladhari officials, Samurdhi Development Officers and Development Officers who perform their duties in each Divisional Secretariat of the country.
+
+It has been considered whether the particular numbers given are in use and whether the number responds when dialled and provides answers. Accordingly, a total of 589 telephone numbers were surveyed, and 286 of them were found to be inactive.
+
+Meanwhile, the report reveals that 22 percent of the phone numbers are active but do not respond, while 29 percent of the calls were responded to, the report said.
+
+◼️
+
+[Data](articles/9283f5fc.json)
+
+---
+
+### Court of Appeal recognises applicability of RTI Act on State bank exam
+
+*2024-02-26 22:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-of-Appeal-recognises-applicability-of-RTI-Act-on-State-bank-exam/108-277775) · `en`
+
+Colombo, Feb. 26 (Daily Mirror)- The Court of Appeal delivered a judgment recognising the applicability of the provisions of the Right to Information Act (RTI Act) in respect of a competitive examination conducted to recruit employees to a State run bank.
+
+The Court of Appeal delivered a judgment dismissing an appeal filed by Bank of Ceylon challenging the Right to Information Commission's decision to provide information pertaining to the competitive examination conducted by the Department of Examinations to recruit Trainee Staff Assistants.
+
+...
+
+[Data](articles/fc62dca7.json)
 
 ---
 
@@ -1949,55 +1981,5 @@ Sri Lanka said it was ready to accept the appointment if the US Senate approved 
 [Data](articles/808e6762.json)
 
 [Extended Data](ext_articles/808e6762.ext.json)
-
----
-
-### Riveds go to go and put a world record
-
-*2024-02-26 12:04:13* · [`adalk`](https://www.ada.lk/sports/රිවස්-එකට-ගොස්-ලෝක-වාර්තාවක්-තැබීමට-යයි/9-408280) · `si`
-
-An ex-soldier of the Air Force opened his three-wheeler at least 72 kilometers at least to set a world record.
-
-The three-wheeler driving backwards a world record is ready to set a world record in the Sri Lanka Air Force, who is a father of five, 45-year-old children who have been retired from the Sri Lanka Air Force.
-
-The mukkotagoda village from the Mukkotagodu village to the Madurankuliya area on the Colombo-Colombo main road was returned to the Madurankuliya Village on the Colombo-Colombo main road.
-
-A large number of people were staying at the path to see the occasion and courageously.
-
-Fifty kilometers per hour, he was running fast and completed this distance in 2 hours and 33 minutes.
-
-He completed this action without any hazards and accepted the people of the village in warm.
-
-Officers of the Madarakankuliya and Mundalama Police were protected him.
-
-Nishantha Bandara said that a world record was established and honoring the country.
-
-Nishantha, a SLAF soldier, is a specialized person.
-
-...
-
-[Data](articles/230d2e38.json)
-
-[Extended Data](ext_articles/230d2e38.ext.json)
-
----
-
-### United Petroleum Australia enters Sri Lanka’s retail fuel market
-
-*2024-02-26 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97538/united-petroleum-australia-enters-sri-lankas-retail-fuel-market-) · `en`
-
-United Petroleum Australia Pty Ltd has entered into a contract with Sri Lanka’s Ministry of Power and Energy to supply petroleum products into the local market.
-
-The agreement was signed on 22 February by Secretary to the Ministry of Power and Energy Dr. Sulakshana Jayawardena on behalf of the Government of Sri Lanka, and Eddie Hirsch, on behalf of United Petroleum Australia, in his capacity as the owner of the company.
-
-The Australian-owned petroleum retailer and importer has been assigned 150 fuel stations across Sri Lanka, and has also been given the right to build 50 new fuel stations.
-
-Accordingly, United Petroleum Australia incorporated a company in Sri Lanka under the name ‘United Petroleum Lanka Pvt. Ltd.’, to carry out operations within the country, with former Ceylon Petroleum Corporation (CEYPETCO) Board Member Dr. Prabath Samarasinghe having been appointed as the Director and CEO of the company.
-
-...
-
-[Data](articles/c45c6276.json)
-
-[Extended Data](ext_articles/c45c6276.ext.json)
 
 ---

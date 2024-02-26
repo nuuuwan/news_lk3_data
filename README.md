@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 11:17:13**
+As of **2024-02-26 11:33:16**
 
 ## Newspaper Stats
 
-*Scraped **9,298** Articles*
+*Scraped **9,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 467
 dailyftlk | 492
 islandlk | 494
 adalk | 779
-adaderanalk | 1,122
+adaderanalk | 1,123
 tamilmirrorlk | 1,147
 virakesarilk | 1,261
 dailymirrorlk | 1,396
@@ -26,11 +26,33 @@ adaderanasinhalalk | 1,405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,297 (100.0%) of 9,298 articles have been extended.
+9,298 (100.0%) of 9,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Two arrested for aiding and abetting shooting in Lellama
+
+*2024-02-26 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97536/two-arrested-for-aiding-and-abetting-shooting-in-lellama-) · `en`
+
+Two persons have been arrested in connection with a murder that took place in Lellama, Negombo in August 2023.
+
+According to police, the arrestees had reportedly aided and abetted the shooters by hiding the motorcycle they had used to carry out the shooting.
+
+The suspects, aged 32 and 40, have been identified as residents of the Baduwatte and Ambalayaya areas in Katana.
+
+The motorcycle used by the gunmen was also subsequently recovered by the Negombo Crimes Division, based on information received while interrogating the suspects.
+
+On 12 August 2023, two unidentified gunmen had arrived on the motorcycle in question and opened fire at a 25-year-old youth at Lellama, Negombo.
+
+The youth, identified as a resident of the Pitipana area, was immediately rushed to the Negombo Hospital, however, was later pronounced dead.
+
+◼️
+
+[Data](articles/f877a68f.json)
+
+---
 
 ### Convener of the People's Union of Kelaniya arrested CID
 
@@ -95,6 +117,8 @@ As logging and farming encroach on elephant territory, young animals are capture
 ...
 
 [Data](articles/3e467bde.json)
+
+[Extended Data](ext_articles/3e467bde.ext.json)
 
 ---
 
@@ -2009,29 +2033,5 @@ In addition to the coastal police OIC Chief Inspector Sanath Ranjith, Colombo Cr
 [Data](articles/d91f89de.json)
 
 [Extended Data](ext_articles/d91f89de.ext.json)
-
----
-
-### Plans to connect Hambantota port with Myanmar Harbor
-
-*2024-02-25 15:54:27* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-වරාය-මියන්මාර-වරාය-සමඟ-සම්බන්ධ-කිරීමට-සැලසුම්/11-408265) · `si`
-
-President Ranil Wickremesinghe stressed the importance of being actively using the widespread investment in the infrastructure of the Hambantota area.
-
-The President has planned to be connected to the Hambantota port with Myanmar Port and further expanding to the Chongki Port and Africa.
-
-President Ranil Wickremesinghe made this statement at the Presidential Secretariat recently regarding the Western, Eastern and Hambantota Town City Development Plan.
-
-The Eastern Province and the Western Province of Colombo and tourism zonal development plans and urban development plans were also informed of new investment opportunities.
-
-The President also revealed the plan to establish new investment zones using thousands of acres in Moneragala.
-
-The President also pointed out the importance of developing the new towns, including the strategic capabilities of Awissawella and Eheliyagoda to reduce urban congestion.
-
-...
-
-[Data](articles/76257cd8.json)
-
-[Extended Data](ext_articles/76257cd8.ext.json)
 
 ---

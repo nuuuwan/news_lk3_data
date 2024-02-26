@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 10:33:09**
+As of **2024-02-26 10:50:43**
 
 ## Newspaper Stats
 
-*Scraped **9,293** Articles*
+*Scraped **9,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 467
 dailyftlk | 492
 islandlk | 494
-adalk | 777
+adalk | 779
 adaderanalk | 1,121
 tamilmirrorlk | 1,147
 virakesarilk | 1,261
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,403
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,290 (100.0%) of 9,293 articles have been extended.
+9,295 (100.0%) of 9,295 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ President Wickremesinghe stressed the importance of leveraging the extensive inv
 
 [Data](articles/8bff08d5.json)
 
+[Extended Data](ext_articles/8bff08d5.ext.json)
+
 ---
 
 ### Orange for Rs 2,000 - the latest way
@@ -62,37 +64,41 @@ The second village of orange cultivation is established in the village of Muruth
 
 ---
 
-### விபத்தில் மனைவி பலி; கணவர் மற்றும் இரண்டு குழந்தைகள் படுகாயம்
+### Wife killed in accident;Husband and two children hurt
 
 *2024-02-26 09:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-மனைவி-பலி-கணவர்-மற்றும்-இரண்டு-குழந்தைகள்-படுகாயம்/175-333816) · `ta`
 
-தங்கல்ல பிரதேசத்தில் இருந்து மாத்தறை நோக்கி பயணித்த லொறியொன்று தலல்ல பிரதேசத்தில் வைத்து முச்சக்கர வண்டியில் மோதியதில் பெண் உயிரிழந்துள்ளார்.
+A woman was killed when a lorry traveling from Thangalla area to Matara was killed in a three -wheeler.
 
-அத்துடன், கணவன் மற்றும் இரண்டு பிள்ளைகள் உட்பட நால்வர் படுகாயமடைந்து தலல்ல வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக கந்தர பொலிஸார் தெரிவித்தனர். .
+In addition, four persons, including husband and two children, have been admitted to the Talalla hospital, Kandara police said that they have been admitted to the hospital.. .
 
-இந்த விபத்தில் உயிரிழந்தவர் கப்பரவெல்ல கொட்டகொட பகுதியைச் சேர்ந்த 31 வயதுடையவர் என பொலிஸார் தெரிவித்தனர்.
+The deceased was 31 years old from Kottakoda area, police said.
 
-உயிரிழந்த பெண் தனது 14 வயது மகள் மற்றும் பதினொரு மாத ஆண் குழந்தை மற்றும் மற்றுமொரு உறவினருடன் முச்சக்கரவண்டியில் பயணித்துள்ளதுடன், பெண்ணின் கணவர் முச்சக்கரவண்டியை ஓட்டிச் சென்றுள்ளார்.
+The deceased woman has traveled in a three -wheeler with her 14 -year -old daughter and an eleven -month -old boy and another relative and the woman's husband drove the three -wheeler.
 
 ◼️
 
 [Data](articles/58459553.json)
 
+[Extended Data](ext_articles/58459553.ext.json)
+
 ---
 
-### துப்பாக்கிச்சூட்டில் ஒருவர் உயிரிழப்பு
+### Death
 
 *2024-02-26 09:32:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-உயிரிழப்பு/175-333815) · `ta`
 
-எல்பிட்டிய, பத்திராஜவத்த பிரதேசத்தில் வீடொன்றில் வைத்து பொது சுகாதார பரிசோதகர் ஒருவர் சுட்டுக்கொல்லப்பட்டுள்ளார்.
+A public health inspector has been shot dead in a house in Patrajawatta, Elpitiya.
 
-இன்று (26) காலை 07.00 மணியளவில் மோட்டார் சைக்கிளில் வந்த இருவரே துப்பாக்கிச் சூடு நடத்தியதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that two motorcyclists were firing at around 07.00 am today.
 
-கரந்தெனிய பிரதேசத்தில் பொது சுகாதார பரிசோதகராக பணியாற்றிய 51 வயதுடைய ரொஷான் குமார விதானகே என்ற நபரே துப்பாக்கிச் சூட்டுக்கு இலக்காகி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 51 -year -old Roshan Kumara Vidhanage, a 51 -year -old man who worked as a public health inspector in Karandeniya, was shot dead, police said.
 
 ◼️
 
 [Data](articles/cffe398f.json)
+
+[Extended Data](ext_articles/cffe398f.ext.json)
 
 ---
 
@@ -137,6 +143,22 @@ His potential extended or permanent appointment comes on the heels of the nation
 [Data](articles/d44dea62.json)
 
 [Extended Data](ext_articles/d44dea62.ext.json)
+
+---
+
+### Dilshan gets citizenship in Australia
+
+*2024-02-26 09:10:15* · [`adalk`](https://www.ada.lk/sports/ඩිල්ෂාන්-ඔස්ට්‍රේලියාවේ-පුරවැසිභාවය-ලබා-ගනියි/9-408272) · `si`
+
+Sri Lanka's former Sri Lanka captain Tilakaratne Dilshan has obtained the citizenship of Australia. At a ceremony held on the 24th of this month, he obtained citizenship in the country on the 24th of this month.
+
+Dilshan, including Dilshan, departed to Dilshan for years ago. Dilshan's elder daughter is currently in Australia.
+
+◼️
+
+[Data](articles/0bf26240.json)
+
+[Extended Data](ext_articles/0bf26240.ext.json)
 
 ---
 
@@ -471,6 +493,24 @@ The man is still suffering from mental illness.
 [Data](articles/52a62399.json)
 
 [Extended Data](ext_articles/52a62399.ext.json)
+
+---
+
+### The Central Bank is ready to explain wages
+
+*2024-02-26 07:48:54* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩි-කර-ගැනීම-ගැන-පැහැදිලි-කිරීමට-මහ-බැංකුව-සූදානම්ලු/11-408271) · `si`
+
+2024-2026 References and statements of the last salary revision approved by the Board of Directors who approached trade unions regarding the period of 2024-2026.The Central Bank has said that the Central Bank has inspected how many news has been published in the media.
+
+The Central Bank is the opportunity to communicate with parliamentary committee, as the central bank will be able to explain the opportunity to discuss the recent central bank salary amendment process and the reasons for revision of salaries.The Governing Board (SL) asked the Governor at the Governing Board of Governors on February 21, 2024 to request a statement in terms of Section 16 (2).. Accordingly, a written request was made on February 22, 2024 by the Governor.
+
+The Central Bank is ready to explain its position in a time when the Central Bank is available or to provide information.
+
+◼️
+
+[Data](articles/9a88621e.json)
+
+[Extended Data](ext_articles/9a88621e.ext.json)
 
 ---
 
@@ -1995,41 +2035,5 @@ Meanwhile, the MP has also stated about the residents of Dilshan's daughter and 
 [Data](articles/8056db83.json)
 
 [Extended Data](ext_articles/8056db83.ext.json)
-
----
-
-### Russian Embassy issues statement on controversial night event in Unawatuna
-
-*2024-02-25 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97522/russian-embassy-issues-statement-on-controversial-night-event-in-unawatuna) · `en`
-
-In response to recent controversy surrounding a planned night event in Unawatuna, the Russian Embassy in Colombo has issued a statement condemning all forms of racial discrimination and nationalism.
-
-It said the event in question had been organized with a “dress-code: white” theme by a group of entrepreneurs. According to unconfirmed data, however, the Embassy stated that the main promoter and the bar owners who had agreed to accommodate the party have been identified as Russian citizens.
-
-Amidst confusion and concerns regarding entry conditions, however, the organizers had later issued apologies and clarified that their intentions were not to cause harm, and subsequently called off the event.
-
-Issuing a statement, the Russian Embassy emphasized Russia’s firm stance against such injustices and expressed a commitment to combatting them.
-
-Additionally, the embassy urged all Russian citizens visiting or residing in Sri Lanka to strictly adhere to the country’s laws and respect local customs.
-
-◼️
-
-[Data](articles/898866e0.json)
-
-[Extended Data](ext_articles/898866e0.ext.json)
-
----
-
-### Gazan Fire Fuelled By Western Genocide Enablers With A Scrambled Moral Compass!
-
-*2024-02-25 15:12:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/gazan-fire-fuelled-by-western-genocide-enablers-with-a-scrambled-moral-compass/) · `en`
-
-As the brutal Gazan genocide is being continually livestreamed into our living rooms, two social media posts which addresses the failing humanity should engage our attention. “When you need to have hundreds of protests just to tell the world that bombing innocent civilians and children is not OK, that is when you know that humanity has failed”. Then, “Gaza today has become the moral compass of the world. Gaza was hell before October 7 and the world was silent. Should we be surprised at their silence now. If you are not appalled by what is happening in Gaza, if you are not shaken to your core, there is something wrong with your humanity”.
-
-...
-
-[Data](articles/944e3294.json)
-
-[Extended Data](ext_articles/944e3294.ext.json)
 
 ---

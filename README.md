@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 15:02:38**
+As of **2024-02-26 15:17:20**
 
 ## Newspaper Stats
 
-*Scraped **9,344** Articles*
+*Scraped **9,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,127
 tamilmirrorlk | 1,151
 virakesarilk | 1,270
 dailymirrorlk | 1,404
-adaderanasinhalalk | 1,412
+adaderanasinhalalk | 1,413
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,344 (100.0%) of 9,344 articles have been extended.
+9,344 (100.0%) of 9,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### පලස්තීන අගමැති ඉල්ලා අස්වෙයි
+
+*2024-02-26 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193839) · `si`
+
+පලස්තීන බටහිර ඉවුරේ පාලනය හිමිකරගෙන සිටි අගමැති  Mohammad Shtayyeh ගේ රජය ඉල්ලා අස්වී ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවූ අගමැති  Mohammad Shtayyeh පැවසුවේ තමා ජනාධිපති  මාමුද් අබ්බාස් ට සිය ඉල්ලා අස්වීමේ ලිපිය ලබාදුන් බවයි.
+
+◼️
+
+[Data](articles/dadcfb01.json)
+
+---
 
 ### Thiruvalluvar Kurupusai Day in Jaffna
 
@@ -2007,25 +2021,5 @@ Little noticed was the murder of Maksim Kuzminov, a Russian helicopter pilot who
 [Data](articles/1a583a35.json)
 
 [Extended Data](ext_articles/1a583a35.ext.json)
-
----
-
-### Tax is not a Monster, but…
-
-*2024-02-26 01:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Tax-is-not-a-Monster-but/172-277678) · `en`
-
-The reason for such mockery aimed at the recent taxes is the sheer disregard by the government for the two main principles of taxation, namely fairness and consistency
-
-These days, tax has become the talk of the town, the laughing-stock and the attractive subject matter for cartoonists. The general public perceives it as a ‘legalized robbery’ executed by the state using rules and regulations, backed by the threat of legal consequences for non-compliances.
-
-The reason for such mockery aimed at the recent taxes, is the sheer disregard by the government of the two main principles of taxation, namely the fairness (ability to pay) and consistency.
-
-This perception of ‘legalized robbery’ is gaining momentum among the general public especially in the backdrop of the unparalleled financial crisis and sky-rocketing cost of living, while the income of the public has been drastically slashed.
-
-...
-
-[Data](articles/8d7c4779.json)
-
-[Extended Data](ext_articles/8d7c4779.ext.json)
 
 ---

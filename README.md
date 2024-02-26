@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 14:17:29**
+As of **2024-02-26 14:33:22**
 
 ## Newspaper Stats
 
-*Scraped **9,337** Articles*
+*Scraped **9,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 492
 islandlk | 495
-adalk | 785
+adalk | 787
 adaderanalk | 1,127
-tamilmirrorlk | 1,150
+tamilmirrorlk | 1,151
 virakesarilk | 1,269
 dailymirrorlk | 1,404
-adaderanasinhalalk | 1,410
+adaderanasinhalalk | 1,411
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,336 (100.0%) of 9,337 articles have been extended.
+9,337 (100.0%) of 9,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### උරුමය ඉල්ලීමට ක්ෂණික දුරකථන අංකයක්
+
+*2024-02-26 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193837) · `si`
+
+“උරුමය” ජාතික වැඩසටහනින් ප්‍රජාව වෙත සිය භූමියේ සින්නක්කර අයිතිය භුක්ති විඳීමේ අවස්ථාව ලබාදීම සඳහා ඉල්ලුම් කිරීමට ක්ෂණික දුරකථන අංකයක් හඳුන්වා දී තිබේ.
+
+1908 ක්ෂණික ඇමතුම් අංකය සහ දුරකථන අංක 0114 354 600 හෝ 0114 354 601 ඔස්සේ ජනාධිපති කාර්යාලයේ, උරුමය ජාතික මෙහෙයුම් කාර්යාලය සමඟ සම්බන්ධ වීමට අවස්ථාව සලසා දී ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+ඒ අනුව දිනපතා පෙරවරු 8.30 සිට රාත්‍රී 8.30 දක්වා ලියාපදිංචි වීම සඳහා අවස්ථාව හිමි වනු ඇති.
+
+එමෙන්ම උරුමය වෙබ් අඩවියේ පවතින පෝරමය පිරවීම මඟින් ද අදාළ අවශ්‍යතාව ඉටුකිරීමට පහසුකම් සලසා දී තිබේ.
+
+◼️
+
+[Data](articles/000fa916.json)
+
+---
+
+### இலங்கைக்கு வரும் புதிய எரிபொருள் நிறுவனம்
+
+*2024-02-26 13:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-வரும்-புதிய-எரிபொருள்-நிறுவனம்/175-333823) · `ta`
+
+இலங்கையின் எரிபொருள் சந்தையின் போட்டித்தன்மையை அதிகரிக்கும் வகையில் மற்றுமொரு வெளிநாட்டு நிறுவனம் இலங்கை சந்தையில் காலடி வைத்துள்ளது.
+
+அவுஸ்திரேலியாவின் "யுனைடெட் பெட்ரோலியம்" நிறுவனமே இலங்கையில் எரிபொருள் விற்பனையை ஆரம்பிக்க உள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இது தொடர்பில், அந்த நிறுவனத்துக்கும் மின்சாரம் மற்றும் எரிசக்தி அமைச்சுக்கும் இடையே கடந்த 22ம் திகதி ஒப்பந்தம் கையெழுத்தாகியுள்ளது.
+
+நாட்டில் தற்போது இயங்கி வரும் 150 எரிபொருள் நிரப்பு நிலையங்கள் அந்த நிறுவனத்துக்கு மாற்றப்படவுள்ளதுடன் மேலும் 50 எரிபொருள் நிரப்பு நிலையங்கள் புதிதாக நிறுவப்பட உள்ளன.
+
+இலங்கையில் எரிபொருள் விநியோக நடவடிக்கைகளை மேற்கொள்வதற்காக "யுனைடெட் பெட்ரோலியம் லங்கா லிமிட்டெட்" என்ற நிறுவனத்தை பதிவு செய்துள்ளதாக தகவல் வெளியாகி உள்ளது.
+
+◼️
+
+[Data](articles/23a27ee8.json)
+
+---
 
 ### Convenor of Kelaniya Uni. Students’ Union arrested by CID
 
@@ -47,6 +85,8 @@ The suspect is due to be produced before the Mahara Magistrate’s Court today, 
 ◼️
 
 [Data](articles/711afd0f.json)
+
+[Extended Data](ext_articles/711afd0f.ext.json)
 
 ---
 
@@ -119,6 +159,28 @@ Richardmarles, who said that the Russian president and the government are respon
 [Data](articles/8a383878.json)
 
 [Extended Data](ext_articles/8a383878.ext.json)
+
+---
+
+### මහෙස්ත්‍රාත් තුමියනි මගේ මරණය ගැන ‌බිරිඳ දරුවන් සැක කරන්න එපා
+
+*2024-02-26 12:54:19* · [`adalk`](https://www.ada.lk/breaking_news/මහෙස්ත්‍රාත්-තුමියනි-මගේ-මරණය-ගැන-‌බිරිඳ-දරුවන්-සැක-කරන්න-එපා/11-408281) · `si`
+
+මැදවච්චිය, ලුණුපැහිච්චාව ගම්මානයේ සිව් දරු පියෙකු පොලිස් ස්ථානාධිපතිවරයෙකුගෙන් හිරි හැර යැයි පවසා ලිපියක් ලියා සිය දිවි හානි කරගෙන ඇත. මෙලෙස මියගොස් ඇත්තේ පී.චන්දනසිරි නැමිති
+
+ලුණුපැහිච්චාව ගම්මානයේ පදිංචි ගොවිමහතකි. දිගින් දිගටම විවිධ චෝදනා එල්ල කරමින් නිරපරාදේ නඩු
+
+පනවමින් මෙම ගොවි මහතාට මෙම ස්ථානාධිපතිවරයා හිරි හැර කර ඇති බව එම ලිපියේ සඳහන්ව ඇත.
+
+අනතුරුව එම ලිපිය සමග මෙලෙස මිය ගිය තැතැත්තා ගම්වාසීන් හට හමු වී ඇති බව පොලිසිය කියයි.
+
+මෙම මියගිය සිරුර මැදවච්චිය රෝහල වෙත ඇතුලත් කරමින් අනතුරුව මරණ පරික්ෂණය සිදු කර ඇත. එහිදී
+
+විවෘත තීරණයක් ලබා දී ඇති අතර සිරුරේ කොටස් වැඩිදුර පරික්ෂණ සදහා මැදවච්චිය හදීසි මරණ පරික්ෂක වෛද්‍ය වරයා රස පරික්ෂක කාර්යාලය වෙත යෙමු කර ඇත. මෙම සිදුවීම පිළිබඳ විශේෂ පොලිස් කණ්ඩායමක් මේ වන විට පරික්ෂණ ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/f16d3a8f.json)
 
 ---
 
@@ -351,6 +413,22 @@ He then doused himself in a clear liquid and set himself on fire, screaming "Fre
 [Data](articles/bd4cb655.json)
 
 [Extended Data](ext_articles/bd4cb655.ext.json)
+
+---
+
+### වියළි කාලගුණය එළවළු වගාවට වින කරයි
+
+*2024-02-26 11:52:09* · [`adalk`](https://www.ada.lk/breaking_news/වියළි-කාලගුණය-එළවළු-වගාවට-වින-කරයි/11-408279) · `si`
+
+දැඩි වියළි කාලගුණික තත්ත්වය හා මේ දිනවල අලුයම් කාලයේ පවතින සීතල හේතුවෙන් උඩරට එළවළු වගා බිම්  රැසක් විනාශවීමේ අවදානමට  ලක්ව ඇතැයි උඩරට  එළවළු ගොවීහු පවසති.
+
+ඩයගම, ආගරපතන, හෝල්බෲක්, මනරාසිය හා ඒ ආශ්‍රිතව වතුවල වගා කොට ඇති කුඩා පරිමාණයේ එළවළු වගා බිම් මෙසේ විනාශවීයාමේ අවදානමට ලක්ව ඇති බවත්, පවතින වියළි කාලගුණික තත්ත්වය බෝංචි වගාවන්ට දැඩි ලෙස බලපා ඇතැයි ඔවුහු සඳහන් කරති.
+
+බෝංචි වගාවන් රැසක් මේ වනවිටත් කොළ වියළී ගොස්   විනාශ වී යමින් පවතින  බවත්, දැඩි ආර්ථික අපහසුතා මැද්දේ ඉතාමත් අසීරුවෙන්  වගා කොට ඇති එළවළු වගාවන් මෙසේ විනාශවීයාම හේතුවෙන් තමන් දැඩි ආර්ථික දුෂ්කරතාවයන්ට ලක්ව ඇති බවද උඩරට එළවළු ගොවීහු වැඩිදුරටත් පවසති.
+
+◼️
+
+[Data](articles/ec2db88b.json)
 
 ---
 
@@ -1939,85 +2017,5 @@ AMW is known for its innovation and commitment to quality, catering to its loyal
 [Data](articles/f7136e96.json)
 
 [Extended Data](ext_articles/f7136e96.ext.json)
-
----
-
-### 2024-02-25 (Sunday)
-
-### Navigating the economic reawakening and sustainable growth
-
-*2024-02-25 23:48:12* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-the-economic-reawakening-and-sustainable-growth/4-758814) · `en`
-
-Sri Lanka cannot promote its export sector while having an unproductive tariff structure and restrictions on imports
-
-No country can get out of poverty, or indebtedness without having sustained economic expansion. It is the economic surplus that is produced that will be used to reduce poverty through new investments and repay the creditors without being indebted further. However, growth is necessary but not sufficient to sustain the expansion of an economy. Growth will produce a higher volume of goods and services for consumption by people. But unless the people within the country have purchasing power to buy the same, producers will find that they are saddled with unsold stocks
-
-...
-
-[Data](articles/0cd7e59b.json)
-
-[Extended Data](ext_articles/0cd7e59b.ext.json)
-
----
-
-### The struggle of the education community in Batticaloa
-
-*2024-02-25 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177281) · `ta`
-
-Due to the political selfishness of the Eastern Province, some people who are now receiving the best results in the Eastern Province, due to the political selfishness, some of the Educational Workshops in the Batticaloa District, Principals, Teachers, Teachers' Education WorkshopWelfare Organizations, Principals, Teachers and Trade Unions staged a protest demonstration.
-
-In a very peaceful demonstration, those who had to end the demonstration here, who had to end up with the removal of Udayarupan, who did not apply to the Teacher Service and the Trade Union Service.
-
-The protest was carried out in accordance with the theme not to insult the principals of the dedicated teacher community. At this time, the teacher union members made comments to the media about their protests.
-
-◼️
-
-[Data](articles/3db9abdc.json)
-
-[Extended Data](ext_articles/3db9abdc.ext.json)
-
----
-
-### 31,000 Ukrainian troops killed since the start of Russia’s full-scale invasion, Zelenskyy says
-
-*2024-02-25 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97531/31000-ukrainian-troops-killed-since-the-start-of-russias-full-scale-invasion-zelenskyy-says) · `en`
-
-Ukrainian President Volodymyr Zelenskyy said Sunday that 31,000 Ukrainian soldiers have been killed in action in the two years since Russia launched its full-scale invasion.
-
-Zelenskyy said that the number was far lower than estimates given by Russian President Vladimir Putin’s government.
-
-“31,000 Ukrainian military personnel have been killed in this war. Not 300,000, not 150,000, not whatever Putin and his deceitful circle have been lying about. But nevertheless, each of these losses is a great sacrifice for us”, Zelenskyy said at the “Ukraine. Year 2024” forum in Kyiv.
-
-The Ukrainian leader said that he wouldn’t disclose the number of troops that were wounded or missing. He also said that “tens of thousands of civilians” had been killed in occupied areas of Ukraine, but said that no exact figures would be available until the war was over.
-
-“We don’t know how many of our civilians they killed. We don’t,” he said.
-
-...
-
-[Data](articles/859146ce.json)
-
-[Extended Data](ext_articles/859146ce.ext.json)
-
----
-
-### Pope Francis urges diplomatic solution to Ukraine war on anniversary of invasion
-
-*2024-02-25 22:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97530/pope-francis-urges-diplomatic-solution-to-ukraine-war-on-anniversary-of-invasion) · `en`
-
-Pope Francis on Sunday called for a diplomatic solution to the war in Ukraine that would lead to a just and lasting peace, as the second anniversary of Russia’s invasion was marked a day earlier.
-
-“So many victims, wounded, destruction, anguish, and tears in a period that is becoming terribly long and whose end is not in sight. It is a war that not only devastates that region but also unleashes global waves of hate and fear”, Pope Francis said during his weekly Angelus message.
-
-“I plead for that little bit of humanity to be found to create the conditions for a diplomatic solution in search of a just and lasting peace”, he said.
-
-Heads of the Group of Seven major democracies on Saturday pledged to stand by war-weary Ukraine, and Western leaders travelled to Kyiv to show solidarity on the second anniversary of Russia’s invasion.
-
-Francis said he was also concerned about escalating violence in the east region of the Democratic Republic of Congo (DRC).
-
-...
-
-[Data](articles/6dba0b69.json)
-
-[Extended Data](ext_articles/6dba0b69.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 20:50:30**
+As of **2024-02-26 21:02:39**
 
 ## Newspaper Stats
 
-*Scraped **9,407** Articles*
+*Scraped **9,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 493
 islandlk | 495
-adalk | 796
+adalk | 797
 adaderanalk | 1,136
 tamilmirrorlk | 1,156
-virakesarilk | 1,283
+virakesarilk | 1,285
 dailymirrorlk | 1,416
 adaderanasinhalalk | 1,426
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 1,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,407 (100.0%) of 9,407 articles have been extended.
+9,410 (100.0%) of 9,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Management and Trade Unions should be held accountable for Sri Lankan flight - Minister Nimal Siripala
+
+*2024-02-26 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177377) · `ta`
+
+If Sri Lanka cannot run the airline properly, it will have to be closed. Ports that the company's management and the weakness of the unions are due to the delay in the airline service. Nimal Siripaladi Silva, Minister of Shipping and Airlines.
+
+He was speaking at a special press conference held at the Ministry of Ports, Shipping and Airlines on Monday (26).
+
+Sri Lanka's airline's airline at Katunayake airport last Saturday caused a delay in the air service due to the failure of the airline.. As a result, the passengers who arrived at the airport became furious.
+
+In case of a plane crashing for some reason, it is impossible. It is the duty of the company's managers to make alternative arrangements. But the trade unions and managers have been disturbed by the reputation of the Sri Lankan airline, which has made passengers uncomfortable without taking action.
+
+...
+
+[Data](articles/22fa286b.json)
+
+[Extended Data](ext_articles/22fa286b.ext.json)
+
+---
+
+### Compete in the PA?Or not?President to decide - Mahinda Rajapaksa
+
+*2024-02-26 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177376) · `ta`
+
+President Ranil Wickremesinghe should first decide whether or not to contest our party or not.
+
+He was speaking to the media after a meeting with party members at the Sri Lanka PA's head office in Battaramulla on Monday (26).
+
+Answer - We have talked about a number of issues, including the issues facing the political party and the opposition to the future national elections.. Then we will discuss the political alliance.
+
+Question - Who is the Presidential candidate of the Sri Lanka PA?
+
+Answer - The party's executive council will decide who should field the presidential candidate. He must first decide whether or not our party is a member of our party.
+
+Question - Like you, Namal Rajapaksa is currently going to the idols?
+
+Answer - Son should go on the path that the father went. He is the Buddhist, so he goes to the idols.
+
+Question - United People's Power. ??
+
+◼️
+
+[Data](articles/151b08dc.json)
+
+[Extended Data](ext_articles/151b08dc.ext.json)
+
+---
 
 ### Deshabandu Tennakoon appointed as IGP
 
@@ -48,7 +96,7 @@ Colombo, Feb. 26 (Daily Mirror) - President Ranil Wickremesinghe has appointed D
 
 ### Deshand Tennakoon's assignment as Inspector General of Police
 
-*2024-02-26 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177375) · `ta`
+*2024-02-26 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177375) · `ta`
 
 Tennakoon received his appointment letter as the 36th Police Inspector of Police on Monday (26) from the President's Secretary.
 
@@ -281,6 +329,30 @@ The Ministry of Education has informed the Directors of all provinces to inform 
 [Data](articles/8acd7374.json)
 
 [Extended Data](ext_articles/8acd7374.ext.json)
+
+---
+
+### Rs. Two policemen arrested for bribe of 10000
+
+*2024-02-26 18:11:29* · [`adalk`](https://www.ada.lk/breaking_news/රු--10000ක-අල්ලස්-ගත්-පොලිස්-නිලධාරීන්-දෙදෙනෙක්-අල්ලයි/11-408290) · `si`
+
+A total of two police officers have been taken into custody by the Commission to Investigate Allegations of Bribery and Corruption (26).
+
+The suspect was arrested by two traffic sections of the Itatata Police Station.
+
+It is said that the two arrested officers have been taken into custody by a person who is going to a motorcycle without a helmet.
+
+It is reported that one constable has been arrested in the police station at a cost of Rs.
+
+According to police sources, he was arrested while he was taken into custody by the other constable to the incident.
+
+The two suspects are currently receiving statements in the Ihalapana Police at the Ihalapana Police, police said.
+
+◼️
+
+[Data](articles/143f7dd1.json)
+
+[Extended Data](ext_articles/143f7dd1.ext.json)
 
 ---
 
@@ -1939,67 +2011,5 @@ The youth, identified as a resident of the Pitipana area, was immediately rushed
 [Data](articles/f877a68f.json)
 
 [Extended Data](ext_articles/f877a68f.ext.json)
-
----
-
-### Philatelic Exhibition at Public Library
-
-*2024-02-26 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Philatelic-Exhibition-at-Public-Library/110-277677) · `en`
-
-An exhibition of vintage stamps and coins was held over the weekend at the Public Library in Colombo. Several stamps and other vintage articles were also exhibited and sold at this exhibition. Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/b8f7b02e.json)
-
-[Extended Data](ext_articles/b8f7b02e.ext.json)
-
----
-
-### Composition of expert committee to be expanded
-
-*2024-02-26 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Composition-of-expert-committee-to-be-expanded/108-277728) · `en`
-
-Colombo, Feb 26 (Daily Mirror) -  In light of the gravity and complexity of the sequence of events surrounding the recent deaths at the dialysis unit of the Kurunegala Teaching Hospital, the Health Ministry is considering expanding the composition of the five-member committee tasked with investigating into the matter, the Daily Mirror learns.
-
-According to a top source, the initial investigations conducted at hospital level have failed to determine the actual cause of deaths prompting the hospital management to request the Health Ministry to conduct a through investigation.
-
-Hence, the Health Ministry appointed a five-member committee headed by Chief Epidemiologist Dr. Samitha Ginige.
-
-However, the source revealed that the composition of the committee may be expanded given the complexity of the scenario.
-
-Furthermore, sources are of the opinion that the incident may have occurred due to the entry of certain unidentified pathogens into the dialysis unit.
-
-...
-
-[Data](articles/b3f30708.json)
-
-[Extended Data](ext_articles/b3f30708.ext.json)
-
----
-
-### Bangladesh court halts wild elephant adoption
-
-*2024-02-26 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-court-halts-wild-elephant-adoption/108-277727) · `en`
-
-Dhaka, Feb 26 (AFP) - A Bangladeshi court on Sunday barred the adoption of elephants from the wild, a move hailed by animal rights activists as a "landmark" order to help stop cruelty.
-
-Rights groups said the high court order suspending licences will stop the torture of captive Asian elephants in the name of training.
-
-"The high court today suspended all licences for the captive rearing of elephants," said Amit Das Gupta, deputy attorney general of the country.
-
-Bangladesh was once one of the major homes for Asian elephants.
-
-But poaching and habitat loss saw their number dwindle so much that they are now declared critically endangered in the South Asian country.
-
-The International Union for Conservation of Nature (IUCN) says there are nearly 100 captive Asian elephants in Bangladesh, nearly half the amount of elephants left in the wild in the country.
-
-As logging and farming encroach on elephant territory, young animals are captured in the country's northern and southeastern hills.
-
-...
-
-[Data](articles/00565419.json)
-
-[Extended Data](ext_articles/00565419.ext.json)
 
 ---

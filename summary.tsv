@@ -1,5 +1,8 @@
 newspaper_id	time_str	original_title	n_original_body_lines	hash	time_ut	original_lang	url
+virakesarilk	2024-02-26 14:19:00	யாழில் திருவள்ளுவர் குருபூசை தினம் அனுஷ்டிப்பு	5	5e3f352d	1708937340.0	ta	https://www.virakesari.lk/article/177335
+adaderanasinhalalk	2024-02-26 14:07:00	CCTV කැමරාවේ සටහන් වූ තවත් බිහිසුණු අනතුරක්	3	e9aa8a95	1708936620.0	si	http://sinhala.adaderana.lk/news/193838
 adaderanasinhalalk	2024-02-26 13:49:00	උරුමය ඉල්ලීමට ක්ෂණික දුරකථන අංකයක්	4	000fa916	1708935540.0	si	http://sinhala.adaderana.lk/news/193837
+adalk	2024-02-26 13:43:56	ඉඩමට සින්නක්කර අයිතිය ලබාගන්න 1908 අමතන්න	3	89c2b447	1708935236.0	si	https://www.ada.lk/breaking_news/ඉඩමට-සින්නක්කර-අයිතිය-ලබාගන්න-1908-අමතන්න/11-408283
 tamilmirrorlk	2024-02-26 13:43:15	இலங்கைக்கு வரும் புதிய எரிபொருள் நிறுவனம்	5	23a27ee8	1708935195.0	ta	https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-வரும்-புதிய-எரிபொருள்-நிறுவனம்/175-333823
 adaderanalk	2024-02-26 13:31:00	Convenor of Kelaniya Uni. Students’ Union arrested by CID	4	711afd0f	1708934460.0	en	https://www.adaderana.lk/news/97540/convenor-of-kelaniya-uni-students-union-arrested-by-cid
 tamilmirrorlk	2024-02-26 13:16:22	அரச அலுவலகங்களில் அமைதிகாக்கும் 49% தொலைபேசி எண்கள்	8	905f46c1	1708933582.0	ta	https://www.tamilmirror.lk/செய்திகள்/அரச-அலுவலகங்களில்-அமைதிகாக்கும்-49-தொலைபேசி-எண்கள்/175-333822
@@ -71,7 +74,7 @@ adaderanasinhalalk	2024-02-26 07:53:00	බෙහෙත් බොන්න බල
 adalk	2024-02-26 07:48:54	වැටුප් වැඩි කර ගැනීම ගැන පැහැදිලි කිරීමට මහ බැංකුව සූදානම්ලු	3	9a88621e	1708913934.0	si	https://www.ada.lk/breaking_news/වැටුප්-වැඩි-කර-ගැනීම-ගැන-පැහැදිලි-කිරීමට-මහ-බැංකුව-සූදානම්ලු/11-408271
 adaderanasinhalalk	2024-02-26 07:26:00	දියේ ගිලී පාසල් දරුවෙක් මරුට	4	ce7d36a9	1708912560.0	si	http://sinhala.adaderana.lk/news/193824
 adaderanasinhalalk	2024-02-26 06:59:00	ලෙල්ලමේ වෙඩිතැබීමට සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට	4	06b15350	1708910940.0	si	http://sinhala.adaderana.lk/news/193823
-bbccomsinhala	2024-02-26 06:54:22	රතු වරෙන්තු: අපරාධකරුවන් මෙරටට ගෙන්වා ගන්නේ කෙසේද ?	30	236b6478	1708910662.0	si	https://www.bbc.com/sinhala/articles/cqv6n51g6xwo
+bbccomsinhala	2024-02-26 06:54:22	රතු වරෙන්තු: අපරාධකරුවන් මෙරටට ගෙන්වා ගන්නේ කෙසේද ?	29	236b6478	1708910662.0	si	https://www.bbc.com/sinhala/articles/cqv6n51g6xwo
 adaderanasinhalalk	2024-02-26 06:23:00	කාලගුණයේ වෙනසක්	4	f93a1881	1708908780.0	si	http://sinhala.adaderana.lk/news/193821
 tamilmirrorlk	2024-02-26 04:38:28	மோடி ‛ஸ்கூபா டைவிங்’	5	136b0068	1708902508.0	ta	https://www.tamilmirror.lk/செய்திகள்/மோடி-ஸ்கூபா-டைவிங்/175-333808
 tamilmirrorlk	2024-02-26 04:32:26	தேர்தல் செலவுகள் குறித்து அறிவிப்பு	3	1d7b1383	1708902146.0	ta	https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவுகள்-குறித்து-அறிவிப்பு/175-333807
@@ -1342,7 +1345,7 @@ adaderanalk	2024-02-19 13:41:00	PM Modi urged to intervene to get Tamil Nadu fis
 adaderanasinhalalk	2024-02-19 13:29:00	DAT ගැටලුව විසඳීමට විශේෂ කමිටුවක්	6	4474154f	1708329540.0	si	http://sinhala.adaderana.lk/news/193574
 adalk	2024-02-19 13:23:23	’ලිපි ඉල්ලුවට දෙන්නේ නෑ’	5	3cb3c00c	1708329203.0	si	https://www.ada.lk/breaking_news/’ලිපි-ඉල්ලුවට-දෙන්නේ-නෑ’/11-408171
 islandlk	2024-02-19 13:19:00	Sri Lankan Leftist Coalition’s India Visit Raises its Profile	33	0190a190	1708328940.0	en	http://island.lk/sri-lankan-leftist-coalitions-india-visit-raises-its-profile/
-islandlk	2024-02-19 13:18:00	The Judicial Power of the People and a Presidential Interpretation of our Constitution?	26	7dbdade8	1708328880.0	en	http://island.lk/the-judicial-power-of-the-people-and-a-presidential-interpretation-of-our-constitution/
+islandlk	2024-02-19 13:18:00	The Judicial Power of the People and a Presidential Interpretation of our Constitution?	25	7dbdade8	1708328880.0	en	http://island.lk/the-judicial-power-of-the-people-and-a-presidential-interpretation-of-our-constitution/
 islandlk	2024-02-19 13:16:00	Under Ranil Wickremesinghe, Sri Lanka is going fast – in reverse	26	6198cb12	1708328760.0	en	http://island.lk/under-ranil-wickremesinghe-sri-lanka-is-going-fast-in-reverse/
 islandlk	2024-02-19 13:16:00	ABOLISHING THE EXECUTIVE PRESIDENCY -IS TIME RUNNING OUT?	32	8e2acc64	1708328760.0	en	http://island.lk/abolishing-the-executive-presidency-is-time-running-out/
 adalk	2024-02-19 13:15:38	ඉතාලි සංචාරක යුවළක් ගමන් ගත් මෝටර් රථය අධිවේගයේ අනතුරක	5	1920ae95	1708328738.0	si	https://www.ada.lk/breaking_news/ඉතාලි-සංචාරක-යුවළක්-ගමන්-ගත්-මෝටර්-රථය-අධිවේගයේ-අනතුරක/11-408170
@@ -1431,7 +1434,7 @@ islandlk	2024-02-19 05:10:00	SLSI honours ComBank for its victory at Global Perf
 islandlk	2024-02-19 05:10:00	HNB Finance champions environmental responsibility with e-waste management solution	7	a708d903	1708299600.0	en	http://island.lk/hnb-finance-champions-environmental-responsibility-with-e-waste-management-solution/
 islandlk	2024-02-19 05:09:00	Bitumix continues its ‘Sisu Senehasa’ scholarships programme	5	6123a7b7	1708299540.0	en	http://island.lk/bitumix-continues-its-sisu-senehasa-scholarships-programme/
 islandlk	2024-02-19 05:08:00	Huawei unveils expansion of its talent development programme in Rome	11	083a8cd7	1708299480.0	en	http://island.lk/huawei-unveils-expansion-of-its-talent-development-programme-in-rome/
-bbccomsinhala	2024-02-19 04:45:36	ආගමික පදනම මත පාසල් බෙදා තිබීම ආගමික සහජීවනයට බාධාවක් ද?	36	6e637447	1708298136.0	si	https://www.bbc.com/sinhala/articles/c1d124n40pzo
+bbccomsinhala	2024-02-19 04:45:36	ආගමික පදනම මත පාසල් බෙදා තිබීම ආගමික සහජීවනයට බාධාවක් ද?	35	6e637447	1708298136.0	si	https://www.bbc.com/sinhala/articles/c1d124n40pzo
 dailymirrorlk	2024-02-19 04:30:00	Abolishing the Executive Presidency; Prudent Proposal  - But DISSOLVE PARLIAMENT FIRST	15	51de6f27	1708297200.0	en	https://www.dailymirror.lk/opinion/Abolishing-the-Executive-Presidency-Prudent-Proposal-But-DISSOLVE-PARLIAMENT-FIRST/172-277270
 dailymirrorlk	2024-02-19 04:29:00	Language: A Catalyst to foster National Unity - EDITORIAL	8	28c47705	1708297140.0	en	https://www.dailymirror.lk/opinion/Language-A-Catalyst-to-foster-National-Unity-EDITORIAL/172-277269
 dailymirrorlk	2024-02-19 04:26:00	Debt Restructuring and Hidden Agendas	19	46fdf583	1708296960.0	en	https://www.dailymirror.lk/opinion/Debt-Restructuring-and-Hidden-Agendas/172-277268

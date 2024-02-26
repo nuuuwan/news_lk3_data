@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 14:33:22**
+As of **2024-02-26 14:50:44**
 
 ## Newspaper Stats
 
-*Scraped **9,341** Articles*
+*Scraped **9,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 492
 islandlk | 495
-adalk | 787
+adalk | 788
 adaderanalk | 1,127
 tamilmirrorlk | 1,151
-virakesarilk | 1,269
+virakesarilk | 1,270
 dailymirrorlk | 1,404
-adaderanasinhalalk | 1,411
+adaderanasinhalalk | 1,412
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,337 (100.0%) of 9,341 articles have been extended.
+9,337 (99.9%) of 9,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### யாழில் திருவள்ளுவர் குருபூசை தினம் அனுஷ்டிப்பு
+
+*2024-02-26 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177335) · `ta`
+
+யாழ்ப்பாணம் கோப்பாய் ஆசிரியர் கலாசாலையில் திருவள்ளுவர் குருபூசை தினம் இன்று திங்கட்கிழமை (26) அனுட்டிக்கப்பட்டது.
+
+கலாசாலையின் அதிபர் சந்திரமௌலீசன் லலீசன் தலைமையில் இடம்பெற்ற இந்நிகழ்வில் கலாசாலையின் முன்றிலில் உள்ள திருவள்ளுவர் சிலைக்கு மலர் மாலை அணிவிக்கப்பட்டதுடன், மலர் வணக்கமும் செலுத்தப்பட்டது. விரிவுரையாளர்களும் ஆசிரிய மாணவர்களும் மலர் வழிபாடு மேற்கொண்டனர்.
+
+திருவள்ளுவர் குறித்தும் திருக்குறள் குறித்தும் ஆசிரிய மாணவர்களின் சிற்றுரைகள் இடம்பெற்றன. உரைகளை ஆற்றிய ஆசிரிய மாணவர்களுக்கு புத்தக பரிசில்கள் வழங்கி மதிப்பளிக்கப்பட்டது. இப்பரிசில்களை கலாசாலையின் மூத்த விரிவுரையாளர் மு.ஜெயக்குமாரி வழங்கினார்.
+
+திருவள்ளுவர் குருபூசை மாசி மாத உத்திர நட்சத்திர நாளில் அனுஷ்டிக்கப்படுவது வழக்கமாகும். திருவள்ளுவர் வைகாசி மாத அனுஷ நட்சத்திரத்தில் பிறந்து மாசி மாத உத்தர நட்சத்திரத்தில் பூரணமடைந்தார் என்பது தமிழ் அறிஞர்களின் நம்பிக்கையாகும். திரு வி.க., தமிழ்த் தாத்தா உ.வே.சாமிநாதையர் போன்றோர் இக்கருத்தை வழிமொழிந்துள்ளனர்.
+
+...
+
+[Data](articles/5e3f352d.json)
+
+---
+
+### CCTV කැමරාවේ සටහන් වූ තවත් බිහිසුණු අනතුරක්
+
+*2024-02-26 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193838) · `si`
+
+වැලිගම බස් නැවතුම්පොළ ඉදිරිපිට පදිකමාරුව අසලින් මාර්ගය හරහා ගමන්ගත් පුද්ගලයෙකු ලංගම බස් රථයක ගැටී බරපතළ තුවාල ලබා තිබිණි.
+
+තුවාල ලැබූ පුද්ගලයා වැලිගම පැනෑටියන ප්‍රදේශයේ අයෙක් වන අතර, ඔහු කරාපිටිය රෝහලට ඇතුළත් කර ඇත.
+
+බස් රථයේ රියදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර අනතුර සිදුවන අයුරු CCTV කැමරාවක මෙලෙස සටහන්ව තිබිණි.
+
+◼️
+
+[Data](articles/e9aa8a95.json)
+
+---
 
 ### උරුමය ඉල්ලීමට ක්ෂණික දුරකථන අංකයක්
 
@@ -47,6 +81,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/000fa916.json)
+
+---
+
+### ඉඩමට සින්නක්කර අයිතිය ලබාගන්න 1908 අමතන්න
+
+*2024-02-26 13:43:56* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩමට-සින්නක්කර-අයිතිය-ලබාගන්න-1908-අමතන්න/11-408283) · `si`
+
+1935 අංක 19 දරණ ඉඩම් සංවර්ධන ආඥා පනත මඟින් ගොවි ජනතාව හා අඩු ආදායම්ලාභීන් වෙත කොන්දේසි සහිත අවසර පත්‍ර/ දීමනා පත්‍ර සහිත රජයේ ඉඩම් කොන්දේසි විරහිත සින්නක්කර අයිතියට පත් කරමින් ජනතාව වෙත ලබා දීම 2024 අයවැය යෝජනාවකි.
+
+ඒ් අනුව එය ක්‍රියාවට නැංවීම පහසුකරවීම සඳහා දිනපතා පෙ.ව 8.30 සිට රාත්‍රී 8.30 දක්වා 1908 ක්ෂණික ඇමතුම් අංකය සහ දුරකථන අංක 0114 354600/ 0114 354601 ඔස්සේ ජනාධිපති කාර්යාලයේ, උරුමය ජාතික මෙහෙයුම් කාර්යාලය සමඟ සම්බන්ධ වීමෙන් ජනතාවට සිය ඉල්ලීම යොමු කරමින් ලියාපදිංචි වීම සඳහා අවස්ථාව සලසා ඇත.
+
+ජනාධිපති මාධ්‍යය අංශය වැඩිදුරටත් කරුණු දක්වමින් සධහන් කර සිටින්නේ www.tinyurl.com/urumaya  www.tinyurl.com/urumaya (ඩිජිටල් ඉල්ලුම් පත්‍රය) පෝරමය පිරවීම මඟින් ද අදාළ අවශ්‍යතාව ඉටු කිරීමට පහසුකම් සපයා ඇති බවයි.
+
+◼️
+
+[Data](articles/89c2b447.json)
 
 ---
 
@@ -1961,61 +2011,5 @@ This perception of ‘legalized robbery’ is gaining momentum among the general
 [Data](articles/8d7c4779.json)
 
 [Extended Data](ext_articles/8d7c4779.ext.json)
-
----
-
-### Shamil Mendis appointed to Overseas Realty (Ceylon) Board
-
-*2024-02-26 01:20:51* · [`dailyftlk`](https://www.ft.lk/business/Shamil-Mendis-appointed-to-Overseas-Realty-Ceylon-Board/34-758826) · `en`
-
-Overseas Realty Ceylon PLC has announced the appointment of Shamil Mendis as an Independent Director to its Board of Directors.
-
-In compliance with the CSE new listing rules on independent directors, the Company also announced the retirement of Rohini Nanayakkara, the veteran banker who had served on the Board for over 20 years.
-
-Mendis is the Chairman/Managing Director of Spear Global Holdings Ltd., which is engaged in the export of coir substrates, value added coir/coconut fiber products, food ingredients and spices. These products are exported to over 33 countries worldwide.
-
-Mendis was the Deputy Chairman and Group Director of the Delmege Forsyth Group from 1982 – 2011 and was responsible for the growth of diverse businesses ranging from a variety of businesses in Imports, Exports, Shipping, Airlines, Logistics, and Insurance.
-
-...
-
-[Data](articles/6da5d1ca.json)
-
-[Extended Data](ext_articles/6da5d1ca.ext.json)
-
----
-
-### SriLankan Airlines clarifies delays
-
-*2024-02-26 01:18:47* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Airlines-clarifies-delays/34-758825) · `en`
-
-SriLankan Airlines yesterday clarified that the delays experienced by its passengers at the check-in counters in Bandaranaike International Airport during the early hours of Sunday, were caused by temporary, unplanned operational conditions at the airport and not due to any type of trade union action.
-
-“The check-in counter operations have been stabilised and returned to normal as of now. SriLankan Airlines would like to apologise to any passengers inconvenienced by these operational delays, while the airline continues to monitor the situation and take steps to avoid a recurrence,” the carrier said in a statement.
-
-In a related development, the Ministry of Ports, Shipping and Aviation said SriLankan Airlines scheduled to fly from Katunayake to European, Asian and Middle Eastern countries on 24.02.2024 and 25.02.2024 have been delayed for more than 8 hours. The Ministry said it will hold a media conference on the same today.
-
-◼️
-
-[Data](articles/d0b06622.json)
-
-[Extended Data](ext_articles/d0b06622.ext.json)
-
----
-
-### AMW appoints Andre Bonthuys as new Group Managing Director, pledging revitalisation and growth
-
-*2024-02-26 01:17:47* · [`dailyftlk`](https://www.ft.lk/business/AMW-appoints-Andre-Bonthuys-as-new-Group-Managing-Director-pledging-revitalisation-and-growth/34-758824) · `en`
-
-Associated Motorways Ltd. (AMW), a key player in Sri Lanka’s automotive industry, has announced Andre Bonthuys as its new Group Managing Director.
-
-Established in 1949, AMW initially focused on tire manufacturing, re-treading, and exports. Over 75 years, it has expanded into automotive sales and services, lubricants, batteries, tires, and financial services. AMW represents renowned international brands such as Nissan, Yamaha, Suzuki, Renault, and Castrol.
-
-AMW is known for its innovation and commitment to quality, catering to its loyal customers’ needs. Since July 2008, AMW has been part of Al-Futtaim Engineering (AFE), a subsidiary of the UAE-based multinational conglomerate Al-Futtaim Group. Al-Futtaim Group has interests in various sectors globally, including automotive, electronics, insurance, real estate, and retail, highlighting its integrated commercial and industrial approach.
-
-...
-
-[Data](articles/f7136e96.json)
-
-[Extended Data](ext_articles/f7136e96.ext.json)
 
 ---

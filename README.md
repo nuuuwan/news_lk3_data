@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 01:02:34**
+As of **2024-02-27 01:33:24**
 
 ## Newspaper Stats
 
-*Scraped **9,451** Articles*
+*Scraped **9,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 481
 islandlk | 495
-dailyftlk | 497
+dailyftlk | 500
 adalk | 799
 adaderanalk | 1,139
 tamilmirrorlk | 1,158
@@ -26,11 +26,69 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,445 (99.9%) of 9,451 articles have been extended.
+9,451 (100.0%) of 9,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### SJB initiates no-confidence motion against Speaker over OSA
+
+*2024-02-27 01:01:59* · [`dailyftlk`](https://www.ft.lk/news/SJB-initiates-no-confidence-motion-against-Speaker-over-OSA/56-758906) · `en`
+
+Opposition accuses Speaker of allowing enactment of OSA without adherence to proper procedures
+
+Alleges Speaker disregarded directives provided by SC regarding draft bill
+
+Says Speaker by endorsing law has breached Constitution and Parliamentary privileges of MPs
+
+Stresses Speaker’s handling of OSA’s passage has eroded confidence in him, prompting call for motion of no confidence
+
+Opposition parties under the leadership of the Samagi Jana Balawegaya (SJB) yesterday commenced the signing of a no-confidence motion against Speaker Mahinda Yapa Abeywardena. The Opposition alleges that the Speaker violated both the Constitution and Parliamentary privileges of Members of Parliament (MPs) by endorsing the Online Safety Act, which they claim was not properly passed in Parliament.
+
+...
+
+[Data](articles/c7af7575.json)
+
+---
+
+### Deshabandu Tennekoon appointed as 36th IGP
+
+*2024-02-27 01:00:43* · [`dailyftlk`](https://www.ft.lk/news/Deshabandu-Tennekoon-appointed-as-36th-IGP/56-758905) · `en`
+
+President Ranil Wickremesinghe yesterday confirmed Senior Deputy Inspector General of Police Deshabandu Tennekoon as the 36th Inspector General of the Sri Lanka Police.
+
+Announcing the appointment, the President’s Media Unit (PMD) said the appointment was made under the powers vested in the President under Articles 41 and 61 of the Constitution.
+
+According to the PMD, President’s Secretary Saman Ekanayake presented the appointment letter to Tennakoon at the President’s office.
+
+Despite widespread objections by the Catholic Church, Civil Society groups and other parties, Tennekoon was appointed as the Acting IGP on 29 November 2023 by President Ranil Wickremesinghe after months of failing to appoint an IGP in March 2023 year which was when the former IGP C.D Wickramaratne was due to retire.
+
+Wickramaratne was forced to remain in service until mid-November, due to the inability of relevant parties to find a suitable candidate for the post.
+
+...
+
+[Data](articles/066d5f52.json)
+
+---
+
+### Premdasa claims Deshabandu appointed sans CC approval
+
+*2024-02-27 01:00:02* · [`dailyftlk`](https://www.ft.lk/news/Premdasa-claims-Deshabandu-appointed-sans-CC-approval/56-758904) · `en`
+
+Opposition Leader Sajith Premadasa levelled accusations against President Ranil Wickremesinghe yesterday, alleging that the appointment of Senior DIG Deshabandu Tennekoon as the Inspector General of Police was done in violation of the Constitution and without the necessary approval from the Constitutional Council.
+
+Contrary to reports suggesting that the Constitutional Council had sanctioned Tennekoon’s appointment, Premadasa dismissed the assertions.
+
+Taking to X (formerly Twitter) Premadasa said the Constitutional Council has not duly approved Tennekoon’s nomination as the IGP.
+
+Premadasa said that during the Constitutional Council’s deliberations, four votes were cast in favour of Tennekoon, while two votes were against, and two members abstained. He highlighted that for the Constitutional Council to reach a conclusive decision, at least five votes are necessary. Premadasa further noted that the Speaker is not entitled to vote unless it’s to break a tie.
+
+...
+
+[Data](articles/5b9b2f18.json)
+
+---
 
 ### Central Bank should apologize to the people - Udaya Kammanpila
 
@@ -70,25 +128,29 @@ One of these Prophets of Doom even went to the extent of giving a time-line when
 
 [Data](articles/4d10fa22.json)
 
+[Extended Data](ext_articles/4d10fa22.ext.json)
+
 ---
 
 ### 2024-02-26 (Monday)
 
-### பஷில் நாடு திரும்பியதும் புதிய அரசியல் கூட்டணி?
+### New political alliance when he returns to Bashil?
 
 *2024-02-26 23:20:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஷில்-நாடு-திரும்பியதும்-புதிய-அரசியல்-கூட்டணி/175-333856) · `ta`
 
-பஷில் ராஜபக்ஷ நாடு திரும்பியதும் அரசியல் கூட்டணி தொடர்பில் பேச்சுவார்த்தையில் ஈடுபடுவோம் என முன்னாள் ஜனாதிபதியும், ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைவருமான மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+Former President Mahinda Rajapaksa said that when Basil Rajapaksa returned to the country, he would negotiate on the political coalition.
 
-பத்தரமுல்லையில் உள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமை காரியாலயத்தில் திங்கட்கிழமை (26) இடம்பெற்ற பேச்சுவார்த்தையின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking to the media after a meeting held at the Sri Lanka PA in Battaramulla on Monday (26).
 
-மேலும், கட்சியின் தேசிய அமைப்பாளர் பஷில் ராஜபக்ஷ இன்னும் இருவாரங்களில் நாட்டுக்கு வருகைத் தருவார். அதன் பின்னர் அரசியல் கூட்டணி பற்றி கலந்துரையாடுவோம்.
+Moreover, the party's national organizer Basil Rajapaksa will come to the country in two more weeks. Then we will discuss the political alliance.
 
-யாரை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்பதை கட்சியின் நிறைவேற்று சபையே தீர்மானிக்கும் என்றார். R
+He said the party's executive council would decide whom to field as the presidential candidate. Remble
 
 ◼️
 
 [Data](articles/e1662293.json)
+
+[Extended Data](ext_articles/e1662293.ext.json)
 
 ---
 
@@ -148,6 +210,8 @@ Two days later, addressing the SJB Lawyers’ Forum on 13 February, Sajith Prema
 
 [Data](articles/b3474290.json)
 
+[Extended Data](ext_articles/b3474290.ext.json)
+
 ---
 
 ### Sweden to join NATO in historic move as Hungary ratifies bid
@@ -186,6 +250,8 @@ This letter does not aim to discuss the pros and cons of this event. The focus i
 
 [Data](articles/75fe2f62.json)
 
+[Extended Data](ext_articles/75fe2f62.ext.json)
+
 ---
 
 ### An ideal Presidential Manifesto 2024
@@ -199,6 +265,8 @@ Of paramount significance is the imperative for the candidate to operate with a 
 ...
 
 [Data](articles/94e3ce52.json)
+
+[Extended Data](ext_articles/94e3ce52.ext.json)
 
 ---
 
@@ -217,6 +285,8 @@ As a person who has involved in successfully implementing inclusive and sustaina
 ...
 
 [Data](articles/2b5f13b0.json)
+
+[Extended Data](ext_articles/2b5f13b0.ext.json)
 
 ---
 
@@ -1921,65 +1991,5 @@ The driver of the bus was arrested by the police and the accident was in a CCTV 
 [Data](articles/e9aa8a95.json)
 
 [Extended Data](ext_articles/e9aa8a95.ext.json)
-
----
-
-### Hotline launched for ‘Ururmaya’ freehold land title registration
-
-*2024-02-26 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97541/hotline-launched-for-ururmaya-freehold-land-title-registration) · `en`
-
-A hotline number has been established for the public to access the freehold rights of their land, thereby realizing the objectives of the ’Urumaya’ national program, the President’s Media Division (PMD) reported.
-
-Accordingly, individuals are encouraged to register their requests by contacting the President’s Office, ”Urumaya” National Operations Secretariat, via hotline number 1908 or telephone numbers 0114 354600 / 0114 354601, available from 8:30 am to 8:30 pm daily.
-
-Additionally, applicants can utilize the Digital Application Form at www.tinyurl.com/urumaya to meet their requirements conveniently.
-
-The proposal to grant unconditional freehold ownership of lands allocated to farmers and low-income earners, as outlined in the Land Development Ordinance No. 19 of 1935, is a standout feature of the 2024 budget, the PMD stated.
-
-...
-
-[Data](articles/2ee5b935.json)
-
-[Extended Data](ext_articles/2ee5b935.ext.json)
-
----
-
-### Sajith paid to school. 100000 thieves
-
-*2024-02-26 13:49:47* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-පාසලට-දුන්න-රු--100000-හොරු-අරන්/11-408285) · `si`
-
-Opposition Leader Sajith Premadasa has taken steps to the Avissawella Puwakpitiya South, police said.
-
-The sum of the money was donated when the Opposition Leader arrived at the Sakwala program on the 23rd.
-
-Priority complaint states that the money had been dropped in the front door of the office and donated the doors of all its cupboards, Mrs.
-
-The police have seen the door of the office when he arrived at the college yesterday (25) to prepare classrooms with students yesterday.Avissawella police are conducting further investigations.
-
-◼️
-
-[Data](articles/0a328bbb.json)
-
-[Extended Data](ext_articles/0a328bbb.ext.json)
-
----
-
-### A quick telephone number to ask for heritage
-
-*2024-02-26 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193837) · `si`
-
-The "Heritage" community has introduced a quick telephone number to apply for the community to enjoy the right to their land.
-
-The Presidential Secretariat has enabled the 1908 hotline number and the Presidential Secretariat on 0114 354 600 or 0114 354 600 or 0114 354 601.
-
-Accordingly, the opportunity to register up to 8:30 am to 8.30 pm.
-
-The filling of the form on the inheritance website has also facilitated the needs of the need.
-
-◼️
-
-[Data](articles/000fa916.json)
-
-[Extended Data](ext_articles/000fa916.ext.json)
 
 ---

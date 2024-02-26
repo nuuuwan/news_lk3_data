@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 16:17:26**
+As of **2024-02-26 16:32:52**
 
 ## Newspaper Stats
 
-*Scraped **9,363** Articles*
+*Scraped **9,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,87 @@ adaderanalk | 1,129
 tamilmirrorlk | 1,152
 virakesarilk | 1,273
 dailymirrorlk | 1,410
-adaderanasinhalalk | 1,418
+adaderanasinhalalk | 1,420
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,360 (100.0%) of 9,363 articles have been extended.
+9,363 (100.0%) of 9,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### පාසල් ළමුන් ප්‍රවාහනය කරමින් තිබූ බස් රථයක් ඇළකට පෙරළෙයි
+### බොර තෙල් මිලේ ලොකු වෙනසක්
+
+*2024-02-26 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193846) · `si`
+
+ලෝක වෙළෙඳපොළෙහි බොර තෙල් මිල අදත් අඩුවී ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+වැඩිවී ඇති උද්ධමනය හේතුවෙන් අමෙරිකානු පොලී අනුපාත කප්පාදුව පමාවීමේ පසුබිම මත ඩොලරය ශක්තිමත් වීම ඊට බලපා ඇති බව සඳහන් ය.
+
+මේ අනුව බ්‍රෙන්ට් වර්ගයේ බොරතෙල් බැරලයක මිල ඩොලර් 81යි ශත 27 දක්වා පහත බැස ඇති අතර අමෙරිකානු WTI බොර තෙල් බැරලයක මිල සටහන් වන්නේ ඩොලර් 76යි ශත 14ක් ලෙසට ය.
+
+ඩොලරය ශක්තිමත් වීම තුළින් අනිකුත් විනිමය වලින් ගනුදෙනු කරන්නන්ට තෙල් වඩාත් මිල අධික වෙළෙඳ භාණ්ඩයක් බවට පත්වෙයි.
+
+මේ අතර ලෝක වෙළෙඳපොළේ රන් මිලද අමෙරිකානු ඩොලරය ශක්තිමත් විමත් සමග පහළ වැටීමක් පෙන්නුම් කරන අතර රන් අවුන්සයක මිල මේ වනවිට සටහන් වන්නේ ඩොලර් 2030යි ශත 90ක් ලෙසයි.
+
+◼️
+
+[Data](articles/936408cf.json)
+
+---
+
+### අධ්‍යාපන අමාත්‍යාංශයෙන් මාර්ගෝපදේශ මාලාවක්
+
+*2024-02-26 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193845) · `si`
+
+අධික උෂ්ණත්වය සහිත කාලගුණික තත්ත්වය හමුවේ ඇතිවිය හැකි අහිතකර තත්ත්වයන්ගෙන් පාසල් දරුවන් ආරක්ෂා කරගැනීම සඳහා මාර්ගෝපදේශ මාලාවක් නිකුත් කර තිබේ.
+
+අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසන්නේ මේ සම්බන්ධයෙන් විදුහල්පතිවරුන් දැනුවත් කරන ලෙස සියලුම පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් වෙත දැනුම්දී ඇති බවය.
+
+◼️
+
+[Data](articles/1040156f.json)
+
+---
+
+### Bus topples a bus with school children
 
 *2024-02-26 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193844) · `si`
 
-අම්පාර ප්‍රදේශයේදී පාසල් ළමුන් ප්‍රවාහනය කරමින් තිබූ බස් රථයක් ඇළකට පෙරළීයාමෙන් අනතුරක් සිදුව තිබේ.
+A bus carrying school children in Ampara
 
-අනතුර සිදුවන අවස්ථාවේ බස් රථයේ ළමුන් 30කට ආසන්න ප්‍රමාණයක් සිට ඇති බවට තොරතුරු වාර්තා වෙයි.
+There are reports that nearly 30 children in the bus have been reported at the time of the accident.
 
-අම්පාර ප්‍රදේශයේදී පාසල් ළමුන් ප්‍රවාහනය කරමින් තිබූ බස් රථයක් ඇළකට පෙරළීයාමෙන් අනතුරක් සිදුව තිබේ.
+A bus carrying school children in Ampara
 
-අනතුර සිදුවන අවස්ථාවේ බස් රථයේ ළමුන් 30කට ආසන්න ප්‍රමාණයක් සිට ඇති බවට තොරතුරු වාර්තා වෙයි.
+There are reports that nearly 30 children in the bus have been reported at the time of the accident.
 
-අනතුරින් තුවාල ලැබූ පාසල් සිසුන් පස්දෙනෙකු ප්‍රතිකාර සඳහා රෝහල්ගතකර තිබේ.
+Five school children who were injured in the accident have been hospitalized for treatment.
 
 ◼️
 
 [Data](articles/b10ed34f.json)
+
+[Extended Data](ext_articles/b10ed34f.ext.json)
+
+---
+
+### What is Sri Lanka in countries that are sold at high prices?
+
+*2024-02-26 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177344) · `ta`
+
+Sri Lanka is the second largest apple fruit in the world.
+
+The Visitor Index posted on its X site that Numbeo, the world's largest living database, has published it.
+
+◼️
+
+[Data](articles/4c8bc164.json)
+
+[Extended Data](ext_articles/4c8bc164.ext.json)
 
 ---
 
@@ -75,22 +127,6 @@ For these exhibitions free for school students and the entry fee for others is 1
 [Data](articles/6749c043.json)
 
 [Extended Data](ext_articles/6749c043.ext.json)
-
----
-
-### What is Sri Lanka in countries that are sold at high prices?
-
-*2024-02-26 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177344) · `ta`
-
-Sri Lanka is the second largest apple fruit in the world.
-
-The Visitor Index posted on its X site that Numbeo, the world's largest living database, has published it.
-
-◼️
-
-[Data](articles/4c8bc164.json)
-
-[Extended Data](ext_articles/4c8bc164.ext.json)
 
 ---
 
@@ -316,17 +352,19 @@ The U.S. wants a reformed Palestinian Authority to govern Gaza once the war is o
 
 ---
 
-### எதிர்க்கட்சிகளைப் போல திரள்வோம்
+### Let's gather like opposition parties
 
 *2024-02-26 14:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகளைப்-போல-திரள்வோம்/175-333825) · `ta`
 
-93 வருடங்களாகப் பாதுகாக்கப்பட்டு வந்த பாராளுமன்ற ஜனநாயகத்தை அழிக்க சபாநாயகருக்கு இடமளிக்கப் போவதில்லை .பாராளுமன்ற பாரம்பரியத்தையும் சுதந்திரத்தையும் பாதுகாக்க எதிர்க்கட்சிகளைப் போன்று திரள்வதாகவும் பாராளுமன்ற உறுப்பினர் பேராசிரியர் ஜீ.எல்.பீரிஸ் இன்று (26) தெரிவித்துள்ளார்.
+The Speaker is not going to allow the Speaker to destroy the democracy that has been protected for 93 years.
 
-மேலும், சபாநாயகருக்கு எதிரான நம்பிக்கையில்லாப் பிரேரணையின் கையொப்பம் எதிர்க்கட்சித் தலைவர் தலைமையில் இன்று இடம்பெற்றதாகத் தெரிவித்த பேராசிரியர், அரசியல் சாசனத்தை மீறி இணையவழி பாதுகாப்புச் சட்டம் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டதாகவும் பேராசிரியர் குறிப்பிட்டார்.
+Moreover, the professor said that the signature of the no -confidence motion against the Speaker was chaired by the Opposition Leader today and that the Enemy Security Act was passed in Parliament in violation of the Constitution.
 
 ◼️
 
 [Data](articles/2b33b733.json)
+
+[Extended Data](ext_articles/2b33b733.ext.json)
 
 ---
 
@@ -738,25 +776,33 @@ Sri Lanka said it was ready to accept the appointment if the US Senate approved 
 
 ---
 
-### රිවස් එකට ගොස් ලෝක වාර්තාවක් තැබීමට යයි
+### Riveds go to go and put a world record
 
 *2024-02-26 12:04:13* · [`adalk`](https://www.ada.lk/sports/රිවස්-එකට-ගොස්-ලෝක-වාර්තාවක්-තැබීමට-යයි/9-408280) · `si`
 
-ගුවන් හමුදාවේ හිටපු සෙබළකු තම ත්‍රි රෝද රථය කිලෝ මිටර් 72 ක් අඩුම කාලයකින්  පසුපසට ධාවනය කරමින් ලෝක වාර්තාවක් තැබිම සදහා උත්සහයක නිරත වි 26 දින සිදුවිය.
+An ex-soldier of the Air Force opened his three-wheeler at least 72 kilometers at least to set a world record.
 
-මෙලෙස ත්‍රි රෝද රථය පසුපසට ධාවනය කරමින් ලෝක වාර්තාවක් තැබිමට සුදානම් වන්නේ ශ්‍රී ලංකා ගුවන් හමුදාවේ සේවය කර විශ්‍රාම ගොස් සිටින මදුරන්කුලිය මුක්කුතොඩුවාව පදිංචි ඉන්ද්‍රනායක මුදියන්සේලාගේ ලක්ෂමන් නිශාන්ත කුමාර නැමති 45 හැවිරිදි  දරුවන් පස් දෙනෙකුගෙ පියෙකී.
+The three-wheeler driving backwards a world record is ready to set a world record in the Sri Lanka Air Force, who is a father of five, 45-year-old children who have been retired from the Sri Lanka Air Force.
 
-ත්‍රී රෝද රථයක  පටුපසට ධාවනය කරමින් මුක්කුතොඩුවාව ගම්මානයේ සිට  මදුරන්කුලිය නගරයට පැමිණ අනතුරුව පුත්තලම කොළඹ ප්‍රධාන මාර්ගයේ බත්තුළුඔය මාර්ග  බාධකය වෙත පැමිණ   නැවතත් ආපසු මුක්කුතොඩුවාව  ගම්මානයට පැමිණියේය.
+The mukkotagoda village from the Mukkotagodu village to the Madurankuliya area on the Colombo-Colombo main road was returned to the Madurankuliya Village on the Colombo-Colombo main road.
 
-මෙම අවස්ථාව දැක බලා ගැනීමට විශාල  පිරිසක් මඟ දෙපස රැඳී සිටිමින්  සිටිමින් ඔහුව ධෛර්යමත් කරන්නට කටයුතු අයුරු දක්නට ලැබිණි.
+A large number of people were staying at the path to see the occasion and courageously.
 
-පැයට කිලෝමීටර් හතළිහත් පනහත් අතර වේගයෙන්  ධාවනය කළ ඔහු මෙම දුර ප්‍රමාණය පැය 2 යි  විනාඩි 33 කින් නිම කිරීමට සමත් විය.
+Fifty kilometers per hour, he was running fast and completed this distance in 2 hours and 33 minutes.
 
-කිසිදු උපද්‍රවයකින් තොරව සාර්ථක අන්දමින් මෙම  ක්‍රියාව නිම කළ ඔහු  ගම්මානයේ ජනතාව උණුසුම් අන්දමින් පිළිගත්හ.
+He completed this action without any hazards and accepted the people of the village in warm.
+
+Officers of the Madarakankuliya and Mundalama Police were protected him.
+
+Nishantha Bandara said that a world record was established and honoring the country.
+
+Nishantha, a SLAF soldier, is a specialized person.
 
 ...
 
 [Data](articles/230d2e38.json)
+
+[Extended Data](ext_articles/230d2e38.ext.json)
 
 ---
 
@@ -1997,41 +2043,5 @@ He also said that under the Election Expenditure Regulatory Act, the money spent
 [Data](articles/1d7b1383.json)
 
 [Extended Data](ext_articles/1d7b1383.ext.json)
-
----
-
-### Minister Douglas - Indian High Commissioner Meeting
-
-*2024-02-26 04:30:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-டக்ளஸ்-இந்திய-உயர்ஸ்தானிகர்-சந்திப்பு/175-333806) · `ta`
-
-A special meeting was held at the Indian High Commission in Sri Lanka yesterday evening between Fisheries Minister Douglas Devananda and Indian High Commissioner to Sri Lanka Santosh Ja.
-
-It was urged to take constructive approaches between India and Sri Lanka on the fishermen issue.
-
-Indian High Commissioner urged the welfare of bilateral fishermen to approach the fishermen issue in a humanitarian manner.. (A)
-
-◼️
-
-[Data](articles/7dc39e6f.json)
-
-[Extended Data](ext_articles/7dc39e6f.ext.json)
-
----
-
-### Rain in the country today
-
-*2024-02-26 04:23:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-இன்று-மழை/175-333805) · `ta`
-
-The Department of Meteorology has predicted that rainfall is likely to occur in some parts of the country today.
-
-Accordingly, rainfall is expected in the Eastern and Uva Provinces and Matale and Polonnaruwa districts.
-
-The Department of Meteorology has also forecast rainfall in the Sabaragamuwa Province and the Kandy, Nuwara Eliya, Galle and Matara districts at night.. (A)
-
-◼️
-
-[Data](articles/2aa4e560.json)
-
-[Extended Data](ext_articles/2aa4e560.ext.json)
 
 ---

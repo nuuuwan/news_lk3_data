@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 00:47:42**
+As of **2024-02-27 01:02:34**
 
 ## Newspaper Stats
 
-*Scraped **9,445** Articles*
+*Scraped **9,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ bbccomsinhala | 114
 dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 481
-dailyftlk | 493
 islandlk | 495
+dailyftlk | 497
 adalk | 799
 adaderanalk | 1,139
-tamilmirrorlk | 1,157
+tamilmirrorlk | 1,158
 virakesarilk | 1,290
-dailymirrorlk | 1,424
+dailymirrorlk | 1,425
 adaderanasinhalalk | 1,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,445 (100.0%) of 9,445 articles have been extended.
+9,445 (99.9%) of 9,451 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,7 +54,43 @@ The Central Bank noted that the salaries of the people are not increased in thei
 
 ---
 
+### Tamil Leader, Sritharan - the New Target of Racist and Majoritarian Communalists
+
+*2024-02-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Tamil-Leader-Sritharan-the-New-Target-of-Racist-and-Majoritarian-Communalists/172-277760) · `en`
+
+MP Sritharan has clearly stated his vision is NOT for the setting up of a separate state
+
+Ever since Mr S. Sritharan was elected leader of the “Federal Party” or the “Ilankai Tamil Arasu Kachchi” (ITAK), numerous articles with a racist bent have begun appearing in a number of ‘national news outlets’ in Colombo.
+
+The articles have a common thread running through them - Sritharan’s visit to the LTTE war heroes’ cemetery in Killinochchi - and their (nationalist writers) interpretation of the symbolism of that visit.
+
+One of these Prophets of Doom even went to the extent of giving a time-line when the next round of bombings would hit the country! In their myopic vision, Sritharan’s visit exposed him as an apologist of the LTTE and an unmitigated separatist. He is now being paraded via the media as an enemy. Most of these writers’ knowledge and interaction with the new ITAK leader is superficial.
+
+...
+
+[Data](articles/4d10fa22.json)
+
+---
+
 ### 2024-02-26 (Monday)
+
+### பஷில் நாடு திரும்பியதும் புதிய அரசியல் கூட்டணி?
+
+*2024-02-26 23:20:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஷில்-நாடு-திரும்பியதும்-புதிய-அரசியல்-கூட்டணி/175-333856) · `ta`
+
+பஷில் ராஜபக்ஷ நாடு திரும்பியதும் அரசியல் கூட்டணி தொடர்பில் பேச்சுவார்த்தையில் ஈடுபடுவோம் என முன்னாள் ஜனாதிபதியும், ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைவருமான மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+
+பத்தரமுல்லையில் உள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமை காரியாலயத்தில் திங்கட்கிழமை (26) இடம்பெற்ற பேச்சுவார்த்தையின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மேலும், கட்சியின் தேசிய அமைப்பாளர் பஷில் ராஜபக்ஷ இன்னும் இருவாரங்களில் நாட்டுக்கு வருகைத் தருவார். அதன் பின்னர் அரசியல் கூட்டணி பற்றி கலந்துரையாடுவோம்.
+
+யாரை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்பதை கட்சியின் நிறைவேற்று சபையே தீர்மானிக்கும் என்றார். R
+
+◼️
+
+[Data](articles/e1662293.json)
+
+---
 
 ### The government is maneuver to govern the country under the Prime Minister - United People's Power
 
@@ -100,6 +136,20 @@ We have invited all political parties except the Sri Lanka PA to participate in 
 
 ---
 
+### Presidential elections and abolishing Executive Presidency
+
+*2024-02-26 23:08:29* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-elections-and-abolishing-Executive-Presidency/4-758883) · `en`
+
+Former President Maithripala Sirisena was reported to have addressed a group of SLFP supporters in Wennappuwa on Sunday, 11 February where he broke news, President Wickremesinghe has appointed a group of lawyers led by former Speaker Karu Jayasuriya to propose amendments to abolish the “Executive Presidency”. He is reported to have said, it could be a “referendum” that could come first, to postpone elections.
+
+Two days later, addressing the SJB Lawyers’ Forum on 13 February, Sajith Premadasa was reported as having said, his party will push for elections before any amendment to the Constitution. S.M. Marikkar SJB Colombo district MP addressing the media had said, SJB would not endorse any attempt to eliminate the position before the election, as it would only serve to enable President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna (SLPP) to prolong their tenure in power (Daily FT/13 Feb).
+
+...
+
+[Data](articles/b3474290.json)
+
+---
+
 ### Sweden to join NATO in historic move as Hungary ratifies bid
 
 *2024-02-26 23:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97552/sweden-to-join-nato-in-historic-move-as-hungary-ratifies-bid) · `en`
@@ -119,6 +169,54 @@ Hungarian Prime Minister Viktor Orban’s government has faced pressure from NAT
 [Data](articles/282da193.json)
 
 [Extended Data](ext_articles/282da193.ext.json)
+
+---
+
+### Royal College Colombo, religious extravagance and human values
+
+*2024-02-26 22:59:40* · [`dailyftlk`](https://www.ft.lk/columns/Royal-College-Colombo-religious-extravagance-and-human-values/4-758877) · `en`
+
+In the unessential we see the essential, in the essential we see the unessential, anyone who entertains such wrong thoughts will never realise the truth.
+
+Royal College, Colombo is planning to have a pirith chanting ceremony on 1 March this year. The intention is to do it in style with an accompanying perahera and an open invitation to the entire school community involving students, parents, and teachers. The required funds are being collected from the school students. The event is promoted as a collaborative religious program. Perhaps recent discussions in public forums that the school needs to be secular has some bearing on this repackaged message.
+
+This letter does not aim to discuss the pros and cons of this event. The focus is to come up with a pragmatic approach to address the scenario at the school, based on the Buddha’s universal teaching.
+
+...
+
+[Data](articles/75fe2f62.json)
+
+---
+
+### An ideal Presidential Manifesto 2024
+
+*2024-02-26 22:51:34* · [`dailyftlk`](https://www.ft.lk/opinion/An-ideal-Presidential-Manifesto-2024/14-758873) · `en`
+
+These imperative changes are pivotal for upholding democratic principles and ensuring the welfare of our nation
+
+Of paramount significance is the imperative for the candidate to operate with a selfless commitment devoid of personal ambitions or an inclination towards an extended political career for personal gain. This ensures that the candidate focuses on the nation’s and its citizens’ well-being. After a successful election, the candidate should commit to the predetermined time-bound action plan. Post-implementation, a pivotal step involves willingly stepping down from office, thereby facilitating the instigation of necessary electoral and structural changes that will fortify the democratic state parliament and curtail opportunities for malpractice
+
+...
+
+[Data](articles/94e3ce52.json)
+
+---
+
+### Inclusive and sustainable businesses: The role of the private sector
+
+*2024-02-26 22:46:35* · [`dailyftlk`](https://www.ft.lk/columns/Inclusive-and-sustainable-businesses-The-role-of-the-private-sector/4-758872) · `en`
+
+While many companies produce sustainability reports and set net zero carbon targets, those with a clear roadmap for achieving their carbon goals are still a minority
+
+There was a news article published on 7 February 2024 in Daily FT titled “Sri Lanka takes bold steps to promote Inclusive and Sustainable Business” (https://www.ft.lk/business/Sri-Lanka-takes-bold-step-to-promote-Inclusive-and-Sustainable-Businesses/34-758194).
+
+It further stated: “In a bid to boost economic growth whilst prioritising social and environmental welfare, Sri Lanka is embarking on a journey to promote Inclusive and Sustainable Businesses (ISBs).
+
+As a person who has involved in successfully implementing inclusive and sustainable business programs in Sri Lanka, I thought I should contribute my insights on this topic by addressing the role the private sector can play in Inclusive and Sustainable Business (ISBs).
+
+...
+
+[Data](articles/2b5f13b0.json)
 
 ---
 
@@ -1883,137 +1981,5 @@ The filling of the form on the inheritance website has also facilitated the need
 [Data](articles/000fa916.json)
 
 [Extended Data](ext_articles/000fa916.ext.json)
-
----
-
-### Immediate call number to sign up to heritage
-
-*2024-02-26 13:44:33* · [`adalk`](https://www.ada.lk/breaking_news/උරුමයට-ලියාපදිංචි-වෙන්න-ක්ෂණික-ඇමතුම්-අංකයක්/11-408284) · `si`
-
-The immediate call number has been introduced to apply for the Community to make the community to the community in relation to the intended ownership of the "Heritage" National Program.
-
-Accordingly, by the Presidential Secretariat, the inheritance National Office of the National Office of the National Office of the Public Office on 808 to 8.30 am to 8.30 am to 8.30 am to 8.30 pm, the Presidential Secretariat has enabled the public to register its request.
-
-Www.tinyurl.com/URUMAYA (Digital Application) The filling of the form has also been facilitated to satisfy the need.
-
-The 2024 Budget Proposals presented by President Ranil Wickremesinghe, presented by the Land Development Ordinance No 19, 1935, is a significant proposal.
-
-This heritage is a new value for the land, and there is the opportunity to strengthen their family economy.
-
-◼️
-
-[Data](articles/1afc7474.json)
-
-[Extended Data](ext_articles/1afc7474.ext.json)
-
----
-
-### Get the right right to land in 1908
-
-*2024-02-26 13:43:56* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩමට-සින්නක්කර-අයිතිය-ලබාගන්න-1908-අමතන්න/11-408283) · `si`
-
-The Land Development Ordinance No. 19 of 1935 is a budget proposal to the public by providing the unconditional freeholds of the farmers and low income families.
-
-So to facilitate the implementation of it by 808 to 8.30 am to 8.30 am to 8.30 am to 8.30 pm, by contacting the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the Public Office..
-
-The Presidential Section further states that the filling of www.tinyurl.com/urumaya www.tinyurl.com/urumaya (digital application) has been provided with the purpose of filling the requirement.
-
-◼️
-
-[Data](articles/89c2b447.json)
-
-[Extended Data](ext_articles/89c2b447.ext.json)
-
----
-
-### New fuel company to come to Sri Lanka
-
-*2024-02-26 13:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-வரும்-புதிய-எரிபொருள்-நிறுவனம்/175-333823) · `ta`
-
-Another foreign company has set foot in the Sri Lankan market to increase the competitiveness of the fuel market in Sri Lanka.
-
-Australia's "United Petroleum" is reportedly launching fuel sales in Sri Lanka.
-
-In this regard, the agreement was signed between the company and the Ministry of Energy and Energy on the 22nd.
-
-The company will be transferred to the company with 150 fuel stations currently operating in the country and 50 more refueling stations are to be established.
-
-It has been reported that the United Nations Petroleum Lanka Limited has been registered to carry out fuel supply operations in Sri Lanka.
-
-◼️
-
-[Data](articles/23a27ee8.json)
-
-[Extended Data](ext_articles/23a27ee8.ext.json)
-
----
-
-### Constable arrested with ice
-
-*2024-02-26 13:37:00* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සමග-කොස්තාපල්-අල්ලයි/11-408282) · `si`
-
-Anuradhapura Poyapshana Police say that a constable to be arrested as a computer message operator attached to the Anuradhapura Headquarters Police
-
-The victim was a 30-year-old constable where the Mihintale has been residing in Mawanella.
-
-The suspected sustactor was arrested in questionning of a 23-year-old suspar, a 23-year-old resident of Anuradhapura.
-
-The suspected constable was found in possession of 190 milligrams in his possession.
-
-The police say that the suspect is implementing this ice drug and a while, the police said.
-
-The suspect was produced before the Anuradhapura Magistrate's Court today (26th).
-
-◼️
-
-[Data](articles/0f2f7c3d.json)
-
-[Extended Data](ext_articles/0f2f7c3d.ext.json)
-
----
-
-### Convenor of Kelaniya Uni. Students’ Union arrested by CID
-
-*2024-02-26 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97540/convenor-of-kelaniya-uni-students-union-arrested-by-cid) · `en`
-
-The convenor of the Kelaniya University’s Students’ Union, Kelum Mudannayake, was arrested by the Criminal Investigation Department (CID) on Monday (26 Feb.).
-
-Mudannayake was arrested over a recent incident involving the ragging of a freshman at the University of Kelaniya, as per a complaint received by the public complaints division of the CID.
-
-According to police, Mudanannayake had been arrested at the Bandaranaike International Airport (BIA in Katunayake, while attempting to leave the country.
-
-The suspect is due to be produced before the Mahara Magistrate’s Court today, police said.
-
-◼️
-
-[Data](articles/711afd0f.json)
-
-[Extended Data](ext_articles/711afd0f.ext.json)
-
----
-
-### 49% phone numbers in peacekeeping in public offices
-
-*2024-02-26 13:16:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-அலுவலகங்களில்-அமைதிகாக்கும்-49-தொலைபேசி-எண்கள்/175-333822) · `ta`
-
-The study revealed that 49 percent of the telephone numbers found in government offices in Sri Lanka were not functioning.
-
-The study was conducted by the Department of Economics and Statistics of the University of Peradeniya to cover the whole country.
-
-The survey is carried out in view of the telephone numbers published on each Divisional Secretariat website.
-
-It has been examined whether these numbers are in use, whether the calls are answered and answers to questions.
-
-Of the 589 telephone numbers under inspected, 286, ie 49 percent of the passive numbers.
-
-As well as 22 percent of phones are active and not responding. According to the research department, the percentage of responding to calls is 29%.
-
-The standard digits of 98 local bodies, 23 municipal councils and 36 municipal councils have been used for this study.
-
-...
-
-[Data](articles/905f46c1.json)
-
-[Extended Data](ext_articles/905f46c1.ext.json)
 
 ---

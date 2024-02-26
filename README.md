@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 15:32:58**
+As of **2024-02-26 15:51:43**
 
 ## Newspaper Stats
 
-*Scraped **9,350** Articles*
+*Scraped **9,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 1,129
 tamilmirrorlk | 1,151
 virakesarilk | 1,270
 dailymirrorlk | 1,407
-adaderanasinhalalk | 1,413
+adaderanasinhalalk | 1,415
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,345 (99.9%) of 9,350 articles have been extended.
+9,352 (100.0%) of 9,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Minister Nimal Airlints
+
+*2024-02-26 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193841) · `si`
+
+Minister Nimal Siripala de Silva expressed his views regarding the investigationary aircraft delay recently.
+
+The Minister pointed out that passengers were severely inconvenienced due to delay in the staff.
+
+Speaking further Minister Nimal Siripala de Silva said.
+
+◼️
+
+[Data](articles/6b01fa82.json)
+
+[Extended Data](ext_articles/6b01fa82.ext.json)
+
+---
+
+### Central Bank Executives
+
+*2024-02-26 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193840) · `si`
+
+The Association of the Central Bank of Sri Lanka has issued a special announcement regarding critical criticism of the employee pay.
+
+The statement states that the Central Bank of Sri Lanka has established an independent institution since its inception.
+
+According to the statement, the pre-governing body and the present governing body have been assigned to the current governing body and the administrative independence of the administrative independence is the same as the administrative independence.
+
+The statement further stated that the central bank pensioners were completely false by the private agenda of the Central Bank of the Central Bank of the Central Bank of the Central Bank.
+
+In the announcement, some private banks, including some private banks, has taken various measures to avoid the inflation of the country and the prevailing tax burden.
+
+They also emphasize that the politicians should be explained in the face of the political assassinations on the basis of a Supreme Court decision.
+
+...
+
+[Data](articles/7e280b77.json)
+
+[Extended Data](ext_articles/7e280b77.ext.json)
+
+---
 
 ### Plastics account for 10 percent of waste collected by local authorities
 
@@ -43,6 +85,8 @@ JICA conducted a survey through “Project for Strengthening Plastic Management 
 ...
 
 [Data](articles/a7868b72.json)
+
+[Extended Data](ext_articles/a7868b72.ext.json)
 
 ---
 
@@ -76,6 +120,8 @@ The inauguration ceremony, presided over by Minister Mahinda Amaraweera, marked 
 
 [Data](articles/72eec5f9.json)
 
+[Extended Data](ext_articles/72eec5f9.ext.json)
+
 ---
 
 ### Palestinian Prime Minister submits resignation to President Abbas
@@ -91,6 +137,8 @@ The U.S. wants a reformed Palestinian Authority to govern Gaza once the war is o
 ◼️
 
 [Data](articles/bae48d7f.json)
+
+[Extended Data](ext_articles/bae48d7f.ext.json)
 
 ---
 
@@ -149,6 +197,8 @@ The proposal to grant unconditional freehold ownership of lands allocated to far
 ...
 
 [Data](articles/2ee5b935.json)
+
+[Extended Data](ext_articles/2ee5b935.ext.json)
 
 ---
 
@@ -555,6 +605,8 @@ He then doused himself in a clear liquid and set himself on fire, screaming "Fre
 ...
 
 [Data](articles/0cbcf452.json)
+
+[Extended Data](ext_articles/0cbcf452.ext.json)
 
 ---
 
@@ -1975,37 +2027,5 @@ Meanwhile, the Vavuniya police have advised the public to stop motorcycles in pu
 [Data](articles/60a56859.json)
 
 [Extended Data](ext_articles/60a56859.ext.json)
-
----
-
-### President Ranil Wickremesinghe and former MP Chandrakumar meet
-
-*2024-02-26 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/177285) · `ta`
-
-President Ranil Wickremesinghe, former MP and General Secretary of the Equality Party, and Samajwadi Party leader Su Manoharan met in Colombo on Saturday (24).
-
-During the meeting, which was held on Saturday morning (24), the former parliamentarian was discussed on the current political economic conditions of the North, including the Kilinochchi district, and the future political activities of the country.. Chandrakumar said.
-
-◼️
-
-[Data](articles/b9afed19.json)
-
-[Extended Data](ext_articles/b9afed19.ext.json)
-
----
-
-### Reflection of economic policies in post-independence Sri Lanka
-
-*2024-02-26 02:20:54* · [`dailyftlk`](https://www.ft.lk/columns/Reflection-of-economic-policies-in-post-independence-Sri-Lanka/4-758841) · `en`
-
-Owing to a long persisted inward-looking economic policy, large unproductive public sector and unfavourable monetary and exchange rate policies, the country failed to develop a sufficiently large export-oriented industrial sector
-
-Sri Lanka is celebrating 76 years of independence this year, and the country is just emerging from its worst ever economic crisis which erupted in 2022. With the support of the IMF Extended Fund Facility arrangement and debt restructuring, which aims to restore long-term public debt sustainability, the country is obligated to make certain structural economic policy reforms to avoid the repetition of a similar crisis in the future.
-
-...
-
-[Data](articles/c88e4ffd.json)
-
-[Extended Data](ext_articles/c88e4ffd.ext.json)
 
 ---

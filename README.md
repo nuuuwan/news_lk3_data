@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 16:32:52**
+As of **2024-02-26 16:47:43**
 
 ## Newspaper Stats
 
@@ -26,43 +26,47 @@ adaderanasinhalalk | 1,420
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,363 (100.0%) of 9,365 articles have been extended.
+9,365 (100.0%) of 9,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### බොර තෙල් මිලේ ලොකු වෙනසක්
+### Big change in crude oil
 
 *2024-02-26 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193846) · `si`
 
-ලෝක වෙළෙඳපොළෙහි බොර තෙල් මිල අදත් අඩුවී ඇති බව විදෙස් මාධ්‍ය පවසයි.
+The crude oil prices of the world market have been reduced today.
 
-වැඩිවී ඇති උද්ධමනය හේතුවෙන් අමෙරිකානු පොලී අනුපාත කප්පාදුව පමාවීමේ පසුබිම මත ඩොලරය ශක්තිමත් වීම ඊට බලපා ඇති බව සඳහන් ය.
+The dollar has been strengthened on the background of US interest cuts due to increased inflation.
 
-මේ අනුව බ්‍රෙන්ට් වර්ගයේ බොරතෙල් බැරලයක මිල ඩොලර් 81යි ශත 27 දක්වා පහත බැස ඇති අතර අමෙරිකානු WTI බොර තෙල් බැරලයක මිල සටහන් වන්නේ ඩොලර් 76යි ශත 14ක් ලෙසට ය.
+Accordingly, a barrel of Brent crude oil has declined from $ 81 and 27 cents.
 
-ඩොලරය ශක්තිමත් වීම තුළින් අනිකුත් විනිමය වලින් ගනුදෙනු කරන්නන්ට තෙල් වඩාත් මිල අධික වෙළෙඳ භාණ්ඩයක් බවට පත්වෙයි.
+By strengthening the dollar, oil becomes more expensive commodity for dealing with other exchange.
 
-මේ අතර ලෝක වෙළෙඳපොළේ රන් මිලද අමෙරිකානු ඩොලරය ශක්තිමත් විමත් සමග පහළ වැටීමක් පෙන්නුම් කරන අතර රන් අවුන්සයක මිල මේ වනවිට සටහන් වන්නේ ඩොලර් 2030යි ශත 90ක් ලෙසයි.
+Meanwhile, gold prices in the world market showed a down-to-US dollar and the price of gold is currently recorded as $ 2030 and 90 cents.
 
 ◼️
 
 [Data](articles/936408cf.json)
 
+[Extended Data](ext_articles/936408cf.ext.json)
+
 ---
 
-### අධ්‍යාපන අමාත්‍යාංශයෙන් මාර්ගෝපදේශ මාලාවක්
+### A series of guidelines from the Ministry of Education
 
 *2024-02-26 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193845) · `si`
 
-අධික උෂ්ණත්වය සහිත කාලගුණික තත්ත්වය හමුවේ ඇතිවිය හැකි අහිතකර තත්ත්වයන්ගෙන් පාසල් දරුවන් ආරක්ෂා කරගැනීම සඳහා මාර්ගෝපදේශ මාලාවක් නිකුත් කර තිබේ.
+A series of guidelines have been issued to protect the school children from the unfavorable conditions that can be found in the face of high temperatures.
 
-අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසන්නේ මේ සම්බන්ධයෙන් විදුහල්පතිවරුන් දැනුවත් කරන ලෙස සියලුම පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් වෙත දැනුම්දී ඇති බවය.
+The Ministry of Education issues a statement saying that all Provincial Directors have been informed to inform the principals in this regard.
 
 ◼️
 
 [Data](articles/1040156f.json)
+
+[Extended Data](ext_articles/1040156f.ext.json)
 
 ---
 

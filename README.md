@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 21:02:39**
+As of **2024-02-26 21:17:28**
 
 ## Newspaper Stats
 
-*Scraped **9,410** Articles*
+*Scraped **9,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 493
 islandlk | 495
-adalk | 797
+adalk | 798
 adaderanalk | 1,136
 tamilmirrorlk | 1,156
 virakesarilk | 1,285
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,410 (100.0%) of 9,410 articles have been extended.
+9,410 (100.0%) of 9,411 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -215,6 +215,24 @@ The body was subsequently recovered by the police and handed over to the hospita
 [Data](articles/9a0235a0.json)
 
 [Extended Data](ext_articles/9a0235a0.ext.json)
+
+---
+
+### බැසිල් සති දෙකකින් එනවා - පුතා යන්නේ පියාගේ අඩිපාරේ
+
+*2024-02-26 18:54:42* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-සති-දෙකකින්-එනවා---පුතා-යන්නේ-පියාගේ-අඩිපාරේ/11-408291) · `si`
+
+හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතා තව සතියකින් හෝ දෙකකින් දිවයිනට පැමිණෙනු ඇති බවත් ඉන් අනතුරුව පක්ෂයේ සංවිධාන කටයුතු ආරම්භ කරන බව හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා පැවැසීය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ පක්ෂ මූලස්ථානයේ පැවැති වැඩසටහකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවැසීය.
+
+එසේම කථානායකවරයාට එරෙහිව සමගි ජන බලවේගය ගෙන එන විශ්වාසභංග යෝජනාව පරාජයට  පත්කරන බවත් ඔහු පැවැසීය.
+
+එසේම නාමල් රාජපක්ෂ මහතා මේ වන විට විහාරස්ථානවලට යන්නේ ඇයිදැයි විමසූ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු පැවැසුවේ ඔහු බෞද්ධයෙක් බවයි. එසේම පුතාද ගමන් කරන්නේද පියාගේ අඩිපාරේ බවයි.
+
+◼️
+
+[Data](articles/c6afb457.json)
 
 ---
 
@@ -1987,29 +2005,5 @@ The large shark that was trapped in a trap of a fisherman from Vadamarachchi Eas
 [Data](articles/18086451.json)
 
 [Extended Data](ext_articles/18086451.ext.json)
-
----
-
-### Two arrested for aiding and abetting shooting in Lellama
-
-*2024-02-26 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97536/two-arrested-for-aiding-and-abetting-shooting-in-lellama-) · `en`
-
-Two persons have been arrested in connection with a murder that took place in Lellama, Negombo in August 2023.
-
-According to police, the arrestees had reportedly aided and abetted the shooters by hiding the motorcycle they had used to carry out the shooting.
-
-The suspects, aged 32 and 40, have been identified as residents of the Baduwatte and Ambalayaya areas in Katana.
-
-The motorcycle used by the gunmen was also subsequently recovered by the Negombo Crimes Division, based on information received while interrogating the suspects.
-
-On 12 August 2023, two unidentified gunmen had arrived on the motorcycle in question and opened fire at a 25-year-old youth at Lellama, Negombo.
-
-The youth, identified as a resident of the Pitipana area, was immediately rushed to the Negombo Hospital, however, was later pronounced dead.
-
-◼️
-
-[Data](articles/f877a68f.json)
-
-[Extended Data](ext_articles/f877a68f.ext.json)
 
 ---

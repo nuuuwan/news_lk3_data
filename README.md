@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 08:17:41**
+As of **2024-02-26 08:33:10**
 
 ## Newspaper Stats
 
-*Scraped **9,267** Articles*
+*Scraped **9,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 467
 dailyftlk | 492
 islandlk | 494
 adalk | 776
-adaderanalk | 1,118
+adaderanalk | 1,119
 tamilmirrorlk | 1,139
 virakesarilk | 1,259
 dailymirrorlk | 1,390
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,398
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,267 (100.0%) of 9,267 articles have been extended.
+9,267 (100.0%) of 9,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Prevailing dry weather condition expected to change from today
+
+*2024-02-26 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97532/prevailing-dry-weather-condition-expected-to-change-from-today) · `en`
+
+The prevailing dry weather condition in Eastern and Uva provinces is expected to temporarily change from today (26), according to the Meteorology Department.
+
+Showers will occur at times in Nuwara-Eliya, Matale and Polonnaruwa districts while several spells of showers will occur in Eastern and Uva provinces, it said.
+
+Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Kandy, Galle and Matara districts in the evening or night.
+
+Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, Southern, North-western, Uva and Eastern provinces.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/46e2ddd0.json)
+
+---
 
 ### School child killed in drowning
 
@@ -2019,25 +2039,5 @@ As such, further investigations are being carried out by the Colombo Fraud Inves
 [Data](articles/97c68bd7.json)
 
 [Extended Data](ext_articles/97c68bd7.ext.json)
-
----
-
-### 10 feet crocodile arrested for house nearby
-
-*2024-02-25 12:29:29* · [`adalk`](https://www.ada.lk/breaking_news/නිවසක්-ළඟට-පැමිණි-අඩි-10ක-කිඹුලෙක්-අල්ලයි/11-408261) · `si`
-
-The Meegalewa Wandivovid office said that a large Kituwe and Meegalewa Wildlife Officers near the house near the house at night.
-
-The Meemena Wildlife Office further stated that the crocodiles were captured by wildlife officials with the assistance of the area.
-
-The Meemena Wildlife Office is suspected to be distributed to hunting these crocodiles for ten feet.
-
-The shop is taken to the Wilpattu National Park and released to the Wilpattu National Park.
-
-◼️
-
-[Data](articles/f32e3847.json)
-
-[Extended Data](ext_articles/f32e3847.ext.json)
 
 ---

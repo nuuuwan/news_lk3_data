@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 02:17:38**
+As of **2024-02-27 02:33:11**
 
 ## Newspaper Stats
 
-*Scraped **9,454** Articles*
+*Scraped **9,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 481
 islandlk | 495
-dailyftlk | 500
+dailyftlk | 504
 adalk | 799
 adaderanalk | 1,139
 tamilmirrorlk | 1,158
-virakesarilk | 1,290
+virakesarilk | 1,292
 dailymirrorlk | 1,425
 adaderanasinhalalk | 1,430
 
@@ -26,11 +26,107 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,454 (100.0%) of 9,454 articles have been extended.
+9,454 (99.9%) of 9,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### கனடாவிலிருந்து மாதகலுக்கு வந்தவர் மூச்சுவிட சிரமப்பட்ட நிலையில் உயிரிழப்பு!
+
+*2024-02-27 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177384) · `ta`
+
+மூச்செடுக்க சிரமப்பட்ட நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட ஆணொருவர் திங்கட்கிழமை (26) உயிரிழந்துள்ளார். கனடாவில் வசிக்கும் சோதிலிங்கம் கந்தசாமி என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவர் கடந்த சில நாட்களுக்கு முன்னர் மாதகல் கிழக்கு, மாதகல் என்ற முகவரியில் உள்ள உறவினர் வீட்டுக்கு வருகை தந்திருந்தார். இந்நிலையில் அவருக்கு ஞாயிற்றுக்கிழமை (25) மூச்சு எடுப்பதில் சிரமம் ஏற்பட்டதால் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சை பலனின்றி திங்கட்கிழமை (26) உயிரிழந்துள்ளார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார்.  உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/a7d8ffa9.json)
+
+---
+
+### மட்டக்களப்பில் பாதுகாப்பற்ற புகையிரத கடவை ஊழியர்கள் பணிபுறக்கனிப்பு ; 2 நாளாகத் தொடர் ஆர்பாட்டம்
+
+*2024-02-27 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177383) · `ta`
+
+மட்டக்களப்பில் பாதுகாப்பற்ற புகையிரத கடவை ஊழியர்கள் தம்மை பொலிஸ் அடிமையிலிருந்து விடுவிக்குமாறும் வழங்கப்பட்டுவரும் மாதாந்த சம்பளமான 7 ஆயிரத்து 500 ரூபா சம்பளத்தை உயர்த்தி தருமாறும் பணியை நிரந்தரமாக்குமாறு கோரி  திங்கட்கிழமை (26) இரண்டாவது நாளாக பணிபுறக்கணிப்பு மேற்கொண்டுவருவதுடன்  மட்டு. புகையிரத நிலையத்தின் முன்னால்; தொடர் ஆர்பாட்டத்தில் ஈடுபட்டுவருகின்றனர்.
+
+கடந்த 2013 ம் ஆண்டு பொலிஸ் அதிகாரிகளால் பாதுகாப்பற்ற புகையிரத கடவை ஊழியர்களாக நியமிக்கப்பட்டு நாள் ஒன்றிற்கு 250 ரூபா வீதம் மாதாந்தம் 7 ஆயிரத்து 500 ரூபா கொடுக்கப்பட்டுவருகின்றது எனவே தற்போது குடும்ப செலவுக்கு மாதாந்தம் 35 ஆயிரம் ரூபா தேவைப்படுகின்றது எனவே சம்பளத்தை உயர்த்தியும் பணியை நிரந்தரமாக்கியும் தருமாறு கோரி மட்டக்களப்பு மாவட்டத்தில்  கடமையாற்றிவரும் பாதுகாப்பற்ற புகையிரத கடவை ஊழியர்கள் ஞாயிற்றுக்கிழமை (25) பணியை புறக்கணித்து ஆர்பாட்ட போராட்டத்தை ஆரம்பித்தனர்.
+
+...
+
+[Data](articles/f6996327.json)
+
+---
+
+### Entrepreneurs’ Forum of IESL conducts successful seminar on entrepreneurship
+
+*2024-02-27 01:14:03* · [`dailyftlk`](https://www.ft.lk/business/Entrepreneurs-Forum-of-IESL-conducts-successful-seminar-on-entrepreneurship/34-758910) · `en`
+
+An excellent keynote address was made by veteran business leader Aravinda Perera on the theme of ‘Leverage Engineering to successful entrepreneurship and intrapreneurship’ recently at the IESL Auditorium.
+
+The event was participated by a large number of IESL members and corporate leaders. Entrepreneurs Forum Chairman Eng. Mangala Silva moderated the session.
+
+Aravinda highlighted the importance of rewarding team ideas to transform organisations. He encouraged the IESL Entrepreneurs Forum to initiate a mentoring platform for new entrepreneurs and funding support for ongoing business with the help of banks and other agencies and also he emphasised running a business with passion.
+
+Aravinda Perera was presented with a memento of appreciation by Vice President IESL Eng. Kamala Gunawardene accompanied by the Chairman of the Forum Eng. Mangala Silva and Entrepreneurs’ Forum Deputy Chairman Eng. Kemantha Perera.
+
+...
+
+[Data](articles/284ef5ea.json)
+
+---
+
+### Envoy in UK, BOI Chief meet investors in London
+
+*2024-02-27 01:12:43* · [`dailyftlk`](https://www.ft.lk/business/Envoy-in-UK-BOI-Chief-meet-investors-in-London/34-758909) · `en`
+
+Sri Lanka’s High Commissioner in the United Kingdom Rohitha Bogollagama and the Board of Investment Chairman Dinesh Weerakkody last week met several potential investors to discuss several business opportunities and also with senior officials of the Standard Chartered Bank UK and Virtusa Corporation at the Sri Lanka High Commission in London. Pictured here is Bogollagama and Weerakkody with the investors and officials.
+
+◼️
+
+[Data](articles/edf8c915.json)
+
+---
+
+### PRISL hosts workshop on efficient energy management
+
+*2024-02-27 01:11:26* · [`dailyftlk`](https://www.ft.lk/business/PRISL-hosts-workshop-on-efficient-energy-management/34-758908) · `en`
+
+The Plastics and Rubber Institute of Sri Lanka (PRISL) recently concluded a highly informative and well attended 1-day workshop, under the timely theme, “Revitalising the industry, smart energy, lean costs, brighter future” with the assistance of the Sri Lanka Energy Managers Association.
+
+PRISL President P.P. Perera delivered the welcome address and the keynote speech was given by the Ministry of Industries Polymer Advisory Council Chairman Kaushal Rajapaksa.
+
+The proceedings were conducted by the eminent professionals Dr. Tilak Siyambalapitiya, Eng. Chamila Delpitiya, Eng, Ronald Comester, and Eng. Ananda Namal.
+
+The topics delivered generated a high level of interest and lively discussions between the 72 participants and the resource personnel.
+
+...
+
+[Data](articles/35f4f51c.json)
+
+---
+
+### Seminar on new anti-corruption laws and impact on private sector
+
+*2024-02-27 01:10:53* · [`dailyftlk`](https://www.ft.lk/business/Seminar-on-new-anti-corruption-laws-and-impact-on-private-sector/34-758907) · `en`
+
+A top level seminar on the new anti-corruption laws and their impact on the private sector will be held on 21 March at 2.00 p.m. at the Movenpick Hotel, Colombo.
+
+Distinguished speakers at the seminar include former Commission to Investigate Allegations of Bribery or Corruption (CIABOC) of Sri Lanka Director General Sarath Jayamanne PC, with extensive criminal legal experience as a Senior Additional Solicitor General in the Attorney General’s department.
+
+Joining him is newly appointed commissioner to the CIABOC Chethiya Gunasekera, who is also a President’s Counsel and a former Additional Solicitor General at the Attorney General’s department.
+
+The seminar will feature insights from other prominent officials such as CIABOC Assistant Director General D.I. Rajapakse, Assistant Director Legal U. Kumarihamy, former Securities and Exchange Commission of Sri Lanka Director General and Ministry of Finance Senior Advisor Malik Cader will chair the sessions.
+
+...
+
+[Data](articles/33a90d15.json)
+
+---
 
 ### SJB initiates no-confidence motion against Speaker over OSA
 
@@ -1885,117 +1981,5 @@ Prime Minister Mohammad Shtayehi said he gave his resignation letter to Presiden
 [Data](articles/dadcfb01.json)
 
 [Extended Data](ext_articles/dadcfb01.ext.json)
-
----
-
-### Sri Lanka exporters to maintain king coconut prices at Rs 2,000
-
-*2024-02-26 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-exporters-to-maintain-king-coconut-prices-at-Rs-2-000/108-277736) · `en`
-
-Colombo, Feb 26 (Daily Mirror) - In a move to bolster Sri Lanka's position as a leading exporter of king coconuts, exporters have agreed to uphold prices at 2000 rupees per fruit, announced Minister of Agriculture and Plantation Industry, Mahinda Amaraweera.
-
-The decision came amidst plans to expand king coconut cultivation, with the inauguration of the second king coconut cultivation village near Murutawela Raluwa village.
-
-The inauguration ceremony, presided over by Minister Mahinda Amaraweera, marked the establishment of the second king coconut cultivation village, following the success of the first village in Pahala Muruthawela last year. The initiative aims to meet the growing demand for Sri Lankan king coconuts, particularly in the United Arab Emirates and other international markets.
-
-...
-
-[Data](articles/72eec5f9.json)
-
-[Extended Data](ext_articles/72eec5f9.ext.json)
-
----
-
-### Palestinian Prime Minister submits resignation to President Abbas
-
-*2024-02-26 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97542/palestinian-prime-minister-submits-resignation-to-president-abbas) · `en`
-
-Palestinian Prime Minister Mohammed Shtayyeh says his government is resigning, in a move that could open the door to U.S.-backed reforms in the Palestinian Authority.
-
-President Mahmoud Abbas must still decide whether he accepts Shtayyeh and his government’s resignation, tendered Monday. But the move signals a willingness by the Western-backed Palestinian leadership to accept shake-up that might usher in reforms seen as necessary to revitalize the Palestinian Authority.
-
-The U.S. wants a reformed Palestinian Authority to govern Gaza once the war is over. But many obstacles remain to making that vision a reality.
-
-◼️
-
-[Data](articles/bae48d7f.json)
-
-[Extended Data](ext_articles/bae48d7f.ext.json)
-
----
-
-### Let's gather like opposition parties
-
-*2024-02-26 14:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகளைப்-போல-திரள்வோம்/175-333825) · `ta`
-
-The Speaker is not going to allow the Speaker to destroy the democracy that has been protected for 93 years.
-
-Moreover, the professor said that the signature of the no -confidence motion against the Speaker was chaired by the Opposition Leader today and that the Enemy Security Act was passed in Parliament in violation of the Constitution.
-
-◼️
-
-[Data](articles/2b33b733.json)
-
-[Extended Data](ext_articles/2b33b733.ext.json)
-
----
-
-### Thiruvalluvar Kurupusai Day in Jaffna
-
-*2024-02-26 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177335) · `ta`
-
-Thiruvalluvar Kurupusai Day at the Kopay Teacher College in Jaffna was held on Monday (26).
-
-The event was chaired by Chancellor Chandramaulisan Lalisan, President of the College.. Lecturers and teachers performed floral worship.
-
-Thiruvalluvar and Thirukkural were held. Book prizes were honored with teachers who delivered the speeches. These were presented by the senior lecturer of the college, Mujayakumari.
-
-It is customary to be observed on the day of the month of Thiruvalluvar Kurupusai. It is the belief of Tamil scholars that Thiruvalluvar was born in the month of Vaikasi and was completed in the star of the month of Masi Month. Mr. VK, Tamil grandfather UW Saminathiyar has proposed this view.
-
-The activities of the Kopay Teacher College have begun daily with the greeting of Thiruvalluvar.
-
-◼️
-
-[Data](articles/5e3f352d.json)
-
-[Extended Data](ext_articles/5e3f352d.ext.json)
-
----
-
-### Sri Lanka main opposition files no-confidence motion against speaker
-
-*2024-02-26 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-main-opposition-files-no-confidence-motion-against-speaker-152111/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s main opposition, the Samagi Jana Balawegaya (SJB), has filed a motion of no confidence against the Speaker of Parliament for approving the controversial Online Safety Bill allegedly in violation of Supreme Court recommendations.
-
-The SJB said on Monday February 26 that the motion is being filed against Speaker Mahinda Yapa Abeywardena’s “gross misconduct and disregard for the supreme law of the land”.
-
-“He has betrayed the trust of the people and the parliament. It’s time to unite for transparency and accountability,” the party said in a statement.
-
-Apart from SJB leader and Opposition Leader Sajith Premadasa, Chief Opposition MP and SJB MP Lakshman Kiriella and SJB National Organiser MP Tissa Attanayake, former members of the government who are now allied with the SJB also signed the motion on behalf the SJB-led Samagi Jana Alliance. These MPs included G L Peiris, Chandima Weerakkody and Shan Wijayalal de Silva.
-
-...
-
-[Data](articles/75e0fb51.json)
-
-[Extended Data](ext_articles/75e0fb51.ext.json)
-
----
-
-### Another terrible danger in CCTV camera
-
-*2024-02-26 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193838) · `si`
-
-A SLTB bus collided with a person who was traveling along the pastern near the bus station in front of the Weligama bus stand.
-
-The injured person is a person of Karapitiya Hospital and he was admitted to the Karapitiya Hospital.
-
-The driver of the bus was arrested by the police and the accident was in a CCTV camera.
-
-◼️
-
-[Data](articles/e9aa8a95.json)
-
-[Extended Data](ext_articles/e9aa8a95.ext.json)
 
 ---

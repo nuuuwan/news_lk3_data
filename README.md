@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 11:33:16**
+As of **2024-02-26 11:52:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,298 (100.0%) of 9,299 articles have been extended.
+9,299 (100.0%) of 9,299 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ The youth, identified as a resident of the Pitipana area, was immediately rushed
 ◼️
 
 [Data](articles/f877a68f.json)
+
+[Extended Data](ext_articles/f877a68f.ext.json)
 
 ---
 

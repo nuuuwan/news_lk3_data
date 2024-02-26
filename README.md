@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 10:02:39**
+As of **2024-02-26 10:17:17**
 
 ## Newspaper Stats
 
-*Scraped **9,289** Articles*
+*Scraped **9,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 1,120
 tamilmirrorlk | 1,145
 virakesarilk | 1,261
 dailymirrorlk | 1,396
-adaderanasinhalalk | 1,402
+adaderanasinhalalk | 1,403
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,289 (100.0%) of 9,289 articles have been extended.
+9,289 (100.0%) of 9,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### තැඹිලි ගෙඩියක් රුපියල් 2,000කට - සල්ලි හොයන අලුත්ම විදිය
+
+*2024-02-26 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193829) · `si`
+
+අපනයනය ඉලක්ක කර ගනිමින් තැඹිලි වගාකිරීමේ දෙවන ගම්මානය මුරුතවෙල රළුව ගම්මානය ආශ්‍රිතව ස්ථාපිත කර තිබේ.
+
+◼️
+
+[Data](articles/b43e86f0.json)
+
+---
 
 ### Colombo - Jampatta Road shooting;The wounded is the closest friend of 'Bukudu Kanna'
 
@@ -2021,19 +2033,5 @@ According to police, the injured individual was immediately rushed to hospital w
 [Data](articles/e9a9da60.json)
 
 [Extended Data](ext_articles/e9a9da60.ext.json)
-
----
-
-### Shooting in Colombo
-
-*2024-02-25 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193808) · `si`
-
-According to sources, a person who was injured in shooting has been hospitalized.
-
-◼️
-
-[Data](articles/5ce87375.json)
-
-[Extended Data](ext_articles/5ce87375.ext.json)
 
 ---

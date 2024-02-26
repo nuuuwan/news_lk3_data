@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 07:16:14**
+As of **2024-02-26 07:32:28**
 
 ## Newspaper Stats
 
-*Scraped **9,254** Articles*
+*Scraped **9,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 111
 dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 467
-islandlk | 486
 dailyftlk | 492
+islandlk | 494
 adalk | 776
 adaderanalk | 1,118
 tamilmirrorlk | 1,136
@@ -26,27 +26,29 @@ adaderanasinhalalk | 1,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,253 (100.0%) of 9,254 articles have been extended.
+9,254 (99.9%) of 9,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### කාලගුණයේ වෙනසක්
+### A change in the weather
 
 *2024-02-26 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193821) · `si`
 
-අද (26) සිට නැගෙනහිර සහ ඌව පළාත්වල පවතින වියළි කාලගුණ තත්ත්වයේ තාවකාලික වෙනසක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology says that the dry weather in the Eastern and Uva provinces will be expected today.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces or in the evening or night in the Kandy, Galle and Matara districts.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, දකුණු, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් විටින් විට හමන පැ.කි.මී. (30-40) පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+From time to time in the East, East, Southern, Southern, Uva and Eastern Provinces, North, North, Southern, Uva and Eastern Provinces.. (30-40) Strong winds can occur.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/f93a1881.json)
+
+[Extended Data](ext_articles/f93a1881.ext.json)
 
 ---
 
@@ -139,6 +141,46 @@ The event commenced with an illuminating keynote address by KPMG Principal, Head
 [Data](articles/ffea674c.json)
 
 [Extended Data](ext_articles/ffea674c.ext.json)
+
+---
+
+### Finnish Overseas Preschool opened at One Galle Face Mall
+
+*2024-02-26 03:22:00* · [`islandlk`](http://island.lk/finnish-overseas-preschool-opened-at-one-galle-face-mall/) · `en`
+
+Finnish Overseas Preschool – Premium Day Care and Activity Centre has announced the official opening of its second location at Level 4, Units 11 & 12, One Galle Face Mall. This expansion marks a significant milestone in the landscape of early childhood education and reinforces the commitment of Modern Learning Studio, the parent organisation, to shape the future of education through innovation, culture, and holistic development.
+
+The dynamic learning environment is designed to nurture a passion for learning, cultivate essential 21st-century skills, and create lasting, joyful childhood memories.
+
+...
+
+[Data](articles/15ab7bfa.json)
+
+---
+
+### Singer Sri Lanka launches HONOR X9B
+
+*2024-02-26 03:21:00* · [`islandlk`](http://island.lk/singer-sri-lanka-launches-honor-x9b/) · `en`
+
+Singer Sri Lanka PLC recently marked a significant milestone with the grand unveiling of the newest smartphone models from HONOR.The event, hosted on February 22, 2024, at the Shangri-La Hotel, Colombo, showcased the technological prowess and innovative design of the HONOR X Series, underlining the flourishing partnership between Singer and HONOR. The event also celebrated the rapid success HONOR has enjoyed among Sri Lankan smartphone owners since having been introduced in April of last year.
+
+“Our collaboration with HONOR is more than a partnership; it’s a shared journey towards excellence in technology accessible to all. The introduction of the HONOR X9b, along with the X7b and X8b, mirrors our dedication to innovation and quality. We are eager for the Sri Lankan consumers to experience the unmatched quality and value these models bring to the table,” stated Mahesh Wijewardene, CEO Singer Group, commenting on the launch of the new devices.
+
+...
+
+[Data](articles/33147bc5.json)
+
+---
+
+### Würth Group surpasses EUR 20 billion in global sales
+
+*2024-02-26 03:21:00* · [`islandlk`](http://island.lk/wurth-group-surpasses-eur-20-billion-in-global-sales/) · `en`
+
+The Würth Group, a global leader in assembly and fastening materials, has achieved a historic milestone with annual sales exceeding EUR 20 billion for the first time in its corporate history, according to its preliminary financial statements for the 2023 fiscal year. Despite global economic and political challenges, the Group experienced growth, with sales increasing by 2.4 percent, reaching 3.5 percent when adjusted for currencies. The operating result is expected to be EUR 1.4 billion, marking the second-best result in the Group’s history.
+
+...
+
+[Data](articles/c2cb020f.json)
 
 ---
 
@@ -587,6 +629,64 @@ Under the E-9 or E-10 Visa categories, there should be a person who has not work
 [Data](articles/f2c5c12a.json)
 
 [Extended Data](ext_articles/f2c5c12a.ext.json)
+
+---
+
+### Build SL 2024 to feature ‘China Trade Pavilion’
+
+*2024-02-25 21:52:00* · [`islandlk`](http://island.lk/build-sl-2024-to-feature-china-trade-pavilion/) · `en`
+
+The Build Sri Lanka 2024 exhibition, organized by the Chamber of Construction Industry of Sri Lanka is scheduled to be held on 10th, 11th, 12th May 2024 at the BMICH.A special feature that can be experienced in the Build SL 2024 is the China Trade Pavilion. This exhibition will be an opportunity for Local foreign participants to gather to discuss the business-to-business trading partnerships.
+
+As another arrangement, a SME pavilion will be established for small and medium businesses to promote products, create awareness of their products, to find new markets, and experience product sampling at a nominal fee.
+
+The handing over ceremony of sponsorship cheques was held on 21st Feb 2024 at the Chamber of Construction Industry, Colombo. Archt. Jayantha Perera, President, CCI and Eng. Maj. Ranjith Gunathilaka, immediate past President of CCI and Eng. Nissanka N. Wijeratne, Secretary General of CCI, were present at this ceremony.
+
+...
+
+[Data](articles/4694f281.json)
+
+---
+
+### Sunshine Healthcare introduces skin protectant solution
+
+*2024-02-25 21:51:00* · [`islandlk`](http://island.lk/sunshine-healthcare-introduces-skin-protectant-solution/) · `en`
+
+In a groundbreaking move, Sunshine Healthcare Lanka Limited (SHL), the healthcare arm of Sunshine Holdings PLC, announces the introduction of Cavilon No Sting Barrier Film by 3M to the Sri Lankan market. As the exclusive distributor, SHL is set to revolutionize wound care by providing unparalleled access to high-quality skin protectant products, marking a significant milestone in the country’s healthcare landscape.
+
+Acknowledging patient safety as a top priority, Sunshine Healthcare Lanka recognizes the crucial role of skin protection in preventing healthcare-associated skin damage. The skin, being the body’s largest organ, is vulnerable to various risks in healthcare settings, including prolonged exposure to moisture, friction, shear, adhesives, and irritants, leading to complex conditions such as Moisture Associated Skin Damage (MASD), Pressure Ulcer/Injury (PU/PI), and Medical Adhesive Related Skin Injury (MARSI).
+
+...
+
+[Data](articles/6c575c01.json)
+
+---
+
+### Advantis Project Logistics supports climate-smart agriculture initiatives
+
+*2024-02-25 21:50:00* · [`islandlk`](http://island.lk/advantis-project-logistics-supports-climate-smart-agriculture-initiatives/) · `en`
+
+Exemplifying exceptional environmental stewardship, Advantis – Project Logistics, a subsidiary of the Advantis Group, the transportation and logistics arm of Hayleys PLC, completed the rehabilitation of multiple water tanks as a part of the Climate Smart Irrigated Agriculture Projects (CSIAPs). The CSIAP has not only increased agricultural productivity but also conserved water resources, promoting sustainable farming in areas most vulnerable to climate change. This initiative aims to improve climate resilience in dry zones while augmenting water supply for agricultural purposes.
+
+...
+
+[Data](articles/1cbfb45a.json)
+
+---
+
+### US Deputy Secretary of State commends Sri Lanka’s economic efforts
+
+*2024-02-25 21:49:00* · [`islandlk`](http://island.lk/us-deputy-secretary-of-state-commends-sri-lankas-economic-efforts-2/) · `en`
+
+The United States Deputy Secretary of State for Management and Resources Richard Verma, who called on President Ranil Wickremesinghe last week expressed appreciation for the efforts taken by the Sri Lankan Government to turn the economy around.
+
+During the discussions, the President outlined the progress of the debt restructuring, along with several key economic reforms measures, including the agriculture modernisation programme.
+
+Commenting on matters related to global security, the Deputy Secretary thanked the Sri Lankan Government for their assistance in the on-going naval operations in the Red Sea. The President stated that Sri Lanka remains committed to Freedom of Navigation in the Indian Ocean, echoing solidarity with Saudi Arabia’s stance on the Houthi rebels.
+
+...
+
+[Data](articles/afe8817c.json)
 
 ---
 
@@ -1128,7 +1228,7 @@ The shooting was a motorbike with two people from a motorcycle while he was sitt
 
 *2024-02-25 16:15:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-denies-tu-action-for-flight-delays-152053/) · `en`
 
-ECONOMYNEXT – State-owned loss-making SriLankan Airlines denied any trade union action for the delay of its flights at the country’s main airport early on Sunday.
+ECONOMYNEXT – State-owned SriLankan Airlines denied any trade union action for the delay of its flights at the country’s main airport early on Sunday.
 
 Airport sources said four SriLankan Airlines flights faced delay and a frustrated ground handling staff were unable to coop up with the situation after the delays.
 
@@ -1939,157 +2039,5 @@ Referred to as India's longest cable-stayed bridge, Sudarshan Setu holds immense
 [Data](articles/28e66c84.json)
 
 [Extended Data](ext_articles/28e66c84.ext.json)
-
----
-
-### Son, son of Angoda, kills father
-
-*2024-02-25 12:06:03* · [`adalk`](https://www.ada.lk/breaking_news/අංගොඩ-සිට-ආපු-පුතාගේ-පොරෝ-පහරින්-පියා-මරුට/11-408259) · `si`
-
-Pitigala Police say that a father who was seriously injured by a son who was taken back home was recovered from the Angoda Mother Hospital.
-
-The deceased has been identified as Piyadasha Jayasinghe, Aliyandas Jayasinghe, a resident of Kaluarachchi, Padaigala and Kaluarachchi.
-
-The father had died behind the father after the father was sitting at the time yesterday (24).
-
-The suspect was arrested on suspicion that his son was allegedly assaulted by the blacks.
-
-Pitigala Police Director General of Police Inspector Anura Pushpakumara, including Anura Pushpakumara, and other officials are conducting further investigations.
-
-◼️
-
-[Data](articles/109801f6.json)
-
-[Extended Data](ext_articles/109801f6.ext.json)
-
----
-
-### SriLankan Airlines issues clarification on multiple flight delays
-
-*2024-02-25 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97516/srilankan-airlines-issues-clarification-on-multiple-flight-delays) · `en`
-
-SriLankan Airlines has issued a clarification on the delay experienced at the check-in counters at the Bandaranaike International Airport (BIA) in Katunayake earlier today (25 Feb.).
-
-Issuing a statement in this regard, the national carrier assured that the delays were caused due to temporary, unplanned operational conditions at the airport and not due to any type of trade union action.
-
-“The check-in counter operations have been stabilized and returned to normal as of now. SriLankan Airlines would like to apologize to any passengers inconvenienced by these operational delays, while the airline continues to monitor the situation and take steps to avoid a recurrence”, the statement concluded.
-
-It was reported, earlier this morning, that four SriLankan Airlines flights were delayed at the BIA, as ground staff had reportedly refrained from performing some of their duties.
-
-◼️
-
-[Data](articles/e7a26d5a.json)
-
-[Extended Data](ext_articles/e7a26d5a.ext.json)
-
----
-
-### State Minister urges COPF to summon CBSL over controversial salary hikes
-
-*2024-02-25 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97515/state-minister-urges-copf-to-summon-cbsl-over-controversial-salary-hikes) · `en`
-
-State Minister of Finance Shehan Semasinghe has suggested that officials of the Central Bank of Sri Lanka (CBSL) be summoned before the parliamentary Committee on Public Finance (COPF), for clarifications pertaining to the recent increase in salaries of CBSL staff.
-
-Taking to ‘X’ (formerly Twitter), the State Minister said, “I suggest to the Committee on Public Finance, that it is appropriate to summon the Central Bank of Sri Lanka to the Committee and seek clarification on the recent controversy regarding salary increments”.
-
-Recent media reports revealed that the Central Bank had increased the salaries of its employees by 70% and the move was heavily criticized by parliamentarians of both the ruling party and the opposition.
-
-Thus, in light of the situation that stirred much controversy in the country, it was reported that CBSL officials have been summoned by several parliamentary committees.
-
-◼️
-
-[Data](articles/ed7dd70e.json)
-
-[Extended Data](ext_articles/ed7dd70e.ext.json)
-
----
-
-### Vocational training for students who have sat their A/L exams
-
-*2024-02-25 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vocational-training-for-students-who-have-sat-their-AL-exams/108-277669) · `en`
-
-English language guidance for students who have sat for their Advanced Level (A/L) examinations this year will also be given an opportunity to study a vocational subject of their choice free of charge from March 5, Education Minister Susil Premajayantha said.
-
-This training programme will be implemented at 300 centres around the country.
-
-Meanwhile, it has been planned to implement the same type of training programmes soon after the end of the GCE Ordinary Level (O/L) examinations as well.
-
-Also, the Minister said that all teachers in schools should be well equipped with the knowledge on information technology.
-
-He also pointed out that a wide programme has been implemented to train teachers through computer resource centres established in each region.
-
-The current number of computer resource centres is 100 and arrangements have already been made to increase these by seventeen more in the future.
-
-...
-
-[Data](articles/aecdd042.json)
-
-[Extended Data](ext_articles/aecdd042.ext.json)
-
----
-
-### Establishment for Thenkon
-
-*2024-02-25 11:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோனுக்கு-பதவி-நீடிப்பு/175-333763) · `ta`
-
-In response, the President has decided to propose to the Constituent Assembly to provide further service to the Inspector General of Police Deshabandu.
-
-In response, Deshabandu Tennakoon was appointed as the Inspector General of Police on November 29, 2013.
-
-◼️
-
-[Data](articles/a4c3ba96.json)
-
-[Extended Data](ext_articles/a4c3ba96.ext.json)
-
----
-
-### Putin should lose everything- Ukrainian President
-
-*2024-02-25 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177239) · `ta`
-
-Ukrainian President Woodimir Jelensky has said that Russian President Vladimir Putin should lose everything.
-
-The President of Ukrainian said this while addressing the Western leaders who went to the capital of Ukraine to attend the event that Russia invaded Ukraine and referred to for two years.
-
-The airport was later seized by Russia's Parasood faction with the aim of capturing the capital of Ukraine.
-
-Two years later, we met with the enemy's firing here.
-
-He wants any man to come to the end of the war, but we will not allow none of us to come to our Ukraine.
-
-◼️
-
-[Data](articles/de2fd6bc.json)
-
-[Extended Data](ext_articles/de2fd6bc.ext.json)
-
----
-
-### A story from Chandika Hathurusinghe
-
-*2024-02-25 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193800) · `si`
-
-The head coach of the Bangladesh is not 20 cricket through the Bangladesh Premier League (BPL) cricket tournament.
-
-Chandika Hathurusinghe emphasizes that it will declare it with a serious criticism.
-
-This is a well-known cricket website.
-
-He has said that the Bangladesh representation of Bangladesh in major battle batches and bowling roles.
-
-Chandika Hathurusinghe has emphasized that many groups have relied on foreign players for the major roles of competitions.
-
-"This is a strange thing for me. Sometimes the bpl sometimes I turn off TV. I have a big problem with the current system. The ICC must intervene, 'he said.
-
-Bangladesh bowlers have also emphasized that the Bangladeshi players should play a leading role in the competition.
-
-This year, all three groups in the BPL series, chattogram challengers, Sylit Strikers and Durdanano Dhaka were used for the first three of their batting list.
-
-...
-
-[Data](articles/b2f87809.json)
-
-[Extended Data](ext_articles/b2f87809.ext.json)
 
 ---

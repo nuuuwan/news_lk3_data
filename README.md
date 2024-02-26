@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 09:33:15**
+As of **2024-02-26 09:51:51**
 
 ## Newspaper Stats
 
-*Scraped **9,281** Articles*
+*Scraped **9,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,60 +19,144 @@ adalk | 777
 adaderanalk | 1,120
 tamilmirrorlk | 1,145
 virakesarilk | 1,259
-dailymirrorlk | 1,391
+dailymirrorlk | 1,396
 adaderanasinhalalk | 1,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,278 (100.0%) of 9,281 articles have been extended.
+9,286 (100.0%) of 9,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### බංග්ලාදේශයේ වනඅලීන්ට අධිකරණයෙන් පිහිටක්
+### Acting IGP Tennakoon’s term likely to be extended amid ’Yukthiya’ operation
+
+*2024-02-26 09:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Acting-IGP-Tennakoons-term-likely-to-be-extended-amid-Yukthiya-operation/108-277707) · `en`
+
+Colombo, Feb 26 (Daily Mirror) - Following the ongoing Island-wide "Yukthiya" operation against underworld criminals and narcotics, President Ranil Wickremesinghe is likely to extend Deshabandu Tennakoon's appointment as Acting Inspector General of Police (IGP), Daily Mirror learns.
+
+Tennakoon was initially appointed Acting IGP on November 29, 2023, for a three-month term.
+
+Sources said that the President is likely to propose a service extension to the Constitutional Council. However, sources said that Tennakoon could be permanently appointed as IGP bypassing the temporary extension route.
+
+Tennakoon, who joined the police in 1998 is due to retire in 2032.
+
+His potential extended or permanent appointment comes on the heels of the nationwide "Yukthiya" operation launched in December 2023. This initiative led by the Public Security Ministry and Sri Lanka Police aims to crack down on drug trafficking, peddling, and other criminal activities.
+
+...
+
+[Data](articles/d44dea62.json)
+
+[Extended Data](ext_articles/d44dea62.ext.json)
+
+---
+
+### Senior U.S Diplomat Elizabeth Horst tipped to be new Ambassador to SL
+
+*2024-02-26 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Senior-U-S-Diplomat-Elizabeth-Horst-tipped-to-be-new-Ambassador-to-SL/108-277705) · `en`
+
+Colombo, Feb 26 (Daily Mirror) - Senior U. S. diplomat Elizabeth Kathryn Horst is designated to be appointed new American ambassador to Sri Lanka succeeding Ms. Julie Chung whose stint will end soon , Daily Mirror learns.
+
+The Sri Lankan government has given its concurrence to the appointment subject to clearance by the U.S Senate .
+
+Ms. Horst is currently is the Principal Deputy Assistant Secretary and Deputy Assistant Secretary responsible for Pakistan. She came from U.S. Embassy Berlin, where she was Minister Counselor for Public Diplomacy for Mission Germany. She is a member of the Senior Foreign Service. Previously, Elizabeth served as SCA’s Director of the Security, Transnational Affairs and Assistance (STA) Office. As Chargé d’Affaires and Deputy Chief of Mission at U.S. Embassy Tallinn, Estonia, she focused on Transatlantic security on NATO’s eastern flank.
+
+...
+
+[Data](articles/dac07239.json)
+
+[Extended Data](ext_articles/dac07239.ext.json)
+
+---
+
+### Public Health Inspector shot dead in Elpitiya
+
+*2024-02-26 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-Health-Inspector-shot-dead-in-Elpitiya/108-277706) · `en`
+
+Elpitiya, Feb 26 (Daily Mirror) - A Public Health Inspector (PHI) was shot dead in Divithurugama, Elpitiya this morning, police said.
+
+They said the shooting took place at his residence near the Kurundugaha Hathekma Southern Expressway interchange in Divithurugama.
+
+The deceased, a father of three, is identified as Deepal Roshan Kumara, who is attached to the Karandeniya Public Health Inspector's office.
+
+◼️
+
+[Data](articles/1dd1b015.json)
+
+[Extended Data](ext_articles/1dd1b015.ext.json)
+
+---
+
+### Registration for Korean exam online from today: SLBFE
+
+*2024-02-26 08:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Registration-for-Korean-exam-online-from-today-SLBFE/108-277704) · `en`
+
+Colombo, Feb 26 (Daily Mirror) - The Sri Lanka Foreign Employment Bureau (SLBFE) announced that the issuing of admissions for the Korean language test for 2024 will be held online only from February 26 to 29.
+
+Applicants are requested to visit the SLBFE official website, www.slbfe.lk for the registrations.
+
+The release of admission cards for the Korean language test to be held for 2024 too will be done online only from February 26 to 29.
+
+Registrations will be accepted for manufacturing, fishing, construction, shipbuilding, services 1 and services 2 categories.
+
+Applicants must fulfil the required qualifications to apply for the examination.
+
+◼️
+
+[Data](articles/b974882e.json)
+
+[Extended Data](ext_articles/b974882e.ext.json)
+
+---
+
+### Court of court in Bangladesh
 
 *2024-02-26 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193828) · `si`
 
-වනඅලි ඇතුන් හීලෑ කරමින් ඔවුන්ව වහල්භාවයේ තබා ගැනීම තහනම් කරමින් බංගලාදේශයේ මහාධිකරණය විසින් නියෝගයක් ලබාදී තිබේ.
+The Bangladesh High Court has issued an order by tampering the wild elephants in exile.
 
-බංගලාදේශයේ දැඩි ලෙස වඳවී යාමේ තර්ජනයට ලක්ව ඇති සත්ත්වයෙකු ලෙස වනඅලි ඇතුන් නම් කර ඇත.
+The wild elephants have been named as a severe extinction of severe extinction in Bangladesh.
 
-බංගලාදේශයේ මේ වන විට සිටින අලි ඇතුන් සංඛ්‍යාව 200ක් වන අතර එයින් අඩක් පමණ හීලෑ අලි ඇතුන් බව සඳහන් වේ.
+There are 200 elephants in Bangladesh, which is said to be tame elephants.
 
-හීලෑ අලි ඇතුන් සඳහා බලපත්‍ර හිමි ඇතැම් පිරිස් එම අවසරය අවභාවිතා කරමින් එම සතුන් සිඟමන් යැදීමට, සර්කස් හෝ වීථී සංදර්ශන සඳහා යොදාගැනීම සහ දර ඇදීම වැනි බර ඇදීමේ වැඩ සඳහා යොදා ගැනීම දැඩි ලෙස සිදුවන බව සඳහන් වේ.
+Tame elephants are strictly used for circus or street shows, such as the use of the animals, such as circus or street shows, such as heavy bodies, and weight draws.
 
-එබැවින් එම බලපත්‍ර අවලංගු කිරීමට ද අධිකරණය නියෝග කර ඇති බව විදෙස් මාධ්‍ය සඳහන් කර තිබේ.
+Therefore, the court has ordered the cancellation of these licenses.
 
-බොහෝ විට අලි පැටවුන් මවගෙන් වෙන් කර මාස ගණන් විලංගු දමා වධ හිංසා පමුණුවා හීලෑ කර ඇති බැවින් එම අලි ඇතුන් පුනරුත්ථාපනය කිරීමට බලාපොරොත්තු වන බව ද විදෙස් මාධ්‍ය වාර්තා කරයි.
+Most of the elephants have been rehabilitated and tortured by the mother of elephants and tortured.
 
 ◼️
 
 [Data](articles/ad66c3df.json)
 
+[Extended Data](ext_articles/ad66c3df.ext.json)
+
 ---
 
-### 20 வீதத்திற்கும் மேலாக குறைக்கப்படும் மின் கட்டணம்
+### Electricity charges reduced by more than 20 percent
 
 *2024-02-26 08:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-வீதத்திற்கும்-மேலாக-குறைக்கப்படும்-மின்-கட்டணம்/175-333812) · `ta`
 
-மின் கட்டணத்தை இருபது வீதத்துக்கும் மேல் குறைக்க வேண்டும் என பாராளுமன்ற மேற்பார்வைக் குழு பொதுப் பயன்பாடுகள் ஆணைக்குழுவுக்குப் பரிந்துரை செய்துள்ளது.
+The Parliamentary Supervisory Committee has recommended to the Public Utilities Commission that the electricity tariff should be reduced by more than twenty percent.
 
-தற்போதுள்ள சூழ்நிலையின் அடிப்படையில் மின் கட்டணத்தை 33 வீதத்தால் குறைக்க முடியும் என  ஆணைக்குழுவிடம் சுட்டிக்காட்டியுள்ளது.
+The Commission has pointed out that the electricity tariff can be reduced by 33 percent based on the existing situation.
 
-எனினும் மின் கட்டணத்தை 18 வீதத்தால் குறைக்க ஆணைக்குழுவிடம் மின்சார சபை முன்மொழிந்துள்ளது
+However, the Electricity Board has proposed to the Commission to reduce electricity tariff by 18 percent
 
-மின்சார வாரியத்தின் 18 விகிதம் மற்றும் உண்மையில் குறைக்கக்கூடிய விகிதம் ஆகியவற்றைக் கருத்தில் கொண்டு, 20 விகிதத்திற்கும் மேலாக கட்டணங்களைக் குறைக்க குழு பரிந்துரைத்துள்ளது.
+Considering the 18th rate of the Electricity Board and the actually reduced rate, the committee has recommended to reduce fees for more than 20.
 
-மேலும், துண்டிக்கப்பட்ட பிறகு மீண்டும் மின் இணைப்பை ஏற்படுத்த 3000 ரூபாய் கட்டணத்தை 1500 ரூபாயாக குறைக்கவும் குழு ஆணையத்திற்கு பரிந்துரை செய்துள்ளது.
+In addition, the Committee has recommended to the Commission to reduce the cost of Rs.
 
-இந்த பரிந்துரைகளை ஆணைக்குழு ஏற்றுக்கொண்டதாக குழுவின் தலைவரான பாராளுமன்ற உறுப்பினர் தெரிவித்தார். R
+The Chairman of the Committee said the Commission had accepted these recommendations. Remble
 
 ◼️
 
 [Data](articles/797c24d7.json)
+
+[Extended Data](ext_articles/797c24d7.ext.json)
 
 ---
 
@@ -162,21 +246,23 @@ It is noteworthy that only monthly and special poojas were approved in the templ
 
 ---
 
-### யாழ்.கோவில்களுக்கு செல்ல இராணுவம் அனுமதி
+### Army permits to go to Jaffna
 
 *2024-02-26 08:07:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-கோவில்களுக்கு-செல்ல-இராணுவம்-அனுமதி/71-333810) · `ta`
 
-யாழ்ப்பாணத்தில் பாதுகாப்புப் படைத் தலைமையகத்திற்கு உட்பட்ட அதியுயர் பாதுகாப்பு வலயத்திற்குள் அமைந்துள்ள ஏழு இந்து கோவில்களுக்கு பொதுமக்கள் செல்வதற்கு அனுமதி வழங்கப்பட்டுள்ளதாக இலங்கை இராணுவம் அறிவித்துள்ளது.
+The Sri Lankan military has announced that seven Hindu temples located within the High Security Zone, which belongs to the Security Forces Headquarters in Jaffna, have been allowed to visit the public.
 
-இந்த முடிவின் கீழ், கடுவன் முத்துமாரி அம்மன் கோவில், வசாவிளான் மணம்பிறை கோவில், விசாவிளான் சிவன் கோவில், வசாவிளான் நாக கோவில், பலாலி ராஜ ராஜேஸ்வரி கோவில், பலாலி நாக தம்பிலான் கோவில் மற்றும் பலாலி சக்திவேலி முருகன் கோவில் ஆகியவற்றில் வாராந்திர பூஜை மற்றும் பிற சடங்குகளில் பொதுமக்கள் பங்கேற்க அனுமதிக்கப்படுவார்கள். .
+Under this decision, the public will be allowed to participate in the weekly pooja and other rituals at the Kaduvan Muthumari Amman Temple, Vasavilan Manampirai Temple, Visavilan Shiva Temple, Vasavilan Naga Temple, Palali Raja Rajeswari Temple, Palali Naga Thambilan Temple and Palali Sakthiveli Murugan Temple.. .
 
-கோவில் அறங்காவலர்கள் மற்றும் சிவில் அமைப்புகளின் பல கோரிக்கைகளுக்கு இணங்க இந்த முடிவு எடுக்கப்பட்டுள்ளதாக ராணுவம் தெரிவித்துள்ளது.
+The decision has been taken in accordance with the demands of the temple trustees and civil organizations.
 
-முன்பு இந்த கோவில் வளாகத்தில் மாதாந்திர மற்றும் சிறப்பு பூஜைகளுக்கு மட்டுமே அனுமதி வழங்கப்பட்டமை குறிப்பிடத்தக்கது.
+It is noteworthy that only monthly and special poojas were approved in the temple premises.
 
 ◼️
 
 [Data](articles/a3f55c42.json)
+
+[Extended Data](ext_articles/a3f55c42.ext.json)
 
 ---
 
@@ -223,6 +309,22 @@ This request requested an opportunity to inform MPs the reasons for changing the
 [Data](articles/116102d1.json)
 
 [Extended Data](ext_articles/116102d1.ext.json)
+
+---
+
+### Long term Ukraine, Russian tourists asked to leave
+
+*2024-02-26 07:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Long-term-Ukraine-Russian-tourists-asked-to-leave/155-277703) · `en`
+
+Days after the Daily Mirror exposed that a rising number of Russian tourists were engaging in prostitution in Sri Lanka as well as running other unregistered, illegal businesses, the Immigration Department released a circular to the Tourism Ministry stating all long-term Ukrainian, Russian tourists must leave.
+
+In an urgent move to prevent any diplomatic tension between Russia and Sri Lanka, President Ranil Wickremesinghe yesterday ordered an immediate investigation into the circular that had been released by the Head of the Immigration and Emigration Department to the Tourism Ministry Secretary stating that Russian and Ukrainian tourists living long term in Sri Lanka had to leave within 14 days.
+
+...
+
+[Data](articles/a7d2c527.json)
+
+[Extended Data](ext_articles/a7d2c527.ext.json)
 
 ---
 
@@ -1927,115 +2029,5 @@ A 2020 rematch between Trump and President Joe Biden is becoming increasingly in
 [Data](articles/0d83dbd5.json)
 
 [Extended Data](ext_articles/0d83dbd5.ext.json)
-
----
-
-### “This will happen after the war”
-
-*2024-02-25 13:58:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/போருக்கு-பிறகு-இதுதான்-நடக்கும்/50-333777) · `ta`
-
-Israeli Prime Minister Benjamin Netanyahu has said that the post -war project with Hamas. A report has been issued on behalf of the Prime Minister's Office. The same details have been provided to the ministers.
-
-After the war, the Israeli role plans to manage Gaza after the war. Accordingly, “The war is over and the military will be under Israel's control of the Gaza Tip.
-
-The Israeli military will act independently of Gaza to defeat security threats. The safety zone will be installed within the Gaza. The US can protest this.
-
-Countries that support terrorism will be carried out by local authorities who are not in touch with organizations and not funding them. ”
-
-◼️
-
-[Data](articles/3fc2425a.json)
-
-[Extended Data](ext_articles/3fc2425a.ext.json)
-
----
-
-### Central Bank of Sri Lanka clarifies reports on salary hike
-
-*2024-02-25 13:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-of-Sri-Lanka-clarifies-reports-on-salary-hike/155-277673) · `en`
-
-Colombo, Feb 25 -  The Central Bank of Sri Lanka (CBSL) has responded to recent media reports surrounding comments made by Members of Parliament regarding the latest revision of remuneration for CBSL employees.
-
-In a statement released today, the CBSL emphasized its commitment to transparency and accountability in its operations.
-
-The Governing Board of the CBSL, at a meeting held on 21.02.2024, directed the Governor to formally request an opportunity to address Members of Parliament through an appropriate parliamentary committee.
-
-This request, made in accordance with Section 80 (2) (b) of the Central Bank of Sri Lanka Act No. 16 of 2023, aims to provide clarity on the process and rationale behind the recent remuneration revision, which was approved under the triennial Collective Agreement with Trade Unions covering the period 2024-2026.
-
-...
-
-[Data](articles/2a1fce59.json)
-
-[Extended Data](ext_articles/2a1fce59.ext.json)
-
----
-
-### Central Bank of Sri Lanka clarifies reports on salary hike
-
-*2024-02-25 13:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-of-Sri-Lanka-clarifies-reports-on-salary-hike/108-277673) · `en`
-
-Colombo, Feb 25 -  The Central Bank of Sri Lanka (CBSL) has responded to recent media reports surrounding comments made by Members of Parliament regarding the latest revision of remuneration for CBSL employees.
-
-In a statement released today, the CBSL emphasized its commitment to transparency and accountability in its operations.
-
-The Governing Board of the CBSL, at a meeting held on 21.02.2024, directed the Governor to formally request an opportunity to address Members of Parliament through an appropriate parliamentary committee.
-
-This request, made in accordance with Section 80 (2) (b) of the Central Bank of Sri Lanka Act No. 16 of 2023, aims to provide clarity on the process and rationale behind the recent remuneration revision, which was approved under the triennial Collective Agreement with Trade Unions covering the period 2024-2026.
-
-...
-
-[Data](articles/ebf5e01a.json)
-
-[Extended Data](ext_articles/ebf5e01a.ext.json)
-
----
-
-### Two Sri Lankans who were arrested in China to Sri Lanka to visit Maleezia to go to an empty container
-
-*2024-02-25 13:39:22* · [`adalk`](https://www.ada.lk/breaking_news/මෑලේසියාවට-හිස්-බහාලුමක-යන්න-ගිහින්-චීනයේදී-අත්අඩංගුවට-පත්වූ-ලාංකිකයන-දෙදෙනා-වසරකට-පසු-ලංකාවට/11-408263) · `si`
-
-Two Sri Lankans attempting to flee in an empty container on an empty container on an empty container had been arrested in China and was deported in China and sent to Katunayake airport on 24th.
-
-The 26-year-old Madi Rajitha and 39 year old Jayakumar inspects two Sri Lankan Tamils.
-
-They had entered a blanket in the CIC Katjato, which was parked in the CICTRC.
-
-However, when the ship arrives in Malaysia, the sailors of the ship had finally arrived at China after the refusal of the two higraments.
-
-The two of the two have been arrested by the Chinese authorities.
-
-After these two were deported to be deported, 05.01 am on the 4.01 o'clock from Shanghai from Shanghai to the Katunayake airport.
-
-The Katunayake Airport Criminal Investigation Department (CID) has been arrested by the Katunayake Airport and Railway Investigation Division after his arrival at the Katunayake airport.
-
-◼️
-
-[Data](articles/52fcacce.json)
-
-[Extended Data](ext_articles/52fcacce.ext.json)
-
----
-
-### Dinch of Little Requesting Teaching
-
-*2024-02-25 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193806) · `si`
-
-In the midst of the horror, Ada Derana was reported to be a loving couple to save lives.
-
-It is also about a father who tries to explogetching coconut and hunger.
-
-Chaminda, a resident of Dimbulagala - a resident of Devalagala area, but not ready to give up.
-
-Chaminda's wife, Hajangi, also strengthens his husband's efforts, and the hope of the hope of her husband.
-
-They live in a village in a village in a house where they were temporary.
-
-Although the first day of the 5-year-old Moon is an interruption of his family.
-
-◼️
-
-[Data](articles/01c7e77d.json)
-
-[Extended Data](ext_articles/01c7e77d.ext.json)
 
 ---

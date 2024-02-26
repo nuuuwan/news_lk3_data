@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 14:03:25**
+As of **2024-02-26 14:17:29**
 
 ## Newspaper Stats
 
-*Scraped **9,336** Articles*
+*Scraped **9,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 469
 dailyftlk | 492
 islandlk | 495
 adalk | 785
-adaderanalk | 1,126
+adaderanalk | 1,127
 tamilmirrorlk | 1,150
 virakesarilk | 1,269
 dailymirrorlk | 1,404
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,410
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,336 (100.0%) of 9,336 articles have been extended.
+9,336 (100.0%) of 9,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Convenor of Kelaniya Uni. Students’ Union arrested by CID
+
+*2024-02-26 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97540/convenor-of-kelaniya-uni-students-union-arrested-by-cid) · `en`
+
+The convenor of the Kelaniya University’s Students’ Union, Kelum Mudannayake, was arrested by the Criminal Investigation Department (CID) on Monday (26 Feb.).
+
+Mudannayake was arrested over a recent incident involving the ragging of a freshman at the University of Kelaniya, as per a complaint received by the public complaints division of the CID.
+
+According to police, Mudanannayake had been arrested at the Bandaranaike International Airport (BIA in Katunayake, while attempting to leave the country.
+
+The suspect is due to be produced before the Mahara Magistrate’s Court today, police said.
+
+◼️
+
+[Data](articles/711afd0f.json)
+
+---
 
 ### 49% phone numbers in peacekeeping in public offices
 
@@ -2001,23 +2019,5 @@ Francis said he was also concerned about escalating violence in the east region 
 [Data](articles/6dba0b69.json)
 
 [Extended Data](ext_articles/6dba0b69.ext.json)
-
----
-
-### Declaration from Ukutani President
-
-*2024-02-25 22:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193820) · `si`
-
-Over the past two years, 31,000 soldiers have been killed in the Ukraine.
-
-Special Statement in the event of a special statement to mark the invasion of Ukraine by Russian troops
-
-According to the Ukutani President, nearly 10,000 civilians have died of the death toll with this war environment.
-
-◼️
-
-[Data](articles/ac9c482e.json)
-
-[Extended Data](ext_articles/ac9c482e.ext.json)
 
 ---

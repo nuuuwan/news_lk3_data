@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 15:51:43**
+As of **2024-02-26 16:03:07**
 
 ## Newspaper Stats
 
-*Scraped **9,352** Articles*
+*Scraped **9,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,159 @@ islandlk | 495
 adalk | 788
 adaderanalk | 1,129
 tamilmirrorlk | 1,151
-virakesarilk | 1,270
-dailymirrorlk | 1,407
-adaderanasinhalalk | 1,415
+virakesarilk | 1,273
+dailymirrorlk | 1,410
+adaderanasinhalalk | 1,417
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,352 (100.0%) of 9,352 articles have been extended.
+9,360 (100.0%) of 9,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Air Force Exhibition in Jaffna
+
+*2024-02-26 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177349) · `ta`
+
+The Air Force Air Force Vice Marshal Malawatte said that the Air Force's Education and Technology Exhibition will be held in Jaffna ahead of the 73rd year of the Sri Lanka Air Force.
+
+He said this during a media briefing held in Jaffna on Monday (26).
+
+The Sri Lanka Air Force has launched a project called "Wings of Friendship" in view of the 73rd anniversary of the Air Force.
+
+As a result, 73 thousand books and equipment for school students have been launched under the theme "My Book and North". In addition, 73 schools will be rehabilitated.
+
+In this backdrop, exhibitions will be held at the Jaffna Idawi Ground from the 6th to the 10th of this month.
+
+On the day of the exhibitions, the Air Force's adventure events and art events will be held.
+
+For these exhibitions free for school students and the entry fee for others is 100 rupees. We expect 2 lakh people to arrive at the exhibition.
+
+...
+
+[Data](articles/6749c043.json)
+
+[Extended Data](ext_articles/6749c043.ext.json)
+
+---
+
+### Palestinian Prime Minister submits resignation
+
+*2024-02-26 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Palestinian-Prime-Minister-submits-resignation/108-277740) · `en`
+
+DUBAI, Feb 26 -  Palestinian Authority Prime Minister Mohammed Shtayyeh and his government have submitted their resignations, he announced Monday.
+
+“I would like to inform the honorable council and our great people that I placed the government’s resignation at the disposal of Mr. President (Mahmoud Abbas), last Tuesday, and today I submit it in writing,” Shtayyeh said in a post on Facebook.
+
+The resignation comes as the Palestinian Authority (PA), which is seen as corrupt, comes under intense pressure from the United States to reform and improve its governance in the Israeli-occupied West Bank.
+
+The PA was set up in the mid-1990s as a temporary government pending Palestinian independence after the Palestine Liberation Organization signed the Oslo Accords with Israel. It is headquarters in the occupied West Bank city of Ramallah and exercises nominal self-rule in parts of the territory.
+
+...
+
+[Data](articles/e35fa523.json)
+
+[Extended Data](ext_articles/e35fa523.ext.json)
+
+---
+
+### Burglary at Vietnam Embassy official’s house: Court issues open warrant on suspect
+
+*2024-02-26 15:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Burglary-at-Vietnam-Embassy-officials-house-Court-issues-open-warrant-on-suspect/108-277739) · `en`
+
+Colombo, Feb 26 (Daily Mirror) - The Colombo Chief Magistrate today issued an open warrant for the arrest of the main suspect allegedly involved in stealing over Rs. 1 million from a house in Ward Place, Colombo, where the administrative officer of the Vietnam Embassy resides.
+
+The suspect, Mohammed Niyas Mohamed Rikas, a resident of Deans Road in Maradana has been charged for committing this offence. However, the suspect was not present in court when the matter was taken up before Colombo Chief Magistrate Prasanna Alwis. The Chief Magistrate issued an open warrant against this suspect as he is evading court while the case is pending. The suspect had broken into the house on June 26, 2023, at around 3:30 a.m. and stole money.
+
+◼️
+
+[Data](articles/1018ffb3.json)
+
+[Extended Data](ext_articles/1018ffb3.ext.json)
+
+---
+
+### Planetarium will be closed from tomorrow
+
+*2024-02-26 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193843) · `si`
+
+The Sri Lanka Planetarium has decided to close several days from tomorrow.
+
+Accordingly, the planetarium will be closed from tomorrow (27) to March 12.
+
+The public exhibition has been suspended for these days.
+
+The planetarium will be closed due to essential maintenance of projected machines in the planetarium.
+
+◼️
+
+[Data](articles/19f9ebc4.json)
+
+[Extended Data](ext_articles/19f9ebc4.ext.json)
+
+---
+
+### What is Sri Lanka in countries that are sold at high prices?
+
+*2024-02-26 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177344) · `ta`
+
+Sri Lanka is the second largest apple fruit in the world.
+
+The Visitor Index posted on its X site that Numbeo, the world's largest living database, has published it.
+
+◼️
+
+[Data](articles/4c8bc164.json)
+
+[Extended Data](ext_articles/4c8bc164.ext.json)
+
+---
+
+### Fisherman missing in sea
+
+*2024-02-26 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193842) · `si`
+
+Beruwala Police say investigations have commenced investigations into a complaint that a fisherman left the sea and the disappeared.
+
+A fisherman called a fisherman who was residing in the Ampala, Ampitiya, and the police said.
+
+It is said that the operator of the fishing vessel has informed the owner and then complained to the Beruwala Police after informing relatives.
+
+Six fishermen from the Haruni Daughter 2nd fishermen from the Haruni Daughter 2 last night have fallen from the harbor fishery port yesterday.The complaint is said to say.
+
+◼️
+
+[Data](articles/cd8e34bb.json)
+
+[Extended Data](ext_articles/cd8e34bb.ext.json)
+
+---
+
+### SLTDA notice to Russian and Ukraine tourists taken down
+
+*2024-02-26 15:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLTDA-notice-to-Russian-and-Ukraine-tourists-taken-down/108-277738) · `en`
+
+Colombo, Feb 26 (Daily Mirror) - The notice published on the Sri Lanka Tourism Development Authority (SLTDA) official website notifying Russian and Ukraine tourists to get their visas in order, has been taken down.
+
+Industry sources shared with Daily Mirror that the notice was removed today since the Ministry of Internal Security maintains that it did not issue such an update.
+
+However, on 22 February, the Department of Immigration and Emigration wrote to the Ministry of Tourism requesting to inform Russian and Ukrainian tourists that the complimentary visa extensions offered end on 23 February.
+
+As per the notice, a 14-day grace period, expiring on 7 March 2024, will be provided to either return home or extend the visas through the formal process.
+
+While a tussle is currently ongoing between the relevant authorities and ministries in this regard, the stance on the visa remains unclear.
+
+◼️
+
+[Data](articles/0f7998ea.json)
+
+[Extended Data](ext_articles/0f7998ea.ext.json)
+
+---
 
 ### Minister Nimal Airlints
 
@@ -87,6 +227,20 @@ JICA conducted a survey through “Project for Strengthening Plastic Management 
 [Data](articles/a7868b72.json)
 
 [Extended Data](ext_articles/a7868b72.ext.json)
+
+---
+
+### Young man death without treatment
+
+*2024-02-26 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177337) · `ta`
+
+A few days ago, a dog was bite and was admitted to the Jaffna Teaching Hospital for treatment.
+
+◼️
+
+[Data](articles/c44fe626.json)
+
+[Extended Data](ext_articles/c44fe626.ext.json)
 
 ---
 
@@ -1879,153 +2033,5 @@ The Indian Foreigners Regional Registration Office (FRRO) in Chennai issued the 
 [Data](articles/300397b7.json)
 
 [Extended Data](ext_articles/300397b7.ext.json)
-
----
-
-### Overseas Realty records Rs. 4.3 b profit before tax in FY23
-
-*2024-02-26 03:43:59* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-records-Rs-4-3-b-profit-before-tax-in-FY23/34-758854) · `en`
-
-Overseas Realty (Ceylon) PLC has recorded a Group Revenue of Rs. 5,076 million and a Group Profit Before Tax of Rs. 4,311 million for the year ended 31 December 2023.
-
-In a statement the company said the appreciation of the LKR by 11.26% resulted in a significant exchange gain of Rs. 2,429 million on foreign currency loans.
-
-The company revenue of Rs. 2,400 million at the World Trade Center, Colombo, was 14% higher than the corresponding period of last year, due mainly to higher rental rates. Revenue of Rs. 1,163 million was recorded from Residential Sales of Havelock City which was significantly lower than the corresponding period in 2022.
-
-Apartment sales slowed down due to depressed economic conditions, higher construction costs and new taxes which increased sales prices. A limited number of move-in ready luxury apartments are available for immediate purchase in the fourth and final phase of Havelock City Residential.
-
-...
-
-[Data](articles/1da2fcc3.json)
-
-[Extended Data](ext_articles/1da2fcc3.ext.json)
-
----
-
-### NCE seminar highlights latest developments of VAT and TIEP schemes
-
-*2024-02-26 03:38:01* · [`dailyftlk`](https://www.ft.lk/business/NCE-seminar-highlights-latest-developments-of-VAT-and-TIEP-schemes/34-758853) · `en`
-
-The National Chamber of Exporters of Sri Lanka (NCE) recently organised a seminar for exporters with the participation of around 140 to disseminate information on important topics related to exports.
-
-The event commenced with an illuminating keynote address by KPMG Principal, Head of Tax & Regulatory Division Suresh Perera, Sri Lanka Inland Revenue Department Senior Deputy Commissioner P.N. Kumara and Sri Lanka Customs Director of Customs, Industries and services Division R.H.R.W. Kamalsiri.
-
-...
-
-[Data](articles/ffea674c.json)
-
-[Extended Data](ext_articles/ffea674c.ext.json)
-
----
-
-### Fisheries Industry: 'Fish on paddy fields. Like the crash of the tsunami. '
-
-*2024-02-26 03:31:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g05zgw3w5o) · `si`
-
-None contains none of the. Now the reservoir has bound. There is no need for the authorities. "
-
-Fisheries Industry: 'Fish on paddy fields. Like the crash of the tsunami. '
-
-The National Aquaculture Development Authority estimates that the reservoirs have been drifted away from the reservoirs due to reservoirs in January 2024.
-
-According to the Senanayake Samudra, it has now reduced a yield of fish per day before spilling it, the fishermen said.
-
-As a result, children's education has been hampered and unable to find the necessary costs for food, the fishermen said to the BBC Sinhala service.
-
-However, there will take about another year to rebuild fish in the reservoirs.
-
-◼️
-
-[Data](articles/1a73d950.json)
-
-[Extended Data](ext_articles/1a73d950.ext.json)
-
----
-
-### Finnish Overseas Preschool opened at One Galle Face Mall
-
-*2024-02-26 03:22:00* · [`islandlk`](http://island.lk/finnish-overseas-preschool-opened-at-one-galle-face-mall/) · `en`
-
-Finnish Overseas Preschool – Premium Day Care and Activity Centre has announced the official opening of its second location at Level 4, Units 11 & 12, One Galle Face Mall. This expansion marks a significant milestone in the landscape of early childhood education and reinforces the commitment of Modern Learning Studio, the parent organisation, to shape the future of education through innovation, culture, and holistic development.
-
-The dynamic learning environment is designed to nurture a passion for learning, cultivate essential 21st-century skills, and create lasting, joyful childhood memories.
-
-...
-
-[Data](articles/15ab7bfa.json)
-
-[Extended Data](ext_articles/15ab7bfa.ext.json)
-
----
-
-### Singer Sri Lanka launches HONOR X9B
-
-*2024-02-26 03:21:00* · [`islandlk`](http://island.lk/singer-sri-lanka-launches-honor-x9b/) · `en`
-
-Singer Sri Lanka PLC recently marked a significant milestone with the grand unveiling of the newest smartphone models from HONOR.The event, hosted on February 22, 2024, at the Shangri-La Hotel, Colombo, showcased the technological prowess and innovative design of the HONOR X Series, underlining the flourishing partnership between Singer and HONOR. The event also celebrated the rapid success HONOR has enjoyed among Sri Lankan smartphone owners since having been introduced in April of last year.
-
-“Our collaboration with HONOR is more than a partnership; it’s a shared journey towards excellence in technology accessible to all. The introduction of the HONOR X9b, along with the X7b and X8b, mirrors our dedication to innovation and quality. We are eager for the Sri Lankan consumers to experience the unmatched quality and value these models bring to the table,” stated Mahesh Wijewardene, CEO Singer Group, commenting on the launch of the new devices.
-
-...
-
-[Data](articles/33147bc5.json)
-
-[Extended Data](ext_articles/33147bc5.ext.json)
-
----
-
-### Würth Group surpasses EUR 20 billion in global sales
-
-*2024-02-26 03:21:00* · [`islandlk`](http://island.lk/wurth-group-surpasses-eur-20-billion-in-global-sales/) · `en`
-
-The Würth Group, a global leader in assembly and fastening materials, has achieved a historic milestone with annual sales exceeding EUR 20 billion for the first time in its corporate history, according to its preliminary financial statements for the 2023 fiscal year. Despite global economic and political challenges, the Group experienced growth, with sales increasing by 2.4 percent, reaching 3.5 percent when adjusted for currencies. The operating result is expected to be EUR 1.4 billion, marking the second-best result in the Group’s history.
-
-...
-
-[Data](articles/c2cb020f.json)
-
-[Extended Data](ext_articles/c2cb020f.ext.json)
-
----
-
-### Bashil: Udayanga Weeratunga
-
-*2024-02-26 03:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177287) · `ta`
-
-Udayanga Weeratunga, a former Ambassador to Russia and Rajapaksa's brother, said that the general election was the first to hold the general election, and said that Basil Rajapaksa would return to the country in March with a strategy.
-
-He said this while commenting on Rajapakse's next activities of PA.
-
-Basil Rajapaksa's intelligence is very important in the establishment of the PA and the majority of the elections in the country in the past.
-
-In that respect, when he left the country, Namal had handed over party work in Rajapaksa.
-
-The main task of Namal Rajapaksa was to continue to take steps to keep the bond between the party and the ordinary civilians in the villages and focus on their demands and issues.
-
-In this case, Basil Rajapaksa will return to the country in mid -March. He returns to the country, not for Ranil Wickremesinghe again in the presidential seat.
-
-...
-
-[Data](articles/5dc20636.json)
-
-[Extended Data](ext_articles/5dc20636.ext.json)
-
----
-
-### Motor Cycle theft near the new bus station in Vavuniya
-
-*2024-02-26 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/177286) · `ta`
-
-Vavuniya police have reported that a motorcycle that was parked in front of the new bus station in Vavuniya has been stolen.
-
-A motorcycle parked near the new bus station in Vavuniya at night and a traveler who was traveling in Colombo daylight came to his motorcycle.. The victim has lodged a complaint at the Vavuniya Police Station as the motorcycle was not available. Vavuniya police are conducting investigations into the complaint.
-
-Meanwhile, the Vavuniya police have advised the public to stop motorcycles in public places, on the streets and leave it.
-
-◼️
-
-[Data](articles/60a56859.json)
-
-[Extended Data](ext_articles/60a56859.ext.json)
 
 ---

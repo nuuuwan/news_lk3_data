@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 22:17:29**
+As of **2024-02-26 22:33:02**
 
 ## Newspaper Stats
 
-*Scraped **9,422** Articles*
+*Scraped **9,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 495
 adalk | 799
 adaderanalk | 1,136
 tamilmirrorlk | 1,157
-virakesarilk | 1,285
+virakesarilk | 1,286
 dailymirrorlk | 1,422
 adaderanasinhalalk | 1,429
 
@@ -26,31 +26,53 @@ adaderanasinhalalk | 1,429
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,421 (100.0%) of 9,422 articles have been extended.
+9,422 (100.0%) of 9,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### දේශබන්දුගේ පත්වීම ගැන සජිත්ගෙන් හෙළිදරව්වක්
+### Sajith reveals about Deshabandu's appointment
 
 *2024-02-26 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193856) · `si`
 
-දේශබන්දු තෙන්නකෝන් පොලිස්පති ලෙස පත්කිරීමට ව්‍යවස්ථාදායක සභාවේ අනුමැතිය හිමි නොවූ බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Opposition Leader Sajith Premadasa says that it was not approved by the Constitutional Council to appoint Deshabandu Tennakoon as IGP.
 
-ඒ මහතා සිය X ගිණුමේ සටහනක් තබමින් පවසන්නේ පොලිස්පති ලෙස දේශබන්දු තෙන්නකෝන් මහතාව පත්කිරීම සඳහා පැවති ඡන්ද විමසීමේදී එයට පක්ෂව ඡන්ද 4ක් සහ විපක්ෂව ඡන්ද 2ක් හිමිව ඇති බවය.
+He launches his X account note that four votes were cast in favor and two against it in favor of the appointment of Deshabandu Tennakoon.
 
-එසේම එහි ඡන්ද විමසීමකදී ප්‍රතිඵලය සම වන අවස්ථාවකදී පමණක් කථානායකවරයාට සිය ඡන්දය භාවිත කළ හැකි බවත් ඔහු පවසයි.
+He also says that at the time of its election, the Speaker can vote for his vote at the time of the time.
 
-විපක්ෂනායකවරයා පවසන්නේ ව්‍යවස්ථාදායක සභාවේ ඡන්දයක් හරහා තීරණයක් ගැනීමට අඩුම වශයෙන් ඡන්ද 5ක් අවශ්‍ය බවය.
+The Opposition Leader says there is at least five votes to make a decision through a legislation.
 
-ඒ අනුව දෙවන වරටත් ව්‍යවස්ථාව උල්ලංඝනය වී ඇති බව ඔහු සිය X පණිවුඩයෙන් පෙන්වාදෙයි
+Accordingly, he pointed out that the constitution is violated for the second time
 
-මේ අතර ජනාධිපති මාධ්‍ය අංශය අද පස්වරුවේ නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 41ඇ.(1) හා 61 ඉ.(ආ) වන ව්‍යවස්ථාවන්හි විධිවිධාන ප්‍රකාරව, ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පැවරී ඇති බලතල අනුව මෙම පත්කිරීම සිදු කර ඇති බවය.
+Meanwhile, the Presidential Media Unit of the Democratic Socialist Republic of Sri Lanka (BULD) stated that the constitution of the Democratic Socialist Republic of Sri Lanka (1) and 61 e. (1) and 61 e.That is.
+
+The relevant appointment letter was presented to the Presidential Secretariat at the Presidential Secretariat this afternoon.
+
+◼️
+
+[Data](articles/7b9c7a05.json)
+
+[Extended Data](ext_articles/7b9c7a05.ext.json)
+
+---
+
+### டிசம்பரில் அங்குரார்ப்பண லங்கா ரி10 லீக் கிரிக்கெட்
+
+*2024-02-26 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177378) · `ta`
+
+அங்குரார்ப்பண லங்கா ரி10 லீக் கிரிக்கெட் இந்த வருடம் டிசம்பர் 12ஆம் திகதியிலிருந்து 22ஆம் திகதிவரை அரங்கேற்றப்படவுள்ளது.
+
+எனினும் குறிப்பிட்ட காலப்பகுதியில் சர்வதேச போட்டிகள் நடைபெறாததால் அக் காலப் பகுதி இப் போட்டியை நடத்த பொருத்தமான காலமாக அமையும் என ஸ்ரீலங்கா கிரிக்கெட் கருதுகிறது.
+
+ஸ்ரீலங்கா கிரிக்கெட்டினால் வருடாந்தம் நடத்தப்படும் பல்வேறு கிரிக்கெட் போட்டிகளில் புதிதாக இணைக்கப்பட்டுள்ள லங்கா ரி10 லீக் கிரிக்கெட் போட்டியில் இலங்கையின் தேசிய நட்சத்திர கிரிக்கெட் வீரர்களுடன் சர்வதேச கிரிக்கெட் வீரர்களும் பங்குபற்றி கலக்கவுள்ளனர்.
+
+இலங்கையில் முன்னேறிவரும் இளம் வீரர்களுக்கும் இந்தப் போட்டிகயில் பங்குபற்ற வாய்ப்பு கிடைப்பதுடன் சர்வதேச வீரர்களிடம் இருந்து அவர்களுக்கு சிறந்த அனுபவங்களைப் பெற்றுக்கொள்ளக்கூடியதாக இருக்கும்.
 
 ...
 
-[Data](articles/7b9c7a05.json)
+[Data](articles/de35e533.json)
 
 ---
 
@@ -1967,23 +1989,5 @@ Also, a powerful problem has been made by the Supreme Court's decisions in the f
 [Data](articles/58957c2e.json)
 
 [Extended Data](ext_articles/58957c2e.ext.json)
-
----
-
-### The vehicle in Jaffna Nagar
-
-*2024-02-26 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177310) · `ta`
-
-A small vehicle in the central part of the city of Jaffna was on fire on Monday (26).
-
-The vehicle that had been parked in a recent hollow land to the Jaffna Central Bus Stand has been set on fire.
-
-Jaffna police are conducting investigations into the incident as it is not known whether the fire or the crew is set on fire.
-
-◼️
-
-[Data](articles/90c91a5e.json)
-
-[Extended Data](ext_articles/90c91a5e.ext.json)
 
 ---

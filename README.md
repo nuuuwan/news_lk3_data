@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 17:02:30**
+As of **2024-02-26 17:17:30**
 
 ## Newspaper Stats
 
-*Scraped **9,368** Articles*
+*Scraped **9,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,118 @@ adalk | 791
 adaderanalk | 1,130
 tamilmirrorlk | 1,152
 virakesarilk | 1,273
-dailymirrorlk | 1,410
-adaderanasinhalalk | 1,420
+dailymirrorlk | 1,413
+adaderanasinhalalk | 1,422
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,365 (100.0%) of 9,368 articles have been extended.
+9,368 (99.9%) of 9,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### ලංකාවේ ඉන්ධන වෙළඳාමට තවත්  සමාගමක්
+### Lanka T10 League set to kick off in December
+
+*2024-02-26 16:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lanka-T10-League-set-to-kick-off-in-December/108-277746) · `en`
+
+Colombo, Feb. 26 (Daily Mirror) - The inaugural edition of the Lanka T10 League is set to take place from December 12 to December 22, 2024.
+
+Originally planned for 2023, the tournament's rescheduled dates provide an optimal window for hosting a successful competition.
+
+Sri Lanka's newest addition to its annual cricket calendar, the Lanka T10 League, promises to showcase some of the finest international stars alongside the country's top cricketing talents. With action-packed matches expected, the tournament also offers a platform for young Sri Lankan players to rub shoulders with global icons.
+
+Shammi Silva, President of Sri Lanka Cricket, expressed confidence in the tournament's success, emphasizing its significance in keeping Sri Lankan cricket aligned with the evolving trends in the sport. He stated, "I have full confidence that this tournament will be a resounding success, contributing to Sri Lanka Cricket's ability to stay current with the evolving trends in the game."
+
+...
+
+[Data](articles/21da9692.json)
+
+---
+
+### ලංකා T10 තරගාවලිය දෙසැම්බරයේ
+
+*2024-02-26 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193848) · `si`
+
+පළමු ලංකා T10 තරගාවලිය 2024 දෙසැම්බර් මාසයේ පැවැත්වෙන බව වාර්තා වෙයි.
+
+ඒ අනුව එම තරගාවලිය දෙසැම්බර් 12 වනදා සිට 22 වනදා දක්වා පැවැත්වීමට නියමිතය.
+
+එම තරගාවලිය සඳහා කණ්ඩායම් 6ක් තරග වදින අතර එක් සංචිතයකට ක්‍රීඩකයින් 16ක් අයත් වෙයි.
+
+◼️
+
+[Data](articles/ba772f44.json)
+
+---
+
+### දමිතාට නොතීසි ඉල්ලූ CIDයට අධිකරණය දුන් පිළිතුර
+
+*2024-02-26 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193847) · `si`
+
+දමිතා අබේරත්නට සහ අයගේ සැමියාට නොතීසි නිකුත් කරන ලෙස ඉල්ලා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයෙන් ඉල්ලීමක් කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා ප්‍රතික්ෂේප කර තිබේ.
+
+CIDය අධිකරණයට දැනුම්දී ඇත්තේ දමිතා අබේරත්න සහ ඇයගේ සැමියා විසින් කොරියානු රටට යවන බව පවසා රුපියල් ලක්ෂ 30 අධික මුදලක් වංචා කර ඇති බවය.
+
+ඒ සම්බන්ධයෙන් වූ පැමිණිල්ල විභාග කිරීම සඳහා පොලීසියට පැමිණෙන ලෙස කළ දැනුම්දීම නොසලකාහැරීම හේතුවෙන් අධිකරණය හමුවේ පෙනී සිටින ලෙස නොතීසි නිකුත් කරන ලෙස එමගින් CIDය ඉල්ලීමක් කර තිබුණි.
+
+එහිදී කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා පවසා ඇත්තේ ඔවුන් සැකකරුවන් ලෙස නම්කර නොමැති බැවින් අධිකරණයෙන් නොතීසි නිකුත් කිරීමට නොහැකි බවය.
+
+එසේම නිසි අයුරින් නියෝග ඉල්ලන ලෙසට ප්‍රකාශ කර ඇති කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා සඳහන් කර ඇත්තේ මේ අයුරින් ඉදිරියේදී "පාරේ යන අයටත් නොතීසි නිකුත් කරන ලෙස ඉල්ලා සිටීවී" යනුවෙනි.
+
+◼️
+
+[Data](articles/d82e480c.json)
+
+---
+
+### Sri Lanka Planetarium to be closed to public
+
+*2024-02-26 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Planetarium-to-be-closed-to-public/108-277745) · `en`
+
+The Sri Lanka Planetarium will remain closed to the public from tomorrow (27) until March 12, the Education Ministry announced.
+
+The decision to close the Planetarium stems from the necessity for urgent repairs. As such, access to the facility will be restricted during this period to facilitate the required maintenance work.
+
+◼️
+
+[Data](articles/773fe709.json)
+
+---
+
+### Another company to fuel trade in Sri Lanka
 
 *2024-02-26 16:21:45* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ඉන්ධන-වෙළඳාමට-තවත්--සමාගමක්/11-408286) · `si`
 
-ඉන්ධන වෙළෙඳපොළ තරගකාරීත්වය වැඩිකරමින් තවත් විදේශීය සමාගමක් වන ඔස්ට්‍රේලියාවේ "United Petroleum "ශ්‍රී ලංකාවේ වෙළෙඳපොළට අවතීර්ණ වී තිබේ. එම සමාගම සහ විදුලිබල සහ බලශක්ති අමාත්‍යංශය අතර ගිවිසුම පසුගිය 22 වනදා අත්සන් කර බව සඳහන් වේ.
+The fuel market competition has increased to the Sri Lankan market, another foreign company, Australia, Australia.The Company and the Ministry of Power and Energy have said that the agreement was signed on the 22nd.
 
-දැනට මෙරට ක්‍රියාත්මක වන ඉන්ධන පිරවුම්හල් 150ක් එම සමාගම ට පැවරීමට නියමිත අතර තවත් ඉන්ධන පිරවුම්හල් 50ක් ඔවුන් විසින් ස්ථාපනය කිරීමට නියමිතව ඇත. ශ්‍රී ලංකාව තුළ මෙහෙයුම් කටයුතු සිදුකිරීම සඳහා ඔවුන් විසින් "United Petroleum Lanka LTD" නමින් සමාගමක් ලියාපදිංචි කර තිබේ.
+There are 150 filling stations in the country will be transferred to the company and 50 more filling stations are to be installed by them. They have registered a company called "United Petroleum Lanka Ltd" to carry out operations in Sri Lanka.
 
 ◼️
 
 [Data](articles/462ef5a4.json)
+
+[Extended Data](ext_articles/462ef5a4.ext.json)
+
+---
+
+### Opposition Leader’s donation stolen from primary school
+
+*2024-02-26 15:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-Leaders-donation-stolen-from-primary-school/108-277741) · `en`
+
+Avissawella, Feb 26 (Daily Mirror) - The Avissawella Police have initiated an investigation into the theft of Rs. 100,000 from a primary school office, a donation made by Opposition Leader Sajith Premadasa a few days ago.
+
+The donation was part of the 'Sakwala' programme during the Opposition Leader's visit to the Puwakpitiya South Primary School on February 23.
+
+A complaint was made to the Avissawella  police by the school Principal that someone had broken the front door of the office and all the cupboards and the money was stolen.
+
+When the students had come to the school to set up the classrooms, they had seen the office door broken.
+
+◼️
+
+[Data](articles/b78bfdad.json)
 
 ---
 
@@ -61,6 +149,8 @@ The survey pool included the official telephone lines assigned to Grama Niladhar
 ...
 
 [Data](articles/76615d1f.json)
+
+[Extended Data](ext_articles/76615d1f.ext.json)
 
 ---
 
@@ -524,25 +614,27 @@ It has been reported that the United Nations Petroleum Lanka Limited has been re
 
 ---
 
-### අයිස් සමග කොස්තාපල් අල්ලයි
+### Constable arrested with ice
 
 *2024-02-26 13:37:00* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සමග-කොස්තාපල්-අල්ලයි/11-408282) · `si`
 
-අනුරාධපුර මූලස්ථාන පොලිසියට අනුයුක්තව  පරිගණක පණිවිඩ ක්‍රියාකරුවකු ලෙස රාජකාරී කල කොස්තාපල්වරයෙකු අයිස් මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් බව අනුරාධපුර පෝයස්ථාන පොලිසිය පවසයි
+Anuradhapura Poyapshana Police say that a constable to be arrested as a computer message operator attached to the Anuradhapura Headquarters Police
 
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ මාවනැල්ල ප්‍රදේශයේ පදිංචිව සිට දැනට මිහින්තලය රුවන්ගම ප්‍රදේශයේ පදිංචිව සිටින 30වන වියේ පසුවන කොස්තාපල්වරයෙකි.
+The victim was a 30-year-old constable where the Mihintale has been residing in Mawanella.
 
-මත්ද්‍රව්‍ය පානයට තදින් ඇබ්බැහිව සිටින  අනුරාධපුර නුවර පාරේ පදිංචි 23 හැවිරිදි සැකකරුවෙකු අත්අඩංගුවට ගෙන සිදු කල ප්‍රශ්න කිරීම් වලදී සැකකාර පොලිස් කොස්තාපල්වරයා  අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+The suspected sustactor was arrested in questionning of a 23-year-old suspar, a 23-year-old resident of Anuradhapura.
 
-සැකකාර කොස්තාපල්වරයා අත්අඩංගුවට පත්වන අවස්ථාවේදී ඔහු සන්තකයේ තිබී, අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 190ක ප්‍රමාණයක් තිබී හමුවූ බවද පොලිසිය සඳහන් කළේය.
+The suspected constable was found in possession of 190 milligrams in his possession.
 
-සැකකරුට මෙම අයිස් මත්ද්‍රව්‍ය ලැබුණු ආකාරය සහ කාලෙක සිට වෙළඳාමක් ලෙස මෙය සිදු කළේද යන්න දැන ගැනීම සඳහා වැඩි දුර විමර්ශන ක්‍රියාත්මක බවද පොලිසිය කියයි.
+The police say that the suspect is implementing this ice drug and a while, the police said.
 
-සැකකරු අද (26 දා) අනුරාධපුර   මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට තිබුණි.
+The suspect was produced before the Anuradhapura Magistrate's Court today (26th).
 
 ◼️
 
 [Data](articles/0f2f7c3d.json)
+
+[Extended Data](ext_articles/0f2f7c3d.ext.json)
 
 ---
 
@@ -1927,119 +2019,5 @@ In an urgent move to prevent any diplomatic tension between Russia and Sri Lanka
 [Data](articles/ce8eaf47.json)
 
 [Extended Data](ext_articles/ce8eaf47.ext.json)
-
----
-
-### Son has a concerns that he forced to drink medicine
-
-*2024-02-26 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193825) · `si`
-
-Pitigala Police say that a father has aimed to death by a father who devoted her child with a mental child.
-
-The victim was a resident of Kaluarachchi, Kaluarachchi.
-
-The 47 year old son of the deceased has been arrested by the Puthigala Police.
-
-Doctors have decided that the deceased's son Angoda Mental Hospital was well-treated for a long treatment of mental illness.
-
-Accordingly, the person has been handed over to parents on the court permission and the doctors are recommended to provide medicines daily.
-
-The father's son had attempted to provide the father's son at night and had been hidden in the house, refusing to obtain it.
-
-The son had been assaulted by the son, while the father sat in a chair of the porch and was assaulted by the Pitigala Police.
-
-The man is still suffering from mental illness.
-
-◼️
-
-[Data](articles/52a62399.json)
-
-[Extended Data](ext_articles/52a62399.ext.json)
-
----
-
-### The Central Bank is ready to explain wages
-
-*2024-02-26 07:48:54* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩි-කර-ගැනීම-ගැන-පැහැදිලි-කිරීමට-මහ-බැංකුව-සූදානම්ලු/11-408271) · `si`
-
-2024-2026 References and statements of the last salary revision approved by the Board of Directors who approached trade unions regarding the period of 2024-2026.The Central Bank has said that the Central Bank has inspected how many news has been published in the media.
-
-The Central Bank is the opportunity to communicate with parliamentary committee, as the central bank will be able to explain the opportunity to discuss the recent central bank salary amendment process and the reasons for revision of salaries.The Governing Board (SL) asked the Governor at the Governing Board of Governors on February 21, 2024 to request a statement in terms of Section 16 (2).. Accordingly, a written request was made on February 22, 2024 by the Governor.
-
-The Central Bank is ready to explain its position in a time when the Central Bank is available or to provide information.
-
-◼️
-
-[Data](articles/9a88621e.json)
-
-[Extended Data](ext_articles/9a88621e.ext.json)
-
----
-
-### School child killed in drowning
-
-*2024-02-26 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193824) · `si`
-
-A boy drowned in the Nagasena area in the Lindula Police Division.
-
-Police said that the child had gone to the daughter yesterday (25) with five other boys.
-
-The student's body was revealed in the investigation that the body was found in a deep hoa.
-
-The victim was a 16 year old resident of Nuwara Eliya.
-
-◼️
-
-[Data](articles/ce7d36a9.json)
-
-[Extended Data](ext_articles/ce7d36a9.ext.json)
-
----
-
-### Two suspects arrested for shooting
-
-*2024-02-26 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193823) · `si`
-
-Two suspects have been arrested for assisting a person's shooting at the Negombo Pamunugama road.
-
-The suspects were arrested on the 12th of August and was arrested on supporting and hinded the shotypists.
-
-They are residents of Karawaththa and Ambalaya in ages and 40.
-
-In the Negombo Divisional Criminal Unit, the Negombo Criminal Unit has also recovered the motorcycle for criminals.
-
-◼️
-
-[Data](articles/06b15350.json)
-
-[Extended Data](ext_articles/06b15350.ext.json)
-
----
-
-### Red Warrants: How do you get criminals to Sri Lanka?
-
-*2024-02-26 06:54:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqv6n51g6xwo) · `si`
-
-70 days (February 26) ended on December 17 (February 26) to explode drugs and organizational crimes operating in the country.
-
-Police have revealed that people involved in the underworld and drug trafficking have been revealed that such activities are being carried out abroad.
-
-Are contractors contracted because of the wave of shootings?Conflicts between organized gangs?
-
-Who is the criminals who have been arrested and brought to Sri Lanka while they were overseas?
-
-In the recent past, there have been several instances where people who are organized and drug dealers have been conducted in the country have recently taken custody.
-
-In 2015, Samantha Kumara alias Samantha Kumara alias 'Wele Suda' was taken to Sri Lanka.
-
-Madjipani Imran, Kjepani Imran, who wanted to take drugs in Kachlywela, and the Kawalawatte, was taken to the island after the allegations of drugs and organized crimes in Dubai.
-
-The two drug trafficking in Sri Lanka were also taken into custody at the Madagaskara Airport of 2023.
-
-...
-
-[Data](articles/236b6478.json)
-
-[Extended Data](ext_articles/236b6478.ext.json)
 
 ---

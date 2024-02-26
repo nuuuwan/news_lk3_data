@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 13:33:07**
+As of **2024-02-26 13:51:50**
 
 ## Newspaper Stats
 
-*Scraped **9,330** Articles*
+*Scraped **9,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 492
-islandlk | 494
+islandlk | 495
 adalk | 785
 adaderanalk | 1,126
-tamilmirrorlk | 1,149
-virakesarilk | 1,266
+tamilmirrorlk | 1,150
+virakesarilk | 1,269
 dailymirrorlk | 1,404
 adaderanasinhalalk | 1,409
 
@@ -26,27 +26,151 @@ adaderanasinhalalk | 1,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,328 (100.0%) of 9,330 articles have been extended.
+9,335 (100.0%) of 9,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### தாயின் இறப்பைத் தாங்க முடியாமல் உயிரிழந்த மகன்
+### 49% phone numbers in peacekeeping in public offices
+
+*2024-02-26 13:16:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-அலுவலகங்களில்-அமைதிகாக்கும்-49-தொலைபேசி-எண்கள்/175-333822) · `ta`
+
+The study revealed that 49 percent of the telephone numbers found in government offices in Sri Lanka were not functioning.
+
+The study was conducted by the Department of Economics and Statistics of the University of Peradeniya to cover the whole country.
+
+The survey is carried out in view of the telephone numbers published on each Divisional Secretariat website.
+
+It has been examined whether these numbers are in use, whether the calls are answered and answers to questions.
+
+Of the 589 telephone numbers under inspected, 286, ie 49 percent of the passive numbers.
+
+As well as 22 percent of phones are active and not responding. According to the research department, the percentage of responding to calls is 29%.
+
+The standard digits of 98 local bodies, 23 municipal councils and 36 municipal councils have been used for this study.
+
+...
+
+[Data](articles/905f46c1.json)
+
+[Extended Data](ext_articles/905f46c1.ext.json)
+
+---
+
+### Alexi Navalney's death - Australia announces sanctions against Russian prison officials
+
+*2024-02-26 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177326) · `ta`
+
+Australia has imposed financial and traffic sanctions against prison authorities associated with Alexi Navalney's death.
+
+He said the Australian government was deeply concerned about Nawalni's death and said that the next step towards taking responsibility for Navalni's human rights.
+
+"We will work with our colleagues to ensure that the Russian government is responsible for the death of Navalney," he said.
+
+Richardmarles, who said that the Russian president and the government are responsible for the manner in which Navalney carried out the death and death, said that we are demanding an independent investigation into this.
+
+◼️
+
+[Data](articles/8a383878.json)
+
+[Extended Data](ext_articles/8a383878.ext.json)
+
+---
+
+### Souvenir
 
 *2024-02-26 12:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயின்-இறப்பைத்-தாங்க-முடியாமல்-உயிரிழந்த-மகன்/175-333820) · `ta`
 
-தாயின் மரணத்தால் நிலைகுலைந்த மகன், தாய் இறந்த சில மணித்தியாலங்களில் மாரடைப்பு ஏற்பட்டு உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that the son of the mother, who was suffering from the mother's death, died of a heart attack in a few hours of death.
 
-இந்துருவ  அகடேகொட, கல்தரமுல்லவில் வசித்து வந்த 71 வயதுடைய ஏழு பிள்ளைகளின் தாயான மெட்டில்டா என்பவர் கடந்த 22ஆம் திகதி உயிரிழந்துள்ளார்.
+Mettilda, the mother of 71 -year -old children, who lived in Kaldaramulla, Induva Akadegoda, died on the 22nd.
 
-இந்த நிலையில், அவரது ஐந்தாவது மகனான 47 வயதுடைய ஒரு பிள்ளையின் தந்தையான லக்சிறி என்ற நபர் தாயின் மரணத்தால் ஆழ்ந்த மனஉளைச்சலுக்கு ஆளாகியுள்ளார்.
+In this case, a man named Laksiri, the father of a 47 -year -old child, his fifth son, has been deeply distressed by the death of his mother.
 
-இந்த நிலையில், தாய் மற்றும் மகனின் இறுதிக் கிரியைகள் நேற்று (24) முன்தினம் இடம்பெற்றுள்ளன.
+In this case, the funeral of the mother and son was held yesterday (24).
 
 ◼️
 
 [Data](articles/ef330ea7.json)
+
+[Extended Data](ext_articles/ef330ea7.ext.json)
+
+---
+
+### Emergency Telephone Number to register for the "Urumaya" land ownership
+
+*2024-02-26 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177323) · `ta`
+
+An emergency telephone number has been introduced to apply for the aspirations of the "Urumaya" National Program and give people the opportunity to enjoy the full rights of their land.
+
+From 8.30 am to 8.30 pm, the President's Office, the Urumaya National Operations Office, the Emergency Telephone No. 1908 and the telephone number 0114 354600/0114 354601 have been provided with facilities to register their demands.
+
+www.tiniurl.com/urumaya (Digital Application Form) has been announced that it can be completed by completing the form.
+
+The Land Development Ordinance of 1935 is a unique proposal put forward in the 2024 budget by President Ranil Wickremesinghe to give the government the right to the people with the conditions of government lands with conditions / allowances with conditions for the farmers and low income earners.
+
+...
+
+[Data](articles/b242b76a.json)
+
+[Extended Data](ext_articles/b242b76a.ext.json)
+
+---
+
+### Intended messages and their interpretation
+
+*2024-02-26 12:40:00* · [`islandlk`](http://island.lk/intended-messages-and-their-interpretation/) · `en`
+
+It is common for short clips of statements by public figures, often taken out of context, to go viral
+
+Few things on social media go as viral as short clips of statements by public figures, often taken out of context. In platforms designed to capitalise on our shrinking attention spans, users rarely have the time or patience for context. Even if some may wish to trace a circulating video clip to its original, longer video source, it would have likely gone viral by then, prompting journalists to play catch up, although we may not report on it.
+
+While it is hard to pin motivations based on short clips, the instant reactions they trigger can be interesting and telling. Among other things, they show us how an intended message and its interpretation can be very different while consumed on social media. A case in point is a remark made by External Affairs Minister S. Jaishankar at the Indian Institute of Management (IIM), Mumbai, last month.
+
+...
+
+[Data](articles/86584ebb.json)
+
+[Extended Data](ext_articles/86584ebb.ext.json)
+
+---
+
+### Diplomatic solution to the crisis of Ukraine - I plead for a little humanity
+
+*2024-02-26 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/177320) · `ta`
+
+Holy Pope Francis has requested that a diplomatic solution to the Ukraine crisis be found.
+
+The Holy Prophet has requested a diplomatic solution that can cause permanent fair peace.
+
+He made the request for two years since Russia's invasion of Ukraine began yesterday.
+
+Many people have been affected by the long -standing war - the wounded, the destruction, the grief and the tears, said the war has not caused a disaster in the region.
+
+I plead for a little humanity to create a diplomatic situation that seeks a fair and lasting peace, ”the pope said.
+
+◼️
+
+[Data](articles/185f07b6.json)
+
+[Extended Data](ext_articles/185f07b6.ext.json)
+
+---
+
+### KEY TO DEVELOPMENT IS COMMITTED AND ETHICAL LEADERSHIP
+
+*2024-02-26 12:34:00* · [`islandlk`](http://island.lk/key-to-development-is-committed-and-ethical-leadership/) · `en`
+
+The Presidential Election of 1988 was held amid fear of disruption and death threats to campaigners. During the election period, a curfew was in force from 11 pm to 5 am throughout the month from Nomination to Polling Day while the forces of disruption were also enforcing fear psychosis, causing shops, government institutions, offices, and even court houses to close regularly.
+
+From Nomination Day, the candidates Prime Minister Ranasinghe Premadasa, Mrs. Sirima Bandaranaike and Mr. Ossie Abeygunasekara were conducting their election campaigns under heavy security. People were fearful of attending meetings, and attendance at most meetings was limited. The JVP did not run at this election.
+
+...
+
+[Data](articles/39497d13.json)
+
+[Extended Data](ext_articles/39497d13.ext.json)
 
 ---
 
@@ -354,23 +478,25 @@ He is scheduled to be produced before the Mahara Magistrate's Court.
 
 ---
 
-### මහජන සෞඛ්‍ය පරික්ෂකවරයෙක් වෙඩි තබා ඝාතනය කරයි
+### A public health inspector shots and kill
 
 *2024-02-26 11:10:01* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-සෞඛ්‍ය-පරික්ෂකවරයෙක්-වෙඩි-තබා-ඝාතනය-කරයි/11-408277) · `si`
 
-කරන්දෙණිය කුරුදුගහහැතැප්ම් දිවිතුර පාර පදේශයේ නිවසක් තුළ අද (26)උදේ  සිදුවූ වෙඩි තැබීමකින් කරන්දෙණිය ප්‍රා දේශිය සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයේ පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂකවරයා මිය ගොස් ඇතැයි ඇල්පිටිය පොලීසිය කියයි.
+The Administrative Public Health Inspector of the Office of Karandeniya Regional Medical Officer of the Ministry of Kurundugahahadehaps have been shot dead today (26).
 
-මෙසේ ඝාතනයවී ඇත්තේ කරන්දෙණිය කුරුදුගහහැතැප්ම පදිංචි රොෂාන් කුමාර විතානාච්චි නමැති තිදරු පියෙකි.
+The victim is Roshan Kumara Withana, a resident of Kurunduguese, Karandathiya.
 
-මිය ගිය මහජන සෞකය පරීක්ෂකවරයා නිවසේ රැදී සිටියදී රාජකාරී අවශය තාවයක් සදහා පැමිණියේ යයි කියමින් යතුරු පැදියකින් පැමිණි නාදුනන පුද්ගලයින් දෙදෙනෙක් ඔහුට වෙඩි තබා පලාගොස් ඇති බව ද පොලීසිය කියයි.
+Two unidentified persons who had come to a motorcycle have fled the motorcycle, claiming that the deceased was held at home.
 
-වෙඩි වැදී බරපතල තුවාල ලැබූ මේ මහජන සෞඛ්‍ය පරීක්ෂකවරයා රෝහලට රැගෙන යන අතරතුරදී මියගොස් ඇති බව ද පොලීසිය කියයි.
+The Public Health Inspector who was seriously injured in the shooting was taken to the hospital, police said.
 
-ඔහු මුදලට යට නොවී අකුරටම රාජකාරී කරන අයෙක් බවත් මේ ඝාතනය ඒ සම්බන්ධයෙන්වූවක් වන්නට ඇති බවට සැකකකරන බව ද පොලීසිය කියයි.
+He is a person who is acting perfect and is suspicious that the murder is being suspected to be the case.
 
 ◼️
 
 [Data](articles/dcec3bcb.json)
+
+[Extended Data](ext_articles/dcec3bcb.ext.json)
 
 ---
 
@@ -1899,123 +2025,5 @@ Dhruw Jurel and Kuldeep Yadav, who were not at the end of the second day's play,
 [Data](articles/572692ee.json)
 
 [Extended Data](ext_articles/572692ee.ext.json)
-
----
-
-### US, British forces carry out more strikes against Houthis in Yemen
-
-*2024-02-25 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97529/us-british-forces-carry-out-more-strikes-against-houthis-in-yemen) · `en`
-
-U.S. and British forces carried out strikes against more than a dozen Houthi targets in Yemen on Saturday, officials said, the latest round of military action against the Iran-linked group that continues to attack shipping in the region.
-
-The United States has carried out near daily strikes against the Houthis, who control the most populous parts of Yemen and have said their attacks on shipping are in solidarity with Palestinians as Israel strikes Gaza.
-
-The strikes have so far failed to halt the Houthis’ attacks, which have upset global trade and raised shipping rates.
-
-A joint statement from countries that either took part in the strikes or provided support, said the military action was against 18 Houthi targets across eight locations in Yemen including underground weapons and missile storage facilities, air defense systems, radars and a helicopter.
-
-...
-
-[Data](articles/64effb1d.json)
-
-[Extended Data](ext_articles/64effb1d.ext.json)
-
----
-
-### Jampettah Street shooting: Victim identified as close associate of ‘Pukudu Kanna’
-
-*2024-02-25 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97528/jampettah-street-shooting-victim-identified-as-close-associate-of-pukudu-kanna-) · `en`
-
-Sri Lanka Police says the 55-year-old who was injured in the shooting incident at Jampettah Street in Colombo earlier today (25 Feb.) is suspected to be a close associate of the notorious underworld figure known by the alias ‘Pukudu Kanna’.
-
-The shooting victim has been identified as Mohommed Rilwan, a resident of the ‘Methsanda Sewana’ housing scheme in Henamulla, police reported.
-
-Police suspect that the shooting had been carried out as a result of a dispute between ‘Pukudu Kanna’ and rival gang member ‘Rimoshan’, the son of ‘Kudu Selvi’.
-
-According to police, CCTV footage had shown two suspects arriving on a motorcycle near a meat shop in Jampettah Street at around 01:45 p.m. today, and they had subsequently opened fire at the 55-year-old victim.
-
-Mohommed Rilwan was subsequently rushed to the Colombo National Hospital, and is currently receiving medical treatment, police stated.
-
-◼️
-
-[Data](articles/f785223e.json)
-
-[Extended Data](ext_articles/f785223e.ext.json)
-
----
-
-### Korean Language Testicle Ticketing For Online
-
-*2024-02-25 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193819) · `si`
-
-The issuance of tickets of Korean language test in 2024 has been made to be done tomorrow (26) to 29th online system.
-
-The Foreign Employment Bureau has issued a statement.
-
-The announcement further states to the official website of the Bureau (http://www.slbfe.lk).That is the need to be.
-
-The Foreign Employment Bureau said that the link will be closed down after 29, the foreign employment will be informed in any way further means.
-
-Applications, fisheries, shipping, swelling, in the main areas and services should be applied under the 2 service.
-
-Being a person between the ages of 18 - 39 (Born in February 27 from February 27, 2006,
-
-A court of a court must be a fined, a fines or fined. Also, the Republic of Korea was not reversed or expelled,
-
-Under the E-9 or E-10 Visa categories, there should be a person who has not worked in South Korea for five years or more.
-
-...
-
-[Data](articles/f2c5c12a.json)
-
-[Extended Data](ext_articles/f2c5c12a.ext.json)
-
----
-
-### Build SL 2024 to feature ‘China Trade Pavilion’
-
-*2024-02-25 21:52:00* · [`islandlk`](http://island.lk/build-sl-2024-to-feature-china-trade-pavilion/) · `en`
-
-The Build Sri Lanka 2024 exhibition, organized by the Chamber of Construction Industry of Sri Lanka is scheduled to be held on 10th, 11th, 12th May 2024 at the BMICH.A special feature that can be experienced in the Build SL 2024 is the China Trade Pavilion. This exhibition will be an opportunity for Local foreign participants to gather to discuss the business-to-business trading partnerships.
-
-As another arrangement, a SME pavilion will be established for small and medium businesses to promote products, create awareness of their products, to find new markets, and experience product sampling at a nominal fee.
-
-The handing over ceremony of sponsorship cheques was held on 21st Feb 2024 at the Chamber of Construction Industry, Colombo. Archt. Jayantha Perera, President, CCI and Eng. Maj. Ranjith Gunathilaka, immediate past President of CCI and Eng. Nissanka N. Wijeratne, Secretary General of CCI, were present at this ceremony.
-
-...
-
-[Data](articles/4694f281.json)
-
-[Extended Data](ext_articles/4694f281.ext.json)
-
----
-
-### Sunshine Healthcare introduces skin protectant solution
-
-*2024-02-25 21:51:00* · [`islandlk`](http://island.lk/sunshine-healthcare-introduces-skin-protectant-solution/) · `en`
-
-In a groundbreaking move, Sunshine Healthcare Lanka Limited (SHL), the healthcare arm of Sunshine Holdings PLC, announces the introduction of Cavilon No Sting Barrier Film by 3M to the Sri Lankan market. As the exclusive distributor, SHL is set to revolutionize wound care by providing unparalleled access to high-quality skin protectant products, marking a significant milestone in the country’s healthcare landscape.
-
-Acknowledging patient safety as a top priority, Sunshine Healthcare Lanka recognizes the crucial role of skin protection in preventing healthcare-associated skin damage. The skin, being the body’s largest organ, is vulnerable to various risks in healthcare settings, including prolonged exposure to moisture, friction, shear, adhesives, and irritants, leading to complex conditions such as Moisture Associated Skin Damage (MASD), Pressure Ulcer/Injury (PU/PI), and Medical Adhesive Related Skin Injury (MARSI).
-
-...
-
-[Data](articles/6c575c01.json)
-
-[Extended Data](ext_articles/6c575c01.ext.json)
-
----
-
-### Advantis Project Logistics supports climate-smart agriculture initiatives
-
-*2024-02-25 21:50:00* · [`islandlk`](http://island.lk/advantis-project-logistics-supports-climate-smart-agriculture-initiatives/) · `en`
-
-Exemplifying exceptional environmental stewardship, Advantis – Project Logistics, a subsidiary of the Advantis Group, the transportation and logistics arm of Hayleys PLC, completed the rehabilitation of multiple water tanks as a part of the Climate Smart Irrigated Agriculture Projects (CSIAPs). The CSIAP has not only increased agricultural productivity but also conserved water resources, promoting sustainable farming in areas most vulnerable to climate change. This initiative aims to improve climate resilience in dry zones while augmenting water supply for agricultural purposes.
-
-...
-
-[Data](articles/1cbfb45a.json)
-
-[Extended Data](ext_articles/1cbfb45a.ext.json)
 
 ---

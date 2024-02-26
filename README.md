@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 21:33:20**
+As of **2024-02-26 21:51:58**
 
 ## Newspaper Stats
 
-*Scraped **9,412** Articles*
+*Scraped **9,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 798
 adaderanalk | 1,136
 tamilmirrorlk | 1,157
 virakesarilk | 1,285
-dailymirrorlk | 1,416
-adaderanasinhalalk | 1,426
+dailymirrorlk | 1,420
+adaderanasinhalalk | 1,428
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,411 (100.0%) of 9,412 articles have been extended.
+9,412 (99.9%) of 9,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### ජල ගාස්තු සඳහා මිල සූත්‍රයක්
+
+*2024-02-26 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193855) · `si`
+
+ලබන වසරේ ජනවාරි මස සිට ජල ගාස්තු සඳහා මිල සූත්‍රයක් හඳුන්වා දීමට කටයුතු කරන බව ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා අද (26) අනාවරණය කළේය.
+
+ජනාධිපති මාධ්‍ය මධ්‍යස්ථානයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේ මේ වසරේ ජලගාස්තු වැඩි නොකරන බවය.
+
+...
+
+[Data](articles/adc210c9.json)
+
+---
+
+### මහජන සෞඛ්‍ය පරීක්ෂකවරු කම්පනයට හා බියට පත්වෙලා
+
+*2024-02-26 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193854) · `si`
+
+මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරිකවරයාව වෙඩිතබා ඝාතනය කිරීමේ සිද්ධිය සමබන්ධයෙන් විධිමත් හා කඩිනම් විමර්ශනයක් සිදුකළ යුතු බව එම සංගමය පවසයි.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් එම සංගමයේ සභාපති උපුල් රෝහණ මහතා පවසා සිටියේ මේ සිදුවීම හේතුවෙන් මහජන සෞඛ්‍ය පරීක්ෂකවරු කම්පනයට හා බියකට පත්ව ඇති බවය.
+
+"මේ සිදුවීම සම්බන්ධයෙන් විධිමත් හා කඩිනම් විමර්ශනයක් කරලා සත්‍ය තොරතුර අනාවරණය කළ යුතුයි. මහජන සෞඛ්‍ය පරීක්ෂකවරු මේ වෙද්දී මේ හේතුව නිසා යම් කම්පනයකට සහ බියට ලක්වෙලා ඉන්නවා තමන්ගේ රාජකාරිය නිසා ආකාරයෙන් ඉටු කිරීම නිසා මෙවැනි තත්ත්වයන්ට මුහුණ දෙන්න සිදුවෙයිද කියලා?"
+
+ඇල්පිටිය, පතිරාජවත්ත ප්‍රදේශයේ අද පෙරවරු 7.35ට පමණ සිදුකළ වෙඩිතැබීමකින් ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරිකවරයා සිය නිවස තුළදීම ඝාතනයට ලක්වුණි.
+
+එම අපරාධය සිදුකර ඇත්තේ ඔහු සිය පුත්‍රයා පාසලේ පළමු ශ්‍රේණියට ඇතුළත් කිරීමට රැගෙන යාම සඳහා සූදානම් වෙමින් සිටි අවස්ථාවේදීය.
+
+කිසියම් අයෙකු පැමිණ ගෙමිදුලේ සිට කතාකරන හඬ ඇසී ඔහු නිවසේ දොර විවෘත කර ඇති අතර ඒ අවස්ථාවේ වෙඩික්කරුවන් පිස්තෝල ගිනි අවියකින් වෙඩිතබා පළාගොස් තිබේ.
+
+...
+
+[Data](articles/e54389d2.json)
+
+---
 
 ### Management and Trade Unions should be held accountable for Sri Lankan flight - Minister Nimal Siripala
 
@@ -49,6 +85,20 @@ In case of a plane crashing for some reason, it is impossible. It is the duty of
 [Data](articles/22fa286b.json)
 
 [Extended Data](ext_articles/22fa286b.ext.json)
+
+---
+
+### Cabinet nod to suspend ’Parate execution’
+
+*2024-02-26 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-nod-to-suspend-Parate-execution/108-277752) · `en`
+
+Colombo, Feb. 26 (Daily Mirror)- The Cabinet has decided to suspend 'Parate executions' till December 15, 2024, Justice Minister Wijeyadasa Rajapaksha said.
+
+The decision was taken following a request by Justice Minister Wijeyadasa Rajapaksha and Minister of Industries Ramesh Pathirana.
+
+◼️
+
+[Data](articles/e2c26fc4.json)
 
 ---
 
@@ -86,6 +136,8 @@ Question - United People's Power. ??
 
 Colombo, Feb. 26 (Daily Mirror) - President Ranil Wickremesinghe has appointed Deshabandu Tennakoon as the IGP in accordance with the provisions of the Constitution, the President's Media Division (PMD) said.
 
+Secretary to the President Saman Ekanayake presented the official appointment letter to Deshbandu Tennakoon this afternoon (26) at the Presidential Secretariat.
+
 ◼️
 
 [Data](articles/6e091473.json)
@@ -110,17 +162,19 @@ It is noteworthy that President Ranil Wickremesinghe was appointed as the Inspec
 
 ---
 
-### பொலிஸ்மா அதிபராக தேசபந்து தென்னகோன் நியமனம்
+### Deshaphand Tennakoon appointed as the Inspector General of Police
 
 *2024-02-26 19:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபராக-தேசபந்து-தென்னகோன்-நியமனம்/175-333843) · `ta`
 
-இலங்கையின் 36வது பொலிஸ் மா அதிபராக பதில் பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோன் நியமிக்கப்பட்டுள்ளார்.
+Police Inspector Deshpandu Tennakoon has been appointed as the 36th Police Inspector of Police in Sri Lanka.
 
-ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவிடமிருந்து சற்றுமுன்னர் அவர் தனது நியமனக் கடிதத்தைப் பெற்றுக்கொண்டதாக ஜனாதிபதி ஊடக பிரிவு குறிப்பிட்டுள்ளது. R
+The President's Media Unit noted that he had received his appointment letter shortly before the President's Secretary Saman Ekanayake.. Remble
 
 ◼️
 
 [Data](articles/c95d8ff0.json)
+
+[Extended Data](ext_articles/c95d8ff0.ext.json)
 
 ---
 
@@ -585,6 +639,22 @@ Representatives of SriLankan Airlines and its Chairman Ashok Pathirage told the 
 [Data](articles/718a383e.json)
 
 [Extended Data](ext_articles/718a383e.ext.json)
+
+---
+
+### SriLankan Airlines faces permanent grounding?
+
+*2024-02-26 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SriLankan-Airlines-faces-permanent-grounding/155-277744) · `en`
+
+Colombo, Feb 26 (Daily Mirror) - Restructuring of the national carrier SriLankan Airlines is in tatters after Sunday’s ground handling debacle, Minister of Ports, Shipping and Aviation Nimal Siripala de Silva said today.
+
+“Deadline given to potential investors for submitting expressions to partner the national carrier ends on March 5. The information we have received as of now is that all those who have already expressed interest are planning to withdraw after the Sunday’s flight delay. We will have no option but to ground SriLankan airlines for good in  this situation,” the Minister told a discussion which was open to the media as well.
+
+Representatives of SriLankan Airlines and its Chairman Ashok Pathirage told the discussion that four flights were delayed on Sunday – with rats being found in two aircrafts while two others had technical issues.
+
+...
+
+[Data](articles/f726c9af.json)
 
 ---
 
@@ -1917,91 +1987,5 @@ Addressing the National Capital Speed at the Gampaha Municipal Council, saying:
 [Data](articles/f01a3f02.json)
 
 [Extended Data](ext_articles/f01a3f02.ext.json)
-
----
-
-### I don't want to continue to be involved in the murder - US Air Force soldier tried to set fire to the Israeli embassy
-
-*2024-02-26 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177304) · `ta`
-
-International media reports that a US Air Force personnel have set himself on the outside of the Israeli embassy in Wosnington, in protest of the Gaza War.
-
-The man who immediately extinguished the fire was taken to the hospital.
-
-Officials said that the person who tried to set fire to the fire continues to be in danger.
-
-A web site has revealed that I am not interested in the massacre, which is still found in the military.
-
-The Times reports that the person was chanting as an independent Palestine before pouring fetuses himself.
-
-It is noteworthy that there are a series of demonstrations in front of the Israeli embassy in Wosnington after the war began in Gaza.
-
-◼️
-
-[Data](articles/36cf3ef7.json)
-
-[Extended Data](ext_articles/36cf3ef7.ext.json)
-
----
-
-### Kelaniya University Students’ Union president arrested
-
-*2024-02-26 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kelaniya-University-Students-Union-president-arrested/108-277729) · `en`
-
-BIA, Feb 26 (Daily Mirror) - Kelum Mudannayake, the president of the Kelaniya University Students' Union, has been taken into custody by the Public Complaints Division of the Criminal Investigation Department.
-
-Police said he was arrested in connection with a recent incident of ragging at the university.
-
-They said that Mudannayake had been avoiding the police and was intercepted while attempting to depart from the Katunayake Airport.
-
-He is scheduled to be produced before the Mahara Magistrate's Court.
-
-◼️
-
-[Data](articles/79e862c0.json)
-
-[Extended Data](ext_articles/79e862c0.ext.json)
-
----
-
-### A public health inspector shots and kill
-
-*2024-02-26 11:10:01* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-සෞඛ්‍ය-පරික්ෂකවරයෙක්-වෙඩි-තබා-ඝාතනය-කරයි/11-408277) · `si`
-
-The Administrative Public Health Inspector of the Office of Karandeniya Regional Medical Officer of the Ministry of Kurundugahahadehaps have been shot dead today (26).
-
-The victim is Roshan Kumara Withana, a resident of Kurunduguese, Karandathiya.
-
-Two unidentified persons who had come to a motorcycle have fled the motorcycle, claiming that the deceased was held at home.
-
-The Public Health Inspector who was seriously injured in the shooting was taken to the hospital, police said.
-
-He is a person who is acting perfect and is suspicious that the murder is being suspected to be the case.
-
-◼️
-
-[Data](articles/dcec3bcb.json)
-
-[Extended Data](ext_articles/dcec3bcb.ext.json)
-
----
-
-### Emergency Telephone to register for land ownership
-
-*2024-02-26 11:08:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-உரிமைக்கு-பதிவு-செய்ய-அவசரத்-தொலைபேசி-இலக்கம்/175-333819) · `ta`
-
-An emergency telephone number has been introduced to apply for the opportunity to enjoy the full rights of their land through the "Urumaya" National Program.
-
-From 8.30 am to 8.30 pm, the President's Office, the Urumaya National Operations Office, the Emergency Telephone No. 1908 and the telephone number 0114 354600/0114 354601 have been provided with facilities to register their demands.
-
-www.tiniurl.com/urumaya (Digital Application Form) has been announced that it can be completed by completing the form.
-
-Through the Land Development Ordinance of 1935, the proposal put forward by President Ranil Wickremesinghe in the budget by President Ranil Wickremesinghe to give the people the right of the people with the conditions of government lands that are conditional / allowances with conditions for farmers and low income earners.
-
-...
-
-[Data](articles/3ecc1267.json)
-
-[Extended Data](ext_articles/3ecc1267.ext.json)
 
 ---

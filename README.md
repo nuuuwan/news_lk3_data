@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 22:49:56**
+As of **2024-02-26 23:02:44**
 
 ## Newspaper Stats
 
-*Scraped **9,423** Articles*
+*Scraped **9,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 495
 adalk | 799
 adaderanalk | 1,136
 tamilmirrorlk | 1,157
-virakesarilk | 1,286
+virakesarilk | 1,287
 dailymirrorlk | 1,422
 adaderanasinhalalk | 1,429
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,429
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,423 (100.0%) of 9,423 articles have been extended.
+9,423 (100.0%) of 9,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### மேய்ச்சல் தரையை மீட்கும் தமிழ் பண்ணையாளர்களின் போராட்டம் தொடர்கிறது
+
+*2024-02-26 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177379) · `ta`
+
+ஐந்து மாதங்களுக்கும் மேலாக தொடர்ச்சியாக போராட்டத்தில் ஈடுபட்டுள்ள தமக்கும், தமது கால்நடைகளுக்கும், சிங்கள பெரும்பான்மையின விவசாயிகளால் இழைக்கப்படும் அட்டூழியங்களும், அநியாயங்களும் அதிகரித்துள்ளதாக கிழக்கு மாகாணத்தின் தமிழ் பாற்பண்ணையாளர்கள் தெரிவிக்கின்றனர்.
+
+பெரும்பான்மையின சிங்கள விவசாயிகள் தமது கால்நடைகளை தொடர்ச்சியாக துன்புறுத்தி வருவதோடு கொலை செய்வதாக, தொடர்ச்சியாக 160 நாட்களைக் கடந்து போராட்டத்தில் ஈடுபட்டுள்ள, மயிலத்தமடு, மாதவனை தமிழ் பால் பண்ணையாளர்கள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/aeb1f292.json)
+
+---
 
 ### Sajith reveals about Deshabandu's appointment
 
@@ -1973,25 +1987,5 @@ A number of beans have dried up and is destroying the leaves and is destroyed by
 [Data](articles/ec2db88b.json)
 
 [Extended Data](ext_articles/ec2db88b.ext.json)
-
----
-
-### Signing of the no-confidence in the speaker begins
-
-*2024-02-26 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193834) · `si`
-
-The reconciliation alliance leading the reconciliation of the reliability of Parliament Mahinda Yapa Abeywardena has launched a no-confidence proposal against the Speaker.
-
-Opposition Leader Sajith Premadasa led to this no-confidence motion and reconciliation alliance. it. Sumanthiran, Lakshman Kiriella, G. Also. Peiris, Tissa Attanayake, Chandima Weerakkody and Shan Wijayalal De Silva have signed a no-confidence motion.
-
-The no-confidential proposal on the security proposition of online safety is 13, 17, 20, 33 (6, 33), 34 (3), 35 (1), 3, 21, 31 of the Supreme Court has been ignored by the Supreme Court.Is.
-
-Also, a powerful problem has been made by the Supreme Court's decisions in the forestry of the Bill, due to the fact that the bill has been given by the Supreme Court, has come up with a powerful issue of the parliament.The Human Rights Commission of Sri Lanka (HRC) has stated in a letter to the Speaker.
-
-...
-
-[Data](articles/58957c2e.json)
-
-[Extended Data](ext_articles/58957c2e.ext.json)
 
 ---

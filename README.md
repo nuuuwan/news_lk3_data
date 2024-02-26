@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 22:04:14**
+As of **2024-02-26 22:17:29**
 
 ## Newspaper Stats
 
-*Scraped **9,421** Articles*
+*Scraped **9,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 1,136
 tamilmirrorlk | 1,157
 virakesarilk | 1,285
 dailymirrorlk | 1,422
-adaderanasinhalalk | 1,428
+adaderanasinhalalk | 1,429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,421 (100.0%) of 9,421 articles have been extended.
+9,421 (100.0%) of 9,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### දේශබන්දුගේ පත්වීම ගැන සජිත්ගෙන් හෙළිදරව්වක්
+
+*2024-02-26 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193856) · `si`
+
+දේශබන්දු තෙන්නකෝන් පොලිස්පති ලෙස පත්කිරීමට ව්‍යවස්ථාදායක සභාවේ අනුමැතිය හිමි නොවූ බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+ඒ මහතා සිය X ගිණුමේ සටහනක් තබමින් පවසන්නේ පොලිස්පති ලෙස දේශබන්දු තෙන්නකෝන් මහතාව පත්කිරීම සඳහා පැවති ඡන්ද විමසීමේදී එයට පක්ෂව ඡන්ද 4ක් සහ විපක්ෂව ඡන්ද 2ක් හිමිව ඇති බවය.
+
+එසේම එහි ඡන්ද විමසීමකදී ප්‍රතිඵලය සම වන අවස්ථාවකදී පමණක් කථානායකවරයාට සිය ඡන්දය භාවිත කළ හැකි බවත් ඔහු පවසයි.
+
+විපක්ෂනායකවරයා පවසන්නේ ව්‍යවස්ථාදායක සභාවේ ඡන්දයක් හරහා තීරණයක් ගැනීමට අඩුම වශයෙන් ඡන්ද 5ක් අවශ්‍ය බවය.
+
+ඒ අනුව දෙවන වරටත් ව්‍යවස්ථාව උල්ලංඝනය වී ඇති බව ඔහු සිය X පණිවුඩයෙන් පෙන්වාදෙයි
+
+මේ අතර ජනාධිපති මාධ්‍ය අංශය අද පස්වරුවේ නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 41ඇ.(1) හා 61 ඉ.(ආ) වන ව්‍යවස්ථාවන්හි විධිවිධාන ප්‍රකාරව, ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පැවරී ඇති බලතල අනුව මෙම පත්කිරීම සිදු කර ඇති බවය.
+
+...
+
+[Data](articles/7b9c7a05.json)
+
+---
 
 ### Wanindu - Worthy Wildcard?
 
@@ -1963,25 +1985,5 @@ Jaffna police are conducting investigations into the incident as it is not known
 [Data](articles/90c91a5e.json)
 
 [Extended Data](ext_articles/90c91a5e.ext.json)
-
----
-
-### The latest company to sell fuel in Sri Lanka
-
-*2024-02-26 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193833) · `si`
-
-Another foreign company has entered the local market by increasing the fuel market competition in Sri Lanka.
-
-The agreement between the company and the Ministry of Power and Energy has been signed on the 22nd.
-
-There are 150 filling stations in the country will be transferred to the company and 50 more filling stations will be established by them.
-
-They have registered a company called "United Petroleum Lanka Limited" to carry out operations in Sri Lanka.
-
-◼️
-
-[Data](articles/228c229c.json)
-
-[Extended Data](ext_articles/228c229c.ext.json)
 
 ---

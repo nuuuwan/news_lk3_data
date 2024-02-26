@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 13:02:35**
+As of **2024-02-26 13:17:27**
 
 ## Newspaper Stats
 
-*Scraped **9,327** Articles*
+*Scraped **9,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,126
 tamilmirrorlk | 1,148
 virakesarilk | 1,266
 dailymirrorlk | 1,404
-adaderanasinhalalk | 1,408
+adaderanasinhalalk | 1,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,323 (100.0%) of 9,327 articles have been extended.
+9,327 (100.0%) of 9,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### මවගේ වියෝව දරාගත නොහැකිව පැය කිහිපයකින් පුතාත් මරුට
+
+*2024-02-26 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193835) · `si`
+
+සිය මවගේ අභාවයෙන් සිත්තැවුලට පත් පුතකු මව මියගොස් පැය කිහිපයකින් හෘදයාබාධයකට ලක්ව මිය යාමේ පුවතක් ඉඳුරුව ප්‍රදේශයෙන් වාර්තාවේ.
+
+ඉඳුරුව අකාඩේගොඩ, ගල්දරමුල්ලේ පදිංචිව සිටි මැටිල්ඩා පරණමාන්න නමැති 71 හැවිරිදි සත් දරු මවක පසුගිය 22 වනදා මියගොස් ඇත.
+
+ඇය රැකබලාගෙන ඇත්තේ ඇයගේ පස්වන පුතු වන ලක්සිරි කොට්ටහච්චි නමැති 47 හැවිරිදි එක්දරු පියෙකි.
+
+මේ අනුව මව මියගිය දිනම හදිසි හෘදයාබාධයක් වැලඳීමෙන් ඔහු ද මියගිය අතර මවගේ සහ පුතුගේ අවසන් කටයුතු පෙරේදා (24 ) එකම වේලාවකදී සිදුකර ඇත.
+
+◼️
+
+[Data](articles/1d4a7b61.json)
+
+---
 
 ### Opposition MPs sign no-confidence motion against the Speaker
 
@@ -45,6 +63,8 @@ Speaking in this regard earlier this month, Samgi Jana Balawegaya (SJB) leader S
 ...
 
 [Data](articles/d3a13d4c.json)
+
+[Extended Data](ext_articles/d3a13d4c.ext.json)
 
 ---
 
@@ -102,6 +122,8 @@ Accordingly, United Petroleum Australia incorporated a company in Sri Lanka unde
 
 [Data](articles/c45c6276.json)
 
+[Extended Data](ext_articles/c45c6276.ext.json)
+
 ---
 
 ### Doctors suspect chemical used for dialysis caused series of deaths at Kurunegala Hospital
@@ -119,6 +141,8 @@ Meanwhile, measures are also afoot to appoint a two-member committee of expert d
 ...
 
 [Data](articles/bb2e8a1c.json)
+
+[Extended Data](ext_articles/bb2e8a1c.ext.json)
 
 ---
 
@@ -1170,25 +1194,31 @@ In the Negombo Divisional Criminal Unit, the Negombo Criminal Unit has also reco
 
 ---
 
-### රතු වරෙන්තු: අපරාධකරුවන් මෙරටට ගෙන්වා ගන්නේ කෙසේද ?
+### Red Warrants: How do you get criminals to Sri Lanka?
 
 *2024-02-26 06:54:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqv6n51g6xwo) · `si`
 
-රට තුළ ක්‍රියාත්මක වන මත්ද්‍රව්‍ය සහ සංවිධානාත්මක අපරාධ මැඩලීමට පසුගිය දෙසැම්බර් මස 17 වෙනිදා සිට ආරම්භ කෙරුණු යුක්තියේ මෙහෙයුමට අද (පෙබරවාරි 26වැනිදා) වන විට දින 70ක් ගෙවී ගොස් අවසන් ය.
+70 days (February 26) ended on December 17 (February 26) to explode drugs and organizational crimes operating in the country.
 
-පාතාලයට සහ මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ පුද්ගලයින් විදේශගතව සිටිමින් මෙරට තුළ එවැනි ක්‍රියාකාරකම් කරන බවට කරුණු හෙළි වී ඇති බව පොලිසිය අවස්ථා ගණනාවක දී ප්‍රකාශ කර තිබේ.
+Police have revealed that people involved in the underworld and drug trafficking have been revealed that such activities are being carried out abroad.
 
-වෙඩි තැබීම් රැල්ලට හේතුව ඝාතන කොන්ත්‍රාත්ද? සංවිධානාත්මක කල්ලි අතර ගැටුම්ද?
+Are contractors contracted because of the wave of shootings?Conflicts between organized gangs?
 
-විදේශගතව සිටියදි අත්අඩංගුවට ගෙන මෙරටට රැගෙන පැමිණි අපරාධකරුවන් කවුද ?
+Who is the criminals who have been arrested and brought to Sri Lanka while they were overseas?
 
-විදේශ ගතව සිට මෙරට තුළ සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාවාරම් මෙහෙයවනු ලබන පුද්ගලයින් නීතියේ රැහැනට හසුකර ගැනීමට කටයුතු කළ අවස්ථා කිහිපයක් මෑත කාලයේදී දැක ගත හැකිවිය.
+In the recent past, there have been several instances where people who are organized and drug dealers have been conducted in the country have recently taken custody.
 
-2015 වසරේදී ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ ජාවාරම්කරුවකු ලෙස ප්‍රසිද්ධියට පත්ව ශ්‍රී ලංකාවට අවශ්‍යව සිටි සමන්ත කුමාර නොහොත් 'වෙලේ සුදා' පකිස්ථානයේදි අත්අඩංගුවට ගෙන මෙරටට රැගෙන එන ලදී.
+In 2015, Samantha Kumara alias Samantha Kumara alias 'Wele Suda' was taken to Sri Lanka.
+
+Madjipani Imran, Kjepani Imran, who wanted to take drugs in Kachlywela, and the Kawalawatte, was taken to the island after the allegations of drugs and organized crimes in Dubai.
+
+The two drug trafficking in Sri Lanka were also taken into custody at the Madagaskara Airport of 2023.
 
 ...
 
 [Data](articles/236b6478.json)
+
+[Extended Data](ext_articles/236b6478.ext.json)
 
 ---
 
@@ -1983,27 +2013,5 @@ The two arrested were ordered to be remanded until the 07th of this month when t
 [Data](articles/b9b965b1.json)
 
 [Extended Data](ext_articles/b9b965b1.ext.json)
-
----
-
-### If you do this to be beautiful, the inheritance is death
-
-*2024-02-25 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193818) · `si`
-
-The doctors' association of plastic surgery says that plastic surgeries may even risk the plastic surgery without the intervention of a skilled doctor.
-
-At a press conference held today (25), they were disclosed in the field of doctors without such qualifications.
-
-A group of experts had convened a press conference to educate the public about the risk of doctors who are not eligible to make the risk of plastic surgery.
-
-Meanwhile, doctors revealed that the loss of 13.5 liters of the abduction of 13.5 liters of the abdomen in Kandy recently.
-
-Specialist Dr. Amila Sasanka Ratnage, speaking at the occasion,
-
-...
-
-[Data](articles/c5aca1b0.json)
-
-[Extended Data](ext_articles/c5aca1b0.ext.json)
 
 ---

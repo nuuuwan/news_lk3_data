@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 07:32:28**
+As of **2024-02-26 07:53:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,254 (99.9%) of 9,262 articles have been extended.
+9,262 (100.0%) of 9,262 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -156,6 +156,8 @@ The dynamic learning environment is designed to nurture a passion for learning, 
 
 [Data](articles/15ab7bfa.json)
 
+[Extended Data](ext_articles/15ab7bfa.ext.json)
+
 ---
 
 ### Singer Sri Lanka launches HONOR X9B
@@ -170,6 +172,8 @@ Singer Sri Lanka PLC recently marked a significant milestone with the grand unve
 
 [Data](articles/33147bc5.json)
 
+[Extended Data](ext_articles/33147bc5.ext.json)
+
 ---
 
 ### Würth Group surpasses EUR 20 billion in global sales
@@ -181,6 +185,8 @@ The Würth Group, a global leader in assembly and fastening materials, has achie
 ...
 
 [Data](articles/c2cb020f.json)
+
+[Extended Data](ext_articles/c2cb020f.ext.json)
 
 ---
 
@@ -646,6 +652,8 @@ The handing over ceremony of sponsorship cheques was held on 21st Feb 2024 at th
 
 [Data](articles/4694f281.json)
 
+[Extended Data](ext_articles/4694f281.ext.json)
+
 ---
 
 ### Sunshine Healthcare introduces skin protectant solution
@@ -660,6 +668,8 @@ Acknowledging patient safety as a top priority, Sunshine Healthcare Lanka recogn
 
 [Data](articles/6c575c01.json)
 
+[Extended Data](ext_articles/6c575c01.ext.json)
+
 ---
 
 ### Advantis Project Logistics supports climate-smart agriculture initiatives
@@ -671,6 +681,8 @@ Exemplifying exceptional environmental stewardship, Advantis – Project Logisti
 ...
 
 [Data](articles/1cbfb45a.json)
+
+[Extended Data](ext_articles/1cbfb45a.ext.json)
 
 ---
 
@@ -687,6 +699,8 @@ Commenting on matters related to global security, the Deputy Secretary thanked t
 ...
 
 [Data](articles/afe8817c.json)
+
+[Extended Data](ext_articles/afe8817c.ext.json)
 
 ---
 

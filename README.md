@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 21:51:58**
+As of **2024-02-26 22:04:14**
 
 ## Newspaper Stats
 
-*Scraped **9,418** Articles*
+*Scraped **9,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,94 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 493
 islandlk | 495
-adalk | 798
+adalk | 799
 adaderanalk | 1,136
 tamilmirrorlk | 1,157
 virakesarilk | 1,285
-dailymirrorlk | 1,420
+dailymirrorlk | 1,422
 adaderanasinhalalk | 1,428
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,412 (99.9%) of 9,418 articles have been extended.
+9,421 (100.0%) of 9,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### ජල ගාස්තු සඳහා මිල සූත්‍රයක්
+### Wanindu - Worthy Wildcard?
+
+*2024-02-26 21:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wanindu-Worthy-Wildcard/108-277758) · `en`
+
+Feb. 26 (Daily Mirror) - Wanindu Hasaranga has already become one of the most popular Sri Lankan captains in the recent past just a few games into his new tenure as the skipper of the Sri Lanka T20 team.
+
+Sri Lanka may have lost their third T20 against Afghanistan last week, but the manner in which the team was able to play, has clear indication that under Hasaranga, Sri Lanka would not mind taking an aggressive approach against any team.
+
+There was however, an incident which appears to become one of the talking points at the conclusion of the T20 game which Sri Lanka lost where one of the on-field umpires in Lyndon Hannibal failed to call a clear no-ball on the height. This triggered a very angry reaction from the newly-appointed captain who had a go at Hannibal as the teams were shaking hands. The leg spinner then went on to take a swipe at the umpire during his post-match press conference when he stated that the umpire needs to find a job in another field.
+
+...
+
+[Data](articles/656bb916.json)
+
+[Extended Data](ext_articles/656bb916.ext.json)
+
+---
+
+### Constitutional Council has not approved Deshabandu’s appointment: Sajith
+
+*2024-02-26 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Constitutional-Council-has-not-approved-Deshabandus-appointment-Sajith/108-277757) · `en`
+
+Colombo, Feb 26 (Daily Mirror) - Opposition Leader Sajith Premadasa said the Constitutional Council (CC) has not approved the appointment of Deshabandu Tennakoon as the new IGP.
+
+"There were four votes in favour, 2 against while two members of the CC abstained. At least five votes are required for a decision. The Speaker has a casting vote only in case of a tie. There was no tie. The Constitution has been blatantly violated for the second time," he said.
+
+◼️
+
+[Data](articles/37c4289e.json)
+
+[Extended Data](ext_articles/37c4289e.ext.json)
+
+---
+
+### A price formula for water charges
 
 *2024-02-26 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193855) · `si`
 
-ලබන වසරේ ජනවාරි මස සිට ජල ගාස්තු සඳහා මිල සූත්‍රයක් හඳුන්වා දීමට කටයුතු කරන බව ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා අද (26) අනාවරණය කළේය.
+Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman today (26), he will introduce a price formula for water charges from January next year.
 
-ජනාධිපති මාධ්‍ය මධ්‍යස්ථානයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේ මේ වසරේ ජලගාස්තු වැඩි නොකරන බවය.
+At a press conference held at the Presidential Media Center, the Minister further stated that this year does not increase the hydrologicals this year.
 
 ...
 
 [Data](articles/adc210c9.json)
 
+[Extended Data](ext_articles/adc210c9.ext.json)
+
 ---
 
-### මහජන සෞඛ්‍ය පරීක්ෂකවරු කම්පනයට හා බියට පත්වෙලා
+### Public Health Inspectors are shocked and frightened
 
 *2024-02-26 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193854) · `si`
 
-මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරිකවරයාව වෙඩිතබා ඝාතනය කිරීමේ සිද්ධිය සමබන්ධයෙන් විධිමත් හා කඩිනම් විමර්ශනයක් සිදුකළ යුතු බව එම සංගමය පවසයි.
+A systematic and accelerated investigation should be conducted in connection with the Treasury of the Public Health Inspectors Association.
 
-මාධ්‍ය වෙත අදහස් දක්වමින් එම සංගමයේ සභාපති උපුල් රෝහණ මහතා පවසා සිටියේ මේ සිදුවීම හේතුවෙන් මහජන සෞඛ්‍ය පරීක්ෂකවරු කම්පනයට හා බියකට පත්ව ඇති බවය.
+Speaking to the media, the President of the Association Upul Rohana said that the public health inspectors were shocked and frightened.
 
-"මේ සිදුවීම සම්බන්ධයෙන් විධිමත් හා කඩිනම් විමර්ශනයක් කරලා සත්‍ය තොරතුර අනාවරණය කළ යුතුයි. මහජන සෞඛ්‍ය පරීක්ෂකවරු මේ වෙද්දී මේ හේතුව නිසා යම් කම්පනයකට සහ බියට ලක්වෙලා ඉන්නවා තමන්ගේ රාජකාරිය නිසා ආකාරයෙන් ඉටු කිරීම නිසා මෙවැනි තත්ත්වයන්ට මුහුණ දෙන්න සිදුවෙයිද කියලා?"
+"The actual information should be revealed to be a formal and speedy investigation into the incident. For this reason, the Public Health Inspectors are currently in a shock and frightened if their duties will be in such a way to deal with this situation? "
 
-ඇල්පිටිය, පතිරාජවත්ත ප්‍රදේශයේ අද පෙරවරු 7.35ට පමණ සිදුකළ වෙඩිතැබීමකින් ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරිකවරයා සිය නිවස තුළදීම ඝාතනයට ලක්වුණි.
+The Treasurer of the Sri Lanka Public Health Inspectors' Association was killed in her home with a shooting at Pathirajawatta, Elpitiya.
 
-එම අපරාධය සිදුකර ඇත්තේ ඔහු සිය පුත්‍රයා පාසලේ පළමු ශ්‍රේණියට ඇතුළත් කිරීමට රැගෙන යාම සඳහා සූදානම් වෙමින් සිටි අවස්ථාවේදීය.
+The crime was committed when he was preparing to take his son to the first grade of school.
 
-කිසියම් අයෙකු පැමිණ ගෙමිදුලේ සිට කතාකරන හඬ ඇසී ඔහු නිවසේ දොර විවෘත කර ඇති අතර ඒ අවස්ථාවේ වෙඩික්කරුවන් පිස්තෝල ගිනි අවියකින් වෙඩිතබා පළාගොස් තිබේ.
+He asked the voice of the house and the shotters were shotified by the pistol firearm.
 
 ...
 
 [Data](articles/e54389d2.json)
+
+[Extended Data](ext_articles/e54389d2.ext.json)
 
 ---
 
@@ -99,6 +137,28 @@ The decision was taken following a request by Justice Minister Wijeyadasa Rajapa
 ◼️
 
 [Data](articles/e2c26fc4.json)
+
+[Extended Data](ext_articles/e2c26fc4.ext.json)
+
+---
+
+### Parade law suspended from December 31
+
+*2024-02-26 19:54:21* · [`adalk`](https://www.ada.lk/breaking_news/පරාටේ-නීතිය-දෙසැම්බර්-31දා--දක්වා-අත්හිටුවයි/11-408293) · `si`
+
+The cabinet has approved the suspension until December 31, on December 31.
+
+The objective is to have suffered a specific time for the purpose of protecting the SMEs of SMEs and medium scale cases.. The decision was taken at the patronage of President Ranil Wickremesinghe today (26).
+
+Parade law is mortgaged and the person who has obtained a loan from a bank to the loan, selling the debt in a public auction and return the debt banks in a public auction to obtain the loan free of charge.The bank's power to recover.
+
+However, before the auction is done, the relevant ad will be referred to the language in the Government Gazette, at least three newspapers.. The ad should be sent by registered post to the debtor.
+
+◼️
+
+[Data](articles/dec27886.json)
+
+[Extended Data](ext_articles/dec27886.ext.json)
 
 ---
 
@@ -655,6 +715,8 @@ Representatives of SriLankan Airlines and its Chairman Ashok Pathirage told the 
 ...
 
 [Data](articles/f726c9af.json)
+
+[Extended Data](ext_articles/f726c9af.ext.json)
 
 ---
 
@@ -1921,71 +1983,5 @@ They have registered a company called "United Petroleum Lanka Limited" to carry 
 [Data](articles/228c229c.json)
 
 [Extended Data](ext_articles/228c229c.ext.json)
-
----
-
-### Opposition decides to bring in no faith motion against Speaker
-
-*2024-02-26 11:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-decides-to-bring-in-no-faith-motion-against-Speaker/108-277731) · `en`
-
-Colombo, Feb 26 (Daily Mirror) -  Opposition parties have decided to bring in a no confidence motion against Speaker Mahinda Yapa Abeywardena a short while ago.
-
-SJB MP Nalin Bandara Jayamaha who confirmed the move at a media briefing said the Opposition parties decided to bring in the no faith motion as the Speaker had violated Parliamentary procedures by neglecting instructions given by the Judiciary with regard to the Online Safety Bill.
-
-"The no faith motion will be handed over within the coming days," Bandara said.
-
-The decision on the no faith motion was made during a meeting of the Opposition parties today.
-
-◼️
-
-[Data](articles/c61db341.json)
-
-[Extended Data](ext_articles/c61db341.ext.json)
-
----
-
-### Another danger accident on Southern Express - Life is lost
-
-*2024-02-26 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193832) · `si`
-
-The Southern Expressway was terrible accident between Kottawa and Kahathuduwa.
-
-The driver of the small lorry was killed and the hospital was killed and the hospital was killed.
-
-Three persons who were injured in the accident were hospitalized and the driver of the seriousness has died.
-
-A lorry from Hambantota from Rathgama to the Peliyagoda fish market was reported from Hambantota to Kurunegala.
-
-SME officers of the Traffic Unit and the Police Rescue Service Officers of the Galanigama Traffic Unit, which reach the scene, the three-minor employees of the rescue unit of the rescue unit of the rescue unit and the police consisted of mineral equipment after 20 minutes of operation is in a mobile phone.There were notes.
-
-Police suspect that the driver of the small lorry is reduced to death.
-
-The little lorry was severely damaged, a resident of Rathgama, a 55 year old Kamal Zoysa.
-
-◼️
-
-[Data](articles/8f42a3d7.json)
-
-[Extended Data](ext_articles/8f42a3d7.ext.json)
-
----
-
-### A certificate from Anura
-
-*2024-02-26 11:19:54* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගෙන්-සහතිකයක්/11-408278) · `si`
-
-"As you fear and fear of the people in the past, the people are terrified and afraid of people. We give you one sure. We ensure that the confidence you put on we will not allow the damage to us, "MP Anura Kumara Dissanayake in Gampaha.
-
-He said that when the women's representation of the national arost speed, there would be a continuing election.
-
-Addressing the National Capital Speed at the Gampaha Municipal Council, saying:
-
-"Such a sense of women participation in such women's participation. Ambitation, determination, purpose and a good dream. Therefore, we too have strong faith, hope, that your uprising, assurance is assuredly a victory to our country. When the national apographical speed is piled up, delabited the electoral, when the presidential election will be held on October month, how can we have a little spouse.
-
-...
-
-[Data](articles/f01a3f02.json)
-
-[Extended Data](ext_articles/f01a3f02.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 23:02:44**
+As of **2024-02-26 23:17:28**
 
 ## Newspaper Stats
 
-*Scraped **9,424** Articles*
+*Scraped **9,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,53 @@ adaderanalk | 1,136
 tamilmirrorlk | 1,157
 virakesarilk | 1,287
 dailymirrorlk | 1,422
-adaderanasinhalalk | 1,429
+adaderanasinhalalk | 1,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,423 (100.0%) of 9,424 articles have been extended.
+9,424 (100.0%) of 9,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### மேய்ச்சல் தரையை மீட்கும் தமிழ் பண்ணையாளர்களின் போராட்டம் தொடர்கிறது
+### ගෝඨාභය වෙනුවෙන් පෙනීසිටින්නේ නෑ - නීතිපති
+
+*2024-02-26 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193857) · `si`
+
+පෙත්සම් කිහිපයකට අදාළව හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා වෙනුවෙන් පෙනී සිටීමක් නොකරන බවට නීතිපතිවරයා අද ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
+
+2022 වසරේ අප්‍රේල් මස 01 වනදා අරගලය පැවැති අවස්ථාවේදී හදිසි නීතිය පනවා ඇදිරි නීතිය ප්‍රකාශයට පත් කොට සමාජ මාධ්‍ය තහනම පනවමින් නිකුත් කරනු ලැබූ ගැසට් නිවේදනය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා එම පෙත්සම් ගොනුකර තිබුණි.
+
+හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා විසින් හදිසි නීති රෙගුලාසි ප්‍රකාශයට පත් කරමින් නිකුත් කළ ගැසට් නිවේදනය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය ඇතුළු පිරිසක් ගොනු කළ පෙත්සම් 06 ක් ඊයේ කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජේෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා මෙම දැනුම්දීම සිදුකර ඇත.
+
+මෙම පෙත්සම් අද ප්‍රීති පද්මන් සූරසේන, ගාමිණී අමරසේකර සහ ශිරාන් ගුණරත්න යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/2a09da11.json)
+
+---
+
+### The struggle of Tamil farmers continues to restore the grazing ground
 
 *2024-02-26 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177379) · `ta`
 
-ஐந்து மாதங்களுக்கும் மேலாக தொடர்ச்சியாக போராட்டத்தில் ஈடுபட்டுள்ள தமக்கும், தமது கால்நடைகளுக்கும், சிங்கள பெரும்பான்மையின விவசாயிகளால் இழைக்கப்படும் அட்டூழியங்களும், அநியாயங்களும் அதிகரித்துள்ளதாக கிழக்கு மாகாணத்தின் தமிழ் பாற்பண்ணையாளர்கள் தெரிவிக்கின்றனர்.
+The Tamil downturn of the Eastern Province reports that the atrocities and injustices committed by the Sinhala majority farmers have increased for more than five months.
 
-பெரும்பான்மையின சிங்கள விவசாயிகள் தமது கால்நடைகளை தொடர்ச்சியாக துன்புறுத்தி வருவதோடு கொலை செய்வதாக, தொடர்ச்சியாக 160 நாட்களைக் கடந்து போராட்டத்தில் ஈடுபட்டுள்ள, மயிலத்தமடு, மாதவனை தமிழ் பால் பண்ணையாளர்கள் தெரிவிக்கின்றனர்.
+Tamil dairy farmers, Mayilathamadu and Madhavan, have been struggling for 160 consecutive days, saying that the majority of Sinhalese farmers are continuously harassing their livestock.
+
+“The calf has been given in the month after giving excessive electricity. Born in a short month could not stand up. This is the calf cub. Is this unjust?Is this the unprecedented animal?Is this an electric wire?Do you know this?Look at everyone who respects Buddhist Dharma. Do you do this for the unpopular life?Shoot. Putting the mouth of the mouth. Build the rifle. Cutting. Are you valued Buddhist Dharma? ”A call farmer is worried.
+
+Tamil farmers are constantly demanding the removal of the Sinhalese farmers who have forcibly occupied the grazing ground in Mayilathamadu and Madhavana.
 
 ...
 
 [Data](articles/aeb1f292.json)
+
+[Extended Data](ext_articles/aeb1f292.ext.json)
 
 ---
 
@@ -1969,23 +1993,5 @@ He then doused himself in a clear liquid and set himself on fire, screaming "Fre
 [Data](articles/bd4cb655.json)
 
 [Extended Data](ext_articles/bd4cb655.ext.json)
-
----
-
-### Dry weather transacts vegetable cultivation
-
-*2024-02-26 11:52:09* · [`adalk`](https://www.ada.lk/breaking_news/වියළි-කාලගුණය-එළවළු-වගාවට-වින-කරයි/11-408279) · `si`
-
-Due to the heavy dry weather conditions and the cold of the rural vegetable farmers are at risk of destroying many upcountry vegetable ground.
-
-They say that the dry weather conditions have been severely affected by Dry weather conditions in Diagama, Agarapathana, Manager, and estates.
-
-A number of beans have dried up and is destroying the leaves and is destroyed by the farmer's vegetable farmers.
-
-◼️
-
-[Data](articles/ec2db88b.json)
-
-[Extended Data](ext_articles/ec2db88b.ext.json)
 
 ---

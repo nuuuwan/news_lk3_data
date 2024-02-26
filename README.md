@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 13:17:27**
+As of **2024-02-26 13:33:07**
 
 ## Newspaper Stats
 
-*Scraped **9,328** Articles*
+*Scraped **9,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 492
 islandlk | 494
-adalk | 784
+adalk | 785
 adaderanalk | 1,126
-tamilmirrorlk | 1,148
+tamilmirrorlk | 1,149
 virakesarilk | 1,266
 dailymirrorlk | 1,404
 adaderanasinhalalk | 1,409
@@ -26,27 +26,47 @@ adaderanasinhalalk | 1,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,327 (100.0%) of 9,328 articles have been extended.
+9,328 (100.0%) of 9,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### මවගේ වියෝව දරාගත නොහැකිව පැය කිහිපයකින් පුතාත් මරුට
+### தாயின் இறப்பைத் தாங்க முடியாமல் உயிரிழந்த மகன்
+
+*2024-02-26 12:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயின்-இறப்பைத்-தாங்க-முடியாமல்-உயிரிழந்த-மகன்/175-333820) · `ta`
+
+தாயின் மரணத்தால் நிலைகுலைந்த மகன், தாய் இறந்த சில மணித்தியாலங்களில் மாரடைப்பு ஏற்பட்டு உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இந்துருவ  அகடேகொட, கல்தரமுல்லவில் வசித்து வந்த 71 வயதுடைய ஏழு பிள்ளைகளின் தாயான மெட்டில்டா என்பவர் கடந்த 22ஆம் திகதி உயிரிழந்துள்ளார்.
+
+இந்த நிலையில், அவரது ஐந்தாவது மகனான 47 வயதுடைய ஒரு பிள்ளையின் தந்தையான லக்சிறி என்ற நபர் தாயின் மரணத்தால் ஆழ்ந்த மனஉளைச்சலுக்கு ஆளாகியுள்ளார்.
+
+இந்த நிலையில், தாய் மற்றும் மகனின் இறுதிக் கிரியைகள் நேற்று (24) முன்தினம் இடம்பெற்றுள்ளன.
+
+◼️
+
+[Data](articles/ef330ea7.json)
+
+---
+
+### Son dies after a few hours inaugurating mother's death
 
 *2024-02-26 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193835) · `si`
 
-සිය මවගේ අභාවයෙන් සිත්තැවුලට පත් පුතකු මව මියගොස් පැය කිහිපයකින් හෘදයාබාධයකට ලක්ව මිය යාමේ පුවතක් ඉඳුරුව ප්‍රදේශයෙන් වාර්තාවේ.
+The mother has reported from Induruwa within a few hours after the death of his mother's death.
 
-ඉඳුරුව අකාඩේගොඩ, ගල්දරමුල්ලේ පදිංචිව සිටි මැටිල්ඩා පරණමාන්න නමැති 71 හැවිරිදි සත් දරු මවක පසුගිය 22 වනදා මියගොස් ඇත.
+Induruwa, 71-year-old, aged 71-year-old, has been killed in a resident of Galtamulla, Akadagoda, Galtamulla.
 
-ඇය රැකබලාගෙන ඇත්තේ ඇයගේ පස්වන පුතු වන ලක්සිරි කොට්ටහච්චි නමැති 47 හැවිරිදි එක්දරු පියෙකි.
+Laksiri Kottahachchi, 47-year-old father of Laksiri Kottacki, who was holding was careful.
 
-මේ අනුව මව මියගිය දිනම හදිසි හෘදයාබාධයක් වැලඳීමෙන් ඔහු ද මියගිය අතර මවගේ සහ පුතුගේ අවසන් කටයුතු පෙරේදා (24 ) එකම වේලාවකදී සිදුකර ඇත.
+The mother died in the same time and the funeral of the mother and son (24) was taken by the mother.
 
 ◼️
 
 [Data](articles/1d4a7b61.json)
+
+[Extended Data](ext_articles/1d4a7b61.ext.json)
 
 ---
 
@@ -331,6 +351,26 @@ He is scheduled to be produced before the Mahara Magistrate's Court.
 [Data](articles/79e862c0.json)
 
 [Extended Data](ext_articles/79e862c0.ext.json)
+
+---
+
+### මහජන සෞඛ්‍ය පරික්ෂකවරයෙක් වෙඩි තබා ඝාතනය කරයි
+
+*2024-02-26 11:10:01* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-සෞඛ්‍ය-පරික්ෂකවරයෙක්-වෙඩි-තබා-ඝාතනය-කරයි/11-408277) · `si`
+
+කරන්දෙණිය කුරුදුගහහැතැප්ම් දිවිතුර පාර පදේශයේ නිවසක් තුළ අද (26)උදේ  සිදුවූ වෙඩි තැබීමකින් කරන්දෙණිය ප්‍රා දේශිය සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයේ පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂකවරයා මිය ගොස් ඇතැයි ඇල්පිටිය පොලීසිය කියයි.
+
+මෙසේ ඝාතනයවී ඇත්තේ කරන්දෙණිය කුරුදුගහහැතැප්ම පදිංචි රොෂාන් කුමාර විතානාච්චි නමැති තිදරු පියෙකි.
+
+මිය ගිය මහජන සෞකය පරීක්ෂකවරයා නිවසේ රැදී සිටියදී රාජකාරී අවශය තාවයක් සදහා පැමිණියේ යයි කියමින් යතුරු පැදියකින් පැමිණි නාදුනන පුද්ගලයින් දෙදෙනෙක් ඔහුට වෙඩි තබා පලාගොස් ඇති බව ද පොලීසිය කියයි.
+
+වෙඩි වැදී බරපතල තුවාල ලැබූ මේ මහජන සෞඛ්‍ය පරීක්ෂකවරයා රෝහලට රැගෙන යන අතරතුරදී මියගොස් ඇති බව ද පොලීසිය කියයි.
+
+ඔහු මුදලට යට නොවී අකුරටම රාජකාරී කරන අයෙක් බවත් මේ ඝාතනය ඒ සම්බන්ධයෙන්වූවක් වන්නට ඇති බවට සැකකකරන බව ද පොලීසිය කියයි.
+
+◼️
+
+[Data](articles/dcec3bcb.json)
 
 ---
 
@@ -906,7 +946,11 @@ A 51-year-old Public Health Inspector (PHI) has been shot dead at his residence 
 
 Police said that the shooting had been carried out at around 7.00 a.m. this morning (26) by two unidentified gunmen who had arrived at the residence on a motorcycle and subsequently fled the scene.
 
+Investigations have revealed that the assailants had used a pistol, while further investigations to apprehend the suspects are being carried out by the Elpitiya Police.
+
 The deceased has been identified as Roshan Kumara Vithanage, 51, who had been serving as the Public Health Inspector for the Karandeniya area.
+
+Police also stated that he had served as the Treasurer of the Public Health Inspectors’ Union (PHIU).
 
 ◼️
 
@@ -1973,45 +2017,5 @@ Exemplifying exceptional environmental stewardship, Advantis – Project Logisti
 [Data](articles/1cbfb45a.json)
 
 [Extended Data](ext_articles/1cbfb45a.ext.json)
-
----
-
-### US Deputy Secretary of State commends Sri Lanka’s economic efforts
-
-*2024-02-25 21:49:00* · [`islandlk`](http://island.lk/us-deputy-secretary-of-state-commends-sri-lankas-economic-efforts-2/) · `en`
-
-The United States Deputy Secretary of State for Management and Resources Richard Verma, who called on President Ranil Wickremesinghe last week expressed appreciation for the efforts taken by the Sri Lankan Government to turn the economy around.
-
-During the discussions, the President outlined the progress of the debt restructuring, along with several key economic reforms measures, including the agriculture modernisation programme.
-
-Commenting on matters related to global security, the Deputy Secretary thanked the Sri Lankan Government for their assistance in the on-going naval operations in the Red Sea. The President stated that Sri Lanka remains committed to Freedom of Navigation in the Indian Ocean, echoing solidarity with Saudi Arabia’s stance on the Houthi rebels.
-
-...
-
-[Data](articles/afe8817c.json)
-
-[Extended Data](ext_articles/afe8817c.ext.json)
-
----
-
-### A 15 -year -old girl abducted in Batticaloa: 18 -year -old lover and her little man arrested
-
-*2024-02-25 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177279) · `ta`
-
-A 15 -year -old girl and her little mother were arrested by the police on Saturday night (24).
-
-The girl who was living in the Kokuvil police division went to school on the 7th and her relatives lodged a complaint with the police.
-
-It was later revealed that the girl had been abducted by her boyfriend's house in Vaharai area during the operation of the Kokuvil police.
-
-Subsequently, the police rescued the girl and arrested the 18 -year -old boyfriend and a 47 -year -old little mother who was accompanied by her.
-
-The two arrested were ordered to be remanded until the 07th of this month when the police produced the Batticaloa Magistrate's Court on Sunday (25).
-
-◼️
-
-[Data](articles/b9b965b1.json)
-
-[Extended Data](ext_articles/b9b965b1.ext.json)
 
 ---

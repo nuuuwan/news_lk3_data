@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 14:50:44**
+As of **2024-02-26 15:02:38**
 
 ## Newspaper Stats
 
@@ -26,97 +26,109 @@ adaderanasinhalalk | 1,412
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,337 (99.9%) of 9,344 articles have been extended.
+9,344 (100.0%) of 9,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### யாழில் திருவள்ளுவர் குருபூசை தினம் அனுஷ்டிப்பு
+### Thiruvalluvar Kurupusai Day in Jaffna
 
 *2024-02-26 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177335) · `ta`
 
-யாழ்ப்பாணம் கோப்பாய் ஆசிரியர் கலாசாலையில் திருவள்ளுவர் குருபூசை தினம் இன்று திங்கட்கிழமை (26) அனுட்டிக்கப்பட்டது.
+Thiruvalluvar Kurupusai Day at the Kopay Teacher College in Jaffna was held on Monday (26).
 
-கலாசாலையின் அதிபர் சந்திரமௌலீசன் லலீசன் தலைமையில் இடம்பெற்ற இந்நிகழ்வில் கலாசாலையின் முன்றிலில் உள்ள திருவள்ளுவர் சிலைக்கு மலர் மாலை அணிவிக்கப்பட்டதுடன், மலர் வணக்கமும் செலுத்தப்பட்டது. விரிவுரையாளர்களும் ஆசிரிய மாணவர்களும் மலர் வழிபாடு மேற்கொண்டனர்.
+The event was chaired by Chancellor Chandramaulisan Lalisan, President of the College.. Lecturers and teachers performed floral worship.
 
-திருவள்ளுவர் குறித்தும் திருக்குறள் குறித்தும் ஆசிரிய மாணவர்களின் சிற்றுரைகள் இடம்பெற்றன. உரைகளை ஆற்றிய ஆசிரிய மாணவர்களுக்கு புத்தக பரிசில்கள் வழங்கி மதிப்பளிக்கப்பட்டது. இப்பரிசில்களை கலாசாலையின் மூத்த விரிவுரையாளர் மு.ஜெயக்குமாரி வழங்கினார்.
+Thiruvalluvar and Thirukkural were held. Book prizes were honored with teachers who delivered the speeches. These were presented by the senior lecturer of the college, Mujayakumari.
 
-திருவள்ளுவர் குருபூசை மாசி மாத உத்திர நட்சத்திர நாளில் அனுஷ்டிக்கப்படுவது வழக்கமாகும். திருவள்ளுவர் வைகாசி மாத அனுஷ நட்சத்திரத்தில் பிறந்து மாசி மாத உத்தர நட்சத்திரத்தில் பூரணமடைந்தார் என்பது தமிழ் அறிஞர்களின் நம்பிக்கையாகும். திரு வி.க., தமிழ்த் தாத்தா உ.வே.சாமிநாதையர் போன்றோர் இக்கருத்தை வழிமொழிந்துள்ளனர்.
+It is customary to be observed on the day of the month of Thiruvalluvar Kurupusai. It is the belief of Tamil scholars that Thiruvalluvar was born in the month of Vaikasi and was completed in the star of the month of Masi Month. Mr. VK, Tamil grandfather UW Saminathiyar has proposed this view.
 
-...
+The activities of the Kopay Teacher College have begun daily with the greeting of Thiruvalluvar.
+
+◼️
 
 [Data](articles/5e3f352d.json)
 
+[Extended Data](ext_articles/5e3f352d.ext.json)
+
 ---
 
-### CCTV කැමරාවේ සටහන් වූ තවත් බිහිසුණු අනතුරක්
+### Another terrible danger in CCTV camera
 
 *2024-02-26 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193838) · `si`
 
-වැලිගම බස් නැවතුම්පොළ ඉදිරිපිට පදිකමාරුව අසලින් මාර්ගය හරහා ගමන්ගත් පුද්ගලයෙකු ලංගම බස් රථයක ගැටී බරපතළ තුවාල ලබා තිබිණි.
+A SLTB bus collided with a person who was traveling along the pastern near the bus station in front of the Weligama bus stand.
 
-තුවාල ලැබූ පුද්ගලයා වැලිගම පැනෑටියන ප්‍රදේශයේ අයෙක් වන අතර, ඔහු කරාපිටිය රෝහලට ඇතුළත් කර ඇත.
+The injured person is a person of Karapitiya Hospital and he was admitted to the Karapitiya Hospital.
 
-බස් රථයේ රියදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර අනතුර සිදුවන අයුරු CCTV කැමරාවක මෙලෙස සටහන්ව තිබිණි.
+The driver of the bus was arrested by the police and the accident was in a CCTV camera.
 
 ◼️
 
 [Data](articles/e9aa8a95.json)
 
+[Extended Data](ext_articles/e9aa8a95.ext.json)
+
 ---
 
-### උරුමය ඉල්ලීමට ක්ෂණික දුරකථන අංකයක්
+### A quick telephone number to ask for heritage
 
 *2024-02-26 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193837) · `si`
 
-“උරුමය” ජාතික වැඩසටහනින් ප්‍රජාව වෙත සිය භූමියේ සින්නක්කර අයිතිය භුක්ති විඳීමේ අවස්ථාව ලබාදීම සඳහා ඉල්ලුම් කිරීමට ක්ෂණික දුරකථන අංකයක් හඳුන්වා දී තිබේ.
+The "Heritage" community has introduced a quick telephone number to apply for the community to enjoy the right to their land.
 
-1908 ක්ෂණික ඇමතුම් අංකය සහ දුරකථන අංක 0114 354 600 හෝ 0114 354 601 ඔස්සේ ජනාධිපති කාර්යාලයේ, උරුමය ජාතික මෙහෙයුම් කාර්යාලය සමඟ සම්බන්ධ වීමට අවස්ථාව සලසා දී ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+The Presidential Secretariat has enabled the 1908 hotline number and the Presidential Secretariat on 0114 354 600 or 0114 354 600 or 0114 354 601.
 
-ඒ අනුව දිනපතා පෙරවරු 8.30 සිට රාත්‍රී 8.30 දක්වා ලියාපදිංචි වීම සඳහා අවස්ථාව හිමි වනු ඇති.
+Accordingly, the opportunity to register up to 8:30 am to 8.30 pm.
 
-එමෙන්ම උරුමය වෙබ් අඩවියේ පවතින පෝරමය පිරවීම මඟින් ද අදාළ අවශ්‍යතාව ඉටුකිරීමට පහසුකම් සලසා දී තිබේ.
+The filling of the form on the inheritance website has also facilitated the needs of the need.
 
 ◼️
 
 [Data](articles/000fa916.json)
 
+[Extended Data](ext_articles/000fa916.ext.json)
+
 ---
 
-### ඉඩමට සින්නක්කර අයිතිය ලබාගන්න 1908 අමතන්න
+### Get the right right to land in 1908
 
 *2024-02-26 13:43:56* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩමට-සින්නක්කර-අයිතිය-ලබාගන්න-1908-අමතන්න/11-408283) · `si`
 
-1935 අංක 19 දරණ ඉඩම් සංවර්ධන ආඥා පනත මඟින් ගොවි ජනතාව හා අඩු ආදායම්ලාභීන් වෙත කොන්දේසි සහිත අවසර පත්‍ර/ දීමනා පත්‍ර සහිත රජයේ ඉඩම් කොන්දේසි විරහිත සින්නක්කර අයිතියට පත් කරමින් ජනතාව වෙත ලබා දීම 2024 අයවැය යෝජනාවකි.
+The Land Development Ordinance No. 19 of 1935 is a budget proposal to the public by providing the unconditional freeholds of the farmers and low income families.
 
-ඒ් අනුව එය ක්‍රියාවට නැංවීම පහසුකරවීම සඳහා දිනපතා පෙ.ව 8.30 සිට රාත්‍රී 8.30 දක්වා 1908 ක්ෂණික ඇමතුම් අංකය සහ දුරකථන අංක 0114 354600/ 0114 354601 ඔස්සේ ජනාධිපති කාර්යාලයේ, උරුමය ජාතික මෙහෙයුම් කාර්යාලය සමඟ සම්බන්ධ වීමෙන් ජනතාවට සිය ඉල්ලීම යොමු කරමින් ලියාපදිංචි වීම සඳහා අවස්ථාව සලසා ඇත.
+So to facilitate the implementation of it by 808 to 8.30 am to 8.30 am to 8.30 am to 8.30 pm, by contacting the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the National Office of the Public Office..
 
-ජනාධිපති මාධ්‍යය අංශය වැඩිදුරටත් කරුණු දක්වමින් සධහන් කර සිටින්නේ www.tinyurl.com/urumaya  www.tinyurl.com/urumaya (ඩිජිටල් ඉල්ලුම් පත්‍රය) පෝරමය පිරවීම මඟින් ද අදාළ අවශ්‍යතාව ඉටු කිරීමට පහසුකම් සපයා ඇති බවයි.
+The Presidential Section further states that the filling of www.tinyurl.com/urumaya www.tinyurl.com/urumaya (digital application) has been provided with the purpose of filling the requirement.
 
 ◼️
 
 [Data](articles/89c2b447.json)
 
+[Extended Data](ext_articles/89c2b447.ext.json)
+
 ---
 
-### இலங்கைக்கு வரும் புதிய எரிபொருள் நிறுவனம்
+### New fuel company to come to Sri Lanka
 
 *2024-02-26 13:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-வரும்-புதிய-எரிபொருள்-நிறுவனம்/175-333823) · `ta`
 
-இலங்கையின் எரிபொருள் சந்தையின் போட்டித்தன்மையை அதிகரிக்கும் வகையில் மற்றுமொரு வெளிநாட்டு நிறுவனம் இலங்கை சந்தையில் காலடி வைத்துள்ளது.
+Another foreign company has set foot in the Sri Lankan market to increase the competitiveness of the fuel market in Sri Lanka.
 
-அவுஸ்திரேலியாவின் "யுனைடெட் பெட்ரோலியம்" நிறுவனமே இலங்கையில் எரிபொருள் விற்பனையை ஆரம்பிக்க உள்ளதாக தெரிவிக்கப்படுகின்றது.
+Australia's "United Petroleum" is reportedly launching fuel sales in Sri Lanka.
 
-இது தொடர்பில், அந்த நிறுவனத்துக்கும் மின்சாரம் மற்றும் எரிசக்தி அமைச்சுக்கும் இடையே கடந்த 22ம் திகதி ஒப்பந்தம் கையெழுத்தாகியுள்ளது.
+In this regard, the agreement was signed between the company and the Ministry of Energy and Energy on the 22nd.
 
-நாட்டில் தற்போது இயங்கி வரும் 150 எரிபொருள் நிரப்பு நிலையங்கள் அந்த நிறுவனத்துக்கு மாற்றப்படவுள்ளதுடன் மேலும் 50 எரிபொருள் நிரப்பு நிலையங்கள் புதிதாக நிறுவப்பட உள்ளன.
+The company will be transferred to the company with 150 fuel stations currently operating in the country and 50 more refueling stations are to be established.
 
-இலங்கையில் எரிபொருள் விநியோக நடவடிக்கைகளை மேற்கொள்வதற்காக "யுனைடெட் பெட்ரோலியம் லங்கா லிமிட்டெட்" என்ற நிறுவனத்தை பதிவு செய்துள்ளதாக தகவல் வெளியாகி உள்ளது.
+It has been reported that the United Nations Petroleum Lanka Limited has been registered to carry out fuel supply operations in Sri Lanka.
 
 ◼️
 
 [Data](articles/23a27ee8.json)
+
+[Extended Data](ext_articles/23a27ee8.ext.json)
 
 ---
 
@@ -212,25 +224,27 @@ Richardmarles, who said that the Russian president and the government are respon
 
 ---
 
-### මහෙස්ත්‍රාත් තුමියනි මගේ මරණය ගැන ‌බිරිඳ දරුවන් සැක කරන්න එපා
+### Magistrati do not suspect your children about my death
 
 *2024-02-26 12:54:19* · [`adalk`](https://www.ada.lk/breaking_news/මහෙස්ත්‍රාත්-තුමියනි-මගේ-මරණය-ගැන-‌බිරිඳ-දරුවන්-සැක-කරන්න-එපා/11-408281) · `si`
 
-මැදවච්චිය, ලුණුපැහිච්චාව ගම්මානයේ සිව් දරු පියෙකු පොලිස් ස්ථානාධිපතිවරයෙකුගෙන් හිරි හැර යැයි පවසා ලිපියක් ලියා සිය දිවි හානි කරගෙන ඇත. මෙලෙස මියගොස් ඇත්තේ පී.චන්දනසිරි නැමිති
+Suicide has committed suicide by writing a letter from a police officer in Medawachchiya, Salupachuwa village. The deceased has been identified as Pchentnasiri calls
 
-ලුණුපැහිච්චාව ගම්මානයේ පදිංචි ගොවිමහතකි. දිගින් දිගටම විවිධ චෝදනා එල්ල කරමින් නිරපරාදේ නඩු
+A farm is a residential residential in Saliyachchi village. Continuing charges of continuously charged
 
-පනවමින් මෙම ගොවි මහතාට මෙම ස්ථානාධිපතිවරයා හිරි හැර කර ඇති බව එම ලිපියේ සඳහන්ව ඇත.
+The letter states that the OIC has been mistarded by Mr. Farmer.
 
-අනතුරුව එම ලිපිය සමග මෙලෙස මිය ගිය තැතැත්තා ගම්වාසීන් හට හමු වී ඇති බව පොලිසිය කියයි.
+The villagers have found that the villagers have found the dead.
 
-මෙම මියගිය සිරුර මැදවච්චිය රෝහල වෙත ඇතුලත් කරමින් අනතුරුව මරණ පරික්ෂණය සිදු කර ඇත. එහිදී
+The deceased body has been admitted to the Medawachchiya Hospital and the death inspection has been carried out. There
 
-විවෘත තීරණයක් ලබා දී ඇති අතර සිරුරේ කොටස් වැඩිදුර පරික්ෂණ සදහා මැදවච්චිය හදීසි මරණ පරික්ෂක වෛද්‍ය වරයා රස පරික්ෂක කාර්යාලය වෙත යෙමු කර ඇත. මෙම සිදුවීම පිළිබඳ විශේෂ පොලිස් කණ්ඩායමක් මේ වන විට පරික්ෂණ ආරම්භ කර ඇත.
+An open decision has been given and the body of Medawachchiya has been sent to the Task Inspector Office for further investigations. A special police team has commenced investigations into the incident.
 
 ◼️
 
 [Data](articles/f16d3a8f.json)
+
+[Extended Data](ext_articles/f16d3a8f.ext.json)
 
 ---
 
@@ -466,19 +480,21 @@ He then doused himself in a clear liquid and set himself on fire, screaming "Fre
 
 ---
 
-### වියළි කාලගුණය එළවළු වගාවට වින කරයි
+### Dry weather transacts vegetable cultivation
 
 *2024-02-26 11:52:09* · [`adalk`](https://www.ada.lk/breaking_news/වියළි-කාලගුණය-එළවළු-වගාවට-වින-කරයි/11-408279) · `si`
 
-දැඩි වියළි කාලගුණික තත්ත්වය හා මේ දිනවල අලුයම් කාලයේ පවතින සීතල හේතුවෙන් උඩරට එළවළු වගා බිම්  රැසක් විනාශවීමේ අවදානමට  ලක්ව ඇතැයි උඩරට  එළවළු ගොවීහු පවසති.
+Due to the heavy dry weather conditions and the cold of the rural vegetable farmers are at risk of destroying many upcountry vegetable ground.
 
-ඩයගම, ආගරපතන, හෝල්බෲක්, මනරාසිය හා ඒ ආශ්‍රිතව වතුවල වගා කොට ඇති කුඩා පරිමාණයේ එළවළු වගා බිම් මෙසේ විනාශවීයාමේ අවදානමට ලක්ව ඇති බවත්, පවතින වියළි කාලගුණික තත්ත්වය බෝංචි වගාවන්ට දැඩි ලෙස බලපා ඇතැයි ඔවුහු සඳහන් කරති.
+They say that the dry weather conditions have been severely affected by Dry weather conditions in Diagama, Agarapathana, Manager, and estates.
 
-බෝංචි වගාවන් රැසක් මේ වනවිටත් කොළ වියළී ගොස්   විනාශ වී යමින් පවතින  බවත්, දැඩි ආර්ථික අපහසුතා මැද්දේ ඉතාමත් අසීරුවෙන්  වගා කොට ඇති එළවළු වගාවන් මෙසේ විනාශවීයාම හේතුවෙන් තමන් දැඩි ආර්ථික දුෂ්කරතාවයන්ට ලක්ව ඇති බවද උඩරට එළවළු ගොවීහු වැඩිදුරටත් පවසති.
+A number of beans have dried up and is destroying the leaves and is destroyed by the farmer's vegetable farmers.
 
 ◼️
 
 [Data](articles/ec2db88b.json)
+
+[Extended Data](ext_articles/ec2db88b.ext.json)
 
 ---
 

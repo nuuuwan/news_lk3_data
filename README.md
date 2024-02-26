@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 19:33:11**
+As of **2024-02-26 19:50:43**
 
 ## Newspaper Stats
 
-*Scraped **9,392** Articles*
+*Scraped **9,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 113
 dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 469
-dailyftlk | 492
+dailyftlk | 493
 islandlk | 495
 adalk | 793
 adaderanalk | 1,136
-tamilmirrorlk | 1,153
-virakesarilk | 1,279
+tamilmirrorlk | 1,156
+virakesarilk | 1,283
 dailymirrorlk | 1,414
 adaderanasinhalalk | 1,425
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 1,425
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,391 (100.0%) of 9,392 articles have been extended.
+9,392 (99.9%) of 9,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### பொலிஸ் மா அதிபராக தேசபந்து தென்னகோன் நியமிப்பு
+
+*2024-02-26 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177375) · `ta`
+
+தென்னகோன் 36ஆவது பொலிஸ் மா அதிபராக தனது நியமனக் கடிதத்தை ஜனாதிபதியின் செயலாளரிடமிருந்து திங்கட்கிழமை (26) பெற்றுக்கொண்டார்.
+
+தேசபந்து தென்னகோன் கடந்த வருடம்  நவம்பர் மாதம் 29 ஆம் திகதி பதில் பொலிஸ் மா அதிபராக ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் நியமிக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b42d88ff.json)
+
+---
+
+### Declining rubber industry’s skilled tapper shortage set to receive groundbreaking support through Automated Rubber Harvesting Robots by IHT
+
+*2024-02-26 19:15:21* · [`dailyftlk`](https://www.ft.lk/business/Declining-rubber-industry-s-skilled-tapper-shortage-set-to-receive-groundbreaking-support-through-Automated-Rubber-Harvesting-Robots-by-IHT/34-758869) · `en`
+
+Intelligent Harvesting Technologies Ltd. (IHT) unveils its latest, urgently needed innovation – the Automated Rubber Harvesting Robot, which is set to address a serious concern in Sri Lanka’s declining rubber industry.
+
+Since 1876, the Sri Lankan rubber industry has been deeply rooted in the cultivation of rubber trees and the meticulous processing of latex into various products such as tires and gloves and has been known for its worldwide quality recognition.
+
+However, the industry faces dire challenges, especially the drastic declining availability of skilled tappers and the lack of protection from adverse weather conditions. This shortage has led to severe under-tapping and the abandonment of plots, plummeting the rubber output in the country. From 150,000 metric tons (MT) in 2012, Sri Lanka’s rubber output sharply dropped - to below 70,000 MT in 2023.
+
+...
+
+[Data](articles/47f5a68f.json)
+
+---
+
+### மாணவர்களுக்கு விசேட அறிவித்தல்
+
+*2024-02-26 19:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-விசேட-அறிவித்தல்/175-333842) · `ta`
+
+இலங்கை முழுவதும் நிலவும் வறட்சியான காலநிலை காரணமாக பாடசாலை மாணவர்களுக்காக எடுக்க வேண்டிய முன்னெச்சரிக்கை நடவடிக்கைகள் குறித்து கல்வி அமைச்சு சுற்றறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+
+சுற்றறிக்கையில் சாத்தியமான வெப்ப தசை பிடிப்புகள், வெப்ப சோர்வு மற்றும் வெப்ப பக்கவாதம் மற்றும் அவற்றின் தாக்கத்தை குறைப்பதற்கான முன்னெச்சரிக்கைகள் தொடர்பான வழிமுறைகளின் பட்டியல் குறிப்பிடப்பட்டுள்ளது.
+
+அதிக வெப்பநிலையின் போது வெளிப்புற நடவடிக்கைகள், விளையாட்டு மற்றும் பிற வெளிப்புற நடவடிக்கைகளை கட்டுப்படுத்துதல் தொடர்பான அறிவுறுத்தல்களையும் அமைச்சகம் வழங்கியுள்ளது.
+
+இந்த காலப்பகுதியில் மாணவர்களுக்கு தேவையான தண்ணீர் இடைவேளையை அடிக்கடி ஏற்படுத்தி தருமாறு பாடசாலை நிர்வாகத்திடம் அமைச்சு கோரிக்கை விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/a193bf0e.json)
+
+---
 
 ### Deshabandu Tennakoon appointed IGP
 
@@ -45,6 +93,58 @@ He had been appointed as the Acting IGP on November 29, 2023.
 ◼️
 
 [Data](articles/7d606a32.json)
+
+[Extended Data](ext_articles/7d606a32.ext.json)
+
+---
+
+### மட்டு நகர் பகுதில் புகையிரத்துடன் மோதி இளைஞன் ஒருவர் உயிரிழப்பு
+
+*2024-02-26 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177374) · `ta`
+
+மட்டக்களப்பு பொலிஸ் பிரிவிலுள்ள கருவப்பங்கேணி பகுதியில் புகையிரதத்துடன்  மோதி இளைஞர் ஒருவர் உயிரிழந்த சம்பவம்  ஞாயிற்றுக்கிழமை (25)  இரவு 11 மணியவில் இடம்பெற்றுள்ளதாக பொலிசார் தெரிவித்தனர்.
+
+கருவப்பங்கேணியைச் சேர்ந்த 25 வயதுடைய ஆகாஸ் என்றழைக்கப்படும் அசோக்குமார் சனுஜன் என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+மட்டக்களப்பிலிருந்து கொழும்பை நோக்கி  ஞாயிற்றுக்கிழமை (25)  இரவு பயணித்த இன்டசிற்றி புகையிரதத்தில் கருவப்பங்கேணி பகுதி தண்டவாளத்தில் வைத்து புகையிரத்தில் குறித்த இளைஞன் மோதியதையடுத்து சம்பவ இடத்தில் உயிரிழந்துள்ளார்.
+
+இதனையடுத்து குறித்த சடலத்தை பொலிசார் மீட்டு பிரேதப் பரிசோதனைக்காக வைத்தியசாலையில் ஒப்படைத்தனர் இது தொடர்பாக மேலதிக விசாரணைகளை மட்டு தலைமையக பொலிசார் முன்னெடுத்துவருகின்றனர்.
+
+◼️
+
+[Data](articles/9a0235a0.json)
+
+---
+
+### எதிர்க்கட்சித் தலைவரின் நன்கொடைப் பணம் திருட்டு
+
+*2024-02-26 18:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவரின்-நன்கொடைப்-பணம்-திருட்டு/175-333841) · `ta`
+
+சில நாட்களுக்கு முன்னர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவினால் ஆரம்பப் பாடசாலை ஒன்றுக்கு நன்கொடையாக வழங்கப்பட்ட  100,000 ரூபாய் பணம் பாடசாலை அலுவலகத்திலிருந்து திருடப்பட்ட சம்பவம் குறித்து அவிசாவளை பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+பெப்ரவரி 23ஆம் திகதி புவக்பிட்டிய தெற்கு ஆரம்பப் பாடசாலைக்கு எதிர்க்கட்சித் தலைவர் விஜயம் செய்திருந்த போது 'சக்வல' நிகழ்ச்சியின் ஒரு பகுதியாக இந்த நன்கொடை வழங்கப்பட்டது.
+
+அலுவலகத்தின் முன்பக்க கதவு மற்றும் அலமாரிகள் அனைத்தையும் உடைத்து பணம் திருடப்பட்டுள்ளதாக பாடசாலை அதிபரினால் அவிசாவளை பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+வகுப்பறையை ஒழுங்கமைப்பதற்காக மாணவர்கள் பாடசாலைக்கு வந்தபோது, ​​அலுவலக கதவு உடைக்கப்பட்டு இருப்பதை கண்டு அதிபர் மற்றும் ஆசிரியருக்கு தகவல் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/17328c99.json)
+
+---
+
+### கோள்மண்டலத்தை பொதுமக்கள் பார்வையிட தடை
+
+*2024-02-26 18:40:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோள்மண்டலத்தை-பொதுமக்கள்-பார்வையிட-தடை/175-333840) · `ta`
+
+இலங்கை கோள்மண்டலத்தை நாளை (27) முதல் மார்ச் மாதம் 12 வரை பொதுமக்கள் பார்வையிட முடியாதவாறு மூடவுள்ளதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+
+கோள் மண்டலத்தை மூடுவதற்கான முடிவு அவசரமாக பழுதுபார்க்க வேண்டியுள்ளதால், தேவையான பராமரிப்புப் பணிகளை எளிதாக்கும் வகையில் இந்த காலகட்டத்தில் வசதிக்கான அணுகல் தடைசெய்யப்படும் கோள்மண்டலத்தை பொதுமக்கள் பார்வையிட தடை விதிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/33b54644.json)
 
 ---
 
@@ -88,6 +188,22 @@ He assured, however, that Sri Lanka Police has already taken various measures re
 
 ---
 
+### அதிகவெப்ப நிலை தொடர்பில் பாடசாலை மாணவர்களுக்கு விசேட அறிவித்தல்!
+
+*2024-02-26 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177373) · `ta`
+
+அதிக வெப்பநிலை காரணமாக ஏற்படும் பாதிப்புக்களிலிருந்து பாடசாலை மாணவர்களைப் பாதுகாப்பதற்குத் தேவையான ஆலோசனைகளை குறிப்பிட்டு கல்வி அமைச்சு அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+
+இந்த அறிக்கை குறித்து அனைத்து பாடசாலை அதிபர்களுக்கும் தெரியபடுத்துமாறு கல்வி அமைச்சு ,அனைத்து மாகாணங்களின் கல்விப் பணிப்பாளர்களுக்கும் அறிவித்துள்ளது.
+
+5. அதின வெப்பநிலை காரணமாக ஏதேனும் நோய் அறிகுறிகள் அல்லது ஒவ்வாமை ஏற்பட்டால் பாடசாலை ஆசிரியர்கள் அல்லது பெற்றோர்களிடம் தெரிவிக்கவும்.
+
+◼️
+
+[Data](articles/8acd7374.json)
+
+---
+
 ### Special decision from Cabinet
 
 *2024-02-26 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193851) · `si`
@@ -123,6 +239,26 @@ State Minister of Finance Ranjith Siyambalapitiya had informed Parliament last w
 [Data](articles/cbdc261f.json)
 
 [Extended Data](ext_articles/cbdc261f.ext.json)
+
+---
+
+### பொதுச் சுகாதார பரிசோதகர் ரொஷான் புஷ்பகுமார கொலை தொடர்பில் விசாரணைகளில் வெளிவந்தவை!
+
+*2024-02-26 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177371) · `ta`
+
+எல்பிட்டிய, பத்திராஜ வத்த பகுதியில் திங்கட்கிழமை (26)  சுட்டுக் கொல்லப்பட்ட பொது சுகாதாரப் பரிசோதகர் டபிள்யூ.டி. ரொஷான் புஷ்பகுமார என்பவர்  தனது இளைய மகனை முதலாம் ஆண்டுக்கு அனுப்புவதற்கு தயாராகிக்கொண்டிருந்தபோதே கொலை செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+கரந்தெனிய சுகாதார வைத்திய அதிகாரி அலுவலகத்தில் நிர்வாக பொது சுகாதார பரிசோதகராக பணியாற்றிய 51 வயதான மூன்று பிள்ளைகளின் தந்தையே சுட்டுக் கொல்லப்பட்டவராவார்.
+
+எல்பிட்டிய பதில் நீதிவான் வஜிரா பொன்னம்பெரும சம்பவ இடத்துக்குச் சென்று விசாரணைகளை மேற்கொண்டார்.
+
+கொலை செய்யப்பட்ட  புஷ்பகுமாரவின் மனைவி ஆசிரியை என்பதுடன், அவர் எல்பிட்டிய எல்ல பிரதேசத்தில் உள்ள பாடசாலைக்கு அதிகாலையில் சென்றுள்ளார்.
+
+இளைய மகன் இன்று முதலாம் ஆண்டுக்குச் செல்ல தயாராகிக் கொண்டிருந்தபோதே இந்த துப்பாக்கிச் சூடு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/7f94aed5.json)
 
 ---
 
@@ -1885,159 +2021,5 @@ As logging and farming encroach on elephant territory, young animals are capture
 [Data](articles/3e467bde.json)
 
 [Extended Data](ext_articles/3e467bde.ext.json)
-
----
-
-### President highlights plans to link Hambantota to Myanmar port
-
-*2024-02-26 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97534/president-highlights-plans-to-link-hambantota-to-myanmar-port) · `en`
-
-In a recent discussion convened at the Presidential Secretariat, President Ranil Wickremesinghe articulated his vision for economic development and infrastructure investment, particularly focusing on the master plans for strategic tourism zones in the Eastern Province, the Colombo City & the Western Region and Greater Hambantota.
-
-The President emphasized the economic potential of Hambantota, envisioning it as a pivotal hub for infrastructure development and connectivity. He highlighted plans to link Hambantota to the Myanmar port, with further extensions anticipated up to Chongqing in eastern China and down to Africa.
-
-President Wickremesinghe stressed the importance of leveraging the extensive investments already made in infrastructure in Hambantota, despite previous challenges, the President’s Media Division (PMD) reported.
-
-...
-
-[Data](articles/8bff08d5.json)
-
-[Extended Data](ext_articles/8bff08d5.ext.json)
-
----
-
-### Orange for Rs 2,000 - the latest way
-
-*2024-02-26 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193829) · `si`
-
-The second village of orange cultivation is established in the village of Muruthawela.
-
-◼️
-
-[Data](articles/b43e86f0.json)
-
-[Extended Data](ext_articles/b43e86f0.ext.json)
-
----
-
-### Wife killed in accident;Husband and two children hurt
-
-*2024-02-26 09:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-மனைவி-பலி-கணவர்-மற்றும்-இரண்டு-குழந்தைகள்-படுகாயம்/175-333816) · `ta`
-
-A woman was killed when a lorry traveling from Thangalla area to Matara was killed in a three -wheeler.
-
-In addition, four persons, including husband and two children, have been admitted to the Talalla hospital, Kandara police said that they have been admitted to the hospital.. .
-
-The deceased was 31 years old from Kottakoda area, police said.
-
-The deceased woman has traveled in a three -wheeler with her 14 -year -old daughter and an eleven -month -old boy and another relative and the woman's husband drove the three -wheeler.
-
-◼️
-
-[Data](articles/58459553.json)
-
-[Extended Data](ext_articles/58459553.ext.json)
-
----
-
-### Sri Lanka rupee opens at 310.70/311.00 to the US dollar
-
-*2024-02-26 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-310-70-311-00-to-the-us-dollar-152069/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 310.70/311.00 to the US dollar Monday, from 310.95/311.05 on Thursday, dealers said.
-
-A bond maturing on 01.08.2026 was quoted at 10.95/11.05 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.90/12.00 percent from 11.90/12.05 percent.
-
-A bond maturing on 01.07.2028 was quoted at 12.25/12.35 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.17 percent at 10,673, the S&P SL20 was up 0.32 at 3,074.(Colombo/Feb26/2024)
-
-◼️
-
-[Data](articles/12255f91.json)
-
-[Extended Data](ext_articles/12255f91.ext.json)
-
----
-
-### Death
-
-*2024-02-26 09:32:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-உயிரிழப்பு/175-333815) · `ta`
-
-A public health inspector has been shot dead in a house in Patrajawatta, Elpitiya.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that two motorcyclists were firing at around 07.00 am today.
-
-A 51 -year -old Roshan Kumara Vidhanage, a 51 -year -old man who worked as a public health inspector in Karandeniya, was shot dead, police said.
-
-◼️
-
-[Data](articles/cffe398f.json)
-
-[Extended Data](ext_articles/cffe398f.ext.json)
-
----
-
-### Colombo - Jampatta Road shooting;The wounded is the closest friend of 'Bukudu Kanna'
-
-*2024-02-26 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177290) · `ta`
-
-Police said that the injured in the shooting incident on Sunday (25) on the Colombo -Jampatta Road, Colombo, was a close friend of the drug trader and planned criminal acts.
-
-He has been identified as Mohamed Rilwan, who lives in the Methsantha Sevana Telephone Housing Scheme in Hanamulla.
-
-Police suspect that the dispute between the time and the son of Remoshan, the son of Kudu Selvayi, is a dispute.
-
-The Sisirvi camera reported that two motorbikes were shot dead at around 1.45 pm on Sunday afternoon.
-
-Mohamed Rilvan, who was injured in the shooting, has been admitted to the Colombo National Hospital, police said.
-
-◼️
-
-[Data](articles/dfa453ca.json)
-
-[Extended Data](ext_articles/dfa453ca.ext.json)
-
----
-
-### President orders an investigation into the Russian and Ukrainians to leave the country in 14 days
-
-*2024-02-26 09:20:49* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානුවන්ට-හා-යුක්රේනියානුවන්ට-දින-14කින්-රටින්-පිටවෙන්නැයි-කීම-ගැන-ජනපති-නියමයෙන්-විමර්ශනයක්/11-408273) · `si`
-
-The Controller of the Immigration and Emigration was known to the Secretary to the Ministry of Finance and the Ministry of the Ministry of Immigration and Ukrainians to leave the country within 14 days.
-
-However, President Ranal Wickremesinghe has instructed the relevant divisions to conduct an investigation into the decision making regarding the decision without the permission without proper cabinet.
-
-The President has no decision to cancel the extension of visas for the Sri Lankan government has decided this.
-
-◼️
-
-[Data](articles/93ca414d.json)
-
-[Extended Data](ext_articles/93ca414d.ext.json)
-
----
-
-### Acting IGP Tennakoon’s term likely to be extended amid ’Yukthiya’ operation
-
-*2024-02-26 09:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Acting-IGP-Tennakoons-term-likely-to-be-extended-amid-Yukthiya-operation/108-277707) · `en`
-
-Colombo, Feb 26 (Daily Mirror) - Following the ongoing Island-wide "Yukthiya" operation against underworld criminals and narcotics, President Ranil Wickremesinghe is likely to extend Deshabandu Tennakoon's appointment as Acting Inspector General of Police (IGP), Daily Mirror learns.
-
-Tennakoon was initially appointed Acting IGP on November 29, 2023, for a three-month term.
-
-Sources said that the President is likely to propose a service extension to the Constitutional Council. However, sources said that Tennakoon could be permanently appointed as IGP bypassing the temporary extension route.
-
-Tennakoon, who joined the police in 1998 is due to retire in 2032.
-
-His potential extended or permanent appointment comes on the heels of the nationwide "Yukthiya" operation launched in December 2023. This initiative led by the Public Security Ministry and Sri Lanka Police aims to crack down on drug trafficking, peddling, and other criminal activities.
-
-...
-
-[Data](articles/d44dea62.json)
-
-[Extended Data](ext_articles/d44dea62.ext.json)
 
 ---

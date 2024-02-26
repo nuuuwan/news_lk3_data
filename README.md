@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 06:54:17**
+As of **2024-02-26 07:16:14**
 
 ## Newspaper Stats
 
-*Scraped **9,253** Articles*
+*Scraped **9,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,118
 tamilmirrorlk | 1,136
 virakesarilk | 1,259
 dailymirrorlk | 1,390
-adaderanasinhalalk | 1,395
+adaderanasinhalalk | 1,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,253 (100.0%) of 9,253 articles have been extended.
+9,253 (100.0%) of 9,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### කාලගුණයේ වෙනසක්
+
+*2024-02-26 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193821) · `si`
+
+අද (26) සිට නැගෙනහිර සහ ඌව පළාත්වල පවතින වියළි කාලගුණ තත්ත්වයේ තාවකාලික වෙනසක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, දකුණු, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් විටින් විට හමන පැ.කි.මී. (30-40) පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/f93a1881.json)
+
+---
 
 ### Street Development Project Beginning on the 29th
 
@@ -2073,23 +2091,5 @@ This year, all three groups in the BPL series, chattogram challengers, Sylit Str
 [Data](articles/b2f87809.json)
 
 [Extended Data](ext_articles/b2f87809.ext.json)
-
----
-
-### Father killed in son's ax attack
-
-*2024-02-25 11:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனின்-கோடரி-தாக்குதலில்-தந்தை-பலி/175-333760) · `ta`
-
-The death of his father in the son's ax attack took place on Saturday (24) in the Galle Pitigala Kalu Arachikoda area, Bidigala police said.
-
-The deceased is Piyadasa Jayasinghe age (73), father of two children from Pitigala Kalu Arachigoda.
-
-The police said that the son was arrested in court (24).
-
-◼️
-
-[Data](articles/481833f1.json)
-
-[Extended Data](ext_articles/481833f1.ext.json)
 
 ---

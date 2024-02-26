@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 08:51:07**
+As of **2024-02-26 09:02:41**
 
 ## Newspaper Stats
 
-*Scraped **9,269** Articles*
+*Scraped **9,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,34 @@ newsfirstlk | 363
 economynextcom | 467
 dailyftlk | 492
 islandlk | 494
-adalk | 776
+adalk | 777
 adaderanalk | 1,120
-tamilmirrorlk | 1,139
+tamilmirrorlk | 1,143
 virakesarilk | 1,259
-dailymirrorlk | 1,390
-adaderanasinhalalk | 1,398
+dailymirrorlk | 1,391
+adaderanasinhalalk | 1,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,269 (100.0%) of 9,269 articles have been extended.
+9,269 (99.9%) of 9,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### වකුගඩු රෝගීන්ගේ මරණ ගැන අලුත් සැකයක්
+
+*2024-02-26 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193827) · `si`
+
+කුරුණෑගල ශික්ෂණ රෝහලේ වකුගඩු රෝගීන් සඳහා ක්‍රියාත්මක රුධිර කාන්දුකරණ ප්‍රතිකාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි රෝගීන් පිරිසක් හදිසියේම මරණයට පත්වීමට හේතුව ප්‍රතිකාර සඳහා ලබාදෙන රසායනිකයක බලපෑමක් දැයි රෝහලේ වෛද්‍යවරු සැක පළ කරති.
+
+◼️
+
+[Data](articles/cc7146af.json)
+
+---
 
 ### Public Health Inspector shot dead in Elpitiya
 
@@ -45,6 +57,56 @@ Police said that the shooting had been carried out by an unidentified gunman who
 [Data](articles/6fa44acc.json)
 
 [Extended Data](ext_articles/6fa44acc.ext.json)
+
+---
+
+### தில்ஷானுக்கு ஆஸ்திரேலிய குடியுரிமை
+
+*2024-02-26 08:14:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தில்ஷானுக்கு-ஆஸ்திரேலிய-குடியுரிமை/175-333811) · `ta`
+
+இலங்கையின் முன்னாள் கிரிக்கெட் வீரர் திலகரத்ன தில்ஷான், ஒரு குடியுரிமை விழாவைத் தொடர்ந்து ஆஸ்திரேலியக் குடியுரிமையைப் பெற்றுள்ளதாக ஆஸ்திரேலிய பாராளுமன்ற உறுப்பினர் ஜேசன் வுட் தெரிவித்துள்ளார்.
+
+"ஒரு நாள் போட்டி வரலாற்றில் சிறந்த இலங்கை வீரராக தில்ஷன் கருதப்படுகிறார். 2011 ஐசிசி கிரிக்கெட் உலகக் கோப்பையில் 500 ஓட்டங்கள் மற்றும் அரையிறுதியில் இங்கிலாந்துக்கு எதிராக சதம் அடித்து அதிக ஓட்டம் எடுத்தவர் என்ற சாதனையையும் படைத்துள்ளார். மேலும், 2014 ஐசிசி இருபதுக்கு 20ஐ வென்ற இலங்கை அணியில் அவர் அங்கம் வகித்தார்" என எம்.பி சமூக ஊடகங்களில் பதிவிட்டுள்ளார்.
+
+புதிய ஆஸி மற்றும் உள்ளூர்வாசி என்ற வகையில், தில்ஷான் உள்ளூர் அணியில் இணைந்து தனது திறமைகளை சமூகத்துடன் தொடர்ந்து பகிர்ந்து கொள்வார் என நம்புவதாக குறித்த எம்.பி தெரிவித்துள்ளார்.
+
+"அவரது மகள் ரெசாண்டி தனது தந்தையின் அடிச்சுவடுகளைப் பின்பற்றுவதைக் கேட்பது மிகவும் மகிழ்ச்சியாக இருந்தது," என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/417ecd59.json)
+
+---
+
+### දකුණේ තවත් වෙඩිල්ලක් - ජීවිතයක් අහිමිවෙයි
+
+*2024-02-26 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193826) · `si`
+
+ඇල්පිටිය, පතිරාජ මාවතේ නිවසකට යතුරුපැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවෙකු විසින් පුද්ගලයෙකුට වෙඩිතබා ඝාතනය කර ඇතැයි පොලීසිය පවසයි.
+
+අප කළ විමසීමක දී පොලිස් මාධ්‍ය ප්‍රකාශක, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී නීතීඥ නිහාල් තල්දූව මහතා පවසා සිටියේ, 51 හැවිරිදි කරන්දෙණියේ මහජන සෞඛ්‍ය පරීක්ෂකවරයෙකුට එලෙස වෙඩි ප්‍රහාරයට ලක්ව ඇති බවය.
+
+◼️
+
+[Data](articles/c4416669.json)
+
+---
+
+### மக்கள் யாழ் கோவில்களுக்கு செல்ல இராணுவம் அனுமதி
+
+*2024-02-26 08:07:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மக்கள்-யாழ்-கோவில்களுக்கு-செல்ல-இராணுவம்-அனுமதி/71-333810) · `ta`
+
+யாழ்ப்பாணத்தில் பாதுகாப்புப் படைத் தலைமையகத்திற்கு உட்பட்ட அதியுயர் பாதுகாப்பு வலயத்திற்குள் அமைந்துள்ள ஏழு இந்து கோவில்களுக்கு பொதுமக்கள் செல்வதற்கு அனுமதி வழங்கப்பட்டுள்ளதாக இலங்கை இராணுவம் அறிவித்துள்ளது.
+
+இந்த முடிவின் கீழ், கடுவன் முத்துமாரி அம்மன் கோவில், வசாவிளான் மணம்பிறை கோவில், விசாவிளான் சிவன் கோவில், வசாவிளான் நாக கோவில், பலாலி ராஜ ராஜேஸ்வரி கோவில், பலாலி நாக தம்பிலான் கோவில் மற்றும் பலாலி சக்திவேலி முருகன் கோவில் ஆகியவற்றில் வாராந்திர பூஜை மற்றும் பிற சடங்குகளில் பொதுமக்கள் பங்கேற்க அனுமதிக்கப்படுவார்கள். .
+
+கோவில் அறங்காவலர்கள் மற்றும் சிவில் அமைப்புகளின் பல கோரிக்கைகளுக்கு இணங்க இந்த முடிவு எடுக்கப்பட்டுள்ளதாக ராணுவம் தெரிவித்துள்ளது.
+
+முன்பு இந்த கோவில் வளாகத்தில் மாதாந்திர மற்றும் சிறப்பு பூஜைகளுக்கு மட்டுமே அனுமதி வழங்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/44fb5e35.json)
 
 ---
 
@@ -67,6 +129,64 @@ The public is kindly requested to take adequate precautions to minimize damages 
 [Data](articles/46e2ddd0.json)
 
 [Extended Data](ext_articles/46e2ddd0.ext.json)
+
+---
+
+### சம்பள அதிகரிப்பு குறித்து மத்திய வங்கி அறிக்கை
+
+*2024-02-26 07:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-அதிகரிப்பு-குறித்து-மத்திய-வங்கி-அறிக்கை/175-333809) · `ta`
+
+மத்திய வங்கி ஊழியர்களுக்கான ஊதியத்தில் சமீபத்தில் ஏற்பட்ட திருத்தம் தொடர்பாக பாராளுமன்ற உறுப்பினர்கள் தெரிவித்த கருத்துகள் தொடர்பாக வெளியாகிய ஊடக அறிக்கைகளுக்கு இலங்கை மத்திய வங்கி (CBSL) பதிலளித்துள்ளது.
+
+நேற்று வெளியிடப்பட்ட ஒரு அறிக்கையில், CBSL அதன் செயல்பாடுகளில் வெளிப்படைத்தன்மை மற்றும் பொறுப்புக்கூறல் ஆகியவற்றுக்கான அதன் உறுதிப்பாட்டை வலியுறுத்தியுள்ளது.
+
+CBSL இன் ஆளும் குழு, 21.02.2024 அன்று நடைபெற்ற கூட்டத்தில், உரிய பாராளுமன்றக் குழு மூலம் பாராளுமன்ற உறுப்பினர்களிடம் உரையாடுவதற்கான வாய்ப்பை முறையாகக் கோருமாறு ஆளுநருக்கு உத்தரவிட்டது.
+
+2023 ஆம் ஆண்டின் 16 ஆம் இலக்க இலங்கை மத்திய வங்கிச் சட்டத்தின் பிரிவு 80 (2) (b) க்கு இணங்க இந்த கோரிக்கை முன்வைக்கப்பட்டது, இது முப்பெரும்பான்மையின் கீழ் அங்கீகரிக்கப்பட்ட சமீபத்திய ஊதியத் திருத்தத்தின் பின்னணியில் உள்ள செயல்முறை மற்றும் நியாயத்தை தெளிவுபடுத்துவதை நோக்கமாகக் கொண்டுள்ளது.
+
+...
+
+[Data](articles/116102d1.json)
+
+---
+
+### Long term Ukraine, Russian tourists asked to leave
+
+*2024-02-26 07:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Long-term-Ukraine-Russian-tourists-asked-to-leave/108-277703) · `en`
+
+Days after the Daily Mirror exposed that a rising number of Russian tourists were engaging in prostitution in Sri Lanka as well as running other unregistered, illegal businesses, the Immigration Department released a circular to the Tourism Ministry stating all long-term Ukrainian, Russian tourists must leave.
+
+In an urgent move to prevent any diplomatic tension between Russia and Sri Lanka, President Ranil Wickremesinghe yesterday ordered an immediate investigation into the circular that had been released by the Head of the Immigration and Emigration Department to the Tourism Ministry Secretary stating that Russian and Ukrainian tourists living long term in Sri Lanka had to leave within 14 days.
+
+...
+
+[Data](articles/ce8eaf47.json)
+
+---
+
+### බෙහෙත් බොන්න බල කළැයි පුතා පියාට පොරොවකින් ගහලා
+
+*2024-02-26 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193825) · `si`
+
+මානසික රෝගයකින් පෙලෙන තම දරුවාට බෙහෙත් බීමට බලකළ පියෙකු රෝගී දරුවා විසින්ම පොරොවකින් කොටා ඝාතනය කර ඇතැයි පිටිගල පොලීසිය පවසයි.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ පියදාස ජයසිංහ නමැති පිටිගල, කලුආරච්චිගොඩ ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
+
+මෙම ඝාතනයට අදාළව මරණකරුගේ 47 හැවිරිදි පුතු පිටිගල පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+
+මරණකරුගේ පුතු අංගොඩ මානසික රෝහලේ දීර්ඝ කාලයක් ප්‍රතිකාර ලබා මානසික රෝගයෙන් සුවපත් වූ බවට වෛද්‍යවරුන් තීරණය කර ඇත.
+
+මේ අනුව මීට මාස එකහමාරකට පෙර එම පුද්ගලයාව අධිකරණ අවසරය මත මාපියන්ට බාර දී තිබෙන අතර දෛනිකව ඖෂධ වට්ටෝරු ද ලබාදෙන ලෙස වෛද්‍යවරුන් නිර්දේශ කර තිබේ.
+
+පෙරේදා (24 වැනිදා) රාත්‍රියේ පියා පුතුට අවශ්‍ය ඖෂධ ලබාදීමට උත්සහා දරා ඇති අතර එය ලබාගැනීම පුතු විසින් ප්‍රතික්ෂේප කරමින් නිවසේ සැඟවී සිට ඇත.
+
+ඒ අනුව පියා ආලින්දයේ පුටුවක වාඩි වී සිටියදී පුතු විසින් පොරොවකින් හිසට පහරදී ඝාතනය කර තිබෙන අතර පිටිගල පොලීසිය විසින් සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී අනාවරණය වී ඇත්තේ මෙම පුද්ගලයා මානසික රෝගයෙන් තවමත් පෙළෙන අයෙකු බවය.
+
+◼️
+
+[Data](articles/52a62399.json)
 
 ---
 
@@ -127,6 +247,24 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/f93a1881.json)
 
 [Extended Data](ext_articles/f93a1881.ext.json)
+
+---
+
+### மோடி ‛ஸ்கூபா டைவிங்’
+
+*2024-02-26 04:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-ஸ்கூபா-டைவிங்/175-333808) · `ta`
+
+'என் பல வருட ஆசை நிறைவேறியது” என்று கடலுக்குள் மூழ்கியதாக கூறப்படும் துவாரகாவில் வழிபட்டது குறித்து பிரதமர் மோடி மகிழ்ச்சி தெரிவித்துள்ளார்.
+
+குஜராத்தின் துவாரகாவில் 4150 கோடி ரூபா மதிப்பிலான பல வளர்ச்சித் திட்டங்களுக்கு பிரதமர் நரேந்திர மோடி நேற்று அடிக்கல் நாட்டிவைத்தார்.
+
+முன்னதாக, கடலுக்குள் மூழ்கியதாக கூறப்படும் துவாரகா நகருக்கு சென்று பூஜை செய்ய விரும்பிய பிரதமர் மோடி, நேற்று ஸ்கூபா டைவிங் வீரர்கள் உதவியுடன் படகில் அரபிக்கடலுக்குள் பயணித்தார்.
+
+துவாரகா நகரை உருவாக்கியவராக நம்பப்படும் கடவுள் கிருஷ்ணருக்கு மயிலிறகு விருப்பமான ஒன்று, காவி உடை அணிந்து தனது கையில் மயிலறகுடன் ‛ஸ்கூபா டைவிங்' கருவிகளை உடலில் பொருத்திக் கொண்டு பிரதமர் மோடி கடலுக்கடியில் சென்று தரிசனம் செய்தார். அவருக்கு பாதுகாப்பாக ஏனைய ஸ்கூபா டைவிங் வீரர்கள் உடன் சென்றனர்.
+
+...
+
+[Data](articles/136b0068.json)
 
 ---
 
@@ -925,6 +1063,20 @@ Lady Ridgeway Hospital Medical Director Ji.When contacted, Wijesuriya said:
 [Data](articles/53b6a23f.json)
 
 [Extended Data](ext_articles/53b6a23f.ext.json)
+
+---
+
+### සරසවි අනධ්‍යන කාර්ය මණ්ඩලයට සුබ ආරංචියක්
+
+*2024-02-25 20:42:31* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-කාර්ය-මණ්ඩලයට-සුබ-ආරංචියක්/11-408268) · `si`
+
+රාජ්‍ය විශ්ව විද්‍යාලවල අනධ්‍යයන කාර්ය මණ්ඩල සඳහා 2016 සිට තිබූ වැටුප් විෂමතාවය එනම් 107% වෙනුවට 92%ක් ලබා දීම පිළිබඳ වැටුප් විෂමතාව ඉවත් කිරීම සඳහා විශ්ව විද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩලවල වෘත්තීය සමිති, උසස් අධ්‍යාපන අමාත්‍යාංශ නිලධාරීන් සහ භාණ්ඩාගාර නිලධාරීන් එක්ව පැවති සාකච්ඡාවේ දී තීරණය කළ පරිදි පත් කරන ලද කමිටු වාර්තාව පදනම් කර ගනිමින් අධ්‍යාපන අමාත්‍යාංශය විසින් අමාත්‍ය මණ්ඩල සංදේශය ඉදිරිපත් කර ඇතැයි අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+ඒ අනුව අමාත්‍ය මණ්ඩල සංදේශය පිළිබඳ ප්‍රතිපත්තිමය තීන්දුවක් ගැනීම අධ්‍යාපන අමාත්‍යාංශය අපේක්ෂා කරන අතර ඉදිරි ආසන්නත ම කාලසීමාවේ දී ඊට අදාළ අමාත්‍ය මණ්ඩල තීරණ ලැබුනු පසුව ඒ අනුව කටයුතු කිරීමට අමාත්‍යාංශය ක්‍රියාකරනු ලබන බවද අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/8164028e.json)
 
 ---
 
@@ -1861,181 +2013,5 @@ A counter-protest was held in Negombo today in response to allegations that the 
 [Data](articles/3ba06f73.json)
 
 [Extended Data](ext_articles/3ba06f73.ext.json)
-
----
-
-### CBSL requests President for opportunity to explain recent salary hike
-
-*2024-02-25 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97519/cbsl-requests-president-for-opportunity-to-explain-recent-salary-hike-) · `en`
-
-The Central Bank of Sri Lanka (CBSL) has requested the President, in his capacity as the Minister of Finance, for an opportunity to apprise the Members of Parliament, through an appropriate Parliamentary Committee, of the process and rationale behind the recent salary hike for CBSL employees.
-
-The written request was made by CBSL Governor Dr. Nandalal Weerasinghe.
-
-Issuing a release in this regard, the CBSL noted that the latest revision of remuneration of the CBSL employees had been approved by the Governing Board under the triennial Collective Agreement entered into with the Trade Unions covering the period 2024- 2026.
-
-Thus, the Governing Board, at a meeting held on 21 February, had requested CBSL Governor Dr. Weersinghe to make a written request to President Ranil Wickremesinghe, seeking an opportunity to apprise the Members of the Parliament of recent revision of remuneration of CBSL staff.
-
-...
-
-[Data](articles/c705f261.json)
-
-[Extended Data](ext_articles/c705f261.ext.json)
-
----
-
-### Dilantha humblers seek assistance
-
-*2024-02-25 13:17:45* · [`adalk`](https://www.ada.lk/breaking_news/ඩිලන්ත-නිහතමානී-ශ්‍රී-ලාංකිකයන්ගේ-සහය-පතයි/11-408262) · `si`
-
-Dilantha Malagamuwa and Ashan Silva in Sri Lanka, Dilantha Silva, Ashan Silva, in 2024 countries, calls for Lolin 'support to participate in the European Motor Race.
-
-Participating in a press conference held to participate in this tournament and participating in a press conference held in Colombo to be able to support it.
-
-◼️
-
-[Data](articles/9f3b2cf5.json)
-
-[Extended Data](ext_articles/9f3b2cf5.ext.json)
-
----
-
-### India's longest cable bridge opens
-
-*2024-02-25 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193803) · `si`
-
-The Cable Cable Cable Bridge was constructed at the cost of a cost of Rs. 979 billion.
-
-The total length of the bridge that connects the port city of Gujette and Biatha Island is 2.3 kilometers.
-
-The bridge has been constructed to facilitate the famous secondca tank built on Biatka Island.
-
-◼️
-
-[Data](articles/927f454d.json)
-
-[Extended Data](ext_articles/927f454d.ext.json)
-
----
-
-### US Deputy Secretary of State to seek a personal meeting with the president
-
-*2024-02-25 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177234) · `ta`
-
-Prior to an official meeting, Deputy Secretary of State of Sri Lanka, Ranil Wickremesinghe, held a personal meeting with President Ranil Wickremesinghe.
-
-It is reported that Verma, who came to meet the president, appealed for a personal meeting.
-
-Ranil Wickremesinghe has agreed to this and has been in official talks only after negotiations within the closed doors.
-
-During the official negotiations, the Anti -Terrorism Act was investigated on the Protection Act and clarified the positions of the president's government and pointed out the steps taken by the government.
-
-Meanwhile, the President has not announced that the Terrorism Act will be delayed until the time of the new parliament.
-
-◼️
-
-[Data](articles/ff4e20ed.json)
-
-[Extended Data](ext_articles/ff4e20ed.ext.json)
-
----
-
-### The crisis in Negombo to a warm hand
-
-*2024-02-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193802) · `si`
-
-The clergy and Catholics in the Pitipana, Negombo and Catholics in Negombo engaged in a silent protest in front of the shrine of the temple of the temple.
-
-They say that the fishing group is making false statements against the Archbed and the Catholic Church.
-
-The Negombo District Court recently ordered the Pitipana of the Negombo Fisheries Trading Center, which is known as the Legest.
-
-It is related to a complaint filed by the Archbishop filed against the Pitipana United Fisheries Society.
-
-The fishermen of the Catholic Church had also held a protest recently in front of the Archbishop of Colombo, but the Catholic Church said he was legalized to provide a small group of people to the majority of the fisheries community.
-
-The clergy and a group of priests in Negombo Pitipana, which belongs to the Catholic Church, was silent protest in front of the temple of the temple of the temple.
-
-...
-
-[Data](articles/938e049c.json)
-
-[Extended Data](ext_articles/938e049c.ext.json)
-
----
-
-### Thorough investigation to be conducted on notice sent to Russian, Ukraine tourists – Public Security Ministry
-
-*2024-02-25 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97518/thorough-investigation-to-be-conducted-on-notice-sent-to-russian-ukraine-tourists-public-security-ministry) · `en`
-
-The Ministry of Public Security has asserted that Government of Sri Lanka has not made any decision thus far pertaining to Russian and Ukrainian tourists despite recent reports, adding that the matter will be thoroughly investigated.
-
-Accordingly, a thorough investigation is to be carried out into the recent notification issued to Russian and Ukrainian tourists by the Department of Immigration and Emigration, requiring them to leave the country within 14 days.
-
-Meanwhile, earlier today (25 Feb.), President Ranil Wickremesinghe had also ordered an investigation into the matter.
-
-According to the President’s Media Division (PMD), the relevant notice had been issued without approval from the Cabinet of Ministers.
-
-The Department of Immigration and Emigration recently issued a notice, granting a period of 14 days from 23 February for all Russian and Ukrainian tourists residing long-term in Sri Lanka to leave the country.
-
-...
-
-[Data](articles/fe358655.json)
-
-[Extended Data](ext_articles/fe358655.ext.json)
-
----
-
-### Treatment for three
-
-*2024-02-25 12:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டுப்பன்றி-தாக்கியதில்-மூவருக்கு-சிகிச்சை/175-333767) · `ta`
-
-Three persons, including a woman who was walking on the street, were injured and admitted to the hospital.
-
-In addition, one of the injured has been treated at the Mirigama Resource Hospital and the other two have been transferred to the Vatupitivala Resource Hospital.
-
-Hospital sources said that the situation of one of them is worrisome and has undergone surgery.
-
-◼️
-
-[Data](articles/6bf425e4.json)
-
-[Extended Data](ext_articles/6bf425e4.ext.json)
-
----
-
-### Trio therapy
-
-*2024-02-25 12:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டுப்பன்றி-தாக்கி-மூவர்-சிகிச்சை/175-333767) · `ta`
-
-Three persons, including a woman walking on the street, were injured and admitted to the hospital.
-
-In addition, one of the injured has been admitted to the Mirigama Resource Hospital and the other two are admitted to the Watupitivala Resource Hospital.
-
-◼️
-
-[Data](articles/b64b8a70.json)
-
-[Extended Data](ext_articles/b64b8a70.ext.json)
-
----
-
-### T.M. Dilshan gains Australian citizenship
-
-*2024-02-25 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/T-M-Dilshan-gains-Australian-citizenship/108-277671) · `en`
-
-Australia, Feb 25 (Daily Mirror) - Former Sri Lankan cricketer Tillakaratne Dilshan has obtained Australian citizenship following a citizenship ceremony, Australian MP Jason Wood said.
-
-"Dilshan is regarded as the best Sri Lankan player in run-chases in ODI history. He also holds the record for being the top run scorer in the 2011 ICC Cricket World Cup with 500 runs and scored a century against England in the semi-final. Additionally, he was part of the Sri Lankan team that won the 2014 ICC World Twenty20," the MP posted on social media.
-
-As a new Aussie and local resident, the MP said that he hopes Dilshan will join a local team and continue to share his talents with the community.
-
-"It was great to hear that his daughter Resandi is following in her father’s footsteps," he added.
-
-◼️
-
-[Data](articles/1a3e2376.json)
-
-[Extended Data](ext_articles/1a3e2376.ext.json)
 
 ---

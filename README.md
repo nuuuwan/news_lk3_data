@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 20:33:13**
+As of **2024-02-26 20:50:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,404 (100.0%) of 9,407 articles have been extended.
+9,407 (100.0%) of 9,407 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ Colombo, Feb. 26 (Daily Mirror) - President Ranil Wickremesinghe has appointed D
 ◼️
 
 [Data](articles/6e091473.json)
+
+[Extended Data](ext_articles/6e091473.ext.json)
 
 ---
 
@@ -239,6 +241,8 @@ School authorities have also been urged to ensure that students receive necessar
 ◼️
 
 [Data](articles/2baff130.json)
+
+[Extended Data](ext_articles/2baff130.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 17:17:30**
+As of **2024-02-26 17:33:34**
 
 ## Newspaper Stats
 
-*Scraped **9,373** Articles*
+*Scraped **9,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 492
 islandlk | 495
-adalk | 791
+adalk | 792
 adaderanalk | 1,130
-tamilmirrorlk | 1,152
-virakesarilk | 1,273
+tamilmirrorlk | 1,153
+virakesarilk | 1,274
 dailymirrorlk | 1,413
 adaderanasinhalalk | 1,422
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,422
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,368 (99.9%) of 9,373 articles have been extended.
+9,373 (100.0%) of 9,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### மேய்ச்சல் தரையை மீட்கும் பண்ணையாளர்களின் போராட்டம் தொடர்கிறது
+
+*2024-02-26 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177356) · `ta`
+
+ஐந்து மாதங்களுக்கும் மேலாக தொடர்ச்சியாக போராட்டத்தில் ஈடுபட்டுள்ள தமக்கும், தமது கால் நடைகளுக்கும், பெரும்பான்மையின விவசாயிகளால் இழைக்கப்படும் அட்டூழியங்களும், அநியாயங்களும் அதிகரித்துள்ளதாக கிழக்கு மாகாணத்தின் பாற்பண்ணையாளர்கள் தெரிவிக்கின்றனர்.
+
+பெரும்பான்மையின விவசாயிகள் தமது கால்நடைகளை தொடர்ச்சியாக துன்புறுத்தி வருவதோடு கொலை செய்வதாக, தொடர்ச்சியாக 160 நாட்களைக் கடந்து போராட்டத்தில் ஈடுபட்டுள்ள, மயிலத்தமடு, மாதவனை தமிழ் பால் பண்ணையாளர்கள் தெரிவிக்கின்றனர்.
+
+“அதிகூடிய மின்சாரத்தைக் கொடுத்து குறைமாதத்தில் கன்றை ஈன்றுள்ளது. குறை மாதத்தில் பிறந்த கன்றால் எழும்பிகூட நிற்க முடியவில்லை. இந்த கன்று குட்டி. இது அநியாயம்தானே? இது வாய்பேச முடியாத மிருகம் தானே இது? இது மின்சாரக் கம்பியா? இல்லையா என இதுக்கு தெரியுமா? பௌத்த தர்மத்தை மதிக்கும் அனைவரும் பாருங்கள். வாய்பேச முடியாத ஜீவன்களுக்கு இவ்வாறு செய்கிறீர்கள்? சுடுகிறீர்கள். வாய் வெடியை  போடுகிறீர்கள். கட்டுத் துப்பாக்கியை  கட்டுகிறீர்கள். வெட்டுகிறீர்கள். நீங்களா, பௌத்த தர்மத்தை மதிப்பவர்கள்?” என கால் பண்ணையாளர் ஒருவர் கவலை வெளியிடுகின்றார்.
+
+...
+
+[Data](articles/96572c18.json)
+
+---
 
 ### Lanka T10 League set to kick off in December
 
@@ -48,41 +64,47 @@ Shammi Silva, President of Sri Lanka Cricket, expressed confidence in the tourna
 
 [Data](articles/21da9692.json)
 
+[Extended Data](ext_articles/21da9692.ext.json)
+
 ---
 
-### ලංකා T10 තරගාවලිය දෙසැම්බරයේ
+### Lanka T10 tournament in December
 
 *2024-02-26 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193848) · `si`
 
-පළමු ලංකා T10 තරගාවලිය 2024 දෙසැම්බර් මාසයේ පැවැත්වෙන බව වාර්තා වෙයි.
+It is reported that the first Lanka T10 tournament will be held in December 2024.
 
-ඒ අනුව එම තරගාවලිය දෙසැම්බර් 12 වනදා සිට 22 වනදා දක්වා පැවැත්වීමට නියමිතය.
+The tournament will be held from December 12 to 22.
 
-එම තරගාවලිය සඳහා කණ්ඩායම් 6ක් තරග වදින අතර එක් සංචිතයකට ක්‍රීඩකයින් 16ක් අයත් වෙයි.
+Six teams compete in the tournament, while 16 players belong to the pool.
 
 ◼️
 
 [Data](articles/ba772f44.json)
 
+[Extended Data](ext_articles/ba772f44.ext.json)
+
 ---
 
-### දමිතාට නොතීසි ඉල්ලූ CIDයට අධිකරණය දුන් පිළිතුර
+### The answer to Damitha requested the court
 
 *2024-02-26 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193847) · `si`
 
-දමිතා අබේරත්නට සහ අයගේ සැමියාට නොතීසි නිකුත් කරන ලෙස ඉල්ලා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයෙන් ඉල්ලීමක් කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා ප්‍රතික්ෂේප කර තිබේ.
+Fort Magistrate Thilina Gamage has rejected the court to issue Court to issue notice to the husband of Damitha Abeyratne.
 
-CIDය අධිකරණයට දැනුම්දී ඇත්තේ දමිතා අබේරත්න සහ ඇයගේ සැමියා විසින් කොරියානු රටට යවන බව පවසා රුපියල් ලක්ෂ 30 අධික මුදලක් වංචා කර ඇති බවය.
+CID has informed the judiciary that Damitha Abeyratne and her husband had been sent to Korean country.
 
-ඒ සම්බන්ධයෙන් වූ පැමිණිල්ල විභාග කිරීම සඳහා පොලීසියට පැමිණෙන ලෙස කළ දැනුම්දීම නොසලකාහැරීම හේතුවෙන් අධිකරණය හමුවේ පෙනී සිටින ලෙස නොතීසි නිකුත් කරන ලෙස එමගින් CIDය ඉල්ලීමක් කර තිබුණි.
+The CID had requested notice to appear in court as a result of ignoring the notice to the police to hear the complaint.
 
-එහිදී කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා පවසා ඇත්තේ ඔවුන් සැකකරුවන් ලෙස නම්කර නොමැති බැවින් අධිකරණයෙන් නොතීසි නිකුත් කිරීමට නොහැකි බවය.
+Fort Magistrate Thilina Gamage has said that they cannot be issued notice as the suspects were not named as suspects.
 
-එසේම නිසි අයුරින් නියෝග ඉල්ලන ලෙසට ප්‍රකාශ කර ඇති කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා සඳහන් කර ඇත්තේ මේ අයුරින් ඉදිරියේදී "පාරේ යන අයටත් නොතීසි නිකුත් කරන ලෙස ඉල්ලා සිටීවී" යනුවෙනි.
+Fort Magistrate Thilina Gamage has also stated this as well as the demand for orders.
 
 ◼️
 
 [Data](articles/d82e480c.json)
+
+[Extended Data](ext_articles/d82e480c.ext.json)
 
 ---
 
@@ -97,6 +119,24 @@ The decision to close the Planetarium stems from the necessity for urgent repair
 ◼️
 
 [Data](articles/773fe709.json)
+
+[Extended Data](ext_articles/773fe709.ext.json)
+
+---
+
+### எம்.பிக்களுக்கிடையில் சந்திப்பு
+
+*2024-02-26 16:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கிடையில்-சந்திப்பு/175-333834) · `ta`
+
+ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பி ரணவக்க மற்றும் ஐக்கிய மக்கள் சக்கி கட்சியினருக்கிடையில் சந்திப்பு இன்று (26)  கொழும்பில் உள்ள கட்சியின் தலைமையகத்தில் இடம்பெற்றது.
+
+ஐக்கிய குடியரசு முன்னணியினால் வெளியிடப்பட்டுள்ள  'தேசிய சதேய ஆறு எட எதேக்' பிரசுரத்தின் உள்ளடக்கம் குறித்து அனைத்து அரசியல் கட்சிகள் மற்றும் அமைப்புக்களுக்கு தெரியப்படுத்த எடுக்கப்பட்ட தீர்மானத்தின் பிரகாரம் இந்த சந்திப்பு இடம்பெற்றதாக பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+இக்கலந்துரையாடலுக்காக பொதுச் செயலாளர் ரஞ்சித் மத்துமபண்டார, தேசிய அமைப்பாளர் திஸ்ஸ அத்தநாயக்க, கயந்த கருணாதிலக்க, முஜிபுர் ரஹ்மான், ஐக்கிய குடியரசு முன்னணியின் சார்பில் அதன் தலைவர் பாட்டலி சம்பிக்க ரணவக்க, ஜனாதிபதி நிபுணர் கலாநிதி அஜித் அமரசிங்க, செயலாளர் நாயகம் பந்துல சந்திரசேகர, சிரேஷ்ட உப தலைவர் சட்டத்தரணி. இக்கலந்துரையாடலுக்கு ஷிரால் கலந்து கொண்டார்.திரு.லக்திலக, தேசிய அமைப்பாளர் பொறியியலாளர் சுமேதா ரத்நாயக்க ஆகியோரும் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/db475ae2.json)
 
 ---
 
@@ -131,6 +171,8 @@ When the students had come to the school to set up the classrooms, they had seen
 ◼️
 
 [Data](articles/b78bfdad.json)
+
+[Extended Data](ext_articles/b78bfdad.ext.json)
 
 ---
 
@@ -571,6 +613,24 @@ The filling of the form on the inheritance website has also facilitated the need
 [Data](articles/000fa916.json)
 
 [Extended Data](ext_articles/000fa916.ext.json)
+
+---
+
+### උරුමයට ලියාපදිංචි වෙන්න ක්ෂණික ඇමතුම් අංකයක්
+
+*2024-02-26 13:44:33* · [`adalk`](https://www.ada.lk/breaking_news/උරුමයට-ලියාපදිංචි-වෙන්න-ක්ෂණික-ඇමතුම්-අංකයක්/11-408284) · `si`
+
+“උරුමය” ජාතික වැඩසටහනින් අපේක්ෂිත අභිමතාර්ථ යථාර්ථයක් බවට පත් කර ගනිමින් ප්‍රජාව වෙත සිය භුමියේ සින්නක්කර අයිතිය භුක්ති විඳීමේ අවස්ථාව ලබා දීමට අදාළව ඉල්ලුම් කිරීමට ක්ෂණික ඇමතුම් අංකයක් හඳුන්වා දී තිබේ.
+
+ඒ අනුව දිනපතා පෙ.ව 8.30 සිට රාත්‍රී 8.30 දක්වා 1908 ක්ෂණික ඇමතුම් අංකය සහ දුරකථන අංක 0114 354600/ 0114 354601 ඔස්සේ ජනාධිපති කාර්යාලයේ, උරුමය ජාතික මෙහෙයුම් කාර්යාලය සමඟ සම්බන්ධ වීමෙන් ජනතාවට සිය ඉල්ලීම යොමු කරමින් ලියාපදිංචි වීම සඳහා අවස්ථාව සලසා ඇත.
+
+www.tinyurl.com/urumaya (ඩිජිටල් ඉල්ලුම් පත්‍රය) පෝරමය පිරවීම මඟින් ද අදාළ අවශ්‍යතාව ඉටු කිරීමට පහසුකම් සපයා තිබේ.
+
+1935 අංක 19 දරණ ඉඩම් සංවර්ධන ආඥා පනත මඟින් ගොවි ජනතාව හා අඩු ආදායම්ලාභීන් වෙත කොන්දේසි සහිත අවසර පත්‍ර/ දීමනා පත්‍ර සහිත රජයේ ඉඩම් කොන්දේසි විරහිත සින්නක්කර අයිතියට පත් කරමින් ජනතාව වෙත ලබා දීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත් කරන ලද 2024 අයවැය යෝජනා අතර සුවිශේෂී යෝජනාවකි.
+
+...
+
+[Data](articles/1afc7474.json)
 
 ---
 
@@ -1971,53 +2031,5 @@ This request requested an opportunity to inform MPs the reasons for changing the
 [Data](articles/116102d1.json)
 
 [Extended Data](ext_articles/116102d1.ext.json)
-
----
-
-### Long term Ukraine, Russian tourists asked to leave amidst rising concerns
-
-*2024-02-26 07:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Long-term-Ukraine-Russian-tourists-asked-to-leave-amidst-rising-concerns/155-277703) · `en`
-
-In an urgent move to prevent any diplomatic tension between Russia and Sri Lanka, President Ranil Wickremesinghe yesterday ordered an immediate investigation into the circular that had been released by the Head of the Immigration and Emigration Department to the Tourism Ministry Secretary stating that Russian and Ukrainian tourists living long term in Sri Lanka had to leave within 14 days.
-
-In a hurriedly released statement, the President’s Media Division said that the President had ordered an investigation into the circular that had been released without prior cabinet approval and added that the government had not officially decided to revoke the visa extensions previously granted to the tourists.
-
-...
-
-[Data](articles/67b9cbb9.json)
-
-[Extended Data](ext_articles/67b9cbb9.ext.json)
-
----
-
-### Long term Ukraine, Russian tourists asked to leave
-
-*2024-02-26 07:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Long-term-Ukraine-Russian-tourists-asked-to-leave/155-277703) · `en`
-
-Days after the Daily Mirror exposed that a rising number of Russian tourists were engaging in prostitution in Sri Lanka as well as running other unregistered, illegal businesses, the Immigration Department released a circular to the Tourism Ministry stating all long-term Ukrainian, Russian tourists must leave.
-
-In an urgent move to prevent any diplomatic tension between Russia and Sri Lanka, President Ranil Wickremesinghe yesterday ordered an immediate investigation into the circular that had been released by the Head of the Immigration and Emigration Department to the Tourism Ministry Secretary stating that Russian and Ukrainian tourists living long term in Sri Lanka had to leave within 14 days.
-
-...
-
-[Data](articles/a7d2c527.json)
-
-[Extended Data](ext_articles/a7d2c527.ext.json)
-
----
-
-### Long term Ukraine, Russian tourists asked to leave
-
-*2024-02-26 07:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Long-term-Ukraine-Russian-tourists-asked-to-leave/108-277703) · `en`
-
-Days after the Daily Mirror exposed that a rising number of Russian tourists were engaging in prostitution in Sri Lanka as well as running other unregistered, illegal businesses, the Immigration Department released a circular to the Tourism Ministry stating all long-term Ukrainian, Russian tourists must leave.
-
-In an urgent move to prevent any diplomatic tension between Russia and Sri Lanka, President Ranil Wickremesinghe yesterday ordered an immediate investigation into the circular that had been released by the Head of the Immigration and Emigration Department to the Tourism Ministry Secretary stating that Russian and Ukrainian tourists living long term in Sri Lanka had to leave within 14 days.
-
-...
-
-[Data](articles/ce8eaf47.json)
-
-[Extended Data](ext_articles/ce8eaf47.ext.json)
 
 ---

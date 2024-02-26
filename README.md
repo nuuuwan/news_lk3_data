@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 09:51:51**
+As of **2024-02-26 10:02:39**
 
 ## Newspaper Stats
 
-*Scraped **9,286** Articles*
+*Scraped **9,289** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 95
-bbccomsinhala | 111
+bbccomsinhala | 112
 dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 467
@@ -18,7 +18,7 @@ islandlk | 494
 adalk | 777
 adaderanalk | 1,120
 tamilmirrorlk | 1,145
-virakesarilk | 1,259
+virakesarilk | 1,261
 dailymirrorlk | 1,396
 adaderanasinhalalk | 1,402
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 1,402
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,286 (100.0%) of 9,286 articles have been extended.
+9,289 (100.0%) of 9,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Colombo - Jampatta Road shooting;The wounded is the closest friend of 'Bukudu Kanna'
+
+*2024-02-26 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177290) · `ta`
+
+Police said that the injured in the shooting incident on Sunday (25) on the Colombo -Jampatta Road, Colombo, was a close friend of the drug trader and planned criminal acts.
+
+He has been identified as Mohamed Rilwan, who lives in the Methsantha Sevana Telephone Housing Scheme in Hanamulla.
+
+Police suspect that the dispute between the time and the son of Remoshan, the son of Kudu Selvayi, is a dispute.
+
+The Sisirvi camera reported that two motorbikes were shot dead at around 1.45 pm on Sunday afternoon.
+
+Mohamed Rilvan, who was injured in the shooting, has been admitted to the Colombo National Hospital, police said.
+
+◼️
+
+[Data](articles/dfa453ca.json)
+
+[Extended Data](ext_articles/dfa453ca.ext.json)
+
+---
 
 ### Acting IGP Tennakoon’s term likely to be extended amid ’Yukthiya’ operation
 
@@ -87,6 +109,22 @@ The deceased, a father of three, is identified as Deepal Roshan Kumara, who is a
 [Data](articles/1dd1b015.json)
 
 [Extended Data](ext_articles/1dd1b015.ext.json)
+
+---
+
+### Shooting in Elpitiya;The Public Health Inspector killed
+
+*2024-02-26 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177289) · `ta`
+
+A Public Health Inspector in Badja Mawatha, Elpitiya, has been shot dead at his home.
+
+The shooting was carried out by an unidentified person who was on a motorcycle at the public health examiner's home.
+
+◼️
+
+[Data](articles/b8eb655b.json)
+
+[Extended Data](ext_articles/b8eb655b.ext.json)
 
 ---
 
@@ -597,6 +635,30 @@ The event commenced with an illuminating keynote address by KPMG Principal, Head
 [Data](articles/ffea674c.json)
 
 [Extended Data](ext_articles/ffea674c.ext.json)
+
+---
+
+### Fisheries Industry: 'Fish on paddy fields. Like the crash of the tsunami. '
+
+*2024-02-26 03:31:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g05zgw3w5o) · `si`
+
+None contains none of the. Now the reservoir has bound. There is no need for the authorities. "
+
+Fisheries Industry: 'Fish on paddy fields. Like the crash of the tsunami. '
+
+The National Aquaculture Development Authority estimates that the reservoirs have been drifted away from the reservoirs due to reservoirs in January 2024.
+
+According to the Senanayake Samudra, it has now reduced a yield of fish per day before spilling it, the fishermen said.
+
+As a result, children's education has been hampered and unable to find the necessary costs for food, the fishermen said to the BBC Sinhala service.
+
+However, there will take about another year to rebuild fish in the reservoirs.
+
+◼️
+
+[Data](articles/1a73d950.json)
+
+[Extended Data](ext_articles/1a73d950.ext.json)
 
 ---
 
@@ -1973,61 +2035,5 @@ According to sources, a person who was injured in shooting has been hospitalized
 [Data](articles/5ce87375.json)
 
 [Extended Data](ext_articles/5ce87375.ext.json)
-
----
-
-### State Minister on salary incident in the Central Bank
-
-*2024-02-25 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193807) · `si`
-
-State Minister Shehan Semasinghe has made a statement on controversial conversation, the Central Bank's salary increase.
-
-He emphasized that the Central Bank of Sri Lanka has called for the Committee on Public Finance Council.
-
-The Minister is the view that it is proper to explain the controversial areas of the relevant increment.
-
-◼️
-
-[Data](articles/5f44957b.json)
-
-[Extended Data](ext_articles/5f44957b.ext.json)
-
----
-
-### Cabinet receives recommendations to address salary anomalies in state universities
-
-*2024-02-25 14:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-receives-recommendations-to-address-salary-anomalies-in-state-universities/108-277674) · `en`
-
-Recommendations were presented to the Cabinet to resolve the salary anomalies of the non-academic staff in state universities, the Education Ministry said.
-
-They said a joint decision was announced following a discussion held with the unions of university non-academic staff, Higher Education Ministry officials and Treasury officials.
-
-Colombo, Feb 25 (Daily Mirror) - They decided to resolve the salary disparity to provide 92% instead of the salary disparity that existed since 2016, which was 107% for the non-academic staff of state universities.
-
-Accordingly, the Ministry expects to take a policy decision on the Cabinet Memorandum, and the Ministry will act accordingly after receiving the relevant Cabinet decisions in the near future.
-
-◼️
-
-[Data](articles/9b88c8c2.json)
-
-[Extended Data](ext_articles/9b88c8c2.ext.json)
-
----
-
-### Trump wins South Carolina, easily beating Haley in her home state and closing in on GOP nomination
-
-*2024-02-25 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97520/trump-wins-south-carolina-easily-beating-haley-in-her-home-state-and-closing-in-on-gop-nomination) · `en`
-
-Donald Trump won South Carolina’s Republican primary on Saturday, easily beating former U.N. Ambassador Nikki Haley in her home state and further consolidating his path to a third straight GOP nomination.
-
-Trump has now swept every contest that counted for Republican delegates, adding to previous wins in Iowa, New Hampshire, Nevada and the U.S. Virgin Islands. Haley is facing growing pressure to leave the race but says she’s not going anywhere despite losing the state where she was governor from 2011 to 2017.
-
-A 2020 rematch between Trump and President Joe Biden is becoming increasingly inevitable. Haley has vowed to stay in the race through at least the batch of primaries on March 5, known as Super Tuesday, but was unable to dent Trump’s momentum in her home state despite holding far more campaign events and arguing that the indictments against Trump will hamstring him against Biden.
-
-...
-
-[Data](articles/0d83dbd5.json)
-
-[Extended Data](ext_articles/0d83dbd5.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 23:33:03**
+As of **2024-02-26 23:51:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,425 (100.0%) of 9,428 articles have been extended.
+9,428 (100.0%) of 9,428 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Hungarian Prime Minister Viktor Orban’s government has faced pressure from NAT
 ...
 
 [Data](articles/282da193.json)
+
+[Extended Data](ext_articles/282da193.ext.json)
 
 ---
 
@@ -90,6 +92,8 @@ The President’s Media Divion confirmed that Senior DIG and Acting IGP Deshaban
 
 [Data](articles/3c44c6c6.json)
 
+[Extended Data](ext_articles/3c44c6c6.ext.json)
+
 ---
 
 ### The struggle of Tamil farmers continues to restore the grazing ground
@@ -125,6 +129,8 @@ During a press conference held at the Presidential Media Center today (26), unde
 ...
 
 [Data](articles/fd08beab.json)
+
+[Extended Data](ext_articles/fd08beab.ext.json)
 
 ---
 
@@ -440,11 +446,13 @@ The Ministry has requested the school administration to provide frequent water b
 
 *2024-02-26 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97549/deshabandu-tennakoon-appointed-igp) · `en`
 
-Deshabandu Tennakoon has been appointed as the 36th Inspector General of Police (IGP) of Sri Lanka.
+Senior DIG and Acting IGP Deshabandu Tennakoon has been appointed as the 36th Inspector General of Police (IGP) of Sri Lanka.
 
-Tennakoon received his letter of appointment as the 36th IGP from the Secretary to the President on Monday (26 Feb.).
+This appointment, in compliance with the stipulations outlined in Articles 41C.(1) and 61E.(b) of the Constitution of the Democratic Socialist Republic of Sri Lanka, has been made pursuant to the authority vested on President Ranil Wickremesinghe, the PMD reported.
 
-He had been appointed as the Acting IGP on November 29, 2023.
+Secretary to the President Mr. Saman Ekanayake presented the official appointment letter to Mr. Deshabandu Tennakoon this afternoon (26) at the Presidential Secretariat.
+
+Tennakoon had been appointed as the Acting IGP on November 29, 2023.
 
 ◼️
 

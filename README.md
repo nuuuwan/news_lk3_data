@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 18:08:37**
+As of **2024-02-26 18:20:48**
 
 ## Newspaper Stats
 
-*Scraped **9,382** Articles*
+*Scraped **9,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ islandlk | 495
 adalk | 792
 adaderanalk | 1,132
 tamilmirrorlk | 1,153
-virakesarilk | 1,278
-dailymirrorlk | 1,413
-adaderanasinhalalk | 1,422
+virakesarilk | 1,279
+dailymirrorlk | 1,414
+adaderanasinhalalk | 1,424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,382 (100.0%) of 9,382 articles have been extended.
+9,382 (100.0%) of 9,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### தமிதாவுக்கும் கணவருக்கும் அழைப்பாணை அனுப்ப விடுக்கப்பட்ட கோரிக்கை நீதிமன்றினால் நிராகரிப்பு!
+
+*2024-02-26 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177369) · `ta`
+
+தமிதா அபேரத்ன மற்றும் அவரது கணவர் ஆகியோருக்கு  அழைப்பாணை விடுக்குமாறு குற்றப் புலனாய்வு திணைக்களம் விடுத்த கோரிக்கையை கோட்டை நீதிவான் திலின கமகே நிராகரித்துள்ளார்.
+
+கொரியாவுக்கு அனுப்புவதாகக் கூறி தமிதா அபேரத்னவும் அவரது கணவரும் 30 இலட்சம் ரூபாவுக்கும் அதிகமான பணத்தை மோசடி செய்துள்ளதாக குற்றப் புலனாய்வுப் பிரிவினர் நீதிமன்றில் அறிவித்துள்ளனர்.
+
+இந்நிலையில், முறைப்பாடு தொடர்பில் விசாரணைக்கு வருமாறு பொலிஸார் விடுத்த அறிவித்தல் புறக்கணிக்கப்பட்டமையினால் நீதிமன்றில் ஆஜராகுமாறு அழைப்பாணை வழங்குமாறு குற்றப் புலனாய்வுப் பிரிவினர் நீதிமன்றத்தில் கோரிக்கை விடுத்திருந்தனர்.
+
+இவர்கள் இருவரும் சந்தேக நபர்களாக பெயரிடப்படாததால் நீதிமன்றத்தால் அழைப்பாணை பிறப்பிக்க முடியாது என கோட்டை நீதிவான் திலின கமகே தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/3993c132.json)
+
+---
+
+### අපරාධ ගැන පොලීසියෙන් අලුත් වාර්තාවක්
+
+*2024-02-26 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193850) · `si`
+
+ජනවාරි පළමුවනදා සිට මේ දක්වා කාලය තුළ මනුෂ්‍ය ඝාතන සම්බන්ධ සිදුවීම් වලින් 83 දෙනෙකු පමණ මියගොස් ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+
+අද (26) මාධ්‍ය හමුකට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා ඒ බව සඳහන් කළේය.
+
+මේ අතර ගෙවල් බිඳුම් දේපොළ සොරකම් කිරීමේ සිද්ධි 1,180ක් වාර්තා වී ඇති බවත් මංකොල්ලකෑම් 310ක් වාර්තා වන බවත් පොලිස් මාධ්‍ය ප්‍රකාශවරයා පැවසීය.
+
+එහිදී පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පවසා සිටියේ අපරාධමය තත්ත්වය පාලනය කර ගැනීමට අවශ්‍ය කරන විවිධ ක්‍රියාමාර්ග පොලීසිය මේ වනවිට ගනිමින් සිටින බවය.
+
+මේ අතර ජනවාරි පළමුවනදා සිට මේ දක්වා කාලය තුළ වෙඩිතැබීමේ සිදුවීම් 20ක් පමණ සිදුව ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+
+අදාළ වෙඩිතැබීමේ සිදුවීම්වලින් 10ක් පමණ සංවිධානාත්මක අපරාධකරුවන්ගේ මැදිහත්වීමන් සිදුව ඇති බවට අනාවරණය වී ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා මෙහිදී වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/81d56a0a.json)
+
+---
 
 ### Speaker of the Constitution and Parliamentary Democracy - GL Peiris accuses
 
@@ -73,6 +113,34 @@ Accordingly, according to data collected from 98 regions of the 276 regional cou
 [Data](articles/5e4f9431.json)
 
 [Extended Data](ext_articles/5e4f9431.ext.json)
+
+---
+
+### SriLankan Airlines faces permanent grounding?
+
+*2024-02-26 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-faces-permanent-grounding/108-277744) · `en`
+
+Colombo, Feb 26 (Daily Mirror) - Restructuring of the national carrier SriLankan Airlines is in tatters after Sunday’s ground handling debacle, Minister of Ports, Shipping and Aviation Nimal Siripala de Silva said today.
+
+“Deadline given to potential investors for submitting expressions to partner the national carrier ends on March 5. The information we have received as of now is that all those who have already expressed interest are planning to withdraw after the Sunday’s flight delay. We will have no option but to ground SriLankan airlines for good in  this situation,” the Minister told a discussion which was open to the media as well.
+
+Representatives of SriLankan Airlines and its Chairman Ashok Pathirage told the discussion that four flights were delayed on Sunday – with rats being found in two aircrafts while two others had technical issues.
+
+...
+
+[Data](articles/718a383e.json)
+
+---
+
+### හින්දි සිනමාවේ සොඳුරු හඬ නිහඬ වෙයි
+
+*2024-02-26 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193849) · `si`
+
+හින්දි සිනමාවේ සුපිරි ගායන ශිල්පියෙකු වන පන්කජ් උදාස් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+◼️
+
+[Data](articles/dd5b251c.json)
 
 ---
 
@@ -1963,87 +2031,5 @@ Most of the elephants have been rehabilitated and tortured by the mother of elep
 [Data](articles/ad66c3df.json)
 
 [Extended Data](ext_articles/ad66c3df.ext.json)
-
----
-
-### Electricity charges reduced by more than 20 percent
-
-*2024-02-26 08:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-வீதத்திற்கும்-மேலாக-குறைக்கப்படும்-மின்-கட்டணம்/175-333812) · `ta`
-
-The Parliamentary Supervisory Committee has recommended to the Public Utilities Commission that the electricity tariff should be reduced by more than twenty percent.
-
-The Commission has pointed out that the electricity tariff can be reduced by 33 percent based on the existing situation.
-
-However, the Electricity Board has proposed to the Commission to reduce electricity tariff by 18 percent
-
-Considering the 18th rate of the Electricity Board and the actually reduced rate, the committee has recommended to reduce fees for more than 20.
-
-In addition, the Committee has recommended to the Commission to reduce the cost of Rs.
-
-The Chairman of the Committee said the Commission had accepted these recommendations. Remble
-
-◼️
-
-[Data](articles/797c24d7.json)
-
-[Extended Data](ext_articles/797c24d7.ext.json)
-
----
-
-### New suspicion of death patients
-
-*2024-02-26 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193827) · `si`
-
-Doctors at the hospital suspects a chemical to treat the treatment of the Blood Catients at the Kurunegala Teaching Hospital.
-
-◼️
-
-[Data](articles/cc7146af.json)
-
-[Extended Data](ext_articles/cc7146af.ext.json)
-
----
-
-### Public Health Inspector shot dead in Elpitiya
-
-*2024-02-26 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97533/public-health-inspector-shot-dead-in-elpitiya) · `en`
-
-A 51-year-old Public Health Inspector (PHI) has been shot dead at his residence in Pathiraja Mawatha, Elpitiya.
-
-Police said that the shooting had been carried out at around 7.00 a.m. this morning (26) by two unidentified gunmen who had arrived at the residence on a motorcycle and subsequently fled the scene.
-
-Investigations have revealed that the assailants had used a pistol, while further investigations to apprehend the suspects are being carried out by the Elpitiya Police.
-
-The deceased has been identified as Roshan Kumara Vithanage, 51, who had been serving as the Public Health Inspector for the Karandeniya area.
-
-Police also stated that he had served as the Treasurer of the Public Health Inspectors’ Union (PHIU).
-
-◼️
-
-[Data](articles/6fa44acc.json)
-
-[Extended Data](ext_articles/6fa44acc.ext.json)
-
----
-
-### Sri Lanka central bank salary hikes show lack of accountability for its actions
-
-*2024-02-26 08:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-salary-hikes-show-lack-of-accountability-for-its-actions-152064/) · `en`
-
-ECONOMYNEXT – The steep salary hikes of Sri Lanka’s central bank after the inflation the agency itself created, has drawn public and legislators’ ire, but the deeper problem is that it is yet another sign of the lack of accountability in the new monetary law.
-
-Some legislators are upset that the Parliament’s control of public finances has been usurped by the ‘independent’ central bank.
-
-But Sri Lanka’s central bank has a history of topping up pensions also to cover for inflation  – whether low or high  – while giving low interest loans for staff.
-
-This is questionable because unlike other SOEs, the central bank itself is responsible for cutting rates and driving up inflation and interest rates to stabilize the currency after blowing a hole in the balance of payments.
-
-The practice of transferring billions to defined-benefit pension staff funds when inflation and interest rates are down, can perhaps be excused as a reward for not triggering monetary instability.
-
-...
-
-[Data](articles/e4e96f25.json)
-
-[Extended Data](ext_articles/e4e96f25.ext.json)
 
 ---

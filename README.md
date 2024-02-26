@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 15:17:20**
+As of **2024-02-26 15:32:58**
 
 ## Newspaper Stats
 
-*Scraped **9,345** Articles*
+*Scraped **9,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,81 @@ economynextcom | 469
 dailyftlk | 492
 islandlk | 495
 adalk | 788
-adaderanalk | 1,127
+adaderanalk | 1,129
 tamilmirrorlk | 1,151
 virakesarilk | 1,270
-dailymirrorlk | 1,404
+dailymirrorlk | 1,407
 adaderanasinhalalk | 1,413
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,344 (100.0%) of 9,345 articles have been extended.
+9,345 (99.9%) of 9,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### පලස්තීන අගමැති ඉල්ලා අස්වෙයි
+### Plastics account for 10 percent of waste collected by local authorities
+
+*2024-02-26 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plastics-account-for-10-percent-of-waste-collected-by-local-authorities/108-277735) · `en`
+
+Colombo, Feb 26 (Daily Mirror) - Plastic wastes account for about 10 percent of the waste collected by local authorities, out of which about 70 percent is packaging plastic such as single-use plastic (SUP) shopping bags (40%) and lunch sheets (10%), according to a survey conducted by the Japan International Cooperation Agency (JICA).
+
+JICA conducted a survey through “Project for Strengthening Plastic Management Capacity” launched in September 2023 on the current situation of plastic waste management, which was not grasped in the past. The main findings of the survey so far are summarized as below, while the survey will continue with more samples to improve its accuracy.
+
+...
+
+[Data](articles/a7868b72.json)
+
+---
+
+### Palestinian Prime Minister resigns
 
 *2024-02-26 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193839) · `si`
 
-පලස්තීන බටහිර ඉවුරේ පාලනය හිමිකරගෙන සිටි අගමැති  Mohammad Shtayyeh ගේ රජය ඉල්ලා අස්වී ඇති බව විදෙස් මාධ්‍ය පවසයි.
+The government of the Prime Minister Mohammad Shtayee has resigned the Prime Minister Mohammad Shtayyeh, who was controlled by the Palestinian west.
 
-ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවූ අගමැති  Mohammad Shtayyeh පැවසුවේ තමා ජනාධිපති  මාමුද් අබ්බාස් ට සිය ඉල්ලා අස්වීමේ ලිපිය ලබාදුන් බවයි.
+Prime Minister Mohammad Shtayehi said he gave his resignation letter to President Mamud Abbas.
 
 ◼️
 
 [Data](articles/dadcfb01.json)
+
+[Extended Data](ext_articles/dadcfb01.ext.json)
+
+---
+
+### Sri Lanka exporters to maintain king coconut prices at Rs 2,000
+
+*2024-02-26 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-exporters-to-maintain-king-coconut-prices-at-Rs-2-000/108-277736) · `en`
+
+Colombo, Feb 26 (Daily Mirror) - In a move to bolster Sri Lanka's position as a leading exporter of king coconuts, exporters have agreed to uphold prices at 2000 rupees per fruit, announced Minister of Agriculture and Plantation Industry, Mahinda Amaraweera.
+
+The decision came amidst plans to expand king coconut cultivation, with the inauguration of the second king coconut cultivation village near Murutawela Raluwa village.
+
+The inauguration ceremony, presided over by Minister Mahinda Amaraweera, marked the establishment of the second king coconut cultivation village, following the success of the first village in Pahala Muruthawela last year. The initiative aims to meet the growing demand for Sri Lankan king coconuts, particularly in the United Arab Emirates and other international markets.
+
+...
+
+[Data](articles/72eec5f9.json)
+
+---
+
+### Palestinian Prime Minister submits resignation to President Abbas
+
+*2024-02-26 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97542/palestinian-prime-minister-submits-resignation-to-president-abbas) · `en`
+
+Palestinian Prime Minister Mohammed Shtayyeh says his government is resigning, in a move that could open the door to U.S.-backed reforms in the Palestinian Authority.
+
+President Mahmoud Abbas must still decide whether he accepts Shtayyeh and his government’s resignation, tendered Monday. But the move signals a willingness by the Western-backed Palestinian leadership to accept shake-up that might usher in reforms seen as necessary to revitalize the Palestinian Authority.
+
+The U.S. wants a reformed Palestinian Authority to govern Gaza once the war is over. But many obstacles remain to making that vision a reality.
+
+◼️
+
+[Data](articles/bae48d7f.json)
 
 ---
 
@@ -83,6 +131,24 @@ The driver of the bus was arrested by the police and the accident was in a CCTV 
 [Data](articles/e9aa8a95.json)
 
 [Extended Data](ext_articles/e9aa8a95.ext.json)
+
+---
+
+### Hotline launched for ‘Ururmaya’ freehold land title registration
+
+*2024-02-26 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97541/hotline-launched-for-ururmaya-freehold-land-title-registration) · `en`
+
+A hotline number has been established for the public to access the freehold rights of their land, thereby realizing the objectives of the ’Urumaya’ national program, the President’s Media Division (PMD) reported.
+
+Accordingly, individuals are encouraged to register their requests by contacting the President’s Office, ”Urumaya” National Operations Secretariat, via hotline number 1908 or telephone numbers 0114 354600 / 0114 354601, available from 8:30 am to 8:30 pm daily.
+
+Additionally, applicants can utilize the Digital Application Form at www.tinyurl.com/urumaya to meet their requirements conveniently.
+
+The proposal to grant unconditional freehold ownership of lands allocated to farmers and low-income earners, as outlined in the Land Development Ordinance No. 19 of 1935, is a standout feature of the 2024 budget, the PMD stated.
+
+...
+
+[Data](articles/2ee5b935.json)
 
 ---
 
@@ -471,6 +537,24 @@ Meanwhile, measures are also afoot to appoint a two-member committee of expert d
 [Data](articles/bb2e8a1c.json)
 
 [Extended Data](ext_articles/bb2e8a1c.ext.json)
+
+---
+
+### US airman sets himself on fire outside Israeli embassy in Washington
+
+*2024-02-26 11:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/US-airman-sets-himself-on-fire-outside-Israeli-embassy-in-Washington/107-277733) · `en`
+
+WASHINGTON, Feb 25 (Reuters) - A U.S. military service member set himself on fire, in an apparent act of protest against the war in Gaza, outside the Israeli Embassy in Washington on Sunday afternoon, authorities said.
+
+The man was transported to an area hospital after the fire was put out by U.S. Secret Service officers, DC Fire and EMS posted online. The man remains in critical condition, a Metropolitan Police Department spokesperson said Sunday afternoon. An Air Force spokesperson confirmed that the incident involved a active duty airman.
+
+"I will no longer be complicit in genocide," said the man, wearing military fatigues, in a video he broadcasted live over the internet, according to the New York Times.
+
+He then doused himself in a clear liquid and set himself on fire, screaming "Free Palestine," the Times reported.
+
+...
+
+[Data](articles/0cbcf452.json)
 
 ---
 
@@ -1923,103 +2007,5 @@ Sri Lanka is celebrating 76 years of independence this year, and the country is 
 [Data](articles/c88e4ffd.json)
 
 [Extended Data](ext_articles/c88e4ffd.ext.json)
-
----
-
-### Ranil Wickremesinghe will field a non -party candidate in the presidential election -UNP. Former MP Ravi Karunanayake
-
-*2024-02-26 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177284) · `ta`
-
-We are set to form a comprehensive alliance in the presidential election in October. Former United National Party (UNP) parliamentarian Ravi Karunanayake said that Ranil Wickremesinghe would field a non -party candidate.
-
-He was speaking at a press conference held in Colombo on Sunday (25).
-
-In the current economic crisis of the country, a single party cannot be able to recover the country. Everyone's cooperation is essential. So we have to form a coalition to unite all parties that can work for the people in the upcoming presidential election in October.. Related actions are currently underway. Ranil Wickremesinghe will field a non -party candidate in that alliance.
-
-...
-
-[Data](articles/42811ae5.json)
-
-[Extended Data](ext_articles/42811ae5.ext.json)
-
----
-
-### Opposition Leader Sajith Premadasa meets Malwathu and Asgiriya Peeta Mahanayaka Thera
-
-*2024-02-26 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177283) · `ta`
-
-Opposition Leader Sajith Premadasa on Sunday (25) in KandyHe inquired and got blessings for his future political journey.
-
-The only challenge we have is to recover the country from this bankruptcy
-
-Without responding to the issues put forward by the United People's Power, other women -led community in the country, with the bankruptcy of the country, is working to provide answers and solutions to the plight of the country in the country.. While many women have forgotten, the opposition leader said that the charter of women has been prepared in 2019, but its extension was yesterday.
-
-The biggest challenge at this time is to eradicate poverty and increase the economic development rate and how to make information technology dreams come true.. Implementing economic growth to benefit everyone is challenging. Opposition leader Sajith Premadasa said the challenges of other parties would not be harmful to him.
-
-...
-
-[Data](articles/a771e7eb.json)
-
-[Extended Data](ext_articles/a771e7eb.ext.json)
-
----
-
-### Horse Racing Tournament at Nuwara Eliya Horse Racing
-
-*2024-02-26 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177282) · `ta`
-
-The Royal Tape Club was held on Saturday (24) by the "Royal Tape" club on the advice of Sri Lanka's Sports Minister Harin Benorno to increase the arrival of foreign tourists.
-
-Four tournaments were held on Saturday (24) at the Nuwara Eliya Horse Racing Tournament.
-
-In the first and second round of the event, P. Vikraman, a horse rider, won the competition on behalf of the horse racing owners of Asaranga and Prabha Jayaratne.
-
-At the same time, L. Ravikumar, and B.. S Gaviraj was also a success.
-
-It is noteworthy that the two contestants participated in the competition on behalf of the owner of Mr. Edward's horse race.
-
-In Nuwara Eliya, the horse racing competition, which was held in Nuwara Eliya before the upcoming April, participated in all four rounds.
-
-The event was attended by foreign passengers and many dignitaries.
-
-◼️
-
-[Data](articles/0d3b5065.json)
-
-[Extended Data](ext_articles/0d3b5065.ext.json)
-
----
-
-### Heatwaves and Dry Spell Warnings but no Remedial Alternatives - EDITORIAL
-
-*2024-02-26 01:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Heatwaves-and-Dry-Spell-Warnings-but-no-Remedial-Alternatives-EDITORIAL/172-277681) · `en`
-
-Sri Lanka is presently caught up in the middle of a heatwave. The Department of Meteorology had forecast the present spell of dry weather some months earlier. As is usual in our country, other than a few media outlets making passing mention of the forecast, neither the government nor the private sector has made plans to mitigate or counter the effects of the present spell of dry weather.
-
-Even worse, the Meteorology Department authorities too are sending out mixed signals regarding the effects of the ‘heatwave’. On one hand, it warns the public to take protective measures by limiting exposure to the sun, recommends greater intake of liquids (water), etc, while at the same time claiming present conditions are merely statistics on a Heat Index.
-
-...
-
-[Data](articles/28b2184f.json)
-
-[Extended Data](ext_articles/28b2184f.ext.json)
-
----
-
-### Navalny Died Trying to Politicise the Russians
-
-*2024-02-26 01:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Navalny-Died-Trying-to-Politicise-the-Russians/172-277680) · `en`
-
-The sudden, mysterious death of Aleksei Navalny, the charismatic Russian Opposition Leader imprisoned on trumped up charges, came as a shock to many. It’s not totally surprising, however, given the long list of Russians killed by gunmen or by poisoning over the past decade. They all have one thing in common, running afoul of the Kremlin (which is Vladimir Putin) for one reason or another.
-
-The shadowy Yevgeny Prigozhin, Head of the Wagner Mercenary Group (with close ties to Putin) who led an armed rebellion against Putin from Ukraine in June 2023, died in a plane crash with top associates in August 2023.
-
-Little noticed was the murder of Maksim Kuzminov, a Russian helicopter pilot who defected from the fighting in Ukraine. He was shot dead in February this year near Alicante in Spain. Spanish intelligence services accused the Kremlin of orchestrating the killing.
-
-...
-
-[Data](articles/1a583a35.json)
-
-[Extended Data](ext_articles/1a583a35.ext.json)
 
 ---

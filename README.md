@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 09:17:40**
+As of **2024-02-26 09:33:15**
 
 ## Newspaper Stats
 
-*Scraped **9,278** Articles*
+*Scraped **9,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ dailyftlk | 492
 islandlk | 494
 adalk | 777
 adaderanalk | 1,120
-tamilmirrorlk | 1,143
+tamilmirrorlk | 1,145
 virakesarilk | 1,259
 dailymirrorlk | 1,391
-adaderanasinhalalk | 1,401
+adaderanasinhalalk | 1,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,278 (100.0%) of 9,278 articles have been extended.
+9,278 (100.0%) of 9,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### බංග්ලාදේශයේ වනඅලීන්ට අධිකරණයෙන් පිහිටක්
+
+*2024-02-26 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193828) · `si`
+
+වනඅලි ඇතුන් හීලෑ කරමින් ඔවුන්ව වහල්භාවයේ තබා ගැනීම තහනම් කරමින් බංගලාදේශයේ මහාධිකරණය විසින් නියෝගයක් ලබාදී තිබේ.
+
+බංගලාදේශයේ දැඩි ලෙස වඳවී යාමේ තර්ජනයට ලක්ව ඇති සත්ත්වයෙකු ලෙස වනඅලි ඇතුන් නම් කර ඇත.
+
+බංගලාදේශයේ මේ වන විට සිටින අලි ඇතුන් සංඛ්‍යාව 200ක් වන අතර එයින් අඩක් පමණ හීලෑ අලි ඇතුන් බව සඳහන් වේ.
+
+හීලෑ අලි ඇතුන් සඳහා බලපත්‍ර හිමි ඇතැම් පිරිස් එම අවසරය අවභාවිතා කරමින් එම සතුන් සිඟමන් යැදීමට, සර්කස් හෝ වීථී සංදර්ශන සඳහා යොදාගැනීම සහ දර ඇදීම වැනි බර ඇදීමේ වැඩ සඳහා යොදා ගැනීම දැඩි ලෙස සිදුවන බව සඳහන් වේ.
+
+එබැවින් එම බලපත්‍ර අවලංගු කිරීමට ද අධිකරණය නියෝග කර ඇති බව විදෙස් මාධ්‍ය සඳහන් කර තිබේ.
+
+බොහෝ විට අලි පැටවුන් මවගෙන් වෙන් කර මාස ගණන් විලංගු දමා වධ හිංසා පමුණුවා හීලෑ කර ඇති බැවින් එම අලි ඇතුන් පුනරුත්ථාපනය කිරීමට බලාපොරොත්තු වන බව ද විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/ad66c3df.json)
+
+---
+
+### 20 வீதத்திற்கும் மேலாக குறைக்கப்படும் மின் கட்டணம்
+
+*2024-02-26 08:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-வீதத்திற்கும்-மேலாக-குறைக்கப்படும்-மின்-கட்டணம்/175-333812) · `ta`
+
+மின் கட்டணத்தை இருபது வீதத்துக்கும் மேல் குறைக்க வேண்டும் என பாராளுமன்ற மேற்பார்வைக் குழு பொதுப் பயன்பாடுகள் ஆணைக்குழுவுக்குப் பரிந்துரை செய்துள்ளது.
+
+தற்போதுள்ள சூழ்நிலையின் அடிப்படையில் மின் கட்டணத்தை 33 வீதத்தால் குறைக்க முடியும் என  ஆணைக்குழுவிடம் சுட்டிக்காட்டியுள்ளது.
+
+எனினும் மின் கட்டணத்தை 18 வீதத்தால் குறைக்க ஆணைக்குழுவிடம் மின்சார சபை முன்மொழிந்துள்ளது
+
+மின்சார வாரியத்தின் 18 விகிதம் மற்றும் உண்மையில் குறைக்கக்கூடிய விகிதம் ஆகியவற்றைக் கருத்தில் கொண்டு, 20 விகிதத்திற்கும் மேலாக கட்டணங்களைக் குறைக்க குழு பரிந்துரைத்துள்ளது.
+
+மேலும், துண்டிக்கப்பட்ட பிறகு மீண்டும் மின் இணைப்பை ஏற்படுத்த 3000 ரூபாய் கட்டணத்தை 1500 ரூபாயாக குறைக்கவும் குழு ஆணையத்திற்கு பரிந்துரை செய்துள்ளது.
+
+இந்த பரிந்துரைகளை ஆணைக்குழு ஏற்றுக்கொண்டதாக குழுவின் தலைவரான பாராளுமன்ற உறுப்பினர் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/797c24d7.json)
+
+---
 
 ### New suspicion of death patients
 
@@ -115,6 +159,24 @@ It is noteworthy that only monthly and special poojas were approved in the templ
 [Data](articles/44fb5e35.json)
 
 [Extended Data](ext_articles/44fb5e35.ext.json)
+
+---
+
+### யாழ்.கோவில்களுக்கு செல்ல இராணுவம் அனுமதி
+
+*2024-02-26 08:07:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-கோவில்களுக்கு-செல்ல-இராணுவம்-அனுமதி/71-333810) · `ta`
+
+யாழ்ப்பாணத்தில் பாதுகாப்புப் படைத் தலைமையகத்திற்கு உட்பட்ட அதியுயர் பாதுகாப்பு வலயத்திற்குள் அமைந்துள்ள ஏழு இந்து கோவில்களுக்கு பொதுமக்கள் செல்வதற்கு அனுமதி வழங்கப்பட்டுள்ளதாக இலங்கை இராணுவம் அறிவித்துள்ளது.
+
+இந்த முடிவின் கீழ், கடுவன் முத்துமாரி அம்மன் கோவில், வசாவிளான் மணம்பிறை கோவில், விசாவிளான் சிவன் கோவில், வசாவிளான் நாக கோவில், பலாலி ராஜ ராஜேஸ்வரி கோவில், பலாலி நாக தம்பிலான் கோவில் மற்றும் பலாலி சக்திவேலி முருகன் கோவில் ஆகியவற்றில் வாராந்திர பூஜை மற்றும் பிற சடங்குகளில் பொதுமக்கள் பங்கேற்க அனுமதிக்கப்படுவார்கள். .
+
+கோவில் அறங்காவலர்கள் மற்றும் சிவில் அமைப்புகளின் பல கோரிக்கைகளுக்கு இணங்க இந்த முடிவு எடுக்கப்பட்டுள்ளதாக ராணுவம் தெரிவித்துள்ளது.
+
+முன்பு இந்த கோவில் வளாகத்தில் மாதாந்திர மற்றும் சிறப்பு பூஜைகளுக்கு மட்டுமே அனுமதி வழங்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a3f55c42.json)
 
 ---
 
@@ -1975,67 +2037,5 @@ Although the first day of the 5-year-old Moon is an interruption of his family.
 [Data](articles/01c7e77d.json)
 
 [Extended Data](ext_articles/01c7e77d.ext.json)
-
----
-
-### Protest during a Agricultural Exhibition of Paris Capital Exhibition
-
-*2024-02-25 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193805) · `si`
-
-Paris in France has collapsed on the annual agricultural exhibition of the capital of the Paradas in the country.
-
-Foreign media reports that the protesters had to stringe the security forces to control the protesters.
-
-The foreign media has said that there was a warm quality.
-
-French security personnel had to take to prevent farmers to prevent farmers' entry.
-
-Foreign media reports that clashes between the two sides.
-
-Farmers in France are protesting, asking for their income, including their income, and enhance investment in agriculture.
-
-Farmers who protested against the resignation of the French President Ekanuel McConon.
-
-It is reported that a group of Rs.
-
-◼️
-
-[Data](articles/9c65010f.json)
-
-[Extended Data](ext_articles/9c65010f.ext.json)
-
----
-
-### Central Bank explains about increased salary
-
-*2024-02-25 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193804) · `si`
-
-The Central Bank said in a statement that several MPs have paid attention to the comments made by several MPs regarding the increase in salaries of Central Bank employees.
-
-It is said that the salary increase was carried out in accordance with the Trade Unions and Agreement Agreement with the approval of the Central Bank of Sri Lanka.
-
-The statement made by a Governor of the Central Bank, a central bank's letter to the President, has written to the Government Minister has written to the Government Minister asking for its writing to explain the matter.
-
-Once the occasion was received, the Central Bank will be prepared to educate Members of Parliament.
-
-◼️
-
-[Data](articles/ce2558f8.json)
-
-[Extended Data](ext_articles/ce2558f8.ext.json)
-
----
-
-### Counter-protest in Pitipana…
-
-*2024-02-25 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Counter-protest-in-Pitipana/110-277672) · `en`
-
-A counter-protest was held in Negombo today in response to allegations that the fisheries harbour in Pitipana has been taken over by the Archdiocese of Colombo. Demonstrators accused the opposing group of spreading falsehoods and claimed that the decision by the Archdiocese of Colombo is correct. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/3ba06f73.json)
-
-[Extended Data](ext_articles/3ba06f73.ext.json)
 
 ---

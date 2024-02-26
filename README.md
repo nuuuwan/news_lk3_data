@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 23:17:28**
+As of **2024-02-26 23:33:03**
 
 ## Newspaper Stats
 
-*Scraped **9,425** Articles*
+*Scraped **9,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 469
 dailyftlk | 493
 islandlk | 495
 adalk | 799
-adaderanalk | 1,136
+adaderanalk | 1,139
 tamilmirrorlk | 1,157
 virakesarilk | 1,287
 dailymirrorlk | 1,422
@@ -26,27 +26,69 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,424 (100.0%) of 9,425 articles have been extended.
+9,425 (100.0%) of 9,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### ගෝඨාභය වෙනුවෙන් පෙනීසිටින්නේ නෑ - නීතිපති
+### Sweden to join NATO in historic move as Hungary ratifies bid
+
+*2024-02-26 23:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97552/sweden-to-join-nato-in-historic-move-as-hungary-ratifies-bid) · `en`
+
+Sweden’s NATO accession was approved by Hungary’s parliament Monday, clearing the last hurdle before the historic step by the Nordic country whose neutrality lasted through two world wars and the simmering conflict of the Cold War.
+
+Hungary’s vote ended months of delays to complete Sweden’s security policy shift and followed a visit by Swedish Prime Minister Ulf Kristersson on Friday during which the two countries signed an arms deal.
+
+Sweden’s NATO membership was supported by 188 lawmakers in Hungarian parliament, with 6 against and no abstentions.
+
+Hungarian Prime Minister Viktor Orban’s government has faced pressure from NATO allies to fall in line and seal Sweden’s accession to the alliance.
+
+“Finally it is done, Sweden is the 32nd member of the alliance, and this way NATO has become stronger,” Agnes Vadai, a lawmaker of the opposition party Democratic Coalition (DK) told parliament.
+
+...
+
+[Data](articles/282da193.json)
+
+---
+
+### Not perceived for Gotabhaya - Attorney General
 
 *2024-02-26 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193857) · `si`
 
-පෙත්සම් කිහිපයකට අදාළව හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා වෙනුවෙන් පෙනී සිටීමක් නොකරන බවට නීතිපතිවරයා අද ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
+The Attorney General has informed the Supreme Court not to appear on behalf of former President Gotabhaya Rajapaksa in several petitions.
 
-2022 වසරේ අප්‍රේල් මස 01 වනදා අරගලය පැවැති අවස්ථාවේදී හදිසි නීතිය පනවා ඇදිරි නීතිය ප්‍රකාශයට පත් කොට සමාජ මාධ්‍ය තහනම පනවමින් නිකුත් කරනු ලැබූ ගැසට් නිවේදනය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා එම පෙත්සම් ගොනුකර තිබුණි.
+When the struggle was held on April 1 in April 1, the Petitions had been filed as a declaration that the gazette notified the gazette notification issued by the Gazette Notification of the Gazette Notification issued by the Gazette Notification issued by the Gazette Notification issued by the Gazette Notification issued by the Gazette Notification.
 
-හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා විසින් හදිසි නීති රෙගුලාසි ප්‍රකාශයට පත් කරමින් නිකුත් කළ ගැසට් නිවේදනය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය ඇතුළු පිරිසක් ගොනු කළ පෙත්සම් 06 ක් ඊයේ කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජේෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා මෙම දැනුම්දීම සිදුකර ඇත.
+Attorney-at-Law Shaminda, who appeared on behalf of the Attorney General by the Gazette Notification of former President Gotabhaya RajapakseMr. Wickrema has been made.
 
-මෙම පෙත්සම් අද ප්‍රීති පද්මන් සූරසේන, ගාමිණී අමරසේකර සහ ශිරාන් ගුණරත්න යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+These petitions were called before the Supreme Court Bench comprised of Journalist Surasena, Gamini Amarasekera and Shiran Gunaratne.
 
 ◼️
 
 [Data](articles/2a09da11.json)
+
+[Extended Data](ext_articles/2a09da11.ext.json)
+
+---
+
+### Constitutional Council didn’t approve IGP’s appointment – Sajith
+
+*2024-02-26 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97551/constitutional-council-didnt-approve-igps-appointment-sajith) · `en`
+
+Opposition Leader Sajith Premadasa claims that the Constitutional Council (CC) did not approve the appointment of Deshabandu Tennakoon as the new Inspector General of Police (IGP) and charged that the country’s Constitution is being blatantly violated for the second time.
+
+In a post on ‘X’, formerly known as Twitter, he said that during the meeting of the Constitutional Council, four members had voted in favour of Tennakoon as the new IGP, two voted against it while the other 02 had abstained.
+
+He added that at least 05 votes are required for a decision and that the Speaker has a casting vote only in case of a tie.
+
+“4/2 is not a tie! Constitution is being blatantly violated for the second time. Shame on you speaker!” he tweeted.
+
+The President’s Media Divion confirmed that Senior DIG and Acting IGP Deshabandu Tennakoon was appointed as the 36th IGP of Sri Lanka on Monday (26).
+
+...
+
+[Data](articles/3c44c6c6.json)
 
 ---
 
@@ -67,6 +109,22 @@ Tamil farmers are constantly demanding the removal of the Sinhalese farmers who 
 [Data](articles/aeb1f292.json)
 
 [Extended Data](ext_articles/aeb1f292.ext.json)
+
+---
+
+### No plans to increase water tariffs this year - Minister Jeevan
+
+*2024-02-26 21:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97550/no-plans-to-increase-water-tariffs-this-year-minister-jeevan) · `en`
+
+Minister of Water Supply and Estate Infrastructure Development, Jeevan Thondaman, emphasized that addressing the challenges encountered by the upcountry Tamil community should extend beyond mere daily wages.
+
+He underscored the importance of enhancing their quality of life by addressing various facets such as housing, land, education, health, and infrastructure.
+
+During a press conference held at the Presidential Media Center today (26), under the theme “Collective path to a stable country,” Minister Thondaman remarked on the unnecessary nature of Memorandums of Understanding (MoUs) signed by certain political parties, purportedly aimed at resolving the issues faced by the upcountry Tamil populace. He stressed that genuine solutions to these issues do not necessitate MoUs.
+
+...
+
+[Data](articles/fd08beab.json)
 
 ---
 
@@ -1933,65 +1991,5 @@ Accordingly, United Petroleum Australia incorporated a company in Sri Lanka unde
 [Data](articles/c45c6276.json)
 
 [Extended Data](ext_articles/c45c6276.ext.json)
-
----
-
-### Doctors suspect chemical used for dialysis caused series of deaths at Kurunegala Hospital
-
-*2024-02-26 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97537/doctors-suspect-chemical-used-for-dialysis-caused-series-of-deaths-at-kurunegala-hospital) · `en`
-
-Doctors of the Kurunegala Teaching Hospital suspect that the recent deaths of several dialysis patients was due to a chemical used for the treatment.
-
-The dialysis unit of the hospital was temporarily closed on 23 February, after a series of patient deaths, attributed to a suspected infection at the time, were reported since January this year.
-
-While an investigation was previously conducted at the institutional level to determine if the fatalities were a result of an infection caused by the germs that entered the bloodstream or the chemicals administered during the dialysis procedure, the Ministry of Health also appointed a 5-member committee of experts to look into the matter at the ministerial level.
-
-Meanwhile, measures are also afoot to appoint a two-member committee of expert doctors specializing in blood and blood transfusion procedures, Health Secretary Dr. Palitha Maheepala said.
-
-...
-
-[Data](articles/bb2e8a1c.json)
-
-[Extended Data](ext_articles/bb2e8a1c.ext.json)
-
----
-
-### US airman sets himself on fire outside Israeli embassy in Washington
-
-*2024-02-26 11:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/US-airman-sets-himself-on-fire-outside-Israeli-embassy-in-Washington/107-277733) · `en`
-
-WASHINGTON, Feb 25 (Reuters) - A U.S. military service member set himself on fire, in an apparent act of protest against the war in Gaza, outside the Israeli Embassy in Washington on Sunday afternoon, authorities said.
-
-The man was transported to an area hospital after the fire was put out by U.S. Secret Service officers, DC Fire and EMS posted online. The man remains in critical condition, a Metropolitan Police Department spokesperson said Sunday afternoon. An Air Force spokesperson confirmed that the incident involved a active duty airman.
-
-"I will no longer be complicit in genocide," said the man, wearing military fatigues, in a video he broadcasted live over the internet, according to the New York Times.
-
-He then doused himself in a clear liquid and set himself on fire, screaming "Free Palestine," the Times reported.
-
-...
-
-[Data](articles/0cbcf452.json)
-
-[Extended Data](ext_articles/0cbcf452.ext.json)
-
----
-
-### US airman sets himself on fire outside Israeli embassy in Washington
-
-*2024-02-26 11:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-airman-sets-himself-on-fire-outside-Israeli-embassy-in-Washington/108-277733) · `en`
-
-WASHINGTON, Feb 25 (Reuters) - A U.S. military service member set himself on fire, in an apparent act of protest against the war in Gaza, outside the Israeli Embassy in Washington on Sunday afternoon, authorities said.
-
-The man was transported to an area hospital after the fire was put out by U.S. Secret Service officers, DC Fire and EMS posted online. The man remains in critical condition, a Metropolitan Police Department spokesperson said Sunday afternoon. An Air Force spokesperson confirmed that the incident involved a active duty airman.
-
-"I will no longer be complicit in genocide," said the man, wearing military fatigues, in a video he broadcasted live over the internet, according to the New York Times.
-
-He then doused himself in a clear liquid and set himself on fire, screaming "Free Palestine," the Times reported.
-
-...
-
-[Data](articles/bd4cb655.json)
-
-[Extended Data](ext_articles/bd4cb655.ext.json)
 
 ---

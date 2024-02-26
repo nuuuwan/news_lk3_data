@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 20:02:40**
+As of **2024-02-26 20:17:34**
 
 ## Newspaper Stats
 
-*Scraped **9,403** Articles*
+*Scraped **9,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,136
 tamilmirrorlk | 1,156
 virakesarilk | 1,283
 dailymirrorlk | 1,414
-adaderanasinhalalk | 1,425
+adaderanasinhalalk | 1,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,403 (100.0%) of 9,403 articles have been extended.
+9,403 (100.0%) of 9,404 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -117,6 +117,20 @@ He had been appointed as the Acting IGP on November 29, 2023.
 [Data](articles/7d606a32.json)
 
 [Extended Data](ext_articles/7d606a32.ext.json)
+
+---
+
+### දේශබන්දු තෙන්නකෝන් පොලිස්පති ධුරයට
+
+*2024-02-26 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193853) · `si`
+
+මෙරට 36 වැනි පොලිස්පතිවරයා ලෙස වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාව පත්කර තිබේ.
+
+මීට සුළු මොහොතකට පෙර ඒ මහතා අදාළ පත්වීමේ ලිපිය ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගෙන් ලබාගෙන තිබේ.
+
+◼️
+
+[Data](articles/0e515bb3.json)
 
 ---
 
@@ -1989,27 +2003,5 @@ He is due to be produced before the Mahara Magistrate's Court today (26).
 [Data](articles/daf3345f.json)
 
 [Extended Data](ext_articles/daf3345f.ext.json)
-
----
-
-### An American Airman takes up on the body
-
-*2024-02-26 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193830) · `si`
-
-The Israeli Embassy in the Washington, in the United States, has revealed information about the person who burned his body in front of his body.
-
-The victim was burnt to its body yesterday (25), protesting to war operations in Gaza.
-
-He has been identified as an American Air Force person and his condition is serious.
-
-Shout with the "Release Palestine," the man had set fire to the body and set fire to the body.
-
-The American intelligence officers near the embassy were hospitalized.
-
-◼️
-
-[Data](articles/95525233.json)
-
-[Extended Data](ext_articles/95525233.ext.json)
 
 ---

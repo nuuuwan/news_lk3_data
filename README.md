@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 22:33:02**
+As of **2024-02-26 22:49:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,429
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,422 (100.0%) of 9,423 articles have been extended.
+9,423 (100.0%) of 9,423 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,21 +58,25 @@ The relevant appointment letter was presented to the Presidential Secretariat at
 
 ---
 
-### டிசம்பரில் அங்குரார்ப்பண லங்கா ரி10 லீக் கிரிக்கெட்
+### In December
 
 *2024-02-26 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177378) · `ta`
 
-அங்குரார்ப்பண லங்கா ரி10 லீக் கிரிக்கெட் இந்த வருடம் டிசம்பர் 12ஆம் திகதியிலிருந்து 22ஆம் திகதிவரை அரங்கேற்றப்படவுள்ளது.
+The inaugural Lanka T10 league cricket will be held from December 12 to the 22nd of December this year.
 
-எனினும் குறிப்பிட்ட காலப்பகுதியில் சர்வதேச போட்டிகள் நடைபெறாததால் அக் காலப் பகுதி இப் போட்டியை நடத்த பொருத்தமான காலமாக அமையும் என ஸ்ரீலங்கா கிரிக்கெட் கருதுகிறது.
+However, Sri Lanka Cricket considers that it will be appropriate to hold the match as the international competition is not held over a period of time.
 
-ஸ்ரீலங்கா கிரிக்கெட்டினால் வருடாந்தம் நடத்தப்படும் பல்வேறு கிரிக்கெட் போட்டிகளில் புதிதாக இணைக்கப்பட்டுள்ள லங்கா ரி10 லீக் கிரிக்கெட் போட்டியில் இலங்கையின் தேசிய நட்சத்திர கிரிக்கெட் வீரர்களுடன் சர்வதேச கிரிக்கெட் வீரர்களும் பங்குபற்றி கலக்கவுள்ளனர்.
+International cricketers will also participate in Sri Lanka's national star cricketers in the newly added Sri Lanka Cricket Tournament in various cricket matches of Sri Lanka Cricket.
 
-இலங்கையில் முன்னேறிவரும் இளம் வீரர்களுக்கும் இந்தப் போட்டிகயில் பங்குபற்ற வாய்ப்பு கிடைப்பதுடன் சர்வதேச வீரர்களிடம் இருந்து அவர்களுக்கு சிறந்த அனுபவங்களைப் பெற்றுக்கொள்ளக்கூடியதாக இருக்கும்.
+Young players in Sri Lanka will have the opportunity to participate in the competition and have great experience from international players.
+
+'I am hoping that the Lanka R10 league cricket match will be a great success. It will also help to further enhance the skills of the Sri Lankan cricket game. While the tournament is attracting cricket enthusiasts, the competition will be the driving force for this form to be popular around the world, ”said Shammi Silva, president of Sri Lanka Cricket.
 
 ...
 
 [Data](articles/de35e533.json)
+
+[Extended Data](ext_articles/de35e533.ext.json)
 
 ---
 

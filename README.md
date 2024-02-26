@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 18:32:51**
+As of **2024-02-26 18:51:10**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 1,425
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,386 (100.0%) of 9,388 articles have been extended.
+9,388 (100.0%) of 9,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### කැබිනට් මණ්ඩලයෙන් විශේෂ තීරණයක්
+### Special decision from Cabinet
 
 *2024-02-26 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193851) · `si`
 
-පරාටේ නීතිය ක්‍රියාත්මක වීම අත්හිටුවීමට කැබිනට් මණ්ඩලය තීරණය කර තිබේ.
+The cabinet has decided to suspend the Parata law implementing.
 
-ඒ අනුව වැඩිදුරටත් එහිදී තීරණය කර ඇත්තේ 2024 දෙසැම්බර් මස 15 වනදා දක්වා පරාටේ නීතිය ක්‍රියාත්මක වීම අත්හිටුවීමටය.
+It has been decided to suspend the Parata law until December 15, 2024.
 
-අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා සහ කර්මාන්ත අමාත්‍ය රමේෂ් පතිරණ මහතා විසින් කළ ඉල්ලීමකට අනුව මුදල් ඇමති ලෙස ජනපති විසින් ඉදිරිපත් කළ එම යෝජනාවට කැබිනට් අනුමැතිය හිමිව ඇත.
+The proposal made by the President of the Minister Wijayines Rajapaksa and the Minister of Justice Minister Wijayines Rajapaksa and the Minister of Industry Minister Ramesh Pathirana has approved the Cabinet approval.
 
 ◼️
 
 [Data](articles/5cb22661.json)
+
+[Extended Data](ext_articles/5cb22661.ext.json)
 
 ---
 
@@ -820,21 +822,23 @@ The proposal to grant unconditional freehold ownership of lands allocated to far
 
 ---
 
-### සජිත් පාසලට දුන්න රු. 100000 හොරු අරන්
+### Sajith paid to school. 100000 thieves
 
 *2024-02-26 13:49:47* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-පාසලට-දුන්න-රු--100000-හොරු-අරන්/11-408285) · `si`
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අවිස්සාවේල්ල  පුවක්පිටිය දකුණ කනිෂ්ඨ විද්‍යාලයට පරිත්‍යාග කරන ලද රුපියල් ලක්ෂයක (100000/=) මුදල කාර්යාලය බිඳ සොරාගෙන ඇතැයි අවිස්සාවේල්ල පොලිසිය කියයි.
+Opposition Leader Sajith Premadasa has taken steps to the Avissawella Puwakpitiya South, police said.
 
-ඉකුත් 23 වෙනි දින  විපක්ෂ නායකවරයා සක්වල වැඩසටහන යටතේ එම විද්‍යාලයට පැමිණි අවස්ථාවේදී   මෙම මුදල පරිත්‍යාග කර තිබූ බව පොලිසිය සඳහන් කරයි.
+The sum of the money was donated when the Opposition Leader arrived at the Sakwala program on the 23rd.
 
-කාර්යාලයේ ඉදිරිපස දොර කඩා  ඇතුළු වූ කිසියම් පුද්ගලයෙකු  එහි තිබූ සියලුම කබඩ් වල දොරවල් කඩා අනතුරුව  පරිත්‍යාග කර තිබූ මෙම මුදල් සොරාගෙන ගොස් ඇති බව විදුහල්පතිනි එච් එන් ගීතා කුමාරි මහත්මිය  පොලිසියට කරන ලද පැමිණිල්ලේ සඳහන් වේ.
+Priority complaint states that the money had been dropped in the front door of the office and donated the doors of all its cupboards, Mrs.
 
-ඊයේ  (25) සිසු දරු දැරියන් සමඟ  පන්ති කාමර සැකසීම සඳහා විද්‍යාලයට පැමිණි අවස්ථාවේදී කාර්යාලයේ දොර කඩා තිබෙන අන්දම දැක ඇතැයි පොලිසිය සඳහන් කරයි. අවිස්සාවේල්ල පොලිසිය පරීක්ෂණ පවත්වයි.
+The police have seen the door of the office when he arrived at the college yesterday (25) to prepare classrooms with students yesterday.Avissawella police are conducting further investigations.
 
 ◼️
 
 [Data](articles/0a328bbb.json)
+
+[Extended Data](ext_articles/0a328bbb.ext.json)
 
 ---
 

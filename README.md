@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 02:49:45**
+As of **2024-02-27 03:02:41**
 
 ## Newspaper Stats
 
-*Scraped **9,460** Articles*
+*Scraped **9,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 504
 adalk | 799
 adaderanalk | 1,139
 tamilmirrorlk | 1,158
-virakesarilk | 1,292
+virakesarilk | 1,294
 dailymirrorlk | 1,425
 adaderanasinhalalk | 1,430
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,460 (100.0%) of 9,460 articles have been extended.
+9,460 (100.0%) of 9,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### யாழில் திருமணமான சில மாதங்களில் ஆணொருவர் தவறான முடிவெடுத்து உயிர்மாய்ப்பு!
+
+*2024-02-27 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177386) · `ta`
+
+தவறான முடிவெடுத்து ஆணொருவர் ஞாயிற்றுக்கிழமை (25) இரவு தூக்கிட்டு உயிர்மாய்த்துள்ளார். வைத்தியசாலை வீதி மானிப்பாய் பகுதியைச் சேர்ந்த சிவாயநம சுயாஸ்கரன் (வயது 31) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவருக்கு ஆறு மாதங்களுக்கு முன்னர் திருமணம் இடம்பெற்ற நிலையில் தற்போது விவாகரத்து வழக்கு நடைபெற்று வருகிறது. இதனால் ஏற்பட்ட மன அழுத்தம் காரணமாக இவ்வாறு தவறான முடிவெடுத்து உயிர்மாய்த்துள்ளளார்.
+
+இவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார்.
+
+◼️
+
+[Data](articles/9a2d12dc.json)
+
+---
+
+### ஆடு சென்று பயிர்களை அழித்ததால் 14 வயது சிறுவனை கடுமையாக தாக்கிய தோட்ட  உரிமையாளர் ; கிளிநொச்சியில் சம்பவம்
+
+*2024-02-27 02:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177385) · `ta`
+
+கிளிநொச்சி திருவையாறு பகுதியில் தோட்டத்துக்குள் ஆடு சென்று பயிர்களை அழித்ததாக தெரிவித்து தோட்டத்தின் உரிமையாளரால் அயல் வீட்டில் வசிக்கும் 14 வயது சிறுவனை தோட்டத்துக்குள் அழைத்துச் சென்று கடுமையாக தாக்கப்பட்டு உள்ளார்.
+
+கிளிநொச்சி திருவையாறு மூன்றாம் பகுதியில் உள்ள தனியார் ஒருவரின்  தோட்டத்துக்குள் அயல் வீட்டு ஆடு சென்று பயிர் அழிவை ஏற்படுத்தியதாக தோட்டத்து உரிமையாளர் ஆட்டின் உரிமையாளர் வீட்டுக்குச் சென்று அங்கிருந்த 14 வயது சிறுவனை அழைத்துச் சென்று தனது தோட்டத்துக்குள் வைத்து கடுமையாக தாக்கியுள்ளார்.
+
+குறித்த சம்பவமானது ஞாயிற்றுக்கிழமை (25) மாலை இடம்பெற்றுள்ளது. இவ்வாறு தாக்கப்பட்டு பாதிக்கப்பட்ட சிறுவன் காயமடைந்த நிலையில் கிளிநொச்சி பொலிஸ் நிலையத்தில் முறைப்பாடு ஒன்றையும் பதிவு செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/bb0ce886.json)
+
+---
 
 ### Died from Canada to breathe
 
@@ -1971,35 +2003,5 @@ JICA conducted a survey through “Project for Strengthening Plastic Management 
 [Data](articles/a7868b72.json)
 
 [Extended Data](ext_articles/a7868b72.ext.json)
-
----
-
-### Young man death without treatment
-
-*2024-02-26 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177337) · `ta`
-
-A few days ago, a dog was bite and was admitted to the Jaffna Teaching Hospital for treatment.
-
-◼️
-
-[Data](articles/c44fe626.json)
-
-[Extended Data](ext_articles/c44fe626.ext.json)
-
----
-
-### Palestinian Prime Minister resigns
-
-*2024-02-26 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193839) · `si`
-
-The government of the Prime Minister Mohammad Shtayee has resigned the Prime Minister Mohammad Shtayyeh, who was controlled by the Palestinian west.
-
-Prime Minister Mohammad Shtayehi said he gave his resignation letter to President Mamud Abbas.
-
-◼️
-
-[Data](articles/dadcfb01.json)
-
-[Extended Data](ext_articles/dadcfb01.ext.json)
 
 ---

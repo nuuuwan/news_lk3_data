@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 18:20:48**
+As of **2024-02-26 18:32:51**
 
 ## Newspaper Stats
 
-*Scraped **9,386** Articles*
+*Scraped **9,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,80 @@ newsfirstlk | 363
 economynextcom | 469
 dailyftlk | 492
 islandlk | 495
-adalk | 792
+adalk | 793
 adaderanalk | 1,132
 tamilmirrorlk | 1,153
 virakesarilk | 1,279
 dailymirrorlk | 1,414
-adaderanasinhalalk | 1,424
+adaderanasinhalalk | 1,425
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,382 (100.0%) of 9,386 articles have been extended.
+9,386 (100.0%) of 9,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
 
-### தமிதாவுக்கும் கணவருக்கும் அழைப்பாணை அனுப்ப விடுக்கப்பட்ட கோரிக்கை நீதிமன்றினால் நிராகரிப்பு!
+### කැබිනට් මණ්ඩලයෙන් විශේෂ තීරණයක්
+
+*2024-02-26 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193851) · `si`
+
+පරාටේ නීතිය ක්‍රියාත්මක වීම අත්හිටුවීමට කැබිනට් මණ්ඩලය තීරණය කර තිබේ.
+
+ඒ අනුව වැඩිදුරටත් එහිදී තීරණය කර ඇත්තේ 2024 දෙසැම්බර් මස 15 වනදා දක්වා පරාටේ නීතිය ක්‍රියාත්මක වීම අත්හිටුවීමටය.
+
+අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා සහ කර්මාන්ත අමාත්‍ය රමේෂ් පතිරණ මහතා විසින් කළ ඉල්ලීමකට අනුව මුදල් ඇමති ලෙස ජනපති විසින් ඉදිරිපත් කළ එම යෝජනාවට කැබිනට් අනුමැතිය හිමිව ඇත.
+
+◼️
+
+[Data](articles/5cb22661.json)
+
+---
+
+### Court rejected by court
 
 *2024-02-26 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177369) · `ta`
 
-தமிதா அபேரத்ன மற்றும் அவரது கணவர் ஆகியோருக்கு  அழைப்பாணை விடுக்குமாறு குற்றப் புலனாய்வு திணைக்களம் விடுத்த கோரிக்கையை கோட்டை நீதிவான் திலின கமகே நிராகரித்துள்ளார்.
+Fort Justice Thilina Kamage has rejected the request of the Criminal Investigation Department to invite Tamitha Abeyratne and her husband.
 
-கொரியாவுக்கு அனுப்புவதாகக் கூறி தமிதா அபேரத்னவும் அவரது கணவரும் 30 இலட்சம் ரூபாவுக்கும் அதிகமான பணத்தை மோசடி செய்துள்ளதாக குற்றப் புலனாய்வுப் பிரிவினர் நீதிமன்றில் அறிவித்துள்ளனர்.
+The Criminal Investigation Department (CID) has announced in court that Tamitha Abeyratne and her husband have defrauded more than Rs.
 
-இந்நிலையில், முறைப்பாடு தொடர்பில் விசாரணைக்கு வருமாறு பொலிஸார் விடுத்த அறிவித்தல் புறக்கணிக்கப்பட்டமையினால் நீதிமன்றில் ஆஜராகுமாறு அழைப்பாணை வழங்குமாறு குற்றப் புலனாய்வுப் பிரிவினர் நீதிமன்றத்தில் கோரிக்கை விடுத்திருந்தனர்.
+In this case, the Criminal Investigation Department (CID) had requested the court to summon the court to appear before the court as the police neglected the complaint.
 
-இவர்கள் இருவரும் சந்தேக நபர்களாக பெயரிடப்படாததால் நீதிமன்றத்தால் அழைப்பாணை பிறப்பிக்க முடியாது என கோட்டை நீதிவான் திலின கமகே தெரிவித்துள்ளார்.
+Fort Justice Dilina Kamage said the court could not issue a summons as the two were not named suspects.
 
 ◼️
 
 [Data](articles/3993c132.json)
 
+[Extended Data](ext_articles/3993c132.ext.json)
+
 ---
 
-### අපරාධ ගැන පොලීසියෙන් අලුත් වාර්තාවක්
+### New report on crimes
 
 *2024-02-26 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193850) · `si`
 
-ජනවාරි පළමුවනදා සිට මේ දක්වා කාලය තුළ මනුෂ්‍ය ඝාතන සම්බන්ධ සිදුවීම් වලින් 83 දෙනෙකු පමණ මියගොස් ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+According to the DIG Talduuwa, the DIG Talduuwa, said that about 83 incidents of murder have been killed in January to date.
 
-අද (26) මාධ්‍ය හමුකට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා ඒ බව සඳහන් කළේය.
+The Police Media Spokesperson said that participating in a media briefing today (26).
 
-මේ අතර ගෙවල් බිඳුම් දේපොළ සොරකම් කිරීමේ සිද්ධි 1,180ක් වාර්තා වී ඇති බවත් මංකොල්ලකෑම් 310ක් වාර්තා වන බවත් පොලිස් මාධ්‍ය ප්‍රකාශවරයා පැවසීය.
+Meanwhile, a total of 1,180 cases have been reported and 310 robbery has been reported.
 
-එහිදී පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පවසා සිටියේ අපරාධමය තත්ත්වය පාලනය කර ගැනීමට අවශ්‍ය කරන විවිධ ක්‍රියාමාර්ග පොලීසිය මේ වනවිට ගනිමින් සිටින බවය.
+The police spokesman said that the police are currently taking the various measures of the criminal situation.
 
-මේ අතර ජනවාරි පළමුවනදා සිට මේ දක්වා කාලය තුළ වෙඩිතැබීමේ සිදුවීම් 20ක් පමණ සිදුව ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+Meanwhile, about 20 shooting incidents have occurred in January to date, the police spokesman said.
 
-අදාළ වෙඩිතැබීමේ සිදුවීම්වලින් 10ක් පමණ සංවිධානාත්මක අපරාධකරුවන්ගේ මැදිහත්වීමන් සිදුව ඇති බවට අනාවරණය වී ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා මෙහිදී වැඩිදුරටත් පැවසීය.
+The Police Media Spokesperson has revealed that about 10 of the shooting incidents have been involved in organized criminal criminals.
 
 ◼️
 
 [Data](articles/81d56a0a.json)
+
+[Extended Data](ext_articles/81d56a0a.ext.json)
 
 ---
 
@@ -130,17 +150,21 @@ Representatives of SriLankan Airlines and its Chairman Ashok Pathirage told the 
 
 [Data](articles/718a383e.json)
 
+[Extended Data](ext_articles/718a383e.ext.json)
+
 ---
 
-### හින්දි සිනමාවේ සොඳුරු හඬ නිහඬ වෙයි
+### The hosting of hindi cinema is silenced
 
 *2024-02-26 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193849) · `si`
 
-හින්දි සිනමාවේ සුපිරි ගායන ශිල්පියෙකු වන පන්කජ් උදාස් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Foreign media reports that Punkage has died in Hindi cinema.
 
 ◼️
 
 [Data](articles/dd5b251c.json)
+
+[Extended Data](ext_articles/dd5b251c.ext.json)
 
 ---
 
@@ -793,6 +817,24 @@ The proposal to grant unconditional freehold ownership of lands allocated to far
 [Data](articles/2ee5b935.json)
 
 [Extended Data](ext_articles/2ee5b935.ext.json)
+
+---
+
+### සජිත් පාසලට දුන්න රු. 100000 හොරු අරන්
+
+*2024-02-26 13:49:47* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-පාසලට-දුන්න-රු--100000-හොරු-අරන්/11-408285) · `si`
+
+විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අවිස්සාවේල්ල  පුවක්පිටිය දකුණ කනිෂ්ඨ විද්‍යාලයට පරිත්‍යාග කරන ලද රුපියල් ලක්ෂයක (100000/=) මුදල කාර්යාලය බිඳ සොරාගෙන ඇතැයි අවිස්සාවේල්ල පොලිසිය කියයි.
+
+ඉකුත් 23 වෙනි දින  විපක්ෂ නායකවරයා සක්වල වැඩසටහන යටතේ එම විද්‍යාලයට පැමිණි අවස්ථාවේදී   මෙම මුදල පරිත්‍යාග කර තිබූ බව පොලිසිය සඳහන් කරයි.
+
+කාර්යාලයේ ඉදිරිපස දොර කඩා  ඇතුළු වූ කිසියම් පුද්ගලයෙකු  එහි තිබූ සියලුම කබඩ් වල දොරවල් කඩා අනතුරුව  පරිත්‍යාග කර තිබූ මෙම මුදල් සොරාගෙන ගොස් ඇති බව විදුහල්පතිනි එච් එන් ගීතා කුමාරි මහත්මිය  පොලිසියට කරන ලද පැමිණිල්ලේ සඳහන් වේ.
+
+ඊයේ  (25) සිසු දරු දැරියන් සමඟ  පන්ති කාමර සැකසීම සඳහා විද්‍යාලයට පැමිණි අවස්ථාවේදී කාර්යාලයේ දොර කඩා තිබෙන අන්දම දැක ඇතැයි පොලිසිය සඳහන් කරයි. අවිස්සාවේල්ල පොලිසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/0a328bbb.json)
 
 ---
 
@@ -1985,51 +2027,5 @@ The shooting was carried out by an unidentified person who was on a motorcycle a
 [Data](articles/b8eb655b.json)
 
 [Extended Data](ext_articles/b8eb655b.ext.json)
-
----
-
-### Registration for Korean exam online from today: SLBFE
-
-*2024-02-26 08:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Registration-for-Korean-exam-online-from-today-SLBFE/108-277704) · `en`
-
-Colombo, Feb 26 (Daily Mirror) - The Sri Lanka Foreign Employment Bureau (SLBFE) announced that the issuing of admissions for the Korean language test for 2024 will be held online only from February 26 to 29.
-
-Applicants are requested to visit the SLBFE official website, www.slbfe.lk for the registrations.
-
-The release of admission cards for the Korean language test to be held for 2024 too will be done online only from February 26 to 29.
-
-Registrations will be accepted for manufacturing, fishing, construction, shipbuilding, services 1 and services 2 categories.
-
-Applicants must fulfil the required qualifications to apply for the examination.
-
-◼️
-
-[Data](articles/b974882e.json)
-
-[Extended Data](ext_articles/b974882e.ext.json)
-
----
-
-### Court of court in Bangladesh
-
-*2024-02-26 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193828) · `si`
-
-The Bangladesh High Court has issued an order by tampering the wild elephants in exile.
-
-The wild elephants have been named as a severe extinction of severe extinction in Bangladesh.
-
-There are 200 elephants in Bangladesh, which is said to be tame elephants.
-
-Tame elephants are strictly used for circus or street shows, such as the use of the animals, such as circus or street shows, such as heavy bodies, and weight draws.
-
-Therefore, the court has ordered the cancellation of these licenses.
-
-Most of the elephants have been rehabilitated and tortured by the mother of elephants and tortured.
-
-◼️
-
-[Data](articles/ad66c3df.json)
-
-[Extended Data](ext_articles/ad66c3df.ext.json)
 
 ---

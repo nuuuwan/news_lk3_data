@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 00:33:08**
+As of **2024-02-27 00:47:42**
 
 ## Newspaper Stats
 
@@ -26,57 +26,77 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,430 (99.8%) of 9,445 articles have been extended.
+9,445 (100.0%) of 9,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### மத்திய வங்கி நாட்டு மக்களிடம் மன்னிப்பு கோர வேண்டும் - உதய கம்மன்பில
+### Central Bank should apologize to the people - Udaya Kammanpila
 
 *2024-02-27 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177382) · `ta`
 
-பொருளாதார நெருக்கடியிலிருந்து மீள்வதற்கு நாட்டு மக்கள் அர்ப்பணிக்க வேண்டும் என்று உபதேசம் வழங்கும் மத்திய வங்கியின் ஆளுநர் தான் சம்பள அதிகரிப்பு தொடர்பான யோசனையை மத்திய வங்கியின் நிதி சபைக்கு முன்வைத்துள்ளார். மத்திய வங்கியின் பணியாளர்கள் மாத்திரமல்ல ஒட்டுமொத்த மக்களும் பொருளாதார ரீதியில் பாதிக்கப்பட்டுள்ளார்கள் அவ்வாறாயின் அனைவருக்கும் சம்பளத்தை அதிகரிக்க வேண்டும்.முறையற்ற வகையில் செயற்படும் மத்திய வங்கி நாட்டு மக்களிடம் மன்னிப்பு கோர வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+The Governor of the Central Bank, who advocates the people to dedicate from the economic crisis, has put forward the idea of salary increase to the Central Bank Finance Council.. The Central Bank employees, but the entire population is economically affected, should increase the salary for all.
 
-கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் திங்கட்கிழமை (26) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at a media briefing held at the Bivithuru Hela Urumaya (JHU) office in Colombo on Monday (26).
+
+The salaries of the Central Bank, including the Governor of the Central Bank, have been increased by 70 per cent. The salaries of the Central Bank's employees have been increased by millions of rupees.Has presented to the congregation.
+
+The governor of the Central Bank must remember that the Central Bank's governor should remember that not only the employees of the central bank have been affected by the economic crisis.
+
+The Central Bank noted that the salaries of the people are not increased in their profits. The Central Bank has the right to make a decision on printing.
 
 ...
 
 [Data](articles/4a6f320e.json)
 
+[Extended Data](ext_articles/4a6f320e.ext.json)
+
 ---
 
 ### 2024-02-26 (Monday)
 
-### நிறைவேற்றதிகார பிரதமரின் கீழ் நாட்டை ஆட்சி செய்ய அரசாங்கம் சூழ்ச்சி - ஐக்கிய மக்கள் சக்தி
+### The government is maneuver to govern the country under the Prime Minister - United People's Power
 
 *2024-02-26 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177381) · `ta`
 
-நிறைவேற்றதிகார பிரதமரின் கீழ் நாட்டை ஆட்சி செய்வதே தற்போதைய அரசாங்கத்தின் திட்டமாகும். அதற்கு ஒருபோதும் ஐக்கிய மக்கள் இடமளிக்காது. சர்வசன வாக்கெடுப்பிற்கான அரசாங்கத்தின் சூழ்ச்சியை நாம் தோற்கடிப்போம் என்று பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்தார்.
+The current government's plan is to rule the country under the executive prime minister. The united people will never accommodate it. Parliamentarian Nalin Bandara said we would defeat the government's intrigue for the universal referendum.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் திங்கட்கிழமை (26) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated at a press conference held at the Opposition Leader's Office in Colombo on Monday (26).
 
-இவ்வாண்டு ஜனாதிபதித் தேர்தல் நடத்தப்பட வேண்டும். ஜனாதிபதி தேர்தலுக்கு மிகக் குறைந்த நாட்களே உள்ளன. தேர்தலை நடத்தாமலிருப்பதற்கு முயற்சிக்க வேண்டாம் என்பதை அரசாங்கத்துக்கு கூறிக் கொள்கின்றோம். ஜனாதிபதி முறைமையை நீக்குதல் என்று பாரிய பதாதையை காட்சிப்படுத்திக் கொண்டிருப்பதே தற்போது அரசாங்கம் பின்பற்றும் தந்திரமாகும்.
+The presidential election should be held this year. There are very few days for the presidential election. We are telling the government not to attempt to hold elections. The trick of the government is currently following a massive post to eliminate the presidential system.
 
-இந்த தீர்மானத்தை பாராளுமன்றத்தில் சமர்ப்பித்து, மூன்றில் இரண்டு பெரும்பான்மையுடன் அதனை நிறைவேற்றி அதன் பின்னர் சர்வசன வாக்கெடுப்புக்கு செல்வதே அரசாங்கத்தின் திட்டமாகும். இந்த தந்திரத்தின் ஊடாக மேலும் ஒரு வருடத்துக்கு தேர்தலைக் காலம் தாழ்த்துவதே அரசாங்கத்தின் சூழ்ச்சியாகும்.
+The government's plan is to submit this resolution in Parliament and pass it with a two -thirds majority.. The government's intrigue is to delay the election for a further year through this trick.
 
 ...
 
 [Data](articles/b0d8e603.json)
 
+[Extended Data](ext_articles/b0d8e603.ext.json)
+
 ---
 
-### சர்வதேச நாணய நிதியத்தின் பரிந்துரைகளை செயற்படுத்த சகல அரசியல் கட்சிகளின் ஒத்துழைப்பும் அத்தியாவசியமானது - பாட்டலி சம்பிக்க ரணவக்க
+### The cooperation of all political parties to implement the recommendations of the International Monetary Fund is essential - Patali Champika Ranawaka
 
 *2024-02-26 23:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177380) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் பரிந்துரைகளைச் செயற்படுத்த சகல அரசியல் கட்சிகளின் ஒத்துழைப்பும் அத்தியாவசியமானது. யார் ஆட்சிக்கு வந்தாலும் வெளிநாட்டு கடன்கள் மறுசீரமைக்கப்பட வேண்டும். சர்வதேச நாணய நிதியத்துடனான செயற்பாட்டில் தனித்து செயற்பட வேண்டாம்,எதிர்க்கட்சிகளையும் இணைத்துக் கொள்ளுமாறு ஜனாதிபதியிடம் வலியுறுத்தியுள்ளோம்.ஜனாதிபதி தேர்தல் மற்றும் பொதுத்தேர்தலை இலக்காகக் கொண்டு பரந்துப்பட்ட அரசியல் கூட்டணியை அமைப்பதற்குப் பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ளோம் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+The cooperation of all political parties to implement the recommendations of the International Monetary Fund is essential. Whoever comes to power must be reproduced by foreign loans. We have urged the president not to work with the IMF and to join the opposition parties.
 
-ஐக்கிய குடியரசு முன்னணி கடந்த 14 ஆம் திகதி வெளியிட்ட ' தேசியத்துக்காக ஒன்றிணைவோம்' என்ற கொள்கை பிரகடனத்தை வெளியிட்டது.பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க  தலைமையிலான ஐக்கிய குடியரசு முன்னணிக்கும், ஸ்ரீ லங்கா சுதந்திர கட்சி மற்றும் ஐக்கிய தேசியக் கட்சிக்கும் இடையிலான சந்திப்பு அண்மையில் கொழும்பில் இடம்பெற்றது.
+The United Republic of India (UNP) has issued a policy announcement on the 14th of last month.
+
+The meeting between the United Republic of India and the United People's Power was held on Monday at the United People's Power Headquarters in Colombo.
+
+United People's Power General Secretary Ranjith Bandara, National Organizer Tissa Attanayake, Parliamentarian Gayantha Karunathilaka, Former Parliamentarian Mujibur Rahman
+
+Following the meeting, the UNP leader and parliamentarian Patali Champika Ranawaka issued a statement on the theme 'Let's Unite for the National' on the 14th.
+
+We have invited all political parties except the Sri Lanka PA to participate in the general agenda to address the economic crisis.. Everyone attended.
 
 ...
 
 [Data](articles/6831c989.json)
+
+[Extended Data](ext_articles/6831c989.ext.json)
 
 ---
 
@@ -313,6 +333,8 @@ The island nation’s Supreme Court on December 14 ordered Tennakoon when he was
 ...
 
 [Data](articles/5220de25.json)
+
+[Extended Data](ext_articles/5220de25.ext.json)
 
 ---
 
@@ -750,6 +772,8 @@ The formula has been developed with the help of the Asian Development Bank. The 
 
 [Data](articles/87cecd5c.json)
 
+[Extended Data](ext_articles/87cecd5c.ext.json)
+
 ---
 
 ### Rs. Two policemen arrested for bribe of 10000
@@ -877,6 +901,8 @@ A bond maturing on 01.07.2032 closed at 12.50/90 percent from 12.50/13.30 percen
 ◼️
 
 [Data](articles/2db39203.json)
+
+[Extended Data](ext_articles/2db39203.ext.json)
 
 ---
 
@@ -1280,6 +1306,8 @@ Positive contributors to the indices in the day included Sampath Bank Plc (up at
 
 [Data](articles/930d9ef6.json)
 
+[Extended Data](ext_articles/930d9ef6.ext.json)
+
 ---
 
 ### Opposition Leader’s donation stolen from primary school
@@ -1376,6 +1404,8 @@ Minister Le Minh Hoan said that “bilateral agricultural trade between Vietnam 
 
 [Data](articles/bdb283c5.json)
 
+[Extended Data](ext_articles/bdb283c5.ext.json)
+
 ---
 
 ### Bus topples a bus with school children
@@ -1413,6 +1443,8 @@ Among these is a proposal that reads “Revisiting and reducing the President’
 ...
 
 [Data](articles/121febaf.json)
+
+[Extended Data](ext_articles/121febaf.ext.json)
 
 ---
 
@@ -1576,6 +1608,8 @@ Speaking at an event on Sunday February 25, the minister said the ministry has i
 
 [Data](articles/5f3a2f27.json)
 
+[Extended Data](ext_articles/5f3a2f27.ext.json)
+
 ---
 
 ### Sri Lanka central bank officers’ union issues statement on salary hike
@@ -1605,6 +1639,8 @@ j)	Due to being a closed service, promotional opportunities are limited
 ...
 
 [Data](articles/d8e81dde.json)
+
+[Extended Data](ext_articles/d8e81dde.ext.json)
 
 ---
 
@@ -1767,6 +1803,8 @@ Apart from SJB leader and Opposition Leader Sajith Premadasa, Chief Opposition M
 ...
 
 [Data](articles/75e0fb51.json)
+
+[Extended Data](ext_articles/75e0fb51.ext.json)
 
 ---
 

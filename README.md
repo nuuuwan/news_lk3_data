@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 10:50:43**
+As of **2024-02-26 11:02:32**
 
 ## Newspaper Stats
 
-*Scraped **9,295** Articles*
+*Scraped **9,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 1,121
 tamilmirrorlk | 1,147
 virakesarilk | 1,261
 dailymirrorlk | 1,396
-adaderanasinhalalk | 1,403
+adaderanasinhalalk | 1,405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,295 (100.0%) of 9,295 articles have been extended.
+9,297 (100.0%) of 9,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Convener of the People's Union of Kelaniya arrested CID
+
+*2024-02-26 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193831) · `si`
+
+The convener of the People's Union of the University of Kelaniya has been arrested by the Public Complaints Division of the Criminal Investigation Department.
+
+It was in connection with a new torture incident in the university premises.
+
+The Kelum Ringanayake has been avoided while he has been arrested in attempting to go abroad at the Katunayake airport.
+
+He is due to be produced before the Mahara Magistrate's Court today (26).
+
+◼️
+
+[Data](articles/daf3345f.json)
+
+[Extended Data](ext_articles/daf3345f.ext.json)
+
+---
+
+### An American Airman takes up on the body
+
+*2024-02-26 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193830) · `si`
+
+The Israeli Embassy in the Washington, in the United States, has revealed information about the person who burned his body in front of his body.
+
+The victim was burnt to its body yesterday (25), protesting to war operations in Gaza.
+
+He has been identified as an American Air Force person and his condition is serious.
+
+Shout with the "Release Palestine," the man had set fire to the body and set fire to the body.
+
+The American intelligence officers near the embassy were hospitalized.
+
+◼️
+
+[Data](articles/95525233.json)
+
+[Extended Data](ext_articles/95525233.ext.json)
+
+---
 
 ### President highlights plans to link Hambantota to Myanmar port
 
@@ -1987,53 +2029,5 @@ Accordingly, the selection process of selecting the recipients and the following
 [Data](articles/b36457b7.json)
 
 [Extended Data](ext_articles/b36457b7.ext.json)
-
----
-
-### This is how the school is reduced
-
-*2024-02-25 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193810) · `si`
-
-Minister of Education Susil Premajayantha says that steps will be taken to reduce the subject of the 6th grade 6.
-
-The Minister was speaking at a function held in Warapitiya yesterday.
-
-Meanwhile, the Minister further stated that the remaining three subjects will include the opportunity to study its unique industrial enterprises in each of the subjects.
-
-Also, all teachers who visit the school should be well equipped with IT knowledge and have implemented a large program to train teachers with the computer resource centers established in one area.
-
-The Minister also explained that the teachers will be provided with computer training and to prepare a group of zonal levels for software development and repairs.
-
-Meanwhile, the Minister has said that the students who sat the GCE A / L examination will take effect from March 5, the Minister said.
-
-The training program will be implemented using 300 centers across the country and the students who appeared this year will be planned for the students.
-
-...
-
-[Data](articles/16ca9c3d.json)
-
-[Extended Data](ext_articles/16ca9c3d.ext.json)
-
----
-
-### Dilshan's citizenship in Australia
-
-*2024-02-25 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193809) · `si`
-
-Former Sri Lanka Gelkadhand Tillakaratne Dilshan has been owned by Australian citizenship.
-
-This is stated that the Jason WOOD, a Member of Parliament, has made a note at its official Facebook account.
-
-The note, parliamentarian Jason WOOD shows the event to offer citizenship.
-
-He added that Dilshan will also be conducted by Dilshan to play cricket in the future.
-
-Meanwhile, the MP has also stated about the residents of Dilshan's daughter and joined her cricket.
-
-◼️
-
-[Data](articles/8056db83.json)
-
-[Extended Data](ext_articles/8056db83.ext.json)
 
 ---

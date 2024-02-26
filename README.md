@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 20:17:34**
+As of **2024-02-26 20:33:13**
 
 ## Newspaper Stats
 
-*Scraped **9,404** Articles*
+*Scraped **9,407** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 95
-bbccomsinhala | 113
+bbccomsinhala | 114
 dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 469
@@ -19,18 +19,30 @@ adalk | 796
 adaderanalk | 1,136
 tamilmirrorlk | 1,156
 virakesarilk | 1,283
-dailymirrorlk | 1,414
+dailymirrorlk | 1,416
 adaderanasinhalalk | 1,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,403 (100.0%) of 9,404 articles have been extended.
+9,404 (100.0%) of 9,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### Deshabandu Tennakoon appointed as IGP
+
+*2024-02-26 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deshabandu-Tennakoon-appointed-as-IGP/108-277747) · `en`
+
+Colombo, Feb. 26 (Daily Mirror) - President Ranil Wickremesinghe has appointed Deshabandu Tennakoon as the IGP in accordance with the provisions of the Constitution, the President's Media Division (PMD) said.
+
+◼️
+
+[Data](articles/6e091473.json)
+
+---
 
 ### Deshand Tennakoon's assignment as Inspector General of Police
 
@@ -120,17 +132,19 @@ He had been appointed as the Acting IGP on November 29, 2023.
 
 ---
 
-### දේශබන්දු තෙන්නකෝන් පොලිස්පති ධුරයට
+### Deshabandu Tennakoon appointed IGP
 
 *2024-02-26 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193853) · `si`
 
-මෙරට 36 වැනි පොලිස්පතිවරයා ලෙස වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාව පත්කර තිබේ.
+Acting IGP, acting as the IGP in Sri Lanka, has been appointed as Deshabandu Tennakoon.
 
-මීට සුළු මොහොතකට පෙර ඒ මහතා අදාළ පත්වීමේ ලිපිය ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගෙන් ලබාගෙන තිබේ.
+A few moments ago, he had received the appointment letter from the Presidential Secretary Saman Ekanayake.
 
 ◼️
 
 [Data](articles/0e515bb3.json)
+
+[Extended Data](ext_articles/0e515bb3.ext.json)
 
 ---
 
@@ -207,6 +221,24 @@ His comments came after Israeli Prime Minister Benjamin Netanyahu on Sunday reit
 [Data](articles/f70c878a.json)
 
 [Extended Data](ext_articles/f70c878a.ext.json)
+
+---
+
+### Circular issued on essential precautions for schoolchildren during dry weather
+
+*2024-02-26 18:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Circular-issued-on-essential-precautions-for-schoolchildren-during-dry-weather/108-277748) · `en`
+
+Colombo, Feb 26 9Daily Mirror) - The Education Ministry has released a circular outlining necessary precautions for schoolchildren amidst the prevailing dry weather conditions nationwide.
+
+The circular includes a set of guidelines concerning potential heat-related issues such as heat cramps, heat exhaustion and heat stroke, along with precautions aimed at minimising their effects.
+
+Additionally, the Ministry has issued instructions regarding outdoor activities, advising the limitation of sports and other outdoor activities during periods of high temperatures.
+
+School authorities have also been urged to ensure that students receive necessary and regular water breaks during this period.
+
+◼️
+
+[Data](articles/2baff130.json)
 
 ---
 
@@ -1965,43 +1997,5 @@ As logging and farming encroach on elephant territory, young animals are capture
 [Data](articles/00565419.json)
 
 [Extended Data](ext_articles/00565419.ext.json)
-
----
-
-### Bore. Minister of Justice to set up a tourism court in Kokkadicholai
-
-*2024-02-26 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177296) · `ta`
-
-At the invitation of Sivanesathurai Chandrakanthan, the Minister of Rural Roads Development and District Development Committee, has made a two -day visit to the Batticaloa district.
-
-Accordingly, the Minister of Justice, who was on a field visit to the Kokkattikollai area of Manmunai southwest, gave permission to set up a new tourist court in Kokkadichcholai "Gramakkodu" and directed the relevant authorities to take action.
-
-Rural Roads Development Minister and Chairman of Batticaloa District Development Committee, Sivanesathurai Chandrakanthan, Justice Minister Anuradha Jayaratne, Justice Secretary MN RanasinghePrashanthan, party youth secretary Shanmugalingam Sureskumar and many other members of the party were present.
-
-◼️
-
-[Data](articles/d6e2796b.json)
-
-[Extended Data](ext_articles/d6e2796b.ext.json)
-
----
-
-### Convener of the People's Union of Kelaniya arrested CID
-
-*2024-02-26 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193831) · `si`
-
-The convener of the People's Union of the University of Kelaniya has been arrested by the Public Complaints Division of the Criminal Investigation Department.
-
-It was in connection with a new torture incident in the university premises.
-
-The Kelum Ringanayake has been avoided while he has been arrested in attempting to go abroad at the Katunayake airport.
-
-He is due to be produced before the Mahara Magistrate's Court today (26).
-
-◼️
-
-[Data](articles/daf3345f.json)
-
-[Extended Data](ext_articles/daf3345f.ext.json)
 
 ---

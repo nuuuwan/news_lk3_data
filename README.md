@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-26 07:53:02**
+As of **2024-02-26 08:04:35**
 
 ## Newspaper Stats
 
-*Scraped **9,262** Articles*
+*Scraped **9,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ dailyftlk | 492
 islandlk | 494
 adalk | 776
 adaderanalk | 1,118
-tamilmirrorlk | 1,136
+tamilmirrorlk | 1,139
 virakesarilk | 1,259
 dailymirrorlk | 1,390
-adaderanasinhalalk | 1,396
+adaderanasinhalalk | 1,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,262 (100.0%) of 9,262 articles have been extended.
+9,262 (99.9%) of 9,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-26 (Monday)
+
+### දියේ ගිලී පාසල් දරුවෙක් මරුට
+
+*2024-02-26 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193824) · `si`
+
+ලිඳුල පොලිස් වසමේ නාගසේන ප්‍රදේශයේ ආග්‍රා ඔයේ දියනෑමට ගිය පිරිමි දරුවෙක් දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය සඳහන් කළේ, ඊයේ (25) තවත් පිරිමි දරුවන් 5 දෙනෙකු සමග මෙම දරුවා ද ඔයේ දියනෑමට ගොස් ඇති බවය.
+
+එහිදී සිසුවාගේ සිරුර ඔයේ ගැඹුරු වළක තිබී හමුවු බවට සිදුකළ විමර්ශනයේ දී අනාවරණය වී තිබේ.
+
+එලෙස මියගොස් ඇත්තේ අවුරුදු 16ක් වූ දිනුක ගමගේ නැමති නුවරඑළිය ප්‍රදේශයේ පදිංචි පාසල් සිසුවෙකි.
+
+◼️
+
+[Data](articles/ce7d36a9.json)
+
+---
+
+### ලෙල්ලමේ වෙඩිතැබීමට සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-02-26 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193823) · `si`
+
+මීගමුව පමුණුගම මාර්ගයේ ලෙල්ලම අසල දී පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පසුගිය අගෝස්තු මස 12වන දා වෙඩි තැබීම සිදුකළ තිබූ අතර ඒ සඳහා වෙඩික්කරුවන් පැමිණි යතුරුපැදිය ප්‍රවාහනය කර සඟවා තැබීමට ආධාර අනුබල දීම සම්බන්ධයෙන් මෙම සැකකරුවන් අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+
+ඔවුන් අවුරුදු 32 හා 40 යන වයස්වල පසුවන බදුවත්ත සහ අම්බලයාය යන ප්‍රදේශවල පදිංචිකරුවන් වේ.
+
+සැකකරුවන්ගෙන් සුදුකළ ප්‍රශ්න කිරීම්වලදී අපරාධකරුවන් පැමිණි යතුරුපැදිය ද මීගමුව කොට්ඨාස අපරාධ ඒකකයේ නිලධාරීන් විසින් සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/06b15350.json)
+
+---
 
 ### A change in the weather
 
@@ -49,6 +85,54 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/f93a1881.json)
 
 [Extended Data](ext_articles/f93a1881.ext.json)
+
+---
+
+### தேர்தல் செலவுகள் குறித்து அறிவிப்பு
+
+*2024-02-26 04:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவுகள்-குறித்து-அறிவிப்பு/175-333807) · `ta`
+
+தேர்தல் செலவுகள் ஒழுங்குமுறை சட்டம் தொடர்பில் அரசியல் கட்சிகளுக்கு அறிவிக்க தேசிய தேர்தல் ஆணைக்குழு தீர்மானித்துள்ளது.
+
+இது தொடர்பான விழிப்புணர்வு நடவடிக்கை எதிர்வரும் 27 மற்றும் மார்ச் 06 ஆம் திகதிகளில் நடைபெறவுள்ளதாக தேசிய தேர்தல் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க தெரிவித்துள்ளார்.
+
+தேர்தல் செலவுகள் ஒழுங்குமுறை சட்டத்தின்படி, தேர்தலுக்கு செலவிடப்படும் பணம் மட்டுப்படுத்தப்பட வேண்டுமெனவும்  அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/1d7b1383.json)
+
+---
+
+### அமைச்சர் டக்ளஸ் - இந்திய உயர்ஸ்தானிகர் சந்திப்பு
+
+*2024-02-26 04:30:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-டக்ளஸ்-இந்திய-உயர்ஸ்தானிகர்-சந்திப்பு/175-333806) · `ta`
+
+கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா மற்றும் இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா ஆகியோருக்கு இடையில் விசேட சந்திப்பொன்று இலங்கைக்கான இந்திய உயர்ஸ்தானிகராலயத்தில் நேற்று மாலை இடம்பெற்றுள்ளது.
+
+இதன்போது மீனவர் பிரச்சினை தொடர்பில் இந்தியா - இலங்கை இடையேயான ஆக்கபூர்வமான அணுகுமுறைகளை மேற்கொள்ள வேண்டும் என வலியுறுத்தப்பட்டது.
+
+இருதரப்பு மீனவர்களின் நலன்சார்ந்து மனிதாபிமான முறையில் மீனவர் பிரச்சினையை அணுகுமாறு இந்திய உயர்ஸ்தானிகர் இதன்போது வலியுறுத்தியுள்ளார். (a)
+
+◼️
+
+[Data](articles/7dc39e6f.json)
+
+---
+
+### நாட்டில் இன்று மழை
+
+*2024-02-26 04:23:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-இன்று-மழை/175-333805) · `ta`
+
+நாட்டின் சில பகுதிகளில் இன்று (26) மழை பெய்யக்கூடிய சாத்தியம் நிலவுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+இதன்படி, கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் மாத்தளை மற்றும் பொலன்னறுவை மாவட்டங்களிலும் மழை பெய்யக்கூடுமென தெரிவிக்கப்பட்டுள்ளது.
+
+அத்துடன், சபரகமுவ மாகாணத்திலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இரவு வேளைகளில் மழை பெய்யக்கூடுமெனவும் வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது. (a)
+
+◼️
+
+[Data](articles/2aa4e560.json)
 
 ---
 
@@ -1945,113 +2029,5 @@ The shop is taken to the Wilpattu National Park and released to the Wilpattu Nat
 [Data](articles/f32e3847.json)
 
 [Extended Data](ext_articles/f32e3847.ext.json)
-
----
-
-### Parents who flew away from the Balgudi
-
-*2024-02-25 12:28:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பால்குடி-மறவாத-சிசுவை-விட்டு-பறந்த-பெற்றோர்/76-333765) · `ta`
-
-The young couple, who was temporarily stayed, left the five -and -a -half -year -old fetus.. Kalaha police are investigating the incident. They left the garden home in Lulkandura, Kalaha.
-
-The young couple, who had come to Kalaha to temporarily stay from Batticaloa-Vaharai, has abandoned the baby.
-
-The young couple, with the help of another woman, came to live with the infant in the garden temporarily.. Investigations have been found that they have escaped secretly.
-
-The couple, who had taken a phone call to another person who identified, asked them to go abroad and give it to someone to raise the house where the child was in the house where they were staying.
-
-In this regard, the police rescued the infant after the information received by the police and took the Achisuu to the Kalaha Hospital.. Due to the lack of facilities for breast milk, they have been transferred to the Peradeniya Hospital.
-
-◼️
-
-[Data](articles/8388aa72.json)
-
-[Extended Data](ext_articles/8388aa72.ext.json)
-
----
-
-### Sri Lanka should be cautious about majority
-
-*2024-02-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177246) · `ta`
-
-Sri Lanka's External Affairs Minister Tarakapalasuriya has warned the majority of the majority of the devolution of power.
-
-He was speaking at a discussion which was held as part of the 2022 event of India's 2022 Risina Dialog 2024
-
-You know that Sri Lanka faced racism in the middle of the 1980s- before the racism, we spent 0.5 more and less than safety expenses.
-
-It increased to three percent in 1985 and increased to 5.9 percent in 1995 in ten years.
-
-In 1985, our safety cost became $ 188 million in 2008, it became $ 1.5 million.
-
-In the 1980-90s, our social development pointers were very good for other South Asian countries.
-
-As for Sri Lanka, we should be concerned about majorityism, despite all we believe in democracy.
-
-When the academic reform in Sri Lanka was carried out in the 1970s, it caused some communities to be discriminated against. This caused the community to carry arms.
-
-...
-
-[Data](articles/64bb9ed6.json)
-
-[Extended Data](ext_articles/64bb9ed6.ext.json)
-
----
-
-### A change in dry weather in the Eastern and Uva provinces
-
-*2024-02-25 12:19:23* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-හා-ඌව-පළාත්වල-වියළි-කාලගුණයේ-වෙනසක්/11-408260) · `si`
-
-The Department of Meteorology says that the dry weather conditions in the Eastern and Uva provinces will be expected of the dry weather conditions tomorrow (26).
-
-Accordingly, several showers will be in the East and Uduvila provinces and in the Matale and Polonnaruwa districts.
-
-Thundershowers will occur at the Western and Sabaragamuwa provinces, the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-◼️
-
-[Data](articles/2854beeb.json)
-
-[Extended Data](ext_articles/2854beeb.ext.json)
-
----
-
-### Demand from Dilantha Malagamuwa
-
-*2024-02-25 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193801) · `si`
-
-Two of Sri Lanka's proficient runners to participate in the European Motor race, Dilantha Malagamuwa and Ashan Silva are looking for lobeen.
-
-They are noted that they will cost about 3,500,000 euros per year.
-
-Two Sri Lankan veteran motor rides, Dilantha Malagamuwa and Ashan Silva is due to attend the GT 2 GT 2 GT 2.
-
-However, they have participated in a press conference held in Colombo that he would cost a lot of money to participate in the tournament.
-
-They have also asked Lulindha to spend about three hundred,000 euros per year.
-
-◼️
-
-[Data](articles/06a54f33.json)
-
-[Extended Data](ext_articles/06a54f33.ext.json)
-
----
-
-### Modi inaugurates India’s longest cable-stayed bridge in Gujarat
-
-*2024-02-25 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Modi-inaugurates-Indias-longest-cable-stayed-bridge-in-Gujarat/107-277670) · `en`
-
-NEW DELHI, Feb 25 (Times of India) - Prime Minister Narendra Modi recently inaugurated the Sudarshan Setu, a monumental cable-stayed bridge that spans approximately 2.32 km, connecting the Okha mainland to Beyt Dwarka in Gujarat. This bridge, formerly known as the 'Signature Bridge,' has been renamed Sudarshan Setu.
-
-Situated near the Okha port, Beyt Dwarka is an island about 30 km from Dwarka town, home to the famous Dwarkadhish temple dedicated to Lord Krishna.
-
-Referred to as India's longest cable-stayed bridge, Sudarshan Setu holds immense importance for both residents and pilgrims, especially those visiting the revered Dwarkadhish Temple. Prime Minister Modi, accompanied by Gujarat chief minister Bhupendra Patel, marked the inauguration as a momentous occasion for Gujarat's developmental journey.
-
-...
-
-[Data](articles/28e66c84.json)
-
-[Extended Data](ext_articles/28e66c84.ext.json)
 
 ---

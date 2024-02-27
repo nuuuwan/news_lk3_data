@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 10:33:02**
+As of **2024-02-27 10:50:39**
 
 ## Newspaper Stats
 
-*Scraped **9,510** Articles*
+*Scraped **9,511** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 1,144
 tamilmirrorlk | 1,168
 virakesarilk | 1,294
 dailymirrorlk | 1,432
-adaderanasinhalalk | 1,440
+adaderanasinhalalk | 1,441
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,508 (100.0%) of 9,510 articles have been extended.
+9,511 (100.0%) of 9,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Hamas Changes
+
+*2024-02-27 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193869) · `si`
+
+US President Jooring Joe Biden says that the Palestine is expected to be able to create a ceasefire at Monday.
+
+Israel and Hamas have joined the negotiations in Qatar, Foreign media said.
+
+The Israeli hostages hidden by Hamas is in harmony with a ceasefire.
+
+The Hamas agree to these discussions is considered a great victory.
+
+◼️
+
+[Data](articles/ce2f65be.json)
+
+[Extended Data](ext_articles/ce2f65be.ext.json)
+
+---
 
 ### Romania mulls agreement with Sri Lanka to avoid double taxation
 
@@ -52,19 +72,21 @@ Ambassador Arhire, expressing delight over the fourfold growth of bilateral trad
 
 ---
 
-### පොලිස්පති ශ්‍රේෂ්ඨාධිකරණයට පැමිණෙයි
+### IGP arrives in Supreme Court
 
 *2024-02-27 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193868) · `si`
 
-පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා මේ වනවිට කොළඹ උපරිමාධිකරණ සංකීර්ණයට පැමිණ සිටී.
+IGP Deshabandu Tennakoon has now arrived at the Colombo Court complex.
 
-නඩු විභාගයකට සහභාගි වීම සඳහා ඔහු ශ්‍රේෂ්ඨාධිකරණයට පැමිණ සිටින බව වාර්තා වේ.
+It is reported that he has come to the Supreme Court to attend a trial.
 
-පොලිස්පතිවරයාගේ පැමිණීම නිමිත්තෙන් උපරිමාධිකරණ සංකීර්ණ පරිශ්‍රයේ පොලිස් ආරක්ෂාව තර කර තිබේ.
+Police protection has been carried out at the superiority of the Superintendent to mark the arrival of the IGP.
 
 ◼️
 
 [Data](articles/3a41a9bb.json)
+
+[Extended Data](ext_articles/3a41a9bb.ext.json)
 
 ---
 
@@ -98,21 +120,23 @@ He said the government would reduce the profit from the government to 4% of the 
 
 ---
 
-### බර්කිනා ෆාසෝහි දේවස්ථානයක සිදුවූ වෙඩි තැබීමකින් 15ක් මරුට
+### 15 killed in Burkina Faso
 
 *2024-02-27 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193867) · `si`
 
-බර්කිනා ෆාසෝහි දේවස්ථානයක සිදුවූ වෙඩි තැබීමකින් පුද්ගලයින් 15 දෙනෙකු මියගොස් තිබේ.
+Fifteen persons were killed in a shooting incident in Belokina Faso.
 
-නැගෙනහිර නාටියාබෝනි ප්‍රදේශයේ දේවස්ථානයක මෙම වෙඩි තැබීම සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+The shooting had taken place in a church in the Natural area area, Eastern Province.
 
-දේවස්ථානයේ යාඥා සිදුවන අවස්ථාවේ මෙම ප්‍රහාරය එල්ල කර ඇති අතර ඉස්ලාමීය සටන්කාමීන් පිරිසක් විසින් ප්‍රහාරය එල්ල කර ඇති බවට අනාවරණය වී තිබේ.
+The attack was carried out at the time of the prayers of the church and has revealed that a group of Islamic militants were attacked.
 
-බර්කිනා ෆාසෝහි කතෝලික දේවස්ථානයකට ද පසුගියදා මෙවැනිම ප්‍රහාරයක් එල්ල වී තිබිණි.
+A Catholic church in Be Burkina Faso also recently launched a similar attack.
 
 ◼️
 
 [Data](articles/aa1e05b4.json)
+
+[Extended Data](ext_articles/aa1e05b4.ext.json)
 
 ---
 
@@ -1955,23 +1979,5 @@ The shooting took place while the youngest son was preparing to go for the first
 [Data](articles/7f94aed5.json)
 
 [Extended Data](ext_articles/7f94aed5.ext.json)
-
----
-
-### Opens three gates of the Ratkkanda Reservoir
-
-*2024-02-26 17:54:36* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-පිටවානේ-ගේට්ටු-තුනක්-විවෘත-කරයි/11-408288) · `si`
-
-Ulhiva Warana Jayasekara says that three gates of the reservoir of the reservoir will be opened at 0.1 am today due to the increase in the water levels in the reservoir of the water level.
-
-As a result, Ulhupitiya Ratakada, the people of the area, the people of the area, considers the attention of the people who are residentful.
-
-2023-2024 The gates of the reservoir have ended the reservoir, which has ended the reference to the sort of irrigation to the Mahaweli C region for the Mahaweli C zone.Ulhivarathkara Reservoir Reservoir Reservoir (SLBA) has said.
-
-◼️
-
-[Data](articles/808305c0.json)
-
-[Extended Data](ext_articles/808305c0.ext.json)
 
 ---

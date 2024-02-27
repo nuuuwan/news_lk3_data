@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 10:50:39**
+As of **2024-02-27 11:02:33**
 
 ## Newspaper Stats
 
-*Scraped **9,511** Articles*
+*Scraped **9,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 481
 dailyftlk | 504
 islandlk | 508
 adalk | 800
-adaderanalk | 1,144
+adaderanalk | 1,145
 tamilmirrorlk | 1,168
 virakesarilk | 1,294
 dailymirrorlk | 1,432
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,511 (100.0%) of 9,511 articles have been extended.
+9,511 (100.0%) of 9,512 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,22 @@ The Hamas agree to these discussions is considered a great victory.
 [Data](articles/ce2f65be.json)
 
 [Extended Data](ext_articles/ce2f65be.ext.json)
+
+---
+
+### University non-academic staff to launch two-day strike
+
+*2024-02-27 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97558/university-non-academic-staff-to-launch-two-day-strike) · `en`
+
+The non-academic staff members of state universities have decided to go on a two-day token strike over several demands including a salary hike.
+
+Accordingly, the strike will be held tomorrow (Feb.28) and the day after (Feb.29), University Trade Union Joint Committee’s Dhammika Priyantha said.
+
+The committee vowed to resort to a continuous trade union action in the event the respective authorities fail to address their issues within one week.
+
+◼️
+
+[Data](articles/e913b0cf.json)
 
 ---
 
@@ -1957,27 +1973,5 @@ State Minister of Finance Ranjith Siyambalapitiya had informed Parliament last w
 [Data](articles/cbdc261f.json)
 
 [Extended Data](ext_articles/cbdc261f.ext.json)
-
----
-
-### Investigations into the murder of Public Health Inspector Roshan Pushpakumara!
-
-*2024-02-26 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177371) · `ta`
-
-Public Health Inspector WD was shot dead on Monday (26). Police said Roshan Pushpakumara was murdered while preparing to send his youngest son for the first year.
-
-The father of the 51 -year -old children who worked as an administrative health inspector at the Karandeniya Health Medical Officer's office was shot dead.
-
-Elpitiya responded to Judge Vajira Ponnamperuma visited the scene and investigated.
-
-The wife of the murdered Pushpakumara is a teacher and she has gone to the school in Ella, Elpitiya.
-
-The shooting took place while the youngest son was preparing to go for the first year today, police said.
-
-◼️
-
-[Data](articles/7f94aed5.json)
-
-[Extended Data](ext_articles/7f94aed5.ext.json)
 
 ---

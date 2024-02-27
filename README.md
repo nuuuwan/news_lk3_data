@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 06:16:22**
+As of **2024-02-27 06:53:00**
 
 ## Newspaper Stats
 
-*Scraped **9,476** Articles*
+*Scraped **9,479** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 95
 bbccomsinhala | 114
-dbsjeyarajcom | 165
+dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 481
 dailyftlk | 504
 islandlk | 508
 adalk | 799
 adaderanalk | 1,139
-tamilmirrorlk | 1,159
+tamilmirrorlk | 1,160
 virakesarilk | 1,294
 dailymirrorlk | 1,425
-adaderanasinhalalk | 1,430
+adaderanasinhalalk | 1,431
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,463 (99.9%) of 9,476 articles have been extended.
+9,470 (99.9%) of 9,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-02-27 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193858) · `si`
+
+නුවරඑළිය, මාතලේ සහ පොළොන්නරුව දිස්ත්‍රික්කවල අද (27) දිනයේ විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, නැගෙනහිර සහ ඌව පළාත්වලත් අනුරාධපුර දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, ගාල්ල සහමාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, දකුණු, ඌව සහ නැගෙනහිර පළාත්වලත් විටින් විට හමන පැ.කි.මී. (30-40) පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/02dd6a6e.json)
+
+---
+
+### ருமேனியாவுடன் ஒப்பந்தத்தில் கைச்சாத்து
+
+*2024-02-27 04:26:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருமேனியாவுடன்-ஒப்பந்தத்தில்-கைச்சாத்து/175-333858) · `ta`
+
+இலங்கைக்கும் ருமேனியாவுக்கும் இடையில், இரட்டை வரி விதிப்பை தவிர்ப்பதற்கான ஒப்பந்தம் ஒன்றில் கைச்சாத்திடுவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+பிரதமர் தினேஷ் குணவர்தனவுக்கும், ருமேனிய தூதுவர் டொமினா ஸ்டெலுசாவுக்கும் இடையில் அலரி மாளிகையில் நேற்று இடம்பெற்ற சந்திப்பின் போது, இந்த தீர்மானம் எட்டப்பட்டுள்ளது.
+
+அதேநேரம், இருநாடுகளுக்கும் இடையில் கல்வி, விவசாயம், தொடருந்து மற்றும் தகவல் தொழிநுட்பம் ஆகிய துறைகளிலும் ஒத்துழைப்பதற்கும் தீர்மானிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/4d549b9c.json)
+
+---
 
 ### The student activist arrests
 
@@ -320,6 +356,8 @@ Specialist Consultant Paediatrician and Honorary Senior Fellow, Postgraduate Ins
 
 [Data](articles/bcf51f35.json)
 
+[Extended Data](ext_articles/bcf51f35.ext.json)
+
 ---
 
 ### Babu…the star
@@ -341,6 +379,8 @@ Babu, who is well known in the music industry as Montreal Babu, started his musi
 ...
 
 [Data](articles/eded0606.json)
+
+[Extended Data](ext_articles/eded0606.ext.json)
 
 ---
 
@@ -434,6 +474,8 @@ LinearSix, a pioneering force in the digital transformation of the financial ser
 
 [Data](articles/0cd6bdbb.json)
 
+[Extended Data](ext_articles/0cd6bdbb.ext.json)
+
 ---
 
 ### Deloitte South Asia’s Consulting leadership discuss blueprint for business transformation and growth
@@ -448,6 +490,8 @@ The Deloitte Consulting leadership in South Asia convened in Sri Lanka, marking 
 
 [Data](articles/e63cf51b.json)
 
+[Extended Data](ext_articles/e63cf51b.ext.json)
+
 ---
 
 ### JICA survey reveals national challenges on plastic waste management
@@ -461,6 +505,8 @@ JICA (Japan International Cooperation Agency) conducted a survey through “Proj
 ...
 
 [Data](articles/0274c889.json)
+
+[Extended Data](ext_articles/0274c889.ext.json)
 
 ---
 
@@ -517,6 +563,8 @@ Amid those developments, both indices moved downwards. The All- Share Price Inde
 ...
 
 [Data](articles/21a4909c.json)
+
+[Extended Data](ext_articles/21a4909c.ext.json)
 
 ---
 
@@ -1925,41 +1973,5 @@ The PA was set up in the mid-1990s as a temporary government pending Palestinian
 [Data](articles/e35fa523.json)
 
 [Extended Data](ext_articles/e35fa523.ext.json)
-
----
-
-### Burglary at Vietnam Embassy official’s house: Court issues open warrant on suspect
-
-*2024-02-26 15:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Burglary-at-Vietnam-Embassy-officials-house-Court-issues-open-warrant-on-suspect/108-277739) · `en`
-
-Colombo, Feb 26 (Daily Mirror) - The Colombo Chief Magistrate today issued an open warrant for the arrest of the main suspect allegedly involved in stealing over Rs. 1 million from a house in Ward Place, Colombo, where the administrative officer of the Vietnam Embassy resides.
-
-The suspect, Mohammed Niyas Mohamed Rikas, a resident of Deans Road in Maradana has been charged for committing this offence. However, the suspect was not present in court when the matter was taken up before Colombo Chief Magistrate Prasanna Alwis. The Chief Magistrate issued an open warrant against this suspect as he is evading court while the case is pending. The suspect had broken into the house on June 26, 2023, at around 3:30 a.m. and stole money.
-
-◼️
-
-[Data](articles/1018ffb3.json)
-
-[Extended Data](ext_articles/1018ffb3.ext.json)
-
----
-
-### Planetarium will be closed from tomorrow
-
-*2024-02-26 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193843) · `si`
-
-The Sri Lanka Planetarium has decided to close several days from tomorrow.
-
-Accordingly, the planetarium will be closed from tomorrow (27) to March 12.
-
-The public exhibition has been suspended for these days.
-
-The planetarium will be closed due to essential maintenance of projected machines in the planetarium.
-
-◼️
-
-[Data](articles/19f9ebc4.json)
-
-[Extended Data](ext_articles/19f9ebc4.ext.json)
 
 ---

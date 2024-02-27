@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 18:20:16**
+As of **2024-02-27 18:32:58**
 
 ## Newspaper Stats
 
-*Scraped **9,617** Articles*
+*Scraped **9,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,66 @@ newsfirstlk | 363
 economynextcom | 491
 dailyftlk | 505
 islandlk | 511
-adalk | 811
+adalk | 812
 adaderanalk | 1,158
 tamilmirrorlk | 1,177
 virakesarilk | 1,316
-dailymirrorlk | 1,449
+dailymirrorlk | 1,450
 adaderanasinhalalk | 1,457
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,612 (99.9%) of 9,617 articles have been extended.
+9,617 (100.0%) of 9,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### හමුදා කඳවුරේ සෙබළාගේ මරණයට සෙබළුන් 4ක් අත්අඩංගුවට
+### Four soldiers arrested for the death of military camp
 
 *2024-02-27 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193885) · `si`
 
-හොරණ දොඹගොඩ යුද හමුදා කඳවුරට අනුයුක්තව සේවය කරමින් සිටියදී මියගිය හමුදා සෙබළෙකුගේ මරණයට අදාළව සැකපිට එම කඳවුරේම සෙබළුන් සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Four soldiers have been arrested by the police on suspicion of the death of a soldier who was attached to the Dombagoda Army Camp.
 
-යුද හමුදා පොලීසිය භාරයේ රඳවාගෙන ප්‍රශ්න කිරීමේදී සහ මහෙස්ත්‍රාත් පරීක්ෂණයේදී ලබාදුන් ප්‍රකාශ එකිනෙකට පරස්පර වීම හේතුවෙන් එම සෙබළුන් අත්අඩංගුවට ගෙන තිබේ.
+The soldiers have been arrested by the Army Police while interrogation and interrogation at the magisterial inquiry.
 
-හමුදා කඳවුරේ පොකුණක තිබී මියගිය හමුදා සෙබළාගේ සිරුර පසුගිය ජනවාරි මාශයේදී සොයාගනු ලැබීය.
+The body of the army soldier was found last January.
 
-මියගිය හමුදා සෙබළා දොඹගොඩ යුද හමුදා කඳවුරේ යුද උපකරණ බලකායේ ක්‍රීඩා  උපදේශකවරයෙකු ලෙස කටයුතු කර තිබුණි.
+The deceased soldier was a sports advisor to the military base of the Army Camp of Dombagoda.
 
-වැඩිදුර පරීක්ෂණවලදී අනාවරණය වී ඇත්තේ සැකපිට අත්අඩංගුවට ගත් සෙබළුන් සිව්දෙනා සමග මියගොස් ඇති හමුදා සෙබළා කඳවුර තුළ මත්පැන් සාදයක් පවත්වා ඇති බවය.
+Investigations have revealed that a soldier party had held a group of alcohol in the camp.
 
-අනතුරුව ඔවුන් විසින් කඳවුර තුළ ඇති පොකුණේ තරගයට පිහිනීමට යෝජනාවක් ගෙනවිත් ඇති බවත් එහිදී මියගොස් ඇති සෙබළා පොකුණට බැස පිහිනායමින් සිටියදී දියේ ගිලී මියගොස් ඇති බවටත් පොලීසිය සැකපළ කරයි.
+The police then delivered a proposal to swim down the soldier to the pond that the dead soldier had been drowned while swimming.
 
-එම අවස්ථාවේදී සැකකාර සෙබළුන් ඒ පිළිබඳව කිසිවෙකුටත් නොදන්වා මියගිය හමුදා සෙබළාගේ ජංගම දුරකථනය ද පොකුණට විසිකර දමා ගොස් ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+It has been revealed that the soldiers who died without informing the pond have been thrown into the pond.
 
-...
+The following day the following day, the soldier who was dead was not visited into physical exercise parade, the army has decided to search for him and his home.
+
+The four arrested forces have been produced before the Horana Magistrate's Court on a personal bail of Rs.
+
+◼️
 
 [Data](articles/212808d1.json)
 
+[Extended Data](ext_articles/212808d1.ext.json)
+
 ---
 
-### பத்தாயிரம் ரூபாவை இலஞ்சமாகப் பெற்ற இரு பொலிஸாருக்கும் விளக்கமறியல்!
+### Explanation for the two policemen who bribed ten thousand rupees!
 
 *2024-02-27 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177447) · `ta`
 
-போக்குவரத்து விதிமுறைகளை மீறியதற்காக பொலிஸாரால் பெறப்பட்ட சாரதி ஒருவரின் அனுமதிப்பத்திரத்தை விடுவிக்க பத்தாயிரம் ரூபாவை இலஞ்மாகப் பெற்றதாகக்  கூறப்படும்  இத்தபான  பொலிஸ் நிலையத்தைச் சேர்ந்த பொலிஸ் கான்ஸ்டபிள் மற்றும் பயிலுனர் பொலிஸ் உத்தியோகத்தர் ஆகியோரை  எதிர்வரும் மார்ச் மாதம் 12 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதிவான் பிரசன்ன அல்விஸ் செவ்வாய்க்கிழமை (27) உத்தரவிட்டுள்ளார்.
+Colombo Chief Justice Prasanna Alwis on Tuesday (27) has ordered the police constable and police officer of the police station and police officer of the police station, which allegedly received ten thousand rupees to release a driver from the police for violating traffic rules.
 
-இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவினால் முன்வைக்கப்பட்ட வாதங்களை பரிசீலித்த நீதிவான், சந்தேக நபர்களான இருவரையும் விளக்கமறியலில் வைக்கப்பட்டனர்.
+The magistrate and the two suspects were kept in interrogation, considering the arguments put forward by the Bribery Commission.
 
 ◼️
 
 [Data](articles/98e8b6af.json)
+
+[Extended Data](ext_articles/98e8b6af.ext.json)
 
 ---
 
@@ -88,37 +96,59 @@ Returning to duty from holiday, he committed suicide at the Kodawawa court premi
 
 ---
 
-### අභ්‍යවකාශයට මිනිසුන් යැවීමට ඉන්දියාව සැරසෙයි
+### PHI Officer acquitted from Bribery Charges
+
+*2024-02-27 17:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PHI-Officer-acquitted-from-Bribery-Charges/108-277822) · `en`
+
+Colombo, Feb. 27 (Daily Mirror)- The Colombo High Court today acquitted a PHI officer from four charges filed by the Bribery Commission as itfailed to prove the accused's guilt beyond reasonable doubt.
+
+The Director General of Commission to investigate Bribery and Corruption indicted the PHI officer Sanath Vijithananda while he was serving at the Tennekumbura MOH office in Kandy for soliciting and accepting a sum of Rs.10,000 as a bribe to provide his recommendation to obtain the trade license for the year of 2017.
+
+The Manager of Blue Mountain Hotel in Hantana had made a complaint to the Bribery Commission on January 19, 2017. Delivering the judgment, Colombo High Court judge Manjula Thilakarathne observed that the prosecution had failed to prove the charges against the Accused beyond reasonable doubt.
+
+Senior Counsel Darshana Kuruppu with Counsel Dineru Bandara appeared for the Accused.
+
+◼️
+
+[Data](articles/b49eac3a.json)
+
+---
+
+### India is ready to send people into space
 
 *2024-02-27 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193884) · `si`
 
-ලබන වසර සඳහා සැලසුම් කර ඇති ඉන්දියාවේ පළමු අභ්‍යවකාශ ගමන සඳහා ඉන්දීය ගුවන් හමුදාවේ නියමුවන් සිව් දෙනෙක්ව තෝරාගත් බව නිවේදනය කර තිබේ.
+Four Indian pilots have been selected for the first space journey in India planned for next year.
 
-එම අභ්‍යවකාශ ගමන "Gaganyaan" ලෙස නම්කර ඇති අතර එමගින් ගගනගාමීන්ව කක්ෂයේ කිලෝ මීටර් 400ක් පමණ දුරකට යවා දින තුනකට පසුව ඔවුන්ව ගෙන්වා ගැනීමට සැලසුම් කර ඇති බව සඳහන් ය.
+The space journey has been named as "Gaganyaan" and it is planned to be imported for about 400 km of the orbit.
 
-එම ගමන සාර්ථක කර ගැනීම සඳහා ඉන්දීය අභ්‍යවකාශ ඒජන්සිය (Isro) මේ වනවිට විවිධ අත්හදාබැලීම් සිදුකරමින් සිටියි.
+The Indian space agency (ISRO) is currently undergoing the journey.
 
-මෙම වසරේදී රොබෝවක් අභ්‍යවකාශයට යැවීමට ඉන්දීය විද්‍යාඥයින් සැලසුම් කර ඇති අතර අනතුරුව ලබන වසරේදී ගගනගාමීන්ව අභ්‍යවකාශයට යැවීමට ඉන්දියාව සැලසුම් කරයි.
+Indian scientists plan to send a robot this year into space and then to send astronauts to space next year.
 
 ◼️
 
 [Data](articles/7eb705bb.json)
 
+[Extended Data](ext_articles/7eb705bb.ext.json)
+
 ---
 
-### ජනතාවට අනතුරු ඇඟවීමක්
+### A warning to the people
 
 *2024-02-27 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193883) · `si`
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් හෙට (28) දිනය සඳහා උණුසුම් කාලගුණය සම්බන්ධයෙන් ඇම්බර් වර්ණයෙන් යුතු අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+The Department of Meteorological Department has issued an anticipal announcement for warm weather tomorrow (28).
 
-එහි සඳහන් වන්නේ වයඹ, බස්නාහිර සහ දකුණු පළාත්වලත් රත්නපුර දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමේ පවතිනු ඇති බවට අපේක්ෂා කරන බවය.
+It states that the warmth of the North Western, Western and Southern provinces and in some places in the Ratnapura district are expected to be focused on the level.
 
-ඊට අදාළ අවවාදාත්මක නිවේදනය සහ එහිදී අනුගමනය කළ යුතු කරුණු පහතින්.
+Below is the advisable announcement and the points to be followed.
 
 ◼️
 
 [Data](articles/278c386b.json)
+
+[Extended Data](ext_articles/278c386b.ext.json)
 
 ---
 
@@ -154,17 +184,19 @@ The agitation was reportedly launched demanding solutions to several concerns in
 
 ---
 
-### පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක්
+### Police and tear gas attack by police
 
 *2024-02-27 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193882) · `si`
 
-ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ සිසුන් සංවිධානය කර තිබූ විරෝධතා පා ගමනකට පොලීසිය ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ලකර තිබේ.
+Police and tear gas were attacked on a protest march organized by the students of the University of Sri Jayewardenepura.
 
-නේවාසිකාගාර ගැටලු, මහපොළ ශිෂ්‍යාධාර ප්‍රමාදවීම්, ආපනශාලා සහ අධ්‍යයන සුබසාධනය යන ගැටලු සඳහා විසඳුම් ඉල්ලා විශ්ව ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ මානවශාස්ත්‍ර හා සමාජීයවිද්‍යා පීඨ ශිෂ්‍ය සංගමය මෙම විරෝධතා පා ගමන සංවිධානය කර තිබුණි.
+The Faculty of Humanities and Socialist Association of Sri Jayewardenepura, University of Sri Jayewardenepura, was organized by the University of Sri Jayewardenepura, the University of Sri Jayewardenepura for solutions for problems, cafeteries and academic welfare.
 
 ◼️
 
 [Data](articles/8b8ecb79.json)
+
+[Extended Data](ext_articles/8b8ecb79.ext.json)
 
 ---
 
@@ -227,6 +259,20 @@ The 44-year-old, originally from Rajanganaya, faced the harrowing incident on Ja
 [Data](articles/fa9ac3bd.json)
 
 [Extended Data](ext_articles/fa9ac3bd.ext.json)
+
+---
+
+### වාලච්චේන කඩදාසි කම්හල නොවසා  හවුල් ව්‍යාපාරයක් කරනවා - මහින්දානන්ද
+
+*2024-02-27 16:12:59* · [`adalk`](https://www.ada.lk/breaking_news/වාලච්චේන-කඩදාසි-කම්හල-නොවසා--හවුල්-ව්‍යාපාරයක්-කරනවා---මහින්දානන්ද/11-408306) · `si`
+
+වාලච්චේන කඩදාසි කම්හල වැසෙන තත්ත්වයට පත්වුවහොත් විකිණීම වෙනුවට රාජ්‍ය පෞද්ගලික හවුල් ව්‍යාපාරයක් ලෙස පවත්වාගෙන යාම වැදගත් බැවින් ඒ සදහා කාරක සභාවේ නිර්දේශය මුදල් සහ කර්මාන්ත අමාත්‍යාංශවලටත් ජනාධිපතිවරයාටත් යොමු කරන බව ජාතික ආර්ථික හා භෞතික සැළසුම් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති මහින්දානන්ද අලුත්ගමගේ මහතා පවසයි.
+
+වාලච්චේන කර්මාන්ත ශාලාවේ යන්ත්‍ර 1956 වසරේ ගෙන්වන ලද ඒවා බැවින් මෙහි අලුත්වැඩියාවන් සදහා ඇ. ඩොලර් මිලියන 12ක්අ වශ්‍ය බවත් භාණ්ඩාගාරයෙන් මුදල් ප්‍රතිපාදන නොලැබුණු බැවින් මෙය රාජ්‍ය පෞද්ගලික හවුල් ව්‍යාපාරයක් ලෙස පවත්වාගෙන යාමට කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කළද එම භූමිය සංචාරක ව්‍යාපාරය සදහා වෙන්කරන ලද බැවින් ඒ සදහා අනුමතිය නොලැබුණ බවද කර්මාන්ත අමාත්‍යාංශයේ ලෙකම් තිලකා ජයසුන්දර මහත්මිය ද වැඩිදුරටත් මෙහිදී පැවසුවාය.
+
+◼️
+
+[Data](articles/060fef60.json)
 
 ---
 
@@ -1959,43 +2005,5 @@ The Colombo Stock Exchange opened down; The All Share Price Index was down 0.04 
 [Data](articles/d02c1465.json)
 
 [Extended Data](ext_articles/d02c1465.ext.json)
-
----
-
-### Romania mulls agreement with Sri Lanka to avoid double taxation
-
-*2024-02-27 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97557/romania-mulls-agreement-with-sri-lanka-to-avoid-double-taxation) · `en`
-
-Romanian Ambassador Doamna Steluța Arhire has called on Prime Minister Dinesh Gunawardena at the Temple Trees on Monday (Feb.26).
-
-PM Gunawardena and the Romanian envoy discussed the long-standing bilateral relations between the two countries and the steps to be taken to enter into economic cooperation and investment in new spheres.
-
-The Prime Minister urged Romania to consider investments and cooperation in education, agriculture, railways, IT, cyber security and tourism sectors.
-
-Ambassador Arhire, expressing delight over the fourfold growth of bilateral trade to USD 127 million last year added that her country would sign an agreement with Sri Lanka to avoid double taxation so that trade process could be smoothened. She added that another Memorandum of Understanding (MoU) on cooperation in education, culture, sports and media could be signed once the draft is approved by both sides.
-
-...
-
-[Data](articles/d1b9e3ff.json)
-
-[Extended Data](ext_articles/d1b9e3ff.ext.json)
-
----
-
-### IGP arrives in Supreme Court
-
-*2024-02-27 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193868) · `si`
-
-IGP Deshabandu Tennakoon has now arrived at the Colombo Court complex.
-
-It is reported that he has come to the Supreme Court to attend a trial.
-
-Police protection has been carried out at the superiority of the Superintendent to mark the arrival of the IGP.
-
-◼️
-
-[Data](articles/3a41a9bb.json)
-
-[Extended Data](ext_articles/3a41a9bb.ext.json)
 
 ---

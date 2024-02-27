@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 09:33:12**
+As of **2024-02-27 09:51:54**
 
 ## Newspaper Stats
 
-*Scraped **9,498** Articles*
+*Scraped **9,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ dailyftlk | 504
 islandlk | 508
 adalk | 799
 adaderanalk | 1,143
-tamilmirrorlk | 1,166
+tamilmirrorlk | 1,167
 virakesarilk | 1,294
-dailymirrorlk | 1,426
+dailymirrorlk | 1,430
 adaderanasinhalalk | 1,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,496 (100.0%) of 9,498 articles have been extended.
+9,503 (100.0%) of 9,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Firing
+
+*2024-02-27 09:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தையில்-துப்பாக்கிச்-சூடு/175-333866) · `ta`
+
+It is reported that two men fired and fled a hotel in Wellawatte.
+
+The men came on a motorbike and fired a T-56 fire, the police media unit said.. Remble
+
+◼️
+
+[Data](articles/4b98c42f.json)
+
+[Extended Data](ext_articles/4b98c42f.ext.json)
+
+---
+
+### Financial allegations rock legal unit of Sri Lanka Medical Council
+
+*2024-02-27 09:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Financial-allegations-rock-legal-unit-of-Sri-Lanka-Medical-Council/108-277797) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - Allegations of financial fraud and irregularities have cast a shadow over the Legal Unit of the Sri Lanka Medical Council (SLMC) in the wake of an independent audit report revealing financial irregularities within the Unit spanning from 2018 to 2022.
+
+The report, titled "Report on the Investigation of the Payment of Legal Fees from 2018 to 2022 and Evaluation of Functions of the Finance Division of the Sri Lanka Medical Council," was submitted by a senior Additional Auditor General (Retired) on January 19, 2024.
+
+Tabled and minuted during the monthly meeting of the SLMC on Thursday, February 22, the report detailed discrepancies in legal fee disbursements totalling approximately Rs. 43.3 million.
+
+...
+
+[Data](articles/d5a1bd78.json)
+
+[Extended Data](ext_articles/d5a1bd78.ext.json)
+
+---
 
 ### Buel pricing relief
 
@@ -50,23 +84,29 @@ Addressing at the Adawara 360 program, the Minister said that he would reduce th
 
 ---
 
-### ”விமானத்தில் 2 எலிகள் இருந்ததால் தாமதமாகியது”
+### “It was late because there were 2 rats on the plane"
 
 *2024-02-27 08:46:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானத்தில்-2-எலிகள்-இருந்ததால்-தாமதமாகியது/175-333864) · `ta`
 
-ஞாயிற்றுக்கிழமை இரண்டு ஸ்ரீலங்கன் ஏர்லைன்ஸ் விமானங்களில் எலிகள் கண்டுபிடிக்கப்பட்டதால், விமானங்களை தாமதப்படுத்த அதிகாரிகள் கட்டாயப்படுத்தியதாக ஸ்ரீலங்கன் ஏர்லைன்ஸ் தலைவர் அசோக் பத்திரகே நேற்று தெரிவித்தார்.
+SriLankan Airlines President Ashok Pathke said yesterday that the authorities have forced the authorities to delay the flights as rats were found on two SriLankan Airlines flights on Sunday.
 
-துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமானப் போக்குவரத்து அமைச்சில் நடைபெற்ற கலந்துரையாடலில் திரு. பத்திரகே கூறுகையில், “எலிகள் காணப்பட்ட இரண்டு விமானங்களுக்கு இரசாயனத்தை தெளிக்க வேண்டியிருந்தது.
+Mr. During a discussion held at the Ports, Shipping and Aviation Ministry. Patrake said, “The two flights found in the rats had to be sprayed with chemicals.
 
-தொழில்நுட்ப குறைபாடுகள் காரணமாக மற்ற இரண்டு விமானங்கள் தாமதமாக வர வேண்டியிருந்தது,” என்று அவர் மேலும் கூறினார்.
+Two other flights had to arrive late due to technical defects, ”he added.
 
-அப்போது துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால, விலங்குகள் எப்படி விமானத்திற்குள் புகுந்தது என்பது குறித்து விசாரணை நடத்தப்பட்டதா என கேள்வி எழுப்பினார்.
+Ports, Shipping and Aviation Minister Nimal Siripala then questioned whether the animals were investigated.
 
-15 கிரவுண்ட் ஹேண்ட்லிங் ஊழியர்கள் இல்லாததும் காலதாமதத்திற்கு காரணம் என தெரியவந்தது. மூன்று ஊழியர்கள் ஞாயிற்றுக்கிழமை விடுமுறைக்கு விண்ணப்பித்துள்ளனர், மீதமுள்ள 12 பேர் சாதாரணமாக விடுமுறை எடுத்து விட்டனர்.
+The lack of 15 ground handling staff was revealed to be the cause of the delay.Three employees applied for a holiday on Sunday, and the remaining 12 were usually on holiday.
+
+“Ridgone those who quit without applying for vacation,” the angry minister said.
+
+SriLankan Airlines Navy has only 20 flights and three flights have landed.. Said Patrake.
 
 ...
 
 [Data](articles/6677cccf.json)
+
+[Extended Data](ext_articles/6677cccf.ext.json)
 
 ---
 
@@ -74,9 +114,13 @@ Addressing at the Adawara 360 program, the Minister said that he would reduce th
 
 *2024-02-27 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97556/gunshots-fired-into-air-near-tourist-hotel-in-wellawatta) · `en`
 
-Two men who had arrived on a motorcycle have fled after shooting into the air in front of a tourist beach hotel in Wellawatte.
+Two unidentified men on a motorcycle have fled after firing gunshots into the air in Wellawatta, the police reported.
 
-According to the police spokesman, the gunmen have used a T-56 firearm.
+The shooting took place in front of a tourist beach hotel located on Marine Drive in Wellawatte this morning (Feb.27).
+
+According to the police media division, the suspects have used a T-56 assault rifle. Nine empty T-56 cartridge cases were found at the scene.
+
+No fatalities were reported in the incident. Wellawatta Police has initiated an investigation to apprehend the gunman and the accomplice.
 
 ◼️
 
@@ -115,6 +159,26 @@ The police media division stated that the persons have come to a motorbike and s
 [Data](articles/1d9929a4.json)
 
 [Extended Data](ext_articles/1d9929a4.ext.json)
+
+---
+
+### Russian Embassy awaits findings by Presidential Probe
+
+*2024-02-27 08:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-Embassy-awaits-findings-by-Presidential-Probe/108-277795) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - In the wake of reports that President Ranil Wickremesinghe ordering an immediate investigation into the circular asking overstaying Russian and Ukrainian tourists to leave within 14 days, the Russian Embassy in Colombo said it awaits the results of the probe directed by the President.
+
+Asserting that there is no official information as of now, an embassy spokesman said it is an internal affair of Sri Lanka and Russia, unlike other countries, will not interfere in them.
+
+In the meantime, the embassy, in one of its press releases issued earlier, said it requests all its citizens staying in Sri Lanka for tourism or residing permanently to strictly follow Sri Lankan laws and customs.
+
+Earlier, the circular was issued by the Department of Immigration and Emigration saying that Ukrainian and Russian nations living in Sri Lanka for a long term should leave within 14 days.
+
+...
+
+[Data](articles/ee79e4b2.json)
+
+[Extended Data](ext_articles/ee79e4b2.ext.json)
 
 ---
 
@@ -290,6 +354,24 @@ The suspects are to be produced before the court today.
 
 ---
 
+### Speaker uses his decisive vote ending stalemate in appointing IGP
+
+*2024-02-27 07:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-uses-his-decisive-vote-ending-stalemate-in-appointing-IGP/108-277798) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - Speaker Mahinda Yapa Abeywardena is reported to have used his decisive vote as the chairman of the Constitutional Council (CC) to affirm the appointment of Mr. Deshabandu Tennakoon as the Inspector General of Police (IGP) permanently.
+
+The other eight members of the CC were divided in a tie on the appointment. An informed source said four members voted for the appointment and two others against . Besides, two others abstained but their decisions were challenged. It was argued that any member should vote for or against rather than abstaining .
+
+Also , abstentions in this instance were considered as votes cast against the appointment. Therefore the members were divided in a tie resulting in the Speaker using his vote in favour of the appointment .
+
+...
+
+[Data](articles/c6ac1756.json)
+
+[Extended Data](ext_articles/c6ac1756.ext.json)
+
+---
+
 ### 21 year old youth assaulted
 
 *2024-02-27 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193861) · `si`
@@ -329,6 +411,28 @@ Dhammika Priyantha stated that if the authorities do not take steps to address t
 [Data](articles/ef301fd9.json)
 
 [Extended Data](ext_articles/ef301fd9.ext.json)
+
+---
+
+### Rats on board ground two SriLankan flights
+
+*2024-02-27 06:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rats-on-board-ground-two-SriLankan-flights/108-277796) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - Rats were found on board two SriLankan Airlines aircraft on Sunday, forcing the authorities to delay flights, SriLankan Airlines Chairman Ashok Pathirage said yesterday.
+
+“We had to spray a chemical to two aircraft in which rats were found and ground them for one day as per the international standards,” Mr. Pathirage told a discussion which was held at Ports, Shipping and Aviation Ministry.
+
+Two other aircraft had to be delayed due to technical defects,” he added.
+
+Minister of Ports, Shipping and Aviation Nimal Siripala then questioned as to whether any investigation was done to determine as to how the animals managed to creep into the aircraft.
+
+It was also revealed that the absence of 15 ground handling staff also caused the delay. Three members of staff have applied for leave on Sunday, while the remaining 12 have kept away from work casually. “Sack those who kept away from work without applying for leave,” the angry minister said.
+
+...
+
+[Data](articles/b15e105e.json)
+
+[Extended Data](ext_articles/b15e105e.ext.json)
 
 ---
 
@@ -430,23 +534,25 @@ The suspect has been made on the occasion of the Katunayake International Airpor
 
 ---
 
-### Rat Rod : 'කාර් එක පුරා එල්ලලා, ඇඳලා තියෙන්නේ මගේ සිතුවිලි'
+### Rat Rod: 'Hang over the car, wearing my thoughts'
 
 *2024-02-27 02:34:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9898l8214no) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, කලාව : 'කාර් එක පුරා එල්ලලා, ඇඳලා තියෙන්නේ මගේ සිතුවිලි'
+None contains none of this.Veadide head, art: 'My thoughts are hanging over, my thoughts'
 
-'Rat Rod' කලාව අනුව වඩාත් පැරණි පෙනුමක් ලැබෙන පරිදි නවීකරණය කළ ශ්‍රී ලංකාවේ මෝටර් රථයක් ගැන සමාජ මාධ්‍ය ඔස්සේ බොහෝ දෙනාගේ අවදානය යොමු වූ වීඩියෝවක් සංසරණය වේ.
+The most an old-old-looking video circulated a video that many people focused on a modified Sri Lanka.
 
-එබැවින් එම කලාව සහ එම මෝටර් රථයේ හිමිකරු ගැන අපි සොයා බැලුවෙමු.
+So we found the art and the owner of that car.
 
-තමන්ගේ වාහනයට අලුත් පෙනුමක් ලබා දීමට බොහෝ දෙන උනන්දු වුව ද කඩවත පදිංචි තාරුක තියුම් දාබරේට අවශ්‍යව තිබෙන්නේ ඔහුගේ මෝටර් රථයට පැරණි, වෙනස් පෙනුමක් ලබා දීමය.
+Even though he is interested in giving his vehicle, he wants to give his car, a changing appearance to his car.
 
-''මේ කාර් එක පුරා එල්ලලා තියෙන්නේ, ඇඳලා තියෙන්නේ මගේ සිතුවිලි. මේක මගේ ප්‍රකාශන මාධ්‍යය.'' යනුවෙන්  තාරුක තියුම් දාබරේ BBC සිංහල සේවයට පැවසුවේය.
+'' This car was hanging all over, my thoughts were. This is my publication media. "
 
 ◼️
 
 [Data](articles/a0ad1e6d.json)
+
+[Extended Data](ext_articles/a0ad1e6d.ext.json)
 
 ---
 
@@ -1891,97 +1997,5 @@ Representatives of SriLankan Airlines and its Chairman Ashok Pathirage told the 
 [Data](articles/718a383e.json)
 
 [Extended Data](ext_articles/718a383e.ext.json)
-
----
-
-### SriLankan Airlines faces permanent grounding?
-
-*2024-02-26 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SriLankan-Airlines-faces-permanent-grounding/155-277744) · `en`
-
-Colombo, Feb 26 (Daily Mirror) - Restructuring of the national carrier SriLankan Airlines is in tatters after Sunday’s ground handling debacle, Minister of Ports, Shipping and Aviation Nimal Siripala de Silva said today.
-
-“Deadline given to potential investors for submitting expressions to partner the national carrier ends on March 5. The information we have received as of now is that all those who have already expressed interest are planning to withdraw after the Sunday’s flight delay. We will have no option but to ground SriLankan airlines for good in  this situation,” the Minister told a discussion which was open to the media as well.
-
-Representatives of SriLankan Airlines and its Chairman Ashok Pathirage told the discussion that four flights were delayed on Sunday – with rats being found in two aircrafts while two others had technical issues.
-
-...
-
-[Data](articles/f726c9af.json)
-
-[Extended Data](ext_articles/f726c9af.ext.json)
-
----
-
-### The hosting of hindi cinema is silenced
-
-*2024-02-26 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193849) · `si`
-
-Foreign media reports that Punkage has died in Hindi cinema.
-
-◼️
-
-[Data](articles/dd5b251c.json)
-
-[Extended Data](ext_articles/dd5b251c.ext.json)
-
----
-
-### Romanian Ambassador met Prime Minister
-
-*2024-02-26 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177364) · `ta`
-
-The meeting between Prime Minister Dinesh Gunawardena and Romanian Ambassador Domina Stelusa Ahru was held at the Alari House on Monday (26).
-
-◼️
-
-[Data](articles/200b6a7c.json)
-
-[Extended Data](ext_articles/200b6a7c.ext.json)
-
----
-
-### Prohibition of adoption of wild elephant;Bangladesh court
-
-*2024-02-26 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177333) · `ta`
-
-Bangladesh Deputy Attorney Amit Das Gupta says the High Court has canceled all the licenses to adopt elephants.
-
-The verdict has been hailed as a milestone of victory for animal rights activists who pressure them to prevent the torture on beasts.
-
-In addition, animal rights activists have said that the cancellation of elephants will stop torture in the name of Asian elephants.
-
-Bangladesh was once one of the main places where Asian elephants live. But hunting and habitat loss have decreased their number. They are currently reported to be very dangerous in the South Asian country.
-
-In addition, about 100 Asian elephants have been captured in Bangladesh, the International Union for Natural Protection (IUCN) said that half of the forest elephants in the country.
-
-In the northern and southeastern highlands of Bangladesh, small animals are captured by the elephants where the elephants live in the area.
-
-...
-
-[Data](articles/aca1defc.json)
-
-[Extended Data](ext_articles/aca1defc.ext.json)
-
----
-
-### Inaugural T10 League to get underway in December
-
-*2024-02-26 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97545/inaugural-t10-league-to-get-underway-in-december-) · `en`
-
-The inaugural edition of the Lanka T10 League is scheduled to be held from 12 – 22 December, Sri Lanka Cricket (SLC) announced on Monday (26 Feb.).
-
-The tournament, which was initially planned to be held in June 2023, was later shifted to December 2023, and now December 2024, as SLC deemed the ‘December window’ the most appropriate to conduct the league successfully.
-
-Lanka T10 League, Sri Lanka’s newest addition to its annual cricket calendar, will feature some of the finest international stars along with Sri Lanka’s top international stars, with six men’s teams of 16 players each, including six foreign players per team.
-
-The action-packed competition will also provide opportunities for the brightest young talents in the country to mix, mingle, and play along with international stars.
-
-“I have full confidence that this tournament will be a resounding success, contributing to Sri Lanka Cricket’s ability to stay current with the evolving trends in the game”, SLC President Shammi Silva opined.
-
-...
-
-[Data](articles/9c094dad.json)
-
-[Extended Data](ext_articles/9c094dad.ext.json)
 
 ---

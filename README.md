@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 15:17:42**
+As of **2024-02-27 15:33:07**
 
 ## Newspaper Stats
 
-*Scraped **9,585** Articles*
+*Scraped **9,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,112 @@ dailyftlk | 505
 islandlk | 511
 adalk | 809
 adaderanalk | 1,152
-tamilmirrorlk | 1,174
-virakesarilk | 1,310
-dailymirrorlk | 1,444
-adaderanasinhalalk | 1,448
+tamilmirrorlk | 1,175
+virakesarilk | 1,311
+dailymirrorlk | 1,446
+adaderanasinhalalk | 1,451
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,580 (99.9%) of 9,585 articles have been extended.
+9,585 (99.9%) of 9,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Namibia’s Jan Nicol Loftie-Eaton scores fastest T20I hundred off 33 ball
+
+*2024-02-27 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Namibias-Jan-Nicol-Loftie-Eaton-scores-fastest-T20I-hundred-off-33-ball/108-277818) · `en`
+
+Feb. 27 (indiatoday) - Namibian cricketer Jan Nicol Loftie-Eaton has made cricket history by scoring the fastest century in T20 International (T20I) history, off just 33 balls, breaking the previous record set by Nepal's Kushal Malla.
+
+Namibia's Jan Nicol Loftie-Eaton scripted history by scoring the fastest century in T20 International (T20I) history during a bilateral match against Nepal. Achieving this monumental feat off just 33 balls, Loftie-Eaton shattered the previous record held by Nepal's Kushal Malla, who had set the benchmark at 34 balls against Mongolia during the Asian Games in 2023. This remarkable innings came during a match against Nepal, adding a layer of poetic justice as Malla himself was present on the field, witnessing his record being surpassed.
+
+...
+
+[Data](articles/8f82b2af.json)
+
+---
+
+### தெற்கு அதிவேக நெடுஞ்சாலை விபத்தில் இருவர் பலி
+
+*2024-02-27 14:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்கு-அதிவேக-நெடுஞ்சாலை-விபத்தில்-இருவர்-பலி/175-333887) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையின் குருந்துகஹதெக்ம பகுதியில் இடம்பெற்ற வாகன விபத்தில் இருவர் உயிரிழந்துள்ளனர்.
+
+இமதுவ மற்றும் திக்கும்புர பிரதேசத்தைச் சேர்ந்த 36 மற்றும் 63 வயதுடையவர்களே விபத்தில் உயிரிழந்துள்ளனர்.
+
+கொழும்பில் இருந்து குடிநீர் ஏற்றிச் சென்ற லொறி ஒன்று, வீதி பலகைகளை கழுவிக்கொண்டிருந்த இரு தொழிலாளர்கள் மீது மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்து தொடர்பில் லொறியின் சாரதி கைது செய்யப்பட்டுள்ளதுடன், பொத்தல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/623fe04a.json)
+
+---
+
+### Delhi man swallows 39 coins, 37 magnets for ’body-building’, removed by surgery
+
+*2024-02-27 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Delhi-man-swallows-39-coins-37-magnets-for-body-building-removed-by-surgery/108-277817) · `en`
+
+NEW DELHI: Doctors at Sir Gangaram Hospital have successfully removed 39 coins and 37 magnets from the intestine of a 26-year-old youth, a schizophrenia patient, who had swallowed them presuming zinc would help "build his body".
+
+The patient, who lives in Delhi, was discharged from the hospital two days ago after a week of post-surgery hospitalisation. He is doing well now, according to doctors.
+
+Senior consultant, laparoscopic, laser & general surgery, Dr Tarun Mittal, told TOI 39 coins of Rs 1, 2 and 5 denominations and 37 magnets of different shapes - heart, sphere, star, bullet and triangle - were removed during the surgery.
+
+When asked why had consumed them, the patient told the doctor he thought zinc, which is present in coins, helps in building the body. The magnet, he added, would ensure the coin stayed in the intestine and help absorb the zinc.
+
+"I would like to inform people that ingestion of these foreign bodies can be life-threatening and should not be done," said Dr Mittal.
+
+...
+
+[Data](articles/b2c4f829.json)
+
+---
+
+### PHI රොෂාන් ඝාතනයේ පරීක්ෂණවල අලුත්ම තත්ත්වය
+
+*2024-02-27 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193879) · `si`
+
+ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික ලෙස කටයුතු කළ W. D රොෂාන් කුමාර මහතා ඝාතනය කිරීමට හේතුව මෙතක් අනාවරණ වී නොමැති බව පොලීසිය පවසයි.
+
+ඒ සම්බන්ධයෙන් පරීක්ෂණ පැවැත්වීම සඳහා පොලිස් කණ්ඩායම් කිහිපයක් යොදවා ඇති බව වාර්තා විය.
+
+එමෙන්ම කිසිදු පාතාල කල්ලියක් සමග ඔහුගේ සබඳතාවක් නොමැති බව ද පොලීසිය මෙතෙක් සිදුකළ විමර්ශනවලදී අනාවරණ වී ඇති බව සඳහන් ය.
+
+මේ අතර ඒ මහතාගේ දේහය පශ්චාත් මරණ පරීක්ෂණයෙන් අනතුරුව අද (27) ඥාතීන් වෙත භාර දී තිබේ.
+
+ඒ අනුව දේහය මේවන විට ඇල්පිටිය - කුරුඳුගහහැතැක්ම, පතිරාජ වත්ත ප්‍රදේශයේ පිහිටි ඔහුගේ නිවසේ තැන්පත් කර ඇති අතර දේහය පළිබඳ අවසන් කටයුතු ඇල්පිටිය පොදු සුසාන භූමියේදී හෙට සිදුකිරීමට නියමිත ය.
+
+ඊයේ උදෑසන යතුරුපැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙක් කළ වෙඩි තැබීමෙන් රොෂාන් කුමාර මහතා ජීවිතක්ෂයට පත්විය.
+
+ඝාතනයට ලක්වන අවස්ථාවේ ඔහු සිය පුතු පාසලේ පළමු ශ්‍රේණියට ඇතුළත් කිරීම සඳහා පාසලට රැගෙන යාමට සූදානම් කරමින් සිට ඇති බව වාර්තා වුණි.
+
+කෙසේවෙතත් වෙඩිතැබීමට හේතුව හෝ වෙඩික්කරුවන් සම්බන්ධයෙන් මෙතෙක් නිශ්චිත තොරතුරු වාර්තාවී නොමැත.
+
+◼️
+
+[Data](articles/1e7e9bd0.json)
+
+---
+
+### පොලිස්පති දේශබන්දු ශ්‍රේෂ්ඨාධිකරණයට දුන් පොරොන්දුව
+
+*2024-02-27 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193878) · `si`
+
+පැමිණිල්ලක් සම්බන්ධයෙන් ප්‍රකාශයක් ලබා ගැනීමට යම් පුද්ගලයෙකු පොලීසිය වෙත කැඳවනු ලබන අවස්ථාවේදී අදාළ පැමිණිල්ලේ අන්තර්ගතය සම්බන්ධයෙන් ප්‍රකාශය ලබා ගැනීමට නියමිත පාර්ශවකරුවන් දැනුවත් කිරීම සම්බන්ධයෙන් වූ චක්‍රලේඛයක් නිකුත් කිරීමට කටයුතු කරන බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අද (27) ශ්‍රේෂ්ඨාධිකරණය හමුවේ දැනුම් දුන්නේය.
+
+බලශක්ති ක්ෂේත්‍රයේ ක්‍රියාකාරකයකු වන එම්. බී. වී. රැළපනාව මහතා විසින් ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් අද ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී එහි වගඋත්තරකරුවකු වශයෙන් නම්කර සිටි පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අද පෞද්ගලිකවම අධිකරණය හමුවේ පෙනී සිටිමින් මෙම දැනුම් දීම සිදුකළේය.
+
+...
+
+[Data](articles/4c7eacff.json)
+
+---
 
 ### Seven flights including SriLankan flights cancelled
 
@@ -50,6 +142,24 @@ Meanwhile, flight SG 002, which was scheduled to leave for Chennai, India, has a
 
 [Data](articles/41d1b953.json)
 
+[Extended Data](ext_articles/41d1b953.ext.json)
+
+---
+
+### ලොව වේගවත්ම T 20 ශතකය නැමීබියාවෙන්
+
+*2024-02-27 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193877) · `si`
+
+ලොව වේගවත්ම 20යි 20 ජාත්‍යන්තර ශතකය වාර්තා කිරීමට නැමීබියා ක්‍රීඩකයෙක් සමත්වී තිබේ.
+
+ඔහු නේපාලයට එරෙහිව පැවති තරගයකදී පන්දු 33කින් ශතකය වාර්තා කළේය.
+
+එතෙක් එම වාර්තාව හිමිකරගෙන සිටි නේපාලයේ කුශාල් මල්ලා ද සහභාගී වී සිටීම විශේෂත්වය කි.
+
+◼️
+
+[Data](articles/65876761.json)
+
 ---
 
 ### Sri Lanka to give Rs20bn in SME loans with ADB support
@@ -67,6 +177,22 @@ The loans will be given through licensed credit institutions. “They will issue
 [Data](articles/be03cfd4.json)
 
 [Extended Data](ext_articles/be03cfd4.ext.json)
+
+---
+
+### இலங்கையில் பெண் கைதிகள் சடுதியாக அதிகரிப்பு…!
+
+*2024-02-27 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177422) · `ta`
+
+இலங்கையிலுள்ள சிறைச்சாலைகளில் பெண் கைதிகளின் எண்ணிக்கை சடுதியாக அதிகரித்துள்ளதாக சிறைச்சாலைகள்  திணைக்களத்தின் புள்ளி விபரங்கள் தெரிவிக்கின்றன. அதாவது 2022 ஆம் ஆண்டு தொடக்கம் இந்த அதிகரிப்பு ஏற்பட்டுள்ளதாகத் தெரிவிக்கப்படுகின்றது.
+
+இதன் மூலம் பெண்கள் அதிக குற்றச்சம்பவங்களுக்கு காரணகர்த்தாக்களாகி வருகின்றனர் என்பதுவும் அது குறித்த தேடல்களுக்கும் ஆய்வுகளுக்கும் இது வித்திட்டுள்ளது என்றும் பெண் சிவில் அமைப்புகள் சுட்டிக்காட்டியுள்ளன. கொரொனா நெருக்கடிகளின் பின்னர் சில குடும்பத்தலைவர்களுக்கு பணி இழப்புகள் ஏற்பட்டன. இக்காலகட்டத்தில் குடும்பங்களை சரியாக நிர்வகிப்பதில் பெரும் பங்கை இல்லதரசிகளே எடுத்துக்கொண்டிருந்தனர்.
+
+எனினும் 2022 இற்குப்பிறகு இதில் ஏற்பட்ட மாற்றங்கள் அவர்களை குற்றச்செயல்களுக்கு தூண்டி விடுவதற்கான காரணங்கள் ஆராயத்தக்கன. புள்ளி விபரங்களின் படி, 2021 ஆம் ஆண்டை விட 2022 ஆம் ஆண்டு குற்றம் நிரூபிக்கப்பட்டு தண்டனை தீர்ப்பளிக்கப்பட்ட பெண்களின் எண்ணிக்கை 81 வீதத்தால் அதிகரித்துள்ளது என்பது தெரிய வந்துள்ளது.
+
+...
+
+[Data](articles/97e7265d.json)
 
 ---
 
@@ -143,6 +269,8 @@ Muthukumarana is next in line on the SLPP list for the Anuradhapura District.
 ◼️
 
 [Data](articles/887267fd.json)
+
+[Extended Data](ext_articles/887267fd.ext.json)
 
 ---
 
@@ -1871,153 +1999,5 @@ The suspect is a 21 year old resident of Talpe, Yalagalgama.
 [Data](articles/941bf04f.json)
 
 [Extended Data](ext_articles/941bf04f.ext.json)
-
----
-
-### University non-academic workers prepare to strike
-
-*2024-02-27 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193860) · `si`
-
-The university non-academic staff has decided to work in strike, taking on several demands including a salary increase.
-
-Dhammika Priyantha stated that the strike is being implemented tomorrow (28) and tomorrow (28) and tomorrow.
-
-Dhammika Priyantha stated that if the authorities do not take steps to address their problem within a week, he is involved in a massive trade union action.
-
-◼️
-
-[Data](articles/ef301fd9.json)
-
-[Extended Data](ext_articles/ef301fd9.ext.json)
-
----
-
-### Rats on board ground SriLankan flight
-
-*2024-02-27 06:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rats-on-board-ground-SriLankan-flight/108-277796) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - Rats were found on board a SriLankan Airlines aircraft on Sunday, forcing the authorities to delay flight, SriLankan Airlines Chairman Ashok Pathirage said yesterday.
-
-“We had to spray a chemical to an aircraft in which rats were found and ground it for one day as per the international standards,” Mr. Pathirage told a discussion which was held at Ports, Shipping and Aviation Ministry.
-
-Two other aircraft had to be delayed due to technical defects,” he added.
-
-Minister of Ports, Shipping and Aviation Nimal Siripala then questioned as to whether any investigation was done to determine as to how the animals managed to creep into the aircraft.
-
-It was also revealed that the absence of 15 ground handling staff also caused the delay. Three members of staff have applied for leave on Sunday, while the remaining 12 have kept away from work casually. “Sack those who kept away from work without applying for leave,” the angry minister said.
-
-...
-
-[Data](articles/3ec91a67.json)
-
----
-
-### Rats on board ground two SriLankan flights
-
-*2024-02-27 06:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rats-on-board-ground-two-SriLankan-flights/108-277796) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - Rats were found on board two SriLankan Airlines aircraft on Sunday, forcing the authorities to delay flights, SriLankan Airlines Chairman Ashok Pathirage said yesterday.
-
-“We had to spray a chemical to two aircraft in which rats were found and ground them for one day as per the international standards,” Mr. Pathirage told a discussion which was held at Ports, Shipping and Aviation Ministry.
-
-Two other aircraft had to be delayed due to technical defects,” he added.
-
-Minister of Ports, Shipping and Aviation Nimal Siripala then questioned as to whether any investigation was done to determine as to how the animals managed to creep into the aircraft.
-
-It was also revealed that the absence of 15 ground handling staff also caused the delay. Three members of staff have applied for leave on Sunday, while the remaining 12 have kept away from work casually. “Sack those who kept away from work without applying for leave,” the angry minister said.
-
-...
-
-[Data](articles/b15e105e.json)
-
-[Extended Data](ext_articles/b15e105e.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-02-27 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193858) · `si`
-
-Showers will occur at times in the Nuwara Eliya, Matale and Polonnaruwa districts today (27).
-
-The department states that several showers may occur in the Eastern and Uva provinces and in the Anuradhapura district.
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces, Kandy, Galle and Galle and the districts.
-
-From time to time in the East, East, North, South, Southern, Uva and Eastern Provinces. The Department of Meteorology announces that strict winds can occur.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/02dd6a6e.json)
-
-[Extended Data](ext_articles/02dd6a6e.ext.json)
-
----
-
-### 'White Face Party', who became 'little moscow'
-
-*2024-02-27 05:47:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd171w2r6lpo) · `si`
-
-International attention has been paid to a party that was to be held at a travel restaurant in Unawatuna, Galle.
-
-The party received international attention with the organizers that the organizers had only separated "white faces".
-
-The party was planned to be held on Saturday, February 24, Sarayka Lounge.
-
-However, Sarayka Lounge had stated that steps have been taken to stop the party immediately to operate on February 23.
-
-It hosting various events in his restaurant and that this is also such a time or program, or before racial expressions or organizations.
-
-In the propaganda of the Social Media, the social media was constantly led to the party that was restricted to tourists.
-
-The local government media users were severely criticized by the colored decisions through such parties.
-
-...
-
-[Data](articles/e7b72f65.json)
-
-[Extended Data](ext_articles/e7b72f65.ext.json)
-
----
-
-### Increase in attendance of tourists
-
-*2024-02-27 04:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-வருகை-அதிகரிப்பு/175-333860) · `ta`
-
-In the first 18 days of this month alone, 138,736 tourists visited the country.
-
-This was stated in a renewed statement issued by the Tourism Development Authority.
-
-The Tourism Development Authority said that 20 thousand 101 from Russia, 18 thousand 564 from India and 10 thousand 696 from China.
-
-The Tourism Development Authority said that 2 lakhs 82 thousand 53 tourists visited the country last January.. (A)
-
-◼️
-
-[Data](articles/a7ac36d6.json)
-
-[Extended Data](ext_articles/a7ac36d6.ext.json)
-
----
-
-### The problems of the people should not be limited to the problems of the hill country
-
-*2024-02-27 04:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மக்களின்-பிரச்சினைகளை-மட்டுப்படுத்தக்-கூடாது/175-333859) · `ta`
-
-The problems of the Tamil people should not be limited to the daily salary. Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman said that house, land, education, health and infrastructure should be focused on improve their quality of life.
-
-Minister Jeevan Thondaman said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-In terms of the activities of the Ministry of Plantation Infrastructure, the foundation stone for 1300 houses was laid on the 19th. We started it simultaneously as there should be no delay in this program. We are planning to start the remaining 8700 houses simultaneously. Because we want to act on the basis of a system. This 1300 housing scheme will be completed in August.
-
-A few political parties have also signed Memorandum of Understanding to address the problems of the Tamil people. Memorandum of Understanding is not required to solve the problems of the Tamil people.
-
-...
-
-[Data](articles/70ee126f.json)
-
-[Extended Data](ext_articles/70ee126f.ext.json)
 
 ---

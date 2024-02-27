@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 22:50:48**
+As of **2024-02-27 23:02:56**
 
 ## Newspaper Stats
 
-*Scraped **9,658** Articles*
+*Scraped **9,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,164
 tamilmirrorlk | 1,180
 virakesarilk | 1,322
 dailymirrorlk | 1,451
-adaderanasinhalalk | 1,463
+adaderanasinhalalk | 1,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,658 (100.0%) of 9,658 articles have been extended.
+9,659 (100.0%) of 9,659 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,24 @@ He was receiving treatment at a private hospital in Colombo at the time of his d
 [Data](articles/93fa66e8.json)
 
 [Extended Data](ext_articles/93fa66e8.ext.json)
+
+---
+
+### Ronnie too passes away
+
+*2024-02-27 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193892) · `si`
+
+Ronnie de, former finance minister has passed away.
+
+He was the Minister of Finance of the government in 1978.
+
+Ronnie de Mel became popular as the Minister of Finance 11 times in Sri Lanka.
+
+◼️
+
+[Data](articles/b4862072.json)
+
+[Extended Data](ext_articles/b4862072.ext.json)
 
 ---
 
@@ -2033,23 +2051,5 @@ Six of the services canceled flights are owned by SriLankan Airlines.
 [Data](articles/d2b049e7.json)
 
 [Extended Data](ext_articles/d2b049e7.ext.json)
-
----
-
-### Sri Lanka parliamentary committee says electricity tariffs should be reduced by 20 pct
-
-*2024-02-27 11:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliamentary-committee-says-electricity-tariffs-should-be-reduced-by-20-pct-152229/) · `en`
-
-ECONOMYNEXT — A parliamentary Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis has recommended to the Public Utilities Commission of Sri Lanka (PUCSL) that electricity tariffs be reduced by at least 20 percent.
-
-A statement from parliament said on Monday February 26 that, following an analytical review of the figures presented by the Electricity Board, Public Utilities Commission, etc. and taking into consideration all other factors affecting the price of electricity, including considering the opinion given by experts that the existing electricity price can be reduced by about 33%, price of electricity should be reduced by at least 20% in the year 2024 so that the state-run Ceylon Electricity Board (CEB) will not suffer any loss.
-
-PUCSL officials have informed the Committee that by the end of this month, they can submit the necessary recommendations to reduce the electricity bill, according to the statement.
-
-...
-
-[Data](articles/e397f3b3.json)
-
-[Extended Data](ext_articles/e397f3b3.ext.json)
 
 ---

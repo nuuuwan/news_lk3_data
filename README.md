@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 21:33:30**
+As of **2024-02-27 21:52:36**
 
 ## Newspaper Stats
 
-*Scraped **9,651** Articles*
+*Scraped **9,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 economynextcom | 500
 dailyftlk | 505
 islandlk | 511
-adalk | 817
+adalk | 819
 adaderanalk | 1,162
-tamilmirrorlk | 1,179
+tamilmirrorlk | 1,180
 virakesarilk | 1,321
 dailymirrorlk | 1,451
-adaderanasinhalalk | 1,462
+adaderanasinhalalk | 1,463
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,649 (100.0%) of 9,651 articles have been extended.
+9,651 (100.0%) of 9,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### පොලිස්පති වෙනුවෙන් ආ හිමිවරු
+
+*2024-02-27 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193891) · `si`
+
+වැඩබලන පොලිස්පතිවරයා ලෙස කටයුතු කළ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයට පත්කිරීම වළක්වන්නැයි ඉල්ලා කාදිනල් හිමිපාණන් ඇතුළු සිවිල් සංවිධාන කිහිපයක් ගොනුකර ඇති මුලික අයිතිවාසිකම් ශ්‍රේෂ්ඨාධිකරණයේදි අද (27) පෙරවරුවේ සලකා බැලුවේය.
+
+එහිදී ජනාධිපති නීතිඥ මනෝහර ද සිල්වා මහතා අධිකරණය හමුවේ කියා සිටියේ මෙම පෙත්සම් සම්බන්ධයෙන් මැදිහත් වී කරුණු දැක්වීම සඳහා භික්ෂූන් වහන්සේ හත් නමකට අවසර දෙන ලෙස ඉල්ලා මෝසමක් ගොනුකර ඇති බවයි.
+
+...
+
+[Data](articles/d683dd3e.json)
+
+---
 
 ### Productivity & Marketing Division to be discontinued due to ‘unproductivity’
 
@@ -48,21 +62,51 @@ Last year, Minister Amaraweera gave directives to temporarily halt giving permis
 
 [Data](articles/2f27fd27.json)
 
+[Extended Data](ext_articles/2f27fd27.ext.json)
+
 ---
 
-### යතුරුපැදිකරුගෙන් රු 10,000ක් අල්ලස් ඉල්ලූ පොලීසියේ දෙදෙනා
+### சிறுவன் துஷ்பிரயோகம்; சந்தேகநபருக்கு 7 வருட கடூழிய சிறை
+
+*2024-02-27 20:34:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவன்-துஷ்பிரயோகம்-சந்தேகநபருக்கு-7-வருட-கடூழிய-சிறை/175-333902) · `ta`
+
+வலப்பனை - மத்துரட்ட பொலிஸ் பிரதேசத்தில் 14 வயது சிறுவன் ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகம் செய்ததாக குற்றம் சுமத்தப்பட்ட நபருக்கு 7 வருட கடூழிய சிறை தண்டனை வழங்கி தீர்ப்பளிக்கப்பட்டது.
+
+இந்த தீர்ப்பினை நுவரெலியா மேல் நீதிமன்ற நீதவான் விராஜ் வீரசூரிய இன்று (27) மாலை வழங்கினார்.
+
+இந்த வழக்கு கடந்த ஏழு வருடங்களாக நுவரெலியா மேல் நீதி மன்றத்தில் விசாரிக்கப்பட்டு வந்தது.
+
+இந்த நிலையில் குற்றவாளியாக இனங்காணப்பட்ட வலப்பனை - மத்துரட்ட பிரதேசத்தை சேர்ந்த மந்திலக்க திஸாநாயக்க 14 வயது சிறுவன் ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகம் செய்ததாக இவருக்கு எதிராக வழக்கு தொடரப்பட்டிருந்தது.
+
+மேலும், பாதிக்கப்பட்ட சிறுவனுக்கு 04 லட்சத்து 50 ஆயிரம் ரூபாய் நஷ்ட ஈடு வழங்க வேண்டும் எனவும் இந்த தொகையை வழங்காத பட்சத்தில் மேலும் மூன்று வருடங்கள் சிறை தண்டனை அனுபவிக்க வேண்டும் எனவும் தீர்ப்பு வழங்கினார்.
+
+அதேநேரத்தில் தீதிமன்ற தண்டனை பணமாக 15 ஆயிரம் வழங்க வேண்டுமென அறிவித்த நீதிபதி இத் தொகையை செலுத்தாத பட்சத்தில் மேலும் மூன்று மாதங்கள் சிறை தண்டனை அனுபவிக்க வேண்டும் எனவும் தனது தீர்ப்பில் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/2a5416e7.json)
+
+---
+
+### 10,000 policemen who requested the motorcycle
 
 *2024-02-27 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193890) · `si`
 
-යතුරුපැදි නඩුවකට අදාළ ව පොලිස් භාරයට ගත් රියදුරු බලපත්‍රයක් නැවත ලබාදීම සඳහා එම යතුරුපැදිකරුගෙන් රුපියල් 10,000ක අල්ලස් මුදලක් ලබාගත් බව කියන ඉත්තෑපාන පොලීසියේ සැරයන්වරයෙකු හා ආධුනික කොස්තාපල්වරයෙකු ලබන මස 12 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් අද (27) නියෝග කළේය.
+Colombo Chief Magistrate Prasanna Alwis today ordered that a bribe of the motorcyclist to reserve a bribe of a motorcycle file.
 
-යගිරල ප්‍රදේශයේ පදිංචි දිමුත් මධුශංක නැමැති පුද්ගලයෙකු අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව වෙත කරන ලද පැමිණිල්ලක් අනුව සැකකාර පොලිස් නිලධාරීන් දෙදෙනා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබුණි.
+According to a complaint lodged by the Bribery or Corruption Commission, the two suspects were arrested and produced before the court.
 
-පැමිණිලිකාර පුද්ගලයා යතුරුපැදියෙන් ඉත්තෑපාන ප්‍රදේශයේ ගමන් ගනිමින් සිටින අතරතුරදී මාර්ග නීති උල්ලංඝනය කිරීමේ සිද්ධියකට අදාළව ඔහුව අත්අඩංගුවට ගෙන ඇති බවත් ඔහු සතු රියදුරු බලපත්‍රයද සිය භාරයට ගෙන ඇති පොලිස් නිලධාරීන් දෙදෙනා ඔහුට දඩ පත්‍රිකාවක් ලබාදී ඇති බවද අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් අධිකරණයට දැන්වීය.
+The Bribery Investigation Commission officials informed the court that the two police officers who have been arrested by the complainant in the isthpana area in a motorcycle.
+
+The complainant who had obtained the fines went to the Ihalapana Post Office and had gone to the court to obtain the driver's license after payment of the driver.
+
+Officers of the Commission have asked whether it is a legal driving license at the police station and request whether it is a legal driver's license and to pay more.Informed the judiciary.
 
 ...
 
 [Data](articles/9c8a3f6f.json)
+
+[Extended Data](ext_articles/9c8a3f6f.ext.json)
 
 ---
 
@@ -90,6 +134,26 @@ The continuation of the national political parties continues. Various elections 
 
 ---
 
+### ගුවන් මගීන්ට සිදුවන අපහසුතාව ගැන ගුවන් තොටුපොළ සමාගමේ සභාපතිගේ කනගාටුව
+
+*2024-02-27 19:46:41* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-මගීන්ට-සිදුවන-අපහසුතාව-ගැන-ගුවන්-තොටුපොළ-සමාගමේ-සභාපතිගේ-කනගාටුව/11-408313) · `si`
+
+ශ්‍රී ලන්කන් ගුවන් යානා 02/27 දින අවලංගු වීම සහ ප්‍රමාද වීම් වලට ලක් වීම නිසා ගුවන් මගීන් පත් වී ඇති අපහසුතා පිළිබඳ සීමාසහිත ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගමේ සභාපති ඉංජිනේරු අතුල ගල්කැටිය මහතා සිය කනගාටුව පළ කළේය.
+
+කටුනායක  මාක්ෆෙඩ් පරිශ්‍රයේ පිහිටි නිළ නිවසේ 02/27 දින පස්වරු 01.00 පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී සභාපතිවරයා එසේ කනගාටු පළ කළේය .
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ සභාපතිවරයා ශ්‍රී ලන්කන් ගුවන් සේවය තුළ අර්බුද රාශියක් පවතින බවත් , ඒ අතර තාක්ෂණික ගැටළු , ගුවන් යානා සදහා අමතර කොටස් හිගය , සේවක ගැටළු ඇති බවත් පැවසීය .
+
+මෙම ගැටළු විසදා ගැනීම සදහා තමන් සතුව ද යෝජනා කීපයක් ඇති බවත් , ශ්‍රී ලන්කන් ගුවන් සේවය සමග සාකච්ඡා කර මේ ගැටළු නිරාකරණය කර ගැනීමට හැකි බවත් අතුළ ගල්කැටිය මහතා පැවසීය .
+
+ගුවන් යානා සදහා ප්‍රවේශ පත්‍ර මාස කීපයකට පෙර අලෙවි කරන බවත් , ඒ අතරතුර හදිසියේම ගුවන් යානයක් කාර්මික දෝශයකට ලක් වුවහොත් , එම යානයේ ගුවන් ගමන් අවලංගු කිරීමට සිදු වන බවත් පැවසීය .
+
+...
+
+[Data](articles/118ca6c2.json)
+
+---
+
 ### Expectation to submit amendment to the Parade law in the future;Separate Loan Scheme for Small and Medium Entrepreneurs -Vijayadasa Rajapaksa
 
 *2024-02-27 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177452) · `ta`
@@ -109,6 +173,22 @@ Many sides questioned whether the central bank focused on the country's stockpil
 [Data](articles/3ec94af4.json)
 
 [Extended Data](ext_articles/3ec94af4.ext.json)
+
+---
+
+### අධිවේගයේ අනතුරින් කම්කරුවන් දෙදෙනෙක් මරුට
+
+*2024-02-27 19:35:19* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයේ-අනතුරින්-කම්කරුවන්-දෙදෙනෙක්-මරුට/11-408312) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේබද්දේගම අන්තර් හුවමාරුව ආසන්නයේ සේවය කරමින් සිටි කම්කරුවන් දෙදෙනකු ඒම මාර්ගයේ ගමන්ගත් ලොරි රථයක ගැටීම හේතුවෙන් තුවාල ලබා මියගොස් ඇතැයි පොලිසිය පවසයි.  අද (27) පෙරවරු 11.30ට පමණ මෙම අනතුර සිදුව ඇති අතර බරපතල තත්ත්වයේ සිටි මොවුන්ගාල්ල කරාපිටිය රෝහලට ඇතුලත් කරන විටත් මියගොස් සිට ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ වලහේන හේවගේ පද්මසිරි (63) සහ අමිල ප්‍රසාද්(32) නැමැති අයයි. මොවුහු ඉමදුව ප්‍රදේශයේ පදිංචිකරුවෝ වෙති.
+
+අධිවේගී මාර්ගයේ 85වන කිලෝමීටරය ආසන්නයේදී මෙම අනතුර සිදුව ඇති බවත් දොඩංගොඩ සිට මාතර බලා ධාවනය වූ ලොරි රථයක මොවුන් ගැටී ඇති බවත් සඳහන් වේ. දක්ෂීණ අධිවේගී මාර්ගයේ ඒම කොටසේ නඩත්තු කටයුත්තක් හේතුවෙන් වාහන ධාවනය ඒක් මංතීරුවකට පමණක් සීමා කර තිබී ඇති අතර ඒම ස්ථානයේ සේවය කරමින් සිටි කම්කරුවන් දෙදෙනකු මෙලෙස අනතුරට පත්වී තිබේ.
+
+◼️
+
+[Data](articles/20861d49.json)
 
 ---
 
@@ -1949,79 +2029,5 @@ Premarathna was elected to parliament in Anuradhapura in the 2020 election with 
 [Data](articles/505e5dee.json)
 
 [Extended Data](ext_articles/505e5dee.ext.json)
-
----
-
-### Uddika Premarathne resigns as MP
-
-*2024-02-27 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97562/uddika-premarathne-resigns-as-mp-) · `en`
-
-Uddika Premarathne of Sri Lanka Podujana Peramuna (SLPP) has resigned as a Member of Parliament.
-
-The Anuradhapura District parliamentarian has handed over the letter of resignation to the Deputy General Secretary of Parliament Mr. Chaminda Kularatne, earlier today (Feb.27).
-
-Accordingly, in accordance with Section 64(1) of the Parliamentary Elections Act No. 1 of 1981, the Secretary General of the Parliament is to inform the Chairman of the Election Commission that the seat of Uddika Premarathne, Member of Parliament in the Ninth Parliament, is vacant, the Communication Department of Parliament said in a press release.
-
-In 2020, the popular actor was announced as a candidate for the 2020 parliamentary election from the Anuradhapura District as a member of the Sri Lanka People’s Freedom Alliance, a political alliance led by the SLPP formed in 2019.
-
-He obtained 133,550 votes and won a seat in the 16th Parliament of Sri Lanka.
-
-...
-
-[Data](articles/3e21dd64.json)
-
-[Extended Data](ext_articles/3e21dd64.ext.json)
-
----
-
-### Resigns from office
-
-*2024-02-27 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193874) · `si`
-
-The Anuradhapura District MP, Anuradhapura District MP, has been handed over to a letter of resignation from his seat.
-
-Mr. Speaker Mahinda Yapa Abeywardena confirmed this in response to Ada Derana.
-
-◼️
-
-[Data](articles/5f57c52d.json)
-
-[Extended Data](ext_articles/5f57c52d.ext.json)
-
----
-
-### Sri Lanka sets up fund to help children of Gaza
-
-*2024-02-27 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-sets-up-fund-to-help-children-of-gaza-152218/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved a proposal by President Ranil Wickremesinghe to set up a fund to help children caught in the war in Gaza, a statement said.
-
-The government will contribute a million US dollars and use funds allocated by state agencies for Ifthar celebrations.
-
-The Presidential Secretariat is requesting public donations citizens for the “Children of Gaza Fund” to be contributed to account number 7040016 at Bank of Ceylon (7010), Taprobane Branch (747) by 11th April.
-
-Deposit receipts should to be forwarded to 0779730396 via WhatsApp. (Colombo/Feb27/2024)
-
-◼️
-
-[Data](articles/8c94e0bd.json)
-
-[Extended Data](ext_articles/8c94e0bd.ext.json)
-
----
-
-### Top US official calls for inclusive reforms, deeper defence ties with Sri Lanka
-
-*2024-02-27 11:35:00* · [`economynextcom`](https://economynext.com/top-us-official-calls-for-inclusive-reforms-deeper-defence-ties-with-sri-lanka-152216/) · `en`
-
-ECONOMYNEXT — United States Deputy Secretary of State for Management and Resources Richard Verma in discussions with Sri Lanka officials had called for inclusive reforms and stronger human rights and also discussed deeper defence and maritime cooperation.
-
-The United States remains committed to the economic growth and prosperity of Sri Lanka, statement from the US Embassy in Colombo quoted the official as telling government, civil society and economic leaders during his February 23-24 visit to Sri Lanka.
-
-...
-
-[Data](articles/36f74222.json)
-
-[Extended Data](ext_articles/36f74222.ext.json)
 
 ---

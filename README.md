@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 00:17:54**
+As of **2024-02-28 00:33:19**
 
 ## Newspaper Stats
 
-*Scraped **9,672** Articles*
+*Scraped **9,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 500
 dailyftlk | 505
 islandlk | 511
 adalk | 819
-adaderanalk | 1,165
+adaderanalk | 1,166
 tamilmirrorlk | 1,181
 virakesarilk | 1,323
 dailymirrorlk | 1,461
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,672 (100.0%) of 9,672 articles have been extended.
+9,672 (100.0%) of 9,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Mutukumarana to fill MP seat vacated by Premarathne
+
+*2024-02-27 23:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97579/mutukumarana-to-fill-mp-seat-vacated-by-premarathne) · `en`
+
+S. C. Mutukumarana is tipped to fill the vacancy in parliament created after the resignation of MP Uddika Premarathne earlier today (Feb.27).
+
+The Anuradhapura District parliamentarian stepped down from his post for reasons yet to be made public.
+
+Premarathne has thus submitted his letter of resignation to the Deputy General Secretary of Parliament Mr. Chaminda Kularatne.
+
+Accordingly, Mutukumarana is reportedly next in line on the Sri Lanka Podujana Peramuna (SLPP) list for the Anuradhapura District.
+
+◼️
+
+[Data](articles/bd712bd5.json)
+
+---
 
 ### More than 10 SriLankan flights delayed today, at least 3 cancelled
 
@@ -2023,25 +2041,5 @@ The fishermen in the area say that if the fishermen are engaged in fishing, the 
 [Data](articles/367fb034.json)
 
 [Extended Data](ext_articles/367fb034.ext.json)
-
----
-
-### NPP to support no-faith motion on Speaker
-
-*2024-02-27 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-to-support-no-faith-motion-on-Speaker/108-277807) · `en`
-
-Colombo, Feb. 27 (Daily Mirror)- The National People's Power (NPP) will support the no-confidence motion which is to be brought in by the Opposition against Speaker Mahinda Yapa Abeywardhane, former NPP MP Dr. Nalinda Jayatissa said today.
-
-He told a news conference that the no-confidence motion is to be brought in regarding a Consitutional matter and not against the Speaker's conduct in Parlaiment or his reactions to the Opposition and therfere, the NPP will vote against the Speaker.
-
-He said the amendments to the Online Safety Bill as recommended by the Attorney General had not been included during the Committee Stage and that the Speaker and his staf is expected to ensure that all proposed amendments are included.
-
-He said it is a violation of Parliamentary traditions and the no-confidence motion against the Speaker is justifible.
-
-◼️
-
-[Data](articles/aa7c4bf9.json)
-
-[Extended Data](ext_articles/aa7c4bf9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 17:53:10**
+As of **2024-02-27 18:08:35**
 
 ## Newspaper Stats
 
-*Scraped **9,609** Articles*
+*Scraped **9,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ islandlk | 511
 adalk | 811
 adaderanalk | 1,158
 tamilmirrorlk | 1,177
-virakesarilk | 1,313
-dailymirrorlk | 1,448
+virakesarilk | 1,315
+dailymirrorlk | 1,449
 adaderanasinhalalk | 1,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,609 (100.0%) of 9,609 articles have been extended.
+9,612 (100.0%) of 9,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Police officer commits suicide inside court premises
+
+*2024-02-27 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177446) · `ta`
+
+Police say a police officer has shot himself in the courtroom.
+
+A 52 -year -old police officer who was on duty at the Kodawila Police Station has committed suicide.
+
+Returning to duty from holiday, he committed suicide at the Kodawawa court premises.
+
+◼️
+
+[Data](articles/ff787570.json)
+
+[Extended Data](ext_articles/ff787570.ext.json)
+
+---
 
 ### Tear gas fired at protest near Peradeniya University
 
@@ -51,6 +69,10 @@ Police have used tear gas and water cannons to disperse a group of protesting st
 *2024-02-27 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97571/tear-gas-fired-at-protest-near-jpura-university) · `en`
 
 Police have used tear gas and water cannons to disperse a group of protesting students near the University of Sri Jayewardenepura.
+
+The protest march was organized by the students’ union of the Faculty of Humanities and Social Sciences of the Sri Jayewardenepura University.
+
+The agitation was reportedly launched demanding solutions to several concerns including issues related to hostels, cafeterias and delays in ‘Mahapola’ scholarship payments.
 
 ◼️
 
@@ -77,6 +99,28 @@ For this reason, the members of the public are advised to stay hydrated, take br
 [Data](articles/2d5593cf.json)
 
 [Extended Data](ext_articles/2d5593cf.ext.json)
+
+---
+
+### US Air Force soldier death in front of Israel's embassy
+
+*2024-02-27 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177435) · `ta`
+
+A US Air Force soldier, who was rescued with burns, has died when he tried to set fire to the Israeli embassy in Washington.
+
+In protest against the Gaza War, a US Air Force burns himself outside the Israeli embassy in Wosnington
+
+A web site has revealed that I am not interested in the massacre, which is still found in the military.
+
+The Times reports that the person was chanting as an independent Palestine before pouring fetus on himself.
+
+It is noteworthy that there are a series of demonstrations in front of the Israeli embassy in Wosnington after the war began in Gaza.
+
+◼️
+
+[Data](articles/c01b6c7a.json)
+
+[Extended Data](ext_articles/c01b6c7a.ext.json)
 
 ---
 
@@ -433,6 +477,26 @@ Meanwhile, flight SG 002, which was scheduled to leave for Chennai, India, has a
 [Data](articles/41d1b953.json)
 
 [Extended Data](ext_articles/41d1b953.ext.json)
+
+---
+
+### Seven flights including SriLankan flights delayed
+
+*2024-02-27 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Seven-flights-including-SriLankan-flights-delayed/108-277814) · `en`
+
+Katunayaka, Feb 27 (Daily Mirror) - Seven flights that were scheduled to leave for India, the Middle East and Thailand from the Katunayaka International Airport have been delayed today due to technical failures, an officer from the flight information centre said.
+
+She said six of the delayed flights were SriLankan Airlines flights.
+
+Accordingly, the US 173 flight, which was scheduled to leave for Bangalore, India at 1.10 a.m, the UL 402 flight which was scheduled to leave for Bangkok, Thailand, at 1.15 a.m. and the UL 135 SriLankan flight, which was scheduled to leave for Channai, India, were delayed this morning.
+
+Moreover, the UL 143 SriLankan flight, which was scheduled to leave for Mumbai, India, at 5.10 a.m, the UL 263 SriLankan flight scheduled to leave for Dammam in Saudi Arabia at 6.30 a.m. and the UL 207 flight scheduled to leave for Abu Dhabi in the United Arab Emirates at 6.50 a.m, had been delayed.
+
+...
+
+[Data](articles/7c79dd50.json)
+
+[Extended Data](ext_articles/7c79dd50.ext.json)
 
 ---
 
@@ -1935,59 +1999,5 @@ The men came on a motorbike and fired a T-56 fire, the police media unit said.. 
 [Data](articles/4b98c42f.json)
 
 [Extended Data](ext_articles/4b98c42f.ext.json)
-
----
-
-### Financial allegations rock legal unit of Sri Lanka Medical Council
-
-*2024-02-27 09:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Financial-allegations-rock-legal-unit-of-Sri-Lanka-Medical-Council/108-277797) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - Allegations of financial fraud and irregularities have cast a shadow over the Legal Unit of the Sri Lanka Medical Council (SLMC) in the wake of an independent audit report revealing financial irregularities within the Unit spanning from 2018 to 2022.
-
-The report, titled "Report on the Investigation of the Payment of Legal Fees from 2018 to 2022 and Evaluation of Functions of the Finance Division of the Sri Lanka Medical Council," was submitted by a senior Additional Auditor General (Retired) on January 19, 2024.
-
-Tabled and minuted during the monthly meeting of the SLMC on Thursday, February 22, the report detailed discrepancies in legal fee disbursements totalling approximately Rs. 43.3 million.
-
-...
-
-[Data](articles/d5a1bd78.json)
-
-[Extended Data](ext_articles/d5a1bd78.ext.json)
-
----
-
-### Shots fired into air near Wellawatte hotel
-
-*2024-02-27 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shots-fired-into-air-near-Wellawatte-hotel/108-277799) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - Two persons arriving on a motorcycle near a hotel (Pearl Beach) along Marine Drive in Wellawatte fired shots into the air before fleeing, police said.
-
-They said that the persons in question fled after firing a T-56 firearm into the air.
-
-Police recovered at least nine empty shells at the scene and suspect that the shots fired may have been a warning.
-
-◼️
-
-[Data](articles/3113e16a.json)
-
-[Extended Data](ext_articles/3113e16a.ext.json)
-
----
-
-### Buel pricing relief
-
-*2024-02-27 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193866) · `si`
-
-Power and Energy Minister Kanchana Wijesekara says he will provide relief to the field of fuel.
-
-Addressing at the Adawara 360 program, the Minister said that he would reduce the 4% promotion to the government in the prices.
-
-"We expect the price formulating the price formula covering the 4 percent reduced expenses from zero to 4. We are trying to use those 4% to compete with the Petroleum Corporation, other Lioc and Syhope. Last year we had the ability to hand over the older debts and the loans of the ownership of the ownership of the 4% older.. We hope to provide the benefit to the people to promptly promptly. Now we are gazetting the maximum retail price of the Ministry. Then the CPC and LIOC will often go to the maximum price. Selling only a zinoopte. In the next price, we look forward to the CPC and the CPC gives them the opportunity to contest for them at a cost. "
-
-◼️
-
-[Data](articles/45b8892d.json)
-
-[Extended Data](ext_articles/45b8892d.ext.json)
 
 ---

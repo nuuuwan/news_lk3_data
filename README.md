@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 20:33:01**
+As of **2024-02-27 20:50:31**
 
 ## Newspaper Stats
 
-*Scraped **9,644** Articles*
+*Scraped **9,645** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 96
-bbccomsinhala | 117
+bbccomsinhala | 118
 dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 500
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,644 (100.0%) of 9,644 articles have been extended.
+9,645 (100.0%) of 9,645 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1224,6 +1224,32 @@ The number of female prisoners in 2021 was 215 and it increased to 390 in 2022. 
 
 ---
 
+### Deshabandu Tennakoon: Didn't the legislative council agreed to appoint IGP?
+
+*2024-02-27 13:48:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce5k5j4ejveo) · `si`
+
+Deshabandu Tennakoon: Didn't the legislative council agreed to appoint IGP?
+
+Deshabandu Tennakoon (IGP) was appointed as the 3rd IGP of the Police Department by President Ranil Wickremesinghe.
+
+The Presidential Media Unit said the President said 41 C. (1) and 61 e. (1) and 61 e.
+
+However, the new IGP as the new IGP, Senior DIG Tennakoon, he suffered many parties.
+
+Would you not agree to appoint Deshabandu Tennakoon as IGP?There was a controversial situation in the cause of opposition leader Sajith Premadasa.
+
+Senior DIG Tennakoon has proposed the name of Senior DIG Deshabandu Tennakoon for the post of Police Policy.
+
+However, Opposition Leader Sajith Premadasa had questioned the Samajith Premadasa on the methodology of approval on February 26.
+
+...
+
+[Data](articles/0ddaec0a.json)
+
+[Extended Data](ext_articles/0ddaec0a.ext.json)
+
+---
+
 ### In the yarns. In interrogation of police officers who conflicted racist ideas
 
 *2024-02-27 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177412) · `ta`
@@ -1995,23 +2021,5 @@ The IHP said in a statement on February 22 that favourability estimates for each
 [Data](articles/a43e3408.json)
 
 [Extended Data](ext_articles/a43e3408.ext.json)
-
----
-
-### Cabinet permits president's idea of giving relief to Gaza Children
-
-*2024-02-27 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177404) · `ta`
-
-The Cabinet has granted permission to the proposal put forward by President Ranil Wickremesinghe to establish the Children of Gaza Fund to provide relief to children affected by the Gaza border.
-
-Accordingly, it has been advised to pay the amount allocated by ministries and state institutions for the events.
-
-Moreover, the cooperation of the people is expected and the Sri Lankan government will provide $ 1 million by the United Nations Residential Fund to provide relief to the affected children.
-
-◼️
-
-[Data](articles/6b0508c6.json)
-
-[Extended Data](ext_articles/6b0508c6.ext.json)
 
 ---

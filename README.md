@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 21:17:23**
+As of **2024-02-27 21:33:30**
 
 ## Newspaper Stats
 
-*Scraped **9,650** Articles*
+*Scraped **9,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 500
 dailyftlk | 505
 islandlk | 511
 adalk | 817
-adaderanalk | 1,161
+adaderanalk | 1,162
 tamilmirrorlk | 1,179
 virakesarilk | 1,321
 dailymirrorlk | 1,451
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,649 (100.0%) of 9,650 articles have been extended.
+9,649 (100.0%) of 9,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Productivity & Marketing Division to be discontinued due to ‘unproductivity’
+
+*2024-02-27 20:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97575/productivity-marketing-division-to-be-discontinued-due-to-unproductivity) · `en`
+
+Agriculture Minister Mahinda Amaraweera has given instructions to do away with the Productivity & Marketing Division operating under the purview of the Agrarian Development Department with immediate effect.
+
+The directives were given to the Commissioner General of Agrarian Development after the lawmaker was informed of the ‘unproductivity’ of the division.
+
+It has also come to light that the division continues to reclaim paddy lands despite the temporary ban imposed on the practice last year.
+
+Last year, Minister Amaraweera gave directives to temporarily halt giving permission to reclaim paddy land. As such, reclamation of paddy land is permitted only with the special permission of the Agriculture Ministry.
+
+◼️
+
+[Data](articles/2f27fd27.json)
+
+---
 
 ### යතුරුපැදිකරුගෙන් රු 10,000ක් අල්ලස් ඉල්ලූ පොලීසියේ දෙදෙනා
 
@@ -2005,23 +2023,5 @@ The United States remains committed to the economic growth and prosperity of Sri
 [Data](articles/36f74222.json)
 
 [Extended Data](ext_articles/36f74222.ext.json)
-
----
-
-### At the Matale meeting to appoint Namal Rajapaksa as presidential candidate
-
-*2024-02-27 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177405) · `ta`
-
-At a meeting of the party's Matale district representatives, the proposal was presented to the appointment of Hambantota district parliamentarian Namal Rajapaksa as the presidential candidate of the Sri Lanka PA.
-
-However, it is reported that the President of the Sri Lanka Peoples Alliance (PA) Matale District President Janaka Bandara Tennakoon and his son and Defense Minister Pramitha Bandara Thennakon have not been invited to the meeting.
-
-Several MPs including party secretary Sakara Kariyawasam MP and members of the Sri Lanka PA of the Matale District were present at the meeting.
-
-◼️
-
-[Data](articles/59e28d6c.json)
-
-[Extended Data](ext_articles/59e28d6c.ext.json)
 
 ---

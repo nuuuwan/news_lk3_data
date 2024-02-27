@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 09:51:54**
+As of **2024-02-27 10:02:36**
 
 ## Newspaper Stats
 
-*Scraped **9,503** Articles*
+*Scraped **9,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 481
 dailyftlk | 504
 islandlk | 508
-adalk | 799
+adalk | 800
 adaderanalk | 1,143
-tamilmirrorlk | 1,167
+tamilmirrorlk | 1,168
 virakesarilk | 1,294
 dailymirrorlk | 1,430
 adaderanasinhalalk | 1,438
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,438
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,503 (100.0%) of 9,503 articles have been extended.
+9,503 (100.0%) of 9,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### எரிபொருள் விலை சூத்திரத்தில் நிவாரணம்
+
+*2024-02-27 09:34:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-சூத்திரத்தில்-நிவாரணம்/175-333868) · `ta`
+
+எரிபொருள் விலை சூத்திரத்துக்கு எதிர்காலத்தில் நிவாரணம் வழங்கப்படும் என மின்சாரத்துறை அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+விலைச்சூத்திரத்தில் அரசாங்கத்துக்கு கிடைக்கும் 4% இலாபத்தை குறைத்து அந்த நிவாரணத்தை மக்களுக்கு வழங்க உள்ளதாக அவர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/57c00476.json)
+
+---
 
 ### Firing
 
@@ -1372,6 +1386,26 @@ In case of a plane crashing for some reason, it is impossible. It is the duty of
 
 ---
 
+### ශ්‍රී ලන්කන් නිකන් දුන්නත් ගන්න කවුරුවත් නෑ
+
+*2024-02-26 20:12:08* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-නිකන්-දුන්නත්-ගන්න-කවුරුවත්-නෑ/11-408294) · `si`
+
+ශ්‍රී ලංකන් ගුවන් සමාගම පවත්වාගෙන යෑමට නොහැකි නම් වසා දැමීමට සිදුවන බවවරාය, නාවික හා ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
+
+මෙරට ගුවන්තොටුපොළ මිලදී ගැනීමට අදානි සමාගම පමණක් නොව චීනය සහ රුසියාව ඇතුළු රටවල් රැසක් බලාපොරොත්තුවෙන් සිටින බවත් අමාත්‍යවරයාසඳහන්  කළේය.
+
+ශ්‍රී ලංකන් ගුවන් සමාගමේ ගුවන් නියමුවන් සහ ඉංජිනේරුවන් පසුගිය කාලයේ කළ වර්ජනහේතුවෙන් එම සමාගමට තිබූ පිළිගැනීම නැති වී ගිය බවත්ඒ හේතුවෙන් එම සමාගම නොමිලයේ දුන්නද භාරගැනීමට කිසිවෙක් ඉදිරිපත් නොවන තත්ත්වයකට පත්ව ඇති බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+පසුගියදා ගුවන් මගීන් අපහසුතාවයට ලක්කළ ගුවන්යානා ප්‍රමාදය සම්බන්ධයෙන් කරුණු විමසූ අමාත්‍යවරයා, එම නිලධාරීන්ව දැඩි ලෙස දෝෂදර්ශයට ලක්කළේය.කාර්යමණ්ඩලයේ ප්‍රමාදයන් හේතුවෙන් මෙලෙස මගීන් දැඩි අපහසුතාවකට පත්වූ බවද අමාත්‍යවරයා ප්‍රකාශ කළේය.
+
+අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා මේ බව පැවසුවේ වරාය, නාවික හා ගුවන්සේවා අමාත්‍යාංශයේදී ඊයේ (26දා) පැවැති විශේෂ මාධ්‍ය හමුවේදීය.
+
+◼️
+
+[Data](articles/c1277dbb.json)
+
+---
+
 ### Cabinet nod to suspend ’Parate execution’
 
 *2024-02-26 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-nod-to-suspend-Parate-execution/108-277752) · `en`
@@ -1957,45 +1991,5 @@ The Speaker is acting in parliament as the executive president's representative.
 [Data](articles/2d34139e.json)
 
 [Extended Data](ext_articles/2d34139e.ext.json)
-
----
-
-### 71 % of the official telephone lines of state agencies do not function properly: Information on the survey!
-
-*2024-02-26 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177367) · `ta`
-
-A study conducted by the University of Peradeniya has revealed that 71 % of the official telephone lines allocated to state institutions in the country did not function properly.
-
-The survey was conducted by a group of students of the Department of Economics and Statistics of the University under the guidance of Professor Vasantha Attukorala.
-
-According to the survey, only 29 percent of the official telephone lines introduced to contact state institutions are not functioning properly and 49 percent are not functioning and 22 percent will be responded.
-
-The survey includes the official telephone lines allocated to Grama Niladhari Officers, Samurdhi Officers and Development Officers from Divisional Secretariats across the country.
-
-Accordingly, according to data collected from 98 regions of the 276 regional councils, 14 percent of the telephone lines are not operating and 42 % are not responded.Only 44 % have been responded.
-
-...
-
-[Data](articles/5e4f9431.json)
-
-[Extended Data](ext_articles/5e4f9431.ext.json)
-
----
-
-### SriLankan Airlines faces permanent grounding?
-
-*2024-02-26 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-faces-permanent-grounding/108-277744) · `en`
-
-Colombo, Feb 26 (Daily Mirror) - Restructuring of the national carrier SriLankan Airlines is in tatters after Sunday’s ground handling debacle, Minister of Ports, Shipping and Aviation Nimal Siripala de Silva said today.
-
-“Deadline given to potential investors for submitting expressions to partner the national carrier ends on March 5. The information we have received as of now is that all those who have already expressed interest are planning to withdraw after the Sunday’s flight delay. We will have no option but to ground SriLankan airlines for good in  this situation,” the Minister told a discussion which was open to the media as well.
-
-Representatives of SriLankan Airlines and its Chairman Ashok Pathirage told the discussion that four flights were delayed on Sunday – with rats being found in two aircrafts while two others had technical issues.
-
-...
-
-[Data](articles/718a383e.json)
-
-[Extended Data](ext_articles/718a383e.ext.json)
 
 ---

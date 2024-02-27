@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 13:02:32**
+As of **2024-02-27 13:17:37**
 
 ## Newspaper Stats
 
-*Scraped **9,556** Articles*
+*Scraped **9,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 486
 dailyftlk | 504
 islandlk | 508
 adalk | 803
-adaderanalk | 1,149
+adaderanalk | 1,150
 tamilmirrorlk | 1,174
-virakesarilk | 1,308
+virakesarilk | 1,310
 dailymirrorlk | 1,437
 adaderanasinhalalk | 1,447
 
@@ -26,27 +26,85 @@ adaderanasinhalalk | 1,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,531 (99.7%) of 9,556 articles have been extended.
+9,556 (100.0%) of 9,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### மாதகல் விகாரைக்கு அருகில் மீன்பிடிக்கு தடை ; நூற்றுக்கணக்கான கடற்தொழிலாளர்கள் பாதிப்பு
+### உறங்கி கொண்டிருந்தபோது தாக்குதலுக்கு இலக்கான நபர் உயிரிழப்பு
+
+*2024-02-27 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177415) · `ta`
+
+வீட்டில் உறங்கி கொண்டிருந்தவர் மீது மேற்கொள்ளப்பட்ட தாக்குதலில் படுகாயமடைந்த நபர் யாழ்.போதனா வைத்தியசாலையில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+கிளிநொச்சி தர்மபுரம் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியைச் சேர்ந்த மூன்று பிள்ளைகளின் தந்தையான 44 வயதுடைய நடராசா ரவிக்குமார் என்பவரே உயிரிழந்துள்ளார்.
+
+கடந்த 20ஆம் திகதி தனது வீட்டில் உறங்கிக்கொண்டிருந்த வேளை, அவரது  முகம் மற்றும் தலை பகுதிகளில் கடுமையாக தாக்குதல் நடத்தப்பட்டுள்ளது.
+
+தாக்குதலில் படுகாயமடைந்தவரை கிளிநொச்சி வைத்தியசாலையில் அனுமதித்து, மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலையில் அனுமதித்த நிலையில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/a5416f91.json)
+
+---
+
+### Supreme Lanka Coalition to support no-confidence motion against Speaker
+
+*2024-02-27 12:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97564/supreme-lanka-coalition-to-support-no-confidence-motion-against-speaker) · `en`
+
+The Supreme Lanka Coalition (‘Uttara Lanka Sabhagaya’) has decided to endorse the no-confidence motion against Speaker of Parliament Mahinda Yapa Abeywardena.
+
+The decision was taken when the MP group of the political alliance formed by the group of independent political parties including Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila met on Monday (Feb.26).
+
+On Monday (Feb.26), several opposition parties led by Opposition Leader Sajith Premadasa signed a motion of no confidence against the Speaker, claiming that he had violated the Constitution.
+
+As such, a group of MPs belonging to the opposition in Parliament including M. A. Sumanthiran, Lakshman Kiriella, Prof. G. L. Pieris, Tissa Attanayake, Chandima Weerakkody and Shan Wijayalal de Silva, had inked the motion for approving the much-disputed Online Safety Bill amidst ‘irregular procedures’.
+
+...
+
+[Data](articles/9ad90a48.json)
+
+---
+
+### அவுஸ்திரேலியாவின் இறைமைக்கு சீனாவால் ஆபத்து - நாடாளுமன்றத்திற்கான தனது இறுதி உரையில் அவுஸ்திரேலிய முன்னாள் பிரதமர் ஸ்கொட்மொறிசன்
+
+*2024-02-27 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177416) · `ta`
+
+அவுஸ்திரேலியாவின் முன்னாள் பிரதமர் ஸ்கொட்மொறிசன் நாடாளுமன்றத்திற்கான தனது பிரியாவிடை உரையில் சீனாவால் ஏற்படக்கூடிய ஆபத்துக்கள் குறித்து சுட்டிக்காட்டியுள்ளார்.
+
+அவுஸ்திரேலியாவை கட்டாயப்படுத்த அல்லது ஆதாயம்தேட சீனா மேற்கொண்டுள்ள முயற்சிகள் குறித்து ஸ்கொட்மொறிசன் தனது நாடாளுமன்ற உரையில்  எச்சரித்துள்ளார்.
+
+சீனா மோதல் இராஜதந்திரத்தை மூலோபாய அடிப்படையில் தவிர்த்துவருவதை அடிப்படையாக வைத்து அந்தநாட்டின் நோக்கங்கள் பற்றி குழப்பம் ஏற்படக்கூடாது என தெரிவித்துள்ள ஸ்கொட்மொறிசன் சீனா சுதந்திரத்தை விட அதிகாரத்தை பலத்தை விரும்பும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+சீனா தனதுநோக்கங்கள் என வரும்போது தனது மக்கள் குறித்து அக்கறை கொள்ளாது எனவும் அவர் தெரிவித்துள்ளார்.
+
+இதன் காரணமாகவே எனது அரசாங்கம் சீனாவின் ஆக்கிரமிப்பினை வற்புறுத்தல்களை மிரட்டல்களை  எதிர்ப்பதில் உறுதியாகயிருந்தது எனவும் தெரிவித்துள்ள ஸ்கொட்மொறிசன்  நாங்கள் அடிபணிவோம் என சீனா நினைத்தது எனவும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/a72b362f.json)
+
+---
+
+### Prohibition of fishing near Madhakal Vihara;Hundreds of fishermen are affected
 
 *2024-02-27 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177414) · `ta`
 
-யாழ்ப்பாணம் - மாதகல் சம்பில்துறை (ஜம்புகோள பட்டினம்) விகாரைக்கு அருகில் உள்ள கடற்பரப்பில் மீன்பிடி நடவடிக்கையில் ஈடுபட வேண்டாம் என கடற்படையினர் தடை விதித்துள்ளதாக அப்பகுதி கடற்தொழிலாளர்கள் தெரிவித்துள்ளனர்.
+The Navy has banned fishing activities in the waters near the Vihara in the Jaffna - Madagal Sambilu (Jambukkoli Pattinam) Vihara, the area's fishermen said.
 
-சம்பில்துறை பகுதியில் அமைந்துள்ள சங்கமித்த விகாரையின் பின்புறமாக உள்ள கடற்பகுதிகளில் மீன் பிடியில் ஈடுபட வேண்டாம் என கடந்த 2013ஆம் ஆண்டு கடற்தொழிலாளர்களுக்கு கடற்படையினர் தடை விதித்த நிலையில் , அப்போதைய ஜனாதிபதி மஹிந்த ராஜபக்சவின் கவனத்திற்கு இவ்விடயம் கொண்டு செல்லப்பட்டதை அடுத்து , அப்பகுதிகளில் மீன் பிடியில் ஈடுபட கடற்படையினர் அனுமதித்தனர்.
+In 2013, after the Navy banned the fishermen from fishing in the seas behind the Sangamitha Vihara in the Sambilathur area, the Marines allowed the fishermen to engage in the area after being taken to the attention of the then President Mahinda Rajapaksa.
 
-இந்நிலையில் தற்போது அப்பகுதிக்கு பொறுப்பாக நியமிக்கப்பட்டுள்ள கடற்படை அதிகாரி , விகாரையின் பின் பகுதிகளில் மீன் பிடி நடவடிக்கையில் ஈடுபட வேண்டாம் என அறிவித்துள்ளார்.
+In this case, the Naval Officer, who is currently in charge of the area, has announced that he should not engage in fishing in the back of the Vihara.
 
-அத்துடன் அப்பகுதிக்கு அருகில் கடற்தொழிலாளர்கள் மீன் பிடி நடவடிக்கையில் ஈடுபட்டால் கடற்படையினர் அவர்களை அவ்விடத்தில் இருந்து துரத்தி வருகின்றனர் என அப்பகுதி கடற்தொழிலாளர்கள் தெரிவிக்கின்றனர்.
+The fishermen in the area say that if the fishermen are engaged in fishing, the Marines are chasing them away from the area.
 
 ◼️
 
 [Data](articles/367fb034.json)
+
+[Extended Data](ext_articles/367fb034.ext.json)
 
 ---
 
@@ -66,6 +124,8 @@ He said it is a violation of Parliamentary traditions and the no-confidence moti
 
 [Data](articles/aa7c4bf9.json)
 
+[Extended Data](ext_articles/aa7c4bf9.ext.json)
+
 ---
 
 ### Two killed in accident on Southern Expressway
@@ -78,31 +138,37 @@ Galle, Feb 27 (Daily Mirror) - Two persons were reportedly killed in an accident
 
 [Data](articles/2a200351.json)
 
+[Extended Data](ext_articles/2a200351.ext.json)
+
 ---
 
-### ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின்  உத்திக பிரேமரத்ன எம்.பி பதவியை  இராஜினாமா செய்தார்!
+### Sri Lanka PA resigned from the post of MP
 
 *2024-02-27 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177413) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின் அநுராதபுரம் மாவட்ட நாடாளுமன்ற உறுப்பினரான நடிகர்  உத்திக பிரேமரத்ன அந்தப் பதவியிலிருந்து இராஜினாமா செய்துள்ளார்.
+Actor Uthika Premaratne, a member of the Sri Lanka PA, has resigned from the post.
 
 ◼️
 
 [Data](articles/0624763a.json)
 
+[Extended Data](ext_articles/0624763a.ext.json)
+
 ---
 
-### நம்பிக்கையில்லா பிரேரணைக்கு ஆதரவாக விமல் - உதய
+### Wimal - Udaya in favor of the no -confidence motion
 
 *2024-02-27 12:16:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லா-பிரேரணைக்கு-ஆதரவாக-விமல்-உதய/175-333876) · `ta`
 
-சபாநாயகருக்கு எதிராக முன்வைக்கப்படவுள்ள நம்பிக்கையில்லாப் பிரேரணைக்கு ஆதரவளிக்க விமல் வீரவன்ச மற்றும் உதய கம்மன்பில தலைமையிலான கூட்டமைப்பும் தீர்மானித்துள்ளது.
+The federation led by Wimal Weerawansa and Udaya Kammanpila have decided to support the no -confidence motion against the Speaker.
 
-இணையவழி பாதுகாப்பு மசோதாவை நிறைவேற்றும் போது சபாநாயகர் அரசியல் சாசனத்தை மீறியதாக குற்றம்சாட்டி எதிர்க்கட்சிகள் கொண்டு வரவுள்ள நம்பிக்கையில்லா பிரேரணைக்கு கையெழுத்து சேகரிக்கப்பட்டு வருகின்றது. R
+The signature is being collected for a no -confidence motion to come up with accusations of violating the Speaker's Constitution while passing the e -mail security bill.. Remble
 
 ◼️
 
 [Data](articles/a0d76201.json)
+
+[Extended Data](ext_articles/a0d76201.ext.json)
 
 ---
 
@@ -122,79 +188,95 @@ Accordingly, two persons were reported dead after a lorry hit the protective fen
 
 ---
 
-### ’காஸா சிறுவர் நிதியம்’ அமைக்க அனுமதி
+### Allow Gaza Children's Fund to set up
 
 *2024-02-27 12:13:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஸா-சிறுவர்-நிதியம்-அமைக்க-அனுமதி/175-333875) · `ta`
 
-'காஸா சிறுவர் நிதியம்' ஒன்றை உருவாக்குவதற்கான ஜனாதிபதியின் யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet has approved the president's idea of creating a 'Gaza Children's Fund'.
 
-இந்த நிலையில், இப்தார் கொண்டாட்டங்களை கைவிட்டு இந்த நிதிக்கு பங்களிக்குமாறு அனைத்து அமைச்சுக்கள் மற்றும் அரச நிறுவனங்களுக்கும் ஜனாதிபதி பணிப்புரை விடுத்துள்ளார்.
+At this juncture, the President has issued a directive to all ministries and state institutions to abandon the celebrations and contribute to this fund.
 
-அத்துடன், பாதிக்கப்பட்ட குழந்தைகள் மற்றும் குடிமக்களுக்கு நிவாரணம் வழங்குவதற்காக, இலங்கை அரசாங்கத்தின் 1 மில்லியன் டொலர் நன்கொடையானது, ஐக்கிய நாடுகள் சபையின் ஊடாக வழங்கப்படவுள்ளது.
+In addition, the Sri Lankan government's $ 1 million donation will be issued through the United Nations to provide relief to the affected children and citizens.
 
 ◼️
 
 [Data](articles/92326204.json)
 
+[Extended Data](ext_articles/92326204.ext.json)
+
 ---
 
-### யாழில். இனத்துவேச கருத்துக்களை கூறி முரண்பட்ட பொலிஸ் உத்தியோகஸ்தர்கள் விளக்கமறியலில்
+### In the yarns. In interrogation of police officers who conflicted racist ideas
 
 *2024-02-27 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/177412) · `ta`
 
-இனத்துவேச கருத்துக்களை தெரிவித்து, சக பொலிஸ் உத்தியோகஸ்தர்களுடன் முரண்பட்ட இரு பொலிஸ் உத்தியோகஸ்தர்கள் நீதிமன்ற உத்தரவில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Two police officers who conflicted with fellow police officers have been detained in court order, expressing ethnicity.
 
-யாழ்ப்பாண பொலிஸ் நிலைய பொலிஸாரின் விடுதிக்குள் ஞாயிறுக்கிழமை (25) இரவு நிறை வெறியில் உள்நுழைந்து சக பொலிஸாருடன் முரண்பட்டு, தமிழ் பொலிஸ் உத்தியோகத்தர்களுடன் இனத்துவேச கருத்துக்களை கூறி முரண்பட்டுள்ளனர்.
+On Sunday night (25), the Jaffna Police Station had entered into a mass hysteria and conflicted with fellow policemen and conflicted with the Tamil police officers.
 
-அதனை அடுத்து இரு பொலிஸ் உத்தியோகஸ்தர்களும் கைது செய்யப்பட்டு திங்கட்கிழமை (26) யாழ்.நீதவான் நீதிமன்றில் முற்படுத்தப்பட்டதை அடுத்து இருவரையும் விளக்கமறியலில் வைக்க நீதிமன்று உத்தரவிட்டுள்ளது.
+Subsequently, the two police officers were arrested and ordered to be interrogated by the Jaffna Magistrate's Court on Monday (26).
 
-அதேவேளை, நிர்வாக ரீதியான விசாரணைகளை முன்னெடுத்த மூத்த பொலிஸ் அத்தியட்சகர் இரு பொலிஸ் உத்தியோகஸ்தர்களையும் உடன் அமுலுக்கு வரும் வகையில், பணி இடைநிறுத்தம் செய்துள்ளார்.
+At the same time, the senior police superintendent who carried out administrative investigations has suspended the two police officers.
 
 ◼️
 
 [Data](articles/7cef7b05.json)
 
+[Extended Data](ext_articles/7cef7b05.ext.json)
+
 ---
 
-### இனி என்னை அப்பா என்று யார் அழைப்பார்கள் ? மனைவி தாய் பிள்ளைகள் உட்பட 103 உறவுகளை இழந்த தந்தை கண்ணீர்
+### Who will call me dad anymore?Father tears lost 103 relationships, including wife and mother children
 
 *2024-02-27 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177410) · `ta`
 
-தனது குடும்பத்தை முற்றாக அழித்த குண்டிலிருந்து அஹமட் அல் குபேரி மாத்திரம்  உயிர்தப்பினார்.
+Ahmed al -Qubeeri only survived the bomb that completely destroyed his family.
 
-காசாவில் உள்ள அவரது வீட்டின் மீது மேற்கொள்ளப்பட்ட குண்டுதாக்குதலில் 103 உறவினர்கள் கொல்லப்பட்டவேளை அவர் தனது வீட்டிலிருந்து மேற்குகரையில் ஆக்கிரமிக்கப்பட்ட ஜெரிக்கோவில்  சிக்குண்டிருந்தார்.
+When 103 relatives were killed in the bombing of his house in Gaza, he was caught in Jericho occupied from his home on the west.
 
-அந்த நாட்களி;ல்இஸ்ரேலின் முற்றுகையினால் அவர் தனது மனைவியையும் மூன்று பிள்ளைகளையும் பார்ப்பதற்கு திரும்பமுடியாத நிலை காணப்பட்டது.
+In those days, Israel's siege was unable to see his wife and three children.
 
-தொலைபேசி மூலம் தொடர்புகொள்ளக்கூடிய நிலைகாணப்பட்டவேளை அவர் அவர்களுடன் பேசினார் தாக்குதல் இடம்பெற்ற டிசம்பர் 8ம் திகதியும் அவர் தனது மனைவி சிறீனுடன் பேசினார்.
+He spoke to them by telephone, and he spoke to his wife Sirin on December 8, where the attack was attacked.
 
-அவளுக்கு தான் மரணிக்ககூடும் என்பது தெரிந்திருந்தது தான் ஏதாவது தவறுசெய்திருந்தால் என்னை மன்னித்துவிடுங்கள் என அவள் தொலைபேசியில் தெரிவித்தால் நான் அப்படி தெரிவிக்கவேண்டியதில்லை என்றேன் அதுவே எங்கள் இடையே இடம்பெற்ற இறுதி உரையாடல் என அவர் தெரிவிக்கின்றார்.
+She knew that she would die, and if she had something wrong, I would not have to say that if she had done something wrong, I would not have to say that.
 
-அவரது உறவினரின் வீட்டை தாக்கிய குண்டினால் அவரின் மனைவியும் மூன்று பெண்பிள்ளைகளும் கொல்லப்பட்டனர்.
+His wife and three girls were killed by a bomb that hit his cousin's house.
+
+The bomb was killed by Ahmed's mother and his four brothers, including their family and relatives.
+
+Ahmad is in a state of disrepair, which is unacceptable.
+
+Ahmed, who is unable to get the bodies of his children, is still talking about it.
+
+My girls are like a little bird and I feel like I am in a dream. I still can't think of what happened to them.
 
 ...
 
 [Data](articles/3fcf50cd.json)
 
+[Extended Data](ext_articles/3fcf50cd.ext.json)
+
 ---
 
-### முதல் இரண்டு மாதங்களில் 83 கொலைகள்
+### 83 murders in the first two months
 
 *2024-02-27 12:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதல்-இரண்டு-மாதங்களில்-83-கொலைகள்/175-333874) · `ta`
 
-இலங்கையில் இந்த ஆண்டு (2024) இதுவரை மொத்தம் 83 கொலைகள் பதிவாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A total of 83 murders have been reported in Sri Lanka this year (2024), police said.
 
-76 சம்பவங்களில் இந்த மரணங்கள் பதிவாகியுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ ஊடகங்களுக்கு தெரிவித்துள்ளார்.
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa told the media that these deaths were reported in 76 incidents.
 
-அத்துடன், ஜனவரி முதல் இன்று வரை மொத்தம் 1,180 திருட்டு சம்பவங்களும், 310 கொள்ளை சம்பவங்களும் பதிவாகியுள்ளன.
+In addition, from January to date, a total of 1,180 thefts and 310 robberies have been reported.
 
-இந்த வருடத்தில் இதுவரை 20 துப்பாக்கிச் சூடு சம்பவங்கள் பதிவாகியுள்ளதாகத் தெரிவித்த பொலிஸ் ஊடகப் பேச்சாளர், 10 சம்பவங்கள் ஒழுங்கமைக்கப்பட்ட குற்றவாளிகளுடன் தொடர்புடையதாக சந்தேகிக்கப்படுவதாகக் கூறினார்.
+The police media spokesman said that there were 20 shootings so far this year, and that 10 incidents were suspected of being associated with organized criminals.
 
-எவ்வாறாயினும், நாட்டில் இடம்பெறும் குற்றச்செயல்களை கட்டுப்படுத்துவதற்கு இலங்கை பொலிஸார் பல நடவடிக்கைகளை எடுத்துள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சுட்டிக்காட்டியுள்ளார்.
+However, the police media spokesman pointed out that the Sri Lankan police have taken several steps to curb the crimes in the country.
 
 ◼️
 
 [Data](articles/1debffdd.json)
+
+[Extended Data](ext_articles/1debffdd.ext.json)
 
 ---
 
@@ -212,31 +294,35 @@ Two persons were killed in an accident in Kurundugahahack on the Southern Expres
 
 ---
 
-### கட்டுநாயக்கவிலிருந்து புறப்படவிருந்த 7 விமான சேவைகள் இன்று இரத்து!
+### 7 flights to leave Katunayake today canceled
 
 *2024-02-27 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177409) · `ta`
 
-கட்டுநாயக்க விமான நிலையத்திலிருந்து புறப்படவிருந்த சில விமானங்களின்  பயணங்கள்  இன்று (27) இரத்துச்  செய்யப்பட்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+It has been reported that some flights from Katunayake airport have been canceled today (27).
 
-இதன்படி, இந்தியா, மத்திய கிழக்கு மற்றும் தாய்லாந்து ஆகிய நாடுகளுக்கு புறப்படவிருந்த 7 விமானங்களே இவ்வாறு இரத்துச் செய்யப்பட்டுள்ளதாக கட்டுநாயக்க விமான நிலையத்தின்  பேச்சாளர்  ஒருவர் தெரிவித்துள்ளார்.
+According to a spokesman for the Katunayake airport, only seven flights to India, the Middle East and Thailand have been canceled.
 
-இவ்வாறு சேவைகள் இரத்துச் செய்யப்பட்ட விமானங்களில்  6 விமானங்கள் ஸ்ரீலங்கன் எயார்லைன்ஸ் நிறுவனத்துக்கு சொந்தமானவை.
+Six of the services canceled flights are owned by SriLankan Airlines.
 
 ◼️
 
 [Data](articles/d2b049e7.json)
 
+[Extended Data](ext_articles/d2b049e7.ext.json)
+
 ---
 
-### பாராளுமன்ற உறுப்பினர் இராஜினாமா
+### Member of Parliament
 
 *2024-02-27 11:43:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினர்-இராஜினாமா/175-333873) · `ta`
 
-அநுராதபுரம் மாவட்ட பாராளுமன்ற உறுப்பினர் உத்திக பிரேமரத்ன தனது இராஜினாமா கடிதத்தை சபாநாயகரிடம் சமர்ப்பித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that Anuradhapura district parliamentarian Utika Premaratne has submitted his resignation letter to the Speaker.
 
 ◼️
 
 [Data](articles/05039186.json)
+
+[Extended Data](ext_articles/05039186.ext.json)
 
 ---
 
@@ -253,6 +339,8 @@ Premarathna was elected to parliament in Anuradhapura in the 2020 election with 
 ◼️
 
 [Data](articles/505e5dee.json)
+
+[Extended Data](ext_articles/505e5dee.ext.json)
 
 ---
 
@@ -288,19 +376,21 @@ Mr. Speaker Mahinda Yapa Abeywardena confirmed this in response to Ada Derana.
 
 ---
 
-### ஜனாதிபதி வேட்பாளராக  நாமல் ராஜபக்க்ஷவை நியமிக்க வேண்டுமென மாத்தளை  கூட்டத்தில் யோசனை!
+### At the Matale meeting to appoint Namal Rajapaksa as presidential candidate
 
 *2024-02-27 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177405) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளராக ஹம்பாந்தோட்டை  மாவட்ட நாடாளுமன்ற உறுப்பினர் நாமல் ராஜபக்க்ஷவை நியமிக்க வேண்டும் என  கட்சியின் மாத்தளை மாவட்ட பிரதிநிதிகள் கூட்டத்தில் யோசனை முன்வைக்கப்பட்டது.
+At a meeting of the party's Matale district representatives, the proposal was presented to the appointment of Hambantota district parliamentarian Namal Rajapaksa as the presidential candidate of the Sri Lanka PA.
 
-எவ்வாறாயினும், ஸ்ரீலங்கா பொதுஜன பெரமுனவின் மாத்தளை மாவட்டத் தலைவர் ஜனக பண்டார தென்னகோன் மற்றும் அவரது மகனும் பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித பண்டார தென்னகோனும் இந்தக் கூட்டத்துக்கு அழைக்கப்படவில்லை  என தெரிவிக்கப்படுகிறது.
+However, it is reported that the President of the Sri Lanka Peoples Alliance (PA) Matale District President Janaka Bandara Tennakoon and his son and Defense Minister Pramitha Bandara Thennakon have not been invited to the meeting.
 
-கட்சியின் செயலாளர்  சாகர காரியவசம் எம்பி  உட்பட பல நாடாளுமன்ற உறுப்பினர்களும்  மாத்தளை மாவட்ட ஸ்ரீலங்கா பொதுஜன பெரமுன உறுப்பினர்களும் இந்தச் சந்திப்பில்  கலந்து கொண்டனர்.
+Several MPs including party secretary Sakara Kariyawasam MP and members of the Sri Lanka PA of the Matale District were present at the meeting.
 
 ◼️
 
 [Data](articles/59e28d6c.json)
+
+[Extended Data](ext_articles/59e28d6c.ext.json)
 
 ---
 
@@ -366,19 +456,21 @@ The IHP said in a statement on February 22 that favourability estimates for each
 
 ---
 
-### காஸா குழந்தைகளுக்கான நிவாரணங்களை பெற்றுக்கொடுக்கும் ஜனாதிபதியின் யோசனைக்கு அமைச்சரவை அனுமதி !
+### Cabinet permits president's idea of giving relief to Gaza Children
 
 *2024-02-27 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177404) · `ta`
 
-காஸா எல்லை பகுதிகளில் பாதிக்கப்பட்ட குழந்தைகளுக்கு நிவாரணங்களைப் பெற்றுக்கொடுப்பதற்காக Children of Gaza Fund இனை காஸாவில் நிறுவுவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை அனுமதி வழங்கியுள்ளது.
+The Cabinet has granted permission to the proposal put forward by President Ranil Wickremesinghe to establish the Children of Gaza Fund to provide relief to children affected by the Gaza border.
 
-அதன்படி இப்தார் நிகழ்வுகளுக்காக அமைச்சுக்கள் மற்றும் அரச நிறுவனங்களினால் ஒதுக்கப்படும் தொகையை இந்த நிதியத்திற்கு பெற்றுத்தருமாறு அறிவுறுத்தப்பட்டுள்ளது.
+Accordingly, it has been advised to pay the amount allocated by ministries and state institutions for the events.
 
-மேலும், இதற்காக மக்களின் ஒத்துழைப்பும் எதிர்பார்க்கப்படுவதோடு, பாதிக்கப்பட்ட பிள்ளைகளுக்கு நிவாரணங்களை வழங்குவதற்காக இலங்கை அரசாங்கத்தினால் ஐக்கிய நாடுகள் சபையின் வதிவிடப் பிரிதிநிதியூடாக ஒரு மில்லியன் அமெரிக்க டொலர்களும் பெற்றுக்கொடுக்கப்படவுள்ளது.
+Moreover, the cooperation of the people is expected and the Sri Lankan government will provide $ 1 million by the United Nations Residential Fund to provide relief to the affected children.
 
 ◼️
 
 [Data](articles/6b0508c6.json)
+
+[Extended Data](ext_articles/6b0508c6.ext.json)
 
 ---
 
@@ -410,41 +502,45 @@ Natiaboani, where those attacks happened, is in Burkina Faso’s troubled easter
 
 ---
 
-### இரண்டாவது முறையாகவும் அரசியலமைப்பு அப்பட்டமாக மீறப்பட்டுள்ளது - எதிர்க்கட்சித் தலைவர்
+### The constitution has been violated for the second time - the leader of the opposition
 
 *2024-02-27 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177402) · `ta`
 
-அரசியலமைப்பு பேரவையினால் பொலிஸ்மா அதிபர் நியமனத்தை அங்கீகரிக்கவில்லையென எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said that the constitutional council did not recognize the appointment of the Inspector General of Police.
 
-பொலிஸ்மா அதிபராக தேசபந்து தென்னக்கோன் நியமிக்கப்பட்டமை குறித்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தனது உத்தியோகபூர்வ எக்ஸ் தளத்தில் குறிப்பிட்டுள்ளதாவது,
+Opposition Leader Sajith Premadasa on his official X site said that the appointment of Deshabandu Tennakoon as the Inspector General of Police
 
-அரசியலமைப்பு பேரவையினால் பொலிஸ்மா அதிபர் நியமனத்தை அங்கீகரிக்கவில்லை. அதற்கு ஆதரவாக 4 வாக்குகளும், எதிராக 2  வாக்குகளும் மற்றும் 2 பேர் வாக்களிப்பதை தவிர்த்தும் இருந்தனர்.
+The Constitutional Council does not recognize the appointment of the Inspector General of Police. There were 4 votes in favor, 2 votes against it and 2 people avoided voting.
 
-முடிவெடுக்க குறைந்தபட்சம் 5 வாக்குகள் தேவை. வாக்குகள் சமமாகும் போது மாத்திரம் பயன்படுத்தக்கூடிய அறுதியிடும் வாக்கு சபாநாயகருக்கு உள்ளது. 4/2  என்பது சமமான வாக்குகள் அல்ல! இரண்டாவது முறையாகவும் அரசியலமைப்பு அப்பட்டமாக மீறப்பட்டுள்ளது.
+Required at least 5 votes to decide. The Speaker has a definite vote that can only be used when the votes are equal. 4/2 is not equal votes!For the second time, the constitution has been blatantly violated.
 
 ◼️
 
 [Data](articles/1d73bafd.json)
 
+[Extended Data](ext_articles/1d73bafd.ext.json)
+
 ---
 
-### “காசாவில் போர் நிறுத்தம் ஏற்படும்”
+### “There will be a ceasefire in Gaza”
 
 *2024-02-27 11:10:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-போர்-நிறுத்தம்-ஏற்படும்/50-333872) · `ta`
 
-இஸ்ரேல் - ஹமாஸ் அமைப்பினர் இடையேயான போரில் காசாவில் உள்ள மக்கள் பெரும் தவிப்புக்கு உள்ளாகி இருக்கிறார்கள். இஸ்ரேல் தாக்குதலில் காசாவில் குழந்தைகள், பெண்கள் உள்பட பலியானோர் எண்ணிக்கை 29 ஆயிரத்தைக் கடந்துள்ளது. ஹமாஸ் அமைப்பினர் பிடித்துச்சென்ற இஸ்ரேல் பிணைக்கைதிகளை மீட்க 7 நாள் போர் நிறுத்தம் அறிவிக்கப்பட்டது. அதன்பின் இஸ்ரேல் தீவிர தாக்குதல் நடத்திவருகிறது.
+Israeli -Hamas organizations in Gaza are in great distress. The number of casualties, including children and women in Gaza in Israel attack, has crossed 29 thousand. A 7 -day ceasefire announced to rescue Israeli hostages caught by Hamas. Israel has been an intense attack since then.
 
-இதற்கிடையே, காசாவில் போர் நிறுத்தத்தைக் கொண்டுவர அமெரிக்கா, கத்தார், எகிப்து ஆகிய நாடுகள் முயற்சித்து வருகின்றன.
+Meanwhile, the United States, Qatar and Egypt are trying to bring a ceasefire in Gaza.
 
-இதில் ஹமாசின் கோரிக்கைகளை ஏற்க இஸ்ரேல் மறுத்தது. இதனால் போர் நிறுத்தம் ஏற்படுவதில் இழுபறி நீடித்து வருகிறது.
+Israel refused to accept Hamas's demands. This has led to a ceasefire.
 
-இந்நிலையில், காசாவில் மார்ச் 4-ம் திகதிக்குள் போர் நிறுத்தம் ஏற்படும் என அமெரிக்க ஜனாதிபதி ஜோ பைடன் தெரிவித்துள்ளார்.
+US President Joe Biden said there would be a ceasefire by March 4 in Gaza.
 
-இதுதொடர்பாக அவர், “காசாவில் போர் நிறுத்தம் ஏற்படுவதில் நெருக்கமாக இருக்கிறோம் என்று எனது தேசிய பாதுகாப்பு ஆலோசகர் என்னிடம் தெரிவித்தார். அடுத்த திங்கட்கிழமைக்குள் (மார்ச் 4-ம் திகதி) போர் நிறுத்தம் ஏற்படும் என்று நம்புகிறேன்” என தெரிவித்துள்ளார்.
+He said, “My National Security Advisor told me that we are close to a ceasefire in Gaza.. I hope that there will be a ceasefire by the next Monday (March 4). ”
 
 ◼️
 
 [Data](articles/3cb23032.json)
+
+[Extended Data](ext_articles/3cb23032.ext.json)
 
 ---
 
@@ -462,23 +558,35 @@ The President's Media Division said that the government's donation of US $1 mill
 
 [Data](articles/5f0c35d8.json)
 
+[Extended Data](ext_articles/5f0c35d8.ext.json)
+
 ---
 
-### சுற்றுலாப்பயணிகள் வர்த்தக நடவடிக்கைகளில் ஈடுபடமுடியாது - இலங்கையின் சுற்றுலாத்துறையுடன் தொடர்புபட்டவர்கள் போர்க்கொடி
+### Tourists cannot engage in trade activities - those involved in the tourism industry in Sri Lanka
 
 *2024-02-27 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/177401) · `ta`
 
-இலங்கைக்கு சுற்றுலாப்பயணிகளாக வருபவர்கள் வர்த்தக நடவடிக்கைகளில் ஈடுபடுவது அதிகரித்து வருவது குறித்து கவலை வெளியிட்டுள்ள இலங்கையின் சுற்றுலாத்துறையினர் இதன் காரணமாக நாட்டின் சில பகுதிகளில் இலங்கையின் தொழில்துறையினர் பாதிக்கப்பட்டுள்ளனர் என தெரிவித்துள்ளனர்.
+Sri Lanka's tourists have expressed concern over the increasing number of businessmen in Sri Lanka.
 
-இலங்கையில் நீண்டகாலமாக தங்கியிருக்கும் நோக்கத்துடன் வரும் சுற்றுலாப்பயணிகள் உரிய பதிவுகள் இன்றி வர்த்தக நடவடிக்கைகளில் ஈடுபடுவது குறித்து அதிகாரிகளுக்கு தொழில்துறையினர் சுட்டிக்காட்டியுள்ளனர்.
+The industry has pointed out to the authorities that the long -standing tourists in Sri Lanka are engaged in trading activities without proper records.
 
-வெளிநாட்டு சுற்றுலாப்பயணிகள் சிறிதளவில் தங்கள் வர்த்தக நடவடிக்கைகளை ஆரம்பித்;து பின்னர்அவற்றை விஸ்தரிக்கின்றனர் என இலங்கையின் சுற்றுலாத்துறை அமைப்பொன்று தெரிவித்துள்ளது.
+Foreign tourists have launched their trading activities and expand them later, according to a Sri Lankan tourism organization.
 
-2022 ம் ஆண்டிலேயே இதனை அவதானித்தோம் தென்பகுதியில் இந்த நிலை உருவாகிவருவதை அவதானித்தோம் பின்னர் நாட்டின் அனைத்து பகுதிகளிலும் இந்த நிலைமைய காணமுடிகின்றது என அந்த அமைப்புதெரிவித்துள்ளது.
+By 2022, we observed this in the South.
 
-...
+Foreign tourists come to Sri Lanka and rent places and trade centers.
+
+He said that the livelihood of the local people, which believes in tourism, is badly affected by tourists.
+
+He said that it affects not only us, but also the restaurant owners.
+
+The Sri Lanka Hotel Owners Association has also revealed the same and appealed to the authorities to take appropriate action before the situation is uncontrollable.
+
+◼️
 
 [Data](articles/fc503abe.json)
+
+[Extended Data](ext_articles/fc503abe.ext.json)
 
 ---
 
@@ -554,23 +662,27 @@ Wagner said that the decision was not easy and that it had been "an emotional we
 
 [Data](articles/48cc4bfc.json)
 
+[Extended Data](ext_articles/48cc4bfc.ext.json)
+
 ---
 
-### யாழ். புத்தூரில் வீடு தீக்கிரை ; பெறுமதியான பொருட்கள் தீயில் எரிந்து நாசம்
+### Yall. House fire in Budhur;Valuable items were destroyed in fire
 
 *2024-02-27 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177400) · `ta`
 
-யாழ்ப்பாணத்தில் வீடொன்று தீக்கிரையானதில், பெறுமதியான பொருட்கள் மற்றும் முக்கிய ஆவணங்கள் என்பன தீயில் எரிந்துள்ளன.
+In Jaffna, a house was set on fire, valuable items and important documents were burnt.
 
-புத்தூர் கலைமதி பகுதியில் உள்ள வீடொன்றே நேற்று திங்கட்கிழமை (26) இரவு தீப்பற்றியுள்ளது.
+A house in Budhur Kalamathi area was set on fire on Monday night.
 
-அதனை அடுத்து வீட்டார், வீட்டில் இருந்து வெளியேறிய அயலவர்களின் உதவியுடன் தீயினை கட்டுப்படுத்த முயற்சித்த போதும் அது பயனளிக்காத நிலையில், யாழ்.மாநகர சபை தீயணைப்பு படையினருக்கு அறிவிக்கப்பட்டதை அடுத்து, அவர்கள் அவ்விடத்துக்கு விரைந்து தீயினை கட்டுக்குள் கொண்டு வந்தனர்.
+The house was followed by the help of the neighbors who left home, but it was not beneficial, but after the Jaffna Municipal Council was reported to the fire brigade, they rushed to the spot and brought the fire under control.
 
-மின் கசிவு காரணமாகவே வீடு தீப்பிடித்துள்ளதாக ஆரம்ப கட்ட விசாரணைகளில் தெரிய வந்துள்ள நிலையில் அச்சுவேலி பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர்.
+Initial investigations have revealed that the house was set on fire due to an electrical leak, Achuveli police are conducting further investigations.
 
 ◼️
 
 [Data](articles/092db745.json)
+
+[Extended Data](ext_articles/092db745.ext.json)
 
 ---
 
@@ -636,41 +748,47 @@ A water tariff formula, which will be reviewed annually or bi-annually, has been
 
 ---
 
-### ஸ்ரீலங்கன் ஏர்லைன்ஸின் 160 தொழில்நுட்ப வல்லுநர்கள் தொழிலை விட்டு வெளியேறினர்!
+### 160 technicians of SriLankan Airlines have quit their business!
 
 *2024-02-27 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/177399) · `ta`
 
-ஸ்ரீலங்கன் ஏர்லைன்ஸில் சேவையாற்றிய 160 விமான தொழில்நுட்ப வல்லுநர்கள் கடந்த இரண்டு ஆண்டுகளில் தங்கள் தொழிலை  விட்டு வெளியேறியுள்ளனர்
+160 flight technicians who have served in SriLankan Airlines have left their career in the last two years
 
-இதன் காரணமாக  தற்போது 250 விமான தொழில்நுட்ப வல்லுநர்கள் மட்டுமே அங்கு பணிபுரிவதாக அதன் விமான தொழில்நுட்ப வல்லுநர்கள் தெரிவிக்கின்றனர்.
+As a result, only 250 air technicians are currently working there, its flight technicians say.
 
-ஸ்ரீலங்கன் எயார்லைன்ஸின் கூற்றுப்படி, 415 விமான தொழில்நுட்ப வல்லுநர்கள் சேவைக்கு தேவை என தெரிவித்துள்ளனர்.
+According to SriLankan Airlines, 415 flights technicians needed service.
 
-விமான தொழில்நுட்ப வல்லுநர்களுக்கு  வெளிநாடுகளின் முக்கிய விமான நிறுவனங்களில் அதிக தேவை இருப்பதாகவும் அதன் தொழில்நுட்ப வல்லுநர்கள் குறிப்பிடுகின்றனர்.
+Its technicians also note that air technicians have a high demand for foreign airlines.
 
 ◼️
 
 [Data](articles/8e46b5d8.json)
 
+[Extended Data](ext_articles/8e46b5d8.ext.json)
+
 ---
 
-### இலங்கையிலிருந்து கடத்திச் செல்லப்பட்டு கடலில் வீசப்பட்ட தங்கக் கட்டிகளை தேடும் பணி தோல்வி
+### Failure to search for gold bars abducted from Sri Lanka and thrown into the sea
 
 *2024-02-27 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177398) · `ta`
 
-இலங்கையிலிருந்து கடத்திச் செல்லப்பட்டு தமிழகத்தில் கடலில் வீசப்பட்ட தங்கக் கட்டிகளை தேடும் பணி ஐந்தாவது நாளாக தொடரப்பட்டு தோல்வியில் முடிந்தது.
+The search for the gold bars that were abducted from Sri Lanka and thrown into the sea in Tamil Nadu ended for the fifth day.
 
-ராமநாதபுரம் மாவட்டம் வேதாளை சிங்கி வளைகுச்சி கடற்கரைக்கு இலங்கையில் இருந்து நாட்டுப்படகு மூலம் தங்க கட்டிகள் கடத்தி வருவதாக தூத்துக்குடி மத்திய வருவாய் புலனாய்வுத்துறை அதிகாரிகளுக்கு கிடைத்த ரகசிய தகவல்  கிடைத்துள்ளது.
+Tuticorin Central Revenue Investigation Department has received confidential information that the golden lumps are being smuggled from Sri Lanka to the Vedalai Singi Gulf beach in Ramanathapuram district.
 
-இதனை அடுத்து, வியாழக்கிழமை (22)  அதிகாலை மத்திய வருவாய் புலனாய்வு துறை அதிகாரிகள்  மண்டபம் இந்திய கடலோர காவல் படை வீரர்களுடன்   இணைந்து நாட்டுபடகை மடக்கி பிடிக்க முயன்ற போது நாட்டுபடகில் இருந்த மூவரில் ஒருவர் கடலில் குதித்து தப்பினர்.
+In the early hours of Thursday morning, the Central Revenue Investigation Department officials jumped into the sea when they tried to fold the country with the Indian Coast Guard.
 
-மேலும், படகில் இருந்த இருவரை படகுடன் மடக்கி பிடித்த அதிகாரிகள் அவர்களை  மண்டபம் கடலோர காவல் படை முகாமிற்கு அழைத்துச் சென்று தீவிர விசாரணை  நடத்தினர்.
+In addition, the officers who folded the two men in the boat were taken to the Mandapam Coast Guard Camp and conducted an intensive investigation.
 
-நாட்டுப்படகு வேதாளையை சேர்ந்தது என்பதும், படகில் இருந்த இருவரும் அதே பகுதியை சேர்ந்தவர்கள் என்றும், இவர்கள் இலங்கையில் இருந்து சுமார் 10 கிலோ தங்கத்தை  கடத்தி வந்த போது  அதிகாரிகளை கண்டதும் தங்க கட்டிகள் அடங்கிய பொதியை கடலில் வீசியதையும் ஒப்புக்கொண்டனர்.
+They agreed that the folk was belonging to the Vedanta, and that the two were from the same area, and when they saw the authorities when they saw about 10 kg of gold from Sri Lanka, they confessed.
+
+Scuba soldiers and Muttukkuli fishermen from Thoothukudi were actively searching for gold.
 
 ...
 
 [Data](articles/3b27ee44.json)
+
+[Extended Data](ext_articles/3b27ee44.ext.json)
 
 ---
 
@@ -694,17 +812,19 @@ However, the massacre of the signs of the hall will survive the ninety-up shock 
 
 ---
 
-### உயர் நீதிமன்றத்தில் புதிய பொலிஸ்மா அதிபர்
+### New Inspector General of Police in High Court
 
 *2024-02-27 10:28:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-நீதிமன்றத்தில்-புதிய-பொலிஸ்மா-அதிபர்/175-333869) · `ta`
 
-பொலிஸ்மா அதிபர் தேஷ்பந்து தென்னகோன் தற்போது கொழும்பு உயர் நீதிமன்ற வளாகத்திற்கு வந்துள்ளார்.
+Inspector General of Police Deshpandu Tennakoon is currently coming to the Colombo High Court premises.
 
-பொலிஸ்மா அதிபர் வருகையையொட்டி உயர் நீதிமன்ற வளாகத்தில் பலத்த பொலிஸ் பாதுகாப்பு போடப்பட்டுள்ளது. R
+With the arrival of the Inspector General of Police, the High Court premises. Remble
 
 ◼️
 
 [Data](articles/df06dd7e.json)
+
+[Extended Data](ext_articles/df06dd7e.ext.json)
 
 ---
 
@@ -728,23 +848,29 @@ The Hamas agree to these discussions is considered a great victory.
 
 ---
 
-### விமானங்கள் தாமதமாகியமைக்கு எலிகளே காரணமாம் !
+### Mice are responsible for the late flights!
 
 *2024-02-27 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177391) · `ta`
 
-ஶ்ரீ லங்கன் விமான சேவைக்கு சொந்தமான இரண்டு விமானங்களில்  ஞாயிற்றுக்கிழமை (25) எலிகள் கண்டுபிடிக்கப்பட்டுள்ளன. இதன் காரணமாக விமான சேவைகள் தாமதப்படுத்தப்பட்டதாக  ஶ்ரீ லங்கன் விமானசேவையின்  தலைவர் அசோக் பத்திரகே தெரிவித்துள்ளார்.
+On Sunday (25) mice found on two flights owned by Sri Lanka Airlines. Sri Lankan Airlines Chairman Ashok Patrake said that the airlines have been delayed.
 
-இதனை,  துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமானப் போக்குவரத்து அமைச்சில் நடைபெற்ற கலந்துரையாடலில் அவர் தெரிவித்தார்.
+He said this at a discussion held at the Ports, Shipping and Aviation Ministry.
 
-அத்துடன், எலிகள் காணப்பட்ட இரண்டு விமானங்களுக்கு இரசாயனத்தை தெளிக்க வேண்டியிருந்தது. அத்துடன், தொழில்நுட்ப குறைபாடுகள் காரணமாக ஏனைய இரண்டு விமானங்கள் தாமதமாக சேவையை ஆரம்பிக்க வேண்டியிருந்தது என தெரிவித்துள்ளார்.
+As well as the two flights found in the rats had to spray the chemical. He also said that two other flights had to start service due to technical shortcomings.
 
-எலிகள் எப்படி விமானத்திற்குள் புகுந்தன என்பது குறித்து விசாரணை நடத்தப்பட்டதா என துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால, கேள்வி எழுப்பினார்.
+Ports, Shipping and Aviation Minister Nimal Siripala questioned whether the rats were investigated.
 
-அத்துடன் 15 ஊழியர்கள் இல்லாததும் காலதாமதத்திற்கு காரணம் என தெரியவந்தது. மூன்று ஊழியர்கள் ஞாயிற்றுக்கிழமை விடுமுறைக்கு விண்ணப்பித்துள்ளனர்.
+It also revealed that the lack of 15 employees was the cause of the delay. Three employees applied for a Sunday holiday.
 
-...
+The remaining 12 people have normally taken vacation. The Minister said that the vacation was fired as a furious dismissal.
+
+“There are only 20 flights owned by Sri Lanka Airlines. Three planes have landed."We are going to buy five A 330 aircraft, it has become a problem with the global demand for airlines and the economic situation in Sri Lanka has become a problem," Ashok Pathke said.
+
+◼️
 
 [Data](articles/6d03cd55.json)
+
+[Extended Data](ext_articles/6d03cd55.ext.json)
 
 ---
 
@@ -766,25 +892,27 @@ The committee vowed to resort to a continuous trade union action in the event th
 
 ---
 
-### உக்ரைனிற்கு மேற்குலக படைகள் -  சாத்தியம் உள்ளதாக பிரான்ஸ் ஜனாதிபதி தெரிவிப்பு
+### Western forces for Ukraine - French President
 
 *2024-02-27 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177392) · `ta`
 
-உக்ரைனிற்கு மேற்குலகநாடுகள் தங்கள் படையினரை அனுப்பக்கூடும் என பிரான்ஸ் ஜனாதிபதி இமானுவேல் மக்ரோன்  தெரிவித்துள்ளார்.
+French President Emanuel Macron has said that the West may send their soldiers to Ukraine.
 
-இந்த சந்திப்பில் உக்ரைனிற்கு மேற்குலக நாடுகள் படையினரை அனுப்புவது குறித்து ஆராயப்பட்டதாக தகவல்கள் வெளியாகியுள்ளன.
+It was reported that the meeting was investigated on the sending of Western countries to Ukraine.
 
-இன்றுமாலைவரை படையினரை உக்ரைனிற்கு அனுப்புவது குறித்து எந்த இணக்கப்பாடும் எட்டப்படவில்லை ஆனால் இதற்கான வாய்ப்புகளை தவிர்க்க முடியாது என பிரான்ஸ் ஜனாதிபதி தெரிவித்துள்ளார்.
+The French president has said that no compliance has been reached on the sending of soldiers to Ukraine until today.
 
-ரஸ்யா யுத்தத்தில் வெல்வதை தடுப்பதற்காக எங்களால் ஆனா அனைத்தையும் செய்வோம் என தெரிவித்துள்ள பிரான்ஸ் ஜனாதிபதி நான் இதனை மிகுந்த உறுதிப்பாட்டுடன் தெரிவிக்கின்றேன்எனவும் குறிப்பிட்டுள்ளார்.
+The President of France has said that we will do everything to prevent Russia from winning the war.
 
-மேற்குலக படையினரை  ஒருபோதும் உக்ரைனிற்கு அனுப்பகூடாது என்று அன்று சொன்னவர்கள்   விமானங்களையும் ஏவுகணைகளையும் டிரக்குகளையும் அனுப்பகூடாது எனவும் சொன்னார்கள் தற்போது உக்ரைனிற்கு அதிகளவு ஏவுகணைகள் டாங்கிகளை அனுப்பவேண்டும் என  தெரிவிக்கின்றனர் எனவும் பிரான்ஸ் ஜனாதிபதி தெரிவித்துள்ளார்.
+The French president said that those who said that the Western soldiers should never be sent to Ukraine, "he said.
 
-உக்ரைனிற்கு ஏவுகணைகள் குண்டுகளை அனுப்புவதற்கான புதிய கூட்டணியை உருவாக்கவுள்ளதாக பிரான்ஸ் ஜனாதிபதி அறிவித்துள்ளார்.
+The French president has announced that it will form a new alliance to send missiles to Ukraine.
 
 ◼️
 
 [Data](articles/a7bc4b4a.json)
+
+[Extended Data](ext_articles/a7bc4b4a.ext.json)
 
 ---
 
@@ -1891,51 +2019,5 @@ We have invited all political parties except the Sri Lanka PA to participate in 
 [Data](articles/6831c989.json)
 
 [Extended Data](ext_articles/6831c989.ext.json)
-
----
-
-### Presidential elections and abolishing Executive Presidency
-
-*2024-02-26 23:08:29* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-elections-and-abolishing-Executive-Presidency/4-758883) · `en`
-
-Former President Maithripala Sirisena was reported to have addressed a group of SLFP supporters in Wennappuwa on Sunday, 11 February where he broke news, President Wickremesinghe has appointed a group of lawyers led by former Speaker Karu Jayasuriya to propose amendments to abolish the “Executive Presidency”. He is reported to have said, it could be a “referendum” that could come first, to postpone elections.
-
-Two days later, addressing the SJB Lawyers’ Forum on 13 February, Sajith Premadasa was reported as having said, his party will push for elections before any amendment to the Constitution. S.M. Marikkar SJB Colombo district MP addressing the media had said, SJB would not endorse any attempt to eliminate the position before the election, as it would only serve to enable President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna (SLPP) to prolong their tenure in power (Daily FT/13 Feb).
-
-...
-
-[Data](articles/b3474290.json)
-
-[Extended Data](ext_articles/b3474290.ext.json)
-
----
-
-### LinearSix celebrates seven years of transforming financial services by unveiling cutting-edge financial solutions
-
-*2024-02-26 23:07:00* · [`islandlk`](http://island.lk/linearsix-celebrates-seven-years-of-transforming-financial-services-by-unveiling-cutting-edge-financial-solutions/) · `en`
-
-LinearSix, a pioneering force in the digital transformation of the financial services industry, proudly marks its seventh anniversary as a leader in promoting financial inclusivity through innovative technology solutions. Since its inception in 2017, LinearSix has played a pivotal role in driving digital growth in Sri Lanka’s banking and financial sector, demonstrating a commitment to advancing financial technology on a global scale.
-
-...
-
-[Data](articles/0cd6bdbb.json)
-
-[Extended Data](ext_articles/0cd6bdbb.ext.json)
-
----
-
-### Deloitte South Asia’s Consulting leadership discuss blueprint for business transformation and growth
-
-*2024-02-26 23:04:00* · [`islandlk`](http://island.lk/deloitte-south-asias-consulting-leadership-discuss-blueprint-for-business-transformation-and-growth/) · `en`
-
-The Deloitte Consulting leadership in South Asia convened in Sri Lanka, marking a significant move to drive growth in the South Asian region. A resolute commitment was made to scale collaboration, nurture talent, and embrace sustainability while shaping the future trajectory of the region’s business landscape.
-
-“As we strive for unprecedented growth in the South Asia region, Deloitte stands united in its commitment to scale this path of development. Together, we envision a future defined by innovation, technology, inclusiveness, and sustainability, where our unwavering collaboration paves the way for lasting success,” said, Sathish Gopalaiah, President, Consulting, Deloitte South Asia.
-
-...
-
-[Data](articles/e63cf51b.json)
-
-[Extended Data](ext_articles/e63cf51b.ext.json)
 
 ---

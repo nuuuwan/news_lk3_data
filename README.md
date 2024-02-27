@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 01:17:42**
+As of **2024-02-28 01:33:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,675 (100.0%) of 9,676 articles have been extended.
+9,676 (100.0%) of 9,676 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,23 +68,25 @@ Accordingly, Mutukumarana is reportedly next in line on the Sri Lanka Podujana P
 
 ---
 
-### மாணவர்களுக்கு பாலினம் தொடர்பான கல்வி
+### Gender -related education for students
 
 *2024-02-27 23:42:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-பாலினம்-தொடர்பான-கல்வி/175-333904) · `ta`
 
-முன்பிள்ளை பருவம் முதல் வயது வந்தோர் வரை பாலினம் தொடர்பான கல்வியை வழங்குவதற்காக வடிவமைக்கப்பட்டுள்ள புதிய கல்வி வெளியீடுகளை எதிர்வரும் மாதம் 7 ஆம் திகதி வெளியிடுவதற்கு திட்டமிடப்பட்டுள்ளது.
+The new educational releases designed to provide gender education from the pre -season to adult are scheduled to be released on the 7th of this month.
 
-பாராளுமன்ற உறுப்பினர் ரோஹினி குமாரி விஜேரத்ன தலைமையில் அண்மையில் கூடிய பாராளுமன்ற சிறுவர் ஒன்றியத்திலேயே கல்வி அமைச்சின் அதிகாரிகள் இதனை தெரிவித்துள்ளனர்.
+Officials of the Ministry of Education have made this statement in the recent Parliamentary Children's Union headed by Member of Parliament Rohini Kumari Wijeratne.
 
-முன்பள்ளி மாணவர்கள் முதல் 13ஆம் தரம் வரையிலான பாடசாலை மாணவர்கள் வரையிலும், வயது வந்தவர்களுக்காகவும் இந்த வெளியீடுகள் தயாரிக்கப்பட்டுள்ளன.
+These publications have been prepared for adults and adult students from pre -school students to grade 13.
 
-முதல் கட்டத்தின் கீழ் பாலினம் தொடர்பான கல்வி வெளியீடுகளை இலத்திரனியல் வெளியீடுகளாக வழங்குவதற்கு உத்தேசிக்கப்பட்டுள்ளது.
+Under the first phase, it is proposed to provide gender -related educational outputs as electronic releases.
 
-இதன் மூலம் சமூகத்தில் உள்ள அனைத்து வயதினருக்கும் பாலினம் பற்றிய அறிவை முறையாக வழங்குவதன் மூலம், சமூகத்தில் உருவாகி வரும் பல நெருக்கடிகளை களைய முடியும் எனவும், இதன் மூலம் பாடசாலை மாணவர்களின் பாதுகாப்பை உறுதிப்படுத்த முடியும் எனவும் கல்வி அமைச்சின் அதிகாரிகள் தெரிவித்துள்ளனர். R
+The Ministry of Education has said that this will enable the knowledge of gender to all ages in the community, which can eliminate many of the crisis in the community and ensure that the safety of schoolchildren will be ensured.. Remble
 
 ◼️
 
 [Data](articles/1f5ae01a.json)
+
+[Extended Data](ext_articles/1f5ae01a.ext.json)
 
 ---
 

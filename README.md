@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 16:33:11**
+As of **2024-02-27 16:47:45**
 
 ## Newspaper Stats
 
-*Scraped **9,601** Articles*
+*Scraped **9,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 505
 islandlk | 511
 adalk | 810
 adaderanalk | 1,154
-tamilmirrorlk | 1,176
-virakesarilk | 1,312
+tamilmirrorlk | 1,177
+virakesarilk | 1,313
 dailymirrorlk | 1,447
 adaderanasinhalalk | 1,453
 
@@ -26,41 +26,73 @@ adaderanasinhalalk | 1,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,598 (100.0%) of 9,601 articles have been extended.
+9,601 (100.0%) of 9,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### வாழைச்சேனை கடதாசி தொழிற்சாலை மோசடிகளால் அழிகிறதா?
+### உடலை கட்டழகாக்க நாணயங்களை விழுங்கிய இளைஞன்
+
+*2024-02-27 16:07:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடலை-கட்டழகாக்க-நாணயங்களை-விழுங்கிய-இளைஞன்/175-333893) · `ta`
+
+உடலோம்பல் மற்றும் கட்டழகுக்காக இளம் வயதினர் மத்தியில் வழக்கமான உணவூட்டத்துக்கு அப்பாலும் சத்து மாத்திரைகள், பவுடர்கள், பானங்கள் உள்ளிட்டவற்றை உண்ணும் பழக்கம் அதிகம் காணப்படுகிறது. புரோட்டின் பவுடர் அவற்றில் முதலிடம் வகிக்கிறது. இது தவிரவும் உடற்பயிற்சி செய்பவர்கள் இதர ஊட்டங்களுக்காக, மருத்துவர் ஆலோசனையின்றி தாமாக எதையேனும் உட்கொள்ளும் போக்கும் அதிகம் நிலவுகிறது.
+
+புது டெல்லியில் பாடி பில்டராக விரும்பிய 26 வயது இளைஞர் ஒருவர் துத்தநாகம் சத்துக்காக விபரீத நடவடிக்கையில் ஈடுபட்டுள்ளார். கட்டழகு தேகத்துக்காக ஆசைப்பட்ட அந்த இளைஞருக்கு ஏனோ அது கைகூடவில்லை. இதனை அடுத்து எவரோ கூறியதன் அடிப்படையில் துத்தநாகம் சத்துக்குறைவினால் தனது உடல் தேறவில்லை என அந்த இளைஞர் முடிவுக்கு வந்தார். அடுத்த அதிரடியாக, நாணயத்தில் துத்தநாகத்தின் சேர்க்கை இருப்பதாக அறிந்து அவற்றை ஒவ்வொன்றாக விழுங்க ஆரம்பித்திருக்கிறார்.
+
+...
+
+[Data](articles/225caaea.json)
+
+---
+
+### காஸா சிறுவர் நிதியத்திற்கு அன்பளிப்புச் செய்யவிரும்புவோருக்கு.....
+
+*2024-02-27 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177408) · `ta`
+
+ரமழான் மாதத்தில் காஸா சிறுவர் நிதியத்திற்கு (Children of Gaza Fund) அன்பளிப்புச் செய்ய விரும்புவோர் ஏப்ரல் 11 ஆம் திகதிக்கு முன்னதாக இலங்கை வங்கியின் (7010) தப்ரபேன்(747) கிளையில் 7040016  என்ற கணக்கு இலக்கத்திற்கு வைப்பிலிடுமாறும்,  வைப்பு செய்த ரசீதை 0776973039 என்ற இலக்கத்திற்கு வட்ஸ்அப்பில் அனுப்புமாறும் ஜனாதிபதி செயலகம் கோரியுள்ளது.
+
+காஸா எல்லை பகுதிகளில் பாதிக்கப்பட்ட குழந்தைகளுக்கு நிவாரணங்களைப் பெற்றுக்கொடுப்பதற்காக Children of Gaza Fund இனை காஸாவில் நிறுவுவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை அனுமதி வழங்கியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b2d4a739.json)
+
+---
+
+### Does the bananasen kadasi factory destroy the scams?
 
 *2024-02-27 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177407) · `ta`
 
-நான்கு தசாப்தங்களுக்கு முன்னர் வாழைச்சேனை என்றதும் அங்கு அமைந்துள்ள கடதாசி தொழிற்சாலை தான் அனைவருக்கும் நினைவுக்கு வரும். என்றாலும் 1990 களில் இத்தொழிற்சாலை மூடப்பட்டதோடு அந்நினைவு பெரும்பாலானவர்களின் மனங்களில் இருந்து நீங்கிவிட்டது.
+Four decades ago is the Valaichenai and the Kadadasi factory located there will remember everyone. However, in the 1990s, the factory was closed and the minds of most of them were left out of the minds.
 
-1947 இல் ஐக்கிய தேசியக் கட்சி அரசாங்கத்தில் கைத்தொழில் அமைச்சராக ஜோர்ஜ் ஈ.டி.சில்வா பதவி வகித்தார். அப்பதவி 1948 இல் ஜி.ஜி பொன்னம்பலத்திற்கு வழங்கப்பட்டது. அதனைத் தொடர்ந்து 1951 இல் வாழைச்சேனை கடதாசி தொழிற்சாலைக்கு பொன்னம்பலம் அடிக்கல் நாட்டினார். ஜேர்மன் நாட்டின் உதவித் திட்டத்தின் கீழ் இத்தொழிற்சாலை அமைக்கப்பட்டது.
+George ED Silva held the post of Industry Minister in the United National Party in 1947. GG Ponnambalam was given in 1948. Following this, Ponnambalam laid the foundation stone for the Valaichenai Kadadasi Factory in 1951. The factory was set up under the German assistance program.
 
-என்றாலும் 1952 இல் நடைபெற்ற பொதுத்தேர்லிலும் ஐ.தே.க வே ஆட்சிக்கு வந்தது. அந்த அரசிலும் பொன்னம்பலமே கைத்தொழில் அமைச்சரானார். அதனால் அவர் அடிக்கல் நாட்டி ஆரம்பித்த கடதாசி தொழிற்சாலையின் நிர்மாணப் பணிகள் டட்லி சேனநாயக்காவின் ஆட்சியிலும் வெற்றிகரமாக முன்னெடுக்கப்பட்டன.
+However, the UNP came to power in 1952. Ponnambalam became the Minister of Industry. So the construction work of the Kadadasi factory, which he started the foundation, was successfully carried out in the reign of Dudley Senanayake.
 
 ...
 
 [Data](articles/9f134131.json)
 
+[Extended Data](ext_articles/9f134131.ext.json)
+
 ---
 
-### நீதிமன்றத்தின் முன் பொலிஸ் உத்தியோகத்தர் உயிரிழப்பு
+### Death of police officer before court
 
 *2024-02-27 15:58:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தின்-முன்-பொலிஸ்-உத்தியோகத்தர்-உயிரிழப்பு/175-333892) · `ta`
 
-மாத்தறை கொடவில நீதிமன்ற வளாகத்துக்கு அருகில் பொலிஸ் உத்தியோகத்தர் ஒருவர் துப்பாக்கியால் சுட்டு தனது உயிரை மாய்த்துக்கொண்டதாக தெரிவிக்கப்படுகின்றது.
+It is reported that a police officer shot dead his life near the Matara Kodawawa court complex.
 
-கொடவில பொலிஸ் நிலையத்தில் கடமையாற்றும் 52 வயதுடைய சார்ஜன்ட் ஒருவரே இவ்வாறு உயிரிழந்துள்ளார்.
+The deceased is a 52 -year -old Sergeant who works at the Kodawila Police Station.
 
-நீண்ட நாட்களாக சுகயீன விடுமுறையில் இருந்து பணிக்கு திரும்பிய அவர், கொடவில நீதிமன்ற வளாகத்தில் உள்ள பொலிஸ் நிலையத்தில் வைத்து இன்று துப்பாக்கியால் சுட்டு கொண்டதாக தெரிவிக்கப்படுகின்றது.
+Returning to work for a long time, he was shot dead at the police station at the Kodawila Court Complex today.
 
 ◼️
 
 [Data](articles/a29a5acb.json)
+
+[Extended Data](ext_articles/a29a5acb.ext.json)
 
 ---
 
@@ -105,6 +137,8 @@ If you or someone you know is in crisis and needs help, resources are available 
 ◼️
 
 [Data](articles/220ddda2.json)
+
+[Extended Data](ext_articles/220ddda2.ext.json)
 
 ---
 
@@ -1961,53 +1995,5 @@ Meanwhile, 22 percent of the phone numbers are active, but the report reveals th
 [Data](articles/f4fb4bd5.json)
 
 [Extended Data](ext_articles/f4fb4bd5.ext.json)
-
----
-
-### Rain or thunderstorm
-
-*2024-02-27 07:57:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-அல்லது-இடியுடன்-கூடிய-மழை-பெய்யும்/175-333861) · `ta`
-
-The Department of Meteorology has said that frequent rainfall in Nuwara Eliya, Matale and Polonnaruwa districts will occur.
-
-Rainfall is expected in the Eastern and Uva provinces, as well as the Anuradhapura district.
-
-There is a chance of rain or thunderstorms in the evening or night in some parts of the Sabaragamuwa and Western Provinces as well as some areas of Kandy, Galle and Matara districts.
-
-Heavy winds are expected to blow at speeds of 30 to 40 kilometers per hour in the eastern slopes of the central hill country as well as in the North, Eastern, North Western, Southern and Uva provinces.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Showers or thundershowers are likely to occur in many parts of the sea regions beyond the coast of Trincomalee to Pottuvil.
-
-Showers or thunderstorms are expected in the evening or night in some parts of the sea regions from Colombo to Galle.
-
-Winds from the northeast at 25 - 35 kilometers per hour in the sea regions.
-
-...
-
-[Data](articles/ee7a003b.json)
-
-[Extended Data](ext_articles/ee7a003b.ext.json)
-
----
-
-### No-confidence in the North Lanka coalition supported the Speaker
-
-*2024-02-27 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193864) · `si`
-
-The answer of the Sri Lanka coalition has been decided to assist the no-confidence motion against the Speaker.
-
-The decision was taken by the Northern Provincial Team of the Northern Provincial Council meeting yesterday (26).
-
-The Opposition has decided to bring a no-confidence motion against him, accusing the approval of the Online Security Act.
-
-The Leader of the JHU (JHD) leader of the JHU
-
-◼️
-
-[Data](articles/8aba0064.json)
-
-[Extended Data](ext_articles/8aba0064.ext.json)
 
 ---

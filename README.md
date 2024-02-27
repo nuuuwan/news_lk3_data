@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 02:17:37**
+As of **2024-02-28 02:32:58**
 
 ## Newspaper Stats
 
-*Scraped **9,677** Articles*
+*Scraped **9,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 511
 adalk | 819
 adaderanalk | 1,167
 tamilmirrorlk | 1,182
-virakesarilk | 1,325
+virakesarilk | 1,328
 dailymirrorlk | 1,461
 adaderanasinhalalk | 1,464
 
@@ -26,9 +26,59 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,676 (100.0%) of 9,677 articles have been extended.
+9,677 (100.0%) of 9,680 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-02-28 (Wednesday)
+
+### பொலிஸ்மா அதிபரின் நியமனம் சட்ட விரோதமானதல்ல - நீதி அமைச்சு அறிவிப்பு
+
+*2024-02-28 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177460) · `ta`
+
+பொலிஸ்மா அதிபரின் நியமனம் அரசியலமைப்புக்கு முரணானது என்றால், பாராளுமன்றத்தில் இதுவரை நிறைவேற்றப்பட்டுள்ள சகல சட்டங்களும் செல்லுபடியற்றதாகும். அரசியலமைப்பு  பேரவையின் 9 உறுப்பினர்களில் ஐவர் இந்த தீர்மானத்தை ஏற்றுக் கொண்டுள்ளதால் அதனைச் சட்ட விரோதமானதெனக் கூற முடியாது என நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜேதாச ராஜபக்ஷ தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+பொலிஸ்மா அதிபரின் நியமனம் அரசியலமைப்புக்கு முரணானது என பலராலும் முன்வைக்கப்படும் வாதங்களை தற்போது ஏற்றுக் கொண்டால், இதுவரைக் காலமும் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டுள்ள எந்தவொரு சட்டமும் செல்லுபடியற்றதாகும். அதாவது பொலிஸ்மா அதிபர் நியமனத்தில் பெரும்பான்மை வாக்கு எண்ணிக்கையை ஏற்றுக் கொள்ள முடியாது என்றல்லவா இவர்கள் குறிப்பிடுகின்றனர்?
+
+...
+
+[Data](articles/b1d353ee.json)
+
+---
+
+### மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்பு ஒழுக்கமற்ற செயல் - நீதி அமைச்சர் விசனம்
+
+*2024-02-28 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177459) · `ta`
+
+நாட்டின் பொருளாதாரம் பூச்சிய நிலைமைக்கு வீழ்ச்சியடையக் காரணமாகவிருந்த மத்திய வங்கியை சுயாதீனப்படுத்தியமையில் நான் அதிருப்தியடைந்துள்ளேன். மக்கள் தம் வாழ்வை அர்ப்பணித்துள்ள இந்த சந்தர்ப்பத்தில் மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்பு ஒழுக்கமற்ற செயலாகும் என்று நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜேதாச ராஜபக்ஷ தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+மத்திய வங்கியைச் சுயாதீனமாக்குவது குறித்த தீர்மானம் தொடர்பில் நான் அதிருப்தியும், கவலையும் கொண்டுள்ளேன். நாட்டின் பொருளாதாரம் பூச்சிய நிலைமைக்கு வீழ்ச்சியடைந்தமைக்கு பிரதானமாகப் பொறுப்பு கூற வேண்டிய அரச நிறுவனம் மத்திய வங்கியாகும். மத்திய வங்கி அதன் பொறுப்புக்களிலிருந்து விலகிச் செயற்பட்டமை மறுக்க முடியாத காரணியாகும்.
+
+...
+
+[Data](articles/7842d603.json)
+
+---
+
+### ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்தின் 06 விமான பயணச் சேவைகள் இரத்து
+
+*2024-02-28 00:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177458) · `ta`
+
+ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்தின் 06 விமான பயணச் சேவைகள் செவ்வாய்க்கிழமை (27) இரத்து செய்யப்பட்டதால் தேசிய மற்றும் சர்வதேச பயணிகள் கடும் அசௌகரியங்களை எதிர்கொண்டனர்.
+
+ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்துக்கு சொந்தமான யு.எல் 173 இலக்க விமானம் செவ்வாய்க்கிழமை (27) அதிகாலை 01.10 மணிக்கு பெங்களூர்- இந்தியா நோக்கி புறப்படவிருந்த நிலையில் பயணச் சேவை இரத்து செய்யப்பட்டுள்ளது. அதேபோல்  அதிகாலை 01.15 மணிக்கு பெங்கொக் நோக்கி புறப்படவிருந்த யு எல் 402 விமானம் இரத்து செய்யப்பட்டதால் பயணிகள் பெரும் அசௌகரியங்களை எதிர்க்கொண்டனர்.
+
+அதேபோல்  செவ்வாய்க்கிழமை (27) பகல் 1.45  மணிக்கு சென்னை நோக்கி புறப்படவிருந்த யு.எல். 127 இலக்க விமானம்,மாலை 05.10 மணிக்க மும்பை நோக்கி புறப்படவிருந்த யு.எல் 143 இலக்க விமானம், மாலை 06.30 மணிக்கு தமாம் நோக்கி புறப்படவிருந்த யு.எல்.263 இலக்க விமானம், மாலை.06.50 மணிக்கு அபுதாபி நோக்கி புறப்படவிருந்த யு.எல்.207 இலக்க விமானம் இவ்வாறு இரத்து செய்யப்பட்டன.
+
+...
+
+[Data](articles/c1a41880.json)
+
+---
 
 ### 2024-02-27 (Tuesday)
 
@@ -67,6 +117,8 @@ Mutukumarana is next in line on the Sri Lanka Podujana Peramuna (SLPP) list for 
 ◼️
 
 [Data](articles/21887823.json)
+
+[Extended Data](ext_articles/21887823.ext.json)
 
 ---
 
@@ -1975,61 +2027,5 @@ Court was informed that the parties were yet to receive minutes pertaining to th
 [Data](articles/172ba109.json)
 
 [Extended Data](ext_articles/172ba109.ext.json)
-
----
-
-### Seven petitions against Deshabandu being appointed as IGP fixed for April 2
-
-*2024-02-27 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Seven-petitions-against-Deshabandu-being-appointed-as-IGP-fixed-for-April-2/108-277808) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - Seven Fundamental Rights petitions filed challenging the decision to appoint Deshabandu Thennakoon as the Acting Inspector General of Police (IGP) and the IGP were today fixed for April 2 by the Supreme Court.
-
-Court was informed that the parties were yet to receive minutes pertaining to the Constitutional Council appointing Deshabandu Tennakoon as the new IGP.
-
-◼️
-
-[Data](articles/23a71b21.json)
-
-[Extended Data](ext_articles/23a71b21.ext.json)
-
----
-
-### Hamas studies Paris truce proposal involving 40-day pause and hostage exchange – reports
-
-*2024-02-27 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97565/hamas-studies-paris-truce-proposal-involving-40-day-pause-and-hostage-exchange-reports) · `en`
-
-Palestinian Islamist group Hamas has received a draft proposal from Gaza truce talks in Paris which includes a 40-day pause in all military operations and the exchange of Palestinian prisoners for Israeli hostages at a ratio of 10 to one, a senior source close to the talks told Reuters on Tuesday.
-
-Under the proposed ceasefire, hospitals and bakeries in Gaza would be repaired, 500 aid trucks would enter into the strip each day and thousands of tents and caravans would be delivered to house the displaced, the source said.
-
-The draft also states Hamas would free 40 Israeli hostages including women, children under 19, elderly over 50 and the sick, while Israeli would release around 400 Palestinian prisoners and will not re-arrest them, the source told Reuters.
-
-The Gaza truce talks appear to be the most serious push in weeks to halt the fighting in the battered Palestinian enclave and secure the release of Israeli and foreign hostages.
-
-...
-
-[Data](articles/ec3437f2.json)
-
-[Extended Data](ext_articles/ec3437f2.ext.json)
-
----
-
-### The person who was attacked while sleeping
-
-*2024-02-27 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177415) · `ta`
-
-A man who was injured in an attack on a person who was sleeping in the house has died at the Jaffna Bodhana Hospital without treatment.
-
-The 44 -year -old Natarasa Ravikumar, the father of three children belonging to the Dharmapuram police division of Kilinochchi, has died.
-
-While he was sleeping at his home on the 20th, his face and head were severely attacked.
-
-He was admitted to the Kilinochchi Hospital and admitted to the Jaffna Bodhana Hospital for further treatment.
-
-◼️
-
-[Data](articles/a5416f91.json)
-
-[Extended Data](ext_articles/a5416f91.ext.json)
 
 ---

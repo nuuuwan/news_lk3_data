@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 08:33:07**
+As of **2024-02-27 08:50:45**
 
 ## Newspaper Stats
 
@@ -26,87 +26,99 @@ adaderanasinhalalk | 1,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,486 (99.9%) of 9,491 articles have been extended.
+9,491 (100.0%) of 9,491 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### அரைவாசிக்கும் மேற்பட்ட இலக்கங்கள் பயன்பாட்டிலில்லை
+### More than half -digit digits are not in use
 
 *2024-02-27 08:03:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரைவாசிக்கும்-மேற்பட்ட-இலக்கங்கள்-பயன்பாட்டிலில்லை/175-333862) · `ta`
 
-அரச சேவை அதிகாரிகளுக்கு வழங்கப்படும் தொலைபேசி இலக்கங்களில் கிட்டத்தட்ட அரைவாசி செயலற்றதாகவும், தொடர்பு கொள்ள முடியாததாகவும் உள்ளதாக பேராதனைப் பல்கலைக்கழகத்தின் பொருளாதார மற்றும் புள்ளிவிபரவியல் திணைக்களத்தினால் மேற்கொள்ளப்பட்ட ஆய்வில் தெரியவந்துள்ளது.
+A study by the Department of Economic and Statistics of the University of Peradeniya has revealed that almost half of the telephone numbers given to public service officials is inactive and incomplated.
 
-நாட்டின் ஒவ்வொரு பிரதேச செயலகத்திலும் கடமையாற்றும் கிராம சேவை உத்தியோகத்தர்கள், சமுர்த்தி அபிவிருத்தி உத்தியோகத்தர்கள் மற்றும் அபிவிருத்தி உத்தியோகத்தர்களின் பிராந்திய செயலகத்தின் இணையத்தளத்தில் பதிவிடப்பட்டுள்ள தொலைபேசி இலக்கங்களை உள்ளடக்கி நாடு பூராகவும் இந்த கணக்கெடுப்பு நடத்தப்பட்டது.
+The survey was conducted across the country, including the telephone numbers posted on the Regional Secretariat of the Regional Secretariat of the Grama Niladhari, Samurdhi Development Officers and Development Officers in every Divisional Secretariat of the country.
 
-கொடுக்கப்பட்ட குறிப்பிட்ட எண்கள் பயன்பாட்டில் உள்ளதா மற்றும் அழைப்பை ஏற்படுத்தும் போது அந்த எண்ணிலிருந்து பதில் கிடைக்கிறதா என்பது பரிசீலிக்கப்பட்டது. அதன்படி, மொத்தம் 589 தொலைபேசி எண்கள் கணக்கெடுக்கப்பட்டதில், அவற்றில் 286 செயலிழந்து இருப்பது கண்டறியப்பட்டது.
+It is considered whether the given numbers are in use and the answer is available when the call is made.Accordingly, a total of 589 telephone numbers were found to have been dysfunctional.
 
-இதற்கிடையில், 22 சதவீத தொலைபேசி எண்கள் செயலில் உள்ளன, ஆனால் பதிலளிக்கவில்லை என்று அறிக்கை வெளிப்படுத்துகிறது, அதே நேரத்தில் 29 சதவீத அழைப்புகளுக்கு பதிலளித்ததாக அறிக்கை கூறுகிறது.
+Meanwhile, 22 percent of the phone numbers are active, but the report reveals that it is not responding, while 29 percent responded to calls.
 
 ◼️
 
 [Data](articles/f4fb4bd5.json)
 
+[Extended Data](ext_articles/f4fb4bd5.ext.json)
+
 ---
 
-### மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்
+### Rain or thunderstorm
 
 *2024-02-27 07:57:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-அல்லது-இடியுடன்-கூடிய-மழை-பெய்யும்/175-333861) · `ta`
 
-நுவரெலியா, மாத்தளை மற்றும் பொலநறுவை மாவட்டங்களில் அடிக்கடி மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has said that frequent rainfall in Nuwara Eliya, Matale and Polonnaruwa districts will occur.
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் அனுராதபுரம் மாவட்டத்திலும்  இடைக்கிடையே மழை பெய்யக்கூடும்.
+Rainfall is expected in the Eastern and Uva provinces, as well as the Anuradhapura district.
 
-சப்ரகமுவ மற்றும் மேல் மாகாணங்களின்  சில இடங்களிலும் அத்துடன் கண்டி, காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக்  காணப்படுகின்றது.
+There is a chance of rain or thunderstorms in the evening or night in some parts of the Sabaragamuwa and Western Provinces as well as some areas of Kandy, Galle and Matara districts.
 
-மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும் அத்துடன் வடக்கு, கிழக்கு, வடமத்திய, வடமேல், தென் மற்றும் ஊவா மாகாணங்களிலும் மணித்தியாலத்திற்கு 30 ‐ 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும் என எதிர்பார்க்கப்படுகிறது.
+Heavy winds are expected to blow at speeds of 30 to 40 kilometers per hour in the eastern slopes of the central hill country as well as in the North, Eastern, North Western, Southern and Uva provinces.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+The public is asked to act with vigilance in the events of strong winds and lightning.
 
-திருகோணமலை  தொடக்கம் மட்டக்களப்பு   ஊடாக பொத்துவில்  வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின் பல இடங்களில்  மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Showers or thundershowers are likely to occur in many parts of the sea regions beyond the coast of Trincomalee to Pottuvil.
+
+Showers or thunderstorms are expected in the evening or night in some parts of the sea regions from Colombo to Galle.
+
+Winds from the northeast at 25 - 35 kilometers per hour in the sea regions.
 
 ...
 
 [Data](articles/ee7a003b.json)
 
+[Extended Data](ext_articles/ee7a003b.ext.json)
+
 ---
 
-### කථානායකවරයාට එරෙහි විශ්වාසභංගයට උත්තර ලංකා සභාගයෙත් සහාය
+### No-confidence in the North Lanka coalition supported the Speaker
 
 *2024-02-27 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193864) · `si`
 
-කථානායකවරයාට එරෙහිව ගෙන එන විශ්වාසභංග යෝජනාව සඳහා සහාය ලබාදීමට උත්තර ලංකා සභාගය තීරණය කර තිබේ.
+The answer of the Sri Lanka coalition has been decided to assist the no-confidence motion against the Speaker.
 
-ඊයේ (26) රැස්වූ උත්තර ලංකා සභාගයේ පාර්ලිමේන්තු මන්ත්‍රී කණ්ඩායම මෙම තීරණය ගෙන ඇති බව වාර්තා වේ.
+The decision was taken by the Northern Provincial Team of the Northern Provincial Council meeting yesterday (26).
 
-මාර්ගගත සුරක්ෂිතතාව පිළිබඳ පනත සම්මත කිරීමේ දී කථානායක මහින්ද යාපා අබේවර්ධන මහතා ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය කර ඇති බවට චෝදනා කරමින් විපක්ෂය විසින් ඔහුට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට තීරණය කර තිබේ.
+The Opposition has decided to bring a no-confidence motion against him, accusing the approval of the Online Security Act.
 
-ඒ සඳහා උත්තර ලංකා සභාගයේ මන්ත්‍රී කණ්ඩායම ද සහාය පළකරන බව පිවිතුරු හෙළ උරුමයේ නායක පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා සඳහන් කළේය.
+The Leader of the JHU (JHD) leader of the JHU
 
 ◼️
 
 [Data](articles/8aba0064.json)
 
+[Extended Data](ext_articles/8aba0064.ext.json)
+
 ---
 
-### අනියම් පෙම ජීවිතයක් බිලිගනී
+### A life of the casian is kicked
 
 *2024-02-27 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193863) · `si`
 
-වඳුරඹ, නාත්තේවල ප්‍රදේශයේ අනියම් සම්බන්ධතාවයක් හේතුවෙන් තියුණු ආයුධයකින් පහරදී කාන්තාවක් ඝාතනය කර තිබේ.
+Due to a casual relationship in the area, a woman has been assaulted by a sharp object.
 
-ඊයේ (26) උදෑසන කාලයේදී නාත්තේවල ප්‍රදේශයේ අතුරු මාර්ගයක කාන්තාවක් තුවාල ලබා වැටී සිටින බවට 119  තොරතුරු මාධ්‍යස්ථානයට තොරතුරක් ලැබී තිබිණි.
+The Media Center forced a manner that a woman was injured in a side road in the Namawala area yesterday morning (26).
 
-ඒ අනුව පොලීසිය සිදුකළ විමර්ශනයේදී අනාවරණය වී ඇත්තේ, මරණකාරිය සමග අනියම් සම්බන්ධතාවයක් පවත්වල ලද පුද්ගලයෙකු විසින් තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවය.
+Accordingly, the investigation was revealed that the murder had been assaulted by a person who had a casual relationship with death.
 
-එසේ මියගොස් ඇත්තේ, නාත්තේවල, වඳුරඹ ප්‍රදේශයේ පදිංචි 45 හැවිරිදි කාන්තාවකි.
+The deceased has been identified as 45, a 45 year old resident of the Wanduramba area.
 
-ඝාතනය සිදුකළ සැකකරු ද වස පානය කර සියදිවි නාසා ගැනීමට උත්සාහ කර ඇති අතර පසුව කරාපිටිය රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටින බව පොලීසිය පවසයි.
+The suspect has also attempted to suffer the murder and has been admitted to the Karapitiya Hospital.
 
 ◼️
 
 [Data](articles/672616dd.json)
+
+[Extended Data](ext_articles/672616dd.ext.json)
 
 ---
 
@@ -587,6 +599,8 @@ The Sri Lanka Association of Inbound Tour Operators (SLAITO) shared that the maj
 ...
 
 [Data](articles/cfa72205.json)
+
+[Extended Data](ext_articles/cfa72205.ext.json)
 
 ---
 

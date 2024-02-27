@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 15:51:34**
+As of **2024-02-27 16:02:54**
 
 ## Newspaper Stats
 
-*Scraped **9,594** Articles*
+*Scraped **9,595** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 96
-bbccomsinhala | 116
+bbccomsinhala | 117
 dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 491
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,451
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,594 (100.0%) of 9,594 articles have been extended.
+9,594 (100.0%) of 9,595 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1504,6 +1504,26 @@ The French president has announced that it will form a new alliance to send miss
 
 ---
 
+### ආර්ථික අර්බුදයේ අඳුරු පැතිකඩ : දරුවන්ට යහපත් අනාගතයක් සොයා පිටරට ගොස් මානසික පීඩනයෙන් බැට කෑ තරුණ මවක්
+
+*2024-02-27 09:52:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjmdm0v0m92o) · `si`
+
+ආර්ථික අර්බුදයේ අඳුරු පැතිකඩ : දරුවන්ට යහපත් අනාගතයක් සොයා පිටරට ගොස් මානසික පීඩනයෙන් බැට කෑ තරුණ මවක්
+
+“මගේ නහරයක් හරි කපා ගත්තොත් කවුරුත් නැහැ මාව මැරෙයි, මම නාද්දි හිතෙනවා හොට් වෝටර්වලින්ම පිච්චිලා මාව මැරෙයි, නැත්තනම් තව ටිකක් මේක වැඩි කර ගත්තොත් රස්නෙට මාව මැරෙයි. ඒ වගේ මට මං ගැනම බය හිතෙන දේවල් හිතෙන්න ගත්තා.”
+
+මීගමුවට නුදුරුව ජිවත් වු ව්‍යාපාරික කාන්තාවක් වු දේශානි මීට වසර දෙකකට පමණ ඉහත දී ඇගේ සැමියා රැකියාවේ නියුතු නවසීලන්තය බලා යන්නේ තම දරුවන්ට වඩා යහපත් අනාගතයක් උරුම කර දීමේ ප්‍රර්ථනාව සිතෙහි දරාගෙනය.
+
+ලංකාවේ ගෙවු කාර්ය බහුල ජිවිතයෙන් මිදි දරු දෙදෙනා සමග නවසීලන්තයේ වාසයට ගිය දේශානිට එහි ගොස් මාස කිහිපයකට පසුව නොසිතු දෙයකට මුහුණ දෙන්නට සිදුවිය.
+
+මේ වන විට ප්‍රතිකාර ලබමින්, සුව අතට පත්වෙමින් සිටින අතර විදෙස් රටකට යෑම නිසාවෙන් ඇය මුහුණ දුන් බරපතල මානසික සෞඛ්‍ය ගැටලුව සම්බන්ධයෙන්  බෙදා හදා ගත්තාය. ඇයගේ හෝ පවුලේ අනන්‍යතාවය ආරක්ෂා වනු පිණිස  ඇයට අපි "දේශානි" යැයි අමතමු.
+
+...
+
+[Data](articles/c668a882.json)
+
+---
+
 ### Sri Lanka rupee opens stronger at 310.50/75 to the US dollar
 
 *2024-02-27 09:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-310-50-75-to-the-us-dollar-152183/) · `en`
@@ -1995,23 +2015,5 @@ The suspects are to be produced before the court today.
 [Data](articles/61cd775d.json)
 
 [Extended Data](ext_articles/61cd775d.ext.json)
-
----
-
-### Speaker uses his decisive vote ending stalemate in appointing IGP
-
-*2024-02-27 07:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-uses-his-decisive-vote-ending-stalemate-in-appointing-IGP/108-277798) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - Speaker Mahinda Yapa Abeywardena is reported to have used his decisive vote as the chairman of the Constitutional Council (CC) to affirm the appointment of Mr. Deshabandu Tennakoon as the Inspector General of Police (IGP) permanently.
-
-The other eight members of the CC were divided in a tie on the appointment. An informed source said four members voted for the appointment and two others against . Besides, two others abstained but their decisions were challenged. It was argued that any member should vote for or against rather than abstaining .
-
-Also , abstentions in this instance were considered as votes cast against the appointment. Therefore the members were divided in a tie resulting in the Speaker using his vote in favour of the appointment .
-
-...
-
-[Data](articles/c6ac1756.json)
-
-[Extended Data](ext_articles/c6ac1756.ext.json)
 
 ---

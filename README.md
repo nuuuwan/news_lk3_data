@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 12:32:52**
+As of **2024-02-27 12:50:05**
 
 ## Newspaper Stats
 
-*Scraped **9,529** Articles*
+*Scraped **9,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 486
 dailyftlk | 504
 islandlk | 508
 adalk | 803
-adaderanalk | 1,147
+adaderanalk | 1,149
 tamilmirrorlk | 1,168
 virakesarilk | 1,294
 dailymirrorlk | 1,432
@@ -26,21 +26,55 @@ adaderanasinhalalk | 1,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,526 (100.0%) of 9,529 articles have been extended.
+9,531 (100.0%) of 9,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### දක්ෂිණ අධිවේගයේ මාරක අනතුරක්
+### Two maintenance workers killed in accident on Southern Expressway
+
+*2024-02-27 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97563/two-maintenance-workers-killed-in-accident-on-southern-expressway) · `en`
+
+Two maintenance workers at the Southern Expressway were killed in an accident reported on the highway earlier today (27 Feb.).
+
+Accordingly, two persons were reported dead after a lorry hit the protective fence near the Kurundugahahetekma interchange along the Southern Expressway a short while ago.
+
+◼️
+
+[Data](articles/e881e579.json)
+
+[Extended Data](ext_articles/e881e579.ext.json)
+
+---
+
+### A fatal accident on Southern Expressway
 
 *2024-02-27 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193875) · `si`
 
-දක්ෂිණ අධිවේගී මාර්ගයේ කුරුඳුගහහැතැක්ම ප්‍රදේශයේ සිදුවු රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Two persons were killed in an accident in Kurundugahahack on the Southern Expressway.
 
 ◼️
 
 [Data](articles/25e836fe.json)
+
+[Extended Data](ext_articles/25e836fe.ext.json)
+
+---
+
+### Uddika Premarathne resigns as MP
+
+*2024-02-27 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97562/uddika-premarathne-resigns-as-mp-) · `en`
+
+SLPP MP Uddika Premarathne has tendered his resignation as a Member of Parliament.
+
+Speaker Mahinda Yapa Abeywardena confirmed that the Anuradhapura District parliamentarian has handed over the letter of resignation.
+
+◼️
+
+[Data](articles/3e21dd64.json)
+
+[Extended Data](ext_articles/3e21dd64.ext.json)
 
 ---
 
@@ -168,21 +202,23 @@ The Government of Sri Lanka is a $ 1 million donated by the UN official agencies
 
 ---
 
-### පාරම්පරික වෛද්‍යවරුන් 32ක් ලියාපදිංචි කරයි
+### Register 32 traditional doctors
 
 *2024-02-27 10:57:23* · [`adalk`](https://www.ada.lk/breaking_news/පාරම්පරික-වෛද්‍යවරුන්-32ක්-ලියාපදිංචි-කරයි/11-408297) · `si`
 
-ආයුර්වේද වෛද්‍ය සභාවේ ලියාපදිංචියට සුදුසුකම් ලත් පාරම්පරික දේශීය වෛද්‍යවරුන් තිස් දෙදෙනෙකුට ආයුර්වේද වෛද්‍ය සභාවේ ලියාපදිංචි සහතික ප්‍රදානය කිරීමේ උත්සවයක් දේශීය වෛද්‍ය රාජ්‍ය අමාත්‍ය නීතිඥ සිසිර ජයකොඩි මහතාගේ ප්‍රධානත්වයෙන් මහරගම නාවින්න දේශීය වෛද්‍ය ක්‍රම පිළිබඳ ජාතික ආයතනයේ දී (26) දා පැවැත්වුණි.
+The Ayurvedic Indigenous doctors presented the registration certificates of the Ayurveda Medical Doctors in the National Institute of the Ayurvedic Medical Doctors (26) was held on the National Institute of Navinna Industrial Medicine.
 
-එහිදී මුදලට සීමා නොවී , වටිනා කාලය, ධනය,ශ්‍රමය වැය කරලමින් දිවයින පුරා රෝගීන් සුවපත් කොට  ජාතික සෞඛ්‍ය සේවාවට අපරිමිත සේවාවක් සිදු කළ පිරිසකගෙන් අයදුම් පත් කැඳවා ලිඛිත හා වාචික පරීක්ෂණයක් සිදුකොට ඉන් සුදුසුකම් ලත් පාරම්පරික වෛද්‍යවරුන් තිස් දෙදෙනෙකුට මෙහිදී ලියාපදිංචි සහතික ප්‍රදානය කරන ලදී.
+A group of other healthy services to the national health, wealth, labor, was a written and oral investigation by the Sri Lankan health care and conducted a written and oral medicine.
 
-ඒ අතර සර්වාංග වෛද්‍ය වරුන් 14 දෙනෙකු, කැඩුම් බිඳුම් වෛද්‍ය වරුන් 10 දෙනෙකු,චර්ම රෝග වෛද්‍ය වරුන් දෙදෙනකු  සහ සර්ප විෂ වෛද්‍ය 05 දෙනෙකු  සහ අක්ෂි වෛද්‍ය වරයෙකු ඇතුළු 32 මෙහිදී ආයුර්වේද වෛද්‍ය සභාවේ ලියාපදිංචි සතිකය ලබාගන්නා ලදී.
+Meanwhile, 14 mashed doctors, 10 skin diseases, two dermatic medicine and five snake powers and 32 optical of an eye doctor.
 
-මෙම අවස්ථාවට ආයුර්වේද  කොමසාරිස් ජනරාල් වෛද්‍ය ධම්මික අබේගුණවර්ධන , ආයුර්වේද වෛද්‍ය සභාවේ ලේඛකාධිකාරී වෛද්‍ය අජිත් කුමාර,මහතා ඇතුළු පිරිසක් සහභාගී වී සිටියහ.
+Commissioner General of Ayurvedic Commissioner General Dr. Dhammika Abeygunawardena, Ayurvedic Medical Council Dr. Ajith Kumara and several others were present at the occasion.
 
 ◼️
 
 [Data](articles/726c78fd.json)
+
+[Extended Data](ext_articles/726c78fd.ext.json)
 
 ---
 
@@ -228,17 +264,23 @@ PMD said contributions to the fund by the citizens are encouraged.
 
 ---
 
-### ශ්‍රී ලන්කන් ගුවන් ගමන් 6ක් අවලංගු කරයි
+### Sri Lankan flights canceled 6 flights
 
 *2024-02-27 10:49:22* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-ගමන්-6ක්-අවලංගු-කරයි/11-408296) · `si`
 
-කටුනායක ගුවන් තොටුපොළෙන් ඉන්දියාව , මැදපෙරදිග සහ තායිලන්තය බලා පිටත්ව යාමට නියමිත ගුවන් යානා 07 ක් 02/27 දින සිය ගුවන් ගමන් අවලංගු කර ඇති බව කටුනායක ගුවන් තොටුපොළ ගුවන් යානා තොරතුරු මධ්‍යස්ථානයේ ( Flight Information ) ප්‍රකාශිකාවක පැවසුවාය.
+According to the Katunayake Airport Information Center (Flight Information Center) said that their flights were canceled on the Katunayake airport on the Bandaranaike International Airport.
 
-මෙම ගුවන් යානා අතරින් 06 ක් ම ශ්‍රී ලන්කන් ගුවන් සේවයට අයත් ගුවන් යානා වීම විශේෂත්වයකි. ඒ අනුව 02/27 දින අලුයම 01.10 ට ඉන්දියාවේ බැංගලෝර් නුවර බලා පිටත්ව යාමට නියමිතව තිබූ ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.-173 දරන ගුවන් යානය , අලුයම 01.15 ට තායිලන්තයේ බැංකොක් නුවර බලා පිටත්ව යාමට නියමිත ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 402 දරන ගුවන් යානය , දහවල් 01.45 ට ඉන්දියාවේ චෙන්නායි නුවර බලා පිටත්ව යාමට නියමිත ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 127 දරන ගුවන් යානය ද එසේ කටුනායක ගුවන් තොටුපොළෙන් පිටත් වීම  අවලංගු වී තිබේ .
+Six of these aircrafts are a flight of Sri Lankan aircraft.Accordingly, 02/22 at 01.10 am, SriLankan Airlines UL-173, a flight to India, is expected to leave for Bangalore, August 17.15, to leave for Bangkok, UL,The 402 flight, 01.45, SriLankan Airlines UL, India, is to leave for Chennai, India - The offices of the Katunayake airport has been canceled.
 
-...
+In addition to the 5th at 5.10 pm, SriLankan Airlines UL.SriLankan Airlines UL to leave for Abu Dhabi at 6.50 pm, SriLankan Airlines has been canceled on the 207 aircraft.
+
+The Squis Jet Airlines, which was due to leave the Katunayake airport in Sri Lanka at the Katunayake airport, was also canceled at the Katunayake airport.
+
+◼️
 
 [Data](articles/c4b5b254.json)
+
+[Extended Data](ext_articles/c4b5b254.ext.json)
 
 ---
 
@@ -1957,37 +1999,5 @@ Secretary to the President Saman Ekanayake presented the official appointment le
 [Data](articles/6e091473.json)
 
 [Extended Data](ext_articles/6e091473.ext.json)
-
----
-
-### Deshand Tennakoon's assignment as Inspector General of Police
-
-*2024-02-26 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177375) · `ta`
-
-Tennakoon received his appointment letter as the 36th Police Inspector of Police on Monday (26) from the President's Secretary.
-
-It is noteworthy that President Ranil Wickremesinghe was appointed as the Inspector General of Police on November 29 last year.
-
-◼️
-
-[Data](articles/b42d88ff.json)
-
-[Extended Data](ext_articles/b42d88ff.ext.json)
-
----
-
-### Deshaphand Tennakoon appointed as the Inspector General of Police
-
-*2024-02-26 19:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபராக-தேசபந்து-தென்னகோன்-நியமனம்/175-333843) · `ta`
-
-Police Inspector Deshpandu Tennakoon has been appointed as the 36th Police Inspector of Police in Sri Lanka.
-
-The President's Media Unit noted that he had received his appointment letter shortly before the President's Secretary Saman Ekanayake.. Remble
-
-◼️
-
-[Data](articles/c95d8ff0.json)
-
-[Extended Data](ext_articles/c95d8ff0.ext.json)
 
 ---

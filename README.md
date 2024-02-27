@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 14:02:45**
+As of **2024-02-27 14:17:35**
 
 ## Newspaper Stats
 
-*Scraped **9,572** Articles*
+*Scraped **9,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 807
 adaderanalk | 1,152
 tamilmirrorlk | 1,174
 virakesarilk | 1,310
-dailymirrorlk | 1,440
+dailymirrorlk | 1,441
 adaderanasinhalalk | 1,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,563 (99.9%) of 9,572 articles have been extended.
+9,572 (100.0%) of 9,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Rise in hospitalization of children due to high temperature: Pediatrician
+
+*2024-02-27 13:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rise-in-hospitalization-of-children-due-to-high-temperature-Pediatrician/108-277810) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - Due to the high temperature during the past few weeks, many school students across the country have suffered from heat-related illnesses and hospitalised, Lady Ridgeway Hospital (LRH) consultant pediatrician Dr. Deepal Perera said.
+
+Therefore, the doctor requested parents and teachers to provide more fluids with adequate minerals to prevent children from getting dehydrated and suffering from heat shock during the present hot weather conditions.
+
+"Failure to take sufficient fluids and minerals could lead to critical health complications such as fatigue, headache, drowsiness, vomiting, body pain, insomnia, increased sleepiness and loss of appetite," Dr. Perera said.
+
+If children play in open areas without drinking water, they could suffer from dehydration and heat shock conditions.
+
+Dr. Perera requested that the parents give their children two bottles of water when they go to school.
+
+...
+
+[Data](articles/094d4769.json)
+
+---
 
 ### S.E. Muthukumarana to replace Uddika Premaratne
 
@@ -43,6 +63,8 @@ Muthukumarana is next in line on the SLPP list for the Anuradhapura District.
 ◼️
 
 [Data](articles/fcbd2916.json)
+
+[Extended Data](ext_articles/fcbd2916.ext.json)
 
 ---
 
@@ -77,6 +99,8 @@ Court was informed that the parties were yet to receive minutes pertaining to th
 ◼️
 
 [Data](articles/23a71b21.json)
+
+[Extended Data](ext_articles/23a71b21.ext.json)
 
 ---
 
@@ -360,21 +384,23 @@ My girls are like a little bird and I feel like I am in a dream. I still can't t
 
 ---
 
-### හැකි ඉක්මනින් ප්‍රදේශයේ මහජන සෞඛ්‍ය පරීක්ෂක ලවා වෛද්‍ය පරීක්ෂණයක් සිදුකර ගන්න
+### As soon as possible, conduct a medical examination of the public health inspection of the area as soon as possible
 
 *2024-02-27 12:09:31* · [`adalk`](https://www.ada.lk/breaking_news/හැකි-ඉක්මනින්-ප්‍රදේශයේ-මහජන-සෞඛ්‍ය-පරීක්ෂක-ලවා-වෛද්‍ය-පරීක්ෂණයක්-සිදුකර-ගන්න/11-408301) · `si`
 
-හෝමාගම සති පොළෙහි වෙළඳාම් කරමින් සිටි පළතුරු වෙළෙන්දෙකු එක්වරම බිම ඇද වැටී සිදුවූ අසාත්මික තාවක් හේතුවෙන් ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව (26) දා ජීවිතක්ෂයට පත්ව ඇතැයි හෝමාගම මූලස්ථාන පොලිසිය පවසයි.
+The Fruit dealer has been admitted to the Homagama Base Hospital in the Homagama-dealer has been admitted to the Homagama Base Hospital for treatment.
 
-මෘත දේහය පිළිබඳ හදිසි මරණ පරීක්ෂණය හෝමාගම හදිසි මරණ පරීක්ෂිකා මානෙල් ගමගේ මහත්මිය විසින් සිදුකළ අතර පශ්චාත් මරණ පරීක්ෂණය හෝමාගම මූලික රෝහලේ අධිකරණ වෛද්‍ය නිලධාරී විශේෂඥ වෛද්‍ය පනීත සෙනෙවිරත්න මහතා විසින් සිදු කරන ලදී.
+Massatorial Mortem Mortem Homagama The Death of Homagama was carried out by Manel Gamage, which was carried out by the Judicial Medical Officer of the Homagama Hospital Medical Officer of the Homagama Hospital.
 
-එහිදී ඉදිරිපත් වූ සාක්ෂි සහ පශ්චාත් මරණ පරීක්ෂණ වෛද්‍ය වාර්තාවට අනුව මියගිය පුද්ගලයාට වැළඳී තිබූ ක්ෂය රෝගී තත්ත්වය හා නිව් මෝනියා  තත්ත්වය මරණයට හේතුව බවට හදිසි මරණ පරීක්ෂිකා සාමවිනිසුරු මානෙල් ගමගේ මහත්මිය නිගමනය කළාය.
+The proof and the post mortem examination of the post-mortem examination, Mrs. Manel Gamage concluded that the death of the death of the deceased.
 
-තවදුරටත් තීන්දුව ප්‍රකාශ කරමින් හදිසි මරණ පරීක්ෂිකා කියා සිටියේ මියගිය පුද්ගලයාට ක්ෂය රෝගය වැළඳී ඇති බවට අනාවරණය වී ඇති නිසා නිවසේ වාසය කරන කුඩා දියණිය ඇතුළු ඥාතීන් හැකි ඉක්මනින් ප්‍රදේශයේ මහජන සෞඛ්‍ය පරීක්ෂකවරයා ලවා වෛද්‍ය පරීක්ෂණයක් සිදු කරගන්නා ලෙසටයි.
+Sudden deaths said that the deceased was revealed that the deceased had been diagnosed with tuberculosis as soon as possible, relatives, including the small daughter and relatives of the house to conduct a medical examination in the area.
 
 ◼️
 
 [Data](articles/27fd9dbe.json)
+
+[Extended Data](ext_articles/27fd9dbe.ext.json)
 
 ---
 
@@ -443,6 +469,8 @@ The protest was over the statement on selling national resources, economic and s
 ◼️
 
 [Data](articles/cf475b4e.json)
+
+[Extended Data](ext_articles/cf475b4e.ext.json)
 
 ---
 
@@ -574,19 +602,25 @@ Speaker Mahinda Yapa Abeywardena was not reachable for a comment on the Oppositi
 
 ---
 
-### පී.එච්.අයි. ඝාතනය ගැන සොයන්න පොලිස් කණ්ඩායම් හයක්
+### PHI. Six police teams to investigate murder
 
 *2024-02-27 11:23:08* · [`adalk`](https://www.ada.lk/breaking_news/පී-එච්-අයි--ඝාතනය-ගැන-සොයන්න-පොලිස්-කණ්ඩායම්-හයක්/11-408300) · `si`
 
-‍කරන්දෙණිය කුරුදුගහහැතැප්ම් දිවිතුරගමදී නාදුනන තුවක්කුකරුවන්ගේ වෙඩි පහරින් ඊයේ(27)ජිවිතක්ෂයට පත්වූ   කරන්දෙණිය පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂක දිලීප රොෂාන් කුමාරගේ ඝාතකයන් හදුනා ගැනීමට පොලිස් කණ්ඩායම් හයක් මේ වනවිට යොදවා ඇති බව ඇල්පිටිය පොලිස් අධිකාරී කාර්ලය කියයි.
+The Elpitiya Police Superintendent of Police says that six police teams have been deployed to identify the assassination of unidentified gunmen in Kurundugahahahagetaathapsa, Karandatheniya yesterday (27).
 
-සිය කාර්යාලයේ පූර්ණ අධීක්ෂණය යටතේ වෙනමම විශේෂ පොලිස් කණ්ඩායමක් මේ ඝාතනයේ සුලමුල හෙළිකර ගැනීම සදහා යෙදවූ බව ද එම කාර්යාලය කියයි. ඇල්පිටිය පොලීසියේ අපරාධ විමර්ශණ ඒකකය, ඇල්පිටිය කොට්ටාස අපරාධ විමර්ෂණ ඒකකය, ගාල්ල පොලිස් අපරාධ කොට්ටාසය,ඇල්පිටිය අපරාද ස්ථානීය පරීක්ෂණාගාර ඒකකකය ,පොලිස් විශේෂ කාර්ය බලකාය හා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මේ සදහා යොදවා ඇති බව ඇල්පිටිය පොලිස් අධිකාරී කාර්යාලයේ ප්‍රකාශයෙක් කීවේය.
+It is also said that a special police team was deployed to uncover the murder under the full supervision of his office.. Elpitiya Police Investigation Unit, Elpitiya Kottacked Investigation Unit, Galle Police Crimes and Criminal Investigations Department (Police) said.
 
-මේ ඝාතනය පාතාලයේ කියාකාරකමද නොඑසේනම් රාජකාරී කටයුත්තක් වෙනුදෙන් සිදුවූක්ද එසේත් නොමැති නම් වෙනත් හේතුවක් නිසා සිදුවූවක් ද යන්න පිළිබදව ඉතා සියුම් විශ්ලේෂණයක් ආරම්භ කර ඇති බව ද ඔහු කීවේය.
+He said that if the assassination was the act of underworld, he had launched a subtle analysis of whether a duties had been caused by another.
 
-...
+The killers have identified motorcycle to identify the motorcycle.
+
+A definite cause of the murder has not yet been identified and is often uncovered in the future.
+
+◼️
 
 [Data](articles/32faca9f.json)
+
+[Extended Data](ext_articles/32faca9f.ext.json)
 
 ---
 
@@ -654,21 +688,23 @@ Natiaboani, where those attacks happened, is in Burkina Faso’s troubled easter
 
 ---
 
-### මාවුස්සාකැලේ හා කාසල් රී ජල මට්ටන් පහළට
+### Down the Maussakele and Castle Rie Water Matles
 
 *2024-02-27 11:14:05* · [`adalk`](https://www.ada.lk/breaking_news/මාවුස්සාකැලේ-හා-කාසල්-රී-ජල-මට්ටන්-පහළට/11-408299) · `si`
 
-මධ්‍යම කදුකරය තුල පවතින දැඩි වියළි කාලගුණික තත්වයන් හමුවේ මාඋස්සාකැලේ හා කාසල්රි ජලාශවල ජල මට්ටම් සිග්‍රයෙන් පහල බසිමින්  පවතින බව එම ජලාශ භාර නිලධාරින් දෙදෙනකු පවසන ලදි.
+Two officers in charge of the Masselry and Castlery reservoirs have been reduced in the central hurdle.
 
-මේ පිලිබදව වැඩි දුරටත් අදහස් දැක්වු එම නිලධාරින් දෙදෙනා පවසනුයේ මේ වන විට මධ්‍යම කදුකර ප්‍රදේශයන් තුල පවතින දැඩි වියළි කාලගුණික තත්වයන් මත කාසල්රි හා මාඋස්සාකැලේ ජලාශවලට ජලය සැපයෙන ජල පෝෂක කලාපන් තුල ජල ධාරිතාවයන් අඩු විමත් සමග මෙම තත්වයන් උදාවි ඇති බවත්ය.
+The two officers say that these conditions have been flooded with water supply to the Castleri and Massakaleholders in the Central Mountain Areas.
 
-මෙම තත්වයන් මත 27වන දින උදැසන වන විට කාසල්රි ජලාශයේ ජල මට්ටම පිටාර මට්ටම අඩි 18කින්ද මාඋස්සාකැලේ ජලාශයේ ජල මට්ටම පිටාර මට්ටමට අඩි 15කින්ද  පහල බැස ඇති බවත්ය.
+The water level of the Castlereage Reservoir, the water level of the 18th of these circumstances is the 18 foot level of the water level of 15 feet [15) feet.
 
-පවතින වියළි කාලගුණික තත්වයන් මත මෙම ජලාශවල ජල මට්ටම් ඉදිරියේදි තව දුරටත් පහල බැසිමේ තත්වයක් පවතින බවද එම නිලධාරින් දෙපල වැඩි දුරටත් පවසන ලදි.
+The following two officials further stated that the water levels in these reservoirs are further reduced to the water levels in these reservoirs.
 
 ◼️
 
 [Data](articles/ef04f3bf.json)
+
+[Extended Data](ext_articles/ef04f3bf.ext.json)
 
 ---
 
@@ -760,23 +796,25 @@ The Sri Lanka Hotel Owners Association has also revealed the same and appealed t
 
 ---
 
-### වැල්ලවත්තේ හෝටලයකට වෙඩි තබයි
+### Shos a hotel in Wellawatte
 
 *2024-02-27 11:01:54* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලවත්තේ-හෝටලයකට-වෙඩි-තබයි/11-408298) · `si`
 
-මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ශිරාන් භාෂික් නමැත්තාගේ පුතෙකු වන නදීන් භාෂික් නැමැත්තාට අයත් බව කියන වැල්ලවත්ත රාම ක්‍රිෂ්ණ මාවතේ  හෝටලයක් ඉලක්කකර අද (27) අලුයම වෙඩි තැබීමක්  සිදුකර ඇතැයි වැල්ලවත්ත පොලිසිය කියයි.
+Wellawatte police say that a large-scale drug dealer is the son of Nadeen Language of Nadeen Language, Wellawatte police said.
 
-වෙඩි තැබීමෙන් එහි නාම පුවරුවකට සහ බිත්තියකට හානි සිදුව ඇතැයි පොලිසිය සඳහන් කරයි.
+The shooting was damaged by its nameboard and a wall damaged.
 
-වෙඩි ප්‍රහාර දොළහක් පමණ හෝටලය වෙත එල්ල කර ඇති අතර ටි 56 හිස් උන්ඩ දක්නට ලැබෙන බව පොලිස් නිලධාරියෙකු පැවසීය.
+A police officer said that about twelve shots were launched to the hotel, and Ti 56 says a police officer.
 
-ස්කූටි වර්ගයේ  යතුරු පැදියකින් දෙහිවල ප්‍රදේශයේ සිට පැමිණි පුද්ගලයන් දෙදෙනෙක් අලුයම 5.15 ට  මෙම වෙඩි තැබීම සිදුකර දෙහිවල ප්‍රදේශයටම පලා ගොස් ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+Police investigations have revealed this shooting at 5.15 people from the Dehiwala area with a scooter motorbike.
 
-වෙඩි තැබීමට හේතුව නිශ්චිත ලෙස අනාවරණය වී නැතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය. වැල්ලවත්ත පොලිසිය පරීක්ෂණ පවත්වයි
+A high police officer said that the reason for shooting was not specific.Wellawatte police are conducting further investigations
 
 ◼️
 
 [Data](articles/87130189.json)
+
+[Extended Data](ext_articles/87130189.ext.json)
 
 ---
 
@@ -1630,6 +1668,8 @@ The above verse from the Holy Quran is a reminder to the entire mankind contextu
 
 [Data](articles/f4f83488.json)
 
+[Extended Data](ext_articles/f4f83488.ext.json)
+
 ---
 
 ### 21 year old youth assaulted
@@ -1971,25 +2011,5 @@ The topics delivered generated a high level of interest and lively discussions b
 [Data](articles/35f4f51c.json)
 
 [Extended Data](ext_articles/35f4f51c.ext.json)
-
----
-
-### Seminar on new anti-corruption laws and impact on private sector
-
-*2024-02-27 01:10:53* · [`dailyftlk`](https://www.ft.lk/business/Seminar-on-new-anti-corruption-laws-and-impact-on-private-sector/34-758907) · `en`
-
-A top level seminar on the new anti-corruption laws and their impact on the private sector will be held on 21 March at 2.00 p.m. at the Movenpick Hotel, Colombo.
-
-Distinguished speakers at the seminar include former Commission to Investigate Allegations of Bribery or Corruption (CIABOC) of Sri Lanka Director General Sarath Jayamanne PC, with extensive criminal legal experience as a Senior Additional Solicitor General in the Attorney General’s department.
-
-Joining him is newly appointed commissioner to the CIABOC Chethiya Gunasekera, who is also a President’s Counsel and a former Additional Solicitor General at the Attorney General’s department.
-
-The seminar will feature insights from other prominent officials such as CIABOC Assistant Director General D.I. Rajapakse, Assistant Director Legal U. Kumarihamy, former Securities and Exchange Commission of Sri Lanka Director General and Ministry of Finance Senior Advisor Malik Cader will chair the sessions.
-
-...
-
-[Data](articles/33a90d15.json)
-
-[Extended Data](ext_articles/33a90d15.ext.json)
 
 ---

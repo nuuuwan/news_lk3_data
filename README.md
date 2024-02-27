@@ -1,36 +1,50 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 13:51:42**
+As of **2024-02-27 14:02:45**
 
 ## Newspaper Stats
 
-*Scraped **9,563** Articles*
+*Scraped **9,572** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 95
+colombotelegraphcom | 96
 bbccomsinhala | 116
 dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 486
-dailyftlk | 504
+dailyftlk | 505
 islandlk | 509
-adalk | 803
+adalk | 807
 adaderanalk | 1,152
 tamilmirrorlk | 1,174
 virakesarilk | 1,310
-dailymirrorlk | 1,437
+dailymirrorlk | 1,440
 adaderanasinhalalk | 1,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,563 (100.0%) of 9,563 articles have been extended.
+9,563 (99.9%) of 9,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### S.E. Muthukumarana to replace Uddika Premaratne
+
+*2024-02-27 13:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/S-E-Muthukumarana-to-replace-Uddika-Premaratne/108-277809) · `en`
+
+S.E. Muthukumarana is to fill the vacancy created by MP Uddika Premaratne's resignation from Parliament today.
+
+Muthukumarana is next in line on the SLPP list for the Anuradhapura District.
+
+◼️
+
+[Data](articles/fcbd2916.json)
+
+---
 
 ### All political parties to be briefed on Regulation of Election Expenditure Act
 
@@ -49,6 +63,20 @@ As such, Ranjith Maddumabandara, Sisira Jayakody, Uvindu Wijeweera and other rep
 [Data](articles/6a373a0b.json)
 
 [Extended Data](ext_articles/6a373a0b.ext.json)
+
+---
+
+### Seven petitions against Deshabandu being appointed as IGP fixed for April 2
+
+*2024-02-27 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Seven-petitions-against-Deshabandu-being-appointed-as-IGP-fixed-for-April-2/108-277808) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - Seven Fundamental Rights petitions filed challenging the decision to appoint Deshabandu Thennakoon as the Acting Inspector General of Police (IGP) and the IGP were today fixed for April 2 by the Supreme Court.
+
+Court was informed that the parties were yet to receive minutes pertaining to the Constitutional Council appointing Deshabandu Tennakoon as the new IGP.
+
+◼️
+
+[Data](articles/23a71b21.json)
 
 ---
 
@@ -332,6 +360,24 @@ My girls are like a little bird and I feel like I am in a dream. I still can't t
 
 ---
 
+### හැකි ඉක්මනින් ප්‍රදේශයේ මහජන සෞඛ්‍ය පරීක්ෂක ලවා වෛද්‍ය පරීක්ෂණයක් සිදුකර ගන්න
+
+*2024-02-27 12:09:31* · [`adalk`](https://www.ada.lk/breaking_news/හැකි-ඉක්මනින්-ප්‍රදේශයේ-මහජන-සෞඛ්‍ය-පරීක්ෂක-ලවා-වෛද්‍ය-පරීක්ෂණයක්-සිදුකර-ගන්න/11-408301) · `si`
+
+හෝමාගම සති පොළෙහි වෙළඳාම් කරමින් සිටි පළතුරු වෙළෙන්දෙකු එක්වරම බිම ඇද වැටී සිදුවූ අසාත්මික තාවක් හේතුවෙන් ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව (26) දා ජීවිතක්ෂයට පත්ව ඇතැයි හෝමාගම මූලස්ථාන පොලිසිය පවසයි.
+
+මෘත දේහය පිළිබඳ හදිසි මරණ පරීක්ෂණය හෝමාගම හදිසි මරණ පරීක්ෂිකා මානෙල් ගමගේ මහත්මිය විසින් සිදුකළ අතර පශ්චාත් මරණ පරීක්ෂණය හෝමාගම මූලික රෝහලේ අධිකරණ වෛද්‍ය නිලධාරී විශේෂඥ වෛද්‍ය පනීත සෙනෙවිරත්න මහතා විසින් සිදු කරන ලදී.
+
+එහිදී ඉදිරිපත් වූ සාක්ෂි සහ පශ්චාත් මරණ පරීක්ෂණ වෛද්‍ය වාර්තාවට අනුව මියගිය පුද්ගලයාට වැළඳී තිබූ ක්ෂය රෝගී තත්ත්වය හා නිව් මෝනියා  තත්ත්වය මරණයට හේතුව බවට හදිසි මරණ පරීක්ෂිකා සාමවිනිසුරු මානෙල් ගමගේ මහත්මිය නිගමනය කළාය.
+
+තවදුරටත් තීන්දුව ප්‍රකාශ කරමින් හදිසි මරණ පරීක්ෂිකා කියා සිටියේ මියගිය පුද්ගලයාට ක්ෂය රෝගය වැළඳී ඇති බවට අනාවරණය වී ඇති නිසා නිවසේ වාසය කරන කුඩා දියණිය ඇතුළු ඥාතීන් හැකි ඉක්මනින් ප්‍රදේශයේ මහජන සෞඛ්‍ය පරීක්ෂකවරයා ලවා වෛද්‍ය පරීක්ෂණයක් සිදු කරගන්නා ලෙසටයි.
+
+◼️
+
+[Data](articles/27fd9dbe.json)
+
+---
+
 ### 83 murders in the first two months
 
 *2024-02-27 12:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதல்-இரண்டு-மாதங்களில்-83-கொலைகள்/175-333874) · `ta`
@@ -383,6 +429,20 @@ Six of the services canceled flights are owned by SriLankan Airlines.
 [Data](articles/d2b049e7.json)
 
 [Extended Data](ext_articles/d2b049e7.ext.json)
+
+---
+
+### Against Harin's statement, ETCA...
+
+*2024-02-27 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-Harin-s-statement-ETCA/110-277804) · `en`
+
+While condemning Minister Harin Fernando's treasonous and unconstitutional statement, a public protest against the ETCA agreement was held in front of the Tourism Ministry today.
+
+The protest was over the statement on selling national resources, economic and security assets for India's geopolitical interests, which makes the national economy a victim of India. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/cf475b4e.json)
 
 ---
 
@@ -514,6 +574,22 @@ Speaker Mahinda Yapa Abeywardena was not reachable for a comment on the Oppositi
 
 ---
 
+### පී.එච්.අයි. ඝාතනය ගැන සොයන්න පොලිස් කණ්ඩායම් හයක්
+
+*2024-02-27 11:23:08* · [`adalk`](https://www.ada.lk/breaking_news/පී-එච්-අයි--ඝාතනය-ගැන-සොයන්න-පොලිස්-කණ්ඩායම්-හයක්/11-408300) · `si`
+
+‍කරන්දෙණිය කුරුදුගහහැතැප්ම් දිවිතුරගමදී නාදුනන තුවක්කුකරුවන්ගේ වෙඩි පහරින් ඊයේ(27)ජිවිතක්ෂයට පත්වූ   කරන්දෙණිය පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂක දිලීප රොෂාන් කුමාරගේ ඝාතකයන් හදුනා ගැනීමට පොලිස් කණ්ඩායම් හයක් මේ වනවිට යොදවා ඇති බව ඇල්පිටිය පොලිස් අධිකාරී කාර්ලය කියයි.
+
+සිය කාර්යාලයේ පූර්ණ අධීක්ෂණය යටතේ වෙනමම විශේෂ පොලිස් කණ්ඩායමක් මේ ඝාතනයේ සුලමුල හෙළිකර ගැනීම සදහා යෙදවූ බව ද එම කාර්යාලය කියයි. ඇල්පිටිය පොලීසියේ අපරාධ විමර්ශණ ඒකකය, ඇල්පිටිය කොට්ටාස අපරාධ විමර්ෂණ ඒකකය, ගාල්ල පොලිස් අපරාධ කොට්ටාසය,ඇල්පිටිය අපරාද ස්ථානීය පරීක්ෂණාගාර ඒකකකය ,පොලිස් විශේෂ කාර්ය බලකාය හා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මේ සදහා යොදවා ඇති බව ඇල්පිටිය පොලිස් අධිකාරී කාර්යාලයේ ප්‍රකාශයෙක් කීවේය.
+
+මේ ඝාතනය පාතාලයේ කියාකාරකමද නොඑසේනම් රාජකාරී කටයුත්තක් වෙනුදෙන් සිදුවූක්ද එසේත් නොමැති නම් වෙනත් හේතුවක් නිසා සිදුවූවක් ද යන්න පිළිබදව ඉතා සියුම් විශ්ලේෂණයක් ආරම්භ කර ඇති බව ද ඔහු කීවේය.
+
+...
+
+[Data](articles/32faca9f.json)
+
+---
+
 ### All major party leaders Sri Lanka remained unpopular in January: poll
 
 *2024-02-27 11:20:00* · [`economynextcom`](https://economynext.com/all-major-party-leaders-sri-lanka-remained-unpopular-in-january-poll-152206/) · `en`
@@ -575,6 +651,24 @@ Natiaboani, where those attacks happened, is in Burkina Faso’s troubled easter
 [Data](articles/22918101.json)
 
 [Extended Data](ext_articles/22918101.ext.json)
+
+---
+
+### මාවුස්සාකැලේ හා කාසල් රී ජල මට්ටන් පහළට
+
+*2024-02-27 11:14:05* · [`adalk`](https://www.ada.lk/breaking_news/මාවුස්සාකැලේ-හා-කාසල්-රී-ජල-මට්ටන්-පහළට/11-408299) · `si`
+
+මධ්‍යම කදුකරය තුල පවතින දැඩි වියළි කාලගුණික තත්වයන් හමුවේ මාඋස්සාකැලේ හා කාසල්රි ජලාශවල ජල මට්ටම් සිග්‍රයෙන් පහල බසිමින්  පවතින බව එම ජලාශ භාර නිලධාරින් දෙදෙනකු පවසන ලදි.
+
+මේ පිලිබදව වැඩි දුරටත් අදහස් දැක්වු එම නිලධාරින් දෙදෙනා පවසනුයේ මේ වන විට මධ්‍යම කදුකර ප්‍රදේශයන් තුල පවතින දැඩි වියළි කාලගුණික තත්වයන් මත කාසල්රි හා මාඋස්සාකැලේ ජලාශවලට ජලය සැපයෙන ජල පෝෂක කලාපන් තුල ජල ධාරිතාවයන් අඩු විමත් සමග මෙම තත්වයන් උදාවි ඇති බවත්ය.
+
+මෙම තත්වයන් මත 27වන දින උදැසන වන විට කාසල්රි ජලාශයේ ජල මට්ටම පිටාර මට්ටම අඩි 18කින්ද මාඋස්සාකැලේ ජලාශයේ ජල මට්ටම පිටාර මට්ටමට අඩි 15කින්ද  පහල බැස ඇති බවත්ය.
+
+පවතින වියළි කාලගුණික තත්වයන් මත මෙම ජලාශවල ජල මට්ටම් ඉදිරියේදි තව දුරටත් පහල බැසිමේ තත්වයක් පවතින බවද එම නිලධාරින් දෙපල වැඩි දුරටත් පවසන ලදි.
+
+◼️
+
+[Data](articles/ef04f3bf.json)
 
 ---
 
@@ -663,6 +757,26 @@ The Sri Lanka Hotel Owners Association has also revealed the same and appealed t
 [Data](articles/fc503abe.json)
 
 [Extended Data](ext_articles/fc503abe.ext.json)
+
+---
+
+### වැල්ලවත්තේ හෝටලයකට වෙඩි තබයි
+
+*2024-02-27 11:01:54* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලවත්තේ-හෝටලයකට-වෙඩි-තබයි/11-408298) · `si`
+
+මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ශිරාන් භාෂික් නමැත්තාගේ පුතෙකු වන නදීන් භාෂික් නැමැත්තාට අයත් බව කියන වැල්ලවත්ත රාම ක්‍රිෂ්ණ මාවතේ  හෝටලයක් ඉලක්කකර අද (27) අලුයම වෙඩි තැබීමක්  සිදුකර ඇතැයි වැල්ලවත්ත පොලිසිය කියයි.
+
+වෙඩි තැබීමෙන් එහි නාම පුවරුවකට සහ බිත්තියකට හානි සිදුව ඇතැයි පොලිසිය සඳහන් කරයි.
+
+වෙඩි ප්‍රහාර දොළහක් පමණ හෝටලය වෙත එල්ල කර ඇති අතර ටි 56 හිස් උන්ඩ දක්නට ලැබෙන බව පොලිස් නිලධාරියෙකු පැවසීය.
+
+ස්කූටි වර්ගයේ  යතුරු පැදියකින් දෙහිවල ප්‍රදේශයේ සිට පැමිණි පුද්ගලයන් දෙදෙනෙක් අලුයම 5.15 ට  මෙම වෙඩි තැබීම සිදුකර දෙහිවල ප්‍රදේශයටම පලා ගොස් ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+වෙඩි තැබීමට හේතුව නිශ්චිත ලෙස අනාවරණය වී නැතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය. වැල්ලවත්ත පොලිසිය පරීක්ෂණ පවත්වයි
+
+◼️
+
+[Data](articles/87130189.json)
 
 ---
 
@@ -1504,6 +1618,20 @@ Also , abstentions in this instance were considered as votes cast against the ap
 
 ---
 
+### The Political Landscape Continues To Deteriorate
+
+*2024-02-27 07:21:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-political-landscape-continues-to-deteriorate/) · `en`
+
+“Allah will not change the condition of a people until they change themselves.” ~ (Holy Quran Chapter 13 Verse 11)
+
+The above verse from the Holy Quran is a reminder to the entire mankind contextually adapted for the current political climate. Broadly, the condition of any people revolves around two major generic areas. The good and bad.  It is only when bad has taken root, there will be a need for mankind to change towards goodness. And, until and unless man himself has decided to change the badness in him, nothing is going to change.
+
+...
+
+[Data](articles/f4f83488.json)
+
+---
+
 ### 21 year old youth assaulted
 
 *2024-02-27 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193861) · `si`
@@ -1863,173 +1991,5 @@ The seminar will feature insights from other prominent officials such as CIABOC 
 [Data](articles/33a90d15.json)
 
 [Extended Data](ext_articles/33a90d15.ext.json)
-
----
-
-### SJB initiates no-confidence motion against Speaker over OSA
-
-*2024-02-27 01:01:59* · [`dailyftlk`](https://www.ft.lk/news/SJB-initiates-no-confidence-motion-against-Speaker-over-OSA/56-758906) · `en`
-
-Opposition accuses Speaker of allowing enactment of OSA without adherence to proper procedures
-
-Alleges Speaker disregarded directives provided by SC regarding draft bill
-
-Says Speaker by endorsing law has breached Constitution and Parliamentary privileges of MPs
-
-Stresses Speaker’s handling of OSA’s passage has eroded confidence in him, prompting call for motion of no confidence
-
-Opposition parties under the leadership of the Samagi Jana Balawegaya (SJB) yesterday commenced the signing of a no-confidence motion against Speaker Mahinda Yapa Abeywardena. The Opposition alleges that the Speaker violated both the Constitution and Parliamentary privileges of Members of Parliament (MPs) by endorsing the Online Safety Act, which they claim was not properly passed in Parliament.
-
-...
-
-[Data](articles/c7af7575.json)
-
-[Extended Data](ext_articles/c7af7575.ext.json)
-
----
-
-### Deshabandu Tennekoon appointed as 36th IGP
-
-*2024-02-27 01:00:43* · [`dailyftlk`](https://www.ft.lk/news/Deshabandu-Tennekoon-appointed-as-36th-IGP/56-758905) · `en`
-
-President Ranil Wickremesinghe yesterday confirmed Senior Deputy Inspector General of Police Deshabandu Tennekoon as the 36th Inspector General of the Sri Lanka Police.
-
-Announcing the appointment, the President’s Media Unit (PMD) said the appointment was made under the powers vested in the President under Articles 41 and 61 of the Constitution.
-
-According to the PMD, President’s Secretary Saman Ekanayake presented the appointment letter to Tennakoon at the President’s office.
-
-Despite widespread objections by the Catholic Church, Civil Society groups and other parties, Tennekoon was appointed as the Acting IGP on 29 November 2023 by President Ranil Wickremesinghe after months of failing to appoint an IGP in March 2023 year which was when the former IGP C.D Wickramaratne was due to retire.
-
-Wickramaratne was forced to remain in service until mid-November, due to the inability of relevant parties to find a suitable candidate for the post.
-
-...
-
-[Data](articles/066d5f52.json)
-
-[Extended Data](ext_articles/066d5f52.ext.json)
-
----
-
-### Premdasa claims Deshabandu appointed sans CC approval
-
-*2024-02-27 01:00:02* · [`dailyftlk`](https://www.ft.lk/news/Premdasa-claims-Deshabandu-appointed-sans-CC-approval/56-758904) · `en`
-
-Opposition Leader Sajith Premadasa levelled accusations against President Ranil Wickremesinghe yesterday, alleging that the appointment of Senior DIG Deshabandu Tennekoon as the Inspector General of Police was done in violation of the Constitution and without the necessary approval from the Constitutional Council.
-
-Contrary to reports suggesting that the Constitutional Council had sanctioned Tennekoon’s appointment, Premadasa dismissed the assertions.
-
-Taking to X (formerly Twitter) Premadasa said the Constitutional Council has not duly approved Tennekoon’s nomination as the IGP.
-
-Premadasa said that during the Constitutional Council’s deliberations, four votes were cast in favour of Tennekoon, while two votes were against, and two members abstained. He highlighted that for the Constitutional Council to reach a conclusive decision, at least five votes are necessary. Premadasa further noted that the Speaker is not entitled to vote unless it’s to break a tie.
-
-...
-
-[Data](articles/5b9b2f18.json)
-
-[Extended Data](ext_articles/5b9b2f18.ext.json)
-
----
-
-### Central Bank should apologize to the people - Udaya Kammanpila
-
-*2024-02-27 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177382) · `ta`
-
-The Governor of the Central Bank, who advocates the people to dedicate from the economic crisis, has put forward the idea of salary increase to the Central Bank Finance Council.. The Central Bank employees, but the entire population is economically affected, should increase the salary for all.
-
-He was speaking at a media briefing held at the Bivithuru Hela Urumaya (JHU) office in Colombo on Monday (26).
-
-The salaries of the Central Bank, including the Governor of the Central Bank, have been increased by 70 per cent. The salaries of the Central Bank's employees have been increased by millions of rupees.Has presented to the congregation.
-
-The governor of the Central Bank must remember that the Central Bank's governor should remember that not only the employees of the central bank have been affected by the economic crisis.
-
-The Central Bank noted that the salaries of the people are not increased in their profits. The Central Bank has the right to make a decision on printing.
-
-...
-
-[Data](articles/4a6f320e.json)
-
-[Extended Data](ext_articles/4a6f320e.ext.json)
-
----
-
-### Tamil Leader, Sritharan - the New Target of Racist and Majoritarian Communalists
-
-*2024-02-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Tamil-Leader-Sritharan-the-New-Target-of-Racist-and-Majoritarian-Communalists/172-277760) · `en`
-
-MP Sritharan has clearly stated his vision is NOT for the setting up of a separate state
-
-Ever since Mr S. Sritharan was elected leader of the “Federal Party” or the “Ilankai Tamil Arasu Kachchi” (ITAK), numerous articles with a racist bent have begun appearing in a number of ‘national news outlets’ in Colombo.
-
-The articles have a common thread running through them - Sritharan’s visit to the LTTE war heroes’ cemetery in Killinochchi - and their (nationalist writers) interpretation of the symbolism of that visit.
-
-One of these Prophets of Doom even went to the extent of giving a time-line when the next round of bombings would hit the country! In their myopic vision, Sritharan’s visit exposed him as an apologist of the LTTE and an unmitigated separatist. He is now being paraded via the media as an enemy. Most of these writers’ knowledge and interaction with the new ITAK leader is superficial.
-
-...
-
-[Data](articles/4d10fa22.json)
-
-[Extended Data](ext_articles/4d10fa22.ext.json)
-
----
-
-### Tourists have no business in doing business
-
-*2024-02-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Tourists-have-no-business-in-doing-business/155-277793) · `en`
-
-Point out such establishments have spread from South to other regions, impacting livelihoods of people dependent on tourism
-
-The tourism sector stakeholders yesterday confirmed that Sri Lanka is witnessing an increasing trend of international visitors engaging in business activities and warned that the industry, in certain parts of the country, is impacted as a result.
-
-Speaking to Mirror Business, the stakeholders representing two of the largest tourism associations asserted that the island nation has been facing this issue for nearly two years.
-
-The industry had alerted the relevant authorities regarding a section of tourists arriving in the country for long stays, carrying out business activities, without proper registrations.
-
-The Sri Lanka Association of Inbound Tour Operators (SLAITO) shared that the majority of these tourist-run businesses started off small but have grown considerably over time.
-
-...
-
-[Data](articles/cfa72205.json)
-
-[Extended Data](ext_articles/cfa72205.ext.json)
-
----
-
-### 2024-02-26 (Monday)
-
-### Reminiscences of superlative lady: A beacon of service and ethics in healthcare
-
-*2024-02-26 23:44:00* · [`islandlk`](http://island.lk/reminiscences-of-superlative-lady-a-beacon-of-service-and-ethics-in-healthcare/) · `en`
-
-Specialist Consultant Paediatrician and Honorary Senior Fellow, Postgraduate Institute of Medicine, University of Colombo, Sri Lanka.
-
-...
-
-[Data](articles/bcf51f35.json)
-
-[Extended Data](ext_articles/bcf51f35.ext.json)
-
----
-
-### Babu…the star
-
-*2024-02-26 23:34:00* · [`islandlk`](http://island.lk/babuthe-star/) · `en`
-
-The concert ‘The Legacy Of Clarence & Milton’, held at the Musaeus College Auditorium, on 16th Feb, was a resounding success for Babu Jayakanthan, the Prince of Tamil Pop, from Canada.
-
-The audience, at this particular concert, was seeing Babu in action for the very first time and he impressed everyone present with his singing style and stage presentation.
-
-He came in for high praise from many as he entertained the enthusiastic crowd with hits of A.E. Manoharan.
-
-Sohan Weerasinghe was in the audience and had this to say… “Well done Babu. I enjoyed your songs and your moves!”
-
-Another music lover commented…”Babu is one of the best entertainers I saw in the present; not only his singing but the way he carried himself; his interaction with the crowd; his humble gestures; a complete package of a jovial, heartwarming outburst is this gentleman Babu.”
-
-Babu, who is well known in the music industry as Montreal Babu, started his music career, in 1985, in Sri Lanka.
-
-...
-
-[Data](articles/eded0606.json)
-
-[Extended Data](ext_articles/eded0606.ext.json)
 
 ---

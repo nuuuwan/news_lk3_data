@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 16:02:54**
+As of **2024-02-27 16:17:13**
 
 ## Newspaper Stats
 
-*Scraped **9,595** Articles*
+*Scraped **9,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 economynextcom | 491
 dailyftlk | 505
 islandlk | 511
-adalk | 809
+adalk | 810
 adaderanalk | 1,153
 tamilmirrorlk | 1,175
 virakesarilk | 1,311
 dailymirrorlk | 1,447
-adaderanasinhalalk | 1,451
+adaderanasinhalalk | 1,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,594 (100.0%) of 9,595 articles have been extended.
+9,595 (100.0%) of 9,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### වාලච්චේන කඩදාසි කම්හලෙන් ලාභ ගන්න පහසු විදියක්
+
+*2024-02-27 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193881) · `si`
+
+වාලච්චේන කඩදාසි කම්හල වැසී යාමේ තත්ත්වයකට ඉඩ නොතබා රාජ්‍ය පෞද්ගලික හවුල් ව්‍යාපාරයක් ලෙස පවත්වාගෙන යාමේ අවශ්‍යතාව අදාළ අමාත්‍යවරුන්ට සහ ජනාධිපතිවරයාට පෙන්වාදෙන බව ජාතික ආර්ථික හා භෞතික සැලසුම් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති ගරු මහින්දානන්ද අලුත්ගමගේ මහතා පසුගියදා පැවසීය.
+
+ජාතික කඩදාසි සමාගමේ 2013, 2014 සහ 2015 වසරවලට අදාළ වාර්ෂික වාර්තා පසුගියදා (20) ජාතික ආර්ථික හා භෞතික සැලසුම් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී සැලකිල්ලට ගත් අවස්ථාවේදී කාරක සභා සභාපතිවරයා ඒ බව පැවසීය.
+
+වාලච්චේන කර්මාන්ත ශාලාවේ යන්ත්‍ර 1956 වසරේ ගෙන්වන ලද ඒවා බැවින් මෙහි අලුත්වැඩියාවන් සඳහා ඇ. ඩොලර් මිලියන 1.2ක් අවශ්‍ය බවත් භාණ්ඩාගාරයෙන් මුදල් ප්‍රතිපාදන නොලැබුණු බැවින් මෙය රාජ්‍ය පෞද්ගලික හවුල් ව්‍යාපාරයක් ලෙස පවත්වාගෙන යාමට කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කළද එම භූමිය සංචාරක ව්‍යාපාරයක් සඳහා වෙන් කරන ලද බැවින් ඒ සඳහා අනුමැතිය නොලැබුණ බව කර්මාන්ත අමාත්‍යාංශයේ ලෙකම් තිලකා  ජයසුන්දර මහත්මිය මෙහිදී පැවසුවාය.
+
+...
+
+[Data](articles/43822527.json)
+
+---
+
+### අධිකරණයක් ඉදිරිපිටදී පොලිස් නිලධාරියෙකු සියදිවි හානිකරගනී
+
+*2024-02-27 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193880) · `si`
+
+මාතර කොටවිල අධිකරණ සංකීර්ණය අසළදී පොලිස් නිලධාරියෙකු වෙඩිතබාගෙන සියදිවි හානිකරගෙන ඇති බව පොලීසිය පවසයි.
+
+මෙලෙස සියදිවි හානිකරගෙන ඇත්තේ 52 හැවිරිදි වියේ පසුවූ කොටවිල පොලිස් ස්ථානයට අනුයුක්තව සේවයේ නිරතව සිටි සැරයන්වරයෙකි.
+
+ඔහු දීර්ඝ කලක් තිස්සේ ලෙඩ නිවාඩු වාර්තා කර සිට නැවත සේවයට පැමිණ මෙලෙස අද කොටවිල අධිකරණ සංකීර්ණයේ පොලිස් මුරපොළ තුළදී සියදිවි හානිකරගෙන ඇත.
+
+◼️
+
+[Data](articles/055096d4.json)
+
+---
 
 ### Health capacities at BIA, Colombo Port to be improved under Japanese grant
 
@@ -249,6 +281,26 @@ The number of female prisoners in 2021 was 215 and it increased to 390 in 2022. 
 [Data](articles/97e7265d.json)
 
 [Extended Data](ext_articles/97e7265d.ext.json)
+
+---
+
+### In the yarns. In interrogation of police officers who conflicted racist ideas
+
+*2024-02-27 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177412) · `ta`
+
+Two police officers who conflicted with fellow police officers have been detained in court order, expressing ethnicity.
+
+On Sunday night (25), the Jaffna Police Station had entered into a mass hysteria and conflicted with fellow policemen and conflicted with the Tamil police officers.
+
+Subsequently, the two police officers were arrested and ordered to be interrogated by the Jaffna Magistrate's Court on Monday (26).
+
+At the same time, the senior police superintendent who carried out administrative investigations has suspended the two police officers.
+
+◼️
+
+[Data](articles/7cef7b05.json)
+
+[Extended Data](ext_articles/7cef7b05.ext.json)
 
 ---
 
@@ -600,6 +652,28 @@ The remains of the deceased are currently at the Karapitiya Teaching Hospital, w
 
 ---
 
+### මාඳු ගඟේ කකුළුවන් ධීවරයන්ගේ මඩිය තර කරයි
+
+*2024-02-27 12:14:49* · [`adalk`](https://www.ada.lk/breaking_news/මාඳු-ගඟේ-කකුළුවන්-ධීවරයන්ගේ-මඩිය-තර-කරයි/11-408303) · `si`
+
+මේ දිනවල මාදු ගගේ කකුළුවන් කිලෝග්රෑම් එකක් රුපියල් දොළොස් දහසකට අලෙවි වන බව මාදු ගගේ ධීවරයෝ කියති.
+
+සිය රැකියා ඉතිහාසයේ මේ තරම් ඉහළ මිලකට කකළුවන් කිලෝග්රෑම් එකක් අලෙවි නොවූ බවද ඔවුහු කියති.
+
+වෙනදා රුපියල් දහකට දෙදහකටවත් කිලෝග්රෑම් එකක් අලෙවි කර ගැනීමට නොහැකිව තිබූ කකුළුවන් කිලෝග්රෑම් එකක් මේසා වාර්තාගත ලෙස ඉහලයාම තමන් සිහිනෙකින්වත් නොසිතූ බව ද ධීවරයෝ කියති.
+
+විදේශකයින් මෙරටට පැමිණීමේ සීඝ්‍රතාව ඉහළ යාමත් සමගම මෙසේ කකලුවන් මිල ඉහල ගොස් සිටින බව ද ධීවරයෝ කියති
+
+නෙලාගන්නා  කකුළුවන් අස්වැන්නම අලෙවි කිරීමට කිසිම බාධාවක් නැති බවත් එහෙත් ඉල්ලුම තරමටම කකළුවන් දීගැනීමට තමන් අපොහොසත්වී ඇති බවත් ඔවුහු කියති.
+
+කකුළුවන්ගේ මිල ඉහළයාමට සමගාමීව කකුළු අස්වැන්න නෙල ගැනීමට මාදු ගගට එන ධීවරයින්ගේ ප්‍රමාණයද දැන් දැන් ඉහළ යමින් තිබෙන බද ද කියති.
+
+◼️
+
+[Data](articles/07298865.json)
+
+---
+
 ### Allow Gaza Children's Fund to set up
 
 *2024-02-27 12:13:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஸா-சிறுவர்-நிதியம்-அமைக்க-அனுமதி/175-333875) · `ta`
@@ -615,26 +689,6 @@ In addition, the Sri Lankan government's $ 1 million donation will be issued thr
 [Data](articles/92326204.json)
 
 [Extended Data](ext_articles/92326204.ext.json)
-
----
-
-### In the yarns. In interrogation of police officers who conflicted racist ideas
-
-*2024-02-27 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/177412) · `ta`
-
-Two police officers who conflicted with fellow police officers have been detained in court order, expressing ethnicity.
-
-On Sunday night (25), the Jaffna Police Station had entered into a mass hysteria and conflicted with fellow policemen and conflicted with the Tamil police officers.
-
-Subsequently, the two police officers were arrested and ordered to be interrogated by the Jaffna Magistrate's Court on Monday (26).
-
-At the same time, the senior police superintendent who carried out administrative investigations has suspended the two police officers.
-
-◼️
-
-[Data](articles/7cef7b05.json)
-
-[Extended Data](ext_articles/7cef7b05.ext.json)
 
 ---
 
@@ -1504,23 +1558,25 @@ The French president has announced that it will form a new alliance to send miss
 
 ---
 
-### ආර්ථික අර්බුදයේ අඳුරු පැතිකඩ : දරුවන්ට යහපත් අනාගතයක් සොයා පිටරට ගොස් මානසික පීඩනයෙන් බැට කෑ තරුණ මවක්
+### Dark Profile of the Economic Crisis: Children and a young mother of stressful
 
 *2024-02-27 09:52:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjmdm0v0m92o) · `si`
 
-ආර්ථික අර්බුදයේ අඳුරු පැතිකඩ : දරුවන්ට යහපත් අනාගතයක් සොයා පිටරට ගොස් මානසික පීඩනයෙන් බැට කෑ තරුණ මවක්
+Dark Profile of the Economic Crisis: Children and a young mother of stressful
 
-“මගේ නහරයක් හරි කපා ගත්තොත් කවුරුත් නැහැ මාව මැරෙයි, මම නාද්දි හිතෙනවා හොට් වෝටර්වලින්ම පිච්චිලා මාව මැරෙයි, නැත්තනම් තව ටිකක් මේක වැඩි කර ගත්තොත් රස්නෙට මාව මැරෙයි. ඒ වගේ මට මං ගැනම බය හිතෙන දේවල් හිතෙන්න ගත්තා.”
+"If I cut out of my veir, I'll die, I'm going to die at hot water, if you don't increase it. Such like that, I was thinking about myself. "
 
-මීගමුවට නුදුරුව ජිවත් වු ව්‍යාපාරික කාන්තාවක් වු දේශානි මීට වසර දෙකකට පමණ ඉහත දී ඇගේ සැමියා රැකියාවේ නියුතු නවසීලන්තය බලා යන්නේ තම දරුවන්ට වඩා යහපත් අනාගතයක් උරුම කර දීමේ ප්‍රර්ථනාව සිතෙහි දරාගෙනය.
+A businesswoman living in Negombo is a two years ago, New Zealand is watching her husband about the future of her children a better future.
 
-ලංකාවේ ගෙවු කාර්ය බහුල ජිවිතයෙන් මිදි දරු දෙදෙනා සමග නවසීලන්තයේ වාසයට ගිය දේශානිට එහි ගොස් මාස කිහිපයකට පසුව නොසිතු දෙයකට මුහුණ දෙන්නට සිදුවිය.
+Designers who have been living in New Zealand with the busines in Sri Lanka, New Zealand had gone there for a few months later.
 
-මේ වන විට ප්‍රතිකාර ලබමින්, සුව අතට පත්වෙමින් සිටින අතර විදෙස් රටකට යෑම නිසාවෙන් ඇය මුහුණ දුන් බරපතල මානසික සෞඛ්‍ය ගැටලුව සම්බන්ධයෙන්  බෙදා හදා ගත්තාය. ඇයගේ හෝ පවුලේ අනන්‍යතාවය ආරක්ෂා වනු පිණිස  ඇයට අපි "දේශානි" යැයි අමතමු.
+By receiving treatment and being treated, he shared in the serious mental health problem she faced with a foreign country. She addresses her, "Desani" to protect her or family identity.
 
 ...
 
 [Data](articles/c668a882.json)
+
+[Extended Data](ext_articles/c668a882.ext.json)
 
 ---
 
@@ -1953,67 +2009,5 @@ Biden said he hoped a ceasefire would start within days. “Well I hope by the b
 [Data](articles/56037bc1.json)
 
 [Extended Data](ext_articles/56037bc1.ext.json)
-
----
-
-### Pakistan, Sri Lankan envoys in Belgium discuss matters of mutual interest
-
-*2024-02-27 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97554/pakistan-sri-lankan-envoys-in-belgium-discuss-matters-of-mutual-interest) · `en`
-
-Pakistan Ambassador to the European Union, Belgium and Luxembourg Amna Baloch and Sri Lankan Ambassador (Designate) to Belgium and the EU Chandana Weerasena on Monday discussed matters of mutual interest.
-
-Ambassador Amna hosted the Sri Lankan envoy for a courtesy meeting at the Pakistani Embassy in Belgium, where they both expressed their commitment to strengthening bilateral cooperation between Pakistan and Sri Lanka within the framework of the European Union.
-
-The Pakistan Embassy shared details of the meeting on X, saying that both sides addressed to enhance bilateral cooperation.
-
-◼️
-
-[Data](articles/55c69526.json)
-
-[Extended Data](ext_articles/55c69526.ext.json)
-
----
-
-### Showers expected in certain parts of the country
-
-*2024-02-27 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97553/showers-expected-in-certain-parts-of-the-country) · `en`
-
-The Department of Meteorology says showers will occur at times in Nuwara-Eliya, Matale and Polonnaruwa districts.
-
-Several spells of showers will occur in Eastern and Uva provinces and in Anuradhapura district.
-
-Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Kandy, Galle and Matara districts in the evening or night.
-
-Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, North-western, Southern, Uva and Eastern provinces.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/8bd5dbd4.json)
-
-[Extended Data](ext_articles/8bd5dbd4.ext.json)
-
----
-
-### Work for the bribery and constable
-
-*2024-02-27 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193862) · `si`
-
-A police sergeant at the Ihalapana Police Station and a Police Constable has been arrested by the Inspector General of Police.
-
-It is reported that they had been arrested following a complaint conducted by a person in Jagirilo.
-
-It is said that the driver's license has been restored and the license has requested the reconciliation and a legal driver's license.
-
-Bribery and Corruption Commission states that a sergeant and corrupt complaints have been arrested in charge of obtaining the amount and assistance.
-
-The suspects are to be produced before the court today.
-
-◼️
-
-[Data](articles/61cd775d.json)
-
-[Extended Data](ext_articles/61cd775d.ext.json)
 
 ---

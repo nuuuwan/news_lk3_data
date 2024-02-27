@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 06:53:00**
+As of **2024-02-27 07:15:23**
 
 ## Newspaper Stats
 
@@ -26,45 +26,49 @@ adaderanasinhalalk | 1,431
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,470 (99.9%) of 9,479 articles have been extended.
+9,479 (100.0%) of 9,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-02-27 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193858) · `si`
 
-නුවරඑළිය, මාතලේ සහ පොළොන්නරුව දිස්ත්‍රික්කවල අද (27) දිනයේ විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers will occur at times in the Nuwara Eliya, Matale and Polonnaruwa districts today (27).
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, නැගෙනහිර සහ ඌව පළාත්වලත් අනුරාධපුර දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+The department states that several showers may occur in the Eastern and Uva provinces and in the Anuradhapura district.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, ගාල්ල සහමාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces, Kandy, Galle and Galle and the districts.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, දකුණු, ඌව සහ නැගෙනහිර පළාත්වලත් විටින් විට හමන පැ.කි.මී. (30-40) පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+From time to time in the East, East, North, South, Southern, Uva and Eastern Provinces. The Department of Meteorology announces that strict winds can occur.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/02dd6a6e.json)
 
+[Extended Data](ext_articles/02dd6a6e.ext.json)
+
 ---
 
-### ருமேனியாவுடன் ஒப்பந்தத்தில் கைச்சாத்து
+### Signing up on contract with Romania
 
 *2024-02-27 04:26:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருமேனியாவுடன்-ஒப்பந்தத்தில்-கைச்சாத்து/175-333858) · `ta`
 
-இலங்கைக்கும் ருமேனியாவுக்கும் இடையில், இரட்டை வரி விதிப்பை தவிர்ப்பதற்கான ஒப்பந்தம் ஒன்றில் கைச்சாத்திடுவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+Between Sri Lanka and Romania, it has been decided to sign an agreement to avoid a double taxation.
 
-பிரதமர் தினேஷ் குணவர்தனவுக்கும், ருமேனிய தூதுவர் டொமினா ஸ்டெலுசாவுக்கும் இடையில் அலரி மாளிகையில் நேற்று இடம்பெற்ற சந்திப்பின் போது, இந்த தீர்மானம் எட்டப்பட்டுள்ளது.
+The resolution was reached during a meeting held at the Alari House yesterday between Prime Minister Dinesh Gunawardena and Romanian Ambassador Domina Stelusa.
 
-அதேநேரம், இருநாடுகளுக்கும் இடையில் கல்வி, விவசாயம், தொடருந்து மற்றும் தகவல் தொழிநுட்பம் ஆகிய துறைகளிலும் ஒத்துழைப்பதற்கும் தீர்மானிக்கப்பட்டுள்ளது. (a)
+At the same time, it has been decided to cooperate in the fields of education, agriculture, continuing and information technology between the two countries.. (A)
 
 ◼️
 
 [Data](articles/4d549b9c.json)
+
+[Extended Data](ext_articles/4d549b9c.ext.json)
 
 ---
 

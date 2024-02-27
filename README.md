@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 11:33:14**
+As of **2024-02-27 11:51:48**
 
 ## Newspaper Stats
 
-*Scraped **9,517** Articles*
+*Scraped **9,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 481
 dailyftlk | 504
 islandlk | 508
 adalk | 801
-adaderanalk | 1,146
+adaderanalk | 1,147
 tamilmirrorlk | 1,168
 virakesarilk | 1,294
 dailymirrorlk | 1,432
@@ -26,43 +26,75 @@ adaderanasinhalalk | 1,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,513 (100.0%) of 9,517 articles have been extended.
+9,518 (100.0%) of 9,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### ජනපතිගේ ගාසා යෝජනාවට කැබිනට් අනුමැතිය
+### Dozens killed in attacks on mosque, church in Burkina Faso
+
+*2024-02-27 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97561/dozens-killed-in-attacks-on-mosque-church-in-burkina-faso) · `en`
+
+Dozens of people have been shot dead at a mosque on the same day that a church was attacked, say the authorities in Burkina Faso.
+
+It was during early-morning prayers that the gunmen surrounded the mosque in Natiaboani town.
+
+“The victims were all Muslims, most of them men,” a local resident told the AFP news agency.
+
+More than a third of Burkina Faso is currently under the control of Islamist insurgents.
+
+The attackers are suspected to be Islamist fighters who also targeted soldiers and a self-defence militia stationed locally that same day.
+
+Local media describe (in French) a huge invasion by hundreds of machine gun-wielding militants on motorbikes.
+
+Unverified reports on social media suggest the death toll from the mosque attack could be much higher than the count given by officials.
+
+Natiaboani, where those attacks happened, is in Burkina Faso’s troubled eastern region where multiple armed groups operate.
+
+...
+
+[Data](articles/22918101.json)
+
+[Extended Data](ext_articles/22918101.ext.json)
+
+---
+
+### President's Gaza proposal approves cabinet
 
 *2024-02-27 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193872) · `si`
 
-ගාසා හි ප්‍රචණ්ඩත්වයට ගොඳුරුවූවන්ට සහන සැලසීම සඳහා ‘ගාසා හි ළමා අරමුදලක්’ නිර්මාණය කිරීමට ජනාධිපතිවරයා කළ යෝජනාවට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The President's proposal has been approved by the President to create a 'Gaza' fund 'to provide relief to the violence of Gaza.
 
-සියලුම අමාත්‍යාංශ සහ රජය ආයතන විසින් ඉෆ්තාර් සැමරුම් අත්හැර මෙම අරමුදලට දායක වීමට ද ජනාධිපතිවරයා උපදෙස් ලබාදී ඇත.
+The President has instructed the President and the government to give up Iluz celebrations by institutions.
 
-ශ්‍රී ලංකා රජයේ ඩොලර් මිලියන 01 ක පරිත්‍යාගය විපතට පත් ළමුන් සහ පුරවැසියන්ගේ දායකත්වය දිරිමත් කිරීම සඳහා එක්සත් ජාතීන්ගේ නිල නියෝජිතායතන හරහා බෙදා හරිනු ලැබේ.
+The Government of Sri Lanka is a $ 1 million donated by the UN official agencies to encourage children and citizens.
 
 ◼️
 
 [Data](articles/c146ce85.json)
 
+[Extended Data](ext_articles/c146ce85.ext.json)
+
 ---
 
-### නීල් වැග්නර් සමුගනී
+### Neil Vagner retires
 
 *2024-02-27 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193871) · `si`
 
-නවසීලන්ත වේග පන්දු යවන ක්‍රීඩක නීල් වැග්නර් වහාම ක්‍රියාත්මක වන පරිදි ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගන්නා බව නිවේදනය කර තිබේ.
+New Zealand fast bowler Neil Vagner has announced his retirement from international cricket.
 
-ඔහු එම තීරණය ගෙන ඇත්තේ, ඔස්ට්‍රේලියාවට එරෙහිව එළඹෙන බ්‍රහස්පතින්දා ආරම්භ වන ටෙස්ට් තරග දෙකකින් සමන්විත තරගාවලිය සඳහා ඔහුව තෝරා නොගන්නා බව නවසීලන්ත තේරීම් කමිටුව ප්‍රකාශ කිරීමත් සමඟය.
+He has taken this decision with the expression of the New Zealand Selection Committee that he will not choose two Tests series that will commence on Thursday.
 
-තමාව ටෙස්ට් තරගාවලිය සඳහා නම් නොකිරීම සම්බන්ධයෙන් වැග්නර්, පසුගිය සතියේ පුහුණුකරු ගැරී ස්ටෙඩ් සමඟ වාද කර ඇති බව මාධ්‍ය වාර්තා පවසයි.
+According to media reports, Wagner has been arguing with Gary Steid last week, according to media reports.
 
-37 හැවිරිදි  වැග්නර්, ටෙස්ට් තරග 64කට සහභාගී වී කඩුලු 260ක් දවා ගෙන තිබේ.
+Vangner, aged 37, participated in 64 Tests and took 260 wickets.
 
 ◼️
 
 [Data](articles/914f9bc2.json)
+
+[Extended Data](ext_articles/914f9bc2.ext.json)
 
 ---
 
@@ -72,7 +104,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Cabinet of Ministers has approved a proposal seeking to create a ‘Children of Gaza Fund’ in aid of the victims of violence in the war-torn Palestinian enclave.
 
-President Ranil Wickremesinghe has tabled the proposal to the Cabinet meeting held on Monday (Feb.26), according to the President’s Media Division (PMD).
+President Ranil Wickremesinghe has tabled the proposal at the Cabinet meeting held on Monday (Feb.26), according to the President’s Media Division (PMD).
 
 Meanwhile, all ministries and state institutions have been instructed to forego Ifthar celebrations and contribute to this fund.
 
@@ -88,21 +120,23 @@ PMD said contributions to the fund by the citizens are encouraged.
 
 ---
 
-### වේරහැර RMV කැලඹූ අනතුර - CCTV
+### Werahera RMV Turned 30 - CCTV
 
 *2024-02-27 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193870) · `si`
 
-වේරහැර, මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ පසුගිය දා සිදුවු බිහිසුණු අනතුරක් CCTV කැමරාවක මෙලෙස සටහන්ව තිබිණි.
+The CCTV camera was diagnosed on the Elevenavage Department recently.
 
-ජාතික ප්‍රවාහන වෛද්‍ය මධ්‍යස්ථානයේ සේවා ලබාගැනීමට පැමිණි බොහෝ පිරිසක් අදාළ ශාලාවේ අසුන් ගෙන සිටිය දී එක්වරම මෝටර් රථයක් ඔවුන් සිටි ශාලාවට කඩා වදින අයුරු එම දර්ශනවල සටහන්ව ඇත.
+Many people who came to obtain the services of the National Transport Medical Center were seated at the time.
 
-රියදුරු පුහුණු ආයතනයකට අයත් අදාළ මෝටර් රථය එදින රියදුරු පුහුණු පරීක්ෂණය සඳහා පැමිණි අයෙකු විසින් පදවා ඇතැයි පසුව අනාවරණය වුණි.
+The car belonging to a driving training institute has been driven by someone who has come to the driving training test on that day.
 
-කෙසේවෙතත් සිදුවීමකට ගිය මහා විනාශය වැළකී එම ශාලාවේ අසුන් ගෙන සිටි පිරිසගේ ජීවිත අනූනවයෙන් බේරී යන්නේ, සියලුදෙනාගේම හිත් තුළ දැඩි කම්පනයක් ඇති කරමිනි.
+However, the massacre of the signs of the hall will survive the ninety-up shock in all,
 
 ◼️
 
 [Data](articles/e961862f.json)
+
+[Extended Data](ext_articles/e961862f.ext.json)
 
 ---
 
@@ -232,21 +266,25 @@ A Catholic church in Be Burkina Faso also recently launched a similar attack.
 
 ---
 
-### මෙම වසරේ ජල ගාස්තු වැඩි වීමක් නැහැ
+### There is no increase in water charges this year
 
 *2024-02-27 09:18:21* · [`adalk`](https://www.ada.lk/breaking_news/මෙම-වසරේ-ජල-ගාස්තු-වැඩි-වීමක්-නැහැ/11-408295) · `si`
 
-කඳුරට දෙමළ ජනතාව මුහුණ දෙන ප්‍රශ්න දෛනික වැටුපට සීමා නොකළ යුතු බවත් ඔවුන්ගේ ජීවන තත්ත්වය නගාසිටුවීම සඳහා නිවාස, ඉඩම්, අධ්‍යාපන, සෞඛ්‍ය හා යටිතල පහසුකම් යන සෑම ක්ෂේත්‍රයක් කෙරෙහිම අවධානය යොමු කළ යුතු බවත් ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා පැවසීය.
+The Minister of Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman said that the issues faced by the Tamil people should not be limited to the daily wage and improve their living conditions.
 
-ඇතැම් දේශපාලන පක්ෂ කඳුරට දෙමළ ජනතාවගේ ප්‍රශ්න විසඳීමට යැයි පවසමින් අවබෝධතා ගිවිසුම් අත්සන් කළ ද ජනතාවගේ සැබෑ ප්‍රශ්න විසඳීම සඳහා අවබෝධතා ගිවිසුම් අවශ්‍ය නොවන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+He said that MoUs were signed by the MoUs, claiming to solve the problems of the Kandurata Tamil people, and the MoU would not be necessary to solve the real issues of the people.
 
-ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා මෙම අදහස් පළ කර සිටියේ “ස්ථාවර රටකට සැවොම එක් මඟකට” යන මැයෙන් ඊයේ (26) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති මාධ්‍ය හමුවට එක් වෙමිනි.
+Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman expressed these views to the press conference held at the Presidential Media Center yesterday.
 
-මෙම වසර තුළ ජල ගාස්තු වැඩි කිරීමක් සිදු කිරීමට අපේක්ෂා නොකරන බව පැවසූ අමාත්‍යවරයා යෝජිත ජල සූත්‍රය හඳුන්වාදීම ජනතාව පීඩාවට පත් නොකරන ආකාරයකට සිදු කරන බව ද පැවසීය.
+The Minister said that the introduction of water charges would not be expected to increase the water charges this year.
+
+"We are not intended to increase water fees this year. Preparation of the Water Tariff Sutlet that we introduced last year is now over. But we are further studying about that prepared water formula. We do not expect to impose an unnecessary burden to the masses by the water formula.
 
 ...
 
 [Data](articles/1e3ae39f.json)
+
+[Extended Data](ext_articles/1e3ae39f.ext.json)
 
 ---
 
@@ -1945,25 +1983,5 @@ School authorities have also been urged to ensure that students receive necessar
 [Data](articles/2baff130.json)
 
 [Extended Data](ext_articles/2baff130.ext.json)
-
----
-
-### 83 persons killed in homicides so far in 2024 – Police Spokesman
-
-*2024-02-26 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97547/83-persons-killed-in-homicides-so-far-in-2024-police-spokesman) · `en`
-
-A total of 83 people have been killed in homicides in 2024 thus far, Police Spokesman DIG Nihal Thalduwa reported.
-
-Meanwhile, 1,180 incidents of burglary and 310 robberies were also reported since January this year, he said while speaking at a press conference today (26 Feb.).
-
-DIG Thalduwa further revealed that while nearly 20 shootings have been reported in this year so far, 10 of them are suspected to have been orchestrated by, or linked to members of organised crime syndicates.
-
-He assured, however, that Sri Lanka Police has already taken various measures required to curb the crime rate.
-
-◼️
-
-[Data](articles/bd603e57.json)
-
-[Extended Data](ext_articles/bd603e57.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 23:02:56**
+As of **2024-02-27 23:17:28**
 
 ## Newspaper Stats
 
-*Scraped **9,659** Articles*
+*Scraped **9,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ dailyftlk | 505
 islandlk | 511
 adalk | 819
 adaderanalk | 1,164
-tamilmirrorlk | 1,180
-virakesarilk | 1,322
-dailymirrorlk | 1,451
+tamilmirrorlk | 1,181
+virakesarilk | 1,323
+dailymirrorlk | 1,461
 adaderanasinhalalk | 1,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,659 (100.0%) of 9,659 articles have been extended.
+9,659 (99.9%) of 9,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### New sex education publications for all ages to be launched next month
+
+*2024-02-27 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-sex-education-publications-for-all-ages-to-be-launched-next-month/108-277832) · `en`
+
+Colombo, Feb. 27 (Daily Mirror)- The Education Ministry has made arrangements to launch new educational publications compiled to provide sex education from the pre-childhood development stage to the adult community, the Parliamentary Caucus for Children said.
+
+Officials of the Education Ministry said that arrangements have been made to launch publications on the 7th of March, 2024.
+
+This was stated when the Parliamentary Caucus for Children chaired by Member of Parliament Rohini Kumari Wijeratne met in Parliament recently.
+
+The officials informed the Caucus that research has confirmed that these educational publications on sex education have been prepared with the primary objective of improving the limited knowledge of people pertaining to sex education, which is the basis of many concerns in Sri Lanka.
+
+...
+
+[Data](articles/6d3e1a5e.json)
+
+---
 
 ### Fmr Finance Minister Ronnie de Mel passes away
 
@@ -45,6 +63,20 @@ He was receiving treatment at a private hospital in Colombo at the time of his d
 [Data](articles/93fa66e8.json)
 
 [Extended Data](ext_articles/93fa66e8.ext.json)
+
+---
+
+### சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை புஷ்வாணமாகும் - ஆஷு மாரசிங்க
+
+*2024-02-27 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177455) · `ta`
+
+எதிர்க்கட்சிகள் தங்களின் இயலாமையை மறைப்பதற்கே சபாநாயகருக்கு எதிராக நம்பிக்கையில்லா பிரேரணை கொண்டுவர நடவடிக்கை எடுத்திருக்கின்றன. இவர்களின் இந்த நம்பிக்கையில்லா பிரேரணை இதற்கு முன்னர் கொண்டுவந்த  பிரேரணைகள் போன்று புஷ்வாணமாகிவிடும் என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷு மாரசிங்க தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/eb43f341.json)
 
 ---
 
@@ -63,6 +95,54 @@ Ronnie de Mel became popular as the Minister of Finance 11 times in Sri Lanka.
 [Data](articles/b4862072.json)
 
 [Extended Data](ext_articles/b4862072.ext.json)
+
+---
+
+### Ronnie de Mel no more
+
+*2024-02-27 22:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ronnie-de-Mel-no-more/108-277835) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - Ronnie de Mel who was instrumental in introducing the open economy in Sri Lanka in 1978, passed away at the age of 99 today.
+
+He introduced the open economy in Sri Lanka after becoming the Finance Minister of late President J.R. Jayewardene’s Cabinet in 1977.
+
+Late Mr. de Mel is the longest serving Finance Minister in the country and one who has presented the most number of budgets from 1977 to 1987.
+
+He began politics joining the Sri Lankan Freedom Party (SLFP) and later crossed over to the United National Party (UNP).
+
+◼️
+
+[Data](articles/0730542b.json)
+
+---
+
+### Cricketers discuss challenges with Sports Minister
+
+*2024-02-27 21:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cricketers-discuss-challenges-with-Sports-Minister/108-277834) · `en`
+
+Colombo, Feb. 27 (Daily Mirror) - Several players of the Sri Lankan cricket team met Sports Minister Harin Fernando today to discuss issues and challenges faced by the Sri Lankan cricketers.
+
+ODI captain Kusal Mendis, Twenty20 captain Wanindu Hasaranga, senior players like Angelo Mathews, Dimuth Karunaratne, Cricket Consultant Sanath Jayasuriya, and Chief Selector Upul Tharanga participated in the meeting that took place at the Ministry.
+
+Several issues faced by cricketers such as coaching structures, innovative training techniques, mental focus, talent development and strategies to secure victories in upcoming matches were reportedly discussed.
+
+◼️
+
+[Data](articles/c602444a.json)
+
+---
+
+### ரொனி டி மெல் காலமானார்
+
+*2024-02-27 21:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொனி-டி-மெல்-காலமானார்/175-333903) · `ta`
+
+இலங்கை அரசியல் அரங்கில் புரட்சிகரப் பிரமுகரும், முன்னாள் நிதி அமைச்சரும், பிரபல பொருளாதார நிபுணருமான ரொனி டி மெல், கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் இன்று (27) காலமானார்.
+
+ரொனி டி மெல் இலங்கைக்கு சுதந்திர வர்த்தகப் பொருளாதாரத்தை அறிமுகப்படுத்தியதில் முன்னோடியாகவும் இருந்தார்.
+
+◼️
+
+[Data](articles/5030f77a.json)
 
 ---
 
@@ -99,6 +179,22 @@ Furthermore, Minister Rajapakshe highlighted the anticipation of implementing a 
 [Data](articles/909d7897.json)
 
 [Extended Data](ext_articles/909d7897.ext.json)
+
+---
+
+### Legality of no faith motion against speaker questionable: Minister
+
+*2024-02-27 21:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legality-of-no-faith-motion-against-speaker-questionable-Minister/108-277830) · `en`
+
+Colombo, Feb. 27 (Daily Mirror)- The legality of the no confidence motion which is being brought against Speaker Mahinda Yapa Abeywardene is questionable, Minister of Justice Wijeyadasa Rajapakshe said today.
+
+“The opposition claims that the Speaker got the Online Safety Bill enacted violating the constitution. It is not the Speaker who enacts a Bill. It is done by the MPs in Parliament. Speaker is not even allowed to participate in parliamentary debates. Also the Supreme Courts never force the legislature to amend any Bill. It only looks into whether a Bill violates any section of the constitution or not. How can one accuse the Speaker of violating the constitution in such a scenario? Therefore the legality of the no faith motion that is being brought against the Speaker is questionable,” the Minister said.
+
+“Ruling party MPs will decide on their stance on the no faith motion on the basis of its legality,” he added.
+
+...
+
+[Data](articles/d507f261.json)
 
 ---
 
@@ -170,6 +266,24 @@ At the same time, the judge announced that he would be given 15 thousand money a
 
 ---
 
+### Delegation from Saudi Fund arrives in Sri Lanka
+
+*2024-02-27 20:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Delegation-from-Saudi-Fund-arrives-in-Sri-Lanka/108-277829) · `en`
+
+Saudi Arabian ambassador Khalid bin Hamoud Al-Kahtani  received a delegation from the Development Evaluation Department of the Saudi Fund for Development (SFD) today, a statement from the embassy said.
+
+The visit aims to conduct a post-implementation evaluation of the Epilepsy Hospital and Health Centres project in Sri Lanka, which was implemented by the Ministry of Health at a cost of  USD 75 million, with a contribution from the Saudi Fund for Development amounting to USD 32 million.
+
+The project was declared open in December 2017, and it is noteworthy that the Epilepsy Hospital consists of 08 floors with a capacity of 242 beds within the National Hospital complex in Colombo.
+
+The hospital also meets the increasing health needs and provides services for treating epilepsy and convulsions resulting from an increase in the brain’s electrical energy.
+
+◼️
+
+[Data](articles/71ad44d2.json)
+
+---
+
 ### 10,000 policemen who requested the motorcycle
 
 *2024-02-27 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193890) · `si`
@@ -189,6 +303,20 @@ Officers of the Commission have asked whether it is a legal driving license at t
 [Data](articles/9c8a3f6f.json)
 
 [Extended Data](ext_articles/9c8a3f6f.ext.json)
+
+---
+
+### US appreciates Sri Lanka’s role in Red Sea operations
+
+*2024-02-27 20:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-appreciates-Sri-Lankas-role-in-Red-Sea-operations/108-277827) · `en`
+
+US Deputy Secretary of State Richard Verma appreciates Sri Lanka's involvement in the ongoing security operations in the Red Sea, and announces that a 4th Coast Guard Cutter will be gifted to the Sri Lankan Navy to further expand its naval operation capabilities.
+
+President Ranil Wickremesinghe re-iterated the country's commitment to the Freedom of Navigation in the Indian Ocean.
+
+◼️
+
+[Data](articles/8e4d46e5.json)
 
 ---
 
@@ -237,6 +365,22 @@ Six flight terms were canceled on 02/27 on 02/27.
 [Data](articles/118ca6c2.json)
 
 [Extended Data](ext_articles/118ca6c2.ext.json)
+
+---
+
+### Central Bank summoned before COPF over pay hike
+
+*2024-02-27 19:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-summoned-before-COPF-over-pay-hike/108-277828) · `en`
+
+Colombo, Feb. 27 (Daily Mirror)- The Committee on Public Finance has summoned the Governing Board of the Central Bank beforer the committee next week, COPF Chair Dr. Harsha De Silva said.
+
+Taking to X, he said MPs could seek clarification on the recent staff pay hike and for any necessary action.
+
+"The CBSL independence is subject to accountability to the Legislature per Section 80 (2) (a) of the CBSL Act," he added.
+
+◼️
+
+[Data](articles/8c62e50e.json)
 
 ---
 
@@ -305,6 +449,26 @@ According to the Colombo Crimes Division, the Colombo Crimes Duminda Jayatilleke
 [Data](articles/5eb797be.json)
 
 [Extended Data](ext_articles/5eb797be.ext.json)
+
+---
+
+### India to push rupee investments in Sri Lanka
+
+*2024-02-27 19:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-to-push-rupee-investments-in-Sri-Lanka/108-277825) · `en`
+
+Colombo, Feb 27 (Mint) - The government of Sri Lanka is working on operationalizing Rupee investments in Sri Lanka in a move to boost Indian investments in its southern neighbour, two people aware of the matter told Mint.
+
+Rupee investments will ease the way for Indian firms to enter the Sri Lankan markets, the people mentioned above said, speaking under the condition of anonymity.
+
+During FY 2023, the Reserve Bank of India (RBI) allowed invoicing and payments for international trade in the Indian Rupee.
+
+This allowed exports and imports to be denominated and invoiced in Indian rupees, with the settlement of trade transactions taking place in the currency.
+
+The RBI's decision is aimed at promoting the growth of global trade, especially Indian exports, apart from systematically internationalizing the currency. India wants the Indian Rupee to be a hard currency in the future, the second person mentioned above said.
+
+...
+
+[Data](articles/e0935d31.json)
 
 ---
 
@@ -1658,6 +1822,20 @@ As such, Ranjith Maddumabandara, Sisira Jayakody, Uvindu Wijeweera and other rep
 
 ### Seven petitions against Deshabandu being appointed as IGP fixed for April 2
 
+*2024-02-27 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Seven-petitions-against-Deshabandu-being-appointed-as-IGP-fixed-for-April-2/155-277808) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - Seven Fundamental Rights petitions filed challenging the decision to appoint Deshabandu Thennakoon as the Acting Inspector General of Police (IGP) and the IGP were today fixed for April 2 by the Supreme Court.
+
+Court was informed that the parties were yet to receive minutes pertaining to the Constitutional Council appointing Deshabandu Tennakoon as the new IGP.
+
+◼️
+
+[Data](articles/172ba109.json)
+
+---
+
+### Seven petitions against Deshabandu being appointed as IGP fixed for April 2
+
 *2024-02-27 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Seven-petitions-against-Deshabandu-being-appointed-as-IGP-fixed-for-April-2/108-277808) · `en`
 
 Colombo, Feb 27 (Daily Mirror) - Seven Fundamental Rights petitions filed challenging the decision to appoint Deshabandu Thennakoon as the Acting Inspector General of Police (IGP) and the IGP were today fixed for April 2 by the Supreme Court.
@@ -1837,219 +2015,5 @@ The deceased, aged 36 and 63, were identified as residents of Imaduwa and Dikkum
 [Data](articles/2a200351.json)
 
 [Extended Data](ext_articles/2a200351.ext.json)
-
----
-
-### Sri Lanka PA resigned from the post of MP
-
-*2024-02-27 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177413) · `ta`
-
-Actor Uthika Premaratne, a member of the Sri Lanka PA, has resigned from the post.
-
-◼️
-
-[Data](articles/0624763a.json)
-
-[Extended Data](ext_articles/0624763a.ext.json)
-
----
-
-### Wimal - Udaya in favor of the no -confidence motion
-
-*2024-02-27 12:16:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லா-பிரேரணைக்கு-ஆதரவாக-விமல்-உதய/175-333876) · `ta`
-
-The federation led by Wimal Weerawansa and Udaya Kammanpila have decided to support the no -confidence motion against the Speaker.
-
-The signature is being collected for a no -confidence motion to come up with accusations of violating the Speaker's Constitution while passing the e -mail security bill.. Remble
-
-◼️
-
-[Data](articles/a0d76201.json)
-
-[Extended Data](ext_articles/a0d76201.ext.json)
-
----
-
-### Two maintenance workers killed in accident on Southern Expressway
-
-*2024-02-27 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97563/two-maintenance-workers-killed-in-accident-on-southern-expressway) · `en`
-
-Two maintenance workers at the Southern Expressway were killed in an accident reported on the highway earlier today (27 Feb.)
-
-Accordingly, two persons, aged 36 and 63, were reported dead after a lorry hit the protective fence near the Kurundugahahetekma interchange along the Southern Expressway a short while ago.
-
-Police reported that the lorry had been plying from Dodangoda to Matara when the accident happened, adding that the two persons were immediately rushed to the Karapitiya Teaching Hospital, however, were pronounced dead upon admission.
-
-The remains of the deceased are currently at the Karapitiya Teaching Hospital, while further investigations are being carried out by the Poddala Police.
-
-◼️
-
-[Data](articles/e881e579.json)
-
-[Extended Data](ext_articles/e881e579.ext.json)
-
----
-
-### The madfire of the madfish of the mummy river
-
-*2024-02-27 12:14:49* · [`adalk`](https://www.ada.lk/breaking_news/මාඳු-ගඟේ-කකුළුවන්-ධීවරයන්ගේ-මඩිය-තර-කරයි/11-408303) · `si`
-
-The fishermen of the Madu Rule say that a kilogram of crabs have been sold for a kilogram of crabs these days.
-
-They say that a kilogram of computers have not been sold at such a higher price in history.
-
-Fishermen also say that he has not even considered a kilogram of crabs that were unable to sell a kilogram of crab.
-
-The fishermen say that the prices of the prices have risen as the rapid increase in foreigners
-
-They say they have failed to sell the harvest, but they have failed to give their demand.
-
-The sizes of the river is now increasing in the rise to the crow's price increase in the midst of the crab harvest.
-
-◼️
-
-[Data](articles/07298865.json)
-
-[Extended Data](ext_articles/07298865.ext.json)
-
----
-
-### Allow Gaza Children's Fund to set up
-
-*2024-02-27 12:13:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஸா-சிறுவர்-நிதியம்-அமைக்க-அனுமதி/175-333875) · `ta`
-
-The Cabinet has approved the president's idea of creating a 'Gaza Children's Fund'.
-
-At this juncture, the President has issued a directive to all ministries and state institutions to abandon the celebrations and contribute to this fund.
-
-In addition, the Sri Lankan government's $ 1 million donation will be issued through the United Nations to provide relief to the affected children and citizens.
-
-◼️
-
-[Data](articles/92326204.json)
-
-[Extended Data](ext_articles/92326204.ext.json)
-
----
-
-### SriLankan flights canceled, delayed
-
-*2024-02-27 12:10:41* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-ගමන්-අවලංගු-නැතිලු--ප්‍රමාදයිලු/11-408302) · `si`
-
-SriLankanaka Communications Division, Head of SriLankanaka Communication Division, Dealal Perera said that the SriLankan Airlines Corporate Communications Communications Division is not canceled.
-
-But in a spokesperson of the Katunayake Airport Agenist Publisher said that all aircraft had been invalidated by SriLankan Airlines.She added that he has not been aware of the time of the repeat time.
-
-◼️
-
-[Data](articles/f984ac32.json)
-
-[Extended Data](ext_articles/f984ac32.ext.json)
-
----
-
-### Who will call me dad anymore?Father tears lost 103 relationships, including wife and mother children
-
-*2024-02-27 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177410) · `ta`
-
-Ahmed al -Qubeeri only survived the bomb that completely destroyed his family.
-
-When 103 relatives were killed in the bombing of his house in Gaza, he was caught in Jericho occupied from his home on the west.
-
-In those days, Israel's siege was unable to see his wife and three children.
-
-He spoke to them by telephone, and he spoke to his wife Sirin on December 8, where the attack was attacked.
-
-She knew that she would die, and if she had something wrong, I would not have to say that if she had done something wrong, I would not have to say that.
-
-His wife and three girls were killed by a bomb that hit his cousin's house.
-
-The bomb was killed by Ahmed's mother and his four brothers, including their family and relatives.
-
-Ahmad is in a state of disrepair, which is unacceptable.
-
-Ahmed, who is unable to get the bodies of his children, is still talking about it.
-
-My girls are like a little bird and I feel like I am in a dream. I still can't think of what happened to them.
-
-...
-
-[Data](articles/3fcf50cd.json)
-
-[Extended Data](ext_articles/3fcf50cd.ext.json)
-
----
-
-### As soon as possible, conduct a medical examination of the public health inspection of the area as soon as possible
-
-*2024-02-27 12:09:31* · [`adalk`](https://www.ada.lk/breaking_news/හැකි-ඉක්මනින්-ප්‍රදේශයේ-මහජන-සෞඛ්‍ය-පරීක්ෂක-ලවා-වෛද්‍ය-පරීක්ෂණයක්-සිදුකර-ගන්න/11-408301) · `si`
-
-The Fruit dealer has been admitted to the Homagama Base Hospital in the Homagama-dealer has been admitted to the Homagama Base Hospital for treatment.
-
-Massatorial Mortem Mortem Homagama The Death of Homagama was carried out by Manel Gamage, which was carried out by the Judicial Medical Officer of the Homagama Hospital Medical Officer of the Homagama Hospital.
-
-The proof and the post mortem examination of the post-mortem examination, Mrs. Manel Gamage concluded that the death of the death of the deceased.
-
-Sudden deaths said that the deceased was revealed that the deceased had been diagnosed with tuberculosis as soon as possible, relatives, including the small daughter and relatives of the house to conduct a medical examination in the area.
-
-◼️
-
-[Data](articles/27fd9dbe.json)
-
-[Extended Data](ext_articles/27fd9dbe.ext.json)
-
----
-
-### 83 murders in the first two months
-
-*2024-02-27 12:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதல்-இரண்டு-மாதங்களில்-83-கொலைகள்/175-333874) · `ta`
-
-A total of 83 murders have been reported in Sri Lanka this year (2024), police said.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa told the media that these deaths were reported in 76 incidents.
-
-In addition, from January to date, a total of 1,180 thefts and 310 robberies have been reported.
-
-The police media spokesman said that there were 20 shootings so far this year, and that 10 incidents were suspected of being associated with organized criminals.
-
-However, the police media spokesman pointed out that the Sri Lankan police have taken several steps to curb the crimes in the country.
-
-◼️
-
-[Data](articles/1debffdd.json)
-
-[Extended Data](ext_articles/1debffdd.ext.json)
-
----
-
-### A fatal accident on Southern Expressway
-
-*2024-02-27 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193875) · `si`
-
-Two persons were killed in an accident in Kurundugahahack on the Southern Expressway.
-
-◼️
-
-[Data](articles/25e836fe.json)
-
-[Extended Data](ext_articles/25e836fe.ext.json)
-
----
-
-### 7 flights to leave Katunayake today canceled
-
-*2024-02-27 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177409) · `ta`
-
-It has been reported that some flights from Katunayake airport have been canceled today (27).
-
-According to a spokesman for the Katunayake airport, only seven flights to India, the Middle East and Thailand have been canceled.
-
-Six of the services canceled flights are owned by SriLankan Airlines.
-
-◼️
-
-[Data](articles/d2b049e7.json)
-
-[Extended Data](ext_articles/d2b049e7.ext.json)
 
 ---

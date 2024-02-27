@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 17:33:28**
+As of **2024-02-27 17:53:10**
 
 ## Newspaper Stats
 
-*Scraped **9,608** Articles*
+*Scraped **9,609** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 491
 dailyftlk | 505
 islandlk | 511
 adalk | 811
-adaderanalk | 1,157
+adaderanalk | 1,158
 tamilmirrorlk | 1,177
 virakesarilk | 1,313
 dailymirrorlk | 1,448
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,605 (100.0%) of 9,608 articles have been extended.
+9,609 (100.0%) of 9,609 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,22 @@ Police have used tear gas and water cannons to disperse a group of protesting st
 ◼️
 
 [Data](articles/5a35a737.json)
+
+[Extended Data](ext_articles/5a35a737.ext.json)
+
+---
+
+### Tear gas fired at protest near J’pura University
+
+*2024-02-27 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97571/tear-gas-fired-at-protest-near-jpura-university) · `en`
+
+Police have used tear gas and water cannons to disperse a group of protesting students near the University of Sri Jayewardenepura.
+
+◼️
+
+[Data](articles/a8a6b924.json)
+
+[Extended Data](ext_articles/a8a6b924.ext.json)
 
 ---
 
@@ -60,6 +76,8 @@ For this reason, the members of the public are advised to stay hydrated, take br
 
 [Data](articles/2d5593cf.json)
 
+[Extended Data](ext_articles/2d5593cf.ext.json)
+
 ---
 
 ### SLBFE gives update on Sri Lankan deliveryman shot in Kuwait over delayed order
@@ -77,6 +95,8 @@ The 44-year-old, originally from Rajanganaya, faced the harrowing incident on Ja
 ...
 
 [Data](articles/fa9ac3bd.json)
+
+[Extended Data](ext_articles/fa9ac3bd.ext.json)
 
 ---
 
@@ -1969,31 +1989,5 @@ Addressing at the Adawara 360 program, the Minister said that he would reduce th
 [Data](articles/45b8892d.json)
 
 [Extended Data](ext_articles/45b8892d.ext.json)
-
----
-
-### “It was late because there were 2 rats on the plane"
-
-*2024-02-27 08:46:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானத்தில்-2-எலிகள்-இருந்ததால்-தாமதமாகியது/175-333864) · `ta`
-
-SriLankan Airlines President Ashok Pathke said yesterday that the authorities have forced the authorities to delay the flights as rats were found on two SriLankan Airlines flights on Sunday.
-
-Mr. During a discussion held at the Ports, Shipping and Aviation Ministry. Patrake said, “The two flights found in the rats had to be sprayed with chemicals.
-
-Two other flights had to arrive late due to technical defects, ”he added.
-
-Ports, Shipping and Aviation Minister Nimal Siripala then questioned whether the animals were investigated.
-
-The lack of 15 ground handling staff was revealed to be the cause of the delay.Three employees applied for a holiday on Sunday, and the remaining 12 were usually on holiday.
-
-“Ridgone those who quit without applying for vacation,” the angry minister said.
-
-SriLankan Airlines Navy has only 20 flights and three flights have landed.. Said Patrake.
-
-...
-
-[Data](articles/6677cccf.json)
-
-[Extended Data](ext_articles/6677cccf.ext.json)
 
 ---

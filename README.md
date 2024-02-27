@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 13:17:37**
+As of **2024-02-27 13:33:09**
 
 ## Newspaper Stats
 
-*Scraped **9,559** Articles*
+*Scraped **9,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,39 +14,63 @@ dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 486
 dailyftlk | 504
-islandlk | 508
+islandlk | 509
 adalk | 803
 adaderanalk | 1,150
 tamilmirrorlk | 1,174
 virakesarilk | 1,310
 dailymirrorlk | 1,437
-adaderanasinhalalk | 1,447
+adaderanasinhalalk | 1,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,556 (100.0%) of 9,559 articles have been extended.
+9,559 (100.0%) of 9,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### உறங்கி கொண்டிருந்தபோது தாக்குதலுக்கு இலக்கான நபர் உயிரிழப்பு
+### The person who was attacked while sleeping
 
 *2024-02-27 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177415) · `ta`
 
-வீட்டில் உறங்கி கொண்டிருந்தவர் மீது மேற்கொள்ளப்பட்ட தாக்குதலில் படுகாயமடைந்த நபர் யாழ்.போதனா வைத்தியசாலையில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+A man who was injured in an attack on a person who was sleeping in the house has died at the Jaffna Bodhana Hospital without treatment.
 
-கிளிநொச்சி தர்மபுரம் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியைச் சேர்ந்த மூன்று பிள்ளைகளின் தந்தையான 44 வயதுடைய நடராசா ரவிக்குமார் என்பவரே உயிரிழந்துள்ளார்.
+The 44 -year -old Natarasa Ravikumar, the father of three children belonging to the Dharmapuram police division of Kilinochchi, has died.
 
-கடந்த 20ஆம் திகதி தனது வீட்டில் உறங்கிக்கொண்டிருந்த வேளை, அவரது  முகம் மற்றும் தலை பகுதிகளில் கடுமையாக தாக்குதல் நடத்தப்பட்டுள்ளது.
+While he was sleeping at his home on the 20th, his face and head were severely attacked.
 
-தாக்குதலில் படுகாயமடைந்தவரை கிளிநொச்சி வைத்தியசாலையில் அனுமதித்து, மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலையில் அனுமதித்த நிலையில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+He was admitted to the Kilinochchi Hospital and admitted to the Jaffna Bodhana Hospital for further treatment.
 
 ◼️
 
 [Data](articles/a5416f91.json)
+
+[Extended Data](ext_articles/a5416f91.ext.json)
+
+---
+
+### බංග්ලාදේශයේදී චරිත්ට නායකත්ව වරම්
+
+*2024-02-27 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193876) · `si`
+
+ශ්‍රී ලංකා - බංග්ලාදේශ 20යි 20 තරගාවලියේ පළමු තරග දෙකේ දී ශ්‍රී ලංකා කණ්ඩායම මෙහෙයවීමේ වගකීම ශ්‍රී ලංකා 20යි 20 උප නායක චරිත් අසලංකට පැවරීමට නියමිත බව වාර්තා වේ.
+
+ඒ වනිඳු හසරංගට ජාත්‍යන්තර ක්‍රිකට් කවුන්සලය තරග දෙකක තහනමක් පනවා තිබීම හේතුවෙනි.
+
+ඇෆ්ගනිස්තාන පිල සමග පැවති 3 වැනි සහ අවසන් 20යි 20 තරගයේදී විනිසුරු ලින්ඩන් හැනිබල් ලබාදුන් තීන්දුවකට විරෝධය පළකිරීම හේතුවෙන් ශ්‍රී ලංකා 20යි 20 නිත්‍ය නායක වනිඳු හසරංගට තරග දෙකක තහනමක් පැනවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සලය පසුගියදා කටයුතු කළේය.
+
+ඒ අනුව මාර්තු 4 වැනිදා බංග්ලාදේශයට එරෙහිව ආරම්භ වීමට නියමිත 20යි 20 තරගාවලියේ පළමු තරග දෙක වනිඳු හසරංගට අහිමිවන අතර ශ්‍රී ලංකා කණ්ඩායම මෙහෙයවීමේ වගකීම චරිත් අසලංකට පැවරෙනු ඇති බව වාර්තා වේ.
+
+පළමු තරග දෙක සඳහා වනිඳු වෙනුවට ජෙෆ්රි වැන්ඩසේ කණ්ඩායමට කැඳවීමට තේරීම් කමිටුවේ අවධානය යොමුව තිබේ.
+
+මේ අතර ඇෆ්ගනිස්තාන තරගාවලිය අතරතුර ආබාධයකට ලක්වූ පැතුම් නිස්සංක වෙනුවට බංග්ලාදේශය සමඟ පැවැත්වෙන තරගාවලියේදී අවිශ්ක ප්‍රනාන්දුට කණ්ඩායමේ ස්ථානයක් හිමිවීමට නියමිත බවද වාර්තා වේ.
+
+...
+
+[Data](articles/b6c1c890.json)
 
 ---
 
@@ -66,31 +90,37 @@ As such, a group of MPs belonging to the opposition in Parliament including M. A
 
 [Data](articles/9ad90a48.json)
 
+[Extended Data](ext_articles/9ad90a48.ext.json)
+
 ---
 
-### அவுஸ்திரேலியாவின் இறைமைக்கு சீனாவால் ஆபத்து - நாடாளுமன்றத்திற்கான தனது இறுதி உரையில் அவுஸ்திரேலிய முன்னாள் பிரதமர் ஸ்கொட்மொறிசன்
+### China's danger to Australia's sovereignty
 
 *2024-02-27 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177416) · `ta`
 
-அவுஸ்திரேலியாவின் முன்னாள் பிரதமர் ஸ்கொட்மொறிசன் நாடாளுமன்றத்திற்கான தனது பிரியாவிடை உரையில் சீனாவால் ஏற்படக்கூடிய ஆபத்துக்கள் குறித்து சுட்டிக்காட்டியுள்ளார்.
+Former Prime Minister of Australia, Scotmoron, in his farewell speech to Parliament, pointed out the dangers of China.
 
-அவுஸ்திரேலியாவை கட்டாயப்படுத்த அல்லது ஆதாயம்தேட சீனா மேற்கொண்டுள்ள முயற்சிகள் குறித்து ஸ்கொட்மொறிசன் தனது நாடாளுமன்ற உரையில்  எச்சரித்துள்ளார்.
+In his parliamentary speech, Scotmoron has warned of the efforts of China to force Australia or gain.
 
-சீனா மோதல் இராஜதந்திரத்தை மூலோபாய அடிப்படையில் தவிர்த்துவருவதை அடிப்படையாக வைத்து அந்தநாட்டின் நோக்கங்கள் பற்றி குழப்பம் ஏற்படக்கூடாது என தெரிவித்துள்ள ஸ்கொட்மொறிசன் சீனா சுதந்திரத்தை விட அதிகாரத்தை பலத்தை விரும்பும் எனவும் அவர் தெரிவித்துள்ளார்.
+He said that China's conflict should not be confused about the objectives of the country on the basis of strategic avoidance of diplomacy, he said.
 
-சீனா தனதுநோக்கங்கள் என வரும்போது தனது மக்கள் குறித்து அக்கறை கொள்ளாது எனவும் அவர் தெரிவித்துள்ளார்.
+He also said that when China comes to its impression, he will not be concerned about its people.
 
-இதன் காரணமாகவே எனது அரசாங்கம் சீனாவின் ஆக்கிரமிப்பினை வற்புறுத்தல்களை மிரட்டல்களை  எதிர்ப்பதில் உறுதியாகயிருந்தது எனவும் தெரிவித்துள்ள ஸ்கொட்மொறிசன்  நாங்கள் அடிபணிவோம் என சீனா நினைத்தது எனவும் தெரிவித்துள்ளார்.
+This is why my government was determined to oppose the threats of China's occupation and that China thought that we would submit to the Scottmiron.
 
-...
+Due to the 2022 election results, China may have abandoned its insistence but we should not be deceived, but the strategies have not changed but strategies have not changed.
+
+◼️
 
 [Data](articles/a72b362f.json)
+
+[Extended Data](ext_articles/a72b362f.ext.json)
 
 ---
 
 ### Prohibition of fishing near Madhakal Vihara;Hundreds of fishermen are affected
 
-*2024-02-27 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177414) · `ta`
+*2024-02-27 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/177414) · `ta`
 
 The Navy has banned fishing activities in the waters near the Vihara in the Jaffna - Madagal Sambilu (Jambukkoli Pattinam) Vihara, the area's fishermen said.
 
@@ -1995,29 +2025,5 @@ The government's plan is to submit this resolution in Parliament and pass it wit
 [Data](articles/b0d8e603.json)
 
 [Extended Data](ext_articles/b0d8e603.ext.json)
-
----
-
-### The cooperation of all political parties to implement the recommendations of the International Monetary Fund is essential - Patali Champika Ranawaka
-
-*2024-02-26 23:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177380) · `ta`
-
-The cooperation of all political parties to implement the recommendations of the International Monetary Fund is essential. Whoever comes to power must be reproduced by foreign loans. We have urged the president not to work with the IMF and to join the opposition parties.
-
-The United Republic of India (UNP) has issued a policy announcement on the 14th of last month.
-
-The meeting between the United Republic of India and the United People's Power was held on Monday at the United People's Power Headquarters in Colombo.
-
-United People's Power General Secretary Ranjith Bandara, National Organizer Tissa Attanayake, Parliamentarian Gayantha Karunathilaka, Former Parliamentarian Mujibur Rahman
-
-Following the meeting, the UNP leader and parliamentarian Patali Champika Ranawaka issued a statement on the theme 'Let's Unite for the National' on the 14th.
-
-We have invited all political parties except the Sri Lanka PA to participate in the general agenda to address the economic crisis.. Everyone attended.
-
-...
-
-[Data](articles/6831c989.json)
-
-[Extended Data](ext_articles/6831c989.ext.json)
 
 ---

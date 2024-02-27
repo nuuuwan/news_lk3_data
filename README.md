@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 12:02:29**
+As of **2024-02-27 12:17:31**
 
 ## Newspaper Stats
 
-*Scraped **9,519** Articles*
+*Scraped **9,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 95
 bbccomsinhala | 116
 dbsjeyarajcom | 166
 newsfirstlk | 363
-economynextcom | 481
+economynextcom | 486
 dailyftlk | 504
 islandlk | 508
 adalk | 801
@@ -20,17 +20,87 @@ adaderanalk | 1,147
 tamilmirrorlk | 1,168
 virakesarilk | 1,294
 dailymirrorlk | 1,432
-adaderanasinhalalk | 1,444
+adaderanasinhalalk | 1,446
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,519 (100.0%) of 9,519 articles have been extended.
+9,519 (99.9%) of 9,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### උද්දික මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වෙයි
+
+*2024-02-27 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193874) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී උද්ධික ප්‍රේමරත්න මහතා සිය මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වීමේ ලිපිය කථානයකවරයාට භාරදී තිබේ.
+
+මේ සම්බන්ධයෙන් "අද දෙරණ" කළ විමසීමකදී කථානායක මහින්ද යාපා අබේවර්ධන මහතා ඒ බව තහවුරු කළේය.
+
+◼️
+
+[Data](articles/5f57c52d.json)
+
+---
+
+### මැතිවරණ වියදම් නියාමනය ගැන දේශපාලන පක්ෂ දැනුවත් කෙරේ
+
+*2024-02-27 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193873) · `si`
+
+මැතිවරණ වියදම් නියාමන පනත පිළිබඳ දේශපාලන පක්ෂ දැනුවත් කිරීමට ජාතික මැතිවරණ කොමිෂන් සභාව තීරණය කර තිබේ.
+
+මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්. ඒ. එල්. රත්නායක මහතා සඳහන් කළේ, අද (27) සහ මාර්තු 6 යන දිනවල අදාළ දැනුවත් කිරීම් සිදුකෙරෙන බවය.
+
+මැතිවරණ වියදම් නියාමන පනතට අනුව මැතිවරණ සඳහා මුදල් වැය කිරීම සීමා කළ යුතු වෙයි.
+
+කෙසේ වෙතත් එම පනත සම්මතවීමෙන් පසු එක් මැතිවරණයක් හෝ පවත්වා නොමැතිවීම හේතුවෙන් අදාළ පනතේ විධිවිධාන සම්බන්ධයෙන් දේශපාලඥයින්ට නිසි අවබෝධයක් ලබාදීමේ අරමුණින් එම සාකච්ඡා පැවැත්වෙයි.
+
+මෙහිදී පක්ෂ නියෝජනය කරමින් රංජිත්මද්දුම බණ්ඩාර, සිසිර ජයකොඩි, උවිඳු විජේවීර ඇතුළු පිරිසක් සාකච්ඡාවට සහභාගි වූහ.
+
+◼️
+
+[Data](articles/7705dfde.json)
+
+---
+
+### Sri Lanka police chief appointment against constitution: Opposition Leader
+
+*2024-02-27 11:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-chief-appointment-against-constitution-opposition-leader-152212/) · `en`
+
+ECONOMYNEXT – The appointment of Sri Lanka’s new police chief Deshbandu Tennakoon is against the constitution as the decision lacked required votes at the Constitutional Council, Opposition Leader Sajith Premadasa said.
+
+President Ranil Wickremesinghe on Monday (26) appointed Deshbandu Tennakoon as the 36th Inspector General of Police (IGP) of the country after the Constitutional Council (CC) cleared the official who along with three other police officers were asked by the Supreme Court to compensate 2 million rupees in a fundamental rights case last year.
+
+“CC didn’t approve IGP’s appointment. Votes: 4 for; 2 against; 2 abstentions. At least 5 votes are required for a decision,” Premadasa said in his X (Twitter) platform.
+
+“Speaker has a casting vote only in case of a tie. 4/2 is not a tie! Constitution is being blatantly violated for the second time. Shame on you speaker!”
+
+Speaker Mahinda Yapa Abeywardena was not reachable for a comment on the Opposition Leader’s claim.
+
+...
+
+[Data](articles/d14672a9.json)
+
+---
+
+### All major party leaders Sri Lanka remained unpopular in January: poll
+
+*2024-02-27 11:20:00* · [`economynextcom`](https://economynext.com/all-major-party-leaders-sri-lanka-remained-unpopular-in-january-poll-152206/) · `en`
+
+ECONOMYNEXT — All major party leaders in Sri Lanka continued to show negative favourability ratings in a January 2024 poll indicating continued unpopularity, with leftist leader Anura Kumara Dissanayake increasing his favourability by 12 points to -10.
+
+The poll, run by the Institute for Health Policy (IHP), showed that favourability of opposition leader Sajith Premadasa declined by 9 points to -53 in January, while President Wickremesinghe’s also dropped by 9 points to -77.
+
+The IHP said in a statement on February 22 that favourability estimates for each month are based on 100–500 interviews conducted during that month and during a few weeks before and afterward to ensure a minimum set of responses. The January 2024 estimates are based on 376 (Premadasa), 346 (Dissanayake), 361 (Wickremasinghe), and 121 (former president Gotabaya Rajapaksa) interviews.
+
+...
+
+[Data](articles/a43e3408.json)
+
+---
 
 ### Dozens killed in attacks on mosque, church in Burkina Faso
 
@@ -120,6 +190,24 @@ PMD said contributions to the fund by the citizens are encouraged.
 
 ---
 
+### Sri Lanka to seek private investments in water sector
+
+*2024-02-27 10:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-private-investments-in-water-sector-152203/) · `en`
+
+ECONOMYNEXT – Sri Lanka is looking to form public private partnerships in the water sector, specifically to focus on rural water supply, Minister of Water Supply and Estate Infrastructure Jeevan Thondaman has said.
+
+“Not privatization, but public private partnerships,” Thondaman said at a press briefing on Monday. “When we enhance private sector participation, we create a more competitive industry with better quality and cheaper prices.”
+
+A water tariff formula, which will be reviewed annually or bi-annually, has been formulated and will be submitted to the cabinet, parliament and COPE committee, he said.
+
+“Once this is in place, we will be able to attract investors to come on board. The water sector till now has not had a PPP model. We want to bring in private public sector partnerships in rural communities’ water supply; we believe they will be able to work hand in hand with community-based organizations to provide water to those who need it.
+
+...
+
+[Data](articles/d7d2ccfa.json)
+
+---
+
 ### Werahera RMV Turned 30 - CCTV
 
 *2024-02-27 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193870) · `si`
@@ -175,6 +263,26 @@ The committee vowed to resort to a continuous trade union action in the event th
 [Data](articles/e913b0cf.json)
 
 [Extended Data](ext_articles/e913b0cf.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 310.50/75 to the US dollar
+
+*2024-02-27 09:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-310-50-75-to-the-us-dollar-152183/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 310.50/75 to the US dollar Tuesday, from 310.80/311.00 on Monday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted at 10.85/95 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.75/85 from 11.80/90 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.10/20 percent.
+
+The Colombo Stock Exchange opened down; The All Share Price Index was down 0.04 percent at 10,607, the S&P SL20 was up 0.01 at 3,057. (Colombo/Feb27/2024)
+
+◼️
+
+[Data](articles/d02c1465.json)
 
 ---
 
@@ -521,6 +629,26 @@ The Leader of the JHU (JHD) leader of the JHU
 [Data](articles/8aba0064.json)
 
 [Extended Data](ext_articles/8aba0064.ext.json)
+
+---
+
+### Sri Lanka and India negotiating on bilateral investment treaty: report
+
+*2024-02-27 07:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-india-negotiating-on-bilateral-investment-treaty-report-152175/) · `en`
+
+ECONOMYNEXT – Sri Lanka and India is working on a bilateral investment treaty, a media report quoted High Commission Santosh Jha as saying.
+
+The investment treaty is separate from an Economic and Technological Co-operation Agreement which is also under discussion, Jha was quoted as saying by Bloomberg Newswires.
+
+Discussion on the ETCA, are at an advanced stage, the report said.
+
+Under the Indo Lanka Free Trade Agreement India has become the third largest export destination. In 2023 Sri Lanka exported 829 million US dollars of goods to the country, just behind UK at 846 million US dollars.
+
+It also has to ensure that Lanka does not become a conduit that other countries can use to push finished goods into India.
+
+◼️
+
+[Data](articles/db44d44b.json)
 
 ---
 
@@ -1857,137 +1985,5 @@ The Ministry has requested the school administration to provide frequent water b
 [Data](articles/a193bf0e.json)
 
 [Extended Data](ext_articles/a193bf0e.ext.json)
-
----
-
-### Deshabandu Tennakoon appointed IGP
-
-*2024-02-26 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97549/deshabandu-tennakoon-appointed-igp) · `en`
-
-Senior DIG and Acting IGP Deshabandu Tennakoon has been appointed as the 36th Inspector General of Police (IGP) of Sri Lanka.
-
-This appointment, in compliance with the stipulations outlined in Articles 41C.(1) and 61E.(b) of the Constitution of the Democratic Socialist Republic of Sri Lanka, has been made pursuant to the authority vested on President Ranil Wickremesinghe, the PMD reported.
-
-Secretary to the President Mr. Saman Ekanayake presented the official appointment letter to Mr. Deshabandu Tennakoon this afternoon (26) at the Presidential Secretariat.
-
-Tennakoon had been appointed as the Acting IGP on November 29, 2023.
-
-◼️
-
-[Data](articles/7d606a32.json)
-
-[Extended Data](ext_articles/7d606a32.ext.json)
-
----
-
-### Deshabandu Tennakoon appointed IGP
-
-*2024-02-26 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193853) · `si`
-
-Acting IGP, acting as the IGP in Sri Lanka, has been appointed as Deshabandu Tennakoon.
-
-A few moments ago, he had received the appointment letter from the Presidential Secretary Saman Ekanayake.
-
-◼️
-
-[Data](articles/0e515bb3.json)
-
-[Extended Data](ext_articles/0e515bb3.ext.json)
-
----
-
-### A young man dies after colliding with train
-
-*2024-02-26 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177374) · `ta`
-
-The death of a youth in the Batticaloa Police Division in the Kerupanai area of the Batticaloa Police Division, the death of a youth took place on Sunday (25) at 11 pm, police said.
-
-The deceased is Ashok Kumar Sanujan, a 25 -year -old Akas, from Karupa Bengeni.
-
-The youth has died on the spot after a train collided with a train from Batticaloa to Colombo on Sunday night (25).
-
-The body was subsequently recovered by the police and handed over to the hospital for autopsy.
-
-◼️
-
-[Data](articles/9a0235a0.json)
-
-[Extended Data](ext_articles/9a0235a0.ext.json)
-
----
-
-### Basil comes in two weeks - son goes on the footsteps of the father
-
-*2024-02-26 18:54:42* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-සති-දෙකකින්-එනවා---පුතා-යන්නේ-පියාගේ-අඩිපාරේ/11-408291) · `si`
-
-Former Minister Basil Rajapaksa will arrive in the island within two or two weeks, former President Mahinda Rajapaksa said that the organizational activities of the party will commence.
-
-He was speaking to the media after the program held at the Sri Lanka Civil Front Party Headquarters.
-
-He also defeated the no-confidence motion that brings the reconciliation proposal against the Speaker.
-
-He further stated that Namal Rajapaksa has asked why the temples are currently going to temples.. Also, son of the father is also in the footsteps of his father.
-
-◼️
-
-[Data](articles/c6afb457.json)
-
-[Extended Data](ext_articles/c6afb457.ext.json)
-
----
-
-### Opposition Leader's donation money theft
-
-*2024-02-26 18:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவரின்-நன்கொடைப்-பணம்-திருட்டு/175-333841) · `ta`
-
-A few days ago, the Avissawella police have launched an investigation into the incident of the stolen from the school office by Opposition Leader Sajith Premadasa.
-
-The donation was issued as part of the 'Sakwala' event when the Opposition Leader visited the Southern Primary School of Puwakpitiya on February 23.
-
-The school principal has lodged a complaint with the Avissawella police alleging that all the front door and shelves of the office have been broken.
-
-When the students came to school to organize the classroom, they reported to the Chancellor and the teacher that the office door had been broken.
-
-◼️
-
-[Data](articles/17328c99.json)
-
-[Extended Data](ext_articles/17328c99.ext.json)
-
----
-
-### Public view of the public
-
-*2024-02-26 18:40:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோள்மண்டலத்தை-பொதுமக்கள்-பார்வையிட-தடை/175-333840) · `ta`
-
-The Ministry of Education has announced that the public will be closed from tomorrow (27) to March 12.
-
-The decision to close the planetary zone is urgently repaired and the public has been banned from viewing the facility for facilities to facilitate the necessary maintenance work.
-
-◼️
-
-[Data](articles/33b54644.json)
-
-[Extended Data](ext_articles/33b54644.ext.json)
-
----
-
-### Israel attack on Rafah would be ‘final nail in coffin’ of Gaza aid: UN chief
-
-*2024-02-26 18:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97548/israel-attack-on-rafah-would-be-final-nail-in-coffin-of-gaza-aid-un-chief) · `en`
-
-A full-scale Israeli military operation in Rafah would deliver a death blow to aid programs in Gaza, where humanitarian assistance remains “completely insufficient,” the UN chief warned Monday.
-
-Speaking before the UN Human Rights Council in Geneva, Antonio Guterres said that Gaza’s southernmost city, where more than 1.4 million Palestinians are crowded together in tent cities, was “the core of the humanitarian aid operation” in the Palestinian territory.
-
-“An all-out Israeli offensive on the city would not only be terrifying for more than a million Palestinian civilians sheltering there; it would put the final nail in the coffin of our aid programs,” he said.
-
-His comments came after Israeli Prime Minister Benjamin Netanyahu on Sunday reiterated that his country was intent on a ground invasion in Rafah, in its bid for “total victory” over Hamas, whose October 7 attack triggered the war.
-
-...
-
-[Data](articles/f70c878a.json)
-
-[Extended Data](ext_articles/f70c878a.ext.json)
 
 ---

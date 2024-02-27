@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 12:17:31**
+As of **2024-02-27 12:32:52**
 
 ## Newspaper Stats
 
-*Scraped **9,526** Articles*
+*Scraped **9,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,70 @@ newsfirstlk | 363
 economynextcom | 486
 dailyftlk | 504
 islandlk | 508
-adalk | 801
+adalk | 803
 adaderanalk | 1,147
 tamilmirrorlk | 1,168
 virakesarilk | 1,294
 dailymirrorlk | 1,432
-adaderanasinhalalk | 1,446
+adaderanasinhalalk | 1,447
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,519 (99.9%) of 9,526 articles have been extended.
+9,526 (100.0%) of 9,529 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### උද්දික මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වෙයි
+### දක්ෂිණ අධිවේගයේ මාරක අනතුරක්
+
+*2024-02-27 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193875) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ කුරුඳුගහහැතැක්ම ප්‍රදේශයේ සිදුවු රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/25e836fe.json)
+
+---
+
+### Resigns from office
 
 *2024-02-27 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193874) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී උද්ධික ප්‍රේමරත්න මහතා සිය මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වීමේ ලිපිය කථානයකවරයාට භාරදී තිබේ.
+The Anuradhapura District MP, Anuradhapura District MP, has been handed over to a letter of resignation from his seat.
 
-මේ සම්බන්ධයෙන් "අද දෙරණ" කළ විමසීමකදී කථානායක මහින්ද යාපා අබේවර්ධන මහතා ඒ බව තහවුරු කළේය.
+Mr. Speaker Mahinda Yapa Abeywardena confirmed this in response to Ada Derana.
 
 ◼️
 
 [Data](articles/5f57c52d.json)
 
+[Extended Data](ext_articles/5f57c52d.ext.json)
+
 ---
 
-### මැතිවරණ වියදම් නියාමනය ගැන දේශපාලන පක්ෂ දැනුවත් කෙරේ
+### Political parties have been made aware of the regulation of election costs
 
 *2024-02-27 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193873) · `si`
 
-මැතිවරණ වියදම් නියාමන පනත පිළිබඳ දේශපාලන පක්ෂ දැනුවත් කිරීමට ජාතික මැතිවරණ කොමිෂන් සභාව තීරණය කර තිබේ.
+The National Elections Commission has decided to inform the political parties on the Election Costing Registration Act.
 
-මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්. ඒ. එල්. රත්නායක මහතා සඳහන් කළේ, අද (27) සහ මාර්තු 6 යන දිනවල අදාළ දැනුවත් කිරීම් සිදුකෙරෙන බවය.
+Chairman of the Election Commission RM. it. L. Mr. Ratnayake said that awareness will be conducted today and March 6.
 
-මැතිවරණ වියදම් නියාමන පනතට අනුව මැතිවරණ සඳහා මුදල් වැය කිරීම සීමා කළ යුතු වෙයි.
+According to the Elections Registration Act, the cost of spending is limited to elections.
 
-කෙසේ වෙතත් එම පනත සම්මතවීමෙන් පසු එක් මැතිවරණයක් හෝ පවත්වා නොමැතිවීම හේතුවෙන් අදාළ පනතේ විධිවිධාන සම්බන්ධයෙන් දේශපාලඥයින්ට නිසි අවබෝධයක් ලබාදීමේ අරමුණින් එම සාකච්ඡා පැවැත්වෙයි.
+However, the discussions will be held to give a proper understanding of the provisions of the relevant Act due to the absence of any election after the end of the bill.
 
-මෙහිදී පක්ෂ නියෝජනය කරමින් රංජිත්මද්දුම බණ්ඩාර, සිසිර ජයකොඩි, උවිඳු විජේවීර ඇතුළු පිරිසක් සාකච්ඡාවට සහභාගි වූහ.
+Ranjitaddum Bandara, Sisira Jayakody and Uvindu Wijeweera and Uvindu Wijeweera were also present.
 
 ◼️
 
 [Data](articles/7705dfde.json)
+
+[Extended Data](ext_articles/7705dfde.ext.json)
 
 ---
 
@@ -84,6 +100,8 @@ Speaker Mahinda Yapa Abeywardena was not reachable for a comment on the Oppositi
 
 [Data](articles/d14672a9.json)
 
+[Extended Data](ext_articles/d14672a9.ext.json)
+
 ---
 
 ### All major party leaders Sri Lanka remained unpopular in January: poll
@@ -99,6 +117,8 @@ The IHP said in a statement on February 22 that favourability estimates for each
 ...
 
 [Data](articles/a43e3408.json)
+
+[Extended Data](ext_articles/a43e3408.ext.json)
 
 ---
 
@@ -148,6 +168,24 @@ The Government of Sri Lanka is a $ 1 million donated by the UN official agencies
 
 ---
 
+### පාරම්පරික වෛද්‍යවරුන් 32ක් ලියාපදිංචි කරයි
+
+*2024-02-27 10:57:23* · [`adalk`](https://www.ada.lk/breaking_news/පාරම්පරික-වෛද්‍යවරුන්-32ක්-ලියාපදිංචි-කරයි/11-408297) · `si`
+
+ආයුර්වේද වෛද්‍ය සභාවේ ලියාපදිංචියට සුදුසුකම් ලත් පාරම්පරික දේශීය වෛද්‍යවරුන් තිස් දෙදෙනෙකුට ආයුර්වේද වෛද්‍ය සභාවේ ලියාපදිංචි සහතික ප්‍රදානය කිරීමේ උත්සවයක් දේශීය වෛද්‍ය රාජ්‍ය අමාත්‍ය නීතිඥ සිසිර ජයකොඩි මහතාගේ ප්‍රධානත්වයෙන් මහරගම නාවින්න දේශීය වෛද්‍ය ක්‍රම පිළිබඳ ජාතික ආයතනයේ දී (26) දා පැවැත්වුණි.
+
+එහිදී මුදලට සීමා නොවී , වටිනා කාලය, ධනය,ශ්‍රමය වැය කරලමින් දිවයින පුරා රෝගීන් සුවපත් කොට  ජාතික සෞඛ්‍ය සේවාවට අපරිමිත සේවාවක් සිදු කළ පිරිසකගෙන් අයදුම් පත් කැඳවා ලිඛිත හා වාචික පරීක්ෂණයක් සිදුකොට ඉන් සුදුසුකම් ලත් පාරම්පරික වෛද්‍යවරුන් තිස් දෙදෙනෙකුට මෙහිදී ලියාපදිංචි සහතික ප්‍රදානය කරන ලදී.
+
+ඒ අතර සර්වාංග වෛද්‍ය වරුන් 14 දෙනෙකු, කැඩුම් බිඳුම් වෛද්‍ය වරුන් 10 දෙනෙකු,චර්ම රෝග වෛද්‍ය වරුන් දෙදෙනකු  සහ සර්ප විෂ වෛද්‍ය 05 දෙනෙකු  සහ අක්ෂි වෛද්‍ය වරයෙකු ඇතුළු 32 මෙහිදී ආයුර්වේද වෛද්‍ය සභාවේ ලියාපදිංචි සතිකය ලබාගන්නා ලදී.
+
+මෙම අවස්ථාවට ආයුර්වේද  කොමසාරිස් ජනරාල් වෛද්‍ය ධම්මික අබේගුණවර්ධන , ආයුර්වේද වෛද්‍ය සභාවේ ලේඛකාධිකාරී වෛද්‍ය අජිත් කුමාර,මහතා ඇතුළු පිරිසක් සහභාගී වී සිටියහ.
+
+◼️
+
+[Data](articles/726c78fd.json)
+
+---
+
 ### Neil Vagner retires
 
 *2024-02-27 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193871) · `si`
@@ -190,6 +228,20 @@ PMD said contributions to the fund by the citizens are encouraged.
 
 ---
 
+### ශ්‍රී ලන්කන් ගුවන් ගමන් 6ක් අවලංගු කරයි
+
+*2024-02-27 10:49:22* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-ගමන්-6ක්-අවලංගු-කරයි/11-408296) · `si`
+
+කටුනායක ගුවන් තොටුපොළෙන් ඉන්දියාව , මැදපෙරදිග සහ තායිලන්තය බලා පිටත්ව යාමට නියමිත ගුවන් යානා 07 ක් 02/27 දින සිය ගුවන් ගමන් අවලංගු කර ඇති බව කටුනායක ගුවන් තොටුපොළ ගුවන් යානා තොරතුරු මධ්‍යස්ථානයේ ( Flight Information ) ප්‍රකාශිකාවක පැවසුවාය.
+
+මෙම ගුවන් යානා අතරින් 06 ක් ම ශ්‍රී ලන්කන් ගුවන් සේවයට අයත් ගුවන් යානා වීම විශේෂත්වයකි. ඒ අනුව 02/27 දින අලුයම 01.10 ට ඉන්දියාවේ බැංගලෝර් නුවර බලා පිටත්ව යාමට නියමිතව තිබූ ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.-173 දරන ගුවන් යානය , අලුයම 01.15 ට තායිලන්තයේ බැංකොක් නුවර බලා පිටත්ව යාමට නියමිත ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 402 දරන ගුවන් යානය , දහවල් 01.45 ට ඉන්දියාවේ චෙන්නායි නුවර බලා පිටත්ව යාමට නියමිත ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 127 දරන ගුවන් යානය ද එසේ කටුනායක ගුවන් තොටුපොළෙන් පිටත් වීම  අවලංගු වී තිබේ .
+
+...
+
+[Data](articles/c4b5b254.json)
+
+---
+
 ### Sri Lanka to seek private investments in water sector
 
 *2024-02-27 10:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-private-investments-in-water-sector-152203/) · `en`
@@ -205,6 +257,8 @@ A water tariff formula, which will be reviewed annually or bi-annually, has been
 ...
 
 [Data](articles/d7d2ccfa.json)
+
+[Extended Data](ext_articles/d7d2ccfa.ext.json)
 
 ---
 
@@ -283,6 +337,8 @@ The Colombo Stock Exchange opened down; The All Share Price Index was down 0.04 
 ◼️
 
 [Data](articles/d02c1465.json)
+
+[Extended Data](ext_articles/d02c1465.ext.json)
 
 ---
 
@@ -649,6 +705,8 @@ It also has to ensure that Lanka does not become a conduit that other countries 
 ◼️
 
 [Data](articles/db44d44b.json)
+
+[Extended Data](ext_articles/db44d44b.ext.json)
 
 ---
 
@@ -1931,59 +1989,5 @@ The President's Media Unit noted that he had received his appointment letter sho
 [Data](articles/c95d8ff0.json)
 
 [Extended Data](ext_articles/c95d8ff0.ext.json)
-
----
-
-### Declining rubber industry’s skilled tapper shortage set to receive groundbreaking support through Automated Rubber Harvesting Robots by IHT
-
-*2024-02-26 19:15:21* · [`dailyftlk`](https://www.ft.lk/business/Declining-rubber-industry-s-skilled-tapper-shortage-set-to-receive-groundbreaking-support-through-Automated-Rubber-Harvesting-Robots-by-IHT/34-758869) · `en`
-
-Intelligent Harvesting Technologies Ltd. (IHT) unveils its latest, urgently needed innovation – the Automated Rubber Harvesting Robot, which is set to address a serious concern in Sri Lanka’s declining rubber industry.
-
-Since 1876, the Sri Lankan rubber industry has been deeply rooted in the cultivation of rubber trees and the meticulous processing of latex into various products such as tires and gloves and has been known for its worldwide quality recognition.
-
-However, the industry faces dire challenges, especially the drastic declining availability of skilled tappers and the lack of protection from adverse weather conditions. This shortage has led to severe under-tapping and the abandonment of plots, plummeting the rubber output in the country. From 150,000 metric tons (MT) in 2012, Sri Lanka’s rubber output sharply dropped - to below 70,000 MT in 2023.
-
-...
-
-[Data](articles/47f5a68f.json)
-
-[Extended Data](ext_articles/47f5a68f.ext.json)
-
----
-
-### New IGP Deshabandu Tennakoon
-
-*2024-02-26 19:14:03* · [`adalk`](https://www.ada.lk/breaking_news/නව-පොලිස්පති-දේශබන්දු-තෙන්නකෝන්/11-408292) · `si`
-
-Ranil Wickremesinghe has said that Ranil Wickremesinghe has said that Ranil Wickremesinghe has taken steps to appoint Deshabandu Tennakoon as the new IGP.
-
-This appointment has been made in accordance with the President's powers. Deshabandu Tennakoon was appointed Acting IGP three months ago.
-
-◼️
-
-[Data](articles/440136a5.json)
-
-[Extended Data](ext_articles/440136a5.ext.json)
-
----
-
-### Special notification
-
-*2024-02-26 19:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-விசேட-அறிவித்தல்/175-333842) · `ta`
-
-The Ministry of Education has issued a circular on the precautionary measures taken for school children due to the prevailing drought climate across Sri Lanka.
-
-In the circular, a list of possible heat muscle cramps, thermal fatigue and thermal stroke and the precautionary measures to reduce their impact.
-
-The Ministry has also issued instructions on exterior activities, sports and other outdoor activities during high temperatures.
-
-The Ministry has requested the school administration to provide frequent water breaks for students during this period.
-
-◼️
-
-[Data](articles/a193bf0e.json)
-
-[Extended Data](ext_articles/a193bf0e.ext.json)
 
 ---

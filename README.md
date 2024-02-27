@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 11:51:48**
+As of **2024-02-27 12:02:29**
 
 ## Newspaper Stats
 
-*Scraped **9,518** Articles*
+*Scraped **9,519** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 95
-bbccomsinhala | 115
+bbccomsinhala | 116
 dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 481
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,518 (100.0%) of 9,518 articles have been extended.
+9,519 (100.0%) of 9,519 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -729,6 +729,32 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/02dd6a6e.json)
 
 [Extended Data](ext_articles/02dd6a6e.ext.json)
+
+---
+
+### 'White Face Party', who became 'little moscow'
+
+*2024-02-27 05:47:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd171w2r6lpo) · `si`
+
+International attention has been paid to a party that was to be held at a travel restaurant in Unawatuna, Galle.
+
+The party received international attention with the organizers that the organizers had only separated "white faces".
+
+The party was planned to be held on Saturday, February 24, Sarayka Lounge.
+
+However, Sarayka Lounge had stated that steps have been taken to stop the party immediately to operate on February 23.
+
+It hosting various events in his restaurant and that this is also such a time or program, or before racial expressions or organizations.
+
+In the propaganda of the Social Media, the social media was constantly led to the party that was restricted to tourists.
+
+The local government media users were severely criticized by the colored decisions through such parties.
+
+...
+
+[Data](articles/e7b72f65.json)
+
+[Extended Data](ext_articles/e7b72f65.ext.json)
 
 ---
 
@@ -1963,25 +1989,5 @@ His comments came after Israeli Prime Minister Benjamin Netanyahu on Sunday reit
 [Data](articles/f70c878a.json)
 
 [Extended Data](ext_articles/f70c878a.ext.json)
-
----
-
-### Circular issued on essential precautions for schoolchildren during dry weather
-
-*2024-02-26 18:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Circular-issued-on-essential-precautions-for-schoolchildren-during-dry-weather/108-277748) · `en`
-
-Colombo, Feb 26 9Daily Mirror) - The Education Ministry has released a circular outlining necessary precautions for schoolchildren amidst the prevailing dry weather conditions nationwide.
-
-The circular includes a set of guidelines concerning potential heat-related issues such as heat cramps, heat exhaustion and heat stroke, along with precautions aimed at minimising their effects.
-
-Additionally, the Ministry has issued instructions regarding outdoor activities, advising the limitation of sports and other outdoor activities during periods of high temperatures.
-
-School authorities have also been urged to ensure that students receive necessary and regular water breaks during this period.
-
-◼️
-
-[Data](articles/2baff130.json)
-
-[Extended Data](ext_articles/2baff130.ext.json)
 
 ---

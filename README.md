@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 18:50:53**
+As of **2024-02-27 19:02:38**
 
 ## Newspaper Stats
 
@@ -26,97 +26,111 @@ adaderanasinhalalk | 1,458
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,619 (99.9%) of 9,624 articles have been extended.
+9,624 (100.0%) of 9,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### விமான படையின் ஆண்டு விழாவை முன்னிட்டு வடக்கில் காணிகளை விடுவிக்க வேண்டும்
+### Lands in the north to mark the anniversary of the Air Force
 
 *2024-02-27 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177451) · `ta`
 
-இலங்கை விமானப் படையின் 73ஆவது ஆண்டு நிறைவு விழாவை முன்னிட்டு , வடக்கில் விமானப் படையின் கட்டுப்பாட்டில் உள்ள தனியார் விமானப் படையினர் விடுவிக்க வேண்டும் என நாடாளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன் கோரியுள்ளார்.
+Parliamentarian Anganan Ramanathan has called for the release of private air forces controlled by the Air Force in the North to mark the 73rd anniversary of the Sri Lankan Air Force.
 
-யாழ்.ஊடக அமையத்தில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+He said this during a media briefing held at the Jaffna Media Center on Tuesday (27).
 
-விமானப் படையின் 73ஆவது ஆண்டு நிறைவு விழா இம்முறை வடக்கை மையப்படுத்தி நடைபெறவுள்ளது. அதனை முன்னிட்டு வடக்கில் விமான படையின் வசம் உள்ள தனியார் காணிகளை விடுவிக்க விமான படையினர் நடவடிக்கை எடுக்க வேண்டும்.
+The 73rd anniversary of the Air Force will be centered on the North. Air Force should take steps to release private lands in the North.
 
-வடக்கில் பாதுகாப்பு தேவைகளுக்கு என தேசிய பாதுகாப்பின் கீழ் காணிகளைச் சுவீகரித்து அதனை வேறு தேவைகளுக்குப் பயன்படுத்துவதை ஏற்றுக்கொள்ள முடியாது.
+It is not acceptable to take up land under national security for security purposes in the North and use it for other purposes.
 
-அதேபோல மாதகல் விகாரைக்கு அருகில் மீன் பிடியில் ஈடுபட வேண்டாம் என கடற்படையினர் தடை விதித்துள்ளனர். பாதுகாப்பு தரப்பினர் ஒரு மதம் சார்ந்து செயற்பட முடியாது. அது சட்டவிரோதமானது.
+Similarly, the Marines have banned fishing near Madhakal Vihara. Security side cannot act on a religion. It is illegal.
 
-யாழ்ப்பாணம் சர்வதேச விமான நிலையத்திற்கு என மக்களிடம் கையளிக்கப்பட்ட காணிகளை மீள சுவீகரிப்பதற்கு நடவடிக்கைகள் எடுக்கப்படுவதற்கு மக்கள் எதிர்ப்பு தெரிவித்து வருகின்றனர்.
+People are protesting against the recruitment of the lands handed over to the Jaffna International Airport.
+
+The lands that have been preceded to the airport are not yet paid for compensation. In this case, people are protesting that the land cannot be taken up.
 
 ...
 
 [Data](articles/01c94e08.json)
 
+[Extended Data](ext_articles/01c94e08.ext.json)
+
 ---
 
-### காணாமலாக்கப்பட்டோருக்கான நீதி என்பது கானல் நீராகவே உள்ளது - அருட்தந்தை மா.சத்திவேல்
+### Justice for the missing is the water of the canal - the blessing
 
 *2024-02-27 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177450) · `ta`
 
-காணாமலாக்கப்பட்டோருக்கான நீதி என்பது கானல் நீராகவே உள்ளது. காலத்தை இழுத்து அடித்து நீதியை மறுக்கும் செயற்பாடுகளையே அனைத்து ஆட்சியாளர்களும் தொடர்ந்து செய்து கொண்டிருக்கின்றனர் என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் தெரிவித்துள்ளார்.
+Justice for the missing is the water of the canal. "All the rulers are continuing the process of dragging and denying justice," said Arundhantha Sathivel, an activist for social justice and a co -ordinator of the national organization for the release of political prisoners.
 
-வடகிழக்கில் அரச பாதுகாப்பு படைகளால் யுத்த காலப்பகுதியில் பலவந்தமாக கடத்தப்பட்டு காணமலாக்கப்பட்டவர்களின் உறவுகளால் நீதி கேட்டு தொடர் போராட்டம் ஆரம்பித்து அதன் ஏழாவது நிறைவு தினத்திலே மீண்டும் ஒரு கவனயீர்ப்பு போராட்ட பேரணியை நடத்தி ஐ.நா மனித உரிமை பேரவையின் ஆணையாளருக்கு ஆறு அம்ச கோரிக்கைகளை முன் வைத்துள்ளனர்.
+In the Northeast, state security forces have begun a series of protests on its seventh closing day and held six demands to the Commissioner of the UN Human Rights Council on its seventh closing day.
 
-இக் கோரிக்கைகள் நியாயமானது. உறவுகளை பறிகொடுத்த வலிகளோடு தொடர் போராட்டங்களை நடத்தி வரும் வடகிழக்கு காணாமலாக்கப்பட்ட உறவுகளின் போராட்டத்திற்கு கிறிஸ்தவ ஒத்துழைப்பு இயக்கம் தமது முழுமையான ஆதரவை நடத்துவதோடு முன்வைக்கப்பட்டுள்ள கோரிக்கைகளை துரிதமாக நிறைவேற்றுமாறு ஐ.நா மனித உரிமை பேரவையை வலியுறுத்துகின்றது.
+These demands are fair. The UN Human Rights Council (UNHRC) urges the UN Human Rights Council to expedite the demands of the Christian cooperation movement for the struggle of the missing relations that have been carrying out a series of protests with the pains of relationships.
 
 ...
 
 [Data](articles/3e3e290f.json)
 
+[Extended Data](ext_articles/3e3e290f.ext.json)
+
 ---
 
-### කෘෂිකර්ම ඇමතිගෙන් දැඩි නියෝගයක්
+### Minister of Agriculture
 
 *2024-02-27 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193886) · `si`
 
-ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව යටතේ පවතින "ඵලදාවර්ධන හා අලෙවි අංශය" වහාම ක්‍රියාත්මක වන පරිදි වසා දමන ලෙස අමාත්‍ය මහින්ද  අමරවීර  මහතා ගොවිජන කොමසාරිස් ජනරාල්වරයා වෙත උපදෙස් ලබාදී තිබේ.
+Minister Mahinda Amaraweera has instructed the Agrarian Commissioner General of Amarane Amaraweera to collect immediately under the Department of Agrarian Development Department.
 
-එම අංශය මගින් වැඩිපුරම සිදුකරනු ලබන්නේ ඉඩම් ගොඩකිරීමට උපදෙස්දීම බවත්, ඉන් කිසිදු ඵලදාවර්ධන කටයුත්තක් සිදුනොවන බවයි නිලධාරින් අමාත්‍යවරයාට දැනුම් දී තිබුණි.
+The officials had informed the Minister that the most performed most of the lands.
 
-ඒ අනුව රජය කුඹුරු ගොඩකිරීම, ප්‍රතිපත්තියක් ලෙස තහනම් කර ඇති පසුබිමක එම අංශය වසා දැමීමට උපදෙස් ලබා දී ඇති බව වාර්තා වෙයි.
+Accordingly, it is reported that the government has instructed to close the sector on a prohibition of paddy lands and a policy.
 
-එමෙන්ම අදාළ අංශය අපනයනය සඳහා භෝග කිරීමේ හා ව්‍යාප්ත කිරිමේ ඒකකයක් ලෙස ද ස්ථාපිත කිරීමට තීරණය කර ඇති බව කෘෂිකර්ම අමාත්‍යාංශය සඳහන් කළේය.
+The Ministry of Agriculture stated that it has been decided to establish the sector as a crop and expansion unit.
 
 ◼️
 
 [Data](articles/37ad153a.json)
 
+[Extended Data](ext_articles/37ad153a.ext.json)
+
 ---
 
-### கோளாறு காரணமாக ஏழு விமானங்கள் தாமதம்
+### Seven flights delayed due to disorder
 
 *2024-02-27 18:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோளாறு-காரணமாக-ஏழு-விமானங்கள்-தாமதம்/175-333900) · `ta`
 
-கட்டுநாயக்க சர்வதேச விமான நிலையத்தில் இருந்து இந்தியா, மத்திய கிழக்கு மற்றும் தாய்லாந்து ஆகிய நாடுகளுக்கு புறப்படவிருந்த ஏழு விமானங்கள் தொழில்நுட்ப கோளாறு காரணமாக இன்று தாமதமாகியுள்ளதாக விமான தகவல் மைய அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+Seven flights to India, the Middle East and Thailand from the Katunayake International Airport have been delayed due to a technical failure today, an airplane official said.
 
-அதன்படி, அதிகாலை 1.10 மணிக்கு இந்தியாவின் பெங்களூருக்கு செல்லவிருந்த யுஎஸ் 173 விமானமும், தாய்லாந்தின் பாங்கொக் நகருக்கு அதிகாலை 1.15 மணிக்கு புறப்படவிருந்த யுஎல் 402 விமானமும், சென்னை செல்லவிருந்த யுஎல் 135 இலங்கை விமானமும் இன்று காலை தாமதமானது  .
+Accordingly, the US -173 flight to Bangalore in India, the UL 402, and the UL 135 Sri Lankan flight from Chennai to Bangalore at 1.10 am, and the UL 135 Sri Lankan flight to Chennai at 1.15 am.
 
 ◼️
 
 [Data](articles/cfc5593f.json)
 
+[Extended Data](ext_articles/cfc5593f.ext.json)
+
 ---
 
-### திருகோணமலை கடற்கரை பகுதியில் சட்டவிரோத வியாபார நிலையங்கள் !
+### Illegal businesses in Trincomalee coast
 
 *2024-02-27 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177449) · `ta`
 
-திருகோணமலை கடற்கரை பகுதியில் சட்டவிரோதமாக அமைக்கப்பட்ட வியாபார நிலையங்கள் குறித்து நகரசபையின் கவனத்திற்கு கொண்டுவரப்பட்டுள்ளது.
+The municipality has been brought to the notice of illegal business centers in the Trincomalee coast.
 
-திருகோணமலை கடற்கரையை அண்டி சவுக்கு மரங்கள் நடப்பட்டுள்ள காணிப்பகுதியில் பூஜாபூமி எனும் அடிப்படையிலாக விகாரைக்கென காணிப்பகுதி ஒன்று அரச உறுதிப்பத்திரம் ஊடாக வழங்கப்பட்டிருந்தது.
+On the basis of Poojabhumi on the land where the trees were planted on the coast of Trincomalee, a land was given through a state commitment.
 
-குறித்த பகுதியானது விகாரைக்காக வழங்கப்பட்டிருந்த நிலையில் கடந்த 2014ம் ஆண்டு அப்பகுதியில் வேலிகள் அமைக்கப்பட்டிருந்தன.
+The fences were set up in the area in 2014 as the area was provided for the Vihara.
 
-குறித்த விகாரைக்கென ஒதுக்கப்பட்டிருந்த இடத்தில் தனிப்பட்ட இடம் என கருதப்படும் வகையில் சிற்றுண்டிகள் மற்றும் மென்பானங்கள் விற்பனை செய்யும் நிலையம் ஒன்றினை தனி நபர் ஒருவர் அமைத்த நிலையில் அதனை அவதானித்த சமூக அமைப்புக்கள் திருகோணமலை நகர சபை செயலாளரின் கவனத்திற்கு கொண்டுவந்திருந்தனர்.
+The social organizations that observed it had been brought to the notice of the Trincomalee Municipal Council Secretary, where an individual had set up a station for snacks and soft drinks to be considered as a private location for the Vihara.
+
+Speaking to reporters subsequently, the President of the Trincomalee People's Union, Roshan Akmeemana, said that the municipal, coastal security department and the local development authorities have been deployed to the attention of the Municipal Council, Coastal Protection Department and the Local Development Authority.
 
 ...
 
 [Data](articles/b1229784.json)
+
+[Extended Data](ext_articles/b1229784.ext.json)
 
 ---
 

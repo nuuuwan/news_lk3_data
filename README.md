@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 18:08:35**
+As of **2024-02-27 18:20:16**
 
 ## Newspaper Stats
 
-*Scraped **9,612** Articles*
+*Scraped **9,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ islandlk | 511
 adalk | 811
 adaderanalk | 1,158
 tamilmirrorlk | 1,177
-virakesarilk | 1,315
+virakesarilk | 1,316
 dailymirrorlk | 1,449
-adaderanasinhalalk | 1,453
+adaderanasinhalalk | 1,457
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,612 (100.0%) of 9,612 articles have been extended.
+9,612 (99.9%) of 9,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### හමුදා කඳවුරේ සෙබළාගේ මරණයට සෙබළුන් 4ක් අත්අඩංගුවට
+
+*2024-02-27 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193885) · `si`
+
+හොරණ දොඹගොඩ යුද හමුදා කඳවුරට අනුයුක්තව සේවය කරමින් සිටියදී මියගිය හමුදා සෙබළෙකුගේ මරණයට අදාළව සැකපිට එම කඳවුරේම සෙබළුන් සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+යුද හමුදා පොලීසිය භාරයේ රඳවාගෙන ප්‍රශ්න කිරීමේදී සහ මහෙස්ත්‍රාත් පරීක්ෂණයේදී ලබාදුන් ප්‍රකාශ එකිනෙකට පරස්පර වීම හේතුවෙන් එම සෙබළුන් අත්අඩංගුවට ගෙන තිබේ.
+
+හමුදා කඳවුරේ පොකුණක තිබී මියගිය හමුදා සෙබළාගේ සිරුර පසුගිය ජනවාරි මාශයේදී සොයාගනු ලැබීය.
+
+මියගිය හමුදා සෙබළා දොඹගොඩ යුද හමුදා කඳවුරේ යුද උපකරණ බලකායේ ක්‍රීඩා  උපදේශකවරයෙකු ලෙස කටයුතු කර තිබුණි.
+
+වැඩිදුර පරීක්ෂණවලදී අනාවරණය වී ඇත්තේ සැකපිට අත්අඩංගුවට ගත් සෙබළුන් සිව්දෙනා සමග මියගොස් ඇති හමුදා සෙබළා කඳවුර තුළ මත්පැන් සාදයක් පවත්වා ඇති බවය.
+
+අනතුරුව ඔවුන් විසින් කඳවුර තුළ ඇති පොකුණේ තරගයට පිහිනීමට යෝජනාවක් ගෙනවිත් ඇති බවත් එහිදී මියගොස් ඇති සෙබළා පොකුණට බැස පිහිනායමින් සිටියදී දියේ ගිලී මියගොස් ඇති බවටත් පොලීසිය සැකපළ කරයි.
+
+එම අවස්ථාවේදී සැකකාර සෙබළුන් ඒ පිළිබඳව කිසිවෙකුටත් නොදන්වා මියගිය හමුදා සෙබළාගේ ජංගම දුරකථනය ද පොකුණට විසිකර දමා ගොස් ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/212808d1.json)
+
+---
+
+### பத்தாயிரம் ரூபாவை இலஞ்சமாகப் பெற்ற இரு பொலிஸாருக்கும் விளக்கமறியல்!
+
+*2024-02-27 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177447) · `ta`
+
+போக்குவரத்து விதிமுறைகளை மீறியதற்காக பொலிஸாரால் பெறப்பட்ட சாரதி ஒருவரின் அனுமதிப்பத்திரத்தை விடுவிக்க பத்தாயிரம் ரூபாவை இலஞ்மாகப் பெற்றதாகக்  கூறப்படும்  இத்தபான  பொலிஸ் நிலையத்தைச் சேர்ந்த பொலிஸ் கான்ஸ்டபிள் மற்றும் பயிலுனர் பொலிஸ் உத்தியோகத்தர் ஆகியோரை  எதிர்வரும் மார்ச் மாதம் 12 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதிவான் பிரசன்ன அல்விஸ் செவ்வாய்க்கிழமை (27) உத்தரவிட்டுள்ளார்.
+
+இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவினால் முன்வைக்கப்பட்ட வாதங்களை பரிசீலித்த நீதிவான், சந்தேக நபர்களான இருவரையும் விளக்கமறியலில் வைக்கப்பட்டனர்.
+
+◼️
+
+[Data](articles/98e8b6af.json)
+
+---
 
 ### Police officer commits suicide inside court premises
 
@@ -47,6 +85,40 @@ Returning to duty from holiday, he committed suicide at the Kodawawa court premi
 [Data](articles/ff787570.json)
 
 [Extended Data](ext_articles/ff787570.ext.json)
+
+---
+
+### අභ්‍යවකාශයට මිනිසුන් යැවීමට ඉන්දියාව සැරසෙයි
+
+*2024-02-27 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193884) · `si`
+
+ලබන වසර සඳහා සැලසුම් කර ඇති ඉන්දියාවේ පළමු අභ්‍යවකාශ ගමන සඳහා ඉන්දීය ගුවන් හමුදාවේ නියමුවන් සිව් දෙනෙක්ව තෝරාගත් බව නිවේදනය කර තිබේ.
+
+එම අභ්‍යවකාශ ගමන "Gaganyaan" ලෙස නම්කර ඇති අතර එමගින් ගගනගාමීන්ව කක්ෂයේ කිලෝ මීටර් 400ක් පමණ දුරකට යවා දින තුනකට පසුව ඔවුන්ව ගෙන්වා ගැනීමට සැලසුම් කර ඇති බව සඳහන් ය.
+
+එම ගමන සාර්ථක කර ගැනීම සඳහා ඉන්දීය අභ්‍යවකාශ ඒජන්සිය (Isro) මේ වනවිට විවිධ අත්හදාබැලීම් සිදුකරමින් සිටියි.
+
+මෙම වසරේදී රොබෝවක් අභ්‍යවකාශයට යැවීමට ඉන්දීය විද්‍යාඥයින් සැලසුම් කර ඇති අතර අනතුරුව ලබන වසරේදී ගගනගාමීන්ව අභ්‍යවකාශයට යැවීමට ඉන්දියාව සැලසුම් කරයි.
+
+◼️
+
+[Data](articles/7eb705bb.json)
+
+---
+
+### ජනතාවට අනතුරු ඇඟවීමක්
+
+*2024-02-27 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193883) · `si`
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් හෙට (28) දිනය සඳහා උණුසුම් කාලගුණය සම්බන්ධයෙන් ඇම්බර් වර්ණයෙන් යුතු අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන් වන්නේ වයඹ, බස්නාහිර සහ දකුණු පළාත්වලත් රත්නපුර දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමේ පවතිනු ඇති බවට අපේක්ෂා කරන බවය.
+
+ඊට අදාළ අවවාදාත්මක නිවේදනය සහ එහිදී අනුගමනය කළ යුතු කරුණු පහතින්.
+
+◼️
+
+[Data](articles/278c386b.json)
 
 ---
 
@@ -79,6 +151,20 @@ The agitation was reportedly launched demanding solutions to several concerns in
 [Data](articles/a8a6b924.json)
 
 [Extended Data](ext_articles/a8a6b924.ext.json)
+
+---
+
+### පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක්
+
+*2024-02-27 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193882) · `si`
+
+ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ සිසුන් සංවිධානය කර තිබූ විරෝධතා පා ගමනකට පොලීසිය ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ලකර තිබේ.
+
+නේවාසිකාගාර ගැටලු, මහපොළ ශිෂ්‍යාධාර ප්‍රමාදවීම්, ආපනශාලා සහ අධ්‍යයන සුබසාධනය යන ගැටලු සඳහා විසඳුම් ඉල්ලා විශ්ව ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ මානවශාස්ත්‍ර හා සමාජීයවිද්‍යා පීඨ ශිෂ්‍ය සංගමය මෙම විරෝධතා පා ගමන සංවිධානය කර තිබුණි.
+
+◼️
+
+[Data](articles/8b8ecb79.json)
 
 ---
 
@@ -1911,93 +1997,5 @@ Police protection has been carried out at the superiority of the Superintendent 
 [Data](articles/3a41a9bb.json)
 
 [Extended Data](ext_articles/3a41a9bb.ext.json)
-
----
-
-### IGP arrives before Supreme Court
-
-*2024-02-27 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IGP-arrives-before-Supreme-Court/108-277800) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - Newly appointed IGP Deshabandu Tennakoon today arrived Supreme Court in connection with a Fundamental Rights petition filed by Energy Analyst Vidhura Ralapanawe challenging summoning him before CID over releasing an official document to social media.
-
-◼️
-
-[Data](articles/4dbaaa09.json)
-
-[Extended Data](ext_articles/4dbaaa09.ext.json)
-
----
-
-### Relief in the fuel price formula
-
-*2024-02-27 09:34:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-சூத்திரத்தில்-நிவாரணம்/175-333868) · `ta`
-
-Electricity Minister Kanjana Wijesekera said that the fuel price formula will be provided in the future.
-
-He said the government would reduce the profit from the government to 4% of the profit from the government.
-
-◼️
-
-[Data](articles/57c00476.json)
-
-[Extended Data](ext_articles/57c00476.ext.json)
-
----
-
-### 15 killed in Burkina Faso
-
-*2024-02-27 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193867) · `si`
-
-Fifteen persons were killed in a shooting incident in Belokina Faso.
-
-The shooting had taken place in a church in the Natural area area, Eastern Province.
-
-The attack was carried out at the time of the prayers of the church and has revealed that a group of Islamic militants were attacked.
-
-A Catholic church in Be Burkina Faso also recently launched a similar attack.
-
-◼️
-
-[Data](articles/aa1e05b4.json)
-
-[Extended Data](ext_articles/aa1e05b4.ext.json)
-
----
-
-### There is no increase in water charges this year
-
-*2024-02-27 09:18:21* · [`adalk`](https://www.ada.lk/breaking_news/මෙම-වසරේ-ජල-ගාස්තු-වැඩි-වීමක්-නැහැ/11-408295) · `si`
-
-The Minister of Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman said that the issues faced by the Tamil people should not be limited to the daily wage and improve their living conditions.
-
-He said that MoUs were signed by the MoUs, claiming to solve the problems of the Kandurata Tamil people, and the MoU would not be necessary to solve the real issues of the people.
-
-Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman expressed these views to the press conference held at the Presidential Media Center yesterday.
-
-The Minister said that the introduction of water charges would not be expected to increase the water charges this year.
-
-"We are not intended to increase water fees this year. Preparation of the Water Tariff Sutlet that we introduced last year is now over. But we are further studying about that prepared water formula. We do not expect to impose an unnecessary burden to the masses by the water formula.
-
-...
-
-[Data](articles/1e3ae39f.json)
-
-[Extended Data](ext_articles/1e3ae39f.ext.json)
-
----
-
-### Firing
-
-*2024-02-27 09:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தையில்-துப்பாக்கிச்-சூடு/175-333866) · `ta`
-
-It is reported that two men fired and fled a hotel in Wellawatte.
-
-The men came on a motorbike and fired a T-56 fire, the police media unit said.. Remble
-
-◼️
-
-[Data](articles/4b98c42f.json)
-
-[Extended Data](ext_articles/4b98c42f.ext.json)
 
 ---

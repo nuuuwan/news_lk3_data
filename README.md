@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 21:52:36**
+As of **2024-02-27 22:04:15**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 1,463
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,651 (100.0%) of 9,655 articles have been extended.
+9,655 (100.0%) of 9,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### පොලිස්පති වෙනුවෙන් ආ හිමිවරු
+### Owners for IGP
 
 *2024-02-27 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193891) · `si`
 
-වැඩබලන පොලිස්පතිවරයා ලෙස කටයුතු කළ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයට පත්කිරීම වළක්වන්නැයි ඉල්ලා කාදිනල් හිමිපාණන් ඇතුළු සිවිල් සංවිධාන කිහිපයක් ගොනුකර ඇති මුලික අයිතිවාසිකම් ශ්‍රේෂ්ඨාධිකරණයේදි අද (27) පෙරවරුවේ සලකා බැලුවේය.
+Senior DIG TNA Senior DIG Tennakoon, including the Cardinal Tennakoon, has considered the Cardinal and the Cardinal.
 
-එහිදී ජනාධිපති නීතිඥ මනෝහර ද සිල්වා මහතා අධිකරණය හමුවේ කියා සිටියේ මෙම පෙත්සම් සම්බන්ධයෙන් මැදිහත් වී කරුණු දැක්වීම සඳහා භික්ෂූන් වහන්සේ හත් නමකට අවසර දෙන ලෙස ඉල්ලා මෝසමක් ගොනුකර ඇති බවයි.
+President's Counsel Manhara de Silva said that a motion has been filed as the monk to intervene in the petitions.
+
+The monsoon of the University of Ruhuna, Ven. Family Schools, Sanskrit and Orienta, Kelaniya, the University of the University of Kelaniya, has been filed by Hon.Prof. Ven
+
+Additional Solicitor General Nerin Tennakoon, who appeared on behalf of the Attorney General, pointed out that this petition is not legal to continue the petition.
+
+Romesh de Silva, who appeared for the respondents, Deshabandu Tennakoon, was also present.
+
+"Lord, the President has appointed my client as the IGP on the recommendations of the Constitutional Council. In the face of the situation, these petitions cannot be maintained. If there is any problem in his appointment, another case must be filed. "
 
 ...
 
 [Data](articles/d683dd3e.json)
+
+[Extended Data](ext_articles/d683dd3e.ext.json)
 
 ---
 
@@ -66,25 +76,27 @@ Last year, Minister Amaraweera gave directives to temporarily halt giving permis
 
 ---
 
-### சிறுவன் துஷ்பிரயோகம்; சந்தேகநபருக்கு 7 வருட கடூழிய சிறை
+### The boy's abuse;7 years rigorous prison for suspect
 
 *2024-02-27 20:34:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவன்-துஷ்பிரயோகம்-சந்தேகநபருக்கு-7-வருட-கடூழிய-சிறை/175-333902) · `ta`
 
-வலப்பனை - மத்துரட்ட பொலிஸ் பிரதேசத்தில் 14 வயது சிறுவன் ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகம் செய்ததாக குற்றம் சுமத்தப்பட்ட நபருக்கு 7 வருட கடூழிய சிறை தண்டனை வழங்கி தீர்ப்பளிக்கப்பட்டது.
+A 14 -year -old boy was sentenced to 7 years in prison for allegedly sexually abusing a 14 -year -old boy in the Mathuratta police area of Valappanai.
 
-இந்த தீர்ப்பினை நுவரெலியா மேல் நீதிமன்ற நீதவான் விராஜ் வீரசூரிய இன்று (27) மாலை வழங்கினார்.
+The verdict was presented by Nuwara Eliya High Court Magistrate Viraj Weerasuriya this evening.
 
-இந்த வழக்கு கடந்த ஏழு வருடங்களாக நுவரெலியா மேல் நீதி மன்றத்தில் விசாரிக்கப்பட்டு வந்தது.
+The case has been heard in the upper court for the past seven years.
 
-இந்த நிலையில் குற்றவாளியாக இனங்காணப்பட்ட வலப்பனை - மத்துரட்ட பிரதேசத்தை சேர்ந்த மந்திலக்க திஸாநாயக்க 14 வயது சிறுவன் ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகம் செய்ததாக இவருக்கு எதிராக வழக்கு தொடரப்பட்டிருந்தது.
+Mandilaka Dissanayake, a 14 -year -old boy from Valappanai - Mathuratta area, who was found guilty of this, has been prosecuted for allegedly sexually abusing a man three times.
 
-மேலும், பாதிக்கப்பட்ட சிறுவனுக்கு 04 லட்சத்து 50 ஆயிரம் ரூபாய் நஷ்ட ஈடு வழங்க வேண்டும் எனவும் இந்த தொகையை வழங்காத பட்சத்தில் மேலும் மூன்று வருடங்கள் சிறை தண்டனை அனுபவிக்க வேண்டும் எனவும் தீர்ப்பு வழங்கினார்.
+He also ruled that the victim should be compensated for Rs.
 
-அதேநேரத்தில் தீதிமன்ற தண்டனை பணமாக 15 ஆயிரம் வழங்க வேண்டுமென அறிவித்த நீதிபதி இத் தொகையை செலுத்தாத பட்சத்தில் மேலும் மூன்று மாதங்கள் சிறை தண்டனை அனுபவிக்க வேண்டும் எனவும் தனது தீர்ப்பில் குறிப்பிட்டார். R
+At the same time, the judge announced that he would be given 15 thousand money as a penalty and said in his judgment that if the amount did not pay the amount, he would be sentenced to three months in prison.. Remble
 
 ◼️
 
 [Data](articles/2a5416e7.json)
+
+[Extended Data](ext_articles/2a5416e7.ext.json)
 
 ---
 
@@ -134,23 +146,27 @@ The continuation of the national political parties continues. Various elections 
 
 ---
 
-### ගුවන් මගීන්ට සිදුවන අපහසුතාව ගැන ගුවන් තොටුපොළ සමාගමේ සභාපතිගේ කනගාටුව
+### Airport company's chairman's regret over the difficulties of the passengers
 
 *2024-02-27 19:46:41* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-මගීන්ට-සිදුවන-අපහසුතාව-ගැන-ගුවන්-තොටුපොළ-සමාගමේ-සභාපතිගේ-කනගාටුව/11-408313) · `si`
 
-ශ්‍රී ලන්කන් ගුවන් යානා 02/27 දින අවලංගු වීම සහ ප්‍රමාද වීම් වලට ලක් වීම නිසා ගුවන් මගීන් පත් වී ඇති අපහසුතා පිළිබඳ සීමාසහිත ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගමේ සභාපති ඉංජිනේරු අතුල ගල්කැටිය මහතා සිය කනගාටුව පළ කළේය.
+Airport and Aviation Company Limited, Ltdalay, Ltd., Ltd. Ltd. Ltd. Ltd. Ltd. Ltd. Ltd. Ltd., Air Services Company Limited, Ltd. Ltd.
 
-කටුනායක  මාක්ෆෙඩ් පරිශ්‍රයේ පිහිටි නිළ නිවසේ 02/27 දින පස්වරු 01.00 පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී සභාපතිවරයා එසේ කනගාටු පළ කළේය .
+At a press conference held at the Katunayake Markfed premises, the Chairman was so sad at a press conference held at 01.00 pm.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ සභාපතිවරයා ශ්‍රී ලන්කන් ගුවන් සේවය තුළ අර්බුද රාශියක් පවතින බවත් , ඒ අතර තාක්ෂණික ගැටළු , ගුවන් යානා සදහා අමතර කොටස් හිගය , සේවක ගැටළු ඇති බවත් පැවසීය .
+The Chairman added that there are many problems in SriLankan Airlines and that technical issues have technical issues, aircraft extra parts, and employee issues.
 
-මෙම ගැටළු විසදා ගැනීම සදහා තමන් සතුව ද යෝජනා කීපයක් ඇති බවත් , ශ්‍රී ලන්කන් ගුවන් සේවය සමග සාකච්ඡා කර මේ ගැටළු නිරාකරණය කර ගැනීමට හැකි බවත් අතුළ ගල්කැටිය මහතා පැවසීය .
+He said that he had several suggestions to solve these issues and discuss these issues with SriLankan Airlines.
 
-ගුවන් යානා සදහා ප්‍රවේශ පත්‍ර මාස කීපයකට පෙර අලෙවි කරන බවත් , ඒ අතරතුර හදිසියේම ගුවන් යානයක් කාර්මික දෝශයකට ලක් වුවහොත් , එම යානයේ ගුවන් ගමන් අවලංගු කිරීමට සිදු වන බවත් පැවසීය .
+He said that if the aircraft was sold for a few months ago, he said that if an airplane suffered a sudden anxiety, he would have to cancel the aircraft.
 
-...
+Six flight terms were canceled on 02/27 on 02/27.
+
+◼️
 
 [Data](articles/118ca6c2.json)
+
+[Extended Data](ext_articles/118ca6c2.ext.json)
 
 ---
 
@@ -176,19 +192,21 @@ Many sides questioned whether the central bank focused on the country's stockpil
 
 ---
 
-### අධිවේගයේ අනතුරින් කම්කරුවන් දෙදෙනෙක් මරුට
+### Two workers killed in clashes
 
 *2024-02-27 19:35:19* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයේ-අනතුරින්-කම්කරුවන්-දෙදෙනෙක්-මරුට/11-408312) · `si`
 
-දක්ෂිණ අධිවේගී මාර්ගයේබද්දේගම අන්තර් හුවමාරුව ආසන්නයේ සේවය කරමින් සිටි කම්කරුවන් දෙදෙනකු ඒම මාර්ගයේ ගමන්ගත් ලොරි රථයක ගැටීම හේතුවෙන් තුවාල ලබා මියගොස් ඇතැයි පොලිසිය පවසයි.  අද (27) පෙරවරු 11.30ට පමණ මෙම අනතුර සිදුව ඇති අතර බරපතල තත්ත්වයේ සිටි මොවුන්ගාල්ල කරාපිටිය රෝහලට ඇතුලත් කරන විටත් මියගොස් සිට ඇත.
+Two workers who were working near the Southern Expressway on the Southern Expression of the Southern Express Interchange. The accident had occurred at around 11.30 am today.
 
-මෙලෙස මියගොස් ඇත්තේ වලහේන හේවගේ පද්මසිරි (63) සහ අමිල ප්‍රසාද්(32) නැමැති අයයි. මොවුහු ඉමදුව ප්‍රදේශයේ පදිංචිකරුවෝ වෙති.
+The deceased have been identified as Walahena Hewage Padmasiri (63) and Amila Prasad (32). These are residents of Imaduwa.
 
-අධිවේගී මාර්ගයේ 85වන කිලෝමීටරය ආසන්නයේදී මෙම අනතුර සිදුව ඇති බවත් දොඩංගොඩ සිට මාතර බලා ධාවනය වූ ලොරි රථයක මොවුන් ගැටී ඇති බවත් සඳහන් වේ. දක්ෂීණ අධිවේගී මාර්ගයේ ඒම කොටසේ නඩත්තු කටයුත්තක් හේතුවෙන් වාහන ධාවනය ඒක් මංතීරුවකට පමණක් සීමා කර තිබී ඇති අතර ඒම ස්ථානයේ සේවය කරමින් සිටි කම්කරුවන් දෙදෙනකු මෙලෙස අනතුරට පත්වී තිබේ.
+The accident had occurred near the 85nd kilometer of the Expressway, they have clashed with a lorry traveling from Dodangoda to Matara.. The main maintenance of the Testing Highway has been restricted to a lane and two workers who were working at the site were accidentally served.
 
 ◼️
 
 [Data](articles/20861d49.json)
+
+[Extended Data](ext_articles/20861d49.ext.json)
 
 ---
 

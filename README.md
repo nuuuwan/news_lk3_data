@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 02:02:40**
+As of **2024-02-28 02:17:37**
 
 ## Newspaper Stats
 
-*Scraped **9,676** Articles*
+*Scraped **9,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 500
 dailyftlk | 505
 islandlk | 511
 adalk | 819
-adaderanalk | 1,166
+adaderanalk | 1,167
 tamilmirrorlk | 1,182
 virakesarilk | 1,325
 dailymirrorlk | 1,461
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,676 (100.0%) of 9,676 articles have been extended.
+9,676 (100.0%) of 9,677 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,28 @@ He passed away while receiving treatment at a private hospital in Colombo.
 [Data](articles/a1bd2245.json)
 
 [Extended Data](ext_articles/a1bd2245.ext.json)
+
+---
+
+### S. C. Mutukumarana to fill MP seat vacated by Premarathne
+
+*2024-02-27 23:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97579/s-c-mutukumarana-to-fill-mp-seat-vacated-by-premarathne) · `en`
+
+S. C. Mutukumarana is tipped to fill the vacancy in parliament created after the resignation of MP Uddika Premarathne earlier today (Feb.27).
+
+The Anuradhapura District parliamentarian stepped down from his post for reasons yet to be made public.
+
+Premarathne has thus submitted his letter of resignation to the Deputy General Secretary of Parliament Mr. Chaminda Kularatne.
+
+Accordingly, in compliance with Section 64(1) of the Parliamentary Elections Act No. 1 of 1981, the Secretary General of the Parliament is to inform the Chairman of the Election Commission that the seat of Uddika Premarathne, Member of Parliament in the Ninth Parliament, is vacant.
+
+Subsequently, the name of the new MP will be published in the government gazette.
+
+Mutukumarana is next in line on the Sri Lanka Podujana Peramuna (SLPP) list for the Anuradhapura District.
+
+◼️
+
+[Data](articles/21887823.json)
 
 ---
 
@@ -2009,31 +2031,5 @@ He was admitted to the Kilinochchi Hospital and admitted to the Jaffna Bodhana H
 [Data](articles/a5416f91.json)
 
 [Extended Data](ext_articles/a5416f91.ext.json)
-
----
-
-### Charith leadership in Bangladesh
-
-*2024-02-27 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193876) · `si`
-
-Sri Lanka 20 Sri Lanka is responsible for the operation of Sri Lanka in the first two matches of Sri Lanka - Bangladesh 20th Competition.
-
-It was due to the International Cricket Council in the event of the International Cricket Council.
-
-The International Leader (Identally Leader) recently operated by the International Leader Wanindu Hasara to impose a two-year-long verdict with Afghanistan's decision.
-
-Accordingly, on March 4, the first two matches will be lost in the first two matches the first two matches and the responsibility of the Sri Lankan team will be handed over to Charith.
-
-The Selection Committee is focused on the first two matches.
-
-Meanwhile, it is reported that the team is scheduled to be held in the team, instead of a disorder during the Afghan tournament.
-
-Sri Lanka-Bangladeshi Twenty20 tournament will be started in Bangladesh on March 4.
-
-◼️
-
-[Data](articles/b6c1c890.json)
-
-[Extended Data](ext_articles/b6c1c890.ext.json)
 
 ---

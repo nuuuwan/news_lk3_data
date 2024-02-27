@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 08:17:30**
+As of **2024-02-27 08:33:07**
 
 ## Newspaper Stats
 
-*Scraped **9,486** Articles*
+*Scraped **9,491** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ dailyftlk | 504
 islandlk | 508
 adalk | 799
 adaderanalk | 1,142
-tamilmirrorlk | 1,161
+tamilmirrorlk | 1,163
 virakesarilk | 1,294
-dailymirrorlk | 1,425
-adaderanasinhalalk | 1,434
+dailymirrorlk | 1,426
+adaderanasinhalalk | 1,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,482 (100.0%) of 9,486 articles have been extended.
+9,486 (99.9%) of 9,491 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### அரைவாசிக்கும் மேற்பட்ட இலக்கங்கள் பயன்பாட்டிலில்லை
+
+*2024-02-27 08:03:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரைவாசிக்கும்-மேற்பட்ட-இலக்கங்கள்-பயன்பாட்டிலில்லை/175-333862) · `ta`
+
+அரச சேவை அதிகாரிகளுக்கு வழங்கப்படும் தொலைபேசி இலக்கங்களில் கிட்டத்தட்ட அரைவாசி செயலற்றதாகவும், தொடர்பு கொள்ள முடியாததாகவும் உள்ளதாக பேராதனைப் பல்கலைக்கழகத்தின் பொருளாதார மற்றும் புள்ளிவிபரவியல் திணைக்களத்தினால் மேற்கொள்ளப்பட்ட ஆய்வில் தெரியவந்துள்ளது.
+
+நாட்டின் ஒவ்வொரு பிரதேச செயலகத்திலும் கடமையாற்றும் கிராம சேவை உத்தியோகத்தர்கள், சமுர்த்தி அபிவிருத்தி உத்தியோகத்தர்கள் மற்றும் அபிவிருத்தி உத்தியோகத்தர்களின் பிராந்திய செயலகத்தின் இணையத்தளத்தில் பதிவிடப்பட்டுள்ள தொலைபேசி இலக்கங்களை உள்ளடக்கி நாடு பூராகவும் இந்த கணக்கெடுப்பு நடத்தப்பட்டது.
+
+கொடுக்கப்பட்ட குறிப்பிட்ட எண்கள் பயன்பாட்டில் உள்ளதா மற்றும் அழைப்பை ஏற்படுத்தும் போது அந்த எண்ணிலிருந்து பதில் கிடைக்கிறதா என்பது பரிசீலிக்கப்பட்டது. அதன்படி, மொத்தம் 589 தொலைபேசி எண்கள் கணக்கெடுக்கப்பட்டதில், அவற்றில் 286 செயலிழந்து இருப்பது கண்டறியப்பட்டது.
+
+இதற்கிடையில், 22 சதவீத தொலைபேசி எண்கள் செயலில் உள்ளன, ஆனால் பதிலளிக்கவில்லை என்று அறிக்கை வெளிப்படுத்துகிறது, அதே நேரத்தில் 29 சதவீத அழைப்புகளுக்கு பதிலளித்ததாக அறிக்கை கூறுகிறது.
+
+◼️
+
+[Data](articles/f4fb4bd5.json)
+
+---
+
+### மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்
+
+*2024-02-27 07:57:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-அல்லது-இடியுடன்-கூடிய-மழை-பெய்யும்/175-333861) · `ta`
+
+நுவரெலியா, மாத்தளை மற்றும் பொலநறுவை மாவட்டங்களில் அடிக்கடி மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் அனுராதபுரம் மாவட்டத்திலும்  இடைக்கிடையே மழை பெய்யக்கூடும்.
+
+சப்ரகமுவ மற்றும் மேல் மாகாணங்களின்  சில இடங்களிலும் அத்துடன் கண்டி, காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக்  காணப்படுகின்றது.
+
+மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும் அத்துடன் வடக்கு, கிழக்கு, வடமத்திய, வடமேல், தென் மற்றும் ஊவா மாகாணங்களிலும் மணித்தியாலத்திற்கு 30 ‐ 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும் என எதிர்பார்க்கப்படுகிறது.
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+திருகோணமலை  தொடக்கம் மட்டக்களப்பு   ஊடாக பொத்துவில்  வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின் பல இடங்களில்  மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/ee7a003b.json)
+
+---
+
+### කථානායකවරයාට එරෙහි විශ්වාසභංගයට උත්තර ලංකා සභාගයෙත් සහාය
+
+*2024-02-27 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193864) · `si`
+
+කථානායකවරයාට එරෙහිව ගෙන එන විශ්වාසභංග යෝජනාව සඳහා සහාය ලබාදීමට උත්තර ලංකා සභාගය තීරණය කර තිබේ.
+
+ඊයේ (26) රැස්වූ උත්තර ලංකා සභාගයේ පාර්ලිමේන්තු මන්ත්‍රී කණ්ඩායම මෙම තීරණය ගෙන ඇති බව වාර්තා වේ.
+
+මාර්ගගත සුරක්ෂිතතාව පිළිබඳ පනත සම්මත කිරීමේ දී කථානායක මහින්ද යාපා අබේවර්ධන මහතා ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය කර ඇති බවට චෝදනා කරමින් විපක්ෂය විසින් ඔහුට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට තීරණය කර තිබේ.
+
+ඒ සඳහා උත්තර ලංකා සභාගයේ මන්ත්‍රී කණ්ඩායම ද සහාය පළකරන බව පිවිතුරු හෙළ උරුමයේ නායක පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/8aba0064.json)
+
+---
+
+### අනියම් පෙම ජීවිතයක් බිලිගනී
+
+*2024-02-27 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193863) · `si`
+
+වඳුරඹ, නාත්තේවල ප්‍රදේශයේ අනියම් සම්බන්ධතාවයක් හේතුවෙන් තියුණු ආයුධයකින් පහරදී කාන්තාවක් ඝාතනය කර තිබේ.
+
+ඊයේ (26) උදෑසන කාලයේදී නාත්තේවල ප්‍රදේශයේ අතුරු මාර්ගයක කාන්තාවක් තුවාල ලබා වැටී සිටින බවට 119  තොරතුරු මාධ්‍යස්ථානයට තොරතුරක් ලැබී තිබිණි.
+
+ඒ අනුව පොලීසිය සිදුකළ විමර්ශනයේදී අනාවරණය වී ඇත්තේ, මරණකාරිය සමග අනියම් සම්බන්ධතාවයක් පවත්වල ලද පුද්ගලයෙකු විසින් තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවය.
+
+එසේ මියගොස් ඇත්තේ, නාත්තේවල, වඳුරඹ ප්‍රදේශයේ පදිංචි 45 හැවිරිදි කාන්තාවකි.
+
+ඝාතනය සිදුකළ සැකකරු ද වස පානය කර සියදිවි නාසා ගැනීමට උත්සාහ කර ඇති අතර පසුව කරාපිටිය රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටින බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/672616dd.json)
+
+---
 
 ### Biden hopes for ceasefire in days as Israelis, Hamas take part in Qatar talks
 
@@ -48,6 +126,8 @@ Biden said he hoped a ceasefire would start within days. “Well I hope by the b
 
 [Data](articles/56037bc1.json)
 
+[Extended Data](ext_articles/56037bc1.ext.json)
+
 ---
 
 ### Pakistan, Sri Lankan envoys in Belgium discuss matters of mutual interest
@@ -63,6 +143,8 @@ The Pakistan Embassy shared details of the meeting on X, saying that both sides 
 ◼️
 
 [Data](articles/55c69526.json)
+
+[Extended Data](ext_articles/55c69526.ext.json)
 
 ---
 
@@ -83,6 +165,8 @@ The public is kindly requested to take adequate precautions to minimize damages 
 ◼️
 
 [Data](articles/8bd5dbd4.json)
+
+[Extended Data](ext_articles/8bd5dbd4.ext.json)
 
 ---
 
@@ -172,19 +256,23 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### ’மலையக மக்களின் பிரச்சினைகளை மட்டுப்படுத்தக் கூடாது’
+### The problems of the people should not be limited to the problems of the hill country
 
 *2024-02-27 04:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மக்களின்-பிரச்சினைகளை-மட்டுப்படுத்தக்-கூடாது/175-333859) · `ta`
 
-மலையகத் தமிழ் மக்களின் பிரச்சினைகளை நாளாந்த சம்பளத்துக்கு மாத்திரம் மட்டுப்படுத்தக் கூடாது. அவர்களின் வாழ்க்கைத் தரத்தை மேம்படுத்துவதற்கு வீடு, காணி, கல்வி, சுகாதாரம் மற்றும் உட்கட்டமைப்பு வசதிகள் என ஒவ்வொரு பகுதியிலும் கவனம் செலுத்தப்பட வேண்டும் என்று  நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+The problems of the Tamil people should not be limited to the daily salary. Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman said that house, land, education, health and infrastructure should be focused on improve their quality of life.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் ஜீவன் தொண்டமான் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்
+Minister Jeevan Thondaman said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
 
-தோட்ட உட்கட்டமைப்பு அமைச்சின் செயற்பாடுகளைப் பொறுத்தவரை, கடந்த 19 ஆம் திகதி 1300 வீடுகளுக்கு அடிக்கல் நாட்டிவைக்கப்பட்டது. இந்த வேலைத்திட்டத்தில் எவ்வித தாமதமும் இருக்கக் கூடாது என்ற வகையிலேயே ஒரே நேரத்தில் இதனை ஆரம்பித்தோம். எஞ்சியிருக்கின்ற 8700 வீடுகளையும் இவ்வாறே ஒரே நேரத்தில் ஆரம்பிக்கத் திட்டமிட்டுள்ளோம். ஏனென்றால் நாம் ஒரு முறைமையின் அடிப்படையில் செயற்பட விரும்புகின்றோம். இந்த 1300 வீட்டுத்திட்டம் எதிர்வரும் ஓகஸ்ட் மாதம் பூர்த்தி செய்யப்படும்.
+In terms of the activities of the Ministry of Plantation Infrastructure, the foundation stone for 1300 houses was laid on the 19th. We started it simultaneously as there should be no delay in this program. We are planning to start the remaining 8700 houses simultaneously. Because we want to act on the basis of a system. This 1300 housing scheme will be completed in August.
+
+A few political parties have also signed Memorandum of Understanding to address the problems of the Tamil people. Memorandum of Understanding is not required to solve the problems of the Tamil people.
 
 ...
 
 [Data](articles/70ee126f.json)
+
+[Extended Data](ext_articles/70ee126f.ext.json)
 
 ---
 
@@ -479,6 +567,26 @@ One of these Prophets of Doom even went to the extent of giving a time-line when
 [Data](articles/4d10fa22.json)
 
 [Extended Data](ext_articles/4d10fa22.ext.json)
+
+---
+
+### Tourists have no business in doing business
+
+*2024-02-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Tourists-have-no-business-in-doing-business/155-277793) · `en`
+
+Point out such establishments have spread from South to other regions, impacting livelihoods of people dependent on tourism
+
+The tourism sector stakeholders yesterday confirmed that Sri Lanka is witnessing an increasing trend of international visitors engaging in business activities and warned that the industry, in certain parts of the country, is impacted as a result.
+
+Speaking to Mirror Business, the stakeholders representing two of the largest tourism associations asserted that the island nation has been facing this issue for nearly two years.
+
+The industry had alerted the relevant authorities regarding a section of tourists arriving in the country for long stays, carrying out business activities, without proper registrations.
+
+The Sri Lanka Association of Inbound Tour Operators (SLAITO) shared that the majority of these tourist-run businesses started off small but have grown considerably over time.
+
+...
+
+[Data](articles/cfa72205.json)
 
 ---
 
@@ -1869,103 +1977,5 @@ The decision to close the Planetarium stems from the necessity for urgent repair
 [Data](articles/773fe709.json)
 
 [Extended Data](ext_articles/773fe709.ext.json)
-
----
-
-### Meeting between MPs
-
-*2024-02-26 16:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கிடையில்-சந்திப்பு/175-333834) · `ta`
-
-The meeting was held today at the party headquarters in Colombo today (26).
-
-Patali Champika Ranawaka said that the meeting took place in accordance with the resolution taken to inform all political parties and organizations about the content of the 'National Sadya River Edak' publication published by the United Republic Front.
-
-General Secretary Ranjith Mathumapandara, National Organizer Tissa Attanayake, Gayantha Karunathilaka, Mujibur Rahman, its President Patali Champika Ranawaka on behalf of the UNP. Shiral also participated in the event.
-
-◼️
-
-[Data](articles/db475ae2.json)
-
-[Extended Data](ext_articles/db475ae2.ext.json)
-
----
-
-### Another company to fuel trade in Sri Lanka
-
-*2024-02-26 16:21:45* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ඉන්ධන-වෙළඳාමට-තවත්--සමාගමක්/11-408286) · `si`
-
-The fuel market competition has increased to the Sri Lankan market, another foreign company, Australia, Australia.The Company and the Ministry of Power and Energy have said that the agreement was signed on the 22nd.
-
-There are 150 filling stations in the country will be transferred to the company and 50 more filling stations are to be installed by them. They have registered a company called "United Petroleum Lanka Ltd" to carry out operations in Sri Lanka.
-
-◼️
-
-[Data](articles/462ef5a4.json)
-
-[Extended Data](ext_articles/462ef5a4.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover at 1.6bn
-
-*2024-02-26 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-at-1-6bn-152138/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, after the long weekend in the island, data on its site showed.
-
-The broader All Share Index closed down 43.18 points, or 0.41 percent at 10,612; while the S&P SL20 Index closed down at 3,057 points, down 0.25 percent, or 7.64 points.
-
-Turnover was at 1.6 million. Nearly half of this came from trading in Melstacorp Plc (474 million); the share closed up at 88.80.
-
-Expolanka Holdings Plc also saw large volumes being traded, contributing 392 million to the day’s turnover. The share closed up at 146.75.
-
-Sectors that attracted investor interest were Food, Beverage and Tobacco (608mn), Transportation (392mn), and Capital Goods (263mn).
-
-Positive contributors to the indices in the day included Sampath Bank Plc (up at 73.20), Amana Bank Plc (up at 2.30), and Hemas Holdings Plc (74.30). (Colombo/Feb26/2024).
-
-◼️
-
-[Data](articles/930d9ef6.json)
-
-[Extended Data](ext_articles/930d9ef6.ext.json)
-
----
-
-### Opposition Leader’s donation stolen from primary school
-
-*2024-02-26 15:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-Leaders-donation-stolen-from-primary-school/108-277741) · `en`
-
-Avissawella, Feb 26 (Daily Mirror) - The Avissawella Police have initiated an investigation into the theft of Rs. 100,000 from a primary school office, a donation made by Opposition Leader Sajith Premadasa a few days ago.
-
-The donation was part of the 'Sakwala' programme during the Opposition Leader's visit to the Puwakpitiya South Primary School on February 23.
-
-A complaint was made to the Avissawella  police by the school Principal that someone had broken the front door of the office and all the cupboards and the money was stolen.
-
-When the students had come to the school to set up the classrooms, they had seen the office door broken.
-
-◼️
-
-[Data](articles/b78bfdad.json)
-
-[Extended Data](ext_articles/b78bfdad.ext.json)
-
----
-
-### 71% of official telephone lines of state institutions not functioning properly – survey
-
-*2024-02-26 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97543/71-of-official-telephone-lines-of-state-institutions-not-functioning-properly-survey-) · `en`
-
-A survey conducted by the University of Peradeniya has revealed that 71% of the official telephone lines assigned to state institutions in the country are not functioning properly.
-
-The relevant survey was conducted by a group of students from the University’s Department of Economics and Statistics, under the guidance of Prof. Wasantha Athukorala.
-
-Accordingly, Prof. Athukorala revealed that as per the survey, only 29% of the official telephone lines introduced for the public to contact state institutions operate properly, while 49% of these lines do not operate at all and 22%, albeit being in operation, are not answered by anyone.
-
-The survey pool included the official telephone lines assigned to Grama Niladhari officers, Samurdhi officers and development officers from Divisional Secretariats across the island.
-
-...
-
-[Data](articles/76615d1f.json)
-
-[Extended Data](ext_articles/76615d1f.ext.json)
 
 ---

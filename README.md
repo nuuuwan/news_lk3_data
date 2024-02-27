@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 07:52:15**
+As of **2024-02-27 08:02:37**
 
 ## Newspaper Stats
 
-*Scraped **9,479** Articles*
+*Scraped **9,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,75 @@ adaderanalk | 1,139
 tamilmirrorlk | 1,160
 virakesarilk | 1,294
 dailymirrorlk | 1,425
-adaderanasinhalalk | 1,431
+adaderanasinhalalk | 1,434
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,479 (100.0%) of 9,479 articles have been extended.
+9,479 (100.0%) of 9,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### අල්ලස් ගත් පොලිස් සැරයන්ට සහ කොස්තාපල්ට වැඩ වරදී
+
+*2024-02-27 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193862) · `si`
+
+රුපියල් 10,000ක අල්ලස් මුදලක් ලබාගත් ඉත්තෑපාන පොලිස් ස්ථානයේ පොලිස් සැරයන්වරයෙකු සහ පොලිස් කොස්තාපල්වරයෙකු අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+යගිරල ප්‍රදේශයේ පුද්ගලයෙකු විසින් සිදුකරන ලද පැමිණිල්ලකට අනුව සිදුකළ වැටලීමකදී මොවුන් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+
+පැමිණිලිකරුගේ රථ වාහන නඩුවක් සම්බන්ධයෙන් භාරයට ගත් රියදුරු බලපත්‍රය නැවත ලබාදීමට සහ බලපත්‍රය නීත්‍යානුකූල රියදුරු බලපත්‍රයක් ද යන්න පරීක්ෂා කර බලා නීතිමය කටයුතු නොකර සිටීම සඳහා රුපියල් 10,000ක අල්ලස් මුදලක් ඉල්ලා ඇති බව සඳහන්ය.
+
+අදාළ මුදල ලබාගැනීම සහ ඒ සඳහා ආධාර අනුබල ලබාදීම යන චෝදනා සම්බන්ධයෙන් ඉත්තෑපාන පොලිස් ස්ථානයේ සැරයන්වරයෙක් සහ කොස්තාපල්වරයෙකු අත්අඩංගුවට ගෙන ඇති බව අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සඳහන් කළේය.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අද (27) අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/61cd775d.json)
+
+---
+
+### 21ක් හැවිරිදි තරුණයාව පහරදී ඝාතනය කරලා
+
+*2024-02-27 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193861) · `si`
+
+පැරණි ආරවුලක් මත ඇතිවූ බහින් බස්වීමක් දුරදිග ගොස් පිරිසක් විසින් තරුණයෙකුට පහරදී ඝාතනය කර තිබේ.
+
+ඊයේ (26) එම සිදුවීම වාර්තා වී තිබුණේ හබරාදූව කහවැන්නගම, අම්පිටිය ප්‍රදේශයේදී ය.
+
+පොලීසිය පැවසුවේ, එම පිරිස විසින් අදාළ තරුණයාට අතින් පයින් සහ මුගුරුවලින් පහරදී ඇති බවය.
+
+පහරදීමෙන් මියගොස් ඇත්තේ, මිහිරිපැන්න, තල්පේ ප්‍රදේශයේ පදිංචිව සිටි 21 හැවිරිදි තරුණයෙකි.
+
+ඝාතනයට සම්බන්ධ සැකකරුවන් හයදෙනෙකු හඳුනාගෙන ඇති අතර ඉන් එක් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් සැකකරු කහවැන්නගම, තල්පේ ප්‍රදේශයේ පදිංචි 21 හැවිරිදි තරුණයෙකි.
+
+◼️
+
+[Data](articles/941bf04f.json)
+
+---
+
+### විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින් වර්ජනයකට සැරසෙයි
+
+*2024-02-27 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193860) · `si`
+
+‍වැටුප් වැඩිවීමක් ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩලය වැඩවර්ජනයක නිරත වීමට තීරණය කර තිබේ.
+
+විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුවේ සම සභාපති ධම්මික ප්‍රියන්ත මහතා සඳහන් කළේ, හෙට (28) සහ අනිද්දා (29) යන දෙදින තුළ මෙම වැඩවර්ජනය ක්‍රියාත්මක කරන බවය.
+
+සතියක කාලයක් තුළ සිය ගැටලුවට විසඳුම් ලබාදීමට බලධාරීන් පියවර නොගතහොත් ඉදිරියේදී දැවැන්ත වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වන බව ධම්මික ප්‍රියන්ත මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ef301fd9.json)
+
+---
 
 ### Showers in several areas
 
@@ -1913,69 +1971,5 @@ Five school children who were injured in the accident have been hospitalized for
 [Data](articles/b10ed34f.json)
 
 [Extended Data](ext_articles/b10ed34f.ext.json)
-
----
-
-### Patali wants Sri Lanka presidential powers pruned, meets party leaders
-
-*2024-02-26 15:43:00* · [`economynextcom`](https://economynext.com/patali-wants-sri-lanka-presidential-powers-pruned-meets-party-leaders-152127/) · `en`
-
-ECONOMYNEXT — Sri Lanka opposition MP Patali Champika Ranawaka has presented a ‘common minimum progamme’ to President Ranil Wickremesinghe and representatives of the main opposition Samagi Jana Balawegaya (SJB), with a proposal to trim the executive powers of the president’s office to 2015 levels.
-
-Titled “A Step Forward with Unity for Our Nation”, the 32-page document contains proposed short and long term solutions to Sri Lanka’s ongoing issues.
-
-Among these is a proposal that reads “Revisiting and reducing the President’s executive powers to the levels observed in 2015, fostering a more balanced distribution of authority”.
-
-...
-
-[Data](articles/121febaf.json)
-
-[Extended Data](ext_articles/121febaf.ext.json)
-
----
-
-### Air Force Exhibition in Jaffna
-
-*2024-02-26 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177349) · `ta`
-
-The Air Force Air Force Vice Marshal Malawatte said that the Air Force's Education and Technology Exhibition will be held in Jaffna ahead of the 73rd year of the Sri Lanka Air Force.
-
-He said this during a media briefing held in Jaffna on Monday (26).
-
-The Sri Lanka Air Force has launched a project called "Wings of Friendship" in view of the 73rd anniversary of the Air Force.
-
-As a result, 73 thousand books and equipment for school students have been launched under the theme "My Book and North". In addition, 73 schools will be rehabilitated.
-
-In this backdrop, exhibitions will be held at the Jaffna Idawi Ground from the 6th to the 10th of this month.
-
-On the day of the exhibitions, the Air Force's adventure events and art events will be held.
-
-For these exhibitions free for school students and the entry fee for others is 100 rupees. We expect 2 lakh people to arrive at the exhibition.
-
-...
-
-[Data](articles/6749c043.json)
-
-[Extended Data](ext_articles/6749c043.ext.json)
-
----
-
-### Palestinian Prime Minister submits resignation
-
-*2024-02-26 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Palestinian-Prime-Minister-submits-resignation/108-277740) · `en`
-
-DUBAI, Feb 26 -  Palestinian Authority Prime Minister Mohammed Shtayyeh and his government have submitted their resignations, he announced Monday.
-
-“I would like to inform the honorable council and our great people that I placed the government’s resignation at the disposal of Mr. President (Mahmoud Abbas), last Tuesday, and today I submit it in writing,” Shtayyeh said in a post on Facebook.
-
-The resignation comes as the Palestinian Authority (PA), which is seen as corrupt, comes under intense pressure from the United States to reform and improve its governance in the Israeli-occupied West Bank.
-
-The PA was set up in the mid-1990s as a temporary government pending Palestinian independence after the Palestine Liberation Organization signed the Oslo Accords with Israel. It is headquarters in the occupied West Bank city of Ramallah and exercises nominal self-rule in parts of the territory.
-
-...
-
-[Data](articles/e35fa523.json)
-
-[Extended Data](ext_articles/e35fa523.ext.json)
 
 ---

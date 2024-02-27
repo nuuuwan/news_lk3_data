@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 00:47:43**
+As of **2024-02-28 01:02:35**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,673 (100.0%) of 9,675 articles have been extended.
+9,675 (100.0%) of 9,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### சிரேஷ்ட அரசியல்வாதி ரொனி டி மெல் காலமானார்!
+### Senior politician Ronnie de Mel has passed away!
 
 *2024-02-27 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177457) · `ta`
 
-முன்னாள் நிதியமைச்சரும் சிரேஷ்ட  அரசியல்வாதியுமான  ரொனி டி மெல் தனது 98 ஆவது வயதில் செவ்வாய்க்கிழமை (27) காலமானார்.
+Former finance minister and senior politician Ronnie de Mel passed away on Tuesday (27) at the age of 98.
 
-கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையிலேயே அவர் காலமானார்.
+He passed away while receiving treatment at a private hospital in Colombo.
 
 ◼️
 
 [Data](articles/a1bd2245.json)
+
+[Extended Data](ext_articles/a1bd2245.ext.json)
 
 ---
 
@@ -66,19 +68,21 @@ Accordingly, Mutukumarana is reportedly next in line on the Sri Lanka Podujana P
 
 ---
 
-### நம்பிக்கையில்லா பிரேரணைக்கு சகல எதிர்க்கட்சிகளும் ஆதரவு - ரஞ்சித் மத்தும பண்டார
+### All opposition parties support the no -confidence motion - Ranjith Mathuma Bandara
 
 *2024-02-27 23:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177456) · `ta`
 
-சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணைக்குச் சகல எதிர்க்கட்சிகளும் தமது ஆதரவை தெரிவித்துள்ளன. உயர்நீதிமன்றத்தின் தீர்ப்பினை மாற்றும் அதிகாரம் சட்டமா அதிபருக்கு கிடையாது என்பதை சபாநாயகர் தெரிந்து கொள்ள வேண்டும் என்று ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்தார்.
+All opposition parties have expressed their support for the no -confidence motion against the Speaker. United People's Power Secretary Ranjith Mathuma Bandara said the Speaker should know that the Attorney General has no authority to change the ruling of the High Court.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated at a press conference held at the Opposition Leader's Office in Colombo on Tuesday (27).
 
-ஜனாதிபதியும், சபாநாயகரும் சட்ட விரோதமாகச் செயற்படுகின்றனர். எனவே தான் சபாநாயகருக்கு எதிராக நம்பிக்கையில்லா பிரேரணையைக் கொண்டு வந்துள்ளோம். அதற்குச் சகல எதிர்க்கட்சிகளினதும் ஆதரவு கிடைத்துள்ளது. நிகழ்நிலை காப்பு சட்ட மூலம் தொடர்பில் உயர்நீதிமன்றம் வழங்கிய தீர்ப்பினை சபாநாயகர் நடைமுறைப்படுத்தவில்லை. குறித்த சட்ட மூலத்திலுள்ள 57 சரத்துக்களில் 35 சரத்துக்கள் திருத்தப்பட வேண்டும் என்று நீதிமன்றம் தீர்ப்பளித்திருந்தது. ஆனால் சபாநாயகர் அதற்கு எவ்வித நடவடிக்கையும் எடுக்கவில்லை.
+The president and the Speaker are acting illegally. That is why we have brought a no -confidence motion against the Speaker. It has received the support of all opposition parties. The Speaker did not implement the Supreme Court's decision in connection with the Festival Backup Act. The court has ruled that 35 of the 57 stages of the law should be amended. But the Speaker did not take any action.
 
 ...
 
 [Data](articles/60a8670a.json)
+
+[Extended Data](ext_articles/60a8670a.ext.json)
 
 ---
 

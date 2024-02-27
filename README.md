@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 11:02:33**
+As of **2024-02-27 11:17:28**
 
 ## Newspaper Stats
 
-*Scraped **9,512** Articles*
+*Scraped **9,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 481
 dailyftlk | 504
 islandlk | 508
 adalk | 800
-adaderanalk | 1,145
+adaderanalk | 1,146
 tamilmirrorlk | 1,168
 virakesarilk | 1,294
 dailymirrorlk | 1,432
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,511 (100.0%) of 9,512 articles have been extended.
+9,512 (100.0%) of 9,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Sri Lanka to establish ‘Children of Gaza Fund’ to aid victims of violence
+
+*2024-02-27 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97560/sri-lanka-to-establish-children-of-gaza-fund-to-aid-victims-of-violence) · `en`
+
+The Cabinet of Ministers has approved a proposal seeking to create a ‘Children of Gaza Fund’ in aid of the victims of violence in the war-torn Palestinian enclave.
+
+President Ranil Wickremesinghe has tabled the proposal to the Cabinet meeting held on Monday (Feb.26), according to the President’s Media Division (PMD).
+
+Meanwhile, all ministries and state institutions have been instructed to forego Ifthar celebrations and contribute to this fund.
+
+The Sri Lankan government’s donation of USD 1 million will be distributed through official UN agencies to aid affected children.
+
+PMD said contributions to the fund by the citizens are encouraged.
+
+◼️
+
+[Data](articles/cc5c5b90.json)
+
+---
 
 ### Hamas Changes
 
@@ -65,6 +85,8 @@ The committee vowed to resort to a continuous trade union action in the event th
 ◼️
 
 [Data](articles/e913b0cf.json)
+
+[Extended Data](ext_articles/e913b0cf.ext.json)
 
 ---
 
@@ -1953,25 +1975,5 @@ The proposal made by the President of the Minister Wijayines Rajapaksa and the M
 [Data](articles/5cb22661.json)
 
 [Extended Data](ext_articles/5cb22661.ext.json)
-
----
-
-### Cabinet decides to suspend ‘Parate Executions’
-
-*2024-02-26 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97546/cabinet-decides-to-suspend-parate-executions) · `en`
-
-All Parate Executions have been suspended until 15 December, as per a Cabinet decision made on Monday (26 Feb.).
-
-The relevant proposal was furnished by President Ranil Wickremesinghe, in his capacity as the Minister of Finance, following a request made by Justice Minister Wijeyadasa Rajapakshe, Minister of Industries Ramesh Pathirana and President Ranil Wickremesinghe.
-
-Accordingly, the relevant amendments are due to be presented before the Parliament soon.
-
-State Minister of Finance Ranjith Siyambalapitiya had informed Parliament last week that steps will be taken to suspend the powers of the ‘Parate execution’ law for a certain period for the purpose of protecting the small and medium-scale entrepreneurs (SMEs).
-
-◼️
-
-[Data](articles/cbdc261f.json)
-
-[Extended Data](ext_articles/cbdc261f.ext.json)
 
 ---

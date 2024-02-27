@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 17:17:25**
+As of **2024-02-27 17:33:28**
 
 ## Newspaper Stats
 
-*Scraped **9,605** Articles*
+*Scraped **9,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 491
 dailyftlk | 505
 islandlk | 511
 adalk | 811
-adaderanalk | 1,154
+adaderanalk | 1,157
 tamilmirrorlk | 1,177
 virakesarilk | 1,313
 dailymirrorlk | 1,448
@@ -26,11 +26,59 @@ adaderanasinhalalk | 1,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,605 (100.0%) of 9,605 articles have been extended.
+9,605 (100.0%) of 9,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Tear gas fired at protest near Peradeniya University
+
+*2024-02-27 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97571/tear-gas-fired-at-protest-near-peradeniya-university) · `en`
+
+Police have used tear gas and water cannons to disperse a group of protesting students near the Peradeniya University.
+
+◼️
+
+[Data](articles/5a35a737.json)
+
+---
+
+### Heat advisory issued for parts of the island
+
+*2024-02-27 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97570/heat-advisory-issued-for-parts-of-the-island) · `en`
+
+The Department of Meteorology has cautioned the people of rising temperatures in the North-western, Western and Southern provinces as well as in Ratnapura District in the coming hours.
+
+The advisory, issued at 4.30 p.m. today, will be in effect until tomorrow evening (Feb.28). “Heat index, the temperature felt on the human body is expected to increase up to ‘Caution’ level at some places in North-western, Western and Southern provinces and Ratnapura District,” it reads.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity. Continuing activity could result in heat cramps.
+
+For this reason, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to wear lightweight, white or light-coloured clothing.
+
+...
+
+[Data](articles/2d5593cf.json)
+
+---
+
+### SLBFE gives update on Sri Lankan deliveryman shot in Kuwait over delayed order
+
+*2024-02-27 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97569/slbfe-gives-update-on-sri-lankan-deliveryman-shot-in-kuwait-over-delayed-order) · `en`
+
+The Sri Lankan national, who was shot in Kuwait while working as a delivery person, currently remains under the protection of the Sri Lankan Embassy in Jabriya, the Foreign Employment Bureau (SLBFE) says.
+
+The embassy has assured that all required facilities would be provided to Sagara Lakshman who sustained critical injuries after being shot by a customer over a delayed food order.
+
+Meanwhile, the Minister of Labour and Foreign Employment, Manusha Nanayakkara has instructed the SLBFE authorities to look into the matter and take necessary measures without delay.
+
+The 44-year-old, originally from Rajanganaya, faced the harrowing incident on January 11 in Al Jahra city where he was residing. According to his account of the event, the initial location details given by the customer were wrong, and as a result, he had to drive to a different location to complete the delivery.
+
+...
+
+[Data](articles/fa9ac3bd.json)
+
+---
 
 ### The young man who swallowed coins to make the body
 
@@ -1947,57 +1995,5 @@ SriLankan Airlines Navy has only 20 flights and three flights have landed.. Said
 [Data](articles/6677cccf.json)
 
 [Extended Data](ext_articles/6677cccf.ext.json)
-
----
-
-### Gunshots fired into air near tourist hotel in Wellawatta
-
-*2024-02-27 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97556/gunshots-fired-into-air-near-tourist-hotel-in-wellawatta) · `en`
-
-Two unidentified men on a motorcycle have fled after firing gunshots into the air in Wellawatta, the police reported.
-
-The shooting took place in front of a tourist beach hotel located on Marine Drive in Wellawatte this morning (Feb.27).
-
-According to the police media division, the suspects have used a T-56 assault rifle. Nine empty T-56 cartridge cases were found at the scene.
-
-No fatalities were reported in the incident. Wellawatta Police has initiated an investigation to apprehend the gunman and the accomplice.
-
-◼️
-
-[Data](articles/6c0c23ec.json)
-
-[Extended Data](ext_articles/6c0c23ec.ext.json)
-
----
-
-### “The Constitutional Council does not accept Southcony's appointment”
-
-*2024-02-27 08:13:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னாகோனின்-நியமனத்தை-அரசியலமைப்பு-சபை-ஏற்கவில்லை/175-333863) · `ta`
-
-Opposition Leader Sajith Premadasa has said that the Constitutional Council (CC) has not granted permission to appoint the new police chief.
-
-“There were four votes in favor and 2 votes against and two were not voting. At least 5 votes are required to make a decision. The Speaker can vote only if the votes are equal. The votes are not equal.
-
-◼️
-
-[Data](articles/9a26fa01.json)
-
-[Extended Data](ext_articles/9a26fa01.ext.json)
-
----
-
-### Shooting near Hotel in Wellawatte
-
-*2024-02-27 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193865) · `si`
-
-Two persons have been shot dead by two persons near the Wellawatte hotel in Wellawatte.
-
-The police media division stated that the persons have come to a motorbike and shot the air from a T-56 riffle.
-
-◼️
-
-[Data](articles/1d9929a4.json)
-
-[Extended Data](ext_articles/1d9929a4.ext.json)
 
 ---

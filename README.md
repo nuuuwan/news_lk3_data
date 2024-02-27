@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 14:50:44**
+As of **2024-02-27 15:02:50**
 
 ## Newspaper Stats
 
-*Scraped **9,579** Articles*
+*Scraped **9,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 491
 dailyftlk | 505
 islandlk | 509
-adalk | 808
+adalk | 809
 adaderanalk | 1,152
 tamilmirrorlk | 1,174
 virakesarilk | 1,310
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,579 (100.0%) of 9,579 articles have been extended.
+9,579 (100.0%) of 9,580 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -416,6 +416,20 @@ At the same time, the senior police superintendent who carried out administrativ
 
 ---
 
+### ශ්‍රී ලන්කන් ගුවන් ගමන් අවලංගු නැතිලු, ප්‍රමාදයිලු
+
+*2024-02-27 12:10:41* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-ගමන්-අවලංගු-නැතිලු--ප්‍රමාදයිලු/11-408302) · `si`
+
+ශ්‍රී ලන්කන් ගුවන් සේවයේ ගුවන් යානා 06 ක් 02/27 දින අවලංගු වී ඇති බව ප්‍රකාශයට පත් වී තිබුණ ද , එම ගුවන් ගමන් අවලංගු වීම් නොව ප්‍රමාද වීම් බව ශ්‍රී ලන්කන් ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශයේ ප්‍රධානී දීපාල් පෙරේරා මහතා පැවසීය .
+
+එහෙත් කටුනායක ගුවන් තොටුපොළ ගුවන් යානා තොරතුරු මධ්‍යස්ථානයේ ප්‍රකාශිකාවක පැවසූවේ එම ගුවන් යානා සියල්ල ශ්‍රී ලන්කන් ගුවන් සේවය මගින් අවලංගු කර ඇති බවට දැනුම් දී ඇති බවයි .  එසේම එම ගුවන් යානා නැවත පිටත්ව යන වේලාවක් පිළිබඳව  ද තමන් දැනුවත් කර නොමැති බව ද ඇය වැඩිදුරටත් පැවසුවාය .
+
+◼️
+
+[Data](articles/f984ac32.json)
+
+---
+
 ### Who will call me dad anymore?Father tears lost 103 relationships, including wife and mother children
 
 *2024-02-27 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177410) · `ta`
@@ -594,9 +608,15 @@ Premarathna was elected to parliament in Anuradhapura in the 2020 election with 
 
 Uddika Premarathne of Sri Lanka Podujana Peramuna (SLPP) has resigned as a Member of Parliament.
 
-The Anuradhapura District parliamentarian has handed over the letter of resignation to the Deputy General Secretary of Parliament earlier today (Feb.27).
+The Anuradhapura District parliamentarian has handed over the letter of resignation to the Deputy General Secretary of Parliament, earlier today (Feb.27).
 
 Accordingly, the Election Commission will be informed of the MP seat in the House left vacant after Premarathne’s resignation, the Communication Department of Parliament said in a press release.
+
+In 2020, the popular actor was announced as a candidate for the 2020 parliamentary election from the Anuradhapura District as a member of the Sri Lanka People’s Freedom Alliance, a political alliance led by the SLPP formed in 2019.
+
+He obtained 133,550 votes and won a seat in the 16th Parliament of Sri Lanka.
+
+Premarathne is yet to announce the reason for his resignation from the parliament.
 
 ◼️
 
@@ -1997,23 +2017,5 @@ Even though he is interested in giving his vehicle, he wants to give his car, a 
 [Data](articles/a0ad1e6d.json)
 
 [Extended Data](ext_articles/a0ad1e6d.ext.json)
-
----
-
-### In the months of marriage in Jaffna, a man made a wrong decision!
-
-*2024-02-27 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177386) · `ta`
-
-The wrong decision has been lifted by a man on Sunday (25) night. The deceased is Sivayanama Saskaran (age 31) from Manipayi area of the hospital.
-
-He was married six months ago and is currently undergoing a divorce case. Due to this stress, he has made such a wrong decision.
-
-A sudden death investigation officer A. Jayabalasingham carried out the death investigations into his body.
-
-◼️
-
-[Data](articles/9a2d12dc.json)
-
-[Extended Data](ext_articles/9a2d12dc.ext.json)
 
 ---

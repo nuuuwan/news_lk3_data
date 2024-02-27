@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 23:17:28**
+As of **2024-02-27 23:33:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,659 (99.9%) of 9,671 articles have been extended.
+9,671 (100.0%) of 9,671 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The officials informed the Caucus that research has confirmed that these educati
 
 [Data](articles/6d3e1a5e.json)
 
+[Extended Data](ext_articles/6d3e1a5e.ext.json)
+
 ---
 
 ### Fmr Finance Minister Ronnie de Mel passes away
@@ -66,17 +68,23 @@ He was receiving treatment at a private hospital in Colombo at the time of his d
 
 ---
 
-### சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை புஷ்வாணமாகும் - ஆஷு மாரசிங்க
+### Pushwana is a no -confidence motion against Speaker - Ashu Marasinghe
 
 *2024-02-27 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177455) · `ta`
 
-எதிர்க்கட்சிகள் தங்களின் இயலாமையை மறைப்பதற்கே சபாநாயகருக்கு எதிராக நம்பிக்கையில்லா பிரேரணை கொண்டுவர நடவடிக்கை எடுத்திருக்கின்றன. இவர்களின் இந்த நம்பிக்கையில்லா பிரேரணை இதற்கு முன்னர் கொண்டுவந்த  பிரேரணைகள் போன்று புஷ்வாணமாகிவிடும் என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷு மாரசிங்க தெரிவித்தார்.
+Opposition parties have taken steps to bring a no -confidence motion against the Speaker to cover up their disability. Former United National Party (UNP) parliamentarian Ashu Marasinghe said that this no -confidence motion would be like the proposals brought by them earlier.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (27).
+
+Opposition parties have taken steps to bring a no -confidence motion against the Speaker against the Speaker's signing. When the law is passed in Parliament, the TNA MP MA says the amendments to the Bill have not been amendments to the Bill.. Sumanthiran was protesting in the House. But then Sumanthiran MP. When he went to the parliamentary room and discussed it with the Attorney General, he agreed.
+
+So the Speaker has signed a well -to -use law to allow the Ceremony Backup Act.. The opposition parties, however, have now taken steps to bring a no -confidence motion against the Speaker.
 
 ...
 
 [Data](articles/eb43f341.json)
+
+[Extended Data](ext_articles/eb43f341.ext.json)
 
 ---
 
@@ -114,6 +122,8 @@ He began politics joining the Sri Lankan Freedom Party (SLFP) and later crossed 
 
 [Data](articles/0730542b.json)
 
+[Extended Data](ext_articles/0730542b.ext.json)
+
 ---
 
 ### Cricketers discuss challenges with Sports Minister
@@ -130,19 +140,23 @@ Several issues faced by cricketers such as coaching structures, innovative train
 
 [Data](articles/c602444a.json)
 
+[Extended Data](ext_articles/c602444a.ext.json)
+
 ---
 
-### ரொனி டி மெல் காலமானார்
+### Ronnie de Mel has passed away
 
 *2024-02-27 21:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொனி-டி-மெல்-காலமானார்/175-333903) · `ta`
 
-இலங்கை அரசியல் அரங்கில் புரட்சிகரப் பிரமுகரும், முன்னாள் நிதி அமைச்சரும், பிரபல பொருளாதார நிபுணருமான ரொனி டி மெல், கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் இன்று (27) காலமானார்.
+Ronnie de Mel, a revolutionary and a former finance minister and a former finance minister in the Sri Lankan political arena, passed away today (27) at a private hospital in Colombo.
 
-ரொனி டி மெல் இலங்கைக்கு சுதந்திர வர்த்தகப் பொருளாதாரத்தை அறிமுகப்படுத்தியதில் முன்னோடியாகவும் இருந்தார்.
+Ronnie de Mel was also a pioneer in introducing Sri Lanka's free trade economy.
 
 ◼️
 
 [Data](articles/5030f77a.json)
+
+[Extended Data](ext_articles/5030f77a.ext.json)
 
 ---
 
@@ -195,6 +209,8 @@ Colombo, Feb. 27 (Daily Mirror)- The legality of the no confidence motion which 
 ...
 
 [Data](articles/d507f261.json)
+
+[Extended Data](ext_articles/d507f261.ext.json)
 
 ---
 
@@ -282,6 +298,8 @@ The hospital also meets the increasing health needs and provides services for tr
 
 [Data](articles/71ad44d2.json)
 
+[Extended Data](ext_articles/71ad44d2.ext.json)
+
 ---
 
 ### 10,000 policemen who requested the motorcycle
@@ -317,6 +335,8 @@ President Ranil Wickremesinghe re-iterated the country's commitment to the Freed
 ◼️
 
 [Data](articles/8e4d46e5.json)
+
+[Extended Data](ext_articles/8e4d46e5.ext.json)
 
 ---
 
@@ -381,6 +401,8 @@ Taking to X, he said MPs could seek clarification on the recent staff pay hike a
 ◼️
 
 [Data](articles/8c62e50e.json)
+
+[Extended Data](ext_articles/8c62e50e.ext.json)
 
 ---
 
@@ -469,6 +491,8 @@ The RBI's decision is aimed at promoting the growth of global trade, especially 
 ...
 
 [Data](articles/e0935d31.json)
+
+[Extended Data](ext_articles/e0935d31.ext.json)
 
 ---
 
@@ -1831,6 +1855,8 @@ Court was informed that the parties were yet to receive minutes pertaining to th
 ◼️
 
 [Data](articles/172ba109.json)
+
+[Extended Data](ext_articles/172ba109.ext.json)
 
 ---
 

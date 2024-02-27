@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 11:17:28**
+As of **2024-02-27 11:33:14**
 
 ## Newspaper Stats
 
-*Scraped **9,513** Articles*
+*Scraped **9,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 economynextcom | 481
 dailyftlk | 504
 islandlk | 508
-adalk | 800
+adalk | 801
 adaderanalk | 1,146
 tamilmirrorlk | 1,168
 virakesarilk | 1,294
 dailymirrorlk | 1,432
-adaderanasinhalalk | 1,441
+adaderanasinhalalk | 1,444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,512 (100.0%) of 9,513 articles have been extended.
+9,513 (100.0%) of 9,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### ජනපතිගේ ගාසා යෝජනාවට කැබිනට් අනුමැතිය
+
+*2024-02-27 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193872) · `si`
+
+ගාසා හි ප්‍රචණ්ඩත්වයට ගොඳුරුවූවන්ට සහන සැලසීම සඳහා ‘ගාසා හි ළමා අරමුදලක්’ නිර්මාණය කිරීමට ජනාධිපතිවරයා කළ යෝජනාවට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+සියලුම අමාත්‍යාංශ සහ රජය ආයතන විසින් ඉෆ්තාර් සැමරුම් අත්හැර මෙම අරමුදලට දායක වීමට ද ජනාධිපතිවරයා උපදෙස් ලබාදී ඇත.
+
+ශ්‍රී ලංකා රජයේ ඩොලර් මිලියන 01 ක පරිත්‍යාගය විපතට පත් ළමුන් සහ පුරවැසියන්ගේ දායකත්වය දිරිමත් කිරීම සඳහා එක්සත් ජාතීන්ගේ නිල නියෝජිතායතන හරහා බෙදා හරිනු ලැබේ.
+
+◼️
+
+[Data](articles/c146ce85.json)
+
+---
+
+### නීල් වැග්නර් සමුගනී
+
+*2024-02-27 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193871) · `si`
+
+නවසීලන්ත වේග පන්දු යවන ක්‍රීඩක නීල් වැග්නර් වහාම ක්‍රියාත්මක වන පරිදි ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගන්නා බව නිවේදනය කර තිබේ.
+
+ඔහු එම තීරණය ගෙන ඇත්තේ, ඔස්ට්‍රේලියාවට එරෙහිව එළඹෙන බ්‍රහස්පතින්දා ආරම්භ වන ටෙස්ට් තරග දෙකකින් සමන්විත තරගාවලිය සඳහා ඔහුව තෝරා නොගන්නා බව නවසීලන්ත තේරීම් කමිටුව ප්‍රකාශ කිරීමත් සමඟය.
+
+තමාව ටෙස්ට් තරගාවලිය සඳහා නම් නොකිරීම සම්බන්ධයෙන් වැග්නර්, පසුගිය සතියේ පුහුණුකරු ගැරී ස්ටෙඩ් සමඟ වාද කර ඇති බව මාධ්‍ය වාර්තා පවසයි.
+
+37 හැවිරිදි  වැග්නර්, ටෙස්ට් තරග 64කට සහභාගී වී කඩුලු 260ක් දවා ගෙන තිබේ.
+
+◼️
+
+[Data](articles/914f9bc2.json)
+
+---
 
 ### Sri Lanka to establish ‘Children of Gaza Fund’ to aid victims of violence
 
@@ -49,6 +83,26 @@ PMD said contributions to the fund by the citizens are encouraged.
 ◼️
 
 [Data](articles/cc5c5b90.json)
+
+[Extended Data](ext_articles/cc5c5b90.ext.json)
+
+---
+
+### වේරහැර RMV කැලඹූ අනතුර - CCTV
+
+*2024-02-27 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193870) · `si`
+
+වේරහැර, මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ පසුගිය දා සිදුවු බිහිසුණු අනතුරක් CCTV කැමරාවක මෙලෙස සටහන්ව තිබිණි.
+
+ජාතික ප්‍රවාහන වෛද්‍ය මධ්‍යස්ථානයේ සේවා ලබාගැනීමට පැමිණි බොහෝ පිරිසක් අදාළ ශාලාවේ අසුන් ගෙන සිටිය දී එක්වරම මෝටර් රථයක් ඔවුන් සිටි ශාලාවට කඩා වදින අයුරු එම දර්ශනවල සටහන්ව ඇත.
+
+රියදුරු පුහුණු ආයතනයකට අයත් අදාළ මෝටර් රථය එදින රියදුරු පුහුණු පරීක්ෂණය සඳහා පැමිණි අයෙකු විසින් පදවා ඇතැයි පසුව අනාවරණය වුණි.
+
+කෙසේවෙතත් සිදුවීමකට ගිය මහා විනාශය වැළකී එම ශාලාවේ අසුන් ගෙන සිටි පිරිසගේ ජීවිත අනූනවයෙන් බේරී යන්නේ, සියලුදෙනාගේම හිත් තුළ දැඩි කම්පනයක් ඇති කරමිනි.
+
+◼️
+
+[Data](articles/e961862f.json)
 
 ---
 
@@ -175,6 +229,24 @@ A Catholic church in Be Burkina Faso also recently launched a similar attack.
 [Data](articles/aa1e05b4.json)
 
 [Extended Data](ext_articles/aa1e05b4.ext.json)
+
+---
+
+### මෙම වසරේ ජල ගාස්තු වැඩි වීමක් නැහැ
+
+*2024-02-27 09:18:21* · [`adalk`](https://www.ada.lk/breaking_news/මෙම-වසරේ-ජල-ගාස්තු-වැඩි-වීමක්-නැහැ/11-408295) · `si`
+
+කඳුරට දෙමළ ජනතාව මුහුණ දෙන ප්‍රශ්න දෛනික වැටුපට සීමා නොකළ යුතු බවත් ඔවුන්ගේ ජීවන තත්ත්වය නගාසිටුවීම සඳහා නිවාස, ඉඩම්, අධ්‍යාපන, සෞඛ්‍ය හා යටිතල පහසුකම් යන සෑම ක්ෂේත්‍රයක් කෙරෙහිම අවධානය යොමු කළ යුතු බවත් ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා පැවසීය.
+
+ඇතැම් දේශපාලන පක්ෂ කඳුරට දෙමළ ජනතාවගේ ප්‍රශ්න විසඳීමට යැයි පවසමින් අවබෝධතා ගිවිසුම් අත්සන් කළ ද ජනතාවගේ සැබෑ ප්‍රශ්න විසඳීම සඳහා අවබෝධතා ගිවිසුම් අවශ්‍ය නොවන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා මෙම අදහස් පළ කර සිටියේ “ස්ථාවර රටකට සැවොම එක් මඟකට” යන මැයෙන් ඊයේ (26) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති මාධ්‍ය හමුවට එක් වෙමිනි.
+
+මෙම වසර තුළ ජල ගාස්තු වැඩි කිරීමක් සිදු කිරීමට අපේක්ෂා නොකරන බව පැවසූ අමාත්‍යවරයා යෝජිත ජල සූත්‍රය හඳුන්වාදීම ජනතාව පීඩාවට පත් නොකරන ආකාරයකට සිදු කරන බව ද පැවසීය.
+
+...
+
+[Data](articles/1e3ae39f.json)
 
 ---
 
@@ -1893,87 +1965,5 @@ He assured, however, that Sri Lanka Police has already taken various measures re
 [Data](articles/bd603e57.json)
 
 [Extended Data](ext_articles/bd603e57.ext.json)
-
----
-
-### Special announcement for school students
-
-*2024-02-26 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177373) · `ta`
-
-The Ministry of Education has issued a report on the advice required to protect school children from the damage caused by high temperature.
-
-The Ministry of Education has informed the Directors of all provinces to inform all school principals.
-
-௫. Tell school teachers or parents in the event of any symptoms or allergies due to its temperature.
-
-◼️
-
-[Data](articles/8acd7374.json)
-
-[Extended Data](ext_articles/8acd7374.ext.json)
-
----
-
-### No water tariff hike in Sri Lanka this year: Minister
-
-*2024-02-26 18:12:00* · [`economynextcom`](https://economynext.com/no-water-tariff-hike-in-sri-lanka-this-year-minister-152158/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s planned water tariff formula is ready, and the government will implement it this year only if the formula’s tariff is lower than the current price, Water Supply Minister Jeevan Thondaman said.
-
-President Ranil Wickremesinghe’s government has been implementing IMF-led pricing policies on utilities and the Water Supply Ministry has already come up with a formula.
-
-“There is a water tariff formula in place right now and we are waiting for it to be drafted and seek approval from the cabinet,” Thondaman told reporters at a media briefing in Colombo on Monday.
-
-“Once this water tariff formula is in place, there will be an annual revision with an option of biannual review.
-
-The formula has been developed with the help of the Asian Development Bank. The formula includes electricity and exchange rate among many others as components like the fuel formula.
-
-...
-
-[Data](articles/87cecd5c.json)
-
-[Extended Data](ext_articles/87cecd5c.ext.json)
-
----
-
-### Rs. Two policemen arrested for bribe of 10000
-
-*2024-02-26 18:11:29* · [`adalk`](https://www.ada.lk/breaking_news/රු--10000ක-අල්ලස්-ගත්-පොලිස්-නිලධාරීන්-දෙදෙනෙක්-අල්ලයි/11-408290) · `si`
-
-A total of two police officers have been taken into custody by the Commission to Investigate Allegations of Bribery and Corruption (26).
-
-The suspect was arrested by two traffic sections of the Itatata Police Station.
-
-It is said that the two arrested officers have been taken into custody by a person who is going to a motorcycle without a helmet.
-
-It is reported that one constable has been arrested in the police station at a cost of Rs.
-
-According to police sources, he was arrested while he was taken into custody by the other constable to the incident.
-
-The two suspects are currently receiving statements in the Ihalapana Police at the Ihalapana Police, police said.
-
-◼️
-
-[Data](articles/143f7dd1.json)
-
-[Extended Data](ext_articles/143f7dd1.ext.json)
-
----
-
-### Special decision from Cabinet
-
-*2024-02-26 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193851) · `si`
-
-The cabinet has decided to suspend the Parata law implementing.
-
-It has been decided to suspend the Parata law until December 15, 2024.
-
-The proposal made by the President of the Minister Wijayines Rajapaksa and the Minister of Justice Minister Wijayines Rajapaksa and the Minister of Industry Minister Ramesh Pathirana has approved the Cabinet approval.
-
-◼️
-
-[Data](articles/5cb22661.json)
-
-[Extended Data](ext_articles/5cb22661.ext.json)
 
 ---

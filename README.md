@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 18:32:58**
+As of **2024-02-27 18:50:53**
 
 ## Newspaper Stats
 
-*Scraped **9,619** Articles*
+*Scraped **9,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,108 @@ dailyftlk | 505
 islandlk | 511
 adalk | 812
 adaderanalk | 1,158
-tamilmirrorlk | 1,177
-virakesarilk | 1,316
+tamilmirrorlk | 1,178
+virakesarilk | 1,319
 dailymirrorlk | 1,450
-adaderanasinhalalk | 1,457
+adaderanasinhalalk | 1,458
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,617 (100.0%) of 9,619 articles have been extended.
+9,619 (99.9%) of 9,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### விமான படையின் ஆண்டு விழாவை முன்னிட்டு வடக்கில் காணிகளை விடுவிக்க வேண்டும்
+
+*2024-02-27 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177451) · `ta`
+
+இலங்கை விமானப் படையின் 73ஆவது ஆண்டு நிறைவு விழாவை முன்னிட்டு , வடக்கில் விமானப் படையின் கட்டுப்பாட்டில் உள்ள தனியார் விமானப் படையினர் விடுவிக்க வேண்டும் என நாடாளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன் கோரியுள்ளார்.
+
+யாழ்.ஊடக அமையத்தில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+
+விமானப் படையின் 73ஆவது ஆண்டு நிறைவு விழா இம்முறை வடக்கை மையப்படுத்தி நடைபெறவுள்ளது. அதனை முன்னிட்டு வடக்கில் விமான படையின் வசம் உள்ள தனியார் காணிகளை விடுவிக்க விமான படையினர் நடவடிக்கை எடுக்க வேண்டும்.
+
+வடக்கில் பாதுகாப்பு தேவைகளுக்கு என தேசிய பாதுகாப்பின் கீழ் காணிகளைச் சுவீகரித்து அதனை வேறு தேவைகளுக்குப் பயன்படுத்துவதை ஏற்றுக்கொள்ள முடியாது.
+
+அதேபோல மாதகல் விகாரைக்கு அருகில் மீன் பிடியில் ஈடுபட வேண்டாம் என கடற்படையினர் தடை விதித்துள்ளனர். பாதுகாப்பு தரப்பினர் ஒரு மதம் சார்ந்து செயற்பட முடியாது. அது சட்டவிரோதமானது.
+
+யாழ்ப்பாணம் சர்வதேச விமான நிலையத்திற்கு என மக்களிடம் கையளிக்கப்பட்ட காணிகளை மீள சுவீகரிப்பதற்கு நடவடிக்கைகள் எடுக்கப்படுவதற்கு மக்கள் எதிர்ப்பு தெரிவித்து வருகின்றனர்.
+
+...
+
+[Data](articles/01c94e08.json)
+
+---
+
+### காணாமலாக்கப்பட்டோருக்கான நீதி என்பது கானல் நீராகவே உள்ளது - அருட்தந்தை மா.சத்திவேல்
+
+*2024-02-27 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177450) · `ta`
+
+காணாமலாக்கப்பட்டோருக்கான நீதி என்பது கானல் நீராகவே உள்ளது. காலத்தை இழுத்து அடித்து நீதியை மறுக்கும் செயற்பாடுகளையே அனைத்து ஆட்சியாளர்களும் தொடர்ந்து செய்து கொண்டிருக்கின்றனர் என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் தெரிவித்துள்ளார்.
+
+வடகிழக்கில் அரச பாதுகாப்பு படைகளால் யுத்த காலப்பகுதியில் பலவந்தமாக கடத்தப்பட்டு காணமலாக்கப்பட்டவர்களின் உறவுகளால் நீதி கேட்டு தொடர் போராட்டம் ஆரம்பித்து அதன் ஏழாவது நிறைவு தினத்திலே மீண்டும் ஒரு கவனயீர்ப்பு போராட்ட பேரணியை நடத்தி ஐ.நா மனித உரிமை பேரவையின் ஆணையாளருக்கு ஆறு அம்ச கோரிக்கைகளை முன் வைத்துள்ளனர்.
+
+இக் கோரிக்கைகள் நியாயமானது. உறவுகளை பறிகொடுத்த வலிகளோடு தொடர் போராட்டங்களை நடத்தி வரும் வடகிழக்கு காணாமலாக்கப்பட்ட உறவுகளின் போராட்டத்திற்கு கிறிஸ்தவ ஒத்துழைப்பு இயக்கம் தமது முழுமையான ஆதரவை நடத்துவதோடு முன்வைக்கப்பட்டுள்ள கோரிக்கைகளை துரிதமாக நிறைவேற்றுமாறு ஐ.நா மனித உரிமை பேரவையை வலியுறுத்துகின்றது.
+
+...
+
+[Data](articles/3e3e290f.json)
+
+---
+
+### කෘෂිකර්ම ඇමතිගෙන් දැඩි නියෝගයක්
+
+*2024-02-27 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193886) · `si`
+
+ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව යටතේ පවතින "ඵලදාවර්ධන හා අලෙවි අංශය" වහාම ක්‍රියාත්මක වන පරිදි වසා දමන ලෙස අමාත්‍ය මහින්ද  අමරවීර  මහතා ගොවිජන කොමසාරිස් ජනරාල්වරයා වෙත උපදෙස් ලබාදී තිබේ.
+
+එම අංශය මගින් වැඩිපුරම සිදුකරනු ලබන්නේ ඉඩම් ගොඩකිරීමට උපදෙස්දීම බවත්, ඉන් කිසිදු ඵලදාවර්ධන කටයුත්තක් සිදුනොවන බවයි නිලධාරින් අමාත්‍යවරයාට දැනුම් දී තිබුණි.
+
+ඒ අනුව රජය කුඹුරු ගොඩකිරීම, ප්‍රතිපත්තියක් ලෙස තහනම් කර ඇති පසුබිමක එම අංශය වසා දැමීමට උපදෙස් ලබා දී ඇති බව වාර්තා වෙයි.
+
+එමෙන්ම අදාළ අංශය අපනයනය සඳහා භෝග කිරීමේ හා ව්‍යාප්ත කිරිමේ ඒකකයක් ලෙස ද ස්ථාපිත කිරීමට තීරණය කර ඇති බව කෘෂිකර්ම අමාත්‍යාංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/37ad153a.json)
+
+---
+
+### கோளாறு காரணமாக ஏழு விமானங்கள் தாமதம்
+
+*2024-02-27 18:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோளாறு-காரணமாக-ஏழு-விமானங்கள்-தாமதம்/175-333900) · `ta`
+
+கட்டுநாயக்க சர்வதேச விமான நிலையத்தில் இருந்து இந்தியா, மத்திய கிழக்கு மற்றும் தாய்லாந்து ஆகிய நாடுகளுக்கு புறப்படவிருந்த ஏழு விமானங்கள் தொழில்நுட்ப கோளாறு காரணமாக இன்று தாமதமாகியுள்ளதாக விமான தகவல் மைய அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+
+அதன்படி, அதிகாலை 1.10 மணிக்கு இந்தியாவின் பெங்களூருக்கு செல்லவிருந்த யுஎஸ் 173 விமானமும், தாய்லாந்தின் பாங்கொக் நகருக்கு அதிகாலை 1.15 மணிக்கு புறப்படவிருந்த யுஎல் 402 விமானமும், சென்னை செல்லவிருந்த யுஎல் 135 இலங்கை விமானமும் இன்று காலை தாமதமானது  .
+
+◼️
+
+[Data](articles/cfc5593f.json)
+
+---
+
+### திருகோணமலை கடற்கரை பகுதியில் சட்டவிரோத வியாபார நிலையங்கள் !
+
+*2024-02-27 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177449) · `ta`
+
+திருகோணமலை கடற்கரை பகுதியில் சட்டவிரோதமாக அமைக்கப்பட்ட வியாபார நிலையங்கள் குறித்து நகரசபையின் கவனத்திற்கு கொண்டுவரப்பட்டுள்ளது.
+
+திருகோணமலை கடற்கரையை அண்டி சவுக்கு மரங்கள் நடப்பட்டுள்ள காணிப்பகுதியில் பூஜாபூமி எனும் அடிப்படையிலாக விகாரைக்கென காணிப்பகுதி ஒன்று அரச உறுதிப்பத்திரம் ஊடாக வழங்கப்பட்டிருந்தது.
+
+குறித்த பகுதியானது விகாரைக்காக வழங்கப்பட்டிருந்த நிலையில் கடந்த 2014ம் ஆண்டு அப்பகுதியில் வேலிகள் அமைக்கப்பட்டிருந்தன.
+
+குறித்த விகாரைக்கென ஒதுக்கப்பட்டிருந்த இடத்தில் தனிப்பட்ட இடம் என கருதப்படும் வகையில் சிற்றுண்டிகள் மற்றும் மென்பானங்கள் விற்பனை செய்யும் நிலையம் ஒன்றினை தனி நபர் ஒருவர் அமைத்த நிலையில் அதனை அவதானித்த சமூக அமைப்புக்கள் திருகோணமலை நகர சபை செயலாளரின் கவனத்திற்கு கொண்டுவந்திருந்தனர்.
+
+...
+
+[Data](articles/b1229784.json)
+
+---
 
 ### Four soldiers arrested for the death of military camp
 
@@ -111,6 +199,8 @@ Senior Counsel Darshana Kuruppu with Counsel Dineru Bandara appeared for the Acc
 ◼️
 
 [Data](articles/b49eac3a.json)
+
+[Extended Data](ext_articles/b49eac3a.ext.json)
 
 ---
 
@@ -262,17 +352,19 @@ The 44-year-old, originally from Rajanganaya, faced the harrowing incident on Ja
 
 ---
 
-### වාලච්චේන කඩදාසි කම්හල නොවසා  හවුල් ව්‍යාපාරයක් කරනවා - මහින්දානන්ද
+### Electricity campaign is not a Walachchenai Paper Facket - Mahindananda
 
 *2024-02-27 16:12:59* · [`adalk`](https://www.ada.lk/breaking_news/වාලච්චේන-කඩදාසි-කම්හල-නොවසා--හවුල්-ව්‍යාපාරයක්-කරනවා---මහින්දානන්ද/11-408306) · `si`
 
-වාලච්චේන කඩදාසි කම්හල වැසෙන තත්ත්වයට පත්වුවහොත් විකිණීම වෙනුවට රාජ්‍ය පෞද්ගලික හවුල් ව්‍යාපාරයක් ලෙස පවත්වාගෙන යාම වැදගත් බැවින් ඒ සදහා කාරක සභාවේ නිර්දේශය මුදල් සහ කර්මාන්ත අමාත්‍යාංශවලටත් ජනාධිපතිවරයාටත් යොමු කරන බව ජාතික ආර්ථික හා භෞතික සැළසුම් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති මහින්දානන්ද අලුත්ගමගේ මහතා පවසයි.
+The Chairman of the National Economic and Physical Planneerology of the National Economic and Physical Planneakers, the Chairman of the National Economic and Physical Planneakers, the recommendation of the National Economic and Physical Planneakers will be sent to the Ministry of Industry and Industries.
 
-වාලච්චේන කර්මාන්ත ශාලාවේ යන්ත්‍ර 1956 වසරේ ගෙන්වන ලද ඒවා බැවින් මෙහි අලුත්වැඩියාවන් සදහා ඇ. ඩොලර් මිලියන 12ක්අ වශ්‍ය බවත් භාණ්ඩාගාරයෙන් මුදල් ප්‍රතිපාදන නොලැබුණු බැවින් මෙය රාජ්‍ය පෞද්ගලික හවුල් ව්‍යාපාරයක් ලෙස පවත්වාගෙන යාමට කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කළද එම භූමිය සංචාරක ව්‍යාපාරය සදහා වෙන්කරන ලද බැවින් ඒ සදහා අනුමතිය නොලැබුණ බවද කර්මාන්ත අමාත්‍යාංශයේ ලෙකම් තිලකා ජයසුන්දර මහත්මිය ද වැඩිදුරටත් මෙහිදී පැවසුවාය.
+Since the Valachchenai Factory machines were imported in 1956, so they were repaired to repairs. The Ministry of Industries said that the Treasury was not receiving a state-private journalism as a public partnership for the tourism industry, but the Ministry of Industries said that it was allocated for the tourism industry.
 
 ◼️
 
 [Data](articles/060fef60.json)
+
+[Extended Data](ext_articles/060fef60.ext.json)
 
 ---
 
@@ -1893,117 +1985,5 @@ The Hamas agree to these discussions is considered a great victory.
 [Data](articles/ce2f65be.json)
 
 [Extended Data](ext_articles/ce2f65be.ext.json)
-
----
-
-### Mice are responsible for the late flights!
-
-*2024-02-27 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177391) · `ta`
-
-On Sunday (25) mice found on two flights owned by Sri Lanka Airlines. Sri Lankan Airlines Chairman Ashok Patrake said that the airlines have been delayed.
-
-He said this at a discussion held at the Ports, Shipping and Aviation Ministry.
-
-As well as the two flights found in the rats had to spray the chemical. He also said that two other flights had to start service due to technical shortcomings.
-
-Ports, Shipping and Aviation Minister Nimal Siripala questioned whether the rats were investigated.
-
-It also revealed that the lack of 15 employees was the cause of the delay. Three employees applied for a Sunday holiday.
-
-The remaining 12 people have normally taken vacation. The Minister said that the vacation was fired as a furious dismissal.
-
-“There are only 20 flights owned by Sri Lanka Airlines. Three planes have landed."We are going to buy five A 330 aircraft, it has become a problem with the global demand for airlines and the economic situation in Sri Lanka has become a problem," Ashok Pathke said.
-
-◼️
-
-[Data](articles/6d03cd55.json)
-
-[Extended Data](ext_articles/6d03cd55.ext.json)
-
----
-
-### University non-academic staff to launch two-day strike
-
-*2024-02-27 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97558/university-non-academic-staff-to-launch-two-day-strike) · `en`
-
-The non-academic staff members of state universities have decided to go on a two-day token strike over several demands including a salary hike.
-
-Accordingly, the strike will be held tomorrow (Feb.28) and the day after (Feb.29), University Trade Union Joint Committee’s Dhammika Priyantha said.
-
-The committee vowed to resort to a continuous trade union action in the event the respective authorities fail to address their issues within one week.
-
-◼️
-
-[Data](articles/e913b0cf.json)
-
-[Extended Data](ext_articles/e913b0cf.ext.json)
-
----
-
-### Western forces for Ukraine - French President
-
-*2024-02-27 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177392) · `ta`
-
-French President Emanuel Macron has said that the West may send their soldiers to Ukraine.
-
-It was reported that the meeting was investigated on the sending of Western countries to Ukraine.
-
-The French president has said that no compliance has been reached on the sending of soldiers to Ukraine until today.
-
-The President of France has said that we will do everything to prevent Russia from winning the war.
-
-The French president said that those who said that the Western soldiers should never be sent to Ukraine, "he said.
-
-The French president has announced that it will form a new alliance to send missiles to Ukraine.
-
-◼️
-
-[Data](articles/a7bc4b4a.json)
-
-[Extended Data](ext_articles/a7bc4b4a.ext.json)
-
----
-
-### Dark Profile of the Economic Crisis: Children and a young mother of stressful
-
-*2024-02-27 09:52:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjmdm0v0m92o) · `si`
-
-Dark Profile of the Economic Crisis: Children and a young mother of stressful
-
-"If I cut out of my veir, I'll die, I'm going to die at hot water, if you don't increase it. Such like that, I was thinking about myself. "
-
-A businesswoman living in Negombo is a two years ago, New Zealand is watching her husband about the future of her children a better future.
-
-Designers who have been living in New Zealand with the busines in Sri Lanka, New Zealand had gone there for a few months later.
-
-By receiving treatment and being treated, he shared in the serious mental health problem she faced with a foreign country. She addresses her, "Desani" to protect her or family identity.
-
-...
-
-[Data](articles/c668a882.json)
-
-[Extended Data](ext_articles/c668a882.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 310.50/75 to the US dollar
-
-*2024-02-27 09:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-310-50-75-to-the-us-dollar-152183/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 310.50/75 to the US dollar Tuesday, from 310.80/311.00 on Monday, dealers said.
-
-A bond maturing on 01.08.2026 was quoted at 10.85/95 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.75/85 from 11.80/90 percent.
-
-A bond maturing on 01.07.2028 was quoted at 12.10/20 percent.
-
-The Colombo Stock Exchange opened down; The All Share Price Index was down 0.04 percent at 10,607, the S&P SL20 was up 0.01 at 3,057. (Colombo/Feb27/2024)
-
-◼️
-
-[Data](articles/d02c1465.json)
-
-[Extended Data](ext_articles/d02c1465.ext.json)
 
 ---

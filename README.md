@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 08:02:37**
+As of **2024-02-27 08:17:30**
 
 ## Newspaper Stats
 
-*Scraped **9,482** Articles*
+*Scraped **9,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 481
 dailyftlk | 504
 islandlk | 508
 adalk | 799
-adaderanalk | 1,139
-tamilmirrorlk | 1,160
+adaderanalk | 1,142
+tamilmirrorlk | 1,161
 virakesarilk | 1,294
 dailymirrorlk | 1,425
 adaderanasinhalalk | 1,434
@@ -26,67 +26,127 @@ adaderanasinhalalk | 1,434
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,479 (100.0%) of 9,482 articles have been extended.
+9,482 (100.0%) of 9,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### අල්ලස් ගත් පොලිස් සැරයන්ට සහ කොස්තාපල්ට වැඩ වරදී
+### Biden hopes for ceasefire in days as Israelis, Hamas take part in Qatar talks
+
+*2024-02-27 07:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97555/biden-hopes-for-ceasefire-in-days-as-israelis-hamas-take-part-in-qatar-talks) · `en`
+
+(Reuters) - U.S. President Joe Biden said on Monday he hopes to have a ceasefire in the Israel-Hamas conflict in Gaza start by next Monday as the warring parties appeared to close in on a deal during negotiations in Qatar that also aim to broker the release of hostages.
+
+The presence of both sides for so-called proximity talks - meeting mediators separately but in the same city - suggested negotiations were further along than at any time since a big push at the start of February, when Israel rejected a Hamas counter-offer for a four-and-a-half-month truce.
+
+Biden said he hoped a ceasefire would start within days. “Well I hope by the beginning of the weekend, by the end of the weekend,” he said, when asked when he expected a ceasefire to start.
+
+“My national security adviser tells me that we’re close. We’re close. We’re not done yet. My hope is by next Monday we’ll have a ceasefire,” Biden told reporters during a visit to New York.
+
+...
+
+[Data](articles/56037bc1.json)
+
+---
+
+### Pakistan, Sri Lankan envoys in Belgium discuss matters of mutual interest
+
+*2024-02-27 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97554/pakistan-sri-lankan-envoys-in-belgium-discuss-matters-of-mutual-interest) · `en`
+
+Pakistan Ambassador to the European Union, Belgium and Luxembourg Amna Baloch and Sri Lankan Ambassador (Designate) to Belgium and the EU Chandana Weerasena on Monday discussed matters of mutual interest.
+
+Ambassador Amna hosted the Sri Lankan envoy for a courtesy meeting at the Pakistani Embassy in Belgium, where they both expressed their commitment to strengthening bilateral cooperation between Pakistan and Sri Lanka within the framework of the European Union.
+
+The Pakistan Embassy shared details of the meeting on X, saying that both sides addressed to enhance bilateral cooperation.
+
+◼️
+
+[Data](articles/55c69526.json)
+
+---
+
+### Showers expected in certain parts of the country
+
+*2024-02-27 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97553/showers-expected-in-certain-parts-of-the-country) · `en`
+
+The Department of Meteorology says showers will occur at times in Nuwara-Eliya, Matale and Polonnaruwa districts.
+
+Several spells of showers will occur in Eastern and Uva provinces and in Anuradhapura district.
+
+Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Kandy, Galle and Matara districts in the evening or night.
+
+Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, North-western, Southern, Uva and Eastern provinces.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/8bd5dbd4.json)
+
+---
+
+### Work for the bribery and constable
 
 *2024-02-27 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193862) · `si`
 
-රුපියල් 10,000ක අල්ලස් මුදලක් ලබාගත් ඉත්තෑපාන පොලිස් ස්ථානයේ පොලිස් සැරයන්වරයෙකු සහ පොලිස් කොස්තාපල්වරයෙකු අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+A police sergeant at the Ihalapana Police Station and a Police Constable has been arrested by the Inspector General of Police.
 
-යගිරල ප්‍රදේශයේ පුද්ගලයෙකු විසින් සිදුකරන ලද පැමිණිල්ලකට අනුව සිදුකළ වැටලීමකදී මොවුන් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+It is reported that they had been arrested following a complaint conducted by a person in Jagirilo.
 
-පැමිණිලිකරුගේ රථ වාහන නඩුවක් සම්බන්ධයෙන් භාරයට ගත් රියදුරු බලපත්‍රය නැවත ලබාදීමට සහ බලපත්‍රය නීත්‍යානුකූල රියදුරු බලපත්‍රයක් ද යන්න පරීක්ෂා කර බලා නීතිමය කටයුතු නොකර සිටීම සඳහා රුපියල් 10,000ක අල්ලස් මුදලක් ඉල්ලා ඇති බව සඳහන්ය.
+It is said that the driver's license has been restored and the license has requested the reconciliation and a legal driver's license.
 
-අදාළ මුදල ලබාගැනීම සහ ඒ සඳහා ආධාර අනුබල ලබාදීම යන චෝදනා සම්බන්ධයෙන් ඉත්තෑපාන පොලිස් ස්ථානයේ සැරයන්වරයෙක් සහ කොස්තාපල්වරයෙකු අත්අඩංගුවට ගෙන ඇති බව අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සඳහන් කළේය.
+Bribery and Corruption Commission states that a sergeant and corrupt complaints have been arrested in charge of obtaining the amount and assistance.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අද (27) අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+The suspects are to be produced before the court today.
 
 ◼️
 
 [Data](articles/61cd775d.json)
 
+[Extended Data](ext_articles/61cd775d.ext.json)
+
 ---
 
-### 21ක් හැවිරිදි තරුණයාව පහරදී ඝාතනය කරලා
+### 21 year old youth assaulted
 
 *2024-02-27 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193861) · `si`
 
-පැරණි ආරවුලක් මත ඇතිවූ බහින් බස්වීමක් දුරදිග ගොස් පිරිසක් විසින් තරුණයෙකුට පහරදී ඝාතනය කර තිබේ.
+A large number of arguments on an ancient dispute have been attacked by a group.
 
-ඊයේ (26) එම සිදුවීම වාර්තා වී තිබුණේ හබරාදූව කහවැන්නගම, අම්පිටිය ප්‍රදේශයේදී ය.
+The incident was reported yesterday at the Ampitiya area in the Ampitiya.
 
-පොලීසිය පැවසුවේ, එම පිරිස විසින් අදාළ තරුණයාට අතින් පයින් සහ මුගුරුවලින් පහරදී ඇති බවය.
+Police said the man had been attacked by foot and murdered.
 
-පහරදීමෙන් මියගොස් ඇත්තේ, මිහිරිපැන්න, තල්පේ ප්‍රදේශයේ පදිංචිව සිටි 21 හැවිරිදි තරුණයෙකි.
+The victim was a 21 year old resident of Mihiriipenna, Talpe.
 
-ඝාතනයට සම්බන්ධ සැකකරුවන් හයදෙනෙකු හඳුනාගෙන ඇති අතර ඉන් එක් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+Six suspects involved in the murder have been identified and one suspect has been arrested.
 
-අත්අඩංගුවට ගත් සැකකරු කහවැන්නගම, තල්පේ ප්‍රදේශයේ පදිංචි 21 හැවිරිදි තරුණයෙකි.
+The suspect is a 21 year old resident of Talpe, Yalagalgama.
 
 ◼️
 
 [Data](articles/941bf04f.json)
 
+[Extended Data](ext_articles/941bf04f.ext.json)
+
 ---
 
-### විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින් වර්ජනයකට සැරසෙයි
+### University non-academic workers prepare to strike
 
 *2024-02-27 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193860) · `si`
 
-‍වැටුප් වැඩිවීමක් ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩලය වැඩවර්ජනයක නිරත වීමට තීරණය කර තිබේ.
+The university non-academic staff has decided to work in strike, taking on several demands including a salary increase.
 
-විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුවේ සම සභාපති ධම්මික ප්‍රියන්ත මහතා සඳහන් කළේ, හෙට (28) සහ අනිද්දා (29) යන දෙදින තුළ මෙම වැඩවර්ජනය ක්‍රියාත්මක කරන බවය.
+Dhammika Priyantha stated that the strike is being implemented tomorrow (28) and tomorrow (28) and tomorrow.
 
-සතියක කාලයක් තුළ සිය ගැටලුවට විසඳුම් ලබාදීමට බලධාරීන් පියවර නොගතහොත් ඉදිරියේදී දැවැන්ත වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වන බව ධම්මික ප්‍රියන්ත මහතා සඳහන් කළේය.
+Dhammika Priyantha stated that if the authorities do not take steps to address their problem within a week, he is involved in a massive trade union action.
 
 ◼️
 
 [Data](articles/ef301fd9.json)
+
+[Extended Data](ext_articles/ef301fd9.ext.json)
 
 ---
 
@@ -109,6 +169,22 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/02dd6a6e.json)
 
 [Extended Data](ext_articles/02dd6a6e.ext.json)
+
+---
+
+### ’மலையக மக்களின் பிரச்சினைகளை மட்டுப்படுத்தக் கூடாது’
+
+*2024-02-27 04:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மக்களின்-பிரச்சினைகளை-மட்டுப்படுத்தக்-கூடாது/175-333859) · `ta`
+
+மலையகத் தமிழ் மக்களின் பிரச்சினைகளை நாளாந்த சம்பளத்துக்கு மாத்திரம் மட்டுப்படுத்தக் கூடாது. அவர்களின் வாழ்க்கைத் தரத்தை மேம்படுத்துவதற்கு வீடு, காணி, கல்வி, சுகாதாரம் மற்றும் உட்கட்டமைப்பு வசதிகள் என ஒவ்வொரு பகுதியிலும் கவனம் செலுத்தப்பட வேண்டும் என்று  நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் ஜீவன் தொண்டமான் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்
+
+தோட்ட உட்கட்டமைப்பு அமைச்சின் செயற்பாடுகளைப் பொறுத்தவரை, கடந்த 19 ஆம் திகதி 1300 வீடுகளுக்கு அடிக்கல் நாட்டிவைக்கப்பட்டது. இந்த வேலைத்திட்டத்தில் எவ்வித தாமதமும் இருக்கக் கூடாது என்ற வகையிலேயே ஒரே நேரத்தில் இதனை ஆரம்பித்தோம். எஞ்சியிருக்கின்ற 8700 வீடுகளையும் இவ்வாறே ஒரே நேரத்தில் ஆரம்பிக்கத் திட்டமிட்டுள்ளோம். ஏனென்றால் நாம் ஒரு முறைமையின் அடிப்படையில் செயற்பட விரும்புகின்றோம். இந்த 1300 வீட்டுத்திட்டம் எதிர்வரும் ஓகஸ்ட் மாதம் பூர்த்தி செய்யப்படும்.
+
+...
+
+[Data](articles/70ee126f.json)
 
 ---
 
@@ -1891,85 +1967,5 @@ The survey pool included the official telephone lines assigned to Grama Niladhar
 [Data](articles/76615d1f.json)
 
 [Extended Data](ext_articles/76615d1f.ext.json)
-
----
-
-### Big change in crude oil
-
-*2024-02-26 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193846) · `si`
-
-The crude oil prices of the world market have been reduced today.
-
-The dollar has been strengthened on the background of US interest cuts due to increased inflation.
-
-Accordingly, a barrel of Brent crude oil has declined from $ 81 and 27 cents.
-
-By strengthening the dollar, oil becomes more expensive commodity for dealing with other exchange.
-
-Meanwhile, gold prices in the world market showed a down-to-US dollar and the price of gold is currently recorded as $ 2030 and 90 cents.
-
-◼️
-
-[Data](articles/936408cf.json)
-
-[Extended Data](ext_articles/936408cf.ext.json)
-
----
-
-### A series of guidelines from the Ministry of Education
-
-*2024-02-26 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193845) · `si`
-
-A series of guidelines have been issued to protect the school children from the unfavorable conditions that can be found in the face of high temperatures.
-
-The Ministry of Education issues a statement saying that all Provincial Directors have been informed to inform the principals in this regard.
-
-◼️
-
-[Data](articles/1040156f.json)
-
-[Extended Data](ext_articles/1040156f.ext.json)
-
----
-
-### Vietnam delegation on agriculture, fisheries, meets Sri Lanka chamber
-
-*2024-02-26 15:48:00* · [`economynextcom`](https://economynext.com/vietnam-delegation-on-agriculture-fisheries-meets-sri-lanka-chamber-152125/) · `en`
-
-ECONOMYNEXT – A roundtable discussion between a delegation from Vietnam’s Ministry of Agriculture and Rural Development, and the Ceylon Chamber of Commerce, looked for collaboration opportunities in agriculture, forestry, and fisheries.
-
-The delegation led by Minister of Agriculture and Rural Development of Vietnam Le Minh Hoan, comprised Ministry officials and entrepreneurs of Vietnam’s agriculture sector.
-
-‘Sri Lanka is strong in several agricultural sectors, with tea, fruit and vegetables especially, having strong export potential to Vietnam. Similarly, Vietnam’s progressive technology can strengthen the agriculture sector in Sri Lanka,’ Chairman of the Ceylon Chamber Duminda Hulangamuwa said in a statement.
-
-Minister Le Minh Hoan said that “bilateral agricultural trade between Vietnam and Sri Lanka has potential for growth,” and highlighted “the respective strengths of the two countries to complement mutual progress and development.”
-
-...
-
-[Data](articles/bdb283c5.json)
-
-[Extended Data](ext_articles/bdb283c5.ext.json)
-
----
-
-### Bus topples a bus with school children
-
-*2024-02-26 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193844) · `si`
-
-A bus carrying school children in Ampara
-
-There are reports that nearly 30 children in the bus have been reported at the time of the accident.
-
-A bus carrying school children in Ampara
-
-There are reports that nearly 30 children in the bus have been reported at the time of the accident.
-
-Five school children who were injured in the accident have been hospitalized for treatment.
-
-◼️
-
-[Data](articles/b10ed34f.json)
-
-[Extended Data](ext_articles/b10ed34f.ext.json)
 
 ---

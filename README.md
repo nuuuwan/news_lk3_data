@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 03:02:34**
+As of **2024-02-28 03:17:25**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,680 (100.0%) of 9,681 articles have been extended.
+9,681 (100.0%) of 9,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### சூட்சுமமான முறையில் மாடுகள் கடத்தி சென்ற நால்வர் கைது
+### Four people arrested for smuggling cows
 
 *2024-02-28 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177461) · `ta`
 
-அனுமதி பத்திரமின்றி ஒட்டுசுட்டான் நோக்கி மாடுகளை கொண்டு சென்ற குற்றச்சாட்டில் செவ்வாய்க்கிழமை (27) இரவு நால்வர் கைது செய்யப்பட்டுள்ளனர்.
+Four people have been arrested on Tuesday night (27) on charges of carrying cows towards Parasutan without permission.
 
-சுதந்திரபுரம் பகுதியிலிருந்து பரந்தன் வீதி ஊடாக ஒட்டுசுட்டான் நோக்கி அனுமதி பத்திரங்கள் ஏதுமின்றி 33 மாடுகளை வீதியூடாக நடாத்தி கொண்டு சென்ற போது புதுக்குடியிருப்பு பொலிஸார் கைவேலி பகுதியில் இடை மறித்து சோதனை நடவடிக்கைகளை  மேற்கொண்டு குறித்த நபர்களை கைது செய்துள்ளதுடன் மாடுகளையும் மீட்டுள்ளனர்.
+Pudukkudiyiruppu police have arrested the persons and recovered the cows when they carried 33 cows through the road from the Independence area to Paradhan Road.
 
-சம்பவம் தொடர்பில் விசாரணை மேற்கொண்டுள்ள பொலிஸார் நீதிமன்றில் வழக்கு தொடரவுள்ளதாகவும் தெரிவித்துள்ளதோடு இது  தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதும் குறிப்பிடத்தக்ககது.
+It is noteworthy that the police are investigating the incident and are conducting a case in court and further investigations are being carried out.
 
 ◼️
 
 [Data](articles/62c56c0a.json)
+
+[Extended Data](ext_articles/62c56c0a.ext.json)
 
 ---
 

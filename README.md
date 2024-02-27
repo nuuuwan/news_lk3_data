@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 16:17:13**
+As of **2024-02-27 16:33:11**
 
 ## Newspaper Stats
 
-*Scraped **9,598** Articles*
+*Scraped **9,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 491
 dailyftlk | 505
 islandlk | 511
 adalk | 810
-adaderanalk | 1,153
-tamilmirrorlk | 1,175
-virakesarilk | 1,311
+adaderanalk | 1,154
+tamilmirrorlk | 1,176
+virakesarilk | 1,312
 dailymirrorlk | 1,447
 adaderanasinhalalk | 1,453
 
@@ -26,41 +26,103 @@ adaderanasinhalalk | 1,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,595 (100.0%) of 9,598 articles have been extended.
+9,598 (100.0%) of 9,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### වාලච්චේන කඩදාසි කම්හලෙන් ලාභ ගන්න පහසු විදියක්
+### வாழைச்சேனை கடதாசி தொழிற்சாலை மோசடிகளால் அழிகிறதா?
+
+*2024-02-27 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177407) · `ta`
+
+நான்கு தசாப்தங்களுக்கு முன்னர் வாழைச்சேனை என்றதும் அங்கு அமைந்துள்ள கடதாசி தொழிற்சாலை தான் அனைவருக்கும் நினைவுக்கு வரும். என்றாலும் 1990 களில் இத்தொழிற்சாலை மூடப்பட்டதோடு அந்நினைவு பெரும்பாலானவர்களின் மனங்களில் இருந்து நீங்கிவிட்டது.
+
+1947 இல் ஐக்கிய தேசியக் கட்சி அரசாங்கத்தில் கைத்தொழில் அமைச்சராக ஜோர்ஜ் ஈ.டி.சில்வா பதவி வகித்தார். அப்பதவி 1948 இல் ஜி.ஜி பொன்னம்பலத்திற்கு வழங்கப்பட்டது. அதனைத் தொடர்ந்து 1951 இல் வாழைச்சேனை கடதாசி தொழிற்சாலைக்கு பொன்னம்பலம் அடிக்கல் நாட்டினார். ஜேர்மன் நாட்டின் உதவித் திட்டத்தின் கீழ் இத்தொழிற்சாலை அமைக்கப்பட்டது.
+
+என்றாலும் 1952 இல் நடைபெற்ற பொதுத்தேர்லிலும் ஐ.தே.க வே ஆட்சிக்கு வந்தது. அந்த அரசிலும் பொன்னம்பலமே கைத்தொழில் அமைச்சரானார். அதனால் அவர் அடிக்கல் நாட்டி ஆரம்பித்த கடதாசி தொழிற்சாலையின் நிர்மாணப் பணிகள் டட்லி சேனநாயக்காவின் ஆட்சியிலும் வெற்றிகரமாக முன்னெடுக்கப்பட்டன.
+
+...
+
+[Data](articles/9f134131.json)
+
+---
+
+### நீதிமன்றத்தின் முன் பொலிஸ் உத்தியோகத்தர் உயிரிழப்பு
+
+*2024-02-27 15:58:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தின்-முன்-பொலிஸ்-உத்தியோகத்தர்-உயிரிழப்பு/175-333892) · `ta`
+
+மாத்தறை கொடவில நீதிமன்ற வளாகத்துக்கு அருகில் பொலிஸ் உத்தியோகத்தர் ஒருவர் துப்பாக்கியால் சுட்டு தனது உயிரை மாய்த்துக்கொண்டதாக தெரிவிக்கப்படுகின்றது.
+
+கொடவில பொலிஸ் நிலையத்தில் கடமையாற்றும் 52 வயதுடைய சார்ஜன்ட் ஒருவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+நீண்ட நாட்களாக சுகயீன விடுமுறையில் இருந்து பணிக்கு திரும்பிய அவர், கொடவில நீதிமன்ற வளாகத்தில் உள்ள பொலிஸ் நிலையத்தில் வைத்து இன்று துப்பாக்கியால் சுட்டு கொண்டதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/a29a5acb.json)
+
+---
+
+### The Valachchenai Paper Factory is easy to profit
 
 *2024-02-27 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193881) · `si`
 
-වාලච්චේන කඩදාසි කම්හල වැසී යාමේ තත්ත්වයකට ඉඩ නොතබා රාජ්‍ය පෞද්ගලික හවුල් ව්‍යාපාරයක් ලෙස පවත්වාගෙන යාමේ අවශ්‍යතාව අදාළ අමාත්‍යවරුන්ට සහ ජනාධිපතිවරයාට පෙන්වාදෙන බව ජාතික ආර්ථික හා භෞතික සැලසුම් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති ගරු මහින්දානන්ද අලුත්ගමගේ මහතා පසුගියදා පැවසීය.
+The Chairman of the National Economic and Physical Planning, Mahindananda Aluthgamage has said that the need to maintain the need to maintain a state-private journalism and the president.
 
-ජාතික කඩදාසි සමාගමේ 2013, 2014 සහ 2015 වසරවලට අදාළ වාර්ෂික වාර්තා පසුගියදා (20) ජාතික ආර්ථික හා භෞතික සැලසුම් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී සැලකිල්ලට ගත් අවස්ථාවේදී කාරක සභා සභාපතිවරයා ඒ බව පැවසීය.
+The Chairman of the Committee Chairman said that at the sectoral Oversight Committee on National Paper Company (2014) and 2015 (20),
 
-වාලච්චේන කර්මාන්ත ශාලාවේ යන්ත්‍ර 1956 වසරේ ගෙන්වන ලද ඒවා බැවින් මෙහි අලුත්වැඩියාවන් සඳහා ඇ. ඩොලර් මිලියන 1.2ක් අවශ්‍ය බවත් භාණ්ඩාගාරයෙන් මුදල් ප්‍රතිපාදන නොලැබුණු බැවින් මෙය රාජ්‍ය පෞද්ගලික හවුල් ව්‍යාපාරයක් ලෙස පවත්වාගෙන යාමට කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කළද එම භූමිය සංචාරක ව්‍යාපාරයක් සඳහා වෙන් කරන ලද බැවින් ඒ සඳහා අනුමැතිය නොලැබුණ බව කර්මාන්ත අමාත්‍යාංශයේ ලෙකම් තිලකා  ජයසුන්දර මහත්මිය මෙහිදී පැවසුවාය.
+Since the Valachchenai Factory machines were imported in 1956 in 1956, so they were repaired. The Ministry of Industries said that the cabinet was submitted to maintain a cabinet, but the land was allocated for a tourism industry as a government partnership.
+
+If the factory repairs spend Rs.. It was revealed that a profit of Rs 22 million was possible.
+
+It was also discussed that the entire land spread of 340 acres was the ability to consider it for a tourist zone and considering it.
 
 ...
 
 [Data](articles/43822527.json)
 
+[Extended Data](ext_articles/43822527.ext.json)
+
 ---
 
-### අධිකරණයක් ඉදිරිපිටදී පොලිස් නිලධාරියෙකු සියදිවි හානිකරගනී
+### Police officer shoots himself dead near court in Matara
+
+*2024-02-27 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97568/police-officer-shoots-himself-dead-near-court-in-matara) · `en`
+
+A police officer has fatally shot himself at the Matara New Court Complex in Kotawila North, Matara.
+
+The deceased has been identified as a 52-year-old Police Sergeant, attached to the Kotawila Police Station, who was on duty at the police post at the court.
+
+He had reportedly shot himself using his service firearm within the police post located at the court complex today (27).
+
+The police officer in question had reportedly only returned to duty today after being on sick leave for several days.
+
+If you or someone you know is in crisis and needs help, resources are available for immediate support:
+
+- For emergencies contact the National Mental Health Helpline 1926
+
+◼️
+
+[Data](articles/220ddda2.json)
+
+---
+
+### A police commits suicide in front of a court
 
 *2024-02-27 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193880) · `si`
 
-මාතර කොටවිල අධිකරණ සංකීර්ණය අසළදී පොලිස් නිලධාරියෙකු වෙඩිතබාගෙන සියදිවි හානිකරගෙන ඇති බව පොලීසිය පවසයි.
+Police have committed suicide by shooting near the Kotawila Court Complex in Matara.
 
-මෙලෙස සියදිවි හානිකරගෙන ඇත්තේ 52 හැවිරිදි වියේ පසුවූ කොටවිල පොලිස් ස්ථානයට අනුයුක්තව සේවයේ නිරතව සිටි සැරයන්වරයෙකි.
+The victim has been committed to the 52-year-old police station.
 
-ඔහු දීර්ඝ කලක් තිස්සේ ලෙඩ නිවාඩු වාර්තා කර සිට නැවත සේවයට පැමිණ මෙලෙස අද කොටවිල අධිකරණ සංකීර්ණයේ පොලිස් මුරපොළ තුළදී සියදිවි හානිකරගෙන ඇත.
+He has been re-employed and returned to work and have been re-served and committed suicide during the police post today.
 
 ◼️
 
 [Data](articles/055096d4.json)
+
+[Extended Data](ext_articles/055096d4.ext.json)
 
 ---
 
@@ -652,25 +714,27 @@ The remains of the deceased are currently at the Karapitiya Teaching Hospital, w
 
 ---
 
-### මාඳු ගඟේ කකුළුවන් ධීවරයන්ගේ මඩිය තර කරයි
+### The madfire of the madfish of the mummy river
 
 *2024-02-27 12:14:49* · [`adalk`](https://www.ada.lk/breaking_news/මාඳු-ගඟේ-කකුළුවන්-ධීවරයන්ගේ-මඩිය-තර-කරයි/11-408303) · `si`
 
-මේ දිනවල මාදු ගගේ කකුළුවන් කිලෝග්රෑම් එකක් රුපියල් දොළොස් දහසකට අලෙවි වන බව මාදු ගගේ ධීවරයෝ කියති.
+The fishermen of the Madu Rule say that a kilogram of crabs have been sold for a kilogram of crabs these days.
 
-සිය රැකියා ඉතිහාසයේ මේ තරම් ඉහළ මිලකට කකළුවන් කිලෝග්රෑම් එකක් අලෙවි නොවූ බවද ඔවුහු කියති.
+They say that a kilogram of computers have not been sold at such a higher price in history.
 
-වෙනදා රුපියල් දහකට දෙදහකටවත් කිලෝග්රෑම් එකක් අලෙවි කර ගැනීමට නොහැකිව තිබූ කකුළුවන් කිලෝග්රෑම් එකක් මේසා වාර්තාගත ලෙස ඉහලයාම තමන් සිහිනෙකින්වත් නොසිතූ බව ද ධීවරයෝ කියති.
+Fishermen also say that he has not even considered a kilogram of crabs that were unable to sell a kilogram of crab.
 
-විදේශකයින් මෙරටට පැමිණීමේ සීඝ්‍රතාව ඉහළ යාමත් සමගම මෙසේ කකලුවන් මිල ඉහල ගොස් සිටින බව ද ධීවරයෝ කියති
+The fishermen say that the prices of the prices have risen as the rapid increase in foreigners
 
-නෙලාගන්නා  කකුළුවන් අස්වැන්නම අලෙවි කිරීමට කිසිම බාධාවක් නැති බවත් එහෙත් ඉල්ලුම තරමටම කකළුවන් දීගැනීමට තමන් අපොහොසත්වී ඇති බවත් ඔවුහු කියති.
+They say they have failed to sell the harvest, but they have failed to give their demand.
 
-කකුළුවන්ගේ මිල ඉහළයාමට සමගාමීව කකුළු අස්වැන්න නෙල ගැනීමට මාදු ගගට එන ධීවරයින්ගේ ප්‍රමාණයද දැන් දැන් ඉහළ යමින් තිබෙන බද ද කියති.
+The sizes of the river is now increasing in the rise to the crow's price increase in the midst of the crab harvest.
 
 ◼️
 
 [Data](articles/07298865.json)
+
+[Extended Data](ext_articles/07298865.ext.json)
 
 ---
 
@@ -1945,69 +2009,5 @@ The Leader of the JHU (JHD) leader of the JHU
 [Data](articles/8aba0064.json)
 
 [Extended Data](ext_articles/8aba0064.ext.json)
-
----
-
-### Sri Lanka and India negotiating on bilateral investment treaty: report
-
-*2024-02-27 07:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-india-negotiating-on-bilateral-investment-treaty-report-152175/) · `en`
-
-ECONOMYNEXT – Sri Lanka and India is working on a bilateral investment treaty, a media report quoted High Commission Santosh Jha as saying.
-
-The investment treaty is separate from an Economic and Technological Co-operation Agreement which is also under discussion, Jha was quoted as saying by Bloomberg Newswires.
-
-Discussion on the ETCA, are at an advanced stage, the report said.
-
-Under the Indo Lanka Free Trade Agreement India has become the third largest export destination. In 2023 Sri Lanka exported 829 million US dollars of goods to the country, just behind UK at 846 million US dollars.
-
-It also has to ensure that Lanka does not become a conduit that other countries can use to push finished goods into India.
-
-◼️
-
-[Data](articles/db44d44b.json)
-
-[Extended Data](ext_articles/db44d44b.ext.json)
-
----
-
-### A life of the casian is kicked
-
-*2024-02-27 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193863) · `si`
-
-Due to a casual relationship in the area, a woman has been assaulted by a sharp object.
-
-The Media Center forced a manner that a woman was injured in a side road in the Namawala area yesterday morning (26).
-
-Accordingly, the investigation was revealed that the murder had been assaulted by a person who had a casual relationship with death.
-
-The deceased has been identified as 45, a 45 year old resident of the Wanduramba area.
-
-The suspect has also attempted to suffer the murder and has been admitted to the Karapitiya Hospital.
-
-◼️
-
-[Data](articles/672616dd.json)
-
-[Extended Data](ext_articles/672616dd.ext.json)
-
----
-
-### Biden hopes for ceasefire in days as Israelis, Hamas take part in Qatar talks
-
-*2024-02-27 07:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97555/biden-hopes-for-ceasefire-in-days-as-israelis-hamas-take-part-in-qatar-talks) · `en`
-
-(Reuters) - U.S. President Joe Biden said on Monday he hopes to have a ceasefire in the Israel-Hamas conflict in Gaza start by next Monday as the warring parties appeared to close in on a deal during negotiations in Qatar that also aim to broker the release of hostages.
-
-The presence of both sides for so-called proximity talks - meeting mediators separately but in the same city - suggested negotiations were further along than at any time since a big push at the start of February, when Israel rejected a Hamas counter-offer for a four-and-a-half-month truce.
-
-Biden said he hoped a ceasefire would start within days. “Well I hope by the beginning of the weekend, by the end of the weekend,” he said, when asked when he expected a ceasefire to start.
-
-“My national security adviser tells me that we’re close. We’re close. We’re not done yet. My hope is by next Monday we’ll have a ceasefire,” Biden told reporters during a visit to New York.
-
-...
-
-[Data](articles/56037bc1.json)
-
-[Extended Data](ext_articles/56037bc1.ext.json)
 
 ---

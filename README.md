@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 09:02:48**
+As of **2024-02-27 09:17:38**
 
 ## Newspaper Stats
 
-*Scraped **9,494** Articles*
+*Scraped **9,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,143
 tamilmirrorlk | 1,165
 virakesarilk | 1,294
 dailymirrorlk | 1,426
-adaderanasinhalalk | 1,436
+adaderanasinhalalk | 1,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,491 (100.0%) of 9,494 articles have been extended.
+9,494 (100.0%) of 9,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### ඉන්ධන මිල සුත්‍රයට සහනයක්
+
+*2024-02-27 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193866) · `si`
+
+ඉන්ධන මිල සුත්‍රයට ඉදිරියේ දී සහනයක් ලබාදීමට කටයුතු කරන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+
+දෙරණ 360 වැඩසටහනට එක්වෙමින් අමාත්‍යවරයා පවසා සිටියේ, මිල සුත්‍රය තුළ රජයට ලැබෙන 4%ක් වූ ලාභංශය අඩුකර ජනතාවට එම සහනය ලබාදීමට කටයුතු කරන බවය.
+
+...
+
+[Data](articles/45b8892d.json)
+
+---
 
 ### Gunshots fired into air near tourist hotel in Wellawatta
 
@@ -44,19 +58,37 @@ The police have initiated an investigation into the incident, the police spokesm
 
 [Data](articles/6c0c23ec.json)
 
+[Extended Data](ext_articles/6c0c23ec.ext.json)
+
 ---
 
-### ”தென்னாகோனின் நியமனத்தை அரசியலமைப்பு சபை ஏற்கவில்லை”
+### “The Constitutional Council does not accept Southcony's appointment”
 
 *2024-02-27 08:13:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னாகோனின்-நியமனத்தை-அரசியலமைப்பு-சபை-ஏற்கவில்லை/175-333863) · `ta`
 
-புதிய பொலிஸ் மா அதிபராக தேசபந்து தென்னகோனை நியமிப்பதற்கு அரசியலமைப்புச் சபை (CC) அனுமதி வழங்கவில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+Opposition Leader Sajith Premadasa has said that the Constitutional Council (CC) has not granted permission to appoint the new police chief.
 
-"ஆதரவாக நான்கு வாக்குகளும், எதிராக 2 வாக்குகளும் இருந்தன மேலும் இருவர் வாக்களிக்கவில்லை. தீர்மானத்தை மேற்கொள்ள குறைந்தது 5 வாக்குகளாவது தேவை. வாக்குகள் சமனாக இருந்தால் மட்டுமே சபாநாயகர் வாக்களிக்கலாம். வாக்குகள் சமனாகவும் இல்லை.
+“There were four votes in favor and 2 votes against and two were not voting. At least 5 votes are required to make a decision. The Speaker can vote only if the votes are equal. The votes are not equal.
 
 ◼️
 
 [Data](articles/9a26fa01.json)
+
+[Extended Data](ext_articles/9a26fa01.ext.json)
+
+---
+
+### වැල්ලවත්තේ හෝටලයක් ආසන්නයේ වෙඩි තැබීමක්
+
+*2024-02-27 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193865) · `si`
+
+වැල්ලවත්ත ප්‍රදේශයේ හෝටලයක් ආසන්නයට පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් වෙඩිතැබීමක් සිදුකර පළා ගොස් ඇතැයි වාර්තා වේ.
+
+පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, අදාළ පුද්ගලයින් යතුරුපැදියකින් පැමිණ ටී 56 වර්ගයේ ගිනිඅවියකින් අහසට වෙඩි තබා පළා ගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/1d9929a4.json)
 
 ---
 
@@ -296,21 +328,23 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### சுற்றுலாப் பயணிகளின் வருகை அதிகரிப்பு
+### Increase in attendance of tourists
 
 *2024-02-27 04:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-வருகை-அதிகரிப்பு/175-333860) · `ta`
 
-இந்த மாதத்தின் முதல் 18 நாள்களில் மாத்திரம் 138,736 சுற்றுலாப்பயணிகள் நாட்டுக்கு வருகைத்தந்துள்ளனர்.
+In the first 18 days of this month alone, 138,736 tourists visited the country.
 
-சுற்றுலா அபிவிருத்தி அதிகார சபை வெளியிட்டுள்ள புதுப்பிக்கப்பட்ட அறிக்கையில் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+This was stated in a renewed statement issued by the Tourism Development Authority.
 
-ரஷ்யாவில் இருந்து 20 ஆயிரத்து 101 பேரும், இந்தியாவில் இருந்து 18 ஆயிரத்து 564 பேரும், சீனாவில் இருந்து 10 ஆயிரத்து 696 பேரும் நாட்டுக்கு வருகைத்தந்துள்ளனர் என  சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+The Tourism Development Authority said that 20 thousand 101 from Russia, 18 thousand 564 from India and 10 thousand 696 from China.
 
-கடந்த ஜனவரி மாதத்தில் 2 லட்சத்து 82 ஆயிரத்து 53 சுற்றுலாப்பயணிகள் நாட்டுக்கு வருகைத்தந்துள்ளனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது. (a)
+The Tourism Development Authority said that 2 lakhs 82 thousand 53 tourists visited the country last January.. (A)
 
 ◼️
 
 [Data](articles/a7ac36d6.json)
+
+[Extended Data](ext_articles/a7ac36d6.ext.json)
 
 ---
 
@@ -1941,45 +1975,5 @@ The Visitor Index posted on its X site that Numbeo, the world's largest living d
 [Data](articles/4c8bc164.json)
 
 [Extended Data](ext_articles/4c8bc164.ext.json)
-
----
-
-### Farmers' struggle to restore grazing grounds continues
-
-*2024-02-26 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177356) · `ta`
-
-The Eastern Province dairy farmers say that the atrocities and injustices committed by the majority farmers have increased for more than five months.
-
-Tamil dairy farmers say that the majority of peasants are continuously harassing their livestock and killing and killing for 160 consecutive days.
-
-“The calf has been given in the month after giving excessive electricity. Born in a short month could not stand up. This is the calf cub. Is this unjust?Is this the unprecedented animal?Is this an electric wire?Do you know this?Look at everyone who respects Buddhist Dharma. Do you do this for the unpopular life?Shoot. You put the mouth explosive. Build the rifle. Cutting. Are you valued Buddhist Dharma? ”A call farmer is worried.
-
-Farmers are constantly demanding the removal of farmers who have forcibly occupied the grazing ground in Mayilathamadu and Madhavan.
-
-...
-
-[Data](articles/96572c18.json)
-
-[Extended Data](ext_articles/96572c18.ext.json)
-
----
-
-### Lanka T10 League set to kick off in December
-
-*2024-02-26 16:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lanka-T10-League-set-to-kick-off-in-December/108-277746) · `en`
-
-Colombo, Feb. 26 (Daily Mirror) - The inaugural edition of the Lanka T10 League is set to take place from December 12 to December 22, 2024.
-
-Originally planned for 2023, the tournament's rescheduled dates provide an optimal window for hosting a successful competition.
-
-Sri Lanka's newest addition to its annual cricket calendar, the Lanka T10 League, promises to showcase some of the finest international stars alongside the country's top cricketing talents. With action-packed matches expected, the tournament also offers a platform for young Sri Lankan players to rub shoulders with global icons.
-
-Shammi Silva, President of Sri Lanka Cricket, expressed confidence in the tournament's success, emphasizing its significance in keeping Sri Lankan cricket aligned with the evolving trends in the sport. He stated, "I have full confidence that this tournament will be a resounding success, contributing to Sri Lanka Cricket's ability to stay current with the evolving trends in the game."
-
-...
-
-[Data](articles/21da9692.json)
-
-[Extended Data](ext_articles/21da9692.ext.json)
 
 ---

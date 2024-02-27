@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 23:51:45**
+As of **2024-02-28 00:03:56**
 
 ## Newspaper Stats
 
-*Scraped **9,671** Articles*
+*Scraped **9,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 500
 dailyftlk | 505
 islandlk | 511
 adalk | 819
-adaderanalk | 1,164
+adaderanalk | 1,165
 tamilmirrorlk | 1,181
 virakesarilk | 1,323
 dailymirrorlk | 1,461
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,671 (100.0%) of 9,671 articles have been extended.
+9,672 (100.0%) of 9,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### More than 10 SriLankan flights delayed today, at least 3 cancelled
+
+*2024-02-27 23:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97578/more-than-10-srilankan-flights-delayed-today-at-least-3-cancelled) · `en`
+
+More than 10 SriLankan Airlines flights scheduled to leave from the Bandaranaike International Airport (BIA) in Katunayake today (Feb.27) have been delayed while at least 3 were cancelled, the national carrier said.
+
+As per reports, SriLankan aircraft that were supposed to depart for India, Malaysia, Indonesia, Bangladesh, the Maldives, Saudi Arabia, South Korea, the UAE and Kuwait have experienced delays.
+
+Accordingly, flights UL-121 (Chennai ), UL-364 (Jakarta)), UL-314 (Kuala Lumpur), UL-189 (Dhaka), UL-127 (Chennai) were delayed this morning, while flights UL-265 (Riyadh), UL-470 (Seoul), UL-103 (Male), UL-225 (Dubai) and UL-229 (Kuwait) scheduled for this evening to were held up.
+
+It was confirmed that SriLankan flights bound to Chennai, Bangalore, and Abu Dhabi were cancelled.
+
+...
+
+[Data](articles/bace156d.json)
+
+[Extended Data](ext_articles/bace156d.ext.json)
+
+---
 
 ### New sex education publications for all ages to be launched next month
 
@@ -2023,23 +2043,5 @@ He said it is a violation of Parliamentary traditions and the no-confidence moti
 [Data](articles/aa7c4bf9.json)
 
 [Extended Data](ext_articles/aa7c4bf9.ext.json)
-
----
-
-### Two killed in accident on Southern Expressway
-
-*2024-02-27 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-in-accident-on-Southern-Expressway/108-277806) · `en`
-
-Galle, Feb 27 (Daily Mirror) - Two persons were reportedly killed in an accident on the Southern Expressway near the Kurundugahetekma Interchange, police said.
-
-A lorry crashed into two highway workers, resulting in their deaths after being admitted to Karapitiya Hospital.
-
-The deceased, aged 36 and 63, were identified as residents of Imaduwa and Dikkumbura.
-
-◼️
-
-[Data](articles/2a200351.json)
-
-[Extended Data](ext_articles/2a200351.ext.json)
 
 ---

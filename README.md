@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 10:17:33**
+As of **2024-02-27 10:33:02**
 
 ## Newspaper Stats
 
-*Scraped **9,508** Articles*
+*Scraped **9,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,144
 tamilmirrorlk | 1,168
 virakesarilk | 1,294
 dailymirrorlk | 1,432
-adaderanasinhalalk | 1,438
+adaderanasinhalalk | 1,440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,505 (100.0%) of 9,508 articles have been extended.
+9,508 (100.0%) of 9,510 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,24 @@ Ambassador Arhire, expressing delight over the fourfold growth of bilateral trad
 
 [Data](articles/d1b9e3ff.json)
 
+[Extended Data](ext_articles/d1b9e3ff.ext.json)
+
+---
+
+### පොලිස්පති ශ්‍රේෂ්ඨාධිකරණයට පැමිණෙයි
+
+*2024-02-27 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193868) · `si`
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා මේ වනවිට කොළඹ උපරිමාධිකරණ සංකීර්ණයට පැමිණ සිටී.
+
+නඩු විභාගයකට සහභාගි වීම සඳහා ඔහු ශ්‍රේෂ්ඨාධිකරණයට පැමිණ සිටින බව වාර්තා වේ.
+
+පොලිස්පතිවරයාගේ පැමිණීම නිමිත්තෙන් උපරිමාධිකරණ සංකීර්ණ පරිශ්‍රයේ පොලිස් ආරක්ෂාව තර කර තිබේ.
+
+◼️
+
+[Data](articles/3a41a9bb.json)
+
 ---
 
 ### IGP arrives before Supreme Court
@@ -59,6 +77,8 @@ Colombo, Feb 27 (Daily Mirror) - Newly appointed IGP Deshabandu Tennakoon arrive
 ◼️
 
 [Data](articles/4dbaaa09.json)
+
+[Extended Data](ext_articles/4dbaaa09.ext.json)
 
 ---
 
@@ -75,6 +95,24 @@ He said the government would reduce the profit from the government to 4% of the 
 [Data](articles/57c00476.json)
 
 [Extended Data](ext_articles/57c00476.ext.json)
+
+---
+
+### බර්කිනා ෆාසෝහි දේවස්ථානයක සිදුවූ වෙඩි තැබීමකින් 15ක් මරුට
+
+*2024-02-27 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193867) · `si`
+
+බර්කිනා ෆාසෝහි දේවස්ථානයක සිදුවූ වෙඩි තැබීමකින් පුද්ගලයින් 15 දෙනෙකු මියගොස් තිබේ.
+
+නැගෙනහිර නාටියාබෝනි ප්‍රදේශයේ දේවස්ථානයක මෙම වෙඩි තැබීම සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+දේවස්ථානයේ යාඥා සිදුවන අවස්ථාවේ මෙම ප්‍රහාරය එල්ල කර ඇති අතර ඉස්ලාමීය සටන්කාමීන් පිරිසක් විසින් ප්‍රහාරය එල්ල කර ඇති බවට අනාවරණය වී තිබේ.
+
+බර්කිනා ෆාසෝහි කතෝලික දේවස්ථානයකට ද පසුගියදා මෙවැනිම ප්‍රහාරයක් එල්ල වී තිබිණි.
+
+◼️
+
+[Data](articles/aa1e05b4.json)
 
 ---
 
@@ -125,6 +163,8 @@ Police recovered at least nine empty shells at the scene and suspect that the sh
 ◼️
 
 [Data](articles/3113e16a.json)
+
+[Extended Data](ext_articles/3113e16a.ext.json)
 
 ---
 
@@ -1933,53 +1973,5 @@ As a result, Ulhupitiya Ratakada, the people of the area, the people of the area
 [Data](articles/808305c0.json)
 
 [Extended Data](ext_articles/808305c0.ext.json)
-
----
-
-### Sri Lanka rupee closes at 310.80/311.00 to the US dollar
-
-*2024-02-26 17:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-310-80-311-00-to-the-us-dollar-152140/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 310.80/311.00 to the US dollar Monday, from 310.95/311.05 on Thursday, dealers said.
-
-A bond maturing on 01.02.2026 closed stable at 10.60/80 percent.
-
-A bond maturing on 15.09.2027 closed at 11.80/90 percent down from 11.90/12.05 percent.
-
-A bond maturing on 15.03.2028 closed at 12.00/12.15 percent down from 12.10/25 percent.
-
-A bond maturing on 15.07.2029 closed at 12.20/70 percent from 12.20/95 percent.
-
-A bond maturing on 15.05.2030 closed at 12.30/70 percent down from 12.40/95 percent.
-
-A bond maturing on 15.05.2031 closed at 12.60/80 percent from 12.45/13.00 percent.
-
-A bond maturing on 01.07.2032 closed at 12.50/90 percent from 12.50/13.30 percent. (Colombo/Feb26/2024)
-
-◼️
-
-[Data](articles/2db39203.json)
-
-[Extended Data](ext_articles/2db39203.ext.json)
-
----
-
-### Court rejected by court
-
-*2024-02-26 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177369) · `ta`
-
-Fort Justice Thilina Kamage has rejected the request of the Criminal Investigation Department to invite Tamitha Abeyratne and her husband.
-
-The Criminal Investigation Department (CID) has announced in court that Tamitha Abeyratne and her husband have defrauded more than Rs.
-
-In this case, the Criminal Investigation Department (CID) had requested the court to summon the court to appear before the court as the police neglected the complaint.
-
-Fort Justice Dilina Kamage said the court could not issue a summons as the two were not named suspects.
-
-◼️
-
-[Data](articles/3993c132.json)
-
-[Extended Data](ext_articles/3993c132.ext.json)
 
 ---

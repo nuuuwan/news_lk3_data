@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 21:02:30**
+As of **2024-02-27 21:17:23**
 
 ## Newspaper Stats
 
-*Scraped **9,649** Articles*
+*Scraped **9,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ adaderanalk | 1,161
 tamilmirrorlk | 1,179
 virakesarilk | 1,321
 dailymirrorlk | 1,451
-adaderanasinhalalk | 1,461
+adaderanasinhalalk | 1,462
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,645 (100.0%) of 9,649 articles have been extended.
+9,649 (100.0%) of 9,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### மன்னார் தீவில் அரசு காற்றாலைத் திட்டத்தை கைவிடாதபோதும் தொடர்ந்து நாம் போராடுவோம் - மன்னார் ஆயர்
+### යතුරුපැදිකරුගෙන් රු 10,000ක් අල්ලස් ඉල්ලූ පොලීසියේ දෙදෙනා
+
+*2024-02-27 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193890) · `si`
+
+යතුරුපැදි නඩුවකට අදාළ ව පොලිස් භාරයට ගත් රියදුරු බලපත්‍රයක් නැවත ලබාදීම සඳහා එම යතුරුපැදිකරුගෙන් රුපියල් 10,000ක අල්ලස් මුදලක් ලබාගත් බව කියන ඉත්තෑපාන පොලීසියේ සැරයන්වරයෙකු හා ආධුනික කොස්තාපල්වරයෙකු ලබන මස 12 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් අද (27) නියෝග කළේය.
+
+යගිරල ප්‍රදේශයේ පදිංචි දිමුත් මධුශංක නැමැති පුද්ගලයෙකු අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව වෙත කරන ලද පැමිණිල්ලක් අනුව සැකකාර පොලිස් නිලධාරීන් දෙදෙනා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+පැමිණිලිකාර පුද්ගලයා යතුරුපැදියෙන් ඉත්තෑපාන ප්‍රදේශයේ ගමන් ගනිමින් සිටින අතරතුරදී මාර්ග නීති උල්ලංඝනය කිරීමේ සිද්ධියකට අදාළව ඔහුව අත්අඩංගුවට ගෙන ඇති බවත් ඔහු සතු රියදුරු බලපත්‍රයද සිය භාරයට ගෙන ඇති පොලිස් නිලධාරීන් දෙදෙනා ඔහුට දඩ පත්‍රිකාවක් ලබාදී ඇති බවද අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් අධිකරණයට දැන්වීය.
+
+...
+
+[Data](articles/9c8a3f6f.json)
+
+---
+
+### We will continue to fight even when the government does not abandon the wind farm on Mannar Island
 
 *2024-02-27 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177453) · `ta`
 
-தமிழர் தாயகத்தில் இன்று எற்பட்டுள்ள பாரிய உட்கட்சி முரண்பாடுகள் தமிழ் மக்களை ஏமாற்றமடையச் செய்துள்ளன. எதிர்பார்க்கப்பட்ட பல்வேறு தேர்தல்கள் பின்தள்ளப்பட்டு வருகின்றது. இது மக்களுக்கு ஏமாற்றத்தையும் கோபத்தையும் ஏற்படுத்தியுள்ளது. மன்னார் தீவில் முன்னெடுக்கப்படும் காற்றாலை திட்டத்தால் ஏற்படும் ஆபத்தை தெரிவித்தும் அரசு கவனிக்காது வருகின்றது என மன்னார் மறைமாவட்ட ஆயர் மேதகு பிடேலிஸ் லய்னல் இம்மானுவேல் பெர்னாண்டோ ஆண்டகை இவ்வாறு தெரிவித்துள்ளார்.
+The massive internal conflicts in the Tamil homeland today have disappointed the Tamil people. The expected various elections are being lagging behind. This has caused people to disappoint and anger. The government is unaware of the danger of the windmill project on the Mannar Island, said the Archbishop of Mannar Diocese Fidelis Lionel Emmanuel Fernando.
 
-வருடந்தோறும் மன்னார் ஆயர் இம்மானுவேல் பெர்னாண்டோ ஆண்டகை மன்னார் மறைமாவட்ட இறை மக்களுக்கு தவக்காலத்தில்  விடுக்கும் செய்தியில் தெரிவித்திருப்பதாவது
+Annually Mannar Emmanuel Fernando Annayaka said in a message that the people of Mannar will be released during the period
 
-திருச்சபையின் திருவழிப்பாட்டு ஆண்டில் மீண்டும் ஒரு தவக்காலத்தில் கத்தோலிக்க மக்களாகிய நாம் காலடி பதித்துள்ளோம்.
+We, the Catholic people, have set foot in a period of time in the year of the Church.
 
-இத்தவக்காலம் அருளின் காலமாகவும் , மனமாற்றத்தின் காலமாகவும் . ஊனியல்புக்குரிய பழைய பாவ இயல்புகளை களைந்துவிட்டு செபம் , தவம் . தானதருமம் வழியாக இறைவனோடும் தன்னோடும் அயல்வர்களோடும் ஒப்புரவாக வேண்டிய காலமாக  இந்த தவக்காலம் அமைந்துள்ளது.
+This period is the time of grace and the time of repentance. Old sinful nature. This period is a time when the Lord has to agree with the Lord, the self and the neighbors.
+
+The pastor of today's politics of today's country said that the massive internal conflicts in the Tamil homeland have disappointed the Tamil people.
+
+The continuation of the national political parties continues. Various elections are being lagging behind.
 
 ...
 
 [Data](articles/e77cca02.json)
+
+[Extended Data](ext_articles/e77cca02.ext.json)
 
 ---
 
@@ -118,21 +140,27 @@ The Asian Development Bank has agreed to provide working capital support for the
 
 ---
 
-### පොලිස්පතිගෙන් ශ්‍රේෂ්ඨාධිකරණයට පොරොන්දුවක්
+### IGP promise a promise to Supreme Court
 
 *2024-02-27 19:10:18* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිගෙන්-ශ්‍රේෂ්ඨාධිකරණයට-පොරොන්දුවක්/11-408310) · `si`
 
-පැමිණිල්ලකට අදාළව ප්‍රකාශයක් ගැනීමට පුද්ගලයෙකු පොලීසියට කැඳවන අවස්ථාවේදී ඒ සම්බන්ධයෙන් සියලු කරුණු ඔහුට දැනුම් දෙන විධිවිධාන අඩංගු කරමින් චක්‍රලේඛයක් නිකුත් කිරීමට පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතා ශ්‍රේෂ්ඨාධිකරණයට අද (27) පොරොන්දු විය.
+When a person summoned a complaint to the police to make a statement in relation to a complaint, the IGP, Calithman Tennakoon, promised the Supreme Court today.
 
-බලශක්ති විශේෂඥ ළුම්.පී. රළපනාව මහතා ගොනු කර තිබු මුලික අයිතිවාසිකම් පෙත්සමකට අදාළව පෞද්ගලිකවම අධිකරණයේ පෙනී සිටි පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතා වෙනුවෙන් පෙනී සිටි රජයේ ජ්‍යෙෂ්ඨ නීතිඥ ශවීන්ද්‍ර වික්‍රම මහතා එලෙස පොරොන්දු විය.
+Energy Specialist Way. Senior Attorney-at-Law Chairman, Senior Attorney, appearing on behalf of the IGP of the Judiciary, has promised the Inspector General of Police.
 
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ගාමිණී අමරසේකර ජනක් ද සිල්වා සහ ශිරාන් ගුණරත්න යන මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ මෙම පෙත්සම සලකා බැලිණි.
+The petition was considered in the face of Supreme Court Judge Gamini Amarasekera Janak de Silva and Shiran Gunaratne.
 
-බලශක්ති විශේෂඥ  ළුම්. පී. රළපනාව මහතා ගොනුකර තිබූ පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඇතුළු පිරිසක් නම් කර ඇත.
+Energy expert on good. P. IGP Deshabandu Tennakoon and several others have been named as respondents in the petition filed by Ralapana.
+
+The petitioner Energy expert expertise has been told by criticizing this principal rights petition and told him to visit the police to report a statement.
+
+The petitioner is requested to issue a series of guidelines to the police to convey the law to take a statement to take a statement.
 
 ...
 
 [Data](articles/4ac90490.json)
+
+[Extended Data](ext_articles/4ac90490.ext.json)
 
 ---
 
@@ -338,21 +366,25 @@ These demands are fair. The UN Human Rights Council (UNHRC) urges the UN Human R
 
 ---
 
-### රනිල් අපේක්ෂකයා කළ යුතුයි කියන්නේ සුළු පිරිසක්
+### Ranil should do to make a candidate
 
 *2024-02-27 18:27:38* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-අපේක්ෂකයා-කළ-යුතුයි-කියන්නේ-සුළු-පිරිසක්/11-408308) · `si`
 
-වත්මන් රජයේඇමැති ධූර රාජ්‍ය අමාත්‍ය ධුර ලබාගත් සුළු පිරිසක්ජනාධිපති රනිල් වික්‍රමසිංහ මහතාඉදිරි ජනාධිපතිවරණයේ අපේක්ෂකයා විය යුතුබවට මත පළ කළත්එය පක්ෂයේ මතය නොවන බවත්ඡන්දය ප්‍රකාශයට පත් කළ පසුපොදු ජන පෙරමුණේ අපේක්ෂකයා ඉදිරිපත් කරන බවපාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා පවසයි .
+Ranil Wickremesinghe is not the views of the party, Ranil Wickremesinghe is not the views of the party, which has been appointed as the Candidate of the presidential election.
 
-මහනුවරනෙල්ලිගල ජාත්‍යන්තර බෞද්ධ මධ්‍යස්ථානයේ පැවැති උත්සවයකින් අනතුරුව ඒ මහතා වැඩිදුරටත් අවධාරණය කර සිටියේ කවුරුන් කෙසේ පැවසුවද මීළඟ ජනාධිපතිවරයා බිහිවනු ඇත්තේ පොදු ජන පෙරමුණ ප්‍රමුඛ පුළුල් සන්ධානයකින් බවයි .
+He said that he emphasized that the next President would be a wide alliance of the public leading presence.
 
-ජනාධිපතිවරයා සමඟ කැබිනට් මණ්ඩලයේ සිටිනඅපේ අය මෙන්ම රාජ්‍ය අමාත්‍ය ධූර උසුලන අයගෙත් අදහසක් තිබෙනවාරනිල් වික්‍රමසිංහ මහතාට ජනාධිපති අපේක්ෂකත්වය දිය යුතුයි කියා . තවත් අය තවත් නම් ඉදිරිපත් කරනවා . නමුත් ඒ කිසිවකටත් අප කලබල විය යුතු නැහැ.
+The presidential candidate should give the presidential candidate with the President as well as those in the Cabinet and state ministries. Others offer more names. But we should not worry about anything.
 
-තම තමන්ගේ පෞද්ගලික මත ඉදිරිපත් කිරීමේ නිදහස තම පක්ෂයේ තිබෙන බවත් වෙනත් පක්ෂවල මේ ආකාරයට ප්‍රතිවිරුද්ධ මත ඉදිරිපත් කළහොත් පක්ෂ සාමාජිකත්වය පවා තහනම් වන බවද නාමල් රාජපක්ෂ මහතා පැවසීය .
+Namal Rajapaksa said that if the freedom of his own personal affair, it is prohibited by party membership.
 
-...
+The opposition commenced the security of the road to the Speaker, but it was signed by the Passover Leader of Parliament and the Speaker could talk to the Speaker and talk to the Attorney General.
+
+◼️
 
 [Data](articles/9c06151e.json)
+
+[Extended Data](ext_articles/9c06151e.ext.json)
 
 ---
 
@@ -1991,27 +2023,5 @@ Several MPs including party secretary Sakara Kariyawasam MP and members of the S
 [Data](articles/59e28d6c.json)
 
 [Extended Data](ext_articles/59e28d6c.ext.json)
-
----
-
-### Political parties have been made aware of the regulation of election costs
-
-*2024-02-27 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193873) · `si`
-
-The National Elections Commission has decided to inform the political parties on the Election Costing Registration Act.
-
-Chairman of the Election Commission RM. it. L. Mr. Ratnayake said that awareness will be conducted today and March 6.
-
-According to the Elections Registration Act, the cost of spending is limited to elections.
-
-However, the discussions will be held to give a proper understanding of the provisions of the relevant Act due to the absence of any election after the end of the bill.
-
-Ranjitaddum Bandara, Sisira Jayakody and Uvindu Wijeweera and Uvindu Wijeweera were also present.
-
-◼️
-
-[Data](articles/7705dfde.json)
-
-[Extended Data](ext_articles/7705dfde.ext.json)
 
 ---

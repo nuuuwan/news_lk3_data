@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 17:02:28**
+As of **2024-02-27 17:17:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,603 (100.0%) of 9,605 articles have been extended.
+9,605 (100.0%) of 9,605 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -116,6 +116,8 @@ He committed suicide today in the police post of the Kotawila Court Complex.
 
 [Data](articles/26c9ec0b.json)
 
+[Extended Data](ext_articles/26c9ec0b.ext.json)
+
 ---
 
 ### The Valachchenai Paper Factory is easy to profit
@@ -182,19 +184,23 @@ He has been re-employed and returned to work and have been re-served and committ
 
 ---
 
-### වැසිකිලියෙදී ප්‍රසූත කරනතෙක් ගැබ්ගෙන ඇති බව නොදත් මවක්
+### A mother who is not conceived in the closet
 
 *2024-02-27 15:32:09* · [`adalk`](https://www.ada.lk/breaking_news/වැසිකිලියෙදී-ප්‍රසූත-කරනතෙක්-ගැබ්ගෙන-ඇති-බව-නොදත්-මවක්/11-408305) · `si`
 
-වැලිපැන්න පොලිස් වසමේ මුස්ලිම් කොළණිය ප්‍රදේශයේ පදිංචි විවාහක දෙදරු මවක් විසින් පසුගිය දින අලුයම නිවසේ වැසිකිලියක් තුල බිළිඳෙකු බිහිකර ඇති අතර අනතුරුව නිවැසියන් විසින් 1990 සුවසැරිය ගිලන් රථයක් මගින් මව සහ බිලිඳා මතුගම වෑත්තෑව රෝහලට ගෙන ගියත් ඒ වන විට බිලිඳා මියගොස් තිබීම නිසා නාගොඩ රෝහලට යවා ඇත.
+A married mother of the Muslim in the Welipenna police division has taken a baby in a house toilet by the residents of 1990, but the baby has been sent to the Nagoda Hospital.
 
-මීට මාස තුනකට පමණ පෙර මෙම කාන්තාවගේ සැමියා මියගොස් ඇති අතර ඇය ඒ වන විටත් 44 හැවිරිදි දෙදරු මවකි. මෙම කාන්තාවගේ 3 වන දරුවා ලෙස මෙම බිලිඳා බිහිවී ඇතත් තමන්ගේ කුසතුල  දරුවෙකු පිළිසිඳ ගෙන ඇතිබව තමන් නොදන්නා බවත් ,සිද්ධිය වූ අවස්ථාවේ තමාට වැසිකිළි යාමේ අවශ්‍යතාවයක් ඇතිවූ නිසා වැසිකිලියට ගිය විටදී තම කුස තුලින් බිළිඳෙකු බිහිවී බිමට වැටුණු බවත් ඇය පොලිසියට පවසා ඇත.
+The woman's husband had died about three months ago and is a 44 year old mother of two. She has told the police that the baby has come toilet, but she had come toilet to the toilet, but she had a baby toilet and fell to the toilet because of the event that the baby was born as a 3rd child of this woman.
 
-තමා ගැබිණියක් බව නොදැන සිටි නිසා මෙම දරු ප්‍රසූතිය වෙනුවෙන් පවුල් සෞඛ්‍ය සේවිකාවක් හමුවට හෝ සායනයක් වෙත නොගිය බවද ඇය වැඩිදුරටත් පවසා ඇත.
+She added that the child health workers were not taken to a clinic for childbirth, as he was pregnant.
+
+Police have informed the Welipenna Police regarding this infant death by the Nagoda Hospital Hospital. The police suspect that the baby was killed and the incident was taken to the scene of the incident and had a judicial medical examination regarding the incident.
 
 ...
 
 [Data](articles/a3bc09cd.json)
+
+[Extended Data](ext_articles/a3bc09cd.ext.json)
 
 ---
 

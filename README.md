@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 15:02:50**
+As of **2024-02-27 15:17:42**
 
 ## Newspaper Stats
 
-*Scraped **9,580** Articles*
+*Scraped **9,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,43 @@ dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 491
 dailyftlk | 505
-islandlk | 509
+islandlk | 511
 adalk | 809
 adaderanalk | 1,152
 tamilmirrorlk | 1,174
 virakesarilk | 1,310
-dailymirrorlk | 1,441
+dailymirrorlk | 1,444
 adaderanasinhalalk | 1,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,579 (100.0%) of 9,580 articles have been extended.
+9,580 (99.9%) of 9,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Seven flights including SriLankan flights cancelled
+
+*2024-02-27 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Seven-flights-including-SriLankan-flights-cancelled/108-277814) · `en`
+
+Katunayaka, Feb 27 (Daily Mirror) - Seven flights that were scheduled to leave for India, the Middle East and Thailand from the Katunayaka International Airport have been cancelled today, an officer from the flight information centre said.
+
+She said six of the cancelled flights were SriLankan Airlines flights.
+
+Accordingly, the US 173 flight, which was scheduled to leave for Bangalore, India at 1.10 a.m, the UL 402 flight which was scheduled to leave for Bangkok, Thailand, at 1.15 a.m. and the UL 135 SriLankan flight, which was scheduled to leave for Channai, India, were cancelled this morning.
+
+Moreover, the UL 143 SriLankan flight, which was scheduled to leave for Mumbai, India, at 5.10 a.m, the UL 263 SriLankan flight scheduled to leave for Dammam in Saudi Arabia at 6.30 a.m. and the UL 207 flight scheduled to leave for Abu Dhabi in the United Arab Emirates at 6.50 a.m, had been cancelled.
+
+Meanwhile, flight SG 002, which was scheduled to leave for Chennai, India, has also been cancelled.
+
+◼️
+
+[Data](articles/41d1b953.json)
+
+---
 
 ### Sri Lanka to give Rs20bn in SME loans with ADB support
 
@@ -109,6 +129,20 @@ Sri Lanka to halt parate execution of defaulted SME bank loans: Minister
 [Data](articles/164c3745.json)
 
 [Extended Data](ext_articles/164c3745.ext.json)
+
+---
+
+### S.C. Muthukumarana to replace Uddika Premaratne
+
+*2024-02-27 13:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/S-C-Muthukumarana-to-replace-Uddika-Premaratne/108-277809) · `en`
+
+S.C. Muthukumarana is to fill the vacancy created by MP Uddika Premaratne's resignation from Parliament today.
+
+Muthukumarana is next in line on the SLPP list for the Anuradhapura District.
+
+◼️
+
+[Data](articles/887267fd.json)
 
 ---
 
@@ -320,6 +354,10 @@ He said it is a violation of Parliamentary traditions and the no-confidence moti
 
 Galle, Feb 27 (Daily Mirror) - Two persons were reportedly killed in an accident on the Southern Expressway near the Kurundugahetekma Interchange, police said.
 
+A lorry crashed into two highway workers, resulting in their deaths after being admitted to Karapitiya Hospital.
+
+The deceased, aged 36 and 63, were identified as residents of Imaduwa and Dikkumbura.
+
 ◼️
 
 [Data](articles/2a200351.json)
@@ -416,17 +454,19 @@ At the same time, the senior police superintendent who carried out administrativ
 
 ---
 
-### ශ්‍රී ලන්කන් ගුවන් ගමන් අවලංගු නැතිලු, ප්‍රමාදයිලු
+### SriLankan flights canceled, delayed
 
 *2024-02-27 12:10:41* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-ගමන්-අවලංගු-නැතිලු--ප්‍රමාදයිලු/11-408302) · `si`
 
-ශ්‍රී ලන්කන් ගුවන් සේවයේ ගුවන් යානා 06 ක් 02/27 දින අවලංගු වී ඇති බව ප්‍රකාශයට පත් වී තිබුණ ද , එම ගුවන් ගමන් අවලංගු වීම් නොව ප්‍රමාද වීම් බව ශ්‍රී ලන්කන් ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශයේ ප්‍රධානී දීපාල් පෙරේරා මහතා පැවසීය .
+SriLankanaka Communications Division, Head of SriLankanaka Communication Division, Dealal Perera said that the SriLankan Airlines Corporate Communications Communications Division is not canceled.
 
-එහෙත් කටුනායක ගුවන් තොටුපොළ ගුවන් යානා තොරතුරු මධ්‍යස්ථානයේ ප්‍රකාශිකාවක පැවසූවේ එම ගුවන් යානා සියල්ල ශ්‍රී ලන්කන් ගුවන් සේවය මගින් අවලංගු කර ඇති බවට දැනුම් දී ඇති බවයි .  එසේම එම ගුවන් යානා නැවත පිටත්ව යන වේලාවක් පිළිබඳව  ද තමන් දැනුවත් කර නොමැති බව ද ඇය වැඩිදුරටත් පැවසුවාය .
+But in a spokesperson of the Katunayake Airport Agenist Publisher said that all aircraft had been invalidated by SriLankan Airlines.She added that he has not been aware of the time of the repeat time.
 
 ◼️
 
 [Data](articles/f984ac32.json)
+
+[Extended Data](ext_articles/f984ac32.ext.json)
 
 ---
 
@@ -1852,6 +1892,26 @@ Dhammika Priyantha stated that if the authorities do not take steps to address t
 
 ---
 
+### Rats on board ground SriLankan flight
+
+*2024-02-27 06:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rats-on-board-ground-SriLankan-flight/108-277796) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - Rats were found on board a SriLankan Airlines aircraft on Sunday, forcing the authorities to delay flight, SriLankan Airlines Chairman Ashok Pathirage said yesterday.
+
+“We had to spray a chemical to an aircraft in which rats were found and ground it for one day as per the international standards,” Mr. Pathirage told a discussion which was held at Ports, Shipping and Aviation Ministry.
+
+Two other aircraft had to be delayed due to technical defects,” he added.
+
+Minister of Ports, Shipping and Aviation Nimal Siripala then questioned as to whether any investigation was done to determine as to how the animals managed to creep into the aircraft.
+
+It was also revealed that the absence of 15 ground handling staff also caused the delay. Three members of staff have applied for leave on Sunday, while the remaining 12 have kept away from work casually. “Sack those who kept away from work without applying for leave,” the angry minister said.
+
+...
+
+[Data](articles/3ec91a67.json)
+
+---
+
 ### Rats on board ground two SriLankan flights
 
 *2024-02-27 06:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rats-on-board-ground-two-SriLankan-flights/108-277796) · `en`
@@ -1959,63 +2019,5 @@ A few political parties have also signed Memorandum of Understanding to address 
 [Data](articles/70ee126f.json)
 
 [Extended Data](ext_articles/70ee126f.ext.json)
-
----
-
-### Signing up on contract with Romania
-
-*2024-02-27 04:26:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருமேனியாவுடன்-ஒப்பந்தத்தில்-கைச்சாத்து/175-333858) · `ta`
-
-Between Sri Lanka and Romania, it has been decided to sign an agreement to avoid a double taxation.
-
-The resolution was reached during a meeting held at the Alari House yesterday between Prime Minister Dinesh Gunawardena and Romanian Ambassador Domina Stelusa.
-
-At the same time, it has been decided to cooperate in the fields of education, agriculture, continuing and information technology between the two countries.. (A)
-
-◼️
-
-[Data](articles/4d549b9c.json)
-
-[Extended Data](ext_articles/4d549b9c.ext.json)
-
----
-
-### The student activist arrests
-
-*2024-02-27 04:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவ-செயற்பாட்டாளர்-கைது/175-333857) · `ta`
-
-Sanjaya Hettimulla, a former student activist at the University of Kelaniya, has been arrested by the Criminal Investigation Division.
-
-Police said he was arrested on charges of sharing incidents and the detainees of the students.
-
-The suspect has been made on the occasion of the Katunayake International Airport to leave the country. (A)
-
-◼️
-
-[Data](articles/24372b7e.json)
-
-[Extended Data](ext_articles/24372b7e.ext.json)
-
----
-
-### Rat Rod: 'Hang over the car, wearing my thoughts'
-
-*2024-02-27 02:34:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9898l8214no) · `si`
-
-None contains none of this.Veadide head, art: 'My thoughts are hanging over, my thoughts'
-
-The most an old-old-looking video circulated a video that many people focused on a modified Sri Lanka.
-
-So we found the art and the owner of that car.
-
-Even though he is interested in giving his vehicle, he wants to give his car, a changing appearance to his car.
-
-'' This car was hanging all over, my thoughts were. This is my publication media. "
-
-◼️
-
-[Data](articles/a0ad1e6d.json)
-
-[Extended Data](ext_articles/a0ad1e6d.ext.json)
 
 ---

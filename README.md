@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 20:17:49**
+As of **2024-02-27 20:33:01**
 
 ## Newspaper Stats
 
@@ -26,27 +26,31 @@ adaderanasinhalalk | 1,461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,643 (100.0%) of 9,644 articles have been extended.
+9,644 (100.0%) of 9,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### எதிர்காலத்தில் பராட்டே சட்டம் தொடர்பான திருத்தத்தை பாராளுமன்றத்தில் சமர்பிக்க எதிர்பார்ப்பு ; சிறிய மற்றும் நடுத்தர தொழில்முயற்சிகளுக்கு தனியான கடன் திட்டம் - விஜயதாச ராஜபக்ஷ
+### Expectation to submit amendment to the Parade law in the future;Separate Loan Scheme for Small and Medium Entrepreneurs -Vijayadasa Rajapaksa
 
 *2024-02-27 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177452) · `ta`
 
-அமைச்சரவை தீர்மானத்தின் பிரகாரம், தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ள பராட்டே சட்டம் தொடர்பான திருத்தத்தை எதிர்காலத்தில் பாராளுமன்றத்தில் சமர்பிக்க எதிர்பார்க்கப்படுவதாக நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் ஜனாதிபதி சட்டத்தரணி கலாநிதி விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+The Minister of Justice, Prison Affairs and Constitutional Reforms Dr. Vijayadasa Rajapaksa said that the Cabinet decision is expected to be presented in Parliament in the future.
 
-சிறிய மற்றும் நடுத்தர தொழில் முயற்சிகளுக்கு (Small and Midsize Enterprise) தனியான கடன் திட்டமொன்றை அறிமுகப்படுத்த எதிர்பார்க்கப்படுவதாகவும் அமைச்சர் மேலும் குறிப்பிட்டார்.
+The Minister further stated that it is expected to introduce a separate credit scheme for small and medium entrepreneurs.
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (21) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் விஜயதாச ராஜபக்ஷ இதனைத் தெரிவித்தார்.
+Minister Vijayadasa Rajapaksa made this statement at a media briefing held at the Presidential Media Center on Tuesday (21).
 
-“நாடு ஒரு நிதிக் கொள்கையைக் கொண்டிருக்க வேண்டும். மேலும் பொருளாதாரமும் வலுவாக இருக்க வேண்டும். இந்த விடயத்தில் இலங்கை மத்திய வங்கிக்கு கணிசமான அதிகாரம் உள்ளது. கடந்த காலத்தில் இலங்கையில் கருத்தாடலுக்கு உட்பட்ட பரேட்டா சட்டம் பற்றி குறிப்பிடுவதென்றால், இவ்விடயத்தில் மத்திய வங்கி, நிதி நிறுவனங்களின் ஸ்திரத்தன்மையை பாதுகாப்பதில் மாத்திரமே கவனம் செலுத்தியது.
+“The country must have a financial policy. And the economy should be stronger. The Central Bank of Sri Lanka has a significant authority on this issue. In the past, the Barata Act, which is under conception in Sri Lanka, has only focused on protecting the stability of the central bank and financial institutions.
+
+Many sides questioned whether the central bank focused on the country's stockpile. In addition, the agriculture sector should focus on the fall of up to 22% - 8% and the industry is 38% - 32%.
 
 ...
 
 [Data](articles/3ec94af4.json)
+
+[Extended Data](ext_articles/3ec94af4.ext.json)
 
 ---
 

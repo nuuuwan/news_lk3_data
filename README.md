@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 03:17:25**
+As of **2024-02-28 03:33:05**
 
 ## Newspaper Stats
 
-*Scraped **9,681** Articles*
+*Scraped **9,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 118
 dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 500
-dailyftlk | 505
 islandlk | 511
+dailyftlk | 514
 adalk | 819
 adaderanalk | 1,167
-tamilmirrorlk | 1,182
-virakesarilk | 1,329
+tamilmirrorlk | 1,183
+virakesarilk | 1,330
 dailymirrorlk | 1,461
 adaderanasinhalalk | 1,464
 
@@ -26,11 +26,185 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,681 (100.0%) of 9,681 articles have been extended.
+9,681 (99.9%) of 9,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### WCIC’s Empowering Women Leadership Forum 2024 on 14 March
+
+*2024-02-28 03:04:24* · [`dailyftlk`](https://www.ft.lk/business/WCIC-s-Empowering-Women-Leadership-Forum-2024-on-14-March/34-758928) · `en`
+
+Celebrating empowerment and leadership, the Women’s Chamber of Industry and Commerce Sri Lanka (WCIC) is gearing to present its much-anticipated Women Leadership Forum 2024, themed ‘#InspireInclusion - Count Her In.’
+
+Scheduled on 14 March, at the Grand Ballroom - Galadari Hotel, Colombo, as a fully immersive one-day workshop for women in business.
+
+...
+
+[Data](articles/fb04906e.json)
+
+---
+
+### Siddhalepa Liv-Pro recognised at International Innovation Awards 2023
+
+*2024-02-28 03:02:22* · [`dailyftlk`](https://www.ft.lk/business/Siddhalepa-Liv-Pro-recognised-at-International-Innovation-Awards-2023/34-758927) · `en`
+
+The Hettigoda Industries yesterday announced that Siddhalepa Liv-Pro, their Ayurvedic food supplement containing Heenbovitiya and Aloevera has been honoured at the International Innovation Awards 2023, organised by Enterprise Asia.
+
+This recognition underscores Siddhalepa Liv-Pro’s exceptional contribution to the industry through innovations, standing out among 200 entries from 20 countries and 16 diverse industries.
+
+Hettigoda Group Research and Development Director Lankani Hettigoda said: “We are thrilled that Siddhalepa Liv-Pro has been acknowledged under the product category at the International Innovation Awards 2023. This accolade is a testament to our commitment to innovation excellence and cutting-edge solutions that make a positive impact on modern living through traditional ayurveda knowledge.”
+
+...
+
+[Data](articles/699ce1c5.json)
+
+---
+
+### China Communications Construction Company calls on Speaker of Parliament
+
+*2024-02-28 03:02:05* · [`dailyftlk`](https://www.ft.lk/business/China-Communications-Construction-Company-calls-on-Speaker-of-Parliament/34-758926) · `en`
+
+China Communications Construction Company Ltd., (CCCC) Chairman Wang Tongzhou yesterday called on Speaker of Parliament Mahinda Yapa Abeywardena.
+
+CCCC, through CHEC Port City Colombo Ltd., has invested $ 1.4 billion on Port City Colombo. Board of Investment and Port City Economic Commission Chairman Dinesh Weerakkody, Deputy Secretary General Secretary of Parliament G. K. A. Chaminda Kumara Kularatne and National Lotteries Board Chairman Dr. Chamira C. Yapa Abeywardena participated. The 2022 Fortune Global 500 list CCCC was ranked 60th with $ 130.6 billion in revenue.
+
+◼️
+
+[Data](articles/22511a86.json)
+
+---
+
+### Ceylon Chamber hosts high-level Vietnamese delegation to explore opportunities in agriculture
+
+*2024-02-28 03:01:16* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-hosts-high-level-Vietnamese-delegation-to-explore-opportunities-in-agriculture/34-758925) · `en`
+
+The Ceylon Chamber of Commerce recently hosted a high-level delegation from the Ministry of Agriculture and Rural Development of Vietnam, engaged in a working visit to strengthen bilateral relations between Vietnam and Sri Lanka, in the fields of agricultural, forestry and fishery.
+
+Organised in association with the Sri Lanka – Greater Mekong Business Council and the Embassy of Vietnam in Sri Lanka, the delegation led by Vietnam’s Agriculture and Rural Development Minister Le Minh Hoan, comprised high-ranking officials of the Ministry and prominent entrepreneurs of Vietnam’s agriculture sector. A roundtable discussion explored opportunities for collaboration in agriculture, forestry, and fisheries and facilitated exchanges of trade and industry models, establishing connections with business and industry associations in Sri Lanka.
+
+...
+
+[Data](articles/30c098f0.json)
+
+---
+
+### Landmark decision on Admiralty case involving Agros Shipping and Luna Shipping
+
+*2024-02-28 03:00:08* · [`dailyftlk`](https://www.ft.lk/business/Landmark-decision-on-Admiralty-case-involving-Agros-Shipping-and-Luna-Shipping/34-758924) · `en`
+
+Luna Shipping of Cyprus instituted Action in Rem No. 8/2014 on 15 September 2014 to obtain an order of the Admiralty Court (Commercial High Court sitting in the Admiralty Jurisdiction) to arrest the Vessel M. T. AGROS, owned by Agros Shipping Co. Ltd., in Liberia.
+
+The owners of the vessel Agros Shipping Co. Ltd. furnished security for $ 1 million to secure the release of the vessel and made an application on 12 October 2015 to make an order to direct Luna Shipping to furnish security for its counterclaim on the basis that the arrest of Luna was with the malicious intention. Both parties’ written submissions were and the then Commercial High Court Judge sitting in the Admiralty Jurisdiction Dr. Ruwan Fernando on 6 October 2017 made his order and directed Luna Shipping to provide security for counter claim of the owners of the vessel Agros Shipping Company Ltd. of Liberia in a sum of
+
+...
+
+[Data](articles/22ebc617.json)
+
+---
+
+### Govt. directs to draft State Finance Management Act
+
+*2024-02-28 02:59:52* · [`dailyftlk`](https://www.ft.lk/business/Govt-directs-to-draft-State-Finance-Management-Act/34-758923) · `en`
+
+The Government directed the Legal Draftsman to draft the Bill of the State Finance Management Act, based on the fundamental draft that has been prepared in this regard.
+
+Additionally, powers have been entrusted to the Treasury Secretary to appoint a specialist committee to initiate the formulation of financial regulations. The committee will facilitate the process till the Legal Draftsmen finalise the proposed draft Bill.
+
+“The proposed State Financial Management Act is expected to streamline financial processes, mitigate risks and strengthen fiscal discipline across Government agencies,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
+
+On 8 May 2023 Cabinet approved to draft a new framework of financial rules and to include those rules in the proposed State Financial Management Act.
+
+...
+
+[Data](articles/d40f0496.json)
+
+---
+
+### Appointment of Deshabandu as IGP illegal: SJB
+
+*2024-02-28 02:59:01* · [`dailyftlk`](https://www.ft.lk/news/Appointment-of-Deshabandu-as-IGP-illegal-SJB/56-758922) · `en`
+
+MP Prof. G. L. Peiris claims Speaker cannot vote to make up five votes necessary to appoint a new IGP
+
+According to Constitution, Speaker as Head of CC, can only vote if there is a tie in votes cast
+
+Accuses Speaker of voting despite no tie thereby directly violating Constitution
+
+Expresses intention to take legal action against Speaker and CC Secretary for their part in the process
+
+Freedom People’s Congress (FPC) MP Prof. G. L. Peiris yesterday alleged that the appointment of Senior DIG Deshabandu Tennekoon to the post of Inspector General of Police (IGP) has occurred in an illegal manner.
+
+Addressing a press conference in Colombo, Peiris said while the President can only appoint an IGP with the approval of the Constitutional Council (CC), due approval from the Council had not been obtained for the appointment. He said therefore the appointment of Tennekoon as IGP is unlawful.
+
+...
+
+[Data](articles/af917c1c.json)
+
+---
+
+### More opposition parties to support NCM against Speaker
+
+*2024-02-28 02:57:44* · [`dailyftlk`](https://www.ft.lk/news/More-opposition-parties-to-support-NCM-against-Speaker/56-758921) · `en`
+
+More political parties in the opposition have expressed their support for the no-confidence motion brought forward by the Samagi Jana Balawegaya (SJB) against Speaker Mahinda Yapa Abeywardena.
+
+Accordingly, the National People’s Power (NPP) party, Supreme Lanka Coalition (SLC) and Freedom People’s Congress (FPC) yesterday expressed their support for the no-confidence motion.
+
+MP Udaya Gammanpila confirmed the SLC’s support for the move, while MP Dullas Alahapperuma, the party leader, announced the FPC’s decision.
+
+NPP MP Harini Amarasuriya informed the media yesterday that their party has decided to support the motion as well.
+
+Meanwhile, Tamil National Alliance (TNA) leader Sivagnanam Shritharan said that while the TNA is yet to announce their decision, the party will convene to deliberate on the matter soon.
+
+...
+
+[Data](articles/86073f58.json)
+
+---
+
+### SLPP’s Uddika Premarathne quits Parliament due to disillusionment
+
+*2024-02-28 02:57:25* · [`dailyftlk`](https://www.ft.lk/news/SLPP-s-Uddika-Premarathne-quits-Parliament-due-to-disillusionment/56-758920) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) Anuradhapura district MP Uddika Premarathne resigned from his position as a Member of Parliament yesterday, submitting his resignation to Speaker Mahinda Yapa Abeywardena citing frustrations at being unable to enact significant change as a young leader within the Government.
+
+In his letter, the MP expressed his initial aspirations to enter politics with the aim of instigating positive change and contributing as a youth leader, highlighting his disappointment at being unable to fulfil these ambitions.
+
+“Given the recent series of incidents that have led to disillusionment, despite my status as a Government MP, I have not been actively given the opportunity to contribute as a youth leader,” he said.
+
+...
+
+[Data](articles/bc845bd1.json)
+
+---
+
+### அரச பல்கலைக்கழகங்களில் 28, 29 ஆம் திகதிகளில்  வேலைநிறுத்த போராட்டம் - யாழ். பல்கலைக்கழக  ஊழியர் சங்கம்
+
+*2024-02-28 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177462) · `ta`
+
+நாடு முழுவதிலுமுள்ள அரச பல்கலைக்கழகங்களில் புதன்கிழமை (28) மற்றும் வியாழக்கிழமை (29) ஆகிய இரண்டு நாள் வேலைநிறுத்த போராட்டம் இடம்பெறவுள்ள நிலையில் புதன்கிழமை (28) யாழ் பல்கலைக்கழக முன்றலில் கவனயீர்ப்பு ஆர்ப்பாட்டமும்  இடம்பெறவுள்ளதாக யாழ்ப்பாணப் பல்கலைக்கழக  ஊழியர் சங்கம் அறிவித்துள்ளது.
+
+...
+
+[Data](articles/083d7e9b.json)
+
+---
+
+### மாணவர்களின் பேரணியில் நீர்த்தாரை பிரயோகம்
+
+*2024-02-28 02:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களின்-பேரணியில்-நீர்த்தாரை-பிரயோகம்/175-333905) · `ta`
+
+ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழக மாணவர்கள் நேற்று பிற்பகல் முன்னெடுத்த ஆர்ப்பாட்ட பேரணியின் மீது பொலிஸார் நீர்த்தாரை மற்றும் கண்ணீர்ப்புகை பிரயோகம் மேற்கொண்டனர்.
+
+உணவக வசதி, விடுதிகள், மஹபொல மற்றும் அடக்குமுறை சட்டங்கள் உள்ளிட்ட பல பிரச்சினைகளை சுட்டிக்காட்டி இந்த எதிர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது. (a)
+
+◼️
+
+[Data](articles/fcdeb643.json)
+
+---
 
 ### Four people arrested for smuggling cows
 
@@ -1825,219 +1999,5 @@ It is noteworthy that Khaushal Mallawa in Nepal, who was in possession of the re
 [Data](articles/65876761.json)
 
 [Extended Data](ext_articles/65876761.ext.json)
-
----
-
-### Sri Lankan MP Uddika Premarathne resigns
-
-*2024-02-27 14:31:00* · [`economynextcom`](https://economynext.com/sri-lankan-mp-uddika-premarathne-resigns-152270/) · `en`
-
-ECONOMYNEXT – MP Uddika Premarathne representing the Sri Lanka Podujana Peramuna, from Anuradhapura District tendered his letter of resignation from his position as a Member of Parliament to the Deputy Secretary General of Parliament Chaminda Kularatne today.
-
-“Accordingly, in accordance with Section 64(1) of the Parliamentary Elections Act No. 1 of 1981, the Secretary General of the Parliament is to inform the Chairman of the Election Commission that the seat of Hon. Uddika Premarathne, Member of Parliament in the Ninth Parliament, is vacant,” a statement by the Parliament said.
-
-◼️
-
-[Data](articles/24b88627.json)
-
-[Extended Data](ext_articles/24b88627.ext.json)
-
----
-
-### Sri Lanka to give Rs20bn in SME loans with ADB support
-
-*2024-02-27 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-rs20bn-in-sme-loans-with-adb-support-152256/) · `en`
-
-ECONOMYNEXT – Sri Lanka will start a 20 billion rupee loans scheme for small and medium enterprises hit by an economic crisis, with support from the Asian Development Bank, cabinet spokesman Bandula Gunawardana said.
-
-“New and existing businesses will get 15 billion rupees. SME with non-performing loans will get the balance 5 billion rupees,” Gunawardana said on Tuesday announcing the week’s Cabinet decisions.
-
-The loans will be given through licensed credit institutions. “They will issue a statement shortly in this regard.” (Colombo/Feb27/2024)
-
-◼️
-
-[Data](articles/be03cfd4.json)
-
-[Extended Data](ext_articles/be03cfd4.ext.json)
-
----
-
-### Woman prisoners in Sri Lanka
-
-*2024-02-27 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177422) · `ta`
-
-Statistics of the Department of Prisons say that the number of female prisoners in Sri Lanka has increased sharply.. That is, this increase has been reported since 2022.
-
-Female civil organizations have pointed out that women are becoming responsible for more crimes and have been involved in searches and research on it.. Some family heads suffered losses after Corona crises. During this period, the householders were taking a major role in managing the families.
-
-However, after 2022. According to statistics, the number of women convicted and convicted of convicted by 2021 has increased by 81 percent.
-
-The number of female prisoners in 2021 was 215 and it increased to 390 in 2022. Significantly, 57 percent are involved in drugs and alcoholism.
-
-...
-
-[Data](articles/97e7265d.json)
-
-[Extended Data](ext_articles/97e7265d.ext.json)
-
----
-
-### Deshabandu Tennakoon: Didn't the legislative council agreed to appoint IGP?
-
-*2024-02-27 13:48:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce5k5j4ejveo) · `si`
-
-Deshabandu Tennakoon: Didn't the legislative council agreed to appoint IGP?
-
-Deshabandu Tennakoon (IGP) was appointed as the 3rd IGP of the Police Department by President Ranil Wickremesinghe.
-
-The Presidential Media Unit said the President said 41 C. (1) and 61 e. (1) and 61 e.
-
-However, the new IGP as the new IGP, Senior DIG Tennakoon, he suffered many parties.
-
-Would you not agree to appoint Deshabandu Tennakoon as IGP?There was a controversial situation in the cause of opposition leader Sajith Premadasa.
-
-Senior DIG Tennakoon has proposed the name of Senior DIG Deshabandu Tennakoon for the post of Police Policy.
-
-However, Opposition Leader Sajith Premadasa had questioned the Samajith Premadasa on the methodology of approval on February 26.
-
-...
-
-[Data](articles/0ddaec0a.json)
-
-[Extended Data](ext_articles/0ddaec0a.ext.json)
-
----
-
-### In the yarns. In interrogation of police officers who conflicted racist ideas
-
-*2024-02-27 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177412) · `ta`
-
-Two police officers who conflicted with fellow police officers have been detained in court order, expressing ethnicity.
-
-On Sunday night (25), the Jaffna Police Station had entered into a mass hysteria and conflicted with fellow policemen and conflicted with the Tamil police officers.
-
-Subsequently, the two police officers were arrested and ordered to be interrogated by the Jaffna Magistrate's Court on Monday (26).
-
-At the same time, the senior police superintendent who carried out administrative investigations has suspended the two police officers.
-
-◼️
-
-[Data](articles/7cef7b05.json)
-
-[Extended Data](ext_articles/7cef7b05.ext.json)
-
----
-
-### Rise in hospitalization of children due to high temperature: Pediatrician
-
-*2024-02-27 13:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rise-in-hospitalization-of-children-due-to-high-temperature-Pediatrician/108-277810) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - Due to the high temperature during the past few weeks, many school students across the country have suffered from heat-related illnesses and hospitalised, Lady Ridgeway Hospital (LRH) consultant pediatrician Dr. Deepal Perera said.
-
-Therefore, the doctor requested parents and teachers to provide more fluids with adequate minerals to prevent children from getting dehydrated and suffering from heat shock during the present hot weather conditions.
-
-"Failure to take sufficient fluids and minerals could lead to critical health complications such as fatigue, headache, drowsiness, vomiting, body pain, insomnia, increased sleepiness and loss of appetite," Dr. Perera said.
-
-If children play in open areas without drinking water, they could suffer from dehydration and heat shock conditions.
-
-Dr. Perera requested that the parents give their children two bottles of water when they go to school.
-
-...
-
-[Data](articles/094d4769.json)
-
-[Extended Data](ext_articles/094d4769.ext.json)
-
----
-
-### Udakika Premaratne resigns from seat
-
-*2024-02-27 13:22:00* · [`adalk`](https://www.ada.lk/breaking_news/උද්දික-ප්‍රේමරත්න-මන්ත්‍රී-ධූරයෙන්-ඉල්ලා-අස්වෙයි/11-408304) · `si`
-
-UNP MP Idebal Premaratne has resigned from the post of MPs Anuradhapura District.
-
-He further stated that the Speaker will address his resignation.
-
-The youth leader has decided to resign from his own seat, as a youth leader has not been able to contribute to the state of public mechanism as a result of the recent incidents..
-
-◼️
-
-[Data](articles/b1ce9c3f.json)
-
-[Extended Data](ext_articles/b1ce9c3f.ext.json)
-
----
-
-### Sri Lanka to halt auction of bank loan collateral till Dec 15
-
-*2024-02-27 13:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-halt-auction-of-bank-loan-collateral-till-dec-15-152238/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers had approved a proposal by President Ranil Wickremesinghe to amend the country’s loan recovery law and halt auctioning of defaulted loans till December 15, Minister Bandula Gunawardena said.
-
-“Various parties have pointed out issues existing in paying off the loans obtained by small and medium scale businessmen from banks,” Gunawardena said Tuesday.
-
-“Therefore, it is apparent that a sufficient grace period to pay off relevant debts without being a burden to the banking system should be allowed.”
-
-“Accordingly, the Cabinet of Ministers granted approval … to suspend the procedure by the banks to acquire properties of loans not paid off, until 15 December 2024, and to amend Section 4 of the Recovery of Loans by Banks (Special Provisions) Act No, 4 of 1990 to impose legal provisions required for the above.” (Colombo/Feb27/2024)
-
-Sri Lanka to halt parate execution of defaulted SME bank loans: Minister
-
-...
-
-[Data](articles/164c3745.json)
-
-[Extended Data](ext_articles/164c3745.ext.json)
-
----
-
-### S.C. Muthukumarana to replace Uddika Premaratne
-
-*2024-02-27 13:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/S-C-Muthukumarana-to-replace-Uddika-Premaratne/108-277809) · `en`
-
-S.C. Muthukumarana is to fill the vacancy created by MP Uddika Premaratne's resignation from Parliament today.
-
-Muthukumarana is next in line on the SLPP list for the Anuradhapura District.
-
-◼️
-
-[Data](articles/887267fd.json)
-
-[Extended Data](ext_articles/887267fd.ext.json)
-
----
-
-### S.E. Muthukumarana to replace Uddika Premaratne
-
-*2024-02-27 13:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/S-E-Muthukumarana-to-replace-Uddika-Premaratne/108-277809) · `en`
-
-S.E. Muthukumarana is to fill the vacancy created by MP Uddika Premaratne's resignation from Parliament today.
-
-Muthukumarana is next in line on the SLPP list for the Anuradhapura District.
-
-◼️
-
-[Data](articles/fcbd2916.json)
-
-[Extended Data](ext_articles/fcbd2916.ext.json)
-
----
-
-### All political parties to be briefed on Regulation of Election Expenditure Act
-
-*2024-02-27 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97566/all-political-parties-to-be-briefed-on-regulation-of-election-expenditure-act) · `en`
-
-All political parties will be informed of the Regulation of Election Expenditure Act on Tuesday (27 Feb.) and 06 March, as per a decision made by the Election Commission of Sri Lanka.
-
-Chairman of the Commission R. M. A. L. Ratnayake explained that the discussion will be held in light of the fact the upcoming elections will be the first to be held following the passage of the Regulation of Election Expenditure Act, in a bid to provide all parties and politicians with a proper understanding of the Act.
-
-According to the Regulation of Election Expenditure Act, all expenses incurred for the purpose of elections and campaigns must be limited, he noted.
-
-As such, Ranjith Maddumabandara, Sisira Jayakody, Uvindu Wijeweera and other representatives of their relevant parties were seen at today’s discussion.
-
-◼️
-
-[Data](articles/6a373a0b.json)
-
-[Extended Data](ext_articles/6a373a0b.ext.json)
 
 ---

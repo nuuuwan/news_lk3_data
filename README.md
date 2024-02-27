@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 14:17:35**
+As of **2024-02-27 14:33:00**
 
 ## Newspaper Stats
 
-*Scraped **9,573** Articles*
+*Scraped **9,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 486
 dailyftlk | 505
 islandlk | 509
-adalk | 807
+adalk | 808
 adaderanalk | 1,152
 tamilmirrorlk | 1,174
 virakesarilk | 1,310
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,572 (100.0%) of 9,573 articles have been extended.
+9,573 (100.0%) of 9,574 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,24 @@ Dr. Perera requested that the parents give their children two bottles of water w
 ...
 
 [Data](articles/094d4769.json)
+
+[Extended Data](ext_articles/094d4769.ext.json)
+
+---
+
+### උද්දික ප්‍රේමරත්න මන්ත්‍රී ධූරයෙන් ඉල්ලා අස්වෙයි
+
+*2024-02-27 13:22:00* · [`adalk`](https://www.ada.lk/breaking_news/උද්දික-ප්‍රේමරත්න-මන්ත්‍රී-ධූරයෙන්-ඉල්ලා-අස්වෙයි/11-408304) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+
+කථානායක වරයාවෙත  සිය ඉල්ලා අස්වීමේ ලපිය යොමුකරමින් ඔහු වැඩිදුරටත් මේසේ සඳහන් කර ඇත.
+
+පසුගිය කාලය තුළ සිදු වූ සිදුවීම් හේතුවෙන් සක්‍රීය ලෙස රාජ්‍ය යාන්ත්‍රණ ක්‍රියාවලියට දායක වීමේ අවස්ථාවක් තරුණ නායකයෙක් ලෙස හිමි නොවූ බැවින් පෞද්ගලිකව ඔහු තුළ පවතින දේශපාලන සිතුම් පැතුම් මෙම වාතාවරණය තුළ යතාර්ථයක් බවට පත් කරගැනීම දුෂ්කර වීම මත සිය මන්ත්‍රී ධූරයෙන් ඉවත් වීමට තීරණය කර ඇති බව එම ලිපියේ සඳහන්.
+
+◼️
+
+[Data](articles/b1ce9c3f.json)
 
 ---
 
@@ -302,9 +320,13 @@ The signature is being collected for a no -confidence motion to come up with acc
 
 *2024-02-27 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97563/two-maintenance-workers-killed-in-accident-on-southern-expressway) · `en`
 
-Two maintenance workers at the Southern Expressway were killed in an accident reported on the highway earlier today (27 Feb.).
+Two maintenance workers at the Southern Expressway were killed in an accident reported on the highway earlier today (27 Feb.)
 
-Accordingly, two persons were reported dead after a lorry hit the protective fence near the Kurundugahahetekma interchange along the Southern Expressway a short while ago.
+Accordingly, two persons, aged 36 and 63, were reported dead after a lorry hit the protective fence near the Kurundugahahetekma interchange along the Southern Expressway a short while ago.
+
+Police reported that the lorry had been plying from Dodangoda to Matara when the accident happened, adding that the two persons were immediately rushed to the Karapitiya Teaching Hospital, however, were pronounced dead upon admission.
+
+The remains of the deceased are currently at the Karapitiya Teaching Hospital, while further investigations are being carried out by the Poddala Police.
 
 ◼️
 
@@ -1991,25 +2013,5 @@ Sri Lanka’s High Commissioner in the United Kingdom Rohitha Bogollagama and th
 [Data](articles/edf8c915.json)
 
 [Extended Data](ext_articles/edf8c915.ext.json)
-
----
-
-### PRISL hosts workshop on efficient energy management
-
-*2024-02-27 01:11:26* · [`dailyftlk`](https://www.ft.lk/business/PRISL-hosts-workshop-on-efficient-energy-management/34-758908) · `en`
-
-The Plastics and Rubber Institute of Sri Lanka (PRISL) recently concluded a highly informative and well attended 1-day workshop, under the timely theme, “Revitalising the industry, smart energy, lean costs, brighter future” with the assistance of the Sri Lanka Energy Managers Association.
-
-PRISL President P.P. Perera delivered the welcome address and the keynote speech was given by the Ministry of Industries Polymer Advisory Council Chairman Kaushal Rajapaksa.
-
-The proceedings were conducted by the eminent professionals Dr. Tilak Siyambalapitiya, Eng. Chamila Delpitiya, Eng, Ronald Comester, and Eng. Ananda Namal.
-
-The topics delivered generated a high level of interest and lively discussions between the 72 participants and the resource personnel.
-
-...
-
-[Data](articles/35f4f51c.json)
-
-[Extended Data](ext_articles/35f4f51c.ext.json)
 
 ---

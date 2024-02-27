@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 03:33:05**
+As of **2024-02-28 03:50:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,681 (99.9%) of 9,692 articles have been extended.
+9,692 (100.0%) of 9,692 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Scheduled on 14 March, at the Grand Ballroom - Galadari Hotel, Colombo, as a ful
 
 [Data](articles/fb04906e.json)
 
+[Extended Data](ext_articles/fb04906e.ext.json)
+
 ---
 
 ### Siddhalepa Liv-Pro recognised at International Innovation Awards 2023
@@ -60,6 +62,8 @@ Hettigoda Group Research and Development Director Lankani Hettigoda said: “We 
 
 [Data](articles/699ce1c5.json)
 
+[Extended Data](ext_articles/699ce1c5.ext.json)
+
 ---
 
 ### China Communications Construction Company calls on Speaker of Parliament
@@ -73,6 +77,8 @@ CCCC, through CHEC Port City Colombo Ltd., has invested $ 1.4 billion on Port Ci
 ◼️
 
 [Data](articles/22511a86.json)
+
+[Extended Data](ext_articles/22511a86.ext.json)
 
 ---
 
@@ -88,6 +94,8 @@ Organised in association with the Sri Lanka – Greater Mekong Business Council 
 
 [Data](articles/30c098f0.json)
 
+[Extended Data](ext_articles/30c098f0.ext.json)
+
 ---
 
 ### Landmark decision on Admiralty case involving Agros Shipping and Luna Shipping
@@ -101,6 +109,8 @@ The owners of the vessel Agros Shipping Co. Ltd. furnished security for $ 1 mill
 ...
 
 [Data](articles/22ebc617.json)
+
+[Extended Data](ext_articles/22ebc617.ext.json)
 
 ---
 
@@ -119,6 +129,8 @@ On 8 May 2023 Cabinet approved to draft a new framework of financial rules and t
 ...
 
 [Data](articles/d40f0496.json)
+
+[Extended Data](ext_articles/d40f0496.ext.json)
 
 ---
 
@@ -142,6 +154,8 @@ Addressing a press conference in Colombo, Peiris said while the President can on
 
 [Data](articles/af917c1c.json)
 
+[Extended Data](ext_articles/af917c1c.ext.json)
+
 ---
 
 ### More opposition parties to support NCM against Speaker
@@ -162,6 +176,8 @@ Meanwhile, Tamil National Alliance (TNA) leader Sivagnanam Shritharan said that 
 
 [Data](articles/86073f58.json)
 
+[Extended Data](ext_articles/86073f58.ext.json)
+
 ---
 
 ### SLPP’s Uddika Premarathne quits Parliament due to disillusionment
@@ -178,31 +194,41 @@ In his letter, the MP expressed his initial aspirations to enter politics with t
 
 [Data](articles/bc845bd1.json)
 
+[Extended Data](ext_articles/bc845bd1.ext.json)
+
 ---
 
-### அரச பல்கலைக்கழகங்களில் 28, 29 ஆம் திகதிகளில்  வேலைநிறுத்த போராட்டம் - யாழ். பல்கலைக்கழக  ஊழியர் சங்கம்
+### Strike Strike on 28th and 29th of State Universities - Jaffna. University staff
 
 *2024-02-28 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177462) · `ta`
 
-நாடு முழுவதிலுமுள்ள அரச பல்கலைக்கழகங்களில் புதன்கிழமை (28) மற்றும் வியாழக்கிழமை (29) ஆகிய இரண்டு நாள் வேலைநிறுத்த போராட்டம் இடம்பெறவுள்ள நிலையில் புதன்கிழமை (28) யாழ் பல்கலைக்கழக முன்றலில் கவனயீர்ப்பு ஆர்ப்பாட்டமும்  இடம்பெறவுள்ளதாக யாழ்ப்பாணப் பல்கலைக்கழக  ஊழியர் சங்கம் அறிவித்துள்ளது.
+The Jaffna University Employees Union has announced that a two -day strike will take place on Wednesday (28) and Thursday (29) at state universities across the country.
+
+According to a letter issued to the Chairman of the University Grants Commission on 20.02.2024 of the All University Trade Union Federation, the two days of 28.02.2024 and 29.02.2024 in all university academic workers' salary conflict, salary increases and problems of university's issues and university.It has been decided to go on strike to protest the non -provision and seek an immediate solution, while on Thursday 29.02.2024, a protest demonstration in front of the University Grants Commission.
+
+Accordingly, the University Employees Union will take the strike on both the day of the Jaffna University and the two days of 28.02.2024 and 29.02.2024.
 
 ...
 
 [Data](articles/083d7e9b.json)
 
+[Extended Data](ext_articles/083d7e9b.ext.json)
+
 ---
 
-### மாணவர்களின் பேரணியில் நீர்த்தாரை பிரயோகம்
+### Pilgrimage
 
 *2024-02-28 02:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களின்-பேரணியில்-நீர்த்தாரை-பிரயோகம்/175-333905) · `ta`
 
-ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழக மாணவர்கள் நேற்று பிற்பகல் முன்னெடுத்த ஆர்ப்பாட்ட பேரணியின் மீது பொலிஸார் நீர்த்தாரை மற்றும் கண்ணீர்ப்புகை பிரயோகம் மேற்கொண்டனர்.
+The students of Sri Jayawardenapura University students held a protest march yesterday afternoon.
 
-உணவக வசதி, விடுதிகள், மஹபொல மற்றும் அடக்குமுறை சட்டங்கள் உள்ளிட்ட பல பிரச்சினைகளை சுட்டிக்காட்டி இந்த எதிர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது. (a)
+The protest was launched, pointing out many issues, including restaurant, hotels, Mahabola and repressive laws. (A)
 
 ◼️
 
 [Data](articles/fcdeb643.json)
+
+[Extended Data](ext_articles/fcdeb643.ext.json)
 
 ---
 

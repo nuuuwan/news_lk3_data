@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 16:47:45**
+As of **2024-02-27 17:02:28**
 
 ## Newspaper Stats
 
-*Scraped **9,603** Articles*
+*Scraped **9,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,48 +15,54 @@ newsfirstlk | 363
 economynextcom | 491
 dailyftlk | 505
 islandlk | 511
-adalk | 810
+adalk | 811
 adaderanalk | 1,154
 tamilmirrorlk | 1,177
 virakesarilk | 1,313
-dailymirrorlk | 1,447
+dailymirrorlk | 1,448
 adaderanasinhalalk | 1,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,601 (100.0%) of 9,603 articles have been extended.
+9,603 (100.0%) of 9,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### உடலை கட்டழகாக்க நாணயங்களை விழுங்கிய இளைஞன்
+### The young man who swallowed coins to make the body
 
 *2024-02-27 16:07:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடலை-கட்டழகாக்க-நாணயங்களை-விழுங்கிய-இளைஞன்/175-333893) · `ta`
 
-உடலோம்பல் மற்றும் கட்டழகுக்காக இளம் வயதினர் மத்தியில் வழக்கமான உணவூட்டத்துக்கு அப்பாலும் சத்து மாத்திரைகள், பவுடர்கள், பானங்கள் உள்ளிட்டவற்றை உண்ணும் பழக்கம் அதிகம் காணப்படுகிறது. புரோட்டின் பவுடர் அவற்றில் முதலிடம் வகிக்கிறது. இது தவிரவும் உடற்பயிற்சி செய்பவர்கள் இதர ஊட்டங்களுக்காக, மருத்துவர் ஆலோசனையின்றி தாமாக எதையேனும் உட்கொள்ளும் போக்கும் அதிகம் நிலவுகிறது.
+The habit of eating nutritious pills, powder and beverages, beyond regular meals among young adults for bodybuilding and couch.. Protein powder tops them. In addition, exercises are more likely to consume something without the doctor's advice.
 
-புது டெல்லியில் பாடி பில்டராக விரும்பிய 26 வயது இளைஞர் ஒருவர் துத்தநாகம் சத்துக்காக விபரீத நடவடிக்கையில் ஈடுபட்டுள்ளார். கட்டழகு தேகத்துக்காக ஆசைப்பட்ட அந்த இளைஞருக்கு ஏனோ அது கைகூடவில்லை. இதனை அடுத்து எவரோ கூறியதன் அடிப்படையில் துத்தநாகம் சத்துக்குறைவினால் தனது உடல் தேறவில்லை என அந்த இளைஞர் முடிவுக்கு வந்தார். அடுத்த அதிரடியாக, நாணயத்தில் துத்தநாகத்தின் சேர்க்கை இருப்பதாக அறிந்து அவற்றை ஒவ்வொன்றாக விழுங்க ஆரம்பித்திருக்கிறார்.
+A 26 -year -old youth who wants to be a singer in New Delhi. The young man, who was tempted by the country, did not go hand in hand. Following this, the young man concluded that his body did not reach his body. The next staggering, he has begun to swallow each one, knowing that the combination of zinc in the currency.
+
+Thus he has swallowed Rs 1, 2 and 5 as a pill of rupees. He has also reported this to his household. They have crossed it as sport. But in a few days, Sir Gangaram was admitted to the hospital in New Delhi with symptoms of abdominal pain and vomiting. The doctors who took the stomach X -ray and scan there were shocked. They immediately arranged for surgery.
 
 ...
 
 [Data](articles/225caaea.json)
 
+[Extended Data](ext_articles/225caaea.ext.json)
+
 ---
 
-### காஸா சிறுவர் நிதியத்திற்கு அன்பளிப்புச் செய்யவிரும்புவோருக்கு.....
+### For those who want to give Gaza Children's Fund .....
 
 *2024-02-27 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177408) · `ta`
 
-ரமழான் மாதத்தில் காஸா சிறுவர் நிதியத்திற்கு (Children of Gaza Fund) அன்பளிப்புச் செய்ய விரும்புவோர் ஏப்ரல் 11 ஆம் திகதிக்கு முன்னதாக இலங்கை வங்கியின் (7010) தப்ரபேன்(747) கிளையில் 7040016  என்ற கணக்கு இலக்கத்திற்கு வைப்பிலிடுமாறும்,  வைப்பு செய்த ரசீதை 0776973039 என்ற இலக்கத்திற்கு வட்ஸ்அப்பில் அனுப்புமாறும் ஜனாதிபதி செயலகம் கோரியுள்ளது.
+Those who wish to donate to the Children of Gaza Fund during the month of Ramadan will deposit the Ceylon Bank (7010) to the Tabrabane (747) branch of the Bank of Ceylon (747).
 
-காஸா எல்லை பகுதிகளில் பாதிக்கப்பட்ட குழந்தைகளுக்கு நிவாரணங்களைப் பெற்றுக்கொடுப்பதற்காக Children of Gaza Fund இனை காஸாவில் நிறுவுவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை அனுமதி வழங்கியுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that the Cabinet has granted permission to the proposal put forward by President Ranil Wickremesinghe to establish the Children of Gaza Fund to provide relief to children affected by the Gaza border.
 
 ◼️
 
 [Data](articles/b2d4a739.json)
+
+[Extended Data](ext_articles/b2d4a739.ext.json)
 
 ---
 
@@ -93,6 +99,22 @@ Returning to work for a long time, he was shot dead at the police station at the
 [Data](articles/a29a5acb.json)
 
 [Extended Data](ext_articles/a29a5acb.ext.json)
+
+---
+
+### Police sergeant shoots himself near Kotawila Court
+
+*2024-02-27 15:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-sergeant-shoots-himself-near-Kotawila-Court/108-277820) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - A police sergeant shot and killed himself using his service firearm near the Kotawila Court complex.
+
+Police said the 52-year-old sergeant attached to the Kotawila Police Station had returned to work after reporting sick for a long time.
+
+He committed suicide today in the police post of the Kotawila Court Complex.
+
+◼️
+
+[Data](articles/26c9ec0b.json)
 
 ---
 
@@ -157,6 +179,22 @@ He has been re-employed and returned to work and have been re-served and committ
 [Data](articles/055096d4.json)
 
 [Extended Data](ext_articles/055096d4.ext.json)
+
+---
+
+### වැසිකිලියෙදී ප්‍රසූත කරනතෙක් ගැබ්ගෙන ඇති බව නොදත් මවක්
+
+*2024-02-27 15:32:09* · [`adalk`](https://www.ada.lk/breaking_news/වැසිකිලියෙදී-ප්‍රසූත-කරනතෙක්-ගැබ්ගෙන-ඇති-බව-නොදත්-මවක්/11-408305) · `si`
+
+වැලිපැන්න පොලිස් වසමේ මුස්ලිම් කොළණිය ප්‍රදේශයේ පදිංචි විවාහක දෙදරු මවක් විසින් පසුගිය දින අලුයම නිවසේ වැසිකිලියක් තුල බිළිඳෙකු බිහිකර ඇති අතර අනතුරුව නිවැසියන් විසින් 1990 සුවසැරිය ගිලන් රථයක් මගින් මව සහ බිලිඳා මතුගම වෑත්තෑව රෝහලට ගෙන ගියත් ඒ වන විට බිලිඳා මියගොස් තිබීම නිසා නාගොඩ රෝහලට යවා ඇත.
+
+මීට මාස තුනකට පමණ පෙර මෙම කාන්තාවගේ සැමියා මියගොස් ඇති අතර ඇය ඒ වන විටත් 44 හැවිරිදි දෙදරු මවකි. මෙම කාන්තාවගේ 3 වන දරුවා ලෙස මෙම බිලිඳා බිහිවී ඇතත් තමන්ගේ කුසතුල  දරුවෙකු පිළිසිඳ ගෙන ඇතිබව තමන් නොදන්නා බවත් ,සිද්ධිය වූ අවස්ථාවේ තමාට වැසිකිළි යාමේ අවශ්‍යතාවයක් ඇතිවූ නිසා වැසිකිලියට ගිය විටදී තම කුස තුලින් බිළිඳෙකු බිහිවී බිමට වැටුණු බවත් ඇය පොලිසියට පවසා ඇත.
+
+තමා ගැබිණියක් බව නොදැන සිටි නිසා මෙම දරු ප්‍රසූතිය වෙනුවෙන් පවුල් සෞඛ්‍ය සේවිකාවක් හමුවට හෝ සායනයක් වෙත නොගිය බවද ඇය වැඩිදුරටත් පවසා ඇත.
+
+...
+
+[Data](articles/a3bc09cd.json)
 
 ---
 
@@ -1955,45 +1993,5 @@ The police media division stated that the persons have come to a motorbike and s
 [Data](articles/1d9929a4.json)
 
 [Extended Data](ext_articles/1d9929a4.ext.json)
-
----
-
-### Russian Embassy awaits findings by Presidential Probe
-
-*2024-02-27 08:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-Embassy-awaits-findings-by-Presidential-Probe/108-277795) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - In the wake of reports that President Ranil Wickremesinghe ordering an immediate investigation into the circular asking overstaying Russian and Ukrainian tourists to leave within 14 days, the Russian Embassy in Colombo said it awaits the results of the probe directed by the President.
-
-Asserting that there is no official information as of now, an embassy spokesman said it is an internal affair of Sri Lanka and Russia, unlike other countries, will not interfere in them.
-
-In the meantime, the embassy, in one of its press releases issued earlier, said it requests all its citizens staying in Sri Lanka for tourism or residing permanently to strictly follow Sri Lankan laws and customs.
-
-Earlier, the circular was issued by the Department of Immigration and Emigration saying that Ukrainian and Russian nations living in Sri Lanka for a long term should leave within 14 days.
-
-...
-
-[Data](articles/ee79e4b2.json)
-
-[Extended Data](ext_articles/ee79e4b2.ext.json)
-
----
-
-### More than half -digit digits are not in use
-
-*2024-02-27 08:03:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரைவாசிக்கும்-மேற்பட்ட-இலக்கங்கள்-பயன்பாட்டிலில்லை/175-333862) · `ta`
-
-A study by the Department of Economic and Statistics of the University of Peradeniya has revealed that almost half of the telephone numbers given to public service officials is inactive and incomplated.
-
-The survey was conducted across the country, including the telephone numbers posted on the Regional Secretariat of the Regional Secretariat of the Grama Niladhari, Samurdhi Development Officers and Development Officers in every Divisional Secretariat of the country.
-
-It is considered whether the given numbers are in use and the answer is available when the call is made.Accordingly, a total of 589 telephone numbers were found to have been dysfunctional.
-
-Meanwhile, 22 percent of the phone numbers are active, but the report reveals that it is not responding, while 29 percent responded to calls.
-
-◼️
-
-[Data](articles/f4fb4bd5.json)
-
-[Extended Data](ext_articles/f4fb4bd5.ext.json)
 
 ---

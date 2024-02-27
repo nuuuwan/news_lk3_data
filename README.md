@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 20:50:31**
+As of **2024-02-27 21:02:30**
 
 ## Newspaper Stats
 
-*Scraped **9,645** Articles*
+*Scraped **9,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 500
 dailyftlk | 505
 islandlk | 511
-adalk | 814
+adalk | 817
 adaderanalk | 1,161
 tamilmirrorlk | 1,179
-virakesarilk | 1,320
+virakesarilk | 1,321
 dailymirrorlk | 1,451
 adaderanasinhalalk | 1,461
 
@@ -26,15 +26,33 @@ adaderanasinhalalk | 1,461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,645 (100.0%) of 9,645 articles have been extended.
+9,645 (100.0%) of 9,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
+### மன்னார் தீவில் அரசு காற்றாலைத் திட்டத்தை கைவிடாதபோதும் தொடர்ந்து நாம் போராடுவோம் - மன்னார் ஆயர்
+
+*2024-02-27 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177453) · `ta`
+
+தமிழர் தாயகத்தில் இன்று எற்பட்டுள்ள பாரிய உட்கட்சி முரண்பாடுகள் தமிழ் மக்களை ஏமாற்றமடையச் செய்துள்ளன. எதிர்பார்க்கப்பட்ட பல்வேறு தேர்தல்கள் பின்தள்ளப்பட்டு வருகின்றது. இது மக்களுக்கு ஏமாற்றத்தையும் கோபத்தையும் ஏற்படுத்தியுள்ளது. மன்னார் தீவில் முன்னெடுக்கப்படும் காற்றாலை திட்டத்தால் ஏற்படும் ஆபத்தை தெரிவித்தும் அரசு கவனிக்காது வருகின்றது என மன்னார் மறைமாவட்ட ஆயர் மேதகு பிடேலிஸ் லய்னல் இம்மானுவேல் பெர்னாண்டோ ஆண்டகை இவ்வாறு தெரிவித்துள்ளார்.
+
+வருடந்தோறும் மன்னார் ஆயர் இம்மானுவேல் பெர்னாண்டோ ஆண்டகை மன்னார் மறைமாவட்ட இறை மக்களுக்கு தவக்காலத்தில்  விடுக்கும் செய்தியில் தெரிவித்திருப்பதாவது
+
+திருச்சபையின் திருவழிப்பாட்டு ஆண்டில் மீண்டும் ஒரு தவக்காலத்தில் கத்தோலிக்க மக்களாகிய நாம் காலடி பதித்துள்ளோம்.
+
+இத்தவக்காலம் அருளின் காலமாகவும் , மனமாற்றத்தின் காலமாகவும் . ஊனியல்புக்குரிய பழைய பாவ இயல்புகளை களைந்துவிட்டு செபம் , தவம் . தானதருமம் வழியாக இறைவனோடும் தன்னோடும் அயல்வர்களோடும் ஒப்புரவாக வேண்டிய காலமாக  இந்த தவக்காலம் அமைந்துள்ளது.
+
+...
+
+[Data](articles/e77cca02.json)
+
+---
+
 ### Expectation to submit amendment to the Parade law in the future;Separate Loan Scheme for Small and Medium Entrepreneurs -Vijayadasa Rajapaksa
 
-*2024-02-27 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177452) · `ta`
+*2024-02-27 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177452) · `ta`
 
 The Minister of Justice, Prison Affairs and Constitutional Reforms Dr. Vijayadasa Rajapaksa said that the Cabinet decision is expected to be presented in Parliament in the future.
 
@@ -97,6 +115,24 @@ The Asian Development Bank has agreed to provide working capital support for the
 [Data](articles/94050bb4.json)
 
 [Extended Data](ext_articles/94050bb4.ext.json)
+
+---
+
+### පොලිස්පතිගෙන් ශ්‍රේෂ්ඨාධිකරණයට පොරොන්දුවක්
+
+*2024-02-27 19:10:18* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිගෙන්-ශ්‍රේෂ්ඨාධිකරණයට-පොරොන්දුවක්/11-408310) · `si`
+
+පැමිණිල්ලකට අදාළව ප්‍රකාශයක් ගැනීමට පුද්ගලයෙකු පොලීසියට කැඳවන අවස්ථාවේදී ඒ සම්බන්ධයෙන් සියලු කරුණු ඔහුට දැනුම් දෙන විධිවිධාන අඩංගු කරමින් චක්‍රලේඛයක් නිකුත් කිරීමට පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතා ශ්‍රේෂ්ඨාධිකරණයට අද (27) පොරොන්දු විය.
+
+බලශක්ති විශේෂඥ ළුම්.පී. රළපනාව මහතා ගොනු කර තිබු මුලික අයිතිවාසිකම් පෙත්සමකට අදාළව පෞද්ගලිකවම අධිකරණයේ පෙනී සිටි පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතා වෙනුවෙන් පෙනී සිටි රජයේ ජ්‍යෙෂ්ඨ නීතිඥ ශවීන්ද්‍ර වික්‍රම මහතා එලෙස පොරොන්දු විය.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ගාමිණී අමරසේකර ජනක් ද සිල්වා සහ ශිරාන් ගුණරත්න යන මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ මෙම පෙත්සම සලකා බැලිණි.
+
+බලශක්ති විශේෂඥ  ළුම්. පී. රළපනාව මහතා ගොනුකර තිබූ පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඇතුළු පිරිසක් නම් කර ඇත.
+
+...
+
+[Data](articles/4ac90490.json)
 
 ---
 
@@ -299,6 +335,24 @@ These demands are fair. The UN Human Rights Council (UNHRC) urges the UN Human R
 [Data](articles/3e3e290f.json)
 
 [Extended Data](ext_articles/3e3e290f.ext.json)
+
+---
+
+### රනිල් අපේක්ෂකයා කළ යුතුයි කියන්නේ සුළු පිරිසක්
+
+*2024-02-27 18:27:38* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-අපේක්ෂකයා-කළ-යුතුයි-කියන්නේ-සුළු-පිරිසක්/11-408308) · `si`
+
+වත්මන් රජයේඇමැති ධූර රාජ්‍ය අමාත්‍ය ධුර ලබාගත් සුළු පිරිසක්ජනාධිපති රනිල් වික්‍රමසිංහ මහතාඉදිරි ජනාධිපතිවරණයේ අපේක්ෂකයා විය යුතුබවට මත පළ කළත්එය පක්ෂයේ මතය නොවන බවත්ඡන්දය ප්‍රකාශයට පත් කළ පසුපොදු ජන පෙරමුණේ අපේක්ෂකයා ඉදිරිපත් කරන බවපාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා පවසයි .
+
+මහනුවරනෙල්ලිගල ජාත්‍යන්තර බෞද්ධ මධ්‍යස්ථානයේ පැවැති උත්සවයකින් අනතුරුව ඒ මහතා වැඩිදුරටත් අවධාරණය කර සිටියේ කවුරුන් කෙසේ පැවසුවද මීළඟ ජනාධිපතිවරයා බිහිවනු ඇත්තේ පොදු ජන පෙරමුණ ප්‍රමුඛ පුළුල් සන්ධානයකින් බවයි .
+
+ජනාධිපතිවරයා සමඟ කැබිනට් මණ්ඩලයේ සිටිනඅපේ අය මෙන්ම රාජ්‍ය අමාත්‍ය ධූර උසුලන අයගෙත් අදහසක් තිබෙනවාරනිල් වික්‍රමසිංහ මහතාට ජනාධිපති අපේක්ෂකත්වය දිය යුතුයි කියා . තවත් අය තවත් නම් ඉදිරිපත් කරනවා . නමුත් ඒ කිසිවකටත් අප කලබල විය යුතු නැහැ.
+
+තම තමන්ගේ පෞද්ගලික මත ඉදිරිපත් කිරීමේ නිදහස තම පක්ෂයේ තිබෙන බවත් වෙනත් පක්ෂවල මේ ආකාරයට ප්‍රතිවිරුද්ධ මත ඉදිරිපත් කළහොත් පක්ෂ සාමාජිකත්වය පවා තහනම් වන බවද නාමල් රාජපක්ෂ මහතා පැවසීය .
+
+...
+
+[Data](articles/9c06151e.json)
 
 ---
 
@@ -1959,67 +2013,5 @@ Ranjitaddum Bandara, Sisira Jayakody and Uvindu Wijeweera and Uvindu Wijeweera w
 [Data](articles/7705dfde.json)
 
 [Extended Data](ext_articles/7705dfde.ext.json)
-
----
-
-### Sri Lanka police chief appointment against constitution: Opposition Leader
-
-*2024-02-27 11:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-chief-appointment-against-constitution-opposition-leader-152212/) · `en`
-
-ECONOMYNEXT – The appointment of Sri Lanka’s new police chief Deshbandu Tennakoon is against the constitution as the decision lacked required votes at the Constitutional Council, Opposition Leader Sajith Premadasa said.
-
-President Ranil Wickremesinghe on Monday (26) appointed Deshbandu Tennakoon as the 36th Inspector General of Police (IGP) of the country after the Constitutional Council (CC) cleared the official who along with three other police officers were asked by the Supreme Court to compensate 2 million rupees in a fundamental rights case last year.
-
-“CC didn’t approve IGP’s appointment. Votes: 4 for; 2 against; 2 abstentions. At least 5 votes are required for a decision,” Premadasa said in his X (Twitter) platform.
-
-“Speaker has a casting vote only in case of a tie. 4/2 is not a tie! Constitution is being blatantly violated for the second time. Shame on you speaker!”
-
-Speaker Mahinda Yapa Abeywardena was not reachable for a comment on the Opposition Leader’s claim.
-
-...
-
-[Data](articles/d14672a9.json)
-
-[Extended Data](ext_articles/d14672a9.ext.json)
-
----
-
-### PHI. Six police teams to investigate murder
-
-*2024-02-27 11:23:08* · [`adalk`](https://www.ada.lk/breaking_news/පී-එච්-අයි--ඝාතනය-ගැන-සොයන්න-පොලිස්-කණ්ඩායම්-හයක්/11-408300) · `si`
-
-The Elpitiya Police Superintendent of Police says that six police teams have been deployed to identify the assassination of unidentified gunmen in Kurundugahahahagetaathapsa, Karandatheniya yesterday (27).
-
-It is also said that a special police team was deployed to uncover the murder under the full supervision of his office.. Elpitiya Police Investigation Unit, Elpitiya Kottacked Investigation Unit, Galle Police Crimes and Criminal Investigations Department (Police) said.
-
-He said that if the assassination was the act of underworld, he had launched a subtle analysis of whether a duties had been caused by another.
-
-The killers have identified motorcycle to identify the motorcycle.
-
-A definite cause of the murder has not yet been identified and is often uncovered in the future.
-
-◼️
-
-[Data](articles/32faca9f.json)
-
-[Extended Data](ext_articles/32faca9f.ext.json)
-
----
-
-### All major party leaders Sri Lanka remained unpopular in January: poll
-
-*2024-02-27 11:20:00* · [`economynextcom`](https://economynext.com/all-major-party-leaders-sri-lanka-remained-unpopular-in-january-poll-152206/) · `en`
-
-ECONOMYNEXT — All major party leaders in Sri Lanka continued to show negative favourability ratings in a January 2024 poll indicating continued unpopularity, with leftist leader Anura Kumara Dissanayake increasing his favourability by 12 points to -10.
-
-The poll, run by the Institute for Health Policy (IHP), showed that favourability of opposition leader Sajith Premadasa declined by 9 points to -53 in January, while President Wickremesinghe’s also dropped by 9 points to -77.
-
-The IHP said in a statement on February 22 that favourability estimates for each month are based on 100–500 interviews conducted during that month and during a few weeks before and afterward to ensure a minimum set of responses. The January 2024 estimates are based on 376 (Premadasa), 346 (Dissanayake), 361 (Wickremasinghe), and 121 (former president Gotabaya Rajapaksa) interviews.
-
-...
-
-[Data](articles/a43e3408.json)
-
-[Extended Data](ext_articles/a43e3408.ext.json)
 
 ---

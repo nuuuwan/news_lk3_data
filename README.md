@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 02:32:58**
+As of **2024-02-28 02:48:25**
 
 ## Newspaper Stats
 
@@ -26,57 +26,67 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,677 (100.0%) of 9,680 articles have been extended.
+9,680 (100.0%) of 9,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### பொலிஸ்மா அதிபரின் நியமனம் சட்ட விரோதமானதல்ல - நீதி அமைச்சு அறிவிப்பு
+### The appointment of the Inspector General of Police is not illegal - the Ministry of Justice
 
 *2024-02-28 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177460) · `ta`
 
-பொலிஸ்மா அதிபரின் நியமனம் அரசியலமைப்புக்கு முரணானது என்றால், பாராளுமன்றத்தில் இதுவரை நிறைவேற்றப்பட்டுள்ள சகல சட்டங்களும் செல்லுபடியற்றதாகும். அரசியலமைப்பு  பேரவையின் 9 உறுப்பினர்களில் ஐவர் இந்த தீர்மானத்தை ஏற்றுக் கொண்டுள்ளதால் அதனைச் சட்ட விரோதமானதெனக் கூற முடியாது என நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜேதாச ராஜபக்ஷ தெரிவித்தார்.
+If the appointment of the Inspector General of Police is contrary to the Constitution, all the laws passed in Parliament are invalid. Minister of Justice, Prison Affairs and Constituent Restructuring Wijeyadasa Rajapakse said that five of the nine members of the Constitutional Council have accepted the resolution.
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated that at a press conference held at the Presidential Media Center on Tuesday (27).
 
-பொலிஸ்மா அதிபரின் நியமனம் அரசியலமைப்புக்கு முரணானது என பலராலும் முன்வைக்கப்படும் வாதங்களை தற்போது ஏற்றுக் கொண்டால், இதுவரைக் காலமும் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டுள்ள எந்தவொரு சட்டமும் செல்லுபடியற்றதாகும். அதாவது பொலிஸ்மா அதிபர் நியமனத்தில் பெரும்பான்மை வாக்கு எண்ணிக்கையை ஏற்றுக் கொள்ள முடியாது என்றல்லவா இவர்கள் குறிப்பிடுகின்றனர்?
+If the appointment of the Inspector General of Police now accepts the arguments made by many that the constitution is unconstitutional, any law passed in Parliament is invalid.. Does that mean that the majority of the votes cannot be accepted in the appointment of the Inspector General of Police?
 
 ...
 
 [Data](articles/b1d353ee.json)
 
+[Extended Data](ext_articles/b1d353ee.ext.json)
+
 ---
 
-### மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்பு ஒழுக்கமற்ற செயல் - நீதி அமைச்சர் விசனம்
+### Central Bank employees' salary increase
 
 *2024-02-28 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177459) · `ta`
 
-நாட்டின் பொருளாதாரம் பூச்சிய நிலைமைக்கு வீழ்ச்சியடையக் காரணமாகவிருந்த மத்திய வங்கியை சுயாதீனப்படுத்தியமையில் நான் அதிருப்தியடைந்துள்ளேன். மக்கள் தம் வாழ்வை அர்ப்பணித்துள்ள இந்த சந்தர்ப்பத்தில் மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்பு ஒழுக்கமற்ற செயலாகும் என்று நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜேதாச ராஜபக்ஷ தெரிவித்தார்.
+I am dissatisfied with the independence of the central bank that caused the country's economy to fall into the zero situation. Minister of Justice, Prison Affairs and Constitutional Reforms Wijeyadasa Rajapaksa said that the salary increase of the central bank employees was an indescribable act on this occasion of the people who dedicated their lives.
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated that at a press conference held at the Presidential Media Center on Tuesday (27).
 
-மத்திய வங்கியைச் சுயாதீனமாக்குவது குறித்த தீர்மானம் தொடர்பில் நான் அதிருப்தியும், கவலையும் கொண்டுள்ளேன். நாட்டின் பொருளாதாரம் பூச்சிய நிலைமைக்கு வீழ்ச்சியடைந்தமைக்கு பிரதானமாகப் பொறுப்பு கூற வேண்டிய அரச நிறுவனம் மத்திய வங்கியாகும். மத்திய வங்கி அதன் பொறுப்புக்களிலிருந்து விலகிச் செயற்பட்டமை மறுக்க முடியாத காரணியாகும்.
+I am dissatisfied and worried about the decision to independent the central bank. The state agency is the central bank that is mainly responsible for the fall of the country's economy to the zero situation. It is an undeniable fact that the central bank has moved away from its responsibilities.
 
-...
+All people are living with dedicated on this occasion that the country is facing massive crises economically. In this case, all of us, including us, the Central Bank only said that the decision to increase their salary was immoral.
+
+◼️
 
 [Data](articles/7842d603.json)
 
+[Extended Data](ext_articles/7842d603.ext.json)
+
 ---
 
-### ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்தின் 06 விமான பயணச் சேவைகள் இரத்து
+### Sri Lanka Services Company's 06 Airline Services canceled
 
 *2024-02-28 00:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177458) · `ta`
 
-ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்தின் 06 விமான பயணச் சேவைகள் செவ்வாய்க்கிழமை (27) இரத்து செய்யப்பட்டதால் தேசிய மற்றும் சர்வதேச பயணிகள் கடும் அசௌகரியங்களை எதிர்கொண்டனர்.
+National and international passengers faced severe inconveniences as Sri Lanka's Airlines's 06 flight services were canceled on Tuesday (27).
 
-ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்துக்கு சொந்தமான யு.எல் 173 இலக்க விமானம் செவ்வாய்க்கிழமை (27) அதிகாலை 01.10 மணிக்கு பெங்களூர்- இந்தியா நோக்கி புறப்படவிருந்த நிலையில் பயணச் சேவை இரத்து செய்யப்பட்டுள்ளது. அதேபோல்  அதிகாலை 01.15 மணிக்கு பெங்கொக் நோக்கி புறப்படவிருந்த யு எல் 402 விமானம் இரத்து செய்யப்பட்டதால் பயணிகள் பெரும் அசௌகரியங்களை எதிர்க்கொண்டனர்.
+The UL 173-digit aircraft owned by Sri Lanka Services Company has been canceled on Tuesday (27) at 01.10 am. Similarly, passengers were resisting great inconveniences as the UL402 aircraft was canceled at 01.15 am.
 
-அதேபோல்  செவ்வாய்க்கிழமை (27) பகல் 1.45  மணிக்கு சென்னை நோக்கி புறப்படவிருந்த யு.எல். 127 இலக்க விமானம்,மாலை 05.10 மணிக்க மும்பை நோக்கி புறப்படவிருந்த யு.எல் 143 இலக்க விமானம், மாலை 06.30 மணிக்கு தமாம் நோக்கி புறப்படவிருந்த யு.எல்.263 இலக்க விமானம், மாலை.06.50 மணிக்கு அபுதாபி நோக்கி புறப்படவிருந்த யு.எல்.207 இலக்க விமானம் இவ்வாறு இரத்து செய்யப்பட்டன.
+Similarly, the UL will leave Chennai at 1.45 pm on Tuesday (27). The UL 143 -digit flight to Mumbai, the UL 263 digit aircraft, which was to be departed at Mumbai at 05.10 pm, the UL207 -digit aircraft to Abu Dhabi at 06.50 pm, was canceled.
+
+Sri Lanka's Airlines' officials said during a discussion with Sri Lankan Airlines Minister Nimal Siripala de Silva that the airlines were delayed last Saturday due to a number of factors, including a rat and technical failure.
 
 ...
 
 [Data](articles/c1a41880.json)
+
+[Extended Data](ext_articles/c1a41880.ext.json)
 
 ---
 

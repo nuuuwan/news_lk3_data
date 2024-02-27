@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 22:17:27**
+As of **2024-02-27 22:33:05**
 
 ## Newspaper Stats
 
-*Scraped **9,655** Articles*
+*Scraped **9,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 511
 adalk | 819
 adaderanalk | 1,162
 tamilmirrorlk | 1,180
-virakesarilk | 1,321
+virakesarilk | 1,322
 dailymirrorlk | 1,451
 adaderanasinhalalk | 1,463
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,463
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,655 (100.0%) of 9,655 articles have been extended.
+9,655 (100.0%) of 9,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### அரச நிதி முகாமைத்துவ சட்டமூலத்தைத் தயாரிக்க அரசாங்கம் தீர்மானம்
+
+*2024-02-27 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177454) · `ta`
+
+புதிய நிதி ஒழுங்குச் சட்டகமொன்றைத் தயாரிப்பதற்கும், உத்தேச அரச நிதி முகாமைத்துவச் சட்டத்திற்கு குறித்த நிதி ஒழுங்கு சட்டகத்தை உட்சேர்ப்பதற்கு 2023.05.08 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+அதற்கமைய, நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசிய கொள்கைகள் அமைச்சின் அரச நிதித் திணைக்களத்தால் ஏனைய திறைசேரித் திணைக்களம் மற்றும் பிரதி திறைசேரிச் செயலாளர்கள் இருவரின் இணைத் தலைமையின் கீழ் நியமிக்கப்பட்ட கண்காணிப்புக் குழுவின் ஆலோசனை மற்றும் கொள்கை ரீதியான வழிகாட்டலின் கீழ் அடிப்படைச் சட்டமூல வரைபொன்று தயாரிக்கப்பட்டுள்ளது.
+
+குறித்த அடிப்படைச் சட்டமூல வரைபின் அடிப்படையில் அரசி நிதிச் சட்ட மூலத்தைத் தயாரிக்குமாறு சட்ட வரைஞருக்கு ஆலோசனை வழங்குவதற்கும், உத்தேச சட்டமூலம் சட்டவரைஞரால் தயாரிக்கப்படும் வரைக்கும் நிதிப் பிரமாணத்தைத் தயாரிப்பதற்கு ஆரம்பிப்பதற்கு விசேட குழுவொன்றை நியமிப்பதற்காக திறைசேரி செயலாளருக்கு அதிகாரத்தை வழங்குவதற்கும் நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசிய கொள்கைகள் அமைச்சராக ஜனாதிபதி சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/755a0919.json)
+
+---
 
 ### Owners for IGP
 
@@ -2029,23 +2045,5 @@ It is reported that Anuradhapura district parliamentarian Utika Premaratne has s
 [Data](articles/05039186.json)
 
 [Extended Data](ext_articles/05039186.ext.json)
-
----
-
-### Uddika Premaratne resigns from Parliament
-
-*2024-02-27 11:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uddika-Premaratne-resigns-from-Parliament/108-277803) · `en`
-
-Parliament, Feb 27 (Daily Mirror) - Anuradhapura district Sri Lanka Podujana Peramuna (SLPP) MP Uddika Premaratne resigned from his Parliamentary seat.
-
-Speaker Mahinda Yapa Abeywardane, upon inquiry by the Daily Mirror, confirmed that Premaratne has handed in his letter of resignation.
-
-Premarathna was elected to parliament in Anuradhapura in the 2020 election with 133,550 votes.
-
-◼️
-
-[Data](articles/505e5dee.json)
-
-[Extended Data](ext_articles/505e5dee.ext.json)
 
 ---

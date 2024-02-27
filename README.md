@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 05:17:37**
+As of **2024-02-27 05:37:12**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,462 (100.0%) of 9,463 articles have been extended.
+9,463 (100.0%) of 9,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### மாணவ செயற்பாட்டாளர் கைது
+### The student activist arrests
 
 *2024-02-27 04:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவ-செயற்பாட்டாளர்-கைது/175-333857) · `ta`
 
-களனி பல்கலைக்கழகத்தின் முன்னாள் மாணவ செயற்பாட்டாளரான சஞ்ஜய ஹெட்டிமுல்ல குற்றப்புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+Sanjaya Hettimulla, a former student activist at the University of Kelaniya, has been arrested by the Criminal Investigation Division.
 
-பகிடிவதை சம்பவங்கள் மற்றும் மாணவர்களை தடுத்து வைத்திருந்தமை உள்ளிட்ட குற்றச்சாட்டுகளின் அடிப்படையில் அவர் கைது செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர்.
+Police said he was arrested on charges of sharing incidents and the detainees of the students.
 
-சந்தேகநபர் நாட்டிலிருந்து வெளியேறுவதற்காக கட்டுநாயக்க சர்வதேச விமான நிலையத்திற்கு சென்ற சந்தர்ப்பத்திலேயே செய்யப்பட்டுள்ளார். (a)
+The suspect has been made on the occasion of the Katunayake International Airport to leave the country. (A)
 
 ◼️
 
 [Data](articles/24372b7e.json)
+
+[Extended Data](ext_articles/24372b7e.ext.json)
 
 ---
 

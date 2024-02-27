@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 02:48:25**
+As of **2024-02-28 03:02:34**
 
 ## Newspaper Stats
 
-*Scraped **9,680** Articles*
+*Scraped **9,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 511
 adalk | 819
 adaderanalk | 1,167
 tamilmirrorlk | 1,182
-virakesarilk | 1,328
+virakesarilk | 1,329
 dailymirrorlk | 1,461
 adaderanasinhalalk | 1,464
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,680 (100.0%) of 9,680 articles have been extended.
+9,680 (100.0%) of 9,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### சூட்சுமமான முறையில் மாடுகள் கடத்தி சென்ற நால்வர் கைது
+
+*2024-02-28 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177461) · `ta`
+
+அனுமதி பத்திரமின்றி ஒட்டுசுட்டான் நோக்கி மாடுகளை கொண்டு சென்ற குற்றச்சாட்டில் செவ்வாய்க்கிழமை (27) இரவு நால்வர் கைது செய்யப்பட்டுள்ளனர்.
+
+சுதந்திரபுரம் பகுதியிலிருந்து பரந்தன் வீதி ஊடாக ஒட்டுசுட்டான் நோக்கி அனுமதி பத்திரங்கள் ஏதுமின்றி 33 மாடுகளை வீதியூடாக நடாத்தி கொண்டு சென்ற போது புதுக்குடியிருப்பு பொலிஸார் கைவேலி பகுதியில் இடை மறித்து சோதனை நடவடிக்கைகளை  மேற்கொண்டு குறித்த நபர்களை கைது செய்துள்ளதுடன் மாடுகளையும் மீட்டுள்ளனர்.
+
+சம்பவம் தொடர்பில் விசாரணை மேற்கொண்டுள்ள பொலிஸார் நீதிமன்றில் வழக்கு தொடரவுள்ளதாகவும் தெரிவித்துள்ளதோடு இது  தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதும் குறிப்பிடத்தக்ககது.
+
+◼️
+
+[Data](articles/62c56c0a.json)
+
+---
 
 ### The appointment of the Inspector General of Police is not illegal - the Ministry of Justice
 
@@ -2021,21 +2037,5 @@ As such, Ranjith Maddumabandara, Sisira Jayakody, Uvindu Wijeweera and other rep
 [Data](articles/6a373a0b.json)
 
 [Extended Data](ext_articles/6a373a0b.ext.json)
-
----
-
-### Seven petitions against Deshabandu being appointed as IGP fixed for April 2
-
-*2024-02-27 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Seven-petitions-against-Deshabandu-being-appointed-as-IGP-fixed-for-April-2/155-277808) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - Seven Fundamental Rights petitions filed challenging the decision to appoint Deshabandu Thennakoon as the Acting Inspector General of Police (IGP) and the IGP were today fixed for April 2 by the Supreme Court.
-
-Court was informed that the parties were yet to receive minutes pertaining to the Constitutional Council appointing Deshabandu Tennakoon as the new IGP.
-
-◼️
-
-[Data](articles/172ba109.json)
-
-[Extended Data](ext_articles/172ba109.ext.json)
 
 ---

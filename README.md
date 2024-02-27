@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 00:33:19**
+As of **2024-02-28 00:47:43**
 
 ## Newspaper Stats
 
-*Scraped **9,673** Articles*
+*Scraped **9,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 511
 adalk | 819
 adaderanalk | 1,166
 tamilmirrorlk | 1,181
-virakesarilk | 1,323
+virakesarilk | 1,325
 dailymirrorlk | 1,461
 adaderanasinhalalk | 1,464
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,672 (100.0%) of 9,673 articles have been extended.
+9,673 (100.0%) of 9,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### சிரேஷ்ட அரசியல்வாதி ரொனி டி மெல் காலமானார்!
+
+*2024-02-27 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177457) · `ta`
+
+முன்னாள் நிதியமைச்சரும் சிரேஷ்ட  அரசியல்வாதியுமான  ரொனி டி மெல் தனது 98 ஆவது வயதில் செவ்வாய்க்கிழமை (27) காலமானார்.
+
+கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையிலேயே அவர் காலமானார்.
+
+◼️
+
+[Data](articles/a1bd2245.json)
+
+---
 
 ### Mutukumarana to fill MP seat vacated by Premarathne
 
@@ -47,6 +61,24 @@ Accordingly, Mutukumarana is reportedly next in line on the Sri Lanka Podujana P
 ◼️
 
 [Data](articles/bd712bd5.json)
+
+[Extended Data](ext_articles/bd712bd5.ext.json)
+
+---
+
+### நம்பிக்கையில்லா பிரேரணைக்கு சகல எதிர்க்கட்சிகளும் ஆதரவு - ரஞ்சித் மத்தும பண்டார
+
+*2024-02-27 23:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177456) · `ta`
+
+சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணைக்குச் சகல எதிர்க்கட்சிகளும் தமது ஆதரவை தெரிவித்துள்ளன. உயர்நீதிமன்றத்தின் தீர்ப்பினை மாற்றும் அதிகாரம் சட்டமா அதிபருக்கு கிடையாது என்பதை சபாநாயகர் தெரிந்து கொள்ள வேண்டும் என்று ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஜனாதிபதியும், சபாநாயகரும் சட்ட விரோதமாகச் செயற்படுகின்றனர். எனவே தான் சபாநாயகருக்கு எதிராக நம்பிக்கையில்லா பிரேரணையைக் கொண்டு வந்துள்ளோம். அதற்குச் சகல எதிர்க்கட்சிகளினதும் ஆதரவு கிடைத்துள்ளது. நிகழ்நிலை காப்பு சட்ட மூலம் தொடர்பில் உயர்நீதிமன்றம் வழங்கிய தீர்ப்பினை சபாநாயகர் நடைமுறைப்படுத்தவில்லை. குறித்த சட்ட மூலத்திலுள்ள 57 சரத்துக்களில் 35 சரத்துக்கள் திருத்தப்பட வேண்டும் என்று நீதிமன்றம் தீர்ப்பளித்திருந்தது. ஆனால் சபாநாயகர் அதற்கு எவ்வித நடவடிக்கையும் எடுக்கவில்லை.
+
+...
+
+[Data](articles/60a8670a.json)
 
 ---
 
@@ -1997,49 +2029,5 @@ As such, a group of MPs belonging to the opposition in Parliament including M. A
 [Data](articles/9ad90a48.json)
 
 [Extended Data](ext_articles/9ad90a48.ext.json)
-
----
-
-### China's danger to Australia's sovereignty
-
-*2024-02-27 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177416) · `ta`
-
-Former Prime Minister of Australia, Scotmoron, in his farewell speech to Parliament, pointed out the dangers of China.
-
-In his parliamentary speech, Scotmoron has warned of the efforts of China to force Australia or gain.
-
-He said that China's conflict should not be confused about the objectives of the country on the basis of strategic avoidance of diplomacy, he said.
-
-He also said that when China comes to its impression, he will not be concerned about its people.
-
-This is why my government was determined to oppose the threats of China's occupation and that China thought that we would submit to the Scottmiron.
-
-Due to the 2022 election results, China may have abandoned its insistence but we should not be deceived, but the strategies have not changed but strategies have not changed.
-
-◼️
-
-[Data](articles/a72b362f.json)
-
-[Extended Data](ext_articles/a72b362f.ext.json)
-
----
-
-### Prohibition of fishing near Madhakal Vihara;Hundreds of fishermen are affected
-
-*2024-02-27 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/177414) · `ta`
-
-The Navy has banned fishing activities in the waters near the Vihara in the Jaffna - Madagal Sambilu (Jambukkoli Pattinam) Vihara, the area's fishermen said.
-
-In 2013, after the Navy banned the fishermen from fishing in the seas behind the Sangamitha Vihara in the Sambilathur area, the Marines allowed the fishermen to engage in the area after being taken to the attention of the then President Mahinda Rajapaksa.
-
-In this case, the Naval Officer, who is currently in charge of the area, has announced that he should not engage in fishing in the back of the Vihara.
-
-The fishermen in the area say that if the fishermen are engaged in fishing, the Marines are chasing them away from the area.
-
-◼️
-
-[Data](articles/367fb034.json)
-
-[Extended Data](ext_articles/367fb034.ext.json)
 
 ---

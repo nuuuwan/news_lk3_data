@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 15:33:07**
+As of **2024-02-27 15:51:34**
 
 ## Newspaper Stats
 
-*Scraped **9,592** Articles*
+*Scraped **9,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 491
 dailyftlk | 505
 islandlk | 511
 adalk | 809
-adaderanalk | 1,152
+adaderanalk | 1,153
 tamilmirrorlk | 1,175
 virakesarilk | 1,311
-dailymirrorlk | 1,446
+dailymirrorlk | 1,447
 adaderanasinhalalk | 1,451
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,585 (99.9%) of 9,592 articles have been extended.
+9,594 (100.0%) of 9,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Health capacities at BIA, Colombo Port to be improved under Japanese grant
+
+*2024-02-27 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97567/health-capacities-at-bia-colombo-port-to-be-improved-under-japanese-grant) · `en`
+
+The Cabinet of Ministers has given the go-ahead to a proposal seeking to upgrade the Bandaranaike International Airport (BIA) in Katunayake and the Colombo Port to be on par with the international practices, recommendations and standards under a grant provided by Japan.
+
+As Sri Lanka’s economy is mainly dependent on the income generated from international tourism and business travel, the government says this requires smooth operation of entry points into the country, building confidence among travellers and arranging cross-border entry points to comply with international health regulations on movement.
+
+Government of Japan has provided a grant of Yen 1.17 billion through the International Organization for Migration (IOM) to further strengthen border-related health preparedness at points of entry, direct contribution to the control of infectious diseases and the overall security of all passengers, staff and staff at points of entry during health emergencies.
+
+...
+
+[Data](articles/7bf6f23a.json)
+
+[Extended Data](ext_articles/7bf6f23a.ext.json)
+
+---
+
+### Namibia’s Loftie-Eaton scores fastest T20I hundred off 33 ball
+
+*2024-02-27 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Namibias-Loftie-Eaton-scores-fastest-T20I-hundred-off-33-ball/108-277818) · `en`
+
+Feb. 27 (indiatoday) - Namibian cricketer Jan Nicol Loftie-Eaton has made cricket history by scoring the fastest century in T20 International (T20I) history, off just 33 balls, breaking the previous record set by Nepal's Kushal Malla.
+
+Namibia's Jan Nicol Loftie-Eaton scripted history by scoring the fastest century in T20 International (T20I) history during a bilateral match against Nepal. Achieving this monumental feat off just 33 balls, Loftie-Eaton shattered the previous record held by Nepal's Kushal Malla, who had set the benchmark at 34 balls against Mongolia during the Asian Games in 2023. This remarkable innings came during a match against Nepal, adding a layer of poetic justice as Malla himself was present on the field, witnessing his record being surpassed.
+
+...
+
+[Data](articles/3540b4de.json)
+
+[Extended Data](ext_articles/3540b4de.ext.json)
+
+---
 
 ### Namibia’s Jan Nicol Loftie-Eaton scores fastest T20I hundred off 33 ball
 
@@ -44,23 +78,27 @@ Namibia's Jan Nicol Loftie-Eaton scripted history by scoring the fastest century
 
 [Data](articles/8f82b2af.json)
 
+[Extended Data](ext_articles/8f82b2af.ext.json)
+
 ---
 
-### தெற்கு அதிவேக நெடுஞ்சாலை விபத்தில் இருவர் பலி
+### Two persons killed in southern highway accident
 
 *2024-02-27 14:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்கு-அதிவேக-நெடுஞ்சாலை-விபத்தில்-இருவர்-பலி/175-333887) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையின் குருந்துகஹதெக்ம பகுதியில் இடம்பெற்ற வாகன விபத்தில் இருவர் உயிரிழந்துள்ளனர்.
+Two people were killed in a vehicle accident in the Kurundugahadekma area of the Southern Highway.
 
-இமதுவ மற்றும் திக்கும்புர பிரதேசத்தைச் சேர்ந்த 36 மற்றும் 63 வயதுடையவர்களே விபத்தில் உயிரிழந்துள்ளனர்.
+The 36 and 63 -year -olds from Imamuwa and Tikumbura have died in the accident.
 
-கொழும்பில் இருந்து குடிநீர் ஏற்றிச் சென்ற லொறி ஒன்று, வீதி பலகைகளை கழுவிக்கொண்டிருந்த இரு தொழிலாளர்கள் மீது மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+The accident occurred when a lorry carrying a drinking water from Colombo crashed into two workers who washed the road boards.
 
-விபத்து தொடர்பில் லொறியின் சாரதி கைது செய்யப்பட்டுள்ளதுடன், பொத்தல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+The driver of the lorry has been arrested in connection with the accident and the police are conducting further investigations.
 
 ◼️
 
 [Data](articles/623fe04a.json)
+
+[Extended Data](ext_articles/623fe04a.ext.json)
 
 ---
 
@@ -82,45 +120,57 @@ When asked why had consumed them, the patient told the doctor he thought zinc, w
 
 [Data](articles/b2c4f829.json)
 
+[Extended Data](ext_articles/b2c4f829.ext.json)
+
 ---
 
-### PHI රොෂාන් ඝාතනයේ පරීක්ෂණවල අලුත්ම තත්ත්වය
+### The latest situation in the investigation of phi Roshan's murder
 
 *2024-02-27 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193879) · `si`
 
-ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික ලෙස කටයුතු කළ W. D රොෂාන් කුමාර මහතා ඝාතනය කිරීමට හේතුව මෙතක් අනාවරණ වී නොමැති බව පොලීසිය පවසයි.
+Treasurer of the Sri Lanka Public Health Inspectors Association w. The police stated that the reason for the assassination of Mr. D Roshan Kumara has not been revealed.
 
-ඒ සම්බන්ධයෙන් පරීක්ෂණ පැවැත්වීම සඳහා පොලිස් කණ්ඩායම් කිහිපයක් යොදවා ඇති බව වාර්තා විය.
+Several police teams have been deployed to investigate.
 
-එමෙන්ම කිසිදු පාතාල කල්ලියක් සමග ඔහුගේ සබඳතාවක් නොමැති බව ද පොලීසිය මෙතෙක් සිදුකළ විමර්ශනවලදී අනාවරණ වී ඇති බව සඳහන් ය.
+Investigations have revealed that the police have so far revealed that there is no relationship with any underworld gang.
 
-මේ අතර ඒ මහතාගේ දේහය පශ්චාත් මරණ පරීක්ෂණයෙන් අනතුරුව අද (27) ඥාතීන් වෙත භාර දී තිබේ.
+Meanwhile, his body has been handed over to relatives today (27) following the post mortem.
 
-ඒ අනුව දේහය මේවන විට ඇල්පිටිය - කුරුඳුගහහැතැක්ම, පතිරාජ වත්ත ප්‍රදේශයේ පිහිටි ඔහුගේ නිවසේ තැන්පත් කර ඇති අතර දේහය පළිබඳ අවසන් කටයුතු ඇල්පිටිය පොදු සුසාන භූමියේදී හෙට සිදුකිරීමට නියමිත ය.
+The body is currently being placed at his residence in the Pathirajagahawatta, Pathirajagahaham, Pathirajagahahack, and the funeral will be held tomorrow at the Elpitiya General Cemetery.
 
-ඊයේ උදෑසන යතුරුපැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙක් කළ වෙඩි තැබීමෙන් රොෂාන් කුමාර මහතා ජීවිතක්ෂයට පත්විය.
+Roshan Kumara was killed following a shot of two unidentified gunmen from a motorbike last morning.
 
-ඝාතනයට ලක්වන අවස්ථාවේ ඔහු සිය පුතු පාසලේ පළමු ශ්‍රේණියට ඇතුළත් කිරීම සඳහා පාසලට රැගෙන යාමට සූදානම් කරමින් සිට ඇති බව වාර්තා වුණි.
+When he was murdered, he was preparing to take his son to school to the first grade one school.
 
-කෙසේවෙතත් වෙඩිතැබීමට හේතුව හෝ වෙඩික්කරුවන් සම්බන්ධයෙන් මෙතෙක් නිශ්චිත තොරතුරු වාර්තාවී නොමැත.
+However, there is no specific information regarding the cause of shooters or shooters.
 
 ◼️
 
 [Data](articles/1e7e9bd0.json)
 
+[Extended Data](ext_articles/1e7e9bd0.ext.json)
+
 ---
 
-### පොලිස්පති දේශබන්දු ශ්‍රේෂ්ඨාධිකරණයට දුන් පොරොන්දුව
+### IGP's promise to Leadership Supreme Court
 
 *2024-02-27 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193878) · `si`
 
-පැමිණිල්ලක් සම්බන්ධයෙන් ප්‍රකාශයක් ලබා ගැනීමට යම් පුද්ගලයෙකු පොලීසිය වෙත කැඳවනු ලබන අවස්ථාවේදී අදාළ පැමිණිල්ලේ අන්තර්ගතය සම්බන්ධයෙන් ප්‍රකාශය ලබා ගැනීමට නියමිත පාර්ශවකරුවන් දැනුවත් කිරීම සම්බන්ධයෙන් වූ චක්‍රලේඛයක් නිකුත් කිරීමට කටයුතු කරන බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අද (27) ශ්‍රේෂ්ඨාධිකරණය හමුවේ දැනුම් දුන්නේය.
+The inscription on the publication of a person to inform the stakeholders about the contents of the complaint was to be issued today (27) before the publication of the complaint was to be issued to the police to obtain a complaint.
 
-බලශක්ති ක්ෂේත්‍රයේ ක්‍රියාකාරකයකු වන එම්. බී. වී. රැළපනාව මහතා විසින් ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් අද ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී එහි වගඋත්තරකරුවකු වශයෙන් නම්කර සිටි පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අද පෞද්ගලිකවම අධිකරණය හමුවේ පෙනී සිටිමින් මෙම දැනුම් දීම සිදුකළේය.
+An activity of the energy sector. B. Paddy. A respondent called a fundamental rights petition filed by Mr. Ralapana has been identified as a respondent in the Supreme Court today.
+
+Who was the one who had taken the complaint when he was summoned to the police when he was summoned before the courts?And the IGP wants to issue a circular to inform the person who is to be aware of the contents of the complaint.
+
+The State Counsel asked the court to draft the circular and submitting the court.
+
+President's Counsel Saliya personnel who appeared in behalf of the petitioner have made the complaint before a man made a statement to police?What is the content of that complaint?There is a claim that there is a claim to know.
 
 ...
 
 [Data](articles/4c7eacff.json)
+
+[Extended Data](ext_articles/4c7eacff.ext.json)
 
 ---
 
@@ -146,19 +196,21 @@ Meanwhile, flight SG 002, which was scheduled to leave for Chennai, India, has a
 
 ---
 
-### ලොව වේගවත්ම T 20 ශතකය නැමීබියාවෙන්
+### World's Fastest T20 century from Namibia
 
 *2024-02-27 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193877) · `si`
 
-ලොව වේගවත්ම 20යි 20 ජාත්‍යන්තර ශතකය වාර්තා කිරීමට නැමීබියා ක්‍රීඩකයෙක් සමත්වී තිබේ.
+A Namibian player was able to report 20 and 20% of the world.
 
-ඔහු නේපාලයට එරෙහිව පැවති තරගයකදී පන්දු 33කින් ශතකය වාර්තා කළේය.
+He scored the century in 33 balls with the contest against Nepal.
 
-එතෙක් එම වාර්තාව හිමිකරගෙන සිටි නේපාලයේ කුශාල් මල්ලා ද සහභාගී වී සිටීම විශේෂත්වය කි.
+It is noteworthy that Khaushal Mallawa in Nepal, who was in possession of the report.
 
 ◼️
 
 [Data](articles/65876761.json)
+
+[Extended Data](ext_articles/65876761.ext.json)
 
 ---
 
@@ -180,19 +232,23 @@ The loans will be given through licensed credit institutions. “They will issue
 
 ---
 
-### இலங்கையில் பெண் கைதிகள் சடுதியாக அதிகரிப்பு…!
+### Woman prisoners in Sri Lanka
 
 *2024-02-27 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177422) · `ta`
 
-இலங்கையிலுள்ள சிறைச்சாலைகளில் பெண் கைதிகளின் எண்ணிக்கை சடுதியாக அதிகரித்துள்ளதாக சிறைச்சாலைகள்  திணைக்களத்தின் புள்ளி விபரங்கள் தெரிவிக்கின்றன. அதாவது 2022 ஆம் ஆண்டு தொடக்கம் இந்த அதிகரிப்பு ஏற்பட்டுள்ளதாகத் தெரிவிக்கப்படுகின்றது.
+Statistics of the Department of Prisons say that the number of female prisoners in Sri Lanka has increased sharply.. That is, this increase has been reported since 2022.
 
-இதன் மூலம் பெண்கள் அதிக குற்றச்சம்பவங்களுக்கு காரணகர்த்தாக்களாகி வருகின்றனர் என்பதுவும் அது குறித்த தேடல்களுக்கும் ஆய்வுகளுக்கும் இது வித்திட்டுள்ளது என்றும் பெண் சிவில் அமைப்புகள் சுட்டிக்காட்டியுள்ளன. கொரொனா நெருக்கடிகளின் பின்னர் சில குடும்பத்தலைவர்களுக்கு பணி இழப்புகள் ஏற்பட்டன. இக்காலகட்டத்தில் குடும்பங்களை சரியாக நிர்வகிப்பதில் பெரும் பங்கை இல்லதரசிகளே எடுத்துக்கொண்டிருந்தனர்.
+Female civil organizations have pointed out that women are becoming responsible for more crimes and have been involved in searches and research on it.. Some family heads suffered losses after Corona crises. During this period, the householders were taking a major role in managing the families.
 
-எனினும் 2022 இற்குப்பிறகு இதில் ஏற்பட்ட மாற்றங்கள் அவர்களை குற்றச்செயல்களுக்கு தூண்டி விடுவதற்கான காரணங்கள் ஆராயத்தக்கன. புள்ளி விபரங்களின் படி, 2021 ஆம் ஆண்டை விட 2022 ஆம் ஆண்டு குற்றம் நிரூபிக்கப்பட்டு தண்டனை தீர்ப்பளிக்கப்பட்ட பெண்களின் எண்ணிக்கை 81 வீதத்தால் அதிகரித்துள்ளது என்பது தெரிய வந்துள்ளது.
+However, after 2022. According to statistics, the number of women convicted and convicted of convicted by 2021 has increased by 81 percent.
+
+The number of female prisoners in 2021 was 215 and it increased to 390 in 2022. Significantly, 57 percent are involved in drugs and alcoholism.
 
 ...
 
 [Data](articles/97e7265d.json)
+
+[Extended Data](ext_articles/97e7265d.ext.json)
 
 ---
 
@@ -776,17 +832,15 @@ Premarathna was elected to parliament in Anuradhapura in the 2020 election with 
 
 Uddika Premarathne of Sri Lanka Podujana Peramuna (SLPP) has resigned as a Member of Parliament.
 
-The Anuradhapura District parliamentarian has handed over the letter of resignation to the Deputy General Secretary of Parliament, earlier today (Feb.27).
+The Anuradhapura District parliamentarian has handed over the letter of resignation to the Deputy General Secretary of Parliament Mr. Chaminda Kularatne, earlier today (Feb.27).
 
-Accordingly, the Election Commission will be informed of the MP seat in the House left vacant after Premarathne’s resignation, the Communication Department of Parliament said in a press release.
+Accordingly, in accordance with Section 64(1) of the Parliamentary Elections Act No. 1 of 1981, the Secretary General of the Parliament is to inform the Chairman of the Election Commission that the seat of Uddika Premarathne, Member of Parliament in the Ninth Parliament, is vacant, the Communication Department of Parliament said in a press release.
 
 In 2020, the popular actor was announced as a candidate for the 2020 parliamentary election from the Anuradhapura District as a member of the Sri Lanka People’s Freedom Alliance, a political alliance led by the SLPP formed in 2019.
 
 He obtained 133,550 votes and won a seat in the 16th Parliament of Sri Lanka.
 
-Premarathne is yet to announce the reason for his resignation from the parliament.
-
-◼️
+...
 
 [Data](articles/3e21dd64.json)
 
@@ -1959,45 +2013,5 @@ Also , abstentions in this instance were considered as votes cast against the ap
 [Data](articles/c6ac1756.json)
 
 [Extended Data](ext_articles/c6ac1756.ext.json)
-
----
-
-### The Political Landscape Continues To Deteriorate
-
-*2024-02-27 07:21:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-political-landscape-continues-to-deteriorate/) · `en`
-
-“Allah will not change the condition of a people until they change themselves.” ~ (Holy Quran Chapter 13 Verse 11)
-
-The above verse from the Holy Quran is a reminder to the entire mankind contextually adapted for the current political climate. Broadly, the condition of any people revolves around two major generic areas. The good and bad.  It is only when bad has taken root, there will be a need for mankind to change towards goodness. And, until and unless man himself has decided to change the badness in him, nothing is going to change.
-
-...
-
-[Data](articles/f4f83488.json)
-
-[Extended Data](ext_articles/f4f83488.ext.json)
-
----
-
-### 21 year old youth assaulted
-
-*2024-02-27 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193861) · `si`
-
-A large number of arguments on an ancient dispute have been attacked by a group.
-
-The incident was reported yesterday at the Ampitiya area in the Ampitiya.
-
-Police said the man had been attacked by foot and murdered.
-
-The victim was a 21 year old resident of Mihiriipenna, Talpe.
-
-Six suspects involved in the murder have been identified and one suspect has been arrested.
-
-The suspect is a 21 year old resident of Talpe, Yalagalgama.
-
-◼️
-
-[Data](articles/941bf04f.json)
-
-[Extended Data](ext_articles/941bf04f.ext.json)
 
 ---

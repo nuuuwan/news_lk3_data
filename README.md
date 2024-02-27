@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 19:33:04**
+As of **2024-02-27 19:50:05**
 
 ## Newspaper Stats
 
-*Scraped **9,628** Articles*
+*Scraped **9,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ economynextcom | 491
 dailyftlk | 505
 islandlk | 511
 adalk | 814
-adaderanalk | 1,158
+adaderanalk | 1,161
 tamilmirrorlk | 1,179
 virakesarilk | 1,319
-dailymirrorlk | 1,450
+dailymirrorlk | 1,451
 adaderanasinhalalk | 1,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,628 (100.0%) of 9,628 articles have been extended.
+9,628 (100.0%) of 9,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Sri Lanka to implement a credit scheme to revive MSMEs sector
+
+*2024-02-27 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97574/sri-lanka-to-implement-a-credit-scheme-to-revive-msmes-sector) · `en`
+
+Cabinet approval has been granted to implement a project funded by the Asian Development Bank (ADB) to provide credit facilities at concessional interest rates to existing micro, small and medium-scale enterprises (MSMEs) in Sri Lanka for further expansion and recovery of their businesses.
+
+The government said a significant number of small and medium-scale entrepreneurs involved in manufacturing, import, export, tourism, apparel and various other commercial operations have found it very difficult to continue running their enterprises as a result of the economic downturn and the impact of external factors beyond their control.
+
+The Asian Development Bank has agreed to provide working capital support for the small and medium enterprise sector as a relief, the Government Info. Department said.
+
+...
+
+[Data](articles/94050bb4.json)
+
+---
+
+### India to push rupee investments in Sri Lanka - report
+
+*2024-02-27 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97573/india-to-push-rupee-investments-in-sri-lanka-report) · `en`
+
+The Indian government is working on operationalizing Rupee investments in Sri Lanka in a move to boost Indian investments in its southern neighbour, two people aware of the matter told Mint.
+
+Rupee investments will ease the way for Indian firms to enter the Sri Lankan markets, the people mentioned above said, speaking under the condition of anonymity.
+
+During FY 2023, the Reserve Bank of India (RBI) allowed invoicing and payments for international trade in the Indian Rupee.
+
+This allowed exports and imports to be denominated and invoiced in Indian rupees, with the settlement of trade transactions taking place in the currency.
+
+The RBI’s decision is aimed at promoting the growth of global trade, especially Indian exports, apart from systematically internationalizing the currency. India wants the Indian Rupee to be a hard currency in the future, the second person mentioned above said.
+
+...
+
+[Data](articles/9a1d28e0.json)
+
+---
+
+### Temperature felt on human body expected to increase up to caution level
+
+*2024-02-27 18:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Temperature-felt-on-human-body-expected-to-increase-up-to-caution-level/108-277823) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - The perceived temperature on the human body is anticipated to rise to a 'Caution' level in certain locations within the North-Western, Western and Southern Provinces, as well as in the Ratnapura district, the Natural Hazards Early Warning Centre of the Meterology Department said.
+
+According to the heat index advisory, Puttalam, Kurunegala, Gampaha, Colombo, Kalutara, Ratnapura, Galle Matara and Hambantota are mentioned as coming under the caution level.
+
+In the caution level, the department said that fatigue is possible with prolonged exposure and activity and continued activity could result in heat cramps.
+
+“People may suffer heat cramps and exhaustion and continuing activity in the heat or sun could lead to heatstroke,” the advisory warns.
+
+The Met. Dept. also advised the public to remain hydrated and take breaks in the shade as often as possible.
+
+...
+
+[Data](articles/955757f4.json)
+
+---
 
 ### The police sergeant is shooting
 
@@ -71,6 +127,22 @@ After the Elections Commission approved. C. Muthukumarana's name is being gazett
 [Data](articles/e8109c58.json)
 
 [Extended Data](ext_articles/e8109c58.ext.json)
+
+---
+
+### Sri Lanka to launch new sexuality education programme in March
+
+*2024-02-27 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97572/sri-lanka-to-launch-new-sexuality-education-programme-in-march) · `en`
+
+Ministry of Education officials stated that arrangements have been made to launch new educational publications compiled to provide education on sexuality from the pre-childhood development stage to the adult community, on the 7th of March 2024.
+
+This was stated when the Parliamentary Caucus for Children chaired by Member of Parliament Rohini Kumari Wijerathna met in Parliament recently, the Communications Department of Parliament said in a statement today.
+
+The officials stated that research has confirmed that these educational publications on sexuality have been prepared with the primary objective of improving the limited knowledge of people pertaining to sexuality education, which is the basis of many concerns in Sri Lanka.
+
+...
+
+[Data](articles/e0a32eb9.json)
 
 ---
 
@@ -1909,87 +1981,5 @@ Initial investigations have revealed that the house was set on fire due to an el
 [Data](articles/092db745.json)
 
 [Extended Data](ext_articles/092db745.ext.json)
-
----
-
-### Sri Lanka to establish ‘Children of Gaza Fund’ to aid victims of violence
-
-*2024-02-27 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97560/sri-lanka-to-establish-children-of-gaza-fund-to-aid-victims-of-violence) · `en`
-
-The Cabinet of Ministers has approved a proposal seeking to create a ‘Children of Gaza Fund’ in aid of the victims of violence in the besieged Palestinian enclave.
-
-President Ranil Wickremesinghe has tabled the proposal at the Cabinet meeting held on Monday (Feb.26), according to a statement from the President’s Media Division (PMD).
-
-As such, President Wickremesinghe and Prime Minister Dinesh Gunawardena have instructed all ministries and state institutions to forego the Iftar celebrations and contribute to this fund.
-
-Contributions from the members of the public are encouraged for this endeavour, the PMD said.
-
-The Sri Lankan government’s donation of USD 1 million will be distributed through official UN agencies to support the health needs of war-affected children in the Gaza Strip.
-
-...
-
-[Data](articles/cc5c5b90.json)
-
-[Extended Data](ext_articles/cc5c5b90.ext.json)
-
----
-
-### Sri Lankan flights canceled 6 flights
-
-*2024-02-27 10:49:22* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-ගමන්-6ක්-අවලංගු-කරයි/11-408296) · `si`
-
-According to the Katunayake Airport Information Center (Flight Information Center) said that their flights were canceled on the Katunayake airport on the Bandaranaike International Airport.
-
-Six of these aircrafts are a flight of Sri Lankan aircraft.Accordingly, 02/22 at 01.10 am, SriLankan Airlines UL-173, a flight to India, is expected to leave for Bangalore, August 17.15, to leave for Bangkok, UL,The 402 flight, 01.45, SriLankan Airlines UL, India, is to leave for Chennai, India - The offices of the Katunayake airport has been canceled.
-
-In addition to the 5th at 5.10 pm, SriLankan Airlines UL.SriLankan Airlines UL to leave for Abu Dhabi at 6.50 pm, SriLankan Airlines has been canceled on the 207 aircraft.
-
-The Squis Jet Airlines, which was due to leave the Katunayake airport in Sri Lanka at the Katunayake airport, was also canceled at the Katunayake airport.
-
-◼️
-
-[Data](articles/c4b5b254.json)
-
-[Extended Data](ext_articles/c4b5b254.ext.json)
-
----
-
-### Sri Lanka to seek private investments in water sector
-
-*2024-02-27 10:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-private-investments-in-water-sector-152203/) · `en`
-
-ECONOMYNEXT – Sri Lanka is looking to form public private partnerships in the water sector, specifically to focus on rural water supply, Minister of Water Supply and Estate Infrastructure Jeevan Thondaman has said.
-
-“Not privatization, but public private partnerships,” Thondaman said at a press briefing on Monday. “When we enhance private sector participation, we create a more competitive industry with better quality and cheaper prices.”
-
-A water tariff formula, which will be reviewed annually or bi-annually, has been formulated and will be submitted to the cabinet, parliament and COPE committee, he said.
-
-“Once this is in place, we will be able to attract investors to come on board. The water sector till now has not had a PPP model. We want to bring in private public sector partnerships in rural communities’ water supply; we believe they will be able to work hand in hand with community-based organizations to provide water to those who need it.
-
-...
-
-[Data](articles/d7d2ccfa.json)
-
-[Extended Data](ext_articles/d7d2ccfa.ext.json)
-
----
-
-### 160 technicians of SriLankan Airlines have quit their business!
-
-*2024-02-27 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/177399) · `ta`
-
-160 flight technicians who have served in SriLankan Airlines have left their career in the last two years
-
-As a result, only 250 air technicians are currently working there, its flight technicians say.
-
-According to SriLankan Airlines, 415 flights technicians needed service.
-
-Its technicians also note that air technicians have a high demand for foreign airlines.
-
-◼️
-
-[Data](articles/8e46b5d8.json)
-
-[Extended Data](ext_articles/8e46b5d8.ext.json)
 
 ---

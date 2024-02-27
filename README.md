@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 05:55:33**
+As of **2024-02-27 06:16:22**
 
 ## Newspaper Stats
 
-*Scraped **9,463** Articles*
+*Scraped **9,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 114
 dbsjeyarajcom | 165
 newsfirstlk | 363
 economynextcom | 481
-islandlk | 495
 dailyftlk | 504
+islandlk | 508
 adalk | 799
 adaderanalk | 1,139
 tamilmirrorlk | 1,159
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,463 (100.0%) of 9,463 articles have been extended.
+9,463 (99.9%) of 9,476 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -310,6 +310,40 @@ One of these Prophets of Doom even went to the extent of giving a time-line when
 
 ### 2024-02-26 (Monday)
 
+### Reminiscences of superlative lady: A beacon of service and ethics in healthcare
+
+*2024-02-26 23:44:00* · [`islandlk`](http://island.lk/reminiscences-of-superlative-lady-a-beacon-of-service-and-ethics-in-healthcare/) · `en`
+
+Specialist Consultant Paediatrician and Honorary Senior Fellow, Postgraduate Institute of Medicine, University of Colombo, Sri Lanka.
+
+...
+
+[Data](articles/bcf51f35.json)
+
+---
+
+### Babu…the star
+
+*2024-02-26 23:34:00* · [`islandlk`](http://island.lk/babuthe-star/) · `en`
+
+The concert ‘The Legacy Of Clarence & Milton’, held at the Musaeus College Auditorium, on 16th Feb, was a resounding success for Babu Jayakanthan, the Prince of Tamil Pop, from Canada.
+
+The audience, at this particular concert, was seeing Babu in action for the very first time and he impressed everyone present with his singing style and stage presentation.
+
+He came in for high praise from many as he entertained the enthusiastic crowd with hits of A.E. Manoharan.
+
+Sohan Weerasinghe was in the audience and had this to say… “Well done Babu. I enjoyed your songs and your moves!”
+
+Another music lover commented…”Babu is one of the best entertainers I saw in the present; not only his singing but the way he carried himself; his interaction with the crowd; his humble gestures; a complete package of a jovial, heartwarming outburst is this gentleman Babu.”
+
+Babu, who is well known in the music industry as Montreal Babu, started his music career, in 1985, in Sri Lanka.
+
+...
+
+[Data](articles/eded0606.json)
+
+---
+
 ### New political alliance when he returns to Bashil?
 
 *2024-02-26 23:20:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஷில்-நாடு-திரும்பியதும்-புதிய-அரசியல்-கூட்டணி/175-333856) · `ta`
@@ -390,6 +424,46 @@ Two days later, addressing the SJB Lawyers’ Forum on 13 February, Sajith Prema
 
 ---
 
+### LinearSix celebrates seven years of transforming financial services by unveiling cutting-edge financial solutions
+
+*2024-02-26 23:07:00* · [`islandlk`](http://island.lk/linearsix-celebrates-seven-years-of-transforming-financial-services-by-unveiling-cutting-edge-financial-solutions/) · `en`
+
+LinearSix, a pioneering force in the digital transformation of the financial services industry, proudly marks its seventh anniversary as a leader in promoting financial inclusivity through innovative technology solutions. Since its inception in 2017, LinearSix has played a pivotal role in driving digital growth in Sri Lanka’s banking and financial sector, demonstrating a commitment to advancing financial technology on a global scale.
+
+...
+
+[Data](articles/0cd6bdbb.json)
+
+---
+
+### Deloitte South Asia’s Consulting leadership discuss blueprint for business transformation and growth
+
+*2024-02-26 23:04:00* · [`islandlk`](http://island.lk/deloitte-south-asias-consulting-leadership-discuss-blueprint-for-business-transformation-and-growth/) · `en`
+
+The Deloitte Consulting leadership in South Asia convened in Sri Lanka, marking a significant move to drive growth in the South Asian region. A resolute commitment was made to scale collaboration, nurture talent, and embrace sustainability while shaping the future trajectory of the region’s business landscape.
+
+“As we strive for unprecedented growth in the South Asia region, Deloitte stands united in its commitment to scale this path of development. Together, we envision a future defined by innovation, technology, inclusiveness, and sustainability, where our unwavering collaboration paves the way for lasting success,” said, Sathish Gopalaiah, President, Consulting, Deloitte South Asia.
+
+...
+
+[Data](articles/e63cf51b.json)
+
+---
+
+### JICA survey reveals national challenges on plastic waste management
+
+*2024-02-26 23:02:00* · [`islandlk`](http://island.lk/jica-survey-reveals-national-challenges-on-plastic-waste-management/) · `en`
+
+JICA (Japan International Cooperation Agency) conducted a survey through “Project for Strengthening Plastic Management Capacity” launched in September 2023 on the current situations of plastic waste management, which was not grasped in the past. The main findings of the survey so far are summarized as below, while the survey will continue with more samples to improve its accuracy.
+
+– Plastic waste accounts for about 10% of the waste collected by local authorities, out of which about 70% is packaging plastic such as single-use plastic (SUP) shopping bags (40%) and lunch sheets (10%) (Western Province, weight basis).
+
+...
+
+[Data](articles/0274c889.json)
+
+---
+
 ### Sweden to join NATO in historic move as Hungary ratifies bid
 
 *2024-02-26 23:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97552/sweden-to-join-nato-in-historic-move-as-hungary-ratifies-bid) · `en`
@@ -427,6 +501,22 @@ This letter does not aim to discuss the pros and cons of this event. The focus i
 [Data](articles/75fe2f62.json)
 
 [Extended Data](ext_articles/75fe2f62.ext.json)
+
+---
+
+### Month-end profit-takings impose heavy selling pressure on bourse
+
+*2024-02-26 22:54:00* · [`islandlk`](http://island.lk/month-end-profit-takings-impose-heavy-selling-pressure-on-bourse/) · `en`
+
+The stock market began trading on a positive note yesterday but by the middle of the session it noted heavy selling pressure due to month- end profit takings.
+
+During the session, Nawaloka shares were suspended for trading due to heavy borrowings from HNB, market analysts said.
+
+Amid those developments, both indices moved downwards. The All- Share Price Index went down by 43 points and S and P SL20 declined by 6.3 points. Turnover stood at Rs 1.66 billion with five crossings. Those crossings were reported in Melstacope, which crossed 5 .1 million shares to the tune of Rs 457 million and its shares traded at Rs 90, JKH 460,000 shares crossed for Rs 87.6 million and its shares traded at Rs 192 , Hayleys, 1 million shares crossed for Rs 77 million; its shares traded at Rs 77, Expolanka Holdings 364,000 shares crossed for Rs 49.8 million and its shares sold at Rs 136.75 and CIC (non- voting) 1.2 million shares crossed for Rs 48.8 million; its shares traded at Rs 41.
+
+...
+
+[Data](articles/21a4909c.json)
 
 ---
 
@@ -1871,143 +1961,5 @@ The planetarium will be closed due to essential maintenance of projected machine
 [Data](articles/19f9ebc4.json)
 
 [Extended Data](ext_articles/19f9ebc4.ext.json)
-
----
-
-### Fisherman missing in sea
-
-*2024-02-26 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193842) · `si`
-
-Beruwala Police say investigations have commenced investigations into a complaint that a fisherman left the sea and the disappeared.
-
-A fisherman called a fisherman who was residing in the Ampala, Ampitiya, and the police said.
-
-It is said that the operator of the fishing vessel has informed the owner and then complained to the Beruwala Police after informing relatives.
-
-Six fishermen from the Haruni Daughter 2nd fishermen from the Haruni Daughter 2 last night have fallen from the harbor fishery port yesterday.The complaint is said to say.
-
-◼️
-
-[Data](articles/cd8e34bb.json)
-
-[Extended Data](ext_articles/cd8e34bb.ext.json)
-
----
-
-### SLTDA notice to Russian and Ukraine tourists taken down
-
-*2024-02-26 15:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLTDA-notice-to-Russian-and-Ukraine-tourists-taken-down/108-277738) · `en`
-
-Colombo, Feb 26 (Daily Mirror) - The notice published on the Sri Lanka Tourism Development Authority (SLTDA) official website notifying Russian and Ukraine tourists to get their visas in order, has been taken down.
-
-Industry sources shared with Daily Mirror that the notice was removed today since the Ministry of Internal Security maintains that it did not issue such an update.
-
-However, on 22 February, the Department of Immigration and Emigration wrote to the Ministry of Tourism requesting to inform Russian and Ukrainian tourists that the complimentary visa extensions offered end on 23 February.
-
-As per the notice, a 14-day grace period, expiring on 7 March 2024, will be provided to either return home or extend the visas through the formal process.
-
-While a tussle is currently ongoing between the relevant authorities and ministries in this regard, the stance on the visa remains unclear.
-
-◼️
-
-[Data](articles/0f7998ea.json)
-
-[Extended Data](ext_articles/0f7998ea.ext.json)
-
----
-
-### Minister Nimal Airlints
-
-*2024-02-26 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193841) · `si`
-
-Minister Nimal Siripala de Silva expressed his views regarding the investigationary aircraft delay recently.
-
-The Minister pointed out that passengers were severely inconvenienced due to delay in the staff.
-
-Speaking further Minister Nimal Siripala de Silva said.
-
-◼️
-
-[Data](articles/6b01fa82.json)
-
-[Extended Data](ext_articles/6b01fa82.ext.json)
-
----
-
-### Sri Lanka meets only 10 pct of global demand for king coconuts, plans to develop crop
-
-*2024-02-26 15:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-meets-only-10-pct-of-global-demand-for-king-coconuts-plans-to-develop-crop-152116/) · `en`
-
-ECONOMYNEXT — Sri Lanka plans to expedite a programme to develop king coconut cultivation as an export crop as demand has outgrown supply, meeting only 10 percent of global demand, Agriculture Minister Mahinda Amaraweera said.
-
-The Coconut Research Institute of Sri Lanka (CRI), the Coconut Cultivation Board, and the Coconut Development Authority, all of which come under the purview of the Agriculture Ministry, will work together in this regard, Amaraweera said.
-
-Speaking at an event on Sunday February 25, the minister said the ministry has identified the king coconut as an export crop that can boost foreign exchange earnings for Sri Lanka.
-
-“The variety of king coconut grown here is not available anywhere else in the world. There may be coconuts of this colour in other regions, but this particular king coconut is only grown here.
-
-“There is huge demand from the Dubai market. The competition is not with another country. The competition has been created by our own people,” he said.
-
-...
-
-[Data](articles/5f3a2f27.json)
-
-[Extended Data](ext_articles/5f3a2f27.ext.json)
-
----
-
-### Sri Lanka central bank officers’ union issues statement on salary hike
-
-*2024-02-26 15:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-officers-union-issues-statement-on-salary-hike-152117/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank’s Executive Officers Union has issued a statement on the controversy over a steep salary increment said to have been given after the latest currency collapse.
-
-Key points in the statement issued in Sinhalese are as follows
-
-a)	The central bank was set up as an independent institution from the beginning
-
-c)	The earlier monetary board and the current board were not employees of the central bank but experts in various fields
-
-d)	The salary revisions have taken place in three year periods over several decades
-
-e)	The collective agreement for 2024-2026 was a result of negotiation between the management and the unions
-
-f)	It is no secret that the central bank’s salaries are higher than other services
-
-g)	They require a competitive salary to do their jobs without pressure
-
-h)	As a result, there is interest in working at the agency and highly qualified young people enter the agency
-
-j)	Due to being a closed service, promotional opportunities are limited
-
-...
-
-[Data](articles/d8e81dde.json)
-
-[Extended Data](ext_articles/d8e81dde.ext.json)
-
----
-
-### Central Bank Executives
-
-*2024-02-26 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193840) · `si`
-
-The Association of the Central Bank of Sri Lanka has issued a special announcement regarding critical criticism of the employee pay.
-
-The statement states that the Central Bank of Sri Lanka has established an independent institution since its inception.
-
-According to the statement, the pre-governing body and the present governing body have been assigned to the current governing body and the administrative independence of the administrative independence is the same as the administrative independence.
-
-The statement further stated that the central bank pensioners were completely false by the private agenda of the Central Bank of the Central Bank of the Central Bank of the Central Bank.
-
-In the announcement, some private banks, including some private banks, has taken various measures to avoid the inflation of the country and the prevailing tax burden.
-
-They also emphasize that the politicians should be explained in the face of the political assassinations on the basis of a Supreme Court decision.
-
-...
-
-[Data](articles/7e280b77.json)
-
-[Extended Data](ext_articles/7e280b77.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 08:50:45**
+As of **2024-02-27 09:02:48**
 
 ## Newspaper Stats
 
-*Scraped **9,491** Articles*
+*Scraped **9,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 481
 dailyftlk | 504
 islandlk | 508
 adalk | 799
-adaderanalk | 1,142
-tamilmirrorlk | 1,163
+adaderanalk | 1,143
+tamilmirrorlk | 1,165
 virakesarilk | 1,294
 dailymirrorlk | 1,426
 adaderanasinhalalk | 1,436
@@ -26,11 +26,39 @@ adaderanasinhalalk | 1,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,491 (100.0%) of 9,491 articles have been extended.
+9,491 (100.0%) of 9,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Gunshots fired into air near tourist hotel in Wellawatta
+
+*2024-02-27 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97556/gunshots-fired-into-air-near-tourist-hotel-in-wellawatta) · `en`
+
+Two persons on a motorcycle have fled after shooting into the air in front of a tourist beach hotel in Wellawatte.
+
+The police have initiated an investigation into the incident, the police spokesman said.
+
+◼️
+
+[Data](articles/6c0c23ec.json)
+
+---
+
+### ”தென்னாகோனின் நியமனத்தை அரசியலமைப்பு சபை ஏற்கவில்லை”
+
+*2024-02-27 08:13:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னாகோனின்-நியமனத்தை-அரசியலமைப்பு-சபை-ஏற்கவில்லை/175-333863) · `ta`
+
+புதிய பொலிஸ் மா அதிபராக தேசபந்து தென்னகோனை நியமிப்பதற்கு அரசியலமைப்புச் சபை (CC) அனுமதி வழங்கவில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+"ஆதரவாக நான்கு வாக்குகளும், எதிராக 2 வாக்குகளும் இருந்தன மேலும் இருவர் வாக்களிக்கவில்லை. தீர்மானத்தை மேற்கொள்ள குறைந்தது 5 வாக்குகளாவது தேவை. வாக்குகள் சமனாக இருந்தால் மட்டுமே சபாநாயகர் வாக்களிக்கலாம். வாக்குகள் சமனாகவும் இல்லை.
+
+◼️
+
+[Data](articles/9a26fa01.json)
+
+---
 
 ### More than half -digit digits are not in use
 
@@ -265,6 +293,24 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/02dd6a6e.json)
 
 [Extended Data](ext_articles/02dd6a6e.ext.json)
+
+---
+
+### சுற்றுலாப் பயணிகளின் வருகை அதிகரிப்பு
+
+*2024-02-27 04:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-வருகை-அதிகரிப்பு/175-333860) · `ta`
+
+இந்த மாதத்தின் முதல் 18 நாள்களில் மாத்திரம் 138,736 சுற்றுலாப்பயணிகள் நாட்டுக்கு வருகைத்தந்துள்ளனர்.
+
+சுற்றுலா அபிவிருத்தி அதிகார சபை வெளியிட்டுள்ள புதுப்பிக்கப்பட்ட அறிக்கையில் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+ரஷ்யாவில் இருந்து 20 ஆயிரத்து 101 பேரும், இந்தியாவில் இருந்து 18 ஆயிரத்து 564 பேரும், சீனாவில் இருந்து 10 ஆயிரத்து 696 பேரும் நாட்டுக்கு வருகைத்தந்துள்ளனர் என  சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+
+கடந்த ஜனவரி மாதத்தில் 2 லட்சத்து 82 ஆயிரத்து 53 சுற்றுலாப்பயணிகள் நாட்டுக்கு வருகைத்தந்துள்ளனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/a7ac36d6.json)
 
 ---
 
@@ -1935,61 +1981,5 @@ Shammi Silva, President of Sri Lanka Cricket, expressed confidence in the tourna
 [Data](articles/21da9692.json)
 
 [Extended Data](ext_articles/21da9692.ext.json)
-
----
-
-### Lanka T10 tournament in December
-
-*2024-02-26 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193848) · `si`
-
-It is reported that the first Lanka T10 tournament will be held in December 2024.
-
-The tournament will be held from December 12 to 22.
-
-Six teams compete in the tournament, while 16 players belong to the pool.
-
-◼️
-
-[Data](articles/ba772f44.json)
-
-[Extended Data](ext_articles/ba772f44.ext.json)
-
----
-
-### The answer to Damitha requested the court
-
-*2024-02-26 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193847) · `si`
-
-Fort Magistrate Thilina Gamage has rejected the court to issue Court to issue notice to the husband of Damitha Abeyratne.
-
-CID has informed the judiciary that Damitha Abeyratne and her husband had been sent to Korean country.
-
-The CID had requested notice to appear in court as a result of ignoring the notice to the police to hear the complaint.
-
-Fort Magistrate Thilina Gamage has said that they cannot be issued notice as the suspects were not named as suspects.
-
-Fort Magistrate Thilina Gamage has also stated this as well as the demand for orders.
-
-◼️
-
-[Data](articles/d82e480c.json)
-
-[Extended Data](ext_articles/d82e480c.ext.json)
-
----
-
-### Sri Lanka Planetarium to be closed to public
-
-*2024-02-26 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Planetarium-to-be-closed-to-public/108-277745) · `en`
-
-The Sri Lanka Planetarium will remain closed to the public from tomorrow (27) until March 12, the Education Ministry announced.
-
-The decision to close the Planetarium stems from the necessity for urgent repairs. As such, access to the facility will be restricted during this period to facilitate the required maintenance work.
-
-◼️
-
-[Data](articles/773fe709.json)
-
-[Extended Data](ext_articles/773fe709.ext.json)
 
 ---

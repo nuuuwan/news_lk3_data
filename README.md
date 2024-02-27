@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 19:17:45**
+As of **2024-02-27 19:33:04**
 
 ## Newspaper Stats
 
@@ -26,47 +26,51 @@ adaderanasinhalalk | 1,459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,624 (100.0%) of 9,628 articles have been extended.
+9,628 (100.0%) of 9,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### පොලිස් සැරයන් වෙඩි තබාගෙන දිවිතොර ගනියි
+### The police sergeant is shooting
 
 *2024-02-27 18:46:41* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-සැරයන්-වෙඩි-තබාගෙන-දිවිතොර-ගනියි/11-408309) · `si`
 
-මාතර කොටවිල අධිකරණ සංකීර්ණයේ පොලිස් මුරපොල තුලදී පොලිස් සැරයන් වරයෙකු අද (27) සවස ටී 56 වර්ගයේ ගිනි අවියකින් වෙඩි තබාගෙන දිවි හානිකරගෙන ඇතැයි කොටවින පොලීසිය පවසයි.
+Police sergeant has been committed to suicide by shooting himself with a T-56 riffle in the Matara Thiwila Court Complex in Matara today (27).
 
-එසේ මරුමුවට පත්ව ඇත්තේ කොටවිල පොලිස් ස්ථානයට අනුයුක්තව සේවය කල 59745 කුමරප්පෙරුම ආරච්චිගේ රංජිත් (52) නැමැති සැරයන්වරයෙකි.
+Such was a sergeant as Ranjith (52), who was attached to the Kotawila Police Station 59745.
 
-මාතර තුඩාවේ පදිංචිකරුවෙකු වන ඔහු තිදරු පියෙකි. වසර 30 කට ආසන්න කාලයක් පොලිස් දෙපාර්තමේන්තුවට අනියුක්තව රාජකාරී කර තිබෙන බවද කියති.
+He is a resident of Matara resident. It is said that nearly 30 years have been duties to the Police Department.
 
 ◼️
 
 [Data](articles/30f0fd59.json)
 
+[Extended Data](ext_articles/30f0fd59.ext.json)
+
 ---
 
-### උද්දික වෙනුවට පාර්ලිමේන්තුවට එන අලුත් මන්ත්‍රී
+### New Member to Injury to Parliament
 
 *2024-02-27 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193887) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතා ඉල්ලා අස්වීම නිසා පුරප්පාඩු වූ පාර්ලිමේන්තු මන්ත්‍රී ධුරය සඳහා එස්. සී. මුතුකුමාරණ මහතා පත් කිරීමට නියමිතව තිබේ.
+MP Udi Premaratne resigns for the vacant parliamentary seat. C. Muthukumarana is to be appointed.
 
-කතානායකවරයා වෙත ලිපියක් යොමුකරමින් අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතා අද (27) සිය මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වුණි.
+Anuradhapura District MP Udi Premaratne has resigned from his post today (27).
 
-ඔහුගේ ඉල්ලා අස්වීම හේතුවෙන් පාර්ලිමේන්තු මන්ත්‍රී ධුරයක් පුරප්පාඩු වී ඇති බව පාර්ලිමේන්තු මහලේකම් නීතීඥ කුෂානි රෝහණධීර මහත්මිය විසින් මැතිවරණ කොමිෂන් සභාවට දැනුම් දී ඇති බව වාර්තා වෙයි.
+It is reported that the General Secretary Attorney at the MP Kushani Rohanaharade has reportedly informed the Elections Commission that he had vacant a parliamentary seat due to his resignation.
 
-1981 අංක එක දරණ පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව පාර්ලිමේන්තු මහලේකම්වරිය විසින් අදාළ දැනුම්දීම සිදුකර තිබුණාය.
+The Secretary General of Parliament has been made informed in accordance with Section 64 (1) of the Parliament Election Act 1981.
 
-ඒ අනුව හිටපු පාර්ලිමේන්තු මන්ත්‍රී උද්ධික ප්‍රේමරත්න මහතාගෙන් පසු එම ලැයිස්තුවේ වැඩිම මනාප ලබාගෙන ඇති එස්. සි. මුතුකුමාරණ මහතා පාර්ලිමේන්තුවට පත්වීමට නියමිතය.
+Accordingly, the highest preferential preferential preferential votes on the list after former MP Ulimu Premaratne. C. Mr. Muthukumarana to be elected to Parliament.
 
-මැතිවරණ කොමිෂන් සභාව අනුමත කිරීමෙන් පසු එස්. සි. මුතුකුමාරණ මහතාගේ නම පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වශයෙන් ගැසට් කිරීමට කටයුතු කෙරෙයි.
+After the Elections Commission approved. C. Muthukumarana's name is being gazetted as a Member of Parliament.
 
 ◼️
 
 [Data](articles/e8109c58.json)
+
+[Extended Data](ext_articles/e8109c58.ext.json)
 
 ---
 
@@ -114,15 +118,17 @@ These demands are fair. The UN Human Rights Council (UNHRC) urges the UN Human R
 
 ---
 
-### உத்திகவின் இடத்திற்கு முத்துகுமாரன
+### Muthukumaran
 
 *2024-02-27 18:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உத்திகவின்-இடத்திற்கு-முத்துகுமாரன/175-333901) · `ta`
 
-பாராளுமன்ற உறுப்பினர் உத்திக பிரேமரத்ன இன்று பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்ததையடுத்து ஏற்பட்ட வெற்றிடத்திற்கு எஸ்.சி.முத்துகுமாரன நியமிக்கப்படவுள்ளார்.
+SC Muthukumaran is to be appointed to the vacancy that has resigned from the post of Parliament today.
 
 ◼️
 
 [Data](articles/3eee3442.json)
+
+[Extended Data](ext_articles/3eee3442.ext.json)
 
 ---
 
@@ -184,17 +190,19 @@ Speaking to reporters subsequently, the President of the Trincomalee People's Un
 
 ---
 
-### වෝටර්ස් එජ් ඉඩම් දෙකක් නාවික හමුදාවට හා අශෝක විද්‍යාලයට
+### Two Navy and Asoka College, Waters Edge
 
 *2024-02-27 17:59:03* · [`adalk`](https://www.ada.lk/breaking_news/වෝටර්ස්-එජ්-ඉඩම්-දෙකක්-නාවික-හමුදාවට-හා-අශෝක-විද්‍යාලයට/11-408307) · `si`
 
-බත්තරමුල්ල වෝටර්ස් එඩ්ජ් පරිශ්‍ර භූමියෙහි පිහිටි ඉඩම් කොටස් දෙකක් ශ්‍රී ලංකා නාවික හමුදාව වෙත සහ කොළඹ 10 අශෝක විද්‍යාලය වෙත බදු දීම සඳහා කැබිනට් අනුමැතිය ලැබී ඇත.
+The Cabinet approval has been given to the Sri Lanka Navy and the Sri Lanka Navy in the Waters Edge premises in Battaramulla and the Colombo Navy.
 
-බත්තරමුල්ල වෝටර්ස් එඩ්ජ් පරිශ්‍ර භූමියේ පිහිටි රූඩ් 2 පර්චස් 30.89ක  ඉඩම් කොටසක් ශ්‍රී ලංකා නාවික හමුදාවේ බෝට්ටු පැදීම සහ දිවි ගලවා ගැනීමේ කඳවුරු පුහුණු කිරීම සඳහා නාවික හමුදාව වෙතත්, අක්කර 4 රූඩ් 2  පර්චස් 1.60 ක ඉඩම් කොටස ක්‍රීඩා පිටියක් ලෙස පරිහරණය කිරීම සඳහා කොළඹ 10 අශෝක විද්‍යාලය වෙතත් ඉඩම් කොමසාරිස් ජනරාල් මගින් දීර්ඝ කාලීන බඳු පදනම මත ලබා දීම පිණිස නාගරික සංවර්ධන හා නිවාස අමාත්‍යවරයා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර තිබේ.
+Colombo Navy boat and training camps in the Waters Edge premises of Battaramulla as a 30.89 perch training camps in the premises of the Sri Lanka Navy.However, the Cabinet of Urban Development and Housing has been approved by the Minister of Urban Development and Housing to grant the Land Commissioner General.
 
 ◼️
 
 [Data](articles/98ee109b.json)
+
+[Extended Data](ext_articles/98ee109b.ext.json)
 
 ---
 

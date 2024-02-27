@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 13:33:09**
+As of **2024-02-27 13:51:42**
 
 ## Newspaper Stats
 
-*Scraped **9,561** Articles*
+*Scraped **9,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 486
 dailyftlk | 504
 islandlk | 509
 adalk | 803
-adaderanalk | 1,150
+adaderanalk | 1,152
 tamilmirrorlk | 1,174
 virakesarilk | 1,310
 dailymirrorlk | 1,437
@@ -26,11 +26,51 @@ adaderanasinhalalk | 1,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,559 (100.0%) of 9,561 articles have been extended.
+9,563 (100.0%) of 9,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### All political parties to be briefed on Regulation of Election Expenditure Act
+
+*2024-02-27 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97566/all-political-parties-to-be-briefed-on-regulation-of-election-expenditure-act) · `en`
+
+All political parties will be informed of the Regulation of Election Expenditure Act on Tuesday (27 Feb.) and 06 March, as per a decision made by the Election Commission of Sri Lanka.
+
+Chairman of the Commission R. M. A. L. Ratnayake explained that the discussion will be held in light of the fact the upcoming elections will be the first to be held following the passage of the Regulation of Election Expenditure Act, in a bid to provide all parties and politicians with a proper understanding of the Act.
+
+According to the Regulation of Election Expenditure Act, all expenses incurred for the purpose of elections and campaigns must be limited, he noted.
+
+As such, Ranjith Maddumabandara, Sisira Jayakody, Uvindu Wijeweera and other representatives of their relevant parties were seen at today’s discussion.
+
+◼️
+
+[Data](articles/6a373a0b.json)
+
+[Extended Data](ext_articles/6a373a0b.ext.json)
+
+---
+
+### Hamas studies Paris truce proposal involving 40-day pause and hostage exchange – reports
+
+*2024-02-27 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97565/hamas-studies-paris-truce-proposal-involving-40-day-pause-and-hostage-exchange-reports) · `en`
+
+Palestinian Islamist group Hamas has received a draft proposal from Gaza truce talks in Paris which includes a 40-day pause in all military operations and the exchange of Palestinian prisoners for Israeli hostages at a ratio of 10 to one, a senior source close to the talks told Reuters on Tuesday.
+
+Under the proposed ceasefire, hospitals and bakeries in Gaza would be repaired, 500 aid trucks would enter into the strip each day and thousands of tents and caravans would be delivered to house the displaced, the source said.
+
+The draft also states Hamas would free 40 Israeli hostages including women, children under 19, elderly over 50 and the sick, while Israeli would release around 400 Palestinian prisoners and will not re-arrest them, the source told Reuters.
+
+The Gaza truce talks appear to be the most serious push in weeks to halt the fighting in the battered Palestinian enclave and secure the release of Israeli and foreign hostages.
+
+...
+
+[Data](articles/ec3437f2.json)
+
+[Extended Data](ext_articles/ec3437f2.ext.json)
+
+---
 
 ### The person who was attacked while sleeping
 
@@ -52,25 +92,29 @@ He was admitted to the Kilinochchi Hospital and admitted to the Jaffna Bodhana H
 
 ---
 
-### බංග්ලාදේශයේදී චරිත්ට නායකත්ව වරම්
+### Charith leadership in Bangladesh
 
 *2024-02-27 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193876) · `si`
 
-ශ්‍රී ලංකා - බංග්ලාදේශ 20යි 20 තරගාවලියේ පළමු තරග දෙකේ දී ශ්‍රී ලංකා කණ්ඩායම මෙහෙයවීමේ වගකීම ශ්‍රී ලංකා 20යි 20 උප නායක චරිත් අසලංකට පැවරීමට නියමිත බව වාර්තා වේ.
+Sri Lanka 20 Sri Lanka is responsible for the operation of Sri Lanka in the first two matches of Sri Lanka - Bangladesh 20th Competition.
 
-ඒ වනිඳු හසරංගට ජාත්‍යන්තර ක්‍රිකට් කවුන්සලය තරග දෙකක තහනමක් පනවා තිබීම හේතුවෙනි.
+It was due to the International Cricket Council in the event of the International Cricket Council.
 
-ඇෆ්ගනිස්තාන පිල සමග පැවති 3 වැනි සහ අවසන් 20යි 20 තරගයේදී විනිසුරු ලින්ඩන් හැනිබල් ලබාදුන් තීන්දුවකට විරෝධය පළකිරීම හේතුවෙන් ශ්‍රී ලංකා 20යි 20 නිත්‍ය නායක වනිඳු හසරංගට තරග දෙකක තහනමක් පැනවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සලය පසුගියදා කටයුතු කළේය.
+The International Leader (Identally Leader) recently operated by the International Leader Wanindu Hasara to impose a two-year-long verdict with Afghanistan's decision.
 
-ඒ අනුව මාර්තු 4 වැනිදා බංග්ලාදේශයට එරෙහිව ආරම්භ වීමට නියමිත 20යි 20 තරගාවලියේ පළමු තරග දෙක වනිඳු හසරංගට අහිමිවන අතර ශ්‍රී ලංකා කණ්ඩායම මෙහෙයවීමේ වගකීම චරිත් අසලංකට පැවරෙනු ඇති බව වාර්තා වේ.
+Accordingly, on March 4, the first two matches will be lost in the first two matches the first two matches and the responsibility of the Sri Lankan team will be handed over to Charith.
 
-පළමු තරග දෙක සඳහා වනිඳු වෙනුවට ජෙෆ්රි වැන්ඩසේ කණ්ඩායමට කැඳවීමට තේරීම් කමිටුවේ අවධානය යොමුව තිබේ.
+The Selection Committee is focused on the first two matches.
 
-මේ අතර ඇෆ්ගනිස්තාන තරගාවලිය අතරතුර ආබාධයකට ලක්වූ පැතුම් නිස්සංක වෙනුවට බංග්ලාදේශය සමඟ පැවැත්වෙන තරගාවලියේදී අවිශ්ක ප්‍රනාන්දුට කණ්ඩායමේ ස්ථානයක් හිමිවීමට නියමිත බවද වාර්තා වේ.
+Meanwhile, it is reported that the team is scheduled to be held in the team, instead of a disorder during the Afghan tournament.
 
-...
+Sri Lanka-Bangladeshi Twenty20 tournament will be started in Bangladesh on March 4.
+
+◼️
 
 [Data](articles/b6c1c890.json)
+
+[Extended Data](ext_articles/b6c1c890.ext.json)
 
 ---
 
@@ -378,9 +422,11 @@ Premarathna was elected to parliament in Anuradhapura in the 2020 election with 
 
 *2024-02-27 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97562/uddika-premarathne-resigns-as-mp-) · `en`
 
-SLPP MP Uddika Premarathne has tendered his resignation as a Member of Parliament.
+Uddika Premarathne of Sri Lanka Podujana Peramuna (SLPP) has resigned as a Member of Parliament.
 
-Speaker Mahinda Yapa Abeywardena confirmed that the Anuradhapura District parliamentarian has handed over the letter of resignation.
+The Anuradhapura District parliamentarian has handed over the letter of resignation to the Deputy General Secretary of Parliament earlier today (Feb.27).
+
+Accordingly, the Election Commission will be informed of the MP seat in the House left vacant after Premarathne’s resignation, the Communication Department of Parliament said in a press release.
 
 ◼️
 
@@ -720,17 +766,17 @@ Initial investigations have revealed that the house was set on fire due to an el
 
 *2024-02-27 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97560/sri-lanka-to-establish-children-of-gaza-fund-to-aid-victims-of-violence) · `en`
 
-The Cabinet of Ministers has approved a proposal seeking to create a ‘Children of Gaza Fund’ in aid of the victims of violence in the war-torn Palestinian enclave.
+The Cabinet of Ministers has approved a proposal seeking to create a ‘Children of Gaza Fund’ in aid of the victims of violence in the besieged Palestinian enclave.
 
-President Ranil Wickremesinghe has tabled the proposal at the Cabinet meeting held on Monday (Feb.26), according to the President’s Media Division (PMD).
+President Ranil Wickremesinghe has tabled the proposal at the Cabinet meeting held on Monday (Feb.26), according to a statement from the President’s Media Division (PMD).
 
-Meanwhile, all ministries and state institutions have been instructed to forego Ifthar celebrations and contribute to this fund.
+As such, President Wickremesinghe and Prime Minister Dinesh Gunawardena have instructed all ministries and state institutions to forego the Iftar celebrations and contribute to this fund.
 
-The Sri Lankan government’s donation of USD 1 million will be distributed through official UN agencies to aid affected children.
+Contributions from the members of the public are encouraged for this endeavour, the PMD said.
 
-PMD said contributions to the fund by the citizens are encouraged.
+The Sri Lankan government’s donation of USD 1 million will be distributed through official UN agencies to support the health needs of war-affected children in the Gaza Strip.
 
-◼️
+...
 
 [Data](articles/cc5c5b90.json)
 
@@ -1985,45 +2031,5 @@ Babu, who is well known in the music industry as Montreal Babu, started his musi
 [Data](articles/eded0606.json)
 
 [Extended Data](ext_articles/eded0606.ext.json)
-
----
-
-### New political alliance when he returns to Bashil?
-
-*2024-02-26 23:20:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஷில்-நாடு-திரும்பியதும்-புதிய-அரசியல்-கூட்டணி/175-333856) · `ta`
-
-Former President Mahinda Rajapaksa said that when Basil Rajapaksa returned to the country, he would negotiate on the political coalition.
-
-He was speaking to the media after a meeting held at the Sri Lanka PA in Battaramulla on Monday (26).
-
-Moreover, the party's national organizer Basil Rajapaksa will come to the country in two more weeks. Then we will discuss the political alliance.
-
-He said the party's executive council would decide whom to field as the presidential candidate. Remble
-
-◼️
-
-[Data](articles/e1662293.json)
-
-[Extended Data](ext_articles/e1662293.ext.json)
-
----
-
-### The government is maneuver to govern the country under the Prime Minister - United People's Power
-
-*2024-02-26 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177381) · `ta`
-
-The current government's plan is to rule the country under the executive prime minister. The united people will never accommodate it. Parliamentarian Nalin Bandara said we would defeat the government's intrigue for the universal referendum.
-
-He further stated at a press conference held at the Opposition Leader's Office in Colombo on Monday (26).
-
-The presidential election should be held this year. There are very few days for the presidential election. We are telling the government not to attempt to hold elections. The trick of the government is currently following a massive post to eliminate the presidential system.
-
-The government's plan is to submit this resolution in Parliament and pass it with a two -thirds majority.. The government's intrigue is to delay the election for a further year through this trick.
-
-...
-
-[Data](articles/b0d8e603.json)
-
-[Extended Data](ext_articles/b0d8e603.ext.json)
 
 ---

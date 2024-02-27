@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 19:50:05**
+As of **2024-02-27 20:17:49**
 
 ## Newspaper Stats
 
-*Scraped **9,632** Articles*
+*Scraped **9,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,71 @@ colombotelegraphcom | 96
 bbccomsinhala | 117
 dbsjeyarajcom | 166
 newsfirstlk | 363
-economynextcom | 491
+economynextcom | 500
 dailyftlk | 505
 islandlk | 511
 adalk | 814
 adaderanalk | 1,161
 tamilmirrorlk | 1,179
-virakesarilk | 1,319
+virakesarilk | 1,320
 dailymirrorlk | 1,451
-adaderanasinhalalk | 1,459
+adaderanasinhalalk | 1,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,628 (100.0%) of 9,632 articles have been extended.
+9,643 (100.0%) of 9,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### எதிர்காலத்தில் பராட்டே சட்டம் தொடர்பான திருத்தத்தை பாராளுமன்றத்தில் சமர்பிக்க எதிர்பார்ப்பு ; சிறிய மற்றும் நடுத்தர தொழில்முயற்சிகளுக்கு தனியான கடன் திட்டம் - விஜயதாச ராஜபக்ஷ
+
+*2024-02-27 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177452) · `ta`
+
+அமைச்சரவை தீர்மானத்தின் பிரகாரம், தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ள பராட்டே சட்டம் தொடர்பான திருத்தத்தை எதிர்காலத்தில் பாராளுமன்றத்தில் சமர்பிக்க எதிர்பார்க்கப்படுவதாக நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் ஜனாதிபதி சட்டத்தரணி கலாநிதி விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+
+சிறிய மற்றும் நடுத்தர தொழில் முயற்சிகளுக்கு (Small and Midsize Enterprise) தனியான கடன் திட்டமொன்றை அறிமுகப்படுத்த எதிர்பார்க்கப்படுவதாகவும் அமைச்சர் மேலும் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (21) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் விஜயதாச ராஜபக்ஷ இதனைத் தெரிவித்தார்.
+
+“நாடு ஒரு நிதிக் கொள்கையைக் கொண்டிருக்க வேண்டும். மேலும் பொருளாதாரமும் வலுவாக இருக்க வேண்டும். இந்த விடயத்தில் இலங்கை மத்திய வங்கிக்கு கணிசமான அதிகாரம் உள்ளது. கடந்த காலத்தில் இலங்கையில் கருத்தாடலுக்கு உட்பட்ட பரேட்டா சட்டம் பற்றி குறிப்பிடுவதென்றால், இவ்விடயத்தில் மத்திய வங்கி, நிதி நிறுவனங்களின் ஸ்திரத்தன்மையை பாதுகாப்பதில் மாத்திரமே கவனம் செலுத்தியது.
+
+...
+
+[Data](articles/3ec94af4.json)
+
+---
+
+### IP is abroad in the face of underworld threats
+
+*2024-02-27 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193889) · `si`
+
+The Organized Criminal Division of the Colombo Crimes Division, OIC of the Organized Crime Division of the Colombo Crimes Division has been abroad in the face of threats to he and his family members.
+
+Among the deaths he had threatened with Kajipani Imrain.
+
+On the 14th, Inspector Duminda Jayatilleke was abroad.
+
+With private security, he had gone to France from Bandaranaike International Airport and had been a death threats to be threatened by underworld gang members.
+
+He had telephoned Hyinatiyatiyania Mahh, saying that he was the underworld gangs of the extortion.
+
+Investigations were carried out by police inspector Duminda Jayatilleke during the recent past the recently.
+
+With the arrest of several suspects in investigations, the police inspector had been threatened with death.
+
+According to the Colombo Crimes Division, the Colombo Crimes Duminda Jayatilleke had issued a official firearm to possess the threat from underworld gang members.
+
+...
+
+[Data](articles/5eb797be.json)
+
+[Extended Data](ext_articles/5eb797be.ext.json)
+
+---
 
 ### Sri Lanka to implement a credit scheme to revive MSMEs sector
 
@@ -45,6 +91,62 @@ The Asian Development Bank has agreed to provide working capital support for the
 ...
 
 [Data](articles/94050bb4.json)
+
+[Extended Data](ext_articles/94050bb4.ext.json)
+
+---
+
+### 10 Srilankara travel is still late in late
+
+*2024-02-27 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193888) · `si`
+
+More than ten travels in SriLankan Airlines, three more flights were completely canceled today.
+
+Such a situation was created last Sunday flights, and four hours before, 48 hours before it was before.
+
+SriLankan Airlines says it will take up to five days to get back to normal.
+
+SriLankan Airlines delay and some traversal flights were reported last days, and the closest event was reported last Sunday.
+
+The airport staff workers were severely blamed for the airport staff, the patronage of the aircraft had aimed at the event of a plane and the aircraft had a pressure delay.
+
+At a press conference, the Chairman of the SriLankan said that the airline owns sufficient flights.
+
+In such a background, more than 10 flights were late today.
+
+It is reported that nearly three flights have been coffected today.
+
+It is reported that the UL121 Chennai, UL364 Jakarta, Ul314 Dhaka has been launched this morning.
+
+It is reported that UL265 Riyadh, UL470 Seoul, UL103, UL225 Dubai and UL222, is also delayed this afternoon.
+
+...
+
+[Data](articles/9fed8bd3.json)
+
+[Extended Data](ext_articles/9fed8bd3.ext.json)
+
+---
+
+### Sri Lanka aiming for US$200mn ADB water sector loans: Minister
+
+*2024-02-27 19:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-aiming-for-us200mn-adb-water-sector-loans-minister-152284/) · `en`
+
+ECONOMYNEXT – Sri Lanka is working with the Asian Development Bank to get 200 million US dollars of loans, linked to water sector reforms, Minister of Water Supply, Jeevan Thondaman said.
+
+The funds will come as a policy based loan in subprogram 1 and another 100 million dollars under sub program II, he said.
+
+“Seventy five percent of our reforms are complete and we are sure we would be able to carry it forward,” Minister Thondaman told reporters in Colombo.
+
+Sri Lanka’s National Water Supply and Drainage Board has unremunerated water (losses) which authorities have been trying to cut for many years.
+
+The NSWDB had also borrowed dollar loans in the past. (Colombo/Feb27/2024)
+
+◼️
+
+[Data](articles/a534b083.json)
+
+[Extended Data](ext_articles/a534b083.ext.json)
 
 ---
 
@@ -66,6 +168,8 @@ The RBI’s decision is aimed at promoting the growth of global trade, especiall
 
 [Data](articles/9a1d28e0.json)
 
+[Extended Data](ext_articles/9a1d28e0.ext.json)
+
 ---
 
 ### Temperature felt on human body expected to increase up to caution level
@@ -85,6 +189,8 @@ The Met. Dept. also advised the public to remain hydrated and take breaks in the
 ...
 
 [Data](articles/955757f4.json)
+
+[Extended Data](ext_articles/955757f4.ext.json)
 
 ---
 
@@ -143,6 +249,8 @@ The officials stated that research has confirmed that these educational publicat
 ...
 
 [Data](articles/e0a32eb9.json)
+
+[Extended Data](ext_articles/e0a32eb9.ext.json)
 
 ---
 
@@ -224,6 +332,26 @@ The Ministry of Agriculture stated that it has been decided to establish the sec
 
 ---
 
+### Sri Lanka hosts international Hindu festival
+
+*2024-02-27 18:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-hosts-international-hindu-festival-152319/) · `en`
+
+ECONOMYNEXT – Sri Lanka will host the annual Bhagwat Gita Mahotsava from March 1-3 at the Nelum Pokuna Theater premises in Colombo.
+
+The Bhagwat Gita Mahotsava is held annually by the Kurukshetra Development Board of Haryana, India to pay homage to Sri Bhagwat Gita and the series of religious events related to the holy book of Hindus.
+
+In recent years, the festival has been held in foreign countries.
+
+The Ministry of Religious and Cultural Affairs has organized the International Gita Mahotsava Buddhasasana.
+
+◼️
+
+[Data](articles/92e1a741.json)
+
+[Extended Data](ext_articles/92e1a741.ext.json)
+
+---
+
 ### Seven flights delayed due to disorder
 
 *2024-02-27 18:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோளாறு-காரணமாக-ஏழு-விமானங்கள்-தாமதம்/175-333900) · `ta`
@@ -275,6 +403,30 @@ Colombo Navy boat and training camps in the Waters Edge premises of Battaramulla
 [Data](articles/98ee109b.json)
 
 [Extended Data](ext_articles/98ee109b.ext.json)
+
+---
+
+### Jayamin Pelpola appointed to Sri Lanka’s BOC board
+
+*2024-02-27 17:55:00* · [`economynextcom`](https://economynext.com/jayamin-pelpola-appointed-to-sri-lankas-boc-board-152312/) · `en`
+
+ECONOMYNEXT – Jayamin Pelpola, a fintech entrepreneur and investor, has been appointed to the board of Bank of Ceylon (BOC) as a non-executive director with immediate effect.
+
+Pelpola has over 15 years of international experience in investment banking, asset management and digital finance.
+
+As a senior consultant, Pelpola advised US banks and international Central Banks on banking sector reforms.
+
+In 2015 Pelpola entered the financial technology (FinTech) space. He developed a proprietary market pricing model to value non-traditional assets.
+
+He serves as a Director of Onterra Group and a Director of Jayaru TP. He was appointed as a board member of the Board of Investment (BOI) of Sri Lanka in 2020.
+
+Pelpola received his MBA from Harvard University (Cambridge, Massachusetts). He obtained his charters from the CFA Institute (USA) and CIMA (UK), and Postgraduate Diploma in Marketing from CIM (UK). He is a past pupil of Nalanda College and Gateway International School. (Colombo/Feb27/2024)
+
+◼️
+
+[Data](articles/d077ffb9.json)
+
+[Extended Data](ext_articles/d077ffb9.ext.json)
 
 ---
 
@@ -359,6 +511,34 @@ Senior Counsel Darshana Kuruppu with Counsel Dineru Bandara appeared for the Acc
 [Data](articles/b49eac3a.json)
 
 [Extended Data](ext_articles/b49eac3a.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 310.25/50 to the US dollar
+
+*2024-02-27 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-310-25-50-to-the-us-dollar-152304/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 310.25/50 to the US dollar Tuesday, from 310.80/311.00 on Monday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.60/75 percent from 10.60/80 percent.
+
+A bond maturing on 15.09.2027 closed stable at 11.80/95 percent.
+
+A bond maturing on 15.03.2028 closed stable at 12.00/15 percent.
+
+A bond maturing on 15.07.2029 closed at 12.25/50 percent from 12.20/70 percent.
+
+A bond maturing on 15.05.2030 closed at 12.25/40 percent from 12.30/70 percent.
+
+A bond maturing on 15.05.2031 closed stable at 12.60/80 percent.
+
+A bond maturing on 01.07.2032 closed at 12.55/13.00 percent from 12.50/90 percent. (Colombo/Feb27/2024)
+
+◼️
+
+[Data](articles/f9bdda57.json)
+
+[Extended Data](ext_articles/f9bdda57.ext.json)
 
 ---
 
@@ -510,6 +690,28 @@ The 44-year-old, originally from Rajanganaya, faced the harrowing incident on Ja
 
 ---
 
+### Sri Lanka, Romania to strengthen trade ties
+
+*2024-02-27 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-romania-to-strengthen-trade-ties-152297/) · `en`
+
+ECONOMYNEXT – Sri Lanka and Romania have discussed cooperation and investment in new areas, and an agreement to prevent double taxation.
+
+Discussions were held between Prime Minister Dinesh Gunawardena and Romanian Ambassador Doamna Steluśa Arhire on “long-term bilateral relations and economic cooperation between the two countries, as well as the steps to be taken to reach investments in new areas,” a statement by the Department of Government Information said.
+
+The ambassador said that Romania “will sign an agreement with Sri Lanka to further speed up the trade process and prevent double taxation”.
+
+Another MoU on education, culture, sports and media cooperation can be signed after both sides approve the new draft, she added.
+
+The Prime Minister asked the Ambassador “to consider investment opportunities and cooperation in the fields of agriculture, railways, IT, cyber security and tourism.”
+
+...
+
+[Data](articles/cff07163.json)
+
+[Extended Data](ext_articles/cff07163.ext.json)
+
+---
+
 ### Electricity campaign is not a Walachchenai Paper Facket - Mahindananda
 
 *2024-02-27 16:12:59* · [`adalk`](https://www.ada.lk/breaking_news/වාලච්චේන-කඩදාසි-කම්හල-නොවසා--හවුල්-ව්‍යාපාරයක්-කරනවා---මහින්දානන්ද/11-408306) · `si`
@@ -636,6 +838,32 @@ It was also discussed that the entire land spread of 340 acres was the ability t
 
 ---
 
+### Sri Lanka stocks close up, turnover at 2.5bn
+
+*2024-02-27 15:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-2-5bn-152295/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 10.84 points, or 0.10 percent at 10,623; while the S&P SL20 Index closed up at 3,055 points, down 0.07 percent, or 2.06 points.
+
+Turnover was at 2.5 billion. “This was mostly due to 5-6 crossings that took place today,” a market participant said. “But retail activity is also starting to increase.”
+
+LB Finance Plc saw large volumes being traded, contributing 891 million to the day’s turnover. The share closed down at 61.90.
+
+Dialog Axiata Plc also saw trade volume (442mn) and the share closed down at 10.40.
+
+Sectors that attracted investor interest were Diversified Financials (947mn), Telecommunication Services (448mn), and Capital Goods (423mn).
+
+Positive contributors to the indices in the day included C T Holdings Plc (up at 269.50), Hayleys Plc (up at 78.60), and Vallibel Power Erathna Plc (8.80). (Colombo/Feb27/2024).
+
+◼️
+
+[Data](articles/b53f2d05.json)
+
+[Extended Data](ext_articles/b53f2d05.ext.json)
+
+---
+
 ### Police officer shoots himself dead near court in Matara
 
 *2024-02-27 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97568/police-officer-shoots-himself-dead-near-court-in-matara) · `en`
@@ -678,6 +906,24 @@ He has been re-employed and returned to work and have been re-served and committ
 
 ---
 
+### Sri Lanka to lease Waters Edge land to Navy, Asoka College
+
+*2024-02-27 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-waters-edge-land-to-navy-asoka-college-152264/) · `en`
+
+ECONOMYNEXT – Sri Lanka will release two blocks of land within the premises of Waters’ Edge, Battaramulla to the Sri Lanka Navy and Asoka Vidyalaya, Colombo 10 on a long term lease.
+
+“The land will be leased to the Navy to operate boating services and to establish lifesaving training activities, and to Asoka college to be used as a playground,” Cabinet spokesman Bandula Gunawardena said on Tuesday.
+
+One block of land is 2 roods and 30.89 perches, and the other is 4 acres, 2 roods and 1.60 perches. (Colombo/Feb27/2024)
+
+◼️
+
+[Data](articles/65c05075.json)
+
+[Extended Data](ext_articles/65c05075.ext.json)
+
+---
+
 ### A mother who is not conceived in the closet
 
 *2024-02-27 15:32:09* · [`adalk`](https://www.ada.lk/breaking_news/වැසිකිලියෙදී-ප්‍රසූත-කරනතෙක්-ගැබ්ගෙන-ඇති-බව-නොදත්-මවක්/11-408305) · `si`
@@ -713,6 +959,26 @@ Government of Japan has provided a grant of Yen 1.17 billion through the Interna
 [Data](articles/7bf6f23a.json)
 
 [Extended Data](ext_articles/7bf6f23a.ext.json)
+
+---
+
+### Sri Lanka cabinet approves new tourism policy
+
+*2024-02-27 15:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-new-tourism-policy-152275/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved a proposal by President Ranil Wickremesinghe to implement a new tourism policy prepared by an expert committee, Minister Bandula Gunawardana said.
+
+The policy has taken into account problems in the sector, the potential avenues for growth and local and international trends, he said.
+
+“Tourism brings in the most foreign exchange and is our biggest invisible export,” Gunawardana said. “The number of visitors are rising.”
+
+An expert committee made up of tourism industry professionals was appointed by the Secretary to President to review the policy prepared by the National Planning Department. (Colombo/Feb27/2024)
+
+◼️
+
+[Data](articles/98bf7d3a.json)
+
+[Extended Data](ext_articles/98bf7d3a.ext.json)
 
 ---
 
@@ -897,6 +1163,22 @@ It is noteworthy that Khaushal Mallawa in Nepal, who was in possession of the re
 [Data](articles/65876761.json)
 
 [Extended Data](ext_articles/65876761.ext.json)
+
+---
+
+### Sri Lankan MP Uddika Premarathne resigns
+
+*2024-02-27 14:31:00* · [`economynextcom`](https://economynext.com/sri-lankan-mp-uddika-premarathne-resigns-152270/) · `en`
+
+ECONOMYNEXT – MP Uddika Premarathne representing the Sri Lanka Podujana Peramuna, from Anuradhapura District tendered his letter of resignation from his position as a Member of Parliament to the Deputy Secretary General of Parliament Chaminda Kularatne today.
+
+“Accordingly, in accordance with Section 64(1) of the Parliamentary Elections Act No. 1 of 1981, the Secretary General of the Parliament is to inform the Chairman of the Election Commission that the seat of Hon. Uddika Premarathne, Member of Parliament in the Ninth Parliament, is vacant,” a statement by the Parliament said.
+
+◼️
+
+[Data](articles/24b88627.json)
+
+[Extended Data](ext_articles/24b88627.ext.json)
 
 ---
 
@@ -1727,259 +2009,5 @@ Moreover, the cooperation of the people is expected and the Sri Lankan governmen
 [Data](articles/6b0508c6.json)
 
 [Extended Data](ext_articles/6b0508c6.ext.json)
-
----
-
-### Dozens killed in attacks on mosque, church in Burkina Faso
-
-*2024-02-27 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97561/dozens-killed-in-attacks-on-mosque-church-in-burkina-faso) · `en`
-
-Dozens of people have been shot dead at a mosque on the same day that a church was attacked, say the authorities in Burkina Faso.
-
-It was during early-morning prayers that the gunmen surrounded the mosque in Natiaboani town.
-
-“The victims were all Muslims, most of them men,” a local resident told the AFP news agency.
-
-More than a third of Burkina Faso is currently under the control of Islamist insurgents.
-
-The attackers are suspected to be Islamist fighters who also targeted soldiers and a self-defence militia stationed locally that same day.
-
-Local media describe (in French) a huge invasion by hundreds of machine gun-wielding militants on motorbikes.
-
-Unverified reports on social media suggest the death toll from the mosque attack could be much higher than the count given by officials.
-
-Natiaboani, where those attacks happened, is in Burkina Faso’s troubled eastern region where multiple armed groups operate.
-
-...
-
-[Data](articles/22918101.json)
-
-[Extended Data](ext_articles/22918101.ext.json)
-
----
-
-### Down the Maussakele and Castle Rie Water Matles
-
-*2024-02-27 11:14:05* · [`adalk`](https://www.ada.lk/breaking_news/මාවුස්සාකැලේ-හා-කාසල්-රී-ජල-මට්ටන්-පහළට/11-408299) · `si`
-
-Two officers in charge of the Masselry and Castlery reservoirs have been reduced in the central hurdle.
-
-The two officers say that these conditions have been flooded with water supply to the Castleri and Massakaleholders in the Central Mountain Areas.
-
-The water level of the Castlereage Reservoir, the water level of the 18th of these circumstances is the 18 foot level of the water level of 15 feet [15) feet.
-
-The following two officials further stated that the water levels in these reservoirs are further reduced to the water levels in these reservoirs.
-
-◼️
-
-[Data](articles/ef04f3bf.json)
-
-[Extended Data](ext_articles/ef04f3bf.ext.json)
-
----
-
-### The constitution has been violated for the second time - the leader of the opposition
-
-*2024-02-27 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177402) · `ta`
-
-Opposition Leader Sajith Premadasa said that the constitutional council did not recognize the appointment of the Inspector General of Police.
-
-Opposition Leader Sajith Premadasa on his official X site said that the appointment of Deshabandu Tennakoon as the Inspector General of Police
-
-The Constitutional Council does not recognize the appointment of the Inspector General of Police. There were 4 votes in favor, 2 votes against it and 2 people avoided voting.
-
-Required at least 5 votes to decide. The Speaker has a definite vote that can only be used when the votes are equal. 4/2 is not equal votes!For the second time, the constitution has been blatantly violated.
-
-◼️
-
-[Data](articles/1d73bafd.json)
-
-[Extended Data](ext_articles/1d73bafd.ext.json)
-
----
-
-### “There will be a ceasefire in Gaza”
-
-*2024-02-27 11:10:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-போர்-நிறுத்தம்-ஏற்படும்/50-333872) · `ta`
-
-Israeli -Hamas organizations in Gaza are in great distress. The number of casualties, including children and women in Gaza in Israel attack, has crossed 29 thousand. A 7 -day ceasefire announced to rescue Israeli hostages caught by Hamas. Israel has been an intense attack since then.
-
-Meanwhile, the United States, Qatar and Egypt are trying to bring a ceasefire in Gaza.
-
-Israel refused to accept Hamas's demands. This has led to a ceasefire.
-
-US President Joe Biden said there would be a ceasefire by March 4 in Gaza.
-
-He said, “My National Security Advisor told me that we are close to a ceasefire in Gaza.. I hope that there will be a ceasefire by the next Monday (March 4). ”
-
-◼️
-
-[Data](articles/3cb23032.json)
-
-[Extended Data](ext_articles/3cb23032.ext.json)
-
----
-
-### Cabinet approves ’’Children of Gaza Fund’’, no ifthar celebrations
-
-*2024-02-27 11:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approves-Children-of-Gaza-Fund-no-ifthar-celebrations/108-277802) · `en`
-
-Colombo, Feb 26 (Daily Mirror) - The Cabinet has given the green light to President Ranil Wickremesinghe's proposal to establish a "Children of Gaza Fund" aimed at providing aid to victims of violence in Gaza.
-
-As part of this initiative, all Ministries and Government Institutions have been directed to forgo Ifthar celebrations and contribute to the newly created fund.
-
-The President's Media Division said that the government's donation of US $1 million will be distributed through official UN agencies to aid affected children.
-
-◼️
-
-[Data](articles/5f0c35d8.json)
-
-[Extended Data](ext_articles/5f0c35d8.ext.json)
-
----
-
-### Tourists cannot engage in trade activities - those involved in the tourism industry in Sri Lanka
-
-*2024-02-27 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/177401) · `ta`
-
-Sri Lanka's tourists have expressed concern over the increasing number of businessmen in Sri Lanka.
-
-The industry has pointed out to the authorities that the long -standing tourists in Sri Lanka are engaged in trading activities without proper records.
-
-Foreign tourists have launched their trading activities and expand them later, according to a Sri Lankan tourism organization.
-
-By 2022, we observed this in the South.
-
-Foreign tourists come to Sri Lanka and rent places and trade centers.
-
-He said that the livelihood of the local people, which believes in tourism, is badly affected by tourists.
-
-He said that it affects not only us, but also the restaurant owners.
-
-The Sri Lanka Hotel Owners Association has also revealed the same and appealed to the authorities to take appropriate action before the situation is uncontrollable.
-
-◼️
-
-[Data](articles/fc503abe.json)
-
-[Extended Data](ext_articles/fc503abe.ext.json)
-
----
-
-### Shos a hotel in Wellawatte
-
-*2024-02-27 11:01:54* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලවත්තේ-හෝටලයකට-වෙඩි-තබයි/11-408298) · `si`
-
-Wellawatte police say that a large-scale drug dealer is the son of Nadeen Language of Nadeen Language, Wellawatte police said.
-
-The shooting was damaged by its nameboard and a wall damaged.
-
-A police officer said that about twelve shots were launched to the hotel, and Ti 56 says a police officer.
-
-Police investigations have revealed this shooting at 5.15 people from the Dehiwala area with a scooter motorbike.
-
-A high police officer said that the reason for shooting was not specific.Wellawatte police are conducting further investigations
-
-◼️
-
-[Data](articles/87130189.json)
-
-[Extended Data](ext_articles/87130189.ext.json)
-
----
-
-### President's Gaza proposal approves cabinet
-
-*2024-02-27 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193872) · `si`
-
-The President's proposal has been approved by the President to create a 'Gaza' fund 'to provide relief to the violence of Gaza.
-
-The President has instructed the President and the government to give up Iluz celebrations by institutions.
-
-The Government of Sri Lanka is a $ 1 million donated by the UN official agencies to encourage children and citizens.
-
-◼️
-
-[Data](articles/c146ce85.json)
-
-[Extended Data](ext_articles/c146ce85.ext.json)
-
----
-
-### Register 32 traditional doctors
-
-*2024-02-27 10:57:23* · [`adalk`](https://www.ada.lk/breaking_news/පාරම්පරික-වෛද්‍යවරුන්-32ක්-ලියාපදිංචි-කරයි/11-408297) · `si`
-
-The Ayurvedic Indigenous doctors presented the registration certificates of the Ayurveda Medical Doctors in the National Institute of the Ayurvedic Medical Doctors (26) was held on the National Institute of Navinna Industrial Medicine.
-
-A group of other healthy services to the national health, wealth, labor, was a written and oral investigation by the Sri Lankan health care and conducted a written and oral medicine.
-
-Meanwhile, 14 mashed doctors, 10 skin diseases, two dermatic medicine and five snake powers and 32 optical of an eye doctor.
-
-Commissioner General of Ayurvedic Commissioner General Dr. Dhammika Abeygunawardena, Ayurvedic Medical Council Dr. Ajith Kumara and several others were present at the occasion.
-
-◼️
-
-[Data](articles/726c78fd.json)
-
-[Extended Data](ext_articles/726c78fd.ext.json)
-
----
-
-### Neil Vagner retires
-
-*2024-02-27 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193871) · `si`
-
-New Zealand fast bowler Neil Vagner has announced his retirement from international cricket.
-
-He has taken this decision with the expression of the New Zealand Selection Committee that he will not choose two Tests series that will commence on Thursday.
-
-According to media reports, Wagner has been arguing with Gary Steid last week, according to media reports.
-
-Vangner, aged 37, participated in 64 Tests and took 260 wickets.
-
-◼️
-
-[Data](articles/914f9bc2.json)
-
-[Extended Data](ext_articles/914f9bc2.ext.json)
-
----
-
-### Neil Wagner retires from international cricket
-
-*2024-02-27 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Neil-Wagner-retires-from-international-cricket/108-277801) · `en`
-
-Feb. 27 (cricbuzz) - Fiery New Zealand fast bowler Neil Wagner has announced his retirement from international cricket, bringing down the curtains on a 12-year-old Test career during which he played 64 Tests for the Black Caps and won the inaugural World Test Championship.
-
-Wagner, 37, made the decision after he was informed that he would not be part of the XI in the Test series against Australia starting in Wellington on Thursday (February 29). He will now be released from the squad before the second Test in Christchurch meaning he he will sign off from the international game with 260 Test wickets - fifth on New Zealand's all-time charts - at a strike-rate of 52.7 that is bettered only by the legendary Sir Richard Hadlee among New Zealanders with 100 Test wickets or more.
-
-Wagner said that the decision was not easy and that it had been "an emotional week" but it was clear it was the right time to move on.
-
-...
-
-[Data](articles/48cc4bfc.json)
-
-[Extended Data](ext_articles/48cc4bfc.ext.json)
-
----
-
-### Yall. House fire in Budhur;Valuable items were destroyed in fire
-
-*2024-02-27 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177400) · `ta`
-
-In Jaffna, a house was set on fire, valuable items and important documents were burnt.
-
-A house in Budhur Kalamathi area was set on fire on Monday night.
-
-The house was followed by the help of the neighbors who left home, but it was not beneficial, but after the Jaffna Municipal Council was reported to the fire brigade, they rushed to the spot and brought the fire under control.
-
-Initial investigations have revealed that the house was set on fire due to an electrical leak, Achuveli police are conducting further investigations.
-
-◼️
-
-[Data](articles/092db745.json)
-
-[Extended Data](ext_articles/092db745.ext.json)
 
 ---

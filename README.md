@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 22:33:05**
+As of **2024-02-27 22:50:48**
 
 ## Newspaper Stats
 
-*Scraped **9,656** Articles*
+*Scraped **9,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 500
 dailyftlk | 505
 islandlk | 511
 adalk | 819
-adaderanalk | 1,162
+adaderanalk | 1,164
 tamilmirrorlk | 1,180
 virakesarilk | 1,322
 dailymirrorlk | 1,451
@@ -26,25 +26,61 @@ adaderanasinhalalk | 1,463
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,655 (100.0%) of 9,656 articles have been extended.
+9,658 (100.0%) of 9,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### அரச நிதி முகாமைத்துவ சட்டமூலத்தைத் தயாரிக்க அரசாங்கம் தீர்மானம்
+### Fmr Finance Minister Ronnie de Mel passes away
+
+*2024-02-27 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97577/fmr-finance-minister-ronnie-de-mel-passes-away) · `en`
+
+Former Finance Minister Ronnie de Mel passed away on Tuesday (Feb.27) at the age of 98, family sources told Ada Derana.
+
+He was receiving treatment at a private hospital in Colombo at the time of his demise.
+
+◼️
+
+[Data](articles/93fa66e8.json)
+
+[Extended Data](ext_articles/93fa66e8.ext.json)
+
+---
+
+### Government resolution to prepare state financial management bill
 
 *2024-02-27 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177454) · `ta`
 
-புதிய நிதி ஒழுங்குச் சட்டகமொன்றைத் தயாரிப்பதற்கும், உத்தேச அரச நிதி முகாமைத்துவச் சட்டத்திற்கு குறித்த நிதி ஒழுங்கு சட்டகத்தை உட்சேர்ப்பதற்கு 2023.05.08 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+At the Cabinet meeting held on 2023.05.2012 to prepare a new financial order law and to enroll the Financial Order Act for the proposed state financial management law.
 
-அதற்கமைய, நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசிய கொள்கைகள் அமைச்சின் அரச நிதித் திணைக்களத்தால் ஏனைய திறைசேரித் திணைக்களம் மற்றும் பிரதி திறைசேரிச் செயலாளர்கள் இருவரின் இணைத் தலைமையின் கீழ் நியமிக்கப்பட்ட கண்காணிப்புக் குழுவின் ஆலோசனை மற்றும் கொள்கை ரீதியான வழிகாட்டலின் கீழ் அடிப்படைச் சட்டமூல வரைபொன்று தயாரிக்கப்பட்டுள்ளது.
+Accordingly, a fundamental bill has been prepared under the Advice and Policy Guidelines of the Monitoring Committee appointed under the leadership of the Department of Treasury and Deputy Treasury Secretaries by the State Finance Department of the Ministry of Finance, Economic Stability and National Policies.
 
-குறித்த அடிப்படைச் சட்டமூல வரைபின் அடிப்படையில் அரசி நிதிச் சட்ட மூலத்தைத் தயாரிக்குமாறு சட்ட வரைஞருக்கு ஆலோசனை வழங்குவதற்கும், உத்தேச சட்டமூலம் சட்டவரைஞரால் தயாரிக்கப்படும் வரைக்கும் நிதிப் பிரமாணத்தைத் தயாரிப்பதற்கு ஆரம்பிப்பதற்கு விசேட குழுவொன்றை நியமிப்பதற்காக திறைசேரி செயலாளருக்கு அதிகாரத்தை வழங்குவதற்கும் நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசிய கொள்கைகள் அமைச்சராக ஜனாதிபதி சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet has submitted the proposal to the President of the Finance, Economic Economics and National Policies to appoint a special committee to prepare a special committee to prepare a financial committee to prepare a fundraiser for the proposed bill to be prepared by the Bill.
 
 ◼️
 
 [Data](articles/755a0919.json)
+
+[Extended Data](ext_articles/755a0919.ext.json)
+
+---
+
+### Amendment to Parate Law expected in future parliament session - Wijeyadasa
+
+*2024-02-27 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97576/amendment-to-parate-law-expected-in-future-parliament-session-wijeyadasa) · `en`
+
+Dr. Wijeyadasa Rajapakshe, the Minister of Justice, Prisons Affairs and Constitutional Reforms on Tuesday (Feb.27) disclosed plans to introduce an amendment concerning the temporary suspension of Parate execution, indicating its imminent presentation to Parliament.
+
+This proposed legislative change signifies a proactive approach towards addressing legal matters crucial for the country’s governance and justice system, he added.
+
+Furthermore, Minister Rajapakshe highlighted the anticipation of implementing a distinct loan scheme tailored specifically for Small and Midsize Enterprises (SMEs). This initiative aims to bolster the economic prospects of smaller businesses, contributing to overall economic resilience and growth.
+
+...
+
+[Data](articles/909d7897.json)
+
+[Extended Data](ext_articles/909d7897.ext.json)
 
 ---
 
@@ -2015,35 +2051,5 @@ PUCSL officials have informed the Committee that by the end of this month, they 
 [Data](articles/e397f3b3.json)
 
 [Extended Data](ext_articles/e397f3b3.ext.json)
-
----
-
-### Against Harin's statement, ETCA...
-
-*2024-02-27 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-Harin-s-statement-ETCA/110-277804) · `en`
-
-While condemning Minister Harin Fernando's treasonous and unconstitutional statement, a public protest against the ETCA agreement was held in front of the Tourism Ministry today.
-
-The protest was over the statement on selling national resources, economic and security assets for India's geopolitical interests, which makes the national economy a victim of India. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/cf475b4e.json)
-
-[Extended Data](ext_articles/cf475b4e.ext.json)
-
----
-
-### Member of Parliament
-
-*2024-02-27 11:43:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினர்-இராஜினாமா/175-333873) · `ta`
-
-It is reported that Anuradhapura district parliamentarian Utika Premaratne has submitted his resignation letter to the Speaker.
-
-◼️
-
-[Data](articles/05039186.json)
-
-[Extended Data](ext_articles/05039186.ext.json)
 
 ---

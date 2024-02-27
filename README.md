@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 10:02:36**
+As of **2024-02-27 10:17:33**
 
 ## Newspaper Stats
 
-*Scraped **9,505** Articles*
+*Scraped **9,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,65 @@ economynextcom | 481
 dailyftlk | 504
 islandlk | 508
 adalk | 800
-adaderanalk | 1,143
+adaderanalk | 1,144
 tamilmirrorlk | 1,168
 virakesarilk | 1,294
-dailymirrorlk | 1,430
+dailymirrorlk | 1,432
 adaderanasinhalalk | 1,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,503 (100.0%) of 9,505 articles have been extended.
+9,505 (100.0%) of 9,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### எரிபொருள் விலை சூத்திரத்தில் நிவாரணம்
+### Romania mulls agreement with Sri Lanka to avoid double taxation
+
+*2024-02-27 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97557/romania-mulls-agreement-with-sri-lanka-to-avoid-double-taxation) · `en`
+
+Romanian Ambassador Doamna Steluța Arhire has called on Prime Minister Dinesh Gunawardena at the Temple Trees on Monday (Feb.26).
+
+PM Gunawardena and the Romanian envoy discussed the long-standing bilateral relations between the two countries and the steps to be taken to enter into economic cooperation and investment in new spheres.
+
+The Prime Minister urged Romania to consider investments and cooperation in education, agriculture, railways, IT, cyber security and tourism sectors.
+
+Ambassador Arhire, expressing delight over the fourfold growth of bilateral trade to USD 127 million last year added that her country would sign an agreement with Sri Lanka to avoid double taxation so that trade process could be smoothened. She added that another Memorandum of Understanding (MoU) on cooperation in education, culture, sports and media could be signed once the draft is approved by both sides.
+
+...
+
+[Data](articles/d1b9e3ff.json)
+
+---
+
+### IGP arrives before Supreme Court
+
+*2024-02-27 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IGP-arrives-before-Supreme-Court/108-277800) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - Newly appointed IGP Deshabandu Tennakoon arrived today before the Supreme Court in connection with several Fundamental Rights petitions challenging the President's decision to appoint him as the Acting IGP.
+
+◼️
+
+[Data](articles/4dbaaa09.json)
+
+---
+
+### Relief in the fuel price formula
 
 *2024-02-27 09:34:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-சூத்திரத்தில்-நிவாரணம்/175-333868) · `ta`
 
-எரிபொருள் விலை சூத்திரத்துக்கு எதிர்காலத்தில் நிவாரணம் வழங்கப்படும் என மின்சாரத்துறை அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+Electricity Minister Kanjana Wijesekera said that the fuel price formula will be provided in the future.
 
-விலைச்சூத்திரத்தில் அரசாங்கத்துக்கு கிடைக்கும் 4% இலாபத்தை குறைத்து அந்த நிவாரணத்தை மக்களுக்கு வழங்க உள்ளதாக அவர் கூறியுள்ளார்.
+He said the government would reduce the profit from the government to 4% of the profit from the government.
 
 ◼️
 
 [Data](articles/57c00476.json)
+
+[Extended Data](ext_articles/57c00476.ext.json)
 
 ---
 
@@ -77,6 +109,22 @@ Tabled and minuted during the monthly meeting of the SLMC on Thursday, February 
 [Data](articles/d5a1bd78.json)
 
 [Extended Data](ext_articles/d5a1bd78.ext.json)
+
+---
+
+### Shots fired into air near Wellawatte hotel
+
+*2024-02-27 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shots-fired-into-air-near-Wellawatte-hotel/108-277799) · `en`
+
+Colombo, Feb 27 (Daily Mirror) - Two persons arriving on a motorcycle near a hotel along Marine Drive in Wellawatte fired shots into the air before fleeing, police said.
+
+They said that the persons in question fled after firing a T-56 firearm into the air.
+
+Police recovered at least nine empty shells at the scene and suspect that the shots fired may have been a warning.
+
+◼️
+
+[Data](articles/3113e16a.json)
 
 ---
 
@@ -1386,23 +1434,25 @@ In case of a plane crashing for some reason, it is impossible. It is the duty of
 
 ---
 
-### ශ්‍රී ලන්කන් නිකන් දුන්නත් ගන්න කවුරුවත් නෑ
+### No one should give Sri Lankan
 
 *2024-02-26 20:12:08* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-නිකන්-දුන්නත්-ගන්න-කවුරුවත්-නෑ/11-408294) · `si`
 
-ශ්‍රී ලංකන් ගුවන් සමාගම පවත්වාගෙන යෑමට නොහැකි නම් වසා දැමීමට සිදුවන බවවරාය, නාවික හා ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
+Minister of Shipping and Aviation Minister Nimal Siripala de Silva said that SriLankan could not run the airline.
 
-මෙරට ගුවන්තොටුපොළ මිලදී ගැනීමට අදානි සමාගම පමණක් නොව චීනය සහ රුසියාව ඇතුළු රටවල් රැසක් බලාපොරොත්තුවෙන් සිටින බවත් අමාත්‍යවරයාසඳහන්  කළේය.
+He also said that not only the Sri Lankan Airport, but also a number of countries including China and Russia and many countries.
 
-ශ්‍රී ලංකන් ගුවන් සමාගමේ ගුවන් නියමුවන් සහ ඉංජිනේරුවන් පසුගිය කාලයේ කළ වර්ජනහේතුවෙන් එම සමාගමට තිබූ පිළිගැනීම නැති වී ගිය බවත්ඒ හේතුවෙන් එම සමාගම නොමිලයේ දුන්නද භාරගැනීමට කිසිවෙක් ඉදිරිපත් නොවන තත්ත්වයකට පත්ව ඇති බවත් අමාත්‍යවරයා සඳහන් කළේය.
+The Minister said that the company's pilots and engineers lost their reception from the recent strike from the recent strike and that the company had been present to accept the company free of charge.
 
-පසුගියදා ගුවන් මගීන් අපහසුතාවයට ලක්කළ ගුවන්යානා ප්‍රමාදය සම්බන්ධයෙන් කරුණු විමසූ අමාත්‍යවරයා, එම නිලධාරීන්ව දැඩි ලෙස දෝෂදර්ශයට ලක්කළේය.කාර්යමණ්ඩලයේ ප්‍රමාදයන් හේතුවෙන් මෙලෙස මගීන් දැඩි අපහසුතාවකට පත්වූ බවද අමාත්‍යවරයා ප්‍රකාශ කළේය.
+The Minister said that the officials prompted the delay in the event of an inconvenient aircraft recently.
 
-අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා මේ බව පැවසුවේ වරාය, නාවික හා ගුවන්සේවා අමාත්‍යාංශයේදී ඊයේ (26දා) පැවැති විශේෂ මාධ්‍ය හමුවේදීය.
+Minister Nimal Siripala de Silva made this statement at a special press conference held at the Ports, Naval and Aviation Ministry yesterday (26).
 
 ◼️
 
 [Data](articles/c1277dbb.json)
+
+[Extended Data](ext_articles/c1277dbb.ext.json)
 
 ---
 
@@ -1931,65 +1981,5 @@ Fort Justice Dilina Kamage said the court could not issue a summons as the two w
 [Data](articles/3993c132.json)
 
 [Extended Data](ext_articles/3993c132.ext.json)
-
----
-
-### Planetarium temporarily closed
-
-*2024-02-26 17:42:32* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රහලෝකාගාරය-තාවකාලිකව-වසයි/11-408287) · `si`
-
-Planetarium announced that it will close the Sri Lanka Planetarium maintaining workplaces until the 12th will be closed from tomorrow.
-
-◼️
-
-[Data](articles/9fcf8dd3.json)
-
-[Extended Data](ext_articles/9fcf8dd3.ext.json)
-
----
-
-### New report on crimes
-
-*2024-02-26 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193850) · `si`
-
-According to the DIG Talduuwa, the DIG Talduuwa, said that about 83 incidents of murder have been killed in January to date.
-
-The Police Media Spokesperson said that participating in a media briefing today (26).
-
-Meanwhile, a total of 1,180 cases have been reported and 310 robbery has been reported.
-
-The police spokesman said that the police are currently taking the various measures of the criminal situation.
-
-Meanwhile, about 20 shooting incidents have occurred in January to date, the police spokesman said.
-
-The Police Media Spokesperson has revealed that about 10 of the shooting incidents have been involved in organized criminal criminals.
-
-◼️
-
-[Data](articles/81d56a0a.json)
-
-[Extended Data](ext_articles/81d56a0a.ext.json)
-
----
-
-### Speaker of the Constitution and Parliamentary Democracy - GL Peiris accuses
-
-*2024-02-26 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177368) · `ta`
-
-The actions of Speaker Mahinda Yapa Abeywardena are the constitutional and the democratic of parliamentary democracy. Professor GL Peiris, a representative of the Independent People's Council and Member of Parliament, said that if the Speaker's actions as the representative of the Executive, it would be a false example of the future.
-
-He made this statement during a media briefing held at the Office of the Independent People's Council in Nawala on Monday (26).
-
-We have signed the first phase to bring a no -confidence motion against Speaker Mahinda Yapa Abeywardena. We will negotiate with all the opposition parties that are a member of Parliament.
-
-The Speaker is acting to affect the features of the 93 -year -old parliamentary democracy.
-
-The Speaker is acting in parliament as the executive president's representative.
-
-...
-
-[Data](articles/2d34139e.json)
-
-[Extended Data](ext_articles/2d34139e.ext.json)
 
 ---

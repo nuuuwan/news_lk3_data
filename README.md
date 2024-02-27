@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 14:33:00**
+As of **2024-02-27 14:50:44**
 
 ## Newspaper Stats
 
-*Scraped **9,574** Articles*
+*Scraped **9,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 96
 bbccomsinhala | 116
 dbsjeyarajcom | 166
 newsfirstlk | 363
-economynextcom | 486
+economynextcom | 491
 dailyftlk | 505
 islandlk | 509
 adalk | 808
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,573 (100.0%) of 9,574 articles have been extended.
+9,579 (100.0%) of 9,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
+
+### Sri Lanka to give Rs20bn in SME loans with ADB support
+
+*2024-02-27 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-rs20bn-in-sme-loans-with-adb-support-152256/) · `en`
+
+ECONOMYNEXT – Sri Lanka will start a 20 billion rupee loans scheme for small and medium enterprises hit by an economic crisis, with support from the Asian Development Bank, cabinet spokesman Bandula Gunawardana said.
+
+“New and existing businesses will get 15 billion rupees. SME with non-performing loans will get the balance 5 billion rupees,” Gunawardana said on Tuesday announcing the week’s Cabinet decisions.
+
+The loans will be given through licensed credit institutions. “They will issue a statement shortly in this regard.” (Colombo/Feb27/2024)
+
+◼️
+
+[Data](articles/be03cfd4.json)
+
+[Extended Data](ext_articles/be03cfd4.ext.json)
+
+---
 
 ### Rise in hospitalization of children due to high temperature: Pediatrician
 
@@ -54,19 +72,43 @@ Dr. Perera requested that the parents give their children two bottles of water w
 
 ---
 
-### උද්දික ප්‍රේමරත්න මන්ත්‍රී ධූරයෙන් ඉල්ලා අස්වෙයි
+### Udakika Premaratne resigns from seat
 
 *2024-02-27 13:22:00* · [`adalk`](https://www.ada.lk/breaking_news/උද්දික-ප්‍රේමරත්න-මන්ත්‍රී-ධූරයෙන්-ඉල්ලා-අස්වෙයි/11-408304) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+UNP MP Idebal Premaratne has resigned from the post of MPs Anuradhapura District.
 
-කථානායක වරයාවෙත  සිය ඉල්ලා අස්වීමේ ලපිය යොමුකරමින් ඔහු වැඩිදුරටත් මේසේ සඳහන් කර ඇත.
+He further stated that the Speaker will address his resignation.
 
-පසුගිය කාලය තුළ සිදු වූ සිදුවීම් හේතුවෙන් සක්‍රීය ලෙස රාජ්‍ය යාන්ත්‍රණ ක්‍රියාවලියට දායක වීමේ අවස්ථාවක් තරුණ නායකයෙක් ලෙස හිමි නොවූ බැවින් පෞද්ගලිකව ඔහු තුළ පවතින දේශපාලන සිතුම් පැතුම් මෙම වාතාවරණය තුළ යතාර්ථයක් බවට පත් කරගැනීම දුෂ්කර වීම මත සිය මන්ත්‍රී ධූරයෙන් ඉවත් වීමට තීරණය කර ඇති බව එම ලිපියේ සඳහන්.
+The youth leader has decided to resign from his own seat, as a youth leader has not been able to contribute to the state of public mechanism as a result of the recent incidents..
 
 ◼️
 
 [Data](articles/b1ce9c3f.json)
+
+[Extended Data](ext_articles/b1ce9c3f.ext.json)
+
+---
+
+### Sri Lanka to halt auction of bank loan collateral till Dec 15
+
+*2024-02-27 13:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-halt-auction-of-bank-loan-collateral-till-dec-15-152238/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers had approved a proposal by President Ranil Wickremesinghe to amend the country’s loan recovery law and halt auctioning of defaulted loans till December 15, Minister Bandula Gunawardena said.
+
+“Various parties have pointed out issues existing in paying off the loans obtained by small and medium scale businessmen from banks,” Gunawardena said Tuesday.
+
+“Therefore, it is apparent that a sufficient grace period to pay off relevant debts without being a burden to the banking system should be allowed.”
+
+“Accordingly, the Cabinet of Ministers granted approval … to suspend the procedure by the banks to acquire properties of loans not paid off, until 15 December 2024, and to amend Section 4 of the Recovery of Loans by Banks (Special Provisions) Act No, 4 of 1990 to impose legal provisions required for the above.” (Colombo/Feb27/2024)
+
+Sri Lanka to halt parate execution of defaulted SME bank loans: Minister
+
+...
+
+[Data](articles/164c3745.json)
+
+[Extended Data](ext_articles/164c3745.ext.json)
 
 ---
 
@@ -480,6 +522,24 @@ Six of the services canceled flights are owned by SriLankan Airlines.
 
 ---
 
+### Sri Lanka parliamentary committee says electricity tariffs should be reduced by 20 pct
+
+*2024-02-27 11:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliamentary-committee-says-electricity-tariffs-should-be-reduced-by-20-pct-152229/) · `en`
+
+ECONOMYNEXT — A parliamentary Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis has recommended to the Public Utilities Commission of Sri Lanka (PUCSL) that electricity tariffs be reduced by at least 20 percent.
+
+A statement from parliament said on Monday February 26 that, following an analytical review of the figures presented by the Electricity Board, Public Utilities Commission, etc. and taking into consideration all other factors affecting the price of electricity, including considering the opinion given by experts that the existing electricity price can be reduced by about 33%, price of electricity should be reduced by at least 20% in the year 2024 so that the state-run Ceylon Electricity Board (CEB) will not suffer any loss.
+
+PUCSL officials have informed the Committee that by the end of this month, they can submit the necessary recommendations to reduce the electricity bill, according to the statement.
+
+...
+
+[Data](articles/e397f3b3.json)
+
+[Extended Data](ext_articles/e397f3b3.ext.json)
+
+---
+
 ### Against Harin's statement, ETCA...
 
 *2024-02-27 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-Harin-s-statement-ETCA/110-277804) · `en`
@@ -559,6 +619,42 @@ Mr. Speaker Mahinda Yapa Abeywardena confirmed this in response to Ada Derana.
 [Data](articles/5f57c52d.json)
 
 [Extended Data](ext_articles/5f57c52d.ext.json)
+
+---
+
+### Sri Lanka sets up fund to help children of Gaza
+
+*2024-02-27 11:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-sets-up-fund-to-help-children-of-gaza-152218/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved a proposal by President Ranil Wickremesinghe to set up a fund to help children caught in the war in Gaza, a statement said.
+
+The government will contribute a million US dollars and use funds allocated by state agencies for Ifthar celebrations.
+
+The Presidential Secretariat is requesting public donations citizens for the “Children of Gaza Fund” to be contributed to account number 7040016 at Bank of Ceylon (7010), Taprobane Branch (747) by 11th April.
+
+Deposit receipts should to be forwarded to 0779730396 via WhatsApp. (Colombo/Feb27/2024)
+
+◼️
+
+[Data](articles/8c94e0bd.json)
+
+[Extended Data](ext_articles/8c94e0bd.ext.json)
+
+---
+
+### Top US official calls for inclusive reforms, deeper defence ties with Sri Lanka
+
+*2024-02-27 11:35:00* · [`economynextcom`](https://economynext.com/top-us-official-calls-for-inclusive-reforms-deeper-defence-ties-with-sri-lanka-152216/) · `en`
+
+ECONOMYNEXT — United States Deputy Secretary of State for Management and Resources Richard Verma in discussions with Sri Lanka officials had called for inclusive reforms and stronger human rights and also discussed deeper defence and maritime cooperation.
+
+The United States remains committed to the economic growth and prosperity of Sri Lanka, statement from the US Embassy in Colombo quoted the official as telling government, civil society and economic leaders during his February 23-24 visit to Sri Lanka.
+
+...
+
+[Data](articles/36f74222.json)
+
+[Extended Data](ext_articles/36f74222.ext.json)
 
 ---
 
@@ -1919,99 +2015,5 @@ A sudden death investigation officer A. Jayabalasingham carried out the death in
 [Data](articles/9a2d12dc.json)
 
 [Extended Data](ext_articles/9a2d12dc.ext.json)
-
----
-
-### The garden owner who severely attacked a 14 -year -old boy because of the goat's destruction of crops;The incident in Kilinochchi
-
-*2024-02-27 02:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177385) · `ta`
-
-A 14 -year -old boy living in a neighboring house has been taken into the garden by the owner of the garden, who has reportedly destroyed the crops into the garden in the Thiruvaiyaru area in Kilinochchi.
-
-The owner of the estate, the owner of the plantation, went to the house of a private man in the garden of a private man in the third part of the Thiruvaiyaru area in Kilinochchi.
-
-The incident took place on Sunday (25) evening. The victim was injured and a complaint was lodged at the Kilinochchi police station.
-
-◼️
-
-[Data](articles/bb0ce886.json)
-
-[Extended Data](ext_articles/bb0ce886.ext.json)
-
----
-
-### Died from Canada to breathe
-
-*2024-02-27 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177384) · `ta`
-
-A man who was admitted to hospital in a state of trouble was killed on Monday (26). Sodhilingam Kandasamy, who lives in Canada, died.
-
-He was visiting a relative's house at Madhakal East, Madhakal, a few days ago. He was admitted to the Jaffna Teaching Hospital after being admitted to the Jaffna Teaching Hospital on Sunday (25).
-
-A sudden death investigation officer A. Jayabalasingham carried out the deaths of his body.The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/a7d8ffa9.json)
-
-[Extended Data](ext_articles/a7d8ffa9.ext.json)
-
----
-
-### Unsurprising railway staff in Batticaloa;2 days of continuous demonstration
-
-*2024-02-27 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177383) · `ta`
-
-In Batticaloa, unsafe railway staff in Batticaloa will be working for the second day on Monday (26), demanding the permanent task of raising the salary of 7 thousand 500 rupees.. In front of the railway station;They are engaged in a series of demonstrations.
-
-In 2013, police officers were appointed as unsafe railway workers and Rs.They launched a protest protest.
-
-As the demonstration continues for the second consecutive day today, the staff told the media that we have been working as a police slave for over 10 years.
-
-If you work for 31 days, 7 thousand 500 rupees a day will be cut at 500 rupees.
-
-Due to the current economic crisis, 35 thousand rupees per month for a family cost of Rs.
-
-Therefore, the police are taking us as slaves without paying the salary.There was no solution to the politicians. There was no solution to it on Sunday (25) night.So this struggle will continue until we give us a solution.
-
-◼️
-
-[Data](articles/f6996327.json)
-
-[Extended Data](ext_articles/f6996327.ext.json)
-
----
-
-### Entrepreneurs’ Forum of IESL conducts successful seminar on entrepreneurship
-
-*2024-02-27 01:14:03* · [`dailyftlk`](https://www.ft.lk/business/Entrepreneurs-Forum-of-IESL-conducts-successful-seminar-on-entrepreneurship/34-758910) · `en`
-
-An excellent keynote address was made by veteran business leader Aravinda Perera on the theme of ‘Leverage Engineering to successful entrepreneurship and intrapreneurship’ recently at the IESL Auditorium.
-
-The event was participated by a large number of IESL members and corporate leaders. Entrepreneurs Forum Chairman Eng. Mangala Silva moderated the session.
-
-Aravinda highlighted the importance of rewarding team ideas to transform organisations. He encouraged the IESL Entrepreneurs Forum to initiate a mentoring platform for new entrepreneurs and funding support for ongoing business with the help of banks and other agencies and also he emphasised running a business with passion.
-
-Aravinda Perera was presented with a memento of appreciation by Vice President IESL Eng. Kamala Gunawardene accompanied by the Chairman of the Forum Eng. Mangala Silva and Entrepreneurs’ Forum Deputy Chairman Eng. Kemantha Perera.
-
-...
-
-[Data](articles/284ef5ea.json)
-
-[Extended Data](ext_articles/284ef5ea.ext.json)
-
----
-
-### Envoy in UK, BOI Chief meet investors in London
-
-*2024-02-27 01:12:43* · [`dailyftlk`](https://www.ft.lk/business/Envoy-in-UK-BOI-Chief-meet-investors-in-London/34-758909) · `en`
-
-Sri Lanka’s High Commissioner in the United Kingdom Rohitha Bogollagama and the Board of Investment Chairman Dinesh Weerakkody last week met several potential investors to discuss several business opportunities and also with senior officials of the Standard Chartered Bank UK and Virtusa Corporation at the Sri Lanka High Commission in London. Pictured here is Bogollagama and Weerakkody with the investors and officials.
-
-◼️
-
-[Data](articles/edf8c915.json)
-
-[Extended Data](ext_articles/edf8c915.ext.json)
 
 ---

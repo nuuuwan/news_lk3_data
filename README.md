@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-27 09:17:38**
+As of **2024-02-27 09:33:12**
 
 ## Newspaper Stats
 
-*Scraped **9,496** Articles*
+*Scraped **9,498** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 95
-bbccomsinhala | 114
+bbccomsinhala | 115
 dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 481
@@ -17,7 +17,7 @@ dailyftlk | 504
 islandlk | 508
 adalk | 799
 adaderanalk | 1,143
-tamilmirrorlk | 1,165
+tamilmirrorlk | 1,166
 virakesarilk | 1,294
 dailymirrorlk | 1,426
 adaderanasinhalalk | 1,438
@@ -26,23 +26,47 @@ adaderanasinhalalk | 1,438
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,494 (100.0%) of 9,496 articles have been extended.
+9,496 (100.0%) of 9,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-27 (Tuesday)
 
-### ඉන්ධන මිල සුත්‍රයට සහනයක්
+### Buel pricing relief
 
 *2024-02-27 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193866) · `si`
 
-ඉන්ධන මිල සුත්‍රයට ඉදිරියේ දී සහනයක් ලබාදීමට කටයුතු කරන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+Power and Energy Minister Kanchana Wijesekara says he will provide relief to the field of fuel.
 
-දෙරණ 360 වැඩසටහනට එක්වෙමින් අමාත්‍යවරයා පවසා සිටියේ, මිල සුත්‍රය තුළ රජයට ලැබෙන 4%ක් වූ ලාභංශය අඩුකර ජනතාවට එම සහනය ලබාදීමට කටයුතු කරන බවය.
+Addressing at the Adawara 360 program, the Minister said that he would reduce the 4% promotion to the government in the prices.
+
+"We expect the price formulating the price formula covering the 4 percent reduced expenses from zero to 4. We are trying to use those 4% to compete with the Petroleum Corporation, other Lioc and Syhope. Last year we had the ability to hand over the older debts and the loans of the ownership of the ownership of the 4% older.. We hope to provide the benefit to the people to promptly promptly. Now we are gazetting the maximum retail price of the Ministry. Then the CPC and LIOC will often go to the maximum price. Selling only a zinoopte. In the next price, we look forward to the CPC and the CPC gives them the opportunity to contest for them at a cost. "
+
+◼️
+
+[Data](articles/45b8892d.json)
+
+[Extended Data](ext_articles/45b8892d.ext.json)
+
+---
+
+### ”விமானத்தில் 2 எலிகள் இருந்ததால் தாமதமாகியது”
+
+*2024-02-27 08:46:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானத்தில்-2-எலிகள்-இருந்ததால்-தாமதமாகியது/175-333864) · `ta`
+
+ஞாயிற்றுக்கிழமை இரண்டு ஸ்ரீலங்கன் ஏர்லைன்ஸ் விமானங்களில் எலிகள் கண்டுபிடிக்கப்பட்டதால், விமானங்களை தாமதப்படுத்த அதிகாரிகள் கட்டாயப்படுத்தியதாக ஸ்ரீலங்கன் ஏர்லைன்ஸ் தலைவர் அசோக் பத்திரகே நேற்று தெரிவித்தார்.
+
+துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமானப் போக்குவரத்து அமைச்சில் நடைபெற்ற கலந்துரையாடலில் திரு. பத்திரகே கூறுகையில், “எலிகள் காணப்பட்ட இரண்டு விமானங்களுக்கு இரசாயனத்தை தெளிக்க வேண்டியிருந்தது.
+
+தொழில்நுட்ப குறைபாடுகள் காரணமாக மற்ற இரண்டு விமானங்கள் தாமதமாக வர வேண்டியிருந்தது,” என்று அவர் மேலும் கூறினார்.
+
+அப்போது துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால, விலங்குகள் எப்படி விமானத்திற்குள் புகுந்தது என்பது குறித்து விசாரணை நடத்தப்பட்டதா என கேள்வி எழுப்பினார்.
+
+15 கிரவுண்ட் ஹேண்ட்லிங் ஊழியர்கள் இல்லாததும் காலதாமதத்திற்கு காரணம் என தெரியவந்தது. மூன்று ஊழியர்கள் ஞாயிற்றுக்கிழமை விடுமுறைக்கு விண்ணப்பித்துள்ளனர், மீதமுள்ள 12 பேர் சாதாரணமாக விடுமுறை எடுத்து விட்டனர்.
 
 ...
 
-[Data](articles/45b8892d.json)
+[Data](articles/6677cccf.json)
 
 ---
 
@@ -50,9 +74,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-02-27 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97556/gunshots-fired-into-air-near-tourist-hotel-in-wellawatta) · `en`
 
-Two persons on a motorcycle have fled after shooting into the air in front of a tourist beach hotel in Wellawatte.
+Two men who had arrived on a motorcycle have fled after shooting into the air in front of a tourist beach hotel in Wellawatte.
 
-The police have initiated an investigation into the incident, the police spokesman said.
+According to the police spokesman, the gunmen have used a T-56 firearm.
 
 ◼️
 
@@ -78,17 +102,19 @@ Opposition Leader Sajith Premadasa has said that the Constitutional Council (CC)
 
 ---
 
-### වැල්ලවත්තේ හෝටලයක් ආසන්නයේ වෙඩි තැබීමක්
+### Shooting near Hotel in Wellawatte
 
 *2024-02-27 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193865) · `si`
 
-වැල්ලවත්ත ප්‍රදේශයේ හෝටලයක් ආසන්නයට පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් වෙඩිතැබීමක් සිදුකර පළා ගොස් ඇතැයි වාර්තා වේ.
+Two persons have been shot dead by two persons near the Wellawatte hotel in Wellawatte.
 
-පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, අදාළ පුද්ගලයින් යතුරුපැදියකින් පැමිණ ටී 56 වර්ගයේ ගිනිඅවියකින් අහසට වෙඩි තබා පළා ගොස් ඇති බවය.
+The police media division stated that the persons have come to a motorbike and shot the air from a T-56 riffle.
 
 ◼️
 
 [Data](articles/1d9929a4.json)
+
+[Extended Data](ext_articles/1d9929a4.ext.json)
 
 ---
 
@@ -401,6 +427,26 @@ The suspect has been made on the occasion of the Katunayake International Airpor
 [Data](articles/24372b7e.json)
 
 [Extended Data](ext_articles/24372b7e.ext.json)
+
+---
+
+### Rat Rod : 'කාර් එක පුරා එල්ලලා, ඇඳලා තියෙන්නේ මගේ සිතුවිලි'
+
+*2024-02-27 02:34:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9898l8214no) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, කලාව : 'කාර් එක පුරා එල්ලලා, ඇඳලා තියෙන්නේ මගේ සිතුවිලි'
+
+'Rat Rod' කලාව අනුව වඩාත් පැරණි පෙනුමක් ලැබෙන පරිදි නවීකරණය කළ ශ්‍රී ලංකාවේ මෝටර් රථයක් ගැන සමාජ මාධ්‍ය ඔස්සේ බොහෝ දෙනාගේ අවදානය යොමු වූ වීඩියෝවක් සංසරණය වේ.
+
+එබැවින් එම කලාව සහ එම මෝටර් රථයේ හිමිකරු ගැන අපි සොයා බැලුවෙමු.
+
+තමන්ගේ වාහනයට අලුත් පෙනුමක් ලබා දීමට බොහෝ දෙන උනන්දු වුව ද කඩවත පදිංචි තාරුක තියුම් දාබරේට අවශ්‍යව තිබෙන්නේ ඔහුගේ මෝටර් රථයට පැරණි, වෙනස් පෙනුමක් ලබා දීමය.
+
+''මේ කාර් එක පුරා එල්ලලා තියෙන්නේ, ඇඳලා තියෙන්නේ මගේ සිතුවිලි. මේක මගේ ප්‍රකාශන මාධ්‍යය.'' යනුවෙන්  තාරුක තියුම් දාබරේ BBC සිංහල සේවයට පැවසුවේය.
+
+◼️
+
+[Data](articles/a0ad1e6d.json)
 
 ---
 
@@ -1937,43 +1983,5 @@ The action-packed competition will also provide opportunities for the brightest 
 [Data](articles/9c094dad.json)
 
 [Extended Data](ext_articles/9c094dad.ext.json)
-
----
-
-### Education Ministry issues guidelines to safeguard schoolchildren amidst soaring temperatures
-
-*2024-02-26 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97544/education-ministry-issues-guidelines-to-safeguard-schoolchildren-amidst-soaring-temperatures) · `en`
-
-In response to the prevailing high-temperature weather conditions, the Ministry of Education has released a set of guidelines aimed at ensuring the protection of school children from potential adverse effects.
-
-A statement from the Ministry announced that directives have been communicated to all provincial directors of education, instructing them to disseminate the guidelines among school principals.
-
-The guidelines, aimed at addressing the challenges posed by the elevated temperatures, encompass a range of measures to safeguard the well-being of students and protect them from complications such as heat cramps, heat strokes, and heat exhaustion.
-
-Specific details include recommendations for hydration, appropriate clothing, and modifications to outdoor activities to mitigate the impact of the heat.
-
-Attached below is the list of guidelines issued by the Ministry:
-
-◼️
-
-[Data](articles/19a5e362.json)
-
-[Extended Data](ext_articles/19a5e362.ext.json)
-
----
-
-### What is Sri Lanka in countries that are sold at high prices?
-
-*2024-02-26 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177344) · `ta`
-
-Sri Lanka is the second largest apple fruit in the world.
-
-The Visitor Index posted on its X site that Numbeo, the world's largest living database, has published it.
-
-◼️
-
-[Data](articles/4c8bc164.json)
-
-[Extended Data](ext_articles/4c8bc164.ext.json)
 
 ---

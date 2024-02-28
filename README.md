@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 22:33:30**
+As of **2024-02-28 22:50:10**
 
 ## Newspaper Stats
 
-*Scraped **9,874** Articles*
+*Scraped **9,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 503
 dailyftlk | 519
 islandlk | 521
 adalk | 841
-adaderanalk | 1,191
+adaderanalk | 1,192
 tamilmirrorlk | 1,202
 virakesarilk | 1,359
 dailymirrorlk | 1,494
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,870 (100.0%) of 9,874 articles have been extended.
+9,874 (100.0%) of 9,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Saffron-robed monk arrested over allegations of child sexual abuse
+
+*2024-02-28 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97606/saffron-robed-monk-arrested-over-allegations-of-child-sexual-abuse) · `en`
+
+A saffron-robed monk has been arrested by the Homagama Police for allegedly sexually abusing twin minors.
+
+According to police, the suspect, who is also said to be involved in witchcraft, had allegedly sexually abused the 13-year-old brothers under the guise of providing medical treatment, upon advising their parents to let the boys stay with him for a few days for a ritualistic treatment.
+
+The suspect was, however, released on a personal bail of Rs. 500,000 after being produced before the Homagama Magistrate’s Court on Wednesday (28 Feb.).
+
+◼️
+
+[Data](articles/6d4e4978.json)
+
+---
 
 ### Live auction for divestment of SriLankan Airlines on 05 March - Minister
 
@@ -47,6 +63,8 @@ The Minister’s statement comes on the heels of several technical issues and ot
 ◼️
 
 [Data](articles/017b3764.json)
+
+[Extended Data](ext_articles/017b3764.ext.json)
 
 ---
 
@@ -65,6 +83,8 @@ Both Israel and Hamas have played down the prospects for a truce and Qatari medi
 ...
 
 [Data](articles/533039f6.json)
+
+[Extended Data](ext_articles/533039f6.ext.json)
 
 ---
 
@@ -99,6 +119,8 @@ These updates were provided by State Minister Semasinghe during his participatio
 ...
 
 [Data](articles/11ce881d.json)
+
+[Extended Data](ext_articles/11ce881d.ext.json)
 
 ---
 
@@ -269,6 +291,8 @@ He underscored the significance of the Suez Canal, particularly evident during t
 ...
 
 [Data](articles/d9d0e827.json)
+
+[Extended Data](ext_articles/d9d0e827.ext.json)
 
 ---
 
@@ -1995,25 +2019,5 @@ The aircraft had to landed on the Melbourne airport on a problematic system of t
 [Data](articles/ef5df32a.json)
 
 [Extended Data](ext_articles/ef5df32a.ext.json)
-
----
-
-### Emergency Notification issued by the Ministry of Education
-
-*2024-02-28 12:11:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சு-விடுத்துள்ள-அவசர-அறிவித்தல்/175-333933) · `ta`
-
-The Ministry of Education has announced that today (28), tomorrow (29) and tomorrow (01) will be avoided.
-
-Accordingly, students studying in any school are advised not to engage in external sports training activities or sports events or any other activities during high temperatures.
-
-The announcement further stated that the Provincial and Regional Education Officers have already issued a directive to inform all school principals and that the Ministry of Health and Education should act on the instructions given to the schools in the future.
-
-Meanwhile, the human body is expected to feel high in the Western, North Western and Southern Provinces and parts of the Ratnapura district.. Remble
-
-◼️
-
-[Data](articles/4c9f6130.json)
-
-[Extended Data](ext_articles/4c9f6130.ext.json)
 
 ---

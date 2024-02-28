@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 20:50:19**
+As of **2024-02-28 21:02:47**
 
 ## Newspaper Stats
 
-*Scraped **9,859** Articles*
+*Scraped **9,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 521
 adalk | 839
 adaderanalk | 1,187
 tamilmirrorlk | 1,201
-virakesarilk | 1,358
+virakesarilk | 1,359
 dailymirrorlk | 1,489
 adaderanasinhalalk | 1,497
 
@@ -26,77 +26,105 @@ adaderanasinhalalk | 1,497
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,854 (99.9%) of 9,859 articles have been extended.
+9,859 (100.0%) of 9,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### ஜூன் மாதம் முதல் அஸ்வெசும பயனாளிகளின் எண்ணிக்கையை 24 இலட்சமாக அதிகரிக்க நடவடிக்கை -  நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க
+### மின்சாரக் கட்டணத்தை 14 சத வீதத்தால் குறைக்க முன்மொழிவு!
+
+*2024-02-28 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177548) · `ta`
+
+இலங்கை மின்சார சபை கடந்த 22ஆம் திகதி பொதுப் பயன்பாடுகள் ஆணைக்குழுவுக்கு அனுப்பி வைத்த பிரேரணையில் மின்சாரக் கட்டணத்தை 14 சத வீதத்தால் குறைக்க முன்மொழிந்துள்ளது.
+
+கடந்த ஜனவரி மாதம் மின்சாரக் கட்டணத்தை 3.34 சதவீதம் குறைப்பதற்காக முன்வைக்கப்பட்ட யோசனையை மீளப் பெற்று இந்த புதிய திட்டத்தை மின்சார சபை முன்வைத்துள்ளது.
+
+எவ்வாறாயினும், கடந்த வருடம் ஒக்டோபர் மாதம் அதிகரிக்கப்பட்ட அதே அளவான கட்டணத்தை குறைக்கவுள்ளதாக மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர அண்மையில் நாடாளுமன்றத்தில் தெரிவித்திருந்தார்.
+
+◼️
+
+[Data](articles/a3a94889.json)
+
+---
+
+### Steps to increase the number of beneficiaries from June to 24 lakhs -Finance Minister Shehan Semasinghe
 
 *2024-02-28 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177547) · `ta`
 
-அஸ்வெசும இரண்டாம் கட்டத்திற்காக விண்ணப்பித்த பயனாளிகளின் தரவு சரிபார்ப்பு மற்றும் சான்றுபடுத்தல் பணிகள் நிறைவடைந்துள்ளதாகவும், அஸ்வெசும பயனாளிகளின் குடும்ப அலகுகளின் எண்ணிக்கையை ஜூன் மாதம் முதல் 24 இலட்சமாக அதிகரிக்க அனைத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளதாகவும் நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்தார்.
+Finance Minister Shehan Semasinghe said that the data verification and certification task of the beneficiaries who applied for the second phase of the data has been completed and all arrangements have been made to increase the number of family units from June to 24 lakhs.
 
-அஸ்வெசும இரண்டாம் கட்ட விண்ணப்பம் கோரல் 2024 மார்ச் 15 ஆம் திகதியுடன் நிறைவடையும் என்றும் விண்ணப்பங்களை சமர்ப்பிக்காதவர்கள் எவரும் அஸ்வெசும பலனைப் பெறத் தகுதி பெற மாட்டார்கள் எனவும் இராஜாங்க அமைச்சர் வலியுறுத்தினார்.
+The Minister of State has stressed that the second phase of application will end on March 15, 2024 and that no one who submits applications will not qualify for the benefits.
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (28) நடைபெற்ற செய்தியாளர் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே நிதி இராஜாங்க அமைச்சர்  ஷெஹான் சேமசிங்க இதனைக் குறிப்பிட்டார்.
+Finance Minister Shehan Semasinghe said this while addressing a press conference held at the Presidential Media Center on Wednesday (28).
 
-பொய்யான தகவல்களின் மூலம் அஸ்வெசும நன்மைகளைப் பெற்ற சுமார் 7000 பேர் அதிலிருந்து நீக்கப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+The Minister of State also stated that about 7,000 people who received the benefits of Ashem were removed from it.
+
+In the first phase of Aswesuma, the information of 34 lakh family units was verified. Accordingly, 19 lakhs of families have been eligible to benefit. Based on appeals and objections so far, the Welfare Benefits Council is ready to pay for eligible candidates from July 2024.
 
 ...
 
 [Data](articles/7153b944.json)
 
+[Extended Data](ext_articles/7153b944.ext.json)
+
 ---
 
-### රජිව් ඝාන්ධි ඝාතනයේ යාපනයේ ශාන්තන් රජිව් ගාන්ධි රෝහලේදී මරුට
+### Shanthan Rajiv Gandhi dies at Raja Gandhi murder
 
 *2024-02-28 19:55:24* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ඝාන්ධි-ඝාතනයේ-යාපනයේ-ශාන්තන්-රජිව්-ගාන්ධි-රෝහලේදී-මරුට/11-408340) · `si`
 
-හිටපු ඉන්දීය අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතාගේ ඝාතන සිද්ධියට වරදකරුවකු වී පසුව නිදහස ලැබු යාපනයේ ශාන්තන් නැමැත්තා ඉන්දියාවේදී ජීවිතක්ෂයට පත්ව ඇති බවට ඒරට මාධ්‍ය වාර්තා කර සිටියි.
+According to the media reports, Jaffna Shantan has been released in India.
 
-ශාන්තන් ඊයේ (27දා) දින ඉන්දියාවේ රජිව් ගාන්ධි රෝහලේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බව ඉන්දීය මාධ්‍ය වාර්තා සඳහන් කළේය.
+The Rajiv Gandhi Hospital in India has died yesterday (27), Indian media reports said.
 
-රජීව් ගාන්ධි ඝාතන නඩුව සම්බන්ධයෙන් වසර ගණනාවක් සිරගතව සිටි ශාන්තන් වසර 32කට පසු සිය මව බැලීමට යාපනය පැමිණීමට නියමිතව තිබුණි.
+Season, who was in jail for many years in the Rajav Gandhi murder case, was to visit Jaffna to visit his mother.
 
-ඒ අතරතුර ශාන්තන්ට හදිසියේ වැළඳුණු අක්මා රෝගයක් හේතුවෙන් ඔහු රෝහල් ගතකර ඇති අතර පසුව වැඩිදුර ප්‍රතිකාර සඳහා ඉන්දියාවේ රජිව් ගාන්ධි රෝහලට මාරු කොට එහි දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී  මියගොස් ඇත.
+In the meantime, he was admitted to the Rajiv Gandhi Hospital in a sudden liver disease and later died on the integrated unit of India.
 
-ශාන්තන්ගේ මව ඔහු බැලීමට අවශ්‍ය බව සඳහන් කරමින් ඉන්දීය රජයට අභියාචනයක් ඉදිරිපත් කර තිබුණු අතර එම අභියාචනය සැලකිල්ලට ගැනීමෙන් පසු ඉන්දීය රජය විසින් ශාන්තන්ට ශ්‍රී ලංකාවට පැමිණීම සඳහා අවසර ලබාදුන් බවද ඉන්දීය මාධ්‍ය වාර්තා සඳහන් කරයි.
+The Indian government appealed to the Government of India, noted that the mother of Shanthan wanted him to visit him, "Indian media reports say.
 
-...
+Accordingly, steps have been taken to issue a Passport of the Sri Lanka Deputy High Commission in Chennai under the approval of the Government of India.
+
+◼️
 
 [Data](articles/9b10b817.json)
 
+[Extended Data](ext_articles/9b10b817.ext.json)
+
 ---
 
-### பியகமவில் பாரிய தீ பரவல்: களத்தில் 4 தீயணைப்பு வாகனங்கள்!
+### Massive fire spread in Biyagama: 4 fire trucks on the field!
 
 *2024-02-28 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177546) · `ta`
 
-பியகம பண்டாரவத்தை பிரதேசத்தில் உள்ள தனியார் நிறுவனமொன்றுக்குச் சொந்தமான பகுதியில் பாரிய  தீ பரவல் ஏற்பட்டுள்ளது.
+A massive fire has been reported in a private company owned by a private company in the Bandarawatte area in Biyagama.
 
-குறித்த நிறுவனத்தில் நீர் குழாய்கள் தேக்கி வைக்கப்பட்டிருந்த இடத்துக்கு அருகில் இன்று (28) மாலை தீ பரவியதாக பியகம பொலிஸார் தெரிவித்தனர்.
+Biyagama police said that the fire broke out this evening near the site where the water pipes were stored at the company.
 
 ◼️
 
 [Data](articles/b3b0fb8d.json)
 
+[Extended Data](ext_articles/b3b0fb8d.ext.json)
+
 ---
 
-### ரயிலை மறித்து புலிச்சகுளம் புகையிரத நிலையத்திற்கு அருகில் போராட்டம்
+### Struggle near Pulichakulam railway station
 
 *2024-02-28 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177545) · `ta`
 
-புலிச்சகுளம் புகையிரத நிலையத்திற்கு அருகில் புகையிரதத்தை மறித்து பிரதேசவாசிகளால் ஆர்ப்பாட்டத்தில் ஈடுபட்டதையடுத்து அந்த இடத்தில் தற்போது கடும் பதற்றமான சூழல் ஏற்பட்டுள்ளது.
+There is a tense situation in the area after the residents of the area crossed the train near the Pulichakulam railway station.
 
-ஹலவத்தையில் இருந்து புத்தளம் நோக்கி புதன்கிழமை (28) பிற்பகல் பயணித்த புகையிரதத்தில் மோதி இளைஞன் ஒருவர் உயிரிழந்துள்ளதாகத் தெரிவிக்கப்படுகின்றது.
+It is reported that a youth has died after colliding with a train traveling from Halawatha to Puttalam on Wednesday afternoon.
 
-இச்சம்பவத்தையடுத்து, பிரதேசவாசிகள், புத்தளத்தில் இருந்து ஹலவத்தை நோக்கி புகையிரதம் சென்று கொண்டிருந்த போது புலிச்சகுளம் புகையிரத நிலையத்திற்கு அருகில் புகையிரதத்தை மறித்து ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர்
+Following the incident, the residents of the area staged a train from Puttalam to Halawatte, crossing the train near the Pulichakulam railway station.
 
 ◼️
 
 [Data](articles/76ff9fe2.json)
+
+[Extended Data](ext_articles/76ff9fe2.ext.json)
 
 ---
 
@@ -152,15 +180,17 @@ Colombo, Feb. 28 (Daily Mirror)- National People's Power (NPP) MP Harini Amarasu
 
 ---
 
-### දේශබන්දු හෙට පොලිස්පති ධුරයේ රාජකාරී අරඹයි
+### Deshabandu will commence duties tomorrow
 
 *2024-02-28 19:19:57* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-හෙට-පොලිස්පති-ධුරයේ-රාජකාරී-අරඹයි/11-408334) · `si`
 
-පොලිස්පති ධුරයට පත්කරන ලද දේශබන්දු තෙන්නකෝන් මහතා හෙට සිය ධුරයේ රාජකාරී කටයුතු ආරම්භ කරන බව පොලිස් මූලස්ථානය පවසයි. පොලිස් මූලස්ථානයේදී මෙම රාජකාරී භාර ගැනීම සිදුකිරීමට නියමිතය.
+Deshabandu Tennakoon appointed as IGP appointed as the post of IGP tomorrow. These duties are to be accepted at the Police Headquarters.
 
 ◼️
 
 [Data](articles/bfa5f4bc.json)
+
+[Extended Data](ext_articles/bfa5f4bc.ext.json)
 
 ---
 
@@ -1987,25 +2017,5 @@ An attack on a newcomer who joined Grade 06 at Nelliyadi Central College, Jaffna
 [Data](articles/152f0104.json)
 
 [Extended Data](ext_articles/152f0104.ext.json)
-
----
-
-### IGP's hope
-
-*2024-02-28 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193904) · `si`
-
-IGP Deshabandu Tennakoon says that the world's advancement is the hope of following the Sri Lankan police.
-
-The IGP expressed his views to the officers who passed the certificates of the subject of the Sri Lanka Police Criminal Report.
-
-He added that the police department will be extended to make a broad change in the police.
-
-"The criminal records division contributes greatly to the operations that have ever started to eradicate crime repression and drug to eradicate drugs. In fact, in my vision, the world's advancement in the future we need to make a difference in the future of the Sri Lankan police to address the crime solving countries.. I was a senior DIG for more than 4 years. The last day of the Senior DIG in the Western Province has been the last day of the Senior DIG of the Western Province. This may be the final event that I have officially attended a senior DIG. I am thankful, with the work of taking closely support with me in the western crimes in Sri Lanka. "
-
-...
-
-[Data](articles/51f3dbd1.json)
-
-[Extended Data](ext_articles/51f3dbd1.ext.json)
 
 ---

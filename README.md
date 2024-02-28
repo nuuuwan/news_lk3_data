@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 07:52:20**
+As of **2024-02-28 08:02:32**
 
 ## Newspaper Stats
 
-*Scraped **9,710** Articles*
+*Scraped **9,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ economynextcom | 500
 dailyftlk | 519
 islandlk | 521
 adalk | 820
-adaderanalk | 1,167
-tamilmirrorlk | 1,183
+adaderanalk | 1,169
+tamilmirrorlk | 1,185
 virakesarilk | 1,330
-dailymirrorlk | 1,463
 adaderanasinhalalk | 1,464
+dailymirrorlk | 1,465
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,710 (100.0%) of 9,710 articles have been extended.
+9,710 (99.9%) of 9,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Suspect wanted over Mahabage shooting killed in shootout with STF
+
+*2024-02-28 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97581/suspect-wanted-over-mahabage-shooting-killed-in-shootout-with-stf) · `en`
+
+A person who is suspected to be the motorcycle rider in the Mahabage shooting incident and is also wanted for several other crimes has been shot dead by STF personnel during an exchange of fire at Sooriyawewa, police said.
+
+◼️
+
+[Data](articles/cd4d6467.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-02-28 07:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97580/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Eastern, Uva and North central provinces and in Nuwara-Eliya and Matale districts.
+
+Showers or thundershowers may occur atseveral places in Western and Sabaragamuwa provinces and in Kandy, Galle and Matara districts in the evening or night.
+
+Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, North-western, Southern, Uva and Eastern provinces.
+
+The public is kindly requested to take adequate precautions to minimize the damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/c7c24d95.json)
+
+---
+
+### Bread, bun sales down: Bakery industry in crisis
+
+*2024-02-28 07:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bread-bun-sales-down-Bakery-industry-in-crisis/108-277856) · `en`
+
+Colombo, Feb 28 (Daily Mirror) - Sales of cakes breads and buns in the local market have dropped by around 50% due to the high manufacturing costs, the All Ceylon Bakery Owners' Association (ACBOA) said.
+
+They said the costs of magarin and butter have increased to Rs. 1,000 and Rs. 3,000 per kilo respectively.
+
+"We have still not received the stocks of eggs imported from India and henve we have to buy locally produced eggs at Rs. 60 each. That deals a hard blow to the bakery industry," the association chairman said.
+
+Therefore, the Bakery Owners' Association requests the government to provide concessions while bringing down the prices of the ingredients that the bakery manufactures need before the upcoming Sinhala and Hindu New Year.
+
+◼️
+
+[Data](articles/34df6b8d.json)
+
+---
+
+### Locals outraged as Israeli and Ukrainian tourists operate businesses in South
+
+*2024-02-28 06:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Locals-outraged-as-Israeli-and-Ukrainian-tourists-operate-businesses-in-South/108-277842) · `en`
+
+Following the Daily Mirror’s expose on Russian tourists engaging in illegal businesses in several areas in the south, it has now come to light that many Israeli and Ukrainian tourists are also engaged in running similar businesses in the south, hampering local businesses and causing much concern among industry stakeholders.
+
+The Daily Mirror visited these areas along the southern coastal belt and learnt that business operations run by Israeli and Ukrainian tourists include boutique hotels, restaurants and cafes.
+
+However, local tour operators claim that most Ukrainian tourists have even reached the extent of organizing excursions which they claim is illegal as tourists don’t have a license to operate as inbound tour guides.
+
+Local nationals in the south claim that if an immediate monitoring process is not enforced, tourists and locals are likely to clash as the tourists are attempting to hinder local businesses and hinder their livelihoods.
+
+...
+
+[Data](articles/d679c553.json)
+
+---
 
 ### Why the Sri Lankan economy is in crisis, while the cause is not addressed
 
@@ -270,6 +336,20 @@ Meanwhile, Tamil National Alliance (TNA) leader Sivagnanam Shritharan said that 
 
 ---
 
+### யாழ். பல்கலைக்கழகம் முன்பாக போராட்டம்
+
+*2024-02-28 02:57:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகம்-முன்பாக-போராட்டம்/175-333907) · `ta`
+
+நாடு முழுவதிலுமுள்ள அரச பல்கலைக்கழகங்களில் இன்றும் நாளையும் வேலைநிறுத்தப் போராட்டம் முன்னெடுக்கப்படுகிறது .
+
+இந்த போராட்டத்துக்கு ஆதரவு வழங்கும் முகமாக இன்று யாழ்ப்பாணம்  பல்கலைக்கழக முன்றலில் கவனயீர்ப்புப் போராட்டம் நடைபெறவுள்ளது என்று யாழ். பல்கலைக்கழக  ஊழியர் சங்கம் அறிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/93f1b136.json)
+
+---
+
 ### SLPP’s Uddika Premarathne quits Parliament due to disillusionment
 
 *2024-02-28 02:57:25* · [`dailyftlk`](https://www.ft.lk/news/SLPP-s-Uddika-Premarathne-quits-Parliament-due-to-disillusionment/56-758920) · `en`
@@ -285,6 +365,20 @@ In his letter, the MP expressed his initial aspirations to enter politics with t
 [Data](articles/bc845bd1.json)
 
 [Extended Data](ext_articles/bc845bd1.ext.json)
+
+---
+
+### பல்கலை கல்விசாரா ஊழியர்கள் வேலை நிறுத்தம்
+
+*2024-02-28 02:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-கல்விசாரா-ஊழியர்கள்-வேலை-நிறுத்தம்/175-333906) · `ta`
+
+பல்கலைக்கழக கல்விசாரா ஊழியர்கள் இன்று முதல் இரண்டு நாள் அடையாள வேலை நிறுத்தத்தில் ஈடுபடவுள்ளனர்.
+
+தற்போதைய பொருளாதார சூழ்நிலையில் சம்பளத்தை அதிகரிக்கக் கோரி பல்கலைக்கழக கல்வி மற்றும் கல்விசாரா ஊழியர்கள் அண்மைக்காலமாக பல்வேறு தொழிற்சங்க நடவடிக்கைகளை மேற்கொண்டனர். (a)
+
+◼️
+
+[Data](articles/412dab21.json)
 
 ---
 
@@ -1879,131 +1973,5 @@ However, the UNP came to power in 1952. Ponnambalam became the Minister of Indus
 [Data](articles/9f134131.json)
 
 [Extended Data](ext_articles/9f134131.ext.json)
-
----
-
-### Death of police officer before court
-
-*2024-02-27 15:58:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தின்-முன்-பொலிஸ்-உத்தியோகத்தர்-உயிரிழப்பு/175-333892) · `ta`
-
-It is reported that a police officer shot dead his life near the Matara Kodawawa court complex.
-
-The deceased is a 52 -year -old Sergeant who works at the Kodawila Police Station.
-
-Returning to work for a long time, he was shot dead at the police station at the Kodawila Court Complex today.
-
-◼️
-
-[Data](articles/a29a5acb.json)
-
-[Extended Data](ext_articles/a29a5acb.ext.json)
-
----
-
-### Police sergeant shoots himself near Kotawila Court
-
-*2024-02-27 15:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-sergeant-shoots-himself-near-Kotawila-Court/108-277820) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - A police sergeant shot and killed himself using his service firearm near the Kotawila Court complex.
-
-Police said the 52-year-old sergeant attached to the Kotawila Police Station had returned to work after reporting sick for a long time.
-
-He committed suicide today in the police post of the Kotawila Court Complex.
-
-◼️
-
-[Data](articles/26c9ec0b.json)
-
-[Extended Data](ext_articles/26c9ec0b.ext.json)
-
----
-
-### The Valachchenai Paper Factory is easy to profit
-
-*2024-02-27 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193881) · `si`
-
-The Chairman of the National Economic and Physical Planning, Mahindananda Aluthgamage has said that the need to maintain the need to maintain a state-private journalism and the president.
-
-The Chairman of the Committee Chairman said that at the sectoral Oversight Committee on National Paper Company (2014) and 2015 (20),
-
-Since the Valachchenai Factory machines were imported in 1956 in 1956, so they were repaired. The Ministry of Industries said that the cabinet was submitted to maintain a cabinet, but the land was allocated for a tourism industry as a government partnership.
-
-If the factory repairs spend Rs.. It was revealed that a profit of Rs 22 million was possible.
-
-It was also discussed that the entire land spread of 340 acres was the ability to consider it for a tourist zone and considering it.
-
-...
-
-[Data](articles/43822527.json)
-
-[Extended Data](ext_articles/43822527.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover at 2.5bn
-
-*2024-02-27 15:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-2-5bn-152295/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 10.84 points, or 0.10 percent at 10,623; while the S&P SL20 Index closed up at 3,055 points, down 0.07 percent, or 2.06 points.
-
-Turnover was at 2.5 billion. “This was mostly due to 5-6 crossings that took place today,” a market participant said. “But retail activity is also starting to increase.”
-
-LB Finance Plc saw large volumes being traded, contributing 891 million to the day’s turnover. The share closed down at 61.90.
-
-Dialog Axiata Plc also saw trade volume (442mn) and the share closed down at 10.40.
-
-Sectors that attracted investor interest were Diversified Financials (947mn), Telecommunication Services (448mn), and Capital Goods (423mn).
-
-Positive contributors to the indices in the day included C T Holdings Plc (up at 269.50), Hayleys Plc (up at 78.60), and Vallibel Power Erathna Plc (8.80). (Colombo/Feb27/2024).
-
-◼️
-
-[Data](articles/b53f2d05.json)
-
-[Extended Data](ext_articles/b53f2d05.ext.json)
-
----
-
-### Police officer shoots himself dead near court in Matara
-
-*2024-02-27 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97568/police-officer-shoots-himself-dead-near-court-in-matara) · `en`
-
-A police officer has fatally shot himself at the Matara New Court Complex in Kotawila North, Matara.
-
-The deceased has been identified as a 52-year-old Police Sergeant, attached to the Kotawila Police Station, who was on duty at the police post at the court.
-
-He had reportedly shot himself using his service firearm within the police post located at the court complex today (27).
-
-The police officer in question had reportedly only returned to duty today after being on sick leave for several days.
-
-If you or someone you know is in crisis and needs help, resources are available for immediate support:
-
-- For emergencies contact the National Mental Health Helpline 1926
-
-◼️
-
-[Data](articles/220ddda2.json)
-
-[Extended Data](ext_articles/220ddda2.ext.json)
-
----
-
-### A police commits suicide in front of a court
-
-*2024-02-27 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193880) · `si`
-
-Police have committed suicide by shooting near the Kotawila Court Complex in Matara.
-
-The victim has been committed to the 52-year-old police station.
-
-He has been re-employed and returned to work and have been re-served and committed suicide during the police post today.
-
-◼️
-
-[Data](articles/055096d4.json)
-
-[Extended Data](ext_articles/055096d4.ext.json)
 
 ---

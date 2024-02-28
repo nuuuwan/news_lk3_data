@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 22:17:37**
+As of **2024-02-28 22:33:30**
 
 ## Newspaper Stats
 
-*Scraped **9,870** Articles*
+*Scraped **9,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 503
 dailyftlk | 519
 islandlk | 521
 adalk | 841
-adaderanalk | 1,187
+adaderanalk | 1,191
 tamilmirrorlk | 1,202
 virakesarilk | 1,359
 dailymirrorlk | 1,494
@@ -26,11 +26,47 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,870 (100.0%) of 9,870 articles have been extended.
+9,870 (100.0%) of 9,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Live auction for divestment of SriLankan Airlines on 05 March - Minister
+
+*2024-02-28 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97605/live-auction-for-divestment-of-srilankan-airlines-on-05-march-minister) · `en`
+
+Minister of Ports, Shipping and Aviation Nimal Siripala de Silva has announced that an investor for SriLankan Airlines will be chosen following a live auction for the divestiture of SriLankan Airlines on 05 March.
+
+Speaking during Ada Derana’s ‘GET REAL’ segment, the Minister revealed that bids have been called, explaining that the live bidding will take place from 10:00 a.m. to 02:00 p.m. on 05 March, following which the bids will be evaluated, and sent to the Cabinet.
+
+“I want somebody strong to come forward, who can invest at least USD 500 million and ensure job security for the 6,000 people who are working in the airline, that is my priority”, he said in this regard.
+
+The Minister’s statement comes on the heels of several technical issues and other faults causing various delays and cancellations in SriLankan Airlines flights.
+
+◼️
+
+[Data](articles/017b3764.json)
+
+---
+
+### Hamas raises stakes in Gaza truce talks with Ramadan call
+
+*2024-02-28 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97604/hamas-raises-stakes-in-gaza-truce-talks-with-ramadan-call) · `en`
+
+Hamas urged Palestinians on Wednesday to march to Jerusalem’s Al-Aqsa Mosque at the start of Ramadan next month, raising the stakes in negotiations for a truce in Gaza, which U.S. President Joe Biden hopes will be in place by then.
+
+The call by Hamas leader Ismail Haniyeh followed comments by Biden, broadcast on Tuesday, that there was an agreement in principle for a ceasefire between Israel and Hamas during Ramadan, while hostages held by the militants are released.
+
+Biden said he hoped such an agreement, which a source said would also allow more aid into the stricken Palestinian enclave and bring the release of Palestinians prisoners, could be finalised by March 4. The Muslim holy month of Ramadan is expected to begin on the evening of March 10.
+
+Both Israel and Hamas have played down the prospects for a truce and Qatari mediators have said the most contentious issues are still unresolved.
+
+...
+
+[Data](articles/533039f6.json)
+
+---
 
 ### Court grants anticipatory bail on actress Damitha and her husband
 
@@ -47,6 +83,22 @@ Senior Counsel Ajith Pathirana, appearing for Damitha Abeyratne and her husband,
 [Data](articles/92e2aae8.json)
 
 [Extended Data](ext_articles/92e2aae8.ext.json)
+
+---
+
+### Number of Aswesuma beneficiaries to be increased to 2.4mn families by June – State Minister
+
+*2024-02-28 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97603/number-of-aswesuma-beneficiaries-to-be-increased-to-24mn-families-by-june-state-minister-) · `en`
+
+State Minister of Finance Shehan Semasinghe, announced that the verification and certification process for applicants in the second phase of the “Aswasuma” program has been finalized. All necessary arrangements have been made to extend benefits to 2.4 million family units starting from June 2024.
+
+The State Minister underscored the imminent closure of the second phase of applications, slated to conclude on March 15, 2024. Emphasizing the importance of timely submission, he reiterated that individuals failing to submit their applications by the given deadline will forfeit eligibility for benefits associated with the program.
+
+These updates were provided by State Minister Semasinghe during his participation in a press briefing at the Presidential Media Centre today (28), themed ‘Collective Path to a Stable Country’.
+
+...
+
+[Data](articles/11ce881d.json)
 
 ---
 
@@ -201,6 +253,22 @@ In the first phase of Aswesuma, the information of 34 lakh family units was veri
 [Data](articles/7153b944.json)
 
 [Extended Data](ext_articles/7153b944.ext.json)
+
+---
+
+### Sri Lanka committed to upholding freedom of navigation in Indian Ocean - President
+
+*2024-02-28 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97602/sri-lanka-committed-to-upholding-freedom-of-navigation-in-indian-ocean-president) · `en`
+
+In his address at the Pathfinder Indian Ocean Security Conference phase III held in Colombo today (Feb.28), President Ranil Wickremesinghe emphasized Sri Lanka’s dedication to maintaining a strategic position aimed at ensuring the absence of major power rivalries and upholding freedom of navigation in the Indian Ocean.
+
+The President highlighted that Sri Lanka’s commitment to freedom of navigation has prompted the country to engage in operations as guardians of prosperity in the Red Sea.
+
+He underscored the significance of the Suez Canal, particularly evident during the Six-Day War when its closure for ten years negatively impacted the Colombo port, emphasizing the necessity of ensuring unrestricted navigation.
+
+...
+
+[Data](articles/d9d0e827.json)
 
 ---
 
@@ -1947,83 +2015,5 @@ Meanwhile, the human body is expected to feel high in the Western, North Western
 [Data](articles/4c9f6130.json)
 
 [Extended Data](ext_articles/4c9f6130.ext.json)
-
----
-
-### Two police constables expelled from police
-
-*2024-02-28 12:10:26* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-පොලිස්-කොස්තාපල්-දෙදෙනා-පොලීසියෙන්-නෙරපයි/11-408325) · `si`
-
-The duties of the two police constables arrested on charges of a traffic laws have been banned on the owner of the resume of Rs.
-
-The senior police officer of the Kalutara SMC has banned the same as the police constable 36168 SM Hewage and 102636 MA Ti Madugalla.
-
-The sustapile Hewage officer is accused of obtaining a driver's license to the owner and obtaining a driver's license at the suspect duty with the suspect monastery.The bribery or corresponding charges of the Investigation Commission (Investigation Commission) were arrested and produced before the court on the 26th of this month.
-
-The police headquarters further stated that the suspension has been banned from the interests of the two officers.
-
-◼️
-
-[Data](articles/4be7285d.json)
-
-[Extended Data](ext_articles/4be7285d.ext.json)
-
----
-
-### Resolutions on Sri Lanka - Sri Lanka rejected the mechanism for collecting evidence
-
-*2024-02-28 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177488) · `ta`
-
-Sri Lanka's Foreign Minister Alizabri says the United Nations Human Rights Council should not be trapped in political or narrow political purposes
-
-The Foreign Minister said that despite Sri Lanka faced severe obstacles, the United Nations Human Rights Council continues to be actively and constructive.
-
-Alizabri reiterated that Sri Lanka has rejected the United Nations resolutions on Sri Lanka and rejected the mechanism of collecting evidence caused by these decisions.
-
-He added that these mechanisms are ineffective and are against the policies of the Human Rights Council.
-
-Alizabri said the United Nations Human Rights Council's attitude towards the crisis faced by Gaza would be an acidic examination for its credibility.
-
-◼️
-
-[Data](articles/5e2c28e6.json)
-
-[Extended Data](ext_articles/5e2c28e6.ext.json)
-
----
-
-### Strenuous outdoor activities in schools suspended
-
-*2024-02-28 12:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Strenuous-outdoor-activities-in-schools-suspended/108-277883) · `en`
-
-Colombo, Feb 28 (Daily Mirror) -  In response to soaring atmospheric temperatures, the Education Ministry has issued a directive to all school authorities urging them to suspend strenuous outdoor activities for students till Friday (March 01).
-
-In accordance with the directive, schools are instructed to refrain from conducting any sports events, practices or other outdoor activities during this period to ensure the well-being and safety of students.
-
-The Ministry emphasized that provincial and zonal education authorities have been tasked with briefing school principals on the directive, underscoring the importance of complying with the guidelines provided by both the Health Ministry and the Education Ministry.
-
-This precautionary measure comes as temperatures continue to rise, posing potential risks to students engaging in strenuous outdoor activities.
-
-...
-
-[Data](articles/1a926b15.json)
-
-[Extended Data](ext_articles/1a926b15.ext.json)
-
----
-
-### Don't expose school students to temperature these days
-
-*2024-02-28 12:00:55* · [`adalk`](https://www.ada.lk/breaking_news/මේ-දවස්වල-පාසල්-සිසුන්-උෂ්ණත්වයට-නිරාවරණය-කරන්න-එපා/11-408324) · `si`
-
-Threw the high temperature status of the environment these days, today (February is tomorrow and tomorrow). The Ministry of Education has instructed all schools to prevent outdoor sports or other external activity at any school in the country.
-
-The instructions have already been referred to the Provincial and Zonal Educational Authorities to educate the principals of all schools to educate the matter..
-
-◼️
-
-[Data](articles/7511b272.json)
-
-[Extended Data](ext_articles/7511b272.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 13:52:01**
+As of **2024-02-28 14:02:33**
 
 ## Newspaper Stats
 
-*Scraped **9,775** Articles*
+*Scraped **9,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,23 +18,57 @@ islandlk | 521
 adalk | 829
 adaderanalk | 1,175
 tamilmirrorlk | 1,189
-virakesarilk | 1,342
-dailymirrorlk | 1,474
+virakesarilk | 1,343
+dailymirrorlk | 1,478
 adaderanasinhalalk | 1,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,775 (100.0%) of 9,775 articles have been extended.
+9,780 (100.0%) of 9,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
+### Anura Kumara off to Canada next month
+
+*2024-02-28 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-off-to-Canada-next-month/108-277888) · `en`
+
+Colombo, Feb 28 (Daily Mirror) - National People’s Power (NPP) leader Anura Kumara Dissanayake will travel to Canada next month to address Sri Lankans living there and to meet with some Canadian politicians, the Daily Mirror learns.
+
+◼️
+
+[Data](articles/55f8e57a.json)
+
+[Extended Data](ext_articles/55f8e57a.ext.json)
+
+---
+
+### Yall. University Employees Union Demonstration Demonstration
+
+*2024-02-28 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177496) · `ta`
+
+The Jaffna University Employees Union held a protest demonstration at the university premises on Wednesday (28).
+
+The protest was held by the Jaffna University Employees Union in support of the two -day strike action on Wednesday and Tomorrow Thursday in state universities across the country.
+
+It has been decided on Thursday, while the university's salary conflict, salary increases and the problems of the university's wage increases, and the university subsidy commission and the government have not yet resolved the solution to the university and on the same day.
+
+Accordingly, the University Employees' Union is carrying out a strike action on the two days of the Jaffna University.
+
+◼️
+
+[Data](articles/d247db99.json)
+
+[Extended Data](ext_articles/d247db99.ext.json)
+
+---
+
 ### More than 100 elephant crowd that searches new grass
 
-*2024-02-28 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177495) · `ta`
+*2024-02-28 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177495) · `ta`
 
 An elephant crowd is seeking to eat new sprouts after agricultural harvest.
 
@@ -51,6 +85,26 @@ In addition, the fire is being set on fire in the area, but more than 30 elephan
 [Data](articles/f7619ab4.json)
 
 [Extended Data](ext_articles/f7619ab4.ext.json)
+
+---
+
+### WNPS vows tough action against Adani wind power project
+
+*2024-02-28 13:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/WNPS-vows-tough-action-against-Adani-wind-power-project/108-277886) · `en`
+
+Colombo, Feb 28 (Daily Mirror) - Wildlife and Nature Protection Society (WNPS) vowed stern legal action against the Adani-sponsored wind power project in Mannar if the proposed environmental concerns on the EIA is not heeded by the Central Environment Authority (CEA), saying over one million birds will be affected annually if the project came into being.
+
+Senior biodiversity scientist Dr. Rohan Pethiyagoda said yesterday the proposals on serious environmental concerns about the Mannar wind power generation project will be submitted to the CEA before the given deadline on March 6th.
+
+Addressing a media briefing held in Colombo yesterday Dr. Pethiyagoda said if the proposals on the environment impact assessment (EIA) submitted by them were rejected by the CEA, they would seek legal action against the project.
+
+He said even the concerned citizens could comment on the EIA, while it is open for public comments until March 6th addressed to Director General, CEA through dg@cea.lk
+
+...
+
+[Data](articles/49709c60.json)
+
+[Extended Data](ext_articles/49709c60.ext.json)
 
 ---
 
@@ -122,6 +176,24 @@ In addition, the victim has to pay compensation of 04 lakhs 50 thousand rupees. 
 
 ---
 
+### Sri Lanka asks UNHRC member states not to do vote bank politics
+
+*2024-02-28 12:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-asks-UNHRC-member-states-not-to-do-vote-bank-politics/108-277885) · `en`
+
+Feb 28, (Daily Mirror)  - Minister of Foreign Affairs, Ali Sabry urged the members of the UN Human Rights Council not to allow short-term political gains or “domestic vote bank politics” to overtake the work of the Council, when addressing the High-Level segment of the 55th Session of the Council through a pre-recorded video statement on 27 February 2024.
+
+Minister Sabry highlighted that despite the severe constraints faced by the country, Sri Lanka continued to engage actively and constructively with an extensive array of helpful working methods of the Council, that are productive and beneficial to the people.
+
+The Foreign Minister reiterated Sri Lanka's rejection of the HRC resolutions 46/1 and 51/1 and the external evidence gathering mechanism established by these resolutions, while emphasizing that such mechanisms are counterproductive and unhelpful and contradict the founding principles of the Council.
+
+...
+
+[Data](articles/67aa473e.json)
+
+[Extended Data](ext_articles/67aa473e.ext.json)
+
+---
+
 ### Resolutions on Sri Lanka - Sri Lanka rejected the mechanism for collecting evidence
 
 *2024-02-28 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177488) · `ta`
@@ -141,6 +213,26 @@ Alizabri said the United Nations Human Rights Council's attitude towards the cri
 [Data](articles/5e2c28e6.json)
 
 [Extended Data](ext_articles/5e2c28e6.ext.json)
+
+---
+
+### Strenuous outdoor activities in schools suspended
+
+*2024-02-28 12:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Strenuous-outdoor-activities-in-schools-suspended/108-277883) · `en`
+
+Colombo, Feb 28 (Daily Mirror) -  In response to soaring atmospheric temperatures, the Education Ministry has issued a directive to all school authorities urging them to suspend strenuous outdoor activities for students till Friday (March 01).
+
+In accordance with the directive, schools are instructed to refrain from conducting any sports events, practices or other outdoor activities during this period to ensure the well-being and safety of students.
+
+The Ministry emphasized that provincial and zonal education authorities have been tasked with briefing school principals on the directive, underscoring the importance of complying with the guidelines provided by both the Health Ministry and the Education Ministry.
+
+This precautionary measure comes as temperatures continue to rise, posing potential risks to students engaging in strenuous outdoor activities.
+
+...
+
+[Data](articles/1a926b15.json)
+
+[Extended Data](ext_articles/1a926b15.ext.json)
 
 ---
 
@@ -1955,99 +2047,5 @@ Several issues faced by cricketers such as coaching structures, innovative train
 [Data](articles/c602444a.json)
 
 [Extended Data](ext_articles/c602444a.ext.json)
-
----
-
-### Ronnie de Mel has passed away
-
-*2024-02-27 21:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொனி-டி-மெல்-காலமானார்/175-333903) · `ta`
-
-Ronnie de Mel, a revolutionary and a former finance minister and a former finance minister in the Sri Lankan political arena, passed away today (27) at a private hospital in Colombo.
-
-Ronnie de Mel was also a pioneer in introducing Sri Lanka's free trade economy.
-
-◼️
-
-[Data](articles/5030f77a.json)
-
-[Extended Data](ext_articles/5030f77a.ext.json)
-
----
-
-### Government resolution to prepare state financial management bill
-
-*2024-02-27 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177454) · `ta`
-
-At the Cabinet meeting held on 2023.05.2012 to prepare a new financial order law and to enroll the Financial Order Act for the proposed state financial management law.
-
-Accordingly, a fundamental bill has been prepared under the Advice and Policy Guidelines of the Monitoring Committee appointed under the leadership of the Department of Treasury and Deputy Treasury Secretaries by the State Finance Department of the Ministry of Finance, Economic Stability and National Policies.
-
-The Cabinet has submitted the proposal to the President of the Finance, Economic Economics and National Policies to appoint a special committee to prepare a special committee to prepare a financial committee to prepare a fundraiser for the proposed bill to be prepared by the Bill.
-
-◼️
-
-[Data](articles/755a0919.json)
-
-[Extended Data](ext_articles/755a0919.ext.json)
-
----
-
-### Amendment to Parate Law expected in future parliament session - Wijeyadasa
-
-*2024-02-27 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97576/amendment-to-parate-law-expected-in-future-parliament-session-wijeyadasa) · `en`
-
-Dr. Wijeyadasa Rajapakshe, the Minister of Justice, Prisons Affairs and Constitutional Reforms on Tuesday (Feb.27) disclosed plans to introduce an amendment concerning the temporary suspension of Parate execution, indicating its imminent presentation to Parliament.
-
-This proposed legislative change signifies a proactive approach towards addressing legal matters crucial for the country’s governance and justice system, he added.
-
-Furthermore, Minister Rajapakshe highlighted the anticipation of implementing a distinct loan scheme tailored specifically for Small and Midsize Enterprises (SMEs). This initiative aims to bolster the economic prospects of smaller businesses, contributing to overall economic resilience and growth.
-
-...
-
-[Data](articles/909d7897.json)
-
-[Extended Data](ext_articles/909d7897.ext.json)
-
----
-
-### Legality of no faith motion against speaker questionable: Minister
-
-*2024-02-27 21:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legality-of-no-faith-motion-against-speaker-questionable-Minister/108-277830) · `en`
-
-Colombo, Feb. 27 (Daily Mirror)- The legality of the no confidence motion which is being brought against Speaker Mahinda Yapa Abeywardene is questionable, Minister of Justice Wijeyadasa Rajapakshe said today.
-
-“The opposition claims that the Speaker got the Online Safety Bill enacted violating the constitution. It is not the Speaker who enacts a Bill. It is done by the MPs in Parliament. Speaker is not even allowed to participate in parliamentary debates. Also the Supreme Courts never force the legislature to amend any Bill. It only looks into whether a Bill violates any section of the constitution or not. How can one accuse the Speaker of violating the constitution in such a scenario? Therefore the legality of the no faith motion that is being brought against the Speaker is questionable,” the Minister said.
-
-“Ruling party MPs will decide on their stance on the no faith motion on the basis of its legality,” he added.
-
-...
-
-[Data](articles/d507f261.json)
-
-[Extended Data](ext_articles/d507f261.ext.json)
-
----
-
-### Owners for IGP
-
-*2024-02-27 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193891) · `si`
-
-Senior DIG TNA Senior DIG Tennakoon, including the Cardinal Tennakoon, has considered the Cardinal and the Cardinal.
-
-President's Counsel Manhara de Silva said that a motion has been filed as the monk to intervene in the petitions.
-
-The monsoon of the University of Ruhuna, Ven. Family Schools, Sanskrit and Orienta, Kelaniya, the University of the University of Kelaniya, has been filed by Hon.Prof. Ven
-
-Additional Solicitor General Nerin Tennakoon, who appeared on behalf of the Attorney General, pointed out that this petition is not legal to continue the petition.
-
-Romesh de Silva, who appeared for the respondents, Deshabandu Tennakoon, was also present.
-
-"Lord, the President has appointed my client as the IGP on the recommendations of the Constitutional Council. In the face of the situation, these petitions cannot be maintained. If there is any problem in his appointment, another case must be filed. "
-
-...
-
-[Data](articles/d683dd3e.json)
-
-[Extended Data](ext_articles/d683dd3e.ext.json)
 
 ---

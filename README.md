@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 15:51:47**
+As of **2024-02-28 16:03:33**
 
 ## Newspaper Stats
 
-*Scraped **9,806** Articles*
+*Scraped **9,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 503
 dailyftlk | 519
 islandlk | 521
 adalk | 830
-adaderanalk | 1,180
+adaderanalk | 1,181
 tamilmirrorlk | 1,192
 virakesarilk | 1,350
 dailymirrorlk | 1,483
@@ -26,43 +26,67 @@ adaderanasinhalalk | 1,484
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,798 (99.9%) of 9,806 articles have been extended.
+9,807 (100.0%) of 9,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### ශ්‍රී ලංකා නිදහස් පක්ෂය තීරණයක් ගනී
+### SLFP to support no-confidence motion against the Speaker
+
+*2024-02-28 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97594/slfp-to-support-no-confidence-motion-against-the-speaker-) · `en`
+
+The Sri Lanka Freedom Party (SLFP) has announced its endorsement of the no-confidence motion to be brought against the Speaker of Parliament Mahinda Yapa Abeywardena.
+
+Accordingly, the SLFP announced that it will support the motion being brought against the Speaker by the opposition, and will vote in favour of it.
+
+On Monday (26 Feb.), several Opposition members, led by Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa, signed a motion of no confidence against the Speaker, claiming that he had violated the Constitution.
+
+As such, a group of MPs belonging to the opposition in Parliament including M. A. Sumanthiran, Lakshman Kiriella, Prof. G. L. Pieris, Tissa Attanayake, Chandima Weerakkody and Shan Wijayalal de Silva, had inked the motion for approving the much-disputed Online Safety Bill amidst ‘irregular procedures’.
+
+...
+
+[Data](articles/bfa95d15.json)
+
+[Extended Data](ext_articles/bfa95d15.ext.json)
+
+---
+
+### Sri Lanka Freedom Party decides
 
 *2024-02-28 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193915) · `si`
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහිව විපක්ෂය ගෙනඒමට නියමිත විශ්වාසභංග යෝජනාවට සහාය පළ කිරීමට ශ්‍රී ලංකා නිදහස් පක්ෂය තීරණය කර ඇත.
+The Sri Lanka Freedom Party (SLFP) has decided to support the no-confidence motion to bring the opposition proposal against Speaker Mahinda Yapa Abeywardena.
 
-විපක්ෂය කථානායකවරයාට චෝදනා කරන්නේ ශ්‍රේෂ්ඨාධිකරණයේ නිර්දේශ සැලකිල්ලට නොගනිමින් සමාජ මාධ්‍ය නියාමන පනත සම්මත කරගැනීමට කටයුතු කර ඇති බවය.
+The opposition alleges the Speaker that the Supreme Court has not taken measures to pass the Social Media Regulatory Act without regarding the recommendations of the Supreme Court.
 
-ඒ අනුව ශ්‍රී ලංකා පාර්ලිමේන්තුවේ කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාවට ශ්‍රී ලංකා නිදහස් පක්ෂය සහයෝගය දක්වමින් පක්ෂව ඡන්දය ප්‍රකාශ කිරීමට තීරණය කර ඇති බව ශ්‍රී ලංකා නිදහස් පක්ෂය නිවේදනය කරයි.
+Accordingly, the Sri Lanka Freedom Party (SLFP) has decided to vote for the no-confidence motion against the Speaker of the Sri Lanka Parliament.
 
 ◼️
 
 [Data](articles/fc22ddd0.json)
 
+[Extended Data](ext_articles/fc22ddd0.ext.json)
+
 ---
 
-### காட்டுக்கு தீ வைப்பு
+### The fireplace of the forest
 
 *2024-02-28 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177511) · `ta`
 
-ஹட்டன் மற்றும் கொட்டலை பகுதியில் பொது மக்கள் குடிநீர் பெற்றுக்கொள்ளும் வனப்பகுதிக்கு இனந்தெரியாதவர்களால் வைக்கப்பட்ட தீ காரணமாக பல ஏக்கர் காட்டுப்பகுதி எரிந்து நாசமாகியுள்ளதுடன் நீர் ஊற்றுக்கள் அற்றுப்போய் குடிநீர் தட்டுப்பாடு ஏற்படும் அபாயம் ஏற்பட்டுள்ளதாக பொது மக்கள் விசனம் தெரிவிக்கின்றனர்.
+In the Hatton and Kottalai area, the public has been destroyed by many acres of fire in the wilderness where the people are drinking water, and the public is concerned that there is a risk of drinking water shortage.
 
-ஹட்டன் பொலிஸ் பிரிவுக்குட்பட்ட பன்மூர் தோட்ட பகுதிக்கு குடிநீர் பெற்றுக்கொள்ளும் ஹட்டன் கொழும்பு பிரதான வீதிக்கு அண்மையில் உள்ள நீர்காப்பு காட்டுப்பகுதிக்கு நேற்று  (27)  வைக்கப்பட்ட தீ காரணமாக பல ஏக்கர் எரிந்து நாசமாகியுள்ளன.
+A fire has been destroyed due to a fire that has been set up yesterday (27) to the Hatton Colombo main road, which is being drinking water to the Panmur estate, which belongs to the Hatton Police Division.
 
-இதனால் ஹட்டன் மல்லிகைப்பூ தோட்டப்பகுதியில் வாழும் மக்களுக்கு குடிநீர் தட்டுப்பாடு ஏற்படலாம் பிரதேசவாசிகள் தெரிவிக்கின்றனர்.
+Residents of the Hatton Mallikapu plantation can cause a shortage of drinking water for people living in the plantation.
 
-குறித்த தீ வைப்பு காணிகளை துப்பறவு செய்வதற்காகவும் காணிகளை ஆக்கிரமிப்பதற்காகவும் விலங்குகளை வேட்டையாடுவதற்காக வைக்கப்படுவதாக பொது மக்கள் தெரிவிக்கின்றனர்.
+The public is said to be placed to hunt animals to deduct the land and occupy the land.
 
 ◼️
 
 [Data](articles/5601c642.json)
+
+[Extended Data](ext_articles/5601c642.ext.json)
 
 ---
 
@@ -88,45 +112,51 @@ Freedom presented its program to the People's Council
 
 ---
 
-### செங்கடலிற்கு இலங்கை கடற்படை கப்பலை அனுப்பியது - பாத்பைன்டர் மாநாட்டில் அமெரிக்க தூதுவர்
+### Sri Lankan navy ship sent to Red Sea - US Ambassador at Batfire Conference
 
 *2024-02-28 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177513) · `ta`
 
-செங்கடலிற்கு இலங்கை தனது கடற்படை கப்பலொன்றை அனுப்பியதை இலங்கைக்கான அமெரிக்க தூதுவர் உறுதிசெய்துள்ளார்.
+The US Ambassador to Sri Lanka has confirmed that Sri Lanka has sent a naval ship to the Red Sea.
 
-செங்கடலில் முன்னெடுக்கப்படும் புரொஸ்பெரிட்டி கார்டியன் நடவடிக்கைக்கு ஆதரவளிப்பதற்காக இலங்கை தனது கடற்படை கப்பலை அனுப்பியது என ஜூலி சங் தெரிவித்துள்ளார்.
+Julie Sung said that Sri Lanka sent her naval ship to support the Prosperity Guardian action carried out in the Red Sea.
 
-பாத்பைன்டர் அமைப்பின் இந்துசமுத்திர பாதுகாப்பு குறித்த மாநாட்டில் உரையாற்றுகையில் அவர் இதனை தெரிவித்துள்ளார்.
+He was speaking at a conference on the Hindu Security Conference of the Batfire.
 
-அமெரிக்கா வழங்கிய கடற்படை கப்பலை செங்கடலிற்கு இலங்கை அனுப்பியதை சுட்டிக்காட்டிய  அமெரிக்க தூதுவர் உலகலாவிய சவால்களை எதிர்கொள்வதில் இலங்கையின் செயல்ஊக்கமான நடவடிக்கைகளை பாராட்டியுள்ளார்.
+Pointing out that Sri Lanka sent the US naval vessel to the Red Sea, the US Ambassador praised Sri Lanka's performance in facing global challenges.
 
-செங்கடல் ஏடன் வளைகுடா அராபிய கடல் போன்ற பகுதிகளில் சரக்குகப்பல்கள் ஹெளத்திகிளர்ச்சியாளர்களால் தாக்கப்படும் ஆபத்துள்ள நிலையில் சரக்குகப்பல்களை பாதுகாப்பதற்காக இலங்கை சர்வதேச கூட்டணியில் இணைந்துகொண்டது என ஜூலிசங் தெரிவித்துள்ளார்.
+Julisung said Sri Lanka has joined the International Alliance to protect the freight ships in areas such as the Gulf of the Red Sea, such as the Gulf of Arabian Sea.
 
-இலங்கை தனது கடற்பகுதியை பாதுகாக்ககூடிய திறனை மேலும் அதிகரித்துக்கொள்வது குறித்து அமெரிக்கா அர்ப்பணிப்புடன் உள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+He added that the US is dedicated to further increasing its ability to protect Sri Lanka.
 
 ◼️
 
 [Data](articles/4a820ea8.json)
 
+[Extended Data](ext_articles/4a820ea8.ext.json)
+
 ---
 
-### மின்சாரம் தாக்கி குடும்பஸ்தர் பலி!
+### Electricity strikes
 
 *2024-02-28 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177510) · `ta`
 
-அக்கரப்பத்தனை பொலிஸ் பிரிவுக்குட்பட்ட ஹன்போல்ட் பிரிவு கிலனிகல்ஸ் தோட்டத்தில் மின்சாரம் தாக்கி குடும்பஸ்தர் ஒருவர் இன்று புதன்கிழமை (28) அதிகாலை உயிரிழந்துள்ளார்.
+A family member has died this morning (28) this morning after a power supply at the Hunbold Division Gilnicels estate belonging to the Akkaraipattana police division.
 
-இவ்வாறு உயிரிழந்தவர் காலனிகளில் தோட்டத்தை சேர்ந்த மதுரைவீரன் நாகராஜ் (வயது 56) என அடையாளம் காணப்பட்டுள்ளதாக அக்கரப்பத்தனை பொலிஸ் நிலைய குற்றத்தடுப்பு பொலிஸார் தெரிவித்தனர்.
+The deceased has been identified as Madurai Veeran Nagaraj (56 years old) from the estate in the colonies.
 
-தேயிலை தோட்டத்துடன் இணைந்த விவசாயம்  செய்து வந்த குறித்த நபர் காட்டு மிருகங்கள் வருவதை தடுக்க சட்ட விரோதமாக பாய்ச்சப்பட்டுள்ள மின்சாரத்தில் சிக்கி உயிரிழந்துள்ளதாக ஆரம்பக்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+Preliminary inquiries have revealed that a man who had been involved in the tea estate had died of illegal electricity to prevent wild beasts.
 
-அதேநேரத்தில் சம்பவத்தில் உயிரிழந்த குடும்பஸ்தரின் பக்கத்து வீட்டு காரர் பராமரித்து வரும் விவசாய காணிக்கு சட்ட விரோதமாக மின்சாரம் பாய்ச்சியுள்ளதாக கண்டறியப்பட்டுள்ளது.
+At the same time, it has been found that the illegal land maintained by the neighbor of the family who died in the incident has been found illegal.
 
-மேலும், மின்சாரம் தாக்கி உயிரிழந்த நபர் அதிகாலையில் குறித்த காணியின் பகுதிக்கு ஏன், எதற்காக சென்றார் என்பது தொடர்பில் விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+In addition, police are conducting investigations into why and why they went to the area of the land in the early hours of the morning.
 
-...
+At the same time, the body of the deceased person has been placed to the Nuwara Eliya District General Hospital for an autopsy after the magistrate visited the scene and visited the scene.
+
+◼️
 
 [Data](articles/8756b93b.json)
+
+[Extended Data](ext_articles/8756b93b.ext.json)
 
 ---
 
@@ -150,21 +180,23 @@ The shop owner and the three-wheeler owner handed over the dislodged wheel to th
 
 ---
 
-### ஜனாதிபதித் தேர்தலில் ரணிலுக்கு ஆதரவளிக்காமல் இருக்க மொட்டுக் கட்சிக்கு உரிமையில்லை - பிரசன்ன ரணதுங்க
+### The party has no right to support Ranil in the presidential election - Prasanna Ranatunga
 
 *2024-02-28 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/177509) · `ta`
 
-அடுத்த ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்காமல் இருக்க பொஹொட்டுவவுக்கு உரிமை இல்லை என தனிப்பட்ட முறையில் தாம் நம்புவதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Minister of Urban Development and Housing Prasanna Ranatunga says he personally believes that Ranil Wickremesinghe has no right to support Ranil Wickremesinghe in the next presidential election.
 
-அடுத்த ஜனாதிபதித் தேர்தலில் பொஹொட்டுவவிற்கு மாற்று வேட்பாளர் இல்லை என்றால் திரு.ரணில் விக்கிரமசிங்கவை ஆதரிப்பதே சிறந்தது என அவர் வலியுறுத்தினார்.
+He stressed that it is best to support Mr. Ranil Wickremesinghe if there is no alternative candidate for Bohotwa in the next presidential election.
 
-பொஹொட்டுவவிற்கு வேறு மாற்று வேட்பாளர் இருப்பதாக தாம் அறியவில்லை எனவும் அமைச்சர் கூறினார்.
+The Minister said that he did not know that Bohotuwa had a different candidate.
 
-காலி மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் கலந்து கொண்டதன் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார். காலி மாவட்ட ஒருங்கிணைப்புக் குழு இன்று (28) காலி கோட்டையில் உள்ள N`hy; டி கோல்  மண்டபத்தில்  நடைபெற்றது.
+Responding to questions raised by journalists after attending the Galle District Coordinating Committee meeting, the Minister said this.. Galle District Coordinating Committee today (28) N`HY at Galle Fort;T was held in the Cole Hall.
 
 ...
 
 [Data](articles/d9b9bbe3.json)
+
+[Extended Data](ext_articles/d9b9bbe3.ext.json)
 
 ---
 
@@ -242,17 +274,23 @@ Dinal’s family say they believe a girl may have taken the images with Dinal be
 
 ---
 
-### ஊழியர்களின் போராட்டம் காரணமாக தென்கிழக்கு பல்கலைக்கழகத்தின் நடவடிக்கைகள் ஸ்தம்பிதம்!
+### Southeastern University's actions are due to the struggle of the employees!
 
 *2024-02-28 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177508) · `ta`
 
-நாடளாவிய ரீதியில் பல்கலைக்கழக தொழிற்சங்கங்களின் சம்மேளனம், முன்னெடுத்துள்ள தொடர்ச்சியான இரு நாட்கள் கொண்ட அடையாள வேலை நிறுத்தத்தின் எதிரொலியாக இன்று புதன்கிழமை (28) தென்கிழக்கு பல்கலைக்கழக ஊழியர்கள் முன்னெடுத்துள்ள போராட்டம் காரணமாக பல்கலைக்கழகத்தின் செயற்பாடுகள்  ஸ்தம்பித நிலையை அடைந்துள்ளன.
+The university's activities have been in a state of disrepair due to the struggle of the Southeastern University staff on Wednesday (28) as a result of the two -day -long identity strike launched by the University Trade Unions across the country.
 
-நிறைவேற்று உத்தியோகத்தகள் சங்கத்தின் தலைவர் எம்.எச். நபார் மற்றும் கல்விசார ஊழியர்கள் சங்கத்தின் தலைவர் எம்.ரி.எம். தாஜுடீன் ஆகியோரது இணைந்த தலைமையில் இடம்பெற்ற குறித்த அடையாள வேலை நிறுத்த போராட்டத்தில் பெரும் அளவான ஊழியர்கள் பங்கு கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+President of the Executive Officer Association MH. President of Nabar and Educational Employees Union. It is noteworthy that a large number of employees participated in the symbolic strike, led by Tajuddin.
 
-...
+Due to the struggle, the 12th International Seminar, which is scheduled to take place on the 29th, has been postponed to the next day.. Southeastern University Employees Union Secretary MM. In the fight under the guidance of Mohammed Kamil, slogans were raised demanding the government's solution to various demands, such as providing a 107 percent salary increase and 25 per cent of the promised MCA allowance.
+
+Here strength, equality is the need for M, the government will be blindfolded, will the 8 -year disappointment continue?
+
+◼️
 
 [Data](articles/127d97a0.json)
+
+[Extended Data](ext_articles/127d97a0.ext.json)
 
 ---
 
@@ -276,17 +314,19 @@ Georgieva told Reuters she hoped to make progress on the issue when the roundtab
 
 ---
 
-### மட்டக்களப்பில் கிழக்குப் பல்கலைக்கழக ஊழியர்கள் சம்பள அதிகரிப்பு கோரி ஆர்ப்பாட்டம்
+### Demonstration demanding salary increase in Eastern University staff in Batticaloa
 
 *2024-02-28 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177505) · `ta`
 
-கிழக்கு பல்கலைக்கழக ஊழியர்களின் சம்பளப் பிரச்சினை மற்றும் ஊழியர்களுக்கு நீண்ட நாட்களாக தீர்க்கப்படாதுள்ள கோரிக்கைகளுக்கு தீர்வு கோரி இன்று  புதன்கிழமை (28) மட்டக்களப்பு அரசடியிலுள்ள கிழக்குப் பல்கலைக்கழக வெளிவாரி கற்கைகள்  நிலைய முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+Eastern University staff staged a protest in front of the Eastern University External Studies Center in Batticaloa on Wednesday (28) demanding a solution to the demands of the Eastern University staff and the long -standing demands for employees.
 
-அனைத்துப் பல்கலைக்கழக தொழிற்சங்க கூட்டமைப்பின் தீர்மானத்திற்கு  இணங்க நாட்டில் உள்ள அரச பல்கலைக்கழகங்களில் நாடளாவிய ரீதியில் முன்னெடுக்கப்படும் 28, 29 ஆகிய இருநாள் தொழிற்சங்க நடவடிக்கைகளுக்கு அமைவாக கிழக்குப் பல்கலைக்கழக ஊழியர் சங்கம் மற்றும் கிழக்குப் பல்கலைக்கழக நிருவாக உத்தியோகத்தர்கள் சங்கம் இணைந்து  மட்டக்களப்பில் வெளிவாரி கற்கைகள்  நிலையம் முன்பாக நூற்றுக்கு மேற்பட்ட கிழக்குப் பல்கலைக்கழக ஊழியர்கள் இன்றைய தினம் காலை ஒன்றினைந்தனர்.
+More than one hundred Eastern University staff held this morning in front of the Eastern University Employees Union and Eastern University Administrative Officers Association in Batticaloa in accordance with the 28 and 29 -day trade union activities in the country's state universities in accordance with the decision of the All University Trade Union Federation.
 
 ...
 
 [Data](articles/21c2d0cd.json)
+
+[Extended Data](ext_articles/21c2d0cd.ext.json)
 
 ---
 
@@ -352,15 +392,17 @@ The Maha Sangha, including the Maha Sangha, and ambassadors were present at the 
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-02-28 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177500) · `ta`
 
-இன்று புதன்கிழமை (பெப்ரவரி 28) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 305.5624 ஆகவும் விற்பனை விலை ரூபா 315.2986 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US $ 305.5624 and the sales price were 315.2986 based on the Central Bank's currency exchange rate on Wednesday (February 28).
 
 ◼️
 
 [Data](articles/24fcfeaf.json)
+
+[Extended Data](ext_articles/24fcfeaf.ext.json)
 
 ---
 
@@ -2027,27 +2069,5 @@ Addressing a press conference in Colombo, Peiris said while the President can on
 [Data](articles/af917c1c.json)
 
 [Extended Data](ext_articles/af917c1c.ext.json)
-
----
-
-### More opposition parties to support NCM against Speaker
-
-*2024-02-28 02:57:44* · [`dailyftlk`](https://www.ft.lk/news/More-opposition-parties-to-support-NCM-against-Speaker/56-758921) · `en`
-
-More political parties in the opposition have expressed their support for the no-confidence motion brought forward by the Samagi Jana Balawegaya (SJB) against Speaker Mahinda Yapa Abeywardena.
-
-Accordingly, the National People’s Power (NPP) party, Supreme Lanka Coalition (SLC) and Freedom People’s Congress (FPC) yesterday expressed their support for the no-confidence motion.
-
-MP Udaya Gammanpila confirmed the SLC’s support for the move, while MP Dullas Alahapperuma, the party leader, announced the FPC’s decision.
-
-NPP MP Harini Amarasuriya informed the media yesterday that their party has decided to support the motion as well.
-
-Meanwhile, Tamil National Alliance (TNA) leader Sivagnanam Shritharan said that while the TNA is yet to announce their decision, the party will convene to deliberate on the matter soon.
-
-...
-
-[Data](articles/86073f58.json)
-
-[Extended Data](ext_articles/86073f58.ext.json)
 
 ---

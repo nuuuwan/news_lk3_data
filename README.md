@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 18:50:33**
+As of **2024-02-28 19:02:49**
 
 ## Newspaper Stats
 
-*Scraped **9,830** Articles*
+*Scraped **9,834** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 96
-bbccomsinhala | 119
+bbccomsinhala | 120
 dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 503
 dailyftlk | 519
 islandlk | 521
-adalk | 832
-adaderanalk | 1,185
+adalk | 834
+adaderanalk | 1,186
 tamilmirrorlk | 1,197
 virakesarilk | 1,353
 dailymirrorlk | 1,485
@@ -26,11 +26,43 @@ adaderanasinhalalk | 1,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,830 (100.0%) of 9,830 articles have been extended.
+9,830 (100.0%) of 9,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Protesters block railway track after fatal train accident in Chilaw
+
+*2024-02-28 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97600/protesters-block-railway-track-after-fatal-train-accident-in-chilaw) · `en`
+
+A person was reportedly killed after being knocked down by a train plying from Colombo Fort to Chilaw.
+
+In response to the incident, area residents had blocked the railway track in protest, halting the train in Pulichchakulam, between Puttalam and Chilaw, on its way back to Colombo, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/2e539860.json)
+
+---
+
+### පැතුම්ට බංග්ලාදේශ විස්සයි20 තරගාවලිය අහිමි වෙයි
+
+*2024-02-28 18:24:15* · [`adalk`](https://www.ada.lk/sports/පැතුම්ට-බංග්ලාදේශ-විස්සයි20-තරගාවලිය-අහිමි-වෙයි/9-408331) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම හා බංග්ලාදේශ කණ්ඩායම අතර බංග්ලාදේශයේදී පැවැත්වීමට නියමිත විස්සයි20 තරගාවලිය සඳහා ශ්‍රී ලංකා සංචිතය නම් කර තිබේ. මෙහිදී ඇෆ්ගනිස්ථානය සමගින් පැවැති විස්සයි20 තරගාවලියේ තෙවැනි තරගයේදී ආබාධයකට ලක්වූ පැතුම් නිශ්ශංකට කණ්ඩායමේ ස්ථානය අහිමී ඇති අතර ඔහු වෙනුවට අවිශ්ක ප්‍රනාන්දු කණ්ඩායමට කැඳවා තිබේ.
+
+ජෙෆ්රි වැන්ඩසේ නැවතත් කණ්ඩායමට කැඳවා ඇති අතර ආබාධයකින් අනතුරුව සුවය ලබා සිටින ඩිල්ෂාන් මධුශංකද කණ්ඩායමට කැඳවා තිබෙ.
+
+කණ්ඩායමේ නායකයා ලෙස වනිඳු හසරංග කටයුතු කරන නමුත් ඔහුට පළමු තරග දෙක ක්‍රීඩා කිරීමේ අවස්ථාව අහිමි වෙයි. ඒ ඔහුට එරෙහිව තරග දෙකක තහනමක් පනවා ඇති හෙයිනි.
+
+1.වනිඳු හසරංග - නායක, 2.චරිත් අසලංක -උප නායක, 3. කුසල් මෙන්ඩිස්, 4. සධීර සමරවික්‍රම, 5. ඇන්ජලෝ මැතිව්ස්, 6. දසුන් ශානක,7. මහීෂ් තීක්ෂණ, 8. ධනංජය ද සිල්වා, 09. කුසල් ජනිත් පෙරේරා, 10. ඩිල්ෂාන් මධුශංක, 11. නුවන් තුෂාර, 12.මතීෂ පතිරණ, 13.අකිල ධනංජය, 14.බිනුර ප්‍රනාන්දු, 15.කමිඳු මෙන්ඩිස්, 16. අවිශ්ක ප්‍රනාන්දු – (පැතුම් නිශ්ශංක වෙනුවට), 17. ජෙෆ්රි වැන්ඩර්සේ
+
+◼️
+
+[Data](articles/4cca6a31.json)
+
+---
 
 ### President stresses significant responsibilities entrusted with country’s religious leaders
 
@@ -287,6 +319,18 @@ The festival, organized by the Department of Journalism, Media and Communication
 [Data](articles/5fe189f4.json)
 
 [Extended Data](ext_articles/5fe189f4.ext.json)
+
+---
+
+### පොලිස් පරීක්ෂක දුමින්ද ජයතිලක රට හැර යාම පොලිස් මාධ්‍ය ප්‍රකාශකගේ පැහැදිලි කිරීම
+
+*2024-02-28 16:41:23* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-පරීක්ෂක-දුමින්ද-ජයතිලක-රට-හැර-යාම-පොලිස්-මාධ්‍ය-ප්‍රකාශකගේ-පැහැදිලි-කිරීම/11-408329) · `si`
+
+පාතාල කල්ලි සාමාජිකයන්ගෙන් තමාට සහ සිය පවුලට එල්ල වූ මරණ තර්ජන හමුවේ කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා රටින් පිටවීම සම්බන්ධව මාධ්‍ය හමුවකදී මේ සම්බන්ධව  පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි නිහල් තල්දුව මහතා පවසන්නේ මේ සම්බන්ධව නිසි පරීක්ෂණ ආරම්භ කර ඇති බවත් එම තර්ජනය කර දුන් ඇමතුම් සම්බන්ධ පරීක්ෂන කර ඉදිරි ක්‍රියාමාර්ග ගන්නා බවයි. ඔහු පවසන පරිදි අපරාධ කොට්ඨාස අධ්‍යක්‍ෂවරයා වාර්තා කර තිබෙන්නේ මෙම සිදුවීම නිර්මාණාත්මක හෝ සැලසුම් සහගත දෙයක්ද යන්න තහවුරු කිරීමට අවශ්‍ය කටයුතු කරන බවත් මේ සම්බන්ධ පරීක්ෂණ පවත්වන නිලධාරීන් පවසන්නේ බොහෝ වෙලාවට මෙම නිලධාරියා (පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා) අතිශෝක්තියෙන් ඉදිරිපත් කරන ප්‍රකාශයක්ද සැක කරන බවයි.
+
+◼️
+
+[Data](articles/5c3190f3.json)
 
 ---
 
@@ -1134,6 +1178,28 @@ Thus, the companies noted that the committee’s decision to reject their applic
 
 ---
 
+### කටුනායක ගුවන් තොටුපොළ: මගීන්ට හිසරදයක් වූ ශ්‍රී ලංකාවට පිවිසෙන රන් දොරටුව
+
+*2024-02-28 12:31:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2lgn8yd45o) · `si`
+
+කටුනායක ගුවන් තොටුපොළ: මගීන්ට හිසරදයක් වූ ශ්‍රී ලංකාවට පිවිසෙන රන් දොරටුව
+
+ශ්‍රී ලංකාවට පිවිසෙන රන් දොරටුව ලෙස හදුන්වන කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ සේවක විරෝධතා, වර්ජන සහ ගුවන් ගමන් ප්‍රමාද වීම් සහ අවලංගු වීම් නිසා ගුවන් මගීන්ගේ විරෝධතා බහුල  ස්ථානයක් බවට පත් වී තිබේ.
+
+සීමාසහිත ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගමේ සභාපති ඉංජිනේරු අතුල ගල්කැටිය (පෙබරවාරි 27 වැනිදා) විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් පවසා සිටියේ ශ්‍රී ලන්කන් ගුවන් සේවයේ ගුවන් යානා අවලංගු වීම් සහ ප්‍රමාද වීම් නිසා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙන ගුවන් මගීන්ට සිදු වන අපහසුතා පිළිබඳ තමන් අතිශයින් කනගාටුවට වන බව ය.
+
+SriLankan Airlines: ‘ශ්‍රී ලංකාවට ආදරෙයි.නමුත් ගුවන් සේවය ඒ අත්දැකීම විනාශ කළා’
+
+ශ්‍රී ලන්කන් ගුවන් යානා ප්‍රමාද වීම් සහ අවලංගු වීම් නිසා පසුගිය මාස කීපය තුළම ගුවන් තොටුපොළ තුළ විදේශීය සංචාරකයන් මහත් කළබැගෑනි සිදු කර තිබුණි.
+
+එහෙත් ශ්‍රී ලන්කන් ගුවන් සේවයේ මෙම ගැටළු නොදුරු දිනකදී නිවැරැදි වේ යැයි උපකල්පනය කිරීම අපහසු වී තිබේ.
+
+...
+
+[Data](articles/ef5df32a.json)
+
+---
+
 ### Emergency Notification issued by the Ministry of Education
 
 *2024-02-28 12:11:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சு-விடுத்துள்ள-அவசர-அறிவித்தல்/175-333933) · `ta`
@@ -1975,91 +2041,5 @@ This suspect has also been accused of shooting a person in Wellampitiya, Kittamp
 [Data](articles/9843a772.json)
 
 [Extended Data](ext_articles/9843a772.ext.json)
-
----
-
-### “Strict blow to the bakery business”
-
-*2024-02-28 08:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கரி-தொழிலுக்கு-கடுமையான-அடி/175-333923) · `ta`
-
-The All Ceylon Bakery Owners Association (ACBOA) said that sales of cake and palms in the local market have declined by about 50% due to high production costs.
-
-The prices of Major and butter have increased to Rs. 1,000 and the price of a kilogram will be 3,000 respectively.
-
-"The eggs imported from India have not yet come to us. We have to buy locally produced eggs for 60 rupees each. This is a serious blow to the bakery industry, ”the association president said.
-
-Therefore, the Bakery Owners Association has called on the government to reduce the prices of goods required for bakery manufacturers ahead of the upcoming Sinhala and Hindu New Year.
-
-◼️
-
-[Data](articles/90e7e661.json)
-
-[Extended Data](ext_articles/90e7e661.ext.json)
-
----
-
-### A man dies after falling into a building
-
-*2024-02-28 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193899) · `si`
-
-The wall has collapsed on the body of two employees who have been demolished near the Maharagama Police Division.
-
-The police said that the two employees have been admitted to the Kalubowila hospital with the bruise.
-
-◼️
-
-[Data](articles/2e0496b7.json)
-
-[Extended Data](ext_articles/2e0496b7.ext.json)
-
----
-
-### Sri Lanka planning bad-debt authority for parate execution nod: Justice Minister
-
-*2024-02-28 08:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-planning-regulatory-authority-to-give-parate-execution-approval-justice-minister-152330/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning to to set up an intermediate regulatory authority to determine whether or not a collateral of defaulted should be auctioned under parate execution powers, Justice Minister Wijedasa Rajapsaksa has said.
-
-Under so-called parate execution powers, the Board of a bank decides to auctions assets of defaulted loans, usually after other methods of recovering loans fail.
-
-“We believe that there should be an intermediate regulatory authority,” Minister Rajapaksa said.
-
-“Therefore it is expected to bring an amendment to the parliament relating to this.”
-
-The regulatory authority will give a “certificate” that it was reasonable to sell the pledged assets of a bad loans.
-
-It will be given be examined whether the default was done willfully, or even if the loan could not be repaid, whether it could be restructured and a fresh loan given, and the business allowed to go forward after restructure or reasons like negligence was involved to protect banks.
-
-...
-
-[Data](articles/fbaa4ed6.json)
-
-[Extended Data](ext_articles/fbaa4ed6.ext.json)
-
----
-
-### Thundershowers in some areas
-
-*2024-02-28 08:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-இடியுடன்-கூடிய-மழை-பெய்யும்/175-333922) · `ta`
-
-The Department of Meteorology has predicted from time to time in Nuwara Eliya, Matale and Polonnaruwa.
-
-Heavy rains are expected in the Eastern and Uva provinces and Anuradhapura district.
-
-There is a possibility of rainfall or thunderstorms in some places in the upper and Sabaragamuwa provinces and in some places in Kandy, Galle and Matara districts.
-
-Heavy winds are expected to blow up to 30-40 km / h from time to time in the Eastern Slips of the Central Highlands and the North, North Western, South, Uva and Eastern Provinces.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts.
-
-Showers or thunderstorms are possible in some areas from Trincomalee to Pottuvil via Batticaloa.
-
-In the seas around the country, the wind is blowing from the northeast and the wind is expected to be 25-35 kilometers per hour.
-
-...
-
-[Data](articles/f5460b6c.json)
-
-[Extended Data](ext_articles/f5460b6c.ext.json)
 
 ---

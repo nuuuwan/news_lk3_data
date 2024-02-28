@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 08:33:06**
+As of **2024-02-28 08:50:14**
 
 ## Newspaper Stats
 
-*Scraped **9,720** Articles*
+*Scraped **9,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,90 @@ dailyftlk | 519
 islandlk | 521
 adalk | 820
 adaderanalk | 1,169
-tamilmirrorlk | 1,185
+tamilmirrorlk | 1,188
 virakesarilk | 1,330
 dailymirrorlk | 1,465
-adaderanasinhalalk | 1,468
+adaderanasinhalalk | 1,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,716 (100.0%) of 9,720 articles have been extended.
+9,720 (100.0%) of 9,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### විදුලි ගාස්තු සංශෝධනය ගැන අවසන් තීරණය
+### ”பேக்கரி தொழிலுக்கு கடுமையான அடி”
+
+*2024-02-28 08:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கரி-தொழிலுக்கு-கடுமையான-அடி/175-333923) · `ta`
+
+அதிக உற்பத்திச் செலவுகள் காரணமாக உள்ளூர் சந்தையில் கேக் பாண் மற்றும் பன்களின் விற்பனை சுமார் 50% ஆல் குறைந்துள்ளதாக அகில இலங்கை பேக்கரி உரிமையாளர்கள் சங்கம் (ACBOA) தெரிவித்துள்ளது.
+
+மாஜரின் மற்றும் வெண்ணெய் விலை ரூ.1000 ஆக அதிகரித்துள்ளதுடன்  ஒரு கிலோகிராமின் விலை முறையே 3,000 ஆகவுள்ளதாக அவர்கள் தெரிவித்தனர்.
+
+"இந்தியாவில் இருந்து இறக்குமதி செய்யப்பட்ட முட்டைகள் இன்னும் எங்களுக்கு வரவில்லை, மேலும் உள்நாட்டில் உற்பத்தி செய்யப்படும் முட்டைகளை தலா 60 ரூபாய்க்கு வாங்க வேண்டும். இது பேக்கரி தொழிலுக்கு கடுமையான அடியாகும்" என்று சங்கத் தலைவர் கூறினார்.
+
+எனவே எதிர்வரும் சிங்கள, இந்து புத்தாண்டுக்கு முன்னர் பேக்கரி உற்பத்தியாளர்களுக்கு தேவையான பொருட்களின் விலைகளை குறைத்து சலுகைகளை வழங்குமாறு பேக்கரி உரிமையாளர்கள் சங்கம் அரசாங்கத்திடம் கோரிக்கை விடுக்கின்றது.
+
+◼️
+
+[Data](articles/90e7e661.json)
+
+---
+
+### ගොඩනැගිල්ලක බිත්තියක් කඩා වැටී පුද්ගලයෙක් මරුට
+
+*2024-02-28 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193899) · `si`
+
+මහරගම පොලිස් වසමේ හයිලෙවල් මාර්ගය ආසන්නයේ ගොඩනැගිල්ලක් කඩා ඉවත් කරමින් සිටි සේවකයින් දෙදෙනෙකුගේ ඇඟ මතට එම ගොඩනැගිල්ලේ බිත්තියක් කඩා වැටී තිබේ.
+
+පොලීසිය සඳහන් කළේ, එම බිත්තියට යටවීමෙන් අදාළ සේවකයින් දෙදෙනා තුවලා ලබා කළුබෝවිල රෝහලට ඇතුළත් කර ඇති බවය.
+
+◼️
+
+[Data](articles/2e0496b7.json)
+
+---
+
+### சில பகுதிகளில் இடியுடன் கூடிய மழை பெய்யும்
+
+*2024-02-28 08:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-இடியுடன்-கூடிய-மழை-பெய்யும்/175-333922) · `ta`
+
+நுவரெலியா, மாத்தளை மற்றும் பொலன்னறுவைமாவட்டங்களில் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அனுராதபுரம் மாவட்டத்திலும் பலதடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் கண்டி,காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் கிழக்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, வடமேல், தென், ஊவா மற்றும் கிழக்கு மாகாணங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள்.
+
+...
+
+[Data](articles/f5460b6c.json)
+
+---
+
+### Final decision on electricity tariff revision
 
 *2024-02-28 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193898) · `si`
 
-විදුලි ගාස්තු සංශෝධනය පිළිබඳව මහජන උපයෝගිතා කොමිසමේ නිර්දේශ අද (28) දිනයේ ප්‍රකාශයට පත්කිරීමට නියමිතව තිබේ.
+The Public Utilities Recommendation of the Electricity tariff is scheduled to be announced today (28).
 
-විදුලිබල හා බලශක්ති අමාත්‍යංශය ප්‍රකාශකයෙකු සඳහන් කළේ, නව ගාස්තු සංශෝධනයට අනුව සියයට 18කින් පමණ විදුලි ගාස්තු අඩුවීමක් සිදුවනු ඇති බවය.
+The Ministry of Power and Energy stated that an electricity tariff will be around 18 percent according to the new fare.
 
-විදුලිබල මණ්ඩලය යොමු කළ විදුලි ගාස්තු අඩු කිරීමේ නව යෝජනාව සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා මහජන උපයෝගිතා කොමිෂන් සභාවේ රැස්වීමක් ද අද පැවැත්වැත් වීමට නියමිතව තිබේ.
+The Public Utilities Meeting is scheduled to discuss the new proposal to reduce electricity tariffs.
 
-මේ අතර විදුලිය බිල සියයට 37කින් අඩු කිරීමේ හැකියාව පවතින බව ජතික ජන බලවේගයේ වසන්ත සමරසිංහ මහතා පවසයි.
+Meanwhile, Vasantha Samarasinghe, Vasantha Samarasinghe, says that the electricity bill is reduced by 37 percent, says Wasantha Samarasinghe.
 
 ◼️
 
 [Data](articles/c2fa8e77.json)
+
+[Extended Data](ext_articles/c2fa8e77.ext.json)
 
 ---
 
@@ -84,19 +138,25 @@ The public is kindly requested to take adequate precautions to minimize the dama
 
 ---
 
-### ටෙලිකොම් හා ලංකා හොස්පිටල්ස් ආයතනවල කොටස් පැවරීමට අදාළව අධිකරණ නියෝගයක්
+### Court order in relation to transfer of shares of telecom and Lanka hospitals
 
 *2024-02-28 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193897) · `si`
 
-දැනට තෝරාගෙන ඇති අයදුම්කරුවන් පදනම් කරගෙන ශ්‍රී ලංකා ටෙලිකොම් ආයතනයේ සහ ලංකා හොස්පිටල්ස් ආයතනයේ කොටස් පැවරීමේ ක්‍රියාවලිය සම්බන්ධයෙන් ඉදිරි පියවර ගැනීම මාර්තු මස 12 වනදා තෙක් අත්හිටුවමින් අභියාචනාධිකරණය විසින් අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+The Court of Appeal has issued an interim injunction with the suspension of the transfer of shares of SLT and Lanka Hospitals, based on the currently selected candidates.
 
-ශ්‍රී ලංකා ටෙලිකොම් ආයතනය වෙනුවෙන් ලයිකා මොබයිල් එස්.ඒ.ආර්.එල් සමාගම සහ පිටිගෝ කොමේරිකෝ ඉන්ටර්නැෂනල් සමාගම මෙන්ම ලංකා හොස්පිටල්ස් ආයතනය වෙනුවෙන් ලයිකා ලීසිං හෝල්ඩිං සමාගම සහ හයිම්ස් ඉන්ටනැෂනල් සමාගම විසින් ඉදිරිපත් කළ රිට් පෙතිසම් දෙකක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා විසින් මෙම අතුරු තහනම් නියෝග නිකුත් කළේය.
+Appeal Court Judge of Liki Wedding Horts and the Pitigo Commemoration of Sri Lanka Telecom and the Pitigo Commemoration Company and the Liki Leasing Holding Company and Himsitus.. N. Mr. Samarakoon issued the interim injunctions.
 
-නීතිඥ සනත් විජේවර්ධන මහතා මාර්ගයෙන් ඉදිරිපත් කර තිබූ පෙත්සම්වලින් පෙත්සම්කාර සමාගම් සඳහන් කර ඇත්තේ, ශ්‍රී ලංකා ටෙලිකොම් ආයතනයේ රජය සතු සියයට 50.23 ක කොටස් හා ලංකා හොස්පිටල්ස් ආයතනයේ සියයට 51.34ක් කොටස් පැවරීමේ ක්‍රියාවලියට අදාළව සුදුසුකම් ලැබීම සඳහා අයදුම්පත් තමන් විසින් වගඋත්තරකරුවන් වෙත ඉදිරිපත් කළ බවය.
+The petitioners have been submitted by the petitioners at Law Sanath Wijewardene by Sanath Wijewardene.
+
+However, Petted Cabinet committee has decided to reject the applications without any explanation of the applications.
+
+Despite the decision of the Petitioners and the petitioners, the decision of the Cabinet Sub-Committee, is contrary to the law to do not accept all the qualifications.
 
 ...
 
 [Data](articles/75906297.json)
+
+[Extended Data](ext_articles/75906297.ext.json)
 
 ---
 
@@ -120,23 +180,31 @@ Therefore, the Bakery Owners' Association requests the government to provide con
 
 ---
 
-### උක්කුවා ඝාතනයට අවශ්‍යව සිටි හිටපු සෙබළා STF සමග ගැටුමකින් මරුට
+### Former soldier clash with the milk killed
 
 *2024-02-28 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193896) · `si`
 
-මහබාගේ ප්‍රදේශයේ මස් කඩහිමිකරුවෙකු ඝාතනය කිරීමේ සිදුවීමට සහ තවත් අපරාධ රැසකට අවශ්‍යව සිටි හිටපු හමුදා සෙබළෙක් සූරියවැව ප්‍රදේශයේ දී පොලිස් විශේෂ කාර්ය බළකාය සමග ඇති වූ ගැටුමකින් මියගොස් තිබේ.
+A former army soldier who wanted to kill a meat shop in Mahabage area and several other crimes were killed in a confrontation with the STF in Sooriyawewa area.
 
-මියගිය පුද්ගලයා සුරියවැව ප්‍රදේශයේ ආඩිගම වැව අසල වාඩියක සැඟවී සිටින බවට ලද බුද්ධි තොරතුරක් මත අද (28) අලුයම ක්ෂණික වැටලීමක් සිදුකර ඇත.
+The deceased has been a immediate raid on an intelligence information that was hiding in a videout near the Audigura tank in Souriyewewa.
 
-එහිදී සැකකරු විසින් ගිනිඅවියකින් නිලධාරීන්ට වෙඩි ප්‍රහාරයක් එල්ල කර ඇති අතර, එයට ප්‍රතිප්‍රහාර එල්ල කිරීමේ දී සැකකරු තුවාල ලබා තිබේ.
+The suspect was shot dead by firearms and the suspect was injured in retaliation.
 
-වෙඩි හුවමාරුවෙන් විශේෂ කාර්ය බළකායේ නිලධාරියෙකු ද තුවාල ලබා තිබේ.
+A STF officer officer was also injured.
 
-මෙම සැකකරු පසුගිය අගෝස්තු 8 වන දින වැල්ලම්පිටිය, කිත්තම්පහුම ප්‍රදේශයේ දී පුද්ගලයෙකුට වෙඩිතැබීම, ජුනි 17 වනදා මීටියාගොඩ, සීනිගම දේවාලය අසල විදුර නැමති සංවිධානාත්මක අපරාධකරුගේ මස්සිනා වන දුලාජ් යන අයට කොස්ගොඩ සුජී නැමැති සංවිධානාත්මක අපරාධකරුගේ මෙහෙයවීමෙන් වෙඩිතබා ඝාතනය කිරීමට තැත් කිරීම යන සිද්ධි සම්බන්ධයෙන් ද චෝදනා එල්ල වී තිබේ.
+The suspect was accused of attempting to shot a person in Wellampitiya, Wellampathuma, Wellampama, Walaja, and the Unidentified criminal in the Nandigama Devalaya, Weligama Devalaya.Available.
+
+He has been arrested by a 45 year old resident of the Meella area, south Kanumuldeniya and a 45-year-old resident of the suspect.
+
+Meanwhile, two unidentified gunmen had been shot dead by two unidentified gunmen in a motorbike on the 21st morning.
+
+The victim was identified as the manager who acted as the motorcyclist for the murder.
 
 ...
 
 [Data](articles/752f7586.json)
+
+[Extended Data](ext_articles/752f7586.ext.json)
 
 ---
 
@@ -160,25 +228,29 @@ Local nationals in the south claim that if an immediate monitoring process is no
 
 ---
 
-### ප්‍රදේශ කිහිපයකට සුළු වැසි
+### Minor showers to several areas
 
 *2024-02-28 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193893) · `si`
 
-නැගෙනහිර, ඌව සහ උතුරු මැද පළාත්වලත් නුවරඑළිය සහ මාතලේ දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology announces that several showers may occur in the Eastern, Uva and North Central provinces.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+Thundershowers will develop at several places in the Western and Sabaragamuwa provinces and in the Kandy, Galle and Matara districts.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, දකුණු, ඌව සහ නැගෙනහිර පළාත්වලත් විටින් විට හමන පැ.කි.මී. 30-40 පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+From time to time in the East, East, North, South, Southern, Uva and Eastern Provinces. Strong winds can occur at about 30-40 times.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take steps to reduce temporary winds and lightning accidents with thunderstorms.
 
-මේ අතර දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (28) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා  තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Meanwhile, the Department of Meteorology states that the temperature of several areas in the island will continue to pay attention today (28).
 
-වයඹ, බස්නාහිර සහ දකුණු පළාත්වලත් රත්නපුර දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+The heat of the human body in the North Western and Southern provinces, the heat of the human body will be at focus.
 
-...
+Deputy Director Merrill Mendis said that it should be followed by adequate water, including the restriction in the shade, and the stress of the expanding the stress, including the stressing outdoors.
+
+◼️
 
 [Data](articles/47da56ae.json)
+
+[Extended Data](ext_articles/47da56ae.ext.json)
 
 ---
 
@@ -269,6 +341,22 @@ The Bandaranaike International Airport (BIA) and Colombo Port will see an upgrad
 [Data](articles/85fc222c.json)
 
 [Extended Data](ext_articles/85fc222c.ext.json)
+
+---
+
+### ’பராட்டே சட்ட திருத்தம் பாராளுமன்றத்தில்’
+
+*2024-02-28 03:04:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பராட்டே-சட்ட-திருத்தம்-பாராளுமன்றத்தில்/175-333908) · `ta`
+
+அமைச்சரவை தீர்மானத்தின் பிரகாரம், தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ள பராட்டே சட்டம் தொடர்பான திருத்தத்தை எதிர்காலத்தில் பாராளுமன்றத்தில் சமர்பிக்க எதிர்பார்க்கப்படுகிறது என நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+நாடு ஒரு நிதிக் கொள்கையைக் கொண்டிருக்க வேண்டும். மேலும் பொருளாதாரமும் வலுவாக இருக்க வேண்டும். இந்த விடயத்தில் இலங்கை மத்திய வங்கிக்கு கணிசமான அதிகாரம் உள்ளது. கடந்த காலத்தில் இலங்கையில் கருத்தாடலுக்கு உட்பட்ட பரேட்டா சட்டம் பற்றி குறிப்பிடுவதென்றால், இவ்விடயத்தில் மத்திய வங்கி, நிதி நிறுவனங்களின் ஸ்திரத்தன்மையை பாதுகாப்பதில் மாத்திரமே கவனம் செலுத்தியது.
+
+...
+
+[Data](articles/5183c8a0.json)
 
 ---
 
@@ -1909,89 +1997,5 @@ The Faculty of Humanities and Socialist Association of Sri Jayewardenepura, Univ
 [Data](articles/8b8ecb79.json)
 
 [Extended Data](ext_articles/8b8ecb79.ext.json)
-
----
-
-### Heat advisory issued for parts of the island
-
-*2024-02-27 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97570/heat-advisory-issued-for-parts-of-the-island) · `en`
-
-The Department of Meteorology has cautioned the people of rising temperatures in the North-western, Western and Southern provinces as well as in Ratnapura District in the coming hours.
-
-The advisory, issued at 4.30 p.m. today, will be in effect until tomorrow evening (Feb.28). “Heat index, the temperature felt on the human body is expected to increase up to ‘Caution’ level at some places in North-western, Western and Southern provinces and Ratnapura District,” it reads.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity. Continuing activity could result in heat cramps.
-
-For this reason, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to wear lightweight, white or light-coloured clothing.
-
-...
-
-[Data](articles/2d5593cf.json)
-
-[Extended Data](ext_articles/2d5593cf.ext.json)
-
----
-
-### US Air Force soldier death in front of Israel's embassy
-
-*2024-02-27 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177435) · `ta`
-
-A US Air Force soldier, who was rescued with burns, has died when he tried to set fire to the Israeli embassy in Washington.
-
-In protest against the Gaza War, a US Air Force burns himself outside the Israeli embassy in Wosnington
-
-A web site has revealed that I am not interested in the massacre, which is still found in the military.
-
-The Times reports that the person was chanting as an independent Palestine before pouring fetus on himself.
-
-It is noteworthy that there are a series of demonstrations in front of the Israeli embassy in Wosnington after the war began in Gaza.
-
-◼️
-
-[Data](articles/c01b6c7a.json)
-
-[Extended Data](ext_articles/c01b6c7a.ext.json)
-
----
-
-### SLBFE gives update on Sri Lankan deliveryman shot in Kuwait over delayed order
-
-*2024-02-27 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97569/slbfe-gives-update-on-sri-lankan-deliveryman-shot-in-kuwait-over-delayed-order) · `en`
-
-The Sri Lankan national, who was shot in Kuwait while working as a delivery person, currently remains under the protection of the Sri Lankan Embassy in Jabriya, the Foreign Employment Bureau (SLBFE) says.
-
-The embassy has assured that all required facilities would be provided to Sagara Lakshman who sustained critical injuries after being shot by a customer over a delayed food order.
-
-Meanwhile, the Minister of Labour and Foreign Employment, Manusha Nanayakkara has instructed the SLBFE authorities to look into the matter and take necessary measures without delay.
-
-The 44-year-old, originally from Rajanganaya, faced the harrowing incident on January 11 in Al Jahra city where he was residing. According to his account of the event, the initial location details given by the customer were wrong, and as a result, he had to drive to a different location to complete the delivery.
-
-...
-
-[Data](articles/fa9ac3bd.json)
-
-[Extended Data](ext_articles/fa9ac3bd.ext.json)
-
----
-
-### Sri Lanka, Romania to strengthen trade ties
-
-*2024-02-27 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-romania-to-strengthen-trade-ties-152297/) · `en`
-
-ECONOMYNEXT – Sri Lanka and Romania have discussed cooperation and investment in new areas, and an agreement to prevent double taxation.
-
-Discussions were held between Prime Minister Dinesh Gunawardena and Romanian Ambassador Doamna Steluśa Arhire on “long-term bilateral relations and economic cooperation between the two countries, as well as the steps to be taken to reach investments in new areas,” a statement by the Department of Government Information said.
-
-The ambassador said that Romania “will sign an agreement with Sri Lanka to further speed up the trade process and prevent double taxation”.
-
-Another MoU on education, culture, sports and media cooperation can be signed after both sides approve the new draft, she added.
-
-The Prime Minister asked the Ambassador “to consider investment opportunities and cooperation in the fields of agriculture, railways, IT, cyber security and tourism.”
-
-...
-
-[Data](articles/cff07163.json)
-
-[Extended Data](ext_articles/cff07163.ext.json)
 
 ---

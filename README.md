@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 14:17:44**
+As of **2024-02-28 14:32:56**
 
 ## Newspaper Stats
 
-*Scraped **9,782** Articles*
+*Scraped **9,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,57 @@ adaderanalk | 1,175
 tamilmirrorlk | 1,189
 virakesarilk | 1,343
 dailymirrorlk | 1,479
-adaderanasinhalalk | 1,480
+adaderanasinhalalk | 1,481
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,780 (100.0%) of 9,782 articles have been extended.
+9,783 (100.0%) of 9,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### පොලිස් බලතල නැතුව බලය බෙදනවා - ජනපති
+### Sri Lankan accused of raping a South Korean girl
+
+*2024-02-28 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193912) · `si`
+
+In 1998, the Supreme Court was completed by the Attorney General to acquire the verdict of a Sri Lankan defendant in South Korea to acquit the defendant.(27) adjourned without the days.
+
+The appeal petition was presented by the Attorney General was heard in front of a three-member Supreme Court Judge of Shiran Gunaratne and Janakamuwa.
+
+The Sri Lankan defendant in South Korea in 1998 was filed by the Government of South Korea on the verge of raping an 18-year-old girl.
+
+However, the defendant was released from the case, and then the defendant was deported to Sri Lanka.
+
+The Attorney General filed the Colombo High Court against the accused by the South Korean government's request to prosecute the defendant under the Korean Sri Lanka National Institute.
+
+Long-examined Colombo High Court acquired the defendant to acquire and release the defendant.
+
+...
+
+[Data](articles/e0f63f9a.json)
+
+[Extended Data](ext_articles/e0f63f9a.ext.json)
+
+---
+
+### Divisions Divisions Divisions - President
 
 *2024-02-28 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193911) · `si`
 
-පොලිස් බලතල අත්හැර බලය බෙදීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe says he will be devolved the police powers.
 
-"සංහිඳියාව සඳහා ආගම්'' යන තේමාව යටතේ කොළඹ බණ්ඩාරනායක අනුස්මරණ සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේදී අද පෙරවරුවේ පැවති ශ්‍රී ලංකා ජාතික සාම මණ්ඩලය සංවිධාන කළ 2024 අන්තර් ආගමික සමුළුවට එක්වෙමින් ජනපති මෙම අදහස් පළකළේය.
+The President made these comments participating at the 2024 Inter-Religious Memorial Conference held at the Bandaranaike Memorial Seminar in Colombo this morning under the theme "Reconciliation '.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවති සමුළුවට මහා සංඝරත්නය ඇතුළු ආගමික නායකයින් මෙන්ම තානාපතිවරුන්ද එක්ව සිටියේය.
+The Maha Sangha, including the Maha Sangha, and ambassadors were present at the conference held chaired by President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/f52aa4e5.json)
+
+[Extended Data](ext_articles/f52aa4e5.ext.json)
 
 ---
 
@@ -61,6 +87,8 @@ UNFPA Sri Lanka underscores its enduring collaboration with the Government of Sr
 ...
 
 [Data](articles/c6d5c163.json)
+
+[Extended Data](ext_articles/c6d5c163.ext.json)
 
 ---
 
@@ -2023,23 +2051,5 @@ So the Speaker has signed a well -to -use law to allow the Ceremony Backup Act..
 [Data](articles/eb43f341.json)
 
 [Extended Data](ext_articles/eb43f341.ext.json)
-
----
-
-### Ronnie too passes away
-
-*2024-02-27 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193892) · `si`
-
-Ronnie de, former finance minister has passed away.
-
-He was the Minister of Finance of the government in 1978.
-
-Ronnie de Mel became popular as the Minister of Finance 11 times in Sri Lanka.
-
-◼️
-
-[Data](articles/b4862072.json)
-
-[Extended Data](ext_articles/b4862072.ext.json)
 
 ---

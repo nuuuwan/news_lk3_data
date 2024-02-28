@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 18:08:26**
+As of **2024-02-28 18:20:10**
 
 ## Newspaper Stats
 
-*Scraped **9,819** Articles*
+*Scraped **9,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,122 @@ dailyftlk | 519
 islandlk | 521
 adalk | 832
 adaderanalk | 1,184
-tamilmirrorlk | 1,195
-virakesarilk | 1,350
-dailymirrorlk | 1,484
-adaderanasinhalalk | 1,487
+tamilmirrorlk | 1,197
+virakesarilk | 1,353
+dailymirrorlk | 1,485
+adaderanasinhalalk | 1,491
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,819 (100.0%) of 9,819 articles have been extended.
+9,819 (99.9%) of 9,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### බංග්ලාදේශයට එරෙහිව පිටියට එන ශ්‍රී ලංකා කණ්ඩායම මෙන්න
+
+*2024-02-28 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193924) · `si`
+
+බංග්ලාදේශ කණ්ඩායම සමග පැවැත්වෙන විස්සයි විස්ස තරගාවලිය සඳහා සහභාගී වන ශ්‍රී ලංකා ක්‍රිකට් සංචිතය නම්කර තිබේ.
+
+◼️
+
+[Data](articles/d72a4c6a.json)
+
+---
+
+### UNFPA Sri Lanka inaugurates one stop centre in Kilinochchi
+
+*2024-02-28 17:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-Sri-Lanka-inaugurates-one-stop-centre-in-Kilinochchi/108-277896) · `en`
+
+Feb 28 -  The United Nations Population Fund (UNFPA) Sri Lanka announced the opening ceremony of the One Stop Centre (OSC) at the District General Hospital in Kilinochchi today (28).
+
+The One Stop Centre is a groundbreaking initiative introducing a new service delivery model in Sri Lanka, offering comprehensive Sexual and Reproductive Health (SRH) services, support for survivors of Gender-Based Violence (GBV), and Family Planning Services (FP) all under one roof.
+
+The OSC in Kilinochchi also provides essential psychosocial, medical, and legal support for survivors of GBV. This transformative approach is a result of the collaborative efforts between UNFPA Sri Lanka, the Ministry of Health, and World Vision Sri Lanka, with generous support from the Government of Norway.
+
+...
+
+[Data](articles/89dbd9aa.json)
+
+---
+
+### பாதாள உலகக் குழுவினரின் மரண அச்சுறுத்தலால் வெளிநாடு சென்ற குற்றப் பிரிவின் பொறுப்பதிகாரி துமிந்த ஜயதிலக்க!
+
+*2024-02-28 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177531) · `ta`
+
+தற்போது வெளிநாட்டில்  வசிக்கும்  பொலிஸ் பரிசோதகர் துமிந்த ஜயதிலக வெளியிட்ட கொலை மிரட்டல் சம்பவம் தொடர்பில் விசாரணைகள் இடம்பெற்று வருவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பிரதிப் பொலிஸ் மா அதிபரும்  பொலிஸ் ஊடகப் பேச்சாளருமான நிஹால் தல்துவ இதனைக் குறிப்பிட்டுள்ளார்.
+
+தனக்கும் தனது குடும்பத்துக்கும் பாதாள உலகக் குழு உறுப்பினர்களின் மரண அச்சுறுத்தல் காரணமாகவே தான் வெளிநாடு சென்றதாக சமூக ஊடகங்களில் காணொளி ஒன்றை வெளியிட்ட கொழும்பு குற்றப் பிரிவின் ஒழுங்கமைக்கப்பட்ட குற்றப் பிரிவின் பொறுப்பதிகாரி இன்ஸ்பெக்டர் துமிந்த ஜயதிலக்க தெரிவித்துள்ளாார்.
+
+இது தொடர்பில் கருத்து தெரிவித்த பிரதிப் பொலிஸ் மா அதிபர், பொலிஸ் ஊடகப் பேச்சாளர்,நிஹால் தல்துவ,  குறித்த அச்சுறுத்தல் தொடர்பான   ஒலி நாடாக்கள்  குறித்தும் சந்தேகங்கள் எழுந்துள்ளன எனக் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/ea7a7e6e.json)
+
+---
+
+### உலகளாவிய முன்னணி நாடாக அங்கீகரிக்கப்பட்ட இலங்கை
+
+*2024-02-28 17:41:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகளாவிய-முன்னணி-நாடாக-அங்கீகரிக்கப்பட்ட-இலங்கை/175-333956) · `ta`
+
+ஐக்கிய நாடுகளின் சுற்றாடல் பேரவையின்ஆறாவது அமர்வில் (UNEA-6) , சதுப்புநிலங்களை மறுசீரமைப்பதில் இலங்கை உலகளாவிய முன்னணி நாடாக அங்கீகரிக்கப்பட்டது.
+
+ஐக்கிய நாடுகளின் சுற்றுச்சூழல் பேரவையின் ஆறாவது அமர்வு பெப்ரவரி 26ஆம் திகதி கென்யாவின் நைரோபியிலுள்ள ஐக்கிய நாடுகளின் சுற்றுச்சூழல் திட்டத்தின் (UNEP) தலைமையகத்தில் தொடங்கியது.
+
+ஐக்கிய நாடுகளின் சுற்றுச்சூழல் பேரவையின் ஆறாவது அமர்வை உத்தியோகபூர்வமாக ஆரம்பிப்பதற்கு முன், கூட்டத்தில் ஆராய்வதற்கான அடித்தளத்தை அமைப்பதற்காக நிரந்தரப் பிரதிநிதிகளின் குழு கூடியது.
+
+இந்த மாநாட்டின் சிறப்பம்சங்களில், சதுப்புநில மறுசீரமைப்பு முயற்சிகளில் இலங்கையை உலகளாவிய முன்மாதிரியாக எடுத்துக் கொள்ள முடியும் என சுட்டிக்காட்டப்பட்டது.
+
+ஒரு மதிப்புமிக்க விருதைப் பெற்றுள்ள இலங்கையின் சதுப்புநில சுற்றுச்சூழல் கட்டமைப்புகளைப் பாதுகாத்தல் மற்றும் புத்துயிர் அளிப்பதில்  இலங்கை காட்டும்  அர்ப்பணிப்பு, உலகில் செயல்திறன் மிக்க சுற்றுச்சூழல் பொறுப்புணர்வுக்கு ஒரு சான்றாகக் காணப்படுகிறது.
+
+...
+
+[Data](articles/67510333.json)
+
+---
+
+### මන්ත්‍රී ධුරයක් පුරප්පාඩු බව දැනුම්දෙයි
+
+*2024-02-28 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193923) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ධුරයක පුරප්පාඩුවක් පවතින බව පාර්ලිමේන්තුව මැතිවරණ කොමිෂන් සභාවට දැනුම්දී තිබේ.
+
+අනුරාධපුර මැතිවරණ කොට්ඨාසයේ පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතා 2024 පෙබරවාරි  මස 26 වැනි දින සිට බල පැවැත්වෙන පරිදි පාර්ලිමේන්තු අසුනෙන් ඉල්ලා අස්විය.
+
+ඒ හේතුවෙන් 09 වැනි පාර්ලිමේන්තුවේ මන්ත්‍රී ධුරයක පුරප්පාඩුවක් ඇතිවී තිබෙන බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණධීර මහත්මිය මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා තිබේ.
+
+1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම් දීම සිදුකර ඇත.
+
+◼️
+
+[Data](articles/104a028c.json)
+
+---
+
+### සාගතයක් ගැන එක්සත් ජාතීන්ගේ සංවිධානයෙන් අනාවරණයක්
+
+*2024-02-28 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193922) · `si`
+
+යුද ගැටුම් හේතුවෙන් ගාසා තීරයේ ලක්ෂ 05කට ආසන්න ජනතාවක් සාගත තත්වයකට මුහුණදෙමින් සිටින බව එක්සත් ජාතීන්ගේ සංවිධානය පවසයි.
+
+එම ප්‍රමාණය ගාසා තීරයේ ජනගහනයෙන් 4න් එකක් පමණ වන බව ඔවුන් පෙන්වා දී තිබේ.
+
+ගාසා තීරය සදහා මානුෂීය ආධාර රැගත් ට්‍රක් රථ ප්‍රවේශය සීමා කිරීම හේතුවෙන් මෙම තත්ත්වය හටගෙන ඇති බව සඳහන් වෙයි.
+
+ගාසා තීරයේ භූගත ජලයෙන් සියයට 97ක් ද මිනිස් පරිභෝජනයට නුසුදුසු මට්ටමක පවතින බව එක්සත් ජාතීන්ගේ සංවිධානය අනාවරණය කර තිබේ.
+
+◼️
+
+[Data](articles/d6aad011.json)
+
+---
 
 ### SLFP to support no-faith motion against Speaker
 
@@ -45,6 +147,44 @@ The Opposition is planning to bring in a no-confidence motion against the Speake
 [Data](articles/746a1786.json)
 
 [Extended Data](ext_articles/746a1786.ext.json)
+
+---
+
+### குடிநீர் கிடைப்பதில்லை  ; லிந்துலையில் மக்கள் ஆர்ப்பாட்டம்
+
+*2024-02-28 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177514) · `ta`
+
+லிந்துலை பொலிஸ்பிரிவுக்குட்பட்ட கிறேட்வெஸ்டன் கல்கந்தவத்தை தோட்ட மக்கள் தமது தேவைக்கு குடிநீர் கிடைப்பதில்லை என இன்று  (28) ஆர்ப்பாட்டத்தில் ஈடுப்பட்டனர்.
+
+2002 ம் ஆண்டு தேசிய வீடமைப்பு தோட்ட உட்கட்டமைப்பு அமைச்சர் ஆறுமுகன் தொண்டமானால் அரசாங்கத்தின் 100 நாள் வேலைத்திட்டத்தினூடாக தலவாக்கலை நகர மக்களுக்கு தினசரி 24 மணி நேரமும் நீர் விநியோக வேலைத்திட்டம் என்ற வேலைத்திட்டத்தில் தலவாக்கலை கிறேட்வெஸ்டன் கல்கந்தவத்தை மலை அடிவாரத்தில் ஆரம்பமாகும் (கல்லாறு) ஆற்றை ஒரு பகுதி மறித்து அணையிட்டு  அங்கிருந்து குழாய்கள் ஊடாக தலவாக்கலை நகருக்கு சுத்தமான குடிநீர் வழங்கப்பட்டது.
+
+சுமார்  21 வருடங்கள் கடந்துள்ள நிலையில் தற்போது நீர்வழங்கல் வடிகாலமைப்பு சபையினூடாக கல்கந்தவத்தை மலை அடிவாரத்தில் ஆரம்பமாகும் (கல்லாறு) ஆற்றின் அணையை  ஒரு அடி உயர்த்தி தண்ணீரை சுத்திகரித்து மேலும் குழாய்களை பொருத்தி அதனூடாக தலவாக்கலை நகருக்கு குடிநீர் வழங்க வேலைத்திட்டமொன்று தற்போது ஆரம்பிக்கப்பட்டுள்ளது.
+
+இத்திட்டத்தினால்  கல்கந்தவத்தை தோட்டத்தைச் சேர்ந்த சுமார் 250 குடும்பங்கள் பாதிக்கபடுவதாக அத்தோட்ட மக்கள் கவலை தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/bd83bba5.json)
+
+---
+
+### இலங்கையில் நீண்டகாலம் மோதலில் ஈடுபட்ட இரண்டு சமூகத்தினரும்  மரபணுரீதியில் ஒத்ததன்மைகளை கொண்டுள்ளர்- ஆய்வில் தகவல்
+
+*2024-02-28 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177527) · `ta`
+
+இலங்கையில் நீண்டகால உள்நாட்டு யுத்தத்தில் ஈடுபட்ட இரண்டு பெரும் இனக்குழுக்களான சிங்களவர்களுக்கும் தமிழர்களுக்கும் மரபணுரீதியில் ஒற்றுமையை கொண்டுள்ளனர் என்பது ஆய்வொன்றின் மூலம் தெரியவந்துள்ளது.
+
+தென்னாசியாவின் வேறு எந்த சமூகத்தையும் விட இந்த இரு சமூகத்தவர்கள் மரபணுரீதியில் ஒன்றுமையை கொண்டுள்ளனர் எனவும்  ஆய்வின் மூலம் தெரியவந்துள்ளது.
+
+ஐசயன்ஸ் என்ற சஞ்சிகையில் இந்த ஆய்வின் முடிவுகள் வெளியாகியுள்ளன. இந்திய இலங்கை மரபணுநிபுணர்கள் இந்த ஆய்வினை மேற்கொண்டுள்ளனர்.
+
+இந்த ஆய்வு இலங்கையின் இனக்குழுக்களின் வரலாற்று தோற்றம் பற்றிய உண்மைகளை வெளிக்கொணர்ந்துள்ளதுடன் இந்த இரு சமூக குழுக்கள் மத்தியிலான சமூக ஊடாட்டங்கள் பற்றிய பல விடயங்களையும் வெளிப்படுத்தியுள்ளது.
+
+இரண்டு சமூகங்களிற்குஇடையில் குறிப்பிடத்தக்க  கலாச்சார  மற்றும் மொழி வித்தியாசங்கள் உள்ளபோதிலும்  பல நூற்றாண்டுகளாக இரு சமூகங்களும் ஒன்றுடன் ஒன்று பின்னிப்பிணைந்துள்ள  இது மரபணுதொடர்பிற்கு காரணமாக அமைந்துள்ளது எனவும் இந்த ஆய்வு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/da2f26c6.json)
 
 ---
 
@@ -70,6 +210,26 @@ Further, activities such as yoga, beach cleaning and a walkathon will also be he
 
 ---
 
+### අද දෙරණ මාධ්‍යවේදියා ට ජාත්‍යන්තර සම්මානයක්
+
+*2024-02-28 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193920) · `si`
+
+අද දෙරණ නියෝජනය කරමින් K.C. සාරංග ජාත්‍යන්තර මාධ්‍ය උළෙලෙකදී ජයග්‍රහණයක් හිමිකර ගත්තේය.
+
+පළමුවරට බංග්ලාදේශයේ පැවති Community Digital Storytelling Festival (CDSTF) උළෙල සඳහා ඉදිරිපත් කළ කෙටි වීඩියෝව වෙනුවෙන් මෙම ජයග්‍රහණය ලැබී තිබේ.
+
+මෙම උළෙලේ ස්වාධීන අංශයේ ශ්‍රී ලංකාවෙන් K.C. සාරංග සහ පෝලන්තයෙන්  Iga Gudas  සම ජයග්‍රහකයන් ලෙස නම් කර ඇත.
+
+ශ්‍රී ලංකාවේ නාගරීකරණය හමුවේ ආන්තීකරණයට ලක්වී සිටින  ප්‍රජාවන් මුහුණ දෙන තත්ත්වයන් පිළිබඳව K.C. සාරංග නිර්මාණය කළ Cool Consolation නම් වීඩියෝවට මෙම ජයග්‍රහණය හිමි වුණි.
+
+ජංගම දුරකථන සහ ඉලෙක්ට්‍රොනික මෙවලම් මගින් සිදුකරන ජංගම මාධ්‍යකරණය හරහා ඩිජිටල් කතන්දර කීමේ කලාව ප්‍රවර්ධනය කිරීම වෙනුවෙන් බංග්ලාදේශයේ Daffodil International University මගින් මෙම උළෙල සංවිධානය කර තිබුණි.
+
+◼️
+
+[Data](articles/d83736ee.json)
+
+---
+
 ### Ada Derana journalist acclaimed at int’l digital storytelling festival
 
 *2024-02-28 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97596/ada-derana-journalist-acclaimed-at-intl-digital-storytelling-festival-) · `en`
@@ -87,6 +247,22 @@ The festival, organized by the Department of Journalism, Media and Communication
 [Data](articles/5fe189f4.json)
 
 [Extended Data](ext_articles/5fe189f4.ext.json)
+
+---
+
+### கொரிய குடியரசின் தூதுவருடன் கஞ்சன சந்திப்பு
+
+*2024-02-28 16:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொரிய-குடியரசின்-தூதுவருடன்-கஞ்சன-சந்திப்பு/175-333955) · `ta`
+
+கொரிய குடியரசின் தூதுவர் மியோன் லீ மற்றும் மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சனா விஜேசேகர ஆகியோருக்கு இடையில் எரிசக்தி ஒத்துழைப்பு தொடர்பான கலந்துரையாடல் மின்சக்தி மற்றும் எரிசக்தி அமைச்சில் இன்று (28) நடைபெற்றது.
+
+மிதக்கும் சோலார் பேனல்கள் மற்றும் அணுசக்தியை பயன்படுத்தி கொரிய குடியரசு பாரிய அளவில் மின்சாரத்தை உற்பத்தி செய்து வருவதாக தூதுவர் அமைச்சரிடம் தெரிவித்துள்ளார்.
+
+புதுப்பிக்கத்தக்க எரிசக்தி உற்பத்தி மற்றும் அணுசக்தி உற்பத்தி மூலம் இரு நாடுகளுக்கும் இடையே எரிசக்தி ஒத்துழைப்பை வளர்ப்பதற்கான சாத்தியக்கூறுகள் மற்றும் கொரிய அரசாங்கங்கள் மற்றும் முதலீட்டாளர்களிடமிருந்து தேவையான தொழில்நுட்ப மற்றும் நிதி உதவி குறித்து இங்கு விவாதிக்கப்பட்டதாக அமைச்சர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/1225e4e8.json)
 
 ---
 
@@ -1796,7 +1972,7 @@ The police said that the two employees have been admitted to the Kalubowila hosp
 
 ---
 
-### Sri Lanka planning bad-debt authority to give parate execution approval: Justice Minister
+### Sri Lanka planning bad-debt authority for parate execution nod: Justice Minister
 
 *2024-02-28 08:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-planning-regulatory-authority-to-give-parate-execution-approval-justice-minister-152330/) · `en`
 
@@ -1863,233 +2039,5 @@ Meanwhile, Vasantha Samarasinghe, Vasantha Samarasinghe, says that the electrici
 [Data](articles/c2fa8e77.json)
 
 [Extended Data](ext_articles/c2fa8e77.ext.json)
-
----
-
-### Suspect wanted over Mahabage shooting killed in shootout with STF
-
-*2024-02-28 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97581/suspect-wanted-over-mahabage-shooting-killed-in-shootout-with-stf) · `en`
-
-A former army soldier wanted in connection with the recent shooting incident in Mahabage and was also wanted for several other crimes, has been shot dead by STF personnel during an exchange of fire at Sooriyawewa this morning (Feb.28), police said.
-
-He is suspected to be the motorcycle rider in the shooting which took place on Feb. 21 near a meat shop in Elapitiwala Junction, Mahabage that killed the shop owner.
-
-A special raid was launched in the early hours of the day after the STF received intelligence information revealing the suspect’s hideout in the vicinity of Andigama Tank in Sooriyawewa. As the STF officers approached, the 45-year-old had opened fire, forcing them to retaliate.
-
-In the shootout, one STF officer and the suspect were wounded but the latter succumbed to injuries shortly after being rushed to the Sooriyawewa Hospital.
-
-He was identified as a resident of the Kanumuldeniya area in Mee-Ella. The STF has seized a revolver and a motorcycle from the possession of the deceased.
-
-...
-
-[Data](articles/cd4d6467.json)
-
-[Extended Data](ext_articles/cd4d6467.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-02-28 07:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97580/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Eastern, Uva and North central provinces and in Nuwara-Eliya and Matale districts.
-
-Showers or thundershowers may occur atseveral places in Western and Sabaragamuwa provinces and in Kandy, Galle and Matara districts in the evening or night.
-
-Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, North-western, Southern, Uva and Eastern provinces.
-
-The public is kindly requested to take adequate precautions to minimize the damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/c7c24d95.json)
-
-[Extended Data](ext_articles/c7c24d95.ext.json)
-
----
-
-### Court order in relation to transfer of shares of telecom and Lanka hospitals
-
-*2024-02-28 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193897) · `si`
-
-The Court of Appeal has issued an interim injunction with the suspension of the transfer of shares of SLT and Lanka Hospitals, based on the currently selected candidates.
-
-Appeal Court Judge of Liki Wedding Horts and the Pitigo Commemoration of Sri Lanka Telecom and the Pitigo Commemoration Company and the Liki Leasing Holding Company and Himsitus.. N. Mr. Samarakoon issued the interim injunctions.
-
-The petitioners have been submitted by the petitioners at Law Sanath Wijewardene by Sanath Wijewardene.
-
-However, Petted Cabinet committee has decided to reject the applications without any explanation of the applications.
-
-Despite the decision of the Petitioners and the petitioners, the decision of the Cabinet Sub-Committee, is contrary to the law to do not accept all the qualifications.
-
-...
-
-[Data](articles/75906297.json)
-
-[Extended Data](ext_articles/75906297.ext.json)
-
----
-
-### Bread, bun sales down: Bakery industry in crisis
-
-*2024-02-28 07:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bread-bun-sales-down-Bakery-industry-in-crisis/108-277856) · `en`
-
-Colombo, Feb 28 (Daily Mirror) - Sales of cakes breads and buns in the local market have dropped by around 50% due to the high manufacturing costs, the All Ceylon Bakery Owners' Association (ACBOA) said.
-
-They said the costs of magarin and butter have increased to Rs. 1,000 and Rs. 3,000 per kilo respectively.
-
-"We have still not received the stocks of eggs imported from India and henve we have to buy locally produced eggs at Rs. 60 each. That deals a hard blow to the bakery industry," the association chairman said.
-
-Therefore, the Bakery Owners' Association requests the government to provide concessions while bringing down the prices of the ingredients that the bakery manufactures need before the upcoming Sinhala and Hindu New Year.
-
-◼️
-
-[Data](articles/34df6b8d.json)
-
-[Extended Data](ext_articles/34df6b8d.ext.json)
-
----
-
-### Former soldier clash with the milk killed
-
-*2024-02-28 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193896) · `si`
-
-A former army soldier who wanted to kill a meat shop in Mahabage area and several other crimes were killed in a confrontation with the STF in Sooriyawewa area.
-
-The deceased has been a immediate raid on an intelligence information that was hiding in a videout near the Audigura tank in Souriyewewa.
-
-The suspect was shot dead by firearms and the suspect was injured in retaliation.
-
-A STF officer officer was also injured.
-
-The suspect was accused of attempting to shot a person in Wellampitiya, Wellampathuma, Wellampama, Walaja, and the Unidentified criminal in the Nandigama Devalaya, Weligama Devalaya.Available.
-
-He has been arrested by a 45 year old resident of the Meella area, south Kanumuldeniya and a 45-year-old resident of the suspect.
-
-Meanwhile, two unidentified gunmen had been shot dead by two unidentified gunmen in a motorbike on the 21st morning.
-
-The victim was identified as the manager who acted as the motorcyclist for the murder.
-
-...
-
-[Data](articles/752f7586.json)
-
-[Extended Data](ext_articles/752f7586.ext.json)
-
----
-
-### Locals outraged as Israeli and Ukrainian tourists operate businesses in South
-
-*2024-02-28 06:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Locals-outraged-as-Israeli-and-Ukrainian-tourists-operate-businesses-in-South/155-277842) · `en`
-
-Following the Daily Mirror’s expose on Russian tourists engaging in illegal businesses in several areas in the south, it has now come to light that many Israeli and Ukrainian tourists are also engaged in running similar businesses in the south, hampering local businesses and causing much concern among industry stakeholders.
-
-The Daily Mirror visited these areas along the southern coastal belt and learnt that business operations run by Israeli and Ukrainian tourists include boutique hotels, restaurants and cafes.
-
-However, local tour operators claim that most Ukrainian tourists have even reached the extent of organizing excursions which they claim is illegal as tourists don’t have a license to operate as inbound tour guides.
-
-Local nationals in the south claim that if an immediate monitoring process is not enforced, tourists and locals are likely to clash as the tourists are attempting to hinder local businesses and hinder their livelihoods.
-
-...
-
-[Data](articles/7528bf48.json)
-
-[Extended Data](ext_articles/7528bf48.ext.json)
-
----
-
-### Locals outraged as Israeli and Ukrainian tourists operate businesses in South
-
-*2024-02-28 06:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Locals-outraged-as-Israeli-and-Ukrainian-tourists-operate-businesses-in-South/108-277842) · `en`
-
-Following the Daily Mirror’s expose on Russian tourists engaging in illegal businesses in several areas in the south, it has now come to light that many Israeli and Ukrainian tourists are also engaged in running similar businesses in the south, hampering local businesses and causing much concern among industry stakeholders.
-
-The Daily Mirror visited these areas along the southern coastal belt and learnt that business operations run by Israeli and Ukrainian tourists include boutique hotels, restaurants and cafes.
-
-However, local tour operators claim that most Ukrainian tourists have even reached the extent of organizing excursions which they claim is illegal as tourists don’t have a license to operate as inbound tour guides.
-
-Local nationals in the south claim that if an immediate monitoring process is not enforced, tourists and locals are likely to clash as the tourists are attempting to hinder local businesses and hinder their livelihoods.
-
-...
-
-[Data](articles/d679c553.json)
-
-[Extended Data](ext_articles/d679c553.ext.json)
-
----
-
-### Minor showers to several areas
-
-*2024-02-28 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193893) · `si`
-
-The Department of Meteorology announces that several showers may occur in the Eastern, Uva and North Central provinces.
-
-Thundershowers will develop at several places in the Western and Sabaragamuwa provinces and in the Kandy, Galle and Matara districts.
-
-From time to time in the East, East, North, South, Southern, Uva and Eastern Provinces. Strong winds can occur at about 30-40 times.
-
-The Department of Meteorology has requested the public to take steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-Meanwhile, the Department of Meteorology states that the temperature of several areas in the island will continue to pay attention today (28).
-
-The heat of the human body in the North Western and Southern provinces, the heat of the human body will be at focus.
-
-Deputy Director Merrill Mendis said that it should be followed by adequate water, including the restriction in the shade, and the stress of the expanding the stress, including the stressing outdoors.
-
-◼️
-
-[Data](articles/47da56ae.json)
-
-[Extended Data](ext_articles/47da56ae.ext.json)
-
----
-
-### Knowing these things about Ronnie;
-
-*2024-02-28 04:35:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c101lgl0p74o) · `si`
-
-Knowing these things about Ronnie;
-
-Ronnie de Mel, a special politician in Sri Lanka, passed away on Tuesday (27th).
-
-Relatives say that 98 years old, he passed away while receiving treatment at a private hospital in Colombo.
-
-Ronnie de Mel, who has commenced the public service as an administrative officer, became a more and more talked politician.
-
-Who is the finance minister who presented the budget in Sri Lanka more than mostly?
-
-His parents joined the Ceylon Civil Service in 1948 in 1948, he served attached to the Department of Industry, Vavuniya Kachcheriya, Puttalam and Social Services Department.
-
-Although Ronnie de Mel was named, his real name was Ronal Joseph Godfry de Mel.
-
-He was educated at St. Thomas' College, Mount Lavinia, he made a Bachelor of Arts Degree from the University of Ceylon.
-
-The major subjects he studied there were English, Latin, Greek, and History.
-
-...
-
-[Data](articles/a5fe5ab4.json)
-
-[Extended Data](ext_articles/a5fe5ab4.ext.json)
-
----
-
-### Why the Sri Lankan economy is in crisis, while the cause is not addressed
-
-*2024-02-28 03:31:43* · [`dailyftlk`](https://www.ft.lk/columns/Why-the-Sri-Lankan-economy-is-in-crisis-while-the-cause-is-not-addressed/4-758939) · `en`
-
-The idea in a Balance of Payments crisis, is to enhance exports to earn more foreign exchange, but the solutions put forward do not direct the economy in such a direction
-
-Though it is now almost two years since the economic crisis blew over, Sri Lanka has not yet addressed the real cause of the crisis and is seeking solutions for the symptoms, while the cause lies elsewhere.
-
-What is most frightening is that the solutions that are being acted on would cause greater damage to the economy to a point where it would totally be out of control, with no way out, even if we wanted to get back to a development path.
-
-The past two years was valuable time that Sri Lanka had, to devise a way forward, which was lost in seeking solutions that were not related to the crisis. All the effort of the Government is to be able to go back to borrowing again and fall into a bigger mess.
-
-...
-
-[Data](articles/e22cafa4.json)
-
-[Extended Data](ext_articles/e22cafa4.ext.json)
 
 ---

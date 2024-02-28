@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 13:33:46**
+As of **2024-02-28 13:52:01**
 
 ## Newspaper Stats
 
@@ -26,45 +26,55 @@ adaderanasinhalalk | 1,479
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,764 (99.9%) of 9,775 articles have been extended.
+9,775 (100.0%) of 9,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### புதிய புற்களை தேடி உண்டு வரும் 100க்கும் மேற்பட்ட யானை கூட்டம்
+### More than 100 elephant crowd that searches new grass
 
 *2024-02-28 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177495) · `ta`
 
-யானை கூட்டம் ஒன்று வேளாண்மை அறுவடையின் பின்னர்  புதிதாக முளைக்கின்ற புல் இனங்களை உண்பதற்காக  நாடி வருகின்றன.
+An elephant crowd is seeking to eat new sprouts after agricultural harvest.
 
-அம்பாறை மாவட்டத்தில்  இன்று புதன்கிழமை (28)  காலை   மதியம்    திடீரென சம்மாந்துறை பொலிஸ் பிரிவிற்குட்பட்ட வளத்தாப்பிட்டி வில்லுக்குளப்  பகுதிகளை ஊடறுத்து யானைகள்  இவ்வாறு வருகை தந்துள்ளன.
+Elephants arrived in the Ampara district on Wednesday morning (28) afternoon.
 
-இதன்போது  குறித்த யானைகள் அங்குள்ள புதிய புல் இனங்களை உண்ணுவதுடன் கூட்டத்தில் உள்ள யானை குட்டிகள் விளையாடுவதையும் காண முடிந்தது.இன்று சுமார் பெரிய யானைகள் மற்றும் குட்டிகள் என 100 க்கும் அதிகமான  யானைகள் அப்பகுதியில்  உள்ள அறுவடை செய்யப்பட்ட வயல் நிலங்களை நோக்கி   வருகை தந்திருந்தன.
+At the time, the elephants were eating new grasses and the elephant cubs in the crowd were playing.
 
-தினமும்  அப்பகுதிக்கு வரும்  யானை கூட்டத்தை மக்கள் பார்வையிட்டு வருகின்றதுடன்  இவ்வாறு வயல்வெளிகளை  நோக்கி வருகை தந்துள்ள யானைகள் ஊருக்குள் பிரவேசிக்க முடியாத வகையில் பார்வையாளர்களாக உள்ள மக்கள் சத்தங்களை எழுப்பிய வண்ணம் உள்ளனர்.
+People visit the elephant crowd every day and the elephants who are visiting the fields are making noises that are unable to enter the city.
 
-...
+In addition, the fire is being set on fire in the area, but more than 30 elephants visit the debris every day and damage the belongings of the nearby civilians.
+
+◼️
 
 [Data](articles/f7619ab4.json)
 
+[Extended Data](ext_articles/f7619ab4.ext.json)
+
 ---
 
-### කැනඩා සිහින සිහිනයක්ම කළ කාන්තාවක් අත්අඩංගුවට
+### Woman arrested for making a dream dream
 
 *2024-02-28 12:54:19* · [`adalk`](https://www.ada.lk/breaking_news/කැනඩා-සිහින-සිහිනයක්ම-කළ-කාන්තාවක්-අත්අඩංගුවට/11-408326) · `si`
 
-කැනඩාවේ රැකියා දෙන බව පවසා රුපියල් ලක්ෂ 65 කට අධික මුදලක් වංචා කර  වසර 8 කට අධික කාලයක් විදේශගතව සැඟව සිටි කාන්තාවක් අත්අඩංගුවට ගත් බව පානදුර  කොට්ඨාස විශේෂ අපරාධ විමර්ශන කාර්යාංශය කියයි.
+The Panadura Division Special Investigation Bureau says that a woman has been arrested abroad for more than Rs.
 
-අත්අඩංගුවට ගත් සැකකාරිය ද්විත්ව පුරවැසිභාවය  හිමි තැනැත්තියක් බව පොලිසිය කියයි. සැකකාරිය  2016 වර්ෂයේ දී පානදුර ප්‍රදේශයේ  කාර්යාලයක් පවත්වාගෙන යමින්  එම ප්‍රදේශයේම ප්‍රසිද්ධ පාසලක මේ වන විට මියගොස් සිටින ගුරුවරියක්  සමග එක්ව මෙම වංචාව සිදුකර තිබූ බව පොලිසිය සඳහන් කරයි.
+Police say the suspect is a dual citizenship.The suspect was conducting the fraud, while maintaining an office in Panadura in 2016, police said.
 
-සැකකාරියන්ගේ වංචාවට හසුවූ වත්තල, පානදුර කොළඹ හා මාතර ආදී ප්‍රදේශවල පුද්ගලයන් රුපියල් ලක්ෂ 12 ,13 15 හා 25 ආදි මුදල් ප්‍රමාණයන් විදේශ  ගතවීමේ බලාපොරොත්තුව ලබාදී  තිබූ බවත්  පානදුර කොට්ඨාස විශේෂ අපරාධ විමර්ශන කාර්යාංශය වෙත  ලද  පැමිණිලි හතරෙන් සනාථ වන බව පොලිස් නිලධාරියකු පැවසීය.
+The number of complaints received by the Panadura Divisional Special Criminal Investigation Bureau has been confirmed that the suspects have been abroad for the frauds of the suspects.
 
-එම වර්ෂයේ අග භාගයේ දී හිටි හැටියේම කැනඩාව කරා පලා ගිය   සැකකාරිය මෙම මස 13 වෙනි දින මෙරටට පැමිණ ඇති බවට ලද තොරතුරකට අනුව මාලඹේ ප්‍රදේශයේදී ඊෆය් (27) රාත්‍රී අත්අඩංගුවට ගැනීමට හැකි වූ බව පොලිසිය කියයි
+Police said that the suspect had come to Canada at the end of the year, the EFIs (27) in Malabe were arrested in general area Malabe.
 
-...
+A police officer had also received a foreign travel ban against the suspect.A high police officer said he issued police messages to every police station in the island to find out if they were provided with jobs in this way.
+
+The 50 year old suspect is to be produced before the Panadura Magistrate's Court.
+
+◼️
 
 [Data](articles/36e8a495.json)
+
+[Extended Data](ext_articles/36e8a495.ext.json)
 
 ---
 
@@ -90,55 +100,63 @@ Sri Lanka Freedom Employees Union Secretary, Hasantha Yasaratne, expressed his v
 
 ---
 
-### பாலியல் துஷ்பிரயோகத்தில் ஈடுபட்ட நபருக்கு 7 வருட கடூழிய சிறைதண்டனை !
+### 7 years rigorous imprisonment for a person involved in sexual abuse
 
 *2024-02-28 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177494) · `ta`
 
-வலப்பனை - மத்துரட்ட பொலிஸ்  பிரதேசத்தில் 14 வயது சிறுவன் ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகம் செய்ததாக குற்றம் சுமத்தப்பட்ட நபருக்கு நுவரெலியா மேல் நீதி மன்றம் 07 வருட கடூழிய சிறை தண்டனை  வழங்கி தீர்ப்பளிக்கப்பட்டது.
+The Nuwara Eliya High Court has been sentenced to seven years rigorous imprisonment for a man accused of sexually abusing a 14 -year -old boy in the Valappanai - Mathuratta police area.
 
-இந்த தீர்ப்பினை நுவரெலியா மேல் நீதிமன்ற நீதவான் விராஜ் வீரசூரிய நேற்று செவ்வாய்க்கிழமை (27) செவ்வாய்க்கிழமை  மாலை வழங்கினார். HCR/05/2017 இலக்கம் கொண்ட  இந்த வழக்கு  2017 ஆண்டு முதல் கடந்த ஏழு வருடங்களாக நுவரெலியா மேல் நிதி மன்றத்தில் விசாரிக்கப்பட்டு வந்தது.
+Nuwara Eliya High Court Magistrate Viraj Weerasuriya presented the verdict on Tuesday (27) evening.. The case, which has been HCR/05/2017, has been heard at the Nuwara Eliya Upper Finance Forum for the past seven years since 2017.
 
-இந்நிலையில் குற்றவாளியாக இனங்காணப்பட்ட வலப்பனை - மத்துரட்ட பிரதேசத்தை சேர்ந்த மந்திலக்க திஸாநாயக்க என்ற நபர் 14 வயது சிறுவன் ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகம் செய்ததாக இவருக்கு எதிராக வழக்கு தொடரப்பட்டிருந்தது.
+Mandilaka Dissanayake, a 14 -year -old boy from Mathuratta area, who was found guilty of the incident, was charged with sexual abuse of a 14 -year -old boy three times.
 
-இந்த வழக்கின் தீர்ப்பை நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரிய நேற்றைய தினம் மாலை வழங்கினார். இதன்போது குற்றவாளியாக இனங்கானப்பட்ட மந்திலக்க திஸா நாயக்கவிற்கு  எதிரான மூன்று வழக்குகளும் ஏழு வருட கடூழிய சிறை தண்டனை வழங்கி தீர்ப்பளித்தார்.
+Nuwara Eliya High Court Judge Viraj Weerasuriya presented the verdict yesterday evening. The three cases against Mandilaka Dissa Nayaka, who were found guilty, sentenced him to seven years rigorous imprisonment.
+
+In addition, the victim has to pay compensation of 04 lakhs 50 thousand rupees. If this amount is not paid, he will be sentenced to three years in prison. He also ruled.
 
 ...
 
 [Data](articles/812c778c.json)
 
+[Extended Data](ext_articles/812c778c.ext.json)
+
 ---
 
-### இலங்கை தொடர்பான தீர்மானங்கள் - ஆதாரங்களை சேகரிக்கும் பொறிமுறையை மீண்டும் நிராகரித்தது  இலங்கை
+### Resolutions on Sri Lanka - Sri Lanka rejected the mechanism for collecting evidence
 
 *2024-02-28 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177488) · `ta`
 
-ஐக்கிய நாடுகள் மனித உரிமை பேரவையின் செயற்பாடுகள்  வாக்குவங்கி அரசியல் அல்லது குறுகிய அரசியல் நோக்கங்களுக்குள் சிக்குப்படக்கூடாது என  இலங்கை வெளிவிவகார அமைச்சர் அலிசப்ரி தெரிவித்துள்ளார்
+Sri Lanka's Foreign Minister Alizabri says the United Nations Human Rights Council should not be trapped in political or narrow political purposes
 
-இலங்கை கடுமையான தடைகளை எதிர்நோக்குகின்ற போதிலும் மக்களிற்கு பயன் அளிக்ககூடிய ஆக்கபூர்வமான ஐக்கிய நாடுகள் மனித உரிமை பேரவையின் வேலைதிட்டங்களுடன் தொடர்ந்தும் தீவிரமாகவும் ஆக்கபூர்வமாகவும் ஈடுபட்டுவருகின்றது எனவும் வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+The Foreign Minister said that despite Sri Lanka faced severe obstacles, the United Nations Human Rights Council continues to be actively and constructive.
 
-இலங்கை தொடர்பான ஐக்கியநாடுகளின் தீர்மானங்களை இலங்கை நிராகரித்துள்ளது என்பமை மீண்டும் வலியுறுத்தியுள்ள அலிசப்ரி இந்த தீர்மானங்கள் காரணமாக ஏற்படுத்தப்பட்ட ஆதாரங்களை சேகரிக்கும் பொறிமுறையையும் நிராகரிப்பதாக தெரிவித்துள்ளார்.
+Alizabri reiterated that Sri Lanka has rejected the United Nations resolutions on Sri Lanka and rejected the mechanism of collecting evidence caused by these decisions.
 
-இவ்வாறான பொறிமுறைகள் பயன் அற்றவை மனித உரிமை பேரவை ஸ்தாபிக்கப்பட்ட கொள்கைகளிற்கு எதிரானவை எனவும் அவர் தெரிவித்துள்ளார்.
+He added that these mechanisms are ineffective and are against the policies of the Human Rights Council.
 
-காசா எதிர்கொண்டுள்ள நெருக்கடி குறித்த ஐக்கியநாடுகள் மனித உரிமைபேரவையின் அணுகுமுறை அதன் நம்பகதன்மைக்கான ஒரு அமிலபரிசோதனையாக அமையும் எனவும் அலிசப்ரி தெரிவித்துள்ளார்.
+Alizabri said the United Nations Human Rights Council's attitude towards the crisis faced by Gaza would be an acidic examination for its credibility.
 
 ◼️
 
 [Data](articles/5e2c28e6.json)
 
+[Extended Data](ext_articles/5e2c28e6.ext.json)
+
 ---
 
-### මේ දවස්වල පාසල් සිසුන් උෂ්ණත්වයට නිරාවරණය කරන්න එපා
+### Don't expose school students to temperature these days
 
 *2024-02-28 12:00:55* · [`adalk`](https://www.ada.lk/breaking_news/මේ-දවස්වල-පාසල්-සිසුන්-උෂ්ණත්වයට-නිරාවරණය-කරන්න-එපා/11-408324) · `si`
 
-මේ දිනවල පරිසරයේ පවතින අධික උෂ්ණත්ව තත්ත්වය තවදුරටත් ඉහළ යා හැකි බවට ලැබී ඇති තොරතුරු අනුව, අද හෙට සහ අනිද්දා දින තුළ (පෙබ. 28, 29 සහ මාර්තු 01) දිවයිනේ කිසිදු පාසලක සිසු දරුවන් ඉහළ උෂ්ණත්ව ඇති අවස්ථාවන්හි එළිමහන් ක්‍රීඩා පුහුණු කටයුතු හෝ ක්‍රීඩා උත්සව හෝ වෙනත් බාහිර ක්‍රියාකාරකමකට හෝ යෙදවීමෙන් වළකින ලෙස අධ්‍යාපන අමාත්‍යාංශය සියලු පාසල් වෙත උපදෙස් ලබා දී තිබේ.
+Threw the high temperature status of the environment these days, today (February is tomorrow and tomorrow). The Ministry of Education has instructed all schools to prevent outdoor sports or other external activity at any school in the country.
 
-සියලු ම පාසල් වල විදුහල්පතිවරුන් මේ සම්බන්ධයෙන් දැනුවත් කිරීම පිණිස අදාළ උපදෙස් මේ වන විටත් පළාත් සහ කලාප අධ්‍යාපන බලධාරීන් වෙත යොමු කර ඇති අතර, සෞඛ්‍ය අමාත්‍යාංශය හා අධ්‍යාපන අමාත්‍යාංශය එක්ව පාසල් වෙත නිකුත් කර ඇති උපදෙස් මාලාව අනුව ඉදිරියේ දී ද කටයුතු කරන ලෙස වැඩිදුරටත් දැනුම් දෙනු ලැබේ.
+The instructions have already been referred to the Provincial and Zonal Educational Authorities to educate the principals of all schools to educate the matter..
 
 ◼️
 
 [Data](articles/7511b272.json)
+
+[Extended Data](ext_articles/7511b272.ext.json)
 
 ---
 
@@ -410,6 +428,8 @@ The Colombo Stock Exchange was trading up; The All Share Price Index was up 0.23
 
 [Data](articles/5180c66b.json)
 
+[Extended Data](ext_articles/5180c66b.ext.json)
+
 ---
 
 ### The largest anaconda in the lungs of the earth
@@ -444,37 +464,47 @@ Addressing the reports, E Thenirajan, Dean, RGGH, said that based on the directi
 
 ---
 
-### ජපානය සෞඛ්‍යයට තෙල් බෙදයි
+### Japan distributes oil to health
 
 *2024-02-28 10:58:13* · [`adalk`](https://www.ada.lk/breaking_news/ජපානය-සෞඛ්‍යයට-තෙල්-බෙදයි/11-408323) · `si`
 
-ශ්‍රී ලංකාව සහ ජපානය අතර 70 වසරක මිත්‍රත්වය සනිටුහන් කරමින්  ජපන් රජය මෙරට සෞඛ්‍ය සේවාවේ ප්‍රවාහන කටයුතු ‍සදහා  ලබාදුන් ත්‍යාගශීලී ඉන්ධන ප්‍රදානය වෙනුවෙන් ජපන් රජයට  සහ ජනතාවට ස්තූතිය පුද කිරීම සහ එම ඉන්ධන බෙදාහැරීමේ කටයුතු වලට අදාල Fuel Management Information System (FIMS) පද්ධතිය නිල වශයෙන් දියත් කිරීම 26දා සෞඛ්‍ය අමාත්‍යාංශයේ ශ්‍රවණාගාරයේ  දී සිදු කෙරිනි.
+Thanks to the Japanese Government and the Government for a generous fuel given to the Sri Lankan health care and launch the Fuel Management System of Sri Lanka and the FIX system (FIMS)The Health Ministry was conducted at the auditorium.
 
-එම කටයුතු සිදු කෙරුණේ සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ සහ ශ්‍රී ලංකාවේ ජපාන නියෝජ්‍ය තානාපති අත්සුකි කොටාරෝ (Mr.Atsuki Kotaro) මහතාගේ ප්‍රධානත්වයෙනි. මෙම ඩීසල් ප්‍රදානය සෞඛ්‍ය ආයතනවලට බෙදාහැරීමේ කටයුතු ද 26 දා නිල වශයෙන් ආරම්භ කරන ලදි.
+The activities were made by Minister of Health and Industry Dr. Ramesh Pathirana and Deputy Ambassador of Japan in Sri Lanka by the chairman of Japa.. The distribution of the diesel grant was officially launched on the 26th.
 
-සියළු සෞඛ්‍ය ආයතනවලට  ක්‍රමවත්ව බෙදාහැරිමේ කටයුතු සදහා මෙම Fuel Management Information System (FIMS) පද්ධතිය නිර්මාණය කර ඇත.  එම පද්ධතියට ඉන්ධන ලබාගත් වාහන, ලබාගත් ඉන්ධන ප්‍රමාණය, සෞඛ්‍ය ආයතන පිළිබද සියළු තොරතුරු දත්ත ඇතුළත් කරනු ලබයි. එම සියළු කටයුතු ජපන් රජයේ සෘජු අධීක්ෂණය යටතේ සිදුවේ.
+The FIMS system has been created for the activities of all health institutions to systematically distribution.Vehicles obtained fuel to the system, which obtained all information on the amount of fuel, and health institutions enter all information. All these activities are under the direct supervision of the Government of Japan.
 
-...
+The fuel rose as a grant was worth Rs. 12 billion, the Health Minister said that it is sufficient for two years.
+
+◼️
 
 [Data](articles/6172b574.json)
 
+[Extended Data](ext_articles/6172b574.ext.json)
+
 ---
 
-### පාතාල තර්ජන නිසා IP ආරක්ෂාව පතා රටින් පිටවේ
+### Departure from country to deportation due to underworld threats
 
 *2024-02-28 10:54:04* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-තර්ජන-නිසා-IP-ආරක්ෂාව-පතා-රටින්-පිටවේ/11-408322) · `si`
 
-පාතාල කල්ලි සාමාජිකයන්ගෙන් තමාට සහ සිය පවුලට එල්ල වූ මරණ තර්ජන හමුවේ කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා ඉකුත් 14 වනදා සිය පෞද්ගලික ආරක්ෂයන්ද සමඟ බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළින් ප්‍රංශය බලා පිටත්ව ගොස් ඇත.
+The OIC of the Originated Criminal Division of the Colombo Crimes Division, the OIC of the Colombo Crimes Division has left for France with his private security with his own private security with his own private security.
 
-ඔහුට දුරකථන මාර්ගයෙන් මරණ තර්ජන එල්ල කළ පිරිස අතර ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වන කංජිපානි ඉම්රාන්, හීනටියන මහේෂ් සිටින බවද සඳහන් ය.
+Among the deaths were threatened with the deaths of the deaths, he is a powerful drug dealer, Hinatiyana Mahesh.
 
-පසුගියදා අදුරුප්පුවීදිය පොලීසිය තුළදී සැකකරුවන් දෙදෙනකුට වස ලබාදීමේ සිද්ධියේ විමර්ශන සිදුකළේද පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතාගේ ප්‍රධානත්වයෙන් යුත් කණ්ඩායමකි. විමර්ශනවලදී  සැකකරුවන් කිහිපදෙනෙකු අත්අඩංගුවට පත්වීමත් සමග නැවත  පොලිස් පරීක්ෂකවරයාට මරණ තර්ජන එල්ලවී තිබුණි.
+Investigations were carried out by police inspector Duminda Jayatilleke. With the arrest of several suspects in investigations, the police inspector had been threatened with death.
 
-කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා පසුගිය වසරේ වැඩිම මනුෂ්‍ය ඝාතන සැකකරුවන් පිරිසක් හා නීතිවිරෝධී ගිනි අවි හා අත්බෝම්බ වැඩිම ප්‍රමාණයක් අත්අඩංගුවට ගත් නිලධාරියා බව පොලිස් ආරංචිමාර්ග පවසයි.
+The organized crime department of the Colombo Crimes Division (Crime Division) Police, Duminda Jayatilleke, police sources said.
+
+Duminda Jayatilleke, who was conducting investigations into the case of the Qurata CID, was arrested by investigations into the incident.
+
+A official firearm had been issued to Inspector Duminda to have the security of Inspector Duminda due to heavy threats from underworld gang members.
 
 ...
 
 [Data](articles/0ae3fd4d.json)
+
+[Extended Data](ext_articles/0ae3fd4d.ext.json)
 
 ---
 
@@ -515,6 +545,8 @@ Russia United States, India, and France were among countries that had offered nu
 ...
 
 [Data](articles/0d5441f8.json)
+
+[Extended Data](ext_articles/0d5441f8.ext.json)
 
 ---
 
@@ -608,21 +640,23 @@ Michelle Obama received almost twenty percent of the vote among the candidates v
 
 ---
 
-### ගාසා තීරයේ ළමුන් වෙනුවෙන් ජනපති අරමුදලක් පිහිටුවයි - ‌‌ඩොලර් මිලියක පරිත්‍යාගයක් දෙන්න යයි
+### President sets for children in Gaza - a dollar of donation
 
 *2024-02-28 10:29:19* · [`adalk`](https://www.ada.lk/breaking_news/ගාසා-තීරයේ-ළමුන්-වෙනුවෙන්-ජනපති-අරමුදලක්-පිහිටුවයි---‌‌ඩොලර්-මිලියක-පරිත්‍යාගයක්-දෙන්න-යයි/11-408321) · `si`
 
-ගාසා තීරයේ ගැටුම්වලින් විපතට පත්වූවන් වෙනුවෙන් සහන සැලසීම සඳහා “ගාසා හි ළමා අරමුදල (Children of Gaza Fund)” පිහිටුවීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත් කළ අමාත්‍ය මණ්ඩල යෝජනාවට අනුමැතිය හිමිව තිබේ.
+President Ranil Wickremesinghe proposal has been approved by President Ranil Wickremesinghe to set up the 'Children of Gazaza Fund' to provide relief to the victims of the Gaza.
 
-ඒ අනුව සියලුම අමාත්‍යාංශ සහ රජයේ ආයතන එක්ව මෙවර ඉෆ්තාර් සැමරුම් පැවැත්වීම සඳහා වෙන් කර තිබූ ප්‍රතිපාදන මෙම අරමුදලට ලබා දෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා උපදෙස් ලබාදී ඇත.
+Accordingly, all ministries and government agencies jointly instructed President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena to provide allocations for this fund to hold this year.
 
-එමෙන්ම මේ සඳහා ජනතාවගේ දායකත්වය ද අපේක්ෂා කරන අතර විපතට පත් දරුවන්ගේ සෞඛ්‍ය පහසුකම් වෙනුවෙන් ශ්‍රී ලංකා රජය විසින් ඇමරිකානු ඩොලර් මිලියනයක පරිත්‍යාගයක් එක්සත් ජාතීන්ගේ නිල නියෝජිතායතන හරහා ලබා දීමට නියමිතය.
+The Government of Sri Lanka is expected to be provided with the official agencies of the United Nations for the health facilities of affected children.
 
-රාමසාන් මාසය තුළ “ගාසා හි ළමා අරමුදල (Children of Gaza Fund)” සඳහා දායක වීමට කැමති පරිත්‍යාගශීලීන් වේ නම්, එම පරිත්‍යාගයන් අප්‍රේල් මස 11 වනදාට පෙර ලංකා බැංකුවේ (7010), තැප්‍රොබේන් ශාඛාවේ (747) පිහිටි ගිණුම් අංක 7040016 වෙත තැන්පත් කර ඊට අදාළ රිසිට්පත 077-9730396 වෙත Whatsapp හරහා යොමු කරන ලෙස ජනාධිපති කාර්යාලය දැනුම් දී සිටියි.
+If the donors are willing to contribute to the Gaza's Fund (CHILDREN OF GAZA FUND) "in the month of Ramazan, the donations are deposited to the Account No. 704001, Bank of Ceylon (7047) in the 15th of April.The Presidential Office has informed the receipt to 077-973036 through whatsApp.
 
 ◼️
 
 [Data](articles/28642d40.json)
+
+[Extended Data](ext_articles/28642d40.ext.json)
 
 ---
 
@@ -907,6 +941,8 @@ It will be given be examined whether the default was done willfully, or even if 
 ...
 
 [Data](articles/fbaa4ed6.json)
+
+[Extended Data](ext_articles/fbaa4ed6.ext.json)
 
 ---
 

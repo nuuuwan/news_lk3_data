@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 14:49:45**
+As of **2024-02-28 15:02:32**
 
 ## Newspaper Stats
 
-*Scraped **9,785** Articles*
+*Scraped **9,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 503
 dailyftlk | 519
 islandlk | 521
 adalk | 829
-adaderanalk | 1,175
+adaderanalk | 1,179
 tamilmirrorlk | 1,191
 virakesarilk | 1,343
-dailymirrorlk | 1,479
 adaderanasinhalalk | 1,481
+dailymirrorlk | 1,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,785 (100.0%) of 9,785 articles have been extended.
+9,785 (99.9%) of 9,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Timelines, predictability key issues for next sovereign debt roundtable - Georgieva
+
+*2024-02-28 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97591/timelines-predictability-key-issues-for-next-sovereign-debt-roundtable-georgieva) · `en`
+
+International Monetary Fund chief Kristalina Georgieva on Tuesday said she wants to shine a spotlight on the timelines and predictability of debt restructuring processes at the next meeting of the Global Sovereign Debt Roundtable in April.
+
+Georgieva told Reuters she hoped to make progress on the issue when the roundtable – which includes debtor countries and official and private creditors – meet in Washington in April during the spring meetings of the IMF and the World Bank.
+
+“Do we see scope for improvement? Yes. And we would like to use the next Global Sovereign Debt Roundtable in the spring to talk about predictability and timelines, because this is where the biggest difficulty for the debtor countries is,” she said in an interview before a meeting in Brazil of finance officials from the Group of 20 major economies.
+
+“Everything takes much longer than countries need and expect,” she said.
+
+...
+
+[Data](articles/8c7d3f1d.json)
+
+---
+
+### World’s lowest fertility rate plunges again in 2023 in South Korea
+
+*2024-02-28 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Worlds-lowest-fertility-rate-plunges-again-in-2023-in-South-Korea/108-277891) · `en`
+
+SEOUL, Feb 28 (Reuters) - South Korea's fertility rate, already the world's lowest, continued its dramatic decline in 2023, as women concerned about their career advancement and the financial cost of raising children decided to delay childbirth or to not have babies.
+
+The average number of expected babies for a South Korean woman during her reproductive life fell to a record low of 0.72 from 0.78 in 2022, data from Statistics Korea showed on Wednesday.
+
+That is far below the rate of 2.1 per woman needed for a steady population and well behind the rate of 1.24 in 2015 when concerns about issues such as the cost of housing and education were lower.
+
+Since 2018, South Korea has been the only Organisation for Economic Co-Operation and Development (OECD) member with a rate below 1, defying the billions of dollars spent by the country to try to reverse the trend that led the population to decline for a fourth straight year in 2023.
+
+...
+
+[Data](articles/c0cc3ca6.json)
+
+---
 
 ### Sri Lankan accused of raping a South Korean girl
 
@@ -89,6 +125,52 @@ UNFPA Sri Lanka underscores its enduring collaboration with the Government of Sr
 [Data](articles/c6d5c163.json)
 
 [Extended Data](ext_articles/c6d5c163.ext.json)
+
+---
+
+### Don’t let ‘domestic vote bank politics’ overtake council’s work - Sabry tells UNHRC
+
+*2024-02-28 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97590/dont-let-domestic-vote-bank-politics-overtake-councils-work-sabry-tells-unhrc) · `en`
+
+Sri Lanka’s Foreign Affairs Minister Ali Sabry has urged the United Nations Human Rights Council (UNHRC) to refrain from allowing short-term political gains or “domestic vote bank politics” to overtake the work of the Council.
+
+Addressing the High-Level segment of the 55th Session of the council through a pre-recorded video statement on 27 February, the Minister highlighted that despite the severe constraints faced by the country, Sri Lanka continued to engage actively and constructively with an extensive array of helpful working methods of the council, that are productive and beneficial to the people.
+
+Foreign Minister Sabry reiterated Sri Lanka’s rejection of the UNHRC Resolutions 46/1 and 51/1 and the external evidence gathering mechanism established by these resolutions, while emphasizing that such mechanisms are counterproductive and unhelpful and contradict the founding principles of the council.
+
+...
+
+[Data](articles/9ab77ae9.json)
+
+---
+
+### Protect universities...
+
+*2024-02-28 13:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protect-universities/110-277889) · `en`
+
+The University Trade Union Joint Committee (UTUJC) staged a protest in front of the Visual and Performing Arts University today, demanding that the authorities solve their salary anomalies and take immediate action to enroll new lecturers to continue with the students' academic activities. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/2dccc620.json)
+
+---
+
+### South Korea’s fertility rate dropped to fresh record low in 2023
+
+*2024-02-28 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97589/south-koreas-fertility-rate-dropped-to-fresh-record-low-in-2023) · `en`
+
+South Korea’s fertility rate, already the world’s lowest, dropped to a fresh record low in 2023, defying the billions of dollars spent by the country to try to reverse the trend as the population shrank for a fourth straight year.
+
+The average number of expected babies for a South Korean woman during her reproductive life fell to 0.72 from 0.78 in 2022, data from Statistics Korea showed on Wednesday.
+
+That is far below the rate of 2.1 per woman needed for a steady population and well behind the rate of 1.24 in 2015 when concerns about issues such as the cost of housing and education were lower.
+
+Since 2018, South Korea has been the only Organisation for Economic Co-Operation and Development (OECD) member with a rate below 1, defying the billions of dollars spent by the country to try to reverse the trend that led the population to decline for a fourth straight year in 2023.
+
+...
+
+[Data](articles/3daa6369.json)
 
 ---
 
@@ -271,6 +353,24 @@ The Foreign Minister reiterated Sri Lanka's rejection of the HRC resolutions 46/
 [Data](articles/67aa473e.json)
 
 [Extended Data](ext_articles/67aa473e.ext.json)
+
+---
+
+### Interim order issued against divestiture of SLT, Lanka Hospitals
+
+*2024-02-28 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97588/interim-order-issued-against-divestiture-of-slt-lanka-hospitals-) · `en`
+
+The Court of Appeal on Wednesday (28 Feb.) issued an interim order suspending all measures regarding the divestiture of Sri Lanka Telecom (SLT) and Lanka Hospitals until 12 March.
+
+The relevant order was issued by Appellate Court Judge D. N. Samarakoon upon consideration of a writ petition filed by Lycamobile SARL and Pettigo Comércio Internacional on behalf of SLT and another filed by Lyca Leasing Holding Limited and HIMS International on behalf of Lanka Hospitals.
+
+The petitioning companies claimed that despite having submitted all required documents to the respondents for the transfer of 50.23% state-owned shares in SLT and 51.34% shares in Lanka Hospitals, the Cabinet sub-committee assigned to the restructuring of State-Owned Enterprises rejected the said applications for no apparent reason.
+
+Thus, the companies noted that the committee’s decision to reject their applications is not only arbitrary and unfair, but also unlawful, given that they had fulfilled all pre-requisites.
+
+...
+
+[Data](articles/265d8d51.json)
 
 ---
 
@@ -832,6 +932,24 @@ Michelle Obama received almost twenty percent of the vote among the candidates v
 
 ---
 
+### Michelle Obama emerges as top contender to replace Biden
+
+*2024-02-28 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Michelle-Obama-emerges-as-top-contender-to-replace-Biden/107-277881) · `en`
+
+US, Feb 28 - According to a survey, Michelle Obama, the former first lady of the United States, is the front-runner to succeed President Joe Biden as the Democratic party’s presidential nominee.
+
+In the Rasmussen Reports polls, nearly half of the Democratic voters stated that they would like someone other than Joe Biden to run for US President.
+
+When asked if they were in favor of the party “finding another candidate to replace Joe Biden before the election in November,” 48% of Democrats responded in the affirmative, while 38% disagreed. Merely 33% of Democrats think there will be a change in the ballot.
+
+Michelle Obama received almost twenty percent of the vote among the candidates vying to replace 81-year-old Joe Biden. The other candidates included Michigan Governor Gretchen Whitmer, California Governor Gavin Newsom, former Secretary of State Hillary Clinton, and Vice President Kamala Harris.
+
+◼️
+
+[Data](articles/71681db0.json)
+
+---
+
 ### President sets for children in Gaza - a dollar of donation
 
 *2024-02-28 10:29:19* · [`adalk`](https://www.ada.lk/breaking_news/ගාසා-තීරයේ-ළමුන්-වෙනුවෙන්-ජනපති-අරමුදලක්-පිහිටුවයි---‌‌ඩොලර්-මිලියක-පරිත්‍යාගයක්-දෙන්න-යයි/11-408321) · `si`
@@ -1188,11 +1306,11 @@ Meanwhile, Vasantha Samarasinghe, Vasantha Samarasinghe, says that the electrici
 
 *2024-02-28 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97581/suspect-wanted-over-mahabage-shooting-killed-in-shootout-with-stf) · `en`
 
-A person wanted in connection with the recent shooting incident in Mahabage and was also wanted for several other crimes, has been shot dead by STF personnel during an exchange of fire at Sooriyawewa this morning (Feb.28), police said.
+A former army soldier wanted in connection with the recent shooting incident in Mahabage and was also wanted for several other crimes, has been shot dead by STF personnel during an exchange of fire at Sooriyawewa this morning (Feb.28), police said.
 
 He is suspected to be the motorcycle rider in the shooting which took place on Feb. 21 near a meat shop in Elapitiwala Junction, Mahabage that killed the shop owner.
 
-A special raid was launched in the early hours of the day after the STF received intelligence information revealing the suspect’s hideout near Andigama Tank in Sooriyawewa. As the STF officers approached, the 45-year-old had opened fire, forcing them to retaliate.
+A special raid was launched in the early hours of the day after the STF received intelligence information revealing the suspect’s hideout in the vicinity of Andigama Tank in Sooriyawewa. As the STF officers approached, the 45-year-old had opened fire, forcing them to retaliate.
 
 In the shootout, one STF officer and the suspect were wounded but the latter succumbed to injuries shortly after being rushed to the Sooriyawewa Hospital.
 
@@ -1913,147 +2031,5 @@ No! The best that the warped minds of the Department of Immigration and Emigrati
 [Data](articles/56008943.json)
 
 [Extended Data](ext_articles/56008943.ext.json)
-
----
-
-### 2024-02-27 (Tuesday)
-
-### Senior politician Ronnie de Mel has passed away!
-
-*2024-02-27 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177457) · `ta`
-
-Former finance minister and senior politician Ronnie de Mel passed away on Tuesday (27) at the age of 98.
-
-He passed away while receiving treatment at a private hospital in Colombo.
-
-◼️
-
-[Data](articles/a1bd2245.json)
-
-[Extended Data](ext_articles/a1bd2245.ext.json)
-
----
-
-### S. C. Mutukumarana to fill MP seat vacated by Premarathne
-
-*2024-02-27 23:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97579/s-c-mutukumarana-to-fill-mp-seat-vacated-by-premarathne) · `en`
-
-S. C. Mutukumarana is tipped to fill the vacancy in parliament created after the resignation of MP Uddika Premarathne earlier today (Feb.27).
-
-The Anuradhapura District parliamentarian stepped down from his post for reasons yet to be made public.
-
-Premarathne has thus submitted his letter of resignation to the Deputy General Secretary of Parliament Mr. Chaminda Kularatne.
-
-Accordingly, in compliance with Section 64(1) of the Parliamentary Elections Act No. 1 of 1981, the Secretary General of the Parliament is to inform the Chairman of the Election Commission that the seat of Uddika Premarathne, Member of Parliament in the Ninth Parliament, is vacant.
-
-Subsequently, the name of the new MP will be published in the government gazette.
-
-Mutukumarana is next in line on the Sri Lanka Podujana Peramuna (SLPP) list for the Anuradhapura District.
-
-◼️
-
-[Data](articles/21887823.json)
-
-[Extended Data](ext_articles/21887823.ext.json)
-
----
-
-### Mutukumarana to fill MP seat vacated by Premarathne
-
-*2024-02-27 23:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97579/mutukumarana-to-fill-mp-seat-vacated-by-premarathne) · `en`
-
-S. C. Mutukumarana is tipped to fill the vacancy in parliament created after the resignation of MP Uddika Premarathne earlier today (Feb.27).
-
-The Anuradhapura District parliamentarian stepped down from his post for reasons yet to be made public.
-
-Premarathne has thus submitted his letter of resignation to the Deputy General Secretary of Parliament Mr. Chaminda Kularatne.
-
-Accordingly, Mutukumarana is reportedly next in line on the Sri Lanka Podujana Peramuna (SLPP) list for the Anuradhapura District.
-
-◼️
-
-[Data](articles/bd712bd5.json)
-
-[Extended Data](ext_articles/bd712bd5.ext.json)
-
----
-
-### Gender -related education for students
-
-*2024-02-27 23:42:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-பாலினம்-தொடர்பான-கல்வி/175-333904) · `ta`
-
-The new educational releases designed to provide gender education from the pre -season to adult are scheduled to be released on the 7th of this month.
-
-Officials of the Ministry of Education have made this statement in the recent Parliamentary Children's Union headed by Member of Parliament Rohini Kumari Wijeratne.
-
-These publications have been prepared for adults and adult students from pre -school students to grade 13.
-
-Under the first phase, it is proposed to provide gender -related educational outputs as electronic releases.
-
-The Ministry of Education has said that this will enable the knowledge of gender to all ages in the community, which can eliminate many of the crisis in the community and ensure that the safety of schoolchildren will be ensured.. Remble
-
-◼️
-
-[Data](articles/1f5ae01a.json)
-
-[Extended Data](ext_articles/1f5ae01a.ext.json)
-
----
-
-### All opposition parties support the no -confidence motion - Ranjith Mathuma Bandara
-
-*2024-02-27 23:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177456) · `ta`
-
-All opposition parties have expressed their support for the no -confidence motion against the Speaker. United People's Power Secretary Ranjith Mathuma Bandara said the Speaker should know that the Attorney General has no authority to change the ruling of the High Court.
-
-He further stated at a press conference held at the Opposition Leader's Office in Colombo on Tuesday (27).
-
-The president and the Speaker are acting illegally. That is why we have brought a no -confidence motion against the Speaker. It has received the support of all opposition parties. The Speaker did not implement the Supreme Court's decision in connection with the Festival Backup Act. The court has ruled that 35 of the 57 stages of the law should be amended. But the Speaker did not take any action.
-
-...
-
-[Data](articles/60a8670a.json)
-
-[Extended Data](ext_articles/60a8670a.ext.json)
-
----
-
-### More than 10 SriLankan flights delayed today, at least 3 cancelled
-
-*2024-02-27 23:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97578/more-than-10-srilankan-flights-delayed-today-at-least-3-cancelled) · `en`
-
-More than 10 SriLankan Airlines flights scheduled to leave from the Bandaranaike International Airport (BIA) in Katunayake today (Feb.27) have been delayed while at least 3 were cancelled, the national carrier said.
-
-As per reports, SriLankan aircraft that were supposed to depart for India, Malaysia, Indonesia, Bangladesh, the Maldives, Saudi Arabia, South Korea, the UAE and Kuwait have experienced delays.
-
-Accordingly, flights UL-121 (Chennai ), UL-364 (Jakarta)), UL-314 (Kuala Lumpur), UL-189 (Dhaka), UL-127 (Chennai) were delayed this morning, while flights UL-265 (Riyadh), UL-470 (Seoul), UL-103 (Male), UL-225 (Dubai) and UL-229 (Kuwait) scheduled for this evening to were held up.
-
-It was confirmed that SriLankan flights bound to Chennai, Bangalore, and Abu Dhabi were cancelled.
-
-...
-
-[Data](articles/bace156d.json)
-
-[Extended Data](ext_articles/bace156d.ext.json)
-
----
-
-### New sex education publications for all ages to be launched next month
-
-*2024-02-27 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-sex-education-publications-for-all-ages-to-be-launched-next-month/108-277832) · `en`
-
-Colombo, Feb. 27 (Daily Mirror)- The Education Ministry has made arrangements to launch new educational publications compiled to provide sex education from the pre-childhood development stage to the adult community, the Parliamentary Caucus for Children said.
-
-Officials of the Education Ministry said that arrangements have been made to launch publications on the 7th of March, 2024.
-
-This was stated when the Parliamentary Caucus for Children chaired by Member of Parliament Rohini Kumari Wijeratne met in Parliament recently.
-
-The officials informed the Caucus that research has confirmed that these educational publications on sex education have been prepared with the primary objective of improving the limited knowledge of people pertaining to sex education, which is the basis of many concerns in Sri Lanka.
-
-...
-
-[Data](articles/6d3e1a5e.json)
-
-[Extended Data](ext_articles/6d3e1a5e.ext.json)
 
 ---

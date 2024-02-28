@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 11:33:13**
+As of **2024-02-28 11:51:56**
 
 ## Newspaper Stats
 
-*Scraped **9,747** Articles*
+*Scraped **9,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 521
 adalk | 824
 adaderanalk | 1,174
 tamilmirrorlk | 1,189
-virakesarilk | 1,333
+virakesarilk | 1,335
 dailymirrorlk | 1,472
 adaderanasinhalalk | 1,472
 
@@ -26,21 +26,65 @@ adaderanasinhalalk | 1,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,744 (100.0%) of 9,747 articles have been extended.
+9,749 (100.0%) of 9,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### பூமியின் நுரையீரலில் மிக பெரிய அனகொண்டா
+### Sri Lanka Telecom - Lanka Hospital Stock Affairs
+
+*2024-02-28 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/177478) · `ta`
+
+The Court of Appeal has issued an interim injunction till March 12 for the Sri Lankan government's actions regarding the shares of Sri Lanka Telecom and Lanka Hospitals.
+
+Appeal Court Judge Denzamarakoon issued the order after reviewing the ritmans that have been attacked against the sale of government shares in Sri Lanka Telecom and Lanka Hospitals.
+
+Lycamobiles and SM RM have filed a petition in court for the sale of Sri Lanka.
+
+Meanwhile, Leica Leasing Holding has filed a petition against the purchase of stocks belonging to Lanka Hospital Cooprason.
+
+The petitioners said that we have submitted questions of the rules needed for purchase of shares.
+
+However, the petitioners said the Cabinet had rejected their questions without providing any clear explanations.
+
+◼️
+
+[Data](articles/b141845b.json)
+
+[Extended Data](ext_articles/b141845b.ext.json)
+
+---
+
+### The largest anaconda in the lungs of the earth
 
 *2024-02-28 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177465) · `ta`
 
-அமேசான் காட்டில் ஆய்வுகளில் ஈடுபட்டுள்ள விஞ்ஞானிகளில் ஒருவரான பேராசிரியர் ப்ரீக் வோங்க்(Freek Vonk) நீருக்கு அடியில் இருக்கும் 26 அடி நீளமான மிகப்பெரிய அனகொண்டா பாம்பின்  காணொளியை  தனது இன்ஸ்டாகிராம் பக்கத்தில் பதிவிட்டுள்ளார்.
+Professor Break Vonk, one of the scientists involved in the Amazon forest research, posted the video of the 26 -foot -long Anakonda snake underneath the water on his Instagram page.
 
 ◼️
 
 [Data](articles/09f091da.json)
+
+[Extended Data](ext_articles/09f091da.ext.json)
+
+---
+
+### Governor's Directorate to take immediate action on the attack on a student at Nelliyadi Central College, Jaffna
+
+*2024-02-28 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177475) · `ta`
+
+Governor of the Northern Province BSMM to immediately investigate the attack on a newcomer student who enrolled in Grade 06 at Grade 06, Jaffna - Nelliyadi Central College.. According to Charles, the school principal and the Zonal Education Workshop have been instructed by the Governor's direct supervision to investigate the matter and submit a report on this issue.
+
+The Chancellor of the Nelliyadi Central College has said that the victim and the attacker are being investigated and taking appropriate action. Continuous surveillance will be carried out by the Governor's direct surveillance until the victim is given the appropriate solution to the incident.
+
+An attack on a newcomer who joined Grade 06 at Nelliyadi Central College, Jaffna. As the victim was admitted to the Point Pedro Base Hospital and admitted to the Jaffna Teaching Hospital for further treatment, the student went to the Governor's Secretariat and inquired about the attack on the student.
+
+◼️
+
+[Data](articles/152f0104.json)
+
+[Extended Data](ext_articles/152f0104.ext.json)
 
 ---
 
@@ -86,21 +130,29 @@ The poll conducted on 960 voters found little consensus on who should replace Bi
 
 ---
 
-### இலங்கையில் தென்பகுதியில் வர்த்தக நடவடிக்கைகளில் ஈடுபடும் இஸ்ரேல் உக்ரைன்  சுற்றுலாப்பயணிகள் - 99 வருட குத்தகைக்கு காணி கொள்வனவு
+### Israeli Ukraine tourists engaged in trading activities in the south of Sri Lanka - 99 years of lease
 
 *2024-02-28 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177472) · `ta`
 
-இலங்கையின் தென்பகுதியில் ரஸ்ய சுற்றுலாப்பயணிகள் சட்டவிரோத வர்த்தகத்தில் ஈடுபடுவதாக வெளியான தகவல்களை தொடர்ந்து தற்போது இஸ்ரேலிய உக்ரைன் சுற்றுலாப்பயணிகளும் சட்டவிரோத வர்த்தகத்தில்  ஈடுபடுவது குறித்த தகவல்கள் வெளியாகியுள்ளன.
+Following reports that Russian tourists are engaged in illegal trade in the south of Sri Lanka, Israeli Ukraine tourists are now engaged in illegal trade.
 
-இவர்களின் இந்த நடவடிக்கை காரணமாக உள்ளுர் வர்த்தகர்கள் பாதிக்கப்பட்டுள்ள அதேவேளை உள்நாட்டு சுற்றுலாத்துறையினர் மத்தியில் இது குறித்த கரிசனைகள் அதிகரித்துள்ளன.
+Due to their move, local traders have been affected and the concerns have increased among domestic tourists.
 
-தென்பகுதி கடற்கரையோரம் முழுவதும் சென்று இஸ்ரேல் மற்றும் உக்ரைன் சுற்றுலாப்பயணிகள் முன்னெடுக்கும் வர்த்தக நடவடிக்கைகளை பார்வையிட்டோம் அவர்கள் உணவுவிடுதிகள் ஹோட்டல்கள் சிறிய கடைகள் போன்றவற்றை நடத்துகின்றனர்.
+Going across the south coast, Israel and Ukrainian tourists have visited the trade operations.
 
-இலங்கையில் சுற்றுப்பயணங்களை ஏற்படும் அளவிற்கு உக்ரைன் சுற்றுலாப்பயணிகள் சென்றுள்ளனர் என தெரிவிக்கும் உள்ளுர் மக்கள் அவர்களிற்கு அதற்கான அனுமதி வழங்கப்படவில்லை என்பதையும் சுட்டிக்காட்டியுள்ளனர்.
+Local people who claim that Ukrainian tourists have gone to the extent of touring in Sri Lanka, have pointed out that they have not been granted permission.
+
+Local people and tourists will be able to confront if the immediate surveillance measures are taken, and the tourists have said that this situation could be done as it could be involved in trade operations that affect the livelihood of the local people.
+
+Meanwhile, Israeli tourists have purchased land for their business activities as they traveled to the south coast.
+
+Israeli tourists have also purchased land for 99 years.
 
 ...
 
 [Data](articles/d2700894.json)
+
+[Extended Data](ext_articles/d2700894.ext.json)
 
 ---
 
@@ -164,23 +216,29 @@ Opposition Leader Sajith Premadasa has offered Kodithuwakku the executive member
 
 ---
 
-### மாபாகே துப்பாக்கிச் சூடு தொடர்பில் தேடப்பட்டு வந்த சந்தேக நபர் விசேட அதிரடிப்படையினரின் துப்பாக்கிச் சூட்டில் பலி
+### The suspect was killed in the Mabbage shooting
 
 *2024-02-28 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177467) · `ta`
 
-மாபாகே பகுதியில் அண்மையில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவம் தொடர்பில் தேடப்பட்டு வந்த சந்தேகநபரொருவர் சூரியவெவ பகுதியில் விசேட அதிரடிப்படையுடன் இடம்பெற்ற பரஸ்பர துப்பாக்கிச்சூட்டில்  உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A suspect in the recent shooting incident in the Mabake area has died in a mutual shooting in Surveva area, police said.
 
-இவ்வாறு உயிரிழந்த  சந்தேகநபர் துப்பாக்கியால் சுட்டு கொன்ற சம்பவத்தில் மோட்டார் சைக்கிளை செலுத்தியவர் இவரே  என தெரியவந்துள்ளது.
+It was revealed that he was the one who drove the motorcycle when the suspect was shot dead.
 
-கடந்த 21 ஆம் திகதி காலை மோட்டார் சைக்கிளில் வந்த மூவர் எலப்பிட்டிவல சந்தியில் உள்ள இறைச்சிக் கடையொன்றுக்கு அருகில் வைத்து கடை உரிமையாளர் மீது துப்பாக்கிச்சூட்டை நடத்தினர். துப்பாக்கிச்சூட்டில் காயமடைந்த நபர்  ராகம வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட போது உயிரிழந்துள்ளார்.
+On the morning of the 21st, three men on a motorcycle opened fire on the shop owner near a meat shop at Elappitivala junction. The man who was injured in the shooting was taken to the Ragama Hospital.
 
-இவர் ஹெட்டியாராச்சிகே டொன் சுஜித் என்றழைக்கப்படும் “உக்குவா” என அடையாளம் காணப்பட்டார், குற்றவியல் கும்பல் தலைவரான “வெல்லே சாரங்க”வின் மைத்துனரும் ஜா-எல வடக்கு படகம பகுதியைச் சேர்ந்தவருமாவார்.
+He was identified as the "Ukua" known as Hettiarachchike Don Sujit, and the brother-in-law of the criminal gang "Wella Saranga" is a native of Ja-Ela Northern boat.
 
-இந்தக் கொலைச் சம்பவம் தொடர்பில் இராணுவ அதிகாரி உட்பட இருவர் இதுவரையில் கைது செய்யப்பட்டுள்ளனர்.
+Two people, including a military officer, have been arrested in connection with the murder.
+
+It was suspected of planning the murder of a rival gang led by "Dubai Nipuna". Sujith has been threatened with murder from the Dubai Nipuna gang.
+
+The main suspect who served as the Corporal Officer of the Gemunu Monitoring Corps of the Gemunu Monitoring Brigade at the Chengaladi Army Camp in Batticaloa was arrested on February 24.
 
 ...
 
 [Data](articles/5e4f20fe.json)
+
+[Extended Data](ext_articles/5e4f20fe.ext.json)
 
 ---
 
@@ -1971,49 +2029,5 @@ The NSWDB had also borrowed dollar loans in the past. (Colombo/Feb27/2024)
 [Data](articles/a534b083.json)
 
 [Extended Data](ext_articles/a534b083.ext.json)
-
----
-
-### India to push rupee investments in Sri Lanka - report
-
-*2024-02-27 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97573/india-to-push-rupee-investments-in-sri-lanka-report) · `en`
-
-The Indian government is working on operationalizing Rupee investments in Sri Lanka in a move to boost Indian investments in its southern neighbour, two people aware of the matter told Mint.
-
-Rupee investments will ease the way for Indian firms to enter the Sri Lankan markets, the people mentioned above said, speaking under the condition of anonymity.
-
-During FY 2023, the Reserve Bank of India (RBI) allowed invoicing and payments for international trade in the Indian Rupee.
-
-This allowed exports and imports to be denominated and invoiced in Indian rupees, with the settlement of trade transactions taking place in the currency.
-
-The RBI’s decision is aimed at promoting the growth of global trade, especially Indian exports, apart from systematically internationalizing the currency. India wants the Indian Rupee to be a hard currency in the future, the second person mentioned above said.
-
-...
-
-[Data](articles/9a1d28e0.json)
-
-[Extended Data](ext_articles/9a1d28e0.ext.json)
-
----
-
-### Temperature felt on human body expected to increase up to caution level
-
-*2024-02-27 18:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Temperature-felt-on-human-body-expected-to-increase-up-to-caution-level/108-277823) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - The perceived temperature on the human body is anticipated to rise to a 'Caution' level in certain locations within the North-Western, Western and Southern Provinces, as well as in the Ratnapura district, the Natural Hazards Early Warning Centre of the Meterology Department said.
-
-According to the heat index advisory, Puttalam, Kurunegala, Gampaha, Colombo, Kalutara, Ratnapura, Galle Matara and Hambantota are mentioned as coming under the caution level.
-
-In the caution level, the department said that fatigue is possible with prolonged exposure and activity and continued activity could result in heat cramps.
-
-“People may suffer heat cramps and exhaustion and continuing activity in the heat or sun could lead to heatstroke,” the advisory warns.
-
-The Met. Dept. also advised the public to remain hydrated and take breaks in the shade as often as possible.
-
-...
-
-[Data](articles/955757f4.json)
-
-[Extended Data](ext_articles/955757f4.ext.json)
 
 ---

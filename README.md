@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 15:17:32**
+As of **2024-02-28 15:32:56**
 
 ## Newspaper Stats
 
-*Scraped **9,793** Articles*
+*Scraped **9,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,102 @@ newsfirstlk | 363
 economynextcom | 503
 dailyftlk | 519
 islandlk | 521
-adalk | 829
+adalk | 830
 adaderanalk | 1,180
-tamilmirrorlk | 1,191
+tamilmirrorlk | 1,192
 virakesarilk | 1,343
-adaderanasinhalalk | 1,481
-dailymirrorlk | 1,482
+adaderanasinhalalk | 1,483
+dailymirrorlk | 1,483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,792 (100.0%) of 9,793 articles have been extended.
+9,793 (99.9%) of 9,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### ඩලස් හමුවෙන්න පාඨලී යයි
+
+*2024-02-28 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193914) · `si`
+
+රටට ඔබින මනුෂ්‍යත්වයේ සන්ධානයක් නිර්මාණය කර ගැනීම සඳහා තවදුරටත් සාකච්ඡා කිරීමට නිදහස ජනතා සභාව සහ එක්සත් ජනරජ පෙරමුණ එකඟ වෙයි.
+
+දේශය වෙනුවෙන් එක්වන පියවරක් වැඩසටහන නිදහස ජනතා සභාවට ඉදිරිපත් කෙරිණ.
+
+"රට දැඩි අර්බුදයකට මුහුණපා සිටී. ඉන් රට මුදා ගැනීම සඳහා මනුෂ්‍යත්වයේ සන්ධානයක් ගොඩනැගීම එක්සත් ජනරජ පෙරමුණේ අරමුණයි..."  යනුවෙන් පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා පැවසීය.
+
+ඒ අනුව සන්ධානය සම්බන්ධයෙන් තවදුරටත් සාකච්ඡා කිරීමට දෙපාර්ශවය න් එකඟ වී තිබේ.
+
+නිදහස ජනතා සභාව වෙත සිය වැඩසටහන පිළිගැන්වීම නාවල, කොස්වත්ත නිදහස ජනතා සභා කාර්යාලයේදී සිදුකෙරිණ.
+
+◼️
+
+[Data](articles/aacd31c8.json)
+
+---
+
+### Dislodged wheel of SLTB bus damages three-wheeler, shop
+
+*2024-02-28 14:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dislodged-wheel-of-SLTB-bus-damages-three-wheeler-shop/108-277892) · `en`
+
+The right front wheel of a Sri Lanka Transport Board (SLTB) bus dislodged while the vehicle was on the move, resulting in a collision that damaged a nearby shop yesterday, the police said.
+
+They said the bus was travelling from Yatiyantota to Avissawella when its wheel had got dislodged.
+
+The dislodged wheel damaged a three-wheeler and a computer repair shop, but no injuries were reported.
+
+The shop owner and the three-wheeler owner handed over the dislodged wheel to the Yatiyantota police and said that they will not allow them to take the bus away from the spot without compensation being paid for the damages caused.
+
+◼️
+
+[Data](articles/d686c98e.json)
+
+---
+
+### ඩිනාල්ගේ අභිරහස් මරණය ගැන ආන්දෝලනාත්මක හෙළිදරව්වක්
+
+*2024-02-28 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193913) · `si`
+
+එංගලන්තයේ ජීවත්වන ශ්‍රී ලාංකික සිසුවෙකුගේ අභිරහස් මරණය පිළිබඳව තොරතුරු අනාවරණය වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මෙලෙස අවාසනාවන්ත ලෙස මියගොස් ඈත්තේ ඩිනාල් ද අල්විස් නමැති 16 හැවිරිදි වියේ පසුවූ පාසල් සිසුවෙකි.
+
+Croydon හි Whitgift පාසලේ අධ්‍යාපනය හදාරමින් සිටි ඩිනාල් අති දක්ෂ සිසුවෙකි.
+
+පාසලේදී දක්ෂ පාපන්දු සහ රගර් ක්‍රීඩකයෙකු වූ ඩිනාල්ගේ බලාපොරොත්තුව වී තිබුණේ කේම්බ්‍රිජ් විශ්වවිද්‍යාලයට ඇතුළත්ව උසස් අධ්‍යාපනය හැදෑරීමය.
+
+මෙම සියලු සිහින බොඳ කරමින් ඔහු වෙත මරුවා ළඟා වන්නේ 2022 වර්ෂයේ ඔක්තෝබර් මස 27 වනදාය.
+
+අභිරහස් ලෙස මියගොස් සිටි ඩිනාල්ගේ මරණය සියදිවි නසාගැනීමක් බවට විනිශ්චය කළ ද එයට හේතුව සොයා අඛණ්ඩව විමර්ශන කටයුතු සිදුකළේය.
+
+එම විමර්ශනවලට අනුව තොරතුරු අනාවරණය වී ඇත්තේ කිසියම් පුද්ගලයෙකු විසින් ඔහුගේ නිරුවත් ඡායාරූප මුදාහරින බවට කළ තර්ජනයක් හේතුවෙන් මෙලෙස සියදිවි හානිකරගෙන ඇති බවය.
+
+අදාළ තර්ජනය එල්ලවී ඇති පුද්ගලයා හෝ ස්ථානය පිළිබඳව මෙතෙක් නිශ්චිත කරුණු අනාවරණය වී නොමැති බවද එම වාර්තා වැඩිදුරටත් පවසයි.
+
+...
+
+[Data](articles/545b2b6e.json)
+
+---
+
+### சுவிஸ் தூதுவர் சபாநாயகருடன் சந்திப்பு
+
+*2024-02-28 14:43:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவிஸ்-தூதுவர்-சபாநாயகருடன்-சந்திப்பு/175-333942) · `ta`
+
+இலங்கைக்கான சுவிஸ் தூதுவர் கலாநிதி சிறி வோல்ட் மற்றும் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன ஆகியோருக்கிடையில் சந்திப்பொன்று புதன் கிழமை (28) பாராளுமன்றத்தில் இடம்பெற்றது.
+
+இதன்போது, இந்நாட்டில் நடைபெறவுள்ள தேர்தல்கள் குறித்து கலாநிதி சிறி வால்ட் சபாநாயகரிடம் கேட்டறிந்தார்.
+
+ஜனாதிபதித் தேர்தல் சட்டரீதியாக கூறப்பட்டுள்ள முறைப்படி நடத்தப்படும் எனவும், அடுத்த வருடம் உரிய காலப்பகுதியில் பொதுத் தேர்தலும் நடத்தப்படும் எனவும் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4089062c.json)
+
+---
 
 ### Sri Lankan-origin teen takes own life after being ‘blackmailed’
 
@@ -51,6 +131,8 @@ Dinal’s family say they believe a girl may have taken the images with Dinal be
 ...
 
 [Data](articles/ff799c82.json)
+
+[Extended Data](ext_articles/ff799c82.ext.json)
 
 ---
 
@@ -425,6 +507,20 @@ Meanwhile, the human body is expected to feel high in the Western, North Western
 [Data](articles/4c9f6130.json)
 
 [Extended Data](ext_articles/4c9f6130.ext.json)
+
+---
+
+### අල්ලස් ගත් පොලිස් කොස්තාපල් දෙදෙනා පොලීසියෙන් නෙරපයි
+
+*2024-02-28 12:10:26* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-පොලිස්-කොස්තාපල්-දෙදෙනා-පොලීසියෙන්-නෙරපයි/11-408325) · `si`
+
+රථවාහන නඩුවක් සම්බන්ධයෙන් පොලිස් භාරයට ගත් රියදුරු   බලපත්‍රයක් නැවත හිමිකරු වෙත ලබා දීමට හා නීති මගින් කටයුතු නොකර සිටීමට රුපියල් 10000/= අල්ලස් මුදලක් ලබා ගැනීමේ චෝදනාව මත අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කළ ඉත්තෑපාන පොලිසියේ පොලිස්  කොස්තාපල්වරුන් දෙදෙනාගේ රාජකාරී වැඩ තහනම් කර ඇතැයි පොලිස් මූලස්ථානය සඳහන් කරයි.
+
+කළුතර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයා විසින් එලෙස වැඩ තහනම්  කර ඇත්තේ පොලිස් කොස්තාපල් 36168  එස් එම් හේවගේ හා 102636  එම් ඒ ඊ ටි මඩුගල්ල යන දෙදෙනාගේය.
+
+...
+
+[Data](articles/4be7285d.json)
 
 ---
 
@@ -1947,105 +2043,5 @@ Cabinet of Ministers on Monday approved the proposal to suspend the procedure to
 [Data](articles/ddd492f8.json)
 
 [Extended Data](ext_articles/ddd492f8.ext.json)
-
----
-
-### The appointment of the Inspector General of Police is not illegal - the Ministry of Justice
-
-*2024-02-28 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177460) · `ta`
-
-If the appointment of the Inspector General of Police is contrary to the Constitution, all the laws passed in Parliament are invalid. Minister of Justice, Prison Affairs and Constituent Restructuring Wijeyadasa Rajapakse said that five of the nine members of the Constitutional Council have accepted the resolution.
-
-He further stated that at a press conference held at the Presidential Media Center on Tuesday (27).
-
-If the appointment of the Inspector General of Police now accepts the arguments made by many that the constitution is unconstitutional, any law passed in Parliament is invalid.. Does that mean that the majority of the votes cannot be accepted in the appointment of the Inspector General of Police?
-
-...
-
-[Data](articles/b1d353ee.json)
-
-[Extended Data](ext_articles/b1d353ee.ext.json)
-
----
-
-### Central Bank employees' salary increase
-
-*2024-02-28 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177459) · `ta`
-
-I am dissatisfied with the independence of the central bank that caused the country's economy to fall into the zero situation. Minister of Justice, Prison Affairs and Constitutional Reforms Wijeyadasa Rajapaksa said that the salary increase of the central bank employees was an indescribable act on this occasion of the people who dedicated their lives.
-
-He further stated that at a press conference held at the Presidential Media Center on Tuesday (27).
-
-I am dissatisfied and worried about the decision to independent the central bank. The state agency is the central bank that is mainly responsible for the fall of the country's economy to the zero situation. It is an undeniable fact that the central bank has moved away from its responsibilities.
-
-All people are living with dedicated on this occasion that the country is facing massive crises economically. In this case, all of us, including us, the Central Bank only said that the decision to increase their salary was immoral.
-
-◼️
-
-[Data](articles/7842d603.json)
-
-[Extended Data](ext_articles/7842d603.ext.json)
-
----
-
-### Businesses of Israeli, Ukrainian nationals spell doom for Southerners
-
-*2024-02-28 00:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/recomended-news/Businesses-of-Israeli-Ukrainian-nationals-spell-doom-for-Southerners/277-277838) · `en`
-
-Tourists have rented out bikes and three-wheelers to cut down on traveling costs
-
-Businesses are run by tourists using tourist visas and this has become a serious cause of concern for locals in the area
-
-Critics point out that though Sri Lanka needs more revenue its resources and the sovereignty of citizens cannot be infringed at the expense of tourists
-
-Pleas made by Sri Lankans urging the authorities to streamline the legal framework, so that the tourism sector would help locals and local businesses to thrive
-
-Many tour guides warn of possible consequences of neglecting the country’s pristine beaches
-
-...
-
-[Data](articles/0c004cde.json)
-
-[Extended Data](ext_articles/0c004cde.ext.json)
-
----
-
-### Sri Lanka Services Company's 06 Airline Services canceled
-
-*2024-02-28 00:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177458) · `ta`
-
-National and international passengers faced severe inconveniences as Sri Lanka's Airlines's 06 flight services were canceled on Tuesday (27).
-
-The UL 173-digit aircraft owned by Sri Lanka Services Company has been canceled on Tuesday (27) at 01.10 am. Similarly, passengers were resisting great inconveniences as the UL402 aircraft was canceled at 01.15 am.
-
-Similarly, the UL will leave Chennai at 1.45 pm on Tuesday (27). The UL 143 -digit flight to Mumbai, the UL 263 digit aircraft, which was to be departed at Mumbai at 05.10 pm, the UL207 -digit aircraft to Abu Dhabi at 06.50 pm, was canceled.
-
-Sri Lanka's Airlines' officials said during a discussion with Sri Lankan Airlines Minister Nimal Siripala de Silva that the airlines were delayed last Saturday due to a number of factors, including a rat and technical failure.
-
-...
-
-[Data](articles/c1a41880.json)
-
-[Extended Data](ext_articles/c1a41880.ext.json)
-
----
-
-### Marx, Ants and Hyde Park Rally - EDITORIAL
-
-*2024-02-28 00:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Marx-Ants-and-Hyde-Park-Rally-EDITORIAL/172-277840) · `en`
-
-Karl Marx was right, Socialism works, it is just that he had the wrong species– Edward Osborne Wilson
-
-The argument put forwarded by Edward O. Wilson, the father was Socio-biology, was that altruism which is the very foundation of socialism, does not come naturally to human beings. Commenting on this subject in his book, “The Ants”, Wilson maintained that while altruism works for species like ants and bees, humans who are naturally selfish are unable to completely adjust to Socialism.
-
-The above quote of Wilson was recited last Saturday to a packed audience at the Hyde Park in Colombo by Sugeeshwara Bandara who made his political debut that day.
-
-Attributing the fall of the former USSR regime of Russia to the same theory, Bandara said forcing people to accept Socialist ways makes people frustrated and kills the spirit of innovation.
-
-...
-
-[Data](articles/78c1284a.json)
-
-[Extended Data](ext_articles/78c1284a.ext.json)
 
 ---

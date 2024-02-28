@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 20:17:22**
+As of **2024-02-28 20:33:11**
 
 ## Newspaper Stats
 
-*Scraped **9,853** Articles*
+*Scraped **9,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,187
 tamilmirrorlk | 1,201
 virakesarilk | 1,355
 dailymirrorlk | 1,489
-adaderanasinhalalk | 1,496
+adaderanasinhalalk | 1,497
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,849 (100.0%) of 9,853 articles have been extended.
+9,853 (100.0%) of 9,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### ශ්‍රීලන්කන් මිලදී ගැනීම සඳහා ලංසු විවෘත කිරීම මාර්තු 05
+
+*2024-02-28 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193930) · `si`
+
+මාර්තු 05 වනදා ශ්‍රීලන්කන් ගුවන් සේවය මිලදී ගැනීම සඳහා ලංසු විවෘත කිරීම සජිවීව සිදුකර ආයෝජකයකු තෝරාගන්නා බව වරාය, නාවුක සහ ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා අද ප්‍රකාශ කළේය.
+
+අද දෙරණ 24 නාලිකාවේ GET REAL වැඩසටහනට එක්වෙමින් අමාත්‍යවරයා මෙම අදහස් පළකළේය.
+
+"අපි ලංසු කැදවා තිබෙනවා මාර්තු 5 වැනිදා උදෑසන 10 සිට සවස 2 දක්වා ඔවුන්ට පැමිණිය හැකියි. එය සජීවීව සිදුකරනු ලබනවා. පස්වරු 2 වන විට ලංසු විවෘත කර ඇගයීම ලක්කළ හැකියි. ඒ සඳහා සහාය දැක්වීමට තාක්ෂණික කණ්ඩායමක් ද සිටිනවා. ඔවුන් එම ලංසු ඇගයීම සිදුකරනු ලබනවා. අවසානයේ එය කැබිනට් මණ්ඩලය වෙත ඉදිරිපත් කරනු ලබනවා. මට අවශ්‍ය අවම වශයෙන් අමෙරිකානු ඩොලර් මිලියන 500ක ආයෝජනයක් සිදුකළ හැකි ශක්තිමත් ආයෝජකයෙකු පැමිණීමයි. ඒ වගේම ගුවන් සේවයේ 6,000කගේ රැකියාවන් සුරක්ෂිතභාවයට පත්කිරීමත් අවශ්‍ය වනවා."
+
+◼️
+
+[Data](articles/5de41ecc.json)
+
+---
 
 ### Little Son's Video Works for Facebook
 
@@ -96,21 +112,23 @@ The suspect was injured in admission to the Suriyawewa hospital.
 
 ---
 
-### කළුතර උපත් වසර පහක් තුළ 2983කින් අඩුවෙයි
+### Kalutara births fall by 2983 years
 
 *2024-02-28 19:06:26* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-උපත්-වසර-පහක්-තුළ-2983කින්-අඩුවෙයි/11-408333) · `si`
 
-කළුතර දිස්ත්‍රික්කයේ අලුත උපන් දරු උපත් වසර පහක් තුළ 2983 කින් අඩුවී ඇතැයි කළුතර සෞඛ්‍ය සේවා අධ්‍යක්ෂක කාර්යාලයේ මාතෘ හා ළමා සෞඛ්‍ය වෛද්‍ය නිලධාරී සුනෙත් ශ්‍රී සුදර්ශන මහතා පැවසීය.
+Maternity and Health Medical Officer of the Kalutara Commerce of the Kalutara Health Services Director Suneth Sri Sudarshana said that newborn births in the Kalutara district had fallen by 2983 years.
 
-2019 වසරේදී 1000ට 13 ප්‍රතිශතයක්ව තිබූ දරු උපත් වර්ධනය 2023 වසරේදී 1000 9 දශම 8 දක්වා පහත බැස ඇති බව ඒ මහතා කීය.
+He said that the growth of 13 percent to 1000 percent in 2019 was down to 823, he added.
 
-2019 වසරේ දරු උපත් 11617 ක් ,2020 දරු උපත් වසරේ 11124 ක්, 2021 දරු උපත් වසරේ 10787ක් 2022 වසරේ දරු උපත්  9815ක් 2023 වසරේ දරු උපත් 8634දක්වා පහත බැස ඇති බව ඒ මහතා පවසයි.
+11617 births, 2020 years in 2019, 10787 children, 9815 births 2023 in 2023, 9834 in 2023, 2023, 9834 were drowned in 2023.
 
-මේ ආකාරයෙන් දරු පත් සීඝ්‍ර ලෙස වසරෙන් වසර අඩුවීම සම්බන්ධයෙන් විශේෂ අවධානයක් යොමුකර කළුතර දිස්ත්‍රික් සෞඛ්‍ය සේවා අධ්‍යක්ෂක විශේෂඥ වෛද්‍ය සුමල් නන්දසේන මහතාගේ උපදෙස් මත  විශේෂ සමීක්ෂණයක් සිදුකර  ඊට ප්‍රතිකර්ම යෙදීම සඳහා සෞඛ්‍ය සේවා කාර්යාල මට්ටමින්  විශේෂ වැඩසටහන් මාලාවක්  මේ වන විටත් ආරම්භ කර ඇතැයි වෛද්‍ය සුදර්ශන මහතා වැඩිදුරටත් පැවසීය
+Dr. Sudhaksha said that a special survey was conducted at the Health Services Office level to remedy specializing in the instructions of Kalutara District Health Services Specialized survey on the instructions of the Director of Kalutara District.
 
 ◼️
 
 [Data](articles/421960a3.json)
+
+[Extended Data](ext_articles/421960a3.ext.json)
 
 ---
 
@@ -170,17 +188,19 @@ Meanwhile, S. C. Mutukumarana is tipped to fill the relevant parliamentary vacan
 
 ---
 
-### පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක් හිස්ව ඇති බව මැතිවරණ කොමිෂමට දන්වයි
+### Elections in Parliament tells Elections Commission that a seat of Parliament is empty
 
 *2024-02-28 18:55:58* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-මන්ත්‍රීධුරයක්-හිස්ව-ඇති-බව-මැතිවරණ-කොමිෂමට-දන්වයි/11-408332) · `si`
 
-අනුරාධපුර මැතිවරණ කොට්ඨාශයේ පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතා 2024 පෙබරවාරි  මස 26 වැනි දින සිට බල පැවැත්වෙන පරිදි පාර්ලිමේන්තු අසුනෙන් ඉල්ලා අස්වීම හේතුවෙන් නව වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක පුරප්පාඩුවක් ඇති වී තිබෙන බව පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණධීර මහත්මිය  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා තිබේ.
+Parliamentarian Kushani Rohanaharadera, a member of the Parliament, has been informed by the Secretary General of Parliament as a member of the Parliamentary Seman of Anuradhapura due to the resignation of the Parliamentary Semanna from the 26th of February.
 
-1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම් දීම සිදුකර ඇත.
+This was made in terms of Section 64 (1) of the Parliament Election Act, No. 1 of 1981.
 
 ◼️
 
 [Data](articles/fad286e4.json)
+
+[Extended Data](ext_articles/fad286e4.ext.json)
 
 ---
 
@@ -296,23 +316,27 @@ Wanindu Hasaranga is the leader of the group, but he is deprived of playing the 
 
 ---
 
-### ගාල්ලේ කඳුකර ප්‍රදේශ සංවර්ධනයට කෝටි 40ක්
+### 40 crores to the development of highway mountainous areas
 
 *2024-02-28 18:15:16* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලේ-කඳුකර-ප්‍රදේශ-සංවර්ධනයට-කෝටි-40ක්/11-408330) · `si`
 
-ගාල්ල දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 04ක ජනතාවගේ පොදු යටිතල පහසුකම් වැඩිදියුණු කිරීම සඳහා රුපියල් මිලියන 400ක් වෙන්කර ඇති බව නාගරික සංවර්ධන සහ නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අද (28) ගාල්ලේ දී පැවසීය.
+The Minister of Urban Development and Housing Prasanna Ranatunga said that Rs.
 
-ඔහු මේ බව කියා සිටියේ අද (28) ගාල්ල හෝල් ඩි ගෝල් ශාලාවේ දී පැවැති විශේෂ සම්බන්ධීකරණ කමිටු රැස්වීමේ දී ය.
+He was speaking at a special coordinating committees held at the Hall de Gall hall in Galle.
 
-ශ්‍රී ලංකාවේ දිස්ත්‍රික්ක 11ක ක්‍රියාත්මක කරන “කඳුකර දශකය” බහුකාර්ය ග්‍රාමීය හා ප්‍රජා සංවර්ධන වැඩසටහන පිළිබඳව රාජ්‍ය නිළධාරීන් දැනුම්වත් කිරීම සඳහා ප්‍රසන්න රණතුංග අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් මෙම රැස්වීම පැවැත්විණි.
+The meeting was held under the patronage of Minister of Prasanna Ranatunga to inform State Officers on the Multipurpose Rural and Community Development Program of the Mountain Rural and Community Development Program.
 
-එහි දී අමාත්‍යවරයා කියා සිටියේ 2024 වර්ෂයේ සිට 2033 වර්ෂය දක්වා ක්‍රියාත්මක කරනු ලබන මෙම දස අවුරුදු වැඩසටහන යටතේ එම දිස්ත්‍රික්ක 11 සඳහා ම රුපියල් මිලියන 10,000ක් මෙවර අයවැයෙන් වෙන්කර ඇති බවයි.
+The Minister said that 1024 to 2033, the 11th year program was allocated from this year's budget for the 11 of these districts.
 
-ඒ අනුව ගාල්ල දිස්ත්‍රික්කයේ නෙළුව, නාගොඩ, තවලම සහ නියාගම ප්‍රාදේශීය ලේකම් කොට්ඨාස 04 හි ග්‍රාම නිලධාරී වසම් 157ක් මේ වැඩසටහන සඳහා තෝරාගෙන තිබේ.
+Accordingly, 157 Grama Niladhari Divisions have been selected for this program at Neluwa, Neluwa, Neluwa, Niyagama and Niyagama Divisional Secretariat Divisions.
 
-...
+The Minister said that the Galle, Matale, Nuwara Eliya, Ratnapura, Matara, Kalutara, Kalutara, Kalutara, Kalutara, Kalutara, Ampara, Ampara and Ampara districts will be implemented.
+
+◼️
 
 [Data](articles/39cbd281.json)
+
+[Extended Data](ext_articles/39cbd281.ext.json)
 
 ---
 
@@ -782,19 +806,23 @@ On behalf of the CWC, S. Irajamani, a member of the Tea Production Council and A
 
 ---
 
-### தெருநாய்கள் தாக்கியதில்   2 வயது சிறுவன் உயிரிழப்பு
+### 2 -year -old boy killed in street dogs
 
 *2024-02-28 15:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெருநாய்கள்-தாக்கியதில்-2-வயது-சிறுவன்-உயிரிழப்பு/175-333949) · `ta`
 
-மத்திய பிரதேசம் மாநிலம் பத்வானியில் தெருநாய்கள் தாக்கியதில் 2 வயது சிறுவன் உயிரிழந்த சம்பவம் அப்பகுதி மக்களிடையே அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+The death of a 2 -year -old boy in the state of Madhya Pradesh, Padwani, has shocked the people of the area.
 
-உயிரிழந்த சிறுவனின் வீட்டுக்கு அருகில் ஆட்டிறைச்சி சந்தை உள்ளது. இதனால் அந்த பகுதியை சுற்றிலும் தெருநாய்கள் நடமாட்டம் அதிகமாக இருந்துள்ளன. இந் நிலையில் சம்பவத்தன்று சிறுவன் வீட்டை விட்டு வெளியே வந்தபோது, சிறுவனை சுற்றி வளைத்த தெருநாய்கள் பயங்கரமாக தாக்கியுள்ளன.
+The mutton market is near the house of the deceased boy. As a result, street dogs are more likely to be around the area. When the boy left the house on the day of the incident, the street dogs surrounded the boy were terrified.
 
-அப்போது விரைந்து வந்த சிறுவனின் பாட்டி, நாய்களின் பிடியில் இருந்து சிறுவனை விடுவித்தார். ஆனால் அதற்குள் சிறுவன் பலத்த காயமடைந்தான். இதையடுத்து உடனடியாக சிறுவனை மருத்துவமனைக்கு அழைத்துச் சென்றனர். ஆனால் செல்லும் வழியில் சிறுவன் உயிரிழந்தான்.
+The grandmother of the rushed, who was rushed, released the boy from the clutches of dogs. But the boy was seriously injured. The boy was immediately taken to the hospital. But the boy died on the way.
+
+The Municipal Corporation CEO. Khushal Singh Tudway said, “Steps are being taken to catch dogs. But the number of street dogs is very high. It is a little difficult to hold them. When dogs catch up, dog lovers and volunteers cause problems. However, we will take steps to prevent such incidents from happening in the future. ”
 
 ...
 
 [Data](articles/f62cd9ee.json)
+
+[Extended Data](ext_articles/f62cd9ee.ext.json)
 
 ---
 
@@ -1995,29 +2023,5 @@ The fuel rose as a grant was worth Rs. 12 billion, the Health Minister said that
 [Data](articles/6172b574.json)
 
 [Extended Data](ext_articles/6172b574.ext.json)
-
----
-
-### Departure from country to deportation due to underworld threats
-
-*2024-02-28 10:54:04* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-තර්ජන-නිසා-IP-ආරක්ෂාව-පතා-රටින්-පිටවේ/11-408322) · `si`
-
-The OIC of the Originated Criminal Division of the Colombo Crimes Division, the OIC of the Colombo Crimes Division has left for France with his private security with his own private security with his own private security.
-
-Among the deaths were threatened with the deaths of the deaths, he is a powerful drug dealer, Hinatiyana Mahesh.
-
-Investigations were carried out by police inspector Duminda Jayatilleke. With the arrest of several suspects in investigations, the police inspector had been threatened with death.
-
-The organized crime department of the Colombo Crimes Division (Crime Division) Police, Duminda Jayatilleke, police sources said.
-
-Duminda Jayatilleke, who was conducting investigations into the case of the Qurata CID, was arrested by investigations into the incident.
-
-A official firearm had been issued to Inspector Duminda to have the security of Inspector Duminda due to heavy threats from underworld gang members.
-
-...
-
-[Data](articles/0ae3fd4d.json)
-
-[Extended Data](ext_articles/0ae3fd4d.ext.json)
 
 ---

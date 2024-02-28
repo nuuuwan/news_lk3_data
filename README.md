@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 13:02:28**
+As of **2024-02-28 13:17:27**
 
 ## Newspaper Stats
 
-*Scraped **9,763** Articles*
+*Scraped **9,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 1,175
 tamilmirrorlk | 1,189
 virakesarilk | 1,339
 dailymirrorlk | 1,474
-adaderanasinhalalk | 1,478
+adaderanasinhalalk | 1,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,763 (100.0%) of 9,763 articles have been extended.
+9,763 (100.0%) of 9,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### ශ්‍රීලන්කන් ගුවන් ගමන් ගැන අලුත්ම කතාව
+
+*2024-02-28 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193909) · `si`
+
+ශ්‍රීලන්කන් ගුවන් සේවයේ ගුවන් යානා පිටවීම් සහ පැමිණීම් අද (28) පස්වරුව වන විට සාමාන්‍ය තත්ත්වයට පත්විය හැකි බව ශ්‍රීලන්කන් ගුවන් සමාගම පවසයි.
+
+අද දෙරණ "බිග් ෆෝකස්" වැඩසටහන සමග එක්වෙමින් ගුවන් සමාගමේ වෘත්තීය සමිති සංගම් පවසන්නේ දේශපාලන මැදිහත්වීම මත ගුවන්යානා මිලදී ගැනීම් අවලංගු කිරීම හේතුවෙන් ගුවන් සමාගම වත්මන් අර්බුදයට මුහුණ පා ඇති බවය.
+
+ශ්‍රීලන්කන් ගුවන් ගමන් වාර ප්‍රමාදවීම සහ ඇතැම් ගමන් වාර අවලංගු වීමේ සිද්ධී පසුගිය කාලය පුරා දිගින් දිගටම වාර්තා වූ අතර ඉකුත් ඉරිදා සිට එම ගැටලුව උග්‍ර තත්ත්වයට පත්වුණි.
+
+ඊයේ (27) දිනයේදී පමණක් ගුවන් ගුමන්වාර 10 කට වැඩි ප්‍රමාණයක් ප්‍රමාද වී ක්‍රියාත්මක වු අතර ගුවන් ගමන්වාර 03කට ආසන්න සංඛ්‍යාවක්ද අවලංගු වී තිබිණි.
+
+මේ සම්බන්ධයෙන් අදහස් පළ කළ, ශ්‍රීලන්කන් ගුවන් සමාගමේ, ශ්‍රී ලංකා නිදහස් සේවක සංගමයේ ලේකම්, හසන්ත යසරත්න මහතා,
+
+...
+
+[Data](articles/11d810d0.json)
+
+---
 
 ### School outdoor activities suspended as atmospheric temperatures rise
 
@@ -2009,21 +2029,5 @@ The continuation of the national political parties continues. Various elections 
 [Data](articles/e77cca02.json)
 
 [Extended Data](ext_articles/e77cca02.ext.json)
-
----
-
-### New Head of Consumer, Private and Business Banking
-
-*2024-02-27 19:58:00* · [`islandlk`](http://island.lk/new-head-of-consumer-private-and-business-banking/) · `en`
-
-Standard Chartered has appointed Chamikara Wijesinghe as Head of Consumer, Private and Business Banking (CPBB) in Sri Lanka, effective February 5, 2024.
-
-Commenting on the new appointment, Bingumal Thewarathanthri, CEO of Standard Chartered Sri Lanka, stated, “We are pleased to announce the appointment of Chamikara Wijesinghe as the Head of Consumer Private and Business Banking for Sri Lanka. His extensive experience and expertise in consumer banking make him invaluable to our team. The appointment also reflects our commitment to recognise and promote internal talent, creating a culture of growth and career potential within the organisation. We are confident that, Chamikara’s proven track record in banking will strengthen this vital area of business.”
-
-...
-
-[Data](articles/4f3127b3.json)
-
-[Extended Data](ext_articles/4f3127b3.ext.json)
 
 ---

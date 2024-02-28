@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 17:17:51**
+As of **2024-02-28 17:33:37**
 
 ## Newspaper Stats
 
-*Scraped **9,815** Articles*
+*Scraped **9,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 503
 dailyftlk | 519
 islandlk | 521
-adalk | 831
-adaderanalk | 1,182
+adalk | 832
+adaderanalk | 1,184
 tamilmirrorlk | 1,195
 virakesarilk | 1,350
 dailymirrorlk | 1,483
@@ -26,29 +26,69 @@ adaderanasinhalalk | 1,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,813 (100.0%) of 9,815 articles have been extended.
+9,815 (100.0%) of 9,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### IMF තුන්වන වාරිකය ගැන සුබ ආරංචියක්
+### ‘Samarth’ and ‘Abhinav’: Two Indian Coast Guard Ships reach Sri Lanka
+
+*2024-02-28 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97597/samarth-and-abhinav-two-indian-coast-guard-ships-reach-sri-lanka) · `en`
+
+Two Indian Coast Guard Ships ‘Samarth’ and ‘Abhinav’ have reached Sri Lanka after concluding the 16th ‘Dosti’ trilateral exercise in Malé, the Maldives.
+
+The Offshore Patrol Vessel ‘Samarth’ and Fast Patrol Vessel ‘Abhinav’ docked at Galle Harbour on Tuesday (Feb.27) and are slated to set sail to Colombo Port on March 02, the Indian High Commission in Colombo said.
+
+The Commanding Officers of the ICGS, Deputy Inspector General P Pradeep Kumar and Commandant (JG) Prabhat Kumar will be calling on Director General Sri Lanka Coast Guard and other senior officers.
+
+During the stay, the ships will undertake training for Sri Lanka Coast Guard on VBSS, Fire Fighting and Damage Control, Maritime Pollution Response and hold few other professional interactions.
+
+Further, activities such as yoga, beach cleaning and a walkathon will also be held during the visit. In addition, Passage Exercise (PASSEX) will be conducted with Sri Lanka Coast Guard Ship, on departure, off Galle and Colombo.
+
+...
+
+[Data](articles/20b0e9e0.json)
+
+---
+
+### Ada Derana journalist acclaimed at int’l digital storytelling festival
+
+*2024-02-28 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97596/ada-derana-journalist-acclaimed-at-intl-digital-storytelling-festival-) · `en`
+
+Mr. K.C. Saranga, a seasoned journalist of TV Derana, has emerged triumphant at an international media festival in Bangladesh.
+
+He was named the joint winner of the Independent Category at the first-ever Community Digital Storytelling Festival (CDSTF) held in Dhaka recently, alongside Iga Gudas from Poland.
+
+The short docufilm titled ‘Cool Consolation’ directed by Mr. Saranga, who successfully brings to light the plight of the communities marginalized by urbanization in Sri Lanka, was thus acclaimed at the CDSTF.
+
+The festival, organized by the Department of Journalism, Media and Communication at the Daffodil International University in Bangladesh, aims to promote and celebrate the art of storytelling through the use of portable electronic devices.
+
+...
+
+[Data](articles/5fe189f4.json)
+
+---
+
+### Good news of the IMF Third Premium
 
 *2024-02-28 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193919) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් මාර්තු මාසයේ 07 වනදා සිට IMF 3 වන වාරිකයට අදාළ දෙවන සමාලෝචනය ආරම්භ කරනු ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+The IMF representatives will commence the second review of the IMF 3th premium from the 7th of March.
 
-ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් අමාත්‍යවරයා මෙම අදහස් පළකළේය.
+He was speaking at a media briefing held at the Presidential Media Center today.
 
-එහිදී IMF නියෝජිතයින් සති දෙකකට ආසන්න කාලයක් දෙවන සමාලෝචනය සිදුකරනු ඇතැයි විශ්වාස කරන බව මුදල් රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+The Minister of Finance added that IMF representatives will be conducted for nearly two weeks.
 
-එහිදී දෙසැම්බර් මස 31 වනදා දක්වා රජයේ මූල්‍ය තත්ත්වය සහ අනෙකුත් එකඟතා සම්පූර්ණ කිරීම පිළිබඳව සමාලෝචනය කරනු ඇති බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+The government will review the completion of government financial position and other agreements until December 31st.
 
-මෙහිදී රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේ දෙවන සමාලෝචනය අවසන්වීමෙන් පසුවන කාර්යමණ්ඩල එකඟතාවයට පැමිණි පසු ජාත්‍යන්තර මූල්‍ය අරමුදලේ තුන්වන වාරිකය හිමිවනු ඇති බවට විශ්වාසය පළකරන බවය.
+The State Minister stated that he was confident that the International Monetary Fund's third premium will be entitled to the staff agreement with the second review.
 
 ◼️
 
 [Data](articles/c17e5c1d.json)
+
+[Extended Data](ext_articles/c17e5c1d.ext.json)
 
 ---
 
@@ -86,23 +126,25 @@ Opposition parties allege that the Speaker passed the Security Bill of Online Or
 
 ---
 
-### රතිඤ්ඤා කම්හලේ ගින්නට මැදිවූ හිමිකරුත් මරුට
+### Fire breaks down at the firecrackers
 
 *2024-02-28 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193918) · `si`
 
-කිඹුලාපිටිය ප්‍රදේශයේ රතිඤ්ඤා කර්මාන්ත ශාලාවක ඇතිවූ ගින්නෙන් බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කළ එහි හිමිකරු අද (28) මියගොස් තිබේ.
+The owner of the fire was seriously injured and admitted to the Colombo National Hospital today (28).
 
-පසුගියදා මෙම ගින්න හේතුවෙන් තුවාල ලැබූ තිදෙනෙකු මීගමුව රෝහලට ඇතුළත් කළේය.
+Recently, three injured have been admitted to the Negombo hospital.
 
-ඉන් බරතපළ තුවාල ලබා සිටි එහි හිමිකරු සහ තවත් සේවකයෙකු කොළඹ ජාතික රෝහල වෙත මාරුකර ඒවා තිබුණි.
+The owner and another employee had been transferred to the Colombo National Hospital.
 
-බරපතළ තත්ත්වයේ පසුවූ සේවකයා ඊයේ මියගොස් ඇති අතර එහි හිමිකරු ද අද මෙලෙස මියගොස් ඇත.
+The victim was dead yesterday and the owner was also killed today.
 
-රතිඤ්ඤා නිෂ්පාදනයේදී සිදුවූ අත්වැරදීමක් හේතුවෙන් මෙම ගින්න හටගන්නට ඇති බවට පොලීසිය සැකපළ කරයි.
+Police suspect that the fire has caused this fire due to a birthcossing manufacture of firecrackers.
 
 ◼️
 
 [Data](articles/4af62a12.json)
+
+[Extended Data](ext_articles/4af62a12.ext.json)
 
 ---
 
@@ -269,6 +311,26 @@ He added that the US is dedicated to further increasing its ability to protect S
 [Data](articles/4a820ea8.json)
 
 [Extended Data](ext_articles/4a820ea8.ext.json)
+
+---
+
+### 2018  හිටපු තත්ත්වයට එන්න තවත් වසර දෙකක් යනවා
+
+*2024-02-28 14:54:20* · [`adalk`](https://www.ada.lk/breaking_news/2018--හිටපු-තත්ත්වයට-එන්න-තවත්-වසර-දෙකක්-යනවා/11-408328) · `si`
+
+කාන්තා ව්‍යවසායකත්වය බල ගැන්වීමට රජය පුළුල් වැඩපිළිවෙළක් සකස් කර තිබෙනවා
+
+රටේ ආර්ථිකය ගොඩනැඟීමේ දී කාන්තාවන්ට විශාල වැඩකොටසක් ඉටු කළ හැකියි – විශිෂ්ට ව්‍යාපාරික කාන්තාවන් අගයමින් ජනපති පවසයි.
+
+ඉදිරියේදී රට තුළ ඇතිවන ආර්ථික පරිවර්තනයට අනුගත විය හැකි කාන්තා ව්‍යවසායකයින් බිහිකිරිමට පියවර ගන්නා බවත්, ඒ සඳහා වන වැඩපිළිවෙළ මේ වන විට රජය සකස් කර තිබෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+ඩිජිටල් හා හරිත ආර්ථිකය තුළ කාන්තා ව්‍යවසායකයින්ට පුළුල් වැඩ කොටසක් ඉටුකළ හැකි බව පෙන්වා දුන් ජනාධිපතිවරයා කාන්තා ව්‍යාපාරික ප්‍රජාව බල ගැන්වීමට හැකි සෑම සහයක්ම රජය විසින් ලබාදෙන බවද කියා සිටියේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඊයේ (27) පස්වරුවේ කොළඹ දී පැවති ‘ප්‍රතිභාභිෂේකා කාන්තා ව්‍යවසායක සම්මාන 2023” උළෙල අමතමිනි.
+
+...
+
+[Data](articles/b3f0beb2.json)
 
 ---
 
@@ -2019,59 +2081,5 @@ In recent times, discussions surrounding the NPP’s position on foreign direct 
 [Data](articles/0a49a392.json)
 
 [Extended Data](ext_articles/0a49a392.ext.json)
-
----
-
-### AKD and Chanakya Manthras
-
-*2024-02-28 03:24:04* · [`dailyftlk`](https://www.ft.lk/columns/AKD-and-Chanakya-Manthras/4-758937) · `en`
-
-According to AKD, with the Indian visit, his party has shaken the cradles of conventional politics
-
-As a schoolboy, I was in Tambuththegama with an uncle who served in the Rajanagana Irrigation Project. Inquisitively then, I went to see the Tambuththegama Yodaya-Herath Banda. Anyone visiting him was surprised by his physique.
-
-Today, many thousands congregate to listen to another Tambuththegama product that eloquently addresses the masses, rooting his rural origin, on contemporary socio-economic-political problems, seeking the mandate to rule the country. He quotes the competition he faces from the elitists, depicting a ‘class struggle’. He is Anura Kumara Dissanayake (AKD), an educated, eloquent, robust political leader.
-
-...
-
-[Data](articles/a8b0aebc.json)
-
-[Extended Data](ext_articles/a8b0aebc.ext.json)
-
----
-
-### IMF prescription, sick economy and Government nursing
-
-*2024-02-28 03:17:20* · [`dailyftlk`](https://www.ft.lk/columns/IMF-prescription-sick-economy-and-Government-nursing/4-758934) · `en`
-
-The pressure on the common man and the middle class is enormous and it keeps escalating in terms of the frequent price revisions on critical services followed by the prices of essential goods and services
-
-The current engagement of IMF in Sri Lanka, is obviously a ‘desperate invitation’ of the Sri Lankan authorities, when all options were exhausted due to the absence of a strategy to leverage our reserves and resources in an effective manner, based on national priorities.
-
-...
-
-[Data](articles/bc321824.json)
-
-[Extended Data](ext_articles/bc321824.ext.json)
-
----
-
-### Japan extends Rs. 2.5 b grant to strengthen border-related health capacities
-
-*2024-02-28 03:05:34* · [`dailyftlk`](https://www.ft.lk/news/Japan-extends-Rs-2-5-b-grant-to-strengthen-border-related-health-capacities/56-758929) · `en`
-
-Cabinet Co-Spokesman and Minister Bandula Gunawardena says move to boost tourism industry further
-
-Considering the significant contribution of the tourism industry to the economy, Japan has agreed to extend a grant of Yen 1.17 billion (around Rs. 2.5 billion) via the International Organisation for Migration (IOM) to strengthen border-related health preparedness at two key entry ports in Sri Lanka.
-
-The Bandaranaike International Airport (BIA) and Colombo Port will see an upgrade in its health capacities according to international practices, recommendations and standards through the grant facility.
-
-“The financial aid will help to improve health capacities to deal with direct contribution of the control of infectious disease and the overall security of all passengers, staff and staff of points of entry in various health emergencies,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
-
-...
-
-[Data](articles/85fc222c.json)
-
-[Extended Data](ext_articles/85fc222c.ext.json)
 
 ---

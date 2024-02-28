@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 21:02:47**
+As of **2024-02-28 21:17:28**
 
 ## Newspaper Stats
 
-*Scraped **9,860** Articles*
+*Scraped **9,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,84 @@ newsfirstlk | 363
 economynextcom | 503
 dailyftlk | 519
 islandlk | 521
-adalk | 839
+adalk | 840
 adaderanalk | 1,187
 tamilmirrorlk | 1,201
 virakesarilk | 1,359
 dailymirrorlk | 1,489
-adaderanasinhalalk | 1,497
+adaderanasinhalalk | 1,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,859 (100.0%) of 9,860 articles have been extended.
+9,860 (100.0%) of 9,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### மின்சாரக் கட்டணத்தை 14 சத வீதத்தால் குறைக்க முன்மொழிவு!
+### නිවුන් දරුවන් දෙදෙනෙකුට ලිංගික අපයෝජනයක් ?
+
+*2024-02-28 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193931) · `si`
+
+පිරිමි නිවුන් දරුවන් දෙදෙනෙකුට ලිංගික අපයෝජන සිදුකළ බව කියන චෝදනා මත චීවරධාරියෙකු හෝමාගම මූලස්ථාන පොලීසිය මගින් අත්අඅඩංගුවට ගෙන ඇත.
+
+හෝමාගම මහෙස්ත්‍රාත් අධිකරණයට අද (28) ඉදිරිපත් කෙරුණු සැකකාර චීවරධාරියා රුපියල් ලක්ෂ 05 බැගින්වූ ශරීර ඇප මත මුදා හැර තිබේ.
+
+චීවරධාරියෙකු අතින් අපයෝජනය වී ඇතැයි වාර්තාවන්නේ වයස අවුරුදු 13ක පිරිමි නිවුන් දරුවන් දෙදෙනෙකි.
+
+චෝදනාවට ලක්වූ චීවරධාරියා යන්ත්‍ර මන්ත්‍ර ගුරුකම් මගින් ලෙඩ සුව කරන බවද වාර්තා වෙයි.
+
+අපයෝජනයට ලක්වූ බව කියන කුඩා දරුවන් දෙදෙනාගෙන් එක් දරුවෙක් මීට දින කිහිපයකට පෙර අසනීප වී ඇති අතර ඊට ප්‍රතිකාර කිරීම සඳහා එම මව්පියන් දරුවා මෙම හිමිනම හමුවට රැගෙන ගොස් තිබේ.
+
+සැකකාර චීවරධාරියා එහිදී මව්පියන්ට පවසා ඇති අතර ඒ අනුව ඔවුන් සිය දරුවා එහි රඳවා ගොස් ඇති බව පොලීසිය පවසයි.
+
+පසුව නිවුන් දරුවන්ගෙන් අනෙක් දරුවා සිය සොයුරා නොමැතිව අසනීප වී ඇති අතර සැකකරු මෝටර් රථයකින් නිවසට පැමිණ එම දරුවාද රැගෙන ගොස් ඇති බව හෙළිවී තිබේ.
+
+එහිදී සැකකාර චීවරධාරියා දරුවන් දෙදෙනාම අපයෝජනයට ලක් කර ඇති බව විමර්ශනයේදී අනාවරණ වී ඇත.
+
+...
+
+[Data](articles/205334ba.json)
+
+---
+
+### Proposal to reduce electricity tariff by 14 %
 
 *2024-02-28 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177548) · `ta`
 
-இலங்கை மின்சார சபை கடந்த 22ஆம் திகதி பொதுப் பயன்பாடுகள் ஆணைக்குழுவுக்கு அனுப்பி வைத்த பிரேரணையில் மின்சாரக் கட்டணத்தை 14 சத வீதத்தால் குறைக்க முன்மொழிந்துள்ளது.
+The Ceylon Electricity Board (CEB) has proposed to reduce the electricity tariff by 14 per cent in a resolution sent to the Public Utilities Commission on the 22nd.
 
-கடந்த ஜனவரி மாதம் மின்சாரக் கட்டணத்தை 3.34 சதவீதம் குறைப்பதற்காக முன்வைக்கப்பட்ட யோசனையை மீளப் பெற்று இந்த புதிய திட்டத்தை மின்சார சபை முன்வைத்துள்ளது.
+The Electricity Board (CEB) has presented the proposal to reducing the proposal to reduce the electricity tariff by 3.34 per cent last January.
 
-எவ்வாறாயினும், கடந்த வருடம் ஒக்டோபர் மாதம் அதிகரிக்கப்பட்ட அதே அளவான கட்டணத்தை குறைக்கவுள்ளதாக மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர அண்மையில் நாடாளுமன்றத்தில் தெரிவித்திருந்தார்.
+However, the Minister of Power and Energy Kanjana Wijesekera recently told Parliament that the same amount of tariffs will be reduced in October last year.
 
 ◼️
 
 [Data](articles/a3a94889.json)
+
+[Extended Data](ext_articles/a3a94889.ext.json)
+
+---
+
+### ජුනි මාසයේ සිට අස්වැසුම ප්‍රතිලාභීන් ලක්ෂ 24ක් දක්වා වැඩි කිරීමට සූදානම්
+
+*2024-02-28 20:17:06* · [`adalk`](https://www.ada.lk/breaking_news/ජුනි-මාසයේ-සිට-අස්වැසුම-ප්‍රතිලාභීන්-ලක්ෂ-24ක්-දක්වා-වැඩි-කිරීමට-සූදානම්/11-408341) · `si`
+
+අස්වැසුම දෙවන අදියර සඳහා ඉල්ලුම් කළ ප්‍රතිලාභ අපේක්ෂිතයන්ගේ දත්ත පරීක්ෂා කිරීම සහ සහතික කිරීම අවසන් කර ඇති බවත්, 2024 ජුනි මාසයේ සිට අස්වැසුම ප්‍රතිලාභී පවුල් ඒකක ප්‍රමාණය ලක්ෂ 24ක් දක්වා වැඩි කිරීමට සියලු කටයුතු සූදනම් කර ඇති බවත් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+
+අස්වැසුම දෙවන අදියරේ අයදුම්පත් කැඳවීම 2024 මාර්තු 15 වනදායින් අවසන් වන අතර ඉල්ලුම් පත්‍ර ඉදිරිපත් නොකරන කිසිවකු අස්වැසුම ප්‍රතිලාභය ලැබීමට සුදුසුකම් නොලබන බව ද රාජ්‍ය අමාත්‍යවරයා අවධාරණය කළේය.
+
+මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (28) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+එමෙන්ම සාවද්‍ය තොරතුරු හරහා අස්වැසුම ප්‍රතිලාභ ලබාගත් 7000ක පමණ පිරිසක් ඉන් ඉවත් කර තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍යවරයා මෙසේ ද පැවසීය,
+
+...
+
+[Data](articles/d33e7d7c.json)
 
 ---
 
@@ -1973,49 +2021,5 @@ As a Jaffna University Student Community, students of our Jaffna University Empl
 [Data](articles/80cd1c16.json)
 
 [Extended Data](ext_articles/80cd1c16.ext.json)
-
----
-
-### Democrats want to contest Michelle Obama in response to US presidential election
-
-*2024-02-28 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177482) · `ta`
-
-The poll has revealed that Michelle Obama should contest on behalf of the Democratic Party in the US presidential election.
-
-The poll also reveals that the majority of Democrats think that Joe Bidan should not contest against Donald Trump in the presidential election.
-
-Democrats want Michelle Obama to contest against Donald Trump.
-
-Prior to the November election, 48 percent of the Democrats supported the party to appoint a different candidate in response to Jobitan.
-
-Meanwhile, 33 percent of the voters have expressed confidence that such a matter could occur at this moment.
-
-Although the Democrats are not in public regarding who should contest the election in response to Baidan, 20 percent mentioned Michelle Obama.
-
-The names of many, including Hamala Harris, are mentioned, but the former president's spouse has much support.
-
-◼️
-
-[Data](articles/33014c43.json)
-
-[Extended Data](ext_articles/33014c43.ext.json)
-
----
-
-### Governor's Directorate to take immediate action on the attack on a student at Nelliyadi Central College, Jaffna
-
-*2024-02-28 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177475) · `ta`
-
-Governor of the Northern Province BSMM to immediately investigate the attack on a newcomer student who enrolled in Grade 06 at Grade 06, Jaffna - Nelliyadi Central College.. According to Charles, the school principal and the Zonal Education Workshop have been instructed by the Governor's direct supervision to investigate the matter and submit a report on this issue.
-
-The Chancellor of the Nelliyadi Central College has said that the victim and the attacker are being investigated and taking appropriate action. Continuous surveillance will be carried out by the Governor's direct surveillance until the victim is given the appropriate solution to the incident.
-
-An attack on a newcomer who joined Grade 06 at Nelliyadi Central College, Jaffna. As the victim was admitted to the Point Pedro Base Hospital and admitted to the Jaffna Teaching Hospital for further treatment, the student went to the Governor's Secretariat and inquired about the attack on the student.
-
-◼️
-
-[Data](articles/152f0104.json)
-
-[Extended Data](ext_articles/152f0104.ext.json)
 
 ---

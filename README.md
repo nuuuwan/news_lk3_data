@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 08:50:14**
+As of **2024-02-28 09:02:58**
 
 ## Newspaper Stats
 
-*Scraped **9,724** Articles*
+*Scraped **9,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 500
 dailyftlk | 519
 islandlk | 521
-adalk | 820
+adalk | 821
 adaderanalk | 1,169
 tamilmirrorlk | 1,188
 virakesarilk | 1,330
@@ -26,61 +26,71 @@ adaderanasinhalalk | 1,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,720 (100.0%) of 9,724 articles have been extended.
+9,724 (100.0%) of 9,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### ”பேக்கரி தொழிலுக்கு கடுமையான அடி”
+### “Strict blow to the bakery business”
 
 *2024-02-28 08:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கரி-தொழிலுக்கு-கடுமையான-அடி/175-333923) · `ta`
 
-அதிக உற்பத்திச் செலவுகள் காரணமாக உள்ளூர் சந்தையில் கேக் பாண் மற்றும் பன்களின் விற்பனை சுமார் 50% ஆல் குறைந்துள்ளதாக அகில இலங்கை பேக்கரி உரிமையாளர்கள் சங்கம் (ACBOA) தெரிவித்துள்ளது.
+The All Ceylon Bakery Owners Association (ACBOA) said that sales of cake and palms in the local market have declined by about 50% due to high production costs.
 
-மாஜரின் மற்றும் வெண்ணெய் விலை ரூ.1000 ஆக அதிகரித்துள்ளதுடன்  ஒரு கிலோகிராமின் விலை முறையே 3,000 ஆகவுள்ளதாக அவர்கள் தெரிவித்தனர்.
+The prices of Major and butter have increased to Rs. 1,000 and the price of a kilogram will be 3,000 respectively.
 
-"இந்தியாவில் இருந்து இறக்குமதி செய்யப்பட்ட முட்டைகள் இன்னும் எங்களுக்கு வரவில்லை, மேலும் உள்நாட்டில் உற்பத்தி செய்யப்படும் முட்டைகளை தலா 60 ரூபாய்க்கு வாங்க வேண்டும். இது பேக்கரி தொழிலுக்கு கடுமையான அடியாகும்" என்று சங்கத் தலைவர் கூறினார்.
+"The eggs imported from India have not yet come to us. We have to buy locally produced eggs for 60 rupees each. This is a serious blow to the bakery industry, ”the association president said.
 
-எனவே எதிர்வரும் சிங்கள, இந்து புத்தாண்டுக்கு முன்னர் பேக்கரி உற்பத்தியாளர்களுக்கு தேவையான பொருட்களின் விலைகளை குறைத்து சலுகைகளை வழங்குமாறு பேக்கரி உரிமையாளர்கள் சங்கம் அரசாங்கத்திடம் கோரிக்கை விடுக்கின்றது.
+Therefore, the Bakery Owners Association has called on the government to reduce the prices of goods required for bakery manufacturers ahead of the upcoming Sinhala and Hindu New Year.
 
 ◼️
 
 [Data](articles/90e7e661.json)
 
+[Extended Data](ext_articles/90e7e661.ext.json)
+
 ---
 
-### ගොඩනැගිල්ලක බිත්තියක් කඩා වැටී පුද්ගලයෙක් මරුට
+### A man dies after falling into a building
 
 *2024-02-28 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193899) · `si`
 
-මහරගම පොලිස් වසමේ හයිලෙවල් මාර්ගය ආසන්නයේ ගොඩනැගිල්ලක් කඩා ඉවත් කරමින් සිටි සේවකයින් දෙදෙනෙකුගේ ඇඟ මතට එම ගොඩනැගිල්ලේ බිත්තියක් කඩා වැටී තිබේ.
+The wall has collapsed on the body of two employees who have been demolished near the Maharagama Police Division.
 
-පොලීසිය සඳහන් කළේ, එම බිත්තියට යටවීමෙන් අදාළ සේවකයින් දෙදෙනා තුවලා ලබා කළුබෝවිල රෝහලට ඇතුළත් කර ඇති බවය.
+The police said that the two employees have been admitted to the Kalubowila hospital with the bruise.
 
 ◼️
 
 [Data](articles/2e0496b7.json)
 
+[Extended Data](ext_articles/2e0496b7.ext.json)
+
 ---
 
-### சில பகுதிகளில் இடியுடன் கூடிய மழை பெய்யும்
+### Thundershowers in some areas
 
 *2024-02-28 08:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-இடியுடன்-கூடிய-மழை-பெய்யும்/175-333922) · `ta`
 
-நுவரெலியா, மாத்தளை மற்றும் பொலன்னறுவைமாவட்டங்களில் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+The Department of Meteorology has predicted from time to time in Nuwara Eliya, Matale and Polonnaruwa.
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அனுராதபுரம் மாவட்டத்திலும் பலதடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+Heavy rains are expected in the Eastern and Uva provinces and Anuradhapura district.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் கண்டி,காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+There is a possibility of rainfall or thunderstorms in some places in the upper and Sabaragamuwa provinces and in some places in Kandy, Galle and Matara districts.
 
-மத்திய மலைநாட்டின் கிழக்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, வடமேல், தென், ஊவா மற்றும் கிழக்கு மாகாணங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
+Heavy winds are expected to blow up to 30-40 km / h from time to time in the Eastern Slips of the Central Highlands and the North, North Western, South, Uva and Eastern Provinces.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள்.
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts.
+
+Showers or thunderstorms are possible in some areas from Trincomalee to Pottuvil via Batticaloa.
+
+In the seas around the country, the wind is blowing from the northeast and the wind is expected to be 25-35 kilometers per hour.
 
 ...
 
 [Data](articles/f5460b6c.json)
+
+[Extended Data](ext_articles/f5460b6c.ext.json)
 
 ---
 
@@ -344,19 +354,23 @@ The Bandaranaike International Airport (BIA) and Colombo Port will see an upgrad
 
 ---
 
-### ’பராட்டே சட்ட திருத்தம் பாராளுமன்றத்தில்’
+### Model Paratete Law Amendment in Parliament
 
 *2024-02-28 03:04:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பராட்டே-சட்ட-திருத்தம்-பாராளுமன்றத்தில்/175-333908) · `ta`
 
-அமைச்சரவை தீர்மானத்தின் பிரகாரம், தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ள பராட்டே சட்டம் தொடர்பான திருத்தத்தை எதிர்காலத்தில் பாராளுமன்றத்தில் சமர்பிக்க எதிர்பார்க்கப்படுகிறது என நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa said that the Cabinet decision is expected to be presented in Parliament in the future.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
 
-நாடு ஒரு நிதிக் கொள்கையைக் கொண்டிருக்க வேண்டும். மேலும் பொருளாதாரமும் வலுவாக இருக்க வேண்டும். இந்த விடயத்தில் இலங்கை மத்திய வங்கிக்கு கணிசமான அதிகாரம் உள்ளது. கடந்த காலத்தில் இலங்கையில் கருத்தாடலுக்கு உட்பட்ட பரேட்டா சட்டம் பற்றி குறிப்பிடுவதென்றால், இவ்விடயத்தில் மத்திய வங்கி, நிதி நிறுவனங்களின் ஸ்திரத்தன்மையை பாதுகாப்பதில் மாத்திரமே கவனம் செலுத்தியது.
+The country must have a financial policy. And the economy should be strong. The Central Bank of Sri Lanka has significant authority on this issue. In the past, the Parata Act, which is under conception in Sri Lanka, has only focused on the protection of the stability of the central bank and financial institutions.
+
+Many sides questioned whether the central bank focused on the country's stockpile. In addition, the agriculture sector should focus on the fall of 22 % - 8 percent and the industry to 38 % - 32 %.
 
 ...
 
 [Data](articles/5183c8a0.json)
+
+[Extended Data](ext_articles/5183c8a0.ext.json)
 
 ---
 
@@ -1077,6 +1091,22 @@ At the same time, the judge announced that he would be given 15 thousand money a
 [Data](articles/2a5416e7.json)
 
 [Extended Data](ext_articles/2a5416e7.ext.json)
+
+---
+
+### වසර 84ට පසුව ලංකාවෙන් හමුවූ ගංඟල්ගුල්ලා
+
+*2024-02-27 20:31:33* · [`adalk`](https://www.ada.lk/picture_story/වසර-84ට-පසුව-ලංකාවෙන්-හමුවූ-ගංඟල්ගුල්ලා/10-408318) · `si`
+
+Gymnothorax polyuranodon යන විද්‍යාත්මක නාමයෙන් හැඳින්වෙන 'ගංගල්ගුල්ලා' (Freshwater Moray) මත්ස්‍ය විශේෂය වසර 84කට පසු මෙරටින් වාර්තා වී තිබේ.
+
+ඒ අනුව මෙම මත්ස්‍ය විශේෂයේ නිදර්ශකයක්  ගිං ගඟෙහි වක්වැල්ල ප්‍රදේශයෙන් වාර්තා කිරීමට හිරණ්‍ය සුදසිංහ(බර්න් විශ්වවිද්‍යාලය), තරිඳු රණසිංහ (Wild Island Foundation) සහ ස්විට්සර්ලන්ත ජාතික ලූකාස් රූබර්(බර්න් ස්වභාව විද්‍යා කෞතුකාගාරය) යන පර්යේෂණ කණ්ඩායමට හැකියාව ලැබී ඇත. එසේම ඊට අදාළ පර්යේෂණ පත්‍රිකාව පසුගිය 23 වැනිදා  %Zootaxa^ යන අන්තර්ජාතික විද්‍යාත්මත සඟරාව මගින් ප්‍රකාශයට පත්කර තිබිණි.
+
+පී.ඊ.පී. දැරණියගල මහතා විසින් වර්ෂ 1937 දී රත්නපුර කහන්ගමින් හා දොඩන්ගොඩින් මෙම විශේෂය පළමුව ශ්‍රී ලංකාවෙන් වාර්තාකරන තිබූ නමුත් අනතුරුව මෙම විශේෂය නැවත මෙරටින් වාර්තා නොවීය. ඒ අනුව 2021 වර්ෂයේදී වක්වැල්ල ප්‍රදේශයෙන් ධීවරයෙකුට මෙම විශේෂය හමුව තිබූ අතර ගල්ගුල්ලෙකු හඳුනාගැනීම සඳහා ඉහත පර්යේෂණ කණ්ඩායමට යොමු කර තිබිණ. එහිදී  මෙම නිදර්ශකයේ ජාන විද්‍යාත්මක ලක්ෂණ විමර්ශනය කිරීමෙන් අනතුරුව එය Gymnothorax polyuranodon යන විශේෂයට අයත් බවට තහවුරු කර තිබේ.
+
+...
+
+[Data](articles/85d9c68b.json)
 
 ---
 
@@ -1981,21 +2011,5 @@ The agitation was reportedly launched demanding solutions to several concerns in
 [Data](articles/a8a6b924.json)
 
 [Extended Data](ext_articles/a8a6b924.ext.json)
-
----
-
-### Police and tear gas attack by police
-
-*2024-02-27 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193882) · `si`
-
-Police and tear gas were attacked on a protest march organized by the students of the University of Sri Jayewardenepura.
-
-The Faculty of Humanities and Socialist Association of Sri Jayewardenepura, University of Sri Jayewardenepura, was organized by the University of Sri Jayewardenepura, the University of Sri Jayewardenepura for solutions for problems, cafeteries and academic welfare.
-
-◼️
-
-[Data](articles/8b8ecb79.json)
-
-[Extended Data](ext_articles/8b8ecb79.ext.json)
 
 ---

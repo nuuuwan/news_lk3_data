@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 21:33:19**
+As of **2024-02-28 21:52:22**
 
 ## Newspaper Stats
 
-*Scraped **9,862** Articles*
+*Scraped **9,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 economynextcom | 503
 dailyftlk | 519
 islandlk | 521
-adalk | 840
+adalk | 841
 adaderanalk | 1,187
-tamilmirrorlk | 1,201
+tamilmirrorlk | 1,202
 virakesarilk | 1,359
-dailymirrorlk | 1,489
-adaderanasinhalalk | 1,498
+dailymirrorlk | 1,494
+adaderanasinhalalk | 1,499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,862 (100.0%) of 9,862 articles have been extended.
+9,867 (100.0%) of 9,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Court grants anticipatory bail on actress Damitha and her husband
+
+*2024-02-28 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-grants-anticipatory-bail-on-actress-Damitha-and-her-husband/108-277905) · `en`
+
+The Colombo Fort Magistrate granted anticipatory bail yesterday, preventing Actress Damitha Abeyratne and her husband from being arrested until March 6. This comes following an alleged complaint accusing them of cheating Rs.3 million by promising to provide job opportunities in Korea.
+
+Magistrate Thilina Gamage further issued notices directing CID’s Computer Crimes Unit OIC to appear before Court on next hearing date.
+
+Senior Counsel Ajith Pathirana, appearing for Damitha Abeyratne and her husband, expressed his disappointment at the Inspector General of Police's decision to hand over the investigation involving Rs.3 million to the CID.
+
+◼️
+
+[Data](articles/92e2aae8.json)
+
+---
+
+### Man arrested for heroin to her husband
+
+*2024-02-28 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193932) · `si`
+
+A wife who was brought to the secret heroin to be handed over to her husband in the Kalutara Prison has been arrested this afternoon.
+
+She has been brought to a husband to give her husband and it has been hiding heroin in the hidden drug.
+
+The woman has handed over the woman to the Kalutara Police since he was inspected by the prison officials.
+
+The suspect was a 34 year old resident of Payagalai area.
+
+The suspect had come along with his six-year-old daughter, police said.
+
+Prison sources say he found 550 milligrams of heroin.
+
+◼️
+
+[Data](articles/944b4065.json)
+
+[Extended Data](ext_articles/944b4065.ext.json)
+
+---
 
 ### Sexual abuse for two twins?
 
@@ -62,6 +102,26 @@ Accordingly, according to the complaint, the suspect was arrested by the police.
 
 ---
 
+### SLPP will decide on Presidential candidate after Basil’s arrival: Prasanna Ranatunga
+
+*2024-02-28 20:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-will-decide-on-Presidential-candidate-after-Basils-arrival-Prasanna-Ranatunga/108-277902) · `en`
+
+Colombo, Feb 28 (Daily Mirror) - Sri Lanka Podu Jana Peramuna ( SLPP) will decide on its presidential candidate when former Minister Basil Rajapaksa arrives in Sri Lanka shortly, Chief Government Whip c said today.
+
+Ranatunga told media that SLPP will decide on its presidential candidate when Basil Rajapaksa arrives in Sri Lanka shortly.
+
+"SLPP will have to rally around incumbent President Ranil Wickremesinghe as he has managed to bring some kind of stability to the nation. It was Ranil who was willing to take over the nation when others were running away when the country was plunged into an economic crisis in 2022, "he however said.
+
+The Minister denounced reports that there will be a snap general election soon.
+
+◼️
+
+[Data](articles/3e330a5f.json)
+
+[Extended Data](ext_articles/3e330a5f.ext.json)
+
+---
+
 ### Proposal to reduce electricity tariff by 14 %
 
 *2024-02-28 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177548) · `ta`
@@ -77,6 +137,20 @@ However, the Minister of Power and Energy Kanjana Wijesekera recently told Parli
 [Data](articles/a3a94889.json)
 
 [Extended Data](ext_articles/a3a94889.ext.json)
+
+---
+
+### Fire breaks out at water pump storage in Biyagama
+
+*2024-02-28 20:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-breaks-out-at-water-pump-storage-in-Biyagama/108-277908) · `en`
+
+A fire erupted at a storage facility where water pumps were stored at Bandarawatte in Biyagama this afternoon, Police said.
+
+A large number of water pumps have been destroyed in the fire which was doused with the assistance of four fire trucks.
+
+◼️
+
+[Data](articles/e2afb225.json)
 
 ---
 
@@ -150,6 +224,22 @@ Accordingly, steps have been taken to issue a Passport of the Sri Lanka Deputy H
 
 ---
 
+### The death of one person in the train;People in the struggle
+
+*2024-02-28 19:53:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரதத்தில்-மோதி-ஒருவர்-மரணம்-போராட்டத்தில்-மக்கள்/175-333960) · `ta`
+
+Following the incident, the people of the area went on strike in the tiger between Puttalam and Chilaw.
+
+The siege caused the railway service to disrupt its journey and passengers were also affected.
+
+◼️
+
+[Data](articles/75f9dbea.json)
+
+[Extended Data](ext_articles/75f9dbea.ext.json)
+
+---
+
 ### Massive fire spread in Biyagama: 4 fire trucks on the field!
 
 *2024-02-28 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177546) · `ta`
@@ -181,6 +271,28 @@ Following the incident, the residents of the area staged a train from Puttalam t
 [Data](articles/76ff9fe2.json)
 
 [Extended Data](ext_articles/76ff9fe2.ext.json)
+
+---
+
+### 2.4 mn family units to receive ’Aswasuma’ in second phase: Minister
+
+*2024-02-28 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2-4-mn-family-units-to-receive-Aswasuma-in-second-phase-Minister/108-277903) · `en`
+
+Colombo, Feb. 28 (Daily Mirror)- All necessary arrangements have been made to extend benefits in the second phase of the "Aswasuma" programme to 2.4 million family units, starting from June 2024, Finance State Minister Shehan Semasinghe said.
+
+The State Minister underscored the imminent closure of the second phase of the applications, slated to conclude on March 15, 2024.
+
+Emphasizing the importance of timely submission, he reiterated that individuals failing to submit their applications by the given deadline will forfeit eligibility for benefits associated with the programme.
+
+He said this during a media briefing at the Presidential Media Centre today (28), themed 'Collective Path to a Stable Country'.
+
+Minister Semasinghe said that approximately 7,000 individuals who were found to have received benefits based on false information have been removed from the programme due to appeals and objections.
+
+...
+
+[Data](articles/22a669eb.json)
+
+[Extended Data](ext_articles/22a669eb.ext.json)
 
 ---
 
@@ -233,6 +345,24 @@ Colombo, Feb. 28 (Daily Mirror)- National People's Power (NPP) MP Harini Amarasu
 [Data](articles/fae347ba.json)
 
 [Extended Data](ext_articles/fae347ba.ext.json)
+
+---
+
+### ජනාධිපතිවරණයේදී රනිල්ට සහාය පළ නොකර සිටීමට පොහොට්ටුවට අයිතියක් නෑ
+
+*2024-02-28 19:29:28* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයේදී-රනිල්ට-සහාය-පළ-නොකර-සිටීමට-පොහොට්ටුවට-අයිතියක්-නෑ/11-408336) · `si`
+
+රනිල් වික්‍රමසිංහ මහතාව ජනාධිපති ධූරයට පත් කිරීමට කටයුතු කළේ පොහොට්ටුව බැවින් ඊළඟ ජනාධිපතිවරණයේදී ඔහුට සහය පළ නොකර සිටීමට පොහොට්ටුවට අයිතියක් නැතැයි තමන් පෞද්ගලිකව විශ්වාස කරන බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+ඔහු අවධාරණය කරන්නේ ඊළග ජනාධිපතිවරණයේදී පොහොට්ටුවට විකල්ප අපේක්ෂකයෙක් නැත්නම් රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීම වඩාත් සුදුසු බවයි.
+
+පොහොට්ටුවට වෙනත් විකල්ප අපේක්ෂයකු සිටින බව තමන්ට නම් පෙනෙන්නට නැතැයිද ඇමතිවරයා කියා සිටියේය.
+
+ඇමතිවරයා මේ බව සදහන් කළේ ගාල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවට සහභාගි වීමෙන් අනතුරුව මාධ්‍යවේදීන් නැගූ ප්‍රශ්නවලට පිළිතුරු දෙමිනි. ගාල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුව අද (28) දින පැවැත්වුනේ ගාලු කොටුවේ පිහිටි හෝල් ඩී ගෝල් ශාලාවේදීය.
+
+...
+
+[Data](articles/6e19566d.json)
 
 ---
 
@@ -843,6 +973,28 @@ The festival, organized by the Department of Journalism, Media and Communication
 [Data](articles/5fe189f4.json)
 
 [Extended Data](ext_articles/5fe189f4.ext.json)
+
+---
+
+### Many SJBers will will join Ranil on March 10: Range Bandara
+
+*2024-02-28 16:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Many-SJBers-will-will-join-Ranil-on-March-10-Range-Bandara/108-277904) · `en`
+
+Colombo, Feb 28 (Daily Mirror) - Many members of the Samagi Jana Balawegaya (SJB) will abandon their party and join President Ranil Wickremesinghe when he kicks off his campaign for presidency on March 10 this year, UNP General Secretary Palitha Range Bandara said today.
+
+"These SJBers have already begun negotiations with us and will join us when our leader launches his campaign at a rally which is to be held in Kuliyapitiya on March 10," Range Bandara told a media briefing.
+
+Asked whether Field Marshal Sarath Fonseka will also join the President, the UNP General Secretary said the Field Marshal will end up with the right camp at the right time.
+
+Also he said Wickremesinghe will be an independent candidate at the Presidential election.
+
+"There is enough funds to hold a Presidential election in October this year," he also said.
+
+◼️
+
+[Data](articles/59e30693.json)
+
+[Extended Data](ext_articles/59e30693.ext.json)
 
 ---
 
@@ -1867,167 +2019,5 @@ The instructions have already been referred to the Provincial and Zonal Educatio
 [Data](articles/7511b272.json)
 
 [Extended Data](ext_articles/7511b272.ext.json)
-
----
-
-### School outdoor activities suspended as atmospheric temperatures rise
-
-*2024-02-28 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97587/school-outdoor-activities-suspended-as-atmospheric-temperatures-rise) · `en`
-
-The Education Ministry has instructed all respective school authorities to refrain from making students participate in strenuous outdoor activities until Friday (March 01) at schools as the prevailing high atmospheric temperatures are expected to rise further.
-
-Accordingly, Sports Day events, sports practices or any other scheduled outdoor activities are urged to be suspended for the time being.
-
-Provincial and zonal authorities of education have been instructed to brief school principals about the matter, the ministry said in a press release.
-
-In addition, school administrations are required to comply with the health guidelines issued by the Health Ministry and the Education Ministry.
-
-◼️
-
-[Data](articles/90493e1a.json)
-
-[Extended Data](ext_articles/90493e1a.ext.json)
-
----
-
-### Another suspicious death
-
-*2024-02-28 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193908) · `si`
-
-One person has died in a house in Weeluwewa area in Dambulla, police said.
-
-Investigations have commenced on a tip off received by the police yesterday (27).
-
-He said that the father of 45-year-old was married and was separated from his wife and lived at home with his mother.
-
-The mother had been suspicious when the mother was not home.
-
-◼️
-
-[Data](articles/bc7df337.json)
-
-[Extended Data](ext_articles/bc7df337.ext.json)
-
----
-
-### Retired teacher in Jaffna
-
-*2024-02-28 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/177484) · `ta`
-
-A retired teacher in the disk southern and area of the Vaddukoddai police division in Jaffna has made a wrong decision on Wednesday (28).
-
-The incident is said to have taken place at 5.00 am and 6.00 pm in the event of no one in the house.
-
-It is reported that he has already attempted suicide in 2016 and has since been depressed.
-
-A sudden death investigation officer A. Jayapalasingham. The body will be handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/60eadf07.json)
-
-[Extended Data](ext_articles/60eadf07.ext.json)
-
----
-
-### Story not in the vicinity near the passport office
-
-*2024-02-28 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193907) · `si`
-
-There is a warm situation among a group of people to obtain passports in front of the Department of Immigration and Emigration, Kandy.
-
-The people accused the Immigration and Emigration Department's Office of Officers due to their embarrassment.
-
-The warmtorous situation has arisen among others who have come to the passport to visit far from far away areas and several days who have come to the place this morning.
-
-In the meantime, the report was that the report was able to stay in the quest by an organized gang and charge the people who come in the quest by the people who visit passports.
-
-The people who have come to support the Immigration and Emigration Department in Kandy.
-
-When will the Immigration Authorities open the eyes of the Immigration Authorities to provide minimal or service to these crushed people who will come from the middle of the troubles from the midst of the midstando.
-
-◼️
-
-[Data](articles/6496f143.json)
-
-[Extended Data](ext_articles/6496f143.ext.json)
-
----
-
-### Special announcement to prevent school children in outdoors
-
-*2024-02-28 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193906) · `si`
-
-The Ministry of Education has announced today (29) and tomorrow (28) and tomorrow (28) and tomorrow (28).
-
-Accordingly, there is an outdoor sport or informed of outdoor sports or sports events or other external activity at any school.
-
-All school principals have already been referred to the provincial and zonal education authorities, along with the Ministry of Health and the Ministry of Education to work in the future.
-
-◼️
-
-[Data](articles/eb65d5c3.json)
-
-[Extended Data](ext_articles/eb65d5c3.ext.json)
-
----
-
-### India highly taken away
-
-*2024-02-28 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193905) · `si`
-
-About 200 people who had armed armed have abducted an advanced police officer in India.
-
-According to Indian media, the police officer had taken the abduction after six suspects were arrested by the police.
-
-About 200 gunmen had been raided at the police officer at around 7 pm last 7 pm and had been abducted by the police officer and his security officer.
-
-Thereafter, a group of army personnel immediately operated and released them.
-
-Police officers are currently receiving treatment at hospital, media reports say.
-
-◼️
-
-[Data](articles/4a473d41.json)
-
-[Extended Data](ext_articles/4a473d41.ext.json)
-
----
-
-### Recovery of a man's body near Batticaloa
-
-*2024-02-28 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/177483) · `ta`
-
-The body of a man has been recovered near the main private bus station in the Batticaloa city area, which belongs to the Batticaloa Headquarters Police Division, the Batticaloa Headquarters Police said.
-
-Batticaloa police headquarters headquarters has recovered the body of the bus conductor who saw the body when the bus was left at the scene of the bus at the scene on Wednesday (28) morning.
-
-The Batticaloa headquarters headquarters police say that the body of a 51 -year -old man from Kattankudi has been identified.
-
-◼️
-
-[Data](articles/34ab0fb1.json)
-
-[Extended Data](ext_articles/34ab0fb1.ext.json)
-
----
-
-### Ensure students' education immediately to the problems that affect academic staff - Jaffna. University Student Union
-
-*2024-02-28 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177481) · `ta`
-
-The Jaffna University Students Union has said that the immediate solution to the problems that affect academic staff should be resolved and ensure the education of the students.
-
-This is what it stated in a media statement issued today. In the report further,
-
-University Employees' Union, the University Grants Commission and the Government of Sri Lanka, have been granted an immediate solution to the university's employees' union, the university's employees' union, the university's salary conflict, the salary increase and the problems that affect them, and our Jaffna University Employees' Association (Jaffna University Employees' Association (Jaffna University).
-
-As a Jaffna University Student Community, students of our Jaffna University Employees Union to carry out a two -day strike, we are offering moral and complete support to our seniors excluding our lectures.
-
-...
-
-[Data](articles/80cd1c16.json)
-
-[Extended Data](ext_articles/80cd1c16.ext.json)
 
 ---

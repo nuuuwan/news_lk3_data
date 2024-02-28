@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 01:17:21**
+As of **2024-02-29 01:33:31**
 
 ## Newspaper Stats
 
-*Scraped **9,881** Articles*
+*Scraped **9,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 521
 adalk | 841
 adaderanalk | 1,193
 tamilmirrorlk | 1,203
-virakesarilk | 1,361
+virakesarilk | 1,365
 dailymirrorlk | 1,496
 adaderanasinhalalk | 1,499
 
@@ -26,23 +26,105 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,880 (100.0%) of 9,881 articles have been extended.
+9,881 (100.0%) of 9,885 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-02-29 (Thursday)
+
+### இலங்கை இந்திய மீனவர்களின் பிரச்சனை இணக்கப்பாட்டுடன் பேச்சுக்குத் தயார் - டக்ளஸ்
+
+*2024-02-29 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177555) · `ta`
+
+இலங்கை இந்திய மீனவர்களின் பிரச்சனை தொடர்பாக இணக்கப்பாட்டுடன் பேசுவதற்கு  தயார் என தமிழ்நாட்டு மீன்வளத்துறை அமைச்சருக்கு தெரிவித்ததாக  இலங்கை கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+
+முல்லைத்தீவு மாவட்டத்திற்குப் பயணம் மேற்கொண்ட கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா அவர்கள் முல்லைத்தீவு மாவட்ட செயலகத்தில் கலந்துரையாடல்களில்  ஈடுபட்டுள்ளார்.
+
+இதன்போது இலங்கை இந்தியா மீனவர்கள் பிரச்சினை தொடர்பிலான இரு நாட்டு அரசின் பேச்சுக்கள் தொடர்பில் முன்னேற்றம் ஏதும் இருக்கிறதா என ஊடகவியலாளர் ஒருவர் எழுப்பிய கேள்விக்கு பதிலளித்த அமைச்சர்.
+
+என்னுடன் தமிழ்நாட்டு மீன்வளத்துறை அமைச்சர் அனிதா ராதாகிருஷ்ணன் அவர்கள் தொலைபேசியில் பேசி இருந்தார் இந்தபிரச்சினைக்கு விரைவில் தீர்வு காணவேண்டும் என்றார்.
+
+அவர்கள் தமிழ்நாட்டு முதலமைச்சருடன் கலந்துரையாடுவதாகவும் அவர் ஊடாக பாண்டிச்சேரி முதலமைச்சருடன் கலந்துரையாடுவதாகவும். எனக்கு சொல்லப்பட்டது.
+
+அதேநேரத்தில் என்னையும் அந்த கலந்துரையாடலுக்கு நேரில் அல்லது தொலைபேசியில் கலந்நு கொள்ள முடியுமா என்று கேட்கப்பட்டதற்கு நான் அதற்கு இணங்கியுள்ளேன்.
+
+...
+
+[Data](articles/a7dc5b70.json)
+
+---
+
 ### 2024-02-28 (Wednesday)
 
-### ஏலத்தில் விற்கப்படும் ஸ்ரீலங்கன் எயார்லைன்ஸ்
+### பங்களாதேஷுடனான முதல் இரண்டு ரி20 போட்டிகளில் இலங்கை அணித் தலைவர் அசலன்க ; பெத்துமுக்கு பதில் அவிஷ்க
+
+*2024-02-28 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177554) · `ta`
+
+பங்களாதேஷுக்கு எதிராக சில்ஹெட்டில் மார்ச் 4ஆம் திகதி ஆரம்பமாகவுள்ள 3 போட்டிகள் கொண்ட சர்வதேச ரி20 கிரிகெட் தொடருக்கான முதல் இரண்டு போட்டிகளில் இலங்கை அணிக்கு பதில் தலைவராக சரித் அசலன்க பதவி வகிக்கவுள்ளார்.
+
+இதற்கு அமைய சர்வதேச ரி20 கிரிக்கெட் போட்டியில் முதல் தடவையாக இலங்கை அணிக்கு சரித் அசலன்க தலைமை தாங்கவுள்ளார்.
+
+ஆப்கானிஸ்தானுடனான 3ஆவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டி முடிவில் கள மத்தியஸ்தர் லிண்டன் ஹனிபலை சாடிய குற்றத்திற்காக வனிந்து ஹசரங்கவுக்கு 2 சர்வதேச ரி20 போட்டித் தடை விதிக்கப்பட்டது.
+
+எனினும்  மூன்றாவது ரி20 கிரிக்கெட் போட்டியில் ஹசரங்க மீண்டும் தலைமைப் பொறுப்பை ஏற்பார்.
+
+இதேவேளை, ஆப்கானிஸ்தானுடனான கடைசி சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியின்போது உபாதைக்குள்ளாகி ஓய்வு பெற்ற பெத்தும் நிஸ்ஸன்கவுக்கு உபாதையிலிருந்து மீளும்வரை ஓய்வு வழங்கப்பட்டுள்ளது.
+
+ஆப்கானிஸ்தானுடனான சர்வதேச ஒருநாள் கிரிக்கெட் தொடரில் அவர் இரண்டு அரைச் சதங்களைக் குவித்து துடுப்பாட்டத்தில் திறமையை வெளிப்படுத்தியிருந்தார்.
+
+...
+
+[Data](articles/08cb1657.json)
+
+---
+
+### சாந்தனின் மரணத்திற்கு இந்திய, இலங்கை அரசுகளும் தமிழ் தலைமைகளுமே பொறுப்பேற்க வேண்டும் - குரல் அற்றவர்களின் குரல் அமைப்பு
+
+*2024-02-28 23:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177553) · `ta`
+
+சாந்தனின் மரணத்திற்கு இந்திய, இலங்கை அரசுகளும் தமிழ் தலைமைகளுமே பொறுப்பேற்க வேண்டும் என குரல் அற்றவர்களின் குரல் அமைப்பின் ஒருங்கிணைப்பாளர் மு.கோமகன் தெரிவித்துள்ளார்.
+
+யாழ் ஊடக அமையத்தில் புதன்கிழமை (28) இடம்பெற்ற ஊடக சந்திப்பின் போதே இவ்வாறு தெரிவித்துள்ளார்
+
+கைது செய்யப்படும் இந்திய மீனவர்களை நல்லிணக்க அடிப்படையில் ஒரே இரவில் பேச்சுவார்தை மூலம் விடுதலை செய்ய முடியும் என்றால் ஏன் சாந்தனை உடன் விடுதலை செய்ய முடியாமல் போனது என மு.கோமகன் கேள்வி எழுப்பியுள்ளார்.
+
+அத்தோடு இலங்கையில் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள அரசியல் கைதிகளை உடன் விடுதலை செய்வதற்கு நடவடிக்கை எடுக்க வேண்டும் எனவும் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/426e6a98.json)
+
+---
+
+### ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனம் விற்பனை : அபிலாசைகளை பெற்றுக்கொள்ள எதிர்வரும் மாதம் வரை காலவகாசம்
+
+*2024-02-28 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177552) · `ta`
+
+ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்தை தனியார் மயப்படுத்துவற்காக தேசிய மற்றும் சர்வதேச முதலீட்டாளர்களின் அபிலாசைகளைப் பெற்றுக்கொள்வது ஐந்தாவது முறையாகவும் நீடிக்கப்பட்டுள்ளது. இதற்கமைய எதிர்வரும் மார்ச் மாதம் ஆறாம் திகதி வரை காலவகாசம் வழங்கப்பட்டுள்ளது.
+
+ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்தை விற்பனை செய்வதற்காகத் தேசிய மற்றும் சர்வதேச முதலீட்டாளர்களிடமிருந்து அபிலாசைகளைப் பெற்றுக்கொள்ள கடந்த ஆண்டு டிசம்பர் மாதம் தீர்மானிக்கப்பட்டது. அதற்கான உத்தியோகப்பூர்வ அறிவிப்புக்கள் விடுக்கப்பட்டிருந்த நிலையில் முதலீட்டாளர்கள் எவரும் முன்வராத நிலையில் அபிலாசைகள் பெற்றுக்கொள்ளும் காலவகாசம் ஐந்தாவது முறையாகவும் நீடிக்கப்பட்டுள்ளது.
+
+நட்டமடையும் அரச நிறுவனங்களின் பட்டியலில் ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனம் முன்னிலை வகிக்கிறது.பணியாளர்கள் பற்றாக்குறை, தொழில்நுட்ப கோளாறு உள்ளிட்ட காரணிகளால் ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்தின் விமான சேவைகள் தாமதமாகுவதும், இரத்தாகுவதும் கடந்த காலங்களில் வழமையாகி விட்டதொரு செயற்பாடாக காணப்பட்டது.
+
+...
+
+[Data](articles/8241fa99.json)
+
+---
+
+### SriLankan Airlines sold at auction
 
 *2024-02-28 22:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏலத்தில்-விற்கப்படும்-ஸ்ரீலங்கன்-எயார்லைன்ஸ்/175-333961) · `ta`
 
-எதிர்வரும் மார்ச் மாதம் 05 ஆம் திகதி ஸ்ரீலங்கன் எயார்லைன்ஸை விற்பனை செய்வதற்கான ஏலங்கள் நேரடியாக நடத்தப்பட்டு முதலீட்டாளர் தெரிவு செய்யப்படவுள்ளதாக துறைமுகங்கள், கப்பல் மற்றும் விமான சேவைகள் அமைச்சர் நிமல் சிறிபால டி சில்வா இன்று அறிவித்தார்.
+Ports, Shipping and Aviation Minister Nimal Siripala de Silva today announced that the auctions for the sale of SriLankan Airlines will be conducted on March 05.
 
-"நாங்கள் ஏலங்களை அழைத்துள்ளோம், மார்ச் 5 ஆம்திகதி காலை 10.00 மணி முதல் மதியம் 2.00 மணி வரை இதற்காக வரலாம். இது நேரலையில் செய்யப்படும். மதியம் 2.00 மணிக்குள் ஏலங்களைத் திறந்து மதிப்பீடு செய்யலாம். அதை ஆதரிக்க ஒரு தொழில்நுட்பக் குழுவும் உள்ளது. அவர்கள் ஏலங்களை மதிப்பீடு செய்வார்கள். இறுதியாக, அது அமைச்சரவையில் சமர்ப்பிக்கப்படும். குறைந்தபட்சம் 500 மில்லியன் அமெரிக்க டொலர்களை முதலீடு செய்வதற்கான வலுவான முதலீட்டாளர் வர வேண்டும். அத்துடன் விமான நிறுவனத்தின் 6,000 பணியாளர்களின் வேலைகளை பாதுகாப்பதும் அவசியம் என்றார். R
+"We have called for the auctions. March 5 may come from 10.00 am to 2.00 pm. This will be done live. Open auctions and evaluate at 2.00 pm. There is also a technical group to support it. They will evaluate the auctions. Finally, it will be submitted to the cabinet. Strong investor to invest at least 500 million US $. He also said that it is necessary to protect the work of 6,000 employees of the airline. Remble
 
 ◼️
 
 [Data](articles/6692f8d0.json)
+
+[Extended Data](ext_articles/6692f8d0.ext.json)
 
 ---
 
@@ -332,6 +414,24 @@ However, the Minister of Power and Energy Kanjana Wijesekera recently told Parli
 
 ---
 
+### Struggle near Pulichakulam railway station
+
+*2024-02-28 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177545) · `ta`
+
+There is a tense situation in the area after the residents of the area crossed the train near the Pulichakulam railway station.
+
+It is reported that a youth has died after colliding with a train traveling from Halawatha to Puttalam on Wednesday afternoon.
+
+Following the incident, the residents of the area staged a train from Puttalam to Halawatte, crossing the train near the Pulichakulam railway station.
+
+◼️
+
+[Data](articles/76ff9fe2.json)
+
+[Extended Data](ext_articles/76ff9fe2.ext.json)
+
+---
+
 ### Fire breaks out at water pump storage in Biyagama
 
 *2024-02-28 20:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-breaks-out-at-water-pump-storage-in-Biyagama/108-277908) · `en`
@@ -465,24 +565,6 @@ Biyagama police said that the fire broke out this evening near the site where th
 [Data](articles/b3b0fb8d.json)
 
 [Extended Data](ext_articles/b3b0fb8d.ext.json)
-
----
-
-### Struggle near Pulichakulam railway station
-
-*2024-02-28 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177545) · `ta`
-
-There is a tense situation in the area after the residents of the area crossed the train near the Pulichakulam railway station.
-
-It is reported that a youth has died after colliding with a train traveling from Halawatha to Puttalam on Wednesday afternoon.
-
-Following the incident, the residents of the area staged a train from Puttalam to Halawatte, crossing the train near the Pulichakulam railway station.
-
-◼️
-
-[Data](articles/76ff9fe2.json)
-
-[Extended Data](ext_articles/76ff9fe2.ext.json)
 
 ---
 
@@ -1919,87 +2001,5 @@ Accordingly, the University Employees' Union is carrying out a strike action on 
 [Data](articles/d247db99.json)
 
 [Extended Data](ext_articles/d247db99.ext.json)
-
----
-
-### More than 100 elephant crowd that searches new grass
-
-*2024-02-28 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177495) · `ta`
-
-An elephant crowd is seeking to eat new sprouts after agricultural harvest.
-
-Elephants arrived in the Ampara district on Wednesday morning (28) afternoon.
-
-At the time, the elephants were eating new grasses and the elephant cubs in the crowd were playing.
-
-People visit the elephant crowd every day and the elephants who are visiting the fields are making noises that are unable to enter the city.
-
-In addition, the fire is being set on fire in the area, but more than 30 elephants visit the debris every day and damage the belongings of the nearby civilians.
-
-◼️
-
-[Data](articles/f7619ab4.json)
-
-[Extended Data](ext_articles/f7619ab4.ext.json)
-
----
-
-### Papse
-
-*2024-02-28 13:03:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுவை-சிகிச்சையால்-காப்பற்றப்பட்ட-மலைப்பாம்பு/175-333939) · `ta`
-
-Although the Burmese python is one of the largest snakes in the world, the IUCN is listed as a vulnerable number.
-
-The female Burmese snake was affected by the viscera. Wildlife officials said that due to the loss of appetite, it was losing weight without eating anything.
-
-The doctors who visited this thought that the snake may have a large tumor in the stomach or something. Doctors have decided that the Burmese snake should be treated at international standards and finally perform surgery.
-
-In surgery, a tumor weighs 4.5 kg is 3 feet tall.
-
-◼️
-
-[Data](articles/3e288ec6.json)
-
-[Extended Data](ext_articles/3e288ec6.ext.json)
-
----
-
-### WNPS vows tough action against Adani wind power project
-
-*2024-02-28 13:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/WNPS-vows-tough-action-against-Adani-wind-power-project/108-277886) · `en`
-
-Colombo, Feb 28 (Daily Mirror) - Wildlife and Nature Protection Society (WNPS) vowed stern legal action against the Adani-sponsored wind power project in Mannar if the proposed environmental concerns on the EIA is not heeded by the Central Environment Authority (CEA), saying over one million birds will be affected annually if the project came into being.
-
-Senior biodiversity scientist Dr. Rohan Pethiyagoda said yesterday the proposals on serious environmental concerns about the Mannar wind power generation project will be submitted to the CEA before the given deadline on March 6th.
-
-Addressing a media briefing held in Colombo yesterday Dr. Pethiyagoda said if the proposals on the environment impact assessment (EIA) submitted by them were rejected by the CEA, they would seek legal action against the project.
-
-He said even the concerned citizens could comment on the EIA, while it is open for public comments until March 6th addressed to Director General, CEA through dg@cea.lk
-
-...
-
-[Data](articles/49709c60.json)
-
-[Extended Data](ext_articles/49709c60.ext.json)
-
----
-
-### WNPS vows tough action against Adani wind power project
-
-*2024-02-28 13:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/WNPS-vows-tough-action-against-Adani-wind-power-project/155-277886) · `en`
-
-Colombo, Feb 28 (Daily Mirror) - Wildlife and Nature Protection Society (WNPS) vowed stern legal action against the Adani-sponsored wind power project in Mannar if the proposed environmental concerns on the EIA is not heeded by the Central Environment Authority (CEA), saying over one million birds will be affected annually if the project came into being.
-
-Senior biodiversity scientist Dr. Rohan Pethiyagoda said yesterday the proposals on serious environmental concerns about the Mannar wind power generation project will be submitted to the CEA before the given deadline on March 6th.
-
-Addressing a media briefing held in Colombo yesterday Dr. Pethiyagoda said if the proposals on the environment impact assessment (EIA) submitted by them were rejected by the CEA, they would seek legal action against the project.
-
-He said even the concerned citizens could comment on the EIA, while it is open for public comments until March 6th addressed to Director General, CEA through dg@cea.lk
-
-...
-
-[Data](articles/ba547ce4.json)
-
-[Extended Data](ext_articles/ba547ce4.ext.json)
 
 ---

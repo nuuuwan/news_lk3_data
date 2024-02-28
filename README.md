@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 21:52:22**
+As of **2024-02-28 22:04:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,867 (100.0%) of 9,870 articles have been extended.
+9,870 (100.0%) of 9,870 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Senior Counsel Ajith Pathirana, appearing for Damitha Abeyratne and her husband,
 ◼️
 
 [Data](articles/92e2aae8.json)
+
+[Extended Data](ext_articles/92e2aae8.ext.json)
 
 ---
 
@@ -151,6 +153,8 @@ A large number of water pumps have been destroyed in the fire which was doused w
 ◼️
 
 [Data](articles/e2afb225.json)
+
+[Extended Data](ext_articles/e2afb225.ext.json)
 
 ---
 
@@ -348,21 +352,23 @@ Colombo, Feb. 28 (Daily Mirror)- National People's Power (NPP) MP Harini Amarasu
 
 ---
 
-### ජනාධිපතිවරණයේදී රනිල්ට සහාය පළ නොකර සිටීමට පොහොට්ටුවට අයිතියක් නෑ
+### There is no right to raise to resist Ranil in the presidential election
 
 *2024-02-28 19:29:28* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයේදී-රනිල්ට-සහාය-පළ-නොකර-සිටීමට-පොහොට්ටුවට-අයිතියක්-නෑ/11-408336) · `si`
 
-රනිල් වික්‍රමසිංහ මහතාව ජනාධිපති ධූරයට පත් කිරීමට කටයුතු කළේ පොහොට්ටුව බැවින් ඊළඟ ජනාධිපතිවරණයේදී ඔහුට සහය පළ නොකර සිටීමට පොහොට්ටුවට අයිතියක් නැතැයි තමන් පෞද්ගලිකව විශ්වාස කරන බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+According to the Urban Development and Housing Minister Prasanna Ranatunga says that Ranil Wickremesinghe has been appointed as the President.
 
-ඔහු අවධාරණය කරන්නේ ඊළග ජනාධිපතිවරණයේදී පොහොට්ටුවට විකල්ප අපේක්ෂකයෙක් නැත්නම් රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීම වඩාත් සුදුසු බවයි.
+He emphasizes that it is best to support Mr. Ranil Wickremesinghe or Ranil Wickremesinghe in the next presidential election.
 
-පොහොට්ටුවට වෙනත් විකල්ප අපේක්ෂයකු සිටින බව තමන්ට නම් පෙනෙන්නට නැතැයිද ඇමතිවරයා කියා සිටියේය.
+He said he did not seem to have another alternative candidate to the poultry.
 
-ඇමතිවරයා මේ බව සදහන් කළේ ගාල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවට සහභාගි වීමෙන් අනතුරුව මාධ්‍යවේදීන් නැගූ ප්‍රශ්නවලට පිළිතුරු දෙමිනි. ගාල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුව අද (28) දින පැවැත්වුනේ ගාලු කොටුවේ පිහිටි හෝල් ඩී ගෝල් ශාලාවේදීය.
+The Minister was responding to the Galle District Coordinating Committee and respond to questions raised by journalists. The Galle District Coordinating Committee was held today (28) at the Hall D Goal hall in the Galle Fort.
 
 ...
 
 [Data](articles/6e19566d.json)
+
+[Extended Data](ext_articles/6e19566d.ext.json)
 
 ---
 

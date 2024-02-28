@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 04:17:19**
+As of **2024-02-29 04:32:52**
 
 ## Newspaper Stats
 
-*Scraped **9,914** Articles*
+*Scraped **9,917** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 96
+colombotelegraphcom | 99
 bbccomsinhala | 120
 dbsjeyarajcom | 166
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,910 (100.0%) of 9,914 articles have been extended.
+9,914 (100.0%) of 9,917 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ Speaking at a press conference the MP asserted that the Government’s decision 
 
 [Data](articles/7df8e856.json)
 
+[Extended Data](ext_articles/7df8e856.ext.json)
+
 ---
 
 ### UNFPA Sri Lanka inaugurates One Stop Centre in Kilinochchi
@@ -67,6 +69,8 @@ The One Stop Centre is a ground-breaking initiative introducing a new service de
 ...
 
 [Data](articles/13c90e30.json)
+
+[Extended Data](ext_articles/13c90e30.ext.json)
 
 ---
 
@@ -86,6 +90,8 @@ The audit uncovered over 1.3 million entries on the SAP data system that had bee
 
 [Data](articles/2d4a3055.json)
 
+[Extended Data](ext_articles/2d4a3055.ext.json)
+
 ---
 
 ### Open Uni. Faculty of Management Studies holds workshop on procurement planning
@@ -99,6 +105,8 @@ It was held to promote the newly launched postgraduate degree program, MSc in Pu
 ...
 
 [Data](articles/fb0d0e0b.json)
+
+[Extended Data](ext_articles/fb0d0e0b.ext.json)
 
 ---
 
@@ -1178,6 +1186,20 @@ This was made in terms of Section 64 (1) of the Parliament Election Act, No. 1 o
 
 ---
 
+### Exponential Growth Of BJP In Tamil Nadu In Five Years (2019 – 2024)
+
+*2024-02-28 18:54:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/exponential-growth-of-bjp-in-tamil-nadu-in-five-years-2019-2024/) · `en`
+
+“Precise dates, picturesque outbreaks; these are conventions and conveniences of historians but history is a process too subtle for such methods.” – Lord Acton
+
+To many a student of history the above quote is a truism. Keen observers of recent times too would admit to its exactitude. There is a qualification however. Every historic event has had a fair period filled with  long gestating antecedents. French Revolution did not explode just on 14th July 1789. German nationalism grew up with philosopher Fichte’s ‘Addresses to the German Nation’ after 1812. What followed was Bismark’s ideology of ‘Blood and Iron’ which unified Germany with wars in the sixties. Likewise, the Russian and Chinese revolutions had their protracted struggles.
+
+...
+
+[Data](articles/039ef08e.json)
+
+---
+
 ### Anura travels Canada in March
 
 *2024-02-28 18:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மார்ச்சில்-கனடா-பயணமாகிறார்-அநுர/175-333958) · `ta`
@@ -1189,6 +1211,20 @@ The Daily Mirror has reported that the National People's Power (NPP) leader Anur
 [Data](articles/a5cdad79.json)
 
 [Extended Data](ext_articles/a5cdad79.ext.json)
+
+---
+
+### Gaza: Creating Hell On Earth
+
+*2024-02-28 18:46:16* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/gaza-creating-hell-on-earth/) · `en`
+
+I have been deeply distressed by Israel’s military assault on the population of Gaza. Many people of Sri Lankan origin had not bothered to study the history of the plight of Palestinians until the brave military operation by the Palestinian Resistance on 7th Oct 2023.
+
+Consider the background of the Zionist apartheid state; one issue is the Right of Return. Within two years of the Zionist state calling itself Israel being proclaimed in the Knesset, ‘The Law of Return’ was established, a law which allows any Jew around the world to migrate to Israel and automatically become citizens, developing illegal settlements with impunity. In 1952, the Knesset passed the Citizenship Law, which effectively bars any Palestinian not living in Israel from returning and reclaiming their former property from the colonisers.
+
+...
+
+[Data](articles/a4eec15a.json)
 
 ---
 
@@ -1979,45 +2015,5 @@ DIG, Attorney-at-Law Nihal Thaluduwa, said that he had commented on the matter.
 [Data](articles/325e38a1.json)
 
 [Extended Data](ext_articles/325e38a1.ext.json)
-
----
-
-### Sri Lanka Education Ministry asks schools to keep children out of sun
-
-*2024-02-28 15:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-education-ministry-asks-schools-to-keep-children-out-of-sun-152430/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Education Ministry has warned school officials against exposing children to the sun as the Natural Hazards Early Warning Centre issued a heat index advisory.
-
-“As extreme hot weather may rise further today, tomorrow and the next day (Feb 28, 29 and March 1), avoid keeping school students outdoors in high temperatures,” the ministry said in a statement.
-
-With temperatures expected to increase in the next few days, “students in any school in the island will not participate in outdoor sports training activities or sports events”. The Ministry of Education has advised all schools to refrain from engaging in any other external activity.
-
-Instructions have been forwarded to the provincial and regional education authorities to inform principals, and “to proceed according to the series of instructions issued by the Ministry of Health”.
-
-...
-
-[Data](articles/9c1d0ee6.json)
-
-[Extended Data](ext_articles/9c1d0ee6.ext.json)
-
----
-
-### SLFP to support no-confidence motion against the Speaker
-
-*2024-02-28 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97594/slfp-to-support-no-confidence-motion-against-the-speaker-) · `en`
-
-The Sri Lanka Freedom Party (SLFP) has announced its endorsement of the no-confidence motion to be brought against the Speaker of Parliament Mahinda Yapa Abeywardena.
-
-Accordingly, the SLFP announced that it will support the motion being brought against the Speaker by the opposition, and will vote in favour of it.
-
-On Monday (26 Feb.), several Opposition members, led by Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa, signed a motion of no confidence against the Speaker, claiming that he had violated the Constitution.
-
-As such, a group of MPs belonging to the opposition in Parliament including M. A. Sumanthiran, Lakshman Kiriella, Prof. G. L. Pieris, Tissa Attanayake, Chandima Weerakkody and Shan Wijayalal de Silva, had inked the motion for approving the much-disputed Online Safety Bill amidst ‘irregular procedures’.
-
-...
-
-[Data](articles/bfa95d15.json)
-
-[Extended Data](ext_articles/bfa95d15.ext.json)
 
 ---

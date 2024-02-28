@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 09:33:08**
+As of **2024-02-28 09:51:58**
 
 ## Newspaper Stats
 
-*Scraped **9,728** Articles*
+*Scraped **9,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 500
 dailyftlk | 519
 islandlk | 521
 adalk | 822
-adaderanalk | 1,169
+adaderanalk | 1,170
 tamilmirrorlk | 1,189
 virakesarilk | 1,330
 dailymirrorlk | 1,465
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,470
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,727 (100.0%) of 9,728 articles have been extended.
+9,729 (100.0%) of 9,729 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,28 @@ Dr. Deepal Perera said that due to this situation, the sides of the dermatologis
 [Data](articles/81da52d4.json)
 
 [Extended Data](ext_articles/81da52d4.ext.json)
+
+---
+
+### PUCSL to announce decision on CEB’s tariff reduction proposal today
+
+*2024-02-28 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97582/pucsl-to-announce-decision-on-cebs-tariff-reduction-proposal-today) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) is slated to deliver its decision on the electricity tariff reduction proposal mooted by the Ceylon Electricity Board (CEB) today (Feb.28).
+
+According to a spokesperson of the Ministry of Power & Energy, the tariffs are likely to be reduced by at least 18%.
+
+PUCSL will convene a meeting later today to decide on the state-owned electricity supplier’s tariff revision proposal which was submitted to the Commission on Feb.22.
+
+Last week, Minister Kanchana Wijesekera told the parliament that the CEB expects to reduce the rates by at least the same rates and percentages increased in October 2023.
+
+In October last year, the electricity tariffs were raised by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
+
+◼️
+
+[Data](articles/8eafc85a.json)
+
+[Extended Data](ext_articles/8eafc85a.ext.json)
 
 ---
 
@@ -160,9 +182,19 @@ Meanwhile, Vasantha Samarasinghe, Vasantha Samarasinghe, says that the electrici
 
 *2024-02-28 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97581/suspect-wanted-over-mahabage-shooting-killed-in-shootout-with-stf) · `en`
 
-A person who is suspected to be the motorcycle rider in the Mahabage shooting incident and is also wanted for several other crimes has been shot dead by STF personnel during an exchange of fire at Sooriyawewa, police said.
+A person wanted in connection with the recent shooting incident in Mahabage and was also wanted for several other crimes, has been shot dead by STF personnel during an exchange of fire at Sooriyawewa this morning (Feb.28), police said.
 
-◼️
+He is suspected to be the motorcycle rider in the shooting which took place on Feb. 21 near a meat shop in Elapitiwala Junction, Mahabage that killed the shop owner.
+
+A special raid was launched in the early hours of the day after the STF received intelligence information revealing the suspect’s hideout at a hut located near Andigama Tank in Sooriyawewa.
+
+As the STF officers approached, the 45-year-old had opened fire, forcing them to retaliate.
+
+In the shootout, one STF officer and the suspect were injured and rushed to the Sooriyawewa Hospital, but the latter succumbed to injuries shortly after.
+
+He was identified as a resident of Kanumuldeniya area in Mee-Ella. The STF has seized a revolver and a motorcycle from the possession of the deceased.
+
+...
 
 [Data](articles/cd4d6467.json)
 
@@ -1232,19 +1264,25 @@ President Ranil Wickremesinghe re-iterated the country's commitment to the Freed
 
 ---
 
-### පාසල් දරුවන්ගෙන් වැඩිම කෘෂ දරුවන් හම්බන්තොටින් වාර්තා වෙයි
+### Most of children have been reported from the school children
 
 *2024-02-27 20:09:44* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-දරුවන්ගෙන්-වැඩිම-කෘෂ-දරුවන්-හම්බන්තොටින්-වාර්තා-වෙයි/11-408314) · `si`
 
-පසුගිය වසරවලට සාපේක්ෂව මේ වන විට දරුවන්ගේ මන්ද පෝෂණ තත්වය වඩාත් ඉහළ ගොස් ඇති බවත්,ඒ අතරිනුත් පාසැල් දරුවන් අතරින් කෘශ බව වැඩි දරුවන් වැඩිම පිරිසක් වාර්තා වන්නේ හම්බන්තොට දිස්ත්‍රික්කයෙන් බවත්, වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෘත්තීය සමිති සන්ධානයේ සභාපති,විශේෂඥ වෛද්‍ය ජී.ජී.චමල් සංජීව මහතා පැවසීය.
+The nutritional status has increased in comparison to last years and is the Chairman of the Hambantota District and the Chairman of the Medical and Civil Rights Council, Specialist Dr. GG KamalMr. Sanjeewa said.
 
-වෛද්‍යවරයා මේ බව පැවසුවේ ඊයේ (27දා) පෙරවරුවේ  සූරියවැව ප්‍රදේශයේදී මාධ්‍ය සාකච්ජාවක් පවත්වමිනි.
+The doctor said this in a media discussion in the Sooriyawewa.
 
-"මීට වසර එක හමාරකට පමණ පෙර අප හම්බන්තොට දරුවන්ගේ පෝෂණ තත්වය පිළීබදව හෙළිදරව්වක් කළා.නමුත් නිලධාරීන් ඊට කිසිදු ක්‍රියාමාර්ගයක් නොගෙන තවමත් ඒ පිළිබඳව හෙළි කළ මා පිළිබඳව විමර්ශන පැවැත්වීම සිදුකරමින් තිබෙනවා.අප කළ හෙළිදරව්ව පිළිබඳව හම්බන්තොට රාජ්‍ය නිලධාරීන් මේ වනතුරුත් කිසිදු ක්‍රියාමාර්ගයක් ගෙන නොමැති බව මෑතකදී පෝෂණ මාසය වෙනුවෙන් සෞඛ්‍ය අමාත්‍යංශයට අයත් පවුල් සෞඛ්‍ය කාර්යංශය විසින් 2023 වර්ෂයට අදාළව නිකුත් කරන ලද වාර්තාවේ  පැහැදිලිව සඳහන්ව තිබෙනවා.
+"About one and a half years ago, we have been revealed in the Nutrition of the Sri Lankan children.The report released by the Ministry of Health in the Health Ministry for the month is clearly stated in the year 2023.
+
+The report issued by the Family Health Bureau of the Family Health Bureau of the Family Health Bureau has been very clear that the highest number of children live in Hambantota district.. According to the other districts in Sri Lanka, the amount of money has been reported from Hahambalu districts.
+
+The burden of the children's height is an important factor in the diet of the labor of Hambantota schoolgaries.A meal is a food that is the only one with the crocodile bun.
 
 ...
 
 [Data](articles/3d1b14f6.json)
+
+[Extended Data](ext_articles/3d1b14f6.ext.json)
 
 ---
 
@@ -2001,25 +2039,5 @@ A bond maturing on 01.07.2032 closed at 12.55/13.00 percent from 12.50/90 percen
 [Data](articles/f9bdda57.json)
 
 [Extended Data](ext_articles/f9bdda57.ext.json)
-
----
-
-### India is ready to send people into space
-
-*2024-02-27 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193884) · `si`
-
-Four Indian pilots have been selected for the first space journey in India planned for next year.
-
-The space journey has been named as "Gaganyaan" and it is planned to be imported for about 400 km of the orbit.
-
-The Indian space agency (ISRO) is currently undergoing the journey.
-
-Indian scientists plan to send a robot this year into space and then to send astronauts to space next year.
-
-◼️
-
-[Data](articles/7eb705bb.json)
-
-[Extended Data](ext_articles/7eb705bb.ext.json)
 
 ---

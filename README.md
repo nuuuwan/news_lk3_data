@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 10:33:15**
+As of **2024-02-28 10:50:50**
 
 ## Newspaper Stats
 
-*Scraped **9,733** Articles*
+*Scraped **9,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 1,170
 tamilmirrorlk | 1,189
 virakesarilk | 1,330
 dailymirrorlk | 1,468
-adaderanasinhalalk | 1,471
+adaderanasinhalalk | 1,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,730 (100.0%) of 9,733 articles have been extended.
+9,734 (100.0%) of 9,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Michelle challenge to Beidan from Obama
+
+*2024-02-28 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193902) · `si`
+
+A progrielation has revealed that the President of the US President of the United States as candidate for the Presidential Election.
+
+Nearly half of the Democrats who voted in the election have expressed their choice for someone other than Bideman to fight the US presidential election.
+
+About 48% of the vote demonstrated demonstrators mentioned that they are approved by finding another candida before the November.
+
+Political commentators say that only 33 percent of Democratic members will have a voting shaking compared to 38%.
+
+The 81-year-old Joe Biden replaces Michelle Obama's about 20 percent of the votes.
+
+◼️
+
+[Data](articles/c1496f77.json)
+
+[Extended Data](ext_articles/c1496f77.ext.json)
+
+---
 
 ### The Devil to go to the rich
 
@@ -61,6 +83,8 @@ The Court of Appeal Registrar is directed to issue notice forthwith and also, th
 ...
 
 [Data](articles/d96dd8ac.json)
+
+[Extended Data](ext_articles/d96dd8ac.ext.json)
 
 ---
 
@@ -147,6 +171,8 @@ This suspect has also been accused of shooting a person in Wellampitiya, Kittamp
 ...
 
 [Data](articles/9843a772.json)
+
+[Extended Data](ext_articles/9843a772.ext.json)
 
 ---
 
@@ -769,6 +795,8 @@ Cabinet of Ministers on Monday approved the proposal to suspend the procedure to
 ...
 
 [Data](articles/b5b2c04a.json)
+
+[Extended Data](ext_articles/b5b2c04a.ext.json)
 
 ---
 
@@ -2001,35 +2029,5 @@ Pelpola received his MBA from Harvard University (Cambridge, Massachusetts). He 
 [Data](articles/d077ffb9.json)
 
 [Extended Data](ext_articles/d077ffb9.ext.json)
-
----
-
-### Four soldiers arrested for the death of military camp
-
-*2024-02-27 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193885) · `si`
-
-Four soldiers have been arrested by the police on suspicion of the death of a soldier who was attached to the Dombagoda Army Camp.
-
-The soldiers have been arrested by the Army Police while interrogation and interrogation at the magisterial inquiry.
-
-The body of the army soldier was found last January.
-
-The deceased soldier was a sports advisor to the military base of the Army Camp of Dombagoda.
-
-Investigations have revealed that a soldier party had held a group of alcohol in the camp.
-
-The police then delivered a proposal to swim down the soldier to the pond that the dead soldier had been drowned while swimming.
-
-It has been revealed that the soldiers who died without informing the pond have been thrown into the pond.
-
-The following day the following day, the soldier who was dead was not visited into physical exercise parade, the army has decided to search for him and his home.
-
-The four arrested forces have been produced before the Horana Magistrate's Court on a personal bail of Rs.
-
-◼️
-
-[Data](articles/212808d1.json)
-
-[Extended Data](ext_articles/212808d1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 14:02:33**
+As of **2024-02-28 14:17:44**
 
 ## Newspaper Stats
 
-*Scraped **9,780** Articles*
+*Scraped **9,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 829
 adaderanalk | 1,175
 tamilmirrorlk | 1,189
 virakesarilk | 1,343
-dailymirrorlk | 1,478
-adaderanasinhalalk | 1,479
+dailymirrorlk | 1,479
+adaderanasinhalalk | 1,480
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,780 (100.0%) of 9,780 articles have been extended.
+9,780 (100.0%) of 9,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### පොලිස් බලතල නැතුව බලය බෙදනවා - ජනපති
+
+*2024-02-28 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193911) · `si`
+
+පොලිස් බලතල අත්හැර බලය බෙදීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+"සංහිඳියාව සඳහා ආගම්'' යන තේමාව යටතේ කොළඹ බණ්ඩාරනායක අනුස්මරණ සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේදී අද පෙරවරුවේ පැවති ශ්‍රී ලංකා ජාතික සාම මණ්ඩලය සංවිධාන කළ 2024 අන්තර් ආගමික සමුළුවට එක්වෙමින් ජනපති මෙම අදහස් පළකළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවති සමුළුවට මහා සංඝරත්නය ඇතුළු ආගමික නායකයින් මෙන්ම තානාපතිවරුන්ද එක්ව සිටියේය.
+
+◼️
+
+[Data](articles/f52aa4e5.json)
+
+---
+
+### UNFPA Asia Pacific Regional Director arrives in Sri Lanka
+
+*2024-02-28 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-Asia-Pacific-Regional-Director-arrives-in-Sri-Lanka/108-277890) · `en`
+
+Feb 28 - The United Nations Population Fund (UNFPA) Sri Lanka welcomed Pio Smith, the UNFPA Asia Pacific Regional Director, who arrived in the country for a formal visit.
+
+Mr. Smith's visit aims to bolster collaboration with policymakers, government officials, civil society, and key partners to advocate for the rights of women and girls. During his stay, he will also visit grassroots communities to assess their needs firsthand and identify areas for effective UNFPA support.
+
+UNFPA Sri Lanka underscores its enduring collaboration with the Government of Sri Lanka and diverse stakeholders island-wide, driving progress in health, education, and gender equality. The organization champions comprehensive sexual and reproductive health services, aligning with commitments to the International Conference on Population and Development (ICPD) agenda.
+
+...
+
+[Data](articles/c6d5c163.json)
+
+---
 
 ### Anura Kumara off to Canada next month
 
@@ -2009,43 +2041,5 @@ Ronnie de Mel became popular as the Minister of Finance 11 times in Sri Lanka.
 [Data](articles/b4862072.json)
 
 [Extended Data](ext_articles/b4862072.ext.json)
-
----
-
-### Ronnie de Mel no more
-
-*2024-02-27 22:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ronnie-de-Mel-no-more/108-277835) · `en`
-
-Colombo, Feb 27 (Daily Mirror) - Ronnie de Mel who was instrumental in introducing the open economy in Sri Lanka in 1978, passed away at the age of 99 today.
-
-He introduced the open economy in Sri Lanka after becoming the Finance Minister of late President J.R. Jayewardene’s Cabinet in 1977.
-
-Late Mr. de Mel is the longest serving Finance Minister in the country and one who has presented the most number of budgets from 1977 to 1987.
-
-He began politics joining the Sri Lankan Freedom Party (SLFP) and later crossed over to the United National Party (UNP).
-
-◼️
-
-[Data](articles/0730542b.json)
-
-[Extended Data](ext_articles/0730542b.ext.json)
-
----
-
-### Cricketers discuss challenges with Sports Minister
-
-*2024-02-27 21:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cricketers-discuss-challenges-with-Sports-Minister/108-277834) · `en`
-
-Colombo, Feb. 27 (Daily Mirror) - Several players of the Sri Lankan cricket team met Sports Minister Harin Fernando today to discuss issues and challenges faced by the Sri Lankan cricketers.
-
-ODI captain Kusal Mendis, Twenty20 captain Wanindu Hasaranga, senior players like Angelo Mathews, Dimuth Karunaratne, Cricket Consultant Sanath Jayasuriya, and Chief Selector Upul Tharanga participated in the meeting that took place at the Ministry.
-
-Several issues faced by cricketers such as coaching structures, innovative training techniques, mental focus, talent development and strategies to secure victories in upcoming matches were reportedly discussed.
-
-◼️
-
-[Data](articles/c602444a.json)
-
-[Extended Data](ext_articles/c602444a.ext.json)
 
 ---

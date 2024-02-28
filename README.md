@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 17:33:37**
+As of **2024-02-28 17:53:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,815 (100.0%) of 9,818 articles have been extended.
+9,818 (100.0%) of 9,818 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Further, activities such as yoga, beach cleaning and a walkathon will also be he
 
 [Data](articles/20b0e9e0.json)
 
+[Extended Data](ext_articles/20b0e9e0.ext.json)
+
 ---
 
 ### Ada Derana journalist acclaimed at int’l digital storytelling festival
@@ -67,6 +69,8 @@ The festival, organized by the Department of Journalism, Media and Communication
 ...
 
 [Data](articles/5fe189f4.json)
+
+[Extended Data](ext_articles/5fe189f4.ext.json)
 
 ---
 
@@ -314,23 +318,29 @@ He added that the US is dedicated to further increasing its ability to protect S
 
 ---
 
-### 2018  හිටපු තත්ත්වයට එන්න තවත් වසර දෙකක් යනවා
+### Come to former 2018 going
 
 *2024-02-28 14:54:20* · [`adalk`](https://www.ada.lk/breaking_news/2018--හිටපු-තත්ත්වයට-එන්න-තවත්-වසර-දෙකක්-යනවා/11-408328) · `si`
 
-කාන්තා ව්‍යවසායකත්වය බල ගැන්වීමට රජය පුළුල් වැඩපිළිවෙළක් සකස් කර තිබෙනවා
+The government has prepared a wide program to empower women entrepreneurship
 
-රටේ ආර්ථිකය ගොඩනැඟීමේ දී කාන්තාවන්ට විශාල වැඩකොටසක් ඉටු කළ හැකියි – විශිෂ්ට ව්‍යාපාරික කාන්තාවන් අගයමින් ජනපති පවසයි.
+Women can play a great job in building the economy of the country - President expresses great businessmen
 
-ඉදිරියේදී රට තුළ ඇතිවන ආර්ථික පරිවර්තනයට අනුගත විය හැකි කාන්තා ව්‍යවසායකයින් බිහිකිරිමට පියවර ගන්නා බවත්, ඒ සඳහා වන වැඩපිළිවෙළ මේ වන විට රජය සකස් කර තිබෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+President Ranil Wickremesinghe stressed that steps will be taken to create women's entrepreneurs that can be adapted to the economic transformation in the country.
 
-ඩිජිටල් හා හරිත ආර්ථිකය තුළ කාන්තා ව්‍යවසායකයින්ට පුළුල් වැඩ කොටසක් ඉටුකළ හැකි බව පෙන්වා දුන් ජනාධිපතිවරයා කාන්තා ව්‍යාපාරික ප්‍රජාව බල ගැන්වීමට හැකි සෑම සහයක්ම රජය විසින් ලබාදෙන බවද කියා සිටියේය.
+The President said that the President could play a wide work in the digital and green economy and that the President would give every assistance to the women's business community.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඊයේ (27) පස්වරුවේ කොළඹ දී පැවති ‘ප්‍රතිභාභිෂේකා කාන්තා ව්‍යවසායක සම්මාන 2023” උළෙල අමතමිනි.
+President Ranil Wickremesinghe said this was addressing the 'Tree' Twelse 'in Colombo yesterday (27).
+
+Excellent businessmen were evaluated at this awards ceremony organized by the Women's Industry and Chamber of Commerce.. Women in the SAARC had also provided women in a special sector.
+
+President Ranil Wickremesinghe made the award winning ten excellent entrepreneurs at national level, symbolizing awards.
 
 ...
 
 [Data](articles/b3f0beb2.json)
+
+[Extended Data](ext_articles/b3f0beb2.ext.json)
 
 ---
 

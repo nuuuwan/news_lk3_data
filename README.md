@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 02:33:10**
+As of **2024-02-29 02:48:33**
 
 ## Newspaper Stats
 
-*Scraped **9,889** Articles*
+*Scraped **9,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 521
 adalk | 841
 adaderanalk | 1,193
 tamilmirrorlk | 1,203
-virakesarilk | 1,365
+virakesarilk | 1,372
 dailymirrorlk | 1,499
 adaderanasinhalalk | 1,499
 
@@ -26,11 +26,149 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,889 (100.0%) of 9,889 articles have been extended.
+9,894 (100.0%) of 9,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Those who wish to contribute to the Gaza Children's Fund
+
+*2024-02-29 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177562) · `ta`
+
+We are going to hand over the donation to the Gaza Children's Fund on April 11. UNP General Secretary Palitha Range Bandara said that those who wish to donate should hand over it before.
+
+The announcement was made during a press conference held at the UNP headquarters Sirikotha.
+
+Many children, including children, are suffering from the ongoing violence in Gaza. So President Ranil Wickremesinghe has taken steps to set up a Gaza Children's Fund to consider the boys there.. The Cabinet has also granted permission for the Cabinet.
+
+The fund is set up to provide financial assistance to Gaza children during the upcoming Ramadan festival. The President has therefore ordered all ministries and state institutions to stop the Iftar events in the upcoming Ramadan and contribute to the fund.
+
+...
+
+[Data](articles/fb3f85ea.json)
+
+[Extended Data](ext_articles/fb3f85ea.ext.json)
+
+---
+
+### Indo-Sri Lankan fishermen crisis: Why protest on both sides?
+
+*2024-02-29 01:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177561) · `ta`
+
+The leader of the Tamil Fishermen's Association has urged Indian fishermen and political leaders to accept that three Indian fishermen have been sentenced to imprisonment on the basis of a court ruling given by Sri Lanka.
+
+“Two Indian fishermen have been jailed due to a verdict given to the law in the political system by the court in Sri Lanka.. Achievement does not appear to be an actual act. There is a need to exercise imprisonment within the border, ”said Srikandavel St.
+
+He made this statement at a media briefing held at the Jaffna District Fisheries Co -operative Society Association office.
+
+Jaffna will launch a black flag struggle on Sunday (March 4) on the Sri Lankan waters, protesting against the action of Indian fishermen crossing the border.. He announced at this media briefing that the district fisheries organizations have unanimously decided.
+
+...
+
+[Data](articles/b3d89e22.json)
+
+[Extended Data](ext_articles/b3d89e22.ext.json)
+
+---
+
+### Ready to provide full cooperation for the Cleaning Project - New Indian Ambassador to Jaffna
+
+*2024-02-29 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177560) · `ta`
+
+The new Indian Ambassador to Jaffna has assured the Governor of the Northern Province that he is ready to provide full cooperation for the cleanup project.
+
+New Indian Vice Ambassador to Jaffna. Charles met them today. The meeting was held on Wednesday (28) at the Governor of the Northern Province.
+
+The Governor of the Northern Province made it clear to the Indian Deputy Ambassador on a number of issues, including the development projects in the province and the needs of the people.
+
+Accordingly, Indian Vice -Ambassador Seevithi Sai Murali said that the Government of India will continue to cooperate with the development projects of the Northern Province.. He said steps would be taken to provide technical training for youth and women and to expand the boat service for the islands.
+
+...
+
+[Data](articles/40739aec.json)
+
+[Extended Data](ext_articles/40739aec.ext.json)
+
+---
+
+### Stir in front of the Department of Immigration Kandy
+
+*2024-02-29 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177559) · `ta`
+
+The Department of Immigration and Emigration, due to lack of proper arrangements to provide digits to the people who come to obtain services at the Kandy Regional Office. The people who come are in great difficulty.
+
+There are 200 passports daily under the service of one day, but more than a thousand people from different parts of the country come to get that service.
+
+People who stand in line on Tuesday (27) afternoon (27) afternoon, are waiting until the office opens at 8.00 am the next day.
+
+The residents of Kattukele and Sudhumbola area will be waiting for the first row of the first day of the service, with 200 digits and 175 under the usual service.. It is reported that the people who come to the service are selling numbers for the sum of Rs 3000-5000.
+
+People who come to seek the services accuse some people of the office that some people in the office are suspected of being supported.
+
+...
+
+[Data](articles/5e78b0bd.json)
+
+[Extended Data](ext_articles/5e78b0bd.ext.json)
+
+---
+
+### We are facing two main challenges - Anuragumara
+
+*2024-02-29 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177558) · `ta`
+
+We are looking forward to two main challenges. To gain the first power. The National People's Power President Anura Kumara Dissanayake said the country would be built after receiving the second chapter.
+
+Colombo District Conference of the National People's Power and Finance Union. While addressing here, Anurakumara Dissanayake said the above.
+
+Although it is two challenges, there is a path that builds the country on the path that gains power. In the past, there was another path to gain power in our country.
+
+In general, the power of our country is against the other. The 2005 government was built against the Tamil people of the North.
+
+The 2010 war success was built against others and the 2019 Muslim people. However it is not a successful path. This country must be changed on the path that unity all the people.
+
+...
+
+[Data](articles/18ed9617.json)
+
+[Extended Data](ext_articles/18ed9617.ext.json)
+
+---
+
+### வடக்கு மீனவர்களின் தொழில் நடவடிக்கைகளுக்கு தடை: குற்றச்சாட்டை மறுக்கும் கடற்படை
+
+*2024-02-29 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177557) · `ta`
+
+வடக்கு கடலில் தமிழ் கடற்றொழிலாளர்களின் மீன்பிடி நடவடிக்கைககளுக்கு கடற்படையினரால் தடை விதிக்கப்பட்டுகின்றமைக்கு தமிழ் மக்கள் பிரதிநிதிகள் கடும் கண்டனம் வெளியிட்டுள்ளனர்.
+
+இந்திய மீனவர்களின் அத்துமீறலை கட்டுப்படுத்த ஆக்கப்பூர்வமான நடவடிக்கைகளை எடுப்பதில்லை என, வடபகுதி மீனவர்கள், கடற்படையினர் மீது தொடர்ச்சியாக குற்றஞ்சாட்டுகின்ற நிலையில், உள்ளூர் தமிழ் மீனவர்களின் தொழிலுக்கு இடையூறு விளைவிப்பதாக கடற்படை மீது குற்றச்சாட்டு எழுந்துள்ளது.
+
+யாழ்ப்பாணம் - மாதகல் சம்பில்துறை (ஜம்புகோள பட்டினம்) விகாரைக்கு அருகில் உள்ள கடற்பரப்பில் மீன்பிடி நடவடிக்கையில் ஈடுபட வேண்டாம் என கடற்படையினர் தடை விதித்துள்ளதாக அப்பகுதி கடற்தொழிலாளர்கள் தெரிவிப்பதாக யாழ்ப்பாண மாவட்ட ஊடகவியலாளர்கள் தெரிவிக்கின்றனர்.
+
+மீனவர்களின் தொழில் நடவடிக்கைகளுக்கு தடைகளை ஏற்படுத்த கடற்படைக்கு எவ்வித அதிகாரமும் இல்லை என, தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள்  நாடாளுமன்ற உறுப்பினரான ஈஸ்வரபாதம் சரவணபவன் தெரிவிக்கின்றார்.
+
+...
+
+[Data](articles/117d7334.json)
+
+---
+
+### எமது கூட்டணியில் சஜித்தும் இணையலாம் - ஐ.தே.க. செயலாளர் பாலித்த ரங்கே பண்டார நம்பிக்கை
+
+*2024-02-29 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177556) · `ta`
+
+ஜனாதிபதி தேர்தலில் போட்டியிட அமைக்க இருக்கும் பரந்துபட்ட கூட்டணியில் ஐக்கிய மக்கள் சக்தி உறுப்பினர்கள் பலரும் எம்முடன் இணைந்துகொள்ள இருக்கின்றனர். அதன் பிரகாரம் காப்போக்கில் சஜித் பிரேமதாசவும் இணைந்துகொள்ள இடமிருக்கிறது என ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் புதன்கிழமை (29) இடம்பெற்ற செய்தியாளர் சந்திப்பில்  கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+ஜனாதிபதி தேர்தலை இலக்குவைத்து மேற்கொள்ள இருக்கும் ஆரம்ப கூட்டம் எதிர்வரும் 10ஆம் திகதி குருணாகலையில் நடத்த இருக்கிறோம். இதில் அரசியல் கட்சிகளை சேர்ந்த பலர் எம்முடன் கைகோர்க்க இருக்கி்ன்றனர். அதனைத்தொடர்ந்து நாங்கள் ஜனாதிபதி தேர்தல் பிரசாரங்களை மேலும் தீவிரப்படுத்த திட்டமிட்டிருக்கிறோம்.
+
+...
+
+[Data](articles/41e685e4.json)
+
+---
 
 ### October Revolution, women’s revolution and SJB’s economic ignorance
 
@@ -1887,133 +2025,5 @@ Georgieva told Reuters she hoped to make progress on the issue when the roundtab
 [Data](articles/8c7d3f1d.json)
 
 [Extended Data](ext_articles/8c7d3f1d.ext.json)
-
----
-
-### Demonstration demanding salary increase in Eastern University staff in Batticaloa
-
-*2024-02-28 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177505) · `ta`
-
-Eastern University staff staged a protest in front of the Eastern University External Studies Center in Batticaloa on Wednesday (28) demanding a solution to the demands of the Eastern University staff and the long -standing demands for employees.
-
-More than one hundred Eastern University staff held this morning in front of the Eastern University Employees Union and Eastern University Administrative Officers Association in Batticaloa in accordance with the 28 and 29 -day trade union activities in the country's state universities in accordance with the decision of the All University Trade Union Federation.
-
-...
-
-[Data](articles/21c2d0cd.json)
-
-[Extended Data](ext_articles/21c2d0cd.ext.json)
-
----
-
-### World’s lowest fertility rate plunges again in 2023 in South Korea
-
-*2024-02-28 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Worlds-lowest-fertility-rate-plunges-again-in-2023-in-South-Korea/108-277891) · `en`
-
-SEOUL, Feb 28 (Reuters) - South Korea's fertility rate, already the world's lowest, continued its dramatic decline in 2023, as women concerned about their career advancement and the financial cost of raising children decided to delay childbirth or to not have babies.
-
-The average number of expected babies for a South Korean woman during her reproductive life fell to a record low of 0.72 from 0.78 in 2022, data from Statistics Korea showed on Wednesday.
-
-That is far below the rate of 2.1 per woman needed for a steady population and well behind the rate of 1.24 in 2015 when concerns about issues such as the cost of housing and education were lower.
-
-Since 2018, South Korea has been the only Organisation for Economic Co-Operation and Development (OECD) member with a rate below 1, defying the billions of dollars spent by the country to try to reverse the trend that led the population to decline for a fourth straight year in 2023.
-
-...
-
-[Data](articles/c0cc3ca6.json)
-
-[Extended Data](ext_articles/c0cc3ca6.ext.json)
-
----
-
-### Sri Lankan accused of raping a South Korean girl
-
-*2024-02-28 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193912) · `si`
-
-In 1998, the Supreme Court was completed by the Attorney General to acquire the verdict of a Sri Lankan defendant in South Korea to acquit the defendant.(27) adjourned without the days.
-
-The appeal petition was presented by the Attorney General was heard in front of a three-member Supreme Court Judge of Shiran Gunaratne and Janakamuwa.
-
-The Sri Lankan defendant in South Korea in 1998 was filed by the Government of South Korea on the verge of raping an 18-year-old girl.
-
-However, the defendant was released from the case, and then the defendant was deported to Sri Lanka.
-
-The Attorney General filed the Colombo High Court against the accused by the South Korean government's request to prosecute the defendant under the Korean Sri Lanka National Institute.
-
-Long-examined Colombo High Court acquired the defendant to acquire and release the defendant.
-
-...
-
-[Data](articles/e0f63f9a.json)
-
-[Extended Data](ext_articles/e0f63f9a.ext.json)
-
----
-
-### Divisions Divisions Divisions - President
-
-*2024-02-28 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193911) · `si`
-
-President Ranil Wickremesinghe says he will be devolved the police powers.
-
-The President made these comments participating at the 2024 Inter-Religious Memorial Conference held at the Bandaranaike Memorial Seminar in Colombo this morning under the theme "Reconciliation '.
-
-The Maha Sangha, including the Maha Sangha, and ambassadors were present at the conference held chaired by President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/f52aa4e5.json)
-
-[Extended Data](ext_articles/f52aa4e5.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-02-28 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177500) · `ta`
-
-The US $ 305.5624 and the sales price were 315.2986 based on the Central Bank's currency exchange rate on Wednesday (February 28).
-
-◼️
-
-[Data](articles/24fcfeaf.json)
-
-[Extended Data](ext_articles/24fcfeaf.ext.json)
-
----
-
-### UNFPA Asia Pacific Regional Director arrives in Sri Lanka
-
-*2024-02-28 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-Asia-Pacific-Regional-Director-arrives-in-Sri-Lanka/108-277890) · `en`
-
-Feb 28 - The United Nations Population Fund (UNFPA) Sri Lanka welcomed Pio Smith, the UNFPA Asia Pacific Regional Director, who arrived in the country for a formal visit.
-
-Mr. Smith's visit aims to bolster collaboration with policymakers, government officials, civil society, and key partners to advocate for the rights of women and girls. During his stay, he will also visit grassroots communities to assess their needs firsthand and identify areas for effective UNFPA support.
-
-UNFPA Sri Lanka underscores its enduring collaboration with the Government of Sri Lanka and diverse stakeholders island-wide, driving progress in health, education, and gender equality. The organization champions comprehensive sexual and reproductive health services, aligning with commitments to the International Conference on Population and Development (ICPD) agenda.
-
-...
-
-[Data](articles/c6d5c163.json)
-
-[Extended Data](ext_articles/c6d5c163.ext.json)
-
----
-
-### Don’t let ‘domestic vote bank politics’ overtake council’s work - Sabry tells UNHRC
-
-*2024-02-28 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97590/dont-let-domestic-vote-bank-politics-overtake-councils-work-sabry-tells-unhrc) · `en`
-
-Sri Lanka’s Foreign Affairs Minister Ali Sabry has urged the United Nations Human Rights Council (UNHRC) to refrain from allowing short-term political gains or “domestic vote bank politics” to overtake the work of the Council.
-
-Addressing the High-Level segment of the 55th Session of the council through a pre-recorded video statement on 27 February, the Minister highlighted that despite the severe constraints faced by the country, Sri Lanka continued to engage actively and constructively with an extensive array of helpful working methods of the council, that are productive and beneficial to the people.
-
-Foreign Minister Sabry reiterated Sri Lanka’s rejection of the UNHRC Resolutions 46/1 and 51/1 and the external evidence gathering mechanism established by these resolutions, while emphasizing that such mechanisms are counterproductive and unhelpful and contradict the founding principles of the council.
-
-...
-
-[Data](articles/9ab77ae9.json)
-
-[Extended Data](ext_articles/9ab77ae9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 16:48:52**
+As of **2024-02-28 17:02:51**
 
 ## Newspaper Stats
 
-*Scraped **9,810** Articles*
+*Scraped **9,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 519
 islandlk | 521
 adalk | 831
 adaderanalk | 1,182
-tamilmirrorlk | 1,192
+tamilmirrorlk | 1,195
 virakesarilk | 1,350
 dailymirrorlk | 1,483
 adaderanasinhalalk | 1,485
@@ -26,11 +26,55 @@ adaderanasinhalalk | 1,485
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,810 (100.0%) of 9,810 articles have been extended.
+9,810 (100.0%) of 9,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### இளநீரின் விலை எகிறுகிறது
+
+*2024-02-28 16:17:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளநீரின்-விலை-எகிறுகிறது/175-333954) · `ta`
+
+நாட்களில் நாட்டில் நிலவும் அதிக வெப்பநிலை காரணமாக இளநீரின் தேவை அதிகரித்துள்ளமையினால் கொழும்பு மற்றும் அதனை அண்டிய பகுதிகளில் இளநீர் ஒன்றின் விலை 200 ரூபாவாக அதிகரித்துள்ளது.
+
+கொழும்பு துறைமுக நுழைவாயிலுக்கு அருகில் உள்ள ஆரஞ்சு கடையொன்றில் இளநீர் ஒன்று 200 ரூபாவிற்கு விற்பனை செய்யப்பட்டதுடன், வெளிநாட்டவர்கள் அதிக ஆர்வத்துடன் இளநீரை வாங்கி பருகி வருகின்றனர்.
+
+இரண்டு வாரங்களுக்கு முன்னர் கொழும்பில் இளநீர் ஒன்றின் விலை 120 முதல் 140 ரூபா வரை காணப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5ee81c31.json)
+
+---
+
+### நம்பிக்கையில்லா பிரேரணைக்கு S.L.N.P ஆதரவு
+
+*2024-02-28 16:15:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லா-பிரேரணைக்கு-S-L-N-P-ஆதரவு/175-333953) · `ta`
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிராக எதிர்க்கட்சிகள் கொண்டு வரவுள்ள நம்பிக்கையில்லாப் பிரேரணைக்கு ஆதரவளிக்க ஸ்ரீலங்கா சுதந்திரக் கட்சி தீர்மானித்துள்ளது.
+
+உச்ச நீதிமன்றத்தின் பரிந்துரைகளை பரிசீலிக்காமல் ஆன்லைன் அமைப்புகளின் பாதுகாப்பு மசோதாவை சபாநாயகர் நிறைவேற்றியதாக எதிர்க்கட்சிகள் குற்றம்சாட்டுகின்றன.
+
+◼️
+
+[Data](articles/2d4a638e.json)
+
+---
+
+### சம்பள நிர்ணய சபை தொழிலாளர்களுடன் ஜீவன் சந்திப்பு
+
+*2024-02-28 16:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சம்பள-நிர்ணய-சபை-தொழிலாளர்களுடன்-ஜீவன்-சந்திப்பு/76-333952) · `ta`
+
+2024ஆம் ஆண்டு ஜனவரி மாதம் 1ம் திகதியிலிருந்து மூன்று ஆண்டு காலப்பகுதிக்கு தேயிலை,  இறப்பர் ஆகியவற்றுக்கான தொழிலாளர்கள் சார்பில் நியமிக்கப்பட்டுள்ள பிரதிநிதிகளுடனான சந்திப்பு இன்று (28) இலங்கை தொழிலாளர் காங்கி​ரஸ் தலைமையகமான சௌமியபவனில் இ.தொ.கா பொதுச்செயலாளரும், நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தலைமையில் நடைப்பெற்றது.
+
+தொழிலாளர்களின் சம்பள உயர்வு தொடர்பிலும், சம்பள நிர்ணய சபையில் எமது கோரிக்கைகளை எவ்வாறு முன்வைக்கப்படல் வேண்டும் என்பதையும் இச்சந்திப்பின் போது விரிவாக கலந்துரையாடப்பட்டது.
+
+...
+
+[Data](articles/2a26e409.json)
+
+---
 
 ### IMF team to visit Sri Lanka for second EFF review
 
@@ -2017,55 +2061,5 @@ Scheduled on 14 March, at the Grand Ballroom - Galadari Hotel, Colombo, as a ful
 [Data](articles/fb04906e.json)
 
 [Extended Data](ext_articles/fb04906e.ext.json)
-
----
-
-### Siddhalepa Liv-Pro recognised at International Innovation Awards 2023
-
-*2024-02-28 03:02:22* · [`dailyftlk`](https://www.ft.lk/business/Siddhalepa-Liv-Pro-recognised-at-International-Innovation-Awards-2023/34-758927) · `en`
-
-The Hettigoda Industries yesterday announced that Siddhalepa Liv-Pro, their Ayurvedic food supplement containing Heenbovitiya and Aloevera has been honoured at the International Innovation Awards 2023, organised by Enterprise Asia.
-
-This recognition underscores Siddhalepa Liv-Pro’s exceptional contribution to the industry through innovations, standing out among 200 entries from 20 countries and 16 diverse industries.
-
-Hettigoda Group Research and Development Director Lankani Hettigoda said: “We are thrilled that Siddhalepa Liv-Pro has been acknowledged under the product category at the International Innovation Awards 2023. This accolade is a testament to our commitment to innovation excellence and cutting-edge solutions that make a positive impact on modern living through traditional ayurveda knowledge.”
-
-...
-
-[Data](articles/699ce1c5.json)
-
-[Extended Data](ext_articles/699ce1c5.ext.json)
-
----
-
-### China Communications Construction Company calls on Speaker of Parliament
-
-*2024-02-28 03:02:05* · [`dailyftlk`](https://www.ft.lk/business/China-Communications-Construction-Company-calls-on-Speaker-of-Parliament/34-758926) · `en`
-
-China Communications Construction Company Ltd., (CCCC) Chairman Wang Tongzhou yesterday called on Speaker of Parliament Mahinda Yapa Abeywardena.
-
-CCCC, through CHEC Port City Colombo Ltd., has invested $ 1.4 billion on Port City Colombo. Board of Investment and Port City Economic Commission Chairman Dinesh Weerakkody, Deputy Secretary General Secretary of Parliament G. K. A. Chaminda Kumara Kularatne and National Lotteries Board Chairman Dr. Chamira C. Yapa Abeywardena participated. The 2022 Fortune Global 500 list CCCC was ranked 60th with $ 130.6 billion in revenue.
-
-◼️
-
-[Data](articles/22511a86.json)
-
-[Extended Data](ext_articles/22511a86.ext.json)
-
----
-
-### Ceylon Chamber hosts high-level Vietnamese delegation to explore opportunities in agriculture
-
-*2024-02-28 03:01:16* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-hosts-high-level-Vietnamese-delegation-to-explore-opportunities-in-agriculture/34-758925) · `en`
-
-The Ceylon Chamber of Commerce recently hosted a high-level delegation from the Ministry of Agriculture and Rural Development of Vietnam, engaged in a working visit to strengthen bilateral relations between Vietnam and Sri Lanka, in the fields of agricultural, forestry and fishery.
-
-Organised in association with the Sri Lanka – Greater Mekong Business Council and the Embassy of Vietnam in Sri Lanka, the delegation led by Vietnam’s Agriculture and Rural Development Minister Le Minh Hoan, comprised high-ranking officials of the Ministry and prominent entrepreneurs of Vietnam’s agriculture sector. A roundtable discussion explored opportunities for collaboration in agriculture, forestry, and fisheries and facilitated exchanges of trade and industry models, establishing connections with business and industry associations in Sri Lanka.
-
-...
-
-[Data](articles/30c098f0.json)
-
-[Extended Data](ext_articles/30c098f0.ext.json)
 
 ---

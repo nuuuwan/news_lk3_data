@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 16:03:33**
+As of **2024-02-28 16:17:23**
 
 ## Newspaper Stats
 
-*Scraped **9,807** Articles*
+*Scraped **9,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 503
 dailyftlk | 519
 islandlk | 521
-adalk | 830
-adaderanalk | 1,181
+adalk | 831
+adaderanalk | 1,182
 tamilmirrorlk | 1,192
 virakesarilk | 1,350
 dailymirrorlk | 1,483
@@ -26,11 +26,23 @@ adaderanasinhalalk | 1,484
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,807 (100.0%) of 9,807 articles have been extended.
+9,807 (100.0%) of 9,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### IMF team to visit Sri Lanka for second EFF review
+
+*2024-02-28 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97595/imf-team-to-visit-sri-lanka-for-second-eff-review) · `en`
+
+A team from the International Monetary Fund (IMF) is to arrive in Sri Lanka for the second review of the Extended Fund Facility (EFF) programme which is to begin on 07 March, according to State Minister of Finance Shehan Semasinghe.
+
+◼️
+
+[Data](articles/e89ae81c.json)
+
+---
 
 ### SLFP to support no-confidence motion against the Speaker
 
@@ -197,6 +209,18 @@ Responding to questions raised by journalists after attending the Galle District
 [Data](articles/d9b9bbe3.json)
 
 [Extended Data](ext_articles/d9b9bbe3.ext.json)
+
+---
+
+### නොදන්වා විදුලිය කපයි?
+
+*2024-02-28 14:45:11* · [`adalk`](https://www.ada.lk/breaking_news/නොදන්වා-විදුලිය-කපයි-/11-408327) · `si`
+
+ලංකා විදුලි බල මණ්ඩලය විසින් ඇතැම් ප්‍ර දේශවලට මේ වන විට නොදන්වා විදුලිය විසන්ධි කරන බව වාර්තා වෙයි. මේ හේතුවෙන් බොහෝ පිරිසක් පීඩාවට පත්ව තිබේ. මේ දිනවල පවතින අධික උෂ්ණත්වය හේතුවෙන් විදුලිය සඳහා ඇති ඉල්ලුමද ඉහළ ගොස් තිබේ.
+
+◼️
+
+[Data](articles/84af3e90.json)
 
 ---
 
@@ -2025,49 +2049,5 @@ The owners of the vessel Agros Shipping Co. Ltd. furnished security for $ 1 mill
 [Data](articles/22ebc617.json)
 
 [Extended Data](ext_articles/22ebc617.ext.json)
-
----
-
-### Govt. directs to draft State Finance Management Act
-
-*2024-02-28 02:59:52* · [`dailyftlk`](https://www.ft.lk/business/Govt-directs-to-draft-State-Finance-Management-Act/34-758923) · `en`
-
-The Government directed the Legal Draftsman to draft the Bill of the State Finance Management Act, based on the fundamental draft that has been prepared in this regard.
-
-Additionally, powers have been entrusted to the Treasury Secretary to appoint a specialist committee to initiate the formulation of financial regulations. The committee will facilitate the process till the Legal Draftsmen finalise the proposed draft Bill.
-
-“The proposed State Financial Management Act is expected to streamline financial processes, mitigate risks and strengthen fiscal discipline across Government agencies,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
-
-On 8 May 2023 Cabinet approved to draft a new framework of financial rules and to include those rules in the proposed State Financial Management Act.
-
-...
-
-[Data](articles/d40f0496.json)
-
-[Extended Data](ext_articles/d40f0496.ext.json)
-
----
-
-### Appointment of Deshabandu as IGP illegal: SJB
-
-*2024-02-28 02:59:01* · [`dailyftlk`](https://www.ft.lk/news/Appointment-of-Deshabandu-as-IGP-illegal-SJB/56-758922) · `en`
-
-MP Prof. G. L. Peiris claims Speaker cannot vote to make up five votes necessary to appoint a new IGP
-
-According to Constitution, Speaker as Head of CC, can only vote if there is a tie in votes cast
-
-Accuses Speaker of voting despite no tie thereby directly violating Constitution
-
-Expresses intention to take legal action against Speaker and CC Secretary for their part in the process
-
-Freedom People’s Congress (FPC) MP Prof. G. L. Peiris yesterday alleged that the appointment of Senior DIG Deshabandu Tennekoon to the post of Inspector General of Police (IGP) has occurred in an illegal manner.
-
-Addressing a press conference in Colombo, Peiris said while the President can only appoint an IGP with the approval of the Constitutional Council (CC), due approval from the Council had not been obtained for the appointment. He said therefore the appointment of Tennekoon as IGP is unlawful.
-
-...
-
-[Data](articles/af917c1c.json)
-
-[Extended Data](ext_articles/af917c1c.ext.json)
 
 ---

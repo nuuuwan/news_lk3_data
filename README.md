@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 03:02:37**
+As of **2024-02-29 03:17:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,896 (99.9%) of 9,910 articles have been extended.
+9,899 (99.9%) of 9,910 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,21 +54,25 @@ Opposes PAYE tax, citing negative impact on consumer spending and economic activ
 
 [Data](articles/e95a1efb.json)
 
+[Extended Data](ext_articles/e95a1efb.ext.json)
+
 ---
 
-### உலக பொருளாதாரத்தின் மையப்பகுதியில் மீண்டும் இந்துமா சமுத்திரம் - சிவசங்கர் மேனன்
+### Sivasankar Menon again in the center of the world economy
 
 *2024-02-29 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177563) · `ta`
 
-உலக பொருளாதாரத்தின் மையப்பகுதியில் மீண்டும் இந்து - பசிபிக் பிராந்தியம் நிலைக்கொள்கின்றது. மூடப்பட்ட ஒரு புவியியலை இன்று உலகில் காண இயலாது. புவிசார் அரசியலின் மேலடுக்கு உண்மையான தீர்வுகளை நோக்கிய பயணத்தில் ஆதிக்கத்தை செலுத்துகின்றது என இந்தியாவின் முன்னாள் தேசிய பாதுகாப்பு ஆலோசகரும் மூத்த இராஜதந்திரியுமான சிவசங்கர் மேனன் தெரிவித்தார்.
+The Hindu -Pacific region is once again in the center of the global economy. The enclosed earth is not visible in the world today. Former India's former national security adviser and senior diplomat Sivashankar Menon said that the overlapping of geopolitical politics is dominating the journey towards the real solutions.
 
-கொழும்பில்; புதன்கிழமை (28) இடம்பெற்ற இந்துமா சமுத்திர மாநாட்டில் கலந்துக்கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு கூறினார். அவர் அங்கு தொடர்ந்தும் கூறுகையில்,
+In Colombo;He said this while addressing the Indian Ocean Conference held on Wednesday (28). He continues to say,
 
-இந்து - பசிபிக் பெருங்கடல் பிராந்தியத்தின் பாதுகாப்பு தொடர்பாக கடந்த பல வருடங்களாக கலந்துரையாடி வருகின்றோம். இவ்வகையான கலந்துரையாடல்களை முன்னெடுப்பது தொடர்பில் பாத்பைண்டர் மன்றத்திற்கு நன்றி கூறுகின்றேன்.  அவற்றை கருத்தில் கொள்ளும் பொது இன்று நான் முக்கியமான தருணத்தில் உள்ளளோம் என்பதை உணர முடிகிறது. ஜனாதிபதி ரணில் விக்கிரமசிங்க வரலாற்றை நினைவுக்கூர்ந்து இன்று நாம் எங்கு உள்ளோம் என்பதை கூறினார்.
+We have been discussing the safety of the Hindu -Pacific Ocean region for the past several years. I thank the Batfire Forum for conducting these kinds of discussions.The public to consider them can realize that I am in an important moment today. President Ranil Wickremesinghe commemorates the history of the history and told us where we are today.
 
 ...
 
 [Data](articles/c331c295.json)
+
+[Extended Data](ext_articles/c331c295.ext.json)
 
 ---
 
@@ -105,6 +109,8 @@ Economists tell us that Sri Lanka’s economy has stabilised but what does this 
 ...
 
 [Data](articles/2b924977.json)
+
+[Extended Data](ext_articles/2b924977.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 05:55:32**
+As of **2024-02-28 06:16:33**
 
 ## Newspaper Stats
 
-*Scraped **9,692** Articles*
+*Scraped **9,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 500
 islandlk | 511
-dailyftlk | 514
+dailyftlk | 519
 adalk | 819
 adaderanalk | 1,167
 tamilmirrorlk | 1,183
@@ -26,11 +26,91 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,692 (100.0%) of 9,692 articles have been extended.
+9,692 (99.9%) of 9,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Why the Sri Lankan economy is in crisis, while the cause is not addressed
+
+*2024-02-28 03:31:43* · [`dailyftlk`](https://www.ft.lk/columns/Why-the-Sri-Lankan-economy-is-in-crisis-while-the-cause-is-not-addressed/4-758939) · `en`
+
+The idea in a Balance of Payments crisis, is to enhance exports to earn more foreign exchange, but the solutions put forward do not direct the economy in such a direction
+
+Though it is now almost two years since the economic crisis blew over, Sri Lanka has not yet addressed the real cause of the crisis and is seeking solutions for the symptoms, while the cause lies elsewhere.
+
+What is most frightening is that the solutions that are being acted on would cause greater damage to the economy to a point where it would totally be out of control, with no way out, even if we wanted to get back to a development path.
+
+The past two years was valuable time that Sri Lanka had, to devise a way forward, which was lost in seeking solutions that were not related to the crisis. All the effort of the Government is to be able to go back to borrowing again and fall into a bigger mess.
+
+...
+
+[Data](articles/e22cafa4.json)
+
+---
+
+### NPP’s stance on foreign investment: Unravelling misconceptions
+
+*2024-02-28 03:28:26* · [`dailyftlk`](https://www.ft.lk/columns/NPP-s-stance-on-foreign-investment-Unravelling-misconceptions/4-758938) · `en`
+
+Contrary to the narrative presented in the article, the NPP is not staunchly opposed to foreign direct investment
+
+In recent times, discussions surrounding the NPP’s position on foreign direct investment have been clouded by misconceptions. A closer examination of an old article that was in the Daily FT on 7 February by Prof. Rohan Samarajiva (https://www.ft.lk/columns/JVP-s-plan-to-exclude-foreign-investors-from-the-energy-sector/4-744996) doing its rounds these days in “X” reveals an attempt to mislead readers about the NPP’s approach to foreign investments. This article aims to clarify the NPP’s perspective and address the misleading assertions put forth by the author.
+
+...
+
+[Data](articles/0a49a392.json)
+
+---
+
+### AKD and Chanakya Manthras
+
+*2024-02-28 03:24:04* · [`dailyftlk`](https://www.ft.lk/columns/AKD-and-Chanakya-Manthras/4-758937) · `en`
+
+According to AKD, with the Indian visit, his party has shaken the cradles of conventional politics
+
+As a schoolboy, I was in Tambuththegama with an uncle who served in the Rajanagana Irrigation Project. Inquisitively then, I went to see the Tambuththegama Yodaya-Herath Banda. Anyone visiting him was surprised by his physique.
+
+Today, many thousands congregate to listen to another Tambuththegama product that eloquently addresses the masses, rooting his rural origin, on contemporary socio-economic-political problems, seeking the mandate to rule the country. He quotes the competition he faces from the elitists, depicting a ‘class struggle’. He is Anura Kumara Dissanayake (AKD), an educated, eloquent, robust political leader.
+
+...
+
+[Data](articles/a8b0aebc.json)
+
+---
+
+### IMF prescription, sick economy and Government nursing
+
+*2024-02-28 03:17:20* · [`dailyftlk`](https://www.ft.lk/columns/IMF-prescription-sick-economy-and-Government-nursing/4-758934) · `en`
+
+The pressure on the common man and the middle class is enormous and it keeps escalating in terms of the frequent price revisions on critical services followed by the prices of essential goods and services
+
+The current engagement of IMF in Sri Lanka, is obviously a ‘desperate invitation’ of the Sri Lankan authorities, when all options were exhausted due to the absence of a strategy to leverage our reserves and resources in an effective manner, based on national priorities.
+
+...
+
+[Data](articles/bc321824.json)
+
+---
+
+### Japan extends Rs. 2.5 b grant to strengthen border-related health capacities
+
+*2024-02-28 03:05:34* · [`dailyftlk`](https://www.ft.lk/news/Japan-extends-Rs-2-5-b-grant-to-strengthen-border-related-health-capacities/56-758929) · `en`
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena says move to boost tourism industry further
+
+Considering the significant contribution of the tourism industry to the economy, Japan has agreed to extend a grant of Yen 1.17 billion (around Rs. 2.5 billion) via the International Organisation for Migration (IOM) to strengthen border-related health preparedness at two key entry ports in Sri Lanka.
+
+The Bandaranaike International Airport (BIA) and Colombo Port will see an upgrade in its health capacities according to international practices, recommendations and standards through the grant facility.
+
+“The financial aid will help to improve health capacities to deal with direct contribution of the control of infectious disease and the overall security of all passengers, staff and staff of points of entry in various health emergencies,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/85fc222c.json)
+
+---
 
 ### WCIC’s Empowering Women Leadership Forum 2024 on 14 March
 
@@ -1915,115 +1995,5 @@ When asked why had consumed them, the patient told the doctor he thought zinc, w
 [Data](articles/b2c4f829.json)
 
 [Extended Data](ext_articles/b2c4f829.ext.json)
-
----
-
-### The latest situation in the investigation of phi Roshan's murder
-
-*2024-02-27 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193879) · `si`
-
-Treasurer of the Sri Lanka Public Health Inspectors Association w. The police stated that the reason for the assassination of Mr. D Roshan Kumara has not been revealed.
-
-Several police teams have been deployed to investigate.
-
-Investigations have revealed that the police have so far revealed that there is no relationship with any underworld gang.
-
-Meanwhile, his body has been handed over to relatives today (27) following the post mortem.
-
-The body is currently being placed at his residence in the Pathirajagahawatta, Pathirajagahaham, Pathirajagahahack, and the funeral will be held tomorrow at the Elpitiya General Cemetery.
-
-Roshan Kumara was killed following a shot of two unidentified gunmen from a motorbike last morning.
-
-When he was murdered, he was preparing to take his son to school to the first grade one school.
-
-However, there is no specific information regarding the cause of shooters or shooters.
-
-◼️
-
-[Data](articles/1e7e9bd0.json)
-
-[Extended Data](ext_articles/1e7e9bd0.ext.json)
-
----
-
-### IGP's promise to Leadership Supreme Court
-
-*2024-02-27 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193878) · `si`
-
-The inscription on the publication of a person to inform the stakeholders about the contents of the complaint was to be issued today (27) before the publication of the complaint was to be issued to the police to obtain a complaint.
-
-An activity of the energy sector. B. Paddy. A respondent called a fundamental rights petition filed by Mr. Ralapana has been identified as a respondent in the Supreme Court today.
-
-Who was the one who had taken the complaint when he was summoned to the police when he was summoned before the courts?And the IGP wants to issue a circular to inform the person who is to be aware of the contents of the complaint.
-
-The State Counsel asked the court to draft the circular and submitting the court.
-
-President's Counsel Saliya personnel who appeared in behalf of the petitioner have made the complaint before a man made a statement to police?What is the content of that complaint?There is a claim that there is a claim to know.
-
-...
-
-[Data](articles/4c7eacff.json)
-
-[Extended Data](ext_articles/4c7eacff.ext.json)
-
----
-
-### Seven flights including SriLankan flights cancelled
-
-*2024-02-27 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Seven-flights-including-SriLankan-flights-cancelled/108-277814) · `en`
-
-Katunayaka, Feb 27 (Daily Mirror) - Seven flights that were scheduled to leave for India, the Middle East and Thailand from the Katunayaka International Airport have been cancelled today, an officer from the flight information centre said.
-
-She said six of the cancelled flights were SriLankan Airlines flights.
-
-Accordingly, the US 173 flight, which was scheduled to leave for Bangalore, India at 1.10 a.m, the UL 402 flight which was scheduled to leave for Bangkok, Thailand, at 1.15 a.m. and the UL 135 SriLankan flight, which was scheduled to leave for Channai, India, were cancelled this morning.
-
-Moreover, the UL 143 SriLankan flight, which was scheduled to leave for Mumbai, India, at 5.10 a.m, the UL 263 SriLankan flight scheduled to leave for Dammam in Saudi Arabia at 6.30 a.m. and the UL 207 flight scheduled to leave for Abu Dhabi in the United Arab Emirates at 6.50 a.m, had been cancelled.
-
-Meanwhile, flight SG 002, which was scheduled to leave for Chennai, India, has also been cancelled.
-
-◼️
-
-[Data](articles/41d1b953.json)
-
-[Extended Data](ext_articles/41d1b953.ext.json)
-
----
-
-### Seven flights including SriLankan flights delayed
-
-*2024-02-27 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Seven-flights-including-SriLankan-flights-delayed/108-277814) · `en`
-
-Katunayaka, Feb 27 (Daily Mirror) - Seven flights that were scheduled to leave for India, the Middle East and Thailand from the Katunayaka International Airport have been delayed today due to technical failures, an officer from the flight information centre said.
-
-She said six of the delayed flights were SriLankan Airlines flights.
-
-Accordingly, the US 173 flight, which was scheduled to leave for Bangalore, India at 1.10 a.m, the UL 402 flight which was scheduled to leave for Bangkok, Thailand, at 1.15 a.m. and the UL 135 SriLankan flight, which was scheduled to leave for Channai, India, were delayed this morning.
-
-Moreover, the UL 143 SriLankan flight, which was scheduled to leave for Mumbai, India, at 5.10 a.m, the UL 263 SriLankan flight scheduled to leave for Dammam in Saudi Arabia at 6.30 a.m. and the UL 207 flight scheduled to leave for Abu Dhabi in the United Arab Emirates at 6.50 a.m, had been delayed.
-
-...
-
-[Data](articles/7c79dd50.json)
-
-[Extended Data](ext_articles/7c79dd50.ext.json)
-
----
-
-### World's Fastest T20 century from Namibia
-
-*2024-02-27 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193877) · `si`
-
-A Namibian player was able to report 20 and 20% of the world.
-
-He scored the century in 33 balls with the contest against Nepal.
-
-It is noteworthy that Khaushal Mallawa in Nepal, who was in possession of the report.
-
-◼️
-
-[Data](articles/65876761.json)
-
-[Extended Data](ext_articles/65876761.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 20:33:11**
+As of **2024-02-28 20:50:19**
 
 ## Newspaper Stats
 
-*Scraped **9,854** Articles*
+*Scraped **9,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 503
 dailyftlk | 519
 islandlk | 521
-adalk | 837
+adalk | 839
 adaderanalk | 1,187
 tamilmirrorlk | 1,201
-virakesarilk | 1,355
+virakesarilk | 1,358
 dailymirrorlk | 1,489
 adaderanasinhalalk | 1,497
 
@@ -26,25 +26,95 @@ adaderanasinhalalk | 1,497
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,853 (100.0%) of 9,854 articles have been extended.
+9,854 (99.9%) of 9,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### ශ්‍රීලන්කන් මිලදී ගැනීම සඳහා ලංසු විවෘත කිරීම මාර්තු 05
+### ஜூன் மாதம் முதல் அஸ்வெசும பயனாளிகளின் எண்ணிக்கையை 24 இலட்சமாக அதிகரிக்க நடவடிக்கை -  நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க
+
+*2024-02-28 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177547) · `ta`
+
+அஸ்வெசும இரண்டாம் கட்டத்திற்காக விண்ணப்பித்த பயனாளிகளின் தரவு சரிபார்ப்பு மற்றும் சான்றுபடுத்தல் பணிகள் நிறைவடைந்துள்ளதாகவும், அஸ்வெசும பயனாளிகளின் குடும்ப அலகுகளின் எண்ணிக்கையை ஜூன் மாதம் முதல் 24 இலட்சமாக அதிகரிக்க அனைத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளதாகவும் நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்தார்.
+
+அஸ்வெசும இரண்டாம் கட்ட விண்ணப்பம் கோரல் 2024 மார்ச் 15 ஆம் திகதியுடன் நிறைவடையும் என்றும் விண்ணப்பங்களை சமர்ப்பிக்காதவர்கள் எவரும் அஸ்வெசும பலனைப் பெறத் தகுதி பெற மாட்டார்கள் எனவும் இராஜாங்க அமைச்சர் வலியுறுத்தினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (28) நடைபெற்ற செய்தியாளர் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே நிதி இராஜாங்க அமைச்சர்  ஷெஹான் சேமசிங்க இதனைக் குறிப்பிட்டார்.
+
+பொய்யான தகவல்களின் மூலம் அஸ்வெசும நன்மைகளைப் பெற்ற சுமார் 7000 பேர் அதிலிருந்து நீக்கப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/7153b944.json)
+
+---
+
+### රජිව් ඝාන්ධි ඝාතනයේ යාපනයේ ශාන්තන් රජිව් ගාන්ධි රෝහලේදී මරුට
+
+*2024-02-28 19:55:24* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ඝාන්ධි-ඝාතනයේ-යාපනයේ-ශාන්තන්-රජිව්-ගාන්ධි-රෝහලේදී-මරුට/11-408340) · `si`
+
+හිටපු ඉන්දීය අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතාගේ ඝාතන සිද්ධියට වරදකරුවකු වී පසුව නිදහස ලැබු යාපනයේ ශාන්තන් නැමැත්තා ඉන්දියාවේදී ජීවිතක්ෂයට පත්ව ඇති බවට ඒරට මාධ්‍ය වාර්තා කර සිටියි.
+
+ශාන්තන් ඊයේ (27දා) දින ඉන්දියාවේ රජිව් ගාන්ධි රෝහලේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බව ඉන්දීය මාධ්‍ය වාර්තා සඳහන් කළේය.
+
+රජීව් ගාන්ධි ඝාතන නඩුව සම්බන්ධයෙන් වසර ගණනාවක් සිරගතව සිටි ශාන්තන් වසර 32කට පසු සිය මව බැලීමට යාපනය පැමිණීමට නියමිතව තිබුණි.
+
+ඒ අතරතුර ශාන්තන්ට හදිසියේ වැළඳුණු අක්මා රෝගයක් හේතුවෙන් ඔහු රෝහල් ගතකර ඇති අතර පසුව වැඩිදුර ප්‍රතිකාර සඳහා ඉන්දියාවේ රජිව් ගාන්ධි රෝහලට මාරු කොට එහි දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී  මියගොස් ඇත.
+
+ශාන්තන්ගේ මව ඔහු බැලීමට අවශ්‍ය බව සඳහන් කරමින් ඉන්දීය රජයට අභියාචනයක් ඉදිරිපත් කර තිබුණු අතර එම අභියාචනය සැලකිල්ලට ගැනීමෙන් පසු ඉන්දීය රජය විසින් ශාන්තන්ට ශ්‍රී ලංකාවට පැමිණීම සඳහා අවසර ලබාදුන් බවද ඉන්දීය මාධ්‍ය වාර්තා සඳහන් කරයි.
+
+...
+
+[Data](articles/9b10b817.json)
+
+---
+
+### பியகமவில் பாரிய தீ பரவல்: களத்தில் 4 தீயணைப்பு வாகனங்கள்!
+
+*2024-02-28 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177546) · `ta`
+
+பியகம பண்டாரவத்தை பிரதேசத்தில் உள்ள தனியார் நிறுவனமொன்றுக்குச் சொந்தமான பகுதியில் பாரிய  தீ பரவல் ஏற்பட்டுள்ளது.
+
+குறித்த நிறுவனத்தில் நீர் குழாய்கள் தேக்கி வைக்கப்பட்டிருந்த இடத்துக்கு அருகில் இன்று (28) மாலை தீ பரவியதாக பியகம பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b3b0fb8d.json)
+
+---
+
+### ரயிலை மறித்து புலிச்சகுளம் புகையிரத நிலையத்திற்கு அருகில் போராட்டம்
+
+*2024-02-28 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177545) · `ta`
+
+புலிச்சகுளம் புகையிரத நிலையத்திற்கு அருகில் புகையிரதத்தை மறித்து பிரதேசவாசிகளால் ஆர்ப்பாட்டத்தில் ஈடுபட்டதையடுத்து அந்த இடத்தில் தற்போது கடும் பதற்றமான சூழல் ஏற்பட்டுள்ளது.
+
+ஹலவத்தையில் இருந்து புத்தளம் நோக்கி புதன்கிழமை (28) பிற்பகல் பயணித்த புகையிரதத்தில் மோதி இளைஞன் ஒருவர் உயிரிழந்துள்ளதாகத் தெரிவிக்கப்படுகின்றது.
+
+இச்சம்பவத்தையடுத்து, பிரதேசவாசிகள், புத்தளத்தில் இருந்து ஹலவத்தை நோக்கி புகையிரதம் சென்று கொண்டிருந்த போது புலிச்சகுளம் புகையிரத நிலையத்திற்கு அருகில் புகையிரதத்தை மறித்து ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர்
+
+◼️
+
+[Data](articles/76ff9fe2.json)
+
+---
+
+### Opening of Bids for Purchase SriLankan
 
 *2024-02-28 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193930) · `si`
 
-මාර්තු 05 වනදා ශ්‍රීලන්කන් ගුවන් සේවය මිලදී ගැනීම සඳහා ලංසු විවෘත කිරීම සජිවීව සිදුකර ආයෝජකයකු තෝරාගන්නා බව වරාය, නාවුක සහ ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා අද ප්‍රකාශ කළේය.
+Minister Naval Siripala de Silva said that the opening of the bids were carried out by the SriLankan's Airlines on March 5 today.
 
-අද දෙරණ 24 නාලිකාවේ GET REAL වැඩසටහනට එක්වෙමින් අමාත්‍යවරයා මෙම අදහස් පළකළේය.
+The Minister made these comments participating at the GET REAL program of Ada Derana 24.
 
-"අපි ලංසු කැදවා තිබෙනවා මාර්තු 5 වැනිදා උදෑසන 10 සිට සවස 2 දක්වා ඔවුන්ට පැමිණිය හැකියි. එය සජීවීව සිදුකරනු ලබනවා. පස්වරු 2 වන විට ලංසු විවෘත කර ඇගයීම ලක්කළ හැකියි. ඒ සඳහා සහාය දැක්වීමට තාක්ෂණික කණ්ඩායමක් ද සිටිනවා. ඔවුන් එම ලංසු ඇගයීම සිදුකරනු ලබනවා. අවසානයේ එය කැබිනට් මණ්ඩලය වෙත ඉදිරිපත් කරනු ලබනවා. මට අවශ්‍ය අවම වශයෙන් අමෙරිකානු ඩොලර් මිලියන 500ක ආයෝජනයක් සිදුකළ හැකි ශක්තිමත් ආයෝජකයෙකු පැමිණීමයි. ඒ වගේම ගුවන් සේවයේ 6,000කගේ රැකියාවන් සුරක්ෂිතභාවයට පත්කිරීමත් අවශ්‍ය වනවා."
+"We have called bids from 10 am to 2 pm. It is done live. Bids can be opened and evaluated by 2 pm. There is also a technical team to support it. They are conducting the bid evaluation. At the end it will be submitted to the cabinet. A strong investor who can invest at least $ 500 million in investing in US $ 500 million is to come. Also, the jobs of 6,000 airlines need to be secured. "
 
 ◼️
 
 [Data](articles/5de41ecc.json)
+
+[Extended Data](ext_articles/5de41ecc.ext.json)
 
 ---
 
@@ -79,6 +149,18 @@ Colombo, Feb. 28 (Daily Mirror)- National People's Power (NPP) MP Harini Amarasu
 [Data](articles/fae347ba.json)
 
 [Extended Data](ext_articles/fae347ba.ext.json)
+
+---
+
+### දේශබන්දු හෙට පොලිස්පති ධුරයේ රාජකාරී අරඹයි
+
+*2024-02-28 19:19:57* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-හෙට-පොලිස්පති-ධුරයේ-රාජකාරී-අරඹයි/11-408334) · `si`
+
+පොලිස්පති ධුරයට පත්කරන ලද දේශබන්දු තෙන්නකෝන් මහතා හෙට සිය ධුරයේ රාජකාරී කටයුතු ආරම්භ කරන බව පොලිස් මූලස්ථානය පවසයි. පොලිස් මූලස්ථානයේදී මෙම රාජකාරී භාර ගැනීම සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/bfa5f4bc.json)
 
 ---
 
@@ -1925,103 +2007,5 @@ He added that the police department will be extended to make a broad change in t
 [Data](articles/51f3dbd1.json)
 
 [Extended Data](ext_articles/51f3dbd1.ext.json)
-
----
-
-### Sri Lanka Telecom - Lanka Hospital Stock Affairs
-
-*2024-02-28 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/177478) · `ta`
-
-The Court of Appeal has issued an interim injunction till March 12 for the Sri Lankan government's actions regarding the shares of Sri Lanka Telecom and Lanka Hospitals.
-
-Appeal Court Judge Denzamarakoon issued the order after reviewing the ritmans that have been attacked against the sale of government shares in Sri Lanka Telecom and Lanka Hospitals.
-
-Lycamobiles and SM RM have filed a petition in court for the sale of Sri Lanka.
-
-Meanwhile, Leica Leasing Holding has filed a petition against the purchase of stocks belonging to Lanka Hospital Cooprason.
-
-The petitioners said that we have submitted questions of the rules needed for purchase of shares.
-
-However, the petitioners said the Cabinet had rejected their questions without providing any clear explanations.
-
-◼️
-
-[Data](articles/b141845b.json)
-
-[Extended Data](ext_articles/b141845b.ext.json)
-
----
-
-### Sri Lanka rupee trades at 310.10/30 to the US dollar
-
-*2024-02-28 11:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-310-10-30-to-the-us-dollar-152371/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 310.10/30 to the US dollar on Wednesday, from 310.25/50 Tuesday, dealers said.
-
-A bond maturing on 01.08.2026 was quoted at 10.85/11.05 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.85/95 percent from 11.80/95 percent.
-
-A bond maturing on 01.07.2028 was quoted at 12.15/25 percent.
-
-The Colombo Stock Exchange was trading up; The All Share Price Index was up 0.23 percent at 10,647, the S&P SL20 was up 0.19 at 3,061. (Colombo/Feb28/2024)
-
-◼️
-
-[Data](articles/5180c66b.json)
-
-[Extended Data](ext_articles/5180c66b.ext.json)
-
----
-
-### The largest anaconda in the lungs of the earth
-
-*2024-02-28 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177465) · `ta`
-
-Professor Break Vonk, one of the scientists involved in the Amazon forest research, posted the video of the 26 -foot -long Anakonda snake underneath the water on his Instagram page.
-
-◼️
-
-[Data](articles/09f091da.json)
-
-[Extended Data](ext_articles/09f091da.ext.json)
-
----
-
-### Santhan, released convict in Rajiv Gandhi assassination case, dies
-
-*2024-02-28 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Santhan-released-convict-in-Rajiv-Gandhi-assassination-case-dies/108-277882) · `en`
-
-Feb 28 (The Indian Express) - Santhan alias T Suthendiraraja, a Sri Lankan national who was one of the six convicts released in the Rajiv Gandhi assassination case, died on Wednesday morning at the Rajiv Gandhi Government Hospital (RGGH) in Chennai.
-
-Santhan, who was released by the Supreme Court in November 2022, was kept at the special camp near the Tiruchirapalli Central Prison. Last week, the Foreigners Regional Registration Office (FRRO) in Chennai issued an order to deport Santhan to Sri Lanka; however, he was admitted to the RGGH for treatment for a kidney-related ailment.
-
-Addressing the reports, E Thenirajan, Dean, RGGH, said that based on the directions of the Tiruchirapalli district collector, Santhan was admitted to the hospital on January 27. Thenirajan said a team of doctors were treating him at the Intensive Care Unit (ICU) and constantly monitoring him. He said Santhan was diagnosed with cryptogenic cirrhosis or a liver disease.
-
-...
-
-[Data](articles/1e435c9e.json)
-
-[Extended Data](ext_articles/1e435c9e.ext.json)
-
----
-
-### Japan distributes oil to health
-
-*2024-02-28 10:58:13* · [`adalk`](https://www.ada.lk/breaking_news/ජපානය-සෞඛ්‍යයට-තෙල්-බෙදයි/11-408323) · `si`
-
-Thanks to the Japanese Government and the Government for a generous fuel given to the Sri Lankan health care and launch the Fuel Management System of Sri Lanka and the FIX system (FIMS)The Health Ministry was conducted at the auditorium.
-
-The activities were made by Minister of Health and Industry Dr. Ramesh Pathirana and Deputy Ambassador of Japan in Sri Lanka by the chairman of Japa.. The distribution of the diesel grant was officially launched on the 26th.
-
-The FIMS system has been created for the activities of all health institutions to systematically distribution.Vehicles obtained fuel to the system, which obtained all information on the amount of fuel, and health institutions enter all information. All these activities are under the direct supervision of the Government of Japan.
-
-The fuel rose as a grant was worth Rs. 12 billion, the Health Minister said that it is sufficient for two years.
-
-◼️
-
-[Data](articles/6172b574.json)
-
-[Extended Data](ext_articles/6172b574.ext.json)
 
 ---

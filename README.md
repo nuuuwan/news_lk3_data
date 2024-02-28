@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 06:16:33**
+As of **2024-02-28 06:52:31**
 
 ## Newspaper Stats
 
-*Scraped **9,697** Articles*
+*Scraped **9,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ bbccomsinhala | 118
 dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 500
-islandlk | 511
 dailyftlk | 519
+islandlk | 521
 adalk | 819
 adaderanalk | 1,167
 tamilmirrorlk | 1,183
 virakesarilk | 1,330
-dailymirrorlk | 1,461
+dailymirrorlk | 1,463
 adaderanasinhalalk | 1,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,692 (99.9%) of 9,697 articles have been extended.
+9,695 (99.9%) of 9,709 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The past two years was valuable time that Sri Lanka had, to devise a way forward
 
 [Data](articles/e22cafa4.json)
 
+[Extended Data](ext_articles/e22cafa4.ext.json)
+
 ---
 
 ### NPP’s stance on foreign investment: Unravelling misconceptions
@@ -61,6 +63,8 @@ In recent times, discussions surrounding the NPP’s position on foreign direct 
 ...
 
 [Data](articles/0a49a392.json)
+
+[Extended Data](ext_articles/0a49a392.ext.json)
 
 ---
 
@@ -77,6 +81,8 @@ Today, many thousands congregate to listen to another Tambuththegama product tha
 ...
 
 [Data](articles/a8b0aebc.json)
+
+[Extended Data](ext_articles/a8b0aebc.ext.json)
 
 ---
 
@@ -385,6 +391,42 @@ Sri Lanka's Airlines' officials said during a discussion with Sri Lankan Airline
 [Data](articles/c1a41880.json)
 
 [Extended Data](ext_articles/c1a41880.ext.json)
+
+---
+
+### Marx, Ants and Hyde Park Rally - EDITORIAL
+
+*2024-02-28 00:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Marx-Ants-and-Hyde-Park-Rally-EDITORIAL/172-277840) · `en`
+
+Karl Marx was right, Socialism works, it is just that he had the wrong species– Edward Osborne Wilson
+
+The argument put forwarded by Edward O. Wilson, the father was Socio-biology, was that altruism which is the very foundation of socialism, does not come naturally to human beings. Commenting on this subject in his book, “The Ants”, Wilson maintained that while altruism works for species like ants and bees, humans who are naturally selfish are unable to completely adjust to Socialism.
+
+The above quote of Wilson was recited last Saturday to a packed audience at the Hyde Park in Colombo by Sugeeshwara Bandara who made his political debut that day.
+
+Attributing the fall of the former USSR regime of Russia to the same theory, Bandara said forcing people to accept Socialist ways makes people frustrated and kills the spirit of innovation.
+
+...
+
+[Data](articles/78c1284a.json)
+
+---
+
+### ‘White Only’ Party and the Warped Mind of the Immigration Controller
+
+*2024-02-28 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/White-Only-Party-and-the-Warped-Mind-of-the-Immigration-Controller/172-277839) · `en`
+
+The order by the Controller of Immigration and Emigration revealed the ‘FROG IN THE WELL’ mindset of the bureaucrats who rule the roost. This singular stupidity however has economic and potential geopolitical consequences that Sri Lanka cannot afford! The government should rescind the order and mitigate the negative publicity.
+
+What would commonsensical authorities do when tourists are found to run businesses illegally?
+
+Raid illegal ventures. Set up a mechanism to bring them into the tax net. Require them to comply with local regulations. Reform restrictive local laws, considering that businesses operate illegally in the first place due to a labyrinth of red tape that fosters graft and corruption.
+
+No! The best that the warped minds of the Department of Immigration and Emigration could come up was to order the Russian and Ukrainian tourists who stay in the country on extended visas to leave within 14 days.
+
+...
+
+[Data](articles/56008943.json)
 
 ---
 
@@ -839,6 +881,86 @@ The continuation of the national political parties continues. Various elections 
 [Data](articles/e77cca02.json)
 
 [Extended Data](ext_articles/e77cca02.ext.json)
+
+---
+
+### New Head of Consumer, Private and Business Banking
+
+*2024-02-27 19:58:00* · [`islandlk`](http://island.lk/new-head-of-consumer-private-and-business-banking/) · `en`
+
+Standard Chartered has appointed Chamikara Wijesinghe as Head of Consumer, Private and Business Banking (CPBB) in Sri Lanka, effective February 5, 2024.
+
+Commenting on the new appointment, Bingumal Thewarathanthri, CEO of Standard Chartered Sri Lanka, stated, “We are pleased to announce the appointment of Chamikara Wijesinghe as the Head of Consumer Private and Business Banking for Sri Lanka. His extensive experience and expertise in consumer banking make him invaluable to our team. The appointment also reflects our commitment to recognise and promote internal talent, creating a culture of growth and career potential within the organisation. We are confident that, Chamikara’s proven track record in banking will strengthen this vital area of business.”
+
+...
+
+[Data](articles/4f3127b3.json)
+
+---
+
+### AICPA & CIMA CXO Forum spotlights the future of business, accounting, and finance
+
+*2024-02-27 19:56:00* · [`islandlk`](http://island.lk/aicpa-cima-cxo-forum-spotlights-the-future-of-business-accounting-and-finance/) · `en`
+
+AICPA & CIMA, together as the Association of International Certified Professional Accountants, is set to host a new edition of its CXO Forum under the theme “Accelerate & Lead”, at the Shangri-La in Colombo. This highly anticipated event will explore key trends impacting the future of business, accounting, and finance, such as ESG, Generative AI, skills, and talent management.
+
+Sarah Ghosh, FCMA, CGMA, CIMA President and Co-Chair of the Association of International Certified Professional Accountants.
+
+Sheikh Farouk Sheikh Mohamed, FCMA, CGMA, Managing Director of AEON BiG Malaysia
+
+Kairav Modi, FCMA, CGMA, Executive Vice President and CFO – Digital Industries, Siemens, India
+
+Isuru Gunasekera, Executive Vice President/Chief People Officer, and Head of Sustainability – ERM and Group Initiatives at John Keells Holdings PLC
+
+Davina Kern, Council Member, CIPM/ Head of Group Human Resources at David Pieris Group
+
+...
+
+[Data](articles/360b7e52.json)
+
+---
+
+### Strengthening Sri Lanka’s small and medium enterprises through supply chain excellence
+
+*2024-02-27 19:54:00* · [`islandlk`](http://island.lk/strengthening-sri-lankas-small-and-medium-enterprises-through-supply-chain-excellence/) · `en`
+
+In a significant stride towards fostering resilience and sustainability in the nation’s Small and Medium Enterprises (SMEs), the Strategic Management Committee of the Institute of Supply and Materials Management (ISMM), under the guidance of President ISMM Jayantha Gallehewa, recently orchestrated a highly successful meeting with Ms. Thilaka Jayasundara, the Secretary of the Ministry of Industries, and other key officials.
+
+...
+
+[Data](articles/ed97493f.json)
+
+---
+
+### Keeri Samba cultivation proving successful in Hambantota district
+
+*2024-02-27 19:52:00* · [`islandlk`](http://island.lk/keeri-samba-cultivation-proving-successful-in-hambantota-district/) · `en`
+
+Keeri Samba, cultivated for the first time in the Hambantota district’s Matigathwela area, has been very successful, said a senior official of the Agriculture and Plantation Industries Ministry.
+
+The official said that growing Keeri Samba paddy for the first time on 100 acres at Agunakolapalassa in the Matigathwala area had given a boost to similar initiatives countrywide.
+
+Keeri Samba cultivation was surveyed earlier this week by Agriculture and Plantation Industries Minister Mahinda Amaraweera.
+
+“At present, Samba and Nadu rice and paddy have exceeded the national requirement in our country, but there is a shortage of Keeri Samba rice. The reason is that farmers were not motivated to grow Keeri Samba rice in the 2022 season. Due to this, there was a huge shortage of Keeri Samba in the country, the minister said.
+
+The minister added: “Because of this, the government took steps to import some other rice variety as an alternative to Keeri Samba.
+
+...
+
+[Data](articles/77c62beb.json)
+
+---
+
+### CSE records six crossings despite investor worries stemming from polls promises
+
+*2024-02-27 19:49:00* · [`islandlk`](http://island.lk/cse-records-six-crossings-despite-investor-worries-stemming-from-polls-promises/) · `en`
+
+Polls promises made by certain political parties and the restructuring process of state owned enterprises not being carried out in keeping with IMF requirements, have created some worries among local and foreign stock market investors, market analysts said. However, CSE transactions yesterday were characterized by six crossings.
+
+...
+
+[Data](articles/04d7fc29.json)
 
 ---
 
@@ -1863,137 +1985,5 @@ One block of land is 2 roods and 30.89 perches, and the other is 4 acres, 2 rood
 [Data](articles/65c05075.json)
 
 [Extended Data](ext_articles/65c05075.ext.json)
-
----
-
-### A mother who is not conceived in the closet
-
-*2024-02-27 15:32:09* · [`adalk`](https://www.ada.lk/breaking_news/වැසිකිලියෙදී-ප්‍රසූත-කරනතෙක්-ගැබ්ගෙන-ඇති-බව-නොදත්-මවක්/11-408305) · `si`
-
-A married mother of the Muslim in the Welipenna police division has taken a baby in a house toilet by the residents of 1990, but the baby has been sent to the Nagoda Hospital.
-
-The woman's husband had died about three months ago and is a 44 year old mother of two. She has told the police that the baby has come toilet, but she had come toilet to the toilet, but she had a baby toilet and fell to the toilet because of the event that the baby was born as a 3rd child of this woman.
-
-She added that the child health workers were not taken to a clinic for childbirth, as he was pregnant.
-
-Police have informed the Welipenna Police regarding this infant death by the Nagoda Hospital Hospital. The police suspect that the baby was killed and the incident was taken to the scene of the incident and had a judicial medical examination regarding the incident.
-
-...
-
-[Data](articles/a3bc09cd.json)
-
-[Extended Data](ext_articles/a3bc09cd.ext.json)
-
----
-
-### Health capacities at BIA, Colombo Port to be improved under Japanese grant
-
-*2024-02-27 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97567/health-capacities-at-bia-colombo-port-to-be-improved-under-japanese-grant) · `en`
-
-The Cabinet of Ministers has given the go-ahead to a proposal seeking to upgrade the Bandaranaike International Airport (BIA) in Katunayake and the Colombo Port to be on par with the international practices, recommendations and standards under a grant provided by Japan.
-
-As Sri Lanka’s economy is mainly dependent on the income generated from international tourism and business travel, the government says this requires smooth operation of entry points into the country, building confidence among travellers and arranging cross-border entry points to comply with international health regulations on movement.
-
-Government of Japan has provided a grant of Yen 1.17 billion through the International Organization for Migration (IOM) to further strengthen border-related health preparedness at points of entry, direct contribution to the control of infectious diseases and the overall security of all passengers, staff and staff at points of entry during health emergencies.
-
-...
-
-[Data](articles/7bf6f23a.json)
-
-[Extended Data](ext_articles/7bf6f23a.ext.json)
-
----
-
-### Sri Lanka cabinet approves new tourism policy
-
-*2024-02-27 15:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-new-tourism-policy-152275/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved a proposal by President Ranil Wickremesinghe to implement a new tourism policy prepared by an expert committee, Minister Bandula Gunawardana said.
-
-The policy has taken into account problems in the sector, the potential avenues for growth and local and international trends, he said.
-
-“Tourism brings in the most foreign exchange and is our biggest invisible export,” Gunawardana said. “The number of visitors are rising.”
-
-An expert committee made up of tourism industry professionals was appointed by the Secretary to President to review the policy prepared by the National Planning Department. (Colombo/Feb27/2024)
-
-◼️
-
-[Data](articles/98bf7d3a.json)
-
-[Extended Data](ext_articles/98bf7d3a.ext.json)
-
----
-
-### Namibia’s Loftie-Eaton scores fastest T20I hundred off 33 ball
-
-*2024-02-27 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Namibias-Loftie-Eaton-scores-fastest-T20I-hundred-off-33-ball/108-277818) · `en`
-
-Feb. 27 (indiatoday) - Namibian cricketer Jan Nicol Loftie-Eaton has made cricket history by scoring the fastest century in T20 International (T20I) history, off just 33 balls, breaking the previous record set by Nepal's Kushal Malla.
-
-Namibia's Jan Nicol Loftie-Eaton scripted history by scoring the fastest century in T20 International (T20I) history during a bilateral match against Nepal. Achieving this monumental feat off just 33 balls, Loftie-Eaton shattered the previous record held by Nepal's Kushal Malla, who had set the benchmark at 34 balls against Mongolia during the Asian Games in 2023. This remarkable innings came during a match against Nepal, adding a layer of poetic justice as Malla himself was present on the field, witnessing his record being surpassed.
-
-...
-
-[Data](articles/3540b4de.json)
-
-[Extended Data](ext_articles/3540b4de.ext.json)
-
----
-
-### Namibia’s Jan Nicol Loftie-Eaton scores fastest T20I hundred off 33 ball
-
-*2024-02-27 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Namibias-Jan-Nicol-Loftie-Eaton-scores-fastest-T20I-hundred-off-33-ball/108-277818) · `en`
-
-Feb. 27 (indiatoday) - Namibian cricketer Jan Nicol Loftie-Eaton has made cricket history by scoring the fastest century in T20 International (T20I) history, off just 33 balls, breaking the previous record set by Nepal's Kushal Malla.
-
-Namibia's Jan Nicol Loftie-Eaton scripted history by scoring the fastest century in T20 International (T20I) history during a bilateral match against Nepal. Achieving this monumental feat off just 33 balls, Loftie-Eaton shattered the previous record held by Nepal's Kushal Malla, who had set the benchmark at 34 balls against Mongolia during the Asian Games in 2023. This remarkable innings came during a match against Nepal, adding a layer of poetic justice as Malla himself was present on the field, witnessing his record being surpassed.
-
-...
-
-[Data](articles/8f82b2af.json)
-
-[Extended Data](ext_articles/8f82b2af.ext.json)
-
----
-
-### Two persons killed in southern highway accident
-
-*2024-02-27 14:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்கு-அதிவேக-நெடுஞ்சாலை-விபத்தில்-இருவர்-பலி/175-333887) · `ta`
-
-Two people were killed in a vehicle accident in the Kurundugahadekma area of the Southern Highway.
-
-The 36 and 63 -year -olds from Imamuwa and Tikumbura have died in the accident.
-
-The accident occurred when a lorry carrying a drinking water from Colombo crashed into two workers who washed the road boards.
-
-The driver of the lorry has been arrested in connection with the accident and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/623fe04a.json)
-
-[Extended Data](ext_articles/623fe04a.ext.json)
-
----
-
-### Delhi man swallows 39 coins, 37 magnets for ’body-building’, removed by surgery
-
-*2024-02-27 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Delhi-man-swallows-39-coins-37-magnets-for-body-building-removed-by-surgery/108-277817) · `en`
-
-NEW DELHI: Doctors at Sir Gangaram Hospital have successfully removed 39 coins and 37 magnets from the intestine of a 26-year-old youth, a schizophrenia patient, who had swallowed them presuming zinc would help "build his body".
-
-The patient, who lives in Delhi, was discharged from the hospital two days ago after a week of post-surgery hospitalisation. He is doing well now, according to doctors.
-
-Senior consultant, laparoscopic, laser & general surgery, Dr Tarun Mittal, told TOI 39 coins of Rs 1, 2 and 5 denominations and 37 magnets of different shapes - heart, sphere, star, bullet and triangle - were removed during the surgery.
-
-When asked why had consumed them, the patient told the doctor he thought zinc, which is present in coins, helps in building the body. The magnet, he added, would ensure the coin stayed in the intestine and help absorb the zinc.
-
-"I would like to inform people that ingestion of these foreign bodies can be life-threatening and should not be done," said Dr Mittal.
-
-...
-
-[Data](articles/b2c4f829.json)
-
-[Extended Data](ext_articles/b2c4f829.ext.json)
 
 ---

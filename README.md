@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 15:02:32**
+As of **2024-02-28 15:17:32**
 
 ## Newspaper Stats
 
-*Scraped **9,792** Articles*
+*Scraped **9,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 503
 dailyftlk | 519
 islandlk | 521
 adalk | 829
-adaderanalk | 1,179
+adaderanalk | 1,180
 tamilmirrorlk | 1,191
 virakesarilk | 1,343
 adaderanasinhalalk | 1,481
@@ -26,11 +26,33 @@ dailymirrorlk | 1,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,785 (99.9%) of 9,792 articles have been extended.
+9,792 (100.0%) of 9,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Sri Lankan-origin teen takes own life after being ‘blackmailed’
+
+*2024-02-28 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97592/sri-lankan-origin-teen-takes-own-life-after-being-blackmailed) · `en`
+
+A teenager of Sri Lankan origin took his own life after he was blackmailed on Snapchat over nude photographs, a UK inquest has heard.
+
+Dinal De Alwis, 16, represented Whitgift School, Croydon, at rugby and football and hoped to study economics at Cambridge after achieving straight A*s in all his GCSE subjects.
+
+Dinal killed himself in October 2022 days after he returned from a family holiday in Majorca over the autumn half-term break. He left his home at 2 a.m. and was seen on CCTV falling to his death an hour later.
+
+South London Coroner’s Court heard that the teenager recorded a video outlining he planned to kill himself after he received two nude photographs of himself from a blackmailer on social media.
+
+The blackmailer demanded that Dinal pay £100 to stop sending the images to his followers.
+
+Dinal’s family say they believe a girl may have taken the images with Dinal before they ended up in the wrong hands.
+
+...
+
+[Data](articles/ff799c82.json)
+
+---
 
 ### Timelines, predictability key issues for next sovereign debt roundtable - Georgieva
 
@@ -47,6 +69,8 @@ Georgieva told Reuters she hoped to make progress on the issue when the roundtab
 ...
 
 [Data](articles/8c7d3f1d.json)
+
+[Extended Data](ext_articles/8c7d3f1d.ext.json)
 
 ---
 
@@ -65,6 +89,8 @@ Since 2018, South Korea has been the only Organisation for Economic Co-Operation
 ...
 
 [Data](articles/c0cc3ca6.json)
+
+[Extended Data](ext_articles/c0cc3ca6.ext.json)
 
 ---
 
@@ -142,6 +168,8 @@ Foreign Minister Sabry reiterated Sri Lanka’s rejection of the UNHRC Resolutio
 
 [Data](articles/9ab77ae9.json)
 
+[Extended Data](ext_articles/9ab77ae9.ext.json)
+
 ---
 
 ### Protect universities...
@@ -153,6 +181,8 @@ The University Trade Union Joint Committee (UTUJC) staged a protest in front of 
 ◼️
 
 [Data](articles/2dccc620.json)
+
+[Extended Data](ext_articles/2dccc620.ext.json)
 
 ---
 
@@ -171,6 +201,8 @@ Since 2018, South Korea has been the only Organisation for Economic Co-Operation
 ...
 
 [Data](articles/3daa6369.json)
+
+[Extended Data](ext_articles/3daa6369.ext.json)
 
 ---
 
@@ -371,6 +403,8 @@ Thus, the companies noted that the committee’s decision to reject their applic
 ...
 
 [Data](articles/265d8d51.json)
+
+[Extended Data](ext_articles/265d8d51.ext.json)
 
 ---
 
@@ -947,6 +981,8 @@ Michelle Obama received almost twenty percent of the vote among the candidates v
 ◼️
 
 [Data](articles/71681db0.json)
+
+[Extended Data](ext_articles/71681db0.ext.json)
 
 ---
 
@@ -2011,25 +2047,5 @@ Attributing the fall of the former USSR regime of Russia to the same theory, Ban
 [Data](articles/78c1284a.json)
 
 [Extended Data](ext_articles/78c1284a.ext.json)
-
----
-
-### ‘White Only’ Party and the Warped Mind of the Immigration Controller
-
-*2024-02-28 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/White-Only-Party-and-the-Warped-Mind-of-the-Immigration-Controller/172-277839) · `en`
-
-The order by the Controller of Immigration and Emigration revealed the ‘FROG IN THE WELL’ mindset of the bureaucrats who rule the roost. This singular stupidity however has economic and potential geopolitical consequences that Sri Lanka cannot afford! The government should rescind the order and mitigate the negative publicity.
-
-What would commonsensical authorities do when tourists are found to run businesses illegally?
-
-Raid illegal ventures. Set up a mechanism to bring them into the tax net. Require them to comply with local regulations. Reform restrictive local laws, considering that businesses operate illegally in the first place due to a labyrinth of red tape that fosters graft and corruption.
-
-No! The best that the warped minds of the Department of Immigration and Emigration could come up was to order the Russian and Ukrainian tourists who stay in the country on extended visas to leave within 14 days.
-
-...
-
-[Data](articles/56008943.json)
-
-[Extended Data](ext_articles/56008943.ext.json)
 
 ---

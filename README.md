@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 03:17:22**
+As of **2024-02-29 03:33:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,899 (99.9%) of 9,910 articles have been extended.
+9,910 (100.0%) of 9,910 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -189,6 +189,8 @@ Incidence reports appearing in newspapers, and complaints made at police station
 ...
 
 [Data](articles/39f081a6.json)
+
+[Extended Data](ext_articles/39f081a6.ext.json)
 
 ---
 
@@ -1260,6 +1262,8 @@ The global lender completed the first review of the 48-month Extended Fund Facil
 
 [Data](articles/670af985.json)
 
+[Extended Data](ext_articles/670af985.ext.json)
+
 ---
 
 ### Here is the cause of black smoke that covered the sky
@@ -1448,6 +1452,8 @@ ECONOMYNEXT – The responsibility of cultivating harmony rests significantly on
 
 [Data](articles/28a5e365.json)
 
+[Extended Data](ext_articles/28a5e365.ext.json)
+
 ---
 
 ### It is informed that he is vacancies
@@ -1530,6 +1536,8 @@ A bond maturing on 01.07.2032 closed at 12.50/90 percent down from 12.55/13.00 p
 
 [Data](articles/ccc6284f.json)
 
+[Extended Data](ext_articles/ccc6284f.ext.json)
+
 ---
 
 ### Drinking water is not available;People demonstrate in Lindula
@@ -1575,6 +1583,8 @@ Deposit in the central banks overnight window (private sector sterilization) has
 ...
 
 [Data](articles/8211897a.json)
+
+[Extended Data](ext_articles/8211897a.ext.json)
 
 ---
 
@@ -1760,6 +1770,8 @@ Kapruka Holdings Plc announced that it had purchased 197,015 ordinary voting sha
 
 [Data](articles/243b804c.json)
 
+[Extended Data](ext_articles/243b804c.ext.json)
+
 ---
 
 ### The prices of juices rise
@@ -1916,6 +1928,8 @@ Instructions have been forwarded to the provincial and regional education author
 
 [Data](articles/9c1d0ee6.json)
 
+[Extended Data](ext_articles/9c1d0ee6.ext.json)
+
 ---
 
 ### SLFP to support no-confidence motion against the Speaker
@@ -1951,6 +1965,8 @@ Sabry addressed the high-level segment of the 55th Session of the Council throug
 ...
 
 [Data](articles/2e53a09c.json)
+
+[Extended Data](ext_articles/2e53a09c.ext.json)
 
 ---
 

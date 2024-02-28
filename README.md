@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 04:32:52**
+As of **2024-02-29 04:51:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,914 (100.0%) of 9,917 articles have been extended.
+9,917 (100.0%) of 9,917 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1198,6 +1198,8 @@ To many a student of history the above quote is a truism. Keen observers of rece
 
 [Data](articles/039ef08e.json)
 
+[Extended Data](ext_articles/039ef08e.ext.json)
+
 ---
 
 ### Anura travels Canada in March
@@ -1225,6 +1227,8 @@ Consider the background of the Zionist apartheid state; one issue is the Right o
 ...
 
 [Data](articles/a4eec15a.json)
+
+[Extended Data](ext_articles/a4eec15a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 04:02:30**
+As of **2024-02-29 04:17:19**
 
 ## Newspaper Stats
 
-*Scraped **9,910** Articles*
+*Scraped **9,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 513
 islandlk | 521
-dailyftlk | 523
+dailyftlk | 527
 adalk | 841
 adaderanalk | 1,193
 tamilmirrorlk | 1,203
@@ -26,11 +26,81 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,910 (100.0%) of 9,910 articles have been extended.
+9,910 (100.0%) of 9,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Partial suspension of parate law an election ploy says SJB
+
+*2024-02-29 03:45:26* · [`dailyftlk`](https://www.ft.lk/news/Partial-suspension-of-parate-law-an-election-ploy-says-SJB/56-758995) · `en`
+
+Asks SL’s business community to not be deceived by Govt. tactics
+
+Says partial suspension of parate executions until Dec will offer little benefit to businesses
+
+Urges CBSL to ensure independent appraisals are carried out on properties to be auctioned by lenders
+
+Stresses that rights of borrowers must be protected and any action by banks must be just
+
+The Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday claimed the Government’s decision to partially suspend the operation of parate executions until December this year is nothing but an election ploy.
+
+Speaking at a press conference the MP asserted that the Government’s decision was solely motivated by the upcoming election year and emphasised that its suspension until December would offer little benefit to businesses.
+
+“We urge the business community not to be deceived by these tactics. It is nothing but a political manoeuvre,” he emphasised.
+
+...
+
+[Data](articles/7df8e856.json)
+
+---
+
+### UNFPA Sri Lanka inaugurates One Stop Centre in Kilinochchi
+
+*2024-02-29 03:42:45* · [`dailyftlk`](https://www.ft.lk/business/UNFPA-Sri-Lanka-inaugurates-One-Stop-Centre-in-Kilinochchi/34-758994) · `en`
+
+The United Nations Population Fund (UNFPA) Sri Lanka yesterday announced the opening ceremony of the One Stop Centre (OSC) at the District General Hospital in Kilinochchi.
+
+The One Stop Centre is a ground-breaking initiative introducing a new service delivery model in Sri Lanka, offering comprehensive Sexual and Reproductive Health (SRH) services, support for survivors of Gender-Based Violence (GBV), and Family Planning Services (FP) all under one roof. The OSC in Kilinochchi also provides essential psychosocial, medical, and legal support for survivors of GBV. This transformative approach is a result of the collaborative efforts between UNFPA Sri Lanka, the Ministry of Health, and World Vision Sri Lanka, with generous support from the Government of Norway.
+
+...
+
+[Data](articles/13c90e30.json)
+
+---
+
+### Kanchana confirms receiving full report on CPSTL forensic audit
+
+*2024-02-29 03:39:30* · [`dailyftlk`](https://www.ft.lk/news/Kanchana-confirms-receiving-full-report-on-CPSTL-forensic-audit/56-758993) · `en`
+
+Power and Energy Minister Kanchana Wijesekera announced yesterday the full report of the forensic audit conducted by KPMG on the sales and distribution of petroleum products from Ceylon Petroleum Storage Terminals Ltd. (CPSTL) was received.
+
+Taking to ‘X’ he confirmed receiving the complete report and three volumes on the forensic audit conducted by KPMG on the SAP enterprise resource planning (ERP) system audit over the sales and distribution process of CPSTL.
+
+On 15 February, the Minister revealed irregularities within the system on manipulation of SAP data, massive losses and outdated procedures and data management.
+
+The audit uncovered over 1.3 million entries on the SAP data system that had been altered or deleted since 2010, with a significant portion occurring in 2022 amidst the fuel crisis. However, following the lodging of the complaint in August 2022, the frequency of such alterations decreased substantially in 2023.
+
+...
+
+[Data](articles/2d4a3055.json)
+
+---
+
+### Open Uni. Faculty of Management Studies holds workshop on procurement planning
+
+*2024-02-29 03:38:33* · [`dailyftlk`](https://www.ft.lk/business/Open-Uni-Faculty-of-Management-Studies-holds-workshop-on-procurement-planning/34-758992) · `en`
+
+The Open University of Sri Lanka’s (OUSL) Faculty of Management Studies recently held a workshop on procurement planning.
+
+It was held to promote the newly launched postgraduate degree program, MSc in Public Procurement and Supply Chain Management. This program is for individuals seeking a postgraduate qualification in public procurement and supply chain management. A distinctive feature of this program is its status as the first postgraduate qualification offered in public procurement in Sri Lanka.
+
+...
+
+[Data](articles/fb0d0e0b.json)
+
+---
 
 ### AKD dispels misconceptions about NPP among upper echelons in SL
 
@@ -1949,83 +2019,5 @@ As such, a group of MPs belonging to the opposition in Parliament including M. A
 [Data](articles/bfa95d15.json)
 
 [Extended Data](ext_articles/bfa95d15.ext.json)
-
----
-
-### Sri Lanka focused on national unity: FM at UN Human Rights Council
-
-*2024-02-28 15:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-focused-on-national-unity-fm-at-un-human-rights-council-152427/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Foreign Affairs Ali Sabry has urged members of the UN Human Rights Council not to allow short-term political gains or “domestic vote bank politics” to overtake the work of the Council.
-
-Sabry addressed the high-level segment of the 55th Session of the Council through a pre-recorded video statement on  Tuesday.
-
-“In my address to HRC55 via a video message, I underlined Sri Lanka’s continuing focus and tangible steps taken in the interest of national unity and reconciliation, reaffirmed Sri Lanka’s commitment to engaging in constructive Human Rights processes while rejecting politicized and unilateral measures that infringe upon the sovereignty of Member States,” Sabry said on X (twitter).
-
-...
-
-[Data](articles/2e53a09c.json)
-
-[Extended Data](ext_articles/2e53a09c.ext.json)
-
----
-
-### Sri Lanka Freedom Party decides
-
-*2024-02-28 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193915) · `si`
-
-The Sri Lanka Freedom Party (SLFP) has decided to support the no-confidence motion to bring the opposition proposal against Speaker Mahinda Yapa Abeywardena.
-
-The opposition alleges the Speaker that the Supreme Court has not taken measures to pass the Social Media Regulatory Act without regarding the recommendations of the Supreme Court.
-
-Accordingly, the Sri Lanka Freedom Party (SLFP) has decided to vote for the no-confidence motion against the Speaker of the Sri Lanka Parliament.
-
-◼️
-
-[Data](articles/fc22ddd0.json)
-
-[Extended Data](ext_articles/fc22ddd0.ext.json)
-
----
-
-### The fireplace of the forest
-
-*2024-02-28 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177511) · `ta`
-
-In the Hatton and Kottalai area, the public has been destroyed by many acres of fire in the wilderness where the people are drinking water, and the public is concerned that there is a risk of drinking water shortage.
-
-A fire has been destroyed due to a fire that has been set up yesterday (27) to the Hatton Colombo main road, which is being drinking water to the Panmur estate, which belongs to the Hatton Police Division.
-
-Residents of the Hatton Mallikapu plantation can cause a shortage of drinking water for people living in the plantation.
-
-The public is said to be placed to hunt animals to deduct the land and occupy the land.
-
-◼️
-
-[Data](articles/5601c642.json)
-
-[Extended Data](ext_articles/5601c642.ext.json)
-
----
-
-### Dallas going to meet
-
-*2024-02-28 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193914) · `si`
-
-Freedom and the United Deonadership agree to create a coalition of the humanity to the country.
-
-The program was presented to the people's church step forward for the land.
-
-"The country is facing hard crisis. The purpose of the UPFA, the UPFA, is to build a coalition alliance to liberate the country. "
-
-Accordingly, the two parties have agreed to discuss the UPFA.
-
-Freedom presented its program to the People's Council
-
-◼️
-
-[Data](articles/aacd31c8.json)
-
-[Extended Data](ext_articles/aacd31c8.ext.json)
 
 ---

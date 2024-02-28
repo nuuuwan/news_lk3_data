@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 10:50:50**
+As of **2024-02-28 11:02:29**
 
 ## Newspaper Stats
 
-*Scraped **9,734** Articles*
+*Scraped **9,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 500
 dailyftlk | 519
 islandlk | 521
-adalk | 822
-adaderanalk | 1,170
+adalk | 824
+adaderanalk | 1,173
 tamilmirrorlk | 1,189
 virakesarilk | 1,330
 dailymirrorlk | 1,468
@@ -26,11 +26,33 @@ adaderanasinhalalk | 1,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,734 (100.0%) of 9,734 articles have been extended.
+9,739 (100.0%) of 9,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Santhan: Released convict in Rajiv Gandhi assassination case dies
+
+*2024-02-28 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97585/santhan-released-convict-in-rajiv-gandhi-assassination-case-dies) · `en`
+
+Santhan alias T Suthendiraraja, a Sri Lankan national who was one of the six convicts released in the Rajiv Gandhi assassination case, died on Wednesday morning at the Rajiv Gandhi Government Hospital (RGGH) in Chennai.
+
+Santhan, who was released by the Indian Supreme Court in November 2022, was kept at the special camp near the Tiruchirapalli Central Prison.
+
+Last week, the Foreigners Regional Registration Office (FRRO) in Chennai issued an order to deport Santhan to Sri Lanka, however, he was admitted to the RGGH for treatment for a kidney-related ailment.
+
+Addressing the reports, E Thenirajan, Dean, RGGH, said that based on the directions of the Tiruchirapalli district collector, Santhan was admitted to the hospital on January 27.
+
+Thenirajan said a team of doctors were treating him at the Intensive Care Unit (ICU) and constantly monitoring him. He said Santhan was diagnosed with cryptogenic cirrhosis or a liver disease.
+
+...
+
+[Data](articles/52dc3ad1.json)
+
+[Extended Data](ext_articles/52dc3ad1.ext.json)
+
+---
 
 ### Michelle challenge to Beidan from Obama
 
@@ -54,6 +76,22 @@ The 81-year-old Joe Biden replaces Michelle Obama's about 20 percent of the vote
 
 ---
 
+### President of Govt. Midwifery Services Association joins SJB
+
+*2024-02-28 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97584/president-of-govt-midwifery-services-association-joins-sjb) · `en`
+
+Devika Kodithuwakku, the president of Government Midwifery Services Association (GMSA) has joined the Samagi Jana Balawegaya (SJB).
+
+Opposition Leader Sajith Premadasa has offered Kodithuwakku the executive membership of the SJB’s Health Policy Development Committee, National Family Health Services Policy Development Committee and the Preventive Healthcare Policy Advisory Committee.
+
+◼️
+
+[Data](articles/a476648f.json)
+
+[Extended Data](ext_articles/a476648f.ext.json)
+
+---
+
 ### The Devil to go to the rich
 
 *2024-02-28 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193901) · `si`
@@ -65,6 +103,24 @@ Mrs. Devika Kodituwakku, Chairperson of the Government Family Health Services As
 [Data](articles/e4e96822.json)
 
 [Extended Data](ext_articles/e4e96822.ext.json)
+
+---
+
+### 2nd capacity building programme for Sri Lankan civil servants begins in India
+
+*2024-02-28 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97583/2nd-capacity-building-programme-for-sri-lankan-civil-servants-begins-in-india) · `en`
+
+Leading a significant drive to improve public governance and service delivery, India’s National Centre for Good Governance (NCGG) in Mussoorie has commenced the second phase of its capacity building program for senior civil servants from the Socialist Republic of Sri Lanka.
+
+Hosted from February 26 to March 08, this initiative attends to the enduring partnership between India and Sri Lanka in the realm of administrative reforms and governance enhancement.
+
+The programme is being attended by 40 elite civil servants from Sri Lanka, encompassing a wide array of positions such as Directors, Deputy Directors, Divisional Secretaries, and Assistant Divisional Secretaries, among others.
+
+...
+
+[Data](articles/d6129f07.json)
+
+[Extended Data](ext_articles/d6129f07.ext.json)
 
 ---
 
@@ -266,13 +322,11 @@ A person wanted in connection with the recent shooting incident in Mahabage and 
 
 He is suspected to be the motorcycle rider in the shooting which took place on Feb. 21 near a meat shop in Elapitiwala Junction, Mahabage that killed the shop owner.
 
-A special raid was launched in the early hours of the day after the STF received intelligence information revealing the suspect’s hideout at a hut located near Andigama Tank in Sooriyawewa.
+A special raid was launched in the early hours of the day after the STF received intelligence information revealing the suspect’s hideout near Andigama Tank in Sooriyawewa. As the STF officers approached, the 45-year-old had opened fire, forcing them to retaliate.
 
-As the STF officers approached, the 45-year-old had opened fire, forcing them to retaliate.
+In the shootout, one STF officer and the suspect were wounded but the latter succumbed to injuries shortly after being rushed to the Sooriyawewa Hospital.
 
-In the shootout, one STF officer and the suspect were injured and rushed to the Sooriyawewa Hospital, but the latter succumbed to injuries shortly after.
-
-He was identified as a resident of Kanumuldeniya area in Mee-Ella. The STF has seized a revolver and a motorcycle from the possession of the deceased.
+He was identified as a resident of the Kanumuldeniya area in Mee-Ella. The STF has seized a revolver and a motorcycle from the possession of the deceased.
 
 ...
 
@@ -1330,6 +1384,24 @@ Officers of the Commission have asked whether it is a legal driving license at t
 
 ---
 
+### In 2023, the entire energy production decreases
+
+*2024-02-27 20:25:18* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-සමස්ත-බලශක්ති-නිෂ්පාදනය-අඩුවෙයි/11-408317) · `si`
+
+The Ministry of Fiscal management issued by the Ministry of Financial Management has stated to the Audit that the total energy production of the Ministry of Finance has fallen by 4.5% to August 30, 2023.
+
+In the first eight months of 2022, the total power energy production in Sri Lanka is 10,832 megawots. In addition to the August 1 of 2023, the energy production was down 4.5% from January 1 to August 30. According to the report, the shortage of fuel and raw materials, as well as the retreat for industry sector activities, said.
+
+In the first eight months of the first eight months of the year of 2022, the number of units for the industry is 2957 megawarts. In addition to the first January of January 30, 2023, the number of units of electricity for the industrial sector was 4.5% to 2825 megawots.However, the heat fuel generates 52.7% and 13.09 months in electricity generation in electricity generation and 13.09 months in electricity generation.
+
+◼️
+
+[Data](articles/97ce33b5.json)
+
+[Extended Data](ext_articles/97ce33b5.ext.json)
+
+---
+
 ### Bread sales down 25 percent
 
 *2024-02-27 20:21:04* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-අලෙවිය-සියයට-25කින්-පහළට/11-408316) · `si`
@@ -1347,6 +1419,22 @@ Therefore, the government should take steps to deepen eggs and provide relief to
 [Data](articles/90502502.json)
 
 [Extended Data](ext_articles/90502502.ext.json)
+
+---
+
+### Shipping Corporation Rs.. 152 lakhs paid as various offers
+
+*2024-02-27 20:13:47* · [`adalk`](https://www.ada.lk/breaking_news/නැව්-සංස්ථාව-අනුමැතියකින්-තොරව-රු--ලක්ෂ-152ක්-විවිධ-දීමනා-ලෙස-ගෙවලා/11-408315) · `si`
+
+The Sri Lanka Shipping Corporation of Sri Lanka Without the formal approach, the service allowance to its employees from March 1 to December 31, 2022 to the employees, transportation, and incentive incentive allowance of Rs.The audit report issued by the Audit Office was issued on the 24th. The Shipping Corporation is a fully owned government owner and should be obtained with the approval of the relevant allowances and the audit report is recommended.
+
+The management of the Corporation has informed the Audit Office that the payment of the presentation of the present allowance will be made under the approval of the Board of Directors from 1st April 2018 to date.. The management of the Corporation has been approved by the Board of Directors held on 171, 2018 at the 211st of 2018 at the Institute of Staff No. 5-02 2018.. The audit report was released regarding the Sri Lanka Shipping Corporation 2023.
+
+◼️
+
+[Data](articles/2233ed79.json)
+
+[Extended Data](ext_articles/2233ed79.ext.json)
 
 ---
 
@@ -1931,103 +2019,5 @@ The Ministry of Agriculture stated that it has been decided to establish the sec
 [Data](articles/37ad153a.json)
 
 [Extended Data](ext_articles/37ad153a.ext.json)
-
----
-
-### Sri Lanka hosts international Hindu festival
-
-*2024-02-27 18:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-hosts-international-hindu-festival-152319/) · `en`
-
-ECONOMYNEXT – Sri Lanka will host the annual Bhagwat Gita Mahotsava from March 1-3 at the Nelum Pokuna Theater premises in Colombo.
-
-The Bhagwat Gita Mahotsava is held annually by the Kurukshetra Development Board of Haryana, India to pay homage to Sri Bhagwat Gita and the series of religious events related to the holy book of Hindus.
-
-In recent years, the festival has been held in foreign countries.
-
-The Ministry of Religious and Cultural Affairs has organized the International Gita Mahotsava Buddhasasana.
-
-◼️
-
-[Data](articles/92e1a741.json)
-
-[Extended Data](ext_articles/92e1a741.ext.json)
-
----
-
-### Seven flights delayed due to disorder
-
-*2024-02-27 18:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோளாறு-காரணமாக-ஏழு-விமானங்கள்-தாமதம்/175-333900) · `ta`
-
-Seven flights to India, the Middle East and Thailand from the Katunayake International Airport have been delayed due to a technical failure today, an airplane official said.
-
-Accordingly, the US -173 flight to Bangalore in India, the UL 402, and the UL 135 Sri Lankan flight from Chennai to Bangalore at 1.10 am, and the UL 135 Sri Lankan flight to Chennai at 1.15 am.
-
-◼️
-
-[Data](articles/cfc5593f.json)
-
-[Extended Data](ext_articles/cfc5593f.ext.json)
-
----
-
-### Illegal businesses in Trincomalee coast
-
-*2024-02-27 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177449) · `ta`
-
-The municipality has been brought to the notice of illegal business centers in the Trincomalee coast.
-
-On the basis of Poojabhumi on the land where the trees were planted on the coast of Trincomalee, a land was given through a state commitment.
-
-The fences were set up in the area in 2014 as the area was provided for the Vihara.
-
-The social organizations that observed it had been brought to the notice of the Trincomalee Municipal Council Secretary, where an individual had set up a station for snacks and soft drinks to be considered as a private location for the Vihara.
-
-Speaking to reporters subsequently, the President of the Trincomalee People's Union, Roshan Akmeemana, said that the municipal, coastal security department and the local development authorities have been deployed to the attention of the Municipal Council, Coastal Protection Department and the Local Development Authority.
-
-...
-
-[Data](articles/b1229784.json)
-
-[Extended Data](ext_articles/b1229784.ext.json)
-
----
-
-### Two Navy and Asoka College, Waters Edge
-
-*2024-02-27 17:59:03* · [`adalk`](https://www.ada.lk/breaking_news/වෝටර්ස්-එජ්-ඉඩම්-දෙකක්-නාවික-හමුදාවට-හා-අශෝක-විද්‍යාලයට/11-408307) · `si`
-
-The Cabinet approval has been given to the Sri Lanka Navy and the Sri Lanka Navy in the Waters Edge premises in Battaramulla and the Colombo Navy.
-
-Colombo Navy boat and training camps in the Waters Edge premises of Battaramulla as a 30.89 perch training camps in the premises of the Sri Lanka Navy.However, the Cabinet of Urban Development and Housing has been approved by the Minister of Urban Development and Housing to grant the Land Commissioner General.
-
-◼️
-
-[Data](articles/98ee109b.json)
-
-[Extended Data](ext_articles/98ee109b.ext.json)
-
----
-
-### Jayamin Pelpola appointed to Sri Lanka’s BOC board
-
-*2024-02-27 17:55:00* · [`economynextcom`](https://economynext.com/jayamin-pelpola-appointed-to-sri-lankas-boc-board-152312/) · `en`
-
-ECONOMYNEXT – Jayamin Pelpola, a fintech entrepreneur and investor, has been appointed to the board of Bank of Ceylon (BOC) as a non-executive director with immediate effect.
-
-Pelpola has over 15 years of international experience in investment banking, asset management and digital finance.
-
-As a senior consultant, Pelpola advised US banks and international Central Banks on banking sector reforms.
-
-In 2015 Pelpola entered the financial technology (FinTech) space. He developed a proprietary market pricing model to value non-traditional assets.
-
-He serves as a Director of Onterra Group and a Director of Jayaru TP. He was appointed as a board member of the Board of Investment (BOI) of Sri Lanka in 2020.
-
-Pelpola received his MBA from Harvard University (Cambridge, Massachusetts). He obtained his charters from the CFA Institute (USA) and CIMA (UK), and Postgraduate Diploma in Marketing from CIM (UK). He is a past pupil of Nalanda College and Gateway International School. (Colombo/Feb27/2024)
-
-◼️
-
-[Data](articles/d077ffb9.json)
-
-[Extended Data](ext_articles/d077ffb9.ext.json)
 
 ---

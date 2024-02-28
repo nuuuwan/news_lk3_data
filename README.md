@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 09:02:58**
+As of **2024-02-28 09:17:24**
 
 ## Newspaper Stats
 
-*Scraped **9,725** Articles*
+*Scraped **9,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ dailyftlk | 519
 islandlk | 521
 adalk | 821
 adaderanalk | 1,169
-tamilmirrorlk | 1,188
+tamilmirrorlk | 1,189
 virakesarilk | 1,330
 dailymirrorlk | 1,465
-adaderanasinhalalk | 1,469
+adaderanasinhalalk | 1,470
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,724 (100.0%) of 9,725 articles have been extended.
+9,725 (100.0%) of 9,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### උණුසුම් කාලගුණය ගැන අවවාදාත්මක නිවේදනයක්
+
+*2024-02-28 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193900) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (28) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+වයඹ, බස්නාහිර සහ දකුණු පළාත්වලත් රත්නපුර දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මෙහිදි ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවන ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුවේ  අනාවැකිකරණ අංශයේ නියෝජ්‍ය අධ්‍යක්‍ෂ මෙරිල් මෙන්ඩිස් මහතා පැවසුවේය.
+
+මේ අතර පවතින අධික හිරු රශ්මිය හේතුවෙන් හිසරදය, වමනය, ඇඟපත වේදනාව, නිදිමත ගතිය වැනි රෝගී ලක්ෂණ මතු වියහැකි බව ළමා රෝග විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+
+...
+
+[Data](articles/81da52d4.json)
+
+---
+
+### கிரிக்கெட் வீரர்களை சந்தித்தார் அமைச்சர் ஹரின்
+
+*2024-02-28 08:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரிக்கெட்-வீரர்களை-சந்தித்தார்-அமைச்சர்-ஹரின்/175-333924) · `ta`
+
+இலங்கை கிரிக்கெட் வீரர்கள் எதிர்கொள்ளும் பிரச்சினைகள் மற்றும் சவால்கள் குறித்து இலங்கை கிரிக்கெட் அணியின் வீரர்கள் பலர் இன்று விளையாட்டுத்துறை அமைச்சர் ஹரின் பெர்னாண்டோவை சந்தித்து கலந்துரையாடினர்.
+
+ஒருநாள் கிரிக்கெட் அணியின் தலைவர் குசல் மெண்டிஸ், இருபதுக்கு 20 அணித்தலைவர் வனிந்து ஹசரங்க, சிரேஷ்ட வீரர்கள் அஞ்சலோ மத்தியூஸ், திமுத் கருணாரத்ன, கிரிக்கட் ஆலோசகர் சனத் ஜயசூரிய, மற்றும் பிரதம தேர்வாளர் உபுல் தரங்க ஆகியோர் அமைச்சில் இடம்பெற்ற சந்திப்பில் கலந்துகொண்டனர்.
+
+கிரிக்கெட் வீரர்கள் எதிர்கொள்ளும் பயிற்சி கட்டமைப்புகள், புதுமையான பயிற்சி உத்திகள், மன கவனம், திறமை மேம்பாடு மற்றும் வரவிருக்கும் போட்டிகளில் வெற்றிகளைப் பெறுவதற்கான உத்திகள் போன்ற பல பிரச்சினைகள் கலந்துரையாடப்பட்டதாக கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/e305f17f.json)
+
+---
 
 ### “Strict blow to the bakery business”
 
@@ -1094,19 +1128,21 @@ At the same time, the judge announced that he would be given 15 thousand money a
 
 ---
 
-### වසර 84ට පසුව ලංකාවෙන් හමුවූ ගංඟල්ගුල්ලා
+### Floods found in Sri Lanka after 84 years
 
 *2024-02-27 20:31:33* · [`adalk`](https://www.ada.lk/picture_story/වසර-84ට-පසුව-ලංකාවෙන්-හමුවූ-ගංඟල්ගුල්ලා/10-408318) · `si`
 
-Gymnothorax polyuranodon යන විද්‍යාත්මක නාමයෙන් හැඳින්වෙන 'ගංගල්ගුල්ලා' (Freshwater Moray) මත්ස්‍ය විශේෂය වසර 84කට පසු මෙරටින් වාර්තා වී තිබේ.
+The fish species, known as the scientific name of gymnothorax polyuranoodon, is reported in Sri Lanka after 84 years.
 
-ඒ අනුව මෙම මත්ස්‍ය විශේෂයේ නිදර්ශකයක්  ගිං ගඟෙහි වක්වැල්ල ප්‍රදේශයෙන් වාර්තා කිරීමට හිරණ්‍ය සුදසිංහ(බර්න් විශ්වවිද්‍යාලය), තරිඳු රණසිංහ (Wild Island Foundation) සහ ස්විට්සර්ලන්ත ජාතික ලූකාස් රූබර්(බර්න් ස්වභාව විද්‍යා කෞතුකාගාරය) යන පර්යේෂණ කණ්ඩායමට හැකියාව ලැබී ඇත. එසේම ඊට අදාළ පර්යේෂණ පත්‍රිකාව පසුගිය 23 වැනිදා  %Zootaxa^ යන අන්තර්ජාතික විද්‍යාත්මත සඟරාව මගින් ප්‍රකාශයට පත්කර තිබිණි.
+Accordingly, Hiranya Sudasinghe (Burn Island Foundation) and Swiss National Lukus Rubber (Wakleland) and Switzerland National Lakus 'Museum (Burn)' have been able to research the research team. The research paper was also announced by the International Sideology Magazine on the 23rd of the 23rd.
 
-පී.ඊ.පී. දැරණියගල මහතා විසින් වර්ෂ 1937 දී රත්නපුර කහන්ගමින් හා දොඩන්ගොඩින් මෙම විශේෂය පළමුව ශ්‍රී ලංකාවෙන් වාර්තාකරන තිබූ නමුත් අනතුරුව මෙම විශේෂය නැවත මෙරටින් වාර්තා නොවීය. ඒ අනුව 2021 වර්ෂයේදී වක්වැල්ල ප්‍රදේශයෙන් ධීවරයෙකුට මෙම විශේෂය හමුව තිබූ අතර ගල්ගුල්ලෙකු හඳුනාගැනීම සඳහා ඉහත පර්යේෂණ කණ්ඩායමට යොමු කර තිබිණ. එහිදී  මෙම නිදර්ශකයේ ජාන විද්‍යාත්මක ලක්ෂණ විමර්ශනය කිරීමෙන් අනතුරුව එය Gymnothorax polyuranodon යන විශේෂයට අයත් බවට තහවුරු කර තිබේ.
+PEP. Mr. Deraniyagala was first reported from Ratnapura and Dodangangin, in Ratnapura and the Dodangoda. This species was returned from Sri Lanka. Accordingly, a fisherman was found in Wakwella in 2021 and the research team had been referred to the above research.. After investigating the genetics of this example, it has been confirmed to be included in Gymnothorax Polyuranondon.
 
 ...
 
 [Data](articles/85d9c68b.json)
+
+[Extended Data](ext_articles/85d9c68b.ext.json)
 
 ---
 
@@ -1979,37 +2015,5 @@ Below is the advisable announcement and the points to be followed.
 [Data](articles/278c386b.json)
 
 [Extended Data](ext_articles/278c386b.ext.json)
-
----
-
-### Tear gas fired at protest near Peradeniya University
-
-*2024-02-27 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97571/tear-gas-fired-at-protest-near-peradeniya-university) · `en`
-
-Police have used tear gas and water cannons to disperse a group of protesting students near the Peradeniya University.
-
-◼️
-
-[Data](articles/5a35a737.json)
-
-[Extended Data](ext_articles/5a35a737.ext.json)
-
----
-
-### Tear gas fired at protest near J’pura University
-
-*2024-02-27 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97571/tear-gas-fired-at-protest-near-jpura-university) · `en`
-
-Police have used tear gas and water cannons to disperse a group of protesting students near the University of Sri Jayewardenepura.
-
-The protest march was organized by the students’ union of the Faculty of Humanities and Social Sciences of the Sri Jayewardenepura University.
-
-The agitation was reportedly launched demanding solutions to several concerns including issues related to hostels, cafeterias and delays in ‘Mahapola’ scholarship payments.
-
-◼️
-
-[Data](articles/a8a6b924.json)
-
-[Extended Data](ext_articles/a8a6b924.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 19:02:49**
+As of **2024-02-28 19:17:27**
 
 ## Newspaper Stats
 
-*Scraped **9,834** Articles*
+*Scraped **9,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 834
 adaderanalk | 1,186
 tamilmirrorlk | 1,197
 virakesarilk | 1,353
-dailymirrorlk | 1,485
+dailymirrorlk | 1,486
 adaderanasinhalalk | 1,491
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,830 (100.0%) of 9,834 articles have been extended.
+9,830 (99.9%) of 9,835 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,6 +79,24 @@ Addressing the ‘Religions to Reconcile’ National Inter Religious Symposium, 
 [Data](articles/d32c3c8f.json)
 
 [Extended Data](ext_articles/d32c3c8f.ext.json)
+
+---
+
+### Jeffrey Vandersay, Avishka Fernando called up for Bangladesh T20Is
+
+*2024-02-28 17:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jeffrey-Vandersay-Avishka-Fernando-called-up-for-Bangladesh-T20Is/108-277897) · `en`
+
+Sri Lanka have retained largely the same T20 squad, that beat Afghanistan in their three-match T20I series, for next month’s tour of Bangladesh, with Jfferey Vandersay and Avishka Fernando the only additions.
+
+Fernando has been drafted in in place of Pathum Nissanka, who is still recovering from injury, while Vandersay has been added to the squad, as cover for Wanindu Hasaranga, who will miss the first two T20Is due to suspension.
+
+In Hasaranga’s absence, Vice Captain Charith Asalanka will lead the team for the opening two T20Is.
+
+The Squad: Wanindu Hasaranga - Captain, Charith Asalanka -Vice Captain, Kusal Mendis, Sadeera Samarawickrama, Angelo Mathews, Dasun Shanaka, Maheesh Theekshana, Dhananjaya de Silva, Kusal Janith Perera, Dilshan Madushanka, Nuwan Thushara, Matheesha Pathirana, Akila Dananjaya, Binura Fernando, Kamindu Mendis, Avishka Fernando, Jeffrey Vandersay
+
+◼️
+
+[Data](articles/3dc2f85a.json)
 
 ---
 
@@ -2017,29 +2035,5 @@ It is said that the training structures faced by cricketers, innovative training
 [Data](articles/e305f17f.json)
 
 [Extended Data](ext_articles/e305f17f.ext.json)
-
----
-
-### Ex-soldier wanted over shooting killed in clash with STF
-
-*2024-02-28 08:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ex-soldier-wanted-over-shooting-killed-in-clash-with-STF/108-277858) · `en`
-
-Colombo, Feb 28 (Daily Mirror) - An ex-army soldier, who was wanted for the killing of a meat shop owner in Mahabage and several other crimes, died in a confrontation with the Police Special Task Force in the Suriyawewa area.
-
-Police said a raid was conducted early this morning based on intelligence that a murder suspect was hiding in the area.
-
-When the STF officers attempted to arrest him, the suspect fired at the officers with a firearm, and the suspect was injured in the retaliatory attack.
-
-The suspect succumbed to injuries while being admitted to the Suriyawewa Hospital.
-
-A Special Task Force officer was also injured in the exchange of fire.
-
-This suspect has also been accused of shooting a person in Wellampitiya, Kittampahuwa area on August 8 and attempting to kill Dulaj, the brother-in-law of an organized criminal Vidura near the Seenigama temple in Meetiyagoda, on June 17, under the direction of an organized criminal named Kosgoda Sujee.
-
-...
-
-[Data](articles/9843a772.json)
-
-[Extended Data](ext_articles/9843a772.ext.json)
 
 ---

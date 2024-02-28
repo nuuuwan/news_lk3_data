@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 02:48:33**
+As of **2024-02-29 03:02:37**
 
 ## Newspaper Stats
 
-*Scraped **9,896** Articles*
+*Scraped **9,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 96
 bbccomsinhala | 120
 dbsjeyarajcom | 166
 newsfirstlk | 363
-economynextcom | 503
-dailyftlk | 520
+economynextcom | 513
 islandlk | 521
+dailyftlk | 523
 adalk | 841
 adaderanalk | 1,193
 tamilmirrorlk | 1,203
-virakesarilk | 1,372
+virakesarilk | 1,373
 dailymirrorlk | 1,499
 adaderanasinhalalk | 1,499
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,894 (100.0%) of 9,896 articles have been extended.
+9,896 (99.9%) of 9,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### AKD dispels misconceptions about NPP among upper echelons in SL
+
+*2024-02-29 02:29:12* · [`dailyftlk`](https://www.ft.lk/news/AKD-dispels-misconceptions-about-NPP-among-upper-echelons-in-SL/56-758973) · `en`
+
+Says NPP has found it challenging to reach elite circles which as a result lack understanding of NPP policies and ideologies
+
+Stresses party isn’t against those who are rich but instead against those who misuse public funds or make undue gains
+
+Assures an NPP Govt. will not hamper private businesses or intend to monopolise all businesses as claimed by opponents
+
+Claims it will however dismantle market monopolies by attracting more competitors in sectors such as rice and tiles
+
+Says NPP opposed to privatisation of enterprises such as Sri Lanka Telecom, MILCO though admits some sectors should be divested from Govt. involvement in business
+
+Notes party advocates for a tax policy conducive to economic growth and is opposed to current tax regime which has constricted SL’s economy
+
+Opposes PAYE tax, citing negative impact on consumer spending and economic activity
+
+...
+
+[Data](articles/e95a1efb.json)
+
+---
+
+### உலக பொருளாதாரத்தின் மையப்பகுதியில் மீண்டும் இந்துமா சமுத்திரம் - சிவசங்கர் மேனன்
+
+*2024-02-29 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177563) · `ta`
+
+உலக பொருளாதாரத்தின் மையப்பகுதியில் மீண்டும் இந்து - பசிபிக் பிராந்தியம் நிலைக்கொள்கின்றது. மூடப்பட்ட ஒரு புவியியலை இன்று உலகில் காண இயலாது. புவிசார் அரசியலின் மேலடுக்கு உண்மையான தீர்வுகளை நோக்கிய பயணத்தில் ஆதிக்கத்தை செலுத்துகின்றது என இந்தியாவின் முன்னாள் தேசிய பாதுகாப்பு ஆலோசகரும் மூத்த இராஜதந்திரியுமான சிவசங்கர் மேனன் தெரிவித்தார்.
+
+கொழும்பில்; புதன்கிழமை (28) இடம்பெற்ற இந்துமா சமுத்திர மாநாட்டில் கலந்துக்கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு கூறினார். அவர் அங்கு தொடர்ந்தும் கூறுகையில்,
+
+இந்து - பசிபிக் பெருங்கடல் பிராந்தியத்தின் பாதுகாப்பு தொடர்பாக கடந்த பல வருடங்களாக கலந்துரையாடி வருகின்றோம். இவ்வகையான கலந்துரையாடல்களை முன்னெடுப்பது தொடர்பில் பாத்பைண்டர் மன்றத்திற்கு நன்றி கூறுகின்றேன்.  அவற்றை கருத்தில் கொள்ளும் பொது இன்று நான் முக்கியமான தருணத்தில் உள்ளளோம் என்பதை உணர முடிகிறது. ஜனாதிபதி ரணில் விக்கிரமசிங்க வரலாற்றை நினைவுக்கூர்ந்து இன்று நாம் எங்கு உள்ளோம் என்பதை கூறினார்.
+
+...
+
+[Data](articles/c331c295.json)
+
+---
 
 ### Those who wish to contribute to the Gaza Children's Fund
 
@@ -49,6 +89,22 @@ The fund is set up to provide financial assistance to Gaza children during the u
 [Data](articles/fb3f85ea.json)
 
 [Extended Data](ext_articles/fb3f85ea.ext.json)
+
+---
+
+### Why are we poor?
+
+*2024-02-29 01:55:51* · [`dailyftlk`](https://www.ft.lk/columns/Why-are-we-poor/4-758968) · `en`
+
+To understand the causes of poverty today we must understand what changed between 2020 and 2023
+
+People who have already suffered terribly because of currency debasement now face another blow when the Government appropriates even more of their income and raises the prices of goods through sales based taxes. The Government is fixing the problems in its own finances but doing so by passing the buck on to the people
+
+Economists tell us that Sri Lanka’s economy has stabilised but what does this mean if so many are struggling?
+
+...
+
+[Data](articles/2b924977.json)
 
 ---
 
@@ -114,6 +170,22 @@ People who come to seek the services accuse some people of the office that some 
 
 ---
 
+### CEDAW and the rights of working women in Sri Lanka
+
+*2024-02-29 01:39:56* · [`dailyftlk`](https://www.ft.lk/columns/CEDAW-and-the-rights-of-working-women-in-Sri-Lanka/4-758967) · `en`
+
+Violence and harassment against working women transcends borders, salary brackets and levels of job security
+
+Incidence reports appearing in newspapers, and complaints made at police stations are just the tip of the iceberg and the magnitude of the problem is much greater and most of the time hidden and unspoken of. Discrimination occurs when a woman reasonably believes that expressing her objection would negatively impact her employment, including aspects like recruitment or promotion. This recognition underscores the importance of fostering an environment where women can voice their concerns without fear of repercussions
+
+“No country can ever truly flourish if it stifles the potential of its women and deprives itself of the contributions of half of its citizens”
+
+...
+
+[Data](articles/39f081a6.json)
+
+---
+
 ### We are facing two main challenges - Anuragumara
 
 *2024-02-29 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177558) · `ta`
@@ -136,37 +208,47 @@ The 2010 war success was built against others and the 2019 Muslim people. Howeve
 
 ---
 
-### வடக்கு மீனவர்களின் தொழில் நடவடிக்கைகளுக்கு தடை: குற்றச்சாட்டை மறுக்கும் கடற்படை
+### Northern fishermen prohibit industrial activities: Navy denying the allegation
 
 *2024-02-29 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177557) · `ta`
 
-வடக்கு கடலில் தமிழ் கடற்றொழிலாளர்களின் மீன்பிடி நடவடிக்கைககளுக்கு கடற்படையினரால் தடை விதிக்கப்பட்டுகின்றமைக்கு தமிழ் மக்கள் பிரதிநிதிகள் கடும் கண்டனம் வெளியிட்டுள்ளனர்.
+Tamil people's representatives have strongly condemned the Navy's ban on fishing activities of Tamil fishermen in the North Sea.
 
-இந்திய மீனவர்களின் அத்துமீறலை கட்டுப்படுத்த ஆக்கப்பூர்வமான நடவடிக்கைகளை எடுப்பதில்லை என, வடபகுதி மீனவர்கள், கடற்படையினர் மீது தொடர்ச்சியாக குற்றஞ்சாட்டுகின்ற நிலையில், உள்ளூர் தமிழ் மீனவர்களின் தொழிலுக்கு இடையூறு விளைவிப்பதாக கடற்படை மீது குற்றச்சாட்டு எழுந்துள்ளது.
+The Navy has been accused of disrupting the employment of local Tamil fishermen as fishermen in the North are continuously accused of not taking creative measures to curb Indian fishermen.
 
-யாழ்ப்பாணம் - மாதகல் சம்பில்துறை (ஜம்புகோள பட்டினம்) விகாரைக்கு அருகில் உள்ள கடற்பரப்பில் மீன்பிடி நடவடிக்கையில் ஈடுபட வேண்டாம் என கடற்படையினர் தடை விதித்துள்ளதாக அப்பகுதி கடற்தொழிலாளர்கள் தெரிவிப்பதாக யாழ்ப்பாண மாவட்ட ஊடகவியலாளர்கள் தெரிவிக்கின்றனர்.
+Jaffna district journalists say that the navy has banned the Navy from engaging in fishing in the waters near the Vihara.
 
-மீனவர்களின் தொழில் நடவடிக்கைகளுக்கு தடைகளை ஏற்படுத்த கடற்படைக்கு எவ்வித அதிகாரமும் இல்லை என, தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள்  நாடாளுமன்ற உறுப்பினரான ஈஸ்வரபாதம் சரவணபவன் தெரிவிக்கின்றார்.
+The Navy has no authority to prevent the fishermen's industrial activities, says Eswarapadam Saravanapavan, a former MP of the Tamil National Alliance (TNA).
+
+“What authority is there?Do you have to worship in the idols by distorting our livelihood?Our people will always be looking at your power arrogance.Former Jaffna district MP has warned the Navy.
 
 ...
 
 [Data](articles/117d7334.json)
 
+[Extended Data](ext_articles/117d7334.ext.json)
+
 ---
 
-### எமது கூட்டணியில் சஜித்தும் இணையலாம் - ஐ.தே.க. செயலாளர் பாலித்த ரங்கே பண்டார நம்பிக்கை
+### Sajith can join our alliance - UNP. Secretary Palitha Range Bandara
 
 *2024-02-29 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177556) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிட அமைக்க இருக்கும் பரந்துபட்ட கூட்டணியில் ஐக்கிய மக்கள் சக்தி உறுப்பினர்கள் பலரும் எம்முடன் இணைந்துகொள்ள இருக்கின்றனர். அதன் பிரகாரம் காப்போக்கில் சஜித் பிரேமதாசவும் இணைந்துகொள்ள இடமிருக்கிறது என ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்தார்.
+Many United People's Power Members are to join us in the wider coalition that is set to contest the presidential election. According to the United National Party General Secretary Palitha Range Bandara, Sajith Premadasa is also in the process of joining the Kapok.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் புதன்கிழமை (29) இடம்பெற்ற செய்தியாளர் சந்திப்பில்  கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Wednesday (29).
 
-ஜனாதிபதி தேர்தலை இலக்குவைத்து மேற்கொள்ள இருக்கும் ஆரம்ப கூட்டம் எதிர்வரும் 10ஆம் திகதி குருணாகலையில் நடத்த இருக்கிறோம். இதில் அரசியல் கட்சிகளை சேர்ந்த பலர் எம்முடன் கைகோர்க்க இருக்கி்ன்றனர். அதனைத்தொடர்ந்து நாங்கள் ஜனாதிபதி தேர்தல் பிரசாரங்களை மேலும் தீவிரப்படுத்த திட்டமிட்டிருக்கிறோம்.
+The initial meeting to be held at the Kurunegala on the 10th of this month. Many of the political parties joined hands with us. We then plan to intensify the presidential election campaigns.
+
+At the same time, the upcoming presidential election is currently underway. Over 80 systems have discussed with us. All of them have agreed to support Ranil Wickremesinghe in the upcoming presidential election.
+
+Moreover. Discussions are currently underway. We expect to discuss with all political parties. Many United People's Power Members will join our alliance. We expect Sajith Premadasa to join us in the future.
 
 ...
 
 [Data](articles/41e685e4.json)
+
+[Extended Data](ext_articles/41e685e4.ext.json)
 
 ---
 
@@ -1154,6 +1236,26 @@ The Minister said that the Galle, Matale, Nuwara Eliya, Ratnapura, Matara, Kalut
 
 ---
 
+### Sri Lanka confident of “smoother” IMF second review: State Minister
+
+*2024-02-28 18:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-confident-of-smoother-imf-second-review-state-minister-152473/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s second review for the International Monetary Fund (IMF) loan would be smoother than the first as the government has implemented many reforms required for the economic recovery, State Finance Minister Shehan Semasinghe said.
+
+An IMF mission will visit Sri Lanka on March 7 and will engage in the review of second tranche of the $3 billion IMF loan for two weeks, he said.
+
+“The second review will commence on the 7th of March, and we are very confident that will be a smoother review than the first review,” Semasinghe told reporters at a media briefing in Colombo on Wednesday (28).
+
+He said the the first review was difficult because of hard policy decisions taken by the government in the initial stages.
+
+The global lender completed the first review of the 48-month Extended Fund Facility (EFF) on December 12 before disbursing $337 million to support the island nation’s economic policies and reforms.
+
+...
+
+[Data](articles/670af985.json)
+
+---
+
 ### Here is the cause of black smoke that covered the sky
 
 *2024-02-28 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193926) · `si`
@@ -1326,6 +1428,22 @@ Sri Lanka's commitment to preserving and reviving Sri Lanka's marshland environm
 
 ---
 
+### Sri Lanka’s religious leaders need to cultivate harmony: Prez
+
+*2024-02-28 17:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-religious-leaders-need-to-cultivate-harmony-prez-152463/) · `en`
+
+ECONOMYNEXT – The responsibility of cultivating harmony rests significantly on the shoulders of religious leaders, Sri Lanka’s President Ranil Wickremesinghe has said.
+
+“While politicians often pursue power, religious leaders strive to maintain their positions, frequently resorting to the perilous avenues of racism and bigotry. This unfortunate trend has plagued our country since the 1930s, yielding disastrous outcomes,” Wickremesinghe was quoted by his media division as saying at the ‘Religions to Reconcile’ national inter-religious symposium, organized by the National Peace Council of Sri Lanka, held today (28) at the Bandaranaike International Conference Hall (BMICH).
+
+“Our nation has endured the bitter consequences of racism and religious extremism, culminating in a devastating conflict.
+
+...
+
+[Data](articles/28a5e365.json)
+
+---
+
 ### It is informed that he is vacancies
 
 *2024-02-28 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193923) · `si`
@@ -1382,6 +1500,32 @@ The Opposition is planning to bring in a no-confidence motion against the Speake
 
 ---
 
+### Sri Lanka rupee closes at 310.00/15 to the US dollar
+
+*2024-02-28 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-310-00-15-to-the-us-dollar-152443/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 310.00/15 to the US dollar Wednesday, from 310.25/50 on Tuesday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.60/80 percent from 10.60/75 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.00 percent up from 11.80/95 percent.
+
+A bond maturing on 15.03.2028 closed stable at 12.00/15 percent.
+
+A bond maturing on 15.07.2029 closed at 12.20/50 percent from 12.25/50 percent.
+
+A bond maturing on 15.05.2030 closed stable at 12.25/40 percent.
+
+A bond maturing on 15.05.2031 closed at 12.55/75 percent down from 12.60/80 percent.
+
+A bond maturing on 01.07.2032 closed at 12.50/90 percent down from 12.55/13.00 percent. (Colombo/Feb28/2024)
+
+◼️
+
+[Data](articles/ccc6284f.json)
+
+---
+
 ### Drinking water is not available;People demonstrate in Lindula
 
 *2024-02-28 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177514) · `ta`
@@ -1401,6 +1545,30 @@ The relevant authorities should come forward to provide clean drinking water to 
 [Data](articles/bd83bba5.json)
 
 [Extended Data](ext_articles/bd83bba5.ext.json)
+
+---
+
+### Sri Lanka Treasuries yields edge up after steep fall
+
+*2024-02-28 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-edge-up-after-steep-fall-152447/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields edged up across maturities at Wednesday’s auction with the 3-month yield up 09 basis points to 9.87 percent, data from state debt office showed.
+
+The debt office sold 27.5 billion rupees of 3-month bills after offering 35 billion rupees.
+
+The 6-month yield rose 09 basis points to 9.95 percent with 37.23 billion rupees of bills sold, after offering 47.5 billion rupees.
+
+The 12-month yield went up 03 bis points to 10.05 percent, with 39.5 billion rupees of bills sold and 40 billion rupees offered.
+
+Sri Lanka’s Treasuries yield have come down sharply in recent weeks.
+
+The trend was partly helped by some banks which were earlier not buying into bills, starting to buy them.
+
+Deposit in the central banks overnight window (private sector sterilization) has come down from around 200 billion to around 130 billion rupees in recent weeks.
+
+...
+
+[Data](articles/8211897a.json)
 
 ---
 
@@ -1568,6 +1736,26 @@ The State Minister stated that he was confident that the International Monetary 
 
 ---
 
+### Sri Lanka stocks close up, retail activity coming in
+
+*2024-02-28 16:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-retail-activity-coming-in-152437/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 55.29 points, or 0.52 percent at 10,678; while the S&P SL20 Index closed up at 3,056 points, up 0.06 percent, or 1.73 points.
+
+Market participants said that “retail activity is also picking up.”
+
+Hemas Holdings Plc saw large volumes being traded, contributing 90 million to the day’s turnover. The share closed up at 75.00.
+
+Kapruka Holdings Plc announced that it had purchased 197,015 ordinary voting shares of its subsidiary Kapruka e-Commerce (Pvt) Ltd for 13.2 million rupees at 67 a share. The proceeds will be used by Kapruka e-Commerce “to fulfill the IPO objective of launching Kapruka Partner Central, the company said. The share closed down at 6.80.
+
+...
+
+[Data](articles/243b804c.json)
+
+---
+
 ### The prices of juices rise
 
 *2024-02-28 16:17:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளநீரின்-விலை-எகிறுகிறது/175-333954) · `ta`
@@ -1706,6 +1894,24 @@ DIG, Attorney-at-Law Nihal Thaluduwa, said that he had commented on the matter.
 
 ---
 
+### Sri Lanka Education Ministry asks schools to keep children out of sun
+
+*2024-02-28 15:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-education-ministry-asks-schools-to-keep-children-out-of-sun-152430/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Education Ministry has warned school officials against exposing children to the sun as the Natural Hazards Early Warning Centre issued a heat index advisory.
+
+“As extreme hot weather may rise further today, tomorrow and the next day (Feb 28, 29 and March 1), avoid keeping school students outdoors in high temperatures,” the ministry said in a statement.
+
+With temperatures expected to increase in the next few days, “students in any school in the island will not participate in outdoor sports training activities or sports events”. The Ministry of Education has advised all schools to refrain from engaging in any other external activity.
+
+Instructions have been forwarded to the provincial and regional education authorities to inform principals, and “to proceed according to the series of instructions issued by the Ministry of Health”.
+
+...
+
+[Data](articles/9c1d0ee6.json)
+
+---
+
 ### SLFP to support no-confidence motion against the Speaker
 
 *2024-02-28 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97594/slfp-to-support-no-confidence-motion-against-the-speaker-) · `en`
@@ -1723,6 +1929,22 @@ As such, a group of MPs belonging to the opposition in Parliament including M. A
 [Data](articles/bfa95d15.json)
 
 [Extended Data](ext_articles/bfa95d15.ext.json)
+
+---
+
+### Sri Lanka focused on national unity: FM at UN Human Rights Council
+
+*2024-02-28 15:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-focused-on-national-unity-fm-at-un-human-rights-council-152427/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Foreign Affairs Ali Sabry has urged members of the UN Human Rights Council not to allow short-term political gains or “domestic vote bank politics” to overtake the work of the Council.
+
+Sabry addressed the high-level segment of the 55th Session of the Council through a pre-recorded video statement on  Tuesday.
+
+“In my address to HRC55 via a video message, I underlined Sri Lanka’s continuing focus and tangible steps taken in the interest of national unity and reconciliation, reaffirmed Sri Lanka’s commitment to engaging in constructive Human Rights processes while rejecting politicized and unilateral measures that infringe upon the sovereignty of Member States,” Sabry said on X (twitter).
+
+...
+
+[Data](articles/2e53a09c.json)
 
 ---
 
@@ -1783,247 +2005,5 @@ Freedom presented its program to the People's Council
 [Data](articles/aacd31c8.json)
 
 [Extended Data](ext_articles/aacd31c8.ext.json)
-
----
-
-### Sri Lankan navy ship sent to Red Sea - US Ambassador at Batfire Conference
-
-*2024-02-28 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177513) · `ta`
-
-The US Ambassador to Sri Lanka has confirmed that Sri Lanka has sent a naval ship to the Red Sea.
-
-Julie Sung said that Sri Lanka sent her naval ship to support the Prosperity Guardian action carried out in the Red Sea.
-
-He was speaking at a conference on the Hindu Security Conference of the Batfire.
-
-Pointing out that Sri Lanka sent the US naval vessel to the Red Sea, the US Ambassador praised Sri Lanka's performance in facing global challenges.
-
-Julisung said Sri Lanka has joined the International Alliance to protect the freight ships in areas such as the Gulf of the Red Sea, such as the Gulf of Arabian Sea.
-
-He added that the US is dedicated to further increasing its ability to protect Sri Lanka.
-
-◼️
-
-[Data](articles/4a820ea8.json)
-
-[Extended Data](ext_articles/4a820ea8.ext.json)
-
----
-
-### Come to former 2018 going
-
-*2024-02-28 14:54:20* · [`adalk`](https://www.ada.lk/breaking_news/2018--හිටපු-තත්ත්වයට-එන්න-තවත්-වසර-දෙකක්-යනවා/11-408328) · `si`
-
-The government has prepared a wide program to empower women entrepreneurship
-
-Women can play a great job in building the economy of the country - President expresses great businessmen
-
-President Ranil Wickremesinghe stressed that steps will be taken to create women's entrepreneurs that can be adapted to the economic transformation in the country.
-
-The President said that the President could play a wide work in the digital and green economy and that the President would give every assistance to the women's business community.
-
-President Ranil Wickremesinghe said this was addressing the 'Tree' Twelse 'in Colombo yesterday (27).
-
-Excellent businessmen were evaluated at this awards ceremony organized by the Women's Industry and Chamber of Commerce.. Women in the SAARC had also provided women in a special sector.
-
-President Ranil Wickremesinghe made the award winning ten excellent entrepreneurs at national level, symbolizing awards.
-
-...
-
-[Data](articles/b3f0beb2.json)
-
-[Extended Data](ext_articles/b3f0beb2.ext.json)
-
----
-
-### Electricity strikes
-
-*2024-02-28 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177510) · `ta`
-
-A family member has died this morning (28) this morning after a power supply at the Hunbold Division Gilnicels estate belonging to the Akkaraipattana police division.
-
-The deceased has been identified as Madurai Veeran Nagaraj (56 years old) from the estate in the colonies.
-
-Preliminary inquiries have revealed that a man who had been involved in the tea estate had died of illegal electricity to prevent wild beasts.
-
-At the same time, it has been found that the illegal land maintained by the neighbor of the family who died in the incident has been found illegal.
-
-In addition, police are conducting investigations into why and why they went to the area of the land in the early hours of the morning.
-
-At the same time, the body of the deceased person has been placed to the Nuwara Eliya District General Hospital for an autopsy after the magistrate visited the scene and visited the scene.
-
-◼️
-
-[Data](articles/8756b93b.json)
-
-[Extended Data](ext_articles/8756b93b.ext.json)
-
----
-
-### Dislodged wheel of SLTB bus damages three-wheeler, shop
-
-*2024-02-28 14:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dislodged-wheel-of-SLTB-bus-damages-three-wheeler-shop/108-277892) · `en`
-
-The right front wheel of a Sri Lanka Transport Board (SLTB) bus dislodged while the vehicle was on the move, resulting in a collision that damaged a nearby shop yesterday, the police said.
-
-They said the bus was travelling from Yatiyantota to Avissawella when its wheel had got dislodged.
-
-The dislodged wheel damaged a three-wheeler and a computer repair shop, but no injuries were reported.
-
-The shop owner and the three-wheeler owner handed over the dislodged wheel to the Yatiyantota police and said that they will not allow them to take the bus away from the spot without compensation being paid for the damages caused.
-
-◼️
-
-[Data](articles/d686c98e.json)
-
-[Extended Data](ext_articles/d686c98e.ext.json)
-
----
-
-### The party has no right to support Ranil in the presidential election - Prasanna Ranatunga
-
-*2024-02-28 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/177509) · `ta`
-
-Minister of Urban Development and Housing Prasanna Ranatunga says he personally believes that Ranil Wickremesinghe has no right to support Ranil Wickremesinghe in the next presidential election.
-
-He stressed that it is best to support Mr. Ranil Wickremesinghe if there is no alternative candidate for Bohotwa in the next presidential election.
-
-The Minister said that he did not know that Bohotuwa had a different candidate.
-
-Responding to questions raised by journalists after attending the Galle District Coordinating Committee meeting, the Minister said this.. Galle District Coordinating Committee today (28) N`HY at Galle Fort;T was held in the Cole Hall.
-
-...
-
-[Data](articles/d9b9bbe3.json)
-
-[Extended Data](ext_articles/d9b9bbe3.ext.json)
-
----
-
-### Don't know electricity?
-
-*2024-02-28 14:45:11* · [`adalk`](https://www.ada.lk/breaking_news/නොදන්වා-විදුලිය-කපයි-/11-408327) · `si`
-
-It is reported that the Ceylon Electricity Board (CEB) will be disconnected without any lands.. As a result, many people have been affected. The demand for electricity has also increased due to the high temperatures these days.
-
-◼️
-
-[Data](articles/84af3e90.json)
-
-[Extended Data](ext_articles/84af3e90.ext.json)
-
----
-
-### A controversial revelation of Dinal's mysterious death
-
-*2024-02-28 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193913) · `si`
-
-Foreign media reports that the mysterious death of a Sri Lankan student living in England has revealed foreign media.
-
-Dinal de Alwis, a 16-year-old schoolgirl, Dinal de Alwis, died.
-
-Dinal, studying in WHITGIFT school in CROYDON, is a talented student.
-
-Dinal, a talented football and rugby player Dinal, was the hope of higher education in the Cambridge University.
-
-Decompass all these dreams and kill him on October 27, 2022.
-
-Despite the death of Dinal, who died mysteriously, judged his disposal to investigate the cause.
-
-Investigations have revealed that a person has committed suicide due to a threat to releasing his nude photos.
-
-The defense of the person or location of the matter have not been revealed so far.
-
-However, the investigating officials are suspended that this message has been sent to Dinal from Nigeria using VPN technology.
-
-Investigations have revealed that the person who had requested the extortion in the social media has sent two naked photos to him.
-
-...
-
-[Data](articles/545b2b6e.json)
-
-[Extended Data](ext_articles/545b2b6e.ext.json)
-
----
-
-### Meeting with Swiss Ambassador
-
-*2024-02-28 14:43:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவிஸ்-தூதுவர்-சபாநாயகருடன்-சந்திப்பு/175-333942) · `ta`
-
-A meeting was held in Parliament on Wednesday (28) between the Swiss Ambassador to Sri Lanka, Dr. Siri Volt and Speaker Mahinda Yapa Abeywardena.
-
-Dr. Siri Walt asked the Speaker about the elections to be held in the country.
-
-Speaker Mahinda Yapa Abeywardena has stated that the presidential election will be held in accordance with the legal election and the general election will be held in a timely manner next year.
-
-◼️
-
-[Data](articles/4089062c.json)
-
-[Extended Data](ext_articles/4089062c.ext.json)
-
----
-
-### Sri Lankan-origin teen takes own life after being ‘blackmailed’
-
-*2024-02-28 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97592/sri-lankan-origin-teen-takes-own-life-after-being-blackmailed) · `en`
-
-A teenager of Sri Lankan origin took his own life after he was blackmailed on Snapchat over nude photographs, a UK inquest has heard.
-
-Dinal De Alwis, 16, represented Whitgift School, Croydon, at rugby and football and hoped to study economics at Cambridge after achieving straight A*s in all his GCSE subjects.
-
-Dinal killed himself in October 2022 days after he returned from a family holiday in Majorca over the autumn half-term break. He left his home at 2 a.m. and was seen on CCTV falling to his death an hour later.
-
-South London Coroner’s Court heard that the teenager recorded a video outlining he planned to kill himself after he received two nude photographs of himself from a blackmailer on social media.
-
-The blackmailer demanded that Dinal pay £100 to stop sending the images to his followers.
-
-Dinal’s family say they believe a girl may have taken the images with Dinal before they ended up in the wrong hands.
-
-...
-
-[Data](articles/ff799c82.json)
-
-[Extended Data](ext_articles/ff799c82.ext.json)
-
----
-
-### Southeastern University's actions are due to the struggle of the employees!
-
-*2024-02-28 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177508) · `ta`
-
-The university's activities have been in a state of disrepair due to the struggle of the Southeastern University staff on Wednesday (28) as a result of the two -day -long identity strike launched by the University Trade Unions across the country.
-
-President of the Executive Officer Association MH. President of Nabar and Educational Employees Union. It is noteworthy that a large number of employees participated in the symbolic strike, led by Tajuddin.
-
-Due to the struggle, the 12th International Seminar, which is scheduled to take place on the 29th, has been postponed to the next day.. Southeastern University Employees Union Secretary MM. In the fight under the guidance of Mohammed Kamil, slogans were raised demanding the government's solution to various demands, such as providing a 107 percent salary increase and 25 per cent of the promised MCA allowance.
-
-Here strength, equality is the need for M, the government will be blindfolded, will the 8 -year disappointment continue?
-
-◼️
-
-[Data](articles/127d97a0.json)
-
-[Extended Data](ext_articles/127d97a0.ext.json)
-
----
-
-### Timelines, predictability key issues for next sovereign debt roundtable - Georgieva
-
-*2024-02-28 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97591/timelines-predictability-key-issues-for-next-sovereign-debt-roundtable-georgieva) · `en`
-
-International Monetary Fund chief Kristalina Georgieva on Tuesday said she wants to shine a spotlight on the timelines and predictability of debt restructuring processes at the next meeting of the Global Sovereign Debt Roundtable in April.
-
-Georgieva told Reuters she hoped to make progress on the issue when the roundtable – which includes debtor countries and official and private creditors – meet in Washington in April during the spring meetings of the IMF and the World Bank.
-
-“Do we see scope for improvement? Yes. And we would like to use the next Global Sovereign Debt Roundtable in the spring to talk about predictability and timelines, because this is where the biggest difficulty for the debtor countries is,” she said in an interview before a meeting in Brazil of finance officials from the Group of 20 major economies.
-
-“Everything takes much longer than countries need and expect,” she said.
-
-...
-
-[Data](articles/8c7d3f1d.json)
-
-[Extended Data](ext_articles/8c7d3f1d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 19:32:54**
+As of **2024-02-28 19:50:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,835 (100.0%) of 9,839 articles have been extended.
+9,839 (100.0%) of 9,839 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The Court of Appeal registrar was directed to issue notice and the interim order
 
 [Data](articles/bff59291.json)
 
+[Extended Data](ext_articles/bff59291.ext.json)
+
 ---
 
 ### Election Commission notified of parliamentary vacancy following MP’s resignation
@@ -62,23 +64,31 @@ Meanwhile, S. C. Mutukumarana is tipped to fill the relevant parliamentary vacan
 
 [Data](articles/88a0de0a.json)
 
+[Extended Data](ext_articles/88a0de0a.ext.json)
+
 ---
 
-### பொதுஜன பெரமுனவை தலைமைத்துவமாக கொண்டு அரசியல் கூட்டணியை ஸ்தாபிப்போம் - ரஞ்சித் பண்டார
+### We will establish a political alliance with the leadership of the PA - Ranjith Bandara
 
 *2024-02-28 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177541) · `ta`
 
-மார்ச் மாதம் 05 ஆம் திகதிக்கு பின்னர் அரசியலில் எதிர்பாராத மாற்றங்கள் ஏற்படலாம். ஸ்ரீ லங்கா பொதுஜன பெரமுனவை தலைமைத்துவமாக கொண்டே புதிய அரசியல் கூட்டணியை ஸ்தாபிப்போம் என பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் ரஞ்சித் பண்டார தெரிவித்தார்.
+Unexpected changes in politics after the 05th of March. Ranjith Bandara, Member of Parliament of the PA, said that the new political coalition will be established in the leadership of the Sri Lanka PA.
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் புதன்கிழமை (28) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at a media briefing held at the Sri Lanka PA's office on Wednesday (28).
 
-நிதி வங்குரோத்து நிலை தொடர்பில் ஆராயும் பாராளுமன்ற தெரிவுக்குழுவுக்கு அண்மையில் முன்னிலையாகிய திறைசேரியின் செயலாளர் மற்றும் மத்திய வங்கியின் ஆளுநர் ஆகியோர் நிதி வங்குரோத்து நிலையை நாங்கள் அறிவிக்கவில்லை என்று குறிப்பிட்டார்கள்.ஆனால் வங்குரோத்து நிலைக்கு ராஜபக்ஷர்கள் பொறுப்புக்கூற வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச குறிப்பிட்டுக் கொள்கிறார்.
+The Secretary of the Treasury and the Governor of the Central Bank, who was recently present to the Parliamentary Select Committee on Financial Bank, said that we did not announce the financial bankruptcy.
 
-பொருளாதார பாதிப்புக்கு நல்லாட்சி அரசாங்கம் பொறுப்புக் கூற வேண்டும் என்பதில் எவ்வித மாற்றுக் கருத்துக்களும் கிடையாது.சர்வதேச பிணைமுறியங்களிடமிருந்து பெற்றுக்கொண்ட கடன்களினால் நாட்டின் நிதி நிலைமை நெருக்கடிக்குள்ளாக்கப்பட்டது.
+There is no alternative to the government's responsibility for good government for economic impact.
 
-...
+The overall responsibility of the economic impact has been imposed on the Rajapaksas amid the impact of the Govt.
+
+We have been strengthened as party. There will be many unexpected changes in politics after March 05. He said that we will establish a new political alliance with the leadership of the Sri Lanka PA.
+
+◼️
 
 [Data](articles/e2a33336.json)
+
+[Extended Data](ext_articles/e2a33336.ext.json)
 
 ---
 
@@ -118,21 +128,25 @@ Wanindu Hasaranga is the leader of the group, but he is deprived of playing the 
 
 ---
 
-### சகல தரப்பினரின் ஒத்துழைப்புடன் மனிதநேய கூட்டணியை ஸ்தாபிப்போம் - பாட்டலி சம்பிக்க ரணவக்க
+### We will establish a humanitarian alliance with the cooperation of all parties - Patali Champika Ranawaka
 
 *2024-02-28 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177534) · `ta`
 
-அரசியலில் பல ஆண்டுகளாக  பகைத்துக் கொண்டிருந்த ராஜபக்ஷர்களும், ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் ஒன்றிணையும் போது கொள்கை ரீதியில் வேறுப்பாடுகள் உள்ள அரசியல் கட்சிகள் ஏன் ஒன்றிணைய கூடாது. சகல அரசியல் கட்சிகளையும் ஒன்றிணைத்து மனிதநேய கூட்டணியை ஸ்தாபிப்போம் ஐக்கிய குடியரசு முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+When Rajapaksa and President Ranil Wickremesinghe have been hacked for many years in politics, why should the political parties with no policy and otherwise be united.. Patali Champika Ranawaka, the leader of the UNP and Member of Parliament, said that all political parties would unite and establish a humanitarian coalition.
 
-பாராளுமன்ற உறுப்பினர் டலஸ் அழகபெரும தலைமையிலான சுதந்திர மக்கள் சபையின் உறுப்பினர்களுக்கும்,ஐக்கிய குடியரசு முன்னணியின் உறுப்பினர்களுக்கும் இடையிலான கலந்துரையாடல் செவ்வாய்க்கிழமை (27) மாலை கொழும்பில் உள்ள சுதந்திர மக்கள் சபையின் காரியாலயத்தில் இடம்பெற்றது.
+A discussion between members of the Independent People's Council and members of the United People's Front (UNP) led by Member of Parliament Dallas Alagaberuma took place on Tuesday (27) at the Independent People's Council office in Colombo.
 
-இந்த கலந்துரையாடலின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவித்த ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பிக்க ரணவக்க,
+UNP leader Patali Champika Ranawaka, speaking to the media after the discussion
 
-நாட்டு மக்கள் பொருளாதார ரீதியில் மிக மோசமாகப் பாதிக்கப்பட்டுள்ளார்கள்.பொருளாதார நெருக்கடிக்குத் தீர்வு காண வேண்டுமாயின்  அரசியல் ஸ்திரத்தன்மை உறுதிப்படுத்தப்பட வேண்டும். அதற்கு சகல தரப்பினரையும் ஒன்றிணைத்து பரந்துப்பட்ட அரசியல் கூட்டணி ஒன்று ஸ்தாபிக்கப்பட வேண்டும்.
+The people of the country are very badly affected.. It must unite all parties and establish a widespread political coalition.
+
+We will negotiate with all parties to establish a humanitarian political coalition. We are in talks with the United National Party, the Freedom Party and the United People's Power.
 
 ...
 
 [Data](articles/14c48007.json)
+
+[Extended Data](ext_articles/14c48007.ext.json)
 
 ---
 

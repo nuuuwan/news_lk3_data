@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 04:51:21**
+As of **2024-02-29 05:02:30**
 
 ## Newspaper Stats
 
-*Scraped **9,917** Articles*
+*Scraped **9,918** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 521
 dailyftlk | 527
 adalk | 841
 adaderanalk | 1,193
-tamilmirrorlk | 1,203
+tamilmirrorlk | 1,204
 virakesarilk | 1,373
 dailymirrorlk | 1,499
 adaderanasinhalalk | 1,499
@@ -26,11 +26,33 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,917 (100.0%) of 9,917 articles have been extended.
+9,918 (100.0%) of 9,918 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Comprehensive project to strengthen the entrepreneur
+
+*2024-02-29 04:29:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழில்முனைவோரை-வலுவூட்ட-விரிவான-திட்டம்/175-333962) · `ta`
+
+President Ranil Wickremesinghe said that steps are being taken to create a female entrepreneurs in accordance with the economic change in the country.
+
+President Ranil Wickremesinghe said the awards ceremony for the best female entrepreneurs in Colombo yesterday.
+
+The awards ceremony organized by the Sri Lanka Women's Industrial and Business Federation was honored with the best female traders. The award was awarded to strengthen their business and market and was given the opportunity to compete in the special category for women from the SAARC Zone.
+
+President Ranil Wickremesinghe was awarded the Ten Best Female Entrepreneurs at the National Level. At the event, the President addresses the event,
+
+The last few years have not been smooth. It was a crisis period for all, including traders. Your efforts to advance the business despite the economic crises are commendable.
+
+...
+
+[Data](articles/a41a06a3.json)
+
+[Extended Data](ext_articles/a41a06a3.ext.json)
+
+---
 
 ### Partial suspension of parate law an election ploy says SJB
 
@@ -1995,29 +2017,5 @@ The state minister said he believes the second review for the third disbursement
 [Data](articles/e89ae81c.json)
 
 [Extended Data](ext_articles/e89ae81c.ext.json)
-
----
-
-### Police doubts on IP police reveal about underworld threats
-
-*2024-02-28 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193916) · `si`
-
-Police Inspector Duminda Jayatilleke, who has been abroad, an inquiry into the death threat threatened threatening.
-
-DIG, Police Media Spokesperson, Attorney-at-Law Nihal Talduuwa said that.
-
-The organized crime department of the Colombo Crimes Division said that Mr. Duminda Jayatilleke, OIC of the Social Media, said that the underworld gangs were abroad with the threats of heat gangs and their family.
-
-Among the deaths he had been threatened with Kajipani Imrah.
-
-DIG, Attorney-at-Law Nihal Thaluduwa, said that he had commented on the matter.
-
-"The officer has taken foreign leave from 14th of February to March 6. It was only after going abroad that he was released to Social Media. This officer has not made an informed by emphasizing this situation in the Colombo Crimes Division. He has not been informed of a death threat. "
-
-...
-
-[Data](articles/325e38a1.json)
-
-[Extended Data](ext_articles/325e38a1.ext.json)
 
 ---

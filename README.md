@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 16:17:23**
+As of **2024-02-28 16:33:28**
 
 ## Newspaper Stats
 
-*Scraped **9,809** Articles*
+*Scraped **9,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,182
 tamilmirrorlk | 1,192
 virakesarilk | 1,350
 dailymirrorlk | 1,483
-adaderanasinhalalk | 1,484
+adaderanasinhalalk | 1,485
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,807 (100.0%) of 9,809 articles have been extended.
+9,810 (100.0%) of 9,810 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,32 @@ A team from the International Monetary Fund (IMF) is to arrive in Sri Lanka for 
 ◼️
 
 [Data](articles/e89ae81c.json)
+
+[Extended Data](ext_articles/e89ae81c.ext.json)
+
+---
+
+### Police doubts on IP police reveal about underworld threats
+
+*2024-02-28 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193916) · `si`
+
+Police Inspector Duminda Jayatilleke, who has been abroad, an inquiry into the death threat threatened threatening.
+
+DIG, Police Media Spokesperson, Attorney-at-Law Nihal Talduuwa said that.
+
+The organized crime department of the Colombo Crimes Division said that Mr. Duminda Jayatilleke, OIC of the Social Media, said that the underworld gangs were abroad with the threats of heat gangs and their family.
+
+Among the deaths he had been threatened with Kajipani Imrah.
+
+DIG, Attorney-at-Law Nihal Thaluduwa, said that he had commented on the matter.
+
+"The officer has taken foreign leave from 14th of February to March 6. It was only after going abroad that he was released to Social Media. This officer has not made an informed by emphasizing this situation in the Colombo Crimes Division. He has not been informed of a death threat. "
+
+...
+
+[Data](articles/325e38a1.json)
+
+[Extended Data](ext_articles/325e38a1.ext.json)
 
 ---
 
@@ -212,15 +238,17 @@ Responding to questions raised by journalists after attending the Galle District
 
 ---
 
-### නොදන්වා විදුලිය කපයි?
+### Don't know electricity?
 
 *2024-02-28 14:45:11* · [`adalk`](https://www.ada.lk/breaking_news/නොදන්වා-විදුලිය-කපයි-/11-408327) · `si`
 
-ලංකා විදුලි බල මණ්ඩලය විසින් ඇතැම් ප්‍ර දේශවලට මේ වන විට නොදන්වා විදුලිය විසන්ධි කරන බව වාර්තා වෙයි. මේ හේතුවෙන් බොහෝ පිරිසක් පීඩාවට පත්ව තිබේ. මේ දිනවල පවතින අධික උෂ්ණත්වය හේතුවෙන් විදුලිය සඳහා ඇති ඉල්ලුමද ඉහළ ගොස් තිබේ.
+It is reported that the Ceylon Electricity Board (CEB) will be disconnected without any lands.. As a result, many people have been affected. The demand for electricity has also increased due to the high temperatures these days.
 
 ◼️
 
 [Data](articles/84af3e90.json)
+
+[Extended Data](ext_articles/84af3e90.ext.json)
 
 ---
 
@@ -2033,21 +2061,5 @@ Organised in association with the Sri Lanka – Greater Mekong Business Council 
 [Data](articles/30c098f0.json)
 
 [Extended Data](ext_articles/30c098f0.ext.json)
-
----
-
-### Landmark decision on Admiralty case involving Agros Shipping and Luna Shipping
-
-*2024-02-28 03:00:08* · [`dailyftlk`](https://www.ft.lk/business/Landmark-decision-on-Admiralty-case-involving-Agros-Shipping-and-Luna-Shipping/34-758924) · `en`
-
-Luna Shipping of Cyprus instituted Action in Rem No. 8/2014 on 15 September 2014 to obtain an order of the Admiralty Court (Commercial High Court sitting in the Admiralty Jurisdiction) to arrest the Vessel M. T. AGROS, owned by Agros Shipping Co. Ltd., in Liberia.
-
-The owners of the vessel Agros Shipping Co. Ltd. furnished security for $ 1 million to secure the release of the vessel and made an application on 12 October 2015 to make an order to direct Luna Shipping to furnish security for its counterclaim on the basis that the arrest of Luna was with the malicious intention. Both parties’ written submissions were and the then Commercial High Court Judge sitting in the Admiralty Jurisdiction Dr. Ruwan Fernando on 6 October 2017 made his order and directed Luna Shipping to provide security for counter claim of the owners of the vessel Agros Shipping Company Ltd. of Liberia in a sum of
-
-...
-
-[Data](articles/22ebc617.json)
-
-[Extended Data](ext_articles/22ebc617.ext.json)
 
 ---

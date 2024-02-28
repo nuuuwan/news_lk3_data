@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 15:32:56**
+As of **2024-02-28 15:51:47**
 
 ## Newspaper Stats
 
-*Scraped **9,798** Articles*
+*Scraped **9,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,115 @@ islandlk | 521
 adalk | 830
 adaderanalk | 1,180
 tamilmirrorlk | 1,192
-virakesarilk | 1,343
-adaderanasinhalalk | 1,483
+virakesarilk | 1,350
 dailymirrorlk | 1,483
+adaderanasinhalalk | 1,484
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,793 (99.9%) of 9,798 articles have been extended.
+9,798 (99.9%) of 9,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### ඩලස් හමුවෙන්න පාඨලී යයි
+### ශ්‍රී ලංකා නිදහස් පක්ෂය තීරණයක් ගනී
+
+*2024-02-28 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193915) · `si`
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහිව විපක්ෂය ගෙනඒමට නියමිත විශ්වාසභංග යෝජනාවට සහාය පළ කිරීමට ශ්‍රී ලංකා නිදහස් පක්ෂය තීරණය කර ඇත.
+
+විපක්ෂය කථානායකවරයාට චෝදනා කරන්නේ ශ්‍රේෂ්ඨාධිකරණයේ නිර්දේශ සැලකිල්ලට නොගනිමින් සමාජ මාධ්‍ය නියාමන පනත සම්මත කරගැනීමට කටයුතු කර ඇති බවය.
+
+ඒ අනුව ශ්‍රී ලංකා පාර්ලිමේන්තුවේ කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාවට ශ්‍රී ලංකා නිදහස් පක්ෂය සහයෝගය දක්වමින් පක්ෂව ඡන්දය ප්‍රකාශ කිරීමට තීරණය කර ඇති බව ශ්‍රී ලංකා නිදහස් පක්ෂය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/fc22ddd0.json)
+
+---
+
+### காட்டுக்கு தீ வைப்பு
+
+*2024-02-28 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177511) · `ta`
+
+ஹட்டன் மற்றும் கொட்டலை பகுதியில் பொது மக்கள் குடிநீர் பெற்றுக்கொள்ளும் வனப்பகுதிக்கு இனந்தெரியாதவர்களால் வைக்கப்பட்ட தீ காரணமாக பல ஏக்கர் காட்டுப்பகுதி எரிந்து நாசமாகியுள்ளதுடன் நீர் ஊற்றுக்கள் அற்றுப்போய் குடிநீர் தட்டுப்பாடு ஏற்படும் அபாயம் ஏற்பட்டுள்ளதாக பொது மக்கள் விசனம் தெரிவிக்கின்றனர்.
+
+ஹட்டன் பொலிஸ் பிரிவுக்குட்பட்ட பன்மூர் தோட்ட பகுதிக்கு குடிநீர் பெற்றுக்கொள்ளும் ஹட்டன் கொழும்பு பிரதான வீதிக்கு அண்மையில் உள்ள நீர்காப்பு காட்டுப்பகுதிக்கு நேற்று  (27)  வைக்கப்பட்ட தீ காரணமாக பல ஏக்கர் எரிந்து நாசமாகியுள்ளன.
+
+இதனால் ஹட்டன் மல்லிகைப்பூ தோட்டப்பகுதியில் வாழும் மக்களுக்கு குடிநீர் தட்டுப்பாடு ஏற்படலாம் பிரதேசவாசிகள் தெரிவிக்கின்றனர்.
+
+குறித்த தீ வைப்பு காணிகளை துப்பறவு செய்வதற்காகவும் காணிகளை ஆக்கிரமிப்பதற்காகவும் விலங்குகளை வேட்டையாடுவதற்காக வைக்கப்படுவதாக பொது மக்கள் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/5601c642.json)
+
+---
+
+### Dallas going to meet
 
 *2024-02-28 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193914) · `si`
 
-රටට ඔබින මනුෂ්‍යත්වයේ සන්ධානයක් නිර්මාණය කර ගැනීම සඳහා තවදුරටත් සාකච්ඡා කිරීමට නිදහස ජනතා සභාව සහ එක්සත් ජනරජ පෙරමුණ එකඟ වෙයි.
+Freedom and the United Deonadership agree to create a coalition of the humanity to the country.
 
-දේශය වෙනුවෙන් එක්වන පියවරක් වැඩසටහන නිදහස ජනතා සභාවට ඉදිරිපත් කෙරිණ.
+The program was presented to the people's church step forward for the land.
 
-"රට දැඩි අර්බුදයකට මුහුණපා සිටී. ඉන් රට මුදා ගැනීම සඳහා මනුෂ්‍යත්වයේ සන්ධානයක් ගොඩනැගීම එක්සත් ජනරජ පෙරමුණේ අරමුණයි..."  යනුවෙන් පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා පැවසීය.
+"The country is facing hard crisis. The purpose of the UPFA, the UPFA, is to build a coalition alliance to liberate the country. "
 
-ඒ අනුව සන්ධානය සම්බන්ධයෙන් තවදුරටත් සාකච්ඡා කිරීමට දෙපාර්ශවය න් එකඟ වී තිබේ.
+Accordingly, the two parties have agreed to discuss the UPFA.
 
-නිදහස ජනතා සභාව වෙත සිය වැඩසටහන පිළිගැන්වීම නාවල, කොස්වත්ත නිදහස ජනතා සභා කාර්යාලයේදී සිදුකෙරිණ.
+Freedom presented its program to the People's Council
 
 ◼️
 
 [Data](articles/aacd31c8.json)
+
+[Extended Data](ext_articles/aacd31c8.ext.json)
+
+---
+
+### செங்கடலிற்கு இலங்கை கடற்படை கப்பலை அனுப்பியது - பாத்பைன்டர் மாநாட்டில் அமெரிக்க தூதுவர்
+
+*2024-02-28 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177513) · `ta`
+
+செங்கடலிற்கு இலங்கை தனது கடற்படை கப்பலொன்றை அனுப்பியதை இலங்கைக்கான அமெரிக்க தூதுவர் உறுதிசெய்துள்ளார்.
+
+செங்கடலில் முன்னெடுக்கப்படும் புரொஸ்பெரிட்டி கார்டியன் நடவடிக்கைக்கு ஆதரவளிப்பதற்காக இலங்கை தனது கடற்படை கப்பலை அனுப்பியது என ஜூலி சங் தெரிவித்துள்ளார்.
+
+பாத்பைன்டர் அமைப்பின் இந்துசமுத்திர பாதுகாப்பு குறித்த மாநாட்டில் உரையாற்றுகையில் அவர் இதனை தெரிவித்துள்ளார்.
+
+அமெரிக்கா வழங்கிய கடற்படை கப்பலை செங்கடலிற்கு இலங்கை அனுப்பியதை சுட்டிக்காட்டிய  அமெரிக்க தூதுவர் உலகலாவிய சவால்களை எதிர்கொள்வதில் இலங்கையின் செயல்ஊக்கமான நடவடிக்கைகளை பாராட்டியுள்ளார்.
+
+செங்கடல் ஏடன் வளைகுடா அராபிய கடல் போன்ற பகுதிகளில் சரக்குகப்பல்கள் ஹெளத்திகிளர்ச்சியாளர்களால் தாக்கப்படும் ஆபத்துள்ள நிலையில் சரக்குகப்பல்களை பாதுகாப்பதற்காக இலங்கை சர்வதேச கூட்டணியில் இணைந்துகொண்டது என ஜூலிசங் தெரிவித்துள்ளார்.
+
+இலங்கை தனது கடற்பகுதியை பாதுகாக்ககூடிய திறனை மேலும் அதிகரித்துக்கொள்வது குறித்து அமெரிக்கா அர்ப்பணிப்புடன் உள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/4a820ea8.json)
+
+---
+
+### மின்சாரம் தாக்கி குடும்பஸ்தர் பலி!
+
+*2024-02-28 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177510) · `ta`
+
+அக்கரப்பத்தனை பொலிஸ் பிரிவுக்குட்பட்ட ஹன்போல்ட் பிரிவு கிலனிகல்ஸ் தோட்டத்தில் மின்சாரம் தாக்கி குடும்பஸ்தர் ஒருவர் இன்று புதன்கிழமை (28) அதிகாலை உயிரிழந்துள்ளார்.
+
+இவ்வாறு உயிரிழந்தவர் காலனிகளில் தோட்டத்தை சேர்ந்த மதுரைவீரன் நாகராஜ் (வயது 56) என அடையாளம் காணப்பட்டுள்ளதாக அக்கரப்பத்தனை பொலிஸ் நிலைய குற்றத்தடுப்பு பொலிஸார் தெரிவித்தனர்.
+
+தேயிலை தோட்டத்துடன் இணைந்த விவசாயம்  செய்து வந்த குறித்த நபர் காட்டு மிருகங்கள் வருவதை தடுக்க சட்ட விரோதமாக பாய்ச்சப்பட்டுள்ள மின்சாரத்தில் சிக்கி உயிரிழந்துள்ளதாக ஆரம்பக்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+அதேநேரத்தில் சம்பவத்தில் உயிரிழந்த குடும்பஸ்தரின் பக்கத்து வீட்டு காரர் பராமரித்து வரும் விவசாய காணிக்கு சட்ட விரோதமாக மின்சாரம் பாய்ச்சியுள்ளதாக கண்டறியப்பட்டுள்ளது.
+
+மேலும், மின்சாரம் தாக்கி உயிரிழந்த நபர் அதிகாலையில் குறித்த காணியின் பகுதிக்கு ஏன், எதற்காக சென்றார் என்பது தொடர்பில் விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+...
+
+[Data](articles/8756b93b.json)
 
 ---
 
@@ -68,47 +146,75 @@ The shop owner and the three-wheeler owner handed over the dislodged wheel to th
 
 [Data](articles/d686c98e.json)
 
+[Extended Data](ext_articles/d686c98e.ext.json)
+
 ---
 
-### ඩිනාල්ගේ අභිරහස් මරණය ගැන ආන්දෝලනාත්මක හෙළිදරව්වක්
+### ஜனாதிபதித் தேர்தலில் ரணிலுக்கு ஆதரவளிக்காமல் இருக்க மொட்டுக் கட்சிக்கு உரிமையில்லை - பிரசன்ன ரணதுங்க
+
+*2024-02-28 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/177509) · `ta`
+
+அடுத்த ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்காமல் இருக்க பொஹொட்டுவவுக்கு உரிமை இல்லை என தனிப்பட்ட முறையில் தாம் நம்புவதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+அடுத்த ஜனாதிபதித் தேர்தலில் பொஹொட்டுவவிற்கு மாற்று வேட்பாளர் இல்லை என்றால் திரு.ரணில் விக்கிரமசிங்கவை ஆதரிப்பதே சிறந்தது என அவர் வலியுறுத்தினார்.
+
+பொஹொட்டுவவிற்கு வேறு மாற்று வேட்பாளர் இருப்பதாக தாம் அறியவில்லை எனவும் அமைச்சர் கூறினார்.
+
+காலி மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் கலந்து கொண்டதன் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார். காலி மாவட்ட ஒருங்கிணைப்புக் குழு இன்று (28) காலி கோட்டையில் உள்ள N`hy; டி கோல்  மண்டபத்தில்  நடைபெற்றது.
+
+...
+
+[Data](articles/d9b9bbe3.json)
+
+---
+
+### A controversial revelation of Dinal's mysterious death
 
 *2024-02-28 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193913) · `si`
 
-එංගලන්තයේ ජීවත්වන ශ්‍රී ලාංකික සිසුවෙකුගේ අභිරහස් මරණය පිළිබඳව තොරතුරු අනාවරණය වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Foreign media reports that the mysterious death of a Sri Lankan student living in England has revealed foreign media.
 
-මෙලෙස අවාසනාවන්ත ලෙස මියගොස් ඈත්තේ ඩිනාල් ද අල්විස් නමැති 16 හැවිරිදි වියේ පසුවූ පාසල් සිසුවෙකි.
+Dinal de Alwis, a 16-year-old schoolgirl, Dinal de Alwis, died.
 
-Croydon හි Whitgift පාසලේ අධ්‍යාපනය හදාරමින් සිටි ඩිනාල් අති දක්ෂ සිසුවෙකි.
+Dinal, studying in WHITGIFT school in CROYDON, is a talented student.
 
-පාසලේදී දක්ෂ පාපන්දු සහ රගර් ක්‍රීඩකයෙකු වූ ඩිනාල්ගේ බලාපොරොත්තුව වී තිබුණේ කේම්බ්‍රිජ් විශ්වවිද්‍යාලයට ඇතුළත්ව උසස් අධ්‍යාපනය හැදෑරීමය.
+Dinal, a talented football and rugby player Dinal, was the hope of higher education in the Cambridge University.
 
-මෙම සියලු සිහින බොඳ කරමින් ඔහු වෙත මරුවා ළඟා වන්නේ 2022 වර්ෂයේ ඔක්තෝබර් මස 27 වනදාය.
+Decompass all these dreams and kill him on October 27, 2022.
 
-අභිරහස් ලෙස මියගොස් සිටි ඩිනාල්ගේ මරණය සියදිවි නසාගැනීමක් බවට විනිශ්චය කළ ද එයට හේතුව සොයා අඛණ්ඩව විමර්ශන කටයුතු සිදුකළේය.
+Despite the death of Dinal, who died mysteriously, judged his disposal to investigate the cause.
 
-එම විමර්ශනවලට අනුව තොරතුරු අනාවරණය වී ඇත්තේ කිසියම් පුද්ගලයෙකු විසින් ඔහුගේ නිරුවත් ඡායාරූප මුදාහරින බවට කළ තර්ජනයක් හේතුවෙන් මෙලෙස සියදිවි හානිකරගෙන ඇති බවය.
+Investigations have revealed that a person has committed suicide due to a threat to releasing his nude photos.
 
-අදාළ තර්ජනය එල්ලවී ඇති පුද්ගලයා හෝ ස්ථානය පිළිබඳව මෙතෙක් නිශ්චිත කරුණු අනාවරණය වී නොමැති බවද එම වාර්තා වැඩිදුරටත් පවසයි.
+The defense of the person or location of the matter have not been revealed so far.
+
+However, the investigating officials are suspended that this message has been sent to Dinal from Nigeria using VPN technology.
+
+Investigations have revealed that the person who had requested the extortion in the social media has sent two naked photos to him.
 
 ...
 
 [Data](articles/545b2b6e.json)
 
+[Extended Data](ext_articles/545b2b6e.ext.json)
+
 ---
 
-### சுவிஸ் தூதுவர் சபாநாயகருடன் சந்திப்பு
+### Meeting with Swiss Ambassador
 
 *2024-02-28 14:43:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவிஸ்-தூதுவர்-சபாநாயகருடன்-சந்திப்பு/175-333942) · `ta`
 
-இலங்கைக்கான சுவிஸ் தூதுவர் கலாநிதி சிறி வோல்ட் மற்றும் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன ஆகியோருக்கிடையில் சந்திப்பொன்று புதன் கிழமை (28) பாராளுமன்றத்தில் இடம்பெற்றது.
+A meeting was held in Parliament on Wednesday (28) between the Swiss Ambassador to Sri Lanka, Dr. Siri Volt and Speaker Mahinda Yapa Abeywardena.
 
-இதன்போது, இந்நாட்டில் நடைபெறவுள்ள தேர்தல்கள் குறித்து கலாநிதி சிறி வால்ட் சபாநாயகரிடம் கேட்டறிந்தார்.
+Dr. Siri Walt asked the Speaker about the elections to be held in the country.
 
-ஜனாதிபதித் தேர்தல் சட்டரீதியாக கூறப்பட்டுள்ள முறைப்படி நடத்தப்படும் எனவும், அடுத்த வருடம் உரிய காலப்பகுதியில் பொதுத் தேர்தலும் நடத்தப்படும் எனவும் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Speaker Mahinda Yapa Abeywardena has stated that the presidential election will be held in accordance with the legal election and the general election will be held in a timely manner next year.
 
 ◼️
 
 [Data](articles/4089062c.json)
+
+[Extended Data](ext_articles/4089062c.ext.json)
 
 ---
 
@@ -136,6 +242,20 @@ Dinal’s family say they believe a girl may have taken the images with Dinal be
 
 ---
 
+### ஊழியர்களின் போராட்டம் காரணமாக தென்கிழக்கு பல்கலைக்கழகத்தின் நடவடிக்கைகள் ஸ்தம்பிதம்!
+
+*2024-02-28 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177508) · `ta`
+
+நாடளாவிய ரீதியில் பல்கலைக்கழக தொழிற்சங்கங்களின் சம்மேளனம், முன்னெடுத்துள்ள தொடர்ச்சியான இரு நாட்கள் கொண்ட அடையாள வேலை நிறுத்தத்தின் எதிரொலியாக இன்று புதன்கிழமை (28) தென்கிழக்கு பல்கலைக்கழக ஊழியர்கள் முன்னெடுத்துள்ள போராட்டம் காரணமாக பல்கலைக்கழகத்தின் செயற்பாடுகள்  ஸ்தம்பித நிலையை அடைந்துள்ளன.
+
+நிறைவேற்று உத்தியோகத்தகள் சங்கத்தின் தலைவர் எம்.எச். நபார் மற்றும் கல்விசார ஊழியர்கள் சங்கத்தின் தலைவர் எம்.ரி.எம். தாஜுடீன் ஆகியோரது இணைந்த தலைமையில் இடம்பெற்ற குறித்த அடையாள வேலை நிறுத்த போராட்டத்தில் பெரும் அளவான ஊழியர்கள் பங்கு கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/127d97a0.json)
+
+---
+
 ### Timelines, predictability key issues for next sovereign debt roundtable - Georgieva
 
 *2024-02-28 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97591/timelines-predictability-key-issues-for-next-sovereign-debt-roundtable-georgieva) · `en`
@@ -153,6 +273,20 @@ Georgieva told Reuters she hoped to make progress on the issue when the roundtab
 [Data](articles/8c7d3f1d.json)
 
 [Extended Data](ext_articles/8c7d3f1d.ext.json)
+
+---
+
+### மட்டக்களப்பில் கிழக்குப் பல்கலைக்கழக ஊழியர்கள் சம்பள அதிகரிப்பு கோரி ஆர்ப்பாட்டம்
+
+*2024-02-28 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177505) · `ta`
+
+கிழக்கு பல்கலைக்கழக ஊழியர்களின் சம்பளப் பிரச்சினை மற்றும் ஊழியர்களுக்கு நீண்ட நாட்களாக தீர்க்கப்படாதுள்ள கோரிக்கைகளுக்கு தீர்வு கோரி இன்று  புதன்கிழமை (28) மட்டக்களப்பு அரசடியிலுள்ள கிழக்குப் பல்கலைக்கழக வெளிவாரி கற்கைகள்  நிலைய முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+அனைத்துப் பல்கலைக்கழக தொழிற்சங்க கூட்டமைப்பின் தீர்மானத்திற்கு  இணங்க நாட்டில் உள்ள அரச பல்கலைக்கழகங்களில் நாடளாவிய ரீதியில் முன்னெடுக்கப்படும் 28, 29 ஆகிய இருநாள் தொழிற்சங்க நடவடிக்கைகளுக்கு அமைவாக கிழக்குப் பல்கலைக்கழக ஊழியர் சங்கம் மற்றும் கிழக்குப் பல்கலைக்கழக நிருவாக உத்தியோகத்தர்கள் சங்கம் இணைந்து  மட்டக்களப்பில் வெளிவாரி கற்கைகள்  நிலையம் முன்பாக நூற்றுக்கு மேற்பட்ட கிழக்குப் பல்கலைக்கழக ஊழியர்கள் இன்றைய தினம் காலை ஒன்றினைந்தனர்.
+
+...
+
+[Data](articles/21c2d0cd.json)
 
 ---
 
@@ -215,6 +349,18 @@ The Maha Sangha, including the Maha Sangha, and ambassadors were present at the 
 [Data](articles/f52aa4e5.json)
 
 [Extended Data](ext_articles/f52aa4e5.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-02-28 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177500) · `ta`
+
+இன்று புதன்கிழமை (பெப்ரவரி 28) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 305.5624 ஆகவும் விற்பனை விலை ரூபா 315.2986 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/24fcfeaf.json)
 
 ---
 
@@ -510,17 +656,23 @@ Meanwhile, the human body is expected to feel high in the Western, North Western
 
 ---
 
-### අල්ලස් ගත් පොලිස් කොස්තාපල් දෙදෙනා පොලීසියෙන් නෙරපයි
+### Two police constables expelled from police
 
 *2024-02-28 12:10:26* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-පොලිස්-කොස්තාපල්-දෙදෙනා-පොලීසියෙන්-නෙරපයි/11-408325) · `si`
 
-රථවාහන නඩුවක් සම්බන්ධයෙන් පොලිස් භාරයට ගත් රියදුරු   බලපත්‍රයක් නැවත හිමිකරු වෙත ලබා දීමට හා නීති මගින් කටයුතු නොකර සිටීමට රුපියල් 10000/= අල්ලස් මුදලක් ලබා ගැනීමේ චෝදනාව මත අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කළ ඉත්තෑපාන පොලිසියේ පොලිස්  කොස්තාපල්වරුන් දෙදෙනාගේ රාජකාරී වැඩ තහනම් කර ඇතැයි පොලිස් මූලස්ථානය සඳහන් කරයි.
+The duties of the two police constables arrested on charges of a traffic laws have been banned on the owner of the resume of Rs.
 
-කළුතර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයා විසින් එලෙස වැඩ තහනම්  කර ඇත්තේ පොලිස් කොස්තාපල් 36168  එස් එම් හේවගේ හා 102636  එම් ඒ ඊ ටි මඩුගල්ල යන දෙදෙනාගේය.
+The senior police officer of the Kalutara SMC has banned the same as the police constable 36168 SM Hewage and 102636 MA Ti Madugalla.
 
-...
+The sustapile Hewage officer is accused of obtaining a driver's license to the owner and obtaining a driver's license at the suspect duty with the suspect monastery.The bribery or corresponding charges of the Investigation Commission (Investigation Commission) were arrested and produced before the court on the 26th of this month.
+
+The police headquarters further stated that the suspension has been banned from the interests of the two officers.
+
+◼️
 
 [Data](articles/4be7285d.json)
+
+[Extended Data](ext_articles/4be7285d.ext.json)
 
 ---
 
@@ -1897,151 +2049,5 @@ Meanwhile, Tamil National Alliance (TNA) leader Sivagnanam Shritharan said that 
 [Data](articles/86073f58.json)
 
 [Extended Data](ext_articles/86073f58.ext.json)
-
----
-
-### Yall. Struggle in front of the university
-
-*2024-02-28 02:57:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகம்-முன்பாக-போராட்டம்/175-333907) · `ta`
-
-The strike action is being carried out today and tomorrow in state universities across the country.
-
-The Jaffna University will take a protest today in support of the struggle.. The University Employees Union has announced. (A)
-
-◼️
-
-[Data](articles/93f1b136.json)
-
-[Extended Data](ext_articles/93f1b136.ext.json)
-
----
-
-### SLPP’s Uddika Premarathne quits Parliament due to disillusionment
-
-*2024-02-28 02:57:25* · [`dailyftlk`](https://www.ft.lk/news/SLPP-s-Uddika-Premarathne-quits-Parliament-due-to-disillusionment/56-758920) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Anuradhapura district MP Uddika Premarathne resigned from his position as a Member of Parliament yesterday, submitting his resignation to Speaker Mahinda Yapa Abeywardena citing frustrations at being unable to enact significant change as a young leader within the Government.
-
-In his letter, the MP expressed his initial aspirations to enter politics with the aim of instigating positive change and contributing as a youth leader, highlighting his disappointment at being unable to fulfil these ambitions.
-
-“Given the recent series of incidents that have led to disillusionment, despite my status as a Government MP, I have not been actively given the opportunity to contribute as a youth leader,” he said.
-
-...
-
-[Data](articles/bc845bd1.json)
-
-[Extended Data](ext_articles/bc845bd1.ext.json)
-
----
-
-### University non -academic staff striking
-
-*2024-02-28 02:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-கல்விசாரா-ஊழியர்கள்-வேலை-நிறுத்தம்/175-333906) · `ta`
-
-University non -academic staff will go on a two -day identity strike from today.
-
-University education and non -academic staff have recently carried out various trade union activities to increase their salary in the current economic situation. (A)
-
-◼️
-
-[Data](articles/412dab21.json)
-
-[Extended Data](ext_articles/412dab21.ext.json)
-
----
-
-### Strike Strike on 28th and 29th of State Universities - Jaffna. University staff
-
-*2024-02-28 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177462) · `ta`
-
-The Jaffna University Employees Union has announced that a two -day strike will take place on Wednesday (28) and Thursday (29) at state universities across the country.
-
-According to a letter issued to the Chairman of the University Grants Commission on 20.02.2024 of the All University Trade Union Federation, the two days of 28.02.2024 and 29.02.2024 in all university academic workers' salary conflict, salary increases and problems of university's issues and university.It has been decided to go on strike to protest the non -provision and seek an immediate solution, while on Thursday 29.02.2024, a protest demonstration in front of the University Grants Commission.
-
-Accordingly, the University Employees Union will take the strike on both the day of the Jaffna University and the two days of 28.02.2024 and 29.02.2024.
-
-...
-
-[Data](articles/083d7e9b.json)
-
-[Extended Data](ext_articles/083d7e9b.ext.json)
-
----
-
-### Pilgrimage
-
-*2024-02-28 02:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களின்-பேரணியில்-நீர்த்தாரை-பிரயோகம்/175-333905) · `ta`
-
-The students of Sri Jayawardenapura University students held a protest march yesterday afternoon.
-
-The protest was launched, pointing out many issues, including restaurant, hotels, Mahabola and repressive laws. (A)
-
-◼️
-
-[Data](articles/fcdeb643.json)
-
-[Extended Data](ext_articles/fcdeb643.ext.json)
-
----
-
-### Four people arrested for smuggling cows
-
-*2024-02-28 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177461) · `ta`
-
-Four people have been arrested on Tuesday night (27) on charges of carrying cows towards Parasutan without permission.
-
-Pudukkudiyiruppu police have arrested the persons and recovered the cows when they carried 33 cows through the road from the Independence area to Paradhan Road.
-
-It is noteworthy that the police are investigating the incident and are conducting a case in court and further investigations are being carried out.
-
-◼️
-
-[Data](articles/62c56c0a.json)
-
-[Extended Data](ext_articles/62c56c0a.ext.json)
-
----
-
-### Fresh relief for businesses struggling with loan repayments
-
-*2024-02-28 01:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Fresh-relief-for-businesses-struggling-with-loan-repayments/155-277847) · `en`
-
-Businesses showing support to fight against parate execution in the first ‘Anti-Parate Activist’ meeting held in December 2023 -Pic by Kithrisi de Mel
-
-Cabinet nod given to suspend the procedure to acquire properties of whose loans are not paid off by the banks up to 15 December
-
-Intense lobbying by ‘Anti-Parate Activists’ has finally pushed the authorities to make a decision that will weaken the strength of banks to support sectors
-
-Businesses struggling to repay loans can now let out a sigh of relief as a Cabinet decision has been announced that prevents banks from opting for aggressive recovery measures.
-
-Cabinet of Ministers on Monday approved the proposal to suspend the procedure to acquire properties whose loans are not paid off by the banks up to 15 December 2024. The nod was also given to amend section 4 of the Recovery of Loans by Banks (Special Provisions) Act No. 4 of 1990 to impose legal provisions required for the suspension.
-
-...
-
-[Data](articles/b5b2c04a.json)
-
-[Extended Data](ext_articles/b5b2c04a.ext.json)
-
----
-
-### Fresh relief for businesses struggling with loan repayments
-
-*2024-02-28 01:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fresh-relief-for-businesses-struggling-with-loan-repayments/108-277847) · `en`
-
-Businesses showing support to fight against parate execution in the first ‘Anti-Parate Activist’ meeting held in December 2023 -Pic by Kithrisi de Mel
-
-Cabinet nod given to suspend the procedure to acquire properties of whose loans are not paid off by the banks up to 15 December
-
-Intense lobbying by ‘Anti-Parate Activists’ has finally pushed the authorities to make a decision that will weaken the strength of banks to support sectors
-
-Businesses struggling to repay loans can now let out a sigh of relief as a Cabinet decision has been announced that prevents banks from opting for aggressive recovery measures.
-
-Cabinet of Ministers on Monday approved the proposal to suspend the procedure to acquire properties whose loans are not paid off by the banks up to 15 December 2024. The nod was also given to amend section 4 of the Recovery of Loans by Banks (Special Provisions) Act No. 4 of 1990 to impose legal provisions required for the suspension.
-
-...
-
-[Data](articles/ddd492f8.json)
-
-[Extended Data](ext_articles/ddd492f8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 11:51:56**
+As of **2024-02-28 12:02:42**
 
 ## Newspaper Stats
 
-*Scraped **9,749** Articles*
+*Scraped **9,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,103 @@ islandlk | 521
 adalk | 824
 adaderanalk | 1,174
 tamilmirrorlk | 1,189
-virakesarilk | 1,335
-dailymirrorlk | 1,472
-adaderanasinhalalk | 1,472
+virakesarilk | 1,337
+adaderanasinhalalk | 1,474
+dailymirrorlk | 1,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,749 (100.0%) of 9,749 articles have been extended.
+9,755 (100.0%) of 9,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Democrats want to contest Michelle Obama in response to US presidential election
+
+*2024-02-28 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177482) · `ta`
+
+The poll has revealed that Michelle Obama should contest on behalf of the Democratic Party in the US presidential election.
+
+The poll also reveals that the majority of Democrats think that Joe Bidan should not contest against Donald Trump in the presidential election.
+
+Democrats want Michelle Obama to contest against Donald Trump.
+
+Prior to the November election, 48 percent of the Democrats supported the party to appoint a different candidate in response to Jobitan.
+
+Meanwhile, 33 percent of the voters have expressed confidence that such a matter could occur at this moment.
+
+Although the Democrats are not in public regarding who should contest the election in response to Baidan, 20 percent mentioned Michelle Obama.
+
+The names of many, including Hamala Harris, are mentioned, but the former president's spouse has much support.
+
+◼️
+
+[Data](articles/33014c43.json)
+
+[Extended Data](ext_articles/33014c43.ext.json)
+
+---
+
+### Ensure students' education immediately to the problems that affect academic staff - Jaffna. University Student Union
+
+*2024-02-28 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177481) · `ta`
+
+The Jaffna University Students Union has said that the immediate solution to the problems that affect academic staff should be resolved and ensure the education of the students.
+
+This is what it stated in a media statement issued today. In the report further,
+
+University Employees' Union, the University Grants Commission and the Government of Sri Lanka, have been granted an immediate solution to the university's employees' union, the university's employees' union, the university's salary conflict, the salary increase and the problems that affect them, and our Jaffna University Employees' Association (Jaffna University Employees' Association (Jaffna University).
+
+As a Jaffna University Student Community, students of our Jaffna University Employees Union to carry out a two -day strike, we are offering moral and complete support to our seniors excluding our lectures.
+
+...
+
+[Data](articles/80cd1c16.json)
+
+[Extended Data](ext_articles/80cd1c16.ext.json)
+
+---
+
+### Governor's Directorate to take immediate action on the attack on a student at Nelliyadi Central College, Jaffna
+
+*2024-02-28 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177475) · `ta`
+
+Governor of the Northern Province BSMM to immediately investigate the attack on a newcomer student who enrolled in Grade 06 at Grade 06, Jaffna - Nelliyadi Central College.. According to Charles, the school principal and the Zonal Education Workshop have been instructed by the Governor's direct supervision to investigate the matter and submit a report on this issue.
+
+The Chancellor of the Nelliyadi Central College has said that the victim and the attacker are being investigated and taking appropriate action. Continuous surveillance will be carried out by the Governor's direct surveillance until the victim is given the appropriate solution to the incident.
+
+An attack on a newcomer who joined Grade 06 at Nelliyadi Central College, Jaffna. As the victim was admitted to the Point Pedro Base Hospital and admitted to the Jaffna Teaching Hospital for further treatment, the student went to the Governor's Secretariat and inquired about the attack on the student.
+
+◼️
+
+[Data](articles/152f0104.json)
+
+[Extended Data](ext_articles/152f0104.ext.json)
+
+---
+
+### IGP's hope
+
+*2024-02-28 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193904) · `si`
+
+IGP Deshabandu Tennakoon says that the world's advancement is the hope of following the Sri Lankan police.
+
+The IGP expressed his views to the officers who passed the certificates of the subject of the Sri Lanka Police Criminal Report.
+
+He added that the police department will be extended to make a broad change in the police.
+
+"The criminal records division contributes greatly to the operations that have ever started to eradicate crime repression and drug to eradicate drugs. In fact, in my vision, the world's advancement in the future we need to make a difference in the future of the Sri Lankan police to address the crime solving countries.. I was a senior DIG for more than 4 years. The last day of the Senior DIG in the Western Province has been the last day of the Senior DIG of the Western Province. This may be the final event that I have officially attended a senior DIG. I am thankful, with the work of taking closely support with me in the western crimes in Sri Lanka. "
+
+...
+
+[Data](articles/51f3dbd1.json)
+
+[Extended Data](ext_articles/51f3dbd1.ext.json)
+
+---
 
 ### Sri Lanka Telecom - Lanka Hospital Stock Affairs
 
@@ -70,21 +154,21 @@ Professor Break Vonk, one of the scientists involved in the Amazon forest resear
 
 ---
 
-### Governor's Directorate to take immediate action on the attack on a student at Nelliyadi Central College, Jaffna
+### Santhan, released convict in Rajiv Gandhi assassination case, dies
 
-*2024-02-28 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177475) · `ta`
+*2024-02-28 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Santhan-released-convict-in-Rajiv-Gandhi-assassination-case-dies/108-277882) · `en`
 
-Governor of the Northern Province BSMM to immediately investigate the attack on a newcomer student who enrolled in Grade 06 at Grade 06, Jaffna - Nelliyadi Central College.. According to Charles, the school principal and the Zonal Education Workshop have been instructed by the Governor's direct supervision to investigate the matter and submit a report on this issue.
+Feb 28 (The Indian Express) - Santhan alias T Suthendiraraja, a Sri Lankan national who was one of the six convicts released in the Rajiv Gandhi assassination case, died on Wednesday morning at the Rajiv Gandhi Government Hospital (RGGH) in Chennai.
 
-The Chancellor of the Nelliyadi Central College has said that the victim and the attacker are being investigated and taking appropriate action. Continuous surveillance will be carried out by the Governor's direct surveillance until the victim is given the appropriate solution to the incident.
+Santhan, who was released by the Supreme Court in November 2022, was kept at the special camp near the Tiruchirapalli Central Prison. Last week, the Foreigners Regional Registration Office (FRRO) in Chennai issued an order to deport Santhan to Sri Lanka; however, he was admitted to the RGGH for treatment for a kidney-related ailment.
 
-An attack on a newcomer who joined Grade 06 at Nelliyadi Central College, Jaffna. As the victim was admitted to the Point Pedro Base Hospital and admitted to the Jaffna Teaching Hospital for further treatment, the student went to the Governor's Secretariat and inquired about the attack on the student.
+Addressing the reports, E Thenirajan, Dean, RGGH, said that based on the directions of the Tiruchirapalli district collector, Santhan was admitted to the hospital on January 27. Thenirajan said a team of doctors were treating him at the Intensive Care Unit (ICU) and constantly monitoring him. He said Santhan was diagnosed with cryptogenic cirrhosis or a liver disease.
 
-◼️
+...
 
-[Data](articles/152f0104.json)
+[Data](articles/1e435c9e.json)
 
-[Extended Data](ext_articles/152f0104.ext.json)
+[Extended Data](ext_articles/1e435c9e.ext.json)
 
 ---
 
@@ -130,6 +214,28 @@ The poll conducted on 960 voters found little consensus on who should replace Bi
 
 ---
 
+### Rajiv Gandhi murder kills
+
+*2024-02-28 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193903) · `si`
+
+T. Ki Prime Minister Rajiv Gandhi was guilty of the assassination. Snaderararaja, or Shanthan, died at a Chennai Hospital.
+
+Indian media reports said he died at the Rajav Gandhi government hospital in Chennai.
+
+He was sentenced to punished for the assassination of Rajiv Gandhi.
+
+Shanthan was due to return to Sri Lanka to view his mother.
+
+But he was hospitalized due to a sudden kidney disease.
+
+◼️
+
+[Data](articles/0c16e7b5.json)
+
+[Extended Data](ext_articles/0c16e7b5.ext.json)
+
+---
+
 ### Israeli Ukraine tourists engaged in trading activities in the south of Sri Lanka - 99 years of lease
 
 *2024-02-28 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177472) · `ta`
@@ -153,6 +259,26 @@ Israeli tourists have also purchased land for 99 years.
 [Data](articles/d2700894.json)
 
 [Extended Data](ext_articles/d2700894.ext.json)
+
+---
+
+### Michelle Obama emerges as top contender to replace Biden
+
+*2024-02-28 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Michelle-Obama-emerges-as-top-contender-to-replace-Biden/108-277881) · `en`
+
+US, Feb 28 - According to a survey, Michelle Obama, the former first lady of the United States, is the front-runner to succeed President Joe Biden as the Democratic party’s presidential nominee.
+
+In the Rasmussen Reports polls, nearly half of the Democratic voters stated that they would like someone other than Joe Biden to run for US President.
+
+When asked if they were in favor of the party “finding another candidate to replace Joe Biden before the election in November,” 48% of Democrats responded in the affirmative, while 38% disagreed. Merely 33% of Democrats think there will be a change in the ballot.
+
+Michelle Obama received almost twenty percent of the vote among the candidates vying to replace 81-year-old Joe Biden. The other candidates included Michigan Governor Gretchen Whitmer, California Governor Gavin Newsom, former Secretary of State Hillary Clinton, and Vice President Kamala Harris.
+
+◼️
+
+[Data](articles/06268e2f.json)
+
+[Extended Data](ext_articles/06268e2f.ext.json)
 
 ---
 
@@ -1883,151 +2009,5 @@ The accident had occurred near the 85nd kilometer of the Expressway, they have c
 [Data](articles/20861d49.json)
 
 [Extended Data](ext_articles/20861d49.ext.json)
-
----
-
-### IP is abroad in the face of underworld threats
-
-*2024-02-27 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193889) · `si`
-
-The Organized Criminal Division of the Colombo Crimes Division, OIC of the Organized Crime Division of the Colombo Crimes Division has been abroad in the face of threats to he and his family members.
-
-Among the deaths he had threatened with Kajipani Imrain.
-
-On the 14th, Inspector Duminda Jayatilleke was abroad.
-
-With private security, he had gone to France from Bandaranaike International Airport and had been a death threats to be threatened by underworld gang members.
-
-He had telephoned Hyinatiyatiyania Mahh, saying that he was the underworld gangs of the extortion.
-
-Investigations were carried out by police inspector Duminda Jayatilleke during the recent past the recently.
-
-With the arrest of several suspects in investigations, the police inspector had been threatened with death.
-
-According to the Colombo Crimes Division, the Colombo Crimes Duminda Jayatilleke had issued a official firearm to possess the threat from underworld gang members.
-
-...
-
-[Data](articles/5eb797be.json)
-
-[Extended Data](ext_articles/5eb797be.ext.json)
-
----
-
-### India to push rupee investments in Sri Lanka
-
-*2024-02-27 19:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-to-push-rupee-investments-in-Sri-Lanka/108-277825) · `en`
-
-Colombo, Feb 27 (Mint) - The government of Sri Lanka is working on operationalizing Rupee investments in Sri Lanka in a move to boost Indian investments in its southern neighbour, two people aware of the matter told Mint.
-
-Rupee investments will ease the way for Indian firms to enter the Sri Lankan markets, the people mentioned above said, speaking under the condition of anonymity.
-
-During FY 2023, the Reserve Bank of India (RBI) allowed invoicing and payments for international trade in the Indian Rupee.
-
-This allowed exports and imports to be denominated and invoiced in Indian rupees, with the settlement of trade transactions taking place in the currency.
-
-The RBI's decision is aimed at promoting the growth of global trade, especially Indian exports, apart from systematically internationalizing the currency. India wants the Indian Rupee to be a hard currency in the future, the second person mentioned above said.
-
-...
-
-[Data](articles/e0935d31.json)
-
-[Extended Data](ext_articles/e0935d31.ext.json)
-
----
-
-### Sri Lanka to implement a credit scheme to revive MSMEs sector
-
-*2024-02-27 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97574/sri-lanka-to-implement-a-credit-scheme-to-revive-msmes-sector) · `en`
-
-Cabinet approval has been granted to implement a project funded by the Asian Development Bank (ADB) to provide credit facilities at concessional interest rates to existing micro, small and medium-scale enterprises (MSMEs) in Sri Lanka for further expansion and recovery of their businesses.
-
-The government said a significant number of small and medium-scale entrepreneurs involved in manufacturing, import, export, tourism, apparel and various other commercial operations have found it very difficult to continue running their enterprises as a result of the economic downturn and the impact of external factors beyond their control.
-
-The Asian Development Bank has agreed to provide working capital support for the small and medium enterprise sector as a relief, the Government Info. Department said.
-
-...
-
-[Data](articles/94050bb4.json)
-
-[Extended Data](ext_articles/94050bb4.ext.json)
-
----
-
-### IGP promise a promise to Supreme Court
-
-*2024-02-27 19:10:18* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිගෙන්-ශ්‍රේෂ්ඨාධිකරණයට-පොරොන්දුවක්/11-408310) · `si`
-
-When a person summoned a complaint to the police to make a statement in relation to a complaint, the IGP, Calithman Tennakoon, promised the Supreme Court today.
-
-Energy Specialist Way. Senior Attorney-at-Law Chairman, Senior Attorney, appearing on behalf of the IGP of the Judiciary, has promised the Inspector General of Police.
-
-The petition was considered in the face of Supreme Court Judge Gamini Amarasekera Janak de Silva and Shiran Gunaratne.
-
-Energy expert on good. P. IGP Deshabandu Tennakoon and several others have been named as respondents in the petition filed by Ralapana.
-
-The petitioner Energy expert expertise has been told by criticizing this principal rights petition and told him to visit the police to report a statement.
-
-The petitioner is requested to issue a series of guidelines to the police to convey the law to take a statement to take a statement.
-
-...
-
-[Data](articles/4ac90490.json)
-
-[Extended Data](ext_articles/4ac90490.ext.json)
-
----
-
-### 10 Srilankara travel is still late in late
-
-*2024-02-27 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193888) · `si`
-
-More than ten travels in SriLankan Airlines, three more flights were completely canceled today.
-
-Such a situation was created last Sunday flights, and four hours before, 48 hours before it was before.
-
-SriLankan Airlines says it will take up to five days to get back to normal.
-
-SriLankan Airlines delay and some traversal flights were reported last days, and the closest event was reported last Sunday.
-
-The airport staff workers were severely blamed for the airport staff, the patronage of the aircraft had aimed at the event of a plane and the aircraft had a pressure delay.
-
-At a press conference, the Chairman of the SriLankan said that the airline owns sufficient flights.
-
-In such a background, more than 10 flights were late today.
-
-It is reported that nearly three flights have been coffected today.
-
-It is reported that the UL121 Chennai, UL364 Jakarta, Ul314 Dhaka has been launched this morning.
-
-It is reported that UL265 Riyadh, UL470 Seoul, UL103, UL225 Dubai and UL222, is also delayed this afternoon.
-
-...
-
-[Data](articles/9fed8bd3.json)
-
-[Extended Data](ext_articles/9fed8bd3.ext.json)
-
----
-
-### Sri Lanka aiming for US$200mn ADB water sector loans: Minister
-
-*2024-02-27 19:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-aiming-for-us200mn-adb-water-sector-loans-minister-152284/) · `en`
-
-ECONOMYNEXT – Sri Lanka is working with the Asian Development Bank to get 200 million US dollars of loans, linked to water sector reforms, Minister of Water Supply, Jeevan Thondaman said.
-
-The funds will come as a policy based loan in subprogram 1 and another 100 million dollars under sub program II, he said.
-
-“Seventy five percent of our reforms are complete and we are sure we would be able to carry it forward,” Minister Thondaman told reporters in Colombo.
-
-Sri Lanka’s National Water Supply and Drainage Board has unremunerated water (losses) which authorities have been trying to cut for many years.
-
-The NSWDB had also borrowed dollar loans in the past. (Colombo/Feb27/2024)
-
-◼️
-
-[Data](articles/a534b083.json)
-
-[Extended Data](ext_articles/a534b083.ext.json)
 
 ---

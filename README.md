@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 20:02:19**
+As of **2024-02-28 20:17:22**
 
 ## Newspaper Stats
 
-*Scraped **9,849** Articles*
+*Scraped **9,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 503
 dailyftlk | 519
 islandlk | 521
-adalk | 834
+adalk | 837
 adaderanalk | 1,187
-tamilmirrorlk | 1,200
+tamilmirrorlk | 1,201
 virakesarilk | 1,355
 dailymirrorlk | 1,489
 adaderanasinhalalk | 1,496
@@ -26,23 +26,25 @@ adaderanasinhalalk | 1,496
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,839 (99.9%) of 9,849 articles have been extended.
+9,849 (100.0%) of 9,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### පුංචි පුතුගේ වීඩියෝව ෆේස්බුක් දැමූ අයට වැඩ වරදියි
+### Little Son's Video Works for Facebook
 
 *2024-02-28 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193929) · `si`
 
-මේ අතර කුඩා දරුවෙක් පාසලේ පන්ති කාමරය තුළ ගුරුවරියක විසින් අපහසුතාවට පත්කරන ආකාරය දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය වෙමින් තිබේ.
+Meanwhile, a video showing how a child is embarrassed by a teacher in the school room in the school's classroom.
 
-එහිදී ඔවුන් පැවසුවේ අදාළ සිදුවීම රූගත කිරීම සිදුකළේ කවුරුන්ද යන්න සොයා බලා එය සිදුකර ඇත්තේ ගුරුවරයෙකු හෝ ගුරුවරියක නම් ඊට එරෙහිව විනය ක්‍රියාමාර්ග ගන්නා බවය.
+They said that disciplinary action was taken by a teacher or teacher who was involved in the filming of the incident.
 
 ◼️
 
 [Data](articles/ae67e15d.json)
+
+[Extended Data](ext_articles/ae67e15d.ext.json)
 
 ---
 
@@ -60,29 +62,55 @@ Colombo, Feb. 28 (Daily Mirror)- National People's Power (NPP) MP Harini Amarasu
 
 [Data](articles/fae347ba.json)
 
+[Extended Data](ext_articles/fae347ba.ext.json)
+
 ---
 
-### මිනිස් ජීවිතයකට පාතාලේ තැබූ අලුත්ම ලංසුව
+### The latest bid that put on human life
 
 *2024-02-28 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193928) · `si`
 
-ඩුබායීහී රැඳී සිටින රවී නැමැත්තෙකු විසින් ලබාදුන් රුපියල් ලක්ෂ 3ක කොන්ත්‍රාත්තුවක් මත වැල්ලේ සුරංගගේ මස්සිනා ඝාතනය සිදුකර ඇති බව මේ වනවිට පොලීසිය අනාවරණ කරගෙන තිබේ.
+The police have revealed that the shop of Suranga Suranga's brother-in-law has been conducted on a contract of Rs.
 
-වැල්ලේ සාරංග නම් අපරාධකරුගේ මස්සිනාව මහබාගේ, ඇලපිටිවල ප්‍රදේශයේදී යතුරුපැදියකින් පැමිණි නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු විසින් වෙඩි තබා ඝාතනය කළේ පසුගිය 21වනදාය.
+Saranga, Assistant Kisina, was shot dead by two unidentified shooters from Mahabage and Claiwita area in general area Mahabage.
 
-මෙම ඝාතනය සිදුකිරීමට පැමිණි යතුරුපැදිකරු සූරියවැව ආඬිගම ප්‍රදේශයේදී අද අලුයම පොලිස් විශේෂ කාර්ය බලකාය සමග ඇති වූ වෙඩි හුවමාරුවකදී මියගොස් තිබේ.
+The motorcyclist who had come to take the murder was killed in a shooting with the STF in Mahaiyawewa in Mahariyawewa this morning.
 
-සිද්ධිය පිළිබඳ විමර්ශන සිදුකළ පොලිස් විශේෂ කාර්ය බලකාය ඝාතන සිද්ධියේ  වෙඩික්කරු සහ  ආධාර අනුබල දුන් පුද්ගලයෙකු පසුගිය සෙනසුරාදා අත්අඩංගුවට ගත්තේය.
+The shooter and a person who supported the murder of the Police Special Task Force on the incident was arrested last Saturday.
 
-එහිදී අනාවරණ වී තිබුණේ වෙඩික්කරු යුද හමුදාවේ සක්‍රීය සේවයේ නිරතව සිටින අයෙක් බවය.
+The shooter was in an active service of the Army.
 
-සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අනාවරණ වී ඇත්තේ, වෙඩික්කරු පැමිණි යතුරුපැදිය පැදවූ පුද්ගලයා සූරියවැව, ආඬිගම කැලෑබද ප්‍රදේශයක වූ වාඩියක සැඟව සිටින බවය.
+Disclosed in interrogation from the suspects, the shooter ride was hiding in a vulnerability in Sooriyawewa, Athigama.
 
-පසුව පොලිස් විශේෂ කාර්ය බලකාගේ නිලධාරී කණ්ඩායමක් අද අළුයම සැකකරු අත්අඩංගුවට ගැනීමට එම ප්‍රදේශයට ගොස් තිබේ.
+A team of STF personnel has gone to the arrest of the suspect this morning.
+
+The suspect has been shot toward investigations into the investigation officials.
+
+The suspect was injured in admission to the Suriyawewa hospital.
 
 ...
 
 [Data](articles/b6dbb0b6.json)
+
+[Extended Data](ext_articles/b6dbb0b6.ext.json)
+
+---
+
+### කළුතර උපත් වසර පහක් තුළ 2983කින් අඩුවෙයි
+
+*2024-02-28 19:06:26* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-උපත්-වසර-පහක්-තුළ-2983කින්-අඩුවෙයි/11-408333) · `si`
+
+කළුතර දිස්ත්‍රික්කයේ අලුත උපන් දරු උපත් වසර පහක් තුළ 2983 කින් අඩුවී ඇතැයි කළුතර සෞඛ්‍ය සේවා අධ්‍යක්ෂක කාර්යාලයේ මාතෘ හා ළමා සෞඛ්‍ය වෛද්‍ය නිලධාරී සුනෙත් ශ්‍රී සුදර්ශන මහතා පැවසීය.
+
+2019 වසරේදී 1000ට 13 ප්‍රතිශතයක්ව තිබූ දරු උපත් වර්ධනය 2023 වසරේදී 1000 9 දශම 8 දක්වා පහත බැස ඇති බව ඒ මහතා කීය.
+
+2019 වසරේ දරු උපත් 11617 ක් ,2020 දරු උපත් වසරේ 11124 ක්, 2021 දරු උපත් වසරේ 10787ක් 2022 වසරේ දරු උපත්  9815ක් 2023 වසරේ දරු උපත් 8634දක්වා පහත බැස ඇති බව ඒ මහතා පවසයි.
+
+මේ ආකාරයෙන් දරු පත් සීඝ්‍ර ලෙස වසරෙන් වසර අඩුවීම සම්බන්ධයෙන් විශේෂ අවධානයක් යොමුකර කළුතර දිස්ත්‍රික් සෞඛ්‍ය සේවා අධ්‍යක්ෂක විශේෂඥ වෛද්‍ය සුමල් නන්දසේන මහතාගේ උපදෙස් මත  විශේෂ සමීක්ෂණයක් සිදුකර  ඊට ප්‍රතිකර්ම යෙදීම සඳහා සෞඛ්‍ය සේවා කාර්යාල මට්ටමින්  විශේෂ වැඩසටහන් මාලාවක්  මේ වන විටත් ආරම්භ කර ඇතැයි වෛද්‍ය සුදර්ශන මහතා වැඩිදුරටත් පැවසීය
+
+◼️
+
+[Data](articles/421960a3.json)
 
 ---
 
@@ -104,21 +132,23 @@ The Court of Appeal registrar was directed to issue notice and the interim order
 
 ---
 
-### ”பிரதமர் பதவிக்கு பஷில் களமிறங்குவார்”
+### “Bashil will be the Prime Minister's post”
 
 *2024-02-28 18:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-பதவிக்கு-பஷில்-களமிறங்குவார்/175-333959) · `ta`
 
-எதிர்வரும் பாராளுமன்றத் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பிரதமர் வேட்பாளராக பசில் ராஜபக்ச களமிறங்குவார் என ரஷ்யாவுக்கான இலங்கையின் முன்னாள் தூதுவர் உதயங்க வீரதுங்க தெரிவித்துள்ளார்.
+Former Sri Lankan Ambassador to Russia Udayanga Weeratunga has said that Basil Rajapaksa will field the prime ministerial candidate of the Sri Lanka PA.
 
-பாராளுமன்றத் தேர்தலை இலக்காகக் கொண்டு பசில் ராஜபக்ச அடுத்த வாரம் அமெரிக்காவில் இருந்து வரவுள்ளதாக ராஜபக்ச குடும்பத்தின் நெருங்கிய உறவினர் வீரதுங்க தெரிவித்துள்ளார்.
+Veeratunga, a close relative of the Rajapaksa family, has said that Basil Rajapaksa will come from the US next week to target the parliamentary election.
 
-சிரேஷ்ட ஊடகவியலாளர் சமுதித சமரவிக்ரமவிடம் கருத்து தெரிவித்த அவர், ஜனாதிபதி தேர்தலை அல்ல பாராளுமன்ற தேர்தலே முதலில் நடத்தப்படும் என நம்புவதாகவும் தெரிவித்தார்.
+Commenting on Senior Journalists Society Samarawickrama, he said he hoped the presidential election would be held first, not the parliamentary election.
 
-2024ஆம் ஆண்டு மார்ச் மாதம் 05ஆம் திகதி பசில் ராஜபக்ச இலங்கைக்கு வரும் போது அவருக்கு மாபெரும் வரவேற்பு அளிக்கப்படும் என்றும், வாகன அணிவகுப்பு அவரை கொழும்புக்கு அழைத்து வரும் என்றும் அவர் கூறினார்.
+He said that when Basil Rajapaksa arrived in Sri Lanka on the 5th of March 2024, he would be welcomed and the vehicle parade would be brought to Colombo.
 
 ◼️
 
 [Data](articles/d978d1ab.json)
+
+[Extended Data](ext_articles/d978d1ab.ext.json)
 
 ---
 
@@ -140,33 +170,51 @@ Meanwhile, S. C. Mutukumarana is tipped to fill the relevant parliamentary vacan
 
 ---
 
-### மார்ச்சில் கனடா பயணமாகிறார் அநுர
+### පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක් හිස්ව ඇති බව මැතිවරණ කොමිෂමට දන්වයි
+
+*2024-02-28 18:55:58* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-මන්ත්‍රීධුරයක්-හිස්ව-ඇති-බව-මැතිවරණ-කොමිෂමට-දන්වයි/11-408332) · `si`
+
+අනුරාධපුර මැතිවරණ කොට්ඨාශයේ පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතා 2024 පෙබරවාරි  මස 26 වැනි දින සිට බල පැවැත්වෙන පරිදි පාර්ලිමේන්තු අසුනෙන් ඉල්ලා අස්වීම හේතුවෙන් නව වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක පුරප්පාඩුවක් ඇති වී තිබෙන බව පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණධීර මහත්මිය  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා තිබේ.
+
+1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම් දීම සිදුකර ඇත.
+
+◼️
+
+[Data](articles/fad286e4.json)
+
+---
+
+### Anura travels Canada in March
 
 *2024-02-28 18:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மார்ச்சில்-கனடா-பயணமாகிறார்-அநுர/175-333958) · `ta`
 
-தேசிய மக்கள் சக்தியின் (NPP) தலைவர் அனுரகுமார திஸாநாயக்க அடுத்த மாதம் கனடாவுக்குச் சென்று அங்கு வசிக்கும் இலங்கையர்களிடம் உரையாடவும், சில கனேடிய அரசியல்வாதிகளைச் சந்திக்கவும் திட்டமிட்டுள்ளதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+The Daily Mirror has reported that the National People's Power (NPP) leader Anuragumara Dissanayake is planning to visit Canada next month and meet with Sri Lankans living there and meet some Canadian politicians.
 
 ◼️
 
 [Data](articles/a5cdad79.json)
 
+[Extended Data](ext_articles/a5cdad79.ext.json)
+
 ---
 
-### கழன்ற சக்கரத்துடன் பொலிஸில் முறைப்பாடு
+### Complaint by the police with the wheel
 
 *2024-02-28 18:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழன்ற-சக்கரத்துடன்-பொலிஸில்-முறைப்பாடு/175-333957) · `ta`
 
-இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேரூந்தின் முன் சக்கரம், வாகனம் சென்று கொண்டிருந்த போது கழன்று விழுந்து விபத்துக்குள்ளானதில், அருகில் உள்ள கடை ஒன்று நேற்று சேதமடைந்துள்ளதாக, பொலிஸார் தெரிவித்தனர்.
+A nearest shop was damaged yesterday, when the vehicle of the Sri Lanka Transport Board, which belongs to the Sri Lanka Transport Board, crashed into the vehicle after the vehicle crashed, police said.
 
-யட்டியந்தோட்டையில் இருந்து அவிசாவளை நோக்கி பயணித்த பேருந்தின் சக்கரமே இவ்வாறு கழன்று விழுந்ததாக அவர்கள் தெரிவித்தனர்.
+They said that the wheel of the bus traveling from Yattiyantota to Avissawella was the wheel.
 
-சிதறிய சக்கரம் முச்சக்கரவண்டி மற்றும் கணினி பழுதுபார்க்கும் கடைக்கு சேதம் விளைவித்துள்ளது, ஆனால் யாருக்கும் காயங்கள் ஏற்படவில்லை.
+The scattered wheel has damaged the three -wheeler and the computer repair shop, but no one has no injuries.
 
-கடை உரிமையாளரும் முச்சக்கரவண்டி உரிமையாளரும் கழன்ற சக்கரத்தை யட்டியாந்தோட்டை பொலிஸாரிடம் ஒப்படைத்ததுடன், ஏற்பட்ட சேதங்களுக்கு நட்டஈடு வழங்கப்படாமல் பஸ்ஸை அவ்விடத்திலிருந்து எடுத்துச் செல்ல அனுமதிக்க மாட்டோம் என தெரிவித்தனர்.
+The shop owner and the three -wheeler owner handed over the wheel to the Yatiyantota police and said they would not allow the bus to be taken away without compensation for the damage.
 
 ◼️
 
 [Data](articles/d0bdba39.json)
+
+[Extended Data](ext_articles/d0bdba39.ext.json)
 
 ---
 
@@ -210,19 +258,21 @@ In response to the incident, area residents had blocked the railway track in pro
 
 ---
 
-### පුත්තලම දුම්රිය අතරමග නතරකළ විරෝධය
+### Objection to Puttalam train
 
 *2024-02-28 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193927) · `si`
 
-පුලිච්චාකුලම දුම්රිය ස්ථානය ආසන්නයේදී දුම්රියක් නතර කළ ගම්වාසීන් පිරිසක් විරෝධතාවයේ නිරත වීමත් සමග මේ වනවිට එම ස්ථානයේ උණුසුම් තත්ත්වයක් ඇතිවී තිබේ.
+A warm quality of the village has arisen in the area with a protest with a protest in the area near the Pulichhekalakalakulam station.
 
-එම දුම්රිය අද දහවල් හලාවත සිට පුත්තලම බලා ගමන්කරමින් තිබියදී එහි යතුරුපැදියකින් ගමන්කළ තරුණයෙකු ගැටී මියගොස් තිබේ.
+The train was killed and a young man who traveled from the motorcycle to Puttalam from the afternoon.
 
-අනතුරුව එම දුම්රිය නැවත පුත්තලම සිට හලාවත බලා ධාවනය වෙමින් තිබියදී මෙලෙස පුලිච්චාකුලම දුම්රිය ස්ථානය ආසන්නයේදී ගම්වාසීන් විසින් දුම්රිය මග හරස්කර විරෝධතාවයක් ආරම්භ කර ඇත.
+The railway track protest has launched a protest by the villagers near the Chilawkulam railway station, while the trains were traveling from Puttalam to Chilaw.
 
 ◼️
 
 [Data](articles/76b9a401.json)
+
+[Extended Data](ext_articles/76b9a401.ext.json)
 
 ---
 
@@ -246,21 +296,43 @@ Wanindu Hasaranga is the leader of the group, but he is deprived of playing the 
 
 ---
 
-### අහස වසාගත් කළු දුමට හේතුව මෙන්න
+### ගාල්ලේ කඳුකර ප්‍රදේශ සංවර්ධනයට කෝටි 40ක්
+
+*2024-02-28 18:15:16* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලේ-කඳුකර-ප්‍රදේශ-සංවර්ධනයට-කෝටි-40ක්/11-408330) · `si`
+
+ගාල්ල දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 04ක ජනතාවගේ පොදු යටිතල පහසුකම් වැඩිදියුණු කිරීම සඳහා රුපියල් මිලියන 400ක් වෙන්කර ඇති බව නාගරික සංවර්ධන සහ නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අද (28) ගාල්ලේ දී පැවසීය.
+
+ඔහු මේ බව කියා සිටියේ අද (28) ගාල්ල හෝල් ඩි ගෝල් ශාලාවේ දී පැවැති විශේෂ සම්බන්ධීකරණ කමිටු රැස්වීමේ දී ය.
+
+ශ්‍රී ලංකාවේ දිස්ත්‍රික්ක 11ක ක්‍රියාත්මක කරන “කඳුකර දශකය” බහුකාර්ය ග්‍රාමීය හා ප්‍රජා සංවර්ධන වැඩසටහන පිළිබඳව රාජ්‍ය නිළධාරීන් දැනුම්වත් කිරීම සඳහා ප්‍රසන්න රණතුංග අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් මෙම රැස්වීම පැවැත්විණි.
+
+එහි දී අමාත්‍යවරයා කියා සිටියේ 2024 වර්ෂයේ සිට 2033 වර්ෂය දක්වා ක්‍රියාත්මක කරනු ලබන මෙම දස අවුරුදු වැඩසටහන යටතේ එම දිස්ත්‍රික්ක 11 සඳහා ම රුපියල් මිලියන 10,000ක් මෙවර අයවැයෙන් වෙන්කර ඇති බවයි.
+
+ඒ අනුව ගාල්ල දිස්ත්‍රික්කයේ නෙළුව, නාගොඩ, තවලම සහ නියාගම ප්‍රාදේශීය ලේකම් කොට්ඨාස 04 හි ග්‍රාම නිලධාරී වසම් 157ක් මේ වැඩසටහන සඳහා තෝරාගෙන තිබේ.
+
+...
+
+[Data](articles/39cbd281.json)
+
+---
+
+### Here is the cause of black smoke that covered the sky
 
 *2024-02-28 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193926) · `si`
 
-කඩුවෙල බණ්ඩාරවත්ත ප්‍රදේශයේ පිහිටි ජල සම්පාදන මණ්ඩලයට අයත් ජලනළ ගබඩා කර තිබූ ඉඩමකට කිසියම් පුද්ගලයෙකු විසින් ගිනිතබා තිබේ.
+A person has set fire to the water supply land belonging to the Water Supply Board in Bandarawatta, Kaduwela.
 
-අප වාර්තාකරු පැවසුවේ මේ වනවිට ගිනි නිවීමේ ඒකක පැමිණ ගින්න පාලනය කරමින් සිටින බවය.
+Our correspondent said that the fire brigade will come and control the fire.
 
-ගින්න හේතුවෙන් ජල සම්පාදන මණ්ඩලයට ජලනළ රැසකට දැඩි හානි සිදුව තිබේ.
+Due to the fire, the Water Supply Board has been severely damaged.
 
-එසේම ගින්නත් සමග නැගුණු විශාල කළු දුමාරය ප්‍රදේශ කිහිපයකට දිස්වූ අතර එම වීඩියෝ දර්ශන සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වීමත් සමග ඒ පිළිබදව විශාල කතාබහක් ඇතිවිය.
+The big black smoke raised with the fire appeared in several areas, and the video was exchanged videos in the social media.
 
 ◼️
 
 [Data](articles/331d94d8.json)
+
+[Extended Data](ext_articles/331d94d8.ext.json)
 
 ---
 
@@ -286,19 +358,21 @@ We will negotiate with all parties to establish a humanitarian political coaliti
 
 ---
 
-### විදුලි බිල සංශෝධනය ගැන අලුත් ආරංචියක්
+### New news about electricity tariff
 
 *2024-02-28 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193925) · `si`
 
-මහජන උපයෝගීතා කොමිසමේ සාමාජිකයින් රැස්වී අද දහවල් විදුලි බිල අඩුකිරීම සම්බන්ධයෙන් සාකච්ඡා කරනු ලැබීය.
+Members of the Public Utilities Commission were discussed today and the increase in electricity tariffs.
 
-කෙසේ වෙතත් එම සාකච්ඡාවෙන් අනතුරුව මහජන උපයෝගීතා කොමිසමේ සාමාජිකයින් පැවසුවේ අද ඒ සම්බන්ධයෙන් අවසන් තීරණයක් නොගත් බවය.
+However, after that discussion, members of the Public Utilities Commission said that it was not a final decision regarding today.
 
-කෙසේ වෙතත් විදුලි බිල අඩුකිරීම සම්බන්ධයෙන් තීරණයක් ගැනීම සඳහා යළි එළඹෙන සිකුරාදා රැස්වන බවද මහජන උපයෝගීතා කොමිසමේ සාමාජිකයින් වැඩිදුරටත් සඳහන් කළේය.
+However, members of the Public Utilities Commission further stated that it will meet again to make a decision on reducing the electricity bill.
 
 ◼️
 
 [Data](articles/df9f4c1c.json)
+
+[Extended Data](ext_articles/df9f4c1c.ext.json)
 
 ---
 
@@ -705,6 +779,22 @@ On behalf of the CWC, S. Irajamani, a member of the Tea Production Council and A
 [Data](articles/2a26e409.json)
 
 [Extended Data](ext_articles/2a26e409.ext.json)
+
+---
+
+### தெருநாய்கள் தாக்கியதில்   2 வயது சிறுவன் உயிரிழப்பு
+
+*2024-02-28 15:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெருநாய்கள்-தாக்கியதில்-2-வயது-சிறுவன்-உயிரிழப்பு/175-333949) · `ta`
+
+மத்திய பிரதேசம் மாநிலம் பத்வானியில் தெருநாய்கள் தாக்கியதில் 2 வயது சிறுவன் உயிரிழந்த சம்பவம் அப்பகுதி மக்களிடையே அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+உயிரிழந்த சிறுவனின் வீட்டுக்கு அருகில் ஆட்டிறைச்சி சந்தை உள்ளது. இதனால் அந்த பகுதியை சுற்றிலும் தெருநாய்கள் நடமாட்டம் அதிகமாக இருந்துள்ளன. இந் நிலையில் சம்பவத்தன்று சிறுவன் வீட்டை விட்டு வெளியே வந்தபோது, சிறுவனை சுற்றி வளைத்த தெருநாய்கள் பயங்கரமாக தாக்கியுள்ளன.
+
+அப்போது விரைந்து வந்த சிறுவனின் பாட்டி, நாய்களின் பிடியில் இருந்து சிறுவனை விடுவித்தார். ஆனால் அதற்குள் சிறுவன் பலத்த காயமடைந்தான். இதையடுத்து உடனடியாக சிறுவனை மருத்துவமனைக்கு அழைத்துச் சென்றனர். ஆனால் செல்லும் வழியில் சிறுவன் உயிரிழந்தான்.
+
+...
+
+[Data](articles/f62cd9ee.json)
 
 ---
 
@@ -1348,6 +1438,8 @@ He said even the concerned citizens could comment on the EIA, while it is open f
 
 [Data](articles/ba547ce4.json)
 
+[Extended Data](ext_articles/ba547ce4.ext.json)
+
 ---
 
 ### Woman arrested for making a dream dream
@@ -1927,91 +2019,5 @@ A official firearm had been issued to Inspector Duminda to have the security of 
 [Data](articles/0ae3fd4d.json)
 
 [Extended Data](ext_articles/0ae3fd4d.ext.json)
-
----
-
-### SLPP Parlimentarian accused of land grab in Kalpitiya
-
-*2024-02-28 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-Parlimentarian-accused-of-land-grab-in-Kalpitiya/108-277880) · `en`
-
-Puttalam District SLPP Parliamentarian Chinthaka Mayadunna is accused of being involved in land grabbing in Kalpitiya to distribute amongst the Muslim and Tamil communities, eyeing their votes at the upcoming elections.
-
-Mayadunna and his Secretary Mendis have instigated the Muslim and Tamil communities in the area to trespass private lands promising them ownership to these lands.
-
-Meanwhile, Acting Divisional Secretary (ADS) Kalpitiya, S. Nandasena too has come under severe criticism for aiding and abetting Mayadunna in his misdeeds. It is reported that two workers working on a 43 acre land belonging to Shirani Kotalawela had been chased away by the ADS claiming that they did not have any authority to work on ‘state’ land.
-
-In order to prove that this is a state land and did not belong to any private party, last week, Nandasena had got the Survey’s Department to survey the land seeking a conformation on its ownership.
-
-...
-
-[Data](articles/0cfba7d1.json)
-
-[Extended Data](ext_articles/0cfba7d1.ext.json)
-
----
-
-### Sri Lanka seeks Korea investment for renewable and nuclear energy
-
-*2024-02-28 10:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-korea-investment-for-renewable-and-nuclear-energy-152355/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy has met the Ambassador of the Republic of Korea to discuss energy cooperation between the two countries.
-
-“A discussion was held on energy cooperation with HE Miyon Lee, to Sri Lanka at the Ministry of Power and Energy today,” Kanchana Wijesekera said on X (twitter).
-
-The Republic of Korea produces large amounts of energy from floating solar panels and nuclear power plants, Wijesekera pointed out, adding, “We discussed the possible energy cooperation for RE development through floating solar and nuclear energy with technical and financial assistance from the Republic of Korea and its investors.”
-
-Russia United States, India, and France were among countries that had offered nuclear power technology, but Sri Lanka was not yet ready to accommodate nuclear plants, Minister Wijesekera told parliament last November.
-
-“The Atomic Energy Agency, the international agencies are all helping us to identify the best technology that is needed.”
-
-...
-
-[Data](articles/0d5441f8.json)
-
-[Extended Data](ext_articles/0d5441f8.ext.json)
-
----
-
-### Michelle Obama, leading choice to replace Joe Biden as presidential candidate: Poll
-
-*2024-02-28 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97586/michelle-obama-leading-choice-to-replace-joe-biden-as-presidential-candidate-poll) · `en`
-
-Nearly half of Democrat voters do not want US President Joe Biden to go into a run-in with his predecessor Donald Trump for the keys to the White House, come November, a new poll has revealed.
-
-Instead, the Democrats want former first lady Michelle Obama to replace him as the party’s frontrunner.
-
-The poll survey data released by Rasmussen Reports on Monday (Feb 26) shows that about 48 per cent of Democrats approve of the party “finding another candidate to replace Joe Biden before the election in November”, compared to 38 per cent who disapprove.
-
-However, only 33 per cent believe that such a ballot shakeup, this late in the presidential campaign was likely to happen.
-
-The poll conducted on 960 voters found little consensus on who should replace Biden on the ballot but Obama, 60, led with 20 per cent of respondents voting for her.
-
-...
-
-[Data](articles/22428b3c.json)
-
-[Extended Data](ext_articles/22428b3c.ext.json)
-
----
-
-### Rajiv Gandhi murder kills
-
-*2024-02-28 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193903) · `si`
-
-T. Ki Prime Minister Rajiv Gandhi was guilty of the assassination. Snaderararaja, or Shanthan, died at a Chennai Hospital.
-
-Indian media reports said he died at the Rajav Gandhi government hospital in Chennai.
-
-He was sentenced to punished for the assassination of Rajiv Gandhi.
-
-Shanthan was due to return to Sri Lanka to view his mother.
-
-But he was hospitalized due to a sudden kidney disease.
-
-◼️
-
-[Data](articles/0c16e7b5.json)
-
-[Extended Data](ext_articles/0c16e7b5.ext.json)
 
 ---

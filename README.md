@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 10:17:36**
+As of **2024-02-28 10:33:15**
 
 ## Newspaper Stats
 
-*Scraped **9,730** Articles*
+*Scraped **9,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,28 +19,48 @@ adalk | 822
 adaderanalk | 1,170
 tamilmirrorlk | 1,189
 virakesarilk | 1,330
-dailymirrorlk | 1,465
+dailymirrorlk | 1,468
 adaderanasinhalalk | 1,471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,729 (100.0%) of 9,730 articles have been extended.
+9,730 (100.0%) of 9,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### සජබයට ගිය දේවිකාට තනතුරු රැසක්
+### The Devil to go to the rich
 
 *2024-02-28 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193901) · `si`
 
-රජයේ පවුල් සෞඛ්‍ය සේවා සංගමයේ සභාපතිනි දේවිකා කොඩිතුවක්කු මහත්මිය සමගි ජන බලවේගය සමග එක්වී තිබේ.
+Mrs. Devika Kodituwakku, Chairperson of the Government Family Health Services Association, joined the reconciliation force.
 
 ◼️
 
 [Data](articles/e4e96822.json)
+
+[Extended Data](ext_articles/e4e96822.ext.json)
+
+---
+
+### Court suspends divestiture process of Lanka Hospitals
+
+*2024-02-28 09:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-suspends-divestiture-process-of-Lanka-Hospitals/108-277866) · `en`
+
+Colombo, Feb 28 (Daily Mirror) - The Court of Appeal today issued an interim order preventing the authorities from proceeding with the divestiture process of the Lanka Hospitals Corporation PLC, until March 12.
+
+The Court of Appeal made this order pursuant to a writ petition filed by Lyca Leasing Holding Limited and HAIMS International Limited challenging the refusal to consider the petitioners’ application for prequalification in the Request for Qualification (RFQ) for the strategic divestiture of 51.34% of the Lanka Hospitals Corporation PLC.
+
+Upon the oral submissions made by President’s Counsel Kuvera De Zoysa, Court of Appeal Justice D.N. Samarakoon issued notices on respondents, returnable for March 12.
+
+The Court of Appeal Registrar is directed to issue notice forthwith and also, the interim order to the respondents through ordinary means and also, to communicate over telephone and fax if the petitioners pay charges.
+
+...
+
+[Data](articles/d96dd8ac.json)
 
 ---
 
@@ -105,6 +125,28 @@ It is said that the training structures faced by cricketers, innovative training
 [Data](articles/e305f17f.json)
 
 [Extended Data](ext_articles/e305f17f.ext.json)
+
+---
+
+### Ex-soldier wanted over shooting killed in clash with STF
+
+*2024-02-28 08:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ex-soldier-wanted-over-shooting-killed-in-clash-with-STF/108-277858) · `en`
+
+Colombo, Feb 28 (Daily Mirror) - An ex-army soldier, who was wanted for the killing of a meat shop owner in Mahabage and several other crimes, died in a confrontation with the Police Special Task Force in the Suriyawewa area.
+
+Police said a raid was conducted early this morning based on intelligence that a murder suspect was hiding in the area.
+
+When the STF officers attempted to arrest him, the suspect fired at the officers with a firearm, and the suspect was injured in the retaliatory attack.
+
+The suspect succumbed to injuries while being admitted to the Suriyawewa Hospital.
+
+A Special Task Force officer was also injured in the exchange of fire.
+
+This suspect has also been accused of shooting a person in Wellampitiya, Kittampahuwa area on August 8 and attempting to kill Dulaj, the brother-in-law of an organized criminal Vidura near the Seenigama temple in Meetiyagoda, on June 17, under the direction of an organized criminal named Kosgoda Sujee.
+
+...
+
+[Data](articles/9843a772.json)
 
 ---
 
@@ -707,6 +749,26 @@ It is noteworthy that the police are investigating the incident and are conducti
 [Data](articles/62c56c0a.json)
 
 [Extended Data](ext_articles/62c56c0a.ext.json)
+
+---
+
+### Fresh relief for businesses struggling with loan repayments
+
+*2024-02-28 01:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Fresh-relief-for-businesses-struggling-with-loan-repayments/155-277847) · `en`
+
+Businesses showing support to fight against parate execution in the first ‘Anti-Parate Activist’ meeting held in December 2023 -Pic by Kithrisi de Mel
+
+Cabinet nod given to suspend the procedure to acquire properties of whose loans are not paid off by the banks up to 15 December
+
+Intense lobbying by ‘Anti-Parate Activists’ has finally pushed the authorities to make a decision that will weaken the strength of banks to support sectors
+
+Businesses struggling to repay loans can now let out a sigh of relief as a Cabinet decision has been announced that prevents banks from opting for aggressive recovery measures.
+
+Cabinet of Ministers on Monday approved the proposal to suspend the procedure to acquire properties whose loans are not paid off by the banks up to 15 December 2024. The nod was also given to amend section 4 of the Recovery of Loans by Banks (Special Provisions) Act No. 4 of 1990 to impose legal provisions required for the suspension.
+
+...
+
+[Data](articles/b5b2c04a.json)
 
 ---
 
@@ -1969,59 +2031,5 @@ The four arrested forces have been produced before the Horana Magistrate's Court
 [Data](articles/212808d1.json)
 
 [Extended Data](ext_articles/212808d1.ext.json)
-
----
-
-### Explanation for the two policemen who bribed ten thousand rupees!
-
-*2024-02-27 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177447) · `ta`
-
-Colombo Chief Justice Prasanna Alwis on Tuesday (27) has ordered the police constable and police officer of the police station and police officer of the police station, which allegedly received ten thousand rupees to release a driver from the police for violating traffic rules.
-
-The magistrate and the two suspects were kept in interrogation, considering the arguments put forward by the Bribery Commission.
-
-◼️
-
-[Data](articles/98e8b6af.json)
-
-[Extended Data](ext_articles/98e8b6af.ext.json)
-
----
-
-### Police officer commits suicide inside court premises
-
-*2024-02-27 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177446) · `ta`
-
-Police say a police officer has shot himself in the courtroom.
-
-A 52 -year -old police officer who was on duty at the Kodawila Police Station has committed suicide.
-
-Returning to duty from holiday, he committed suicide at the Kodawawa court premises.
-
-◼️
-
-[Data](articles/ff787570.json)
-
-[Extended Data](ext_articles/ff787570.ext.json)
-
----
-
-### PHI Officer acquitted from Bribery Charges
-
-*2024-02-27 17:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PHI-Officer-acquitted-from-Bribery-Charges/108-277822) · `en`
-
-Colombo, Feb. 27 (Daily Mirror)- The Colombo High Court today acquitted a PHI officer from four charges filed by the Bribery Commission as itfailed to prove the accused's guilt beyond reasonable doubt.
-
-The Director General of Commission to investigate Bribery and Corruption indicted the PHI officer Sanath Vijithananda while he was serving at the Tennekumbura MOH office in Kandy for soliciting and accepting a sum of Rs.10,000 as a bribe to provide his recommendation to obtain the trade license for the year of 2017.
-
-The Manager of Blue Mountain Hotel in Hantana had made a complaint to the Bribery Commission on January 19, 2017. Delivering the judgment, Colombo High Court judge Manjula Thilakarathne observed that the prosecution had failed to prove the charges against the Accused beyond reasonable doubt.
-
-Senior Counsel Darshana Kuruppu with Counsel Dineru Bandara appeared for the Accused.
-
-◼️
-
-[Data](articles/b49eac3a.json)
-
-[Extended Data](ext_articles/b49eac3a.ext.json)
 
 ---

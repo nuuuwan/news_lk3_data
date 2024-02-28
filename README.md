@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 17:53:15**
+As of **2024-02-28 18:08:26**
 
 ## Newspaper Stats
 
-*Scraped **9,818** Articles*
+*Scraped **9,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 832
 adaderanalk | 1,184
 tamilmirrorlk | 1,195
 virakesarilk | 1,350
-dailymirrorlk | 1,483
+dailymirrorlk | 1,484
 adaderanasinhalalk | 1,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,818 (100.0%) of 9,818 articles have been extended.
+9,819 (100.0%) of 9,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### SLFP to support no-faith motion against Speaker
+
+*2024-02-28 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFP-to-support-no-faith-motion-against-Speaker/108-277893) · `en`
+
+Colombo, Feb. 28 (Daily Mirror)- The Sri Lanka Freedom Party (SLFP) has decided to support the proposed no-confidence motion against Speaker Mahinda Yapa Abeywardhane.
+
+The Opposition is planning to bring in a no-confidence motion against the Speaker claiming that the Online Safety Act was passed without considering the recommendations of the Supreme Court.
+
+◼️
+
+[Data](articles/746a1786.json)
+
+[Extended Data](ext_articles/746a1786.ext.json)
+
+---
 
 ### ‘Samarth’ and ‘Abhinav’: Two Indian Coast Guard Ships reach Sri Lanka
 
@@ -176,13 +192,13 @@ On behalf of the CWC, S. Irajamani, a member of the Tea Production Council and A
 
 A team from the International Monetary Fund (IMF) is to arrive in Sri Lanka for the second review of the Extended Fund Facility (EFF) programme which is to begin on 07 March, according to State Minister of Finance Shehan Semasinghe.
 
-The progress in meeting key commitments under the IMF-supported program is set to be formally assessed in the context of the second review of the EFF arrangement alongside the forthcoming 2024 Article IV consultation assessing Sri Lanka’s economic health.
+The state minister said he believes the second review for the third disbursement under the extended fund facility will be carried out across a period of around two weeks.
 
-The International Monetary Fund (IMF) had previously said the second review of Sri Lanka’s $2.9 billion bailout could be completed in the first half of 2024, provided it manages to meet debt restructuring and revenue targets set under the programme.
+“The second review will commence from the 7th of March and we are very confident that will be a smoother review than the first review.”
 
-The IMF executive board had cleared the first review of Sri Lanka’s $2.9 billion bailout in December last year, providing about $337 million in funds to help tackle the fallout from the country’s worst financial crisis in decades.
+“Because the first review, it was the initial stages of the implementation of the policy decisions the government had taken,” he told reporters, during a press briefing at the Presidential Media Center on Wednesday (28).
 
-◼️
+...
 
 [Data](articles/e89ae81c.json)
 
@@ -2075,21 +2091,5 @@ The past two years was valuable time that Sri Lanka had, to devise a way forward
 [Data](articles/e22cafa4.json)
 
 [Extended Data](ext_articles/e22cafa4.ext.json)
-
----
-
-### NPP’s stance on foreign investment: Unravelling misconceptions
-
-*2024-02-28 03:28:26* · [`dailyftlk`](https://www.ft.lk/columns/NPP-s-stance-on-foreign-investment-Unravelling-misconceptions/4-758938) · `en`
-
-Contrary to the narrative presented in the article, the NPP is not staunchly opposed to foreign direct investment
-
-In recent times, discussions surrounding the NPP’s position on foreign direct investment have been clouded by misconceptions. A closer examination of an old article that was in the Daily FT on 7 February by Prof. Rohan Samarajiva (https://www.ft.lk/columns/JVP-s-plan-to-exclude-foreign-investors-from-the-energy-sector/4-744996) doing its rounds these days in “X” reveals an attempt to mislead readers about the NPP’s approach to foreign investments. This article aims to clarify the NPP’s perspective and address the misleading assertions put forth by the author.
-
-...
-
-[Data](articles/0a49a392.json)
-
-[Extended Data](ext_articles/0a49a392.ext.json)
 
 ---

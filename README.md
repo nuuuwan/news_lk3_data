@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 12:02:42**
+As of **2024-02-28 12:17:36**
 
 ## Newspaper Stats
 
-*Scraped **9,755** Articles*
+*Scraped **9,762** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 96
-bbccomsinhala | 118
+bbccomsinhala | 119
 dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 500
@@ -18,19 +18,149 @@ islandlk | 521
 adalk | 824
 adaderanalk | 1,174
 tamilmirrorlk | 1,189
-virakesarilk | 1,337
-adaderanasinhalalk | 1,474
+virakesarilk | 1,339
 dailymirrorlk | 1,474
+adaderanasinhalalk | 1,478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,755 (100.0%) of 9,755 articles have been extended.
+9,755 (99.9%) of 9,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### තවත් සැකකටයුතු මරණයක්
+
+*2024-02-28 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193908) · `si`
+
+දඹුල්ල, වෑවලවැව ප්‍රදේශයේ නිවසක් තුළ පුද්ගලයෙකු සැකකටයුතු ලෙස මියගොස් ඇති බව පොලීසිය පවසයි.
+
+එම මරණය සම්බන්ධයෙන් ඊයේ (27) රාත්‍රී පොලීසියට ලැබුණු තොරතුරක් මත පරීක්ෂණ ආරම්භකර තිබේ.
+
+45 හැවිරිදි මරණකරු විවාහක පුද්ගලයෙක් බවත් ඔහු බිරිඳගෙන් වෙන්වී සිය මව සමග නිවසේ ජීවත්වී ඇති බවත් පොලීසිය පැවසීය.
+
+මව නිවසේ නොමැති අවස්ථාවක එම පුද්ගලයා සැකකටයුතු ලෙස මියගොස් තිබුණි.
+
+◼️
+
+[Data](articles/bc7df337.json)
+
+---
+
+### யாழில் ஓய்வுபெற்ற ஆசிரியை தவறான முடிவெடுத்து உயிர்மாய்ப்பு!
+
+*2024-02-28 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/177484) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை பொலிஸ் பிரிவிற்குட்பட்ட வட்டு தெற்கு, பகுதியில் ஓய்வுபெற்ற ஆசிரியை ஒருவர் இன்று புதன்கிழமை (28) தவறான முடிவெடுத்து  உயிர்மாய்த்துள்ளளார்.
+
+வீட்டில் யாரும் இல்லாத சந்தர்ப்பத்தில் பி.ப 5.00 மணிக்கும் பி.ப 6.00 மணிக்கும் இடைப்பட்ட நேரத்தில் இந்த சம்பவம் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இவர் 2016 ஆம் ஆண்டு ஏற்கனவே ஒரு தடவை தற்கொலை முயற்சியில் ஈடுபட்டவர் என்றும், அதற்கு பின்னர் மன அழுத்தத்தில் காணப்பட்டுள்ளார் என்றும் தெரிவிக்கப்படுகிறது.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்படவுள்ளது.
+
+◼️
+
+[Data](articles/60eadf07.json)
+
+---
+
+### පාස්පෝට් කාර්යාලය ළඟ වලියේ නොදත් කතාව
+
+*2024-02-28 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193907) · `si`
+
+මහනුවර ආගමන විගමන දෙපාර්තමේන්තු කාර්යාලය ඉදිරිපිට විදේශ ගමන් බලපත්‍ර ලබාගැනීම සඳහා පැමිණි පිරිසක් අතර උණුසුම් තත්ත්වයක් ඇතිවී තිබේ.
+
+ජනතාව චෝදනා කරන්නේ ආගමන විගමන දෙපාර්තමේන්තු කාර්යාලයේ නිලධාරීන්ගේ අක්‍රමවත් වැඩපිළිවෙල හේතුවෙන් මෙලෙස ඔවුන් අපහසුතාවයට පත්ව ඇති බවය.
+
+දුර බැහැර ඈත ප්‍රදේශවල සිට එහි පැමිණ දින කිහිපයක් තිස්සේ විදේශ ගමන් බලපත්‍රය ලබාගැනීමේ අපේක්ෂාවෙන් රැඳී සිටි පිරිසක් සහ අද උදෑසන එම ස්ථානයට පැමිණි තවත් පිරිසක් අතර මෙම උණුසුම් තත්ත්වය ඇතිවී තිබේ.
+
+මේ අතර මේ පිළිබඳව අප කළ සොයාබැලීමකදී වාර්තාවූයේ සංවිධානාත්මක කල්ලියක් විසින් එම ස්ථානයේ පෝළිමේ රැඳී සිටිමින් විදේශ ගමන් බලපත්‍ර ලබාගැනීමට පැමිණෙන ජනතාවගෙන් නීතිවිරෝධී ලෙස මුදල් අයකරගන්නා බවය.
+
+මේ සඳහා මහනුවර පිහිටි ආගමන විගමන දෙපාර්තමේන්තු කාර්යාලය තුළින්ම සහාය ලැබෙන බවටයි පැමිණ සිටින ජනතාව චෝදනා කරයි.
+
+දහසකුත් එකක් කරදර මැද ඈත ප්‍රදේශවල සිට පැමිණ රටට විදේශ විනිමය ගෙන එන්න යන මේ තැළෙන මිනිස්සුන්ට අවම මට්ටමේ හෝ සේවාවක් සැපයීමට ආගමන විගමන බලධාරීන්ගේ ඇස් ඇරෙන්නේ කවදා ද ?
+
+◼️
+
+[Data](articles/6496f143.json)
+
+---
+
+### පාසල් දරුවන් එළිමහනේ රැඳවීමෙන් වළකින්නැයි විශේෂ නිවේදනයක්
+
+*2024-02-28 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193906) · `si`
+
+අධික උණුසුම් කාලගුණය තවදුරටත් ඉහළ යා හැකි බැවින් අද (28) හෙට (29) සහ අනිද්දා (29) යන දිනවල පාසල් සිසුන් එළිමහනේ රැඳවීමෙන් වළකින ලෙස අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+ඒ අනුව කිසිදු පාසලක සිසු දරුවන් ඉහළ උෂ්ණත්වය ඇති අවස්ථාවන්හි එළිමහන් ක්‍රීඩා පුහුණු කටයුතු හෝ ක්‍රීඩා උත්සව හෝ වෙනත් බාහිර ක්‍රියාකාරකමකට හෝ යෙදවීමෙන් වළකින ලෙස දැනුම් දී ඇත.
+
+සියලුම පාසල් විදුහල්පතින්ට මේ සම්බන්ධයෙන් දැනුවත් කිරීම සඳහා මේ වනවිටත් පළාත් සහ කලාප අධ්‍යාපන බලධාරීන් වෙත යොමු කර ඇති අතර, සෞඛ්‍ය අමාත්‍යාංශය හා අධ්‍යාපන අමාත්‍යාංශය එක්ව පාසල් වෙත නිකුත් කර ඇති උපදෙස් අනුව ඉදිරියේ දී කටයුතු කරන ලෙස අදාළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+
+◼️
+
+[Data](articles/eb65d5c3.json)
+
+---
+
+### ඉන්දියාවේ උසස් පොලිස් නිලධාරියෙක් ව පැහැරගැනේ
+
+*2024-02-28 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193905) · `si`
+
+ආයුධ සන්නද්ධව පැමිණි 200ක පමණ පිරිසක් ඉන්දියාවේ උසස් පොලිස් නිලධාරියෙක්ව පැහැරගෙන ගොස් තිබුණි.
+
+ඉන්දීය මාධ්‍ය සඳහන් කළේ, වාහන සොරකමක් සම්බන්ධයෙන් එම පොලිස් නිලධාරියා විසින් සැකකරුවන් 6 දෙනෙක් අත්අඩංගුවට ගැනීමෙන් අනතුරුව එම පැහැරගැනීම සිදුකර ඇති බවයි.
+
+තුවක්කුකරුවන් 200ක් පමණ ඊයේ රාත්‍රී 7ට පමණ පොලිස් නිලධාරියාගේ නිවස වටලා එම පොලිස් නිලධාරියාව සහ ඔහුගේ ආරක්ෂක නිලධාරියාව පැහැරගෙන ගොස් තිබුණි.
+
+අනතුරුව වහා ක්‍රියාත්මක වූ යුද හමුදා කණ්ඩායමක් එම කණ්ඩායම හඹා ගොස් ඔවුන්ව මුදවාගෙන තිබේ.
+
+මේ වනවිට එම පොලිස් නිලධාරීන් රෝහල්ගතව ප්‍රතිකාර ලබන බව මාධ්‍ය වාර්තා පවසයි.
+
+◼️
+
+[Data](articles/4a473d41.json)
+
+---
+
+### மட்டக்களப்பு வாவியருகில் ஆண் ஒருவரின் சடலம் மீட்பு!
+
+*2024-02-28 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/177483) · `ta`
+
+மட்டக்களப்பு தலைமையக பொலிஸ் பிரிவிற்குட்பட்ட மட்டக்களப்பு நகர் பகுதியில் உள்ள பிரதான தனியார் பஸ் தரிப்பு நிலையத்திற்கு அருகாமையில் உள்ள வாவியருகில்  ஆணொருவரின் சடலமொன்று மீட்கப்பட்டுள்ளதாக மட்டக்களப்பு தலைமையக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இன்று புதன்கிழமை (28) காலை குறித்த இடத்தில் பஸ்ஸினை தரித்து விட்டு வாவிக்கு அருகே சென்ற போது குறித்த சடலத்தினை கண்ட பஸ் நடத்துனர்கள் பொலிசாருக்கு வழங்கிய தகவலையடுத்து மட்டக்களப்பு தலைமையக பொலிஸார் சடலத்தை மீட்டுள்ளனர்.
+
+காத்தான்குடி பகுதியை சேர்ந்த 51 வயதுடைய நபரின் சடலமென இனங்கானப்பட்டுள்ளதாக மட்டக்களப்பு தலைமையக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/34ab0fb1.json)
+
+---
+
+### Ensure students' education immediately to the problems that affect academic staff - Jaffna. University Student Union
+
+*2024-02-28 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177481) · `ta`
+
+The Jaffna University Students Union has said that the immediate solution to the problems that affect academic staff should be resolved and ensure the education of the students.
+
+This is what it stated in a media statement issued today. In the report further,
+
+University Employees' Union, the University Grants Commission and the Government of Sri Lanka, have been granted an immediate solution to the university's employees' union, the university's employees' union, the university's salary conflict, the salary increase and the problems that affect them, and our Jaffna University Employees' Association (Jaffna University Employees' Association (Jaffna University).
+
+As a Jaffna University Student Community, students of our Jaffna University Employees Union to carry out a two -day strike, we are offering moral and complete support to our seniors excluding our lectures.
+
+...
+
+[Data](articles/80cd1c16.json)
+
+[Extended Data](ext_articles/80cd1c16.ext.json)
+
+---
 
 ### Democrats want to contest Michelle Obama in response to US presidential election
 
@@ -55,26 +185,6 @@ The names of many, including Hamala Harris, are mentioned, but the former presid
 [Data](articles/33014c43.json)
 
 [Extended Data](ext_articles/33014c43.ext.json)
-
----
-
-### Ensure students' education immediately to the problems that affect academic staff - Jaffna. University Student Union
-
-*2024-02-28 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177481) · `ta`
-
-The Jaffna University Students Union has said that the immediate solution to the problems that affect academic staff should be resolved and ensure the education of the students.
-
-This is what it stated in a media statement issued today. In the report further,
-
-University Employees' Union, the University Grants Commission and the Government of Sri Lanka, have been granted an immediate solution to the university's employees' union, the university's employees' union, the university's salary conflict, the salary increase and the problems that affect them, and our Jaffna University Employees' Association (Jaffna University Employees' Association (Jaffna University).
-
-As a Jaffna University Student Community, students of our Jaffna University Employees Union to carry out a two -day strike, we are offering moral and complete support to our seniors excluding our lectures.
-
-...
-
-[Data](articles/80cd1c16.json)
-
-[Extended Data](ext_articles/80cd1c16.ext.json)
 
 ---
 
@@ -765,6 +875,34 @@ Deputy Director Merrill Mendis said that it should be followed by adequate water
 [Data](articles/47da56ae.json)
 
 [Extended Data](ext_articles/47da56ae.ext.json)
+
+---
+
+### රොනී සමුගනී: අයවැය වාර්තා තැබූ 'ශ්‍රී ලංකා විවෘත ආර්ථිකයේ පුරෝගාමියා' ගැන මේ කරුණු දැන සිටියා ද?
+
+*2024-02-28 04:35:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c101lgl0p74o) · `si`
+
+රොනී සමුගනී: අයවැය වාර්තා තැබූ 'ශ්‍රී ලංකා විවෘත ආර්ථිකයේ පුරෝගාමියා' ගැන මේ කරුණු දැන සිටියා ද?
+
+ශ්‍රී ලංකාවේ සුවිශේෂී දේශපාලනඥයෙකු මෙන් ම හිටපු මුදල් අමාත්‍යවරයෙකු වූ රොනී ද මෙල් අඟහරුවාදා (පෙබ: 27) පස්වරුවේ අභාවප්‍රාප්ත විය.
+
+පවුලේ ඥාතීන් පවසන්නේ, 98 වන වියේ පසු වූ ඔහු කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අභාවප්‍රාප්ත වූ බව ය.
+
+පරිපාලන නිලධාරියෙකු ලෙස රාජ්‍ය සේවය ආරම්භ කර ඇති රොනී ද මෙල්, පසුකාලීනව වඩාත් කතාබහට ලක්වූ ප්‍රබල දේශපාලනඥයෙකු බවට පත්විය.
+
+ශ්‍රී ලංකාවේ වැඩි ම වාර ගණනක් අයවැය ඉදිරිපත් කළ මුදල් ඇමති කවුද?
+
+ඔහුගේ දෙමාපියන් 1948 වසරේදී ලංකා සිවිල් සේවයට එක්වූ ඔහු, කර්මාන්ත දෙපාර්තමේන්තුව, වවුනියාව කච්චේරිය, පුත්තලම කච්චේරිය සහ සමාජ සේවා දෙපාර්තමේන්තුව යන ආයතනවලට අනුයුක්තව සේවය කළේ ය.
+
+රොනී ද මෙල් යනුවෙන් සිය නම භාවිත කළ ද, ඔහුගේ සැබෑ නම රොනල්ඩ් ජෝසෆ් ගොඩ්ෆ්‍රි ද මෙල් ය.
+
+ගල්කිස්ස, සාන්ත තෝමස් විද්‍යාලයෙන් මූලික අධ්‍යාපනය ලැබූ ඔහු ලංකා විශ්වවිද්‍යාලයෙන් ශාස්ත්‍රවේදී උපාධිය හිමි කර ගත්තේ ය.
+
+ඔහු එහිදී හැදෑරූ ප්‍රධාන විෂයයන් වූයේ, ඉංග්‍රීසි, ලතින්, ග්‍රීක් සහ ඉතිහාසය යි.
+
+...
+
+[Data](articles/a5fe5ab4.json)
 
 ---
 
@@ -1877,137 +2015,5 @@ Davina Kern, Council Member, CIPM/ Head of Group Human Resources at David Pieris
 [Data](articles/360b7e52.json)
 
 [Extended Data](ext_articles/360b7e52.ext.json)
-
----
-
-### Strengthening Sri Lanka’s small and medium enterprises through supply chain excellence
-
-*2024-02-27 19:54:00* · [`islandlk`](http://island.lk/strengthening-sri-lankas-small-and-medium-enterprises-through-supply-chain-excellence/) · `en`
-
-In a significant stride towards fostering resilience and sustainability in the nation’s Small and Medium Enterprises (SMEs), the Strategic Management Committee of the Institute of Supply and Materials Management (ISMM), under the guidance of President ISMM Jayantha Gallehewa, recently orchestrated a highly successful meeting with Ms. Thilaka Jayasundara, the Secretary of the Ministry of Industries, and other key officials.
-
-...
-
-[Data](articles/ed97493f.json)
-
-[Extended Data](ext_articles/ed97493f.ext.json)
-
----
-
-### Keeri Samba cultivation proving successful in Hambantota district
-
-*2024-02-27 19:52:00* · [`islandlk`](http://island.lk/keeri-samba-cultivation-proving-successful-in-hambantota-district/) · `en`
-
-Keeri Samba, cultivated for the first time in the Hambantota district’s Matigathwela area, has been very successful, said a senior official of the Agriculture and Plantation Industries Ministry.
-
-The official said that growing Keeri Samba paddy for the first time on 100 acres at Agunakolapalassa in the Matigathwala area had given a boost to similar initiatives countrywide.
-
-Keeri Samba cultivation was surveyed earlier this week by Agriculture and Plantation Industries Minister Mahinda Amaraweera.
-
-“At present, Samba and Nadu rice and paddy have exceeded the national requirement in our country, but there is a shortage of Keeri Samba rice. The reason is that farmers were not motivated to grow Keeri Samba rice in the 2022 season. Due to this, there was a huge shortage of Keeri Samba in the country, the minister said.
-
-The minister added: “Because of this, the government took steps to import some other rice variety as an alternative to Keeri Samba.
-
-...
-
-[Data](articles/77c62beb.json)
-
-[Extended Data](ext_articles/77c62beb.ext.json)
-
----
-
-### CSE records six crossings despite investor worries stemming from polls promises
-
-*2024-02-27 19:49:00* · [`islandlk`](http://island.lk/cse-records-six-crossings-despite-investor-worries-stemming-from-polls-promises/) · `en`
-
-Polls promises made by certain political parties and the restructuring process of state owned enterprises not being carried out in keeping with IMF requirements, have created some worries among local and foreign stock market investors, market analysts said. However, CSE transactions yesterday were characterized by six crossings.
-
-...
-
-[Data](articles/04d7fc29.json)
-
-[Extended Data](ext_articles/04d7fc29.ext.json)
-
----
-
-### Airport company's chairman's regret over the difficulties of the passengers
-
-*2024-02-27 19:46:41* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-මගීන්ට-සිදුවන-අපහසුතාව-ගැන-ගුවන්-තොටුපොළ-සමාගමේ-සභාපතිගේ-කනගාටුව/11-408313) · `si`
-
-Airport and Aviation Company Limited, Ltdalay, Ltd., Ltd. Ltd. Ltd. Ltd. Ltd. Ltd. Ltd. Ltd., Air Services Company Limited, Ltd. Ltd.
-
-At a press conference held at the Katunayake Markfed premises, the Chairman was so sad at a press conference held at 01.00 pm.
-
-The Chairman added that there are many problems in SriLankan Airlines and that technical issues have technical issues, aircraft extra parts, and employee issues.
-
-He said that he had several suggestions to solve these issues and discuss these issues with SriLankan Airlines.
-
-He said that if the aircraft was sold for a few months ago, he said that if an airplane suffered a sudden anxiety, he would have to cancel the aircraft.
-
-Six flight terms were canceled on 02/27 on 02/27.
-
-◼️
-
-[Data](articles/118ca6c2.json)
-
-[Extended Data](ext_articles/118ca6c2.ext.json)
-
----
-
-### Central Bank summoned before COPF over pay hike
-
-*2024-02-27 19:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-summoned-before-COPF-over-pay-hike/108-277828) · `en`
-
-Colombo, Feb. 27 (Daily Mirror)- The Committee on Public Finance has summoned the Governing Board of the Central Bank beforer the committee next week, COPF Chair Dr. Harsha De Silva said.
-
-Taking to X, he said MPs could seek clarification on the recent staff pay hike and for any necessary action.
-
-"The CBSL independence is subject to accountability to the Legislature per Section 80 (2) (a) of the CBSL Act," he added.
-
-◼️
-
-[Data](articles/8c62e50e.json)
-
-[Extended Data](ext_articles/8c62e50e.ext.json)
-
----
-
-### Expectation to submit amendment to the Parade law in the future;Separate Loan Scheme for Small and Medium Entrepreneurs -Vijayadasa Rajapaksa
-
-*2024-02-27 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/177452) · `ta`
-
-The Minister of Justice, Prison Affairs and Constitutional Reforms Dr. Vijayadasa Rajapaksa said that the Cabinet decision is expected to be presented in Parliament in the future.
-
-The Minister further stated that it is expected to introduce a separate credit scheme for small and medium entrepreneurs.
-
-Minister Vijayadasa Rajapaksa made this statement at a media briefing held at the Presidential Media Center on Tuesday (21).
-
-“The country must have a financial policy. And the economy should be stronger. The Central Bank of Sri Lanka has a significant authority on this issue. In the past, the Barata Act, which is under conception in Sri Lanka, has only focused on protecting the stability of the central bank and financial institutions.
-
-Many sides questioned whether the central bank focused on the country's stockpile. In addition, the agriculture sector should focus on the fall of up to 22% - 8% and the industry is 38% - 32%.
-
-...
-
-[Data](articles/3ec94af4.json)
-
-[Extended Data](ext_articles/3ec94af4.ext.json)
-
----
-
-### Two workers killed in clashes
-
-*2024-02-27 19:35:19* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයේ-අනතුරින්-කම්කරුවන්-දෙදෙනෙක්-මරුට/11-408312) · `si`
-
-Two workers who were working near the Southern Expressway on the Southern Expression of the Southern Express Interchange. The accident had occurred at around 11.30 am today.
-
-The deceased have been identified as Walahena Hewage Padmasiri (63) and Amila Prasad (32). These are residents of Imaduwa.
-
-The accident had occurred near the 85nd kilometer of the Expressway, they have clashed with a lorry traveling from Dodangoda to Matara.. The main maintenance of the Testing Highway has been restricted to a lane and two workers who were working at the site were accidentally served.
-
-◼️
-
-[Data](articles/20861d49.json)
-
-[Extended Data](ext_articles/20861d49.ext.json)
 
 ---

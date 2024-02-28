@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 19:17:27**
+As of **2024-02-28 19:32:54**
 
 ## Newspaper Stats
 
-*Scraped **9,835** Articles*
+*Scraped **9,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ economynextcom | 503
 dailyftlk | 519
 islandlk | 521
 adalk | 834
-adaderanalk | 1,186
+adaderanalk | 1,187
 tamilmirrorlk | 1,197
-virakesarilk | 1,353
-dailymirrorlk | 1,486
+virakesarilk | 1,355
+dailymirrorlk | 1,487
 adaderanasinhalalk | 1,491
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,830 (99.9%) of 9,835 articles have been extended.
+9,835 (100.0%) of 9,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### Appeal Court suspends auctioning of New Nawaloka Medical Centre
+
+*2024-02-28 19:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Appeal-Court-suspends-auctioning-of-New-Nawaloka-Medical-Centre/108-277899) · `en`
+
+Colombo, Feb. 28 (Daily Mirror)- The Court of Appeal today issued an interim order preventing Hatton National Bank PLC from auctioning the property relating to New Nawaloka Medical Centre (Private) Limited.
+
+Court of Appeal Justice D.N. Samarakoon issued this order to be effective until March 13. The Court made this order pursuant to a restitutio in integrum (RII) application filed by New Nawaloka Medical Centre challenging the Colombo Commercial High Court’s order dated 22nd February 2024.
+
+The Court of Appeal registrar was directed to issue notice and the interim orders on the respondents yesterday (28) itself and the interim orders to be issued through ordinary means and also over the telephone and fax if the Petitioner pays charges.
+
+...
+
+[Data](articles/bff59291.json)
+
+---
+
+### Election Commission notified of parliamentary vacancy following MP’s resignation
+
+*2024-02-28 18:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97601/election-commission-notified-of-parliamentary-vacancy-following-mps-resignation) · `en`
+
+The Secretary General of the Parliament, Kushani Rohanadeera has informed the Chairman of the Election Commission of Sri Lanka, in writing, of the parliamentary vacancy created following the resignation of Uddika Premarathne, representing the Anuradhapura Constituency.
+
+Premarathne of Sri Lanka Podujana Peramuna (SLPP) handed over his letter of resignation on 27 February to the Deputy General Secretary of Parliament Chaminda Kularatne.
+
+Meanwhile, S. C. Mutukumarana is tipped to fill the relevant parliamentary vacancy
+
+◼️
+
+[Data](articles/88a0de0a.json)
+
+---
+
+### பொதுஜன பெரமுனவை தலைமைத்துவமாக கொண்டு அரசியல் கூட்டணியை ஸ்தாபிப்போம் - ரஞ்சித் பண்டார
+
+*2024-02-28 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177541) · `ta`
+
+மார்ச் மாதம் 05 ஆம் திகதிக்கு பின்னர் அரசியலில் எதிர்பாராத மாற்றங்கள் ஏற்படலாம். ஸ்ரீ லங்கா பொதுஜன பெரமுனவை தலைமைத்துவமாக கொண்டே புதிய அரசியல் கூட்டணியை ஸ்தாபிப்போம் என பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் ரஞ்சித் பண்டார தெரிவித்தார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் புதன்கிழமை (28) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நிதி வங்குரோத்து நிலை தொடர்பில் ஆராயும் பாராளுமன்ற தெரிவுக்குழுவுக்கு அண்மையில் முன்னிலையாகிய திறைசேரியின் செயலாளர் மற்றும் மத்திய வங்கியின் ஆளுநர் ஆகியோர் நிதி வங்குரோத்து நிலையை நாங்கள் அறிவிக்கவில்லை என்று குறிப்பிட்டார்கள்.ஆனால் வங்குரோத்து நிலைக்கு ராஜபக்ஷர்கள் பொறுப்புக்கூற வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச குறிப்பிட்டுக் கொள்கிறார்.
+
+பொருளாதார பாதிப்புக்கு நல்லாட்சி அரசாங்கம் பொறுப்புக் கூற வேண்டும் என்பதில் எவ்வித மாற்றுக் கருத்துக்களும் கிடையாது.சர்வதேச பிணைமுறியங்களிடமிருந்து பெற்றுக்கொண்ட கடன்களினால் நாட்டின் நிதி நிலைமை நெருக்கடிக்குள்ளாக்கப்பட்டது.
+
+...
+
+[Data](articles/e2a33336.json)
+
+---
 
 ### Protesters block railway track after fatal train accident in Chilaw
 
@@ -44,23 +94,45 @@ In response to the incident, area residents had blocked the railway track in pro
 
 [Data](articles/2e539860.json)
 
+[Extended Data](ext_articles/2e539860.ext.json)
+
 ---
 
-### පැතුම්ට බංග්ලාදේශ විස්සයි20 තරගාවලිය අහිමි වෙයි
+### Bangladeshi 20 tournament will be losing
 
 *2024-02-28 18:24:15* · [`adalk`](https://www.ada.lk/sports/පැතුම්ට-බංග්ලාදේශ-විස්සයි20-තරගාවලිය-අහිමි-වෙයි/9-408331) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම හා බංග්ලාදේශ කණ්ඩායම අතර බංග්ලාදේශයේදී පැවැත්වීමට නියමිත විස්සයි20 තරගාවලිය සඳහා ශ්‍රී ලංකා සංචිතය නම් කර තිබේ. මෙහිදී ඇෆ්ගනිස්ථානය සමගින් පැවැති විස්සයි20 තරගාවලියේ තෙවැනි තරගයේදී ආබාධයකට ලක්වූ පැතුම් නිශ්ශංකට කණ්ඩායමේ ස්ථානය අහිමී ඇති අතර ඔහු වෙනුවට අවිශ්ක ප්‍රනාන්දු කණ්ඩායමට කැඳවා තිබේ.
+Sri Lanka squad for Bangladesh will be named in Bangladesh T20 tournament between the Sri Lankan team and Bangladesh.. The group of disorders were lost in the third match in the third match of the Twenty20 tournament with Afghanistan.
 
-ජෙෆ්රි වැන්ඩසේ නැවතත් කණ්ඩායමට කැඳවා ඇති අතර ආබාධයකින් අනතුරුව සුවය ලබා සිටින ඩිල්ෂාන් මධුශංකද කණ්ඩායමට කැඳවා තිබෙ.
+Dilshan Madushang has been summoned to the group after a recovery after a disability.
 
-කණ්ඩායමේ නායකයා ලෙස වනිඳු හසරංග කටයුතු කරන නමුත් ඔහුට පළමු තරග දෙක ක්‍රීඩා කිරීමේ අවස්ථාව අහිමි වෙයි. ඒ ඔහුට එරෙහිව තරග දෙකක තහනමක් පනවා ඇති හෙයිනි.
+Wanindu Hasaranga is the leader of the group, but he is deprived of playing the first two matches. Because he was banned against him.
 
-1.වනිඳු හසරංග - නායක, 2.චරිත් අසලංක -උප නායක, 3. කුසල් මෙන්ඩිස්, 4. සධීර සමරවික්‍රම, 5. ඇන්ජලෝ මැතිව්ස්, 6. දසුන් ශානක,7. මහීෂ් තීක්ෂණ, 8. ධනංජය ද සිල්වා, 09. කුසල් ජනිත් පෙරේරා, 10. ඩිල්ෂාන් මධුශංක, 11. නුවන් තුෂාර, 12.මතීෂ පතිරණ, 13.අකිල ධනංජය, 14.බිනුර ප්‍රනාන්දු, 15.කමිඳු මෙන්ඩිස්, 16. අවිශ්ක ප්‍රනාන්දු – (පැතුම් නිශ්ශංක වෙනුවට), 17. ජෙෆ්රි වැන්ඩර්සේ
+1. Waranga Hasaranga - Leader, 2.Curri and Leader, 3. Kusal Mendis, 4. Saderaather Samarawickra, 5. Angelo Mathews, 6. View Shana, 7. Mah Meh. Dhananjaya de Silva, 09. Kusal Janith Perera, 10. Dilshan Madushanka, 11. Nuwan Thushara, 12. Anaba Pathira, 13.ABinura Fernando, 15, Mendis, 16. ASSFA Fernando - (instead of the wishes neddoms), 17. Jeffrey Vander
 
 ◼️
 
 [Data](articles/4cca6a31.json)
+
+[Extended Data](ext_articles/4cca6a31.ext.json)
+
+---
+
+### சகல தரப்பினரின் ஒத்துழைப்புடன் மனிதநேய கூட்டணியை ஸ்தாபிப்போம் - பாட்டலி சம்பிக்க ரணவக்க
+
+*2024-02-28 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177534) · `ta`
+
+அரசியலில் பல ஆண்டுகளாக  பகைத்துக் கொண்டிருந்த ராஜபக்ஷர்களும், ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் ஒன்றிணையும் போது கொள்கை ரீதியில் வேறுப்பாடுகள் உள்ள அரசியல் கட்சிகள் ஏன் ஒன்றிணைய கூடாது. சகல அரசியல் கட்சிகளையும் ஒன்றிணைத்து மனிதநேய கூட்டணியை ஸ்தாபிப்போம் ஐக்கிய குடியரசு முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+பாராளுமன்ற உறுப்பினர் டலஸ் அழகபெரும தலைமையிலான சுதந்திர மக்கள் சபையின் உறுப்பினர்களுக்கும்,ஐக்கிய குடியரசு முன்னணியின் உறுப்பினர்களுக்கும் இடையிலான கலந்துரையாடல் செவ்வாய்க்கிழமை (27) மாலை கொழும்பில் உள்ள சுதந்திர மக்கள் சபையின் காரியாலயத்தில் இடம்பெற்றது.
+
+இந்த கலந்துரையாடலின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவித்த ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பிக்க ரணவக்க,
+
+நாட்டு மக்கள் பொருளாதார ரீதியில் மிக மோசமாகப் பாதிக்கப்பட்டுள்ளார்கள்.பொருளாதார நெருக்கடிக்குத் தீர்வு காண வேண்டுமாயின்  அரசியல் ஸ்திரத்தன்மை உறுதிப்படுத்தப்பட வேண்டும். அதற்கு சகல தரப்பினரையும் ஒன்றிணைத்து பரந்துப்பட்ட அரசியல் கூட்டணி ஒன்று ஸ்தாபிக்கப்பட வேண்டும்.
+
+...
+
+[Data](articles/14c48007.json)
 
 ---
 
@@ -97,6 +169,8 @@ The Squad: Wanindu Hasaranga - Captain, Charith Asalanka -Vice Captain, Kusal Me
 ◼️
 
 [Data](articles/3dc2f85a.json)
+
+[Extended Data](ext_articles/3dc2f85a.ext.json)
 
 ---
 
@@ -340,15 +414,17 @@ The festival, organized by the Department of Journalism, Media and Communication
 
 ---
 
-### පොලිස් පරීක්ෂක දුමින්ද ජයතිලක රට හැර යාම පොලිස් මාධ්‍ය ප්‍රකාශකගේ පැහැදිලි කිරීම
+### Expression of police Inspector Duminda Jayatilleka Police Spokesman
 
 *2024-02-28 16:41:23* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-පරීක්ෂක-දුමින්ද-ජයතිලක-රට-හැර-යාම-පොලිස්-මාධ්‍ය-ප්‍රකාශකගේ-පැහැදිලි-කිරීම/11-408329) · `si`
 
-පාතාල කල්ලි සාමාජිකයන්ගෙන් තමාට සහ සිය පවුලට එල්ල වූ මරණ තර්ජන හමුවේ කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා රටින් පිටවීම සම්බන්ධව මාධ්‍ය හමුවකදී මේ සම්බන්ධව  පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි නිහල් තල්දුව මහතා පවසන්නේ මේ සම්බන්ධව නිසි පරීක්ෂණ ආරම්භ කර ඇති බවත් එම තර්ජනය කර දුන් ඇමතුම් සම්බන්ධ පරීක්ෂන කර ඉදිරි ක්‍රියාමාර්ග ගන්නා බවයි. ඔහු පවසන පරිදි අපරාධ කොට්ඨාස අධ්‍යක්‍ෂවරයා වාර්තා කර තිබෙන්නේ මෙම සිදුවීම නිර්මාණාත්මක හෝ සැලසුම් සහගත දෙයක්ද යන්න තහවුරු කිරීමට අවශ්‍ය කටයුතු කරන බවත් මේ සම්බන්ධ පරීක්ෂණ පවත්වන නිලධාරීන් පවසන්නේ බොහෝ වෙලාවට මෙම නිලධාරියා (පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා) අතිශෝක්තියෙන් ඉදිරිපත් කරන ප්‍රකාශයක්ද සැක කරන බවයි.
+Police Media Spokesperson SSP Kmanda Police Media Spokesperson SSP Nissants Police Media Spokesperson General Thaliduwa have commenced a press conference regarding the exit of the death of the underworld gang members.That investigation into threatened calls will be investigated. According to him, the Criminal Divisional Director reports that the incident is required to ensure that this event is creative or planned, saying that the officer (Inspector Duminda Jayatilleke) is suspected.
 
 ◼️
 
 [Data](articles/5c3190f3.json)
+
+[Extended Data](ext_articles/5c3190f3.ext.json)
 
 ---
 
@@ -1196,25 +1272,31 @@ Thus, the companies noted that the committee’s decision to reject their applic
 
 ---
 
-### කටුනායක ගුවන් තොටුපොළ: මගීන්ට හිසරදයක් වූ ශ්‍රී ලංකාවට පිවිසෙන රන් දොරටුව
+### Katunayake Airport: Gold door to Sri Lanka, a headache for passengers
 
 *2024-02-28 12:31:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2lgn8yd45o) · `si`
 
-කටුනායක ගුවන් තොටුපොළ: මගීන්ට හිසරදයක් වූ ශ්‍රී ලංකාවට පිවිසෙන රන් දොරටුව
+Katunayake Airport: Gold door to Sri Lanka, a headache for passengers
 
-ශ්‍රී ලංකාවට පිවිසෙන රන් දොරටුව ලෙස හදුන්වන කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ සේවක විරෝධතා, වර්ජන සහ ගුවන් ගමන් ප්‍රමාද වීම් සහ අවලංගු වීම් නිසා ගුවන් මගීන්ගේ විරෝධතා බහුල  ස්ථානයක් බවට පත් වී තිබේ.
+Katunayake's international airports, strikes and flights and flights and flights and flights and cancellations have become a wide range of protests and losses.
 
-සීමාසහිත ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගමේ සභාපති ඉංජිනේරු අතුල ගල්කැටිය (පෙබරවාරි 27 වැනිදා) විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් පවසා සිටියේ ශ්‍රී ලන්කන් ගුවන් සේවයේ ගුවන් යානා අවලංගු වීම් සහ ප්‍රමාද වීම් නිසා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙන ගුවන් මගීන්ට සිදු වන අපහසුතා පිළිබඳ තමන් අතිශයින් කනගාටුවට වන බව ය.
+A special press conversation in Galkalapitiya (Febru 27) a special news convenery in Galkalu, the Sri Lankan Aircraft (February 27), a special news for the aircrafts and delays of Sri Lankan aircraft (February 27).Is.
 
-SriLankan Airlines: ‘ශ්‍රී ලංකාවට ආදරෙයි.නමුත් ගුවන් සේවය ඒ අත්දැකීම විනාශ කළා’
+SriLankan Airlines: 'In love with Sri Lanka, but the airline has destroyed the experience
 
-ශ්‍රී ලන්කන් ගුවන් යානා ප්‍රමාද වීම් සහ අවලංගු වීම් නිසා පසුගිය මාස කීපය තුළම ගුවන් තොටුපොළ තුළ විදේශීය සංචාරකයන් මහත් කළබැගෑනි සිදු කර තිබුණි.
+Foreign tourists have been made in the airport over the past few months due to delay and cancels of Sri Lankan aircraft.
 
-එහෙත් ශ්‍රී ලන්කන් ගුවන් සේවයේ මෙම ගැටළු නොදුරු දිනකදී නිවැරැදි වේ යැයි උපකල්පනය කිරීම අපහසු වී තිබේ.
+However, it is difficult to assume that the SriLankan Airlines is correct at a day of notice.
+
+It is the delay, delay and employee shortage of the aircraft soil.
+
+The aircraft had to landed on the Melbourne airport on a problematic system of the air-agreed system while SriLankan Airlines has begun from Australia's Melbourne recently.
 
 ...
 
 [Data](articles/ef5df32a.json)
+
+[Extended Data](ext_articles/ef5df32a.ext.json)
 
 ---
 
@@ -1951,89 +2033,5 @@ The programme is being attended by 40 elite civil servants from Sri Lanka, encom
 [Data](articles/d6129f07.json)
 
 [Extended Data](ext_articles/d6129f07.ext.json)
-
----
-
-### Court suspends divestiture process of Lanka Hospitals
-
-*2024-02-28 09:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-suspends-divestiture-process-of-Lanka-Hospitals/108-277866) · `en`
-
-Colombo, Feb 28 (Daily Mirror) - The Court of Appeal today issued an interim order preventing the authorities from proceeding with the divestiture process of the Lanka Hospitals Corporation PLC, until March 12.
-
-The Court of Appeal made this order pursuant to a writ petition filed by Lyca Leasing Holding Limited and HAIMS International Limited challenging the refusal to consider the petitioners’ application for prequalification in the Request for Qualification (RFQ) for the strategic divestiture of 51.34% of the Lanka Hospitals Corporation PLC.
-
-Upon the oral submissions made by President’s Counsel Kuvera De Zoysa, Court of Appeal Justice D.N. Samarakoon issued notices on respondents, returnable for March 12.
-
-The Court of Appeal Registrar is directed to issue notice forthwith and also, the interim order to the respondents through ordinary means and also, to communicate over telephone and fax if the petitioners pay charges.
-
-...
-
-[Data](articles/d96dd8ac.json)
-
-[Extended Data](ext_articles/d96dd8ac.ext.json)
-
----
-
-### An announcement of warm weather
-
-*2024-02-28 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193900) · `si`
-
-The temperature of several areas in the island will continue to focus on a level today (28).
-
-The heat of the human body in the North Western and Southern provinces, the heat of the human body will be at focus.
-
-Deputy Director Merrill Mendis said that it should be followed by adequate water, including the restriction in the shade, and the stress of the expanding the stress, including the stressing outdoors.
-
-In the meantime, heavy sunshines can lead to headaches, vomiting, body pain, sleepiness, says Dr. Deepal.
-
-"We feel a hard job today and in the days. At the same time the drop out of the body. Saliva and water leaves the body. So we all feel inconvenienced. Symptoms may cause vomiting, headache, body, sleepiness, sleep, or faintness. To avoid these, we need to drink more water and saliva. Natural beverages, porridges, lime, oranges, orange water, orange water, coalmawa, like the coconut. "
-
-Dr. Deepal Perera said that due to this situation, the sides of the dermatologist have emerged.
-
-...
-
-[Data](articles/81da52d4.json)
-
-[Extended Data](ext_articles/81da52d4.ext.json)
-
----
-
-### PUCSL to announce decision on CEB’s tariff reduction proposal today
-
-*2024-02-28 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97582/pucsl-to-announce-decision-on-cebs-tariff-reduction-proposal-today) · `en`
-
-The Public Utilities Commission of Sri Lanka (PUCSL) is slated to deliver its decision on the electricity tariff reduction proposal mooted by the Ceylon Electricity Board (CEB) today (Feb.28).
-
-According to a spokesperson of the Ministry of Power & Energy, the tariffs are likely to be reduced by at least 18%.
-
-PUCSL will convene a meeting later today to decide on the state-owned electricity supplier’s tariff revision proposal which was submitted to the Commission on Feb.22.
-
-Last week, Minister Kanchana Wijesekera told the parliament that the CEB expects to reduce the rates by at least the same rates and percentages increased in October 2023.
-
-In October last year, the electricity tariffs were raised by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
-
-◼️
-
-[Data](articles/8eafc85a.json)
-
-[Extended Data](ext_articles/8eafc85a.ext.json)
-
----
-
-### Minister Harin met cricketers
-
-*2024-02-28 08:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரிக்கெட்-வீரர்களை-சந்தித்தார்-அமைச்சர்-ஹரின்/175-333924) · `ta`
-
-A number of Sri Lankan cricket team players met with Sports Minister Harin Fernando today on the problems and challenges faced by Sri Lankan cricketers.
-
-ODI captain Kusal Mendis, Twenty20 captain Wanindu Hasaranga, Senior players Angelo Madhus, Timuth Karunaratne, Cricket Advisor Sanath Jayasuriya, and Chief Executor Upul Tharanga participated in the meeting.
-
-It is said that the training structures faced by cricketers, innovative training strategies, mental focus, talent development and strategies for success in upcoming competitions have been discussed.
-
-◼️
-
-[Data](articles/e305f17f.json)
-
-[Extended Data](ext_articles/e305f17f.ext.json)
 
 ---

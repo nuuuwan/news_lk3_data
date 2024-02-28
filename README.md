@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 16:33:28**
+As of **2024-02-28 16:48:52**
 
 ## Newspaper Stats
 
@@ -37,6 +37,12 @@ Extensions include translations and NER (Named Entity Recognition).
 *2024-02-28 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97595/imf-team-to-visit-sri-lanka-for-second-eff-review) · `en`
 
 A team from the International Monetary Fund (IMF) is to arrive in Sri Lanka for the second review of the Extended Fund Facility (EFF) programme which is to begin on 07 March, according to State Minister of Finance Shehan Semasinghe.
+
+The progress in meeting key commitments under the IMF-supported program is set to be formally assessed in the context of the second review of the EFF arrangement alongside the forthcoming 2024 Article IV consultation assessing Sri Lanka’s economic health.
+
+The International Monetary Fund (IMF) had previously said the second review of Sri Lanka’s $2.9 billion bailout could be completed in the first half of 2024, provided it manages to meet debt restructuring and revenue targets set under the programme.
+
+The IMF executive board had cleared the first review of Sri Lanka’s $2.9 billion bailout in December last year, providing about $337 million in funds to help tackle the fallout from the country’s worst financial crisis in decades.
 
 ◼️
 

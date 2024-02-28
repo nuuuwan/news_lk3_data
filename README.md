@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 01:50:26**
+As of **2024-02-29 02:02:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,885 (100.0%) of 9,889 articles have been extended.
+9,889 (100.0%) of 9,889 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,59 +104,73 @@ It might have a huge effect on hydro power generation as well, making in turn a 
 
 ### 2024-02-28 (Wednesday)
 
-### பங்களாதேஷுடனான முதல் இரண்டு ரி20 போட்டிகளில் இலங்கை அணித் தலைவர் அசலன்க ; பெத்துமுக்கு பதில் அவிஷ்க
+### Sri Lankan captain Asalanga in the first two T20 matches with Bangladesh;Avishka in response to Bethum
 
 *2024-02-28 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177554) · `ta`
 
-பங்களாதேஷுக்கு எதிராக சில்ஹெட்டில் மார்ச் 4ஆம் திகதி ஆரம்பமாகவுள்ள 3 போட்டிகள் கொண்ட சர்வதேச ரி20 கிரிகெட் தொடருக்கான முதல் இரண்டு போட்டிகளில் இலங்கை அணிக்கு பதில் தலைவராக சரித் அசலன்க பதவி வகிக்கவுள்ளார்.
+Sarid Asalanka will be the captain of the Sri Lankan team in the first two matches for the three -match International T20 Cricket Series, which begins on March 4 in Chillhead against Bangladesh.
 
-இதற்கு அமைய சர்வதேச ரி20 கிரிக்கெட் போட்டியில் முதல் தடவையாக இலங்கை அணிக்கு சரித் அசலன்க தலைமை தாங்கவுள்ளார்.
+Sarid Asalank will be captained by Sri Lanka for the first time in the international T20 cricket match.
 
-ஆப்கானிஸ்தானுடனான 3ஆவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டி முடிவில் கள மத்தியஸ்தர் லிண்டன் ஹனிபலை சாடிய குற்றத்திற்காக வனிந்து ஹசரங்கவுக்கு 2 சர்வதேச ரி20 போட்டித் தடை விதிக்கப்பட்டது.
+At the end of the 3rd ODI match against Afghanistan, field mediator Linden Hanibale was banned by Hazaranga for a crime of 2 international T20s.
 
-எனினும்  மூன்றாவது ரி20 கிரிக்கெட் போட்டியில் ஹசரங்க மீண்டும் தலைமைப் பொறுப்பை ஏற்பார்.
+However, in the third T20 cricket match, Hazaranga will again take over the chairman.
 
-இதேவேளை, ஆப்கானிஸ்தானுடனான கடைசி சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியின்போது உபாதைக்குள்ளாகி ஓய்வு பெற்ற பெத்தும் நிஸ்ஸன்கவுக்கு உபாதையிலிருந்து மீளும்வரை ஓய்வு வழங்கப்பட்டுள்ளது.
+Meanwhile, Nissanka, who retired from the last international ODI match with Afghanistan, has been given retirement from Nissanka.
 
-ஆப்கானிஸ்தானுடனான சர்வதேச ஒருநாள் கிரிக்கெட் தொடரில் அவர் இரண்டு அரைச் சதங்களைக் குவித்து துடுப்பாட்டத்தில் திறமையை வெளிப்படுத்தியிருந்தார்.
+In the International ODI series against Afghanistan, he has accumulated two half centuries and showcased his talent.
+
+The electors have joined him in the internationally limited over cricket matches.
+
+Spinner Jevery Vendasee has been reinstated two years later in the T20 group. He was last played in Dambulla against India in February 2022.
 
 ...
 
 [Data](articles/08cb1657.json)
 
+[Extended Data](ext_articles/08cb1657.ext.json)
+
 ---
 
-### சாந்தனின் மரணத்திற்கு இந்திய, இலங்கை அரசுகளும் தமிழ் தலைமைகளுமே பொறுப்பேற்க வேண்டும் - குரல் அற்றவர்களின் குரல் அமைப்பு
+### Indian, Sri Lankan governments and Tamil leaders should be held responsible for the death of Shantan - the voice organization of the voiceless
 
 *2024-02-28 23:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177553) · `ta`
 
-சாந்தனின் மரணத்திற்கு இந்திய, இலங்கை அரசுகளும் தமிழ் தலைமைகளுமே பொறுப்பேற்க வேண்டும் என குரல் அற்றவர்களின் குரல் அமைப்பின் ஒருங்கிணைப்பாளர் மு.கோமகன் தெரிவித்துள்ளார்.
+The Indian, Sri Lankan governments and Tamil leaders should take responsibility for the death of Shantan, said M Komagan, coordinator of the voice organization.
 
-யாழ் ஊடக அமையத்தில் புதன்கிழமை (28) இடம்பெற்ற ஊடக சந்திப்பின் போதே இவ்வாறு தெரிவித்துள்ளார்
+He made this statement during a media briefing held at the Jaffna Media Center on Wednesday (28)
 
-கைது செய்யப்படும் இந்திய மீனவர்களை நல்லிணக்க அடிப்படையில் ஒரே இரவில் பேச்சுவார்தை மூலம் விடுதலை செய்ய முடியும் என்றால் ஏன் சாந்தனை உடன் விடுதலை செய்ய முடியாமல் போனது என மு.கோமகன் கேள்வி எழுப்பியுள்ளார்.
+MKomagan has questioned why he was unable to release the Indian fishermen if he could be released overnight on the basis of reconciliation on the basis of reconciliation.
 
-அத்தோடு இலங்கையில் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள அரசியல் கைதிகளை உடன் விடுதலை செய்வதற்கு நடவடிக்கை எடுக்க வேண்டும் எனவும் மேலும் தெரிவித்துள்ளார்.
+He added that steps should be taken to release the political prisoners detained in Sri Lanka.
 
 ◼️
 
 [Data](articles/426e6a98.json)
 
+[Extended Data](ext_articles/426e6a98.ext.json)
+
 ---
 
-### ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனம் விற்பனை : அபிலாசைகளை பெற்றுக்கொள்ள எதிர்வரும் மாதம் வரை காலவகாசம்
+### Sri Lanka Services Company Sales: Time to get aspirations
 
 *2024-02-28 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177552) · `ta`
 
-ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்தை தனியார் மயப்படுத்துவற்காக தேசிய மற்றும் சர்வதேச முதலீட்டாளர்களின் அபிலாசைகளைப் பெற்றுக்கொள்வது ஐந்தாவது முறையாகவும் நீடிக்கப்பட்டுள்ளது. இதற்கமைய எதிர்வரும் மார்ச் மாதம் ஆறாம் திகதி வரை காலவகாசம் வழங்கப்பட்டுள்ளது.
+For the fifth time, the aspirations of national and international investors have been extended for the privatization of Sri Lanka Services Company.. Accordingly, the deadline for the sixth of March.
 
-ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்தை விற்பனை செய்வதற்காகத் தேசிய மற்றும் சர்வதேச முதலீட்டாளர்களிடமிருந்து அபிலாசைகளைப் பெற்றுக்கொள்ள கடந்த ஆண்டு டிசம்பர் மாதம் தீர்மானிக்கப்பட்டது. அதற்கான உத்தியோகப்பூர்வ அறிவிப்புக்கள் விடுக்கப்பட்டிருந்த நிலையில் முதலீட்டாளர்கள் எவரும் முன்வராத நிலையில் அபிலாசைகள் பெற்றுக்கொள்ளும் காலவகாசம் ஐந்தாவது முறையாகவும் நீடிக்கப்பட்டுள்ளது.
+It was decided in December last year to get aspirations from national and international investors for the sale of Sri Lanka Services Company. As the official announcements have been issued, no investors have come forward and have been extended for the fifth time.
 
-நட்டமடையும் அரச நிறுவனங்களின் பட்டியலில் ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனம் முன்னிலை வகிக்கிறது.பணியாளர்கள் பற்றாக்குறை, தொழில்நுட்ப கோளாறு உள்ளிட்ட காரணிகளால் ஸ்ரீ லங்கன் விமான சேவைகள் நிறுவனத்தின் விமான சேவைகள் தாமதமாகுவதும், இரத்தாகுவதும் கடந்த காலங்களில் வழமையாகி விட்டதொரு செயற்பாடாக காணப்பட்டது.
+Sri Lankan Airlines Company is leading the list of state -owned corporations.
 
-...
+National and international passengers were opposed to heavy inconveniences last Saturday. Commenting on the incident, the Port, Shipping and Civil Aviation Minister Nimal Siripala de Silva said the delay was due to the delay.
+
+In the meantime, Sri Lanka's airlines have been canceled yesterday and a few flights have been canceled yesterday.
+
+◼️
 
 [Data](articles/8241fa99.json)
+
+[Extended Data](ext_articles/8241fa99.ext.json)
 
 ---
 
@@ -191,6 +205,8 @@ If it is determined that a teacher was involved, appropriate disciplinary action
 ◼️
 
 [Data](articles/0f87202f.json)
+
+[Extended Data](ext_articles/0f87202f.ext.json)
 
 ---
 

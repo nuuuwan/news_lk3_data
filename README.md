@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 10:02:45**
+As of **2024-02-28 10:17:36**
 
 ## Newspaper Stats
 
-*Scraped **9,729** Articles*
+*Scraped **9,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 1,170
 tamilmirrorlk | 1,189
 virakesarilk | 1,330
 dailymirrorlk | 1,465
-adaderanasinhalalk | 1,470
+adaderanasinhalalk | 1,471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,729 (100.0%) of 9,729 articles have been extended.
+9,729 (100.0%) of 9,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### සජබයට ගිය දේවිකාට තනතුරු රැසක්
+
+*2024-02-28 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193901) · `si`
+
+රජයේ පවුල් සෞඛ්‍ය සේවා සංගමයේ සභාපතිනි දේවිකා කොඩිතුවක්කු මහත්මිය සමගි ජන බලවේගය සමග එක්වී තිබේ.
+
+◼️
+
+[Data](articles/e4e96822.json)
+
+---
 
 ### An announcement of warm weather
 
@@ -2011,33 +2023,5 @@ Senior Counsel Darshana Kuruppu with Counsel Dineru Bandara appeared for the Acc
 [Data](articles/b49eac3a.json)
 
 [Extended Data](ext_articles/b49eac3a.ext.json)
-
----
-
-### Sri Lanka rupee closes at 310.25/50 to the US dollar
-
-*2024-02-27 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-310-25-50-to-the-us-dollar-152304/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 310.25/50 to the US dollar Tuesday, from 310.80/311.00 on Monday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.60/75 percent from 10.60/80 percent.
-
-A bond maturing on 15.09.2027 closed stable at 11.80/95 percent.
-
-A bond maturing on 15.03.2028 closed stable at 12.00/15 percent.
-
-A bond maturing on 15.07.2029 closed at 12.25/50 percent from 12.20/70 percent.
-
-A bond maturing on 15.05.2030 closed at 12.25/40 percent from 12.30/70 percent.
-
-A bond maturing on 15.05.2031 closed stable at 12.60/80 percent.
-
-A bond maturing on 01.07.2032 closed at 12.55/13.00 percent from 12.50/90 percent. (Colombo/Feb27/2024)
-
-◼️
-
-[Data](articles/f9bdda57.json)
-
-[Extended Data](ext_articles/f9bdda57.ext.json)
 
 ---

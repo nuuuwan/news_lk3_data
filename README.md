@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 18:20:10**
+As of **2024-02-28 18:32:57**
 
 ## Newspaper Stats
 
-*Scraped **9,829** Articles*
+*Scraped **9,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 503
 dailyftlk | 519
 islandlk | 521
 adalk | 832
-adaderanalk | 1,184
+adaderanalk | 1,185
 tamilmirrorlk | 1,197
 virakesarilk | 1,353
 dailymirrorlk | 1,485
@@ -26,21 +26,39 @@ adaderanasinhalalk | 1,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,819 (99.9%) of 9,829 articles have been extended.
+9,829 (100.0%) of 9,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### බංග්ලාදේශයට එරෙහිව පිටියට එන ශ්‍රී ලංකා කණ්ඩායම මෙන්න
+### President stresses significant responsibilities entrusted with country’s religious leaders
+
+*2024-02-28 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97599/president-stresses-significant-responsibilities-entrusted-with-countrys-religious-leaders) · `en`
+
+President Ranil Wickremesinghe has affirmed the government’s commitment to fostering development through reconciliation, emphasising that nations worldwide which have eradicated racism and bigotry have experienced significant development.
+
+The President further highlighted how racism and bigotry have become convenient tools for politicians to wield power and for religious leaders to maintain their authority, recounting the grim lessons learned from the prolonged use of these divisive tactics, which ultimately led the nation into a devastating conflict.
+
+Addressing the ‘Religions to Reconcile’ National Inter Religious Symposium, organized by the National Peace Council of Sri Lanka, held today (28 Feb.) at the Bandaranaike International Conference Hall (BMICH) in Colombo, President Wickremesinghe stressed the importance of fostering unity and religious harmony among all citizens, underscoring the government’s proactive measures toward this goal.
+
+...
+
+[Data](articles/d32c3c8f.json)
+
+---
+
+### Here Sri Lanka is the Sri Lankan team against Bangladesh
 
 *2024-02-28 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193924) · `si`
 
-බංග්ලාදේශ කණ්ඩායම සමග පැවැත්වෙන විස්සයි විස්ස තරගාවලිය සඳහා සහභාගී වන ශ්‍රී ලංකා ක්‍රිකට් සංචිතය නම්කර තිබේ.
+The SLC squad has been named for the Twenty20 Championship with Bangladesh team.
 
 ◼️
 
 [Data](articles/d72a4c6a.json)
+
+[Extended Data](ext_articles/d72a4c6a.ext.json)
 
 ---
 
@@ -58,79 +76,89 @@ The OSC in Kilinochchi also provides essential psychosocial, medical, and legal 
 
 [Data](articles/89dbd9aa.json)
 
+[Extended Data](ext_articles/89dbd9aa.ext.json)
+
 ---
 
-### பாதாள உலகக் குழுவினரின் மரண அச்சுறுத்தலால் வெளிநாடு சென்ற குற்றப் பிரிவின் பொறுப்பதிகாரி துமிந்த ஜயதிலக்க!
+### Duminda Jayatilaka, Officer of the Criminal Investigation Division who went abroad due to the threat of the underworld group
 
 *2024-02-28 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177531) · `ta`
 
-தற்போது வெளிநாட்டில்  வசிக்கும்  பொலிஸ் பரிசோதகர் துமிந்த ஜயதிலக வெளியிட்ட கொலை மிரட்டல் சம்பவம் தொடர்பில் விசாரணைகள் இடம்பெற்று வருவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police are currently investigating the murder threat issued by the Inspector of Police Duminda Jayathilaka, who is currently living abroad, police said.
 
-பிரதிப் பொலிஸ் மா அதிபரும்  பொலிஸ் ஊடகப் பேச்சாளருமான நிஹால் தல்துவ இதனைக் குறிப்பிட்டுள்ளார்.
+Deputy Inspector General of Police and Police Media Spokesperson Nihal Dalduwa made this statement.
 
-தனக்கும் தனது குடும்பத்துக்கும் பாதாள உலகக் குழு உறுப்பினர்களின் மரண அச்சுறுத்தல் காரணமாகவே தான் வெளிநாடு சென்றதாக சமூக ஊடகங்களில் காணொளி ஒன்றை வெளியிட்ட கொழும்பு குற்றப் பிரிவின் ஒழுங்கமைக்கப்பட்ட குற்றப் பிரிவின் பொறுப்பதிகாரி இன்ஸ்பெக்டர் துமிந்த ஜயதிலக்க தெரிவித்துள்ளாார்.
+Inspector Duminda Jayatilleka, the officer in charge of the Colombo Crime Division, who posted a video on social media, said that he and his family had gone abroad due to the death threat of the underworld group members.
 
-இது தொடர்பில் கருத்து தெரிவித்த பிரதிப் பொலிஸ் மா அதிபர், பொலிஸ் ஊடகப் பேச்சாளர்,நிஹால் தல்துவ,  குறித்த அச்சுறுத்தல் தொடர்பான   ஒலி நாடாக்கள்  குறித்தும் சந்தேகங்கள் எழுந்துள்ளன எனக் கூறியுள்ளார்.
+Commenting on this, the Deputy Inspector General of Police, Police Media Spokesperson, Nihal Talduwa, said that there were doubts about the threats of the threat.
 
 ◼️
 
 [Data](articles/ea7a7e6e.json)
 
+[Extended Data](ext_articles/ea7a7e6e.ext.json)
+
 ---
 
-### உலகளாவிய முன்னணி நாடாக அங்கீகரிக்கப்பட்ட இலங்கை
+### Sri Lanka recognized as a global leading country
 
 *2024-02-28 17:41:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகளாவிய-முன்னணி-நாடாக-அங்கீகரிக்கப்பட்ட-இலங்கை/175-333956) · `ta`
 
-ஐக்கிய நாடுகளின் சுற்றாடல் பேரவையின்ஆறாவது அமர்வில் (UNEA-6) , சதுப்புநிலங்களை மறுசீரமைப்பதில் இலங்கை உலகளாவிய முன்னணி நாடாக அங்கீகரிக்கப்பட்டது.
+In the sixth session of the United Nations Environmental Council (UNEA-6), Sri Lanka was recognized as the Global Leading Country in the restoration of marshes.
 
-ஐக்கிய நாடுகளின் சுற்றுச்சூழல் பேரவையின் ஆறாவது அமர்வு பெப்ரவரி 26ஆம் திகதி கென்யாவின் நைரோபியிலுள்ள ஐக்கிய நாடுகளின் சுற்றுச்சூழல் திட்டத்தின் (UNEP) தலைமையகத்தில் தொடங்கியது.
+The sixth session of the United Nations Environmental Council began on February 26 at the headquarters of the United Nations Environmental Project (UNEP) in Nairobi, Kenya.
 
-ஐக்கிய நாடுகளின் சுற்றுச்சூழல் பேரவையின் ஆறாவது அமர்வை உத்தியோகபூர்வமாக ஆரம்பிப்பதற்கு முன், கூட்டத்தில் ஆராய்வதற்கான அடித்தளத்தை அமைப்பதற்காக நிரந்தரப் பிரதிநிதிகளின் குழு கூடியது.
+Before officially launching the sixth session of the United Nations Environmental Council, a committee of permanent representatives met to set up the foundation for the meeting.
 
-இந்த மாநாட்டின் சிறப்பம்சங்களில், சதுப்புநில மறுசீரமைப்பு முயற்சிகளில் இலங்கையை உலகளாவிய முன்மாதிரியாக எடுத்துக் கொள்ள முடியும் என சுட்டிக்காட்டப்பட்டது.
+Of the highlights of this conference, it was pointed out that Sri Lanka could be taken as a global role model in mangrove restructuring efforts.
 
-ஒரு மதிப்புமிக்க விருதைப் பெற்றுள்ள இலங்கையின் சதுப்புநில சுற்றுச்சூழல் கட்டமைப்புகளைப் பாதுகாத்தல் மற்றும் புத்துயிர் அளிப்பதில்  இலங்கை காட்டும்  அர்ப்பணிப்பு, உலகில் செயல்திறன் மிக்க சுற்றுச்சூழல் பொறுப்புணர்வுக்கு ஒரு சான்றாகக் காணப்படுகிறது.
+Sri Lanka's commitment to preserving and reviving Sri Lanka's marshland environmental structures, which has received a valuable award, is a testament to the world's efficient environmental responsibility.
 
 ...
 
 [Data](articles/67510333.json)
 
+[Extended Data](ext_articles/67510333.ext.json)
+
 ---
 
-### මන්ත්‍රී ධුරයක් පුරප්පාඩු බව දැනුම්දෙයි
+### It is informed that he is vacancies
 
 *2024-02-28 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193923) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ධුරයක පුරප්පාඩුවක් පවතින බව පාර්ලිමේන්තුව මැතිවරණ කොමිෂන් සභාවට දැනුම්දී තිබේ.
+The Parliament has informed the Elections Commission that there is a vacancies in a post on a post.
 
-අනුරාධපුර මැතිවරණ කොට්ඨාසයේ පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතා 2024 පෙබරවාරි  මස 26 වැනි දින සිට බල පැවැත්වෙන පරිදි පාර්ලිමේන්තු අසුනෙන් ඉල්ලා අස්විය.
+MP Udi Premaratne of the Anuradhapura Electorate resigned from the parliament seat from 26, 2024.
 
-ඒ හේතුවෙන් 09 වැනි පාර්ලිමේන්තුවේ මන්ත්‍රී ධුරයක පුරප්පාඩුවක් ඇතිවී තිබෙන බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණධීර මහත්මිය මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා තිබේ.
+As a result, MP Kushani Rohanaharadera has informed the Chairman of the Election Commission
 
-1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම් දීම සිදුකර ඇත.
+This was made in terms of Section 64 (1) of the Parliament Election Act, No. 1 of 1981.
 
 ◼️
 
 [Data](articles/104a028c.json)
 
+[Extended Data](ext_articles/104a028c.ext.json)
+
 ---
 
-### සාගතයක් ගැන එක්සත් ජාතීන්ගේ සංවිධානයෙන් අනාවරණයක්
+### United Nations reveals about famine
 
 *2024-02-28 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193922) · `si`
 
-යුද ගැටුම් හේතුවෙන් ගාසා තීරයේ ලක්ෂ 05කට ආසන්න ජනතාවක් සාගත තත්වයකට මුහුණදෙමින් සිටින බව එක්සත් ජාතීන්ගේ සංවිධානය පවසයි.
+The United Nations says that nearly 500,000 people in the Gaza is facing famine due to war.
 
-එම ප්‍රමාණය ගාසා තීරයේ ජනගහනයෙන් 4න් එකක් පමණ වන බව ඔවුන් පෙන්වා දී තිබේ.
+They have shown that the size is about 4 of the population of Gaza.
 
-ගාසා තීරය සදහා මානුෂීය ආධාර රැගත් ට්‍රක් රථ ප්‍රවේශය සීමා කිරීම හේතුවෙන් මෙම තත්ත්වය හටගෙන ඇති බව සඳහන් වෙයි.
+It is said that this situation has arisen due to the limitations of the truck access to the Gaza.
 
-ගාසා තීරයේ භූගත ජලයෙන් සියයට 97ක් ද මිනිස් පරිභෝජනයට නුසුදුසු මට්ටමක පවතින බව එක්සත් ජාතීන්ගේ සංවිධානය අනාවරණය කර තිබේ.
+The United Nations has revealed that 97 percent of the groundwater in the Gaza collapse are not inappropriate for human consumption.
 
 ◼️
 
 [Data](articles/d6aad011.json)
+
+[Extended Data](ext_articles/d6aad011.ext.json)
 
 ---
 
@@ -150,41 +178,49 @@ The Opposition is planning to bring in a no-confidence motion against the Speake
 
 ---
 
-### குடிநீர் கிடைப்பதில்லை  ; லிந்துலையில் மக்கள் ஆர்ப்பாட்டம்
+### Drinking water is not available;People demonstrate in Lindula
 
 *2024-02-28 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177514) · `ta`
 
-லிந்துலை பொலிஸ்பிரிவுக்குட்பட்ட கிறேட்வெஸ்டன் கல்கந்தவத்தை தோட்ட மக்கள் தமது தேவைக்கு குடிநீர் கிடைப்பதில்லை என இன்று  (28) ஆர்ப்பாட்டத்தில் ஈடுப்பட்டனர்.
+The people of the Greedweston Calcandawatta, which belongs to the Lindulai police division, staged a protest today (28) that the people of Calcantawatta do not get drinking water for their needs.
 
-2002 ம் ஆண்டு தேசிய வீடமைப்பு தோட்ட உட்கட்டமைப்பு அமைச்சர் ஆறுமுகன் தொண்டமானால் அரசாங்கத்தின் 100 நாள் வேலைத்திட்டத்தினூடாக தலவாக்கலை நகர மக்களுக்கு தினசரி 24 மணி நேரமும் நீர் விநியோக வேலைத்திட்டம் என்ற வேலைத்திட்டத்தில் தலவாக்கலை கிறேட்வெஸ்டன் கல்கந்தவத்தை மலை அடிவாரத்தில் ஆரம்பமாகும் (கல்லாறு) ஆற்றை ஒரு பகுதி மறித்து அணையிட்டு  அங்கிருந்து குழாய்கள் ஊடாக தலவாக்கலை நகருக்கு சுத்தமான குடிநீர் வழங்கப்பட்டது.
+In 2002, the Minister of National Housing Estate Arumugan Thondaman, through the government's 100 -day program of the government, will be opened at the Talawakelle Ketweston Kalkandawattai hill (Kallar) river from the foothills of the Talawakelle 24 -hour Water Supply Program.
 
-சுமார்  21 வருடங்கள் கடந்துள்ள நிலையில் தற்போது நீர்வழங்கல் வடிகாலமைப்பு சபையினூடாக கல்கந்தவத்தை மலை அடிவாரத்தில் ஆரம்பமாகும் (கல்லாறு) ஆற்றின் அணையை  ஒரு அடி உயர்த்தி தண்ணீரை சுத்திகரித்து மேலும் குழாய்களை பொருத்தி அதனூடாக தலவாக்கலை நகருக்கு குடிநீர் வழங்க வேலைத்திட்டமொன்று தற்போது ஆரம்பிக்கப்பட்டுள்ளது.
+After about 21 years, a program has now begun through the Water Supply and Drainage Board at the foot of the Kalkandawattai mountain (Kallar) Dam.
 
-இத்திட்டத்தினால்  கல்கந்தவத்தை தோட்டத்தைச் சேர்ந்த சுமார் 250 குடும்பங்கள் பாதிக்கபடுவதாக அத்தோட்ட மக்கள் கவலை தெரிவிக்கின்றனர்.
+The people are worried that about 250 families from the Calcutta estate are affected by the project.
+
+The relevant authorities should come forward to provide clean drinking water to 250 families who first live here.
 
 ...
 
 [Data](articles/bd83bba5.json)
 
+[Extended Data](ext_articles/bd83bba5.ext.json)
+
 ---
 
-### இலங்கையில் நீண்டகாலம் மோதலில் ஈடுபட்ட இரண்டு சமூகத்தினரும்  மரபணுரீதியில் ஒத்ததன்மைகளை கொண்டுள்ளர்- ஆய்வில் தகவல்
+### Both communities who have been involved in a long-term clash in Sri Lanka have genetic similarity
 
 *2024-02-28 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177527) · `ta`
 
-இலங்கையில் நீண்டகால உள்நாட்டு யுத்தத்தில் ஈடுபட்ட இரண்டு பெரும் இனக்குழுக்களான சிங்களவர்களுக்கும் தமிழர்களுக்கும் மரபணுரீதியில் ஒற்றுமையை கொண்டுள்ளனர் என்பது ஆய்வொன்றின் மூலம் தெரியவந்துள்ளது.
+The study reveals that the two major ethnic groups involved in the long -standing civil war in Sri Lanka have generated genetic unity for the Sinhalese and Tamils.
 
-தென்னாசியாவின் வேறு எந்த சமூகத்தையும் விட இந்த இரு சமூகத்தவர்கள் மரபணுரீதியில் ஒன்றுமையை கொண்டுள்ளனர் எனவும்  ஆய்வின் மூலம் தெரியவந்துள்ளது.
+The study also revealed that these two communities have one geneticly than any other community in South Asia.
 
-ஐசயன்ஸ் என்ற சஞ்சிகையில் இந்த ஆய்வின் முடிவுகள் வெளியாகியுள்ளன. இந்திய இலங்கை மரபணுநிபுணர்கள் இந்த ஆய்வினை மேற்கொண்டுள்ளனர்.
+The results of the study have been revealed in the magazine of Eiseans. The study is being carried out by the Indian Sri Lankan genome.
 
-இந்த ஆய்வு இலங்கையின் இனக்குழுக்களின் வரலாற்று தோற்றம் பற்றிய உண்மைகளை வெளிக்கொணர்ந்துள்ளதுடன் இந்த இரு சமூக குழுக்கள் மத்தியிலான சமூக ஊடாட்டங்கள் பற்றிய பல விடயங்களையும் வெளிப்படுத்தியுள்ளது.
+The study has revealed the facts of the historical origins of Sri Lankan ethnic groups and have revealed many issues on social media among the two social groups.
 
-இரண்டு சமூகங்களிற்குஇடையில் குறிப்பிடத்தக்க  கலாச்சார  மற்றும் மொழி வித்தியாசங்கள் உள்ளபோதிலும்  பல நூற்றாண்டுகளாக இரு சமூகங்களும் ஒன்றுடன் ஒன்று பின்னிப்பிணைந்துள்ள  இது மரபணுதொடர்பிற்கு காரணமாக அமைந்துள்ளது எனவும் இந்த ஆய்வு தெரிவித்துள்ளது.
+The study found that although there are significant cultural and language differences between the two communities, the two communities have been related to the generation for centuries.
+
+The majority Sinhala community and the minority Sinhalese community have been involved in a bloody confrontation and continued till 2009, but the disbelief and hatred among the two communities is still being seen.
 
 ...
 
 [Data](articles/da2f26c6.json)
+
+[Extended Data](ext_articles/da2f26c6.ext.json)
 
 ---
 
@@ -210,23 +246,25 @@ Further, activities such as yoga, beach cleaning and a walkathon will also be he
 
 ---
 
-### අද දෙරණ මාධ්‍යවේදියා ට ජාත්‍යන්තර සම්මානයක්
+### Ada Derana journalist is a international award
 
 *2024-02-28 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193920) · `si`
 
-අද දෙරණ නියෝජනය කරමින් K.C. සාරංග ජාත්‍යන්තර මාධ්‍ය උළෙලෙකදී ජයග්‍රහණයක් හිමිකර ගත්තේය.
+Today representing Derana. Saranga won a victory at an international media festival.
 
-පළමුවරට බංග්ලාදේශයේ පැවති Community Digital Storytelling Festival (CDSTF) උළෙල සඳහා ඉදිරිපත් කළ කෙටි වීඩියෝව වෙනුවෙන් මෙම ජයග්‍රහණය ලැබී තිබේ.
+This victory has been received for the short video presented for the CDSTF festival (CDSTF) in Bangladesh for the first time.
 
-මෙම උළෙලේ ස්වාධීන අංශයේ ශ්‍රී ලංකාවෙන් K.C. සාරංග සහ පෝලන්තයෙන්  Iga Gudas  සම ජයග්‍රහකයන් ලෙස නම් කර ඇත.
+Sri Lanka from the Independent Section of the event. Saranga and Poland have been named IGA GUDAS co-achievers.
 
-ශ්‍රී ලංකාවේ නාගරීකරණය හමුවේ ආන්තීකරණයට ලක්වී සිටින  ප්‍රජාවන් මුහුණ දෙන තත්ත්වයන් පිළිබඳව K.C. සාරංග නිර්මාණය කළ Cool Consolation නම් වීඩියෝවට මෙම ජයග්‍රහණය හිමි වුණි.
+K.Crocketing the circumstances faced by communities in the face of Urbanization in Sri Lanka. The video of the cool consoletion created Saranga was the video.
 
-ජංගම දුරකථන සහ ඉලෙක්ට්‍රොනික මෙවලම් මගින් සිදුකරන ජංගම මාධ්‍යකරණය හරහා ඩිජිටල් කතන්දර කීමේ කලාව ප්‍රවර්ධනය කිරීම වෙනුවෙන් බංග්ලාදේශයේ Daffodil International University මගින් මෙම උළෙල සංවිධානය කර තිබුණි.
+The event was organized by Daffodil International University in Bangladesh to promote digital storyten arts through mobile phones and electronic tools.
 
 ◼️
 
 [Data](articles/d83736ee.json)
+
+[Extended Data](ext_articles/d83736ee.ext.json)
 
 ---
 
@@ -250,19 +288,21 @@ The festival, organized by the Department of Journalism, Media and Communication
 
 ---
 
-### கொரிய குடியரசின் தூதுவருடன் கஞ்சன சந்திப்பு
+### Kanjana Meeting with Ambassador of the Republic of Korea
 
 *2024-02-28 16:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொரிய-குடியரசின்-தூதுவருடன்-கஞ்சன-சந்திப்பு/175-333955) · `ta`
 
-கொரிய குடியரசின் தூதுவர் மியோன் லீ மற்றும் மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சனா விஜேசேகர ஆகியோருக்கு இடையில் எரிசக்தி ஒத்துழைப்பு தொடர்பான கலந்துரையாடல் மின்சக்தி மற்றும் எரிசக்தி அமைச்சில் இன்று (28) நடைபெற்றது.
+A discussion on Energy Cooperation was held today (28) at the Ministry of Energy and Energy.
 
-மிதக்கும் சோலார் பேனல்கள் மற்றும் அணுசக்தியை பயன்படுத்தி கொரிய குடியரசு பாரிய அளவில் மின்சாரத்தை உற்பத்தி செய்து வருவதாக தூதுவர் அமைச்சரிடம் தெரிவித்துள்ளார்.
+The Ambassador told the Minister that the Korean Republic is producing massive electricity using floating solar panels and nuclear power.
 
-புதுப்பிக்கத்தக்க எரிசக்தி உற்பத்தி மற்றும் அணுசக்தி உற்பத்தி மூலம் இரு நாடுகளுக்கும் இடையே எரிசக்தி ஒத்துழைப்பை வளர்ப்பதற்கான சாத்தியக்கூறுகள் மற்றும் கொரிய அரசாங்கங்கள் மற்றும் முதலீட்டாளர்களிடமிருந்து தேவையான தொழில்நுட்ப மற்றும் நிதி உதவி குறித்து இங்கு விவாதிக்கப்பட்டதாக அமைச்சர் குறிப்பிட்டார்.
+The Minister noted that the feasibility of developing energy cooperation between the two countries through renewable energy production and nuclear power production and the technical and financial assistance required from Korean governments and investors were discussed here.
 
 ◼️
 
 [Data](articles/1225e4e8.json)
+
+[Extended Data](ext_articles/1225e4e8.ext.json)
 
 ---
 
@@ -2019,25 +2059,5 @@ In the seas around the country, the wind is blowing from the northeast and the w
 [Data](articles/f5460b6c.json)
 
 [Extended Data](ext_articles/f5460b6c.ext.json)
-
----
-
-### Final decision on electricity tariff revision
-
-*2024-02-28 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193898) · `si`
-
-The Public Utilities Recommendation of the Electricity tariff is scheduled to be announced today (28).
-
-The Ministry of Power and Energy stated that an electricity tariff will be around 18 percent according to the new fare.
-
-The Public Utilities Meeting is scheduled to discuss the new proposal to reduce electricity tariffs.
-
-Meanwhile, Vasantha Samarasinghe, Vasantha Samarasinghe, says that the electricity bill is reduced by 37 percent, says Wasantha Samarasinghe.
-
-◼️
-
-[Data](articles/c2fa8e77.json)
-
-[Extended Data](ext_articles/c2fa8e77.ext.json)
 
 ---

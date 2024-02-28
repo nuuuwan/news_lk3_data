@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 08:02:32**
+As of **2024-02-28 08:17:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 1,465
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,710 (99.9%) of 9,716 articles have been extended.
+9,716 (100.0%) of 9,716 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ A person who is suspected to be the motorcycle rider in the Mahabage shooting in
 ◼️
 
 [Data](articles/cd4d6467.json)
+
+[Extended Data](ext_articles/cd4d6467.ext.json)
 
 ---
 
@@ -60,6 +62,8 @@ The public is kindly requested to take adequate precautions to minimize the dama
 
 [Data](articles/c7c24d95.json)
 
+[Extended Data](ext_articles/c7c24d95.ext.json)
+
 ---
 
 ### Bread, bun sales down: Bakery industry in crisis
@@ -78,6 +82,8 @@ Therefore, the Bakery Owners' Association requests the government to provide con
 
 [Data](articles/34df6b8d.json)
 
+[Extended Data](ext_articles/34df6b8d.ext.json)
+
 ---
 
 ### Locals outraged as Israeli and Ukrainian tourists operate businesses in South
@@ -95,6 +101,8 @@ Local nationals in the south claim that if an immediate monitoring process is no
 ...
 
 [Data](articles/d679c553.json)
+
+[Extended Data](ext_articles/d679c553.ext.json)
 
 ---
 
@@ -336,17 +344,19 @@ Meanwhile, Tamil National Alliance (TNA) leader Sivagnanam Shritharan said that 
 
 ---
 
-### யாழ். பல்கலைக்கழகம் முன்பாக போராட்டம்
+### Yall. Struggle in front of the university
 
 *2024-02-28 02:57:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகம்-முன்பாக-போராட்டம்/175-333907) · `ta`
 
-நாடு முழுவதிலுமுள்ள அரச பல்கலைக்கழகங்களில் இன்றும் நாளையும் வேலைநிறுத்தப் போராட்டம் முன்னெடுக்கப்படுகிறது .
+The strike action is being carried out today and tomorrow in state universities across the country.
 
-இந்த போராட்டத்துக்கு ஆதரவு வழங்கும் முகமாக இன்று யாழ்ப்பாணம்  பல்கலைக்கழக முன்றலில் கவனயீர்ப்புப் போராட்டம் நடைபெறவுள்ளது என்று யாழ். பல்கலைக்கழக  ஊழியர் சங்கம் அறிவித்துள்ளது. (a)
+The Jaffna University will take a protest today in support of the struggle.. The University Employees Union has announced. (A)
 
 ◼️
 
 [Data](articles/93f1b136.json)
+
+[Extended Data](ext_articles/93f1b136.ext.json)
 
 ---
 
@@ -368,17 +378,19 @@ In his letter, the MP expressed his initial aspirations to enter politics with t
 
 ---
 
-### பல்கலை கல்விசாரா ஊழியர்கள் வேலை நிறுத்தம்
+### University non -academic staff striking
 
 *2024-02-28 02:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-கல்விசாரா-ஊழியர்கள்-வேலை-நிறுத்தம்/175-333906) · `ta`
 
-பல்கலைக்கழக கல்விசாரா ஊழியர்கள் இன்று முதல் இரண்டு நாள் அடையாள வேலை நிறுத்தத்தில் ஈடுபடவுள்ளனர்.
+University non -academic staff will go on a two -day identity strike from today.
 
-தற்போதைய பொருளாதார சூழ்நிலையில் சம்பளத்தை அதிகரிக்கக் கோரி பல்கலைக்கழக கல்வி மற்றும் கல்விசாரா ஊழியர்கள் அண்மைக்காலமாக பல்வேறு தொழிற்சங்க நடவடிக்கைகளை மேற்கொண்டனர். (a)
+University education and non -academic staff have recently carried out various trade union activities to increase their salary in the current economic situation. (A)
 
 ◼️
 
 [Data](articles/412dab21.json)
+
+[Extended Data](ext_articles/412dab21.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 17:02:51**
+As of **2024-02-28 17:17:51**
 
 ## Newspaper Stats
 
-*Scraped **9,813** Articles*
+*Scraped **9,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,59 +20,107 @@ adaderanalk | 1,182
 tamilmirrorlk | 1,195
 virakesarilk | 1,350
 dailymirrorlk | 1,483
-adaderanasinhalalk | 1,485
+adaderanasinhalalk | 1,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,810 (100.0%) of 9,813 articles have been extended.
+9,813 (100.0%) of 9,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### இளநீரின் விலை எகிறுகிறது
+### IMF තුන්වන වාරිකය ගැන සුබ ආරංචියක්
+
+*2024-02-28 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193919) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් මාර්තු මාසයේ 07 වනදා සිට IMF 3 වන වාරිකයට අදාළ දෙවන සමාලෝචනය ආරම්භ කරනු ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+
+ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් අමාත්‍යවරයා මෙම අදහස් පළකළේය.
+
+එහිදී IMF නියෝජිතයින් සති දෙකකට ආසන්න කාලයක් දෙවන සමාලෝචනය සිදුකරනු ඇතැයි විශ්වාස කරන බව මුදල් රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+
+එහිදී දෙසැම්බර් මස 31 වනදා දක්වා රජයේ මූල්‍ය තත්ත්වය සහ අනෙකුත් එකඟතා සම්පූර්ණ කිරීම පිළිබඳව සමාලෝචනය කරනු ඇති බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+මෙහිදී රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේ දෙවන සමාලෝචනය අවසන්වීමෙන් පසුවන කාර්යමණ්ඩල එකඟතාවයට පැමිණි පසු ජාත්‍යන්තර මූල්‍ය අරමුදලේ තුන්වන වාරිකය හිමිවනු ඇති බවට විශ්වාසය පළකරන බවය.
+
+◼️
+
+[Data](articles/c17e5c1d.json)
+
+---
+
+### The prices of juices rise
 
 *2024-02-28 16:17:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளநீரின்-விலை-எகிறுகிறது/175-333954) · `ta`
 
-நாட்களில் நாட்டில் நிலவும் அதிக வெப்பநிலை காரணமாக இளநீரின் தேவை அதிகரித்துள்ளமையினால் கொழும்பு மற்றும் அதனை அண்டிய பகுதிகளில் இளநீர் ஒன்றின் விலை 200 ரூபாவாக அதிகரித்துள்ளது.
+Due to the high temperature in the country during the day, the price of juices has increased by 200 rupees in Colombo and its adjoining areas.
 
-கொழும்பு துறைமுக நுழைவாயிலுக்கு அருகில் உள்ள ஆரஞ்சு கடையொன்றில் இளநீர் ஒன்று 200 ரூபாவிற்கு விற்பனை செய்யப்பட்டதுடன், வெளிநாட்டவர்கள் அதிக ஆர்வத்துடன் இளநீரை வாங்கி பருகி வருகின்றனர்.
+At an orange shop near the Colombo port entrance, a juvenile was sold for Rs.
 
-இரண்டு வாரங்களுக்கு முன்னர் கொழும்பில் இளநீர் ஒன்றின் விலை 120 முதல் 140 ரூபா வரை காணப்பட்டமை குறிப்பிடத்தக்கது.
+It is worth noting that two weeks ago, the price of a juvenile in Colombo ranged from 120 to 140 rupees.
 
 ◼️
 
 [Data](articles/5ee81c31.json)
 
+[Extended Data](ext_articles/5ee81c31.ext.json)
+
 ---
 
-### நம்பிக்கையில்லா பிரேரணைக்கு S.L.N.P ஆதரவு
+### S.L.N.P Support for No -confidence motion
 
 *2024-02-28 16:15:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லா-பிரேரணைக்கு-S-L-N-P-ஆதரவு/175-333953) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிராக எதிர்க்கட்சிகள் கொண்டு வரவுள்ள நம்பிக்கையில்லாப் பிரேரணைக்கு ஆதரவளிக்க ஸ்ரீலங்கா சுதந்திரக் கட்சி தீர்மானித்துள்ளது.
+The Sri Lanka Freedom Party (SLFP) has decided to support the no -confidence motion against the opposition parties against Speaker Mahinda Yapa Abeywardena.
 
-உச்ச நீதிமன்றத்தின் பரிந்துரைகளை பரிசீலிக்காமல் ஆன்லைன் அமைப்புகளின் பாதுகாப்பு மசோதாவை சபாநாயகர் நிறைவேற்றியதாக எதிர்க்கட்சிகள் குற்றம்சாட்டுகின்றன.
+Opposition parties allege that the Speaker passed the Security Bill of Online Organizations without considering the recommendations of the Supreme Court.
 
 ◼️
 
 [Data](articles/2d4a638e.json)
 
+[Extended Data](ext_articles/2d4a638e.ext.json)
+
 ---
 
-### சம்பள நிர்ணய சபை தொழிலாளர்களுடன் ஜீவன் சந்திப்பு
+### රතිඤ්ඤා කම්හලේ ගින්නට මැදිවූ හිමිකරුත් මරුට
+
+*2024-02-28 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193918) · `si`
+
+කිඹුලාපිටිය ප්‍රදේශයේ රතිඤ්ඤා කර්මාන්ත ශාලාවක ඇතිවූ ගින්නෙන් බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කළ එහි හිමිකරු අද (28) මියගොස් තිබේ.
+
+පසුගියදා මෙම ගින්න හේතුවෙන් තුවාල ලැබූ තිදෙනෙකු මීගමුව රෝහලට ඇතුළත් කළේය.
+
+ඉන් බරතපළ තුවාල ලබා සිටි එහි හිමිකරු සහ තවත් සේවකයෙකු කොළඹ ජාතික රෝහල වෙත මාරුකර ඒවා තිබුණි.
+
+බරපතළ තත්ත්වයේ පසුවූ සේවකයා ඊයේ මියගොස් ඇති අතර එහි හිමිකරු ද අද මෙලෙස මියගොස් ඇත.
+
+රතිඤ්ඤා නිෂ්පාදනයේදී සිදුවූ අත්වැරදීමක් හේතුවෙන් මෙම ගින්න හටගන්නට ඇති බවට පොලීසිය සැකපළ කරයි.
+
+◼️
+
+[Data](articles/4af62a12.json)
+
+---
+
+### Jeevan meets with salary council workers
 
 *2024-02-28 16:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சம்பள-நிர்ணய-சபை-தொழிலாளர்களுடன்-ஜீவன்-சந்திப்பு/76-333952) · `ta`
 
-2024ஆம் ஆண்டு ஜனவரி மாதம் 1ம் திகதியிலிருந்து மூன்று ஆண்டு காலப்பகுதிக்கு தேயிலை,  இறப்பர் ஆகியவற்றுக்கான தொழிலாளர்கள் சார்பில் நியமிக்கப்பட்டுள்ள பிரதிநிதிகளுடனான சந்திப்பு இன்று (28) இலங்கை தொழிலாளர் காங்கி​ரஸ் தலைமையகமான சௌமியபவனில் இ.தொ.கா பொதுச்செயலாளரும், நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தலைமையில் நடைப்பெற்றது.
+The meeting with representatives of tea and rubber for three years from January 2024 was held today (28) at the head of the Ceylon Workers' Kangi Ras, Chamiyapavan, the CWC General Secretary and Jeevan Thondaman, led by Jeevan Thondaman.
 
-தொழிலாளர்களின் சம்பள உயர்வு தொடர்பிலும், சம்பள நிர்ணய சபையில் எமது கோரிக்கைகளை எவ்வாறு முன்வைக்கப்படல் வேண்டும் என்பதையும் இச்சந்திப்பின் போது விரிவாக கலந்துரையாடப்பட்டது.
+During the meeting, the discussion was discussed during this meeting on how to put forward our demands at the Salary Council.
 
-...
+On behalf of the CWC, S. Irajamani, a member of the Tea Production Council and Attorney -at -Law and Lawyer, S. Irajamani, the Secretary of the Sri Lanka National Estate Workers Union, SP Vijayakumar, and the Sri Lanka Independence Workers Union on behalf of the Sri Lanka Freedom Workers Union.G Chandrasena, V. Rajalakshmi on behalf of the Chengodi Association, Sri Lanka Public Estate Workers Union and JAT Nishantha Puspakumara on behalf of the JSS Association and the JSS Association.
+
+◼️
 
 [Data](articles/2a26e409.json)
+
+[Extended Data](ext_articles/2a26e409.ext.json)
 
 ---
 
@@ -2025,41 +2073,5 @@ The Bandaranaike International Airport (BIA) and Colombo Port will see an upgrad
 [Data](articles/85fc222c.json)
 
 [Extended Data](ext_articles/85fc222c.ext.json)
-
----
-
-### Model Paratete Law Amendment in Parliament
-
-*2024-02-28 03:04:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பராட்டே-சட்ட-திருத்தம்-பாராளுமன்றத்தில்/175-333908) · `ta`
-
-Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa said that the Cabinet decision is expected to be presented in Parliament in the future.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-The country must have a financial policy. And the economy should be strong. The Central Bank of Sri Lanka has significant authority on this issue. In the past, the Parata Act, which is under conception in Sri Lanka, has only focused on the protection of the stability of the central bank and financial institutions.
-
-Many sides questioned whether the central bank focused on the country's stockpile. In addition, the agriculture sector should focus on the fall of 22 % - 8 percent and the industry to 38 % - 32 %.
-
-...
-
-[Data](articles/5183c8a0.json)
-
-[Extended Data](ext_articles/5183c8a0.ext.json)
-
----
-
-### WCIC’s Empowering Women Leadership Forum 2024 on 14 March
-
-*2024-02-28 03:04:24* · [`dailyftlk`](https://www.ft.lk/business/WCIC-s-Empowering-Women-Leadership-Forum-2024-on-14-March/34-758928) · `en`
-
-Celebrating empowerment and leadership, the Women’s Chamber of Industry and Commerce Sri Lanka (WCIC) is gearing to present its much-anticipated Women Leadership Forum 2024, themed ‘#InspireInclusion - Count Her In.’
-
-Scheduled on 14 March, at the Grand Ballroom - Galadari Hotel, Colombo, as a fully immersive one-day workshop for women in business.
-
-...
-
-[Data](articles/fb04906e.json)
-
-[Extended Data](ext_articles/fb04906e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 23:33:34**
+As of **2024-02-28 23:52:08**
 
 ## Newspaper Stats
 
-*Scraped **9,879** Articles*
+*Scraped **9,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 503
 dailyftlk | 519
 islandlk | 521
 adalk | 841
-adaderanalk | 1,192
+adaderanalk | 1,193
 tamilmirrorlk | 1,202
 virakesarilk | 1,361
 dailymirrorlk | 1,496
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,879 (100.0%) of 9,879 articles have been extended.
+9,880 (100.0%) of 9,880 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ The doctors said he had already died when he was taken to the Tellippalai hospit
 [Data](articles/aa305df6.json)
 
 [Extended Data](ext_articles/aa305df6.ext.json)
+
+---
+
+### Woman arrested after attempting to smuggle heroin into Kalutara Prison
+
+*2024-02-28 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97607/woman-arrested-after-attempting-to-smuggle-heroin-into-kalutara-prison) · `en`
+
+A 34-year-old female was arrested by the Kalutara (North) Police on Wednesday (28 Feb.), after attempting to smuggle heroin into the Kalutara Prison.
+
+Police reported that the female suspect, identified as a resident of Mulatiyana, Payagala, had attempted to smuggle 550mg of heroin into the Kalutara Prison, where her husband is currently imprisoned.
+
+The drugs were reportedly hidden in the bones of a parcel of chicken she had brought for her husband, under the guise of providing him meals, police stated, adding that she had arrived to the Prison with the couple’s 06-year-old daughter.
+
+◼️
+
+[Data](articles/22ab6aea.json)
+
+[Extended Data](ext_articles/22ab6aea.ext.json)
 
 ---
 
@@ -1993,27 +2011,5 @@ The 50 year old suspect is to be produced before the Panadura Magistrate's Court
 [Data](articles/36e8a495.json)
 
 [Extended Data](ext_articles/36e8a495.ext.json)
-
----
-
-### Latest story about SriLankan flights
-
-*2024-02-28 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193909) · `si`
-
-SriLankan Airlines says SriLankan Airlines Exports and Committees can be normalized by the afternoon today (28).
-
-The airline trade union associations, joining the Derana, "Big Chakz program, says the airline is facing the current crisis due to political intervention.
-
-The delay of SriLankan flights and the last days have been continuously reported to the period from the last Sunday and the problem has been acute.
-
-More than 10 airlines were delayed last (27) alone, and nearly three flights were canceled.
-
-Sri Lanka Freedom Employees Union Secretary, Hasantha Yasaratne, expressed his views.
-
-...
-
-[Data](articles/11d810d0.json)
-
-[Extended Data](ext_articles/11d810d0.ext.json)
 
 ---

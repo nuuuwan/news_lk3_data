@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 23:02:52**
+As of **2024-02-28 23:17:30**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,875 (100.0%) of 9,879 articles have been extended.
+9,879 (100.0%) of 9,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### சுன்னாகத்தின் மின்சாரம் தாக்கி இளம் குடும்பஸ்தர் மரணம்!
+### Young family death
 
 *2024-02-28 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177551) · `ta`
 
-சுன்னாகம் பொலிஸ் பிரிவிற்குட்பட்ட மயிலணி பகுதியில் மின்சாரம் தாக்கி இளம் குடும்பஸ்தர் ஒருவர் செவ்வாய்க்கிழமை (27) உயிரிழந்துள்ளார். மயிலணி வடக்கு சுன்னாகம் பகுதியைச் சேர்ந்த தேவராசா கமல்ராஜ் (வயது 39) என்ற ஒரு பிள்ளையின் தந்தையே இவ்வாறு உயிரிழந்துள்ளார்.
+A young family member dies on Tuesday (27). Devarasa Kamalraj (age 39) from Mayilani North Chunnakam has died.
 
-இவரது வீட்டில் மின்சார இணைப்பு துண்டிக்கப்பட்டு இருந்தது. இந்நிலையில் அயல் வீட்டிலிருந்து மின்சாரம் பெற்று தண்ணீர் மோட்டார் பயன்படுத்தியுள்ளார். இதனால் இவர் மின்சார தாக்குதலுக்கு உள்ளானார்.
+The electricity connection was cut off in his house. In this case, he has used electricity from the foreign house and used the water motor. He was subjected to an electrical attack.
 
-இதன்போது அவரை தெல்லிப்பழை வைத்தியசாலைக்குக் கொண்டு சென்றவேளை அவர் ஏற்கனவே உயிரிழந்து விட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் இன்று உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+The doctors said he had already died when he was taken to the Tellippalai hospital.. A sudden death investigation officer A. Jayapalasingham. The body was handed over to relatives today after the anatomical examination.
 
 ◼️
 
 [Data](articles/aa305df6.json)
+
+[Extended Data](ext_articles/aa305df6.ext.json)
 
 ---
 
@@ -63,6 +65,8 @@ According to the letter, the tariff has been strategically reduced significantly
 ...
 
 [Data](articles/f98198c7.json)
+
+[Extended Data](ext_articles/f98198c7.ext.json)
 
 ---
 
@@ -100,23 +104,31 @@ Police spokesman DIG Nihal Thalduwa said there is reasonable doubt and suspicion
 
 [Data](articles/214474c8.json)
 
+[Extended Data](ext_articles/214474c8.ext.json)
+
 ---
 
-### பரந்துப்பட்ட அரசியல் கூட்டணி ஊடாக ஜனாதிபதி வேட்பாளர் தெரிவு செய்யப்படுவார் - நாமல் ராஜபக்ஷ
+### Presidential candidate will be elected through widespread political alliance - Namal Rajapaksa
 
 *2024-02-28 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177550) · `ta`
 
-பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் ஜனாதிபதி ரணில் விக்கிரமசிங்க என்று ஒரு தரப்பினர் குறிப்பிடுவது அவர்களின் தனிப்பட்ட நிலைப்பாடே தவிர கட்சியின் நிலைப்பாடல்ல,பொதுஜன பெரமுன தலைமையிலான பரந்துப்பட்ட அரசியல் கூட்டணியின் ஊடாகவே ஜனாதிபதி வேட்பாளர் தெரிவு செய்யப்படுவார் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+The ruling party's parliamentarian Namal Rajapaksa said that the presidential candidate of the PA is not the party's position, not the party's position, but the presidential candidate will be elected through the PA.
 
-கண்டி நெல்லிகல சர்வதேச பௌத்த மத்திய நிலையத்தில் புதன்கிழமை (28) இடம்பெற்ற நிகழ்வில் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking to the media at a function held at the Nellikala International Buddhist Center at the Nellikala International Center on Wednesday (28).
 
-அரசாங்கத்தில் அமைச்சு மற்றும் இராஜாங்க அமைச்சு பதவி வகிப்பவர்கள் மாத்திரம் தான் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று குறிப்பிட்டுக் கொள்கிறார்கள்.கட்சியின் பெரும்பாலான உறுப்பினர்கள் மாற்று யோசனைகளை முன்வைத்துள்ளார்கள்.
+Most of the party members have proposed alternative ideas that only those who hold the ministry and the Ministry of State in the Government of India should field President Ranil Wickremesinghe as the presidential candidate.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று குறிப்பிடுவது கட்சியின் நிலைப்பாடல்ல இது ஒரு தரப்பினரது தனிப்பட்ட நிலைப்பாடாகும்.ஜனாதிபதி தேர்தலுக்கான உத்தியோகபூர்வ அறிவிப்பு வெளியானதும் எமது வேட்பாளரை அறிவிப்போம்.
+It is not the party's position to make President Ranil Wickremesinghe as the presidential candidate. This is a personal position of the party.
 
-...
+The presidential candidate will be elected through a widespread political coalition headed by the Sri Lanka PA.
+
+The law is seen as the current main ingredient of the law.
+
+◼️
 
 [Data](articles/f6bf933f.json)
+
+[Extended Data](ext_articles/f6bf933f.ext.json)
 
 ---
 

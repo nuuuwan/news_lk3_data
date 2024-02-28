@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 11:17:34**
+As of **2024-02-28 11:33:13**
 
 ## Newspaper Stats
 
-*Scraped **9,744** Articles*
+*Scraped **9,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 521
 adalk | 824
 adaderanalk | 1,174
 tamilmirrorlk | 1,189
-virakesarilk | 1,330
+virakesarilk | 1,333
 dailymirrorlk | 1,472
 adaderanasinhalalk | 1,472
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 1,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,739 (99.9%) of 9,744 articles have been extended.
+9,744 (100.0%) of 9,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### பூமியின் நுரையீரலில் மிக பெரிய அனகொண்டா
+
+*2024-02-28 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177465) · `ta`
+
+அமேசான் காட்டில் ஆய்வுகளில் ஈடுபட்டுள்ள விஞ்ஞானிகளில் ஒருவரான பேராசிரியர் ப்ரீக் வோங்க்(Freek Vonk) நீருக்கு அடியில் இருக்கும் 26 அடி நீளமான மிகப்பெரிய அனகொண்டா பாம்பின்  காணொளியை  தனது இன்ஸ்டாகிராம் பக்கத்தில் பதிவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/09f091da.json)
+
+---
 
 ### SLPP Parlimentarian accused of land grab in Kalpitiya
 
@@ -47,6 +59,8 @@ In order to prove that this is a state land and did not belong to any private pa
 ...
 
 [Data](articles/0cfba7d1.json)
+
+[Extended Data](ext_articles/0cfba7d1.ext.json)
 
 ---
 
@@ -67,6 +81,26 @@ The poll conducted on 960 voters found little consensus on who should replace Bi
 ...
 
 [Data](articles/22428b3c.json)
+
+[Extended Data](ext_articles/22428b3c.ext.json)
+
+---
+
+### இலங்கையில் தென்பகுதியில் வர்த்தக நடவடிக்கைகளில் ஈடுபடும் இஸ்ரேல் உக்ரைன்  சுற்றுலாப்பயணிகள் - 99 வருட குத்தகைக்கு காணி கொள்வனவு
+
+*2024-02-28 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177472) · `ta`
+
+இலங்கையின் தென்பகுதியில் ரஸ்ய சுற்றுலாப்பயணிகள் சட்டவிரோத வர்த்தகத்தில் ஈடுபடுவதாக வெளியான தகவல்களை தொடர்ந்து தற்போது இஸ்ரேலிய உக்ரைன் சுற்றுலாப்பயணிகளும் சட்டவிரோத வர்த்தகத்தில்  ஈடுபடுவது குறித்த தகவல்கள் வெளியாகியுள்ளன.
+
+இவர்களின் இந்த நடவடிக்கை காரணமாக உள்ளுர் வர்த்தகர்கள் பாதிக்கப்பட்டுள்ள அதேவேளை உள்நாட்டு சுற்றுலாத்துறையினர் மத்தியில் இது குறித்த கரிசனைகள் அதிகரித்துள்ளன.
+
+தென்பகுதி கடற்கரையோரம் முழுவதும் சென்று இஸ்ரேல் மற்றும் உக்ரைன் சுற்றுலாப்பயணிகள் முன்னெடுக்கும் வர்த்தக நடவடிக்கைகளை பார்வையிட்டோம் அவர்கள் உணவுவிடுதிகள் ஹோட்டல்கள் சிறிய கடைகள் போன்றவற்றை நடத்துகின்றனர்.
+
+இலங்கையில் சுற்றுப்பயணங்களை ஏற்படும் அளவிற்கு உக்ரைன் சுற்றுலாப்பயணிகள் சென்றுள்ளனர் என தெரிவிக்கும் உள்ளுர் மக்கள் அவர்களிற்கு அதற்கான அனுமதி வழங்கப்படவில்லை என்பதையும் சுட்டிக்காட்டியுள்ளனர்.
+
+...
+
+[Data](articles/d2700894.json)
 
 ---
 
@@ -127,6 +161,26 @@ Opposition Leader Sajith Premadasa has offered Kodithuwakku the executive member
 [Data](articles/a476648f.json)
 
 [Extended Data](ext_articles/a476648f.ext.json)
+
+---
+
+### மாபாகே துப்பாக்கிச் சூடு தொடர்பில் தேடப்பட்டு வந்த சந்தேக நபர் விசேட அதிரடிப்படையினரின் துப்பாக்கிச் சூட்டில் பலி
+
+*2024-02-28 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177467) · `ta`
+
+மாபாகே பகுதியில் அண்மையில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவம் தொடர்பில் தேடப்பட்டு வந்த சந்தேகநபரொருவர் சூரியவெவ பகுதியில் விசேட அதிரடிப்படையுடன் இடம்பெற்ற பரஸ்பர துப்பாக்கிச்சூட்டில்  உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இவ்வாறு உயிரிழந்த  சந்தேகநபர் துப்பாக்கியால் சுட்டு கொன்ற சம்பவத்தில் மோட்டார் சைக்கிளை செலுத்தியவர் இவரே  என தெரியவந்துள்ளது.
+
+கடந்த 21 ஆம் திகதி காலை மோட்டார் சைக்கிளில் வந்த மூவர் எலப்பிட்டிவல சந்தியில் உள்ள இறைச்சிக் கடையொன்றுக்கு அருகில் வைத்து கடை உரிமையாளர் மீது துப்பாக்கிச்சூட்டை நடத்தினர். துப்பாக்கிச்சூட்டில் காயமடைந்த நபர்  ராகம வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட போது உயிரிழந்துள்ளார்.
+
+இவர் ஹெட்டியாராச்சிகே டொன் சுஜித் என்றழைக்கப்படும் “உக்குவா” என அடையாளம் காணப்பட்டார், குற்றவியல் கும்பல் தலைவரான “வெல்லே சாரங்க”வின் மைத்துனரும் ஜா-எல வடக்கு படகம பகுதியைச் சேர்ந்தவருமாவார்.
+
+இந்தக் கொலைச் சம்பவம் தொடர்பில் இராணுவ அதிகாரி உட்பட இருவர் இதுவரையில் கைது செய்யப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/5e4f20fe.json)
 
 ---
 
@@ -479,6 +533,8 @@ Local nationals in the south claim that if an immediate monitoring process is no
 ...
 
 [Data](articles/7528bf48.json)
+
+[Extended Data](ext_articles/7528bf48.ext.json)
 
 ---
 
@@ -928,6 +984,8 @@ Cabinet of Ministers on Monday approved the proposal to suspend the procedure to
 
 [Data](articles/ddd492f8.json)
 
+[Extended Data](ext_articles/ddd492f8.ext.json)
+
 ---
 
 ### The appointment of the Inspector General of Police is not illegal - the Ministry of Justice
@@ -985,6 +1043,8 @@ Many tour guides warn of possible consequences of neglecting the country’s pri
 ...
 
 [Data](articles/0c004cde.json)
+
+[Extended Data](ext_articles/0c004cde.ext.json)
 
 ---
 
@@ -1955,65 +2015,5 @@ The Met. Dept. also advised the public to remain hydrated and take breaks in the
 [Data](articles/955757f4.json)
 
 [Extended Data](ext_articles/955757f4.ext.json)
-
----
-
-### The police sergeant is shooting
-
-*2024-02-27 18:46:41* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-සැරයන්-වෙඩි-තබාගෙන-දිවිතොර-ගනියි/11-408309) · `si`
-
-Police sergeant has been committed to suicide by shooting himself with a T-56 riffle in the Matara Thiwila Court Complex in Matara today (27).
-
-Such was a sergeant as Ranjith (52), who was attached to the Kotawila Police Station 59745.
-
-He is a resident of Matara resident. It is said that nearly 30 years have been duties to the Police Department.
-
-◼️
-
-[Data](articles/30f0fd59.json)
-
-[Extended Data](ext_articles/30f0fd59.ext.json)
-
----
-
-### New Member to Injury to Parliament
-
-*2024-02-27 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193887) · `si`
-
-MP Udi Premaratne resigns for the vacant parliamentary seat. C. Muthukumarana is to be appointed.
-
-Anuradhapura District MP Udi Premaratne has resigned from his post today (27).
-
-It is reported that the General Secretary Attorney at the MP Kushani Rohanaharade has reportedly informed the Elections Commission that he had vacant a parliamentary seat due to his resignation.
-
-The Secretary General of Parliament has been made informed in accordance with Section 64 (1) of the Parliament Election Act 1981.
-
-Accordingly, the highest preferential preferential preferential votes on the list after former MP Ulimu Premaratne. C. Mr. Muthukumarana to be elected to Parliament.
-
-After the Elections Commission approved. C. Muthukumarana's name is being gazetted as a Member of Parliament.
-
-◼️
-
-[Data](articles/e8109c58.json)
-
-[Extended Data](ext_articles/e8109c58.ext.json)
-
----
-
-### Sri Lanka to launch new sexuality education programme in March
-
-*2024-02-27 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97572/sri-lanka-to-launch-new-sexuality-education-programme-in-march) · `en`
-
-Ministry of Education officials stated that arrangements have been made to launch new educational publications compiled to provide education on sexuality from the pre-childhood development stage to the adult community, on the 7th of March 2024.
-
-This was stated when the Parliamentary Caucus for Children chaired by Member of Parliament Rohini Kumari Wijerathna met in Parliament recently, the Communications Department of Parliament said in a statement today.
-
-The officials stated that research has confirmed that these educational publications on sexuality have been prepared with the primary objective of improving the limited knowledge of people pertaining to sexuality education, which is the basis of many concerns in Sri Lanka.
-
-...
-
-[Data](articles/e0a32eb9.json)
-
-[Extended Data](ext_articles/e0a32eb9.ext.json)
 
 ---

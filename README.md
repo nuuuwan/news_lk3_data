@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 21:17:28**
+As of **2024-02-28 21:33:19**
 
 ## Newspaper Stats
 
@@ -26,35 +26,39 @@ adaderanasinhalalk | 1,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,860 (100.0%) of 9,862 articles have been extended.
+9,862 (100.0%) of 9,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### නිවුන් දරුවන් දෙදෙනෙකුට ලිංගික අපයෝජනයක් ?
+### Sexual abuse for two twins?
 
 *2024-02-28 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193931) · `si`
 
-පිරිමි නිවුන් දරුවන් දෙදෙනෙකුට ලිංගික අපයෝජන සිදුකළ බව කියන චෝදනා මත චීවරධාරියෙකු හෝමාගම මූලස්ථාන පොලීසිය මගින් අත්අඅඩංගුවට ගෙන ඇත.
+The monk has been arrested by Police from the Homagama Police on charges of sexually abusing two male twins.
 
-හෝමාගම මහෙස්ත්‍රාත් අධිකරණයට අද (28) ඉදිරිපත් කෙරුණු සැකකාර චීවරධාරියා රුපියල් ලක්ෂ 05 බැගින්වූ ශරීර ඇප මත මුදා හැර තිබේ.
+The monk who was presented to Homagama Magistrate's Court today is released on bail of Rs.
 
-චීවරධාරියෙකු අතින් අපයෝජනය වී ඇතැයි වාර්තාවන්නේ වයස අවුරුදු 13ක පිරිමි නිවුන් දරුවන් දෙදෙනෙකි.
+It is reported that two men were 13-year-old twins.
 
-චෝදනාවට ලක්වූ චීවරධාරියා යන්ත්‍ර මන්ත්‍ර ගුරුකම් මගින් ලෙඩ සුව කරන බවද වාර්තා වෙයි.
+It is reported that the monk who accused the machinery healing can cure diseases.
 
-අපයෝජනයට ලක්වූ බව කියන කුඩා දරුවන් දෙදෙනාගෙන් එක් දරුවෙක් මීට දින කිහිපයකට පෙර අසනීප වී ඇති අතර ඊට ප්‍රතිකාර කිරීම සඳහා එම මව්පියන් දරුවා මෙම හිමිනම හමුවට රැගෙන ගොස් තිබේ.
+One child has been sick a few days ago and the parents were taken to this monk to treat it several days ago.
 
-සැකකාර චීවරධාරියා එහිදී මව්පියන්ට පවසා ඇති අතර ඒ අනුව ඔවුන් සිය දරුවා එහි රඳවා ගොස් ඇති බව පොලීසිය පවසයි.
+The monk had told her parents there, according to police, police said.
 
-පසුව නිවුන් දරුවන්ගෙන් අනෙක් දරුවා සිය සොයුරා නොමැතිව අසනීප වී ඇති අතර සැකකරු මෝටර් රථයකින් නිවසට පැමිණ එම දරුවාද රැගෙන ගොස් ඇති බව හෙළිවී තිබේ.
+Later, the other child was sick without his brother and was revealed that the suspect had taken the child to the house and taken the child.
 
-එහිදී සැකකාර චීවරධාරියා දරුවන් දෙදෙනාම අපයෝජනයට ලක් කර ඇති බව විමර්ශනයේදී අනාවරණ වී ඇත.
+The monk had devoured both children.
 
-...
+Accordingly, according to the complaint, the suspect was arrested by the police.
+
+◼️
 
 [Data](articles/205334ba.json)
+
+[Extended Data](ext_articles/205334ba.ext.json)
 
 ---
 
@@ -76,23 +80,27 @@ However, the Minister of Power and Energy Kanjana Wijesekera recently told Parli
 
 ---
 
-### ජුනි මාසයේ සිට අස්වැසුම ප්‍රතිලාභීන් ලක්ෂ 24ක් දක්වා වැඩි කිරීමට සූදානම්
+### The revenue beneficiaries from June ready to increase up to 24 lakhs
 
 *2024-02-28 20:17:06* · [`adalk`](https://www.ada.lk/breaking_news/ජුනි-මාසයේ-සිට-අස්වැසුම-ප්‍රතිලාභීන්-ලක්ෂ-24ක්-දක්වා-වැඩි-කිරීමට-සූදානම්/11-408341) · `si`
 
-අස්වැසුම දෙවන අදියර සඳහා ඉල්ලුම් කළ ප්‍රතිලාභ අපේක්ෂිතයන්ගේ දත්ත පරීක්ෂා කිරීම සහ සහතික කිරීම අවසන් කර ඇති බවත්, 2024 ජුනි මාසයේ සිට අස්වැසුම ප්‍රතිලාභී පවුල් ඒකක ප්‍රමාණය ලක්ෂ 24ක් දක්වා වැඩි කිරීමට සියලු කටයුතු සූදනම් කර ඇති බවත් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+The return of the benefits requested for the second phase of the revenue has been completed and all of the revenue of revenue from June 2024 has been made to increase the number of resources to Rs.
 
-අස්වැසුම දෙවන අදියරේ අයදුම්පත් කැඳවීම 2024 මාර්තු 15 වනදායින් අවසන් වන අතර ඉල්ලුම් පත්‍ර ඉදිරිපත් නොකරන කිසිවකු අස්වැසුම ප්‍රතිලාභය ලැබීමට සුදුසුකම් නොලබන බව ද රාජ්‍ය අමාත්‍යවරයා අවධාරණය කළේය.
+The public minister emphasized that the second phase of the revenue is to be eligible to benefit from March 15, 2024.
 
-මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (28) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Hehan Semasinghe, State Minister of State Shehan Semasinghe, was addressing the press conference held at the Presidential Media Center (28).
 
-එමෙන්ම සාවද්‍ය තොරතුරු හරහා අස්වැසුම ප්‍රතිලාභ ලබාගත් 7000ක පමණ පිරිසක් ඉන් ඉවත් කර තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+The State Minister also said that about 7,000 people obtained the revenue of revenue via false information.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍යවරයා මෙසේ ද පැවසීය,
+State Minister further stated:
+
+The revenue phase was certified by information on the size of 34 lakhs of family units. Accordingly, 19 lakhs of families have been eligible to benefit. The Welfare Board has been prepared to pay for those who have been qualified based on the basis of the appeals and objections received.
 
 ...
 
 [Data](articles/d33e7d7c.json)
+
+[Extended Data](ext_articles/d33e7d7c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 08:17:34**
+As of **2024-02-28 08:33:06**
 
 ## Newspaper Stats
 
-*Scraped **9,716** Articles*
+*Scraped **9,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 820
 adaderanalk | 1,169
 tamilmirrorlk | 1,185
 virakesarilk | 1,330
-adaderanasinhalalk | 1,464
 dailymirrorlk | 1,465
+adaderanasinhalalk | 1,468
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,716 (100.0%) of 9,716 articles have been extended.
+9,716 (100.0%) of 9,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### විදුලි ගාස්තු සංශෝධනය ගැන අවසන් තීරණය
+
+*2024-02-28 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193898) · `si`
+
+විදුලි ගාස්තු සංශෝධනය පිළිබඳව මහජන උපයෝගිතා කොමිසමේ නිර්දේශ අද (28) දිනයේ ප්‍රකාශයට පත්කිරීමට නියමිතව තිබේ.
+
+විදුලිබල හා බලශක්ති අමාත්‍යංශය ප්‍රකාශකයෙකු සඳහන් කළේ, නව ගාස්තු සංශෝධනයට අනුව සියයට 18කින් පමණ විදුලි ගාස්තු අඩුවීමක් සිදුවනු ඇති බවය.
+
+විදුලිබල මණ්ඩලය යොමු කළ විදුලි ගාස්තු අඩු කිරීමේ නව යෝජනාව සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා මහජන උපයෝගිතා කොමිෂන් සභාවේ රැස්වීමක් ද අද පැවැත්වැත් වීමට නියමිතව තිබේ.
+
+මේ අතර විදුලිය බිල සියයට 37කින් අඩු කිරීමේ හැකියාව පවතින බව ජතික ජන බලවේගයේ වසන්ත සමරසිංහ මහතා පවසයි.
+
+◼️
+
+[Data](articles/c2fa8e77.json)
+
+---
 
 ### Suspect wanted over Mahabage shooting killed in shootout with STF
 
@@ -66,6 +84,22 @@ The public is kindly requested to take adequate precautions to minimize the dama
 
 ---
 
+### ටෙලිකොම් හා ලංකා හොස්පිටල්ස් ආයතනවල කොටස් පැවරීමට අදාළව අධිකරණ නියෝගයක්
+
+*2024-02-28 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193897) · `si`
+
+දැනට තෝරාගෙන ඇති අයදුම්කරුවන් පදනම් කරගෙන ශ්‍රී ලංකා ටෙලිකොම් ආයතනයේ සහ ලංකා හොස්පිටල්ස් ආයතනයේ කොටස් පැවරීමේ ක්‍රියාවලිය සම්බන්ධයෙන් ඉදිරි පියවර ගැනීම මාර්තු මස 12 වනදා තෙක් අත්හිටුවමින් අභියාචනාධිකරණය විසින් අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+
+ශ්‍රී ලංකා ටෙලිකොම් ආයතනය වෙනුවෙන් ලයිකා මොබයිල් එස්.ඒ.ආර්.එල් සමාගම සහ පිටිගෝ කොමේරිකෝ ඉන්ටර්නැෂනල් සමාගම මෙන්ම ලංකා හොස්පිටල්ස් ආයතනය වෙනුවෙන් ලයිකා ලීසිං හෝල්ඩිං සමාගම සහ හයිම්ස් ඉන්ටනැෂනල් සමාගම විසින් ඉදිරිපත් කළ රිට් පෙතිසම් දෙකක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා විසින් මෙම අතුරු තහනම් නියෝග නිකුත් කළේය.
+
+නීතිඥ සනත් විජේවර්ධන මහතා මාර්ගයෙන් ඉදිරිපත් කර තිබූ පෙත්සම්වලින් පෙත්සම්කාර සමාගම් සඳහන් කර ඇත්තේ, ශ්‍රී ලංකා ටෙලිකොම් ආයතනයේ රජය සතු සියයට 50.23 ක කොටස් හා ලංකා හොස්පිටල්ස් ආයතනයේ සියයට 51.34ක් කොටස් පැවරීමේ ක්‍රියාවලියට අදාළව සුදුසුකම් ලැබීම සඳහා අයදුම්පත් තමන් විසින් වගඋත්තරකරුවන් වෙත ඉදිරිපත් කළ බවය.
+
+...
+
+[Data](articles/75906297.json)
+
+---
+
 ### Bread, bun sales down: Bakery industry in crisis
 
 *2024-02-28 07:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bread-bun-sales-down-Bakery-industry-in-crisis/108-277856) · `en`
@@ -86,6 +120,26 @@ Therefore, the Bakery Owners' Association requests the government to provide con
 
 ---
 
+### උක්කුවා ඝාතනයට අවශ්‍යව සිටි හිටපු සෙබළා STF සමග ගැටුමකින් මරුට
+
+*2024-02-28 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193896) · `si`
+
+මහබාගේ ප්‍රදේශයේ මස් කඩහිමිකරුවෙකු ඝාතනය කිරීමේ සිදුවීමට සහ තවත් අපරාධ රැසකට අවශ්‍යව සිටි හිටපු හමුදා සෙබළෙක් සූරියවැව ප්‍රදේශයේ දී පොලිස් විශේෂ කාර්ය බළකාය සමග ඇති වූ ගැටුමකින් මියගොස් තිබේ.
+
+මියගිය පුද්ගලයා සුරියවැව ප්‍රදේශයේ ආඩිගම වැව අසල වාඩියක සැඟවී සිටින බවට ලද බුද්ධි තොරතුරක් මත අද (28) අලුයම ක්ෂණික වැටලීමක් සිදුකර ඇත.
+
+එහිදී සැකකරු විසින් ගිනිඅවියකින් නිලධාරීන්ට වෙඩි ප්‍රහාරයක් එල්ල කර ඇති අතර, එයට ප්‍රතිප්‍රහාර එල්ල කිරීමේ දී සැකකරු තුවාල ලබා තිබේ.
+
+වෙඩි හුවමාරුවෙන් විශේෂ කාර්ය බළකායේ නිලධාරියෙකු ද තුවාල ලබා තිබේ.
+
+මෙම සැකකරු පසුගිය අගෝස්තු 8 වන දින වැල්ලම්පිටිය, කිත්තම්පහුම ප්‍රදේශයේ දී පුද්ගලයෙකුට වෙඩිතැබීම, ජුනි 17 වනදා මීටියාගොඩ, සීනිගම දේවාලය අසල විදුර නැමති සංවිධානාත්මක අපරාධකරුගේ මස්සිනා වන දුලාජ් යන අයට කොස්ගොඩ සුජී නැමැති සංවිධානාත්මක අපරාධකරුගේ මෙහෙයවීමෙන් වෙඩිතබා ඝාතනය කිරීමට තැත් කිරීම යන සිද්ධි සම්බන්ධයෙන් ද චෝදනා එල්ල වී තිබේ.
+
+...
+
+[Data](articles/752f7586.json)
+
+---
+
 ### Locals outraged as Israeli and Ukrainian tourists operate businesses in South
 
 *2024-02-28 06:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Locals-outraged-as-Israeli-and-Ukrainian-tourists-operate-businesses-in-South/108-277842) · `en`
@@ -103,6 +157,28 @@ Local nationals in the south claim that if an immediate monitoring process is no
 [Data](articles/d679c553.json)
 
 [Extended Data](ext_articles/d679c553.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට සුළු වැසි
+
+*2024-02-28 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193893) · `si`
+
+නැගෙනහිර, ඌව සහ උතුරු මැද පළාත්වලත් නුවරඑළිය සහ මාතලේ දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, දකුණු, ඌව සහ නැගෙනහිර පළාත්වලත් විටින් විට හමන පැ.කි.මී. 30-40 පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+මේ අතර දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (28) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා  තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+වයඹ, බස්නාහිර සහ දකුණු පළාත්වලත් රත්නපුර දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+...
+
+[Data](articles/47da56ae.json)
 
 ---
 
@@ -1917,73 +1993,5 @@ The Prime Minister asked the Ambassador “to consider investment opportunities 
 [Data](articles/cff07163.json)
 
 [Extended Data](ext_articles/cff07163.ext.json)
-
----
-
-### Electricity campaign is not a Walachchenai Paper Facket - Mahindananda
-
-*2024-02-27 16:12:59* · [`adalk`](https://www.ada.lk/breaking_news/වාලච්චේන-කඩදාසි-කම්හල-නොවසා--හවුල්-ව්‍යාපාරයක්-කරනවා---මහින්දානන්ද/11-408306) · `si`
-
-The Chairman of the National Economic and Physical Planneerology of the National Economic and Physical Planneakers, the Chairman of the National Economic and Physical Planneakers, the recommendation of the National Economic and Physical Planneakers will be sent to the Ministry of Industry and Industries.
-
-Since the Valachchenai Factory machines were imported in 1956, so they were repaired to repairs. The Ministry of Industries said that the Treasury was not receiving a state-private journalism as a public partnership for the tourism industry, but the Ministry of Industries said that it was allocated for the tourism industry.
-
-◼️
-
-[Data](articles/060fef60.json)
-
-[Extended Data](ext_articles/060fef60.ext.json)
-
----
-
-### The young man who swallowed coins to make the body
-
-*2024-02-27 16:07:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடலை-கட்டழகாக்க-நாணயங்களை-விழுங்கிய-இளைஞன்/175-333893) · `ta`
-
-The habit of eating nutritious pills, powder and beverages, beyond regular meals among young adults for bodybuilding and couch.. Protein powder tops them. In addition, exercises are more likely to consume something without the doctor's advice.
-
-A 26 -year -old youth who wants to be a singer in New Delhi. The young man, who was tempted by the country, did not go hand in hand. Following this, the young man concluded that his body did not reach his body. The next staggering, he has begun to swallow each one, knowing that the combination of zinc in the currency.
-
-Thus he has swallowed Rs 1, 2 and 5 as a pill of rupees. He has also reported this to his household. They have crossed it as sport. But in a few days, Sir Gangaram was admitted to the hospital in New Delhi with symptoms of abdominal pain and vomiting. The doctors who took the stomach X -ray and scan there were shocked. They immediately arranged for surgery.
-
-...
-
-[Data](articles/225caaea.json)
-
-[Extended Data](ext_articles/225caaea.ext.json)
-
----
-
-### For those who want to give Gaza Children's Fund .....
-
-*2024-02-27 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177408) · `ta`
-
-Those who wish to donate to the Children of Gaza Fund during the month of Ramadan will deposit the Ceylon Bank (7010) to the Tabrabane (747) branch of the Bank of Ceylon (747).
-
-It is noteworthy that the Cabinet has granted permission to the proposal put forward by President Ranil Wickremesinghe to establish the Children of Gaza Fund to provide relief to children affected by the Gaza border.
-
-◼️
-
-[Data](articles/b2d4a739.json)
-
-[Extended Data](ext_articles/b2d4a739.ext.json)
-
----
-
-### Does the bananasen kadasi factory destroy the scams?
-
-*2024-02-27 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177407) · `ta`
-
-Four decades ago is the Valaichenai and the Kadadasi factory located there will remember everyone. However, in the 1990s, the factory was closed and the minds of most of them were left out of the minds.
-
-George ED Silva held the post of Industry Minister in the United National Party in 1947. GG Ponnambalam was given in 1948. Following this, Ponnambalam laid the foundation stone for the Valaichenai Kadadasi Factory in 1951. The factory was set up under the German assistance program.
-
-However, the UNP came to power in 1952. Ponnambalam became the Minister of Industry. So the construction work of the Kadadasi factory, which he started the foundation, was successfully carried out in the reign of Dudley Senanayake.
-
-...
-
-[Data](articles/9f134131.json)
-
-[Extended Data](ext_articles/9f134131.ext.json)
 
 ---

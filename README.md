@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 11:02:29**
+As of **2024-02-28 11:17:34**
 
 ## Newspaper Stats
 
-*Scraped **9,739** Articles*
+*Scraped **9,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ economynextcom | 500
 dailyftlk | 519
 islandlk | 521
 adalk | 824
-adaderanalk | 1,173
+adaderanalk | 1,174
 tamilmirrorlk | 1,189
 virakesarilk | 1,330
-dailymirrorlk | 1,468
+dailymirrorlk | 1,472
 adaderanasinhalalk | 1,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,739 (100.0%) of 9,739 articles have been extended.
+9,739 (99.9%) of 9,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### SLPP Parlimentarian accused of land grab in Kalpitiya
+
+*2024-02-28 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-Parlimentarian-accused-of-land-grab-in-Kalpitiya/108-277880) · `en`
+
+Puttalam District SLPP Parliamentarian Chinthaka Mayadunna is accused of being involved in land grabbing in Kalpitiya to distribute amongst the Muslim and Tamil communities, eyeing their votes at the upcoming elections.
+
+Mayadunna and his Secretary Mendis have instigated the Muslim and Tamil communities in the area to trespass private lands promising them ownership to these lands.
+
+Meanwhile, Acting Divisional Secretary (ADS) Kalpitiya, S. Nandasena too has come under severe criticism for aiding and abetting Mayadunna in his misdeeds. It is reported that two workers working on a 43 acre land belonging to Shirani Kotalawela had been chased away by the ADS claiming that they did not have any authority to work on ‘state’ land.
+
+In order to prove that this is a state land and did not belong to any private party, last week, Nandasena had got the Survey’s Department to survey the land seeking a conformation on its ownership.
+
+...
+
+[Data](articles/0cfba7d1.json)
+
+---
+
+### Michelle Obama, leading choice to replace Joe Biden as presidential candidate: Poll
+
+*2024-02-28 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97586/michelle-obama-leading-choice-to-replace-joe-biden-as-presidential-candidate-poll) · `en`
+
+Nearly half of Democrat voters do not want US President Joe Biden to go into a run-in with his predecessor Donald Trump for the keys to the White House, come November, a new poll has revealed.
+
+Instead, the Democrats want former first lady Michelle Obama to replace him as the party’s frontrunner.
+
+The poll survey data released by Rasmussen Reports on Monday (Feb 26) shows that about 48 per cent of Democrats approve of the party “finding another candidate to replace Joe Biden before the election in November”, compared to 38 per cent who disapprove.
+
+However, only 33 per cent believe that such a ballot shakeup, this late in the presidential campaign was likely to happen.
+
+The poll conducted on 960 voters found little consensus on who should replace Biden on the ballot but Obama, 60, led with 20 per cent of respondents voting for her.
+
+...
+
+[Data](articles/22428b3c.json)
+
+---
 
 ### Santhan: Released convict in Rajiv Gandhi assassination case dies
 
@@ -423,6 +461,24 @@ The victim was identified as the manager who acted as the motorcyclist for the m
 [Data](articles/752f7586.json)
 
 [Extended Data](ext_articles/752f7586.ext.json)
+
+---
+
+### Locals outraged as Israeli and Ukrainian tourists operate businesses in South
+
+*2024-02-28 06:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Locals-outraged-as-Israeli-and-Ukrainian-tourists-operate-businesses-in-South/155-277842) · `en`
+
+Following the Daily Mirror’s expose on Russian tourists engaging in illegal businesses in several areas in the south, it has now come to light that many Israeli and Ukrainian tourists are also engaged in running similar businesses in the south, hampering local businesses and causing much concern among industry stakeholders.
+
+The Daily Mirror visited these areas along the southern coastal belt and learnt that business operations run by Israeli and Ukrainian tourists include boutique hotels, restaurants and cafes.
+
+However, local tour operators claim that most Ukrainian tourists have even reached the extent of organizing excursions which they claim is illegal as tourists don’t have a license to operate as inbound tour guides.
+
+Local nationals in the south claim that if an immediate monitoring process is not enforced, tourists and locals are likely to clash as the tourists are attempting to hinder local businesses and hinder their livelihoods.
+
+...
+
+[Data](articles/7528bf48.json)
 
 ---
 
@@ -854,6 +910,26 @@ Cabinet of Ministers on Monday approved the proposal to suspend the procedure to
 
 ---
 
+### Fresh relief for businesses struggling with loan repayments
+
+*2024-02-28 01:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fresh-relief-for-businesses-struggling-with-loan-repayments/108-277847) · `en`
+
+Businesses showing support to fight against parate execution in the first ‘Anti-Parate Activist’ meeting held in December 2023 -Pic by Kithrisi de Mel
+
+Cabinet nod given to suspend the procedure to acquire properties of whose loans are not paid off by the banks up to 15 December
+
+Intense lobbying by ‘Anti-Parate Activists’ has finally pushed the authorities to make a decision that will weaken the strength of banks to support sectors
+
+Businesses struggling to repay loans can now let out a sigh of relief as a Cabinet decision has been announced that prevents banks from opting for aggressive recovery measures.
+
+Cabinet of Ministers on Monday approved the proposal to suspend the procedure to acquire properties whose loans are not paid off by the banks up to 15 December 2024. The nod was also given to amend section 4 of the Recovery of Loans by Banks (Special Provisions) Act No. 4 of 1990 to impose legal provisions required for the suspension.
+
+...
+
+[Data](articles/ddd492f8.json)
+
+---
+
 ### The appointment of the Inspector General of Police is not illegal - the Ministry of Justice
 
 *2024-02-28 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177460) · `ta`
@@ -889,6 +965,26 @@ All people are living with dedicated on this occasion that the country is facing
 [Data](articles/7842d603.json)
 
 [Extended Data](ext_articles/7842d603.ext.json)
+
+---
+
+### Businesses of Israeli, Ukrainian nationals spell doom for Southerners
+
+*2024-02-28 00:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/recomended-news/Businesses-of-Israeli-Ukrainian-nationals-spell-doom-for-Southerners/277-277838) · `en`
+
+Tourists have rented out bikes and three-wheelers to cut down on traveling costs
+
+Businesses are run by tourists using tourist visas and this has become a serious cause of concern for locals in the area
+
+Critics point out that though Sri Lanka needs more revenue its resources and the sovereignty of citizens cannot be infringed at the expense of tourists
+
+Pleas made by Sri Lankans urging the authorities to streamline the legal framework, so that the tourism sector would help locals and local businesses to thrive
+
+Many tour guides warn of possible consequences of neglecting the country’s pristine beaches
+
+...
+
+[Data](articles/0c004cde.json)
 
 ---
 
@@ -1919,105 +2015,5 @@ The officials stated that research has confirmed that these educational publicat
 [Data](articles/e0a32eb9.json)
 
 [Extended Data](ext_articles/e0a32eb9.ext.json)
-
----
-
-### Lands in the north to mark the anniversary of the Air Force
-
-*2024-02-27 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177451) · `ta`
-
-Parliamentarian Anganan Ramanathan has called for the release of private air forces controlled by the Air Force in the North to mark the 73rd anniversary of the Sri Lankan Air Force.
-
-He said this during a media briefing held at the Jaffna Media Center on Tuesday (27).
-
-The 73rd anniversary of the Air Force will be centered on the North. Air Force should take steps to release private lands in the North.
-
-It is not acceptable to take up land under national security for security purposes in the North and use it for other purposes.
-
-Similarly, the Marines have banned fishing near Madhakal Vihara. Security side cannot act on a religion. It is illegal.
-
-People are protesting against the recruitment of the lands handed over to the Jaffna International Airport.
-
-The lands that have been preceded to the airport are not yet paid for compensation. In this case, people are protesting that the land cannot be taken up.
-
-...
-
-[Data](articles/01c94e08.json)
-
-[Extended Data](ext_articles/01c94e08.ext.json)
-
----
-
-### Justice for the missing is the water of the canal - the blessing
-
-*2024-02-27 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177450) · `ta`
-
-Justice for the missing is the water of the canal. "All the rulers are continuing the process of dragging and denying justice," said Arundhantha Sathivel, an activist for social justice and a co -ordinator of the national organization for the release of political prisoners.
-
-In the Northeast, state security forces have begun a series of protests on its seventh closing day and held six demands to the Commissioner of the UN Human Rights Council on its seventh closing day.
-
-These demands are fair. The UN Human Rights Council (UNHRC) urges the UN Human Rights Council to expedite the demands of the Christian cooperation movement for the struggle of the missing relations that have been carrying out a series of protests with the pains of relationships.
-
-...
-
-[Data](articles/3e3e290f.json)
-
-[Extended Data](ext_articles/3e3e290f.ext.json)
-
----
-
-### Ranil should do to make a candidate
-
-*2024-02-27 18:27:38* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-අපේක්ෂකයා-කළ-යුතුයි-කියන්නේ-සුළු-පිරිසක්/11-408308) · `si`
-
-Ranil Wickremesinghe is not the views of the party, Ranil Wickremesinghe is not the views of the party, which has been appointed as the Candidate of the presidential election.
-
-He said that he emphasized that the next President would be a wide alliance of the public leading presence.
-
-The presidential candidate should give the presidential candidate with the President as well as those in the Cabinet and state ministries. Others offer more names. But we should not worry about anything.
-
-Namal Rajapaksa said that if the freedom of his own personal affair, it is prohibited by party membership.
-
-The opposition commenced the security of the road to the Speaker, but it was signed by the Passover Leader of Parliament and the Speaker could talk to the Speaker and talk to the Attorney General.
-
-◼️
-
-[Data](articles/9c06151e.json)
-
-[Extended Data](ext_articles/9c06151e.ext.json)
-
----
-
-### Muthukumaran
-
-*2024-02-27 18:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உத்திகவின்-இடத்திற்கு-முத்துகுமாரன/175-333901) · `ta`
-
-SC Muthukumaran is to be appointed to the vacancy that has resigned from the post of Parliament today.
-
-◼️
-
-[Data](articles/3eee3442.json)
-
-[Extended Data](ext_articles/3eee3442.ext.json)
-
----
-
-### Minister of Agriculture
-
-*2024-02-27 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193886) · `si`
-
-Minister Mahinda Amaraweera has instructed the Agrarian Commissioner General of Amarane Amaraweera to collect immediately under the Department of Agrarian Development Department.
-
-The officials had informed the Minister that the most performed most of the lands.
-
-Accordingly, it is reported that the government has instructed to close the sector on a prohibition of paddy lands and a policy.
-
-The Ministry of Agriculture stated that it has been decided to establish the sector as a crop and expansion unit.
-
-◼️
-
-[Data](articles/37ad153a.json)
-
-[Extended Data](ext_articles/37ad153a.ext.json)
 
 ---

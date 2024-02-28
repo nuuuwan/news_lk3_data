@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 22:50:10**
+As of **2024-02-28 23:02:52**
 
 ## Newspaper Stats
 
-*Scraped **9,875** Articles*
+*Scraped **9,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ islandlk | 521
 adalk | 841
 adaderanalk | 1,192
 tamilmirrorlk | 1,202
-virakesarilk | 1,359
-dailymirrorlk | 1,494
+virakesarilk | 1,361
+dailymirrorlk | 1,496
 adaderanasinhalalk | 1,499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,874 (100.0%) of 9,875 articles have been extended.
+9,875 (100.0%) of 9,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### சுன்னாகத்தின் மின்சாரம் தாக்கி இளம் குடும்பஸ்தர் மரணம்!
+
+*2024-02-28 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177551) · `ta`
+
+சுன்னாகம் பொலிஸ் பிரிவிற்குட்பட்ட மயிலணி பகுதியில் மின்சாரம் தாக்கி இளம் குடும்பஸ்தர் ஒருவர் செவ்வாய்க்கிழமை (27) உயிரிழந்துள்ளார். மயிலணி வடக்கு சுன்னாகம் பகுதியைச் சேர்ந்த தேவராசா கமல்ராஜ் (வயது 39) என்ற ஒரு பிள்ளையின் தந்தையே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவரது வீட்டில் மின்சார இணைப்பு துண்டிக்கப்பட்டு இருந்தது. இந்நிலையில் அயல் வீட்டிலிருந்து மின்சாரம் பெற்று தண்ணீர் மோட்டார் பயன்படுத்தியுள்ளார். இதனால் இவர் மின்சார தாக்குதலுக்கு உள்ளானார்.
+
+இதன்போது அவரை தெல்லிப்பழை வைத்தியசாலைக்குக் கொண்டு சென்றவேளை அவர் ஏற்கனவே உயிரிழந்து விட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் இன்று உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/aa305df6.json)
+
+---
+
+### CEB notifies 14% average tariff revision to PUCSL
+
+*2024-02-28 22:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-notifies-14-average-tariff-revision-to-PUCSL/108-277906) · `en`
+
+Colombo, Feb 28 (Daily Mirror) - Contradicting the statement by the Energy Minister that electricity tariffs can be reduced by 18 per cent, the Ceylon Electricity Board (CEB) has informed the Public Utilities Commission of Sri Lanka (PUCSL) that the tarrif can be reducded by an average of 14 per cent.
+
+They said the tariff has been strategically reduced significantly by the control of the Central Bank enabling it to yield significant financing benefits. By making project loans more affordable, the CEB can reduce the financing burden.
+
+The CEB said the revised tariff proposal has been prepared considering a relief to the entire tariff customer category.
+
+According to the letter, the tariff has been strategically reduced significantly by the control of the Central Bank enabling it to yield significant financing benefits. By making project loans more affordable, the CEB can reduce the financing burden.
+
+...
+
+[Data](articles/f98198c7.json)
+
+---
 
 ### Saffron-robed monk arrested over allegations of child sexual abuse
 
@@ -45,6 +79,44 @@ The suspect was, however, released on a personal bail of Rs. 500,000 after being
 ◼️
 
 [Data](articles/6d4e4978.json)
+
+[Extended Data](ext_articles/6d4e4978.ext.json)
+
+---
+
+### Police launch probe as Inspector flees country citing death threats
+
+*2024-02-28 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-launch-probe-as-Inspector-flees-country-citing-death-threats/108-277913) · `en`
+
+Colombo, Feb 28 (Daily Mirror) - Police have launched an investigation into Police Inspector Duminda Jayathilaka, the Officer In-Charge of the Organized Crime Division at the Colombo Crimes Division, who has left the country due to death threats from members of underworld gangs, targeting him and his family.
+
+Inspector Duminda Jayathilaka reportedly left for France on February 14 from the Bandaranaike International Airport, accompanied by personal security guards, as a precaution against the threats looming over him and his family. Among the gangsters who allegedly threatened him are Kanjipani Imran and Heenatiyana Mahesh.
+
+Inspector Jayathilaka made several statements to the media from aboard the plane about the threats he had allegedly received from criminals.
+
+Police spokesman DIG Nihal Thalduwa said there is reasonable doubt and suspicion about all the incidents and that police suspect the Inspector may have tried to seek benefits or advantages.
+
+...
+
+[Data](articles/214474c8.json)
+
+---
+
+### பரந்துப்பட்ட அரசியல் கூட்டணி ஊடாக ஜனாதிபதி வேட்பாளர் தெரிவு செய்யப்படுவார் - நாமல் ராஜபக்ஷ
+
+*2024-02-28 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177550) · `ta`
+
+பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் ஜனாதிபதி ரணில் விக்கிரமசிங்க என்று ஒரு தரப்பினர் குறிப்பிடுவது அவர்களின் தனிப்பட்ட நிலைப்பாடே தவிர கட்சியின் நிலைப்பாடல்ல,பொதுஜன பெரமுன தலைமையிலான பரந்துப்பட்ட அரசியல் கூட்டணியின் ஊடாகவே ஜனாதிபதி வேட்பாளர் தெரிவு செய்யப்படுவார் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+கண்டி நெல்லிகல சர்வதேச பௌத்த மத்திய நிலையத்தில் புதன்கிழமை (28) இடம்பெற்ற நிகழ்வில் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+அரசாங்கத்தில் அமைச்சு மற்றும் இராஜாங்க அமைச்சு பதவி வகிப்பவர்கள் மாத்திரம் தான் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று குறிப்பிட்டுக் கொள்கிறார்கள்.கட்சியின் பெரும்பாலான உறுப்பினர்கள் மாற்று யோசனைகளை முன்வைத்துள்ளார்கள்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று குறிப்பிடுவது கட்சியின் நிலைப்பாடல்ல இது ஒரு தரப்பினரது தனிப்பட்ட நிலைப்பாடாகும்.ஜனாதிபதி தேர்தலுக்கான உத்தியோகபூர்வ அறிவிப்பு வெளியானதும் எமது வேட்பாளரை அறிவிப்போம்.
+
+...
+
+[Data](articles/f6bf933f.json)
 
 ---
 
@@ -1931,93 +2003,5 @@ Sri Lanka Freedom Employees Union Secretary, Hasantha Yasaratne, expressed his v
 [Data](articles/11d810d0.json)
 
 [Extended Data](ext_articles/11d810d0.ext.json)
-
----
-
-### 7 years rigorous imprisonment for a person involved in sexual abuse
-
-*2024-02-28 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177494) · `ta`
-
-The Nuwara Eliya High Court has been sentenced to seven years rigorous imprisonment for a man accused of sexually abusing a 14 -year -old boy in the Valappanai - Mathuratta police area.
-
-Nuwara Eliya High Court Magistrate Viraj Weerasuriya presented the verdict on Tuesday (27) evening.. The case, which has been HCR/05/2017, has been heard at the Nuwara Eliya Upper Finance Forum for the past seven years since 2017.
-
-Mandilaka Dissanayake, a 14 -year -old boy from Mathuratta area, who was found guilty of the incident, was charged with sexual abuse of a 14 -year -old boy three times.
-
-Nuwara Eliya High Court Judge Viraj Weerasuriya presented the verdict yesterday evening. The three cases against Mandilaka Dissa Nayaka, who were found guilty, sentenced him to seven years rigorous imprisonment.
-
-In addition, the victim has to pay compensation of 04 lakhs 50 thousand rupees. If this amount is not paid, he will be sentenced to three years in prison. He also ruled.
-
-...
-
-[Data](articles/812c778c.json)
-
-[Extended Data](ext_articles/812c778c.ext.json)
-
----
-
-### Sri Lanka asks UNHRC member states not to do vote bank politics
-
-*2024-02-28 12:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-asks-UNHRC-member-states-not-to-do-vote-bank-politics/108-277885) · `en`
-
-Feb 28, (Daily Mirror)  - Minister of Foreign Affairs, Ali Sabry urged the members of the UN Human Rights Council not to allow short-term political gains or “domestic vote bank politics” to overtake the work of the Council, when addressing the High-Level segment of the 55th Session of the Council through a pre-recorded video statement on 27 February 2024.
-
-Minister Sabry highlighted that despite the severe constraints faced by the country, Sri Lanka continued to engage actively and constructively with an extensive array of helpful working methods of the Council, that are productive and beneficial to the people.
-
-The Foreign Minister reiterated Sri Lanka's rejection of the HRC resolutions 46/1 and 51/1 and the external evidence gathering mechanism established by these resolutions, while emphasizing that such mechanisms are counterproductive and unhelpful and contradict the founding principles of the Council.
-
-...
-
-[Data](articles/67aa473e.json)
-
-[Extended Data](ext_articles/67aa473e.ext.json)
-
----
-
-### Interim order issued against divestiture of SLT, Lanka Hospitals
-
-*2024-02-28 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97588/interim-order-issued-against-divestiture-of-slt-lanka-hospitals-) · `en`
-
-The Court of Appeal on Wednesday (28 Feb.) issued an interim order suspending all measures regarding the divestiture of Sri Lanka Telecom (SLT) and Lanka Hospitals until 12 March.
-
-The relevant order was issued by Appellate Court Judge D. N. Samarakoon upon consideration of a writ petition filed by Lycamobile SARL and Pettigo Comércio Internacional on behalf of SLT and another filed by Lyca Leasing Holding Limited and HIMS International on behalf of Lanka Hospitals.
-
-The petitioning companies claimed that despite having submitted all required documents to the respondents for the transfer of 50.23% state-owned shares in SLT and 51.34% shares in Lanka Hospitals, the Cabinet sub-committee assigned to the restructuring of State-Owned Enterprises rejected the said applications for no apparent reason.
-
-Thus, the companies noted that the committee’s decision to reject their applications is not only arbitrary and unfair, but also unlawful, given that they had fulfilled all pre-requisites.
-
-...
-
-[Data](articles/265d8d51.json)
-
-[Extended Data](ext_articles/265d8d51.ext.json)
-
----
-
-### Katunayake Airport: Gold door to Sri Lanka, a headache for passengers
-
-*2024-02-28 12:31:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2lgn8yd45o) · `si`
-
-Katunayake Airport: Gold door to Sri Lanka, a headache for passengers
-
-Katunayake's international airports, strikes and flights and flights and flights and flights and cancellations have become a wide range of protests and losses.
-
-A special press conversation in Galkalapitiya (Febru 27) a special news convenery in Galkalu, the Sri Lankan Aircraft (February 27), a special news for the aircrafts and delays of Sri Lankan aircraft (February 27).Is.
-
-SriLankan Airlines: 'In love with Sri Lanka, but the airline has destroyed the experience
-
-Foreign tourists have been made in the airport over the past few months due to delay and cancels of Sri Lankan aircraft.
-
-However, it is difficult to assume that the SriLankan Airlines is correct at a day of notice.
-
-It is the delay, delay and employee shortage of the aircraft soil.
-
-The aircraft had to landed on the Melbourne airport on a problematic system of the air-agreed system while SriLankan Airlines has begun from Australia's Melbourne recently.
-
-...
-
-[Data](articles/ef5df32a.json)
-
-[Extended Data](ext_articles/ef5df32a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 06:52:31**
+As of **2024-02-28 07:16:03**
 
 ## Newspaper Stats
 
-*Scraped **9,709** Articles*
+*Scraped **9,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 500
 dailyftlk | 519
 islandlk | 521
-adalk | 819
+adalk | 820
 adaderanalk | 1,167
 tamilmirrorlk | 1,183
 virakesarilk | 1,330
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,695 (99.9%) of 9,709 articles have been extended.
+9,703 (99.9%) of 9,710 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -98,6 +98,8 @@ The current engagement of IMF in Sri Lanka, is obviously a ‘desperate invitati
 
 [Data](articles/bc321824.json)
 
+[Extended Data](ext_articles/bc321824.ext.json)
+
 ---
 
 ### Japan extends Rs. 2.5 b grant to strengthen border-related health capacities
@@ -115,6 +117,8 @@ The Bandaranaike International Airport (BIA) and Colombo Port will see an upgrad
 ...
 
 [Data](articles/85fc222c.json)
+
+[Extended Data](ext_articles/85fc222c.ext.json)
 
 ---
 
@@ -410,6 +414,8 @@ Attributing the fall of the former USSR regime of Russia to the same theory, Ban
 
 [Data](articles/78c1284a.json)
 
+[Extended Data](ext_articles/78c1284a.ext.json)
+
 ---
 
 ### ‘White Only’ Party and the Warped Mind of the Immigration Controller
@@ -427,6 +433,8 @@ No! The best that the warped minds of the Department of Immigration and Emigrati
 ...
 
 [Data](articles/56008943.json)
+
+[Extended Data](ext_articles/56008943.ext.json)
 
 ---
 
@@ -844,6 +852,24 @@ Officers of the Commission have asked whether it is a legal driving license at t
 
 ---
 
+### පාන් අලෙවිය සියයට 25කින් පහළට
+
+*2024-02-27 20:21:04* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-අලෙවිය-සියයට-25කින්-පහළට/11-408316) · `si`
+
+පාන් 25%කින් සහ කේක් ඇතුළු සෙසු බේකරි නිෂ්පාදන අළෙවිය 50%කින් පහත වැටී ඇතැයි සමස්ත ලංකා බේකරි හිමියන්ගේ සංගමයේ සභාපති එන්. කේ. ජයවර්ධන මහතා පවසයි.
+
+නිෂ්පාදන වියදම විශාල වශයෙන් ඉහළ යාම හේතුවෙන් බේකරිනිෂ්පාදනවල මිල ගණන්ද ඉහළ මට්ටමක පැවතීමඅළෙවිය පහත වැටීමට හේතු වී ඇතැයිද ඔහු පවසයි.
+
+මේ වන විට මාගරින් කිලෝවක් රුපියල් 1,000ක් සහ බටර් කිලෝවක් රුපියල් 3,000ක් දක්වා මිල ඉහළ ගොස් ඇති බවත් ඉන්දියාවෙන් ආනයනය කරන බිත්තර බේකරිවලට ලබා නොදීම නිසාබිත්තර මාෆියාව හමුවේ දේශීය බිත්තරයක මිල රුපියල් 60 දක්වා වැඩිවීමත් හේතුවෙන් බේකරි කර්මාන්තයට දැඩි පහරක් වැදී ඇතැයි සභාපතිවරයා පවසයි.
+
+එබැවින් එළැඹෙන සිංහල අවුරුද්දට පෙර බේකරි නිෂ්පාදනවලට අවශ්‍ය අමුද්‍රව්‍ය බද්දෙන් නිදහස් කර, බිත්තර මිල පහත දැමීමට කටයුතුකර, පාරිභෝගික ජනතාවට සහන සැලසීමට රජය පියවර ගත යුතු බවද හෙතෙම වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/90502502.json)
+
+---
+
 ### US appreciates Sri Lanka’s role in Red Sea operations
 
 *2024-02-27 20:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-appreciates-Sri-Lankas-role-in-Red-Sea-operations/108-277827) · `en`
@@ -896,6 +922,8 @@ Commenting on the new appointment, Bingumal Thewarathanthri, CEO of Standard Cha
 
 [Data](articles/4f3127b3.json)
 
+[Extended Data](ext_articles/4f3127b3.ext.json)
+
 ---
 
 ### AICPA & CIMA CXO Forum spotlights the future of business, accounting, and finance
@@ -918,6 +946,8 @@ Davina Kern, Council Member, CIPM/ Head of Group Human Resources at David Pieris
 
 [Data](articles/360b7e52.json)
 
+[Extended Data](ext_articles/360b7e52.ext.json)
+
 ---
 
 ### Strengthening Sri Lanka’s small and medium enterprises through supply chain excellence
@@ -929,6 +959,8 @@ In a significant stride towards fostering resilience and sustainability in the n
 ...
 
 [Data](articles/ed97493f.json)
+
+[Extended Data](ext_articles/ed97493f.ext.json)
 
 ---
 
@@ -949,6 +981,8 @@ The minister added: “Because of this, the government took steps to import some
 ...
 
 [Data](articles/77c62beb.json)
+
+[Extended Data](ext_articles/77c62beb.ext.json)
 
 ---
 
@@ -1967,23 +2001,5 @@ He has been re-employed and returned to work and have been re-served and committ
 [Data](articles/055096d4.json)
 
 [Extended Data](ext_articles/055096d4.ext.json)
-
----
-
-### Sri Lanka to lease Waters Edge land to Navy, Asoka College
-
-*2024-02-27 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-waters-edge-land-to-navy-asoka-college-152264/) · `en`
-
-ECONOMYNEXT – Sri Lanka will release two blocks of land within the premises of Waters’ Edge, Battaramulla to the Sri Lanka Navy and Asoka Vidyalaya, Colombo 10 on a long term lease.
-
-“The land will be leased to the Navy to operate boating services and to establish lifesaving training activities, and to Asoka college to be used as a playground,” Cabinet spokesman Bandula Gunawardena said on Tuesday.
-
-One block of land is 2 roods and 30.89 perches, and the other is 4 acres, 2 roods and 1.60 perches. (Colombo/Feb27/2024)
-
-◼️
-
-[Data](articles/65c05075.json)
-
-[Extended Data](ext_articles/65c05075.ext.json)
 
 ---

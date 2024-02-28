@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 09:17:24**
+As of **2024-02-28 09:33:08**
 
 ## Newspaper Stats
 
-*Scraped **9,727** Articles*
+*Scraped **9,728** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 500
 dailyftlk | 519
 islandlk | 521
-adalk | 821
+adalk | 822
 adaderanalk | 1,169
 tamilmirrorlk | 1,189
 virakesarilk | 1,330
@@ -26,43 +26,51 @@ adaderanasinhalalk | 1,470
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,725 (100.0%) of 9,727 articles have been extended.
+9,727 (100.0%) of 9,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### උණුසුම් කාලගුණය ගැන අවවාදාත්මක නිවේදනයක්
+### An announcement of warm weather
 
 *2024-02-28 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193900) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (28) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The temperature of several areas in the island will continue to focus on a level today (28).
 
-වයඹ, බස්නාහිර සහ දකුණු පළාත්වලත් රත්නපුර දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+The heat of the human body in the North Western and Southern provinces, the heat of the human body will be at focus.
 
-මෙහිදි ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවන ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුවේ  අනාවැකිකරණ අංශයේ නියෝජ්‍ය අධ්‍යක්‍ෂ මෙරිල් මෙන්ඩිස් මහතා පැවසුවේය.
+Deputy Director Merrill Mendis said that it should be followed by adequate water, including the restriction in the shade, and the stress of the expanding the stress, including the stressing outdoors.
 
-මේ අතර පවතින අධික හිරු රශ්මිය හේතුවෙන් හිසරදය, වමනය, ඇඟපත වේදනාව, නිදිමත ගතිය වැනි රෝගී ලක්ෂණ මතු වියහැකි බව ළමා රෝග විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+In the meantime, heavy sunshines can lead to headaches, vomiting, body pain, sleepiness, says Dr. Deepal.
+
+"We feel a hard job today and in the days. At the same time the drop out of the body. Saliva and water leaves the body. So we all feel inconvenienced. Symptoms may cause vomiting, headache, body, sleepiness, sleep, or faintness. To avoid these, we need to drink more water and saliva. Natural beverages, porridges, lime, oranges, orange water, orange water, coalmawa, like the coconut. "
+
+Dr. Deepal Perera said that due to this situation, the sides of the dermatologist have emerged.
 
 ...
 
 [Data](articles/81da52d4.json)
 
+[Extended Data](ext_articles/81da52d4.ext.json)
+
 ---
 
-### கிரிக்கெட் வீரர்களை சந்தித்தார் அமைச்சர் ஹரின்
+### Minister Harin met cricketers
 
 *2024-02-28 08:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரிக்கெட்-வீரர்களை-சந்தித்தார்-அமைச்சர்-ஹரின்/175-333924) · `ta`
 
-இலங்கை கிரிக்கெட் வீரர்கள் எதிர்கொள்ளும் பிரச்சினைகள் மற்றும் சவால்கள் குறித்து இலங்கை கிரிக்கெட் அணியின் வீரர்கள் பலர் இன்று விளையாட்டுத்துறை அமைச்சர் ஹரின் பெர்னாண்டோவை சந்தித்து கலந்துரையாடினர்.
+A number of Sri Lankan cricket team players met with Sports Minister Harin Fernando today on the problems and challenges faced by Sri Lankan cricketers.
 
-ஒருநாள் கிரிக்கெட் அணியின் தலைவர் குசல் மெண்டிஸ், இருபதுக்கு 20 அணித்தலைவர் வனிந்து ஹசரங்க, சிரேஷ்ட வீரர்கள் அஞ்சலோ மத்தியூஸ், திமுத் கருணாரத்ன, கிரிக்கட் ஆலோசகர் சனத் ஜயசூரிய, மற்றும் பிரதம தேர்வாளர் உபுல் தரங்க ஆகியோர் அமைச்சில் இடம்பெற்ற சந்திப்பில் கலந்துகொண்டனர்.
+ODI captain Kusal Mendis, Twenty20 captain Wanindu Hasaranga, Senior players Angelo Madhus, Timuth Karunaratne, Cricket Advisor Sanath Jayasuriya, and Chief Executor Upul Tharanga participated in the meeting.
 
-கிரிக்கெட் வீரர்கள் எதிர்கொள்ளும் பயிற்சி கட்டமைப்புகள், புதுமையான பயிற்சி உத்திகள், மன கவனம், திறமை மேம்பாடு மற்றும் வரவிருக்கும் போட்டிகளில் வெற்றிகளைப் பெறுவதற்கான உத்திகள் போன்ற பல பிரச்சினைகள் கலந்துரையாடப்பட்டதாக கூறப்படுகிறது.
+It is said that the training structures faced by cricketers, innovative training strategies, mental focus, talent development and strategies for success in upcoming competitions have been discussed.
 
 ◼️
 
 [Data](articles/e305f17f.json)
+
+[Extended Data](ext_articles/e305f17f.ext.json)
 
 ---
 
@@ -1224,6 +1232,22 @@ President Ranil Wickremesinghe re-iterated the country's commitment to the Freed
 
 ---
 
+### පාසල් දරුවන්ගෙන් වැඩිම කෘෂ දරුවන් හම්බන්තොටින් වාර්තා වෙයි
+
+*2024-02-27 20:09:44* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-දරුවන්ගෙන්-වැඩිම-කෘෂ-දරුවන්-හම්බන්තොටින්-වාර්තා-වෙයි/11-408314) · `si`
+
+පසුගිය වසරවලට සාපේක්ෂව මේ වන විට දරුවන්ගේ මන්ද පෝෂණ තත්වය වඩාත් ඉහළ ගොස් ඇති බවත්,ඒ අතරිනුත් පාසැල් දරුවන් අතරින් කෘශ බව වැඩි දරුවන් වැඩිම පිරිසක් වාර්තා වන්නේ හම්බන්තොට දිස්ත්‍රික්කයෙන් බවත්, වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෘත්තීය සමිති සන්ධානයේ සභාපති,විශේෂඥ වෛද්‍ය ජී.ජී.චමල් සංජීව මහතා පැවසීය.
+
+වෛද්‍යවරයා මේ බව පැවසුවේ ඊයේ (27දා) පෙරවරුවේ  සූරියවැව ප්‍රදේශයේදී මාධ්‍ය සාකච්ජාවක් පවත්වමිනි.
+
+"මීට වසර එක හමාරකට පමණ පෙර අප හම්බන්තොට දරුවන්ගේ පෝෂණ තත්වය පිළීබදව හෙළිදරව්වක් කළා.නමුත් නිලධාරීන් ඊට කිසිදු ක්‍රියාමාර්ගයක් නොගෙන තවමත් ඒ පිළිබඳව හෙළි කළ මා පිළිබඳව විමර්ශන පැවැත්වීම සිදුකරමින් තිබෙනවා.අප කළ හෙළිදරව්ව පිළිබඳව හම්බන්තොට රාජ්‍ය නිලධාරීන් මේ වනතුරුත් කිසිදු ක්‍රියාමාර්ගයක් ගෙන නොමැති බව මෑතකදී පෝෂණ මාසය වෙනුවෙන් සෞඛ්‍ය අමාත්‍යංශයට අයත් පවුල් සෞඛ්‍ය කාර්යංශය විසින් 2023 වර්ෂයට අදාළව නිකුත් කරන ලද වාර්තාවේ  පැහැදිලිව සඳහන්ව තිබෙනවා.
+
+...
+
+[Data](articles/3d1b14f6.json)
+
+---
+
 ### We will continue to fight even when the government does not abandon the wind farm on Mannar Island
 
 *2024-02-27 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177453) · `ta`
@@ -1997,23 +2021,5 @@ Indian scientists plan to send a robot this year into space and then to send ast
 [Data](articles/7eb705bb.json)
 
 [Extended Data](ext_articles/7eb705bb.ext.json)
-
----
-
-### A warning to the people
-
-*2024-02-27 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193883) · `si`
-
-The Department of Meteorological Department has issued an anticipal announcement for warm weather tomorrow (28).
-
-It states that the warmth of the North Western, Western and Southern provinces and in some places in the Ratnapura district are expected to be focused on the level.
-
-Below is the advisable announcement and the points to be followed.
-
-◼️
-
-[Data](articles/278c386b.json)
-
-[Extended Data](ext_articles/278c386b.ext.json)
 
 ---

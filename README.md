@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 19:50:10**
+As of **2024-02-28 20:02:19**
 
 ## Newspaper Stats
 
-*Scraped **9,839** Articles*
+*Scraped **9,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ dailyftlk | 519
 islandlk | 521
 adalk | 834
 adaderanalk | 1,187
-tamilmirrorlk | 1,197
+tamilmirrorlk | 1,200
 virakesarilk | 1,355
-dailymirrorlk | 1,487
-adaderanasinhalalk | 1,491
+dailymirrorlk | 1,489
+adaderanasinhalalk | 1,496
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,839 (100.0%) of 9,839 articles have been extended.
+9,839 (99.9%) of 9,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### පුංචි පුතුගේ වීඩියෝව ෆේස්බුක් දැමූ අයට වැඩ වරදියි
+
+*2024-02-28 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193929) · `si`
+
+මේ අතර කුඩා දරුවෙක් පාසලේ පන්ති කාමරය තුළ ගුරුවරියක විසින් අපහසුතාවට පත්කරන ආකාරය දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය වෙමින් තිබේ.
+
+එහිදී ඔවුන් පැවසුවේ අදාළ සිදුවීම රූගත කිරීම සිදුකළේ කවුරුන්ද යන්න සොයා බලා එය සිදුකර ඇත්තේ ගුරුවරයෙකු හෝ ගුරුවරියක නම් ඊට එරෙහිව විනය ක්‍රියාමාර්ග ගන්නා බවය.
+
+◼️
+
+[Data](articles/ae67e15d.json)
+
+---
+
+### Harini should bring in a private member’s motion to repeal laws prohibiting prostitution: Hirunika
+
+*2024-02-28 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Harini-should-bring-in-a-private-members-motion-to-repeal-laws-prohibiting-prostitution-Hirunika/108-277900) · `en`
+
+Colombo, Feb. 28 (Daily Mirror)- National People's Power (NPP) MP Harini Amarasuriya should bring in a private member's motion to repeal the Vagrants Ordinance of 1841 under which prostitution is banned in Sri Lanka, former MP Hirunika Premachandra said today.
+
+"Amarasuriya did mention that decriminalising prostitution in Sri Lanka is some thing that will be included in her party's manifesto. They don't have to wait till they come to power to do it. This is because she could easily bring in a private member's motion to repeal the Vagrants' Ordinance of 1841 under which prostitution is banned here," Premachandra said.
+
+"You don't have to include such pledges in your party manifesto. However, you can prove your genuineness by briniging in a private member's motion," she added.
+
+...
+
+[Data](articles/fae347ba.json)
+
+---
+
+### මිනිස් ජීවිතයකට පාතාලේ තැබූ අලුත්ම ලංසුව
+
+*2024-02-28 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193928) · `si`
+
+ඩුබායීහී රැඳී සිටින රවී නැමැත්තෙකු විසින් ලබාදුන් රුපියල් ලක්ෂ 3ක කොන්ත්‍රාත්තුවක් මත වැල්ලේ සුරංගගේ මස්සිනා ඝාතනය සිදුකර ඇති බව මේ වනවිට පොලීසිය අනාවරණ කරගෙන තිබේ.
+
+වැල්ලේ සාරංග නම් අපරාධකරුගේ මස්සිනාව මහබාගේ, ඇලපිටිවල ප්‍රදේශයේදී යතුරුපැදියකින් පැමිණි නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු විසින් වෙඩි තබා ඝාතනය කළේ පසුගිය 21වනදාය.
+
+මෙම ඝාතනය සිදුකිරීමට පැමිණි යතුරුපැදිකරු සූරියවැව ආඬිගම ප්‍රදේශයේදී අද අලුයම පොලිස් විශේෂ කාර්ය බලකාය සමග ඇති වූ වෙඩි හුවමාරුවකදී මියගොස් තිබේ.
+
+සිද්ධිය පිළිබඳ විමර්ශන සිදුකළ පොලිස් විශේෂ කාර්ය බලකාය ඝාතන සිද්ධියේ  වෙඩික්කරු සහ  ආධාර අනුබල දුන් පුද්ගලයෙකු පසුගිය සෙනසුරාදා අත්අඩංගුවට ගත්තේය.
+
+එහිදී අනාවරණ වී තිබුණේ වෙඩික්කරු යුද හමුදාවේ සක්‍රීය සේවයේ නිරතව සිටින අයෙක් බවය.
+
+සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අනාවරණ වී ඇත්තේ, වෙඩික්කරු පැමිණි යතුරුපැදිය පැදවූ පුද්ගලයා සූරියවැව, ආඬිගම කැලෑබද ප්‍රදේශයක වූ වාඩියක සැඟව සිටින බවය.
+
+පසුව පොලිස් විශේෂ කාර්ය බලකාගේ නිලධාරී කණ්ඩායමක් අද අළුයම සැකකරු අත්අඩංගුවට ගැනීමට එම ප්‍රදේශයට ගොස් තිබේ.
+
+...
+
+[Data](articles/b6dbb0b6.json)
+
+---
 
 ### Appeal Court suspends auctioning of New Nawaloka Medical Centre
 
@@ -50,6 +104,24 @@ The Court of Appeal registrar was directed to issue notice and the interim order
 
 ---
 
+### ”பிரதமர் பதவிக்கு பஷில் களமிறங்குவார்”
+
+*2024-02-28 18:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-பதவிக்கு-பஷில்-களமிறங்குவார்/175-333959) · `ta`
+
+எதிர்வரும் பாராளுமன்றத் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பிரதமர் வேட்பாளராக பசில் ராஜபக்ச களமிறங்குவார் என ரஷ்யாவுக்கான இலங்கையின் முன்னாள் தூதுவர் உதயங்க வீரதுங்க தெரிவித்துள்ளார்.
+
+பாராளுமன்றத் தேர்தலை இலக்காகக் கொண்டு பசில் ராஜபக்ச அடுத்த வாரம் அமெரிக்காவில் இருந்து வரவுள்ளதாக ராஜபக்ச குடும்பத்தின் நெருங்கிய உறவினர் வீரதுங்க தெரிவித்துள்ளார்.
+
+சிரேஷ்ட ஊடகவியலாளர் சமுதித சமரவிக்ரமவிடம் கருத்து தெரிவித்த அவர், ஜனாதிபதி தேர்தலை அல்ல பாராளுமன்ற தேர்தலே முதலில் நடத்தப்படும் என நம்புவதாகவும் தெரிவித்தார்.
+
+2024ஆம் ஆண்டு மார்ச் மாதம் 05ஆம் திகதி பசில் ராஜபக்ச இலங்கைக்கு வரும் போது அவருக்கு மாபெரும் வரவேற்பு அளிக்கப்படும் என்றும், வாகன அணிவகுப்பு அவரை கொழும்புக்கு அழைத்து வரும் என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/d978d1ab.json)
+
+---
+
 ### Election Commission notified of parliamentary vacancy following MP’s resignation
 
 *2024-02-28 18:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97601/election-commission-notified-of-parliamentary-vacancy-following-mps-resignation) · `en`
@@ -65,6 +137,36 @@ Meanwhile, S. C. Mutukumarana is tipped to fill the relevant parliamentary vacan
 [Data](articles/88a0de0a.json)
 
 [Extended Data](ext_articles/88a0de0a.ext.json)
+
+---
+
+### மார்ச்சில் கனடா பயணமாகிறார் அநுர
+
+*2024-02-28 18:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மார்ச்சில்-கனடா-பயணமாகிறார்-அநுர/175-333958) · `ta`
+
+தேசிய மக்கள் சக்தியின் (NPP) தலைவர் அனுரகுமார திஸாநாயக்க அடுத்த மாதம் கனடாவுக்குச் சென்று அங்கு வசிக்கும் இலங்கையர்களிடம் உரையாடவும், சில கனேடிய அரசியல்வாதிகளைச் சந்திக்கவும் திட்டமிட்டுள்ளதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/a5cdad79.json)
+
+---
+
+### கழன்ற சக்கரத்துடன் பொலிஸில் முறைப்பாடு
+
+*2024-02-28 18:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழன்ற-சக்கரத்துடன்-பொலிஸில்-முறைப்பாடு/175-333957) · `ta`
+
+இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேரூந்தின் முன் சக்கரம், வாகனம் சென்று கொண்டிருந்த போது கழன்று விழுந்து விபத்துக்குள்ளானதில், அருகில் உள்ள கடை ஒன்று நேற்று சேதமடைந்துள்ளதாக, பொலிஸார் தெரிவித்தனர்.
+
+யட்டியந்தோட்டையில் இருந்து அவிசாவளை நோக்கி பயணித்த பேருந்தின் சக்கரமே இவ்வாறு கழன்று விழுந்ததாக அவர்கள் தெரிவித்தனர்.
+
+சிதறிய சக்கரம் முச்சக்கரவண்டி மற்றும் கணினி பழுதுபார்க்கும் கடைக்கு சேதம் விளைவித்துள்ளது, ஆனால் யாருக்கும் காயங்கள் ஏற்படவில்லை.
+
+கடை உரிமையாளரும் முச்சக்கரவண்டி உரிமையாளரும் கழன்ற சக்கரத்தை யட்டியாந்தோட்டை பொலிஸாரிடம் ஒப்படைத்ததுடன், ஏற்பட்ட சேதங்களுக்கு நட்டஈடு வழங்கப்படாமல் பஸ்ஸை அவ்விடத்திலிருந்து எடுத்துச் செல்ல அனுமதிக்க மாட்டோம் என தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/d0bdba39.json)
 
 ---
 
@@ -108,6 +210,22 @@ In response to the incident, area residents had blocked the railway track in pro
 
 ---
 
+### පුත්තලම දුම්රිය අතරමග නතරකළ විරෝධය
+
+*2024-02-28 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193927) · `si`
+
+පුලිච්චාකුලම දුම්රිය ස්ථානය ආසන්නයේදී දුම්රියක් නතර කළ ගම්වාසීන් පිරිසක් විරෝධතාවයේ නිරත වීමත් සමග මේ වනවිට එම ස්ථානයේ උණුසුම් තත්ත්වයක් ඇතිවී තිබේ.
+
+එම දුම්රිය අද දහවල් හලාවත සිට පුත්තලම බලා ගමන්කරමින් තිබියදී එහි යතුරුපැදියකින් ගමන්කළ තරුණයෙකු ගැටී මියගොස් තිබේ.
+
+අනතුරුව එම දුම්රිය නැවත පුත්තලම සිට හලාවත බලා ධාවනය වෙමින් තිබියදී මෙලෙස පුලිච්චාකුලම දුම්රිය ස්ථානය ආසන්නයේදී ගම්වාසීන් විසින් දුම්රිය මග හරස්කර විරෝධතාවයක් ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/76b9a401.json)
+
+---
+
 ### Bangladeshi 20 tournament will be losing
 
 *2024-02-28 18:24:15* · [`adalk`](https://www.ada.lk/sports/පැතුම්ට-බංග්ලාදේශ-විස්සයි20-තරගාවලිය-අහිමි-වෙයි/9-408331) · `si`
@@ -125,6 +243,24 @@ Wanindu Hasaranga is the leader of the group, but he is deprived of playing the 
 [Data](articles/4cca6a31.json)
 
 [Extended Data](ext_articles/4cca6a31.ext.json)
+
+---
+
+### අහස වසාගත් කළු දුමට හේතුව මෙන්න
+
+*2024-02-28 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193926) · `si`
+
+කඩුවෙල බණ්ඩාරවත්ත ප්‍රදේශයේ පිහිටි ජල සම්පාදන මණ්ඩලයට අයත් ජලනළ ගබඩා කර තිබූ ඉඩමකට කිසියම් පුද්ගලයෙකු විසින් ගිනිතබා තිබේ.
+
+අප වාර්තාකරු පැවසුවේ මේ වනවිට ගිනි නිවීමේ ඒකක පැමිණ ගින්න පාලනය කරමින් සිටින බවය.
+
+ගින්න හේතුවෙන් ජල සම්පාදන මණ්ඩලයට ජලනළ රැසකට දැඩි හානි සිදුව තිබේ.
+
+එසේම ගින්නත් සමග නැගුණු විශාල කළු දුමාරය ප්‍රදේශ කිහිපයකට දිස්වූ අතර එම වීඩියෝ දර්ශන සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වීමත් සමග ඒ පිළිබදව විශාල කතාබහක් ඇතිවිය.
+
+◼️
+
+[Data](articles/331d94d8.json)
 
 ---
 
@@ -147,6 +283,22 @@ We will negotiate with all parties to establish a humanitarian political coaliti
 [Data](articles/14c48007.json)
 
 [Extended Data](ext_articles/14c48007.ext.json)
+
+---
+
+### විදුලි බිල සංශෝධනය ගැන අලුත් ආරංචියක්
+
+*2024-02-28 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193925) · `si`
+
+මහජන උපයෝගීතා කොමිසමේ සාමාජිකයින් රැස්වී අද දහවල් විදුලි බිල අඩුකිරීම සම්බන්ධයෙන් සාකච්ඡා කරනු ලැබීය.
+
+කෙසේ වෙතත් එම සාකච්ඡාවෙන් අනතුරුව මහජන උපයෝගීතා කොමිසමේ සාමාජිකයින් පැවසුවේ අද ඒ සම්බන්ධයෙන් අවසන් තීරණයක් නොගත් බවය.
+
+කෙසේ වෙතත් විදුලි බිල අඩුකිරීම සම්බන්ධයෙන් තීරණයක් ගැනීම සඳහා යළි එළඹෙන සිකුරාදා රැස්වන බවද මහජන උපයෝගීතා කොමිසමේ සාමාජිකයින් වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/df9f4c1c.json)
 
 ---
 
@@ -1180,6 +1332,24 @@ He said even the concerned citizens could comment on the EIA, while it is open f
 
 ---
 
+### WNPS vows tough action against Adani wind power project
+
+*2024-02-28 13:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/WNPS-vows-tough-action-against-Adani-wind-power-project/155-277886) · `en`
+
+Colombo, Feb 28 (Daily Mirror) - Wildlife and Nature Protection Society (WNPS) vowed stern legal action against the Adani-sponsored wind power project in Mannar if the proposed environmental concerns on the EIA is not heeded by the Central Environment Authority (CEA), saying over one million birds will be affected annually if the project came into being.
+
+Senior biodiversity scientist Dr. Rohan Pethiyagoda said yesterday the proposals on serious environmental concerns about the Mannar wind power generation project will be submitted to the CEA before the given deadline on March 6th.
+
+Addressing a media briefing held in Colombo yesterday Dr. Pethiyagoda said if the proposals on the environment impact assessment (EIA) submitted by them were rejected by the CEA, they would seek legal action against the project.
+
+He said even the concerned citizens could comment on the EIA, while it is open for public comments until March 6th addressed to Director General, CEA through dg@cea.lk
+
+...
+
+[Data](articles/ba547ce4.json)
+
+---
+
 ### Woman arrested for making a dream dream
 
 *2024-02-28 12:54:19* · [`adalk`](https://www.ada.lk/breaking_news/කැනඩා-සිහින-සිහිනයක්ම-කළ-කාන්තාවක්-අත්අඩංගුවට/11-408326) · `si`
@@ -1843,209 +2013,5 @@ But he was hospitalized due to a sudden kidney disease.
 [Data](articles/0c16e7b5.json)
 
 [Extended Data](ext_articles/0c16e7b5.ext.json)
-
----
-
-### Israeli Ukraine tourists engaged in trading activities in the south of Sri Lanka - 99 years of lease
-
-*2024-02-28 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177472) · `ta`
-
-Following reports that Russian tourists are engaged in illegal trade in the south of Sri Lanka, Israeli Ukraine tourists are now engaged in illegal trade.
-
-Due to their move, local traders have been affected and the concerns have increased among domestic tourists.
-
-Going across the south coast, Israel and Ukrainian tourists have visited the trade operations.
-
-Local people who claim that Ukrainian tourists have gone to the extent of touring in Sri Lanka, have pointed out that they have not been granted permission.
-
-Local people and tourists will be able to confront if the immediate surveillance measures are taken, and the tourists have said that this situation could be done as it could be involved in trade operations that affect the livelihood of the local people.
-
-Meanwhile, Israeli tourists have purchased land for their business activities as they traveled to the south coast.
-
-Israeli tourists have also purchased land for 99 years.
-
-...
-
-[Data](articles/d2700894.json)
-
-[Extended Data](ext_articles/d2700894.ext.json)
-
----
-
-### Michelle Obama emerges as top contender to replace Biden
-
-*2024-02-28 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Michelle-Obama-emerges-as-top-contender-to-replace-Biden/108-277881) · `en`
-
-US, Feb 28 - According to a survey, Michelle Obama, the former first lady of the United States, is the front-runner to succeed President Joe Biden as the Democratic party’s presidential nominee.
-
-In the Rasmussen Reports polls, nearly half of the Democratic voters stated that they would like someone other than Joe Biden to run for US President.
-
-When asked if they were in favor of the party “finding another candidate to replace Joe Biden before the election in November,” 48% of Democrats responded in the affirmative, while 38% disagreed. Merely 33% of Democrats think there will be a change in the ballot.
-
-Michelle Obama received almost twenty percent of the vote among the candidates vying to replace 81-year-old Joe Biden. The other candidates included Michigan Governor Gretchen Whitmer, California Governor Gavin Newsom, former Secretary of State Hillary Clinton, and Vice President Kamala Harris.
-
-◼️
-
-[Data](articles/06268e2f.json)
-
-[Extended Data](ext_articles/06268e2f.ext.json)
-
----
-
-### Michelle Obama emerges as top contender to replace Biden
-
-*2024-02-28 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Michelle-Obama-emerges-as-top-contender-to-replace-Biden/107-277881) · `en`
-
-US, Feb 28 - According to a survey, Michelle Obama, the former first lady of the United States, is the front-runner to succeed President Joe Biden as the Democratic party’s presidential nominee.
-
-In the Rasmussen Reports polls, nearly half of the Democratic voters stated that they would like someone other than Joe Biden to run for US President.
-
-When asked if they were in favor of the party “finding another candidate to replace Joe Biden before the election in November,” 48% of Democrats responded in the affirmative, while 38% disagreed. Merely 33% of Democrats think there will be a change in the ballot.
-
-Michelle Obama received almost twenty percent of the vote among the candidates vying to replace 81-year-old Joe Biden. The other candidates included Michigan Governor Gretchen Whitmer, California Governor Gavin Newsom, former Secretary of State Hillary Clinton, and Vice President Kamala Harris.
-
-◼️
-
-[Data](articles/71681db0.json)
-
-[Extended Data](ext_articles/71681db0.ext.json)
-
----
-
-### President sets for children in Gaza - a dollar of donation
-
-*2024-02-28 10:29:19* · [`adalk`](https://www.ada.lk/breaking_news/ගාසා-තීරයේ-ළමුන්-වෙනුවෙන්-ජනපති-අරමුදලක්-පිහිටුවයි---‌‌ඩොලර්-මිලියක-පරිත්‍යාගයක්-දෙන්න-යයි/11-408321) · `si`
-
-President Ranil Wickremesinghe proposal has been approved by President Ranil Wickremesinghe to set up the 'Children of Gazaza Fund' to provide relief to the victims of the Gaza.
-
-Accordingly, all ministries and government agencies jointly instructed President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena to provide allocations for this fund to hold this year.
-
-The Government of Sri Lanka is expected to be provided with the official agencies of the United Nations for the health facilities of affected children.
-
-If the donors are willing to contribute to the Gaza's Fund (CHILDREN OF GAZA FUND) "in the month of Ramazan, the donations are deposited to the Account No. 704001, Bank of Ceylon (7047) in the 15th of April.The Presidential Office has informed the receipt to 077-973036 through whatsApp.
-
-◼️
-
-[Data](articles/28642d40.json)
-
-[Extended Data](ext_articles/28642d40.ext.json)
-
----
-
-### Santhan: Released convict in Rajiv Gandhi assassination case dies
-
-*2024-02-28 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97585/santhan-released-convict-in-rajiv-gandhi-assassination-case-dies) · `en`
-
-Santhan alias T Suthendiraraja, a Sri Lankan national who was one of the six convicts released in the Rajiv Gandhi assassination case, died on Wednesday morning at the Rajiv Gandhi Government Hospital (RGGH) in Chennai.
-
-Santhan, who was released by the Indian Supreme Court in November 2022, was kept at the special camp near the Tiruchirapalli Central Prison.
-
-Last week, the Foreigners Regional Registration Office (FRRO) in Chennai issued an order to deport Santhan to Sri Lanka, however, he was admitted to the RGGH for treatment for a kidney-related ailment.
-
-Addressing the reports, E Thenirajan, Dean, RGGH, said that based on the directions of the Tiruchirapalli district collector, Santhan was admitted to the hospital on January 27.
-
-Thenirajan said a team of doctors were treating him at the Intensive Care Unit (ICU) and constantly monitoring him. He said Santhan was diagnosed with cryptogenic cirrhosis or a liver disease.
-
-...
-
-[Data](articles/52dc3ad1.json)
-
-[Extended Data](ext_articles/52dc3ad1.ext.json)
-
----
-
-### Michelle challenge to Beidan from Obama
-
-*2024-02-28 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193902) · `si`
-
-A progrielation has revealed that the President of the US President of the United States as candidate for the Presidential Election.
-
-Nearly half of the Democrats who voted in the election have expressed their choice for someone other than Bideman to fight the US presidential election.
-
-About 48% of the vote demonstrated demonstrators mentioned that they are approved by finding another candida before the November.
-
-Political commentators say that only 33 percent of Democratic members will have a voting shaking compared to 38%.
-
-The 81-year-old Joe Biden replaces Michelle Obama's about 20 percent of the votes.
-
-◼️
-
-[Data](articles/c1496f77.json)
-
-[Extended Data](ext_articles/c1496f77.ext.json)
-
----
-
-### President of Govt. Midwifery Services Association joins SJB
-
-*2024-02-28 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97584/president-of-govt-midwifery-services-association-joins-sjb) · `en`
-
-Devika Kodithuwakku, the president of Government Midwifery Services Association (GMSA) has joined the Samagi Jana Balawegaya (SJB).
-
-Opposition Leader Sajith Premadasa has offered Kodithuwakku the executive membership of the SJB’s Health Policy Development Committee, National Family Health Services Policy Development Committee and the Preventive Healthcare Policy Advisory Committee.
-
-◼️
-
-[Data](articles/a476648f.json)
-
-[Extended Data](ext_articles/a476648f.ext.json)
-
----
-
-### The suspect was killed in the Mabbage shooting
-
-*2024-02-28 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177467) · `ta`
-
-A suspect in the recent shooting incident in the Mabake area has died in a mutual shooting in Surveva area, police said.
-
-It was revealed that he was the one who drove the motorcycle when the suspect was shot dead.
-
-On the morning of the 21st, three men on a motorcycle opened fire on the shop owner near a meat shop at Elappitivala junction. The man who was injured in the shooting was taken to the Ragama Hospital.
-
-He was identified as the "Ukua" known as Hettiarachchike Don Sujit, and the brother-in-law of the criminal gang "Wella Saranga" is a native of Ja-Ela Northern boat.
-
-Two people, including a military officer, have been arrested in connection with the murder.
-
-It was suspected of planning the murder of a rival gang led by "Dubai Nipuna". Sujith has been threatened with murder from the Dubai Nipuna gang.
-
-The main suspect who served as the Corporal Officer of the Gemunu Monitoring Corps of the Gemunu Monitoring Brigade at the Chengaladi Army Camp in Batticaloa was arrested on February 24.
-
-...
-
-[Data](articles/5e4f20fe.json)
-
-[Extended Data](ext_articles/5e4f20fe.ext.json)
-
----
-
-### The Devil to go to the rich
-
-*2024-02-28 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193901) · `si`
-
-Mrs. Devika Kodituwakku, Chairperson of the Government Family Health Services Association, joined the reconciliation force.
-
-◼️
-
-[Data](articles/e4e96822.json)
-
-[Extended Data](ext_articles/e4e96822.ext.json)
-
----
-
-### 2nd capacity building programme for Sri Lankan civil servants begins in India
-
-*2024-02-28 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97583/2nd-capacity-building-programme-for-sri-lankan-civil-servants-begins-in-india) · `en`
-
-Leading a significant drive to improve public governance and service delivery, India’s National Centre for Good Governance (NCGG) in Mussoorie has commenced the second phase of its capacity building program for senior civil servants from the Socialist Republic of Sri Lanka.
-
-Hosted from February 26 to March 08, this initiative attends to the enduring partnership between India and Sri Lanka in the realm of administrative reforms and governance enhancement.
-
-The programme is being attended by 40 elite civil servants from Sri Lanka, encompassing a wide array of positions such as Directors, Deputy Directors, Divisional Secretaries, and Assistant Divisional Secretaries, among others.
-
-...
-
-[Data](articles/d6129f07.json)
-
-[Extended Data](ext_articles/d6129f07.ext.json)
 
 ---

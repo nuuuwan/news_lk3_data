@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 13:17:27**
+As of **2024-02-28 13:33:46**
 
 ## Newspaper Stats
 
-*Scraped **9,764** Articles*
+*Scraped **9,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 96
 bbccomsinhala | 119
 dbsjeyarajcom | 166
 newsfirstlk | 363
-economynextcom | 500
+economynextcom | 503
 dailyftlk | 519
 islandlk | 521
-adalk | 824
+adalk | 829
 adaderanalk | 1,175
 tamilmirrorlk | 1,189
-virakesarilk | 1,339
+virakesarilk | 1,342
 dailymirrorlk | 1,474
 adaderanasinhalalk | 1,479
 
@@ -26,29 +26,119 @@ adaderanasinhalalk | 1,479
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,763 (100.0%) of 9,764 articles have been extended.
+9,764 (99.9%) of 9,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### ශ්‍රීලන්කන් ගුවන් ගමන් ගැන අලුත්ම කතාව
+### புதிய புற்களை தேடி உண்டு வரும் 100க்கும் மேற்பட்ட யானை கூட்டம்
+
+*2024-02-28 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177495) · `ta`
+
+யானை கூட்டம் ஒன்று வேளாண்மை அறுவடையின் பின்னர்  புதிதாக முளைக்கின்ற புல் இனங்களை உண்பதற்காக  நாடி வருகின்றன.
+
+அம்பாறை மாவட்டத்தில்  இன்று புதன்கிழமை (28)  காலை   மதியம்    திடீரென சம்மாந்துறை பொலிஸ் பிரிவிற்குட்பட்ட வளத்தாப்பிட்டி வில்லுக்குளப்  பகுதிகளை ஊடறுத்து யானைகள்  இவ்வாறு வருகை தந்துள்ளன.
+
+இதன்போது  குறித்த யானைகள் அங்குள்ள புதிய புல் இனங்களை உண்ணுவதுடன் கூட்டத்தில் உள்ள யானை குட்டிகள் விளையாடுவதையும் காண முடிந்தது.இன்று சுமார் பெரிய யானைகள் மற்றும் குட்டிகள் என 100 க்கும் அதிகமான  யானைகள் அப்பகுதியில்  உள்ள அறுவடை செய்யப்பட்ட வயல் நிலங்களை நோக்கி   வருகை தந்திருந்தன.
+
+தினமும்  அப்பகுதிக்கு வரும்  யானை கூட்டத்தை மக்கள் பார்வையிட்டு வருகின்றதுடன்  இவ்வாறு வயல்வெளிகளை  நோக்கி வருகை தந்துள்ள யானைகள் ஊருக்குள் பிரவேசிக்க முடியாத வகையில் பார்வையாளர்களாக உள்ள மக்கள் சத்தங்களை எழுப்பிய வண்ணம் உள்ளனர்.
+
+...
+
+[Data](articles/f7619ab4.json)
+
+---
+
+### කැනඩා සිහින සිහිනයක්ම කළ කාන්තාවක් අත්අඩංගුවට
+
+*2024-02-28 12:54:19* · [`adalk`](https://www.ada.lk/breaking_news/කැනඩා-සිහින-සිහිනයක්ම-කළ-කාන්තාවක්-අත්අඩංගුවට/11-408326) · `si`
+
+කැනඩාවේ රැකියා දෙන බව පවසා රුපියල් ලක්ෂ 65 කට අධික මුදලක් වංචා කර  වසර 8 කට අධික කාලයක් විදේශගතව සැඟව සිටි කාන්තාවක් අත්අඩංගුවට ගත් බව පානදුර  කොට්ඨාස විශේෂ අපරාධ විමර්ශන කාර්යාංශය කියයි.
+
+අත්අඩංගුවට ගත් සැකකාරිය ද්විත්ව පුරවැසිභාවය  හිමි තැනැත්තියක් බව පොලිසිය කියයි. සැකකාරිය  2016 වර්ෂයේ දී පානදුර ප්‍රදේශයේ  කාර්යාලයක් පවත්වාගෙන යමින්  එම ප්‍රදේශයේම ප්‍රසිද්ධ පාසලක මේ වන විට මියගොස් සිටින ගුරුවරියක්  සමග එක්ව මෙම වංචාව සිදුකර තිබූ බව පොලිසිය සඳහන් කරයි.
+
+සැකකාරියන්ගේ වංචාවට හසුවූ වත්තල, පානදුර කොළඹ හා මාතර ආදී ප්‍රදේශවල පුද්ගලයන් රුපියල් ලක්ෂ 12 ,13 15 හා 25 ආදි මුදල් ප්‍රමාණයන් විදේශ  ගතවීමේ බලාපොරොත්තුව ලබාදී  තිබූ බවත්  පානදුර කොට්ඨාස විශේෂ අපරාධ විමර්ශන කාර්යාංශය වෙත  ලද  පැමිණිලි හතරෙන් සනාථ වන බව පොලිස් නිලධාරියකු පැවසීය.
+
+එම වර්ෂයේ අග භාගයේ දී හිටි හැටියේම කැනඩාව කරා පලා ගිය   සැකකාරිය මෙම මස 13 වෙනි දින මෙරටට පැමිණ ඇති බවට ලද තොරතුරකට අනුව මාලඹේ ප්‍රදේශයේදී ඊෆය් (27) රාත්‍රී අත්අඩංගුවට ගැනීමට හැකි වූ බව පොලිසිය කියයි
+
+...
+
+[Data](articles/36e8a495.json)
+
+---
+
+### Latest story about SriLankan flights
 
 *2024-02-28 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193909) · `si`
 
-ශ්‍රීලන්කන් ගුවන් සේවයේ ගුවන් යානා පිටවීම් සහ පැමිණීම් අද (28) පස්වරුව වන විට සාමාන්‍ය තත්ත්වයට පත්විය හැකි බව ශ්‍රීලන්කන් ගුවන් සමාගම පවසයි.
+SriLankan Airlines says SriLankan Airlines Exports and Committees can be normalized by the afternoon today (28).
 
-අද දෙරණ "බිග් ෆෝකස්" වැඩසටහන සමග එක්වෙමින් ගුවන් සමාගමේ වෘත්තීය සමිති සංගම් පවසන්නේ දේශපාලන මැදිහත්වීම මත ගුවන්යානා මිලදී ගැනීම් අවලංගු කිරීම හේතුවෙන් ගුවන් සමාගම වත්මන් අර්බුදයට මුහුණ පා ඇති බවය.
+The airline trade union associations, joining the Derana, "Big Chakz program, says the airline is facing the current crisis due to political intervention.
 
-ශ්‍රීලන්කන් ගුවන් ගමන් වාර ප්‍රමාදවීම සහ ඇතැම් ගමන් වාර අවලංගු වීමේ සිද්ධී පසුගිය කාලය පුරා දිගින් දිගටම වාර්තා වූ අතර ඉකුත් ඉරිදා සිට එම ගැටලුව උග්‍ර තත්ත්වයට පත්වුණි.
+The delay of SriLankan flights and the last days have been continuously reported to the period from the last Sunday and the problem has been acute.
 
-ඊයේ (27) දිනයේදී පමණක් ගුවන් ගුමන්වාර 10 කට වැඩි ප්‍රමාණයක් ප්‍රමාද වී ක්‍රියාත්මක වු අතර ගුවන් ගමන්වාර 03කට ආසන්න සංඛ්‍යාවක්ද අවලංගු වී තිබිණි.
+More than 10 airlines were delayed last (27) alone, and nearly three flights were canceled.
 
-මේ සම්බන්ධයෙන් අදහස් පළ කළ, ශ්‍රීලන්කන් ගුවන් සමාගමේ, ශ්‍රී ලංකා නිදහස් සේවක සංගමයේ ලේකම්, හසන්ත යසරත්න මහතා,
+Sri Lanka Freedom Employees Union Secretary, Hasantha Yasaratne, expressed his views.
 
 ...
 
 [Data](articles/11d810d0.json)
+
+[Extended Data](ext_articles/11d810d0.ext.json)
+
+---
+
+### பாலியல் துஷ்பிரயோகத்தில் ஈடுபட்ட நபருக்கு 7 வருட கடூழிய சிறைதண்டனை !
+
+*2024-02-28 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177494) · `ta`
+
+வலப்பனை - மத்துரட்ட பொலிஸ்  பிரதேசத்தில் 14 வயது சிறுவன் ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகம் செய்ததாக குற்றம் சுமத்தப்பட்ட நபருக்கு நுவரெலியா மேல் நீதி மன்றம் 07 வருட கடூழிய சிறை தண்டனை  வழங்கி தீர்ப்பளிக்கப்பட்டது.
+
+இந்த தீர்ப்பினை நுவரெலியா மேல் நீதிமன்ற நீதவான் விராஜ் வீரசூரிய நேற்று செவ்வாய்க்கிழமை (27) செவ்வாய்க்கிழமை  மாலை வழங்கினார். HCR/05/2017 இலக்கம் கொண்ட  இந்த வழக்கு  2017 ஆண்டு முதல் கடந்த ஏழு வருடங்களாக நுவரெலியா மேல் நிதி மன்றத்தில் விசாரிக்கப்பட்டு வந்தது.
+
+இந்நிலையில் குற்றவாளியாக இனங்காணப்பட்ட வலப்பனை - மத்துரட்ட பிரதேசத்தை சேர்ந்த மந்திலக்க திஸாநாயக்க என்ற நபர் 14 வயது சிறுவன் ஒருவரை மூன்று முறை பாலியல் துஷ்பிரயோகம் செய்ததாக இவருக்கு எதிராக வழக்கு தொடரப்பட்டிருந்தது.
+
+இந்த வழக்கின் தீர்ப்பை நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரிய நேற்றைய தினம் மாலை வழங்கினார். இதன்போது குற்றவாளியாக இனங்கானப்பட்ட மந்திலக்க திஸா நாயக்கவிற்கு  எதிரான மூன்று வழக்குகளும் ஏழு வருட கடூழிய சிறை தண்டனை வழங்கி தீர்ப்பளித்தார்.
+
+...
+
+[Data](articles/812c778c.json)
+
+---
+
+### இலங்கை தொடர்பான தீர்மானங்கள் - ஆதாரங்களை சேகரிக்கும் பொறிமுறையை மீண்டும் நிராகரித்தது  இலங்கை
+
+*2024-02-28 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/177488) · `ta`
+
+ஐக்கிய நாடுகள் மனித உரிமை பேரவையின் செயற்பாடுகள்  வாக்குவங்கி அரசியல் அல்லது குறுகிய அரசியல் நோக்கங்களுக்குள் சிக்குப்படக்கூடாது என  இலங்கை வெளிவிவகார அமைச்சர் அலிசப்ரி தெரிவித்துள்ளார்
+
+இலங்கை கடுமையான தடைகளை எதிர்நோக்குகின்ற போதிலும் மக்களிற்கு பயன் அளிக்ககூடிய ஆக்கபூர்வமான ஐக்கிய நாடுகள் மனித உரிமை பேரவையின் வேலைதிட்டங்களுடன் தொடர்ந்தும் தீவிரமாகவும் ஆக்கபூர்வமாகவும் ஈடுபட்டுவருகின்றது எனவும் வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+
+இலங்கை தொடர்பான ஐக்கியநாடுகளின் தீர்மானங்களை இலங்கை நிராகரித்துள்ளது என்பமை மீண்டும் வலியுறுத்தியுள்ள அலிசப்ரி இந்த தீர்மானங்கள் காரணமாக ஏற்படுத்தப்பட்ட ஆதாரங்களை சேகரிக்கும் பொறிமுறையையும் நிராகரிப்பதாக தெரிவித்துள்ளார்.
+
+இவ்வாறான பொறிமுறைகள் பயன் அற்றவை மனித உரிமை பேரவை ஸ்தாபிக்கப்பட்ட கொள்கைகளிற்கு எதிரானவை எனவும் அவர் தெரிவித்துள்ளார்.
+
+காசா எதிர்கொண்டுள்ள நெருக்கடி குறித்த ஐக்கியநாடுகள் மனித உரிமைபேரவையின் அணுகுமுறை அதன் நம்பகதன்மைக்கான ஒரு அமிலபரிசோதனையாக அமையும் எனவும் அலிசப்ரி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/5e2c28e6.json)
+
+---
+
+### මේ දවස්වල පාසල් සිසුන් උෂ්ණත්වයට නිරාවරණය කරන්න එපා
+
+*2024-02-28 12:00:55* · [`adalk`](https://www.ada.lk/breaking_news/මේ-දවස්වල-පාසල්-සිසුන්-උෂ්ණත්වයට-නිරාවරණය-කරන්න-එපා/11-408324) · `si`
+
+මේ දිනවල පරිසරයේ පවතින අධික උෂ්ණත්ව තත්ත්වය තවදුරටත් ඉහළ යා හැකි බවට ලැබී ඇති තොරතුරු අනුව, අද හෙට සහ අනිද්දා දින තුළ (පෙබ. 28, 29 සහ මාර්තු 01) දිවයිනේ කිසිදු පාසලක සිසු දරුවන් ඉහළ උෂ්ණත්ව ඇති අවස්ථාවන්හි එළිමහන් ක්‍රීඩා පුහුණු කටයුතු හෝ ක්‍රීඩා උත්සව හෝ වෙනත් බාහිර ක්‍රියාකාරකමකට හෝ යෙදවීමෙන් වළකින ලෙස අධ්‍යාපන අමාත්‍යාංශය සියලු පාසල් වෙත උපදෙස් ලබා දී තිබේ.
+
+සියලු ම පාසල් වල විදුහල්පතිවරුන් මේ සම්බන්ධයෙන් දැනුවත් කිරීම පිණිස අදාළ උපදෙස් මේ වන විටත් පළාත් සහ කලාප අධ්‍යාපන බලධාරීන් වෙත යොමු කර ඇති අතර, සෞඛ්‍ය අමාත්‍යාංශය හා අධ්‍යාපන අමාත්‍යාංශය එක්ව පාසල් වෙත නිකුත් කර ඇති උපදෙස් මාලාව අනුව ඉදිරියේ දී ද කටයුතු කරන ලෙස වැඩිදුරටත් දැනුම් දෙනු ලැබේ.
+
+◼️
+
+[Data](articles/7511b272.json)
 
 ---
 
@@ -302,6 +392,26 @@ However, the petitioners said the Cabinet had rejected their questions without p
 
 ---
 
+### Sri Lanka rupee trades at 310.10/30 to the US dollar
+
+*2024-02-28 11:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-310-10-30-to-the-us-dollar-152371/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 310.10/30 to the US dollar on Wednesday, from 310.25/50 Tuesday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted at 10.85/11.05 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.85/95 percent from 11.80/95 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.15/25 percent.
+
+The Colombo Stock Exchange was trading up; The All Share Price Index was up 0.23 percent at 10,647, the S&P SL20 was up 0.19 at 3,061. (Colombo/Feb28/2024)
+
+◼️
+
+[Data](articles/5180c66b.json)
+
+---
+
 ### The largest anaconda in the lungs of the earth
 
 *2024-02-28 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177465) · `ta`
@@ -334,6 +444,40 @@ Addressing the reports, E Thenirajan, Dean, RGGH, said that based on the directi
 
 ---
 
+### ජපානය සෞඛ්‍යයට තෙල් බෙදයි
+
+*2024-02-28 10:58:13* · [`adalk`](https://www.ada.lk/breaking_news/ජපානය-සෞඛ්‍යයට-තෙල්-බෙදයි/11-408323) · `si`
+
+ශ්‍රී ලංකාව සහ ජපානය අතර 70 වසරක මිත්‍රත්වය සනිටුහන් කරමින්  ජපන් රජය මෙරට සෞඛ්‍ය සේවාවේ ප්‍රවාහන කටයුතු ‍සදහා  ලබාදුන් ත්‍යාගශීලී ඉන්ධන ප්‍රදානය වෙනුවෙන් ජපන් රජයට  සහ ජනතාවට ස්තූතිය පුද කිරීම සහ එම ඉන්ධන බෙදාහැරීමේ කටයුතු වලට අදාල Fuel Management Information System (FIMS) පද්ධතිය නිල වශයෙන් දියත් කිරීම 26දා සෞඛ්‍ය අමාත්‍යාංශයේ ශ්‍රවණාගාරයේ  දී සිදු කෙරිනි.
+
+එම කටයුතු සිදු කෙරුණේ සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ සහ ශ්‍රී ලංකාවේ ජපාන නියෝජ්‍ය තානාපති අත්සුකි කොටාරෝ (Mr.Atsuki Kotaro) මහතාගේ ප්‍රධානත්වයෙනි. මෙම ඩීසල් ප්‍රදානය සෞඛ්‍ය ආයතනවලට බෙදාහැරීමේ කටයුතු ද 26 දා නිල වශයෙන් ආරම්භ කරන ලදි.
+
+සියළු සෞඛ්‍ය ආයතනවලට  ක්‍රමවත්ව බෙදාහැරිමේ කටයුතු සදහා මෙම Fuel Management Information System (FIMS) පද්ධතිය නිර්මාණය කර ඇත.  එම පද්ධතියට ඉන්ධන ලබාගත් වාහන, ලබාගත් ඉන්ධන ප්‍රමාණය, සෞඛ්‍ය ආයතන පිළිබද සියළු තොරතුරු දත්ත ඇතුළත් කරනු ලබයි. එම සියළු කටයුතු ජපන් රජයේ සෘජු අධීක්ෂණය යටතේ සිදුවේ.
+
+...
+
+[Data](articles/6172b574.json)
+
+---
+
+### පාතාල තර්ජන නිසා IP ආරක්ෂාව පතා රටින් පිටවේ
+
+*2024-02-28 10:54:04* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-තර්ජන-නිසා-IP-ආරක්ෂාව-පතා-රටින්-පිටවේ/11-408322) · `si`
+
+පාතාල කල්ලි සාමාජිකයන්ගෙන් තමාට සහ සිය පවුලට එල්ල වූ මරණ තර්ජන හමුවේ කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා ඉකුත් 14 වනදා සිය පෞද්ගලික ආරක්ෂයන්ද සමඟ බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළින් ප්‍රංශය බලා පිටත්ව ගොස් ඇත.
+
+ඔහුට දුරකථන මාර්ගයෙන් මරණ තර්ජන එල්ල කළ පිරිස අතර ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වන කංජිපානි ඉම්රාන්, හීනටියන මහේෂ් සිටින බවද සඳහන් ය.
+
+පසුගියදා අදුරුප්පුවීදිය පොලීසිය තුළදී සැකකරුවන් දෙදෙනකුට වස ලබාදීමේ සිද්ධියේ විමර්ශන සිදුකළේද පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතාගේ ප්‍රධානත්වයෙන් යුත් කණ්ඩායමකි. විමර්ශනවලදී  සැකකරුවන් කිහිපදෙනෙකු අත්අඩංගුවට පත්වීමත් සමග නැවත  පොලිස් පරීක්ෂකවරයාට මරණ තර්ජන එල්ලවී තිබුණි.
+
+කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා පසුගිය වසරේ වැඩිම මනුෂ්‍ය ඝාතන සැකකරුවන් පිරිසක් හා නීතිවිරෝධී ගිනි අවි හා අත්බෝම්බ වැඩිම ප්‍රමාණයක් අත්අඩංගුවට ගත් නිලධාරියා බව පොලිස් ආරංචිමාර්ග පවසයි.
+
+...
+
+[Data](articles/0ae3fd4d.json)
+
+---
+
 ### SLPP Parlimentarian accused of land grab in Kalpitiya
 
 *2024-02-28 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-Parlimentarian-accused-of-land-grab-in-Kalpitiya/108-277880) · `en`
@@ -351,6 +495,26 @@ In order to prove that this is a state land and did not belong to any private pa
 [Data](articles/0cfba7d1.json)
 
 [Extended Data](ext_articles/0cfba7d1.ext.json)
+
+---
+
+### Sri Lanka seeks Korea investment for renewable and nuclear energy
+
+*2024-02-28 10:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-korea-investment-for-renewable-and-nuclear-energy-152355/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy has met the Ambassador of the Republic of Korea to discuss energy cooperation between the two countries.
+
+“A discussion was held on energy cooperation with HE Miyon Lee, to Sri Lanka at the Ministry of Power and Energy today,” Kanchana Wijesekera said on X (twitter).
+
+The Republic of Korea produces large amounts of energy from floating solar panels and nuclear power plants, Wijesekera pointed out, adding, “We discussed the possible energy cooperation for RE development through floating solar and nuclear energy with technical and financial assistance from the Republic of Korea and its investors.”
+
+Russia United States, India, and France were among countries that had offered nuclear power technology, but Sri Lanka was not yet ready to accommodate nuclear plants, Minister Wijesekera told parliament last November.
+
+“The Atomic Energy Agency, the international agencies are all helping us to identify the best technology that is needed.”
+
+...
+
+[Data](articles/0d5441f8.json)
 
 ---
 
@@ -441,6 +605,24 @@ Michelle Obama received almost twenty percent of the vote among the candidates v
 [Data](articles/06268e2f.json)
 
 [Extended Data](ext_articles/06268e2f.ext.json)
+
+---
+
+### ගාසා තීරයේ ළමුන් වෙනුවෙන් ජනපති අරමුදලක් පිහිටුවයි - ‌‌ඩොලර් මිලියක පරිත්‍යාගයක් දෙන්න යයි
+
+*2024-02-28 10:29:19* · [`adalk`](https://www.ada.lk/breaking_news/ගාසා-තීරයේ-ළමුන්-වෙනුවෙන්-ජනපති-අරමුදලක්-පිහිටුවයි---‌‌ඩොලර්-මිලියක-පරිත්‍යාගයක්-දෙන්න-යයි/11-408321) · `si`
+
+ගාසා තීරයේ ගැටුම්වලින් විපතට පත්වූවන් වෙනුවෙන් සහන සැලසීම සඳහා “ගාසා හි ළමා අරමුදල (Children of Gaza Fund)” පිහිටුවීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත් කළ අමාත්‍ය මණ්ඩල යෝජනාවට අනුමැතිය හිමිව තිබේ.
+
+ඒ අනුව සියලුම අමාත්‍යාංශ සහ රජයේ ආයතන එක්ව මෙවර ඉෆ්තාර් සැමරුම් පැවැත්වීම සඳහා වෙන් කර තිබූ ප්‍රතිපාදන මෙම අරමුදලට ලබා දෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා උපදෙස් ලබාදී ඇත.
+
+එමෙන්ම මේ සඳහා ජනතාවගේ දායකත්වය ද අපේක්ෂා කරන අතර විපතට පත් දරුවන්ගේ සෞඛ්‍ය පහසුකම් වෙනුවෙන් ශ්‍රී ලංකා රජය විසින් ඇමරිකානු ඩොලර් මිලියනයක පරිත්‍යාගයක් එක්සත් ජාතීන්ගේ නිල නියෝජිතායතන හරහා ලබා දීමට නියමිතය.
+
+රාමසාන් මාසය තුළ “ගාසා හි ළමා අරමුදල (Children of Gaza Fund)” සඳහා දායක වීමට කැමති පරිත්‍යාගශීලීන් වේ නම්, එම පරිත්‍යාගයන් අප්‍රේල් මස 11 වනදාට පෙර ලංකා බැංකුවේ (7010), තැප්‍රොබේන් ශාඛාවේ (747) පිහිටි ගිණුම් අංක 7040016 වෙත තැන්පත් කර ඊට අදාළ රිසිට්පත 077-9730396 වෙත Whatsapp හරහා යොමු කරන ලෙස ජනාධිපති කාර්යාලය දැනුම් දී සිටියි.
+
+◼️
+
+[Data](articles/28642d40.json)
 
 ---
 
@@ -703,6 +885,28 @@ The police said that the two employees have been admitted to the Kalubowila hosp
 [Data](articles/2e0496b7.json)
 
 [Extended Data](ext_articles/2e0496b7.ext.json)
+
+---
+
+### Sri Lanka planning bad-debt authority to give parate execution approval: Justice Minister
+
+*2024-02-28 08:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-planning-regulatory-authority-to-give-parate-execution-approval-justice-minister-152330/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to to set up an intermediate regulatory authority to determine whether or not a collateral of defaulted should be auctioned under parate execution powers, Justice Minister Wijedasa Rajapsaksa has said.
+
+Under so-called parate execution powers, the Board of a bank decides to auctions assets of defaulted loans, usually after other methods of recovering loans fail.
+
+“We believe that there should be an intermediate regulatory authority,” Minister Rajapaksa said.
+
+“Therefore it is expected to bring an amendment to the parliament relating to this.”
+
+The regulatory authority will give a “certificate” that it was reasonable to sell the pledged assets of a bad loans.
+
+It will be given be examined whether the default was done willfully, or even if the loan could not be repaid, whether it could be restructured and a fresh loan given, and the business allowed to go forward after restructure or reasons like negligence was involved to protect banks.
+
+...
+
+[Data](articles/fbaa4ed6.json)
 
 ---
 
@@ -1809,225 +2013,5 @@ Romesh de Silva, who appeared for the respondents, Deshabandu Tennakoon, was als
 [Data](articles/d683dd3e.json)
 
 [Extended Data](ext_articles/d683dd3e.ext.json)
-
----
-
-### Productivity & Marketing Division to be discontinued due to ‘unproductivity’
-
-*2024-02-27 20:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97575/productivity-marketing-division-to-be-discontinued-due-to-unproductivity) · `en`
-
-Agriculture Minister Mahinda Amaraweera has given instructions to do away with the Productivity & Marketing Division operating under the purview of the Agrarian Development Department with immediate effect.
-
-The directives were given to the Commissioner General of Agrarian Development after the lawmaker was informed of the ‘unproductivity’ of the division.
-
-It has also come to light that the division continues to reclaim paddy lands despite the temporary ban imposed on the practice last year.
-
-Last year, Minister Amaraweera gave directives to temporarily halt giving permission to reclaim paddy land. As such, reclamation of paddy land is permitted only with the special permission of the Agriculture Ministry.
-
-◼️
-
-[Data](articles/2f27fd27.json)
-
-[Extended Data](ext_articles/2f27fd27.ext.json)
-
----
-
-### The boy's abuse;7 years rigorous prison for suspect
-
-*2024-02-27 20:34:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவன்-துஷ்பிரயோகம்-சந்தேகநபருக்கு-7-வருட-கடூழிய-சிறை/175-333902) · `ta`
-
-A 14 -year -old boy was sentenced to 7 years in prison for allegedly sexually abusing a 14 -year -old boy in the Mathuratta police area of Valappanai.
-
-The verdict was presented by Nuwara Eliya High Court Magistrate Viraj Weerasuriya this evening.
-
-The case has been heard in the upper court for the past seven years.
-
-Mandilaka Dissanayake, a 14 -year -old boy from Valappanai - Mathuratta area, who was found guilty of this, has been prosecuted for allegedly sexually abusing a man three times.
-
-He also ruled that the victim should be compensated for Rs.
-
-At the same time, the judge announced that he would be given 15 thousand money as a penalty and said in his judgment that if the amount did not pay the amount, he would be sentenced to three months in prison.. Remble
-
-◼️
-
-[Data](articles/2a5416e7.json)
-
-[Extended Data](ext_articles/2a5416e7.ext.json)
-
----
-
-### Floods found in Sri Lanka after 84 years
-
-*2024-02-27 20:31:33* · [`adalk`](https://www.ada.lk/picture_story/වසර-84ට-පසුව-ලංකාවෙන්-හමුවූ-ගංඟල්ගුල්ලා/10-408318) · `si`
-
-The fish species, known as the scientific name of gymnothorax polyuranoodon, is reported in Sri Lanka after 84 years.
-
-Accordingly, Hiranya Sudasinghe (Burn Island Foundation) and Swiss National Lukus Rubber (Wakleland) and Switzerland National Lakus 'Museum (Burn)' have been able to research the research team. The research paper was also announced by the International Sideology Magazine on the 23rd of the 23rd.
-
-PEP. Mr. Deraniyagala was first reported from Ratnapura and Dodangangin, in Ratnapura and the Dodangoda. This species was returned from Sri Lanka. Accordingly, a fisherman was found in Wakwella in 2021 and the research team had been referred to the above research.. After investigating the genetics of this example, it has been confirmed to be included in Gymnothorax Polyuranondon.
-
-...
-
-[Data](articles/85d9c68b.json)
-
-[Extended Data](ext_articles/85d9c68b.ext.json)
-
----
-
-### Delegation from Saudi Fund arrives in Sri Lanka
-
-*2024-02-27 20:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Delegation-from-Saudi-Fund-arrives-in-Sri-Lanka/108-277829) · `en`
-
-Saudi Arabian ambassador Khalid bin Hamoud Al-Kahtani  received a delegation from the Development Evaluation Department of the Saudi Fund for Development (SFD) today, a statement from the embassy said.
-
-The visit aims to conduct a post-implementation evaluation of the Epilepsy Hospital and Health Centres project in Sri Lanka, which was implemented by the Ministry of Health at a cost of  USD 75 million, with a contribution from the Saudi Fund for Development amounting to USD 32 million.
-
-The project was declared open in December 2017, and it is noteworthy that the Epilepsy Hospital consists of 08 floors with a capacity of 242 beds within the National Hospital complex in Colombo.
-
-The hospital also meets the increasing health needs and provides services for treating epilepsy and convulsions resulting from an increase in the brain’s electrical energy.
-
-◼️
-
-[Data](articles/71ad44d2.json)
-
-[Extended Data](ext_articles/71ad44d2.ext.json)
-
----
-
-### 10,000 policemen who requested the motorcycle
-
-*2024-02-27 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193890) · `si`
-
-Colombo Chief Magistrate Prasanna Alwis today ordered that a bribe of the motorcyclist to reserve a bribe of a motorcycle file.
-
-According to a complaint lodged by the Bribery or Corruption Commission, the two suspects were arrested and produced before the court.
-
-The Bribery Investigation Commission officials informed the court that the two police officers who have been arrested by the complainant in the isthpana area in a motorcycle.
-
-The complainant who had obtained the fines went to the Ihalapana Post Office and had gone to the court to obtain the driver's license after payment of the driver.
-
-Officers of the Commission have asked whether it is a legal driving license at the police station and request whether it is a legal driver's license and to pay more.Informed the judiciary.
-
-...
-
-[Data](articles/9c8a3f6f.json)
-
-[Extended Data](ext_articles/9c8a3f6f.ext.json)
-
----
-
-### In 2023, the entire energy production decreases
-
-*2024-02-27 20:25:18* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-සමස්ත-බලශක්ති-නිෂ්පාදනය-අඩුවෙයි/11-408317) · `si`
-
-The Ministry of Fiscal management issued by the Ministry of Financial Management has stated to the Audit that the total energy production of the Ministry of Finance has fallen by 4.5% to August 30, 2023.
-
-In the first eight months of 2022, the total power energy production in Sri Lanka is 10,832 megawots. In addition to the August 1 of 2023, the energy production was down 4.5% from January 1 to August 30. According to the report, the shortage of fuel and raw materials, as well as the retreat for industry sector activities, said.
-
-In the first eight months of the first eight months of the year of 2022, the number of units for the industry is 2957 megawarts. In addition to the first January of January 30, 2023, the number of units of electricity for the industrial sector was 4.5% to 2825 megawots.However, the heat fuel generates 52.7% and 13.09 months in electricity generation in electricity generation and 13.09 months in electricity generation.
-
-◼️
-
-[Data](articles/97ce33b5.json)
-
-[Extended Data](ext_articles/97ce33b5.ext.json)
-
----
-
-### Bread sales down 25 percent
-
-*2024-02-27 20:21:04* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-අලෙවිය-සියයට-25කින්-පහළට/11-408316) · `si`
-
-All Ceylon Bakery Owners Association Nilad. K. Says Jayawardene.
-
-He said that due to the increase in production costs, he has attributed the price of prices in the production of drunk.
-
-The bakery industry has been hit by Rs.
-
-Therefore, the government should take steps to deepen eggs and provide relief to the consumer's prices of the ingredients for the next year before the coming Sinhala.
-
-◼️
-
-[Data](articles/90502502.json)
-
-[Extended Data](ext_articles/90502502.ext.json)
-
----
-
-### Shipping Corporation Rs.. 152 lakhs paid as various offers
-
-*2024-02-27 20:13:47* · [`adalk`](https://www.ada.lk/breaking_news/නැව්-සංස්ථාව-අනුමැතියකින්-තොරව-රු--ලක්ෂ-152ක්-විවිධ-දීමනා-ලෙස-ගෙවලා/11-408315) · `si`
-
-The Sri Lanka Shipping Corporation of Sri Lanka Without the formal approach, the service allowance to its employees from March 1 to December 31, 2022 to the employees, transportation, and incentive incentive allowance of Rs.The audit report issued by the Audit Office was issued on the 24th. The Shipping Corporation is a fully owned government owner and should be obtained with the approval of the relevant allowances and the audit report is recommended.
-
-The management of the Corporation has informed the Audit Office that the payment of the presentation of the present allowance will be made under the approval of the Board of Directors from 1st April 2018 to date.. The management of the Corporation has been approved by the Board of Directors held on 171, 2018 at the 211st of 2018 at the Institute of Staff No. 5-02 2018.. The audit report was released regarding the Sri Lanka Shipping Corporation 2023.
-
-◼️
-
-[Data](articles/2233ed79.json)
-
-[Extended Data](ext_articles/2233ed79.ext.json)
-
----
-
-### US appreciates Sri Lanka’s role in Red Sea operations
-
-*2024-02-27 20:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-appreciates-Sri-Lankas-role-in-Red-Sea-operations/108-277827) · `en`
-
-US Deputy Secretary of State Richard Verma appreciates Sri Lanka's involvement in the ongoing security operations in the Red Sea, and announces that a 4th Coast Guard Cutter will be gifted to the Sri Lankan Navy to further expand its naval operation capabilities.
-
-President Ranil Wickremesinghe re-iterated the country's commitment to the Freedom of Navigation in the Indian Ocean.
-
-◼️
-
-[Data](articles/8e4d46e5.json)
-
-[Extended Data](ext_articles/8e4d46e5.ext.json)
-
----
-
-### Most of children have been reported from the school children
-
-*2024-02-27 20:09:44* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-දරුවන්ගෙන්-වැඩිම-කෘෂ-දරුවන්-හම්බන්තොටින්-වාර්තා-වෙයි/11-408314) · `si`
-
-The nutritional status has increased in comparison to last years and is the Chairman of the Hambantota District and the Chairman of the Medical and Civil Rights Council, Specialist Dr. GG KamalMr. Sanjeewa said.
-
-The doctor said this in a media discussion in the Sooriyawewa.
-
-"About one and a half years ago, we have been revealed in the Nutrition of the Sri Lankan children.The report released by the Ministry of Health in the Health Ministry for the month is clearly stated in the year 2023.
-
-The report issued by the Family Health Bureau of the Family Health Bureau of the Family Health Bureau has been very clear that the highest number of children live in Hambantota district.. According to the other districts in Sri Lanka, the amount of money has been reported from Hahambalu districts.
-
-The burden of the children's height is an important factor in the diet of the labor of Hambantota schoolgaries.A meal is a food that is the only one with the crocodile bun.
-
-...
-
-[Data](articles/3d1b14f6.json)
-
-[Extended Data](ext_articles/3d1b14f6.ext.json)
-
----
-
-### We will continue to fight even when the government does not abandon the wind farm on Mannar Island
-
-*2024-02-27 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177453) · `ta`
-
-The massive internal conflicts in the Tamil homeland today have disappointed the Tamil people. The expected various elections are being lagging behind. This has caused people to disappoint and anger. The government is unaware of the danger of the windmill project on the Mannar Island, said the Archbishop of Mannar Diocese Fidelis Lionel Emmanuel Fernando.
-
-Annually Mannar Emmanuel Fernando Annayaka said in a message that the people of Mannar will be released during the period
-
-We, the Catholic people, have set foot in a period of time in the year of the Church.
-
-This period is the time of grace and the time of repentance. Old sinful nature. This period is a time when the Lord has to agree with the Lord, the self and the neighbors.
-
-The pastor of today's politics of today's country said that the massive internal conflicts in the Tamil homeland have disappointed the Tamil people.
-
-The continuation of the national political parties continues. Various elections are being lagging behind.
-
-...
-
-[Data](articles/e77cca02.json)
-
-[Extended Data](ext_articles/e77cca02.ext.json)
 
 ---

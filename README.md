@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 14:32:56**
+As of **2024-02-28 14:49:45**
 
 ## Newspaper Stats
 
-*Scraped **9,783** Articles*
+*Scraped **9,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 519
 islandlk | 521
 adalk | 829
 adaderanalk | 1,175
-tamilmirrorlk | 1,189
+tamilmirrorlk | 1,191
 virakesarilk | 1,343
 dailymirrorlk | 1,479
 adaderanasinhalalk | 1,481
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,481
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,783 (100.0%) of 9,783 articles have been extended.
+9,785 (100.0%) of 9,785 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -148,6 +148,26 @@ In addition, the fire is being set on fire in the area, but more than 30 elephan
 
 ---
 
+### Papse
+
+*2024-02-28 13:03:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுவை-சிகிச்சையால்-காப்பற்றப்பட்ட-மலைப்பாம்பு/175-333939) · `ta`
+
+Although the Burmese python is one of the largest snakes in the world, the IUCN is listed as a vulnerable number.
+
+The female Burmese snake was affected by the viscera. Wildlife officials said that due to the loss of appetite, it was losing weight without eating anything.
+
+The doctors who visited this thought that the snake may have a large tumor in the stomach or something. Doctors have decided that the Burmese snake should be treated at international standards and finally perform surgery.
+
+In surgery, a tumor weighs 4.5 kg is 3 feet tall.
+
+◼️
+
+[Data](articles/3e288ec6.json)
+
+[Extended Data](ext_articles/3e288ec6.ext.json)
+
+---
+
 ### WNPS vows tough action against Adani wind power project
 
 *2024-02-28 13:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/WNPS-vows-tough-action-against-Adani-wind-power-project/108-277886) · `en`
@@ -251,6 +271,26 @@ The Foreign Minister reiterated Sri Lanka's rejection of the HRC resolutions 46/
 [Data](articles/67aa473e.json)
 
 [Extended Data](ext_articles/67aa473e.ext.json)
+
+---
+
+### Emergency Notification issued by the Ministry of Education
+
+*2024-02-28 12:11:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சு-விடுத்துள்ள-அவசர-அறிவித்தல்/175-333933) · `ta`
+
+The Ministry of Education has announced that today (28), tomorrow (29) and tomorrow (01) will be avoided.
+
+Accordingly, students studying in any school are advised not to engage in external sports training activities or sports events or any other activities during high temperatures.
+
+The announcement further stated that the Provincial and Regional Education Officers have already issued a directive to inform all school principals and that the Ministry of Health and Education should act on the instructions given to the schools in the future.
+
+Meanwhile, the human body is expected to feel high in the Western, North Western and Southern Provinces and parts of the Ratnapura district.. Remble
+
+◼️
+
+[Data](articles/4c9f6130.json)
+
+[Extended Data](ext_articles/4c9f6130.ext.json)
 
 ---
 
@@ -2015,41 +2055,5 @@ The officials informed the Caucus that research has confirmed that these educati
 [Data](articles/6d3e1a5e.json)
 
 [Extended Data](ext_articles/6d3e1a5e.ext.json)
-
----
-
-### Fmr Finance Minister Ronnie de Mel passes away
-
-*2024-02-27 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97577/fmr-finance-minister-ronnie-de-mel-passes-away) · `en`
-
-Former Finance Minister Ronnie de Mel passed away on Tuesday (Feb.27) at the age of 98, family sources told Ada Derana.
-
-He was receiving treatment at a private hospital in Colombo at the time of his demise.
-
-◼️
-
-[Data](articles/93fa66e8.json)
-
-[Extended Data](ext_articles/93fa66e8.ext.json)
-
----
-
-### Pushwana is a no -confidence motion against Speaker - Ashu Marasinghe
-
-*2024-02-27 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177455) · `ta`
-
-Opposition parties have taken steps to bring a no -confidence motion against the Speaker to cover up their disability. Former United National Party (UNP) parliamentarian Ashu Marasinghe said that this no -confidence motion would be like the proposals brought by them earlier.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (27).
-
-Opposition parties have taken steps to bring a no -confidence motion against the Speaker against the Speaker's signing. When the law is passed in Parliament, the TNA MP MA says the amendments to the Bill have not been amendments to the Bill.. Sumanthiran was protesting in the House. But then Sumanthiran MP. When he went to the parliamentary room and discussed it with the Attorney General, he agreed.
-
-So the Speaker has signed a well -to -use law to allow the Ceremony Backup Act.. The opposition parties, however, have now taken steps to bring a no -confidence motion against the Speaker.
-
-...
-
-[Data](articles/eb43f341.json)
-
-[Extended Data](ext_articles/eb43f341.ext.json)
 
 ---

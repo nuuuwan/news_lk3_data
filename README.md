@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 18:32:57**
+As of **2024-02-28 18:50:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,829 (100.0%) of 9,830 articles have been extended.
+9,830 (100.0%) of 9,830 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Addressing the ‘Religions to Reconcile’ National Inter Religious Symposium, 
 ...
 
 [Data](articles/d32c3c8f.json)
+
+[Extended Data](ext_articles/d32c3c8f.ext.json)
 
 ---
 

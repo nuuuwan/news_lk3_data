@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 12:17:36**
+As of **2024-02-28 12:32:57**
 
 ## Newspaper Stats
 
@@ -26,119 +26,131 @@ adaderanasinhalalk | 1,478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,755 (99.9%) of 9,762 articles have been extended.
+9,762 (100.0%) of 9,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
 
-### තවත් සැකකටයුතු මරණයක්
+### Another suspicious death
 
 *2024-02-28 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193908) · `si`
 
-දඹුල්ල, වෑවලවැව ප්‍රදේශයේ නිවසක් තුළ පුද්ගලයෙකු සැකකටයුතු ලෙස මියගොස් ඇති බව පොලීසිය පවසයි.
+One person has died in a house in Weeluwewa area in Dambulla, police said.
 
-එම මරණය සම්බන්ධයෙන් ඊයේ (27) රාත්‍රී පොලීසියට ලැබුණු තොරතුරක් මත පරීක්ෂණ ආරම්භකර තිබේ.
+Investigations have commenced on a tip off received by the police yesterday (27).
 
-45 හැවිරිදි මරණකරු විවාහක පුද්ගලයෙක් බවත් ඔහු බිරිඳගෙන් වෙන්වී සිය මව සමග නිවසේ ජීවත්වී ඇති බවත් පොලීසිය පැවසීය.
+He said that the father of 45-year-old was married and was separated from his wife and lived at home with his mother.
 
-මව නිවසේ නොමැති අවස්ථාවක එම පුද්ගලයා සැකකටයුතු ලෙස මියගොස් තිබුණි.
+The mother had been suspicious when the mother was not home.
 
 ◼️
 
 [Data](articles/bc7df337.json)
 
+[Extended Data](ext_articles/bc7df337.ext.json)
+
 ---
 
-### யாழில் ஓய்வுபெற்ற ஆசிரியை தவறான முடிவெடுத்து உயிர்மாய்ப்பு!
+### Retired teacher in Jaffna
 
 *2024-02-28 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/177484) · `ta`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை பொலிஸ் பிரிவிற்குட்பட்ட வட்டு தெற்கு, பகுதியில் ஓய்வுபெற்ற ஆசிரியை ஒருவர் இன்று புதன்கிழமை (28) தவறான முடிவெடுத்து  உயிர்மாய்த்துள்ளளார்.
+A retired teacher in the disk southern and area of the Vaddukoddai police division in Jaffna has made a wrong decision on Wednesday (28).
 
-வீட்டில் யாரும் இல்லாத சந்தர்ப்பத்தில் பி.ப 5.00 மணிக்கும் பி.ப 6.00 மணிக்கும் இடைப்பட்ட நேரத்தில் இந்த சம்பவம் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+The incident is said to have taken place at 5.00 am and 6.00 pm in the event of no one in the house.
 
-இவர் 2016 ஆம் ஆண்டு ஏற்கனவே ஒரு தடவை தற்கொலை முயற்சியில் ஈடுபட்டவர் என்றும், அதற்கு பின்னர் மன அழுத்தத்தில் காணப்பட்டுள்ளார் என்றும் தெரிவிக்கப்படுகிறது.
+It is reported that he has already attempted suicide in 2016 and has since been depressed.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்படவுள்ளது.
+A sudden death investigation officer A. Jayapalasingham. The body will be handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/60eadf07.json)
 
+[Extended Data](ext_articles/60eadf07.ext.json)
+
 ---
 
-### පාස්පෝට් කාර්යාලය ළඟ වලියේ නොදත් කතාව
+### Story not in the vicinity near the passport office
 
 *2024-02-28 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193907) · `si`
 
-මහනුවර ආගමන විගමන දෙපාර්තමේන්තු කාර්යාලය ඉදිරිපිට විදේශ ගමන් බලපත්‍ර ලබාගැනීම සඳහා පැමිණි පිරිසක් අතර උණුසුම් තත්ත්වයක් ඇතිවී තිබේ.
+There is a warm situation among a group of people to obtain passports in front of the Department of Immigration and Emigration, Kandy.
 
-ජනතාව චෝදනා කරන්නේ ආගමන විගමන දෙපාර්තමේන්තු කාර්යාලයේ නිලධාරීන්ගේ අක්‍රමවත් වැඩපිළිවෙල හේතුවෙන් මෙලෙස ඔවුන් අපහසුතාවයට පත්ව ඇති බවය.
+The people accused the Immigration and Emigration Department's Office of Officers due to their embarrassment.
 
-දුර බැහැර ඈත ප්‍රදේශවල සිට එහි පැමිණ දින කිහිපයක් තිස්සේ විදේශ ගමන් බලපත්‍රය ලබාගැනීමේ අපේක්ෂාවෙන් රැඳී සිටි පිරිසක් සහ අද උදෑසන එම ස්ථානයට පැමිණි තවත් පිරිසක් අතර මෙම උණුසුම් තත්ත්වය ඇතිවී තිබේ.
+The warmtorous situation has arisen among others who have come to the passport to visit far from far away areas and several days who have come to the place this morning.
 
-මේ අතර මේ පිළිබඳව අප කළ සොයාබැලීමකදී වාර්තාවූයේ සංවිධානාත්මක කල්ලියක් විසින් එම ස්ථානයේ පෝළිමේ රැඳී සිටිමින් විදේශ ගමන් බලපත්‍ර ලබාගැනීමට පැමිණෙන ජනතාවගෙන් නීතිවිරෝධී ලෙස මුදල් අයකරගන්නා බවය.
+In the meantime, the report was that the report was able to stay in the quest by an organized gang and charge the people who come in the quest by the people who visit passports.
 
-මේ සඳහා මහනුවර පිහිටි ආගමන විගමන දෙපාර්තමේන්තු කාර්යාලය තුළින්ම සහාය ලැබෙන බවටයි පැමිණ සිටින ජනතාව චෝදනා කරයි.
+The people who have come to support the Immigration and Emigration Department in Kandy.
 
-දහසකුත් එකක් කරදර මැද ඈත ප්‍රදේශවල සිට පැමිණ රටට විදේශ විනිමය ගෙන එන්න යන මේ තැළෙන මිනිස්සුන්ට අවම මට්ටමේ හෝ සේවාවක් සැපයීමට ආගමන විගමන බලධාරීන්ගේ ඇස් ඇරෙන්නේ කවදා ද ?
+When will the Immigration Authorities open the eyes of the Immigration Authorities to provide minimal or service to these crushed people who will come from the middle of the troubles from the midst of the midstando.
 
 ◼️
 
 [Data](articles/6496f143.json)
 
+[Extended Data](ext_articles/6496f143.ext.json)
+
 ---
 
-### පාසල් දරුවන් එළිමහනේ රැඳවීමෙන් වළකින්නැයි විශේෂ නිවේදනයක්
+### Special announcement to prevent school children in outdoors
 
 *2024-02-28 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193906) · `si`
 
-අධික උණුසුම් කාලගුණය තවදුරටත් ඉහළ යා හැකි බැවින් අද (28) හෙට (29) සහ අනිද්දා (29) යන දිනවල පාසල් සිසුන් එළිමහනේ රැඳවීමෙන් වළකින ලෙස අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Education has announced today (29) and tomorrow (28) and tomorrow (28) and tomorrow (28).
 
-ඒ අනුව කිසිදු පාසලක සිසු දරුවන් ඉහළ උෂ්ණත්වය ඇති අවස්ථාවන්හි එළිමහන් ක්‍රීඩා පුහුණු කටයුතු හෝ ක්‍රීඩා උත්සව හෝ වෙනත් බාහිර ක්‍රියාකාරකමකට හෝ යෙදවීමෙන් වළකින ලෙස දැනුම් දී ඇත.
+Accordingly, there is an outdoor sport or informed of outdoor sports or sports events or other external activity at any school.
 
-සියලුම පාසල් විදුහල්පතින්ට මේ සම්බන්ධයෙන් දැනුවත් කිරීම සඳහා මේ වනවිටත් පළාත් සහ කලාප අධ්‍යාපන බලධාරීන් වෙත යොමු කර ඇති අතර, සෞඛ්‍ය අමාත්‍යාංශය හා අධ්‍යාපන අමාත්‍යාංශය එක්ව පාසල් වෙත නිකුත් කර ඇති උපදෙස් අනුව ඉදිරියේ දී කටයුතු කරන ලෙස අදාළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+All school principals have already been referred to the provincial and zonal education authorities, along with the Ministry of Health and the Ministry of Education to work in the future.
 
 ◼️
 
 [Data](articles/eb65d5c3.json)
 
+[Extended Data](ext_articles/eb65d5c3.ext.json)
+
 ---
 
-### ඉන්දියාවේ උසස් පොලිස් නිලධාරියෙක් ව පැහැරගැනේ
+### India highly taken away
 
 *2024-02-28 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193905) · `si`
 
-ආයුධ සන්නද්ධව පැමිණි 200ක පමණ පිරිසක් ඉන්දියාවේ උසස් පොලිස් නිලධාරියෙක්ව පැහැරගෙන ගොස් තිබුණි.
+About 200 people who had armed armed have abducted an advanced police officer in India.
 
-ඉන්දීය මාධ්‍ය සඳහන් කළේ, වාහන සොරකමක් සම්බන්ධයෙන් එම පොලිස් නිලධාරියා විසින් සැකකරුවන් 6 දෙනෙක් අත්අඩංගුවට ගැනීමෙන් අනතුරුව එම පැහැරගැනීම සිදුකර ඇති බවයි.
+According to Indian media, the police officer had taken the abduction after six suspects were arrested by the police.
 
-තුවක්කුකරුවන් 200ක් පමණ ඊයේ රාත්‍රී 7ට පමණ පොලිස් නිලධාරියාගේ නිවස වටලා එම පොලිස් නිලධාරියාව සහ ඔහුගේ ආරක්ෂක නිලධාරියාව පැහැරගෙන ගොස් තිබුණි.
+About 200 gunmen had been raided at the police officer at around 7 pm last 7 pm and had been abducted by the police officer and his security officer.
 
-අනතුරුව වහා ක්‍රියාත්මක වූ යුද හමුදා කණ්ඩායමක් එම කණ්ඩායම හඹා ගොස් ඔවුන්ව මුදවාගෙන තිබේ.
+Thereafter, a group of army personnel immediately operated and released them.
 
-මේ වනවිට එම පොලිස් නිලධාරීන් රෝහල්ගතව ප්‍රතිකාර ලබන බව මාධ්‍ය වාර්තා පවසයි.
+Police officers are currently receiving treatment at hospital, media reports say.
 
 ◼️
 
 [Data](articles/4a473d41.json)
 
+[Extended Data](ext_articles/4a473d41.ext.json)
+
 ---
 
-### மட்டக்களப்பு வாவியருகில் ஆண் ஒருவரின் சடலம் மீட்பு!
+### Recovery of a man's body near Batticaloa
 
 *2024-02-28 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/177483) · `ta`
 
-மட்டக்களப்பு தலைமையக பொலிஸ் பிரிவிற்குட்பட்ட மட்டக்களப்பு நகர் பகுதியில் உள்ள பிரதான தனியார் பஸ் தரிப்பு நிலையத்திற்கு அருகாமையில் உள்ள வாவியருகில்  ஆணொருவரின் சடலமொன்று மீட்கப்பட்டுள்ளதாக மட்டக்களப்பு தலைமையக பொலிஸார் தெரிவித்துள்ளனர்.
+The body of a man has been recovered near the main private bus station in the Batticaloa city area, which belongs to the Batticaloa Headquarters Police Division, the Batticaloa Headquarters Police said.
 
-இன்று புதன்கிழமை (28) காலை குறித்த இடத்தில் பஸ்ஸினை தரித்து விட்டு வாவிக்கு அருகே சென்ற போது குறித்த சடலத்தினை கண்ட பஸ் நடத்துனர்கள் பொலிசாருக்கு வழங்கிய தகவலையடுத்து மட்டக்களப்பு தலைமையக பொலிஸார் சடலத்தை மீட்டுள்ளனர்.
+Batticaloa police headquarters headquarters has recovered the body of the bus conductor who saw the body when the bus was left at the scene of the bus at the scene on Wednesday (28) morning.
 
-காத்தான்குடி பகுதியை சேர்ந்த 51 வயதுடைய நபரின் சடலமென இனங்கானப்பட்டுள்ளதாக மட்டக்களப்பு தலைமையக பொலிஸார் தெரிவிக்கின்றனர்.
+The Batticaloa headquarters headquarters police say that the body of a 51 -year -old man from Kattankudi has been identified.
 
 ◼️
 
 [Data](articles/34ab0fb1.json)
+
+[Extended Data](ext_articles/34ab0fb1.ext.json)
 
 ---
 
@@ -878,31 +890,33 @@ Deputy Director Merrill Mendis said that it should be followed by adequate water
 
 ---
 
-### රොනී සමුගනී: අයවැය වාර්තා තැබූ 'ශ්‍රී ලංකා විවෘත ආර්ථිකයේ පුරෝගාමියා' ගැන මේ කරුණු දැන සිටියා ද?
+### Knowing these things about Ronnie;
 
 *2024-02-28 04:35:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c101lgl0p74o) · `si`
 
-රොනී සමුගනී: අයවැය වාර්තා තැබූ 'ශ්‍රී ලංකා විවෘත ආර්ථිකයේ පුරෝගාමියා' ගැන මේ කරුණු දැන සිටියා ද?
+Knowing these things about Ronnie;
 
-ශ්‍රී ලංකාවේ සුවිශේෂී දේශපාලනඥයෙකු මෙන් ම හිටපු මුදල් අමාත්‍යවරයෙකු වූ රොනී ද මෙල් අඟහරුවාදා (පෙබ: 27) පස්වරුවේ අභාවප්‍රාප්ත විය.
+Ronnie de Mel, a special politician in Sri Lanka, passed away on Tuesday (27th).
 
-පවුලේ ඥාතීන් පවසන්නේ, 98 වන වියේ පසු වූ ඔහු කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අභාවප්‍රාප්ත වූ බව ය.
+Relatives say that 98 years old, he passed away while receiving treatment at a private hospital in Colombo.
 
-පරිපාලන නිලධාරියෙකු ලෙස රාජ්‍ය සේවය ආරම්භ කර ඇති රොනී ද මෙල්, පසුකාලීනව වඩාත් කතාබහට ලක්වූ ප්‍රබල දේශපාලනඥයෙකු බවට පත්විය.
+Ronnie de Mel, who has commenced the public service as an administrative officer, became a more and more talked politician.
 
-ශ්‍රී ලංකාවේ වැඩි ම වාර ගණනක් අයවැය ඉදිරිපත් කළ මුදල් ඇමති කවුද?
+Who is the finance minister who presented the budget in Sri Lanka more than mostly?
 
-ඔහුගේ දෙමාපියන් 1948 වසරේදී ලංකා සිවිල් සේවයට එක්වූ ඔහු, කර්මාන්ත දෙපාර්තමේන්තුව, වවුනියාව කච්චේරිය, පුත්තලම කච්චේරිය සහ සමාජ සේවා දෙපාර්තමේන්තුව යන ආයතනවලට අනුයුක්තව සේවය කළේ ය.
+His parents joined the Ceylon Civil Service in 1948 in 1948, he served attached to the Department of Industry, Vavuniya Kachcheriya, Puttalam and Social Services Department.
 
-රොනී ද මෙල් යනුවෙන් සිය නම භාවිත කළ ද, ඔහුගේ සැබෑ නම රොනල්ඩ් ජෝසෆ් ගොඩ්ෆ්‍රි ද මෙල් ය.
+Although Ronnie de Mel was named, his real name was Ronal Joseph Godfry de Mel.
 
-ගල්කිස්ස, සාන්ත තෝමස් විද්‍යාලයෙන් මූලික අධ්‍යාපනය ලැබූ ඔහු ලංකා විශ්වවිද්‍යාලයෙන් ශාස්ත්‍රවේදී උපාධිය හිමි කර ගත්තේ ය.
+He was educated at St. Thomas' College, Mount Lavinia, he made a Bachelor of Arts Degree from the University of Ceylon.
 
-ඔහු එහිදී හැදෑරූ ප්‍රධාන විෂයයන් වූයේ, ඉංග්‍රීසි, ලතින්, ග්‍රීක් සහ ඉතිහාසය යි.
+The major subjects he studied there were English, Latin, Greek, and History.
 
 ...
 
 [Data](articles/a5fe5ab4.json)
+
+[Extended Data](ext_articles/a5fe5ab4.ext.json)
 
 ---
 

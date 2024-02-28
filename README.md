@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 01:02:44**
+As of **2024-02-29 01:17:21**
 
 ## Newspaper Stats
 
-*Scraped **9,880** Articles*
+*Scraped **9,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 519
 islandlk | 521
 adalk | 841
 adaderanalk | 1,193
-tamilmirrorlk | 1,202
+tamilmirrorlk | 1,203
 virakesarilk | 1,361
 dailymirrorlk | 1,496
 adaderanasinhalalk | 1,499
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,880 (100.0%) of 9,880 articles have been extended.
+9,880 (100.0%) of 9,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### ஏலத்தில் விற்கப்படும் ஸ்ரீலங்கன் எயார்லைன்ஸ்
+
+*2024-02-28 22:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏலத்தில்-விற்கப்படும்-ஸ்ரீலங்கன்-எயார்லைன்ஸ்/175-333961) · `ta`
+
+எதிர்வரும் மார்ச் மாதம் 05 ஆம் திகதி ஸ்ரீலங்கன் எயார்லைன்ஸை விற்பனை செய்வதற்கான ஏலங்கள் நேரடியாக நடத்தப்பட்டு முதலீட்டாளர் தெரிவு செய்யப்படவுள்ளதாக துறைமுகங்கள், கப்பல் மற்றும் விமான சேவைகள் அமைச்சர் நிமல் சிறிபால டி சில்வா இன்று அறிவித்தார்.
+
+"நாங்கள் ஏலங்களை அழைத்துள்ளோம், மார்ச் 5 ஆம்திகதி காலை 10.00 மணி முதல் மதியம் 2.00 மணி வரை இதற்காக வரலாம். இது நேரலையில் செய்யப்படும். மதியம் 2.00 மணிக்குள் ஏலங்களைத் திறந்து மதிப்பீடு செய்யலாம். அதை ஆதரிக்க ஒரு தொழில்நுட்பக் குழுவும் உள்ளது. அவர்கள் ஏலங்களை மதிப்பீடு செய்வார்கள். இறுதியாக, அது அமைச்சரவையில் சமர்ப்பிக்கப்படும். குறைந்தபட்சம் 500 மில்லியன் அமெரிக்க டொலர்களை முதலீடு செய்வதற்கான வலுவான முதலீட்டாளர் வர வேண்டும். அத்துடன் விமான நிறுவனத்தின் 6,000 பணியாளர்களின் வேலைகளை பாதுகாப்பதும் அவசியம் என்றார். R
+
+◼️
+
+[Data](articles/6692f8d0.json)
+
+---
 
 ### Young family death
 
@@ -1987,29 +2001,5 @@ He said even the concerned citizens could comment on the EIA, while it is open f
 [Data](articles/ba547ce4.json)
 
 [Extended Data](ext_articles/ba547ce4.ext.json)
-
----
-
-### Woman arrested for making a dream dream
-
-*2024-02-28 12:54:19* · [`adalk`](https://www.ada.lk/breaking_news/කැනඩා-සිහින-සිහිනයක්ම-කළ-කාන්තාවක්-අත්අඩංගුවට/11-408326) · `si`
-
-The Panadura Division Special Investigation Bureau says that a woman has been arrested abroad for more than Rs.
-
-Police say the suspect is a dual citizenship.The suspect was conducting the fraud, while maintaining an office in Panadura in 2016, police said.
-
-The number of complaints received by the Panadura Divisional Special Criminal Investigation Bureau has been confirmed that the suspects have been abroad for the frauds of the suspects.
-
-Police said that the suspect had come to Canada at the end of the year, the EFIs (27) in Malabe were arrested in general area Malabe.
-
-A police officer had also received a foreign travel ban against the suspect.A high police officer said he issued police messages to every police station in the island to find out if they were provided with jobs in this way.
-
-The 50 year old suspect is to be produced before the Panadura Magistrate's Court.
-
-◼️
-
-[Data](articles/36e8a495.json)
-
-[Extended Data](ext_articles/36e8a495.ext.json)
 
 ---

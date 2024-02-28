@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 07:16:03**
+As of **2024-02-28 07:31:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,703 (99.9%) of 9,710 articles have been extended.
+9,710 (100.0%) of 9,710 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -852,21 +852,23 @@ Officers of the Commission have asked whether it is a legal driving license at t
 
 ---
 
-### පාන් අලෙවිය සියයට 25කින් පහළට
+### Bread sales down 25 percent
 
 *2024-02-27 20:21:04* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-අලෙවිය-සියයට-25කින්-පහළට/11-408316) · `si`
 
-පාන් 25%කින් සහ කේක් ඇතුළු සෙසු බේකරි නිෂ්පාදන අළෙවිය 50%කින් පහත වැටී ඇතැයි සමස්ත ලංකා බේකරි හිමියන්ගේ සංගමයේ සභාපති එන්. කේ. ජයවර්ධන මහතා පවසයි.
+All Ceylon Bakery Owners Association Nilad. K. Says Jayawardene.
 
-නිෂ්පාදන වියදම විශාල වශයෙන් ඉහළ යාම හේතුවෙන් බේකරිනිෂ්පාදනවල මිල ගණන්ද ඉහළ මට්ටමක පැවතීමඅළෙවිය පහත වැටීමට හේතු වී ඇතැයිද ඔහු පවසයි.
+He said that due to the increase in production costs, he has attributed the price of prices in the production of drunk.
 
-මේ වන විට මාගරින් කිලෝවක් රුපියල් 1,000ක් සහ බටර් කිලෝවක් රුපියල් 3,000ක් දක්වා මිල ඉහළ ගොස් ඇති බවත් ඉන්දියාවෙන් ආනයනය කරන බිත්තර බේකරිවලට ලබා නොදීම නිසාබිත්තර මාෆියාව හමුවේ දේශීය බිත්තරයක මිල රුපියල් 60 දක්වා වැඩිවීමත් හේතුවෙන් බේකරි කර්මාන්තයට දැඩි පහරක් වැදී ඇතැයි සභාපතිවරයා පවසයි.
+The bakery industry has been hit by Rs.
 
-එබැවින් එළැඹෙන සිංහල අවුරුද්දට පෙර බේකරි නිෂ්පාදනවලට අවශ්‍ය අමුද්‍රව්‍ය බද්දෙන් නිදහස් කර, බිත්තර මිල පහත දැමීමට කටයුතුකර, පාරිභෝගික ජනතාවට සහන සැලසීමට රජය පියවර ගත යුතු බවද හෙතෙම වැඩිදුරටත් පැවසීය.
+Therefore, the government should take steps to deepen eggs and provide relief to the consumer's prices of the ingredients for the next year before the coming Sinhala.
 
 ◼️
 
 [Data](articles/90502502.json)
+
+[Extended Data](ext_articles/90502502.ext.json)
 
 ---
 
@@ -995,6 +997,8 @@ Polls promises made by certain political parties and the restructuring process o
 ...
 
 [Data](articles/04d7fc29.json)
+
+[Extended Data](ext_articles/04d7fc29.ext.json)
 
 ---
 

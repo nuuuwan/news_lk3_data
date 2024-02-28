@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-28 12:32:57**
+As of **2024-02-28 12:48:41**
 
 ## Newspaper Stats
 
-*Scraped **9,762** Articles*
+*Scraped **9,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 500
 dailyftlk | 519
 islandlk | 521
 adalk | 824
-adaderanalk | 1,174
+adaderanalk | 1,175
 tamilmirrorlk | 1,189
 virakesarilk | 1,339
 dailymirrorlk | 1,474
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,762 (100.0%) of 9,762 articles have been extended.
+9,763 (100.0%) of 9,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-28 (Wednesday)
+
+### School outdoor activities suspended as atmospheric temperatures rise
+
+*2024-02-28 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97587/school-outdoor-activities-suspended-as-atmospheric-temperatures-rise) · `en`
+
+The Education Ministry has instructed all respective school authorities to refrain from making students participate in strenuous outdoor activities until Friday (March 01) at schools as the prevailing high atmospheric temperatures are expected to rise further.
+
+Accordingly, Sports Day events, sports practices or any other scheduled outdoor activities are urged to be suspended for the time being.
+
+Provincial and zonal authorities of education have been instructed to brief school principals about the matter, the ministry said in a press release.
+
+In addition, school administrations are required to comply with the health guidelines issued by the Health Ministry and the Education Ministry.
+
+◼️
+
+[Data](articles/90493e1a.json)
+
+[Extended Data](ext_articles/90493e1a.ext.json)
+
+---
 
 ### Another suspicious death
 
@@ -2005,29 +2025,5 @@ Commenting on the new appointment, Bingumal Thewarathanthri, CEO of Standard Cha
 [Data](articles/4f3127b3.json)
 
 [Extended Data](ext_articles/4f3127b3.ext.json)
-
----
-
-### AICPA & CIMA CXO Forum spotlights the future of business, accounting, and finance
-
-*2024-02-27 19:56:00* · [`islandlk`](http://island.lk/aicpa-cima-cxo-forum-spotlights-the-future-of-business-accounting-and-finance/) · `en`
-
-AICPA & CIMA, together as the Association of International Certified Professional Accountants, is set to host a new edition of its CXO Forum under the theme “Accelerate & Lead”, at the Shangri-La in Colombo. This highly anticipated event will explore key trends impacting the future of business, accounting, and finance, such as ESG, Generative AI, skills, and talent management.
-
-Sarah Ghosh, FCMA, CGMA, CIMA President and Co-Chair of the Association of International Certified Professional Accountants.
-
-Sheikh Farouk Sheikh Mohamed, FCMA, CGMA, Managing Director of AEON BiG Malaysia
-
-Kairav Modi, FCMA, CGMA, Executive Vice President and CFO – Digital Industries, Siemens, India
-
-Isuru Gunasekera, Executive Vice President/Chief People Officer, and Head of Sustainability – ERM and Group Initiatives at John Keells Holdings PLC
-
-Davina Kern, Council Member, CIPM/ Head of Group Human Resources at David Pieris Group
-
-...
-
-[Data](articles/360b7e52.json)
-
-[Extended Data](ext_articles/360b7e52.ext.json)
 
 ---

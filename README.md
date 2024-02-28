@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 01:33:31**
+As of **2024-02-29 01:50:26**
 
 ## Newspaper Stats
 
-*Scraped **9,885** Articles*
+*Scraped **9,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,44 +13,92 @@ bbccomsinhala | 120
 dbsjeyarajcom | 166
 newsfirstlk | 363
 economynextcom | 503
-dailyftlk | 519
+dailyftlk | 520
 islandlk | 521
 adalk | 841
 adaderanalk | 1,193
 tamilmirrorlk | 1,203
 virakesarilk | 1,365
-dailymirrorlk | 1,496
+dailymirrorlk | 1,499
 adaderanasinhalalk | 1,499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,881 (100.0%) of 9,885 articles have been extended.
+9,885 (100.0%) of 9,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### இலங்கை இந்திய மீனவர்களின் பிரச்சனை இணக்கப்பாட்டுடன் பேச்சுக்குத் தயார் - டக்ளஸ்
+### October Revolution, women’s revolution and SJB’s economic ignorance
 
-*2024-02-29 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177555) · `ta`
+*2024-02-29 00:59:41* · [`dailyftlk`](https://www.ft.lk/columns/October-Revolution-women-s-revolution-and-SJB-s-economic-ignorance/4-758965) · `en`
 
-இலங்கை இந்திய மீனவர்களின் பிரச்சனை தொடர்பாக இணக்கப்பாட்டுடன் பேசுவதற்கு  தயார் என தமிழ்நாட்டு மீன்வளத்துறை அமைச்சருக்கு தெரிவித்ததாக  இலங்கை கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+It is a mood and movement of the masses powered by layered generations of the state university educated modern middle-class, led by its organised vanguard intelligentsia (the JVP leadership comprising former university student leaders) and affiliated or networked intelligentsia (the NPP leadership). The JVP is leftist, of a Marxist-Leninist formation; the NPP, left-inclined.
 
-முல்லைத்தீவு மாவட்டத்திற்குப் பயணம் மேற்கொண்ட கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா அவர்கள் முல்லைத்தீவு மாவட்ட செயலகத்தில் கலந்துரையாடல்களில்  ஈடுபட்டுள்ளார்.
-
-இதன்போது இலங்கை இந்தியா மீனவர்கள் பிரச்சினை தொடர்பிலான இரு நாட்டு அரசின் பேச்சுக்கள் தொடர்பில் முன்னேற்றம் ஏதும் இருக்கிறதா என ஊடகவியலாளர் ஒருவர் எழுப்பிய கேள்விக்கு பதிலளித்த அமைச்சர்.
-
-என்னுடன் தமிழ்நாட்டு மீன்வளத்துறை அமைச்சர் அனிதா ராதாகிருஷ்ணன் அவர்கள் தொலைபேசியில் பேசி இருந்தார் இந்தபிரச்சினைக்கு விரைவில் தீர்வு காணவேண்டும் என்றார்.
-
-அவர்கள் தமிழ்நாட்டு முதலமைச்சருடன் கலந்துரையாடுவதாகவும் அவர் ஊடாக பாண்டிச்சேரி முதலமைச்சருடன் கலந்துரையாடுவதாகவும். எனக்கு சொல்லப்பட்டது.
-
-அதேநேரத்தில் என்னையும் அந்த கலந்துரையாடலுக்கு நேரில் அல்லது தொலைபேசியில் கலந்நு கொள்ள முடியுமா என்று கேட்கப்பட்டதற்கு நான் அதற்கு இணங்கியுள்ளேன்.
+It is a revolution with a vision of modernisation and inclusive, non-discriminatory nation-building. The modernisation is not led by the bourgeois elite but the educated middle-classes. It is not statist, but is not anti-state, coming as it does from the beneficiaries of state education and professionals of the public sector. In terms of ethos, the state university educated generations have residual socialist sympathies.
 
 ...
 
+[Data](articles/e92f60fa.json)
+
+[Extended Data](ext_articles/e92f60fa.ext.json)
+
+---
+
+### The problem of Sri Lankan Indian fishermen is ready for talks with compliance - Douglas
+
+*2024-02-29 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177555) · `ta`
+
+Sri Lanka Fisheries Minister Douglas Devananda said that he had told the Tamil Nadu Fisheries Minister that he was ready to speak with the issue of Sri Lankan fishermen.
+
+Fisheries Minister Douglas Devananda, who traveled to the Mullaitivu District, was involved in discussions at the Mullaitivu District Secretariat.
+
+Responding to a question raised by a journalist whether there is no improvement in the talks of the two states on the issue of Sri Lanka India fishermen.
+
+Tamil Nadu Fisheries Minister Anita Radhakrishnan was talking to me on the phone.
+
+They are discussing with the Chief Minister of Tamil Nadu and the Chief Minister of Pondicherry. I was told.
+
+At the same time, I have agreed to ask me if I can be able to spend the phone in person or on the phone for that discussion.
+
+They should be guaranteed to give me their dragon boats that come into our sea, destroying, destroying, and not engaging in the process of degrading the livelihood of our seaside people, "he said.
+
+◼️
+
 [Data](articles/a7dc5b70.json)
+
+[Extended Data](ext_articles/a7dc5b70.ext.json)
+
+---
+
+### Economic Policies in an Election Year: Some Inconvenient Arithmetic - Part I
+
+*2024-02-29 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Economic-Policies-in-an-Election-Year-Some-Inconvenient-Arithmetic-Part-I/172-277912) · `en`
+
+...
+
+[Data](articles/9f192fae.json)
+
+[Extended Data](ext_articles/9f192fae.ext.json)
+
+---
+
+### Energy Crisis was Not Created by the People
+
+*2024-02-29 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Energy-Crisis-was-Not-Created-by-the-People/172-277911) · `en`
+
+Following a long spell of about five months of rainfall in most parts of the country, especially in the wet zone which devastated the agriculture in those areas, the country has begun to experience seemingly a similar long spell of drought which seems to be carrying devastating effects on the same farming community.
+
+It might have a huge effect on hydro power generation as well, making in turn a negative bearing on the electricity consumers who have already been hit hard by two consecutive tariff hikes within a short period with relatively massive margins such as 70 percent. Interestingly, the authorities responsible for supplying electricity to the country (who refused to reduce the electricity tariff during the recent rainy period despite repeated requests by various groups in the country) are going to reduce the tariffs by 18 percent now, according to media reports.
+
+...
+
+[Data](articles/e0357722.json)
+
+[Extended Data](ext_articles/e0357722.ext.json)
 
 ---
 
@@ -125,6 +173,24 @@ Ports, Shipping and Aviation Minister Nimal Siripala de Silva today announced th
 [Data](articles/6692f8d0.json)
 
 [Extended Data](ext_articles/6692f8d0.ext.json)
+
+---
+
+### Disciplinary action over video causing discomfort to child in classroom
+
+*2024-02-28 22:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Disciplinary-action-over-video-causing-discomfort-to-child-in-classroom/108-277922) · `en`
+
+Colombo, Feb 28 (Daily Mirror) - The Education Ministry is set to initiate appropriate disciplinary action against the individual involved in recording a video that caused discomfort to a small child in a school classroom.
+
+A video is presently circulating on social media, featuring the questioning of a small child, resulting in the child feeling uncomfortable while responding.
+
+Upon contacting the Ministry, a senior official said that an investigation will be conducted to identify the individual responsible for recording the incident.
+
+If it is determined that a teacher was involved, appropriate disciplinary action will be taken against him or her.
+
+◼️
+
+[Data](articles/0f87202f.json)
 
 ---
 
@@ -1933,73 +1999,5 @@ Foreign Minister Sabry reiterated Sri Lanka’s rejection of the UNHRC Resolutio
 [Data](articles/9ab77ae9.json)
 
 [Extended Data](ext_articles/9ab77ae9.ext.json)
-
----
-
-### Protect universities...
-
-*2024-02-28 13:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protect-universities/110-277889) · `en`
-
-The University Trade Union Joint Committee (UTUJC) staged a protest in front of the Visual and Performing Arts University today, demanding that the authorities solve their salary anomalies and take immediate action to enroll new lecturers to continue with the students' academic activities. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/2dccc620.json)
-
-[Extended Data](ext_articles/2dccc620.ext.json)
-
----
-
-### South Korea’s fertility rate dropped to fresh record low in 2023
-
-*2024-02-28 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97589/south-koreas-fertility-rate-dropped-to-fresh-record-low-in-2023) · `en`
-
-South Korea’s fertility rate, already the world’s lowest, dropped to a fresh record low in 2023, defying the billions of dollars spent by the country to try to reverse the trend as the population shrank for a fourth straight year.
-
-The average number of expected babies for a South Korean woman during her reproductive life fell to 0.72 from 0.78 in 2022, data from Statistics Korea showed on Wednesday.
-
-That is far below the rate of 2.1 per woman needed for a steady population and well behind the rate of 1.24 in 2015 when concerns about issues such as the cost of housing and education were lower.
-
-Since 2018, South Korea has been the only Organisation for Economic Co-Operation and Development (OECD) member with a rate below 1, defying the billions of dollars spent by the country to try to reverse the trend that led the population to decline for a fourth straight year in 2023.
-
-...
-
-[Data](articles/3daa6369.json)
-
-[Extended Data](ext_articles/3daa6369.ext.json)
-
----
-
-### Anura Kumara off to Canada next month
-
-*2024-02-28 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-off-to-Canada-next-month/108-277888) · `en`
-
-Colombo, Feb 28 (Daily Mirror) - National People’s Power (NPP) leader Anura Kumara Dissanayake will travel to Canada next month to address Sri Lankans living there and to meet with some Canadian politicians, the Daily Mirror learns.
-
-◼️
-
-[Data](articles/55f8e57a.json)
-
-[Extended Data](ext_articles/55f8e57a.ext.json)
-
----
-
-### Yall. University Employees Union Demonstration Demonstration
-
-*2024-02-28 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177496) · `ta`
-
-The Jaffna University Employees Union held a protest demonstration at the university premises on Wednesday (28).
-
-The protest was held by the Jaffna University Employees Union in support of the two -day strike action on Wednesday and Tomorrow Thursday in state universities across the country.
-
-It has been decided on Thursday, while the university's salary conflict, salary increases and the problems of the university's wage increases, and the university subsidy commission and the government have not yet resolved the solution to the university and on the same day.
-
-Accordingly, the University Employees' Union is carrying out a strike action on the two days of the Jaffna University.
-
-◼️
-
-[Data](articles/d247db99.json)
-
-[Extended Data](ext_articles/d247db99.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 09:51:32**
+As of **2024-02-29 10:02:55**
 
 ## Newspaper Stats
 
-*Scraped **9,954** Articles*
+*Scraped **9,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,68 @@ adalk | 843
 adaderanalk | 1,196
 tamilmirrorlk | 1,209
 virakesarilk | 1,373
-dailymirrorlk | 1,504
+dailymirrorlk | 1,505
 adaderanasinhalalk | 1,508
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,948 (99.9%) of 9,954 articles have been extended.
+9,955 (100.0%) of 9,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### වැලිපැන්නේ දී කපා කොටා පුද්ගලයෙක් ඝාතනය කෙරේ
+### Welipenna and hacked to death
 
 *2024-02-29 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193942) · `si`
 
-වැලිපැන්න පොලිස් වසමේ පැලකැටියාගොඩ, හොරවල ප්‍රදේශයේ දී පිහියකින් ඇන පුද්ගලයෙකු ඝාතනය කර තිබේ.
+A knife stabbed with a knife in Packetiyagoda, Pakhattiyagoda, in the Welipeniya area in Packetiyagoda.
 
-මෙසේ ඝාතනය කොට ඇත්තේ පැලකැටියාගොඩ ප්‍රදේශයේ පදිංචි 32 හැවිරිදි සිව්දරු පියෙකු වන මල්ලවආරච්චි කන්කානම්ගෙ තරිදු ධනංජය නමැති පුද්ගලයෙකි.
+The victim is a 32 year old father of four-old father of four-old father of four-old residents of Pakitiyagoda.
 
-මරණයට පත් පුද්ගලයා පැලකැටියාගොඩ ප්‍රදේශයේ ප්‍රධාන මාර්ගයක් අසල රැඳී සිටියදී යතුරු පැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු හා බහින්බස්වීමක් සිදුවී ඇත.
+The deceased has taken place in a motorcycle while staying near a major road in Paltitiyagoda.
 
-ඉන්පසුව එම පුද්ගලයින් දෙදෙනාගෙන් එක් අයෙකු එකවරම මරණකරු වෙත පිහි ප්‍රහාරයක් එල්ල කොට ඇති අතර, එම පිහි ප්‍රහාරයෙන් තුවාල ලැබූ තරිදු අසල පිහිටි නිවසක් වෙත දිව ගොස් තිබේ.
+Thereafter, one of the two persons had been attacked by the deceased at once, a nearby house was injured in the attack.
 
-ඉන් පසුව ඔහු එම නිවස මිදුලේ ඇද වැටීමත් සමගම මොවුන් දෙදෙනා පිහි පාරවල් කිහිපයක්ම මරණකරුගේ උදරය ප්‍රදේශයට සහ පපු ප්‍රදේශයට එල්ල කොට ඇත ඇති අතර ඉන්පසු එම පුද්ගලයින් දෙදෙනා ප්‍රදේශයෙන් පළා ගොස් ඇත.
+After that, he had fallen into the courtyard of the house and had taken several roads to the abdomen and the deck of the deceased.
 
-මෙම පිහි ප්‍රහාරයෙන් බරපතළ තුවාල ලැබූ තරිදු ධනංජය බරපතළ තුවාල ඇතිව ප්‍රදේශවාසීන් විසින් ඔහුව මතුගම වෑත්තෑව රෝහලට ඇතුළත් කර තිබේ.
+Residents of the area have been admitted to the hospital with serious injuries due to the serious injuries of the knives.
 
-රෝහල් ගත කිරීමෙන් අනතුරුව එම පුද්ගලයා මියගොස් ඇතැයි වෑත්තෑව රෝහල සඳහන් කළේය.
+The Wettera said that the man was killed after hospital.
 
-...
+The two persons who had come to attack were already identified as the Welipenna police.
+
+The two people who came to the attack were also laid near the main road, and the residents of the area were burning on the motorcycle.
+
+◼️
 
 [Data](articles/16ee924c.json)
+
+[Extended Data](ext_articles/16ee924c.ext.json)
+
+---
+
+### Deshabandu Tennakoon assumes duties as IGP
+
+*2024-02-29 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deshabandu-Tennakoon-assumes-duties-as-IGP/108-277939) · `en`
+
+Colombo, Feb 29 (Daily Mirror) -Deshabandu Tennakoon assumed duties as the new Inspector General of Police (IGP) this morning at the police headquarters.
+
+President Ranil Wickremesinghe appointed Tennakoon as the 36th Inspector General of Police of Sri Lanka on February 26.
+
+Born in 1971, Tennakoon began his police career in 1998 as an apprentice Assistant Superintendent of Police. He holds a Bachelor's degree from the University of Colombo and a Master's degree from the University of Kelaniya.
+
+Prior to his current role, Tennakoon served as the Senior Deputy Inspector General of Police (SDIG) in charge of the Western Province.
+
+Tennakoon's 25-year career in the Sri Lankan Police has seen him serve in various locations across the country.
+
+◼️
+
+[Data](articles/5cfd4bd5.json)
+
+[Extended Data](ext_articles/5cfd4bd5.ext.json)
 
 ---
 
@@ -122,6 +150,8 @@ The event aims to provide "On the Spot offer letters" to students interested in 
 
 [Data](articles/140ce554.json)
 
+[Extended Data](ext_articles/140ce554.ext.json)
+
 ---
 
 ### China expresses strong dissatisfaction to SL over bar on research vessels
@@ -141,6 +171,8 @@ Sri Lanka took such a decision in the midst of pressure from India which cited s
 ...
 
 [Data](articles/6ce80bdc.json)
+
+[Extended Data](ext_articles/6ce80bdc.ext.json)
 
 ---
 
@@ -330,6 +362,8 @@ However, looking back, many people now seem to see a coercing tactic in making p
 
 [Data](articles/6f1e984a.json)
 
+[Extended Data](ext_articles/6f1e984a.ext.json)
+
 ---
 
 ### Minor showers to several areas
@@ -369,6 +403,8 @@ As Sri Lanka aims to recover faster and achieve higher growth trajectory, Wickre
 ...
 
 [Data](articles/21de96c6.json)
+
+[Extended Data](ext_articles/21de96c6.ext.json)
 
 ---
 
@@ -609,6 +645,8 @@ Elephant House is owned by Ceylon Cold Stores PLC, a subsidiary of John Keells H
 ...
 
 [Data](articles/9b58b6c7.json)
+
+[Extended Data](ext_articles/9b58b6c7.ext.json)
 
 ---
 
@@ -1991,23 +2029,5 @@ We will negotiate with all parties to establish a humanitarian political coaliti
 [Data](articles/14c48007.json)
 
 [Extended Data](ext_articles/14c48007.ext.json)
-
----
-
-### New news about electricity tariff
-
-*2024-02-28 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193925) · `si`
-
-Members of the Public Utilities Commission were discussed today and the increase in electricity tariffs.
-
-However, after that discussion, members of the Public Utilities Commission said that it was not a final decision regarding today.
-
-However, members of the Public Utilities Commission further stated that it will meet again to make a decision on reducing the electricity bill.
-
-◼️
-
-[Data](articles/df9f4c1c.json)
-
-[Extended Data](ext_articles/df9f4c1c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 11:33:18**
+As of **2024-02-29 11:52:03**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 1,510
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,962 (99.9%) of 9,968 articles have been extended.
+9,968 (100.0%) of 9,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### தடுத்துவைக்கப்பட்டுள்ள - காணாமலாக்கப்பட்டுள்ள பிள்ளைகளை தேடி அலையும் தாய்மார்களின் ஒட்டுமொத்த குறியீடு சாந்தனின் தாயார் - கஜேந்திரகுமார் பொன்னம்பலம்
+### Santhan's mother - Gajendrakumar Ponnambalam
 
 *2024-02-29 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177575) · `ta`
 
-இந்திய மற்றும் ஏனைய நாடுகளின் சிறைகளிலும் தடுப்புமுகாம்களிலும் ஆயிரக்கணகானோர்  தடுத்துவைக்கப்பட்டும்  காணாமல் ஆக்கப்பட்டவர்களாக்கப்பட்டும் இருக்கையில்…. அவர்களை தேடி அலையும் எம் தேச தாய்மார்களின் அவலத்தின் ஒட்டுமொத்த குறியீடாக திரு சாந்தன் அவர்களின் தாயார்  இருக்கிறார்.என தமிழ்தேசிய மக்கள் முன்னணியின் தலைவரும் நாடாளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்துள்ளார்
+While thousands of people have been detained and disappeared in prisons and prevention of Indian and other countries….Mr. Shantan's mother is the overall mark of the plight of the mothers who are looking for them.
 
-33 வருடம் இந்திய மண்ணில் தனிமை சிறையில் போதிய மருத்துவ வசதிகள்  அடைக்கப்பட்டிருந்த திரு சாந்தன் அவர்கள் நீதிமன்றால் விடுவிக்கப்பட்ட பின்னரும் இந்திய சிறிலங்க அரசுகளின்  மெத்தனப்போக்கால்  ஒன்றரை வருடம்அடைத்துவைக்கப்பட்டிருந்த நிலையில்….  காலமானார் எனும் செய்தி எம்மக்கள் அனைவரையும் தாங்கொணா துயரத்தில் ஆழ்த்தியுள்ளது.
+Mr. Shantan, who had been inadequate medical facilities in the Indian soil for 33 years, was released for one and a half years after the release of the Indian states.The news that he passed away has caused all of us in distress.
 
-33 வருடங்களுக்கு பின்னர் தன் மகனின் முகத்தை காணும் ஏக்கத்தில் காத்திருந்த அவரின் தாயார் மற்றும் குடும்பத்தவர்களின் துயரினை எந்த வார்த்தைகளும் ஆற்றுப்படுத்தப்போவதில்லை.
+No words will heal the grief of her mother and family, waiting for her son's face after 33 years.
 
-...
+While thousands of people have been detained and disappeared in prisons and prevention of Sri Lanka and other countries by the deadly genocide….
+
+Mr. Santhan's mother is today the overall symbol of the plight of the mothers who wander.
+
+◼️
 
 [Data](articles/89a20c11.json)
 
+[Extended Data](ext_articles/89a20c11.ext.json)
+
 ---
 
-### சாந்தனின் மரணம் தார்மீக சீற்றத்தை ஏற்படுத்துகின்றது- நாடு கடந்த தமிழீழ அரசாங்கம்
+### Shantan's death causes moral outrage- the government of Tamil Eelam
 
 *2024-02-29 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177573) · `ta`
 
-சாந்தனின் மரணம் பெரும் சோகத்தையும் தார்மீக சீற்றத்தையும் ஏற்படுத்துகின்றது என நாடு கடந்த தமிழீழ அரசாங்கம்தெரிவித்துள்ளது.
+Shantan's death is a great tragedy and moral outrage.
 
-சாந்தனின் மரணம் குறித்து சமூகஊடகத்தில் தனது வேதனையை வெளியிட்டுள்ள நாடு கடந்த தமிழீழ அரசாங்கத்தின் பிரதமர் விஸ்வநாதன் ருத்திரகுமாரன் இந்த வேண்டுகோளை விடுத்துள்ளார்
+Prime Minister Viswanathan Rudrakumaran made this appeal to the Tamil Eelam government that has expressed his pain in Santhan's death
 
-33 வருடங்கள் தவறான சிறைவாசத்திற்குப் பிறகு சாந்தன் காலமானார். அவரது மரணம் பெரும் சோகத்தையும் தார்மீக சீற்றத்தையும் ஏற்படுத்துகிறது. உச்ச நீதிமன்ற்ம் அவரை விடுவிக்க உத்தரவிட்டபோதிலும் அவர் "சிறப்பு முகாமில்" தடுத்து வைக்கப்பட்டார் - "சிறப்பு முகாமில்" தொடர்ந்து சிறைவாசம் என்பது உச்ச நீதிமன்றத்தை அவமதிக்கும் செயல் மட்டுமல்லஇ கொடூரமான மற்றும் சட்டவிரோதமான தண்டனையாகும்
+Shantan passed away after 33 years of wrong prison. His death causes great sadness and moral fury. Although the Supreme Court ordered him to be released, he was detained in the "special camp" - the continued imprisonment in the "special camp" is not only an act of insulting the Supreme Court.
+
+The Tamil Eelam government expresses its respect for Shantan. And for 33 years, he has a heartfelt condolences to him for 33 years to turn and turn off his hands.Requests justice for his death. All the remaining "special camp" prisoners must be released without further delay or fortunes.
+
+The detention of those who have already been released by the court are illegal deadly punishment. "Special camps" should be closed immediately.
 
 ...
 
 [Data](articles/c5f908e1.json)
+
+[Extended Data](ext_articles/c5f908e1.ext.json)
 
 ---
 
@@ -114,25 +126,27 @@ The Supreme Court today issued an order to prevent the legal profession before t
 
 ---
 
-### ஆராய்ச்சி கப்பல்களுக்கு இலங்கை தடை -  கடும் அதிருப்தியை வெளியிட்டது சீனா
+### Sri Lanka's ban on research ships
 
 *2024-02-29 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/177569) · `ta`
 
-ஆராய்ச்சி கப்பல்களுக்கு இலங்கை தடைவிதித்துள்ளமை குறித்து சீனா தனது கடும் அதிருப்தியை வெளியிட்டுள்ளது.
+China has expressed its displeasure over Sri Lanka's ban on research vessels.
 
-இலங்கை ஜனவரி மூன்றாம் திகதி முதல் சீன ஆராய்ச்சிகப்பல்கள் இலங்கையின் விசேட பொருளாதார வலயத்தில் ஆராய்ச்சியில் ஈடுபடுவதற்கு தடைவிதித்துள்ளமை குறித்தே சீனா தனது அதிருப்தியை வெளியிட்டுள்ளது.
+China has expressed its dissatisfaction with the ban on Chinese research outlets from Sri Lanka from being researched in Sri Lanka's Special Economic Zone since January third.
 
-சீனாவின் ஜியாங் யாங் கொங் 3 என்ற ஆராய்ச்சி கப்பல் தென் இந்திய கடற்பரப்பில் ஆராய்ச்சியில் ஈடுபடுவதற்கு திட்டமிட்டிருந்த நிலையிலேயே இலங்கை இந்த தடையை அறிவித்தது.
+Sri Lanka announced the ban as China's Jiang Yang Kong 3 researched the south Indian seas.
 
-குறிப்பிட்ட கப்பல் சீனாவின் இயற்கை வள அமைச்சிற்கு உரியது என தகவல்கள் வெளியாகியுள்ளன.
+There have been reports that a particular ship belongs to the Ministry of Natural Resources of China.
 
-தனது அயலில் ஆராய்ச்சிகள் இடம்பெறுவது குறித்த பாதுகாப்புகரிசனையை இந்;தியா வெளியிட்ட நிலையிலேயே இலங்கை இந்த தடையை விதித்திருந்தது.
+Sri Lanka has imposed the ban on the issue of security on its neighboring research.
 
-எனினும் சீன அதிகாரிகள் இலங்கையின் இந்த முடிவால் கடும் அதிருப்தியடைந்துள்ளனர்,இன்னுமொரு நாட்டின் அழுத்தத்தினால் இலங்கை இவ்வாறான முடிவை எடுத்தமை குறி;த்து தங்கள் அதிருப்தியை வெளியிட்டுள்ளனர்.
+However, Chinese authorities have been very dissatisfied with this decision in Sri Lanka, and the pressure of another country has expressed their dissatisfaction with Sri Lanka's decision.
 
 ◼️
 
 [Data](articles/c4d82d5f.json)
+
+[Extended Data](ext_articles/c4d82d5f.ext.json)
 
 ---
 
@@ -174,63 +188,73 @@ Foreign media reports that there is no need to go to a referendum, as the propos
 
 ---
 
-### இன்று இடியுடன் கூடிய மழை பெய்யலாம்
+### Thundershowers can be rained today
 
 *2024-02-29 09:44:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை-பெய்யலாம்/175-333983) · `ta`
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் பொலநறுவை மற்றும் மாத்தளை  மாவட்டங்களிலும்  இன்று சிறிதளவு  மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has said that rainfall will occur today in the Eastern and Uva provinces as well as in Polonnaruwa and Matale districts.
 
-சப்ரகமுவ மற்றும் மேல் மாகாணங்களின்  சில இடங்களிலும் அத்துடன் நுவரெலியா,  காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக்  காணப்படுகின்றது.
+There is a chance of rain or thunderstorms in the evening or night in some parts of the Sabaragamuwa and Western Provinces as well as some areas of Nuwara Eliya, Galle and Matara districts.
 
-மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும் அத்துடன் வடக்கு, கிழக்கு, வடமத்திய, வடமேல் மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மாவட்டத்திலும்  மணித்தியாலத்திற்கு 30 ‐ 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும் என எதிர்பார்க்கப்படுகிறது.
+Heavy winds are expected to blow at speeds of 30 to 40 km / h in the Eastern slopes of the Central Highlands as well as the North, Eastern, North Western, North Western and Uva provinces and Hambantota district.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+The public is asked to act with vigilance in cases where strong winds and lightning are occurring.
 
-கொழும்பு தொடக்கம் காலி ஊடாக மாத்தறை வரையான கடல் பிராந்தியங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Showers or thunderstorms are expected in the evening or night in some parts of the sea regions from Colombo to Galle.
+
+Winds from the northeast at 25 - 35 kilometers per hour in the sea regions.
 
 ...
 
 [Data](articles/0a0e1033.json)
 
+[Extended Data](ext_articles/0a0e1033.ext.json)
+
 ---
 
-### இலங்கை தடை விதித்ததால் சீனா அதிருப்தி
+### China is dissatisfied with Sri Lanka's ban
 
 *2024-02-29 09:40:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தடை-விதித்ததால்-சீனா-அதிருப்தி/175-333981) · `ta`
 
-சீனாவின் பிரத்தியேக பொருளாதார வலயத்தில் (EEZ) சீன ஆராய்ச்சிக் கப்பல்கள் எந்தவொரு ஆய்வையும்  2024 ஜனவரி 3ஆம் திகதி முதல் ஒரு வருடத்திற்கு மேற்கொள்ள தடை விதித்துள்ளதமைக்கு இலங்கை மீதான தனது அதிருப்தியை சீனா வெளிப்படுத்தியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+China has revealed its dissatisfaction with Sri Lanka over the fact that China's exclusive economic zone (EEZ) has banned any study from January 3, 2024.
 
-சீன ஆராய்ச்சிக் கப்பலான சியாங் யாங் ஹாங் 3, தென் இந்தியப் பெருங்கடலில் ஆய்வு மேற்கொள்ள திட்டமிட்டுள்ளதை அடுத்து இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+The decision was taken following the Chinese research vessel, Chiang Yang Hong 3, planned to conduct a survey in the South Indian Ocean.
 
-சீன ஆய்வுக் கப்பல் அதிகாரப்பூர்வமாக சீன இயற்கை வள அமைச்சகத்தின் மூன்றாவது கடல்சார் ஆராய்ச்சி நிறுவனத்திற்குச் சொந்தமானது.
+The Chinese Laboratory has officially owned the third maritime research institute of the Chinese Natural Resources Ministry.
 
-அண்டை நாடுகளின் இத்தகைய நடவடிக்கைகளால் ஏற்படும் பாதுகாப்புக் கவலைகளை மேற்கோள் காட்டி இந்தியாவின் அழுத்தங்களுக்கு மத்தியில் இலங்கை அத்தகைய முடிவை எடுத்துள்ளது. இந்திய ஊடகங்கள் இலங்கையின் இந்த முடிவை சீனாவிற்கு அடி என்று பரவலாகப் பாராட்டின.
+Sri Lanka has made such a decision amid pressure on India, citing security concerns caused by such activities in the neighboring countries.The Indian media has widely praised Sri Lanka's decision to China.
 
-எனினும், இந்த முடிவால் எரிச்சலடைந்த சீன அதிகாரிகள் , வேறொரு நாட்டின் செல்வாக்கின் பேரில் இத்தகைய முடிவை எடுத்ததற்காக இலங்கை மீது தனது அதிருப்தியை தெரிவித்தனர் .
+The Chinese officials, however, expressed their dissatisfaction with Sri Lanka for making such a decision on the influence of another country.
 
-...
+While the Indian media praised Sri Lanka's decision, the Chinese media began criticizing India's prevalent on neighboring countries to take action against India.
+
+◼️
 
 [Data](articles/1d1c51e1.json)
 
+[Extended Data](ext_articles/1d1c51e1.ext.json)
+
 ---
 
-### கடமைகளை பொறுப்பேற்றார் தென்னகோன்
+### Tennakoon took charge of the duties
 
 *2024-02-29 09:32:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடமைகளை-பொறுப்பேற்றார்-தென்னகோன்/175-333980) · `ta`
 
-புதிய பொலிஸ் மா அதிபராக தேசபந்து தென்னகோன் இன்று காலை பொலிஸ் தலைமையகத்தில் கடமைகளைப் பொறுப்பேற்றார்.
+Deshabandu Tennakoon took over the duties at the police headquarters this morning as the new Inspector General of Police.
 
-இலங்கையின் 36வது பொலிஸ் மா அதிபராக தென்னகோனை ஜனாதிபதி ரணில் விக்கிரமசிங்க பெப்ரவரி 26ஆம் திகதி நியமித்தார்.
+President Ranil Wickremesinghe appointed Thennakon as the 36th Police Inspector of Sri Lanka on February 26.
 
-1971 ஆம் ஆண்டு பிறந்த தென்னகோன், 1998 ஆம் ஆண்டு உதவி பொலிஸ் அத்தியட்சகராக தனது பொலிஸ் வாழ்க்கையை ஆரம்பித்தார். தென்னகோன் கொழும்புப் பல்கலைக்கழகத்தில் இளங்கலைப் பட்டமும், களனிப் பல்கலைக்கழகத்தில் முதுகலைப் பட்டமும் பெற்றவர்.
+Born in 1971, Tennakoon started his police career as Assistant Superintendent of Police in 1998.He holds a Bachelor's Degree at the University of Colombo and a Masters Degree from the University of Kelaniya.
 
-தென்னகோன் தற்போதைய பதவிக்கு முன்னர், மேல் மாகாணத்திற்குப் பொறுப்பான மூத்த பிரதிப் பொலிஸ் மா அதிபராக (SDIG) பணியாற்றினார்.
+Prior to the current post of Tennakoon, he served as the Senior Deputy Inspector General of Police (SDIG) in charge of the Western Province.
 
-தென்னகோனின் 25 வருட கால இலங்கை பொலிஸ்துறையில் அவர் நாடு முழுவதும் பல்வேறு இடங்களில் பணியாற்றியுள்ளார்.
+He has worked in various places across the country in the Sri Lankan police for 25 years.
 
 ◼️
 
 [Data](articles/06cc0f59.json)
+
+[Extended Data](ext_articles/06cc0f59.ext.json)
 
 ---
 

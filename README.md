@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 11:02:31**
+As of **2024-02-29 11:17:32**
 
 ## Newspaper Stats
 
-*Scraped **9,958** Articles*
+*Scraped **9,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 513
 dailyftlk | 528
 islandlk | 531
-adalk | 843
-adaderanalk | 1,196
+adalk | 844
+adaderanalk | 1,199
 tamilmirrorlk | 1,209
 virakesarilk | 1,373
 dailymirrorlk | 1,505
@@ -26,41 +26,91 @@ adaderanasinhalalk | 1,510
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,956 (100.0%) of 9,958 articles have been extended.
+9,958 (100.0%) of 9,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### නාගානන්දට නීතිඥ වෘත්තිය තහනම්
+### Dates announced for Grama Niladhari interviews; recruitments expected soon
+
+*2024-02-29 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97613/dates-announced-for-grama-niladhari-interviews-recruitments-expected-soon) · `en`
+
+The interviews for the recruitment of candidates to the vacant Grama Niladhari officer positions will commence on March 13, 2024, the State Minister of Home Affairs Ashoka Priyantha said.
+
+Accordingly, the relevant interviews will be conducted on the 13th, 14th and 15th of March, 2024.
+
+A total of 4,232 candidates were qualified to face the interviews based on the results of the written examination which was held in December 2023.
+
+However, the State Minister also pointed out that following the interviews, recruitment will be carried out to fill the vacant positions as soon as possible.
+
+Accordingly, a total of 2,002 individuals will be recruited to the Grade III of Grama Niladhari Service based on the results of the interviews.
+
+◼️
+
+[Data](articles/795035a7.json)
+
+---
+
+### Nagananda Kodituwakku disenrolled as Attorney
+
+*2024-02-29 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97612/nagananda-kodituwakku-disenrolled-as-attorney) · `en`
+
+The Supreme Court on Thursday (29 Feb.) disenrolled Nagananda Kodituwakku as an Attorney-at-Law.
+
+◼️
+
+[Data](articles/06b99874.json)
+
+---
+
+### Nagananda babies prohibited
 
 *2024-02-29 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193944) · `si`
 
-නීතිඥ නාගානන්ද කොඩිතුවක්කු මහතාට මින් ඉදිරියට නීති වෘත්තියේ යෙදීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අද නියෝගයක් නිකුත් කර තිබේ.
+The Supreme Court today issued an order to prevent the legal profession before the lawyer Nagananda Kodituwakku.
 
 ◼️
 
 [Data](articles/8f9150bf.json)
 
+[Extended Data](ext_articles/8f9150bf.ext.json)
+
 ---
 
-### ප්‍රංශයේ ගබ්සා නීතිය එරට ව්‍යවස්ථාවට
+### 36  including 24 school children injured in bus accident
+
+*2024-02-29 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97611/36-including-24-school-children-injured-in-bus-accident) · `en`
+
+At least 36 persons including 24 schoolchildren have been injured after a passenger bus overturned in the Siyambalanduwa area of Moneragala.
+
+Police said that a passenger bus attached to Sri Lanka Transport Board (SLTB) which was transporting school students had toppled this morning (Feb. 29).
+
+◼️
+
+[Data](articles/7e31deab.json)
+
+---
+
+### Abortion of abortion in France
 
 *2024-02-29 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193943) · `si`
 
-ගබ්සා කිරීමේ අයිතිය ව්‍යවස්ථාවෙන්ම තහවුරු කිරීමේ යෝජනාව ප්‍රංශ සෙනෙට් සභාව අනුමත කර තිබේ.
+The French Senate has approved the right to confirm the right to abortion.
 
-ප්‍රංශ පාර්ලිමේන්තුවේ ඉහළ මන්ත්‍රී මණ්ඩලය වන සෙනෙට් සභාව විසින් ඊයේ (28) පැවති ඡන්ද විමසීමේ දී අදාළ අනුමැතිය ලබා දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that the Senate has given the approval from the voting yesterday (28).
 
-යෝජනාවට පක්ෂව ඡන්ද 267ක් හිමිව ඇති අතර ඊට විරුද්ධව ලැබී ඇත්තේ ඡන්ද 50ක් පමණයි.
+267 votes were cast in favor of the resolution and only 50 votes were against it.
 
-1974 වර්ෂයේ සිට ගබ්සාව ප්‍රංශයේ නීත්‍යානුකූලව පැවති අතර එය තවදුරටත් ව්‍යවස්ථාව මඟින් තහවුරු කිරීමට අදාළව මෙම යෝජනාව ඉදිරිපත් වී තිබේ.
+Abortion has been legally in France since 1974, and the proposal has been made in connection with the constitution.
 
-අදාළ යෝජනාව පහෙන් තුනක බහුතරයික් සම්මත වී ඇති බැවින් ජනමත විචාරණයකට යාමේ අවශ්‍යතාවක් නොවන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that there is no need to go to a referendum, as the proposal is passed in three-thirds.
 
 ◼️
 
 [Data](articles/b3dea7ef.json)
+
+[Extended Data](ext_articles/b3dea7ef.ext.json)
 
 ---
 
@@ -1586,6 +1636,26 @@ Biyagama police said that the fire broke out this evening near the site where th
 
 ---
 
+### මාස දෙකට අධිවේගයේ අනතුරුවලින් මරණ 9ක්
+
+*2024-02-28 19:49:55* · [`adalk`](https://www.ada.lk/breaking_news/මාස-දෙකට-අධිවේගයේ-අනතුරුවලින්-මරණ-9ක්/11-408339) · `si`
+
+අධිවේගී මාර්ග පද්ධතිය තුළ මෙම වසරේ ගෙවුණු මාස දෙකට සිදු වූ අනතුරුවලින් පුද්ගලයන් 9 දෙනෙකු මියගොස් ඇතැයි අධිවේගී කොට්ඨාස රථ වාහන පොලීසිය කියයි. එකී මරණ නවය අනතුරු හතකින් සිදුවී ඇත.
+
+ඉකුත් වසර තුළම එම මාර්ග පද්ධතිය තුළ සිදුවූ අනතුරුවලින් මියගිය පුද්ගලයන්ගේ සංඛ්‍යාව සිව් දෙනෙකු බවත්, මෙම වසරේ මාස දෙක තුළ සිදු වූ අනතුරු සමග ගත් කල ප්‍රතිශතයක් ලෙස සියයට සීය ඉක්මවීමක් බව පොලීසිය සඳහන් කරයි. මෙම දත්ත පිළිබඳ හෙළිවූයේ පෙරේදා ( 27දා ) කුරුඳුගහ හැතැප්ම, පෝද්දල පොලිස් බල ප්‍රදේශයේ අධිවේගී මාර්ගයේ නඩත්තු කටයුත්තක නිරත වෙමින් සිටි කොන්ත්‍රාත් පදනම මත සේවය කරන පුද්ගලයන් දෙදෙනෙකු අනතුරට ලක්ව මිය යාමත් සමගමය.
+
+ඒ ආකාරයෙන් මීට මාසයකට පමණ ඉහතදී එනම් ජනවාරි 25 වැනි දින රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ ඔහුගේ රියදුරු ලෙස කටයුතු කළ පොලිස් කොස්තාපල්වරයා කටුනායක කොළඹ අධිවේගී මාර්ගයේදී අනතුරකින් මියගියහ.
+
+එකී අනතුරු දෙකින් එම වාහනවල රියදුරන්ට කිසිදු තුවාලයක් සිදු නොවීම විශේෂත්වයකි.
+
+මෙම අනතුරු දෙකම අධික වේගයෙන් වාහන ධාවනය කිරීම හේතුවෙන් සිදු වූ මාරක අනතුරු බවට පොලිස් විමර්ශනවලදී අනාවරණය වී තිබිණ.
+
+◼️
+
+[Data](articles/62118c3f.json)
+
+---
+
 ### Police reveal about the murderers
 
 *2024-02-28 19:44:53* · [`adalk`](https://www.ada.lk/breaking_news/කුලී-ඝාතකයන්-ගැන-පොලීසියෙන්-හෙළිදරව්වක්/11-408338) · `si`
@@ -1945,83 +2015,5 @@ We have been strengthened as party. There will be many unexpected changes in pol
 [Data](articles/e2a33336.json)
 
 [Extended Data](ext_articles/e2a33336.ext.json)
-
----
-
-### Protesters block railway track after fatal train accident in Chilaw
-
-*2024-02-28 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97600/protesters-block-railway-track-after-fatal-train-accident-in-chilaw) · `en`
-
-A person was reportedly killed after being knocked down by a train plying from Colombo Fort to Chilaw.
-
-In response to the incident, area residents had blocked the railway track in protest, halting the train in Pulichchakulam, between Puttalam and Chilaw, on its way back to Colombo, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/2e539860.json)
-
-[Extended Data](ext_articles/2e539860.ext.json)
-
----
-
-### Objection to Puttalam train
-
-*2024-02-28 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193927) · `si`
-
-A warm quality of the village has arisen in the area with a protest with a protest in the area near the Pulichhekalakalakulam station.
-
-The train was killed and a young man who traveled from the motorcycle to Puttalam from the afternoon.
-
-The railway track protest has launched a protest by the villagers near the Chilawkulam railway station, while the trains were traveling from Puttalam to Chilaw.
-
-◼️
-
-[Data](articles/76b9a401.json)
-
-[Extended Data](ext_articles/76b9a401.ext.json)
-
----
-
-### Bangladeshi 20 tournament will be losing
-
-*2024-02-28 18:24:15* · [`adalk`](https://www.ada.lk/sports/පැතුම්ට-බංග්ලාදේශ-විස්සයි20-තරගාවලිය-අහිමි-වෙයි/9-408331) · `si`
-
-Sri Lanka squad for Bangladesh will be named in Bangladesh T20 tournament between the Sri Lankan team and Bangladesh.. The group of disorders were lost in the third match in the third match of the Twenty20 tournament with Afghanistan.
-
-Dilshan Madushang has been summoned to the group after a recovery after a disability.
-
-Wanindu Hasaranga is the leader of the group, but he is deprived of playing the first two matches. Because he was banned against him.
-
-1. Waranga Hasaranga - Leader, 2.Curri and Leader, 3. Kusal Mendis, 4. Saderaather Samarawickra, 5. Angelo Mathews, 6. View Shana, 7. Mah Meh. Dhananjaya de Silva, 09. Kusal Janith Perera, 10. Dilshan Madushanka, 11. Nuwan Thushara, 12. Anaba Pathira, 13.ABinura Fernando, 15, Mendis, 16. ASSFA Fernando - (instead of the wishes neddoms), 17. Jeffrey Vander
-
-◼️
-
-[Data](articles/4cca6a31.json)
-
-[Extended Data](ext_articles/4cca6a31.ext.json)
-
----
-
-### 40 crores to the development of highway mountainous areas
-
-*2024-02-28 18:15:16* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලේ-කඳුකර-ප්‍රදේශ-සංවර්ධනයට-කෝටි-40ක්/11-408330) · `si`
-
-The Minister of Urban Development and Housing Prasanna Ranatunga said that Rs.
-
-He was speaking at a special coordinating committees held at the Hall de Gall hall in Galle.
-
-The meeting was held under the patronage of Minister of Prasanna Ranatunga to inform State Officers on the Multipurpose Rural and Community Development Program of the Mountain Rural and Community Development Program.
-
-The Minister said that 1024 to 2033, the 11th year program was allocated from this year's budget for the 11 of these districts.
-
-Accordingly, 157 Grama Niladhari Divisions have been selected for this program at Neluwa, Neluwa, Neluwa, Niyagama and Niyagama Divisional Secretariat Divisions.
-
-The Minister said that the Galle, Matale, Nuwara Eliya, Ratnapura, Matara, Kalutara, Kalutara, Kalutara, Kalutara, Kalutara, Ampara, Ampara and Ampara districts will be implemented.
-
-◼️
-
-[Data](articles/39cbd281.json)
-
-[Extended Data](ext_articles/39cbd281.ext.json)
 
 ---

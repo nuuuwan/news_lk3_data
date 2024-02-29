@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 23:02:13**
+As of **2024-02-29 23:17:41**
 
 ## Newspaper Stats
 
-*Scraped **10,105** Articles*
+*Scraped **10,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 525
 dailyftlk | 528
 islandlk | 531
 adalk | 864
-adaderanalk | 1,220
-tamilmirrorlk | 1,228
+adaderanalk | 1,223
+tamilmirrorlk | 1,229
 virakesarilk | 1,388
 dailymirrorlk | 1,528
 adaderanasinhalalk | 1,540
@@ -26,11 +26,49 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,104 (100.0%) of 10,105 articles have been extended.
+10,105 (100.0%) of 10,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Dozens killed waiting for aid in Gaza, overall death toll passes 30,000
+
+*2024-02-29 22:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97639/dozens-killed-waiting-for-aid-in-gaza-overall-death-toll-passes-30000) · `en`
+
+(Reuters) - Gaza health authorities said more than 100 Palestinians were shot dead by Israeli forces as they waited for an aid delivery on Thursday, but Israel challenged the death toll and said many of the victims were run over by aid trucks.
+
+At least 104 people were killed and more than 280 wounded in the incident near Gaza City, Palestinian health officials said, and the death toll in nearly five months of war passed 30,000.
+
+Medical teams said they were unable to cope with the volume and severity of the injuries, with dozens of wounded taken to the al-Shifa hospital, which is only partially operational after Israeli raids on the facility.
+
+The incident caused the largest loss of civilian lives in weeks. Palestinian President Mahmoud Abbas said it was an “ugly massacre conducted by the Israeli occupation army on people who waited for aid trucks at the Nabulsi roundabout”.
+
+...
+
+[Data](articles/0f5db2a0.json)
+
+---
+
+### தமிழக அரசுக்கு உயர் நீதிமன்றம் உத்தரவு
+
+*2024-02-29 22:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-அரசுக்கு-உயர்-நீதிமன்றம்-உத்தரவு/175-334015) · `ta`
+
+சாந்தனின் உடலை இலங்கை கொண்டு செல்ல நடவடிக்கை எடுக்க தமிழக அரசுக்கு சென்னை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+சாந்தன் திருச்சி முகாமில் உயிருடன் இருக்கும்போதே, இலங்கையில் உள்ள தனது தாய் நோய்வாய்ப்பட்டுள்ளதால் அவரை கவனிக்க இலங்கை செல்ல வேண்டும். எனவே இலங்கைக்கு அனுப்பி வைக்க உரிய நடவடிக்கை எடுக்க வேண்டும் என்று சென்னை உயர் நீதிமன்றத்தில் வழக்குத் தொடர்ந்தார்.
+
+சாந்தன் தொடர்ந்த வழக்கு இன்று விசாரணைக்கு வந்தபோது, நீதிபதிகள் சுரேஷ் குமார், குமரேஷ் பாபு இருவரும், சாந்தனை இலங்கை அனுப்ப அனுமதி வழங்கியது எப்போது என்றும் மத்திய அரசிடம் வினா எழுப்பினர்.
+
+மத்திய அரசு தரப்பிலோ, கடந்த ஜனவரி 22-ம் திகதியே அவருக்கு இலங்கை செல்ல அனுமதி அளிக்கப்பட்டது என்று தெரிவிக்கப்பட்டது
+
+இதை கேட்ட நீதிபதிகள், "மத்திய அரசு ஜனவரி 22ம் திகதியே அனுமதி அளித்த பிறகும் சாந்தனை ஏன் இலங்கைக்கு அனுப்பவில்லை" என்று தமிழக அரசுக்கு கேள்வி எழுப்பினர்.
+
+...
+
+[Data](articles/feae87de.json)
+
+---
 
 ### Sri Lanka's red alert to Jayanath Butut in Sri Lanka
 
@@ -53,6 +91,40 @@ Former Health Minister Keheliya Rambukwella and the seven suspects were remanded
 [Data](articles/b30090ba.json)
 
 [Extended Data](ext_articles/b30090ba.ext.json)
+
+---
+
+### President attends first-ever SLAF night passing out parade
+
+*2024-02-29 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97638/president-attends-first-ever-slaf-night-passing-out-parade) · `en`
+
+The historic first-ever night passing out parade for Sri Lanka Air Force (SLAF) cadet officers took place under the patronage of President Ranil Wickremesinghe at the SLAF Academy in China Bay on Thursday (29).
+
+A total of 58 officers of the air force graduated as the SLAF Academy passing out parade was held in the night for the first time.
+
+◼️
+
+[Data](articles/dc95318c.json)
+
+---
+
+### SLCERT to introduce National Cyber Security Act within the year
+
+*2024-02-29 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97637/slcert-to-introduce-national-cyber-security-act-within-the-year) · `en`
+
+The State Minister for Technology, Mr. Kanaka Herath, announced that the anticipated National Cyber Security Act will be introduced this year, followed by the establishment of the Cyber Security Authority.
+
+Additionally, the State Minister underscored the preparations made for the Digital Economy Summit scheduled to take place in Sri Lanka by the end of July.
+
+The summit serves as a platform for fostering innovation, collaboration, and investment in digital technologies, thus propelling the country towards a more resilient and prosperous digital economy, he said.
+
+Speaking at a press briefing titled “Collective Path to a Stable Country” held at the President Media Centre (PMC) today (29),
+
+The digital economy, which previously stood at 4.73%, has now surpassed the 5% mark, indicating significant growth.
+
+...
+
+[Data](articles/d25a62e4.json)
 
 ---
 
@@ -103,6 +175,8 @@ He also asserted that during the Aragalaya, he faced criticism and accusations, 
 ...
 
 [Data](articles/671bdfd9.json)
+
+[Extended Data](ext_articles/671bdfd9.ext.json)
 
 ---
 
@@ -1971,87 +2045,5 @@ The arrest came hot on the heels of pressure from civil society activists and he
 [Data](articles/1e53bbb8.json)
 
 [Extended Data](ext_articles/1e53bbb8.ext.json)
-
----
-
-### Private bus operators strike in Jaffna
-
-*2024-02-29 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97620/private-bus-operators-strike-in-jaffna) · `en`
-
-The operators of private passenger buses in Jaffna have withdrawn from passenger transport services since this morning (Feb. 29).
-
-The commuters were severely inconvenienced as both long-distance and short-distance private passenger buses had joined the strike action, Ada Derana reporter said.
-
-The strike action was reportedly launched demanding a permanent bus stand for the private passenger buses in Jaffna, according to the reporter.
-
-Meanwhile, the striking private bus operators also held a demonstration in front of the Jaffna Bus Depot.
-
-◼️
-
-[Data](articles/735b6e95.json)
-
-[Extended Data](ext_articles/735b6e95.ext.json)
-
----
-
-### Sri Lanka president’s party claims opposition SJB members to join them after March 10
-
-*2024-02-29 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-party-claims-opposition-sjb-members-to-join-them-after-march-10-152526/) · `en`
-
-ECONOMYNEXT — A large group of main opposition Samagi Jana Balawegaya (SJB) members will join President Ranil Wickremesinghe’s United National Party (UNP) after March 10, United National Party (UNP) general secretary Palitha Range Bandara claimed.
-
-Fielding questions from reporters on Wednesday February 28, Bandara said that some SJB members are expected to join a UNP rally to be held on March 10 in Kuliyapitiya marking the beginning of Wickremesinghe’s campaign.
-
-“Yes, the SJB will come. I don’t know if all those people mentioned will leave [SJB leader] Sajith Premadasa,” the UNP general secretary said.
-
-“After March 10, a majority of SJBers will join us,” he said.
-
-...
-
-[Data](articles/c08eb8f8.json)
-
-[Extended Data](ext_articles/c08eb8f8.ext.json)
-
----
-
-### Semasinghe rubbishes reports claiming transfer of economic centers to foreign country
-
-*2024-02-29 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97619/semasinghe-rubbishes-reports-claiming-transfer-of-economic-centers-to-foreign-country-) · `en`
-
-State Minister of Finance Shehan Semasinghe has asserted that the Government of Sri Lanka has not made a decision to transfer the country’s economic centers to a foreign country through an economic cooperation agreement.
-
-Taking to ‘X’ (formerly Twitter), the State Minister noted that despite recent media reports, no such decision has been taken nor discussed.
-
-Thus, he urged for stakeholders to refrain from falling for such false misinformation.
-
-“In the current economic and other reform agenda, no decision has been taken or discussed to transfer economic centers to a foreign country through an economic cooperation agreement. Urge stakeholders not fall for the activities of opposition political groups who don’t tolerate economic stabilization of the country based on such false information”, his statement on ’X’ read.
-
-◼️
-
-[Data](articles/66207411.json)
-
-[Extended Data](ext_articles/66207411.ext.json)
-
----
-
-### Santhan's mother - Gajendrakumar Ponnambalam
-
-*2024-02-29 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177575) · `ta`
-
-While thousands of people have been detained and disappeared in prisons and prevention of Indian and other countries….Mr. Shantan's mother is the overall mark of the plight of the mothers who are looking for them.
-
-Mr. Shantan, who had been inadequate medical facilities in the Indian soil for 33 years, was released for one and a half years after the release of the Indian states.The news that he passed away has caused all of us in distress.
-
-No words will heal the grief of her mother and family, waiting for her son's face after 33 years.
-
-While thousands of people have been detained and disappeared in prisons and prevention of Sri Lanka and other countries by the deadly genocide….
-
-Mr. Santhan's mother is today the overall symbol of the plight of the mothers who wander.
-
-◼️
-
-[Data](articles/89a20c11.json)
-
-[Extended Data](ext_articles/89a20c11.ext.json)
 
 ---

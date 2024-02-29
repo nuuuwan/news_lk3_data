@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 16:04:11**
+As of **2024-02-29 16:17:27**
 
 ## Newspaper Stats
 
-*Scraped **10,011** Articles*
+*Scraped **10,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 514
 dailyftlk | 528
 islandlk | 531
 adalk | 851
-adaderanalk | 1,211
 tamilmirrorlk | 1,212
+adaderanalk | 1,213
 virakesarilk | 1,378
 dailymirrorlk | 1,512
 adaderanasinhalalk | 1,522
@@ -26,11 +26,49 @@ adaderanasinhalalk | 1,522
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,011 (100.0%) of 10,011 articles have been extended.
+10,011 (100.0%) of 10,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Colombo’s consumer price inflation dips to 5.9% in February
+
+*2024-02-29 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97627/colombos-consumer-price-inflation-dips-to-59-in-february-) · `en`
+
+The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on a Year-on-Year (Y-on-Y) basis, has further decreased to 5.9% in February, compared to the previous month.
+
+The CCPI-based inflation was calculated as 6.4% for the month of January 2024.
+
+According to the latest report issued by the Department of Census & Statistics (DCS), the inflation for all items for the month of February has decreased from 200.7 to 200.6 points, indicating a percentage change from 6.4% to 5.9% from January 2024.
+
+The Y-on-Y inflation of Food Group was recorded at 3.5% in February, showing a minor increase from the 3.3% recorded last month, while the Y-on-Y inflation of Non Food Group decreased to 7.0% from 7.9% in January this year.
+
+...
+
+[Data](articles/39fc4f21.json)
+
+---
+
+### Sri Lanka signs security pact with US to prevent illicit maritime trafficking in nuclear and radioactive material
+
+*2024-02-29 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97626/sri-lanka-signs-security-pact-with-us-to-prevent-illicit-maritime-trafficking-in-nuclear-and-radioactive-material) · `en`
+
+Sri Lanka has signed a nuclear security pact with the United States to detect and interdict illicit trafficking in special nuclear material and other radioactive material, as part of the efforts to address the growing global security threats.
+
+The Sri Lankan Navy signed the Memorandum of Understanding with the US National Nuclear Security Administration at the Navy headquarters here on Wednesday.
+
+The MoU was signed in the presence of the US Ambassador to Sri Lanka, Julie Chung and the Commander of the Sri Lanka Navy, Vice Admiral Priyantha Perera, according to media reports on Thursday.
+
+“The U.S.-Sri Lanka partnership in addressing global security threats is ever-growing,” Ambassador Chung posted on X.
+
+The new MOU between the Sri Lanka Navy and the U.S. Department of Energy’s National Nuclear Security Administration will “bolster our joint efforts to prevent illicit maritime trafficking in nuclear and radioactive material,” she wrote.
+
+...
+
+[Data](articles/0a81a8b0.json)
+
+---
 
 ### President Ranil meets new IGP
 
@@ -2019,55 +2057,5 @@ It might have a huge effect on hydro power generation as well, making in turn a 
 [Data](articles/e0357722.json)
 
 [Extended Data](ext_articles/e0357722.ext.json)
-
----
-
-### 2024-02-28 (Wednesday)
-
-### Sri Lankan captain Asalanga in the first two T20 matches with Bangladesh;Avishka in response to Bethum
-
-*2024-02-28 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177554) · `ta`
-
-Sarid Asalanka will be the captain of the Sri Lankan team in the first two matches for the three -match International T20 Cricket Series, which begins on March 4 in Chillhead against Bangladesh.
-
-Sarid Asalank will be captained by Sri Lanka for the first time in the international T20 cricket match.
-
-At the end of the 3rd ODI match against Afghanistan, field mediator Linden Hanibale was banned by Hazaranga for a crime of 2 international T20s.
-
-However, in the third T20 cricket match, Hazaranga will again take over the chairman.
-
-Meanwhile, Nissanka, who retired from the last international ODI match with Afghanistan, has been given retirement from Nissanka.
-
-In the International ODI series against Afghanistan, he has accumulated two half centuries and showcased his talent.
-
-The electors have joined him in the internationally limited over cricket matches.
-
-Spinner Jevery Vendasee has been reinstated two years later in the T20 group. He was last played in Dambulla against India in February 2022.
-
-...
-
-[Data](articles/08cb1657.json)
-
-[Extended Data](ext_articles/08cb1657.ext.json)
-
----
-
-### Indian, Sri Lankan governments and Tamil leaders should be held responsible for the death of Shantan - the voice organization of the voiceless
-
-*2024-02-28 23:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177553) · `ta`
-
-The Indian, Sri Lankan governments and Tamil leaders should take responsibility for the death of Shantan, said M Komagan, coordinator of the voice organization.
-
-He made this statement during a media briefing held at the Jaffna Media Center on Wednesday (28)
-
-MKomagan has questioned why he was unable to release the Indian fishermen if he could be released overnight on the basis of reconciliation on the basis of reconciliation.
-
-He added that steps should be taken to release the political prisoners detained in Sri Lanka.
-
-◼️
-
-[Data](articles/426e6a98.json)
-
-[Extended Data](ext_articles/426e6a98.ext.json)
 
 ---

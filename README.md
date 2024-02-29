@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 07:51:50**
+As of **2024-02-29 08:02:27**
 
 ## Newspaper Stats
 
-*Scraped **9,931** Articles*
+*Scraped **9,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ adaderanalk | 1,193
 tamilmirrorlk | 1,205
 virakesarilk | 1,373
 dailymirrorlk | 1,499
-adaderanasinhalalk | 1,500
+adaderanasinhalalk | 1,502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,931 (100.0%) of 9,931 articles have been extended.
+9,931 (100.0%) of 9,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### HIV ආසාදිතයින් සියයට 14කින් ඉහළට
+
+*2024-02-29 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193936) · `si`
+
+HIV නව ආසාදිතයින් වාර්තා වීම සියයට 14කින් පමණ ඉහළ ගොස් ඇති බව ජාතික ලිංගාශ්‍රිත රෝග හා ඒඩ්ස් මර්දන වැඩසටහන පවසයි.
+
+2022 වසරට සාපේක්‍ෂව 2023 වසරේදී HIV නව ආසාදිතයින් සියයට 14.3ක වර්ධනයක් පෙන්නුම් කරන බව එහි අධ්‍යක්ෂ ප්‍රජා වෛද්‍ය විශේෂඥ වෛද්‍ය ජානකී විදානපතිරණ මහත්මිය සඳහන් කළාය.
+
+පසුගිය වසරේ දී නව HIV ආසාදිතයින් 694 දෙනෙකු හඳුනාගෙන ඇති අතර ඉන් වැඩි දෙනෙකු පිරිමි පුද්ගලයින් වේ.
+
+ඒ අනුව පිරිමි පුද්ගලයින් 611 දෙනෙකු නව ආසාදිතයින් ලෙස හඳුනාගෙන ඇති අතර එය ප්‍රතිශතයක් ලෙස සියයට 88ක් බව විශේෂඥ වෛද්‍ය ජානකී විදානපතිරණ මහත්මිය සඳහන් කළාය.
+
+එමෙන්ම එම කාලය තුළ කාන්තාවන් 81 දෙනෙකු නව HIV ආසාදිතයින් ලෙස හඳුනාගෙන ඇති අතර එය ප්‍රතිශතයක් ලෙස සියයට 11.7කි.
+
+ඒ අනුව මේ වන විට සමාජ තුළ සිටින ඇස්තමේන්තුගත HIV ආසාදිතයින් සංඛ්‍යාව 4,100ක් පමණ වන බව වාර්තා වේ.
+
+මේ අතර යම් පුද්ගලයෙකු හට HIV ආසාදනය වී ඇත්නම් එහි රෝග ලක්ෂණ පෙන්වීම සඳහා වසර අටක පමණ කාලයක් ගත වන බව විශේෂඥ වෛද්‍ය ජානකී විදානපතිරණ මහත්මිය පවසන්නීය.
+
+...
+
+[Data](articles/3df64ac3.json)
+
+---
+
+### නාවික නිදහස රකින්න කැපවී සිටින බවට ජනපතිගෙන් ප්‍රකාශයක්
+
+*2024-02-29 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193935) · `si`
+
+ඉන්දියානු සාගරයේ නාවික නිදහස ආරක්ෂා කිරීම අරමුණු කරගත් උපාය මාර්ගික ස්ථාවරත්වයක් වෙනුවෙන් ශ්‍රී ලංකාව කැපවී සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පෙන්වා දෙන්නේ, නාවික නිදහස වෙනුනේ ශ්‍රී ලංකාව දක්වන කැපවීම හේතුවෙන් රතු මෙහෙයුම් සඳහා දායකවීමට තීරණය කළ බවය.
+
+සය දින යුද්ධය නිසා වසර 10ක් තිස්සේ සූවස් ඇළ වසා තැබීම කොළඹ වරායට අහිතකර ලෙස බලපෑ ආකාරය සිහිපත් කළ ජනාධිපතිවරයා සීමාවලින් තොරව නාවික කටයුතු සහත කිරීමේ අවශ්‍යතාව පෙන්වා දී තිබේ.
+
+ඊයේ (28) කොළඹ දී ආරම්භ කෙරුණු 'පාත් ෆයින්ඩර්' පදනම සංවිධානය කරන ඉන්දියානු සාගර ආරක්ෂක සමුළුවේ තෙවන අදියරේ ප්‍රධාන දේශනය සිදුකරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව ප්‍රකාශ කළේය.
+
+ශ්‍රී ලංකාව මෙන්ම කලාපිය සහ ගෝලීය වශයෙන් අප සැමට මුහුණදීමට සිදුව ඇති ප්‍රධාන පක්ෂවලින් එකක් ආමන්ත්‍රණය කිරීම සඳහා 'පාත් ෆයින්ඩර්' පදනම සමඟ එක්වීමට ලැබීම සතුටට කරුණක් බව ජනාධිපතිවරයා එහිදි පෙන්වා දුනි.
+
+...
+
+[Data](articles/0942e25f.json)
+
+---
 
 ### Minor showers to several areas
 
@@ -1971,45 +2015,5 @@ The State Minister stated that he was confident that the International Monetary 
 [Data](articles/c17e5c1d.json)
 
 [Extended Data](ext_articles/c17e5c1d.ext.json)
-
----
-
-### Sri Lanka stocks close up, retail activity coming in
-
-*2024-02-28 16:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-retail-activity-coming-in-152437/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 55.29 points, or 0.52 percent at 10,678; while the S&P SL20 Index closed up at 3,056 points, up 0.06 percent, or 1.73 points.
-
-Market participants said that “retail activity is also picking up.”
-
-Hemas Holdings Plc saw large volumes being traded, contributing 90 million to the day’s turnover. The share closed up at 75.00.
-
-Kapruka Holdings Plc announced that it had purchased 197,015 ordinary voting shares of its subsidiary Kapruka e-Commerce (Pvt) Ltd for 13.2 million rupees at 67 a share. The proceeds will be used by Kapruka e-Commerce “to fulfill the IPO objective of launching Kapruka Partner Central, the company said. The share closed down at 6.80.
-
-...
-
-[Data](articles/243b804c.json)
-
-[Extended Data](ext_articles/243b804c.ext.json)
-
----
-
-### The prices of juices rise
-
-*2024-02-28 16:17:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளநீரின்-விலை-எகிறுகிறது/175-333954) · `ta`
-
-Due to the high temperature in the country during the day, the price of juices has increased by 200 rupees in Colombo and its adjoining areas.
-
-At an orange shop near the Colombo port entrance, a juvenile was sold for Rs.
-
-It is worth noting that two weeks ago, the price of a juvenile in Colombo ranged from 120 to 140 rupees.
-
-◼️
-
-[Data](articles/5ee81c31.json)
-
-[Extended Data](ext_articles/5ee81c31.ext.json)
 
 ---

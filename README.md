@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 22:17:41**
+As of **2024-02-29 22:32:47**
 
 ## Newspaper Stats
 
-*Scraped **10,095** Articles*
+*Scraped **10,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ islandlk | 531
 adalk | 863
 adaderanalk | 1,220
 tamilmirrorlk | 1,228
-virakesarilk | 1,386
-dailymirrorlk | 1,524
+virakesarilk | 1,388
+dailymirrorlk | 1,527
 adaderanasinhalalk | 1,537
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,094 (100.0%) of 10,095 articles have been extended.
+10,095 (100.0%) of 10,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### தேசிய சைபர் பாதுகாப்புச் சட்டத்தைக் கொண்டுவர திட்டம் : டிஜிட்டல் பொருளாதார மாநாடு ஜூலையில் - கனக ஹேரத்
+
+*2024-02-29 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177631) · `ta`
+
+தேசிய சைபர் பாதுகாப்புச் சட்டத்தை (National Cyber Security Act) இவ்வருடத்திற்குள் கொண்டு வர எதிர்பார்ப்பதாகவும் அதன் பின்னர் சைபர் பாதுகாப்பு அதிகார சபையை நிறுவவுள்ளதாகவும் தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் தெரிவித்தார்.
+
+டிஜிட்டல் பொருளாதாரத்தை வலுப்படுத்துவதன் மூலம் நாட்டின் பொருளாதாரத்தை மேம்படுத்தும் நோக்கில், டிஜிட்டல் பொருளாதார  மாநாட்டை ஜூலை மாத இறுதியில் இலங்கையில் நடத்த ஏற்பாடு செய்யப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (29) நடைபெற்ற ஊடகவியலாளர் மாநாட்டிலேயே இராஜாங்க அமைச்சர் இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/565cda24.json)
+
+---
+
+### Inflation slows down to 5.9% in February
+
+*2024-02-29 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inflation-slows-down-to-5-9-in-February/108-277979) · `en`
+
+The Colombo Consumer Price Index (CCPI), the official’s preferred inflation gauge deceased to 5.9 percent in February from the 6.4 percent recorded in January.
+
+In February, annual inflation (point) in the food category increased to 3.5 percent Year-on-Year (YoY). In January 2024 it was recorded at 3.3 percent.
+
+Meanwhile, the annual inflation (point) in non-food category for February 2024 eased to 7.0 percent as against 7.9 percent in January 2024.
+
+The CCPI Core in February increased to 177.2 from 176.2 the previous month.
+
+The general price level has increased to 100.6 percent compared to the index reference.
+
+◼️
+
+[Data](articles/87684f64.json)
+
+---
 
 ### First Local HD channel of the Freesat Television TV Derana
 
@@ -50,6 +86,40 @@ Accordingly, the audience will be able to view the TV Derana HD channel along to
 
 ---
 
+### வெப்பமான காலநிலை தொடர்பில் விடுக்கப்பட்டுள்ள எச்சரிக்கை!
+
+*2024-02-29 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177630) · `ta`
+
+அடுத்த 24 மணித்தியாலங்களுக்கு வெப்பமான காலநிலை நிலவும் என பல மாகாணங்கள் மற்றும் மாவட்டங்களுக்கு எச்சரிக்கை அறிவிப்பு விடுக்கப்பட்டுள்ளது.
+
+இதன்படி, வடமேற்கு, மேற்கு மற்றும் தெற்கு மாகாணங்கள் மற்றும்  இரத்தினபுரி மன்னார் மாவட்டங்களில் வசிக்கும் மக்களை அவதானமாக இருக்குமாறு வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+இந்தப் பகுதிகளில் வெப்பக் குறியீடு, அதாவது மனித உடலால் உணரப்படும் வெப்பம், 'கவனம்' தேவைப்படும் அளவில் இருக்கும் என்று குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/da6c8cf8.json)
+
+---
+
+### UNFPA Asia Pacific Regional Director calls on Prime Minister
+
+*2024-02-29 20:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-Asia-Pacific-Regional-Director-calls-on-Prime-Minister/108-277976) · `en`
+
+Colombo – United Nations Population Fund (UNFPA) Asia Pacific Regional Director, Pio Smith, who is engaged on an official visit to Sri Lanka, paid a courtesy call on Prime Minister Dinesh Gunawardena at the Temple Trees today.
+
+The meeting was marked by discussions highlighting UNFPA's longstanding engagement in Sri Lanka over the past 50 years as a key development partner.
+
+During the cordial meeting, the discussions centered on UNFPA's continuous commitment to advancing sexual and reproductive health (SRH), gender-based violence (GBV), and population dynamics in Sri Lanka.
+
+ecognizing Sri Lanka's efforts in promoting gender equality and women's empowerment, Mr. Smith explored opportunities to further support the country in achieving rights and choices for all citizens, particularly emphasizing the importance of equal opportunities for women and girls.
+
+...
+
+[Data](articles/efece4a6.json)
+
+---
+
 ### President declares open SLAF Cadet Officers
 
 *2024-02-29 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193974) · `si`
@@ -64,19 +134,23 @@ President Ranil Wickremesinghe was held today under the patronage of President R
 
 ---
 
-### கருத்தரிப்பதை தள்ளிப்போடும் பெண்கள்
+### Women who postpone fertility
 
 *2024-02-29 20:43:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கருத்தரிப்பதை-தள்ளிப்போடும்-பெண்கள்/175-334014) · `ta`
 
-மொத்த கருவுறுதல் விகிதம், ஒரு பெண் தன் வாழ்நாளில் பெற்றெடுக்கும் சராசரி குழந்தைகளின் எண்ணிக்கையை குறிக்கிறது.
+The total fertility rate refers to the number of average children who give birth in her lifetime.
 
-தென் கொரியாவில் கருவுறுதல் விகிதம் சரிவு மற்றும் மக்கள் தொகை வீழ்ச்சி முக்கிய பிரச்சினையாக மாறியுள்ளது. பொருளாதார ஒத்துழைப்பு மற்றும் மேம்பாட்டு அமைப்பில் உள்ள நாடுகளில், கருவுறுதல் விகிதம் கருவுறுதல் விகிதம் 1 சதவீதத்திற்கும் கீழ் உள்ள ஒரே நாடு தென் கொரியா ஆகும்.
+In South Korea, fertility rate decline and population decline has become the main issue. South Korea is the only country in the countries of the Economic Cooperation and Development System, the only country that is less than 1 percent of fertility rate.
 
-மொத்த கருவுறுதல் விகிதம், ஒரு பெண் தன் வாழ்நாளில் பெற்றெடுக்கும் சராசரி குழந்தைகளின் எண்ணிக்கையை குறிக்கிறது. தென் கொரிய பெண்ணின் வாழ்க்கையில் சராசரியாக எதிர்பார்க்கப்படும் குழந்தைகளின் எண்ணிக்கை 2022-ல் 0.78 ஆக இருந்தது. 2023-ல் 0.72 ஆக குறைந்துள்ளது என்று கொரிய புள்ளியல் தரவுகள் தெரிவிக்கின்றன.
+Total fertility rate refers to the number of average children who give birth to a woman in her lifetime. The average number of children in the South Korean woman's life was 0.78 by 2022. Korean statistical data suggest that it declined to 0.72 by 2023.
 
-...
+The government spends several crores of rupees to change this trend that led to the decline of population. However, women are postponing fertilization because they are worried about their career improvement, income and the costs of raising children, or without having to have children. Due to this, the total fertility rate continues to decline.
+
+◼️
 
 [Data](articles/02b3a737.json)
+
+[Extended Data](ext_articles/02b3a737.ext.json)
 
 ---
 
@@ -144,9 +218,15 @@ That is when the standard absolute antibodies and vaccination of vaccine is take
 
 *2024-02-29 20:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97636/ex-health-minister-keheliya-and-six-others-further-remanded) · `en`
 
-Former Health Minister Keheliya Rambukwella, former Health Ministry Secretary and 5 others have been further remanded until 14th March by the Maligakanda Magistrate Court over the import of substandard human immunoglobulin vials.
+Former Health Minister Keheliya Rambukwella, former Health Ministry Secretary Janaka Chandragupta and 5 others have been further remanded until 14th March by the Maligakanda Magistrate Court over the import of substandard human immunoglobulin vials.
 
-◼️
+Former Minister Rambukwella, who was in remand custody, was produced before the Maligakanda Magistrate’s Court earlier today (29), along with the other accused when the case was taken up.
+
+On 15 February, Rambukwella and six others including former Health Secretary Janaka Chandragupta were remanded until 29 February on orders of the Maligakanda Magistrate’s Court.
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
+
+...
 
 [Data](articles/d8a4e82f.json)
 
@@ -219,6 +299,28 @@ The owner of the bag puts his bag in the packet of packs above his seat on the t
 [Data](articles/704e3b0e.json)
 
 [Extended Data](ext_articles/704e3b0e.ext.json)
+
+---
+
+### ’We are close to each other’: Champika and Mano
+
+*2024-02-29 20:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-are-close-to-each-other-Champika-and-Mano/108-277975) · `en`
+
+Colombo, Feb 29 (Daily Mirror) -  The United Republic Front and the Tamil Progressive Alliance (TPA) are very close to each other and hold common ideologies most of the time, the leaders of the two parties said.
+
+United Republic Front leader Patali Champika Ranawaka and TPA leader Mano Ganesan came up with this common remark while speaking to journalists after a meeting they held in Colombo.
+
+MP Ranawaka met MP Ganesan at the latter's residence in Pamankada this morning.
+
+The two leaders said they are close to each other when journalists questioned them as to whether Ranawaka is forging a new alliance to face  future elections.
+
+"We sit next to each other in Parliament and exchange ideas. We have common ideologies most of the time. Wex like the TPA, feel that the plantation commimity is isolated and one of the groups which are mostly affected by the current economic crisis," Ranawaka said.
+
+"We want to establish a common national programme for the sake of the nation," he added.
+
+...
+
+[Data](articles/e1ff5da2.json)
 
 ---
 
@@ -1941,107 +2043,5 @@ It is not because the assassination of Dileepa Roshan Kumara was uniquely unorga
 [Data](articles/a9578909.json)
 
 [Extended Data](ext_articles/a9578909.ext.json)
-
----
-
-### Pending court cases should have been considered before IGP’s appointment: SJB
-
-*2024-02-29 13:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pending-court-cases-should-have-been-considered-before-IGPs-appointment-SJB/108-277962) · `en`
-
-Colombo, Feb. 29 (Daily Mirror)- The Samagi Jana Balawegaya (SJB) today alleged that court cases that are pending against Deshabandu Thennekoon should have been considered when appointing him as the IGP.
-
-"A person who is facing a number of court cases has been appointed as the IGP for the first time in Sri Lankan history. Court cases that are pending should have been considered when making the appointment," SJB General Secretary Ranjith Madduma Bandara said in a statement today.
-
-"The present IGP is charged as a suspect for the dissappearence of cash found at President's House during the Aragalaya. Human rights petitions have been filed against him for alledgedly harassing journalists," he added.
-
-Also, he said Tennekoon has been appointed by violating the Constitution.
-
-◼️
-
-[Data](articles/562f031b.json)
-
-[Extended Data](ext_articles/562f031b.ext.json)
-
----
-
-### Sri Lanka wants to ensure absence major power rivalries in Indian Ocean: president
-
-*2024-02-29 13:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-wants-to-ensure-absence-major-power-rivalries-in-indian-ocean-president-152513/) · `en`
-
-ECONOMYNEXT — President Ranil Wickremesinghe has highlighted Sri Lanka’s dedication to maintaining a strategic position aimed at ensuring the absence of major power rivalries and upholding freedom of navigation in the Indian Ocean.
-
-Speaking at the Pathfinder Indian Ocean Security Conference phase III held in Colombo on Wednesday February 28, Wickremesinghe said Sri Lanka’s commitment to freedom of navigation has prompted the country to engage in operations as “guardians of prosperity” in the Red Sea.
-
-A statement from the president’s office said that that Wickremesinghe had underscored the significance of the Suez Canal which he said was particularly evident during the Six-Day War when its closure for ten years negatively impacted the Colombo port. This highlighted the necessity of ensuring unrestricted navigation, he said.
-
-...
-
-[Data](articles/1280b7e5.json)
-
-[Extended Data](ext_articles/1280b7e5.ext.json)
-
----
-
-### A woman and man arrested for a mother of Italian jobs
-
-*2024-02-29 13:01:21* · [`adalk`](https://www.ada.lk/breaking_news/ඉතාලි-රැකියා-පෙන්වා-මුදල්-ගැරූ-කාන්තාවක්-හා-පිරිමියෙක්-අල්ලයි/11-408347) · `si`
-
-The Colombo Crimes Division says that a man and a male was arrested by a man and a man who had come to the Italian Embassy.
-
-The suspect is a sales promotion officer and the suspect is an accused of an accused.The suspect and the suspect had been arrested following the inquiry by the Association of the Italian embassy that the Italian Embassy was informed by the Ambassy of the Italian Embassy.
-
-Accordingly, the 5 units of the Colombo Crimes Division has been identified to the Colombo Magistrate's Court and arrested the suspects.
-
-Police investigations have revealed that the Mosquitoo is a prolonged in the place, as an armbrerator of an anvioner and is to be carried out by the Embassy.
-
-The suspect and the suspect have defrauded money from Alawwa Kahawatta Marawila and Kandana areas
-
-The suspect arrested for 50 years of age at Narahenpita, a resident of Colombo, Torrington Mawatha
-
-The suspect and the suspect are to be produced before the Colombo Chief Magistrate's Court.
-
-◼️
-
-[Data](articles/b2277af3.json)
-
-[Extended Data](ext_articles/b2277af3.ext.json)
-
----
-
-### Special notice from the Department of Motor Traffic
-
-*2024-02-29 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193951) · `si`
-
-Commissioner General Nishantha Anuruddha Anuruddha Anuruddha Weerasinghe says that it is inevitable for obtaining services from the 04 Department of Motor Traffic in the island.
-
-He was speaking at a press conference held in Colombo today, he said that an automated telephone number and website had been introduced.
-
-Commissioner General of Motor Traffic Nishantha Anuruddha Weerasinghe said
-
-...
-
-[Data](articles/18531b1e.json)
-
-[Extended Data](ext_articles/18531b1e.ext.json)
-
----
-
-### South Korea has given doctors till tonight to end a strike, or face prosecution
-
-*2024-02-29 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97618/south-korea-has-given-doctors-till-tonight-to-end-a-strike-or-face-prosecution) · `en`
-
-South Korea’s government made a last appeal to junior doctors to end a walkout, with hours left to go before the Thursday deadline on its threats to suspend medical licenses and prosecute the strikers.
-
-Thousands of medical interns and residents have been on strike for about 10 days to protest the government’s push to boost medical school enrollments. Government officials have warned that strikers would face legal repercussions if they don’t return to their hospitals by Thursday.
-
-As of Wednesday night, about 9,076 of the country’s 13,000 medical interns and residents were confirmed to have left their hospitals after submitting resignations, according to the Health Ministry.
-
-Observers say many strikers are likely to defy the deadline, continuing the labor boycott for weeks or months. The government is expected to begin formal steps toward punishments on Monday, as Friday is a national holiday.
-
-...
-
-[Data](articles/ce8f8fb4.json)
-
-[Extended Data](ext_articles/ce8f8fb4.ext.json)
 
 ---

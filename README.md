@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 20:33:12**
+As of **2024-02-29 20:50:08**
 
 ## Newspaper Stats
 
-*Scraped **10,080** Articles*
+*Scraped **10,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 525
 dailyftlk | 528
 islandlk | 531
-adalk | 861
-adaderanalk | 1,219
+adalk | 862
+adaderanalk | 1,220
 tamilmirrorlk | 1,227
-virakesarilk | 1,383
+virakesarilk | 1,385
 dailymirrorlk | 1,520
 adaderanasinhalalk | 1,533
 
@@ -26,11 +26,95 @@ adaderanasinhalalk | 1,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,078 (100.0%) of 10,080 articles have been extended.
+10,084 (100.0%) of 10,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Ex-Health Minister Keheliya and six others further remanded
+
+*2024-02-29 20:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97636/ex-health-minister-keheliya-and-six-others-further-remanded) · `en`
+
+Former Health Minister Keheliya Rambukwella, former Health Ministry Secretary and 5 others have been further remanded until 14th March by the Maligakanda Magistrate Court over the import of substandard human immunoglobulin vials.
+
+◼️
+
+[Data](articles/d8a4e82f.json)
+
+[Extended Data](ext_articles/d8a4e82f.ext.json)
+
+---
+
+### Financial assistance to get legal aid to police
+
+*2024-02-29 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177626) · `ta`
+
+New Police Chief Minister Deshabandu Tennakoon has granted permission from the Police Legal Aid Fund to provide legal assistance to police officers.
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said this.
+
+He said the funding would be provided to seek personal legal aid for the legal problems faced by the police while performing their duties.
+
+The Cabinet paper was presented in the Cabinet by the Minister of Public Security, Mrun Alles and had previously approved the Cabinet.
+
+In case of legal issues and the Attorney General's Department refusing to provide government legal aid or providing legal aid in the case of a police officer in connection with the proceedings within the limits of his duties, the police will get relief to the financial crises facing the help of a private lawyer and other legal services..
+
+◼️
+
+[Data](articles/0636e706.json)
+
+[Extended Data](ext_articles/0636e706.ext.json)
+
+---
+
+### A computer with security plans for the Olympic Festival. Openings are also stolen
+
+*2024-02-29 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177627) · `ta`
+
+A computer owned by a Paris City Hole Engineer with security plans for the 2024 Olympic Games in Paris and two USP. The bag with openings has been stolen. French officials are in great concern due to this theft.
+
+It is reported that there is important security information on the Olympic Games to be held from July 26, 2024 to August 11 in the French capital, Paris.
+
+This computer and two USB at the train station called Gaya to Nord. Openings have also been stolen.
+
+Computer owner Paris City Hole employee has appealed that theft took place shortly after boarding a train on the 18th platform at the Gaya to Nord Railway Station to travel to Crail.
+
+The incident took place at around 7.00 pm last Monday, police sources said.
+
+The owner of the bag puts his bag in the packet of packs above his seat on the train. After a while, he lodged a complaint with the police that he had noticed that the bag had disappeared.
+
+...
+
+[Data](articles/704e3b0e.json)
+
+[Extended Data](ext_articles/704e3b0e.ext.json)
+
+---
+
+### I'm not the riches of the sugar balls
+
+*2024-02-29 19:15:22* · [`adalk`](https://www.ada.lk/breaking_news/මම-සීනි-බෝල-ගේන-සොච්චම්-දේ-කරන-දේශපාලඥයෙක්-නොවෙයි/11-408364) · `si`
+
+The Ports and Aviation Minister Nimal Siripala de Silva said that when SriLankan Airlines was reformed by the SriLankan Airlines, he said that the company would resolve the issues of the organization.
+
+15500 km under the carpet developed project, the Minister said,
+
+"The government has many challenges. He is contemplating the country, and not meditating on popular politics.
+
+Now we have entered an agreement with the International Monetary Fund. We can spend income taxes. Money like it could not be molded. Whatever the government comes, they can't play that you say.
+
+You have to spend on the criteria of the International Monetary Fund.. Mr. Sajith Premadasa says. When he came to power, he talked to the International Finance Institute with the IMF to power and change these conditions.
+
+The IMF is led by Mr. Ranil Wickremesinghe, Mr. Ranil and Sajith Premadasa faces. There are conditions of their criticism and conditions according to the government.
+
+...
+
+[Data](articles/46077544.json)
+
+[Extended Data](ext_articles/46077544.ext.json)
+
+---
 
 ### Rajiv Gandhi assassination convict dies in India; mortal remains to be sent to Sri Lanka
 
@@ -64,17 +148,19 @@ Newly appointed Inspector-General of Police Deshabandu Tennakoon visited the Gan
 
 ---
 
-### கைதுக்கு எதிராக கெஹலிய மனுதாக்கல்
+### Keheliya petition against arrest
 
 *2024-02-29 19:00:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதுக்கு-எதிராக-கெஹலிய-மனுதாக்கல்/175-334013) · `ta`
 
-குற்றப் புலனாய்வுப் பிரிவினர் தம்மைக் கைதுசெய்ததைச் சவாலுக்கு உட்படுத்தி,  100 மில்லியன் ரூபாய் நட்டஈடு வழங்குமாறு கோரி, முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல, உயர் நீதிமன்றில் அடிப்படை உரிமை மீறல் மனுவொன்றை தாக்கல் செய்துள்ளார்.
+Former Health Minister Keheliya Rambukwella has filed a fundamental rights violation petition in the Supreme Court demanding a compensation of Rs 100 million, challenging the Criminal Investigation Department's arrest.
 
-தரமற்ற இம்யுனோகுளோபியுலின் தடுப்புசிகளை இறக்குமதி செய்த குற்றச்சாட்டில் குற்றப் புலனாய்வு திணைக்களத்தால் கடந்த இரண்டாம் திகதி கைது செய்யப்பட்ட கெஹலிய விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+It is noteworthy that Keheliya was arrested by the Criminal Investigation Department (CID) on the charge of importing substandard immunoglobulin barricades on the second day.. Remble
 
 ◼️
 
 [Data](articles/97f31230.json)
+
+[Extended Data](ext_articles/97f31230.ext.json)
 
 ---
 
@@ -692,19 +778,21 @@ The petition further sought a court order stating that former President Sirisena
 
 ---
 
-### கொலை வழக்காக பதிவு
+### Murder
 
 *2024-02-29 16:06:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொலை-வழக்காக-பதிவு/175-334004) · `ta`
 
-பல்வேறு கோரிக்கைகளை வலியுறுத்தி விவசாயிகள் புது டெல்லியை நோக்கி பேரணி நடத்த முடிவு செய்தனர். இதற்காக பஞ்சாப் மற்றும் அரியானா மாநிலத்தில் இருந்து புறப்பட்டனர். ஆனால் அரியானா, பஞ்சாப் மாநில எல்லைகள் மூடப்பட்டு, விவசாயிகள் புது டெல்லி நோக்கி செல்லாத வகையில் தடுப்புகள் அமைக்கப்பட்டன.
+Farmers decided to march towards New Delhi, demanding various demands. They departed from the state of Punjab and Haryana for this. But the borders of the state of Haryana and Punjab were closed and barricades were set up so that farmers did not move to New Delhi.
 
-கடந்த 21- ஆம் திகதி பஞ்சாப் - அரியானா எல்லை கனாரி பகுதியில் தடுப்புகளை தாண்டி விவசாயிகள் புது டெல்லி நோக்கி புறப்பட முயன்றனர். அப்போது பஞ்சாப் எல்லைக்குள் புகுந்து அரியானா பொலிஸார் விவசாயிகள் மீது தாக்குதல் நடத்தினர். அப்போது துப்பாக்கிச்சூடு நடத்தியதாக தெரிகிறது. இதில் சுப்கரண் சிங் என்ற 21 வயது இளம் விவசாயி பரிதாபமாக உயிரிழந்தார். அதேவேளையில் 12 பாதுகாப்பு பொலிஸாரும் காயம் அடைந்தனர்.
+On the 21st of this month, farmers tried to move to New Delhi over the Punjab -Haryana border.. The Haryana police then entered the Punjab border and attacked the farmers. Seems to have carried out the shooting then. Subkaran Singh, a 21 -year -old young farmer, died tragically. At the same time, 12 security police were injured.
 
-சுப்கரண் மரணத்திற்கு நீதி கிடைக்க வேண்டும் என விவசாயிகள் போராட்டத்தில் ஈடுபட்டனர். மேலும் சுப்கரண் சிங் மரணத்தை கொலை வழக்காக பதிவு செய்ய வேண்டும். அதுவரை அவரது உடலை அடக்கம் செய்யமாட்டோம் என அறிவித்தனர்.
+Farmers went on strike demanding justice for Subkaran's death. Also, Subkaran Singh's death should be registered as a murder case. Until then, they announced that he would not bury his body.
 
 ...
 
 [Data](articles/83e7e0b0.json)
+
+[Extended Data](ext_articles/83e7e0b0.ext.json)
 
 ---
 
@@ -1985,87 +2073,5 @@ Gunawardena said that a recent incident of a trainee driver ploughing into a cro
 [Data](articles/75cc9d8a.json)
 
 [Extended Data](ext_articles/75cc9d8a.ext.json)
-
----
-
-### Nagananda abolish the lawyer's lawyer
-
-*2024-02-29 11:53:28* · [`adalk`](https://www.ada.lk/breaking_news/නාගානන්ද-කොඩිතුවක්කුගේ-නීතිඥභාවය-අහෝසි-කරයි/11-408346) · `si`
-
-The Supreme Court today (29) has decided to abolish the lawyer of lawyer Nagananda Kodituwakku.After hearing a complaint against him, the Supreme Court expressed the verdict.
-
-Priyantha Jayawardena, Joy Padman Surasena and S. The verdict has been given by a three-member judiciary panel with Triiraja.
-
-◼️
-
-[Data](articles/ac1caf5f.json)
-
-[Extended Data](ext_articles/ac1caf5f.ext.json)
-
----
-
-### Investigation into teacher's teacher in social media
-
-*2024-02-29 11:52:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c84njzgl1vpo) · `si`
-
-Investigation into teacher's teacher in social media
-
-A video of a child who is crying has led to a broadly debate in social media. The short video was exchanged in the social media from the same day on February 27, and the child is crying and the teacher is crying with the questions that the teacher asked the child.
-
-The video is exchanged with the ideas about the child's pet, but now exchanges on the seriousness of it. Most social media users have commented that the video should be implemented against the teacher of social media and the teacher of the teacher.
-
-The school matters of the Ministry of Education inquired about whether an investigation was conducted on the school teacher regarding the questionable incident.
-
-However, inquiry by the Ministry of Education, the section stated that his sector will not be made aware of such an investigation and that the investigation will be carried out under the Provincial Council.
-
-...
-
-[Data](articles/a739fcaa.json)
-
-[Extended Data](ext_articles/a739fcaa.ext.json)
-
----
-
-### Sri Lanka leaves the island
-
-*2024-02-29 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193948) · `si`
-
-Sri Lanka leaving the island today with Bangladesh.
-
-Prior to that, the Sri Lankan team was engaged in religious observances in Sri Lanka Cricket.
-
-The Sri Lankan squad was announced yesterday for the 3-match tournament with Bangladesh.
-
-Charith is the responsibility of leading the team for the first two matches due to permanent leader Moratuwa Hasaranga.
-
-It is also included in the squad for the 20/20 tournament.
-
-The rest of the 20/20 pool, Kusal Mendis, Sedara Samarawicka, Dhananju De Silva, Kusal Janith Pathirana, Akila Fernando, Kaminda Mendis.
-
-The first Twenty20 match between the two countries will commence on March 4.
-
-◼️
-
-[Data](articles/8c2f836d.json)
-
-[Extended Data](ext_articles/8c2f836d.ext.json)
-
----
-
-### Online Act - Fr petition refuted
-
-*2024-02-29 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193947) · `si`
-
-President's Counsel MP Attorney at Law to decide how the Act on On-On-On-Up Act was passed in Parliament. it. The Supreme Court today (29) decided to dismiss the fundamental rights petition filed by Mr. Sumanthiran.
-
-Priyantha Jayawardene, Shiran Gunaratne and Achala Vingappeodi were also sentenced to these decisions.
-
-The petition was presented by MP Sumanthiran demanding a decision that the Supreme Court's amendments were not included in the relevant bill.
-
-◼️
-
-[Data](articles/c4333bac.json)
-
-[Extended Data](ext_articles/c4333bac.ext.json)
 
 ---

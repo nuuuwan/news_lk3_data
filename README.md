@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 18:08:41**
+As of **2024-02-29 18:20:02**
 
 ## Newspaper Stats
 
-*Scraped **10,051** Articles*
+*Scraped **10,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 99
 bbccomsinhala | 122
 dbsjeyarajcom | 168
 newsfirstlk | 363
-economynextcom | 514
+economynextcom | 522
 dailyftlk | 528
 islandlk | 531
-adalk | 857
+adalk | 858
 adaderanalk | 1,216
-tamilmirrorlk | 1,224
-virakesarilk | 1,381
+tamilmirrorlk | 1,225
+virakesarilk | 1,382
 dailymirrorlk | 1,518
 adaderanasinhalalk | 1,530
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 1,530
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,051 (100.0%) of 10,051 articles have been extended.
+10,051 (99.9%) of 10,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### பெருந்தோட்ட மக்களின் நலன் கருதி த.மு.கூட்டணியினர் செயற்படுவர் - பாட்டலி சம்பிக்க ரணவக்க நம்பிக்கை
+
+*2024-02-29 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177616) · `ta`
+
+பெருந்தோட்ட மக்களின் நலன் கருதி தமிழ் முற்போக்கு கூட்டணியினர் சிறந்த அரசியல் தீர்மானம் எடுப்பார்கள் என்று எதிர்பார்க்கிறேன். கடந்த ஜனாதிபதி தேர்தல் மற்றும் பொதுத்தேர்தலில் நாங்கள் ஒன்றிணைந்து செயற்பட்டோம். தொடர்ந்து ஒன்றிணைந்து செயற்படுவதில் சிக்கலில்லை என ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+தமிழ் முற்போக்கு கூட்டணிக்கும்,ஐக்கிய குடியரசு முன்னணிக்கும் இடையிலான கலந்துரையாடல் கொழும்பு பாமன்கடையில் உள்ள தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசனின் இல்லத்தில் வியாழக்கிழமை (29) இடம்பெற்றது. இந்த கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நாட்டுக்காக ஒன்றிணையும் முயற்சி என்ற செயற்திட்ட யோசனையை கடந்த 14 ஆம் திகதி வெளியிட்டோம்.மனித நேயமிக்க கூட்டணியை அமைப்பதற்கு எமது பிரதான இலக்காகும்.ஸ்ரீ லங்கா பொதுஜன பெரமுனவை தவிர்த்து ஏனைய அரசியல் கட்சிகளுடன் எதிர்வரும் நாட்களில் பேச்சுவார்த்தையில் ஈடுபடவுள்ளோம்.
+
+...
+
+[Data](articles/437c6141.json)
+
+---
+
+### அஸ்வெசும பயனாளிகள் அனைவருக்கும் நிவாரணம்
+
+*2024-02-29 17:43:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-பயனாளிகள்-அனைவருக்கும்-நிவாரணம்/175-334012) · `ta`
+
+அஸ்வெசும நலன்புரி பயனாளிகள் அனைவருக்கும் விரைவில் நிவாரணம் வழங்கப்படும் என்றும் , “அஸ்வெசும” மற்றும் “உறுமய” திட்டங்களை மக்களிடம் முறையாக எடுத்துச் செல்வதற்கு அரச அதிகாரிகளின் ஒத்துழைப்பு அவசியம் என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+
+மாத்தளை, வில்கமுவ பிரதேச செயலகத்தில் இன்று (29) இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி இதனைத் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/c70ded23.json)
+
+---
+
+### Sri Lanka to get Cyber Security Act, Authority: Min
+
+*2024-02-29 17:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-cyber-security-act-authority-min-152528/) · `en`
+
+ECONOMYNEXT – A National Cyber Security Act will be introduced this year, followed by the establishment of a Cyber Security Authority, State Minister for Technology Kanaka Herath has said.
+
+“The Sri Lanka Computer Emergency Readiness Team (SLCERT) is anticipated to introduce the National Cyber Security Act within the year, followed swiftly by the establishment of the Cyber Security Authority,” Herath said at a press briefing held at the President’s Media Centre (PMC) on Thursday.
+
+Herath said the digital economy which previously stood at 4.73 percent had grown past the 5 percent mark.
+
+“This expansion has notably bolstered the country’s overall economic resilience. To further enhance this momentum, preparations are underway for the Digital Economy Summit scheduled to take place in Sri Lanka at the end of July.”
+
+...
+
+[Data](articles/816fa3a6.json)
+
+---
 
 ### Ella is recorded on the camera
 
@@ -122,6 +170,28 @@ After the Russian invasion of Ukraine began, Western leaders have criticized Pre
 
 ---
 
+### Sri Lanka stocks close down, turnover stays above 1bn
+
+*2024-02-29 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-stays-above-1bn-152540/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.25 percent, or 26.53 points, at 10,651; while the S&P SL20 Index closed down 0.64 percent, or 19.59 points, at 3,037.
+
+Turnover stayed above the 1 billion mark for the fifth consecutive day, at 1.6 billion.
+
+John Keells Holdings Plc was the most actively traded stock of the day, contributing 444 million to the day’s turnover. The company announced a private placement of 110 million shares at 130 each to HWIC Asia Fund. The share closed down at 185.75.
+
+Ceylon Cold Stores Plc, a John Keells Holdings Plc subsidiary, saw buying interest after news that the company, which trades as Elephant House, was expanding into the Indian market in a partnership with Reliance Consumer Products Limited. The share closed up at 49.50.
+
+Commercial Bank of Ceylon Plc, which announced a scrip dividend yesterday, also saw active volumes (195mn); The share closed down at 90.00.
+
+...
+
+[Data](articles/25c4b037.json)
+
+---
+
 ### 10 -year -old girl murdered: Investigate Ivar
 
 *2024-02-29 16:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/10-வயது-சிறுமி-கொலை-ஐவரிடம்-விசாரணை/72-334007) · `ta`
@@ -145,6 +215,26 @@ The magistrate ordered the suspect to be remanded until the 7th of this month.
 [Data](articles/969eb0ae.json)
 
 [Extended Data](ext_articles/969eb0ae.ext.json)
+
+---
+
+### Sri Lanka inflation rises 5.9-pct over 17 -months, food down
+
+*2024-02-29 16:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-rises-5-9-pct-over-17-months-food-down-152537/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s inflation measured by the Colombo Consumer Price Index rose 5.9 percent in the 12-months to February 2024, down from 6.4 percent in January, with food prices down 2.1 percent, data from the state statistics office show.
+
+Food prices were down 1.6-pct over 17-months despite a hike in value added tax
+
+The CCPI Index was unchanged in February 2024 at 200.6 points in February 2024, down from 200.7 point in January.
+
+Though the 12-month inflation was higher than the 5-pct inflation target the central bank has promised, the agency had created maintained monetary stability and created little inflation since September 2022 based on the index.
+
+The revised CCPI Index was up 5.9 from September 2022 when monetary stability was reached and the central bank generated a balance of payments surplus, signaling the end of inflationary policy.
+
+...
+
+[Data](articles/3b74da0a.json)
 
 ---
 
@@ -822,6 +912,24 @@ Uragasmanhandiya Police have lodged a complaint with the police that a motorcycl
 
 ---
 
+### නව පොලිස්පති ජනපති හමු වෙයි
+
+*2024-02-29 14:26:27* · [`adalk`](https://www.ada.lk/breaking_news/නව-පොලිස්පති-ජනපති-හමු-වෙයි/11-408356) · `si`
+
+නව පොලිස්පති දේශබන්දු ටී.එම්.ඩබ්ලිව්.ඩී. තෙන්නකෝන් මහතා අද (29) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමු විය.
+
+මෙරට 36 වන පොලිස්පතිවරයා ලෙස වැඩ භාර ගැනීමෙන් අනතුරුව දේශබන්දු තෙන්නකෝන් මහතා මෙලෙස ජනාධිපතිවරයා හමු විය.
+
+නව පොලිස්පතිවරයා වෙත සිය සුබපැතුම් පළ කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඔහු සමඟ සුහද කථා බහකට ද එක්විය.
+
+නව පොලිස්පතිවරයා විසින් සාම්ප්‍රදායානුකූලව ජනාධිපතිවරයා වෙත සමරු තිළිණ පිළිගැන්වීම ද සිදු කෙරිණි.
+
+◼️
+
+[Data](articles/1d67159b.json)
+
+---
+
 ### The counts of the demons scared of paddy farmers
 
 *2024-02-29 14:21:26* · [`adalk`](https://www.ada.lk/breaking_news/වී-ගොවීන්-බය-කරන-භූතයාගේ-ගණන්/11-408355) · `si`
@@ -1078,6 +1186,24 @@ Meanwhile, the striking private bus operators also held a demonstration in front
 
 ---
 
+### Sri Lanka president’s party claims opposition SJB members to join them after March 10
+
+*2024-02-29 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-party-claims-opposition-sjb-members-to-join-them-after-march-10-152526/) · `en`
+
+ECONOMYNEXT — A large group of main opposition Samagi Jana Balawegaya (SJB) members will join President Ranil Wickremesinghe’s United National Party (UNP) after March 10, United National Party (UNP) general secretary Palitha Range Bandara claimed.
+
+Fielding questions from reporters on Wednesday February 28, Bandara said that some SJB members are expected to join a UNP rally to be held on March 10 in Kuliyapitiya marking the beginning of Wickremesinghe’s campaign.
+
+“Yes, the SJB will come. I don’t know if all those people mentioned will leave [SJB leader] Sajith Premadasa,” the UNP general secretary said.
+
+“After March 10, a majority of SJBers will join us,” he said.
+
+...
+
+[Data](articles/c08eb8f8.json)
+
+---
+
 ### Semasinghe rubbishes reports claiming transfer of economic centers to foreign country
 
 *2024-02-29 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97619/semasinghe-rubbishes-reports-claiming-transfer-of-economic-centers-to-foreign-country-) · `en`
@@ -1174,6 +1300,22 @@ A high-ranking police officer said that the shooting had been carried out on the
 
 ---
 
+### Japan trains Sri Lanka Coast Guard on oil spill response
+
+*2024-02-29 13:11:00* · [`economynextcom`](https://economynext.com/japan-trains-sri-lanka-coast-guard-on-oil-spill-response-152514/) · `en`
+
+ECONOMYNEXT – The Japan Coast Guard (JCG) has trained 37 officers of the Sri Lanka Coast Guard (SLCG) on how to handle oil spills, with help from the Japan International Cooperation Agency (JICA).
+
+“The establishment of a sustainable human resource development system to address oil spill incident in SLCG is an important initiative for Sri Lanka and Indo-Pacific region,” JICA said in a statement.
+
+Five experts of the JCG comprising two officials from their Mobile Cooperation Team specialized in capacity development, two officers from National Strike Team Station in Yokohama who are in charge of oil spill management in a coastal area in Japan, and one officer from Marine Environment Protection and Disaster prevention Division of JCG conducted the oil spill response training from February 5-22.
+
+...
+
+[Data](articles/82942406.json)
+
+---
+
 ### PHI. The motorcycle for the murder set on fire?
 
 *2024-02-29 13:10:07* · [`adalk`](https://www.ada.lk/breaking_news/පී-එච්-අයි--ඝාතනයට-පැමිණි-යතුරු-පැදිය-ගිනි-තියලා-/11-408348) · `si`
@@ -1215,6 +1357,22 @@ Also, he said Tennekoon has been appointed by violating the Constitution.
 [Data](articles/562f031b.json)
 
 [Extended Data](ext_articles/562f031b.ext.json)
+
+---
+
+### Sri Lanka wants to ensure absence major power rivalries in Indian Ocean: president
+
+*2024-02-29 13:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-wants-to-ensure-absence-major-power-rivalries-in-indian-ocean-president-152513/) · `en`
+
+ECONOMYNEXT — President Ranil Wickremesinghe has highlighted Sri Lanka’s dedication to maintaining a strategic position aimed at ensuring the absence of major power rivalries and upholding freedom of navigation in the Indian Ocean.
+
+Speaking at the Pathfinder Indian Ocean Security Conference phase III held in Colombo on Wednesday February 28, Wickremesinghe said Sri Lanka’s commitment to freedom of navigation has prompted the country to engage in operations as “guardians of prosperity” in the Red Sea.
+
+A statement from the president’s office said that that Wickremesinghe had underscored the significance of the Suez Canal which he said was particularly evident during the Six-Day War when its closure for ten years negatively impacted the Colombo port. This highlighted the necessity of ensuring unrestricted navigation, he said.
+
+...
+
+[Data](articles/1280b7e5.json)
 
 ---
 
@@ -1279,6 +1437,20 @@ Observers say many strikers are likely to defy the deadline, continuing the labo
 [Data](articles/ce8f8fb4.json)
 
 [Extended Data](ext_articles/ce8f8fb4.ext.json)
+
+---
+
+### Sri Lanka’s NPP continues to lead voting intent poll ahead of main opposition
+
+*2024-02-29 12:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-continues-to-lead-voting-intent-poll-ahead-of-main-opposition-152495/) · `en`
+
+ECONOMYNEXT —  Sri Lanka’s leftist National People’s Power (NPP) continued to lead a voting intentions poll in January at 40 percent of adult voters surveyed supporting the party, with the main opposition Samagi Jana Balawegaya (SJB) in second place at 30 percent.
+
+The survey, carried out by Institute for Health Policy (IHP) using its Sri Lanka Opinion Tracker Survey (SLOTS) Multilevel Regression and Poststratification (MRP) model showed no substantial change in general election voting intentions in January 2024 compared to the previous month.
+
+...
+
+[Data](articles/6420a269.json)
 
 ---
 
@@ -1439,6 +1611,24 @@ However, the health sector trade unions are slated to meet with Health Minister 
 [Data](articles/0b030c72.json)
 
 [Extended Data](ext_articles/0b030c72.ext.json)
+
+---
+
+### Sri Lanka’s Motor Traffic Dept in final phase of digitalization: Min
+
+*2024-02-29 11:59:00* · [`economynextcom`](https://economynext.com/sri-lankas-motor-traffic-dept-in-final-phase-of-digitalization-min-152489/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Department of Motor Traffic is in the final phase of its e-motoring drive, its digitalization process, Minister of Transport and Highways Bandula Gunawardena said.
+
+“The e-motoring project has been in operation for awhile now. We are waiting on the Attorney General’s advice to complete the final phase,” Gunawardena told journalists at a briefing to announce the department’s progress.
+
+“From March 4, everyone seeking the services of this institute will be able to book an appointment through either the automated telephone service or website. We believe this will deliver an efficient, productive, low-cost service to everyone.”
+
+Gunawardena said that a recent incident of a trainee driver ploughing into a crowd waiting to obtain DMT services earlier this week was a case in point. “About 4,000 people in and around Colombo visit Werahera or Narahenpita [DMT locations] on an average day. This can be reduced.
+
+...
+
+[Data](articles/75cc9d8a.json)
 
 ---
 
@@ -1857,225 +2047,5 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.06 perc
 [Data](articles/f02fbec4.json)
 
 [Extended Data](ext_articles/f02fbec4.ext.json)
-
----
-
-### China is dissatisfied with Sri Lanka's ban
-
-*2024-02-29 09:40:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தடை-விதித்ததால்-சீனா-அதிருப்தி/175-333981) · `ta`
-
-China has revealed its dissatisfaction with Sri Lanka over the fact that China's exclusive economic zone (EEZ) has banned any study from January 3, 2024.
-
-The decision was taken following the Chinese research vessel, Chiang Yang Hong 3, planned to conduct a survey in the South Indian Ocean.
-
-The Chinese Laboratory has officially owned the third maritime research institute of the Chinese Natural Resources Ministry.
-
-Sri Lanka has made such a decision amid pressure on India, citing security concerns caused by such activities in the neighboring countries.The Indian media has widely praised Sri Lanka's decision to China.
-
-The Chinese officials, however, expressed their dissatisfaction with Sri Lanka for making such a decision on the influence of another country.
-
-While the Indian media praised Sri Lanka's decision, the Chinese media began criticizing India's prevalent on neighboring countries to take action against India.
-
-◼️
-
-[Data](articles/1d1c51e1.json)
-
-[Extended Data](ext_articles/1d1c51e1.ext.json)
-
----
-
-### Tennakoon took charge of the duties
-
-*2024-02-29 09:32:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடமைகளை-பொறுப்பேற்றார்-தென்னகோன்/175-333980) · `ta`
-
-Deshabandu Tennakoon took over the duties at the police headquarters this morning as the new Inspector General of Police.
-
-President Ranil Wickremesinghe appointed Thennakon as the 36th Police Inspector of Sri Lanka on February 26.
-
-Born in 1971, Tennakoon started his police career as Assistant Superintendent of Police in 1998.He holds a Bachelor's Degree at the University of Colombo and a Masters Degree from the University of Kelaniya.
-
-Prior to the current post of Tennakoon, he served as the Senior Deputy Inspector General of Police (SDIG) in charge of the Western Province.
-
-He has worked in various places across the country in the Sri Lankan police for 25 years.
-
-◼️
-
-[Data](articles/06cc0f59.json)
-
-[Extended Data](ext_articles/06cc0f59.ext.json)
-
----
-
-### Welipenna and hacked to death
-
-*2024-02-29 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193942) · `si`
-
-A knife stabbed with a knife in Packetiyagoda, Pakhattiyagoda, in the Welipeniya area in Packetiyagoda.
-
-The victim is a 32 year old father of four-old father of four-old father of four-old residents of Pakitiyagoda.
-
-The deceased has taken place in a motorcycle while staying near a major road in Paltitiyagoda.
-
-Thereafter, one of the two persons had been attacked by the deceased at once, a nearby house was injured in the attack.
-
-After that, he had fallen into the courtyard of the house and had taken several roads to the abdomen and the deck of the deceased.
-
-Residents of the area have been admitted to the hospital with serious injuries due to the serious injuries of the knives.
-
-The Wettera said that the man was killed after hospital.
-
-The two persons who had come to attack were already identified as the Welipenna police.
-
-The two people who came to the attack were also laid near the main road, and the residents of the area were burning on the motorcycle.
-
-◼️
-
-[Data](articles/16ee924c.json)
-
-[Extended Data](ext_articles/16ee924c.ext.json)
-
----
-
-### Deshabandu Tennakoon assumes duties as IGP
-
-*2024-02-29 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deshabandu-Tennakoon-assumes-duties-as-IGP/108-277939) · `en`
-
-Colombo, Feb 29 (Daily Mirror) -Deshabandu Tennakoon assumed duties as the new Inspector General of Police (IGP) this morning at the police headquarters.
-
-President Ranil Wickremesinghe appointed Tennakoon as the 36th Inspector General of Police of Sri Lanka on February 26.
-
-Born in 1971, Tennakoon began his police career in 1998 as an apprentice Assistant Superintendent of Police. He holds a Bachelor's degree from the University of Colombo and a Master's degree from the University of Kelaniya.
-
-Prior to his current role, Tennakoon served as the Senior Deputy Inspector General of Police (SDIG) in charge of the Western Province.
-
-Tennakoon's 25-year career in the Sri Lankan Police has seen him serve in various locations across the country.
-
-◼️
-
-[Data](articles/5cfd4bd5.json)
-
-[Extended Data](ext_articles/5cfd4bd5.ext.json)
-
----
-
-### Bus accident carrying students - 24 students injured
-
-*2024-02-29 08:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-ஏற்றிச்-சென்ற-பஸ்-விபத்து-24-மாணவர்கள்-படுகாயம்/175-333979) · `ta`
-
-The bus carrying school children in the Siyambalanduwa area has crashed, police said.
-
-The bus belonging to the Sri Lanka Transport Board (SLTB) was also involved in the accident, police said.
-
-36 people, including 24 students, were injured in the accident. Remble
-
-◼️
-
-[Data](articles/ec5a9861.json)
-
-[Extended Data](ext_articles/ec5a9861.ext.json)
-
----
-
-### Deshabandu Tennakoon assumes duties as IGP
-
-*2024-02-29 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97610/deshabandu-tennakoon-assumes-duties-as-igp) · `en`
-
-Deshabandu Tennakoon officially assumed duties as the 36th Inspector General of Police (IGP) of Sri Lanka, a short while ago.
-
-Senior DIG and Acting IGP Tennakoon was appointed as the new IGP on Monday (Feb. 26).
-
-This appointment, in compliance with the stipulations outlined in Articles 41C.(1) and 61E.(b) of the Constitution of the Democratic Socialist Republic of Sri Lanka, has been made pursuant to the authority vested on President Ranil Wickremesinghe, the PMD reported.
-
-Secretary to the President Mr. Saman Ekanayake had presented the official appointment letter to Mr. Deshabandu Tennakoon at the Presidential Secretariat.
-
-Tennakoon had been appointed as the Acting IGP on November 29, 2023.
-
-◼️
-
-[Data](articles/965cbab4.json)
-
-[Extended Data](ext_articles/965cbab4.ext.json)
-
----
-
-### Deshabandu assumes duties
-
-*2024-02-29 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193941) · `si`
-
-Inspector General of Police, Deshabandu Tennakoon assumed duties as a short while ago.
-
-◼️
-
-[Data](articles/1069ba57.json)
-
-[Extended Data](ext_articles/1069ba57.ext.json)
-
----
-
-### UK’s York St. John University offers instant admission at ICFS event
-
-*2024-02-29 08:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UKs-York-St-John-University-offers-instant-admission-at-ICFS-event/108-277938) · `en`
-
-Colombo, Feb 29 (Daily MiAn exclusive admission event organized by ICFS (International Center for Foreign Studies) in collaboration with UK's York St. John University is scheduled to take place on Saturday, March 02, at the ICFS Education Center in Nugegoda.
-
-The event aims to provide "On the Spot offer letters" to students interested in enrolling at York St. John University's campuses in London and York. All candidates visiting the ICFS Education Center on March 02 will have the opportunity to secure admission to York St. John University within one hour upon meeting Mrs. Bhagya Perera, the Country Manager for York St. John University in Sri Lanka.
-
-...
-
-[Data](articles/140ce554.json)
-
-[Extended Data](ext_articles/140ce554.ext.json)
-
----
-
-### China expresses strong dissatisfaction to SL over bar on research vessels
-
-*2024-02-29 08:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-expresses-strong-dissatisfaction-to-SL-over-bar-on-research-vessels/108-277936) · `en`
-
-Colombo, Feb. 29 (Daily Mirror)- China is reported to have expressed its dissatisfaction to Sri Lanka over the decision to bar Chinese research vessels from carrying out any study in the country’s Exclusive Economic Zone (EEZ) for one year starting from January 3, 2024.
-
-Sri Lanka imposed a one - year moratorium on such activities with the involvement of any foreign research vessel.
-
-The decision was taken in the wake of the Chinese research vessel Xiang Yang Hong 3 planning for exploration in the south Indian Ocean.
-
-The Chinese Research / Survey Vessel is officially owned by the Third Institute of Oceanology of the Chinese Ministry of Natural Resources.
-
-Sri Lanka took such a decision in the midst of pressure from India which cited security concerns stemming from such activities in its neighborhood. The Indian media widely hailed Sri Lanka’s decision calling it a blow to China.
-
-...
-
-[Data](articles/6ce80bdc.json)
-
-[Extended Data](ext_articles/6ce80bdc.ext.json)
-
----
-
-### Opening SriLankan Bids On March 5
-
-*2024-02-29 08:24:52* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ලංසු-විවෘත-කිරීම-මාර්තු-05දා/11-408342) · `si`
-
-Opening of Bids to be purchased for purchasing the airline on March 05 is due to be carried out. The Ministry of Ports, Navy and Aviation have focused on the selection of a proposal that has been submitted.
-
-The Ministry has focused at least US $ 500 million as well as a man who can safeguard the filling of nearly 6,000 airlines.
-
-◼️
-
-[Data](articles/ca95f35c.json)
-
-[Extended Data](ext_articles/ca95f35c.ext.json)
-
----
-
-### Bus toppled by schoolchildren
-
-*2024-02-29 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193940) · `si`
-
-Our correspondent said that a bus carrying a bus traveled in Siyambalanduwa area has toppled.
-
-◼️
-
-[Data](articles/6f20e4c6.json)
-
-[Extended Data](ext_articles/6f20e4c6.ext.json)
 
 ---

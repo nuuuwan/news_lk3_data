@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 14:33:07**
+As of **2024-02-29 14:50:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,519
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,998 (99.9%) of 10,004 articles have been extended.
+10,004 (100.0%) of 10,004 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Dr. Anil Jasinghe, Secretary to the Ministry of Environment, graciously accepted
 
 [Data](articles/a725aa3c.json)
 
+[Extended Data](ext_articles/a725aa3c.ext.json)
+
 ---
 
 ### Former Health Minister Keheliya produced before court
@@ -68,6 +70,8 @@ The arrest came hot on the heels of pressure from civil society activists and he
 
 [Data](articles/1e53bbb8.json)
 
+[Extended Data](ext_articles/1e53bbb8.ext.json)
+
 ---
 
 ### Private bus operators strike in Jaffna
@@ -86,6 +90,8 @@ Meanwhile, the striking private bus operators also held a demonstration in front
 
 [Data](articles/735b6e95.json)
 
+[Extended Data](ext_articles/735b6e95.ext.json)
+
 ---
 
 ### Semasinghe rubbishes reports claiming transfer of economic centers to foreign country
@@ -103,6 +109,8 @@ Thus, he urged for stakeholders to refrain from falling for such false misinform
 ◼️
 
 [Data](articles/66207411.json)
+
+[Extended Data](ext_articles/66207411.ext.json)
 
 ---
 
@@ -158,21 +166,27 @@ The decision was announced by the Supreme Court Judge Bench, who was a petition 
 
 ---
 
-### ජම්පටා වීදියේ වෙඩි තැබීමට පැමිණි යතුරු පැදියේ පැදිකරු අල්ලයි
+### Motorcycli motorbike arrested on Jampata Street
 
 *2024-02-29 13:14:33* · [`adalk`](https://www.ada.lk/breaking_news/ජම්පටා-වීදියේ-වෙඩි-තැබීමට-පැමිණි-යතුරු-පැදියේ-පැදිකරු-අල්ලයි/11-408349) · `si`
 
-ජම්පටා වීදිය නිව්හැම් චතුරස්‍රය ප්‍රදේශයේ කුකුල් මස් අලෙවි සැලක හිමිකරුවකු ඉලක්ක කරගෙන සිදුකළ වෙඩි ප්‍රහාරයට වෙඩික්කරු රැගෙන යතුරු පැදියෙන් පැමිණි පුද්ගලයා අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+The Colombo Crimes Division says that the shootman who had taken the motorcycle to the shooting owner of Newhham Square, the shooting owner of Newhham Square, says.
 
-එම සැකකරු සමග හොරයින් මත්කුඩු මිලිගෑම් 6470 ක් පොලිස් භාරයට ගෙන ඇත. වෙඩි ප්‍රහාරයෙන් බරපතල තුවාල ලැබූවේ මොහොමඩ් හෂාන් මොහොමඩ් රිල්වාන් නමැති 57 හැවිරිදි පුද්ගලයෙකි.
+Drugs have been taken into police custody with the suspect with the suspect.Mohammad Hashan Mohamed Hashan Mohamed Relwan was also seriously injured in the shooting.
 
-වෙඩි තබා මනුෂ්‍ය ඝාතනයට තැත් කිරීමේ අපරාදය සම්බන්ධයෙන් සිදු කරන ලද විමර්ශනයේදී සි සි ටි වි  දර්ශන හා පුද්ගලික ඔත්තුකරුවන් මාර්ගයෙන් අපරාදය සිදුකිරීම සඳහා පැමිණි සැකකරුවන්ගෙන් යතුරුපැදිය පදවාගෙන පැමිණි පුද්ගලයා හඳුනාගෙන එම සැකකරු  පදිංචි කොළඹ 15 පර්ගියුසන් පාර නිවසේදී අත්අඩංගුවට ගැනීමට හැකිවූ බව පොලිසිය කියයි.
+The suspect was identified by the suspects in the investigation of the murder of murder and the suspects were identified by the suspects to be identified by the suspects.
 
-ඉකුත් 25 වෙනිදින වෙඩි ප්‍රහාරය එල්ල වූ පුද්ගලයා වෙළඳ සැල තුළ පුටුවක අසුන්ගෙන සිටියදී යතුරුපැදියකින් පැමිණ තිබූ පුද්ගලයන් දෙදෙනෙකු ගෙන් අයකු ඔහු අසලටම පැමිණ රිවොල්වර  වර්ගයේ ගිනි අවියකින් වෙඩි ප්‍රහාර තුනක් එල්ල කර ඇති අතර එයින් එක් වෙඩි ප්‍රහාරයක් එම පුද්ගලයාගේ උරහිස ප්‍රදේශයට වැදී තිබිණි.
+The shooting was hit by a motorbike in a motorcycle while he was sitting at a chair on a chair.
+
+The victim has received information that the shooting is a close relative of an organized crime leader and is a closest relative of the meat and the carcasses belonging to the shop.
+
+A high-ranking police officer said that the shooting had been carried out on the direction of the son of Kudu Selvi, a son of Kudu Selvi, River.
 
 ...
 
 [Data](articles/ada43043.json)
+
+[Extended Data](ext_articles/ada43043.ext.json)
 
 ---
 

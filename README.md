@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 21:17:33**
+As of **2024-02-29 21:33:01**
 
 ## Newspaper Stats
 
-*Scraped **10,089** Articles*
+*Scraped **10,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,34 @@ newsfirstlk | 363
 economynextcom | 525
 dailyftlk | 528
 islandlk | 531
-adalk | 862
+adalk | 863
 adaderanalk | 1,220
 tamilmirrorlk | 1,227
 virakesarilk | 1,386
 dailymirrorlk | 1,524
-adaderanasinhalalk | 1,533
+adaderanasinhalalk | 1,536
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,089 (100.0%) of 10,089 articles have been extended.
+10,089 (100.0%) of 10,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### ගුවන් හමුදා කැඩෙට් නිලධාරීන්ගේ විසිරයෑම ජනපතිගේ ප්‍රධානත්වයෙන්
+
+*2024-02-29 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193974) · `si`
+
+ඉතිහාසයේ පළමු වරට රාත්‍රී කාලයේ සිදු කෙරුනු ගුවන් හමුදා කැඩෙට් නිලධාරීන්ගේ විසිර යාමේ පෙළපාළිය, ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (29) පැවැත්වුණි.
+
+◼️
+
+[Data](articles/ffab0909.json)
+
+---
 
 ### Keheliya further remanded till March 14
 
@@ -76,6 +88,20 @@ SJB General Secretary Ranjith Madduma Bandara and former Parliamentarian Mujibur
 
 ---
 
+### කෙහෙළිය ඇතුළු 7 දෙනා යළිත් රිමාන්ඩ්
+
+*2024-02-29 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193973) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සැකකරුවන් 07 දෙනා මාර්තු 14  වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+ඒ, ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් සම්බන්ධ නඩුව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී අද (29) යළි කැඳවූ අවස්ථාවේදීය.
+
+◼️
+
+[Data](articles/25c60393.json)
+
+---
+
 ### Ex-Health Minister Keheliya and six others further remanded
 
 *2024-02-29 20:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97636/ex-health-minister-keheliya-and-six-others-further-remanded) · `en`
@@ -87,6 +113,22 @@ Former Health Minister Keheliya Rambukwella, former Health Ministry Secretary an
 [Data](articles/d8a4e82f.json)
 
 [Extended Data](ext_articles/d8a4e82f.ext.json)
+
+---
+
+### වෛද්‍ය ජයනාත් බුත්පිටියට වරෙන්තු
+
+*2024-02-29 20:06:55* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-ජයනාත්-බුත්පිටියට-වරෙන්තු/11-408369) · `si`
+
+බාල බෙහෙත් ජාවාරමට අදාළව කටඋත්තර ගැනීමට සිටියදී විදේශ ගතව සිටින වෛද්‍ය සැපයුම් අංශයේ රාජකාරි කළ වෛද්‍ය ජයනාත් බුත්පිටිය මහතා අත්අඩංගුවට ගැනීමට නියම කරමින් මාලිගාක්නද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මිය ඉංග්‍රීසි භාෂාවෙන් අද (29) වරෙන්තු නිකුත් කළාය.
+
+මෙම සිද්ධියට අදාළව ප්‍රකාශ ගැනීමට සොයමින් සිටින සෞඛ්‍ය අමාත්‍යංශයේ අතිරේක ලේකම් වෛද්‍ය සමන් රත්නායක මහතාට අද දින රහස් පොලිසියේ පෙනී සිට ප්‍රකාශයක් දෙන ලෙස දැනුම් දෙමින් ‘වට්ස්අප්’ මාර්ගයෙන් දැනුම් දීමක් කළ බව කියමින් නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මහත්මිය කළ ඉල්ලීමක් පිළගනිමින් මහෙස්ත්‍රාත්වරිය එලෙස නියම කළාය.
+
+මෙම සිද්ධියට අදාල සැකකරුවන් ලබන 14 වැනිදා තෙක් තවදුරටත් රිමාන්ඩ් භාරයේ රඳවා තැබීමට නියම කළ මහේස්ත්‍රාත්වරිය සිද්ධියට අදලාව කරන විමර්ශනවල ප්‍රගතිය එදින අධිකරණයට වාර්තා කිරීමටද රහස් පොලිසියට වැඩිදුරටත් නියම කළාය.
+
+...
+
+[Data](articles/e7304da2.json)
 
 ---
 
@@ -133,6 +175,22 @@ The owner of the bag puts his bag in the packet of packs above his seat on the t
 [Data](articles/704e3b0e.json)
 
 [Extended Data](ext_articles/704e3b0e.ext.json)
+
+---
+
+### අස්වැසුමේ ප්‍රමාණය ඉහළට
+
+*2024-02-29 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193972) · `si`
+
+අස්වැසුම වැඩසටහනට සුදුසුකම් ලබන ප්‍රමාණය ලක්ෂ 24 දක්වා වැඩිකිරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+විල්ගමුව ප්‍රාදේශිය ලේකම් කාර්යාලයේ පැවැති අස්වැසුම ප්‍රගතිය විමසා බැලීමේ සාකච්ඡාවකට එක්වෙමින් ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ රාජ්‍ය සේවකයින්ගේ රුපියල් දස දහසකින් ඉහළ දැමීම අප්‍රේල් මාසයේ සිට ක්‍රියාත්මක කරන බවය.
+
+"අස්වැසුම ප්‍රතිලාභ ලබාදීම පසුගිය වසරේ සිට ක්‍රියාත්මක කිරීමට අප කටයුතු කළා. එම වැඩසටහන ක්‍රියාත්මක වන ආකාරය පිළිබඳව සොයා බැලීමට අද මා විල්ගමුවට පැමිණ තිබෙනවා. ජනාධිපති ධූරයේ වගකීම මා භාරගත්තේ රටේ ආර්ථිකය කඩා වැටී රට බංකොලොත්ව තිබූ අවස්ථාවකයි. එදා ආර්ථික අර්බුදයන් රට ගොඩගැනීම සඳහා කිසිදු නායකයෙක් ඉදිරියට ආවේ නැහැ. එවැනි බංකොලොත් පරිසරයක් තුළ ජනතාවගේ රැකියා අහිමිවී ජීවත්වීම පිළිබඳ ගැටලු මතුව තිබුණා."
+
+...
+
+[Data](articles/b27482b8.json)
 
 ---
 
@@ -1979,79 +2037,5 @@ The medical officer's report has noted that the woman's death had been caused by
 [Data](articles/fae752eb.json)
 
 [Extended Data](ext_articles/fae752eb.ext.json)
-
----
-
-### Sumanthiran’s petition challenging Speaker certifying Online Safety Bill dismissed by SC
-
-*2024-02-29 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sumanthirans-petition-challenging-Speaker-certifying-Online-Safety-Bill-dismissed-by-SC/108-277961) · `en`
-
-Colombo, Feb. 29 (Daily Mirror)- A  Fundamental Rights petition filed by Parliamentarian M.A. Sumanthiran challenging the Speaker's act of certifying the Online Safety Bill has been dismissed by the Supreme Court.
-
-The Supreme Court three-judge-bench comprising Justices Priyantha Jayawardena, Shiran Goonaratne and Achala Wengappuli refused to grant leave to proceed with the petition taking into account the preliminary objections raised by Attorney General Sanjay Rajaratnam.
-
-The Attorney General raised objections citing that the Supreme Court has no jurisdiction to intervene into the legislative matters following the Speaker's certification to a bill passed by Parliament.
-
-...
-
-[Data](articles/8c646e94.json)
-
-[Extended Data](ext_articles/8c646e94.ext.json)
-
----
-
-### Organic fertilizers to be included in Sri Lanka’s national fertilizer policy
-
-*2024-02-29 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97617/organic-fertilizers-to-be-included-in-sri-lankas-national-fertilizer-policy) · `en`
-
-The Chair of the Sectoral Oversight Committee on Food Security and Agriculture, Member of Parliament D. Weerasinghe said that the use of organic fertilizers should be included in the national fertilizer policy.
-
-This was discussed when the Sectoral Oversight Committee on Food Security and Agriculture met in Parliament recently under the chairmanship of MP D. Weerasinghe, the Parliamentary Communications Department said in a statement.
-
-Conceptual policies for food security prepared by the sub-committee of the National Council on the identification of priorities in the formulation of short, medium, and long-term national policies were considered on this day and the Sectoral Oversight Committee proposed to include several amendments to the plan, it added.
-
-...
-
-[Data](articles/5d92e50c.json)
-
-[Extended Data](ext_articles/5d92e50c.ext.json)
-
----
-
-### First phase of 1,500 kms road rehabilitation of starts today
-
-*2024-02-29 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-phase-of-1-500-kms-road-rehabilitation-of-starts-today/108-277960) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - A programme is scheduled to start today as a part of the first phase of the rehabilitation of 1,500 kilometres of roads from Point-Pedro to Dewundara, Transport Minister Bandula Gunawardana said.
-
-Addressing the media, he said the President has allocated sufficient funds from the budget for the rehabilitation of 1,500 kilometres of roads under three phases.
-
-Accordingly, the first phase of the construction of 500 kilometres of roads will commence today. The second phase of the 500 kilometres will commence on March 16 and the third phase of the next 500 kilometres will commence on April 2.
-
-"This programme will be implemented in every District Secretarys' Division in the country. The chairmen of all development committees have specified the roads to be reconstructed," he said.
-
-...
-
-[Data](articles/cb0ed4d6.json)
-
-[Extended Data](ext_articles/cb0ed4d6.ext.json)
-
----
-
-### Private bus strike on strike
-
-*2024-02-29 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193949) · `si`
-
-Passengers have been severely embarrassed to join the strike from Jaffna to Jaffna and all private bus drivers.
-
-Our correspondent stated that private bus drivers had gone to the Jaffna Depot in front of Jaffna Depot.
-
-Further information was reported that they would strive to demand a permanent bus stand and strike them.
-
-◼️
-
-[Data](articles/fa251667.json)
-
-[Extended Data](ext_articles/fa251667.ext.json)
 
 ---

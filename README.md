@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 20:50:08**
+As of **2024-02-29 21:02:41**
 
 ## Newspaper Stats
 
-*Scraped **10,084** Articles*
+*Scraped **10,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ islandlk | 531
 adalk | 862
 adaderanalk | 1,220
 tamilmirrorlk | 1,227
-virakesarilk | 1,385
-dailymirrorlk | 1,520
+virakesarilk | 1,386
+dailymirrorlk | 1,524
 adaderanasinhalalk | 1,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,084 (100.0%) of 10,084 articles have been extended.
+10,084 (100.0%) of 10,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Keheliya further remanded till March 14
+
+*2024-02-29 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-further-remanded-till-March-14/108-277974) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - Former Health Minister Keheliya Rambukwella who was arrested by the Criminal Investigation Department (CID) over the import of substandard Immunoglobulin injections, was further remanded till March 14 by the Maligakanda Magistrate’s Court.
+
+◼️
+
+[Data](articles/667f2dd8.json)
+
+---
+
+### கெஹலிய உட்பட 7 பேரின் விளக்கமறியல் நீடிப்பு!
+
+*2024-02-29 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177628) · `ta`
+
+தரமற்ற மருந்துகளை இறக்குமதி செய்த குற்றச்சாட்டில் கைதாகி விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல, அமைச்சின் முன்னாள் செயலாளர் மற்றும் 5 பேரை எதிர்வரும் மார்ச் மாதம் 14ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/ee155b4b.json)
+
+---
+
+### Attack on SJB protest at Vihara Maha Devi Park: SJB seeks SC remedy
+
+*2024-02-29 20:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Attack-on-SJB-protest-at-Vihara-Maha-Devi-Park-SJB-seeks-SC-remedy/108-277973) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - The Samagi Jana Balawegaya (SJB), the main opposition party in Parliament today filed a Fundamental Rights petition in the Supreme Court challenging the police attack on the protest organized by SJB on January 30.
+
+SJB General Secretary Ranjith Madduma Bandara and former Parliamentarian Mujibur Rahuman filed this petition seeking to declare that the conduct of the respondent police officers who gave instructions to fire water cannons and tear gas amounts to subjecting the petitioners to cruel, inhuman or degrading treatment and violation of their fundamental rights to equality and equal protection of the Law, freedom of expression and freedom of assembly.
+
+...
+
+[Data](articles/634fd80e.json)
+
+---
 
 ### Ex-Health Minister Keheliya and six others further remanded
 
@@ -241,6 +279,22 @@ Alternative to the Principal, the Principal Wasantha Perera has issued the instr
 [Data](articles/bc048e3b.json)
 
 [Extended Data](ext_articles/bc048e3b.ext.json)
+
+---
+
+### SC quashes Cabinet decision granting residence to Maithripala
+
+*2024-02-29 18:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SC-quashes-Cabinet-decision-granting-residence-to-Maithripala/155-277972) · `en`
+
+Colombo, Feb 29 (Daily Mirror) -  The Supreme Court today held that the Cabinet decision to allow former President Maithripala Sirisena to use a residence at Paget Road in Colombo was an arbitrary, unreasonable and illegal decision amounting to a violation of the Rule of Law and the Fundamental Rights guaranteed to the citizens.
+
+Accordingly, the Supreme Court decided to quash the Cabinet decision dated 15 October, 2019 which allowed former President Maithripala Sirisena the continuous use of the residence used by him at Paget Road, Colombo.
+
+The Supreme Court three-judge-bench comprising Justices Priyantha Jayawardena, Gamini Amarasekara and Kumudini Wickremasinghe  held that the decision taken by the Cabinet of Ministers to provide a residence to former President Sirisena with entitlements is beyond the scope offered by the Presidents' Entitlements Act No. 4 of 1986.
+
+...
+
+[Data](articles/0bc920b4.json)
 
 ---
 
@@ -1991,87 +2045,5 @@ Further information was reported that they would strive to demand a permanent bu
 [Data](articles/fa251667.json)
 
 [Extended Data](ext_articles/fa251667.ext.json)
-
----
-
-### Australian politician betrayed the country for foreign intelligence agency
-
-*2024-02-29 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177583) · `ta`
-
-The Australian Intelligence Agency's president has said that a former Australian politician betrayed the country to the foreign intelligence agency has caused a stir in the Australian politics.
-
-National Intelligence Unit Chairman Mikebareges said that a former parliamentarian who worked with a foreign intelligence team called Adeem had taken foreign investigators up to the Prime Minister's Office.
-
-The head of the Intelligence Unit, who did not publish the name of a particular Member of Parliament or which country he worked on behalf of the country, said that it was taken over years ago.
-
-Australia's National Security Organization, the head of the Australia's National Security Organization, said that the current dissolved group is an aggressive and experienced foreign intelligence agency.
-
-He said local government officials were working on various blankets, including educators.
-
-...
-
-[Data](articles/a899ade0.json)
-
-[Extended Data](ext_articles/a899ade0.ext.json)
-
----
-
-### SC refuses leave to proceed with Sumanthiran’s petition against Online Safety Bill
-
-*2024-02-29 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97616/sc-refuses-leave-to-proceed-with-sumanthirans-petition-against-online-safety-bill) · `en`
-
-The Supreme Court has refused to grant leave to proceed with the petition filed by Tamil National Alliance (TNA) MP M.A. Sumanthiran, challenged the passing of the much-disputed Online Safety Bill in Parliament.
-
-Sumanthiran filed a Fundamental Rights (FR) petition before the Supreme Court on 14 February, naming Parliament Speaker Mahinda Yapa Abeywardena and the Attorney General as repondents.
-
-In his petition, the TNA MP challenged the Speaker’s certification of the Online Safety Act, claiming that several recommendations made by the Supreme Court with regards to certain provisions of the Act had been ignored by the Speaker, and that the Attorney General had failed to diligently advise both, the Parliament  and its Speaker regarding the same.
-
-The Online Safety Bill has been a subject of debate and contention, with several parties having raised concerns about potential limitations on freedom of expression, and other potential violations of the Constitution through its provisions.
-
-◼️
-
-[Data](articles/1233ebd3.json)
-
-[Extended Data](ext_articles/1233ebd3.ext.json)
-
----
-
-### Health sector trade unions to meet Minster tomorrow
-
-*2024-02-29 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97615/health-sector-trade-unions-to-meet-minster-tomorrow) · `en`
-
-The collective of health sector trade unions have stated that the latest round of discussions with the health authorities pertaining to their demands ended on a positive note.
-
-The trade unions met on Wednesday (28 Feb.) with the committee appointed to look into the demands of the health sector trade unions, under the patronage of the Secretary to the Ministry of Health.
-
-According to the co-convener of the Health Trade Union Alliance (HTUA) Chanaka Dharmawickrama, the discussion also focused on the technical report prepared by the committee.
-
-However, the health sector trade unions are slated to meet with Health Minister Dr. Ramesh Pathirana on 01 March, as he was not present at yesterday’s meeting, Dharmawickrama stated,
-
-...
-
-[Data](articles/0b030c72.json)
-
-[Extended Data](ext_articles/0b030c72.ext.json)
-
----
-
-### Sri Lanka’s Motor Traffic Dept in final phase of digitalization: Min
-
-*2024-02-29 11:59:00* · [`economynextcom`](https://economynext.com/sri-lankas-motor-traffic-dept-in-final-phase-of-digitalization-min-152489/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Department of Motor Traffic is in the final phase of its e-motoring drive, its digitalization process, Minister of Transport and Highways Bandula Gunawardena said.
-
-“The e-motoring project has been in operation for awhile now. We are waiting on the Attorney General’s advice to complete the final phase,” Gunawardena told journalists at a briefing to announce the department’s progress.
-
-“From March 4, everyone seeking the services of this institute will be able to book an appointment through either the automated telephone service or website. We believe this will deliver an efficient, productive, low-cost service to everyone.”
-
-Gunawardena said that a recent incident of a trainee driver ploughing into a crowd waiting to obtain DMT services earlier this week was a case in point. “About 4,000 people in and around Colombo visit Werahera or Narahenpita [DMT locations] on an average day. This can be reduced.
-
-...
-
-[Data](articles/75cc9d8a.json)
-
-[Extended Data](ext_articles/75cc9d8a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 17:53:13**
+As of **2024-02-29 18:08:41**
 
 ## Newspaper Stats
 
-*Scraped **10,049** Articles*
+*Scraped **10,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 857
 adaderanalk | 1,216
 tamilmirrorlk | 1,224
 virakesarilk | 1,381
-dailymirrorlk | 1,516
+dailymirrorlk | 1,518
 adaderanasinhalalk | 1,530
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,049 (100.0%) of 10,049 articles have been extended.
+10,051 (100.0%) of 10,051 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ The tourists had told police that the suspect tried to guide them and tried to a
 [Data](articles/fa9f24f1.json)
 
 [Extended Data](ext_articles/fa9f24f1.ext.json)
+
+---
+
+### Time has come to decide whether we should remain in Parliament or not: Sajith
+
+*2024-02-29 17:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Time-has-come-to-decide-whether-we-should-remain-in-Parliament-or-not-Sajith/108-277968) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - The time has come to decide whether we should remain in an assembly where its head repeatedly violates the Constitution, Opposition Leader Sajith Premadasa said today.
+
+Premadasa came up with this remark during a meeting held at the Saranakara Maha Vidyalaya, Bingiriya today.
+
+"Speaker Mahinda Yapa Abeywardena is openly violating the Constitution. He violated the Constitution by casting his vote to approve the appointment of a new IGP. He had written to the President stating that he decided to cast his vote at the Constitutional Council on the assumption that the two civil members who abstained were  against the appointment of Deshabandu Tennekoon as the new IGP. The Speaker seems to have pushed the Constitution aside and is doing things his own way. Therefore, the time has come for us to decide whether we should remain in Parliament or not," he said.
+
+...
+
+[Data](articles/0b500133.json)
+
+[Extended Data](ext_articles/0b500133.ext.json)
 
 ---
 
@@ -176,6 +194,26 @@ Israeli aircraft is carrying out unmanned attacks on the Hesbullah organization'
 
 ---
 
+### SLTDA provides extension for licence renewal
+
+*2024-02-29 16:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLTDA-provides-extension-for-licence-renewal/108-277969) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - Tourism sector stakeholders are given an extension renewing their licenses with the Sri Lanka Tourism Development Authority (SLTDA).
+
+"The renewal period for licenses will now be extended until March 31, 2024, for those who have already submitted the complete set of documents to the TDL unit before February 29, 2024," the Authority said in a notice.
+
+This extension aims to ensure uninterrupted service for all stakeholders who comply with the renewal requirement.
+
+The SLTDA said it also provides ample time for the completion of the renewal process.
+
+◼️
+
+[Data](articles/17351b4f.json)
+
+[Extended Data](ext_articles/17351b4f.ext.json)
+
+---
+
 ### Government officials is essential to succeed in the relief and heritage - President
 
 *2024-02-29 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193963) · `si`
@@ -242,11 +280,13 @@ The petition further sought a court order stating that former President Sirisena
 
 President Ranil Wickremesinghe has emphasized that swift relief would be provided to all eligible “Aswasuma” beneficiaries while stressing the importance of government officials’ support in effectively delivering the “Aswasuma” and “Urumaya” benefits to the people.
 
+Furthermore, President Wickremesinghe commended all Grama Niladhari Officers for their unwavering commitment to supporting the government’s successful implementation of these two programs despite facing hardships.
+
+Wickremesinghe also promised to consider their proposals and address their issues, the PMD mentioned.
+
 He made these observations during a meeting at the Matale Wilgamuwa Divisional Secretariat on the “Aswasuma” program implementation today (29).
 
 Meanwhile the President also made a visit to Wilgamuwa Pallegama Madhya Maha Vidyalaya today (Feb. 29), to assess the educational activities of the students.
-
-The President’s visit coincided with his attendance at a discussion held at the Wilgamuwa Divisional Secretariat auditorium regarding the “Aswasuma” program, the President’s Media Division (PMD) reported.
 
 ...
 
@@ -2037,47 +2077,5 @@ Our correspondent said that a bus carrying a bus traveled in Siyambalanduwa area
 [Data](articles/6f20e4c6.json)
 
 [Extended Data](ext_articles/6f20e4c6.ext.json)
-
----
-
-### Trump is disqualified from Illinois ballot, judge rules
-
-*2024-02-29 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97609/trump-is-disqualified-from-illinois-ballot-judge-rules) · `en`
-
-(Reuters) -An Illinois state judge on Wednesday barred Donald Trump from appearing on the Illinois’ Republican presidential primary ballot because of his role in the insurrection at the U.S. Capitol on Jan. 6, 2021, but she delayed her ruling from taking effect in light of an expected appeal by the former U.S. president.
-
-Cook County Circuit Judge Tracie Porter sided with Illinois voters who argued that the former president should be disqualified from the state’s March 19 primary ballot and its Nov. 5 general election ballot for violating the anti-insurrection clause of the U.S. Constitution’s 14th Amendment.
-
-The final outcome of the Illinois case and similar challenges will likely be decided by the U.S. Supreme Court, which heard arguments related to Trump’s ballot eligibility on Feb. 8.
-
-Porter said she was staying her decision because she expected his appeal to Illinois’ appellate courts, and a potential ruling from the U.S. Supreme Court.
-
-...
-
-[Data](articles/d9f47986.json)
-
-[Extended Data](ext_articles/d9f47986.ext.json)
-
----
-
-### Two persons, including a woman who was called the Italian Dream, Fell
-
-*2024-02-29 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193939) · `si`
-
-The Colombo Crimes Division has been arrested by the Colombo Crimes Division for allegedly defrauding money in Italy.
-
-The suspects were arrested following a complaint lodged by the Italian embassy that the Italian embassy is being made by outside the people who come to the Italian Embassy.
-
-According to investigations carried out by the officers of the Colombo Crimes Division, information has been revealed that the suspects had cheated a sum of Rs.
-
-The arrested were a 50 year old woman and 52 year old residents of Narahenpita.
-
-The Colombo Botaight Division has commenced further investigations.
-
-◼️
-
-[Data](articles/fb6f0266.json)
-
-[Extended Data](ext_articles/fb6f0266.ext.json)
 
 ---

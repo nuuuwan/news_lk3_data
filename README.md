@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 16:17:27**
+As of **2024-02-29 16:32:54**
 
 ## Newspaper Stats
 
-*Scraped **10,013** Articles*
+*Scraped **10,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ economynextcom | 514
 dailyftlk | 528
 islandlk | 531
 adalk | 851
-tamilmirrorlk | 1,212
 adaderanalk | 1,213
+tamilmirrorlk | 1,223
 virakesarilk | 1,378
-dailymirrorlk | 1,512
-adaderanasinhalalk | 1,522
+dailymirrorlk | 1,516
+adaderanasinhalalk | 1,526
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,011 (100.0%) of 10,013 articles have been extended.
+10,013 (99.8%) of 10,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### கங்கையில் யாரும் குளிக்க வேண்டாம்
+
+*2024-02-29 16:02:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்கையில்-யாரும்-குளிக்க-வேண்டாம்/175-334001) · `ta`
+
+இந்தியாவின் புனித நதிகளில் ஒன்று கங்கை. இமயமலையில் இந்த நதி உருவாகி பல மாநிலங்கள் வழியாக கடந்து சென்று மேற்கு வங்க மாநிலத்தில் கடலில் கலக்கிறது. கங்கை நதியில் நீராடினால் அனைத்து பாவங்களும் போகும் என்பது இந்துக்களின் நம்பிக்கை. இதனால் ஒவ்வொரு ஆண்டும் பல கோடி பேர் கங்கை நதியில் நீராடுகிறார்கள்.
+
+இந்நிலையில் மேற்கு வங்கத்தில் பாயும் கங்கை ஆறு பொதுமக்கள் குளிக்க தகுதியில்லாத இடமாக மாறியுள்ளதாக தேசிய பசுமைத் தீர்ப்பாயம் அறிவித்துள்ளது. மேலும், ஒருநாளைக்கு 258 மில்லியன் லிட்டர் சுத்திகரிக்கப்படாத கழிவுநீர் நேரடியாக ஆற்றில் கலக்கிறது. இதனால் பாக்டீரியா வைரஸ் பரவல் அதிகம் இருப்பதால் பொதுமக்கள் யாரும் கங்கை நதியில் குளிக்க வேண்டாம் என எச்சரிக்கை விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/a1c700a6.json)
+
+---
+
+### Central Bank officials summoned for special party leaders’ meeting next week
+
+*2024-02-29 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-officials-summoned-for-special-party-leaders-meeting-next-week/108-277967) · `en`
+
+Colombo, Feb. 29 (Daily Mirror)- Central Bank Governor Nandalal Weerasinghe and other officials of the Central Bank have been summoned for a special party leaders' meeting on March 4, Parliament  sources said today.
+
+"It is expected that party leaders will question about the recent salary increments given to the Central Bank staff, the Parliament media office said.
+
+"The meeting on March 4 will be a special one as representatives of all parties in Parliament will participate," a spokesman from the office said.
+
+The Central Bank officials are also expected to go before the Public Finance Committee on the same day.
+
+◼️
+
+[Data](articles/c44bc41d.json)
+
+---
+
+### நாயால் அடித்த அதிர்ஷ்டம்
+
+*2024-02-29 15:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நாயால்-அடித்த-அதிர்ஷ்டம்/50-333999) · `ta`
+
+தெற்கு சீனாவின் குவாங்டாங் நகரில், நடை பயிற்சி சென்று கொண்டிருந்தார் லின் என்ற பெண். அவர் கையில் பிடித்திருந்த நாய், ஒரு கடைக்கு அருகே வந்தபோது திடீரென அவரது பிடியில் இருந்து நழுவி கடைக்குள் ஓடியது. அங்கு வைக்கப்பட்டிருந்த லொட்டரி டிக்கெட் ஒன்றை கவ்விப்பிடித்தது. இதையடுத்து அவர் அதை வாங்க வேண்டிய கட்டாயம் ஏற்பட்டது.
+
+இறுதியில் அந்த சுரண்டல் லொட்டரிக்கு 139 டொலர் பரிசு விழுந்திருந்தது. இதனால் லின் மிகவும் மகிழ்ச்சி அடைந்தார். இதனால் மறுநாள் அவராகவே தனது நாயை மீண்டும் கடைக்கு அழைத்துச்சென்று ஒரு லொட்டரியை கவ்வச்செய்தார்.
+
+அப்போது, அவருக்கு 4 டொலர் பரிசு விழுந்தது. அதிர்ஷ்டத்தை தேடித்தந்த நாய்க்கு பரிசுத்தொகையில் ஒரு பகுதிக்கு உணவு வாங்கிக் கொடுத்ததாக லின் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/ca944b30.json)
+
+---
+
+### මෛත්‍රීට නිවසක් දීමට අමාත්‍ය මණ්ඩලය ගත් තීරණය බලරහිත කරයි
+
+*2024-02-29 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193961) · `si`
+
+මෛත්‍රිපාල සිරිසේන මහතා ජනාධිපතිවරයා වශයෙන් කටයුතු කරමින් සිටියදී පදිංචිව සිටි කොළඹ, මහගමසේකර මාවතේ පිහිටි නිවස ඔහු විශ්‍රාම යාමෙන් පසුවත් ඔහුටම ලබාදීමට අමාත්‍ය මණ්ඩලය ගනු ලැබූ තීරණයෙන් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වීම සිදුවන බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.
+
+ඒ අනුව අදාළ නිවස ලබාදීම සඳහා 2019 වසරේ ඔක්තෝම්බර් මස 15 වනදා ගනු ලැබූ අමාත්‍ය මණ්ඩල තීරණය බලරහිත කිරීමට ශ්‍රේෂ්ඨාධිකරණය  නියෝග කර ඇත.
+
+විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ එහි විධායක අධ්‍යක්ෂ ආචාර්ය පාක්‍යසෝති සරවනමුත්තු මහතා විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාග කළ ගාමිණී අමරසේකර සහ කුමුදුනී වික්‍රමසිංහ යන විනිසුරුවරුන්ගේ එකඟත්වය සහිතව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රියන්ත ජයවර්ධන මහතා විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කර තිබේ.
+
+මෛත්‍රිපාල සිරිසේන මහතා අමාත්‍ය මණ්ඩලයේ ප්‍රධානියා වශයෙන් කටයුතු කරමින් තමන්ට හිමි වරප්‍රසාද පිළිබඳ තීන්දු තීරණ ගැනීම තුළින් ඔහු මහජන විශ්වාසය කඩකර ඇති බවත් ඒ තුළින් ඔහු මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇති බවට තීන්දු කරන ලෙස ඉල්ලා මෙම පෙත්සම ඉදිරිපත් කර ඇත.
+
+...
+
+[Data](articles/c6e5b7a9.json)
+
+---
+
+### එස්. සී මුතුකුමාරණ තෝරාගත් බව මැතිවරණ කොමිසම දැනුම්දෙයි
+
+*2024-02-29 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193960) · `si`
+
+එස්. සී මුතුකුමාරණ මහතා පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස තෝරා පත්කර ගන්නා ලද බව මැතිවරණ කොමිෂන් සභාව දැනුම්දෙයි.
+
+උද්දික ප්‍රේමරත්න මහතා පසුගියදා සිය පාර්ලිමේන්තු මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්විය.
+
+ඊට අදාළ පුරප්පාඩු වූ මන්ත්‍රී ධුරය පිරවීම සඳහා මෙම නව පත්කිරීම සිදුකෙරෙනු ඇත.
+
+◼️
+
+[Data](articles/0915ac41.json)
+
+---
 
 ### Colombo’s consumer price inflation dips to 5.9% in February
 
@@ -47,6 +129,30 @@ The Y-on-Y inflation of Food Group was recorded at 3.5% in February, showing a m
 ...
 
 [Data](articles/39fc4f21.json)
+
+[Extended Data](ext_articles/39fc4f21.ext.json)
+
+---
+
+### මව් ඇකයෙන් ලිස්සා පාර මැදට වැටුණු බිළිඳාට සිදුවූ දේ
+
+*2024-02-29 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193959) · `si`
+
+මාසයක් වයසැති කුඩා බිළිඳෙකු මවගේ අතින් ලිස්සා ගොස් හැටන් කොළඹ ප්‍රධාන මාර්ගයේ වැටී සිටියදී පොලීසියට හමුවූ පුවතක් කිතුල්ගල ප්‍රදේශයෙන් වාර්තාවෙයි.
+
+මීගමුව ප්‍රදේශයේ සිට ත්‍රිරෝද රථ දෙකකින් පවුල් දෙකක් කතරගම හරහා නුවරඑළියේ සංචාරයක නිරතව නැවත මීගමුව බලා යමින් සිටියදී ඉන් එක් ත්‍රිරෝද රථයක සිටි මවගේ අතේ සිටි බිළිඳෙකු කිතුල්ගල ගුරුමැටිය ප්‍රදේශයේදී මෙලෙස ලිස්සා ගොස් මාර්ගයට වැටී ඇති බව පොලීසිය පවසයි.
+
+එම අවස්ථාවේදී මවට නින්ද ගොස් සිටින්නට ඇති බවටයි පොලීසිය සැකපළ කරයි
+
+ඊයේ රාත්‍රී 11.35ට පමණ මෙම සිදුවීම වී ඇති අතර එම මාර්ගයේම ත්‍රිරෝද රථයට පසුපසින් ගමන් කරමින් තිබූ මෝටර් රථයක් මාර්ගයේ වැටී සිටි බිළිඳා ව දැක නැවත හරවාවිත් පරීක්ෂාවට ලක්කර තිබේ.
+
+අනතුරුව එම මෝටර් රථයේ පුද්ගලයින් කුඩා බිළිඳාව කිතුල්ගල පොලීසිය වෙත රැගෙන ගොස් ඇති අතර අනතුරුව පොලීසිය විසින් කඩිනමින් බිළිඳාව කිතුල්ගල රෝහලට ඇතුළත් කර තිබේ.
+
+පසුව දරුවා නොමැති බව දැනගත් ත්‍රිරෝද රථයේ ගමන්කළ පිරිස නැවත හරවාගොස් මාර්ගය සෝදිසි කරමින් ගමන්කරමින් සිටියදී දරුවා රෝහල්ගතකළ බව ඔවුන්ට දැනගන්නට ලැබී තිබේ.
+
+...
+
+[Data](articles/b5f84c64.json)
 
 ---
 
@@ -67,6 +173,114 @@ The new MOU between the Sri Lanka Navy and the U.S. Department of Energy’s Nat
 ...
 
 [Data](articles/0a81a8b0.json)
+
+[Extended Data](ext_articles/0a81a8b0.ext.json)
+
+---
+
+### උද්ධමනය පහළට
+
+*2024-02-29 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193958) · `si`
+
+කොළඹ පාරිභෝගික මිල දර්ශකය අනුව 2024 පෙබරවාරි මාසයේදී මෙරට උද්ධමනය සියයට 5.9ක් දක්වා අඩුවී තිබේ.
+
+මේ අතර, ආහාර උද්ධමනය 2024 ජනවාරි මාසයේදී 3.3%ක් ලෙස සටහන් වූ අතර එම අගය පෙබරවාරි මාසයේදී 3.5%ක් ලෙස ඉහළ ගොස් තිබේ.
+
+◼️
+
+[Data](articles/fe3225e9.json)
+
+---
+
+### சுமந்திரனின் அடிப்படை உரிமை மீறல் மனு தள்ளுபடி
+
+*2024-02-29 15:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரனின்-அடிப்படை-உரிமை-மீறல்-மனு-தள்ளுபடி/175-333998) · `ta`
+
+நிகழ்நிலை பாதுகாப்பு சட்டமூலத்திற்கு சபாநாயகர் அனுமதிப் பத்திரம் வழங்கியதை எதிர்த்து பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தாக்கல் செய்த அடிப்படை உரிமை மனு உயர் நீதிமன்றத்தால் தள்ளுபடி செய்யப்பட்டுள்ளது.
+
+நீதியரசர்கள் பிரியந்த ஜயவர்தன, ஷிரான் குணரத்ன மற்றும் அச்சல வெங்கப்புலி ஆகியோர் அடங்கிய உயர் நீதிமன்ற மூவரடங்கிய நீதிபதிகள் குழாம், சட்டமா அதிபர் சஞ்சய் ராஜரத்தினம் எழுப்பிய பூர்வாங்க ஆட்சேபனைகளை கருத்தில் கொண்டு மனுவைத் தொடர்வதற்கு அனுமதி வழங்க மறுத்துள்ளது.
+
+பாராளுமன்றத்தால் நிறைவேற்றப்பட்ட சட்டமூலத்திற்கு சபாநாயகர் சான்றளித்ததைத் தொடர்ந்து சட்டமியற்றும் விவகாரங்களில் தலையிட உயர் நீதிமன்றத்திற்கு அதிகாரம் இல்லை என சட்டமா அதிபர் ஆட்சேபனைகளை எழுப்பினார்.
+
+ஒன்லைன் பாதுகாப்புச் சட்டத்திற்கு சபாநாயகரின் சான்றிதழ் சட்டத்தில் செல்லாது என அறிவிக்குமாறு சுமந்திரன் தனது மனுவில் கோரியுள்ளார்.
+
+...
+
+[Data](articles/db6100df.json)
+
+---
+
+### புதிய பொலிஸ்மா அதிபர் ஜனாதிபதியைச் சந்தித்தார்
+
+*2024-02-29 15:25:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பொலிஸ்மா-அதிபர்-ஜனாதிபதியைச்-சந்தித்தார்/175-333997) · `ta`
+
+புதிய பொலிஸ்மா அதிபராக நியமனம் பெற்றிருக்கும் தேசபந்து தென்னகோன் இன்று (29) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவைச் சந்தித்து கலந்துரையாடினார்.
+
+நாட்டின் 36 ஆவது பொலிஸ்மா அதிபராக கடமைகளைப் பொறுப்பேற்றுக் கொண்டுள்ள நிலையிலேயே பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் ஜனாதிபதியைச் சந்தித்தார்.
+
+புதிய பொலிஸ்மா அதிபருக்கு வாழ்த்துக் கூறிய ஜனாதிபதி ரணில் விக்ரமசிங்கஇ அவருடன் சிநேகபூர்வமாக கலந்துரையாடினார்.
+
+◼️
+
+[Data](articles/8e3c5c1c.json)
+
+---
+
+### ”நியமிக்கும் முன் அவருக்கெதிரான வழக்குகளை பரிசீலித்திருக்கலாம்”
+
+*2024-02-29 15:24:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நியமிக்கும்-முன்-அவருக்கெதிரான-வழக்குகளை-பரிசீலித்திருக்கலாம்/175-333996) · `ta`
+
+தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக நியமிக்கும்போது அவருக்கு எதிராக நிலுவையில் உள்ள நீதிமன்ற வழக்குகள் பரிசீலிக்கப்பட்டிருக்க வேண்டும் என்று ஐக்கிய மக்கள் சக்தி கட்சி இன்று குற்றம் சாட்டியுள்ளது.
+
+"இலங்கை வரலாற்றில் முதன்முறையாக பல நீதிமன்ற வழக்குகளை எதிர்கொண்டுள்ள ஒருவர் பொலிஸ் மா அதிபராக நியமிக்கப்பட்டுள்ளார். நிலுவையில் உள்ள நீதிமன்ற வழக்குகளை இந்த நியமனத்தை செய்யும் போது பரிசீலித்திருக்க வேண்டும்" என SJB பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார, இன்று அறிக்கையொன்றின் மூலம்  தெரிவித்துள்ளார்.
+
+"அரகலயவின் போது ஜனாதிபதி மாளிகையில் காணப்பட்ட பணம் காணாமல் போனமை தொடர்பில் தற்போதைய பொலிஸ் மா அதிபர் சந்தேக நபராக குற்றம் சாட்டப்பட்டுள்ளார். ஊடகவியலாளர்களை துன்புறுத்தியதாகக் கூறப்படும் மனித உரிமை மீறல் மனுக்கள் அவருக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ளன," என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/c4e2f583.json)
+
+---
+
+### உலகளாவிய ரீதியில் இலங்கை முன்னணி நாடாக அங்கீகரிப்பு
+
+*2024-02-29 15:21:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகளாவிய-ரீதியில்-இலங்கை-முன்னணி-நாடாக-அங்கீகரிப்பு/175-333995) · `ta`
+
+ஐக்கிய நாடுகளின் சுற்றாடல் பேரவையின் ஆறாவது அமர்வில் (UNEP), சதுப்பு நிலங்களை மறுசீரமைப்பதில் உலகளாவிய ரீதியில் இலங்கை முன்னணி நாடாக அங்கீகரிக்கப்பட்டது.
+
+கென்யாவின் நைரோப் நகரில் அமைந்திருக்கும் ஐக்கிய நாடுகள் சுற்றுச்சூழல் வேலைத் திட்டத்தின் (UNEP) தலைமையகத்தில் நடைபெற்ற இந்த மாநாட்டில், இலங்கையைப் பிரதிநிதித்துவப்படுத்தி, காலநிலை மாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவான் விஜயவர்தன கலந்துகொண்டார்.
+
+இதன்போது இலங்கைக்கான விருதை சுற்றாடல் அமைச்சின் செயலாளர் கலாநிதி அனில் ஜாசிங்க பெற்றுக் கொண்டார்.
+
+காலநிலை மாற்றம், உயிரியல் பல்வகைத்தன்மை இழப்பு மற்றும் சுற்றாடல் மாசு ஆகிய மூன்று நெருக்கடிகளுக்கும் தீர்வு காண்பதற்கான உலகளாவிய ஒத்துழைப்பின் முக்கியத்துவத்தை வலியுறுத்தும் வகையில் ஐக்கிய நாடுகள் சபையின் சுற்றாடல் அமைப்பின் ஆறாவது அமர்வு நடைபெற்றது.
+
+அமர்வை உத்தியோகபூர்வமாக ஆரம்பிக்கும் முகமாக நிரந்தரப் பிரதிநிதிகளின் திறந்த குழு கூட்டம் நடைபெற்றிருந்த நிலையில், இதன்போது சதுப்புநில மறுசீரமைப்பு முயற்சிகளில் இலங்கையை உலகளாவிய முன்மாதிரியாக எடுத்துக் கொள்ள முடியும் என சுட்டிக்காட்டப்பட்டது.
+
+...
+
+[Data](articles/993ace3c.json)
+
+---
+
+### German Parliamentary delegation to visit Sri Lanka
+
+*2024-02-29 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/German-Parliamentary-delegation-to-visit-Sri-Lanka/108-277965) · `en`
+
+A four-member delegation of the German Parliament led by former Federal Minister Renate Kuenast, is scheduled to pay an official visit to Sri Lanka from March 1 to 5, 2024.
+
+The multi-party delegation will hold several official meetings during their stay.
+
+They are expected to have discussions with Minister of Foreign Affairs M. U. M. Ali Sabry, Speaker Mahinda Yapa Abeywardena as well as with the Leader of the Opposition Sajith Premadasa.
+
+The delegation will discuss with the newly appointed office bearers of the Sri Lanka – Germany Parliamentary Friendship Association how to establish a regular exchange between MPs of both countries.
+
+Discussions will also be held with country representatives of International Financial Institutions, of civil society/think tanks and with the business community.
+
+A visit to one of our flagship projects in Sri Lanka, the Ceylon German Technical Training Institute in Moratuwa (German Tech) is also an important part of their schedule.
+
+...
+
+[Data](articles/c0c8084d.json)
 
 ---
 
@@ -103,6 +317,24 @@ The three-member Supreme Court judge bench led by Justice Priyantha Jayawardena 
 [Data](articles/284b6f1b.json)
 
 [Extended Data](ext_articles/284b6f1b.ext.json)
+
+---
+
+### ”சபாநாயகர் அரசியலமைப்பை மீறிவிட்டார்”
+
+*2024-02-29 15:04:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகர்-அரசியலமைப்பை-மீறிவிட்டார்/175-333994) · `ta`
+
+தேசபந்து தென்னகோனை பொலிஸ் மா அதிபராக நியமித்த போது சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன அரசியலமைப்பை மீறி செயற்பட்டதாகக் கூறி, ஐஜிபியின் இந்த நியமனத்திற்கு எதிராக உயர்நீதிமன்றத்தை நாட உள்ளதாக தேசிய மக்கள் சக்தியின் பொதுச் செயலாளர் டில்வின் சில்வா தெரிவித்துள்ளார்.
+
+அரசியலமைப்பு பேரவையின் தீர்மானம் ஜனாதிபதிக்கு அறிவிக்கப்பட்ட பின்னரும் தேசபந்து தென்னகோனை பொலிஸ் மா அதிபராக நியமிப்பதற்கு சபாநாயகர் அனுமதி வழங்கியதாக அவர் செய்தியாளர் சந்திப்பில் தெரிவித்தார்.
+
+”தேசபந்து தென்னகோனை ஐஜிபியாக நியமித்த விவகாரத்தில் சபாநாயகரின் நடவடிக்கை அரசியல் சாசனத்தை மீறும் செயலாகும். சமநிலை ஏற்பட்டால் மட்டுமே சபாநாயகர் வாக்களிக்க முடியும். அரசியலமைப்பு சபைக் கூட்டத்திலும் சபாநாயகர் வாக்களிக்கவில்லை. சபையின் முடிவு ஜனாதிபதிக்கு அறிவிக்கப்பட்ட பின்னர் அவர் தனது ஒப்புதலை அளித்துள்ளார் " என்று அவர் கூறினார்.
+
+பொலிஸ் மா அதிபரை நியமிப்பதில் சிக்கல் எழுந்துள்ளதாகவும், அதனை உயர் நீதிமன்றம் சரி செய்யும் என நம்புவதாகவும் சில்வா தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/852ff5f2.json)
 
 ---
 
@@ -182,6 +414,44 @@ The petitioner has demanded the recovery of Rs. 100 million to the respondents t
 
 ---
 
+### Speaker has violated Constitution in appointing IGP: Tilvin
+
+*2024-02-29 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-has-violated-Constitution-in-appointing-IGP-Tilvin/108-277964) · `en`
+
+Colombo, Feb. 29 (Daily Mirror)- Claiming that Speaker Mahinda Yapa Abeywardane had acted in violation of the Constitution when appointing Deshabandu Tennakoon as the IGP, NPP General Secretary Tilvin Silva said today they were planning to go before the Supreme Court against the appointment of the IGP.
+
+He told a news conference that the Speaker had given his consent to the appointment of Deshabandu Tennakoon as the IGP even after the decision of the Costitutional Council was conveyed to the President.
+
+"The Speaker's condcut in the case of appointing Deshabandu Tennakoon as the IGP is in violation of the Constitution.The Speaker can vote only in case of a tie. The Speaker had not voted during the CC meeting either. He has given his consent even after the decision of the CC was conveyed to the President," he said.
+
+Silva said an issue has arrisen in the appointment of the IGP and that they hope the Supreme Court will rectify it.
+
+◼️
+
+[Data](articles/a2690b75.json)
+
+---
+
+### First wildlife tunnel construction begins March 1 to avert elephant-train collisions
+
+*2024-02-29 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-wildlife-tunnel-construction-begins-March-1-to-avert-elephant-train-collisions/108-277963) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - The construction of Sri Lanka's first ever wildlife tunnel to prevent elephant-train collisions will begin on March 1 in the Kasikota area of Galgamuwa, Gatadivula, the Transport and Highways Ministry said.
+
+They said the number of elephants killed due to train collisions is increasing and it has become an environmental and development issue that has attracted national and international attention.
+
+"Various government and non-government organizations have proposed and implemented various solutions, but as a country, we are still trying to prevent elephant-train clashes," the Ministry said.
+
+"During the last few years, between 150 and 200 wild elephants have been killed due to train collisions while roaming around the railway lines.
+
+"It was proposed to develop an old culvert near the place as a wildlife tunnel, but due to some technical problems, it was proposed to construct a new wildlife tunnel at 'Alimankada'.
+
+...
+
+[Data](articles/bd24c31d.json)
+
+---
+
 ### Motorcycle of burnt motorcycle found suspiciously
 
 *2024-02-29 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193954) · `si`
@@ -207,6 +477,72 @@ Uragasmanhandiya Police have lodged a complaint with the police that a motorcycl
 [Data](articles/2b269b6e.json)
 
 [Extended Data](ext_articles/2b269b6e.ext.json)
+
+---
+
+### சேதன உரப் பயன்பாடு இணைக்கப்பட வேண்டும்
+
+*2024-02-29 14:19:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேதன-உரப்-பயன்பாடு-இணைக்கப்பட-வேண்டும்/175-333992) · `ta`
+
+நாட்டின் தேசிய உரக் கொள்கையில் சேதன உரத்தின் பயன்பாடும் உள்ளடக்கப்பட வேண்டும் என உணவுப் பாதுகாப்பு மற்றும் கமத்தொழில் பற்றிய துறைசார் மேற்பார்வைக் குழுவின் தலைவர் டீ. வீரசிங்ஹ தெரிவித்தார்.
+
+உணவுப் பாதுகாப்பு மற்றும் கமத்தொழில் பற்றிய துறைசார் மேற்பார்வைக் குழு அவருடைய தலைமையில் கூடியபோதே இவ்வாறு தெரிவிக்கப்பட்டது.
+
+குறுகிய, நடுத்தர மற்றும் நீண்டகால கொள்கைத் தயாரிப்புக்கான முன்னுரிமைகளை அடையாளம் காண்பதற்கான தேசிய பேரவையின் உப குழு, உணவுப் பாதுகாப்பு தொடர்பான கொள்கை வரைபு ஆராயப்பட்டதுடன், இந்த வரைபில் மேற்கொள்ளப்பட வேண்டிய திருத்தங்களையும் குழு முன்மொழிந்திருந்தது.
+
+கரிம உரப் பயன்பாட்டு தொடர்பில் விவசாயிகள் மத்தியில் விழிப்புணர்வு ஏற்படுத்த வேண்டியதன் அவசியத்தை கமத்தொழில் திணைக்களத்தின் அதிகாரிகளுக்கு எடுத்துக் கூறியிருப்பதாகவும், அனைத்துப் பிராந்தியங்களில் விவசாயிகளைத் தெளிவுபடுத்தும் திட்டங்கள் முன்னெடுக்கப்படும் என்றும் குழுவின் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/a6541733.json)
+
+---
+
+### சட்டத்தரணி தொழில் செய்வதற்கு வாழ்நாள் தடை
+
+*2024-02-29 14:15:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணி-தொழில்-செய்வதற்கு-வாழ்நாள்-தடை/175-333991) · `ta`
+
+சட்டத்தரணி நாகானந்த கொடித்துவக்குவுக்கு இனிமேல் சட்டத்தரணி தொழில் செய்வதற்கு தடைவிதித்து உயர் நீதிமன்றம்  உத்தரவு பிறப்பித்துள்ளது.
+
+பிரியந்த ஜயவர்தன, பிரிதி பத்மன் சூரசேன மற்றும் எஸ். துரைராஜா ஆகிய நீதியரசர்கள் அடங்கிய உயர் நீதிமன்ற அமர்வு வியாழக்கிழமை (29)  இந்த தீர்ப்பை வழங்கியுள்ளது.
+
+நாகாநந்த கொடித்துவக்குவுக்கு எதிராக தாக்கல் செய்யப்பட்ட முறைப்பாட்டை விசாரணை செய்த பின்னர் இந்த தீர்ப்பு வழங்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/f82a7f4a.json)
+
+---
+
+### பணம் மோசடியில் ஈடுப்பட்டவர்கள் கைது
+
+*2024-02-29 14:12:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணம்-மோசடியில்-ஈடுப்பட்டவர்கள்-கைது/175-333990) · `ta`
+
+இத்தாலியில் வேலை வாங்கித் தருவதாகக் கூறி இத்தாலி தூதரகத்திற்கு சேவைக்காக வந்தவர்களிடம் மோசடி செய்த சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டதாக கொழும்பு குற்றத்தடுப்பு பிரிவினர் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபர் 52 மற்றும் 50 வயதுடையவர்  எனவும் நாரஹேன்பிட்டி பிரதேசத்தை சேர்ந்தவர் எனவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/b2642fd1.json)
+
+---
+
+### மயக்க மருந்தை கொடுத்த  பெண் கைது
+
+*2024-02-29 14:11:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மயக்க-மருந்தை-கொடுத்த-பெண்-கைது/76-333989) · `ta`
+
+புது வருடத்தை  கொண்டாடுவதற்காக நுவரெலியாவுக்கு அழைத்து வந்த நபரிடமிருந்து  தங்க நகைகள், மற்றும் விலைவுயர்ந்த தொலைபேசி இரண்டை திருடிய  பெண் ஒருவர்  நுவரெலியா  பொலிஸாரால்  திங்கட்கிழமை (26) கைது செய்யப்பட்டுள்ளார் .
+
+குறித்த  பெண்ணிடம் விசாரணைகளை மேற்கொண்ட பொலிஸாரால் அப்பெண்ணிடமிருந்து  32  இலட்சத்திற்கு அதிக  பெறுமதியான தங்க நகைகள்  , ஸ்மார்ட் தொலைபேசி  ஆகியவற்றை கைப்பற்றியுள்ளனர்.
+
+கைது  செய்யப்பட்ட  பெண்ணும்  கைப்பற்றப்பட்ட  பொருட்களும்    நுவரெலியா, நீதிமன்றத்தில் புதன்கிழமை (28) ஆஜர்படுத்திய  போது மார்ச் மாதம் 11 ஆம் திகதி வரை விளக்கமறியலில் வைக்க நீதிமன்ற நீதிபதி பிரபுதிகா லங்கான்தினி உத்தரவிட்டுள்ளார் .
+
+மாலெபே பிரதேசத்தை சேர்ந்த 45 வயது மதிக்கத்தக்க பெண்  கொழும்பை சேர்ந்த செல்வந்தருடன் நட்பை வளர்த்து அவரை 2024 புது வருடத்தை கொண்டாடுவதற்காக  நுவரெலியாவிற்கு  (31.12.2023 ) அழைத்து வந்துள்ளார்.
+
+...
+
+[Data](articles/1178afe2.json)
 
 ---
 
@@ -1673,389 +2009,5 @@ The audit uncovered over 1.3 million entries on the SAP data system that had bee
 [Data](articles/2d4a3055.json)
 
 [Extended Data](ext_articles/2d4a3055.ext.json)
-
----
-
-### Open Uni. Faculty of Management Studies holds workshop on procurement planning
-
-*2024-02-29 03:38:33* · [`dailyftlk`](https://www.ft.lk/business/Open-Uni-Faculty-of-Management-Studies-holds-workshop-on-procurement-planning/34-758992) · `en`
-
-The Open University of Sri Lanka’s (OUSL) Faculty of Management Studies recently held a workshop on procurement planning.
-
-It was held to promote the newly launched postgraduate degree program, MSc in Public Procurement and Supply Chain Management. This program is for individuals seeking a postgraduate qualification in public procurement and supply chain management. A distinctive feature of this program is its status as the first postgraduate qualification offered in public procurement in Sri Lanka.
-
-...
-
-[Data](articles/fb0d0e0b.json)
-
-[Extended Data](ext_articles/fb0d0e0b.ext.json)
-
----
-
-### AKD dispels misconceptions about NPP among upper echelons in SL
-
-*2024-02-29 02:29:12* · [`dailyftlk`](https://www.ft.lk/front-page/AKD-dispels-misconceptions-about-NPP-among-upper-echelons-in-SL/44-758973) · `en`
-
-Says NPP has found it challenging to reach elite circles which as a result lack understanding of NPP policies and ideologies
-
-Stresses party isn’t against those who are rich but instead against those who misuse public funds or make undue gains
-
-Assures an NPP Govt. will not hamper private businesses or intend to monopolise all businesses as claimed by opponents
-
-Claims it will however dismantle market monopolies by attracting more competitors in sectors such as rice and tiles
-
-Says NPP opposed to privatisation of enterprises such as Sri Lanka Telecom, MILCO though admits some sectors should be divested from Govt. involvement in business
-
-Notes party advocates for a tax policy conducive to economic growth and is opposed to current tax regime which has constricted SL’s economy
-
-Opposes PAYE tax, citing negative impact on consumer spending and economic activity
-
-...
-
-[Data](articles/3eda38f4.json)
-
-[Extended Data](ext_articles/3eda38f4.ext.json)
-
----
-
-### AKD dispels misconceptions about NPP among upper echelons in SL
-
-*2024-02-29 02:29:12* · [`dailyftlk`](https://www.ft.lk/news/AKD-dispels-misconceptions-about-NPP-among-upper-echelons-in-SL/56-758973) · `en`
-
-Says NPP has found it challenging to reach elite circles which as a result lack understanding of NPP policies and ideologies
-
-Stresses party isn’t against those who are rich but instead against those who misuse public funds or make undue gains
-
-Assures an NPP Govt. will not hamper private businesses or intend to monopolise all businesses as claimed by opponents
-
-Claims it will however dismantle market monopolies by attracting more competitors in sectors such as rice and tiles
-
-Says NPP opposed to privatisation of enterprises such as Sri Lanka Telecom, MILCO though admits some sectors should be divested from Govt. involvement in business
-
-Notes party advocates for a tax policy conducive to economic growth and is opposed to current tax regime which has constricted SL’s economy
-
-Opposes PAYE tax, citing negative impact on consumer spending and economic activity
-
-...
-
-[Data](articles/e95a1efb.json)
-
-[Extended Data](ext_articles/e95a1efb.ext.json)
-
----
-
-### Sivasankar Menon again in the center of the world economy
-
-*2024-02-29 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177563) · `ta`
-
-The Hindu -Pacific region is once again in the center of the global economy. The enclosed earth is not visible in the world today. Former India's former national security adviser and senior diplomat Sivashankar Menon said that the overlapping of geopolitical politics is dominating the journey towards the real solutions.
-
-In Colombo;He said this while addressing the Indian Ocean Conference held on Wednesday (28). He continues to say,
-
-We have been discussing the safety of the Hindu -Pacific Ocean region for the past several years. I thank the Batfire Forum for conducting these kinds of discussions.The public to consider them can realize that I am in an important moment today. President Ranil Wickremesinghe commemorates the history of the history and told us where we are today.
-
-...
-
-[Data](articles/c331c295.json)
-
-[Extended Data](ext_articles/c331c295.ext.json)
-
----
-
-### Elephant House to storm Indian shelves
-
-*2024-02-29 02:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elephant-House-to-storm-Indian-shelves/108-277927) · `en`
-
-One of Sri Lanka’s most popular lines of beverages will soon be on the shelves of India, with Reliance Consumer Products Limited (RCPL) partnering with Elephant House to manufacture, market, distribute and sell beverages.
-
-The partnership between the fast-moving consumer goods (FMCG) arm and wholly-owned subsidiary of Reliance Retail Ventures Limited and Elephant House was announced yesterday.
-
-The partnership is not only expected to help RCPL bolster its growing beverage portfolio but will also bring exceptional new products and value propositions to the Indian consumers.
-
-Elephant House is owned by Ceylon Cold Stores PLC, a subsidiary of John Keells Holdings PLC, Sri Lanka’s largest listed conglomerate. Under the Elephant House brand, it manufactures and sells a wide range of beverages, including Necto, Cream Soda, EGB (Ginger Beer), Orange Barley and Lemonade, to name a few.
-
-...
-
-[Data](articles/9b58b6c7.json)
-
-[Extended Data](ext_articles/9b58b6c7.ext.json)
-
----
-
-### Deshabandu Tennakoon: 'New IGP is not a suitable or constitutional decision'
-
-*2024-02-29 02:05:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw8jy723ep3o) · `si`
-
-It contains nothing in this.Vite contains novidio heads, the new IGP, and others express their critical views.
-
-Deshabandu Tennakoon: 'New IGP is not a suitable or constitutional decision'
-
-Deshabandu Tennakoan is to commence the duties today (Feb 29).
-
-Many comment on the commence of the new IGP as a new IGP in a setting as a result of his past violence as IGP as well as the IGP.
-
-The Supreme Court has decided in the Supreme Court case against Mr. Tennakoon.. And the Attorney General had made a decision on several occasions. The Court of Appeal has dismissed that decision. The State Attorney General has appealed to the Supreme Court. The Supreme Court has decided that public confidence in the police are broken.. In such a situation, Sri Lanka wants an exemplary person to the President, "President's Counsel Saliya Peiris told the BBC Sinhala service.
-
-Some of the new IGP expressed their commendation and others express critical views.
-
-◼️
-
-[Data](articles/c19c20d6.json)
-
-[Extended Data](ext_articles/c19c20d6.ext.json)
-
----
-
-### Those who wish to contribute to the Gaza Children's Fund
-
-*2024-02-29 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177562) · `ta`
-
-We are going to hand over the donation to the Gaza Children's Fund on April 11. UNP General Secretary Palitha Range Bandara said that those who wish to donate should hand over it before.
-
-The announcement was made during a press conference held at the UNP headquarters Sirikotha.
-
-Many children, including children, are suffering from the ongoing violence in Gaza. So President Ranil Wickremesinghe has taken steps to set up a Gaza Children's Fund to consider the boys there.. The Cabinet has also granted permission for the Cabinet.
-
-The fund is set up to provide financial assistance to Gaza children during the upcoming Ramadan festival. The President has therefore ordered all ministries and state institutions to stop the Iftar events in the upcoming Ramadan and contribute to the fund.
-
-...
-
-[Data](articles/fb3f85ea.json)
-
-[Extended Data](ext_articles/fb3f85ea.ext.json)
-
----
-
-### Why are we poor?
-
-*2024-02-29 01:55:51* · [`dailyftlk`](https://www.ft.lk/columns/Why-are-we-poor/4-758968) · `en`
-
-To understand the causes of poverty today we must understand what changed between 2020 and 2023
-
-People who have already suffered terribly because of currency debasement now face another blow when the Government appropriates even more of their income and raises the prices of goods through sales based taxes. The Government is fixing the problems in its own finances but doing so by passing the buck on to the people
-
-Economists tell us that Sri Lanka’s economy has stabilised but what does this mean if so many are struggling?
-
-...
-
-[Data](articles/2b924977.json)
-
-[Extended Data](ext_articles/2b924977.ext.json)
-
----
-
-### Indo-Sri Lankan fishermen crisis: Why protest on both sides?
-
-*2024-02-29 01:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177561) · `ta`
-
-The leader of the Tamil Fishermen's Association has urged Indian fishermen and political leaders to accept that three Indian fishermen have been sentenced to imprisonment on the basis of a court ruling given by Sri Lanka.
-
-“Two Indian fishermen have been jailed due to a verdict given to the law in the political system by the court in Sri Lanka.. Achievement does not appear to be an actual act. There is a need to exercise imprisonment within the border, ”said Srikandavel St.
-
-He made this statement at a media briefing held at the Jaffna District Fisheries Co -operative Society Association office.
-
-Jaffna will launch a black flag struggle on Sunday (March 4) on the Sri Lankan waters, protesting against the action of Indian fishermen crossing the border.. He announced at this media briefing that the district fisheries organizations have unanimously decided.
-
-...
-
-[Data](articles/b3d89e22.json)
-
-[Extended Data](ext_articles/b3d89e22.ext.json)
-
----
-
-### Ready to provide full cooperation for the Cleaning Project - New Indian Ambassador to Jaffna
-
-*2024-02-29 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177560) · `ta`
-
-The new Indian Ambassador to Jaffna has assured the Governor of the Northern Province that he is ready to provide full cooperation for the cleanup project.
-
-New Indian Vice Ambassador to Jaffna. Charles met them today. The meeting was held on Wednesday (28) at the Governor of the Northern Province.
-
-The Governor of the Northern Province made it clear to the Indian Deputy Ambassador on a number of issues, including the development projects in the province and the needs of the people.
-
-Accordingly, Indian Vice -Ambassador Seevithi Sai Murali said that the Government of India will continue to cooperate with the development projects of the Northern Province.. He said steps would be taken to provide technical training for youth and women and to expand the boat service for the islands.
-
-...
-
-[Data](articles/40739aec.json)
-
-[Extended Data](ext_articles/40739aec.ext.json)
-
----
-
-### Stir in front of the Department of Immigration Kandy
-
-*2024-02-29 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177559) · `ta`
-
-The Department of Immigration and Emigration, due to lack of proper arrangements to provide digits to the people who come to obtain services at the Kandy Regional Office. The people who come are in great difficulty.
-
-There are 200 passports daily under the service of one day, but more than a thousand people from different parts of the country come to get that service.
-
-People who stand in line on Tuesday (27) afternoon (27) afternoon, are waiting until the office opens at 8.00 am the next day.
-
-The residents of Kattukele and Sudhumbola area will be waiting for the first row of the first day of the service, with 200 digits and 175 under the usual service.. It is reported that the people who come to the service are selling numbers for the sum of Rs 3000-5000.
-
-People who come to seek the services accuse some people of the office that some people in the office are suspected of being supported.
-
-...
-
-[Data](articles/5e78b0bd.json)
-
-[Extended Data](ext_articles/5e78b0bd.ext.json)
-
----
-
-### CEDAW and the rights of working women in Sri Lanka
-
-*2024-02-29 01:39:56* · [`dailyftlk`](https://www.ft.lk/columns/CEDAW-and-the-rights-of-working-women-in-Sri-Lanka/4-758967) · `en`
-
-Violence and harassment against working women transcends borders, salary brackets and levels of job security
-
-Incidence reports appearing in newspapers, and complaints made at police stations are just the tip of the iceberg and the magnitude of the problem is much greater and most of the time hidden and unspoken of. Discrimination occurs when a woman reasonably believes that expressing her objection would negatively impact her employment, including aspects like recruitment or promotion. This recognition underscores the importance of fostering an environment where women can voice their concerns without fear of repercussions
-
-“No country can ever truly flourish if it stifles the potential of its women and deprives itself of the contributions of half of its citizens”
-
-...
-
-[Data](articles/39f081a6.json)
-
-[Extended Data](ext_articles/39f081a6.ext.json)
-
----
-
-### We are facing two main challenges - Anuragumara
-
-*2024-02-29 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177558) · `ta`
-
-We are looking forward to two main challenges. To gain the first power. The National People's Power President Anura Kumara Dissanayake said the country would be built after receiving the second chapter.
-
-Colombo District Conference of the National People's Power and Finance Union. While addressing here, Anurakumara Dissanayake said the above.
-
-Although it is two challenges, there is a path that builds the country on the path that gains power. In the past, there was another path to gain power in our country.
-
-In general, the power of our country is against the other. The 2005 government was built against the Tamil people of the North.
-
-The 2010 war success was built against others and the 2019 Muslim people. However it is not a successful path. This country must be changed on the path that unity all the people.
-
-...
-
-[Data](articles/18ed9617.json)
-
-[Extended Data](ext_articles/18ed9617.ext.json)
-
----
-
-### Northern fishermen prohibit industrial activities: Navy denying the allegation
-
-*2024-02-29 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177557) · `ta`
-
-Tamil people's representatives have strongly condemned the Navy's ban on fishing activities of Tamil fishermen in the North Sea.
-
-The Navy has been accused of disrupting the employment of local Tamil fishermen as fishermen in the North are continuously accused of not taking creative measures to curb Indian fishermen.
-
-Jaffna district journalists say that the navy has banned the Navy from engaging in fishing in the waters near the Vihara.
-
-The Navy has no authority to prevent the fishermen's industrial activities, says Eswarapadam Saravanapavan, a former MP of the Tamil National Alliance (TNA).
-
-“What authority is there?Do you have to worship in the idols by distorting our livelihood?Our people will always be looking at your power arrogance.Former Jaffna district MP has warned the Navy.
-
-...
-
-[Data](articles/117d7334.json)
-
-[Extended Data](ext_articles/117d7334.ext.json)
-
----
-
-### Sajith can join our alliance - UNP. Secretary Palitha Range Bandara
-
-*2024-02-29 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177556) · `ta`
-
-Many United People's Power Members are to join us in the wider coalition that is set to contest the presidential election. According to the United National Party General Secretary Palitha Range Bandara, Sajith Premadasa is also in the process of joining the Kapok.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Wednesday (29).
-
-The initial meeting to be held at the Kurunegala on the 10th of this month. Many of the political parties joined hands with us. We then plan to intensify the presidential election campaigns.
-
-At the same time, the upcoming presidential election is currently underway. Over 80 systems have discussed with us. All of them have agreed to support Ranil Wickremesinghe in the upcoming presidential election.
-
-Moreover. Discussions are currently underway. We expect to discuss with all political parties. Many United People's Power Members will join our alliance. We expect Sajith Premadasa to join us in the future.
-
-...
-
-[Data](articles/41e685e4.json)
-
-[Extended Data](ext_articles/41e685e4.ext.json)
-
----
-
-### October Revolution, women’s revolution and SJB’s economic ignorance
-
-*2024-02-29 00:59:41* · [`dailyftlk`](https://www.ft.lk/columns/October-Revolution-women-s-revolution-and-SJB-s-economic-ignorance/4-758965) · `en`
-
-It is a mood and movement of the masses powered by layered generations of the state university educated modern middle-class, led by its organised vanguard intelligentsia (the JVP leadership comprising former university student leaders) and affiliated or networked intelligentsia (the NPP leadership). The JVP is leftist, of a Marxist-Leninist formation; the NPP, left-inclined.
-
-It is a revolution with a vision of modernisation and inclusive, non-discriminatory nation-building. The modernisation is not led by the bourgeois elite but the educated middle-classes. It is not statist, but is not anti-state, coming as it does from the beneficiaries of state education and professionals of the public sector. In terms of ethos, the state university educated generations have residual socialist sympathies.
-
-...
-
-[Data](articles/e92f60fa.json)
-
-[Extended Data](ext_articles/e92f60fa.ext.json)
-
----
-
-### The problem of Sri Lankan Indian fishermen is ready for talks with compliance - Douglas
-
-*2024-02-29 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177555) · `ta`
-
-Sri Lanka Fisheries Minister Douglas Devananda said that he had told the Tamil Nadu Fisheries Minister that he was ready to speak with the issue of Sri Lankan fishermen.
-
-Fisheries Minister Douglas Devananda, who traveled to the Mullaitivu District, was involved in discussions at the Mullaitivu District Secretariat.
-
-Responding to a question raised by a journalist whether there is no improvement in the talks of the two states on the issue of Sri Lanka India fishermen.
-
-Tamil Nadu Fisheries Minister Anita Radhakrishnan was talking to me on the phone.
-
-They are discussing with the Chief Minister of Tamil Nadu and the Chief Minister of Pondicherry. I was told.
-
-At the same time, I have agreed to ask me if I can be able to spend the phone in person or on the phone for that discussion.
-
-They should be guaranteed to give me their dragon boats that come into our sea, destroying, destroying, and not engaging in the process of degrading the livelihood of our seaside people, "he said.
-
-◼️
-
-[Data](articles/a7dc5b70.json)
-
-[Extended Data](ext_articles/a7dc5b70.ext.json)
-
----
-
-### Economic Policies in an Election Year: Some Inconvenient Arithmetic - Part I
-
-*2024-02-29 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Economic-Policies-in-an-Election-Year-Some-Inconvenient-Arithmetic-Part-I/172-277912) · `en`
-
-...
-
-[Data](articles/9f192fae.json)
-
-[Extended Data](ext_articles/9f192fae.ext.json)
-
----
-
-### Energy Crisis was Not Created by the People
-
-*2024-02-29 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Energy-Crisis-was-Not-Created-by-the-People/172-277911) · `en`
-
-Following a long spell of about five months of rainfall in most parts of the country, especially in the wet zone which devastated the agriculture in those areas, the country has begun to experience seemingly a similar long spell of drought which seems to be carrying devastating effects on the same farming community.
-
-It might have a huge effect on hydro power generation as well, making in turn a negative bearing on the electricity consumers who have already been hit hard by two consecutive tariff hikes within a short period with relatively massive margins such as 70 percent. Interestingly, the authorities responsible for supplying electricity to the country (who refused to reduce the electricity tariff during the recent rainy period despite repeated requests by various groups in the country) are going to reduce the tariffs by 18 percent now, according to media reports.
-
-...
-
-[Data](articles/e0357722.json)
-
-[Extended Data](ext_articles/e0357722.ext.json)
 
 ---

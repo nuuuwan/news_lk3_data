@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 18:50:26**
+As of **2024-02-29 19:02:36**
 
 ## Newspaper Stats
 
-*Scraped **10,068** Articles*
+*Scraped **10,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 525
 dailyftlk | 528
 islandlk | 531
-adalk | 858
-adaderanalk | 1,216
+adalk | 859
+adaderanalk | 1,217
 tamilmirrorlk | 1,225
 virakesarilk | 1,382
 dailymirrorlk | 1,518
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,066 (100.0%) of 10,068 articles have been extended.
+10,068 (100.0%) of 10,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Heat index advisory issued warning of increased temperatures
+
+*2024-02-29 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97633/heat-index-advisory-issued-warning-of-increased-temperatures) · `en`
+
+The Department of Meteorology has cautioned the people of rising temperatures in the North-western, Western and Southern provinces and Ratnapura and Mannar Districts in the coming hours.
+
+The advisory, issued at 03.30 p.m. today (29), will be in effect until tomorrow evening (March 01).
+
+“Heat index, the temperature felt on human body is expected to increase up to ‘Caution’ level at some places in North-western, Western and Southern provinces and Ratnapura and Mannar Districts”, it warned.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity. Continuing activity could result in heat cramps.
+
+Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/ae954a89.json)
+
+---
 
 ### Sri Lanka aims to boost SME with Sancharaka Udawa tourism expo
 
@@ -58,6 +78,22 @@ Sri Lanka had welcomed 191,000 tourists up to February 25, compared to 107,639 i
 
 ---
 
+### මෛත්‍රීට නිල නිවෙසක් දෙන්න මෛත්‍රීගේම කැබෙනෙට්ටුව ගත් තීරණය බල රහිතකරයි
+
+*2024-02-29 17:56:16* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-නිල-නිවෙසක්-දෙන්න-මෛත්‍රීගේම-කැබෙනෙට්ටුව-ගත්-තීරණය-බල-රහිතකරයි/11-408358) · `si`
+
+මෛත‍්‍රීපාල සිරිසේන මහතා ජනාධිපති ධුරයේ කටයුතු කරමින් සිටියදී තමන් පදිංචිව සිටි කොළඹ මහගමසේකර මාවතේ පිහිටි නිවස විශ‍්‍රාම ගැනීමෙන් පසු තමන්ට හිමිවන බවට ආමාත්‍ය මණ්ඩලය ගත් තීරණය මගින් මූලික අයිතිවාසිකම් කඩවිමක් සිදුවු බවට තීන්දු කළ ශ්‍රේෂ්ඨාධිකරණය මෙම අමාත්‍ය මණ්ඩල තීරණය බලරහිතකරන නියෝගයක් නිකුත් කළේය.
+
+මෙම නියෝගය නිකුත් කළේ විකල්ප ප‍්‍රතිපත්ති කේන්ද්‍රය ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගෙන තීන්දුව ප‍්‍රකාශයට පත් කරමිනි.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ගාමිණී අමරසේකර, කුමුදුනි වික‍්‍රමසිංහ යන මහත්ම මහත්මීන්ගේ එකඟත්වයෙන් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප‍්‍රියන්ත ජයවර්ධන මහතා විසින් මෙම තීන්දුව ප‍්‍රකාශයට පත් කරනු ලැබ ඇත.
+
+◼️
+
+[Data](articles/76fd1b28.json)
+
+---
+
 ### The DMK will act in the interest of the people of the plantation
 
 *2024-02-29 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177616) · `ta`
@@ -78,25 +114,27 @@ During the discussion, fellow MPs, including friend Mano Ganesan, presented the 
 
 ---
 
-### ග්‍රාම නිලධාරීන්ගේ ගැටලුවලට ජනපතිගෙන් විසඳුම්
+### President solutions to the village of Grama Niladhari
 
 *2024-02-29 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193969) · `si`
 
-රජයේ වැඩපිළිවෙළ වෙනුවෙන් කොන්දේසි විරහිතව තම සහාය ලබාදෙන බව විල්ගමුව ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ සියලු ග්‍රාම නිලධාරීන් ජනාධිපතිවරයා හමුවේ ප්‍රකාශ කර තිබේ.
+All Grama Niladharis in the Wilgamuwa Divisional Secretariat area has stated to the President that he will provide his support for the government program.
 
-ඒ, මාතලේ, විල්ගමුව ප්‍රාදේශීය ලේකම් කාර්යාලයේදී අද (29) පෙරවරුවේ පැවැති සාකච්ඡාවකදී ය.
+At a meeting held at the Wilgamuwa Divisional Secretariat in Matale today (29th).
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අස්වැසුම සහ උරුමය වැඩසටහන් ක්‍රියාත්මකවීම පිළිබඳ සොයා බැලීමේ හමුවකට මෙහිදී එක්වී තිබුණි.
+President Ranil Wickremesinghe had joined the investigation into the implementation of the relief and heritage programs.
 
-මේ අතර විල්ගමුව ප්‍රාදේශීය ලේකම් කොට්ඨාසයට අයත් ග්‍රාම සේවා නිලධාරීන් මුහුණ දී ගැටලු ජනාධිපතිවරයා වෙත වාචිකව මෙන්ම ලිඛිතව ද ඉදිරිපත් කළේය.
+Meanwhile, the President presented issues of the Grama Niladhari and in writing of the Grama Niladhari of the Wilgamuwa Divisional Secretariat.
 
-එම ගැටලු කෙරෙහි අවධානය යොමු කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතැම් ගැටලුවලට එම අවස්ථාවේදීම විසඳුම් ලබාදීමට කටයුතු කළේය.
+President Ranil Wickremesinghe addressed the problems of those issues at the same time.
 
-දුෂ්කරතා හමුවේ වුවද ඔවුන් ජනතාව වෙනුවෙන් ඉටු කරන සේවාව අගය කළ ජනාධිපතිවරයා අස්වැසුම සහ උරුමය වැඩසටහන සඳහා සහාය ලබාදීමට ඉදිරිපත් වීම පිළිබඳව ද ග්‍රාම නිලධාරීන් වෙත සිය ස්තූතිය පළ කළේය.
+Despite the difficulties, the President also thanked the public to the Grama Niladhari.
 
 ◼️
 
 [Data](articles/64ff8062.json)
+
+[Extended Data](ext_articles/64ff8062.ext.json)
 
 ---
 
@@ -140,19 +178,21 @@ A bond maturing on 01.07.2032 closed at 12.55/13.00 percent up from 12.50/90 per
 
 ---
 
-### ප්‍රදේශ කිහිපයකට අවවාදාත්මක නිවේදනයක්
+### An announcement for several areas
 
 *2024-02-29 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193968) · `si`
 
-ඉදිරි පැය 24ක කාලය සඳහා උණුසුම් කාලගුණය පිළිබඳව පළාත් සහ දිස්ත්‍රික්ක කිහිපයකට අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+A warning of several provinces and districts have been issued for several provinces and districts for the next 24 hours.
 
-ඒ අනුව වයඹ, බස්නාහිර, දකුණ යන පළාත් රත්නපුර සහ මන්නාරම යන දිස්ත්‍රික්කවල ජනතාව විමසිලිමත්වන ලෙස කාලගුණ විද්‍ය දෙපාර්තමේන්තුව දැනුම්දී ඇත.
+Accordingly, the Department of Meteorology has informed the masses in the North Western, Western, Southern Provincial and Mannar Districts.
 
-මෙම ප්‍රදේශවල උණුසුම් දර්ශකය එනම් මිනිස් සිරුරට දැ‍නෙන උණුසුම 'අවධානය' යොමු කළ යුතු මට්ටමක පවතිනු ඇති බව සඳහන් වෙයි.
+It is said that the warm indicator of these areas is that the heat of the human body is in a level of focus.
 
 ◼️
 
 [Data](articles/bc65cddc.json)
+
+[Extended Data](ext_articles/bc65cddc.ext.json)
 
 ---
 
@@ -2039,43 +2079,5 @@ Accordingly, a total of 2,002 individuals will be recruited to the Grade III of 
 [Data](articles/795035a7.json)
 
 [Extended Data](ext_articles/795035a7.ext.json)
-
----
-
-### South Korean government warns doctors on strike
-
-*2024-02-29 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193945) · `si`
-
-If the junior doctors who strike the strike is parked today (29), the South Korean government warns that they will undo their medical licenses and abolish their medical licenses.
-
-Last week from last week, 75% of the country's junior doctors have been reported on strike.
-
-As a result, most hospitals are stalked and stylled.
-
-These trained doctors had begun the strike, protesting to hire more students for medical schools.
-
-Doctors - Patients - Patients - South Korea is the lowest country. That is, the number of patients covering one of its doctors.
-
-The government warns that a rapid background of the elderly population is a rapidly rising background.
-
-◼️
-
-[Data](articles/9a303725.json)
-
-[Extended Data](ext_articles/9a303725.ext.json)
-
----
-
-### Nagananda Kodituwakku disenrolled as Attorney
-
-*2024-02-29 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97612/nagananda-kodituwakku-disenrolled-as-attorney) · `en`
-
-The Supreme Court on Thursday (29 Feb.) disenrolled Nagananda Kodituwakku as an Attorney-at-Law.
-
-◼️
-
-[Data](articles/06b99874.json)
-
-[Extended Data](ext_articles/06b99874.ext.json)
 
 ---

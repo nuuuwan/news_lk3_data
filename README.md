@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 00:32:50**
+As of **2024-03-01 00:47:32**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,117 (100.0%) of 10,118 articles have been extended.
+10,118 (100.0%) of 10,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### சபாநாயகரின் தீர்மானம் பிழை என்றால் நீதிமன்றம் செல்லுங்கள் - நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ்
+### Go to court if the Speaker's decision is error - Justice Minister Wijeyadasa Rajapaksa
 
 *2024-02-29 23:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177633) · `ta`
 
-புதிய பொலிஸ்மா அதிபர் நியமனம் தொடர்பில் அரசியலமைப்பு பேரவைக்குத் தலைமை தாங்கிய சபாநாயகர் எடுத்த தீர்மானம் பிழை என்றாரல், அது தொடர்பில் நீதிமன்றம் செல்லலாம் என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+Minister of Justice Wijeyadasa Rajapakse said that the Speaker's decision to head the Constituent Assembly on the appointment of the new Inspector General of Police could go to court.
 
-மகரகம பன்னிபி்டிய பிரதேசத்தில் வியாழக்கிழமை (29) இடம்பெற்ற நிகழ்வொன்றில் கலந்துகொண்டு ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking to the media at a function held on Thursday (29) in the Pannipitiya area of Maharagama.
 
-புதிய பொலிஸ்மா அதிபர் நியமனத்தின்போது சபாநாயகரின் தீர்மானம் தொடர்பாக பலரும் விமர்சித்து வருகின்றனர். ஆனால் அரசியலமைப்பு திருத்தத்தின் மூலம் அரசியலமைப்பு பேரவைக்கு 10 உறுப்பினர்கள் நியமிப்பதற்கு நடவடிக்கை எடுத்தபோதும் சிறிய கட்சிகளை பிரதிநிதித்துவப்படுத்தி அதற்கு நியமிக்கப்பட வேண்டிய பிரதிநிதி இதுவரை பெயரிடப்படாமல் இருப்பதே இந்த பிரச்சினைக்குப் பிரதான காரணமாகும்.
+Many people are criticizing the Speaker's decision during the appointment of the new Inspector General of Police. But the main reason for this problem is that even though the constitutional amendment has taken steps to appoint 10 members to the Constituent Assembly, the representative of the small parties will not be named.
 
-இந்த சிக்கல் காரணமாகச்  சபாநாயகர் நடைமுறைப் பிரச்சினைகளுக்கு முகங்கொடுத்து வருகிறார். அதனால் சபாநாயகரின் தீர்மானத்தில் ஏதாவது சட்டச் சிக்கல் இருப்பதென நினைப்பதாக இருந்தால், அரசியலமைப்பில் சட்ட சிக்கல்களுக்கு பாெருள் கோடல் பெற்றுக்கொள்வதற்கு சிறந்த இடம் உயர்நீதிமன்றமாகும்.
+Due to this problem, the Speaker is facing practical problems. So if you think that there is any legal problem in the Speaker's decision, the best place for the constitution is the best place for legal issues in the Constitution.
 
 ...
 
 [Data](articles/8b0834c7.json)
+
+[Extended Data](ext_articles/8b0834c7.ext.json)
 
 ---
 

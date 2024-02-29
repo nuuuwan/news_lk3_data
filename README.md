@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 13:51:46**
+As of **2024-02-29 14:02:36**
 
 ## Newspaper Stats
 
-*Scraped **9,992** Articles*
+*Scraped **9,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 531
 adalk | 847
 adaderanalk | 1,204
 tamilmirrorlk | 1,212
-virakesarilk | 1,376
+virakesarilk | 1,377
 dailymirrorlk | 1,512
 adaderanasinhalalk | 1,517
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 1,517
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,992 (100.0%) of 9,992 articles have been extended.
+9,992 (100.0%) of 9,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Santhan's mother - Gajendrakumar Ponnambalam
+
+*2024-02-29 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177575) · `ta`
+
+While thousands of people have been detained and disappeared in prisons and prevention of Indian and other countries….Mr. Shantan's mother is the overall mark of the plight of the mothers who are looking for them.
+
+Mr. Shantan, who had been inadequate medical facilities in the Indian soil for 33 years, was released for one and a half years after the release of the Indian states.The news that he passed away has caused all of us in distress.
+
+No words will heal the grief of her mother and family, waiting for her son's face after 33 years.
+
+While thousands of people have been detained and disappeared in prisons and prevention of Sri Lanka and other countries by the deadly genocide….
+
+Mr. Santhan's mother is today the overall symbol of the plight of the mothers who wander.
+
+◼️
+
+[Data](articles/89a20c11.json)
+
+[Extended Data](ext_articles/89a20c11.ext.json)
+
+---
 
 ### Pending court cases should have been considered before IGP’s appointment: SJB
 
@@ -185,6 +207,24 @@ Further information was reported that they would strive to demand a permanent bu
 [Data](articles/fa251667.json)
 
 [Extended Data](ext_articles/fa251667.ext.json)
+
+---
+
+### வெளிநாட்டு புலனாய்வு அமைப்பிற்காக செயற்பட்ட அவுஸ்திரேலிய அரசியல்வாதி நாட்டை காட்டிக்கொடுத்தார்- அவுஸ்திரேலிய புலனாய்வு பிரிவின் தலைவர் திடுக்கிடும் தகவல்
+
+*2024-02-29 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177583) · `ta`
+
+அவுஸ்திரேலியாவின் முன்னாள் அரசியல்வாதியொருவர் நாட்டை வெளிநாட்டின் புலனாய்வு அமைப்பிற்கு  காட்டிக்கொடுத்தார் என அவுஸ்திரேலிய புலனாய்வு அமைப்பின் தலைவர் தெரிவித்துள்ளமை அவுஸ்திரேலியஅரசியலில் பெரும் பரபரப்பை ஏற்படுத்தியுள்ளது.
+
+ஏடீம் என்ற வெளிநாட்டு புலனாய்வு குழுவினருடன் இணைந்து செயற்பட்ட  முன்னாள் நாடாளுமன்ற உறுப்பினர்   வெளிநாட்டு புலனாய்வாளர்களை பிரதமரின் அலுவலகம் வரை அழைத்துச்சென்றார் என தேசிய புலனாய்வுபிரிவின் தலைவர் மைக்பேர்கெஸ் தெரிவித்துள்ளார்.
+
+குறிப்பிட்ட நாடாளுமன்ற உறுப்பினரின் பெயரையோ அல்லது அவர் எந்த நாட்டின் சார்பில் பணியாற்றினார் என்பதையோ வெளியிடாத புலனாய்வு பிரிவின் தலைவர் பல வருடங்களிற்கு முன்னர் இது இடம்பெற்றது எனவும் குறிப்பிட்டுள்ளார்.
+
+தற்போது கலைக்கப்பட்டுள்ள ஏகுழு ஒரு ஆக்ரோசமான மற்றும் அனுபவம் வாய்ந்த வெளிநாட்டு புலனாய்வு அமைப்பாகும் என தெரிவித்துள்ள அவுஸ்திரேலியாவின் தேசிய பாதுகாப்பு அமைப்பின் தலைவர் இது அவுஸ்திரேலியாவை முன்னுரிமைக்குரிய இலக்காக கொண்டுசெயற்பட்டது எனவும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/a899ade0.json)
 
 ---
 
@@ -387,28 +427,6 @@ UNEA-6 was preceded by a meeting of the Open-ended Committee of Permanent Repres
 [Data](articles/3b5ff88c.json)
 
 [Extended Data](ext_articles/3b5ff88c.ext.json)
-
----
-
-### Santhan's mother - Gajendrakumar Ponnambalam
-
-*2024-02-29 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177575) · `ta`
-
-While thousands of people have been detained and disappeared in prisons and prevention of Indian and other countries….Mr. Shantan's mother is the overall mark of the plight of the mothers who are looking for them.
-
-Mr. Shantan, who had been inadequate medical facilities in the Indian soil for 33 years, was released for one and a half years after the release of the Indian states.The news that he passed away has caused all of us in distress.
-
-No words will heal the grief of her mother and family, waiting for her son's face after 33 years.
-
-While thousands of people have been detained and disappeared in prisons and prevention of Sri Lanka and other countries by the deadly genocide….
-
-Mr. Santhan's mother is today the overall symbol of the plight of the mothers who wander.
-
-◼️
-
-[Data](articles/89a20c11.json)
-
-[Extended Data](ext_articles/89a20c11.ext.json)
 
 ---
 
@@ -2033,35 +2051,5 @@ Amid those developments both indices moved up. The All Share Price Index went up
 [Data](articles/845f2e1e.json)
 
 [Extended Data](ext_articles/845f2e1e.ext.json)
-
----
-
-### Sexual abuse for two twins?
-
-*2024-02-28 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193931) · `si`
-
-The monk has been arrested by Police from the Homagama Police on charges of sexually abusing two male twins.
-
-The monk who was presented to Homagama Magistrate's Court today is released on bail of Rs.
-
-It is reported that two men were 13-year-old twins.
-
-It is reported that the monk who accused the machinery healing can cure diseases.
-
-One child has been sick a few days ago and the parents were taken to this monk to treat it several days ago.
-
-The monk had told her parents there, according to police, police said.
-
-Later, the other child was sick without his brother and was revealed that the suspect had taken the child to the house and taken the child.
-
-The monk had devoured both children.
-
-Accordingly, according to the complaint, the suspect was arrested by the police.
-
-◼️
-
-[Data](articles/205334ba.json)
-
-[Extended Data](ext_articles/205334ba.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 08:32:54**
+As of **2024-02-29 08:51:37**
 
 ## Newspaper Stats
 
-*Scraped **9,935** Articles*
+*Scraped **9,937** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 99
-bbccomsinhala | 120
+bbccomsinhala | 121
 dbsjeyarajcom | 167
 newsfirstlk | 363
 economynextcom | 513
@@ -20,17 +20,39 @@ adaderanalk | 1,193
 tamilmirrorlk | 1,205
 virakesarilk | 1,373
 dailymirrorlk | 1,499
-adaderanasinhalalk | 1,504
+adaderanasinhalalk | 1,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,935 (100.0%) of 9,935 articles have been extended.
+9,937 (100.0%) of 9,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Two persons, including a woman who was called the Italian Dream, Fell
+
+*2024-02-29 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193939) · `si`
+
+The Colombo Crimes Division has been arrested by the Colombo Crimes Division for allegedly defrauding money in Italy.
+
+The suspects were arrested following a complaint lodged by the Italian embassy that the Italian embassy is being made by outside the people who come to the Italian Embassy.
+
+According to investigations carried out by the officers of the Colombo Crimes Division, information has been revealed that the suspects had cheated a sum of Rs.
+
+The arrested were a 50 year old woman and 52 year old residents of Narahenpita.
+
+The Colombo Botaight Division has commenced further investigations.
+
+◼️
+
+[Data](articles/fb6f0266.json)
+
+[Extended Data](ext_articles/fb6f0266.ext.json)
+
+---
 
 ### Grama Niladhari visits interviews
 
@@ -305,6 +327,30 @@ We have been discussing the safety of the Hindu -Pacific Ocean region for the pa
 [Data](articles/c331c295.json)
 
 [Extended Data](ext_articles/c331c295.ext.json)
+
+---
+
+### Deshabandu Tennakoon: 'New IGP is not a suitable or constitutional decision'
+
+*2024-02-29 02:05:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw8jy723ep3o) · `si`
+
+It contains nothing in this.Vite contains novidio heads, the new IGP, and others express their critical views.
+
+Deshabandu Tennakoon: 'New IGP is not a suitable or constitutional decision'
+
+Deshabandu Tennakoan is to commence the duties today (Feb 29).
+
+Many comment on the commence of the new IGP as a new IGP in a setting as a result of his past violence as IGP as well as the IGP.
+
+The Supreme Court has decided in the Supreme Court case against Mr. Tennakoon.. And the Attorney General had made a decision on several occasions. The Court of Appeal has dismissed that decision. The State Attorney General has appealed to the Supreme Court. The Supreme Court has decided that public confidence in the police are broken.. In such a situation, Sri Lanka wants an exemplary person to the President, "President's Counsel Saliya Peiris told the BBC Sinhala service.
+
+Some of the new IGP expressed their commendation and others express critical views.
+
+◼️
+
+[Data](articles/c19c20d6.json)
+
+[Extended Data](ext_articles/c19c20d6.ext.json)
 
 ---
 
@@ -1989,41 +2035,5 @@ The festival, organized by the Department of Journalism, Media and Communication
 [Data](articles/5fe189f4.json)
 
 [Extended Data](ext_articles/5fe189f4.ext.json)
-
----
-
-### Many SJBers will will join Ranil on March 10: Range Bandara
-
-*2024-02-28 16:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Many-SJBers-will-will-join-Ranil-on-March-10-Range-Bandara/108-277904) · `en`
-
-Colombo, Feb 28 (Daily Mirror) - Many members of the Samagi Jana Balawegaya (SJB) will abandon their party and join President Ranil Wickremesinghe when he kicks off his campaign for presidency on March 10 this year, UNP General Secretary Palitha Range Bandara said today.
-
-"These SJBers have already begun negotiations with us and will join us when our leader launches his campaign at a rally which is to be held in Kuliyapitiya on March 10," Range Bandara told a media briefing.
-
-Asked whether Field Marshal Sarath Fonseka will also join the President, the UNP General Secretary said the Field Marshal will end up with the right camp at the right time.
-
-Also he said Wickremesinghe will be an independent candidate at the Presidential election.
-
-"There is enough funds to hold a Presidential election in October this year," he also said.
-
-◼️
-
-[Data](articles/59e30693.json)
-
-[Extended Data](ext_articles/59e30693.ext.json)
-
----
-
-### Expression of police Inspector Duminda Jayatilleka Police Spokesman
-
-*2024-02-28 16:41:23* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-පරීක්ෂක-දුමින්ද-ජයතිලක-රට-හැර-යාම-පොලිස්-මාධ්‍ය-ප්‍රකාශකගේ-පැහැදිලි-කිරීම/11-408329) · `si`
-
-Police Media Spokesperson SSP Kmanda Police Media Spokesperson SSP Nissants Police Media Spokesperson General Thaliduwa have commenced a press conference regarding the exit of the death of the underworld gang members.That investigation into threatened calls will be investigated. According to him, the Criminal Divisional Director reports that the incident is required to ensure that this event is creative or planned, saying that the officer (Inspector Duminda Jayatilleke) is suspected.
-
-◼️
-
-[Data](articles/5c3190f3.json)
-
-[Extended Data](ext_articles/5c3190f3.ext.json)
 
 ---

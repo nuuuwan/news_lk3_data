@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 16:48:32**
+As of **2024-02-29 17:05:24**
 
 ## Newspaper Stats
 
-*Scraped **10,034** Articles*
+*Scraped **10,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 514
 dailyftlk | 528
 islandlk | 531
 adalk | 851
-adaderanalk | 1,213
+adaderanalk | 1,215
 tamilmirrorlk | 1,223
 virakesarilk | 1,378
 dailymirrorlk | 1,516
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,034 (100.0%) of 10,034 articles have been extended.
+10,034 (100.0%) of 10,036 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,36 @@ Ruhuna Mel was also pioneered by the University of Ruhuna to add significant val
 [Data](articles/818aca19.json)
 
 [Extended Data](ext_articles/818aca19.ext.json)
+
+---
+
+### SC quashes Cabinet decision granting Paget Road residence to Maithripala
+
+*2024-02-29 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97629/sc-quashes-cabinet-decision-granting-paget-road-residence-to-maithripala-) · `en`
+
+The Supreme Court on Thursday (29 Feb.) quashed the Cabinet decision allowing former President Maithripala Sirisena to occupy his official residence at Paget Road in Colombo 07 even after he left office.
+
+◼️
+
+[Data](articles/5e674aca.json)
+
+---
+
+### President pledges swift relief to all eligible ‘Aswasuma’ beneficiaries
+
+*2024-02-29 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97628/president-pledges-swift-relief-to-all-eligible-aswasuma-beneficiaries) · `en`
+
+President Ranil Wickremesinghe has emphasized that swift relief would be provided to all eligible “Aswasuma” beneficiaries while stressing the importance of government officials’ support in effectively delivering the “Aswasuma” and “Urumaya” benefits to the people.
+
+He made these observations during a meeting at the Matale Wilgamuwa Divisional Secretariat on the “Aswasuma” program implementation today (29).
+
+Meanwhile the President also made a visit to Wilgamuwa Pallegama Madhya Maha Vidyalaya today (Feb. 29), to assess the educational activities of the students.
+
+The President’s visit coincided with his attendance at a discussion held at the Wilgamuwa Divisional Secretariat auditorium regarding the “Aswasuma” program, the President’s Media Division (PMD) reported.
+
+...
+
+[Data](articles/82dbe5ba.json)
 
 ---
 
@@ -2019,53 +2049,5 @@ Meanwhile, the project to merge the planned power structure with India, 130 MW S
 [Data](articles/5e1d6278.json)
 
 [Extended Data](ext_articles/5e1d6278.ext.json)
-
----
-
-### Comprehensive project to strengthen the entrepreneur
-
-*2024-02-29 04:29:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழில்முனைவோரை-வலுவூட்ட-விரிவான-திட்டம்/175-333962) · `ta`
-
-President Ranil Wickremesinghe said that steps are being taken to create a female entrepreneurs in accordance with the economic change in the country.
-
-President Ranil Wickremesinghe said the awards ceremony for the best female entrepreneurs in Colombo yesterday.
-
-The awards ceremony organized by the Sri Lanka Women's Industrial and Business Federation was honored with the best female traders. The award was awarded to strengthen their business and market and was given the opportunity to compete in the special category for women from the SAARC Zone.
-
-President Ranil Wickremesinghe was awarded the Ten Best Female Entrepreneurs at the National Level. At the event, the President addresses the event,
-
-The last few years have not been smooth. It was a crisis period for all, including traders. Your efforts to advance the business despite the economic crises are commendable.
-
-...
-
-[Data](articles/a41a06a3.json)
-
-[Extended Data](ext_articles/a41a06a3.ext.json)
-
----
-
-### Partial suspension of parate law an election ploy says SJB
-
-*2024-02-29 03:45:26* · [`dailyftlk`](https://www.ft.lk/news/Partial-suspension-of-parate-law-an-election-ploy-says-SJB/56-758995) · `en`
-
-Asks SL’s business community to not be deceived by Govt. tactics
-
-Says partial suspension of parate executions until Dec will offer little benefit to businesses
-
-Urges CBSL to ensure independent appraisals are carried out on properties to be auctioned by lenders
-
-Stresses that rights of borrowers must be protected and any action by banks must be just
-
-The Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday claimed the Government’s decision to partially suspend the operation of parate executions until December this year is nothing but an election ploy.
-
-Speaking at a press conference the MP asserted that the Government’s decision was solely motivated by the upcoming election year and emphasised that its suspension until December would offer little benefit to businesses.
-
-“We urge the business community not to be deceived by these tactics. It is nothing but a political manoeuvre,” he emphasised.
-
-...
-
-[Data](articles/7df8e856.json)
-
-[Extended Data](ext_articles/7df8e856.ext.json)
 
 ---

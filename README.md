@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 19:34:04**
+As of **2024-02-29 19:51:25**
 
 ## Newspaper Stats
 
-*Scraped **10,073** Articles*
+*Scraped **10,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,219
 tamilmirrorlk | 1,225
 virakesarilk | 1,383
 dailymirrorlk | 1,518
-adaderanasinhalalk | 1,532
+adaderanasinhalalk | 1,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,071 (100.0%) of 10,073 articles have been extended.
+10,074 (100.0%) of 10,074 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ A Division Bench of Justices R. Sureshkumar and K. Kumaresh Babu issued the dire
 ...
 
 [Data](articles/49b23e61.json)
+
+[Extended Data](ext_articles/49b23e61.ext.json)
 
 ---
 
@@ -65,6 +67,26 @@ Accordingly, the newly-appointed IGP has approved to provide legal aid to said p
 [Data](articles/efb07618.json)
 
 [Extended Data](ext_articles/efb07618.ext.json)
+
+---
+
+### New relief to police officers
+
+*2024-02-29 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193971) · `si`
+
+The new IGP of Deshabandu Tennakoon has approved the "Legal Relief Scheme" to provide legal assistance to police officers.
+
+The cabinet was presented to the Cabinet by Hon
+
+The new scheme is to provide financial support for private legislation for the implementation of the implementation of the implementation of the functions of the work.
+
+Also, if a police officer undergoing the process of duties in the scope of work, the Attorney General's Department will not support the government's legal assistance and obtaining other legal assistance, obtaining the legal assistance and other legal services.This method will be supported by the economic difficulties of the officers.
+
+◼️
+
+[Data](articles/3a86147b.json)
+
+[Extended Data](ext_articles/3a86147b.ext.json)
 
 ---
 
@@ -90,21 +112,25 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 
 ---
 
-### "அஸ்வெசும"  பெறத் தகுதியுடைய அனைவருக்கும் துரிதமாக நிவாரணம் வழங்கப்படும் - ஜனாதிபதி
+### All those who are eligible to get "Aswesuma" will be given fast relief - the President
 
 *2024-02-29 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177617) · `ta`
 
-பொருளாதார ரீதியில் வீழ்ச்சியடைந்துள்ள இந்நாட்டு மக்களை வாழ வைப்பதில் “அஸ்வெசும” மற்றும் “உறுமய” வேலைத் திட்டங்கள் பெரும் பங்காற்றுவதாகவும், நிவாரணம் கிடைக்க வேண்டிய அனைவருக்கும் துரிதமாக நிவாரணம் வழங்கப்படும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe said that the "Assumsuma" and the "Urumaya" program will play a major role in keeping the people of this country to live economically.
 
-"அஸ்வெசும" மற்றும் "உறுமய" திட்டங்களை முறையாக மக்களிடம் கொண்டு சேர்ப்பதற்கு அரச அதிகாரிகளின் ஆதரவு தேவை எனவும் ஜனாதிபதி குறிப்பிட்டார்.
+The President also said that the support of state officials is needed to properly bring "Aswesuma" and "Urumaya" projects to the people.
 
-மாத்தளை, வில்கமுவ பிரதேச செயலகத்தில் வியாழக்கிழமை (29) முற்பகல் நடைபெற்ற “அஸ்வெசும” வேலைத் திட்டத்தின் அமுலாக்கம் தொடர்பில் ஆராயும் கூட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe made this observation at a meeting to investigate the implementation of the "Assuma" program held at the Wilgamuwa Divisional Secretariat in Matale on Thursday (29).
 
-அரசாங்கத்தின் வேலைத்திட்டத்திற்கு நிபந்தனையற்ற ஆதரவளிப்பதாக வில்கமுவ கிராம அதிகாரிகள் சங்கம் ஜனாதிபதி முன்னிலையில் அறிவித்தமையும் விசேட அம்சமாகும்.
+The Vilgamuwa Village Officers Association has announced the presidential president that the government is uncontrollable to support the government's program.
+
+The acceptance of the second phase of applications began on February 15 and 35,920 new applications have been received till today (29).. Of these, 14,537 applications have been received through the Divisional Secretary and 21,383 applications through the website.
 
 ...
 
 [Data](articles/86671e2b.json)
+
+[Extended Data](ext_articles/86671e2b.ext.json)
 
 ---
 
@@ -2057,27 +2083,5 @@ UNEA-6 was preceded by a meeting of the Open-ended Committee of Permanent Repres
 [Data](articles/3b5ff88c.json)
 
 [Extended Data](ext_articles/3b5ff88c.ext.json)
-
----
-
-### Compulsory to reserve date, time to obtain services from DMT from Monday
-
-*2024-02-29 11:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Compulsory-to-reserve-date-time-to-obtain-services-from-DMT-from-Monday/108-277951) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - The Department of Motor Traffic has made it compulsory for people to reserve a date and time to obtain services from March 4, DMT Commissioner General Nishantha Anuruddha Weerasinghe said.
-
-The decision was taken to save time for the people who come to the department for services and to arrange the number of people arriving at the head office and other branches.
-
-Therefore, people are requested to log on to the department's official website, https://dmtappointments.dmt.gov.lk/, or to contact through the automated telephone service, 0112117116.
-
-Thise who dial from outside Colombo must enter the area code with the general number 2117116.
-
-Meanwhile, National Transport Medical Institute (NTMI) Chairman Darshana Abeyrathne said it is essential to obtain separate dates and times for medical tests through the e-channeling system.
-
-...
-
-[Data](articles/b64f8594.json)
-
-[Extended Data](ext_articles/b64f8594.ext.json)
 
 ---

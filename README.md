@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 06:16:28**
+As of **2024-02-29 06:52:45**
 
 ## Newspaper Stats
 
-*Scraped **9,919** Articles*
+*Scraped **9,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 521
 dailyftlk | 527
 adalk | 841
 adaderanalk | 1,193
-tamilmirrorlk | 1,204
+tamilmirrorlk | 1,205
 virakesarilk | 1,373
 dailymirrorlk | 1,499
 adaderanasinhalalk | 1,499
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,919 (100.0%) of 9,919 articles have been extended.
+9,919 (100.0%) of 9,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### இந்திய மின் சக்தி அமைச்சின் பிரதிநிதிகள் இலங்கையில்
+
+*2024-02-29 04:34:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மின்-சக்தி-அமைச்சின்-பிரதிநிதிகள்-இலங்கையில்/175-333963) · `ta`
+
+இந்திய மின் சக்தி அமைச்சின் செயலாளர் பங்கஜ் அகர்வால் தலைமையிலான குழுவினர் மூன்று நாள் விஜயமாக நாட்டிற்கு வருகை தந்துள்ளனர்.
+
+அவர்கள் மின் சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகரவை அவரது அமைச்சில் நேற்று சந்தித்தனர்.
+
+இதன்போது, இந்தியாவுடன் திட்டமிடப்பட்டுள்ள மின் கட்டமைப்பை ஒன்றிணைக்கும் வேலைத்திட்டம், 130 மெகாவாட் சம்பூர் மின்னுற்பத்தி செயற்றிட்டம், யாழ். மாவட்டத்தின் மூன்று தீவுகளில் முன்னெடுக்க உத்தேசிக்கப்பட்டுள்ள உத்தேச மின்மயமாக்கல் செயற்றிட்டங்கள் ஆகியன தொடர்பில் கலந்துரையாடப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/5e1d6278.json)
+
+---
 
 ### Comprehensive project to strengthen the entrepreneur
 
@@ -1997,25 +2013,5 @@ The Municipal Corporation CEO. Khushal Singh Tudway said, “Steps are being tak
 [Data](articles/f62cd9ee.json)
 
 [Extended Data](ext_articles/f62cd9ee.ext.json)
-
----
-
-### IMF team to visit Sri Lanka for second EFF review
-
-*2024-02-28 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97595/imf-team-to-visit-sri-lanka-for-second-eff-review) · `en`
-
-A team from the International Monetary Fund (IMF) is to arrive in Sri Lanka for the second review of the Extended Fund Facility (EFF) programme which is to begin on 07 March, according to State Minister of Finance Shehan Semasinghe.
-
-The state minister said he believes the second review for the third disbursement under the extended fund facility will be carried out across a period of around two weeks.
-
-“The second review will commence from the 7th of March and we are very confident that will be a smoother review than the first review.”
-
-“Because the first review, it was the initial stages of the implementation of the policy decisions the government had taken,” he told reporters, during a press briefing at the Presidential Media Center on Wednesday (28).
-
-...
-
-[Data](articles/e89ae81c.json)
-
-[Extended Data](ext_articles/e89ae81c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 02:02:35**
+As of **2024-03-01 02:17:31**
 
 ## Newspaper Stats
 
-*Scraped **10,125** Articles*
+*Scraped **10,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 864
 adaderanalk | 1,223
 tamilmirrorlk | 1,230
 virakesarilk | 1,391
-dailymirrorlk | 1,533
+dailymirrorlk | 1,536
 adaderanasinhalalk | 1,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,125 (100.0%) of 10,125 articles have been extended.
+10,125 (100.0%) of 10,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Sri Lanka Passes New Legislation - THAT NO ONE SEEMS TO KNOW - To End Corporal Punishment Against Children
+
+*2024-03-01 01:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-Passes-New-Legislation-THAT-NO-ONE-SEEMS-TO-KNOW-To-End-Corporal-Punishment-Against-Children/172-277999) · `en`
+
+...
+
+[Data](articles/23dff44e.json)
+
+---
+
+### Unhealthy Competition in Tourism Must Be Stopped - EDITORIAL
+
+*2024-03-01 01:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Unhealthy-Competition-in-Tourism-Must-Be-Stopped-EDITORIAL/172-277998) · `en`
+
+There was a recent report in the Daily Mirror stating the inconveniences caused to locals due to businesses conducted by Israeli, Russian and Ukrainian nationals in the southern part of Sri Lanka. This report demands deep pondering investigation.
+
+As much as such businesses are eating into the earning opportunities of locals, we also must think that there are hidden opportunities for business here when some people think that all is lost in this sun-kissed paradise island. These foreign nationals are operating bars, restaurants, giving surfing lessons, buying or leasing lands and renting out tuk-tuks; the latter to cut down on travel expenses. Wow! The message that foreign nationals are giving to all of Sri Lanka is that ‘if you cannot do business here in this country we’ll show you how’.
+
+...
+
+[Data](articles/9b6b82a3.json)
+
+---
+
+### Palestinian question: The context highlights the illegality of Israel
+
+*2024-03-01 01:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Palestinian-question-The-context-highlights-the-illegality-of-Israel/172-277997) · `en`
+
+Displaced Palestinian children gather for food in Rafah in the southern Gaza Strip. AFP
+
+The October 7, 2023, attacks the Palestinian resistance group Hama launched on Israel did not happen in a vacuum. In October last year, weeks after the Hamas attack, the United Nations Secretary-General, Antonio Guterres, told the UN Security Council that “it is important to recognise the attacks by Hamas did not happen in a vacuum.”
+
+Intellectuals avoid jumping to conclusions. They investigate all sides of an issue, including its history, context, and surrounding narratives, to form an opinion grounded in justice. The Secretary-General was not taking sides in the Israel-Palestinian question. His speech conformed to what was expected of an intellectual and a UN official committed to standing up for justice.
+
+...
+
+[Data](articles/dc874c0b.json)
+
+---
 
 ### The body of a male from the top Kothmalai reservoir is recovered
 
@@ -1941,63 +1981,5 @@ Silva said he had trouble appointing the Inspector General of Police and hoped t
 [Data](articles/852ff5f2.json)
 
 [Extended Data](ext_articles/852ff5f2.ext.json)
-
----
-
-### Keheliya files FR petition against arrest, demands compensation
-
-*2024-02-29 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97623/keheliya-files-fr-petition-against-arrest-demands-compensation-) · `en`
-
-A Fundamental Rights (FR) petition was filed Thursday (29 Feb.) on behalf of former Health Minister Keheliya Rambukwella, who is currently in remand custody.
-
-Rambukwella’s attorneys have filed the relevant petition challenging his arrest by the Criminal Investigation Department (CID), and demanding a compensation of Rs. 100 million.
-
-The former Minister of Health was arrested by the CID on 02 February, in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived at the CID to give a statement in compliance with a court order. He had been questioned for nearly 10 hours before being arrested.
-
-◼️
-
-[Data](articles/e73a2c9d.json)
-
-[Extended Data](ext_articles/e73a2c9d.ext.json)
-
----
-
-### Why not send Shantan to Sri Lanka before he dies?
-
-*2024-02-29 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177595) · `ta`
-
-The Madras High Court has questioned the Tamil Nadu government why he did not send Santhan to Sri Lanka before he died.
-
-Shantan had filed a petition in the Madras High Court demanding her to be sent to Sri Lanka to look after his mother.. Additional Criminal Prosecutor Muniyapparaj appeared on behalf of the government and said that he had died unfortunately as the work was being sent to Sri Lanka.
-
-The judges questioned when the permission to send Sri Lanka to Sri Lanka. Additional Solicitor General ARL responded. Sundaresan said he had been granted permission to send him to Sri Lanka on the 22nd.. The judges questioned why the central government did not send permission to send Shantan to Sri Lanka.
-
-Responding to this, the state prosecutor said that Shantan had been admitted to the hospital since January 24 and that he could not move.. Subsequently, the judges ordered the filing of Shantan's medical report and postponed the hearing.
-
-◼️
-
-[Data](articles/3f47e7f0.json)
-
-[Extended Data](ext_articles/3f47e7f0.ext.json)
-
----
-
-### New IGP meet President
-
-*2024-02-29 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193956) · `si`
-
-New IGP of Sri Lanka. M. W. D. Tennakoon met President Ranil Wickremesinghe at the Presidential Secretariat this morning.
-
-Deshabandu Tennakoon met with the President following the assustee of work as the 3rd IGP in Sri Lanka.
-
-President Ranil Wickremesinghe, who was congratulated to the new IGP, was a friendly chat with him, the Presidential Media Unit said.
-
-The new IGP was also presented to the President.
-
-◼️
-
-[Data](articles/d8463315.json)
-
-[Extended Data](ext_articles/d8463315.ext.json)
 
 ---

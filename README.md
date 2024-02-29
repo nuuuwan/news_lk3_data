@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 12:02:40**
+As of **2024-02-29 12:17:34**
 
 ## Newspaper Stats
 
-*Scraped **9,974** Articles*
+*Scraped **9,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ newsfirstlk | 363
 economynextcom | 514
 dailyftlk | 528
 islandlk | 531
-adalk | 844
+adalk | 846
 adaderanalk | 1,199
 tamilmirrorlk | 1,212
 virakesarilk | 1,376
 dailymirrorlk | 1,508
-adaderanasinhalalk | 1,512
+adaderanasinhalalk | 1,514
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,974 (100.0%) of 9,974 articles have been extended.
+9,974 (100.0%) of 9,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### ශ්‍රී ලංකා කණ්ඩායම දිවයිනෙන් පිටත්ව යයි
+
+*2024-02-29 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193948) · `si`
+
+බංග්ලාදේශය සමග විස්සයි විස්ස තරගාවලියට සහභාගීවන ශ්‍රී ලංකා කණ්ඩායම අද දිවයිනෙන් පිටත්ව ගියේය.
+
+ඊට පෙර ශ්‍රී ලංකා කණ්ඩායම ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේදී ආගමික වතාවත්වල නිරතවිය.
+
+බංග්ලාදේශය සමග පැවැත්වීමට නියමිත තරග 3කින් සමන්විත 20/20 තරගාවලිය සඳහා ශ්‍රී ලංකා සංචිතය ඊයේ ප්‍රකාශයට පත්කළේය.
+
+20/20 නිත්‍ය නායක වනිඳු හසරංගට තරග දෙකක තරග තහනමක් පැනවීම හේතුවෙන් පළමු තරග දෙක සඳහා කණ්ඩායම මෙහෙයවීමේ වගකීම හිමි වී ඇත්තේ චරිත් අසලංකටය.
+
+20/20 තරගාවලිය සඳහා වන ශ්‍රී ලංකා සංචිතයට අවිශ්ක ප්‍රනාන්දු සහ ජෙෆ්රි වැන්ඩර්සේ ද ඇතුළත් වී තිබේ.
+
+20/20 සංචිතයට ඇතුළත් සෙසු ක්‍රීඩකයන් වන්නේ කුසල් මෙන්ඩිස්, සදීර සමරවික්‍රම, ඇන්ජලෝ මැතිව්ස්, දසුන් ශානක, මහීෂ් තීක්ෂණ, ධනංජය ද සිල්වා, කුසල් ජනිත් පෙරේරා, ඩිල්ෂාන් මදුෂංක, නුවන් තුෂාර, මතීෂ පතිරණ, අකිල ධනංජය, බිනුර ප්‍රනාන්දු, කමිඳු මෙන්ඩිස්.
+
+දෙරට අතර පළමු විස්සයි විස්ස තරගය මාර්තු 4 වැනිදා ආරම්භ වීමට නියමිතය.
+
+◼️
+
+[Data](articles/8c2f836d.json)
+
+---
+
+### Online පනත - සුමන්දිරන්ගේ FR පෙත්සම නිෂ්ප්‍රභ කෙරේ
+
+*2024-02-29 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193947) · `si`
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතතාව පිළිබඳ පනත පාර්ලිමේන්තුවේ සම්මත කළ ආකාරය නීතියට පටහැනි යැයි තීන්දු කරන ලෙස ඉල්ලා ජනාධිපති නීතිඥ එම්. ඒ. සුමන්දිරන් මහතා විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (29) තීරණය කළේය.
+
+ප්‍රියන්ත ජයවර්ධන, ශිරාන් ගුණරත්න සහ අචල වෙංගප්පූලි යන මහත්වරුන්ගෙන් සමන්විත ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම තීන්දු ලබා දුන්නහ.
+
+අදාළ පනත් කෙටුම්පත සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය විසින් ඉදිරිපත් කළ සංශෝධන ඊට ඇතුළත් නොකිරීම හේතුවෙන් එය නීත්‍යානුකූලව සම්මත වී නොමැති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා සුමන්දිරන් මන්ත්‍රීවරයා විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබිණි.
+
+◼️
+
+[Data](articles/c4333bac.json)
+
+---
+
+### ජනප්‍රිය ජාතික පාසල් 50 ක ලොකු පුටු පිරවේ
+
+*2024-02-29 11:39:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනප්‍රිය-ජාතික-පාසල්-50-ක-ලොකු-පුටු-පිරවේ/11-408344) · `si`
+
+දිවයිනේ ප්‍රමුඛතම ජනප්‍රිය   ජාතික පාසල් 50 ක ජුනි 30 දිනට ඇතිවන  පුරප්පාඩු  සඳහා විදුහල්පතිවරුන්  බඳවා ගැනීමට අධ්‍යාපන අමාත්‍යාංශය අයදුම් පත් කැඳවා තිබේ.
+
+කොළඹ රාජකීය ,නාලන්ද,දේවි බාලිකා,සිරිමාවෝ බණ්ඩාරනායක,මොරටුව වේල්ස් කුමර,මහනුවර කිංස්වුඩ්,ගම්පහ බණ්ඩාරනායක යන පාසල් ඇතුළු ජාතික පාසල් පනහක් සඳහා මාර්තු 20 දක්වා  මෙලෙස අයදුම්පත් කැඳවා ඇත.
+
+අධ්‍යාපන පරිපාලන සේවයේ පළමු ශ්‍රේණියේ නිලධාරින්ට පමණක් මේ සඳහා ඉල්ලුම් කළ හැකිය.
+
+◼️
+
+[Data](articles/deac254e.json)
+
+---
 
 ### Simplified to Pakistan from China
 
@@ -521,6 +577,20 @@ Sri Lanka took such a decision in the midst of pressure from India which cited s
 [Data](articles/6ce80bdc.json)
 
 [Extended Data](ext_articles/6ce80bdc.ext.json)
+
+---
+
+### ශ්‍රී ලන්කන් ලංසු විවෘත කිරීම මාර්තු 05දා
+
+*2024-02-29 08:24:52* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ලංසු-විවෘත-කිරීම-මාර්තු-05දා/11-408342) · `si`
+
+මාර්තු 05 වනදා ශ්‍රීලන්කන් ගුවන් සේවය මිලදී ගැනීම සඳහා ලංසු විවෘත කිරීම සජිවීව සිදුකිරිමට නියමිතව තිබේ. එහිදී වැඩිම ලංසුවක් ඉදිරිපත් කර ඇති අයෝජකයෙක් තෝරා ගැනීමට වරාය, නාවුක සහ ගුවන් සේවා අමාත්‍යාංශය අවධානය යොමුකර තිබේ.
+
+අවම වශයෙන් ඩොලර් මිලියන 500ක ආයෝජනයක් සිදුකළ හැකි මෙන්ම ගුවන් සේවයේ 6000කට ආසන්න සේවකයන් පිරිම ආරක්ෂා කර ගත හැකි ආයෝකයෙක් තෝරා ගැනීමට අමාත්‍යාංශයේ අවධානය යොමුව තිබේ.
+
+◼️
+
+[Data](articles/ca95f35c.json)
 
 ---
 
@@ -1983,79 +2053,5 @@ The Minister made these comments participating at the GET REAL program of Ada De
 [Data](articles/5de41ecc.json)
 
 [Extended Data](ext_articles/5de41ecc.ext.json)
-
----
-
-### Damitha and husband asks for expected
-
-*2024-02-28 19:39:29* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-හා-සැමියා-අපේක්ෂිත-ඇප-ඉල්ලයි/11-408337) · `si`
-
-Damitha Abeyratne, an unveiled bail to be arrested in Korea, and her husband, who is said to have been imposed on the investigation and her husband will not be arrested on the 6th of this month, he appeared in the excess of that dayThe Criminal Investigations Department released notice to the OIC of the Criminal Investigation Department.
-
-Attorney-at-Law Ajith Pathirana, pointed out that the IGP has filed a complaint has been lodged by the IGP, has filed a complaint made by the IGP, has filed a complaint made by the IGP.
-
-The OIC of the Criminal Investigation Department has been named as respondent at the Application Former Experience Application Form (CID) presented by Damitha Abeyratne and her husband.
-
-Attorney-at-Law Tharindu Wickrammanayake filed this Expected Guarantee sheet sheet sheet sheet and arrested his clients to arrest their clients in Korea.He said he was to know.
-
-...
-
-[Data](articles/b66ce1cc.json)
-
-[Extended Data](ext_articles/b66ce1cc.ext.json)
-
----
-
-### Little Son's Video Works for Facebook
-
-*2024-02-28 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193929) · `si`
-
-Meanwhile, a video showing how a child is embarrassed by a teacher in the school room in the school's classroom.
-
-They said that disciplinary action was taken by a teacher or teacher who was involved in the filming of the incident.
-
-◼️
-
-[Data](articles/ae67e15d.json)
-
-[Extended Data](ext_articles/ae67e15d.ext.json)
-
----
-
-### Harini should bring in a private member’s motion to repeal laws prohibiting prostitution: Hirunika
-
-*2024-02-28 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Harini-should-bring-in-a-private-members-motion-to-repeal-laws-prohibiting-prostitution-Hirunika/108-277900) · `en`
-
-Colombo, Feb. 28 (Daily Mirror)- National People's Power (NPP) MP Harini Amarasuriya should bring in a private member's motion to repeal the Vagrants Ordinance of 1841 under which prostitution is banned in Sri Lanka, former MP Hirunika Premachandra said today.
-
-"Amarasuriya did mention that decriminalising prostitution in Sri Lanka is some thing that will be included in her party's manifesto. They don't have to wait till they come to power to do it. This is because she could easily bring in a private member's motion to repeal the Vagrants' Ordinance of 1841 under which prostitution is banned here," Premachandra said.
-
-"You don't have to include such pledges in your party manifesto. However, you can prove your genuineness by briniging in a private member's motion," she added.
-
-...
-
-[Data](articles/fae347ba.json)
-
-[Extended Data](ext_articles/fae347ba.ext.json)
-
----
-
-### There is no right to raise to resist Ranil in the presidential election
-
-*2024-02-28 19:29:28* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයේදී-රනිල්ට-සහාය-පළ-නොකර-සිටීමට-පොහොට්ටුවට-අයිතියක්-නෑ/11-408336) · `si`
-
-According to the Urban Development and Housing Minister Prasanna Ranatunga says that Ranil Wickremesinghe has been appointed as the President.
-
-He emphasizes that it is best to support Mr. Ranil Wickremesinghe or Ranil Wickremesinghe in the next presidential election.
-
-He said he did not seem to have another alternative candidate to the poultry.
-
-The Minister was responding to the Galle District Coordinating Committee and respond to questions raised by journalists. The Galle District Coordinating Committee was held today (28) at the Hall D Goal hall in the Galle Fort.
-
-...
-
-[Data](articles/6e19566d.json)
-
-[Extended Data](ext_articles/6e19566d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 07:15:23**
+As of **2024-02-29 07:29:54**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ adaderanasinhalalk | 1,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,920 (99.9%) of 9,931 articles have been extended.
+9,926 (99.9%) of 9,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### ප්‍රදේශ කිහිපයකට සුළු වැසි
+### Minor showers to several areas
 
 *2024-02-29 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193933) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology announces that there will be showers in the Eastern and Uva provinces and in Polonnaruwa and Matale Districts.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces and in the Galle, Matara and Nuwara Eliya districts.
 
-මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+Northern, North-Central, North Western, Uva and Eastern Provinces. Strong winds can occur 30-40 times.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/fc2f98c0.json)
+
+[Extended Data](ext_articles/fc2f98c0.ext.json)
 
 ---
 
@@ -766,6 +768,8 @@ The agreement opens avenues for trading new products, enhancing bilateral trade 
 
 [Data](articles/e9187a92.json)
 
+[Extended Data](ext_articles/e9187a92.ext.json)
+
 ---
 
 ### Number of Aswesuma beneficiaries to be increased to 2.4mn families by June – State Minister
@@ -822,6 +826,8 @@ The Company has stood firmly with its policyholders in the face of challenging m
 
 [Data](articles/c02fa130.json)
 
+[Extended Data](ext_articles/c02fa130.ext.json)
+
 ---
 
 ### Highest per day share transactions over past four months; turnover Rs. 1.2 billion
@@ -835,6 +841,8 @@ Amid those developments both indices moved up. The All Share Price Index went up
 ...
 
 [Data](articles/845f2e1e.json)
+
+[Extended Data](ext_articles/845f2e1e.ext.json)
 
 ---
 

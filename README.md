@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 18:20:02**
+As of **2024-02-29 18:33:01**
 
 ## Newspaper Stats
 
-*Scraped **10,062** Articles*
+*Scraped **10,066** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 99
-bbccomsinhala | 122
+bbccomsinhala | 123
 dbsjeyarajcom | 168
 newsfirstlk | 363
-economynextcom | 522
+economynextcom | 525
 dailyftlk | 528
 islandlk | 531
 adalk | 858
@@ -26,39 +26,107 @@ adaderanasinhalalk | 1,530
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,051 (99.9%) of 10,062 articles have been extended.
+10,062 (100.0%) of 10,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### பெருந்தோட்ட மக்களின் நலன் கருதி த.மு.கூட்டணியினர் செயற்படுவர் - பாட்டலி சம்பிக்க ரணவக்க நம்பிக்கை
+### Sri Lanka aims to boost SME with Sancharaka Udawa tourism expo
+
+*2024-02-29 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-aims-to-boost-sme-with-sancharaka-udawa-tourism-expo-152552/) · `en`
+
+ECONOMYNEXT – Sri Lanka is hosting Sancharaka Udawa, a tourism industry exhibition which will bring together businesses ranging from hotels to travel agents and airlines, and will allow the small and medium sector build links with the rest of the industry, officials said.
+
+There will be over 250 exhibitors, with the annual event held for the 11th time expected to draw around 10,000 visitors, the organizers said.
+
+“SMEs play a big role, from homestays to under three-star categories,” Sri Lanka Tourism Promotion Bureau Chairman, Chalaka Gajabahu told reporters.
+
+“It is very important that we develop those markets as well.”
+
+The Sancharaka Udawa fair comes as the Indian Ocean island is experiencing a tourism revival.
+
+Sri Lanka had welcomed 191,000 tourists up to February 25, compared to 107,639 in February 2023.
+
+“We have been hitting back-to-back double centuries,” Gajabahu said. “January was over 200,000.”
+
+...
+
+[Data](articles/a874d13c.json)
+
+---
+
+### The DMK will act in the interest of the people of the plantation
 
 *2024-02-29 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177616) · `ta`
 
-பெருந்தோட்ட மக்களின் நலன் கருதி தமிழ் முற்போக்கு கூட்டணியினர் சிறந்த அரசியல் தீர்மானம் எடுப்பார்கள் என்று எதிர்பார்க்கிறேன். கடந்த ஜனாதிபதி தேர்தல் மற்றும் பொதுத்தேர்தலில் நாங்கள் ஒன்றிணைந்து செயற்பட்டோம். தொடர்ந்து ஒன்றிணைந்து செயற்படுவதில் சிக்கலில்லை என ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+I expect the Tamil Progressive Alliance to make a better political decision for the welfare of the plantation people. We worked together in the last presidential election and general election. Patali Champika Ranawaka, the leader of the United Republic Front and Member of Parliament, said that there was no complication of continuing work.
 
-தமிழ் முற்போக்கு கூட்டணிக்கும்,ஐக்கிய குடியரசு முன்னணிக்கும் இடையிலான கலந்துரையாடல் கொழும்பு பாமன்கடையில் உள்ள தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசனின் இல்லத்தில் வியாழக்கிழமை (29) இடம்பெற்றது. இந்த கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+A discussion between the Tamil Progressive Alliance and the United Republic Front took place on Thursday (29) at the residence of Mano Ganesan, leader of the Tamil Progressive Alliance in Bamankada, Colombo.. After this discussion, he commented to the media.
 
-நாட்டுக்காக ஒன்றிணையும் முயற்சி என்ற செயற்திட்ட யோசனையை கடந்த 14 ஆம் திகதி வெளியிட்டோம்.மனித நேயமிக்க கூட்டணியை அமைப்பதற்கு எமது பிரதான இலக்காகும்.ஸ்ரீ லங்கா பொதுஜன பெரமுனவை தவிர்த்து ஏனைய அரசியல் கட்சிகளுடன் எதிர்வரும் நாட்களில் பேச்சுவார்த்தையில் ஈடுபடவுள்ளோம்.
+We have published the idea of trying to unite for the country on the 14th. Our main goal is to form a human coalition.
+
+During the discussion, fellow MPs, including friend Mano Ganesan, presented the ideas on the basic issues faced by plantation people.. We will announce our favorable position on those ideas.
 
 ...
 
 [Data](articles/437c6141.json)
 
+[Extended Data](ext_articles/437c6141.ext.json)
+
 ---
 
-### அஸ்வெசும பயனாளிகள் அனைவருக்கும் நிவாரணம்
+### Relief to all the beneficiaries
 
 *2024-02-29 17:43:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-பயனாளிகள்-அனைவருக்கும்-நிவாரணம்/175-334012) · `ta`
 
-அஸ்வெசும நலன்புரி பயனாளிகள் அனைவருக்கும் விரைவில் நிவாரணம் வழங்கப்படும் என்றும் , “அஸ்வெசும” மற்றும் “உறுமய” திட்டங்களை மக்களிடம் முறையாக எடுத்துச் செல்வதற்கு அரச அதிகாரிகளின் ஒத்துழைப்பு அவசியம் என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe has said that all the beneficiaries will be given to all the beneficiaries and that the cooperation of state officials is necessary to take up the "Assumsuma" and "Urumaya" projects.
 
-மாத்தளை, வில்கமுவ பிரதேச செயலகத்தில் இன்று (29) இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி இதனைத் தெரிவித்தார். R
+The President made this statement during a discussion held at the Wilgamuwa Divisional Secretariat in Matale today (29). Remble
 
 ◼️
 
 [Data](articles/c70ded23.json)
+
+[Extended Data](ext_articles/c70ded23.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 309.50/70 to the US dollar
+
+*2024-02-29 17:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-309-50-70-to-the-us-dollar-152544/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 309.50/70 to the US dollar Thursday, from 310.00/15 on Wednesday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.50/70 percent down from 10.60/80 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.10 percent from 11.90/12.00 percent.
+
+A bond maturing on 15.07.2029 closed at 12.30/45 percent up from 12.20/50 percent.
+
+A bond maturing on 15.05.2030 closed at 12.35/50 percent up from 12.25/40 percent.
+
+A bond maturing on 01.07.2032 closed at 12.55/13.00 percent up from 12.50/90 percent. (Colombo/Feb29/2024)
+
+◼️
+
+[Data](articles/2e0cd714.json)
+
+---
+
+### Sri Lanka to expand Aswesuma benefits to around 40-pct of population ahead of polls
+
+*2024-02-29 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-expand-aswesuma-benefits-to-around-40-pct-of-population-ahead-of-polls-152548/) · `en`
+
+ECONOMYNEXT – Sri Lanka will expand its ambitious social welfare programme Aswesuma to 2.4 million households which is likely to cover around 40 percent of the island nation’s population ahead of the presidential elections later this year.
+
+Aswesuma poverty alleviation programme, financially backed by the World Bank, is designed to protect lower income groups under severely poor, poor, vulnerable, and transitional categories. The programme has allocated 205 billion rupees for this year.
+
+As of December, President Ranil Wickremesinghe’s government had choses 1.41 million beneficiary families under the four categories: 303,199 beneficiaries under the extremely poor, 606,496 from the poor, 290,624 under the vulnerable category, and 209,745 under the transitional.
+
+...
+
+[Data](articles/42c185f8.json)
 
 ---
 
@@ -77,6 +145,8 @@ Herath said the digital economy which previously stood at 4.73 percent had grown
 ...
 
 [Data](articles/816fa3a6.json)
+
+[Extended Data](ext_articles/816fa3a6.ext.json)
 
 ---
 
@@ -190,6 +260,8 @@ Commercial Bank of Ceylon Plc, which announced a scrip dividend yesterday, also 
 
 [Data](articles/25c4b037.json)
 
+[Extended Data](ext_articles/25c4b037.ext.json)
+
 ---
 
 ### 10 -year -old girl murdered: Investigate Ivar
@@ -235,6 +307,8 @@ The revised CCPI Index was up 5.9 from September 2022 when monetary stability wa
 ...
 
 [Data](articles/3b74da0a.json)
+
+[Extended Data](ext_articles/3b74da0a.ext.json)
 
 ---
 
@@ -912,21 +986,23 @@ Uragasmanhandiya Police have lodged a complaint with the police that a motorcycl
 
 ---
 
-### නව පොලිස්පති ජනපති හමු වෙයි
+### New IGP meets President
 
 *2024-02-29 14:26:27* · [`adalk`](https://www.ada.lk/breaking_news/නව-පොලිස්පති-ජනපති-හමු-වෙයි/11-408356) · `si`
 
-නව පොලිස්පති දේශබන්දු ටී.එම්.ඩබ්ලිව්.ඩී. තෙන්නකෝන් මහතා අද (29) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමු විය.
+New IGP Deshabandu. President Ranil Wickremesinghe found Tennakoon today (29).
 
-මෙරට 36 වන පොලිස්පතිවරයා ලෙස වැඩ භාර ගැනීමෙන් අනතුරුව දේශබන්දු තෙන්නකෝන් මහතා මෙලෙස ජනාධිපතිවරයා හමු විය.
+Deshabandu Tennakoon met the President after the assuming work as the 3rd IGP in the country.
 
-නව පොලිස්පතිවරයා වෙත සිය සුබපැතුම් පළ කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඔහු සමඟ සුහද කථා බහකට ද එක්විය.
+President Ranil Wickremesinghe was also a friendly conversation with him.
 
-නව පොලිස්පතිවරයා විසින් සාම්ප්‍රදායානුකූලව ජනාධිපතිවරයා වෙත සමරු තිළිණ පිළිගැන්වීම ද සිදු කෙරිණි.
+The new IGP was traditionally presented to the President.
 
 ◼️
 
 [Data](articles/1d67159b.json)
+
+[Extended Data](ext_articles/1d67159b.ext.json)
 
 ---
 
@@ -1202,6 +1278,8 @@ Fielding questions from reporters on Wednesday February 28, Bandara said that so
 
 [Data](articles/c08eb8f8.json)
 
+[Extended Data](ext_articles/c08eb8f8.ext.json)
+
 ---
 
 ### Semasinghe rubbishes reports claiming transfer of economic centers to foreign country
@@ -1314,6 +1392,8 @@ Five experts of the JCG comprising two officials from their Mobile Cooperation T
 
 [Data](articles/82942406.json)
 
+[Extended Data](ext_articles/82942406.ext.json)
+
 ---
 
 ### PHI. The motorcycle for the murder set on fire?
@@ -1373,6 +1453,8 @@ A statement from the president’s office said that that Wickremesinghe had unde
 ...
 
 [Data](articles/1280b7e5.json)
+
+[Extended Data](ext_articles/1280b7e5.ext.json)
 
 ---
 
@@ -1451,6 +1533,8 @@ The survey, carried out by Institute for Health Policy (IHP) using its Sri Lanka
 ...
 
 [Data](articles/6420a269.json)
+
+[Extended Data](ext_articles/6420a269.ext.json)
 
 ---
 
@@ -1630,6 +1714,8 @@ Gunawardena said that a recent incident of a trainee driver ploughing into a cro
 
 [Data](articles/75cc9d8a.json)
 
+[Extended Data](ext_articles/75cc9d8a.ext.json)
+
 ---
 
 ### Nagananda abolish the lawyer's lawyer
@@ -1645,6 +1731,22 @@ Priyantha Jayawardena, Joy Padman Surasena and S. The verdict has been given by 
 [Data](articles/ac1caf5f.json)
 
 [Extended Data](ext_articles/ac1caf5f.ext.json)
+
+---
+
+### හඬමින් සිටින කුඩා දරුවාගේ වීඩියෝව සමාජ මාධ්‍යයට දැමූ ගුරුවරිය ගැන විමර්ශනයක්
+
+*2024-02-29 11:52:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c84njzgl1vpo) · `si`
+
+හඬමින් සිටින කුඩා දරුවාගේ වීඩියෝව සමාජ මාධ්‍යයට දැමූ ගුරුවරිය ගැන විමර්ශනයක්
+
+හඬමින් සිටින කුඩා දරුවෙකුගෙන් ගුරුවරියක් විසින් ප්‍රශ්න විමසන වීඩියෝවක් මේවන විට සමාජ මාධ්‍ය තුළ පුළුල් ලෙස විවාදයකට තුඩු දී තිබේ. එම කෙටි වීඩියෝව පෙබරවාරි 27 දිනට ආසන්න දිනයක පටන් සමාජ මාධ්‍යවල හුවමාරු වූ අතර, වයස අවුරුදු හයක් පමණ වන පළමු පන්තියේ සිසුවෙකු යැයි අනුමාන කළ හැකි දරුවා හඬමින් සිටින අතර ගුරුවරිය දරුවාගෙන් විමසන ප්‍රශ්න වලට දරුවා හඬමින් පිළිතුරු දෙන ආකාරය එම වීඩියෝවේ දැක් වේ.
+
+මුල් අවස්ථාවේදී දරුවාගේ සුරතල් බව සම්බන්ධයෙන් අදහස් සමග වීඩියෝව හුවමාරු වුවද එහි ඇති බරපතලභාවය සම්බන්ධයෙන් මේ වන විට අදහස් හුවමාරු වෙමින් පවතියි. එමෙන් ම බොහෝ සමාජ මාධ්‍ය පරිශීලකයන් විසින් එම වීඩියෝව සමාජ මාධ්‍යට එක් කළ අයට සහ එය සිදුවීම වීඩියෝ කළ ගුරුවරියට විරුද්ධව නීතිය ක්‍රියාත්මක කළ යුතු බවට අදහස් දක්වා තිබේ.
+
+...
+
+[Data](articles/a739fcaa.json)
 
 ---
 
@@ -1963,89 +2065,5 @@ However, Chinese authorities have been very dissatisfied with this decision in S
 [Data](articles/c4d82d5f.json)
 
 [Extended Data](ext_articles/c4d82d5f.ext.json)
-
----
-
-### 36  including 24 school children injured in bus accident
-
-*2024-02-29 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97611/36-including-24-school-children-injured-in-bus-accident) · `en`
-
-At least 36 persons including 24 schoolchildren have been injured after a passenger bus overturned in the Siyambalanduwa area of Moneragala.
-
-Police said that a passenger bus attached to Sri Lanka Transport Board (SLTB) which was transporting school students had toppled this morning (Feb. 29).
-
-◼️
-
-[Data](articles/7e31deab.json)
-
-[Extended Data](ext_articles/7e31deab.ext.json)
-
----
-
-### Abortion of abortion in France
-
-*2024-02-29 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193943) · `si`
-
-The French Senate has approved the right to confirm the right to abortion.
-
-Foreign media reports that the Senate has given the approval from the voting yesterday (28).
-
-267 votes were cast in favor of the resolution and only 50 votes were against it.
-
-Abortion has been legally in France since 1974, and the proposal has been made in connection with the constitution.
-
-Foreign media reports that there is no need to go to a referendum, as the proposal is passed in three-thirds.
-
-◼️
-
-[Data](articles/b3dea7ef.json)
-
-[Extended Data](ext_articles/b3dea7ef.ext.json)
-
----
-
-### Thundershowers can be rained today
-
-*2024-02-29 09:44:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை-பெய்யலாம்/175-333983) · `ta`
-
-The Department of Meteorology has said that rainfall will occur today in the Eastern and Uva provinces as well as in Polonnaruwa and Matale districts.
-
-There is a chance of rain or thunderstorms in the evening or night in some parts of the Sabaragamuwa and Western Provinces as well as some areas of Nuwara Eliya, Galle and Matara districts.
-
-Heavy winds are expected to blow at speeds of 30 to 40 km / h in the Eastern slopes of the Central Highlands as well as the North, Eastern, North Western, North Western and Uva provinces and Hambantota district.
-
-The public is asked to act with vigilance in cases where strong winds and lightning are occurring.
-
-Showers or thunderstorms are expected in the evening or night in some parts of the sea regions from Colombo to Galle.
-
-Winds from the northeast at 25 - 35 kilometers per hour in the sea regions.
-
-...
-
-[Data](articles/0a0e1033.json)
-
-[Extended Data](ext_articles/0a0e1033.ext.json)
-
----
-
-### Sri Lanka rupee opens at 309.90/310.00 to the US dollar
-
-*2024-02-29 09:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-309-90-310-00-to-the-us-dollar-152478/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated further to open at 309.90/310.00 to the US dollar Thursday, from 310.00/15 on Wednesday, dealers said.
-
-A bond maturing on 01.08.2026 was quoted at 10.90/11.00 percent from 10.85/11.05 percent Wednesday.
-
-A bond maturing on 15.09.2027 was quoted at 11.95/12.05 percent from 11.90/12.00 percent.
-
-A bond maturing on 01.07.2028 was quoted at 12.10/25 percent from 12.15/25 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.06 percent at 10,684 and the S&P SL20 was up 0.34 percent at 3,067. (Colombo/Feb29/2024)
-
-◼️
-
-[Data](articles/f02fbec4.json)
-
-[Extended Data](ext_articles/f02fbec4.ext.json)
 
 ---

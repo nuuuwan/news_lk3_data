@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 21:02:41**
+As of **2024-02-29 21:17:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,084 (100.0%) of 10,089 articles have been extended.
+10,089 (100.0%) of 10,089 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,17 +42,21 @@ Colombo, Feb 29 (Daily Mirror) - Former Health Minister Keheliya Rambukwella who
 
 [Data](articles/667f2dd8.json)
 
+[Extended Data](ext_articles/667f2dd8.ext.json)
+
 ---
 
-### கெஹலிய உட்பட 7 பேரின் விளக்கமறியல் நீடிப்பு!
+### Explanation of 7 people, including Keheliya!
 
 *2024-02-29 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177628) · `ta`
 
-தரமற்ற மருந்துகளை இறக்குமதி செய்த குற்றச்சாட்டில் கைதாகி விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல, அமைச்சின் முன்னாள் செயலாளர் மற்றும் 5 பேரை எதிர்வரும் மார்ச் மாதம் 14ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Former Health Minister Keheliya Rambukwella, who has been arrested and detained on charges of importing substandard drugs, has been ordered to be remanded until March 14.
 
 ◼️
 
 [Data](articles/ee155b4b.json)
+
+[Extended Data](ext_articles/ee155b4b.ext.json)
 
 ---
 
@@ -67,6 +71,8 @@ SJB General Secretary Ranjith Madduma Bandara and former Parliamentarian Mujibur
 ...
 
 [Data](articles/634fd80e.json)
+
+[Extended Data](ext_articles/634fd80e.ext.json)
 
 ---
 
@@ -295,6 +301,8 @@ The Supreme Court three-judge-bench comprising Justices Priyantha Jayawardena, G
 ...
 
 [Data](articles/0bc920b4.json)
+
+[Extended Data](ext_articles/0bc920b4.ext.json)
 
 ---
 

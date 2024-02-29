@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 02:32:57**
+As of **2024-03-01 02:50:31**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,128 (100.0%) of 10,129 articles have been extended.
+10,129 (100.0%) of 10,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### தற்காலிகமாக நிறுத்தப்பட்டது வடக்கு மாகாண தனியார் பேருந்து உரிமையாளர்களின் பணிப் புறக்கணிப்பு
+### Temporarily stopped Northern Province Private Bus Owners
 
 *2024-03-01 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177635) · `ta`
 
-வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம்.சார்ள்ஸ்  தலைமையில் வியாழக்கிழமை (29) மாலை ஆளுநர் செயலகத்தில் பணிப் புறக்கணிப்பு போராட்டத்தை முன்னெடுத்திருந்த தனியார் பேருந்து உாிமையாளர் சங்கத்தினருடனான கலந்துரையாடல் ஒன்று இடம்பெற்றது.
+A discussion was held with the Private Bus Undership Association, which launched a boycott of a boycott at the Governor's Secretariat on Thursday evening, headed by Governor of the Northern Province BSM Charles.
 
-குறித்த சந்திப்பில் கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா, நாடாளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன் வடக்கு மாகாண வீதிப் பயணிகள் போக்குவரத்து அதிகார சபை தவிசாளர் மற்றும் பொலிஸார் உள்ளிட்டவர்களும் கலந்துகொண்டிருந்தனர்.
+Fisheries Minister Douglas Devananda, Member of Parliament Anganan Ramanathan and Northern Province Road Transport Authority and Police were also present.
 
-இன்றைய கலந்துரையாடலில் வழங்கப்பட்ட உறுதி மொழியை அடுத்து பணி புறக்கணிப்பை கைவிட்டு நாளை முதல் வழமை போன்று சேவை முன்னெடுக்க  உள்ளதாக வட இலங்கை தனியார் பேரூந்து உரிமையாளர்கள் சங்கம் தலைவர் சி.சிவபரன் தெரிவித்துள்ளார்.
+North Sri Lanka Private Bus Owners Association Chairman CC Sivaparan said that the service will be abandoned and the service will be carried out as usual from tomorrow.
+
+He said that all the private and EBO bus services for the Jaffna district will be carried out soon from the newly constructed long -built bus station and that private bus services will be carried out from the power station road as usual.
+
+Private buses staged a protest this morning that the Sri Lanka Transport Board should join the Jaffna Central Bus Stand, demanding that if they are carrying out the newly constructed long bus stand.
 
 ...
 
 [Data](articles/e457672b.json)
+
+[Extended Data](ext_articles/e457672b.ext.json)
 
 ---
 

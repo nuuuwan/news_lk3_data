@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 01:02:36**
+As of **2024-03-01 01:17:32**
 
 ## Newspaper Stats
 
-*Scraped **10,118** Articles*
+*Scraped **10,124** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 123
 dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 526
-dailyftlk | 528
 islandlk | 531
+dailyftlk | 534
 adalk | 864
 adaderanalk | 1,223
 tamilmirrorlk | 1,230
@@ -26,9 +26,81 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,118 (100.0%) of 10,118 articles have been extended.
+10,118 (99.9%) of 10,124 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-01 (Friday)
+
+### Third LKI Foreign Policy Forum reassesses relevance of non-alignment in a polarised world
+
+*2024-03-01 00:13:46* · [`dailyftlk`](https://www.ft.lk/opinion/Third-LKI-Foreign-Policy-Forum-reassesses-relevance-of-non-alignment-in-a-polarised-world/14-759017) · `en`
+
+The third LKI Foreign Policy Forum titled ‘Reassessing Non-Alignment in a Polarised World’ was held on 21 February. The forum held on a quarterly basis, brings together experts to discuss contemporary foreign policy issues and to contribute to the development of a Sri Lankan perspective on foreign policy and international relations. Ahead of the forum, Foreign Minister M.U.M. Ali Sabry who delivered the opening address, observed, “Non-alignment means not becoming a bystander” and “that you are not forced or coerced into a camp to take sovereign decisions”.
+
+...
+
+[Data](articles/fa828754.json)
+
+---
+
+### Non-alignment means you are not forced or coerced into a camp to take sovereign decisions: Sabry
+
+*2024-03-01 00:11:31* · [`dailyftlk`](https://www.ft.lk/opinion/Non-alignment-means-you-are-not-forced-or-coerced-into-a-camp-to-take-sovereign-decisions-Sabry/14-759016) · `en`
+
+Foreign Minister M.U.M. Ali Sabry last week declared that non-alignment means a country is not forced or coerced into a camp to take sovereign decisions.
+
+The Minister emphasised this aspect when he delivered the opening address at the third ‘LKI Foreign Policy Forum’, held on the theme ’Reassessing Non-Alignment in a Polarised World’ the quarterly flagship event of the Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI) at the LKI Lighthouse Auditorium.
+
+...
+
+[Data](articles/3f91ffdb.json)
+
+---
+
+### Retelling the story of China and why it’s important
+
+*2024-03-01 00:10:20* · [`dailyftlk`](https://www.ft.lk/columns/Retelling-the-story-of-China-and-why-it-s-important/4-759015) · `en`
+
+China appears to continue doing what it does best – move forward. And this perspective, whether for China, or any other country of the Global South, remains vital
+
+A debt trap. A dispute at sea. A trade threat. An anomaly. A friend of Russia. The many names China has been called in recent years doesn’t require much reiteration, because they are already so engrained in our minds; either by label-repetition, international media-unison and perhaps also because of China’s Achilles’ heels – limitations with the English language and Western expression.
+
+Meeting with Chinese counterparts over the last month, I only had one question. Why don’t they fight the provocation much harder? And moreover fight it in public spaces rather than behind closed diplomatic doors where the risk for facts to be eluded and stereotypes resorted to being much higher. A case in point is perhaps the blatant press leaks to a closed door diplomatic meeting at the G20; a clear unapologetic breach of pacta sunt servanda.
+
+...
+
+[Data](articles/4222a98a.json)
+
+---
+
+### Economic stability in Sri Lanka: Myth or reality?
+
+*2024-03-01 00:04:47* · [`dailyftlk`](https://www.ft.lk/columns/Economic-stability-in-Sri-Lanka-Myth-or-reality/4-759014) · `en`
+
+While inflation may have decreased in real terms, stagnant wages and rising taxes have eroded the purchasing power of citizens, exacerbating poverty and inequality
+
+The economic landscape of Sri Lanka has been a subject of fervent debate in recent times, with conflicting narratives surrounding the notion of stability. On the surface, there are indicators suggesting positive growth and progress, yet beneath the veneer lies a stark reality of pervasive instability, particularly for a significant portion of the population.
+
+...
+
+[Data](articles/01bfe1c2.json)
+
+---
+
+### The President and Government on self-destruct mode
+
+*2024-03-01 00:00:17* · [`dailyftlk`](https://www.ft.lk/columns/The-President-and-Government-on-self-destruct-mode/4-759013) · `en`
+
+If the people do not change themselves, there is never going to be any form of change whatsoever
+
+The above verse from the Holy Quran is a reminder to the entire mankind contextually adapted for the current political climate. Broadly, the condition of any people revolves around two major generic areas. The good and bad. It is only when bad has taken root, there will be a need for mankind to change towards goodness. And, until and unless man himself has decided to change the badness in him, nothing is going to change.
+
+...
+
+[Data](articles/16ab16a0.json)
+
+---
 
 ### 2024-02-29 (Thursday)
 
@@ -49,6 +121,20 @@ Due to this problem, the Speaker is facing practical problems. So if you think t
 [Data](articles/8b0834c7.json)
 
 [Extended Data](ext_articles/8b0834c7.ext.json)
+
+---
+
+### Sri Lanka’s economy in the woods: But there is a way out
+
+*2024-02-29 23:52:59* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-economy-in-the-woods-But-there-is-a-way-out/14-759012) · `en`
+
+We do have the ability to tackle our economy and make things ourselves, training the unemployed youths to get cracking
+
+Thanks to Cabinet Spokesman Minister Bandula Gunawardena for revealing that the Sri Lankan Government “is running a shortfall of Rs. 10 trillion to meet its expenditure with its revenue...We collect only Rs. 3 trillion while the expenses are Rs. 13 trillion” (The Morning 20/02/2024). This reveals a situation of sheer bankruptcy, a situation out of which we can perhaps, never recover.
+
+...
+
+[Data](articles/d2cd8034.json)
 
 ---
 
@@ -1903,145 +1989,5 @@ The petitioner has demanded the recovery of Rs. 100 million to the respondents t
 [Data](articles/34c6793d.json)
 
 [Extended Data](ext_articles/34c6793d.ext.json)
-
----
-
-### Speaker has violated Constitution in appointing IGP: Tilvin
-
-*2024-02-29 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-has-violated-Constitution-in-appointing-IGP-Tilvin/108-277964) · `en`
-
-Colombo, Feb. 29 (Daily Mirror)- Claiming that Speaker Mahinda Yapa Abeywardane had acted in violation of the Constitution when appointing Deshabandu Tennakoon as the IGP, NPP General Secretary Tilvin Silva said today they were planning to go before the Supreme Court against the appointment of the IGP.
-
-He told a news conference that the Speaker had given his consent to the appointment of Deshabandu Tennakoon as the IGP even after the decision of the Costitutional Council was conveyed to the President.
-
-"The Speaker's condcut in the case of appointing Deshabandu Tennakoon as the IGP is in violation of the Constitution.The Speaker can vote only in case of a tie. The Speaker had not voted during the CC meeting either. He has given his consent even after the decision of the CC was conveyed to the President," he said.
-
-Silva said an issue has arrisen in the appointment of the IGP and that they hope the Supreme Court will rectify it.
-
-◼️
-
-[Data](articles/a2690b75.json)
-
-[Extended Data](ext_articles/a2690b75.ext.json)
-
----
-
-### First wildlife tunnel construction begins March 1 to avert elephant-train collisions
-
-*2024-02-29 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-wildlife-tunnel-construction-begins-March-1-to-avert-elephant-train-collisions/108-277963) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - The construction of Sri Lanka's first ever wildlife tunnel to prevent elephant-train collisions will begin on March 1 in the Kasikota area of Galgamuwa, Gatadivula, the Transport and Highways Ministry said.
-
-They said the number of elephants killed due to train collisions is increasing and it has become an environmental and development issue that has attracted national and international attention.
-
-"Various government and non-government organizations have proposed and implemented various solutions, but as a country, we are still trying to prevent elephant-train clashes," the Ministry said.
-
-"During the last few years, between 150 and 200 wild elephants have been killed due to train collisions while roaming around the railway lines.
-
-"It was proposed to develop an old culvert near the place as a wildlife tunnel, but due to some technical problems, it was proposed to construct a new wildlife tunnel at 'Alimankada'.
-
-...
-
-[Data](articles/bd24c31d.json)
-
-[Extended Data](ext_articles/bd24c31d.ext.json)
-
----
-
-### Motorcycle of burnt motorcycle found suspiciously
-
-*2024-02-29 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193954) · `si`
-
-Police have recovered a motorcycle that had been burnting suspiciously.
-
-It was near the Uragasmanhandiya police division, hornings, Kambahwewa, mouthpiece.
-
-Investigations Officer said that the removal of the number plates of the motorcycle and Mawartama has been found.
-
-Uragasmanhandiya Police suspect that a motorcycle used to commit a crime.
-
-Police further stated that the motorcycle suspects the motorcycle used by the cinnugahahack in Kurundugahahack on the 26th.
-
-The house of Karandeniya Administrative Public Health Inspector Roshan Kumara Withanchchi had been shot dead by two night.
-
-The police have been suspected that the motorcycle was set on fire due to the examination of Uragasmanhandiya's preservation yesterday.
-
-Uragasmanhandiya Police have lodged a complaint with the police that a motorcycle was on fire.
-
-◼️
-
-[Data](articles/2b269b6e.json)
-
-[Extended Data](ext_articles/2b269b6e.ext.json)
-
----
-
-### New IGP meets President
-
-*2024-02-29 14:26:27* · [`adalk`](https://www.ada.lk/breaking_news/නව-පොලිස්පති-ජනපති-හමු-වෙයි/11-408356) · `si`
-
-New IGP Deshabandu. President Ranil Wickremesinghe found Tennakoon today (29).
-
-Deshabandu Tennakoon met the President after the assuming work as the 3rd IGP in the country.
-
-President Ranil Wickremesinghe was also a friendly conversation with him.
-
-The new IGP was traditionally presented to the President.
-
-◼️
-
-[Data](articles/1d67159b.json)
-
-[Extended Data](ext_articles/1d67159b.ext.json)
-
----
-
-### The counts of the demons scared of paddy farmers
-
-*2024-02-29 14:21:26* · [`adalk`](https://www.ada.lk/breaking_news/වී-ගොවීන්-බය-කරන-භූතයාගේ-ගණන්/11-408355) · `si`
-
-With the commencement of paddy harvesting, tseling the paddy, tsuns, and green migrants, says that the farmers have been severely obstructed due to the increase in their harvest.
-
-Accordingly, the Colombo District has received Rs.
-
-The leaves of the season charged a thousand rupees to harvest the paddy of the season and that it was increased with a thousand rupees.
-
-Paddy has been commenced in the Matale district, Dambulla, Galewela, Naula, Wilgamuwa and Agrarian Services.
-
-It also pointed out that the labor rent is charged to Rs.
-
-If the harvest is not harvested on the time of the time, many farmers use the treasure to the rains, even more and the farmers are working hard to harvest the harvest and at night.
-
-Farmers say that the program of paddy purchasing in the Matale District is not implemented and the purchase of the paddy purchasing is Rs. 110 and a kilogram of Rs.
-
-Farmers' delegation point out that the first-day of the Farmer-Day in the first time.
-
-...
-
-[Data](articles/b3fc7bef.json)
-
-[Extended Data](ext_articles/b3fc7bef.ext.json)
-
----
-
-### The use of damage fertilizer must be connected
-
-*2024-02-29 14:19:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேதன-உரப்-பயன்பாடு-இணைக்கப்பட-வேண்டும்/175-333992) · `ta`
-
-The country's national fertilizer policy should also include the use of damage fertilizer, Dee Chairman of the Department of Food Safety and Commerce. Said Weerasingha.
-
-This was stated when the Department of Food Safety and Commerce Supervisory was headed by him.
-
-The National Council's sub -committee to identify the priorities of short, medium and long -term policy preparation, the Food Safety Policy Draft was investigated and the committee has proposed amendments to the map.
-
-The Chairman of the Committee said that the officials of the Department of Communications of the Department of Communications of the Department of Communications of the Department of Communications of the Department of Communications should be made aware of organic fertilizer use.
-
-He also pointed out that the group will visit the role model of agriculture on behalf of the group, using organic fertilizers.
-
-...
-
-[Data](articles/a6541733.json)
-
-[Extended Data](ext_articles/a6541733.ext.json)
 
 ---

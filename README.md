@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 09:02:35**
+As of **2024-02-29 09:17:48**
 
 ## Newspaper Stats
 
-*Scraped **9,938** Articles*
+*Scraped **9,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,32 @@ dailyftlk | 527
 islandlk | 531
 adalk | 841
 adaderanalk | 1,193
-tamilmirrorlk | 1,205
+tamilmirrorlk | 1,208
 virakesarilk | 1,373
 dailymirrorlk | 1,499
-adaderanasinhalalk | 1,506
+adaderanasinhalalk | 1,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,938 (100.0%) of 9,938 articles have been extended.
+9,938 (100.0%) of 9,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### දේශබන්දු වැඩ භාරගනී
+
+*2024-02-29 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193941) · `si`
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා මීට සුළු වේලාවකට පෙර සිය ධුරයේ වැඩ භාරගත්තේය.
+
+◼️
+
+[Data](articles/1069ba57.json)
+
+---
 
 ### Bus toppled by schoolchildren
 
@@ -179,6 +191,58 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/fc2f98c0.json)
 
 [Extended Data](ext_articles/fc2f98c0.ext.json)
+
+---
+
+### ’அஸ்வெசும பயனாளிகளின் எண்ணிக்கை அதிகரிக்கும்’
+
+*2024-02-29 04:50:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-பயனாளிகளின்-எண்ணிக்கை-அதிகரிக்கும்/175-333966) · `ta`
+
+அஸ்வெசும இரண்டாம் கட்டத்திற்காக விண்ணப்பித்த பயனாளிகளின் தரவு சரிபார்ப்பு மற்றும் சான்றுபடுத்தல் பணிகள் நிறைவடைந்துள்ளன.  அஸ்வெசும பயனாளிகளின் குடும்ப அலகுகளின் எண்ணிக்கையை ஜூன் மாதம் முதல் 24 லட்சமாக அதிகரிக்க அனைத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+அஸ்வெசும முதல் கட்ட கணக்கெடுப்பில், 34 லட்சம் குடும்ப அலகுகளின் தகவல்கள் சரிபார்க்கப்பட்டன. இதன்படி 19 லட்சம் குடும்பங்கள் பயன்பெற தகுதி பெற்றுள்ளன. இதுவரை பெறப்பட்ட மேல்முறையீடுகள் மற்றும் ஆட்சேபனைகளின் அடிப்படையில், ஜூலை 2024 முதல் தகுதியானவர்களுக்குப் பணம் செலுத்த நலன்புரி நன்மைகள் சபை தயாராக உள்ளது.
+
+...
+
+[Data](articles/0731304a.json)
+
+---
+
+### ’நல்லிணக்கத்தின் ஊடாக அபிவிருத்தி’
+
+*2024-02-29 04:45:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லிணக்கத்தின்-ஊடாக-அபிவிருத்தி/175-333965) · `ta`
+
+இனவாதம் மற்றும் மதவாதத்தை ஒதுக்கிய, உலகின் அனைத்து நாடுகளும் விரைவான அபிவிருத்தியை அடைந்துள்ளன. நல்லிணக்கத்தின் ஊடாக அபிவிருத்தியை அடைவதே அரசாங்கத்தின் நோக்கமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+இலங்கை தேசிய சமாதானப் பேரவையின் ஏற்பாட்டில் கொழும்பு பண்டாரநாயக்க சர்வதேச மாநாட்டு மண்டபத்தில் நேற்று நடைபெற்ற 'நல்லிணக்கத்துக்கான மதங்கள்' தேசிய சர்வமத மாநாட்டில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார். அவர் மேலும் உரையாற்றுகையில்,
+
+மதத்திற்கும் நல்லிணக்கத்திற்கும் உள்ள தொடர்பை நாங்கள் நன்கு அறிவோம். எங்களுக்கு இனவாதம் மற்றும் மதவாதம் பற்றிய அனுபவம் உள்ளது. இதன் விளைவாக, நாங்கள் ஒரு பயங்கரமான போரை எதிர்கொண்டோம். யுத்தம் முடிவடைந்த பின்னர் சகவாழ்வு தொடர்பில் எமது கவனம் செலுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/0966f279.json)
+
+---
+
+### இந்திய கப்பல்கள் இலங்கைக்கு வருகை
+
+*2024-02-29 04:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-கப்பல்கள்-இலங்கைக்கு-வருகை/175-333964) · `ta`
+
+இந்தியாவின் இரண்டு கரையோர பாதுகாப்பு கப்பல்கள் காலி மற்றும் கொழும்பு துறைமுகங்களுக்கு சுற்றுலா மேற்கொள்வதற்காக வந்துள்ளன.
+
+இந்தியாவின் கரையோர பாதுகாப்பு படைப்பிரிவிற்கு சொந்தமான சமர்த் எனும் கடல்சார் கண்காணிப்பு கப்பலும், அபினவ் எனப்படும் அதிவேக கண்காணிப்பு கப்பலும் வந்துள்ளன.
+
+இந்த கப்பல்கள் நேற்று முன்தினம் காலி துறைமுகத்தை வந்தடைந்துள்ளன. இவை மார்ச் முதலாம் திகதி வரை காலியில் தரித்திருக்கவுள்ளன என இலங்கை கடற்படை தெரிவித்துள்ளது.
+
+குறித்த கப்பல்கள் நாட்டிலிருந்து வெளியேறுவதற்கு முன்னதாக, மார்ச் 2 ஆம் திகதி முதல் 5 ஆம் திகதி வரை கொழும்பு துறைமுகத்திற்கு வருகை தரவுள்ளன.
+
+இந்திய கரையோர பாதுகாப்பு கப்பல்கள் நாட்டில் தங்கியிருக்கும் காலப்பகுதியில் தீயணைப்பு, சேதங்களைக் கட்டுப்படுத்துதல், சமுத்திர பாதுகாப்பு உள்ளிட்ட விடயங்கள் தொடர்பான பயிற்சிகளை வழங்குதல் போன்ற செயற்பாடுகளில் ஈடுபடவுள்ளன. (a)
+
+◼️
+
+[Data](articles/306030f1.json)
 
 ---
 
@@ -1935,99 +1999,5 @@ The relevant authorities should come forward to provide clean drinking water to 
 [Data](articles/bd83bba5.json)
 
 [Extended Data](ext_articles/bd83bba5.ext.json)
-
----
-
-### Sri Lanka Treasuries yields edge up after steep fall
-
-*2024-02-28 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-edge-up-after-steep-fall-152447/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields edged up across maturities at Wednesday’s auction with the 3-month yield up 09 basis points to 9.87 percent, data from state debt office showed.
-
-The debt office sold 27.5 billion rupees of 3-month bills after offering 35 billion rupees.
-
-The 6-month yield rose 09 basis points to 9.95 percent with 37.23 billion rupees of bills sold, after offering 47.5 billion rupees.
-
-The 12-month yield went up 03 bis points to 10.05 percent, with 39.5 billion rupees of bills sold and 40 billion rupees offered.
-
-Sri Lanka’s Treasuries yield have come down sharply in recent weeks.
-
-The trend was partly helped by some banks which were earlier not buying into bills, starting to buy them.
-
-Deposit in the central banks overnight window (private sector sterilization) has come down from around 200 billion to around 130 billion rupees in recent weeks.
-
-...
-
-[Data](articles/8211897a.json)
-
-[Extended Data](ext_articles/8211897a.ext.json)
-
----
-
-### Both communities who have been involved in a long-term clash in Sri Lanka have genetic similarity
-
-*2024-02-28 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177527) · `ta`
-
-The study reveals that the two major ethnic groups involved in the long -standing civil war in Sri Lanka have generated genetic unity for the Sinhalese and Tamils.
-
-The study also revealed that these two communities have one geneticly than any other community in South Asia.
-
-The results of the study have been revealed in the magazine of Eiseans. The study is being carried out by the Indian Sri Lankan genome.
-
-The study has revealed the facts of the historical origins of Sri Lankan ethnic groups and have revealed many issues on social media among the two social groups.
-
-The study found that although there are significant cultural and language differences between the two communities, the two communities have been related to the generation for centuries.
-
-The majority Sinhala community and the minority Sinhalese community have been involved in a bloody confrontation and continued till 2009, but the disbelief and hatred among the two communities is still being seen.
-
-...
-
-[Data](articles/da2f26c6.json)
-
-[Extended Data](ext_articles/da2f26c6.ext.json)
-
----
-
-### ‘Samarth’ and ‘Abhinav’: Two Indian Coast Guard Ships reach Sri Lanka
-
-*2024-02-28 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97597/samarth-and-abhinav-two-indian-coast-guard-ships-reach-sri-lanka) · `en`
-
-Two Indian Coast Guard Ships ‘Samarth’ and ‘Abhinav’ have reached Sri Lanka after concluding the 16th ‘Dosti’ trilateral exercise in Malé, the Maldives.
-
-The Offshore Patrol Vessel ‘Samarth’ and Fast Patrol Vessel ‘Abhinav’ docked at Galle Harbour on Tuesday (Feb.27) and are slated to set sail to Colombo Port on March 02, the Indian High Commission in Colombo said.
-
-The Commanding Officers of the ICGS, Deputy Inspector General P Pradeep Kumar and Commandant (JG) Prabhat Kumar will be calling on Director General Sri Lanka Coast Guard and other senior officers.
-
-During the stay, the ships will undertake training for Sri Lanka Coast Guard on VBSS, Fire Fighting and Damage Control, Maritime Pollution Response and hold few other professional interactions.
-
-Further, activities such as yoga, beach cleaning and a walkathon will also be held during the visit. In addition, Passage Exercise (PASSEX) will be conducted with Sri Lanka Coast Guard Ship, on departure, off Galle and Colombo.
-
-...
-
-[Data](articles/20b0e9e0.json)
-
-[Extended Data](ext_articles/20b0e9e0.ext.json)
-
----
-
-### Ada Derana journalist is a international award
-
-*2024-02-28 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193920) · `si`
-
-Today representing Derana. Saranga won a victory at an international media festival.
-
-This victory has been received for the short video presented for the CDSTF festival (CDSTF) in Bangladesh for the first time.
-
-Sri Lanka from the Independent Section of the event. Saranga and Poland have been named IGA GUDAS co-achievers.
-
-K.Crocketing the circumstances faced by communities in the face of Urbanization in Sri Lanka. The video of the cool consoletion created Saranga was the video.
-
-The event was organized by Daffodil International University in Bangladesh to promote digital storyten arts through mobile phones and electronic tools.
-
-◼️
-
-[Data](articles/d83736ee.json)
-
-[Extended Data](ext_articles/d83736ee.ext.json)
 
 ---

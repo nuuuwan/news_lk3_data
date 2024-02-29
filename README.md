@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 23:17:41**
+As of **2024-02-29 23:33:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,105 (100.0%) of 10,109 articles have been extended.
+10,109 (100.0%) of 10,109 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,31 @@ The incident caused the largest loss of civilian lives in weeks. Palestinian Pre
 
 [Data](articles/0f5db2a0.json)
 
+[Extended Data](ext_articles/0f5db2a0.ext.json)
+
 ---
 
-### தமிழக அரசுக்கு உயர் நீதிமன்றம் உத்தரவு
+### High Court order to Tamil Nadu government
 
 *2024-02-29 22:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-அரசுக்கு-உயர்-நீதிமன்றம்-உத்தரவு/175-334015) · `ta`
 
-சாந்தனின் உடலை இலங்கை கொண்டு செல்ல நடவடிக்கை எடுக்க தமிழக அரசுக்கு சென்னை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Madras High Court has ordered the Tamil Nadu government to take steps to bring Santhan's body to Sri Lanka.
 
-சாந்தன் திருச்சி முகாமில் உயிருடன் இருக்கும்போதே, இலங்கையில் உள்ள தனது தாய் நோய்வாய்ப்பட்டுள்ளதால் அவரை கவனிக்க இலங்கை செல்ல வேண்டும். எனவே இலங்கைக்கு அனுப்பி வைக்க உரிய நடவடிக்கை எடுக்க வேண்டும் என்று சென்னை உயர் நீதிமன்றத்தில் வழக்குத் தொடர்ந்தார்.
+While Santhan is still alive in the Trichy camp, his mother in Sri Lanka has to go to Sri Lanka to look after him.. He therefore filed a case in the Madras High Court seeking to take appropriate action to send it to Sri Lanka.
 
-சாந்தன் தொடர்ந்த வழக்கு இன்று விசாரணைக்கு வந்தபோது, நீதிபதிகள் சுரேஷ் குமார், குமரேஷ் பாபு இருவரும், சாந்தனை இலங்கை அனுப்ப அனுமதி வழங்கியது எப்போது என்றும் மத்திய அரசிடம் வினா எழுப்பினர்.
+When the case of Shantan came up for hearing today, Justice Suresh Kumar and Kumaresh Babu questioned the central government when they were allowed to send Shantan to Sri Lanka.
 
-மத்திய அரசு தரப்பிலோ, கடந்த ஜனவரி 22-ம் திகதியே அவருக்கு இலங்கை செல்ல அனுமதி அளிக்கப்பட்டது என்று தெரிவிக்கப்பட்டது
+It was reported that he was allowed to go to Sri Lanka on January 22 last year
 
-இதை கேட்ட நீதிபதிகள், "மத்திய அரசு ஜனவரி 22ம் திகதியே அனுமதி அளித்த பிறகும் சாந்தனை ஏன் இலங்கைக்கு அனுப்பவில்லை" என்று தமிழக அரசுக்கு கேள்வி எழுப்பினர்.
+Hearing this, the judges questioned the Tamil Nadu government, "Why did the central government not send Santhan to Sri Lanka even after the central government granted permission on January 22."
+
+Responding to this, the Tamil Nadu State Prosecutor said, "Santhan has been hospitalized since January 24. Sri Lanka could not send him because he could not even walk. ”
 
 ...
 
 [Data](articles/feae87de.json)
+
+[Extended Data](ext_articles/feae87de.ext.json)
 
 ---
 
@@ -106,6 +112,8 @@ A total of 58 officers of the air force graduated as the SLAF Academy passing ou
 
 [Data](articles/dc95318c.json)
 
+[Extended Data](ext_articles/dc95318c.ext.json)
+
 ---
 
 ### SLCERT to introduce National Cyber Security Act within the year
@@ -125,6 +133,8 @@ The digital economy, which previously stood at 4.73%, has now surpassed the 5% m
 ...
 
 [Data](articles/d25a62e4.json)
+
+[Extended Data](ext_articles/d25a62e4.ext.json)
 
 ---
 

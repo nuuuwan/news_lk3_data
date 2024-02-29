@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 07:29:54**
+As of **2024-02-29 07:51:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,926 (99.9%) of 9,931 articles have been extended.
+9,931 (100.0%) of 9,931 articles have been extended.
 
 ## Latest 100 Articles 
 

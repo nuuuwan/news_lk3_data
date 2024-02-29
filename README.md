@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 22:32:47**
+As of **2024-02-29 22:49:54**
 
 ## Newspaper Stats
 
-*Scraped **10,100** Articles*
+*Scraped **10,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,90 @@ newsfirstlk | 363
 economynextcom | 525
 dailyftlk | 528
 islandlk | 531
-adalk | 863
+adalk | 864
 adaderanalk | 1,220
 tamilmirrorlk | 1,228
 virakesarilk | 1,388
 dailymirrorlk | 1,527
-adaderanasinhalalk | 1,537
+adaderanasinhalalk | 1,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,095 (100.0%) of 10,100 articles have been extended.
+10,100 (100.0%) of 10,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### தேசிய சைபர் பாதுகாப்புச் சட்டத்தைக் கொண்டுவர திட்டம் : டிஜிட்டல் பொருளாதார மாநாடு ஜூலையில் - கனக ஹேரத்
+### බාල ඖෂධ සිද්ධියේ රට පැන්න ජයනාත් බුත්පිටියට රතු නිවේදනයක්
+
+*2024-02-29 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193978) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධ නඩුවේදී තවත් සැකකරුවෙකු අත්අඩංගුවට ගැනීම සඳහා මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය අද (29) වරෙන්තු නිකුත් කර තිබේ.
+
+ඒ, ප්‍රශ්නගත ප්‍රසම්පාදන ක්‍රියාවලියේ ඇගයීම් කමිටුවේ සාමාජිකයකු ලෙස ක්‍රියාකළ වෛද්‍ය ජයනාත් බුත්පිටිය නමැත්තා විමර්ශන මගහැර විදෙස්ගතවී ඇති බවට රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල්වරිය අද (29) අධිකරණයේදී කරුණු දැක්වීම හමුවේය.
+
+රතු නිවේදනයක් මගින් ජාත්‍යන්තර පොලීසි හරහා ඔහු යළි මෙරටට ගෙන්වා ගැනීමට අවශ්‍ය නියෝගයක් නිකුත් කරන ලෙස ඇය එහිදී මහෙස්ත්‍රාත්වරියගෙන් ඉල්ලා සිටියා ය.
+
+ඒ අනුව මාලිගාකන්ද මහෙස්ත්‍රාත්වරිය සැකකරු අත්අඩංගුවට ගැනීමට වරෙන්තු නිකුත් කළාය.
+
+පැමිණිල්ල සහ විත්තිය වෙනුවෙන් ඉදිරිපත් වූ සියලු කරුණූ සලකාබැලූ මහෙස්ත්‍රාත්වරිය පැමිණිල්ලට නියෝග කළේ ඉදිරි දින 14ක කාලය තුළ මෙම නඩුවේ මූලික විමර්ශන අවසන් කර අත්අඩංගුවට ගත යුතු අනෙකුත් සැකකරුවන් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙසය.
+
+...
+
+[Data](articles/b30090ba.json)
+
+---
+
+### සුපිරි පාපන්දු ක්‍රීඩකයාට වසර 4ක තහනමක්
+
+*2024-02-29 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193977) · `si`
+
+සුපිරි පාපන්දු ක්‍රීඩක පෝල් පොග්බා ට එරෙහිව වසර 4ක පාපන්දු තහනමක් පනවා තිබේ.
+
+◼️
+
+[Data](articles/95725725.json)
+
+---
+
+### පාසල් බෑගයේ බර අඩු කරයි
+
+*2024-02-29 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193976) · `si`
+
+සිසුන් සඳහා සකස් කර ඇති "වැඩ පොත්" හැරුණු විට අනෙකුත් පෙළ පොත් පාසලට ගෙන ඒම අවම කිරීම‌ට අධ්‍යාපන අමාත්‍යාංශය පියවර ගෙන තිබේ.
+
+ඒ අනුව විදුහල්පතිගේ සෘජු අධීක්ෂණය යටතේ ගතයුතු පියවර දන්වමින් අධ්‍යාපන ලේකම් වසන්තා පෙරේරා මහත්මිය උපදෙස් මාලාවක් නිකුත් කර ඇත.
+
+පාසල් පොත් බෑගයේ බර වැඩිවීම හේතුවෙන් පාසල් සිසුන්ගේ කොඳුඇට පෙළේ ආබාධ වැනි විවිධ ශාරීරික අපහසුතා ඇති විය හැකි බව සෞඛ්‍ය අංශ විසින පෙන්වා දී තිබේ.
+
+එබැවින් සිසුන්ගේ පොත් බෑගයේ බර අඩුකිරීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යංශයේ අවධානය යොමුවී ඇති අතර එහි එක් පියවරක් වශයෙන් තෝරාගත් පෙළ පොත් කාණ්ඩ වශයෙන් මුද්‍රණය කිරීමට මේ වනවිට අවශ්‍ය පියවර ගෙන ඇත.
+
+◼️
+
+[Data](articles/c22e44da.json)
+
+---
+
+### Plan to introduce National Cyber Security Act: Digital Economic Conference in July - Kanaka Herath
 
 *2024-02-29 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177631) · `ta`
 
-தேசிய சைபர் பாதுகாப்புச் சட்டத்தை (National Cyber Security Act) இவ்வருடத்திற்குள் கொண்டு வர எதிர்பார்ப்பதாகவும் அதன் பின்னர் சைபர் பாதுகாப்பு அதிகார சபையை நிறுவவுள்ளதாகவும் தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் தெரிவித்தார்.
+Technology Minister Kanaka Herath said that the National Cyber Security Act is expected to bring in the Cyber Security Authority this year.
 
-டிஜிட்டல் பொருளாதாரத்தை வலுப்படுத்துவதன் மூலம் நாட்டின் பொருளாதாரத்தை மேம்படுத்தும் நோக்கில், டிஜிட்டல் பொருளாதார  மாநாட்டை ஜூலை மாத இறுதியில் இலங்கையில் நடத்த ஏற்பாடு செய்யப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் தெரிவித்தார்.
+The Minister of State also said that the digital economic conference was organized in Sri Lanka at the end of July to improve the country's economy by strengthening the digital economy.
 
-ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (29) நடைபெற்ற ஊடகவியலாளர் மாநாட்டிலேயே இராஜாங்க அமைச்சர் இதனைத் தெரிவித்தார்.
+The Minister of State made this statement at a press conference held at the Presidential Media Center on Thursday (29).
+
+“The digital economy, which has been at 4.73% in the past, has seen a 5% growth today. So the economy is also strengthened.The digital economic conference will be held in Sri Lanka at the end of July to further strengthen it.It has been decided to attract domestic and foreign investors.The work will be carried out by the Ministry of Foreign Affairs, the Ministry of Foreign Affairs and the Ministry of Investment Promotion.
 
 ...
 
 [Data](articles/565cda24.json)
+
+[Extended Data](ext_articles/565cda24.ext.json)
 
 ---
 
@@ -66,6 +120,8 @@ The general price level has increased to 100.6 percent compared to the index ref
 
 [Data](articles/87684f64.json)
 
+[Extended Data](ext_articles/87684f64.ext.json)
+
 ---
 
 ### First Local HD channel of the Freesat Television TV Derana
@@ -86,19 +142,21 @@ Accordingly, the audience will be able to view the TV Derana HD channel along to
 
 ---
 
-### வெப்பமான காலநிலை தொடர்பில் விடுக்கப்பட்டுள்ள எச்சரிக்கை!
+### Warning issued on hot climate!
 
 *2024-02-29 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177630) · `ta`
 
-அடுத்த 24 மணித்தியாலங்களுக்கு வெப்பமான காலநிலை நிலவும் என பல மாகாணங்கள் மற்றும் மாவட்டங்களுக்கு எச்சரிக்கை அறிவிப்பு விடுக்கப்பட்டுள்ளது.
+Alerts have been issued to many provinces and districts that the warmer weather will prevail for the next 24 hours.
 
-இதன்படி, வடமேற்கு, மேற்கு மற்றும் தெற்கு மாகாணங்கள் மற்றும்  இரத்தினபுரி மன்னார் மாவட்டங்களில் வசிக்கும் மக்களை அவதானமாக இருக்குமாறு வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+Accordingly, the Department of Meteorology has announced that the residents of the Northwest, Western and Southern Provinces and Ratnapura Mannar districts will be observed.
 
-இந்தப் பகுதிகளில் வெப்பக் குறியீடு, அதாவது மனித உடலால் உணரப்படும் வெப்பம், 'கவனம்' தேவைப்படும் அளவில் இருக்கும் என்று குறிப்பிடப்பட்டுள்ளது.
+It is mentioned that the heat code in these areas, ie, the heat, which is perceived by the human body, is required to 'focus'.
 
 ◼️
 
 [Data](articles/da6c8cf8.json)
+
+[Extended Data](ext_articles/da6c8cf8.ext.json)
 
 ---
 
@@ -117,6 +175,8 @@ ecognizing Sri Lanka's efforts in promoting gender equality and women's empowerm
 ...
 
 [Data](articles/efece4a6.json)
+
+[Extended Data](ext_articles/efece4a6.ext.json)
 
 ---
 
@@ -322,6 +382,8 @@ The two leaders said they are close to each other when journalists questioned th
 
 [Data](articles/e1ff5da2.json)
 
+[Extended Data](ext_articles/e1ff5da2.ext.json)
+
 ---
 
 ### The size of the relief is up
@@ -339,6 +401,22 @@ The President added that the proceedings of the public servants will continue to
 [Data](articles/b27482b8.json)
 
 [Extended Data](ext_articles/b27482b8.ext.json)
+
+---
+
+### මම තරම් නින්දා අපහාසවලට, පහර කෑම්වලට ලක්වෙච්ච පොලිස් නිලධාරියෙක් නැතිව ඇති
+
+*2024-02-29 19:31:46* · [`adalk`](https://www.ada.lk/breaking_news/මම-තරම්-නින්දා-අපහාසවලට--පහර-කෑම්වලට-ලක්වෙච්ච-පොලිස්-නිලධාරියෙක්-නැතිව-ඇති/11-408366) · `si`
+
+පොලීසියෙහි  දැවන්ත පරිවර්තනයක් සිදුකර ලංකාවෙන් සංවිධානාත්මක අපරාධ හා මත්ද්‍රව්‍ය තුරන් කිරීම තම අධිෂ්ඨානය බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සඳහන් කරයි.සර්වාගමික වතාවත් මධ්‍යයේ පොලිස්පති ධුරය බාරගැනීමෙන් පසුව අද (29දා)පොලිස් මූලස්ථානයේදී ඔහු එසේ පැවසීය.ඉන් පසු මාධ්‍ය හමුවේ පොලිස්පතිවරයා මෙසේද පැවසීය.
+
+"විවිධ අයට ඇඟිල්ල දික්කරලා චෝදනා කරන්න පුළුවන්. විවෙච්නය කරන්න පුළුවන්. නමුත් මට පැවරිච්ච රාජකාරිය මම ශ්‍රී ලංකා පොලීසිය වෙනුවෙන් මගේ ශක්ති ප්‍රමාණයෙන්  ඉටු කර තිබෙනවා.
+
+මම තරම් නින්දා අපහාසවලට, පහර කෑම්වලට ලක්වෙච්ච පොලිස් නිලධාරියෙකු පොලිස් සේවය තුළ ඉන්නවද කියලා ඉතිහාසය  පිරික්සලා  බලන්න. මට කරපු අභූත චෝදනා, නින්දා අපහාසවලින් තමයි මම ශක්තිමත්ව නැගී සිටියේ.
+
+...
+
+[Data](articles/83f2d501.json)
 
 ---
 
@@ -1961,87 +2039,5 @@ Former Health Minister Keheliya Rambukwella has been taken to the Maligakanda Ma
 [Data](articles/bd377a59.json)
 
 [Extended Data](ext_articles/bd377a59.ext.json)
-
----
-
-### Parliamentarian SMM. Supreme Court rules about Musharraf
-
-*2024-02-29 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193952) · `si`
-
-All Island Mekl Congress Member SMM. The Supreme Court decided that the decision to expel Musharraf was contrary to the law.
-
-The decision was announced by the Supreme Court Judge Bench, who was a petition filed by MP Musharraf against the expulsion of his party.
-
-◼️
-
-[Data](articles/550b2ecf.json)
-
-[Extended Data](ext_articles/550b2ecf.ext.json)
-
----
-
-### Motorcycli motorbike arrested on Jampata Street
-
-*2024-02-29 13:14:33* · [`adalk`](https://www.ada.lk/breaking_news/ජම්පටා-වීදියේ-වෙඩි-තැබීමට-පැමිණි-යතුරු-පැදියේ-පැදිකරු-අල්ලයි/11-408349) · `si`
-
-The Colombo Crimes Division says that the shootman who had taken the motorcycle to the shooting owner of Newhham Square, the shooting owner of Newhham Square, says.
-
-Drugs have been taken into police custody with the suspect with the suspect.Mohammad Hashan Mohamed Hashan Mohamed Relwan was also seriously injured in the shooting.
-
-The suspect was identified by the suspects in the investigation of the murder of murder and the suspects were identified by the suspects to be identified by the suspects.
-
-The shooting was hit by a motorbike in a motorcycle while he was sitting at a chair on a chair.
-
-The victim has received information that the shooting is a close relative of an organized crime leader and is a closest relative of the meat and the carcasses belonging to the shop.
-
-A high-ranking police officer said that the shooting had been carried out on the direction of the son of Kudu Selvi, a son of Kudu Selvi, River.
-
-...
-
-[Data](articles/ada43043.json)
-
-[Extended Data](ext_articles/ada43043.ext.json)
-
----
-
-### Japan trains Sri Lanka Coast Guard on oil spill response
-
-*2024-02-29 13:11:00* · [`economynextcom`](https://economynext.com/japan-trains-sri-lanka-coast-guard-on-oil-spill-response-152514/) · `en`
-
-ECONOMYNEXT – The Japan Coast Guard (JCG) has trained 37 officers of the Sri Lanka Coast Guard (SLCG) on how to handle oil spills, with help from the Japan International Cooperation Agency (JICA).
-
-“The establishment of a sustainable human resource development system to address oil spill incident in SLCG is an important initiative for Sri Lanka and Indo-Pacific region,” JICA said in a statement.
-
-Five experts of the JCG comprising two officials from their Mobile Cooperation Team specialized in capacity development, two officers from National Strike Team Station in Yokohama who are in charge of oil spill management in a coastal area in Japan, and one officer from Marine Environment Protection and Disaster prevention Division of JCG conducted the oil spill response training from February 5-22.
-
-...
-
-[Data](articles/82942406.json)
-
-[Extended Data](ext_articles/82942406.ext.json)
-
----
-
-### PHI. The motorcycle for the murder set on fire?
-
-*2024-02-29 13:10:07* · [`adalk`](https://www.ada.lk/breaking_news/පී-එච්-අයි--ඝාතනයට-පැමිණි-යතුරු-පැදිය-ගිනි-තියලා-/11-408348) · `si`
-
-Uragasmanhandiya Police say that the motorcycle of the Uragasmanhandiya Maha Uragasmanhandiya Maha Uragasmanhandiya Maha Pigasmanhandiya has been recovered today afternoon.
-
-According to the police that the motorcycle was set on fire, which was set on fire and was set on the time of fire and who was set on fire.
-
-The police say that the murded gunmen who had come to the murder of Halunu gunmen who had come to the murder of the murder were discovered by the correspondent, police said.
-
-The police suspect that the unidentified gunmen who were unable to uncover the murderers were suspicious that they had to set fire to the motorcycle.
-
-A definite reason for the murder is not yet revealed that about 100 CC Study systems are to be inspected on both sides of the murder.
-
-It is not because the assassination of Dileepa Roshan Kumara was uniquely unorganized and the murder of Dileepa Roshan Kumara was unorganized and the assassination of duty, insurgents and unorganized.Police say.
-
-...
-
-[Data](articles/a9578909.json)
-
-[Extended Data](ext_articles/a9578909.ext.json)
 
 ---

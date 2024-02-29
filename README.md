@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 21:33:01**
+As of **2024-02-29 21:51:43**
 
 ## Newspaper Stats
 
@@ -26,21 +26,23 @@ adaderanasinhalalk | 1,536
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,089 (100.0%) of 10,093 articles have been extended.
+10,093 (100.0%) of 10,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### ගුවන් හමුදා කැඩෙට් නිලධාරීන්ගේ විසිරයෑම ජනපතිගේ ප්‍රධානත්වයෙන්
+### President declares open SLAF Cadet Officers
 
 *2024-02-29 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193974) · `si`
 
-ඉතිහාසයේ පළමු වරට රාත්‍රී කාලයේ සිදු කෙරුනු ගුවන් හමුදා කැඩෙට් නිලධාරීන්ගේ විසිර යාමේ පෙළපාළිය, ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (29) පැවැත්වුණි.
+President Ranil Wickremesinghe was held today under the patronage of President Ranil Wickremesinghe today (29).
 
 ◼️
 
 [Data](articles/ffab0909.json)
+
+[Extended Data](ext_articles/ffab0909.ext.json)
 
 ---
 
@@ -88,17 +90,19 @@ SJB General Secretary Ranjith Madduma Bandara and former Parliamentarian Mujibur
 
 ---
 
-### කෙහෙළිය ඇතුළු 7 දෙනා යළිත් රිමාන්ඩ්
+### Survey and seven including Keheliya remanded again
 
 *2024-02-29 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193973) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සැකකරුවන් 07 දෙනා මාර්තු 14  වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Former Minister of Health, Keheliya Rambukwella and the seven suspects have been remanded until March 14.
 
-ඒ, ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් සම්බන්ධ නඩුව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී අද (29) යළි කැඳවූ අවස්ථාවේදීය.
+That is when the standard absolute antibodies and vaccination of vaccine is taken up again in the Maligakanda Magistrate's Court today (29).
 
 ◼️
 
 [Data](articles/25c60393.json)
+
+[Extended Data](ext_articles/25c60393.ext.json)
 
 ---
 
@@ -116,19 +120,25 @@ Former Health Minister Keheliya Rambukwella, former Health Ministry Secretary an
 
 ---
 
-### වෛද්‍ය ජයනාත් බුත්පිටියට වරෙන්තු
+### Warrant issued to Dr. Jayawana Bututage
 
 *2024-02-29 20:06:55* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-ජයනාත්-බුත්පිටියට-වරෙන්තු/11-408369) · `si`
 
-බාල බෙහෙත් ජාවාරමට අදාළව කටඋත්තර ගැනීමට සිටියදී විදේශ ගතව සිටින වෛද්‍ය සැපයුම් අංශයේ රාජකාරි කළ වෛද්‍ය ජයනාත් බුත්පිටිය මහතා අත්අඩංගුවට ගැනීමට නියම කරමින් මාලිගාක්නද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මිය ඉංග්‍රීසි භාෂාවෙන් අද (29) වරෙන්තු නිකුත් කළාය.
+Maligaika Abeywickrema Weerasinghe has issued the warrant at English, Dr. Jayaka Buthpitiya, who is abroad to be taken abroad.
 
-මෙම සිද්ධියට අදාළව ප්‍රකාශ ගැනීමට සොයමින් සිටින සෞඛ්‍ය අමාත්‍යංශයේ අතිරේක ලේකම් වෛද්‍ය සමන් රත්නායක මහතාට අද දින රහස් පොලිසියේ පෙනී සිට ප්‍රකාශයක් දෙන ලෙස දැනුම් දෙමින් ‘වට්ස්අප්’ මාර්ගයෙන් දැනුම් දීමක් කළ බව කියමින් නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මහත්මිය කළ ඉල්ලීමක් පිළගනිමින් මහෙස්ත්‍රාත්වරිය එලෙස නියම කළාය.
+The Magistrate also adopted a request made by Vetpi Girihaga, who is looking for the incident in relation to the incident.
 
-මෙම සිද්ධියට අදාල සැකකරුවන් ලබන 14 වැනිදා තෙක් තවදුරටත් රිමාන්ඩ් භාරයේ රඳවා තැබීමට නියම කළ මහේස්ත්‍රාත්වරිය සිද්ධියට අදලාව කරන විමර්ශනවල ප්‍රගතිය එදින අධිකරණයට වාර්තා කිරීමටද රහස් පොලිසියට වැඩිදුරටත් නියම කළාය.
+The suspects have been appointed to the Magistrate's investigation into the courts on the 14th of this month.
+
+Sugath Janaka Fernando, who is said to be remanded in relation to the complaint, said: "Assistant Director of Medical Supply (Suppliers) Collateral (Supplies)Dr. Herath Mudiyasalage Dharmasalage Dharmasalage Dharmasalage Dharmasalage Dharmasalage, Dr. Herath Mudiyanselage Dharmasalage, who has been released on the Secretary to the Ministry of Health.
+
+The Director of the Medical Supplies Unit, the Director of the Medical Supplies Unit, and former Health Minister Keheliya Rambukwella produced ambulance at the ambitory of the hospital at the Colombo National Hospital.
 
 ...
 
 [Data](articles/e7304da2.json)
+
+[Extended Data](ext_articles/e7304da2.ext.json)
 
 ---
 
@@ -178,19 +188,21 @@ The owner of the bag puts his bag in the packet of packs above his seat on the t
 
 ---
 
-### අස්වැසුමේ ප්‍රමාණය ඉහළට
+### The size of the relief is up
 
 *2024-02-29 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193972) · `si`
 
-අස්වැසුම වැඩසටහනට සුදුසුකම් ලබන ප්‍රමාණය ලක්ෂ 24 දක්වා වැඩිකිරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe says he will increase the size of the revenue program to 24 lakhs.
 
-විල්ගමුව ප්‍රාදේශිය ලේකම් කාර්යාලයේ පැවැති අස්වැසුම ප්‍රගතිය විමසා බැලීමේ සාකච්ඡාවකට එක්වෙමින් ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ රාජ්‍ය සේවකයින්ගේ රුපියල් දස දහසකින් ඉහළ දැමීම අප්‍රේල් මාසයේ සිට ක්‍රියාත්මක කරන බවය.
+The President added that the proceedings of the public servants will continue to increase the Rs. 1,000 in April.
 
-"අස්වැසුම ප්‍රතිලාභ ලබාදීම පසුගිය වසරේ සිට ක්‍රියාත්මක කිරීමට අප කටයුතු කළා. එම වැඩසටහන ක්‍රියාත්මක වන ආකාරය පිළිබඳව සොයා බැලීමට අද මා විල්ගමුවට පැමිණ තිබෙනවා. ජනාධිපති ධූරයේ වගකීම මා භාරගත්තේ රටේ ආර්ථිකය කඩා වැටී රට බංකොලොත්ව තිබූ අවස්ථාවකයි. එදා ආර්ථික අර්බුදයන් රට ගොඩගැනීම සඳහා කිසිදු නායකයෙක් ඉදිරියට ආවේ නැහැ. එවැනි බංකොලොත් පරිසරයක් තුළ ජනතාවගේ රැකියා අහිමිවී ජීවත්වීම පිළිබඳ ගැටලු මතුව තිබුණා."
+"We have been implemented from last year to provide the benefits of rewarding of the revenue. I have arrived in Wilgamu today to look into the program. I was responsible for the president's economic position when the country was banging of the country's economy. No leader came forward to recover economic crises in that day. In such a bankruptcy, the people lost their jobs and problems have arisen about living. "
 
 ...
 
 [Data](articles/b27482b8.json)
+
+[Extended Data](ext_articles/b27482b8.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 08:02:27**
+As of **2024-02-29 08:17:27**
 
 ## Newspaper Stats
 
-*Scraped **9,933** Articles*
+*Scraped **9,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,59 +20,105 @@ adaderanalk | 1,193
 tamilmirrorlk | 1,205
 virakesarilk | 1,373
 dailymirrorlk | 1,499
-adaderanasinhalalk | 1,502
+adaderanasinhalalk | 1,504
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,931 (100.0%) of 9,933 articles have been extended.
+9,933 (100.0%) of 9,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### HIV ආසාදිතයින් සියයට 14කින් ඉහළට
+### ග්‍රාම නිලධාරී සම්මුඛ පරීක්ෂණවලට දින දෙයි
+
+*2024-02-29 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193938) · `si`
+
+නව ග්‍රාම නිලධාරීවරුන් බඳවා ගැනීමේ සම්මුඛ පරික්ෂණ ලබන මාර්තු 13 වන දින සිට ආරම්භ කරන බව ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පවසයි.
+
+රාජ්‍ය අමාත්‍යවරයා පෙන්වා දෙන්නේ, සම්මුඛ පරික්ෂණ කටයුතු 13,14 සහ 15  යන තෙදින තුළ පැවැත්වෙන බවය.
+
+පසුගිය දෙසැම්බර් මාසයේ පැවති ග්‍රාම නිලධාරී විභාගයෙන් සමත් 4,232කු සම්මුඛ පරීක්ෂණය සඳහා සහභාගී වීමට නියමිතව තිබේ.
+
+සම්මුඛ පරික්ෂණවලින් අනතුරුව ඉතා කඩිනමින් පවතින පුරප්පාඩු පිරවීමට  කටයුතු කරන බව රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/386a682d.json)
+
+---
+
+### සෞඛ්‍ය වෘත්තීය සමිති සහ ඇමති අතර තවත් සාකච්ඡාවක්
+
+*2024-02-29 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193937) · `si`
+
+ඩැට් දීමනාව ලබාදීම සම්බන්ධයෙන් සෞඛ්‍ය වෘත්තීය සමිති සහ සෞඛ්‍ය බලධාරීන් අතර ඊයේ (28) පැවති සාකච්ඡා ධනාත්මකව අවසන් වු බව එම වෘත්තීය සමිති පවසයි.
+
+සෞඛ්‍ය ලේකම්වරයාගේ ප්‍රධානත්වයෙන් අදාළ දීමනාව සම්බන්ධයෙන් පත් කළ කමිටුව සමග මෙම සාකච්ඡා පැවති බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ කැඳවුම්කරු චානක ධර්මවික්‍රම මහතා පැවසුවේය.
+
+එහිදි අදාළ කමිටුව විසින් සකස් කළ තාක්ෂණික වාර්තාව සම්බන්ධයෙන් සාකච්ඡා වී තිබේ.
+
+කෙසේවෙතත් මෙම සාකච්ඡාව ස﻿ඳහා සෞඛ්‍ය අමාත්‍යවරයා එක් නොවු අතර සෞඛ්‍ය අමාත්‍යවරයා සමග සාකච්ඡාවක් හෙට (01) උදෑසන සිදුකරන බවයි සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ කැඳවුම්කරු චානක ධර්මවික්‍රම මහතා පැවසුවේය.
+
+මේ අතර වැටුප් විෂමතාවයේ ඉතිරි තුනෙන් දෙක ලබා ගැනීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කරගනිමින් ගුරු විදුහල්පති වෘත්තීය අරගලයේ දෙවන උද්ඝෝෂණය අද (29) තංගල්ලේ දී පැවැත්වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/8a9d9f59.json)
+
+---
+
+### HIV infected persons up by 14 percent
 
 *2024-02-29 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193936) · `si`
 
-HIV නව ආසාදිතයින් වාර්තා වීම සියයට 14කින් පමණ ඉහළ ගොස් ඇති බව ජාතික ලිංගාශ්‍රිත රෝග හා ඒඩ්ස් මර්දන වැඩසටහන පවසයි.
+The National Institute of STDs and AIDS Control Program says that the recording of the new infected persons have risen by 14 percent.
 
-2022 වසරට සාපේක්‍ෂව 2023 වසරේදී HIV නව ආසාදිතයින් සියයට 14.3ක වර්ධනයක් පෙන්නුම් කරන බව එහි අධ්‍යක්ෂ ප්‍රජා වෛද්‍ය විශේෂඥ වෛද්‍ය ජානකී විදානපතිරණ මහත්මිය සඳහන් කළාය.
+The Director of Community Medical Specialist Director Janaco Vidanathirana stated that in 2023 compared to 2022, he said.
 
-පසුගිය වසරේ දී නව HIV ආසාදිතයින් 694 දෙනෙකු හඳුනාගෙන ඇති අතර ඉන් වැඩි දෙනෙකු පිරිමි පුද්ගලයින් වේ.
+Last year, 694 new HIV infected persons have been identified, and most of them are men.
 
-ඒ අනුව පිරිමි පුද්ගලයින් 611 දෙනෙකු නව ආසාදිතයින් ලෙස හඳුනාගෙන ඇති අතර එය ප්‍රතිශතයක් ලෙස සියයට 88ක් බව විශේෂඥ වෛද්‍ය ජානකී විදානපතිරණ මහත්මිය සඳහන් කළාය.
+Accordingly, 611 men have been identified as new infectedists and 88% of the percentage of 88% as a percentage.
 
-එමෙන්ම එම කාලය තුළ කාන්තාවන් 81 දෙනෙකු නව HIV ආසාදිතයින් ලෙස හඳුනාගෙන ඇති අතර එය ප්‍රතිශතයක් ලෙස සියයට 11.7කි.
+In the same period, 81 women have been identified as new HIV infected and 11.7 percent as a percentage.
 
-ඒ අනුව මේ වන විට සමාජ තුළ සිටින ඇස්තමේන්තුගත HIV ආසාදිතයින් සංඛ්‍යාව 4,100ක් පමණ වන බව වාර්තා වේ.
+Accordingly, 4,100 of the estimated HIV positive casters in the society are now about 4,100.
 
-මේ අතර යම් පුද්ගලයෙකු හට HIV ආසාදනය වී ඇත්නම් එහි රෝග ලක්ෂණ පෙන්වීම සඳහා වසර අටක පමණ කාලයක් ගත වන බව විශේෂඥ වෛද්‍ය ජානකී විදානපතිරණ මහත්මිය පවසන්නීය.
+Meanwhile, specialist Dr. Janaki Vidanakathirana says that if a person is infected with HIV, it takes about eight years to show its symptoms.
+
+Therefore, if the risk of HIV shows similar risky behavior, a HIV testing is an essential point and has commenced a number of programs.
 
 ...
 
 [Data](articles/3df64ac3.json)
 
+[Extended Data](ext_articles/3df64ac3.ext.json)
+
 ---
 
-### නාවික නිදහස රකින්න කැපවී සිටින බවට ජනපතිගෙන් ප්‍රකාශයක්
+### President's statement from the President's commitment to protect the freedom
 
 *2024-02-29 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193935) · `si`
 
-ඉන්දියානු සාගරයේ නාවික නිදහස ආරක්ෂා කිරීම අරමුණු කරගත් උපාය මාර්ගික ස්ථාවරත්වයක් වෙනුවෙන් ශ්‍රී ලංකාව කැපවී සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe says Sri Lanka is committed to strategic stability aimed at defending the Indian Ocean's shipping freedom.
 
-ජනාධිපතිවරයා පෙන්වා දෙන්නේ, නාවික නිදහස වෙනුනේ ශ්‍රී ලංකාව දක්වන කැපවීම හේතුවෙන් රතු මෙහෙයුම් සඳහා දායකවීමට තීරණය කළ බවය.
+The President is released due to the commitment of Sri Lanka's commitment to Sri Lanka's commitment.
 
-සය දින යුද්ධය නිසා වසර 10ක් තිස්සේ සූවස් ඇළ වසා තැබීම කොළඹ වරායට අහිතකර ලෙස බලපෑ ආකාරය සිහිපත් කළ ජනාධිපතිවරයා සීමාවලින් තොරව නාවික කටයුතු සහත කිරීමේ අවශ්‍යතාව පෙන්වා දී තිබේ.
+The president who remembered how the Six Day war was the closure of the Colombo Port for 10 years, the President has shown the need to relieve sailors without limits.
 
-ඊයේ (28) කොළඹ දී ආරම්භ කෙරුණු 'පාත් ෆයින්ඩර්' පදනම සංවිධානය කරන ඉන්දියානු සාගර ආරක්ෂක සමුළුවේ තෙවන අදියරේ ප්‍රධාන දේශනය සිදුකරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව ප්‍රකාශ කළේය.
+President Ranil Wickremesinghe made this observation by committing the keynote address at the third stage of the Indian Ocean Security Forum organizing the 'Path Fever' Foundation in Colombo yesterday.
 
-ශ්‍රී ලංකාව මෙන්ම කලාපිය සහ ගෝලීය වශයෙන් අප සැමට මුහුණදීමට සිදුව ඇති ප්‍රධාන පක්ෂවලින් එකක් ආමන්ත්‍රණය කිරීම සඳහා 'පාත් ෆයින්ඩර්' පදනම සමඟ එක්වීමට ලැබීම සතුටට කරුණක් බව ජනාධිපතිවරයා එහිදි පෙන්වා දුනි.
+The President pointed out that Sri Lanka as well as regional and globally, the President said, "The President has given join the '' Path Fineer 'Foundation.
+
+The Indian Ocean cannot be considered part of a "one round" program or Indus Pacific program, President Ranil Wickremesinghe says that the Indian Ocean has become a strategic geological zone of the world.
 
 ...
 
 [Data](articles/0942e25f.json)
+
+[Extended Data](ext_articles/0942e25f.ext.json)
 
 ---
 
@@ -1975,45 +2021,5 @@ Police Media Spokesperson SSP Kmanda Police Media Spokesperson SSP Nissants Poli
 [Data](articles/5c3190f3.json)
 
 [Extended Data](ext_articles/5c3190f3.ext.json)
-
----
-
-### Kanjana Meeting with Ambassador of the Republic of Korea
-
-*2024-02-28 16:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொரிய-குடியரசின்-தூதுவருடன்-கஞ்சன-சந்திப்பு/175-333955) · `ta`
-
-A discussion on Energy Cooperation was held today (28) at the Ministry of Energy and Energy.
-
-The Ambassador told the Minister that the Korean Republic is producing massive electricity using floating solar panels and nuclear power.
-
-The Minister noted that the feasibility of developing energy cooperation between the two countries through renewable energy production and nuclear power production and the technical and financial assistance required from Korean governments and investors were discussed here.
-
-◼️
-
-[Data](articles/1225e4e8.json)
-
-[Extended Data](ext_articles/1225e4e8.ext.json)
-
----
-
-### Good news of the IMF Third Premium
-
-*2024-02-28 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193919) · `si`
-
-The IMF representatives will commence the second review of the IMF 3th premium from the 7th of March.
-
-He was speaking at a media briefing held at the Presidential Media Center today.
-
-The Minister of Finance added that IMF representatives will be conducted for nearly two weeks.
-
-The government will review the completion of government financial position and other agreements until December 31st.
-
-The State Minister stated that he was confident that the International Monetary Fund's third premium will be entitled to the staff agreement with the second review.
-
-◼️
-
-[Data](articles/c17e5c1d.json)
-
-[Extended Data](ext_articles/c17e5c1d.ext.json)
 
 ---

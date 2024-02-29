@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 17:05:24**
+As of **2024-02-29 17:17:33**
 
 ## Newspaper Stats
 
-*Scraped **10,036** Articles*
+*Scraped **10,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 528
 islandlk | 531
 adalk | 851
 adaderanalk | 1,215
-tamilmirrorlk | 1,223
+tamilmirrorlk | 1,224
 virakesarilk | 1,378
 dailymirrorlk | 1,516
 adaderanasinhalalk | 1,528
@@ -26,11 +26,37 @@ adaderanasinhalalk | 1,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,034 (100.0%) of 10,036 articles have been extended.
+10,037 (100.0%) of 10,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### 10 -year -old girl murdered: Investigate Ivar
+
+*2024-02-29 16:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/10-வயது-சிறுமி-கொலை-ஐவரிடம்-விசாரணை/72-334007) · `ta`
+
+A 10 -year -old girl in the village of Talaimannar has been extended till the 7th of this month.
+
+A 10 -year -old girl was found dead on the morning of February 16 in the village of Talaimannar.
+
+A 52 -year -old suspect from Kuchchaveli, Trincomalee, who was arrested in connection with the incident, was produced before the Mannar court.
+
+The Mannar Magistrate, who conducted the inquiry, ordered to be kept in detention until the 29th.
+
+The suspect was produced before the Mannar Magistrate KLM Sajeed again on Thursday (29).
+
+The magistrate's mother, father and mother, who died, were investigated by the magistrate.
+
+The magistrate ordered the suspect to be remanded until the 7th of this month.
+
+◼️
+
+[Data](articles/969eb0ae.json)
+
+[Extended Data](ext_articles/969eb0ae.ext.json)
+
+---
 
 ### Government officials is essential to succeed in the relief and heritage - President
 
@@ -82,6 +108,8 @@ The Supreme Court on Thursday (29 Feb.) quashed the Cabinet decision allowing fo
 
 [Data](articles/5e674aca.json)
 
+[Extended Data](ext_articles/5e674aca.ext.json)
+
 ---
 
 ### President pledges swift relief to all eligible ‘Aswasuma’ beneficiaries
@@ -99,6 +127,8 @@ The President’s visit coincided with his attendance at a discussion held at th
 ...
 
 [Data](articles/82dbe5ba.json)
+
+[Extended Data](ext_articles/82dbe5ba.ext.json)
 
 ---
 
@@ -2031,23 +2061,5 @@ Indian coastal safety ships will be involved in the process of providing trainin
 [Data](articles/306030f1.json)
 
 [Extended Data](ext_articles/306030f1.ext.json)
-
----
-
-### Representatives of the Ministry of Electricity of India in Sri Lanka
-
-*2024-02-29 04:34:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மின்-சக்தி-அமைச்சின்-பிரதிநிதிகள்-இலங்கையில்/175-333963) · `ta`
-
-A team headed by Pankaj Agarwal, Secretary to the Ministry of Electricity of India, has visited the country for a three -day visit.
-
-They met the Minister of Power and Energy Kanjana Wijesekera at his ministry yesterday.
-
-Meanwhile, the project to merge the planned power structure with India, 130 MW Sampoor Power Project, Jaffna. The proposed electrification projects that are proposed to carry out the three islands of the district have been discussed.. (A)
-
-◼️
-
-[Data](articles/5e1d6278.json)
-
-[Extended Data](ext_articles/5e1d6278.ext.json)
 
 ---

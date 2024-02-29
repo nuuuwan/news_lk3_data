@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 14:02:36**
+As of **2024-02-29 14:17:27**
 
 ## Newspaper Stats
 
-*Scraped **9,993** Articles*
+*Scraped **9,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 economynextcom | 514
 dailyftlk | 528
 islandlk | 531
-adalk | 847
+adalk | 850
 adaderanalk | 1,204
 tamilmirrorlk | 1,212
 virakesarilk | 1,377
 dailymirrorlk | 1,512
-adaderanasinhalalk | 1,517
+adaderanasinhalalk | 1,519
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,992 (100.0%) of 9,993 articles have been extended.
+9,993 (99.9%) of 9,998 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,50 @@ Mr. Santhan's mother is today the overall symbol of the plight of the mothers wh
 
 ---
 
+### කෙහෙළියව අධිකරණයට රැගෙන එයි
+
+*2024-02-29 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193953) · `si`
+
+රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා මීට සුළු වේලාවකට පෙර මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙනවිත් තිබේ.
+
+◼️
+
+[Data](articles/bd377a59.json)
+
+---
+
+### පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.එම්. මුෂාරෆ් ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් තීන්දුවක්
+
+*2024-02-29 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193952) · `si`
+
+සමස්ත ලංකා මක්කල් කොංග්‍රසයේ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.එම්. මුෂාරෆ් මහතාව එම පක්ෂයෙන් නෙරපීමට ගත් තීරණය නීතියට පටහැනි බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+
+තමන්ව පක්ෂයෙන් නෙරපීමට එරෙහිව මුෂාරෆ් මන්ත්‍රීවරයා විසින් ගොනු කළ පෙත්සමක තීන්දුව ලබාදෙමින් ප්‍රියන්ත ජයවර්ධන මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම තීරණය ප්‍රකාශයට පත්කරනු ලැබීය.
+
+◼️
+
+[Data](articles/550b2ecf.json)
+
+---
+
+### පී.එච්.අයි. ඝාතනයට පැමිණි යතුරු පැදිය ගිනි තියලා?
+
+*2024-02-29 13:10:07* · [`adalk`](https://www.ada.lk/breaking_news/පී-එච්-අයි--ඝාතනයට-පැමිණි-යතුරු-පැදිය-ගිනි-තියලා-/11-408348) · `si`
+
+කරන්දෙණිය පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂක දිලීප රොෂාන් කුමාර මහතාගේ ඝාතනය සදහා පැමිණියේ යයි සැකකෙරෙන යතුරු පැදිය ඌරගස්මංහන්දිය මහ ඌරගහ රන්තොටුවිල පදේශයේ පාලු ස්ථානයක ගිනි දමා තිබියදී අද (29) දහවල් සොයා ගත් බව ඌරගස්මංහන්දිය පොලීසිය කියයි.
+
+ලැබුණු තොරතුරකට අනුව මේ ගිනි තබා විනාශ කළ යතුරු පැදිය සොයා ගත් බවත් මේ යතුරු පැදිය ගිනි තැබූ වේලාව සහ එය ගිනි තැබූවේ කවුරුන්ද යන්න පිළිබදව පුළුල් පරීක්ෂණයක් ආරම්භ කරන බව ද පොලීසිය කියයි.
+
+හජන සෞකය පරීක්ෂක රොෂාන් කුමාර මහතා ඝාතනයට පැමිණි නාදුනන තුවක්කුකරුවන් ඔහුට වෙඩි තබා ඌරගස්මංහන්දිය දක්වා පැමිණෙන බව මග දෙපස තිබූ සී සී ටී වී දර්ශනවලින් සොයා ගත් බවත් ඒ අනුව ඝාතකයන් ඝාතනය සදහා පැමිණි යතුරු පැදිය ඌරගස්මංහන්දිය ප්‍රදේශයට පැමිණ එයට ගිනි තබා පලා යන්නට ඇතැයි සැකකරන බවත් පොලීසිය කියයි.
+
+ඝාතකයන් හදුනා ගැනීමට නොහැකි වෙතැයි අනුමාන කළ නාදුනන තුවක්කුකරුවන් තමන් පැමිණි යතුරු පැදියට ගිනි තබන්නට ඇතැයි පොලීසිය සැකකරයි.
+
+...
+
+[Data](articles/a9578909.json)
+
+---
+
 ### Pending court cases should have been considered before IGP’s appointment: SJB
 
 *2024-02-29 13:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pending-court-cases-should-have-been-considered-before-IGPs-appointment-SJB/108-277962) · `en`
@@ -71,6 +115,22 @@ Also, he said Tennekoon has been appointed by violating the Constitution.
 [Data](articles/562f031b.json)
 
 [Extended Data](ext_articles/562f031b.ext.json)
+
+---
+
+### ඉතාලි රැකියා පෙන්වා මුදල් ගැරූ කාන්තාවක් හා පිරිමියෙක් අල්ලයි
+
+*2024-02-29 13:01:21* · [`adalk`](https://www.ada.lk/breaking_news/ඉතාලි-රැකියා-පෙන්වා-මුදල්-ගැරූ-කාන්තාවක්-හා-පිරිමියෙක්-අල්ලයි/11-408347) · `si`
+
+ඉතාලි තානාපති කාර්යාලය වෙත සේවාවන් සඳහා පැමිණෙන පුද්ගලයින් මුලාකොට එරට රැකියා ලබාදෙන බව පවසමින් ලක්ෂ 26 ක මුදලක් වංචා කළ කාන්තාවක් සහ පිරිමි පුද්ගලයකු අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+
+අත්අඩංගුවට ගත් සැකකාරිය අලෙවි ප්‍රවර්ධන නිලධාරිනියක් බවත්  සැකකරු තීරෝද රථ රියදුරෙකු බවත් පොලිසිය කියයි.  ඉතාලි තානාපති කාර්යාලය ට සේවාවන් සඳහා පැමිණෙන පුද්ගලයින්ගෙන් පිටස්තර පුද්ගලයින් විසින් මුදල් ලබාගන්නා බවට ඉතාලි තානාපති කාර්යාලයේ නිලධාරීන් විසින් අධ්‍යක්ෂක තානාපති ආරක්ෂක කොට්ඨාසය දැනුම්වත් කිරීමෙන් අනතුරුව පොලිස්පතිතුමාගේ උපදෙස් මත  ආරම්භ කළ විමර්ශනයකින් අනතුරුව සැකකරු සහ සැකකාරිය අත්අඩංගුවට ගෙන ඇත.
+
+ඒ අනුව කොළඹ අපරාධ කොට්ඨාසයේ ඒකක 5  ‍විමර්ශන නිලධාරීන් කොළඹ මහේස්ත්‍රාත් අධිකරණයට කරුණු වාර්තා කර සැකකරුවන් හඳුනාගෙන අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/b2277af3.json)
 
 ---
 
@@ -210,21 +270,25 @@ Further information was reported that they would strive to demand a permanent bu
 
 ---
 
-### வெளிநாட்டு புலனாய்வு அமைப்பிற்காக செயற்பட்ட அவுஸ்திரேலிய அரசியல்வாதி நாட்டை காட்டிக்கொடுத்தார்- அவுஸ்திரேலிய புலனாய்வு பிரிவின் தலைவர் திடுக்கிடும் தகவல்
+### Australian politician betrayed the country for foreign intelligence agency
 
 *2024-02-29 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177583) · `ta`
 
-அவுஸ்திரேலியாவின் முன்னாள் அரசியல்வாதியொருவர் நாட்டை வெளிநாட்டின் புலனாய்வு அமைப்பிற்கு  காட்டிக்கொடுத்தார் என அவுஸ்திரேலிய புலனாய்வு அமைப்பின் தலைவர் தெரிவித்துள்ளமை அவுஸ்திரேலியஅரசியலில் பெரும் பரபரப்பை ஏற்படுத்தியுள்ளது.
+The Australian Intelligence Agency's president has said that a former Australian politician betrayed the country to the foreign intelligence agency has caused a stir in the Australian politics.
 
-ஏடீம் என்ற வெளிநாட்டு புலனாய்வு குழுவினருடன் இணைந்து செயற்பட்ட  முன்னாள் நாடாளுமன்ற உறுப்பினர்   வெளிநாட்டு புலனாய்வாளர்களை பிரதமரின் அலுவலகம் வரை அழைத்துச்சென்றார் என தேசிய புலனாய்வுபிரிவின் தலைவர் மைக்பேர்கெஸ் தெரிவித்துள்ளார்.
+National Intelligence Unit Chairman Mikebareges said that a former parliamentarian who worked with a foreign intelligence team called Adeem had taken foreign investigators up to the Prime Minister's Office.
 
-குறிப்பிட்ட நாடாளுமன்ற உறுப்பினரின் பெயரையோ அல்லது அவர் எந்த நாட்டின் சார்பில் பணியாற்றினார் என்பதையோ வெளியிடாத புலனாய்வு பிரிவின் தலைவர் பல வருடங்களிற்கு முன்னர் இது இடம்பெற்றது எனவும் குறிப்பிட்டுள்ளார்.
+The head of the Intelligence Unit, who did not publish the name of a particular Member of Parliament or which country he worked on behalf of the country, said that it was taken over years ago.
 
-தற்போது கலைக்கப்பட்டுள்ள ஏகுழு ஒரு ஆக்ரோசமான மற்றும் அனுபவம் வாய்ந்த வெளிநாட்டு புலனாய்வு அமைப்பாகும் என தெரிவித்துள்ள அவுஸ்திரேலியாவின் தேசிய பாதுகாப்பு அமைப்பின் தலைவர் இது அவுஸ்திரேலியாவை முன்னுரிமைக்குரிய இலக்காக கொண்டுசெயற்பட்டது எனவும் தெரிவித்துள்ளார்.
+Australia's National Security Organization, the head of the Australia's National Security Organization, said that the current dissolved group is an aggressive and experienced foreign intelligence agency.
+
+He said local government officials were working on various blankets, including educators.
 
 ...
 
 [Data](articles/a899ade0.json)
+
+[Extended Data](ext_articles/a899ade0.ext.json)
 
 ---
 
@@ -265,6 +329,20 @@ However, the health sector trade unions are slated to meet with Health Minister 
 [Data](articles/0b030c72.json)
 
 [Extended Data](ext_articles/0b030c72.ext.json)
+
+---
+
+### නාගානන්ද කොඩිතුවක්කුගේ නීතිඥභාවය අහෝසි කරයි
+
+*2024-02-29 11:53:28* · [`adalk`](https://www.ada.lk/breaking_news/නාගානන්ද-කොඩිතුවක්කුගේ-නීතිඥභාවය-අහෝසි-කරයි/11-408346) · `si`
+
+නීතිඥ නාගානන්ද කොඩිතුවක්කු මහතාගේ නීතිඥ භාවය අහෝසි කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (29) තීන්දු කර තිබේ. ඒ මහතාට එරෙහිව ඉදිරිපත් වූ පැමිණිල්ලක් විභාග කිරීමෙන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය අදාළ තීන්දුව ප්‍රකාශ කළේය.
+
+ප්‍රියන්ත ජයවර්ධන,  ප්‍රීති පද්මන් සූරසේන සහ එස්. තුරයිරාජා යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම තීන්දුව ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/ac1caf5f.json)
 
 ---
 
@@ -1957,99 +2035,5 @@ Senior Counsel Ajith Pathirana, appearing for Damitha Abeyratne and her husband,
 [Data](articles/92e2aae8.json)
 
 [Extended Data](ext_articles/92e2aae8.ext.json)
-
----
-
-### How the Sri Lanka-Thailand FTA paves the way for enhanced bilateral trade
-
-*2024-02-28 21:20:00* · [`islandlk`](http://island.lk/how-the-sri-lanka-thailand-fta-paves-the-way-for-enhanced-bilateral-trade/) · `en`
-
-with research interests in macroeconomic policy, international trade, labour and health economics. He holds a BSc in Agricultural Technology and Management from the University of Peradeniya, an MS in Agribusiness and Applied Economics from North Dakota State University, and an MS and PhD in Agricultural, Environmental and Development Economics from The Ohio State University.
-
-The Sri Lanka-Thailand Free Trade Agreement (SLTFTA) paves the way for lower tariffs on 85% of products between Sri Lanka and Thailand.
-
-Strategic use of uncommitted lists to restrict imports from the partner country may weaken the effectiveness of SLTFTA.
-
-The agreement opens avenues for trading new products, enhancing bilateral trade potential.
-
-...
-
-[Data](articles/e9187a92.json)
-
-[Extended Data](ext_articles/e9187a92.ext.json)
-
----
-
-### Number of Aswesuma beneficiaries to be increased to 2.4mn families by June – State Minister
-
-*2024-02-28 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97603/number-of-aswesuma-beneficiaries-to-be-increased-to-24mn-families-by-june-state-minister-) · `en`
-
-State Minister of Finance Shehan Semasinghe, announced that the verification and certification process for applicants in the second phase of the “Aswasuma” program has been finalized. All necessary arrangements have been made to extend benefits to 2.4 million family units starting from June 2024.
-
-The State Minister underscored the imminent closure of the second phase of applications, slated to conclude on March 15, 2024. Emphasizing the importance of timely submission, he reiterated that individuals failing to submit their applications by the given deadline will forfeit eligibility for benefits associated with the program.
-
-These updates were provided by State Minister Semasinghe during his participation in a press briefing at the Presidential Media Centre today (28), themed ‘Collective Path to a Stable Country’.
-
-...
-
-[Data](articles/11ce881d.json)
-
-[Extended Data](ext_articles/11ce881d.ext.json)
-
----
-
-### Man arrested for heroin to her husband
-
-*2024-02-28 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193932) · `si`
-
-A wife who was brought to the secret heroin to be handed over to her husband in the Kalutara Prison has been arrested this afternoon.
-
-She has been brought to a husband to give her husband and it has been hiding heroin in the hidden drug.
-
-The woman has handed over the woman to the Kalutara Police since he was inspected by the prison officials.
-
-The suspect was a 34 year old resident of Payagalai area.
-
-The suspect had come along with his six-year-old daughter, police said.
-
-Prison sources say he found 550 milligrams of heroin.
-
-◼️
-
-[Data](articles/944b4065.json)
-
-[Extended Data](ext_articles/944b4065.ext.json)
-
----
-
-### Softlogic Life posts impressive 26Bn GWP for FY2023
-
-*2024-02-28 21:15:00* · [`islandlk`](http://island.lk/softlogic-life-posts-impressive-26bn-gwp-for-fy2023/) · `en`
-
-Softlogic Life, recorded robust FY23 performance, posting Gross Written Premium (GWP) of Rs. 26.3 Bn for the period ended 31st December 2023, with an increase in top-line growth of 14% versus the past year and compared to industry growth of 12%.
-
-The Company has stood firmly with its policyholders in the face of challenging macroeconomic conditions with a firm commitment to continually improve customer benefits and this commitment is signified through their diligent Claims and Benefits payout during 2023 which is Rs. 13.5 Bn compared to Rs. 9.1 Bn in 2022.
-
-...
-
-[Data](articles/c02fa130.json)
-
-[Extended Data](ext_articles/c02fa130.ext.json)
-
----
-
-### Highest per day share transactions over past four months; turnover Rs. 1.2 billion
-
-*2024-02-28 21:12:00* · [`islandlk`](http://island.lk/highest-per-day-share-transactions-over-past-four-months-turnover-rs-1-2-billion/) · `en`
-
-Stock market trading was quite vibrant yesterday with the highest number of per day transactions being recorded amounting to 11700, over the last four months, while a steady increase was noted of arranged transactions/crossings, market analysts said.
-
-Amid those developments both indices moved up. The All Share Price Index went up by 55.29 points while S and P SL20 rose by 8.5 points. Turnover stood at Rs 1.2 billion with four crossings. Those crossings were reported in Hemas, which crossed 941,000 shares to the tune of Rs 70.5 million and its shares traded at Rs 75, HNB 150,000 shares crossed for Rs 22.7 million; its shares traded at Rs 158, Ceylon Cold Stores 455,000 shares crossed for Rs 20.9 million; its shares sold at Rs 46 and TJ Lanka 550,000 shares crossed to the tune of Rs 20.3 million; its shares traded at Rs 37.
-
-...
-
-[Data](articles/845f2e1e.json)
-
-[Extended Data](ext_articles/845f2e1e.ext.json)
 
 ---

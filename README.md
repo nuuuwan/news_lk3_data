@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 20:17:32**
+As of **2024-02-29 20:33:12**
 
 ## Newspaper Stats
 
-*Scraped **10,078** Articles*
+*Scraped **10,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 528
 islandlk | 531
 adalk | 861
 adaderanalk | 1,219
-tamilmirrorlk | 1,225
+tamilmirrorlk | 1,227
 virakesarilk | 1,383
 dailymirrorlk | 1,520
 adaderanasinhalalk | 1,533
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,076 (100.0%) of 10,078 articles have been extended.
+10,078 (100.0%) of 10,080 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,19 +64,37 @@ Newly appointed Inspector-General of Police Deshabandu Tennakoon visited the Gan
 
 ---
 
-### මියන්මාර ත්‍රස්ත ග්‍රහනයේ සිටින ලාංකිකයන් බේරා ගැනීමට මහෙයුමක්
+### கைதுக்கு எதிராக கெஹலிய மனுதாக்கல்
+
+*2024-02-29 19:00:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதுக்கு-எதிராக-கெஹலிய-மனுதாக்கல்/175-334013) · `ta`
+
+குற்றப் புலனாய்வுப் பிரிவினர் தம்மைக் கைதுசெய்ததைச் சவாலுக்கு உட்படுத்தி,  100 மில்லியன் ரூபாய் நட்டஈடு வழங்குமாறு கோரி, முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல, உயர் நீதிமன்றில் அடிப்படை உரிமை மீறல் மனுவொன்றை தாக்கல் செய்துள்ளார்.
+
+தரமற்ற இம்யுனோகுளோபியுலின் தடுப்புசிகளை இறக்குமதி செய்த குற்றச்சாட்டில் குற்றப் புலனாய்வு திணைக்களத்தால் கடந்த இரண்டாம் திகதி கைது செய்யப்பட்ட கெஹலிய விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/97f31230.json)
+
+---
+
+### Commanding to save Sri Lankans in Myanmar Terror
 
 *2024-02-29 18:56:10* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාර-ත්‍රස්ත-ග්‍රහනයේ-සිටින-ලාංකිකයන්-බේරා-ගැනීමට-මහෙයුමක්/11-408362) · `si`
 
-මියන්මාරයේ මියාවඩි ප්‍රදේශයේ ත්‍රස්ත කල්ලියකගේ ග්‍රහණය යටතේ සිටින මෙරට තරුණයන් 56 දෙනා බේරා ගැනීම සඳහා ත්‍රෛනිකායික  මහානාහිමිවරුන්ගේ විශේෂ සංදේශයක් රැගෙන මියන්මාරය බලා යාමට බලාපොරොත්තු වන බව මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා බණ්ඩාර මහතා පවසයි.
+Kandy District Parliamentarian Wasantha Yapa Bandara says that Kandy is expected to take a special memorandum of the Trify Mahanahas.
 
-ඒ මහතා ඊයේ (29) මල්වතු අස්ගිරි මහනාහිමිවරුන් බැහැ දැකඒ හා සම්බන්ධ සන්දේශයසකස් කිරීම සම්බන්ධයෙන් මූලික සාකච්ඡා පැවැත්වීමෙන් අනතුරුව මාධ්‍ය හමුවේ පවසා සිටියේ අමරපුර සහ රාමඤ්ඤ නිකා මහානාහිමිවරුන්ද බැහැදක ඒ සම්බන්ධයෙන් සාකච්ඡා කළ බවයි .
+He was speaking at the media regarding the preliminary discussions of the Malwatte Asgiri Mahanayakes of the Malwatte Asgiri Mahanayakes yesterday.
 
-ශ්‍රී ලංකාව සහ මියන්මාරය බෞද්ධ රටවල් දෙකක් බැවින් ත්‍රෛනිකායික මහා නා හිමිවරුන්ගේ සංදේශය එරට මහනායක හිමියන්ට පිළිගන්වා ඒ හරහා එරට හමුදා පාලකයන් දැනුවත් කොට එම තරුණයන් බේරා ගැනීම සඳහා එරට රජයේ මැදිහත්වීමක් ලබා ගැනීමට බලාපොරොත්තු වන බවද පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා මහතා මාධ්‍ය හමුවේ පැවසීය .
+Parliamentarian Wasantha Yapa said that the Manendu has been admitted to the Chief Prelate to the Chief Prelate to the Chief Prelate to rescue the youth in the country as two Buddhist countries in Sri Lanka and Myanmar.
 
-...
+The MP said that the Ananda Thero of Myanmar has already been involved in the event and is informed by the Ministry of Foreign Affairs and the External Affairs Ministry and take steps to save them through diplomatic intervention.
+
+◼️
 
 [Data](articles/714cb458.json)
+
+[Extended Data](ext_articles/714cb458.ext.json)
 
 ---
 
@@ -120,21 +138,23 @@ Also, if a police officer undergoing the process of duties in the scope of work,
 
 ---
 
-### පාසල් සිසුන්ගේ පොත් බෑගයේ බර අඩුකිරීමට යයි
+### School students' book bag to lose weight
 
 *2024-02-29 18:31:09* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ගේ-පොත්-බෑගයේ-බර-අඩුකිරීමට-යයි/11-408360) · `si`
 
-පාසැල් පොත් බෑගයේ බර අඩු කිරීම සම්බන්ධයෙන්අධ්‍යාපන අමාත්‍යාංශයේ ලෙකම් වසන්තා පෙරේරා මහතා පෙරේරා මහත්මිය විසින් උපදෙස් නිකුත් කර තිබේ.
+The Ministry of Education Leam Wasantha Perera has issued instructions on the Ministry of School Books.
 
-පාසැල් පොත් බෑගයේ බර වැඩිවීම නිසා පාසල් සිසුන්ගේ කොඳු ඇට පෙළේ ආබාධ වැනි විවිධ ශාරීරික අපහසුතා ඇතිවිය හැකි බව සෞඛ්‍ය අංශ විසින් පෙන්වා දී තිබේ.
+The health sector has pointed out that due to the increase in the school book bag, the health sector pointed out various physical disabilities.
 
-ඒ අනුව සිසුන්ගේ පොත් බෑගයේ බර අඩු කිරීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශයේ අවධානය යොමු වී ඇති අතර එහි එක් පියවරක් වශයෙන් තෝරාගත් පෙළ පොත් කාණ්ඩ වශයෙන් මුද්‍රණය කිරීමට මේ වන විට අවශ්‍ය පියවර ගෙන තිබේ.
+The Ministry of Education has taken attention to the weight loss of the students' book bag and has already taken steps to print in selected text books as a step.
 
-තවද සිසුන්ගේ පොත් බෑගයේ බර අඩු කිරීම සඳහා විකල්පයක් ලෙස සිසුන් සඳහා සකස් කර ඇති වැඩ පොත් හැරුණු විට අනෙකුත් පෙළ පොත් පාසලට ගෙන ඒම අවම කිරීමට විදුහල්පතිගේ සෘජු අධීක්ෂණය යටතේ ගතයුතු පියවර දන්වමින් අධ්‍යාපන ලේකම් වසන්තා පෙරේරා මහත්මිය උපදෙස් මාලාව නිකුත් කර තිබේ.
+Alternative to the Principal, the Principal Wasantha Perera has issued the instructions to be taken under the direct supervision of the Principal to minimize the work books to the students to reduce the work books to the students.
 
 ◼️
 
 [Data](articles/bc048e3b.json)
+
+[Extended Data](ext_articles/bc048e3b.ext.json)
 
 ---
 
@@ -669,6 +689,22 @@ The petition further sought a court order stating that former President Sirisena
 [Data](articles/5e674aca.json)
 
 [Extended Data](ext_articles/5e674aca.ext.json)
+
+---
+
+### கொலை வழக்காக பதிவு
+
+*2024-02-29 16:06:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொலை-வழக்காக-பதிவு/175-334004) · `ta`
+
+பல்வேறு கோரிக்கைகளை வலியுறுத்தி விவசாயிகள் புது டெல்லியை நோக்கி பேரணி நடத்த முடிவு செய்தனர். இதற்காக பஞ்சாப் மற்றும் அரியானா மாநிலத்தில் இருந்து புறப்பட்டனர். ஆனால் அரியானா, பஞ்சாப் மாநில எல்லைகள் மூடப்பட்டு, விவசாயிகள் புது டெல்லி நோக்கி செல்லாத வகையில் தடுப்புகள் அமைக்கப்பட்டன.
+
+கடந்த 21- ஆம் திகதி பஞ்சாப் - அரியானா எல்லை கனாரி பகுதியில் தடுப்புகளை தாண்டி விவசாயிகள் புது டெல்லி நோக்கி புறப்பட முயன்றனர். அப்போது பஞ்சாப் எல்லைக்குள் புகுந்து அரியானா பொலிஸார் விவசாயிகள் மீது தாக்குதல் நடத்தினர். அப்போது துப்பாக்கிச்சூடு நடத்தியதாக தெரிகிறது. இதில் சுப்கரண் சிங் என்ற 21 வயது இளம் விவசாயி பரிதாபமாக உயிரிழந்தார். அதேவேளையில் 12 பாதுகாப்பு பொலிஸாரும் காயம் அடைந்தனர்.
+
+சுப்கரண் மரணத்திற்கு நீதி கிடைக்க வேண்டும் என விவசாயிகள் போராட்டத்தில் ஈடுபட்டனர். மேலும் சுப்கரண் சிங் மரணத்தை கொலை வழக்காக பதிவு செய்ய வேண்டும். அதுவரை அவரது உடலை அடக்கம் செய்யமாட்டோம் என அறிவித்தனர்.
+
+...
+
+[Data](articles/83e7e0b0.json)
 
 ---
 
@@ -2031,41 +2067,5 @@ The petition was presented by MP Sumanthiran demanding a decision that the Supre
 [Data](articles/c4333bac.json)
 
 [Extended Data](ext_articles/c4333bac.ext.json)
-
----
-
-### Two buses arrived in Dehiwala and killed a three-wheeler driver
-
-*2024-02-29 11:42:34* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවලදී-බස්-දෙකක්-රේස්-ඇවිත්-ත්‍රීරෝද-රථ-රියදුරෙකු-බිලීගනී/11-408345) · `si`
-
-Dehiwala Police said that two buses were killed in a three-wheeler near the Youth Buddhist Association of Dehiwala flight.. The deceased has been identified as the Mount Lavinia Tech Lawage, a three-wheeler driver, Anton Krishantha (56), a three-wheeler driver.
-
-The accident occurred at around 7.35 am on the 29th.. The two buses have been operating in Mount Lavinia by the main streets of Mount Lavinia by the main streets of the Dehiwala Junction.Among the occasion, the driver was seriously injured in the three-wheeler in the three-wheeler and injured the three-wheeler buses.
-
-The police said that the three-wheeler driver had come with his wife and had a few meters before the bus stop, police said.
-
-◼️
-
-[Data](articles/82e3e250.json)
-
-[Extended Data](ext_articles/82e3e250.ext.json)
-
----
-
-### The big chairs of 50 popular national schools
-
-*2024-02-29 11:39:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනප්‍රිය-ජාතික-පාසල්-50-ක-ලොකු-පුටු-පිරවේ/11-408344) · `si`
-
-Applications have been recruited to the Ministry of Education for the vacancies for the vacancies for 50 June 30 of the island.
-
-Applications have been called on Fifty 9 National Schools, Kingswood, Bandaranaike, Gampaha, Kingswood, Gampaha Bandaranaike, Colombo.
-
-Only the first grade officials in the Education Administrative Service can apply for this.
-
-◼️
-
-[Data](articles/deac254e.json)
-
-[Extended Data](ext_articles/deac254e.ext.json)
 
 ---

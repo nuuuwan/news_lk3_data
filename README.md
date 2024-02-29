@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 17:34:23**
+As of **2024-02-29 17:53:13**
 
 ## Newspaper Stats
 
-*Scraped **10,038** Articles*
+*Scraped **10,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ newsfirstlk | 363
 economynextcom | 514
 dailyftlk | 528
 islandlk | 531
-adalk | 851
+adalk | 857
 adaderanalk | 1,216
 tamilmirrorlk | 1,224
-virakesarilk | 1,378
+virakesarilk | 1,381
 dailymirrorlk | 1,516
-adaderanasinhalalk | 1,528
+adaderanasinhalalk | 1,530
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,037 (100.0%) of 10,038 articles have been extended.
+10,049 (100.0%) of 10,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Ella is recorded on the camera
+
+*2024-02-29 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193966) · `si`
+
+Ella circuit police were arrested by the Ella circuit police and was produced before the Bandarawela Magistrate's Court on March 4.
+
+The suspect was filmed by a foreign woman to attack the railway line at the railway track to watch the falls on the railway line last evening.
+
+The tourists had told police that the suspect tried to guide them and tried to attack them.
+
+◼️
+
+[Data](articles/fa9f24f1.json)
+
+[Extended Data](ext_articles/fa9f24f1.ext.json)
+
+---
+
+### Apple leaves a lot of work to do
+
+*2024-02-29 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193965) · `si`
+
+It is reported that when demand for eco-friendly electrical vehicles, the American Apple Technology Company has abandoned their electrical vehicles.
+
+Apple, who produces the iphone, has launched an electric car to manufacture of electric car about ten years ago.
+
+However, Apple's stock prices have risen compared to the prices of Apple's share prices with the dawn of the electric vehicle project.
+
+Blomberg business website reports some of the employees who have engaged in the electrical vehicle project project.
+
+It is also the policy of the management that Apple will also be a positive focus on the rapid growth of technology companies.
+
+The Alphabot, Google, belongs to the AI technology to its product line, and Apple has not yet taken such a huge step.
+
+Although eco-friendly, the increase in prices of electrical cars can lead to the demand for greater prices.
+
+The Tesla, the world's leading electrical vehicles, has also been tempted to cut investments and cut jobs.
+
+...
+
+[Data](articles/b5c3a2e7.json)
+
+[Extended Data](ext_articles/b5c3a2e7.ext.json)
+
+---
+
+### Western threats are at risk of nuclear weapons - Putin
+
+*2024-02-29 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177611) · `ta`
+
+Russian President Vladimir Putin has said that the threats of the West are at risk of nuclear war.
+
+Putin said this during an annual speech on Thursday for his people.
+
+He warned that Russian forces are progressing in Ukraine and warned that any country that sends troops to Ukraine will face tragic consequences.
+
+'They have announced the possibility of sending the Western Army to Ukraine. The consequences of these issues can be very tragic.
+
+We have to realize that we have weapons that can attack their territories, and they must realize that the threats of the West are at risk of nuclear war. ”
+
+French President Emanuel Macron recently denied the possibility of sending troops to Ukraine.
+
+After the Russian invasion of Ukraine began, Western leaders have criticized President Vladimir Putin for talking about the nuclear war.. Putin has been mutilated in nuclear warnings in the past few months.
+
+...
+
+[Data](articles/ec8d6ade.json)
+
+[Extended Data](ext_articles/ec8d6ade.ext.json)
+
+---
 
 ### 10 -year -old girl murdered: Investigate Ivar
 
@@ -73,6 +145,34 @@ In 2020, the popular actor was announced as a candidate for the 2020 parliamenta
 ...
 
 [Data](articles/55f47663.json)
+
+[Extended Data](ext_articles/55f47663.ext.json)
+
+---
+
+### Israeli-US intelligence agencies planning to enter the Lebanon
+
+*2024-02-29 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177608) · `ta`
+
+US officials are concerned among US officials about reports that Israel is planning to enter the ground in Lebanon in the late Spring or early summer if the diplomatic efforts to remove the Hezbollah organization from Israel are not successful.
+
+Senior officials of the United States have provided information that intelligence agencies can enter the Lebanon of Israel.
+
+One who received information from the intelligence unit said that Israel would begin its action at the beginning of summer.
+
+"We are acting on the basis that Israel can engage in military action in the coming months," an official of the Faidan administration said.
+
+He also said that there are all the opportunities for Israel to target Leban and carry out the ground attack.
+
+Thousands of Leban and Israeli have left their areas due to the day -to -day terrible clashes between Israel and Lebanon for several months.
+
+Israeli aircraft is carrying out unmanned attacks on the Hesbullah organization's targets.
+
+◼️
+
+[Data](articles/7a3dc7a8.json)
+
+[Extended Data](ext_articles/7a3dc7a8.ext.json)
 
 ---
 
@@ -302,6 +402,28 @@ They are to be taken to the Kitulgala Police Station today and continue legal ac
 
 ---
 
+### Gaza kills crosses 30,000: deaths and deaths
+
+*2024-02-29 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177601) · `ta`
+
+The death toll in Gaza has crossed over 30,000 since the war began between Israel and the Hamas movement.
+
+Israeli forces are launching fierce attacks on the Gaza region of Palestine on October 7 in Israel.
+
+In the meantime, the death toll in Gaza has reached 30,000, after the launch of the attacks, the Ministry of Health in Gaza said today.
+
+So far, 30,035 people have died and 70457 have been injured.
+
+Meanwhile, 6 children have died due to Mandaposhaku, Diabetes and starvation at the hospital in Al Shiba, Gaza.. Gaza Health Ministry spokesman Ashraf al -Qudra has demanded immediate action to prevent deaths.
+
+◼️
+
+[Data](articles/0182a7e4.json)
+
+[Extended Data](ext_articles/0182a7e4.ext.json)
+
+---
+
 ### Sri Lanka signs security pact with US to prevent illicit maritime trafficking in nuclear and radioactive material
 
 *2024-02-29 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97626/sri-lanka-signs-security-pact-with-us-to-prevent-illicit-maritime-trafficking-in-nuclear-and-radioactive-material) · `en`
@@ -357,6 +479,22 @@ In his petition, Sumanthiran has requested the Speaker's Certificate of Certific
 [Data](articles/db6100df.json)
 
 [Extended Data](ext_articles/db6100df.ext.json)
+
+---
+
+### Chassi number number Macondama meets a motorbike that destroyed the burnt
+
+*2024-02-29 15:30:25* · [`adalk`](https://www.ada.lk/breaking_news/චැසි-අංක-මකාදාමා-ගිනිතබා-විනාශ-කල-යතුරුපැදියක්-හමුවෙයි/11-408357) · `si`
+
+Police inquiry officials said that the Uragasmanhandiya, Karijasamulla, Karijasamulla, Karijasamulla, Karijasamulla, Karijasamulla, Karigejasulla, Karijasalla, Karijasalla, Karijasamulla, Karijasalla, Karijasalla, Karijasali and Della said.
+
+Recently, Darandeniya Administrative Public Health Inspector Roshan Kumara Withanachchi had reached the murder of Vedithawa.The police suspect that the motorcycle has been a motorbike to kill the murder of the cinnugahahack in Kurundugahahack, or a crime.
+
+◼️
+
+[Data](articles/28dc726e.json)
+
+[Extended Data](ext_articles/28dc726e.ext.json)
 
 ---
 
@@ -644,6 +782,34 @@ Uragasmanhandiya Police have lodged a complaint with the police that a motorcycl
 
 ---
 
+### The counts of the demons scared of paddy farmers
+
+*2024-02-29 14:21:26* · [`adalk`](https://www.ada.lk/breaking_news/වී-ගොවීන්-බය-කරන-භූතයාගේ-ගණන්/11-408355) · `si`
+
+With the commencement of paddy harvesting, tseling the paddy, tsuns, and green migrants, says that the farmers have been severely obstructed due to the increase in their harvest.
+
+Accordingly, the Colombo District has received Rs.
+
+The leaves of the season charged a thousand rupees to harvest the paddy of the season and that it was increased with a thousand rupees.
+
+Paddy has been commenced in the Matale district, Dambulla, Galewela, Naula, Wilgamuwa and Agrarian Services.
+
+It also pointed out that the labor rent is charged to Rs.
+
+If the harvest is not harvested on the time of the time, many farmers use the treasure to the rains, even more and the farmers are working hard to harvest the harvest and at night.
+
+Farmers say that the program of paddy purchasing in the Matale District is not implemented and the purchase of the paddy purchasing is Rs. 110 and a kilogram of Rs.
+
+Farmers' delegation point out that the first-day of the Farmer-Day in the first time.
+
+...
+
+[Data](articles/b3fc7bef.json)
+
+[Extended Data](ext_articles/b3fc7bef.ext.json)
+
+---
+
 ### The use of damage fertilizer must be connected
 
 *2024-02-29 14:19:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேதன-உரப்-பயன்பாடு-இணைக்கப்பட-வேண்டும்/175-333992) · `ta`
@@ -681,6 +847,32 @@ The verdict has been issued after investigating the complaint filed against the 
 [Data](articles/f82a7f4a.json)
 
 [Extended Data](ext_articles/f82a7f4a.ext.json)
+
+---
+
+### 'Sad' and work to take part in police station
+
+*2024-02-29 14:13:10* · [`adalk`](https://www.ada.lk/breaking_news/’සූර්’-වෙලා-පොලීසියට-පාට්-‌දැමූ-හමුදා-සෙබළියන්ට-වැඩ-වරදියි/11-408354) · `si`
+
+Harana Headquarters Site
+
+The army has been arrested by the Army, Horana, a 38-year-old soldier and a large number of residents of the Panagoda Marawila, Chimunagoda.
+
+The police said that both of them were serving in the Army Sports Division.
+
+Two police officers in the Horana Headquarters Police had been identified as Rajandree at the Moneragala route.
+
+The decline of the two police officers after the suspected suspect, predicted 300 meters from the police custody and stopped the motorcycle.
+
+The suspects had been threatened to flee and complain to the highest officials that they had been complained to the top officials and complained to the top officials.Is not allowed to do, "Police say there are cases of opposition to the police.
+
+A police officer said that the two suspects were taken to the police station in the traffic cab and taken to the police station.
+
+...
+
+[Data](articles/bd1aa81d.json)
+
+[Extended Data](ext_articles/bd1aa81d.ext.json)
 
 ---
 
@@ -724,6 +916,24 @@ The woman then stole two gold jewelery and expensive smart phones worth more tha
 
 ---
 
+### Chinese-American economic cooperation will bring benefits to both Buddhism
+
+*2024-02-29 14:07:45* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ඇමරිකානු-ආර්ථික-සහයෝගිතා-දෙරටටම-ප්‍රතිලාභ-රැගෙන-එන-බව-චීන-අගමැති-කියයි/11-408353) · `si`
+
+Chinese Prime Minister Lee Chang said the strengthening Chinese and American economic and trade cooperation will bring benefits to both countries. The Prime Minister made this observation Susan P. Susan P.. The delegation led by Mrs. Clark was found in the capital yesterday.
+
+The 45th Anniversary of the Chinese-American Diplomatic Relations. Leader, Lee Chang, said China is ready to promote a standing bilateral relationship with the United States to implement the agreement approached by the two countries. He said the American companies welcome to invest in China. The Prime Minister wrote that the US Chamber of Commerce and entrepreneurs would continue to act in order to develop communication and mutual understanding between the two countries.
+
+Susan P. Ms. Clarke said that the Chinese-American relationship that is very important is none. She also spoke that the US Chamber of Commerce is committed to expanding economic and trade cooperation.
+
+◼️
+
+[Data](articles/f9886ccc.json)
+
+[Extended Data](ext_articles/f9886ccc.ext.json)
+
+---
+
 ### Sri Lanka honoured with UN award for mangrove ecosystem restoration
 
 *2024-02-29 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97622/sri-lanka-honoured-with-un-award-for-mangrove-ecosystem-restoration) · `en`
@@ -741,6 +951,48 @@ Dr. Anil Jasinghe, Secretary to the Ministry of Environment, graciously accepted
 [Data](articles/a725aa3c.json)
 
 [Extended Data](ext_articles/a725aa3c.ext.json)
+
+---
+
+### Ronnie Ronnie to Ruhuna
+
+*2024-02-29 13:53:14* · [`adalk`](https://www.ada.lk/breaking_news/රුහුණ-හැදූ-රොනී-රුහුණෙන්ම-අවසන්-ගමන්-යයි/11-408351) · `si`
+
+The remains of the late Ronnan De Mel on February 27 have been placed from the house on the 29th at the Sale of Colombo 03.
+
+President RrN Wickremodel and he was resigned to the body yesterday (28) after the remaining house yesterday (28).
+
+The funeral will be held at the University of Ruhunu University on March 1.
+
+Ronnie de Mel, in 1967, has been proposed to the Parliament for the first time that the University of Ruhuna should be opened in 1967. JR. He took the post of Minister of Finance under the President of Jayewardene.. By 1977, the University of Ruhunu was launched. More than 50,000 students have been conducted from the University of Ruhunu University.
+
+◼️
+
+[Data](articles/e0d08d81.json)
+
+[Extended Data](ext_articles/e0d08d81.ext.json)
+
+---
+
+### Monk looking for 15 lakhs of cheating in Korea
+
+*2024-02-29 13:52:05* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-රැකියා-දෙන-බව-පවසා-ලක්ෂ-15ක්-වංචා-කළ-චීවරධාරියෙක්-සොයයි/11-408350) · `si`
+
+The Headquarters Police states that an investigation has been launched to arrest a funding of Rs.
+
+According to police, a resident of Thammannawa, Huriyagaswewa has been obtained on three occasions.The monk was a resident of Makulgaswewa before the monk was taken, the police said.
+
+The suspect is a resident of Rajagiriya, Rajagiriya, a resident of Nelum Place.
+
+The complaint states that the amount of Rs.
+
+A team of Thambuttegama police officers are conducting further investigations to arrest the suspect monk.
+
+◼️
+
+[Data](articles/5fc22483.json)
+
+[Extended Data](ext_articles/5fc22483.ext.json)
 
 ---
 
@@ -1827,241 +2079,5 @@ The Colombo Botaight Division has commenced further investigations.
 [Data](articles/fb6f0266.json)
 
 [Extended Data](ext_articles/fb6f0266.ext.json)
-
----
-
-### Grama Niladhari visits interviews
-
-*2024-02-29 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193938) · `si`
-
-State Affairs State Minister Ashoka Priyantha says that the recruitment of new Grama Niladharis will be opened from the 13th of March.
-
-The State Minister pointed out that the interviews will be held at 13,14 and 15 in three.
-
-The 4,232 interview has passed the Grama Niladhari examination in December.
-
-Minister of State Ashoka Priyantha said that he would fill the expensive vacancies after interviews.
-
-◼️
-
-[Data](articles/386a682d.json)
-
-[Extended Data](ext_articles/386a682d.ext.json)
-
----
-
-### Another discussion between Health Trade Unions and Minister
-
-*2024-02-29 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193937) · `si`
-
-The trade unions states that the negotiations between health unions and health authorities were positively ended in the discussions between the health unions and health authorities on providing Dat allowance.
-
-The convener convener convener of the UPFA, Chanaka Dharmawickrema, said.
-
-The committee has discussed the technical report prepared by the committee.
-
-However, the Health Minister was not one of the discussions and the Health Trade Union Alliance Charaniya UPFA said.
-
-Meanwhile, the second agitation on the Guru Principal's trade struggle is scheduled to be held today (29) in Tangalle today (29).
-
-◼️
-
-[Data](articles/8a9d9f59.json)
-
-[Extended Data](ext_articles/8a9d9f59.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-02-29 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97608/showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says a few showers will occur in Eastern and Uva provinces and in Polonnaruwa and Matale districts.
-
-Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle, Matara and Nuwara-Eliya districts in the evening or night.
-
-Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, North-western, Uva and Eastern provinces and in Hambantota district.
-
-The public is kindly requested to take adequate precautions to minimize the damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ed201828.json)
-
-[Extended Data](ext_articles/ed201828.ext.json)
-
----
-
-### HIV infected persons up by 14 percent
-
-*2024-02-29 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193936) · `si`
-
-The National Institute of STDs and AIDS Control Program says that the recording of the new infected persons have risen by 14 percent.
-
-The Director of Community Medical Specialist Director Janaco Vidanathirana stated that in 2023 compared to 2022, he said.
-
-Last year, 694 new HIV infected persons have been identified, and most of them are men.
-
-Accordingly, 611 men have been identified as new infectedists and 88% of the percentage of 88% as a percentage.
-
-In the same period, 81 women have been identified as new HIV infected and 11.7 percent as a percentage.
-
-Accordingly, 4,100 of the estimated HIV positive casters in the society are now about 4,100.
-
-Meanwhile, specialist Dr. Janaki Vidanakathirana says that if a person is infected with HIV, it takes about eight years to show its symptoms.
-
-Therefore, if the risk of HIV shows similar risky behavior, a HIV testing is an essential point and has commenced a number of programs.
-
-...
-
-[Data](articles/3df64ac3.json)
-
-[Extended Data](ext_articles/3df64ac3.ext.json)
-
----
-
-### President's statement from the President's commitment to protect the freedom
-
-*2024-02-29 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193935) · `si`
-
-President Ranil Wickremesinghe says Sri Lanka is committed to strategic stability aimed at defending the Indian Ocean's shipping freedom.
-
-The President is released due to the commitment of Sri Lanka's commitment to Sri Lanka's commitment.
-
-The president who remembered how the Six Day war was the closure of the Colombo Port for 10 years, the President has shown the need to relieve sailors without limits.
-
-President Ranil Wickremesinghe made this observation by committing the keynote address at the third stage of the Indian Ocean Security Forum organizing the 'Path Fever' Foundation in Colombo yesterday.
-
-The President pointed out that Sri Lanka as well as regional and globally, the President said, "The President has given join the '' Path Fineer 'Foundation.
-
-The Indian Ocean cannot be considered part of a "one round" program or Indus Pacific program, President Ranil Wickremesinghe says that the Indian Ocean has become a strategic geological zone of the world.
-
-...
-
-[Data](articles/0942e25f.json)
-
-[Extended Data](ext_articles/0942e25f.ext.json)
-
----
-
-### Findings on COVID vaccine side effects: Local authorities in the dark
-
-*2024-02-29 07:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Findings-on-COVID-vaccine-side-effects-Local-authorities-in-the-dark/155-277907) · `en`
-
-Colombo, Feb 28 (Daily Mirror) -  In the wake of disquieting findings on the health risks associated with certain COVID-19 vaccines, the Sri Lankan health authorities seem to be turning a blind eye as they go unresponsive to the queries.
-
-Despite Daily Mirror's efforts to prompt the authorities to articulate their position on the recent findings, responsible officials have failed to respond, leaving the masses in dilemma.
-
-Since the breakout of Covid-19, sceptics around the world expressed their doubts about the Covid infection to Covid Vaccine, putting forward so many “conspiracy” theories.
-
-However, looking back, many people now seem to see a coercing tactic in making people accept the vaccine, which was not approved by the Food and Drug Administration (FDA), the highest authority in the current medical industry- at the time of administering. Pfizer was approved in 2021 while Moderna was approved by the FDA in 2023.
-
-...
-
-[Data](articles/6f1e984a.json)
-
-[Extended Data](ext_articles/6f1e984a.ext.json)
-
----
-
-### Minor showers to several areas
-
-*2024-02-29 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193933) · `si`
-
-The Department of Meteorology announces that there will be showers in the Eastern and Uva provinces and in Polonnaruwa and Matale Districts.
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces and in the Galle, Matara and Nuwara Eliya districts.
-
-Northern, North-Central, North Western, Uva and Eastern Provinces. Strong winds can occur 30-40 times.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/fc2f98c0.json)
-
-[Extended Data](ext_articles/fc2f98c0.ext.json)
-
----
-
-### The Kiosk: The Delete University Students' Reswevent at Peradeniya University Students
-
-*2024-02-29 05:47:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72g27m2re4o) · `si`
-
-The Kiosk: The Delete University Students' Reswevent at Peradeniya University Students
-
-While in a part-time job, students who make money earned in a university as well as their education and other needs are found in Sri Lanka, but also in Sri Lanka.
-
-But the students are not more moments than now for such part-time jobs in the face of the economic crisis faced by the country. In the recent past, media reports were also present.
-
-Of course, we have seen a small business and acting in a small business or acting in a small business, and the Faculty of Agriculture of the Peradeniya University is listening.
-
-The 'The Kiosk' (Devi), the first anniversary of the 'The Kiosk' restaurant, started to manage their own premises in the Faculty of the Faculty, had taken the first anniversary of the 'The Kiosk' restaurant.
-
-...
-
-[Data](articles/cb1a6518.json)
-
-[Extended Data](ext_articles/cb1a6518.ext.json)
-
----
-
-### Government to empower women to drive economy
-
-*2024-02-29 05:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-empower-women-to-drive-economy/108-277928) · `en`
-
-President Wickremesinghe pledges more will be done to help segment improve contribution to national economy
-
-Says careful development of country’s economy can be achieved through women’s empowerment
-
-Highlights tourism and modernised agriculture as potential sectors to increase female participation
-
-Sri Lanka’s women entrepreneurs, who have for long been held back, will soon be able to take the front seat as President Ranil Wickremesinghe this week pledged more would be done to allow this segment to increase their contribution to the national economy.
-
-As Sri Lanka aims to recover faster and achieve higher growth trajectory, Wickremesinghe affirmed that the government would improve its focus on women entrepreneurs, so that they can overcome the challenges and hurdles faced in achieving higher aspirations.
-
-...
-
-[Data](articles/21de96c6.json)
-
-[Extended Data](ext_articles/21de96c6.ext.json)
-
----
-
-### Increase in the number of beneficiaries
-
-*2024-02-29 04:50:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-பயனாளிகளின்-எண்ணிக்கை-அதிகரிக்கும்/175-333966) · `ta`
-
-The data verification and certification task of the beneficiaries who applied for the second phase of the Aswesuma.Finance Minister Shehan Semasinghe said that all arrangements have been made to increase the number of family units of Ashemu beneficiaries to 24 lakhs from June.
-
-He said this while addressing a press conference held at the Presidential Media Center yesterday. As he further stated,
-
-In the first phase of Aswesuma, the information of 34 lakh family units was verified. Accordingly, 19 lakh families have been eligible to benefit. Based on appeals and objections so far, the Welfare Benefits Council is ready to pay for the eligible candidates from July 2024.
-
-We have received 12,27,000 appeals and objections. About 11,97,000 of them have been tested so far. In addition to this amount, Assembly aid is not really available to a group of qualified. As the first application did not provide applications, they said they did not get the benefits. (A)
-
-◼️
-
-[Data](articles/0731304a.json)
-
-[Extended Data](ext_articles/0731304a.ext.json)
-
----
-
-### Development through Reconciliation
-
-*2024-02-29 04:45:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லிணக்கத்தின்-ஊடாக-அபிவிருத்தி/175-333965) · `ta`
-
-All the countries of the world have achieved rapid development, excluding racism and religiousism. President Ranil Wickremesinghe said the government's aim was to achieve development through reconciliation.
-
-The President said this while addressing the National Conference of the Bandaranaike International Conference Hall in Colombo yesterday organized by the National Peace Council of Sri Lanka. When he further addresses,
-
-We are well aware of the connection between religion and harmony. We have the experience of racism and religion. As a result, we faced a terrible war. Our attention has been paid to coexistence after the end of the war.
-
-...
-
-[Data](articles/0966f279.json)
-
-[Extended Data](ext_articles/0966f279.ext.json)
 
 ---

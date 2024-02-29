@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 20:02:54**
+As of **2024-02-29 20:17:32**
 
 ## Newspaper Stats
 
-*Scraped **10,076** Articles*
+*Scraped **10,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 525
 dailyftlk | 528
 islandlk | 531
-adalk | 859
+adalk | 861
 adaderanalk | 1,219
 tamilmirrorlk | 1,225
 virakesarilk | 1,383
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,076 (100.0%) of 10,076 articles have been extended.
+10,076 (100.0%) of 10,078 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,22 @@ Newly appointed Inspector-General of Police Deshabandu Tennakoon visited the Gan
 [Data](articles/0ab686f0.json)
 
 [Extended Data](ext_articles/0ab686f0.ext.json)
+
+---
+
+### මියන්මාර ත්‍රස්ත ග්‍රහනයේ සිටින ලාංකිකයන් බේරා ගැනීමට මහෙයුමක්
+
+*2024-02-29 18:56:10* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාර-ත්‍රස්ත-ග්‍රහනයේ-සිටින-ලාංකිකයන්-බේරා-ගැනීමට-මහෙයුමක්/11-408362) · `si`
+
+මියන්මාරයේ මියාවඩි ප්‍රදේශයේ ත්‍රස්ත කල්ලියකගේ ග්‍රහණය යටතේ සිටින මෙරට තරුණයන් 56 දෙනා බේරා ගැනීම සඳහා ත්‍රෛනිකායික  මහානාහිමිවරුන්ගේ විශේෂ සංදේශයක් රැගෙන මියන්මාරය බලා යාමට බලාපොරොත්තු වන බව මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා බණ්ඩාර මහතා පවසයි.
+
+ඒ මහතා ඊයේ (29) මල්වතු අස්ගිරි මහනාහිමිවරුන් බැහැ දැකඒ හා සම්බන්ධ සන්දේශයසකස් කිරීම සම්බන්ධයෙන් මූලික සාකච්ඡා පැවැත්වීමෙන් අනතුරුව මාධ්‍ය හමුවේ පවසා සිටියේ අමරපුර සහ රාමඤ්ඤ නිකා මහානාහිමිවරුන්ද බැහැදක ඒ සම්බන්ධයෙන් සාකච්ඡා කළ බවයි .
+
+ශ්‍රී ලංකාව සහ මියන්මාරය බෞද්ධ රටවල් දෙකක් බැවින් ත්‍රෛනිකායික මහා නා හිමිවරුන්ගේ සංදේශය එරට මහනායක හිමියන්ට පිළිගන්වා ඒ හරහා එරට හමුදා පාලකයන් දැනුවත් කොට එම තරුණයන් බේරා ගැනීම සඳහා එරට රජයේ මැදිහත්වීමක් ලබා ගැනීමට බලාපොරොත්තු වන බවද පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා මහතා මාධ්‍ය හමුවේ පැවසීය .
+
+...
+
+[Data](articles/714cb458.json)
 
 ---
 
@@ -101,6 +117,24 @@ Also, if a police officer undergoing the process of duties in the scope of work,
 [Data](articles/3a86147b.json)
 
 [Extended Data](ext_articles/3a86147b.ext.json)
+
+---
+
+### පාසල් සිසුන්ගේ පොත් බෑගයේ බර අඩුකිරීමට යයි
+
+*2024-02-29 18:31:09* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ගේ-පොත්-බෑගයේ-බර-අඩුකිරීමට-යයි/11-408360) · `si`
+
+පාසැල් පොත් බෑගයේ බර අඩු කිරීම සම්බන්ධයෙන්අධ්‍යාපන අමාත්‍යාංශයේ ලෙකම් වසන්තා පෙරේරා මහතා පෙරේරා මහත්මිය විසින් උපදෙස් නිකුත් කර තිබේ.
+
+පාසැල් පොත් බෑගයේ බර වැඩිවීම නිසා පාසල් සිසුන්ගේ කොඳු ඇට පෙළේ ආබාධ වැනි විවිධ ශාරීරික අපහසුතා ඇතිවිය හැකි බව සෞඛ්‍ය අංශ විසින් පෙන්වා දී තිබේ.
+
+ඒ අනුව සිසුන්ගේ පොත් බෑගයේ බර අඩු කිරීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශයේ අවධානය යොමු වී ඇති අතර එහි එක් පියවරක් වශයෙන් තෝරාගත් පෙළ පොත් කාණ්ඩ වශයෙන් මුද්‍රණය කිරීමට මේ වන විට අවශ්‍ය පියවර ගෙන තිබේ.
+
+තවද සිසුන්ගේ පොත් බෑගයේ බර අඩු කිරීම සඳහා විකල්පයක් ලෙස සිසුන් සඳහා සකස් කර ඇති වැඩ පොත් හැරුණු විට අනෙකුත් පෙළ පොත් පාසලට ගෙන ඒම අවම කිරීමට විදුහල්පතිගේ සෘජු අධීක්ෂණය යටතේ ගතයුතු පියවර දන්වමින් අධ්‍යාපන ලේකම් වසන්තා පෙරේරා මහත්මිය උපදෙස් මාලාව නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/bc048e3b.json)
 
 ---
 
@@ -2033,37 +2067,5 @@ Only the first grade officials in the Education Administrative Service can apply
 [Data](articles/deac254e.json)
 
 [Extended Data](ext_articles/deac254e.ext.json)
-
----
-
-### Deshabandu Tennakoon assumes duties as IGP
-
-*2024-02-29 11:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Deshabandu-Tennakoon-assumes-duties-as-IGP/110-277959) · `en`
-
-Deshabandu Tennakoon assumed duties as the new Inspector General of Police (IGP) this morning at the police headquarters. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/2786c616.json)
-
-[Extended Data](ext_articles/2786c616.ext.json)
-
----
-
-### Simplified to Pakistan from China
-
-*2024-02-29 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193946) · `si`
-
-The Chinese authorities have agreed to give another year to settle $ 2 billion loan in Pakistan by China.
-
-Foreigners had to be appointed next month and extended according to foreign media reports.
-
-At present, Pakistan suffered a strong economic crisis and a few months ago, they had $ 3 billion loan from the International Monetary Fund.
-
-◼️
-
-[Data](articles/6fa9ee7b.json)
-
-[Extended Data](ext_articles/6fa9ee7b.ext.json)
 
 ---

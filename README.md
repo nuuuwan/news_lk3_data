@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 15:17:26**
+As of **2024-02-29 15:33:07**
 
 ## Newspaper Stats
 
-*Scraped **10,006** Articles*
+*Scraped **10,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,79 @@ adaderanalk | 1,208
 tamilmirrorlk | 1,212
 virakesarilk | 1,377
 dailymirrorlk | 1,512
-adaderanasinhalalk | 1,521
+adaderanasinhalalk | 1,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,004 (100.0%) of 10,006 articles have been extended.
+10,006 (100.0%) of 10,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### අත්අඩංගුවට ගැනීමට එරෙහිව කෙහෙළියගෙන් පෙත්සමක්
+### නව පොලිස්පති ජනපතිව හමුවෙයි
+
+*2024-02-29 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193956) · `si`
+
+නව පොලිස්පති දේශබන්දු ටී. එම්. ඩබ්ලිව්. ඩී. තෙන්නකෝන් මහතා අද (29) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවිය.
+
+මෙරට 36 වන පොලිස්පතිවරයා ලෙස වැඩ භාර ගැනීමෙන් අනතුරුව දේශබන්දු තෙන්නකෝන් මහතා මෙලෙස ජනාධිපතිවරයා හමුවී ඇත.
+
+නව පොලිස්පතිවරයා වෙත සිය සුබපැතුම් පළ කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඔහු සමඟ සුහද කථාබහක නිරතවූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+නව පොලිස්පතිවරයා විසින් සාම්ප්‍රදායානුකූලව ජනාධිපතිවරයා වෙත සමරු තිළිණ පිළිගැන්වීම ද මෙහිදී සිදු කෙරුණි.
+
+◼️
+
+[Data](articles/d8463315.json)
+
+---
+
+### Keheliya petition against arrest
 
 *2024-02-29 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193955) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් කිසිදු සාධාරණ හේතුවක් නොමැතිව තමන්ව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කිරීම තුළින් සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා කෙහෙළිය රඹුක්වැල්ල මහතා විසින් සිය නීතිඥවරු මාර්ගයෙන් ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් ගොනුකර තිබේ.
+Mr. Keheliya Rambukwella has filed a fundamental rights petition to the Supreme Court through his lawyers to prosecute their basic human rights without any reasonable reason by the CID and remanded.
 
-නීතිඥ සනත් විජේවර්ධන මහතාගේ මාර්ගයෙන් ගොනුකර තිබෙන එම පෙත්සමේ වගඋත්තරකරුවන් ලෙස පොලිස්පතිවරයා, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා ඇතුළු පිරිසක් නම් කර ඇත.
+The IGP and the Director of the Criminal Investigation Department (CID) have been named as respondents of the petition Sanath Wijewardene.
 
-මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කිරීම වෙනුවෙන් වගඋත්තරකරුවන්ගෙන් රුපියල් මිලියන 100ක වන්දියක් අයකර දෙන ලෙසත් පෙත්සම්කරු ඉල්ලා තිබේ.
+The petitioner has demanded the recovery of Rs. 100 million to the respondents to violate fundamental human rights.
 
 ◼️
 
 [Data](articles/34c6793d.json)
 
+[Extended Data](ext_articles/34c6793d.ext.json)
+
 ---
 
-### සැකසහිත ලෙස ගිනිතබා විනාශ කළ යතුරුපැදියක් හමුවෙයි
+### Motorcycle of burnt motorcycle found suspiciously
 
 *2024-02-29 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193954) · `si`
 
-සැකකටයුතු ලෙස ගිනිතබා විනාශ කර තිබූ යතුරුපැදියක් පොලීසිය විසින් සොයාගෙන තිබේ.
+Police have recovered a motorcycle that had been burnting suspiciously.
 
-ඒ, ඌරගස්මංහන්දිය පොලිස් වසමේ හොරවල, කරිජ්ජවේල්ල, කටවල්පහ වේල්ල අසල දීය.
+It was near the Uragasmanhandiya police division, hornings, Kambahwewa, mouthpiece.
 
-එම යතුරුපැදියේ අංක තහඩු ඉවත්කර චැසි අංක මකාදාමා ඇති බවත් විමර්ශන නිලධාරින් පැවසීය.
+Investigations Officer said that the removal of the number plates of the motorcycle and Mawartama has been found.
 
-ඌරගස්මංහන්දිය පොලීසිය සැක කරන්නේ අපරාධයක් සිදුකිරීම සඳහා භාවිත කළ යතුරුපැදියක් මෙලෙස ගිනිතබා විනාශ කරන්නට ඇති බවය.
+Uragasmanhandiya Police suspect that a motorcycle used to commit a crime.
 
-පොලීසිය තවදුරටත් පැවසුවේ මෙම යතුරුපැදිය පසුගිය 26 වනදා කුරුඳුගහහැතැක්ම ප්‍රදේශයේ සිදුවූ මනුෂ්‍ය ඝාතනයට යොදාගත් යතුරුපැදිය බවට ද සැක කරන බවය.
+Police further stated that the motorcycle suspects the motorcycle used by the cinnugahahack in Kurundugahahack on the 26th.
 
-කරන්දෙනිය පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂක රොෂාන් කුමාර විතානච්චි මහතාගේ නිවසට එදින උදෑසන ස්කූටර් වර්ගයේ යතුරුපැදියකින් පැමිණි දෙදෙනෙකු ඒ මහතාට වෙඩිතබා ඝාතනයක් සිදුකර තිබුණි.
+The house of Karandeniya Administrative Public Health Inspector Roshan Kumara Withanchchi had been shot dead by two night.
 
-ඊයේ (28) දිනයේ ඌරගස්මංහන්දිය හොරවල ප්‍රදෙශයේ සෝදිසි කිරිම් සිදුකිරීම නිසා යතුරුපැදිය ගිනි තබන්නට ඇති බවට පොලීසියට සැක මතුවී ඇත.
+The police have been suspected that the motorcycle was set on fire due to the examination of Uragasmanhandiya's preservation yesterday.
 
-යතුරුපැදියක් ගිනිගෙන ඇති බවට මෙතෙක් කිසිවෙකුත් පොලීසියට පැමිණිල්ලක් ඉදිරිපත් කර නොමැති බවද ඌරගස්මංහන්දිය පොලීසිය පවසයි.
+Uragasmanhandiya Police have lodged a complaint with the police that a motorcycle was on fire.
 
 ◼️
 
 [Data](articles/2b269b6e.json)
+
+[Extended Data](ext_articles/2b269b6e.ext.json)
 
 ---
 
@@ -2047,23 +2069,5 @@ The doctors said he had already died when he was taken to the Tellippalai hospit
 [Data](articles/aa305df6.json)
 
 [Extended Data](ext_articles/aa305df6.ext.json)
-
----
-
-### Woman arrested after attempting to smuggle heroin into Kalutara Prison
-
-*2024-02-28 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97607/woman-arrested-after-attempting-to-smuggle-heroin-into-kalutara-prison) · `en`
-
-A 34-year-old female was arrested by the Kalutara (North) Police on Wednesday (28 Feb.), after attempting to smuggle heroin into the Kalutara Prison.
-
-Police reported that the female suspect, identified as a resident of Mulatiyana, Payagala, had attempted to smuggle 550mg of heroin into the Kalutara Prison, where her husband is currently imprisoned.
-
-The drugs were reportedly hidden in the bones of a parcel of chicken she had brought for her husband, under the guise of providing him meals, police stated, adding that she had arrived to the Prison with the couple’s 06-year-old daughter.
-
-◼️
-
-[Data](articles/22ab6aea.json)
-
-[Extended Data](ext_articles/22ab6aea.ext.json)
 
 ---

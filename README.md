@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 22:49:54**
+As of **2024-02-29 23:02:13**
 
 ## Newspaper Stats
 
-*Scraped **10,104** Articles*
+*Scraped **10,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,66 +19,90 @@ adalk | 864
 adaderanalk | 1,220
 tamilmirrorlk | 1,228
 virakesarilk | 1,388
-dailymirrorlk | 1,527
+dailymirrorlk | 1,528
 adaderanasinhalalk | 1,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,100 (100.0%) of 10,104 articles have been extended.
+10,104 (100.0%) of 10,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### බාල ඖෂධ සිද්ධියේ රට පැන්න ජයනාත් බුත්පිටියට රතු නිවේදනයක්
+### Sri Lanka's red alert to Jayanath Butut in Sri Lanka
 
 *2024-02-29 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193978) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් සිද්ධිය සම්බන්ධ නඩුවේදී තවත් සැකකරුවෙකු අත්අඩංගුවට ගැනීම සඳහා මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය අද (29) වරෙන්තු නිකුත් කර තිබේ.
+Maligakanda Magistrate's Court today (29) has issued a warrant to arrest another suspect in the case of substandard antibody incident.
 
-ඒ, ප්‍රශ්නගත ප්‍රසම්පාදන ක්‍රියාවලියේ ඇගයීම් කමිටුවේ සාමාජිකයකු ලෙස ක්‍රියාකළ වෛද්‍ය ජයනාත් බුත්පිටිය නමැත්තා විමර්ශන මගහැර විදෙස්ගතවී ඇති බවට රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල්වරිය අද (29) අධිකරණයේදී කරුණු දැක්වීම හමුවේය.
+The Deputy Solicitor General of the government is in the case of Dr. Jayakath Buthpitiya, who was a member of the Evaluation Committee of the Procurement Program.
 
-රතු නිවේදනයක් මගින් ජාත්‍යන්තර පොලීසි හරහා ඔහු යළි මෙරටට ගෙන්වා ගැනීමට අවශ්‍ය නියෝගයක් නිකුත් කරන ලෙස ඇය එහිදී මහෙස්ත්‍රාත්වරියගෙන් ඉල්ලා සිටියා ය.
+She asked the magistrate to issue an order to repatriate him back through the international police to bring him back to Sri Lanka through a red announcement.
 
-ඒ අනුව මාලිගාකන්ද මහෙස්ත්‍රාත්වරිය සැකකරු අත්අඩංගුවට ගැනීමට වරෙන්තු නිකුත් කළාය.
+Accordingly, Maligakanda Magistrate issued warrants to arrest the suspect.
 
-පැමිණිල්ල සහ විත්තිය වෙනුවෙන් ඉදිරිපත් වූ සියලු කරුණූ සලකාබැලූ මහෙස්ත්‍රාත්වරිය පැමිණිල්ලට නියෝග කළේ ඉදිරි දින 14ක කාලය තුළ මෙම නඩුවේ මූලික විමර්ශන අවසන් කර අත්අඩංගුවට ගත යුතු අනෙකුත් සැකකරුවන් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙසය.
+The Magistrate also ordered the complaint that the case should be arrested and arrested for the arrests of the preliminary investigations in the case within the next 14 days.
 
-...
+Former Health Minister Keheliya Rambukwella and the seven suspects were remanded until March 14 at the end of the suspects at the end of the 14 days.
+
+◼️
 
 [Data](articles/b30090ba.json)
 
+[Extended Data](ext_articles/b30090ba.ext.json)
+
 ---
 
-### සුපිරි පාපන්දු ක්‍රීඩකයාට වසර 4ක තහනමක්
+### 4 years ban on super football player
 
 *2024-02-29 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193977) · `si`
 
-සුපිරි පාපන්දු ක්‍රීඩක පෝල් පොග්බා ට එරෙහිව වසර 4ක පාපන්දු තහනමක් පනවා තිබේ.
+The 4-year football ban on the super football player Paul Pagba.
 
 ◼️
 
 [Data](articles/95725725.json)
 
+[Extended Data](ext_articles/95725725.ext.json)
+
 ---
 
-### පාසල් බෑගයේ බර අඩු කරයි
+### Reduces weight of school bag
 
 *2024-02-29 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193976) · `si`
 
-සිසුන් සඳහා සකස් කර ඇති "වැඩ පොත්" හැරුණු විට අනෙකුත් පෙළ පොත් පාසලට ගෙන ඒම අවම කිරීම‌ට අධ්‍යාපන අමාත්‍යාංශය පියවර ගෙන තිබේ.
+The Ministry of Education has taken steps to reduce the new Booking Schools except for students 'workbooks.'
 
-ඒ අනුව විදුහල්පතිගේ සෘජු අධීක්ෂණය යටතේ ගතයුතු පියවර දන්වමින් අධ්‍යාපන ලේකම් වසන්තා පෙරේරා මහත්මිය උපදෙස් මාලාවක් නිකුත් කර ඇත.
+Accordingly, the Education Secretary Wasantha Perera has issued a series of instructions to inform the Principal's direct supervision.
 
-පාසල් පොත් බෑගයේ බර වැඩිවීම හේතුවෙන් පාසල් සිසුන්ගේ කොඳුඇට පෙළේ ආබාධ වැනි විවිධ ශාරීරික අපහසුතා ඇති විය හැකි බව සෞඛ්‍ය අංශ විසින පෙන්වා දී තිබේ.
+The health sector has shown that due to the weight of the school book bag, the health sectors may cause various physical difficulties.
 
-එබැවින් සිසුන්ගේ පොත් බෑගයේ බර අඩුකිරීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යංශයේ අවධානය යොමුවී ඇති අතර එහි එක් පියවරක් වශයෙන් තෝරාගත් පෙළ පොත් කාණ්ඩ වශයෙන් මුද්‍රණය කිරීමට මේ වනවිට අවශ්‍ය පියවර ගෙන ඇත.
+Therefore, the Ministry of Education has taken the attention to the weight loss of the students' book bag and has already taken steps to print in selected text books as a step.
 
 ◼️
 
 [Data](articles/c22e44da.json)
+
+[Extended Data](ext_articles/c22e44da.ext.json)
+
+---
+
+### Deshabandu defends his actions during ’Aragalaya’
+
+*2024-02-29 22:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deshabandu-defends-his-actions-during-Aragalaya/108-277978) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - While defending his actions during the 'Aragalaya' period, newly appointed IGP Deshabandu Tennakoon today emphasized that if not for their actions, the current situation could have been significantly different.
+
+He also asserted that during the Aragalaya, he faced criticism and accusations, but maintained that he diligently carried out his responsibilities for the Sri Lanka Police.
+
+"During the 'Aragalaya' period, anyone could point a finger and accuse me, criticizing my conduct. However, I executed my duties to the best of my ability during that time for the Sri Lanka Police. The situation could have been vastly different today if we hadn't acted in the manner we did. As the Senior DIG in charge of the Western Province at that time, I merely fulfilled my duties to protect the country's democracy and national security," he said.
+
+...
+
+[Data](articles/671bdfd9.json)
 
 ---
 
@@ -404,19 +428,23 @@ The President added that the proceedings of the public servants will continue to
 
 ---
 
-### මම තරම් නින්දා අපහාසවලට, පහර කෑම්වලට ලක්වෙච්ච පොලිස් නිලධාරියෙක් නැතිව ඇති
+### I have lost a police officer from asleep as humiliating, attack
 
 *2024-02-29 19:31:46* · [`adalk`](https://www.ada.lk/breaking_news/මම-තරම්-නින්දා-අපහාසවලට--පහර-කෑම්වලට-ලක්වෙච්ච-පොලිස්-නිලධාරියෙක්-නැතිව-ඇති/11-408366) · `si`
 
-පොලීසියෙහි  දැවන්ත පරිවර්තනයක් සිදුකර ලංකාවෙන් සංවිධානාත්මක අපරාධ හා මත්ද්‍රව්‍ය තුරන් කිරීම තම අධිෂ්ඨානය බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සඳහන් කරයි.සර්වාගමික වතාවත් මධ්‍යයේ පොලිස්පති ධුරය බාරගැනීමෙන් පසුව අද (29දා)පොලිස් මූලස්ථානයේදී ඔහු එසේ පැවසීය.ඉන් පසු මාධ්‍ය හමුවේ පොලිස්පතිවරයා මෙසේද පැවසීය.
+IGP Deshabandu Tennakoon said that he was determined to carry out an organized crime and drug abuse from the police.
 
-"විවිධ අයට ඇඟිල්ල දික්කරලා චෝදනා කරන්න පුළුවන්. විවෙච්නය කරන්න පුළුවන්. නමුත් මට පැවරිච්ච රාජකාරිය මම ශ්‍රී ලංකා පොලීසිය වෙනුවෙන් මගේ ශක්ති ප්‍රමාණයෙන්  ඉටු කර තිබෙනවා.
+"You can bow down to different people. Can open up. But the job I was assigned to me has played my energy for the Sri Lankan police.
 
-මම තරම් නින්දා අපහාසවලට, පහර කෑම්වලට ලක්වෙච්ච පොලිස් නිලධාරියෙකු පොලිස් සේවය තුළ ඉන්නවද කියලා ඉතිහාසය  පිරික්සලා  බලන්න. මට කරපු අභූත චෝදනා, නින්දා අපහාසවලින් තමයි මම ශක්තිමත්ව නැගී සිටියේ.
+Check History if a police officer in the police service is in the police service as much as I am as humiliating. I was standing strong in my absurd allegations, insults.
 
-...
+Therefore, working officials serve in the same amount of energy to face challenges in the future in the future.I am determined to eradicate organized crime and drugs from Sri Lanka. It is expected to make a police strict transformation and create the environment that needs to come to the top. During the 26-year-old police officer, the police were able to recover the experience of every rank. "
+
+◼️
 
 [Data](articles/83f2d501.json)
+
+[Extended Data](ext_articles/83f2d501.ext.json)
 
 ---
 
@@ -2025,19 +2053,5 @@ Mr. Santhan's mother is today the overall symbol of the plight of the mothers wh
 [Data](articles/89a20c11.json)
 
 [Extended Data](ext_articles/89a20c11.ext.json)
-
----
-
-### Keheliya takes to court
-
-*2024-02-29 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193953) · `si`
-
-Former Health Minister Keheliya Rambukwella has been taken to the Maligakanda Magistrate's Court shortly.
-
-◼️
-
-[Data](articles/bd377a59.json)
-
-[Extended Data](ext_articles/bd377a59.ext.json)
 
 ---

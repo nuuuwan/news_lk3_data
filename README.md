@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 13:33:28**
+As of **2024-02-29 13:51:46**
 
 ## Newspaper Stats
 
-*Scraped **9,988** Articles*
+*Scraped **9,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 847
 adaderanalk | 1,204
 tamilmirrorlk | 1,212
 virakesarilk | 1,376
-dailymirrorlk | 1,509
-adaderanasinhalalk | 1,516
+dailymirrorlk | 1,512
+adaderanasinhalalk | 1,517
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,986 (100.0%) of 9,988 articles have been extended.
+9,992 (100.0%) of 9,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Pending court cases should have been considered before IGP’s appointment: SJB
+
+*2024-02-29 13:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pending-court-cases-should-have-been-considered-before-IGPs-appointment-SJB/108-277962) · `en`
+
+Colombo, Feb. 29 (Daily Mirror)- The Samagi Jana Balawegaya (SJB) today alleged that court cases that are pending against Deshabandu Thennekoon should have been considered when appointing him as the IGP.
+
+"A person who is facing a number of court cases has been appointed as the IGP for the first time in Sri Lankan history. Court cases that are pending should have been considered when making the appointment," SJB General Secretary Ranjith Madduma Bandara said in a statement today.
+
+"The present IGP is charged as a suspect for the dissappearence of cash found at President's House during the Aragalaya. Human rights petitions have been filed against him for alledgedly harassing journalists," he added.
+
+Also, he said Tennekoon has been appointed by violating the Constitution.
+
+◼️
+
+[Data](articles/562f031b.json)
+
+[Extended Data](ext_articles/562f031b.ext.json)
+
+---
+
+### Special notice from the Department of Motor Traffic
+
+*2024-02-29 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193951) · `si`
+
+Commissioner General Nishantha Anuruddha Anuruddha Anuruddha Weerasinghe says that it is inevitable for obtaining services from the 04 Department of Motor Traffic in the island.
+
+He was speaking at a press conference held in Colombo today, he said that an automated telephone number and website had been introduced.
+
+Commissioner General of Motor Traffic Nishantha Anuruddha Weerasinghe said
+
+...
+
+[Data](articles/18531b1e.json)
+
+[Extended Data](ext_articles/18531b1e.ext.json)
+
+---
 
 ### South Korea has given doctors till tonight to end a strike, or face prosecution
 
@@ -47,6 +85,8 @@ Observers say many strikers are likely to defy the deadline, continuing the labo
 ...
 
 [Data](articles/ce8f8fb4.json)
+
+[Extended Data](ext_articles/ce8f8fb4.ext.json)
 
 ---
 
@@ -74,6 +114,24 @@ The medical officer's report has noted that the woman's death had been caused by
 
 ---
 
+### Sumanthiran’s petition challenging Speaker certifying Online Safety Bill dismissed by SC
+
+*2024-02-29 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sumanthirans-petition-challenging-Speaker-certifying-Online-Safety-Bill-dismissed-by-SC/108-277961) · `en`
+
+Colombo, Feb. 29 (Daily Mirror)- A  Fundamental Rights petition filed by Parliamentarian M.A. Sumanthiran challenging the Speaker's act of certifying the Online Safety Bill has been dismissed by the Supreme Court.
+
+The Supreme Court three-judge-bench comprising Justices Priyantha Jayawardena, Shiran Goonaratne and Achala Wengappuli refused to grant leave to proceed with the petition taking into account the preliminary objections raised by Attorney General Sanjay Rajaratnam.
+
+The Attorney General raised objections citing that the Supreme Court has no jurisdiction to intervene into the legislative matters following the Speaker's certification to a bill passed by Parliament.
+
+...
+
+[Data](articles/8c646e94.json)
+
+[Extended Data](ext_articles/8c646e94.ext.json)
+
+---
+
 ### Organic fertilizers to be included in Sri Lanka’s national fertilizer policy
 
 *2024-02-29 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97617/organic-fertilizers-to-be-included-in-sri-lankas-national-fertilizer-policy) · `en`
@@ -87,6 +145,28 @@ Conceptual policies for food security prepared by the sub-committee of the Natio
 ...
 
 [Data](articles/5d92e50c.json)
+
+[Extended Data](ext_articles/5d92e50c.ext.json)
+
+---
+
+### First phase of 1,500 kms road rehabilitation of starts today
+
+*2024-02-29 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-phase-of-1-500-kms-road-rehabilitation-of-starts-today/108-277960) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - A programme is scheduled to start today as a part of the first phase of the rehabilitation of 1,500 kilometres of roads from Point-Pedro to Dewundara, Transport Minister Bandula Gunawardana said.
+
+Addressing the media, he said the President has allocated sufficient funds from the budget for the rehabilitation of 1,500 kilometres of roads under three phases.
+
+Accordingly, the first phase of the construction of 500 kilometres of roads will commence today. The second phase of the 500 kilometres will commence on March 16 and the third phase of the next 500 kilometres will commence on April 2.
+
+"This programme will be implemented in every District Secretarys' Division in the country. The chairmen of all development committees have specified the roads to be reconstructed," he said.
+
+...
+
+[Data](articles/cb0ed4d6.json)
+
+[Extended Data](ext_articles/cb0ed4d6.ext.json)
 
 ---
 
@@ -1983,77 +2063,5 @@ Accordingly, according to the complaint, the suspect was arrested by the police.
 [Data](articles/205334ba.json)
 
 [Extended Data](ext_articles/205334ba.ext.json)
-
----
-
-### SLPP will decide on Presidential candidate after Basil’s arrival: Prasanna Ranatunga
-
-*2024-02-28 20:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-will-decide-on-Presidential-candidate-after-Basils-arrival-Prasanna-Ranatunga/108-277902) · `en`
-
-Colombo, Feb 28 (Daily Mirror) - Sri Lanka Podu Jana Peramuna ( SLPP) will decide on its presidential candidate when former Minister Basil Rajapaksa arrives in Sri Lanka shortly, Chief Government Whip c said today.
-
-Ranatunga told media that SLPP will decide on its presidential candidate when Basil Rajapaksa arrives in Sri Lanka shortly.
-
-"SLPP will have to rally around incumbent President Ranil Wickremesinghe as he has managed to bring some kind of stability to the nation. It was Ranil who was willing to take over the nation when others were running away when the country was plunged into an economic crisis in 2022, "he however said.
-
-The Minister denounced reports that there will be a snap general election soon.
-
-◼️
-
-[Data](articles/3e330a5f.json)
-
-[Extended Data](ext_articles/3e330a5f.ext.json)
-
----
-
-### Proposal to reduce electricity tariff by 14 %
-
-*2024-02-28 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177548) · `ta`
-
-The Ceylon Electricity Board (CEB) has proposed to reduce the electricity tariff by 14 per cent in a resolution sent to the Public Utilities Commission on the 22nd.
-
-The Electricity Board (CEB) has presented the proposal to reducing the proposal to reduce the electricity tariff by 3.34 per cent last January.
-
-However, the Minister of Power and Energy Kanjana Wijesekera recently told Parliament that the same amount of tariffs will be reduced in October last year.
-
-◼️
-
-[Data](articles/a3a94889.json)
-
-[Extended Data](ext_articles/a3a94889.ext.json)
-
----
-
-### Struggle near Pulichakulam railway station
-
-*2024-02-28 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177545) · `ta`
-
-There is a tense situation in the area after the residents of the area crossed the train near the Pulichakulam railway station.
-
-It is reported that a youth has died after colliding with a train traveling from Halawatha to Puttalam on Wednesday afternoon.
-
-Following the incident, the residents of the area staged a train from Puttalam to Halawatte, crossing the train near the Pulichakulam railway station.
-
-◼️
-
-[Data](articles/76ff9fe2.json)
-
-[Extended Data](ext_articles/76ff9fe2.ext.json)
-
----
-
-### Fire breaks out at water pump storage in Biyagama
-
-*2024-02-28 20:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-breaks-out-at-water-pump-storage-in-Biyagama/108-277908) · `en`
-
-A fire erupted at a storage facility where water pumps were stored at Bandarawatte in Biyagama this afternoon, Police said.
-
-A large number of water pumps have been destroyed in the fire which was doused with the assistance of four fire trucks.
-
-◼️
-
-[Data](articles/e2afb225.json)
-
-[Extended Data](ext_articles/e2afb225.ext.json)
 
 ---

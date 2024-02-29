@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 11:17:32**
+As of **2024-02-29 11:33:18**
 
 ## Newspaper Stats
 
-*Scraped **9,962** Articles*
+*Scraped **9,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 528
 islandlk | 531
 adalk | 844
 adaderanalk | 1,199
-tamilmirrorlk | 1,209
-virakesarilk | 1,373
+tamilmirrorlk | 1,212
+virakesarilk | 1,376
 dailymirrorlk | 1,505
 adaderanasinhalalk | 1,510
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 1,510
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,958 (100.0%) of 9,962 articles have been extended.
+9,962 (99.9%) of 9,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### தடுத்துவைக்கப்பட்டுள்ள - காணாமலாக்கப்பட்டுள்ள பிள்ளைகளை தேடி அலையும் தாய்மார்களின் ஒட்டுமொத்த குறியீடு சாந்தனின் தாயார் - கஜேந்திரகுமார் பொன்னம்பலம்
+
+*2024-02-29 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177575) · `ta`
+
+இந்திய மற்றும் ஏனைய நாடுகளின் சிறைகளிலும் தடுப்புமுகாம்களிலும் ஆயிரக்கணகானோர்  தடுத்துவைக்கப்பட்டும்  காணாமல் ஆக்கப்பட்டவர்களாக்கப்பட்டும் இருக்கையில்…. அவர்களை தேடி அலையும் எம் தேச தாய்மார்களின் அவலத்தின் ஒட்டுமொத்த குறியீடாக திரு சாந்தன் அவர்களின் தாயார்  இருக்கிறார்.என தமிழ்தேசிய மக்கள் முன்னணியின் தலைவரும் நாடாளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்துள்ளார்
+
+33 வருடம் இந்திய மண்ணில் தனிமை சிறையில் போதிய மருத்துவ வசதிகள்  அடைக்கப்பட்டிருந்த திரு சாந்தன் அவர்கள் நீதிமன்றால் விடுவிக்கப்பட்ட பின்னரும் இந்திய சிறிலங்க அரசுகளின்  மெத்தனப்போக்கால்  ஒன்றரை வருடம்அடைத்துவைக்கப்பட்டிருந்த நிலையில்….  காலமானார் எனும் செய்தி எம்மக்கள் அனைவரையும் தாங்கொணா துயரத்தில் ஆழ்த்தியுள்ளது.
+
+33 வருடங்களுக்கு பின்னர் தன் மகனின் முகத்தை காணும் ஏக்கத்தில் காத்திருந்த அவரின் தாயார் மற்றும் குடும்பத்தவர்களின் துயரினை எந்த வார்த்தைகளும் ஆற்றுப்படுத்தப்போவதில்லை.
+
+...
+
+[Data](articles/89a20c11.json)
+
+---
+
+### சாந்தனின் மரணம் தார்மீக சீற்றத்தை ஏற்படுத்துகின்றது- நாடு கடந்த தமிழீழ அரசாங்கம்
+
+*2024-02-29 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177573) · `ta`
+
+சாந்தனின் மரணம் பெரும் சோகத்தையும் தார்மீக சீற்றத்தையும் ஏற்படுத்துகின்றது என நாடு கடந்த தமிழீழ அரசாங்கம்தெரிவித்துள்ளது.
+
+சாந்தனின் மரணம் குறித்து சமூகஊடகத்தில் தனது வேதனையை வெளியிட்டுள்ள நாடு கடந்த தமிழீழ அரசாங்கத்தின் பிரதமர் விஸ்வநாதன் ருத்திரகுமாரன் இந்த வேண்டுகோளை விடுத்துள்ளார்
+
+33 வருடங்கள் தவறான சிறைவாசத்திற்குப் பிறகு சாந்தன் காலமானார். அவரது மரணம் பெரும் சோகத்தையும் தார்மீக சீற்றத்தையும் ஏற்படுத்துகிறது. உச்ச நீதிமன்ற்ம் அவரை விடுவிக்க உத்தரவிட்டபோதிலும் அவர் "சிறப்பு முகாமில்" தடுத்து வைக்கப்பட்டார் - "சிறப்பு முகாமில்" தொடர்ந்து சிறைவாசம் என்பது உச்ச நீதிமன்றத்தை அவமதிக்கும் செயல் மட்டுமல்லஇ கொடூரமான மற்றும் சட்டவிரோதமான தண்டனையாகும்
+
+...
+
+[Data](articles/c5f908e1.json)
+
+---
 
 ### Dates announced for Grama Niladhari interviews; recruitments expected soon
 
@@ -50,6 +82,8 @@ Accordingly, a total of 2,002 individuals will be recruited to the Grade III of 
 
 [Data](articles/795035a7.json)
 
+[Extended Data](ext_articles/795035a7.ext.json)
+
 ---
 
 ### Nagananda Kodituwakku disenrolled as Attorney
@@ -61,6 +95,8 @@ The Supreme Court on Thursday (29 Feb.) disenrolled Nagananda Kodituwakku as an 
 ◼️
 
 [Data](articles/06b99874.json)
+
+[Extended Data](ext_articles/06b99874.ext.json)
 
 ---
 
@@ -78,6 +114,28 @@ The Supreme Court today issued an order to prevent the legal profession before t
 
 ---
 
+### ஆராய்ச்சி கப்பல்களுக்கு இலங்கை தடை -  கடும் அதிருப்தியை வெளியிட்டது சீனா
+
+*2024-02-29 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/177569) · `ta`
+
+ஆராய்ச்சி கப்பல்களுக்கு இலங்கை தடைவிதித்துள்ளமை குறித்து சீனா தனது கடும் அதிருப்தியை வெளியிட்டுள்ளது.
+
+இலங்கை ஜனவரி மூன்றாம் திகதி முதல் சீன ஆராய்ச்சிகப்பல்கள் இலங்கையின் விசேட பொருளாதார வலயத்தில் ஆராய்ச்சியில் ஈடுபடுவதற்கு தடைவிதித்துள்ளமை குறித்தே சீனா தனது அதிருப்தியை வெளியிட்டுள்ளது.
+
+சீனாவின் ஜியாங் யாங் கொங் 3 என்ற ஆராய்ச்சி கப்பல் தென் இந்திய கடற்பரப்பில் ஆராய்ச்சியில் ஈடுபடுவதற்கு திட்டமிட்டிருந்த நிலையிலேயே இலங்கை இந்த தடையை அறிவித்தது.
+
+குறிப்பிட்ட கப்பல் சீனாவின் இயற்கை வள அமைச்சிற்கு உரியது என தகவல்கள் வெளியாகியுள்ளன.
+
+தனது அயலில் ஆராய்ச்சிகள் இடம்பெறுவது குறித்த பாதுகாப்புகரிசனையை இந்;தியா வெளியிட்ட நிலையிலேயே இலங்கை இந்த தடையை விதித்திருந்தது.
+
+எனினும் சீன அதிகாரிகள் இலங்கையின் இந்த முடிவால் கடும் அதிருப்தியடைந்துள்ளனர்,இன்னுமொரு நாட்டின் அழுத்தத்தினால் இலங்கை இவ்வாறான முடிவை எடுத்தமை குறி;த்து தங்கள் அதிருப்தியை வெளியிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/c4d82d5f.json)
+
+---
+
 ### 36  including 24 school children injured in bus accident
 
 *2024-02-29 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97611/36-including-24-school-children-injured-in-bus-accident) · `en`
@@ -89,6 +147,8 @@ Police said that a passenger bus attached to Sri Lanka Transport Board (SLTB) wh
 ◼️
 
 [Data](articles/7e31deab.json)
+
+[Extended Data](ext_articles/7e31deab.ext.json)
 
 ---
 
@@ -111,6 +171,66 @@ Foreign media reports that there is no need to go to a referendum, as the propos
 [Data](articles/b3dea7ef.json)
 
 [Extended Data](ext_articles/b3dea7ef.ext.json)
+
+---
+
+### இன்று இடியுடன் கூடிய மழை பெய்யலாம்
+
+*2024-02-29 09:44:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை-பெய்யலாம்/175-333983) · `ta`
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் பொலநறுவை மற்றும் மாத்தளை  மாவட்டங்களிலும்  இன்று சிறிதளவு  மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+சப்ரகமுவ மற்றும் மேல் மாகாணங்களின்  சில இடங்களிலும் அத்துடன் நுவரெலியா,  காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக்  காணப்படுகின்றது.
+
+மத்திய மலைப்பிராந்தியத்தின் கிழக்கு சரிவுகளிலும் அத்துடன் வடக்கு, கிழக்கு, வடமத்திய, வடமேல் மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மாவட்டத்திலும்  மணித்தியாலத்திற்கு 30 ‐ 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக்கூடும் என எதிர்பார்க்கப்படுகிறது.
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+கொழும்பு தொடக்கம் காலி ஊடாக மாத்தறை வரையான கடல் பிராந்தியங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/0a0e1033.json)
+
+---
+
+### இலங்கை தடை விதித்ததால் சீனா அதிருப்தி
+
+*2024-02-29 09:40:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தடை-விதித்ததால்-சீனா-அதிருப்தி/175-333981) · `ta`
+
+சீனாவின் பிரத்தியேக பொருளாதார வலயத்தில் (EEZ) சீன ஆராய்ச்சிக் கப்பல்கள் எந்தவொரு ஆய்வையும்  2024 ஜனவரி 3ஆம் திகதி முதல் ஒரு வருடத்திற்கு மேற்கொள்ள தடை விதித்துள்ளதமைக்கு இலங்கை மீதான தனது அதிருப்தியை சீனா வெளிப்படுத்தியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+சீன ஆராய்ச்சிக் கப்பலான சியாங் யாங் ஹாங் 3, தென் இந்தியப் பெருங்கடலில் ஆய்வு மேற்கொள்ள திட்டமிட்டுள்ளதை அடுத்து இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+
+சீன ஆய்வுக் கப்பல் அதிகாரப்பூர்வமாக சீன இயற்கை வள அமைச்சகத்தின் மூன்றாவது கடல்சார் ஆராய்ச்சி நிறுவனத்திற்குச் சொந்தமானது.
+
+அண்டை நாடுகளின் இத்தகைய நடவடிக்கைகளால் ஏற்படும் பாதுகாப்புக் கவலைகளை மேற்கோள் காட்டி இந்தியாவின் அழுத்தங்களுக்கு மத்தியில் இலங்கை அத்தகைய முடிவை எடுத்துள்ளது. இந்திய ஊடகங்கள் இலங்கையின் இந்த முடிவை சீனாவிற்கு அடி என்று பரவலாகப் பாராட்டின.
+
+எனினும், இந்த முடிவால் எரிச்சலடைந்த சீன அதிகாரிகள் , வேறொரு நாட்டின் செல்வாக்கின் பேரில் இத்தகைய முடிவை எடுத்ததற்காக இலங்கை மீது தனது அதிருப்தியை தெரிவித்தனர் .
+
+...
+
+[Data](articles/1d1c51e1.json)
+
+---
+
+### கடமைகளை பொறுப்பேற்றார் தென்னகோன்
+
+*2024-02-29 09:32:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடமைகளை-பொறுப்பேற்றார்-தென்னகோன்/175-333980) · `ta`
+
+புதிய பொலிஸ் மா அதிபராக தேசபந்து தென்னகோன் இன்று காலை பொலிஸ் தலைமையகத்தில் கடமைகளைப் பொறுப்பேற்றார்.
+
+இலங்கையின் 36வது பொலிஸ் மா அதிபராக தென்னகோனை ஜனாதிபதி ரணில் விக்கிரமசிங்க பெப்ரவரி 26ஆம் திகதி நியமித்தார்.
+
+1971 ஆம் ஆண்டு பிறந்த தென்னகோன், 1998 ஆம் ஆண்டு உதவி பொலிஸ் அத்தியட்சகராக தனது பொலிஸ் வாழ்க்கையை ஆரம்பித்தார். தென்னகோன் கொழும்புப் பல்கலைக்கழகத்தில் இளங்கலைப் பட்டமும், களனிப் பல்கலைக்கழகத்தில் முதுகலைப் பட்டமும் பெற்றவர்.
+
+தென்னகோன் தற்போதைய பதவிக்கு முன்னர், மேல் மாகாணத்திற்குப் பொறுப்பான மூத்த பிரதிப் பொலிஸ் மா அதிபராக (SDIG) பணியாற்றினார்.
+
+தென்னகோனின் 25 வருட கால இலங்கை பொலிஸ்துறையில் அவர் நாடு முழுவதும் பல்வேறு இடங்களில் பணியாற்றியுள்ளார்.
+
+◼️
+
+[Data](articles/06cc0f59.json)
 
 ---
 
@@ -1636,23 +1756,25 @@ Biyagama police said that the fire broke out this evening near the site where th
 
 ---
 
-### මාස දෙකට අධිවේගයේ අනතුරුවලින් මරණ 9ක්
+### 9 deaths due to exchange after two months
 
 *2024-02-28 19:49:55* · [`adalk`](https://www.ada.lk/breaking_news/මාස-දෙකට-අධිවේගයේ-අනතුරුවලින්-මරණ-9ක්/11-408339) · `si`
 
-අධිවේගී මාර්ග පද්ධතිය තුළ මෙම වසරේ ගෙවුණු මාස දෙකට සිදු වූ අනතුරුවලින් පුද්ගලයන් 9 දෙනෙකු මියගොස් ඇතැයි අධිවේගී කොට්ඨාස රථ වාහන පොලීසිය කියයි. එකී මරණ නවය අනතුරු හතකින් සිදුවී ඇත.
+Expressway traffic vehicles say 9 people have been killed in accidents this year within the expressway system. Nine deaths have taken place in seven accidents.
 
-ඉකුත් වසර තුළම එම මාර්ග පද්ධතිය තුළ සිදුවූ අනතුරුවලින් මියගිය පුද්ගලයන්ගේ සංඛ්‍යාව සිව් දෙනෙකු බවත්, මෙම වසරේ මාස දෙක තුළ සිදු වූ අනතුරු සමග ගත් කල ප්‍රතිශතයක් ලෙස සියයට සීය ඉක්මවීමක් බව පොලීසිය සඳහන් කරයි. මෙම දත්ත පිළිබඳ හෙළිවූයේ පෙරේදා ( 27දා ) කුරුඳුගහ හැතැප්ම, පෝද්දල පොලිස් බල ප්‍රදේශයේ අධිවේගී මාර්ගයේ නඩත්තු කටයුත්තක නිරත වෙමින් සිටි කොන්ත්‍රාත් පදනම මත සේවය කරන පුද්ගලයන් දෙදෙනෙකු අනතුරට ලක්ව මිය යාමත් සමගමය.
+The police said that the number of people killed in the road during the same year was four per cent as a percentage of these two months of these two months.. This data revealed on Monday (27) with two people working on contract basis in the Kurundala Hatween the Expressway in the Picture Department of Cinnugaha Hattaps.
 
-ඒ ආකාරයෙන් මීට මාසයකට පමණ ඉහතදී එනම් ජනවාරි 25 වැනි දින රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ ඔහුගේ රියදුරු ලෙස කටයුතු කළ පොලිස් කොස්තාපල්වරයා කටුනායක කොළඹ අධිවේගී මාර්ගයේදී අනතුරකින් මියගියහ.
+About a month ago, state minister Sanath Nishantha and his driver, the police constable, who served as his driver, died in an accident in Katunayake Colombo Expressway.
 
-එකී අනතුරු දෙකින් එම වාහනවල රියදුරන්ට කිසිදු තුවාලයක් සිදු නොවීම විශේෂත්වයකි.
+It is noteworthy that the drivers of those vehicles were not injured with the two accidents.
 
-මෙම අනතුරු දෙකම අධික වේගයෙන් වාහන ධාවනය කිරීම හේතුවෙන් සිදු වූ මාරක අනතුරු බවට පොලිස් විමර්ශනවලදී අනාවරණය වී තිබිණ.
+Police Investigations have revealed that the accidents were carried out due to heavy rapid vehicles.
 
 ◼️
 
 [Data](articles/62118c3f.json)
+
+[Extended Data](ext_articles/62118c3f.ext.json)
 
 ---
 
@@ -1909,111 +2031,5 @@ Meanwhile, S. C. Mutukumarana is tipped to fill the relevant parliamentary vacan
 [Data](articles/88a0de0a.json)
 
 [Extended Data](ext_articles/88a0de0a.ext.json)
-
----
-
-### Elections in Parliament tells Elections Commission that a seat of Parliament is empty
-
-*2024-02-28 18:55:58* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-මන්ත්‍රීධුරයක්-හිස්ව-ඇති-බව-මැතිවරණ-කොමිෂමට-දන්වයි/11-408332) · `si`
-
-Parliamentarian Kushani Rohanaharadera, a member of the Parliament, has been informed by the Secretary General of Parliament as a member of the Parliamentary Seman of Anuradhapura due to the resignation of the Parliamentary Semanna from the 26th of February.
-
-This was made in terms of Section 64 (1) of the Parliament Election Act, No. 1 of 1981.
-
-◼️
-
-[Data](articles/fad286e4.json)
-
-[Extended Data](ext_articles/fad286e4.ext.json)
-
----
-
-### Exponential Growth Of BJP In Tamil Nadu In Five Years (2019 – 2024)
-
-*2024-02-28 18:54:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/exponential-growth-of-bjp-in-tamil-nadu-in-five-years-2019-2024/) · `en`
-
-“Precise dates, picturesque outbreaks; these are conventions and conveniences of historians but history is a process too subtle for such methods.” – Lord Acton
-
-To many a student of history the above quote is a truism. Keen observers of recent times too would admit to its exactitude. There is a qualification however. Every historic event has had a fair period filled with  long gestating antecedents. French Revolution did not explode just on 14th July 1789. German nationalism grew up with philosopher Fichte’s ‘Addresses to the German Nation’ after 1812. What followed was Bismark’s ideology of ‘Blood and Iron’ which unified Germany with wars in the sixties. Likewise, the Russian and Chinese revolutions had their protracted struggles.
-
-...
-
-[Data](articles/039ef08e.json)
-
-[Extended Data](ext_articles/039ef08e.ext.json)
-
----
-
-### Anura travels Canada in March
-
-*2024-02-28 18:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மார்ச்சில்-கனடா-பயணமாகிறார்-அநுர/175-333958) · `ta`
-
-The Daily Mirror has reported that the National People's Power (NPP) leader Anuragumara Dissanayake is planning to visit Canada next month and meet with Sri Lankans living there and meet some Canadian politicians.
-
-◼️
-
-[Data](articles/a5cdad79.json)
-
-[Extended Data](ext_articles/a5cdad79.ext.json)
-
----
-
-### Gaza: Creating Hell On Earth
-
-*2024-02-28 18:46:16* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/gaza-creating-hell-on-earth/) · `en`
-
-I have been deeply distressed by Israel’s military assault on the population of Gaza. Many people of Sri Lankan origin had not bothered to study the history of the plight of Palestinians until the brave military operation by the Palestinian Resistance on 7th Oct 2023.
-
-Consider the background of the Zionist apartheid state; one issue is the Right of Return. Within two years of the Zionist state calling itself Israel being proclaimed in the Knesset, ‘The Law of Return’ was established, a law which allows any Jew around the world to migrate to Israel and automatically become citizens, developing illegal settlements with impunity. In 1952, the Knesset passed the Citizenship Law, which effectively bars any Palestinian not living in Israel from returning and reclaiming their former property from the colonisers.
-
-...
-
-[Data](articles/a4eec15a.json)
-
-[Extended Data](ext_articles/a4eec15a.ext.json)
-
----
-
-### Complaint by the police with the wheel
-
-*2024-02-28 18:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழன்ற-சக்கரத்துடன்-பொலிஸில்-முறைப்பாடு/175-333957) · `ta`
-
-A nearest shop was damaged yesterday, when the vehicle of the Sri Lanka Transport Board, which belongs to the Sri Lanka Transport Board, crashed into the vehicle after the vehicle crashed, police said.
-
-They said that the wheel of the bus traveling from Yattiyantota to Avissawella was the wheel.
-
-The scattered wheel has damaged the three -wheeler and the computer repair shop, but no one has no injuries.
-
-The shop owner and the three -wheeler owner handed over the wheel to the Yatiyantota police and said they would not allow the bus to be taken away without compensation for the damage.
-
-◼️
-
-[Data](articles/d0bdba39.json)
-
-[Extended Data](ext_articles/d0bdba39.ext.json)
-
----
-
-### We will establish a political alliance with the leadership of the PA - Ranjith Bandara
-
-*2024-02-28 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177541) · `ta`
-
-Unexpected changes in politics after the 05th of March. Ranjith Bandara, Member of Parliament of the PA, said that the new political coalition will be established in the leadership of the Sri Lanka PA.
-
-He was speaking at a media briefing held at the Sri Lanka PA's office on Wednesday (28).
-
-The Secretary of the Treasury and the Governor of the Central Bank, who was recently present to the Parliamentary Select Committee on Financial Bank, said that we did not announce the financial bankruptcy.
-
-There is no alternative to the government's responsibility for good government for economic impact.
-
-The overall responsibility of the economic impact has been imposed on the Rajapaksas amid the impact of the Govt.
-
-We have been strengthened as party. There will be many unexpected changes in politics after March 05. He said that we will establish a new political alliance with the leadership of the Sri Lanka PA.
-
-◼️
-
-[Data](articles/e2a33336.json)
-
-[Extended Data](ext_articles/e2a33336.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 09:33:10**
+As of **2024-02-29 09:51:32**
 
 ## Newspaper Stats
 
-*Scraped **9,948** Articles*
+*Scraped **9,954** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,58 @@ adalk | 843
 adaderanalk | 1,196
 tamilmirrorlk | 1,209
 virakesarilk | 1,373
-dailymirrorlk | 1,499
-adaderanasinhalalk | 1,507
+dailymirrorlk | 1,504
+adaderanasinhalalk | 1,508
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,942 (99.9%) of 9,948 articles have been extended.
+9,948 (99.9%) of 9,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### மாணவர்களை ஏற்றிச் சென்ற பஸ் விபத்து - 24 மாணவர்கள் படுகாயம்
+### වැලිපැන්නේ දී කපා කොටා පුද්ගලයෙක් ඝාතනය කෙරේ
+
+*2024-02-29 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193942) · `si`
+
+වැලිපැන්න පොලිස් වසමේ පැලකැටියාගොඩ, හොරවල ප්‍රදේශයේ දී පිහියකින් ඇන පුද්ගලයෙකු ඝාතනය කර තිබේ.
+
+මෙසේ ඝාතනය කොට ඇත්තේ පැලකැටියාගොඩ ප්‍රදේශයේ පදිංචි 32 හැවිරිදි සිව්දරු පියෙකු වන මල්ලවආරච්චි කන්කානම්ගෙ තරිදු ධනංජය නමැති පුද්ගලයෙකි.
+
+මරණයට පත් පුද්ගලයා පැලකැටියාගොඩ ප්‍රදේශයේ ප්‍රධාන මාර්ගයක් අසල රැඳී සිටියදී යතුරු පැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු හා බහින්බස්වීමක් සිදුවී ඇත.
+
+ඉන්පසුව එම පුද්ගලයින් දෙදෙනාගෙන් එක් අයෙකු එකවරම මරණකරු වෙත පිහි ප්‍රහාරයක් එල්ල කොට ඇති අතර, එම පිහි ප්‍රහාරයෙන් තුවාල ලැබූ තරිදු අසල පිහිටි නිවසක් වෙත දිව ගොස් තිබේ.
+
+ඉන් පසුව ඔහු එම නිවස මිදුලේ ඇද වැටීමත් සමගම මොවුන් දෙදෙනා පිහි පාරවල් කිහිපයක්ම මරණකරුගේ උදරය ප්‍රදේශයට සහ පපු ප්‍රදේශයට එල්ල කොට ඇත ඇති අතර ඉන්පසු එම පුද්ගලයින් දෙදෙනා ප්‍රදේශයෙන් පළා ගොස් ඇත.
+
+මෙම පිහි ප්‍රහාරයෙන් බරපතළ තුවාල ලැබූ තරිදු ධනංජය බරපතළ තුවාල ඇතිව ප්‍රදේශවාසීන් විසින් ඔහුව මතුගම වෑත්තෑව රෝහලට ඇතුළත් කර තිබේ.
+
+රෝහල් ගත කිරීමෙන් අනතුරුව එම පුද්ගලයා මියගොස් ඇතැයි වෑත්තෑව රෝහල සඳහන් කළේය.
+
+...
+
+[Data](articles/16ee924c.json)
+
+---
+
+### Bus accident carrying students - 24 students injured
 
 *2024-02-29 08:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-ஏற்றிச்-சென்ற-பஸ்-விபத்து-24-மாணவர்கள்-படுகாயம்/175-333979) · `ta`
 
-சியம்பலாண்டுவ பிரதேசத்தில் பாடசாலை மாணவர்களை ஏற்றிச் சென்ற பஸ் கவிழ்ந்து விபத்துக்குள்ளானதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The bus carrying school children in the Siyambalanduwa area has crashed, police said.
 
-இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பஸ் ஒன்றே விபத்திற்கு உள்ளானதாகவும் பொலிஸார் தெரிவித்தனர்.
+The bus belonging to the Sri Lanka Transport Board (SLTB) was also involved in the accident, police said.
 
-விபத்தில் பாடசாலை மாணவர்கள் 24 பேர் உள்ளிட்ட 36 பேர் காயமடைந்துள்ளனர். R
+36 people, including 24 students, were injured in the accident. Remble
 
 ◼️
 
 [Data](articles/ec5a9861.json)
+
+[Extended Data](ext_articles/ec5a9861.ext.json)
 
 ---
 
@@ -66,6 +92,8 @@ Tennakoon had been appointed as the Acting IGP on November 29, 2023.
 
 [Data](articles/965cbab4.json)
 
+[Extended Data](ext_articles/965cbab4.ext.json)
+
 ---
 
 ### Deshabandu assumes duties
@@ -79,6 +107,40 @@ Inspector General of Police, Deshabandu Tennakoon assumed duties as a short whil
 [Data](articles/1069ba57.json)
 
 [Extended Data](ext_articles/1069ba57.ext.json)
+
+---
+
+### UK’s York St. John University offers instant admission at ICFS event
+
+*2024-02-29 08:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UKs-York-St-John-University-offers-instant-admission-at-ICFS-event/108-277938) · `en`
+
+Colombo, Feb 29 (Daily MiAn exclusive admission event organized by ICFS (International Center for Foreign Studies) in collaboration with UK's York St. John University is scheduled to take place on Saturday, March 02, at the ICFS Education Center in Nugegoda.
+
+The event aims to provide "On the Spot offer letters" to students interested in enrolling at York St. John University's campuses in London and York. All candidates visiting the ICFS Education Center on March 02 will have the opportunity to secure admission to York St. John University within one hour upon meeting Mrs. Bhagya Perera, the Country Manager for York St. John University in Sri Lanka.
+
+...
+
+[Data](articles/140ce554.json)
+
+---
+
+### China expresses strong dissatisfaction to SL over bar on research vessels
+
+*2024-02-29 08:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-expresses-strong-dissatisfaction-to-SL-over-bar-on-research-vessels/108-277936) · `en`
+
+Colombo, Feb. 29 (Daily Mirror)- China is reported to have expressed its dissatisfaction to Sri Lanka over the decision to bar Chinese research vessels from carrying out any study in the country’s Exclusive Economic Zone (EEZ) for one year starting from January 3, 2024.
+
+Sri Lanka imposed a one - year moratorium on such activities with the involvement of any foreign research vessel.
+
+The decision was taken in the wake of the Chinese research vessel Xiang Yang Hong 3 planning for exploration in the south Indian Ocean.
+
+The Chinese Research / Survey Vessel is officially owned by the Third Institute of Oceanology of the Chinese Ministry of Natural Resources.
+
+Sri Lanka took such a decision in the midst of pressure from India which cited security concerns stemming from such activities in its neighborhood. The Indian media widely hailed Sri Lanka’s decision calling it a blow to China.
+
+...
+
+[Data](articles/6ce80bdc.json)
 
 ---
 
@@ -111,6 +173,8 @@ Porter said she was staying her decision because she expected his appeal to Illi
 ...
 
 [Data](articles/d9f47986.json)
+
+[Extended Data](ext_articles/d9f47986.ext.json)
 
 ---
 
@@ -194,6 +258,8 @@ The public is kindly requested to take adequate precautions to minimize the dama
 
 [Data](articles/ed201828.json)
 
+[Extended Data](ext_articles/ed201828.ext.json)
+
 ---
 
 ### HIV infected persons up by 14 percent
@@ -248,6 +314,24 @@ The Indian Ocean cannot be considered part of a "one round" program or Indus Pac
 
 ---
 
+### Findings on COVID vaccine side effects: Local authorities in the dark
+
+*2024-02-29 07:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Findings-on-COVID-vaccine-side-effects-Local-authorities-in-the-dark/155-277907) · `en`
+
+Colombo, Feb 28 (Daily Mirror) -  In the wake of disquieting findings on the health risks associated with certain COVID-19 vaccines, the Sri Lankan health authorities seem to be turning a blind eye as they go unresponsive to the queries.
+
+Despite Daily Mirror's efforts to prompt the authorities to articulate their position on the recent findings, responsible officials have failed to respond, leaving the masses in dilemma.
+
+Since the breakout of Covid-19, sceptics around the world expressed their doubts about the Covid infection to Covid Vaccine, putting forward so many “conspiracy” theories.
+
+However, looking back, many people now seem to see a coercing tactic in making people accept the vaccine, which was not approved by the Food and Drug Administration (FDA), the highest authority in the current medical industry- at the time of administering. Pfizer was approved in 2021 while Moderna was approved by the FDA in 2023.
+
+...
+
+[Data](articles/6f1e984a.json)
+
+---
+
 ### Minor showers to several areas
 
 *2024-02-29 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193933) · `si`
@@ -265,6 +349,26 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/fc2f98c0.json)
 
 [Extended Data](ext_articles/fc2f98c0.ext.json)
+
+---
+
+### Government to empower women to drive economy
+
+*2024-02-29 05:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-empower-women-to-drive-economy/108-277928) · `en`
+
+President Wickremesinghe pledges more will be done to help segment improve contribution to national economy
+
+Says careful development of country’s economy can be achieved through women’s empowerment
+
+Highlights tourism and modernised agriculture as potential sectors to increase female participation
+
+Sri Lanka’s women entrepreneurs, who have for long been held back, will soon be able to take the front seat as President Ranil Wickremesinghe this week pledged more would be done to allow this segment to increase their contribution to the national economy.
+
+As Sri Lanka aims to recover faster and achieve higher growth trajectory, Wickremesinghe affirmed that the government would improve its focus on women entrepreneurs, so that they can overcome the challenges and hurdles faced in achieving higher aspirations.
+
+...
+
+[Data](articles/21de96c6.json)
 
 ---
 
@@ -487,6 +591,24 @@ We have been discussing the safety of the Hindu -Pacific Ocean region for the pa
 [Data](articles/c331c295.json)
 
 [Extended Data](ext_articles/c331c295.ext.json)
+
+---
+
+### Elephant House to storm Indian shelves
+
+*2024-02-29 02:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elephant-House-to-storm-Indian-shelves/108-277927) · `en`
+
+One of Sri Lanka’s most popular lines of beverages will soon be on the shelves of India, with Reliance Consumer Products Limited (RCPL) partnering with Elephant House to manufacture, market, distribute and sell beverages.
+
+The partnership between the fast-moving consumer goods (FMCG) arm and wholly-owned subsidiary of Reliance Retail Ventures Limited and Elephant House was announced yesterday.
+
+The partnership is not only expected to help RCPL bolster its growing beverage portfolio but will also bring exceptional new products and value propositions to the Indian consumers.
+
+Elephant House is owned by Ceylon Cold Stores PLC, a subsidiary of John Keells Holdings PLC, Sri Lanka’s largest listed conglomerate. Under the Elephant House brand, it manufactures and sells a wide range of beverages, including Necto, Cream Soda, EGB (Ginger Beer), Orange Barley and Lemonade, to name a few.
+
+...
+
+[Data](articles/9b58b6c7.json)
 
 ---
 
@@ -1368,21 +1490,25 @@ Biyagama police said that the fire broke out this evening near the site where th
 
 ---
 
-### කුලී ඝාතකයන් ගැන පොලීසියෙන් හෙළිදරව්වක්
+### Police reveal about the murderers
 
 *2024-02-28 19:44:53* · [`adalk`](https://www.ada.lk/breaking_news/කුලී-ඝාතකයන්-ගැන-පොලීසියෙන්-හෙළිදරව්වක්/11-408338) · `si`
 
-කුලී මුදල් ලබා ගැනීමේ අරමුණින්  මනුෂ්‍ය ඝාතන සිදුකිරීමට සම්බන්ධ වන පිරිස් දිවයිනේ යම් යම් ප්‍රදේශවල සැඟව  සිටින වන බවට තොරතුරු වාර්තා වී ඇතැයි පොලීසිය සඳහන් කරයි.
+It has been reported that the people involved in murder are hidden in some parts of the island with the objective of obtaining rent.
 
-මේ ආකාරයට මුදල් ලබා ගැනීමේ අරමුණින්  මනුෂ්‍ය ඝාතන සිදුකිරීමට සම්බන්ධ වන පිරිස් අවි පුහුණුව  පවා ලබා තිබෙන  බවට හෙළි වී තිබෙන අතර අපරාධකරුවන් අත්අඩංගුවට ගැනීමට අමතරව අපරාධකරුවන්ට නවාතැන් දෙන පිරිස් හා ගිනි අවි ලබා දෙන පිරිස් ද අත්අඩංගුවට ගැනීමට සැලසුම් කර තිබේ.
+People who have been involved in mass travelers have also been involved in arms training to the arms training of murder in this way.
 
-ආරක්ෂක අංශවල සේවයකර විශ්‍රාම ගොස් සිටින පිරිස් හා සේවය හැරගොස් සිටින පිරිස් සහ දැනට සක්‍රිය සේවයේ සිටින සමහර පිරිස්ද මෙම කටයුතු සඳහා සම්බන්ධවන බවට සොයාගෙන තිබේ. මේ ආකාරයට අපරාධ සිදුකරන පිරිස් හඹාගෙන ගොස් අත්අඩංගුවට ගැනීමේ විශේෂ වැඩපිළිවෙළක් සකස් කර තිබෙන බවද පොලීසිය සඳහන් කරයි.
+People who have been working in the security forces and the people who have left the security and service have been found that some people currently in the present work are also involved in these activities. A special program has been prepared to changing crimes and arrest.
 
-පොලිස් විශේෂ කාර්ය බලකා නිලධාරීන් විසින්  අපරාධ කරුවන් හඹාගොස් අත්අඩංගුවට ගැනීමේ මෙහෙයුම් සිදුකරන අතර  මෙම කටයුතු සඳහා බුද්ධි නිලධාරීන්ගේ  සේම අදාළ පොලිස් ස්ථානවල නිලධාරීන්ගේ සහයද ලබා ගනිමින්  තිබේ.
+Special Task Force officials conduct criminals to arrest the criminals and carry out the arrests of the arrests and the assistance of the officers of the police officers.
+
+Several members of the security forces have been arrested in several hubs. The police said that some of the security forces and criminals are being observed with crime gangs, with the objective of making money.
 
 ...
 
 [Data](articles/698e98d4.json)
+
+[Extended Data](ext_articles/698e98d4.ext.json)
 
 ---
 
@@ -1426,19 +1552,23 @@ The Minister made these comments participating at the GET REAL program of Ada De
 
 ---
 
-### දමිතා හා සැමියා අපේක්ෂිත ඇප ඉල්ලයි
+### Damitha and husband asks for expected
 
 *2024-02-28 19:39:29* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-හා-සැමියා-අපේක්ෂිත-ඇප-ඉල්ලයි/11-408337) · `si`
 
-කොරියාවේ රැකියා ලබා දෙන බව පවසා රුපියල් ලක්ෂ 30ක මුදලක් වංචා කළැයි කියන තමන්ට අපේක්ෂිත ඇප නියම කරන්නැයි ඉල්ලූ ප්රරසිද්ධ රංගන ශිල්පිනියක් වන දමිතා අබේරත්න සහ ඇයගේ සැමියා ලබන මස 06 වැනිදා තෙක් අත් අඩංගුවට නොගන්නා ලෙස රහස් පොලීසියට නියම කළ කොටුව මහේස්ත්රාමත් තිළිණ ගමගේ මහතා එදින අධිකකරණයේ පෙනී සිටින ලෙස නියම කරමින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ අංශයේ ස්ථානාධිපතිවරයාට නොතීසි නිකුත් කළේය.
+Damitha Abeyratne, an unveiled bail to be arrested in Korea, and her husband, who is said to have been imposed on the investigation and her husband will not be arrested on the 6th of this month, he appeared in the excess of that dayThe Criminal Investigations Department released notice to the OIC of the Criminal Investigation Department.
 
-රහස් පොලීසියට විමර්ශනය කළ හැක්කේ රුපියල් ලක්ෂ  250 කට වඩා වැඩි වංචා සිද්ධියක් සම්බන්ධයෙන් වුවත් රුපියල් ලක්ෂ 30ක මුදලක් වංචා කළැයි කියන තම සේවාදායකයන්ට එරෙහි පැමිණිල්ල පොලිස්පතිවරයා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට යොමු කර ඇතැයි පෙන්වා දෙමින් නීතිඥ අජිත් පතිරණ මහතා කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව මහේස්ත්රාැත්වරයා එලෙස නියම කළේයෙ.
+Attorney-at-Law Ajith Pathirana, pointed out that the IGP has filed a complaint has been lodged by the IGP, has filed a complaint made by the IGP, has filed a complaint made by the IGP.
 
-දමිතා අබේරත්න සහ ඇයගේ සැමියා විසින් ඉදිරිපත් කර ඇති මෙම අපේක්ෂිත ඇප අයැදුම් පත්ර්යේ වගඋත්තරකරු වශයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ අංශයේ ස්ථානාධිපතිවරයා නම් කර ඇත.
+The OIC of the Criminal Investigation Department has been named as respondent at the Application Former Experience Application Form (CID) presented by Damitha Abeyratne and her husband.
+
+Attorney-at-Law Tharindu Wickrammanayake filed this Expected Guarantee sheet sheet sheet sheet and arrested his clients to arrest their clients in Korea.He said he was to know.
 
 ...
 
 [Data](articles/b66ce1cc.json)
+
+[Extended Data](ext_articles/b66ce1cc.ext.json)
 
 ---
 
@@ -1879,117 +2009,5 @@ However, members of the Public Utilities Commission further stated that it will 
 [Data](articles/df9f4c1c.json)
 
 [Extended Data](ext_articles/df9f4c1c.ext.json)
-
----
-
-### President stresses significant responsibilities entrusted with country’s religious leaders
-
-*2024-02-28 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97599/president-stresses-significant-responsibilities-entrusted-with-countrys-religious-leaders) · `en`
-
-President Ranil Wickremesinghe has affirmed the government’s commitment to fostering development through reconciliation, emphasising that nations worldwide which have eradicated racism and bigotry have experienced significant development.
-
-The President further highlighted how racism and bigotry have become convenient tools for politicians to wield power and for religious leaders to maintain their authority, recounting the grim lessons learned from the prolonged use of these divisive tactics, which ultimately led the nation into a devastating conflict.
-
-Addressing the ‘Religions to Reconcile’ National Inter Religious Symposium, organized by the National Peace Council of Sri Lanka, held today (28 Feb.) at the Bandaranaike International Conference Hall (BMICH) in Colombo, President Wickremesinghe stressed the importance of fostering unity and religious harmony among all citizens, underscoring the government’s proactive measures toward this goal.
-
-...
-
-[Data](articles/d32c3c8f.json)
-
-[Extended Data](ext_articles/d32c3c8f.ext.json)
-
----
-
-### Jeffrey Vandersay, Avishka Fernando called up for Bangladesh T20Is
-
-*2024-02-28 17:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jeffrey-Vandersay-Avishka-Fernando-called-up-for-Bangladesh-T20Is/108-277897) · `en`
-
-Sri Lanka have retained largely the same T20 squad, that beat Afghanistan in their three-match T20I series, for next month’s tour of Bangladesh, with Jfferey Vandersay and Avishka Fernando the only additions.
-
-Fernando has been drafted in in place of Pathum Nissanka, who is still recovering from injury, while Vandersay has been added to the squad, as cover for Wanindu Hasaranga, who will miss the first two T20Is due to suspension.
-
-In Hasaranga’s absence, Vice Captain Charith Asalanka will lead the team for the opening two T20Is.
-
-The Squad: Wanindu Hasaranga - Captain, Charith Asalanka -Vice Captain, Kusal Mendis, Sadeera Samarawickrama, Angelo Mathews, Dasun Shanaka, Maheesh Theekshana, Dhananjaya de Silva, Kusal Janith Perera, Dilshan Madushanka, Nuwan Thushara, Matheesha Pathirana, Akila Dananjaya, Binura Fernando, Kamindu Mendis, Avishka Fernando, Jeffrey Vandersay
-
-◼️
-
-[Data](articles/3dc2f85a.json)
-
-[Extended Data](ext_articles/3dc2f85a.ext.json)
-
----
-
-### Here Sri Lanka is the Sri Lankan team against Bangladesh
-
-*2024-02-28 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193924) · `si`
-
-The SLC squad has been named for the Twenty20 Championship with Bangladesh team.
-
-◼️
-
-[Data](articles/d72a4c6a.json)
-
-[Extended Data](ext_articles/d72a4c6a.ext.json)
-
----
-
-### UNFPA Sri Lanka inaugurates one stop centre in Kilinochchi
-
-*2024-02-28 17:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-Sri-Lanka-inaugurates-one-stop-centre-in-Kilinochchi/108-277896) · `en`
-
-Feb 28 -  The United Nations Population Fund (UNFPA) Sri Lanka announced the opening ceremony of the One Stop Centre (OSC) at the District General Hospital in Kilinochchi today (28).
-
-The One Stop Centre is a groundbreaking initiative introducing a new service delivery model in Sri Lanka, offering comprehensive Sexual and Reproductive Health (SRH) services, support for survivors of Gender-Based Violence (GBV), and Family Planning Services (FP) all under one roof.
-
-The OSC in Kilinochchi also provides essential psychosocial, medical, and legal support for survivors of GBV. This transformative approach is a result of the collaborative efforts between UNFPA Sri Lanka, the Ministry of Health, and World Vision Sri Lanka, with generous support from the Government of Norway.
-
-...
-
-[Data](articles/89dbd9aa.json)
-
-[Extended Data](ext_articles/89dbd9aa.ext.json)
-
----
-
-### Duminda Jayatilaka, Officer of the Criminal Investigation Division who went abroad due to the threat of the underworld group
-
-*2024-02-28 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177531) · `ta`
-
-Police are currently investigating the murder threat issued by the Inspector of Police Duminda Jayathilaka, who is currently living abroad, police said.
-
-Deputy Inspector General of Police and Police Media Spokesperson Nihal Dalduwa made this statement.
-
-Inspector Duminda Jayatilleka, the officer in charge of the Colombo Crime Division, who posted a video on social media, said that he and his family had gone abroad due to the death threat of the underworld group members.
-
-Commenting on this, the Deputy Inspector General of Police, Police Media Spokesperson, Nihal Talduwa, said that there were doubts about the threats of the threat.
-
-◼️
-
-[Data](articles/ea7a7e6e.json)
-
-[Extended Data](ext_articles/ea7a7e6e.ext.json)
-
----
-
-### Sri Lanka recognized as a global leading country
-
-*2024-02-28 17:41:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகளாவிய-முன்னணி-நாடாக-அங்கீகரிக்கப்பட்ட-இலங்கை/175-333956) · `ta`
-
-In the sixth session of the United Nations Environmental Council (UNEA-6), Sri Lanka was recognized as the Global Leading Country in the restoration of marshes.
-
-The sixth session of the United Nations Environmental Council began on February 26 at the headquarters of the United Nations Environmental Project (UNEP) in Nairobi, Kenya.
-
-Before officially launching the sixth session of the United Nations Environmental Council, a committee of permanent representatives met to set up the foundation for the meeting.
-
-Of the highlights of this conference, it was pointed out that Sri Lanka could be taken as a global role model in mangrove restructuring efforts.
-
-Sri Lanka's commitment to preserving and reviving Sri Lanka's marshland environmental structures, which has received a valuable award, is a testament to the world's efficient environmental responsibility.
-
-...
-
-[Data](articles/67510333.json)
-
-[Extended Data](ext_articles/67510333.ext.json)
 
 ---

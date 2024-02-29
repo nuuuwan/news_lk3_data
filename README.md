@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 23:33:16**
+As of **2024-02-29 23:52:13**
 
 ## Newspaper Stats
 
-*Scraped **10,109** Articles*
+*Scraped **10,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,41 @@ islandlk | 531
 adalk | 864
 adaderanalk | 1,223
 tamilmirrorlk | 1,229
-virakesarilk | 1,388
-dailymirrorlk | 1,528
+virakesarilk | 1,389
+dailymirrorlk | 1,533
 adaderanasinhalalk | 1,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,109 (100.0%) of 10,109 articles have been extended.
+10,115 (100.0%) of 10,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Massive Challenge to New Police Inspector
+
+*2024-02-29 23:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177632) · `ta`
+
+The appointment of a person who has been accused of human rights violations as a police chief is a challenge to the rule of law and is a major threat, said Patali Champika Ranawaka, the leader of the United Republic Front and Member of Parliament.
+
+He was speaking to the media after attending a function held in Colombo on Thursday (29).
+
+With the appointment of a new police chief, the rule of the country is a huge threat to the rule of law.
+
+The people of the country are well aware of how the patriarch of the Tennakoon, who was appointed as the Inspector General of Police.
+
+The actions of the Constitutional Council are currently being questioned at the appointment of the new Inspector General of Police. The Speaker acts spontaneously. The powers of the Constitutional Council have been abused. In this context, it is challenging to ensure legalism.
+
+◼️
+
+[Data](articles/075ef65d.json)
+
+[Extended Data](ext_articles/075ef65d.ext.json)
+
+---
 
 ### Dozens killed waiting for aid in Gaza, overall death toll passes 30,000
 
@@ -49,6 +71,86 @@ The incident caused the largest loss of civilian lives in weeks. Palestinian Pre
 [Data](articles/0f5db2a0.json)
 
 [Extended Data](ext_articles/0f5db2a0.ext.json)
+
+---
+
+### Famous singer of Tagore songs Shama Rahman in Sri Lanka
+
+*2024-02-29 22:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Famous-singer-of-Tagore-songs-Shama-Rahman-in-Sri-Lanka/108-277982) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - A famous singer of Tagore songs, Ms. Shama Rahman from Bangladesh, arrived at the Bandaranaike International Airport (BIA) this evening, the Airport and Aviation of Sri Lanka (AASL) said.
+
+They said Ms. Rahman arrived at 4.30 p.m. from Dhaka, Bangladesh, on flight UL 190 and was warmly welcomed.
+
+Ms. Shama is a famous singer in Bangladesh and India. She is the ambassador of Tagore songs worldwide. Shama Rahman is a wide-ranging traveller who carries the philosophy of Tagore.
+
+Addressing the media, she said that she had arrived in Sri Lanka once before and added that Bangladesh has very good relations with Sri Lanka.
+
+◼️
+
+[Data](articles/47d7cf06.json)
+
+[Extended Data](ext_articles/47d7cf06.ext.json)
+
+---
+
+### Education Ministry to reduce weight of school bags
+
+*2024-02-29 22:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Education-Ministry-to-reduce-weight-of-school-bags/108-277981) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - The attention of the Education Ministry has been drawn to reducing the weight of school bags due to the potential risk of causing spinal misalignment or problems for students, Education Ministry Secretary Wasantha Perera said.
+
+She said the decision was announced today after the health authorities had pointed out that students carrying heavy school bags could cause spinal misalignment or other problems to them.
+
+As the first step towards reducing the weight of school bags, the Ministry has decided to print textbooks in batches.
+
+Letting schoolchildren bring only their workbooks except textbooks under the direct supervision of the respective school principals would be an alternative decision, she said.
+
+◼️
+
+[Data](articles/8c55e5f8.json)
+
+[Extended Data](ext_articles/8c55e5f8.ext.json)
+
+---
+
+### Executive Presidency will be abolished under NPP government: Tilvin
+
+*2024-02-29 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Executive-Presidency-will-be-abolished-under-NPP-government-Tilvin/108-277980) · `en`
+
+Colombo, Feb. 29 (Daily Mirror)- Steps will be taken to abolish the Executive Presidency under a National People's Power (NPP) government after introducing a new Constitution, NPP General Secretary Tilvin Silva said.
+
+He told a news conference that the government has started a fresh slogan claiming to abolish the Executive Presidency after they have realised that they cannot win at the next Presidential election.
+
+"They did not want to abolish the Executive Presidency when there was a huge people's protest against the government. They are now claiming to do it as they have realised that they cannot win at the next Presidential election. We have continuously struggled to abolish the Executive Presidency. They are the ones who misled the people by giving false promises to abolish it," he said.
+
+He said only the NPP can abolish the Executive Presidency and ensure the people's sovereignty.
+
+...
+
+[Data](articles/622ef9c1.json)
+
+[Extended Data](ext_articles/622ef9c1.ext.json)
+
+---
+
+### Sri Lanka target Bangladesh tour as final tune-up for T20 WC
+
+*2024-02-29 22:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-target-Bangladesh-tour-as-final-tune-up-for-T20-WC/108-277977) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - Sri Lanka's Twenty20 International (T20I) Captain Wanindu Hasaranga today expressed confidence ahead of their upcoming tour of Bangladesh, kicking off on March 4 in Sylhet, which serves as crucial preparation for the T20 World Cup later this year.
+
+The Sri Lanka T20I squad left for Bangladesh this morning. The tour kicks off with a series of T20Is, with the first match scheduled for March 4 at the Sylhet International Cricket Stadium (SICS) in Sylhet. The second and third T20Is on March 6 and 9 will also be at the SICS.
+
+Speaking before the departure, Hasaranga stressed the team's desire to win all three T20 matches and build momentum with a positive mental state, carried over from victories against Zimbabwe and Afghanistan.
+
+"We only have the Bangladesh series before heading to the T20I World Cup. We hope to perform well in this series, win all three games, and enter the T20 World Cup with confidence.”
+
+...
+
+[Data](articles/414518a4.json)
+
+[Extended Data](ext_articles/414518a4.ext.json)
 
 ---
 
@@ -761,6 +863,20 @@ The acceptance of the second phase of applications began on February 15 and 35,9
 [Data](articles/86671e2b.json)
 
 [Extended Data](ext_articles/86671e2b.ext.json)
+
+---
+
+### Demanding salary increase for entire university system
+
+*2024-02-29 18:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Demanding-salary-increase-for-entire-university-system/110-277970) · `en`
+
+The University Trade Union Joint Committee (UTUJC) staged a protest in front of the Education Ministry today over several demands which include a call on the authorities to solve the salary anomalies, to increase their Monthly Compensation Allowance (MCA) and to grant a salary increase to the entire university system. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/040be0ec.json)
+
+[Extended Data](ext_articles/040be0ec.ext.json)
 
 ---
 
@@ -1929,131 +2045,5 @@ The suspect was 52 and 50 years old and hails from Narahenpitiya, police said.
 [Data](articles/b2642fd1.json)
 
 [Extended Data](ext_articles/b2642fd1.ext.json)
-
----
-
-### Arrest
-
-*2024-02-29 14:11:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மயக்க-மருந்தை-கொடுத்த-பெண்-கைது/76-333989) · `ta`
-
-A woman has been arrested by Nuwara Eliya police on Monday (26) for stealing gold jewelery and prostitute telephone from a person who brought to Nuwara Eliya to celebrate New Year.
-
-Police have seized more than 32 lakhs of gold jewelery and smart telephone from the woman who investigated the woman.
-
-Court Judge Prabhu Prabhika Lanka has ordered the arrest of the arrested woman and the seized items to be remanded until March 11 when the court appeared in court on Wednesday (28).
-
-A 45 -year -old woman from Malebe area has brought her friendship with a wealthy man from Colombo and brought her to Nuwara Eliya (31.12.2023) to celebrate New Year 2024.
-
-Those who came to stay in a hostel and enjoy the New Year's arrival. It is noteworthy that the woman who brought the woman was mixed with food and alcohol.
-
-The woman then stole two gold jewelery and expensive smart phones worth more than 32 lakhs.
-
-...
-
-[Data](articles/1178afe2.json)
-
-[Extended Data](ext_articles/1178afe2.ext.json)
-
----
-
-### Chinese-American economic cooperation will bring benefits to both Buddhism
-
-*2024-02-29 14:07:45* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ඇමරිකානු-ආර්ථික-සහයෝගිතා-දෙරටටම-ප්‍රතිලාභ-රැගෙන-එන-බව-චීන-අගමැති-කියයි/11-408353) · `si`
-
-Chinese Prime Minister Lee Chang said the strengthening Chinese and American economic and trade cooperation will bring benefits to both countries. The Prime Minister made this observation Susan P. Susan P.. The delegation led by Mrs. Clark was found in the capital yesterday.
-
-The 45th Anniversary of the Chinese-American Diplomatic Relations. Leader, Lee Chang, said China is ready to promote a standing bilateral relationship with the United States to implement the agreement approached by the two countries. He said the American companies welcome to invest in China. The Prime Minister wrote that the US Chamber of Commerce and entrepreneurs would continue to act in order to develop communication and mutual understanding between the two countries.
-
-Susan P. Ms. Clarke said that the Chinese-American relationship that is very important is none. She also spoke that the US Chamber of Commerce is committed to expanding economic and trade cooperation.
-
-◼️
-
-[Data](articles/f9886ccc.json)
-
-[Extended Data](ext_articles/f9886ccc.ext.json)
-
----
-
-### Sri Lanka honoured with UN award for mangrove ecosystem restoration
-
-*2024-02-29 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97622/sri-lanka-honoured-with-un-award-for-mangrove-ecosystem-restoration) · `en`
-
-Sri Lanka has been lauded with the prestigious World Restoration Flagship Award by the United Nations Environment Programme (UNEP) for its remarkable efforts in rejuvenating mangrove ecosystems.
-
-The announcement was made during the Sixth Session of the United Nations Environment Assembly (UNEA-6), emphasizing Sri Lanka’s pivotal role in pioneering effective solutions for ecosystem revitalization crucial to sustaining both lives and livelihoods nationwide.
-
-At the UNEA-6 conference held at the headquarters of the United Nations Environment Programme (UNEP) in Nairobi, Kenya, Senior Adviser to the President on Climate Change, Mr. Ruwan Wijayawardena, represented Sri Lanka.
-
-Dr. Anil Jasinghe, Secretary to the Ministry of Environment, graciously accepted the UN Flagship Restoration Award on behalf of the nation, the President’s Media Division (PMD) reported.
-
-...
-
-[Data](articles/a725aa3c.json)
-
-[Extended Data](ext_articles/a725aa3c.ext.json)
-
----
-
-### Ronnie Ronnie to Ruhuna
-
-*2024-02-29 13:53:14* · [`adalk`](https://www.ada.lk/breaking_news/රුහුණ-හැදූ-රොනී-රුහුණෙන්ම-අවසන්-ගමන්-යයි/11-408351) · `si`
-
-The remains of the late Ronnan De Mel on February 27 have been placed from the house on the 29th at the Sale of Colombo 03.
-
-President RrN Wickremodel and he was resigned to the body yesterday (28) after the remaining house yesterday (28).
-
-The funeral will be held at the University of Ruhunu University on March 1.
-
-Ronnie de Mel, in 1967, has been proposed to the Parliament for the first time that the University of Ruhuna should be opened in 1967. JR. He took the post of Minister of Finance under the President of Jayewardene.. By 1977, the University of Ruhunu was launched. More than 50,000 students have been conducted from the University of Ruhunu University.
-
-◼️
-
-[Data](articles/e0d08d81.json)
-
-[Extended Data](ext_articles/e0d08d81.ext.json)
-
----
-
-### Monk looking for 15 lakhs of cheating in Korea
-
-*2024-02-29 13:52:05* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-රැකියා-දෙන-බව-පවසා-ලක්ෂ-15ක්-වංචා-කළ-චීවරධාරියෙක්-සොයයි/11-408350) · `si`
-
-The Headquarters Police states that an investigation has been launched to arrest a funding of Rs.
-
-According to police, a resident of Thammannawa, Huriyagaswewa has been obtained on three occasions.The monk was a resident of Makulgaswewa before the monk was taken, the police said.
-
-The suspect is a resident of Rajagiriya, Rajagiriya, a resident of Nelum Place.
-
-The complaint states that the amount of Rs.
-
-A team of Thambuttegama police officers are conducting further investigations to arrest the suspect monk.
-
-◼️
-
-[Data](articles/5fc22483.json)
-
-[Extended Data](ext_articles/5fc22483.ext.json)
-
----
-
-### Former Health Minister Keheliya produced before court
-
-*2024-02-29 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97621/former-health-minister-keheliya-produced-before-court-) · `en`
-
-Former Health Minister Keheliya Rambukwella has been produced before the Maligakanda Magistrate’s Court, a short while ago.
-
-The former Minister is currently under remand custody over the import of substandard human Immunoglobulin vials.
-
-On 15 February, Rambukwella and six others including former Health Secretary Janaka Chandragupta were remanded until 29 February on orders of the Maligakanda Magistrate’s Court.
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-...
-
-[Data](articles/1e53bbb8.json)
-
-[Extended Data](ext_articles/1e53bbb8.ext.json)
 
 ---

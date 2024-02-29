@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 13:02:34**
+As of **2024-02-29 13:17:34**
 
 ## Newspaper Stats
 
-*Scraped **9,985** Articles*
+*Scraped **9,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,55 @@ adaderanalk | 1,202
 tamilmirrorlk | 1,212
 virakesarilk | 1,376
 dailymirrorlk | 1,509
-adaderanasinhalalk | 1,515
+adaderanasinhalalk | 1,516
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,983 (100.0%) of 9,985 articles have been extended.
+9,985 (100.0%) of 9,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### පෞද්ගලික බස් වර්ජනයක්
+### බිරිඳ ගේ මරණයට සැකපිට මාස 10කට පසු සැමියා අත්අඩංගුවට
+
+*2024-02-29 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193950) · `si`
+
+ත්‍රීරෝද රථයෙන් ඇදවැටී හිසට බරපතළ තුවාල ලබා රෝහල් ගතකළ බිරිඳ, මාසයකට පසු මියයාම ඝාතනයක් බවට සැකකර ඇයගේ සැමියාව අත්අඩංගුවට ගැනීමට කළුතර අපරාධ කොට්ඨාශය කටයුතු කර තිබේ.
+
+බදුරලිය, මාරගහදෙණිය ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකුව එසේ අත්අඩංගුවට ගෙන ඇති බව පොලීසිය කීය.
+
+සැකකරු  2023 අප්‍රේල් 10 වනදා රාත්‍රියේ සිය බිරිඳ වන එම්. බී. කසුනි දුලීකා යන 30 හැවිරිදි එක්දරු මව ත්‍රීරෝද රථයකින් ඇදවැටී තුවාල ලැබූ බව සඳහන් කරමින් බදුරලියේ ප්‍රාදේශීය රෝහලට ඇතුළු කර තිබිණි.
+
+ඇයගේ තත්ත්වය බරපතළ වූ බැවින් කොළඹ ජාතික රෝහලට මාරුකර යැවීමෙන් පසු 2023 මැයි මස 7 වනදා ඇය මියගොස් ඇති බව පොලීසිය කීය.
+
+ඇයගේ මරණය සැකසහිත බවට පවුලේ සාමාජිකයින් කළ පැමිණිලි මත කළුතර අපරාධ කොට්ඨාශයේ නිලධාරීන් විසින් සිදුකළ දීර්ඝ විමර්ශනයකින් පසුව සැකකරුව අත්අඩංගුවට ගත්බව වැටලීමට එක්වූ නිලධාරියෙක් පැවසීය.
+
+මොට ආවේගී බලවේගයකින් හිසට සිදුවූ බරපතළ තුවාල හේතුවෙන් එම කාන්තාවගේ මරණය සිදුව ඇති බවට විශේෂඥ අධිකරණයට වෛද්‍ය නිලධාරියාගේ වාර්තාවේ සටහන්ව ඇති බවද පොලීසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/fae752eb.json)
+
+---
+
+### Private bus strike on strike
 
 *2024-02-29 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193949) · `si`
 
-යාපනයේ සිට ගමන් අරඹන දුර ගමන් සහ කෙටි ගමන් සිදුකරන සියලුම පෞද්ගලික බස් රියදුරන් වර්ජනයට එක්වීමත් මගීන් දැඩි අපහසුතාවයකට පත්ව තිබේ.
+Passengers have been severely embarrassed to join the strike from Jaffna to Jaffna and all private bus drivers.
 
-අප වාර්තාකරු සඳහන් කළේ මේ වනවිට පෞද්ගලික බස් රියදුරන් යාපනය ඩිපෝව ඉදිරිපිටට ගොස් උද්ඝෝෂණයක් ද ආරම්භ කර ඇති බවය.
+Our correspondent stated that private bus drivers had gone to the Jaffna Depot in front of Jaffna Depot.
 
-වැඩිදුරත් තොරතුරු වාර්තා වූයේ ස්ථීර බස් නැවතුමක් ඉල්ලා සිටිමින් ඔවුන් මෙලෙස වර්ජනයේ නිරත වන බවටය.
+Further information was reported that they would strive to demand a permanent bus stand and strike them.
 
 ◼️
 
 [Data](articles/fa251667.json)
+
+[Extended Data](ext_articles/fa251667.ext.json)
 
 ---
 
@@ -924,23 +948,25 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### The Kiosk: 'යැපුම් මානසිකත්වයට තිත තබන' පේරාදෙණිය සරසවි සිසුන්ගේ අවන්හල
+### The Kiosk: The Delete University Students' Reswevent at Peradeniya University Students
 
 *2024-02-29 05:47:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72g27m2re4o) · `si`
 
-The Kiosk: 'යැපුම් මානසිකත්වයට තිත තබන' පේරාදෙණිය සරසවි සිසුන්ගේ අවන්හල
+The Kiosk: The Delete University Students' Reswevent at Peradeniya University Students
 
-විශ්වවිද්‍යාලයක අධ්‍යාපනය ලබන අතරතුර අර්ධකාලීන රැකියාවක නිරත වෙමින් තම අධ්‍යාපන කටයුතුවලට මෙන් ම අනෙකුත් අවශ්‍යතා සඳහා ද මුදල් උපයා ගන්නා සිසුන් ලොව සුලබව දක්නට ලැබුණ ද ශ්‍රී ලංකාව තුළ එවැනි පුරුද්දක් එතරම් දක්නට නොලැබෙන බව සමාජ මතය යි.
+While in a part-time job, students who make money earned in a university as well as their education and other needs are found in Sri Lanka, but also in Sri Lanka.
 
-නමුත් රට මුහුණ දී සිටින ආර්ථික අර්බුදය හමුවේ සිසුන් එවැනි අර්ධ කාලීන රැකියා සඳහා දැන් පෙරට ත් වඩා වැඩියෙන් යොමුවන අවස්ථා නැතුවා නොවේ. ඒ සම්බන්ධයෙන් මෑත කාලයේ මාධ්‍ය වාර්තා ද පළ වී තිබෙනු දක්නට ලැබිණි.
+But the students are not more moments than now for such part-time jobs in the face of the economic crisis faced by the country. In the recent past, media reports were also present.
 
-බොහෝ විට පෞද්ගලික ආයතනයක අර්ධ කාලීන රැකියාවක නිරත වෙමින්, කුඩා ව්‍යාපාර කටයුත්තක නියැළෙමින් හෝ උපකාරක පන්ති පවත්වමින් මුදල් උපයන විධි අප දුටුව ද පේරාදෙණිය විශ්වවිද්‍යාලයේ කෘෂිකර්ම පීඨයෙන් ඇසෙන්නේ ඊට හාත්පසින් ම වෙනස් කතාවකි.
+Of course, we have seen a small business and acting in a small business or acting in a small business, and the Faculty of Agriculture of the Peradeniya University is listening.
 
-තම පීඨය තුළ ආර්ථික දුක්ෂරතාවලින් පෙළෙන සිසුන්ට ඔවුන්ගේ වියපැහැදම් කළමනාකරණය කර ගැනීමට උපකාර කිරීමේ අරමුණින් එම පරිශ්‍රය තුළ ම ආරම්භ කළ 'The Kiosk' (ද කියෝස්ක්) අවන්හලේ පළමු සංවත්සරය යෙදී මේ වන විට දින කිහිපයක් ද ගත වී ගොසිණි.
+The 'The Kiosk' (Devi), the first anniversary of the 'The Kiosk' restaurant, started to manage their own premises in the Faculty of the Faculty, had taken the first anniversary of the 'The Kiosk' restaurant.
 
 ...
 
 [Data](articles/cb1a6518.json)
+
+[Extended Data](ext_articles/cb1a6518.ext.json)
 
 ---
 
@@ -2035,23 +2061,5 @@ In the first phase of Aswesuma, the information of 34 lakh family units was veri
 [Data](articles/7153b944.json)
 
 [Extended Data](ext_articles/7153b944.ext.json)
-
----
-
-### Sri Lanka committed to upholding freedom of navigation in Indian Ocean - President
-
-*2024-02-28 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97602/sri-lanka-committed-to-upholding-freedom-of-navigation-in-indian-ocean-president) · `en`
-
-In his address at the Pathfinder Indian Ocean Security Conference phase III held in Colombo today (Feb.28), President Ranil Wickremesinghe emphasized Sri Lanka’s dedication to maintaining a strategic position aimed at ensuring the absence of major power rivalries and upholding freedom of navigation in the Indian Ocean.
-
-The President highlighted that Sri Lanka’s commitment to freedom of navigation has prompted the country to engage in operations as guardians of prosperity in the Red Sea.
-
-He underscored the significance of the Suez Canal, particularly evident during the Six-Day War when its closure for ten years negatively impacted the Colombo port, emphasizing the necessity of ensuring unrestricted navigation.
-
-...
-
-[Data](articles/d9d0e827.json)
-
-[Extended Data](ext_articles/d9d0e827.ext.json)
 
 ---

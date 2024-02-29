@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 08:17:27**
+As of **2024-02-29 08:32:54**
 
 ## Newspaper Stats
 
@@ -26,47 +26,51 @@ adaderanasinhalalk | 1,504
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,933 (100.0%) of 9,935 articles have been extended.
+9,935 (100.0%) of 9,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### ග්‍රාම නිලධාරී සම්මුඛ පරීක්ෂණවලට දින දෙයි
+### Grama Niladhari visits interviews
 
 *2024-02-29 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193938) · `si`
 
-නව ග්‍රාම නිලධාරීවරුන් බඳවා ගැනීමේ සම්මුඛ පරික්ෂණ ලබන මාර්තු 13 වන දින සිට ආරම්භ කරන බව ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පවසයි.
+State Affairs State Minister Ashoka Priyantha says that the recruitment of new Grama Niladharis will be opened from the 13th of March.
 
-රාජ්‍ය අමාත්‍යවරයා පෙන්වා දෙන්නේ, සම්මුඛ පරික්ෂණ කටයුතු 13,14 සහ 15  යන තෙදින තුළ පැවැත්වෙන බවය.
+The State Minister pointed out that the interviews will be held at 13,14 and 15 in three.
 
-පසුගිය දෙසැම්බර් මාසයේ පැවති ග්‍රාම නිලධාරී විභාගයෙන් සමත් 4,232කු සම්මුඛ පරීක්ෂණය සඳහා සහභාගී වීමට නියමිතව තිබේ.
+The 4,232 interview has passed the Grama Niladhari examination in December.
 
-සම්මුඛ පරික්ෂණවලින් අනතුරුව ඉතා කඩිනමින් පවතින පුරප්පාඩු පිරවීමට  කටයුතු කරන බව රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා සඳහන් කළේය.
+Minister of State Ashoka Priyantha said that he would fill the expensive vacancies after interviews.
 
 ◼️
 
 [Data](articles/386a682d.json)
 
+[Extended Data](ext_articles/386a682d.ext.json)
+
 ---
 
-### සෞඛ්‍ය වෘත්තීය සමිති සහ ඇමති අතර තවත් සාකච්ඡාවක්
+### Another discussion between Health Trade Unions and Minister
 
 *2024-02-29 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193937) · `si`
 
-ඩැට් දීමනාව ලබාදීම සම්බන්ධයෙන් සෞඛ්‍ය වෘත්තීය සමිති සහ සෞඛ්‍ය බලධාරීන් අතර ඊයේ (28) පැවති සාකච්ඡා ධනාත්මකව අවසන් වු බව එම වෘත්තීය සමිති පවසයි.
+The trade unions states that the negotiations between health unions and health authorities were positively ended in the discussions between the health unions and health authorities on providing Dat allowance.
 
-සෞඛ්‍ය ලේකම්වරයාගේ ප්‍රධානත්වයෙන් අදාළ දීමනාව සම්බන්ධයෙන් පත් කළ කමිටුව සමග මෙම සාකච්ඡා පැවති බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ කැඳවුම්කරු චානක ධර්මවික්‍රම මහතා පැවසුවේය.
+The convener convener convener of the UPFA, Chanaka Dharmawickrema, said.
 
-එහිදි අදාළ කමිටුව විසින් සකස් කළ තාක්ෂණික වාර්තාව සම්බන්ධයෙන් සාකච්ඡා වී තිබේ.
+The committee has discussed the technical report prepared by the committee.
 
-කෙසේවෙතත් මෙම සාකච්ඡාව ස﻿ඳහා සෞඛ්‍ය අමාත්‍යවරයා එක් නොවු අතර සෞඛ්‍ය අමාත්‍යවරයා සමග සාකච්ඡාවක් හෙට (01) උදෑසන සිදුකරන බවයි සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ කැඳවුම්කරු චානක ධර්මවික්‍රම මහතා පැවසුවේය.
+However, the Health Minister was not one of the discussions and the Health Trade Union Alliance Charaniya UPFA said.
 
-මේ අතර වැටුප් විෂමතාවයේ ඉතිරි තුනෙන් දෙක ලබා ගැනීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කරගනිමින් ගුරු විදුහල්පති වෘත්තීය අරගලයේ දෙවන උද්ඝෝෂණය අද (29) තංගල්ලේ දී පැවැත්වීමට නියමිතව තිබේ.
+Meanwhile, the second agitation on the Guru Principal's trade struggle is scheduled to be held today (29) in Tangalle today (29).
 
 ◼️
 
 [Data](articles/8a9d9f59.json)
+
+[Extended Data](ext_articles/8a9d9f59.ext.json)
 
 ---
 

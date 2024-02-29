@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 00:17:28**
+As of **2024-03-01 00:32:50**
 
 ## Newspaper Stats
 
-*Scraped **10,117** Articles*
+*Scraped **10,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 531
 adalk | 864
 adaderanalk | 1,223
 tamilmirrorlk | 1,230
-virakesarilk | 1,389
+virakesarilk | 1,390
 dailymirrorlk | 1,533
 adaderanasinhalalk | 1,540
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,117 (100.0%) of 10,117 articles have been extended.
+10,117 (100.0%) of 10,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### சபாநாயகரின் தீர்மானம் பிழை என்றால் நீதிமன்றம் செல்லுங்கள் - நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ்
+
+*2024-02-29 23:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177633) · `ta`
+
+புதிய பொலிஸ்மா அதிபர் நியமனம் தொடர்பில் அரசியலமைப்பு பேரவைக்குத் தலைமை தாங்கிய சபாநாயகர் எடுத்த தீர்மானம் பிழை என்றாரல், அது தொடர்பில் நீதிமன்றம் செல்லலாம் என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+
+மகரகம பன்னிபி்டிய பிரதேசத்தில் வியாழக்கிழமை (29) இடம்பெற்ற நிகழ்வொன்றில் கலந்துகொண்டு ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+புதிய பொலிஸ்மா அதிபர் நியமனத்தின்போது சபாநாயகரின் தீர்மானம் தொடர்பாக பலரும் விமர்சித்து வருகின்றனர். ஆனால் அரசியலமைப்பு திருத்தத்தின் மூலம் அரசியலமைப்பு பேரவைக்கு 10 உறுப்பினர்கள் நியமிப்பதற்கு நடவடிக்கை எடுத்தபோதும் சிறிய கட்சிகளை பிரதிநிதித்துவப்படுத்தி அதற்கு நியமிக்கப்பட வேண்டிய பிரதிநிதி இதுவரை பெயரிடப்படாமல் இருப்பதே இந்த பிரச்சினைக்குப் பிரதான காரணமாகும்.
+
+இந்த சிக்கல் காரணமாகச்  சபாநாயகர் நடைமுறைப் பிரச்சினைகளுக்கு முகங்கொடுத்து வருகிறார். அதனால் சபாநாயகரின் தீர்மானத்தில் ஏதாவது சட்டச் சிக்கல் இருப்பதென நினைப்பதாக இருந்தால், அரசியலமைப்பில் சட்ட சிக்கல்களுக்கு பாெருள் கோடல் பெற்றுக்கொள்வதற்கு சிறந்த இடம் உயர்நீதிமன்றமாகும்.
+
+...
+
+[Data](articles/8b0834c7.json)
+
+---
 
 ### House for Maithri;High Court that canceled the resolution
 
@@ -2023,23 +2041,5 @@ He also pointed out that the group will visit the role model of agriculture on b
 [Data](articles/a6541733.json)
 
 [Extended Data](ext_articles/a6541733.ext.json)
-
----
-
-### Lifetime restriction on lawyer business
-
-*2024-02-29 14:15:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணி-தொழில்-செய்வதற்கு-வாழ்நாள்-தடை/175-333991) · `ta`
-
-The Supreme Court has ordered the lawyer Nagananda flags to ban the lawyer.
-
-Priyantha Jayawardena, Prithi Padman Surasena and S. The High Court, comprising Durairaja, was given the verdict on Thursday (29).
-
-The verdict has been issued after investigating the complaint filed against the Nagananda flag. Remble
-
-◼️
-
-[Data](articles/f82a7f4a.json)
-
-[Extended Data](ext_articles/f82a7f4a.ext.json)
 
 ---

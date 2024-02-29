@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 17:17:33**
+As of **2024-02-29 17:34:23**
 
 ## Newspaper Stats
 
-*Scraped **10,037** Articles*
+*Scraped **10,038** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 514
 dailyftlk | 528
 islandlk | 531
 adalk | 851
-adaderanalk | 1,215
+adaderanalk | 1,216
 tamilmirrorlk | 1,224
 virakesarilk | 1,378
 dailymirrorlk | 1,516
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,037 (100.0%) of 10,037 articles have been extended.
+10,037 (100.0%) of 10,038 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,24 @@ The magistrate ordered the suspect to be remanded until the 7th of this month.
 [Data](articles/969eb0ae.json)
 
 [Extended Data](ext_articles/969eb0ae.ext.json)
+
+---
+
+### S.C. Muthukumarana appointed to fill MP seat vacated by Premarathne
+
+*2024-02-29 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97630/sc-muthukumarana-appointed-to-fill-mp-seat-vacated-by-premarathne) · `en`
+
+The Election Commission has informed that S.C. Muthukumarana of the Sri Lanka Podujana Peramuna (SLPP) was appointed to fill the MP seat left vacant due to the resignation of Uddika Premarathne.
+
+The Secretary General of the Parliament, Mrs. Kushani Rohanadeera had informed the Chairman of the Election Commission in writing that the Member of Parliament representing the Anuradhapura Constituency Uddika Premarathne has tendered his letter of resignation as a Member of Parliament and thus a vacancy has been created following the resignation.
+
+On Tuesday (27), the SLPP parliamentarian handed over the letter of resignation to the Deputy General Secretary of Parliament Mr. Chaminda Kularatne, for reasons yet to be made public.
+
+In 2020, the popular actor was announced as a candidate for the 2020 parliamentary election from the Anuradhapura District as a member of the Sri Lanka People’s Freedom Alliance, a political alliance led by the SLPP formed in 2019.
+
+...
+
+[Data](articles/55f47663.json)
 
 ---
 
@@ -104,7 +122,13 @@ Ruhuna Mel was also pioneered by the University of Ruhuna to add significant val
 
 The Supreme Court on Thursday (29 Feb.) quashed the Cabinet decision allowing former President Maithripala Sirisena to occupy his official residence at Paget Road in Colombo 07 even after he left office.
 
-◼️
+Accordingly, the court stated that an order will be issued invalidating the Cabinet decision taken on 15 October 2019 in this regard.
+
+The relevant court order was issued by Supreme Court Justice Priyantha Jayawardena, with the concurrence of Justices Gamini Amarasekera and Kumudini Wickremasinghe, upon consideration of a Fundamental Rights (FR) petition filed by the Centre for Policy Alternatives (CPA) and its Executive Director Dr. Paikiasothy Saravanamuttu.
+
+The petition further sought a court order stating that former President Sirisena had violated several fundamental rights of the public by taking decisions pertaining to his own privileges and rights during his tenure as the President, thereby making him the head of the Cabinet of Ministers.
+
+...
 
 [Data](articles/5e674aca.json)
 
@@ -2039,27 +2063,5 @@ We are well aware of the connection between religion and harmony. We have the ex
 [Data](articles/0966f279.json)
 
 [Extended Data](ext_articles/0966f279.ext.json)
-
----
-
-### Indian ships visit Sri Lanka
-
-*2024-02-29 04:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-கப்பல்கள்-இலங்கைக்கு-வருகை/175-333964) · `ta`
-
-Two of India's coastal security ships have arrived in Galle and Colombo ports.
-
-Samart, a maritime surveillance ship owned by India's Coastal Security Force, and Abhinav, have arrived.
-
-These ships arrived at Galle Port yesterday. The Sri Lankan navy said that these will be held in Galle until the first of March.
-
-Before the ships left the country, they arrive at the Port of Colombo from March 2 to 5.
-
-Indian coastal safety ships will be involved in the process of providing training on fire, damage, and ocean protection during the time of staying in the country.. (A)
-
-◼️
-
-[Data](articles/306030f1.json)
-
-[Extended Data](ext_articles/306030f1.ext.json)
 
 ---

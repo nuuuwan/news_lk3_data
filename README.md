@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 08:51:37**
+As of **2024-02-29 09:02:35**
 
 ## Newspaper Stats
 
-*Scraped **9,937** Articles*
+*Scraped **9,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,193
 tamilmirrorlk | 1,205
 virakesarilk | 1,373
 dailymirrorlk | 1,499
-adaderanasinhalalk | 1,505
+adaderanasinhalalk | 1,506
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,937 (100.0%) of 9,937 articles have been extended.
+9,938 (100.0%) of 9,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Bus toppled by schoolchildren
+
+*2024-02-29 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193940) · `si`
+
+Our correspondent said that a bus carrying a bus traveled in Siyambalanduwa area has toppled.
+
+◼️
+
+[Data](articles/6f20e4c6.json)
+
+[Extended Data](ext_articles/6f20e4c6.ext.json)
+
+---
 
 ### Two persons, including a woman who was called the Italian Dream, Fell
 
@@ -2015,25 +2029,5 @@ The event was organized by Daffodil International University in Bangladesh to pr
 [Data](articles/d83736ee.json)
 
 [Extended Data](ext_articles/d83736ee.ext.json)
-
----
-
-### Ada Derana journalist acclaimed at int’l digital storytelling festival
-
-*2024-02-28 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97596/ada-derana-journalist-acclaimed-at-intl-digital-storytelling-festival-) · `en`
-
-Mr. K.C. Saranga, a seasoned journalist of TV Derana, has emerged triumphant at an international media festival in Bangladesh.
-
-He was named the joint winner of the Independent Category at the first-ever Community Digital Storytelling Festival (CDSTF) held in Dhaka recently, alongside Iga Gudas from Poland.
-
-The short docufilm titled ‘Cool Consolation’ directed by Mr. Saranga, who successfully brings to light the plight of the communities marginalized by urbanization in Sri Lanka, was thus acclaimed at the CDSTF.
-
-The festival, organized by the Department of Journalism, Media and Communication at the Daffodil International University in Bangladesh, aims to promote and celebrate the art of storytelling through the use of portable electronic devices.
-
-...
-
-[Data](articles/5fe189f4.json)
-
-[Extended Data](ext_articles/5fe189f4.ext.json)
 
 ---

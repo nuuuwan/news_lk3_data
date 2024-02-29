@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 09:17:48**
+As of **2024-02-29 09:33:10**
 
 ## Newspaper Stats
 
-*Scraped **9,942** Articles*
+*Scraped **9,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 513
 dailyftlk | 527
 islandlk | 531
-adalk | 841
-adaderanalk | 1,193
-tamilmirrorlk | 1,208
+adalk | 843
+adaderanalk | 1,196
+tamilmirrorlk | 1,209
 virakesarilk | 1,373
 dailymirrorlk | 1,499
 adaderanasinhalalk | 1,507
@@ -26,21 +26,59 @@ adaderanasinhalalk | 1,507
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,938 (100.0%) of 9,942 articles have been extended.
+9,942 (99.9%) of 9,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### දේශබන්දු වැඩ භාරගනී
+### மாணவர்களை ஏற்றிச் சென்ற பஸ் விபத்து - 24 மாணவர்கள் படுகாயம்
+
+*2024-02-29 08:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-ஏற்றிச்-சென்ற-பஸ்-விபத்து-24-மாணவர்கள்-படுகாயம்/175-333979) · `ta`
+
+சியம்பலாண்டுவ பிரதேசத்தில் பாடசாலை மாணவர்களை ஏற்றிச் சென்ற பஸ் கவிழ்ந்து விபத்துக்குள்ளானதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பஸ் ஒன்றே விபத்திற்கு உள்ளானதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+விபத்தில் பாடசாலை மாணவர்கள் 24 பேர் உள்ளிட்ட 36 பேர் காயமடைந்துள்ளனர். R
+
+◼️
+
+[Data](articles/ec5a9861.json)
+
+---
+
+### Deshabandu Tennakoon assumes duties as IGP
+
+*2024-02-29 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97610/deshabandu-tennakoon-assumes-duties-as-igp) · `en`
+
+Deshabandu Tennakoon officially assumed duties as the 36th Inspector General of Police (IGP) of Sri Lanka, a short while ago.
+
+Senior DIG and Acting IGP Tennakoon was appointed as the new IGP on Monday (Feb. 26).
+
+This appointment, in compliance with the stipulations outlined in Articles 41C.(1) and 61E.(b) of the Constitution of the Democratic Socialist Republic of Sri Lanka, has been made pursuant to the authority vested on President Ranil Wickremesinghe, the PMD reported.
+
+Secretary to the President Mr. Saman Ekanayake had presented the official appointment letter to Mr. Deshabandu Tennakoon at the Presidential Secretariat.
+
+Tennakoon had been appointed as the Acting IGP on November 29, 2023.
+
+◼️
+
+[Data](articles/965cbab4.json)
+
+---
+
+### Deshabandu assumes duties
 
 *2024-02-29 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193941) · `si`
 
-පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා මීට සුළු වේලාවකට පෙර සිය ධුරයේ වැඩ භාරගත්තේය.
+Inspector General of Police, Deshabandu Tennakoon assumed duties as a short while ago.
 
 ◼️
 
 [Data](articles/1069ba57.json)
+
+[Extended Data](ext_articles/1069ba57.ext.json)
 
 ---
 
@@ -55,6 +93,24 @@ Our correspondent said that a bus carrying a bus traveled in Siyambalanduwa area
 [Data](articles/6f20e4c6.json)
 
 [Extended Data](ext_articles/6f20e4c6.ext.json)
+
+---
+
+### Trump is disqualified from Illinois ballot, judge rules
+
+*2024-02-29 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97609/trump-is-disqualified-from-illinois-ballot-judge-rules) · `en`
+
+(Reuters) -An Illinois state judge on Wednesday barred Donald Trump from appearing on the Illinois’ Republican presidential primary ballot because of his role in the insurrection at the U.S. Capitol on Jan. 6, 2021, but she delayed her ruling from taking effect in light of an expected appeal by the former U.S. president.
+
+Cook County Circuit Judge Tracie Porter sided with Illinois voters who argued that the former president should be disqualified from the state’s March 19 primary ballot and its Nov. 5 general election ballot for violating the anti-insurrection clause of the U.S. Constitution’s 14th Amendment.
+
+The final outcome of the Illinois case and similar challenges will likely be decided by the U.S. Supreme Court, which heard arguments related to Trump’s ballot eligibility on Feb. 8.
+
+Porter said she was staying her decision because she expected his appeal to Illinois’ appellate courts, and a potential ruling from the U.S. Supreme Court.
+
+...
+
+[Data](articles/d9f47986.json)
 
 ---
 
@@ -119,6 +175,24 @@ Meanwhile, the second agitation on the Guru Principal's trade struggle is schedu
 [Data](articles/8a9d9f59.json)
 
 [Extended Data](ext_articles/8a9d9f59.ext.json)
+
+---
+
+### Showers expected in parts of the island
+
+*2024-02-29 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97608/showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says a few showers will occur in Eastern and Uva provinces and in Polonnaruwa and Matale districts.
+
+Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle, Matara and Nuwara-Eliya districts in the evening or night.
+
+Fairly strong winds about 30-40 kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, North-western, Uva and Eastern provinces and in Hambantota district.
+
+The public is kindly requested to take adequate precautions to minimize the damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ed201828.json)
 
 ---
 
@@ -194,55 +268,63 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### ’அஸ்வெசும பயனாளிகளின் எண்ணிக்கை அதிகரிக்கும்’
+### Increase in the number of beneficiaries
 
 *2024-02-29 04:50:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-பயனாளிகளின்-எண்ணிக்கை-அதிகரிக்கும்/175-333966) · `ta`
 
-அஸ்வெசும இரண்டாம் கட்டத்திற்காக விண்ணப்பித்த பயனாளிகளின் தரவு சரிபார்ப்பு மற்றும் சான்றுபடுத்தல் பணிகள் நிறைவடைந்துள்ளன.  அஸ்வெசும பயனாளிகளின் குடும்ப அலகுகளின் எண்ணிக்கையை ஜூன் மாதம் முதல் 24 லட்சமாக அதிகரிக்க அனைத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்தார்.
+The data verification and certification task of the beneficiaries who applied for the second phase of the Aswesuma.Finance Minister Shehan Semasinghe said that all arrangements have been made to increase the number of family units of Ashemu beneficiaries to 24 lakhs from June.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+He said this while addressing a press conference held at the Presidential Media Center yesterday. As he further stated,
 
-அஸ்வெசும முதல் கட்ட கணக்கெடுப்பில், 34 லட்சம் குடும்ப அலகுகளின் தகவல்கள் சரிபார்க்கப்பட்டன. இதன்படி 19 லட்சம் குடும்பங்கள் பயன்பெற தகுதி பெற்றுள்ளன. இதுவரை பெறப்பட்ட மேல்முறையீடுகள் மற்றும் ஆட்சேபனைகளின் அடிப்படையில், ஜூலை 2024 முதல் தகுதியானவர்களுக்குப் பணம் செலுத்த நலன்புரி நன்மைகள் சபை தயாராக உள்ளது.
+In the first phase of Aswesuma, the information of 34 lakh family units was verified. Accordingly, 19 lakh families have been eligible to benefit. Based on appeals and objections so far, the Welfare Benefits Council is ready to pay for the eligible candidates from July 2024.
 
-...
+We have received 12,27,000 appeals and objections. About 11,97,000 of them have been tested so far. In addition to this amount, Assembly aid is not really available to a group of qualified. As the first application did not provide applications, they said they did not get the benefits. (A)
+
+◼️
 
 [Data](articles/0731304a.json)
 
+[Extended Data](ext_articles/0731304a.ext.json)
+
 ---
 
-### ’நல்லிணக்கத்தின் ஊடாக அபிவிருத்தி’
+### Development through Reconciliation
 
 *2024-02-29 04:45:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லிணக்கத்தின்-ஊடாக-அபிவிருத்தி/175-333965) · `ta`
 
-இனவாதம் மற்றும் மதவாதத்தை ஒதுக்கிய, உலகின் அனைத்து நாடுகளும் விரைவான அபிவிருத்தியை அடைந்துள்ளன. நல்லிணக்கத்தின் ஊடாக அபிவிருத்தியை அடைவதே அரசாங்கத்தின் நோக்கமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+All the countries of the world have achieved rapid development, excluding racism and religiousism. President Ranil Wickremesinghe said the government's aim was to achieve development through reconciliation.
 
-இலங்கை தேசிய சமாதானப் பேரவையின் ஏற்பாட்டில் கொழும்பு பண்டாரநாயக்க சர்வதேச மாநாட்டு மண்டபத்தில் நேற்று நடைபெற்ற 'நல்லிணக்கத்துக்கான மதங்கள்' தேசிய சர்வமத மாநாட்டில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார். அவர் மேலும் உரையாற்றுகையில்,
+The President said this while addressing the National Conference of the Bandaranaike International Conference Hall in Colombo yesterday organized by the National Peace Council of Sri Lanka. When he further addresses,
 
-மதத்திற்கும் நல்லிணக்கத்திற்கும் உள்ள தொடர்பை நாங்கள் நன்கு அறிவோம். எங்களுக்கு இனவாதம் மற்றும் மதவாதம் பற்றிய அனுபவம் உள்ளது. இதன் விளைவாக, நாங்கள் ஒரு பயங்கரமான போரை எதிர்கொண்டோம். யுத்தம் முடிவடைந்த பின்னர் சகவாழ்வு தொடர்பில் எமது கவனம் செலுத்தப்பட்டுள்ளது.
+We are well aware of the connection between religion and harmony. We have the experience of racism and religion. As a result, we faced a terrible war. Our attention has been paid to coexistence after the end of the war.
 
 ...
 
 [Data](articles/0966f279.json)
 
+[Extended Data](ext_articles/0966f279.ext.json)
+
 ---
 
-### இந்திய கப்பல்கள் இலங்கைக்கு வருகை
+### Indian ships visit Sri Lanka
 
 *2024-02-29 04:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-கப்பல்கள்-இலங்கைக்கு-வருகை/175-333964) · `ta`
 
-இந்தியாவின் இரண்டு கரையோர பாதுகாப்பு கப்பல்கள் காலி மற்றும் கொழும்பு துறைமுகங்களுக்கு சுற்றுலா மேற்கொள்வதற்காக வந்துள்ளன.
+Two of India's coastal security ships have arrived in Galle and Colombo ports.
 
-இந்தியாவின் கரையோர பாதுகாப்பு படைப்பிரிவிற்கு சொந்தமான சமர்த் எனும் கடல்சார் கண்காணிப்பு கப்பலும், அபினவ் எனப்படும் அதிவேக கண்காணிப்பு கப்பலும் வந்துள்ளன.
+Samart, a maritime surveillance ship owned by India's Coastal Security Force, and Abhinav, have arrived.
 
-இந்த கப்பல்கள் நேற்று முன்தினம் காலி துறைமுகத்தை வந்தடைந்துள்ளன. இவை மார்ச் முதலாம் திகதி வரை காலியில் தரித்திருக்கவுள்ளன என இலங்கை கடற்படை தெரிவித்துள்ளது.
+These ships arrived at Galle Port yesterday. The Sri Lankan navy said that these will be held in Galle until the first of March.
 
-குறித்த கப்பல்கள் நாட்டிலிருந்து வெளியேறுவதற்கு முன்னதாக, மார்ச் 2 ஆம் திகதி முதல் 5 ஆம் திகதி வரை கொழும்பு துறைமுகத்திற்கு வருகை தரவுள்ளன.
+Before the ships left the country, they arrive at the Port of Colombo from March 2 to 5.
 
-இந்திய கரையோர பாதுகாப்பு கப்பல்கள் நாட்டில் தங்கியிருக்கும் காலப்பகுதியில் தீயணைப்பு, சேதங்களைக் கட்டுப்படுத்துதல், சமுத்திர பாதுகாப்பு உள்ளிட்ட விடயங்கள் தொடர்பான பயிற்சிகளை வழங்குதல் போன்ற செயற்பாடுகளில் ஈடுபடவுள்ளன. (a)
+Indian coastal safety ships will be involved in the process of providing training on fire, damage, and ocean protection during the time of staying in the country.. (A)
 
 ◼️
 
 [Data](articles/306030f1.json)
+
+[Extended Data](ext_articles/306030f1.ext.json)
 
 ---
 
@@ -1286,6 +1368,24 @@ Biyagama police said that the fire broke out this evening near the site where th
 
 ---
 
+### කුලී ඝාතකයන් ගැන පොලීසියෙන් හෙළිදරව්වක්
+
+*2024-02-28 19:44:53* · [`adalk`](https://www.ada.lk/breaking_news/කුලී-ඝාතකයන්-ගැන-පොලීසියෙන්-හෙළිදරව්වක්/11-408338) · `si`
+
+කුලී මුදල් ලබා ගැනීමේ අරමුණින්  මනුෂ්‍ය ඝාතන සිදුකිරීමට සම්බන්ධ වන පිරිස් දිවයිනේ යම් යම් ප්‍රදේශවල සැඟව  සිටින වන බවට තොරතුරු වාර්තා වී ඇතැයි පොලීසිය සඳහන් කරයි.
+
+මේ ආකාරයට මුදල් ලබා ගැනීමේ අරමුණින්  මනුෂ්‍ය ඝාතන සිදුකිරීමට සම්බන්ධ වන පිරිස් අවි පුහුණුව  පවා ලබා තිබෙන  බවට හෙළි වී තිබෙන අතර අපරාධකරුවන් අත්අඩංගුවට ගැනීමට අමතරව අපරාධකරුවන්ට නවාතැන් දෙන පිරිස් හා ගිනි අවි ලබා දෙන පිරිස් ද අත්අඩංගුවට ගැනීමට සැලසුම් කර තිබේ.
+
+ආරක්ෂක අංශවල සේවයකර විශ්‍රාම ගොස් සිටින පිරිස් හා සේවය හැරගොස් සිටින පිරිස් සහ දැනට සක්‍රිය සේවයේ සිටින සමහර පිරිස්ද මෙම කටයුතු සඳහා සම්බන්ධවන බවට සොයාගෙන තිබේ. මේ ආකාරයට අපරාධ සිදුකරන පිරිස් හඹාගෙන ගොස් අත්අඩංගුවට ගැනීමේ විශේෂ වැඩපිළිවෙළක් සකස් කර තිබෙන බවද පොලීසිය සඳහන් කරයි.
+
+පොලිස් විශේෂ කාර්ය බලකා නිලධාරීන් විසින්  අපරාධ කරුවන් හඹාගොස් අත්අඩංගුවට ගැනීමේ මෙහෙයුම් සිදුකරන අතර  මෙම කටයුතු සඳහා බුද්ධි නිලධාරීන්ගේ  සේම අදාළ පොලිස් ස්ථානවල නිලධාරීන්ගේ සහයද ලබා ගනිමින්  තිබේ.
+
+...
+
+[Data](articles/698e98d4.json)
+
+---
+
 ### 2.4 mn family units to receive ’Aswasuma’ in second phase: Minister
 
 *2024-02-28 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2-4-mn-family-units-to-receive-Aswasuma-in-second-phase-Minister/108-277903) · `en`
@@ -1323,6 +1423,22 @@ The Minister made these comments participating at the GET REAL program of Ada De
 [Data](articles/5de41ecc.json)
 
 [Extended Data](ext_articles/5de41ecc.ext.json)
+
+---
+
+### දමිතා හා සැමියා අපේක්ෂිත ඇප ඉල්ලයි
+
+*2024-02-28 19:39:29* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-හා-සැමියා-අපේක්ෂිත-ඇප-ඉල්ලයි/11-408337) · `si`
+
+කොරියාවේ රැකියා ලබා දෙන බව පවසා රුපියල් ලක්ෂ 30ක මුදලක් වංචා කළැයි කියන තමන්ට අපේක්ෂිත ඇප නියම කරන්නැයි ඉල්ලූ ප්රරසිද්ධ රංගන ශිල්පිනියක් වන දමිතා අබේරත්න සහ ඇයගේ සැමියා ලබන මස 06 වැනිදා තෙක් අත් අඩංගුවට නොගන්නා ලෙස රහස් පොලීසියට නියම කළ කොටුව මහේස්ත්රාමත් තිළිණ ගමගේ මහතා එදින අධිකකරණයේ පෙනී සිටින ලෙස නියම කරමින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ අංශයේ ස්ථානාධිපතිවරයාට නොතීසි නිකුත් කළේය.
+
+රහස් පොලීසියට විමර්ශනය කළ හැක්කේ රුපියල් ලක්ෂ  250 කට වඩා වැඩි වංචා සිද්ධියක් සම්බන්ධයෙන් වුවත් රුපියල් ලක්ෂ 30ක මුදලක් වංචා කළැයි කියන තම සේවාදායකයන්ට එරෙහි පැමිණිල්ල පොලිස්පතිවරයා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට යොමු කර ඇතැයි පෙන්වා දෙමින් නීතිඥ අජිත් පතිරණ මහතා කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව මහේස්ත්රාැත්වරයා එලෙස නියම කළේයෙ.
+
+දමිතා අබේරත්න සහ ඇයගේ සැමියා විසින් ඉදිරිපත් කර ඇති මෙම අපේක්ෂිත ඇප අයැදුම් පත්ර්යේ වගඋත්තරකරු වශයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ අංශයේ ස්ථානාධිපතිවරයා නම් කර ඇත.
+
+...
+
+[Data](articles/b66ce1cc.json)
 
 ---
 
@@ -1875,129 +1991,5 @@ Sri Lanka's commitment to preserving and reviving Sri Lanka's marshland environm
 [Data](articles/67510333.json)
 
 [Extended Data](ext_articles/67510333.ext.json)
-
----
-
-### Sri Lanka’s religious leaders need to cultivate harmony: Prez
-
-*2024-02-28 17:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-religious-leaders-need-to-cultivate-harmony-prez-152463/) · `en`
-
-ECONOMYNEXT – The responsibility of cultivating harmony rests significantly on the shoulders of religious leaders, Sri Lanka’s President Ranil Wickremesinghe has said.
-
-“While politicians often pursue power, religious leaders strive to maintain their positions, frequently resorting to the perilous avenues of racism and bigotry. This unfortunate trend has plagued our country since the 1930s, yielding disastrous outcomes,” Wickremesinghe was quoted by his media division as saying at the ‘Religions to Reconcile’ national inter-religious symposium, organized by the National Peace Council of Sri Lanka, held today (28) at the Bandaranaike International Conference Hall (BMICH).
-
-“Our nation has endured the bitter consequences of racism and religious extremism, culminating in a devastating conflict.
-
-...
-
-[Data](articles/28a5e365.json)
-
-[Extended Data](ext_articles/28a5e365.ext.json)
-
----
-
-### It is informed that he is vacancies
-
-*2024-02-28 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193923) · `si`
-
-The Parliament has informed the Elections Commission that there is a vacancies in a post on a post.
-
-MP Udi Premaratne of the Anuradhapura Electorate resigned from the parliament seat from 26, 2024.
-
-As a result, MP Kushani Rohanaharadera has informed the Chairman of the Election Commission
-
-This was made in terms of Section 64 (1) of the Parliament Election Act, No. 1 of 1981.
-
-◼️
-
-[Data](articles/104a028c.json)
-
-[Extended Data](ext_articles/104a028c.ext.json)
-
----
-
-### United Nations reveals about famine
-
-*2024-02-28 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193922) · `si`
-
-The United Nations says that nearly 500,000 people in the Gaza is facing famine due to war.
-
-They have shown that the size is about 4 of the population of Gaza.
-
-It is said that this situation has arisen due to the limitations of the truck access to the Gaza.
-
-The United Nations has revealed that 97 percent of the groundwater in the Gaza collapse are not inappropriate for human consumption.
-
-◼️
-
-[Data](articles/d6aad011.json)
-
-[Extended Data](ext_articles/d6aad011.ext.json)
-
----
-
-### SLFP to support no-faith motion against Speaker
-
-*2024-02-28 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFP-to-support-no-faith-motion-against-Speaker/108-277893) · `en`
-
-Colombo, Feb. 28 (Daily Mirror)- The Sri Lanka Freedom Party (SLFP) has decided to support the proposed no-confidence motion against Speaker Mahinda Yapa Abeywardhane.
-
-The Opposition is planning to bring in a no-confidence motion against the Speaker claiming that the Online Safety Act was passed without considering the recommendations of the Supreme Court.
-
-◼️
-
-[Data](articles/746a1786.json)
-
-[Extended Data](ext_articles/746a1786.ext.json)
-
----
-
-### Sri Lanka rupee closes at 310.00/15 to the US dollar
-
-*2024-02-28 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-310-00-15-to-the-us-dollar-152443/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 310.00/15 to the US dollar Wednesday, from 310.25/50 on Tuesday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.60/80 percent from 10.60/75 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.00 percent up from 11.80/95 percent.
-
-A bond maturing on 15.03.2028 closed stable at 12.00/15 percent.
-
-A bond maturing on 15.07.2029 closed at 12.20/50 percent from 12.25/50 percent.
-
-A bond maturing on 15.05.2030 closed stable at 12.25/40 percent.
-
-A bond maturing on 15.05.2031 closed at 12.55/75 percent down from 12.60/80 percent.
-
-A bond maturing on 01.07.2032 closed at 12.50/90 percent down from 12.55/13.00 percent. (Colombo/Feb28/2024)
-
-◼️
-
-[Data](articles/ccc6284f.json)
-
-[Extended Data](ext_articles/ccc6284f.ext.json)
-
----
-
-### Drinking water is not available;People demonstrate in Lindula
-
-*2024-02-28 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177514) · `ta`
-
-The people of the Greedweston Calcandawatta, which belongs to the Lindulai police division, staged a protest today (28) that the people of Calcantawatta do not get drinking water for their needs.
-
-In 2002, the Minister of National Housing Estate Arumugan Thondaman, through the government's 100 -day program of the government, will be opened at the Talawakelle Ketweston Kalkandawattai hill (Kallar) river from the foothills of the Talawakelle 24 -hour Water Supply Program.
-
-After about 21 years, a program has now begun through the Water Supply and Drainage Board at the foot of the Kalkandawattai mountain (Kallar) Dam.
-
-The people are worried that about 250 families from the Calcutta estate are affected by the project.
-
-The relevant authorities should come forward to provide clean drinking water to 250 families who first live here.
-
-...
-
-[Data](articles/bd83bba5.json)
-
-[Extended Data](ext_articles/bd83bba5.ext.json)
 
 ---

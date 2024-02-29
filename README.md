@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 03:17:44**
+As of **2024-03-01 03:32:52**
 
 ## Newspaper Stats
 
-*Scraped **10,129** Articles*
+*Scraped **10,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 534
 adalk | 864
 adaderanalk | 1,223
 tamilmirrorlk | 1,230
-virakesarilk | 1,392
+virakesarilk | 1,393
 dailymirrorlk | 1,536
 adaderanasinhalalk | 1,540
 
@@ -26,15 +26,31 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,129 (100.0%) of 10,129 articles have been extended.
+10,129 (100.0%) of 10,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
+### மத்திய மாகாணத்தில் மேலதிக வகுப்புக்களுக்கு தடை விதித்திருந்த போதிலும் அதனை மீறிய  அதிபர் உட்பட 58 ஆசிரியர்களுக்கு இடமாற்றம்
+
+*2024-03-01 02:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177636) · `ta`
+
+மத்திய மாகாணத்தில் மாணவர்களுக்கு  கட்டணம் அறவிடப்பட்டு நடத்தப்படும் மேலதிக வகுப்புக்களுக்குத் தடை விதித்திருந்த போதிலும்  அதையும் மீறி சொந்த வகுப்புகளில் படிக்கும் மாணவர்களுக்கு மேலதிக வகுப்புகளை ஏற்பாடு செய்யதாகக் கூறும் மேற்படி மாகாணத்தில் உள்ள பாடசாலைகளின் அதிபர் உட்பட 58 ஆசிரியர்களை வேறு பாடசாலைகளுக்கு இடமாற்றம் செய்ய மாகாண கல்வி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+
+கினிகத்தேன ஆரம்பப் பாடசாலையொன்றின் அதிபர் ஒருவர், ஆசிரியர்களுக்கு வழங்கிய சுற்றறிக்கை தமக்கு செல்லுபடியாகாது எனக் கூறி, பணத்திற்காக தனது பாடசாலையின் பிள்ளைகளுக்கு மேலதிக வகுப்புகளை நடாத்தியுள்ளதாகவும்,  மேலும்  மற்றுமொருவரும் அது தொடர்பில் விசாரணை நடத்தப்பட்டு வருவதாகவும் மாகாண கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+மத்திய மாகாண சபையின் கீழ் இயங்கும் கண்டி மற்றும் அதனை அண்மித்த பிரதேசங்களில் உள்ள பிரபல பாடசாலைகளின் ஆசிரியர்கள் சிலருக்கு கிடைத்த தகவலின் அடிப்படையில் மாகாண கல்விச் செயலாளர் மேனகா ஹேரத்தின் பணிப்புரையின் பேரில் விசேட சுற்றிவளைப்பு பிரிவு ஒன்றும் ஸ்தாபிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/ea168f5e.json)
+
+---
+
 ### Temporarily stopped Northern Province Private Bus Owners
 
-*2024-03-01 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177635) · `ta`
+*2024-03-01 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177635) · `ta`
 
 A discussion was held with the Private Bus Undership Association, which launched a boycott of a boycott at the Governor's Secretariat on Thursday evening, headed by Governor of the Northern Province BSM Charles.
 
@@ -1973,21 +1989,5 @@ As a gesture of respect and tradition, the new Inspector General of Police prese
 [Data](articles/ffc8998f.json)
 
 [Extended Data](ext_articles/ffc8998f.ext.json)
-
----
-
-### ACMC MP’s sacking from party is unlawful, court rules
-
-*2024-02-29 15:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97624/acmc-mps-sacking-from-party-is-unlawful-court-rules-) · `en`
-
-The Supreme Court has ruled that the decision to expel Parliamentarian S. M. M. Muszhaaraff from the All Ceylon Makkal Congress (ACMC) is unlawful.
-
-The three-member Supreme Court judge bench led by Justice Priyantha Jayawardena delivered this ruling when a petition filed by MP Muszhaaraff against the party’s decision to expel him, was taken up before the courts today (29).
-
-◼️
-
-[Data](articles/284b6f1b.json)
-
-[Extended Data](ext_articles/284b6f1b.ext.json)
 
 ---

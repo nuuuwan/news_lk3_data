@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 16:32:54**
+As of **2024-02-29 16:48:32**
 
 ## Newspaper Stats
 
-*Scraped **10,032** Articles*
+*Scraped **10,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,71 @@ adaderanalk | 1,213
 tamilmirrorlk | 1,223
 virakesarilk | 1,378
 dailymirrorlk | 1,516
-adaderanasinhalalk | 1,526
+adaderanasinhalalk | 1,528
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,013 (99.8%) of 10,032 articles have been extended.
+10,034 (100.0%) of 10,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### கங்கையில் யாரும் குளிக்க வேண்டாம்
+### Government officials is essential to succeed in the relief and heritage - President
+
+*2024-02-29 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193963) · `si`
+
+President Ranil Wickremesinghe says that all the eligible relief will be provided with immediate relief to beneficiaries.
+
+The President added that the support of public officers is essential to provide the people to the public expeditiously.
+
+The President was speaking at a discussion held at the Wilgamuwa Divisional Secretariat auditorium regarding the relief program.
+
+◼️
+
+[Data](articles/ffcd841a.json)
+
+[Extended Data](ext_articles/ffcd841a.ext.json)
+
+---
+
+### The day of mourning tomorrow
+
+*2024-02-29 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193962) · `si`
+
+The funeral of the late Finance Minister Ronnayaka Mal has declared a grief for the Southern Province tomorrow (01).
+
+Accordingly, all government agencies in the Southern Province have also requested the National Flag tomorrow.
+
+Ronn Dene Dene de Nonu The Mal, who was elected to Parliament in the Devinuwara seat in 1977, was appointed as the Minister of Finance.
+
+He is a tremendous politician who pioneered the introduction of the open economy to the country.
+
+Ruhuna Mel was also pioneered by the University of Ruhuna to add significant value to the Southern Province.
+
+◼️
+
+[Data](articles/818aca19.json)
+
+[Extended Data](ext_articles/818aca19.ext.json)
+
+---
+
+### Don't take a bath in the Ganges
 
 *2024-02-29 16:02:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்கையில்-யாரும்-குளிக்க-வேண்டாம்/175-334001) · `ta`
 
-இந்தியாவின் புனித நதிகளில் ஒன்று கங்கை. இமயமலையில் இந்த நதி உருவாகி பல மாநிலங்கள் வழியாக கடந்து சென்று மேற்கு வங்க மாநிலத்தில் கடலில் கலக்கிறது. கங்கை நதியில் நீராடினால் அனைத்து பாவங்களும் போகும் என்பது இந்துக்களின் நம்பிக்கை. இதனால் ஒவ்வொரு ஆண்டும் பல கோடி பேர் கங்கை நதியில் நீராடுகிறார்கள்.
+Ganga is one of the holy rivers of India. The river is formed in the Himalayas and crosses many states and mixes with the sea in West Bengal. It is the belief of the Hindus that all sins will go away if you swim in the river Ganga. As a result, millions of people are swimming in the Ganga River every year.
 
-இந்நிலையில் மேற்கு வங்கத்தில் பாயும் கங்கை ஆறு பொதுமக்கள் குளிக்க தகுதியில்லாத இடமாக மாறியுள்ளதாக தேசிய பசுமைத் தீர்ப்பாயம் அறிவித்துள்ளது. மேலும், ஒருநாளைக்கு 258 மில்லியன் லிட்டர் சுத்திகரிக்கப்படாத கழிவுநீர் நேரடியாக ஆற்றில் கலக்கிறது. இதனால் பாக்டீரியா வைரஸ் பரவல் அதிகம் இருப்பதால் பொதுமக்கள் யாரும் கங்கை நதியில் குளிக்க வேண்டாம் என எச்சரிக்கை விடுத்துள்ளது.
+The National Green Tribunal has announced that the Ganges in West Bengal have become a place where six civilians have become an ineligible place.. Also, 258 million liters of refined sewage per day mix directly into the river. As a result of the spread of bacterial virus, the public has warned that no one should bathe in the Ganges River.
 
 ◼️
 
 [Data](articles/a1c700a6.json)
+
+[Extended Data](ext_articles/a1c700a6.ext.json)
 
 ---
 
@@ -62,55 +104,67 @@ The Central Bank officials are also expected to go before the Public Finance Com
 
 [Data](articles/c44bc41d.json)
 
+[Extended Data](ext_articles/c44bc41d.ext.json)
+
 ---
 
-### நாயால் அடித்த அதிர்ஷ்டம்
+### Lucky with the dog
 
 *2024-02-29 15:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நாயால்-அடித்த-அதிர்ஷ்டம்/50-333999) · `ta`
 
-தெற்கு சீனாவின் குவாங்டாங் நகரில், நடை பயிற்சி சென்று கொண்டிருந்தார் லின் என்ற பெண். அவர் கையில் பிடித்திருந்த நாய், ஒரு கடைக்கு அருகே வந்தபோது திடீரென அவரது பிடியில் இருந்து நழுவி கடைக்குள் ஓடியது. அங்கு வைக்கப்பட்டிருந்த லொட்டரி டிக்கெட் ஒன்றை கவ்விப்பிடித்தது. இதையடுத்து அவர் அதை வாங்க வேண்டிய கட்டாயம் ஏற்பட்டது.
+Lynn, a woman who was going to training in Guangdong, southern China. The dog he caught in his hand, suddenly slipped from his grip and ran into the shop. The lottery tickets that were placed there were. He was forced to buy it.
 
-இறுதியில் அந்த சுரண்டல் லொட்டரிக்கு 139 டொலர் பரிசு விழுந்திருந்தது. இதனால் லின் மிகவும் மகிழ்ச்சி அடைந்தார். இதனால் மறுநாள் அவராகவே தனது நாயை மீண்டும் கடைக்கு அழைத்துச்சென்று ஒரு லொட்டரியை கவ்வச்செய்தார்.
+Eventually the exploitation Lotter had fallen $ 139 prize. Thus Lynn was very happy. The next day, he took his dog back to the store and made a lottery.
 
-அப்போது, அவருக்கு 4 டொலர் பரிசு விழுந்தது. அதிர்ஷ்டத்தை தேடித்தந்த நாய்க்கு பரிசுத்தொகையில் ஒரு பகுதிக்கு உணவு வாங்கிக் கொடுத்ததாக லின் தெரிவித்துள்ளார்.
+By then, he had a $ 4 prize. Lynn said he had bought a part of the gift for a dog who was looking for luck.
 
 ◼️
 
 [Data](articles/ca944b30.json)
 
+[Extended Data](ext_articles/ca944b30.ext.json)
+
 ---
 
-### මෛත්‍රීට නිවසක් දීමට අමාත්‍ය මණ්ඩලය ගත් තීරණය බලරහිත කරයි
+### The Cabinet decision to provide house to Maithri
 
 *2024-02-29 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193961) · `si`
 
-මෛත්‍රිපාල සිරිසේන මහතා ජනාධිපතිවරයා වශයෙන් කටයුතු කරමින් සිටියදී පදිංචිව සිටි කොළඹ, මහගමසේකර මාවතේ පිහිටි නිවස ඔහු විශ්‍රාම යාමෙන් පසුවත් ඔහුටම ලබාදීමට අමාත්‍ය මණ්ඩලය ගනු ලැබූ තීරණයෙන් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වීම සිදුවන බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.
+The Supreme Court has decided that Maithripala Sirisena's residence at Mahathinda Mawatha, Colombo after his retirement, he had decided violated fundamental human rights.
 
-ඒ අනුව අදාළ නිවස ලබාදීම සඳහා 2019 වසරේ ඔක්තෝම්බර් මස 15 වනදා ගනු ලැබූ අමාත්‍ය මණ්ඩල තීරණය බලරහිත කිරීමට ශ්‍රේෂ්ඨාධිකරණය  නියෝග කර ඇත.
+The Supreme Court has ordered the Cabinet decision on October 15, 2019 to provide the house.
 
-විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ එහි විධායක අධ්‍යක්ෂ ආචාර්ය පාක්‍යසෝති සරවනමුත්තු මහතා විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාග කළ ගාමිණී අමරසේකර සහ කුමුදුනී වික්‍රමසිංහ යන විනිසුරුවරුන්ගේ එකඟත්වය සහිතව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රියන්ත ජයවර්ධන මහතා විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කර තිබේ.
+The decision has been announced by Supreme Court Judge Priyantha Jayawardena with the agreement of Judges Gamini Amavanamuttu, who was filed by the CPA and its Executive Director Dr. Payazotha Saravanamuttu.
 
-මෛත්‍රිපාල සිරිසේන මහතා අමාත්‍ය මණ්ඩලයේ ප්‍රධානියා වශයෙන් කටයුතු කරමින් තමන්ට හිමි වරප්‍රසාද පිළිබඳ තීන්දු තීරණ ගැනීම තුළින් ඔහු මහජන විශ්වාසය කඩකර ඇති බවත් ඒ තුළින් ඔහු මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇති බවට තීන්දු කරන ලෙස ඉල්ලා මෙම පෙත්සම ඉදිරිපත් කර ඇත.
+Maithripala Sirisena has been violated by the Head of the Cabinet and the decision of his own privileges, and this petition has been submitted to decide that he has violated basic human rights.
+
+Priyantha Jayewardene referees expressing the verdict, he said that former President Maithripala Sirisena, the head of the Cabinet, was completely contrary to the law.
+
+The judge is contrary to the law to reserve the reservation of former President Sirisena before his retirement and reservation through the Cabinet of Ministers.
 
 ...
 
 [Data](articles/c6e5b7a9.json)
 
+[Extended Data](ext_articles/c6e5b7a9.ext.json)
+
 ---
 
-### එස්. සී මුතුකුමාරණ තෝරාගත් බව මැතිවරණ කොමිසම දැනුම්දෙයි
+### S. The Elections Commission is noticed that C Muthukumarana Selected
 
 *2024-02-29 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193960) · `si`
 
-එස්. සී මුතුකුමාරණ මහතා පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස තෝරා පත්කර ගන්නා ලද බව මැතිවරණ කොමිෂන් සභාව දැනුම්දෙයි.
+S. The Elections Commission is notified that Mr. C Muthukumarana was elected as a Member of Parliament.
 
-උද්දික ප්‍රේමරත්න මහතා පසුගියදා සිය පාර්ලිමේන්තු මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්විය.
+Udakika Premaratne resigned in his post recently.
 
-ඊට අදාළ පුරප්පාඩු වූ මන්ත්‍රී ධුරය පිරවීම සඳහා මෙම නව පත්කිරීම සිදුකෙරෙනු ඇත.
+The new appointment will be made to fill the vacant seat.
 
 ◼️
 
 [Data](articles/0915ac41.json)
+
+[Extended Data](ext_articles/0915ac41.ext.json)
 
 ---
 
@@ -134,25 +188,33 @@ The Y-on-Y inflation of Food Group was recorded at 3.5% in February, showing a m
 
 ---
 
-### මව් ඇකයෙන් ලිස්සා පාර මැදට වැටුණු බිළිඳාට සිදුවූ දේ
+### What happened to the baby fell into the mother to
 
 *2024-02-29 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193959) · `si`
 
-මාසයක් වයසැති කුඩා බිළිඳෙකු මවගේ අතින් ලිස්සා ගොස් හැටන් කොළඹ ප්‍රධාන මාර්ගයේ වැටී සිටියදී පොලීසියට හමුවූ පුවතක් කිතුල්ගල ප්‍රදේශයෙන් වාර්තාවෙයි.
+A month old bullem slipped from the mother, reports at the Kitulgala while he had fallen to the Hatton Colombo main road.
 
-මීගමුව ප්‍රදේශයේ සිට ත්‍රිරෝද රථ දෙකකින් පවුල් දෙකක් කතරගම හරහා නුවරඑළියේ සංචාරයක නිරතව නැවත මීගමුව බලා යමින් සිටියදී ඉන් එක් ත්‍රිරෝද රථයක සිටි මවගේ අතේ සිටි බිළිඳෙකු කිතුල්ගල ගුරුමැටිය ප්‍රදේශයේදී මෙලෙස ලිස්සා ගොස් මාර්ගයට වැටී ඇති බව පොලීසිය පවසයි.
+Two families from Negombo-three wheelers to Negombo to visit Nuwara Eliya via Kitulgala corulence have fallen into the road, police said.
 
-එම අවස්ථාවේදී මවට නින්ද ගොස් සිටින්නට ඇති බවටයි පොලීසිය සැකපළ කරයි
+Police do not have to sleep at that time
 
-ඊයේ රාත්‍රී 11.35ට පමණ මෙම සිදුවීම වී ඇති අතර එම මාර්ගයේම ත්‍රිරෝද රථයට පසුපසින් ගමන් කරමින් තිබූ මෝටර් රථයක් මාර්ගයේ වැටී සිටි බිළිඳා ව දැක නැවත හරවාවිත් පරීක්ෂාවට ලක්කර තිබේ.
+The incident had occurred at around 11.35 pm last night and the car was on the bunch of the road and revived the influx of the road.
 
-අනතුරුව එම මෝටර් රථයේ පුද්ගලයින් කුඩා බිළිඳාව කිතුල්ගල පොලීසිය වෙත රැගෙන ගොස් ඇති අතර අනතුරුව පොලීසිය විසින් කඩිනමින් බිළිඳාව කිතුල්ගල රෝහලට ඇතුළත් කර තිබේ.
+The victims were taken to Kitulgala Police, who were later taken to Kitulgala Police.
 
-පසුව දරුවා නොමැති බව දැනගත් ත්‍රිරෝද රථයේ ගමන්කළ පිරිස නැවත හරවාගොස් මාර්ගය සෝදිසි කරමින් ගමන්කරමින් සිටියදී දරුවා රෝහල්ගතකළ බව ඔවුන්ට දැනගන්නට ලැබී තිබේ.
+Later, they were aware that the child was hospitalized while he was rescuing the vacant people in the three-wheeler.
 
-...
+The mother and others had gone to the Kitulgala hospital and the child had been admitted to the Karawanella Hospital with the child.
+
+The baby was taken to the police, a resident of Matara, a resident of Matara.
+
+They are to be taken to the Kitulgala Police Station today and continue legal action.
+
+◼️
 
 [Data](articles/b5f84c64.json)
+
+[Extended Data](ext_articles/b5f84c64.ext.json)
 
 ---
 
@@ -178,87 +240,97 @@ The new MOU between the Sri Lanka Navy and the U.S. Department of Energy’s Nat
 
 ---
 
-### උද්ධමනය පහළට
+### Inflation down
 
 *2024-02-29 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193958) · `si`
 
-කොළඹ පාරිභෝගික මිල දර්ශකය අනුව 2024 පෙබරවාරි මාසයේදී මෙරට උද්ධමනය සියයට 5.9ක් දක්වා අඩුවී තිබේ.
+In February 2024, the country's inflation has fallen to 5.9 percent respectively by the Colombo Consumer Price Index.
 
-මේ අතර, ආහාර උද්ධමනය 2024 ජනවාරි මාසයේදී 3.3%ක් ලෙස සටහන් වූ අතර එම අගය පෙබරවාරි මාසයේදී 3.5%ක් ලෙස ඉහළ ගොස් තිබේ.
+In the meantime, food inflation recorded as 3.3% in January 2024, with 3.5% in February.
 
 ◼️
 
 [Data](articles/fe3225e9.json)
 
+[Extended Data](ext_articles/fe3225e9.ext.json)
+
 ---
 
-### சுமந்திரனின் அடிப்படை உரிமை மீறல் மனு தள்ளுபடி
+### Sumanthiran's fundamental rights violation petition dismissed
 
 *2024-02-29 15:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரனின்-அடிப்படை-உரிமை-மீறல்-மனு-தள்ளுபடி/175-333998) · `ta`
 
-நிகழ்நிலை பாதுகாப்பு சட்டமூலத்திற்கு சபாநாயகர் அனுமதிப் பத்திரம் வழங்கியதை எதிர்த்து பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தாக்கல் செய்த அடிப்படை உரிமை மனு உயர் நீதிமன்றத்தால் தள்ளுபடி செய்யப்பட்டுள்ளது.
+The Supreme Court has dismissed the fundamental rights petition filed by MP MA Sumanthiran challenging the Speaker's permit to the Celebrity Protection Bill.
 
-நீதியரசர்கள் பிரியந்த ஜயவர்தன, ஷிரான் குணரத்ன மற்றும் அச்சல வெங்கப்புலி ஆகியோர் அடங்கிய உயர் நீதிமன்ற மூவரடங்கிய நீதிபதிகள் குழாம், சட்டமா அதிபர் சஞ்சய் ராஜரத்தினம் எழுப்பிய பூர்வாங்க ஆட்சேபனைகளை கருத்தில் கொண்டு மனுவைத் தொடர்வதற்கு அனுமதி வழங்க மறுத்துள்ளது.
+A group of judges comprising Justices Priyantha Jayawardena, Shiran Gunaratne and Achala Venkapuli have refused to grant permission to continue the petition in view of the preliminary objections raised by Attorney Sanjay Rajaratnam.
 
-பாராளுமன்றத்தால் நிறைவேற்றப்பட்ட சட்டமூலத்திற்கு சபாநாயகர் சான்றளித்ததைத் தொடர்ந்து சட்டமியற்றும் விவகாரங்களில் தலையிட உயர் நீதிமன்றத்திற்கு அதிகாரம் இல்லை என சட்டமா அதிபர் ஆட்சேபனைகளை எழுப்பினார்.
+The Attorney General has raised objections that the Supreme Court has no authority to intervene in legislative issues following the Speaker's certification of the Bill passed by Parliament.
 
-ஒன்லைன் பாதுகாப்புச் சட்டத்திற்கு சபாநாயகரின் சான்றிதழ் சட்டத்தில் செல்லாது என அறிவிக்குமாறு சுமந்திரன் தனது மனுவில் கோரியுள்ளார்.
+In his petition, Sumanthiran has requested the Speaker's Certificate of Certificate to be declared in the ONLINE Security Act.
 
 ...
 
 [Data](articles/db6100df.json)
 
+[Extended Data](ext_articles/db6100df.ext.json)
+
 ---
 
-### புதிய பொலிஸ்மா அதிபர் ஜனாதிபதியைச் சந்தித்தார்
+### The new police chief met the president
 
 *2024-02-29 15:25:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பொலிஸ்மா-அதிபர்-ஜனாதிபதியைச்-சந்தித்தார்/175-333997) · `ta`
 
-புதிய பொலிஸ்மா அதிபராக நியமனம் பெற்றிருக்கும் தேசபந்து தென்னகோன் இன்று (29) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவைச் சந்தித்து கலந்துரையாடினார்.
+Tennakoon, who has been appointed as the new Inspector General of Police, met with President Ranil Wickremesinghe at the Presidential Office today (29).
 
-நாட்டின் 36 ஆவது பொலிஸ்மா அதிபராக கடமைகளைப் பொறுப்பேற்றுக் கொண்டுள்ள நிலையிலேயே பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் ஜனாதிபதியைச் சந்தித்தார்.
+The President of the Police, Deshabandu, met with the President of the country as the country's 36th police chief.
 
-புதிய பொலிஸ்மா அதிபருக்கு வாழ்த்துக் கூறிய ஜனாதிபதி ரணில் விக்ரமசிங்கஇ அவருடன் சிநேகபூர்வமாக கலந்துரையாடினார்.
+President Ranil Wickremesinghe, who congratulated the new police chief, discussed with him.
 
 ◼️
 
 [Data](articles/8e3c5c1c.json)
 
+[Extended Data](ext_articles/8e3c5c1c.ext.json)
+
 ---
 
-### ”நியமிக்கும் முன் அவருக்கெதிரான வழக்குகளை பரிசீலித்திருக்கலாம்”
+### “Consistent with him may have been considered before appointing"
 
 *2024-02-29 15:24:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நியமிக்கும்-முன்-அவருக்கெதிரான-வழக்குகளை-பரிசீலித்திருக்கலாம்/175-333996) · `ta`
 
-தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக நியமிக்கும்போது அவருக்கு எதிராக நிலுவையில் உள்ள நீதிமன்ற வழக்குகள் பரிசீலிக்கப்பட்டிருக்க வேண்டும் என்று ஐக்கிய மக்கள் சக்தி கட்சி இன்று குற்றம் சாட்டியுள்ளது.
+The United People's Power Council today accused the patriarchal court cases of being considered against him when he was appointed as the Inspector General of Police.
 
-"இலங்கை வரலாற்றில் முதன்முறையாக பல நீதிமன்ற வழக்குகளை எதிர்கொண்டுள்ள ஒருவர் பொலிஸ் மா அதிபராக நியமிக்கப்பட்டுள்ளார். நிலுவையில் உள்ள நீதிமன்ற வழக்குகளை இந்த நியமனத்தை செய்யும் போது பரிசீலித்திருக்க வேண்டும்" என SJB பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார, இன்று அறிக்கையொன்றின் மூலம்  தெரிவித்துள்ளார்.
+“For the first time in the history of Sri Lanka. The pending court cases should have been considered when making this appointment, ”SJB General Secretary Ranjith Mathuma Bandara said in a statement today.
 
-"அரகலயவின் போது ஜனாதிபதி மாளிகையில் காணப்பட்ட பணம் காணாமல் போனமை தொடர்பில் தற்போதைய பொலிஸ் மா அதிபர் சந்தேக நபராக குற்றம் சாட்டப்பட்டுள்ளார். ஊடகவியலாளர்களை துன்புறுத்தியதாகக் கூறப்படும் மனித உரிமை மீறல் மனுக்கள் அவருக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ளன," என்று அவர் மேலும் கூறினார்.
+“The current police chief has been accused of disappearance at the president's palace during the Arakalaya. Human rights violation petitions have been filed against him, ”he added.
 
 ◼️
 
 [Data](articles/c4e2f583.json)
 
+[Extended Data](ext_articles/c4e2f583.ext.json)
+
 ---
 
-### உலகளாவிய ரீதியில் இலங்கை முன்னணி நாடாக அங்கீகரிப்பு
+### Recognition of Sri Lanka as the leading country globally
 
 *2024-02-29 15:21:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகளாவிய-ரீதியில்-இலங்கை-முன்னணி-நாடாக-அங்கீகரிப்பு/175-333995) · `ta`
 
-ஐக்கிய நாடுகளின் சுற்றாடல் பேரவையின் ஆறாவது அமர்வில் (UNEP), சதுப்பு நிலங்களை மறுசீரமைப்பதில் உலகளாவிய ரீதியில் இலங்கை முன்னணி நாடாக அங்கீகரிக்கப்பட்டது.
+In the sixth session of the United Nations Environmental Council (UNEP), Sri Lanka was recognized globally in the restoration of swamps.
 
-கென்யாவின் நைரோப் நகரில் அமைந்திருக்கும் ஐக்கிய நாடுகள் சுற்றுச்சூழல் வேலைத் திட்டத்தின் (UNEP) தலைமையகத்தில் நடைபெற்ற இந்த மாநாட்டில், இலங்கையைப் பிரதிநிதித்துவப்படுத்தி, காலநிலை மாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவான் விஜயவர்தன கலந்துகொண்டார்.
+The conference was held at the headquarters of the United Nations Environmental Program (UNEP) in Nairop, Kenya, representing Sri Lanka and the President's Senior Advisor to Climate Change Ruwan Wiwan Wiwanwardhana.
 
-இதன்போது இலங்கைக்கான விருதை சுற்றாடல் அமைச்சின் செயலாளர் கலாநிதி அனில் ஜாசிங்க பெற்றுக் கொண்டார்.
+Dr. Anil Jasinghe, Secretary of the Ministry of Environment, received the award for Sri Lanka.
 
-காலநிலை மாற்றம், உயிரியல் பல்வகைத்தன்மை இழப்பு மற்றும் சுற்றாடல் மாசு ஆகிய மூன்று நெருக்கடிகளுக்கும் தீர்வு காண்பதற்கான உலகளாவிய ஒத்துழைப்பின் முக்கியத்துவத்தை வலியுறுத்தும் வகையில் ஐக்கிய நாடுகள் சபையின் சுற்றாடல் அமைப்பின் ஆறாவது அமர்வு நடைபெற்றது.
+The sixth session of the United Nations Environment Organization was held to emphasize the importance of global cooperation to address the three crises of climate change, loss of biology and environmental pollution.
 
-அமர்வை உத்தியோகபூர்வமாக ஆரம்பிக்கும் முகமாக நிரந்தரப் பிரதிநிதிகளின் திறந்த குழு கூட்டம் நடைபெற்றிருந்த நிலையில், இதன்போது சதுப்புநில மறுசீரமைப்பு முயற்சிகளில் இலங்கையை உலகளாவிய முன்மாதிரியாக எடுத்துக் கொள்ள முடியும் என சுட்டிக்காட்டப்பட்டது.
+It was pointed out that Sri Lanka could be taken as a global role model in the restoration efforts of the permanent representatives to officially launch the session.
 
 ...
 
 [Data](articles/993ace3c.json)
+
+[Extended Data](ext_articles/993ace3c.ext.json)
 
 ---
 
@@ -281,6 +353,8 @@ A visit to one of our flagship projects in Sri Lanka, the Ceylon German Technica
 ...
 
 [Data](articles/c0c8084d.json)
+
+[Extended Data](ext_articles/c0c8084d.ext.json)
 
 ---
 
@@ -320,21 +394,23 @@ The three-member Supreme Court judge bench led by Justice Priyantha Jayawardena 
 
 ---
 
-### ”சபாநாயகர் அரசியலமைப்பை மீறிவிட்டார்”
+### “The Speaker has violated the Constitution”
 
 *2024-02-29 15:04:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகர்-அரசியலமைப்பை-மீறிவிட்டார்/175-333994) · `ta`
 
-தேசபந்து தென்னகோனை பொலிஸ் மா அதிபராக நியமித்த போது சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன அரசியலமைப்பை மீறி செயற்பட்டதாகக் கூறி, ஐஜிபியின் இந்த நியமனத்திற்கு எதிராக உயர்நீதிமன்றத்தை நாட உள்ளதாக தேசிய மக்கள் சக்தியின் பொதுச் செயலாளர் டில்வின் சில்வா தெரிவித்துள்ளார்.
+Speaker Mahinda Yapa Abeywardena has called for the Supreme Court against the appointment of the IGP, saying that the National People's Power General Secretary Dilvin Silva has said that when he appointed nationality as the Inspector General of Police, Speaker Mahinda Yapa Abeywardena said.
 
-அரசியலமைப்பு பேரவையின் தீர்மானம் ஜனாதிபதிக்கு அறிவிக்கப்பட்ட பின்னரும் தேசபந்து தென்னகோனை பொலிஸ் மா அதிபராக நியமிப்பதற்கு சபாநாயகர் அனுமதி வழங்கியதாக அவர் செய்தியாளர் சந்திப்பில் தெரிவித்தார்.
+He said at a press conference that the Speaker had granted permission to appoint the President of the Patriotic Council even after the decision of the Constitutional Convention was announced to the President.
 
-”தேசபந்து தென்னகோனை ஐஜிபியாக நியமித்த விவகாரத்தில் சபாநாயகரின் நடவடிக்கை அரசியல் சாசனத்தை மீறும் செயலாகும். சமநிலை ஏற்பட்டால் மட்டுமே சபாநாயகர் வாக்களிக்க முடியும். அரசியலமைப்பு சபைக் கூட்டத்திலும் சபாநாயகர் வாக்களிக்கவில்லை. சபையின் முடிவு ஜனாதிபதிக்கு அறிவிக்கப்பட்ட பின்னர் அவர் தனது ஒப்புதலை அளித்துள்ளார் " என்று அவர் கூறினார்.
+“The Speaker's action on the issue of the appointment of Patriotic Tennakon as IGP is a violation of the Constitution. The Speaker can vote only in the event of a balance. The Speaker did not vote at the Constitutional Council meeting. He has given his approval after the decision of the council has been announced. ”
 
-பொலிஸ் மா அதிபரை நியமிப்பதில் சிக்கல் எழுந்துள்ளதாகவும், அதனை உயர் நீதிமன்றம் சரி செய்யும் என நம்புவதாகவும் சில்வா தெரிவித்துள்ளார்.
+Silva said he had trouble appointing the Inspector General of Police and hoped that the High Court would correct it.
 
 ◼️
 
 [Data](articles/852ff5f2.json)
+
+[Extended Data](ext_articles/852ff5f2.ext.json)
 
 ---
 
@@ -430,6 +506,8 @@ Silva said an issue has arrisen in the appointment of the IGP and that they hope
 
 [Data](articles/a2690b75.json)
 
+[Extended Data](ext_articles/a2690b75.ext.json)
+
 ---
 
 ### First wildlife tunnel construction begins March 1 to avert elephant-train collisions
@@ -449,6 +527,8 @@ They said the number of elephants killed due to train collisions is increasing a
 ...
 
 [Data](articles/bd24c31d.json)
+
+[Extended Data](ext_articles/bd24c31d.ext.json)
 
 ---
 
@@ -480,69 +560,83 @@ Uragasmanhandiya Police have lodged a complaint with the police that a motorcycl
 
 ---
 
-### சேதன உரப் பயன்பாடு இணைக்கப்பட வேண்டும்
+### The use of damage fertilizer must be connected
 
 *2024-02-29 14:19:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேதன-உரப்-பயன்பாடு-இணைக்கப்பட-வேண்டும்/175-333992) · `ta`
 
-நாட்டின் தேசிய உரக் கொள்கையில் சேதன உரத்தின் பயன்பாடும் உள்ளடக்கப்பட வேண்டும் என உணவுப் பாதுகாப்பு மற்றும் கமத்தொழில் பற்றிய துறைசார் மேற்பார்வைக் குழுவின் தலைவர் டீ. வீரசிங்ஹ தெரிவித்தார்.
+The country's national fertilizer policy should also include the use of damage fertilizer, Dee Chairman of the Department of Food Safety and Commerce. Said Weerasingha.
 
-உணவுப் பாதுகாப்பு மற்றும் கமத்தொழில் பற்றிய துறைசார் மேற்பார்வைக் குழு அவருடைய தலைமையில் கூடியபோதே இவ்வாறு தெரிவிக்கப்பட்டது.
+This was stated when the Department of Food Safety and Commerce Supervisory was headed by him.
 
-குறுகிய, நடுத்தர மற்றும் நீண்டகால கொள்கைத் தயாரிப்புக்கான முன்னுரிமைகளை அடையாளம் காண்பதற்கான தேசிய பேரவையின் உப குழு, உணவுப் பாதுகாப்பு தொடர்பான கொள்கை வரைபு ஆராயப்பட்டதுடன், இந்த வரைபில் மேற்கொள்ளப்பட வேண்டிய திருத்தங்களையும் குழு முன்மொழிந்திருந்தது.
+The National Council's sub -committee to identify the priorities of short, medium and long -term policy preparation, the Food Safety Policy Draft was investigated and the committee has proposed amendments to the map.
 
-கரிம உரப் பயன்பாட்டு தொடர்பில் விவசாயிகள் மத்தியில் விழிப்புணர்வு ஏற்படுத்த வேண்டியதன் அவசியத்தை கமத்தொழில் திணைக்களத்தின் அதிகாரிகளுக்கு எடுத்துக் கூறியிருப்பதாகவும், அனைத்துப் பிராந்தியங்களில் விவசாயிகளைத் தெளிவுபடுத்தும் திட்டங்கள் முன்னெடுக்கப்படும் என்றும் குழுவின் தலைவர் தெரிவித்தார்.
+The Chairman of the Committee said that the officials of the Department of Communications of the Department of Communications of the Department of Communications of the Department of Communications of the Department of Communications should be made aware of organic fertilizer use.
+
+He also pointed out that the group will visit the role model of agriculture on behalf of the group, using organic fertilizers.
 
 ...
 
 [Data](articles/a6541733.json)
 
+[Extended Data](ext_articles/a6541733.ext.json)
+
 ---
 
-### சட்டத்தரணி தொழில் செய்வதற்கு வாழ்நாள் தடை
+### Lifetime restriction on lawyer business
 
 *2024-02-29 14:15:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணி-தொழில்-செய்வதற்கு-வாழ்நாள்-தடை/175-333991) · `ta`
 
-சட்டத்தரணி நாகானந்த கொடித்துவக்குவுக்கு இனிமேல் சட்டத்தரணி தொழில் செய்வதற்கு தடைவிதித்து உயர் நீதிமன்றம்  உத்தரவு பிறப்பித்துள்ளது.
+The Supreme Court has ordered the lawyer Nagananda flags to ban the lawyer.
 
-பிரியந்த ஜயவர்தன, பிரிதி பத்மன் சூரசேன மற்றும் எஸ். துரைராஜா ஆகிய நீதியரசர்கள் அடங்கிய உயர் நீதிமன்ற அமர்வு வியாழக்கிழமை (29)  இந்த தீர்ப்பை வழங்கியுள்ளது.
+Priyantha Jayawardena, Prithi Padman Surasena and S. The High Court, comprising Durairaja, was given the verdict on Thursday (29).
 
-நாகாநந்த கொடித்துவக்குவுக்கு எதிராக தாக்கல் செய்யப்பட்ட முறைப்பாட்டை விசாரணை செய்த பின்னர் இந்த தீர்ப்பு வழங்கப்பட்டுள்ளது. R
+The verdict has been issued after investigating the complaint filed against the Nagananda flag. Remble
 
 ◼️
 
 [Data](articles/f82a7f4a.json)
 
+[Extended Data](ext_articles/f82a7f4a.ext.json)
+
 ---
 
-### பணம் மோசடியில் ஈடுப்பட்டவர்கள் கைது
+### Arrest
 
 *2024-02-29 14:12:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணம்-மோசடியில்-ஈடுப்பட்டவர்கள்-கைது/175-333990) · `ta`
 
-இத்தாலியில் வேலை வாங்கித் தருவதாகக் கூறி இத்தாலி தூதரகத்திற்கு சேவைக்காக வந்தவர்களிடம் மோசடி செய்த சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டதாக கொழும்பு குற்றத்தடுப்பு பிரிவினர் தெரிவித்தனர்.
+The Colombo Criminal Investigation Department said that two suspects have been arrested for allegedly defrauding those who came to the Italian embassy for allegedly working in Italy.
 
-கைது செய்யப்பட்ட சந்தேகநபர் 52 மற்றும் 50 வயதுடையவர்  எனவும் நாரஹேன்பிட்டி பிரதேசத்தை சேர்ந்தவர் எனவும் பொலிஸார் தெரிவிக்கின்றனர்.
+The suspect was 52 and 50 years old and hails from Narahenpitiya, police said.
 
 ◼️
 
 [Data](articles/b2642fd1.json)
 
+[Extended Data](ext_articles/b2642fd1.ext.json)
+
 ---
 
-### மயக்க மருந்தை கொடுத்த  பெண் கைது
+### Arrest
 
 *2024-02-29 14:11:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மயக்க-மருந்தை-கொடுத்த-பெண்-கைது/76-333989) · `ta`
 
-புது வருடத்தை  கொண்டாடுவதற்காக நுவரெலியாவுக்கு அழைத்து வந்த நபரிடமிருந்து  தங்க நகைகள், மற்றும் விலைவுயர்ந்த தொலைபேசி இரண்டை திருடிய  பெண் ஒருவர்  நுவரெலியா  பொலிஸாரால்  திங்கட்கிழமை (26) கைது செய்யப்பட்டுள்ளார் .
+A woman has been arrested by Nuwara Eliya police on Monday (26) for stealing gold jewelery and prostitute telephone from a person who brought to Nuwara Eliya to celebrate New Year.
 
-குறித்த  பெண்ணிடம் விசாரணைகளை மேற்கொண்ட பொலிஸாரால் அப்பெண்ணிடமிருந்து  32  இலட்சத்திற்கு அதிக  பெறுமதியான தங்க நகைகள்  , ஸ்மார்ட் தொலைபேசி  ஆகியவற்றை கைப்பற்றியுள்ளனர்.
+Police have seized more than 32 lakhs of gold jewelery and smart telephone from the woman who investigated the woman.
 
-கைது  செய்யப்பட்ட  பெண்ணும்  கைப்பற்றப்பட்ட  பொருட்களும்    நுவரெலியா, நீதிமன்றத்தில் புதன்கிழமை (28) ஆஜர்படுத்திய  போது மார்ச் மாதம் 11 ஆம் திகதி வரை விளக்கமறியலில் வைக்க நீதிமன்ற நீதிபதி பிரபுதிகா லங்கான்தினி உத்தரவிட்டுள்ளார் .
+Court Judge Prabhu Prabhika Lanka has ordered the arrest of the arrested woman and the seized items to be remanded until March 11 when the court appeared in court on Wednesday (28).
 
-மாலெபே பிரதேசத்தை சேர்ந்த 45 வயது மதிக்கத்தக்க பெண்  கொழும்பை சேர்ந்த செல்வந்தருடன் நட்பை வளர்த்து அவரை 2024 புது வருடத்தை கொண்டாடுவதற்காக  நுவரெலியாவிற்கு  (31.12.2023 ) அழைத்து வந்துள்ளார்.
+A 45 -year -old woman from Malebe area has brought her friendship with a wealthy man from Colombo and brought her to Nuwara Eliya (31.12.2023) to celebrate New Year 2024.
+
+Those who came to stay in a hostel and enjoy the New Year's arrival. It is noteworthy that the woman who brought the woman was mixed with food and alcohol.
+
+The woman then stole two gold jewelery and expensive smart phones worth more than 32 lakhs.
 
 ...
 
 [Data](articles/1178afe2.json)
+
+[Extended Data](ext_articles/1178afe2.ext.json)
 
 ---
 
@@ -1973,41 +2067,5 @@ Speaking at a press conference the MP asserted that the Government’s decision 
 [Data](articles/7df8e856.json)
 
 [Extended Data](ext_articles/7df8e856.ext.json)
-
----
-
-### UNFPA Sri Lanka inaugurates One Stop Centre in Kilinochchi
-
-*2024-02-29 03:42:45* · [`dailyftlk`](https://www.ft.lk/business/UNFPA-Sri-Lanka-inaugurates-One-Stop-Centre-in-Kilinochchi/34-758994) · `en`
-
-The United Nations Population Fund (UNFPA) Sri Lanka yesterday announced the opening ceremony of the One Stop Centre (OSC) at the District General Hospital in Kilinochchi.
-
-The One Stop Centre is a ground-breaking initiative introducing a new service delivery model in Sri Lanka, offering comprehensive Sexual and Reproductive Health (SRH) services, support for survivors of Gender-Based Violence (GBV), and Family Planning Services (FP) all under one roof. The OSC in Kilinochchi also provides essential psychosocial, medical, and legal support for survivors of GBV. This transformative approach is a result of the collaborative efforts between UNFPA Sri Lanka, the Ministry of Health, and World Vision Sri Lanka, with generous support from the Government of Norway.
-
-...
-
-[Data](articles/13c90e30.json)
-
-[Extended Data](ext_articles/13c90e30.ext.json)
-
----
-
-### Kanchana confirms receiving full report on CPSTL forensic audit
-
-*2024-02-29 03:39:30* · [`dailyftlk`](https://www.ft.lk/news/Kanchana-confirms-receiving-full-report-on-CPSTL-forensic-audit/56-758993) · `en`
-
-Power and Energy Minister Kanchana Wijesekera announced yesterday the full report of the forensic audit conducted by KPMG on the sales and distribution of petroleum products from Ceylon Petroleum Storage Terminals Ltd. (CPSTL) was received.
-
-Taking to ‘X’ he confirmed receiving the complete report and three volumes on the forensic audit conducted by KPMG on the SAP enterprise resource planning (ERP) system audit over the sales and distribution process of CPSTL.
-
-On 15 February, the Minister revealed irregularities within the system on manipulation of SAP data, massive losses and outdated procedures and data management.
-
-The audit uncovered over 1.3 million entries on the SAP data system that had been altered or deleted since 2010, with a significant portion occurring in 2022 amidst the fuel crisis. However, following the lodging of the complaint in August 2022, the frequency of such alterations decreased substantially in 2023.
-
-...
-
-[Data](articles/2d4a3055.json)
-
-[Extended Data](ext_articles/2d4a3055.ext.json)
 
 ---

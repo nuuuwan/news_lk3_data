@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 19:17:29**
+As of **2024-02-29 19:34:04**
 
 ## Newspaper Stats
 
-*Scraped **10,071** Articles*
+*Scraped **10,073** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 525
 dailyftlk | 528
 islandlk | 531
 adalk | 859
-adaderanalk | 1,218
+adaderanalk | 1,219
 tamilmirrorlk | 1,225
-virakesarilk | 1,382
+virakesarilk | 1,383
 dailymirrorlk | 1,518
 adaderanasinhalalk | 1,532
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,070 (100.0%) of 10,071 articles have been extended.
+10,071 (100.0%) of 10,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Rajiv Gandhi assassination convict dies in India; mortal remains to be sent to Sri Lanka
+
+*2024-02-29 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97635/rajiv-gandhi-assassination-convict-dies-in-india-mortal-remains-to-be-sent-to-sri-lanka) · `en`
+
+The Madras High Court on Thursday, February 29, 2024, directed the Tamil Nadu government to appoint a senior Indian Administrative Service (IAS) officer and an Indian Police Service (IPS) officer as nodal officers in-charge, to make all necessary arrangements to take the mortal remains of former PM Rajiv Gandhi assassination convict Santhan alias T. Suthenthirarajah to Sri Lanka.
+
+Santhan died at the Rajiv Gandhi Government General Hospital in Chennai on February 28, 2024.
+
+A Division Bench of Justices R. Sureshkumar and K. Kumaresh Babu issued the direction after Additional Solicitor General (ASG) AR.L. Sundaresan and State Public Prosecutor (SPP) Hasan Mohamed Jinnah informed the court that the mortal remains could be flown to the convict’s home country only if the Sri Lankan Deputy High Commission in Chennai granted the necessary permission.
+
+...
+
+[Data](articles/49b23e61.json)
+
+---
 
 ### Fund established to provide financial aid for police personnel facing legal issues related to duties
 
@@ -47,6 +63,8 @@ Accordingly, the newly-appointed IGP has approved to provide legal aid to said p
 ...
 
 [Data](articles/efb07618.json)
+
+[Extended Data](ext_articles/efb07618.ext.json)
 
 ---
 
@@ -69,6 +87,24 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 [Data](articles/ae954a89.json)
 
 [Extended Data](ext_articles/ae954a89.ext.json)
+
+---
+
+### "அஸ்வெசும"  பெறத் தகுதியுடைய அனைவருக்கும் துரிதமாக நிவாரணம் வழங்கப்படும் - ஜனாதிபதி
+
+*2024-02-29 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177617) · `ta`
+
+பொருளாதார ரீதியில் வீழ்ச்சியடைந்துள்ள இந்நாட்டு மக்களை வாழ வைப்பதில் “அஸ்வெசும” மற்றும் “உறுமய” வேலைத் திட்டங்கள் பெரும் பங்காற்றுவதாகவும், நிவாரணம் கிடைக்க வேண்டிய அனைவருக்கும் துரிதமாக நிவாரணம் வழங்கப்படும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+"அஸ்வெசும" மற்றும் "உறுமய" திட்டங்களை முறையாக மக்களிடம் கொண்டு சேர்ப்பதற்கு அரச அதிகாரிகளின் ஆதரவு தேவை எனவும் ஜனாதிபதி குறிப்பிட்டார்.
+
+மாத்தளை, வில்கமுவ பிரதேச செயலகத்தில் வியாழக்கிழமை (29) முற்பகல் நடைபெற்ற “அஸ்வெசும” வேலைத் திட்டத்தின் அமுலாக்கம் தொடர்பில் ஆராயும் கூட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+அரசாங்கத்தின் வேலைத்திட்டத்திற்கு நிபந்தனையற்ற ஆதரவளிப்பதாக வில்கமுவ கிராம அதிகாரிகள் சங்கம் ஜனாதிபதி முன்னிலையில் அறிவித்தமையும் விசேட அம்சமாகும்.
+
+...
+
+[Data](articles/86671e2b.json)
 
 ---
 
@@ -2043,41 +2079,5 @@ Meanwhile, National Transport Medical Institute (NTMI) Chairman Darshana Abeyrat
 [Data](articles/b64f8594.json)
 
 [Extended Data](ext_articles/b64f8594.ext.json)
-
----
-
-### Supreme Court disenrolls Nagananda Kodituwakku
-
-*2024-02-29 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Supreme-Court-disenrolls-Nagananda-Kodituwakku/108-277949) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - The Supreme Court today issued a rule for the removal of Nagananda Kodituwakku from the position of an Attorney-at-Law after he was found guilty of professional misconduct.
-
-◼️
-
-[Data](articles/6081cfb1.json)
-
-[Extended Data](ext_articles/6081cfb1.ext.json)
-
----
-
-### Shantan's death causes moral outrage- the government of Tamil Eelam
-
-*2024-02-29 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177573) · `ta`
-
-Shantan's death is a great tragedy and moral outrage.
-
-Prime Minister Viswanathan Rudrakumaran made this appeal to the Tamil Eelam government that has expressed his pain in Santhan's death
-
-Shantan passed away after 33 years of wrong prison. His death causes great sadness and moral fury. Although the Supreme Court ordered him to be released, he was detained in the "special camp" - the continued imprisonment in the "special camp" is not only an act of insulting the Supreme Court.
-
-The Tamil Eelam government expresses its respect for Shantan. And for 33 years, he has a heartfelt condolences to him for 33 years to turn and turn off his hands.Requests justice for his death. All the remaining "special camp" prisoners must be released without further delay or fortunes.
-
-The detention of those who have already been released by the court are illegal deadly punishment. "Special camps" should be closed immediately.
-
-...
-
-[Data](articles/c5f908e1.json)
-
-[Extended Data](ext_articles/c5f908e1.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 01:17:32**
+As of **2024-03-01 01:33:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,118 (99.9%) of 10,124 articles have been extended.
+10,123 (100.0%) of 10,124 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ The third LKI Foreign Policy Forum titled ‘Reassessing Non-Alignment in a Pola
 
 [Data](articles/fa828754.json)
 
+[Extended Data](ext_articles/fa828754.ext.json)
+
 ---
 
 ### Non-alignment means you are not forced or coerced into a camp to take sovereign decisions: Sabry
@@ -55,6 +57,8 @@ The Minister emphasised this aspect when he delivered the opening address at the
 ...
 
 [Data](articles/3f91ffdb.json)
+
+[Extended Data](ext_articles/3f91ffdb.ext.json)
 
 ---
 
@@ -72,6 +76,8 @@ Meeting with Chinese counterparts over the last month, I only had one question. 
 
 [Data](articles/4222a98a.json)
 
+[Extended Data](ext_articles/4222a98a.ext.json)
+
 ---
 
 ### Economic stability in Sri Lanka: Myth or reality?
@@ -86,6 +92,8 @@ The economic landscape of Sri Lanka has been a subject of fervent debate in rece
 
 [Data](articles/01bfe1c2.json)
 
+[Extended Data](ext_articles/01bfe1c2.ext.json)
+
 ---
 
 ### The President and Government on self-destruct mode
@@ -99,6 +107,8 @@ The above verse from the Holy Quran is a reminder to the entire mankind contextu
 ...
 
 [Data](articles/16ab16a0.json)
+
+[Extended Data](ext_articles/16ab16a0.ext.json)
 
 ---
 

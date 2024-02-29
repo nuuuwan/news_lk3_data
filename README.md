@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 22:02:59**
+As of **2024-02-29 22:17:41**
 
 ## Newspaper Stats
 
-*Scraped **10,094** Articles*
+*Scraped **10,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 528
 islandlk | 531
 adalk | 863
 adaderanalk | 1,220
-tamilmirrorlk | 1,227
+tamilmirrorlk | 1,228
 virakesarilk | 1,386
 dailymirrorlk | 1,524
 adaderanasinhalalk | 1,537
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,537
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,094 (100.0%) of 10,094 articles have been extended.
+10,094 (100.0%) of 10,095 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,22 @@ President Ranil Wickremesinghe was held today under the patronage of President R
 [Data](articles/ffab0909.json)
 
 [Extended Data](ext_articles/ffab0909.ext.json)
+
+---
+
+### கருத்தரிப்பதை தள்ளிப்போடும் பெண்கள்
+
+*2024-02-29 20:43:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கருத்தரிப்பதை-தள்ளிப்போடும்-பெண்கள்/175-334014) · `ta`
+
+மொத்த கருவுறுதல் விகிதம், ஒரு பெண் தன் வாழ்நாளில் பெற்றெடுக்கும் சராசரி குழந்தைகளின் எண்ணிக்கையை குறிக்கிறது.
+
+தென் கொரியாவில் கருவுறுதல் விகிதம் சரிவு மற்றும் மக்கள் தொகை வீழ்ச்சி முக்கிய பிரச்சினையாக மாறியுள்ளது. பொருளாதார ஒத்துழைப்பு மற்றும் மேம்பாட்டு அமைப்பில் உள்ள நாடுகளில், கருவுறுதல் விகிதம் கருவுறுதல் விகிதம் 1 சதவீதத்திற்கும் கீழ் உள்ள ஒரே நாடு தென் கொரியா ஆகும்.
+
+மொத்த கருவுறுதல் விகிதம், ஒரு பெண் தன் வாழ்நாளில் பெற்றெடுக்கும் சராசரி குழந்தைகளின் எண்ணிக்கையை குறிக்கிறது. தென் கொரிய பெண்ணின் வாழ்க்கையில் சராசரியாக எதிர்பார்க்கப்படும் குழந்தைகளின் எண்ணிக்கை 2022-ல் 0.78 ஆக இருந்தது. 2023-ல் 0.72 ஆக குறைந்துள்ளது என்று கொரிய புள்ளியல் தரவுகள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/02b3a737.json)
 
 ---
 
@@ -2027,21 +2043,5 @@ Observers say many strikers are likely to defy the deadline, continuing the labo
 [Data](articles/ce8f8fb4.json)
 
 [Extended Data](ext_articles/ce8f8fb4.ext.json)
-
----
-
-### Sri Lanka’s NPP continues to lead voting intent poll ahead of main opposition
-
-*2024-02-29 12:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-continues-to-lead-voting-intent-poll-ahead-of-main-opposition-152495/) · `en`
-
-ECONOMYNEXT —  Sri Lanka’s leftist National People’s Power (NPP) continued to lead a voting intentions poll in January at 40 percent of adult voters surveyed supporting the party, with the main opposition Samagi Jana Balawegaya (SJB) in second place at 30 percent.
-
-The survey, carried out by Institute for Health Policy (IHP) using its Sri Lanka Opinion Tracker Survey (SLOTS) Multilevel Regression and Poststratification (MRP) model showed no substantial change in general election voting intentions in January 2024 compared to the previous month.
-
-...
-
-[Data](articles/6420a269.json)
-
-[Extended Data](ext_articles/6420a269.ext.json)
 
 ---

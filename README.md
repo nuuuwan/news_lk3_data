@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 23:52:13**
+As of **2024-03-01 00:02:35**
 
 ## Newspaper Stats
 
-*Scraped **10,115** Articles*
+*Scraped **10,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 99
 bbccomsinhala | 123
 dbsjeyarajcom | 168
 newsfirstlk | 363
-economynextcom | 525
+economynextcom | 526
 dailyftlk | 528
 islandlk | 531
 adalk | 864
 adaderanalk | 1,223
-tamilmirrorlk | 1,229
+tamilmirrorlk | 1,230
 virakesarilk | 1,389
 dailymirrorlk | 1,533
 adaderanasinhalalk | 1,540
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,115 (100.0%) of 10,115 articles have been extended.
+10,117 (100.0%) of 10,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### House for Maithri;High Court that canceled the resolution
+
+*2024-02-29 23:07:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-வீடு-தீர்மானத்தை-இரத்து-செய்தஉயர்-நீதிமன்றம்/175-334028) · `ta`
+
+The Supreme Court has issued an interim injunction to weaken the Cabinet's decision to give him the resolution of the Cabinet after his retirement.
+
+Accordingly, on October 15, 2019, the Supreme Court has ordered that the Cabinet decision taken to provide the appropriate house will not be issued.. Remble
+
+◼️
+
+[Data](articles/4d756401.json)
+
+[Extended Data](ext_articles/4d756401.ext.json)
+
+---
 
 ### Massive Challenge to New Police Inspector
 
@@ -318,6 +334,8 @@ The Minister of State made this statement at a press conference held at the Pres
 
 The Colombo Consumer Price Index (CCPI), the official’s preferred inflation gauge deceased to 5.9 percent in February from the 6.4 percent recorded in January.
 
+The CCPI contracted from 200.7 to 200.6 points, data from Department of Census and Statistics showed.
+
 In February, annual inflation (point) in the food category increased to 3.5 percent Year-on-Year (YoY). In January 2024 it was recorded at 3.3 percent.
 
 Meanwhile, the annual inflation (point) in non-food category for February 2024 eased to 7.0 percent as against 7.9 percent in January 2024.
@@ -367,6 +385,26 @@ It is mentioned that the heat code in these areas, ie, the heat, which is percei
 [Data](articles/da6c8cf8.json)
 
 [Extended Data](ext_articles/da6c8cf8.ext.json)
+
+---
+
+### Sri Lanka’s RAMIS online tax collection system “not operatable”: IT Minister
+
+*2024-02-29 20:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-ramis-online-tax-collection-system-not-operatable-it-minister-152567/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s online tax collection system RAMIS is “not operatable”, and the Ministry of Information Technology is ready to do for an independent audit to find the shortcomings, State IT Minister Kanaka Herath said.
+
+The Revenue Administration Management Information System (RAMIS) was introduced to the Inland Revenue Department (IRD) when the island nation signed for its 16th International Monetary Fund (IMF) programme in 2016.
+
+However, trade unions at the IRD protested the move, claiming that the system was malfunctioning despite billions being spent for it amid allegations that the new system was reducing the direct contacts between taxpayers and the IRD to reduce corruption.
+
+The RAMIS had to be stopped after taxpayers faced massive penalties because of blunders made by heads of the IT division, computer operators and system errors at the IRD, government officials have said.
+
+...
+
+[Data](articles/4fdc1536.json)
+
+[Extended Data](ext_articles/4fdc1536.ext.json)
 
 ---
 
@@ -2003,47 +2041,5 @@ The verdict has been issued after investigating the complaint filed against the 
 [Data](articles/f82a7f4a.json)
 
 [Extended Data](ext_articles/f82a7f4a.ext.json)
-
----
-
-### 'Sad' and work to take part in police station
-
-*2024-02-29 14:13:10* · [`adalk`](https://www.ada.lk/breaking_news/’සූර්’-වෙලා-පොලීසියට-පාට්-‌දැමූ-හමුදා-සෙබළියන්ට-වැඩ-වරදියි/11-408354) · `si`
-
-Harana Headquarters Site
-
-The army has been arrested by the Army, Horana, a 38-year-old soldier and a large number of residents of the Panagoda Marawila, Chimunagoda.
-
-The police said that both of them were serving in the Army Sports Division.
-
-Two police officers in the Horana Headquarters Police had been identified as Rajandree at the Moneragala route.
-
-The decline of the two police officers after the suspected suspect, predicted 300 meters from the police custody and stopped the motorcycle.
-
-The suspects had been threatened to flee and complain to the highest officials that they had been complained to the top officials and complained to the top officials.Is not allowed to do, "Police say there are cases of opposition to the police.
-
-A police officer said that the two suspects were taken to the police station in the traffic cab and taken to the police station.
-
-...
-
-[Data](articles/bd1aa81d.json)
-
-[Extended Data](ext_articles/bd1aa81d.ext.json)
-
----
-
-### Arrest
-
-*2024-02-29 14:12:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணம்-மோசடியில்-ஈடுப்பட்டவர்கள்-கைது/175-333990) · `ta`
-
-The Colombo Criminal Investigation Department said that two suspects have been arrested for allegedly defrauding those who came to the Italian embassy for allegedly working in Italy.
-
-The suspect was 52 and 50 years old and hails from Narahenpitiya, police said.
-
-◼️
-
-[Data](articles/b2642fd1.json)
-
-[Extended Data](ext_articles/b2642fd1.ext.json)
 
 ---

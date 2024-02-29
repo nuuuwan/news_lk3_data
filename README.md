@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 12:32:55**
+As of **2024-02-29 12:50:08**
 
 ## Newspaper Stats
 
-*Scraped **9,982** Articles*
+*Scraped **9,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 847
 adaderanalk | 1,202
 tamilmirrorlk | 1,212
 virakesarilk | 1,376
-dailymirrorlk | 1,508
+dailymirrorlk | 1,509
 adaderanasinhalalk | 1,514
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,978 (100.0%) of 9,982 articles have been extended.
+9,983 (100.0%) of 9,983 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The Online Safety Bill has been a subject of debate and contention, with several
 ◼️
 
 [Data](articles/1233ebd3.json)
+
+[Extended Data](ext_articles/1233ebd3.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ However, the health sector trade unions are slated to meet with Health Minister 
 ...
 
 [Data](articles/0b030c72.json)
+
+[Extended Data](ext_articles/0b030c72.ext.json)
 
 ---
 
@@ -108,17 +112,21 @@ The petition was presented by MP Sumanthiran demanding a decision that the Supre
 
 ---
 
-### දෙහිවලදී බස් දෙකක් රේස් ඇවිත් ත්‍රීරෝද රථ රියදුරෙකු බිලීගනී
+### Two buses arrived in Dehiwala and killed a three-wheeler driver
 
 *2024-02-29 11:42:34* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවලදී-බස්-දෙකක්-රේස්-ඇවිත්-ත්‍රීරෝද-රථ-රියදුරෙකු-බිලීගනී/11-408345) · `si`
 
-දෙහිවල ගුවන්පාලම  තරුණ බෞද්ධ සංගමය අසල  කෙලවරදී  බස්රථ දෙකකට ත්‍රීරෝද රථයක්  මැදීවී සිදුවූ අනතුරකින් ත්‍රීරෝද රථයේ රියදුරු එම ස්ථානයේදීම මියගොස් ඇතැයි දෙහිවල පොලීසිය පැවසීය. මෙලෙස මිය ගොස් ඇත්තේ ගල්කිස්ස ටෙම්පල්පාර පලවන හරස් පටුමග අංක 75/86 /සී හී පදිංචිව සිටි ත්‍රීරෝද රථ රියදුරකු වන දෙහිවලගේ ඇන්ටන් ක්‍රිශාන්ත නම් ( 56 ) හැවිරිදි විවාහක අයෙකුදවේ .
+Dehiwala Police said that two buses were killed in a three-wheeler near the Youth Buddhist Association of Dehiwala flight.. The deceased has been identified as the Mount Lavinia Tech Lawage, a three-wheeler driver, Anton Krishantha (56), a three-wheeler driver.
 
-මෙම අනතුර 29 දින පෙ.ව.7.35 ට පමණ සිදුවී ඇත .ගල්කිස්ස දෙස සිට කොළඹ බලා ධාවනය වූ මාර්ග අංක 101 හා 155 දරන බස්රථ දෙකක් මෙලෙස අනතූරට පත්ව ඇති බවත් පොලීසිය කියයි. මෙම බස් රථ දෙක ගල්කිස්ස දෙස සිටභ මාර්ගයේ තරගයට ධාවනය කරමින් රංඩූ වෙමින් පැමිණ ඇති අතර,  දෙහිවල මංසන්දියේ ප්‍රධාන වීථි සංඥා පුවරුව පසුකර බිම් මාර්ගයෙන් කොළඹ දෙසට ධාවනය කරමින් එකීනෙක ඉස්සර කිරීමට උත්සාහ කරනූ ලැබු අවස්ථාවේ එම මැර්ගයේම පැමිණි ත්‍රීරෝද රථය ඉදීරියෙන් ගමන්කල බස්රථයට දකුණු පසින් ගමන් කර ඇති අතර, එම අවස්තාවේදීම පීටකොටුව බස්රථය එම ත්‍රීරෝද රථයද මැදිකර බස්  රථ දෙකට මැදිවීමෙන් රියදුරු ඒතුල බරපතල තුවාල ලබා කාඩුපට්ටම්වී තිබූ ත්‍රීරෝද රථය තුලම මිය ගොස් සිටි බව පොලීසිය කියයි .
+The accident occurred at around 7.35 am on the 29th.. The two buses have been operating in Mount Lavinia by the main streets of Mount Lavinia by the main streets of the Dehiwala Junction.Among the occasion, the driver was seriously injured in the three-wheeler in the three-wheeler and injured the three-wheeler buses.
 
-...
+The police said that the three-wheeler driver had come with his wife and had a few meters before the bus stop, police said.
+
+◼️
 
 [Data](articles/82e3e250.json)
+
+[Extended Data](ext_articles/82e3e250.ext.json)
 
 ---
 
@@ -137,6 +145,20 @@ Only the first grade officials in the Education Administrative Service can apply
 [Data](articles/deac254e.json)
 
 [Extended Data](ext_articles/deac254e.ext.json)
+
+---
+
+### Deshabandu Tennakoon assumes duties as IGP
+
+*2024-02-29 11:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Deshabandu-Tennakoon-assumes-duties-as-IGP/110-277959) · `en`
+
+Deshabandu Tennakoon assumed duties as the new Inspector General of Police (IGP) this morning at the police headquarters. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/2786c616.json)
+
+[Extended Data](ext_articles/2786c616.ext.json)
 
 ---
 
@@ -181,6 +203,8 @@ Writing on Instagram under the handle geo_ecstatic, a man who said he was an eve
 ...
 
 [Data](articles/73084aa9.json)
+
+[Extended Data](ext_articles/73084aa9.ext.json)
 
 ---
 
@@ -2033,21 +2057,5 @@ The siege caused the railway service to disrupt its journey and passengers were 
 [Data](articles/75f9dbea.json)
 
 [Extended Data](ext_articles/75f9dbea.ext.json)
-
----
-
-### Massive fire spread in Biyagama: 4 fire trucks on the field!
-
-*2024-02-28 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177546) · `ta`
-
-A massive fire has been reported in a private company owned by a private company in the Bandarawatte area in Biyagama.
-
-Biyagama police said that the fire broke out this evening near the site where the water pipes were stored at the company.
-
-◼️
-
-[Data](articles/b3b0fb8d.json)
-
-[Extended Data](ext_articles/b3b0fb8d.ext.json)
 
 ---

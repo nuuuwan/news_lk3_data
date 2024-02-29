@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 02:17:31**
+As of **2024-03-01 02:32:57**
 
 ## Newspaper Stats
 
-*Scraped **10,128** Articles*
+*Scraped **10,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 534
 adalk | 864
 adaderanalk | 1,223
 tamilmirrorlk | 1,230
-virakesarilk | 1,391
+virakesarilk | 1,392
 dailymirrorlk | 1,536
 adaderanasinhalalk | 1,540
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,125 (100.0%) of 10,128 articles have been extended.
+10,128 (100.0%) of 10,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### தற்காலிகமாக நிறுத்தப்பட்டது வடக்கு மாகாண தனியார் பேருந்து உரிமையாளர்களின் பணிப் புறக்கணிப்பு
+
+*2024-03-01 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177635) · `ta`
+
+வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம்.சார்ள்ஸ்  தலைமையில் வியாழக்கிழமை (29) மாலை ஆளுநர் செயலகத்தில் பணிப் புறக்கணிப்பு போராட்டத்தை முன்னெடுத்திருந்த தனியார் பேருந்து உாிமையாளர் சங்கத்தினருடனான கலந்துரையாடல் ஒன்று இடம்பெற்றது.
+
+குறித்த சந்திப்பில் கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா, நாடாளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன் வடக்கு மாகாண வீதிப் பயணிகள் போக்குவரத்து அதிகார சபை தவிசாளர் மற்றும் பொலிஸார் உள்ளிட்டவர்களும் கலந்துகொண்டிருந்தனர்.
+
+இன்றைய கலந்துரையாடலில் வழங்கப்பட்ட உறுதி மொழியை அடுத்து பணி புறக்கணிப்பை கைவிட்டு நாளை முதல் வழமை போன்று சேவை முன்னெடுக்க  உள்ளதாக வட இலங்கை தனியார் பேரூந்து உரிமையாளர்கள் சங்கம் தலைவர் சி.சிவபரன் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/e457672b.json)
+
+---
 
 ### Sri Lanka Passes New Legislation - THAT NO ONE SEEMS TO KNOW - To End Corporal Punishment Against Children
 
@@ -39,6 +55,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/23dff44e.json)
+
+[Extended Data](ext_articles/23dff44e.ext.json)
 
 ---
 
@@ -53,6 +71,8 @@ As much as such businesses are eating into the earning opportunities of locals, 
 ...
 
 [Data](articles/9b6b82a3.json)
+
+[Extended Data](ext_articles/9b6b82a3.ext.json)
 
 ---
 
@@ -69,6 +89,8 @@ Intellectuals avoid jumping to conclusions. They investigate all sides of an iss
 ...
 
 [Data](articles/dc874c0b.json)
+
+[Extended Data](ext_articles/dc874c0b.ext.json)
 
 ---
 
@@ -1961,25 +1983,5 @@ The three-member Supreme Court judge bench led by Justice Priyantha Jayawardena 
 [Data](articles/284b6f1b.json)
 
 [Extended Data](ext_articles/284b6f1b.ext.json)
-
----
-
-### “The Speaker has violated the Constitution”
-
-*2024-02-29 15:04:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகர்-அரசியலமைப்பை-மீறிவிட்டார்/175-333994) · `ta`
-
-Speaker Mahinda Yapa Abeywardena has called for the Supreme Court against the appointment of the IGP, saying that the National People's Power General Secretary Dilvin Silva has said that when he appointed nationality as the Inspector General of Police, Speaker Mahinda Yapa Abeywardena said.
-
-He said at a press conference that the Speaker had granted permission to appoint the President of the Patriotic Council even after the decision of the Constitutional Convention was announced to the President.
-
-“The Speaker's action on the issue of the appointment of Patriotic Tennakon as IGP is a violation of the Constitution. The Speaker can vote only in the event of a balance. The Speaker did not vote at the Constitutional Council meeting. He has given his approval after the decision of the council has been announced. ”
-
-Silva said he had trouble appointing the Inspector General of Police and hoped that the High Court would correct it.
-
-◼️
-
-[Data](articles/852ff5f2.json)
-
-[Extended Data](ext_articles/852ff5f2.ext.json)
 
 ---

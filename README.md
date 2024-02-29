@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 10:50:58**
+As of **2024-02-29 11:02:31**
 
 ## Newspaper Stats
 
-*Scraped **9,956** Articles*
+*Scraped **9,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adaderanalk | 1,196
 tamilmirrorlk | 1,209
 virakesarilk | 1,373
 dailymirrorlk | 1,505
-adaderanasinhalalk | 1,508
+adaderanasinhalalk | 1,510
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,956 (100.0%) of 9,956 articles have been extended.
+9,956 (100.0%) of 9,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### නාගානන්දට නීතිඥ වෘත්තිය තහනම්
+
+*2024-02-29 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193944) · `si`
+
+නීතිඥ නාගානන්ද කොඩිතුවක්කු මහතාට මින් ඉදිරියට නීති වෘත්තියේ යෙදීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අද නියෝගයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/8f9150bf.json)
+
+---
+
+### ප්‍රංශයේ ගබ්සා නීතිය එරට ව්‍යවස්ථාවට
+
+*2024-02-29 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193943) · `si`
+
+ගබ්සා කිරීමේ අයිතිය ව්‍යවස්ථාවෙන්ම තහවුරු කිරීමේ යෝජනාව ප්‍රංශ සෙනෙට් සභාව අනුමත කර තිබේ.
+
+ප්‍රංශ පාර්ලිමේන්තුවේ ඉහළ මන්ත්‍රී මණ්ඩලය වන සෙනෙට් සභාව විසින් ඊයේ (28) පැවති ඡන්ද විමසීමේ දී අදාළ අනුමැතිය ලබා දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+යෝජනාවට පක්ෂව ඡන්ද 267ක් හිමිව ඇති අතර ඊට විරුද්ධව ලැබී ඇත්තේ ඡන්ද 50ක් පමණයි.
+
+1974 වර්ෂයේ සිට ගබ්සාව ප්‍රංශයේ නීත්‍යානුකූලව පැවති අතර එය තවදුරටත් ව්‍යවස්ථාව මඟින් තහවුරු කිරීමට අදාළව මෙම යෝජනාව ඉදිරිපත් වී තිබේ.
+
+අදාළ යෝජනාව පහෙන් තුනක බහුතරයික් සම්මත වී ඇති බැවින් ජනමත විචාරණයකට යාමේ අවශ්‍යතාවක් නොවන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/b3dea7ef.json)
+
+---
 
 ### Welipenna and hacked to death
 
@@ -1991,47 +2023,5 @@ The Minister said that the Galle, Matale, Nuwara Eliya, Ratnapura, Matara, Kalut
 [Data](articles/39cbd281.json)
 
 [Extended Data](ext_articles/39cbd281.ext.json)
-
----
-
-### Sri Lanka confident of “smoother” IMF second review: State Minister
-
-*2024-02-28 18:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-confident-of-smoother-imf-second-review-state-minister-152473/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s second review for the International Monetary Fund (IMF) loan would be smoother than the first as the government has implemented many reforms required for the economic recovery, State Finance Minister Shehan Semasinghe said.
-
-An IMF mission will visit Sri Lanka on March 7 and will engage in the review of second tranche of the $3 billion IMF loan for two weeks, he said.
-
-“The second review will commence on the 7th of March, and we are very confident that will be a smoother review than the first review,” Semasinghe told reporters at a media briefing in Colombo on Wednesday (28).
-
-He said the the first review was difficult because of hard policy decisions taken by the government in the initial stages.
-
-The global lender completed the first review of the 48-month Extended Fund Facility (EFF) on December 12 before disbursing $337 million to support the island nation’s economic policies and reforms.
-
-...
-
-[Data](articles/670af985.json)
-
-[Extended Data](ext_articles/670af985.ext.json)
-
----
-
-### Here is the cause of black smoke that covered the sky
-
-*2024-02-28 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193926) · `si`
-
-A person has set fire to the water supply land belonging to the Water Supply Board in Bandarawatta, Kaduwela.
-
-Our correspondent said that the fire brigade will come and control the fire.
-
-Due to the fire, the Water Supply Board has been severely damaged.
-
-The big black smoke raised with the fire appeared in several areas, and the video was exchanged videos in the social media.
-
-◼️
-
-[Data](articles/331d94d8.json)
-
-[Extended Data](ext_articles/331d94d8.ext.json)
 
 ---

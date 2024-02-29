@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 19:51:25**
+As of **2024-02-29 20:02:54**
 
 ## Newspaper Stats
 
-*Scraped **10,074** Articles*
+*Scraped **10,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 859
 adaderanalk | 1,219
 tamilmirrorlk | 1,225
 virakesarilk | 1,383
-dailymirrorlk | 1,518
+dailymirrorlk | 1,520
 adaderanasinhalalk | 1,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,074 (100.0%) of 10,074 articles have been extended.
+10,076 (100.0%) of 10,076 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,20 @@ A Division Bench of Justices R. Sureshkumar and K. Kumaresh Babu issued the dire
 [Data](articles/49b23e61.json)
 
 [Extended Data](ext_articles/49b23e61.ext.json)
+
+---
+
+### Deshabandu seeks blessings at Gangarama
+
+*2024-02-29 19:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Deshabandu-seeks-blessings-at-Gangarama/110-277971) · `en`
+
+Newly appointed Inspector-General of Police Deshabandu Tennakoon visited the Gangaramaya Temple this afternoon and met Deputy Incumbent Ven. (Dr) Kirinde Assaji Nayake Thero and received religious blessings on his new appointment. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/0ab686f0.json)
+
+[Extended Data](ext_articles/0ab686f0.ext.json)
 
 ---
 
@@ -87,6 +101,24 @@ Also, if a police officer undergoing the process of duties in the scope of work,
 [Data](articles/3a86147b.json)
 
 [Extended Data](ext_articles/3a86147b.ext.json)
+
+---
+
+### SC quashes Cabinet decision granting residence to Maithripala
+
+*2024-02-29 18:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-quashes-Cabinet-decision-granting-residence-to-Maithripala/108-277972) · `en`
+
+Colombo, Feb 29 (Daily Mirror) -  The Supreme Court today held that the Cabinet decision to allow former President Maithripala Sirisena to use a residence at Paget Road in Colombo was an arbitrary, unreasonable and illegal decision amounting to a violation of the Rule of Law and the Fundamental Rights guaranteed to the citizens.
+
+Accordingly, the Supreme Court decided to quash the Cabinet decision dated 15 October, 2019 which allowed former President Maithripala Sirisena the continuous use of the residence used by him at Paget Road, Colombo.
+
+The Supreme Court three-judge-bench comprising Justices Priyantha Jayawardena, Gamini Amarasekara and Kumudini Wickremasinghe  held that the decision taken by the Cabinet of Ministers to provide a residence to former President Sirisena with entitlements is beyond the scope offered by the Presidents' Entitlements Act No. 4 of 1986.
+
+...
+
+[Data](articles/53e43e4d.json)
+
+[Extended Data](ext_articles/53e43e4d.ext.json)
 
 ---
 
@@ -2033,55 +2065,5 @@ At present, Pakistan suffered a strong economic crisis and a few months ago, the
 [Data](articles/6fa9ee7b.json)
 
 [Extended Data](ext_articles/6fa9ee7b.ext.json)
-
----
-
-### Organiser of ‘white party’ in Sri Lanka apologises after backlash
-
-*2024-02-29 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97614/organiser-of-white-party-in-sri-lanka-apologises-after-backlash) · `en`
-
-An organiser of a “white party” in Sri Lanka has apologised after the event sparked a backlash online.
-
-The event’s advertisement specified a white dress code, but also had a line saying “Face control: White” - which was largely interpreted to mean the event was open only to white people.
-
-An organiser later said the event was “a bad idea”, adding that it was meant to bring together expatriates.
-
-The party, which was due to take place last Saturday, was cancelled.
-
-Backlash against the event was swift, with many on social media calling it “disgusting” and “racist”.
-
-“I know not all expats are like this... but this sort of thing should be stopped fast and stopped hard,” said one local restaurant owner.
-
-“How dare they come to a brown country and ban the people of that country,” another social media user said on Facebook.
-
-Writing on Instagram under the handle geo_ecstatic, a man who said he was an event organiser, said there was “no malice or racism” in planning the party.
-
-...
-
-[Data](articles/73084aa9.json)
-
-[Extended Data](ext_articles/73084aa9.ext.json)
-
----
-
-### Sri Lanka wins UN Award for in Mangrove Restoration
-
-*2024-02-29 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-wins-UN-Award-for-in-Mangrove-Restoration/108-277956) · `en`
-
-Sri Lanka has been recognized as a 2024 UN World Restoration Flagship for its exemplary work in rebuilding and rejuvenating its mangrove ecosystems.
-
-Anil Jasinghe, CEO of Sri Lanka's Climate Change Office, and Professor Sevvandi Jayakody, a senior lecturer at Wayamba University, accepted the award in Nairobi, Kenya at the UN Environment Assembly on Tuesday, February 27
-
-They were joined by Ruwan Wijewardena, a senior presidential advisor on climate change, and High Commissioner Veluppillai Kananathan.
-
-The sixth session of the United Nations Environment Assembly (UNEA-6) is taking place from 26 February to 1 March 2024 at the United Nations Environment Programme (UNEP) headquarters in Nairobi, Kenya.
-
-UNEA-6 was preceded by a meeting of the Open-ended Committee of Permanent Representatives, held from 19 to 23 February 2024, which helped lay the groundwork for the Assembly.
-
-...
-
-[Data](articles/3b5ff88c.json)
-
-[Extended Data](ext_articles/3b5ff88c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 10:33:58**
+As of **2024-02-29 10:50:58**
 
 ## Newspaper Stats
 
-*Scraped **9,955** Articles*
+*Scraped **9,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 121
 dbsjeyarajcom | 167
 newsfirstlk | 363
 economynextcom | 513
-dailyftlk | 527
+dailyftlk | 528
 islandlk | 531
 adalk | 843
 adaderanalk | 1,196
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,508
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,955 (100.0%) of 9,955 articles have been extended.
+9,956 (100.0%) of 9,956 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -583,6 +583,32 @@ It was held to promote the newly launched postgraduate degree program, MSc in Pu
 [Data](articles/fb0d0e0b.json)
 
 [Extended Data](ext_articles/fb0d0e0b.ext.json)
+
+---
+
+### AKD dispels misconceptions about NPP among upper echelons in SL
+
+*2024-02-29 02:29:12* · [`dailyftlk`](https://www.ft.lk/front-page/AKD-dispels-misconceptions-about-NPP-among-upper-echelons-in-SL/44-758973) · `en`
+
+Says NPP has found it challenging to reach elite circles which as a result lack understanding of NPP policies and ideologies
+
+Stresses party isn’t against those who are rich but instead against those who misuse public funds or make undue gains
+
+Assures an NPP Govt. will not hamper private businesses or intend to monopolise all businesses as claimed by opponents
+
+Claims it will however dismantle market monopolies by attracting more competitors in sectors such as rice and tiles
+
+Says NPP opposed to privatisation of enterprises such as Sri Lanka Telecom, MILCO though admits some sectors should be divested from Govt. involvement in business
+
+Notes party advocates for a tax policy conducive to economic growth and is opposed to current tax regime which has constricted SL’s economy
+
+Opposes PAYE tax, citing negative impact on consumer spending and economic activity
+
+...
+
+[Data](articles/3eda38f4.json)
+
+[Extended Data](ext_articles/3eda38f4.ext.json)
 
 ---
 
@@ -2007,27 +2033,5 @@ The big black smoke raised with the fire appeared in several areas, and the vide
 [Data](articles/331d94d8.json)
 
 [Extended Data](ext_articles/331d94d8.ext.json)
-
----
-
-### We will establish a humanitarian alliance with the cooperation of all parties - Patali Champika Ranawaka
-
-*2024-02-28 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177534) · `ta`
-
-When Rajapaksa and President Ranil Wickremesinghe have been hacked for many years in politics, why should the political parties with no policy and otherwise be united.. Patali Champika Ranawaka, the leader of the UNP and Member of Parliament, said that all political parties would unite and establish a humanitarian coalition.
-
-A discussion between members of the Independent People's Council and members of the United People's Front (UNP) led by Member of Parliament Dallas Alagaberuma took place on Tuesday (27) at the Independent People's Council office in Colombo.
-
-UNP leader Patali Champika Ranawaka, speaking to the media after the discussion
-
-The people of the country are very badly affected.. It must unite all parties and establish a widespread political coalition.
-
-We will negotiate with all parties to establish a humanitarian political coalition. We are in talks with the United National Party, the Freedom Party and the United People's Power.
-
-...
-
-[Data](articles/14c48007.json)
-
-[Extended Data](ext_articles/14c48007.ext.json)
 
 ---

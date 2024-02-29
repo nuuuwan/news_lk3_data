@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 18:33:01**
+As of **2024-02-29 18:50:26**
 
 ## Newspaper Stats
 
-*Scraped **10,066** Articles*
+*Scraped **10,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,216
 tamilmirrorlk | 1,225
 virakesarilk | 1,382
 dailymirrorlk | 1,518
-adaderanasinhalalk | 1,530
+adaderanasinhalalk | 1,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,062 (100.0%) of 10,066 articles have been extended.
+10,066 (100.0%) of 10,068 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ Sri Lanka had welcomed 191,000 tourists up to February 25, compared to 107,639 i
 
 [Data](articles/a874d13c.json)
 
+[Extended Data](ext_articles/a874d13c.ext.json)
+
 ---
 
 ### The DMK will act in the interest of the people of the plantation
@@ -73,6 +75,28 @@ During the discussion, fellow MPs, including friend Mano Ganesan, presented the 
 [Data](articles/437c6141.json)
 
 [Extended Data](ext_articles/437c6141.ext.json)
+
+---
+
+### ග්‍රාම නිලධාරීන්ගේ ගැටලුවලට ජනපතිගෙන් විසඳුම්
+
+*2024-02-29 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193969) · `si`
+
+රජයේ වැඩපිළිවෙළ වෙනුවෙන් කොන්දේසි විරහිතව තම සහාය ලබාදෙන බව විල්ගමුව ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ සියලු ග්‍රාම නිලධාරීන් ජනාධිපතිවරයා හමුවේ ප්‍රකාශ කර තිබේ.
+
+ඒ, මාතලේ, විල්ගමුව ප්‍රාදේශීය ලේකම් කාර්යාලයේදී අද (29) පෙරවරුවේ පැවැති සාකච්ඡාවකදී ය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අස්වැසුම සහ උරුමය වැඩසටහන් ක්‍රියාත්මකවීම පිළිබඳ සොයා බැලීමේ හමුවකට මෙහිදී එක්වී තිබුණි.
+
+මේ අතර විල්ගමුව ප්‍රාදේශීය ලේකම් කොට්ඨාසයට අයත් ග්‍රාම සේවා නිලධාරීන් මුහුණ දී ගැටලු ජනාධිපතිවරයා වෙත වාචිකව මෙන්ම ලිඛිතව ද ඉදිරිපත් කළේය.
+
+එම ගැටලු කෙරෙහි අවධානය යොමු කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතැම් ගැටලුවලට එම අවස්ථාවේදීම විසඳුම් ලබාදීමට කටයුතු කළේය.
+
+දුෂ්කරතා හමුවේ වුවද ඔවුන් ජනතාව වෙනුවෙන් ඉටු කරන සේවාව අගය කළ ජනාධිපතිවරයා අස්වැසුම සහ උරුමය වැඩසටහන සඳහා සහාය ලබාදීමට ඉදිරිපත් වීම පිළිබඳව ද ග්‍රාම නිලධාරීන් වෙත සිය ස්තූතිය පළ කළේය.
+
+◼️
+
+[Data](articles/64ff8062.json)
 
 ---
 
@@ -112,6 +136,24 @@ A bond maturing on 01.07.2032 closed at 12.55/13.00 percent up from 12.50/90 per
 
 [Data](articles/2e0cd714.json)
 
+[Extended Data](ext_articles/2e0cd714.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට අවවාදාත්මක නිවේදනයක්
+
+*2024-02-29 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193968) · `si`
+
+ඉදිරි පැය 24ක කාලය සඳහා උණුසුම් කාලගුණය පිළිබඳව පළාත් සහ දිස්ත්‍රික්ක කිහිපයකට අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව වයඹ, බස්නාහිර, දකුණ යන පළාත් රත්නපුර සහ මන්නාරම යන දිස්ත්‍රික්කවල ජනතාව විමසිලිමත්වන ලෙස කාලගුණ විද්‍ය දෙපාර්තමේන්තුව දැනුම්දී ඇත.
+
+මෙම ප්‍රදේශවල උණුසුම් දර්ශකය එනම් මිනිස් සිරුරට දැ‍නෙන උණුසුම 'අවධානය' යොමු කළ යුතු මට්ටමක පවතිනු ඇති බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/bc65cddc.json)
+
 ---
 
 ### Sri Lanka to expand Aswesuma benefits to around 40-pct of population ahead of polls
@@ -127,6 +169,8 @@ As of December, President Ranil Wickremesinghe’s government had choses 1.41 mi
 ...
 
 [Data](articles/42c185f8.json)
+
+[Extended Data](ext_articles/42c185f8.ext.json)
 
 ---
 
@@ -1734,19 +1778,25 @@ Priyantha Jayawardena, Joy Padman Surasena and S. The verdict has been given by 
 
 ---
 
-### හඬමින් සිටින කුඩා දරුවාගේ වීඩියෝව සමාජ මාධ්‍යයට දැමූ ගුරුවරිය ගැන විමර්ශනයක්
+### Investigation into teacher's teacher in social media
 
 *2024-02-29 11:52:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c84njzgl1vpo) · `si`
 
-හඬමින් සිටින කුඩා දරුවාගේ වීඩියෝව සමාජ මාධ්‍යයට දැමූ ගුරුවරිය ගැන විමර්ශනයක්
+Investigation into teacher's teacher in social media
 
-හඬමින් සිටින කුඩා දරුවෙකුගෙන් ගුරුවරියක් විසින් ප්‍රශ්න විමසන වීඩියෝවක් මේවන විට සමාජ මාධ්‍ය තුළ පුළුල් ලෙස විවාදයකට තුඩු දී තිබේ. එම කෙටි වීඩියෝව පෙබරවාරි 27 දිනට ආසන්න දිනයක පටන් සමාජ මාධ්‍යවල හුවමාරු වූ අතර, වයස අවුරුදු හයක් පමණ වන පළමු පන්තියේ සිසුවෙකු යැයි අනුමාන කළ හැකි දරුවා හඬමින් සිටින අතර ගුරුවරිය දරුවාගෙන් විමසන ප්‍රශ්න වලට දරුවා හඬමින් පිළිතුරු දෙන ආකාරය එම වීඩියෝවේ දැක් වේ.
+A video of a child who is crying has led to a broadly debate in social media. The short video was exchanged in the social media from the same day on February 27, and the child is crying and the teacher is crying with the questions that the teacher asked the child.
 
-මුල් අවස්ථාවේදී දරුවාගේ සුරතල් බව සම්බන්ධයෙන් අදහස් සමග වීඩියෝව හුවමාරු වුවද එහි ඇති බරපතලභාවය සම්බන්ධයෙන් මේ වන විට අදහස් හුවමාරු වෙමින් පවතියි. එමෙන් ම බොහෝ සමාජ මාධ්‍ය පරිශීලකයන් විසින් එම වීඩියෝව සමාජ මාධ්‍යට එක් කළ අයට සහ එය සිදුවීම වීඩියෝ කළ ගුරුවරියට විරුද්ධව නීතිය ක්‍රියාත්මක කළ යුතු බවට අදහස් දක්වා තිබේ.
+The video is exchanged with the ideas about the child's pet, but now exchanges on the seriousness of it. Most social media users have commented that the video should be implemented against the teacher of social media and the teacher of the teacher.
+
+The school matters of the Ministry of Education inquired about whether an investigation was conducted on the school teacher regarding the questionable incident.
+
+However, inquiry by the Ministry of Education, the section stated that his sector will not be made aware of such an investigation and that the investigation will be carried out under the Provincial Council.
 
 ...
 
 [Data](articles/a739fcaa.json)
+
+[Extended Data](ext_articles/a739fcaa.ext.json)
 
 ---
 
@@ -2027,43 +2077,5 @@ The Supreme Court on Thursday (29 Feb.) disenrolled Nagananda Kodituwakku as an 
 [Data](articles/06b99874.json)
 
 [Extended Data](ext_articles/06b99874.ext.json)
-
----
-
-### Nagananda babies prohibited
-
-*2024-02-29 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193944) · `si`
-
-The Supreme Court today issued an order to prevent the legal profession before the lawyer Nagananda Kodituwakku.
-
-◼️
-
-[Data](articles/8f9150bf.json)
-
-[Extended Data](ext_articles/8f9150bf.ext.json)
-
----
-
-### Sri Lanka's ban on research ships
-
-*2024-02-29 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/177569) · `ta`
-
-China has expressed its displeasure over Sri Lanka's ban on research vessels.
-
-China has expressed its dissatisfaction with the ban on Chinese research outlets from Sri Lanka from being researched in Sri Lanka's Special Economic Zone since January third.
-
-Sri Lanka announced the ban as China's Jiang Yang Kong 3 researched the south Indian seas.
-
-There have been reports that a particular ship belongs to the Ministry of Natural Resources of China.
-
-Sri Lanka has imposed the ban on the issue of security on its neighboring research.
-
-However, Chinese authorities have been very dissatisfied with this decision in Sri Lanka, and the pressure of another country has expressed their dissatisfaction with Sri Lanka's decision.
-
-◼️
-
-[Data](articles/c4d82d5f.json)
-
-[Extended Data](ext_articles/c4d82d5f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 03:32:52**
+As of **2024-03-01 03:50:26**
 
 ## Newspaper Stats
 
-*Scraped **10,130** Articles*
+*Scraped **10,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 526
 islandlk | 531
-dailyftlk | 534
+dailyftlk | 535
 adalk | 864
 adaderanalk | 1,223
 tamilmirrorlk | 1,230
@@ -26,25 +26,45 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,129 (100.0%) of 10,130 articles have been extended.
+10,131 (100.0%) of 10,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### மத்திய மாகாணத்தில் மேலதிக வகுப்புக்களுக்கு தடை விதித்திருந்த போதிலும் அதனை மீறிய  அதிபர் உட்பட 58 ஆசிரியர்களுக்கு இடமாற்றம்
+### Sri Lanka’s quest for economic independence: Navigating the maze of agricultural exports
+
+*2024-03-01 02:50:07* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-quest-for-economic-independence-Navigating-the-maze-of-agricultural-exports/4-759024) · `en`
+
+There are a number of reasons to still be optimistic about the future
+
+Sri Lanka, despite being a nation with a rich history once known to be self-sufficient as the Pearl of the Indian Ocean and a strategically located trading hub on the maritime Silk Route fostering a vibrant culture, has long grappled with achieving consistent and sustainable economic independence, especially since after the worst economic crisis the country ever faced recently in 2022. One of the key areas where this struggle is most evident is in agriculture which has been the backbone of the island nation’s economy for centuries, still employing nearly a third of the population, especially made up by daily wage-earning rural communities, particularly women, and contributes substantially to Sri Lanka’s GDP as well as food security.
+
+...
+
+[Data](articles/f72f47d9.json)
+
+[Extended Data](ext_articles/f72f47d9.ext.json)
+
+---
+
+### Despite the ban on additional classes in the Central Province, 58 teachers, including the Chancellor, were transferred
 
 *2024-03-01 02:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177636) · `ta`
 
-மத்திய மாகாணத்தில் மாணவர்களுக்கு  கட்டணம் அறவிடப்பட்டு நடத்தப்படும் மேலதிக வகுப்புக்களுக்குத் தடை விதித்திருந்த போதிலும்  அதையும் மீறி சொந்த வகுப்புகளில் படிக்கும் மாணவர்களுக்கு மேலதிக வகுப்புகளை ஏற்பாடு செய்யதாகக் கூறும் மேற்படி மாகாணத்தில் உள்ள பாடசாலைகளின் அதிபர் உட்பட 58 ஆசிரியர்களை வேறு பாடசாலைகளுக்கு இடமாற்றம் செய்ய மாகாண கல்வி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+The Provincial Ministry of Education has taken steps to relocate 58 teachers, including the Principal of Schools in the province, although the students in the Central Province have banned additional classes to be charged for students in the Central Province.
 
-கினிகத்தேன ஆரம்பப் பாடசாலையொன்றின் அதிபர் ஒருவர், ஆசிரியர்களுக்கு வழங்கிய சுற்றறிக்கை தமக்கு செல்லுபடியாகாது எனக் கூறி, பணத்திற்காக தனது பாடசாலையின் பிள்ளைகளுக்கு மேலதிக வகுப்புகளை நடாத்தியுள்ளதாகவும்,  மேலும்  மற்றுமொருவரும் அது தொடர்பில் விசாரணை நடத்தப்பட்டு வருவதாகவும் மாகாண கல்வி அமைச்சு தெரிவித்துள்ளது.
+The Provincial Ministry of Education has said that a principal of a Ginigathena primary school has been conducting additional classes for the children of his school for money, claiming that the circular given to teachers is not valid.
 
-மத்திய மாகாண சபையின் கீழ் இயங்கும் கண்டி மற்றும் அதனை அண்மித்த பிரதேசங்களில் உள்ள பிரபல பாடசாலைகளின் ஆசிரியர்கள் சிலருக்கு கிடைத்த தகவலின் அடிப்படையில் மாகாண கல்விச் செயலாளர் மேனகா ஹேரத்தின் பணிப்புரையின் பேரில் விசேட சுற்றிவளைப்பு பிரிவு ஒன்றும் ஸ்தாபிக்கப்பட்டுள்ளது.
+The Special Circular Division has been established on the directives of the Provincial Education Secretary Menaka Herath, based on information received by some of the teachers of the famous schools in Kandy and nearby areas under the Central Provincial Council.
+
+The provincial education ministry has taken steps to investigate the matter based on a report on the Regional Classes and the complaints from the parents.
 
 ...
 
 [Data](articles/ea168f5e.json)
+
+[Extended Data](ext_articles/ea168f5e.ext.json)
 
 ---
 
@@ -1969,25 +1989,5 @@ A visit to one of our flagship projects in Sri Lanka, the Ceylon German Technica
 [Data](articles/c0c8084d.json)
 
 [Extended Data](ext_articles/c0c8084d.ext.json)
-
----
-
-### President Ranil meets new IGP
-
-*2024-02-29 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97625/president-ranil-meets-new-igp) · `en`
-
-The newly appointed Inspector General of Police, T. M. W. Deshabandu Tennakoon met with President Ranil Wickremesinghe at the Presidential Secretariat this morning (29 Feb.).
-
-Upon assuming duties as the 36th Inspector General of Police in Sri Lanka, Deshabandu Tennakoon met with the President.
-
-President Ranil Wickremesinghe extended his felicitations to the new Inspector General of Police and engaged in a friendly conversation with him.
-
-As a gesture of respect and tradition, the new Inspector General of Police presented the President with a customary memento.
-
-◼️
-
-[Data](articles/ffc8998f.json)
-
-[Extended Data](ext_articles/ffc8998f.ext.json)
 
 ---

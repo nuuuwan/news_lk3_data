@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 01:33:06**
+As of **2024-03-01 01:51:22**
 
 ## Newspaper Stats
 
-*Scraped **10,124** Articles*
+*Scraped **10,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 534
 adalk | 864
 adaderanalk | 1,223
 tamilmirrorlk | 1,230
-virakesarilk | 1,390
+virakesarilk | 1,391
 dailymirrorlk | 1,533
 adaderanasinhalalk | 1,540
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,123 (100.0%) of 10,124 articles have been extended.
+10,125 (100.0%) of 10,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### The body of a male from the top Kothmalai reservoir is recovered
+
+*2024-03-01 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177634) · `ta`
+
+Residents of the area who saw a body floating in the reservoir on Thursday (29) informed the police.
+
+Talawakelle police are conducting investigations into the incident. The deceased has been identified as Kasun Lakmal, a 24 -year -old from Olirut area.. After the judge visited the body, the body will be taken to the Nuwara Eliya District General Hospital for autopsy. Police said.
+
+◼️
+
+[Data](articles/c33613d8.json)
+
+[Extended Data](ext_articles/c33613d8.ext.json)
+
+---
 
 ### Third LKI Foreign Policy Forum reassesses relevance of non-alignment in a polarised world
 
@@ -145,6 +161,8 @@ Thanks to Cabinet Spokesman Minister Bandula Gunawardena for revealing that the 
 ...
 
 [Data](articles/d2cd8034.json)
+
+[Extended Data](ext_articles/d2cd8034.ext.json)
 
 ---
 
@@ -1981,23 +1999,5 @@ The new IGP was also presented to the President.
 [Data](articles/d8463315.json)
 
 [Extended Data](ext_articles/d8463315.ext.json)
-
----
-
-### Keheliya petition against arrest
-
-*2024-02-29 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193955) · `si`
-
-Mr. Keheliya Rambukwella has filed a fundamental rights petition to the Supreme Court through his lawyers to prosecute their basic human rights without any reasonable reason by the CID and remanded.
-
-The IGP and the Director of the Criminal Investigation Department (CID) have been named as respondents of the petition Sanath Wijewardene.
-
-The petitioner has demanded the recovery of Rs. 100 million to the respondents to violate fundamental human rights.
-
-◼️
-
-[Data](articles/34c6793d.json)
-
-[Extended Data](ext_articles/34c6793d.ext.json)
 
 ---

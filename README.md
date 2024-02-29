@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 21:51:43**
+As of **2024-02-29 22:02:59**
 
 ## Newspaper Stats
 
-*Scraped **10,093** Articles*
+*Scraped **10,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,220
 tamilmirrorlk | 1,227
 virakesarilk | 1,386
 dailymirrorlk | 1,524
-adaderanasinhalalk | 1,536
+adaderanasinhalalk | 1,537
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,093 (100.0%) of 10,093 articles have been extended.
+10,094 (100.0%) of 10,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### First Local HD channel of the Freesat Television TV Derana
+
+*2024-02-29 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193975) · `si`
+
+TV Derana has been able to become the first local HD channel of the Satellite Technology Freesat Television Network.
+
+The signing of the agreement was held recently at Deraka Head Office.
+
+Accordingly, the audience will be able to view the TV Derana HD channel along tomorrow (01) to tomorrow.
+
+◼️
+
+[Data](articles/2adbd3d2.json)
+
+[Extended Data](ext_articles/2adbd3d2.ext.json)
+
+---
 
 ### President declares open SLAF Cadet Officers
 
@@ -2025,29 +2043,5 @@ The survey, carried out by Institute for Health Policy (IHP) using its Sri Lanka
 [Data](articles/6420a269.json)
 
 [Extended Data](ext_articles/6420a269.ext.json)
-
----
-
-### Husband arrested for violating his wife's death
-
-*2024-02-29 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193950) · `si`
-
-The Kalutara Crimes Division has been assaulted by the Kalutara Crimes Division to arrest her husband as a wife was killed a month after a month of the three-wheeler.
-
-A 32-year-old resident of theersuraliya has been arrested by the police said.
-
-The suspect is the night of the night of April 10, 2023. B. Kasussane, Duluka, a 30-year-old mother of her mother had been admitted to the Badaduwala.
-
-Since he was transferred to the Colombo National Hospital as her condition was seriously transferred to the Colombo National Hospital, she had died on May 7, 2023.
-
-The suspect was arrested following a long investigation by the Family Family Ministers to be suspected of her death.
-
-The medical officer's report has noted that the woman's death had been caused by the death of the woman due to serious serious injuries due to a head injuries.
-
-◼️
-
-[Data](articles/fae752eb.json)
-
-[Extended Data](ext_articles/fae752eb.ext.json)
 
 ---

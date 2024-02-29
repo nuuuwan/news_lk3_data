@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 12:17:34**
+As of **2024-02-29 12:32:55**
 
 ## Newspaper Stats
 
-*Scraped **9,978** Articles*
+*Scraped **9,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 514
 dailyftlk | 528
 islandlk | 531
-adalk | 846
-adaderanalk | 1,199
+adalk | 847
+adaderanalk | 1,202
 tamilmirrorlk | 1,212
 virakesarilk | 1,376
 dailymirrorlk | 1,508
@@ -26,65 +26,117 @@ adaderanasinhalalk | 1,514
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,974 (100.0%) of 9,978 articles have been extended.
+9,978 (100.0%) of 9,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### ශ්‍රී ලංකා කණ්ඩායම දිවයිනෙන් පිටත්ව යයි
+### SC refuses leave to proceed with Sumanthiran’s petition against Online Safety Bill
+
+*2024-02-29 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97616/sc-refuses-leave-to-proceed-with-sumanthirans-petition-against-online-safety-bill) · `en`
+
+The Supreme Court has refused to grant leave to proceed with the petition filed by Tamil National Alliance (TNA) MP M.A. Sumanthiran, challenging the passing of the much-disputed Online Safety Bill in Parliament.
+
+The Online Safety Bill has been a subject of debate and contention, with several parties having raised concerns about potential limitations on freedom of expression, and other potential violations of the Constitution through its provisions.
+
+◼️
+
+[Data](articles/1233ebd3.json)
+
+---
+
+### Health sector trade unions to meet Minster tomorrow
+
+*2024-02-29 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97615/health-sector-trade-unions-to-meet-minster-tomorrow) · `en`
+
+The collective of health sector trade unions have stated that the latest round of discussions with the health authorities pertaining to their demands ended on a positive note.
+
+The trade unions met on Wednesday (28 Feb.) with the committee appointed to look into the demands of the health sector trade unions, under the patronage of the Secretary to the Ministry of Health.
+
+According to the co-convener of the Health Trade Union Alliance (HTUA) Chanaka Dharmawickrama, the discussion also focused on the technical report prepared by the committee.
+
+However, the health sector trade unions are slated to meet with Health Minister Dr. Ramesh Pathirana on 01 March, as he was not present at yesterday’s meeting, Dharmawickrama stated,
+
+...
+
+[Data](articles/0b030c72.json)
+
+---
+
+### Sri Lanka leaves the island
 
 *2024-02-29 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193948) · `si`
 
-බංග්ලාදේශය සමග විස්සයි විස්ස තරගාවලියට සහභාගීවන ශ්‍රී ලංකා කණ්ඩායම අද දිවයිනෙන් පිටත්ව ගියේය.
+Sri Lanka leaving the island today with Bangladesh.
 
-ඊට පෙර ශ්‍රී ලංකා කණ්ඩායම ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේදී ආගමික වතාවත්වල නිරතවිය.
+Prior to that, the Sri Lankan team was engaged in religious observances in Sri Lanka Cricket.
 
-බංග්ලාදේශය සමග පැවැත්වීමට නියමිත තරග 3කින් සමන්විත 20/20 තරගාවලිය සඳහා ශ්‍රී ලංකා සංචිතය ඊයේ ප්‍රකාශයට පත්කළේය.
+The Sri Lankan squad was announced yesterday for the 3-match tournament with Bangladesh.
 
-20/20 නිත්‍ය නායක වනිඳු හසරංගට තරග දෙකක තරග තහනමක් පැනවීම හේතුවෙන් පළමු තරග දෙක සඳහා කණ්ඩායම මෙහෙයවීමේ වගකීම හිමි වී ඇත්තේ චරිත් අසලංකටය.
+Charith is the responsibility of leading the team for the first two matches due to permanent leader Moratuwa Hasaranga.
 
-20/20 තරගාවලිය සඳහා වන ශ්‍රී ලංකා සංචිතයට අවිශ්ක ප්‍රනාන්දු සහ ජෙෆ්රි වැන්ඩර්සේ ද ඇතුළත් වී තිබේ.
+It is also included in the squad for the 20/20 tournament.
 
-20/20 සංචිතයට ඇතුළත් සෙසු ක්‍රීඩකයන් වන්නේ කුසල් මෙන්ඩිස්, සදීර සමරවික්‍රම, ඇන්ජලෝ මැතිව්ස්, දසුන් ශානක, මහීෂ් තීක්ෂණ, ධනංජය ද සිල්වා, කුසල් ජනිත් පෙරේරා, ඩිල්ෂාන් මදුෂංක, නුවන් තුෂාර, මතීෂ පතිරණ, අකිල ධනංජය, බිනුර ප්‍රනාන්දු, කමිඳු මෙන්ඩිස්.
+The rest of the 20/20 pool, Kusal Mendis, Sedara Samarawicka, Dhananju De Silva, Kusal Janith Pathirana, Akila Fernando, Kaminda Mendis.
 
-දෙරට අතර පළමු විස්සයි විස්ස තරගය මාර්තු 4 වැනිදා ආරම්භ වීමට නියමිතය.
+The first Twenty20 match between the two countries will commence on March 4.
 
 ◼️
 
 [Data](articles/8c2f836d.json)
 
+[Extended Data](ext_articles/8c2f836d.ext.json)
+
 ---
 
-### Online පනත - සුමන්දිරන්ගේ FR පෙත්සම නිෂ්ප්‍රභ කෙරේ
+### Online Act - Fr petition refuted
 
 *2024-02-29 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193947) · `si`
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිතතාව පිළිබඳ පනත පාර්ලිමේන්තුවේ සම්මත කළ ආකාරය නීතියට පටහැනි යැයි තීන්දු කරන ලෙස ඉල්ලා ජනාධිපති නීතිඥ එම්. ඒ. සුමන්දිරන් මහතා විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (29) තීරණය කළේය.
+President's Counsel MP Attorney at Law to decide how the Act on On-On-On-Up Act was passed in Parliament. it. The Supreme Court today (29) decided to dismiss the fundamental rights petition filed by Mr. Sumanthiran.
 
-ප්‍රියන්ත ජයවර්ධන, ශිරාන් ගුණරත්න සහ අචල වෙංගප්පූලි යන මහත්වරුන්ගෙන් සමන්විත ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම තීන්දු ලබා දුන්නහ.
+Priyantha Jayawardene, Shiran Gunaratne and Achala Vingappeodi were also sentenced to these decisions.
 
-අදාළ පනත් කෙටුම්පත සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය විසින් ඉදිරිපත් කළ සංශෝධන ඊට ඇතුළත් නොකිරීම හේතුවෙන් එය නීත්‍යානුකූලව සම්මත වී නොමැති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා සුමන්දිරන් මන්ත්‍රීවරයා විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබිණි.
+The petition was presented by MP Sumanthiran demanding a decision that the Supreme Court's amendments were not included in the relevant bill.
 
 ◼️
 
 [Data](articles/c4333bac.json)
 
+[Extended Data](ext_articles/c4333bac.ext.json)
+
 ---
 
-### ජනප්‍රිය ජාතික පාසල් 50 ක ලොකු පුටු පිරවේ
+### දෙහිවලදී බස් දෙකක් රේස් ඇවිත් ත්‍රීරෝද රථ රියදුරෙකු බිලීගනී
+
+*2024-02-29 11:42:34* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවලදී-බස්-දෙකක්-රේස්-ඇවිත්-ත්‍රීරෝද-රථ-රියදුරෙකු-බිලීගනී/11-408345) · `si`
+
+දෙහිවල ගුවන්පාලම  තරුණ බෞද්ධ සංගමය අසල  කෙලවරදී  බස්රථ දෙකකට ත්‍රීරෝද රථයක්  මැදීවී සිදුවූ අනතුරකින් ත්‍රීරෝද රථයේ රියදුරු එම ස්ථානයේදීම මියගොස් ඇතැයි දෙහිවල පොලීසිය පැවසීය. මෙලෙස මිය ගොස් ඇත්තේ ගල්කිස්ස ටෙම්පල්පාර පලවන හරස් පටුමග අංක 75/86 /සී හී පදිංචිව සිටි ත්‍රීරෝද රථ රියදුරකු වන දෙහිවලගේ ඇන්ටන් ක්‍රිශාන්ත නම් ( 56 ) හැවිරිදි විවාහක අයෙකුදවේ .
+
+මෙම අනතුර 29 දින පෙ.ව.7.35 ට පමණ සිදුවී ඇත .ගල්කිස්ස දෙස සිට කොළඹ බලා ධාවනය වූ මාර්ග අංක 101 හා 155 දරන බස්රථ දෙකක් මෙලෙස අනතූරට පත්ව ඇති බවත් පොලීසිය කියයි. මෙම බස් රථ දෙක ගල්කිස්ස දෙස සිටභ මාර්ගයේ තරගයට ධාවනය කරමින් රංඩූ වෙමින් පැමිණ ඇති අතර,  දෙහිවල මංසන්දියේ ප්‍රධාන වීථි සංඥා පුවරුව පසුකර බිම් මාර්ගයෙන් කොළඹ දෙසට ධාවනය කරමින් එකීනෙක ඉස්සර කිරීමට උත්සාහ කරනූ ලැබු අවස්ථාවේ එම මැර්ගයේම පැමිණි ත්‍රීරෝද රථය ඉදීරියෙන් ගමන්කල බස්රථයට දකුණු පසින් ගමන් කර ඇති අතර, එම අවස්තාවේදීම පීටකොටුව බස්රථය එම ත්‍රීරෝද රථයද මැදිකර බස්  රථ දෙකට මැදිවීමෙන් රියදුරු ඒතුල බරපතල තුවාල ලබා කාඩුපට්ටම්වී තිබූ ත්‍රීරෝද රථය තුලම මිය ගොස් සිටි බව පොලීසිය කියයි .
+
+...
+
+[Data](articles/82e3e250.json)
+
+---
+
+### The big chairs of 50 popular national schools
 
 *2024-02-29 11:39:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනප්‍රිය-ජාතික-පාසල්-50-ක-ලොකු-පුටු-පිරවේ/11-408344) · `si`
 
-දිවයිනේ ප්‍රමුඛතම ජනප්‍රිය   ජාතික පාසල් 50 ක ජුනි 30 දිනට ඇතිවන  පුරප්පාඩු  සඳහා විදුහල්පතිවරුන්  බඳවා ගැනීමට අධ්‍යාපන අමාත්‍යාංශය අයදුම් පත් කැඳවා තිබේ.
+Applications have been recruited to the Ministry of Education for the vacancies for the vacancies for 50 June 30 of the island.
 
-කොළඹ රාජකීය ,නාලන්ද,දේවි බාලිකා,සිරිමාවෝ බණ්ඩාරනායක,මොරටුව වේල්ස් කුමර,මහනුවර කිංස්වුඩ්,ගම්පහ බණ්ඩාරනායක යන පාසල් ඇතුළු ජාතික පාසල් පනහක් සඳහා මාර්තු 20 දක්වා  මෙලෙස අයදුම්පත් කැඳවා ඇත.
+Applications have been called on Fifty 9 National Schools, Kingswood, Bandaranaike, Gampaha, Kingswood, Gampaha Bandaranaike, Colombo.
 
-අධ්‍යාපන පරිපාලන සේවයේ පළමු ශ්‍රේණියේ නිලධාරින්ට පමණක් මේ සඳහා ඉල්ලුම් කළ හැකිය.
+Only the first grade officials in the Education Administrative Service can apply for this.
 
 ◼️
 
 [Data](articles/deac254e.json)
+
+[Extended Data](ext_articles/deac254e.ext.json)
 
 ---
 
@@ -103,6 +155,32 @@ At present, Pakistan suffered a strong economic crisis and a few months ago, the
 [Data](articles/6fa9ee7b.json)
 
 [Extended Data](ext_articles/6fa9ee7b.ext.json)
+
+---
+
+### Organiser of ‘white party’ in Sri Lanka apologises after backlash
+
+*2024-02-29 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97614/organiser-of-white-party-in-sri-lanka-apologises-after-backlash) · `en`
+
+An organiser of a “white party” in Sri Lanka has apologised after the event sparked a backlash online.
+
+The event’s advertisement specified a white dress code, but also had a line saying “Face control: White” - which was largely interpreted to mean the event was open only to white people.
+
+An organiser later said the event was “a bad idea”, adding that it was meant to bring together expatriates.
+
+The party, which was due to take place last Saturday, was cancelled.
+
+Backlash against the event was swift, with many on social media calling it “disgusting” and “racist”.
+
+“I know not all expats are like this... but this sort of thing should be stopped fast and stopped hard,” said one local restaurant owner.
+
+“How dare they come to a brown country and ban the people of that country,” another social media user said on Facebook.
+
+Writing on Instagram under the handle geo_ecstatic, a man who said he was an event organiser, said there was “no malice or racism” in planning the party.
+
+...
+
+[Data](articles/73084aa9.json)
 
 ---
 
@@ -580,17 +658,19 @@ Sri Lanka took such a decision in the midst of pressure from India which cited s
 
 ---
 
-### ශ්‍රී ලන්කන් ලංසු විවෘත කිරීම මාර්තු 05දා
+### Opening SriLankan Bids On March 5
 
 *2024-02-29 08:24:52* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ලංසු-විවෘත-කිරීම-මාර්තු-05දා/11-408342) · `si`
 
-මාර්තු 05 වනදා ශ්‍රීලන්කන් ගුවන් සේවය මිලදී ගැනීම සඳහා ලංසු විවෘත කිරීම සජිවීව සිදුකිරිමට නියමිතව තිබේ. එහිදී වැඩිම ලංසුවක් ඉදිරිපත් කර ඇති අයෝජකයෙක් තෝරා ගැනීමට වරාය, නාවුක සහ ගුවන් සේවා අමාත්‍යාංශය අවධානය යොමුකර තිබේ.
+Opening of Bids to be purchased for purchasing the airline on March 05 is due to be carried out. The Ministry of Ports, Navy and Aviation have focused on the selection of a proposal that has been submitted.
 
-අවම වශයෙන් ඩොලර් මිලියන 500ක ආයෝජනයක් සිදුකළ හැකි මෙන්ම ගුවන් සේවයේ 6000කට ආසන්න සේවකයන් පිරිම ආරක්ෂා කර ගත හැකි ආයෝකයෙක් තෝරා ගැනීමට අමාත්‍යාංශයේ අවධානය යොමුව තිබේ.
+The Ministry has focused at least US $ 500 million as well as a man who can safeguard the filling of nearly 6,000 airlines.
 
 ◼️
 
 [Data](articles/ca95f35c.json)
+
+[Extended Data](ext_articles/ca95f35c.ext.json)
 
 ---
 
@@ -1969,89 +2049,5 @@ Biyagama police said that the fire broke out this evening near the site where th
 [Data](articles/b3b0fb8d.json)
 
 [Extended Data](ext_articles/b3b0fb8d.ext.json)
-
----
-
-### 9 deaths due to exchange after two months
-
-*2024-02-28 19:49:55* · [`adalk`](https://www.ada.lk/breaking_news/මාස-දෙකට-අධිවේගයේ-අනතුරුවලින්-මරණ-9ක්/11-408339) · `si`
-
-Expressway traffic vehicles say 9 people have been killed in accidents this year within the expressway system. Nine deaths have taken place in seven accidents.
-
-The police said that the number of people killed in the road during the same year was four per cent as a percentage of these two months of these two months.. This data revealed on Monday (27) with two people working on contract basis in the Kurundala Hatween the Expressway in the Picture Department of Cinnugaha Hattaps.
-
-About a month ago, state minister Sanath Nishantha and his driver, the police constable, who served as his driver, died in an accident in Katunayake Colombo Expressway.
-
-It is noteworthy that the drivers of those vehicles were not injured with the two accidents.
-
-Police Investigations have revealed that the accidents were carried out due to heavy rapid vehicles.
-
-◼️
-
-[Data](articles/62118c3f.json)
-
-[Extended Data](ext_articles/62118c3f.ext.json)
-
----
-
-### Police reveal about the murderers
-
-*2024-02-28 19:44:53* · [`adalk`](https://www.ada.lk/breaking_news/කුලී-ඝාතකයන්-ගැන-පොලීසියෙන්-හෙළිදරව්වක්/11-408338) · `si`
-
-It has been reported that the people involved in murder are hidden in some parts of the island with the objective of obtaining rent.
-
-People who have been involved in mass travelers have also been involved in arms training to the arms training of murder in this way.
-
-People who have been working in the security forces and the people who have left the security and service have been found that some people currently in the present work are also involved in these activities. A special program has been prepared to changing crimes and arrest.
-
-Special Task Force officials conduct criminals to arrest the criminals and carry out the arrests of the arrests and the assistance of the officers of the police officers.
-
-Several members of the security forces have been arrested in several hubs. The police said that some of the security forces and criminals are being observed with crime gangs, with the objective of making money.
-
-...
-
-[Data](articles/698e98d4.json)
-
-[Extended Data](ext_articles/698e98d4.ext.json)
-
----
-
-### 2.4 mn family units to receive ’Aswasuma’ in second phase: Minister
-
-*2024-02-28 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2-4-mn-family-units-to-receive-Aswasuma-in-second-phase-Minister/108-277903) · `en`
-
-Colombo, Feb. 28 (Daily Mirror)- All necessary arrangements have been made to extend benefits in the second phase of the "Aswasuma" programme to 2.4 million family units, starting from June 2024, Finance State Minister Shehan Semasinghe said.
-
-The State Minister underscored the imminent closure of the second phase of the applications, slated to conclude on March 15, 2024.
-
-Emphasizing the importance of timely submission, he reiterated that individuals failing to submit their applications by the given deadline will forfeit eligibility for benefits associated with the programme.
-
-He said this during a media briefing at the Presidential Media Centre today (28), themed 'Collective Path to a Stable Country'.
-
-Minister Semasinghe said that approximately 7,000 individuals who were found to have received benefits based on false information have been removed from the programme due to appeals and objections.
-
-...
-
-[Data](articles/22a669eb.json)
-
-[Extended Data](ext_articles/22a669eb.ext.json)
-
----
-
-### Opening of Bids for Purchase SriLankan
-
-*2024-02-28 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193930) · `si`
-
-Minister Naval Siripala de Silva said that the opening of the bids were carried out by the SriLankan's Airlines on March 5 today.
-
-The Minister made these comments participating at the GET REAL program of Ada Derana 24.
-
-"We have called bids from 10 am to 2 pm. It is done live. Bids can be opened and evaluated by 2 pm. There is also a technical team to support it. They are conducting the bid evaluation. At the end it will be submitted to the cabinet. A strong investor who can invest at least $ 500 million in investing in US $ 500 million is to come. Also, the jobs of 6,000 airlines need to be secured. "
-
-◼️
-
-[Data](articles/5de41ecc.json)
-
-[Extended Data](ext_articles/5de41ecc.ext.json)
 
 ---

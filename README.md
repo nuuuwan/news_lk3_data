@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 15:33:07**
+As of **2024-02-29 15:51:41**
 
 ## Newspaper Stats
 
-*Scraped **10,007** Articles*
+*Scraped **10,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 514
 dailyftlk | 528
 islandlk | 531
 adalk | 851
-adaderanalk | 1,208
+adaderanalk | 1,211
 tamilmirrorlk | 1,212
-virakesarilk | 1,377
+virakesarilk | 1,378
 dailymirrorlk | 1,512
 adaderanasinhalalk | 1,522
 
@@ -26,27 +26,103 @@ adaderanasinhalalk | 1,522
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,006 (100.0%) of 10,007 articles have been extended.
+10,011 (100.0%) of 10,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### නව පොලිස්පති ජනපතිව හමුවෙයි
+### President Ranil meets new IGP
+
+*2024-02-29 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97625/president-ranil-meets-new-igp) · `en`
+
+The newly appointed Inspector General of Police, T. M. W. Deshabandu Tennakoon met with President Ranil Wickremesinghe at the Presidential Secretariat this morning (29 Feb.).
+
+Upon assuming duties as the 36th Inspector General of Police in Sri Lanka, Deshabandu Tennakoon met with the President.
+
+President Ranil Wickremesinghe extended his felicitations to the new Inspector General of Police and engaged in a friendly conversation with him.
+
+As a gesture of respect and tradition, the new Inspector General of Police presented the President with a customary memento.
+
+◼️
+
+[Data](articles/ffc8998f.json)
+
+[Extended Data](ext_articles/ffc8998f.ext.json)
+
+---
+
+### ACMC MP’s sacking from party is unlawful, court rules
+
+*2024-02-29 15:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97624/acmc-mps-sacking-from-party-is-unlawful-court-rules-) · `en`
+
+The Supreme Court has ruled that the decision to expel Parliamentarian S. M. M. Muszhaaraff from the All Ceylon Makkal Congress (ACMC) is unlawful.
+
+The three-member Supreme Court judge bench led by Justice Priyantha Jayawardena delivered this ruling when a petition filed by MP Muszhaaraff against the party’s decision to expel him, was taken up before the courts today (29).
+
+◼️
+
+[Data](articles/284b6f1b.json)
+
+[Extended Data](ext_articles/284b6f1b.ext.json)
+
+---
+
+### Keheliya files FR petition against arrest, demands compensation
+
+*2024-02-29 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97623/keheliya-files-fr-petition-against-arrest-demands-compensation-) · `en`
+
+A Fundamental Rights (FR) petition was filed Thursday (29 Feb.) on behalf of former Health Minister Keheliya Rambukwella, who is currently in remand custody.
+
+Rambukwella’s attorneys have filed the relevant petition challenging his arrest by the Criminal Investigation Department (CID), and demanding a compensation of Rs. 100 million.
+
+The former Minister of Health was arrested by the CID on 02 February, in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived at the CID to give a statement in compliance with a court order. He had been questioned for nearly 10 hours before being arrested.
+
+◼️
+
+[Data](articles/e73a2c9d.json)
+
+[Extended Data](ext_articles/e73a2c9d.ext.json)
+
+---
+
+### Why not send Shantan to Sri Lanka before he dies?
+
+*2024-02-29 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177595) · `ta`
+
+The Madras High Court has questioned the Tamil Nadu government why he did not send Santhan to Sri Lanka before he died.
+
+Shantan had filed a petition in the Madras High Court demanding her to be sent to Sri Lanka to look after his mother.. Additional Criminal Prosecutor Muniyapparaj appeared on behalf of the government and said that he had died unfortunately as the work was being sent to Sri Lanka.
+
+The judges questioned when the permission to send Sri Lanka to Sri Lanka. Additional Solicitor General ARL responded. Sundaresan said he had been granted permission to send him to Sri Lanka on the 22nd.. The judges questioned why the central government did not send permission to send Shantan to Sri Lanka.
+
+Responding to this, the state prosecutor said that Shantan had been admitted to the hospital since January 24 and that he could not move.. Subsequently, the judges ordered the filing of Shantan's medical report and postponed the hearing.
+
+◼️
+
+[Data](articles/3f47e7f0.json)
+
+[Extended Data](ext_articles/3f47e7f0.ext.json)
+
+---
+
+### New IGP meet President
 
 *2024-02-29 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193956) · `si`
 
-නව පොලිස්පති දේශබන්දු ටී. එම්. ඩබ්ලිව්. ඩී. තෙන්නකෝන් මහතා අද (29) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවිය.
+New IGP of Sri Lanka. M. W. D. Tennakoon met President Ranil Wickremesinghe at the Presidential Secretariat this morning.
 
-මෙරට 36 වන පොලිස්පතිවරයා ලෙස වැඩ භාර ගැනීමෙන් අනතුරුව දේශබන්දු තෙන්නකෝන් මහතා මෙලෙස ජනාධිපතිවරයා හමුවී ඇත.
+Deshabandu Tennakoon met with the President following the assustee of work as the 3rd IGP in Sri Lanka.
 
-නව පොලිස්පතිවරයා වෙත සිය සුබපැතුම් පළ කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඔහු සමඟ සුහද කථාබහක නිරතවූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+President Ranil Wickremesinghe, who was congratulated to the new IGP, was a friendly chat with him, the Presidential Media Unit said.
 
-නව පොලිස්පතිවරයා විසින් සාම්ප්‍රදායානුකූලව ජනාධිපතිවරයා වෙත සමරු තිළිණ පිළිගැන්වීම ද මෙහිදී සිදු කෙරුණි.
+The new IGP was also presented to the President.
 
 ◼️
 
 [Data](articles/d8463315.json)
+
+[Extended Data](ext_articles/d8463315.ext.json)
 
 ---
 
@@ -1993,81 +2069,5 @@ He added that steps should be taken to release the political prisoners detained 
 [Data](articles/426e6a98.json)
 
 [Extended Data](ext_articles/426e6a98.ext.json)
-
----
-
-### Sri Lanka Services Company Sales: Time to get aspirations
-
-*2024-02-28 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177552) · `ta`
-
-For the fifth time, the aspirations of national and international investors have been extended for the privatization of Sri Lanka Services Company.. Accordingly, the deadline for the sixth of March.
-
-It was decided in December last year to get aspirations from national and international investors for the sale of Sri Lanka Services Company. As the official announcements have been issued, no investors have come forward and have been extended for the fifth time.
-
-Sri Lankan Airlines Company is leading the list of state -owned corporations.
-
-National and international passengers were opposed to heavy inconveniences last Saturday. Commenting on the incident, the Port, Shipping and Civil Aviation Minister Nimal Siripala de Silva said the delay was due to the delay.
-
-In the meantime, Sri Lanka's airlines have been canceled yesterday and a few flights have been canceled yesterday.
-
-◼️
-
-[Data](articles/8241fa99.json)
-
-[Extended Data](ext_articles/8241fa99.ext.json)
-
----
-
-### SriLankan Airlines sold at auction
-
-*2024-02-28 22:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏலத்தில்-விற்கப்படும்-ஸ்ரீலங்கன்-எயார்லைன்ஸ்/175-333961) · `ta`
-
-Ports, Shipping and Aviation Minister Nimal Siripala de Silva today announced that the auctions for the sale of SriLankan Airlines will be conducted on March 05.
-
-"We have called for the auctions. March 5 may come from 10.00 am to 2.00 pm. This will be done live. Open auctions and evaluate at 2.00 pm. There is also a technical group to support it. They will evaluate the auctions. Finally, it will be submitted to the cabinet. Strong investor to invest at least 500 million US $. He also said that it is necessary to protect the work of 6,000 employees of the airline. Remble
-
-◼️
-
-[Data](articles/6692f8d0.json)
-
-[Extended Data](ext_articles/6692f8d0.ext.json)
-
----
-
-### Disciplinary action over video causing discomfort to child in classroom
-
-*2024-02-28 22:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Disciplinary-action-over-video-causing-discomfort-to-child-in-classroom/108-277922) · `en`
-
-Colombo, Feb 28 (Daily Mirror) - The Education Ministry is set to initiate appropriate disciplinary action against the individual involved in recording a video that caused discomfort to a small child in a school classroom.
-
-A video is presently circulating on social media, featuring the questioning of a small child, resulting in the child feeling uncomfortable while responding.
-
-Upon contacting the Ministry, a senior official said that an investigation will be conducted to identify the individual responsible for recording the incident.
-
-If it is determined that a teacher was involved, appropriate disciplinary action will be taken against him or her.
-
-◼️
-
-[Data](articles/0f87202f.json)
-
-[Extended Data](ext_articles/0f87202f.ext.json)
-
----
-
-### Young family death
-
-*2024-02-28 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177551) · `ta`
-
-A young family member dies on Tuesday (27). Devarasa Kamalraj (age 39) from Mayilani North Chunnakam has died.
-
-The electricity connection was cut off in his house. In this case, he has used electricity from the foreign house and used the water motor. He was subjected to an electrical attack.
-
-The doctors said he had already died when he was taken to the Tellippalai hospital.. A sudden death investigation officer A. Jayapalasingham. The body was handed over to relatives today after the anatomical examination.
-
-◼️
-
-[Data](articles/aa305df6.json)
-
-[Extended Data](ext_articles/aa305df6.ext.json)
 
 ---

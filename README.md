@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 06:52:45**
+As of **2024-02-29 07:15:23**
 
 ## Newspaper Stats
 
-*Scraped **9,920** Articles*
+*Scraped **9,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,38 +13,58 @@ bbccomsinhala | 120
 dbsjeyarajcom | 167
 newsfirstlk | 363
 economynextcom | 513
-islandlk | 521
 dailyftlk | 527
+islandlk | 531
 adalk | 841
 adaderanalk | 1,193
 tamilmirrorlk | 1,205
 virakesarilk | 1,373
 dailymirrorlk | 1,499
-adaderanasinhalalk | 1,499
+adaderanasinhalalk | 1,500
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,919 (100.0%) of 9,920 articles have been extended.
+9,920 (99.9%) of 9,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### இந்திய மின் சக்தி அமைச்சின் பிரதிநிதிகள் இலங்கையில்
+### ප්‍රදේශ කිහිපයකට සුළු වැසි
+
+*2024-02-29 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193933) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ නැගෙනහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/fc2f98c0.json)
+
+---
+
+### Representatives of the Ministry of Electricity of India in Sri Lanka
 
 *2024-02-29 04:34:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மின்-சக்தி-அமைச்சின்-பிரதிநிதிகள்-இலங்கையில்/175-333963) · `ta`
 
-இந்திய மின் சக்தி அமைச்சின் செயலாளர் பங்கஜ் அகர்வால் தலைமையிலான குழுவினர் மூன்று நாள் விஜயமாக நாட்டிற்கு வருகை தந்துள்ளனர்.
+A team headed by Pankaj Agarwal, Secretary to the Ministry of Electricity of India, has visited the country for a three -day visit.
 
-அவர்கள் மின் சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகரவை அவரது அமைச்சில் நேற்று சந்தித்தனர்.
+They met the Minister of Power and Energy Kanjana Wijesekera at his ministry yesterday.
 
-இதன்போது, இந்தியாவுடன் திட்டமிடப்பட்டுள்ள மின் கட்டமைப்பை ஒன்றிணைக்கும் வேலைத்திட்டம், 130 மெகாவாட் சம்பூர் மின்னுற்பத்தி செயற்றிட்டம், யாழ். மாவட்டத்தின் மூன்று தீவுகளில் முன்னெடுக்க உத்தேசிக்கப்பட்டுள்ள உத்தேச மின்மயமாக்கல் செயற்றிட்டங்கள் ஆகியன தொடர்பில் கலந்துரையாடப்பட்டுள்ளன. (a)
+Meanwhile, the project to merge the planned power structure with India, 130 MW Sampoor Power Project, Jaffna. The proposed electrification projects that are proposed to carry out the three islands of the district have been discussed.. (A)
 
 ◼️
 
 [Data](articles/5e1d6278.json)
+
+[Extended Data](ext_articles/5e1d6278.ext.json)
 
 ---
 
@@ -730,6 +750,24 @@ Senior Counsel Ajith Pathirana, appearing for Damitha Abeyratne and her husband,
 
 ---
 
+### How the Sri Lanka-Thailand FTA paves the way for enhanced bilateral trade
+
+*2024-02-28 21:20:00* · [`islandlk`](http://island.lk/how-the-sri-lanka-thailand-fta-paves-the-way-for-enhanced-bilateral-trade/) · `en`
+
+with research interests in macroeconomic policy, international trade, labour and health economics. He holds a BSc in Agricultural Technology and Management from the University of Peradeniya, an MS in Agribusiness and Applied Economics from North Dakota State University, and an MS and PhD in Agricultural, Environmental and Development Economics from The Ohio State University.
+
+The Sri Lanka-Thailand Free Trade Agreement (SLTFTA) paves the way for lower tariffs on 85% of products between Sri Lanka and Thailand.
+
+Strategic use of uncommitted lists to restrict imports from the partner country may weaken the effectiveness of SLTFTA.
+
+The agreement opens avenues for trading new products, enhancing bilateral trade potential.
+
+...
+
+[Data](articles/e9187a92.json)
+
+---
+
 ### Number of Aswesuma beneficiaries to be increased to 2.4mn families by June – State Minister
 
 *2024-02-28 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97603/number-of-aswesuma-beneficiaries-to-be-increased-to-24mn-families-by-june-state-minister-) · `en`
@@ -769,6 +807,34 @@ Prison sources say he found 550 milligrams of heroin.
 [Data](articles/944b4065.json)
 
 [Extended Data](ext_articles/944b4065.ext.json)
+
+---
+
+### Softlogic Life posts impressive 26Bn GWP for FY2023
+
+*2024-02-28 21:15:00* · [`islandlk`](http://island.lk/softlogic-life-posts-impressive-26bn-gwp-for-fy2023/) · `en`
+
+Softlogic Life, recorded robust FY23 performance, posting Gross Written Premium (GWP) of Rs. 26.3 Bn for the period ended 31st December 2023, with an increase in top-line growth of 14% versus the past year and compared to industry growth of 12%.
+
+The Company has stood firmly with its policyholders in the face of challenging macroeconomic conditions with a firm commitment to continually improve customer benefits and this commitment is signified through their diligent Claims and Benefits payout during 2023 which is Rs. 13.5 Bn compared to Rs. 9.1 Bn in 2022.
+
+...
+
+[Data](articles/c02fa130.json)
+
+---
+
+### Highest per day share transactions over past four months; turnover Rs. 1.2 billion
+
+*2024-02-28 21:12:00* · [`islandlk`](http://island.lk/highest-per-day-share-transactions-over-past-four-months-turnover-rs-1-2-billion/) · `en`
+
+Stock market trading was quite vibrant yesterday with the highest number of per day transactions being recorded amounting to 11700, over the last four months, while a steady increase was noted of arranged transactions/crossings, market analysts said.
+
+Amid those developments both indices moved up. The All Share Price Index went up by 55.29 points while S and P SL20 rose by 8.5 points. Turnover stood at Rs 1.2 billion with four crossings. Those crossings were reported in Hemas, which crossed 941,000 shares to the tune of Rs 70.5 million and its shares traded at Rs 75, HNB 150,000 shares crossed for Rs 22.7 million; its shares traded at Rs 158, Ceylon Cold Stores 455,000 shares crossed for Rs 20.9 million; its shares sold at Rs 46 and TJ Lanka 550,000 shares crossed to the tune of Rs 20.3 million; its shares traded at Rs 37.
+
+...
+
+[Data](articles/845f2e1e.json)
 
 ---
 
@@ -1937,81 +2003,5 @@ It is worth noting that two weeks ago, the price of a juvenile in Colombo ranged
 [Data](articles/5ee81c31.json)
 
 [Extended Data](ext_articles/5ee81c31.ext.json)
-
----
-
-### S.L.N.P Support for No -confidence motion
-
-*2024-02-28 16:15:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லா-பிரேரணைக்கு-S-L-N-P-ஆதரவு/175-333953) · `ta`
-
-The Sri Lanka Freedom Party (SLFP) has decided to support the no -confidence motion against the opposition parties against Speaker Mahinda Yapa Abeywardena.
-
-Opposition parties allege that the Speaker passed the Security Bill of Online Organizations without considering the recommendations of the Supreme Court.
-
-◼️
-
-[Data](articles/2d4a638e.json)
-
-[Extended Data](ext_articles/2d4a638e.ext.json)
-
----
-
-### Fire breaks down at the firecrackers
-
-*2024-02-28 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193918) · `si`
-
-The owner of the fire was seriously injured and admitted to the Colombo National Hospital today (28).
-
-Recently, three injured have been admitted to the Negombo hospital.
-
-The owner and another employee had been transferred to the Colombo National Hospital.
-
-The victim was dead yesterday and the owner was also killed today.
-
-Police suspect that the fire has caused this fire due to a birthcossing manufacture of firecrackers.
-
-◼️
-
-[Data](articles/4af62a12.json)
-
-[Extended Data](ext_articles/4af62a12.ext.json)
-
----
-
-### Jeevan meets with salary council workers
-
-*2024-02-28 16:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சம்பள-நிர்ணய-சபை-தொழிலாளர்களுடன்-ஜீவன்-சந்திப்பு/76-333952) · `ta`
-
-The meeting with representatives of tea and rubber for three years from January 2024 was held today (28) at the head of the Ceylon Workers' Kangi Ras, Chamiyapavan, the CWC General Secretary and Jeevan Thondaman, led by Jeevan Thondaman.
-
-During the meeting, the discussion was discussed during this meeting on how to put forward our demands at the Salary Council.
-
-On behalf of the CWC, S. Irajamani, a member of the Tea Production Council and Attorney -at -Law and Lawyer, S. Irajamani, the Secretary of the Sri Lanka National Estate Workers Union, SP Vijayakumar, and the Sri Lanka Independence Workers Union on behalf of the Sri Lanka Freedom Workers Union.G Chandrasena, V. Rajalakshmi on behalf of the Chengodi Association, Sri Lanka Public Estate Workers Union and JAT Nishantha Puspakumara on behalf of the JSS Association and the JSS Association.
-
-◼️
-
-[Data](articles/2a26e409.json)
-
-[Extended Data](ext_articles/2a26e409.ext.json)
-
----
-
-### 2 -year -old boy killed in street dogs
-
-*2024-02-28 15:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெருநாய்கள்-தாக்கியதில்-2-வயது-சிறுவன்-உயிரிழப்பு/175-333949) · `ta`
-
-The death of a 2 -year -old boy in the state of Madhya Pradesh, Padwani, has shocked the people of the area.
-
-The mutton market is near the house of the deceased boy. As a result, street dogs are more likely to be around the area. When the boy left the house on the day of the incident, the street dogs surrounded the boy were terrified.
-
-The grandmother of the rushed, who was rushed, released the boy from the clutches of dogs. But the boy was seriously injured. The boy was immediately taken to the hospital. But the boy died on the way.
-
-The Municipal Corporation CEO. Khushal Singh Tudway said, “Steps are being taken to catch dogs. But the number of street dogs is very high. It is a little difficult to hold them. When dogs catch up, dog lovers and volunteers cause problems. However, we will take steps to prevent such incidents from happening in the future. ”
-
-...
-
-[Data](articles/f62cd9ee.json)
-
-[Extended Data](ext_articles/f62cd9ee.ext.json)
 
 ---

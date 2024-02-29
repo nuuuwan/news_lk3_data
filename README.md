@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 19:02:36**
+As of **2024-02-29 19:17:29**
 
 ## Newspaper Stats
 
-*Scraped **10,070** Articles*
+*Scraped **10,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 525
 dailyftlk | 528
 islandlk | 531
 adalk | 859
-adaderanalk | 1,217
+adaderanalk | 1,218
 tamilmirrorlk | 1,225
 virakesarilk | 1,382
 dailymirrorlk | 1,518
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,068 (100.0%) of 10,070 articles have been extended.
+10,070 (100.0%) of 10,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Fund established to provide financial aid for police personnel facing legal issues related to duties
+
+*2024-02-29 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97634/fund-established-to-provide-financial-aid-for-police-personnel-facing-legal-issues-related-to-duties) · `en`
+
+Inspector General of Police (IGP) Deshabandu Tennakoon has approved to provide financial aid to police personnel facing legal issues pertaining to actions taken while performing their duties.
+
+Accordingly, Police Spokesman DIG Nihal Thalduwa stated that relevant funds will be provided by the ‘Police Legal Assistance Fund’.
+
+A proposal in this regard was presented before the Cabinet of Ministers in July 2022 by the Minister of Public Security Tiran Alles, and was subsequently approved.
+
+Accordingly, the newly-appointed IGP has approved to provide legal aid to said police officers from the Police Legal Assistance Fund.
+
+...
+
+[Data](articles/efb07618.json)
+
+---
 
 ### Heat index advisory issued warning of increased temperatures
 
@@ -49,6 +67,8 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 ...
 
 [Data](articles/ae954a89.json)
+
+[Extended Data](ext_articles/ae954a89.ext.json)
 
 ---
 
@@ -78,19 +98,21 @@ Sri Lanka had welcomed 191,000 tourists up to February 25, compared to 107,639 i
 
 ---
 
-### මෛත්‍රීට නිල නිවෙසක් දෙන්න මෛත්‍රීගේම කැබෙනෙට්ටුව ගත් තීරණය බල රහිතකරයි
+### Maithri's quarters to Maithri's official residence is powerless
 
 *2024-02-29 17:56:16* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-නිල-නිවෙසක්-දෙන්න-මෛත්‍රීගේම-කැබෙනෙට්ටුව-ගත්-තීරණය-බල-රහිතකරයි/11-408358) · `si`
 
-මෛත‍්‍රීපාල සිරිසේන මහතා ජනාධිපති ධුරයේ කටයුතු කරමින් සිටියදී තමන් පදිංචිව සිටි කොළඹ මහගමසේකර මාවතේ පිහිටි නිවස විශ‍්‍රාම ගැනීමෙන් පසු තමන්ට හිමිවන බවට ආමාත්‍ය මණ්ඩලය ගත් තීරණය මගින් මූලික අයිතිවාසිකම් කඩවිමක් සිදුවු බවට තීන්දු කළ ශ්‍රේෂ්ඨාධිකරණය මෙම අමාත්‍ය මණ්ඩල තීරණය බලරහිතකරන නියෝගයක් නිකුත් කළේය.
+The Supreme Court, who had decided to mark the home of Maithripala Sirisena while he was working on the president, the decision of the Cabinet of Ministers had taken place after his retirement.
 
-මෙම නියෝගය නිකුත් කළේ විකල්ප ප‍්‍රතිපත්ති කේන්ද්‍රය ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගෙන තීන්දුව ප‍්‍රකාශයට පත් කරමිනි.
+The order was issued by the CPA and published a fundamental rights petition filed by the CPA.
 
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ගාමිණී අමරසේකර, කුමුදුනි වික‍්‍රමසිංහ යන මහත්ම මහත්මීන්ගේ එකඟත්වයෙන් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප‍්‍රියන්ත ජයවර්ධන මහතා විසින් මෙම තීන්දුව ප‍්‍රකාශයට පත් කරනු ලැබ ඇත.
+The decision has been announced by Supreme Court Judge Priyantha Jayawardena with the agreel of Supreme Court Judge Gamini Amarasekera and Kumuduni Wickremasinghe.
 
 ◼️
 
 [Data](articles/76fd1b28.json)
+
+[Extended Data](ext_articles/76fd1b28.ext.json)
 
 ---
 
@@ -2057,27 +2079,5 @@ The detention of those who have already been released by the court are illegal d
 [Data](articles/c5f908e1.json)
 
 [Extended Data](ext_articles/c5f908e1.ext.json)
-
----
-
-### Dates announced for Grama Niladhari interviews; recruitments expected soon
-
-*2024-02-29 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97613/dates-announced-for-grama-niladhari-interviews-recruitments-expected-soon) · `en`
-
-The interviews for the recruitment of candidates to the vacant Grama Niladhari officer positions will commence on March 13, 2024, the State Minister of Home Affairs Ashoka Priyantha said.
-
-Accordingly, the relevant interviews will be conducted on the 13th, 14th and 15th of March, 2024.
-
-A total of 4,232 candidates were qualified to face the interviews based on the results of the written examination which was held in December 2023.
-
-However, the State Minister also pointed out that following the interviews, recruitment will be carried out to fill the vacant positions as soon as possible.
-
-Accordingly, a total of 2,002 individuals will be recruited to the Grade III of Grama Niladhari Service based on the results of the interviews.
-
-◼️
-
-[Data](articles/795035a7.json)
-
-[Extended Data](ext_articles/795035a7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 15:02:36**
+As of **2024-02-29 15:17:26**
 
 ## Newspaper Stats
 
-*Scraped **10,004** Articles*
+*Scraped **10,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 1,208
 tamilmirrorlk | 1,212
 virakesarilk | 1,377
 dailymirrorlk | 1,512
-adaderanasinhalalk | 1,519
+adaderanasinhalalk | 1,521
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,004 (100.0%) of 10,004 articles have been extended.
+10,004 (100.0%) of 10,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### අත්අඩංගුවට ගැනීමට එරෙහිව කෙහෙළියගෙන් පෙත්සමක්
+
+*2024-02-29 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193955) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් කිසිදු සාධාරණ හේතුවක් නොමැතිව තමන්ව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කිරීම තුළින් සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා කෙහෙළිය රඹුක්වැල්ල මහතා විසින් සිය නීතිඥවරු මාර්ගයෙන් ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් ගොනුකර තිබේ.
+
+නීතිඥ සනත් විජේවර්ධන මහතාගේ මාර්ගයෙන් ගොනුකර තිබෙන එම පෙත්සමේ වගඋත්තරකරුවන් ලෙස පොලිස්පතිවරයා, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා ඇතුළු පිරිසක් නම් කර ඇත.
+
+මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කිරීම වෙනුවෙන් වගඋත්තරකරුවන්ගෙන් රුපියල් මිලියන 100ක වන්දියක් අයකර දෙන ලෙසත් පෙත්සම්කරු ඉල්ලා තිබේ.
+
+◼️
+
+[Data](articles/34c6793d.json)
+
+---
+
+### සැකසහිත ලෙස ගිනිතබා විනාශ කළ යතුරුපැදියක් හමුවෙයි
+
+*2024-02-29 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193954) · `si`
+
+සැකකටයුතු ලෙස ගිනිතබා විනාශ කර තිබූ යතුරුපැදියක් පොලීසිය විසින් සොයාගෙන තිබේ.
+
+ඒ, ඌරගස්මංහන්දිය පොලිස් වසමේ හොරවල, කරිජ්ජවේල්ල, කටවල්පහ වේල්ල අසල දීය.
+
+එම යතුරුපැදියේ අංක තහඩු ඉවත්කර චැසි අංක මකාදාමා ඇති බවත් විමර්ශන නිලධාරින් පැවසීය.
+
+ඌරගස්මංහන්දිය පොලීසිය සැක කරන්නේ අපරාධයක් සිදුකිරීම සඳහා භාවිත කළ යතුරුපැදියක් මෙලෙස ගිනිතබා විනාශ කරන්නට ඇති බවය.
+
+පොලීසිය තවදුරටත් පැවසුවේ මෙම යතුරුපැදිය පසුගිය 26 වනදා කුරුඳුගහහැතැක්ම ප්‍රදේශයේ සිදුවූ මනුෂ්‍ය ඝාතනයට යොදාගත් යතුරුපැදිය බවට ද සැක කරන බවය.
+
+කරන්දෙනිය පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂක රොෂාන් කුමාර විතානච්චි මහතාගේ නිවසට එදින උදෑසන ස්කූටර් වර්ගයේ යතුරුපැදියකින් පැමිණි දෙදෙනෙකු ඒ මහතාට වෙඩිතබා ඝාතනයක් සිදුකර තිබුණි.
+
+ඊයේ (28) දිනයේ ඌරගස්මංහන්දිය හොරවල ප්‍රදෙශයේ සෝදිසි කිරිම් සිදුකිරීම නිසා යතුරුපැදිය ගිනි තබන්නට ඇති බවට පොලීසියට සැක මතුවී ඇත.
+
+යතුරුපැදියක් ගිනිගෙන ඇති බවට මෙතෙක් කිසිවෙකුත් පොලීසියට පැමිණිල්ලක් ඉදිරිපත් කර නොමැති බවද ඌරගස්මංහන්දිය පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/2b269b6e.json)
+
+---
 
 ### Sri Lanka honoured with UN award for mangrove ecosystem restoration
 
@@ -2023,43 +2065,5 @@ The drugs were reportedly hidden in the bones of a parcel of chicken she had bro
 [Data](articles/22ab6aea.json)
 
 [Extended Data](ext_articles/22ab6aea.ext.json)
-
----
-
-### CEB notifies 14% average tariff revision to PUCSL
-
-*2024-02-28 22:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-notifies-14-average-tariff-revision-to-PUCSL/108-277906) · `en`
-
-Colombo, Feb 28 (Daily Mirror) - Contradicting the statement by the Energy Minister that electricity tariffs can be reduced by 18 per cent, the Ceylon Electricity Board (CEB) has informed the Public Utilities Commission of Sri Lanka (PUCSL) that the tarrif can be reducded by an average of 14 per cent.
-
-They said the tariff has been strategically reduced significantly by the control of the Central Bank enabling it to yield significant financing benefits. By making project loans more affordable, the CEB can reduce the financing burden.
-
-The CEB said the revised tariff proposal has been prepared considering a relief to the entire tariff customer category.
-
-According to the letter, the tariff has been strategically reduced significantly by the control of the Central Bank enabling it to yield significant financing benefits. By making project loans more affordable, the CEB can reduce the financing burden.
-
-...
-
-[Data](articles/f98198c7.json)
-
-[Extended Data](ext_articles/f98198c7.ext.json)
-
----
-
-### Saffron-robed monk arrested over allegations of child sexual abuse
-
-*2024-02-28 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97606/saffron-robed-monk-arrested-over-allegations-of-child-sexual-abuse) · `en`
-
-A saffron-robed monk has been arrested by the Homagama Police for allegedly sexually abusing twin minors.
-
-According to police, the suspect, who is also said to be involved in witchcraft, had allegedly sexually abused the 13-year-old brothers under the guise of providing medical treatment, upon advising their parents to let the boys stay with him for a few days for a ritualistic treatment.
-
-The suspect was, however, released on a personal bail of Rs. 500,000 after being produced before the Homagama Magistrate’s Court on Wednesday (28 Feb.).
-
-◼️
-
-[Data](articles/6d4e4978.json)
-
-[Extended Data](ext_articles/6d4e4978.ext.json)
 
 ---

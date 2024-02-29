@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 13:17:34**
+As of **2024-02-29 13:33:28**
 
 ## Newspaper Stats
 
-*Scraped **9,986** Articles*
+*Scraped **9,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 514
 dailyftlk | 528
 islandlk | 531
 adalk | 847
-adaderanalk | 1,202
+adaderanalk | 1,204
 tamilmirrorlk | 1,212
 virakesarilk | 1,376
 dailymirrorlk | 1,509
@@ -26,31 +26,67 @@ adaderanasinhalalk | 1,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,985 (100.0%) of 9,986 articles have been extended.
+9,986 (100.0%) of 9,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
 
-### බිරිඳ ගේ මරණයට සැකපිට මාස 10කට පසු සැමියා අත්අඩංගුවට
+### South Korea has given doctors till tonight to end a strike, or face prosecution
+
+*2024-02-29 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97618/south-korea-has-given-doctors-till-tonight-to-end-a-strike-or-face-prosecution) · `en`
+
+South Korea’s government made a last appeal to junior doctors to end a walkout, with hours left to go before the Thursday deadline on its threats to suspend medical licenses and prosecute the strikers.
+
+Thousands of medical interns and residents have been on strike for about 10 days to protest the government’s push to boost medical school enrollments. Government officials have warned that strikers would face legal repercussions if they don’t return to their hospitals by Thursday.
+
+As of Wednesday night, about 9,076 of the country’s 13,000 medical interns and residents were confirmed to have left their hospitals after submitting resignations, according to the Health Ministry.
+
+Observers say many strikers are likely to defy the deadline, continuing the labor boycott for weeks or months. The government is expected to begin formal steps toward punishments on Monday, as Friday is a national holiday.
+
+...
+
+[Data](articles/ce8f8fb4.json)
+
+---
+
+### Husband arrested for violating his wife's death
 
 *2024-02-29 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193950) · `si`
 
-ත්‍රීරෝද රථයෙන් ඇදවැටී හිසට බරපතළ තුවාල ලබා රෝහල් ගතකළ බිරිඳ, මාසයකට පසු මියයාම ඝාතනයක් බවට සැකකර ඇයගේ සැමියාව අත්අඩංගුවට ගැනීමට කළුතර අපරාධ කොට්ඨාශය කටයුතු කර තිබේ.
+The Kalutara Crimes Division has been assaulted by the Kalutara Crimes Division to arrest her husband as a wife was killed a month after a month of the three-wheeler.
 
-බදුරලිය, මාරගහදෙණිය ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකුව එසේ අත්අඩංගුවට ගෙන ඇති බව පොලීසිය කීය.
+A 32-year-old resident of theersuraliya has been arrested by the police said.
 
-සැකකරු  2023 අප්‍රේල් 10 වනදා රාත්‍රියේ සිය බිරිඳ වන එම්. බී. කසුනි දුලීකා යන 30 හැවිරිදි එක්දරු මව ත්‍රීරෝද රථයකින් ඇදවැටී තුවාල ලැබූ බව සඳහන් කරමින් බදුරලියේ ප්‍රාදේශීය රෝහලට ඇතුළු කර තිබිණි.
+The suspect is the night of the night of April 10, 2023. B. Kasussane, Duluka, a 30-year-old mother of her mother had been admitted to the Badaduwala.
 
-ඇයගේ තත්ත්වය බරපතළ වූ බැවින් කොළඹ ජාතික රෝහලට මාරුකර යැවීමෙන් පසු 2023 මැයි මස 7 වනදා ඇය මියගොස් ඇති බව පොලීසිය කීය.
+Since he was transferred to the Colombo National Hospital as her condition was seriously transferred to the Colombo National Hospital, she had died on May 7, 2023.
 
-ඇයගේ මරණය සැකසහිත බවට පවුලේ සාමාජිකයින් කළ පැමිණිලි මත කළුතර අපරාධ කොට්ඨාශයේ නිලධාරීන් විසින් සිදුකළ දීර්ඝ විමර්ශනයකින් පසුව සැකකරුව අත්අඩංගුවට ගත්බව වැටලීමට එක්වූ නිලධාරියෙක් පැවසීය.
+The suspect was arrested following a long investigation by the Family Family Ministers to be suspected of her death.
 
-මොට ආවේගී බලවේගයකින් හිසට සිදුවූ බරපතළ තුවාල හේතුවෙන් එම කාන්තාවගේ මරණය සිදුව ඇති බවට විශේෂඥ අධිකරණයට වෛද්‍ය නිලධාරියාගේ වාර්තාවේ සටහන්ව ඇති බවද පොලීසිය සඳහන් කරයි.
+The medical officer's report has noted that the woman's death had been caused by the death of the woman due to serious serious injuries due to a head injuries.
 
 ◼️
 
 [Data](articles/fae752eb.json)
+
+[Extended Data](ext_articles/fae752eb.ext.json)
+
+---
+
+### Organic fertilizers to be included in Sri Lanka’s national fertilizer policy
+
+*2024-02-29 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97617/organic-fertilizers-to-be-included-in-sri-lankas-national-fertilizer-policy) · `en`
+
+The Chair of the Sectoral Oversight Committee on Food Security and Agriculture, Member of Parliament D. Weerasinghe said that the use of organic fertilizers should be included in the national fertilizer policy.
+
+This was discussed when the Sectoral Oversight Committee on Food Security and Agriculture met in Parliament recently under the chairmanship of MP D. Weerasinghe, the Parliamentary Communications Department said in a statement.
+
+Conceptual policies for food security prepared by the sub-committee of the National Council on the identification of priorities in the formulation of short, medium, and long-term national policies were considered on this day and the Sectoral Oversight Committee proposed to include several amendments to the plan, it added.
+
+...
+
+[Data](articles/5d92e50c.json)
 
 ---
 
@@ -76,7 +112,11 @@ Further information was reported that they would strive to demand a permanent bu
 
 *2024-02-29 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97616/sc-refuses-leave-to-proceed-with-sumanthirans-petition-against-online-safety-bill) · `en`
 
-The Supreme Court has refused to grant leave to proceed with the petition filed by Tamil National Alliance (TNA) MP M.A. Sumanthiran, challenging the passing of the much-disputed Online Safety Bill in Parliament.
+The Supreme Court has refused to grant leave to proceed with the petition filed by Tamil National Alliance (TNA) MP M.A. Sumanthiran, challenged the passing of the much-disputed Online Safety Bill in Parliament.
+
+Sumanthiran filed a Fundamental Rights (FR) petition before the Supreme Court on 14 February, naming Parliament Speaker Mahinda Yapa Abeywardena and the Attorney General as repondents.
+
+In his petition, the TNA MP challenged the Speaker’s certification of the Online Safety Act, claiming that several recommendations made by the Supreme Court with regards to certain provisions of the Act had been ignored by the Speaker, and that the Attorney General had failed to diligently advise both, the Parliament  and its Speaker regarding the same.
 
 The Online Safety Bill has been a subject of debate and contention, with several parties having raised concerns about potential limitations on freedom of expression, and other potential violations of the Constitution through its provisions.
 
@@ -2015,51 +2055,5 @@ A large number of water pumps have been destroyed in the fire which was doused w
 [Data](articles/e2afb225.json)
 
 [Extended Data](ext_articles/e2afb225.ext.json)
-
----
-
-### The revenue beneficiaries from June ready to increase up to 24 lakhs
-
-*2024-02-28 20:17:06* · [`adalk`](https://www.ada.lk/breaking_news/ජුනි-මාසයේ-සිට-අස්වැසුම-ප්‍රතිලාභීන්-ලක්ෂ-24ක්-දක්වා-වැඩි-කිරීමට-සූදානම්/11-408341) · `si`
-
-The return of the benefits requested for the second phase of the revenue has been completed and all of the revenue of revenue from June 2024 has been made to increase the number of resources to Rs.
-
-The public minister emphasized that the second phase of the revenue is to be eligible to benefit from March 15, 2024.
-
-Hehan Semasinghe, State Minister of State Shehan Semasinghe, was addressing the press conference held at the Presidential Media Center (28).
-
-The State Minister also said that about 7,000 people obtained the revenue of revenue via false information.
-
-State Minister further stated:
-
-The revenue phase was certified by information on the size of 34 lakhs of family units. Accordingly, 19 lakhs of families have been eligible to benefit. The Welfare Board has been prepared to pay for those who have been qualified based on the basis of the appeals and objections received.
-
-...
-
-[Data](articles/d33e7d7c.json)
-
-[Extended Data](ext_articles/d33e7d7c.ext.json)
-
----
-
-### Steps to increase the number of beneficiaries from June to 24 lakhs -Finance Minister Shehan Semasinghe
-
-*2024-02-28 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177547) · `ta`
-
-Finance Minister Shehan Semasinghe said that the data verification and certification task of the beneficiaries who applied for the second phase of the data has been completed and all arrangements have been made to increase the number of family units from June to 24 lakhs.
-
-The Minister of State has stressed that the second phase of application will end on March 15, 2024 and that no one who submits applications will not qualify for the benefits.
-
-Finance Minister Shehan Semasinghe said this while addressing a press conference held at the Presidential Media Center on Wednesday (28).
-
-The Minister of State also stated that about 7,000 people who received the benefits of Ashem were removed from it.
-
-In the first phase of Aswesuma, the information of 34 lakh family units was verified. Accordingly, 19 lakhs of families have been eligible to benefit. Based on appeals and objections so far, the Welfare Benefits Council is ready to pay for eligible candidates from July 2024.
-
-...
-
-[Data](articles/7153b944.json)
-
-[Extended Data](ext_articles/7153b944.ext.json)
 
 ---

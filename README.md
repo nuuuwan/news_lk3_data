@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 12:50:08**
+As of **2024-02-29 13:02:34**
 
 ## Newspaper Stats
 
-*Scraped **9,983** Articles*
+*Scraped **9,985** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 99
-bbccomsinhala | 121
+bbccomsinhala | 122
 dbsjeyarajcom | 167
 newsfirstlk | 363
 economynextcom | 514
@@ -20,17 +20,33 @@ adaderanalk | 1,202
 tamilmirrorlk | 1,212
 virakesarilk | 1,376
 dailymirrorlk | 1,509
-adaderanasinhalalk | 1,514
+adaderanasinhalalk | 1,515
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,983 (100.0%) of 9,983 articles have been extended.
+9,983 (100.0%) of 9,985 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### පෞද්ගලික බස් වර්ජනයක්
+
+*2024-02-29 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193949) · `si`
+
+යාපනයේ සිට ගමන් අරඹන දුර ගමන් සහ කෙටි ගමන් සිදුකරන සියලුම පෞද්ගලික බස් රියදුරන් වර්ජනයට එක්වීමත් මගීන් දැඩි අපහසුතාවයකට පත්ව තිබේ.
+
+අප වාර්තාකරු සඳහන් කළේ මේ වනවිට පෞද්ගලික බස් රියදුරන් යාපනය ඩිපෝව ඉදිරිපිටට ගොස් උද්ඝෝෂණයක් ද ආරම්භ කර ඇති බවය.
+
+වැඩිදුරත් තොරතුරු වාර්තා වූයේ ස්ථීර බස් නැවතුමක් ඉල්ලා සිටිමින් ඔවුන් මෙලෙස වර්ජනයේ නිරත වන බවටය.
+
+◼️
+
+[Data](articles/fa251667.json)
+
+---
 
 ### SC refuses leave to proceed with Sumanthiran’s petition against Online Safety Bill
 
@@ -905,6 +921,26 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/fc2f98c0.json)
 
 [Extended Data](ext_articles/fc2f98c0.ext.json)
+
+---
+
+### The Kiosk: 'යැපුම් මානසිකත්වයට තිත තබන' පේරාදෙණිය සරසවි සිසුන්ගේ අවන්හල
+
+*2024-02-29 05:47:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72g27m2re4o) · `si`
+
+The Kiosk: 'යැපුම් මානසිකත්වයට තිත තබන' පේරාදෙණිය සරසවි සිසුන්ගේ අවන්හල
+
+විශ්වවිද්‍යාලයක අධ්‍යාපනය ලබන අතරතුර අර්ධකාලීන රැකියාවක නිරත වෙමින් තම අධ්‍යාපන කටයුතුවලට මෙන් ම අනෙකුත් අවශ්‍යතා සඳහා ද මුදල් උපයා ගන්නා සිසුන් ලොව සුලබව දක්නට ලැබුණ ද ශ්‍රී ලංකාව තුළ එවැනි පුරුද්දක් එතරම් දක්නට නොලැබෙන බව සමාජ මතය යි.
+
+නමුත් රට මුහුණ දී සිටින ආර්ථික අර්බුදය හමුවේ සිසුන් එවැනි අර්ධ කාලීන රැකියා සඳහා දැන් පෙරට ත් වඩා වැඩියෙන් යොමුවන අවස්ථා නැතුවා නොවේ. ඒ සම්බන්ධයෙන් මෑත කාලයේ මාධ්‍ය වාර්තා ද පළ වී තිබෙනු දක්නට ලැබිණි.
+
+බොහෝ විට පෞද්ගලික ආයතනයක අර්ධ කාලීන රැකියාවක නිරත වෙමින්, කුඩා ව්‍යාපාර කටයුත්තක නියැළෙමින් හෝ උපකාරක පන්ති පවත්වමින් මුදල් උපයන විධි අප දුටුව ද පේරාදෙණිය විශ්වවිද්‍යාලයේ කෘෂිකර්ම පීඨයෙන් ඇසෙන්නේ ඊට හාත්පසින් ම වෙනස් කතාවකි.
+
+තම පීඨය තුළ ආර්ථික දුක්ෂරතාවලින් පෙළෙන සිසුන්ට ඔවුන්ගේ වියපැහැදම් කළමනාකරණය කර ගැනීමට උපකාර කිරීමේ අරමුණින් එම පරිශ්‍රය තුළ ම ආරම්භ කළ 'The Kiosk' (ද කියෝස්ක්) අවන්හලේ පළමු සංවත්සරය යෙදී මේ වන විට දින කිහිපයක් ද ගත වී ගොසිණි.
+
+...
+
+[Data](articles/cb1a6518.json)
 
 ---
 
@@ -2017,45 +2053,5 @@ He underscored the significance of the Suez Canal, particularly evident during t
 [Data](articles/d9d0e827.json)
 
 [Extended Data](ext_articles/d9d0e827.ext.json)
-
----
-
-### Shanthan Rajiv Gandhi dies at Raja Gandhi murder
-
-*2024-02-28 19:55:24* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ඝාන්ධි-ඝාතනයේ-යාපනයේ-ශාන්තන්-රජිව්-ගාන්ධි-රෝහලේදී-මරුට/11-408340) · `si`
-
-According to the media reports, Jaffna Shantan has been released in India.
-
-The Rajiv Gandhi Hospital in India has died yesterday (27), Indian media reports said.
-
-Season, who was in jail for many years in the Rajav Gandhi murder case, was to visit Jaffna to visit his mother.
-
-In the meantime, he was admitted to the Rajiv Gandhi Hospital in a sudden liver disease and later died on the integrated unit of India.
-
-The Indian government appealed to the Government of India, noted that the mother of Shanthan wanted him to visit him, "Indian media reports say.
-
-Accordingly, steps have been taken to issue a Passport of the Sri Lanka Deputy High Commission in Chennai under the approval of the Government of India.
-
-◼️
-
-[Data](articles/9b10b817.json)
-
-[Extended Data](ext_articles/9b10b817.ext.json)
-
----
-
-### The death of one person in the train;People in the struggle
-
-*2024-02-28 19:53:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரதத்தில்-மோதி-ஒருவர்-மரணம்-போராட்டத்தில்-மக்கள்/175-333960) · `ta`
-
-Following the incident, the people of the area went on strike in the tiger between Puttalam and Chilaw.
-
-The siege caused the railway service to disrupt its journey and passengers were also affected.
-
-◼️
-
-[Data](articles/75f9dbea.json)
-
-[Extended Data](ext_articles/75f9dbea.ext.json)
 
 ---

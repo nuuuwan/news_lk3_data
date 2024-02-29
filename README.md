@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 11:52:03**
+As of **2024-02-29 12:02:40**
 
 ## Newspaper Stats
 
-*Scraped **9,968** Articles*
+*Scraped **9,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,65 @@ colombotelegraphcom | 99
 bbccomsinhala | 121
 dbsjeyarajcom | 167
 newsfirstlk | 363
-economynextcom | 513
+economynextcom | 514
 dailyftlk | 528
 islandlk | 531
 adalk | 844
 adaderanalk | 1,199
 tamilmirrorlk | 1,212
 virakesarilk | 1,376
-dailymirrorlk | 1,505
-adaderanasinhalalk | 1,510
+dailymirrorlk | 1,508
+adaderanasinhalalk | 1,512
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,968 (100.0%) of 9,968 articles have been extended.
+9,974 (100.0%) of 9,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Simplified to Pakistan from China
+
+*2024-02-29 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193946) · `si`
+
+The Chinese authorities have agreed to give another year to settle $ 2 billion loan in Pakistan by China.
+
+Foreigners had to be appointed next month and extended according to foreign media reports.
+
+At present, Pakistan suffered a strong economic crisis and a few months ago, they had $ 3 billion loan from the International Monetary Fund.
+
+◼️
+
+[Data](articles/6fa9ee7b.json)
+
+[Extended Data](ext_articles/6fa9ee7b.ext.json)
+
+---
+
+### Sri Lanka wins UN Award for in Mangrove Restoration
+
+*2024-02-29 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-wins-UN-Award-for-in-Mangrove-Restoration/108-277956) · `en`
+
+Sri Lanka has been recognized as a 2024 UN World Restoration Flagship for its exemplary work in rebuilding and rejuvenating its mangrove ecosystems.
+
+Anil Jasinghe, CEO of Sri Lanka's Climate Change Office, and Professor Sevvandi Jayakody, a senior lecturer at Wayamba University, accepted the award in Nairobi, Kenya at the UN Environment Assembly on Tuesday, February 27
+
+They were joined by Ruwan Wijewardena, a senior presidential advisor on climate change, and High Commissioner Veluppillai Kananathan.
+
+The sixth session of the United Nations Environment Assembly (UNEA-6) is taking place from 26 February to 1 March 2024 at the United Nations Environment Programme (UNEP) headquarters in Nairobi, Kenya.
+
+UNEA-6 was preceded by a meeting of the Open-ended Committee of Permanent Representatives, held from 19 to 23 February 2024, which helped lay the groundwork for the Assembly.
+
+...
+
+[Data](articles/3b5ff88c.json)
+
+[Extended Data](ext_articles/3b5ff88c.ext.json)
+
+---
 
 ### Santhan's mother - Gajendrakumar Ponnambalam
 
@@ -51,6 +91,42 @@ Mr. Santhan's mother is today the overall symbol of the plight of the mothers wh
 [Data](articles/89a20c11.json)
 
 [Extended Data](ext_articles/89a20c11.ext.json)
+
+---
+
+### Compulsory to reserve date, time to obtain services from DMT from Monday
+
+*2024-02-29 11:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Compulsory-to-reserve-date-time-to-obtain-services-from-DMT-from-Monday/108-277951) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - The Department of Motor Traffic has made it compulsory for people to reserve a date and time to obtain services from March 4, DMT Commissioner General Nishantha Anuruddha Weerasinghe said.
+
+The decision was taken to save time for the people who come to the department for services and to arrange the number of people arriving at the head office and other branches.
+
+Therefore, people are requested to log on to the department's official website, https://dmtappointments.dmt.gov.lk/, or to contact through the automated telephone service, 0112117116.
+
+Thise who dial from outside Colombo must enter the area code with the general number 2117116.
+
+Meanwhile, National Transport Medical Institute (NTMI) Chairman Darshana Abeyrathne said it is essential to obtain separate dates and times for medical tests through the e-channeling system.
+
+...
+
+[Data](articles/b64f8594.json)
+
+[Extended Data](ext_articles/b64f8594.ext.json)
+
+---
+
+### Supreme Court disenrolls Nagananda Kodituwakku
+
+*2024-02-29 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Supreme-Court-disenrolls-Nagananda-Kodituwakku/108-277949) · `en`
+
+Colombo, Feb 29 (Daily Mirror) - The Supreme Court today issued a rule for the removal of Nagananda Kodituwakku from the position of an Attorney-at-Law after he was found guilty of professional misconduct.
+
+◼️
+
+[Data](articles/6081cfb1.json)
+
+[Extended Data](ext_articles/6081cfb1.ext.json)
 
 ---
 
@@ -95,6 +171,30 @@ Accordingly, a total of 2,002 individuals will be recruited to the Grade III of 
 [Data](articles/795035a7.json)
 
 [Extended Data](ext_articles/795035a7.ext.json)
+
+---
+
+### South Korean government warns doctors on strike
+
+*2024-02-29 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193945) · `si`
+
+If the junior doctors who strike the strike is parked today (29), the South Korean government warns that they will undo their medical licenses and abolish their medical licenses.
+
+Last week from last week, 75% of the country's junior doctors have been reported on strike.
+
+As a result, most hospitals are stalked and stylled.
+
+These trained doctors had begun the strike, protesting to hire more students for medical schools.
+
+Doctors - Patients - Patients - South Korea is the lowest country. That is, the number of patients covering one of its doctors.
+
+The government warns that a rapid background of the elderly population is a rapidly rising background.
+
+◼️
+
+[Data](articles/9a303725.json)
+
+[Extended Data](ext_articles/9a303725.ext.json)
 
 ---
 
@@ -209,6 +309,28 @@ Winds from the northeast at 25 - 35 kilometers per hour in the sea regions.
 [Data](articles/0a0e1033.json)
 
 [Extended Data](ext_articles/0a0e1033.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 309.90/310.00 to the US dollar
+
+*2024-02-29 09:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-309-90-310-00-to-the-us-dollar-152478/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated further to open at 309.90/310.00 to the US dollar Thursday, from 310.00/15 on Wednesday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted at 10.90/11.00 percent from 10.85/11.05 percent Wednesday.
+
+A bond maturing on 15.09.2027 was quoted at 11.95/12.05 percent from 11.90/12.00 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.10/25 percent from 12.15/25 percent.
+
+The Colombo Stock Exchange opened up; The All Share Price Index was up 0.06 percent at 10,684 and the S&P SL20 was up 0.34 percent at 3,067. (Colombo/Feb29/2024)
+
+◼️
+
+[Data](articles/f02fbec4.json)
+
+[Extended Data](ext_articles/f02fbec4.ext.json)
 
 ---
 
@@ -1935,125 +2057,5 @@ The Minister was responding to the Galle District Coordinating Committee and res
 [Data](articles/6e19566d.json)
 
 [Extended Data](ext_articles/6e19566d.ext.json)
-
----
-
-### Deshabandu will commence duties tomorrow
-
-*2024-02-28 19:19:57* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-හෙට-පොලිස්පති-ධුරයේ-රාජකාරී-අරඹයි/11-408334) · `si`
-
-Deshabandu Tennakoon appointed as IGP appointed as the post of IGP tomorrow. These duties are to be accepted at the Police Headquarters.
-
-◼️
-
-[Data](articles/bfa5f4bc.json)
-
-[Extended Data](ext_articles/bfa5f4bc.ext.json)
-
----
-
-### The latest bid that put on human life
-
-*2024-02-28 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193928) · `si`
-
-The police have revealed that the shop of Suranga Suranga's brother-in-law has been conducted on a contract of Rs.
-
-Saranga, Assistant Kisina, was shot dead by two unidentified shooters from Mahabage and Claiwita area in general area Mahabage.
-
-The motorcyclist who had come to take the murder was killed in a shooting with the STF in Mahaiyawewa in Mahariyawewa this morning.
-
-The shooter and a person who supported the murder of the Police Special Task Force on the incident was arrested last Saturday.
-
-The shooter was in an active service of the Army.
-
-Disclosed in interrogation from the suspects, the shooter ride was hiding in a vulnerability in Sooriyawewa, Athigama.
-
-A team of STF personnel has gone to the arrest of the suspect this morning.
-
-The suspect has been shot toward investigations into the investigation officials.
-
-The suspect was injured in admission to the Suriyawewa hospital.
-
-...
-
-[Data](articles/b6dbb0b6.json)
-
-[Extended Data](ext_articles/b6dbb0b6.ext.json)
-
----
-
-### Kalutara births fall by 2983 years
-
-*2024-02-28 19:06:26* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-උපත්-වසර-පහක්-තුළ-2983කින්-අඩුවෙයි/11-408333) · `si`
-
-Maternity and Health Medical Officer of the Kalutara Commerce of the Kalutara Health Services Director Suneth Sri Sudarshana said that newborn births in the Kalutara district had fallen by 2983 years.
-
-He said that the growth of 13 percent to 1000 percent in 2019 was down to 823, he added.
-
-11617 births, 2020 years in 2019, 10787 children, 9815 births 2023 in 2023, 9834 in 2023, 2023, 9834 were drowned in 2023.
-
-Dr. Sudhaksha said that a special survey was conducted at the Health Services Office level to remedy specializing in the instructions of Kalutara District Health Services Specialized survey on the instructions of the Director of Kalutara District.
-
-◼️
-
-[Data](articles/421960a3.json)
-
-[Extended Data](ext_articles/421960a3.ext.json)
-
----
-
-### Appeal Court suspends auctioning of New Nawaloka Medical Centre
-
-*2024-02-28 19:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Appeal-Court-suspends-auctioning-of-New-Nawaloka-Medical-Centre/108-277899) · `en`
-
-Colombo, Feb. 28 (Daily Mirror)- The Court of Appeal today issued an interim order preventing Hatton National Bank PLC from auctioning the property relating to New Nawaloka Medical Centre (Private) Limited.
-
-Court of Appeal Justice D.N. Samarakoon issued this order to be effective until March 13. The Court made this order pursuant to a restitutio in integrum (RII) application filed by New Nawaloka Medical Centre challenging the Colombo Commercial High Court’s order dated 22nd February 2024.
-
-The Court of Appeal registrar was directed to issue notice and the interim orders on the respondents yesterday (28) itself and the interim orders to be issued through ordinary means and also over the telephone and fax if the Petitioner pays charges.
-
-...
-
-[Data](articles/bff59291.json)
-
-[Extended Data](ext_articles/bff59291.ext.json)
-
----
-
-### “Bashil will be the Prime Minister's post”
-
-*2024-02-28 18:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-பதவிக்கு-பஷில்-களமிறங்குவார்/175-333959) · `ta`
-
-Former Sri Lankan Ambassador to Russia Udayanga Weeratunga has said that Basil Rajapaksa will field the prime ministerial candidate of the Sri Lanka PA.
-
-Veeratunga, a close relative of the Rajapaksa family, has said that Basil Rajapaksa will come from the US next week to target the parliamentary election.
-
-Commenting on Senior Journalists Society Samarawickrama, he said he hoped the presidential election would be held first, not the parliamentary election.
-
-He said that when Basil Rajapaksa arrived in Sri Lanka on the 5th of March 2024, he would be welcomed and the vehicle parade would be brought to Colombo.
-
-◼️
-
-[Data](articles/d978d1ab.json)
-
-[Extended Data](ext_articles/d978d1ab.ext.json)
-
----
-
-### Election Commission notified of parliamentary vacancy following MP’s resignation
-
-*2024-02-28 18:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97601/election-commission-notified-of-parliamentary-vacancy-following-mps-resignation) · `en`
-
-The Secretary General of the Parliament, Kushani Rohanadeera has informed the Chairman of the Election Commission of Sri Lanka, in writing, of the parliamentary vacancy created following the resignation of Uddika Premarathne, representing the Anuradhapura Constituency.
-
-Premarathne of Sri Lanka Podujana Peramuna (SLPP) handed over his letter of resignation on 27 February to the Deputy General Secretary of Parliament Chaminda Kularatne.
-
-Meanwhile, S. C. Mutukumarana is tipped to fill the relevant parliamentary vacancy
-
-◼️
-
-[Data](articles/88a0de0a.json)
-
-[Extended Data](ext_articles/88a0de0a.ext.json)
 
 ---

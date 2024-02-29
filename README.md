@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-29 14:17:27**
+As of **2024-02-29 14:33:07**
 
 ## Newspaper Stats
 
-*Scraped **9,998** Articles*
+*Scraped **10,004** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 99
 bbccomsinhala | 122
-dbsjeyarajcom | 167
+dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 514
 dailyftlk | 528
 islandlk | 531
-adalk | 850
-adaderanalk | 1,204
+adalk | 851
+adaderanalk | 1,208
 tamilmirrorlk | 1,212
 virakesarilk | 1,377
 dailymirrorlk | 1,512
@@ -26,11 +26,85 @@ adaderanasinhalalk | 1,519
 
 Extensions include translations and NER (Named Entity Recognition).
 
-9,993 (99.9%) of 9,998 articles have been extended.
+9,998 (99.9%) of 10,004 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-02-29 (Thursday)
+
+### Sri Lanka honoured with UN award for mangrove ecosystem restoration
+
+*2024-02-29 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97622/sri-lanka-honoured-with-un-award-for-mangrove-ecosystem-restoration) · `en`
+
+Sri Lanka has been lauded with the prestigious World Restoration Flagship Award by the United Nations Environment Programme (UNEP) for its remarkable efforts in rejuvenating mangrove ecosystems.
+
+The announcement was made during the Sixth Session of the United Nations Environment Assembly (UNEA-6), emphasizing Sri Lanka’s pivotal role in pioneering effective solutions for ecosystem revitalization crucial to sustaining both lives and livelihoods nationwide.
+
+At the UNEA-6 conference held at the headquarters of the United Nations Environment Programme (UNEP) in Nairobi, Kenya, Senior Adviser to the President on Climate Change, Mr. Ruwan Wijayawardena, represented Sri Lanka.
+
+Dr. Anil Jasinghe, Secretary to the Ministry of Environment, graciously accepted the UN Flagship Restoration Award on behalf of the nation, the President’s Media Division (PMD) reported.
+
+...
+
+[Data](articles/a725aa3c.json)
+
+---
+
+### Former Health Minister Keheliya produced before court
+
+*2024-02-29 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97621/former-health-minister-keheliya-produced-before-court-) · `en`
+
+Former Health Minister Keheliya Rambukwella has been produced before the Maligakanda Magistrate’s Court, a short while ago.
+
+The former Minister is currently under remand custody over the import of substandard human Immunoglobulin vials.
+
+On 15 February, Rambukwella and six others including former Health Secretary Janaka Chandragupta were remanded until 29 February on orders of the Maligakanda Magistrate’s Court.
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+...
+
+[Data](articles/1e53bbb8.json)
+
+---
+
+### Private bus operators strike in Jaffna
+
+*2024-02-29 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97620/private-bus-operators-strike-in-jaffna) · `en`
+
+The operators of private passenger buses in Jaffna have withdrawn from passenger transport services since this morning (Feb. 29).
+
+The commuters were severely inconvenienced as both long-distance and short-distance private passenger buses had joined the strike action, Ada Derana reporter said.
+
+The strike action was reportedly launched demanding a permanent bus stand for the private passenger buses in Jaffna, according to the reporter.
+
+Meanwhile, the striking private bus operators also held a demonstration in front of the Jaffna Bus Depot.
+
+◼️
+
+[Data](articles/735b6e95.json)
+
+---
+
+### Semasinghe rubbishes reports claiming transfer of economic centers to foreign country
+
+*2024-02-29 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97619/semasinghe-rubbishes-reports-claiming-transfer-of-economic-centers-to-foreign-country-) · `en`
+
+State Minister of Finance Shehan Semasinghe has asserted that the Government of Sri Lanka has not made a decision to transfer the country’s economic centers to a foreign country through an economic cooperation agreement.
+
+Taking to ‘X’ (formerly Twitter), the State Minister noted that despite recent media reports, no such decision has been taken nor discussed.
+
+Thus, he urged for stakeholders to refrain from falling for such false misinformation.
+
+“In the current economic and other reform agenda, no decision has been taken or discussed to transfer economic centers to a foreign country through an economic cooperation agreement. Urge stakeholders not fall for the activities of opposition political groups who don’t tolerate economic stabilization of the country based on such false information”, his statement on ’X’ read.
+
+◼️
+
+[Data](articles/66207411.json)
+
+---
 
 ### Santhan's mother - Gajendrakumar Ponnambalam
 
@@ -54,47 +128,75 @@ Mr. Santhan's mother is today the overall symbol of the plight of the mothers wh
 
 ---
 
-### කෙහෙළියව අධිකරණයට රැගෙන එයි
+### Keheliya takes to court
 
 *2024-02-29 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193953) · `si`
 
-රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා මීට සුළු වේලාවකට පෙර මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙනවිත් තිබේ.
+Former Health Minister Keheliya Rambukwella has been taken to the Maligakanda Magistrate's Court shortly.
 
 ◼️
 
 [Data](articles/bd377a59.json)
 
+[Extended Data](ext_articles/bd377a59.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.එම්. මුෂාරෆ් ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් තීන්දුවක්
+### Parliamentarian SMM. Supreme Court rules about Musharraf
 
 *2024-02-29 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193952) · `si`
 
-සමස්ත ලංකා මක්කල් කොංග්‍රසයේ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.එම්. මුෂාරෆ් මහතාව එම පක්ෂයෙන් නෙරපීමට ගත් තීරණය නීතියට පටහැනි බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+All Island Mekl Congress Member SMM. The Supreme Court decided that the decision to expel Musharraf was contrary to the law.
 
-තමන්ව පක්ෂයෙන් නෙරපීමට එරෙහිව මුෂාරෆ් මන්ත්‍රීවරයා විසින් ගොනු කළ පෙත්සමක තීන්දුව ලබාදෙමින් ප්‍රියන්ත ජයවර්ධන මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම තීරණය ප්‍රකාශයට පත්කරනු ලැබීය.
+The decision was announced by the Supreme Court Judge Bench, who was a petition filed by MP Musharraf against the expulsion of his party.
 
 ◼️
 
 [Data](articles/550b2ecf.json)
 
+[Extended Data](ext_articles/550b2ecf.ext.json)
+
 ---
 
-### පී.එච්.අයි. ඝාතනයට පැමිණි යතුරු පැදිය ගිනි තියලා?
+### ජම්පටා වීදියේ වෙඩි තැබීමට පැමිණි යතුරු පැදියේ පැදිකරු අල්ලයි
+
+*2024-02-29 13:14:33* · [`adalk`](https://www.ada.lk/breaking_news/ජම්පටා-වීදියේ-වෙඩි-තැබීමට-පැමිණි-යතුරු-පැදියේ-පැදිකරු-අල්ලයි/11-408349) · `si`
+
+ජම්පටා වීදිය නිව්හැම් චතුරස්‍රය ප්‍රදේශයේ කුකුල් මස් අලෙවි සැලක හිමිකරුවකු ඉලක්ක කරගෙන සිදුකළ වෙඩි ප්‍රහාරයට වෙඩික්කරු රැගෙන යතුරු පැදියෙන් පැමිණි පුද්ගලයා අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+
+එම සැකකරු සමග හොරයින් මත්කුඩු මිලිගෑම් 6470 ක් පොලිස් භාරයට ගෙන ඇත. වෙඩි ප්‍රහාරයෙන් බරපතල තුවාල ලැබූවේ මොහොමඩ් හෂාන් මොහොමඩ් රිල්වාන් නමැති 57 හැවිරිදි පුද්ගලයෙකි.
+
+වෙඩි තබා මනුෂ්‍ය ඝාතනයට තැත් කිරීමේ අපරාදය සම්බන්ධයෙන් සිදු කරන ලද විමර්ශනයේදී සි සි ටි වි  දර්ශන හා පුද්ගලික ඔත්තුකරුවන් මාර්ගයෙන් අපරාදය සිදුකිරීම සඳහා පැමිණි සැකකරුවන්ගෙන් යතුරුපැදිය පදවාගෙන පැමිණි පුද්ගලයා හඳුනාගෙන එම සැකකරු  පදිංචි කොළඹ 15 පර්ගියුසන් පාර නිවසේදී අත්අඩංගුවට ගැනීමට හැකිවූ බව පොලිසිය කියයි.
+
+ඉකුත් 25 වෙනිදින වෙඩි ප්‍රහාරය එල්ල වූ පුද්ගලයා වෙළඳ සැල තුළ පුටුවක අසුන්ගෙන සිටියදී යතුරුපැදියකින් පැමිණ තිබූ පුද්ගලයන් දෙදෙනෙකු ගෙන් අයකු ඔහු අසලටම පැමිණ රිවොල්වර  වර්ගයේ ගිනි අවියකින් වෙඩි ප්‍රහාර තුනක් එල්ල කර ඇති අතර එයින් එක් වෙඩි ප්‍රහාරයක් එම පුද්ගලයාගේ උරහිස ප්‍රදේශයට වැදී තිබිණි.
+
+...
+
+[Data](articles/ada43043.json)
+
+---
+
+### PHI. The motorcycle for the murder set on fire?
 
 *2024-02-29 13:10:07* · [`adalk`](https://www.ada.lk/breaking_news/පී-එච්-අයි--ඝාතනයට-පැමිණි-යතුරු-පැදිය-ගිනි-තියලා-/11-408348) · `si`
 
-කරන්දෙණිය පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂක දිලීප රොෂාන් කුමාර මහතාගේ ඝාතනය සදහා පැමිණියේ යයි සැකකෙරෙන යතුරු පැදිය ඌරගස්මංහන්දිය මහ ඌරගහ රන්තොටුවිල පදේශයේ පාලු ස්ථානයක ගිනි දමා තිබියදී අද (29) දහවල් සොයා ගත් බව ඌරගස්මංහන්දිය පොලීසිය කියයි.
+Uragasmanhandiya Police say that the motorcycle of the Uragasmanhandiya Maha Uragasmanhandiya Maha Uragasmanhandiya Maha Pigasmanhandiya has been recovered today afternoon.
 
-ලැබුණු තොරතුරකට අනුව මේ ගිනි තබා විනාශ කළ යතුරු පැදිය සොයා ගත් බවත් මේ යතුරු පැදිය ගිනි තැබූ වේලාව සහ එය ගිනි තැබූවේ කවුරුන්ද යන්න පිළිබදව පුළුල් පරීක්ෂණයක් ආරම්භ කරන බව ද පොලීසිය කියයි.
+According to the police that the motorcycle was set on fire, which was set on fire and was set on the time of fire and who was set on fire.
 
-හජන සෞකය පරීක්ෂක රොෂාන් කුමාර මහතා ඝාතනයට පැමිණි නාදුනන තුවක්කුකරුවන් ඔහුට වෙඩි තබා ඌරගස්මංහන්දිය දක්වා පැමිණෙන බව මග දෙපස තිබූ සී සී ටී වී දර්ශනවලින් සොයා ගත් බවත් ඒ අනුව ඝාතකයන් ඝාතනය සදහා පැමිණි යතුරු පැදිය ඌරගස්මංහන්දිය ප්‍රදේශයට පැමිණ එයට ගිනි තබා පලා යන්නට ඇතැයි සැකකරන බවත් පොලීසිය කියයි.
+The police say that the murded gunmen who had come to the murder of Halunu gunmen who had come to the murder of the murder were discovered by the correspondent, police said.
 
-ඝාතකයන් හදුනා ගැනීමට නොහැකි වෙතැයි අනුමාන කළ නාදුනන තුවක්කුකරුවන් තමන් පැමිණි යතුරු පැදියට ගිනි තබන්නට ඇතැයි පොලීසිය සැකකරයි.
+The police suspect that the unidentified gunmen who were unable to uncover the murderers were suspicious that they had to set fire to the motorcycle.
+
+A definite reason for the murder is not yet revealed that about 100 CC Study systems are to be inspected on both sides of the murder.
+
+It is not because the assassination of Dileepa Roshan Kumara was uniquely unorganized and the murder of Dileepa Roshan Kumara was unorganized and the assassination of duty, insurgents and unorganized.Police say.
 
 ...
 
 [Data](articles/a9578909.json)
+
+[Extended Data](ext_articles/a9578909.ext.json)
 
 ---
 
@@ -118,19 +220,29 @@ Also, he said Tennekoon has been appointed by violating the Constitution.
 
 ---
 
-### ඉතාලි රැකියා පෙන්වා මුදල් ගැරූ කාන්තාවක් හා පිරිමියෙක් අල්ලයි
+### A woman and man arrested for a mother of Italian jobs
 
 *2024-02-29 13:01:21* · [`adalk`](https://www.ada.lk/breaking_news/ඉතාලි-රැකියා-පෙන්වා-මුදල්-ගැරූ-කාන්තාවක්-හා-පිරිමියෙක්-අල්ලයි/11-408347) · `si`
 
-ඉතාලි තානාපති කාර්යාලය වෙත සේවාවන් සඳහා පැමිණෙන පුද්ගලයින් මුලාකොට එරට රැකියා ලබාදෙන බව පවසමින් ලක්ෂ 26 ක මුදලක් වංචා කළ කාන්තාවක් සහ පිරිමි පුද්ගලයකු අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+The Colombo Crimes Division says that a man and a male was arrested by a man and a man who had come to the Italian Embassy.
 
-අත්අඩංගුවට ගත් සැකකාරිය අලෙවි ප්‍රවර්ධන නිලධාරිනියක් බවත්  සැකකරු තීරෝද රථ රියදුරෙකු බවත් පොලිසිය කියයි.  ඉතාලි තානාපති කාර්යාලය ට සේවාවන් සඳහා පැමිණෙන පුද්ගලයින්ගෙන් පිටස්තර පුද්ගලයින් විසින් මුදල් ලබාගන්නා බවට ඉතාලි තානාපති කාර්යාලයේ නිලධාරීන් විසින් අධ්‍යක්ෂක තානාපති ආරක්ෂක කොට්ඨාසය දැනුම්වත් කිරීමෙන් අනතුරුව පොලිස්පතිතුමාගේ උපදෙස් මත  ආරම්භ කළ විමර්ශනයකින් අනතුරුව සැකකරු සහ සැකකාරිය අත්අඩංගුවට ගෙන ඇත.
+The suspect is a sales promotion officer and the suspect is an accused of an accused.The suspect and the suspect had been arrested following the inquiry by the Association of the Italian embassy that the Italian Embassy was informed by the Ambassy of the Italian Embassy.
 
-ඒ අනුව කොළඹ අපරාධ කොට්ඨාසයේ ඒකක 5  ‍විමර්ශන නිලධාරීන් කොළඹ මහේස්ත්‍රාත් අධිකරණයට කරුණු වාර්තා කර සැකකරුවන් හඳුනාගෙන අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+Accordingly, the 5 units of the Colombo Crimes Division has been identified to the Colombo Magistrate's Court and arrested the suspects.
 
-...
+Police investigations have revealed that the Mosquitoo is a prolonged in the place, as an armbrerator of an anvioner and is to be carried out by the Embassy.
+
+The suspect and the suspect have defrauded money from Alawwa Kahawatta Marawila and Kandana areas
+
+The suspect arrested for 50 years of age at Narahenpita, a resident of Colombo, Torrington Mawatha
+
+The suspect and the suspect are to be produced before the Colombo Chief Magistrate's Court.
+
+◼️
 
 [Data](articles/b2277af3.json)
+
+[Extended Data](ext_articles/b2277af3.ext.json)
 
 ---
 
@@ -332,17 +444,19 @@ However, the health sector trade unions are slated to meet with Health Minister 
 
 ---
 
-### නාගානන්ද කොඩිතුවක්කුගේ නීතිඥභාවය අහෝසි කරයි
+### Nagananda abolish the lawyer's lawyer
 
 *2024-02-29 11:53:28* · [`adalk`](https://www.ada.lk/breaking_news/නාගානන්ද-කොඩිතුවක්කුගේ-නීතිඥභාවය-අහෝසි-කරයි/11-408346) · `si`
 
-නීතිඥ නාගානන්ද කොඩිතුවක්කු මහතාගේ නීතිඥ භාවය අහෝසි කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (29) තීන්දු කර තිබේ. ඒ මහතාට එරෙහිව ඉදිරිපත් වූ පැමිණිල්ලක් විභාග කිරීමෙන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය අදාළ තීන්දුව ප්‍රකාශ කළේය.
+The Supreme Court today (29) has decided to abolish the lawyer of lawyer Nagananda Kodituwakku.After hearing a complaint against him, the Supreme Court expressed the verdict.
 
-ප්‍රියන්ත ජයවර්ධන,  ප්‍රීති පද්මන් සූරසේන සහ එස්. තුරයිරාජා යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම තීන්දුව ලබා දී තිබේ.
+Priyantha Jayawardena, Joy Padman Surasena and S. The verdict has been given by a three-member judiciary panel with Triiraja.
 
 ◼️
 
 [Data](articles/ac1caf5f.json)
+
+[Extended Data](ext_articles/ac1caf5f.ext.json)
 
 ---
 
@@ -1933,107 +2047,5 @@ The suspect was, however, released on a personal bail of Rs. 500,000 after being
 [Data](articles/6d4e4978.json)
 
 [Extended Data](ext_articles/6d4e4978.ext.json)
-
----
-
-### Police launch probe as Inspector flees country citing death threats
-
-*2024-02-28 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-launch-probe-as-Inspector-flees-country-citing-death-threats/108-277913) · `en`
-
-Colombo, Feb 28 (Daily Mirror) - Police have launched an investigation into Police Inspector Duminda Jayathilaka, the Officer In-Charge of the Organized Crime Division at the Colombo Crimes Division, who has left the country due to death threats from members of underworld gangs, targeting him and his family.
-
-Inspector Duminda Jayathilaka reportedly left for France on February 14 from the Bandaranaike International Airport, accompanied by personal security guards, as a precaution against the threats looming over him and his family. Among the gangsters who allegedly threatened him are Kanjipani Imran and Heenatiyana Mahesh.
-
-Inspector Jayathilaka made several statements to the media from aboard the plane about the threats he had allegedly received from criminals.
-
-Police spokesman DIG Nihal Thalduwa said there is reasonable doubt and suspicion about all the incidents and that police suspect the Inspector may have tried to seek benefits or advantages.
-
-...
-
-[Data](articles/214474c8.json)
-
-[Extended Data](ext_articles/214474c8.ext.json)
-
----
-
-### Presidential candidate will be elected through widespread political alliance - Namal Rajapaksa
-
-*2024-02-28 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/177550) · `ta`
-
-The ruling party's parliamentarian Namal Rajapaksa said that the presidential candidate of the PA is not the party's position, not the party's position, but the presidential candidate will be elected through the PA.
-
-He was speaking to the media at a function held at the Nellikala International Buddhist Center at the Nellikala International Center on Wednesday (28).
-
-Most of the party members have proposed alternative ideas that only those who hold the ministry and the Ministry of State in the Government of India should field President Ranil Wickremesinghe as the presidential candidate.
-
-It is not the party's position to make President Ranil Wickremesinghe as the presidential candidate. This is a personal position of the party.
-
-The presidential candidate will be elected through a widespread political coalition headed by the Sri Lanka PA.
-
-The law is seen as the current main ingredient of the law.
-
-◼️
-
-[Data](articles/f6bf933f.json)
-
-[Extended Data](ext_articles/f6bf933f.ext.json)
-
----
-
-### Live auction for divestment of SriLankan Airlines on 05 March - Minister
-
-*2024-02-28 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97605/live-auction-for-divestment-of-srilankan-airlines-on-05-march-minister) · `en`
-
-Minister of Ports, Shipping and Aviation Nimal Siripala de Silva has announced that an investor for SriLankan Airlines will be chosen following a live auction for the divestiture of SriLankan Airlines on 05 March.
-
-Speaking during Ada Derana’s ‘GET REAL’ segment, the Minister revealed that bids have been called, explaining that the live bidding will take place from 10:00 a.m. to 02:00 p.m. on 05 March, following which the bids will be evaluated, and sent to the Cabinet.
-
-“I want somebody strong to come forward, who can invest at least USD 500 million and ensure job security for the 6,000 people who are working in the airline, that is my priority”, he said in this regard.
-
-The Minister’s statement comes on the heels of several technical issues and other faults causing various delays and cancellations in SriLankan Airlines flights.
-
-◼️
-
-[Data](articles/017b3764.json)
-
-[Extended Data](ext_articles/017b3764.ext.json)
-
----
-
-### Hamas raises stakes in Gaza truce talks with Ramadan call
-
-*2024-02-28 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97604/hamas-raises-stakes-in-gaza-truce-talks-with-ramadan-call) · `en`
-
-Hamas urged Palestinians on Wednesday to march to Jerusalem’s Al-Aqsa Mosque at the start of Ramadan next month, raising the stakes in negotiations for a truce in Gaza, which U.S. President Joe Biden hopes will be in place by then.
-
-The call by Hamas leader Ismail Haniyeh followed comments by Biden, broadcast on Tuesday, that there was an agreement in principle for a ceasefire between Israel and Hamas during Ramadan, while hostages held by the militants are released.
-
-Biden said he hoped such an agreement, which a source said would also allow more aid into the stricken Palestinian enclave and bring the release of Palestinians prisoners, could be finalised by March 4. The Muslim holy month of Ramadan is expected to begin on the evening of March 10.
-
-Both Israel and Hamas have played down the prospects for a truce and Qatari mediators have said the most contentious issues are still unresolved.
-
-...
-
-[Data](articles/533039f6.json)
-
-[Extended Data](ext_articles/533039f6.ext.json)
-
----
-
-### Court grants anticipatory bail on actress Damitha and her husband
-
-*2024-02-28 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-grants-anticipatory-bail-on-actress-Damitha-and-her-husband/108-277905) · `en`
-
-The Colombo Fort Magistrate granted anticipatory bail yesterday, preventing Actress Damitha Abeyratne and her husband from being arrested until March 6. This comes following an alleged complaint accusing them of cheating Rs.3 million by promising to provide job opportunities in Korea.
-
-Magistrate Thilina Gamage further issued notices directing CID’s Computer Crimes Unit OIC to appear before Court on next hearing date.
-
-Senior Counsel Ajith Pathirana, appearing for Damitha Abeyratne and her husband, expressed his disappointment at the Inspector General of Police's decision to hand over the investigation involving Rs.3 million to the CID.
-
-◼️
-
-[Data](articles/92e2aae8.json)
-
-[Extended Data](ext_articles/92e2aae8.ext.json)
 
 ---

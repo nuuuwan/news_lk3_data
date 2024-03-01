@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 12:02:53**
+As of **2024-03-01 12:17:36**
 
 ## Newspaper Stats
 
-*Scraped **10,206** Articles*
+*Scraped **10,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,51 @@ dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 526
 dailyftlk | 542
-islandlk | 543
+islandlk | 544
 adalk | 868
 adaderanalk | 1,234
 tamilmirrorlk | 1,243
-virakesarilk | 1,394
+virakesarilk | 1,395
 dailymirrorlk | 1,546
-adaderanasinhalalk | 1,557
+adaderanasinhalalk | 1,560
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,206 (100.0%) of 10,206 articles have been extended.
+10,206 (100.0%) of 10,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### මහ බැංකු ලොක්කන් පක්ෂ නායකයින් හමුවට කැඳවයි
+
+*2024-03-01 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193999) · `si`
+
+ශ්‍රී ලංකා මහ බැංකු නිලධාරීන්ගේ වැටුප් වැඩිකිරීම සම්බන්ධ කරුණු විමසීම සඳහා එහි නිලධාරීන් ලබන අඟහරුවාදා (05) පෙ.ව. 10.30ට පැවැත්වෙන පක්ෂ නායක රැස්වීමට කැඳවීමට තීරණය කර තිබේ.
+
+අද (01) පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී එය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/c5146fbe.json)
+
+---
+
+### සහරාන්ගේ මස්සිනා අත්අඩංගුවට
+
+*2024-03-01 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193998) · `si`
+
+කාත්තන්කුඩි ප්‍රදේශයේදී පොලීසිය හදිසියේ සිදුකළ වැටලීමකදී සහරාන්ගේ සහෝදරිය විවාහ වී සිටින පුද්ගලයාව අත්අඩංගුවට ගෙන තිබේ.
+
+නීතිවිරෝධී රැස්වීමක් පැවැත්වෙන බවට පොලීසියට ලැබුණු තොරතුරක් අනුව වැටලීම සිදුකර තිබෙන අතර පොලීසිය එම ස්ථානය වටලන අවස්ථාවේදී පිරිසක් කාඩ් සෙල්ලම් කරමින් සිට තිබුණි.
+
+◼️
+
+[Data](articles/02258513.json)
+
+---
 
 ### CBSL officials summoned to party leaders’ meeting next week over recent salary hike
 
@@ -49,6 +77,24 @@ Next week’s parliamentary sessions will be convened from Tuesday to Thursday.
 [Data](articles/0e594a8a.json)
 
 [Extended Data](ext_articles/0e594a8a.ext.json)
+
+---
+
+### TikTok තාරකාවිය අයිතිය පුතුට පවරා ජීවිතයෙන් සමුගනී
+
+*2024-03-01 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193997) · `si`
+
+TikTok සමාජ මාධ්‍ය ජාලයේ ඉහළින්ම වැජඹෙන අමෙරිකානු ගායිකා Cat Janice මිය ගොස් තිබේ.
+
+ඉතා දුර්ලභ රෝගයක් වන "sarcoma" නම් අස්ථි හෝ මෘදු පටක වල ඇතිවන පිළිකා තත්ත්වයක් ඇයට වැළදී තිබූ බව විදෙස් වාර්තා පවසයි.
+
+සිය රෝගී තත්ත්වයට ප්‍රතිකාර ගන්නා අතරතුර, ඇය සිය ගීත වල අයිතිය ඇගේ හත් හැවිරිදි පුත් ලෝරෙන්ට පැවරුවාය.
+
+TikTok සමාජ මාධ්‍යයේ ඇය ඉහළින්ම සිටින අතර මෙම වසරේ ජනවාරි මාසයේ පළමු සතියේ  නිකුත් කළ Dance Outta My Head නම් ඇයයේ ගීතයට මාස 2ක් වැනි කෙටි කාලයක දී අන්තර්ජාලය තුළ මිලියන 57ක නැරඹුම් වාර තිබෙන බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/dae13c17.json)
 
 ---
 
@@ -87,6 +133,26 @@ The damage caused by the fire has not yet been assessed and the cause of the fir
 [Data](articles/bc409ca8.json)
 
 [Extended Data](ext_articles/bc409ca8.ext.json)
+
+---
+
+### காஸாவில் உணவு பெற முண்டியடித்த மக்கள் மீது இஸ்ரேல் தாக்குதல்: 112 பேர் பலி, 760 பேர் காயம்
+
+*2024-03-01 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177651) · `ta`
+
+பலஸ்தீனத்தின் காஸா பிராந்தியத்தில், உணவுப் பொருட்களைப் பெறுவதற்காக திரண்டிருந்த மக்கள் மீது இஸ்ரேலியப் படையினர் துப்பாக்கிப் பிரயோகம் செய்ததால் குறைந்தபட்சம் 112 பேர் உயிரிந்ததுடன் மேலும் 760 பேர் காயமடைந்துள்ளனர்.
+
+மக்கள் மீது தனது படையினர் துப்பாக்கிப் பிரயோகம் செய்ததை இஸ்ரேலிய இராணுவம் ஒப்புக் கொண்டுள்ளது. அச்சுறுத்தல் ஏற்படுவதாகக் கருதி துப்பாக்கிப் பிரயோகம் செய்ததாக இஸ்ரேல் இராணுவம் கூறியுள்ளது.
+
+38 உணவு லொறிகளை ஆயிரக்கணக்கான மக்கள் சூழ்ந்த நிலையில் 'சனநெரிசல்' ஏற்பட்டதகாவும்,  சிலர் லொறிகளினால் மோதப்பட்டு உயிரிழந்தாகவும் இஸ்ரேல் இராணுவம் தெரிவித்துள்ளது.
+
+இதேவேளை?  மேற்படி சம்பவத்தை  ஐநா பாதுகாப்புப் சபை கண்டிக்க வேண்டும் என ஐ.நாவுக்கான பலஸ்தீன தூதுவர் ரியாத் மன்சூர் வலியுறுத்தியுள்ளார்.
+
+இச்சம்பவத்தை கண்டிப்பதற்கான பிரேரணையொன்றை ஐநா பாதுகாப்புச் சபைகயிடம் அல்ஜீரியா முன்வைத்தது, எனினும், அமெரிக்கா அப்பிரேரணையை வீட்டோ செய்தது.
+
+...
+
+[Data](articles/328d875f.json)
 
 ---
 
@@ -1116,6 +1182,22 @@ In a competitive and challenging environment the bank was able to achieve its go
 
 ---
 
+### CCS-Reliance Group of India agreement adds sparkle to share market
+
+*2024-03-01 04:42:00* · [`islandlk`](http://island.lk/ccs-reliance-group-of-india-agreement-adds-sparkle-to-share-market/) · `en`
+
+Ceylon Cold Stores (CCS) , a subsidiary of JKH, signed an agreement with one of India’s largest conglomerates, Reliance Group, to promote the “Elephant House ” brand in India to compete with Pepsi and Coca Cola. This resulted in an appreciation of CCS shares at yesterday’s stock market, analysts said.
+
+Reliance Consumer Products Ltd., (RCPL), the FMCG arm and wholly-owned subsidiary of Reliance Retail Ventures Ltd., (RRVL) announced that it has partnered with Sri Lanka-headquartered “Elephant House” to manufacture, market, distribute and sell beverages under the “Elephant House” brand across India.
+
+This association will not only help RCPL bolster its growing beverage portfolio that boasts iconic brands, such as, Campa, Sosyo and Raskik, but will also bring exceptional new products and value propositions to Indian consumers, analysts said.
+
+...
+
+[Data](articles/1d16b66b.json)
+
+---
+
 ### NSB’s GM/CEO Shashi Kandambi honoured by APB
 
 *2024-03-01 04:42:00* · [`islandlk`](http://island.lk/nsbs-gm-ceo-shashi-kandambi-honoured-by-apb/) · `en`
@@ -1851,95 +1933,5 @@ The general price level has increased to 100.6 percent compared to the index ref
 [Data](articles/87684f64.json)
 
 [Extended Data](ext_articles/87684f64.ext.json)
-
----
-
-### First Local HD channel of the Freesat Television TV Derana
-
-*2024-02-29 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193975) · `si`
-
-TV Derana has been able to become the first local HD channel of the Satellite Technology Freesat Television Network.
-
-The signing of the agreement was held recently at Deraka Head Office.
-
-Accordingly, the audience will be able to view the TV Derana HD channel along tomorrow (01) to tomorrow.
-
-◼️
-
-[Data](articles/2adbd3d2.json)
-
-[Extended Data](ext_articles/2adbd3d2.ext.json)
-
----
-
-### Warning issued on hot climate!
-
-*2024-02-29 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177630) · `ta`
-
-Alerts have been issued to many provinces and districts that the warmer weather will prevail for the next 24 hours.
-
-Accordingly, the Department of Meteorology has announced that the residents of the Northwest, Western and Southern Provinces and Ratnapura Mannar districts will be observed.
-
-It is mentioned that the heat code in these areas, ie, the heat, which is perceived by the human body, is required to 'focus'.
-
-◼️
-
-[Data](articles/da6c8cf8.json)
-
-[Extended Data](ext_articles/da6c8cf8.ext.json)
-
----
-
-### Sri Lanka’s RAMIS online tax collection system “not operatable”: IT Minister
-
-*2024-02-29 20:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-ramis-online-tax-collection-system-not-operatable-it-minister-152567/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s online tax collection system RAMIS is “not operatable”, and the Ministry of Information Technology is ready to do for an independent audit to find the shortcomings, State IT Minister Kanaka Herath said.
-
-The Revenue Administration Management Information System (RAMIS) was introduced to the Inland Revenue Department (IRD) when the island nation signed for its 16th International Monetary Fund (IMF) programme in 2016.
-
-However, trade unions at the IRD protested the move, claiming that the system was malfunctioning despite billions being spent for it amid allegations that the new system was reducing the direct contacts between taxpayers and the IRD to reduce corruption.
-
-The RAMIS had to be stopped after taxpayers faced massive penalties because of blunders made by heads of the IT division, computer operators and system errors at the IRD, government officials have said.
-
-...
-
-[Data](articles/4fdc1536.json)
-
-[Extended Data](ext_articles/4fdc1536.ext.json)
-
----
-
-### UNFPA Asia Pacific Regional Director calls on Prime Minister
-
-*2024-02-29 20:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-Asia-Pacific-Regional-Director-calls-on-Prime-Minister/108-277976) · `en`
-
-Colombo – United Nations Population Fund (UNFPA) Asia Pacific Regional Director, Pio Smith, who is engaged on an official visit to Sri Lanka, paid a courtesy call on Prime Minister Dinesh Gunawardena at the Temple Trees today.
-
-The meeting was marked by discussions highlighting UNFPA's longstanding engagement in Sri Lanka over the past 50 years as a key development partner.
-
-During the cordial meeting, the discussions centered on UNFPA's continuous commitment to advancing sexual and reproductive health (SRH), gender-based violence (GBV), and population dynamics in Sri Lanka.
-
-ecognizing Sri Lanka's efforts in promoting gender equality and women's empowerment, Mr. Smith explored opportunities to further support the country in achieving rights and choices for all citizens, particularly emphasizing the importance of equal opportunities for women and girls.
-
-...
-
-[Data](articles/efece4a6.json)
-
-[Extended Data](ext_articles/efece4a6.ext.json)
-
----
-
-### President declares open SLAF Cadet Officers
-
-*2024-02-29 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193974) · `si`
-
-President Ranil Wickremesinghe was held today under the patronage of President Ranil Wickremesinghe today (29).
-
-◼️
-
-[Data](articles/ffab0909.json)
-
-[Extended Data](ext_articles/ffab0909.ext.json)
 
 ---

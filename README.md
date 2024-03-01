@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 22:03:16**
+As of **2024-03-01 22:17:31**
 
 ## Newspaper Stats
 
@@ -26,51 +26,59 @@ adaderanasinhalalk | 1,586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,322 (100.0%) of 10,326 articles have been extended.
+10,326 (100.0%) of 10,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### මංජුගේ හිසටම එල්ල වූ වෙඩිල්ල -CCTV
+### Manju's head-to-head shot -cctv
 
 *2024-03-01 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194025) · `si`
 
-කොස්ගොඩ සුජී නම් පාතාල කල්ලි සාමාජිකයාගේ ඥාතී සහෝදරයෙකු අද (01) අදහවල් අහුංගල්ලේදී වෙඩි තබා ඝාතනය කර තිබේ.
+A relative brother of the underworld member of the underworld gang member of Kosgoda Suv has been shot dead at Ahuallella today.
 
-ලොකු පැටී නම් අපරාධකරුගේ පාර්ශ්වය විසින් බෙලිඅත්තේ පංච පුද්ගල ඝාතනයට පළිගැනීමක් ලෙස මෙය සිදුකර ඇති බවට සැක කරන බව ආරක්ෂක අංශ පවසයි.
+The criminal part of the criminal is suspected to be revenge in the Panpicara murder in Beliatta.
 
-අහුංගල්ලේදී අද දහවල් 12.30ට පමණ ස්කූටර් වර්ගයේ යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු මෙම වෙඩි තැබීම සිදුකර තිබේ.
+Two persons who came from a score of the scooper in a tractor were shot at around 12.30 pm at Ahungalla today.
 
-රිවෝල්වර් වර්ගයේ ගිනි අවියකින් වෙඩි තැබීම සිදුකර තිබූ අතර වෙඩික්කරුවන්ගේ ඉලක්කය වී තිබුණේ ඉදිකෙරෙමින් පවතින වෙළෙඳසැලක් අසල සිටි පුද්ගලයෙකි.
+Revolver was shot with a firearm and the Vidician aim was a person near a shopping.
 
-මේ වෙඩික්කරුවන් ප්‍රහාරය සඳහා පැමිණෙන අයුරු දැක්වෙන CCTV දර්ශන පෙළකි.
+CCTV shows a range of CCTV visits to these shooters.
 
-වෙඩික්කරු අදාළ වෙළඳසැල අසලට පැමිණ යතුරුපැදියෙන් බැස අනතුරුව නැව ඒ වෙත ගොඩ වේ.
+The shooter comes near the shop and get down the motorcycle and then board the ship.
 
-පසුව වෙළෙඳසැල තුළ සිටි අයෙක් පැමිණ යම් කිසි දෙයක් පවසා එම ස්ථානයෙන් දිවයෑමක් සමග වෙඩික්කරු ‍වෙළෙඳසැල තුළට දිව ගොස් එක් වෙඩි ප්‍රහාරයක් එල්ල කර තිබේ.
+Later, a man in the store came and told the shooter with a running out of the place.
 
-අනතුරුව හිස් පතොරම් කොපුවද රැගෙන වෙඩික්කරු යතුරුපැදියේ නැග පළා යයි.
+Thereafter the shooter gets ridiculed on the motorcycle.
 
-වෙඩි තැබීම සිදුකර පළා යන අයුරුද CCTV කැමරාවක සටහන්ව තිබිණි මෙලෙසිනි.
+This is how the CCTV camera has been diagnosed with the fifty shooting.
+
+The shooting was on the head of the man and he died in the spot.
+
+Kusu Kumara Mendis alias Manju was a 45-year-old resident of Kosgoda.
 
 ...
 
 [Data](articles/534abe32.json)
 
+[Extended Data](ext_articles/534abe32.ext.json)
+
 ---
 
-### சர்ச்சைக்குரிய தடுப்பூசி இறக்குமதி - வைத்தியர் சமன் ரத்நாயக்க கைது
+### Controversial Vaccine Import - Drug Arrest
 
 *2024-03-01 21:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்ச்சைக்குரிய-தடுப்பூசி-இறக்குமதி-வைத்தியர்-சமன்-ரத்நாயக்க-கைது/175-334060) · `ta`
 
-சுகாதார அமைச்சின் மருத்துவப் பொருட்கள் மற்றும் மருந்து வழங்கல் ஒழுங்குமுறை மேலதிக செயலாளர்  வைத்தியர் சமன் ரத்நாயக்க குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+Additional Secretary of the Ministry of Health and Drug Records, Dr. Saman Ratnayake has been arrested by the Criminal Investigation Division.
 
-சர்ச்சைக்குரிய இம்யூனோகுளோபுலின் தடுப்பூசி இறக்குமதி செய்யப்பட்ட விவகாரம் தொடர்பில்  இவர் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது. R
+He has been arrested in connection with the importation of controversial immunoglobulin vaccine. Remble
 
 ◼️
 
 [Data](articles/ae5e5cfa.json)
+
+[Extended Data](ext_articles/ae5e5cfa.ext.json)
 
 ---
 
@@ -89,6 +97,8 @@ The increase in expenditure on consumer goods and investment goods partly driven
 ◼️
 
 [Data](articles/22d3d1f6.json)
+
+[Extended Data](ext_articles/22d3d1f6.ext.json)
 
 ---
 

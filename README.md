@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 23:17:36**
+As of **2024-03-01 23:33:57**
 
 ## Newspaper Stats
 
-*Scraped **10,332** Articles*
+*Scraped **10,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ islandlk | 544
 adalk | 876
 adaderanalk | 1,255
 tamilmirrorlk | 1,257
-virakesarilk | 1,406
-dailymirrorlk | 1,567
+virakesarilk | 1,407
+dailymirrorlk | 1,568
 adaderanasinhalalk | 1,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,332 (100.0%) of 10,332 articles have been extended.
+10,332 (100.0%) of 10,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### 14 வருடங்களாகத் தொடரும் கிழக்குத் தமிழர்களின் காணி மீட்புப் போராட்டம்
+
+*2024-03-01 23:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177714) · `ta`
+
+யுத்தத்தால் இடம்பெயர்ந்த, கிழக்கு மாகாணத்தைச் சேர்ந்த நூற்றுக்கணக்கான தமிழர்கள், மீண்டும் தமது சொந்த நிலத்தில் மீளக் குடியேற அதிகாரிகள் தொடர்ந்து தடை விதித்து வருவதாக குற்றஞ்சாட்டுகின்றனர்.
+
+யுத்தம் நிறைவுக்கு வந்த கடந்த 2009ஆம் ஆண்டு முதல், கடந்த 14 வருடங்களாக சொந்த நிலத்தில் மீளக்குடியேறுவதற்கான தமது போராட்டம் தொடர்வதாக அந்த மக்கள் தெரிவிக்கின்றனர்.
+
+யுத்தத்தால் பாதிக்கப்பட்ட மக்களை மீள்குடியேற்றுவதற்கும், காணிகளை விடுவிப்பதற்கும்,  வடமாகாணத்தில் எஞ்சியிருக்கும் இடைத்தங்கள் முகாமில் தங்கியுள்ளவர்களை மீள் குடியேற்றுவதற்கும் நடவடிக்கைகள் எடுக்கப்பட்டு வருதாக வெளிவிவார அமைச்சர் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் விசேட பிரிவில் பெப்ரவரி 27ஆம் திகதி உரையாற்றியிருந்தார்.
+
+அம்பாறை, பொத்துவில் பிரதேச செயலகத்துக்கு உட்பட்ட கனகர் கிராமத்தைச் சேர்ந்த 278 குடும்பங்கள், தமது சொந்தக் காணிகளை விடுவிக்குமாறு வலியுறுத்தி அமைச்சர் உரையாற்றிய தினத்திற்கு முதல்நாள் (பெப்ரவரி 26) கவனயீர்ப்புப் போராட்டத்தை முன்னெடுத்தன.
+
+...
+
+[Data](articles/771fa921.json)
+
+---
+
+### Best option is to seek an interpretation from Supreme Courts: Minister
+
+*2024-03-01 23:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Best-option-is-to-seek-an-interpretation-from-Supreme-Courts-Minister/108-278055) · `en`
+
+Colombo, March 01 (Daily Mirror) - The best option to determine whether the course of action followed by Speaker Mahinda Yapa Abeywardana in appointing Deshabandu Tennakoon as the IGP is to seek an interpretation from the Supreme Court, Minister of Justice Wijeyadasa Rajapakshe said today.
+
+Minister Rajapaksa came out with this remark, speaking to journalists after the inauguration of a road development project in Pannipitiya, Colombo. “It is best that Supreme Court gives an interpretation of the action taken by the Speaker,” he said.
+
+Also, he said the Executive does not have any power to influence the Constitutional Council in any way.
+
+He said the issue which the Speaker has faced when appointing the IGP is the non-appointment of the member of the constitutional council (CC) who represents minority parties.
+
+...
+
+[Data](articles/e186230d.json)
+
+---
 
 ### Niroshan Dikwella in response to Gusal Perera
 
@@ -2051,43 +2087,5 @@ The Minister further said that the permission of the Religious Affairs Ministry 
 [Data](articles/1d87147e.json)
 
 [Extended Data](ext_articles/1d87147e.ext.json)
-
----
-
-### Mavussakele and Castlere reservoirs that provide electricity generating
-
-*2024-03-01 12:24:06* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-උත්පාදනයට-ජලය-සැපයෙන-මාවුස්සාකැලේ-හා-කාසල්රී-ජලාශ-වලට-සිදුව-ඇති-දේ/11-408373) · `si`
-
-The central hills are intense dry weather for about a month for about a month
-
-Download the water level of Mawaskele and Castlereagals
-
-Today on today (01). The water level of Mawussaleri and Castlere reservoirs by 06.00
-
-It was 18 feet and 14 feet of ft from the spray level and 14 feet
-
-◼️
-
-[Data](articles/af3bddc7.json)
-
-[Extended Data](ext_articles/af3bddc7.ext.json)
-
----
-
-### Unidentified assailants open fire at house in Padukka
-
-*2024-03-01 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97653/unidentified-assailants-open-fire-at-house-in-padukka) · `en`
-
-A group of unidentified assailants has shot at a house in the Madulawa area of Padukka, early this morning (March 01).
-
-Several individuals from Piliyandala area had been temporarily residing in the house at the time of the incident. As per police report, they had been staying there to attend an upcoming ceremony to lay the foundation stone for a house under construction in a nearby plot of land.
-
-Police also mentioned that they were planning to buy the house in question as well.
-
-◼️
-
-[Data](articles/d6166164.json)
-
-[Extended Data](ext_articles/d6166164.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 07:41:25**
+As of **2024-03-01 07:53:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,147 (100.0%) of 10,150 articles have been extended.
+10,150 (100.0%) of 10,150 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ The emergency services were called to the Kacchi Bhai restaurant, which accordin
 ...
 
 [Data](articles/4301bdc6.json)
+
+[Extended Data](ext_articles/4301bdc6.ext.json)
 
 ---
 
@@ -226,37 +228,41 @@ Ms. Kandambi, a former president of the APB, has long been recognized for her ex
 
 ---
 
-### மாணவர்களை நேரில் சந்தித்தார் ஜனாதிபதி
+### The President met students in person
 
 *2024-03-01 04:09:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-நேரில்-சந்தித்தார்-ஜனாதிபதி/175-334031) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க வில்கமுவ பல்லேகம மத்திய மகா வித்தியாலயத்தின் கல்விச் செயற்பாடுகளை நேற்று நேரடியாக மேற்பார்வைச் செய்தார்.
+President Ranil Wickremesinghe directly oversee the educational activities of the Central Maha Vidyalaya at the Central Maha Vidyalaya.
 
-'அஸ்வெசும' வேலைத் திட்டம் தொடர்பாக வில்கமுவ பிரதேச செயலகத்தின் கேட்போர் கூட்டத்தில் நடைபெற்ற சந்திப்பின் பின்னர், பல்லேகம மத்திய மகா வித்தியாலயத்தின் மைதானத்திலிருந்த மாணவர்களுடன் சிநேகபூர்வமாக கலந்துரையாடி, அவர்களின் கல்விச் செயற்பாடுகள் குறித்தும் கேட்டறிந்துகொண்டார்.
+After a meeting held at the auditorium of the Wilgamuwa Divisional Secretariat regarding the 'Azwezuma' program, he discussed with the students from the ground at the Pallegama Central Maha Vidyalaya and asked about their educational activities.
 
-அங்கிருந்த ஆசிரியர்களுடனும் கலந்துரையாடிய ஜனாதிபதி, மாணவர்களின் கல்விச் செயற்பாடுகள் மற்றும் பாடசாலையின் வளப் பற்றாக்குறை தொடர்பிலும் ஆராய்ந்தார்.
+The President also discussed with the teachers and examined the education of the students and the shortage of the school.
 
-இதன்போது முன்வைக்கப்பட்ட பிரச்சினைகள் குறித்து கவனம் செலுத்துவதாக மாணவர்களுக்கு உறுதியளித்த ஜனாதிபதி, அவர்களின் எதிர்கால கல்விச் செயற்பாடுகளுக்கும் வாழ்த்து கூறினார். (a)
+The President promised to focus on the issues proposed and congratulated them on their future educational activities.. (A)
 
 ◼️
 
 [Data](articles/513b9b71.json)
 
+[Extended Data](ext_articles/513b9b71.ext.json)
+
 ---
 
-### அதிக வெப்ப நிலை ஏப்ரல் வரை நீடிக்கும்
+### The higher the temperature will last until April
 
 *2024-03-01 04:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்ப-நிலை-ஏப்ரல்-வரை-நீடிக்கும்/175-334030) · `ta`
 
-நாட்டில் நிலவும் அதிக வெப்பமான வானிலை எதிர்வரும் ஏப்ரல் நடுப்பகுதி வரை நீடிக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The hottest weather in the country will last until mid -April, the Department of Meteorology said.
 
-எனவே முடிந்தவரை வெளிப்புற செயற்பாடுகளில் ஈடுபடுவதை தவிர்க்குமாறு திணைக்களத்தின் பணிப்பாளர் அஜித் விஜேமான்ன தெரிவித்துள்ளார்.
+The Director of the Department, Ajith Wijemanna, said that it would avoid engaging in exterior activities as much as possible.
 
-காற்றின் வேகம் குறைவடைந்துள்ளமை மற்றும் வானில் முகில் கூட்டம் குறைவடைந்துள்ளமை என்பன இந்த வெப்பநிலைக்கான காரணமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology said the cause of the temperature was the decline in the speed of the wind and the face of the face of the sky.
 
 ◼️
 
 [Data](articles/83cdde6e.json)
+
+[Extended Data](ext_articles/83cdde6e.ext.json)
 
 ---
 

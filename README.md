@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 20:50:52**
+As of **2024-03-01 21:02:46**
 
 ## Newspaper Stats
 
-*Scraped **10,305** Articles*
+*Scraped **10,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ economynextcom | 542
 dailyftlk | 542
 islandlk | 544
 adalk | 875
-adaderanalk | 1,250
-tamilmirrorlk | 1,254
+adaderanalk | 1,251
+tamilmirrorlk | 1,256
 virakesarilk | 1,400
-dailymirrorlk | 1,562
+dailymirrorlk | 1,565
 adaderanasinhalalk | 1,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,305 (100.0%) of 10,305 articles have been extended.
+10,305 (99.9%) of 10,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Dr. Saman Ratnayake arrested over Immunoglobulin scandal
+
+*2024-03-01 20:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dr-Saman-Ratnayake-arrested-over-Immunoglobulin-scandal/108-278052) · `en`
+
+Colombo, March 1 (Daily Mirror) - The Criminal Investigations Department (CID) arrested Additional Secretary of the Health Ministry Dr. Saman Ratnayake over the import of substandard human Immunoglobulin injections.
+
+The arrest was made after Dr. Saman Ratnayake arrived at the CID to provide a statement.
+
+Several key individuals including former Health Minister Keheliya Rambukwella, Former Health Secretary, the Medical Supplies Division Director are currently in remand custody over the Immunoglobulin scandal.
+
+◼️
+
+[Data](articles/faf5c4cf.json)
+
+---
+
+### Health Ministry’s Additional Secretary Dr. Saman Ratnayake arrested
+
+*2024-03-01 20:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97669/health-ministrys-additional-secretary-dr-saman-ratnayake-arrested) · `en`
+
+Additional Secretary of the Ministry of Health Saman Ratnayake was arrested on Friday evening (March 01) by the Criminal Investigation Department (CID) over substandard human immunoglobulin procurement.
+
+◼️
+
+[Data](articles/3d79b854.json)
+
+---
+
+### Expolanka to delist from CSE
+
+*2024-03-01 20:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expolanka-to-delist-from-CSE/108-278051) · `en`
+
+Expolanka Holdings PLC announced today its decision to delist from the Colombo Stock Exchange (CSE).
+
+The proposal is subject to necessary shareholder sanction and regulatory approvals and clearances.
+
+“We are confident that this proposal is in the best interest of our shareholders, which provides an attractive and fair premium that will enable our minority shareholders to unlock value.
+
+“As previously, post-delisting, the company will continue to navigate market complexities in a fast-revolving business environment while continuing to drive sustainable growth as it strives to gain market share as one of the top-tier logistics companies in the world,” said Hanif Yusoof, Director, Expolanka Holdings PLC, commenting on the move.
+
+◼️
+
+[Data](articles/a649f44c.json)
+
+---
 
 ### Dr. Saman Rathnayake arrested
 
@@ -43,6 +89,26 @@ Additional Secretary to the Ministry of Health Dr. Saman Ratnayake has been arre
 [Data](articles/ef6e0fb8.json)
 
 [Extended Data](ext_articles/ef6e0fb8.ext.json)
+
+---
+
+### பரீட்சைகளுக்கான திகதிகள் அறிவிக்கப்பட்டன
+
+*2024-03-01 19:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகளுக்கான-திகதிகள்-அறிவிக்கப்பட்டன/175-334059) · `ta`
+
+2024ஆம் ஆண்டு நடைபெறவுள்ள பாடசாலை பரீட்சைகள் மற்றும் அவற்றின் திகதிகளை பரீட்சைத் திணைக்களம் அறிவித்துள்ளது.
+
+இதன்படி, 2023 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தரப்பரீட்சை 2024ஆம் ஆண்டு மே மாதம் 6ஆம் திகதி முதல் மே மாதம் 15ஆம் திகதி வரை நடைபெறவுள்ளது.
+
+2024 ஆம் ஆண்டிற்கான தரம் 5 புலமைப்பரிசில் பரீட்சை 2024 செப்டம்பர் 15ஆம் திகதி ஞாயிற்றுக்கிழமை நடைபெறவுள்ளது.
+
+2024 ஆம் ஆண்டுக்கான க.பொ.த உயர்தரப் பரீட்சை 2024  நவம்பர் 25 ஆம் திகதி முதல் 2024  டிசம்பர் 20 ஆம் திகதி வரை நடைபெறும் என பரீட்சை ஆணையாளர் அமித் ஜயசுந்தர அறிவித்துள்ளார்.
+
+இதேவேளை, 2024 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தரப் பரீட்சையை நடத்துவதற்கான உத்தேச திகதிகள் எதிர்வரும் காலங்களில் அறிவிக்கப்படும் என பரீட்சை ஆணையாளர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/6f17bb4e.json)
 
 ---
 
@@ -71,6 +137,24 @@ The Interim Finance Report issued a profit of Rs. 156.2 billion in the last 3 mo
 [Data](articles/aa226575.json)
 
 [Extended Data](ext_articles/aa226575.ext.json)
+
+---
+
+### விபத்தில் பாடசாலை மாணவன் மரணம்
+
+*2024-03-01 19:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/விபத்தில்-பாடசாலை-மாணவன்-மரணம்/71-334058) · `ta`
+
+யாழ்ப்பாணம் - சாவகச்சேரி, ஐயாக்கடை A9 வீதியில் இன்று காலை இடம்பெற்ற விபத்தில்   மாணவன் ஒருவர் உயிரிழந்துள்ளார்.
+
+விளையாட்டுப் பயிற்சிகளை நிறைவு செய்து துவிச்சக்கரவண்டியில் வீடு திரும்பிய போது யாழ்ப்பாணத்திலிருந்து கொழும்பு நோக்கிப் பயணித்த இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பஸ் மோதியதில் அவர் உயிரிழந்துள்ளார்.
+
+யாழ். சாவகச்சேரி இந்துக் கல்லூரியில் கல்வி கற்கும் 19 வயதான மாணவனே இவ்விபத்தில் உயிரிழந்துள்ளார்.
+
+உயிரிழந்த மாணவனின் சடலம் யாழ். போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், பஸ்ஸின் சாரதி கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0fb74396.json)
 
 ---
 
@@ -735,6 +819,24 @@ Highlighting Sri Lanka's historical commitment to safeguarding world peace and r
 [Data](articles/cf28cc23.json)
 
 [Extended Data](ext_articles/cf28cc23.ext.json)
+
+---
+
+### If economic rights of SL harmed in Red Sea, will stand up for it: President
+
+*2024-03-01 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/If-economic-rights-of-SL-harmed-in-Red-Sea-will-stand-up-for-it-President/108-278042) · `en`
+
+Colombo, March 01 (Daily Mirror) - President Ranil Wickremesinghe stressed Sri Lanka's commitment to protecting its economic rights in the Red Sea, emphasizing that the nation would stand firm against any threats.
+
+He also stated that Sri Lanka will work to provide the necessary support to the United Nations organization whenever there are problems with peace in the region and the world.
+
+President Wickremesinghe made this statement while attending the Sri Lanka Air Force Cadet Officers Commissioning Ceremony held yesterday afternoon (29) at Air Force Base China Bay, Trincomalee.
+
+Highlighting Sri Lanka's historical commitment to safeguarding world peace and regional stability, the President emphasized his readiness to make decisive decisions for global peace. He underscored the responsibility and accountability of the armed forces in achieving this objective.
+
+◼️
+
+[Data](articles/e69fc23d.json)
 
 ---
 
@@ -1925,125 +2027,5 @@ The damage caused by the fire has not yet been assessed and the cause of the fir
 [Data](articles/bc409ca8.json)
 
 [Extended Data](ext_articles/bc409ca8.ext.json)
-
----
-
-### Israel attack on people who dumped food in Gaza: 112 killed, 760 injured
-
-*2024-03-01 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177651) · `ta`
-
-In the Gaza region of Palestine, Israeli soldiers fired at people who gathered to get food. At least 112 people were killed and 760 others were injured.
-
-The Israeli military confesses that its soldiers fired on the people. The Israeli military has claimed that the shooting was fired as a threat.
-
-The Israeli military has said that 38 food lorries were surrounded by thousands of people and some people were hit by lorries.
-
-Meanwhile?Palestinian Ambassador to the UN Riyadh Mansoor has urged the UN Security Council to condemn the incident.
-
-Algeria presented a proposal to condemn the incident to the UN Security Council, however, the US made the proposal.
-
-"This is what the US Deputy Ambassador to the UN Robert Wood said," We have no information about the incident. ". The US is trying to make sure people died. ”
-
-◼️
-
-[Data](articles/328d875f.json)
-
-[Extended Data](ext_articles/328d875f.ext.json)
-
----
-
-### India’s economy grows at its fastest pace in six quarters in election boost for Modi
-
-*2024-03-01 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97648/indias-economy-grows-at-its-fastest-pace-in-six-quarters-in-election-boost-for-modi) · `en`
-
-India’s economy grew at its fastest pace in one-and-half years in the final three months of 2023, led by strong manufacturing and construction activity and bolstering Prime Minister Narendra Modi’s economic record just months before a national election.
-
-Asia’s third largest economy grew 8.4% in the October-December quarter, much faster than the 6.6% estimated by economists polled by Reuters and higher than the 7.6% recorded in the previous three months.
-
-“The ongoing growth momentum is indicative of the Indian economy’s resilience, notwithstanding global headwinds,” said Sunil Kumar Sinha, economist at India Ratings, noting that industrial growth continued its good run in the quarter.
-
-India has consistently beat market expectations and is ranked as one of the fastest-growing economies in the world, with China struggling to recover after the pandemic and the euro zone narrowly escaping a recession.
-
-India revised its growth estimate for the current fiscal year to March 31 to 7.6% from 7.3%.
-
-...
-
-[Data](articles/207d9158.json)
-
-[Extended Data](ext_articles/207d9158.ext.json)
-
----
-
-### Shots into a house
-
-*2024-03-01 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193996) · `si`
-
-During this morning, the suspects have fled the house.
-
-A group of people in the Piliyandala area were temporarily accommodated in the shooting house.
-
-The police have reported that they were staying at the house to participate in the construction of an foundation stone for the construction of a house near the house.
-
-It is said that the shooting of the house had been shot at the time while the people were sleeping.
-
-◼️
-
-[Data](articles/22e0da3d.json)
-
-[Extended Data](ext_articles/22e0da3d.ext.json)
-
----
-
-### 8 lakh rupees worth of Kerala cannabis
-
-*2024-03-01 10:58:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/8-இலட்சம்-ரூபா-பெறுமதி-கேரள-கஞ்சாவுடன்-நபர்-கைது/46-334043) · `ta`
-
-A person has been arrested by the police with Kerala ganja worth more than 8 lakhs.
-
-A special officer of the police said that the suspect has been arrested in front of the Ruwanwelisa Vihara.
-
-It has been revealed that the cannabis has been brought in with the aim of distribution in the Anuradhapura worship area.
-
-The captured cannabis is said to be 4 kg of 250 grams.
-
-It is noteworthy that the arrested suspect belongs to the 32 -year -old Kalpitiya area.
-
-◼️
-
-[Data](articles/813eaf4d.json)
-
-[Extended Data](ext_articles/813eaf4d.ext.json)
-
----
-
-### UNFPA to help Sri Lanka to modernize statistical system to move towards digital economy
-
-*2024-03-01 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97647/unfpa-to-help-sri-lanka-to-modernize-statistical-system-to-move-towards-digital-economy) · `en`
-
-United Nations Population Fund (UNFPA) Asia Pacific Regional Director Pio Smith has called on Prime Minister Dinesh Gunawardena at the Temple on Thursday (February 29).
-
-The Premier thanked the UNFPA for the support extended during the past 50 years to several areas including the plans to modernize Sri Lanka’s statistical system and upgrade population data system.
-
-The UPFPA Regional Director assured continuous support to upgrade data systems to move towards the digital economy.
-
-Mr. Smith expressed interest in assisting programmes to enhance collaboration at the national level and advocate for the rights of women and girls. He said he visited Kilinochchi on Wednesday to assess the issues faced by communities at the grassroots level and there he noted with satisfaction the measures taken with regard to gender violence at homes and outside.
-
-...
-
-[Data](articles/433190d4.json)
-
-[Extended Data](ext_articles/433190d4.ext.json)
-
----
-
-### Announcement regarding the price of Litro gas
-
-*2024-03-01 10:54:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-எரிவாயுவின்-விலை-தொடர்பில்-அறிவிப்பு/175-334042) · `ta`
-
-◼️
-
-[Data](articles/aaa75096.json)
-
-[Extended Data](ext_articles/aaa75096.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 10:50:44**
+As of **2024-03-01 11:03:34**
 
 ## Newspaper Stats
 
-*Scraped **10,189** Articles*
+*Scraped **10,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 1,228
 tamilmirrorlk | 1,241
 virakesarilk | 1,394
 dailymirrorlk | 1,543
-adaderanasinhalalk | 1,552
+adaderanasinhalalk | 1,553
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,189 (100.0%) of 10,189 articles have been extended.
+10,190 (100.0%) of 10,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### President reminds our ownership of the Red Sea
+
+*2024-03-01 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193992) · `si`
+
+President Ranil Wickremesinghe says that a large modification should be made to move forward.
+
+The President said that a war was not a war and should be fulfilled in the Red Sea.
+
+The President was speaking at the occasional guest of the scattering cadet officers of the Air Force cadres in the history of the history.
+
+"There must be a huge modern in the country to move forward. We need to protect the stability of our region. If peace is in danger of stability, it is another accident to our country. We not all live in the world individually. "
+
+"There is no need to fight a country like Sri Lanka. Doing so will not do our duty. "
+
+"If we are harmful to our economic rights in the Red Sea, we have committed to protect them. We must prepare for the future. "
+
+◼️
+
+[Data](articles/d222294c.json)
+
+[Extended Data](ext_articles/d222294c.ext.json)
+
+---
 
 ### Shooter
 
@@ -1909,21 +1933,5 @@ A Division Bench of Justices R. Sureshkumar and K. Kumaresh Babu issued the dire
 [Data](articles/49b23e61.json)
 
 [Extended Data](ext_articles/49b23e61.ext.json)
-
----
-
-### 40 percent of the elders to comply with a general election in January
-
-*2024-02-29 19:02:33* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරියේ-මහ-මැතිවරණයක්-තිබුණානම්-වැඩිහිටියන්ගෙන්-සියයට-40ක්-මාලිමාවට/11-408363) · `si`
-
-If the Sri Lanka General Elections in Sri Lanka in January, 40 percent of the elders show that the health standards have been conducted with the national community.
-
-The agency said that 30 percent of adults are with reconciliation and a 2 percent increase in December.
-
-◼️
-
-[Data](articles/ca2cf0df.json)
-
-[Extended Data](ext_articles/ca2cf0df.ext.json)
 
 ---

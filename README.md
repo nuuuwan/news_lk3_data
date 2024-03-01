@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 16:48:11**
+As of **2024-03-01 17:02:46**
 
 ## Newspaper Stats
 
-*Scraped **10,261** Articles*
+*Scraped **10,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 economynextcom | 528
 dailyftlk | 542
 islandlk | 544
-adalk | 872
+adalk | 873
 adaderanalk | 1,245
 tamilmirrorlk | 1,251
 virakesarilk | 1,398
-dailymirrorlk | 1,556
-adaderanasinhalalk | 1,571
+dailymirrorlk | 1,557
+adaderanasinhalalk | 1,573
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,259 (100.0%) of 10,261 articles have been extended.
+10,261 (100.0%) of 10,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### ඉන්දියානු සාගරය ගැන ජනපතිගෙන් විශේෂ ප්‍රකාශයක්
+
+*2024-03-01 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194012) · `si`
+
+ඉන්දියන් සාගරය තුළ මෙරට ආර්ථික වැඩසටහන්වලට හානි වීමට ඉඩ නොදෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව ප්‍රකාශ කළේ, ශ්‍රී ලංකා නාවික හමුදාවේ විශේෂ යාත්‍රා බලඝණය සඳහා ජනාධිපති වර්ණ ප්‍රදානය වෙනුවෙන් ත්‍රිකුණාමලය නාවික හමුදා කඳවුරේ දී අද (01) පෙරවරුවේ පැවති වර්ණ ප්‍රදානෝත්සවය අමතමිනි.
+
+ශ්‍රී ලංකා සාගර කලාපය මෙන්ම ඉන්දියානු සාගර කලාපය ද ආරක්ෂා කිරීමේ වගකීම නාවික හමුදාවට පැවරෙන බව ජනාධිපතිවරයා සඳහන් කරයි.
+
+රතු මුහුදේ ආරක්ෂාව වෙනුවෙන් දායක වී මෙරට වරායන්හි ආර්ථික වටිනාකම් ආරක්ෂා කර ගැනීමට කටයුතු කළ යුතු බව ද ජනාධිපතිවරයා අවධාරණය කළේ ය.
+
+1967 ඊශ්‍රායල – අරාබි යුද්ධයේ දී සුවස් ඇළ වසා දැමීම හේතුවෙන් වසර 10ක් කොළඹ වරායේ මෙහෙයුම් නැවතුණු ආකාරය ද සිහිපත් කළ ජනාධිපතිවරයා, මෙරට වරායන්හි ආර්ථික වටිනාකම් ආරක්ෂා කර ගැනීම සඳහා සුවස් ඇළ සහ රතු මුහුදේ ආරක්ෂාව වෙනුවෙන් කටයුතු කිරීමේ අවශ්‍යතාව ද පෙන්වා දී තිබේ.
+
+◼️
+
+[Data](articles/6a296bbc.json)
+
+---
 
 ### Heat index advisory issued for parts of the country
 
@@ -50,6 +70,8 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 
 [Data](articles/fa8ce9eb.json)
 
+[Extended Data](ext_articles/fa8ce9eb.ext.json)
+
 ---
 
 ### Easter attacks: Petition filed seeking legal action against Nilantha Jayawardena
@@ -67,6 +89,44 @@ The petitioners alleged that the respondents have yet to take legal action again
 ...
 
 [Data](articles/144b81f1.json)
+
+[Extended Data](ext_articles/144b81f1.ext.json)
+
+---
+
+### If economic rights of SL harmed in Red Sea, will stand up by them: President
+
+*2024-03-01 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/If-economic-rights-of-SL-harmed-in-Red-Sea-will-stand-up-by-them-President/108-278042) · `en`
+
+Colombo, March 01 (Daily Mirror) - President Ranil Wickremesinghe stressed Sri Lanka's commitment to protecting its economic rights in the Red Sea, emphasizing that the nation would stand firm against any threats.
+
+He also stated that Sri Lanka will work to provide the necessary support to the United Nations organization whenever there are problems with peace in the region and the world.
+
+President Wickremesinghe made this statement while attending the Sri Lanka Air Force Cadet Officers Commissioning Ceremony held yesterday afternoon (29) at Air Force Base China Bay, Trincomalee.
+
+Highlighting Sri Lanka's historical commitment to safeguarding world peace and regional stability, the President emphasized his readiness to make decisive decisions for global peace. He underscored the responsibility and accountability of the armed forces in achieving this objective.
+
+◼️
+
+[Data](articles/cf28cc23.json)
+
+---
+
+### කොළඹ කොටස් වෙළෙඳපොළේ ලොකුම සමාගම දැඩි තීරණයක
+
+*2024-03-01 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194011) · `si`
+
+වෙළෙඳපොළ ප්‍රාග්ධනීකරණය අනුව කොළඹ කොටස් වෙළෙඳපොළේ ලැයිස්තුගත විශාලතම සමාගම වන එක්ස්පෝලංකා හෝල්ඩිංග්ස් පීඑල්සී, කොළඹ කොටස් වෙළෙඳපොළ නිල ලැයිස්තුවෙන් ඉවත් වීමට තීරණය කර තිබේ.
+
+එක්ස්පෝලංකා හෝල්ඩිංග්ස් පීඑල්සී හි විශාලතම කොටස් හිමියා වන ජපානයේ SG HOLDINGS GLOBAL PTE.LTD විසින් කළ ඉල්ලීමකට අනුව අද (01) දින රැස්වූ සමාගමේ අධ්‍යක්ෂ මණ්ඩලය විසින් මෙම තීරණයට එළඹ ඇත.
+
+එක්ස්පෝලංකා හෝල්ඩිංග්ස් පීඑල්සී හි කොටස් ප්‍රාග්ධනයෙන් 82.43% ක හිමිකාරීත්වය SG HOLDINGS GLOBAL PTE.LTD සතුව පවතී.
+
+වෙළෙපොළ ප්‍රාග්ධනීකරණයට අනුව අද වන විට කොළඹ කොටස් වෙළෙපොළේ ලැයිස්තුගත විශාලතම සමාගම් 12 පහත පරිදි වේ.
+
+◼️
+
+[Data](articles/ed1c7790.json)
 
 ---
 
@@ -759,6 +819,20 @@ The decision was taken during the Parliamentary Affairs Committee meeting held t
 [Data](articles/ad2b0abd.json)
 
 [Extended Data](ext_articles/ad2b0abd.ext.json)
+
+---
+
+### හරින් තටු කපා ගනියි
+
+*2024-03-01 12:04:24* · [`adalk`](https://www.ada.lk/sports/හරින්-තටු-කපා-ගනියි/9-408372) · `si`
+
+ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා යටතේ පැවති ක්‍රිඩා  ආයතන තුනක කටයුතු ක්‍රියාත්මක කිරීමේ බලතල ඒ මහතා විසින් ක්‍රීඩා හා යෞවන කටයුතු රාජ්‍ය අමාත්‍යවරයා වෙත පවරා තිබේ.
+
+ශ්‍රී ලංකා උත්තේජක මර්දන නියෝජිතායතනය ,ක්‍රීඩා වෛද්‍ය ආයතනය සහ ජාතික ක්‍රීඩා විද්‍යායතනය යන ආයතනයන්හි කටයුතු    ක්‍රියාත්මක කිරීමේ බලතල සහ  ක්‍රීඩාවල යෙදීමේදී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති පනත ක්‍රියාත්මක කිරීමේ බලයද හරීන් ප්‍රනාන්දු මහතා විසින් සිය රාජ්‍ය අමාත්‍යවරයා වෙත පෙබරවාරි 27 දාතමින් නිකුත් කළ  අති  විශේෂ  ගැසට් නිවේදනයක් මගින් පවරා දී ඇත.
+
+◼️
+
+[Data](articles/02c673f1.json)
 
 ---
 
@@ -1937,77 +2011,5 @@ Ambassador Dewi Gustina Tobing enlightened the session with her presence as the 
 [Data](articles/a53e0887.json)
 
 [Extended Data](ext_articles/a53e0887.ext.json)
-
----
-
-### SLPP MPs push for early General Election ahead of Presidential race
-
-*2024-03-01 06:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-MPs-push-for-early-General-Election-ahead-of-Presidential-race/108-278003) · `en`
-
-Colombo, March 1 (Daily Mirror) - In the midst of ongoing discussions surrounding potential electoral alliances among political parties, a notable contingent of MPs from both the government and opposition camps have reportedly expressed a strong inclination towards advocating for a General Election to precede the scheduled presidential ballot, Daily Mirror learns.
-
-The Presidential Election is scheduled to be conducted during the last quarter of this year in accordance with the Constitution. However, President Ranil Wickremesinghe can dissolve Parliament at any time for a snap General Election.
-
-The President has asserted several times that he will take measures to conduct the Presidential Election. The political parties such as the National People’s Power (NPP) have already started campaigning for the Presidential Election.
-
-...
-
-[Data](articles/224c53ff.json)
-
-[Extended Data](ext_articles/224c53ff.ext.json)
-
----
-
-### 43 killed in Bangladesh
-
-*2024-03-01 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193980) · `si`
-
-At least 43 people have died in a fire in Bangladesh apartment building, said the Minister of Health.
-
-According to foreign media, the fire has begun in a restaurant in the capital of Dhaka yesterday.
-
-It was rapidly spread across the building, and dozens of dozens are said to have taken place.
-
-◼️
-
-[Data](articles/a1fb3b76.json)
-
-[Extended Data](ext_articles/a1fb3b76.ext.json)
-
----
-
-### CMTA delegation invited by SIAM to meet Indian Government officials
-
-*2024-03-01 06:07:30* · [`dailyftlk`](https://www.ft.lk/business/CMTA-delegation-invited-by-SIAM-to-meet-Indian-Government-officials/34-759036) · `en`
-
-SIAM Policy Advocacy Executive Officer Pooja Nagpal, Deputy Secretary Jyoti Yadav, Ministry of Commerce and Industry Additional Secretary Anant Swarup, CMTA Chairman Charka Perera, CMTA Senior Vice Chairman Virann de Zoysa and SIAM Deputy Executive Director Atanu Ganguli
-
-The Ceylon Motor Traders Association (CMTA) recently received an invitation from the Society of Indian Automobile Manufacturers (SIAM), the apex national body representing vehicles and vehicular manufacture in India, to discuss ways to revive Sri Lanka’s automotive sector. CMTA Chairman Charka Perera and Senior Vice Chairman Virann de Zoysa met with key SIAM representatives, including Executive Director Atanu Ganguli and SIAM Policy Advocacy Executive Officer Pooja Nagpal.
-
-...
-
-[Data](articles/c90f8935.json)
-
-[Extended Data](ext_articles/c90f8935.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-03-01 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193979) · `si`
-
-The Department of Meteorology says that today's Eastern and Uva provinces can be expected today (01).
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces and in the Galle, Matara and Nuwara Eliya districts.
-
-Northern, North-Central, Uva and Eastern Provinces. Strong winds also have some stakes about 30 and 40.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/43cf9fdb.json)
-
-[Extended Data](ext_articles/43cf9fdb.ext.json)
 
 ---

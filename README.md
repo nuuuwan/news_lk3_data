@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 02:17:27**
+As of **2024-03-02 02:33:36**
 
 ## Newspaper Stats
 
-*Scraped **10,357** Articles*
+*Scraped **10,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 876
 adaderanalk | 1,255
 tamilmirrorlk | 1,257
 virakesarilk | 1,412
-dailymirrorlk | 1,568
+dailymirrorlk | 1,570
 adaderanasinhalalk | 1,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,357 (100.0%) of 10,357 articles have been extended.
+10,357 (100.0%) of 10,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Has Insensitivity Become The Norm?
+
+*2024-03-02 02:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Has-Insensitivity-Become-The-Norm/172-278086) · `en`
+
+Ceylon Electricity Board (CEB) Media spokesman, Noel Priyantha resigned from his position after criticisms over his insensitive remarks during an interview with a private TV channel, towards the hapless electricity consumers who are struggling to pay their electricity bills.
+
+When he was told at the interview that a father who had attempted to get electricity from a nearby house to support his child’s studies had died by electrocution, and was asked why the CEB could not be more considerate of the sufferings of the consumers, the Spokesman said that the children can use oil lamps for their studies without depending on electricity.
+
+...
+
+[Data](articles/ce0eee82.json)
+
+---
+
+### Water for Peace and Harmony
+
+*2024-03-02 02:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Water-for-Peace-and-Harmony/172-278085) · `en`
+
+Most of us take water for granted. However, clean drinking water is essential for human life, and in these days of high temperature reaching 94°F, many people experience dehydration, and we need to drink about six litres of water a day.
+
+Next month, the United Nations marks World Water Day, and the theme is ‘water for peace’. In a statement, the UN says, water can create peace or spark conflict. When water is scarce or polluted, or when people have unequal or no access, tensions can rise among communities and countries. More than 3 billion people worldwide depend on water that crosses national borders. Yet, only 24 countries have cooperation agreements for all their shared water.
+
+As impacts of climate change increase and populations grow, there is an urgent need, within and among countries, to unite around protecting and conserving our most precious resource.
+
+...
+
+[Data](articles/acc37ea1.json)
+
+---
 
 ### Indo-Lanka deal signed for hybrid renewable energy systems in Delft, Nainativu, and Analaitivu islands
 
@@ -2013,41 +2043,5 @@ Shantan's body, which was brought to the Katunayake airport by plane from Chenna
 [Data](articles/9fdaa63e.json)
 
 [Extended Data](ext_articles/9fdaa63e.ext.json)
-
----
-
-### To Saman Ratnayake CIT
-
-*2024-03-01 14:34:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமன்-ரத்நாயக்க-சிஐடிக்கு/175-334049) · `ta`
-
-Additional Secretary to the Ministry of Health, Dr. Saman Ratnayake has arrived in the Criminal Investigation Division today (01).
-
-He has come there to make a confession on the importation of the concept.
-
-◼️
-
-[Data](articles/eebd64b5.json)
-
-[Extended Data](ext_articles/eebd64b5.ext.json)
-
----
-
-### 2023 Grade 5 re-evaluation results released; students can apply with revised scores
-
-*2024-03-01 14:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2023-Grade-5-re-evaluation-results-released-students-can-apply-with-revised-scores/108-278038) · `en`
-
-Colombo, March 1 (Daily Mirror) - The re-evaluation results of the 2023 Grade 5 scholarship examination have been released by the Examinations Department and candidates have been given the opportunity to apply based on the revised scores, the Education Ministrty said.
-
-Schools are given the opportunity to apply based on those revised scores.
-
-They said the relevant applications have already been sent to the principals of the respective schools. The applications are to be obtained from the principal of the school where the students studied in Grade 05.
-
-Duly completed applications must be handed over to the principal before March 07.
-
-◼️
-
-[Data](articles/4f72c976.json)
-
-[Extended Data](ext_articles/4f72c976.ext.json)
 
 ---

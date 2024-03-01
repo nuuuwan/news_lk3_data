@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 11:17:19**
+As of **2024-03-01 11:33:12**
 
 ## Newspaper Stats
 
-*Scraped **10,199** Articles*
+*Scraped **10,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,65 +20,89 @@ adaderanalk | 1,228
 tamilmirrorlk | 1,243
 virakesarilk | 1,394
 dailymirrorlk | 1,546
-adaderanasinhalalk | 1,556
+adaderanasinhalalk | 1,557
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,190 (99.9%) of 10,199 articles have been extended.
+10,199 (100.0%) of 10,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### විමල් ට පාචනය
+### නිවසකට වෙඩිතබයි
+
+*2024-03-01 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193996) · `si`
+
+අද (01) අලුයම් කාලයේදී නිවසකට වෙඩි ප්‍රහාරයක් එල්ලකර සැකකරුවන් පළාගොස් තිබේ.
+
+වෙඩි ප්‍රහාරයට ලක්වූ නිවසේ පිළියන්දල ප්‍රදේශයේ පිරිසක් තාවකාලිකව නවාතැන් ගෙන සිට ඇත.
+
+එම නිවස ආසන්නයේ වෙනත් ඉඩමක නිවසක් ඉදිකිරීම සඳහා මුල්ගල් තැබීමේ කටයුත්තක් වෙනුවෙන් සහභාගී වීම සඳහා එම පිරිස අදාළ නිවසේ නතරවී සිට ඇති බවත් එම නිවස මිලදී ගැනීමේ සූදානමින් ඔවුන් පසුවී ඇති බවත් පොලීසියට වාර්තාවී තිබේ.
+
+අදාළ නිවසේ සිටි පිරිස නිදා සිටියදී එක්වරම වෙඩි ප්‍රහාරය එල්ලවී ඇති බවත් කලබල වූ පිරිස නිවසේ කුස්සිය වෙත දුව ගොස් සැඟවී ඇති බවත් පසුව පොලිස් හදිසි ඇමතුම් අංකයට දැනුම්දී ඇති බවත් පැවසෙයි.
+
+◼️
+
+[Data](articles/22e0da3d.json)
+
+---
+
+### Wimal's diarrhea
 
 *2024-03-01 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193995) · `si`
 
-හිටපු අමාත්‍ය විමල් විරවංශ මහතා මේ දිනවල උණ, වමනය හා පාචනය රෝගී තත්ත්වයන්ගෙන් පෙළෙන බව ඔහුගේ නීතිඥවරුන් අද (01) කොළඹ මහාධිකරණයට දැනුම්දී තිබේ.
+Former Minister Wimali Virawansa has informed the Colombo High Court today that the fever is suffering from the fever, vomiting and diarrhea these days.
 
-ඒ, රුපියල් මිලියන 75කට අධික වත්කම් සහ මුදල් උපයාගත් ආකාරය හෙළිදරව් කිරීමට අපහාසත් වී ඇති බවට චෝදනා එල්ලවී ඇති නඩුවක් සම්බන්ධයෙනි.
+It is with regard to a case that has been abused that over 75 million assets and money earned.
 
-මෙම නඩුව අද කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා ඉදිරියේ කැඳවීය.
+The case was called before Colombo High Court Judge Navasinghe Marasinghe.
 
-එම අවස්ථාවේදී විත්තිකාර විමල් වීරවංශ මහතා අධිකරණයේ පෙනී සිටියේ නැත.
+The defendant Wimal Weerawansa did not appear in court.
 
 ◼️
 
 [Data](articles/3a110406.json)
 
+[Extended Data](ext_articles/3a110406.ext.json)
+
 ---
 
-### ඉන්දීය ආර්ථිකය වේගයෙන් ඉහළ ට
+### Indian economy rapidly
 
 *2024-03-01 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193994) · `si`
 
-ලොව ප්‍රධානතම ආර්ථික අතුරින් වේගයෙන්ම වර්ධනය වන ආර්ථිකය තමන් බව ඉන්දියාව නැවතත් සනාථ කර තිබේ.
+India has repeatedly confirmed that he is the fastest growing economy in the world.
 
-2023 වසරේ අවසාන කාර්තුවේදී එරට ආර්ථිකය 8.4%කින් වර්ධනය වී ඇති බව නවතම දත්ත අනූව පෙනීයයි.
+In the last quarter of 2023, the economy grew 8.4% in the latest data.
 
-2024 වසරේ ඉන්දීය මහ මැතිවරණය පැවැත්වෙන බැවින් මෙම ආර්ථික වර්ධනය පිළිබඳ තොරතුරු මෝදී ගේ රජයට වාසිදායක තත්ත්වයක් නිර්මාණය කරන බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+The International Media stated that information about the government of Mogic government is a beneficial situation as the Indian general election is held in 2024.
 
-ජපානය සහ ජර්මනිය අභිබවා යමින් ලොව තෙවැනි විශාලතම ආර්ථිකය බවට ඉන්දියාව නුදුරේදීම පත්වෙතැයි අපේක්ෂා කෙරේ.
+India is expected to be the third largest economy in the world, overriding Japan and Germany.
 
-එරට නිෂ්පාදන ක්ෂේත්‍රයේ සුවිශේෂී වර්ධනය ඉන්දීය ආර්ථිකයට මහත් ශක්තියක් වී ඇති බව සඳහන් ය.
+The unique growth in the industry has been strengthened to the Indian economy.
 
 ◼️
 
 [Data](articles/5fae2882.json)
 
+[Extended Data](ext_articles/5fae2882.ext.json)
+
 ---
 
-### ලිට්‍රෝ ගෑස් මිල වෙනස් නොවෙයි
+### Litro gas prices do not change
 
 *2024-03-01 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193993) · `si`
 
-මාර්තු මාසය සඳහා ලිට්‍රෝ ගෑස් මිල වෙනස් නොවන බව එම සමාගම පවසයි.
+Litro gas prices will not be changed for March.
 
 ◼️
 
 [Data](articles/d7d402db.json)
+
+[Extended Data](ext_articles/d7d402db.ext.json)
 
 ---
 
@@ -96,25 +120,29 @@ As per the decision, the current Litro LP gas rates are as follows: The retail p
 
 [Data](articles/e24a11a4.json)
 
+[Extended Data](ext_articles/e24a11a4.ext.json)
+
 ---
 
-### விளக்கை அணைத்த விவகாரம் அதிபர் கைது
+### Chancellor arrested for turning off the lamp
 
 *2024-03-01 10:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விளக்கை-அணைத்த-விவகாரம்-அதிபர்-கைது/76-334041) · `ta`
 
-பாடசாலை சிற்றுண்டியின் உரிமையாளரான பெண்ணொருவரை பாலியல் வன்புணர்வு உட்படுத்தினார் என்றக் குற்றச்சாட்டில், அப்பாடசாலையின் அதிபர் கைது செய்யப்பட்டுள்ளார்.
+The president of the school has been arrested for allegedly raping a woman who is the owner of the school snack.
 
-மொனராகலை கலபெத்த மகா வித்தியாலய அதிபர், பாடசாலையின் சிற்றுண்டிச்சாலையின் உரிமையாளரை பாலியல் வன்கொடுமை செய்ததாக அவர் தொம்பகஹவெல பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+He has lodged a complaint with the Tombagahawela police that the Principal of the Moneragala Kalabetha Maha Vidyalaya had sexually abused the owner of the school's snack.
 
-கலபெத்த அலபொத்த பகுதியைச் சேர்ந்த 33 வயதுடைய இந்த பெண், கடந்த (28) உணவகத்தை மூடிவிட்டு வீட்டுக்குச் சென்றுள்ளார்.
+The 33 -year -old woman from Kalabetha Alabhota area has closed the restaurant (28) and went home.
 
-பின்னர் பாடசாயின் ஆசிரியை ஒருவர் வந்து, சிற்றுண்டிச்சாலையில் விளக்குகள் அணைக்கப்படவில்லை என்று கூறினார்.
+The teacher then came to the teacher and said that the lights were not turned off on the toast.
 
-விளக்குகளை அணைத்துவிட்டு வீட்டுக்குச் செல்ல இருந்தபோது, ​​தலைமை ஆசிரியர் அவளை அலுவலகத்திற்கு வரச் சொல்லி பாலியல் பலாத்காரம் செய்துள்ளார்.அதிபருக்கு 53 வயது.
+When he was going home after turning off the lights, the headmaster raped her to come to the office. The President was 53 years old.
 
 ◼️
 
 [Data](articles/e7697011.json)
+
+[Extended Data](ext_articles/e7697011.ext.json)
 
 ---
 
@@ -142,21 +170,23 @@ The President was speaking at the occasional guest of the scattering cadet offic
 
 ---
 
-### சிறுமி மீது தாக்குதல் :பெற்றோர் கைது
+### Attack on girl: Parents arrested
 
 *2024-03-01 10:20:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-மீது-தாக்குதல்-பெற்றோர்-கைது/175-334040) · `ta`
 
-3 வயதுடைய  சிறுமியை கொடூரமாக தாக்கிய பின்னர் சிறுவர் துஷ்பிரயோகம் செய்ததாக சந்தேகத்தின் பேரில் அச்சிறுமியின் பெற்றோர் இருவர் இன்று (1) கைது செய்யப்பட்டதாக ரிதிமாலியத்த பொலிஸார் தெரிவித்தனர்.
+Rithimaliatta police said that two parents of the princess were arrested today (1) on suspicion of abuse of child after brutally assaulting a 3 -year -old girl.
 
-ரிதிமாலியத்த ஊரணிய கஹட்டவாடிய 13, மைல்கல் பிரதேசத்தில் வசிக்கும் 31 வயதுடைய தாய் மற்றும் 27 வயதுடைய தந்தை ஆகியோரே இவ்வாறு கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+The police said that the arrested was Kahatavadiya 13, a 31 -year -old mother and a 27 -year -old father in the milestone area.
 
-பெற்றோரின் தாக்குதலில்  படுகாயமடைந்த 3 வயது சிறுமி மருத்துவ பரிசோதனைக்காக மஹியங்கனை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 3 -year -old girl, who was injured in the attack, has been admitted to Mahiyangan hospital for medical examination, police said.
 
-ரிதிமாலியெத்த காவற்துறை அதிகாரிகள் குழுவொன்று குறித்த வீட்டை சுற்றிவளைத்து சந்தேகத்தின் பேரில் தம்பதிகளை கைது செய்துள்ளனர்.
+A group of police officers Rithimaliyetta have arrested the couple on suspicion of surrounding the house.
 
 ◼️
 
 [Data](articles/276b9143.json)
+
+[Extended Data](ext_articles/276b9143.ext.json)
 
 ---
 
@@ -193,6 +223,8 @@ He said the pilot project will assist the Plantation Industries Ministry, Power 
 ◼️
 
 [Data](articles/d64f873f.json)
+
+[Extended Data](ext_articles/d64f873f.ext.json)
 
 ---
 
@@ -519,6 +551,8 @@ The emergency services were called to the Kacchi Bhai restaurant which, accordin
 ...
 
 [Data](articles/0f1d5ed7.json)
+
+[Extended Data](ext_articles/0f1d5ed7.ext.json)
 
 ---
 
@@ -1885,27 +1919,5 @@ The Criminal Investigation Department (CID) arrested Rambukwella on 02 February 
 [Data](articles/d8a4e82f.json)
 
 [Extended Data](ext_articles/d8a4e82f.ext.json)
-
----
-
-### Warrant issued to Dr. Jayawana Bututage
-
-*2024-02-29 20:06:55* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-ජයනාත්-බුත්පිටියට-වරෙන්තු/11-408369) · `si`
-
-Maligaika Abeywickrema Weerasinghe has issued the warrant at English, Dr. Jayaka Buthpitiya, who is abroad to be taken abroad.
-
-The Magistrate also adopted a request made by Vetpi Girihaga, who is looking for the incident in relation to the incident.
-
-The suspects have been appointed to the Magistrate's investigation into the courts on the 14th of this month.
-
-Sugath Janaka Fernando, who is said to be remanded in relation to the complaint, said: "Assistant Director of Medical Supply (Suppliers) Collateral (Supplies)Dr. Herath Mudiyasalage Dharmasalage Dharmasalage Dharmasalage Dharmasalage Dharmasalage, Dr. Herath Mudiyanselage Dharmasalage, who has been released on the Secretary to the Ministry of Health.
-
-The Director of the Medical Supplies Unit, the Director of the Medical Supplies Unit, and former Health Minister Keheliya Rambukwella produced ambulance at the ambitory of the hospital at the Colombo National Hospital.
-
-...
-
-[Data](articles/e7304da2.json)
-
-[Extended Data](ext_articles/e7304da2.ext.json)
 
 ---

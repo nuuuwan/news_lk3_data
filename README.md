@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 20:02:34**
+As of **2024-03-01 20:17:19**
 
 ## Newspaper Stats
 
-*Scraped **10,303** Articles*
+*Scraped **10,304** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 1,250
 tamilmirrorlk | 1,254
 virakesarilk | 1,400
 dailymirrorlk | 1,562
-adaderanasinhalalk | 1,580
+adaderanasinhalalk | 1,581
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,303 (100.0%) of 10,303 articles have been extended.
+10,303 (100.0%) of 10,304 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### විදුලි ගාස්තු අඩුකිරීමේ තීරණය දෙවැනි දිනටත් කල්යයි
+
+*2024-03-01 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194020) · `si`
+
+ලංකා විදුලිබල මණ්ඩලය විසින් යෝජිත විදුලි ගාස්තු අඩුකිරීමට අදාළව මහජන උපයෝගිතා කොමිසම සමඟ පැවති සාකච්ඡා අද (01) දෙවැනි දිනටත් විසඳුමකින් තොරව අවසන්වී තිබේ.
+
+මණ්ඩලය ඊට අදාළ දත්ත ප්‍රමාණවත් පරිදි ලබා නොදීම හේතුවෙන් මේ තත්ත්වය නිර්මාණය වූ බව මහජන උපයෝගිතා කොමිසම පවසයි.
+
+මෙලෙස කල්යමින් තිබෙන්නේ මේ වසරේ ජනවාරි මාසයේ සිට ක්‍රියාත්මක කිරීමට නියමිතව තිබූ විදුලි ගාස්තු සංශෝධනයයි.
+
+මාස තුනකට වරක් විදුලි ගාස්තු සංශෝධනය කිරීමේ රජයේ නව ප්‍රතිපත්තිය අනුව 2023 වසරේ අවස්ථා 3කදී විදුලි ගාස්තු සංශෝධනය කෙරුණි.
+
+ඒ අනුව පෙබරවාරි 15 ගාස්තු වැඩිකිරීමකට, ජුලි 01 ගාස්තු අඩුකිරීමකට සහ ඔක්තෝබර් 20 නැවතත් ගාස්තු වැඩිකිරීමකට මහජන උපයෝගීතා කොමිසම ලංකා විදුලිබල මණ්ඩලයට අවසර ලබා දුන්නේය.
+
+අවසන් සංශෝධනය කළ ඔක්තෝබර් මාසයේ ගෘහස්ථ කාණ්ඩය සඳහා විදුලි ගාස්තුව ඉහළ නැංවුණේ සියයට 18 ක ප්‍රතිශතයකිනි.
+
+කෙසේ වෙතත් යහපත් ජල විදුලි ධාරිතාව සහ ලාභදායි තත්ත්වය සැලකිල්ලට ගනිමින් විදුලි ගාස්තු අඩුකිරීමට මණ්ඩලය මෙවර යෝජනාවක් ඉදිරිපත් කළත්, ඔවුන්ගේ දත්තවල සඳහන් වියදම් තවදුරටත් කප්පාදු කර නැවත වාර්තාවක් ලබාදෙන ලෙස උපයෝගිතා කොමිසම දැනුම්දී තිබිණි.
+
+...
+
+[Data](articles/aa226575.json)
+
+---
 
 ### Hakkapatun has seriously injured
 
@@ -2023,27 +2047,5 @@ The defendant Wimal Weerawansa did not appear in court.
 [Data](articles/3a110406.json)
 
 [Extended Data](ext_articles/3a110406.ext.json)
-
----
-
-### Indian economy rapidly
-
-*2024-03-01 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193994) · `si`
-
-India has repeatedly confirmed that he is the fastest growing economy in the world.
-
-In the last quarter of 2023, the economy grew 8.4% in the latest data.
-
-The International Media stated that information about the government of Mogic government is a beneficial situation as the Indian general election is held in 2024.
-
-India is expected to be the third largest economy in the world, overriding Japan and Germany.
-
-The unique growth in the industry has been strengthened to the Indian economy.
-
-◼️
-
-[Data](articles/5fae2882.json)
-
-[Extended Data](ext_articles/5fae2882.ext.json)
 
 ---

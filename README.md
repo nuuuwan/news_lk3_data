@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 22:52:35**
+As of **2024-03-01 23:06:55**
 
 ## Newspaper Stats
 
-*Scraped **10,331** Articles*
+*Scraped **10,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 544
 adalk | 876
 adaderanalk | 1,255
 tamilmirrorlk | 1,257
-virakesarilk | 1,405
+virakesarilk | 1,406
 dailymirrorlk | 1,567
 adaderanasinhalalk | 1,588
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,329 (100.0%) of 10,331 articles have been extended.
+10,331 (100.0%) of 10,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### குசல் பெரேராவுக்குப் பதில் நிரோஷன் திக்வெல்ல
+
+*2024-03-01 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177713) · `ta`
+
+பங்களாதேஷுக்கு எதிராக திங்கட்கிழமை (04) ஆரம்பமாகவுள்ள சர்வதேச ரி20 கிரிக்கெட் தொடருக்கான இலங்கை குழாத்தில் இணைத்துக்கொள்ளப்பட்டிருந்த குசல் ஜனித் பேரேரா அத் தொடரில் பங்குபற்ற மாட்டார் என ஸ்ரீலங்கா கிரிக்கெட் வெள்ளிக்கிழமை (01) மாலை அறிவித்தது.
+
+பிரதான கழகங்களுக்கு இடையிலான மட்டுப்படுத்தப்பட்ட ஓவர் கிரிக்கெட் போட்டிகளில் நிரோஷன் திக்வெல்ல துடுப்பாட்டத்திலும் விக்கெட்காப்பிலும் திறமையை வெளிப்படுத்தியதை அடுத்து அவருக்கு இலங்கை குழாத்தில் வாய்ப்பு வழங்கப்பட்டுள்ளது.
+
+சுமார் 3 வருடங்களுக்குப் பின்னர் அவர் சர்வதேச ரி20 கிரிக்கெட் குழாத்தில் இணைத்துக்கொள்ளப்பட்டுள்ளார்.  இங்கிலாந்துக்கு எதிராக சவுத்ஹாம்ப்டனில் 2021 ஜூன் மாதம் நடைபெற்ற சர்வதேச ரி20 கிரிக்கெட் தொடரிலேயே கடைசியாக  அவர்  விளையாடி இருந்தார்.
+
+◼️
+
+[Data](articles/21be2ccf.json)
+
+---
 
 ### Tourism earnings in Jan.2024 at $342mn, highest monthly value since 2020
 
@@ -51,6 +67,8 @@ Workers’ remittances amounted to USD 488 million in January 2024, in compariso
 ...
 
 [Data](articles/11a9c85b.json)
+
+[Extended Data](ext_articles/11a9c85b.ext.json)
 
 ---
 
@@ -78,21 +96,23 @@ The ship is due to leave the island on March 3, 2024, concluding the official vi
 
 ---
 
-### මනාල යුවළත් අතරමං කළ ඩිෆෙන්ඩර් අනතුර
+### Defender accident that stranded the bridegroom
 
 *2024-03-01 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194026) · `si`
 
-අද (01) පස්වරුවේ කඩුවෙල - මාළඹේ ප්‍රධාන මාර්ගයේ සිදු වූ රිය අනතුරකින් පුද්ගලයන් කිහිපදෙනෙකු තුවාල ලබා තිබේ.
+Some people were injured in a car accident carried out on Kaduwela, Kaduwela this afternoon.
 
-කඩුවෙල - මාළඹේ ප්‍රධාන මාර්ගයේ කඩුවෙල මහ නගර සභාව ඉදිරිපස දී මෙම අනතුර සිදු ව ඇති අතර, මනාල යුවළක් රැගත් ඩිෆෙන්ඩර් රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි වෑන් රථයක සහ යතුරු පැදියක ගැටීමෙන් අනතුර සිදු ව ඇත.
+Kaduwela The accident occurred at the front of Kaduwela Municipal Council road in the Kaduwela Municipal Council road.
 
-තුවාලකරුවන් රෝහල්ගත කර ඇති අතර, අනතුර සිදුකළ ඩිෆෙන්ඩර් රථයයේ රියදුරා, මනාල යුවළ ද අතරමඟ දමා පළා ගොස් ඇති බව පොලීසිය පවසයි.
+The injured have been hospitalized and the driver of the Diappy carrier and the bridegroom had gone down the bridegroom.
 
-කෙසේ වෙතත් ලද තොරතුරක් මත පොලීසිය විසින් ඩිෆෙන්ඩර් රථය පොලිස් භාරයට ගැනීමට කටයුතු කර ඇති බව වාර්තා වේ.
+However, the police have taken steps to be taken into custody by the police on information received.
 
 ◼️
 
 [Data](articles/5f334a7a.json)
+
+[Extended Data](ext_articles/5f334a7a.ext.json)
 
 ---
 
@@ -2067,31 +2087,5 @@ Police also mentioned that they were planning to buy the house in question as we
 [Data](articles/d6166164.json)
 
 [Extended Data](ext_articles/d6166164.ext.json)
-
----
-
-### 'How I Write': Chandi Kodikara
-
-*2024-03-01 12:19:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn4lye1rqrpo) · `si`
-
-Chandi Kodarakara is a novelist in Sinhala readers. The largest number of novels that start at the novels of the snow who begins with a snow-hired novel, is the largest number of novels to literature.
-
-When she talked to her as a novel, she to understand her feelings and writing when she was in a note.
-
-The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
-
-It is well known for all writer's writing process.
-
-Where writing, how to write, how to write, and the joy of writing, the writer's abstinence. The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-Easybalance: As usual, I ask you to start with the beginning of a novel. Can you say something about how your novels write the first sentence?
-
-...
-
-[Data](articles/0c0b2fe1.json)
-
-[Extended Data](ext_articles/0c0b2fe1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 09:03:31**
+As of **2024-03-01 09:17:24**
 
 ## Newspaper Stats
 
-*Scraped **10,172** Articles*
+*Scraped **10,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 526
 dailyftlk | 542
 islandlk | 543
 adalk | 865
-adaderanalk | 1,225
+adaderanalk | 1,226
 tamilmirrorlk | 1,236
 virakesarilk | 1,394
 dailymirrorlk | 1,541
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,547
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,164 (99.9%) of 10,172 articles have been extended.
+10,172 (100.0%) of 10,173 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,24 @@ The emergency services were called to the Kacchi Bhai restaurant which, accordin
 [Data](articles/527bf01a.json)
 
 [Extended Data](ext_articles/527bf01a.ext.json)
+
+---
+
+### No fuel price revision in March?
+
+*2024-03-01 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97643/no-fuel-price-revision-in-march) · `en`
+
+The government has decided not to revise the fuel prices for the month of March.
+
+Fuel prices amended as per the monthly pricing formula were supposed to be announced last night (Feb.29).
+
+However, the Ceylon Petroleum Corporation (Ceypetco) has decided to keep the prices at current rates this month.
+
+Meanwhile, Lanka IOC and Sinopec too have not made any announcements regarding fuel price revision for the month of March.
+
+◼️
+
+[Data](articles/b059ff30.json)
 
 ---
 
@@ -216,6 +234,8 @@ Hayleys Group Chairman and Chief Executive Mohan Pandithage said: “Our endurin
 
 [Data](articles/f41509d3.json)
 
+[Extended Data](ext_articles/f41509d3.ext.json)
+
 ---
 
 ### CEMS-Global apparel and textile show opens in Colombo
@@ -227,6 +247,8 @@ The Sri Lankan edition of CEMS-Global USA’s Textile Series of Exhibitions – 
 ◼️
 
 [Data](articles/17e0e0d6.json)
+
+[Extended Data](ext_articles/17e0e0d6.ext.json)
 
 ---
 
@@ -241,6 +263,8 @@ Ambassador Dewi Gustina Tobing enlightened the session with her presence as the 
 ...
 
 [Data](articles/a53e0887.json)
+
+[Extended Data](ext_articles/a53e0887.ext.json)
 
 ---
 
@@ -292,6 +316,8 @@ The Ceylon Motor Traders Association (CMTA) recently received an invitation from
 
 [Data](articles/c90f8935.json)
 
+[Extended Data](ext_articles/c90f8935.ext.json)
+
 ---
 
 ### Showers in several areas
@@ -325,6 +351,8 @@ Speaking at the Pathfinder Indian Ocean Security Conference Phase III at Cinnamo
 ...
 
 [Data](articles/9904d4a5.json)
+
+[Extended Data](ext_articles/9904d4a5.ext.json)
 
 ---
 
@@ -368,6 +396,8 @@ The UPFPA Regional Director assured continuous support to upgrade data systems t
 
 [Data](articles/136c414a.json)
 
+[Extended Data](ext_articles/136c414a.ext.json)
+
 ---
 
 ### German Parliamentary delegation to visit Sri Lanka this week
@@ -381,6 +411,8 @@ A four-member delegation of the German Parliament led by former Federal Minister
 ...
 
 [Data](articles/0f0b22e5.json)
+
+[Extended Data](ext_articles/0f0b22e5.ext.json)
 
 ---
 
@@ -470,19 +502,21 @@ Ms. Kandambi, a former president of the APB, has long been recognized for her ex
 
 ---
 
-### ரயில் மோதி பெண் உயிரிழப்பு
+### Train crashes
 
 *2024-03-01 04:29:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதி-பெண்-உயிரிழப்பு/175-334033) · `ta`
 
-வவுனியா, புளியங்குளம், புதூர் பகுதியில் ரயில் கடவையைக் கடக்க முற்பட்ட பெண் மீது ரயில் மோதியதில் அவர் உயிரிழந்துள்ளார்.
+She was killed when a train crashed into a woman who tried to cross the railway crossing in Puliyankulam and Budur in Vavuniya.
 
-நேற்று மாலை கொழும்பில் இருந்து காங்கேசன்துறை நோக்கிச் சென்ற ரயில், புதூர் பகுதியில் உள்ள கடவையைக் கடக்க முற்பட்ட முற்பட்ட பெண் மீது மோதியதில் அவர் சம்பவ இடத்திலேயே மரணமடைந்துள்ளார்.
+She died on the spot when a train from Colombo to Kankesanthurai crashed into a woman who tried to cross the crossing of Budur.
 
-இந்த சம்பவத்தில் 45  தொடக்கம் 55 வயதுடைய பெண் ஒருவரே இவ்வாறு உயிரிழந்துள்ளார். (a)
+A woman aged 45 to 55 died in the incident. (A)
 
 ◼️
 
 [Data](articles/c07dd791.json)
+
+[Extended Data](ext_articles/c07dd791.ext.json)
 
 ---
 
@@ -1877,29 +1911,5 @@ The President made this statement during a discussion held at the Wilgamuwa Divi
 [Data](articles/c70ded23.json)
 
 [Extended Data](ext_articles/c70ded23.ext.json)
-
----
-
-### Sri Lanka rupee closes at 309.50/70 to the US dollar
-
-*2024-02-29 17:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-309-50-70-to-the-us-dollar-152544/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 309.50/70 to the US dollar Thursday, from 310.00/15 on Wednesday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.50/70 percent down from 10.60/80 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.10 percent from 11.90/12.00 percent.
-
-A bond maturing on 15.07.2029 closed at 12.30/45 percent up from 12.20/50 percent.
-
-A bond maturing on 15.05.2030 closed at 12.35/50 percent up from 12.25/40 percent.
-
-A bond maturing on 01.07.2032 closed at 12.55/13.00 percent up from 12.50/90 percent. (Colombo/Feb29/2024)
-
-◼️
-
-[Data](articles/2e0cd714.json)
-
-[Extended Data](ext_articles/2e0cd714.ext.json)
 
 ---

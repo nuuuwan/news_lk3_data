@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 07:18:24**
+As of **2024-03-01 07:41:25**
 
 ## Newspaper Stats
 
-*Scraped **10,147** Articles*
+*Scraped **10,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 526
 dailyftlk | 535
 islandlk | 542
 adalk | 864
-adaderanalk | 1,224
-tamilmirrorlk | 1,231
+adaderanalk | 1,225
+tamilmirrorlk | 1,233
 virakesarilk | 1,393
 dailymirrorlk | 1,536
 adaderanasinhalalk | 1,543
@@ -26,61 +26,91 @@ adaderanasinhalalk | 1,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,144 (100.0%) of 10,147 articles have been extended.
+10,147 (100.0%) of 10,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### මාර්තු ඉන්ධන මිල මෙන්න
+### At least 43 dead in Bangladesh building blaze
+
+*2024-03-01 07:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97642/at-least-43-dead-in-bangladesh-building-blaze) · `en`
+
+At least 43 people have been killed after a fire broke out in a multi-storey building in Bangladesh, the country’s health minister says.
+
+According to local media, the blaze began in a restaurant at around 22:00 local time (16:00 GMT) on Thursday in the capital, Dhaka.
+
+It spread quickly through the building, trapping dozens of people.
+
+The fire was later bought under control, according to fire officials, and the cause is being investigated.
+
+Bangladesh’s Health Minister, Samanta Lal Sen, said that at least 33 people, including women and children, were declared dead at the Dhaka Medical College Hospital.
+
+At least 10 others died at the city’s main burns hospital. Dozens more people have been sent there for treatment, Mr Sen said.
+
+The emergency services were called to the Kacchi Bhai restaurant, which according to the Daily Bangladesh newspaper, is in a building that has seven floors.
+
+...
+
+[Data](articles/4301bdc6.json)
+
+---
+
+### Here is the price of fuel
 
 *2024-03-01 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193982) · `si`
 
-මාර්තු මාසය තුළ පවතින ඉන්ධන මිල ගණන් සංශෝධනයකින් තොරව පවත්වාගෙන යාමට රජය තීරණය කර තිබේ.
+The government has decided to maintain the fuel prices in March without amendment.
 
-මාසික ඉන්ධන මිල සංශෝධනයට අනුව ඊයේ (29) මධ්‍යම රාත්‍රීයේ සිට අදාළ මිල ගණන් සංශෝධනය විය යුතුව පැවතුණි.
+According to monthly fuel revision, the relevant prices should have been amended from midnight yesterday (29).
 
-ඒ අනුව මෙම මාසය තුළ මිල ගණන් සංශෝධනයකින් තොරව, පවතින මිල ගණන් යටතේම ඉන්ධන අලෙවිය සිදුකිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව තීරණය කර ඇත.
+Accordingly, the Ceylon Petroleum Corporation has decided to sell fuel to fuel at present this month.
 
-මාසික මිල සංශෝධනයක් සිදුකිරිම සම්බන්ධයෙන් ලංකා IOC සමාගම සහ සයිනොපෙක් සමාගම ද මෙතෙක් නිසි දැනුම්දීමක් සිදුකර නොමැත.
+Lanka IOC and Siainopek Company has not been properly notified.
 
 ◼️
 
 [Data](articles/5fb99e8f.json)
 
+[Extended Data](ext_articles/5fb99e8f.ext.json)
+
 ---
 
-### බංග්ලාදේශයේ ගින්නකින් 43 දෙනෙක් ජීවිතක්ෂයට
+### 43 killed in Bangladesh
 
 *2024-03-01 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193980) · `si`
 
-බංග්ලාදේශයේ මහල් ගොඩනැගිල්ලක ඇතිවූ ගින්නකින් අවම වශයෙන් පුද්ගලයින් 43 දෙනෙකු ජීවිතක්ෂයට පත්වී ඇති බව එරට සෞඛ්‍ය අමාත්‍යවරයා පවසයි.
+At least 43 people have died in a fire in Bangladesh apartment building, said the Minister of Health.
 
-විදෙස් මාධ්‍ය පවසන පරිදි ඊයේ ඩකා අගනුවර අවන්හලක ගින්න ආරම්භ වී තිබේ.
+According to foreign media, the fire has begun in a restaurant in the capital of Dhaka yesterday.
 
-එය ගොඩනැගිල්ල හරහා වේගයෙන් පැතිර ගිය අතර, දුසිම් ගණනක් මිනිසුන් ඊට මැදිවූ බව පැවසෙයි.
+It was rapidly spread across the building, and dozens of dozens are said to have taken place.
 
 ◼️
 
 [Data](articles/a1fb3b76.json)
 
+[Extended Data](ext_articles/a1fb3b76.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-03-01 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193979) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් අද (01) දිනයේ වැසි ස්වල්පයක් අපේක්ෂා කළ හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology says that today's Eastern and Uva provinces can be expected today (01).
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces and in the Galle, Matara and Nuwara Eliya districts.
 
-උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින්විට හමන පැ.කි.මී. 30ත් 40ත් පමණ තරමක තද සුළං ද ඇති වෙයි.
+Northern, North-Central, Uva and Eastern Provinces. Strong winds also have some stakes about 30 and 40.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/43cf9fdb.json)
+
+[Extended Data](ext_articles/43cf9fdb.ext.json)
 
 ---
 
@@ -193,6 +223,40 @@ Ms. Kandambi, a former president of the APB, has long been recognized for her ex
 [Data](articles/463ca15d.json)
 
 [Extended Data](ext_articles/463ca15d.ext.json)
+
+---
+
+### மாணவர்களை நேரில் சந்தித்தார் ஜனாதிபதி
+
+*2024-03-01 04:09:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-நேரில்-சந்தித்தார்-ஜனாதிபதி/175-334031) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க வில்கமுவ பல்லேகம மத்திய மகா வித்தியாலயத்தின் கல்விச் செயற்பாடுகளை நேற்று நேரடியாக மேற்பார்வைச் செய்தார்.
+
+'அஸ்வெசும' வேலைத் திட்டம் தொடர்பாக வில்கமுவ பிரதேச செயலகத்தின் கேட்போர் கூட்டத்தில் நடைபெற்ற சந்திப்பின் பின்னர், பல்லேகம மத்திய மகா வித்தியாலயத்தின் மைதானத்திலிருந்த மாணவர்களுடன் சிநேகபூர்வமாக கலந்துரையாடி, அவர்களின் கல்விச் செயற்பாடுகள் குறித்தும் கேட்டறிந்துகொண்டார்.
+
+அங்கிருந்த ஆசிரியர்களுடனும் கலந்துரையாடிய ஜனாதிபதி, மாணவர்களின் கல்விச் செயற்பாடுகள் மற்றும் பாடசாலையின் வளப் பற்றாக்குறை தொடர்பிலும் ஆராய்ந்தார்.
+
+இதன்போது முன்வைக்கப்பட்ட பிரச்சினைகள் குறித்து கவனம் செலுத்துவதாக மாணவர்களுக்கு உறுதியளித்த ஜனாதிபதி, அவர்களின் எதிர்கால கல்விச் செயற்பாடுகளுக்கும் வாழ்த்து கூறினார். (a)
+
+◼️
+
+[Data](articles/513b9b71.json)
+
+---
+
+### அதிக வெப்ப நிலை ஏப்ரல் வரை நீடிக்கும்
+
+*2024-03-01 04:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்ப-நிலை-ஏப்ரல்-வரை-நீடிக்கும்/175-334030) · `ta`
+
+நாட்டில் நிலவும் அதிக வெப்பமான வானிலை எதிர்வரும் ஏப்ரல் நடுப்பகுதி வரை நீடிக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+எனவே முடிந்தவரை வெளிப்புற செயற்பாடுகளில் ஈடுபடுவதை தவிர்க்குமாறு திணைக்களத்தின் பணிப்பாளர் அஜித் விஜேமான்ன தெரிவித்துள்ளார்.
+
+காற்றின் வேகம் குறைவடைந்துள்ளமை மற்றும் வானில் முகில் கூட்டம் குறைவடைந்துள்ளமை என்பன இந்த வெப்பநிலைக்கான காரணமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/83cdde6e.json)
 
 ---
 
@@ -1895,65 +1959,5 @@ The Central Bank officials are also expected to go before the Public Finance Com
 [Data](articles/c44bc41d.json)
 
 [Extended Data](ext_articles/c44bc41d.ext.json)
-
----
-
-### Lucky with the dog
-
-*2024-02-29 15:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நாயால்-அடித்த-அதிர்ஷ்டம்/50-333999) · `ta`
-
-Lynn, a woman who was going to training in Guangdong, southern China. The dog he caught in his hand, suddenly slipped from his grip and ran into the shop. The lottery tickets that were placed there were. He was forced to buy it.
-
-Eventually the exploitation Lotter had fallen $ 139 prize. Thus Lynn was very happy. The next day, he took his dog back to the store and made a lottery.
-
-By then, he had a $ 4 prize. Lynn said he had bought a part of the gift for a dog who was looking for luck.
-
-◼️
-
-[Data](articles/ca944b30.json)
-
-[Extended Data](ext_articles/ca944b30.ext.json)
-
----
-
-### The Cabinet decision to provide house to Maithri
-
-*2024-02-29 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193961) · `si`
-
-The Supreme Court has decided that Maithripala Sirisena's residence at Mahathinda Mawatha, Colombo after his retirement, he had decided violated fundamental human rights.
-
-The Supreme Court has ordered the Cabinet decision on October 15, 2019 to provide the house.
-
-The decision has been announced by Supreme Court Judge Priyantha Jayawardena with the agreement of Judges Gamini Amavanamuttu, who was filed by the CPA and its Executive Director Dr. Payazotha Saravanamuttu.
-
-Maithripala Sirisena has been violated by the Head of the Cabinet and the decision of his own privileges, and this petition has been submitted to decide that he has violated basic human rights.
-
-Priyantha Jayewardene referees expressing the verdict, he said that former President Maithripala Sirisena, the head of the Cabinet, was completely contrary to the law.
-
-The judge is contrary to the law to reserve the reservation of former President Sirisena before his retirement and reservation through the Cabinet of Ministers.
-
-...
-
-[Data](articles/c6e5b7a9.json)
-
-[Extended Data](ext_articles/c6e5b7a9.ext.json)
-
----
-
-### S. The Elections Commission is noticed that C Muthukumarana Selected
-
-*2024-02-29 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193960) · `si`
-
-S. The Elections Commission is notified that Mr. C Muthukumarana was elected as a Member of Parliament.
-
-Udakika Premaratne resigned in his post recently.
-
-The new appointment will be made to fill the vacant seat.
-
-◼️
-
-[Data](articles/0915ac41.json)
-
-[Extended Data](ext_articles/0915ac41.ext.json)
 
 ---

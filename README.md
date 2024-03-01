@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 14:51:39**
+As of **2024-03-01 15:02:27**
 
 ## Newspaper Stats
 
-*Scraped **10,244** Articles*
+*Scraped **10,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 872
 adaderanalk | 1,241
 tamilmirrorlk | 1,248
 virakesarilk | 1,398
-dailymirrorlk | 1,552
-adaderanasinhalalk | 1,566
+dailymirrorlk | 1,553
+adaderanasinhalalk | 1,567
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,244 (100.0%) of 10,244 articles have been extended.
+10,244 (100.0%) of 10,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### 2023 Grade 5 re-evaluation results released; students can apply with revised scores
+
+*2024-03-01 14:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2023-Grade-5-re-evaluation-results-released-students-can-apply-with-revised-scores/108-278038) · `en`
+
+Colombo, March 1 (Daily Mirror) - The re-evaluation results of the 2023 Grade 5 scholarship examination have been released by the Examinations Department and candidates have been given the opportunity to apply based on the revised scores, the Education Ministrty said.
+
+Schools are given the opportunity to apply based on those revised scores.
+
+They said the relevant applications have already been sent to the principals of the respective schools. The applications are to be obtained from the principal of the school where the students studied in Grade 05.
+
+Duly completed applications must be handed over to the principal before March 07.
+
+◼️
+
+[Data](articles/4f72c976.json)
+
+---
+
+### නිලන්ත ජයවර්ධනට එරෙහිව නීතිමය පියවර ගන්නැයි ඉල්ලා පෙත්සමක්
+
+*2024-03-01 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194006) · `si`
+
+පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාර සිද්ධිය සම්බන්ධයෙන් රාජ්‍ය බුද්ධි සේවයේ හිටපු ප්‍රධානී ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නිලන්ත ජයවර්ධන මහතාට එරෙහිව නිතිමය පියවර ගන්නා ලෙස පොලිස්පතිවරයා ඇතුළු වගඋත්තරකරුවන්ට නියෝග නිකුත් කරන් ලෙස ඉල්ලා අභියාචනාධිකරණය හමුවේ රිට් පෙත්සමක් ගොනුකර තිබේ.
+
+එහි වගේ උත්තරකරුවන් ලෙස පොලිස්පතිවරයා, ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති නිලන්ත ජයවර්ධන සහ නීතිපතිවරයා නම් කර තිබේ.
+
+◼️
+
+[Data](articles/a0858ef8.json)
+
+---
 
 ### Rajiv Gandhi assassination case convict Santhan’s body flown to Sri Lanka
 
@@ -1949,37 +1981,5 @@ The Department of Meteorology said the cause of the temperature was the decline 
 [Data](articles/83cdde6e.json)
 
 [Extended Data](ext_articles/83cdde6e.ext.json)
-
----
-
-### President's final tribute to Ronnie de Mell
-
-*2024-03-01 03:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொனி-டி-மெலுக்கு-ஜனாதிபதி-இறுதி-அஞ்சலி/175-334029) · `ta`
-
-President Ranil Wickremesinghe has paid a final tribute to the late Finance Minister Ronnie de Mel, the best politician and the best economist.
-
-The president, who had gone to the house located on the Charles drive of Kaluppitti, where her body was placed, paid tribute to Annar's body yesterday afternoon.. He also expressed his sympathies to family members. (A)
-
-◼️
-
-[Data](articles/f9447df8.json)
-
-[Extended Data](ext_articles/f9447df8.ext.json)
-
----
-
-### Sri Lanka’s quest for economic independence: Navigating the maze of agricultural exports
-
-*2024-03-01 02:50:07* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-quest-for-economic-independence-Navigating-the-maze-of-agricultural-exports/4-759024) · `en`
-
-There are a number of reasons to still be optimistic about the future
-
-Sri Lanka, despite being a nation with a rich history once known to be self-sufficient as the Pearl of the Indian Ocean and a strategically located trading hub on the maritime Silk Route fostering a vibrant culture, has long grappled with achieving consistent and sustainable economic independence, especially since after the worst economic crisis the country ever faced recently in 2022. One of the key areas where this struggle is most evident is in agriculture which has been the backbone of the island nation’s economy for centuries, still employing nearly a third of the population, especially made up by daily wage-earning rural communities, particularly women, and contributes substantially to Sri Lanka’s GDP as well as food security.
-
-...
-
-[Data](articles/f72f47d9.json)
-
-[Extended Data](ext_articles/f72f47d9.ext.json)
 
 ---

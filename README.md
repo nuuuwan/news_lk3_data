@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 12:33:01**
+As of **2024-03-01 12:49:07**
 
 ## Newspaper Stats
 
-*Scraped **10,212** Articles*
+*Scraped **10,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,35 +12,99 @@ colombotelegraphcom | 99
 bbccomsinhala | 123
 dbsjeyarajcom | 168
 newsfirstlk | 363
-economynextcom | 526
+economynextcom | 528
 dailyftlk | 542
 islandlk | 544
-adalk | 868
+adalk | 869
 adaderanalk | 1,234
 tamilmirrorlk | 1,243
-virakesarilk | 1,395
-dailymirrorlk | 1,546
+virakesarilk | 1,397
+dailymirrorlk | 1,547
 adaderanasinhalalk | 1,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,211 (100.0%) of 10,212 articles have been extended.
+10,212 (99.9%) of 10,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### ශ්‍රී ලංකාවේ පළමු වනජීවී උමං මාර්ගය
+### Parate execution law suspended to help one party: Mayantha
+
+*2024-03-01 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parate-execution-law-suspended-to-help-one-party-Mayantha/108-278030) · `en`
+
+Colombo, March 1 (Daily Mirror) - The government has suspended the parate execution law to help a single party which has not been able to settle its debts, Samagi Jana Balawegaya (SJB) MP Mayantha Dissanayake alleged.
+
+MP Dissanayake told a media briefing that his party will reveal all the details on this move in Parliament soon.
+
+Asked whether Opposition Leader Sajith Premadasa did not lobby for the suspension  of the parate execution laws, the MP said Premadasa only requested to do it in a fair and transparent manner.
+
+“No one requested the government to do it for the benefit of one party,” he said.
+
+◼️
+
+[Data](articles/e9f4ba16.json)
+
+---
+
+### Sri Lanka's first wildlife tunnel
 
 *2024-03-01 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194000) · `si`
 
-ශ්‍රී ලංකාවේ පළමු වනජීවී උමං මාර්ගය ඉදිකීරීම අද (01) පෙරවරුවේ ආරම්භ කෙරුණි.
+The construction of the first wildlife tank in Sri Lanka was commenced this morning.
 
 ◼️
 
 [Data](articles/c65ca814.json)
+
+[Extended Data](ext_articles/c65ca814.ext.json)
+
+---
+
+### காசாவிற்குள் நுழைந்த உணவுவாகனங்களை  சூழ்ந்த மக்கள் - துப்பாக்கி பிரயோகம் செய்த இஸ்ரேலிய படையினர் - தப்பியோட முயன்ற வாகனங்களில் மோதுண்டு உயிரிழந்த பலர் - சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவிப்பு
+
+*2024-03-01 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177657) · `ta`
+
+ஹமாஸ் இஸ்ரேல் யுத்தம் ஆரம்பித்த பின்னர் இடம்பெற்ற சம்பவங்களில் மிக மோசமான சம்பவம் என குறிப்பிடத்தக்க சம்பவம் வியாழக்கிழமை இடம்பெற்றுள்ளது.
+
+காசாவில் உணவை பெறுவதற்காக பெருமளவில் திரண்டிருந்த மக்கள் மீது இஸ்ரேல் தாக்குதலை மேற்கொண்டதில் நூற்றுக்கும் மேற்பட்டவர்கள் கொல்லப்பட்டுள்ளனர்.
+
+உணவுவாகனங்களை நோக்கி பெருமளவில் திரண்ட பசியின் பிடியில் சிக்கியுள்ள பாலஸ்தீனியர்கள் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 117 பாலஸ்தீனியர்கள் கொல்லப்பட்டுள்ளனர் என பாலஸ்தீன சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+முற்றுகைக்குள்ளாகியுள்ள காசா பள்ளத்தாக்கில்  பசியும் பட்டினியும் பெருமளவில் காணப்படும் ஒரு சூழ்நிலையிலேயே இந்த சம்பவம் இடம்பெற்றுள்ளது.
+
+இங்கு உணவுப்பொருட்களுடன் வாகனங்கள் வருவது குறைவு என்பதால் அவ்வாறான வாகனங்களை பார்த்தவுடன் பட்டினியில் சிக்குண்டுள்ள மக்கள் பதற்றம் ஏற்படுவது வழமை.
+
+எனினும் என்ன நடந்தது என்பது குறித்து இஸ்ரேலும் சம்பவத்தை நேரில் பார்த்தவர்களும் தெரிவித்த விடயங்களில் முரண்பாடுகள் உள்ளன.
+
+காசாவின் மேற்குபகுதியில் உள்ள ஹரூன் அல் ரசீட் வீதியில் பெரும் குழப்பங்களிற்கு மத்தியில் உயிரிழப்புகள் ஏற்பட்டுள்ளன.
+
+...
+
+[Data](articles/9a368f0e.json)
+
+---
+
+### தென் கொரிய மருத்துவ சங்க அலுவலகங்களில் பொலிஸார் முற்றுகை
+
+*2024-03-01 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177656) · `ta`
+
+கொரிய மருத்துவர்கள் சங்கத்தின் அலுவலகங்கள் மீது தென் கொரிய பொலிஸார் இன்று முற்றுகைகளை நடத்தினர்.  தென் கொரிய மருத்துவர்களின் வேலை நிறுத்தத்தால் வைத்தியசாலைகளில் குழப்பங்கள் ஏற்பட்டுள்ள நிலையில் இம்முற்றுகைகள் இடம்பெற்றுள்ளன.
+
+சுமார் 10,000 கனிஷ்ட மருத்துவர்கள் கடந்த வாரம் பணிப்பகிஷ்கரிப்பில் ஈடுபட்டிருந்தனர்.  மருத்துவ கல்லூரிகளுக்கு அனுமதிக்கப்படும் மாணவர் எண்ணிக்கையை அதிகரிக்கும் அரசாங்கத்தின் தீர்மானத்துக்கு எதிராக கனிஷ்ட மருத்துவர்கள் பணிப் பகிஷ்கரிப்பில் ஈடுபட்டுள்ளர்ஃ
+
+மருத்துவர்கள் நேற்று வியாழக்கிழமைக்கு முன்னர் பணிக்குத்  திரும்ப வேண்டுமென தென் கொரிய அரசாங்கம் காலக்கெடு விதித்திருந்தது.
+
+பணிக்குத் திரும்பியவர்கள் தொடர்பான உத்தியோகபூர்வ தரவுகள் எதுவும் இல்லை என தென் கொரிய சுகாதார அமைச்சு தெரிவித்துள்ளது. எனினும், பகிஷ்கரிப்பில் ஈடுபட்டவர்கள் தொடர்ந்தும் பகிஷ்கரிப்பில் ஈடுபடுகின்றன்ர என யோன்ஹாப் செய்திச் சேவை தெரிவித்துள்ளது.
+
+கடந்த வாரம் 15 பெரிய வைத்தியசாலைகளில் திட்டமிடப்பட்டிருந்த 50 சதவீதமான சத்திரசிகிச்சைகள் இரத்துச் செய்யப்பட்டதாக தென் கொரிய சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/a2a489c0.json)
 
 ---
 
@@ -133,6 +197,24 @@ Meanwhile, Litro Gas prices now stand at the following rates:
 [Data](articles/d45efc32.json)
 
 [Extended Data](ext_articles/d45efc32.ext.json)
+
+---
+
+### Sri Lanka begins solar pilot project on plantatation
+
+*2024-03-01 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-solar-pilot-project-on-plantatation-152575/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s first ever semi transparent solar PV powered agrivoltaic pilot project was commissioned in Hanthana, Kandy on Thursday, the Minister of Power and Energy said.
+
+“The pilot project will assist The Ministry of Plantation Industries, Ministry of Power and Energy, CEB, Tea Small Holders Development Authority and Sustainable Energy Authority to study the development of renewable energy in tea plantations in the country,” Kanchana Wijesekera said on X (twitter).
+
+A photovoltaic (PV) cell is a non-mechanical device that converts sunlight directly into electricity. Sri Lanka’s current energy sector development strategy seeks to increase energy generated from renewables such as wind and solar.
+
+Critics have pointed out that Sri Lanka is paying higher rates to renewable power developers than neighboring India. Wijesekera has said this was due to several reasons including a risk premium after a sovereign default.
+
+...
+
+[Data](articles/8db4c5f7.json)
 
 ---
 
@@ -491,6 +573,26 @@ Officials said that the gas cylinders were found on each site of the building, c
 [Data](articles/3afed321.json)
 
 [Extended Data](ext_articles/3afed321.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 309.05/15 to the US dollar
+
+*2024-03-01 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-309-05-15-to-the-us-dollar-152571/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 309.05/15 to the US dollar Friday, from 309.50/70 on Thursday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted at 10.90/11.05 percent from 10.90/11.00 percent Thursday.
+
+A bond maturing on 15.09.2027 was quoted at 11.90/12.05 percent from 11.90/12.10 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.15/30 percent from 12.20/25 percent.
+
+The Colombo Stock Exchange opened up; The All Share was up 0.18 percent at 10,670, and the S&P SL20 was up 0.15 percent at 3,052. (Colombo/Mar1/2024)
+
+◼️
+
+[Data](articles/28e85ac2.json)
 
 ---
 
@@ -1839,99 +1941,5 @@ A total of 58 officers of the air force graduated as the SLAF Academy passing ou
 [Data](articles/dc95318c.json)
 
 [Extended Data](ext_articles/dc95318c.ext.json)
-
----
-
-### SLCERT to introduce National Cyber Security Act within the year
-
-*2024-02-29 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97637/slcert-to-introduce-national-cyber-security-act-within-the-year) · `en`
-
-The State Minister for Technology, Mr. Kanaka Herath, announced that the anticipated National Cyber Security Act will be introduced this year, followed by the establishment of the Cyber Security Authority.
-
-Additionally, the State Minister underscored the preparations made for the Digital Economy Summit scheduled to take place in Sri Lanka by the end of July.
-
-The summit serves as a platform for fostering innovation, collaboration, and investment in digital technologies, thus propelling the country towards a more resilient and prosperous digital economy, he said.
-
-Speaking at a press briefing titled “Collective Path to a Stable Country” held at the President Media Centre (PMC) today (29),
-
-The digital economy, which previously stood at 4.73%, has now surpassed the 5% mark, indicating significant growth.
-
-...
-
-[Data](articles/d25a62e4.json)
-
-[Extended Data](ext_articles/d25a62e4.ext.json)
-
----
-
-### 4 years ban on super football player
-
-*2024-02-29 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193977) · `si`
-
-The 4-year football ban on the super football player Paul Pagba.
-
-◼️
-
-[Data](articles/95725725.json)
-
-[Extended Data](ext_articles/95725725.ext.json)
-
----
-
-### Reduces weight of school bag
-
-*2024-02-29 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193976) · `si`
-
-The Ministry of Education has taken steps to reduce the new Booking Schools except for students 'workbooks.'
-
-Accordingly, the Education Secretary Wasantha Perera has issued a series of instructions to inform the Principal's direct supervision.
-
-The health sector has shown that due to the weight of the school book bag, the health sectors may cause various physical difficulties.
-
-Therefore, the Ministry of Education has taken the attention to the weight loss of the students' book bag and has already taken steps to print in selected text books as a step.
-
-◼️
-
-[Data](articles/c22e44da.json)
-
-[Extended Data](ext_articles/c22e44da.ext.json)
-
----
-
-### Deshabandu defends his actions during ’Aragalaya’
-
-*2024-02-29 22:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deshabandu-defends-his-actions-during-Aragalaya/108-277978) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - While defending his actions during the 'Aragalaya' period, newly appointed IGP Deshabandu Tennakoon today emphasized that if not for their actions, the current situation could have been significantly different.
-
-He also asserted that during the Aragalaya, he faced criticism and accusations, but maintained that he diligently carried out his responsibilities for the Sri Lanka Police.
-
-"During the 'Aragalaya' period, anyone could point a finger and accuse me, criticizing my conduct. However, I executed my duties to the best of my ability during that time for the Sri Lanka Police. The situation could have been vastly different today if we hadn't acted in the manner we did. As the Senior DIG in charge of the Western Province at that time, I merely fulfilled my duties to protect the country's democracy and national security," he said.
-
-...
-
-[Data](articles/671bdfd9.json)
-
-[Extended Data](ext_articles/671bdfd9.ext.json)
-
----
-
-### Plan to introduce National Cyber Security Act: Digital Economic Conference in July - Kanaka Herath
-
-*2024-02-29 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/177631) · `ta`
-
-Technology Minister Kanaka Herath said that the National Cyber Security Act is expected to bring in the Cyber Security Authority this year.
-
-The Minister of State also said that the digital economic conference was organized in Sri Lanka at the end of July to improve the country's economy by strengthening the digital economy.
-
-The Minister of State made this statement at a press conference held at the Presidential Media Center on Thursday (29).
-
-“The digital economy, which has been at 4.73% in the past, has seen a 5% growth today. So the economy is also strengthened.The digital economic conference will be held in Sri Lanka at the end of July to further strengthen it.It has been decided to attract domestic and foreign investors.The work will be carried out by the Ministry of Foreign Affairs, the Ministry of Foreign Affairs and the Ministry of Investment Promotion.
-
-...
-
-[Data](articles/565cda24.json)
-
-[Extended Data](ext_articles/565cda24.ext.json)
 
 ---

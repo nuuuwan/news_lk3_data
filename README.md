@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 03:50:18**
+As of **2024-03-02 04:02:24**
 
 ## Newspaper Stats
 
-*Scraped **10,361** Articles*
+*Scraped **10,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 544
 dailyftlk | 560
 adalk | 876
 adaderanalk | 1,255
-tamilmirrorlk | 1,257
+tamilmirrorlk | 1,258
 virakesarilk | 1,412
 dailymirrorlk | 1,572
 adaderanasinhalalk | 1,588
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,361 (100.0%) of 10,361 articles have been extended.
+10,361 (100.0%) of 10,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### தாய்லாந்து குழு இலங்கைக்கு நிதி அன்பளிப்பு
+
+*2024-03-02 03:43:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்து-குழு-இலங்கைக்கு-நிதி-அன்பளிப்பு/175-334073) · `ta`
+
+கொழும்பு கங்காராம விகாராதிபதி கலாநிதி வண. கிரிந்தே அஸ்ஸஜி தேரர் மற்றும் தாய்லாந்து பௌத்த குழுவினர் ஒன்றிணைந்து ஜனாதிபதி ரணில் விக்கிரமசிங்கவைச் சந்தித்து 50 ஆயிரம் அமெரிக்க டொலர்களை அன்பளிப்புச் செய்துள்ளனர்.
+
+இந்த அன்பளிப்புத் தொகையை மிகவும் வறிய மக்களுக்கு உதவுவதற்காக ஜனாதிபதி நிதியம் முன்னெடுத்துள்ள 'கண்ணீரைத் துடைப்போம்' வேலைத் திட்டத்திற்கு பயன்படுத்துமாறு ஜனாதிபதி, தனது செயலாளர் சமன் ஏக்கநாயக்கவிற்கு பணிப்புரை விடுத்துள்ளார்.
+
+இந்தக் குழு இலங்கையின் நலன்புரிச் செயற்பாடுகளுக்காக மூன்றாவது முறையாக இவ்வாறான அன்பளிப்பை வழங்கியுள்ளதோடு, 2010 மற்றும் 2011 ஆம் ஆண்டுகளில் மேற்படிக் குழுவினால் கொழும்பு கங்காராமயவிற்கு வழங்கப்பட்ட 200,000 அமெரிக்க டொலர்கள் நாடளாவிய ரீதியிலுள்ள 1,800 பௌத்த விகாரைகளின் சுகாதார வசதிகளை மேம்படுத்துவதற்காக பகிர்ந்தளிக்கப்பட்டுள்ளன.  (a)
+
+◼️
+
+[Data](articles/06a7d3f4.json)
+
+---
 
 ### Petition filed urging appropriate action against Nilantha Jayawardena
 
@@ -2031,27 +2047,5 @@ The cause of the fire is yet to be ascertained and Moragahahena police are condu
 [Data](articles/fe0b5cbf.json)
 
 [Extended Data](ext_articles/fe0b5cbf.ext.json)
-
----
-
-### President vows swift action if Sri Lanka’s economic rights are compromised
-
-*2024-03-01 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97659/president-vows-swift-action-if-sri-lankas-economic-rights-are-compromised) · `en`
-
-President vows swift action if Sri Lanka’s economic rights are compromised
-
-President Ranil Wickremesinghe has pledged to take action if the economic rights of Sri Lanka are harmed at the Red Sea.
-
-He also stated that Sri Lanka would work to provide the necessary support to the United Nations organization whenever there are problems with peace in the region and the world.
-
-The Head of State made this statement while attending the Sri Lanka Air Force Cadet Officers Commissioning Ceremony held on Thursday afternoon (Feb.29) at Air Force Base China Bay, Trincomalee.
-
-Highlighting Sri Lanka’s historical commitment to safeguarding world peace and regional stability, the President emphasized his readiness to make decisive decisions for global peace. He underscored the responsibility and accountability of the armed forces in achieving this objective.
-
-...
-
-[Data](articles/f334567a.json)
-
-[Extended Data](ext_articles/f334567a.ext.json)
 
 ---

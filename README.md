@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 20:33:17**
+As of **2024-03-01 20:50:52**
 
 ## Newspaper Stats
 
-*Scraped **10,304** Articles*
+*Scraped **10,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,250
 tamilmirrorlk | 1,254
 virakesarilk | 1,400
 dailymirrorlk | 1,562
-adaderanasinhalalk | 1,581
+adaderanasinhalalk | 1,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,304 (100.0%) of 10,304 articles have been extended.
+10,305 (100.0%) of 10,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Dr. Saman Rathnayake arrested
+
+*2024-03-01 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194021) · `si`
+
+Additional Secretary to the Ministry of Health Dr. Saman Ratnayake has been arrested by the CID.
+
+◼️
+
+[Data](articles/ef6e0fb8.json)
+
+[Extended Data](ext_articles/ef6e0fb8.ext.json)
+
+---
 
 ### Electricity tariff reduces the decline in the second day
 
@@ -2031,25 +2045,5 @@ Mr. Smith expressed interest in assisting programmes to enhance collaboration at
 [Data](articles/aaa75096.json)
 
 [Extended Data](ext_articles/aaa75096.ext.json)
-
----
-
-### Wimal's diarrhea
-
-*2024-03-01 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193995) · `si`
-
-Former Minister Wimali Virawansa has informed the Colombo High Court today that the fever is suffering from the fever, vomiting and diarrhea these days.
-
-It is with regard to a case that has been abused that over 75 million assets and money earned.
-
-The case was called before Colombo High Court Judge Navasinghe Marasinghe.
-
-The defendant Wimal Weerawansa did not appear in court.
-
-◼️
-
-[Data](articles/3a110406.json)
-
-[Extended Data](ext_articles/3a110406.ext.json)
 
 ---

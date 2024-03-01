@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 13:33:18**
+As of **2024-03-01 13:51:46**
 
 ## Newspaper Stats
 
-*Scraped **10,224** Articles*
+*Scraped **10,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 542
 islandlk | 544
 adalk | 869
 adaderanalk | 1,238
-tamilmirrorlk | 1,243
+tamilmirrorlk | 1,248
 virakesarilk | 1,397
 dailymirrorlk | 1,548
 adaderanasinhalalk | 1,562
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,562
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,223 (100.0%) of 10,224 articles have been extended.
+10,229 (100.0%) of 10,229 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,20 @@ A person has been killed in a shooting carried out in the Ahungalla area today (
 ◼️
 
 [Data](articles/0fb716a3.json)
+
+[Extended Data](ext_articles/0fb716a3.ext.json)
+
+---
+
+### Man killed in firing
+
+*2024-03-01 12:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-பலி/175-334046) · `ta`
+
+◼️
+
+[Data](articles/fa3a1c2d.json)
+
+[Extended Data](ext_articles/fa3a1c2d.ext.json)
 
 ---
 
@@ -131,6 +145,24 @@ Asked whether Opposition Leader Sajith Premadasa did not lobby for the suspensio
 [Data](articles/e9f4ba16.json)
 
 [Extended Data](ext_articles/e9f4ba16.ext.json)
+
+---
+
+### Central bank officials invite party leaders meeting
+
+*2024-03-01 12:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-தலைவர்கள்-கூட்டத்துக்கு-மத்திய-வங்கி-அதிகாரிகள்-அழைப்பு/175-334045) · `ta`
+
+They have been invited to investigate the salary increase of the Central Bank Officers of Sri Lanka.
+
+Central Bank officials of the Central Bank of Sri Lanka will be invited to a meeting of party leaders to be held at 10.30 am on Tuesday (05).
+
+The decision was taken during the Parliamentary Affairs Committee meeting held today (01).
+
+◼️
+
+[Data](articles/ad2b0abd.json)
+
+[Extended Data](ext_articles/ad2b0abd.ext.json)
 
 ---
 
@@ -334,6 +366,30 @@ Critics have pointed out that Sri Lanka is paying higher rates to renewable powe
 
 ---
 
+### Sleep for the mother;On a one -month -old baby street
+
+*2024-03-01 11:15:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாய்க்கு-தூக்கம்-ஒருமாத-குழந்தை-வீதியில்/76-334044) · `ta`
+
+There was an incident where a mother was traveling in a three -wheeler, not knowing that a month -old child fell on the street.
+
+Kitulkala police said that a child in the Hatton -Colombo road has been found dead from her mother's hand and lying on the main road.
+
+The mother of the child, including the mother of the child, was returning to Negombo from Nuwara Eliya, the mother's sleep was slipped on the road, police said.
+
+Two families, including the mother of the child, were back to Negombo, leaving Nuwara Eliya through Kadirgamam in two three -wheeler, police said.
+
+The incident took place at midnight on the 28th and the passengers in a car that followed the three -wheeler on the same road had found a child lying on the road and informed the Kitulkala police.
+
+The people in the car have rescued the small child and handed over to the Kitkalkala police.
+
+...
+
+[Data](articles/962aee4e.json)
+
+[Extended Data](ext_articles/962aee4e.ext.json)
+
+---
+
 ### Paint factory in Panadura gutted in fire
 
 *2024-03-01 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97649/paint-factory-in-panadura-gutted-in-fire) · `en`
@@ -418,6 +474,28 @@ It is said that the shooting of the house had been shot at the time while the pe
 
 ---
 
+### 8 lakh rupees worth of Kerala cannabis
+
+*2024-03-01 10:58:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/8-இலட்சம்-ரூபா-பெறுமதி-கேரள-கஞ்சாவுடன்-நபர்-கைது/46-334043) · `ta`
+
+A person has been arrested by the police with Kerala ganja worth more than 8 lakhs.
+
+A special officer of the police said that the suspect has been arrested in front of the Ruwanwelisa Vihara.
+
+It has been revealed that the cannabis has been brought in with the aim of distribution in the Anuradhapura worship area.
+
+The captured cannabis is said to be 4 kg of 250 grams.
+
+It is noteworthy that the arrested suspect belongs to the 32 -year -old Kalpitiya area.
+
+◼️
+
+[Data](articles/813eaf4d.json)
+
+[Extended Data](ext_articles/813eaf4d.ext.json)
+
+---
+
 ### UNFPA to help Sri Lanka to modernize statistical system to move towards digital economy
 
 *2024-03-01 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97647/unfpa-to-help-sri-lanka-to-modernize-statistical-system-to-move-towards-digital-economy) · `en`
@@ -435,6 +513,18 @@ Mr. Smith expressed interest in assisting programmes to enhance collaboration at
 [Data](articles/433190d4.json)
 
 [Extended Data](ext_articles/433190d4.ext.json)
+
+---
+
+### Announcement regarding the price of Litro gas
+
+*2024-03-01 10:54:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-எரிவாயுவின்-விலை-தொடர்பில்-அறிவிப்பு/175-334042) · `ta`
+
+◼️
+
+[Data](articles/aaa75096.json)
+
+[Extended Data](ext_articles/aaa75096.ext.json)
 
 ---
 
@@ -1843,103 +1933,5 @@ Thanks to Cabinet Spokesman Minister Bandula Gunawardena for revealing that the 
 [Data](articles/d2cd8034.json)
 
 [Extended Data](ext_articles/d2cd8034.ext.json)
-
----
-
-### House for Maithri;High Court that canceled the resolution
-
-*2024-02-29 23:07:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-வீடு-தீர்மானத்தை-இரத்து-செய்தஉயர்-நீதிமன்றம்/175-334028) · `ta`
-
-The Supreme Court has issued an interim injunction to weaken the Cabinet's decision to give him the resolution of the Cabinet after his retirement.
-
-Accordingly, on October 15, 2019, the Supreme Court has ordered that the Cabinet decision taken to provide the appropriate house will not be issued.. Remble
-
-◼️
-
-[Data](articles/4d756401.json)
-
-[Extended Data](ext_articles/4d756401.ext.json)
-
----
-
-### Massive Challenge to New Police Inspector
-
-*2024-02-29 23:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177632) · `ta`
-
-The appointment of a person who has been accused of human rights violations as a police chief is a challenge to the rule of law and is a major threat, said Patali Champika Ranawaka, the leader of the United Republic Front and Member of Parliament.
-
-He was speaking to the media after attending a function held in Colombo on Thursday (29).
-
-With the appointment of a new police chief, the rule of the country is a huge threat to the rule of law.
-
-The people of the country are well aware of how the patriarch of the Tennakoon, who was appointed as the Inspector General of Police.
-
-The actions of the Constitutional Council are currently being questioned at the appointment of the new Inspector General of Police. The Speaker acts spontaneously. The powers of the Constitutional Council have been abused. In this context, it is challenging to ensure legalism.
-
-◼️
-
-[Data](articles/075ef65d.json)
-
-[Extended Data](ext_articles/075ef65d.ext.json)
-
----
-
-### Dozens killed waiting for aid in Gaza, overall death toll passes 30,000
-
-*2024-02-29 22:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97639/dozens-killed-waiting-for-aid-in-gaza-overall-death-toll-passes-30000) · `en`
-
-(Reuters) - Gaza health authorities said more than 100 Palestinians were shot dead by Israeli forces as they waited for an aid delivery on Thursday, but Israel challenged the death toll and said many of the victims were run over by aid trucks.
-
-At least 104 people were killed and more than 280 wounded in the incident near Gaza City, Palestinian health officials said, and the death toll in nearly five months of war passed 30,000.
-
-Medical teams said they were unable to cope with the volume and severity of the injuries, with dozens of wounded taken to the al-Shifa hospital, which is only partially operational after Israeli raids on the facility.
-
-The incident caused the largest loss of civilian lives in weeks. Palestinian President Mahmoud Abbas said it was an “ugly massacre conducted by the Israeli occupation army on people who waited for aid trucks at the Nabulsi roundabout”.
-
-...
-
-[Data](articles/0f5db2a0.json)
-
-[Extended Data](ext_articles/0f5db2a0.ext.json)
-
----
-
-### Famous singer of Tagore songs Shama Rahman in Sri Lanka
-
-*2024-02-29 22:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Famous-singer-of-Tagore-songs-Shama-Rahman-in-Sri-Lanka/108-277982) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - A famous singer of Tagore songs, Ms. Shama Rahman from Bangladesh, arrived at the Bandaranaike International Airport (BIA) this evening, the Airport and Aviation of Sri Lanka (AASL) said.
-
-They said Ms. Rahman arrived at 4.30 p.m. from Dhaka, Bangladesh, on flight UL 190 and was warmly welcomed.
-
-Ms. Shama is a famous singer in Bangladesh and India. She is the ambassador of Tagore songs worldwide. Shama Rahman is a wide-ranging traveller who carries the philosophy of Tagore.
-
-Addressing the media, she said that she had arrived in Sri Lanka once before and added that Bangladesh has very good relations with Sri Lanka.
-
-◼️
-
-[Data](articles/47d7cf06.json)
-
-[Extended Data](ext_articles/47d7cf06.ext.json)
-
----
-
-### Education Ministry to reduce weight of school bags
-
-*2024-02-29 22:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Education-Ministry-to-reduce-weight-of-school-bags/108-277981) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - The attention of the Education Ministry has been drawn to reducing the weight of school bags due to the potential risk of causing spinal misalignment or problems for students, Education Ministry Secretary Wasantha Perera said.
-
-She said the decision was announced today after the health authorities had pointed out that students carrying heavy school bags could cause spinal misalignment or other problems to them.
-
-As the first step towards reducing the weight of school bags, the Ministry has decided to print textbooks in batches.
-
-Letting schoolchildren bring only their workbooks except textbooks under the direct supervision of the respective school principals would be an alternative decision, she said.
-
-◼️
-
-[Data](articles/8c55e5f8.json)
-
-[Extended Data](ext_articles/8c55e5f8.ext.json)
 
 ---

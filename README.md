@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 09:33:13**
+As of **2024-03-01 09:51:58**
 
 ## Newspaper Stats
 
-*Scraped **10,174** Articles*
+*Scraped **10,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,73 @@ adaderanalk | 1,226
 tamilmirrorlk | 1,236
 virakesarilk | 1,394
 dailymirrorlk | 1,541
-adaderanasinhalalk | 1,547
+adaderanasinhalalk | 1,550
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,173 (100.0%) of 10,174 articles have been extended.
+10,177 (100.0%) of 10,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### A group of suspects arrested
+
+*2024-03-01 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193989) · `si`
+
+Three suspects have been arrested in possession of five suspects required for motorcycle burning and fake numbers and motorbikes.
+
+The suspects are aged between 19 and 42 years old, police said.
+
+◼️
+
+[Data](articles/bc07a2c9.json)
+
+[Extended Data](ext_articles/bc07a2c9.ext.json)
+
+---
+
+### Modi and Bill Gates talking about new work
+
+*2024-03-01 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193988) · `si`
+
+Bill Gates, the world's leading rich, has arrived in India.
+
+Indian media reports that he had found the leading politicians and businessmen.
+
+Indian Prime Minister Narendra Modi met Indian Prime Minister Narendra Modi.
+
+It is also reported that more attention is focused on the use of artificial intelligence for the benefit of the people.
+
+Narendra Modi has always been delighted to discuss the areas of the world around the world.
+
+◼️
+
+[Data](articles/81f601f2.json)
+
+[Extended Data](ext_articles/81f601f2.ext.json)
+
+---
+
+### Youth dies after collision with train
+
+*2024-03-01 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193987) · `si`
+
+A 23-year-old youth has died of collision, police said.
+
+The accident occurred near the Ella railway station at night (29).
+
+The police have received information that the death was hit by a night mail train traveling from Badulla to Colombo.
+
+◼️
+
+[Data](articles/84b9bf18.json)
+
+[Extended Data](ext_articles/84b9bf18.ext.json)
+
+---
 
 ### Bangladesh fire: At least 43 dead in Dhaka building blaze
 
@@ -1678,17 +1734,19 @@ Accordingly, the newly-appointed IGP has approved to provide legal aid to said p
 
 ---
 
-### දකුණු පළාතට අද ශෝක දිනයක්
+### Today is mourning the Southern Province
 
 *2024-02-29 18:47:57* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාතට-අද-ශෝක-දිනයක්/11-408361) · `si`
 
-රුහුණු විශ්ව විද්‍යාලය ආරම්භ කිරීමට පුරෝගාමියෙකු වූ හිටපු මුදල් අමාත්‍ය රොනී ද මැල් මහතාගේ අභාවය නිමිත්තෙන් දකුණු පළාත් ආන්ඩුකාරවර ආචාර්ය විලී ගමගේ මහතා විසින් අද ( 01දා) දින දකුණු පළාත තුළ ශෝක දිනයක් ලෙස ප්‍රකාශයට පත් කර ඇත.
+Dr. Willie Gamage, the former Minister of Finance Ronn Dene dean de Mel, was declared a mourning day in the Southern Province today (01).
 
-ඒ අනුව අද  දින දකුණු පළාතේ සියලුම රාජ්‍ය ආයතනවල ජාතික කොඩිය අඩකුඹුකර තබන්නැයි  ආන්ඩුකාර කාර්යාලය දන්වා සිටී.
+Accordingly, the Governor's Office has been informed to didate the National Flag of all government institutions in the Southern Province today.
 
 ◼️
 
 [Data](articles/5c50681c.json)
+
+[Extended Data](ext_articles/5c50681c.ext.json)
 
 ---
 
@@ -1849,67 +1907,5 @@ Sri Lanka had welcomed 191,000 tourists up to February 25, compared to 107,639 i
 [Data](articles/a874d13c.json)
 
 [Extended Data](ext_articles/a874d13c.ext.json)
-
----
-
-### Maithri's quarters to Maithri's official residence is powerless
-
-*2024-02-29 17:56:16* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-නිල-නිවෙසක්-දෙන්න-මෛත්‍රීගේම-කැබෙනෙට්ටුව-ගත්-තීරණය-බල-රහිතකරයි/11-408358) · `si`
-
-The Supreme Court, who had decided to mark the home of Maithripala Sirisena while he was working on the president, the decision of the Cabinet of Ministers had taken place after his retirement.
-
-The order was issued by the CPA and published a fundamental rights petition filed by the CPA.
-
-The decision has been announced by Supreme Court Judge Priyantha Jayawardena with the agreel of Supreme Court Judge Gamini Amarasekera and Kumuduni Wickremasinghe.
-
-◼️
-
-[Data](articles/76fd1b28.json)
-
-[Extended Data](ext_articles/76fd1b28.ext.json)
-
----
-
-### The DMK will act in the interest of the people of the plantation
-
-*2024-02-29 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177616) · `ta`
-
-I expect the Tamil Progressive Alliance to make a better political decision for the welfare of the plantation people. We worked together in the last presidential election and general election. Patali Champika Ranawaka, the leader of the United Republic Front and Member of Parliament, said that there was no complication of continuing work.
-
-A discussion between the Tamil Progressive Alliance and the United Republic Front took place on Thursday (29) at the residence of Mano Ganesan, leader of the Tamil Progressive Alliance in Bamankada, Colombo.. After this discussion, he commented to the media.
-
-We have published the idea of trying to unite for the country on the 14th. Our main goal is to form a human coalition.
-
-During the discussion, fellow MPs, including friend Mano Ganesan, presented the ideas on the basic issues faced by plantation people.. We will announce our favorable position on those ideas.
-
-...
-
-[Data](articles/437c6141.json)
-
-[Extended Data](ext_articles/437c6141.ext.json)
-
----
-
-### President solutions to the village of Grama Niladhari
-
-*2024-02-29 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193969) · `si`
-
-All Grama Niladharis in the Wilgamuwa Divisional Secretariat area has stated to the President that he will provide his support for the government program.
-
-At a meeting held at the Wilgamuwa Divisional Secretariat in Matale today (29th).
-
-President Ranil Wickremesinghe had joined the investigation into the implementation of the relief and heritage programs.
-
-Meanwhile, the President presented issues of the Grama Niladhari and in writing of the Grama Niladhari of the Wilgamuwa Divisional Secretariat.
-
-President Ranil Wickremesinghe addressed the problems of those issues at the same time.
-
-Despite the difficulties, the President also thanked the public to the Grama Niladhari.
-
-◼️
-
-[Data](articles/64ff8062.json)
-
-[Extended Data](ext_articles/64ff8062.ext.json)
 
 ---

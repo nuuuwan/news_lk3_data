@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 18:20:17**
+As of **2024-03-01 18:33:06**
 
 ## Newspaper Stats
 
-*Scraped **10,276** Articles*
+*Scraped **10,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,93 @@ colombotelegraphcom | 99
 bbccomsinhala | 124
 dbsjeyarajcom | 168
 newsfirstlk | 363
-economynextcom | 528
+economynextcom | 542
 dailyftlk | 542
 islandlk | 544
 adalk | 874
 adaderanalk | 1,248
-tamilmirrorlk | 1,253
-virakesarilk | 1,398
-dailymirrorlk | 1,560
-adaderanasinhalalk | 1,575
+tamilmirrorlk | 1,254
+virakesarilk | 1,400
+dailymirrorlk | 1,561
+adaderanasinhalalk | 1,578
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,271 (100.0%) of 10,276 articles have been extended.
+10,276 (99.8%) of 10,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Dickwella replaces Kusal in SL T20 Squad
+
+*2024-03-01 17:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dickwella-replaces-Kusal-in-SL-T20-Squad/108-278046) · `en`
+
+Mar. 1 (SLC Media Release) - The Cricket Selection Committee of Sri Lanka Cricket has named Niroshan Dickwella as a replacement for Kusal Janith Perera for the Twenty20 International (T20I) Series against Bangladesh, which begins on Monday in Sylhet.
+
+Perera, who was included in the T20I Squad, will not take part in the series as he is suffering from a respiratory infection. Perera did not join the team, which left for Bangladesh on Thursday.
+
+Dickwella will join the team tomorrow, ahead of the first match, which will be played at the Sylhet International Cricket Stadium in Sylhet. The second and third T20Is on March 6 and 9 will also be played at the same venue.
+
+◼️
+
+[Data](articles/7ac71cf2.json)
+
+---
+
+### ඝානා පාර්ලිමේන්තුව අඳුරේ
+
+*2024-03-01 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194017) · `si`
+
+විදුලි බිල නොගෙවීම හේතුවෙන් ඝානා පාර්ලිමේන්තුවේ විදුලි බලය විසන්ධි කිරීමට එරට විදුලිබල සමාගම කටයුතු කර තිබේ.
+
+එසේ විදුලිබලය විසන්ධි කර ඇත්තේ, ඩොලර් මිලියන 1.8ක් නොගෙවීම හේතුවෙන් බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+විදුලිබලය විසන්ධි කර ඇත්තේ එරට ජනාධිපතිවරයා පසුගියදා පාර්ලිමේන්තුවේදී සිදුකළ ප්‍රතිපත්ති ප්‍රකාශය සම්බන්ධයෙන් විවාදය පැවැත්වෙන අතරතුර වීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/745cce39.json)
+
+---
+
+### විභාග දෙපාර්තමේන්තුවෙන් දැනුම්දීමක්
+
+*2024-03-01 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194016) · `si`
+
+2024 වර්ෂය තුළ පැවැත්වීමට නියමිත පාසල් විභාග හා ඒවා පැවැත්වෙන දිනයන් විභාග දෙපාර්තමේන්තුව විසින් ප්‍රකාශයට පත්කර තිබේ.
+
+ඒ අනුව 2023 වර්ෂයට අදාළව පැවැත්වීමට නියමිතව තිබූ අපොස සාමාන්‍ය පෙළ විභාගය 2024 මැයි 6 වනදා සිට මැයි 15 දක්වා පැවැත්වේ.
+
+2024 වර්ෂයට අදාළ 5 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගය 2024 සැප්තැම්බර් 15 වන ඉරිදා පැවැත්වේ.
+
+2024 අපොස උසස් පෙළ විභාගය 2024 නොවැම්බර් මස 25 සිට 2024 දෙසැම්බර් මස 20 දක්වා පැවැත්වෙන බව විභාග කොමසාරිස් අමිත් ජයසුන්දර මහතා නිවේදනය කරයි.
+
+මේ අතර 2024 වර්ෂයට අයත් අපොස සාමාන්‍ය පෙළ විභාගය පැවැත්වීමට යෝජිත දිනයන් ඉදිරියේ දී දැනුම්දෙනු ලැබේ.
+
+◼️
+
+[Data](articles/332358f1.json)
+
+---
+
+### இந்து சமுத்திரத்திற்குள் நாட்டின் பொருளாதாரத் திட்டங்களுக்குப் பாதிப்பு ஏற்பட இடமளியோம் - ஜனாதிபதி
+
+*2024-03-01 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177701) · `ta`
+
+இலங்கையின் கடல் பிராந்தியத்தையும் இந்து சமுத்திரப் பிராந்தியத்தையும் பாதுகாக்கும் பொறுப்பு இலங்கை கடற்படைக்கு வழங்கப்பட்டுள்ளதாகத் தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, இந்து சமுத்திரத்தித்தில் நாட்டின் பொருளாதாரத் திட்டங்களுக்கு பாதிப்பை ஏற்படுத்த இடமளியோம் என்றும் சூளுரைத்தார்.
+
+1967 இஸ்ரேல் - அரபு யுத்தத்தின் போது சுயஸ் கால்வாய் மூடப்பட்டதன் காரணமாக 10 வருடங்களாக கொழும்பு துறைமுகத்தின் செயற்பாடுகள் தடைப்பட்டிருந்ததை நினைவுகூர்ந்த ஜனாதிபதி, இந்நாட்டு துறைமுகங்களின் பெறுமதியை பேணுவதற்காக சுயஸ் கால்வாய் மற்றும் செங்கடலின் பாதுகாப்பை உறுதிப்படுத்த வேண்டியதன் அவசியத்தையும் வலியுறுத்தினார்.
+
+திருகோணமலை கடற்படை முகாமில் வெள்ளிக்கிழமை (01) இடம்பெற்ற இலங்கை கடற்படையின் விசேட கப்பல் படையணிக்கு ஜனாதிபதி வர்ணங்கள் வழங்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/48bda375.json)
+
+---
 
 ### Etihad Airways boosts flight frequency to Colombo
 
@@ -48,6 +116,22 @@ The enhancement of flight operations by the airline is part of Etihad’s ambiti
 
 [Data](articles/ed143557.json)
 
+[Extended Data](ext_articles/ed143557.ext.json)
+
+---
+
+### කුසල් ජනිත් වෙනුවට නිරෝෂන් දික්වැල්ල
+
+*2024-03-01 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194015) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වීමට නියමිත 20-20 තරගාවලිය සඳහා නම් කළ ශ්‍රී ලංකා සංචිතයට නිරෝෂන් දික්වැල්ලව නම් කර තිබේ.
+
+කුසල් ජනිත් පෙරේරා ශ්වසන ආබාධයකින් පෙළෙන අතර, ඔහු ඊයේ (29) බංග්ලාදේශය බලා පිටත් ව ගිය කණ්ඩායමට එක් නොවුණු බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/f319edc1.json)
+
 ---
 
 ### UNFPA and Japan donate $2.1 Mn worth of medical supplies to Sri Lanka
@@ -63,6 +147,64 @@ This initiative, totaling USD 4.6 million, has been funded by the Government of 
 ...
 
 [Data](articles/dae46f83.json)
+
+[Extended Data](ext_articles/dae46f83.ext.json)
+
+---
+
+### Sri Lanka eyes SOE law by May 2024 for better governance
+
+*2024-03-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-soe-law-by-may-2024-for-better-governance-152736/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to pass a Public Commercial Business (PCB) Act improve governance of state-owned enterprise by May 2024 as part of an anti-corruption efforts following an International Monetary Fund assessment.
+
+Sri Lanka’s state enterprises have been used by politicians to give ‘jobs of the boys’, appropriate vehicles for personal use, fill board of directors and key positions with henchmen and relatives, according to critics.
+
+Meanwhile macro-economists working for the state also used them to give off-budget subsides or made energy utilities in particular borrow through supplier’s credits and state banks after forex shortages are triggered through inflationary rate cuts.
+
+The government has taken billons of dollars of loans given to Ceylon Petroleum Corporation from state banks.
+
+There have also been high profile procurement scandals connected to SOEs.
+
+An SOE Reform Policy was approved by Sri Lanka’s cabinet of ministers in May 2023.
+
+...
+
+[Data](articles/7d1c49f8.json)
+
+---
+
+### சிங்களவர்களுக்கும் இலங்கைத் தமிழர்களுக்கும் இடையில் உள்ள மரபணு நெருக்கம்
+
+*2024-03-01 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177697) · `ta`
+
+தெற்காசியாவில் வேறு எந்த இனக் குழுமங்களுக்கும் இடையில் இத்தகைய நெருக்கம் கிடையாது என்று ஆய்வில் கண்டுபிடிப்பு
+
+பி.ரி.ஐ. (புதுடில்லி ) இலங்கையின் இரு பெரிய இனக்குழுமங்களான சிங்களவர்களுக்கும் இலங்கைத் தமிழர்களுக்கும் இடையில் இருக்கும் மரபணு ஒப்புடைமை தெற்காசியாவில் வேறு எந்த இனக்குழுமங்களுக்கும் இடையில் இருக்கக்கூடிய மரபணு ஒப்புடைமையை விடவும் மிகவும் நெருக்கமானது ஆய்வொன்றின் மூலம் கண்டறியப்பட்டிருக்கிறது.
+
+இலங்கையையும் இந்தியாவையும் சேர்ந்த மரபணு விஞ்ஞானிகளினால் கூட்டாக மேற்கொள்ளப்பட்ட ஆய்வின் முடிவுகள் 'ஐ சயனஸ் ' (i Science)என்ற சஞ்சிகையில் கடந்த வாரம் வெளியிடப்பட்டன. அந்த முடிவுகள் இலங்கையின் இனக்குழுமங்களின் தோற்றுவாய்களையும் அவற்றுக்கு இடையிலான சமூக ஊடாட்டங்களையும் தெளிவுபடுத்துகிறது.
+
+குறிப்பிடத்தக்க கலாசார மற்றும் மொழியியல் வேறுபாடுகள் இருக்கின்ற போதிலும் சிங்களவர்களும் இலங்கைத் தமிழர்களும் கடந்த காலத்தில் பல நூற்றாண்டுகளாக கலந்து வாழ்ந்திருப்பதன் விளைவாக அவர்களுக்கிடையில் மரபணு ஒப்புடைமை ஏற்பட்டது என்று ஆய்வாளர்கள் கூறியிருக்கிறார்கள்.
+
+...
+
+[Data](articles/9f92c25f.json)
+
+---
+
+### ’’இந்து சமுத்திரத்திற்குள்  பாதிப்பு ஏற்பட இடமளியோம்’’
+
+*2024-03-01 17:19:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்து-சமுத்திரத்திற்குள்-பாதிப்பு-ஏற்பட-இடமளியோம்/175-334055) · `ta`
+
+இலங்கையின் கடல் பிராந்தியத்தையும் இந்து சமுத்திரப் பிராந்தியத்தையும் பாதுகாக்கும் பொறுப்பு இலங்கை கடற்படைக்கு வழங்கப்பட்டுள்ளதாகத் தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, இந்து சமுத்திரத்தித்தில் நாட்டின் பொருளாதாரத் திட்டங்களுக்கு பாதிப்பை ஏற்படுத்த இடமளியோம் என்றும் சூளுரைத்தார்.
+
+1967 இஸ்ரேல் - அரபு யுத்தத்தின் போது சுயஸ் கால்வாய் மூடப்பட்டதன் காரணமாக 10 வருடங்களாக கொழும்பு துறைமுகத்தின் செயற்பாடுகள் தடைப்பட்டிருந்ததை நினைவுகூர்ந்த ஜனாதிபதி, இந்நாட்டு துறைமுகங்களின் பெறுமதியை பேணுவதற்காக சுயஸ் கால்வாய் மற்றும் செங்கடலின் பாதுகாப்பை உறுதிப்படுத்த வேண்டியதன் அவசியத்தையும் வலியுறுத்தினார்.
+
+திருகோணமலை கடற்படை முகாமில் இன்று (01) இடம்பெற்ற இலங்கை கடற்படையின் விசேட கப்பல் படையணிக்கு ஜனாதிபதி வர்ணங்கள் வழங்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/201cd198.json)
 
 ---
 
@@ -100,6 +242,8 @@ In a letter to the Prime Minister on Friday, March 1, 2024, the Chief Minister s
 
 [Data](articles/3fe6031d.json)
 
+[Extended Data](ext_articles/3fe6031d.ext.json)
+
 ---
 
 ### Sapugaskanda who close to July
@@ -122,6 +266,30 @@ The Sapugaskanda fuel refinery is expected to have a maximum and reliable activi
 
 ---
 
+### Sri Lanka rupee closes at 308.80/90 to the US dollar
+
+*2024-03-01 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-308-80-90-to-the-us-dollar-152732/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 308.80/90 to the US dollar Friday, from 309.50/70 on Thursday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.65/75 percent up from 10.50/70 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.05 percent from 11.90/12.10 percent.
+
+A bond maturing on 01.07.2028 closed at 12.15/35 percent down from 12.20/25 percent.
+
+A bond maturing on 15.07.2029 closed at 12.25/40 percent up from 12.30/45 percent.
+
+A bond maturing on 15.05.2030 closed at 12.30/45 percent down from 12.35/50 percent.
+
+A bond maturing on 01.07.2032 closed at 12.50/13.00 percent from 12.55/13.00 percent. (Colombo/Mar1/2024)
+
+◼️
+
+[Data](articles/c6eca166.json)
+
+---
+
 ### Saharan’s brother-in-law arrested
 
 *2024-03-01 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Saharans-brother-in-law-arrested/108-278044) · `en`
@@ -138,6 +306,26 @@ A police team under OIC Kaththankudi IP Gajanayaka carried out the raid on the i
 
 [Data](articles/09762157.json)
 
+[Extended Data](ext_articles/09762157.ext.json)
+
+---
+
+### Sri Lanka stocks close up 0.37-pct, Expo to de-list
+
+*2024-03-01 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-37-pct-expo-to-de-list-152728/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up 0.37 percent on Friday, and SG Holdings, the parent company of Expolanka Holdings Plc, said it was taking the company private.
+
+Expolanka is the largest listed company on the Colombo Stock Exchange.
+
+“Expolanka Holdings PLC has, at the Board Meeting held on 1st March 2024, considered a request from its principal shareholder and resolved to initiate the de-listing of the Company’s shares from the Official List of the Colombo Stock Exchange subject to obtaining necessary shareholder approval and regulatory approvals,” the company said in a stock exchange filing.
+
+As per arrangements with SG Holdings Global Pte Ltd, the Company’s majority shareholder, it will purchase its shares from shareholders who may wish to divest their shareholding in the Company at a purchase price of Rs 185.00 per share. The share closed up at 150.50.
+
+...
+
+[Data](articles/4658697e.json)
+
 ---
 
 ### Former commanding officer Ratnapriya Bandu joins SJB
@@ -151,6 +339,32 @@ Party leader Sajith Premadasa appointed him as the head of the SJB committee on 
 ◼️
 
 [Data](articles/9a4fd61a.json)
+
+[Extended Data](ext_articles/9a4fd61a.ext.json)
+
+---
+
+### Sri Lanka to cut Rs200 import tax on dates for Ramazan
+
+*2024-03-01 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-cut-rs200-import-tax-on-dates-for-ramazan-152720/) · `en`
+
+ECONOMYNEXT – Sri Lanka will cut a 200 rupees a kilogram tax on imported dates to one rupee in the next one or two days, State Minister for Finance Ranjith Siyambalapitiya said.
+
+The so-called special commodity levy will be for the Ramazan period, he said in a statement.
+
+Sri Lanka usually cuts or raise import duties without prior warning through mid-night gazette leading to corruption, and also undermining parliamentary control of public finances, critics have said.
+
+The government announced an action plan to reduce corruption and undertook to ‘eliminate or restrict’ tax cuts by minister’s as part of efforts to improve governance.
+
+Dates are an important part of the food of Sri Lanka’s Muslim community who break fast during the Ramazan period.
+
+Dried dates are imported to Sri Lanka from the Middle East to make cake and other sweets also during the rest of the year.
+
+Standard quality dried dates now retail for a little under 1000 rupees a kilogram.
+
+◼️
+
+[Data](articles/5a5a1475.json)
 
 ---
 
@@ -193,6 +407,26 @@ Wednesday on Wednesday, March 6 am - 10.00 am - 10:00 am
 [Data](articles/337d954f.json)
 
 [Extended Data](ext_articles/337d954f.ext.json)
+
+---
+
+### Sri Lanka should focus on alternative crops: Minister
+
+*2024-03-01 16:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-focus-on-alternative-crops-minister-152719/) · `en`
+
+ECONOMYNEXT – Sri Lanka needs to shift to growing alternative crops instead of having a sole focus on paddy cultivation, the country’s Minister of Agriculture has said.
+
+Due to years of protection, Sri Lanka does not produce export competitive, globally traded grades of rice like in East Asia.
+
+“We need to focus on alternative crops such as maize, green gram and undu,” Minister of Agriculture, Mahinda Amaraweera said at a press briefing on Friday.
+
+Sri Lanka has imposed import controls and high taxes on several grains including undu (vigna mungu), which give unfair profits to domestic producers, and has led to smuggling and high prices.
+
+After Sri Lanka’s foreign exchange crisis in 2022, the Agriculture Ministry has been trying to shift growers’ focus to exportable crops.
+
+...
+
+[Data](articles/826042ba.json)
 
 ---
 
@@ -341,6 +575,28 @@ Until the documents were available, the body was placed on the airport's cargo t
 [Data](articles/1268382c.json)
 
 [Extended Data](ext_articles/1268382c.ext.json)
+
+---
+
+### Faux-revolutionaries want education in Sri Lanka to stagnate, oppose reforms: Sajith
+
+*2024-03-01 15:46:00* · [`economynextcom`](https://economynext.com/faux-revolutionaries-want-education-in-sri-lanka-to-stagnate-oppose-reforms-sajith-152715/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s revolutionaries, whose children study at international schools, oppose education reforms and scuttle any attempt at reforms by taking to the streets, opposition leader Sajith Premadasa said.
+
+“There is one group that is opposed to education reforms. These are revolutionaries who recently became ‘modern’. They say free education need not be modernised. They say Sri Lanka’s stagnating education must continue the way it is,” Premadasa said speaking at an event.
+
+“Every time something new is being attempted, what do they do? They take to the streets. They go on paada yatras and hold protests.
+
+“But did you know? The children of these big revolutionaries study at international schools,” the leader of the main opposition Samagi Jana Balawegaya (SJB) said.
+
+Acknowledging that disparity in education is a real problem in Sri Lanka, Premadasa said that measures must be taken to address it.
+
+“An SJB government will be dedicated to achieving that change,” he said.
+
+...
+
+[Data](articles/0994d397.json)
 
 ---
 
@@ -528,6 +784,22 @@ Highlighting Sri Lanka’s historical commitment to safeguarding world peace and
 
 ---
 
+### India funds electricity project in Sri Lanka’s northern islands
+
+*2024-03-01 14:47:00* · [`economynextcom`](https://economynext.com/india-funds-electricity-project-in-sri-lankas-northern-islands-152707/) · `en`
+
+ECONOMYNEXT – Sri Lanka and India signed an agreement for the development of a hybrid renewable energy system in three islands in Jaffna, today, the Minister of Power and Energy said.
+
+“Under a full financial grant of USD 10.995 million extended by the Government of the Republic of India, Delft, Analativu and Nainativu Islands will receive the hybrid renewable energy system by March 2025” Kanchana Wijesekera said on x (twitter).
+
+The project comprising 530kw wind power, 1,700kw solar power, 2,400kwh battery power and a 2,500kw of stand-by diesel power system, will be constructed on the three northern islands by USOLAR, Wijesekera said. (Colombo/Mar1/2024)
+
+◼️
+
+[Data](articles/4cef5e10.json)
+
+---
+
 ### Santhan's boutique was brought
 
 *2024-03-01 14:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-பூதவுடல்-கொண்டுவரப்பட்டது/175-334050) · `ta`
@@ -642,6 +914,24 @@ As well as the B.I.. He also said that the Pakistan Election Commission would gi
 
 ---
 
+### Sri Lanka Nawaloka Hospital gets court order to stop asset sale
+
+*2024-03-01 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-nawaloka-hospital-gets-court-order-to-stop-asset-sale-152689/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Nawaloka Hospital Plc, said the Court of Appeal had issued an interim order on February 28, preventing Hatton National Bank Plc from taking parate action against its subsidiary, Nawaloka Hospitals PLC.
+
+“New Nawaloka Medical Centre (Pvt) Ltd had filed action in the Commercial High Court on 17.05.2023 bearing Case No. CHC 118/23 MR requesting inter alia an Injunction against the proposed auction of the mortgaged property, i.e. part of the premises of the Nawaloka Hospital complex in Colombo 02, by Hatton National Bank PLC,” it said in a stock exchange filing.
+
+The Court refused the requested injunction on February 22, but the Court of Appeal had issued an interim order.
+
+“On 28.02.2024, the Court of Appeal in CA RII-0024-24 issued an Interim Order preventing inter alia Hatton National Bank PLC from auctioning the property and/or leasehold rights of the property in issue,” the healthcare provider said.
+
+...
+
+[Data](articles/9a6a6e40.json)
+
+---
+
 ### Plan to give electricity to three islands in Jaffna
 
 *2024-03-01 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194005) · `si`
@@ -730,6 +1020,24 @@ Taking to X (formerly Twitter) to announce this, Wijesekera expressed gratitude 
 
 ---
 
+### Sri Lanka will stand up for any economic rights comprised at Red Sea: president
+
+*2024-03-01 13:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-stand-up-for-any-economic-rights-comprised-at-red-sea-president-152671/) · `en`
+
+ECONOMYNEXT — Sri Lanka will stand up for its economic rights if they are compromised in the Red Sea, President Ranil Wickremesinghe said, offering continued support for the United Nations in “problems with peace” anywhere in the world.
+
+A statement from the president’s office said on Friday March 01 that Wickremesinghe, speaking at the Sri Lanka Air Force cadet officers commissioning ceremony on Thursday in Trincomalee, had highlighted Sri Lanka’s historical commitment to safeguarding world peace and regional stability.
+
+According to the statement, the president had emphasised his readiness to make decisive decisions for global peace. He had also underscored the responsibility and accountability of the armed forces in achieving this objective.
+
+“We cannot persist as an underdeveloped nation. It must be emphasized that fulfilling this responsibility will yield benefits for both you and your children.
+
+...
+
+[Data](articles/15161bb8.json)
+
+---
+
 ### Brother-in-law of Zahran arrested
 
 *2024-03-01 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97656/brother-in-law-of-zahran-arrested) · `en`
@@ -761,6 +1069,24 @@ Additional Secretary to the Ministry of Health Dr. Saman Ratnayake has arrived a
 [Data](articles/6a1aefaf.json)
 
 [Extended Data](ext_articles/6a1aefaf.ext.json)
+
+---
+
+### AKD maintains 50-pct lead in Sri Lanka presidential voting intent poll in January
+
+*2024-03-01 13:08:00* · [`economynextcom`](https://economynext.com/akd-maintains-50-pct-lead-in-sri-lanka-presidential-voting-intent-poll-in-january-152663/) · `en`
+
+ECONOMYNEXT — National People’s Power (NPP) leader Anura Kumara Dissanayake had support among 50 percent of all adults surveyed by the Institute for Health Policy (IHP) in December 2023 in a monthly voting intent poll for Sri Lanka’s upcoming presidential election.
+
+Support for Dissanayake had dropped just 1 percentage point since December 2023, according to the Institute for Health Policy (IHP)’s Sri Lanka Opinion Tracker Survey (SLOTS) MRP provisional estimates.
+
+Main opposition Samagi Jana Balawegaya leader Sajith Premadasa had the support of 36 percent (+2) of the adults surveyed, while both President Ranil Wickremesinghe and a generic Sri Lanka Podujana Peramuna (SLPP) had the support of 7 percent each.
+
+Dissanayake’s National People’s Power (NPP) continued to lead a separate general election voting intentions poll, also carried out by IHP, for January at 40 percent of adult voters surveyed supporting the party, with the SJB in second place at 30 percent.
+
+...
+
+[Data](articles/a214d877.json)
 
 ---
 
@@ -829,6 +1155,30 @@ Doctors examined the infant and found no injuries. However, the baby was later t
 [Data](articles/fe516f4a.json)
 
 [Extended Data](ext_articles/fe516f4a.ext.json)
+
+---
+
+### Sri Lanka eyes criminal asset recovery law by April under IMF program
+
+*2024-03-01 12:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-criminal-asset-recovery-law-by-april-under-imf-program-152661/) · `en`
+
+ECONOMYNEXT – Sri Lanka is expecting to pass a “proceeds of crime” law by April 2024 in line with according to an action plan giving effect to recommendation in a corruption diagnostic report by the International Monetary Fund.
+
+The asset recovery law will be in line with a United Nations Convention against Corruption and the international Financial Action Task Force, the statement said.
+
+Related Sri Lanka unveils action plan after IMF corruption report
+
+A key aspect of the Convention is the inclusion of a specific chapter on asset recovery, aimed at returning assets to their rightful owners, including countries from which they had been taken illicitly, according to the UN.
+
+•	A Report of the Committee to develop the Policy and Legal  Frameworkof the proposed Law on Proceeds of Crime will be submitted by end February
+
+•	Preparation of Final Draft by the Legal Draftsman by mid-March
+
+•	Issuance of Certificate of Constitutionality for the Final Draft by end March
+
+...
+
+[Data](articles/38824a36.json)
 
 ---
 
@@ -1018,6 +1368,24 @@ Asked whether Opposition Leader Sajith Premadasa did not lobby for the suspensio
 
 ---
 
+### Sri Lanka unveils action plan after IMF corruption report
+
+*2024-03-01 12:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-unveils-action-plan-after-imf-corruption-report-152597/) · `en`
+
+ECONOMYNEXT – Sri Lanka has published an action plan to combat corruption, which includes reforms to a bribery commission, public tendering, state enterprise governance and an asset recovery law, following a governance diagnostic report published as part of an International Monetary Fund program
+
+“At the request of Sri Lanka, a Governance Diagnostic Assessment (GDA) was concluded by the IMF and based on recommendations the Ministry of Finance has published the Government Action Plan on the 29th Feb 2024,” State Minister of Finance Shehan Semasinghe said on x (twitter).
+
+“This further demonstrates the government’s commitment to building a sustainable economy and good governance in the country,” Semasinghe said.
+
+The IMF’s Governance Diagnostics Assessment recommended implementing 16 directives. “A government action plan will inform next steps in the implementation of recommendations,” the IMF had said at the time.
+
+...
+
+[Data](articles/595ed2c3.json)
+
+---
+
 ### Central bank officials invite party leaders meeting
 
 *2024-03-01 12:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-தலைவர்கள்-கூட்டத்துக்கு-மத்திய-வங்கி-அதிகாரிகள்-அழைப்பு/175-334045) · `ta`
@@ -1119,6 +1487,28 @@ It has been decided at the Committee on Parliamentary Business (01).
 [Data](articles/c5146fbe.json)
 
 [Extended Data](ext_articles/c5146fbe.ext.json)
+
+---
+
+### Sri Lanka imports rise in Jan as tourism, remittances boost dollar incomes
+
+*2024-03-01 11:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-imports-rise-in-jan-as-tourism-remittances-boost-dollar-incomes-152591/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s imports rose to 1,512 million US dollars, in January 2023 even as exports faltered, official data shows as people got more dollars to spend from tourism.
+
+Exports fell to 0.8 percent from a year ago to 971 million US dollars in January 2024, but remittances grew to 488 million US dollars from 437 million.
+
+In December remittances were 570 million dollars. Sri Lanka also does not settle fuel imports made new players including Sinopec.
+
+The trade deficit expanded to 541 million US dollars from 445 million as non-Merchandise incomes were spent.
+
+Tourism receipts were estimated to have risen to 342 million US dollars in January from 154 million dollars last year. Outward tourism was estimated at 15 million dollars up from 13 last year.
+
+Computer and IT related incomes were 43 million US dollars down from 62 million last year, sea transport incomes were 54 million dollars and air passenger incomes were 29 million dollars.
+
+...
+
+[Data](articles/54e90c84.json)
 
 ---
 
@@ -1235,6 +1625,24 @@ From June 2021, Dikwella has not played a 20220 international competition.
 [Data](articles/77475d92.json)
 
 [Extended Data](ext_articles/77475d92.ext.json)
+
+---
+
+### Sri Lanka begins solar pilot project on plantation
+
+*2024-03-01 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-solar-pilot-project-on-plantation-152575/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s first ever semi transparent solar PV powered agrivoltaic pilot project was commissioned in Hanthana, Kandy on Thursday, the Minister of Power and Energy said.
+
+“The pilot project will assist The Ministry of Plantation Industries, Ministry of Power and Energy, CEB, Tea Small Holders Development Authority and Sustainable Energy Authority to study the development of renewable energy in tea plantations in the country,” Kanchana Wijesekera said on X (twitter).
+
+A photovoltaic (PV) cell is a non-mechanical device that converts sunlight directly into electricity. Sri Lanka’s current energy sector development strategy seeks to increase energy generated from renewables such as wind and solar.
+
+Critics have pointed out that Sri Lanka is paying higher rates to renewable power developers than neighboring India. Wijesekera has said this was due to several reasons including a risk premium after a sovereign default.
+
+...
+
+[Data](articles/7d128084.json)
 
 ---
 
@@ -1577,435 +1985,5 @@ A group of police officers Rithimaliyetta have arrested the couple on suspicion 
 [Data](articles/276b9143.json)
 
 [Extended Data](ext_articles/276b9143.ext.json)
-
----
-
-### Shooter
-
-*2024-03-01 10:06:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுக்கையில்-துப்பாக்கிச்-சூடு/175-334038) · `ta`
-
-Padukku police said that a man had fired at a house in Madulawa area today (01).
-
-Some people from the Piliyandala area were temporarily staying in the house that was targeted for the shooting.
-
-Police said that the team was staying at the house to attend the foundation stone laying ceremony for the construction of a house in another land near the house.
-
-When the people in their home were sleeping, the people who were panicked because of a sudden shooting, came to the kitchen of the house and informed the police emergency number.
-
-◼️
-
-[Data](articles/fbeced54.json)
-
-[Extended Data](ext_articles/fbeced54.ext.json)
-
----
-
-### First ever semi-transparent solar PV pilot project commissioned
-
-*2024-03-01 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-ever-semi-transparent-solar-PV-pilot-project-commissioned/108-278023) · `en`
-
-Colombo, March (Daily Mirror) - Sri Lanka’s first ever semi-transparent solar PV-powered agrivoltaic pilot project was commissioned at Hanthana in Kandy.
-
-Power and Energy Minister Kanchana Wijesekera said the project was funded by the Asian Development Bank (ADB).
-
-He said the pilot project will assist the Plantation Industries Ministry, Power & Energy Ministry, the Ceylon Electricity Board (CEB), Tea Small Holders Development Authority and Sustainable Energy Authority to study the development of renewable energy in tea plantations in the country.
-
-◼️
-
-[Data](articles/d64f873f.json)
-
-[Extended Data](ext_articles/d64f873f.ext.json)
-
----
-
-### First ever semi-transparent solar PV pilot project commissioned
-
-*2024-03-01 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/First-ever-semi-transparent-solar-PV-pilot-project-commissioned/155-278023) · `en`
-
-Colombo, March (Daily Mirror) - Sri Lanka’s first ever semi-transparent solar PV-powered agrivoltaic pilot project was commissioned at Hanthana in Kandy.
-
-Power and Energy Minister Kanchana Wijesekera said the project was funded by the Asian Development Bank (ADB).
-
-He said the pilot project will assist the Plantation Industries Ministry, Power & Energy Ministry, the Ceylon Electricity Board (CEB), Tea Small Holders Development Authority and Sustainable Energy Authority to study the development of renewable energy in tea plantations in the country.
-
-◼️
-
-[Data](articles/e0e5f56e.json)
-
-[Extended Data](ext_articles/e0e5f56e.ext.json)
-
----
-
-### Fire in Bangladesh: 43 killed
-
-*2024-03-01 09:56:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-தீ-43-பேர்-பலி/50-334037) · `ta`
-
-43 people were killed in a fire at a 6 -based business complex in Bangladesh. Many are fighting for life with injuries.
-
-A fire broke out yesterday (Thursday) at a 6 -based commercial complex in Dhaka, Bangladesh's capital, Dhaka.. More than 40 people died. Many people are undergoing treatment at the hospital in critical condition.
-
-Health Minister Dr. Samantha Lal Sen met with reporters this morning (Friday). He said, “A fire broke out at a restaurant in the building at 9.50 pm last night (Thursday night).. It spread to subsequent sites. There were restaurants and cloth shops on the top floor. Thus the fire spread more easily.
-
-...
-
-[Data](articles/db2444d5.json)
-
-[Extended Data](ext_articles/db2444d5.ext.json)
-
----
-
-### Toping down fire in Panadura
-
-*2024-03-01 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193991) · `si`
-
-It was completely destroyed by a fire at a fire production factory in Samagi Mawatha, Panadura.
-
-The fire had erupted at a paint production factory in Samagi Mawatha, Panadura yesterday (29).
-
-The fire brigade of the Moratuwa Municipal Council has been suppressed.
-
-No evaluation of the damage caused by the fire, but the fire is conducting investigations.
-
-◼️
-
-[Data](articles/7328dd0d.json)
-
-[Extended Data](ext_articles/7328dd0d.ext.json)
-
----
-
-### More than 40 people killed in a restaurant in Bangladesh capital
-
-*2024-03-01 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177638) · `ta`
-
-Fails caused by a rapidly spreading fire in a food seat in the capital, Dhaka,
-
-Officials said that the fire had been brought under control after a two -hour struggle.
-
-Officials said that the gas cylinders were found on each site of the building, causing the building to be very dangerous.
-
-◼️
-
-[Data](articles/3afed321.json)
-
-[Extended Data](ext_articles/3afed321.ext.json)
-
----
-
-### Sri Lanka rupee opens at 309.05/15 to the US dollar
-
-*2024-03-01 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-309-05-15-to-the-us-dollar-152571/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 309.05/15 to the US dollar Friday, from 309.50/70 on Thursday, dealers said.
-
-A bond maturing on 01.08.2026 was quoted at 10.90/11.05 percent from 10.90/11.00 percent Thursday.
-
-A bond maturing on 15.09.2027 was quoted at 11.90/12.05 percent from 11.90/12.10 percent.
-
-A bond maturing on 01.07.2028 was quoted at 12.15/30 percent from 12.20/25 percent.
-
-The Colombo Stock Exchange opened up; The All Share was up 0.18 percent at 10,670, and the S&P SL20 was up 0.15 percent at 3,052. (Colombo/Mar1/2024)
-
-◼️
-
-[Data](articles/28e85ac2.json)
-
-[Extended Data](ext_articles/28e85ac2.ext.json)
-
----
-
-### No fuel price revision for March?
-
-*2024-03-01 09:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-fuel-price-revision-for-March/108-278018) · `en`
-
-Colombo, March 1 (Daily Mirror) - Despite decreasing fuel prices in the world market and the appreciation of the Sri Lankan rupee against the US dollar, fuel prices in Sri Lanka will not be revised for this month.
-
-Ceylon Petroleum Corporation (CPC) sources said that they had decided to continue with the fuel prices announced for last month.
-
-Meanwhile, internal sources from Lanka IOC and Sinopec Fuel Oil Sales Company Ltd. said the Ministry has not informed them about a fuel price revision for this month.
-
-◼️
-
-[Data](articles/86aec77f.json)
-
-[Extended Data](ext_articles/86aec77f.ext.json)
-
----
-
-### Eman to the sister who loaded the sister
-
-*2024-03-01 09:37:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/சகோதரியை-ஏற்றி-வந்த-வான்-சகோதனுக்கு-எமனானது/74-334036) · `ta`
-
-The body of a boy who died after a van carrying school children has been handed over to the family.
-
-The boy, who was playing in the courtyard of a house in the Ampara district, was playing on the road yesterday.
-
-In the meantime, a boy who was injured when a van crashed into the school, was taken to Kalmunai Resource Hospital for treatment.
-
-The deceased is said to be a 4 -year -old respected Aruna Harshan from the Vishnu Vidyalaya Road, the deceased.
-
-Eyewitnesses stated that the boy's sister had been hit by the boy during the accident and had crashed into one side chest.
-
-Further investigations are being carried out by the major Nilawana police and the body of the body of the Kalamunai Resource Hospital has been handed over to relatives after the death investigation.. Remble
-
-◼️
-
-[Data](articles/6ab94e74.json)
-
-[Extended Data](ext_articles/6ab94e74.ext.json)
-
----
-
-### Rajiv Gandhi assassination: Indian court directs to expedite sending Santhan’s body to Sri Lanka
-
-*2024-03-01 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97645/rajiv-gandhi-assassination-indian-court-directs-to-expedite-sending-santhans-body-to-sri-lanka) · `en`
-
-India’s Madras High Court on Thursday directed the Tamil Nadu government to appoint senior Indian Administrative Service (IAS) officer and Indian Police Service (IPS) officer to speed up sending the mortal remains of freed Rajiv Gandhi assassination convict Santhan alias T. Suthenthiraraja to Sri Lanka.
-
-A division bench of Justice R. Suresh Kumar and Justice K. Kumaresh Babu passed the order on a plea moved by Santhan seeking a direction to the Indian government to take immediate steps to deport him to Sri Lanka.
-
-When the plea came up for hearing, the court wondered why Santhan was not deported immediately to Sri Lanka though necessary approvals were issued by the Sri Lankan high commission.
-
-To this, state public prosecutor Hasan Mohamed Jinnah informed the court that the state planned to send Santhan to Sri Lanka on Feb 27 using an air ambulance, but his health condition deteriorated and he passed away on Feb 28.
-
-...
-
-[Data](articles/c03e2139.json)
-
-[Extended Data](ext_articles/c03e2139.ext.json)
-
----
-
-### A gang abducted caught
-
-*2024-03-01 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193990) · `si`
-
-Five suspects have been arrested by the police.
-
-Police said these investigations were launched in a complaint lodged with a complaint regarding a complaint received by Alawatugoda town yesterday.
-
-The suspects were injured in the abducted person abused and injured and suspicion of acquisition of Rs.
-
-The suspects are residents of Akurana area aged to 22 and 62 years.
-
-◼️
-
-[Data](articles/30c4430e.json)
-
-[Extended Data](ext_articles/30c4430e.ext.json)
-
----
-
-### Correction in fuel prices?
-
-*2024-03-01 09:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எரிபொருள்-விலையில்-திருத்தம்/150-334035) · `ta`
-
-The government has decided to maintain the existing fuel prices until March.
-
-According to the monthly fuel prices, the prices must be revised since midnight yesterday (29).
-
-Accordingly, the Ceylon Petroleum Corporation has decided to sell fuel for the existing price without any prices this month.
-
-Similarly, Lanka IOC and Sinopac have not yet issued a formal announcement regarding the monthly price revision. Remble
-
-◼️
-
-[Data](articles/959cc498.json)
-
-[Extended Data](ext_articles/959cc498.ext.json)
-
----
-
-### Mahanayaka Thera, who came down in action
-
-*2024-03-01 09:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடியில்-இறங்கிய-மகாநாயக்க-தேரர்கள்/175-334034) · `ta`
-
-Mahanayaka Thera has been trying to rescue Sri Lankans who are in the grip of terrorists in Myanmar.
-
-According to Parliamentarian Vasantha Yapa Bandara, a Mahajar prepared by the Sri Lankan Mahanayaka Thera will be sent to the Myanmar Mahanayaka Thera.
-
-He said that the Myanmar government would intervene to solve the issue through the Myanmar Mahanayaka Thera, according to the Mahajar.. Remble
-
-◼️
-
-[Data](articles/f27e25dd.json)
-
-[Extended Data](ext_articles/f27e25dd.ext.json)
-
----
-
-### Sri Lanka ratifies UN Convention on Int’l Settlement Agreements Resulting from Mediation
-
-*2024-03-01 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97644/sri-lanka-ratifies-un-convention-on-intl-settlement-agreements-resulting-from-mediation) · `en`
-
-With the deposit of the instrument of ratification at the UN Headquarters in New York, Sri Lanka has become the 14th State Party to the United Nations Convention on International Settlement Agreements Resulting from Mediation, also known as the “Singapore Convention on Mediation”.
-
-The ratification by Sri Lanka was effected on 28 February 2024, and the Convention will enter into force for Sri Lanka on 28 August 2024.
-
-The Singapore Convention on Mediation facilitates international trade and promotes mediation as an alternative and effective method of resolving commercial disputes by providing an effective mechanism for the enforcement of international settlement agreements resulting from mediation.
-
-The Convention is open for signature, ratification, and accession by States and regional economic integration organizations.
-
-...
-
-[Data](articles/4475797e.json)
-
-[Extended Data](ext_articles/4475797e.ext.json)
-
----
-
-### A group of suspects arrested
-
-*2024-03-01 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193989) · `si`
-
-Three suspects have been arrested in possession of five suspects required for motorcycle burning and fake numbers and motorbikes.
-
-The suspects are aged between 19 and 42 years old, police said.
-
-◼️
-
-[Data](articles/bc07a2c9.json)
-
-[Extended Data](ext_articles/bc07a2c9.ext.json)
-
----
-
-### Israeli-US intelligence agencies planning to enter the Lebanon
-
-*2024-03-01 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177608) · `ta`
-
-US officials are concerned among US officials about reports that Israel is planning to enter the ground in Lebanon in the late Spring or early summer if the diplomatic efforts to remove the Hezbollah organization from Israel are not successful.
-
-Senior officials of the United States have provided information that intelligence agencies can enter the Lebanon of Israel.
-
-One who received information from the intelligence unit said that Israel would begin its action at the beginning of summer.
-
-"We are acting on the basis that Israel can engage in military action in the coming months," an official of the Faidan administration said.
-
-He also said that there are all the opportunities for Israel to target Leban and carry out the ground attack.
-
-Thousands of Leban and Israeli have left their areas due to the day -to -day terrible clashes between Israel and Lebanon for several months.
-
-Israeli aircraft is carrying out unmanned attacks on the Hesbullah organization's targets.
-
-◼️
-
-[Data](articles/7a3dc7a8.json)
-
-[Extended Data](ext_articles/7a3dc7a8.ext.json)
-
----
-
-### Modi and Bill Gates talking about new work
-
-*2024-03-01 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193988) · `si`
-
-Bill Gates, the world's leading rich, has arrived in India.
-
-Indian media reports that he had found the leading politicians and businessmen.
-
-Indian Prime Minister Narendra Modi met Indian Prime Minister Narendra Modi.
-
-It is also reported that more attention is focused on the use of artificial intelligence for the benefit of the people.
-
-Narendra Modi has always been delighted to discuss the areas of the world around the world.
-
-◼️
-
-[Data](articles/81f601f2.json)
-
-[Extended Data](ext_articles/81f601f2.ext.json)
-
----
-
-### Youth dies after collision with train
-
-*2024-03-01 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193987) · `si`
-
-A 23-year-old youth has died of collision, police said.
-
-The accident occurred near the Ella railway station at night (29).
-
-The police have received information that the death was hit by a night mail train traveling from Badulla to Colombo.
-
-◼️
-
-[Data](articles/84b9bf18.json)
-
-[Extended Data](ext_articles/84b9bf18.ext.json)
-
----
-
-### 'If I was as a judge of the Court of Appeal, what a story about the common people?'
-
-*2024-03-01 08:30:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51l3ep24g0o) · `si`
-
-'If I was as a judge of the Court of Appeal, what a story about the common people?'
-
-The Court of Appeal Judge Mohammed Lafar said in the open court today (March 1).
-
-The judge was summoned by Sumathi Information Technology (Pvt) Ltd was called by a Rit petition filed against the Kollupitiya Police.
-
-The petition was called before Mohammed Lafar and Kamema Swarnadi's Court of Appeal.
-
-Judge Mohammad Laifar said:
-
-"One day I went for a walk. A policeman stopped me in Wellawatte area. Asked who. I had shown the identity card. Awaiting id and told me to tell me. Later, I sat at that place and called to the IGP. The IGP later called the officer. Later, the officer asked the IGP who are you?That. This is an institution to you who listen to you, even the IGP. Later told me to go. But I didn't go. Subsequently, the Superintendent of the Police in charge of the area and expressed the story about the incident. What about the common people if I was a judge of the Court of Appeal? "
-
-...
-
-[Data](articles/b0bf3804.json)
-
-[Extended Data](ext_articles/b0bf3804.ext.json)
-
----
-
-### Experts say NO to sweet food and beverages for infants
-
-*2024-03-01 08:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Experts-say-NO-to-sweet-food-and-beverages-for-infants/108-278004) · `en`
-
-Colombo, March 1 (Daily Mirror) - Health experts advise parents to avoid providing their children with sweet food and beverages before they turn two years as it could affect the baby’s development.
-
-Speaking to Daily Mirror, Dr. Deepal Perera, a Paediatrician at the Lady Ridgeway Children's Hospital in Colombo said sweet food is only recommended after infants turn two while prioritizing breast-feeding during the first six months.
-
-“Consumption of sugar-sweetened food and beverages is linked with increased risk of overweight or obesity,” Dr Perera stressed.
-
-“Added sugars are used in processed foods and beverages to sweeten, and differ from the natural sugars that are part of a piece of fruit or glass of milk,” he underscored.
-
-Thus, he reiterated the importance of prioritizing breastfeeding until children turn two.
-
-Meanwhile, the health expert cautioned people to avoid consuming food and beverages with added sugars in light of rising temperatures.
-
-...
-
-[Data](articles/bcff5107.json)
-
-[Extended Data](ext_articles/bcff5107.ext.json)
-
----
-
-### Bangladesh fire: At least 43 dead in Dhaka building blaze
-
-*2024-03-01 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Bangladesh-fire-At-least-43-dead-in-Dhaka-building-blaze/107-278005) · `en`
-
-Bangladesh, March 1 (BBC) - At least 43 people have been killed after a fire broke out in a multi-storey building in Bangladesh, the country's health minister says.
-
-According to local media, the blaze began in a restaurant at around 22:00 local time (16:00 GMT) on Thursday in the capital, Dhaka.
-
-Seventy-five people were rescued and dozens were brought to hospital.
-
-The fire was bought under control after two hours, according to fire officials, and the cause is being investigated.
-
-Bangladesh's Health Minister, Samanta Lal Sen, said that at least 33 people, including women and children, had been declared dead at the Dhaka Medical College Hospital.
-
-At least 10 others died at the city's main burns hospital. Twenty-two were in critical condition, Mr Sen said.
-
-The emergency services were called to the Kacchi Bhai restaurant which, according to the Daily Bangladesh newspaper, is in a building that has seven floors.
-
-...
-
-[Data](articles/0f1d5ed7.json)
-
-[Extended Data](ext_articles/0f1d5ed7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 00:32:58**
+As of **2024-03-02 00:47:53**
 
 ## Newspaper Stats
 
-*Scraped **10,343** Articles*
+*Scraped **10,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 542
 islandlk | 544
-dailyftlk | 548
+dailyftlk | 557
 adalk | 876
 adaderanalk | 1,255
 tamilmirrorlk | 1,257
@@ -26,11 +26,157 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,337 (99.9%) of 10,343 articles have been extended.
+10,342 (99.9%) of 10,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Sri Lanka, India hold Joint Working Group meeting for cooperation in power sector
+
+*2024-03-02 00:32:35* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-India-hold-Joint-Working-Group-meeting-for-cooperation-in-power-sector/56-759085) · `en`
+
+Power grid interconnection between India and Sri Lanka and the Sampur Solar Power project among projects discussed
+
+The fifth meeting of the India-Sri Lanka Joint Working Group (JWG) for cooperation in the power sector was held in Sri Lanka on 28 February.
+
+The meeting was co-chaired by Ministry of Power Secretary Pankaj Agarwal, from the Indian side and Ministry of Power and Energy Secretary Dr. Sulakshana Jayawardena from the Sri Lankan side. The High Commissioner of India to Sri Lanka Shri Santosh Jha also attended the meeting.
+
+The Indian delegation comprised officials from the Ministry of Power, Ministry of External Affairs, National Thermal Power Corporation (NTPC), Power Grid Corporation of India Ltd., Central Electricity Authority, Central Transmission Utility of India Ltd. and the High Commission of India in Colombo. The Sri Lankan delegation had members from the Ministry of Power and Energy, Ceylon Electricity Board (CEB) and Ministry of Foreign Affairs.
+
+...
+
+[Data](articles/d0d41f85.json)
+
+---
+
+### Ali Sabry addresses High-level Segment of the 55th Session of the UN Human Rights Council
+
+*2024-03-02 00:31:43* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-addresses-High-level-Segment-of-the-55thSession-of-the-UN-Human-Rights-Council/56-759084) · `en`
+
+Minister of Foreign Affairs, Ali Sabry urged the members of the UN Human Rights Council not to allow short-term political gains or “domestic vote bank politics” to overtake the work of the Council, when addressing the High-Level segment of the 55th Session of the Council through a pre-recorded video statement on 27 February.
+
+Minister Sabry highlighted that despite the severe constraints faced by the country, Sri Lanka continued to engage actively and constructively with an extensive array of helpful working methods of the Council, that are productive and beneficial to the people.
+
+The Foreign Minister reiterated Sri Lanka’s rejection of the HRC resolutions 46/1 and 51/1 and the external evidence gathering mechanism established by these resolutions, while emphasising that such mechanisms are counterproductive and unhelpful and contradict the founding principles of the Council.
+
+...
+
+[Data](articles/7bd050a9.json)
+
+---
+
+### Suwa Diviya to host ‘She Thrives’ online health forum
+
+*2024-03-02 00:31:07* · [`dailyftlk`](https://www.ft.lk/news/Suwa-Diviya-to-host-She-Thrives-online-health-forum/56-759083) · `en`
+
+Suwa Diviya will host ‘She Thrives’, an online health forum dedicated to celebrating women’s health and empowerment in honour of International Women’s Day.
+
+Scheduled for 9 March from 9:30 a.m. to 11 a.m. this virtual event promises to be a transformative experience for Sri Lankan women seeking to take charge of their well-being. Suwa Diviya is a dedicated non-profit organisation committed to raising awareness about diabetes, focusing on preventing and managing diabetes.
+
+‘She Thrives’ is not your ordinary health forum; it’s a dynamic platform designed to inspire and empower women on their unique health journeys. From addressing prevalent issues like diabetes to exploring holistic approaches to wellness, the forum aims to equip participants with the knowledge and tools they need to thrive.
+
+...
+
+[Data](articles/846033a4.json)
+
+---
+
+### UNFPA, Japan extend over $ 2.1 m support to Health Ministry
+
+*2024-03-02 00:30:52* · [`dailyftlk`](https://www.ft.lk/news/UNFPA-Japan-extend-over-2-1-m-support-to-Health-Ministry/56-759082) · `en`
+
+Hand over Health on Wheels and life-saving equipment and commodities
+
+UNFPA Asia Pacific Regional Director Pio Smith and Acting Ambassador of Japan Kotaro Katsuki yesterday ceremoniously handed over medical supplies to Health Minister Dr. Ramesh Pathirana.
+
+The medicines and medical equipment worth over than $ 2.1 million were donated under the project “ENSURE: Ensuring access to life-saving sexual and reproductive health and providing gender-based violence prevention and response services for women, girls and vulnerable groups”. This project, which is entirely worth $ 4.6 million, has been funded by the Government of Japan, as part of a response to the economic crisis in Sri Lanka and is aimed to support women in vulnerable communities.
+
+...
+
+[Data](articles/db119377.json)
+
+---
+
+### Capacity building program for Lankan civil servants at India’s National Centre for Good Governance
+
+*2024-03-02 00:30:10* · [`dailyftlk`](https://www.ft.lk/news/Capacity-building-program-for-Lankan-civil-servants-at-India-s-National-Centre-for-Good-Governance/56-759081) · `en`
+
+A two-week-long capacity building program for senior civil servants of Sri Lanka organised by the National Centre for Good Governance (NCGG) commenced on 28 February at Mussoorie.
+
+The program until 8 March is organised under the rubric of Indian Technical and Economic Cooperation Program (ITEC) of the Ministry of External Affairs (MEA), Government of India.
+
+It is being attended by 40 senior civil servant officers from Sri Lanka working under capacities as Directors, Deputy Directors, Municipal Secretaries, Divisional Secretaries, Assistant Divisional Secretaries, Deputy Commissioner, Deputy Land Commissioner, Provincial Directors, Assistant Chief Secretary, and Provincial Sports Director among others.
+
+...
+
+[Data](articles/e90ab605.json)
+
+---
+
+### Embassy of Sri Lanka in Indonesia holds virtual meeting to enhance bilateral trade and investment
+
+*2024-03-02 00:22:32* · [`dailyftlk`](https://www.ft.lk/business/Embassy-of-Sri-Lanka-in-Indonesia-holds-virtual-meeting-to-enhance-bilateral-trade-and-investment/34-759074) · `en`
+
+The Embassy of Sri Lanka in Jakarta facilitated a virtual meeting between the Ceylon Chamber of Commerce (CCC), Sri Lanka Indonesia Business Council (SLIBC) of CCC and the Indonesian Chamber of Commerce and Industry (KADIN) with the objective of fostering trade and investment between the two countries on 27 February.
+
+The virtual meeting served as a significant platform for fostering dialogue, exploring mutual interests, and strengthening bilateral economic cooperation between Sri Lanka and Indonesia.
+
+During the meeting, CCC Chairman Vish Govindasamy highlighted the commitment of Sri Lanka to foster deeper economic collaboration with Indonesia. He expressed the readiness of Sri Lanka to organise a visit of a business delegation to Indonesia, emphasising the country’s keen interest in exploring trade and investment opportunities.
+
+...
+
+[Data](articles/4a2b9891.json)
+
+---
+
+### Exclusive PickMe discounts for Seylan Accelerate Debit Cardholders
+
+*2024-03-02 00:21:52* · [`dailyftlk`](https://www.ft.lk/business/Exclusive-PickMe-discounts-for-Seylan-Accelerate-Debit-Cardholders/34-759073) · `en`
+
+Seylan Bank has entered a strategic partnership with PickMe, the leading ride-hailing and food delivery service in Sri Lanka, to introduce exclusive discounts for Seylan Accelerate Debit Cardholders.
+
+Seylan Accelerate Debit Cardholders will be able to enjoy a 20% discount, up to Rs. 500, on PickMe Rides across the Flex, Mini, and Car categories. In addition to the ride benefits, Seylan Accelerate Debit Cardholders can avail a Rs. 250 discount for transactions above Rs. 1,250 on PickMe Food orders.
+
+These exclusive offers are valid until 1 April, providing Seylan Accelerate Debit Cardholders ample time to take advantage of the savings and convenience offered through the PickMe partnership.
+
+Seylan Accelerate, with its Premier, Prime, Plus, and Entry membership categories, offers more than just banking services. Cardholders can revel in special offers and cash rewards of up to Rs. 200,000 on significant life milestones such as birthdays, weddings, anniversaries, and the birth of children.
+
+...
+
+[Data](articles/aa4143ca.json)
+
+---
+
+### Amana Bank powers EntreMindz Season 3 towards fostering entrepreneurial talent
+
+*2024-03-02 00:21:11* · [`dailyftlk`](https://www.ft.lk/business/Amana-Bank-powers-EntreMindz-Season-3-towards-fostering-entrepreneurial-talent/34-759072) · `en`
+
+Towards inspiring and fostering the next generation of entrepreneurs through knowledge, experiences, and insights, Amana Bank has once again partnered with EntreMindz, organised by UTO EduConsult, for its third season.
+
+Through this partnership Amana Bank reaffirms its dedication to encouraging the spirit of entrepreneurship from a young age and supporting innovative ventures that drive economic growth.
+
+Unlocking the entrepreneurial mind-set of Gen Z, EntreMinds season 3 saw over 35 teams aged between 15 and 20 years making their unique and novel business ‘pitch’ in front of an expert judging panel which included Dankotuwa Porcelain CEO Channa Gunawardena, Aqcellar Head of Marketing and Communications Ajith Kadirgamar, Amana Bank VP Retail Banking and Marketing Siddeeque Akbar, Inotrend International CEO Abdul Careem, Adl Capital MD/CEO Ishrat Rauff, and Aqcellar South East Asia Co-Founder and President Sharika Mubarak.
+
+...
+
+[Data](articles/b6abe634.json)
+
+---
+
+### Serendib Flour Mills launches fortified ‘Adhi Shakthi’ flour
+
+*2024-03-02 00:20:14* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-launches-fortified-Adhi-Shakthi-flour/34-759071) · `en`
+
+Serendib Flour Mills, fuelled with the purpose of nourishing the nation, launched its new ‘Serendib Adhi Shakthi Fortified Wheat Flour’ – a micronutrient-fortified wheat flour exclusively aimed at plantation communities in Kandy recently.
+
+Introduced in November last year, the new Serendib Adhi Shakthi flour contains essential nutrients such as Iron, Folic Acid, and Vitamin B12, and is tailored to meet the nutritional needs of estate communities, mainly to address key nutritional deficiencies and the rising incidence of Non-Communicable Diseases (NCDs).
+
+...
+
+[Data](articles/f900f9a1.json)
+
+---
 
 ### NDB Bank launches “Privilege Junior Savings”
 
@@ -48,6 +194,8 @@ NDB CEO Kelum Edirisinghe articulates the vision behind Privilege Junior Savings
 
 [Data](articles/a1ed5dff.json)
 
+[Extended Data](ext_articles/a1ed5dff.ext.json)
+
 ---
 
 ### SLT-Mobitel says ‘One Shot ULTRA’ offers ultimate unlimited voice and data experience
@@ -61,6 +209,8 @@ With SLT-Mobitel’s unmatched network performance, One Shot ULTRA brings a sign
 ...
 
 [Data](articles/25c01451.json)
+
+[Extended Data](ext_articles/25c01451.ext.json)
 
 ---
 
@@ -130,6 +280,8 @@ The 2030 Agenda for Sustainable Development adopted by the Member States of the 
 
 [Data](articles/33e7c140.json)
 
+[Extended Data](ext_articles/33e7c140.ext.json)
+
 ---
 
 ### Modi’s civilisational duty and connectivity bordering soft colonisation
@@ -143,6 +295,8 @@ Even then and historically, although India’s economy is a giant in comparison 
 ...
 
 [Data](articles/0b4b65e3.json)
+
+[Extended Data](ext_articles/0b4b65e3.ext.json)
 
 ---
 
@@ -161,6 +315,8 @@ The accusations against Israel include war crimes, genocide, ethnic cleansing an
 ...
 
 [Data](articles/d54e7a35.json)
+
+[Extended Data](ext_articles/d54e7a35.ext.json)
 
 ---
 
@@ -1877,187 +2033,5 @@ Minister of Power and Energy Kanchana Wijesekara said this project was implement
 [Data](articles/affcefe3.json)
 
 [Extended Data](ext_articles/affcefe3.ext.json)
-
----
-
-### Etihad increases frequency of flight operations to Colombo from May 1
-
-*2024-03-01 13:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Etihad-increases-frequency-of-flight-operations-to-Colombo-from-May-1/108-278037) · `en`
-
-The national carrier of the United Arab Emirates, Etihad Airways, will increase the frequency of flight operations to Colombo effective May 1, Airport and Aviation Services (Sri Lanka) (Private) Limited Chairman Eng. Athula Galketiya said.
-
-He said this flight service will be a significant contribution towards boosting the tourism industry in Sri Lanka and travel to the Middle East and other key destinations in the world.
-
-"Etihad Airways, which has 10 weekly flight frequencies at present, will be operating 13 flights a week from May 1 (2 flights on Mondays, Tuesdays, Thursdays, Fridays, Saturdays, and Sundays, 1 flight on Wednesdays) and 20 flights per week from June 15 (03 flights on Mondays, Tuesdays, Thursdays, Fridays, Saturdays, and Sundays, 2 flights on Wednesdays)," he said.
-
-...
-
-[Data](articles/6843203d.json)
-
-[Extended Data](ext_articles/6843203d.ext.json)
-
----
-
-### January 2024 tourist earnings a. Do. 342 million
-
-*2024-03-01 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194004) · `si`
-
-The Central Bank has presented the latest report on the foreign sector functionality.
-
-According to this, the tourism industry in January 2024 was US $ 342 million.
-
-It is said that tourism earnings of US $ 269 million in December 2023 is a prominent increase in high-taxable earnings and US $ 154 million.
-
-The Central Bank of Sri Lanka (SLTB) has also shown that this is the highest income of the tourism industry after January 2020.
-
-Meanwhile, in January 2024, Sri Lanka's commodity export earnings recorded a small number of $ 971 million in January 2023.
-
-The deficit of the commodity account is reported to US $ 547 million compared to US $ 445 million compared to US $ 445 million.
-
-Foreign Employees' Remittances also increased US $ 488 million in January 2024.
-
-The foreign remittances increased to the remittances of 437 million US $ 437 million in January, as compared to US $ 570 million in December 2023, as compared to US $ 570 million.
-
-...
-
-[Data](articles/838ce90c.json)
-
-[Extended Data](ext_articles/838ce90c.ext.json)
-
----
-
-### Agreement inked to construct hybrid renewable energy systems on Jaffna islets
-
-*2024-03-01 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97657/agreement-inked-to-construct-hybrid-renewable-energy-systems-on-jaffna-islets) · `en`
-
-Sri Lanka has signed an agreement for the development of hybrid renewable energy systems on 3 islets belonging to the Jaffna District today (March 01).
-
-Minister of Power and Energy Kanchana Wijesekera stated that under a full financial grant of USD 10.995 million extended by the Government of India, the islands of Delft, Analativu and Nainativu will receive the hybrid renewable energy systems by March 2025.
-
-Under the project 530 kW wind power, 1700 kW solar power, 2400 kWh battery power and 2500 kW of standby diesel power systems are planned to be constructed on 3 islets in the Jaffna District by India-based U-Solar Clean Energy Solutions, according to the minister.
-
-Taking to X (formerly Twitter) to announce this, Wijesekera expressed gratitude to the Government of the Republic of India, Indian High Commissioner to Sri Lanka Santosh Jha, Former High Commissioner Gopal Baglay, officials of the Indian High Commission in Sri Lanka for the assistance extended in this regard.
-
-...
-
-[Data](articles/0e2df066.json)
-
-[Extended Data](ext_articles/0e2df066.ext.json)
-
----
-
-### Sri Lanka will stand up for any economic rights comprised at Red Sea: president
-
-*2024-03-01 13:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-stand-up-for-any-economic-rights-comprised-at-red-sea-president-152671/) · `en`
-
-ECONOMYNEXT — Sri Lanka will stand up for its economic rights if they are compromised in the Red Sea, President Ranil Wickremesinghe said, offering continued support for the United Nations in “problems with peace” anywhere in the world.
-
-A statement from the president’s office said on Friday March 01 that Wickremesinghe, speaking at the Sri Lanka Air Force cadet officers commissioning ceremony on Thursday in Trincomalee, had highlighted Sri Lanka’s historical commitment to safeguarding world peace and regional stability.
-
-According to the statement, the president had emphasised his readiness to make decisive decisions for global peace. He had also underscored the responsibility and accountability of the armed forces in achieving this objective.
-
-“We cannot persist as an underdeveloped nation. It must be emphasized that fulfilling this responsibility will yield benefits for both you and your children.
-
-...
-
-[Data](articles/15161bb8.json)
-
-[Extended Data](ext_articles/15161bb8.ext.json)
-
----
-
-### Brother-in-law of Zahran arrested
-
-*2024-03-01 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97656/brother-in-law-of-zahran-arrested) · `en`
-
-Police have arrested a person who is identified as the brother-in-law of Zahran Hashim during a sudden raid carried out in the Kattankudy area.
-
-The raid was carried out based on a tip-off received by the police about an unlawful assembly. At the time, a group of people have been playing card games at the scene.
-
-The arrested individual named Niyaz was subsequently found to be the husband of Zahran’s sister, who was suspected to be involved in the 2019 Easter Sunday terror attacks, as per police.
-
-Zahran Hashim was the ringleader of the breakaway members of the hardline Islamist group National Thowheed Jama’ath (NTJ), accused of carrying out coordinated suicide bombings on April 21, 2019 which killed more than 350 people.
-
-◼️
-
-[Data](articles/af4efe03.json)
-
-[Extended Data](ext_articles/af4efe03.ext.json)
-
----
-
-### Dr. Saman Rathnayake CID
-
-*2024-03-01 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194003) · `si`
-
-Additional Secretary to the Ministry of Health Dr. Saman Ratnayake has arrived at the CID.
-
-◼️
-
-[Data](articles/6a1aefaf.json)
-
-[Extended Data](ext_articles/6a1aefaf.ext.json)
-
----
-
-### AKD maintains 50-pct lead in Sri Lanka presidential voting intent poll in January
-
-*2024-03-01 13:08:00* · [`economynextcom`](https://economynext.com/akd-maintains-50-pct-lead-in-sri-lanka-presidential-voting-intent-poll-in-january-152663/) · `en`
-
-ECONOMYNEXT — National People’s Power (NPP) leader Anura Kumara Dissanayake had support among 50 percent of all adults surveyed by the Institute for Health Policy (IHP) in December 2023 in a monthly voting intent poll for Sri Lanka’s upcoming presidential election.
-
-Support for Dissanayake had dropped just 1 percentage point since December 2023, according to the Institute for Health Policy (IHP)’s Sri Lanka Opinion Tracker Survey (SLOTS) MRP provisional estimates.
-
-Main opposition Samagi Jana Balawegaya leader Sajith Premadasa had the support of 36 percent (+2) of the adults surveyed, while both President Ranil Wickremesinghe and a generic Sri Lanka Podujana Peramuna (SLPP) had the support of 7 percent each.
-
-Dissanayake’s National People’s Power (NPP) continued to lead a separate general election voting intentions poll, also carried out by IHP, for January at 40 percent of adult voters surveyed supporting the party, with the SJB in second place at 30 percent.
-
-...
-
-[Data](articles/a214d877.json)
-
-[Extended Data](ext_articles/a214d877.ext.json)
-
----
-
-### Three-wheeler driver shot dead in Ahungalle
-
-*2024-03-01 13:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-wheeler-driver-shot-dead-in-Ahungalle/108-278036) · `en`
-
-Galle, March 1 (Daily Mirror) - A three-wheeler driver was killed in a shooting incident near a hotel in Ahungalla town, police said.
-
-They said a 45-year-old has died in the shooting carried out by an unknown gunman on a motorcycle.
-
-Police suspect that that the shooting was a result of a dispute between two underworld gangs.
-
-◼️
-
-[Data](articles/0043d17a.json)
-
-[Extended Data](ext_articles/0043d17a.ext.json)
-
----
-
-### In today's social media in the social media
-
-*2024-03-01 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194002) · `si`
-
-It is reported that several question papers of the last night have been released to the Social Media in the last night by the Department of Education.
-
-A group of teachers lodged a complaint with the CID this morning.
-
-The annual end assessments for the year 2023 will be held for school children in the Western Province these days.
-
-Accordingly, this is scheduled for science for Grades 10 and 11 students' examination.
-
-However, it was reported that the first question paper of the Grade 10 science issued by the Western Provincial Department of Education and the second question paper has been released to the Social Media.
-
-Today, students have received the question pamps of the social media last night.
-
-◼️
-
-[Data](articles/8ba8cd01.json)
-
-[Extended Data](ext_articles/8ba8cd01.ext.json)
 
 ---

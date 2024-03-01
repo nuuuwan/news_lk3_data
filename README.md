@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 09:51:58**
+As of **2024-03-01 10:02:57**
 
 ## Newspaper Stats
 
-*Scraped **10,177** Articles*
+*Scraped **10,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 526
 dailyftlk | 542
 islandlk | 543
 adalk | 866
-adaderanalk | 1,226
+adaderanalk | 1,228
 tamilmirrorlk | 1,236
 virakesarilk | 1,394
 dailymirrorlk | 1,541
@@ -26,11 +26,53 @@ adaderanasinhalalk | 1,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,177 (100.0%) of 10,177 articles have been extended.
+10,179 (100.0%) of 10,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Rajiv Gandhi assassination: Indian court directs to expedite sending Santhan’s body to Sri Lanka
+
+*2024-03-01 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97645/rajiv-gandhi-assassination-indian-court-directs-to-expedite-sending-santhans-body-to-sri-lanka) · `en`
+
+India’s Madras High Court on Thursday directed the Tamil Nadu government to appoint senior IAS/IPS officers to speed up sending the mortal remains of freed Rajiv Gandhi assassination convict Santhan alias T. Suthenthiraraja to Sri Lanka.
+
+A division bench of Justice R. Suresh Kumar and Justice K. Kumaresh Babu passed the order on a plea moved by Santhan seeking a direction to the Indian government to take immediate steps to deport him to Sri Lanka.
+
+When the plea came up for hearing, the court wondered why Santhan was not deported immediately to Sri Lanka though necessary approvals were issued by the Sri Lankan high commission.
+
+To this, state public prosecutor Hasan Mohamed Jinnah informed the court that the state planned to send Santhan to Sri Lanka on Feb 27 using an air ambulance, but his health condition deteriorated and he passed away on Feb 28.
+
+Now, steps have been taken to transport his mortal remains to his home country, he added.
+
+...
+
+[Data](articles/c03e2139.json)
+
+[Extended Data](ext_articles/c03e2139.ext.json)
+
+---
+
+### Sri Lanka ratifies UN Convention on Int’l Settlement Agreements Resulting from Mediation
+
+*2024-03-01 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97644/sri-lanka-ratifies-un-convention-on-intl-settlement-agreements-resulting-from-mediation) · `en`
+
+With the deposit of the instrument of ratification at the UN Headquarters in New York, Sri Lanka has become the 14th State Party to the United Nations Convention on International Settlement Agreements Resulting from Mediation, also known as the “Singapore Convention on Mediation”.
+
+The ratification by Sri Lanka was effected on 28 February 2024, and the Convention will enter into force for Sri Lanka on 28 August 2024.
+
+The Singapore Convention on Mediation facilitates international trade and promotes mediation as an alternative and effective method of resolving commercial disputes by providing an effective mechanism for the enforcement of international settlement agreements resulting from mediation.
+
+The Convention is open for signature, ratification, and accession by States and regional economic integration organizations.
+
+...
+
+[Data](articles/4475797e.json)
+
+[Extended Data](ext_articles/4475797e.ext.json)
+
+---
 
 ### A group of suspects arrested
 
@@ -1867,45 +1909,5 @@ The acceptance of the second phase of applications began on February 15 and 35,9
 [Data](articles/86671e2b.json)
 
 [Extended Data](ext_articles/86671e2b.ext.json)
-
----
-
-### Demanding salary increase for entire university system
-
-*2024-02-29 18:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Demanding-salary-increase-for-entire-university-system/110-277970) · `en`
-
-The University Trade Union Joint Committee (UTUJC) staged a protest in front of the Education Ministry today over several demands which include a call on the authorities to solve the salary anomalies, to increase their Monthly Compensation Allowance (MCA) and to grant a salary increase to the entire university system. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/040be0ec.json)
-
-[Extended Data](ext_articles/040be0ec.ext.json)
-
----
-
-### Sri Lanka aims to boost SME with Sancharaka Udawa tourism expo
-
-*2024-02-29 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-aims-to-boost-sme-with-sancharaka-udawa-tourism-expo-152552/) · `en`
-
-ECONOMYNEXT – Sri Lanka is hosting Sancharaka Udawa, a tourism industry exhibition which will bring together businesses ranging from hotels to travel agents and airlines, and will allow the small and medium sector build links with the rest of the industry, officials said.
-
-There will be over 250 exhibitors, with the annual event held for the 11th time expected to draw around 10,000 visitors, the organizers said.
-
-“SMEs play a big role, from homestays to under three-star categories,” Sri Lanka Tourism Promotion Bureau Chairman, Chalaka Gajabahu told reporters.
-
-“It is very important that we develop those markets as well.”
-
-The Sancharaka Udawa fair comes as the Indian Ocean island is experiencing a tourism revival.
-
-Sri Lanka had welcomed 191,000 tourists up to February 25, compared to 107,639 in February 2023.
-
-“We have been hitting back-to-back double centuries,” Gajabahu said. “January was over 200,000.”
-
-...
-
-[Data](articles/a874d13c.json)
-
-[Extended Data](ext_articles/a874d13c.ext.json)
 
 ---

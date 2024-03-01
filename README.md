@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 02:49:26**
+As of **2024-03-02 03:02:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,359 (100.0%) of 10,360 articles have been extended.
+10,360 (100.0%) of 10,360 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ J.R. Jayewardene known popularly as “JR” ushered in political, economic, and
 ...
 
 [Data](articles/18cf5164.json)
+
+[Extended Data](ext_articles/18cf5164.ext.json)
 
 ---
 

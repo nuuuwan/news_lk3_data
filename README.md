@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 17:17:34**
+As of **2024-03-01 17:33:38**
 
 ## Newspaper Stats
 
-*Scraped **10,267** Articles*
+*Scraped **10,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 542
 islandlk | 544
 adalk | 874
 adaderanalk | 1,246
-tamilmirrorlk | 1,251
+tamilmirrorlk | 1,253
 virakesarilk | 1,398
 dailymirrorlk | 1,557
 adaderanasinhalalk | 1,573
@@ -26,25 +26,47 @@ adaderanasinhalalk | 1,573
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,265 (100.0%) of 10,267 articles have been extended.
+10,267 (100.0%) of 10,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### වැටුප් වැඩිකර ගැනීම ගැන කරුණු විමසීමට මහබැංකු ලොක්කන්ල 5 දා පාර්ලිමේන්තුවට
+### விமலுக்கு நோட்டீஸ்
+
+*2024-03-01 16:43:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமலுக்கு-நோட்டீஸ்/175-334054) · `ta`
+
+10 வருட காலத்திற்குள் முறையான வருமானம் மற்றும் சொத்துக்கள் மூலம் சம்பாதிக்க முடியாத 75 மில்லியன் ரூபாவிற்கு மேல் சம்பாதித்த விமல் வீரவன்சவிற்கு எதிராக இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவினால் முன்வைக்கப்பட்ட வழக்கை எதிர்வரும் மார்ச் மாதம் 22 ஆம் திகதிக்கு ஒத்திவைத்த கொழும்பு மேல் நீதிமன்ற நீதிபதி நவரத்ன மாரசிங்க, அன்றையதினம் நீதிமன்றத்தில் ஆஜராகுமாறு விமல் வீரவன்சவுக்கு  அழைப்பாணையை விடுத்துள்ளார்.
+
+விமல் வீரவன்சவுக்கு அவ்வப்போது உடல் நலக்குறைவு ஏற்பட்டுள்ளதால், அவருக்கு எதிரான இலஞ்ச ஊழல் வழக்கின் விசாரணையை  நிறைவு செய்ய முடியாதுள்ளது என மேலதிக சொலிசிட்டர் ஜெனரல் ஆயிஷா சுட்டிக்காட்டியுள்ளார்.
+
+நல்லாட்சி அரசாங்கத்தின் போது முன்னாள் அமைச்சர் விமல் வீரவங்ச 2009 ஜனவரி 1 முதல் 2014 டிசம்பர் 31 வரையான காலப்பகுதியில் 75 மில்லியன் ரூபாவிற்கும் அதிகமான பணம் மற்றும் சொத்துக்களை சட்டரீதியான வருமானத்தின் மூலம் சம்பாதிக்கவில்லை என  இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழு குற்றம் சுமத்தியுள்ளது.
+
+...
+
+[Data](articles/fc3e7c88.json)
+
+---
+
+### Central Bank Locaskala to parliament on 5th
 
 *2024-03-01 16:42:20* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩිකර-ගැනීම-ගැන-කරුණු-විමසීමට-මහබැංකු-ලොක්කන්ල-5-දා-පාර්ලිමේන්තුවට/11-408375) · `si`
 
-කාර්ය මණ්ඩල වැටුප් වැඩිකර ගැනීම සම්බන්ධයෙන් කරුණු විමසීම සදහා මහබැංකුවේ නිලධාරීන් ලබන 5 වැනිදා පෙ.ව 10.30 ට පැවැත්වෙන පක්ෂ නායක රැස්වීමට කැඳවීමට අද (01) කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+Speaking to the House of Special Government Mahinda Yapa Abeywardena, the General Secretary General of Parliament Mahinda Yapa Abeywardena has decided to call on the increase in staff salaries.
 
-එසේම පාර්ලිමේන්තුව ලබන 5,6 සහ 7 තෙදින පැවැත්වෙන බැවින් ඊට අදාළ පාර්ලිමේන්තු කටයුතු තීරණය කිරීම ද මෙහිදී සිදුවී ඇත. ලබන 8 වැනි සිකුරාදා රජයේ නිවාඩු දිනයක් බැවින් එදින පාර්ලිමේන්තුව රැස් නොවේ.
+The decision to determine the relevant Parliamentary Affairs, as parliament will be held at 5,6 and 7 months after the day.. The government holiday is a public holiday on the 8th of this month.
 
-මේ අනුව මාර්තු 5 වැනි අඟහරුවාදා පෙ.ව 9.30 ට පාර්ලිමේන්තුව රැස්වන අතර පෙ.ව 9.30 - පෙ.ව 10.30 කාලය වෙන්ව ඇත්තේ වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහායි. අනතුරුව පෙ.ව 10.30 සිට ප.ව 4.30 දක්වා පසුගිය පෙබරවාරි 20 වැනිදා දෙවනවර කියවීමේ විවාදයට ගෙන කල්තබන ලද සුරක්ෂිතලත්  ගනුදෙනු, භාර ලදුපත් (සංශෝධන), උකස් සංශෝධන, කල්බදු මූල්‍යකරණ සංශෝධන, දේශීය භාර ලදුපත් (සංශෝධන), සමාගම් (සංශෝධන) සහ ලේඛන ලියාපදිංචි කිරීමේ (සංශෝධන) යන පනත් කෙටුම්පත් දෙවන දිනටත්  විවාදයට ගෙන මීළඟ දිනට කල්තැබීමට නියමිතව තිබේ.
+Accordingly, Parliament will meet on Tuesday 5th March at 9.30 am and 10.30 am and 10.30 am for questions that require verbal answers.. Safety transactions, proven revision, leasing revisions (Amendment), pricing revisions (Amendment), the mortgage revisions (Amendment)The bills of the Registration (Amendment) will be debated on the second day and postponed the next day.
+
+The proposal made by the government to the proposal of 4.30 pm to 2:30 pm has also decided to hold the church in advance.
+
+Wednesday on Wednesday, March 6 am - 10.00 am - 10:00 am
 
 ...
 
 [Data](articles/337d954f.json)
+
+[Extended Data](ext_articles/337d954f.ext.json)
 
 ---
 
@@ -87,6 +109,8 @@ The Board of Directors has thus made arrangements with SG Holdings to purchase i
 ...
 
 [Data](articles/7c6c163b.json)
+
+[Extended Data](ext_articles/7c6c163b.ext.json)
 
 ---
 
@@ -169,6 +193,24 @@ According to market capitalization, the 12 Largest Companies listed in the Colom
 [Data](articles/ed1c7790.json)
 
 [Extended Data](ext_articles/ed1c7790.ext.json)
+
+---
+
+### சாந்தனின் பூதவுடலை புகைப்படம் எடுக்க சந்தர்ப்பம் மறுப்பு
+
+*2024-03-01 15:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-பூதவுடலை-புகைப்படம்-எடுக்க-சந்தர்ப்பம்-மறுப்பு/175-334053) · `ta`
+
+இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ் காந்தியின் கொலைக் குற்றச்சாட்டின் பேரில் தண்டிக்கப்பட்ட சாந்தன் எனப்படும் டி.சுரேந்திரராஜாவின் சடலம் கட்டுநாயக்க விமான நிலையம், விமான சரக்கு முனையத்திற்கு வெள்ளிக்கிழமை (01) பிற்பகல் அனுப்பி வைக்கப்பட்டது.
+
+T. சுரேந்திர ராஜா குற்றவாளியாக அறிவிக்கப்பட்டு சிறைத்தண்டனை அனுபவித்து, பின்னர் பொதுமன்னிப்பு பெற்றார், பின்னர் இந்தியாவின் சென்னையில், அவர் கடுமையான சிறுநீரக நோயால் பாதிக்கப்பட்டிருந்தபோது, ​​இலங்கையில் உள்ள தனது தாயாரைப் பார்க்கவிருந்தார்.
+
+அவரது சடலம் இந்தியாவின் சென்னையில் இருந்து ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானமான UL-122 இல் கட்டுநாயக்க விமான நிலையத்திற்கு 03/01 பகல் 11.35 மணியளவில் அனுப்பி வைக்கப்பட்டது.
+
+சடலத்தை பெற்றுக் கொள்வதற்காக  உறவினர்கள் பலர் கட்டுநாயக்க விமான நிலைய விமான சரக்கு முனையத்திற்கு வருகை தந்துள்ளதுடன், சடலத்தை விடுவிப்பதற்கு தேவையான ஆவணங்கள் சிலவற்றை சென்னையில் இருந்து கட்டுநாயக்க விமான நிலையத்திற்கு அனுப்பி வைக்க வேண்டியுள்ளது.
+
+...
+
+[Data](articles/1268382c.json)
 
 ---
 
@@ -762,7 +804,7 @@ Sri Lanka is the first country in Asia to have undergone the IMF Governance Diag
 
 The IMF earlier lauded the timely publication of the GDA, highlighting that it was a commendable first step towards addressing deep-rooted corruption weaknesses.
 
-...
+◼️
 
 [Data](articles/fb88a919.json)
 
@@ -1985,45 +2027,5 @@ The emergency services were called to the Kacchi Bhai restaurant, which accordin
 [Data](articles/4301bdc6.json)
 
 [Extended Data](ext_articles/4301bdc6.ext.json)
-
----
-
-### Here is the price of fuel
-
-*2024-03-01 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193982) · `si`
-
-The government has decided to maintain the fuel prices in March without amendment.
-
-According to monthly fuel revision, the relevant prices should have been amended from midnight yesterday (29).
-
-Accordingly, the Ceylon Petroleum Corporation has decided to sell fuel to fuel at present this month.
-
-Lanka IOC and Siainopek Company has not been properly notified.
-
-◼️
-
-[Data](articles/5fb99e8f.json)
-
-[Extended Data](ext_articles/5fb99e8f.ext.json)
-
----
-
-### Hayleys honours outstanding teams for excellence and innovation at 11th annual Chairman’s Awards
-
-*2024-03-01 06:26:02* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-honours-outstanding-teams-for-excellence-and-innovation-at-11th-annual-Chairman-s-Awards/34-759039) · `en`
-
-Continuing its tradition of celebrating business excellence, Sri Lanka’s most diversified conglomerate, the Hayleys Group recognised the outstanding achievements of its teams, across 16 business sectors at the 11th Annual Chairman’s Awards.
-
-The apex recognition platform for the Group, felicitated 192 employees from 24 project teams for their inspiring, purpose-led initiatives.
-
-Hayleys Group Chairman and Chief Executive Mohan Pandithage said: “Our enduring ability to pioneer progress and create value for our diverse stakeholders lies in the relentless spirit and dedication of our employees – our greatest asset.
-
-“This year, our winners have showcased commendable efforts, from demonstrating remarkable solutions to industry challenges, innovation, environmental responsibility, and exceptional service.”
-
-...
-
-[Data](articles/f41509d3.json)
-
-[Extended Data](ext_articles/f41509d3.ext.json)
 
 ---

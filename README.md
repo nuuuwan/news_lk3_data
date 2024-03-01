@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 13:51:46**
+As of **2024-03-01 14:02:29**
 
 ## Newspaper Stats
 
-*Scraped **10,229** Articles*
+*Scraped **10,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adaderanalk | 1,238
 tamilmirrorlk | 1,248
 virakesarilk | 1,397
 dailymirrorlk | 1,548
-adaderanasinhalalk | 1,562
+adaderanasinhalalk | 1,564
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,229 (100.0%) of 10,229 articles have been extended.
+10,231 (100.0%) of 10,231 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Dr. Saman Rathnayake CID
+
+*2024-03-01 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194003) · `si`
+
+Additional Secretary to the Ministry of Health Dr. Saman Ratnayake has arrived at the CID.
+
+◼️
+
+[Data](articles/6a1aefaf.json)
+
+[Extended Data](ext_articles/6a1aefaf.ext.json)
+
+---
+
+### In today's social media in the social media
+
+*2024-03-01 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194002) · `si`
+
+It is reported that several question papers of the last night have been released to the Social Media in the last night by the Department of Education.
+
+A group of teachers lodged a complaint with the CID this morning.
+
+The annual end assessments for the year 2023 will be held for school children in the Western Province these days.
+
+Accordingly, this is scheduled for science for Grades 10 and 11 students' examination.
+
+However, it was reported that the first question paper of the Grade 10 science issued by the Western Provincial Department of Education and the second question paper has been released to the Social Media.
+
+Today, students have received the question pamps of the social media last night.
+
+◼️
+
+[Data](articles/8ba8cd01.json)
+
+[Extended Data](ext_articles/8ba8cd01.ext.json)
+
+---
 
 ### One killed in shooting at Ahungalla
 
@@ -43,6 +81,36 @@ A person has been killed in a shooting carried out in the Ahungalla area today (
 [Data](articles/0fb716a3.json)
 
 [Extended Data](ext_articles/0fb716a3.ext.json)
+
+---
+
+### People surrounding the foods that entered the Gaza - the firefighters who fired - many people died in vehicles tried to flee - those who witnessed the incident
+
+*2024-03-01 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177657) · `ta`
+
+A notable incident took place on Thursday as the worst incident in the events of the Hamas Israeli war.
+
+More than a hundred people have been killed in an Israeli attack on people who gathered to get food in Gaza.
+
+117 Palestinians have been killed in Israel's attacks on Palestinians, who have been in the grip of a large number of hunger, the Palestinian Ministry of Health said.
+
+The incident took place in a situation where hunger and hunger in the Gaza Valley, which is under the siege.
+
+It is customary for people who are hungry that they see such vehicles because of the lack of vehicles with food.
+
+However, there are contradictions in the matter of Israel and those who have seen the incident.
+
+The deaths have occurred amidst great confusion on the Harun al -Rasheed road in the western part of Gaza.
+
+Thursday morning, 18 food vehicles arrived in the area.
+
+Eyewitnesses said that Israeli soldiers started firing when the public began to accumulate around the newly loaded vehicles.
+
+...
+
+[Data](articles/9a368f0e.json)
+
+[Extended Data](ext_articles/9a368f0e.ext.json)
 
 ---
 
@@ -177,36 +245,6 @@ The construction of the first wildlife tank in Sri Lanka was commenced this morn
 [Data](articles/c65ca814.json)
 
 [Extended Data](ext_articles/c65ca814.ext.json)
-
----
-
-### People surrounding the foods that entered the Gaza - the firefighters who fired - many people died in vehicles tried to flee - those who witnessed the incident
-
-*2024-03-01 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177657) · `ta`
-
-A notable incident took place on Thursday as the worst incident in the events of the Hamas Israeli war.
-
-More than a hundred people have been killed in an Israeli attack on people who gathered to get food in Gaza.
-
-117 Palestinians have been killed in Israel's attacks on Palestinians, who have been in the grip of a large number of hunger, the Palestinian Ministry of Health said.
-
-The incident took place in a situation where hunger and hunger in the Gaza Valley, which is under the siege.
-
-It is customary for people who are hungry that they see such vehicles because of the lack of vehicles with food.
-
-However, there are contradictions in the matter of Israel and those who have seen the incident.
-
-The deaths have occurred amidst great confusion on the Harun al -Rasheed road in the western part of Gaza.
-
-Thursday morning, 18 food vehicles arrived in the area.
-
-Eyewitnesses said that Israeli soldiers started firing when the public began to accumulate around the newly loaded vehicles.
-
-...
-
-[Data](articles/9a368f0e.json)
-
-[Extended Data](ext_articles/9a368f0e.ext.json)
 
 ---
 
@@ -346,7 +384,7 @@ Meanwhile, Litro Gas prices now stand at the following rates:
 
 ---
 
-### Sri Lanka begins solar pilot project on plantatation
+### Sri Lanka begins solar pilot project on plantation
 
 *2024-03-01 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-solar-pilot-project-on-plantatation-152575/) · `en`
 
@@ -1895,43 +1933,5 @@ The above verse from the Holy Quran is a reminder to the entire mankind contextu
 [Data](articles/16ab16a0.json)
 
 [Extended Data](ext_articles/16ab16a0.ext.json)
-
----
-
-### 2024-02-29 (Thursday)
-
-### Go to court if the Speaker's decision is error - Justice Minister Wijeyadasa Rajapaksa
-
-*2024-02-29 23:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177633) · `ta`
-
-Minister of Justice Wijeyadasa Rajapakse said that the Speaker's decision to head the Constituent Assembly on the appointment of the new Inspector General of Police could go to court.
-
-He was speaking to the media at a function held on Thursday (29) in the Pannipitiya area of Maharagama.
-
-Many people are criticizing the Speaker's decision during the appointment of the new Inspector General of Police. But the main reason for this problem is that even though the constitutional amendment has taken steps to appoint 10 members to the Constituent Assembly, the representative of the small parties will not be named.
-
-Due to this problem, the Speaker is facing practical problems. So if you think that there is any legal problem in the Speaker's decision, the best place for the constitution is the best place for legal issues in the Constitution.
-
-...
-
-[Data](articles/8b0834c7.json)
-
-[Extended Data](ext_articles/8b0834c7.ext.json)
-
----
-
-### Sri Lanka’s economy in the woods: But there is a way out
-
-*2024-02-29 23:52:59* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-economy-in-the-woods-But-there-is-a-way-out/14-759012) · `en`
-
-We do have the ability to tackle our economy and make things ourselves, training the unemployed youths to get cracking
-
-Thanks to Cabinet Spokesman Minister Bandula Gunawardena for revealing that the Sri Lankan Government “is running a shortfall of Rs. 10 trillion to meet its expenditure with its revenue...We collect only Rs. 3 trillion while the expenses are Rs. 13 trillion” (The Morning 20/02/2024). This reveals a situation of sheer bankruptcy, a situation out of which we can perhaps, never recover.
-
-...
-
-[Data](articles/d2cd8034.json)
-
-[Extended Data](ext_articles/d2cd8034.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 10:33:57**
+As of **2024-03-01 10:50:44**
 
 ## Newspaper Stats
 
-*Scraped **10,187** Articles*
+*Scraped **10,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 542
 islandlk | 543
 adalk | 867
 adaderanalk | 1,228
-tamilmirrorlk | 1,239
+tamilmirrorlk | 1,241
 virakesarilk | 1,394
 dailymirrorlk | 1,543
 adaderanasinhalalk | 1,552
@@ -26,11 +26,49 @@ adaderanasinhalalk | 1,552
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,186 (100.0%) of 10,187 articles have been extended.
+10,189 (100.0%) of 10,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Shooter
+
+*2024-03-01 10:06:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுக்கையில்-துப்பாக்கிச்-சூடு/175-334038) · `ta`
+
+Padukku police said that a man had fired at a house in Madulawa area today (01).
+
+Some people from the Piliyandala area were temporarily staying in the house that was targeted for the shooting.
+
+Police said that the team was staying at the house to attend the foundation stone laying ceremony for the construction of a house in another land near the house.
+
+When the people in their home were sleeping, the people who were panicked because of a sudden shooting, came to the kitchen of the house and informed the police emergency number.
+
+◼️
+
+[Data](articles/fbeced54.json)
+
+[Extended Data](ext_articles/fbeced54.ext.json)
+
+---
+
+### Fire in Bangladesh: 43 killed
+
+*2024-03-01 09:56:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-தீ-43-பேர்-பலி/50-334037) · `ta`
+
+43 people were killed in a fire at a 6 -based business complex in Bangladesh. Many are fighting for life with injuries.
+
+A fire broke out yesterday (Thursday) at a 6 -based commercial complex in Dhaka, Bangladesh's capital, Dhaka.. More than 40 people died. Many people are undergoing treatment at the hospital in critical condition.
+
+Health Minister Dr. Samantha Lal Sen met with reporters this morning (Friday). He said, “A fire broke out at a restaurant in the building at 9.50 pm last night (Thursday night).. It spread to subsequent sites. There were restaurants and cloth shops on the top floor. Thus the fire spread more easily.
+
+...
+
+[Data](articles/db2444d5.json)
+
+[Extended Data](ext_articles/db2444d5.ext.json)
+
+---
 
 ### Toping down fire in Panadura
 
@@ -116,15 +154,13 @@ Further investigations are being carried out by the major Nilawana police and th
 
 *2024-03-01 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97645/rajiv-gandhi-assassination-indian-court-directs-to-expedite-sending-santhans-body-to-sri-lanka) · `en`
 
-India’s Madras High Court on Thursday directed the Tamil Nadu government to appoint senior IAS/IPS officers to speed up sending the mortal remains of freed Rajiv Gandhi assassination convict Santhan alias T. Suthenthiraraja to Sri Lanka.
+India’s Madras High Court on Thursday directed the Tamil Nadu government to appoint senior Indian Administrative Service (IAS) officer and Indian Police Service (IPS) officer to speed up sending the mortal remains of freed Rajiv Gandhi assassination convict Santhan alias T. Suthenthiraraja to Sri Lanka.
 
 A division bench of Justice R. Suresh Kumar and Justice K. Kumaresh Babu passed the order on a plea moved by Santhan seeking a direction to the Indian government to take immediate steps to deport him to Sri Lanka.
 
 When the plea came up for hearing, the court wondered why Santhan was not deported immediately to Sri Lanka though necessary approvals were issued by the Sri Lankan high commission.
 
 To this, state public prosecutor Hasan Mohamed Jinnah informed the court that the state planned to send Santhan to Sri Lanka on Feb 27 using an air ambulance, but his health condition deteriorated and he passed away on Feb 28.
-
-Now, steps have been taken to transport his mortal remains to his home country, he added.
 
 ...
 
@@ -348,7 +384,7 @@ The emergency services were called to the Kacchi Bhai restaurant which, accordin
 
 *2024-03-01 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97643/no-fuel-price-revision-in-march) · `en`
 
-The government has decided not to revise the fuel prices for the month of March.
+The government has decided not to revise the fuel prices for the month of March, Ada Derana learned.
 
 Fuel prices amended as per the monthly pricing formula were supposed to be announced last night (Feb.29).
 
@@ -1876,46 +1912,18 @@ A Division Bench of Justices R. Sureshkumar and K. Kumaresh Babu issued the dire
 
 ---
 
-### ජනවාරියේ මහ මැතිවරණයක් තිබුණානම් වැඩිහිටියන්ගෙන් සියයට 40ක් මාලිමාවට
+### 40 percent of the elders to comply with a general election in January
 
 *2024-02-29 19:02:33* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරියේ-මහ-මැතිවරණයක්-තිබුණානම්-වැඩිහිටියන්ගෙන්-සියයට-40ක්-මාලිමාවට/11-408363) · `si`
 
-ජනවාරි මාසයේදී ශ්රීි ලංකාවේ මහ මැතිවරණයක් පැවැත්වුවානම් වැඩිහිටියන්ගෙන් සියයට 40ක් ජාතික ජන බලවේගය සමගින් සිටින බව සෞඛය ප්රමතිපත්ති ආයතනය කළ සමීක්ෂණයකින් පෙන්වා දෙයි.
+If the Sri Lanka General Elections in Sri Lanka in January, 40 percent of the elders show that the health standards have been conducted with the national community.
 
-මෙහිදී වැඩිහිටියන්ගෙන් සියයට 30ක් සමගි ජන බලවේගය සමගින් සිටින අතර එය දෙසැම්බර් මාසය හා සැසදීමේදී සියයට 2ක වැඩිවීමක් බවද එම ආයතනය පවසයි.
+The agency said that 30 percent of adults are with reconciliation and a 2 percent increase in December.
 
 ◼️
 
 [Data](articles/ca2cf0df.json)
 
----
-
-### Deshabandu seeks blessings at Gangarama
-
-*2024-02-29 19:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Deshabandu-seeks-blessings-at-Gangarama/110-277971) · `en`
-
-Newly appointed Inspector-General of Police Deshabandu Tennakoon visited the Gangaramaya Temple this afternoon and met Deputy Incumbent Ven. (Dr) Kirinde Assaji Nayake Thero and received religious blessings on his new appointment. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/0ab686f0.json)
-
-[Extended Data](ext_articles/0ab686f0.ext.json)
-
----
-
-### Keheliya petition against arrest
-
-*2024-02-29 19:00:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதுக்கு-எதிராக-கெஹலிய-மனுதாக்கல்/175-334013) · `ta`
-
-Former Health Minister Keheliya Rambukwella has filed a fundamental rights violation petition in the Supreme Court demanding a compensation of Rs 100 million, challenging the Criminal Investigation Department's arrest.
-
-It is noteworthy that Keheliya was arrested by the Criminal Investigation Department (CID) on the charge of importing substandard immunoglobulin barricades on the second day.. Remble
-
-◼️
-
-[Data](articles/97f31230.json)
-
-[Extended Data](ext_articles/97f31230.ext.json)
+[Extended Data](ext_articles/ca2cf0df.ext.json)
 
 ---

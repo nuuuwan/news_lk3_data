@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 07:53:24**
+As of **2024-03-01 08:04:41**
 
 ## Newspaper Stats
 
-*Scraped **10,150** Articles*
+*Scraped **10,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ islandlk | 542
 adalk | 864
 adaderanalk | 1,225
 tamilmirrorlk | 1,233
-virakesarilk | 1,393
-dailymirrorlk | 1,536
+virakesarilk | 1,394
+dailymirrorlk | 1,539
 adaderanasinhalalk | 1,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,150 (100.0%) of 10,150 articles have been extended.
+10,150 (100.0%) of 10,154 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,6 +58,22 @@ The emergency services were called to the Kacchi Bhai restaurant, which accordin
 
 ---
 
+### பங்களாதேஸ் தலைநகரில் உணவகமொன்றில் பெரும் தீ – 40க்கும் அதிகமானவர்கள் பலி
+
+*2024-03-01 07:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177638) · `ta`
+
+தலைநகர் டாக்காவில் உள்ள உணவுவிடுதியொன்றில் வேகமாக பரவிய தீ காரணமாக உயிரிழப்புகள் ஏற்பட்டுள்ளன
+
+இரண்டு மணிநேர போராட்டத்தி;ன் பின்னர் தீயை கட்டுப்பாட்டின் கீழ் கொண்டுவந்துள்ளதாக தெரிவித்துள்ள அதிகாரிகள் டாக்கா மருத்துவகல்லூரி மருத்துவமனையில் சிறுவர்கள் உட்பட 33 பேரின் உடல்கள் உள்ளதாகவும் நகரின் மற்றுமொரு மருத்துவமனையில் பத்து பேர் உயிரிழந்துள்ளனர் 20க்கும் அதிகமானவர்கள் ஆபத்தான நிலையில் உள்ளனர் என தெரிவித்துள்ளனர்.
+
+எரிவாயு கசிவு ஏற்பட்டிருக்கலாம் என தெரிவித்துள்ள அதிகாரிகள் அந்த கட்டிடத்தின் ஒவ்வொரு தளத்திலும் எரிவாயு சிலிண்டர்கள் காணப்பட்டன இதனால் அந்த கட்டிடம் மிகவும் ஆபத்தானதாக காணப்பட்டது எனவும் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/3afed321.json)
+
+---
+
 ### Here is the price of fuel
 
 *2024-03-01 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193982) · `si`
@@ -75,6 +91,22 @@ Lanka IOC and Siainopek Company has not been properly notified.
 [Data](articles/5fb99e8f.json)
 
 [Extended Data](ext_articles/5fb99e8f.ext.json)
+
+---
+
+### SLPP MPs push for early General Election ahead of Presidential race
+
+*2024-03-01 06:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-MPs-push-for-early-General-Election-ahead-of-Presidential-race/108-278003) · `en`
+
+Colombo, March 1 (Daily Mirror) - In the midst of ongoing discussions surrounding potential electoral alliances among political parties, a notable contingent of MPs from both the government and opposition camps have reportedly expressed a strong inclination towards advocating for a General Election to precede the scheduled presidential ballot, Daily Mirror learns.
+
+The Presidential Election is scheduled to be conducted during the last quarter of this year in accordance with the Constitution. However, President Ranil Wickremesinghe can dissolve Parliament at any time for a snap General Election.
+
+The President has asserted several times that he will take measures to conduct the Presidential Election. The political parties such as the National People’s Power (NPP) have already started campaigning for the Presidential Election.
+
+...
+
+[Data](articles/224c53ff.json)
 
 ---
 
@@ -228,6 +260,22 @@ Ms. Kandambi, a former president of the APB, has long been recognized for her ex
 
 ---
 
+### Gold smuggling MP’s secretary attempts to influence NMRA officials
+
+*2024-03-01 04:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gold-smuggling-MPs-secretary-attempts-to-influence-NMRA-officials/108-278002) · `en`
+
+Colombo, March 1 (Daily Mirror) - The National Medicines Regulatory Authority (NMRA) officials who went to raid a pharmacy in Puttalam that had been operating sans a licence, had to take a ‘tough stance’ when a secretary of the infamous gold smuggling Parliamentarian Ali Sabri Raheem had tried to influence them from performing their duties, the Daily Mirror learns.
+
+Despite several warnings issued by the District Food and Drug Inspectors to cease the operations of the newly opened pharmacy in Puttalam town for selling pharmaceutical drugs without a single licence, the NMRA officials from Colombo organized a raid this week to inspect the illegal premises.
+
+A senior NMRA official from Colombo backed by Puttalam District Food and Drug Inspectors and the Police Special Task Force personnel searched a pharmacy located at Udayar Lane on Marikkar Street in the Puttalam town last Sunday.
+
+...
+
+[Data](articles/f3aa7e15.json)
+
+---
+
 ### The President met students in person
 
 *2024-03-01 04:09:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-நேரில்-சந்தித்தார்-ஜனாதிபதி/175-334031) · `ta`
@@ -337,6 +385,24 @@ Private buses staged a protest this morning that the Sri Lanka Transport Board s
 [Data](articles/e457672b.json)
 
 [Extended Data](ext_articles/e457672b.ext.json)
+
+---
+
+### Sri Lanka expects “smooth” second IMF review
+
+*2024-03-01 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-expects-smooth-second-IMF-review/108-277995) · `en`
+
+The government on Wednesday expressed confidence in the upcoming International Monetary Fund (IMF) review going “smooth”.
+
+Despite the concerns about the progress of debt restructuring with private bondholders still remaining, Sri Lanka is certain that it will be able to successfully implement the reform agenda.
+
+“The second review will commence from March 7 and we are very confident that it will be a smoother review than the first review,” Finance State Minister Shehan Semasinghe said during a press briefing held at the Presidential Media Centre on Wednesday.
+
+The progress in meeting the key commitments under the IMF-backed programme is set to be formally assessed in the context of the second review of the Extended Fund Facility arrangement, alongside the forthcoming 2024 Article IV consultation assessing Sri Lanka’s economic health.
+
+...
+
+[Data](articles/04547b6d.json)
 
 ---
 
@@ -1889,81 +1955,5 @@ The petition further sought a court order stating that former President Sirisena
 [Data](articles/5e674aca.json)
 
 [Extended Data](ext_articles/5e674aca.ext.json)
-
----
-
-### Murder
-
-*2024-02-29 16:06:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொலை-வழக்காக-பதிவு/175-334004) · `ta`
-
-Farmers decided to march towards New Delhi, demanding various demands. They departed from the state of Punjab and Haryana for this. But the borders of the state of Haryana and Punjab were closed and barricades were set up so that farmers did not move to New Delhi.
-
-On the 21st of this month, farmers tried to move to New Delhi over the Punjab -Haryana border.. The Haryana police then entered the Punjab border and attacked the farmers. Seems to have carried out the shooting then. Subkaran Singh, a 21 -year -old young farmer, died tragically. At the same time, 12 security police were injured.
-
-Farmers went on strike demanding justice for Subkaran's death. Also, Subkaran Singh's death should be registered as a murder case. Until then, they announced that he would not bury his body.
-
-...
-
-[Data](articles/83e7e0b0.json)
-
-[Extended Data](ext_articles/83e7e0b0.ext.json)
-
----
-
-### President pledges swift relief to all eligible ‘Aswasuma’ beneficiaries
-
-*2024-02-29 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97628/president-pledges-swift-relief-to-all-eligible-aswasuma-beneficiaries) · `en`
-
-President Ranil Wickremesinghe has emphasized that swift relief would be provided to all eligible “Aswasuma” beneficiaries while stressing the importance of government officials’ support in effectively delivering the “Aswasuma” and “Urumaya” benefits to the people.
-
-Furthermore, President Wickremesinghe commended all Grama Niladhari Officers for their unwavering commitment to supporting the government’s successful implementation of these two programs despite facing hardships.
-
-Wickremesinghe also promised to consider their proposals and address their issues, the PMD mentioned.
-
-He made these observations during a meeting at the Matale Wilgamuwa Divisional Secretariat on the “Aswasuma” program implementation today (29).
-
-Meanwhile the President also made a visit to Wilgamuwa Pallegama Madhya Maha Vidyalaya today (Feb. 29), to assess the educational activities of the students.
-
-...
-
-[Data](articles/82dbe5ba.json)
-
-[Extended Data](ext_articles/82dbe5ba.ext.json)
-
----
-
-### Don't take a bath in the Ganges
-
-*2024-02-29 16:02:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்கையில்-யாரும்-குளிக்க-வேண்டாம்/175-334001) · `ta`
-
-Ganga is one of the holy rivers of India. The river is formed in the Himalayas and crosses many states and mixes with the sea in West Bengal. It is the belief of the Hindus that all sins will go away if you swim in the river Ganga. As a result, millions of people are swimming in the Ganga River every year.
-
-The National Green Tribunal has announced that the Ganges in West Bengal have become a place where six civilians have become an ineligible place.. Also, 258 million liters of refined sewage per day mix directly into the river. As a result of the spread of bacterial virus, the public has warned that no one should bathe in the Ganges River.
-
-◼️
-
-[Data](articles/a1c700a6.json)
-
-[Extended Data](ext_articles/a1c700a6.ext.json)
-
----
-
-### Central Bank officials summoned for special party leaders’ meeting next week
-
-*2024-02-29 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-officials-summoned-for-special-party-leaders-meeting-next-week/108-277967) · `en`
-
-Colombo, Feb. 29 (Daily Mirror)- Central Bank Governor Nandalal Weerasinghe and other officials of the Central Bank have been summoned for a special party leaders' meeting on March 4, Parliament  sources said today.
-
-"It is expected that party leaders will question about the recent salary increments given to the Central Bank staff, the Parliament media office said.
-
-"The meeting on March 4 will be a special one as representatives of all parties in Parliament will participate," a spokesman from the office said.
-
-The Central Bank officials are also expected to go before the Public Finance Committee on the same day.
-
-◼️
-
-[Data](articles/c44bc41d.json)
-
-[Extended Data](ext_articles/c44bc41d.ext.json)
 
 ---

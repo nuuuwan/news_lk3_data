@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 17:33:38**
+As of **2024-03-01 17:53:33**
 
 ## Newspaper Stats
 
-*Scraped **10,269** Articles*
+*Scraped **10,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,77 @@ adaderanalk | 1,246
 tamilmirrorlk | 1,253
 virakesarilk | 1,398
 dailymirrorlk | 1,557
-adaderanasinhalalk | 1,573
+adaderanasinhalalk | 1,575
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,267 (100.0%) of 10,269 articles have been extended.
+10,271 (100.0%) of 10,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### விமலுக்கு நோட்டீஸ்
+### Thicky thugs to Ranil's house on 9th
+
+*2024-03-01 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194014) · `si`
+
+President Ranil Wickremesinghe has abused the private home of Ranil Wickremesinghe and suspended two persons who stole their items in the house.
+
+On July 9, 2022, a model of the president's house was stolen by a resident of the Boralesgamuwa area in the Boralesgamuwa area in the Boralesgamuwa area.
+
+Accordingly, the man suspended six months in six months of suspended sentences.
+
+Meanwhile, a metallic haw of the President's personal home was suspended for five years of sewing by a resident of Boralesgamuwa.
+
+He has fined Rs.
+
+◼️
+
+[Data](articles/8fb4010d.json)
+
+[Extended Data](ext_articles/8fb4010d.ext.json)
+
+---
+
+### Sapugaskanda who close to July
+
+*2024-03-01 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194013) · `si`
+
+The Ceylon Petroleum Corporation has announced that the daily operations of the Sapugaskanda fuel refinement will be imported to 45 days in July.
+
+The Sapugaskanda fuel refinery will be closed for scheduled maintenance and repairs.
+
+According to international terms, the maintenance should be carried out in a period of 45 days.
+
+The Sapugaskanda fuel refinery is expected to have a maximum and reliable activity of the Sapugaskanda fuel refinery for the next three years.
+
+◼️
+
+[Data](articles/166b8502.json)
+
+[Extended Data](ext_articles/166b8502.ext.json)
+
+---
+
+### Notice for Wimal
 
 *2024-03-01 16:43:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமலுக்கு-நோட்டீஸ்/175-334054) · `ta`
 
-10 வருட காலத்திற்குள் முறையான வருமானம் மற்றும் சொத்துக்கள் மூலம் சம்பாதிக்க முடியாத 75 மில்லியன் ரூபாவிற்கு மேல் சம்பாதித்த விமல் வீரவன்சவிற்கு எதிராக இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவினால் முன்வைக்கப்பட்ட வழக்கை எதிர்வரும் மார்ச் மாதம் 22 ஆம் திகதிக்கு ஒத்திவைத்த கொழும்பு மேல் நீதிமன்ற நீதிபதி நவரத்ன மாரசிங்க, அன்றையதினம் நீதிமன்றத்தில் ஆஜராகுமாறு விமல் வீரவன்சவுக்கு  அழைப்பாணையை விடுத்துள்ளார்.
+Colombo High Court Judge Navaratne Marasinghe, who adjourned the case filed by the Bribery Commission against Wimal Weerawansa, who has earned more than 75 million rupees that cannot be earned by proper income and assets within 10 years.
 
-விமல் வீரவன்சவுக்கு அவ்வப்போது உடல் நலக்குறைவு ஏற்பட்டுள்ளதால், அவருக்கு எதிரான இலஞ்ச ஊழல் வழக்கின் விசாரணையை  நிறைவு செய்ய முடியாதுள்ளது என மேலதிக சொலிசிட்டர் ஜெனரல் ஆயிஷா சுட்டிக்காட்டியுள்ளார்.
+Additional Solicitor General Aisha has pointed out that Wimal Weerawansa has been suffering from occasional illness and cannot be completed by the bribery scandal.
 
-நல்லாட்சி அரசாங்கத்தின் போது முன்னாள் அமைச்சர் விமல் வீரவங்ச 2009 ஜனவரி 1 முதல் 2014 டிசம்பர் 31 வரையான காலப்பகுதியில் 75 மில்லியன் ரூபாவிற்கும் அதிகமான பணம் மற்றும் சொத்துக்களை சட்டரீதியான வருமானத்தின் மூலம் சம்பாதிக்கவில்லை என  இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழு குற்றம் சுமத்தியுள்ளது.
+The Bribery Commission has accused the former minister Wimal Weerawansa of not earning more than 75 million rupees of money and assets through legal income from January 1, 2009 to December 31, 2014.
 
-...
+The Bribery Commission has said that the acquisition of more than 75 million rupees of income and money has been committed under bribery, which is being analyzed in bribery law.
+
+◼️
 
 [Data](articles/fc3e7c88.json)
+
+[Extended Data](ext_articles/fc3e7c88.ext.json)
 
 ---
 
@@ -196,21 +242,25 @@ According to market capitalization, the 12 Largest Companies listed in the Colom
 
 ---
 
-### சாந்தனின் பூதவுடலை புகைப்படம் எடுக்க சந்தர்ப்பம் மறுப்பு
+### Refusal to photograph Shantan's Blood
 
 *2024-03-01 15:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-பூதவுடலை-புகைப்படம்-எடுக்க-சந்தர்ப்பம்-மறுப்பு/175-334053) · `ta`
 
-இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ் காந்தியின் கொலைக் குற்றச்சாட்டின் பேரில் தண்டிக்கப்பட்ட சாந்தன் எனப்படும் டி.சுரேந்திரராஜாவின் சடலம் கட்டுநாயக்க விமான நிலையம், விமான சரக்கு முனையத்திற்கு வெள்ளிக்கிழமை (01) பிற்பகல் அனுப்பி வைக்கப்பட்டது.
+The body of T. Surendraraja, who was convicted on the murder of former Prime Minister Rajiv Gandhi, was sent to the Katunayake airport on Friday afternoon.
 
-T. சுரேந்திர ராஜா குற்றவாளியாக அறிவிக்கப்பட்டு சிறைத்தண்டனை அனுபவித்து, பின்னர் பொதுமன்னிப்பு பெற்றார், பின்னர் இந்தியாவின் சென்னையில், அவர் கடுமையான சிறுநீரக நோயால் பாதிக்கப்பட்டிருந்தபோது, ​​இலங்கையில் உள்ள தனது தாயாரைப் பார்க்கவிருந்தார்.
+Tea. Surendra Raja was found guilty and was jailed, and later amnesty, and later in India, Chennai, he was going to visit his mother in Sri Lanka when he suffered from severe kidney disease.
 
-அவரது சடலம் இந்தியாவின் சென்னையில் இருந்து ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானமான UL-122 இல் கட்டுநாயக்க விமான நிலையத்திற்கு 03/01 பகல் 11.35 மணியளவில் அனுப்பி வைக்கப்பட்டது.
+His body was sent to the Katunayake airport at Sri Lanka Airlines flight from Chennai, Chennai at 11.35 pm.
 
-சடலத்தை பெற்றுக் கொள்வதற்காக  உறவினர்கள் பலர் கட்டுநாயக்க விமான நிலைய விமான சரக்கு முனையத்திற்கு வருகை தந்துள்ளதுடன், சடலத்தை விடுவிப்பதற்கு தேவையான ஆவணங்கள் சிலவற்றை சென்னையில் இருந்து கட்டுநாயக்க விமான நிலையத்திற்கு அனுப்பி வைக்க வேண்டியுள்ளது.
+Many relatives have visited the Katunayake Airport Airport to the Katunayake Airport to get the body and some documents needed to release the body from Chennai to Katunayake airport.
 
-...
+Until the documents were available, the body was placed on the airport's cargo terminal at the Katunayake airport at 03.30 pm and no opportunity to photograph journalists.
+
+◼️
 
 [Data](articles/1268382c.json)
+
+[Extended Data](ext_articles/1268382c.ext.json)
 
 ---
 
@@ -1979,53 +2029,5 @@ Meanwhile, MP Gayantha Karunatilake of the Jana Sex Gayantha Karunatilake said t
 [Data](articles/7f94ef32.json)
 
 [Extended Data](ext_articles/7f94ef32.ext.json)
-
----
-
-### 112 people lose their lives near Gaza
-
-*2024-03-01 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193983) · `si`
-
-112 Palestinian refugees were killed and 760 others were injured in a gaze collect.
-
-Israeli army has been attacked by a group of tanks to a group of people who had been brought to the Gaza.
-
-Due to shooting, thrust and lorries, the deaths and injuries have taken place.
-
-The Palestinian Health Ministry says it is a massacre of Israel.
-
-The United Nations has also called on the ancient security council meeting to discuss the incident.
-
-◼️
-
-[Data](articles/2464d0f3.json)
-
-[Extended Data](ext_articles/2464d0f3.ext.json)
-
----
-
-### At least 43 dead in Bangladesh building blaze
-
-*2024-03-01 07:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97642/at-least-43-dead-in-bangladesh-building-blaze) · `en`
-
-At least 43 people have been killed after a fire broke out in a multi-storey building in Bangladesh, the country’s health minister says.
-
-According to local media, the blaze began in a restaurant at around 22:00 local time (16:00 GMT) on Thursday in the capital, Dhaka.
-
-It spread quickly through the building, trapping dozens of people.
-
-The fire was later bought under control, according to fire officials, and the cause is being investigated.
-
-Bangladesh’s Health Minister, Samanta Lal Sen, said that at least 33 people, including women and children, were declared dead at the Dhaka Medical College Hospital.
-
-At least 10 others died at the city’s main burns hospital. Dozens more people have been sent there for treatment, Mr Sen said.
-
-The emergency services were called to the Kacchi Bhai restaurant, which according to the Daily Bangladesh newspaper, is in a building that has seven floors.
-
-...
-
-[Data](articles/4301bdc6.json)
-
-[Extended Data](ext_articles/4301bdc6.ext.json)
 
 ---

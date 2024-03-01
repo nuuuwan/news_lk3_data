@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 13:02:47**
+As of **2024-03-01 13:17:16**
 
 ## Newspaper Stats
 
-*Scraped **10,222** Articles*
+*Scraped **10,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,27 @@ adaderanalk | 1,237
 tamilmirrorlk | 1,243
 virakesarilk | 1,397
 dailymirrorlk | 1,548
-adaderanasinhalalk | 1,561
+adaderanasinhalalk | 1,562
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,218 (100.0%) of 10,222 articles have been extended.
+10,222 (100.0%) of 10,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### අහුන්ගල්ලේ වෙඩිතැබීමක්
+
+*2024-03-01 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194001) · `si`
+
+◼️
+
+[Data](articles/1ad29f15.json)
+
+---
 
 ### Sri Lanka unveils ‘Govt. Action Plan’ based on IMF governance diagnostic assessment
 
@@ -50,6 +60,8 @@ The IMF earlier lauded the timely publication of the GDA, highlighting that it w
 
 [Data](articles/fb88a919.json)
 
+[Extended Data](ext_articles/fb88a919.ext.json)
+
 ---
 
 ### Import duty on dates to be reduced in view of Ramadan
@@ -66,6 +78,8 @@ The Minister further said that the permission of the Religious Affairs Ministry 
 
 [Data](articles/1d87147e.json)
 
+[Extended Data](ext_articles/1d87147e.ext.json)
+
 ---
 
 ### Unidentified assailants open fire at house in Padukka
@@ -81,6 +95,8 @@ Police also mentioned that they were planning to buy the house in question as we
 ◼️
 
 [Data](articles/d6166164.json)
+
+[Extended Data](ext_articles/d6166164.ext.json)
 
 ---
 
@@ -239,6 +255,8 @@ Earlier this week, the CBSL requested the President, in his capacity as the Mini
 ...
 
 [Data](articles/e8f608b4.json)
+
+[Extended Data](ext_articles/e8f608b4.ext.json)
 
 ---
 
@@ -1929,25 +1947,5 @@ He said only the NPP can abolish the Executive Presidency and ensure the people'
 [Data](articles/622ef9c1.json)
 
 [Extended Data](ext_articles/622ef9c1.ext.json)
-
----
-
-### Sri Lanka target Bangladesh tour as final tune-up for T20 WC
-
-*2024-02-29 22:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-target-Bangladesh-tour-as-final-tune-up-for-T20-WC/108-277977) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - Sri Lanka's Twenty20 International (T20I) Captain Wanindu Hasaranga today expressed confidence ahead of their upcoming tour of Bangladesh, kicking off on March 4 in Sylhet, which serves as crucial preparation for the T20 World Cup later this year.
-
-The Sri Lanka T20I squad left for Bangladesh this morning. The tour kicks off with a series of T20Is, with the first match scheduled for March 4 at the Sylhet International Cricket Stadium (SICS) in Sylhet. The second and third T20Is on March 6 and 9 will also be at the SICS.
-
-Speaking before the departure, Hasaranga stressed the team's desire to win all three T20 matches and build momentum with a positive mental state, carried over from victories against Zimbabwe and Afghanistan.
-
-"We only have the Bangladesh series before heading to the T20I World Cup. We hope to perform well in this series, win all three games, and enter the T20 World Cup with confidence.”
-
-...
-
-[Data](articles/414518a4.json)
-
-[Extended Data](ext_articles/414518a4.ext.json)
 
 ---

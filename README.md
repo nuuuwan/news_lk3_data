@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 11:03:34**
+As of **2024-03-01 11:17:19**
 
 ## Newspaper Stats
 
-*Scraped **10,190** Articles*
+*Scraped **10,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,108 @@ newsfirstlk | 363
 economynextcom | 526
 dailyftlk | 542
 islandlk | 543
-adalk | 867
+adalk | 868
 adaderanalk | 1,228
-tamilmirrorlk | 1,241
+tamilmirrorlk | 1,243
 virakesarilk | 1,394
-dailymirrorlk | 1,543
-adaderanasinhalalk | 1,553
+dailymirrorlk | 1,546
+adaderanasinhalalk | 1,556
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,190 (100.0%) of 10,190 articles have been extended.
+10,190 (99.9%) of 10,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### විමල් ට පාචනය
+
+*2024-03-01 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193995) · `si`
+
+හිටපු අමාත්‍ය විමල් විරවංශ මහතා මේ දිනවල උණ, වමනය හා පාචනය රෝගී තත්ත්වයන්ගෙන් පෙළෙන බව ඔහුගේ නීතිඥවරුන් අද (01) කොළඹ මහාධිකරණයට දැනුම්දී තිබේ.
+
+ඒ, රුපියල් මිලියන 75කට අධික වත්කම් සහ මුදල් උපයාගත් ආකාරය හෙළිදරව් කිරීමට අපහාසත් වී ඇති බවට චෝදනා එල්ලවී ඇති නඩුවක් සම්බන්ධයෙනි.
+
+මෙම නඩුව අද කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා ඉදිරියේ කැඳවීය.
+
+එම අවස්ථාවේදී විත්තිකාර විමල් වීරවංශ මහතා අධිකරණයේ පෙනී සිටියේ නැත.
+
+◼️
+
+[Data](articles/3a110406.json)
+
+---
+
+### ඉන්දීය ආර්ථිකය වේගයෙන් ඉහළ ට
+
+*2024-03-01 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193994) · `si`
+
+ලොව ප්‍රධානතම ආර්ථික අතුරින් වේගයෙන්ම වර්ධනය වන ආර්ථිකය තමන් බව ඉන්දියාව නැවතත් සනාථ කර තිබේ.
+
+2023 වසරේ අවසාන කාර්තුවේදී එරට ආර්ථිකය 8.4%කින් වර්ධනය වී ඇති බව නවතම දත්ත අනූව පෙනීයයි.
+
+2024 වසරේ ඉන්දීය මහ මැතිවරණය පැවැත්වෙන බැවින් මෙම ආර්ථික වර්ධනය පිළිබඳ තොරතුරු මෝදී ගේ රජයට වාසිදායක තත්ත්වයක් නිර්මාණය කරන බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+
+ජපානය සහ ජර්මනිය අභිබවා යමින් ලොව තෙවැනි විශාලතම ආර්ථිකය බවට ඉන්දියාව නුදුරේදීම පත්වෙතැයි අපේක්ෂා කෙරේ.
+
+එරට නිෂ්පාදන ක්ෂේත්‍රයේ සුවිශේෂී වර්ධනය ඉන්දීය ආර්ථිකයට මහත් ශක්තියක් වී ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/5fae2882.json)
+
+---
+
+### ලිට්‍රෝ ගෑස් මිල වෙනස් නොවෙයි
+
+*2024-03-01 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193993) · `si`
+
+මාර්තු මාසය සඳහා ලිට්‍රෝ ගෑස් මිල වෙනස් නොවන බව එම සමාගම පවසයි.
+
+◼️
+
+[Data](articles/d7d402db.json)
+
+---
+
+### No Litro gas price revision for March
+
+*2024-03-01 10:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-Litro-gas-price-revision-for-March/108-278027) · `en`
+
+Colombo, March 1 (Daily Mirror) - Even though the gas prices in the world market fluctuate, Litro Gas Lanka Ltd. has decided not to effect a price revision for this month.
+
+Litro Gas Lanka Chairman Muditha Peiris told the Daily Mirror that the company has decided to continue the gas prices announced for February for this month as well.
+
+As per the decision, the current Litro LP gas rates are as follows: The retail price of a 12.5 kg cylinder of gas will remain at Rs. 4,250, the 5 kg cylinder will stay at Rs. 1,707 and the 2.3 kg cylinder at Rs. 795.
+
+◼️
+
+[Data](articles/e24a11a4.json)
+
+---
+
+### விளக்கை அணைத்த விவகாரம் அதிபர் கைது
+
+*2024-03-01 10:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விளக்கை-அணைத்த-விவகாரம்-அதிபர்-கைது/76-334041) · `ta`
+
+பாடசாலை சிற்றுண்டியின் உரிமையாளரான பெண்ணொருவரை பாலியல் வன்புணர்வு உட்படுத்தினார் என்றக் குற்றச்சாட்டில், அப்பாடசாலையின் அதிபர் கைது செய்யப்பட்டுள்ளார்.
+
+மொனராகலை கலபெத்த மகா வித்தியாலய அதிபர், பாடசாலையின் சிற்றுண்டிச்சாலையின் உரிமையாளரை பாலியல் வன்கொடுமை செய்ததாக அவர் தொம்பகஹவெல பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+
+கலபெத்த அலபொத்த பகுதியைச் சேர்ந்த 33 வயதுடைய இந்த பெண், கடந்த (28) உணவகத்தை மூடிவிட்டு வீட்டுக்குச் சென்றுள்ளார்.
+
+பின்னர் பாடசாயின் ஆசிரியை ஒருவர் வந்து, சிற்றுண்டிச்சாலையில் விளக்குகள் அணைக்கப்படவில்லை என்று கூறினார்.
+
+விளக்குகளை அணைத்துவிட்டு வீட்டுக்குச் செல்ல இருந்தபோது, ​​தலைமை ஆசிரியர் அவளை அலுவலகத்திற்கு வரச் சொல்லி பாலியல் பலாத்காரம் செய்துள்ளார்.அதிபருக்கு 53 வயது.
+
+◼️
+
+[Data](articles/e7697011.json)
+
+---
 
 ### President reminds our ownership of the Red Sea
 
@@ -56,6 +142,24 @@ The President was speaking at the occasional guest of the scattering cadet offic
 
 ---
 
+### சிறுமி மீது தாக்குதல் :பெற்றோர் கைது
+
+*2024-03-01 10:20:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-மீது-தாக்குதல்-பெற்றோர்-கைது/175-334040) · `ta`
+
+3 வயதுடைய  சிறுமியை கொடூரமாக தாக்கிய பின்னர் சிறுவர் துஷ்பிரயோகம் செய்ததாக சந்தேகத்தின் பேரில் அச்சிறுமியின் பெற்றோர் இருவர் இன்று (1) கைது செய்யப்பட்டதாக ரிதிமாலியத்த பொலிஸார் தெரிவித்தனர்.
+
+ரிதிமாலியத்த ஊரணிய கஹட்டவாடிய 13, மைல்கல் பிரதேசத்தில் வசிக்கும் 31 வயதுடைய தாய் மற்றும் 27 வயதுடைய தந்தை ஆகியோரே இவ்வாறு கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+பெற்றோரின் தாக்குதலில்  படுகாயமடைந்த 3 வயது சிறுமி மருத்துவ பரிசோதனைக்காக மஹியங்கனை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ரிதிமாலியெத்த காவற்துறை அதிகாரிகள் குழுவொன்று குறித்த வீட்டை சுற்றிவளைத்து சந்தேகத்தின் பேரில் தம்பதிகளை கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/276b9143.json)
+
+---
+
 ### Shooter
 
 *2024-03-01 10:06:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுக்கையில்-துப்பாக்கிச்-சூடு/175-334038) · `ta`
@@ -73,6 +177,22 @@ When the people in their home were sleeping, the people who were panicked becaus
 [Data](articles/fbeced54.json)
 
 [Extended Data](ext_articles/fbeced54.ext.json)
+
+---
+
+### First ever semi-transparent solar PV pilot project commissioned
+
+*2024-03-01 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-ever-semi-transparent-solar-PV-pilot-project-commissioned/108-278023) · `en`
+
+Colombo, March (Daily Mirror) - Sri Lanka’s first ever semi-transparent solar PV-powered agrivoltaic pilot project was commissioned at Hanthana in Kandy.
+
+Power and Energy Minister Kanchana Wijesekera said the project was funded by the Asian Development Bank (ADB).
+
+He said the pilot project will assist the Plantation Industries Ministry, Power & Energy Ministry, the Ceylon Electricity Board (CEB), Tea Small Holders Development Authority and Sustainable Energy Authority to study the development of renewable energy in tea plantations in the country.
+
+◼️
+
+[Data](articles/d64f873f.json)
 
 ---
 
@@ -375,6 +495,30 @@ Meanwhile, the health expert cautioned people to avoid consuming food and bevera
 [Data](articles/bcff5107.json)
 
 [Extended Data](ext_articles/bcff5107.ext.json)
+
+---
+
+### Bangladesh fire: At least 43 dead in Dhaka building blaze
+
+*2024-03-01 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Bangladesh-fire-At-least-43-dead-in-Dhaka-building-blaze/107-278005) · `en`
+
+Bangladesh, March 1 (BBC) - At least 43 people have been killed after a fire broke out in a multi-storey building in Bangladesh, the country's health minister says.
+
+According to local media, the blaze began in a restaurant at around 22:00 local time (16:00 GMT) on Thursday in the capital, Dhaka.
+
+Seventy-five people were rescued and dozens were brought to hospital.
+
+The fire was bought under control after two hours, according to fire officials, and the cause is being investigated.
+
+Bangladesh's Health Minister, Samanta Lal Sen, said that at least 33 people, including women and children, had been declared dead at the Dhaka Medical College Hospital.
+
+At least 10 others died at the city's main burns hospital. Twenty-two were in critical condition, Mr Sen said.
+
+The emergency services were called to the Kacchi Bhai restaurant which, according to the Daily Bangladesh newspaper, is in a building that has seven floors.
+
+...
+
+[Data](articles/0f1d5ed7.json)
 
 ---
 
@@ -1763,175 +1907,5 @@ The Director of the Medical Supplies Unit, the Director of the Medical Supplies 
 [Data](articles/e7304da2.json)
 
 [Extended Data](ext_articles/e7304da2.ext.json)
-
----
-
-### Financial assistance to get legal aid to police
-
-*2024-02-29 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177626) · `ta`
-
-New Police Chief Minister Deshabandu Tennakoon has granted permission from the Police Legal Aid Fund to provide legal assistance to police officers.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said this.
-
-He said the funding would be provided to seek personal legal aid for the legal problems faced by the police while performing their duties.
-
-The Cabinet paper was presented in the Cabinet by the Minister of Public Security, Mrun Alles and had previously approved the Cabinet.
-
-In case of legal issues and the Attorney General's Department refusing to provide government legal aid or providing legal aid in the case of a police officer in connection with the proceedings within the limits of his duties, the police will get relief to the financial crises facing the help of a private lawyer and other legal services..
-
-◼️
-
-[Data](articles/0636e706.json)
-
-[Extended Data](ext_articles/0636e706.ext.json)
-
----
-
-### A computer with security plans for the Olympic Festival. Openings are also stolen
-
-*2024-02-29 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177627) · `ta`
-
-A computer owned by a Paris City Hole Engineer with security plans for the 2024 Olympic Games in Paris and two USP. The bag with openings has been stolen. French officials are in great concern due to this theft.
-
-It is reported that there is important security information on the Olympic Games to be held from July 26, 2024 to August 11 in the French capital, Paris.
-
-This computer and two USB at the train station called Gaya to Nord. Openings have also been stolen.
-
-Computer owner Paris City Hole employee has appealed that theft took place shortly after boarding a train on the 18th platform at the Gaya to Nord Railway Station to travel to Crail.
-
-The incident took place at around 7.00 pm last Monday, police sources said.
-
-The owner of the bag puts his bag in the packet of packs above his seat on the train. After a while, he lodged a complaint with the police that he had noticed that the bag had disappeared.
-
-...
-
-[Data](articles/704e3b0e.json)
-
-[Extended Data](ext_articles/704e3b0e.ext.json)
-
----
-
-### ’We are close to each other’: Champika and Mano
-
-*2024-02-29 20:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-are-close-to-each-other-Champika-and-Mano/108-277975) · `en`
-
-Colombo, Feb 29 (Daily Mirror) -  The United Republic Front and the Tamil Progressive Alliance (TPA) are very close to each other and hold common ideologies most of the time, the leaders of the two parties said.
-
-United Republic Front leader Patali Champika Ranawaka and TPA leader Mano Ganesan came up with this common remark while speaking to journalists after a meeting they held in Colombo.
-
-MP Ranawaka met MP Ganesan at the latter's residence in Pamankada this morning.
-
-The two leaders said they are close to each other when journalists questioned them as to whether Ranawaka is forging a new alliance to face  future elections.
-
-"We sit next to each other in Parliament and exchange ideas. We have common ideologies most of the time. Wex like the TPA, feel that the plantation commimity is isolated and one of the groups which are mostly affected by the current economic crisis," Ranawaka said.
-
-"We want to establish a common national programme for the sake of the nation," he added.
-
-...
-
-[Data](articles/e1ff5da2.json)
-
-[Extended Data](ext_articles/e1ff5da2.ext.json)
-
----
-
-### Sajith's charges
-
-*2024-02-29 19:50:26* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගෙන්-කථානායකට-චෝදනාවක්/11-408368) · `si`
-
-Opposition Leader Sajith Premadasa said that it is useless to think that there is use of a church chaired by a Speaker of the Constitution.
-
-He was speaking at the Bingiriya area today (29) regarding the appointment of the IGP without the approval of the Constitutional Council.
-
-The Opposition Leader Sajith Premadasa said so.
-
-"Does this the question I have asking? Does this constitution work? Does the supreme law of this country don't follow this?. This is altogether raw bundle of nights. Can you do that?So we have to come to the conclusion that the country is not lawless. The biggest problem is the Speaker of Parliament, the head of parliament, not accepted the Constitution. He admits his own constitution that he imagined him.
-
-...
-
-[Data](articles/48a51b11.json)
-
-[Extended Data](ext_articles/48a51b11.ext.json)
-
----
-
-### The size of the relief is up
-
-*2024-02-29 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193972) · `si`
-
-President Ranil Wickremesinghe says he will increase the size of the revenue program to 24 lakhs.
-
-The President added that the proceedings of the public servants will continue to increase the Rs. 1,000 in April.
-
-"We have been implemented from last year to provide the benefits of rewarding of the revenue. I have arrived in Wilgamu today to look into the program. I was responsible for the president's economic position when the country was banging of the country's economy. No leader came forward to recover economic crises in that day. In such a bankruptcy, the people lost their jobs and problems have arisen about living. "
-
-...
-
-[Data](articles/b27482b8.json)
-
-[Extended Data](ext_articles/b27482b8.ext.json)
-
----
-
-### I have lost a police officer from asleep as humiliating, attack
-
-*2024-02-29 19:31:46* · [`adalk`](https://www.ada.lk/breaking_news/මම-තරම්-නින්දා-අපහාසවලට--පහර-කෑම්වලට-ලක්වෙච්ච-පොලිස්-නිලධාරියෙක්-නැතිව-ඇති/11-408366) · `si`
-
-IGP Deshabandu Tennakoon said that he was determined to carry out an organized crime and drug abuse from the police.
-
-"You can bow down to different people. Can open up. But the job I was assigned to me has played my energy for the Sri Lankan police.
-
-Check History if a police officer in the police service is in the police service as much as I am as humiliating. I was standing strong in my absurd allegations, insults.
-
-Therefore, working officials serve in the same amount of energy to face challenges in the future in the future.I am determined to eradicate organized crime and drugs from Sri Lanka. It is expected to make a police strict transformation and create the environment that needs to come to the top. During the 26-year-old police officer, the police were able to recover the experience of every rank. "
-
-◼️
-
-[Data](articles/83f2d501.json)
-
-[Extended Data](ext_articles/83f2d501.ext.json)
-
----
-
-### I'm not the riches of the sugar balls
-
-*2024-02-29 19:15:22* · [`adalk`](https://www.ada.lk/breaking_news/මම-සීනි-බෝල-ගේන-සොච්චම්-දේ-කරන-දේශපාලඥයෙක්-නොවෙයි/11-408364) · `si`
-
-The Ports and Aviation Minister Nimal Siripala de Silva said that when SriLankan Airlines was reformed by the SriLankan Airlines, he said that the company would resolve the issues of the organization.
-
-15500 km under the carpet developed project, the Minister said,
-
-"The government has many challenges. He is contemplating the country, and not meditating on popular politics.
-
-Now we have entered an agreement with the International Monetary Fund. We can spend income taxes. Money like it could not be molded. Whatever the government comes, they can't play that you say.
-
-You have to spend on the criteria of the International Monetary Fund.. Mr. Sajith Premadasa says. When he came to power, he talked to the International Finance Institute with the IMF to power and change these conditions.
-
-The IMF is led by Mr. Ranil Wickremesinghe, Mr. Ranil and Sajith Premadasa faces. There are conditions of their criticism and conditions according to the government.
-
-...
-
-[Data](articles/46077544.json)
-
-[Extended Data](ext_articles/46077544.ext.json)
-
----
-
-### Rajiv Gandhi assassination convict dies in India; mortal remains to be sent to Sri Lanka
-
-*2024-02-29 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97635/rajiv-gandhi-assassination-convict-dies-in-india-mortal-remains-to-be-sent-to-sri-lanka) · `en`
-
-The Madras High Court on Thursday, February 29, 2024, directed the Tamil Nadu government to appoint a senior Indian Administrative Service (IAS) officer and an Indian Police Service (IPS) officer as nodal officers in-charge, to make all necessary arrangements to take the mortal remains of former PM Rajiv Gandhi assassination convict Santhan alias T. Suthenthirarajah to Sri Lanka.
-
-Santhan died at the Rajiv Gandhi Government General Hospital in Chennai on February 28, 2024.
-
-A Division Bench of Justices R. Sureshkumar and K. Kumaresh Babu issued the direction after Additional Solicitor General (ASG) AR.L. Sundaresan and State Public Prosecutor (SPP) Hasan Mohamed Jinnah informed the court that the mortal remains could be flown to the convict’s home country only if the Sri Lankan Deputy High Commission in Chennai granted the necessary permission.
-
-...
-
-[Data](articles/49b23e61.json)
-
-[Extended Data](ext_articles/49b23e61.ext.json)
 
 ---

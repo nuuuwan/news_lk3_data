@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 15:51:07**
+As of **2024-03-01 16:02:43**
 
 ## Newspaper Stats
 
-*Scraped **10,248** Articles*
+*Scraped **10,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 528
 dailyftlk | 542
 islandlk | 544
 adalk | 872
-adaderanalk | 1,241
+adaderanalk | 1,243
 tamilmirrorlk | 1,248
 virakesarilk | 1,398
 dailymirrorlk | 1,553
@@ -26,21 +26,39 @@ adaderanasinhalalk | 1,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,247 (100.0%) of 10,248 articles have been extended.
+10,248 (100.0%) of 10,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### ශිෂ්‍යත්වයේ නැවත සමීක්ෂණ ප්‍රතිඵල මත පාසල් අයදුම් කිරීම ගැන නිවේදනයක්
+### Sri Lanka’s first semi-transparent solar PV agrivoltaic pilot project commissioned
+
+*2024-03-01 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97660/sri-lankas-first-semi-transparent-solar-pv-agrivoltaic-pilot-project-commissioned) · `en`
+
+The first-ever semi-transparent Solar photovoltaic (PV) powered agrivoltaic pilot project of Sri Lanka was commissioned in Hanthana, Kandy on Thursday (Feb.29), marking a significant milestone.
+
+Funded by the Asian Development Bank (ADB), the project aims to pioneer the integration of solar power with agricultural activities.
+
+The pilot project will help multiple government bodies, including the Ministry of Plantation Industries, Ministry of Power & Energy, Ceylon Electricity Board (CEB), Tea Small Holders Development Authority, and Sustainable Energy Authority to study the development of renewable energy in tea plantations across the country.
+
+◼️
+
+[Data](articles/47543c43.json)
+
+---
+
+### Announcement on school applying on the results of the scholarship
 
 *2024-03-01 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194008) · `si`
 
-පහ ශ්‍රේණිය ශිෂ්‍යත්ව පරීක්ෂණයේ නැවත සමීක්ෂණ ප්‍රතිඵල මත පාසල් අයදුම් කිරීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කර තිබේ.
+The Ministry of Education has issued a statement regarding the re-survey results of the Grade Five Scholarship Examination.
 
 ◼️
 
 [Data](articles/081f3cdb.json)
+
+[Extended Data](ext_articles/081f3cdb.ext.json)
 
 ---
 
@@ -69,6 +87,26 @@ The cause of the fire is yet to be ascertained and Moragahahena police are condu
 [Data](articles/fe0b5cbf.json)
 
 [Extended Data](ext_articles/fe0b5cbf.ext.json)
+
+---
+
+### President vows swift action if Sri Lanka’s economic rights are compromised
+
+*2024-03-01 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97659/president-vows-swift-action-if-sri-lankas-economic-rights-are-compromised) · `en`
+
+President vows swift action if Sri Lanka’s economic rights are compromised
+
+President Ranil Wickremesinghe has pledged to take action if the economic rights of Sri Lanka are harmed at the Red Sea.
+
+He also stated that Sri Lanka would work to provide the necessary support to the United Nations organization whenever there are problems with peace in the region and the world.
+
+The Head of State made this statement while attending the Sri Lanka Air Force Cadet Officers Commissioning Ceremony held on Thursday afternoon (Feb.29) at Air Force Base China Bay, Trincomalee.
+
+Highlighting Sri Lanka’s historical commitment to safeguarding world peace and regional stability, the President emphasized his readiness to make decisive decisions for global peace. He underscored the responsibility and accountability of the armed forces in achieving this objective.
+
+...
+
+[Data](articles/f334567a.json)
 
 ---
 
@@ -1949,43 +1987,5 @@ A woman aged 45 to 55 died in the incident. (A)
 [Data](articles/c07dd791.json)
 
 [Extended Data](ext_articles/c07dd791.ext.json)
-
----
-
-### The National Cyber Security Act will be introduced
-
-*2024-03-01 04:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-சைபர்-பாதுகாப்புச்-சட்டத்தை-கொண்டுவரப்படும்/175-334032) · `ta`
-
-Technology Minister Kanaka Herath said that the National Cyber Protection Act is expected to be introduced within this year and will then establish the Cyber Security Authority.
-
-He said this at a press conference held at the Presidential Media Center yesterday. He further stated that
-
-The digital economy, which has been 4.73 percent in the past, has grown to 5 percent today. So the economy is also strengthened. The digital economic conference will be held in Sri Lanka at the end of July to strengthen it. It has been decided to attract domestic and foreign investors. The work will be carried out by the Ministry of Foreign Embassies, the Ministry of Foreign Affairs and the Ministry of Investment Promotion.
-
-Similarly, the National Cyber Protection Act is expected to bring in this year through Sri Lanka Stert.. He said the Cyber Security Authority would soon be established. (A)
-
-◼️
-
-[Data](articles/afce37ff.json)
-
-[Extended Data](ext_articles/afce37ff.ext.json)
-
----
-
-### Gold smuggling MP’s secretary attempts to influence NMRA officials
-
-*2024-03-01 04:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gold-smuggling-MPs-secretary-attempts-to-influence-NMRA-officials/108-278002) · `en`
-
-Colombo, March 1 (Daily Mirror) - The National Medicines Regulatory Authority (NMRA) officials who went to raid a pharmacy in Puttalam that had been operating sans a licence, had to take a ‘tough stance’ when a secretary of the infamous gold smuggling Parliamentarian Ali Sabri Raheem had tried to influence them from performing their duties, the Daily Mirror learns.
-
-Despite several warnings issued by the District Food and Drug Inspectors to cease the operations of the newly opened pharmacy in Puttalam town for selling pharmaceutical drugs without a single licence, the NMRA officials from Colombo organized a raid this week to inspect the illegal premises.
-
-A senior NMRA official from Colombo backed by Puttalam District Food and Drug Inspectors and the Police Special Task Force personnel searched a pharmacy located at Udayar Lane on Marikkar Street in the Puttalam town last Sunday.
-
-...
-
-[Data](articles/f3aa7e15.json)
-
-[Extended Data](ext_articles/f3aa7e15.ext.json)
 
 ---

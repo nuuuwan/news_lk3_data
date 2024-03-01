@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 08:17:24**
+As of **2024-03-01 08:33:13**
 
 ## Newspaper Stats
 
@@ -26,79 +26,87 @@ adaderanasinhalalk | 1,547
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,154 (99.9%) of 10,161 articles have been extended.
+10,161 (100.0%) of 10,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### පාළු නිවසක් අසල කාන්තා මළසිරුරක්
+### A female body near a deserted house
 
 *2024-03-01 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193986) · `si`
 
-පාළු නිවසක් අසල කාන්තා මළසිරුරක් තිබී පොලීසිය විසින් සොයාගෙන ඇත.
+Police have found a bodies of a female bodies near a lonely house.
 
-ඊයේ (29) උදෑසන කාලයේදී කටුනායක වල්පොල ප්‍රදේශයේ පාළු නිවසක් අසල තිබී එම සිරුර සොයාගෙන ඇත.
+The body was found near a deserted house in the Walpola area in Katunayake yesterday morning.
 
-මියගොස් ඇත්තේ වයස අවුරුදු 46ක් වූ කටියල දෙමංහන්දිය ප්‍රදේශයේ පදිංචිකාරිනියකි.
+The victim was a 46 year old resident of Dehanhamandiya, Demhandiya.
 
-ඇය සිය සැමියාගේ මව, පියා සහ දියණිය සමග පදිංචිව සිට ඇති අතර පසුගිය 25 වනදා වල්පොල ප්‍රදේශයේ ඥාති නිවසකට යන බව පවසා නිවසින් පිටව ගොස් තිබූ බව අනාවරණය වී ඇත.
+She had been residents of her husband's mother, father and daughter and had left the house to go to a cousin area in the Walpola area on the 25th.
 
-මරණයට හේතුව මෙතෙක් හෙළිවී නොමැති අතර කටුනායක පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The cause of death is yet to be revealed and Katunayake Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/0545155f.json)
 
+[Extended Data](ext_articles/0545155f.ext.json)
+
 ---
 
-### මියන්මාර ත්‍රස්ත ග්‍රහණයේ සිටින ශ්‍රී ලාංකිකයන් බේරාගැනීමට තවත් උත්සාහයක්
+### Another attempt to save Sri Lankans in Myanmar Terrorism
 
 *2024-03-01 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193985) · `si`
 
-මියන්මාරයේ ත්‍රස්ත ග්‍රහණයේ පසුවන ශ්‍රී ලාංකික පිරිස බේරාදෙන ලෙස ඉල්ලමින් සකස් කළ මහානායක හිමිවරුන්ගේ සංදේශයක් මියන්මාර මහානායක හිමියන් වෙත යොමුකරන බව පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා බණ්ඩාර මහතා පවසයි.
+MP Wasantha Yapa Bandara says that Myanmar Mahanayantha is directing the Mahanayakara Thero's memorandum to demand the escape of Myanmar.
 
-ඔහු ප්‍රකාශ කළේ අදාළ සංදේශය යොමුකිරීම මගින් මියන්මාර මහානායක හිමි හරහා මියන්මාර රාජ්‍ය පාලනය මෙම ගැටලුව විසදීමට මැදිහත් කරගන්නා බවය.
+He stated that the Myanmar's State Control through Myanmar Mahanayara Thero through Myanmar Mahanayake Thera is involved in solving this problem.
 
 ◼️
 
 [Data](articles/03f0858e.json)
 
+[Extended Data](ext_articles/03f0858e.ext.json)
+
 ---
 
-### කථානායක ගැටලුකාරී තත්ත්වයක  - අධිකරණ ඇමති
+### Speaker is a problem with the Minister of Justice
 
 *2024-03-01 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193984) · `si`
 
-ව්‍යවස්ථාදායක සභාව සඳහා සාමාජිකයින් 10 දෙනෙකු පත් කිරීමට කටයුතු කළද සුළු පක්ෂ නියෝජනය කරමින් පත් කළ යුතු නියෝජිතයා මෙතෙක් නම් නොකිරීම හරහා කථානායකවරයා ගැටලුකාරී තත්ත්වයකට පත්කර ඇති බව අධිකරණ අමාත්‍ය ජනාධිපති නීතිඥ විජයදාස රාජපක්ෂ මහතා පවසයි.
+Minister of Justice Wijayadasa Rajapakse said that the Speaker had taken a problem with the Legislative Council, but said the Speaker of Justice Wijayadasa Rajapaksa.
 
-ඔහු ප්‍රකාශ කළේ පොලිස්පතිවරයා පත් කිරීමේදී කථානායකවරයා ගත් තීන්දුවේ‍ කිසියම් නීතිමය ගැටළුවක් පවතින බවට යම් පාර්ශ්වයක් විශ්වාස කරන්නේ නම් ශ්‍රේෂ්ඨාධිකරණයෙන් ආර්ථ නිරූපණයක් ලබාගැනීම යෝග්‍ය බවය.
+He stated that if a party believes that the Speaker believes that there is a legal issue in the decision of the Speaker, it is advisable to obtain a representation of the Supreme Court.
 
-මේ අතර කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාව ඉදිරි දින දෙක තුළ පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට පියවර ගන්නා බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතා සඳහන් කළේය.
+Meanwhile, MP Gayantha Karunatilake of the Jana Sex Gayantha Karunatilake said that steps against Speaker will be presented to Parliament in the next two days, said MP Gayantha Karunatilake.
 
 ◼️
 
 [Data](articles/7f94ef32.json)
 
+[Extended Data](ext_articles/7f94ef32.ext.json)
+
 ---
 
-### ගාසා තීරයේ සහනාධාර රථ පෙළක් ආසන්නයේදී 112කට දිවි අහිමි වෙයි
+### 112 people lose their lives near Gaza
 
 *2024-03-01 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193983) · `si`
 
-ගාසා තීරයේ සහනාධාර රථ පෙළක් ආසන්නයේ ඇතිවු වෙඩිතැබීම් හා තෙරපීම් හේතුවෙන් පලස්තීන සරණාගතයින් 112 දෙනෙකු මියගොස් තවත් 760 දෙනෙකු තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය පවසයි.
+112 Palestinian refugees were killed and 760 others were injured in a gaze collect.
 
-ගාසා තීරයට ආධාර රැගෙන පැමිණි ලොරි රථ අසල රැස්ව සිටි පිරිසක් වෙත ඊශ්‍රායල හමුදාව යුද ටැංකි වලින් ප්‍රහාර එල්ලකර ඇති බව වාර්තා වෙයි.
+Israeli army has been attacked by a group of tanks to a group of people who had been brought to the Gaza.
 
-වෙඩිතැබීම්, තෙරපීම් සහ ලොරි රථවලට යටවීම් හේතුවෙන් පුද්ගලයන් මියයාම සහ තුවාල ලැබීම් සිදුවී ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+Due to shooting, thrust and lorries, the deaths and injuries have taken place.
 
-පලස්තීන සෞඛ්‍ය අමාත්‍යංශය පවසන්නේ මෙය ඊශ්‍රායලය විසින් සිදුකළ සමූල ඝාතනයක් බවය.
+The Palestinian Health Ministry says it is a massacre of Israel.
 
-සිද්ධිය සම්බන්ධයෙන් සාකච්ඡා කිරීමට එක්සත් ජාතීන්ගේ සංවිධානය හදිසි ආරක්ෂක කවුන්සිල රැස්වීමක් ද කැඳවා තිබේ.
+The United Nations has also called on the ancient security council meeting to discuss the incident.
 
 ◼️
 
 [Data](articles/2464d0f3.json)
+
+[Extended Data](ext_articles/2464d0f3.ext.json)
 
 ---
 
@@ -1280,21 +1288,23 @@ The two leaders said they are close to each other when journalists questioned th
 
 ---
 
-### සජිත්ගෙන් කථානායකට චෝදනාවක්
+### Sajith's charges
 
 *2024-02-29 19:50:26* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගෙන්-කථානායකට-චෝදනාවක්/11-408368) · `si`
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාව අමු අමුවේ උල්ලංඝනය කරන කථානායකවරයකු සභාපතිත්වය දරන සභාවක සිටීමෙන් පලක් තිබේද යන්න සිතා බැලිය යුතු බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Opposition Leader Sajith Premadasa said that it is useless to think that there is use of a church chaired by a Speaker of the Constitution.
 
-ව්‍යවස්ථා සභාවේ අනුමැතිය නොමැතිව නීති විරෝධීව පොලිස්පතිවරයා පත් කිරීම සම්බන්ධයෙන් අද (29දා) බිංගිරිය ප්‍රදේශයේදී අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+He was speaking at the Bingiriya area today (29) regarding the appointment of the IGP without the approval of the Constitutional Council.
 
-එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+The Opposition Leader Sajith Premadasa said so.
 
-"මට අහන්න තියෙන ප්‍රශ්නය තමයි මේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙන් වැඩක් තියෙනවාද? මේ රටේ උත්තරීතර නීතියෙන් වැඩක් තියෙනවාද? මේක අනුගමනය කරන්නේ නෑනේ. මේක සම්පූර්ණයෙන්ම අමු අමුවේ මහ දවල් උල්ලංඝනය කරනවානේ. එහෙම කරන්න පුළුවන්ද? එහෙනම් අපිට නිගමනයකට එන්න සිදු වෙනවා රටේ ක්‍රියාත්මක වෙන්නේ නීතිය නෙවෙයි අවනීතිය කියලා. ලොකුම ප්‍රශ්නය තමයි පාර්ලිමේන්තුවේ ප්‍රධානියා වන කථානායකවරයාත් පිළිගන්නේ නෑ මේ ආණ්ඩුක්‍රම ව්‍යවස්ථාව. ඔහු පිළිගන්නේ ඔහු සිතින් මවා ගත්ත ඔහුගේම ආණ්ඩුක්‍රම ව්‍යවස්ථාව.
+"Does this the question I have asking? Does this constitution work? Does the supreme law of this country don't follow this?. This is altogether raw bundle of nights. Can you do that?So we have to come to the conclusion that the country is not lawless. The biggest problem is the Speaker of Parliament, the head of parliament, not accepted the Constitution. He admits his own constitution that he imagined him.
 
 ...
 
 [Data](articles/48a51b11.json)
+
+[Extended Data](ext_articles/48a51b11.ext.json)
 
 ---
 

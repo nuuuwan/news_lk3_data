@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 12:49:07**
+As of **2024-03-01 13:02:47**
 
 ## Newspaper Stats
 
-*Scraped **10,218** Articles*
+*Scraped **10,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ economynextcom | 528
 dailyftlk | 542
 islandlk | 544
 adalk | 869
-adaderanalk | 1,234
+adaderanalk | 1,237
 tamilmirrorlk | 1,243
 virakesarilk | 1,397
-dailymirrorlk | 1,547
+dailymirrorlk | 1,548
 adaderanasinhalalk | 1,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,212 (99.9%) of 10,218 articles have been extended.
+10,218 (100.0%) of 10,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Sri Lanka unveils ‘Govt. Action Plan’ based on IMF governance diagnostic assessment
+
+*2024-03-01 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97654/sri-lanka-unveils-govt-action-plan-based-on-imf-governance-diagnostic-assessment) · `en`
+
+The Finance Ministry on Thursday (Feb.29) unveiled the Government Action Plan, which was prepared based on the Governance Diagnostic Assessment (GDA) furnished by the International Monetary Fund (IMF).
+
+Taking to his X handle (formerly Twitter), Finance State Minister Shehan Semasinghe said this action plan further demonstrates the Sri Lankan government’s commitment to building a sustainable economy and good governance in the country.
+
+The IMF had prepared the governance diagnostic report at the request of Sri Lanka, and the publication was deemed imperative for the authorities to adopt their own action plan to implement the recommendations in the assessment, beyond the priority commitments under the EFF arrangement.
+
+Sri Lanka is the first country in Asia to have undergone the IMF Governance Diagnostic exercise.
+
+The IMF earlier lauded the timely publication of the GDA, highlighting that it was a commendable first step towards addressing deep-rooted corruption weaknesses.
+
+◼️
+
+[Data](articles/fb88a919.json)
+
+---
+
+### Import duty on dates to be reduced in view of Ramadan
+
+*2024-03-01 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Import-duty-on-dates-to-be-reduced-in-view-of-Ramadan/108-278032) · `en`
+
+Colombo, March 1 (Daily Mirror) - The special commodity tax on dates imported on the occasion of Ramadan will be reduced in the next two days, Finance State Minister Ranjith Siyambalapitiya said.
+
+He said the special merchandise tax of Rs. 200, which is currently charged for a kilogram in the importing country, will be reduced to one rupee.
+
+The Minister further said that the permission of the Religious Affairs Ministry Secretary should be obtained to get this relief.
+
+◼️
+
+[Data](articles/1d87147e.json)
+
+---
+
+### Unidentified assailants open fire at house in Padukka
+
+*2024-03-01 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97653/unidentified-assailants-open-fire-at-house-in-padukka) · `en`
+
+A group of unidentified assailants has shot at a house in the Madulawa area of Padukka, early this morning (March 01).
+
+Several individuals from Piliyandala area had been temporarily residing in the house at the time of the incident. As per police report, they had been staying there to attend an upcoming ceremony to lay the foundation stone for a house under construction in a nearby plot of land.
+
+Police also mentioned that they were planning to buy the house in question as well.
+
+◼️
+
+[Data](articles/d6166164.json)
+
+---
 
 ### Parate execution law suspended to help one party: Mayantha
 
@@ -48,6 +100,8 @@ Asked whether Opposition Leader Sajith Premadasa did not lobby for the suspensio
 
 [Data](articles/e9f4ba16.json)
 
+[Extended Data](ext_articles/e9f4ba16.ext.json)
+
 ---
 
 ### Sri Lanka's first wildlife tunnel
@@ -64,47 +118,55 @@ The construction of the first wildlife tank in Sri Lanka was commenced this morn
 
 ---
 
-### காசாவிற்குள் நுழைந்த உணவுவாகனங்களை  சூழ்ந்த மக்கள் - துப்பாக்கி பிரயோகம் செய்த இஸ்ரேலிய படையினர் - தப்பியோட முயன்ற வாகனங்களில் மோதுண்டு உயிரிழந்த பலர் - சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவிப்பு
+### People surrounding the foods that entered the Gaza - the firefighters who fired - many people died in vehicles tried to flee - those who witnessed the incident
 
 *2024-03-01 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177657) · `ta`
 
-ஹமாஸ் இஸ்ரேல் யுத்தம் ஆரம்பித்த பின்னர் இடம்பெற்ற சம்பவங்களில் மிக மோசமான சம்பவம் என குறிப்பிடத்தக்க சம்பவம் வியாழக்கிழமை இடம்பெற்றுள்ளது.
+A notable incident took place on Thursday as the worst incident in the events of the Hamas Israeli war.
 
-காசாவில் உணவை பெறுவதற்காக பெருமளவில் திரண்டிருந்த மக்கள் மீது இஸ்ரேல் தாக்குதலை மேற்கொண்டதில் நூற்றுக்கும் மேற்பட்டவர்கள் கொல்லப்பட்டுள்ளனர்.
+More than a hundred people have been killed in an Israeli attack on people who gathered to get food in Gaza.
 
-உணவுவாகனங்களை நோக்கி பெருமளவில் திரண்ட பசியின் பிடியில் சிக்கியுள்ள பாலஸ்தீனியர்கள் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 117 பாலஸ்தீனியர்கள் கொல்லப்பட்டுள்ளனர் என பாலஸ்தீன சுகாதார அமைச்சு தெரிவித்துள்ளது.
+117 Palestinians have been killed in Israel's attacks on Palestinians, who have been in the grip of a large number of hunger, the Palestinian Ministry of Health said.
 
-முற்றுகைக்குள்ளாகியுள்ள காசா பள்ளத்தாக்கில்  பசியும் பட்டினியும் பெருமளவில் காணப்படும் ஒரு சூழ்நிலையிலேயே இந்த சம்பவம் இடம்பெற்றுள்ளது.
+The incident took place in a situation where hunger and hunger in the Gaza Valley, which is under the siege.
 
-இங்கு உணவுப்பொருட்களுடன் வாகனங்கள் வருவது குறைவு என்பதால் அவ்வாறான வாகனங்களை பார்த்தவுடன் பட்டினியில் சிக்குண்டுள்ள மக்கள் பதற்றம் ஏற்படுவது வழமை.
+It is customary for people who are hungry that they see such vehicles because of the lack of vehicles with food.
 
-எனினும் என்ன நடந்தது என்பது குறித்து இஸ்ரேலும் சம்பவத்தை நேரில் பார்த்தவர்களும் தெரிவித்த விடயங்களில் முரண்பாடுகள் உள்ளன.
+However, there are contradictions in the matter of Israel and those who have seen the incident.
 
-காசாவின் மேற்குபகுதியில் உள்ள ஹரூன் அல் ரசீட் வீதியில் பெரும் குழப்பங்களிற்கு மத்தியில் உயிரிழப்புகள் ஏற்பட்டுள்ளன.
+The deaths have occurred amidst great confusion on the Harun al -Rasheed road in the western part of Gaza.
+
+Thursday morning, 18 food vehicles arrived in the area.
+
+Eyewitnesses said that Israeli soldiers started firing when the public began to accumulate around the newly loaded vehicles.
 
 ...
 
 [Data](articles/9a368f0e.json)
 
+[Extended Data](ext_articles/9a368f0e.ext.json)
+
 ---
 
-### தென் கொரிய மருத்துவ சங்க அலுவலகங்களில் பொலிஸார் முற்றுகை
+### Police blockade at South Korean Medical Society offices
 
 *2024-03-01 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177656) · `ta`
 
-கொரிய மருத்துவர்கள் சங்கத்தின் அலுவலகங்கள் மீது தென் கொரிய பொலிஸார் இன்று முற்றுகைகளை நடத்தினர்.  தென் கொரிய மருத்துவர்களின் வேலை நிறுத்தத்தால் வைத்தியசாலைகளில் குழப்பங்கள் ஏற்பட்டுள்ள நிலையில் இம்முற்றுகைகள் இடம்பெற்றுள்ளன.
+South Korean police today held blockade on the offices of the Korean Doctors Association.The strike by South Korean doctors has caused confusion in hospitals.
 
-சுமார் 10,000 கனிஷ்ட மருத்துவர்கள் கடந்த வாரம் பணிப்பகிஷ்கரிப்பில் ஈடுபட்டிருந்தனர்.  மருத்துவ கல்லூரிகளுக்கு அனுமதிக்கப்படும் மாணவர் எண்ணிக்கையை அதிகரிக்கும் அரசாங்கத்தின் தீர்மானத்துக்கு எதிராக கனிஷ்ட மருத்துவர்கள் பணிப் பகிஷ்கரிப்பில் ஈடுபட்டுள்ளர்ஃ
+About 10,000 junior doctors were involved in last week's work.Junior doctors have been engaged in work against the government's decision to increase the number of students admitted to medical colleges
 
-மருத்துவர்கள் நேற்று வியாழக்கிழமைக்கு முன்னர் பணிக்குத்  திரும்ப வேண்டுமென தென் கொரிய அரசாங்கம் காலக்கெடு விதித்திருந்தது.
+The South Korean government has set a deadline for doctors to return to work before Thursday.
 
-பணிக்குத் திரும்பியவர்கள் தொடர்பான உத்தியோகபூர்வ தரவுகள் எதுவும் இல்லை என தென் கொரிய சுகாதார அமைச்சு தெரிவித்துள்ளது. எனினும், பகிஷ்கரிப்பில் ஈடுபட்டவர்கள் தொடர்ந்தும் பகிஷ்கரிப்பில் ஈடுபடுகின்றன்ர என யோன்ஹாப் செய்திச் சேவை தெரிவித்துள்ளது.
+The South Korean Ministry of Health has said that there are no official data relating to the return of the job.. However, Johnhab News Service said that those involved in the boycott will continue to be boycotted.
 
-கடந்த வாரம் 15 பெரிய வைத்தியசாலைகளில் திட்டமிடப்பட்டிருந்த 50 சதவீதமான சத்திரசிகிச்சைகள் இரத்துச் செய்யப்பட்டதாக தென் கொரிய சுகாதார அமைச்சு தெரிவித்துள்ளது.
+The South Korean Health Ministry said that 50 percent of surgery was canceled in 15 major hospitals last week.
 
 ◼️
 
 [Data](articles/a2a489c0.json)
+
+[Extended Data](ext_articles/a2a489c0.ext.json)
 
 ---
 
@@ -157,6 +219,26 @@ Next week’s parliamentary sessions will be convened from Tuesday to Thursday.
 [Data](articles/0e594a8a.json)
 
 [Extended Data](ext_articles/0e594a8a.ext.json)
+
+---
+
+### Salary hike: CBSL officials summoned to party leaders’ meeting next week
+
+*2024-03-01 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97651/salary-hike-cbsl-officials-summoned-to-party-leaders-meeting-next-week) · `en`
+
+The officials of the Central Bank of Sri Lanka (CBSL) will be summoned to the party leaders’ meeting scheduled to be convened at 10.30 a.m. on Tuesday (March 05), the Department of Communication of Parliament says.
+
+There, the CBSL officials will be inquired about the process and rationale behind the recent salary hike given to its employees.
+
+This was decided at the meeting of Committee on Parliamentary Business held this morning (March 01).
+
+Next week’s parliamentary sessions are slated to be held from Tuesday to Thursday.
+
+Earlier this week, the CBSL requested the President, in his capacity as the Minister of Finance, for an opportunity to apprise the Members of Parliament, through an appropriate Parliamentary Committee, of the recent salary increment which came under fire. The request was made in writing by CBSL Governor Dr. Nandalal Weerasinghe.
+
+...
+
+[Data](articles/e8f608b4.json)
 
 ---
 
@@ -215,6 +297,8 @@ Critics have pointed out that Sri Lanka is paying higher rates to renewable powe
 ...
 
 [Data](articles/8db4c5f7.json)
+
+[Extended Data](ext_articles/8db4c5f7.ext.json)
 
 ---
 
@@ -594,6 +678,8 @@ The Colombo Stock Exchange opened up; The All Share was up 0.18 percent at 10,67
 
 [Data](articles/28e85ac2.json)
 
+[Extended Data](ext_articles/28e85ac2.ext.json)
+
 ---
 
 ### No fuel price revision for March?
@@ -822,7 +908,7 @@ The police have received information that the death was hit by a night mail trai
 
 *2024-03-01 08:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Experts-say-NO-to-sweet-food-and-beverages-for-infants/108-278004) · `en`
 
-Colombo, March 1 (Daily Mirror) - Health experts advice parents to avoid providing their children with sweet food and beverages before they turn two years as it could affect the baby’s development.
+Colombo, March 1 (Daily Mirror) - Health experts advise parents to avoid providing their children with sweet food and beverages before they turn two years as it could affect the baby’s development.
 
 Speaking to Daily Mirror, Dr. Deepal Perera, a Paediatrician at the Lady Ridgeway Children's Hospital in Colombo said sweet food is only recommended after infants turn two while prioritizing breast-feeding during the first six months.
 
@@ -1863,83 +1949,5 @@ Speaking before the departure, Hasaranga stressed the team's desire to win all t
 [Data](articles/414518a4.json)
 
 [Extended Data](ext_articles/414518a4.ext.json)
-
----
-
-### High Court order to Tamil Nadu government
-
-*2024-02-29 22:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-அரசுக்கு-உயர்-நீதிமன்றம்-உத்தரவு/175-334015) · `ta`
-
-The Madras High Court has ordered the Tamil Nadu government to take steps to bring Santhan's body to Sri Lanka.
-
-While Santhan is still alive in the Trichy camp, his mother in Sri Lanka has to go to Sri Lanka to look after him.. He therefore filed a case in the Madras High Court seeking to take appropriate action to send it to Sri Lanka.
-
-When the case of Shantan came up for hearing today, Justice Suresh Kumar and Kumaresh Babu questioned the central government when they were allowed to send Shantan to Sri Lanka.
-
-It was reported that he was allowed to go to Sri Lanka on January 22 last year
-
-Hearing this, the judges questioned the Tamil Nadu government, "Why did the central government not send Santhan to Sri Lanka even after the central government granted permission on January 22."
-
-Responding to this, the Tamil Nadu State Prosecutor said, "Santhan has been hospitalized since January 24. Sri Lanka could not send him because he could not even walk. ”
-
-...
-
-[Data](articles/feae87de.json)
-
-[Extended Data](ext_articles/feae87de.ext.json)
-
----
-
-### Sri Lanka's red alert to Jayanath Butut in Sri Lanka
-
-*2024-02-29 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193978) · `si`
-
-Maligakanda Magistrate's Court today (29) has issued a warrant to arrest another suspect in the case of substandard antibody incident.
-
-The Deputy Solicitor General of the government is in the case of Dr. Jayakath Buthpitiya, who was a member of the Evaluation Committee of the Procurement Program.
-
-She asked the magistrate to issue an order to repatriate him back through the international police to bring him back to Sri Lanka through a red announcement.
-
-Accordingly, Maligakanda Magistrate issued warrants to arrest the suspect.
-
-The Magistrate also ordered the complaint that the case should be arrested and arrested for the arrests of the preliminary investigations in the case within the next 14 days.
-
-Former Health Minister Keheliya Rambukwella and the seven suspects were remanded until March 14 at the end of the suspects at the end of the 14 days.
-
-◼️
-
-[Data](articles/b30090ba.json)
-
-[Extended Data](ext_articles/b30090ba.ext.json)
-
----
-
-### Charity; soon drastic water cuts; overseas idiosyncrasies
-
-*2024-02-29 22:17:00* · [`islandlk`](http://island.lk/charity-soon-drastic-water-cuts-overseas-idiosyncrasies/) · `en`
-
-Our President Ranil Wickremesinghe, who goes his own way following Sinatra’s I did it my way; mostly flying across oceans to attend this meeting and that, has again done it his way. He has initiated a million-dollar fund to help children of the Gaza strip. They are in a horrifyingly pitiable state and need all the help they can get, but can a bankrupt country, still far from becoming solvent, extend big charity to the outside world? Also, what about our children of this country driven to poverty by greedy, heartless political bosses who amassed wealth and let the country go to pot as we used to say.
-
-...
-
-[Data](articles/1ba0c882.json)
-
-[Extended Data](ext_articles/1ba0c882.ext.json)
-
----
-
-### President attends first-ever SLAF night passing out parade
-
-*2024-02-29 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97638/president-attends-first-ever-slaf-night-passing-out-parade) · `en`
-
-The historic first-ever night passing out parade for Sri Lanka Air Force (SLAF) cadet officers took place under the patronage of President Ranil Wickremesinghe at the SLAF Academy in China Bay on Thursday (29).
-
-A total of 58 officers of the air force graduated as the SLAF Academy passing out parade was held in the night for the first time.
-
-◼️
-
-[Data](articles/dc95318c.json)
-
-[Extended Data](ext_articles/dc95318c.ext.json)
 
 ---

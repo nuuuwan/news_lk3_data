@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 15:02:27**
+As of **2024-03-01 15:17:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,244 (100.0%) of 10,246 articles have been extended.
+10,246 (100.0%) of 10,246 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,19 +48,23 @@ Duly completed applications must be handed over to the principal before March 07
 
 [Data](articles/4f72c976.json)
 
+[Extended Data](ext_articles/4f72c976.ext.json)
+
 ---
 
-### නිලන්ත ජයවර්ධනට එරෙහිව නීතිමය පියවර ගන්නැයි ඉල්ලා පෙත්සමක්
+### Petition demanding legal action against Nilantha Jayawardena
 
 *2024-03-01 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194006) · `si`
 
-පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාර සිද්ධිය සම්බන්ධයෙන් රාජ්‍ය බුද්ධි සේවයේ හිටපු ප්‍රධානී ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නිලන්ත ජයවර්ධන මහතාට එරෙහිව නිතිමය පියවර ගන්නා ලෙස පොලිස්පතිවරයා ඇතුළු වගඋත්තරකරුවන්ට නියෝග නිකුත් කරන් ලෙස ඉල්ලා අභියාචනාධිකරණය හමුවේ රිට් පෙත්සමක් ගොනුකර තිබේ.
+The former Chief of the State Intelligence Service on the terrorist attack on the Easter is issued to Senior DIG Nilantha Jayawardena has filed a film from the Court of Appeal.
 
-එහි වගේ උත්තරකරුවන් ලෙස පොලිස්පතිවරයා, ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති නිලන්ත ජයවර්ධන සහ නීතිපතිවරයා නම් කර තිබේ.
+Senior DIG Nilantha Jayawardena and the Attorney General have been named as the respondents.
 
 ◼️
 
 [Data](articles/a0858ef8.json)
+
+[Extended Data](ext_articles/a0858ef8.ext.json)
 
 ---
 

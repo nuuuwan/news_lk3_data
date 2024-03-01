@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 11:33:12**
+As of **2024-03-01 11:52:15**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ adaderanasinhalalk | 1,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,199 (100.0%) of 10,200 articles have been extended.
+10,200 (100.0%) of 10,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### නිවසකට වෙඩිතබයි
+### Shots into a house
 
 *2024-03-01 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193996) · `si`
 
-අද (01) අලුයම් කාලයේදී නිවසකට වෙඩි ප්‍රහාරයක් එල්ලකර සැකකරුවන් පළාගොස් තිබේ.
+During this morning, the suspects have fled the house.
 
-වෙඩි ප්‍රහාරයට ලක්වූ නිවසේ පිළියන්දල ප්‍රදේශයේ පිරිසක් තාවකාලිකව නවාතැන් ගෙන සිට ඇත.
+A group of people in the Piliyandala area were temporarily accommodated in the shooting house.
 
-එම නිවස ආසන්නයේ වෙනත් ඉඩමක නිවසක් ඉදිකිරීම සඳහා මුල්ගල් තැබීමේ කටයුත්තක් වෙනුවෙන් සහභාගී වීම සඳහා එම පිරිස අදාළ නිවසේ නතරවී සිට ඇති බවත් එම නිවස මිලදී ගැනීමේ සූදානමින් ඔවුන් පසුවී ඇති බවත් පොලීසියට වාර්තාවී තිබේ.
+The police have reported that they were staying at the house to participate in the construction of an foundation stone for the construction of a house near the house.
 
-අදාළ නිවසේ සිටි පිරිස නිදා සිටියදී එක්වරම වෙඩි ප්‍රහාරය එල්ලවී ඇති බවත් කලබල වූ පිරිස නිවසේ කුස්සිය වෙත දුව ගොස් සැඟවී ඇති බවත් පසුව පොලිස් හදිසි ඇමතුම් අංකයට දැනුම්දී ඇති බවත් පැවසෙයි.
+It is said that the shooting of the house had been shot at the time while the people were sleeping.
 
 ◼️
 
 [Data](articles/22e0da3d.json)
+
+[Extended Data](ext_articles/22e0da3d.ext.json)
 
 ---
 

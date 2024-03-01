@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 18:33:06**
+As of **2024-03-01 18:50:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,578
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,276 (99.8%) of 10,297 articles have been extended.
+10,294 (100.0%) of 10,297 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,57 +46,69 @@ Dickwella will join the team tomorrow, ahead of the first match, which will be p
 
 [Data](articles/7ac71cf2.json)
 
+[Extended Data](ext_articles/7ac71cf2.ext.json)
+
 ---
 
-### ඝානා පාර්ලිමේන්තුව අඳුරේ
+### The Thanya Parliament in the dark
 
 *2024-03-01 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194017) · `si`
 
-විදුලි බිල නොගෙවීම හේතුවෙන් ඝානා පාර්ලිමේන්තුවේ විදුලි බලය විසන්ධි කිරීමට එරට විදුලිබල සමාගම කටයුතු කර තිබේ.
+Due to the non-payment of electricity bills, the Ceylon Electricity Company has been disconnected in the Parliament.
 
-එසේ විදුලිබලය විසන්ධි කර ඇත්තේ, ඩොලර් මිලියන 1.8ක් නොගෙවීම හේතුවෙන් බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+The power supply has been disconnected due to the non-payment of $ 1.8 million, foreign media reports.
 
-විදුලිබලය විසන්ධි කර ඇත්තේ එරට ජනාධිපතිවරයා පසුගියදා පාර්ලිමේන්තුවේදී සිදුකළ ප්‍රතිපත්ති ප්‍රකාශය සම්බන්ධයෙන් විවාදය පැවැත්වෙන අතරතුර වීම විශේෂත්වයකි.
+The electricity has been disconnected while the President is in debate on the policy statement made in parliament recently.
 
 ◼️
 
 [Data](articles/745cce39.json)
 
+[Extended Data](ext_articles/745cce39.ext.json)
+
 ---
 
-### විභාග දෙපාර්තමේන්තුවෙන් දැනුම්දීමක්
+### Notification from the Department of Examinations
 
 *2024-03-01 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194016) · `si`
 
-2024 වර්ෂය තුළ පැවැත්වීමට නියමිත පාසල් විභාග හා ඒවා පැවැත්වෙන දිනයන් විභාග දෙපාර්තමේන්තුව විසින් ප්‍රකාශයට පත්කර තිබේ.
+The Department of Examinations have been published by the Department of Examinations and the Dates of Examinations to be held in the year 2024.
 
-ඒ අනුව 2023 වර්ෂයට අදාළව පැවැත්වීමට නියමිතව තිබූ අපොස සාමාන්‍ය පෙළ විභාගය 2024 මැයි 6 වනදා සිට මැයි 15 දක්වා පැවැත්වේ.
+Accordingly, the GCE Ordinary Level examination will be held in parallel to 2023 to May will be held from May 6, 2024 to 15 May.
 
-2024 වර්ෂයට අදාළ 5 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගය 2024 සැප්තැම්බර් 15 වන ඉරිදා පැවැත්වේ.
+The Grade 5 Scholarship Examination for 2024 will be held on Sunday, September 15, 2024.
 
-2024 අපොස උසස් පෙළ විභාගය 2024 නොවැම්බර් මස 25 සිට 2024 දෙසැම්බර් මස 20 දක්වා පැවැත්වෙන බව විභාග කොමසාරිස් අමිත් ජයසුන්දර මහතා නිවේදනය කරයි.
+The GCE Advanced Level Examination will be held from November 25 to December 25, 2024 to December 20, 2024, Mr. Amit Jayasundara.
 
-මේ අතර 2024 වර්ෂයට අයත් අපොස සාමාන්‍ය පෙළ විභාගය පැවැත්වීමට යෝජිත දිනයන් ඉදිරියේ දී දැනුම්දෙනු ලැබේ.
+Meanwhile, the proposed dates will be held in the future to be held the GCE Ordinary Level Examination for the year 2024.
 
 ◼️
 
 [Data](articles/332358f1.json)
 
+[Extended Data](ext_articles/332358f1.ext.json)
+
 ---
 
-### இந்து சமுத்திரத்திற்குள் நாட்டின் பொருளாதாரத் திட்டங்களுக்குப் பாதிப்பு ஏற்பட இடமளியோம் - ஜனாதிபதி
+### The country's economic plans are affected within the Indian Ocean - President
 
 *2024-03-01 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177701) · `ta`
 
-இலங்கையின் கடல் பிராந்தியத்தையும் இந்து சமுத்திரப் பிராந்தியத்தையும் பாதுகாக்கும் பொறுப்பு இலங்கை கடற்படைக்கு வழங்கப்பட்டுள்ளதாகத் தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, இந்து சமுத்திரத்தித்தில் நாட்டின் பொருளாதாரத் திட்டங்களுக்கு பாதிப்பை ஏற்படுத்த இடமளியோம் என்றும் சூளுரைத்தார்.
+President Ranil Wickremesinghe said that the Sri Lankan Navy has been given the responsibility to protect the Sri Lankan marine and the Indian Ocean region and said that the country's economic plans in the Indian Ocean were affected.
 
-1967 இஸ்ரேல் - அரபு யுத்தத்தின் போது சுயஸ் கால்வாய் மூடப்பட்டதன் காரணமாக 10 வருடங்களாக கொழும்பு துறைமுகத்தின் செயற்பாடுகள் தடைப்பட்டிருந்ததை நினைவுகூர்ந்த ஜனாதிபதி, இந்நாட்டு துறைமுகங்களின் பெறுமதியை பேணுவதற்காக சுயஸ் கால்வாய் மற்றும் செங்கடலின் பாதுகாப்பை உறுதிப்படுத்த வேண்டியதன் அவசியத்தையும் வலியுறுத்தினார்.
+Recalling that the Colombo Port operations were banned for 10 years due to the closure of the Swayas Canal during the 1967 Arab war, the President also stressed the need to ensure the safety of the Self's Canal and Red Sea to maintain the value of these ports.
 
-திருகோணமலை கடற்படை முகாமில் வெள்ளிக்கிழமை (01) இடம்பெற்ற இலங்கை கடற்படையின் விசேட கப்பல் படையணிக்கு ஜனாதிபதி வர்ணங்கள் வழங்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe made this statement while addressing the Presidential Colors of the Sri Lanka Navy's Special Ship for the Navy on Friday (01) at the Trincomalee Naval Base.
+
+President Ranil Wickremesinghe has issued paintings to the Sri Lanka Navy's Special Ship for the safety of the Sri Lankan -owned maritime region and dedicated to the country's maritime targets.
+
+The adventures carried out by the Navy's Special Ship forces in the sea were also colorful.
 
 ...
 
 [Data](articles/48bda375.json)
+
+[Extended Data](ext_articles/48bda375.ext.json)
 
 ---
 
@@ -120,17 +132,19 @@ The enhancement of flight operations by the airline is part of Etihad’s ambiti
 
 ---
 
-### කුසල් ජනිත් වෙනුවට නිරෝෂන් දික්වැල්ල
+### Niroshan Dickwella instead of Kusal Janith
 
 *2024-03-01 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194015) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වීමට නියමිත 20-20 තරගාවලිය සඳහා නම් කළ ශ්‍රී ලංකා සංචිතයට නිරෝෂන් දික්වැල්ලව නම් කර තිබේ.
+Niroshan Dickwella has been named to the squad for the Namaden-in-squad for the 20-20 tournament between Sri Lanka and Bangladesh.
 
-කුසල් ජනිත් පෙරේරා ශ්වසන ආබාධයකින් පෙළෙන අතර, ඔහු ඊයේ (29) බංග්ලාදේශය බලා පිටත් ව ගිය කණ්ඩායමට එක් නොවුණු බව වාර්තා වේ.
+Kusal Janith Perera is suffering from a respiratory disorder, reports say that he was not joining the team yesterday (29).
 
 ◼️
 
 [Data](articles/f319edc1.json)
+
+[Extended Data](ext_articles/f319edc1.ext.json)
 
 ---
 
@@ -172,39 +186,49 @@ An SOE Reform Policy was approved by Sri Lanka’s cabinet of ministers in May 2
 
 [Data](articles/7d1c49f8.json)
 
+[Extended Data](ext_articles/7d1c49f8.ext.json)
+
 ---
 
-### சிங்களவர்களுக்கும் இலங்கைத் தமிழர்களுக்கும் இடையில் உள்ள மரபணு நெருக்கம்
+### The genetic intimacy between the Sinhalese and the Sri Lankan Tamils
 
 *2024-03-01 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177697) · `ta`
 
-தெற்காசியாவில் வேறு எந்த இனக் குழுமங்களுக்கும் இடையில் இத்தகைய நெருக்கம் கிடையாது என்று ஆய்வில் கண்டுபிடிப்பு
+The study discovered that there is no such intimacy between any other ethnic groups in South Asia
 
-பி.ரி.ஐ. (புதுடில்லி ) இலங்கையின் இரு பெரிய இனக்குழுமங்களான சிங்களவர்களுக்கும் இலங்கைத் தமிழர்களுக்கும் இடையில் இருக்கும் மரபணு ஒப்புடைமை தெற்காசியாவில் வேறு எந்த இனக்குழுமங்களுக்கும் இடையில் இருக்கக்கூடிய மரபணு ஒப்புடைமையை விடவும் மிகவும் நெருக்கமானது ஆய்வொன்றின் மூலம் கண்டறியப்பட்டிருக்கிறது.
+B.I.. (New Delhi) The genetic disparity between the two major ethnic groups of Sri Lanka, the Sinhalese and the Sri Lankan Tamils, is much closer than the genetic acknowledgment between any other ethnic group in South Asia.
 
-இலங்கையையும் இந்தியாவையும் சேர்ந்த மரபணு விஞ்ஞானிகளினால் கூட்டாக மேற்கொள்ளப்பட்ட ஆய்வின் முடிவுகள் 'ஐ சயனஸ் ' (i Science)என்ற சஞ்சிகையில் கடந்த வாரம் வெளியிடப்பட்டன. அந்த முடிவுகள் இலங்கையின் இனக்குழுமங்களின் தோற்றுவாய்களையும் அவற்றுக்கு இடையிலான சமூக ஊடாட்டங்களையும் தெளிவுபடுத்துகிறது.
+The results of a joint study by genetic scientists from Sri Lanka and India were published last week in the magazine 'I Science'.. Those results make clear the origins of Sri Lanka's ethnic groups and the social interactions between them.
 
-குறிப்பிடத்தக்க கலாசார மற்றும் மொழியியல் வேறுபாடுகள் இருக்கின்ற போதிலும் சிங்களவர்களும் இலங்கைத் தமிழர்களும் கடந்த காலத்தில் பல நூற்றாண்டுகளாக கலந்து வாழ்ந்திருப்பதன் விளைவாக அவர்களுக்கிடையில் மரபணு ஒப்புடைமை ஏற்பட்டது என்று ஆய்வாளர்கள் கூறியிருக்கிறார்கள்.
+Researchers have said that despite significant cultural and linguistic differences, the Sinhalese and Sri Lankan Tamils have been living in the past for centuries.
 
 ...
 
 [Data](articles/9f92c25f.json)
 
+[Extended Data](ext_articles/9f92c25f.ext.json)
+
 ---
 
-### ’’இந்து சமுத்திரத்திற்குள்  பாதிப்பு ஏற்பட இடமளியோம்’’
+### Telephone
 
 *2024-03-01 17:19:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்து-சமுத்திரத்திற்குள்-பாதிப்பு-ஏற்பட-இடமளியோம்/175-334055) · `ta`
 
-இலங்கையின் கடல் பிராந்தியத்தையும் இந்து சமுத்திரப் பிராந்தியத்தையும் பாதுகாக்கும் பொறுப்பு இலங்கை கடற்படைக்கு வழங்கப்பட்டுள்ளதாகத் தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, இந்து சமுத்திரத்தித்தில் நாட்டின் பொருளாதாரத் திட்டங்களுக்கு பாதிப்பை ஏற்படுத்த இடமளியோம் என்றும் சூளுரைத்தார்.
+President Ranil Wickremesinghe said that the Sri Lankan Navy has been given the responsibility to protect the Sri Lankan marine and the Indian Ocean region and said that the country's economic plans in the Indian Ocean were affected.
 
-1967 இஸ்ரேல் - அரபு யுத்தத்தின் போது சுயஸ் கால்வாய் மூடப்பட்டதன் காரணமாக 10 வருடங்களாக கொழும்பு துறைமுகத்தின் செயற்பாடுகள் தடைப்பட்டிருந்ததை நினைவுகூர்ந்த ஜனாதிபதி, இந்நாட்டு துறைமுகங்களின் பெறுமதியை பேணுவதற்காக சுயஸ் கால்வாய் மற்றும் செங்கடலின் பாதுகாப்பை உறுதிப்படுத்த வேண்டியதன் அவசியத்தையும் வலியுறுத்தினார்.
+Recalling that the Colombo Port operations were banned for 10 years due to the closure of the Swayas Canal during the 1967 Arab war, the President also stressed the need to ensure the safety of the Self's Canal and Red Sea to maintain the value of these ports.
 
-திருகோணமலை கடற்படை முகாமில் இன்று (01) இடம்பெற்ற இலங்கை கடற்படையின் விசேட கப்பல் படையணிக்கு ஜனாதிபதி வர்ணங்கள் வழங்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe made this statement while addressing the Presidential Colors of the Sri Lanka Navy's Special Ship for the Navy at the Trincomalee Naval Base today (01).
+
+President Ranil Wickremesinghe has issued paintings to the Sri Lanka Navy's Special Ship for the safety of the Sri Lankan -owned maritime region and dedicated to the country's maritime targets.
+
+The adventures carried out by the Navy's Special Ship forces in the sea were also colorful.
 
 ...
 
 [Data](articles/201cd198.json)
+
+[Extended Data](ext_articles/201cd198.ext.json)
 
 ---
 
@@ -288,6 +312,8 @@ A bond maturing on 01.07.2032 closed at 12.50/13.00 percent from 12.55/13.00 per
 
 [Data](articles/c6eca166.json)
 
+[Extended Data](ext_articles/c6eca166.ext.json)
+
 ---
 
 ### Saharan’s brother-in-law arrested
@@ -325,6 +351,8 @@ As per arrangements with SG Holdings Global Pte Ltd, the Company’s majority sh
 ...
 
 [Data](articles/4658697e.json)
+
+[Extended Data](ext_articles/4658697e.ext.json)
 
 ---
 
@@ -365,6 +393,8 @@ Standard quality dried dates now retail for a little under 1000 rupees a kilogra
 ◼️
 
 [Data](articles/5a5a1475.json)
+
+[Extended Data](ext_articles/5a5a1475.ext.json)
 
 ---
 
@@ -427,6 +457,8 @@ After Sri Lanka’s foreign exchange crisis in 2022, the Agriculture Ministry ha
 ...
 
 [Data](articles/826042ba.json)
+
+[Extended Data](ext_articles/826042ba.ext.json)
 
 ---
 
@@ -597,6 +629,8 @@ Acknowledging that disparity in education is a real problem in Sri Lanka, Premad
 ...
 
 [Data](articles/0994d397.json)
+
+[Extended Data](ext_articles/0994d397.ext.json)
 
 ---
 
@@ -798,6 +832,8 @@ The project comprising 530kw wind power, 1,700kw solar power, 2,400kwh battery p
 
 [Data](articles/4cef5e10.json)
 
+[Extended Data](ext_articles/4cef5e10.ext.json)
+
 ---
 
 ### Santhan's boutique was brought
@@ -930,6 +966,8 @@ The Court refused the requested injunction on February 22, but the Court of Appe
 
 [Data](articles/9a6a6e40.json)
 
+[Extended Data](ext_articles/9a6a6e40.ext.json)
+
 ---
 
 ### Plan to give electricity to three islands in Jaffna
@@ -1036,6 +1074,8 @@ According to the statement, the president had emphasised his readiness to make d
 
 [Data](articles/15161bb8.json)
 
+[Extended Data](ext_articles/15161bb8.ext.json)
+
 ---
 
 ### Brother-in-law of Zahran arrested
@@ -1087,6 +1127,8 @@ Dissanayake’s National People’s Power (NPP) continued to lead a separate gen
 ...
 
 [Data](articles/a214d877.json)
+
+[Extended Data](ext_articles/a214d877.ext.json)
 
 ---
 
@@ -1179,6 +1221,8 @@ A key aspect of the Convention is the inclusion of a specific chapter on asset r
 ...
 
 [Data](articles/38824a36.json)
+
+[Extended Data](ext_articles/38824a36.ext.json)
 
 ---
 

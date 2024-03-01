@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 05:38:10**
+As of **2024-03-01 06:20:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,131 (99.9%) of 10,143 articles have been extended.
+10,139 (100.0%) of 10,143 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The winners of these exciting gifts are to be selected at monthly draws in Febru
 
 [Data](articles/9b3ecf10.json)
 
+[Extended Data](ext_articles/9b3ecf10.ext.json)
+
 ---
 
 ### Citi Indian Subcontinent Sub-Cluster & Banking Head and India CEO, Ashu Khullar visits Colombo
@@ -64,6 +66,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/eb801924.json)
 
+[Extended Data](ext_articles/eb801924.ext.json)
+
 ---
 
 ### Union Bank posts steadfast performance in FY2023
@@ -77,6 +81,8 @@ The improved macroeconomic outlook during FY2023 positioned Union Bank to better
 ...
 
 [Data](articles/72422299.json)
+
+[Extended Data](ext_articles/72422299.ext.json)
 
 ---
 
@@ -92,6 +98,8 @@ In a competitive and challenging environment the bank was able to achieve its go
 
 [Data](articles/94d97f3b.json)
 
+[Extended Data](ext_articles/94d97f3b.ext.json)
+
 ---
 
 ### NSB’s GM/CEO Shashi Kandambi honoured by APB
@@ -106,19 +114,23 @@ Ms. Kandambi, a former president of the APB, has long been recognized for her ex
 
 [Data](articles/463ca15d.json)
 
+[Extended Data](ext_articles/463ca15d.ext.json)
+
 ---
 
-### ரொனி டி மெலுக்கு ஜனாதிபதி இறுதி அஞ்சலி
+### President's final tribute to Ronnie de Mell
 
 *2024-03-01 03:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொனி-டி-மெலுக்கு-ஜனாதிபதி-இறுதி-அஞ்சலி/175-334029) · `ta`
 
-சிறந்த அரசியல்வாதியும் தலைசிறந்த பொருளாதார நிபுணருமான மறைந்த முன்னாள் நிதி அமைச்சர் ரொனி டி மெலுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க இறுதி அஞ்சலி செலுத்தியுள்ளார்.
+President Ranil Wickremesinghe has paid a final tribute to the late Finance Minister Ronnie de Mel, the best politician and the best economist.
 
-அவரின் உடல் வைக்கப்பட்டுள்ள கொள்ளுப்பிட்டி சார்ள்ஸ் டிரைவில் அமைந்துள்ள இல்லத்திற்கு நேற்று முன்தினம் பிற்பகல் சென்ற ஜனாதிபதி, அன்னாரின் உடலுக்கு இறுதி அஞ்சலி செலுத்தினார். அத்துடன்,  குடும்ப உறுப்பினர்களுக்கு தனது அனுதாபங்களையும் தெரிவித்தார். (a)
+The president, who had gone to the house located on the Charles drive of Kaluppitti, where her body was placed, paid tribute to Annar's body yesterday afternoon.. He also expressed his sympathies to family members. (A)
 
 ◼️
 
 [Data](articles/f9447df8.json)
+
+[Extended Data](ext_articles/f9447df8.ext.json)
 
 ---
 
@@ -555,6 +567,8 @@ Our President Ranil Wickremesinghe, who goes his own way following Sinatra’s I
 ...
 
 [Data](articles/1ba0c882.json)
+
+[Extended Data](ext_articles/1ba0c882.ext.json)
 
 ---
 

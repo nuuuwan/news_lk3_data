@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 22:17:31**
+As of **2024-03-01 22:33:25**
 
 ## Newspaper Stats
 
-*Scraped **10,326** Articles*
+*Scraped **10,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ economynextcom | 542
 dailyftlk | 542
 islandlk | 544
 adalk | 876
-adaderanalk | 1,253
+adaderanalk | 1,254
 tamilmirrorlk | 1,257
-virakesarilk | 1,404
+virakesarilk | 1,405
 dailymirrorlk | 1,567
-adaderanasinhalalk | 1,586
+adaderanasinhalalk | 1,587
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,326 (100.0%) of 10,326 articles have been extended.
+10,326 (100.0%) of 10,329 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### රුසියානු නෞකාවක් කොළඹ වරායට
+
+*2024-03-01 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194027) · `si`
+
+රුසියානු නාවික හමුදාවට අයත් ‘Russian Guards Missile Cruiser Varyag’ නෞකාව නිල සංචාරයක් සඳහා කොළඹ වරායට සේන්දු වී තිබේ.
+
+නෞකාව නිල සංචාරයක් සඳහා අද (01) උදෑසන කොළඹ වරායට සේන්දු වූ අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කර ඇත.
+
+කොළඹ වරායට සේන්දු වූ නෞකාව, දිගින් මීටර් 187ක් හා නැව් මුළුව පන්සිය විසි නවයකගෙන් (529) සමන්විත අතර, නෞකාවේ ධජ නිලධාරි ලෙස Captain 1st Rank Velichko Anatoly Vasicievich සහ අණ දෙන නිලධාරී ලෙස, Captain 2nd Rank Glushakov Roman Nikolaevich කටයුතු කරනු ලබයි.
+
+මෙම නෞකාව මෙරට රැඳී සිටින කාලසීමාව තුළ නෞකාවේ ධජ නිලධාරි සහ අණ දෙන නිලධාරී විසින් බටහිර නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් සමන් පෙරේරා සමඟ නිල හමුවක් පැවැත්වීමට නියමිත ව ඇත.
+
+එහි නැව් මුළුව, ශ්‍රී ලංකා නාවික හමුදාව විසින් දෙරටේ නාවික හමුදාවන් අතර සුහදත්වය වැඩිදියුණු කිරීම වෙනුවෙන් සංවිධානය කරනු ලබන වැඩසටහන් සඳහා සහභාගී වීමට මෙන්ම දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමට ද නියමිත ව තිබේ.
+
+...
+
+[Data](articles/a4789b19.json)
+
+---
+
+### சுகாதார அமைச்சின் மேலதிக செயலாளர் வைத்தியர் சமன் ரத்நாயக்க கைது
+
+*2024-03-01 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177712) · `ta`
+
+சுகாதார அமைச்சின் மேலதிக செயலாளர் வைத்தியர் சமன் ரத்நாயக்க குற்றப் புலனாய்வுப் பிரிவினரால் வெள்ளிக்கிழமை (01) கைது செய்யப்பட்டுள்ளார்.
+
+சர்ச்சைக்குரிய இம்யூனோகுளோபுலின் தடுப்பூசி இறக்குமதி செய்யப்பட்ட விவகாரம் தொடர்பில் வாக்குமூலம் வழங்குவதற்காக வைத்தியர் சமன் ரத்நாயக்க வெள்ளிக்கிழமை (01) பிற்பகல் குற்றப் புலனாய்வு திணைக்களத்திற்கு வருகை தந்தார்.
+
+சுமார் 7 மணி நேரம் வாக்குமூலம் அளித்த பிறகு அவர் கைது செய்யப்பட்டுள்ளார்.
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட சந்தேக நபர்களை எதிர்வரும் மார்ச் 14 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு மாளிகாகந்த நீதவான் உத்தரவிட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2e9f1eaa.json)
+
+---
 
 ### Manju's head-to-head shot -cctv
 
@@ -121,6 +159,24 @@ The authorities have outlawed his movement as extremist and cast his supporters 
 [Data](articles/769ee496.json)
 
 [Extended Data](ext_articles/769ee496.ext.json)
+
+---
+
+### Ensuring Red Sea security vital to protect Sri Lanka’s port economics - President
+
+*2024-03-01 21:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97670/ensuring-red-sea-security-vital-to-protect-sri-lankas-port-economics-president) · `en`
+
+President Ranil Wickremesinghe says Sri Lanka Navy is entrusted with the responsibility of safeguarding Sri Lanka’s oceanic territories, including the Indian Ocean region. He underscored that the nation’s economic initiatives will not be permitted to suffer any harm in the Indian Ocean.
+
+Additionally, the President highlighted the historical context of the closure of the Suez Canal for a decade during the 1967 Israeli-Arab war and its effects on the Colombo port’s operations. He emphasized the imperative of ensuring the security of the Suez Canal and the Red Sea to safeguard the economic interests of the country’s ports.
+
+President Wickremesinghe made these remarks while delivering a speech at the Presidential Fleet Review of the Sri Lanka Navy held this morning (March 01) at the Trincomalee Harbour.
+
+As Commander-in-Chief, President Ranil Wickremesinghe was warmly welcomed with a guard of honour by the Sri Lanka Navy upon his arrival at the Trincomalee Naval Base.
+
+...
+
+[Data](articles/4602a561.json)
 
 ---
 
@@ -2029,53 +2085,5 @@ The IMF’s Governance Diagnostics Assessment recommended implementing 16 direct
 [Data](articles/595ed2c3.json)
 
 [Extended Data](ext_articles/595ed2c3.ext.json)
-
----
-
-### Central bank officials invite party leaders meeting
-
-*2024-03-01 12:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-தலைவர்கள்-கூட்டத்துக்கு-மத்திய-வங்கி-அதிகாரிகள்-அழைப்பு/175-334045) · `ta`
-
-They have been invited to investigate the salary increase of the Central Bank Officers of Sri Lanka.
-
-Central Bank officials of the Central Bank of Sri Lanka will be invited to a meeting of party leaders to be held at 10.30 am on Tuesday (05).
-
-The decision was taken during the Parliamentary Affairs Committee meeting held today (01).
-
-◼️
-
-[Data](articles/ad2b0abd.json)
-
-[Extended Data](ext_articles/ad2b0abd.ext.json)
-
----
-
-### Harin is cut off
-
-*2024-03-01 12:04:24* · [`adalk`](https://www.ada.lk/sports/හරින්-තටු-කපා-ගනියි/9-408372) · `si`
-
-The Parliamentary Affairs Minister of Sports and Youth Affairs has assigned the implementation of three sports organizations under the Minister of Sports and Youth Affairs Harin Fernando.
-
-Harin Fernando is the power to implement the Convention Act to carry out the Convention Act to carry out the proceedings of the Institute of Stimulation Prevention Agency, the Institute of Sports Medicine and National Sports Scholars.Have been given.
-
-◼️
-
-[Data](articles/02c673f1.json)
-
-[Extended Data](ext_articles/02c673f1.ext.json)
-
----
-
-### Sri Lanka's first wildlife tunnel
-
-*2024-03-01 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194000) · `si`
-
-The construction of the first wildlife tank in Sri Lanka was commenced this morning.
-
-◼️
-
-[Data](articles/c65ca814.json)
-
-[Extended Data](ext_articles/c65ca814.ext.json)
 
 ---

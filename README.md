@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 22:33:25**
+As of **2024-03-01 22:52:35**
 
 ## Newspaper Stats
 
-*Scraped **10,329** Articles*
+*Scraped **10,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,103 @@ economynextcom | 542
 dailyftlk | 542
 islandlk | 544
 adalk | 876
-adaderanalk | 1,254
+adaderanalk | 1,255
 tamilmirrorlk | 1,257
 virakesarilk | 1,405
 dailymirrorlk | 1,567
-adaderanasinhalalk | 1,587
+adaderanasinhalalk | 1,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,326 (100.0%) of 10,329 articles have been extended.
+10,329 (100.0%) of 10,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### රුසියානු නෞකාවක් කොළඹ වරායට
+### Tourism earnings in Jan.2024 at $342mn, highest monthly value since 2020
 
-*2024-03-01 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194027) · `si`
+*2024-03-01 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97672/tourism-earnings-in-jan2024-at-342mn-highest-monthly-value-since-2020) · `en`
 
-රුසියානු නාවික හමුදාවට අයත් ‘Russian Guards Missile Cruiser Varyag’ නෞකාව නිල සංචාරයක් සඳහා කොළඹ වරායට සේන්දු වී තිබේ.
+Sri Lanka’s earnings from tourism were estimated at USD 342 million in January 2024, the Central Bank’s latest report on external sector performance revealed.
 
-නෞකාව නිල සංචාරයක් සඳහා අද (01) උදෑසන කොළඹ වරායට සේන්දු වූ අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කර ඇත.
+This is the highest monthly value the country has witnessed since January 2020.
 
-කොළඹ වරායට සේන්දු වූ නෞකාව, දිගින් මීටර් 187ක් හා නැව් මුළුව පන්සිය විසි නවයකගෙන් (529) සමන්විත අතර, නෞකාවේ ධජ නිලධාරි ලෙස Captain 1st Rank Velichko Anatoly Vasicievich සහ අණ දෙන නිලධාරී ලෙස, Captain 2nd Rank Glushakov Roman Nikolaevich කටයුතු කරනු ලබයි.
+According to the document, published on Thursday (Feb.29), Sri Lanka’s tourism earnings in January 2024 marked a substantial improvement compared to USD 269 million in December 2023 and USD 154 million in January 2023.
 
-මෙම නෞකාව මෙරට රැඳී සිටින කාලසීමාව තුළ නෞකාවේ ධජ නිලධාරි සහ අණ දෙන නිලධාරී විසින් බටහිර නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් සමන් පෙරේරා සමඟ නිල හමුවක් පැවැත්වීමට නියමිත ව ඇත.
+The country also attracted as many as 208,253 tourists in January this year, as opposed to 102,545 arrivals recorded during the corresponding period in 2023.
 
-එහි නැව් මුළුව, ශ්‍රී ලංකා නාවික හමුදාව විසින් දෙරටේ නාවික හමුදාවන් අතර සුහදත්වය වැඩිදියුණු කිරීම වෙනුවෙන් සංවිධානය කරනු ලබන වැඩසටහන් සඳහා සහභාගී වීමට මෙන්ම දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමට ද නියමිත ව තිබේ.
+Meanwhile, Sri Lanka also recorded an improvement with respect to workers’ remittances in January 2024, compared to the corresponding period of the previous year.
+
+Workers’ remittances amounted to USD 488 million in January 2024, in comparison to USD 437 million in January 2023 and USD 570 million in December 2023.
 
 ...
 
-[Data](articles/a4789b19.json)
+[Data](articles/11a9c85b.json)
 
 ---
 
-### சுகாதார அமைச்சின் மேலதிக செயலாளர் வைத்தியர் சமன் ரத்நாயக்க கைது
+### Russian ship to the port of Colombo
+
+*2024-03-01 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194027) · `si`
+
+The Russian Naval Cruiser Varryag has arrived at the port for an official visit.
+
+The ship arrived at the Port of Colombo today (01st), while the Sri Lanka Navy has welcomed the ship to the navy.
+
+Captain 2nd Rank Glushakov Romanovich is the 187 meters and the shipwreck of the ship.
+
+The Commander of the Western Naval Order will be held with Commander of the Western Naval Order Rear Admiral Saman Perera in the period of time in which the ship is staying in the country.
+
+The funeral, the Sri Lanka Navy, is scheduled to participate in programs organized by both naval and tourists in the country as well as to visit the importance of the country.
+
+The ship is due to leave the island on March 3, 2024, concluding the official visit.
+
+◼️
+
+[Data](articles/a4789b19.json)
+
+[Extended Data](ext_articles/a4789b19.ext.json)
+
+---
+
+### මනාල යුවළත් අතරමං කළ ඩිෆෙන්ඩර් අනතුර
+
+*2024-03-01 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194026) · `si`
+
+අද (01) පස්වරුවේ කඩුවෙල - මාළඹේ ප්‍රධාන මාර්ගයේ සිදු වූ රිය අනතුරකින් පුද්ගලයන් කිහිපදෙනෙකු තුවාල ලබා තිබේ.
+
+කඩුවෙල - මාළඹේ ප්‍රධාන මාර්ගයේ කඩුවෙල මහ නගර සභාව ඉදිරිපස දී මෙම අනතුර සිදු ව ඇති අතර, මනාල යුවළක් රැගත් ඩිෆෙන්ඩර් රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි වෑන් රථයක සහ යතුරු පැදියක ගැටීමෙන් අනතුර සිදු ව ඇත.
+
+තුවාලකරුවන් රෝහල්ගත කර ඇති අතර, අනතුර සිදුකළ ඩිෆෙන්ඩර් රථයයේ රියදුරා, මනාල යුවළ ද අතරමඟ දමා පළා ගොස් ඇති බව පොලීසිය පවසයි.
+
+කෙසේ වෙතත් ලද තොරතුරක් මත පොලීසිය විසින් ඩිෆෙන්ඩර් රථය පොලිස් භාරයට ගැනීමට කටයුතු කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/5f334a7a.json)
+
+---
+
+### Additional Secretary of the Ministry of Health Dr. Saman Ratnayake arrested
 
 *2024-03-01 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177712) · `ta`
 
-சுகாதார அமைச்சின் மேலதிக செயலாளர் வைத்தியர் சமன் ரத்நாயக்க குற்றப் புலனாய்வுப் பிரிவினரால் வெள்ளிக்கிழமை (01) கைது செய்யப்பட்டுள்ளார்.
+Additional Secretary of the Ministry of Health Dr. Saman Ratnayake has been arrested by the Criminal Investigation Division on Friday.
 
-சர்ச்சைக்குரிய இம்யூனோகுளோபுலின் தடுப்பூசி இறக்குமதி செய்யப்பட்ட விவகாரம் தொடர்பில் வாக்குமூலம் வழங்குவதற்காக வைத்தியர் சமன் ரத்நாயக்க வெள்ளிக்கிழமை (01) பிற்பகல் குற்றப் புலனாய்வு திணைக்களத்திற்கு வருகை தந்தார்.
+Dr. Saman Ratnayake visited the Criminal Investigation Department on Friday afternoon (01) to make a confession on the imported issue of controversial immunoglobulin vaccine.
 
-சுமார் 7 மணி நேரம் வாக்குமூலம் அளித்த பிறகு அவர் கைது செய்யப்பட்டுள்ளார்.
+He has been arrested after a confession for about 7 hours.
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட சந்தேக நபர்களை எதிர்வரும் மார்ச் 14 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு மாளிகாகந்த நீதவான் உத்தரவிட்டுள்ளமை குறிப்பிடத்தக்கது.
+The Magistrate has ordered the suspects, including former health minister Keheliya Rambukwella, to be remanded until March 14.
 
 ◼️
 
 [Data](articles/2e9f1eaa.json)
+
+[Extended Data](ext_articles/2e9f1eaa.ext.json)
 
 ---
 
@@ -177,6 +223,8 @@ As Commander-in-Chief, President Ranil Wickremesinghe was warmly welcomed with a
 ...
 
 [Data](articles/4602a561.json)
+
+[Extended Data](ext_articles/4602a561.ext.json)
 
 ---
 
@@ -2045,45 +2093,5 @@ Easybalance: As usual, I ask you to start with the beginning of a novel. Can you
 [Data](articles/0c0b2fe1.json)
 
 [Extended Data](ext_articles/0c0b2fe1.ext.json)
-
----
-
-### Parate execution law suspended to help one party: Mayantha
-
-*2024-03-01 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parate-execution-law-suspended-to-help-one-party-Mayantha/108-278030) · `en`
-
-Colombo, March 1 (Daily Mirror) - The government has suspended the parate execution law to help a single party which has not been able to settle its debts, Samagi Jana Balawegaya (SJB) MP Mayantha Dissanayake alleged.
-
-MP Dissanayake told a media briefing that his party will reveal all the details on this move in Parliament soon.
-
-Asked whether Opposition Leader Sajith Premadasa did not lobby for the suspension  of the parate execution laws, the MP said Premadasa only requested to do it in a fair and transparent manner.
-
-“No one requested the government to do it for the benefit of one party,” he said.
-
-◼️
-
-[Data](articles/e9f4ba16.json)
-
-[Extended Data](ext_articles/e9f4ba16.ext.json)
-
----
-
-### Sri Lanka unveils action plan after IMF corruption report
-
-*2024-03-01 12:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-unveils-action-plan-after-imf-corruption-report-152597/) · `en`
-
-ECONOMYNEXT – Sri Lanka has published an action plan to combat corruption, which includes reforms to a bribery commission, public tendering, state enterprise governance and an asset recovery law, following a governance diagnostic report published as part of an International Monetary Fund program
-
-“At the request of Sri Lanka, a Governance Diagnostic Assessment (GDA) was concluded by the IMF and based on recommendations the Ministry of Finance has published the Government Action Plan on the 29th Feb 2024,” State Minister of Finance Shehan Semasinghe said on x (twitter).
-
-“This further demonstrates the government’s commitment to building a sustainable economy and good governance in the country,” Semasinghe said.
-
-The IMF’s Governance Diagnostics Assessment recommended implementing 16 directives. “A government action plan will inform next steps in the implementation of recommendations,” the IMF had said at the time.
-
-...
-
-[Data](articles/595ed2c3.json)
-
-[Extended Data](ext_articles/595ed2c3.ext.json)
 
 ---

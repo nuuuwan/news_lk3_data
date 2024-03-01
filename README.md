@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 06:57:13**
+As of **2024-03-01 07:18:24**
 
 ## Newspaper Stats
 
-*Scraped **10,144** Articles*
+*Scraped **10,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ adaderanalk | 1,224
 tamilmirrorlk | 1,231
 virakesarilk | 1,393
 dailymirrorlk | 1,536
-adaderanasinhalalk | 1,540
+adaderanasinhalalk | 1,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,143 (100.0%) of 10,144 articles have been extended.
+10,144 (100.0%) of 10,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### මාර්තු ඉන්ධන මිල මෙන්න
+
+*2024-03-01 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193982) · `si`
+
+මාර්තු මාසය තුළ පවතින ඉන්ධන මිල ගණන් සංශෝධනයකින් තොරව පවත්වාගෙන යාමට රජය තීරණය කර තිබේ.
+
+මාසික ඉන්ධන මිල සංශෝධනයට අනුව ඊයේ (29) මධ්‍යම රාත්‍රීයේ සිට අදාළ මිල ගණන් සංශෝධනය විය යුතුව පැවතුණි.
+
+ඒ අනුව මෙම මාසය තුළ මිල ගණන් සංශෝධනයකින් තොරව, පවතින මිල ගණන් යටතේම ඉන්ධන අලෙවිය සිදුකිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව තීරණය කර ඇත.
+
+මාසික මිල සංශෝධනයක් සිදුකිරිම සම්බන්ධයෙන් ලංකා IOC සමාගම සහ සයිනොපෙක් සමාගම ද මෙතෙක් නිසි දැනුම්දීමක් සිදුකර නොමැත.
+
+◼️
+
+[Data](articles/5fb99e8f.json)
+
+---
+
+### බංග්ලාදේශයේ ගින්නකින් 43 දෙනෙක් ජීවිතක්ෂයට
+
+*2024-03-01 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193980) · `si`
+
+බංග්ලාදේශයේ මහල් ගොඩනැගිල්ලක ඇතිවූ ගින්නකින් අවම වශයෙන් පුද්ගලයින් 43 දෙනෙකු ජීවිතක්ෂයට පත්වී ඇති බව එරට සෞඛ්‍ය අමාත්‍යවරයා පවසයි.
+
+විදෙස් මාධ්‍ය පවසන පරිදි ඊයේ ඩකා අගනුවර අවන්හලක ගින්න ආරම්භ වී තිබේ.
+
+එය ගොඩනැගිල්ල හරහා වේගයෙන් පැතිර ගිය අතර, දුසිම් ගණනක් මිනිසුන් ඊට මැදිවූ බව පැවසෙයි.
+
+◼️
+
+[Data](articles/a1fb3b76.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-03-01 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193979) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් අද (01) දිනයේ වැසි ස්වල්පයක් අපේක්ෂා කළ හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+උතුරු, උතුරු-මැද, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින්විට හමන පැ.කි.මී. 30ත් 40ත් පමණ තරමක තද සුළං ද ඇති වෙයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/43cf9fdb.json)
+
+---
 
 ### Thundershowers possible in several areas including Western Province today
 
@@ -53,6 +105,8 @@ Wind speed may increase up to 45-50 kmph at times in the sea areas off the coast
 ...
 
 [Data](articles/c6553a42.json)
+
+[Extended Data](ext_articles/c6553a42.ext.json)
 
 ---
 
@@ -1901,77 +1955,5 @@ The new appointment will be made to fill the vacant seat.
 [Data](articles/0915ac41.json)
 
 [Extended Data](ext_articles/0915ac41.ext.json)
-
----
-
-### Colombo’s consumer price inflation dips to 5.9% in February
-
-*2024-02-29 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97627/colombos-consumer-price-inflation-dips-to-59-in-february-) · `en`
-
-The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on a Year-on-Year (Y-on-Y) basis, has further decreased to 5.9% in February, compared to the previous month.
-
-The CCPI-based inflation was calculated as 6.4% for the month of January 2024.
-
-According to the latest report issued by the Department of Census & Statistics (DCS), the inflation for all items for the month of February has decreased from 200.7 to 200.6 points, indicating a percentage change from 6.4% to 5.9% from January 2024.
-
-The Y-on-Y inflation of Food Group was recorded at 3.5% in February, showing a minor increase from the 3.3% recorded last month, while the Y-on-Y inflation of Non Food Group decreased to 7.0% from 7.9% in January this year.
-
-...
-
-[Data](articles/39fc4f21.json)
-
-[Extended Data](ext_articles/39fc4f21.ext.json)
-
----
-
-### What happened to the baby fell into the mother to
-
-*2024-02-29 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193959) · `si`
-
-A month old bullem slipped from the mother, reports at the Kitulgala while he had fallen to the Hatton Colombo main road.
-
-Two families from Negombo-three wheelers to Negombo to visit Nuwara Eliya via Kitulgala corulence have fallen into the road, police said.
-
-Police do not have to sleep at that time
-
-The incident had occurred at around 11.35 pm last night and the car was on the bunch of the road and revived the influx of the road.
-
-The victims were taken to Kitulgala Police, who were later taken to Kitulgala Police.
-
-Later, they were aware that the child was hospitalized while he was rescuing the vacant people in the three-wheeler.
-
-The mother and others had gone to the Kitulgala hospital and the child had been admitted to the Karawanella Hospital with the child.
-
-The baby was taken to the police, a resident of Matara, a resident of Matara.
-
-They are to be taken to the Kitulgala Police Station today and continue legal action.
-
-◼️
-
-[Data](articles/b5f84c64.json)
-
-[Extended Data](ext_articles/b5f84c64.ext.json)
-
----
-
-### Gaza kills crosses 30,000: deaths and deaths
-
-*2024-02-29 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177601) · `ta`
-
-The death toll in Gaza has crossed over 30,000 since the war began between Israel and the Hamas movement.
-
-Israeli forces are launching fierce attacks on the Gaza region of Palestine on October 7 in Israel.
-
-In the meantime, the death toll in Gaza has reached 30,000, after the launch of the attacks, the Ministry of Health in Gaza said today.
-
-So far, 30,035 people have died and 70457 have been injured.
-
-Meanwhile, 6 children have died due to Mandaposhaku, Diabetes and starvation at the hospital in Al Shiba, Gaza.. Gaza Health Ministry spokesman Ashraf al -Qudra has demanded immediate action to prevent deaths.
-
-◼️
-
-[Data](articles/0182a7e4.json)
-
-[Extended Data](ext_articles/0182a7e4.ext.json)
 
 ---

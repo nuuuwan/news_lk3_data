@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 18:50:37**
+As of **2024-03-01 19:02:39**
 
 ## Newspaper Stats
 
-*Scraped **10,297** Articles*
+*Scraped **10,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 542
 dailyftlk | 542
 islandlk | 544
 adalk | 874
-adaderanalk | 1,248
+adaderanalk | 1,250
 tamilmirrorlk | 1,254
 virakesarilk | 1,400
 dailymirrorlk | 1,561
@@ -26,11 +26,55 @@ adaderanasinhalalk | 1,578
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,294 (100.0%) of 10,297 articles have been extended.
+10,299 (100.0%) of 10,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Dates announced for O/L, A/L and Grade 05 scholarship exams
+
+*2024-03-01 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97668/dates-announced-for-ol-al-and-grade-05-scholarship-exams) · `en`
+
+The Department of Examinations has announced the dates for the competitive school examinations which are slated to be held in the year 2024.
+
+Accordingly, 2024 G.C.E. Advanced Level (A/L), 2023 G.C.E. Ordinary Level (O/L) and 2024 Grade 05 scholarship examinations are scheduled to be held this year, as per the Department of Examinations.
+
+Meanwhile, the Commissioner General of Examinations Amith Jayasundara said that the dates for the 2024 G.C.E. Ordinary Level examination will be announced later.
+
+◼️
+
+[Data](articles/96651b95.json)
+
+[Extended Data](ext_articles/96651b95.ext.json)
+
+---
+
+### Ghana’s electricity supplier briefly disconnects parliament over $1.8m debt
+
+*2024-03-01 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97667/ghanas-electricity-supplier-briefly-disconnects-parliament-over-18m-debt) · `en`
+
+The state-run Electricity Company of Ghana (ECG) on Thursday cut power supplies to the parliament over a debt of 23m Ghanaian cedi ($1.8m; £1.4m).
+
+The outage interrupted a debate on the president’s State of the Nation speech.
+
+A video shared by local media showed MPs in the dimly lit chamber chanting: “Dumsor, dumsor”, which means power outage in the local Akan language.
+
+Local media reported that a back-up power generator restored power to the chamber a few minutes later.
+
+But other parts of the parliament building remained without power for most of the day before supplies were restored.
+
+MPs and parliamentary staff who were using the elevator when the abrupt blackout hit were stuck, Ghana’s TV3 channel reported.
+
+The power company’s communications director William Boateng told Reuters news agency it had resorted to disconnecting power because of parliament’s refusal to “honour demand notices to pay up”.
+
+...
+
+[Data](articles/4193b268.json)
+
+[Extended Data](ext_articles/4193b268.ext.json)
+
+---
 
 ### Dickwella replaces Kusal in SL T20 Squad
 
@@ -1428,6 +1472,8 @@ The IMF’s Governance Diagnostics Assessment recommended implementing 16 direct
 
 [Data](articles/595ed2c3.json)
 
+[Extended Data](ext_articles/595ed2c3.ext.json)
+
 ---
 
 ### Central bank officials invite party leaders meeting
@@ -1553,6 +1599,8 @@ Computer and IT related incomes were 43 million US dollars down from 62 million 
 ...
 
 [Data](articles/54e90c84.json)
+
+[Extended Data](ext_articles/54e90c84.ext.json)
 
 ---
 
@@ -1687,6 +1735,8 @@ Critics have pointed out that Sri Lanka is paying higher rates to renewable powe
 ...
 
 [Data](articles/7d128084.json)
+
+[Extended Data](ext_articles/7d128084.ext.json)
 
 ---
 
@@ -1985,49 +2035,5 @@ When he was going home after turning off the lights, the headmaster raped her to
 [Data](articles/e7697011.json)
 
 [Extended Data](ext_articles/e7697011.ext.json)
-
----
-
-### President reminds our ownership of the Red Sea
-
-*2024-03-01 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193992) · `si`
-
-President Ranil Wickremesinghe says that a large modification should be made to move forward.
-
-The President said that a war was not a war and should be fulfilled in the Red Sea.
-
-The President was speaking at the occasional guest of the scattering cadet officers of the Air Force cadres in the history of the history.
-
-"There must be a huge modern in the country to move forward. We need to protect the stability of our region. If peace is in danger of stability, it is another accident to our country. We not all live in the world individually. "
-
-"There is no need to fight a country like Sri Lanka. Doing so will not do our duty. "
-
-"If we are harmful to our economic rights in the Red Sea, we have committed to protect them. We must prepare for the future. "
-
-◼️
-
-[Data](articles/d222294c.json)
-
-[Extended Data](ext_articles/d222294c.ext.json)
-
----
-
-### Attack on girl: Parents arrested
-
-*2024-03-01 10:20:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-மீது-தாக்குதல்-பெற்றோர்-கைது/175-334040) · `ta`
-
-Rithimaliatta police said that two parents of the princess were arrested today (1) on suspicion of abuse of child after brutally assaulting a 3 -year -old girl.
-
-The police said that the arrested was Kahatavadiya 13, a 31 -year -old mother and a 27 -year -old father in the milestone area.
-
-A 3 -year -old girl, who was injured in the attack, has been admitted to Mahiyangan hospital for medical examination, police said.
-
-A group of police officers Rithimaliyetta have arrested the couple on suspicion of surrounding the house.
-
-◼️
-
-[Data](articles/276b9143.json)
-
-[Extended Data](ext_articles/276b9143.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 16:17:37**
+As of **2024-03-01 16:32:54**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ adaderanasinhalalk | 1,571
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,250 (99.9%) of 10,259 articles have been extended.
+10,259 (100.0%) of 10,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### උණුසුම් තත්ත්වය ගැන කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+### An announcement of the weather for warm condition
 
 *2024-03-01 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194010) · `si`
 
-ඒ අනුව වයඹ, බස්නාහිර, දකුණු, සබරගමුව යන පළාත්වලට සහ මන්නාරම දිස්ත්‍රික්කය සඳහා ඉදිරි පැය 24 දක්වා එම නිවේදනය බලපැවැත්වේ.
+Accordingly, the announcement in the North Western, Western, Southern, Southern, Sabaragamuwa provinces and the Mannar district.
 
-ඉහත සඳහන් ප්‍රදේශවල ඇතැම් ස්ථානවලට උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමු කළ යුතු මට්ටමක පවතිනු ඇතැයි කාලගුණ අංශ අපේක්ෂා කෙරේ.
+The weather forecasts are expected to be in the warm indicator, the heat of the human body, that is, the heat of the human body.
 
 ◼️
 
 [Data](articles/917dd6fa.json)
+
+[Extended Data](ext_articles/917dd6fa.ext.json)
 
 ---
 
@@ -60,45 +62,55 @@ The project encompasses the construction of a comprehensive energy system, inclu
 
 [Data](articles/da2183c5.json)
 
+[Extended Data](ext_articles/da2183c5.ext.json)
+
 ---
 
-### நின்றிருந்த சுவர் இடிந்து விழுந்ததில் இளைஞன் பலி
+### The young man killed when the wall collapsed
 
 *2024-03-01 15:39:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/நின்றிருந்த-சுவர்-இடிந்து-விழுந்ததில்-இளைஞன்-பலி/94-334052) · `ta`
 
-உடப்பு. ஆண்டிமுனைக் கிராமத்தில்  உடைக்கப்பட்ட வீடொன்றின் பகுதியளவில் நின்றிருந்த சுவற்றின் அருகில் நின்று கொண்டிருந்த உடப்பு ஐந்தாம் வட்டாரத்தைச் சேர்ந்த 18 வயதுடைய முத்துச் செல்வம் தனுஜன் என்ற இளைஞன் மீது அந்த சுவர் இடிந்து விழுந்ததில் அவ்விளைஞன் உயிரிழந்துள்ளார்.
+Body. An 18 -year -old pearl Selvam Dhanujan, an 18 -year -old man, who was standing near the wall of a house broken in the village of Antimunai, was killed when the wall collapsed.
 
-உடப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டு, மேலதிக சிகிச்சைக்காக   சிலாபம் பொது வைத்தியசாலைக்கு மாற்றப்பட்ட போதிலும் அந்த இளைஞன் அங்கு சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Although he was admitted to the hospital and transferred to the Chilaw General Hospital for further treatment, the young man died without treatment, police said.
 
-வியாழக்கிழமை (29) இடம்பெற்ற சம்பவத்தில் மரணமடைந்த இளைஞனின்,  சடலம் பிரேத பரிசோதனைக்காக சிலாபம் பொது வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன் , உடப்பு பொலிஸார் மேலதிக விசாரனைகளை மேற்கொண்டு வருகின்றனர்.
+The body of the youth who died on Thursday (29) has been placed at the Chilaw General Hospital for autopsy and the body of Udapu police is conducting further inquiries.
 
 ◼️
 
 [Data](articles/1f3c225c.json)
 
+[Extended Data](ext_articles/1f3c225c.ext.json)
+
 ---
 
-### ආහාර වෙනුවට ගාසා තීරයට වෙඩි
+### Shots at Gaza instead of food
 
 *2024-03-01 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194009) · `si`
 
-ගාසා තීරයේ ඊශ්‍රායල - හමාස් යුද්ධය ජාත්‍යන්තර මානුෂීය නීතිය, යුද නීතිය, මානව හිමිකම් දර්ශක සියල්ල අභිභවා යමින් දැන් මාස 05කට අධික කාලයක් ක්‍රියාත්මක වේ.
+Israeli-Hamas in Gaza - Hamas War Relocates International Humanitarian Law, Army Law and Human Rights Index
 
-ඒ අතරින් කිසි ලෙසකින් හෝ විස්තර කිරීමට අපහසු තරම් දරුණු ඛේදවාචකයක් ගාසා තීරය උතුරු කොටසේ ගාසා නගරයෙන් ඊයේ (29) වාර්තා විය.
+Gaza, a group of tragedy is reported from the Northern Select Town yesterday (29).
 
-එම සිද්ධිය සංක්ෂිප්ත ව හැඳින්වුව හොත් මිනිස් වර්ග‍යාගේ මිනිසත්කම බිඳවැටීමක් ලෙස එය හැඳින්වීම වරදක් නොවේ.
+If that event is concise, it is not wrong to introduce it as a collapse of mankind.
 
-කුසගින්නට අහරක්, දිය බිඳක් පතා ගාසා නගරය ආසන්නයේ වීථිවලට එක්රැස් වූ දහස් සංඛ්‍යාත පලස්තීන ජනතාවට ඊශ්‍රායල හමුදාව වෙඩි තැබීමෙන් අවම වශයෙන් 112 දෙනෙකු ජීවිතක්ෂයට පත් වීම එම සිද්ධියයි.
+The event is to kill at least 112 Palestinians to the streets near the streets near the streets near the hunger, a dish, a drop of street.
 
-තවත් 280 දෙනෙකු පමණ තුවාල ලබා ඇති බව වාර්තා වූ අතර, රෝහල් ආරංචි මාර්ග සඳහන් කළේ, තුවාල ලැබූවන් සංඛ්‍යාව 700 ඉක්මවන බවයි.
+According to hospital sources, hospital sources said that the number of injured were over 700.
 
-ඊයේ (29) අලුයම් කාලයේ වාර්තා වූ එම සිද්ධිය සම්බන්ධයෙන් ඊශ්‍රායල හමුදාව සපුරුදු පරිදි නිදහසට කරුණු දැක්වීමක් සිදු කර තිබිණි.
+The Israeli Army had been excused, as reported yesterday (29).
 
-ඊශ්‍රායල හමුදා ප්‍රකාශකයා කියා සිටියේ, පළමුව තමන් රැගෙන ආ ආධාර ට්‍රක්රථ වටකරගත් පලස්තීනුවන් තෙරපී හෝ වාහනවලට යට වී මිය ගිය අතර, දෙවනුව තම සෙබළුන්ට තර්ජනයක් වූ පලස්තීනුවන්ට වෙඩි තැබීමට සිදු වූ බවයි.
+The Israeli Army spokesman said that the Palestinians surrounded by their aid, the Palestinians were killed and the Palestinians were threatened with their soldiers.
+
+But Palestinians say that the Israeli army came with aids and shot the military and drones to the Palestinians who had come to obtain assistance.
+
+Long before the Palestinians of the northern section of Gaza is blocked by Israel long ago.
 
 ...
 
 [Data](articles/276d495c.json)
+
+[Extended Data](ext_articles/276d495c.ext.json)
 
 ---
 
@@ -117,6 +129,8 @@ The discussion unveiled stark numbers, stating that cervical cancer ranks as the
 ...
 
 [Data](articles/b59a2f04.json)
+
+[Extended Data](ext_articles/b59a2f04.ext.json)
 
 ---
 
@@ -202,33 +216,37 @@ Highlighting Sri Lanka’s historical commitment to safeguarding world peace and
 
 ---
 
-### சாந்தனின் பூதவுடல்  கொண்டுவரப்பட்டது
+### Santhan's boutique was brought
 
 *2024-03-01 14:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-பூதவுடல்-கொண்டுவரப்பட்டது/175-334050) · `ta`
 
-முன்னாள் இந்திய பிரதமர் ராஜீவ் காந்தி கொலை வழக்கில் கைது செய்யப்பட்டு தண்டனை அனுபவித்த நிலையில் விடுதலை செய்யப்பட்ட பின்னர், உயிரிழந்த சாந்தனின் பூதவுடல், இலங்கைக்கு கொண்டுவரப்பட்டுள்ளது.
+The death of Shantan, who died after being released after being arrested and sentenced to death in the murder of former Indian Prime Minister Rajiv Gandhi, has been brought to Sri Lanka.
 
-இன்று(01) கொழும்புக்கு கொண்டு வரப்பட்டுள்ள பூதவுடலை கொழும்பில் உள்ள மலர்ச்சாலை ஒன்றில் வைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+Steps have been taken to keep the flower in Colombo today (01) at a flower in Colombo.
 
-சென்னையில் இருந்து விமானம் மூலம் கட்டுநாயக்க விமான நிலையத்துக்கு கொண்டு வரப்பட்ட சாந்தனின் உடலை, சாந்தனின் உறவினர்கள் கட்டுநாயக்க விமான நிலையத்தில் பொறுப்பேற்றுள்ளனர்.
+Shantan's body, which was brought to the Katunayake airport by plane from Chennai, is in charge of Shantan's relatives at the Katunayake airport.
 
 ◼️
 
 [Data](articles/9fdaa63e.json)
 
+[Extended Data](ext_articles/9fdaa63e.ext.json)
+
 ---
 
-### சமன் ரத்நாயக்க சிஐடிக்கு
+### To Saman Ratnayake CIT
 
 *2024-03-01 14:34:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமன்-ரத்நாயக்க-சிஐடிக்கு/175-334049) · `ta`
 
-சுகாதார அமைச்சின் மேலதிக செயலாளர் டொக்டர் சமன் ரத்நாயக்க குற்றப் புலனாய்வுப் பிரிவுக்கு இன்று (01) வந்துள்ளார்.
+Additional Secretary to the Ministry of Health, Dr. Saman Ratnayake has arrived in the Criminal Investigation Division today (01).
 
-சர்சைக்குரிய மருந்து இறக்குமதி  சம்பவம் தொடர்பில் வாக்குமூலம் வழங்க அவர் அங்கு வந்துள்ளார்.
+He has come there to make a confession on the importation of the concept.
 
 ◼️
 
 [Data](articles/eebd64b5.json)
+
+[Extended Data](ext_articles/eebd64b5.ext.json)
 
 ---
 
@@ -1286,6 +1304,8 @@ He said the pilot project will assist the Plantation Industries Ministry, Power 
 
 [Data](articles/e0e5f56e.json)
 
+[Extended Data](ext_articles/e0e5f56e.ext.json)
+
 ---
 
 ### Fire in Bangladesh: 43 killed
@@ -1588,23 +1608,27 @@ The police have received information that the death was hit by a night mail trai
 
 ---
 
-### 'අභියාචනාධිකරණ විනිශ්චකාරවරයෙක් වන මටත් මෙහෙම සිද්ධියකට මුහුණ දෙන්න වුනානම් සාමාන්‍ය මිනිස්සු ගැන කවර කතාවක්ද?'
+### 'If I was as a judge of the Court of Appeal, what a story about the common people?'
 
 *2024-03-01 08:30:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51l3ep24g0o) · `si`
 
-'අභියාචනාධිකරණ විනිශ්චකාරවරයෙක් වන මටත් මෙහෙම සිද්ධියකට මුහුණ දෙන්න වුනානම් සාමාන්‍ය මිනිස්සු ගැන කවර කතාවක්ද?'
+'If I was as a judge of the Court of Appeal, what a story about the common people?'
 
-පොලිසිය වර්තමානයේ කඩා වැටී තිබෙන තත්ත්වය ගැන කණගාටුවට පත්වන බව අභියාචනාධිකරණ විනිසුරු මොහොමඩ් ලෆාර් අද (මාර්තු 01 වැනිදා) විවෘත අධිකරණයේ ප්‍රකාශ කළේය.
+The Court of Appeal Judge Mohammed Lafar said in the open court today (March 1).
 
-සුමති ඉන්ෆොමේෂන් ටෙක්නොලොජි පුද්ගලික සමාගම විසින් කොල්ලුපිටිය පොලිසියට එරෙහිව ගොනු කළ රිට් පෙත්සමක් අද කැඳවනු ලැබූ අවස්ථාවේදී  විනිසුරුවරයා මේ බව සඳහන් කර සිටියේය.
+The judge was summoned by Sumathi Information Technology (Pvt) Ltd was called by a Rit petition filed against the Kollupitiya Police.
 
-මෙම පෙත්සම මොහොමඩ් ලෆාර් සහ ඛේමා ස්වර්ණාධිපති යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබුණි.
+The petition was called before Mohammed Lafar and Kamema Swarnadi's Court of Appeal.
 
-එහිදී විවෘත අධිකරණයේදී ප්‍රකාශයක් කළ අභියාචනාධිකරණ විනිසුරු මොහොමඩ් ලෆාර් මෙසේ පැවසීය.
+Judge Mohammad Laifar said:
+
+"One day I went for a walk. A policeman stopped me in Wellawatte area. Asked who. I had shown the identity card. Awaiting id and told me to tell me. Later, I sat at that place and called to the IGP. The IGP later called the officer. Later, the officer asked the IGP who are you?That. This is an institution to you who listen to you, even the IGP. Later told me to go. But I didn't go. Subsequently, the Superintendent of the Police in charge of the area and expressed the story about the incident. What about the common people if I was a judge of the Court of Appeal? "
 
 ...
 
 [Data](articles/b0bf3804.json)
+
+[Extended Data](ext_articles/b0bf3804.ext.json)
 
 ---
 

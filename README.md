@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 00:02:52**
+As of **2024-03-02 00:17:17**
 
 ## Newspaper Stats
 
-*Scraped **10,335** Articles*
+*Scraped **10,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 544
 adalk | 876
 adaderanalk | 1,255
 tamilmirrorlk | 1,257
-virakesarilk | 1,408
+virakesarilk | 1,410
 dailymirrorlk | 1,568
 adaderanasinhalalk | 1,588
 
@@ -26,23 +26,55 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,334 (100.0%) of 10,335 articles have been extended.
+10,335 (100.0%) of 10,337 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-03-02 (Saturday)
+
+### மக்களை அசௌகரியங்களுக்கு உள்ளாக்குவதை ஏற்க முடியாது - அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவிப்பு
+
+*2024-03-02 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177717) · `ta`
+
+மக்களை அசௌகரியங்களுக்குள்ளாகும் வகையிலான தனியார் போக்குவரத்து சேவையினரின் செயற்பாடுகள் விரும்பத்தகாத செயல் என சுட்டிக்காட்டிய அமைச்சர் டக்ளஸ் தேவானந்தா போராட்டங்களை வைத்து சுயலாப அரசியல் செய்யும் அரசியல் நிலைப்பாடுகளை தான் ஒருபோதும் விரும்பியதில்லை எனவும் தெரிவித்த அவர் தனியார் போக்குவரத்து சேவையினரின் இவ்வாறான செயற்பாடுகள் இனியொருபோதும் ஏற்படாதிருக்கும் வகையில் இருப்பது அவசியம் எனவும் வலியுறுத்தியுள்ளார்
+
+வடமாகாணம் தழுவிய ரீதியில் தனியார் போக்குவரத்து சேவையினரால் முன்னெடுக்கப்பட்ட போராட்டம் தொடர்பில் தீர்வு காண்பதற்கான கூட்டம் ஆளுநர் அலுவலகத்தில் வியாழக்கிழமை (29) இடம்பெற்ற வேளையே அமைச்சர் இவ்வாறு வலியுறுத்தியுள்ளார்.
+
+தனியார் போக்குவரத்து சேவையை முன்னெடுப்போர் தமது கோரிக்கையை வெளிப்படுத்தும் வகையிலான போராட்டங்களை ஜனநாயக ரீதியில் முன்னெடுப்பதில் தவறுகள் ஏதும் இருக்கப்போவதில்லை. அது அவர்களது அடிப்படை உரிமையும் கூட. ஆனால் மக்களை அசௌகரியங்களுக்குள்ளாகும் வகையில் அரச போக்குவரத்து சேவையை முடக்கி மக்களுக்கு இடையூறுகளை ஏற்படுத்திய அவர்களது செயலை எக்காரணம் கொண்டும் ஏற்றுக்கொள்ள முடியாது.
+
+...
+
+[Data](articles/a34c436e.json)
+
+---
+
 ### 2024-03-01 (Friday)
 
-### இலங்கை சட்டக் கல்லூரியின் 150 ஆவது ஆண்டு நிறைவை முன்னிட்டு முத்திரை வெளியிடு
+### சர்வதேச கீதா ஜெயந்தி யாகம்
+
+*2024-03-01 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177716) · `ta`
+
+கலாசார அமைச்சு ஏற்பாட்டில் நெலும் பொக்குண தாமரை தடாகத்தில் நடைபெற்றுவரும் மூன்று நாட்கள் ஜெயந்தி விழாவில் முதல்நாள் ஆரம்ப நிகழ்வில்  பாடசாலை மாணவர்களுக்கான கோலப்போட்டி, ஓவியப்போட்டி இடம் பெற்றன. தொடர்ந்து சர்வதேச கீதா ஜெயந்தி யாகம் நடைபெறுவதைப் படங்களில் காணலாம்.
+
+◼️
+
+[Data](articles/a2be6bf7.json)
+
+---
+
+### Release the 150th anniversary of the Law College of Sri Lanka
 
 *2024-03-01 23:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177715) · `ta`
 
-இலங்கை சட்டக் கல்லூரியின் 150 ஆவது ஆண்டு நிறைவை முன்னிட்டு வெள்ளிக்கிழமை (1) மேற்படி கல்லூரி நிர்வாகத்தினால் முத்திரை வெளியிட்டு வைக்கப்பட்டது.
+The stamp was issued by the college administration on Friday (1) to mark the 150th anniversary of the Law College of Sri Lanka.
 
-பிரதம நீதியரசர் ஜயந்த ஜயசூரிய பிரதம அதிதியாக கலந்துகொண்ட இந்நிகழ்வில் போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் ஊடகத்துறை அமைச்சர் பந்துலகுணவர்த்தன, இராஜாங்க அமைச்சர் ஷாந்த பண்டார, ஊடக அமைச்சின் செயலர் அனுஷா பல்பிட்டிய ஆகியோரும் ஜனாதிபதி சட்டதரணிகள் மற்றும் சிரேஷ்ட சட்டதரணிகள் உள்ளிட்ட பலர் இந்நிகழ்வில் கலந்துகொண்டு முத்திரையை வெளியிட்டு வைக்கப்பட்டபோது எடுக்கப்பட்ட படங்கள்.
+Chief Justice Jayantha Jayasuriya was the chief guest at the event.
 
 ◼️
 
 [Data](articles/12c3a23d.json)
+
+[Extended Data](ext_articles/12c3a23d.ext.json)
 
 ---
 
@@ -2057,39 +2089,5 @@ Eyewitnesses said that Israeli soldiers started firing when the public began to 
 [Data](articles/fa3a1c2d.json)
 
 [Extended Data](ext_articles/fa3a1c2d.ext.json)
-
----
-
-### Ahungalla shot
-
-*2024-03-01 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194001) · `si`
-
-◼️
-
-[Data](articles/1ad29f15.json)
-
-[Extended Data](ext_articles/1ad29f15.ext.json)
-
----
-
-### Sri Lanka unveils ‘Govt. Action Plan’ based on IMF governance diagnostic assessment
-
-*2024-03-01 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97654/sri-lanka-unveils-govt-action-plan-based-on-imf-governance-diagnostic-assessment) · `en`
-
-The Finance Ministry on Thursday (Feb.29) unveiled the Government Action Plan, which was prepared based on the Governance Diagnostic Assessment (GDA) furnished by the International Monetary Fund (IMF).
-
-Taking to his X handle (formerly Twitter), Finance State Minister Shehan Semasinghe said this action plan further demonstrates the Sri Lankan government’s commitment to building a sustainable economy and good governance in the country.
-
-The IMF had prepared the governance diagnostic report at the request of Sri Lanka, and the publication was deemed imperative for the authorities to adopt their own action plan to implement the recommendations in the assessment, beyond the priority commitments under the EFF arrangement.
-
-Sri Lanka is the first country in Asia to have undergone the IMF Governance Diagnostic exercise.
-
-The IMF earlier lauded the timely publication of the GDA, highlighting that it was a commendable first step towards addressing deep-rooted corruption weaknesses.
-
-◼️
-
-[Data](articles/fb88a919.json)
-
-[Extended Data](ext_articles/fb88a919.ext.json)
 
 ---

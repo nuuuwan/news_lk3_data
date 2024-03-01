@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 03:32:55**
+As of **2024-03-02 03:50:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,360 (100.0%) of 10,361 articles have been extended.
+10,361 (100.0%) of 10,361 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The petitioners are seeking a Writ of Mandamus, directing the IGP and the Attorn
 ◼️
 
 [Data](articles/15815659.json)
+
+[Extended Data](ext_articles/15815659.ext.json)
 
 ---
 

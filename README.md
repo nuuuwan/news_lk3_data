@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 08:51:54**
+As of **2024-03-01 09:03:31**
 
 ## Newspaper Stats
 
-*Scraped **10,164** Articles*
+*Scraped **10,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 123
 dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 526
-dailyftlk | 535
+dailyftlk | 542
 islandlk | 543
 adalk | 865
 adaderanalk | 1,225
-tamilmirrorlk | 1,235
+tamilmirrorlk | 1,236
 virakesarilk | 1,394
 dailymirrorlk | 1,541
 adaderanasinhalalk | 1,547
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,547
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,164 (100.0%) of 10,164 articles have been extended.
+10,164 (99.9%) of 10,172 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -200,6 +200,50 @@ Lanka IOC and Siainopek Company has not been properly notified.
 
 ---
 
+### Hayleys honours outstanding teams for excellence and innovation at 11th annual Chairman’s Awards
+
+*2024-03-01 06:26:02* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-honours-outstanding-teams-for-excellence-and-innovation-at-11th-annual-Chairman-s-Awards/34-759039) · `en`
+
+Continuing its tradition of celebrating business excellence, Sri Lanka’s most diversified conglomerate, the Hayleys Group recognised the outstanding achievements of its teams, across 16 business sectors at the 11th Annual Chairman’s Awards.
+
+The apex recognition platform for the Group, felicitated 192 employees from 24 project teams for their inspiring, purpose-led initiatives.
+
+Hayleys Group Chairman and Chief Executive Mohan Pandithage said: “Our enduring ability to pioneer progress and create value for our diverse stakeholders lies in the relentless spirit and dedication of our employees – our greatest asset.
+
+“This year, our winners have showcased commendable efforts, from demonstrating remarkable solutions to industry challenges, innovation, environmental responsibility, and exceptional service.”
+
+...
+
+[Data](articles/f41509d3.json)
+
+---
+
+### CEMS-Global apparel and textile show opens in Colombo
+
+*2024-03-01 06:24:15* · [`dailyftlk`](https://www.ft.lk/business/CEMS-Global-apparel-and-textile-show-opens-in-Colombo/34-759038) · `en`
+
+The Sri Lankan edition of CEMS-Global USA’s Textile Series of Exhibitions – 11th Textech Sri Lanka 2024 International Expo on Textile, Garment Technology and Machinery; 13th Colombo International Yarn & Fabric Show 2024 featuring International Yarn, Fabric, Trims and Accessories Manufacturers and 43rd Dye+Chem Sri Lanka 2024 International Expo showcasing Dyestuff and Fine and Specialty Chemicals opened yesterday at the Sri Lanka Exhibition and Convention Centre. The Chief Guest was Investment Promotion State Minister Dilum Amunagama. Organised to facilitate collaboration, showcase the latest technologies, and foster trade relationships, these three exhibitions promise to be a cornerstone for the textile and apparel sector’s growth in Sri Lanka. The exposition is open until 2 March from 1.00 a.m. to 6.00 p.m. - Pix by Upul Abayasekara
+
+◼️
+
+[Data](articles/17e0e0d6.json)
+
+---
+
+### National Chamber of Commerce promotes trade and investment between SL and Indonesia
+
+*2024-03-01 06:22:11* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Commerce-promotes-trade-and-investment-between-SL-and-Indonesia/34-759037) · `en`
+
+The National Chamber of Commerce of Sri Lanka successfully conducted a session on strengthening bilateral trade opportunities between Sri Lanka and Indonesia with the gracious presence of the Ambassador of Indonesia recently.
+
+Ambassador Dewi Gustina Tobing enlightened the session with her presence as the guest speaker, accompanied by a team of officials from the Embassy of Indonesia in Sri Lanka, Minister Counsellor in Economic Section I Fiki Oktanio and Minister Counsellor in Economic Section II Lailal Khairiyah Yuniarti. The session marked an important milestone in fostering economic ties and cooperation between the two nations to connect with the business community in Sri Lanka.
+
+...
+
+[Data](articles/a53e0887.json)
+
+---
+
 ### SLPP MPs push for early General Election ahead of Presidential race
 
 *2024-03-01 06:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-MPs-push-for-early-General-Election-ahead-of-Presidential-race/108-278003) · `en`
@@ -236,6 +280,20 @@ It was rapidly spread across the building, and dozens of dozens are said to have
 
 ---
 
+### CMTA delegation invited by SIAM to meet Indian Government officials
+
+*2024-03-01 06:07:30* · [`dailyftlk`](https://www.ft.lk/business/CMTA-delegation-invited-by-SIAM-to-meet-Indian-Government-officials/34-759036) · `en`
+
+SIAM Policy Advocacy Executive Officer Pooja Nagpal, Deputy Secretary Jyoti Yadav, Ministry of Commerce and Industry Additional Secretary Anant Swarup, CMTA Chairman Charka Perera, CMTA Senior Vice Chairman Virann de Zoysa and SIAM Deputy Executive Director Atanu Ganguli
+
+The Ceylon Motor Traders Association (CMTA) recently received an invitation from the Society of Indian Automobile Manufacturers (SIAM), the apex national body representing vehicles and vehicular manufacture in India, to discuss ways to revive Sri Lanka’s automotive sector. CMTA Chairman Charka Perera and Senior Vice Chairman Virann de Zoysa met with key SIAM representatives, including Executive Director Atanu Ganguli and SIAM Policy Advocacy Executive Officer Pooja Nagpal.
+
+...
+
+[Data](articles/c90f8935.json)
+
+---
+
 ### Showers in several areas
 
 *2024-03-01 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193979) · `si`
@@ -253,6 +311,20 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/43cf9fdb.json)
 
 [Extended Data](ext_articles/43cf9fdb.ext.json)
+
+---
+
+### President highlights Sri Lanka’s Indian Ocean security commitment
+
+*2024-03-01 06:05:34* · [`dailyftlk`](https://www.ft.lk/news/President-highlights-Sri-Lanka-s-Indian-Ocean-security-commitment/56-759035) · `en`
+
+President Ranil Wickremesinghe on Wednesday emphasised Sri Lanka’s dedication to maintaining a strategic position aimed at ensuring the absence of major power rivalries and upholding freedom of navigation in the Indian Ocean.
+
+Speaking at the Pathfinder Indian Ocean Security Conference Phase III at Cinnamon Grand Colombo, the President highlighted that Sri Lanka’s commitment to freedom of navigation has prompted the country to engage in operations as guardians of prosperity in the Red Sea. He underscored the significance of the Suez Canal, particularly evident during the six-day war when its closure for ten years negatively impacted the Colombo port, emphasising the necessity of ensuring unrestricted navigation.
+
+...
+
+[Data](articles/9904d4a5.json)
 
 ---
 
@@ -279,6 +351,36 @@ Wind speed may increase up to 45-50 kmph at times in the sea areas off the coast
 [Data](articles/c6553a42.json)
 
 [Extended Data](ext_articles/c6553a42.ext.json)
+
+---
+
+### UNFPA to assist SL modernise statistical system to move towards digital economy
+
+*2024-03-01 05:55:58* · [`dailyftlk`](https://www.ft.lk/news/UNFPA-to-assist-SL-modernise-statistical-system-to-move-towards-digital-economy/56-759034) · `en`
+
+United Nations Population Fund (UNFPA) Asia Pacific Regional Director Pio Smith yesterday called on Prime Minister Dinesh Gunawardena and expressed keenness to support modernisation of Sri Lanka.
+
+The Prime Minister thanked the UNFPA for the support extended during the last 50 years to several areas including the plans to modernise Sri Lanka’s statistical system and upgrading of population data system.
+
+The UPFPA Regional Director assured continuous support to upgrade data systems to move towards the digital economy. He expressed interest in assisting programs to enhance collaboration at the national level and advocate for the rights of women and girls. He said he visited Kilinochchi yesterday to assess the issues faced by communities at grassroots level and there he noted with satisfaction the measures taken with regard to gender violence in homes and outside.
+
+...
+
+[Data](articles/136c414a.json)
+
+---
+
+### German Parliamentary delegation to visit Sri Lanka this week
+
+*2024-03-01 05:53:57* · [`dailyftlk`](https://www.ft.lk/news/German-Parliamentary-delegation-to-visit-Sri-Lanka-this-week/56-759033) · `en`
+
+Head of the Delegation and Member of Parliament Renate Kuenast
+
+A four-member delegation of the German Parliament led by former Federal Minister Renate Kuenast is scheduled to pay an official visit to Sri Lanka from 1 to 5 March 2024.
+
+...
+
+[Data](articles/0f0b22e5.json)
 
 ---
 
@@ -365,6 +467,22 @@ Ms. Kandambi, a former president of the APB, has long been recognized for her ex
 [Data](articles/463ca15d.json)
 
 [Extended Data](ext_articles/463ca15d.ext.json)
+
+---
+
+### ரயில் மோதி பெண் உயிரிழப்பு
+
+*2024-03-01 04:29:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதி-பெண்-உயிரிழப்பு/175-334033) · `ta`
+
+வவுனியா, புளியங்குளம், புதூர் பகுதியில் ரயில் கடவையைக் கடக்க முற்பட்ட பெண் மீது ரயில் மோதியதில் அவர் உயிரிழந்துள்ளார்.
+
+நேற்று மாலை கொழும்பில் இருந்து காங்கேசன்துறை நோக்கிச் சென்ற ரயில், புதூர் பகுதியில் உள்ள கடவையைக் கடக்க முற்பட்ட முற்பட்ட பெண் மீது மோதியதில் அவர் சம்பவ இடத்திலேயே மரணமடைந்துள்ளார்.
+
+இந்த சம்பவத்தில் 45  தொடக்கம் 55 வயதுடைய பெண் ஒருவரே இவ்வாறு உயிரிழந்துள்ளார். (a)
+
+◼️
+
+[Data](articles/c07dd791.json)
 
 ---
 
@@ -1783,175 +1901,5 @@ A bond maturing on 01.07.2032 closed at 12.55/13.00 percent up from 12.50/90 per
 [Data](articles/2e0cd714.json)
 
 [Extended Data](ext_articles/2e0cd714.ext.json)
-
----
-
-### An announcement for several areas
-
-*2024-02-29 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193968) · `si`
-
-A warning of several provinces and districts have been issued for several provinces and districts for the next 24 hours.
-
-Accordingly, the Department of Meteorology has informed the masses in the North Western, Western, Southern Provincial and Mannar Districts.
-
-It is said that the warm indicator of these areas is that the heat of the human body is in a level of focus.
-
-◼️
-
-[Data](articles/bc65cddc.json)
-
-[Extended Data](ext_articles/bc65cddc.ext.json)
-
----
-
-### Sri Lanka to expand Aswesuma benefits to around 40-pct of population ahead of polls
-
-*2024-02-29 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-expand-aswesuma-benefits-to-around-40-pct-of-population-ahead-of-polls-152548/) · `en`
-
-ECONOMYNEXT – Sri Lanka will expand its ambitious social welfare programme Aswesuma to 2.4 million households which is likely to cover around 40 percent of the island nation’s population ahead of the presidential elections later this year.
-
-Aswesuma poverty alleviation programme, financially backed by the World Bank, is designed to protect lower income groups under severely poor, poor, vulnerable, and transitional categories. The programme has allocated 205 billion rupees for this year.
-
-As of December, President Ranil Wickremesinghe’s government had choses 1.41 million beneficiary families under the four categories: 303,199 beneficiaries under the extremely poor, 606,496 from the poor, 290,624 under the vulnerable category, and 209,745 under the transitional.
-
-...
-
-[Data](articles/42c185f8.json)
-
-[Extended Data](ext_articles/42c185f8.ext.json)
-
----
-
-### Sri Lanka to get Cyber Security Act, Authority: Min
-
-*2024-02-29 17:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-cyber-security-act-authority-min-152528/) · `en`
-
-ECONOMYNEXT – A National Cyber Security Act will be introduced this year, followed by the establishment of a Cyber Security Authority, State Minister for Technology Kanaka Herath has said.
-
-“The Sri Lanka Computer Emergency Readiness Team (SLCERT) is anticipated to introduce the National Cyber Security Act within the year, followed swiftly by the establishment of the Cyber Security Authority,” Herath said at a press briefing held at the President’s Media Centre (PMC) on Thursday.
-
-Herath said the digital economy which previously stood at 4.73 percent had grown past the 5 percent mark.
-
-“This expansion has notably bolstered the country’s overall economic resilience. To further enhance this momentum, preparations are underway for the Digital Economy Summit scheduled to take place in Sri Lanka at the end of July.”
-
-...
-
-[Data](articles/816fa3a6.json)
-
-[Extended Data](ext_articles/816fa3a6.ext.json)
-
----
-
-### Ella is recorded on the camera
-
-*2024-02-29 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193966) · `si`
-
-Ella circuit police were arrested by the Ella circuit police and was produced before the Bandarawela Magistrate's Court on March 4.
-
-The suspect was filmed by a foreign woman to attack the railway line at the railway track to watch the falls on the railway line last evening.
-
-The tourists had told police that the suspect tried to guide them and tried to attack them.
-
-◼️
-
-[Data](articles/fa9f24f1.json)
-
-[Extended Data](ext_articles/fa9f24f1.ext.json)
-
----
-
-### Time has come to decide whether we should remain in Parliament or not: Sajith
-
-*2024-02-29 17:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Time-has-come-to-decide-whether-we-should-remain-in-Parliament-or-not-Sajith/108-277968) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - The time has come to decide whether we should remain in an assembly where its head repeatedly violates the Constitution, Opposition Leader Sajith Premadasa said today.
-
-Premadasa came up with this remark during a meeting held at the Saranakara Maha Vidyalaya, Bingiriya today.
-
-"Speaker Mahinda Yapa Abeywardena is openly violating the Constitution. He violated the Constitution by casting his vote to approve the appointment of a new IGP. He had written to the President stating that he decided to cast his vote at the Constitutional Council on the assumption that the two civil members who abstained were  against the appointment of Deshabandu Tennekoon as the new IGP. The Speaker seems to have pushed the Constitution aside and is doing things his own way. Therefore, the time has come for us to decide whether we should remain in Parliament or not," he said.
-
-...
-
-[Data](articles/0b500133.json)
-
-[Extended Data](ext_articles/0b500133.ext.json)
-
----
-
-### Apple leaves a lot of work to do
-
-*2024-02-29 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193965) · `si`
-
-It is reported that when demand for eco-friendly electrical vehicles, the American Apple Technology Company has abandoned their electrical vehicles.
-
-Apple, who produces the iphone, has launched an electric car to manufacture of electric car about ten years ago.
-
-However, Apple's stock prices have risen compared to the prices of Apple's share prices with the dawn of the electric vehicle project.
-
-Blomberg business website reports some of the employees who have engaged in the electrical vehicle project project.
-
-It is also the policy of the management that Apple will also be a positive focus on the rapid growth of technology companies.
-
-The Alphabot, Google, belongs to the AI technology to its product line, and Apple has not yet taken such a huge step.
-
-Although eco-friendly, the increase in prices of electrical cars can lead to the demand for greater prices.
-
-The Tesla, the world's leading electrical vehicles, has also been tempted to cut investments and cut jobs.
-
-...
-
-[Data](articles/b5c3a2e7.json)
-
-[Extended Data](ext_articles/b5c3a2e7.ext.json)
-
----
-
-### Western threats are at risk of nuclear weapons - Putin
-
-*2024-02-29 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177611) · `ta`
-
-Russian President Vladimir Putin has said that the threats of the West are at risk of nuclear war.
-
-Putin said this during an annual speech on Thursday for his people.
-
-He warned that Russian forces are progressing in Ukraine and warned that any country that sends troops to Ukraine will face tragic consequences.
-
-'They have announced the possibility of sending the Western Army to Ukraine. The consequences of these issues can be very tragic.
-
-We have to realize that we have weapons that can attack their territories, and they must realize that the threats of the West are at risk of nuclear war. ”
-
-French President Emanuel Macron recently denied the possibility of sending troops to Ukraine.
-
-After the Russian invasion of Ukraine began, Western leaders have criticized President Vladimir Putin for talking about the nuclear war.. Putin has been mutilated in nuclear warnings in the past few months.
-
-...
-
-[Data](articles/ec8d6ade.json)
-
-[Extended Data](ext_articles/ec8d6ade.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover stays above 1bn
-
-*2024-02-29 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-stays-above-1bn-152540/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader All Share Index closed down 0.25 percent, or 26.53 points, at 10,651; while the S&P SL20 Index closed down 0.64 percent, or 19.59 points, at 3,037.
-
-Turnover stayed above the 1 billion mark for the fifth consecutive day, at 1.6 billion.
-
-John Keells Holdings Plc was the most actively traded stock of the day, contributing 444 million to the day’s turnover. The company announced a private placement of 110 million shares at 130 each to HWIC Asia Fund. The share closed down at 185.75.
-
-Ceylon Cold Stores Plc, a John Keells Holdings Plc subsidiary, saw buying interest after news that the company, which trades as Elephant House, was expanding into the Indian market in a partnership with Reliance Consumer Products Limited. The share closed up at 49.50.
-
-Commercial Bank of Ceylon Plc, which announced a scrip dividend yesterday, also saw active volumes (195mn); The share closed down at 90.00.
-
-...
-
-[Data](articles/25c4b037.json)
-
-[Extended Data](ext_articles/25c4b037.ext.json)
 
 ---

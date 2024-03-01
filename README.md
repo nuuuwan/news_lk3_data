@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 09:17:24**
+As of **2024-03-01 09:33:13**
 
 ## Newspaper Stats
 
-*Scraped **10,173** Articles*
+*Scraped **10,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 526
 dailyftlk | 542
 islandlk | 543
-adalk | 865
+adalk | 866
 adaderanalk | 1,226
 tamilmirrorlk | 1,236
 virakesarilk | 1,394
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,547
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,172 (100.0%) of 10,173 articles have been extended.
+10,173 (100.0%) of 10,174 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -73,6 +73,8 @@ Meanwhile, Lanka IOC and Sinopec too have not made any announcements regarding f
 ◼️
 
 [Data](articles/b059ff30.json)
+
+[Extended Data](ext_articles/b059ff30.ext.json)
 
 ---
 
@@ -1676,6 +1678,20 @@ Accordingly, the newly-appointed IGP has approved to provide legal aid to said p
 
 ---
 
+### දකුණු පළාතට අද ශෝක දිනයක්
+
+*2024-02-29 18:47:57* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාතට-අද-ශෝක-දිනයක්/11-408361) · `si`
+
+රුහුණු විශ්ව විද්‍යාලය ආරම්භ කිරීමට පුරෝගාමියෙකු වූ හිටපු මුදල් අමාත්‍ය රොනී ද මැල් මහතාගේ අභාවය නිමිත්තෙන් දකුණු පළාත් ආන්ඩුකාරවර ආචාර්ය විලී ගමගේ මහතා විසින් අද ( 01දා) දින දකුණු පළාත තුළ ශෝක දිනයක් ලෙස ප්‍රකාශයට පත් කර ඇත.
+
+ඒ අනුව අද  දින දකුණු පළාතේ සියලුම රාජ්‍ය ආයතනවල ජාතික කොඩිය අඩකුඹුකර තබන්නැයි  ආන්ඩුකාර කාර්යාලය දන්වා සිටී.
+
+◼️
+
+[Data](articles/5c50681c.json)
+
+---
+
 ### New relief to police officers
 
 *2024-02-29 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193971) · `si`
@@ -1895,21 +1911,5 @@ Despite the difficulties, the President also thanked the public to the Grama Nil
 [Data](articles/64ff8062.json)
 
 [Extended Data](ext_articles/64ff8062.ext.json)
-
----
-
-### Relief to all the beneficiaries
-
-*2024-02-29 17:43:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-பயனாளிகள்-அனைவருக்கும்-நிவாரணம்/175-334012) · `ta`
-
-President Ranil Wickremesinghe has said that all the beneficiaries will be given to all the beneficiaries and that the cooperation of state officials is necessary to take up the "Assumsuma" and "Urumaya" projects.
-
-The President made this statement during a discussion held at the Wilgamuwa Divisional Secretariat in Matale today (29). Remble
-
-◼️
-
-[Data](articles/c70ded23.json)
-
-[Extended Data](ext_articles/c70ded23.ext.json)
 
 ---

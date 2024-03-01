@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 16:32:54**
+As of **2024-03-01 16:48:11**
 
 ## Newspaper Stats
 
-*Scraped **10,259** Articles*
+*Scraped **10,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 528
 dailyftlk | 542
 islandlk | 544
 adalk | 872
-adaderanalk | 1,243
+adaderanalk | 1,245
 tamilmirrorlk | 1,251
 virakesarilk | 1,398
 dailymirrorlk | 1,556
@@ -26,11 +26,49 @@ adaderanasinhalalk | 1,571
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,259 (100.0%) of 10,259 articles have been extended.
+10,259 (100.0%) of 10,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Heat index advisory issued for parts of the country
+
+*2024-03-01 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97662/heat-index-advisory-issued-for-parts-of-the-country) · `en`
+
+The Department of Meteorology has cautioned the people of rising atmospheric temperatures at some places in North-western, Western, Southern and Sabaragamuwa provinces and in Mannar District in the coming hours.
+
+The advisory, issued at 03.30 p.m. today (01), will be in effect until tomorrow evening (02).
+
+“Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in North-western, Western, Southern and Sabaragamuwa provinces and in Mannar District”, it warned.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity. Continuing activity could result in heat cramps.
+
+Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/fa8ce9eb.json)
+
+---
+
+### Easter attacks: Petition filed seeking legal action against Nilantha Jayawardena
+
+*2024-03-01 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97661/easter-attacks-petition-filed-seeking-legal-action-against-nilantha-jayawardena) · `en`
+
+A writ petition has been filed before the Court of Appeal seeking that an order be issued to the IGP and other respondents to take legal action against the former Chief of the State Intelligence Service, Senior DIG Nilantha Jayawardena over failure to prevent 2019 Easter Sunday terror attacks, despite receiving intelligence information.
+
+The petition was filed by the Centre for Society and Religion (CSR), its director Rev. Fr. Jude Vernon Rohan Silva and a victim of Easter attacks named Devage Surach Nilanga.
+
+The IGP, SDIG Nilantha Jayawardena and the Attorney General have been named as respondents of the relevant petition.
+
+The petitioners alleged that the respondents have yet to take legal action against Jayawardena, despite there being sufficient evidence to support the fact that he failed to prevent the coordinated bombings.
+
+...
+
+[Data](articles/144b81f1.json)
+
+---
 
 ### An announcement of the weather for warm condition
 
@@ -1971,47 +2009,5 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/43cf9fdb.json)
 
 [Extended Data](ext_articles/43cf9fdb.ext.json)
-
----
-
-### President highlights Sri Lanka’s Indian Ocean security commitment
-
-*2024-03-01 06:05:34* · [`dailyftlk`](https://www.ft.lk/news/President-highlights-Sri-Lanka-s-Indian-Ocean-security-commitment/56-759035) · `en`
-
-President Ranil Wickremesinghe on Wednesday emphasised Sri Lanka’s dedication to maintaining a strategic position aimed at ensuring the absence of major power rivalries and upholding freedom of navigation in the Indian Ocean.
-
-Speaking at the Pathfinder Indian Ocean Security Conference Phase III at Cinnamon Grand Colombo, the President highlighted that Sri Lanka’s commitment to freedom of navigation has prompted the country to engage in operations as guardians of prosperity in the Red Sea. He underscored the significance of the Suez Canal, particularly evident during the six-day war when its closure for ten years negatively impacted the Colombo port, emphasising the necessity of ensuring unrestricted navigation.
-
-...
-
-[Data](articles/9904d4a5.json)
-
-[Extended Data](ext_articles/9904d4a5.ext.json)
-
----
-
-### Thundershowers possible in several areas including Western Province today
-
-*2024-03-01 06:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97641/thundershowers-possible-in-several-areas-including-western-province-today) · `en`
-
-A few showers may occur in Eastern and Uva provinces and Polonnaruwa and Matale districts, the Department of Meteorology says.
-
-Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle, Matara and Nuwara-Eliya districts in the evening or night.
-
-Fairly strong winds of about 30-40 kmph can be expected at times in Northern, North-central, North-western, Uva and Eastern provinces and Hambantota district.
-
-The public is kindly requested to take adequate precautions to minimize the damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers or thundershowers may occur at a few places in the sea areas extending from Colombo to Matara via Galle in the evening or night.
-
-Winds will be north-easterly and wind speed will be 20-30 kmph.
-
-Wind speed may increase up to 45-50 kmph at times in the sea areas off the coasts extending from Colombo to Kankesanturai via Puttalam and Mannar and from Galle to Hambantota via Matara.
-
-...
-
-[Data](articles/c6553a42.json)
-
-[Extended Data](ext_articles/c6553a42.ext.json)
 
 ---

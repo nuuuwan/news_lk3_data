@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 08:04:41**
+As of **2024-03-01 08:17:24**
 
 ## Newspaper Stats
 
-*Scraped **10,154** Articles*
+*Scraped **10,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,93 @@ dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 526
 dailyftlk | 535
-islandlk | 542
-adalk | 864
+islandlk | 543
+adalk | 865
 adaderanalk | 1,225
-tamilmirrorlk | 1,233
+tamilmirrorlk | 1,234
 virakesarilk | 1,394
 dailymirrorlk | 1,539
-adaderanasinhalalk | 1,543
+adaderanasinhalalk | 1,547
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,150 (100.0%) of 10,154 articles have been extended.
+10,154 (99.9%) of 10,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### පාළු නිවසක් අසල කාන්තා මළසිරුරක්
+
+*2024-03-01 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193986) · `si`
+
+පාළු නිවසක් අසල කාන්තා මළසිරුරක් තිබී පොලීසිය විසින් සොයාගෙන ඇත.
+
+ඊයේ (29) උදෑසන කාලයේදී කටුනායක වල්පොල ප්‍රදේශයේ පාළු නිවසක් අසල තිබී එම සිරුර සොයාගෙන ඇත.
+
+මියගොස් ඇත්තේ වයස අවුරුදු 46ක් වූ කටියල දෙමංහන්දිය ප්‍රදේශයේ පදිංචිකාරිනියකි.
+
+ඇය සිය සැමියාගේ මව, පියා සහ දියණිය සමග පදිංචිව සිට ඇති අතර පසුගිය 25 වනදා වල්පොල ප්‍රදේශයේ ඥාති නිවසකට යන බව පවසා නිවසින් පිටව ගොස් තිබූ බව අනාවරණය වී ඇත.
+
+මරණයට හේතුව මෙතෙක් හෙළිවී නොමැති අතර කටුනායක පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/0545155f.json)
+
+---
+
+### මියන්මාර ත්‍රස්ත ග්‍රහණයේ සිටින ශ්‍රී ලාංකිකයන් බේරාගැනීමට තවත් උත්සාහයක්
+
+*2024-03-01 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193985) · `si`
+
+මියන්මාරයේ ත්‍රස්ත ග්‍රහණයේ පසුවන ශ්‍රී ලාංකික පිරිස බේරාදෙන ලෙස ඉල්ලමින් සකස් කළ මහානායක හිමිවරුන්ගේ සංදේශයක් මියන්මාර මහානායක හිමියන් වෙත යොමුකරන බව පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා බණ්ඩාර මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කළේ අදාළ සංදේශය යොමුකිරීම මගින් මියන්මාර මහානායක හිමි හරහා මියන්මාර රාජ්‍ය පාලනය මෙම ගැටලුව විසදීමට මැදිහත් කරගන්නා බවය.
+
+◼️
+
+[Data](articles/03f0858e.json)
+
+---
+
+### කථානායක ගැටලුකාරී තත්ත්වයක  - අධිකරණ ඇමති
+
+*2024-03-01 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193984) · `si`
+
+ව්‍යවස්ථාදායක සභාව සඳහා සාමාජිකයින් 10 දෙනෙකු පත් කිරීමට කටයුතු කළද සුළු පක්ෂ නියෝජනය කරමින් පත් කළ යුතු නියෝජිතයා මෙතෙක් නම් නොකිරීම හරහා කථානායකවරයා ගැටලුකාරී තත්ත්වයකට පත්කර ඇති බව අධිකරණ අමාත්‍ය ජනාධිපති නීතිඥ විජයදාස රාජපක්ෂ මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කළේ පොලිස්පතිවරයා පත් කිරීමේදී කථානායකවරයා ගත් තීන්දුවේ‍ කිසියම් නීතිමය ගැටළුවක් පවතින බවට යම් පාර්ශ්වයක් විශ්වාස කරන්නේ නම් ශ්‍රේෂ්ඨාධිකරණයෙන් ආර්ථ නිරූපණයක් ලබාගැනීම යෝග්‍ය බවය.
+
+මේ අතර කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාව ඉදිරි දින දෙක තුළ පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට පියවර ගන්නා බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/7f94ef32.json)
+
+---
+
+### ගාසා තීරයේ සහනාධාර රථ පෙළක් ආසන්නයේදී 112කට දිවි අහිමි වෙයි
+
+*2024-03-01 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193983) · `si`
+
+ගාසා තීරයේ සහනාධාර රථ පෙළක් ආසන්නයේ ඇතිවු වෙඩිතැබීම් හා තෙරපීම් හේතුවෙන් පලස්තීන සරණාගතයින් 112 දෙනෙකු මියගොස් තවත් 760 දෙනෙකු තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+ගාසා තීරයට ආධාර රැගෙන පැමිණි ලොරි රථ අසල රැස්ව සිටි පිරිසක් වෙත ඊශ්‍රායල හමුදාව යුද ටැංකි වලින් ප්‍රහාර එල්ලකර ඇති බව වාර්තා වෙයි.
+
+වෙඩිතැබීම්, තෙරපීම් සහ ලොරි රථවලට යටවීම් හේතුවෙන් පුද්ගලයන් මියයාම සහ තුවාල ලැබීම් සිදුවී ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+
+පලස්තීන සෞඛ්‍ය අමාත්‍යංශය පවසන්නේ මෙය ඊශ්‍රායලය විසින් සිදුකළ සමූල ඝාතනයක් බවය.
+
+සිද්ධිය සම්බන්ධයෙන් සාකච්ඡා කිරීමට එක්සත් ජාතීන්ගේ සංවිධානය හදිසි ආරක්ෂක කවුන්සිල රැස්වීමක් ද කැඳවා තිබේ.
+
+◼️
+
+[Data](articles/2464d0f3.json)
+
+---
 
 ### At least 43 dead in Bangladesh building blaze
 
@@ -58,19 +128,21 @@ The emergency services were called to the Kacchi Bhai restaurant, which accordin
 
 ---
 
-### பங்களாதேஸ் தலைநகரில் உணவகமொன்றில் பெரும் தீ – 40க்கும் அதிகமானவர்கள் பலி
+### More than 40 people killed in a restaurant in Bangladesh capital
 
 *2024-03-01 07:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177638) · `ta`
 
-தலைநகர் டாக்காவில் உள்ள உணவுவிடுதியொன்றில் வேகமாக பரவிய தீ காரணமாக உயிரிழப்புகள் ஏற்பட்டுள்ளன
+Fails caused by a rapidly spreading fire in a food seat in the capital, Dhaka,
 
-இரண்டு மணிநேர போராட்டத்தி;ன் பின்னர் தீயை கட்டுப்பாட்டின் கீழ் கொண்டுவந்துள்ளதாக தெரிவித்துள்ள அதிகாரிகள் டாக்கா மருத்துவகல்லூரி மருத்துவமனையில் சிறுவர்கள் உட்பட 33 பேரின் உடல்கள் உள்ளதாகவும் நகரின் மற்றுமொரு மருத்துவமனையில் பத்து பேர் உயிரிழந்துள்ளனர் 20க்கும் அதிகமானவர்கள் ஆபத்தான நிலையில் உள்ளனர் என தெரிவித்துள்ளனர்.
+Officials said that the fire had been brought under control after a two -hour struggle.
 
-எரிவாயு கசிவு ஏற்பட்டிருக்கலாம் என தெரிவித்துள்ள அதிகாரிகள் அந்த கட்டிடத்தின் ஒவ்வொரு தளத்திலும் எரிவாயு சிலிண்டர்கள் காணப்பட்டன இதனால் அந்த கட்டிடம் மிகவும் ஆபத்தானதாக காணப்பட்டது எனவும் தெரிவித்துள்ளனர்.
+Officials said that the gas cylinders were found on each site of the building, causing the building to be very dangerous.
 
 ◼️
 
 [Data](articles/3afed321.json)
+
+[Extended Data](ext_articles/3afed321.ext.json)
 
 ---
 
@@ -107,6 +179,8 @@ The President has asserted several times that he will take measures to conduct t
 ...
 
 [Data](articles/224c53ff.json)
+
+[Extended Data](ext_articles/224c53ff.ext.json)
 
 ---
 
@@ -274,6 +348,8 @@ A senior NMRA official from Colombo backed by Puttalam District Food and Drug In
 
 [Data](articles/f3aa7e15.json)
 
+[Extended Data](ext_articles/f3aa7e15.ext.json)
+
 ---
 
 ### The President met students in person
@@ -403,6 +479,8 @@ The progress in meeting the key commitments under the IMF-backed programme is se
 ...
 
 [Data](articles/04547b6d.json)
+
+[Extended Data](ext_articles/04547b6d.ext.json)
 
 ---
 
@@ -1202,6 +1280,24 @@ The two leaders said they are close to each other when journalists questioned th
 
 ---
 
+### සජිත්ගෙන් කථානායකට චෝදනාවක්
+
+*2024-02-29 19:50:26* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගෙන්-කථානායකට-චෝදනාවක්/11-408368) · `si`
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාව අමු අමුවේ උල්ලංඝනය කරන කථානායකවරයකු සභාපතිත්වය දරන සභාවක සිටීමෙන් පලක් තිබේද යන්න සිතා බැලිය යුතු බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+ව්‍යවස්ථා සභාවේ අනුමැතිය නොමැතිව නීති විරෝධීව පොලිස්පතිවරයා පත් කිරීම සම්බන්ධයෙන් අද (29දා) බිංගිරිය ප්‍රදේශයේදී අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"මට අහන්න තියෙන ප්‍රශ්නය තමයි මේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙන් වැඩක් තියෙනවාද? මේ රටේ උත්තරීතර නීතියෙන් වැඩක් තියෙනවාද? මේක අනුගමනය කරන්නේ නෑනේ. මේක සම්පූර්ණයෙන්ම අමු අමුවේ මහ දවල් උල්ලංඝනය කරනවානේ. එහෙම කරන්න පුළුවන්ද? එහෙනම් අපිට නිගමනයකට එන්න සිදු වෙනවා රටේ ක්‍රියාත්මක වෙන්නේ නීතිය නෙවෙයි අවනීතිය කියලා. ලොකුම ප්‍රශ්නය තමයි පාර්ලිමේන්තුවේ ප්‍රධානියා වන කථානායකවරයාත් පිළිගන්නේ නෑ මේ ආණ්ඩුක්‍රම ව්‍යවස්ථාව. ඔහු පිළිගන්නේ ඔහු සිතින් මවා ගත්ත ඔහුගේම ආණ්ඩුක්‍රම ව්‍යවස්ථාව.
+
+...
+
+[Data](articles/48a51b11.json)
+
+---
+
 ### The size of the relief is up
 
 *2024-02-29 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193972) · `si`
@@ -1849,111 +1945,5 @@ In 2020, the popular actor was announced as a candidate for the 2020 parliamenta
 [Data](articles/55f47663.json)
 
 [Extended Data](ext_articles/55f47663.ext.json)
-
----
-
-### Israeli-US intelligence agencies planning to enter the Lebanon
-
-*2024-02-29 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177608) · `ta`
-
-US officials are concerned among US officials about reports that Israel is planning to enter the ground in Lebanon in the late Spring or early summer if the diplomatic efforts to remove the Hezbollah organization from Israel are not successful.
-
-Senior officials of the United States have provided information that intelligence agencies can enter the Lebanon of Israel.
-
-One who received information from the intelligence unit said that Israel would begin its action at the beginning of summer.
-
-"We are acting on the basis that Israel can engage in military action in the coming months," an official of the Faidan administration said.
-
-He also said that there are all the opportunities for Israel to target Leban and carry out the ground attack.
-
-Thousands of Leban and Israeli have left their areas due to the day -to -day terrible clashes between Israel and Lebanon for several months.
-
-Israeli aircraft is carrying out unmanned attacks on the Hesbullah organization's targets.
-
-◼️
-
-[Data](articles/7a3dc7a8.json)
-
-[Extended Data](ext_articles/7a3dc7a8.ext.json)
-
----
-
-### SLTDA provides extension for licence renewal
-
-*2024-02-29 16:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLTDA-provides-extension-for-licence-renewal/108-277969) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - Tourism sector stakeholders are given an extension renewing their licenses with the Sri Lanka Tourism Development Authority (SLTDA).
-
-"The renewal period for licenses will now be extended until March 31, 2024, for those who have already submitted the complete set of documents to the TDL unit before February 29, 2024," the Authority said in a notice.
-
-This extension aims to ensure uninterrupted service for all stakeholders who comply with the renewal requirement.
-
-The SLTDA said it also provides ample time for the completion of the renewal process.
-
-◼️
-
-[Data](articles/17351b4f.json)
-
-[Extended Data](ext_articles/17351b4f.ext.json)
-
----
-
-### Government officials is essential to succeed in the relief and heritage - President
-
-*2024-02-29 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193963) · `si`
-
-President Ranil Wickremesinghe says that all the eligible relief will be provided with immediate relief to beneficiaries.
-
-The President added that the support of public officers is essential to provide the people to the public expeditiously.
-
-The President was speaking at a discussion held at the Wilgamuwa Divisional Secretariat auditorium regarding the relief program.
-
-◼️
-
-[Data](articles/ffcd841a.json)
-
-[Extended Data](ext_articles/ffcd841a.ext.json)
-
----
-
-### The day of mourning tomorrow
-
-*2024-02-29 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193962) · `si`
-
-The funeral of the late Finance Minister Ronnayaka Mal has declared a grief for the Southern Province tomorrow (01).
-
-Accordingly, all government agencies in the Southern Province have also requested the National Flag tomorrow.
-
-Ronn Dene Dene de Nonu The Mal, who was elected to Parliament in the Devinuwara seat in 1977, was appointed as the Minister of Finance.
-
-He is a tremendous politician who pioneered the introduction of the open economy to the country.
-
-Ruhuna Mel was also pioneered by the University of Ruhuna to add significant value to the Southern Province.
-
-◼️
-
-[Data](articles/818aca19.json)
-
-[Extended Data](ext_articles/818aca19.ext.json)
-
----
-
-### SC quashes Cabinet decision granting Paget Road residence to Maithripala
-
-*2024-02-29 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97629/sc-quashes-cabinet-decision-granting-paget-road-residence-to-maithripala-) · `en`
-
-The Supreme Court on Thursday (29 Feb.) quashed the Cabinet decision allowing former President Maithripala Sirisena to occupy his official residence at Paget Road in Colombo 07 even after he left office.
-
-Accordingly, the court stated that an order will be issued invalidating the Cabinet decision taken on 15 October 2019 in this regard.
-
-The relevant court order was issued by Supreme Court Justice Priyantha Jayawardena, with the concurrence of Justices Gamini Amarasekera and Kumudini Wickremasinghe, upon consideration of a Fundamental Rights (FR) petition filed by the Centre for Policy Alternatives (CPA) and its Executive Director Dr. Paikiasothy Saravanamuttu.
-
-The petition further sought a court order stating that former President Sirisena had violated several fundamental rights of the public by taking decisions pertaining to his own privileges and rights during his tenure as the President, thereby making him the head of the Cabinet of Ministers.
-
-...
-
-[Data](articles/5e674aca.json)
-
-[Extended Data](ext_articles/5e674aca.ext.json)
 
 ---

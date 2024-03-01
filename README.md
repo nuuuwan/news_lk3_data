@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 19:02:39**
+As of **2024-03-01 19:17:43**
 
 ## Newspaper Stats
 
-*Scraped **10,299** Articles*
+*Scraped **10,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,250
 tamilmirrorlk | 1,254
 virakesarilk | 1,400
 dailymirrorlk | 1,561
-adaderanasinhalalk | 1,578
+adaderanasinhalalk | 1,579
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,299 (100.0%) of 10,299 articles have been extended.
+10,299 (100.0%) of 10,300 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,28 @@ Meanwhile, the Commissioner General of Examinations Amith Jayasundara said that 
 [Data](articles/96651b95.json)
 
 [Extended Data](ext_articles/96651b95.ext.json)
+
+---
+
+### නාගානන්ද කොඩිතුවක්කුට මහජන සුබසාධන නඩුකරවලටත් පෙනී සිටීම තහනම්
+
+*2024-03-01 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194018) · `si`
+
+නීතිඥභාවය අහෝසි කෙරුණු නාගානන්ද කොඩිතුවක්කු මහතාට මින් මතුවට මහජන සුභසාධන නඩුකර සඳහා ද පෙනී සිටිය නොහැකි බව ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝග කර තිබේ.
+
+නාගානන්ද කොඩිතුවක්කු මහතා සම්බන්ධයෙන් ඊයේ (29) දින ප්‍රකාශයට පත් කෙරුණු නඩු තීන්දුවේ මේ බව සඳහන් කර ඇත.
+
+ප්‍රියන්ත ජයවර්ධන, ප්‍රීති පද්මන් සූරසේන සහ එස්. තුරෙයිරාජා යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම තීන්දුව ඊයේ ප්‍රකාශයට පත්කරන  ලදී.
+
+නාගානන්ද කොඩිතුවක්කු මහතා විසින් ශ්‍රේෂ්ඨාධිකරණයට ලබා දුන් දිවුරුම් පෙත්සමක් තුළින් අගවිනිසුරුවරයා ඇතුළු විනිසුරුවරුන්ට අවමන් සහගත ආකාරයෙන් ප්‍රකාශ සිදුකිරීම තුළින් වෘත්තීය විෂමාචාර ක්‍රියාවක නිරත වූ බවට චෝදනාකොට නීතිපතිවරයා විසින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ චෝදනා පත්‍රයක් ගොනුකර තිබිණි.
+
+එම චෝදනා පත්‍රය විභාග කළ ත්‍රිපුද්ගල විනිසුරු මඩුල්ල අදාළ චෝදනාවලට වගඋත්තර නාගානන්ද කොඩිතුවක්කු මහතා වරදකරු කරන බව සඳහන් කළේය.
+
+ඉන් අනතුරුව ඒ මහතාගේ නීතිඥභාවය අහෝසි කිරීමට තීන්දු කළ ශ්‍රේෂ්ඨාධිකරණය ඔහුට මින් මතුවට මහජන සුබසාධන නඩුකරවලට පෙනී සිටිය නොහැකි බවත් අදාළ තීන්දුවේ සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/a346a427.json)
 
 ---
 
@@ -2013,27 +2035,5 @@ UPDATE: Meanwhile, Laugfs Gas PLC, the other major supplier of liquefied petrole
 [Data](articles/8ddbd702.json)
 
 [Extended Data](ext_articles/8ddbd702.ext.json)
-
----
-
-### Chancellor arrested for turning off the lamp
-
-*2024-03-01 10:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விளக்கை-அணைத்த-விவகாரம்-அதிபர்-கைது/76-334041) · `ta`
-
-The president of the school has been arrested for allegedly raping a woman who is the owner of the school snack.
-
-He has lodged a complaint with the Tombagahawela police that the Principal of the Moneragala Kalabetha Maha Vidyalaya had sexually abused the owner of the school's snack.
-
-The 33 -year -old woman from Kalabetha Alabhota area has closed the restaurant (28) and went home.
-
-The teacher then came to the teacher and said that the lights were not turned off on the toast.
-
-When he was going home after turning off the lights, the headmaster raped her to come to the office. The President was 53 years old.
-
-◼️
-
-[Data](articles/e7697011.json)
-
-[Extended Data](ext_articles/e7697011.ext.json)
 
 ---

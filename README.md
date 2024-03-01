@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 17:02:46**
+As of **2024-03-01 17:17:34**
 
 ## Newspaper Stats
 
-*Scraped **10,265** Articles*
+*Scraped **10,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 528
 dailyftlk | 542
 islandlk | 544
-adalk | 873
-adaderanalk | 1,245
+adalk | 874
+adaderanalk | 1,246
 tamilmirrorlk | 1,251
 virakesarilk | 1,398
 dailymirrorlk | 1,557
@@ -26,29 +26,67 @@ adaderanasinhalalk | 1,573
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,261 (100.0%) of 10,265 articles have been extended.
+10,265 (100.0%) of 10,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### ඉන්දියානු සාගරය ගැන ජනපතිගෙන් විශේෂ ප්‍රකාශයක්
+### වැටුප් වැඩිකර ගැනීම ගැන කරුණු විමසීමට මහබැංකු ලොක්කන්ල 5 දා පාර්ලිමේන්තුවට
+
+*2024-03-01 16:42:20* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩිකර-ගැනීම-ගැන-කරුණු-විමසීමට-මහබැංකු-ලොක්කන්ල-5-දා-පාර්ලිමේන්තුවට/11-408375) · `si`
+
+කාර්ය මණ්ඩල වැටුප් වැඩිකර ගැනීම සම්බන්ධයෙන් කරුණු විමසීම සදහා මහබැංකුවේ නිලධාරීන් ලබන 5 වැනිදා පෙ.ව 10.30 ට පැවැත්වෙන පක්ෂ නායක රැස්වීමට කැඳවීමට අද (01) කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+එසේම පාර්ලිමේන්තුව ලබන 5,6 සහ 7 තෙදින පැවැත්වෙන බැවින් ඊට අදාළ පාර්ලිමේන්තු කටයුතු තීරණය කිරීම ද මෙහිදී සිදුවී ඇත. ලබන 8 වැනි සිකුරාදා රජයේ නිවාඩු දිනයක් බැවින් එදින පාර්ලිමේන්තුව රැස් නොවේ.
+
+මේ අනුව මාර්තු 5 වැනි අඟහරුවාදා පෙ.ව 9.30 ට පාර්ලිමේන්තුව රැස්වන අතර පෙ.ව 9.30 - පෙ.ව 10.30 කාලය වෙන්ව ඇත්තේ වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහායි. අනතුරුව පෙ.ව 10.30 සිට ප.ව 4.30 දක්වා පසුගිය පෙබරවාරි 20 වැනිදා දෙවනවර කියවීමේ විවාදයට ගෙන කල්තබන ලද සුරක්ෂිතලත්  ගනුදෙනු, භාර ලදුපත් (සංශෝධන), උකස් සංශෝධන, කල්බදු මූල්‍යකරණ සංශෝධන, දේශීය භාර ලදුපත් (සංශෝධන), සමාගම් (සංශෝධන) සහ ලේඛන ලියාපදිංචි කිරීමේ (සංශෝධන) යන පනත් කෙටුම්පත් දෙවන දිනටත්  විවාදයට ගෙන මීළඟ දිනට කල්තැබීමට නියමිතව තිබේ.
+
+...
+
+[Data](articles/337d954f.json)
+
+---
+
+### President a special statement on Indian Ocean
 
 *2024-03-01 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194012) · `si`
 
-ඉන්දියන් සාගරය තුළ මෙරට ආර්ථික වැඩසටහන්වලට හානි වීමට ඉඩ නොදෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe says that the Indian Ocean will not be affected to be damaged in Sri Lanka.
 
-ජනාධිපතිවරයා මේ බව ප්‍රකාශ කළේ, ශ්‍රී ලංකා නාවික හමුදාවේ විශේෂ යාත්‍රා බලඝණය සඳහා ජනාධිපති වර්ණ ප්‍රදානය වෙනුවෙන් ත්‍රිකුණාමලය නාවික හමුදා කඳවුරේ දී අද (01) පෙරවරුවේ පැවති වර්ණ ප්‍රදානෝත්සවය අමතමිනි.
+The President made this observation addressing the colors ceremony held in the Trincomalee Naval Camp today (01) at the Trincomalee Naval Camp for the award of the Sri Lanka Navy.
 
-ශ්‍රී ලංකා සාගර කලාපය මෙන්ම ඉන්දියානු සාගර කලාපය ද ආරක්ෂා කිරීමේ වගකීම නාවික හමුදාවට පැවරෙන බව ජනාධිපතිවරයා සඳහන් කරයි.
+The Navy said that the Sri Lankan ocean region and the Indian Ocean region also handed over the Indian Ocean region.
 
-රතු මුහුදේ ආරක්ෂාව වෙනුවෙන් දායක වී මෙරට වරායන්හි ආර්ථික වටිනාකම් ආරක්ෂා කර ගැනීමට කටයුතු කළ යුතු බව ද ජනාධිපතිවරයා අවධාරණය කළේ ය.
+The President emphasized that the Red Sea protection should be taken to protect the economic values of the country.
 
-1967 ඊශ්‍රායල – අරාබි යුද්ධයේ දී සුවස් ඇළ වසා දැමීම හේතුවෙන් වසර 10ක් කොළඹ වරායේ මෙහෙයුම් නැවතුණු ආකාරය ද සිහිපත් කළ ජනාධිපතිවරයා, මෙරට වරායන්හි ආර්ථික වටිනාකම් ආරක්ෂා කර ගැනීම සඳහා සුවස් ඇළ සහ රතු මුහුදේ ආරක්ෂාව වෙනුවෙන් කටයුතු කිරීමේ අවශ්‍යතාව ද පෙන්වා දී තිබේ.
+The President also remembered how the operations of the Colombo Port was closed in the 1967 Israeli-Arabian war.
 
 ◼️
 
 [Data](articles/6a296bbc.json)
+
+[Extended Data](ext_articles/6a296bbc.ext.json)
+
+---
+
+### Expolanka Holdings: Largest listed company decides to de-list from CSE
+
+*2024-03-01 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97663/expolanka-holdings-largest-listed-company-decides-to-de-list-from-cse) · `en`
+
+Expolanka Holdings PLC has decided to de-list the company’s shares from the Official List of the Colombo Stock Exchange (CSE).
+
+According to market capitalization, it is the largest listed company in the Colombo stock market.
+
+The decision was reached at the meeting of Expolanka Holdings’ Board of Directors on Friday (March 01), after considering a request from its principal shareholder SG Holdings Global Pte. Ltd.
+
+Accordingly, the Board of Directors has resolved to initiate the de-listing of the company’s shares from the Official List of the CSE, subject to obtaining necessary shareholder approval and regulatory approvals.
+
+The Board of Directors has thus made arrangements with SG Holdings to purchase its shares from the shareholders who may wish to divest their shareholding in the company at a purchase price of Rs. 185.00 per share.
+
+...
+
+[Data](articles/7c6c163b.json)
 
 ---
 
@@ -110,23 +148,27 @@ Highlighting Sri Lanka's historical commitment to safeguarding world peace and r
 
 [Data](articles/cf28cc23.json)
 
+[Extended Data](ext_articles/cf28cc23.ext.json)
+
 ---
 
-### කොළඹ කොටස් වෙළෙඳපොළේ ලොකුම සමාගම දැඩි තීරණයක
+### The biggest company in the Colombo Stock Exchange is a severe decision
 
 *2024-03-01 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194011) · `si`
 
-වෙළෙඳපොළ ප්‍රාග්ධනීකරණය අනුව කොළඹ කොටස් වෙළෙඳපොළේ ලැයිස්තුගත විශාලතම සමාගම වන එක්ස්පෝලංකා හෝල්ඩිංග්ස් පීඑල්සී, කොළඹ කොටස් වෙළෙඳපොළ නිල ලැයිස්තුවෙන් ඉවත් වීමට තීරණය කර තිබේ.
+Expolanka Holdings PLC, the largest company listed in the Colombo Stock Exchange, has decided to leave the Colombo Stock Exchange.
 
-එක්ස්පෝලංකා හෝල්ඩිංග්ස් පීඑල්සී හි විශාලතම කොටස් හිමියා වන ජපානයේ SG HOLDINGS GLOBAL PTE.LTD විසින් කළ ඉල්ලීමකට අනුව අද (01) දින රැස්වූ සමාගමේ අධ්‍යක්ෂ මණ්ඩලය විසින් මෙම තීරණයට එළඹ ඇත.
+The decision of the Board of Directors of the Japan, the largest shareholder of Expolanka Holdings PLC, has come to this decision today (01).
 
-එක්ස්පෝලංකා හෝල්ඩිංග්ස් පීඑල්සී හි කොටස් ප්‍රාග්ධනයෙන් 82.43% ක හිමිකාරීත්වය SG HOLDINGS GLOBAL PTE.LTD සතුව පවතී.
+The Global PTELTD has 82.43% of Expolanka Holdings PLC.
 
-වෙළෙපොළ ප්‍රාග්ධනීකරණයට අනුව අද වන විට කොළඹ කොටස් වෙළෙපොළේ ලැයිස්තුගත විශාලතම සමාගම් 12 පහත පරිදි වේ.
+According to market capitalization, the 12 Largest Companies listed in the Colombo Stock Market is as follows.
 
 ◼️
 
 [Data](articles/ed1c7790.json)
+
+[Extended Data](ext_articles/ed1c7790.ext.json)
 
 ---
 
@@ -822,17 +864,19 @@ The decision was taken during the Parliamentary Affairs Committee meeting held t
 
 ---
 
-### හරින් තටු කපා ගනියි
+### Harin is cut off
 
 *2024-03-01 12:04:24* · [`adalk`](https://www.ada.lk/sports/හරින්-තටු-කපා-ගනියි/9-408372) · `si`
 
-ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා යටතේ පැවති ක්‍රිඩා  ආයතන තුනක කටයුතු ක්‍රියාත්මක කිරීමේ බලතල ඒ මහතා විසින් ක්‍රීඩා හා යෞවන කටයුතු රාජ්‍ය අමාත්‍යවරයා වෙත පවරා තිබේ.
+The Parliamentary Affairs Minister of Sports and Youth Affairs has assigned the implementation of three sports organizations under the Minister of Sports and Youth Affairs Harin Fernando.
 
-ශ්‍රී ලංකා උත්තේජක මර්දන නියෝජිතායතනය ,ක්‍රීඩා වෛද්‍ය ආයතනය සහ ජාතික ක්‍රීඩා විද්‍යායතනය යන ආයතනයන්හි කටයුතු    ක්‍රියාත්මක කිරීමේ බලතල සහ  ක්‍රීඩාවල යෙදීමේදී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති පනත ක්‍රියාත්මක කිරීමේ බලයද හරීන් ප්‍රනාන්දු මහතා විසින් සිය රාජ්‍ය අමාත්‍යවරයා වෙත පෙබරවාරි 27 දාතමින් නිකුත් කළ  අති  විශේෂ  ගැසට් නිවේදනයක් මගින් පවරා දී ඇත.
+Harin Fernando is the power to implement the Convention Act to carry out the Convention Act to carry out the proceedings of the Institute of Stimulation Prevention Agency, the Institute of Sports Medicine and National Sports Scholars.Have been given.
 
 ◼️
 
 [Data](articles/02c673f1.json)
+
+[Extended Data](ext_articles/02c673f1.ext.json)
 
 ---
 
@@ -1981,35 +2025,5 @@ Hayleys Group Chairman and Chief Executive Mohan Pandithage said: “Our endurin
 [Data](articles/f41509d3.json)
 
 [Extended Data](ext_articles/f41509d3.ext.json)
-
----
-
-### CEMS-Global apparel and textile show opens in Colombo
-
-*2024-03-01 06:24:15* · [`dailyftlk`](https://www.ft.lk/business/CEMS-Global-apparel-and-textile-show-opens-in-Colombo/34-759038) · `en`
-
-The Sri Lankan edition of CEMS-Global USA’s Textile Series of Exhibitions – 11th Textech Sri Lanka 2024 International Expo on Textile, Garment Technology and Machinery; 13th Colombo International Yarn & Fabric Show 2024 featuring International Yarn, Fabric, Trims and Accessories Manufacturers and 43rd Dye+Chem Sri Lanka 2024 International Expo showcasing Dyestuff and Fine and Specialty Chemicals opened yesterday at the Sri Lanka Exhibition and Convention Centre. The Chief Guest was Investment Promotion State Minister Dilum Amunagama. Organised to facilitate collaboration, showcase the latest technologies, and foster trade relationships, these three exhibitions promise to be a cornerstone for the textile and apparel sector’s growth in Sri Lanka. The exposition is open until 2 March from 1.00 a.m. to 6.00 p.m. - Pix by Upul Abayasekara
-
-◼️
-
-[Data](articles/17e0e0d6.json)
-
-[Extended Data](ext_articles/17e0e0d6.ext.json)
-
----
-
-### National Chamber of Commerce promotes trade and investment between SL and Indonesia
-
-*2024-03-01 06:22:11* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Commerce-promotes-trade-and-investment-between-SL-and-Indonesia/34-759037) · `en`
-
-The National Chamber of Commerce of Sri Lanka successfully conducted a session on strengthening bilateral trade opportunities between Sri Lanka and Indonesia with the gracious presence of the Ambassador of Indonesia recently.
-
-Ambassador Dewi Gustina Tobing enlightened the session with her presence as the guest speaker, accompanied by a team of officials from the Embassy of Indonesia in Sri Lanka, Minister Counsellor in Economic Section I Fiki Oktanio and Minister Counsellor in Economic Section II Lailal Khairiyah Yuniarti. The session marked an important milestone in fostering economic ties and cooperation between the two nations to connect with the business community in Sri Lanka.
-
-...
-
-[Data](articles/a53e0887.json)
-
-[Extended Data](ext_articles/a53e0887.ext.json)
 
 ---

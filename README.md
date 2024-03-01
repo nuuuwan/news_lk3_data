@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 15:33:12**
+As of **2024-03-01 15:51:07**
 
 ## Newspaper Stats
 
-*Scraped **10,247** Articles*
+*Scraped **10,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,41 +20,55 @@ adaderanalk | 1,241
 tamilmirrorlk | 1,248
 virakesarilk | 1,398
 dailymirrorlk | 1,553
-adaderanasinhalalk | 1,568
+adaderanasinhalalk | 1,569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,246 (100.0%) of 10,247 articles have been extended.
+10,247 (100.0%) of 10,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### පිදුරුගොඩට ගිනි ඇවිළී ඊට මැදිවූ පුද්ගලයෙක් මරුට
+### ශිෂ්‍යත්වයේ නැවත සමීක්ෂණ ප්‍රතිඵල මත පාසල් අයදුම් කිරීම ගැන නිවේදනයක්
+
+*2024-03-01 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194008) · `si`
+
+පහ ශ්‍රේණිය ශිෂ්‍යත්ව පරීක්ෂණයේ නැවත සමීක්ෂණ ප්‍රතිඵල මත පාසල් අයදුම් කිරීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/081f3cdb.json)
+
+---
+
+### Pidurugoda was burned to fire
 
 *2024-03-01 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194007) · `si`
 
-හොරණ මොරගහහේන පොලිස් වසමේ තලගල තල්ගහවත්ත ප්‍රදේශයේ නිවසක් පිටුපස වැඩකරමින් සිටි පුද්ගලයෙකු අද (01) පෙරවරුවේ මෙම අවාසනාවන්ත සිද්ධියට මුහුණදී ඇත.
+A person who was working behind a house in Talagala area in Horana was in the Talagala Talagala area in Talagala area.
 
-මොරගහහේන පොලීසිය පැවසුවේ මෙසේ මියගොස් ඇත්තේ එම ප්‍රදේශයේම පදිංචි 76 හැවිරිදි පුද්ගලයෙකු බවය.
+The deceased has been identified as a 76 year old resident of the area.
 
-මියගිය පුද්ගලයා මෙම නිවසේ මඩුවක් සකස් කිරීම සඳහා පැමිණ තිබුණි.
+The deceased had come to prepare a shed in this house.
 
-ඒ අනුව නිවසේ හිමිකරු විසින් ඔහුට කටයුත්තක් පවරා එම ස්ථානයෙන් බැහැරට ගොස් ඇති තිබේ.
+Accordingly, the owner of the house has been assigned to leave the place.
 
-ඔහු නැවත පැමිණෙන අවස්ථාවේදී පිරිදුරුගොඩ ඇවිලෙමින් තිබෙන අයුරු දැක එය නිවාදැමීමට උත්සාහ කිරීමේදී එම පිදුරුගොඩ තුළ අදාළ පුද්ගලයා වැටී සිටිනු දැක ඇත.
+When he returned the flesh of refugees and seeing it, the man had seen the man in the styles.
 
-පසුව කඩිනමින් ඔහුව ඉන් ඉවත් කිරීමට කටයුතු කර තිබුණත් ඒ වනවිට එම පුද්ගලයා මියගොස් සිට ඇති බව පොලීසිය පවසයි.
+Police said that he had later removed him expeditiously, but the man had died.
 
-ගින්නට හේතුව මෙතෙක් අනාවරණයවී නොමැති අතර මොරගහහේන  පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The cause of the fire is yet to be ascertained and Moragahahena police are conducting further investigations.
 
-"මම දැක්ක සැණින් ගිනිගොඩට පැන්නා... එයාව අත්දෙකෙන් මෙහාට ඇදගෙන ආවා" යැයි එහි සිටි පුද්ගලයා සාක්ෂි දෙමින් පොලීසියට පවසා තිබුණි.
+"I immediately jumped on astigard.. "He was pulled in a hand with a hand," he had told the police with evidence.
 
 ◼️
 
 [Data](articles/fe0b5cbf.json)
+
+[Extended Data](ext_articles/fe0b5cbf.ext.json)
 
 ---
 
@@ -1973,25 +1987,5 @@ A senior NMRA official from Colombo backed by Puttalam District Food and Drug In
 [Data](articles/f3aa7e15.json)
 
 [Extended Data](ext_articles/f3aa7e15.ext.json)
-
----
-
-### The President met students in person
-
-*2024-03-01 04:09:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-நேரில்-சந்தித்தார்-ஜனாதிபதி/175-334031) · `ta`
-
-President Ranil Wickremesinghe directly oversee the educational activities of the Central Maha Vidyalaya at the Central Maha Vidyalaya.
-
-After a meeting held at the auditorium of the Wilgamuwa Divisional Secretariat regarding the 'Azwezuma' program, he discussed with the students from the ground at the Pallegama Central Maha Vidyalaya and asked about their educational activities.
-
-The President also discussed with the teachers and examined the education of the students and the shortage of the school.
-
-The President promised to focus on the issues proposed and congratulated them on their future educational activities.. (A)
-
-◼️
-
-[Data](articles/513b9b71.json)
-
-[Extended Data](ext_articles/513b9b71.ext.json)
 
 ---

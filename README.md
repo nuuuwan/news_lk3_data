@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 11:52:15**
+As of **2024-03-01 12:02:53**
 
 ## Newspaper Stats
 
-*Scraped **10,200** Articles*
+*Scraped **10,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 526
 dailyftlk | 542
 islandlk | 543
 adalk | 868
-adaderanalk | 1,228
+adaderanalk | 1,234
 tamilmirrorlk | 1,243
 virakesarilk | 1,394
 dailymirrorlk | 1,546
@@ -26,11 +26,91 @@ adaderanasinhalalk | 1,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,200 (100.0%) of 10,200 articles have been extended.
+10,206 (100.0%) of 10,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### CBSL officials summoned to party leaders’ meeting next week over recent salary hike
+
+*2024-03-01 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97651/cbsl-officials-summoned-to-party-leaders-meeting-next-week-over-recent-salary-hike) · `en`
+
+The officials of the Central Bank of Sri Lanka (CBSL) will be summoned to the party leaders’ meeting scheduled to be convened on Tuesday (March 05), the Department of Communication of Parliament says.
+
+This was decided at the meeting of Committee on Parliamentary Business held this morning (March 01).
+
+The CBSL officials will be inquired about the process and rationale behind the recent salary hike for its employees.
+
+Next week’s parliamentary sessions will be convened from Tuesday to Thursday.
+
+◼️
+
+[Data](articles/0e594a8a.json)
+
+[Extended Data](ext_articles/0e594a8a.ext.json)
+
+---
+
+### Laugfs also decides not to revise prices in March
+
+*2024-03-01 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97650/laugfs-also-decides-not-to-revise-prices-in-march) · `en`
+
+Laugfs Gas PLC, one of the main suppliers of liquefied petroleum (LP) gas in Sri Lanka, has also decided not to amend the prices of its domestic gas cylinders in March.
+
+The announcement comes shortly after Litro Gas Lanka announced its decision to not amend the prices this month according to the pricing formula.
+
+Both companies did not revise their prices in February either.
+
+Meanwhile, Litro Gas prices now stand at the following rates:
+
+◼️
+
+[Data](articles/d45efc32.json)
+
+[Extended Data](ext_articles/d45efc32.ext.json)
+
+---
+
+### Paint factory in Panadura gutted in fire
+
+*2024-03-01 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97649/paint-factory-in-panadura-gutted-in-fire) · `en`
+
+A paint manufacturing factory in the Samagi Mawatha area of Panadura has been completely destroyed after a massive fire ripped through the facility last night (Feb. 29).
+
+The firefighting unit of the Moratuwa Municipal Council had taken steps to bring the raging flames under control.
+
+The damage caused by the fire has not yet been assessed and the cause of the fire is still under investigation.
+
+◼️
+
+[Data](articles/bc409ca8.json)
+
+[Extended Data](ext_articles/bc409ca8.ext.json)
+
+---
+
+### India’s economy grows at its fastest pace in six quarters in election boost for Modi
+
+*2024-03-01 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97648/indias-economy-grows-at-its-fastest-pace-in-six-quarters-in-election-boost-for-modi) · `en`
+
+India’s economy grew at its fastest pace in one-and-half years in the final three months of 2023, led by strong manufacturing and construction activity and bolstering Prime Minister Narendra Modi’s economic record just months before a national election.
+
+Asia’s third largest economy grew 8.4% in the October-December quarter, much faster than the 6.6% estimated by economists polled by Reuters and higher than the 7.6% recorded in the previous three months.
+
+“The ongoing growth momentum is indicative of the Indian economy’s resilience, notwithstanding global headwinds,” said Sunil Kumar Sinha, economist at India Ratings, noting that industrial growth continued its good run in the quarter.
+
+India has consistently beat market expectations and is ranked as one of the fastest-growing economies in the world, with China struggling to recover after the pandemic and the euro zone narrowly escaping a recession.
+
+India revised its growth estimate for the current fiscal year to March 31 to 7.6% from 7.3%.
+
+...
+
+[Data](articles/207d9158.json)
+
+[Extended Data](ext_articles/207d9158.ext.json)
+
+---
 
 ### Shots into a house
 
@@ -49,6 +129,26 @@ It is said that the shooting of the house had been shot at the time while the pe
 [Data](articles/22e0da3d.json)
 
 [Extended Data](ext_articles/22e0da3d.ext.json)
+
+---
+
+### UNFPA to help Sri Lanka to modernize statistical system to move towards digital economy
+
+*2024-03-01 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97647/unfpa-to-help-sri-lanka-to-modernize-statistical-system-to-move-towards-digital-economy) · `en`
+
+United Nations Population Fund (UNFPA) Asia Pacific Regional Director Pio Smith has called on Prime Minister Dinesh Gunawardena at the Temple on Thursday (February 29).
+
+The Premier thanked the UNFPA for the support extended during the past 50 years to several areas including the plans to modernize Sri Lanka’s statistical system and upgrade population data system.
+
+The UPFPA Regional Director assured continuous support to upgrade data systems to move towards the digital economy.
+
+Mr. Smith expressed interest in assisting programmes to enhance collaboration at the national level and advocate for the rights of women and girls. He said he visited Kilinochchi on Wednesday to assess the issues faced by communities at the grassroots level and there he noted with satisfaction the measures taken with regard to gender violence at homes and outside.
+
+...
+
+[Data](articles/433190d4.json)
+
+[Extended Data](ext_articles/433190d4.ext.json)
 
 ---
 
@@ -123,6 +223,26 @@ As per the decision, the current Litro LP gas rates are as follows: The retail p
 [Data](articles/e24a11a4.json)
 
 [Extended Data](ext_articles/e24a11a4.ext.json)
+
+---
+
+### No price revision in March - Litro Gas
+
+*2024-03-01 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97646/no-price-revision-in-march-litro-gas) · `en`
+
+Litro Gas Lanka has decided not to revise the prices of its domestic LP gas cylinders for March, based on the monthly pricing formula, the company’s chairman Muditha Pieris announced on Friday.
+
+The prices were not amended in February either, a decision which the company said was taken after considering the financial difficulties facing the members of the public.
+
+Following the price hike announced in January, the Litro Gas prices now stand at the following rates:
+
+UPDATE: Meanwhile, Laugfs Gas PLC, the other major supplier of liquefied petroleum (LP) gas in the country, has also decided not to revise its prices in March.
+
+◼️
+
+[Data](articles/8ddbd702.json)
+
+[Extended Data](ext_articles/8ddbd702.ext.json)
 
 ---
 
@@ -1821,105 +1941,5 @@ President Ranil Wickremesinghe was held today under the patronage of President R
 [Data](articles/ffab0909.json)
 
 [Extended Data](ext_articles/ffab0909.ext.json)
-
----
-
-### Women who postpone fertility
-
-*2024-02-29 20:43:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கருத்தரிப்பதை-தள்ளிப்போடும்-பெண்கள்/175-334014) · `ta`
-
-The total fertility rate refers to the number of average children who give birth in her lifetime.
-
-In South Korea, fertility rate decline and population decline has become the main issue. South Korea is the only country in the countries of the Economic Cooperation and Development System, the only country that is less than 1 percent of fertility rate.
-
-Total fertility rate refers to the number of average children who give birth to a woman in her lifetime. The average number of children in the South Korean woman's life was 0.78 by 2022. Korean statistical data suggest that it declined to 0.72 by 2023.
-
-The government spends several crores of rupees to change this trend that led to the decline of population. However, women are postponing fertilization because they are worried about their career improvement, income and the costs of raising children, or without having to have children. Due to this, the total fertility rate continues to decline.
-
-◼️
-
-[Data](articles/02b3a737.json)
-
-[Extended Data](ext_articles/02b3a737.ext.json)
-
----
-
-### Keheliya further remanded till March 14
-
-*2024-02-29 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-further-remanded-till-March-14/108-277974) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - Former Health Minister Keheliya Rambukwella who was arrested by the Criminal Investigation Department (CID) over the import of substandard Immunoglobulin injections, was further remanded till March 14 by the Maligakanda Magistrate’s Court.
-
-◼️
-
-[Data](articles/667f2dd8.json)
-
-[Extended Data](ext_articles/667f2dd8.ext.json)
-
----
-
-### Explanation of 7 people, including Keheliya!
-
-*2024-02-29 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177628) · `ta`
-
-Former Health Minister Keheliya Rambukwella, who has been arrested and detained on charges of importing substandard drugs, has been ordered to be remanded until March 14.
-
-◼️
-
-[Data](articles/ee155b4b.json)
-
-[Extended Data](ext_articles/ee155b4b.ext.json)
-
----
-
-### Attack on SJB protest at Vihara Maha Devi Park: SJB seeks SC remedy
-
-*2024-02-29 20:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Attack-on-SJB-protest-at-Vihara-Maha-Devi-Park-SJB-seeks-SC-remedy/108-277973) · `en`
-
-Colombo, Feb 29 (Daily Mirror) - The Samagi Jana Balawegaya (SJB), the main opposition party in Parliament today filed a Fundamental Rights petition in the Supreme Court challenging the police attack on the protest organized by SJB on January 30.
-
-SJB General Secretary Ranjith Madduma Bandara and former Parliamentarian Mujibur Rahuman filed this petition seeking to declare that the conduct of the respondent police officers who gave instructions to fire water cannons and tear gas amounts to subjecting the petitioners to cruel, inhuman or degrading treatment and violation of their fundamental rights to equality and equal protection of the Law, freedom of expression and freedom of assembly.
-
-...
-
-[Data](articles/634fd80e.json)
-
-[Extended Data](ext_articles/634fd80e.ext.json)
-
----
-
-### Survey and seven including Keheliya remanded again
-
-*2024-02-29 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193973) · `si`
-
-Former Minister of Health, Keheliya Rambukwella and the seven suspects have been remanded until March 14.
-
-That is when the standard absolute antibodies and vaccination of vaccine is taken up again in the Maligakanda Magistrate's Court today (29).
-
-◼️
-
-[Data](articles/25c60393.json)
-
-[Extended Data](ext_articles/25c60393.ext.json)
-
----
-
-### Ex-Health Minister Keheliya and six others further remanded
-
-*2024-02-29 20:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97636/ex-health-minister-keheliya-and-six-others-further-remanded) · `en`
-
-Former Health Minister Keheliya Rambukwella, former Health Ministry Secretary Janaka Chandragupta and 5 others have been further remanded until 14th March by the Maligakanda Magistrate Court over the import of substandard human immunoglobulin vials.
-
-Former Minister Rambukwella, who was in remand custody, was produced before the Maligakanda Magistrate’s Court earlier today (29), along with the other accused when the case was taken up.
-
-On 15 February, Rambukwella and six others including former Health Secretary Janaka Chandragupta were remanded until 29 February on orders of the Maligakanda Magistrate’s Court.
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
-
-...
-
-[Data](articles/d8a4e82f.json)
-
-[Extended Data](ext_articles/d8a4e82f.ext.json)
 
 ---
